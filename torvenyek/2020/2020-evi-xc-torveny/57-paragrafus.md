@@ -4,7 +4,7 @@
 
 (3) Az MFB Zrt. által a Gazdaságfejlesztés és Innovációs Operatív Program „Pénzügyi eszközök” prioritási tengelyében a garanciaeszközökre vállalt garancia állománya 2021. december 31-én nem haladhatja meg a 100.000,0 millió forintot.
 
-(4) Az (1) bekezdés szerinti térítési kötelezettség érvényesítéséből eredő fizetési kötelezettséget a forrást biztosító azonos előirányzatból a XIX. Uniós Fejlesztések fejezet, 3. cím, 1. alcím, 1. Gazdaságfejlesztés és Innovációs OP (GINOP) jogcímcsoport terhére kell teljesíteni.
+(4) Az (1) bekezdés szerinti térítési kötelezettség érvényesítéséből eredő fizetési kötelezettséget a forrást biztosító azonos előirányzatból a XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet, 3. cím, 1. alcím, 1. Gazdaságfejlesztés és Innovációs OP (GINOP) jogcímcsoport terhére kell teljesíteni.
 
 (5) Ha a (4) bekezdésben meghatározott előirányzat a térítési kötelezettség érvényesítéséből eredő fizetési kötelezettség teljesítéséhez nem elegendő, a további kifizetések forrásának biztosítása során is fenn kell tartani az Európai Unió költségvetéséből származó támogatás és az ahhoz kapcsolódó hazai társfinanszírozás eredeti előirányzatnak megfelelő arányát.
 

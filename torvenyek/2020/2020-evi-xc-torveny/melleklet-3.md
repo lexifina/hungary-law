@@ -142,7 +142,7 @@ A nem közművel összegyűjtött háztartási szennyvíz ideiglenes begyűjtés
 
 |
 
-3 000,0
+38 000,0
 
 |
 
@@ -668,7 +668,9 @@ h) a „Sikeres Magyarországért Panel Plusz” Hitelprogram keretében lakáss
 
 i) az előirányzat szolgál fedezetül a helyi önkormányzat és társulása számára a Svájci-Magyar Együttműködési Program fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból adódó fizetési kötelezettségek teljesítésére,
 
-j) az előirányzatból 1 500,0 millió forint a bölcsődei fejlesztési program célját szolgálja.
+j) az előirányzatból 1 500,0 millió forint a bölcsődei fejlesztési program célját szolgálja,
+
+k) a huszonötezer főnél nem nagyobb lakosságszámú települési önkormányzat részére a mikro-, kis- és középvállalkozásnak minősülő vállalkozók számára biztosított adómérték-kedvezmény miatt a 2021. évben – a Magyar Államkincstár által az ASP Adó szakrendszerben található, vagy interfészen keresztül az ASP adattárházba átadott adatok alapján szolgáltatott, a 2021. május 17-ei napra vonatkozó adatok szerint – kieső iparűzési adóbevételének összegével megegyező összegű támogatás. A támogatás folyósítása két egyenlő részletben, június és október hónapban a nettó finanszírozás keretében történik. A támogatást az adózó által a 2021. évben végződő – a tevékenységét 2021. január 1-jét követően kezdő, naptári évtől eltérő üzleti évet választó mikro-, kis- és középvállalkozás esetében a 2021. évben kezdődő – adóévről benyújtott bevallás alapján, a 2022. október 17-ei napra vonatkozó adatok szerint kell elszámolni. Ha az elszámolt támogatás települési önkormányzatra összesített összege meghaladja a tárgyévben igénybe vett támogatás összegét, a települési önkormányzat a 2022. évben a két összeg különbözetének megfelelő kiegészítő támogatásra jogosult, ellenkező esetben a települési önkormányzatnak a két összeg különbözetének megfelelő összeget a központi költségvetés javára vissza kell fizetnie. A visszafizetési kötelezettséget az önkormányzat 2022. október 31-éig teljesíti. A megfizetendő összeget kamatfizetési kötelezettség nem terheli.
 
 6.4. A 6.3. pont f) alpontja szerint biztosított támogatás felhasználási határideje tárgyévet követő év december 31.
 

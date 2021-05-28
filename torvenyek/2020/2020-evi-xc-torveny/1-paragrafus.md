@@ -6,19 +6,19 @@
 
 1. § (1) Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2021. évi
 
-a) kiadási főösszegét 23 465 402,0 millió forintban,
+a) kiadási főösszegét 25 052 196,8 millió forintban,
 
-b) bevételi főösszegét 21 974 178,3 millió forintban,
+b) bevételi főösszegét 22 764 468,1 millió forintban,
 
-c) hiányát 1 491 223,7 millió forintban
+c) hiányát 2 287 728,7 millió forintban
 
 állapítja meg.
 
 (2) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai működési költségvetés 2021. évi
 
-a) kiadási főösszegét 19 754 961,5 millió forintban,
+a) kiadási főösszegét 20 195 347,1 millió forintban,
 
-b) bevételi főösszegét 19 754 961,5 millió forintban,
+b) bevételi főösszegét 20 195 347,1 millió forintban,
 
 c) egyenlegét 0,0 millió forintban
 
@@ -26,20 +26,20 @@ c) egyenlegét 0,0 millió forintban
 
 (3) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai felhalmozási költségvetés 2021. évi
 
-a) kiadási főösszegét 2 109 496,1 millió forintban,
+a) kiadási főösszegét 2 341 491,1 millió forintban,
 
-b) bevételi főösszegét 1 090 113,1 millió forintban,
+b) bevételi főösszegét 535 591,9 millió forintban,
 
-c) hiányát 1 019 383,0 millió forintban
+c) hiányát 1 805 899,2 millió forintban
 
 állapítja meg.
 
 (4) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés az európai uniós fejlesztési költségvetés 2021. évi
 
-a) kiadási főösszegét 1 600 944,4 millió forintban,
+a) kiadási főösszegét 2 515 358,6 millió forintban,
 
-b) bevételi főösszegét 1 129 103,7 millió forintban,
+b) bevételi főösszegét 2 033 529,1 millió forintban,
 
-c) hiányát 471 840,7 millió forintban
+c) hiányát 481 829,5 millió forintban
 
 állapítja meg.

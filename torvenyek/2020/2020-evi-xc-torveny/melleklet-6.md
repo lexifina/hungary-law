@@ -1,16 +1,6 @@
 6. melléklet a 2020. évi XC. törvényhez
 
-|
-
-Uniós kötelezettségvállalási keretelőirányzatok 2021-2027
-
-|
-
-|
-
-|
-
-|
+Uniós kötelezettségvállalási keretelőirányzatok 2021–2027
 
 |
 
@@ -20,13 +10,15 @@ Megnevezés
 
 Indikatív forráskeret
 
-a 2021-2027-es időszakban a 2021. évre vonatkozóan
+a 2021–2027-es időszakban
+
+a 2021. évre vonatkozóan
 
 adatok euróban
 
 |
 
-Gazdaságfejlesztés (2021-2027)
+Gazdaságfejlesztés és Innovációs OP Plusz (GINOP Plusz)
 
 |
 
@@ -34,7 +26,7 @@ Gazdaságfejlesztés (2021-2027)
 
 |
 
-Közlekedésfejlesztés (2021-2027)
+Integrált Közlekedésfejlesztés OP Plusz (IKOP Plusz)
 
 |
 
@@ -42,7 +34,7 @@ Közlekedésfejlesztés (2021-2027)
 
 |
 
-Humánerőforrás-fejlesztés (2021-2027)
+Emberi Erőforrás Fejlesztési OP Plusz (EFOP Plusz)
 
 |
 
@@ -50,15 +42,15 @@ Humánerőforrás-fejlesztés (2021-2027)
 
 |
 
-Területfejlesztés (2021-2027)
+Terület- és Településfejlesztési OP Plusz (TOP Plusz)
 
 |
 
-476 000 000
+1 200 000 000
 
 |
 
-Környezetvédelem és energetika (2021-2027)
+Környezeti és Energiahatékonysági OP Plusz (KEHOP Plusz)
 
 |
 
@@ -66,11 +58,19 @@ Környezetvédelem és energetika (2021-2027)
 
 |
 
-Közigazgatás-fejlesztés (2021-2027)
+Digitális Megújulás OP Plusz (DIMOP Plusz)
 
 |
 
-113 000 000
+290 000 000
+
+|
+
+Végrehajtás OP Plusz (VOP Plusz)
+
+|
+
+70 000 000
 
 |
 
@@ -82,7 +82,7 @@ Vidékfejlesztési Program
 
 |
 
-Magyar Halgazdálkodási Operatív Program
+Magyar Halgazdálkodási OP Plusz (MAHOP Plusz)
 
 |
 
@@ -94,7 +94,7 @@ Operatív Programok összesen
 
 |
 
-3 571 000 000
+4 542 000 000
 
 |
 
@@ -107,3 +107,5 @@ Belügyi Alapok összesen
 |
 
 15 000 000
+
+”

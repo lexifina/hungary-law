@@ -56,7 +56,7 @@ Szakmai dolgozók átlagbére alapján számított béralapú támogatás
 
 |
 
-4 234 040 forint/év/foglalkoztatott
+4 442 000 forint/év/foglalkoztatott
 
 |
 
@@ -264,7 +264,7 @@ Szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás
 
 |
 
-9 178 000 forint/év/szolgálat
+9 338 000 forint/év/szolgálat
 
 |
 
@@ -282,7 +282,7 @@ Utcai szociális munka
 
 |
 
-8 178 000 forint/év/szolgálat
+8 311 000 forint/év/szolgálat
 
 |
 
@@ -388,7 +388,9 @@ Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás
 
 |
 
-7 836 115 forint/év/Gyerekház
+8 094 220 forint/év/Gyerek-
+
+ház
 
 II. Támogatások megállapításának, felhasználásának és elszámolásának szabályai
 

@@ -16,4 +16,4 @@ c) a megyei és fővárosi vállalkozásfejlesztési alapítvány mikrohitelezé
 
 (6) Az állami viszontgarancia mértéke az Alapítvány által a Közlemény alapján az Európai Bizottság határozatában jóváhagyott feltételek szerinti Krízis Agrárgarancia Program keretében vállalt készfizető kezesség érvényesítéséből az Alapítványt terhelő fizetési kötelezettség 90%-a.
 
-(7) Az Alapítvány által állami viszontgarancia mellett vállalt készfizető kezesség állománya 2021. december 31-én nem haladhatja meg a 400 000,0 millió forintot azzal, hogy ezen belül a Krízis Agrárgarancia Program keretében vállalt készfizető kezesség állománya legfeljebb 150 000,0 millió forint lehet.
+(7) Az Alapítvány által állami viszontgarancia mellett vállalt készfizető kezesség állománya 2021. december 31-én nem haladhatja meg az 550 000,0 millió forintot.

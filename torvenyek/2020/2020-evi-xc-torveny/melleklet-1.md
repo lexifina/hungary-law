@@ -2956,6 +2956,60 @@ Egyéb működési kiadások
 
 |
 
+26
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Szabályozott Tevékenységek Felügyeleti Hatósága
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Szabályozott Tevékenységek Felügyeleti Hatósága
+
+|
+
+|
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -6752,7 +6806,7 @@ A települési önkormányzatok működésének általános támogatása
 
 |
 
-264 705,3
+265 705,3
 
 |
 
@@ -6782,7 +6836,7 @@ A települési önkormányzatok egyes köznevelési feladatainak támogatása
 
 |
 
-213 567,6
+216 567,6
 
 |
 
@@ -6812,7 +6866,7 @@ A települési önkormányzatok egyes szociális és gyermekjóléti feladataina
 
 |
 
-176 015,9
+179 935,9
 
 |
 
@@ -6842,7 +6896,7 @@ A települési önkormányzatok gyermekétkeztetési feladatainak támogatása
 
 |
 
-86 157,9
+87 024,9
 
 |
 
@@ -6872,7 +6926,7 @@ A települési önkormányzatok kulturális feladatainak támogatása
 
 |
 
-22 379,8
+22 630,8
 
 |
 
@@ -6928,7 +6982,7 @@ A helyi önkormányzatok általános feladatainak működési célú támogatás
 
 |
 
-31 368,1
+66 368,1
 
 |
 
@@ -7080,7 +7134,7 @@ Hazai működési költségvetés
 
 |
 
-842 063,4
+886 101,4
 
 |
 
@@ -7088,7 +7142,7 @@ Hazai működési költségvetés
 
 |
 
--842 063,4
+-886 101,4
 
 |
 
@@ -7164,7 +7218,7 @@ IX. fejezet összesen
 
 |
 
-864 816,4
+908 854,4
 
 |
 
@@ -7172,7 +7226,7 @@ IX. fejezet összesen
 
 |
 
--864 816,4
+-908 854,4
 
 |
 
@@ -8754,7 +8808,7 @@ Egyéb működési kiadások
 
 |
 
-56 761,0
+61 761,0
 
 |
 
@@ -9894,7 +9948,7 @@ Hazai működési költségvetés
 
 |
 
-386 423,5
+391 423,5
 
 |
 
@@ -9902,7 +9956,7 @@ Hazai működési költségvetés
 
 |
 
--340 726,9
+-345 726,9
 
 |
 
@@ -9978,7 +10032,7 @@ XI. fejezet összesen
 
 |
 
-411 393,8
+416 393,8
 
 |
 
@@ -9986,7 +10040,7 @@ XI. fejezet összesen
 
 |
 
--365 687,8
+-370 687,8
 
 |
 
@@ -18350,7 +18404,7 @@ Személyi juttatások
 
 |
 
-18 207,8
+18 851,8
 
 |
 
@@ -18388,7 +18442,7 @@ Egyéb működési kiadások
 
 |
 
-31 723,6
+38 558,6
 
 |
 
@@ -19406,7 +19460,7 @@ Egyetemek, főiskolák
 
 |
 
-11 682,7
+25 677,7
 
 |
 
@@ -19578,7 +19632,7 @@ Közlekedési ágazati programok
 
 |
 
-140,8
+30 140,8
 
 |
 
@@ -19698,7 +19752,7 @@ Fenntarthatósági feladatok és közmű-szolgáltatások
 
 |
 
-18 815,8
+27 001,2
 
 |
 
@@ -19948,7 +20002,7 @@ Felsőoktatás speciális feladatai
 
 |
 
-3 451,6
+8 851,6
 
 |
 
@@ -20448,7 +20502,7 @@ Hazai működési költségvetés
 
 |
 
-1 362 122,9
+1 383 187,3
 
 |
 
@@ -20456,7 +20510,7 @@ Hazai működési költségvetés
 
 |
 
--991 360,1
+-1 012 424,5
 
 |
 
@@ -20476,7 +20530,7 @@ Hazai felhalmozási költségvetés
 
 |
 
-13 039,9
+57 034,9
 
 |
 
@@ -20484,7 +20538,7 @@ Hazai felhalmozási költségvetés
 
 |
 
-62 967,4
+18 972,4
 
 |
 
@@ -20532,7 +20586,7 @@ XVII. fejezet összesen
 
 |
 
-1 375 162,8
+1 440 222,2
 
 |
 
@@ -20540,7 +20594,7 @@ XVII. fejezet összesen
 
 |
 
--928 392,7
+-993 452,1
 
 |
 
@@ -21492,6 +21546,62 @@ Rendvédelmi szolgálati juttatás tartalék
 
 |
 
+8
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Központi kezelésű előirányzatok
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Brexit Alkalmazkodási Tartalék (BAR)
+
+|
+
+3 850,0
+
+|
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -21604,7 +21714,7 @@ Európai uniós fejlesztési költségvetés
 
 |
 
-0,0
+3 850,0
 
 |
 
@@ -21612,7 +21722,7 @@ Európai uniós fejlesztési költségvetés
 
 |
 
-0,0
+-3 850,0
 
 |
 
@@ -21632,7 +21742,7 @@ XVIII. fejezet összesen
 
 |
 
-192 915,1
+196 765,1
 
 |
 
@@ -21640,7 +21750,7 @@ XVIII. fejezet összesen
 
 |
 
--184 836,7
+-188 686,7
 
 |
 
@@ -21818,7 +21928,7 @@ bevétel
 
 |
 
-XIX. UNIÓS FEJLESZTÉSEK
+XIX. GAZDASÁG-ÚJRAINDÍTÁSI ALAP UNIÓS FEJLESZTÉSEI
 
 |
 
@@ -22060,13 +22170,13 @@ Gazdaságfejlesztés és Innovációs OP (GINOP)
 
 |
 
-213 581,8
+276 893,9
 
 |
 
 |
 
-143 305,0
+185 513,1
 
 |
 
@@ -22610,17 +22720,17 @@ Kohéziós politikai operatív programok 2021-2027
 
 |
 
-Gazdaságfejlesztés (2021-2027)
+Gazdaságfejlesztés és Innovációs OP Plusz (GINOP Plusz)
 
 |
 
-47 876,7
+110 876,7
 
 |
 
 |
 
-32 123,3
+74 123,3
 
 |
 
@@ -22644,7 +22754,7 @@ Gazdaságfejlesztés (2021-2027)
 
 |
 
-Közlekedésfejlesztés (2021-2027)
+Integrált Közlekedésfejlesztés OP Plusz (IKOP Plusz)
 
 |
 
@@ -22678,17 +22788,11 @@ Közlekedésfejlesztés (2021-2027)
 
 |
 
-Humánerőforrás-fejlesztés (2021-2027)
-
-|
-
-17 733,7
-
 |
 
 |
 
-7 266,3
+|
 
 |
 
@@ -22712,17 +22816,17 @@ Humánerőforrás-fejlesztés (2021-2027)
 
 |
 
-Területfejlesztés (2021-2027)
+Terület- és Településfejlesztési OP Plusz (TOP Plusz)
 
 |
 
-4 817,0
+53 817,0
 
 |
 
 |
 
-20 183,0
+216 183,0
 
 |
 
@@ -22746,7 +22850,7 @@ Területfejlesztés (2021-2027)
 
 |
 
-Környezetvédelem és energetika (2021-2027)
+Környezeti és Energiahatékonysági OP Plusz (KEHOP Plusz)
 
 |
 
@@ -22780,17 +22884,83 @@ Környezetvédelem és energetika (2021-2027)
 
 |
 
-Közigazgatás-fejlesztés (2021-2027)
+Digitális Megújulás OP Plusz (DIMOP Plusz)
 
 |
 
-4 881,2
+19 881,2
 
 |
 
 |
 
-118,8
+10 118,8
+
+|
+
+|
+
+|
+
+|
+
+8
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Végrehajtás OP Plusz (VOP Plusz)
+
+|
+
+4 892,0
+
+|
+
+|
+
+152,0
+
+|
+
+|
+
+|
+
+10
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Helyreállítási és Ellenállóképességi Eszköz (RRF)
+
+|
+
+75 000,0
+
+|
+
+|
+
+375 000,0
 
 |
 
@@ -22910,7 +23080,7 @@ Európai uniós fejlesztési költségvetés
 
 |
 
-1 569 697,7
+2 480 261,9
 
 |
 
@@ -22918,7 +23088,7 @@ Európai uniós fejlesztési költségvetés
 
 |
 
--1 557 321,9
+-2 467 886,1
 
 |
 
@@ -22938,7 +23108,7 @@ XIX. fejezet összesen
 
 |
 
-1 589 173,7
+2 499 737,9
 
 |
 
@@ -22946,7 +23116,7 @@ XIX. fejezet összesen
 
 |
 
--1 576 797,9
+-2 487 362,1
 
 |
 
@@ -26300,7 +26470,7 @@ Köznevelési célú humánszolgáltatás és működési támogatás
 
 |
 
-281 715,4
+282 266,9
 
 |
 
@@ -28836,7 +29006,7 @@ Hazai működési költségvetés
 
 |
 
-3 018 221,1
+3 018 772,6
 
 |
 
@@ -28844,7 +29014,7 @@ Hazai működési költségvetés
 
 |
 
--2 154 570,4
+-2 155 121,9
 
 |
 
@@ -28920,7 +29090,7 @@ XX. fejezet összesen
 
 |
 
-3 083 061,4
+3 083 612,9
 
 |
 
@@ -28928,7 +29098,7 @@ XX. fejezet összesen
 
 |
 
--2 219 186,4
+-2 219 737,9
 
 |
 
@@ -37702,7 +37872,7 @@ Társasági adó
 
 |
 
-538 500,0
+446 700,0
 
 |
 
@@ -37972,7 +38142,7 @@ Rehabilitációs hozzájárulás
 
 |
 
-116 200,0
+103 600,0
 
 |
 
@@ -38118,13 +38288,13 @@ Fogyasztáshoz kapcsolt adók
 
 |
 
-4 067 359,3
+4 642 380,5
 
 |
 
 |
 
-947 648,7
+393 127,5
 
 |
 
@@ -38150,7 +38320,7 @@ Jövedéki adó
 
 |
 
-1 263 100,0
+1 248 600,0
 
 |
 
@@ -38300,7 +38470,7 @@ Turizmusfejlesztési hozzájárulás
 
 |
 
-29 600,0
+7 600,0
 
 |
 
@@ -38356,7 +38526,7 @@ Személyi jövedelemadó
 
 |
 
-2 683 500,0
+2 717 800,0
 
 |
 
@@ -38416,7 +38586,7 @@ Lakossági illetékek
 
 |
 
-218 700,0
+194 100,0
 
 |
 
@@ -38660,7 +38830,7 @@ Hulladéklerakási járulékból származó bevétel
 
 |
 
-21 600,0
+18 164,4
 
 |
 
@@ -38894,13 +39064,13 @@ Tárgyévet megelőző években teljesített kiadások uniós bevétele (KOP)
 
 |
 
-255 864,5
+414 572,1
 
 |
 
 |
 
-597 017,1
+967 334,1
 
 |
 
@@ -39242,13 +39412,77 @@ Egyéb programok 2021-2027
 
 |
 
-1 204,0
+3 477,9
 
 |
 
 |
 
-4 816,1
+13 911,5
+
+|
+
+|
+
+19
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Helyreállítási és Ellenállóképességi Eszköz (RRF)
+
+|
+
+|
+
+55 000,0
+
+|
+
+|
+
+271 000,0
+
+|
+
+|
+
+20
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kohéziós Operatív Programok 2021-2027
+
+|
+
+|
+
+11 409,4
+
+|
+
+|
+
+26 622,1
 
 |
 
@@ -39948,7 +40182,7 @@ Kiadások támogatására pénzeszköz-átadás
 
 |
 
-316 075,0
+424 775,0
 
 |
 
@@ -40040,7 +40274,7 @@ Kiadások támogatására pénzeszköz-átadás
 
 |
 
-236 044,9
+261 044,9
 
 |
 
@@ -40334,7 +40568,7 @@ Hozzájárulás az EU költségvetéséhez
 
 |
 
-450 360,6
+615 302,5
 
 |
 
@@ -40576,15 +40810,15 @@ Hazai működési költségvetés
 
 |
 
-1 813 206,8
+2 111 848,7
 
 |
 
-10 685 371,4
+11 125 757,0
 
 |
 
-8 872 164,6
+9 013 908,3
 
 |
 
@@ -40608,11 +40842,11 @@ Hazai felhalmozási költségvetés
 
 |
 
-947 648,7
+393 127,5
 
 |
 
-925 502,7
+370 981,5
 
 |
 
@@ -40636,11 +40870,11 @@ Európai uniós fejlesztési költségvetés
 
 |
 
-1 116 273,8
+2 020 699,2
 
 |
 
-1 116 273,8
+2 020 699,2
 
 |
 
@@ -40660,15 +40894,15 @@ XLII. fejezet összesen
 
 |
 
-1 835 352,8
+2 133 994,7
 
 |
 
-12 749 293,9
+13 539 583,7
 
 |
 
-10 913 941,1
+11 405 589,0
 
 |
 
@@ -43330,7 +43564,7 @@ bevétel
 
 |
 
-XLVII. GAZDASÁGVÉDELMI ALAP
+XLVII. GAZDASÁG-ÚJRAINDÍTÁSI ALAP
 
 |
 
@@ -43414,11 +43648,11 @@ Központi tartalékok
 
 |
 
-Gazdaságvédelmi programok
+Gazdaság-újraindítási programok
 
 |
 
-68 000,0
+108 000,0
 
 |
 
@@ -43476,7 +43710,7 @@ Beruházás Előkészítési Alap
 
 |
 
-A Közép-Duna menti térségfejlesztés gazdaságvédelmi központi kezelésű előirányzatai
+A Közép-Duna menti térségfejlesztés gazdaság-újraindítási központi kezelésű előirányzatai
 
 |
 
@@ -43598,7 +43832,7 @@ Eximbank Zrt. kamatkiegyenlítése
 
 |
 
-Az állami vagyongazdálkodás gazdaságvédelmi központi kezelésű előirányzatai
+Az állami vagyongazdálkodás gazdaság-újraindítási központi kezelésű előirányzatai
 
 |
 
@@ -43660,7 +43894,7 @@ Filmszakmai közvetett támogatások mozgókép törvény szerinti kiegészítő
 
 |
 
-Gazdaságvédelmet szolgáló társadalompolitikai célok
+Gazdaság újraindítását szolgáló társadalompolitikai célok
 
 |
 
@@ -43762,7 +43996,7 @@ Lakástámogatások
 
 |
 
-223 785,0
+343 785,0
 
 |
 
@@ -43810,7 +44044,7 @@ Fejezeti kezelésű előirányzatok
 
 |
 
-Gazdaságvédelmet szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok
+Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok
 
 |
 
@@ -44228,7 +44462,7 @@ Nemzeti agrártámogatások
 
 |
 
-Gazdaságvédelmet szolgáló pénzügyi fejezeti kezelésű előirányzatok
+Gazdaság újraindítását szolgáló pénzügyi fejezeti kezelésű előirányzatok
 
 |
 
@@ -44356,7 +44590,7 @@ Szentháromság téri ingatlanberuházás
 
 |
 
-Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok
+Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok
 
 |
 
@@ -44428,7 +44662,7 @@ Közúti fejlesztések
 
 |
 
-203 748,6
+223 748,6
 
 |
 
@@ -44596,7 +44830,7 @@ Gazdaságfejlesztési programok
 
 |
 
-25 707,7
+56 797,5
 
 |
 
@@ -44704,7 +44938,7 @@ Felsőoktatási vagyongazdálkodási feladatok
 
 |
 
-2 000,0
+50 000,0
 
 |
 
@@ -44758,7 +44992,7 @@ Felsőoktatási vagyongazdálkodási feladatok
 
 |
 
-Gazdaságvédelmet szolgáló külügyi fejezeti kezelésű előirányzatok
+Gazdaság újraindítását szolgáló külügyi fejezeti kezelésű előirányzatok
 
 |
 
@@ -44886,7 +45120,7 @@ Kötött segélyhitelezés
 
 |
 
-Gazdaságvédelmet szolgáló emberi erőforrások fejezeti kezelésű előirányzatok
+Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok
 
 |
 
@@ -45180,7 +45414,7 @@ Köznevelési intézmények felújítása, beruházása
 
 |
 
-Gazdaságvédelmet szolgáló miniszterelnöki kabineti fejezeti kezelésű előirányzatok
+Gazdaság újraindítását szolgáló miniszterelnöki kabineti fejezeti kezelésű előirányzatok
 
 |
 
@@ -45340,13 +45574,13 @@ Agrártudományi Kutatóközpont fejlesztéséhez kapcsolódó beruházások tá
 
 |
 
-657 714,5
+728 804,3
 
 |
 
 |
 
-1 411 318,6
+1 599 318,6
 
 |
 
@@ -45366,7 +45600,7 @@ Agrártudományi Kutatóközpont fejlesztéséhez kapcsolódó beruházások tá
 
 |
 
-Gazdaságvédelmi Alap - Kiemelt Kormányzati Magasépítési Beruházások
+Gazdaság-újraindítási Alap - Kiemelt Kormányzati Magasépítési Beruházások
 
 |
 
@@ -45570,7 +45804,7 @@ Beruházási tartalék
 
 |
 
-Gazdaságvédelmi Foglalkoztatási Alap
+Gazdaság-újraindítási Foglalkoztatási Alap
 
 |
 
@@ -45940,7 +46174,7 @@ Bérgarancia támogatás törlesztése
 
 |
 
-Társadalombiztosítási járulék Gazdaságvédelmi Foglalkoztatási Alapot megillető része
+Társadalombiztosítási járulék Gazdaság-újraindítási Foglalkoztatási Alapot megillető része
 
 |
 
@@ -46040,7 +46274,7 @@ Hazai működési költségvetés
 
 |
 
-1 053 642,6
+1 124 732,4
 
 |
 
@@ -46048,7 +46282,7 @@ Hazai működési költségvetés
 
 |
 
--625 497,7
+-696 587,5
 
 |
 
@@ -46068,7 +46302,7 @@ Hazai felhalmozási költségvetés
 
 |
 
-1 556 761,4
+1 744 761,4
 
 |
 
@@ -46076,7 +46310,7 @@ Hazai felhalmozási költségvetés
 
 |
 
--1 556 006,3
+-1 744 006,3
 
 |
 
@@ -46124,7 +46358,7 @@ XLVII. fejezet összesen
 
 |
 
-2 610 404,0
+2 869 493,8
 
 |
 
@@ -46132,7 +46366,7 @@ XLVII. fejezet összesen
 
 |
 
--2 181 504,0
+-2 440 593,8
 
 |
 
@@ -48984,7 +49218,7 @@ Szociális hozzájárulási adó Ny. Alapot megillető része
 
 |
 
-1 752 500,0
+1 662 500,0
 
 |
 
@@ -49014,7 +49248,7 @@ Társadalombiztosítási járulék Ny. Alapot megillető része és nyugdíjjár
 
 |
 
-1 680 800,0
+1 662 100,0
 
 |
 
@@ -49196,7 +49430,7 @@ Kiadások támogatására tervezett pénzeszköz-átvétel
 
 |
 
-316 075,0
+424 775,0
 
 |
 
@@ -50276,7 +50510,7 @@ Szociális hozzájárulási adó E. Alapot megillető része
 
 |
 
-694 300,0
+658 500,0
 
 |
 
@@ -50470,7 +50704,7 @@ Kiadások támogatására tervezett pénzeszköz-átvétel, egészségügyi fela
 
 |
 
-241 444,9
+266 444,9
 
 |
 
@@ -52276,7 +52510,7 @@ Egyéb működési kiadások
 
 |
 
-2 803 262,6
+2 792 462,6
 
 |
 
@@ -52364,7 +52598,7 @@ Kiskereskedelmi adó
 
 |
 
-54 000,0
+64 800,0
 
 |
 
@@ -52422,7 +52656,7 @@ Gépjárműadó
 
 |
 
-141 000,0
+151 800,0
 
 |
 
@@ -52632,11 +52866,11 @@ Hazai működési költségvetés
 
 |
 
-19 754 961,5
+20 195 347,1
 
 |
 
-19 754 961,5
+20 195 347,1
 
 |
 
@@ -52660,15 +52894,15 @@ Hazai felhalmozási költségvetés
 
 |
 
-2 109 496,1
+2 341 491,1
 
 |
 
-1 090 113,1
+535 591,9
 
 |
 
--1 019 383,0
+-1 805 899,2
 
 |
 
@@ -52688,15 +52922,15 @@ Európai uniós fejlesztési költségvetés
 
 |
 
-1 600 944,4
+2 515 358,6
 
 |
 
-1 129 103,7
+2 033 529,1
 
 |
 
--471 840,7
+-481 829,5
 
 |
 
@@ -52716,12 +52950,12 @@ Központi alrendszer összesen
 
 |
 
-23 465 402,0
+25 052 196,8
 
 |
 
-21 974 178,3
+22 764 468,1
 
 |
 
--1 491 223,7
+-2 287 728,7

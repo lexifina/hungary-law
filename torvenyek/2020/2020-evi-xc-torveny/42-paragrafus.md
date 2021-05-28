@@ -20,6 +20,6 @@ b) a 2. melléklet I. rész 1.3.2.14. Támogató szolgáltatás és 1.3.2.15. K�
 
 (5) Az (1) bekezdés szerinti támogatás és a (2) bekezdés szerinti kiegészítő támogatás elszámolása a XX. Emberi Erőforrások Minisztériuma fejezet terhére, illetve javára történik.
 
-(6) A Gyvt. 44. §-a szerinti munkahelyi bölcsőde fenntartóját – az (1)–(2) bekezdéstől eltérően – a 2. melléklet I. rész 1.3.2.12. Családi bölcsőde jogcímmel azonos mértékű támogatás illeti meg.
+(6) A Gyvt. 44. §-a szerinti munkahelyi bölcsőde fenntartóját – az (1)–(2) bekezdéstől eltérően – a 2. melléklet I. rész 1.3.2.12. Családi bölcsőde jogcím szabályai szerint, azzal azonos mértékű támogatás illeti meg.
 
 (7) A nem állami szociális fenntartó részére a Kormány rendeletben az (1)–(2) bekezdésben meghatározott támogatáson túl további hozzájárulást állapíthat meg.

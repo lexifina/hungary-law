@@ -750,7 +750,7 @@ Bírósági döntésből eredő kiadások (2. cím, 4. alcím, 5. jogcímcsoport
 
 |
 
-XLVII. GAZDASÁGVÉDELMI ALAP fejezetben
+XLVII. GAZDASÁG-ÚJRAINDÍTÁSI ALAP fejezetben
 
 |
 
@@ -835,6 +835,20 @@ Passzív kiadások, álláskeresési támogatások (4. cím, 3. alcím)
 |
 
 Bérgarancia kifizetések (4. cím, 4. alcím)
+
+|
+
+60a
+
+|
+
+|
+
+|
+
+|
+
+EU-s elő- és társfinanszírozás (4. cím, 7. alcím)
 
 |
 
@@ -1139,6 +1153,20 @@ Egyéb kiadások (1. cím, 2. alcím, 15. jogcímcsoport, 3. jogcím)
 |
 
 Vagyongazdálkodás (1. cím, 3. alcím)
+
+|
+
+82a
+
+|
+
+|
+
+|
+
+|
+
+Járvány Elleni Védekezés Központi Tartaléka (2. cím, 1. alcím)
 
 |
 
@@ -1468,7 +1496,7 @@ Egyetemes postai szolgáltató méltánytalan többletterhének megtérítése (
 
 |
 
-XLVII. GAZDASÁGVÉDELMI ALAP fejezetben
+XLVII. GAZDASÁG-ÚJRAINDÍTÁSI ALAP fejezetben
 
 |
 
@@ -1536,7 +1564,9 @@ Start-munkaprogram (4. cím, 6. alcím)
 
 |
 
-Az európai uniós tagsághoz kapcsolódó támogatások felhasználása érdekében a törvényi kiadási előirányzat 30%-ig az államháztartásért felelős miniszter, e fölött a Kormány döntése alapján túlléphető:
+Az európai uniós tagsághoz kapcsolódó támogatások felhasználása érdekében, illetve
+
+ha az átcsoportosítási szabályokban foglalt lehetőségek kimerültek, az együttes eredeti kiadási előirányzat 30%-ig az államháztartásért felelős miniszter engedélye, e fölött a Kormány döntése alapján túlléphető:
 
 |
 
@@ -1660,6 +1690,30 @@ Európai Területi Együttműködés (2021-2027) (26. cím, 4. alcím)
 
 |
 
+121a
+
+|
+
+|
+
+|
+
+XVIII. KÜLGAZDASÁGI ÉS KÜLÜGYMINISZTÉRIUM fejezetben
+
+|
+
+121b
+
+|
+
+|
+
+|
+
+Brexit Alkalmazkodási Tartalék (BAR) (8. cím, 3. alcím)
+
+|
+
 122
 
 |
@@ -1668,7 +1722,7 @@ Európai Területi Együttműködés (2021-2027) (26. cím, 4. alcím)
 
 |
 
-XIX. UNIÓS FEJLESZTÉSEK fejezetben
+XIX. GAZDASÁG-ÚJRAINDÍTÁSI ALAP UNIÓS FEJLESZTÉSEI fejezetben
 
 |
 
@@ -1892,7 +1946,7 @@ Magyar Halgazdálkodási Operatív Program (3. cím, 8. alcím, 2. jogcímcsopor
 
 |
 
-Gazdaságfejlesztés (2021-2027) (3. cím, 9. alcím, 1. jogcímcsoport)
+Gazdaságfejlesztés és Innovációs OP Plusz (GINOP Plusz) (3. cím, 9. alcím, 1. jogcímcsoport)
 
 |
 
@@ -1906,7 +1960,7 @@ Gazdaságfejlesztés (2021-2027) (3. cím, 9. alcím, 1. jogcímcsoport)
 
 |
 
-Közlekedésfejlesztés (2021-2027) (3. cím, 9. alcím, 2. jogcímcsoport)
+Integrált Közlekedésfejlesztés OP Plusz (IKOP Plusz) (3. cím, 9. alcím, 2. jogcímcsoport)
 
 |
 
@@ -1920,8 +1974,6 @@ Közlekedésfejlesztés (2021-2027) (3. cím, 9. alcím, 2. jogcímcsoport)
 
 |
 
-Humánerőforrás-fejlesztés (2021-2027) (3. cím, 9. alcím, 3. jogcímcsoport)
-
 |
 
 141
@@ -1934,7 +1986,7 @@ Humánerőforrás-fejlesztés (2021-2027) (3. cím, 9. alcím, 3. jogcímcsoport
 
 |
 
-Területfejlesztés (2021-2027) (3. cím, 9. alcím, 4. jogcímcsoport)
+Terület- és Településfejlesztési OP Plusz (TOP Plusz) (3. cím, 9. alcím, 4. jogcímcsoport)
 
 |
 
@@ -1948,7 +2000,7 @@ Területfejlesztés (2021-2027) (3. cím, 9. alcím, 4. jogcímcsoport)
 
 |
 
-Környezetvédelem és energetika (2021-2027) (3. cím, 9. alcím, 6. jogcímcsoport)
+Környezeti és Energiahatékonysági OP Plusz (KEHOP Plusz) (3. cím, 9. alcím, 6. jogcímcsoport)
 
 |
 
@@ -1962,7 +2014,35 @@ Környezetvédelem és energetika (2021-2027) (3. cím, 9. alcím, 6. jogcímcso
 
 |
 
-Közigazgatás-fejlesztés (2021-2027) (3. cím, 9. alcím, 7. jogcímcsoport)
+Digitális Megújulás OP Plusz (DIMOP Plusz) (3. cím, 9. alcím, 7. jogcímcsoport)
+
+|
+
+143a
+
+|
+
+|
+
+|
+
+|
+
+Végrehajtás OP Plusz (VOP Plusz) (3. cím, 9. alcím, 8. jogcímcsoport)
+
+|
+
+143b
+
+|
+
+|
+
+|
+
+|
+
+Helyreállítási és Ellenállóképességi Eszköz (RRF) (3. cím, 10. alcím)
 
 |
 
@@ -1970,11 +2050,7 @@ Közigazgatás-fejlesztés (2021-2027) (3. cím, 9. alcím, 7. jogcímcsoport)
 
 |
 
-4.
-
 |
-
-Amennyiben az Operatív Törzs döntésének végrehajtásához szükséges, az államháztartásért felelős miniszter engedélyével túlléphető:
 
 |
 
@@ -1985,8 +2061,6 @@ Amennyiben az Operatív Törzs döntésének végrehajtásához szükséges, az 
 |
 
 |
-
-LXXII. EGÉSZSÉGBIZTOSÍTÁSI ÉS JÁRVÁNY ELLENI VÉDEKEZÉSI ALAP fejezetben
 
 |
 
@@ -1999,8 +2073,6 @@ LXXII. EGÉSZSÉGBIZTOSÍTÁSI ÉS JÁRVÁNY ELLENI VÉDEKEZÉSI ALAP fejezetben
 |
 
 |
-
-Járvány Elleni Védekezés Központi Tartaléka (2. cím, 1. alcím)
 
 |
 
@@ -2077,3 +2149,41 @@ XX. EMBERI ERŐFORRÁSOK MINISZTÉRIUMA fejezetben
 |
 
 Egyéb térítések (21. cím, 1. alcím, 4. jogcímcsoport, 2. jogcím)
+
+|
+
+153
+
+|
+
+7.
+
+|
+
+Amennyiben e túllépéssel együtt is teljesül az államadósság-mutató csökkenése a 2021. évben, az előirányzat a Kormány jóváhagyásával túlléphető:
+
+|
+
+154
+
+|
+
+|
+
+|
+
+XLVII. GAZDASÁG-ÚJRAINDÍTÁSI ALAP fejezetben
+
+|
+
+155
+
+|
+
+|
+
+|
+
+|
+
+Gazdaság-újraindítási programok (1. cím, 1. alcím, 1. jogcímcsoport)

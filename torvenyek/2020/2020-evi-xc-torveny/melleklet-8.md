@@ -424,7 +424,25 @@ Iskolában, kollégiumban, gyógypedagógiai, konduktív pedagógiai nevelési-o
 
 |
 
-3 200 000 forint/számított létszám/év
+3 318 000 forint/számított létszám/év
+
+|
+
+23a
+
+|
+
+1.4.3.
+
+|
+
+Diabétesz ellátási pótlék
+
+|
+
+|
+
+160 000 forint/számított létszám/négy hó
 
 |
 
@@ -668,7 +686,7 @@ b) a gyermek kiegészítő nemzetiségi óvodai nevelését a kiegészítő nemz
 
 1.15. A Magyar Államkincstár fenntartó székhelye szerinti illetékes igazgatósága, ha e törvény másképp nem rendelkezik a támogatásban részesülő fenntartók számára havi ütemezésben – jogszabályban meghatározott fenntartói változásjelentéssel érintett utalásig e törvény alapján – folyósítja a támogatást.
 
-1.16. Óvoda esetén alkalmazni kell az 1.1.-1.4., 1.6.-1.7., 1.9., 1.13.-1.15., 2.5., 2.9.-2.13., 11.1., 11.4.-11.5., 12.2., 13.1., 14., 16., 17., 18. és 19. pontban foglaltakat.
+1.16. Óvoda esetén alkalmazni kell az 1.1.–1.4., 1.6.–1.7., 1.9., 1.13.–1.15., 2.5., 2.9.–2.13., 11.1., 11.4.–11.5., 12.2., 13.1., 13a., 14., 16., 17., 18. és 19. pontban foglaltakat.
 
 2. 1.1. Átlagbéralapú támogatás jogcím megállapításának közös szabályai
 
@@ -714,7 +732,7 @@ e) A gyermek-, és tanulólétszám meghatározása feladatellátási helyenkén
 
 2.11. A pedagógus szakképzettséggel rendelkező, a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak számított létszámán azok teljes munkaidőre átszámított létszámát kell érteni, továbbá, ha munkakörük több köznevelési alapfeladat ellátásához is kapcsolódik, az 1.1.2. Általános iskolában foglalkoztatott pedagógusok átlagbéralapú támogatása - 1.1.8. Pedagógiai szakszolgálati intézményben foglalkoztatott pedagógusok átlagbéralapú támogatása jogcímek közül azon jogcímen kell őket figyelembe venni, ahol a legmagasabb az intézményben nevelt, oktatott gyermekek, tanulók létszáma. A pedagógus szakképzettséggel rendelkező, a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak köznevelési Kjtvhr. 4. melléklete szerint elismerhető létszáma vehető figyelembe, de legfeljebb a 2021. évben a ténylegesen foglalkoztatott segítők – teljes munkaidőre átszámított – átlagos létszáma, egy tizedesre kerekítve. A szakképző intézményben foglalkoztatott pedagógus végzetséggel rendelkező, közvetlenül nem a szakmai alapfeladat-ellátással összefüggő feladat ellátására létesített munkakörben foglalkoztatottak után 1.1.4. Technikumban, szakképző iskolában foglalkoztatott oktatók átlagbéralapú támogatása jogcímen támogatás nem vehető igénybe.
 
-2.12. Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja, illetve az Szkt. 22. § (1) bekezdés d) pontja szerinti fenntartók köznevelési, szakképzési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, oktatók, valamint a nevelő és oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege az 1.1. Átlagbéralapú támogatás jogcímen az egyes intézménytípusoknál, 1.2. Kiegészítő támogatás a pedagógusok minősítéséből adódó többletkiadásaihoz, 1.4. Pedagógus szakképzettséggel vagy szakképesítéssel nem rendelkező nevelő és oktató munkát közvetlenül segítők átlagbérének támogatása jogcímeken az egyes intézménytípusoknál meghatározottak 30%-a a köznevelést, szakképzést alapfeladatként végző, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot –, továbbá az Szja tv. hatálya alá tartozó vállalkozó esetén.
+2.12. Az Nkt. 2. § (3) bekezdés b) pont bd) alpontja, illetve az Szkt. 22. § (1) bekezdés d) pontja szerinti fenntartók köznevelési, szakképzési feladatot ellátó intézményeiben foglalkoztatott pedagógusok, oktatók, valamint a nevelő és oktató munkát közvetlenül segítők átlagbére és közterhei elismert összege az 1.1. Átlagbéralapú támogatás jogcímen az egyes intézménytípusoknál, 1.2. Kiegészítő támogatás a pedagógusok minősítéséből adódó többletkiadásaihoz, 1.3. Kiegészítő támogatás a differenciált nemzetiségi pótlékhoz, 1.4. Pedagógus szakképzettséggel vagy szakképesítéssel nem rendelkező nevelő és oktató munkát közvetlenül segítők átlagbérének támogatása jogcímeken az egyes intézménytípusoknál meghatározottak 30%-a a köznevelést, szakképzést alapfeladatként végző, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény hatálya alá tartozó gazdasági társaság – ide nem értve a nonprofit gazdasági társaságot, illetve a fenntartói megállapodással rendelkező gazdasági társaságot –, továbbá az Szja tv. hatálya alá tartozó vállalkozó esetén.
 
 2.13. A támogatás felhasználásával kapcsolatos közös szabályok:
 
@@ -1051,6 +1069,14 @@ b) Az összeg 11 havi időarányos része illeti meg 2021. február hónaptól a
 13.3. Az év végi elszámolás a 2021. évben havonta, ténylegesen foglalkoztatott nevelő és oktató munkát közvetlenül segítők teljes munkaidőre átszámított és egy tizedesre kerekített átlagos létszáma alapján történik.
 
 13.4. A támogatás szakképző intézményben nem a szakmai alapfeladat-ellátással összefüggő feladat ellátására létesített munkakör érdekében foglalkoztatottak után nem vehető figyelembe.
+
+13a. 1.4.3. Diabétesz ellátási pótlék jogcím
+
+13a. 1. A fenntartót kiegészítő támogatás illeti meg az óvodai, tanulói jogviszonnyal rendelkező, 1-es típusú diabétesszel élő, 14 év alatti gyermekek, tanulók speciális napközbeni támogatását ellátó pedagógus, vagy a legalább érettségivel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott alkalmazottak számított létszáma után. Ha a nevelési-oktatási intézménnyel – feladatellátási helyenként vizsgálva – 1-es típusú diabétesszel élő, 14 év alatti gyermek, tanuló áll óvodai, tanulói jogviszonyban, akkor egy fő, feladatellátási helyenként minden öt ilyen gyermek, tanuló után további egy-egy fő alkalmazott vehető figyelembe.
+
+13a. 2. A támogatás a 2021. szeptember 1-je és 2021. december 31-e között ténylegesen foglalkoztatott, a diabéteszes gyermek/tanuló ellátásában részt vevő pedagógusok, vagy a legalább érettségivel rendelkező, nevelő-oktató munkát közvetlenül segítők teljes munkaidőre átszámított, egy tizedesre kerekített éves átlaglétszáma alapján illeti meg a fenntartót.
+
+13a. 3. A kiegészítő támogatás igényléséhez a fenntartó a nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet (a továbbiakban: Vhr) 37/C. § (4) bekezdése szerinti pótigényt, illetve a Vhr. 37/D. § szerinti esetben kérelmet nyújt be. A kiegészítő támogatás folyósítására, elszámolására, ellenőrzésére és visszafizetésére a Vhr. szabályait, valamint e törvény átlagbéralapú támogatásaira vonatkozó szabályait kell alkalmazni.
 
 14. 1.5. A nemzetiségi önkormányzat, a bevett egyházak és annak belső egyházi jogi személye által fenntartott köznevelési és szakképző intézmények működésének támogatása jogcím
 

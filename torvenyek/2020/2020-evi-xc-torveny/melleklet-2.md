@@ -54,7 +54,7 @@ A települési önkormányzatok működésének általános támogatása
 
 |
 
-264 705,3
+265 705,3
 
 |
 
@@ -90,7 +90,7 @@ A települési önkormányzatok működésének támogatása
 
 |
 
-5 475 000 forint/fő
+5 492 000 forint/fő
 
 |
 
@@ -252,7 +252,7 @@ A települési önkormányzatok egyes köznevelési feladatainak támogatása
 
 |
 
-213 567,6
+216 567,6
 
 |
 
@@ -966,7 +966,7 @@ A köznevelési Kjtvhr. 16. § (6) bekezdés a) pont ab) alpontja alapján nemze
 
 |
 
-A köznevelési Kjtvhr. 16. § (6) bekezdése a) pont aa) alpontja alapján nemzetiségi pótlékban részesülő pedagógus
+A köznevelési Kjtvhr. 16. § (6) bekezdés a) pont aa) alpontja alapján nemzetiségi pótlékban részesülő pedagógus
 
 |
 
@@ -1092,7 +1092,7 @@ Pedagógus szakképzettséggel nem rendelkező segítők átlagbéralapú támog
 
 |
 
-2 919 000 forint/létszám/év
+3 318 000 forint/létszám/év
 
 |
 
@@ -1144,7 +1144,7 @@ Pedagógus szakképzettséggel nem rendelkező segítők átlagbéralapú támog
 
 |
 
-1 459 500 forint/létszám/év
+1 659 000 forint/létszám/év
 
 |
 
@@ -1184,6 +1184,24 @@ Társulás által fenntartott óvodákba bejáró gyermekek utaztatásának tám
 
 |
 
+67a
+
+|
+
+1.2.7.
+
+|
+
+Diabétesz ellátási pótlék
+
+|
+
+|
+
+120 000 forint/fő/három hó
+
+|
+
 68
 
 |
@@ -1196,7 +1214,7 @@ A települési önkormányzatok egyes szociális és gyermekjóléti feladataina
 
 |
 
-176 015,9
+179 935,9
 
 |
 
@@ -1248,7 +1266,7 @@ Család- és gyermekjóléti szolgálat
 
 |
 
-4 100 000 forint/számított létszám/év
+4 256 200 forint/számított létszám/év
 
 |
 
@@ -1266,7 +1284,7 @@ Család- és gyermekjóléti központ
 
 |
 
-3 650 000 forint/számított létszám/év
+3 828 555 forint/számított létszám/év
 
 |
 
@@ -1300,7 +1318,7 @@ Szociális étkeztetés - önálló feladatellátás
 
 |
 
-66 360 forint/fő
+67 570 forint/fő
 
 |
 
@@ -1318,7 +1336,7 @@ Szociális étkeztetés - társulás által történő feladatellátás
 
 |
 
-72 996 forint/fő
+74 328 forint/fő
 
 |
 
@@ -1370,7 +1388,7 @@ Személyi gondozás - önálló feladatellátás
 
 |
 
-363 000 forint/fő
+378 110 forint/fő
 
 |
 
@@ -1388,7 +1406,7 @@ Személyi gondozás - társulás által történő feladatellátás
 
 |
 
-471 900 forint/fő
+491 550 forint/fő
 
 |
 
@@ -1422,7 +1440,7 @@ Falugondnoki szolgáltatás
 
 |
 
-4 479 000 forint/szolgálat
+4 572 000 forint/szolgálat
 
 |
 
@@ -1440,7 +1458,7 @@ Tanyagondnoki szolgáltatás
 
 |
 
-4 479 000 forint/szolgálat
+4 572 000 forint/szolgálat
 
 |
 
@@ -1468,13 +1486,13 @@ Időskorúak nappali intézményi ellátása
 
 |
 
-Időskorúak nappali intézményi ellátása - önálló feladatellátás
+Időskorúak nappali intézményi ellátása – önálló feladatellátás
 
 |
 
 |
 
-217 000 forint/fő
+224 190 forint/fő
 
 |
 
@@ -1486,13 +1504,13 @@ Időskorúak nappali intézményi ellátása - önálló feladatellátás
 
 |
 
-Időskorúak nappali intézményi ellátása - társulás által történő feladatellátás
+Időskorúak nappali intézményi ellátása – társulás által történő feladatellátás
 
 |
 
 |
 
-325 500 forint/fő
+336 285 forint/fő
 
 |
 
@@ -1504,13 +1522,13 @@ Időskorúak nappali intézményi ellátása - társulás által történő fela
 
 |
 
-Foglalkoztatási támogatásban részesülő időskorúak nappali intézményben ellátottak - önálló feladatellátás
+Foglalkoztatási támogatásban részesülő időskorúak nappali intézményben ellátottak – önálló feladatellátás
 
 |
 
 |
 
-130 200 forint/fő
+134 500 forint/fő
 
 |
 
@@ -1522,13 +1540,13 @@ Foglalkoztatási támogatásban részesülő időskorúak nappali intézményben
 
 |
 
-Foglalkoztatási támogatásban részesülő időskorúak nappali intézményben ellátottak - társulás által történő feladatellátás
+Foglalkoztatási támogatásban részesülő időskorúak nappali intézményben ellátottak – társulás által történő feladatellátás
 
 |
 
 |
 
-195 300 forint/fő
+201 750 forint/fő
 
 |
 
@@ -1562,7 +1580,7 @@ Fogyatékos személyek nappali intézményi ellátása - önálló feladatellát
 
 |
 
-732 000 forint/fő
+755 880 forint/fő
 
 |
 
@@ -1580,7 +1598,7 @@ Fogyatékos személyek nappali intézményi ellátása - társulás által tört
 
 |
 
-805 200 forint/fő
+831 468 forint/fő
 
 |
 
@@ -1598,7 +1616,7 @@ Foglalkoztatási támogatásban részesülő fogyatékos nappali intézményben 
 
 |
 
-439 200 forint/fő
+453 528 forint/fő
 
 |
 
@@ -1616,7 +1634,7 @@ Foglalkoztatási támogatásban részesülő fogyatékos nappali intézményben 
 
 |
 
-483 120 forint/fő
+498 880 forint/fő
 
 |
 
@@ -1644,13 +1662,15 @@ Demens személyek nappali intézményi ellátása
 
 |
 
-Demens személyek nappali intézményi ellátása - önálló feladatellátás
+Demens személyek nappali intézményi ellátása
+
+– önálló feladatellátás
 
 |
 
 |
 
-732 000 forint/fő
+746 546 forint/fő
 
 |
 
@@ -1662,13 +1682,15 @@ Demens személyek nappali intézményi ellátása - önálló feladatellátás
 
 |
 
-Demens személyek nappali intézményi ellátása - társulás által történő feladatellátás
+Demens személyek nappali intézményi ellátása
+
+– társulás által történő feladatellátás
 
 |
 
 |
 
-805 200 forint/fő
+821 200 forint/fő
 
 |
 
@@ -1680,13 +1702,13 @@ Demens személyek nappali intézményi ellátása - társulás által történő
 
 |
 
-Foglalkoztatási támogatásban részesülő demens nappali intézményben ellátottak - önálló feladatellátás
+Foglalkoztatási támogatásban részesülő demens nappali intézményben ellátottak – önálló feladatellátás
 
 |
 
 |
 
-439 200 forint/fő
+447 928 forint/fő
 
 |
 
@@ -1698,13 +1720,13 @@ Foglalkoztatási támogatásban részesülő demens nappali intézményben ellá
 
 |
 
-Foglalkoztatási támogatásban részesülő demens nappali intézményben ellátottak - társulás által történő feladatellátás
+Foglalkoztatási támogatásban részesülő demens nappali intézményben ellátottak – társulás által történő feladatellátás
 
 |
 
 |
 
-483 120 forint/fő
+492 720 forint/fő
 
 |
 
@@ -1738,7 +1760,7 @@ Pszichiátriai betegek nappali intézményi ellátása - önálló feladatellát
 
 |
 
-375 000 forint/fő
+382 150 forint/fő
 
 |
 
@@ -1756,7 +1778,7 @@ Pszichiátriai betegek nappali intézményi ellátása - társulás által tört
 
 |
 
-450 000 forint/fő
+458 580 forint/fő
 
 |
 
@@ -1774,7 +1796,7 @@ Foglalkoztatási támogatásban részesülő, nappali intézményben ellátott p
 
 |
 
-225 000 forint/fő
+229 290 forint/fő
 
 |
 
@@ -1792,7 +1814,7 @@ Foglalkoztatási támogatásban részesülő, nappali intézményben ellátott p
 
 |
 
-270 000 forint/fő
+275 148 forint/fő
 
 |
 
@@ -1826,7 +1848,7 @@ Szenvedélybetegek nappali intézményi ellátása - önálló feladatellátás
 
 |
 
-375 000 forint/fő
+382 150 forint/fő
 
 |
 
@@ -1844,7 +1866,7 @@ Szenvedélybetegek nappali intézményi ellátása - társulás által történ�
 
 |
 
-450 000 forint/fő
+458 580 forint/fő
 
 |
 
@@ -1862,7 +1884,7 @@ Foglalkoztatási támogatásban részesülő, nappali intézményben ellátott s
 
 |
 
-225 000 forint/fő
+229 290 forint/fő
 
 |
 
@@ -1880,7 +1902,7 @@ Foglalkoztatási támogatásban részesülő, nappali intézményben ellátott s
 
 |
 
-270 000 forint/fő
+275 148 forint/fő
 
 |
 
@@ -1914,7 +1936,7 @@ Hajléktalanok nappali intézményi ellátása - önálló feladatellátás
 
 |
 
-251 100 forint/fő
+258 300 forint/fő
 
 |
 
@@ -1932,7 +1954,7 @@ Hajléktalanok nappali intézményi ellátása - társulás által történő fe
 
 |
 
-301 320 forint/fő
+309 960 forint/fő
 
 |
 
@@ -1984,7 +2006,7 @@ Családi bölcsőde - önálló feladatellátás
 
 |
 
-758 000 forint/fő
+859 540 forint/fő
 
 |
 
@@ -2002,7 +2024,7 @@ Családi bölcsőde - társulás által történő feladatellátás
 
 |
 
-985 400 forint/fő
+1 117 400 forint/fő
 
 |
 
@@ -2054,7 +2076,7 @@ Hajléktalanok átmeneti szállása - önálló feladatellátás
 
 |
 
-601 350 forint/férőhely
+618 280 forint/férőhely
 
 |
 
@@ -2072,7 +2094,7 @@ Hajléktalanok átmeneti szállása időszakos férőhely - önálló feladatell
 
 |
 
-601 350 forint/férőhely
+618 280 forint/férőhely
 
 |
 
@@ -2090,7 +2112,7 @@ Hajléktalanok éjjeli menedékhelye - önálló feladatellátás
 
 |
 
-601 350 forint/férőhely
+618 280 forint/férőhely
 
 |
 
@@ -2108,7 +2130,7 @@ Hajléktalanok éjjeli menedékhelye időszakos férőhely - önálló feladatel
 
 |
 
-601 350 forint/férőhely
+618 280 forint/férőhely
 
 |
 
@@ -2126,7 +2148,7 @@ Hajléktalanok átmeneti szállása - társulás által történő feladatellát
 
 |
 
-661 485 forint/férőhely
+680 108 forint/férőhely
 
 |
 
@@ -2144,7 +2166,7 @@ Hajléktalanok átmeneti szállása időszakos férőhely - társulás által t�
 
 |
 
-661 485 forint/férőhely
+680 108 forint/férőhely
 
 |
 
@@ -2162,7 +2184,7 @@ Hajléktalanok éjjeli menedékhelye - társulás által történő feladatellá
 
 |
 
-661 485 forint/férőhely
+680 108 forint/férőhely
 
 |
 
@@ -2180,7 +2202,7 @@ Hajléktalanok éjjeli menedékhelye időszakos férőhely - társulás által t
 
 |
 
-661 485 forint/férőhely
+680 108 forint/férőhely
 
 |
 
@@ -2198,7 +2220,7 @@ Kizárólag lakhatási szolgáltatás
 
 |
 
-300 675 forint/férőhely
+309 140 forint/férőhely
 
 |
 
@@ -2250,7 +2272,7 @@ Teljesítménytámogatás
 
 |
 
-2 800 forint/feladategység
+2 888 forint/feladategység
 
 |
 
@@ -2318,7 +2340,7 @@ Teljesítménytámogatás
 
 |
 
-211 000 forint/feladategység
+217 116 forint/feladategység
 
 |
 
@@ -2370,7 +2392,7 @@ Teljesítménytámogatás
 
 |
 
-211 000 forint/feladategység
+217 116 forint/feladategység
 
 |
 
@@ -2488,7 +2510,7 @@ Bértámogatás
 
 |
 
-4 234 040 forint/számított létszám
+4 442 000 forint/számított létszám
 
 |
 
@@ -2520,7 +2542,7 @@ A települési önkormányzatok gyermekétkeztetési feladatainak támogatása
 
 |
 
-86 157,9
+87 024,9
 
 |
 
@@ -2556,7 +2578,7 @@ Intézményi gyermekétkeztetés - bértámogatás
 
 |
 
-2 376 000 forint/számított létszám
+2 430 000 forint/számított létszám
 
 |
 
@@ -2606,7 +2628,7 @@ A települési önkormányzatok kulturális feladatainak támogatása
 
 |
 
-22 379,8
+22 630,8
 
 |
 
@@ -2626,7 +2648,7 @@ Megyeszékhely megyei jogú városok és Szentendre Város Önkormányzata közm
 
 |
 
-950 forint/fő
+961 forint/fő
 
 |
 
@@ -2644,7 +2666,9 @@ Települési önkormányzatok nyilvános könyvtári és a közművelődési fel
 
 |
 
-2 170 forint/fő, de legalább
+2 206 forint/fő,
+
+de legalább
 
 2 270 000 forint
 
@@ -2664,7 +2688,7 @@ Budapest Főváros Önkormányzata múzeumi, könyvtári és közművelődési f
 
 |
 
-1 171 000 000
+1 185 000 000 forint
 
 |
 
@@ -2682,7 +2706,7 @@ Fővárosi kerületi önkormányzatok közművelődési feladatainak támogatás
 
 |
 
-560 forint/fő
+567 forint/fő
 
 |
 
@@ -3562,11 +3586,11 @@ c) 10 001 fő lakosságszám alatti település esetében: 69 forint/m2.
 
 7.2. A támogatás fajlagos összege
 
-a) Főváros, fővárosi kerületek, megyei jogú város, 40 000 fő lakosságszám feletti város esetében: 470 000 forint/km,
+a) Főváros, fővárosi kerületek, megyei jogú város, 40 000 fő lakosságszám feletti város esetében: 480 000 forint/km,
 
-b) 10 001 - 40 000 fő lakosságszám közötti település esetében: 295 000 forint/km,
+b) 10 001–40 000 fő lakosságszám közötti település esetében: 304 000 forint/km,
 
-c) 10 001 fő lakosságszám alatti település esetében: 227 000 forint/km.
+c) 10 001 fő lakosságszám alatti település esetében: 235 000 forint/km.
 
 7.3. A településen lévő belterületi út hosszát az OSAP-jelentés „Helyi közutak és hidak adatai” alapján kell figyelembe venni.
 
@@ -3632,7 +3656,7 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 13.1.1. Az óvoda 2020/2021. és 2021/2022. nevelési év október 1-jei köznevelési statisztikai adata, az óvodai ellátást 2020. október 2-a és december 31-e vagy 2021. október 2-a és december 31-e között első alkalommal ténylegesen igénybevevők száma és a létszámadatokat megalapozó nyomtatványok, nyilvántartások alapján történik.
 
-13.1.2. Számításba kell venni azt a gyermeket, aki az óvodakötelezettségét Magyarországon teljesíti, akit nem mentettek fel az óvodai foglakozásokon való részvétel alól, aki a felvételétől számított hat hónapon belül betölti a harmadik életévét, aki krízisközpontban vagy a titkos menedékházban elhelyezett ellátásra tekintettel ideiglenes óvodai jogviszonyt létesített.
+13.1.2. Számításba kell venni azt a gyermeket, aki az óvodakötelezettségét Magyarországon teljesíti, akit nem mentettek fel az óvodai foglakozásokon való részvétel alól, aki a felvételétől számított hat hónapon belül betölti a harmadik életévét, aki krízisközpontban vagy a titkos menedékházban elhelyezett ellátásra tekintettel ideiglenes óvodai jogviszonyt létesített. Ha a szakértői bizottság a nevelési év alatt állapítja meg, hogy a gyermek sajátos nevelési igényű, a gyermeket az adott nevelési évben egy gyermekként kell figyelembe venni.
 
 13.1.3. Az óvodai nevelésben részesülő integráltan nevelt sajátos nevelési igényű gyermekek számát a pedagógusok számított létszámának megállapításakor az Nkt. 47. § (7) bekezdésében meghatározottak szerint kell figyelembe venni.
 
@@ -3710,11 +3734,13 @@ Vi1; Vi2 = a V1 és V2 vezetői létszámra - az Nkt. 5. mellékletében - megá
 
 15.3.3. Többcélú intézmény óvodai intézményegység-vezető intézményenként legfeljebb 1 fő létszámként vehető figyelembe, feltéve, hogy az intézménynek nem magasabb vezetője, vagy más az Nkt. 1. melléklet szerinti vezetője.
 
+15.3.4. A magasabb vezetői, illetve vezetői feladatokat ellátó személy több vezetői beosztás esetén intézményen belül egy fő vezetőként vagy magasabb vezetőként vehető figyelembe.
+
 15.4. A támogatás felhasználható a 2020. december havi bérek 2021. januárban történő kifizetésére is.
 
 16. 1.2.3. Kiegészítő támogatás a pedagógusok és a pedagógus szakképzettséggel rendelkező segítők minősítéséből adódó többletkiadásokhoz jogcím
 
-16.1. A központi költségvetés kiegészítő támogatást biztosít az Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2021. január 1-jén Pedagógus II., Mesterpedagógus vagy Kutatótanár fokozatú besorolással rendelkező pedagógusok, a bölcsődében és mini bölcsődében foglalkoztatott felsőfokú végzettségű kisgyermeknevelők (a továbbiakban: felsőfokú végzettségű kisgyermeknevelők), valamint Pedagógus II. fokozatba átsorolt, pedagógus szakképzettséggel rendelkező segítők béréhez. A támogatás az önkormányzatot az általa fenntartott óvodai, bölcsődei és mini bölcsődei intézményben 2021. évben ténylegesen foglalkoztatott pedagógusok, felsőfokú végzettségű kisgyermeknevelők és pedagógus szakképzettséggel rendelkező segítők időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg.
+16.1. A központi költségvetés kiegészítő támogatást biztosít az Nkt. 64. §-a szerinti előmeneteli rendszer keretén belül lebonyolított minősítési eljárás során 2021. január 1-jén Pedagógus II., Mesterpedagógus vagy Kutatótanár fokozatú besorolással rendelkező pedagógusok, a bölcsődében és mini bölcsődében foglalkoztatott felsőfokú végzettségű kisgyermeknevelők (a továbbiakban: felsőfokú végzettségű kisgyermeknevelők), valamint Pedagógus II. fokozatba átsorolt, pedagógus szakképzettséggel rendelkező segítők béréhez. A támogatás az önkormányzatot az általa fenntartott óvodai, bölcsődei és mini bölcsődei intézményben 2021. évben ténylegesen foglalkoztatott pedagógusok, felsőfokú végzettségű kisgyermeknevelők és pedagógus szakképzettséggel rendelkező segítők teljes munkaidőre átszámított, időarányosan figyelembe vett, egy tizedesre kerekített száma alapján illeti meg.
 
 16.2. A támogatás felhasználható a 2020. december havi bérek 2021. januárban történő kifizetésére is.
 
@@ -3728,7 +3754,7 @@ Vi1; Vi2 = a V1 és V2 vezetői létszámra - az Nkt. 5. mellékletében - megá
 
 a) alapító okiratában szerepel a nemzetiségi óvodai nevelés és
 
-b) a nemzetiségi óvodai nevelést a nemzetiség óvodai nevelésének irányelve figyelembevételével elkészített pedagógiai program alapján szervezi meg.
+b) a nemzetiségi óvodai nevelést a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendeletben leírtakra figyelemmel szervezi meg.
 
 17.3. A támogatás felhasználható a 2020. december havi nemzetiségi pótlék 2021. januárban történő kifizetésére is.
 
@@ -3784,7 +3810,7 @@ c) az adott feladathoz járó alaptámogatás igénylésére az önkormányzat j
 
 20.1.6. Amennyiben az önkormányzat egyes szociális és gyermekjóléti feladatok ellátásáról a 20.1.4.-20.1.5. pontok szerinti társulás útján gondoskodik, úgy az önkormányzat az ellátottak után a társulás által történő feladatellátásnak megfelelő, magasabb fajlagos összegű támogatásra jogosult.
 
-20.1.7. Az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, az 1.3.4. A települési önkormányzatok által biztosított egyes szociális szakosított ellátások, valamint a gyermekek átmeneti gondozásával kapcsolatos feladatok támogatása jogcím szerinti támogatások igénybevételének feltétele az ellátott adatainak - a Szoctv. 20/C. § (1)-(4) bekezdése, illetve a Gyvt. 139. § (2) és (3) bekezdése szerinti - nyilvántartásba vétele, valamint az időszakos jelentési kötelezettség teljesítése. A támogatás igénybevételére a fenntartó attól az időponttól jogosult, amikor a nyilvántartásba vettek ellátását az időszakos jelentés szerint ténylegesen megkezdte.
+20.1.7. Az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, az 1.3.4. A települési önkormányzatok által biztosított egyes szociális szakosított ellátások, valamint a gyermekek átmeneti gondozásával kapcsolatos feladatok támogatása jogcím szerinti támogatások igénybevételének feltétele az ellátott adatainak – a Szoctv. 20/C. § (1)–(4) bekezdése, illetve a Gyvt. 139. § (2) és (3) bekezdése szerinti – nyilvántartásba vétele, valamint az időszakos jelentési kötelezettség teljesítése. A támogatás igénybevételére a fenntartó attól az időponttól jogosult, amikor a nyilvántartásba vett ellátást az időszakos jelentés szerint ténylegesen megkezdte.
 
 20.1.8. Ha az önkormányzatok egymás közötti és önkormányzati körön kívüli feladat-, illetve intézmény átadása-átvétele következtében az érintett felek a finanszírozást pénzeszközátadással, -átvétellel egymás közötti megállapodás útján rendezik, úgy a nyilvántartásba vétel és az időszakos jelentési kötelezettség teljesítése az átvevő fenntartó tekintetében vizsgálandó.
 
@@ -3826,7 +3852,7 @@ e) hajléktalan személyek nappali ellátásában
 
 is részesül.
 
-20.2.5. Házi segítségnyújtás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen nappali ellátásban is részesül.
+20.2.5. Házi segítségnyújtás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen nappali ellátásban is részesül, ide nem értve a demens betegek nappali ellátását.
 
 20.2.6. Adatszolgáltatási kötelezettséggel járó és támogatott szociális alapszolgáltatás esetén a támogatás szempontjából nem vehető figyelembe az ellátott arra a napra, amelyen adatszolgáltatási kötelezettséggel járó és támogatott gyermekjóléti alapellátásban, gyermekvédelmi szakellátásban vagy szociális szakosított ellátásban is részesül, a 20.2.7.-20.2.12. pontokban meghatározott kivételekkel.
 
@@ -3852,9 +3878,11 @@ is részesül.
 
 20.2.17. A teljesített feladategység meghatározása során nem vehető figyelembe támogató szolgáltatás esetén az adott napon az azzal az ellátottal teljesített feladategység, aki ugyanazon a napon a Szoctv. 20/C. § (2) bekezdésének és a Gyvt. 139. § (3) bekezdésének hatálya alá nem tartozó
 
-a) szociális szakellátásban - az éjjeli menedékhely, hajléktalanok átmeneti szállása, fogyatékos személyek gondozóháza, időskorúak gondozóháza, idősek otthona, hajléktalanok otthona, fogyatékos személyek otthona, hajléktalan személyek rehabilitációs intézménye, fogyatékos személyek rehabilitációs intézménye, fogyatékos személyek rehabilitációs célú lakóotthona vagy fogyatékos személyek ápoló-gondozó célú lakóotthona támogatott lakhatás kivételével - vagy
+a) szociális szakellátásban – az éjjeli menedékhely, hajléktalanok átmeneti szállása, fogyatékos személyek gondozóháza, időskorúak gondozóháza, idősek otthona, hajléktalanok otthona, fogyatékos személyek otthona, hajléktalan személyek rehabilitációs intézménye, fogyatékos személyek rehabilitációs intézménye, fogyatékos személyek rehabilitációs célú lakóotthona vagy fogyatékos személyek ápoló-gondozó célú lakóotthona támogatott lakhatás kivételével –
 
-b) gyermekvédelmi szakellátásban - otthont nyújtó ellátás, utógondozói ellátás, utógondozás kivételével -
+b) gyermekvédelmi szakellátásban – otthont nyújtó ellátás, utógondozói ellátás, utógondozás kivételével – vagy
+
+c) gyermekjóléti alapellátásban – a bölcsődei ellátás keretén belül biztosított intézményi vagy szolgáltatási forma kivételével –
 
 is részesül.
 
@@ -3950,6 +3978,8 @@ minimuma
 
 |
 
+100
+
 |
 
 95
@@ -3967,6 +3997,8 @@ minimuma
 24 000
 
 |
+
+95
 
 |
 
@@ -4040,7 +4072,7 @@ K2019 = az önkormányzat által a 2019. évi költségvetési beszámolóban a 
 
 21.6. A támogatás felhasználásával kapcsolatos szabály:
 
-21.6.1. A támogatás elsősorban az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának önkormányzatok általi, szociális alapon történő támogatására, valamint a 3. melléklet 6.3. pont h) alpontja szerinti ellátások önrészére, az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím és az 1.4.1. Intézményi gyermekétkeztetés támogatása jogcím szerinti, az önkormányzat vagy társulása által ellátott és támogatott feladatokra használható.
+21.6.1. A támogatás elsősorban az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának önkormányzatok általi, szociális alapon történő támogatására, valamint a 3. melléklet 6.3. pont h) alpontja szerinti ellátások önrészére, az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, az 1.4.1. Intézményi gyermekétkeztetés támogatása jogcím és az 1.4.2. Szünidei étkeztetés támogatása jogcím szerinti, az önkormányzat vagy társulása által ellátott és támogatott feladatokra használható.
 
 21.6.2. A támogatás szempontjából kizárólag
 
@@ -4054,11 +4086,9 @@ d) a „Lakásfenntartással, lakhatással összefüggő ellátások”,
 
 e) az „Egyéb szociális pénzbeli és természetbeni ellátások, támogatások”, valamint
 
-f) az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím és az 1.4.1. Intézményi gyermekétkeztetés támogatása jogcím szerinti támogatásoknál az e melléklet szerint alkalmazható
+f) az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, az 1.4.1. Intézményi gyermekétkeztetés támogatása jogcím és az 1.4.2. Szünidei étkeztetés támogatása jogcím szerinti támogatásoknál az e melléklet szerint alkalmazható kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
-kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
-
-Amennyiben az önkormányzat az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím és az 1.4.1. Intézményi gyermekétkeztetés támogatása jogcím szerinti feladatokra támogatásban nem részesül, de e feladatok ellátásához társulás vagy másik önkormányzat felé a „Támogatási célú finanszírozási műveletek” kormányzati funkción teljesített kiadással hozzájárul, úgy ennek összege a támogatás elszámolása szempontjából figyelembe vehető.
+Amennyiben az önkormányzat az 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím, az 1.3.3. Bölcsőde, mini bölcsőde támogatása jogcím, az 1.4.1. Intézményi gyermekétkeztetés támogatása jogcím és az 1.4.2. Szünidei étkeztetés támogatása jogcím szerinti feladatokra támogatásban nem részesül, de e feladatok ellátásához társulás vagy másik önkormányzat felé a „Támogatási célú finanszírozási műveletek” kormányzati funkción teljesített kiadással hozzájárul, úgy ennek összege a támogatás elszámolása szempontjából figyelembe vehető.
 
 22. 1.3.2. Egyes szociális és gyermekjóléti feladatok támogatása jogcím
 
@@ -4366,7 +4396,7 @@ L = az eseménynapló alapján összesített éves létszám, a heti 6, illetve 
 
 36.1. A támogatás az önkormányzat által fenntartott családi bölcsődébe beíratott és ellátott gyermekek után vehető igénybe.
 
-36.2. Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült számának figyelembevételével meghatározott gondozási napok száma osztva 230-cal, elszámolásnál a havi jelentőlapok szerinti, naponta ténylegesen ellátásban részesülő gyermekek száma alapján összesített éves gondozási napok száma osztva 230-cal.
+36.2. Az ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült számának figyelembevételével meghatározott gondozási napok száma osztva 230-cal, elszámolásnál a havi jelentőlapok szerinti, naponta ténylegesen ellátásban részesülő gyermekek száma alapján összesített éves gondozási napok száma osztva 230-cal. A veszélyhelyzettel érintett napokon a támogatás szempontjából figyelembe vehető beíratott gyermekek száma a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet alapján a szolgáltatói nyilvántartásba bejegyzett férőhelyszám 80%-a vagy az igénybevevői nyilvántartás alapján ellátott gyermekek száma közül a kedvezőbb.
 
 36.3. Az ellátottak között
 
@@ -4436,33 +4466,15 @@ Tt = 1.3.2.15.1.2. Teljesítménytámogatás jogcím vagy 1.3.2.15.2.2. Teljesí
 
 40.1. Az önkormányzatokat kötött felhasználású támogatás illeti meg az általuk fenntartott bölcsődék, mini bölcsődék kiadásaihoz.
 
-40.2. Az ellátottak számának meghatározása
-
-|
-
-a) tervezéskor a beíratott gyermekek naponként figyelembe vett éves becsült létszáma osztva 230-cal,
-
-|
-
-b) elszámoláskor a beíratott gyermekek naponként figyelembe vett éves tényleges létszáma osztva 230-cal.
+40.2. Az ellátottak száma a tárgyév január 31-én beíratott gyermekek száma, vagy a bölcsőde szolgáltatói nyilvántartásban szereplő férőhelyszám 80%-a közül a kedvezőbb. Amennyiben a bölcsőde, mini bölcsőde nem egész évben működik, a férőhelyszámot a működés megkezdését követő hónap 1-jétől, illetve megszűnése hónapjának utolsó napjáig időarányosan kell megállapítani. Amennyiben a beíratott gyermekek száma nem éri el az engedélyezett férőhelyszám legalább 50%-át, úgy a támogatással figyelembe vehető ellátottak száma a bölcsőde szolgáltatói nyilvántartásban szereplő férőhelyszám 50%-a.
 
 40.2.1. A beíratott és a támogatás szempontjából figyelembe vett gyermekek létszáma egyetlen alkalommal és összesen sem haladhatja meg a szolgáltatói nyilvántartásban szereplő férőhelyszámot.
 
 40.2.2. A bölcsődébe, mini bölcsődébe beíratottnak az a gyermek minősül, akit az intézménybe felvettek, beírattak és megjelenik a napi nyilvántartási rendszerben.
 
-40.2.3. Az adott hónapban valamennyi nyitvatartási napon figyelembe vehető az a gyermek, aki 10 napnál többet a hónapban nem hiányzott. Nem vehető figyelembe ugyanakkor az adott hónap egyetlen nyitvatartási napján sem az a gyermek, aki a hónapban 10 napnál többet hiányzott.
+40.2.3. A nevelés nélküli munkanapon, valamint a nyári zárva tartás idején az ügyeletet biztosító intézményben kell jelenteni az áthelyezett, beíratott gyermeket. Az ügyeletet biztosító intézményben a gyermekek létszáma egyetlen napon sem haladhatja meg a szolgáltatói nyilvántartásban szereplő férőhelyszám 120%-át.
 
-40.2.4. A nevelés nélküli munkanapon, valamint a nyári zárvatartás idején az ügyeletet biztosító intézményben kell jelenteni az áthelyezett, beíratott gyermeket (a továbbiakban: ügyeletes ellátás). Abban a hónapban, amikor a beíratott gyermek ügyeletes ellátást is igénybe vesz, - a legfeljebb 10 napos hiányzási határérték szempontjából - a beíratása szerinti és az ügyeletes intézmény szerinti hiányzási napokat egybe kell számítani. Az ügyeletet biztosító intézményben a gyermekek létszáma egyetlen napon sem haladhatja meg a szolgáltatói nyilvántartásban szereplő férőhelyszám 120 %-át.
-
-40.2.5. Az intézmény nyári zárvatartása idején a támogatás azon beíratott gyermek után vehető igénybe, aki az adott hónapban az intézménnyel jogviszonyban állt és a napi nyilvántartási rendszerben megjelent. Amennyiben az intézmény a hónap egyetlen napján sem tart nyitva, abban az esetben támogatás arra a hónapra nem vehető igénybe.
-
-40.2.6. Amennyiben a gyermek első alkalommal (beszoktatás első napja) vagy az igénybevétel utolsó hónapjában nem egész hónapra jelenik meg beíratottként az intézményben és a napi nyilvántartásban, akkor a támogatás - a legfeljebb 10 napos hiányzási határérték figyelmen kívül hagyásával - a ténylegesen igénybe vett napok száma alapján jár, feltéve, hogy ezeken a napokon a gyermek jogviszonyban is állt az intézménnyel.
-
-40.2.7. A napi nyilvántartási rendszerben vezetett adatoknak és a bölcsődében, mini bölcsődében rendszeresített napi jelenlét kimutatásának egyezni kell.
-
-40.2.8. Nem tekintendő hiányzónak a sajátos nevelési igényű, valamint a korai fejlesztésre, gondozásra jogosult gyermek azon a napon, amikor nem a bölcsődében, mini bölcsődében részesül korai fejlesztésben.
-
-40.2.9. A sajátos nevelési igényű, valamint a korai fejlesztésre, gondozásra jogosult gyermekeket az ellátottak számában két főként kell figyelembe venni.
+40.2.4. A sajátos nevelési igényű, valamint a korai fejlesztésre, gondozásra jogosult gyermekeket az ellátottak számában két főként kell figyelembe venni.
 
 40.3. A támogatás felhasználásával kapcsolatos szabályok:
 
@@ -5078,11 +5090,11 @@ A támogatás szempontjából kizárólag az „Intézményen kívüli gyermeké
 
 50. 1.5. A települési önkormányzatok kulturális feladatainak támogatása jogcím
 
-50.1. A támogatások a kulturális alapellátás biztosításához, a muzeális intézmények fenntartásához, a nyilvános könyvtári feladatok ellátásához és a közművelődési alapszolgáltatások biztosításához járulnak hozzá.
+50.1. A támogatások a kulturális alapellátás biztosításához, a muzeális intézmények fenntartásához, a nyilvános könyvtári feladatok ellátásához és a közművelődési alapszolgáltatások biztosításához, valamint a kulturális intézményekben foglalkoztatottak közalkalmazotti jogviszonyának átalakulásáról, valamint egyes kulturális tárgyú törvények módosításáról szóló 2020. évi XXXII. törvény alapján tett továbbfoglalkoztatási ajánlatot elfogadók számára biztosított differenciált béremeléshez járulnak hozzá. A támogatások szolgálnak a kulturális tevékenységet végző közalkalmazottak kulturális illetménypótléka, és az arra tekintettel fizetendő szociális hozzájárulási adó kifizetésére is.
 
 51. 1.5.1. Megyeszékhely megyei jogú városok és Szentendre Város Önkormányzata közművelődési feladatainak támogatása jogcím
 
-51.1. A támogatás a megyeszékhely megyei jogú városok és Szentendre Város Önkormányzatát lakosságszám alapján illeti meg a Mötv., valamint a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvényben (a továbbiakban: Kult. tv.) meghatározott közművelődési alapszolgáltatások biztosításához.
+51.1. A támogatás a megyeszékhely megyei jogú városok és Szentendre Város Önkormányzatát lakosságszám alapján illeti meg a Mötv., valamint a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvényben (a továbbiakban: Kult. tv.) meghatározott nyilvános könyvtári és muzeális intézményi feladatainak ellátásához és a közművelődési alapszolgáltatások biztosításához.
 
 51.2. A támogatás szempontjából kizárólag
 
@@ -5090,9 +5102,23 @@ a) a „Közművelődés - közösségi és társadalmi részvétel fejlesztése
 
 b) a „Közművelődés - hagyományos közösségi kulturális értékek gondozása”,
 
-c) a „Közművelődés - egész életre kiterjedő tanulás, amatőr művészetek”, valamint
+c) a „Közművelődés – egész életre kiterjedő tanulás, amatőr művészetek”,
 
-d) a „Közművelődés - kulturális alapú gazdaságfejlesztés”
+d) a „Közművelődés – kulturális alapú gazdaságfejlesztés”,
+
+e) a „Könyvtári állomány gyarapítása, nyilvántartása”,
+
+f) a „Könyvtári állomány feltárása, megőrzése, védelme”,
+
+g) a „Könyvtári szolgáltatások”,
+
+h) a „Múzeumi gyűjteményi tevékenység”,
+
+i) a „Múzeumi tudományos feldolgozó és publikációs tevékenység”,
+
+j) a „Múzeumi kiállítási tevékenység”, valamint
+
+k) „Múzeumi közművelődési, közönségkapcsolati tevékenység”
 
 kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
@@ -5144,9 +5170,17 @@ d) a „Közművelődés - közösségi és társadalmi részvétel fejlesztése
 
 e) a „Közművelődés - hagyományos közösségi kulturális értékek gondozása”,
 
-f) a „Közművelődés - egész életre kiterjedő tanulás, amatőr művészetek”, valamint
+f) a „Közművelődés – egész életre kiterjedő tanulás, amatőr művészetek”,
 
-g) a „Közművelődés - kulturális alapú gazdaságfejlesztés”
+g) a „Közművelődés – kulturális alapú gazdaságfejlesztés”,
+
+h) a „Múzeumi gyűjteményi tevékenység”,
+
+i) a „Múzeumi tudományos feldolgozó és publikációs tevékenység”,
+
+j) a „Múzeumi kiállítási tevékenység”, valamint
+
+k) a „Múzeumi közművelődési, közönségkapcsolati tevékenység”
 
 kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
@@ -5164,9 +5198,23 @@ a) a „Közművelődés - közösségi és társadalmi részvétel fejlesztése
 
 b) a „Közművelődés - hagyományos közösségi kulturális értékek gondozása”,
 
-c) a „Közművelődés - egész életre kiterjedő tanulás, amatőr művészetek”, valamint
+c) a „Közművelődés – egész életre kiterjedő tanulás, amatőr művészetek”,
 
-d) a „Közművelődés - kulturális alapú gazdaságfejlesztés”
+d) a „Közművelődés – kulturális alapú gazdaságfejlesztés”,
+
+e) a „Könyvtári állomány gyarapítása, nyilvántartása”,
+
+f) a „Könyvtári állomány feltárása, megőrzése, védelme”,
+
+g) a „Könyvtári szolgáltatások”,
+
+h) a „Múzeumi gyűjteményi tevékenység”,
+
+i) a „Múzeumi tudományos feldolgozó és publikációs tevékenység”,
+
+j) a „Múzeumi kiállítási tevékenység”, valamint
+
+k) a „Múzeumi közművelődési, közönségkapcsolati tevékenység”
 
 kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 

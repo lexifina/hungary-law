@@ -26,7 +26,7 @@ e) a (3) bekezdés c) pontja esetében a kötvény- és értékpapír-tulajdonos
 
 (6) Az állami viszontgarancia mértéke a Garantiqa Hitelgarancia Zrt. által az Európai Bizottság „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című közleménye (a továbbiakban: Közlemény) alapján az Európai Bizottság határozatában jóváhagyott feltételek szerinti Garantiqa Krízis Garanciaprogram keretében vállalt készfizető kezesség érvényesítéséből a társaságot terhelő fizetési kötelezettség 90%-a.
 
-(7) A Garantiqa Hitelgarancia Zrt. által állami viszontgarancia mellett vállalt készfizető kezesség állománya – a (8) bekezdés szerinti kezességek kivételével – 2021. december 31-én nem haladhatja meg az 1 500 000,0 millió forintot azzal, hogy ezen belül a Garantiqa Krízis Garanciaprogram keretében vállalt készfizető kezesség állománya legfeljebb 500 000,0 millió forint lehet.
+(7) A Garantiqa Hitelgarancia Zrt. által állami viszontgarancia mellett vállalt készfizető kezesség állománya – a (8) bekezdés szerinti kezességek kivételével – 2021. december 31-én nem haladhatja meg a 2 500 000,0 millió forintot.
 
 (8) A Garantiqa Hitelgarancia Zrt. által a (3) bekezdés c) pontja szerinti állami viszontgarancia mellett vállalt készfizető kezesség állománya 2021. december 31-én nem haladhatja meg a 200 000,0 millió forintot.
 
