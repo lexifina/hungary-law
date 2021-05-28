@@ -176,13 +176,7 @@ XX. századi történetének feltárása és bemutatása, a magyar, valamint a k
 
 „c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,”
 
-22. A KEKVA tv. 1. melléklet A) pontjában foglalt táblázat B:30 mező 2. pontja a következő d) és e) alponttal egészül ki:
-
-(A Miskolci Egyetem útján)
-
-„d) nemzetközi összehasonlító jogtudományi kutatások végzése, jogtudományi kapcsolatok és együttműködés fejlesztése,
-
-e) a közép-európai országokra kiterjedő jogtudományi és államtudományi kutatási és oktatási hálózat létrehozása, működtetése, ideértve a kutatási, képzési, publikálási és népszerűsítési tevékenységek támogatását,”
+22.
 
 23. A KEKVA tv. 1. melléklet A) pontjában foglalt táblázat B:31 mező 2. pontja a következő d) alponttal egészül ki:
 
