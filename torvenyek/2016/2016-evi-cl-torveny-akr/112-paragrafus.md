@@ -4,7 +4,7 @@
 
 (2) Önálló jogorvoslatnak van helye
 
-a) az ideiglenes biztosítási intézkedésről szóló,
+a) a biztosítási intézkedésről és az ideiglenes biztosítási intézkedésről szóló,
 
 b) az ügyféli jogállásról vagy jogutódlásról rendelkező,
 
@@ -22,8 +22,10 @@ h) a zár alá vételt vagy lefoglalást elrendelő, valamint ezek megszünteté
 
 i) az iratbetekintési jog gyakorlására irányuló kérelem tárgyában hozott elutasító,
 
-j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott, valamint
+j) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozott,
 
-k) az eljárási költség megállapításával és viselésével kapcsolatos, a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló
+k) az eljárási költség megállapításával és viselésével kapcsolatos, a költségmentesség iránti kérelmet elutasító, a költségmentesség módosításáról vagy visszavonásáról szóló, valamint
+
+l) a végrehajtást elrendelő
 
 végzés ellen.

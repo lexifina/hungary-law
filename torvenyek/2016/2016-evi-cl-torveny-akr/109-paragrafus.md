@@ -1,6 +1,6 @@
-### 109. § [A zár alá vétel megszüntetése és a dolog kiadása]
+### 109. § [A zár alá vétel és a lefoglalás megszüntetése, valamint a dolog kiadása]
 
-(1) A zár alá vételt a hatóság megszünteti, ha
+(1) A zár alá vételt és a lefoglalást a hatóság megszünteti, ha
 
 a) az elrendelésének oka megszűnt,
 
