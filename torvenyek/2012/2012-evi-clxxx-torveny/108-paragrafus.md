@@ -25,3 +25,5 @@ c) ha az a döntéshozatalhoz elkerülhetetlenül szükséges, az eljáró igazs
 d) a védő részvételére a Be. 427. § (5) bekezdés a) pontja nem alkalmazható.
 
 (2) A bíróság ügydöntő határozata ellen felülvizsgálatnak nincs helye.
+
+(3) A VIII. Fejezet tagállamra vonatkozó rendelkezéseit Nagy-Britannia és Észak-Írország Egyesült Királysága (a továbbiakban: Egyesült Királyság) tekintetében is alkalmazni kell.
