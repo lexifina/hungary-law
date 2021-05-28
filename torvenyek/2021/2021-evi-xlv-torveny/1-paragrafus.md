@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unió saját forrásainak rendszeréről és a 2014/335/EU, Euratom határozat hatályon kívül helyezéséről szóló, 2020. december 14-i (EU, Euratom) 2020/2053 tanácsi határozat (a továbbiakban: Határozat) kötelező hatályának elismerésére.
