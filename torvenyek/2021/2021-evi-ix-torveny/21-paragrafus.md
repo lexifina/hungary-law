@@ -4,6 +4,6 @@
 
 (3) Az állam az állami, illetve az önkormányzati intézményekben foglalkoztatottak számára nyújtott személyi juttatásokat és azok növelésének forrását legalább azonos feltételekkel biztosítja az alapítvány által fenntartott intézmények részére is.
 
-(4) Az alapítvány egyoldalú nyilatkozattal csatlakozhat bármely egységes állami beszerzési rendszerhez, és onnan egyoldalú nyilatkozattal távozhat.
+(4) Az alapítvány és az alapítvány 1. melléklet szerinti felsőoktatási intézménye egyoldalú nyilatkozattal csatlakozhat bármely egységes állami beszerzési rendszerhez, és onnan egyoldalú nyilatkozattal távozhat.
 
 (5) Az állam által nyújtott 18. § (1) bekezdés a–b) és e) pontja szerinti juttatásra nem kell alkalmazni az államháztartási szabályokat.

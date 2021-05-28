@@ -44,6 +44,8 @@ a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -69,6 +71,8 @@ Dunaújvárosi Egyetemért Alapítvány
 a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
@@ -96,7 +100,11 @@ a) felsőoktatási tevékenység folytatása,
 
 b) egészségügyi tevékenység folytatása,
 
-c) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+c) agrár- és élelmiszertudományi kutatás-fejlesztés folytatása,
+
+d) további, az a) alpontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+e) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
@@ -147,6 +155,30 @@ b) rászorultsági alapú támogatás biztosítása,
 c) tehetséggondozó programok működésének, valamint a középfokú agrároktatás infrastrukturális fejlesztésének támogatása,
 
 5. védett őshonos magyar lófajták genetikai értékének megőrzése.
+
+|
+
+6a
+
+|
+
+Közép- és Kelet-európai Történelem és Társadalom Kutatásáért Alapítvány
+
+|
+
+1. a XX. századi magyarországi, valamint közép- és kelet-európai történeti, politikai és társadalmi kutatások, ezen belül különösen a kommunizmus, a közép- és kelet-európai diktatúrák XX. századi történetének feltárása és bemutatása, a magyar, valamint a közép- és kelet-európai történelem, politika és társadalom tényeinek kutatása és elemzése, beleértve a régióban élő őshonos nemzetiségek történetét is;
+
+2. egy, a magyar nemzeti szuverenitás szempontját figyelembe vevő, korszerű történelemszemlélet alapjainak kidolgozása és disszeminálása;
+
+3. a kulturális javak védelme érdekében oktatófilmek és dokumentumfilmek készítése, tananyagok és pedagógiai segédanyagok készítése, könyv- és tudományos kötetek kiadása, digitalizált tartalmak készítése és fejlesztése, felnőttképzési és oktatási tevékenység ellátása, közhasznú kampányok és rendezvények szervezése és lebonyolítása;
+
+4. a kulturális örökség védelme, elemeinek megőrzése, fenntartható használatuknak elősegítése és támogatása;
+
+5. muzeális intézmények fenntartása és működtetése, a történészi kutatótevékenység támogatása;
+
+6. társadalomtudományi kutatóintézetek fenntartása és működtetése, társadalomtudományi kutató- és tudásmegosztó tevékenység végzése;
+
+7. irodalomtörténeti kutatóintézetek fenntartása és működtetése, irodalomtörténeti hagyatékkezelő, kutató- és tudásmegosztó tevékenység bonyolítása.
 
 |
 
@@ -206,6 +238,8 @@ a) felsőoktatási tevékenység végzése,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -233,6 +267,8 @@ a) felsőoktatási tevékenység folytatása,
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
 c) a genetikai változatosság és a hazai mezőgazdaság genetikai anyagainak védelme, jogszabályban meghatározott jelentős növényfajok, változatok, fajták és vad rokonfajok mint génforrások megőrzésében és fenntartásában való közreműködés;
+
+d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
@@ -280,6 +316,8 @@ a) felsőoktatási tevékenység végzése,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás;
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -324,6 +362,8 @@ a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -363,6 +403,8 @@ Moholy-Nagy Művészeti Egyetemért Alapítvány
 a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
@@ -416,6 +458,8 @@ b) egészségügyi tevékenység folytatása,
 
 c) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -441,6 +485,8 @@ Neumann János Egyetemért Alapítvány
 a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
@@ -468,6 +514,8 @@ a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -493,6 +541,8 @@ Pannon Egyetemért Alapítvány
 a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
@@ -540,6 +590,8 @@ a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -566,6 +618,8 @@ a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -591,6 +645,8 @@ Széchenyi István Egyetemért Alapítvány
 a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
@@ -620,6 +676,8 @@ b) egészségügyi tevékenység folytatása,
 
 c) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás,
 
+d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -645,6 +703,8 @@ Színház- és Filmművészetért Alapítvány
 a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
@@ -674,6 +734,8 @@ a) felsőoktatási tevékenység végzése,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -700,6 +762,8 @@ a) felsőoktatási tevékenység végzése,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás,
 
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
@@ -725,6 +789,8 @@ Universitas Miskolcinensis Alapítvány
 a) felsőoktatási tevékenység folytatása,
 
 b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+
+c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
@@ -753,6 +819,8 @@ a) felsőoktatási tevékenység végzése,
 b) egészségügyi tevékenység folytatása,
 
 c) további, az a) pontba nem sorolt, a felsőoktatási intézményképzési tevékenységéhez kapcsolódó oktatás,
+
+d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 

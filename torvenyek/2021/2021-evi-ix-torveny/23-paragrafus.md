@@ -14,7 +14,7 @@ a) az állam felelős a klinikai központ tevékenységéből származó károk�
 
 b) az irányító megyei intézményi feladatokat ellátó klinikai központ elnökének személyére a rektor véleményének kikérésével az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv vezetője tesz javaslatot és a klinikai központ elnökének megbízására és megbízása visszavonására az egészségügyért felelős miniszter és a kuratórium elnöke együttesen jogosult,
 
-c) az irányító megyei intézményi feladatokat el nem látó klinikai központ elnökét az egészségügyi felsőoktatási intézmény rektora bízza meg azzal, hogy az elnök megbízásához az egészségügyért felelős miniszter előzetes egyetértését be kell szerezni, és felette a munkáltatói jogokat a rektor gyakorolja, minden további munkáltatói jogkört a klinikai központban dolgozók esetében a klinikai központ elnöke gyakorol,
+c) az irányító megyei intézményi feladatokat el nem látó klinikai központ elnökét az egészségügyi felsőoktatási intézmény rektora bízza meg azzal, hogy az elnök megbízásához az egészségügyért felelős miniszter előzetes egyetértését be kell szerezni, és felette a munkáltatói jogokat a rektor gyakorolja, minden további munkáltatói jogkört a klinikai központban egészségügyi szolgálati jogviszonyban foglalkoztatottak esetében a klinikai központ elnöke gyakorol,
 
 d) az egészségügyi szolgáltatás irányításáért az ágazati jogszabályban kijelölt felelős állami szerv
 

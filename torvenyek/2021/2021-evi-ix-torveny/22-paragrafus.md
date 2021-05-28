@@ -4,7 +4,7 @@
 
 ## 11. Az alapítvány felsőoktatási közfeladat-ellátására vonatkozó különös szabályok
 
-22. § (1) Ha az alapítvány közfeladataként felsőoktatási tevékenység is meghatározásra került, akkor azt az alapítvány felsőoktatási intézménye útján láthatja el. Ebben az esetben az 1. melléklet szerinti – államilag elismert, egyetemként működő – felsőoktatási intézmény fenntartója és tulajdonosa az alapítvány.
+22. § (1) Ha az alapítvány közfeladataként felsőoktatási tevékenység is meghatározásra került, akkor azt az alapítvány felsőoktatási intézménye útján látja el. Ebben az esetben az 1. melléklet szerinti – államilag elismert, egyetemként működő – felsőoktatási intézmény fenntartója és tulajdonosa az alapítvány.
 
 (2) Az 1. melléklet szerinti felsőoktatási intézmény fenntartója és tulajdonosa nem lehet eltérő személy. A felsőoktatási intézmény átalakulását eredményező különválás körében a szétválás nem alkalmazható, a szervezeti kiválás esetén a kiváló szervezeti egység az 1. melléklet szerinti felsőoktatási intézménybe olvadhat be.
 
