@@ -2,7 +2,7 @@
 
 47. § (1) A külföldi ítélet a magyar bíróság ítéletével azonos érvényű, ha a külföldi ítéletet magyar bíróság e törvény alapján elismerte. El nem ismert külföldi ítélet a büntetőeljárásban nem vehető figyelembe.
 
-(2) E cím rendelkezéseit az Európai Unió tagállamának bírósága által hozott ítéletre nem lehet alkalmazni.
+(2) E cím rendelkezéseit az Európai Unió tagállamának bírósága és a Nagy-Britannia és Észak-Írország Egyesült Királyságának (a továbbiakban: Egyesült Királyság) bírósága által hozott ítéletre nem lehet alkalmazni.
 
 (3) A külföldi ítélet akkor ismerhető el, ha az elkövetővel szemben külföldön folyamatban volt eljárás, valamint a kiszabott büntetés, illetve az alkalmazott intézkedés nem ellentétes a magyar jogrendszer alapelveivel.
 

@@ -1,4 +1,4 @@
-60/C. § (1) A bíróság e törvény vonatkozó rendelkezései, valamint a nemzetközi szerződések alapján megvizsgálja, hogy a vagyonelkobzás vagy az elkobzás végrehajtásának átadása iránti megkeresés teljesítésének feltételei fennállnak-e, és ennek alapján rendelkezik a külföldi bíróság vagyonelkobzásra vagy elkobzásra vonatkozó határozatának elismeréséről és a végrehajtás átvételéről.
+60/C. § (1) A bíróság e törvény vonatkozó rendelkezései, valamint a nemzetközi szerződések alapján megvizsgálja, hogy a vagyonelkobzás vagy az elkobzás végrehajtásának átadása iránti megkeresés teljesítésének feltételei fennállnak-e, és ennek alapján rendelkezik a külföldi bíróság vagyonelkobzásra vagy elkobzásra vonatkozó határozatának elismeréséről és a végrehajtás átvételéről, az Egyesült Királyság esetében a megfeleltetésről és a végrehajtás átvételéről.
 
 (2) A bíróság a jogerős ügydöntő végzést a külföldi bíróság értesítése végett megküldi a miniszternek. A végzésről a miniszter értesíti a megkereső külföldi államot.
 
