@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-125-00-00
 | 2021-01-01 | 2020. évi CLII. törvény | 2018-125-00-00.15 |
 | 2021-04-01 | 2020. évi CLXII. törvény | 2018-125-00-00.16 |
 | 2021-05-01 | 2021. évi VIII. törvény | 2018-125-00-00.17 |
+| 2021-05-28 | 2021. évi LI. törvény | 2018-125-00-00.18 |
