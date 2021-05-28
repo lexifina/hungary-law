@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-83-00-00
 | 2018-01-01 | 2017. évi L. törvény | 2014-83-00-00.7 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2014-83-00-00.8 |
 | 2019-07-27 | 2019. évi LV. törvény | 2014-83-00-00.9 |
+| 2021-05-28 | 2021. évi LII. törvény | 2014-83-00-00.10 |
