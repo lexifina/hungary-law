@@ -18,7 +18,7 @@ c) a fegyelmi bíróság hivatalvesztést, érdemtelenséget vagy alkalmatlansá
 
 d) a pályázati eljárás eredménytelenné vagy érvénytelenné nyilvánítását;
 
-e) a közjegyzői álláshely kérelemre történő áthelyezés miatti megüresedését;
+e)
 
 f) újonnan létrehozott álláshely esetén az álláshelyet létrehozó jogszabály kihirdetését; valamint
 
@@ -26,14 +26,8 @@ g) a területi kamara elnökségének a (2) bekezdésben foglalt tájékoztatás
 
 követő 45 napon belül, hirdetmény közzététele útján írja ki.
 
-(4) A területi kamara a honlapján a közjegyzői álláshely megüresedéséről
+(4)
 
-a) (2) bekezdés szerinti körülmény bekövetkezése esetén, vagy
+(5)
 
-b) a miniszternek a (3) bekezdés szerint körülmény bekövetkezéséről való tájékoztatása alapján
-
-tájékoztatást tesz közzé. A tájékoztatás közzétételétől számított 8 napon belül a 20. § (2b) bekezdése szerinti áthelyezési kérelem előterjesztésének van helye.
-
-(5) Nincs helye pályázat kiírásának, ha a miniszter a közjegyzői álláshelyet a közjegyzői áthelyezési kérelme alapján töltötte be.
-
-(6) A pályázat kiírásának határideje az áthelyezési kérelem elbírálásának idejéig nyugszik.
+(6)

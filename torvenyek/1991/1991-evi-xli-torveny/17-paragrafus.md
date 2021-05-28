@@ -12,7 +12,7 @@ e) legalább 3 éves közjegyzőhelyettesi gyakorlatot igazol,
 
 f) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt,
 
-g) eredményes közjegyzői vizsgát tett,
+g) – közjegyző pályázó kivételével – eredményes közjegyzői vizsgát tett,
 
 h) az eljárás nyelvének az eljárás lefolytatásához szükséges mértékű ismeretét igazolta, és
 
