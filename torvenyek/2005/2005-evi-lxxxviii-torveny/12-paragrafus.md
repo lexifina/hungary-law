@@ -8,6 +8,6 @@ a) a bejelentő nem lehet fogadó szervezet, vagy
 
 b) a bejelentő által benyújtott iratokból és a 11. § (4) bekezdése szerint beszerzett adatokból kétséget kizáró módon megállapítható, hogy a bejelentésben megjelölt tevékenységi körben önkéntes nem foglalkoztatható.
 
-(3) A nyilvántartásban szereplő adatokat a miniszter a Civil Információs Portálon közzéteszi.
+(3) A nyilvántartásban szereplő adatokat a miniszter a Közérdekű Önkéntes Szervezeti Regiszterben közzéteszi.
 
 (4) A miniszter a nyilvántartásban szereplő adatokat átadja a munkavédelmi hatóságnak az önkéntesek jogszabályszerű foglalkoztatásának ellenőrzése céljából.
