@@ -10,4 +10,6 @@
 
 a) a Magyar Művészeti Akadémia elnöke,
 
-b) a kultúrstratégiai intézmények vezetői.
+b) a kultúrstratégiai intézmények vezetői,
+
+c) a Nemzeti Kulturális Alap alelnöke.
