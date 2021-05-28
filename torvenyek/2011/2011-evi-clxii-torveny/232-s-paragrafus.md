@@ -1,0 +1,1 @@
+232/S. § Az egyes törvényeknek a kézbesítéssel és az igazságügyi ágazati szabályozással összefüggő módosításáról szóló 2021. évi LI. törvénnyel megállapított 126. § (1) bekezdés b) pontját az e rendelkezés hatálybalépését megelőzően kiszabott, két fizetési fokozattal visszavetés fegyelmi büntetés alóli mentesítésre is alkalmazni kell, ha a mentesítésre korábban nem került sor.

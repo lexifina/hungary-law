@@ -10,7 +10,7 @@ d) a 34. § (2) bekezdésében,
 
 e) az 58. § (3) és (4) bekezdésében,
 
-f) a 62. § (3) bekezdésében,
+f) a 62/C. § (3) bekezdésében,
 
 g) a 64. § (2) bekezdésében, valamint
 
