@@ -1,1 +1,3 @@
-## 2. § Az R. 28. § (5) bekezdésében az „ugyanolyan jogviszony” szövegrész helyébe az „ugyanolyan vagy jogszabály szerint átalakult jogviszony” szöveg lép.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

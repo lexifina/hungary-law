@@ -1,1 +1,3 @@
-## „(4a) A (4) bekezdés szerinti gyakorlati időből a bértámogatás mértékének meghatározása során kizárólag az orvos által az orvosi végzettség megszerzését követően teljesített, és igazolásokkal alátámasztott gyakorlati idő vehető figyelembe.”
+## 8. §[^8]
+
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

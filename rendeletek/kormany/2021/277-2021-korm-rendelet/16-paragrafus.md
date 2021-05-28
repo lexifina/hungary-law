@@ -1,28 +1,36 @@
-## 15. § Az R1. a következő 77/A. §-sal egészül ki:
+## 15. §[^15]
 
-## „77/A. § E rendeletnek az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 277/2021. (V. 26.) Korm. rendelettel (a továbbiakban: Módr.12.) megállapított 20/A. §-a szerinti iskolaorvosi bértámogatásra az érintett egészségügyi szolgáltatók – a 20/A. § (1) bekezdésében foglaltakra figyelemmel – először a 2021. január havi munkabérek kifizetéséhez igényelt, a tárgyhót követő hónap 5. napjáig utalandó bértámogatásra jogosult azzal, hogy azt a NEAK 2021 júniusától utalványozza.”
+16. § (1)[^16]
 
-16. § (1) Az R1. 5. számú melléklete az 1. melléklet szerint módosul.
+(2)[^17]
 
-(2) Az R1. 6/A. számú melléklete a 2. melléklet szerint módosul.
+(3)[^18]
 
-(3) Az R1. 9. számú melléklete helyébe a 3. melléklet lép.
+(4)[^19]
 
-(4) Az R1. 12. számú melléklete a 4. melléklet szerint módosul.
+(5)[^20]
 
-(5) Az R1. 14. számú melléklete az 5. melléklet szerint módosul.
+(6)[^21]
 
-(6) Az R1. 22. számú melléklete a 6. melléklet szerint módosul.
+(7)[^22]
 
-(7) Az R1. 28. számú melléklete a 7. melléklet szerint módosul.
+(8)[^23]
 
-(8) Az R1. 34. melléklete a 8. melléklet szerint módosul.
+(9)[^24]
 
-(9) Az R1. a 9. melléklet szerinti 38. számú melléklettel egészül ki.
+(10)[^25]
 
-(10)[^2]
+(11)[^26]
 
-(11)[^3]
-
-[^2]: A 16. § (10) bekezdése a 24. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^3]: A 16. § (11) bekezdése a 24. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 16. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 16. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 16. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 16. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 16. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 16. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 16. § (10) bekezdése a 24. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^26]: A 16. § (11) bekezdése a 24. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.

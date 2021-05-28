@@ -1,3 +1,3 @@
-## „(9a) A megkezdett aktív fekvőbeteg-ellátás másik szolgáltató által felső határnapon belül történt folytatása esetén az áthelyező szolgáltató az elszámolási szabályok szerinti súlyszám 50%-ára jogosult. Amennyiben a megkezdett ellátás nem minősül sürgős esetnek, vagy nem tartozik az áthelyező szolgáltató szakmai kompetencia körébe, akkor az áthelyező szolgáltatót az elszámolási szabályok szerinti súlyszám 25%-a illeti meg.
+## 12. §[^12]
 
-## (9b) Fekvőbeteg gyógyintézetből történő elbocsátást követően felső határnapon belül másik gyógyintézetben végzett aktív fekvőbeteg-ellátás esetén – az R. 14. számú mellékletében meghatározott esetek kivételével – az elszámolási szabályok szerinti súlyszám 50%-a számolható el.”
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
