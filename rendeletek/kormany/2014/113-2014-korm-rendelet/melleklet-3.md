@@ -150,7 +150,7 @@
 
 |  | P.H. |
 
-3. melléklet a 113/2014. (IV. 3.) Korm. rendelethez[^2]
+3. melléklet a 113/2014. (IV. 3.) Korm. rendelethez[^3]
 
 | rendőrség színes vagy fekete-fehér címere | szerv megnevezése szerv címe, postafiók száma telefon- és telefax száma elektronikus elérési lehetősége | szerv saját színes, vagy fekete-fehér címere |
 
@@ -198,4 +198,4 @@ P. H.
 
 …………………………
 
-[^2]: [A 3. mellékletnek a 379/2016. (XII. 2.) Korm. rendelet 270. § (1) bekezdésével elrendelt módosítása, amely szerint a 3. melléklet szerinti Formanyomtatvány a) pont 1. és 2. alpontjában a „Bűnügyi Szakértői és Kutatóintézet” szövegrész helyébe a „Nemzeti Szakértői és Kutató Központ” szöveg lép, nem vezethető át.]
+[^3]: [A 3. mellékletnek a 379/2016. (XII. 2.) Korm. rendelet 270. § (1) bekezdésével elrendelt módosítása, amely szerint a 3. melléklet szerinti Formanyomtatvány a) pont 1. és 2. alpontjában a „Bűnügyi Szakértői és Kutatóintézet” szövegrész helyébe a „Nemzeti Szakértői és Kutató Központ” szöveg lép, nem vezethető át.]
