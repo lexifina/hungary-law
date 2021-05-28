@@ -24,7 +24,7 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 
 (7) A támogatás a XLVII. Gazdaságvédelmi Alap fejezet, 2. Nemzeti Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható.
 
-(7a)[^60] Az e § szerinti támogatás a 2021. évben a XLVII. Gazdaságvédelmi Alap fejezet, 4. Gazdaságvédelmi Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható. Ezen előirányzat teljesülése módosítás nélkül eltérhet az előirányzat összegétől.
+(7a)[^60] Az e § szerinti támogatás a 2021. évben a XLVII. Gazdaságvédelmi Alap fejezet, 4. Gazdaságvédelmi Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható.
 
 (8) A támogatás az átmeneti közlemény 3. 10. szakasza szerinti támogatást tartalmaz.
 
@@ -38,4 +38,4 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 [^57]: A 14. § (5) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § d) pontja, a 32/2021. (I. 29.) Korm. rendelet 3. § c) pontja, a 43/2021. (II. 2.) Korm. rendelet 3. §-a, a 86/2021. (II. 27.) Korm. rendelet 2. § c) pontja, a 147/2021. (III. 27.) Korm. rendelet 2. § d) pontja, a 204/2021. (IV. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^58]: A 14. § (5a) bekezdését a 43/2021. (II. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^59]: A 14. § (5b) bekezdését a 43/2021. (II. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^60]: A 14. § (7a) bekezdését a 32/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be.
+[^60]: A 14. § (7a) bekezdését a 32/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 285/2021. (V. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
