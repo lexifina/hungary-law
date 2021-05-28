@@ -1,0 +1,5 @@
+## 1. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
+
+1. § A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) 9. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A közfeladatot ellátó szerv jogszabály-előkészítéssel összefüggő feladatának a Kormány rendeletében meghatározott elektronikus zárt rendszeren (a továbbiakban: jogszabály-előkészítési munkafolyamatot támogató szoftver) keresztül történő megvalósítása esetén a jogszabály-előkészítési munkafolyamatot támogató szoftverben keletkező irattal kapcsolatos iratkezelésre a jogszabály-előkészítési munkafolyamatot támogató szoftvert kell a Kormány rendeletében meghatározottak szerint használni. A közfeladatot ellátó szerv (3) bekezdés szerinti felelőssége a jogszabály-előkészítési munkafolyamatot támogató szoftverben keletkező irattal kapcsolatosan a Kormány rendeletében meghatározottak szerint áll fenn.”
