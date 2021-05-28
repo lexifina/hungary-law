@@ -1,0 +1,1 @@
+A XX. századi magyarországi, valamint közép- és kelet-európai történeti, politikai és társadalmi kutatásokkal, ezen belül különösen a kommunizmus és a kelet-közép-európai diktatúrák XX. századi történetének feltárásával és bemutatásával kapcsolatos közfeladatok folyamatos ellátása érdekében az Országgyűlés a következő törvényt alkotja:
