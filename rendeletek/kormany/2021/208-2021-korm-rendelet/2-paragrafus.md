@@ -1,0 +1,3 @@
+## 1. § A környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 1. § (6b) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6b) A környezetvédelmi hatóság az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati, valamint az összevont eljárásában a tevékenység telepítési helye szerinti település, a fővárosban a kerület (a továbbiakban együtt: település) önkormányzata ügyfélnek minősül, aki a környezetvédelmi hatóság által megküldött kérelem és mellékletei tekintetében a kézhezvételtől számított 15 napon belül nyilatkozhat.”
