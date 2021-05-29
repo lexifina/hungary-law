@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2021-02-10 | 2017-531-20-22.31 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-05-21 | 2017-531-20-22.32 | 262/2021. (V. 20.) Korm. rendelet |
 | 2021-05-26 | 2017-531-20-22.33 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-05-29 | 2017-531-20-22.34 | 360/2019. (XII. 30.) Korm. rendelet |

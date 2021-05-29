@@ -112,10 +112,6 @@
 
 41.[^15] A Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet szerinti beruházás.
 
-42.[^16] A paksi Integrált Központ létrehozására irányuló beruházás, valamint a kapcsolódó bontási és kármentesítési munkák előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 545/2020. (XII. 2.) Korm. rendelet szerinti beruházás.
-
-43.[^17] a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet szerinti beruházás.
-
 [^9]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^10]: A 3. melléklet 37. pontját a 42/2018. (III. 13.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
 [^11]: A 3. melléklet 38. pontját a 64/2019. (III. 27.) Korm. rendelet 17. §-a iktatta be.
@@ -123,5 +119,3 @@
 [^13]: A 3. melléklet 39. pontját a 176/2019. (VII. 18.) Korm. rendelet 15. §-a iktatta be.
 [^14]: A 3. melléklet 40. pontját a 22/2020. (II. 19.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
 [^15]: A 3. melléklet 41. pontját a 196/2020. (V. 12.) Korm. rendelet 11. §-a iktatta be.
-[^16]: A 3. melléklet 42. pontját az 545/2020. (XII. 2.) Korm. rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^17]: A 3. melléklet 43. pontját a 262/2021. (V. 20.) Korm. rendelet 11. §-a iktatta be.
