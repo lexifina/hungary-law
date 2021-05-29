@@ -26,7 +26,7 @@ b) – az Evt. 41. § (2) bekezdés c) pontjának figyelembevételével – meg 
 
 (5) Ha az adott térségben az erdő csökkenésének tilalmáról jogszabály kifejezetten nem rendelkezik, a csereerdősítést
 
-a) nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő, a Kormány által rendeletben meghatározott erdő igénybevételi ügyek esetében az ország területén belül,
+a)[^25] nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő, a Kormány által rendeletben meghatározott erdő-igénybevételi ügyek, valamint az országos vagy térségi jelentőségű műszaki infrastruktúra-hálózatok és egyedi építmények megvalósításával összefüggő erdő-igénybevételi ügyek esetében az ország területén belül,
 
 b) az a) pontba nem tartozó esetekben az erdőtervezési körzet területén
 
@@ -38,10 +38,11 @@ a) a létesítmény létesítési engedélyét,
 
 b) az igénybevétellel érintett ingatlan tulajdonosának közokiratba vagy teljes bizonyító erejű magánokiratba foglalt, az igénybevételhez való hozzájárulását és
 
-c)[^25] az Ftr. szerint elkészített változási vázrajzot és terület-kimutatást, vagy közművek esetén közműtérképet.
+c)[^26] az Ftr. szerint elkészített változási vázrajzot és terület-kimutatást, vagy közművek esetén közműtérképet.
 
-(7)[^26] Az Evt. hatálybalépése előtt legalább 20 évvel korábban elhelyezett burkolt út, villamos vezeték, gázvezeték, távközlő- vagy más közművezeték, illetve műemlék esetében – engedély hiányában – a (6) bekezdés b) és c) pontja szerinti dokumentumokat elegendő csatolni.
+(7)[^27] Az Evt. hatálybalépése előtt legalább 20 évvel korábban elhelyezett burkolt út, villamos vezeték, gázvezeték, távközlő- vagy más közművezeték, illetve műemlék esetében – engedély hiányában – a (6) bekezdés b) és c) pontja szerinti dokumentumokat elegendő csatolni.
 
 [^24]: A 11. § (1) bekezdés b) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^25]: A 11. § (6) bekezdés c) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^26]: A 11. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^25]: A 11. § (5) bekezdés a) pontja a 208/2021. (IV. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^26]: A 11. § (6) bekezdés c) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^27]: A 11. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
