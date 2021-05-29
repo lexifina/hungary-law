@@ -1,3 +1,1 @@
-2. § Az Nkt. 12. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Mentesül a szakmai vizsga, képesítő vizsga, vagy annak a versenykiírásban meghatározott vizsgafeladatának, vizsgatevékenységének letétele alól az a vizsgázó, aki országos szakmai tanulmányi versenyen, WorldSkills vagy EuroSkills versenyen a szakmai és vizsgakövetelményben, képzési és kimeneti követelményekben vagy programkövetelményekben meghatározott követelményt teljesítette, és a versenyfelhívásban meghatározott helyezést, teljesítményt, szintet elérte. Az e bekezdésben meghatározott felmentés esetén a szakmai vizsga, képesítő vizsga vagy a vizsgatevékenység eredménye jelesnek minősül.”
+2. §
