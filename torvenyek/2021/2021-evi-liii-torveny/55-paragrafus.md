@@ -1,1 +1,1 @@
-55. § Az Universitas Miskolcinensis Alapítványról, az Universitas Miskolcinensis Alapítvány és a Miskolci Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXIX. törvény a 3. melléklet szerinti 2. melléklettel egészül ki.
+55. §

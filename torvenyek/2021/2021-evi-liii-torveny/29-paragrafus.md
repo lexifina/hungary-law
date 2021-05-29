@@ -1,5 +1,1 @@
-29. § Az Nftv. 25. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A felsőoktatási intézmény részeként működő klinikai központban egészségügyi szolgálati jogviszonyban foglalkoztatott tudományos fokozattal rendelkező, vagy a fokozat megszerzését megkezdő munkavállaló a felsőoktatási intézményben további munkavégzésre irányuló jogviszonyban, oktatói vagy tudományos kutatói munkakörben – oktatói munkakör tekintetében a tanításra fordított idő foglalkoztatási követelményrendszerben történő meghatározásával – foglalkoztatható. A további jogviszony díjazását a munkáltató az ellátandó oktatási, kutatási feladatokra tekintettel és minőségi elvek szerint határozza meg.
-
-(2b) A felsőoktatási intézmény részeként működő klinikai központban egészségügyi szolgálati jogviszonyban foglalkoztatott munkavállaló a felsőoktatási intézményben tudományos fokozatot nem igénylő, további munkavégzésre irányuló jogviszonyban felsőoktatási egészségügyi szakoktatóként foglalkoztatható. A további jogviszony díjazását a munkáltató az oktatási, kutatási és egyéb feladatok nagysága és minőségi elvek szerint határozza meg.”
+29. §
