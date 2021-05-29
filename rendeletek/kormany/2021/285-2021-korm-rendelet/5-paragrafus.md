@@ -1,3 +1,5 @@
-## 4. § Hatályát veszti a veszélyhelyzettel összefüggésben a huszonötezer főnél nem nagyobb lakosságszámú települési önkormányzatok támogatási programjáról szóló 4/2021. (I. 14.) Korm. rendelet.
+## 4. §[^5]
 
 ## 5. A veszélyhelyzet ideje alatt a központi költségvetésre vonatkozó szabályoktól eltérő rendelkezésekről szóló 13/2021. (I. 22.) Korm. rendelet hatályon kívül helyezése
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
