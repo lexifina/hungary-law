@@ -430,7 +430,9 @@
 
 | c) védett természeti területen, Natura 2000 területen, barlang védőövezetén méretmegkötés nélkül |
 
-| 128. | Egyéb, az 1–127. pontba nem tartozó építmény vagy építmény együttes beépített vagy beépítésre szánt területen | a) 2 ha területfoglalástól |
+| 127/A. | Transzformátor-alállomás | védett természeti területen, Natura 2000 területen |
+
+| 128. | Egyéb, az 1–127/A. pontba nem tartozó építmény vagy építményegyüttes beépített vagy beépítésre szánt területen | a) 2 ha területfoglalástól |
 
 | b) 300 parkolóhelytől |
 

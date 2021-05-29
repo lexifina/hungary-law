@@ -36,9 +36,9 @@ engedély szükséges.
 
 (6a)[^7] A vizekbe történő beavatkozással járó tevékenység esetén a környezeti hatásvizsgálati eljárásban kell igazolni a vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet 10. §-ában és 11. §-ában előírt feltételek teljesülését.
 
-(6b)[^8] A környezetvédelmi hatóság az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati, valamint az összevont eljárásban – a tevékenységnek a helyi környezet- és természetvédelemmel kapcsolatos önkormányzati szabályozásával, valamint a településrendezési eszközökkel való összhangjának megállapítása érdekében – megkeresi a tevékenység telepítési helye szerinti település, a fővárosban a kerület (a továbbiakban együtt: település) jegyzőjét.
+(6b)[^8] A környezetvédelmi hatóság az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati, valamint az összevont eljárásában a tevékenység telepítési helye szerinti település, a fővárosban a kerület (a továbbiakban együtt: település) önkormányzata ügyfélnek minősül, aki a környezetvédelmi hatóság által megküldött kérelem és mellékletei tekintetében a kézhezvételtől számított 15 napon belül nyilatkozhat.
 
-(6c)[^9] A jogsegély az e rendelet szerinti, a kérelem és mellékleteinek jegyző részére történő megküldésével egyidejűleg is megkérhető. A jegyző a jogsegélyéhez mellékelheti a tervezett tevékenységgel kapcsolatos véleményét is.
+(6c)[^9]
 
 (7)[^10] Ha más hatóság eljárásában – törvény vagy kormányrendelet rendelkezése alapján – a környezetvédelmi hatóság azért nem jár el szakhatóságként, mert az eljárás tárgyául szolgáló tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély szükséges, az eljáró hatóság a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránti kérelemről döntést hozó környezetvédelmi hatóságot az eljárás megindulásáról – a kérelem megküldésével – tájékoztatja, és az eljárásban hozott határozatot vagy az eljárást megszüntető végzést közli a környezetvédelmi hatósággal.
 
@@ -55,8 +55,8 @@ engedély szükséges.
 [^5]: Az 1. § (5) bekezdését a 228/2010. (VIII. 13.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 12/2011. (II. 22.) Korm. rendelet 1. §-a iktatta be. Szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^6]: Az 1. § (6) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^7]: Az 1. § (6a) bekezdését a 100/2014. (III. 25.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^8]: Az 1. § (6b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 157. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^9]: Az 1. § (6c) bekezdését a 70/2015. (III. 30.) Korm. rendelet 74. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (6b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 208/2021. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § (6c) bekezdését a 70/2015. (III. 30.) Korm. rendelet 74. § (1) bekezdése iktatta be, hatályon kívül helyezte a 208/2021. (IV. 29.) Korm. rendelet 3. §-a.
 [^10]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b)–d) pontja szerint módosított szöveg.
 [^11]: Az 1. § (8) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
 [^12]: Az 1. § (9) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
