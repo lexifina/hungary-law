@@ -1,1 +1,1 @@
-5. § Hatályát veszti a KEKVA tv. 20. § (1) bekezdésében a „Ha a költségvetési törvény az e bekezdésben foglalt megállapodásban meghatározott forrás mértékétől időarányosan eltér, a megállapodást a felek ennek megfelelően módosítják.” szövegrész.
+5. §
