@@ -16,11 +16,11 @@ Határidő: az a) alpont tekintetében a felmerülés ütemében
 
 a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-3. egyetért azzal, hogy a szécsényi Kubinyi Ferenc Múzeum (a továbbiakban: KFM) 2021. január 1-jétől az MNM tagintézményeként folytassa működését, és felhívja az emberi erőforrások miniszterét, hogy tegye meg az ehhez szükséges intézkedéseket;
+3.[^1] egyetért azzal, hogy a szécsényi Kubinyi Ferenc Múzeum (a továbbiakban: KFM) 2021. szeptember 1-jétől az MNM tagintézményeként folytassa működését, és felhívja az emberi erőforrások miniszterét, hogy tegye meg az ehhez szükséges intézkedéseket;
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2020. december 31.
+Határidő: 2021. augusztus 31.
 
 4. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – a 3. pontban foglaltak megvalósítása érdekében gondoskodjon az MNM részére a KFM működtetéséhez a 2021. évben szükséges 69 501 000 forint többletforrás biztosításáról a 2021. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára;
 
@@ -30,17 +30,23 @@ emberi erőforrások minisztere
 
 Határidő: a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – az emberi erőforrások minisztere és az MNM bevonásával – a 3. pontban foglaltak megvalósítása érdekében gondoskodjon
+5.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – az emberi erőforrások minisztere és az MNM bevonásával – a 3. pontban foglaltak megvalósítása érdekében gondoskodjon
 
-a) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) és Szécsény Város Önkormányzata között a KFM ingatlana, továbbá feladatellátásához szükséges ingó vagyonelemek és kulturális javak tárgyában létrejött vagyonkezelési szerződés 2020. december 31. napjával történő megszüntetéséről,
+a) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) és Szécsény Város Önkormányzata (a továbbiakban: Önkormányzat) között a KFM ingatlana, továbbá a feladatellátásához szükséges ingó vagyonelemek és kulturális javak tárgyában létrejött vagyonkezelési szerződés 2021. augusztus 31. napjával történő megszüntetéséről,
 
-b) az a) alpont szerinti ingatlan, ingó vagyonelemek és kulturális javak 2021. január 1. napjával az MNM vagyonkezelésébe történő adásáról;
+b) az a) alpont szerinti ingatlan, ingó vagyonelemek és kulturális javak 2021. szeptember 1. napjával az MNM vagyonkezelésébe történő adásáról,
+
+c) az MNV Zrt. útján az Önkormányzat tulajdonában álló és a KFM feladatellátásához szükséges ingó vagyonelemek és kulturális javak térítésmentes állami tulajdonba kerüléséhez szükséges előzetes egyetértő nyilatkozat kiadásáról az MNM részére,
+
+d) az MNV Zrt. útján a c) alpontban megjelölt ingó vagyonelemeknek és kulturális javaknak – azok állami tulajdonba kerülését követően – az MNM vagyonkezelésébe történő adásáról;
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 emberi erőforrások minisztere
 
-Határidő: 2020. december 31.
+Határidő: az a), b) és d) alpontok tekintetében 2021. augusztus 31.
+
+a c) alpont tekintetében 2021. június 30.
 
 6. felhívja az emberi erőforrások miniszterét, hogy az MNM bevonásával a KFM raktározási helyzetének megoldása érdekében gondoskodjon a Szécsény belterület Rákóczi út 139. szám alatti, 213/11 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) per-, teher- és igénymentes tulajdonjogának a magyar állam javára történő megszerzéséről a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken, de legfeljebb 50 000 000 forint összeghatárig;
 
@@ -92,6 +98,8 @@ Határidő: az a) alpont tekintetében a felmerülés ütemében
 
 a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-12.[^1]
+12.[^3]
 
-[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont az 1330/2021. (V. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1330/2021. (V. 31.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

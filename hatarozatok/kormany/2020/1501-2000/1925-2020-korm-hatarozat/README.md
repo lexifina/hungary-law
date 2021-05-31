@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1925-30
 | --- | --- | --- |
 | 2020-12-17 | 2020-1925-30-22.1 | 1925/2020. (XII. 17.) Korm. határozat |
 | 2020-12-18 | 2020-1925-30-22.2 | 2010: CXXX. törvény |
+| 2021-05-31 | 2020-1925-30-22.3 | 1330/2021. (V. 31.) Korm. határozat |
