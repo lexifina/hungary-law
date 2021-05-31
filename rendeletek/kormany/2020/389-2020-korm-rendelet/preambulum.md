@@ -1,0 +1,1 @@
+A Kormány a felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (1) bekezdés c) pontjában és (2) bekezdés e) pontjában, valamint a szakképzésről szóló 2019. évi LXXX. törvény 123. § (2) bekezdés 30. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
