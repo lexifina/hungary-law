@@ -44,7 +44,7 @@ a) a képzési program felnőttképzési szakértő általi előzetes minősít�
 
 b) a felnőttképzőnél szakmai vezetőként a képzéshez kapcsolódó szakirányú végzettséggel és ötéves szakmai gyakorlattal rendelkező személy is kijelölhető, és a szakmai vezető megbízási jogviszonyban is foglalkoztatható,
 
-c) a képzésben részt vevő személy képzési hitelt legfeljebb hétszázötvenezer forint mértékig igényelhet, azzal, hogy a képzési hitelt nyújtó szervvel megkötött több hitelszerződés esetén a felvett hitelek együttes teljes összege legfeljebb harmincötmillió forint lehet, és a törlesztési idő legfeljebb tízéves időtartamban állapítható meg,
+c)[^58]
 
 d) a képzésben részt vevő személy számára ösztöndíj a 26/C. § (2) bekezdése szerinti mértékben nyújtható,
 
@@ -55,3 +55,4 @@ f) a felnőttképző ellenőrzésénél szakértői bizottságot nem kell kijel�
 g) a felnőttképzővel szemben pénzbírság kiszabása helyett a minősítés visszavonása kezdeményezhető.
 
 [^57]: A III/B. fejezetet (26/B–26/C. §) a 318/2020. (VII. 1.) Korm. rendelet 12. §-a iktatta be.
+[^58]: A 26/B. § (7) bekezdés c) pontját a 389/2020. (VIII. 8.) Korm. rendelet 5. §-a hatályon kívül helyezte.
