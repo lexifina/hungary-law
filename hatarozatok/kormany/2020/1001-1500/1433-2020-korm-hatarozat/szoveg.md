@@ -10,13 +10,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2020. december 31.
 
-2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával – az MNV Zrt. útján – tegye meg a szükséges intézkedéseket az 1. pontban meghatározott ingatlanoknak a Thália Színház részére történő vagyonkezelésbe adása érdekében;
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-emberi erőforrások minisztere
-
-Határidő: az 1. pontban megjelölt ingatlanok állami tulajdonba kerülését követő 60 napon belül
+2.[^1]
 
 3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával készítsen előterjesztést a Kormány részére az 1. pontban foglaltak végrehajtása érdekében szükséges források biztosítása tárgyában;
 
@@ -26,6 +20,7 @@ emberi erőforrások minisztere
 
 Határidő: 2020. szeptember 1.
 
-4.[^1]
+4.[^2]
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pontot az 1331/2021. (V. 31.) Korm. határozat 2. pontja visszavonta.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
