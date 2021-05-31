@@ -1,0 +1,1 @@
+A Kormány a Budapesti Gazdasági Egyetem Központi Könyvtár és Hallgatói Központ megvalósítására irányuló beruházás előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 2024/2017. (XII. 22.) Korm. határozat 1. pontjában meghatározott feladat végrehajtása érdekében
