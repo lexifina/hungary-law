@@ -1,0 +1,9 @@
+# 297/2021. (V. 31.) Korm. rendelet
+
+a pénzügyi közvetítőrendszert érintő egyes kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-297-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-05-31 | 2021-297-20-22.1 | 297/2021. (V. 31.) Korm. rendelet |
