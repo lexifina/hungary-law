@@ -1,6 +1,6 @@
-## 20202C20000042_10
+## 20202C20000042_1
 
-3. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^3]
+3. melléklet a 42/2020. (XI. 19.) MNB rendelethez
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -272,7 +272,109 @@ Az „Egyéb tartalék” sor tartalmazza a tőkemódszer alkalmazásával elsz�
 
 A „(-) Saját részvények” soron kell szerepeltetni az adatszolgáltató által visszavásárolt sajáttőke instrumentumokat.
 
-4.
+4. SF02 Felügyeleti eredménykimutatás
+
+Az eredménnyel szemben valós értéken értékelt pénzügyi instrumentumokból és a fedezeti elszámolások közé sorolt származtatott fedezeti ügyletekből eredő kamatbevételeket és kamatráfordításokat az egyéb nyereségtől és veszteségtől elkülönülten kell feltüntetni a „Kamatbevétel” és „Kamatráfordítások” [„tiszta ár” (nettó ár)] között, vagy az ezen instrumentumkategóriákból származó nyereség vagy veszteség részeként [„piszkos ár” (bruttó ár)]. A tiszta vagy a piszkos árra vonatkozó megközelítést következetesen kell alkalmazni az eredménnyel szemben valós értéken értékelt valamennyi pénzügyi instrumentumra és a fedezeti elszámolások kategóriájához sorolt származtatott fedezeti ügyletekre.
+
+Az adatszolgáltatónak a következő tételeket számviteli portfóliók szerinti bontásban kell megadna:
+
+„Kamatbevételek”;
+
+„Kamatráfordítások”;
+
+„Osztalékbevétel”;
+
+„Az eredménnyel szemben valós értéken értékelt kategóriába nem tartozó pénzügyi eszközök és kötelezettségek kivezetéséből származó nyereség vagy veszteség, nettó”;
+
+„Módosítás miatti nyereség/ (-) veszteség, nettó”;
+
+„Eredménnyel szemben valós értéken értékelt kategóriába nem tartozó pénzügyi eszközök értékvesztése vagy (-) értékvesztésének visszaírása”.
+
+Tiszta ár alkalmazása esetén a fedezett pénzügyi instrumentumokból származó pontos kamatbevételek és kamatráfordítások megjelenítése érdekében a „Kamatbevételek. Kereskedési céllal tartott pénzügyi eszközök” és a „Kamatráfordítások. Kereskedési céllal tartott pénzügyi kötelezettségek” tartalmazza a „kereskedési céllal tartott” kategóriába sorolt azon származtatott ügyletekhez kapcsolódó összegeket, amelyek gazdasági szempontból fedezeti instrumentumnak minősülnek, számviteli szempontból azonban nem.
+
+Tiszta ár alkalmazása esetén a „Kamatbevételek. Kereskedési céllal tartott pénzügyi eszközök” és a „Kamatráfordítások. Kereskedési céllal tartott pénzügyi kötelezettségek” tartalmazza továbbá valamely – az adott alkalomból valós értéken megjelölt – pénzügyi instrumentummal szembeni hitelkockázat vagy annak egy része kezeléséhez felhasznált, az eredménnyel szemben valós értéken értékelt hitelderivatívához kapcsolódó időarányos díjakat és egyenlegfizetéseket [IFRS 9 6.7. bekezdése].
+
+Tiszta ár alkalmazása esetén a „Kamatbevételek. Származtatott ügyletek — Fedezeti elszámolások, kamatlábkockázat” és a „Kamatráfordítások. Származtatott ügyletek — Fedezeti elszámolások, kamatlábkockázat” tartalmazza a „fedezeti elszámolások” kategóriába sorolt azon származtatott ügyletekhez kapcsolódó összegeket, amelyek kamatlábkockázatot fednek le, ideértve az ellentétes kockázati pozíciójú tételcsoportok fedezetei ügyleteit (nettó pozíció fedezete), amelyek fedezett kockázata az eredménykimutatás különböző sorain levő tételeket érint. Tiszta ár alkalmazása esetén ezeket az összegeket bruttó kamatbevételként és kamatráfordításként és azon fedezett tételekből származó pontos kamatbevételként és kamatráfordításként kell megadni, amelyekhez kapcsolódnak. Tiszta ár alkalmazása esetén, amennyiben a fedezett tételek kamatbevételt (-ráfordítást) generálnak, ezeket az összegeket kamatbevételként (-ráfordításként) kell feltüntetni akkor is, ha negatív (pozitív) összegről van szó.
+
+A „Kamatbevételek – Egyéb eszközök” azon kamatbevételek összegét tartalmazza, amelyek nem szerepelnek a többi tétel között, például azokat a kamatbevételeket, amelyek a készpénz, a számlakövetelések központi bankokkal szemben, az egyéb látra szóló betétek, valamint az értékesítésre tartottnak minősített befektetett eszközök és elidegenítési csoportok kategóriákhoz kapcsolódnak, továbbá a meghatározott juttatási program nettó eszközeiből származó nettó kamatbevételeket.
+
+A kamatbevételek között kell kimutatni a lízingbeadó pénzügyi lizíngköveteléséből származó kamatbevételeit, illetve a lízingbevevő lízingkötelezettséggel kapcsolatos kamatráfordításait, kivéve amennyiben az adatszolgáltató él az IFRS 16 5. és 6. bekezdése szerinti eltérő megjelenítés lehetőségével.
+
+A pénzügyi kötelezettségekkel összefüggő, negatív effektív kamatlábú kamatokat a „Pénzügyi kötelezettségekkel kapcsolatos kamatbevételek” soron kell feltüntetni. Ezek a kötelezettségek és kamataik pozitív hozamot jelentenek az adatszolgáltatónak.
+
+A „Kamatráfordítások – Egyéb kötelezettségek” sor az egyéb tételek közé nem tartozó kamatráfordítások összegét tartalmazza, például az értékesítésre tartottnak minősített elidegenítési csoportokba tartozó kötelezettségekhez kapcsolódó kamatráfordításokat, egy céltartalék könyv szerinti értékének az idő múlását tükröző növekedéséhez kapcsolódó kamatráfordításokat, vagy a meghatározott juttatási program nettó kötelezettségeiből származó nettó kamatráfordításokat.
+
+A pénzügyi eszközökkel összefüggő, negatív effektív kamatlábú kamatokat a „Pénzügyi követelésekkel kapcsolatos kamatráfordítások” soron kell feltüntetni. Ezek az eszközök és kamataik negatív hozamot jelentenek az adatszolgáltatónak.
+
+Az eredménnyel szemben valós értéken értékelt tulajdoni részesedést megtestesítő instrumentumokból származó osztalékbevételt – tiszta ár alkalmazása esetén – az ezen instrumentumkategóriákból származó egyéb nyereségtől és veszteségtől elkülönítve, „Osztalékbevétel”-ként, vagy – piszkos ár alkalmazása esetén – az ezen instrumentumkategóriákból származó nyereség vagy veszteség részeként kell feltüntetni.
+
+Az egyéb átfogó jövedelemmel szemben valós értéken megjelölt, tulajdoni részesedést megtestesítő instrumentumokból származó osztalékbevétel az időszak alatt kivezetett instrumentumokhoz kapcsolódó osztalékokat, továbbá a vonatkozási időpontban tartott instrumentumokhoz kapcsolódó osztalékokat foglalja magában.
+
+A leányvállalatokba, közös vállalkozásokba, valamint társult vállalkozásokba történt befektetésekből származó osztalékbevételt akkor kell jelenteni az osztalékbevételek között, amikor a befektetéseket a tőkemódszertől eltérő módszer használatával számolják el.
+
+A „Díj- és jutalékbevételek” és „Díj- és jutalékráfordítások” tartalmazza a következőktől eltérő díj- és jutalékbevételeket, valamint díj- és jutalékráfordításokat:
+
+a) a pénzügyi instrumontumok effektív kamatlábának kiszámításakor figyelembe vett összegek [az IFRS 7 20. bekezdés c) pontja];
+
+b) az eredménnyel szemben valós értéken értékelt kategóriába nem tartozó pénzügyi instrumentumokból származó összegek [IFRS 7 20. bekezdés c) ponti. alpontja].
+
+A eredménnyel szemben valós értéken értékelt pénzügyi instrumentumok megszerzésének vagy kibocsátásának tulajdonítható tranzakciós költségeket a „Kereskedési céllal tartott pénzügyi eszközökből és kötelezettségekből származó nyereség vagy veszteség, nettó”, a „Kötelezően az eredménnyel szemben valós értéken értékelt nem kereskedési célú pénzügyi eszközök nyersége vagy veszteség, nettó” és az „Eredménnyel szemben valós értéen értékeltnek megjelölt pénzügyi eszközök és kötelezettségek nyeresége vagy vesztesége, nettó” sorokban kell szerepeltetni, a számviteli portfóliótól függően, amelybe besorolták.
+
+A „Kereskedési céllal tartott pénzügyi eszközökből és kötelezettségekből származó nyereség vagy (–) veszteség, nettó” sor a kereskedési céllal tartottként besorolt pénzügyi instrumentumok átértékeléséből vagy kivezetéséből származó nyereséget és veszteséget tartalmazza. Ez a tétel tartalmazza az eredménnyel szemben valós értéken értékeltként megjelölt pénzügyi instrumentum egésze vagy egy része hitelkockázatának kezelésére használt, az eredménnyel szemben valós értéken értékelt hitelderivatívákon keletkezett nyereséget és veszteséget, valamint a kereskedési céllal tartott pénzügyi eszközökön és pénzügyi kötelezettségeken keletkezett osztalékot, valamint kamatbevételt és -ráfordítást, piszkos ár alkalmazása esetén.
+
+„Az eredménnyel szemben valós értéken értékeltnek megjelölt pénzügyi eszközök és kötelezettségek nyeresége vagy vesztesége” tartalmazza az eredménykimutatásban az eredménnyel szemben valós értéken értékeltként megjelölt kötelezettségek saját hitelkockázata tekintetében megjelenített összeget is, amennyiben a saját hitelkockázat változásainak az egyéb átfogó jövedelemben való megjelenítése számviteli meg nem felelést eredményez vagy növeli azt [IFRS 9 5.7.8. bekezdése]. Ez a tétel tartalmazza továbbá az eredménnyel szemben valós értéken értékeltként megjelölt fedezett instrumentumok nyereségét és veszteségét, amennyiben a megjelölés célja a hitelkockázat kezelése, valamint az eredménnyel szemben valós értéken megjelölt pénzügyi eszközök és kötelezettségek kamatbevételét és -ráfordítását, piszkos ár használata esetén.
+
+„Az eredménnyel szemben valós értéken értékelt kategóriába nem tartozó pénzügyi eszközök és kötelezettségek kivezetéséből származó nyereség vagy (–) veszteség” soron a kivezetésből származó realizált nettó nyereséget vagy veszteséget kell feltüntetni. A nettó összeg a realizált nyereség és realizált veszteség közötti különbözet. Nem tartalmazza az olyan tulajdoni részesedést megtestesítő instrumentumokon keletkező nyereséget, amelyek esetében az adatszolgáltató úgy döntött, hogy azokat az egyéb átfogó jövedelemmel szemben valós értéken értékeli [IFRS 9 5.7.1. bekezdés b) pontja].
+
+Amennyiben az üzleti modell megváltoztatása egy pénzügyi eszköz eltérő számviteli portfólióba való átsorolásához vezet, az átsorolásból származó nyereséget vagy veszteséget azon számviteli portfólió megfelelő soraiban kell feltüntetni, amelyekbe a pénzügyi eszközt átsorolták, a következőknek megfelelően:
+
+a) amennyiben egy pénzügyi eszközt az amortizált bekerülési érték értékelési kategóriából az eredménnyel szemben valós értéken értékelt számviteli portfólióba sorolnak át [IFRS 9 5.6.2. bekezdése], az átsorolásból eredő nyereségeket vagy veszteségeket a „Kereskedési céllal tartott pénzügyi eszközökből és kötelezettségekből származó nyereség vagy (–) veszteség, nettó” tételben vagy a „Kötelezően az eredménnyel szemben valós értéken értékelt nem kereskedési célú pénzügyi eszközök nyeresége vagy (–) vesztesége, nettó” tételben kell feltüntetni;
+
+b) amennyiben egy pénzügyi eszközt az egyéb átfogó jövedelemmel szemben valós értéken értékelt kategóriából az eredménnyel szemben valós értéken értékelt kategóriába sorolnak át [IFRS 9 5.6.7. bekezdése], a korábban az egyéb átfogó jövedelemben megjelenített, az eredménybe átsorolt halmozott nyereséget vagy veszteséget a „Kereskedési céllal tartott pénzügyi eszközökből és kötelezettségekből származó nyereség vagy (–) veszteség, nettó” tételben vagy a „Kötelezően az eredménnyel szemben valós értéken értékelt nem kereskedési célú pénzügyi eszközök nyeresége vagy (–) vesztesége, nettó” tételben kell feltüntetni.
+
+A „Fedezeti elszámolásokból eredő nyereségek vagy (–) veszteségek, nettó” sor tartalmazza a fedezeti instrumentumokon és fedezett tételeken keletkező nyereségeket és veszteségeket, ideértve az egyéb átfogó jövedelemmel szemben valós értéken értékelt, tulajdoni részesedést megtestesítő instrumentumoktól eltérő fedezett tételeken valamely valósérték-fedezeti ügyletben keletkező nyereségeket és veszteségeket az IFRS 9 6.5.8. bekezdésének megfelelően, de ide nem értve a kamatbevételt és kamatfordítást tiszta ár alkalmazása esetén. Tartalmazza továbbá valamely cash flow-fedezeti ügyletben a fedezeti instrumentumok valósérték-változásának nem hatékony részét. A cash flow-fedezeti ügyletek tartalékának az átsorolását az „Eredménykimutatás” ugyanazon soraiban kell megjeleníteni, mint a fedezett tételekből eredő cash flow által eredményezetteket. A „Fedezeti elszámolásokból eredő nyereségek vagy (–) veszteségek, nettó” sor tartalmazza a nettó pozíciók fedezeti ügyletéből eredő nyereségeket is.
+
+A „Nem pénzügyi eszközök kivezetéséből származó nyereség vagy (–) veszteség” tartalmazza a nem pénzügyi eszközök kivezetéséből származó nyereségeket és veszteségeket, kivéve ha az eszközök értékesítésre tartottnak vagy leányvállalatokba, társult vállalkozásokba, valamint közös vállalkozásokba történt befektetéseknek minősülnek.
+
+A „Pénzbeli hozzájárulás szanálási, betétbiztosítási alapokhoz” tartalmazza a szanálási és a betétbiztosítási alapokba befizetett összegeket. Ha a fizetési kötelezettség – a vonatkozó számviteli előírások szerint – kötelezettséget eredményez, akkor azt a „Céltartalékképzés- vagy céltartalékok feloldása” között elkülönítetten kell bemutatni.
+
+Az „Egyéb adminisztrációs költségek” tartalmazzák a következő ráfordításokat:
+
+a) az adatszolgáltató informatikai költségeit, beleértve az informatikai rendszerek létrehozásával és karbantartásával kapcsolatos költségeket, kivéve az informatikai szakemberek személyi jellegű ráfordításait. Itt kell jelenteni az informatika kiszervezéséből eredő költségeket is. Az IT költségeket külön soron is meg kell adni;
+
+b) azokat az egyéb adókat és illetékeket, melyeket az adatszolgáltató a „Folytatódó tevékenységből származó eredményhez kapcsolódó adóráfordítás vagy (-) bevétel”, illetve a „Megszűnt tevékenységekhez kapcsolódó adóráfordítás vagy (-) bevétel” sorokon nem mutat ki;
+
+c) a szakértői vagy stratégiai tanácsadáshoz kapcsolódó konzultációs és szakmai szolgáltatások költségeit;
+
+d) a marketing célú kommunikációs költségeket (például a reklám, a közvetlen vagy online marketing, események);
+
+e) a hitelkockázattal kapcsolatos adminisztratív költségeket (például biztosíték érvényesítésével vagy jogi (bírósági) eljárással kapcsolatos ráfordítások);
+
+f) a peres ügyek céltartalékkal nem fedezett ráfordításait;
+
+g) az ingatlanok javítási és karbantartási költségeit, amelyek nem javítják az ingatlan hasznosítását, illetve nem járnak együtt az ingatlan hasznos élettartamának növekedésével, valamint a közüzemi költségeket (víz, villany, fűtés);
+
+h) a lízingdíjakat, amennyiben a lízingbevevő él az IFRS 16 5. és 6. bekezdése szerinti eltérő megjelenítés lehetőségével (kisösszegű vagy rövid futamidejű lízing ügyletek);
+
+i) az egyéb igazgatási költségeket (például logisztikai szolgáltatások, postai költségek, biztonsági szolgáltatások, pénzfeldolgozási vagy pénzszállítási szolgáltatások).
+
+A „Módosítás miatti nyereség vagy (-) veszteség, nettó” tartalmazza a pénzügyi eszközök bruttó könyv szerinti értékének az újratárgyalt vagy módosított szerződéses cash flow-k tükrözése céljából történő kiigazításából eredő összegeket [IFRS 9 5.4.3. bekezdése és A. függeléke]. A módosításból származó nyereségek vagy veszteségek nem tartalmazzák a várható hitelezési veszteségek összegének módosításából eredő hatást, amelyet az „Eredménnyel szemben valós értéken értékelt kategóriába nem tartozó pénzügyi eszközök értékvesztése vagy (–) értékvesztésének visszaírása” soron kell feltüntetni.
+
+A „Céltartalékképzés vagy (-) céltartalékok feloldása. Adott kötelezettségvállalások és garanciák” sor tartalmazza az IFRS 9, az IAS 37 vagy az IFRS 4 hatókörébe tartozó valamennyi kötelezettségvállalásra és garanciára képzett céltartalékok változását. A valós értéken értékelt elkötelezettségek és pénzügyi garanciák valós értékében bekövetkezett bármely változást az „Eredménnyel szemben valós értéken értékeltnek megjelölt pénzügyi eszközök és kötelezettségek nyeresége vagy (–) vesztesége, nettó” soron kell feltüntetni. Következésképpen a céltartalékok tartalmazzák azon kötelezettségvállalások és garanciák értékvesztésének összegét, amelyek esetében az értékvesztés meghatározása az IFRS 9 szerint történik, vagy a céltartalékképzés megfelel az IAS 37-nek, illetve amelyeket az IFRS 4 értelmében biztosítási szerződésként kezelnek.
+
+Az „Eredménnyel szemben valós értéken értékelt kategóriába nem tartozó pénzügyi eszközök értékvesztése vagy (–) értékvesztésének visszaírása” tartalmazza a hitelviszonyt megtestesítő instrumentumoknak az IFRS 9 5.5. bekezdése szerinti értékvesztési szabályok alkalmazásából eredő értékvesztés miatti nyereségét vagy veszteségét, függetlenül attól, hogy az IFRS 9 5.5. bekezdése szerinti várható hitelezési veszteség becslése 12 hónapra vagy az élettartamra vonatkozik-e, ideértve a vevőköveteléseken, szerződéses eszközökön és lízingből származó követeléseken keletkező értékvesztési nyereséget vagy veszteséget [IFRS 9 5.5.15. bekezdése].
+
+Az „Eredménnyel szemben valós értéken értékelt kategóriába nem tartozó pénzügyi eszközök értékvesztése vagy (–) értékvesztésének visszaírása” tartalmazza továbbá azon leírt összegeket, amelyek a leírás időpontjában meghaladják az értékvesztés összegét, és ezért közvetlenül az eredményben kerülnek megjelenítésre veszteségként, valamint a korábban leírt, közvetlenül az eredménykimutatásban elszámolt összegek megtérülését.
+
+Az IAS 27 10. bekezdés c) pontja alapján a tőkemódszerrel elszámolt leányvállalatokba, társult vállalkozásokba és közös vállalkozásokba történt befektetések eredményéből való részesedést a „Tőkemódszerrel elszámolt leányvállalatokba, közös vállalkozásokba, valamint társult vállalkozásokba történt befektetések nyereségéből vagy (-) veszteségéből való részesedés” soron kell feltüntetni. Az IAS 28 10. bekezdése szerint a befektetés könyv szerinti értékét csökkenteni kell az e gazdálkodó egységek által fizetett osztalékkal. Az említett befektetések értékvesztését a „Leányvállalatokba, közös vállalkozásokba, valamint társult vállalkozásokba történt befektetések értékvesztése vagy (–) értékvesztésének visszaírása” soron kell feltüntetni.
+
+A leányvállalatokba, közös vállalkozásokba, valamint társult vállalkozásokba történt befektetések kivezetéséből származó nyereséget vagy veszteséget a „Megszűnt tevékenységek nyeresége vagy (–) vesztesége adófizetés előtt” soron kell jelenteni, amennyiben az IFRS 5 szerinti megszűnt tevékenységről van szó. Amennyiben az adatszolgáltató a leányvállalatokba, közös vállalkozásokba, valamint társult vállalkozásokba történt befektetéseket nem minősítette értékesítésre tartottá vagy megszűnt tevékenységnek az IFRS 5 szerint, ezen befektetések kivezetéséből származó minden eredményt a „Leányvállalatokba, közös vállalkozásokba, valamint társult vállalkozásba történt befektetések kivezetéséből származó nyereségek vagy (-) veszteségek, nettó” soron kell jelenteni, függetlenül az elszámolás módszerétől.Az egyéb működési bevételek és ráfordítások tartalmazzák a következő tételeket: a valósérték-modell alkalmazásával értékelt tárgyi eszközök valósérték-korrekciói, befektetési célú ingatlanokból származó bérletidíj-bevételek és közvetlen működési költségek, az operatív lízingből (kivéve a nem befektetési célú ingatlanokból) származó bevételek és ráfordítások, és a többi működési bevétel és ráfordítás.
+
+Az egyéb működési bevétel tartalmazza az adatszolgáltató mint lízingbe adó által operatív lízingtevékenysége – kivéve a befektetési célú ingatlanként minősített eszközökkel folytatott ilyen tevékenységet – során kapott bevételeket, az egyéb működési ráfordítás pedig a nála az operatív lízinggel kapcsolatban felmerült költségeket. Az adatszolgáltató mint lízingbe vevő költségeit az „Egyéb adminisztrációs költségek” között kell feltüntetni.
+
+Az IFRS 16 49. bekezdése alapján a lízingbevevő által a mérlegben eszközként kimutatandó ún. használatijog-eszközök értékcsökkenését és a kapcsolódó lízingkötelezettségek kamatát az eredmény- és átfogó jövedelem kimutatásokban elkülönítve kell bemutatni, így amennyiben a használatijog-eszközt az adatszolgáltató IAS 16 szerinti bekerülési értéken értékeli, akkor a kapcsolódó értékcsökkenést az „Értékcsökkenés” soron, illetve a mögöttes tárgyi eszköznek megfelelő mérleg szerinti alábontó soro(ko)n kell kimutatni.
+
+Az értékesítési költségekkel csökkentett valós értéken értékelt arany, egyéb nemesfém-állományok és egyéb áruk kivezetéséből és átértékeléséből származó nyereséget és veszteséget is az „Egyéb működési bevételek” vagy az „Egyéb működési ráfordítások” között kell feltüntetni.
 
 5. SF03 Felügyeleti átfogó jövedelemkimutatás
 
@@ -722,7 +824,73 @@ A „Valós érték változása az időszak alatt” oszlop azon instrumentumok 
 
 Az „A valósérték-változás halmozott összege adófizetés előtt” oszlopban az instrumentumok kezdeti megjelenítéstől az adatszolgáltatás vonatkozási időpontjáig történő átértékeléséből származó nyereséget vagy veszteséget kell szerepeltetni.
 
-14.
+14. SF1801─SF1803 Teljesítő és nem teljesítő kitettségek
+
+A „Forint” részletező tábla a forintban fennálló, deviza árfolyamkockázattal nem rendelkező, a „Deviza” részletező tábla a devizában fennálló kockázatvállalások adatait és a hozzájuk kapcsolódó fedezetet (függetlenül a fedezet devizanemétől), értékvesztést, hitelkockázat változásból fakadó negatív valós érték változás halmozott összegét és a céltartalékot tartalmazza.
+
+A nem teljesítő kitettség fogalmát az 1. melléklet 2. pontja tartalmazza. A kitettségek minősítését a 39/2016. (X. 11.) MNB rendelet szabályai szerint kell elvégezni.
+
+A nem teljesítő kitettség fogalmát – a kereskedési céllal tartott portfólió kivételével – valamennyi adósságeszközre (számlakövetelések központi bankkal szemben és egyéb látra szóló betétek, hitelviszonyt megtestesítő értékpapírok, jegybanki és bankközi betétek, hitelek), valamint a mérlegen kívüli kitettségekre (adott hitelnyújtási elkötelezettségek, adott pénzügyi garanciavállalások, egyéb kötelezettségvállalások) alkalmazni szükséges. Ennek megfelelően a táblák tartalmazzák azon adósságeszközöket is, amelyeket a hitelintézet az IFRS 5 alapján az „Értékesítésre tartottá minősített befektetett eszközök és elidegenítési csoportok” kategóriába sorolt.
+
+A központi bankkal és hitelintézettel szembeni számlakövetelések, hitelviszonyt megtestesítő értékpapírok, jegybanki és bankközi betétek, valamint hitelek nettó állománya (bruttó érték – értékvesztés és a hitelkockázat változásából származó valós-érték változás halmozott összege) meg kell, hogy egyezzen az SF0101 táblában ezen adósságeszközök összesített nettó állományával, ide nem értve a kereskedési céllal tartott kategóriába sorolt tételeket, melyeket az SF1801-SF1803 táblák nem tartalmazzák.
+
+A tábla alkalmazásában valamely kitettség késedelmes, ha az esedékesség napján a tőkeösszeg, kamat vagy díj bármely része nem került kifizetésre.
+
+A kitettségek teljesítő és nem teljesítő kategóriákba történő sorolásánál a 39/2016. (X. 11.) MNB rendelettel összangban a szerződés szerinti vagy ügyfél szerinti megközelítést kell alkalmazni.
+
+A táblák oszlopai
+
+A teljes portfóliót a 010. Teljesítő és nem teljesítő kitettségek összesen oszlopban kell szerepeltetni. A teljesítő kitettségeket a 020., a nem teljesítő kitettségeket a 070. oszlopban kell feltüntetni.
+
+Kitettség alatt mérlegen belüli követelés esetén a bruttó könyv szerinti érték, mérlegen kívüli tétel esetén a nyilvántartási érték értendő.
+
+Mind a teljesítő, mind a nem teljesítő kategórián belül a kitettségeket szerződésenként, az adott követeléshez kapcsolódó, időben legrégebbi késedelembe eséstől (hátralék) eltelt napok száma szerint kell besorolni a késedelmességi (lejártsági) kategóriákba.
+
+A 030. Nem késedelmes és a 080. Nem késedelmes, de nem valószínű, hogy fizet oszlopban csak azok a szerződéses kockázatvállalások szerepelhetnek, amelyeknél az aktuális szerződés szerinti teljesítés nem esik késedelembe, azaz a szerződés hátralékos tétellel nem rendelkezik, függetlenül attól, hogy a hitel átstrukturált vagy sem.
+
+A 040-060. és 090-140. oszlopba a szerződéseket a legrégebbi késedelembe esés (hátralék) időpontjától eltelt napok száma szerint kell sávonként besorolni.
+
+Legrégebbi késedelemnek (lejáratnak) minősül az a lejárt tőke- vagy kamatkövetelés rész, amelyet az ügyfél a szerződésben meghatározott esedékességkor nem teljesített.
+
+A már késedelmesen vásárolt követelések esetén a késedelmességet (lejártságot) az eredeti szerződés szerinti nemfizetés időpontjától kell számítani függetlenül attól, hogy a pénzügyi intézmény a követelést mikor vásárolta.
+
+Ha a követelés átstrukturálásakor a szerződésben a lejárati esedékesség módosításra kerül, a fizetési késedelmet az érvényes szerződés ütemezésének megfelelően kell meghatározni.
+
+Ha egy nem teljesítő kitettség esetében egyszerre fennáll a lehetősége, hogy nem valószínű, hogy az adós a hitel teljes összegét visszafizeti, és már lejárt esedékességű tőke- vagy kamatkövetelés része is van, akkor a kitettség összegét a késedelmesség (lejártság) szerint kell a nem teljesítő kategóriákba besorolni.
+
+A késedelmes devizahitelek forintosítása esetén, azaz abban az esetben, ha a hitelintézet a vonatkozó devizahitel-szerződés, illetve az általános szerződési feltételek alapján a fennálló devizahitel tartozás egy részét (pl. a késedelmes törlesztőrészleteket) vagy teljes egészét (pl. felmondás esetén) a könyveiben már forintban tartja nyilván, és a kapcsolódó követelésre vagy követelésrészre az ügyféllel szemben árfolyamváltozást ezt követően már nem számol el (csak abban az esetben, ha az eredeti devizahitel-szerződés, illetve az általános szerződési feltételek tartalmazza a forintosítás feltételeit, azaz a forintra történő átváltásnak nem feltétele a szerződésmódosítás), a hitel forintosított és deviza részét egységes egészként (teljes követelésként) kell kezelni. Ez azt jelenti, hogy a teljes szerződéses állomány legrégebbi hátralék szerinti összetételének megállapításánál a forintosított rész késedelmességét is figyelembe kell venni. A forintban és devizában nyilvántartott szerződésrészeket a forint- és devizatáblák ugyanazon késedelmességi sávjába kell besorolni.
+
+A 90 napot meghaladó késedelemben lévő azon kitettségeket, amelyek esetében a hátralék összege a CRR 178. cikkének megfelelően nem jelentős, és ezért a kitettség teljesítő minősítést kapott, az adatszolgáltatásban a 61-90 nap közötti késedelmű kitettségekkel együtt, a 060. oszlopban kell jelenteni.
+
+A 150. és a 304. oszlopban kell szerepeltetni a CRR 178. cikke szerinti nem teljesítő (defaulted) kitettségeket, valamint a hozzájuk kapcsolódó értékvesztés, hitelkockázat változásából származó negatív valósérték-változás és céltartalék összegét.
+
+A 170-304. Értékvesztés, a hitelkockázat változásából származó negatív valósérték-változás halmozott összege és céltartalék oszlopban a mérlegen belüli követelések utáni értékvesztés, a hitelkockázat változásából származó negatív valósérték-változás halmozott összegét és a mérlegen kívüli tételeken fennálló céltartalék állományát kell kimutatni, amelyet tovább kell bontani a késedelmességi (lejártsági) összetételnek megfelelően is. A hitelkockázat változásából származó negatív valós érték változást az 1. melléklet 2.19. pontjában foglalt bruttó könyv szerinti érték fogalomnak megfelelően csak a nem teljesítő, eredménnyel szemben valós értéken értékelt, hitelviszonyt megtestesítő instrumentumok esetében (a kereskedési céllal tartottak kivételével) kell meghatározni és jelenteni. Az értékvesztést és a hitelkockázat változásából származó negatív valós érték változást negatív, a céltartalékokat pozitív előjellel kell a táblában szerepeltetni.
+
+A IFRS 9 szerinti értékvesztési szakaszokba sorolt pénzügyi instrumentumok bruttó könyv szerinti értékét (mérlegen kívüli kitettségek esetében névértékét), a kapcsolódó értékvesztés (mérlegen kívüli kitettségek esetében céltartalék) állományát és a fedezeteket értékvesztési szakaszonként részletezve, kiemelten is be kell mutatni. Az IFRS 9 szerinti értékvesztési szakaszok nem tartalmazzák a vásárolt vagy keletkeztetett értékvesztett pénzügyi eszközöket, melyeket külön oszlopban kell bemutatni.
+
+A 310-443. Fedezetek értéke a kitettség könyv szerinti értékének erejéig oszlopban a fedezetek besorolását a kapcsolódó szerződés devizaneme és késedelmesség (lejártság) szerinti összetétele határozza meg. Ha egy fedezet több különböző szerződéshez tartozik, a fedezeteket a pénzügyi intézmény által meghatározott bevonási sorrendben kell szerepeltetni a kapcsolódó szerződéseknek megfelelő forint vagy deviza táblában, a szerződések késedelmességi (lejártsági) összetételének megfelelően.
+
+A fedezetet biztosítéki értéken lehet figyelembe venni a mérlegen belüli kintlévőség nettó könyv szerinti értéke, illetve a mérlegen kívüli kitettség nyilvántartási értékének céltartalékkal csökkentett értéke erejéig. Biztosítéki érték: a piaci érték belső fedezeti előírások alapján korrigált értéke.
+
+A táblák sorai
+
+A 010. sorban a központi bankkal és hitelintézetekkel szembeni látra szóló követeléseket kell jelenteni bruttó könyv szerinti értéken.
+
+A 050. sor a hitelviszonyt megtestesítő értékpapírok állományát tartalmazza, bruttó könyv szerinti értéken.
+
+A 150. sorban a jegybanki és bankközi betéteket, a 040. sorban a hitelek bruttó értékét kell kimutatni. A hitelek szektor és terméktípus bontása megegyzik az SF07HT-SF07HB táblával, a kitöltésnél az ott leírtakat kell figyelembe venni.
+
+Az 510-530. sorban a CRR I. mellékletében felsorolt mérlegen kívüli kötelezettségeket kell feltüntetni. Ezek a mérlegen kívüli kötelezettségek hitelezési kockázatot keletkeztetnek, jellemzőjük, hogy az ügylet megszűnésekor mérlegbeli eszköztétel keletkezik. Ennek megfelelően a tábla nem tartalmazza a hitelezési kockázattal nem rendelkező mérlegen kívüli kötelezettségeket (pl. peres ügyekkel kapcsolatos függő kötelezettségek, származtatott ügyletek a hitelderivatívák kivételével), melyek megszűnésekor nem mérlegbeli eszköztétel, hanem veszteség jellegű fizetési kötelezettség jelentkezik.
+
+Az 510. sorban a hitelnyújtási elkötelezettségek állományát kell szerepeltetni. A hitelnyújtási elkötelezettségek előre meghatározott feltételek mellett történő hitelnyújtásra vonatkozó határozott kötelezettségvállalások. A CRR I. mellékletében felsorolt mérlegen kívüli tételek közül ilyenek a határidős betétügyletek és az olyan le nem hívott hitelkeretek, amelyek kölcsönnyújtásra vagy elfogadványokra vonatkozó megállapodásokat foglalnak magukban előre meghatározott szerződéses feltételek mellett.
+
+Az 520. sorban a vállalt pénzügyi garanciák értékét kell kimutatni. A pénzügyi garanciák olyan szerződések, amelyek a kibocsátónak meghatározott fizetések teljesítését írják elő a tulajdonos abból adódó veszteségének megtérítésére, hogy egy meghatározott adós esedékességkor nem fizet a hitelviszonyt megtestesítő instrumentum eredeti vagy módosított feltételeinek megfelelően. A CRR I. mellékletében felsorolt mérlegen kívüli tételek közül ilyenek a hitelhelyettesítő jellegű garanciák, a pénzügyi garancia definíciójának megfelelő hitelderivatívák és a hitelhelyettesítő jellegű visszavonhatatlan készenléti hitellevelek.
+
+Az 530. sor tartalmazza a CRR I. mellékletében felsorolt egyéb mérlegen kívüli kötelezettségvállalásokat.
+
+Az 510-530. sor nem tartalmazza az IFRS 9 szerint eredménnyel szemben valós értéken értékelt mérlegen kívüli tételeket [IFRS 9.2.3. bekezdés a) pont]. Ezen mérlegen kívüli kitettségek névértéke és a nem teljesítő mérlegen kívüli kitettségek esetében azok hitelkockázat-változásból származó negatív valósérték-változásának halmozott összege az SF0901 kódú tábla 120. és 130. oszlopában jelentendő.
+
+Az 560-650. sorban kell a belföldi háztartási szektor részére nyújtott hiteleket (370. sor) termékek szerinti bontásban tovább részletezni.
 
 15. SF1901─SF1903 Átstrukturált kitettségek
 
@@ -3005,247 +3173,3 @@ Az adatszolgáltatónak e sorokban meg kell adnia az automatikus és fogyasztói
 - a 9R223 és 9R224 sorban szereplő mutatók számlálójában szerepeltetnie kell a lejárat nélküli tételeket (pl. lejárat nélküli betéteket a 9R224 sorban és hitelkártyákat a 9R223 sorban), a 9R221 és 9R222 sor számlálójában azonban nem.
 
 48. 10GA Legnagyobb betétesek
-
-A jelentés a hitelintézet forrásgyűjtő tevékenységében a betétesekhez kapcsolódó koncentrált kockázatokat mutatja be, mivel egy jelentős betétállomány kedvezőbb feltételek miatti gyors megmozdulásának a hitelintézet fizetőképességre gyakorolt hatása jelentős.
-
-A jelentésben az ügyfelektől kapott forrásokat kell részletezni, köztük a hitelintézeteket is fel kell tüntetni, mint betételhelyezőket vagy mint hitelnyújtókat. Azokat az ügyfeleket is fel kell tüntetni, amelyek csak betételhelyezők és nincs hitelkapcsolatuk, főleg akkor, ha a betétállományuk meghaladja a szavatoló tőke 10%-át.
-
-A forrásokat az adatszolgáltató által alkalmazott számvitel szabályozással összhangban, könyv szerinti értéken kell a táblában szerepeltetni.
-
-A tábla oszlopai
-
-A Kódjel oszlopba az ország két karakteres ISO kódját kell beírni (pl. Magyarország esetén HU), kitöltése kötelező. Természetes személy ügyfél esetén az általános szabályok között leírt „S” jelzést az Azonosító oszlopban kell feltüntetni. Egyéb esetekben az Azonosító oszlop üresen marad.
-
-A j) oszlopban kell szerepeltetni a mérlegben megjelenített visszavásárlási megállapodásokból szerzett forrást.
-
-A tábla sorai
-
-A 10GA1 Összesen sor megegyezik a 10GA2 Tulajdonosoktól származó forrás (10GB táblában részletezett), a 10GA3 sor Befektetésektől származó forrás (10GC táblában részletezett), a 10GA4 Nem részletezettek összesen, valamint a 10GA5 Részletezettek összesen összegével.
-
-Azokat a tulajdoni kapcsolatban álló vállalkozásokat, amelyekben a hitelintézet részesedéssel vagy bármilyen érdekeltséggel rendelkezik, illetve amelyek a hitelintézetben részesedéssel, bármilyen érdekeltséggel (csoporttag, anya- vagy leány-hitelintézet, vezetői kapcsolat) rendelkeznek, külön táblákon kell részletezni.
-
-A 10GA2 Tulajdonosoktól származó forrás sorban a 10GB táblán részletezett, a hitelintézet (fióktelep esetén a fióktelep központjának) tulajdonosaitól, illetve a vezető személyek és vállalkozásaitól, a 10GA3 Befektetésektől származó forrás sorban a 10GC táblán jelentett, a hitelintézet (fióktelep esetén a fióktelep központjának) befektetéseitől származó összes forrást kell oszloponként összegezve jelenteni.
-
-A 10GA4 Nem részletezettek összesen sorban az 01 sortól kezdődő részletező sorokban fel nem sorolt betéteseket – az egyezőség érdekében – összevontan kell kimutatni, beleértve a más hitelintézettől kapott elhelyezett hiteleket is, amennyiben más kapcsolata nincs a hitelintézetnek. Itt kell feltüntetni a megfelelő oszlopban a nem névre szóló betéteket, illetve a betéti okiratokat is.
-
-A 10GA5 Részletezettek összesen sorban az 01 sortól felsorolt betétesek adatait kell összegezni.
-
-Az 01 sortól – folyamatosan – egyenként fel kell sorolni az 50 (szövetkezeti formában működő hitelintézeteknél 25) legnagyobb betétest (ügyfeleket, ügyfélcsoportokat, beleértve a hitelintézetet is), az elhelyezett összes forrás l) Összes kötelezettség oszlopban feltüntetett összegének csökkenő sorrendjében.
-
-Függetlenül az első 50 legnagyobb betétestől, a felsorolásban minden, a szavatoló tőke 2%-át meghaladó forrást nyújtónak szerepelnie kell. Ha ez több, mint az első ötven, akkor a felsorolást folytatni kell.
-
-A lakástakarékpénztáraknak azt az 50 ügyfelet kell – az összeg csökkenő sorrendjében – feltüntetni, akikkel szemben a betétállomány a legnagyobb, és meghaladja az egy millió forintot.
-
-A szövetkezeti formában működő hitelintézetek esetében azt a 25 ügyfelet kell felsorolni, amelyekkel szemben a hitelintézeti kötelezettségvállalás együttes összege a legnagyobb. A legnagyobb betéteseket a velük szemben fennálló teljes kötelezettségállomány együttes összegének csökkenő sorrendjében kell felsorolni.
-
-A fenti jelzett két táblában (10GB és 10GC táblában) részletezett betéteseket nem kell a részletező sorokban feltüntetni.
-
-A legnagyobb betéteseket tételesen, név szerint, a törzsszám és a kódjel feltüntetésével kell felsorolni.
-
-A d) Azonosító oszlopba a természetes személyre vonatkozó betűjelet („S”) kell beírni.
-
-Ha az ügyfél (beleértve a hitelintézetet is) többféle betétet helyezett el, illetve forrást biztosított a hitelintézet számára, akkor ezeket a tábla e)-k) oszlopában jellegük szerint csoportosítva, összevontan kell szerepeltetni.
-
-Az e) oszlopban a látra szóló, illetve a nem lekötött folyószámlát, az f)-i) oszlopban a lekötött betéteket kell kimutatni. A többi adatot az oszlop megnevezésének megfelelően kell kitölteni.
-
-A repóügyletekből származó forrásokat a j) oszlopban, a hitelintézetektől (esetleg más vállalkozástól) kapott hiteleket a k) Felvett hitelek oszlopban kell kimutatni.
-
-Az MNB-vel szembeni kötelezettséget a 10GA4 Nem részletezettek összesen sorban kell kimutatni.
-
-Amennyiben mérlegen kívüli tételként nyilvántartott forrást (hitelkeretet) is kapott a hitelintézet, úgy azt az m) oszlopban kell szerepeltetni.
-
-49. 10GB Tulajdonosoktól és személyektől származó források
-
-A jelentésben a hitelintézetben részesedéssel, bármilyen érdekeltséggel (csoporttag, anya- vagy az anya leányvállalata, vezetői kapcsolat) rendelkező tulajdonosoktól származó forrásokat kell részletezni. A táblában a hitelintézet tulajdonosaként megjelenő más hitelintézeteket is fel kell tüntetni, mint betételhelyezőket vagy mint hitelnyújtókat.
-
-A jelentés kitöltésénél a 10GA kódú táblában foglaltakat kell figyelembe venni, mivel a jelentés oszlopszerkezete és a sorok kitöltése azonos.
-
-50. 10GC Befektetésektől származó források
-
-A jelentésben azokat az ügyfelektől kapott forrásokat kell részletezni, amelyekben a hitelintézet részesedéssel, bármilyen érdekeltséggel (csoporttag, leány-hitelintézet, vezetői kapcsolat) rendelkezik. Itt a hitelintézet tulajdonában lévő más hitelintézeteket is fel kell tüntetni, mint betételhelyezőket, vagy mint hitelnyújtókat.
-
-A tábla oszlopai
-
-A jelentés oszlopszerkezete azonos a 10GA kódú táblával, ezért kitöltésénél az ott meghatározottakat kell figyelembe venni.
-
-A tábla sorai
-
-A tábla 10GC1 Összesen sora egyenlő a 10GC4 Nem részletezettek összesen sor, valamint a 10GC5 Részletezettek összesen sor együttes összegével.
-
-A 10GC2 sorban kell összegezni azokat a kapcsolt, a 20%-ot meghaladó, továbbá a 10GC3 sorban a 10%-ot elérő és a 20% alatti tulajdoni hányadot képviselő vállalkozásokat kell kiemelni és összesíteni, amelyek a részletező sorokban egyenként fel vannak tüntetve.
-
-A 10GC4 Nem részletezettek összesen sorban a 01 sortól kezdődő részletező sorokban fel nem sorolt betéteseket összevontan kell kimutatni.
-
-A 10GC5 Részletezettek összesen sorban a 01 sortól felsorolt betétesek adatait kell összegezni.
-
-51. 11AA és 11AB Tulajdonosi szerkezet 1 és 2
-
-A táblák több megközelítésben a hitelintézet jegyzett tőkéje tulajdonlásának, illetve az ehhez kapcsolódó szavazati aránynak a szektorális, illetve ország szerinti alakulását, továbbá a hitelintézet tulajdonosait mutatja a tényleges részjegy-állomány változásának nyomonkövetésével.
-
-11AA Tulajdonosi szerkezet 1
-
-Ez a tábla a hitelintézet tulajdonosainak szektoronkénti besorolását, illetve ország szerinti alakulását részletezi.
-
-A hitelintézet jegyzett tőkéjét, beleértve a Cégbíróságra benyújtott (befizetett, de még be nem jegyzett) tőkeemelés összegét is a névérték és a tulajdoni, illetve szavazati arány szerint kell főbb tulajdonos csoportonként kimutatni.
-
-A szövetkezeti formában működő hitelintézetnek az ismert tulajdonosi szerkezetnek megfelelően kell kimutatni az összes tag által rendelkezésre bocsátott bruttó (valós) részjegyállományt. (Valós részjegyállománynak – cégbírósági bejegyzéstől függetlenül – azt a részjegyállományt kell tekinteni, amit a tagok pénzügyileg már rendeztek. Ennek megfelelően tartalmazza a tag már befizetett részjegyének névértékét és nem tartalmazza a kilépő tagnak már kifizetett részjegy névértékét.)
-
-Az adatokat elsősorban a részvénykönyv alapján kell közölni. Abban az esetben, ha a részvénykönyv adataitól (pl. be nem jegyzés miatt) jelentősen eltér a tulajdonlás aktuális szerkezete, akkor a hitelintézet tudomására jutott utolsó információ alapján, a valós állapotnak megfelelően kell a tulajdonosokra vonatkozó táblákat kitölteni.
-
-Az első táblában a hitelintézet részvénytulajdonosainak szektor szerinti megoszlását kell közölni.
-
-A jegyzett tőke még be nem fizetett részét, amennyiben még nem határozható meg, hogy melyik szektorbeli tulajdonos jegyezte le, a 11AA126 Egyéb, illetve külföldiek esetében a 11AA22 Külföldi egyéb sorba kell beírni.
-
-A táblákat értelemszerűen a részletezésnek megfelelően kell kitölteni.
-
-A tábla oszlopai
-
-A b) Törzsrészvények névértéke, a c) Szavazatelsőbbségi részvények névértéke, a d) Különleges vétójogot biztosító szavazatelsőbbségi részvények névérték, az e) Különleges osztalékelsőbbségi részvény névértéke, illetve az f) Osztalékelsőbbségi részvény névértéke oszlopban a kibocsátott részvények névértékét kell kimutatni a kibocsátási sorozat jelétől függetlenül.
-
-A g) oszlopban a névértékeket összesíteni kell. A névértékeket millió forintban (szükség szerint három tizedesjegy pontossággal) kell megadni.
-
-Ahol olyan szavazatelsőbbségi részvények is vannak, amelyek összege nem éri el az egymillió forintot, ott a hitelintézeteknek három tizedes jegyig kell az értékeket megadni az érintett tulajdonosi soroknál
-
-A tulajdoni arányt a h) oszlopban, a szavazati arányt az i) oszlopban kell feltüntetni (függetlenül attól, hogy szavazatelsőbbségi részvények a tulajdoni, illetve a szavazati arányt eltérítik egymástól).
-
-A szövetkezeti formában működő hitelintézeteknél a tulajdoni részesedés százalékos mértékének meghatározásakor a tagok által birtokolt részjegy állomány összegét az összes tag által rendelkezésre bocsátott bruttó részjegy állományhoz kell viszonyítani. A tényleges állományban tulajdonosnak kell tekinteni a részjegy értékét már befizető belépő tagot és nem lehet tagnak tekinteni azt az állományból kizárt vagy kilépett személyt, akinek a részjegy értékét már kifizették.
-
-Ahol olyan szavazatelsőbbségi részvények, illetve különleges vétójogot biztosító szavazatelsőbbségi részvények is vannak, amelyek összege nem éri el az egymillió forintot, és a tulajdoni vagy szavazati arány igen csekély (nem ér el három tizedesjegyig sem kimutatható mértéket), ott a hitelintézeteknek nullát kell beírni a megnevezés oszlopban *-gal meg kell jelölni az érintett tulajdonosi sorokat, függetlenül attól, hogy az adott sor b) oszlopában szerepel érték.
-
-A szavazati arány megállapításánál a szavazati jogot biztosító (szavazatelsőbbségi, illetve különleges vétójogot biztosító szavazatelsőbbségi) részvény szavazati arányához hozzá kell adni a törzsrészvények korrigált mértékű tulajdoni hányadait is. A szövetkezeti formában működő hitelintézeteknél az egy tulajdonos részjegyének szavazati aránya az alapító okiratban (vagy jogszabályban) meghatározott hányad.
-
-Az Arány % megfelelő oszlopaiban két tizedesjegy pontossággal kell kimutatni a tulajdoni hányadot, illetve a szavazati jogot, amely a jegyzett tőkéhez (szövetkezeti formában működő hitelintézetek esetében az aktuális részjegytőkéhez) viszonyított arányt jelenti. (A százalék jelét nem kell feltüntetni.)
-
-A tábla sorai
-
-A 11AA111 MNV Zrt. sorban kell az MNV Zrt.-re, illetve a tulajdonosi jogokat gyakorló minisztériumra (jelenleg a Pénzügyminisztérium) bejegyzett részvényeket feltüntetni.
-
-A jogszabály szerint az állami tulajdonosi jogosítványt gyakorló egyéb szerveket, vállalkozásokat a 11AA112 Egyéb állami tulajdonos sorban kell kimutatni.
-
-A 11AA31 Visszavásárolt részvények sorban a hitelintézet által visszavásárolt saját részvényeinek névértékét és arányát kell szerepeltetni.
-
-A 11AA32 Nem azonosított részvényesek sorban csak a tőzsdén jelenlevő hitelintézetek jelentethetnek meg adatokat a társasági események közötti időszakban. Itt olyan, a részvénykönyvben nem rögzített tulajdonosokat és részvényarányokat lehet jelenteni, amelyeket a tőzsde nem köteles jelenteni, és a hitelintézetnek sincs tudomása a valódi tulajdonlásról.
-
-A 11AA4 sorban kell a fenti szektorok szerinti tulajdonosokat összesíteni.
-
-A 11AA5 Ország szerinti tulajdonosi megoszlás összesen sorban az alábontásnak megfelelően szükséges közölni és a részvényeseket országok szerint felsorolni. Az ország szerinti felsorolás nem korlátozott.
-
-A részletező sorokban az adatokat millió forintban (szükség esetén három tizedesjegy pontossággal) kell kimutatni.
-
-A 11AA4 Összesen és 11AA5 Ország szerinti tulajdonosi megoszlás összesen sorok értékének meg kell egyeznie a jegyzett tőke (szövetkezeti formában működő hitelintézetek esetében a részjegytőke) összegével.
-
-11AB Tulajdonosi szerkezet 2
-
-Ez a tábla a hitelintézet tulajdonosainak név és tulajdoni-, illetve szavazati arányok szerinti alakulását részletezi a tényleges részjegyállomány változásának nyomonkövetésével.
-
-A hitelintézet jegyzett tőkéjét a névérték és a tulajdoni-, illetve szavazati arány szerint kell tulajdonosonként kimutatni. Ennek érdekében a hitelintézetnek rendelkeznie kell – elsősorban a részvénykönyv alapján – olyan kimutatással, amelyből az egyes tulajdonosokhoz (ügyfelekhez) kapcsolódó tulajdoni-, illetve szavazati arány – ennek mértékétől függetlenül – megállapítható.
-
-A tulajdoni, illetve szavazati arány megállapításánál figyelembe kell venni:
-
-- a Hpt. 3. mellékletében foglaltakat a közvetett tulajdon számításáról, továbbá ugyanezen melléklet 2. pontját a természetes személynek a közeli hozzátartozóival együtt birtokolt, illetve gyakorolt tulajdoni és szavazati hányadának számításáról;
-
-- a Hpt. VII. fejezetében foglaltakat a tulajdonjog gyakorlásának szabályairól, a tulajdonosokra, a vezető testületek tagjaira és a vezető állású személyekre vonatkozó szabályairól;
-
-- a szövetkezeti formában működő hitelintézetekre vonatkozó (a 11AA kódú táblában leírt) sajátosságokat.
-
-A tulajdoni, illetve szavazati arány megállapításánál a tulajdonlás aktuális helyzetének, a valós állapotnak megfelelően kell a közvetlen-, illetve a közvetett tulajdonosokra vonatkozó adatokat kitölteni, ideértve, ha a tulajdonlás a Hpt. 6. § (1) bekezdés 6. pontjában meghatározottak szerinti befolyásoló részesedést vagy ellenőrző, de nem számszerűsíthető részesedést jelent. Ebben az esetben a részletező sorban a név (megnevezés) melletti kódjel oszlopba „V” jelet kell írni, és az érintett tulajdonlás jellegének megfelelő – közvetlen- vagy közvetett tulajdoni (szavazati) arány – oszlopba 10%-ot, illetve 51%-ot kell feltüntetni. Ezt az eltérő tulajdonlást az összesítő a) vagy b) sorokban a valós értékkel és aránnyal kell kimutatni.
-
-A szövetkezeti formában működő hitelintézeteknél a tulajdoni részesedés százalékos mértékének meghatározásakor a tagok által birtokolt részjegy állomány összegét az összes tag által rendelkezésre bocsátott bruttó részjegy állományhoz kell viszonyítani. Ettől eltér az egy tulajdonos részjegyének szavazati aránya, amely az alapító okiratban (vagy jogszabályban) meghatározott hányad.
-
-A felsorolás sorrendje elsődlegesen a tulajdoni arány nagyságához igazodik.
-
-Azokat az intézményeket is ki kell mutatni, amelyek a kistulajdonosokat, mint „befektetési letétkezelő”, illetve a részvényekre vonatkozó letéti igazolásokat szolgáltató társaság fogják össze a tulajdonosok által képviselt részarány feltüntetésével (pl. GDR társaságok).
-
-A sorok száma nem korlátozott, a felsorolást folytatni kell mindaddig, amíg az összes tulajdonos kimutatásra nem kerül.
-
-A kapcsolódó ügylettel rendelkező ügyfeleken belül is a felsorolást a minősített befolyással (10%-ot elérő vagy meghaladó közvetlen és közvetett) rendelkezőkkel kell kezdeni és folytatni az 5%-ot elérő vagy azt meghaladó aránnyal rendelkező tulajdonosokkal.
-
-A tulajdonosi szerkezet megismerése érdekében azokat az 5%-ot elérő vagy azt meghaladó aránnyal rendelkező tulajdonosokat is fel kell sorolni, akiknek nincs kapcsolódó ügyletük a hitelintézettel.
-
-A tételeket – elsősorban a minősített befolyások felsorolásával – az együttes szavazati (tulajdoni) részarányok csökkenő sorrendjében kell a tábla soraiban szerepeltetni.
-
-A tábla oszlopai
-
-Az a) oszlopban a tulajdonos nevét, a b) Kódjel oszlopban K jelzéssel a Számv. tv. szerint kapcsolt vállalkozásnak minősülő vállalkozást, V jellel a nem számszerűsített minősített befolyás vagy ellenőrző részesedésű tulajdonlást, M jelzéssel a Hpt. 6. § (1) bekezdés 122. pontja szerinti vezető állású személyt kell megjelölni.
-
-A c) oszlopban a tulajdonos törzsszámát, illetve a külföldi azonosító adatát, a d) oszlopban a tulajdonos országának két karakteres ISO kódját (pl. Magyarország esetén HU), az e) oszlopban az ügyfél tevékenységét rögzítő TEÁOR ágat kell feltüntetni (a nemzetgazdasági ágak, ágazatok TEÁOR számjele és az adatszolgáltatásban feltüntetendő betűjel közötti összefüggést az MNB honlapján közzétett „A nemzetgazdasági ágak, ágazatok számjele a Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszerében (TEÁOR) és a számjel megfeleltetése az MNB betűjellel” című, technikai segédlet tartalmazza.:
-
-A közvetlenül tulajdonolt részvények névértékét az f) oszlopban, a szavazatelsőbbségi részvényekét a g) oszlopban, illetve a különleges vétójogot biztosító szavazatelsőbbségi részvényekét h) oszlopban kell kimutatni.
-
-Az osztalékelsőbbséget, illetve a különleges osztalékelsőbbséget biztosító részvényeket a 11AB4 Egyéb 5% alatti tulajdonosok összesen sorban kell figyelembe venni, úgy, hogy az értékét az f) oszlopban kell feltüntetni.
-
-Az f), g) és h) oszlop összegének meg kell egyezni a jegyzett tőke értékével, az i) oszlopnak pedig a teljes tulajdoni aránnyal.
-
-Az i) oszlopban kell kimutatni a jegyzett tőke összértékéhez viszonyított tulajdoni arányokat, beleértve a szavazatelsőbbségi részvényeket, illetve a különleges vétójogot biztosító szavazatelsőbbségi részvényeket is, amelynek arányát a szavazati jogot, illetve a különleges vétójogot biztosító részvény névértékének figyelembevételével kell kiszámítani.
-
-A j) oszlopban a közvetlen tulajdonlású részvények szavazati arányát kell feltüntetni.
-
-A szavazati arány megállapításánál a szavazati jogot biztosító (szavazatelsőbbségi, illetve a különleges vétójogot biztosító szavazatelsőbbségi) részvény szavazati arányához hozzá kell adni a törzsrészvények korrigált mértékű tulajdoni hányadait is.
-
-Az Arány % megfelelő oszlopaiban két tizedesjegy pontossággal kell kimutatni a tulajdoni hányadot, illetve szavazati jogot, amely a jegyzett tőkéhez viszonyított arányt jelenti. (A százalék jelét nem kell feltüntetni.)
-
-Az i), illetve a j) oszlopban lévő összesen sorok összegének meg kell egyezni a teljes tulajdoni aránnyal.
-
-A közvetett tulajdonlást a k) oszlopban kell kimutatni. A szavazati jogot, mint tulajdoni hányadot kell figyelembe venni.
-
-Az l) Szavazati arány összesen oszlopban kell összesíteni a tulajdonosnak – a j) és a k) oszlopban feltüntetett – együttes közvetett és közvetlen tulajdoni és szavazati arányát. Ennek az aránynak a mértékét kell figyelembe venni a minősített befolyás megállapításánál.
-
-A tábla sorai
-
-11AB1 Minősített befolyású tulajdonosok összesen
-
-Ez a sor összesíti az alábbi sorokban feltüntetett adatokat.
-
-11AB11 Minősített befolyások kapcsolódó ügylettel összesen (alább részletezve)
-
-Ebben a sorban kell azoknak a befolyásoló részesedéssel rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfeleknek – a tulajdoni, illetve szavazati arányát összesíteni, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
-
-11AB12 Minősített befolyások kapcsolódó ügylettel nem rendelkező összesen (alább részletezve)
-
-Ebben a sorban azoknak a minősített befolyással (10%-ot elérő vagy meghaladó közvetlen és közvetett) rendelkező tulajdonosoknak a részletező sorokban feltüntetett ügyfelek – az adatait kell összesíteni, amelyek a hitelintézetnél kapcsolódó ügylettel nem rendelkeznek.
-
-11AB21 5% és 10% közötti tulajdonosok, kapcsolódó ügylettel összesen (alább részletezve)
-
-Ebben a sorban kell azoknak a nem minősített befolyással (5%-ot elérő vagy meghaladó közvetlen és közvetett tulajdoni-, illetve szavazati aránnyal) rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfelek – az adatait összesíteni a tulajdonlás mértékétől függetlenül, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
-
-11AB22 1% és 5% közötti tulajdonosok, kapcsolódó ügylettel összesen (alább részletezve)
-
-Ebben a sorban kell összesíteni azoknak az 1% és 5% közötti tulajdoni-, illetve szavazati aránnyal rendelkező tulajdonosoknak – a részletező sorokban feltüntetett ügyfelek – az adatait összesíteni a tulajdonlás mértékétől függetlenül, akikkel szemben a hitelintézetnek bármilyen követelése vagy vállalt kötelezettsége van.
-
-11AB3 1% és 10% közötti tulajdonosok, befektetési alapok, GDR társaságok kapcsolódó ügylet nélkül összesen (alább részletezve)
-
-Ebben a sorban kell összesíteni az ügyleti kapcsolatban nem álló, nem minősített befolyással (10% alatti tulajdoni-, illetve szavazati aránnyal) rendelkező részvényeseket, továbbá a befektetési letétkezelőket, a részvények tulajdonosaira letéti igazolásokat szolgáltató (pl. GDR társaságokat). A letéti igazolásokat nyújtó, illetve összefogó intézmények által képviselt tulajdoni adatokat a részletező sorokban fel kell tüntetni.
-
-11AB4 Egyéb 5% alatti tulajdonosok összesen (nem részletezve)
-
-Ebben a sorban kell azoknak az 5% alatti tulajdoni-, illetve szavazati aránnyal rendelkező tulajdonosoknak az adatait összesíteni, amelyek nem ismertek. Ebben a sorban kell szerepeltetni az 1 % alatti tulajdoni résszel rendelkező tulajdonosokat. Itt kell számba venni a visszavásárolt részvények névértékét, illetve arányát.
-
-Az Integrációs Szervezetnek a takarékszövetkezetekben fennálló teljes tulajdonrészét a 11AB5 sorban külön is ki kell mutatni, vagyis az előbbiekben feltüntetett sorokból kiemelésként kell szerepeltetni.
-
-A 11AB6 Összesen sor az 1)-5) összegző sorban feltüntetett adatok összesítésére szolgál. Ennek a sornak meg kell egyeznei a jegyzett tőke értékével, illetve a teljes tulajdoni aránnyal.
-
-A részletező sorokban egyedileg ki kell mutatni az 1 % fölötti tulajdoni hányaddal rendelkező tulajdonosokat és tulajdonosi csoportokat.
-
-A 11AB701 sortól kell részletezni az egyéni tulajdonosokat, a 801 sortól a tulajdonosi csoportokat (jogi személyek, természetes személyek és azok közeli hozzátartozói, köztes vállalkozások) az összetartozás feltüntetésével, az egyesített tulajdoni hányad megállapítása érdekében.
-
-52. 14HD Mikro-, kis- és középvállalkozások részesedése a hitelintézetek által a vállalkozásoknak folyósított hitelekből és hitelállománya
-
-Ez a tábla tartalmazza a KKVtv. alapján, valamint a kis- és középvállalkozások helyzetével, támogatásával összefüggő adatszolgáltatásról szóló 5/2009. (I. 16.) Korm. rendelet 2. mellékletében meghatározott adatokat, valamint egyéb, az MNB információs igényét kielégítő adatokat.
-
-A táblában a KKVtv. által meghatározott belföldi mikro-, kis- és középvállalkozások (KKV) részére nyújtott, valamint az ezen vállalkozásokkal szemben, a tárgyhónap végén fennálló követelésállományt kell bruttó értéken feltüntetni. A meglévő hitelállomány adata független a folyósított hitelek nagyságától.
-
-A KKV-k méretének meghatározásánál, illetve egyes vállalkozói típusokba sorolásakor (mikro-, kis- és középvállalkozások) a KKVtv.-ben előírtak szerint a létszámot és az éves nettó árbevételt vagy a mérlegfőösszeget együttesen, valamint a hivatkozott jogszabályban meghatározott egyéb feltételeket is kell figyelembe venni.
-
-A vállalkozások nettó árbevétel vagy mérlegfőösszeg szerinti nagyságának és a KKV alapján történő besorolás megállapításához a KKVtv.-ben euróban meghatározott összegek forintra történő átszámításakor a tárgyévet megelőző év utolsó napján érvényes MNB hivatalos devizaárfolyamot kell alkalmazni.
-
-A vállalkozás fogalmát a KKVtv. 19. § 5. pontja határozza meg, amelybe beletartoznak az MNB szektorbesorolás szerinti önálló vállalkozókból a KKV-nak minősülő vállalkozók (például egyéni vállalkozó, mezőgazdasági őstermelő, családi vállalkozás) is, de a támogatott vállalkozások közé nem tartoznak sem a gazdasági társasági, sem a szövetkezeti formában működő hitelintézetek.
-
-Azokat a vállalkozásokat, amelyek a KKV-ra meghatározott együttes feltételnek nem felelnek meg, illetve a hitelintézeteket, valamint a külföldi vállalkozásokat nem szabad számításba venni.
-
-A mikro-, kis- és középvállalkozások az Egyéb pénzügyi vállalatok és Nem pénzügyi vállalatok ügyfélszektorokba tartozhatnak. Az egyéb pénzügyi vállalatokba tartoznak az egyéb pénzügyi közvetítők és a pénzügyi kiegészítő tevékenységet végző vállalkozások (a pénzügyi vállalkozások, befektetési vállalkozások, egyéb intézmények, biztosítók). A nem pénzügyi vállalatokhoz sorolandók az előző szektorba be nem sorolt vállalkozások, továbbá a KKV-nak minősülő önálló vállalkozók is. A táblában csak a nem pénzügyi vállalati körbe sorolt KKV-kat kell jelenteni.
-
-A folyószámlahitel folyósítás és állomány adatai a kényszerhitelt is tartalmazzák, melynek tárgyidőszak végi állományi összegét külön soron is be kell mutatni.
-
-A hitelállományra vonatkozó szerződés darabszám adatokban – az SF07H kódú táblával egyezően – csak a tárgyidőszak végén kitettséggel rendelkező szerződések számát kell szerepeltetni, azaz a nulla („0") folyószámlahitel állományú, de élő szerződések darabszámát a darabszám adatokban nem kell feltüntetni.
-
-[^3]: A 3. melléklet II.4. és II.14. pontja a 15. § (4) bekezdése alapján 2021. június 1-jén lép hatályba.

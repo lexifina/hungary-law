@@ -876,6 +876,4 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik, az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet a 42/2020. (XI. 19.) MNB rendelethez[^2]
-
-[^2]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK” megnevezésű táblázat 4. és 21–23. sora, az ott meghatározott felügyeleti jelentések táblái a 15. § (4) bekezdése alapján 2021. június 1-jén lép hatályba
+2. melléklet a 42/2020. (XI. 19.) MNB rendelethez
