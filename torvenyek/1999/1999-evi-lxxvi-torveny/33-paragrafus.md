@@ -10,4 +10,4 @@
 
 (3) A szabad felhasználásra vonatkozó rendelkezéseket nem lehet kiterjesztően értelmezni.
 
-(4) E fejezet rendelkezéseinek alkalmazása szempontjából az iskolai oktatás célját szolgálja a felhasználás, ha az az óvodai nevelésben, az általános iskolai, középfokú iskolai oktatásban, szakképző intézményben folyó szakmai oktatásban, az alapfokú művészeti iskolai oktatásban vagy a felsőoktatásról szóló törvény hatálya alá tartozó felsőfokú oktatásban a tantervnek, illetve a képzési követelményeknek megfelelően valósul meg.
+(4) Ha törvény eltérően nem rendelkezik, a szabad felhasználás szerződéssel vagy egyoldalú jognyilatkozattal való kizárása vagy korlátozása semmis, ideértve azt az esetet is, ha a szerző a felhasználás vonatkozásában megfelelő díjazásban részesül.

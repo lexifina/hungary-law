@@ -1,0 +1,1 @@
+57/B. § A tartalommegosztó szolgáltató nyilvánosság számára lehívásra hozzáférhetővé tételt végez, ha a nyilvánosság számára elérhető szolgáltatása keretében hozzáférést biztosít a szolgáltatást igénybe vevő személyek által feltöltött művekhez vagy szomszédos jogi teljesítményekhez.

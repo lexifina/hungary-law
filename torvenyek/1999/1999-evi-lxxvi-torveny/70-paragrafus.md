@@ -18,13 +18,15 @@ d) 0,5 százaléka a vételárnak a 350 000,01 és 500 000 eurónak megfelelő f
 
 e) 0,25 százaléka a vételárnak az 500 000 eurónak megfelelő forintösszeg feletti részében.
 
+(4a) A (4) bekezdés szerinti vételár megállapítása során a mű ellenértékéből az adón és más köztartozáson kívül semmilyen más összeg nem vonható le.
+
 (5) A díj mértéke nem haladhatja meg a 12 500 eurónak megfelelő forintösszeget.
 
 (6) A díjfizetési kötelezettség nem terjed ki az (1) bekezdésben szabályozott átruházásra, ha az adót és más köztartozást (pl. kulturális járulékot) nem tartalmazó vételár nem haladja meg az 5000 forintot.
 
 (7) A forintösszeg számításánál a Magyar Nemzeti Banknak a szerződéskötés szerinti naptári negyedév első napján érvényes hivatalos devizaárfolyama irányadó.
 
-(8) Ha muzeális intézmény nem műkereskedőtől szerzi meg az eredeti műalkotás tulajdonjogát, az (1) bekezdésben meghatározott szerzői díjat nem kell megfizetni, feltéve, hogy a muzeális intézmény működése jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
+(8) Ha muzeális intézmény műkereskedőnek nem minősülő természetes személytől szerzi meg az eredeti műalkotás tulajdonjogát, az (1) bekezdésben meghatározott szerzői díjat nem kell megfizetni, feltéve, hogy a muzeális intézmény működése jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja.
 
 (9) A szerzői díjat a műkereskedő fizeti meg a képzőművészeti és iparművészeti alkotásokra vonatkozó szerzői jogok közös kezelését végző szervezetnek. Ha a tulajdonjog átruházását eredményező ügyletben több műkereskedő működik közre, a műkereskedők a díj megfizetéséért egyetemlegesen felelnek. Ilyen esetben egymás között a kötelezettség a műkereskedők közül – ha eltérően nem állapodnak meg – az eladót terheli. Ha az ügyletben közreműködő műkereskedők közül egyik sem vesz részt eladóként az átruházásban, eltérő megállapodás hiányában a kötelezettség közülük a vevőt terheli.
 

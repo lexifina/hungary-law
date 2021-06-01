@@ -1,0 +1,1 @@
+50/B. § A felhasználó és a szerző közötti szerződés részévé váló, a 48. §, az 50/A. § vagy a 102. §-tól eltérő szerződési kikötés semmis. A semmis kikötés, valamint külföldi jog választása esetén az eltérő külföldi jog szabálya helyett a 48. §-t, az 50/A. § (1)–(9) bekezdését, valamint a 102. §-t kell alkalmazni. A semmisségre kizárólag a szerző érdekében lehet hivatkozni.

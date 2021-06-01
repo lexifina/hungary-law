@@ -46,7 +46,7 @@ p) a gyűjteményes műnek minősülő adatbázis.
 
 (3) A szerzői jogi védelem az alkotást a szerző szellemi tevékenységéből fakadó egyéni, eredeti jellege alapján illeti meg. A védelem nem függ mennyiségi, minőségi, esztétikai jellemzőktől vagy az alkotás színvonalára vonatkozó értékítélettől.
 
-(4) Nem tartoznak e törvény védelme alá a jogszabályok, az állami irányítás egyéb jogi eszközei, a bírósági vagy hatósági határozatok, a hatósági vagy más hivatalos közlemények és az ügyiratok, valamint a jogszabállyal kötelezővé tett szabványok és más hasonló rendelkezések.
+(4) Nem tartoznak e törvény védelme alá a jogszabályok, közjogi szervezetszabályozó eszközök, a bírósági vagy hatósági határozatok, a hatósági vagy más hivatalos közlemények és ügyiratok, valamint más hasonló rendelkezések.
 
 (5) A szerzői jogi védelem nem terjed ki a sajtótermékek közleményeinek alapjául szolgáló tényekre vagy napi hírekre.
 

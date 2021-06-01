@@ -6,4 +6,4 @@
 
 (4) Semmis a felhasználási szerződésnek az a kikötése, amely eltér az (1) és a (2) bekezdésben foglaltaktól.
 
-(5) Nem kötelező az adatbázis felhasználására vonatkozó szerződés írásba foglalása az adatbázis műpéldányának a kereskedelmi forgalomban történő megszerzése esetén.
+(5)

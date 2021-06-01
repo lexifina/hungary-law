@@ -12,6 +12,8 @@ d) a hangfelvételek a hangfelvétel első forgalomba hozatalát követő év el
 
 e) a sugárzott műsorok vagy a vezeték útján a nyilvánossághoz átvitt saját műsorok az első sugárzást vagy átvitelt követő év első napjától számított ötven évig;
 
-f) a filmek az első forgalomba hozatalt követő év első napjától számított ötven évig, vagy a film elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a filmet.
+f) a filmek az első forgalomba hozatalt követő év első napjától számított ötven évig, vagy a film elkészítését követő év első napjától számított ötven évig, ha ezalatt nem hozták forgalomba a filmet;
+
+g) a sajtókiadvány első nyilvánosságra hozatalát követő év első napjától számított két évig.
 
 (2) Az (1) bekezdés b) és f) pontjában szabályozott ötvenéves időtartamot, valamint c) pontjában szabályozott hetvenéves időtartamot az első ízben a nyilvánossághoz történő közvetítést követő év első napjától kell számítani, ha a teljesítményt az elkészítésétől számított ötven év alatt nem hozták forgalomba, de a nyilvánossághoz közvetítésére sor került, vagy a nyilvánossághoz közvetítés megelőzi a forgalomba hozatalt. Hangfelvételek esetében [(1) bekezdés d) pont] a hetvenéves időtartamot az első ízben a nyilvánossághoz történő közvetítést követő év első napjától kell számítani, ha a hangfelvételt az elkészítésétől számított ötven év alatt nem hozták forgalomba, de ezalatt a nyilvánossághoz közvetítették.

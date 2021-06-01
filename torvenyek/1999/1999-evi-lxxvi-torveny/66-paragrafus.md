@@ -8,7 +8,7 @@
 
 (4) Az előállító a szerződés alapján őt megillető jogokat más – akár belföldi, akár külföldi – természetes vagy jogi személlyel együttesen is gyakorolhatja.
 
-(5) Az előállító évente legalább egyszer köteles a filmalkotás felhasználásához kapcsolódó bevételeiről a szerzőnek felhasználási módonként írásban elszámolni.
+(5)
 
 (6) Ha az előállító a mű elfogadásától számított négy éven belül a megfilmesítést nem kezdi meg, vagy megkezdi ugyan, de ésszerű határidőre nem fejezi be, a szerző felmondhatja a szerződést és arányos díj megfizetését követelheti. A szerzőt ilyen esetben a felvett előleg megilleti, a művel pedig szabadon rendelkezik.
 

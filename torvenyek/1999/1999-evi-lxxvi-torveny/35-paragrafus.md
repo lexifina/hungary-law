@@ -1,10 +1,10 @@
-35. § (1) Természetes személy magáncélra a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja. E rendelkezés nem vonatkozik az építészeti műre, a műszaki létesítményre, a szoftverre és a számítástechnikai eszközzel működtetett adatbázisra, valamint a mű nyilvános előadásának kép- vagy hanghordozóra való rögzítésére. Kotta reprográfiával [21. § (1) bek.] magáncélra és a (4) bekezdés b)–d) pontjában szabályozott esetekben sem többszörözhető.
+35. § (1) Természetes személy magáncélra a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, feltéve, hogy a felhasználással érintett műhöz jogszerűen fért hozzá. E rendelkezés nem vonatkozik az építészeti műre, a műszaki létesítményre, a szoftverre és a számítástechnikai eszközzel működtetett adatbázisra, valamint a mű nyilvános előadásának kép- vagy hanghordozóra való rögzítésére. Kotta reprográfiával [21. § (1) bek.] magáncélra és a (4) bekezdés b)–d) pontjában szabályozott esetekben sem többszörözhető.
 
-(2) Teljes könyv, továbbá a folyóirat vagy a napilap egésze magáncélra csak kézírással vagy írógéppel másolható szabadon.
+(2)
 
-(3) Nem minősül szabad felhasználásnak – függetlenül attól, hogy magáncélra történik-e –, ha a műről más személlyel készíttetnek másolatot számítógépen, illetve elektronikus adathordozóra.
+(3)
 
-(4) Nyilvános szolgáltatásokat nyújtó könyvtár, iskolai oktatás céljából [33. § (4) bek.] köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, muzeális intézmény, levéltár, valamint a közgyűjteménynek minősülő kép-, illetve hangarchívum a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
+(4) Kulturális örökségvédelmi intézmény [33/A. § (1) bek. 2. pont] valamint oktatási intézmény [33/A. § (1) bek. 3. pont] a műről másolatot készíthet, ha az jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgálja, és
 
 a) tudományos kutatáshoz vagy archiváláshoz szükséges,
 
@@ -12,7 +12,15 @@ b) nyilvános könyvtári ellátás vagy a 38. § (5) bekezdésében meghatároz
 
 c) megjelent mű kisebb részéről, továbbá újság- vagy folyóiratcikkről belső intézményi célra készül, vagy
 
-d)
+d) iskolai oktatás célját szolgáló felhasználáshoz szükséges.
+
+(4a) A kulturális örökségvédelmi intézmény az általa
+
+a) a (4) bekezdés a) pontja szerinti felhasználás céljára előállított másolatot kutatóhely és más kulturális örökségvédelmi intézmény részére,
+
+b) a (4) bekezdés d) pontja szerinti felhasználás céljára előállított másolatot oktatási intézmény [33/A. § (1) bek. 3. pont] részére
+
+jövedelemszerzés vagy jövedelemfokozás célját közvetve sem szolgáló módon szabadon terjesztheti.
 
 (5) Könyvként kiadott mű egyes részei, valamint újság- és folyóiratcikkek az iskolai oktatás céljára egy-egy csoport vagy iskolai osztály létszámának megfelelő, valamint a köznevelés, a szakképzés, illetve a felsőoktatás keretében szervezett vizsgákhoz szükséges példányszámban többszörözhetők, az érintett tanulók, hallgatók részére terjeszthetők és az oktatási intézmény biztonságos elektronikus hálózatán keresztül szemléltetés érdekében számukra lehívásra hozzáférhetővé tehetők.
 

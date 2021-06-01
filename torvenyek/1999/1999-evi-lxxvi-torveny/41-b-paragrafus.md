@@ -14,7 +14,15 @@ a) a kérelmező és – képviselet esetén – a képviselő nevét, lakcímé
 
 b) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy képviselője aláírását;
 
-c) a mű vagy a teljesítmény azonosítására alkalmas adatokat és – ha ez lehetséges – a jogosult, több jogosult esetén valamennyi jogosult nevét, valamint lakcímét vagy tartózkodási helyét;
+c) a mű vagy a teljesítmény azonosítására alkalmas adatokat, így különösen
+
+ca) a mű vagy a teljesítmény címét, a szerző nevét,
+
+cb) a mű vagy a teljesítmény első nyilvánosságra hozatalának évét,
+
+cc) ha ez lehetséges, a szerző születésének és halálának évét, és
+
+cd) a jogosult, több jogosult esetén valamennyi jogosult nevét, és lakcímét vagy tartózkodási helyét;
 
 d) a kérelmező és – képviselet esetén – a képviselő elektronikus levelezési címét vagy telefonszámát.
 
@@ -50,6 +58,6 @@ b) a nem természetes személy kérelmező, illetve képviselő adószámát.
 
 (6) Ha a jogosult a (3)–(5) bekezdés alapján a díj mértékét vitatja, ennek elbírálása – a szerzői jogi perekre irányadó szabályok szerint – bírósági útra tartozik.
 
-(7) Az (1) bekezdés szerinti kérelemért igazgatási szolgáltatási díjat kell fizetni.
+(7) Az (1) bekezdés szerinti kérelemre lefolytatott eljárásért igazgatási szolgáltatási díjat kell fizetni.
 
-(8) Az árva művek felhasználásának engedélyezésével kapcsolatos részletes szabályokat és a (7) bekezdés szerinti díj mértékét kormányrendelet állapítja meg.
+(8) Az árva művek felhasználásának engedélyezésével kapcsolatos részletes szabályokat kormányrendelet állapítja meg.

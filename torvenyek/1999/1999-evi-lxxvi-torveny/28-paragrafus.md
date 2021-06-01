@@ -1,6 +1,8 @@
 28. § (1) A szerző kizárólagos joga, hogy a sugárzással nyilvánossághoz közvetített művét sugárzással továbbközvetítse, és hogy erre másnak engedélyt adjon.
 
-(2) A szerzőnek az is kizárólagos joga, hogy a rádió- vagy televízió-szervezet, illetve a saját műsort a nyilvánossághoz vezeték útján vagy másként közvetítő műsorában sugárzott, illetve közvetített művének sugárzással, vezeték útján vagy egyéb módon – az eredetihez képest más szervezet közbeiktatásával – a nyilvánossághoz történő egyidejű, változatlan és csonkítatlan továbbközvetítésére engedélyt adjon.
+(2) A szerzőnek az is kizárólagos joga, hogy a rádió- vagy televízió-szervezet, illetve a saját műsort a nyilvánossághoz vezeték útján vagy másként közvetítő műsorában sugárzott, illetve közvetített művének sugárzással, vezeték útján vagy egyéb módon – az eredetihez képest más szervezet közbeiktatásával – a nyilvánossághoz történő egyidejű, változatlan és csonkítatlan továbbközvetítésére engedélyt adjon, feltéve, hogy a felhasználásra ellenőrzött környezetben kerül sor, és az eredeti nyilvánossághoz közvetítés nem nyílt internet-hozzáférési szolgáltatás útján történt.
+
+(2a) A (2) bekezdés alkalmazásában ellenőrzött környezet az olyan környezet, amelyben a továbbközvetítés csak a továbbközvetítést megvalósító szervezet szolgáltatásának igénybevételére jogosultak számára válik érzékelhetővé.
 
 (3) A jogosultak a (2) bekezdésben meghatározott jogukat csak közös jogkezelés útján gyakorolhatják, díjukról csak a felosztás időpontját követő hatállyal, a rájuk jutó összeg erejéig mondhatnak le. A díjakat az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet állapítja meg a többi jogosult közös jogkezelő szervezeteivel egyetértésben. A továbbközvetítő szervezet a megállapított díjat az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetnek köteles befizetni.
 
@@ -9,3 +11,5 @@
 (5) Az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezet a díjakból az általa a felosztást illetően nem képviselt műtípusok szerzőinek és szerzői jogi jogosultjainak, valamint az előadóművészeknek és a hangfelvétel-előállítóknak járó részt a jogosultak közös jogkezelő szervezeteinek utalja át.
 
 (6) A magyar közszolgálati médiaszolgáltató rádió- vagy televízió-szervezet műsorában sugárzott, vezetéken vagy másként közvetített művek továbbközvetítéséért járó díjakat a Médiaszolgáltatás-támogató és Vagyonkezelő Alapból kell megfizetni; erről az Alap kezelője gondoskodik.
+
+(7) Nem alkalmazható a (3) bekezdés a rádió- vagy televízió-szervezet saját műsorai [80. § (1) bek.] vonatkozásában.

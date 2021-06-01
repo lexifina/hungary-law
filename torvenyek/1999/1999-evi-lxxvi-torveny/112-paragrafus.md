@@ -2,7 +2,7 @@
 
 112. § (1) Felhatalmazást kap a Kormány, hogy a reprográfiára szolgáló készülékek körét – az érintett érdekképviseleti szervek véleményének figyelembevételével – rendelettel meghatározza.
 
-(2) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa a szerzői jogi szakértő testület szervezetének és működésének részletes szabályait.
+(2) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az SZJSZT szervezetének és működésének részletes szabályait.
 
 (3) Felhatalmazást kap a Kormány, hogy az e törvény 38. §-ának (5) bekezdésében szabályozott szabad felhasználás esetében a nyilvánosság egyes tagjaihoz való közvetítés és a számukra történő hozzáférhetővé tétel módját és feltételeit rendelettel meghatározza.
 

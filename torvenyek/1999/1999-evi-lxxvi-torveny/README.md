@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-76-00-00
 | 2020-05-29 | 2020. évi XXX. törvény | 1999-76-00-00.42 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 1999-76-00-00.43 |
 | 2021-01-01 | 2020. évi CLII. törvény | 1999-76-00-00.44 |
+| 2021-06-01 | 2021. évi XXXVII. törvény | 1999-76-00-00.45 |

@@ -6,12 +6,14 @@
 
 (3) Nem szükséges a szerző engedélye a (2) bekezdés szerinti átvevő mű
 
-a) többszörözéséhez és terjesztéséhez, ha azt az irányadó jogszabályoknak megfelelően tankönyvvé vagy segédkönyvvé nyilvánítják, és a címoldalon az iskolai célt feltüntetik, illetve
+a) többszörözéséhez és terjesztéséhez, ha azt az irányadó jogszabályoknak megfelelően tankönyvvé vagy pedagógus-kézikönyvvé nyilvánítják, és a címoldalon az iskolai célt feltüntetik, illetve
 
-b) iskolai oktatás céljából [33. § (4) bek.] az iskolai oktatás helyszínén történő digitális formában, elektronikus eszközön történő felhasználásához, illetve biztonságos elektronikus hálózaton keresztül történő nyilvánossághoz közvetítéséhez,
+b) iskolai oktatás céljából [33/A. § (1) bek. 1. pont] az iskolai oktatás helyszínén történő digitális formában, elektronikus eszközön történő felhasználásához, illetve biztonságos elektronikus hálózaton keresztül történő nyilvánossághoz közvetítéséhez,
 
 feltéve, hogy e felhasználásokra nem üzletszerűen kerül sor.
 
-(3a) A (3) bekezdés b) pontja szerinti felhasználást úgy kell tekinteni, hogy az oktatási intézmény székhelye szerinti tagállamban valósul meg.
+(3a) A (3) bekezdés b) pontja szerinti felhasználást úgy kell tekinteni, hogy az átvevő művet felhasználó oktatási intézmény [33/A. § (1) bek. 3. pont] székhelye szerinti tagállamban valósul meg.
 
-(4) A mű iskolai oktatási célra iskolai foglalkozás keretében – beleértve a biztonságos elektronikus hálózaton keresztül tartott foglalkozást – átdolgozható. Az átdolgozott mű felhasználásához – az iskolai foglalkozás keretében történő előadást és a (3) bekezdés szerinti felhasználást kivéve – az eredeti mű szerzőjének engedélye is szükséges.
+(3b) A (3) bekezdés b) pontja nem alkalmazható a kották felhasználására.
+
+(4) A mű iskolai oktatási célra iskolai foglalkozás keretében – beleértve a biztonságos elektronikus hálózaton keresztül tartott foglalkozást – átdolgozható. Az átdolgozott mű felhasználásához – az iskolai foglalkozás keretében történő előadást és a (3) bekezdés b) pontja szerinti felhasználást kivéve – az eredeti mű szerzőjének engedélye is szükséges.
