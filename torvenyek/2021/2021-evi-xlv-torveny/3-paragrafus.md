@@ -1,1 +1,1 @@
-3. §
+3. § A Határozat hiteles magyar nyelvű szövegét az 1. melléklet tartalmazza. A Határozatban foglaltak értelmezéséhez szükséges, az Európai Tanács 2020. december 10–11-ei ülésén elfogadott következtetések szövegét a 2. melléklet tartalmazza.
