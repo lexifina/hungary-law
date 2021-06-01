@@ -1,4 +1,4 @@
-## 38. §[^70]
+## 38. §[^90]
 
 ## IX. Fejezet
 
@@ -14,4 +14,4 @@
 
 (4) A speciális működés infokommunikációs támogatását a K–600/KTIR Hírközlési és Informatikai Rendszer biztosítja.
 
-[^70]: A 38. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § c) pontja hatályon kívül helyezte.
+[^90]: A 38. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § c) pontja hatályon kívül helyezte.

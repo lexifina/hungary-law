@@ -1,79 +1,62 @@
-## 6. § A közigazgatási államtitkár
+## 5. §[^21]
 
-1. irányítja a közigazgatási feladatok tervezésével és szervezésével összefüggő feladatok végrehajtását,
+## 6. §[^22] A közigazgatási államtitkár
 
-2.[^13] irányítja a belső kontrollrendszerrel, valamint az integritásfejlesztéssel kapcsolatos tevékenységet, ideértve a korrupció elleni tevékenység ágazati összehangolását,
+1. irányítja az állami célú légiközlekedésben bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatával összefüggő feladatok végzését,
 
-3. irányítja az államháztartási belső ellenőrzés kivételével az ellenőrzési rendszer felső szintű feladatainak végrehajtását,
+2. irányítja az állami célú légiközlekedéssel – különösen a katonai légiforgalmi irányító és légiforgalmi tájékoztató szolgálatokkal, valamint a repülésbiztonsággal – összefüggő honvédelmi ágazati döntések előkészítését,
 
-4. irányítja az ágazat létszámgazdálkodását, előkészíti a vonatkozó kormányzati és országgyűlési döntéseket, a Honvédség létszámára, állományarányaira, felépítésére, felszerelésére, vonatkozó javaslatokat, és gondoskodik a döntések végrehajtásáról,
+3. a Katonai Nemzetbiztonsági Szolgálat kivételével koordinálja a honvédelmi szervezeteket érintő minősített adatok és a személyes adatok védelmére vonatkozó feladatok végrehajtásának rendjét,
 
-5. irányítja a haderőfejlesztés – hatáskörébe utalt – ágazati feladatait,
+4. felel a minisztériumnál és a miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezeteknél az épületekbe történő belépés és elhelyezés rendjének szabályozásáért, továbbá kidolgozza a humán szakanyaggal történő beszerzési és gazdálkodási ellátás rendjét meghatározó szabályozást,
 
-6. irányítja az állami célú légiközlekedésben bekövetkezett légiközlekedési balesetek, súlyos repülőesemények és repülőesemények szakmai vizsgálatával összefüggő feladatok végzését,
+5. irányítja a honvédelmi szervezetek tűzvédelemmel, munkavédelemmel, környezetvédelemmel és természetvédelemmel kapcsolatos honvédelmi ágazati feladatai végrehajtását,
 
-7. irányítja az HM Költségvetés Gazdálkodási Információs Rendszer működését, a rendszer fejlesztésére irányuló, hatáskörébe tartozó alkalmazói követelmények kidolgozását,
+6. irányítja a területrendezés, a területfejlesztés, a településrendezés, a hulladékgazdálkodás, a nagyvízi mederkezelés, a bányászati jelentés Honvédséget érintő egyeztetési és adatszolgáltatási feladatainak ellátását,
 
-8. ellátja a minisztérium és a miniszter közvetlen alárendeltségébe tartozó szervek elhelyezésére szolgáló objektumok objektumbiztonsági felelős feladatait, meghatározza e szerveknél az objektumokban történő elhelyezés, továbbá a humán szakanyaggal történő ellátás rendjét,
+7. irányítja a különleges jogrend bevezetésével és az arra való felkészüléssel összefüggő – a miniszter feladat- és hatáskörét érintő – jogalkotási döntések előkészítését, együttműködve az érintett kormányzati szereplőkkel,
 
-9. a feladat- és hatáskörébe tartozó ügyekben képviseli a minisztériumot,
+8. irányítja a honvédelmi szervezetek és a honvédelmi szervezetnek nem minősülő, a miniszter fenntartói irányítása alá tartozó szakképző intézmény jogi és jogi képviseleti feladatai végrehajtását,
 
-10. irányítja a közigazgatási informatikai stratégia megvalósításával, az iratkezeléssel, valamint az ügyviteli tevékenységgel, továbbá a minősített adatok védelmével és az információbiztonsággal kapcsolatos minisztériumi feladatok végrehajtását, továbbá a Magyar Honvédség parancsnokával együttműködve felügyeli a Honvédség különleges jogrendben bevezetésre kerülő vezetés-irányítási rendszerének minisztériumi szintű kialakítását,
+9. irányítja a honvédelmi szervezetek adatvédelmi és információszabadságra vonatkozó feladatai végrehajtását,
 
-11. a Katonai Nemzetbiztonsági Szolgálat e tevékenységének kivételével, meghatározza a minősített adatok és a személyes adatok védelmére vonatkozó feladatok végrehajtásának rendjét,
+10. irányítja a miniszter törvényességi felügyeleti jogának gyakorlásával kapcsolatos feladatok tervezését, szervezését és végrehajtását,
 
-12. irányítja a NATO és az Európai Unió védelmi tervezési feladataival kapcsolatos hazai feladatok ellátását, összehangolja az érintett szervezetek ezzel kapcsolatos tevékenységét,
+11. irányítja a minisztérium és a miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek igazgatási és az ügyfélszolgálati feladatait,
 
-13. irányítja az állami célú légiközlekedéssel – különösen a katonai légiforgalmi irányító és légiforgalmi tájékoztató szolgálatokkal, valamint a repülésbiztonsággal – összefüggő felső szintű döntések előkészítését,
+12. irányítja a honvédelmi ágazati hatósági és szakhatósági feladatok tervezését és szervezését,
 
-14. irányítja a tűzvédelmi, munkavédelmi és környezetvédelmi feladatok végrehajtását,
+13. irányítja a honvédelmi szervezeteket érintő infrastrukturális és beruházási feladatok megvalósítását,
 
-15. irányítja a területrendezés, a területfejlesztés, a településrendezés, a hulladékgazdálkodás, a nagyvízi mederkezelés, a bányászati jelentés Honvédséget érintő egyeztetési- és adatszolgáltatási feladatainak ellátását,
+14. irányítja a honvédelmi ágazat vagyonkezeléssel, vagyongazdálkodással és lakhatás támogatásával kapcsolatos tevékenységét,
 
-16. irányítja a különleges jogrend bevezetésével és az arra való felkészüléssel összefüggő felső szintű jogalkotási döntések előkészítését,
+15. irányítja a honvédelmi szervezetek gazdálkodási feladatainak végrehajtását, figyelemmel a 11. § (1) bekezdés 15. pontjában foglaltakra is,
 
-17. irányítja a jogi és a jogi képviseleti feladatok végrehajtását,
+16. gyakorolja a pénzügyi és számviteli, ingatlanfenntartási és -üzemeltetési, logisztikai, valamint központosított igazgatási feladatot ellátó szervezet tekintetében
 
-18. irányítja az ágazati hatósági és szakhatósági feladatok tervezését és szervezését,
+a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § b) pontjában,
 
-19. irányítja az igazgatási és az ügyfélszolgálati feladatokat,
+b) az Áht. 9. § d) pontjában,
 
-20. irányítja a honvédelmi szervezetek adatvédelmi és információszabadságra vonatkozó feladatai végrehajtását,
+c) – a költségvetési szerv tevékenységének törvényességi és szakszerűségi ellenőrzése (ide nem értve a költségvetési szerv tevékenységének a pénzügyi ellenőrzését) kivételével – az Áht. 9. § e) pontjában és
 
-21. irányítja a biztonsági beruházások megvalósítását,
+d) az Áht. 9. § g)–i) pontjában
 
-22. irányítja a kontrolling tevékenységet,
+## meghatározott irányítási hatásköröket,
 
-23. irányítja a miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokkal, a vagyonkezeléssel, a vagyongazdálkodással és a lakhatás támogatásával kapcsolatos tevékenységet,
+17. összehangolja a honvédelmi szervezetek – ide nem értve a Katonai Nemzetbiztonsági Szolgálatot – európai uniós programok támogatásával kapcsolatos feladatainak végrehajtását,
 
-24. irányítja az infrastrukturális tevékenységet,
+18. gyakorolja a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység tekintetében a Hvt. 45. § (1a) bekezdésében meghatározott irányítási feladatokat, ideértve a honvédelmi szervezetnek nem minősülő egészségügyi szolgáltató irányítását és felügyeletét érintő tevékenységek jogi és igazgatási feladatának ellenőrzését,
 
-25. irányítja a hadfelszerelés-fejlesztés, a haditechnika, és a kutatás-fejlesztés – hatáskörébe utalt – ágazati feladatait,
+19. felelős a hadigondozás állami feladatainak megvalósításáért,
 
-26. irányítja a hatáskörébe utalt beszerzések megvalósítását,
+20. irányítja a kormányzati és ágazati stratégiai és gazdasági tervezés, valamint azok szervezésének felsőszintű feladatait, valamint a védelmi tervezés ágazati koordinációját, és biztosítja a NATO védelmi tervezési folyamatban és az Európai Unió képességfejlesztési folyamatában való magyar részvételhez szükséges védelemgazdasági álláspontot, adatokat,
 
-27. irányítja a környezetvédelem és a természetvédelem honvédelmi szervezeteket érintő infrastrukturális és beruházási feladatainak végrehajtását,
+21. előkészíti a honvédelmi ágazat létszámára, állományarányaira, felépítésére és felszerelésére vonatkozó kormányzati és országgyűlési döntéseket, javaslatokat,
 
-28. irányítja a védelmi, valamint az erőforrás- és költségvetés-tervezés felső szintű feladatait,
+22. irányítja a honvédelmi és haderőfejlesztési program monitoring feladatainak végrehajtását,
 
-29. irányítja a fejezet költségvetési gazdálkodását és a pénzügyi-számviteli feladatok végrehajtását,
+23. szakterületén biztosítja a Magyar Honvédség parancsnoka bevonását a minisztériumi szakmai döntés-előkészítési folyamatokba.
 
-30. irányítja a honvédelmi szervezetek gazdálkodási feladatait, figyelemmel a 11. § (1) bekezdés 15. pontjában foglaltakra is,
-
-31. irányítja a nemzetgazdaság védelmi felkészítésének minisztériumi feladatait,
-
-32. összehangolja a honvédelmi szervezetek – ide nem értve a Katonai Nemzetbiztonsági Szolgálatot – európai uniós programok támogatásával kapcsolatos feladatainak végrehajtását, és irányítja a minisztériumi szervek ezzel kapcsolatos tevékenységét,
-
-33. irányítja a honvédelmi katasztrófavédelmi rendszer feladatkörébe utalt részeit,
-
-34. gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket, ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza,
-
-35. irányítja a kormányzati informatikai fejlesztés, valamint az e-közigazgatás feladatait,
-
-36. irányítja a miniszter törvényességi felügyeleti jogának gyakorlásával kapcsolatos feladatok tervezését, szervezését és végrehajtását,
-
-37. szakterületén biztosítja a Magyar Honvédség parancsnoka bevonását a minisztériumi szakmai döntés-előkészítési folyamatokba a Honvédség számára releváns kérdéseket illetően,
-
-38. irányítja a honvédelmi ágazat népegészségügyi, így különösen közegészségügyi, járványügyi, egészségfejlesztési, egészségügyi igazgatási feladatainak végrehajtását.
-
-[^13]: A 6. § 2. pontja a 154/2019. (VI. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^21]: Az 5. §-t a 280/2021. (V. 26.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^22]: A 6. § a 280/2021. (V. 26.) Korm. rendelet 3. §-ával megállapított szöveg.

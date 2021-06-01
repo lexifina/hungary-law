@@ -2,6 +2,6 @@
 
 ## A KÁRTALANÍTÁSI ELJÁRÁS
 
-## 29/A. [^89] A kártalanítási eljárás általános esetköre
+## 29/A. [^109] A kártalanítási eljárás általános esetköre
 
-[^89]: A 29/A. alcím címet a 489/2016. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
+[^109]: A 29/A. alcím címet a 489/2016. (XII. 28.) Korm. rendelet 16. §-a iktatta be.

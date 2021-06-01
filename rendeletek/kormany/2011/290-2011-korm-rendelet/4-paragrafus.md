@@ -1,75 +1,47 @@
 ## 3. A honvédelmi államtitkár feladat- és hatásköre
 
-4. § (1) A honvédelmi államtitkár
+## 4. §[^20] A honvédelmi államtitkár
 
-1. irányítja a lakosságnak, az anyagi javaknak és a közigazgatásnak Magyarország fegyveres védelmének felkészítésére, az ország területének védelmi célú előkészítésére, valamint a központi államigazgatási szervek honvédelmi feladatainak meghatározására vonatkozó döntések előkészítését,
+1. irányítja a lakosságnak, az anyagi javaknak és a közigazgatásnak Magyarország fegyveres védelmének felkészítésére, az ország területének védelmi célú előkészítésére, valamint a központi államigazgatási szervek, a területi és helyi védelmi igazgatási szervek, az Országgyűlési Őrség és a Hvt. szerint az egyéb honvédelemben közreműködő szervek honvédelmi igazgatási feladatokra történő felkészítését, a honvédelmi igazgatási feladatok végrehajtását és az ezekkel kapcsolatos ellenőrzések végrehajtását,
 
-2. irányítja a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosításával kapcsolatos feladatok koordinálását, a szükséges infrastruktúra valamint a honvédelmi igazgatás infokommunikációs rendszere követelményeinek meghatározását,
+2. irányítja a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosításával kapcsolatos feladatok koordinálását, a szükséges infrastruktúra, valamint a honvédelmi igazgatás infokommunikációs rendszere követelményeinek meghatározását,
 
-3. irányítja a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszert működtető szervek ezzel kapcsolatos tevékenységét, irányítja a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszerrel összefüggő felső szintű döntések előkészítését,
+3. irányítja a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszert működtető szervek ezzel kapcsolatos tevékenységét, valamint a NATO Válságreagálási Rendszerrel összhangban álló nemzeti intézkedési rendszerrel összefüggő felső szintű döntések előkészítését,
 
-4. irányítja a honvédelmi érdek érvényesítését szolgáló létfontosságú rendszerekkel és létesítményekkel kapcsolatos feladatok végrehajtásához szükséges ágazaton belüli intézményrendszer kialakítását,
+4. felelős a NATO, az Európai Unió válságkezelésben érintett felső szintű politikai szervei, valamint a regionális védelmi együttműködés keretében szervezett stratégiai szintű biztonságpolitikai-katonai válságkezelési gyakorlatain történő magyar részvétel szakmai előkészítéséért, tervezéséért és nemzeti végrehajtásának koordinálásáért,
 
-5. irányítja a polgári veszélyhelyzeti tervezés ágazati feladatait,
+5. irányítja a miniszter felelősségi körét érintő védelempolitikai feladatokat,
 
-6. felelős az Észak-atlanti Tanács stratégiai szintű politikai-katonai válságkezelési gyakorlatain történő magyar részvétel szakmai előkészítéséért, tervezéséért és nemzeti végrehajtásának koordinálásáért,
+6. irányítja a honvédelmi szervezetek kapcsolattartását – a Katonai Nemzetbiztonsági Szolgálat kivételével – a NATO és az Európai Unió illetékes szerveivel, a tárca két- és a többoldalú nemzetközi együttműködését, a nemzetközi válságkezelést és békefenntartást, valamint a nemzetközi terrorizmussal szembeni együttműködés összehangolását,
 
-7. irányítja a befogadó nemzeti támogatás – hatáskörébe tartozó – feladatait,
+7. irányítja a Honvédség és a külföldi fegyveres erők következő évre tervezett csapatmozgásai jegyzékének előkészítését,
 
-8. felelős a honvédelmet érintő tudományos kutatásért, irányítja az azzal összefüggő ágazati feladatok végrehajtását,
+8. irányítja a katonai pályára irányítással összefüggő feladatokban együttműködő felsőoktatási, szakképző és köznevelési intézmények e tevékenységének elősegítésével kapcsolatos feladatokat,
 
-9. felelős a hadigondozás állami feladatainak megvalósításáért,
+9. irányítja az ifjúságpolitika, az esélyegyenlőség és a honvédelmi nevelés programja honvédelmi ágazatot érintő felső szintű feladatainak végrehajtását,
 
-10. irányítja a minisztérium kiemelt rendezvényeinek előkészítésével és lebonyolításával kapcsolatos feladatokat,
+10. irányítja a nemzeti felsőoktatás honvédelmet érintő felső szintű feladatainak végrehajtását,
 
-11. irányítja a társadalmi kapcsolattartással – így különösen a Honvédelmi Sportszövetséggel – történő együttműködéssel, a katonai és csapat hagyományőrzéssel, továbbá az ágazati rehabilitációs tevékenységgel, valamint az elismerésekkel kapcsolatos feladatokat,
+11. irányítja a nemzeti köznevelés és a szakképzés Honvédséget érintő felső szintű feladatainak végrehajtását, felelős – a létesítés, a megszüntetés, a tevékenységi kör megállapítása és módosítása kivételével – a miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény fenntartói irányításáért, a katonai szakképesítések Honvédséget érintő felső szintű feladatok irányításáért,
 
-12. a katonai pályára irányítással összefüggő feladatokat ellátó felsőoktatási és köznevelési intézmények e tevékenységének elősegítésével kapcsolatos feladatokat,
+12. irányítja a honvédelmi ágazati képzés – ideértve a nyelvképzés – felső szintű feladatainak végrehajtását,
 
-13. a HM Hadtörténeti Intézet és Múzeum kivételével irányítja a kulturális tevékenységet folytató honvédelmi szervezetek működését, az ágazat kulturális tevékenységével kapcsolatos stratégiai feladatokat,
+13. szakterületén biztosítja a Magyar Honvédség parancsnoka bevonását a minisztériumi szakmai döntés-előkészítési folyamatokba,
 
-14. irányítja az ifjúságpolitika, az esélyegyenlőség és a honvédelmi nevelés programja ágazatot érintő felső szintű feladatainak végrehajtását,
+14. irányítja a NATO védelmi tervezési folyamatában és az Európai Unió védelmi képességfejlesztési folyamatában való magyar részvételt, biztosítja a nemzeti védelmi tervezés számára a védelempolitikai iránymutatást,
 
-15. irányítja a honvédelmi katasztrófavédelmi rendszer feladatkörébe utalt részeit,
+15. irányítja a minisztérium és a miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek honvédelmi ágazati válságkezelő rendszerének kialakítását, működtetését és a honvédelmi katasztrófavédelmi rendszer feladatainak végrehajtását,
 
-16. irányítja a védelempolitika felső szintű feladatait,
+16. végzi a minisztérium és a miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek közvetlen támogatói, kulturális és rekreációs, protokoll, delegációs és rendezvényszervezési, valamint objektumüzemeltetési feladatainak ellátását végző honvédségi szervezet e feladat ellátásával érintett szervezeti egységeinek a Hvt. 45. § (1a) bekezdése szerinti irányítását,
 
-17. irányítja a két- és a többoldalú nemzetközi együttműködést, az euro-atlanti együttműködést, a nemzetközi válságkezelést és békefenntartást, valamint a nemzetközi terrorizmussal szembeni együttműködés összehangolását,
+17. végzi a NATO és az Európai Unió Katonai Bizottságánál, munkacsoportjainál, az Egyesült Nemzetek Szervezete, az Európai Biztonsági és Együttműködési Szervezet, a regionális védelmi együttműködési és egyéb felső szintű nemzetközi szervezetek bizottságainál és testületeinél képviseletet ellátó honvédelmi szervezeteknek a Hvt. 45. § (1a) bekezdése szerinti irányítását,
 
-18. irányítja a hagyományos fegyverek korlátozásával, a leszereléssel, a fegyverzetcsökkentéssel, a fegyverzetellenőrzéssel és non-proliferációval kapcsolatos feladatokat,
+18. irányítja a nemzetgazdaság védelmi felkészítésének honvédelmi szervezeteket érintő feladatait,
 
-19. irányítja a humánpolitikai intézmény- és eszközrendszerrel, így különösen a személyi állomány foglalkoztatásával, összetételének meghatározásával, az illetmény- és juttatási rendszerrel, a rekonverzió valamint a szociális és kegyeleti gondoskodás elveivel, humánpolitikai intézkedésekkel összefüggő feladatok végrehajtását,
+19. irányítja a gondoskodási körbe tartozók ellátásával kapcsolatos stratégiai feladatokat,
 
-20. irányítja a nemzeti felsőoktatás honvédelmet érintő felső szintű feladatainak végrehajtását,
+20. felelős az ágazati humánerőforrás-stratégia meghatározásáért, ennek keretei között irányítja a humánpolitikai intézmény- és eszközrendszerrel – így különösen az életpálya menedzsmenttel, a személyi állomány összetételének és létszámarányának meghatározásával, foglalkoztatásával, az illetmény- és a juttatási, valamint az elismerési és az ösztönzési rendszerrel, a toborzással, a tartalékos rendszerrel, a rekreációval, a rekonverzióval, a szociális és kegyeleti támogatással, valamint a nyugállományú katonák és honvédségi nyugdíjasok ellátásával – összefüggő felsőszintű feladatok végrehajtását,
 
-21. irányítja a nemzeti köznevelés és a szakképzés Honvédséget érintő felső szintű feladatainak végrehajtását, felelős – a létesítés, a megszüntetés, a tevékenységi kör megállapítása és módosítása kivételével – a miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő köznevelési intézmény fenntartói irányításáért, a katonai szakképesítések Honvédséget érintő felső szintű feladatok irányításáért,
+21. irányítja a honvédelmi összekötők és a honvédelmi referensek szakmai tevékenységét, felkészítését.
 
-22. irányítja a központi államigazgatási szervek, a területi és helyi közigazgatási szervek, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség és a honvédelemben közreműködő szervek honvédelmi igazgatási feladatainak meghatározásáról szóló kormányzati döntések előkészítését, az ellenőrzések végrehajtását, a honvédelmi feladatokra történő felkészítést, a területi és helyi védelmi igazgatási szervek honvédelmi igazgatási feladatait, valamint e tevékenységek felügyeletét,
-
-23. irányítja a fegyveres összeütközések időszakában végrehajtandó polgári védelmi felkészítés követelményeinek meghatározását,
-
-24. irányítja a különleges jogrend bevezetésével, és az arra való felkészüléssel összefüggő a – jogalkotást nem érintő – felső szintű döntések előkészítését,
-
-25. irányítja a nemzeti katonai stratégia előkészítését,
-
-26. irányítja a Honvédség és a külföldi fegyveres erők következő évre tervezett csapatmozgásai jegyzékének előkészítését,
-
-27. irányítja a honvédelmi szervezetek kapcsolattartását a NATO és az Európai Unió illetékes szerveivel,
-
-28. irányítja az ágazat rekreációs és sporttevékenységével kapcsolatos stratégiai feladatokat,
-
-29. előkészíti a miniszteri tudománypolitikai irányelveket és az ágazati tudományos stratégiát,
-
-30. irányítja az ágazati képzés – ideértve a nyelvképzés – felső szintű feladatainak végrehajtását,
-
-31. felelős az önkéntes tartalékos tiszt- és altisztképzés, szakkiképzési és távoktatási rendszer, motivációs és ösztöndíjrendszer, a kadétrendszerhez kapcsolódó képzések, a hadtudományi kutatás-fejlesztéssel összefüggő, valamint a pályára irányítással, a honvédelmi neveléssel összefüggő minisztériumi feladatok irányításáért,
-
-32. szakterületén biztosítja a Magyar Honvédség parancsnoka bevonását a minisztériumi szakmai döntés-előkészítési folyamatokba a Honvédség számára releváns kérdéseket illetően.
-
-(2) A honvédelmi államtitkár irányítja a minisztérium szervezeti és működési szabályzata szerint irányítása alá tartozó szervek és szervezetek működését, továbbá hivatali felettese az irányítása alá tartozó szervek és szervezetek személyi állományának. Az (1) bekezdés szerinti feladatkörében szakmai felettese a Honvédség ezen tevékenységeket végző személyi állományának.
-
-(3) A honvédelmi államtitkár jóváhagyja az irányítása alá tartozó szervezetek szervezeti és működési szabályzatát.
-
-(4) A honvédelmi államtitkár a Hvt. 45. § (1a) bekezdése szerint végzi a minisztérium és a miniszter közvetlen irányítása alá tartozó szervezetek támogatását végző szervezet, valamint Magyarország katonai érdekeinek képviseletét a NATO és EU Katonai Bizottságnál, munkacsoportjainál és egyéb felső szintű bizottságainál és testületeinél ellátó szervezet irányítását.
-
-(5) A honvédelmi államtitkár a miniszter hatáskörébe tartozó döntések előkészítését, végrehajtásuk tervezését, szervezését illető irányítási jogkörét közvetlenül vagy a feladat- és hatáskör szerint a védelempolitikáért felelős helyettes államtitkár vagy a humánpolitikáért felelős helyettes államtitkár útján gyakorolja. A honvédelmi államtitkár feladat- és hatáskör szerint felelős helyettes államtitkártól az irányítás jogát bármikor magához vonhatja.
+[^20]: A 4. § a 280/2021. (V. 26.) Korm. rendelet 2. §-ával megállapított szöveg.

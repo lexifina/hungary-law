@@ -1,6 +1,6 @@
 ## 16. Katonai igazgatási és érdekvédelmi irodák illetékességi területe
 
-## 36. § Törvényben meghatározott szociális gondoskodási körbe tartozók látogatása, a területi érdekvédelmi és kegyeleti tevékenység végzése, katonai igazgatási, érdekvédelmi és toborzó ügyfélszolgálati feladatok ellátása, gazdasági, anyagi szolgáltatások biztosítása érdekében a szemlék lebonyolításában, a szolgáltatásra kötelezettekkel történő kapcsolattartásban, a védelmi igazgatási szervek munkájának segítése vonatkozásában
+## 36. §[^87] Gondoskodási körbe tartozók látogatása, a területi érdekvédelmi és kegyeleti tevékenység végzése, katonai igazgatási, érdekvédelmi és toborzó ügyfélszolgálati feladatok ellátása, gazdasági, anyagi szolgáltatások biztosítása érdekében a szemlék lebonyolításában, a szolgáltatásra kötelezettekkel történő kapcsolattartásban, a védelmi igazgatási szervek munkájának segítése vonatkozásában
 
 a) az 1. Katonai Igazgatási és Érdekvédelmi Iroda illetékessége kiterjed Bács-Kiskun megye közigazgatási területére,
 
@@ -25,3 +25,5 @@ j) a 10. Katonai Igazgatási és Érdekvédelmi Iroda illetékessége kiterjed T
 k) a 11. Katonai Igazgatási és Érdekvédelmi Iroda illetékessége kiterjed Vas megye közigazgatási területére,
 
 l) a 12. Katonai Igazgatási és Érdekvédelmi Iroda illetékessége kiterjed Zala megye közigazgatási területére.
+
+[^87]: A 36. § nyitó szövegrésze a 280/2021. (V. 26.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.

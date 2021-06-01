@@ -6,12 +6,12 @@
 
 (4) Az igénybevételi hatóság a szolgáltatás időbeni teljesítése érdekében a szolgáltatás tárgyának legfeljebb 30 napos készenlétben tartását rendelheti el (készenlétben tartási határozat). Ilyenkor a szolgáltatás tényleges teljesítését külön határozatban kell elrendelni.
 
-(5)[^75] A szolgáltatás tárgyának átadásakor, átvételekor, illetve a szolgáltatás teljesítésekor jegyzőkönyvet kell felvenni, amelynek elkészítéséért az igénybevevő a felelős. A jegyzőkönyvben rögzíteni kell az igénybevevő adatait, a szolgáltatás tárgyát, teljesítésének helyét, idejét, az igénybevételt elrendelő határozat számát, harmadik személynek a szolgáltatás tárgyára vonatkozó esetleges jogát, továbbá minden olyan tényt vagy adatot, amelyet bármelyik fél a kártalanítás szempontjából lényegesnek tart. Ha a szolgáltatás ellenértéke megállapítható, azt a jegyzőkönyvben rögzíteni kell.
+(5)[^95] A szolgáltatás tárgyának átadásakor, átvételekor, illetve a szolgáltatás teljesítésekor jegyzőkönyvet kell felvenni, amelynek elkészítéséért az igénybevevő a felelős. A jegyzőkönyvben rögzíteni kell az igénybevevő adatait, a szolgáltatás tárgyát, teljesítésének helyét, idejét, az igénybevételt elrendelő határozat számát, harmadik személynek a szolgáltatás tárgyára vonatkozó esetleges jogát, továbbá minden olyan tényt vagy adatot, amelyet bármelyik fél a kártalanítás szempontjából lényegesnek tart. Ha a szolgáltatás ellenértéke megállapítható, azt a jegyzőkönyvben rögzíteni kell.
 
-(6)[^76] Ingó vagy ingatlan dolog átadása esetén a jegyzőkönyvben rögzíteni kell az azok azonosítására alkalmas adatokat, pontos vagy becsült értéküket, állapotukat, a célra való alkalmasságukat, valamint a közüzemi fogyasztásmérők állását.
+(6)[^96] Ingó vagy ingatlan dolog átadása esetén a jegyzőkönyvben rögzíteni kell az azok azonosítására alkalmas adatokat, pontos vagy becsült értéküket, állapotukat, a célra való alkalmasságukat, valamint a közüzemi fogyasztásmérők állását.
 
-(7)–(8)[^77]
+(7)–(8)[^97]
 
-[^75]: A 43. § (5) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 363. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^76]: A 43. § (6) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
-[^77]: A 43. § (7)–(8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 363. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^95]: A 43. § (5) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 363. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^96]: A 43. § (6) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^97]: A 43. § (7)–(8) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 363. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

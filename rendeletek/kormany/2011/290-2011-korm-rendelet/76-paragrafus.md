@@ -10,6 +10,6 @@ d) folyamatos készenléti szolgálatot működtet a légiriasztás elrendelés�
 
 e) a légierő ügyeletes parancsnokával folytatott egyeztetés után – a megyei katasztrófavédelmi igazgatóságok útján – tájékoztatja a lakosságot a légitámadás következményeinek károsító hatásairól, az ellenük való védekezésről és a légiriadó feloldását követően tanúsítandó magatartási szabályokról,
 
-f)[^143] a légiriasztási rendszernek a lakosság katasztrófa riasztására történő felhasználása esetén az ügyeleti szolgálata útján – a 78/A. §-ban meghatározott döntést követően – továbbítja az MTVA részére az a) pontban meghatározott közleményt.
+f)[^163] a légiriasztási rendszernek a lakosság katasztrófa riasztására történő felhasználása esetén az ügyeleti szolgálata útján – a 78/A. §-ban meghatározott döntést követően – továbbítja az MTVA részére az a) pontban meghatározott közleményt.
 
-[^143]: A 76. § f) pontját a 281/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.
+[^163]: A 76. § f) pontját a 281/2018. (XII. 21.) Korm. rendelet 8. §-a iktatta be.

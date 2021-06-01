@@ -1,11 +1,3 @@
-## 5. A helyettes államtitkárok feladat- és hatáskörei
+## 5.[^23]
 
-7. § (1) A helyettes államtitkárok
-
-a) hivatali felettesei az irányításuk alá tartozó szervek és szervezetek személyi állományának, és
-
-b) szakmai felettesei a feladat- és hatáskörükbe tartozó szakterületeken a Honvédség személyi állománynak.
-
-(2) A helyettes államtitkárok felelősek a feladat- és hatáskörükbe tartozó szakterületekhez kapcsolódó szakmai döntések előkészítéséért, összehangolásáért és végrehajtásáért.
-
-(3) A helyettes államtitkárok jóváhagyják az irányításuk alá tartozó honvédelmi szervezetek szervezeti és működési szabályzatát. E jogkörüket másra nem ruházhatják át.
+[^23]: Az 5. alcímet (7–8. §) a 280/2021. (V. 26.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

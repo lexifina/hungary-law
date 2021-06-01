@@ -1,4 +1,4 @@
-## 17. §[^21]
+## 17. §[^38]
 
 ## 10. Egyes központi államigazgatási szervek vezetőinek honvédelmi igazgatási feladatai
 
@@ -22,7 +22,7 @@ h) közreműködik a központi államigazgatási szervet érintő honvédelmi fe
 
 i) beszámol a tárgyévet megelőző év honvédelmi feladatainak végrehajtásáról,
 
-j)[^22] évente a védelmi felkészítés egyes kérdéseiről szóló kormányhatározatban meghatározott határidőig megküldi a miniszternek a honvédelmi felkészítés feladattervében meghatározott feladatok végrehajtásáról és az e célra jóváhagyott költségvetési források felhasználásáról szóló beszámolót, valamint a honvédelmi felkészítés következő évi feladattervének összeállításához szükséges javaslatait és a szükséges költségvetési igényeket,
+j)[^39] évente a védelmi felkészítés egyes kérdéseiről szóló kormányhatározatban meghatározott határidőig megküldi a miniszternek a honvédelmi felkészítés feladattervében meghatározott feladatok végrehajtásáról és az e célra jóváhagyott költségvetési források felhasználásáról szóló beszámolót, valamint a honvédelmi felkészítés következő évi feladattervének összeállításához szükséges javaslatait és a szükséges költségvetési igényeket,
 
 k) ellátja a meghagyással kapcsolatos feladatokat,
 
@@ -30,5 +30,5 @@ l) végzi a jogszabályban vagy kormányhatározatban részére megállapított 
 
 (2) A központi államigazgatási szerv – kivéve az autonóm államigazgatási szerv és az önálló szabályozó szerv – vezetője a honvédelmi feladatok végrehajtása körében elrendelheti intézkedési tervek elkészítését, végrehajtását, gondoskodik a feladat- és hatáskörébe tartozó honvédelmi feladatok végrehajtásáról.
 
-[^21]: A 17. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte.
-[^22]: A 18. § (1) bekezdés j) pontja a 281/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^38]: A 17. §-t a 259/2016. (VIII. 31.) Korm. rendelet 64. § b) pontja hatályon kívül helyezte.
+[^39]: A 18. § (1) bekezdés j) pontja a 281/2018. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.

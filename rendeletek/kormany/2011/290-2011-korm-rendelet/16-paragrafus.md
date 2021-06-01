@@ -12,8 +12,8 @@ b) a területi és helyi védelmi igazgatási szervek,
 
 c) a honvédelmi felkészítés egyes feladataiban részt vevők,
 
-d)[^20] a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 8–10. §-a alapján létrehozott szervek.
+d)[^37] a Kit. 8–10. §-a alapján létrehozott szervek.
 
 (2) Az (1) bekezdésben felsorolt szerveknél honvédelemmel foglalkozó szervezeti egységet kell kijelölni.
 
-[^20]: A 16. § (1) bekezdés d) pontja a 154/2019. (VI. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^37]: A 16. § (1) bekezdés d) pontja a 154/2019. (VI. 27.) Korm. rendelet 2. §-ával megállapított, a 280/2021. (V. 26.) Korm. rendelet 7. § f) pontja szerint módosított szöveg.
