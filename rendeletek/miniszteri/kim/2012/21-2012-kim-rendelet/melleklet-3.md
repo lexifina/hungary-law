@@ -1,6 +1,6 @@
 ## A gazdasági szervezetek gazdálkodási forma szerinti osztályozása (GFO)
 
-| GFO'2014 kód | GFO'2014 megnevezés |
+| GFO’21-07 kód | GFO’21-07 megnevezés |
 
 | 1, 2 |  |  | Vállalkozás |
 
@@ -22,7 +22,7 @@
 
 |  |  | 122 | Takarék- és hitelszövetkezet |
 
-|  |  | 123 | Iskola szövetkezet |
+|  |  | 123 | Iskolaszövetkezet |
 
 |  |  | 124 | Agrárgazdasági szövetkezet |
 
@@ -59,6 +59,8 @@
 |  | 15 |  | Szövetkezet (folytatás) |
 
 |  |  | 151 | Közérdekű nyugdíjas szövetkezet |
+
+|  |  | 152 | Kisgyermekkel otthon lévők szövetkezete |
 
 | 2 |  |  | Jogi személyiség nélküli vállalkozás |
 
@@ -216,6 +218,8 @@
 
 |  | 56 |  | Alapítvány, jogi személyiségű intézménye és szervezeti egysége |
 
+|  |  | 560 | Közfeladatot ellátó közérdekű vagyonkezelő alapítvány |
+
 |  |  | 561 | Közalapítvány |
 
 |  |  | 562 | Közalapítvány önálló intézménye |
@@ -287,8 +291,6 @@
 |  | 72 |  |  |
 
 |  | 73–74 |  | Megszűnt gazdálkodási forma |
-
-|  |  | 731 | Gazdasági munkaközösség |
 
 |  |  | 732 | Közös vállalat |
 
