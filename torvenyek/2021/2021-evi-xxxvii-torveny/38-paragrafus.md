@@ -3,11 +3,3 @@
 (2) A 3. és a 4. §, a 16. § és a 31. § (2) bekezdése a műsorszolgáltató szervezetek egyes online közvetítéseire, valamint televíziós és rádiós műsorok továbbközvetítésére alkalmazandó szerzői jogok és szerzői joggal szomszédos jogok gyakorlására vonatkozó szabályok megállapításáról, valamint a 93/83/EGK tanácsi irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/789 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (3) A 8. § és a 9. § az információs társadalomban a szerzői és szomszédos jogok egyes vonatkozásainak összehangolásáról szóló 2001/29/EK irányelvnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
