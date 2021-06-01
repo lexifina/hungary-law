@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya az Információs Hivatallal (a továbbiakban: Hivatal) hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban: alkalmazott) terjed ki.
+## 1. §[^2] E rendelet hatálya az Információs Hivatallal (a továbbiakban: Hivatal) hivatásos szolgálati jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban (a továbbiakban együtt: szolgálati jogviszony) álló személyekre (a továbbiakban: alkalmazott) terjed ki.
 
 ## 2. § E rendelet alkalmazásában:
 
@@ -12,7 +12,7 @@ c) szolgálati jogviszony létesítése esetén a korábbi munkáltató által n
 
 2. családtag: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és nevelt gyermek, az örökbefogadó, a mostoha- és nevelőszülő, a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, valamint a testvér házastársa;
 
-2a.[^2] együtt költöző, együtt lakó családtag: az alkalmazott, továbbá jövedelmüktől és életkoruktól függetlenül a családtag, feltéve, hogy a lakáscélú munkáltatói kölcsönnel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak. Fiatal gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál együtt költöző, együtt lakó családtagként:
+2a.[^3] együtt költöző, együtt lakó családtag: az alkalmazott, továbbá jövedelmüktől és életkoruktól függetlenül a családtag, feltéve, hogy a lakáscélú munkáltatói kölcsönnel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak. Fiatal gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál együtt költöző, együtt lakó családtagként:
 
 a) legfeljebb három születendő gyermeket,
 
@@ -20,7 +20,7 @@ b) egy gyermekes fiatal házaspár esetében további két születendő gyermeke
 
 c) két gyermekes fiatal házaspár esetében pedig további egy születendő gyermeket
 
-## is számításba kell venni.
+is számításba kell venni.
 
 3. lakásbővítés: a lakás alapterületének olyan növelése, amely legalább eggyel több lakószoba kialakítását eredményezi;
 
@@ -28,7 +28,7 @@ c) két gyermekes fiatal házaspár esetében pedig további egy születendő gy
 
 5. lakásépítés: az alkalmazott tulajdonába kerülő, az alapozási munkáktól kezdődően teljes egészében újonnan épített, illetve emeletráépítéssel vagy tetőtér-beépítéssel, lakás műszaki megosztásával, valamint nem lakás céljára szolgáló helyiségek átalakításával megvalósuló, a lakhatás feltételeinek a vonatkozó jogszabályi követelmények szerint megfelelő lakóegység létrehozása, amely elkészültét követően használatbavételi vagy fennmaradási engedély köteles;
 
-6.[^3] méltányolható lakásigény: az együtt költöző, együtt lakó családtagok számától függően
+6.[^4] méltányolható lakásigény: az együtt költöző, együtt lakó családtagok számától függően
 
 a) egy-két személy esetében: legalább egy és legfeljebb három lakószoba,
 
@@ -40,7 +40,7 @@ d) mértéke minden további személy esetében fél lakószobával nő,
 
 e) mértékének alsó határa három vagy több gyermeket nevelő család esetében minden további személynél fél lakószobával, de legfeljebb három lakószobáig nő, felső határa egy lakószobával nő;
 
-7.[^4] önerő:
+7.[^5] önerő:
 
 a) az alkalmazott, annak házastársa (élettársa) és más együttköltöző családtagja által korábban – 5 éven belül – értékesített lakásának eladási ára, csökkentve az azt terhelő és visszafizetett önkormányzati és munkáltatói támogatás, a kiegyenlített, pénzügyi intézmény által nyújtott lakáscélú hitel, valamint a pénzügyi intézmény által nyújtott hitel kiváltására felvett hitel kiegyenlített összegével,
 
@@ -54,7 +54,7 @@ e) a vissza nem térítendő önkormányzati támogatás,
 
 f) az alkalmazott és a vele együtt költöző, együtt lakó családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítés.
 
-[^1]: Az 1. § a 2/2019. (V. 17.) KKM rendelet 19. §-ával megállapított szöveg.
-[^2]: A 2. § 2a. pontját a 2/2019. (V. 17.) KKM rendelet 21. §-a iktatta be.
-[^3]: A 2. § 6. pontja a 2/2019. (V. 17.) KKM rendelet 20. §-ával megállapított szöveg.
-[^4]: A 2. § 7. pontja a 2/2019. (V. 17.) KKM rendelet 20. §-ával megállapított szöveg.
+[^2]: Az 1. § a 2/2019. (V. 17.) KKM rendelet 19. §-ával megállapított szöveg.
+[^3]: A 2. § 2a. pontját a 2/2019. (V. 17.) KKM rendelet 21. §-a iktatta be.
+[^4]: A 2. § 6. pontja a 2/2019. (V. 17.) KKM rendelet 20. §-ával megállapított szöveg.
+[^5]: A 2. § 7. pontja a 2/2019. (V. 17.) KKM rendelet 20. §-ával megállapított szöveg.

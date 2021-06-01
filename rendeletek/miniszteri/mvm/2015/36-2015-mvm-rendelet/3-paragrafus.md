@@ -12,7 +12,7 @@ e) az alkalmazott tulajdonában lévő lakás korszerűsítéséhez,
 
 f) az alkalmazott lakásigénye kielégítése céljából pénzügyi intézménytől felvett hitel egészének vagy részének visszafizetése céljából, amennyiben az alkalmazott önhibáján kívül olyan szociális helyzetbe kerül, hogy a pénzügyi intézmény által nyújtott hitel törlesztése létfenntartását – elsődlegesen lakhatását – veszélyezteti.
 
-(2)[^6] Szolgálati jogviszonyban töltött időként az alkalmazottnak a Hivatalnál, illetve a Magyar Honvédségnél vagy rendvédelmi feladatokat ellátó szervnél (a továbbiakban együtt: fegyveres szerv) hivatásos vagy szerződéses szolgálati jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban vagy munkaviszonyban eltöltött szolgálati ideje vehető figyelembe. A szolgálati jogviszony időtartamának megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
+(2)[^7] Szolgálati jogviszonyban töltött időként az alkalmazottnak a Hivatalnál, illetve a Magyar Honvédségnél vagy rendvédelmi feladatokat ellátó szervnél (a továbbiakban együtt: fegyveres szerv) hivatásos vagy szerződéses szolgálati jogviszonyban, közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közalkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban vagy munkaviszonyban eltöltött szolgálati ideje vehető figyelembe. A szolgálati jogviszony időtartamának megállapításakor az illetékes személyügyi szerv által kiadott, a jogviszony keletkezését, időtartamát tanúsító okmány az irányadó.
 
 (3) Az (1) bekezdésben foglaltak szerint jogosult alkalmazott a megjelölt célokra munkáltatói kölcsönben részesíthető a következő feltételek együttes fennállása esetén:
 
@@ -28,8 +28,12 @@ e) hozzájárul ahhoz, hogy a tulajdonába kerülő vagy tulajdonában álló in
 
 f) vállalja, hogy a megállapodásban megállapított határidőben az építkezést megkezdi és befejezi, valamint hogy a munkáltatói kölcsönt a munkáltatói kölcsön céljára használja fel;
 
-g) köteles a munkáltatói kölcsönnel érintett ingatlant állandó lakcímeként bejelenteni; valamint
+g)[^8] vállalja, hogy a munkáltatói kölcsönnel érintett lakás a lakcímet igazoló hatósági igazolványában lakóhelyként szerepel, és abban életvitelszerűen lakik,
 
 h) köteles a munkáltatói kölcsönnel érintett ingatlanra biztosítási szerződést kötni.
 
-[^6]: A 3. § (2) bekezdése a 2/2019. (V. 17.) KKM rendelet 23. §-ával megállapított szöveg.
+i)[^9] az (1) bekezdés f) pontjában foglalt célra nyújtott munkáltatói kölcsön esetében a munkáltatói kölcsön biztosítékául szolgáló ingatlan forgalmi értékéhez vagy hitelbiztosítéki értékéhez képest a lakáscélú hitelintézeti kölcsön alapján fennálló tartozás kiváltását vagy csökkentését követően a jelzálogjoggal biztosított követelések együttes összege nem haladja meg a 70%-ot.
+
+[^7]: A 3. § (2) bekezdése a 2/2019. (V. 17.) KKM rendelet 23. §-ával megállapított szöveg.
+[^8]: A 3. § (3) bekezdés g) pontja a 19/2021. (V. 31.) KKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (3) bekezdés i) pontját a 19/2021. (V. 31.) KKM rendelet 1. § (2) bekezdése iktatta be.

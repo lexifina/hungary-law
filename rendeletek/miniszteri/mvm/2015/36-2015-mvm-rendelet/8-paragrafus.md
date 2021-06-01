@@ -9,3 +9,5 @@ ab) az aa) alpontba nem tartozó egyéb esetben a lakásépítés, lakásbővít
 b) lakásvásárlás és a 3. § (1) bekezdés d) pontjában foglalt esetben legkésőbb az adásvételi szerződésben foglalt kötelezettségek teljesítéséig (a vételár teljes kifizetéséig);
 
 c) lakáskorszerűsítés esetén az üzembe helyezéshez szükséges hatósági engedély kiadását vagy a lakáskorszerűsítés költségvetésében jelzett munkálatok elvégzését megelőzően
+
+adható.

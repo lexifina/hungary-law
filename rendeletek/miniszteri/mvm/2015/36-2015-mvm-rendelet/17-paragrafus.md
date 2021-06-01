@@ -1,5 +1,3 @@
-## a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal növelten köteles megfizetni.
-
 17. § (1) A megállapodás felmondása esetén – amennyiben az adós a tartozását a felmondástól számított 30 napon belül nem fizeti meg – a Hivatal köteles az igény érvényesítését kezdeményezni.
 
 (2) Az adósnak az (1) bekezdésben megállapított határidőn belül benyújtott írásbeli kérelmére, indokolt esetben a főigazgató – a tartozás mielőbbi kiegyenlítése érdekében – az egyösszegű visszafizetés határidejét egy ízben 3 hónappal meghosszabbíthatja.

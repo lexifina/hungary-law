@@ -38,4 +38,6 @@ a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a 
 
 b) az (1) bekezdés b), d) és e) pontjában meghatározott esetekben a felmondásban meghatározott időponttól számított,
 
+a késedelemmel érintett naptári félév első napján érvényes jegybanki alapkamattal növelten köteles megfizetni.
+
 [^21]: A 16. § (3) bekezdése a 2/2019. (V. 17.) KKM rendelet 25. §-ával megállapított szöveg.

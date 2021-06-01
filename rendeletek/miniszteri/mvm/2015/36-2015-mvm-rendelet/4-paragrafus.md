@@ -12,6 +12,6 @@ b) tulajdonába öröklés vagy egyeneságbeli rokonától történő ajándéko
 
 c) tulajdonában lévő lakás lebontását az építésügyi hatóság elrendelte vagy engedélyezte.
 
-d)[^7] olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házassági vagyonközösség (élettársi közös tulajdon) megszüntetése keretében volt házastársa (élettársa) vagy gyermeke javára lemondott, és ezt a házassági vagyonközösség, élettársi közös tulajdon megszüntetéséről szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.
+d)[^10] olyan lakásban rendelkezik tulajdonrésszel, amelynek használatáról, hasznosításáról a házassági vagyonközösség (élettársi közös tulajdon) megszüntetése keretében volt házastársa (élettársa) vagy gyermeke javára lemondott, és ezt a házassági vagyonközösség, élettársi közös tulajdon megszüntetéséről szóló közokirat vagy ügyvéd által ellenjegyzett magánokirat tanúsítja.
 
-[^7]: A 4. § (4) bekezdés d) pontját a 16/2020. (XII. 16.) KKM rendelet 1. §-a iktatta be.
+[^10]: A 4. § (4) bekezdés d) pontját a 16/2020. (XII. 16.) KKM rendelet 1. §-a iktatta be.
