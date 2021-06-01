@@ -1,4 +1,4 @@
-## 3. § A miniszter az általa kijelölt állami vezetők útján az ágazat honvédelmi feladatainak végrehajtása érdekében gondoskodik
+## 3. §[^3] A miniszter az általa kijelölt politikai felsővezető, közigazgatási államtitkár és helyettes államtitkár útján az ágazat honvédelmi feladatainak végrehajtása érdekében gondoskodik
 
 a) az ágazati honvédelmi munkacsoport működtetéséről,
 
@@ -12,7 +12,7 @@ e) a Miniszterelnökségen belüli értesítési-riasztási rendszer, az ügyele
 
 f) az ágazat részére a Nemzeti Intézkedések Gyűjteményében meghatározott feladatok végrehajtására történő felkészüléséről,
 
-g)[^3] a Miniszterelnökség és az ágazathoz tartozó szervezetek által vezetett nyilvántartások védelméről és azok rendelkezésre állásáról,
+g)[^4] a Miniszterelnökség és az ágazathoz tartozó szervezetek által vezetett nyilvántartások védelméről és azok rendelkezésre állásáról,
 
 h) a közigazgatási informatikai rendszer KMR idején történő működtetésének biztosítása érdekében végrehajtandó időszaki feladatok ellátásáról, és
 
@@ -20,4 +20,8 @@ i) a Miniszterelnökség honvédelmi intézkedési tervének elkészítéséről
 
 j) az ágazat védelemszervezését érintő informatikai feladatok ellátásáról.
 
-[^3]: A 3. § g) pontja a 4/2017. (II. 3.) MvM rendelet 6. § a) pontja szerint módosított szöveg.
+k)[^5] az ágazatra háruló, a polgári felkészültség követelményei alapján meghatározott feladatok ellátásáról.
+
+[^3]: A 3. § nyitó szövegrésze a 8/2021. (V. 31.) MvM rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § g) pontja a 4/2017. (II. 3.) MvM rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § k) pontját a 8/2021. (V. 31.) MvM rendelet 1. §-a iktatta be.
