@@ -80,6 +80,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 35. támogatástartalom: a 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontja szerinti tartalom,
 
+35a.[^2] támogató: az 1. § (2) bekezdése szerinti előirányzat felett irányító szervként kijelölt miniszter,
+
 36. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
 
 37. új vállalkozás: az a vállalkozás, amely nem rendelkezik lezárt üzleti évvel, vagy olyan támogatásra jogosult, amely az e rendelet hatálybalépését megelőző 12 hónapon belül jött létre,
@@ -87,3 +89,4 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 38. üzlet: a Kertv. 2. § 27. pontjában meghatározott épület, épületrész vagy helyiség.
 
 [^1]: A 2. § 18a. pontját a 226/2021. (V. 4.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 2. § 35a. pontját a 290/2021. (V. 31.) Korm. rendelet 1. §-a iktatta be.

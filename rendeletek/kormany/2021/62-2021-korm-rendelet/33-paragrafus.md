@@ -2,7 +2,7 @@
 
 ## 21. Az Európai Unió jogának való megfelelés
 
-## 33. §[^18] Ez a rendelet
+## 33. §[^21] Ez a rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352, 2013.12.24., 1. o.),
 
@@ -14,4 +14,4 @@ d) az állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdas
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^18]: A 33. § a 226/2021. (V. 4.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^21]: A 33. § a 226/2021. (V. 4.) Korm. rendelet 6. §-ával megállapított szöveg.
