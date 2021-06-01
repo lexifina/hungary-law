@@ -1,0 +1,1 @@
+## „a) olyan alkalmazott, akinek magának, házastársának (élettársának), vele közös háztartásban élő gyermekének, más együttköltöző családtagjának külön-külön vagy együttesen lakástulajdona vagy résztulajdona korábban nem volt,”
