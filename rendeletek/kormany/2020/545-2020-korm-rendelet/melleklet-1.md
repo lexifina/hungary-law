@@ -1,4 +1,4 @@
-## 10. §[^2]
+## 10. §[^5]
 
 1. melléklet az 545/2020. (XII. 2.) Korm. rendelethez
 
@@ -58,4 +58,4 @@
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
