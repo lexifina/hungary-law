@@ -16,4 +16,4 @@ Az MFB Zrt. a 3. § (5) bekezdése és az állami vagyonról szóló 2007. évi 
 
 7.
 
-8. MFB Invest Befektetési és Vagyonkezelő Zártkörűen Működő Részvénytársaság
+8.
