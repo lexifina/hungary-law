@@ -230,6 +230,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 024003 | Kézi és gépi fakitermelés bérmunkában |
 
+| 024004 | Erdőgazdálkodáshoz kapcsolódó szaktanácsadás |
+
 | 03 | Halászat, halgazdálkodás |
 
 | 031 | Halászat |
@@ -3142,9 +3144,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4781 | Élelmiszer, ital, dohányáru piaci kiskereskedelme |
 
-| 478101 | Élelmiszer, alkoholmentes ital piaci kiskereskedelme |
+| 478101 | Élelmiszer, ital piaci kiskereskedelme |
 
-| 478102 | Élelmiszer, alkoholmentes ital kiskereskedelmi értékesítése közterületen |
+| 478102 | Élelmiszer, ital kiskereskedelmi értékesítése közterületen |
 
 | 4782 | Textil, ruházat, lábbeli piaci kiskereskedelme |
 
@@ -3970,7 +3972,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 749009 | Egészségügyi tervezés, szakértés, módszertani feladatok végzése |
 
-| 749010 | Környezetvédelmi szakmai tervezés, szakértés |
+| 749010 | Környezetvédelmi szakmai tervezés, szaktanácsadás |
 
 | 749011 | Egyéb, gazdasági, társadalmi tevékenységet segítő szakmai tervezés, szakértés |
 
@@ -4035,6 +4037,26 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 749059 | Gyermekvédelmi szakértés |
 
 | 749060 | Növényvédelmi szakértés |
+
+| 749061 | Szántóföldi növénytermesztéshez kapcsolódó szaktanácsadás |
+
+| 749062 | Kertészethez kapcsolódó szaktanácsadás |
+
+| 749063 | Precíziós gazdálkodáshoz kapcsolódó szaktanácsadás |
+
+| 749064 | Ökológiai gazdálkodáshoz kapcsolódó szaktanácsadás |
+
+| 749065 | Öntözésfejlesztéshez kapcsolódó szaktanácsadás |
+
+| 749066 | Állattenyésztéshez kapcsolódó szaktanácsadás |
+
+| 749067 | Állategészségügyhöz kapcsolódó szaktanácsadás |
+
+| 749068 | Élelmiszer-előállításhoz, -feldolgozáshoz kapcsolódó szaktanácsadás |
+
+| 749069 | Takarmányozáshoz, takarmány-előállításhoz kapcsolódó szaktanácsadás |
+
+| 749070 | Földügyekhez kapcsolódó szaktanácsadás |
 
 | 75 | Állat-egészségügyi ellátás |
 
@@ -4318,11 +4340,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 8532 | Szakmai középfokú oktatás |
 
-| 853201 | Szakmai középiskolai oktatás |
+| 853201 | Szakmai középfokú oktatás |
 
-| 853202 | Szakmai szakiskolai oktatás |
-
-| 853203 | Szakmai középfokú felnőttoktatás |
+| 853203 | Szakmai középfokú felnőttképzés |
 
 | 853204 | Hivatásos járművezető oktatás |
 
@@ -4333,6 +4353,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 854101 | Felső szintű, nem felsőfokú oktatás m.n.s. |
 
 | 854102 | Érettségire épülő szakmai felnőttképzés |
+
+| 854103 | Felső szintű, nem felsőfokú iskolarendszerű szakképzés |
 
 | 8542 | Felsőfokú oktatás |
 
@@ -4378,7 +4400,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 856001 | Oktatási, nevelési, módszertani tanácsadás, szakmai tervezés, szakértés |
 
-| 856002 | Iskolarendszerű nevelési, oktatási és más közoktatási intézmény alapítása és fenntartása |
+| 856002 | Iskolarendszerű nevelési, oktatási és más köznevelési intézmény alapítása és fenntartása |
 
 | 856004 | Vizsgáztatás |
 
@@ -4445,6 +4467,10 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 869009 | Hospice ellátás a beteg otthonában |
 
 | 869010 | Lovasterápia |
+
+| 869011 | Humánkineziológiai szolgáltatás |
+
+| 869012 | Dúlai szolgáltatás |
 
 | 87 | Bentlakásos, nem kórházi ápolás |
 
@@ -4844,6 +4870,10 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 960209 | Kéz és lábápolás az ügyfél otthonában |
 
+| 960210 | Sminkelés, műszempilla-építés |
+
+| 960211 | Sminkelés az ügyfél otthonában |
+
 | 9603 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
 | 960301 | A temető fenntartása, üzemeltetése |
@@ -4902,4 +4932,4 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-[^2]: A Melléklet a 34/2017. (XII. 19.) MvM rendelet 1. §-ával megállapított, a 14/2019. (X. 28.) MvM rendelet 1. §-a szerint módosított szöveg.
+[^2]: A Melléklet a 34/2017. (XII. 19.) MvM rendelet 1. §-ával megállapított, a 14/2019. (X. 28.) MvM rendelet 1. §-a, a 6/2021. (V. 31.) MvM rendelet 1. §-a szerint módosított szöveg.
