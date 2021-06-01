@@ -1,10 +1,10 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatáshoz hatáskörrel rendelkező közigazgatási szervek
+## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági eljárások és az eljárások lefolytatáshoz hatáskörrel rendelkező közigazgatási szervek
 
 |  | A | B | C | D |
 
-| 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
+| 1. | Beruházás megnevezése | Beruházás megvalósításának helyszíne | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2020) | az 1. § (1) bekezdés a) és b)pontja szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
+| 2. | Budapest Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója (2011-2025) | az 1. § (1) bekezdés szerinti terület, illetve ezen területekből telekalakítás folytán kialakított terület | általános építésügyi és örökségvédelmi hatósági eljárások, régészeti feltárásokkal közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
 | 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
 
@@ -26,6 +26,6 @@
 
 | 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^28]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^40]
 
-[^28]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
+[^40]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
