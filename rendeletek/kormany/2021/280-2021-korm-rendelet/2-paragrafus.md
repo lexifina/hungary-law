@@ -1,0 +1,1 @@
+## „6. – a Magyar Honvédség parancsnoka felterjesztése alapján, az e rendeletben meghatározott szakmai irányítást gyakorló vezetőjének egyetértése mellett – jóváhagyja a Hvt. 45. § (1a) bekezdése szerinti speciális irányításban érintett katonai szervezetek szervezeti és működési szabályzatát.”
