@@ -10,7 +10,7 @@ c) a független jogkezelő szervezet esetében a jogkezelési tevékenységből 
 
 (3) A felügyeleti díjat a második naptári negyedév utolsó napjáig kell megfizetni.
 
-(4) A tevékenység megkezdésének éve vonatkozásában a felügyeleti díj mértéke az erre az évre tervezett bevétel (2) bekezdés szerint irányadó százaléka. Ebben az esetben a felügyeleti díjat a tárgyévet követő második naptári negyedév utolsó napjáig kell megfizetni.
+(4) A tevékenység megkezdésének éve vonatkozásában a felügyeleti díj mértéke az erre az évre tervezett jogdíjbevétel (2) bekezdés szerint irányadó százaléka. Ebben az esetben a felügyeleti díjat a tárgyévet követő második naptári negyedév utolsó napjáig kell megfizetni.
 
 (5) A határidőben meg nem fizetett felügyeleti díj után az adózás rendjéről szóló törvény szerint kell késedelmi pótlékot fizetni.
 

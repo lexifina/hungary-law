@@ -1,7 +1,1 @@
-## XXII. Fejezet
-
-## MÓDOSÍTÓ RENDELKEZÉSEK
-
-## 88. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
-
-166. §
+166. § A 18. § a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
