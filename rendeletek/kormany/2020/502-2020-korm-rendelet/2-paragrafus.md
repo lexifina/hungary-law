@@ -1,3 +1,0 @@
-2. § (1) Ha a jogi személy döntéshozó szerve vagy az egyszemélyes jogi személy tagja (alapítója, az alapítói jogok gyakorlására jogosult személy) a veszélyhelyzet idején alkalmazandó kijárási korlátozások, illetve a védelmi intézkedések betartása mellet sem akadályozott a döntéshozatalban, a döntéshozó szerv működésére vagy az egyszemélyi tag (alapító, az alapítói jogok gyakorlására jogosult személy) döntéshozatalára e rendeletben foglalt rendelkezéseket nem kell alkalmazni.
-
-(2) A 7. § rendelkezéseit, továbbá a jogi személynek a döntéshozó szerven kívüli szerveire a 6. § rendelkezéseit az (1) bekezdés szerinti esetben is alkalmazni lehet.

@@ -1,7 +1,7 @@
 ## 10. § A veszélyhelyzet ideje alatt a társasházak – a társasházakról szóló jogszabályoktól eltérően – az ezen alcímben foglaltak szerint működhetnek.
 
-11. § (1) A veszélyhelyzet ideje alatt a társasház – a (2) bekezdésben foglalt kivétellel – nem tart közgyűlést. Ha az éves elszámolásról és a következő évi költségvetésről való döntés vagy más kötelező döntés határideje a veszélyhelyzet ideje alatt jár le, ezen tárgykörökben a veszélyhelyzet megszűnését követő 90 napon belül kell a közgyűlésnek döntenie.
+11. §[^13] (1) A társasház közgyűlést tarthat.
 
-(2) Közgyűlést kell tartani, ha azt a tulajdoni hányad 1/10-ével rendelkező tulajdonostársak a napirend, az ok és a közgyűlési határozatra tett javaslat megjelölésével írásban kérik. Ebben az esetben a döntés csak írásbeli szavazással hozható meg, ideértve azon tárgykörökben való döntést is, melyekben azt a szervezeti-működési szabályzat vagy korábban hozott közgyűlési döntés kizárja. Az írásbeli szavazás módjára a szervezeti-működési szabályzat rendelkezései az irányadók. Ilyen rendelkezés hiányában az írásbeli szavazás részletszabályait – ideértve az eredmény megállapítását is – a közgyűlési meghívóban kell megállapítani. Az írásbeli szavazás eredményét a közös képviselő vagy az intézőbizottság elnöke – a szavazásra megjelölt határidőt követő nyolc napon belül – írásban köteles a tulajdonostársakkal közölni.
+(2) Ha az éves elszámolásról és a következő évi költségvetésről való döntés vagy más kötelező döntés határideje a veszélyhelyzet ideje alatt 2021. július 1. napján vagy azt megelőzően járt le, és ezekben az ügyekben a veszélyhelyzet ideje alatt irányadó szabályok alkalmazásával nem született döntés, akkor e tárgykörökben 2021. október 15. napjáig kell a közgyűlésnek döntenie.
 
-(3) A veszélyhelyzet ideje alatt a közös képviselő (intézőbizottság) fokozott felelősséggel köteles eljárni.
+[^13]: A 11. § a 289/2021. (V. 31.) Korm. rendelet 3. §-ával megállapított szöveg.

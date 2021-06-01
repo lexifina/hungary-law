@@ -1,5 +1,8 @@
 8. § (1) A jogi személy döntéshozó szerve vagy ügyvezetése a Vmtv. vagy e rendelet rendelkezéseinek megfelelően hozott határozata bírósági felülvizsgálata során az érintett határozat bírósági hatályon kívül helyezésére annak létesítő okiratba ütközése miatt nem kerülhet sor, ha a határozat kizárólag a veszélyhelyzetben alkalmazandó jogszabályi rendezések alkalmazása miatt ütközik a létesítő okiratba.
 
-(2) Korlátolt felelősségű társaság esetén, ha a Ptk. 3:189. §-ában, illetve a törzstőke kötelező leszállítása esetén a Ptk. 3:202. § (1) bekezdésében és a Ptk. 3:205. § (2) bekezdésében megjelölt határozatok meghozatalára az 5. § (2) bekezdése szerinti korlátozás miatt nem kerülhet sor, a társaság a szükséges intézkedésekről a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó rendkívüli taggyűlésen köteles dönteni.
+(2)[^7]
 
-(3) Zártkörűen működő részvénytársaság esetén, ha a Ptk. 3:270. §-ában, illetve kötelező alaptőke-leszállítás esetén a Ptk. 3:311. §-ában és a Ptk. 3:314. § (2) bekezdésében megjelölt határozatok meghozatalára az 5. § (2) bekezdése szerinti korlátozás miatt nem kerülhet sor, a zártkörűen működő részvénytársaság a szükséges intézkedésekről a veszélyhelyzet megszűnését követő legfeljebb 90. napra összehívandó rendkívüli közgyűlésen köteles dönteni.
+(3)[^8]
+
+[^7]: A 8. § (2) bekezdését a 289/2021. (V. 31.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^8]: A 8. § (3) bekezdését a 289/2021. (V. 31.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

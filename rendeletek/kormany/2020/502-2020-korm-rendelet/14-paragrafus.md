@@ -1,13 +1,12 @@
-## 13. § Az intézőbizottság abban az esetben is ellátja a feladatait, ha a feladatok ellátására képes tagok száma az eredetileg megválasztott taglétszámhoz képest – akár a társasházakról szóló 2003. évi CXXXIII. törvényben rögzített minimumlétszám alá – csökken.
+## 13. §[^14]
 
-14. § (1)[^6]
+14. §[^15] (1) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt 2021. július 1. napján vagy azt megelőzően járt le, a közös képviselő (intézőbizottság) az új közös képviselő (intézőbizottság) megválasztásáig, de legkésőbb 2021. október 15. napjáig köteles a feladatait – változatlan díjazás mellett – ellátni.
 
-(2) A közös képviselői (intézőbizottsági) megbízatását a közös képviselő (intézőbizottság) nem szüntetheti meg.
+(2) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt az (1) bekezdésben foglaltakon kívüli okból szűnt meg, vagy a közös képviselő (intézőbizottság) a veszélyhelyzet folytán nem volt képes ellátni a feladatait, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat a számvizsgáló bizottság látja el. Számvizsgáló bizottság hiányában, vagy ha a veszélyhelyzet folytán a számvizsgáló bizottság sem volt képes eljárni, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat bármely tulajdonostárs elláthatja.
 
-(3) Ha a közös képviselő (intézőbizottság) megbízatása a veszélyhelyzet ideje alatt jár le, a közös képviselő (intézőbizottság) az új közös képviselő (intézőbizottság) megválasztásáig, de legkésőbb a veszélyhelyzet megszűnését követő 90. napig köteles a feladatait – változatlan díjazás mellett – ellátni.
+(3) A veszélyhelyzet ideje alatt 2021. június 1-ig irányadó szabályok szerint csökkent létszámmal eljáró intézőbizottság az új közös képviselő (intézőbizottság) megválasztásáig látja el a feladatait.
 
-(4) Ha a közös képviselő (intézőbizottság) megbízatása a (3) bekezdésben foglaltakon kívüli okból szűnik meg, vagy a közös képviselő (intézőbizottság) a veszélyhelyzet folytán nem képes ellátni a feladatait, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat a számvizsgáló bizottság látja el. Számvizsgáló bizottság hiányában, vagy ha a veszélyhelyzet folytán a számvizsgáló bizottság sem képes eljárni, az új közös képviselő (intézőbizottság) megválasztásáig a feladatokat bármely tulajdonostárs elláthatja.
+(4) Az (1)–(3) bekezdés szerinti esetben az új közös képviselőt (intézőbizottságot) 2021. október 15-ig kell megválasztani, feltéve, hogy erről a veszélyhelyzet ideje alatt irányadó szabályok alkalmazásával nem született döntés.
 
-(5) A (3) és (4) bekezdés szerinti esetben az új közös képviselőt (intézőbizottságot) a veszélyhelyzet megszűnését követő 90 napon belül kell megválasztani.
-
-[^6]: A 14. § (1) bekezdését a 248/2021. (V. 14.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^14]: A 13. §-t a 289/2021. (V. 31.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^15]: A 14. § a 289/2021. (V. 31.) Korm. rendelet 4. §-ával megállapított szöveg.

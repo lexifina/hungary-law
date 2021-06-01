@@ -2,6 +2,6 @@
 
 28. § (1) A veszélyhelyzet ideje alatt a szakértői eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdheti a szakértői vagy szakértői testületi tagi tevékenységet azzal, hogy az esküt a veszélyhelyzet megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.
 
-(2)[^12] A veszélyhelyzet ideje alatt a szakértői igazolvány kizárólag postai úton, hivatalos iratként küldhető meg a szakértő részére.
+(2)[^21] A veszélyhelyzet ideje alatt a szakértői igazolvány kizárólag postai úton, hivatalos iratként küldhető meg a szakértő részére.
 
-[^12]: A 28. § (2) bekezdése a 608/2020. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^21]: A 28. § (2) bekezdése a 608/2020. (XII. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
