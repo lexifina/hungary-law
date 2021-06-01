@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Unió saját forrásainak rendszeréről szóló, 2014. május 26-i 2014/335/EU, Euratom tanácsi határozat (a továbbiakban: Határozat) kötelező hatályának elismerésére.
