@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-389-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-05-31 | 2020-389-20-22.1 | 389/2020. (VIII. 8.) Korm. rendelet |
+| 2021-06-01 | 2020-389-20-22.2 | 2010: CXXX. törvény |
