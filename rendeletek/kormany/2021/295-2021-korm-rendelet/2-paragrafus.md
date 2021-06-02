@@ -1,5 +1,3 @@
-## 1. § A paksi Integrált Központ létrehozását célzó beruházás, valamint a kapcsolódó bontási és kármentesítési munkák előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 545/2020. (XII. 2.) Korm. rendelet (a továbbiakban: Rendelet) 1. §-a a következő (3) és (4) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(3) Az (1) bekezdés szerinti közigazgatási hatósági ügyekben – a (4) bekezdés figyelembevételével – az (1) bekezdés szerinti ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telek helyi építési szabályzat szerinti kialakítása még nem történt meg.
-
-## (4) Az (1) bekezdés szerinti Beruházás keretében megvalósuló építmények használatbavételi engedélye kiadásának feltétele az (1) bekezdés szerinti ingatlanok tekintetében a telekalakítás végrehajtása, valamint annak ingatlan-nyilvántartásba történő bejegyzése.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
