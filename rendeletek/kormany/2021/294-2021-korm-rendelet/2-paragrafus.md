@@ -1,3 +1,3 @@
-## 1. § A budapesti Istvánmező rehabilitációs programjával, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 364/2011. (XII. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a budapesti Istvánmező rehabilitációs programja, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciója keretében a budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról szóló 2012. évi LXXV. törvény 1. § b) pontja és Melléklete szerinti területen megvalósuló beruházással (a továbbiakban: beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

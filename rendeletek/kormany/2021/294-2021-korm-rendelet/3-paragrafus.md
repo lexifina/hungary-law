@@ -1,3 +1,3 @@
-## 2. § A Korm. rendelet a következő 1/A. §-sal egészül ki:
+## 2. §[^3]
 
-## „1/A. § A Kormány kiemelten közérdekű beruházássá nyilvánítja a beruházást. A kiemelten közérdekű beruházás helyszínét az 1. § (1) bekezdése állapítja meg.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

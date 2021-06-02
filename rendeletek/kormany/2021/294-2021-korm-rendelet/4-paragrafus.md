@@ -1,3 +1,3 @@
-## 3. § A Korm. rendelet a következő 1/B. §-sal egészül ki:
+## 3. §[^4]
 
-## „1/B. § A beruházással összefüggő építési, felújítási, átalakítási, bővítési, helyreállítási, korszerűsítési, fejlesztési, bontási és beszerzési tevékenység közfeladatnak minősül.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
