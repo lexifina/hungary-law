@@ -1,3 +1,1 @@
-35. § A Kjkt. XXI. „Az Európai Unió jogának való megfelelés” című fejezete a következő 166. §-sal egészül ki:
-
-„166. § A 18. § a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+35. §
