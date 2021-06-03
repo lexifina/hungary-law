@@ -4,10 +4,10 @@
 
 (2) Az NHIT-t elnök vezeti, az elnök az NHIT tagja.
 
-(3)[^120] Az elnök munkáját alelnök segíti, az alelnök az NHIT tagja..
+(3)[^128] Az elnök munkáját alelnök segíti, az alelnök az NHIT tagja.
 
 (4) Az NHIT elnöke az államtitkár illetményének megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye kilencven százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye nyolcvan százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig.
 
 (5) Az NHIT tevékenységének a támogatására a Kormány a Miniszterelnöki Kormányirodát jelöli ki.
 
-[^120]: A 15. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^128]: A 15. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 8. § e) pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 11. pontja szerint módosított szöveg.
