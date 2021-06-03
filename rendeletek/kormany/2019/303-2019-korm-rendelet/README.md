@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-303-20-
 | 2020-10-25 | 2019-303-20-22.3 | 457/2020. (X. 20.) Korm. rendelet |
 | 2020-12-30 | 2019-303-20-22.4 | 704/2020. (XII. 29.) Korm. rendelet |
 | 2021-05-16 | 2019-303-20-22.5 | 457/2020. (X. 20.) Korm. rendelet |
+| 2021-06-03 | 2019-303-20-22.6 | 305/2021. (VI. 2.) Korm. rendelet |
