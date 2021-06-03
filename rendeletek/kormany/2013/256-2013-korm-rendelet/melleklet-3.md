@@ -72,7 +72,7 @@
 
 | 36. | Bugát Pál Kórház | Gyöngyös |
 
-| 37. | Büntetés-végrehajtás Egészségügyi Központ | Berettyóújfalu |
+| 37. |  |  |
 
 | 38. | Csenger Város Önkormányzat Népjóléti és Szociális Alapszolgáltatási Központ | Csenger |
 
@@ -176,7 +176,7 @@
 
 | 88. | Hőgyész Nagyközség Önkormányzata | Hőgyész |
 
-| 89. | Igazságügyi Megfigyelő és Elmegyógyító Intézet | Budapest |
+| 89. |  |  |
 
 | 90. | INDIT Közalapítvány | Pécs |
 
@@ -544,7 +544,7 @@
 
 | 272. | Biatorbágy Város Önkormányzata | Biatorbágy |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^87]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^91]
 
 ## Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
@@ -624,4 +624,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^87]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^91]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.

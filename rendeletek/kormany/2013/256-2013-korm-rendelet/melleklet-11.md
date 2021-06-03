@@ -38,6 +38,6 @@
 
 | 17 | 49–51 | 80 275 | 115 961 | 92 886 | 118 837 | 194 416 | 308 364 | 323 233 | 356 629 | 352 010 | 385 614 |
 
-11. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^95]
+11. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^99]
 
-[^95]: A 11. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 70/2021. (II. 19.) Korm. rendelet 11. § (2) bekezdése.
+[^99]: A 11. mellékletet a 399/2017. (XII. 14.) Korm. rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 70/2021. (II. 19.) Korm. rendelet 11. § (2) bekezdése.
