@@ -10,7 +10,9 @@ d) a 4-metilmetkatinon (mefedron) ellenőrzési intézkedések alá vonásáról
 
 e) a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról és a 2005/387/IB tanácsi határozat hatályon kívül helyezéséről szóló, 2017. november 15-i (EU) 2017/2103 európai parlamenti és tanácsi irányelvnek,
 
-f) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek
+f) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek,
+
+g)[^140] a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2-[[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -25,3 +27,4 @@ c) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopr
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 [^139]: A 34. § a 347/2019. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^140]: A 34. § (1) bekezdés g) pontját a 232/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be.
