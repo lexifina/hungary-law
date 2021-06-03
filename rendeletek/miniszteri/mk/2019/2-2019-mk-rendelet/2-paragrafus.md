@@ -1,6 +1,6 @@
 2. § (1) A Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Rendelet) 1. § (4) bekezdés 1. pontja szerinti alkalmazásnak és kapcsolódó szolgáltatásnak minősül valamennyi, e rendelet szerinti alkalmazás, valamint az alkalmazáshoz kapcsolódó szolgáltatás.
 
-(2) A Rendelet 1. § (4) bekezdés 7. pontja szerinti informatikai eszköznek és kapcsolódó szolgáltatásnak minősül valamennyi, e rendelet szerinti
+(2)[^12] A Rendelet 1. § (4) bekezdés 7. pontja szerinti informatikai eszköznek és kapcsolódó szolgáltatásnak minősül valamennyi, e rendelet szerinti
 
 a) aktív hálózati elem,
 
@@ -10,24 +10,28 @@ c) digitális vizuáltechnikai eszköz,
 
 d) digitális vizuáltechnikai eszközökhöz kapcsolódó szolgáltatás,
 
-e) hardver,
+e) egyéb informatikai eszköz vagy szolgáltatás,
 
-f) hardverrendszerekhez, kiegészítőikhez kapcsolódó szolgáltatás,
+f) hardver,
 
-g) internetszolgáltatás,
+g) hardverrendszerekhez, kiegészítőikhez kapcsolódó szolgáltatás,
 
-h) irodatechnikai termékekhez kapcsolódó szolgáltatás,
+h) internetszolgáltatás,
 
-i) kommunikációs eszközökhöz és szolgáltatásokhoz kapcsolódó egyéb szolgáltatás,
+i) irodatechnikai termékekhez kapcsolódó szolgáltatás,
 
-j) másoló és sokszorosító,
+j) kommunikációs eszközökhöz és szolgáltatásokhoz kapcsolódó egyéb szolgáltatás,
 
-k) mobil kommunikációs eszköz,
+k) másoló és sokszorosító,
 
-l) mobil kommunikációs szolgáltatás,
+l) mobil kommunikációs eszköz,
 
-m) nyomtató, valamint
+m) mobil kommunikációs szolgáltatás,
 
-n) passzív hálózati elem.
+n) nyomtató, valamint
+
+o) passzív hálózati elem.
 
 (3) A Rendelet 1. § (4) bekezdés 12. pontja szerinti szoftvernek és kapcsolódó szolgáltatásnak minősül valamennyi, e rendelet szerinti szoftver, valamint a szoftverekhez kapcsolódó szolgáltatás.
+
+[^12]: A 2. § (2) bekezdése a 3/2021. (VI. 2.) MK rendelet 2. §-ával megállapított szöveg.

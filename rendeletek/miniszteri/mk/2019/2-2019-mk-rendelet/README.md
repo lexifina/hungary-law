@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-2-20-7G
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-07-15 | 2019-2-20-7G.1 | 2/2019. (VII. 12.) MK rendelet |
+| 2021-06-03 | 2019-2-20-7G.2 | 3/2021. (VI. 2.) MK rendelet |
