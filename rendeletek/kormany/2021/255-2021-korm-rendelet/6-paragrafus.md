@@ -1,0 +1,1 @@
+## 5. § Ha a jogellenesen kitermelt faanyag mennyisége az eljárás során helyszíni felméréssel nem állapítható meg, a bírság alapjául szolgáló fatérfogat mennyiségét az Országos Erdőállomány Adattár adatainak alapulvételével az erdészeti hatóság állapítja meg.
