@@ -1186,7 +1186,11 @@ EG-018
 
 |
 
+isotonitazene
+
 |
+
+N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine”
 
 |
 

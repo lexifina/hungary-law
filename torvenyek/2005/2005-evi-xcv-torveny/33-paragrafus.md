@@ -22,4 +22,6 @@ j) a 2001/83/EK irányelvnek a farmakovigilancia tekintetében történő módos
 
 k) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek
 
+l) a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2-[[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek
+
 való megfelelést szolgálja.
