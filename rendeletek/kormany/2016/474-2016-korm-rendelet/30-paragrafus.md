@@ -1,4 +1,4 @@
-## 29/A. §[^43] Ha a kedvezményezettnek a támogatás felhasználása, vagy annak ellenőrzése során visszafizetési kötelezettsége keletkezik, a kedvezményezett köteles a visszafizetést igazoló banki kivonatot a visszafizetés napján elektronikus úton megküldeni a támogatási szerződésben megjelölt kapcsolattartónak, egyidejűleg jeleznie kell a visszafizetés okát.
+## 29/A. §[^44] Ha a kedvezményezettnek a támogatás felhasználása, vagy annak ellenőrzése során visszafizetési kötelezettsége keletkezik, a kedvezményezett köteles a visszafizetést igazoló banki kivonatot a visszafizetés napján elektronikus úton megküldeni a támogatási szerződésben megjelölt kapcsolattartónak, egyidejűleg jeleznie kell a visszafizetés okát.
 
 ## IV. Fejezet
 
@@ -20,7 +20,7 @@ e) beruházási és felújítási célú kiadások.
 
 (3) Az előirányzatokon rendelkezésre álló források harmadik személy részére továbbadhatóak, amelynek elszámolásáért a költségvetési forrás kedvezményezettje felel.
 
-(4)[^44] Az országos sportági szakszövetség vagy a fogyatékosok országos sportszövetsége részére edzőtábor tartása és sportszakmai felkészülés céljából nyújtott szakmai támogatás olimpiai központokban történő igénybevételére közvetlenül a Nemzeti Sportközpontokon keresztül kerülhet sor, amelynek során az országos sportági szakszövetség vagy a fogyatékosok országos sportszövetsége erre irányuló jogosultságának helyszínéről és időtartamáról a miniszter dönt.
+(4)[^45] Az országos sportági szakszövetség vagy a fogyatékosok országos sportszövetsége részére edzőtábor tartása és sportszakmai felkészülés céljából nyújtott szakmai támogatás olimpiai központokban történő igénybevételére közvetlenül a Nemzeti Sportközpontokon keresztül kerülhet sor, amelynek során az országos sportági szakszövetség vagy a fogyatékosok országos sportszövetsége erre irányuló jogosultságának helyszínéről és időtartamáról a miniszter dönt.
 
-[^43]: A 29/A. §-t a 279/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be.
-[^44]: A 30. § (4) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 14. §-a iktatta be.
+[^44]: A 29/A. §-t a 279/2018. (XII. 21.) Korm. rendelet 18. §-a iktatta be.
+[^45]: A 30. § (4) bekezdését a 206/2019. (VIII. 23.) Korm. rendelet 14. §-a iktatta be.
