@@ -1,4 +1,4 @@
-89. § (1) Az anyakönyvvezető a születés anyakönyvezésével egyidejűleg a személyi azonosítót és lakcímet igazoló hatósági igazolvány kiadása érdekében a törvényes képviselő kérelmére a törvényes képviselők nevét és telefonszámát a személyi azonosítót és lakcímet igazoló hatósági igazolványt kiállító hatóság részére megküldi.
+89. § (1)
 
 (2) A 4. § (5) bekezdés f) pontja szerinti anyakönyvi szerv, valamint a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az 1980. december 31-ig vezetett anyakönyvben található bejegyzés lezárásáról a bejegyzés folyószámának és az anyakönyv azonosító adatainak továbbításával a Magyar Nemzeti Levéltárat az általa megjelölt formában értesíti. A levéltár az értesítés alapján a bejegyzést lezárja.
 
