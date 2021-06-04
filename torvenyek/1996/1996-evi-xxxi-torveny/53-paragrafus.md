@@ -1,0 +1,1 @@
+53. § Az egyes hatósági eljárásokat érintő egyszerűsítések érdekében szükséges törvénymódosításokról szóló 2021. évi L. törvény által megállapított 46/A. § (1) bekezdését a 46/A. § (3) bekezdése szerinti nyilvántartásban szereplő szakértő esetében 2021. augusztus 1. napjától kell alkalmazni.
