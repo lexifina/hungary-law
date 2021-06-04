@@ -33,5 +33,3 @@
 ## 1. a kormánytisztviselő lakóhelye, lakáscíme, tartózkodási helye, telefonszáma
 
 ## 2. az alkalmazó államigazgatási szerv neve, székhelye, statisztikai számjele
-
-## 3. e szervnél a kormányzati szolgálati jogviszony kezdete
