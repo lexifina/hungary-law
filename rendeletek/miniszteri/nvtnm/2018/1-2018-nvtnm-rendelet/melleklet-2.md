@@ -238,7 +238,9 @@
 
 | 18. | OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-191989 | 2022. december 31. |
 
-| 19. | ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság | 20-10-040370 | 2022. december 31. |
+| 19. |  |  |  |
+
+| 20. | Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság | 01-10-141325 | 2022. december 31. |
 
 ## VIII. Tulajdonosi joggyakorló: a Külgazdasági és Külügyminisztérium
 
@@ -342,4 +344,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a, a 11/2019. (VIII. 15.) NVTNM rendelet 2. §-a, a 15/2019. (IX. 26.) NVTNM rendelet 1. §-a, a 18/2019. (XI. 29.) NVTNM rendelet 2. §-a, a 20/2019. (XII. 18.) NVTNM rendelet 1. §-a, a 21/2019. (XII. 19.) NVTNM rendelet 1. §-a, a 23/2019. (XII. 23.) NVTNM rendelet 2. §-a, a 6/2020. (VI. 29.) NVTNM rendelet 2. §-a, a 11/2020. (VIII. 31.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 3. §-a, az 1/2021. (II. 2.) NVTNM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a, a 11/2019. (VIII. 15.) NVTNM rendelet 2. §-a, a 15/2019. (IX. 26.) NVTNM rendelet 1. §-a, a 18/2019. (XI. 29.) NVTNM rendelet 2. §-a, a 20/2019. (XII. 18.) NVTNM rendelet 1. §-a, a 21/2019. (XII. 19.) NVTNM rendelet 1. §-a, a 23/2019. (XII. 23.) NVTNM rendelet 2. §-a, a 6/2020. (VI. 29.) NVTNM rendelet 2. §-a, a 11/2020. (VIII. 31.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 3. §-a, az 1/2021. (II. 2.) NVTNM rendelet 1. §-a, a 7/2021. (VI. 3.) NVTNM rendelet 5. § a) pontja szerint módosított szöveg.

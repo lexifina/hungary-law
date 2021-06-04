@@ -16,7 +16,7 @@
 
 | 5. | HÉVÍZ-BALATON AIRPORT Korlátolt Felelősségű Társaság | 20-09-072648 | 2022. december 31. |
 
-| 6. | Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049807 | 2022. december 31. |
+| 6. | Visit Hungary Nemzeti Turisztikai Szervezet Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049807 | 2022. december 31. |
 
 | 7. |  |  |  |
 
@@ -65,6 +65,24 @@
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
 | 1. | Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság | 09-09-031988 | 2022. december 31. |
+
+## VI. Tulajdonosi joggyakorló: Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
+
+|  | A | B | C |
+
+| Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Belügyminisztérium HEROS Javító, Gyártó, Szolgáltató és Kereskedelmi Zártkörűen Működő Részvénytársaság | 01-10-044590 | 2022. december 31. |
+
+| 2. | HDT Védelmi Ipari Korlátolt Felelősségű Társaság | 01-09-345552 | 2022. december 31. |
+
+| 3. | NLP Nemzeti Légiipari Projekt Korlátolt Felelősségű Társaság | 01-09-370436 | 2022. december 31. |
+
+| 4. | Rába Járműipari Holding Nyrt. | 08-10-001532 | 2022. december 31. |
+
+| 5. | STU Repülés-technológiai Felületkezelő Korlátolt Felelősségű Társaság | 01-09-351886 | 2022. december 31. |
+
+| 6. | ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság | 20-10-040370 | 2022. december 31. |
 
 4. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^6]
 
