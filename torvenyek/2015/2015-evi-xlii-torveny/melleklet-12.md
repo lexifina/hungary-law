@@ -11,5 +11,3 @@
 ## | | A) | B) | 1. | Alsó határ (Ft) | Felső határ (Ft) | 2. | 350 000 | 555 000
 
 ## Felsőfokú munkaköri osztályba tartozó munkaköri kategóriák fizetési fokozatai
-
-## és az azokhoz tartozó illetmények alsó és felső határai:
