@@ -149,5 +149,3 @@
 ## V.
 
 ## 1. az alkalmazó kormányzati igazgatási szerv neve, székhelye, statisztikai számjele
-
-## 2. e szervnél a kormányzati szolgálati jogviszony kezdete
