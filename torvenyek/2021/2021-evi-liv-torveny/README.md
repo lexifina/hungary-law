@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-54-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2021-06-04 | 2021. évi LIV. törvény | 2021-54-00-00.0 (közlönyállapot) |
+| 2021-06-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-54-00-00.1 |
