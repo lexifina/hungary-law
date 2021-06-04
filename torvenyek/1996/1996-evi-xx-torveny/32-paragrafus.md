@@ -49,3 +49,7 @@ v) az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az 
 w) a Központi Statisztikai Hivatal statisztikai célra;
 
 x) az útlevélhatóság és az eljárásában közreműködő hatóság az úti okmányokkal kapcsolatos feladataik ellátásához.
+
+y) az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez,
+
+z) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez.

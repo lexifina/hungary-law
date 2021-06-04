@@ -1,8 +1,8 @@
 46/A. § (1) Az összerendelési nyilvántartás létrehozása (a továbbiakban: kezdeti adatfeltöltés) során a személyiadat- és lakcímnyilvántartást, a központi idegenrendészeti nyilvántartást kezelő szerv összerendelési kapcsolati kódot képez az általa vezetett nyilvántartás hatálya alá tartozó valamennyi természetes személyre. Az adatkezelő az összerendelési kapcsolati kódot az azonosítóhoz rendelten nyilvántartásba veszi.
 
-(2) Az összerendelési bejegyzés képzésének kezdeményezésére jogosult szerv – az összerendelési nyilvántartást vezető szerv részére történő adatátadás céljából–létrehozza az (1) bekezdés szerinti természetes személyek összerendelési bejegyzési kapcsolati kódjának titkosított változatát, továbbá ahhoz kapcsoltan az adatalany természetes személyazonosító adatait tartalmazó adatállományt.
+(2) Az összerendelési bejegyzés képzésének kezdeményezésére jogosult szerv – az összerendelési nyilvántartást vezető szerv részére történő adatátadás céljából–létrehozza az (1) bekezdés szerinti természetes személyek összerendelési bejegyzési kapcsolati kódjának titkosított változatát, továbbá ahhoz kapcsoltan az érintett természetes személyazonosító adatait tartalmazó adatállományt.
 
-(3) A személyiadat- és lakcímnyilvántartás szerve a (2) bekezdésben meghatározott adatállomány adattartalmát az adatalanyok személyi azonosítójával, valamint a 37. § (1) bekezdés a) és b) pontja alapján rendszeres adatátadás céljára általa képzett ágazati kapcsolati kódjaival (a továbbiakban: ágazati kapcsolati kód) egészíti ki.
+(3) A személyiadat- és lakcímnyilvántartás szerve a (2) bekezdésben meghatározott adatállomány adattartalmát az érintettek személyi azonosítójával, valamint a 37. § (1) bekezdés a) és b) pontja alapján rendszeres adatátadás céljára általa képzett ágazati kapcsolati kódjaival (a továbbiakban: ágazati kapcsolati kód) egészíti ki.
 
 (4) Az összerendelési nyilvántartást vezető szerv
 

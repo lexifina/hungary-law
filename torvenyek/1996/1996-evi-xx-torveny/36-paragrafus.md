@@ -47,3 +47,7 @@ u) a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá v
 v) a 32. § e) és t) pontjában felsorolt szervek egymás között, az ott meghatározott feladataik ellátásához;
 
 x) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez.
+
+y) az intézetben történt születést bejelentő egészségügyi szolgáltató a születés bejelentéséhez,
+
+z) a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendeletben megjelölt személy vagy szerv a haláleset bejelentéséhez.

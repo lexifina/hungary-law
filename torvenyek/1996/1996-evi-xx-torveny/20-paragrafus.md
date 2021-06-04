@@ -12,7 +12,7 @@ b) A munkaügyi igazgatás szerve annak megállapítása érdekében, hogy a pol
 
 c) a bíróság, igazságszolgáltatási feladatának ellátásával összefüggésben;
 
-d) a nyomozó hatóság, az ügyészség által engedélyezett adatkérés alapján, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
+d) a nyomozó hatóság, valamint az előkészítő eljárást folytató szerv, ha az adóazonosító jel megismerése a büntetőeljárás megindítása vagy lefolytatása érdekében szükséges;
 
 e) a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 
