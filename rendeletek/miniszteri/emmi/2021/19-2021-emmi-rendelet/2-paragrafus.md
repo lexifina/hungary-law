@@ -1,1 +1,3 @@
-## 1. § Hatályát veszti az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló 55/2014. (XII. 30.) EMMI rendelet 1. melléklet 5.1. pontjában foglalt táblázat 205. sora.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
