@@ -1,0 +1,1 @@
+A Kormány az Európai Unió saját forrásainak rendszeréről és a 2014/335/EU, Euratom határozat hatályon kívül helyezéséről szóló, 2020. december 14-i (EU, Euratom) 2020/2053 tanácsi határozat kihirdetéséről szóló 2021. évi XLV. törvény 5. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
