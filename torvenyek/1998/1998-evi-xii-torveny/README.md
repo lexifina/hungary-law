@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2021-01-01 | 2012. évi XXXVI. törvény | 1998-12-00-00.55 |
 | 2021-02-01 | 2020. évi CXXI. törvény | 1998-12-00-00.56 |
 | 2021-03-01 | 2020. évi XXXI. törvény | 1998-12-00-00.57 |
+| 2021-06-04 | 2021. évi L. törvény | 1998-12-00-00.58 |
