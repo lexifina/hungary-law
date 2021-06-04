@@ -68,4 +68,4 @@ q) a magánútlevél kiadásában közreműködő hatóság értesítése a term
 
 r) a születést anyakönyvező anyakönyvvezető által a 7. § (3) bekezdésében meghatározott újszülött hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.
 
-s) az anyakönyvvezető által a 7. § (4) bekezdésében meghatározott polgároknak a hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.
+s) az anyakönyvvezető által a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő, érvényes állandó személyazonosító igazolvánnyal rendelkező és hivatalbóli kiállítást megakadályozó nyilatkozatot nem tevő magyar állampolgárok esetén a hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.

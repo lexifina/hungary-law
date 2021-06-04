@@ -36,7 +36,7 @@ k) ellátja a 7. § (3) bekezdésében meghatározott újszülött esetén az á
 
 l) ellátja a 28/C. §-ban meghatározott értesítési szolgáltatással kapcsolatos feladatokat,
 
-m) ellátja a 7. § (4) bekezdésében meghatározott polgárok házasságkötés során választott házassági nevének felvétele esetén az állandó személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány hivatalból történő kiadásával kapcsolatos hatósági feladatokat.
+m) ellátja a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő, érvényes állandó személyazonosító igazolvánnyal rendelkező és hivatalbóli kiállítást megakadályozó nyilatkozatot nem tevő magyar állampolgárok esetén az állandó személyazonosító igazolvány, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvány hivatalból történő kiadásával kapcsolatos hatósági feladatokat.
 
 n) vezeti a 33/B. § (1) bekezdése szerinti nyilvántartást.
 
