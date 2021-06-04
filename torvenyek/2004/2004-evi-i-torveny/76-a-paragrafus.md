@@ -10,7 +10,7 @@ b) a születési hely és idő,
 
 c) az anyja születési családi és utóneve,
 
-d) képmás.
+d) a szervező és az utazó sportszervezet által továbbított képmás.
 
 (2a) A sportrendezvények látogatástól eltiltás hatálya alatt állók tekintetében a sportrendészeti nyilvántartás tartalmazza
 
