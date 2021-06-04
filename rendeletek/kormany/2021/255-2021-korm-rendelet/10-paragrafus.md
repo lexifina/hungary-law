@@ -1,3 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-10. § Hatályát veszti az erdőgazdálkodási és erdővédelmi bírság mértékéről és kiszámításának módjáról szóló 143/2009. (VII. 6.) Korm. rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
