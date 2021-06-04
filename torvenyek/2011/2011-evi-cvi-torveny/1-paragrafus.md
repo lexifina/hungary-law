@@ -62,6 +62,8 @@ j) a vasúti pályahálózat-működtető szervezet a vasúti pálya és környe
 
 k) a kötelező önkormányzati feladat ellátásában közreműködő, törvény alapján kijelölt közérdekű szolgáltató.
 
+l) start szociális szövetkezet.
+
 (4) Közfoglalkoztatottként az a természetes személy foglalkoztatható, aki
 
 a) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezései szerint munkaviszonyt létesíthet, kivéve azt, aki 16. életévét nem töltötte be, valamint
