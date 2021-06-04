@@ -1,0 +1,3 @@
+## 10. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
+
+17. § Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény (a továbbiakban: Ebtv.) 31. § (2) bekezdésében az „a társadalmi felzárkózásért felelős miniszter által meghatározott részletes szabályok” szövegrész helyébe az „az e törvény és a felhatalmazása alapján kiadott kormányrendeletben meghatározott szempontok és eljárásrend, valamint azok figyelembevételével a társadalmi felzárkózásért felelős miniszter által, az általa vezetett minisztérium honlapján közzétett módszertani útmutató” szöveg lép.

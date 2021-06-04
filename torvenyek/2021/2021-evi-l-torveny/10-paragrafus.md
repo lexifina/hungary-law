@@ -1,0 +1,1 @@
+10. § A Ttv. 46/A. § (1) bekezdésében az „aki büntetlen előéletű” szövegrész helyébe az „aki büntetlen előéletű, nem áll cselekvőképességet érintő gondnokság, támogatott döntéshozatal vagy közügyektől eltiltás hatálya alatt” szöveg lép.
