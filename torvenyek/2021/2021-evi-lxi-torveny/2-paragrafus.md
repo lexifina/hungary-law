@@ -1,1 +1,1 @@
-2. § Az Országgyűlés az Egyezménynek a Szellemi Tulajdon Világszervezetére vonatkozó Függelékét, a Nemzetközi Mezőgazdasági Fejlesztési Alapra vonatkozó Függelékét, az Egyesült Nemzetek Iparfejlesztési Szervezetére vonatkozó Függelékét, valamint a Turisztikai Világszervezetre vonatkozó Függelékét e törvénnyel kihirdeti.
+2. §
