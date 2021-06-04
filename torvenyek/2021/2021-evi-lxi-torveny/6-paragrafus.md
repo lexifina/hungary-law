@@ -1,0 +1,1 @@
+6. § Hatályát veszti az Egyesült Nemzetek szakosított intézményeinek kiváltságairól és mentességeiről New Yorkban 1947. november 21-én kelt Egyezmény kihirdetéséről szóló 1967. évi 23. törvényerejű rendelet.
