@@ -52,6 +52,24 @@ d) a nyilvántartó által a Gfbt.-ben meghatározott kötvénynyilvántartásb�
 
 e) a nyilvántartó által a kárnyilvántartásból beszerzett káreseményre vonatkozó adat és a káresemény dátuma.
 
+(3b) A nyilvántartó a személyre szabott ügyintézési felület útján ingyenes szolgáltatást biztosít a járművezető vagy a járművezető-jelölt részére az automatikus okmánykiállítási eljáráshoz kapcsolódóan a kategóriára vonatkozó vezetési jogosultság megszerzése, valamint a magyar vezetői engedély érvényességi idejének meghosszabbítása esetén az ezekhez szükséges, ügyfél által biztosított adatok, továbbá a biztosítandó feltételek és a kizáró okok megismerése céljából, az ehhez szükséges mértékben. A szolgáltatás a vezetői engedély kiállítását követő 30. napig érhető el.
+
+(3c) A (3b) bekezdés szerinti szolgáltatás útján a járművezető vagy a járművezető-jelölt elektronikus azonosítását követően közvetlenül tájékozódhat
+
+a) az arcfényképe és saját kezű aláírása felhasználhatóságára,
+
+b) az egészségi alkalmasságára,
+
+c) a vezetési jogosultságának szünetelésére,
+
+d) az elsősegély-nyújtási ismeretek megszerzésére,
+
+e) a kategóriára vonatkozó vezetési jogosultság megszerzésére vagy az az alóli mentesülésre,
+
+f) a vezetői engedély automatikus kiállításához szükséges nyilatkozataira
+
+vonatkozó adatairól.
+
 (4) A kérelmező igényelheti, hogy kapcsolatfelvétel céljából a nyilvántartó az általa megjelölt személyt, személyi kört keresse meg, és
 
 a) kérje írásos hozzájárulását ahhoz, hogy a kérelemben felsorolt adatait a kérelmező rendelkezésére bocsáthassa, vagy

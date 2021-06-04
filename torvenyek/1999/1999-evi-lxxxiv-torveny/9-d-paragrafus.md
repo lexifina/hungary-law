@@ -38,6 +38,8 @@ c) típusát,
 
 d) színét.
 
+e) fajtáját.
+
 (4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az „E” és a „P” betűjelű rendszámtáblák használatának korlátozására vonatkozó adatokat.
 
 (5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.

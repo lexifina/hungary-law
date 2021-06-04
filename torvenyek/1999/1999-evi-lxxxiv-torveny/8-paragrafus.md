@@ -36,7 +36,7 @@ bb) elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból tö
 
 bc) hivatalos feljegyzések rovatába bejegyzett adatokat, valamint
 
-bd) a vezetési jogosultság megszerzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
+bd) a vezetési jogosultság megszerzésének és engedély-nyilvántartásba történő bejegyzésének időpontjára és a megszerzett kategóriára vonatkozó adatokat.
 
 (2) Az engedély-nyilvántartás az (1) bekezdésben meghatározott adatokon kívül tartalmazza a SIS II-ben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, törvényben, személyes adatoknak nem minősülő adatok esetében jogszabályban meghatározott adatokat is.
 
