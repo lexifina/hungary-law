@@ -8,29 +8,29 @@
 
 ## 45. A külföldi felsőoktatási intézmények magyarországi működése
 
-76. § (1) Magyarország területén külföldi felsőoktatási intézmény akkor folytathat oklevelet adó képzési tevékenységet, ha
+76. § (1) Magyarország területén az Európai Gazdasági Térségről szóló szerződésben nem részes államban (a továbbiakban: nem EGT-állam) székhellyel rendelkező külföldi felsőoktatási intézmény akkor folytathat oklevelet adó képzési tevékenységet, ha
 
-a) magyarországi működésének elvi támogatásáról szóló, Magyarország Kormánya és a külföldi felsőoktatási intézmény székhelye szerinti állam Kormánya által kötött – föderatív állam esetében, amennyiben a nemzetközi szerződés kötelező hatályának elismerésére nem a központi kormányzat jogosult, annak központi kormányzatával létrejött előzetes megállapodáson alapuló – nemzetközi szerződés kötelező hatályát a szerződő felek elismerték,
+a) Magyarország Kormánya és a külföldi felsőoktatási intézmény székhelye szerinti állam Kormánya által a felsőoktatási végzettségek, fokozatok egyenértékűsége tárgyában kötött nemzetközi szerződésben szerepel,
 
-b) a székhelye szerinti országban működő, és ott ténylegesen felsőoktatási képzést folytató államilag elismert felsőoktatási intézménynek minősül,
+b) a Magyarországon nyújtott képzés a magyar felsőoktatási intézmények képzésével egyenértékű,
 
-c) az általa Magyarország területén folytatni kívánt képzés és az arra tekintettel kiállított oklevél államilag elismert felsőoktatási fokozatot adó képzésnek minősül és
+c) az általa Magyarországon nyújtott képzés felvételi követelményei megfeleltethetőek az intézmény képzésével egyenértékű képzést nyújtó államilag elismert felsőoktatási intézményre vonatkozó felvételi követelményeknek, és
 
-d) működését az oktatási hivatal engedélyezte.
+d) oklevelet adó képzési tevékenységét az oktatási hivatal kérelemre engedélyezte.
 
 (1a) Az (1) bekezdés szerinti felsőoktatási intézmény tekintetében – a történelem kiemelkedő személyiségeivel kapcsolatos névhasználati szabály kivételével – alkalmazni kell a 9. § (2a) és (2b) bekezdése szerinti szabályokat is azzal, hogy a felsőoktatási intézmény elnevezése sem az 1. melléklet szerinti, sem Magyarországon képzési tevékenységet folytató külföldi felsőoktatási intézménnyel nem lehet összetéveszthető.
 
 (2) A működési engedély megtagadható a származási országbeli vagy más, az ESG-nek megfelelő felsőoktatási akkreditációs szervezet szakvéleménye alapján. A szakvélemény nyilatkozik a képzés személyi és tárgyi feltételeiről, a képzés minőségéről.
 
-(3) A működési engedély megtagadható, ha a külföldi oklevél végzettségi szintjének a magyarországi elismerésére nincs lehetőség. Ha a más államban székhellyel rendelkező felsőoktatási intézmény által kibocsátott külföldi oklevél végzettségi szintjének magyarországi elismerésére nincs lehetőség, akkor erre az intézménynek egyértelműen és igazolhatóan fel kell hívni a képzésre jelentkező figyelmét, amelynek teljesülését az oktatási hivatal ellenőrzi.
+(3)
 
 (4) Az oktatási hivatal eljárásában kérheti, hogy a külföldi felsőoktatási intézmény az (1) és (2) bekezdésben meghatározott feltételek fennállását igazoló okiratokat hiteles másolatban, illetve hiteles magyar fordításban nyújtsa be. Az oktatási hivatal honlapján közzéteszi azon nyelvek listáját, amelyek vonatkozásában az okiratok nem hiteles magyar fordítását is elfogadja.
 
-(5) Ha törvény eltérően nem rendelkezik, a külföldi felsőoktatási intézmény alapítására, az intézményben folyó oktató és kutató munkára, valamint annak ellenőrzésére, az intézmény működésére, a felvételi feltételek meghatározására az intézmény székhelye szerinti állam előírásait kell alkalmazni.
+(5) Az (1) bekezdésben foglalt, oklevelet adó képzési tevékenység folytatására, a külföldi felsőoktatási intézményben folyó oktató és kutató munkára, valamint annak ellenőrzésére, az intézmény működésére az intézmény székhelye szerinti állam előírásait kell alkalmazni, és az (1) bekezdésben foglalt képzésre tekintettel a felsőoktatási intézmény székhelye szerinti államban elismert végzettséget tanúsító oklevelek és fokozatok adhatóak.
 
-(5a) A működési engedéllyel rendelkező külföldi felsőoktatási intézményt az oktatási hivatal nyilvántartásba veszi. A működési engedélyt az oktatási hivatalnak legalább ötévente felül kell vizsgálnia. Az oktatási hivatal a működési engedélyre vonatkozó határozatát visszavonja, ha a külföldi felsőoktatási intézmény, vagy a képzés az (1) bekezdés a)–c) pontjában, a (2) és a (3) bekezdésben meghatározott feltételeknek utóbb nem felel meg.
+(5a) A működési engedéllyel rendelkező külföldi felsőoktatási intézményt az oktatási hivatal nyilvántartásba veszi. A működési engedélyt az oktatási hivatalnak legalább ötévente felül kell vizsgálnia. Az oktatási hivatal a működési engedélyre vonatkozó határozatát visszavonja, ha a külföldi felsőoktatási intézmény, vagy a képzés az (1) bekezdés a)–c) pontjában és a (2) bekezdésben meghatározott feltételeknek utóbb nem felel meg.
 
-(5b) A külföldi felsőoktatási intézmények működése felett a miniszter gyakorolja a 65. és 66. §-ban meghatározott jogkörét.
+(5b) Az (1) bekezdésben foglalt, oklevelet adó képzési tevékenységet folytató külföldi felsőoktatási intézmények működése felett a miniszter gyakorolja a 65. §-ban és 66. §-ban meghatározott jogkörét.
 
 (6) Az (1) bekezdésben megjelölt, külföldi oklevelet kibocsátó felsőoktatási intézmény törvényességi ellenőrzésére vonatkozó rendelkezéseket törvényben kihirdetett nemzetközi szerződés eltérő rendelkezésének hiányában kell alkalmazni.
 

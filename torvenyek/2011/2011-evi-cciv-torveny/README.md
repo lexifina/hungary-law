@@ -76,3 +76,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2021-02-01 | 2020. évi CXLIX. törvény | 2011-204-00-00.69 |
 | 2021-05-01 | 2021. évi VIII. törvény | 2011-204-00-00.70 |
 | 2021-05-28 | 2021. évi LIII. törvény | 2011-204-00-00.71 |
+| 2021-06-04 | 2021. évi LIV. törvény | 2011-204-00-00.72 |
