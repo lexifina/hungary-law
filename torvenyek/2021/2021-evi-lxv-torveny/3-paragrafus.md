@@ -1,0 +1,3 @@
+3. § Az Exim törvény 8/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A befolyt követelések után az Eximbankot és a Mehib Rt.-t az államháztartásért felelős miniszter rendeletében meghatározott mértékű jutalék illeti meg. A jutalék alapja a behajtott tőke, a kamat és a késedelmi kamat. Amennyiben a követelés behajtása részben vagy egészben eredmény nélkül zárul, továbbá, ha a költségvetés terhére vállalt 6. § (1) és (2) bekezdése szerinti ügyletek beváltására a behajtás eredményessége miatt részben vagy egészben nem kerül sor, az Eximbankot és a Mehib Rt.-t – az államháztartásért felelős miniszter rendeletében meghatározott mértékű – az igazolt ráfordításaival arányos költségátalány illeti meg.”
