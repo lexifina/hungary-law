@@ -15,11 +15,3 @@ b) a természetes személyeknek a személyes adatok kezelése tekintetében tör
 c) a víz újrafelhasználására vonatkozó minimumkövetelményekről szóló, 2020. május 25-i (EU) 2020/741 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

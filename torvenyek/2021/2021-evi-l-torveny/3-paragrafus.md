@@ -1,56 +1,20 @@
 ## 3. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-3. § (1) A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény (a továbbiakban: Nytv.) 11. § (1) bekezdése a következő s) és t) ponttal egészül ki:
+3. § (1)
 
-(A nyilvántartás tartalmazza a polgár)
+(2)
 
-„s) útlevelének okmányazonosítóját, érvényessége, illetve érvénytelensége tényét és ennek okát, valamint
+(3)
 
-t) kártyaformátumú vezetői engedélye okmányazonosítóját, érvényessége, illetve érvénytelensége tényét és ennek okát.”
+(4)
 
-(2) Az Nytv. 11. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés s) és t) pontja szerinti adatot a nyilvántartás az 1. § (2) bekezdése szerinti célból – a személyazonosításra alkalmas adatokkal együtt – a polgárok személyazonosság igazolására alkalmas hatósági igazolványai érvényességének egységes nyilvántartása és igazolása céljából tartalmazza.”
-
-(3) Az Nytv. 14. §-a a következő t) és u) ponttal egészül ki:
-
-(A nyilvántartás szervei az általuk kezelt adatokat az alábbi forrásból gyűjtik:)
-
-„t) az útiokmány-nyilvántartó szerv értesítése az útlevél okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokról;
-
-u) a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető szerv értesítése a kártyaformátumú vezetői engedély okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokról.”
-
-(4) Az Nytv. 15. § (1b) bekezdése helyébe a következő rendelkezés lép:
-
-„(1b) A jogszabályban meghatározott adatokon kívül a nyilvántartással összefüggő eljárásban informatikai rendszer igénybevételével előállított
-
-a) lakcímbejelentés iránti kérelem tartalmazza az eljáró polgár személyazonosság igazolására alkalmas hatósági igazolványának adatait és cselekvőképessége tényét az eljárás lefolytatása céljából,
-
-b) személyazonosító igazolvány iránti kérelem a polgár kérésére tartalmazza kapcsolattartási adatait (telefonszám, elektronikus levelezési cím) az okmány átadása, valamint értesítés küldése céljából.”
-
-(5) Az Nytv. a következő 19/H. §-sal egészül ki:
-
-„19/H. § (1) A nyilvántartást kezelő szervtől a törvény alapján az a)–d) pont szerinti adatok megismerésére jogosult szerv a személy azonosítása és a személyazonosság ellenőrzése céljából közvetlen hozzáféréssel adatszolgáltatást kérhet a polgár
-
-a) természetes személyazonosító adatairól,
-
-b) arcképmásáról,
-
-c) aláírásáról, és
-
-d) a személyazonosság igazolására alkalmas hatósági igazolványának okmányazonosítójáról és érvényességéről.
-
-(2) Az (1) bekezdés szerinti adatokat a személyazonosítást és személyazonosság ellenőrzését követően – ha törvény eltérően nem rendelkezik – az adatkérő haladéktalanul törli.
-
-(3) A 24. §-ban meghatározott szervek a polgár természetes személyazonosító adatai vonatkozásában a történeti adatokról is kérhetik az (1) bekezdés szerinti adatszolgáltatást.”
+(5)
 
 (6) Az Nytv. 24. § (2) bekezdése helyébe a következő rendelkezés lép:
 
 „(2) A személyazonosság igazolására alkalmas hatóságiigazolvány-kiadási eljárásban – személyazonosítás és személyazonosság igazolására alkalmas hatósági igazolványon történő feltüntetés céljából – az eljáró hatóság jogosult a polgár arcképmásának és saját kezű aláírásának megismerésére, illetve igénylésére.”
 
-(7) Az Nytv. 24. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) A közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a vezetői engedély automatikus hivatalbóli kiállítása érdekében, a vezetőiengedély-kiállítás feltételeinek előzetes ellenőrzése céljából jogosult igényelni a nyilvántartást kezelő szervtől az automatikus hivatalbóli vezetői engedély megszemélyesítésére alkalmas arcképmás- és aláírás adat rendelkezésre állásának tényét.”
+(7)
 
 (8) Az Nytv. 24/H. §-a helyébe a következő rendelkezés lép:
 
@@ -58,17 +22,11 @@ d) a személyazonosság igazolására alkalmas hatósági igazolványának okmá
 
 (2) Az intézetben történt születést bejelentő intézet a születés bejelentéséhez – az Elektronikus Egészségügyi Szolgáltatási Tér útján – jogosult a szülőknek a személyiadat- és lakcímnyilvántartásban szereplő személyazonosság igazolására alkalmas hatósági igazolványainak okmányazonosítója, érvényességi ideje, valamint a személyazonosságuk igazolására alkalmas hatósági igazolványait kiállító hatóság megnevezése adatának igénylésére.”
 
-(9) Az Nytv. 26. §-át megelőző alcím címe helyébe a következő alcím cím lép:
+(9)
 
-„A lakcím bejelentése és nyilvántartása”
+(10)
 
-(10) Az Nytv. 26. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A lakcímbejelentés bármely járási hivatalnál teljesíthető. A lakcímbejelentés – jogszabályban meghatározott esetekben – elektronikus azonosítást követően elektronikus kapcsolattartás útján is teljesíthető.”
-
-(11) Az Nytv. 26. § (5a) bekezdése helyébe a következő rendelkezés lép:
-
-„(5a) Érvénytelen a bejelentett lakcímadat, ha a járási hivatal megállapította, hogy a polgár bejelentett lakcímadata nem valós.”
+(11)
 
 (12) Az Nytv. 31. §-a helyébe a következő rendelkezés lép:
 
@@ -130,6 +88,4 @@ kell érteni.”
 
 (2) A járási hivatal 2021. június 15-ig az értesítési címmel rendelkező személyeket az (1) bekezdés szerinti változásról – a lakcímükön – értesíti.”
 
-(15) Az Nytv. a következő 52/L. §-sal egészül ki:
-
-„52/L. § A polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv részére haladéktalanul átadja a nyilvántartás hatálya alá tartozó polgárok tekintetében az útiokmány-nyilvántartó szerv az útiokmány-nyilvántartásban szereplő útlevelek okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokat, valamint a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető közúti közlekedési nyilvántartó szerve a közúti közlekedési nyilvántartás engedély-nyilvántartásában szereplő kártyaformátumú vezetői engedélyek okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka, 2021. szeptember 11-én fennálló adatokat.”
+(15)
