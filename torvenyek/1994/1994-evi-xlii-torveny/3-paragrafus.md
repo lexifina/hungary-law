@@ -12,7 +12,7 @@ c) különböző pénzügyi veszteségek.
 
 a) nem-piacképes kockázatok fedezetére nyújtott exporthitel-biztosítások, illetve viszontbiztosítások;
 
-b) exporthitel biztosításnak nem minősülő biztosítási, illetve viszontbiztosítási fedezet nyújtása, amennyiben azok biztosítását, illetve viszontbiztosítását az Európai Bizottság az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése szerinti bejelentési eljárásban jóváhagyta, illetve ez ellen nem emelt kifogást.
+b) exporthitel biztosításnak nem minősülő biztosítási, illetve viszontbiztosítási fedezet nyújtása, ha azok biztosítását, illetve viszontbiztosítását – amennyiben az bejelentési kötelezettség alá esik – az Európai Bizottság az Európai Unió működéséről szóló szerződés 108. cikk (3) bekezdése szerinti bejelentési eljárásban jóváhagyta, illetve ez ellen nem emelt kifogást.
 
 (4) E törvény alkalmazásában exporthitel biztosítások és viszontbiztosítások esetében nem-piacképesnek minősülnek
 

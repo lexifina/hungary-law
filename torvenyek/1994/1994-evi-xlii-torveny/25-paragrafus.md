@@ -2,7 +2,7 @@
 
 ## A MEHIB RT.-RE VONATKOZÓ SZABÁLYOK
 
-25. § (1) A Mehib Rt. állam készfizető kezessége mellett végzett tevékenységére a Bit. és a viszontbiztosítókról szóló 2007. évi CLIX. törvény rendelkezéseit nem kell alkalmazni.
+25. § (1) A Mehib Rt. állam készfizető kezessége mellett végzett tevékenységére a Bit. rendelkezéseit nem kell alkalmazni.
 
 (2) Az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott üzleti titok és a Bit.-ben meghatározott biztosítási titok megtartására vonatkozó kötelezettség nem terjed ki – a Bit. 138. § (1) bekezdésében meghatározott szerveken túlmenően – a miniszter által vezetett minisztérium és az államháztartásért felelős miniszter által vezetett minisztérium részére adott adatszolgáltatásra, valamint az Eximbank részére továbbított adatokra sem.
 

@@ -22,7 +22,7 @@
 
 4. nemzetközi fejlesztési együttműködés: a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló törvényben meghatározott fogalom;
 
-5.
+5. magyar befektetők külföldi befektetése: devizabelföldi gazdálkodó szervezet vagy a devizabelföldi gazdálkodó szervezet tulajdonában álló, a befektetéssel, beruházással érintett országban alapított gazdasági társaság külföldön megvalósuló befektetése, beruházása, amely a devizabelföldi gazdálkodó szervezet nemzetközi piacra lépését vagy meglévő nemzetközi piaci pozíciójának megerősítését segíti elő.
 
 6.
 
