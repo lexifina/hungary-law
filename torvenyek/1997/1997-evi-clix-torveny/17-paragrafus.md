@@ -1,4 +1,4 @@
-17. § (1) A mezei őrszolgálatot létrehozó települési önkormányzat a mezei őrszolgálat létrehozását – a (2) bekezdés a)–d) pontja szerinti adatok megadásával – bejelenti a mezőgazdasági igazgatási szervnek. A települési önkormányzat a (2) bekezdésben meghatározott adatokban történő változást, valamint a mezei őrszolgálat megszűnését bejelenti a mezőgazdasági igazgatási szervnek.
+17. § (1) A mezei őrszolgálatot létrehozó települési önkormányzat a mezei őrszolgálat létrehozását – a (2) bekezdés a)–d) pontja szerinti adatok megadásával – bejelenti a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 15/C. §-ában meghatározott mezőgazdasági igazgatási szervnek (a továbbiakban: mezőgazdasági igazgatási szerv). A települési önkormányzat a (2) bekezdésben meghatározott adatokban történő változást, valamint a mezei őrszolgálat megszűnését bejelenti a mezőgazdasági igazgatási szervnek.
 
 (2) A mezőgazdasági igazgatási szerv nyilvántartást vezet
 

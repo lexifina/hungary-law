@@ -4,4 +4,6 @@
 
 (2) A megalakítási, fenntartási és működési költségek felét, de legfeljebb a külön jogszabályban meghatározott összeget a központi költségvetés biztosítja hozzájárulásként az agrárpolitikáért felelős miniszter által vezetett minisztérium fejezetéből.
 
-(3) Az önkormányzati mezei őrszolgálat esetében, a mezőőri járulék adók módjára behajtandó köztartozásnak minősül. Az eljárásra az ingatlan fekvése szerinti települési önkormányzat jegyzője jogosult
+(3) Az önkormányzati mezei őrszolgálat esetében, a mezőőri járulék adók módjára behajtandó köztartozásnak minősül. Az eljárásra az ingatlan fekvése szerinti települési önkormányzat jegyzője jogosult.
+
+(4) A mezőőri járulék összegének rendeltetési céltól eltérő felhasználása – a járulék teljes összege vagy annak teljesítményarányos része vonatkozásában – jogosulatlanul igénybe vett járuléknak minősül, és azt vissza kell fizetni. A mezőőri járulék felhasználásának törvényességi ellenőrzését a fővárosi és megyei kormányhivatal végzi. A megállapítás alapbizonylatai csak a költségként kimutatott és pénzügyileg rendezett kiadások lehetnek, amelyeket igazoló pénzügyi bizonylatokat az önkormányzatnak a pénzügyi bizonylat kiállítását követő ötödik év végéig meg kell őrizni.

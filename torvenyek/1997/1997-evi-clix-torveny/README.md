@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-159-00-00
 | 2020-07-01 | 2020. évi XXXI. törvény | 1997-159-00-00.38 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 1997-159-00-00.39 |
 | 2021-05-14 | 2021. évi XXXI. törvény | 1997-159-00-00.40 |
+| 2021-06-05 | 2021. évi LX. törvény | 1997-159-00-00.41 |
