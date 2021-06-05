@@ -1,3 +1,3 @@
 35. § (1) E törvény hatálybalépése nem érinti a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 13/A. §-a alapján e törvény hatálybalépése előtt közzétett pályázati felhívás alapján kötött életjáradéki szerződéseket. Az ezen szerződések alapján fizetendő életjáradék a központi költségvetés központosított kiadása, amelyet a Nemzeti Földalapról szóló törvény hatálya alá tartozó állami vagyonnal való gazdálkodásból származó bevételeket és kiadásokat tartalmazó fejezetben kell megtervezni és elszámolni.
 
-(2)
+(2) Az 21. § (6) bekezdése nem alkalmazható az e törvény hatálybalépésekor fennálló haszonbérleti szerződés meghosszabbítása, valamint a haszonbérleti jogviszony helyébe lépő mintagazdasági földhasználati szerződés megkötése során.

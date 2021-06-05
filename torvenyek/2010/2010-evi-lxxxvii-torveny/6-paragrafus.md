@@ -10,6 +10,6 @@ d) előterjeszti a Kormány részére elfogadás céljából a 8. § (1) bekezd�
 
 e) dönt az NFK költségvetési előirányzatával kapcsolatos előterjesztésekről;
 
-f) kinevezi a Tanács elnökét és tagjait;
+f) kinevezi a Birtokpolitikai Tanács (a továbbiakban: Tanács) elnökét és tagjait;
 
 g) jóváhagyja a Tanács ügyrendjét.
