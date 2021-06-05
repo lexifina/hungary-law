@@ -14,8 +14,30 @@ c) tulajdonrészét közeli hozzátartozójától szerezte.
 
 (4) Az e törvény alapján történő tulajdonszerzéshez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
 
+(4a) Az e törvény alapján történő földtulajdonszerzés jogcíme minden esetben közös tulajdon megszüntetése.
+
 (5) Az e törvény alapján történő tulajdonváltozás esetén az ingatlan-nyilvántartási bejegyzés során a bejegyzési engedélyt megadottnak kell tekinteni azon tulajdonosok tekintetében, akik a 6. § (3) bekezdése szerinti döntésben nem vettek részt, továbbá akik tulajdonrésze a 12. § (1) bekezdése vagy a 16. § (1) bekezdése alapján bekebelezésre kerül.
 
 (6) Ha az ingatlanon sírhely található és az ingatlanban az állam tulajdoni hányaddal rendelkezik, akkor a megosztás során – az állam nevében a tulajdonosi jogokat gyakorló jelzése alapján – az állam tulajdonába kerülő ingatlant úgy kell kialakítani, hogy a sírhely szerinti terület az állam tulajdonába kerüljön. Ebben az esetben a területi minimumra és a bekebelezésre vonatkozó rendelkezések alkalmazásának az állammal szemben nincs helye. A 3. alcím alkalmazása esetén a sírhellyel érintett ingatlant az állam tulajdonába kell adni.
 
 (7) A tulajdonostársak az osztatlan közös tulajdon e törvény szerinti megszüntetéséből eredő jogvitájuk esetén a bírósághoz fordulhatnak.
+
+(8) A területi minimumot el nem érő tulajdoni hányaddal rendelkező tulajdonostárs – a tulajdoni hányadának megfelelő ingatlan kialakítása érdekében – az egyezség létrejöttétől számított 30 napon belül kérheti a bíróságtól a bekebelezésre és a területi minimumra vonatkozó rendelkezések alkalmazásának mellőzésével az egyezség módosítását, ha az ingatlant
+
+a) legalább három éve
+
+aa) saját maga,
+
+ab) közeli hozzátartozója,
+
+ac) legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet, vagy
+
+ad) a közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet
+
+használja, vagy
+
+b) érintő tulajdoni hányadát nem átruházással szerezte és az ingatlant érintően a használati jogosultság átengedéséből származó jövedelem hiánya a saját és a vele együtt élő közeli hozzátartozók megélhetését veszélyezteti.
+
+(9) Ha az e törvény alapján megszerzett tulajdonrész jelzálogjoggal vagy végrehajtási joggal terhelt, a megszerzett tulajdonrész tulajdonosa csak a megszerzett tulajdonrész értékéig tartozik a követelésért helyt állni.
+
+(10) Az e törvény alapján történő tulajdonszerzés esetén védett természeti területnek minősülő ingatlanban fennálló állami tulajdoni hányad is elidegeníthető.

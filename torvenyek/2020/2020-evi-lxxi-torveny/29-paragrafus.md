@@ -9,3 +9,5 @@
 a) a földnek minősülő ingatlanokon fennálló osztatlan közös tulajdonnak az ingatlan megosztásával történő megszüntetésének részletes szabályait,
 
 b) a földnek minősülő ingatlanokon fennálló osztatlan közös tulajdonnak az ingatlan egyetlen tulajdonostárs általi megváltása útján történő megszüntetése részletes szabályait.
+
+c) a részarány földkiadás során keletkezett osztatlan közös tulajdonok megszüntetésére irányuló hatósági eljárás, továbbá ezen eljárás soron kívüli lefolytatásának részletes szabályait.

@@ -6,7 +6,7 @@ a) személye bizonytalan, vagy
 
 b) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen.
 
-(3) A (2) bekezdés a) pontjának alkalmazása szempontjából akkor minősül a tulajdonostárs személye bizonytalannak, ha közokirattal igazolt, hogy
+(3) A (2) bekezdés a) pontjának alkalmazása szempontjából akkor minősül a tulajdonostárs személye bizonytalannak, ha
 
 a) azonosítása nem lehetséges az ingatlan-nyilvántartásban szereplő adatai alapján, vagy
 
@@ -14,6 +14,6 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (4) Az értesítést megtörténtnek kell tekinteni, ha annak közlése azért hiúsul meg, mert
 
-a) a postai küldemény azzal a jelzéssel érkezik vissza, hogy a címzett „nem kereste” vagy „elköltözött”, vagy
+a) a postai küldemény azzal a jelzéssel érkezik vissza, hogy a címzett „nem kereste”, „ismeretlen” vagy „elköltözött”, vagy
 
 b) a címzett tulajdonostárs, a földhasználó vagy az erdőgazdálkodó a küldemény átvételét megtagadta.

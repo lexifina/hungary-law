@@ -1,0 +1,1 @@
+45. § A megosztás kiindulási helyét és irányát, a művelhetőségi és a megközelíthetőségi szempontokra, valamint a kialakult helyszíni használatra figyelemmel az ingatlanügyi hatóság határozatban állapítja meg.

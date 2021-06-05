@@ -1,0 +1,1 @@
+6/B. § Az egyezségi okiratnak az Inytv. 32. § (1) bekezdés a) és b) pontja szerinti adatokat csak az egyezségben részt vevő tulajdonostársak esetében kell tartalmaznia. Az egyezségben részt nem vevő, valamint az 5. § (2) és (4) bekezdés szerinti tulajdonostársak esetében az egyezségnek a tulajdonostársak tulajdoni lapon szereplő adatait kell tartalmaznia.
