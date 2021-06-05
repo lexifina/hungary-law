@@ -1,6 +1,6 @@
 ## Fizetési halasztás, részletfizetés engedélyezése
 
-56/C. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési kedvezmény) az ügyfél kérelmére a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló tartozás összegére engedélyezhető. A fizetési kedvezmény abban az esetben engedélyezhető, ha a fizetési nehézség
+56/C. § (1) Fizetési halasztás és részletfizetés (a továbbiakban együtt: fizetési kedvezmény) az ügyfél kérelmére – legfeljebb tizennyolc hónapra – a mezőgazdasági és vidékfejlesztési támogatási szervvel szemben fennálló tartozás összegére engedélyezhető. A fizetési kedvezmény abban az esetben engedélyezhető, ha a fizetési nehézség
 
 a) a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható, továbbá
 

@@ -2,7 +2,7 @@
 
 28. § (1)
 
-(2) Az ügyfél nyilvántartásba vételéhez és ügyfél-azonosító számának megállapításához nyilvántartásba kell venni:
+(2) Az ügyfél nyilvántartásba vételéhez és ügyfél-azonosítójának megállapításához nyilvántartásba kell venni:
 
 a) természetes személy esetén
 
@@ -46,6 +46,8 @@ aj) a 28/A. § (1a) bekezdésében foglaltak szerinti fizetési számlaszámát 
 
 ak) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
 
+al) mezőgazdasági őstermelő esetében, ha őstermelők családi gazdaságának képviseletét látja el a képviselői minőségét,
+
 b) nem természetes személy esetén
 
 ba) elnevezését, továbbá rövidített cégnevét,
@@ -74,6 +76,8 @@ bl) a 28/A. § (1a) bekezdésében foglaltak szerinti fizetési számlaszámát 
 
 bm) szöveges üzenet fogadására alkalmas telefonos elérhetőségét,
 
+bn) családi mezőgazdasági társaság minőségét,
+
 c) külföldi természetes személy vagy külföldi nem természetes személy esetén az a) és b) pontban foglalt adatok mellett a magyar adóazonosító számát és az illetékessége szerinti állam hatósága által megállapított adóazonosító számát,
 
 d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező természetes személy vagy nem természetes személy esetében.
@@ -84,7 +88,7 @@ d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meg
 
 a) ellátja a nyilvántartás vezetésével összefüggő hatósági feladatokat,
 
-b) megállapítja az ügyfél-azonosító (nyilvántartási) számot,
+b) megállapítja az ügyfél-azonosítót,
 
 c) törvény felhatalmazása alapján, az abban meghatározott körben külön jogszabály alapján adatszolgáltatást teljesít a nyilvántartásból,
 

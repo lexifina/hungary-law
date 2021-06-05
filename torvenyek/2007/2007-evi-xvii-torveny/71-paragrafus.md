@@ -1,6 +1,6 @@
 ## Mulasztási bírság
 
-71. § (1) Az ügyfél ötszázezer forintig terjedő, a támogatási összeggel vagy az (5) bekezdés szerinti jogellenes magatartás súlyával arányos mulasztási bírsággal sújtható, ha az e törvény, valamint annak felhatalmazása alapján alkotott jogszabály szerinti, továbbá közigazgatási döntésben, hatósági szerződésben meghatározott:
+71. § (1) Az ügyfél ötszázezer forintig terjedő, a támogatási összeggel vagy az (5) bekezdés szerinti jogellenes magatartás súlyával arányos mulasztási bírsággal sújtható, ha az e törvény, valamint annak felhatalmazása alapján alkotott jogszabály szerinti, továbbá döntésben, hatósági szerződésben meghatározott:
 
 a) bejelentési, változásbejelentési, monitoring vagy más jellegű adatszolgáltatási kötelezettségének nem tesz eleget, vagy azt késedelmesen, hibásan, valótlan adattartalommal, hiányosan vagy nem az előírt módon teljesíti,
 

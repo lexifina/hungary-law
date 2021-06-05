@@ -8,7 +8,7 @@
 
 (4) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja úgy nyilatkozik, hogy a küldeményt nem veszi át, az iratot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
 
-(5) Ha a kézbesítés azért volt sikertelen, mert a küldemény az ügyfél ügyfélnyilvántartásban szereplő lakcíméről vagy a támogatási eljárásban bejelentett tartózkodási helyéről, szálláshelyéről, illetve a székhelyéről a mezőgazdasági és vidékfejlesztési támogatási szervhez
+(5) Ha a kézbesítés azért volt sikertelen, mert a küldemény az ügyfél ügyfélnyilvántartásban szereplő levelezési címről, vagy lakóhelyéről, illetve a székhelyéről a mezőgazdasági és vidékfejlesztési támogatási szervhez
 
 a) „nem kereste”,
 
