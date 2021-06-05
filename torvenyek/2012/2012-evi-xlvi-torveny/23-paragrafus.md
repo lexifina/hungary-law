@@ -20,7 +20,7 @@ g) a felmérési, térképezési és területszámítási hibák kiigazításár
 
 h) jogok ingatlan-nyilvántartási bejegyzéséhez, valamint tények feljegyzéséhez szükséges földmérési munkák, valamint
 
-i) a földrendező és földkiadó bizottságokról szóló törvény szerinti közös tulajdon megszüntetésével kapcsolatos földmérési munkák.
+i) a földrendező és földkiadó bizottságokról szóló törvény, illetve a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 15. alcíme szerinti közös tulajdon megszüntetésével kapcsolatos földmérési munkák.
 
 (1a) Nem minősül az (1) bekezdés szerinti egységes ingatlan-nyilvántartás tartalmának változását eredményező földmérési munkának a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény alapján készülő térképvázlat és területkimutatás előállítására irányuló tevékenység.
 
