@@ -20,7 +20,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (4) Magyarország területén tilos szaporítóanyagként felhasználni céltermeltetésből bármilyen okból visszamaradt szaporítóanyagot.
 
-(5)
+(5) Tilos az e törvény, illetve e törvény végrehajtására kiadott rendelet előírásainak meg nem felelő növényi szaporítóanyag – beleértve a továbbszaporítás során nem igazolt származású vagy alkalmatlannak minősített növényállomány magtermésének vetőmagkénti – felhasználása és forgalomba hozatala.
 
 (6) A kábítószerek vagy pszichotróp anyagok előállítására alkalmas növényfajok szaporítóanyagának előállítását és forgalomba hozatalát külön jogszabály feltételekhez kötheti.
 
@@ -28,7 +28,7 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a nyilvántartást vezető szerv – a növénytermesztési hatóság megkeresésére – nyilvántartásba veszi.
 
-(9) Szőlő-, gyümölcs- és erdészeti szaporítóanyagot – beleértve a mikorrhizált erdészeti szaporítóanyagot – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon, a Kormány által kijelölt szerv általi minősítést követően lehet előállítani, gyűjteni, valamint forgalomba hozni. A minősítés eredményéről a minősítést végző szerv hatósági bizonyítványt állít ki.
+(9) Szőlő-, gyümölcs- és erdészeti szaporítóanyagot – beleértve a mikorrhizált erdészeti szaporítóanyagot – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon, a növénytermesztési hatóság általi minősítést követően lehet előállítani, gyűjteni, valamint forgalomba hozni. A minősítés eredményéről a minősítést végző szerv hatósági bizonyítványt állít ki.
 
 (10) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a (7), illetve a (9) bekezdés szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 

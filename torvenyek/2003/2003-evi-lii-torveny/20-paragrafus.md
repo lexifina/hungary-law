@@ -8,7 +8,7 @@
 
 (4) A fémzároltató a 21. § (2) bekezdése szerinti címkét köteles a növénytermesztési hatóságtól megrendelni, amely a vetőmagtétel azonosítása céljából kiadja a címkét.
 
-(5) A növénytermesztési hatóság a (4) bekezdés szerinti megrendelést követő 8 napon belül hatósági ellenőrzést, mintavételt végez a vetőmag minőségi megfelelőségének laboratóriumi vizsgálata céljából.
+(5) A növénytermesztési hatóság hatósági ellenőrzést, mintavételt végez a vetőmag minőségi megfelelőségének laboratóriumi vizsgálata céljából.
 
 (6) A növénytermesztési hatóság az (5) bekezdés szerinti mintavétel eredménye alapján a vetőmagtételt nyilvántartásba veszi. A növénytermesztési hatóság a nyilvántartás adatai alapján a fémzároltató részére hatósági bizonyítványt állít ki.
 

@@ -68,7 +68,7 @@ d) az a)–c) pont szerinti személy örököse, illetve jogutódja.
 
 28. Szaporítóanyag-forgalmazó: az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, aki szaporítóanyagot értékesítési céllal készletez, bemutat, eladásra felkínál, vagy más részére elad.
 
-29. Szaporítóanyag forgalomba hozatal: szaporítóanyag készletezés, bemutatás, eladásra való felkínálás, eladás vagy szállítás más részére bármilyen formában.
+29. Szaporítóanyag forgalomba hozatal: szaporítóanyag készletezés, bemutatás, eladásra való felkínálás, eladás vagy szállítás (kivéve a feldolgozást vagy csomagolást végző szolgáltató részére történő, nem értékesítési célú szállítás).
 
 30. Szaporítóanyag minősítés: hazai és nemzetközi előírások szerinti és a külön jogszabályban meghatározott módon, állami felügyelettel végzett ellenőrzési eljárás.
 

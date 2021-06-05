@@ -6,8 +6,8 @@
 
 (2a)
 
-(3) A növénytermesztési hatóság a Kormány által kijelölt minősítő szerv által minősített törzsültetvényről engedélyezi szaporítóanyag előállítását.
+(3) A növénytermesztési hatóság az általa minősített törzsültetvényről engedélyezi szaporítóanyag előállítását.
 
-(4) Forgalomba hozatal céljából – a külön jogszabályban meghatározott kivétellel – csak törzsültetvényből származó alapanyag felhasználásával és csak engedélyezett árutermelő szőlő-, gyümölcs faiskolában, illetve csemetekertben, e törvény és a növényegészségügyi előírások betartásával lehet szaporítóanyagot előállítani.
+(4) Forgalomba hozatal céljából – a külön jogszabályban meghatározott kivétellel – csak törzsültetvényből származó alapanyag felhasználásával és csak engedélyezett árutermelő szőlőiskolában, árutermelő gyümölcs- és díszfaiskolában, illetve csemetekertben, e törvény és a növényegészségügyi előírások betartásával lehet szaporítóanyagot előállítani.
 
 (5)

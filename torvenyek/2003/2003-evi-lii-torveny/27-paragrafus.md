@@ -17,3 +17,5 @@ d) a jogosulatlanul előállított, illetve a jogszabályi előírásoknak nem m
 e) szigorított vetőmag-minősítés elrendelése.
 
 (4) A növénytermesztési hatóság e törvény és a végrehajtására kiadott jogszabályok előírásainak megsértőjével szemben minőségvédelmi bírságot szab ki, ha megállapítja, hogy az előállított, illetve forgalomba hozott növényi szaporítóanyag nem felel meg az előírt követelményeknek.
+
+(5) A növénytermesztési hatóság a szaporítóanyag – e törvény, valamint e törvény végrehajtására kiadott jogszabályoknak való megfelelőségének ellenőrzése érdekében – a hatósági ellenőrzés során próbavásárlást végezhet, ideértve a távértékesítés keretében távértékesítési szerződés megkötésével az interneten történő vásárlást is.

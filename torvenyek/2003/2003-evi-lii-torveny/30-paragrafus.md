@@ -24,7 +24,7 @@ d) a szaporítóanyag tételek átruházott minősítésének személyi és tár
 
 e)
 
-f) a forgalomba hozható szaporítóanyagok minőségének előírásait,
+f) a forgalomba hozható szaporítóanyagok minőségének előírásait, a minőség megfelelő tanúsítását és ellenőrzését,
 
 g) a zárt körzetek kialakításának feltételeit,
 
