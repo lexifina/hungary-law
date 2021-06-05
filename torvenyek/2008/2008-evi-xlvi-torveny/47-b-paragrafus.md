@@ -48,7 +48,7 @@ b) kisvállalkozás esetén évi hétszázezer forint.
 
 (6) Az (5) bekezdés szerinti felügyeleti díj fizetésére kötelezett az ott meghatározott összegű felügyeleti díj megfizetése helyett választása alapján a (3) bekezdés szerint számított felügyeleti díjat a (8) és (9) bekezdés szerint vallja be és fizeti meg.
 
-(7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 19. pontja szerinti mezőgazdasági kistermelő kizárólag az őstermelői tevékenysége vonatkozásában.
+(7) Mentesül a felügyeleti díj bevallási és fizetési kötelezettség alól a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 50. § (2) bekezdése alapján az átalányadózás választására jogosult mezőgazdasági őstermelő kizárólag az őstermelői tevékenysége vonatkozásában.
 
 (8) A fizetésre kötelezettnek évente egyszer kell bevallania a díjfizetés alapjául szolgáló nettó árbevételét. A bevallási kötelezettséget május 31-ig kell teljesíteni. A díj megfizetése a bevallási kötelezettséget nem pótolja. Nem kell megfizetni a felügyeleti díjat, ha annak mértéke nem éri el az ezer forintot.
 

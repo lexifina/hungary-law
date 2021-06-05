@@ -12,4 +12,4 @@
 
 (6) A közérdekű védekezés elvégzése során a hatóság, valamint a közérdekű védekezést elvégző vállalkozó feladata végrehajtásának keretei között az érintett területre beléphet, ott a szükséges cselekményeket elvégezheti. Erre való jogosultságát kérésre köteles igazolni.
 
-(7) Ha a parlagfű elleni közérdekű védekezést kultúrnövény károsodása nélkül nem lehet elvégezni, a parlagfű elleni közérdekű védekezés abban az esetben rendelhető el, ha az adott területen a kultúrnövény tőszáma nem éri el az agronómiailag indokolt tőszám 50%-át és a parlagfűvel való felületi borítottság a 30%-ot meghaladja. A parlagfű elleni közérdekű védekezés során az érintett kultúrában okozott károkért a földhasználó kártalanításra nem tarthat igényt.
+(7) Ha a parlagfű elleni közérdekű védekezést kultúrnövény károsodása nélkül nem lehet elvégezni, a parlagfű elleni közérdekű védekezés abban az esetben rendelhető el, ha a parlagfűvel való felületi borítottság a 30%-ot meghaladja. A parlagfű elleni közérdekű védekezés során az érintett kultúrában okozott károkért a földhasználó kártalanításra nem tarthat igényt.
