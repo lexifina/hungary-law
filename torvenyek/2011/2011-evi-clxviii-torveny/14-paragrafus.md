@@ -24,6 +24,8 @@ e) a hozamcsökkenés mértékéről, és
 
 f) az üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában számított hozamérték-csökkenés mértékéről.
 
+g) a mezőgazdasági termelővel kötött mezőgazdasági biztosítás 11. § (5) bekezdésében foglaltaknak való megfeleléséről.
+
 (2a) Az agrárkár-megállapító szerv a (2) bekezdés szerinti döntést a mezőgazdasági termelő kérelmére az üzemi szinten az elemi káreseménnyel érintett növénykultúra vonatkozásában számított hozamérték-csökkenés mértékének feltüntetése nélkül is meghozza.
 
 (3) Az agrárkár-megállapító szerv az (1) és (2) bekezdés szerinti tényeket a kármegállapítást támogató szerv adatain alapuló kockázatelemzés eredményei szerint lefolytatott adminisztratív- vagy helyszíni ellenőrzés megállapításaira alapozva, továbbá a 17. § (2) bekezdése alapján a biztosítótól kapott adatok figyelembevételével állapítja meg.

@@ -1,4 +1,4 @@
-19/C. § (1) A krízisbiztosítási rendszerhez a mezőgazdasági termelő a csatlakozási kérelmének a krízisbiztosítási szervhez tárgyév február 28-áig történő benyújtásával, hároméves időtartamra önként csatlakozhat.
+19/C. § (1) A krízisbiztosítási rendszerhez a mezőgazdasági termelő a csatlakozási kérelmének a krízisbiztosítási szervhez tárgyév február 28-áig történő benyújtásával, legalább hároméves időtartamra önként csatlakozhat.
 
 (2) Ha a krízisbiztosítási rendszerben tag mezőgazdasági termelő meghal vagy jogutód nélkül megszűnik, akkor a krízisbiztosítási rendszerben lévő tagsága megszűnik.
 

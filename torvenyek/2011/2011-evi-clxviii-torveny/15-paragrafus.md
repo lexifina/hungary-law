@@ -4,7 +4,7 @@ a) a mezőgazdasági termelő által tett nyilatkozatok,
 
 b) a kárenyhítési hozzájárulás teljesítése,
 
-c) az agrárkár-megállapító szerv által hozott döntés,
+c) az agrárkár-megállapító szerv által hozott végleges döntés,
 
 d) a biztosító által adott nyilatkozatok, valamint
 
@@ -22,7 +22,7 @@ a) a jogorvoslati eljárások esetleges forrásigényét, továbbá
 
 b) az áthúzódó kifizetéseket
 
-a következő évi forrásból kell biztosítani.
+a rendelkezésre álló mezőgazdasági kockázatkezelési pénzeszköz terhére kell biztosítani.
 
 (4a) A (4) bekezdés szerint kifizetésre kerülő kárenyhítő juttatás vonatkozásában azt a 12. § (3) bekezdése szerinti arányos csökkentési mértéket kell alkalmazni, amely arra a kárenyhítési évre vonatkozóan került alkalmazásra, amelyben a kárenyhítő juttatás iránti igény felmerült.
 

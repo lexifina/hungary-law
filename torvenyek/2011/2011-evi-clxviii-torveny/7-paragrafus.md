@@ -16,7 +16,7 @@ e) a társasági adó alanya által a társasági adóról és az osztalékadór
 
 (4) Az (1) bekezdés b) pontja szerinti támogatás összege 2013-tól kezdődően nem lehet kevesebb, mint a tárgyévet megelőző évben az összes kockázatközösségben tag mezőgazdasági termelő összes egységes kérelmében a használatában levő termőföldterület és hasznosítási mód figyelembevételével megállapított összes kárenyhítési hozzájárulás összege.
 
-(5) A (4) bekezdés szerinti költségvetési támogatás összegét az agrárkár-enyhítési szerv által a tárgyév július 15-ig a miniszter részére átadott és a (4) bekezdésben foglaltakat tartalmazó adatok alapján kell megállapítani.
+(5) A (4) bekezdés szerinti költségvetési támogatás összegét az agrárkár-enyhítési szerv által a tárgyév július 31-éig a miniszter részére átadott és a (4) bekezdésben foglaltakat tartalmazó adatok alapján kell megállapítani.
 
 (6) Az (1) bekezdés a) és b) pontja szerinti pénzforrás legfeljebb 4%-a a miniszter által meghatározottak szerint
 

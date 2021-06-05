@@ -42,7 +42,7 @@ b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri e
 
 16/a. kármegállapítást támogató szerv: a káreseményt kiváltó időjárási jelenséget és természeti eseményt vagy annak következményét megfigyelő, arról adatot gyűjtő és a kármegállapítást alátámasztó adatot szolgáltató szerv;
 
-17. kockázatviselés helye: az egységes kérelemben feltüntetett azon terület, amely alapján a mezőgazdasági termelő kárenyhítési hozzájárulás-fizetési kötelezettsége megállapításra kerül;
+17. kockázatviselés helye: az egységes kérelemben bejelentett azon terület, amely alapján a mezőgazdasági termelő kárenyhítési hozzájárulás-fizetési kötelezettsége megállapításra kerül;
 
 17a. krízisbiztosítási kompenzáció: a krízisbiztosítási pénzeszköz terhére a mezőgazdasági krízisbiztosítási rendszerben tag mezőgazdasági termelő részére történő kifizetés;
 
