@@ -21,3 +21,11 @@ e) az őstermelők családi gazdaságának központját.
 (5) Az (1) bekezdésben meghatározott szerződés módosításáról, valamint a tagok hozzátartozói minőségében, a hozzátartozói láncolatban elfoglalt helyében bekövetkezett változásról az őstermelők családi gazdaságának képviselője 15 napon belül értesíti az Agrárkamarát.
 
 (6) Az Agrárkamara törli a nyilvántartásból az őstermelők családi gazdaságára vonatkozó adatokat a mezőgazdasági őstermelő vonatkozásában a 10. § (2) bekezdés d) pontjában meghatározott esetben.
+
+(7) Az Agrárkamara az őstermelők családi gazdaságát törli a nyilvántartásból, ha
+
+a) tagjai együttesen kérelmezik a nyilvántartásból való törlést,
+
+b) az őstermelők családi gazdasága már nem felel meg a nyilvántartásba vétel feltételeinek és a tagok felszólítás ellenére sem pótolják 60 napon belül a hiányzó feltételeket, vagy
+
+c) az őstermelők családi gazdaságát alapító szerződés a 10. § (1) bekezdése alapján hatályát veszti.

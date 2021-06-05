@@ -34,7 +34,7 @@ a) a tagok tulajdonában vagy használatában levő egyes mező-, erdőgazdaság
 
 b) a mezőgazdasági termelőeszközöknek és a vagyoni értékű jogoknak a társaság részére történő átengedéséről,
 
-c) a személyes közreműködés formájáról, annak elszámolási rendjéről.
+c)
 
 (5) A családi mezőgazdasági társaság tagjai a hozzátartozói minőségükben bekövetkezett változásról kötelesek az Agrárkamarát 15 napon belül értesíteni.
 
