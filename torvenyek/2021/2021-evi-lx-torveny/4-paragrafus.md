@@ -2,6 +2,6 @@
 
 4. § Hatályát veszti a légiközlekedésről szóló 1995. évi XCVII. törvény
 
-a) 61/A. § (2) bekezdés d) pontja;
+a)
 
-b) 61/A. § (3) bekezdés n) pontja.
+b)
