@@ -1,10 +1,12 @@
-7/A. § (1) Magyarországon történő feldolgozása esetén kötelező írásba foglalni a feldolgozásra alaptermékként beszállított
+7/A. § (1) Kötelező írásba foglalni
 
-a) meggy és
+a) Magyarországon történő feldolgozása esetén a feldolgozásra alaptermékként beszállított meggy,
 
-b) alma
+b) Magyarországon történő feldolgozása esetén a feldolgozásra alaptermékként beszállított alma,
 
-értékesítésére irányuló szerződést.
+c) a Magyarországon megtermelt torma
+
+felvásárlására irányuló szerződést.
 
 (2) Az (1) bekezdés szerinti szerződésnek a beszállított termékekért fizetendő árat
 
@@ -16,11 +18,13 @@ kell tartalmaznia.
 
 (3) Az (1) bekezdés szerinti szerződésnek egyebekben meg kell felelnie a Rendelet 168. cikk (4) bekezdésében meghatározott követelményeknek. A (2) bekezdés b) pontja vonatkozásában a Rendelet 168. cikk (4) bekezdés c) pontja i. alpontjának második francia bekezdésében foglaltakat kell alkalmazni.
 
-(4) A feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló (1) bekezdés szerinti szerződésnek
+(4) Az (1) bekezdés szerinti
 
-a) meggy esetében az adott év május 15. napjáig,
+a) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló – szerződésnek meggy esetében az adott év május 15. napjáig,
 
-b) alma esetében az adott év augusztus 1. napjáig
+b) – a feldolgozó által az adott évben feldolgozandó gyümölcs legalább 60 százalékának felvásárlására irányuló – szerződésnek alma esetében az adott év augusztus 1. napjáig,
+
+c) szerződésnek torma esetében az adott év augusztus 1. napjáig
 
 hatályba kell lépnie.
 
@@ -28,4 +32,6 @@ hatályba kell lépnie.
 
 (6) Az (1)–(4) bekezdésben foglaltak a gazdasági társaság tagja mint beszállító által a gazdasági társasággal kötött szerződésre nem vonatkoznak, ha teljesülnek azok a feltételek, amelyeket a Rendelet 168. cikk (5) bekezdése a szövetkezetek esetében előír.
 
-(7) Nem kell alkalmazni a (4) bekezdésben foglaltakat annak a feldolgozónak, amely az adott évben legfeljebb 100 tonna meggyet, illetve legfeljebb 200 tonna almát dolgoz fel.
+(7) Nem kell alkalmazni a (4) bekezdés a), illetve b) pontjában foglaltakat annak a feldolgozónak, amely az adott évben legfeljebb 100 tonna meggyet, illetve legfeljebb 200 tonna almát dolgoz fel.
+
+(8) Nem kell alkalmazni a (4) bekezdés c) pontjában foglaltakat, ha a tormát közvetlenül a fogyasztónak, vagy nagybani piacon értékesítik.

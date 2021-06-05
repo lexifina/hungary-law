@@ -2,8 +2,34 @@
 
 ## SZAKTANÁCSADÁSI SZOLGÁLTATÁSOK SZABÁLYAI
 
-26. § (1) A legalább részben az államháztartás alrendszeréből, európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból finanszírozott támogatás jogosultja részére szaktanácsadási szolgáltatást nyújtó szaktanácsadóként csak az a vállalkozás – ideértve a 18. §-nak megfelelően elismert szervezetek tagját, alkalmazottját, vagy a szervezettel egyéb szaktanácsadásra irányuló jogviszonyban álló, és a szervezet tagjai részére a szervezet megbízásából tanácsadási tevékenységet végző személyt is –, illetve természetes személy tevékenykedhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény (a továbbiakban: Szolg. törvény) szerint bejelenti. A szaktanácsadói tevékenység végzésére irányuló bejelentés – a Szolg. törvényben meghatározott adatokon túl – tartalmazza a bejelentő azonosító adatait, értesítési címét, a vállalkozás szaktanácsadói tevékenységet végző tagjának szakirányú végzettségét, szaktanácsadói besorolását, szakterületét, illetve részszakterületét, valamint szakmai gyakorlatát bemutató összefoglalót.
+26. § (1) E törvény végrehajtására kiadott rendeletben meghatározott szakterületen szaktanácsadói tevékenységet az végezhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Agrárkamara) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenti.
 
-(2) Az agrárkamara az (1) bekezdés szerinti szaktanácsadókról nyilvántartást vezet, amely tartalmazza a bejelentőnek az (1) bekezdésben meghatározott adatait, és – ha e célból rendelkezésre bocsátotta – egyéb elérhetőségét, továbbá a kapcsolódó végrehajtási rendeletben meghatározott egyéb adatokat, dokumentumokat. A nyilvántartásból kizárólag a szaktanácsadói tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(2) Az Agrárkamara a szaktanácsadókról névjegyzéket vezet, amely tartalmazza
 
-(3) Az (1) bekezdés szerinti szaktanácsadói tevékenység bejelentésével kapcsolatos feladatokat az agrárkamara országos ügyintéző szervezete látja el.
+a) természetes személy esetében
+
+aa) nevét,
+
+ab) telefonszámát és elektronikus levelezési címét,
+
+ac) a végzettségének igazolását,
+
+ad) egy darab szabványméretű, két évnél nem régebbi, színes igazolványképet,
+
+ae) a szakmai önéletrajzot,
+
+b) szervezet esetében
+
+ba) nevét,
+
+bb) telefonszámát és elektronikus levelezési címét,
+
+bc) közreműködő természetes személy szaktanácsadóinak nevét és névjegyzékszámát, és
+
+bd) a szakmai tevékenységet bemutató összefoglalót.
+
+(3) A névjegyzékben szereplő adatokat az Agrárkamara – a gazdasági forgalom biztonsága, a szaktanácsadói tevékenység gyakorlásával összefüggő jog vagy tény igazolása céljából – a szaktanácsadói tevékenységre való jogosultság megszüntetésétől számított 5 évig kezeli.
+
+(4) A névjegyzék adatai közül bárki számára megismerhető a szaktanácsadó neve, szaktanácsadói névjegyzékszáma, szakterülete és telefonszáma, elektronikus levelezési címe.
+
+(5) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény alapján folytatott ellenőrzés során feltárt szabálytalanság esetén az Agrárkamara nem szab ki bírságot.

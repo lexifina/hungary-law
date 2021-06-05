@@ -26,8 +26,8 @@ l) a nemzeti minőségrendszerek, valamint az önkéntes mezőgazdasági-termék
 
 m) a cukorágazatban kötelezően alkalmazandó szerződés szabályait,
 
-n) a meggy és az alma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
+n) a meggy, az alma és a torma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
 
 rendeletben állapítsa meg.
 
-(2) Felhatalmazást kap a miniszter, hogy – az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
+(2) Felhatalmazást kap a miniszter, hogy – az agrár-vidékfejlesztésért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére, értékelésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.
