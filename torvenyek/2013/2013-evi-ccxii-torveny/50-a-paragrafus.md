@@ -9,3 +9,5 @@
 (5) Ha a bíróság által meghatározott haszonbérleti díj mértéke a korábbi haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a bíróság határozatának jogerőre emelkedésétől számított 30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
 
 (6) A felek az (1) bekezdésben szereplő, első szerződésmódosítási kezdeményezésre előírt, továbbá az azt követő szerződésmódosítási kezdeményezések közötti időtartamot, valamint a szerződésmódosítási kezdeményezés feltételeként előírt, a szerződés időtartamából hátralevő időtartamot 5 évnél rövidebb időtartamban is megállapíthatják. E § rendelkezéseitől a felek egyebekben érvényesen nem térhetnek el.
+
+(7) Ha a haszonbérleti szerződés úgy jött létre, hogy az előhaszonbérlő a haszonbérleti szerződés szerinti haszonbérlő helyébe lépett, a haszonbérlő az (1) bekezdés szerinti kezdeményezést a haszonbérleti szerződés időtartamától függetlenül és első alkalommal a haszonbérleti szerződés létrejöttétől számított 6 hónapon belül teheti meg.

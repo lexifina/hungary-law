@@ -13,3 +13,5 @@ c) köteles az általa létesített építményt a saját költségén kártalan
 (4) Ha a haszonbérlő a haszonbérlet tárgyát képező földhöz kötődő olyan európai uniós vagy nemzeti forrásból folyósított agrár-vidékfejlesztési támogatást vett igénybe, amelynek feltételéül jogszabály meghatározott időtartamra földhasználati kötelezettséget ír elő, és a haszonbérleti szerződést a haszonbérbeadó a 60. §-ban meghatározott felmondással szünteti meg, a szerződés megszűnésekor a haszonbérbeadó köteles pénzben megtéríteni a haszonbérlőnek a támogatási összeg haszonbérleti szerződés megszűnése miatti elvesztéséből eredő kárát.
 
 (5) Ha a felek másként nem állapodnak meg, a (2) bekezdés b) pontja nem alkalmazható, ha a szerződés annak lejárta miatt szűnik meg.
+
+(6) Semmis az a megállapodás, amely a (2) bekezdés b) pontja szerinti követelés viselésére a föld következő haszonbérlőjét kötelezi.

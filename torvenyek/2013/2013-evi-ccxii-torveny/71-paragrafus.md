@@ -16,7 +16,7 @@ ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretl
 
 b) meghiúsul, mert a postai küldemény
 
-ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy a címzett tulajdonostárs „elköltözött”, vagy
+ba) azzal a jelzéssel érkezik vissza, hogy „nem kereste” vagy a címzett tulajdonostárs „elköltözött”, „ismeretlen”, illetve „elköltözött” vagy
 
 bb) átvételét megtagadta, vagy
 
@@ -36,7 +36,7 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (8) A használati megosztásról szóló megállapodás – a (10) bekezdésben meghatározott esetek kivételével – a (9) bekezdésben meghatározott módon elkészített, a használati rendet ábrázoló térképi kimutatással együtt érvényes, az a megállapodás elválaszthatatlan mellékletét képezi.
 
-(9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – 30 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
+(9) A használati megosztásról szóló megállapodásban részes tulajdonostársaknak az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott – a megállapodástervezet elkészítése időpontjában 30 napnál nem régebbi – hiteles szemle másolaton egyértelmű jelzéssel, a használati megosztásról szóló megállapodásnak megfelelően, azzal azonosítható módon ábrázolni kell az egyes tulajdonostársak részére kijelölt területet. A térképi kimutatást a használati megállapodásban részes tulajdonostársaknak alá kell írni.
 
 (9a) Erdőnek minősülő földre kötött használati megosztásról szóló megállapodás esetében a (9) bekezdés szerinti térképi kimutatás alatt az erdészeti hatóság által kiadott, 30 napnál nem régebbi erdészeti térkép felhasználásával, jogosult erdészeti szakszemélyzet által készített, külön jogszabályban meghatározott erdészeti térképi mellékletet kell érteni.
 

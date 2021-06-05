@@ -1,16 +1,16 @@
 ## 20/E. Erdőkezelés
 
-68/E. § (1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által erdőkezelőként nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja.
+68/E. § (1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja.
 
-(2) Az erdőkezelő a tulajdonos javára, de saját nevében eljárva, a tulajdonos egyéni érdekeit figyelembe vevő erdőgazdálkodási tevékenységet folytat, amelynek során az erdei haszonvételeket az erdőkezelő gyakorolja és jogosult az erdő hasznai szedésére, továbbá köteles az erdőgazdálkodói észszerűség követelményei szerint a kezelt erdőt az előre láthatóan fenyegető kockázatokkal szemben megóvni. Az erdőkezelőt tevékenységéért díj illeti meg, amely magában foglalja az erdőgazdálkodási tevékenység költségei mellett az erdőkezelő közreműködésének ellenértékét is.
+(2) Az erdőkezelő a tulajdonos javára, de saját nevében eljárva, a tulajdonos egyéni érdekeit figyelembe vevő erdőgazdálkodási tevékenységet folytat, amelynek során az erdei haszonvételeket az erdőkezelő gyakorolja és jogosult az erdő hasznai szedésére, továbbá köteles az erdőgazdálkodói észszerűség követelményei szerint a kezelt erdőt az előre láthatóan fenyegető kockázatokkal szemben megóvni. Az erdőkezelőt tevékenységéért díj illeti meg.
 
 (3) Erdőkezelési szerződés határozatlan időre is köthető.
 
 (4) Az erdőkezelő az erdőgazdálkodási tevékenységeket a tulajdonos közreműködésével és egyetértésével határozza meg, amelynek végrehajtásában a tulajdonos közreműködhet.
 
-(5) Ha a felek másként nem állapodnak meg, az erdőgazdálkodásból eredő bevételeket a tulajdonos javára eljárva az erdőkezelő szedi be, amelyből a díj levonását követően keletkező jövedelmet a tulajdonos részére megfizeti. A kezelt erdő az erdőkezelő saját vagyonától és az általa kezelt más erdőktől elkülönült vagyont képez, amelyet az erdőkezelő köteles külön nyilvántartani. A kezelt erdőre, valamint az erdőgazdálkodásból eredően beszedett bevételekre az erdőkezelő hitelezői és az erdőkezelő által kezelt más erdők hitelezői nem támaszthatnak igényt.
+(5) Ha a felek másként nem állapodnak meg, az erdőgazdálkodásból eredő bevételeket a tulajdonos javára eljárva az erdőkezelő szedi be, amelyből az erdőgazdálkodás költségeit és a díj levonását követően keletkező jövedelmet a tulajdonos részére megfizeti. A kezelt erdő az erdőkezelő saját vagyonától és az általa kezelt más erdőktől elkülönült vagyont képez, amelyet az erdőkezelő köteles külön nyilvántartani. A kezelt erdőre, valamint az erdőgazdálkodásból eredően beszedett bevételekre az erdőkezelő hitelezői és az erdőkezelő által kezelt más erdők hitelezői nem támaszthatnak igényt.
 
-(6) A tárgyévet követő időszakban felmerülő erdőfelújítási kötelezettség költségeinek fedezetét a tulajdonos biztosítja az erdőkezelő számára, vagy a felek erre vonatkozó megállapodása alapján az erdőkezelő az (5) bekezdésben foglalt kifizetés során a felmerülő költségek fedezetéül szolgáló összeget visszatarthatja.
+(6) Ha az adott időszak bevétele nem fedezi az adott időszak költségeit, akkor a különbözetet a tulajdonos biztosítja az erdőkezelő számára. A felek erre vonatkozó megállapodása alapján a tárgyidőszakot követő időszakban felmerülő költségek fedezetét a tulajdonos úgy is biztosíthatja az erdőkezelő számára, hogy az erdőkezelő az (5) bekezdésben foglalt kifizetés során a felmerülő költségek fedezetéül szolgáló összeget visszatartja.
 
 (7) A tulajdonos jogosult a részére járó jövedelmet vagy annak egy részét természetben kérni.
 
