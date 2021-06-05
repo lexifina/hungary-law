@@ -1,0 +1,3 @@
+95. § A Fétv. a következő 36/A. §-sal egészül ki:
+
+„36/A. § A Földforgalmi törvény 24. § (3) bekezdés h) pontjában foglaltak alkalmazása során az ügylet szerinti ellenérték vizsgálatakor figyelembe kell venni a földön fennálló vagyoni értékű jogokat továbbá a földön fennálló más terheket is. Jelzálogjog esetén – a jogosult, illetve a kötelezett eltérő ügyleti rendelkezése hiányában – a jelzálogjoggal biztosított követelés ingatlan-nyilvántartásban bejegyzett értékét kell alapul venni.”

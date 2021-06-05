@@ -1,0 +1,3 @@
+6. § Az Fbtv. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A mezőőr feladatát az őrszolgálatot létrehozó települési önkormányzat (a továbbiakban: fenntartó) utasításai szerint végzi, szakmai felügyeletét a mezőgazdasági igazgatási szerv és a rendőrség látja el. Ha a mezőgazdasági igazgatási szerv szabálytalanságot tapasztal, felhívja az érintett mezőőrt és szükség esetén a fenntartót az előírások betartására, a hiányosságok pótlására. A munkaügyi vita és a közszolgálati jogviszonyból származó viták kivételével ismételt jogsértés és hiányosság esetén azt írásban jelzi a törvényességi felügyeletet ellátó illetékes kormányhivatalnak.”

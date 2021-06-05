@@ -1,0 +1,1 @@
+9. § Az Fbtv. 17. § (1) bekezdésében a „mezőgazdasági igazgatási szervnek” szövegrész helyébe a „Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 15/C. §-ában meghatározott mezőgazdasági igazgatási szervnek (a továbbiakban: mezőgazdasági igazgatási szerv)” szöveg lép.

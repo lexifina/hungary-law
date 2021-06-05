@@ -1,0 +1,3 @@
+73. § A Ptv. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) E törvény a szeszes italok meghatározásáról, leírásáról, megjelenítéséről, jelöléséről, a szeszes italok elnevezésének használatáról az egyéb élelmiszerek megjelenítése és jelölése során, a szeszes italok földrajzi árujelzőinek oltalmáról, a mezőgazdasági eredetű etil-alkohol és desztillátumok használatáról az alkoholtartalmú italokban, valamint a 110/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. április 17-i (EU) 2019/787 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”

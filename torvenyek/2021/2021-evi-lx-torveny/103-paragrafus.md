@@ -1,0 +1,3 @@
+103. § A Fétv. a következő 87. §-sal egészül ki:
+
+„87. § Az elővásárlási vagy előhaszonbérleti jog gyakorlásával összefüggésben vállalt kötelezettséget teljesítettnek kell tekinteni, ha az a használatnak a Földforgalmi törvény 13. § (2) bekezdése vagy a 42. § (2) bekezdése szerinti átengedése útján valósul meg.”
