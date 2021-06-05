@@ -1,5 +1,1 @@
-16/B. § (1) Az ingatlanügyi hatóság a termőföld engedély nélküli más célú hasznosítása miatt indult eljárást megszünteti, ha a 16. § (1) bekezdésében foglalt valamelyik eset építési beruházás megvalósítását eredményezte és az 10 éve bekövetkezett. A 10 éves időtartam beálltának bizonyítása az igénybevevőt, illetőleg a tulajdonost, haszonélvezet fennállása esetén a haszonélvezőt terheli.
-
-(2) Az (1) bekezdés alkalmazása során építési beruházásnak minősül az építmény, építményrész, épületegyüttes megépítése, átalakítása, valamint bővítése érdekében végzett, termőföld igénybevételével járó építési tevékenység.
-
-(3) A 9. § (2) bekezdésében meghatározott esetben a zártkerti ingatlanon megvalósított engedély nélküli más célú hasznosítás miatt az ingatlanügyi hatóság az eljárást nem indítja meg vagy a folyamatban lévő eljárást megszünteti.
+16/B. §

@@ -18,7 +18,7 @@
 
 7. humuszos termőréteg: a talaj felső, biológiailag aktív, szerves anyagot tartalmazó rétege;
 
-8. igénybevevő: a termőföldet – engedéllyel vagy engedély nélkül – más célra hasznosító magánszemély, jogi személy, jogi személyiséggel nem rendelkező más szervezet, illetve ezek jogutódja;
+8. igénybevevő: a termőföldet – engedéllyel vagy engedély nélkül – más célra hasznosító természetes személy, jogi személy, jogi személyiséggel nem rendelkező más szervezet, illetve ezek jogutódja;
 
 9. kisajátítás alapjául szolgáló közérdekű célból megvalósuló beruházás területével szomszédos terület, valamint e területtel szomszédos terület: olyan termőföldnek minősülő földrészlet, amely egy kisajátítás alapjául szolgáló közérdekű célból megvalósuló beruházáshoz közvetlenül kapcsolódik, vagy attól önálló helyrajzi számon nyilvántartott út (árok, csatorna) választja el;
 
@@ -30,7 +30,7 @@
 
 13. mezőgazdasági célú tereprendezés: mindazon – nem termesztéstechnológiai – földmunkák és az azokhoz kapcsolódó kiegészítő beavatkozások – különösen a szintvonalas művelés feltételeinek megteremtése, káros vízbőség megszüntetése, erózió elleni védekezés –, amelyek a tervezett mezőgazdasági célú földhasználat fenntartásához szükségesek és a termeszteni kívánt kultúrák igényét kielégítő, tartós felszíni formák kialakításával hozzájárulnak a talaj termékenységének megvalósításához és optimális feltételeket teremtenek a korszerű termesztéstechnológia gazdaságos alkalmazásához;
 
-14. mezőgazdasági hasznosításra alkalmatlanná váló termőföld: olyan termőföld, amelynek igénybevétele, vagy használatának, hasznosításának jogszabályi előíráson alapuló korlátozása eredményeként mezőgazdasági tevékenységet nem lehet folytatni;
+14. mezőgazdasági hasznosításra alkalmatlanná vált termőföld: olyan földrészlet, amelynek egész területe vagy annak egy része igénybevétele, vagy használatának, hasznosításának jogszabályi előíráson alapuló korlátozása eredményeként a 19. pontban megjelölt valamely művelési ág szerint termőföldként már nem hasznosítható;
 
 15. mezőgazdasági tevékenység: növénytermesztés, kertészet, állattenyésztés, halászat, haltenyésztés, szaporító anyag termesztés, vadgazdálkodás, erdőgazdálkodás, vegyes gazdálkodás;
 
@@ -46,6 +46,14 @@
 
 21. ültetvény: az ingatlan-nyilvántartásban szőlő, gyümölcsös, továbbá fásított terület művelési ágban nyilvántartott földrészlet;
 
-22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 4. § (1) bekezdésében meghatározott 0,5 MW-nál kisebb névleges teljesítőképességű, a napenergiát felhasználva villamos energiát termelő erőmű.
+22. kis teljesítményű erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 32. pontjában meghatározott olyan kiserőmű, amely a napenergiát felhasználva termel villamos energiát és 0,5 MW-nál kisebb névleges teljesítőképességű;
 
 23. állandó jellegű növényház: stabil építésű, fém-, fa- vagy műanyag vázú, üveg vagy műanyag borítású, fedett növénytermesztő létesítmény, melyben az évszaktól, illetve az időjárástól függetlenül biztosíthatók az optimális feltételek a növények fejlődéséhez.
+
+24. kísérleti gyümölcsültetvény: az a gyümölcsültetvény, amely tudományos, kutatási vagy vizsgálati célokat szolgál;
+
+25. mederiszap: a vízfolyás vagy állóvíz medrében kiülepedő anyag, amely az eredetileg kiépített, illetve vízjogi engedélyben rögzített vízszállító képesség vagy víztározó térfogat visszaállítása céljából rendszeresen eltávolításra kerül;
+
+26. talajjavító mederanyag: elsősorban termőföld bemosódásból keletkező, a talaj kedvezőtlen tulajdonságainak megváltoztatására, illetve a kedvező tulajdonságok fenntartására szolgáló, kezelés nélkül termőföldre kihelyezhető mederiszap;
+
+27. kezelt mederiszap: olyan mederiszap, amely szennyezőanyag tartalma miatt biológiai, fizikai, kémiai, vagy más megfelelő eljárást követően, a jogszabályi előírásoknak megfelelően helyezhető ki termőföldre.

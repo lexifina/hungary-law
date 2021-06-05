@@ -1,4 +1,4 @@
-58/B. § A katasztert vezető szerv a gyümölcs termőhelyet a szakértői vélemény alapján a következő osztályokba sorolja:
+58/B. § A gyümölcsültetvény-katasztert vezető szerv a gyümölcs termőhelyet a szakértői vélemény alapján a következő osztályokba sorolja:
 
 a) I. osztályú, gyümölcstermesztésre kiválóan alkalmas termőhely,
 

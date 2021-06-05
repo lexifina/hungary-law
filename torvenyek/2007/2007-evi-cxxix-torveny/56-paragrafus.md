@@ -4,9 +4,11 @@
 
 a) 36–41. §-aiban írt kötelezettségek megsértése,
 
-b) a 48. § (2) bekezdésében foglaltak megsértése, valamint
+b) a 48. § (2) bekezdésében foglaltak megsértése,
 
-c) a 49. §-ban foglalt engedélyben, valamint a külön jogszabályok szerinti engedélyben előírt talajvédelmi rendelkezéstől eltérően, továbbá a 49. § szerinti engedély vagy az 50/A. § szerinti bejelentés nélkül folytatott tevékenység
+c) a 49. §-ban foglalt engedélyben és bejelentésben vagy a bejelentéshez csatolt talajvédelmi tervben foglalt, valamint az egyéb engedélyben előírt talajvédelmi rendelkezéstől eltérően, továbbá a 49. § szerinti engedély vagy bejelentés nélkül vagy a bejelentéstől eltérően folytatott tevékenység,
+
+d) 51/B.§ (1) bekezdés a–b) pontja
 
 esetén a 3. mellékletben foglaltak szerint talajvédelmi bírságot szab ki.
 

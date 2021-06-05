@@ -10,4 +10,4 @@
 
 (5) Az (1)–(4) bekezdésben előírtakat az ingatlanügyi hatóság rendszeresen ellenőrzi.
 
-(6) Az ingatlanügyi hatóság az (1)–(4) bekezdésben foglalt kötelezettségek elmulasztása miatt a földvédelmi bírság megfizetésére kötelező jogerős határozatának egy példányát közli a mezőgazdasági igazgatási szervvel.
+(6) Az ingatlanügyi hatóság az (1)–(4) bekezdésben foglalt kötelezettségek elmulasztása miatt a földvédelmi bírság megfizetésére kötelező véglegessé vált határozatának egy példányát közli a mezőgazdasági igazgatási szervvel.

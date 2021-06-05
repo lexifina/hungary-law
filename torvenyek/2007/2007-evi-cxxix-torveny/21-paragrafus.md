@@ -10,7 +10,7 @@
 
 a) talajvédelmet szolgáló létesítmény megvalósítása,
 
-b) öntözőcsatorna és belvízcsatorna létesítése,
+b) vízkárelhárítási vagy öntözési célú vízilétesítmény létesítése, ezek, valamint a meder rekonstrukciója, fejlesztése, üzemeltetése, vagy fenntartása, továbbá a védekezést követő helyreállítása,
 
 c) közüzemi lakossági ivóvízellátást, valamint szennyvízelvezetést és -tisztítást szolgáló műtárgyak és azok védőterülete létesítése,
 
@@ -18,9 +18,9 @@ d) védett természeti területek természetvédelmi kezeléséért felelős sze
 
 e) legfeljebb 2 hektár területnagyságú termőföld igénybevételével járó állami vagy önkormányzati szociális intézmény, egészségügyi- és sportlétesítmény építése, temető létesítése, bővítése,
 
-f) vízkárelhárítási töltés és műtárgyai létesítése vagy bővítése,
+f)
 
-g) állandó jellegű vízkárelhárítási és öntözési célú tározó létesítése vagy bővítése,
+g)
 
 h) belterületbe vonás esetén állami, önkormányzati bérlakásépítés megvalósítása,
 
@@ -28,7 +28,7 @@ i) belterületbe vonás esetén új község alakítása, településegyesítés
 
 j) termálvíz-hasznosító létesítményekből kibocsátott használt termálvizek átmeneti tározására és természetközeli tisztítására szolgáló – lehetőség szerint többcélú – állandó jellegű tározók létesítése és bővítése,
 
-k) – amennyiben mezőgazdasági vízszolgáltatás céljából veszik igénybe – mezőgazdasági vízellátást szolgáló saját célú vízilétesítmény létesítése és üzemeltetése,
+k)
 
 l) csapadékvíz összegyűjtésére szolgáló tározó létesítése, üzemeltetése, bővítése,
 
@@ -40,13 +40,17 @@ céljából engedélyezi.
 
 (3a) A (3) bekezdésben foglaltakon túl nem kell járulékot fizetni, ha az ingatlanügyi hatóság a termőföld más célú hasznosítását
 
-a) a külön jogszabály szerinti ügyfél-nyilvántartásban regisztrált mezőgazdasági termelő magánszemély tulajdonos (haszonélvező) részére, mezőgazdasági tevékenységhez közvetlenül kapcsolódó, legfeljebb 1000 m2 területnagyságú területre,
+a) a külön jogszabály szerinti ügyfél-nyilvántartásban regisztrált mezőgazdasági termelő természetes személy tulajdonos (haszonélvező) részére, mezőgazdasági tevékenységhez közvetlenül kapcsolódó, legfeljebb 1000 m2 területnagyságú területre,
 
-b) magánszemély tulajdonos (haszonélvező) részére, legfeljebb 400 m2 nagyságú területre
+b) természetes személy tulajdonos (haszonélvező) részére, legfeljebb 400 m2 nagyságú területre
 
 engedélyezi.
 
-(3b) A (3a) bekezdésben meghatározott járulékmentesség nem illeti meg a magánszemély tulajdonost (haszonélvezőt), abban az esetben, ha a földrészleten engedély nélküli más célú hasznosítást valósított meg.
+(3b) A (3a) bekezdésben meghatározott járulékmentesség nem illeti meg a természetes személy tulajdonost (haszonélvezőt), abban az esetben, ha a földrészleten engedély nélküli más célú hasznosítást valósított meg.
+
+(3c) A (3a) bekezdésben meghatározott járulékmentesség a tulajdonost (haszonélvezőt) – közös tulajdonban álló földrészlet esetén egy tulajdonostársat – csak egyszer illeti meg. Ezen a címen – 10 éven belül – ismételt járulékmentesség tulajdonosváltozás esetén az új tulajdonost, illetve az új haszonélvezőt nem illeti meg, továbbá a földrészlet megosztásával nem nyílik meg ismételten e címen a járulékmentesség.
+
+(3d) A (3) bekezdés f), g), j) és l) pontjában meghatározott járulékmentesség megállapításához az ingatlanügyi hatóság a végleges vízjogi létesítési engedély beszerzése érdekében megkeresi a vízügyi hatóságot annak megállapítása érdekében, hogy a járulékmentesség alapjául szolgáló, a végleges más célú hasznosítás iránti kérelemben megjelölt cél, az igénybevétellel érintett terület és annak nagysága megegyezik-e a végleges vízjogi létesítési engedélyben foglaltakkal. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére. Eltérés esetén az igénybevevőt járulékmentesség nem illeti meg.
 
 (4) A (3) bekezdés a) pontjában meghatározott talajvédelmet szolgáló létesítménynek minősül: a meliorációs tervekben előirányzott munkálat, létesítmény, valamint a káros belvizek elvezetését szolgáló csatorna és vízfolyás létesítése.
 
@@ -56,8 +60,8 @@ engedélyezi.
 
 (7) Az (5) bekezdésben szereplő engedély jogosultja az (5) bekezdésben foglalt határidő leteltével köteles kérni az ingatlanügyi hatóságnál a (6) bekezdés szerinti korlátozás tényének törlését az ingatlan-nyilvántartásból.
 
-(8) A (3a) bekezdésben meghatározott járulékmentesség a tulajdonost (haszonélvezőt) csak egyszer illeti meg. Ezen a címen – 10 éven belül – ismételt járulékmentesség tulajdonosváltozás esetén az új tulajdonost, illetőleg az új haszonélvezőt nem illeti meg, továbbá a földrészlet megosztásával nem nyílik meg ismételten e címen a járulékmentesség.
+(8)
 
 (9) Ha a más célú hasznosítás iránti kérelemben szereplő terület nagysága a (3) bekezdés e) pontjában, valamint a (3a) bekezdésben meghatározott területnagyságot meghaladja, a kérelemben foglaltak engedélyezése esetén az egész területnagyság után ki kell szabni a járulékot.
 
-(10) Az ingatlanügyi hatóság a (3) bekezdés e) pontjában és a (3a) bekezdésében meghatározott járulékmentességről – a földrészlet és az engedély jogosultjának a határozatban szereplő adatairól – a járulék utólagos kiszabása céljából nyilvántartást vezet.
+(10) Az ingatlanügyi hatóság a járulékmentességről – a földrészlet és az engedély jogosultjának a határozatban szereplő adatairól – a járulék utólagos kiszabása céljából nyilvántartást vezet.

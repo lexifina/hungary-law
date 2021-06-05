@@ -2,6 +2,8 @@
 
 ## A GYÜMÖLCSTERMŐHELYI KATASZTERI ELJÁRÁS, A GYÜMÖLCSÜLTETVÉNY-TELEPÍTÉS BEJELENTÉSE, VALAMINT A GYÜMÖLCSÜLTETVÉNY KATASZTERI NYILVÁNTARTÁS
 
+## Gyümölcstermőhelyi kataszter
+
 58/A. § (1) A gyümölcstermőhelyi kataszter a termesztésre való alkalmasság szempontjából ökológiai minősítés alapján osztályba sorolt és térinformatikailag lehatárolt, 2500 m2 területnagyságot meghaladó földterületek (a továbbiakban: termőhelyek) egységes nyilvántartási rendszere, amelyet a gyümölcstermőhelyi katasztert vezető szerv vezet. A gyümölcstermőhelyi kataszter a következő alapadatokat tartalmazza:
 
 a) település,

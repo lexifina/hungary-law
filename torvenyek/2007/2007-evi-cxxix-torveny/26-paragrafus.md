@@ -6,21 +6,23 @@
 
 (3)
 
-(4) Az ingatlanügyi hatóság a kiszabott földvédelmi járulékokról és bírságokról nyilvántartást vezet.
+(4) Az ingatlanügyi hatóság a kiszabott földvédelmi járulékokról és bírságokról a 26/A. §-ban meghatározott nyilvántartást vezet (a továbbiakban: földvédelmi nyilvántartás).
 
 (4a) A határidőben meg nem fizetett járuléknak és bírságnak a (4) bekezdés szerinti nyilvántartásból való törléséhez a földügyért felelős miniszter hozzájárulása szükséges. A törléshez az ingatlanügyi hatóság kérelme alapján a földügyért felelős miniszter akkor járulhat hozzá, ha
 
 a) a fizetésre kötelezett szervezet jogutód nélkül megszűnt, vagy
 
-b) az adóhatóság igazolása alapján a határidőre meg nem fizetett járulék- és bírságtartozás miatt a fizetésre kötelezettel szemben indult végrehajtási eljárás
+b) az adóhatóság igazolása alapján a határidőre meg nem fizetett járulék- és bírságtartozás miatt a fizetésre kötelezettel szemben indult végrehajtási eljárásban
 
-ba) nem vezetett eredményre, illetve
+ba) az eljárás nem vezetett eredményre,
 
-bb) a végrehajtáshoz való jog elévült.
+bb) a végrehajtáshoz való jog elévült, vagy
+
+bc) a tartozást az adóhatóság elengedte.
 
 (4b) Az ingatlanügyi hatóságnak a (4a) bekezdés szerinti kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
 
-(4b) Az ingatlanügyi hatóságnak a (4a) bekezdés szerinti kérelméhez csatolnia kell a törlés feltételeinek fennállását igazoló okiratokat.
+(4b)
 
 (5) Az ingatlanügyi hatósághoz benyújtott,
 
@@ -42,23 +44,27 @@ b) 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasz
 
 c) 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről
 
-szóló jogerős határozatban szereplő földrészleteken.
+szóló véglegessé vált határozatban szereplő földrészleteken.
 
 (9) A helyszíni szemlét követő 15 napon belül az ingatlanügyi hatóság a kérelmet – a (10), illetve a (11) bekezdésben meghatározott mellékletekkel együtt – felterjeszti döntésre a földügyért felelős miniszter részére.
 
 (10) Az (5) bekezdés a) pontja szerinti kérelem esetében a kérelem felterjesztéséhez csatolni kell:
 
-a) a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban a végleges más célú hasznosításért megállapított járulék megfizetését, valamint annak az (1) és (2) bekezdés szerinti továbbutalását igazoló okiratot;
+a) a cél-kitermelőhely létesítéséhez szükséges megelőző földvédelmi eljárásban
 
-b) az újrahasznosítás elfogadásáról szóló jogerős ingatlanügyi hatósági határozat hitelesített másolatát;
+aa) a termőföld más célú hasznosításának engedélyezéséről rendelkező végleges határozat hitelesített másolatát;
 
-c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyv hiteles másolatát.
+ab) a végleges más célú hasznosításért megállapított járulék megfizetését igazoló okiratot;
+
+b) az újrahasznosítás elfogadásáról szóló végleges ingatlanügyi hatósági határozat hitelesített másolatát, és
+
+c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyv hitelesített másolatát.
 
 (11) Az (5) bekezdés b) pontja szerinti kérelem esetében a felterjesztéshez csatolni kell:
 
-a) a járulék megfizetését, valamint ezeknek az (1) és (2) bekezdés szerinti továbbutalását igazoló okiratot;
+a) a járulék megfizetését igazoló okiratot;
 
-b) a 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasznosítás engedélyezéséről, a 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről szóló jogerős határozat hitelesített másolatát;
+b) a 22. § (6) és (6a) bekezdésén alapuló kérelem esetén a más célú hasznosítás engedélyezéséről, a 22. § (8) bekezdésén alapuló kérelem esetén a lejárt időbeli hatályú vagy hatályon kívül helyezett más célú hasznosítás engedélyezéséről szóló, valamint a más célú hasznosítási engedélyt hatályon kívül helyező véglegessé vált határozat hitelesített másolatát;
 
 c) az ingatlanügyi hatóság által megtartott helyszíni szemléről készült jegyzőkönyvet.
 

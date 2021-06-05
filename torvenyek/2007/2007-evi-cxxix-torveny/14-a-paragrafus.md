@@ -1,4 +1,4 @@
-14/A. § (1) Időleges más célú hasznosításnak kell tekinteni a termőföldre az ingatlan-nyilvántartásba bejegyzett közérdekű használati jog – szolgalmi vagy más használati jog – jogosultja, mint igénybevevő részéről e jog olyan gyakorlását is, amely a termelés folytatását, illetőleg a talajvédelmi előírások betartását meghatározott ideig nem teszi lehetővé. E jog gyakorlásával járó termőföld-igénybevétel nem minősül engedélyköteles időleges más célú hasznosításnak, feltéve, hogy a jogosult a közérdekű használati joggal terhelt területen olyan tevékenységet végez, amelyre külön jogszabály, illetve jogszabály előírásai szerint az ingatlan tulajdonosával kötött megállapodás vagy jogerős hatósági engedély jogosítja fel.
+14/A. § (1) Időleges más célú hasznosításnak kell tekinteni a termőföldre az ingatlan-nyilvántartásba bejegyzett közérdekű használati jog – szolgalmi vagy más használati jog – jogosultja, mint igénybevevő részéről e jog olyan gyakorlását is, amely a termelés folytatását, illetőleg a talajvédelmi előírások betartását meghatározott ideig nem teszi lehetővé. E jog gyakorlásával járó termőföld-igénybevétel nem minősül engedélyköteles időleges más célú hasznosításnak, feltéve, hogy a jogosult a közérdekű használati joggal terhelt területen olyan tevékenységet végez, amelyre külön jogszabály, illetve jogszabály előírásai szerint az ingatlan tulajdonosával kötött megállapodás vagy véglegessé vált hatósági engedély jogosítja fel.
 
 (2) Az (1) bekezdésben meghatározott esetben a 9–14. §-ban foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
@@ -14,7 +14,7 @@ d) a c) pontban foglaltaktól eltérően, ha a bejelentésig az eredeti állapot
 
 (4) A bejelentéshez csatolni kell:
 
-a) az (1) bekezdésben meghatározott megállapodás vagy jogerős hatósági engedély hiteles másolatát,
+a) az (1) bekezdésben meghatározott megállapodás vagy véglegessé vált hatósági engedély hiteles másolatát,
 
 b) ha a bejelentésig az eredeti állapot helyreállítása megtörtént, akkor az elvégzett munkák leírását, és az azt tartalmazó jegyzéket.
 

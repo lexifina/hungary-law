@@ -10,14 +10,16 @@ a) az eredeti állapot helyreállításának függő hatályú elrendeléséről
 
 b) az eredeti állapot helyreállításának függő hatályú elrendeléséről szóló (1a) bekezdése szerinti határozatát is hatályon kívül helyezi, és dönt az utólagos hozzájárulásról.
 
-(1d) Az utólagos hozzájárulás megadására csak akkor kerülhet sor, ha rendelkezésre áll a 16. § (9) bekezdése szerinti tulajdonosi, haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozat. Ennek hiányában az ingatlanügyi hatóság az (1c) bekezdés a) pontjában foglaltakról rendelkezik.
+(1d) Az utólagos hozzájárulás megadására a 16. §-ban foglaltakat kell alkalmazni, azzal, hogy az utólagos hozzájárulás iránti kérelmet az eredeti állapot helyreállításának függő hatályú elrendeléséről szóló (1a) bekezdés szerinti határozat közlését követő 15 napon belül kell benyújtani.
 
 (1e) Az (1) bekezdésben és az (1c) bekezdés a) pontjában meghatározott határozatban elő kell írni, hogy az eredeti állapot helyreállítását az 50. § (2) bekezdés d) pontjában foglalt talajvédelmi terv szerint kell végrehajtani.
 
-(2)–(3)
+(2) Az igénybevevő az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni. E kötelezettség teljesítését az eredeti állapot helyreállítását elrendelő határozatban kell előírni.
+
+(3) A bejelentés alapján az ingatlanügyi hatóság helyszíni szemlét tart.
 
 (4) Az ingatlanügyi hatóság az eredeti állapot helyreállításának elfogadása esetén földvédelmi bírság és a termőföld más célú hasznosításáért járó földvédelmi járulék megfizetésére kötelezi az igénybevevőt. Az eredeti állapot helyreállításának el nem fogadása esetén újabb határidő megjelölésével a helyreállítás érdekében szükséges további munkák elvégzését írja elő.
 
 (5) Az ingatlanügyi hatóság a más célú hasznosításhoz való utólagos hozzájárulásával egyidejűleg rendelkezik a fizetendő földvédelmi járulékról és földvédelmi bírságról.
 
-(6) Az ingatlanügyi hatóság engedélye nélkül létesített célkitermelőhelyhez való utólagos hozzájárulás esetében a 15/B. § (5) és (6) bekezdésében foglaltakat kell alkalmazni.
+(6) Az ingatlanügyi hatóság engedélye nélkül létesített cél-kitermelőhelyhez való utólagos hozzájárulás esetében a 15/B. § (5) és (6) bekezdésében foglaltakat kell alkalmazni.

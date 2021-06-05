@@ -10,6 +10,6 @@ a) elemi csapás esetén a termőföld tulajdonosát vagy a tulajdonosokat együ
 
 b) ipari szerencsétlenség esetén a káresemény okozóját.
 
-(5) Az eredeti állapot helyreállításának, vagy az újrahasznosítás elfogadásáról az ingatlan ügyi hatóság határozatban rendelkezik.
+(5) Az eredeti állapot helyreállításának, vagy az újrahasznosítás elfogadásáról az ingatlanügyi hatóság határozatban rendelkezik.
 
 (6) A (4) bekezdés a) pontjában meghatározott esetben az újrahasznosítás elfogadásáról szóló határozatban rendelkezni kell a havária elhárítása érdekében igénybe vett termőföldben okozott kár mértékéről. E bekezdés szerinti okozott kár az ingatlan-nyilvántartás szerinti minőségi osztály és az újrahasznosított termőföld minőségi osztálya szerint számított földvédelmi járulék különbözete. Ha az újrahasznosítást követően művelés alól kivett terület marad vissza, akkor a kár mértéke erre a területre, az igénybevett termőföld ingatlan-nyilvántartás szerinti minőségi osztálya szerint a termőföld végleges más célú hasznosításért fizetendő földvédelmi járulék 100%-a.

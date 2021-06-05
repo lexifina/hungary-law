@@ -16,15 +16,17 @@ a) az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott,
 
 b) a 21. § (5) bekezdésében foglalt kötelezettségvállaló nyilatkozatot a járulékmentesség igénybevételéhez;
 
-c) a talaj humuszos termőrétegének mentését megalapozó talajvédelmi tervet, ha a végleges más célú hasznosítás engedélyezése iránti kérelemben megjelölt teljes területigény és cél az 50. § (2) bekezdésének b) pontjában foglaltak megvalósítására irányul;
+c) a talaj humuszos termőrétegének mentését megalapozó talajvédelmi tervet, ha a végleges más célú hasznosítás engedélyezése iránti kérelemben megjelölt teljes területigény és cél az 50. § (2) bekezdés b) pontjában foglaltak megvalósítására irányul, ide nem értve a belterületbe vonás iránti kérelmet, valamint a kis teljesítményű erőmű létesítése iránti kérelmet, feltéve, ha a 8/C. §-ban foglalt feltételek fennállnak;
 
-d) az 50. § (2) bekezdés d) pontjában meghatározott, az eredeti állapot helyreállítását megalapozó talajvédelmi tervet;
+d) időleges más célú hasznosítás iránti kérelem esetében az 50. § (2) bekezdés d) pontjában meghatározott, az eredeti állapot helyreállítását megalapozó talajvédelmi tervet;
 
 e) az illetékes hegyközség hozzájárulását, ha a kérelem a borszőlő termőhelyi kataszterébe tartozó területet érint;
 
 f) a 10. § (4) bekezdése szerinti esetben a tulajdonszerzés alapjául szolgáló okirat másolatát.
 
-(2a) A (2) bekezdés c) pontjában meghatározott talajvédelmi tervet nem kell csatolni a kérelemhez az olyan nyomvonalas beruházásoknak a megvalósításához, ahol a termőföld csak légvezeték biztonsági övezetével érintett.
+g) a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatát, ha az igénybevevő nem a tulajdonos, illetve haszonélvezet fennállása esetén nem a haszonélvező, kivéve, ha a termőföld igénybevétele kisajátítás céljának megvalósítása érdekében szükséges, vagy ha a termőföld igénybevétele olyan, a tulajdonjog korlátozását lehetővé tevő közérdekű célt szolgál, amelynél törvény lehetővé teszi a tulajdonos, illetve haszonélvezet fennállása esetén a haszonélvező hozzájáruló nyilatkozatának bíróság vagy hatóság döntésével történő pótlását.
+
+(2a)
 
 (3) Az (1) bekezdésben foglaltakon túl a kérelemben meg kell jelölni annak
 

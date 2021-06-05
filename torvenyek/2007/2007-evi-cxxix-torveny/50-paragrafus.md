@@ -1,4 +1,4 @@
-50. § (1) A talajvédelmi hatóság a külön jogszabályokban meghatározott engedélyezési eljárások során az e törvényben foglalt talajvédelmi előírásokat érvényesíti.
+50. § (1) A talajvédelmi hatóság az engedélyezési és a bejelentési eljárások során az e törvényben foglalt talajvédelmi előírásokat érvényesíti.
 
 (2) A talajvédelmi hatóság eljárásához az alábbi esetekben a külön jogszabály szerinti talajvédelmi terv szükséges:
 

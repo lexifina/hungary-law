@@ -1,1 +1,1 @@
-1/B. §
+1/B. § E törvény alkalmazásában, ha a termőföld állami tulajdonban áll, akkor a tulajdonos alatt az ingatlan-nyilvántartásba bejegyzett vagyonkezelőt, ennek hiányában a tulajdonosi joggyakorló szervezetet kell érteni.

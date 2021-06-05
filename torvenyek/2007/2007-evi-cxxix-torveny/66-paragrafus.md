@@ -14,6 +14,8 @@ a) a haváriával közvetlenül nem érintett termőföldnek a havária elhárí
 
 b) a termőföld mennyiségi védelme tekintetében e törvényben szabályozott eljárások, valamint a földminősítési eljárás
 
+c) az agrofotovoltaikus erőmű létesítésének és üzemeltetésének földvédelemre vonatkozó
+
 részletes szabályait.
 
 (2) Felhatalmazást kap a földügyért felelős miniszter, hogy rendelettel állapítsa meg

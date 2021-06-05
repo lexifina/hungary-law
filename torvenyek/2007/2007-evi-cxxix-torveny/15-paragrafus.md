@@ -6,7 +6,7 @@
 
 (2) Termőföld belterületbe vonása iránti kérelmet kizárólag az önkormányzat terjeszthet elő. A kérelemhez csatolni kell az érintett földrészletek helyrajzi számait, a területnagyságot, és a területfelhasználási célt tartalmazó képviselő-testületi döntést, valamint a településszerkezeti terv kivonatát. A kérelemben az önkormányzatnak nyilatkozatnia kell arról, miszerint a kérelemben megjelölt földrészletek a kérelemben megjelölt célra 4 éven belül ténylegesen felhasználásra kerülnek.
 
-(3) Belterületi, illetőleg beépítésre szánt területi felhasználásra kerülő területek folyamatosan, a településfejlesztés megvalósításától függően vonhatók a belterületbe.
+(3) Külterületi, illetőleg beépítésre szánt területi felhasználásra kerülő területek folyamatosan, a településfejlesztés megvalósításától függően vonhatók a belterületbe.
 
 (4) Belterületbe vonás iránti kérelem elbírálása során elutasítási ok lehet, ha a kérelemmel érintett termőföldek nem szomszédosak belterületi fölrészletekkel, továbbá a kérelmezett, az átlagosnál jobb minőségű termőföldek mellett gyengébb minőségű termőföldek is szomszédosak belterületi földrészletekkel. E bekezdés alkalmazása során szomszédos földrészleteknek minősülnek azok a földrészletek is, amelyeket önálló helyrajzi számon nyilvántartott út (árok, csatorna) választ el a belterülettől.
 

@@ -96,7 +96,7 @@ VIII.
 
 2. Az igénybevétellel érintett termőföld más célú időleges hasznosítása esetén a járulék mértéke a minőségi osztályra tekintet nélkül az első évre vonatkozóan a termőföld AK értéke ezerszeres szorzatának megfelelő forintösszeg, azzal, hogy a járulék összege 20 000 forintnál nem lehet kevesebb. A szorzót évente ezerrel növelni kell mindaddig, amíg a terület az eredeti állapotának helyreállítása elfogadásra kerül.
 
-3. A járulék mértékének megállapításakor minden olyan megkezdett évet egész évnek kell tekinteni, amelyben a terület mezőgazdasági termeléssel nem hasznosítható.
+3. A járulék mértékének megállapításakor minden olyan megkezdett évet egész évnek kell tekinteni, amelyben a terület mezőgazdasági hasznosításra alkalmatlanná vált.
 
 4. A termőföld engedély nélküli más célú hasznosításakor
 
