@@ -1,6 +1,6 @@
 ## A Pálinka Nemzeti Tanács
 
-10. § (1) A Pálinka Nemzeti Tanács önkormányzattal és nyilvántartott tagsággal rendelkező köztestület, amely a pálinka előállításának, származásának, minőségének és eredetvédelmének egységes szabályozásához és annak végrehajtásához fűződő közös magyar érdek előmozdításával, a pálinka előállításával kapcsolatban az előállítók képviseletével összefüggő, a 11. és 12. §-ban foglalt országos közfeladatokat lát el.
+10. § (1) A Pálinka Nemzeti Tanács önkormányzattal és nyilvántartott tagsággal rendelkező köztestület, amely a pálinka előállításának, származásának, minőségének és földrajzi jelzés oltalmának egységes szabályozásához és annak végrehajtásához fűződő közös magyar érdek előmozdításával, a pálinka előállításával kapcsolatban az előállítók képviseletével összefüggő, a 11. és 12. §-ban foglalt országos közfeladatokat lát el.
 
 (2) A Pálinka Nemzeti Tanács jogi személy, székhelye Budapest.
 

@@ -1,10 +1,10 @@
-11. § (1) A Pálinka Nemzeti Tanács a származás-, minőség- és eredetvédelemmel kapcsolatos ügyekben
+11. § (1) A Pálinka Nemzeti Tanács a pálinka származásával, minőségével és földrajzi jelzésének oltalmával kapcsolatos ügyekben
 
-a) vizsgálja az oltalom alatt álló földrajzi jelzéssel rendelkező pálinka, törkölypálinka termékleírások betartását és kezdeményezi az uniós földrajzi jelzés oltalommal összefüggő jogérvényesítést;
+a) vizsgálja a földrajzi jelzés oltalommal rendelkező pálinka termékleírások betartását és kezdeményezi a földrajzi jelzés oltalommal összefüggő jogérvényesítést;
 
-b) szakmai véleményt nyilvánít a pálinkák földrajzi árujelző oltalma iránti kérelmekkel kapcsolatos eljárásban;
+b) szakmai véleményt nyilvánít a pálinka földrajzi jelzés oltalma iránti kérelmekkel kapcsolatos eljárásban;
 
-c) kapcsolatot tart nemzetközi eredetvédelmi szervezetekkel;
+c) kapcsolatot tart a szellemi tulajdon védelmével foglalkozó nemzetközi szervezetekkel;
 
 d) a pálinka egységes minősítése és laboratóriumi vizsgálata érdekében együttműködik a pálinkaellenőrző hatósággal és a vámhatósággal;
 

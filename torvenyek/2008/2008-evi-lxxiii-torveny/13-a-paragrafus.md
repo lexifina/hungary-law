@@ -1,8 +1,8 @@
 ## A Pálinka Nemzeti Tanács szervezete és működése
 
-13/A. § (1) A Pálinka Nemzeti Tanács tagjai a törvény erejénél fogva a pálinka-előállítókat képviselő olyan szakmai érdekvédelmi szervezetek, amelyek legalább öt lezárt gazdasági évvel rendelkeznek és ezen időszak minden évében legalább tíz szeszfőzde adóraktár-engedéllyel rendelkező tagjuk van, továbbá önkéntes alapon a Pálinka Nemzeti Tanács tagja lehet az a szakmai érdekvédelmi szervezet, amelyet kérelmére a Pálinka Nemzeti Tanács tagként felvesz (a továbbiakban együtt: szakmai szervezetek).
+13/A. § (1) A Pálinka Nemzeti Tanács tagjai a törvény erejénél fogva a pálinka-előállítókat képviselő olyan szakmai érdekvédelmi szervezetek, amelyek legalább öt lezárt gazdasági évvel rendelkeznek és ezen időszak minden évében legalább tíz, a 2208 20 28, 2208 20 88, 2208 90 33, 2208 90 38, 2208 90 48, 2208 90 71 KN-kód szerinti alkoholterméket előállító, adóraktári engedéllyel rendelkező tagjuk (a továbbiakban: adóraktár engedélyes tag) van, továbbá önkéntes alapon a Pálinka Nemzeti Tanács tagja lehet az a szakmai érdekvédelmi szervezet, amelyet kérelmére a Pálinka Nemzeti Tanács tagként felvesz (a továbbiakban együtt: szakmai szervezetek).
 
-(2) A Pálinka Nemzeti Tanácsban minden szakmai szervezet a szeszfőzde adóraktár-engedéllyel rendelkező tagjai száma alapján képviselteteti magát. A Pálinka Nemzeti Tanácsban minden szakmai szervezetet egy fő képvisel (a továbbiakban: képviselő), amelyet minden 30. szeszfőzde adóraktári engedéllyel rendelkező tagja után további egy fő képviselő egészít ki.
+(2) A Pálinka Nemzeti Tanácsban minden szakmai szervezet az adóraktár engedélyes tagjai száma alapján képviselteti magát. A Pálinka Nemzeti Tanácsban minden szakmai szervezetet egy fő képvisel (a továbbiakban: képviselő), amelyet minden 30. adóraktár engedélyes tagja után további egy fő képviselő egészít ki.
 
 (3) Minden képviselőt egy szavazati jog illet meg azzal, hogy egy szakmai szervezet az összes szavazat legfeljebb 40%-ával rendelkezhet akkor is, ha többre lenne jogosult.
 
@@ -22,7 +22,7 @@ f) által képviselt szakmai szervezetnek a Pálinka Nemzeti Tanácsban való ta
 
 (5) A Pálinka Nemzeti Tanácsot alkotó szakmai szervezetekről és azok képviselőiről névjegyzéket kell készíteni. A névjegyzékbe vételt a szakmai szervezetnek kell kezdeményeznie. A tagsági jogait csak a nyilvántartásba vett tag gyakorolhatja. A névjegyzékben bekövetkezett változásokat folyamatosan vezetni kell. A névjegyzéket a Pálinka Nemzeti Tanács honlapján közzé kell tenni.
 
-(6) A szakmai szervezetek évente tájékoztatást adnak a Pálinka Nemzeti Tanács részére a szeszfőzde adóraktári engedéllyel rendelkező tagjaikról. A szakmai szervezeteknek haladéktalanul tájékoztatniuk kell a Pálinka Nemzeti Tanácsot a szeszfőzde adóraktári engedéllyel rendelkező tagjaik számának változásáról.
+(6) A szakmai szervezetek évente tájékoztatást adnak a Pálinka Nemzeti Tanács részére az adóraktár engedélyes tagjaikról. A szakmai szervezeteknek haladéktalanul tájékoztatniuk kell a Pálinka Nemzeti Tanácsot az adóraktár engedélyes tagjaik számának változásáról.
 
 (7) A szakmai szervezet joga, hogy
 

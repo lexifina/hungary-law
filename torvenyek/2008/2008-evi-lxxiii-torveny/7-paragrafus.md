@@ -1,1 +1,1 @@
-7. § Az országos pálinkaverseny feltételeit, a pálinkaminősítés, valamint a pálinka érzékszervi bírálók képzésének szabályait külön jogszabály tartalmazza.
+7. § Az országos pálinka- és törkölypálinka-verseny feltételeit, a pálinkaminősítés, valamint a pálinka érzékszervi bírálók képzésének szabályait az e törvény végrehajtására kiadott jogszabály tartalmazza.

@@ -2,7 +2,7 @@
 
 (2) Felhatalmazást kap az agrárpolitikáért felelős miniszter arra, hogy
 
-a) az országos pálinka- és törkölypálinkaverseny feltételeit,
+a) az országos pálinka- és törkölypálinka-verseny feltételeit,
 
 b) a pálinka- és a törkölypálinka-minősítés szabályait,
 

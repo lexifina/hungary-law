@@ -1,14 +1,14 @@
 13/B. § (1) A Pálinka Nemzeti Tanács a jogszabályban meghatározott feladatai ellátása érdekében informatikai rendszert működtet, amelynek során jogosult nyilvántartani:
 
-a) a szakmai szervezetek nevét, címét, továbbá a szakmai szervezetek szeszfőzde adóraktári engedéllyel rendelkező tagjainak nevét és a szeszfőzde adóraktári engedély számát;
+a) a szakmai szervezetek nevét, címét, továbbá a szakmai szervezetek adóraktár engedélyes tagjainak nevét és az adóraktári engedély számát;
 
 b) a szakmai szervezetek képviselőinek természetes személyazonosító adatait és az elektronikus levelezési címét;
 
-c) az uniós földrajzi jelzés oltalom alatt álló pálinka és törkölypálinka előállítására jogosult vállalkozások nevét, címét;
+c) a földrajzi jelzés oltalommal rendelkező pálinka előállítására jogosult vállalkozások nevét, címét;
 
 d) a pálinka érzékszervi bírálók természetes személyazonosító adatait, a végzettséget igazoló okirat adatait, valamint az elektronikus levelezési címét;
 
-e) a pálinka versenyre benyújtott nevezéseknél a nevezési lapon szereplő adatokat;
+e) az országos pálinka- és törkölypálinka-versenyre benyújtott nevezéseknél a nevezési lapon szereplő adatokat;
 
 f) a 13. §-ban meghatározott, az adópolitikáért felelős miniszter által átadott adatokat.
 

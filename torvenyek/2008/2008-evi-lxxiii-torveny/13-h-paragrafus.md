@@ -2,7 +2,7 @@
 
 13/H. § (1) Az elnök a Pálinka Nemzeti Tanács képviseletét önállóan gyakorolja, jogkörét az Alapszabályban meghatározott módon átruházhatja. Az elnök munkáját legfeljebb két alelnök segíti.
 
-(2) Az elnököt a Pálinka Nemzeti Tanács tagjai választják meg.
+(2) Az elnököt a Pálinka Nemzeti Tanács tagjainak delegált képviselői választják meg.
 
 (3) Az elnök
 
