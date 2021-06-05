@@ -12,9 +12,11 @@ a) ha az erdőgazdálkodó – jogi személy esetén törvényes képviselője, 
 
 b) az erdészeti szakirányítói névjegyzékben jogosult erdészeti szakszemélyzeti kiemelt besorolással „érvényes” szakirányítói státuszban szereplő jogosult erdészeti szakszemélyzet munkaviszony keretében történő alkalmazása,
 
-c) az erdészeti szakirányítói névjegyzékben „érvényes” szakirányítói státuszban szereplő erdészeti szakirányító vállalkozás megbízása
+c) az erdészeti szakirányítói névjegyzékben „érvényes” szakirányítói státuszban szereplő erdészeti szakirányító vállalkozás megbízása,
 
-[az a)–c) pont a továbbiakban együtt: alkalmazott szakirányító].
+d) az őstermelők családi gazdasága erdőgazdálkodásában a tag személyes közreműködése, amennyiben a tag az erdészeti szakirányítói névjegyzékben jogosult erdészeti szakszemélyzeti kiemelt besorolással „érvényes” szakirányítói státuszban szereplő jogosult erdészeti szakszemélyzet
+
+[az a)–d) pont a továbbiakban együtt: alkalmazott szakirányító].
 
 (3) Erdészeti szakirányításra jogosult
 

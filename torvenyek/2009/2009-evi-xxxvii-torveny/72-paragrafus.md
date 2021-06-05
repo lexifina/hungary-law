@@ -12,7 +12,7 @@ c) azt az ingatlan ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve
 
 (1a) Az erdészeti hatóság az érintett terület alapulvételével erdőfelújítási biztosíték nyújtását írja elő, ha az állam 100%-os tulajdonában nem álló erdőben az erdőgazdálkodó, ennek hiányában a földhasználatra jogosult személy túllépi az erdőfelújítás megkezdésére és pótlására vonatkozó határidőt.
 
-(1b) Az (1a) bekezdés szerinti erdőfelújítási biztosítékot az erdészeti hatóság a tevékenység elvégzésének műszaki átvétele után 60 napon belül felszabadítja.
+(1b) Az (1a) bekezdés szerinti erdőfelújítási biztosítékot az erdészeti hatóság a tevékenység elvégzésének bejelentését követő 15 napon belül elvégzett műszaki átvétele után 45 napon belül felszabadítja.
 
 (2) Az (1) bekezdés a) pontjának alkalmazása tekintetében a határidő-túllépést
 

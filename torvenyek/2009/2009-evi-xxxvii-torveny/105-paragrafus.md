@@ -42,6 +42,6 @@ irányuló eljárásban.
 
 (7) Az erdő igénybevételének engedélyezésére vagy elvi engedélyezésére irányuló eljárásban súlyos eljárási jogszabálysértésként semmisségi oknak minősül, ha az erdészeti hatóság a közérdekűség vagy a kivételesség e törvény szerinti vizsgálata nélkül dönt.
 
-(8) Bírság kiszabása iránti eljárásban, ha a bírságolásra az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
+(8) Bírság kiszabására, illetve a 72. § (1a) bekezdés szerinti erdőfelújítási biztosíték nyújtásának előírására irányuló eljárásban, ha a döntésre az erdő állapotának vizsgálata és értékelése alapján kerül sor, és ezért az erdészeti hatóság a bizonyítási eljárás részeként helyszíni szemlét tart, a szemlén való részvételre az erdőgazdálkodónak vagy az őt képviselő jogosult erdészeti szakszemélyzetnek az erdészeti hatóság lehetőséget biztosít.
 
 (9)

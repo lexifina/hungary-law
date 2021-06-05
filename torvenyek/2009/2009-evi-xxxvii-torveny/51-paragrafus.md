@@ -12,7 +12,7 @@ a) annak véghasználatát követően,
 
 b) ha az összefüggően ötezer négyzetmétert meghaladó területen bármilyen okból kipusztult, illetve hiányzik, és az erdészeti hatóság az érintett területen az erdő fátlan állapotban tartását nem engedélyezte, vagy
 
-c) ha annak záródása összefüggően két hektárt meghaladó területen hatvan – felnyíló erdő esetén harminc, felnyitott erdő esetén ötven – százalék alá csökkent,
+c) ha annak záródása összefüggően két hektárt meghaladó területen hatvan – felnyíló erdő esetén harminc, felnyitott erdő vagy talajvédelmi rendeltetésű erdő esetén ötven – százalék alá csökkent,
 
 az erdőgazdálkodónak az e fejezetben foglaltak szerint az e törvény végrehajtására kiadott jogszabályban meghatározott határidőig fel kell újítania.
 
