@@ -40,4 +40,6 @@ vagy az általuk delegált személyt nevezi ki, illetve kéri fel.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-11. Hatályát veszti a Giro d'Italia országúti kerékpáros körverseny első három szakaszának 2020. évi magyarországi megrendezéséhez szükséges szervező bizottság létrehozásáról szóló 1200/2019. (IV. 15.) Korm. határozat.
+11.[^1]
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
