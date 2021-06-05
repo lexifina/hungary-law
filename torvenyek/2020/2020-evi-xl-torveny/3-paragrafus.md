@@ -13,3 +13,5 @@ foglaltak szerint jár el.
 a) védett természeti területeknek az Nfatv. szerinti vagyonkezelésbe adásáról,
 
 b) a védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény szerinti védelemre tervezett természeti területek hasznosításáról a védetté nyilvánításig.
+
+(4) A termelőszövetkezeti földhasználati joggal érintett, önálló helyrajzi számon nyilvántartott utakat – ha azok nem a szövetkezet tulajdonát képezik – a Nemzeti Földalap kezeléséért felelős szerv legkésőbb 2021. december 31. napjáig az illetékes települési önkormányzat, a fővárosban a Fővárosi Önkormányzat tulajdonába vagy – a Fővárosi Önkormányzat nyilatkozata alapján – a kerületi önkormányzat tulajdonába adja. A védett vagy védelemre tervezett természeti területhez tartozó utak az állam tulajdonába és a védett vagy védelemre tervezett természeti területen működő nemzeti park igazgatóságnak a vagyonkezelésébe kerülnek.
