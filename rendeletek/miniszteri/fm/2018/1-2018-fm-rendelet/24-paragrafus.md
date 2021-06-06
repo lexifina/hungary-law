@@ -1,9 +1,11 @@
-## 24. § Ez a rendelet a következő közösségi előírások végrehajtásához szükséges rendelkezéseket állapítja meg
+## 24. §[^74] Ez a rendelet
 
-a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről
+a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének,
 
-szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 46. cikke,
+b) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 46. cikkének,
 
-b) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazatban megvalósuló nemzeti támogatási programok tekintetében történő kiegészítéséről és az 555/2008/EK bizottsági rendelet módosításáról szóló, 2016. április 15-i 2016/1149/EU felhatalmazáson alapuló bizottsági rendelet 12–16. cikke, valamint
+c) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazatban megvalósuló nemzeti támogatási programok tekintetében történő kiegészítéséről és az 555/2008/EK bizottsági rendelet módosításáról szóló, 2016. április 15-i (EU) 2016/1149 bizottsági rendelet 12–16. cikkének és
 
-c) a borágazatban megvalósuló nemzeti támogatási programok tekintetében az 1308/2013/EU európai parlamenti és tanácsi rendelet alkalmazása szabályainak megállapításáról szóló, 2016. április 15-i 2016/1150/EU bizottsági végrehajtási rendelet 7. cikke.
+d) a borágazatban megvalósuló nemzeti támogatási programok tekintetében az 1308/2013/EU európai parlamenti és tanácsi rendelet alkalmazása szabályainak megállapításáról szóló, 2016. április 15-i (EU) 2016/1150 bizottsági rendelet 7. cikkének
+
+[^74]: A 24. § a 22/2021. (VI. 3.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
