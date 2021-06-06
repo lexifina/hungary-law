@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-70-20-2
 | 2017-12-30 | 2012-70-20-2Y.10 | 68/2017. (XII. 27.) FM rendelet |
 | 2018-07-30 | 2012-70-20-2Y.11 | 19/2018. (VII. 27.) AM rendelet |
 | 2020-09-28 | 2012-70-20-2Y.12 | 46/2020. (IX. 23.) AM rendelet |
+| 2021-06-06 | 2012-70-20-2Y.13 | 22/2021. (VI. 3.) AM rendelet |

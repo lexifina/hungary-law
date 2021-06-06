@@ -1,17 +1,17 @@
-## 21. § A támogatási kérelmet részben el kell utasítani, vagy a kifizetett támogatási összeget részben vissza kell fizetni, amennyiben:
+21. §[^55] (1) A támogatási kérelmet részben el kell utasítani, vagy a kifizetett támogatási összeget részben vissza kell fizetni, ha:
 
-a)[^55] a Kincstár a 10. § (5) bekezdése, valamint 12. § (4) bekezdése szerint a lepárlóüzemek által benyújtott jelentések alapján azt állapítja meg, hogy a lepárlóüzem részére kifizetett támogatási összeg meghaladja az e rendelet 15. § (2) bekezdésében meghatározott felső határt, ez esetben a visszafizetendő támogatási összeg a kifizetett teljes támogatási összeg és a megállapított felsőhatár különbsége,
+a) a Kincstár a 10. § (5) bekezdése, valamint 12. § (4) bekezdése szerint a lepárlóüzemek által benyújtott jelentések alapján azt állapítja meg, hogy a lepárlóüzem részére kifizetett támogatási összeg meghaladja a 15. § (2) bekezdésében meghatározott felső határt, a visszafizetendő támogatási összeg a kifizetett teljes támogatási összeg és a megállapított felsőhatár különbsége,
 
-b)[^56] a Kincstár, a vámhatóság vagy a NÉBIH ellenőrzése a hasznosításra történő kiadáskor megállapítja, hogy a kiadott ipari célú nyers alkohol alkoholtartalma nem éri el a 92 térfogatszázalékot, ez esetben a visszafizetendő támogatási összeget a mintával reprezentált ipari célú nyers alkohol mennyiség alapján kell meghatározni,
+b) a Kincstár, a vámhatóság vagy a NÉBIH ellenőrzése a hasznosításra történő kiadáskor megállapítja, hogy a kiadott ipari célú nyers alkohol alkoholtartalma nem éri el a 92 térfogatszázalékot, a visszafizetendő támogatási összeget a mintával reprezentált ipari célú nyers alkohol mennyisége alapján kell meghatározni,
 
-c)[^57] a Kincstár, a vámhatóság vagy a NÉBIH ellenőrzése megállapítja, hogy a készleten talált ipari célú nyers alkohol alkoholtartalma nem éri el a 92 térfogatszázalékot, ez esetben a visszafizetendő támogatási összeget a mintával reprezentált ipari célú nyers alkohol mennyiség alapján kell meghatározni,
+c) a Kincstár, a vámhatóság vagy a NÉBIH ellenőrzése megállapítja, hogy a készleten talált ipari célú nyers alkohol alkoholtartalma nem éri el a 92 térfogatszázalékot, a visszafizetendő támogatási összeget a mintával reprezentált ipari célú nyers alkohol mennyiség alapján kell meghatározni,
 
-d)[^58] a Kincstár azt állapítja meg, hogy a lepárlóüzem az ipari célú nyers alkoholt a 19. § (1) bekezdése szerinti előzetes értesítés benyújtása nélkül adja át a hasznosítónak, ez esetben a visszafizetendő támogatási összeget az értesítés nélkül átadott ipari célú nyers alkohol mennyisége alapján kell meghatározni,
+d) a Kincstár azt állapítja meg, hogy a lepárlóüzem az ipari célú nyers alkoholt a 19. § (1) bekezdése szerinti előzetes értesítés benyújtása nélkül adja át a hasznosítónak, a visszafizetendő támogatási összeget az értesítés nélkül átadott ipari célú nyers alkohol mennyisége alapján kell meghatározni,
 
-e)[^59] a Kincstár azt állapítja meg, hogy a lepárlóüzem az ipari célú nyers alkoholt a 19. § (3) bekezdése szerinti nyilatkozat benyújtása nélkül adja át a hasznosítónak, ez esetben a visszafizetendő támogatási összeget a nyilatkozat nélkül átadott ipari célú nyers alkohol mennyisége alapján kell meghatározni.
+e) a Kincstár azt állapítja meg, hogy a lepárlóüzem az ipari célú nyers alkoholt a 19. § (3) bekezdése szerinti nyilatkozat benyújtása nélkül adja át a hasznosítónak, a visszafizetendő támogatási összeget a nyilatkozat nélkül átadott ipari célú nyers alkohol mennyisége alapján kell meghatározni.
 
-[^55]: A 21. § a) pontja a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja szerint módosított szöveg.
-[^56]: A 21. § b) pontja a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 184. § f) pontja szerint módosított szöveg.
-[^57]: A 21. § c) pontja a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 184. § f) pontja szerint módosított szöveg.
-[^58]: A 21. § d) pontja a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja szerint módosított szöveg.
-[^59]: A 21. § e) pontja a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja szerint módosított szöveg.
+(2) Az intézkedésben való jogosulatlan részvételnek minősül, ha az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének alkalmazásában az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek (3) bekezdés szerinti mesterséges megteremtését előidéző jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés fennállását az arra hatáskörrel rendelkező szerv megállapítja.
+
+(3) Az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályi előírások megsértésével történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése akkor áll fenn, ha bármely természetes vagy jogi személy a 12. §-ban meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el a támogatás céljával ellentétes előnyök megszerzése érdekében.
+
+[^55]: A 21. § a 22/2021. (VI. 3.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.

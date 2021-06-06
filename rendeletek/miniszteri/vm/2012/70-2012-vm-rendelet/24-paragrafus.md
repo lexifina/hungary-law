@@ -1,7 +1,7 @@
-## 24. § E rendelet
+## 24. §[^57] Ez a rendelet
 
-a)[^61] a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 52. cikkének,
+a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének és
 
-b) a borpiac közös szervezéséről szóló 479/2008/EK tanácsi rendeletnek a támogatási programok, a harmadik országokkal folytatott kereskedelem, a termelési potenciál és borágazat ellenőrzése tekintetében történő végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 27-i 555/2008/EK bizottsági rendelet II. Cím II. fejezet 7. szakaszának,
+b) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 52. cikkének
 
-[^61]: A 24. § a) pontja a 68/2017. (XII. 27.) FM rendelet 8. §-ával megállapított szöveg.
+[^57]: A 24. § a 22/2021. (VI. 3.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
