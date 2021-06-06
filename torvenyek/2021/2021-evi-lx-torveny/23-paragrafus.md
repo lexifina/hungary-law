@@ -1,3 +1,1 @@
-23. § A Tfvt. a következő 1/B. §-sal egészül ki:
-
-„1/B. § E törvény alkalmazásában, ha a termőföld állami tulajdonban áll, akkor a tulajdonos alatt az ingatlan-nyilvántartásba bejegyzett vagyonkezelőt, ennek hiányában a tulajdonosi joggyakorló szervezetet kell érteni.”
+23. §

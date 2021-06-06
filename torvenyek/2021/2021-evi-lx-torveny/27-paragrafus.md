@@ -1,3 +1,1 @@
-27. § A Tfvt. 8/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha a termőföld végleges más célú hasznosításával járó tervezett beruházást a Kormány nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggő üggyé nyilvánította, és a beruházó – a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló törvényben meghatározottak szerint – a földvédelmi eljárás lefolytatását a környezeti hatásvizsgálati eljárás keretében kéri lefolytatni, az érintett termőföldnek a földvédelmi szakkérdés vizsgálata alapján engedélyezhető végleges más célú hasznosítása esetén – a 22. § (1) bekezdésében foglaltaktól eltérően – a környezetvédelmi engedély részét nem képezi a földvédelmi járulék összegének a megállapításáról és megfizetéséről szóló rendelkezés.”
+27. §

@@ -1,1 +1,1 @@
-63. § Az Éltv. 47/B. § (7) bekezdésében a „3. § 19. pontja szerinti mezőgazdasági kistermelő” szövegrész helyébe az „50. § (2) bekezdése alapján az átalányadózás választására jogosult mezőgazdasági őstermelő” szöveg lép.
+63. §

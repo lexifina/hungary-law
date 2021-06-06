@@ -1,3 +1,1 @@
-72. § A Ptv. 13/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Pálinka Nemzeti Tanács tagjai a törvény erejénél fogva a pálinka-előállítókat képviselő olyan szakmai érdekvédelmi szervezetek, amelyek legalább öt lezárt gazdasági évvel rendelkeznek és ezen időszak minden évében legalább tíz, a 2208 20 28, 2208 20 88, 2208 90 33, 2208 90 38, 2208 90 48, 2208 90 71 KN-kód szerinti alkoholterméket előállító, adóraktári engedéllyel rendelkező tagjuk (a továbbiakban: adóraktár engedélyes tag) van, továbbá önkéntes alapon a Pálinka Nemzeti Tanács tagja lehet az a szakmai érdekvédelmi szervezet, amelyet kérelmére a Pálinka Nemzeti Tanács tagként felvesz (a továbbiakban együtt: szakmai szervezetek).”
+72. §

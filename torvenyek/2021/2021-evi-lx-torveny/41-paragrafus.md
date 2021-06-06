@@ -1,5 +1,1 @@
-41. § A Tfvt. 24. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(4) Az (1) bekezdés a) pont aa) és ab) alpontja, valamint b) pont ba) alpontja szerinti földvédelmi bírságot a földhasználati nyilvántartásba bejegyzett földhasználóval szemben kell kiszabni. Ha a földhasználati nyilvántartásban nincs bejegyzett földhasználó, a földvédelmi bírságot a tulajdonossal, haszonélvezet fennállása esetén a haszonélvezővel szemben kell kiszabni. Ha az érintett földrészletnek a földhasználati nyilvántartás szerint több földhasználója van, vagy az érintett földrészlet közös tulajdonban áll, a földvédelmi bírság megfizetésének a kötelezettsége a földhasználókat vagy a tulajdonosokat, illetve haszonélvezőket egyetemlegesen terheli.
-
-(5) Az (1) bekezdés a) pont ac) alpontja, b) pont bb)–be) alpontja, valamint a c)–g) pontja szerinti földvédelmi bírságot az igénybevevővel szemben kell kiszabni. Ha az igénybevevő személyének megállapítására irányuló eljárás eredménytelen vagy az igénybevevő jogutód nélkül megszűnt, az igénybevevő személyének megállapítására a 16. § (2) és (3) bekezdésében foglaltakat kell alkalmazni. Ha több igénybevevő van, a földvédelmi bírság megfizetésének kötelezettsége az igénybevevőket egyetemlegesen terheli.”
+41. §

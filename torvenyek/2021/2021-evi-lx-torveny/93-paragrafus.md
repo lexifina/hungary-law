@@ -1,3 +1,1 @@
-93. § A MÁOKtv.a következő 56. §-sal egészül ki:
-
-„56. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény és a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosításáról szóló 2020. évi LIII. törvény hatálybalépésekor már praxisengedéllyel rendelkező társas vállalkozás esetében a 38. § (2a) bekezdésében foglalt feltételnek a tulajdoni hányad, illetve a legfőbb döntéshozó szervben fennálló szavazati jogok arányának az egyes agrártárgyú törvények módosításáról szóló 2021. évi LX. törvény hatálybalépését követő első megváltoztatásától kell megfelelni.”
+93. §

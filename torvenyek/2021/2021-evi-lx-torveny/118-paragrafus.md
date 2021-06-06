@@ -1,3 +1,1 @@
-118. § A Foktftv. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A tulajdonostársak az egyezség keretében kötelesek rendelkezni a megosztásra kerülő ingatlant érintő jogoknak és tényeknek a megosztás eredményeként létrejövő új ingatlanokra történő átjegyzéséről, kivéve, ha a jog vagy tény igazolt módon megszűnt. A tulajdonostársak az egyezség keretében kötelesek továbbá rendelkezni a megosztásra kerülő ingatlan vonatkozásában a tulajdonostársak valamelyikének tulajdonában álló, a földtől elválaszthatatlan vagyontárgyak tulajdonba adásáról és értékének megtérítéséről vagy további használatuk feltételeinek a meghatározásáról.”
+118. §
