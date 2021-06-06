@@ -2,24 +2,26 @@
 
 a) Bahreini Királyság,
 
-b) Cseh Köztársaság,
+b) Ciprusi Köztársaság,
 
-c) Észak-macedón Köztársaság,
+c) Cseh Köztársaság,
 
-d) Georgia,
+d) Észak-macedón Köztársaság,
 
-e) Horvát Köztársaság,
+e) Georgia,
 
-f) Moldovai Köztársaság,
+f) Horvát Köztársaság,
 
-g) Mongólia,
+g) Moldovai Köztársaság,
 
-h) Montenegrói Köztársaság,
+h) Mongólia,
 
-i) Szerb Köztársaság,
+i) Montenegrói Köztársaság,
 
-j) Szlovén Köztársaság,
+j) Szerb Köztársaság,
 
-k) Török Köztársaság.
+k) Szlovén Köztársaság,
 
-[^1]: Az 1. § a 18/2021. (V. 31.) KKM rendelet 1. §-ával megállapított szöveg.
+l) Török Köztársaság.
+
+[^1]: Az 1. § a 20/2021. (VI. 5.) KKM rendelet 1. §-ával megállapított szöveg.
