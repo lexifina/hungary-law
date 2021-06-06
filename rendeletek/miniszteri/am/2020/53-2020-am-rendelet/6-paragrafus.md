@@ -2,7 +2,7 @@
 
 6. § (1) A kifizetési kérelem
 
-a) a 4. § (1) bekezdés a) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan 2021. május 17. és június 15. között,
+a)[^7] a 4. § (1) bekezdés a) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan 2021. május 17. és június 15. között, vagy az (1a) bekezdésben meghatározott esetben és feltételekkel 2021. november 30. és december 21. között,
 
 b) a 4. § (1) bekezdés b) pontjában meghatározott határidőben benyújtott támogatási kérelmekre vonatkozóan 2021. november 30. és december 21. között,
 
@@ -10,9 +10,11 @@ c) a 4. § (1) bekezdés c) pontjában meghatározott határidőben benyújtott 
 
 elektronikus úton nyújtható be a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az E-ügyintézési törvényben foglaltaknak megfelelően a Kincstárhoz az elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
 
+(1a)[^8] A kifizetési kérelem az (1) bekezdés a) pontjában meghatározott későbbi időszakban akkor nyújtható be, ha a jóváhagyott támogatási kérelemben szereplő borászati gép, technológiai berendezés szállítása a szállító részéről igazoltan, a koronavírus-járvány kezelésére bevezetett szigorító intézkedések miatt a megrendelésben foglaltak szerinti időszakban nem teljesíthető, és a szállítás olyan időpontban történt, amely már nem tette lehetővé a borászati gép, technológiai berendezés üzembe helyezését és a kifizetési kérelem 2021. június 15. napjáig történő benyújtását. A kifizetési kérelemhez a szállítás késedelméről vagy időpontjának változásáról a szállító által megküldött értesítést csatolni kell.
+
 (2) Kifizetési kérelmet kizárólag – a 7. §-ban foglalt eset kivételével – az a kérelmező nyújthat be, aki vagy amely a Kincstár által jóváhagyott támogatási kérelemmel rendelkezik.
 
-(3) Egy kérelmező egy benyújtási időszakban egy kifizetési kérelmet nyújthat be.
+(3)[^9] A kérelmező a támogatási kérelemhez kapcsolódóan egy kifizetési kérelmet nyújthat be.
 
 (4) A kifizetési kérelem tartalmazza
 
@@ -48,7 +50,7 @@ af) a borászati gép, technológiai berendezés műszaki adatait tartalmazó, a
 
 b) a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a 127/2009. (IX. 29.) FVM rendeletben meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
 
-c)[^7] az üzemeltetési hely szerinti üzemre vonatkozó, az adott borászati gép, technológiai berendezés szabályszerű működtetését lehetővé tevő, a kérelmező nevére kiállított működési engedély másolatát;
+c)[^10] az üzemeltetési hely szerinti üzemre vonatkozó, az adott borászati gép, technológiai berendezés szabályszerű működtetését lehetővé tevő, a kérelmező nevére kiállított működési engedély másolatát;
 
 d) az angoltól eltérő idegen nyelven kiállított dokumentum esetében a szakfordítói szakképesítéssel rendelkező személy által készített hiteles magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói szakképesítésének igazolását és
 
@@ -78,7 +80,10 @@ e) borászati gép, technológiai berendezés vagy annak bármely, egy ajánlatt
 
 f) a borászati gép, technológiai berendezés nem tartalmaz egyedi azonosításra alkalmas jelölést.
 
-g)[^8] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
+g)[^11] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
 
-[^7]: A 6. § (5) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^8]: A 6. § (11) bekezdés g) pontját a 18/2021. (IV. 14.) AM rendelet 38. § (2) bekezdése iktatta be.
+[^7]: A 6. § (1) bekezdés a) pontja a 22/2021. (VI. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (1a) bekezdését a 22/2021. (VI. 3.) AM rendelet 5. § (2) bekezdése iktatta be.
+[^9]: A 6. § (3) bekezdése a 22/2021. (VI. 3.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^10]: A 6. § (5) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
+[^11]: A 6. § (11) bekezdés g) pontját a 18/2021. (IV. 14.) AM rendelet 38. § (2) bekezdése iktatta be.
