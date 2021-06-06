@@ -2,7 +2,7 @@
 
 9. § (1) Egyéni terv
 
-a)[^2] 2020-ban november 16. és december 13. között,
+a)[^6] 2020-ban november 16. és december 13. között,
 
 b) 2021-től minden évben november 2. és 30. között
 
@@ -10,4 +10,7 @@ b) 2021-től minden évben november 2. és 30. között
 
 (2) Egy benyújtási időszakban egy kérelmező kizárólag egy egyéni tervet nyújthat be.
 
-[^2]: A 9. § (1) bekezdés a) pontja az 59/2020. (XI. 30.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+(3)[^7] Egyéni terv nem nyújtható be olyan területre, amelyet az egyéni terv benyújtását megelőző tíz borpiaci éven belül új telepítési engedély alapján telepítettek.
+
+[^6]: A 9. § (1) bekezdés a) pontja az 59/2020. (XI. 30.) AM rendelet 3. § b) pontja szerint módosított szöveg.
+[^7]: A 9. § (3) bekezdését a 22/2021. (VI. 3.) AM rendelet 7. §-a iktatta be.

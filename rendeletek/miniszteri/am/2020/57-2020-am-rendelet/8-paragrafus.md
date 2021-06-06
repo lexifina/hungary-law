@@ -6,7 +6,7 @@ a) amelynek telepítését az egyéni terv benyújtását követően kezdik meg,
 
 b) amely az egyéni terv benyújtását megelőző tíz borpiaci éven belül szerkezetátalakítási támogatásban nem részesült,
 
-c)[^1] amely a b) pontban meghatározott időszakot megelőző öt borpiaci évben szerkezetátalakítási és átállítási támogatásban – kivéve a kizárólag az ültetvény támberendezésének megújítását célzó támogatást – nem részesült,
+c)[^5] amely a b) pontban meghatározott időszakot megelőző öt borpiaci évben szerkezetátalakítási és átállítási támogatásban – kivéve a kizárólag az ültetvény támberendezésének megújítását célzó támogatást – nem részesült,
 
 d) amelyre vonatkozóan a kérelmező rendelkezik újratelepítési engedéllyel vagy átváltott telepítési engedéllyel, és
 
@@ -30,4 +30,4 @@ e) amely a hegybíró igazolása alapján az egyéni tervben megjelölt terület
 
 (5) A miniszter tájékoztatja a Kincstárt az elismeréssel rendelkező integrációs szervezetekről, amelyet a Kincstár közleményben közzétesz.
 
-[^1]: A 8. § (1) bekezdés c) pontja az 59/2020. (XI. 30.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: A 8. § (1) bekezdés c) pontja az 59/2020. (XI. 30.) AM rendelet 3. § a) pontja szerint módosított szöveg.

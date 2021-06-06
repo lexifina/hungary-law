@@ -40,7 +40,7 @@
 
 | 19. | a termeléskiesést ellentételező kompenzáció |  |  |  | 2 400 | – |
 
-2. melléklet az 57/2020. (XI. 13.) AM rendelethez
+2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^15]
 
 1. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – fajtaváltás, áttelepítés
 
@@ -62,7 +62,7 @@
 
 | 8. | A kérelmező igazolja, hogy az elmúlt öt borpiaci év átlagában az általa művelt szőlőterület legalább 65%-ának termését legalább öt évre szóló, az 1308/2013/EU rendelet 168. cikkének megfelelő szerződés keretében értékesítette |  | 14 |
 
-| 9. | A kérelmező elismert integrációs szervezet tagja |  | 14 |
+| 9. | A kérelmező a 24/2020. (VI. 22.) AM rendelet 2. § (4) bekezdés a) pontjában foglalt feltételek alapján elismert termelői integrációs szervezet tagja. |  | 14 |
 
 | 10. | 10.1. A kérelmező 10.2. A kérelmező természetes személy 10.3. A kérelmező természetes személy közeli hozzátartozójának tulajdonában álló vállalkozás 10.4. A kérelmező vállalkozás természetes személy tagja 10.5. A kérelmező vállalkozás természetes személy tagjának közeli hozzátartozója, vagy 10.6. A kérelmező vállalkozással kapcsolt vállalkozási viszonyban lévő vállalkozásként rendelkezik borászati üzemengedéllyel |  | 14 |
 
@@ -104,7 +104,7 @@
 
 2. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – termesztéstechnológiai módszerek javítása
 
-|  | A | B | C |
+|  |  | A | B | C |
 
 | 1. | Javasolt szempont | Maximális pontérték | Pontérték |
 
@@ -112,44 +112,50 @@
 
 | 3. | Az ültetvény kora legalább tizenöt év | 5 | 5 |
 
-| 4. | A tőke tenyészterülete szerint számított tőkesűrűség az érintett területen | 20 |  |
+| 4. | Az ültetvény állapota vagy az ültetvényről származó termés minősége | 20 |  |
 
-| 5. | a) legalább 5000 tő/hektár |  | 20 |
+| 5. | Az ültetvényről az egyéni terv benyújtását megelőzően leadott utolsó négy, nem nullás szüreti jelentésben foglalt adatok alapján a szüretelt szőlő cukortartalma és hozama mindegyik évben legalább 20° MM cukortartalom, legfeljebb 6000 kg/hektár |  | 20 |
 
-| 6. | b) legalább 4000 tő/hektár, de nem éri el az 5000 tő/hektárt |  | 19 |
+| 6. | Az ültetvényről az egyéni terv benyújtását megelőzően leadott utolsó négy, nem nullás szüreti jelentésben foglalt adatok alapján a szüretelt szőlő cukortartalma és hozama mindegyik évben legalább 18° MM cukortartalom, legfeljebb 8000 kg/hektár |  | 19 |
 
-| 7. | B. A kérelmező háttere |
+| 7. | A tőke tenyészterülete szerint számított tőkesűrűség az érintett területen legalább 5000 tő/hektár |  | 20 |
 
-| 8. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet 12. számú melléklet I. pontjában meghatározott, illetve azoknak megfeleltethető iskolai végzettségek valamelyikével | 1 | 1 |
+| 8. | A tőke tenyészterülete szerint számított tőkesűrűség az érintett területen legalább 4000 tő/hektár, de nem éri el az 5000 tő/hektárt |  | 19 |
 
-| 9. | C. A beruházással érintett terület jellemzői |
+| 9. | B. A kérelmező háttere |
 
-| 10. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma | 3 |  |
+| 10. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet 12. számú melléklet I. pontjában meghatározott vagy azoknak megfeleltethető iskolai végzettségek valamelyikével | 1 | 1 |
 
-| 11. | a) legalább 344 pont |  | 3 |
+| 11. | C. A beruházással érintett terület jellemzői |
 
-| 12. | b) legalább 309 pont, de kevesebb, mint 344 pont |  | 2,5 |
+| 12. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma | 3 |  |
 
-| 13. | c) legalább 275 pont, de kevesebb, mint 309 pont |  | 2 |
+| 13. | a) legalább 344 pont |  | 3 |
 
-| 14. | d) legalább 210 pont, de kevesebb, mint 275 pont |  | 1 |
+| 14. | b) legalább 309 pont, de kevesebb, mint 344 pont |  | 2,5 |
 
-| 15. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma legalább 200 pont | 15 | 15 |
+| 15. | c) legalább 275 pont, de kevesebb, mint 309 pont |  | 2 |
 
-| 16. | Régiófejlesztési terv státusz | 1 |  |
+| 16. | d) legalább 210 pont, de kevesebb, mint 275 pont |  | 1 |
 
-| 17. | a) tevékenységgel érintett terület a világörökségről szóló 2011. évi LXXVII. törvény 2. § 5. pontja szerinti világörökségi területen található |  | 1 |
+| 17. | A tevékenységgel érintett terület borszőlő termőhelyi kataszterben rögzített pontszáma legalább 200 pont | 15 | 15 |
 
-| 18. | b) a tevékenységgel érintett terület nemzeti turisztikai fejlesztési tervvel érintett területen található |  | 0,5 |
+| 18. | Régiófejlesztési terv státusz | 1 |  |
 
-| 19. | D. A beruházás egyéb jellemzői |
+| 19. | a) tevékenységgel érintett terület a világörökségről szóló 2011. évi LXXVII. törvény 2. § 5. pontja szerinti világörökségi területen található |  | 1 |
 
-| 20. | Az egyéni tervben szereplő összefüggő területek egybeszámított terület nagysága | 3 |  |
+| 20. | b) a tevékenységgel érintett terület nemzeti turisztikai fejlesztési tervvel érintett területen található |  | 0,5 |
 
-| 21. | a) 20 és 30 hektár között van |  | 2 |
+| 21. | D. A beruházás egyéb jellemzői |
 
-| 22. | b) 20 hektár alatt van |  | 3 |
+| 22. | Az egyéni tervben szereplő összefüggő területek egybeszámított terület nagysága | 3 |  |
 
-| 23. | Az egyéni tervben szereplő támberendezés felújítással érintett területek egybeszámított területnagysága 5 hektár alatt van | 2 | 2 |
+| 23. | a) 20 és 30 hektár között van |  | 2 |
 
-| 24. | Összesen elérhető pontszám | 50 |  |
+| 24. | b) 20 hektár alatt van |  | 3 |
+
+| 25. | Az egyéni tervben szereplő támberendezés felújítással érintett területek egybeszámított területnagysága 5 hektár alatt van | 2 | 2 |
+
+| 26. | Összesen elérhető pontszám | 50 |  |
+
+[^15]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a szerint módosított szöveg.
