@@ -14,5 +14,11 @@
 
 (7) Ha a kérelmező a 9. § j) pontja szerinti nyilatkozata ellenére a program végrehajtása során készített honlap üzemeltetését, frissítését és fenntartását elmulasztja, az adott akcióra vagy akciókra kifizetett támogatási jogosulatlanul igénybe vett támogatásnak minősül.
 
+(8)[^64] Az intézkedésben való jogosulatlan részvételnek minősül, ha az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének alkalmazásában az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek (9) bekezdés szerinti mesterséges megteremtését előidéző jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés fennállását az arra hatáskörrel rendelkező szerv megállapítja.
+
+(9)[^65] Az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályi előírások megsértésével történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése akkor áll fenn, ha bármely természetes vagy jogi személy az (EU) 2016/1149 bizottsági rendelet 10. cikkében meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el a támogatás céljával ellentétes előnyök megszerzése érdekében.
+
 [^62]: A 17. § (4) bekezdése az 56/2020. (XI. 6.) AM rendelet 29. § 9. és 29. pontja szerint módosított szöveg.
 [^63]: A 17. § (5) bekezdése az 56/2020. (XI. 6.) AM rendelet 29. § 9. pontja szerint módosított szöveg.
+[^64]: A 17. § (8) bekezdését a 22/2021. (VI. 3.) AM rendelet 4. § (1) bekezdése iktatta be.
+[^65]: A 17. § (9) bekezdését a 22/2021. (VI. 3.) AM rendelet 4. § (1) bekezdése iktatta be.

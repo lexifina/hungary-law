@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-3-20-7R
 | 2020-06-30 | 2020-3-20-7R.2 | 34/2020. (VI. 29.) AM rendelet |
 | 2020-10-17 | 2020-3-20-7R.3 | 50/2020. (X. 16.) AM rendelet |
 | 2020-11-07 | 2020-3-20-7R.4 | 56/2020. (XI. 6.) AM rendelet |
+| 2021-06-06 | 2020-3-20-7R.5 | 22/2021. (VI. 3.) AM rendelet |
