@@ -1,8 +1,9 @@
-2. § (1) Az R. 18. cikke szerinti bizonyos információkkal kísérendő hulladékok („zöldlistás” hulladékok) szállításához e rendelet 3. számú mellékletében meghatározott, kitöltött űrlap szükséges.
+2. § (1)[^14] Az R. 18. cikke szerinti bizonyos információkkal kísérendő hulladékok („zöldlistás” hulladékok) szállításához az R. VII. mellékletében meghatározott, kitöltött űrlap (a továbbiakban: VII-es kísérődokumentum) szükséges.
 
-(2)[^11] „Zöldlistás” hulladék kivitele esetén a címzettnek a szállítmány átvételét igazoló aláírását is tartalmazó űrlap másolatát negyedévente, a negyedévet követő hónap 30-ig az R. 18. cikk (1) bekezdés a) pontja szerinti, a küldő ország joghatósága alá tartozó, szállítást szervező személynek meg kell küldenie az országos környezetvédelmi hatóság részére.
+(2)[^15] „Zöldlistás” hulladék kivitele esetén az R. 18. cikk (1) bekezdés a) pontja szerinti, a küldő ország joghatósága alá tartozó, szállítást szervező személynek – a 3. számú melléklet 1. pontja szerinti adattartalommal – negyedévente, a negyedévet követő hónap harmincadik napjáig adatszolgáltatást kell teljesítenie.
 
-(3)[^12] „Zöldlistás” hulladék behozatal esetén a szállítmányt kísérő, e rendelet 3. számú melléklete szerinti, a címzett által aláírt űrlap másolatát, a szállítmány beérkezését követő nyolc napon belül a címzettnek meg kell küldenie az országos környezetvédelmi hatóság részére.
+(3)[^16] „Zöldlistás” hulladék behozatala esetén a címzettnek – a 3. számú melléklet 2. pontja szerinti adattartalommal – a szállítmány beérkezését követő nyolc napon belül adatszolgáltatást kell teljesítenie.
 
-[^11]: A 2. § (2) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 98. § b) pontja szerint módosított szöveg.
-[^12]: A 2. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (91) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 98. § b) pontja szerint módosított szöveg.
+[^14]: A 2. § (1) bekezdése a 302/2021. (VI. 1.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^15]: A 2. § (2) bekezdése a 302/2021. (VI. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: A 2. § (3) bekezdése a 302/2021. (VI. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
