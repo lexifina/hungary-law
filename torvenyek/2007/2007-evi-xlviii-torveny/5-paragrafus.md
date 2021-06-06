@@ -1,1 +1,0 @@
-5. § A Rendelet 6. és 7. cikkében foglalt esetekben a vámhatóság a 4. § (1) bekezdése szerinti adatokat megkeresésre vagy hivatalból továbbíthatja más tagállamok és harmadik országok hatáskörrel rendelkező nemzeti hatóságai részére, illetve továbbítja a Bizottság részére.
