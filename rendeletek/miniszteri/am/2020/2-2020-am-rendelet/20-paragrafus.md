@@ -1,1 +1,1 @@
-## összhangban álló rendelkezéseket állapít meg.
+## végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -16,5 +16,11 @@
 
 (8) Ezen § szerinti jogkövetkezményeket nem kell alkalmazni, ha a kérelmező a programjavaslatban vállalt akciókat azért nem tudja megvalósítani, mert az akció megvalósítási helye szerinti tagállam a program megvalósítási ideje alatt az Európai Unióból kilépett.
 
+(9)[^65] Az intézkedésben való jogosulatlan részvételnek minősül, ha az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikkének alkalmazásában az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételek (10) bekezdés szerinti mesterséges megteremtését előidéző jogellenes magatartás és a támogatás céljával ellentétes előny elérése közötti ok-okozati összefüggés fennállását az arra hatáskörrel rendelkező szerv megállapítja.
+
+(10)[^66] Az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályi előírások megsértésével történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése akkor áll fenn, ha bármely természetes vagy jogi személy az (EU) 2016/1149 bizottsági rendelet 7. cikkében meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el a támogatás céljával ellentétes előnyök megszerzése érdekében.
+
 [^63]: A 17. § (4) bekezdése az 56/2020. (XI. 6.) AM rendelet 14. § 7. és 26. pontja szerint módosított szöveg.
 [^64]: A 17. § (5) bekezdése az 56/2020. (XI. 6.) AM rendelet 14. § 7. pontja szerint módosított szöveg.
+[^65]: A 17. § (9) bekezdését a 22/2021. (VI. 3.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^66]: A 17. § (10) bekezdését a 22/2021. (VI. 3.) AM rendelet 3. § (1) bekezdése iktatta be.

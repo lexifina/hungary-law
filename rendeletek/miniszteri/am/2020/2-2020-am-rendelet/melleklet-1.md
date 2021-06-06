@@ -1,6 +1,6 @@
-## 20. §[^66] E rendeletnek az egyes szőlő-bor ágazati agrártámogatásokkal összefüggő rendeletek módosításáról szóló 34/2020. (VI. 29.) AM rendelettel [a továbbiakban: 34/2020. (VI. 29.) AM rendelet] megállapított 15/A. §-át a 34/2020. (VI. 29.) AM rendelet hatálybalépésekor[^67] folyamatban lévő eljárásokban is alkalmazni kell.
+## 20. §[^68] E rendeletnek az egyes szőlő-bor ágazati agrártámogatásokkal összefüggő rendeletek módosításáról szóló 34/2020. (VI. 29.) AM rendelettel [a továbbiakban: 34/2020. (VI. 29.) AM rendelet] megállapított 15/A. §-át a 34/2020. (VI. 29.) AM rendelet hatálybalépésekor[^69] folyamatban lévő eljárásokban is alkalmazni kell.
 
-1. melléklet a 2/2020. (II. 28.) AM rendelethez[^68]
+1. melléklet a 2/2020. (II. 28.) AM rendelethez[^70]
 
 |  | A | B |
 
@@ -26,6 +26,6 @@
 
 | 11. | A benyújtó vállalja a program hatásait és eredményességét értékelő, a benyújtótól, valamint a végrehajtó szervezettől független szervezet által készített hatástanulmány benyújtását a 16. § (4) bekezdésében foglaltaknak megfelelően | 10 |
 
-[^66]: A 20. §-t a 34/2020. (VI. 29.) AM rendelet 14. §-a iktatta be.
-[^67]: A hatálybalépés időpontja 2020. június 30.
-[^68]: Az 1. melléklet az 56/2020. (XI. 6.) AM rendelet 14. § 26. pontja szerint módosított szöveg.
+[^68]: A 20. §-t a 34/2020. (VI. 29.) AM rendelet 14. §-a iktatta be.
+[^69]: A hatálybalépés időpontja 2020. június 30.
+[^70]: Az 1. melléklet az 56/2020. (XI. 6.) AM rendelet 14. § 26. pontja szerint módosított szöveg.
