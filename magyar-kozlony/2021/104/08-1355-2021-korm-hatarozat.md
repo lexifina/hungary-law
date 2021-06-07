@@ -1,0 +1,25 @@
+# A Kormány 1355/2021. (VI. 7.) Korm. határozata
+
+Magyar Közlöny 2021. évi 104. szám, 2021. június 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/PTYHbHCciqK3xeGEzFAa60b69abed9076/dokumentumok/a02ebaa07153cedde0617449110b145316f67a4c/letoltes)
+
+---
+
+A Kormány 1355/2021. (VI. 7.) Korm. határozata
+a Zöld-foki Köztársaság részére COVID-19 vakcina adományozásáról
+A Kormány, figyelemmel a koronavírus világjárvány következtében előállt európai járványügyi helyzetre
+1. az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (2) bekezdés b) pontjában foglaltakra
+figyelemmel, a Vtv. 36. § (3) bekezdésében foglalt jogkörében eljárva dönt az állam tulajdonában álló, 100 000 adag
+AstraZeneca COVID-19 Vaxzevria vakcina (a továbbiakban együtt: vagyonelemek) ingyenes tulajdonba adásáról
+a Zöld-foki Köztársaság részére;
+2. felhívja az emberi erőforrások miniszterét, hogy – a Nemzeti Népegészségügyi Központ bevonásával –
+gondoskodjon a vagyonelemeknek az 1. pontban meghatározott célból történő rendelkezésre bocsátásáról;
+Felelős: emberi erőforrások minisztere
+Határidő: azonnal
+3. felhívja a külgazdasági és külügyminisztert, hogy vegye fel a kapcsolatot a Zöld-foki Köztársaság kijelölt
+képviselőjével, ezt követően – az emberi erőforrások minisztere bevonásával – gondoskodjon a 2. pont szerint
+rendelkezésre bocsátott vagyonelemek 1. pont szerinti átadásának végrehajtásáról.
+Felelős: külgazdasági és külügyminiszter
+emberi erőforrások minisztere
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
