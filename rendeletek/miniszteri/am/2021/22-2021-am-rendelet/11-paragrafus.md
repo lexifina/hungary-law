@@ -1,7 +1,5 @@
-## lép.
+## 6–10. §[^7]
 
 ## 7. Hatályon kívül helyező rendelkezések
 
-11. § (1) Hatályát veszti a borászati termékek krízislepárlási támogatásáról szóló 40/2019. (VIII. 30.) AM rendelet.
-
-(2) Hatályát veszti a borászati termékek krízislepárlására a 2020. évben igényelhető támogatásról szóló 21/2020. (VI. 19.) AM rendelet.
+[^7]: A 6–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
