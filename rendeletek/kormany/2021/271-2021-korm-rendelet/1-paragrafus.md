@@ -28,7 +28,7 @@
 
 14. az egészségügyi és az egészségügyben dolgozók, a nevelési, oktatási intézményekben nevelési, oktatási tevékenységet végző dolgozók, a szociális intézményekben dolgozók, valamint a bölcsődei ellátásban dolgozók SARS-CoV-2 koronavírus kimutatására alkalmas rendszeres vizsgálatáról és az egészségügyi ellátással összefüggő egyes kérdésekről szóló 509/2020. (XI. 19.) Korm. rendelet,
 
-15. a veszélyhelyzet idején a parkolást könnyítő intézkedésekről szóló 512/2020. (XI. 21.) Korm. rendelet,
+15.[^1]
 
 16. az Országos Kórházi Főigazgatóságról szóló 506/2020. (XI. 17.) Korm. rendelettől eltérő, veszélyhelyzet idején alkalmazandó szabályokról szóló 517/2020. (XI. 25.) Korm. rendelet,
 
@@ -52,7 +52,7 @@
 
 26. a veszélyhelyzet ideje alatt egyes településfejlesztési, településrendezési és településkép-védelmi szabályok eltérő alkalmazásáról szóló 546/2020. (XII. 2.) Korm. rendelet,
 
-27. a földeken fennálló osztatlan közös tulajdon felszámolására irányuló kérelmek benyújthatóságának elhalasztásáról szóló 547/2020. (XII. 2.) Korm. rendelet,
+27.[^2]
 
 28. a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó rendkívüli intézkedésekről szóló 548/2020. (XII. 2.) Korm. rendelet,
 
@@ -102,7 +102,7 @@
 
 51. a veszélyhelyzet ideje alatt az építkezések egyszerű bejelentéssel történő megvalósíthatóságának kiterjesztéséről szóló 687/2020. (XII. 29.) Korm. rendelet,
 
-52. a veszélyhelyzet ideje alatt a családi gazdaságok nyilvántartásba vételének sajátos szabályairól szóló 688/2020. (XII. 29.) Korm. rendelet,
+52.[^3]
 
 53. a veszélyhelyzet ideje alatt elektronikus úton megkötött pénzügyi szolgáltatási szerződésekről szóló 689/2020. (XII. 29.) Korm. rendelet,
 
@@ -130,7 +130,7 @@
 
 65. a veszélyhelyzet ideje alatt a külföldről érkező hallgatók egészségügyi alkalmassági vizsgálatát érintő egyes szabályokról szóló 16/2021. (I. 22.) Korm. rendelet,
 
-66. a vadászjegy kiállítására vagy érvényesítésére irányuló eljárás sajátos szabályairól szóló 17/2021. (I. 22.) Korm. rendelet,
+66.[^4]
 
 67. a minimálbérhez kapcsolódó jogosultságok felülvizsgálatáról szóló 21/2021. (I. 28.) Korm. rendelet,
 
@@ -153,3 +153,8 @@
 76. az egyes, az egészségügyi szolgálati jogviszonnyal összefüggő veszélyhelyzeti szabályokról szóló 69/2021. (II. 19.) Korm. rendelet,
 
 77. a nemzetgazdaság működőképességének megőrzése céljából a nyersanyag-ellátás veszélyhelyzet időszaka alatt történő megfelelő biztosítása érdekében a bányászatról szóló 1993. évi XLVIII. törvény és kapcsolódó kormányrendeletek, valamint a termőföld védelméről szóló 2007. évi CXXIX. törvény egyes rendelkezéseinek eltérő alkalmazásáról szóló 78/2021. (II. 19.) Korm. rendelet
+
+[^1]: Az 1. § 15. pontját a 309/2021. (VI. 7.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § 27. pontját a 309/2021. (VI. 7.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^3]: Az 1. § 52. pontját a 309/2021. (VI. 7.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^4]: Az 1. § 66. pontját a 309/2021. (VI. 7.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
