@@ -1,14 +1,14 @@
 ## 3. Az eljárási jelentés
 
-4. § (1)[^7] Az eljáró hatósági állatorvos a járványügyi intézkedések végrehajtását követő három napon belül, két példányban megküldi a járási hivatalnak
+4. § (1)[^9] Az eljáró hatósági állatorvos a járványügyi intézkedések végrehajtását követő három napon belül, két példányban megküldi a járási hivatalnak
 
 a) a járványügyi intézkedéseket elrendelő határozat végrehajtásáról szóló eljárási jelentést,
 
 b) a 3. § (5) bekezdése szerinti esetekben rögzített jegyzőkönyvet,
 
-c)[^8] a 9. § (2) bekezdésében meghatározott határozat végrehajtásáról készült jelentést.
+c)[^10] a 9. § (2) bekezdésében meghatározott határozat végrehajtásáról készült jelentést.
 
-(2)[^9] Az eljáró hatósági állatorvos az (1) bekezdésben foglalt dokumentumokat a járványügyi intézkedések végrehajtását követő három napon belül megküldi a megyei kormányhivatal részére is, amennyiben a járványügyi intézkedéseket a megyei kormányhivatal rendelte el.
+(2)[^11] Az eljáró hatósági állatorvos az (1) bekezdésben foglalt dokumentumokat a járványügyi intézkedések végrehajtását követő három napon belül megküldi a megyei kormányhivatal részére is, amennyiben a járványügyi intézkedéseket a megyei kormányhivatal rendelte el.
 
 (3) Az eljárási jelentésnek tartalmaznia kell
 
@@ -32,7 +32,7 @@ de) egészségi állapotát,
 
 df) elhullott, leölt állatok ártalmatlanításának módját, helyét,
 
-e)[^10] vágásra utalt állatok esetében a vágás helyét, elkülönített vagy zárt vágás esetén a vágást végrehajtó engedélyezett létesítmény nevét, címét, FELIR azonosító számát,
+e)[^12] vágásra utalt állatok esetében a vágás helyét, elkülönített vagy zárt vágás esetén a vágást végrehajtó engedélyezett létesítmény nevét, címét, FELIR azonosító számát,
 
 f) a leöléssel, ártalmatlanítással, valamint megsemmisítéssel érintett fertőzésközvetítő anyagok, eszközök, tárgyak, élelmiszerek és takarmányok, állati eredetű melléktermék, állati eredetű termék
 
@@ -46,7 +46,10 @@ fd) ártalmatlanításának, illetve megsemmisítésének módját vagy fertőtl
 
 g) a szükség esetén elrendelt egyéb járványügyi intézkedésekről szóló tájékoztatást.
 
-[^7]: A 4. § (1) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § b) pontja szerint módosított szöveg.
-[^8]: A 4. § (1) bekezdés c) pontja a 29/2016. (IV. 11.) FM rendelet 9. § c) pontja szerint módosított szöveg.
-[^9]: A 4. § (2) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § d) pontja szerint módosított szöveg.
-[^10]: A 4. § (3) bekezdés e) pontja a 29/2016. (IV. 11.) FM rendelet 4. §-ával megállapított szöveg.
+(4)[^13] Amennyiben az országos főállatorvos az Éltv. 42. § (4) bekezdése szerint határozatot hoz, a járványügyi intézkedéseket elrendelő határozat végrehajtásáról szóló eljárási jelentés helyett az országos főállatorvos határozatában elrendelt bizonylatot kell benyújtani.
+
+[^9]: A 4. § (1) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés c) pontja a 29/2016. (IV. 11.) FM rendelet 9. § c) pontja szerint módosított szöveg.
+[^11]: A 4. § (2) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § d) pontja szerint módosított szöveg.
+[^12]: A 4. § (3) bekezdés e) pontja a 29/2016. (IV. 11.) FM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 4. § (4) bekezdését a 7/2021. (III. 10.) AM rendelet 2. §-a iktatta be.

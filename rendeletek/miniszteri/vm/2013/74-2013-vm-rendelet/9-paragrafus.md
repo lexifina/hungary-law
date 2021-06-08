@@ -14,7 +14,7 @@ c) az állatok, – vágóhídon történt betegség-megállapítás esetén –
 
 d) a szállítás, vágás, darabolás, hűtés, feldolgozás, állati eredetű melléktermék ártalmatlanítás, fertőtlenítés becsült költségét,
 
-e) az élelmiszerek értékesítéséből származó bevételnek a Minisztérium részére való befizetési kötelezettségét és ennek határidejét, ha a zárt vagy elkülönített vágásból származó élelmiszer hasznosítható,
+e)[^37] az élelmiszerek értékesítéséből származó bevételnek az agrárpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részére való befizetési kötelezettségét és ennek határidejét, ha a zárt vagy elkülönített vágásból származó élelmiszer hasznosítható,
 
 f) az e) pont szerinti befizetési kötelezettség elmulasztásának jogkövetkezményeit.
 
@@ -32,6 +32,13 @@ d) az elkülönített, illetve zárt vágás végrehajtása során felmerült �
 
 (7) A (6) bekezdés szerinti elszámolást a vágóhidat, valamint feldolgozóüzemet felügyelő hatósági állatorvos ellenjegyzi.
 
-(8) A (6) bekezdés szerinti elszámolás alapján, a végrehajtást végző aktív közreműködő az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki az elkülönített vagy zárt vágást elrendelő hatóság nevére. Az aktív közreműködő a számlát és a (6) bekezdés szerinti elszámolást a számla kiállítását követő nyolc napon belül megküldi az eljáró hatóságnak. Az eljáró hatóság a számlát tizenöt napon belül megküldi a NÉBIH részére. Ha az elkülönített vagy zárt vágás végrehajtását elrendelő határozatban hasznosíthatóként megjelölt összes élelmiszer, vagy azok egy része időközben járványügyi okból értékesíthetetlenné vált, akkor az eljáró hatóság köteles az eredeti határozatot módosítani, és annak a NÉBIH felé történő közléséről gondoskodni.
+(8)[^38] A (6) bekezdés szerinti elszámolás alapján, a végrehajtást végző aktív közreműködő az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a megyei kormányhivatal nevére. Az aktív közreműködő a számlát és a (6) bekezdés szerinti elszámolást a számla kiállítását követő nyolc napon belül megküldi a megyei kormányhivatalnak. A megyei kormányhivatal intézkedik a számla kifizetéséről az aktív közreműködő felé, valamint a számlát és az aktív közreműködést elrendelő határozatot a végrehajtást követően tizenöt napon belül megküldi a NÉBIH-nek, igazolva, hogy a számla kibocsátására az általa elrendelt járványügyi intézkedések végrehajtása alatt került sor. A NÉBIH a számla összegét az előirányzat terhére téríti meg a megyei kormányhivatal részére.
 
-(9) A NÉBIH az elkülönített vagy zárt vágás költségeit a számlák beérkezésétől számított hatvan napon belül megtéríti az aktív közreműködőnek, feltéve, hogy az aktív közreműködő a (4) bekezdés e) pontja szerinti befizetési kötelezettségeit már teljesítette.
+(8a)[^39] Ha az elkülönített vagy zárt vágás végrehajtását elrendelő határozatban hasznosíthatóként megjelölt összes élelmiszer, vagy azok egy része időközben járványügyi okból értékesíthetetlenné vált, akkor az eljáró hatóság az eredeti határozatot módosítja, és azt a NÉBIH-hel közli.
+
+(9)[^40]
+
+[^37]: A 9. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés j) pontja szerint módosított szöveg.
+[^38]: A 9. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 7. §-ával megállapított szöveg.
+[^39]: A 9. § (8a) bekezdését a 7/2021. (III. 10.) AM rendelet 7. §-a iktatta be.
+[^40]: A 9. § (9) bekezdését a 7/2021. (III. 10.) AM rendelet 12. § b) pontja hatályon kívül helyezte.
