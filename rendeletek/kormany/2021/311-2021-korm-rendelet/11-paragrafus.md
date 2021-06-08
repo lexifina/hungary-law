@@ -1,0 +1,1 @@
+11. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 23/D. § (3) bekezdés nyitó szövegrészében az „A Diákhitel szervezettel kötött” szövegrész helyébe az „A veszélyhelyzet következtében felvehető hallgatói hitelszerződések kivételével a Diákhitel szervezettel kötött” szöveg lép.
