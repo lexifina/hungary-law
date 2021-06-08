@@ -6,7 +6,7 @@ a) aki a szakképzésről szóló 2019. évi LXXX. törvény szerinti szakképz�
 
 b) aki a felnőttképzésről szóló 2013. évi LXXVII. törvény 2/A. § (2) bekezdés a) pontja szerinti, legalább három hónapos képzési időt meghaladó képzéshez vagy nemzetgazdasági szempontból kiemelt jelentőségű képzéshez kapcsolódóan felnőttképzési jogviszonnyal
 
-rendelkezik.
+## rendelkezik.
 
 (2) A képzési hitel felvételének feltétele, hogy a képzésben részt vevő
 

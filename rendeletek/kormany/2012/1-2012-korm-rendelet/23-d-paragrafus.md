@@ -2,7 +2,7 @@
 
 (2) A képzési hitel törlesztését a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnését követő harmadik hónap elteltével egyenlő összegű (annuitásos) törlesztőrészlet számítási módszere alapján kell megkezdeni. A törlesztés időtartamát a hitelfelvevő a képzési hitelre vonatkozó szerződés megkötésekor választhatja meg években úgy, hogy az legalább egy és legfeljebb tíz év lehet, amelybe nem számít bele a szünetelés időtartama. A képzési hitelhez kapcsolódóan a törlesztés mérséklése nem kezdeményezhető.
 
-(3) A Diákhitel szervezettel kötött hitelszerződés alapján fennálló törlesztési kötelezettség szünetel
+(3)[^103] A veszélyhelyzet következtében felvehető hallgatói hitelszerződések kivételével a Diákhitel szervezettel kötött hitelszerződés alapján fennálló törlesztési kötelezettség szünetel
 
 a) a 23/B. § (1) bekezdés a) pontja szerinti esetben, ha a képzésben részt vevő a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnését követő első év utolsó napjáig felsőoktatási intézménnyel szakképzettség megszerzése céljából hallgatói jogviszonyt létesít,
 
@@ -21,3 +21,5 @@ c) a 16. § (2a) bekezdése szerinti egészségkárosodás alapján benyújtott 
 (6) A folyósításra, az előtörlesztésre, a 19. § (1) bekezdés b) pontja kivételével a megszűnésre, a törlesztés szüneteltetésére, a célzott kamattámogatásra, a hiteltartozásra igényelhető gyermektámogatásra, a hitelszerződés felmondására, a felmondott hitelszerződésből eredő követelés behajtására, számviteli elszámolására, továbbá a hitelszerződésre a hallgatói hitelre vonatkozó szabályokat kell alkalmazni az ezen alcímben foglalt eltérésekkel. A képzési hitelhez kapcsolódó kamattámogatás elszámolására a kötött felhasználású hallgatói hitelhez kapcsolódó kamattámogatás elszámolására vonatkozó szabályokat kell alkalmazni.
 
 (7) A képzési hitelt igénybe vevő nő a 18/A–18/D. § szerinti gyermektámogatást a képzési hitel folyósítását követően született vagy örökbe fogadott gyermek esetében veheti igénybe.
+
+[^103]: A 23/D. § (3) bekezdés nyitó szövegrésze a 311/2021. (VI. 7.) Korm. rendelet 11. §-a szerint módosított szöveg.

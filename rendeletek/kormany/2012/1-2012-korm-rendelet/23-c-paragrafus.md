@@ -12,7 +12,7 @@ a) a 23/B. § (1) bekezdés a) pontja szerinti esetben tanulmányi évenként le
 
 b) a 23/B. § (1) bekezdés b) pontja szerinti esetben képzésenként legfeljebb 500 000 forint összegben, nemzetgazdasági szempontból kiemelt jelentőségű képzés esetén legfeljebb a képzési díj mértékéig
 
-vehető fel.
+## vehető fel.
 
 (6) Nemzetgazdasági szempontból kiemelt jelentőségű képzés esetén, ha a kötött felhasználású képzési hitel összege meghaladja az 5 000 000 forintot, a felnőttképző készfizető kezességet vállal a képzési hitelre.
 
