@@ -20,8 +20,10 @@ i) Montenegrói Köztársaság,
 
 j) Szerb Köztársaság,
 
-k) Szlovén Köztársaság,
+k) Szlovák Köztársaság,
 
-l) Török Köztársaság.
+l) Szlovén Köztársaság,
 
-[^1]: Az 1. § a 20/2021. (VI. 5.) KKM rendelet 1. §-ával megállapított szöveg.
+m) Török Köztársaság.
+
+[^1]: Az 1. § a 21/2021. (VI. 8.) KKM rendelet 1. §-ával megállapított szöveg.
