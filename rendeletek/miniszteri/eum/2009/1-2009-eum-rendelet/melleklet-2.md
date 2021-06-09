@@ -446,6 +446,8 @@
 
 | 4 | Emberi Erőforrások Minisztériuma | 10032000-01425190-00000000 |
 
+| 4a | Országos Kórházi Főigazgatóság | 10032000-00362241-00000000 |
+
 | 5 | Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
 | 6 | Baranya Megyei Kormányhivatal | 10024003-00301019-00000000 |
@@ -486,4 +488,4 @@
 
 | 24 | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése szerint módosított szöveg.
