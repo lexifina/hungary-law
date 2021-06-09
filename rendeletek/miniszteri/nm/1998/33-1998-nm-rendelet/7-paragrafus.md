@@ -26,7 +26,7 @@ b) az iskolaorvos;
 
 c) a háziorvos, illetve a kezelőorvos minden olyan heveny vagy idült betegség után, amely a munkavállaló, illetve a munkát végző személy munkaalkalmasságát befolyásolhatja;
 
-d)[^45] a fővárosi és megyei kormányhivatal munkavédelmi hatósági és munkaügyi hatósági feladatkörében eljáró járási (fővárosi kerületi) hivatala;
+d)[^45] a fővárosi és megyei kormányhivatal mint munkavédelmi hatóság;
 
 e) a munkáltató, a szakképző és felsőoktatási intézmény vezetője;
 
@@ -37,5 +37,5 @@ g) a munkavállaló, a munkát végző személy, a tanuló vagy a hallgató.
 [^42]: A 7. § (1) bekezdés a) pontja a 8/2010. (III. 31.) SZMM rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^43]: A 7. § (1) bekezdésének d) pontja a 61/1999. ( XII.1.) EüM rendelet 18.§-a (2) bekezdésének b) pontjával megállapított szöveg.
 [^44]: A 7. § (1) bekezdésének g) pontját a 34/2007. (XII. 21.) SZMM rendelet 4. § (2) bekezdése iktatta be.
-[^45]: A 7. § (3) bekezdés d) pontja az 54/2016. (XII. 30.) EMMI rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^45]: A 7. § (3) bekezdés d) pontja a 21/2021. (VI. 8.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^46]: A 7. § (3) bekezdés f) pontja a 41/2012. (XII. 20.) NGM rendelet 11. § b) pontjával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 18. § d) pontja szerint módosított szöveg.

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-33-20-3
 | 2017-09-19 | 1998-33-20-3D.26 | 19/2017. (IX. 18.) EMMI rendelet |
 | 2017-10-30 | 1998-33-20-3D.27 | 27/2000. (IX. 30.) EüM rendelet |
 | 2021-01-01 | 1998-33-20-3D.28 | 27/2000. (IX. 30.) EüM rendelet |
+| 2021-06-09 | 1998-33-20-3D.29 | 21/2021. (VI. 8.) EMMI rendelet |

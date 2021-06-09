@@ -1,4 +1,4 @@
-## 6K86528M_0
+## 1X04572M_0
 
 | Kóroki tényező | Időszakos munkaalkalmassági vizsgálatok gyakorisága | Megjegyzés |
 
@@ -126,7 +126,7 @@
 
 | trinitro-toluol (trotyl) | félévenként |  |
 
-| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az illetékes fővárosi és megyei kormányhivatal munkavédelmi hatósági és munkaügyi hatósági feladatkörében eljáró járási (fővárosi kerületi) hivatala állapíthatja meg, a munkáltató által előzetesen megszerzett, a munkahigiénés és foglalkozás- egészségügyi szerv által kiállított szakvélemény alapján (a szakvéleményhez a por mérési ered- mények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok a munkahigiénés és foglalkozás-egészségügyi szerv szakrendelésén, valamint a pécsi Megyei Tüdőgyógyintézetben történnek |
+| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az illetékes fővárosi és megyei kormányhivatal mint munkavédelmi hatóság állapíthatja meg, a munkáltató által előzetesen megszerzett, a munkahigiénés és foglalkozás- egészségügyi szerv által kiállított szakvélemény alapján (a szakvéleményhez a por mérési eredmények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok a munkahigiénés és foglalkozás-egészségügyi szerv szakrendelésén történnek |
 
 | vanádium | évenként |  |
 
