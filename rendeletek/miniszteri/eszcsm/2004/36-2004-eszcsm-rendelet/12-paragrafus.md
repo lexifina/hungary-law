@@ -1,9 +1,5 @@
-12. § (1)[^16] A járási hivatal ideiglenesen felfüggesztheti vagy megtilthatja a külön jogszabályban szabályozott, az abban foglalt előírásoknak megfelelő különleges élelmiszer forgalmazását, amennyiben új információ eredményeként, vagy a meglévő információk újraértékelése alapján megállapítást nyer, hogy az veszélyezteti a fogyasztó egészségét.
+12. §[^9] (1) A 10. § (1) bekezdése szerinti feladatkörében eljárva a megyei kormányhivatal járási hivatala, illetve az OGYÉI ideiglenesen felfüggesztheti vagy megtilthatja a jogszabályban szabályozott, az abban foglalt előírásoknak megfelelő különleges élelmiszer forgalmazását, amennyiben új információ eredményeként vagy a meglévő információk újraértékelése alapján megállapítást nyer, hogy az veszélyezteti a fogyasztó egészségét.
 
-(2)[^17] Az (1) bekezdés szerinti intézkedésről a járási hivatal haladéktalanul értesíti az OÉTI-t.
+(2) Az eljáró szerv az (1) bekezdés szerinti intézkedésről haladéktalanul értesíti az országos tisztifőorvost, valamint a NÉBIH-et, közölve az intézkedés okát. A NÉBIH szükség esetén értesíti a Bizottságot és a tagállamokat.
 
-(3)[^18] Az OGYÉI az (1) bekezdés szerinti intézkedésről – a Bizottság és a tagállamok tájékoztatása érdekében – haladéktalanul értesíti a NÉBIH-et, közölve az intézkedés okát.
-
-[^16]: A 12. § (1) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 39. § (2) bekezdés c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 36. § c) pontja szerint módosított szöveg.
-[^17]: A 12. § (2) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 39. § (2) bekezdés f) pontja, az 54/2016. (XII. 30.) EMMI rendelet 36. § c) pontja szerint módosított szöveg.
-[^18]: A 12. § (3) bekezdése a 11/2013. (II. 7.) EMMI rendelet 25. § d) pontja, a 23/2015. (IV. 28.) EMMI rendelet 56. § b) pontja szerint módosított szöveg.
+[^9]: A 12. § a 21/2021. (VI. 8.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
