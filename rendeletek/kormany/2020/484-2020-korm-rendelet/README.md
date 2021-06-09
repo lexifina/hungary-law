@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-484-20-
 | 2021-05-18 | 2020-484-20-22.25 | 252/2021. (V. 17.) Korm. rendelet |
 | 2021-05-22 | 2020-484-20-22.26 | 271/2021. (V. 21.) Korm. rendelet |
 | 2021-05-23 | 2020-484-20-22.27 | 264/2021. (V. 21.) Korm. rendelet |
+| 2021-06-09 | 2020-484-20-22.28 | 314/2021. (VI. 8.) Korm. rendelet |
