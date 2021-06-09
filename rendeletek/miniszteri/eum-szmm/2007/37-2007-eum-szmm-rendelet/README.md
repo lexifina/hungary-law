@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-37-20-0
 | 2015-04-29 | 2007-37-20-0B.6 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2015-11-25 | 2007-37-20-0B.7 | 54/2015. (XI. 24.) EMMI rendelet |
 | 2017-01-01 | 2007-37-20-0B.8 | 54/2015. (XI. 24.) EMMI rendelet |
+| 2021-06-09 | 2007-37-20-0B.9 | 21/2021. (VI. 8.) EMMI rendelet |

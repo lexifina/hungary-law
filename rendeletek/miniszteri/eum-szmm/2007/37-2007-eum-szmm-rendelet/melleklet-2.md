@@ -1,6 +1,6 @@
 2. számú melléklet a 37/2007. (VII. 23.) EüM–SZMM
 
-együttes rendelethez[^9]
+együttes rendelethez[^10]
 
 I. Üdülőre, gyermeküdülőre, gyermek- és ifjúsági táborra, telepített sátortáborra vonatkozó élelmezés- és táplálkozás-egészségügyi szabályok
 
@@ -20,4 +20,4 @@ II. Nomád táborhelyre vonatkozó élelmezés- és táplálkozás-egészségüg
 
 3. Az ételkészítésben az a személy vehet részt, aki a külön jogszabályban előírt személyi higiénés alkalmassági vizsgálaton alkalmas minősítést kap.
 
-[^9]: A 2. számú melléklet e rendelet 6. § (2) bekezdése alapján 2007. szeptember 1-jén lép hatályba.
+[^10]: A 2. számú melléklet e rendelet 6. § (2) bekezdése alapján 2007. szeptember 1-jén lép hatályba.

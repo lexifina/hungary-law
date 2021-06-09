@@ -1,6 +1,6 @@
 1. számú melléklet a 37/2007. (VII. 23.) EüM–SZMM
 
-együttes rendelethez[^7]
+együttes rendelethez[^8]
 
 I. Szálláshelyek üzemeltetésének közös egészségügyi szabályai
 
@@ -14,7 +14,7 @@ I. Szálláshelyek üzemeltetésének közös egészségügyi szabályai
 
 5. A takarításhoz, tisztításhoz és fertőtlenítéshez használt eszközöket, a veszélyes anyagnak, veszélyes készítménynek nem minősülő tisztító- és fertőtlenítőszereket külön helyiségben, egyéb zárt tárolóhelyen (tisztítószerraktár, -szekrény) vagy egyéb elzárható helyen kell tartani. Ha azok a veszélyes anyagok és veszélyes készítmények közé tartoznak, akkor a külön jogszabályok előírásait kell betartani.
 
-6.[^8] A táborozás szervezőjének a táborozás megkezdése előtt tájékoztatnia kell a részvevőket arról, hogy védőoltással megelőzhető a kullancs-encephalitis, azonban a Lyme-kór ellen nem véd, ezért a kullancsirtószerek alkalmazása és a naponkénti „kullancsvizit”, valamint a felfedezett kullancsok azonnali eltávolítása szükséges.
+6.[^9] A táborozás szervezőjének a táborozás megkezdése előtt tájékoztatnia kell a részvevőket arról, hogy védőoltással megelőzhető a kullancs-encephalitis, azonban a Lyme-kór ellen nem véd, ezért a kullancsirtószerek alkalmazása és a naponkénti „kullancsvizit”, valamint a felfedezett kullancsok azonnali eltávolítása szükséges.
 
 A tájékoztatásnak ki kell terjednie a nem szokványos viselkedésű vadonélő állatok simogatásával, érintésével kapcsolatos veszélyekre is.
 
@@ -56,5 +56,5 @@ Hidrogeológiailag érzékeny területeken a helyi szikkasztást, emésztő- és
 
 6. A nomád táborozás befejezése után a táborhelyet legalább olyan tisztasági állapotban kell elhagyni, mint amilyenben az a táborozás megkezdésekor volt.
 
-[^7]: Az 1. számú melléklet e rendelet 6. § (2) bekezdése alapján 2007. szeptember 1-jén lép hatályba.
-[^8]: Az 1. számú melléklet I. pont 6. alpontja a 10/2011. (III. 30.) NEFMI rendelet 60. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 56. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^8]: Az 1. számú melléklet e rendelet 6. § (2) bekezdése alapján 2007. szeptember 1-jén lép hatályba.
+[^9]: Az 1. számú melléklet I. pont 6. alpontja a 10/2011. (III. 30.) NEFMI rendelet 60. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 56. § (2) bekezdés b) pontja szerint módosított szöveg.
