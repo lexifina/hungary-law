@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-19-20-3
 | 2017-01-01 | 1998-19-20-3D.18 | 60/2007. (XII. 29.) EüM rendelet |
 | 2017-04-01 | 1998-19-20-3D.19 | 23/2004. (IV. 1.) ESZCSM rendelet |
 | 2017-10-30 | 1998-19-20-3D.20 | 28/2017. (X. 25.) EMMI rendelet |
+| 2021-06-09 | 1998-19-20-3D.21 | 23/2004. (IV. 1.) ESZCSM rendelet |

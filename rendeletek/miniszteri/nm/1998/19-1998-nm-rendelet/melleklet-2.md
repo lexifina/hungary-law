@@ -76,7 +76,7 @@
 
 ## Közös tartalék gépjármű akkor alkalmazható, ha a betegszállító szolgáltatók közül legalább az egyik 3 vagy annál kevesebb aktív gépjárművel rendelkezik.
 
-## A tartalék gépjármű rendkívüli helyzetben a járási hivatal kijelölése alapján az aktív gépjárművek mellett is végezhet betegszállítási feladatot. A kijelölés tényéről, a rendkívüli helyzet okáról, kezdő és végső dátumáról a járási hivatal határozatban rendelkezik és azt megküldi a finanszírozó területileg illetékes szervének.
+## A tartalék gépjármű rendkívüli helyzetben az egészségügyi államigazgatási szerv kijelölése alapján az aktív gépjárművek mellett is végezhet betegszállítási feladatot. A kijelölés tényéről, a rendkívüli helyzet okáról, kezdő és végső dátumáról az egészségügyi államigazgatási szerv határozatban rendelkezik és azt megküldi a finanszírozó területileg illetékes szervének.
 
 2. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^52]
 
@@ -94,5 +94,5 @@
 [^48]: Az 1. számú melléklet II/B. 1. pont c) alpontja a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^49]: Az 1. számú melléklet II/B. pont 2. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése, a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^50]: Az 1. számú melléklet II/B. 2. pont a) alpontja a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^51]: Az 1. számú melléklet II. pont II/B. 4. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § g) pontja szerint módosított szöveg.
+[^51]: Az 1. számú melléklet II. pont II/B. 4. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § g) pontja, a 21/2021. (VI. 8.) EMMI rendelet 4. § e) pontja szerint módosított szöveg.
 [^52]: A 2. számú melléklet a 60/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § h) pontja szerint módosított szöveg.
