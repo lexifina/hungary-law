@@ -1,6 +1,6 @@
-## 6. §[^4]
+## 6. §[^3]
 
-## Bejelentéshez kötött szakértői tevékenység
+## Bejelentéshez kötött egészségügyi szociális szakértői tevékenység[^4]
 
 7. § (1)[^5]
 
@@ -14,7 +14,8 @@ rendelkezik.
 
 (3)–(6)[^7]
 
-[^4]: A 6. §-t a 8/2018. (II. 13.) EMMI rendelet 67. § c) pontja hatályon kívül helyezte.
+[^3]: A 6. §-t a 8/2018. (II. 13.) EMMI rendelet 67. § c) pontja hatályon kívül helyezte.
+[^4]: A „Bejelentéshez kötött egészségügyi szociális szakértői tevékenység” alcím címe a 21/2021. (VI. 8.) EMMI rendelet 11. § (5) bekezdésével megállapított szöveg.
 [^5]: A 7. § (1) bekezdését a 8/2018. (II. 13.) EMMI rendelet 67. § d) pontja hatályon kívül helyezte.
 [^6]: A 7. § (2) bekezdés nyitó szövegrésze a 8/2018. (II. 13.) EMMI rendelet 66. § b) pontja szerint módosított szöveg.
 [^7]: A 7. § (3)–(6) bekezdését a 8/2018. (II. 13.) EMMI rendelet 67. § d) pontja hatályon kívül helyezte.

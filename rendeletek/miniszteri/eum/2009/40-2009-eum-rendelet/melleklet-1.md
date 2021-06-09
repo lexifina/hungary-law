@@ -1,101 +1,161 @@
-1. melléklet a 40/2009. (XI. 20.) EüM rendelethez[^11]
+1. melléklet a 40/2009. (XI. 20.) EüM rendelethez[^14]
 
-## Az egészségügy területén engedélyhez kötött szakértői tevékenység szakterületei
+## Az egészségügyi szakértői tevékenység szakterületei
 
-1. Élelmezés- és táplálkozás-egészségügy
+1. EBM alapú orvosi és szakdolgozói továbbképzések szervezése
 
-2. Farmakológiai-toxikológia
+2. Egészségbiztosítás
 
-3. Fertőtlenítés, valamint az erre használatos anyagok, gépek és eszközök vizsgálata és ellenőrzése
+3. Egészségfejlesztés
 
-4. Fogászati ellátást szolgáló fogtechnikai eszközök
+4. Egészségügyi ellátásszervezés
 
-5. Foglalkozás-egészségügy
+5. Egészségügyi igénybevételi és pénzügyi adatelemzés
 
-6. Gyógyászati segédeszközök
+6. Egészségügyi intézmények pénzügyi ellenőrzése
 
-7. Gyógyszer analitika
+7. Egészségügyi igazgatás
 
-8. Gyógyszerek preklinikai, klinikai dokumentációjának értékelése
+8. Egészségügyi jog
 
-9. Gyógyszerellátás
+9. Egészségügyi költségvetés, számvitel, elszámolás és gazdálkodás
 
-10. Gyógyszerellenőrzés
+10. Egészségügyi közgazdaságtan, technológia elemzés
 
-10.1. kémiai (fizikai-kémiai),
+11. Egészségügyi munka- és ügyvitelszervezés
 
-10.2. biológiai,
+12. Egészségügyi szakdolgozók szakképzése és továbbképzése
 
-10.3. mikrobiológiai,
+13. Egészségügyi szolgáltatók működtetése
 
-10.4. farmakognózia
+14. Egészségügyi vezetői információs rendszerek
+
+15. Élelmezés- és táplálkozás-egészségügy
+
+16. Építési-egészségügyi és üzemi egészségügyi tevékenység
+
+17. Farmakológiai-toxikológia
+
+18. Fertőtlenítés, valamint az erre használatos anyagok, gépek és eszközök vizsgálata és ellenőrzése
+
+19. Fogászati ellátást szolgáló fogtechnikai eszközök
+
+20. Foglalkozás-egészségügy
+
+21. Gyógyászati segédeszközök
+
+22. Gyógyszer analitika
+
+23. Gyógyszerek preklinikai, klinikai dokumentációjának értékelése
+
+24. Gyógyszerellátás
+
+25. Gyógyszerellenőrzés
+
+25.1. kémiai (fizikai-kémiai),
+
+25.2. biológiai,
+
+25.3. mikrobiológiai,
+
+25.4. farmakognózia
 
 szakágban
 
-11. Gyógyszertechnológia
+26. Gyógyszertechnológia
 
-12. Kémiai biztonság
+27. Hulladékminősítés, higiénés talajvizsgálat
 
-13. Klinikai vizsgálati protokollok orvosbiológiai dokumentációjának értékelése
+28. Iskolaberendezés és felszerelés egészségügyi követelményei
 
-14. Kórházhigiéné, infekciókontroll tevékenység
+29. Kémiai biztonság
 
-15. Kórházi-klinikai gyógyszerészet
+30. Klinikai vizsgálati protokollok orvosbiológiai dokumentációjának értékelése
 
-16. Környezet-egészségügy
+31. Kórházhigiéné, infekciókontroll tevékenység
 
-17. Közegészségügyi-járványügyi mikrobiológia
+32. Kórházi-klinikai gyógyszerészet
 
-18. Lézersugárzás elleni védelem
+33. Környezet-egészségügy
 
-19. Megelőző orvostan
+34. Közegészségügyi-járványügyi mikrobiológia
 
-20. Méregtartalmú (mérgező) növények okozta egészségkárosodások megelőzése és diagnosztizálása
+35. Levegőszennyeződés, zajártalom, a települések védelme
 
-21. Munkaegészségügyi szaktevékenység
+36. Lézersugárzás elleni védelem
 
-22. Munkahigiéné
+37. Megelőző orvostan
 
-23. Nem-ionizáló sugárzás és a sugárzás elleni védelem
+38. Méregtartalmú (mérgező) növények okozta egészségkárosodások megelőzése és diagnosztizálása
 
-24. Népegészségügy
+39. Munkaegészségtan
 
-25. Ortopéd technikai ellátást szolgáló gyógyászati segédeszközök
+40. Munkaegészségügyi szaktevékenység
 
-26. Orvosi entomológia
+41. Munkahelyi fény- és megvilágításmérés
 
-27. Orvosi fizika
+42. Munkahelyi légszennyező anyagok vizsgálata
 
-27.1. a sugárterápiában,
+43. Munkahelyi zaj- és rezgésvédelem
 
-27.2. a nukleáris medicinában,
+44. Munkahigiéné
 
-27.3. a radiológiai diagnosztikában
+45. Nem-ionizáló sugárzás és a sugárzás elleni védelem
 
-28. Orvosi mikrobiológia
+46. Népegészségügy
 
-29. Orvosi virológia
+47. Ortopéd technikai ellátást szolgáló gyógyászati segédeszközök
 
-30. Radioaktív anyagok csomagolása és szállítása
+48. Orvosi entomológia
 
-31. Radiofarmakonok
+49. Orvosi fizika
 
-31.1. gyártástechnológiája,
+49.1. a sugárterápiában,
 
-31.2. farmakológiája,
+49.2. a nukleáris medicinában,
 
-31.3. toxikológiája,
+49.3. a radiológiai diagnosztikában
 
-31.4. ellenőrzése
+50. Orvosi mikrobiológia
 
-32. Rovar- és rágcsálóirtás
+51. Orvosi virológia
 
-33. Sürgősségi ellátás
+52. Pályaalkalmasság orvosi követelményei
 
-34. Sterilizálás, valamint az erre használatos gépek és eszközök vizsgálata és ellenőrzése
+53. Peszticidek egészségügyi vonatkozásai
 
-35. Toxikomorphológia
+54. Prevenció, közösségi egészségfejlesztés, egészségkommunikáció
 
-36. Üzemorvostan
+55. Projektmenedzsment
 
-[^11]: Az 1. melléklet a 22/2018. (VII. 9.) EMMI rendelet 4. §-ával megállapított szöveg.
+56. Radioaktív anyagok csomagolása és szállítása
+
+57. Radiofarmakonok
+
+57.1. gyártástechnológiája,
+
+57.2. farmakológiája,
+
+57.3. toxikológiája,
+
+57.4. ellenőrzése
+
+58. Repülőorvostan
+
+59. Rovar- és rágcsálóirtás
+
+60. Sürgősségi ellátás
+
+61. Sterilizálás, valamint az erre használatos gépek és eszközök vizsgálata és ellenőrzése
+
+62. Természetes gyógytényezők
+
+63. Toxikomorphológia
+
+64. Üzemorvostan
+
+65. Vízellátás, szennyvíztisztítás, ipari vízgazdálkodás
+
+66. Zajártalom (zajmérés zajexpozíció meghatározása)
+
+[^14]: Az 1. melléklet a 21/2021. (VI. 8.) EMMI rendelet 11. § (3) bekezdésével megállapított szöveg.
