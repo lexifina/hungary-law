@@ -4,6 +4,6 @@
 
 (3) Az előállító köteles (2) bekezdésben meghatározott rendelkezések végrehajtásáról az OGYI-t értesíteni.
 
-(4)–(5)[^14]
+(4)–(5)[^18]
 
-[^14]: A 16. § (4) és (5) bekezdését a 40/1995. (XI. 4.) NM rendelet 2. §-a hatályon kívül helyezte.
+[^18]: A 16. § (4) és (5) bekezdését a 40/1995. (XI. 4.) NM rendelet 2. §-a hatályon kívül helyezte.

@@ -10,6 +10,6 @@
 
 | III | megfelel a II követelményeinek, ezenkívül deklarált hatását az OGYI által előírt gyógyintézeti vizsgálatok bizonyították | ..................................... (kezelésére) orvosilag alkalmasnak talált szer |
 
-2. számú melléklet a 10/1987. (VIII. 19.) EüM rendelethez[^18]
+2. számú melléklet a 10/1987. (VIII. 19.) EüM rendelethez[^22]
 
-[^18]: A 2. számú mellékletet a 4/1994. (III. 4.) NM rendelet 6. §-ának (2) bekezdése hatályon kívül helyezte.
+[^22]: A 2. számú mellékletet a 4/1994. (III. 4.) NM rendelet 6. §-ának (2) bekezdése hatályon kívül helyezte.
