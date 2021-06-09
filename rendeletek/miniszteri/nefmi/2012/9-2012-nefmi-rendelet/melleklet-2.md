@@ -28,9 +28,9 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 11054 |  | Szakorvosi vizsgálat és szakvélemény kiadása szociális ellátásra való jogosultság megállapításához | X |  | O |  | O |  | O | O | O |  |  |  |  |
 
-| 11055 |  | I. fokú orvosi bizottság szakvéleményének kialakítása és kiadása munkaképesség csökkenés elbírálása céljából |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11055 |  | Bizottság komplex szakvéleményének kialakítása és kiadása a megváltozott munkaképességű személyek esetén |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11056 |  | II. fokú orvosi bizottság szakvéleményének kialakítása és kiadása munkaképesség csökkenés elbírálása céljából |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 11056 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | 11057 |  | Vizsgálat a szakmai alkalmasság I. fokon történő elbírálására |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -180,7 +180,7 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  | 11055 |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  | 11056 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 11056 |
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | X |  |  |  |  |  | 11057 |
 
@@ -450,4 +450,4 @@ I. Az egészségügyi eljárások egészségügyi szakmákra vonatkozó ellátá
 
 | 12310 |  | Impedancia audiometria (Tympanometria + stapedius refl.) |  |  |  |  | O | X |  |  |  |  |  |  |  |
 
-[^15]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése, a 44/2018. (XII. 19.) EMMI rendelet 5. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 4. §-a, a 15/2019. (VII. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 2/2020. (I. 30.) EMMI rendelet 3. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 5. § (1)–(3) bekezdése, a 33/2020. (IX. 16.) EMMI rendelet 8. § a) pontja, a 37/2020. (X. 30.) EMMI rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (2) bekezdése és (6) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 6. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 6. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (2)–(4) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 2. § (1) bekezdése, a 36/2017. (XII. 27.) EMMI rendelet 4. § (1) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 6. § (2) bekezdése, a 44/2018. (XII. 19.) EMMI rendelet 5. § (1) bekezdése, a 10/2019. (VI. 19.) EMMI rendelet 4. §-a, a 15/2019. (VII. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 2/2020. (I. 30.) EMMI rendelet 3. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 5. § (1)–(3) bekezdése, a 33/2020. (IX. 16.) EMMI rendelet 8. § a) pontja, a 37/2020. (X. 30.) EMMI rendelet 4. § (1) bekezdése, a 21/2021. (VI. 8.) EMMI rendelet 12. § (1) bekezdése szerint módosított szöveg.
