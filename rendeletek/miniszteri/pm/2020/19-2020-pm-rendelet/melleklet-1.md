@@ -1,6 +1,6 @@
 ## 3. § Ez a rendelet a nem együttműködő államok meghatározásakor az adózási szempontból nem együttműködő harmadik államok feketelistájával összefüggő tanácsi következtetésekben szereplő, az adózási szempontból nem együttműködő államok európai uniós jegyzékében foglaltakat veszi figyelembe.
 
-1. melléklet a 19/2020. (XII. 30.) PM rendelethez
+1. melléklet a 19/2020. (XII. 30.) PM rendelethez[^1]
 
 ## Az adózási szempontból nem együttműködő államok listája
 
@@ -8,7 +8,7 @@
 
 2. Anguilla
 
-3. Barbados
+3. Dominikai Közösség
 
 4. Fidzsi-szigetek
 
@@ -27,3 +27,5 @@
 11. Amerikai Virgin-szigetek
 
 12. Vanuatu
+
+[^1]: Az 1. melléklet az 5/2021. (VI. 8.) PM rendelet 1. §-ával megállapított szöveg.
