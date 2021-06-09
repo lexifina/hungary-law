@@ -1,3 +1,3 @@
-## 9. § Az R. a következő 12. §-sal egészül ki:
+## 9. §[^9]
 
-## „12. § Ez a rendelet a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelettel összhangban álló rendelkezéseket állapít meg.”
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

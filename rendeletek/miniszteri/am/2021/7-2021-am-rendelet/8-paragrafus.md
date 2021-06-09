@@ -1,5 +1,3 @@
-## 7. § Az R. 9. § (8) bekezdése helyébe a következő rendelkezés lép, és a következő (8a) bekezdéssel egészül ki:
+## 7. §[^7]
 
-## „(8) A (6) bekezdés szerinti elszámolás alapján, a végrehajtást végző aktív közreműködő az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a megyei kormányhivatal nevére. Az aktív közreműködő a számlát és a (6) bekezdés szerinti elszámolást a számla kiállítását követő nyolc napon belül megküldi a megyei kormányhivatalnak. A megyei kormányhivatal intézkedik a számla kifizetéséről az aktív közreműködő felé, valamint a számlát és az aktív közreműködést elrendelő határozatot a végrehajtást követően tizenöt napon belül megküldi a NÉBIH-nek, igazolva, hogy a számla kibocsátására az általa elrendelt járványügyi intézkedések végrehajtása alatt került sor. A NÉBIH a számla összegét az előirányzat terhére téríti meg a megyei kormányhivatal részére.
-
-## (8a) Ha az elkülönített vagy zárt vágás végrehajtását elrendelő határozatban hasznosíthatóként megjelölt összes élelmiszer, vagy azok egy része időközben járványügyi okból értékesíthetetlenné vált, akkor az eljáró hatóság az eredeti határozatot módosítja, és azt a NÉBIH-hel közli.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

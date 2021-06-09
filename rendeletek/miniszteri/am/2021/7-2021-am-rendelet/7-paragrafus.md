@@ -1,5 +1,3 @@
-## 6. § Az R. 8. § (4) és (5) bekezdései helyébe a következő rendelkezések lépnek:
+## 6. §[^6]
 
-## „(4) Az ártalmatlanítást végző üzem az intézkedés végrehajtását követően a megyei kormányhivatal, a járási hivatal vagy a HJK által elrendelt aktív közreműködés esetén a megyei kormányhivatal nevére kiállított, a közreműködés költségeit tartalmazó számlát benyújtja a megyei kormányhivatalnak. A megyei kormányhivatal intézkedik a számla kifizetéséről az aktív közreműködő felé, valamint a számlát és az aktív közreműködést elrendelő határozatot a végrehajtást követően tizenöt napon belül közli a NÉBIH-hel, igazolva, hogy a számla kibocsátására az általa elrendelt járványügyi intézkedések alatt került sor. A NÉBIH a számlát az előirányzat terhére téríti meg a megyei kormányhivatal részére.
-
-## (5) Az ártalmatlanítást végző üzem az intézkedés végrehajtását követően az OJK által elrendelt aktív közreműködés esetén a NÉBIH nevére kiállított, a közreműködés költségeit tartalmazó számlát harmincnapos fizetési határidővel benyújtja a NÉBIH-nek. A NÉBIH a számlát az előirányzat terhére téríti meg az aktív közreműködő részére.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 1. § Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet (a továbbiakban: R.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „(2) E rendelet hatálya alá tartozó járványügyi intézkedésekhez kapcsolódó állami kártalanítás összegét a Magyarország központi költségvetéséről szóló törvényben meghatározott előirányzat (a továbbiakban: előirányzat) biztosítja. Az előirányzatot az államháztartásról szóló törvény (a továbbiakban: Áht.) szerinti, az agrárminiszter által kijelölt lebonyolító szerv (a továbbiakban: lebonyolító szerv) kezeli. A lebonyolító szervet a lebonyolítással kapcsolatos költségeinek fedezése céljából az előirányzat terhére díj illeti meg, melynek mértéke az adott évre elfogadott előirányzat 5%-a, de legfeljebb 100 millió forint.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
