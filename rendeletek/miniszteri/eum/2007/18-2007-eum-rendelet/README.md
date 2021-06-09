@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | 2017-01-01 | 2007-18-20-0B.15 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2018-02-14 | 2007-18-20-0B.16 | 57/2011. (IX. 29.) NEFMI rendelet |
 | 2018-09-01 | 2007-18-20-0B.17 | 28/2018. (VIII. 29.) EMMI rendelet |
+| 2021-06-09 | 2007-18-20-0B.18 | 57/2011. (IX. 29.) NEFMI rendelet |

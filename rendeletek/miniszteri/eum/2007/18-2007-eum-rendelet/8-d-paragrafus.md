@@ -10,10 +10,10 @@ b) csak felügyelet mellett végezhet.
 
 (3)[^47] Az Eütv. 113/A. § (1) bekezdés c) és d) pontja esetében az egészségügyi államigazgatási szerv határozatát közli az ÁEEK-kel.
 
-(4)[^48] A működési nyilvántartásból történő törlésről az ÁEEK a törlést követő tizenöt napon belül értesíti az egészségügyi dolgozó munkáltatóját, az egészségügyi tevékenység végzése szerint illetékes kormányhivatal népegészségügyi szakigazgatási szervét, valamint a NEAK-ot.
+(4)[^48] A működési nyilvántartásból történő törlésről az ÁEEK a törlést követő tizenöt napon belül értesíti az egészségügyi dolgozó munkáltatóját, az egészségügyi tevékenység végzése szerint illetékes népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, valamint a NEAK-ot.
 
 [^44]: A 8/C. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be, szövege az 57/2011. (IX. 29.) NEFMI rendelet 10. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) és e) pontja szerint módosított szöveg.
 [^45]: A 8/D. §-t az 51/2008. (XII. 31.) EüM rendelet 7. §-a iktatta be. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést a 2009. január 1-jét követően benyújtott kérelmek esetén kell alkalmazni.
 [^46]: A 8/D. § (2) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 16. § c) pontja, a 8/2018. (II. 13.) EMMI rendelet 45. § b) pontja szerint módosított szöveg.
 [^47]: A 8/D. § (3) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés i) pontja szerint módosított szöveg.
-[^48]: A 8/D. § (4) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) és g) pontja szerint módosított szöveg.
+[^48]: A 8/D. § (4) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 11. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) és g) pontja, a 21/2021. (VI. 8.) EMMI rendelet 8. §-a szerint módosított szöveg.
