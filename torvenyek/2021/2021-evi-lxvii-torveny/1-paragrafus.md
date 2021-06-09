@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Románia Kormánya között, a Magyarország Kormánya és Románia Kormánya között Bukarestben, 2014. július 24-én aláírt, a magyar–román államhatáron átvezető közúti kapcsolatokról szóló megállapodás módosításáról szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
