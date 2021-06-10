@@ -1,0 +1,3 @@
+169. § Az Aktv. a következő 45/N. §-sal egészül ki:
+
+„45/N. § A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő, a III/A. Fejezetben szabályozott európai uniós kölcsönös egyeztető eljárásokat, a IV. Fejezetben szabályozott Választottbírósági Egyezmény szerinti eljárásokat, valamint a IV/A. Fejezetben szabályozott adóegyezmények szerinti kölcsönös egyeztető eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.”

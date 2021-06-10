@@ -1,0 +1,1 @@
+72. § A Távhő törvény 6. § (3) bekezdés j) pontjában az „a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.)” szövegrész helyébe az „a Tao. tv.” szöveg lép.

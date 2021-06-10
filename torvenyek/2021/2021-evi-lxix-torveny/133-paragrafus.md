@@ -1,0 +1,3 @@
+133. § A NAV Szjtv. 47. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A (2) bekezdés c)–f) pontjában és a (4) bekezdésben meghatározott okból történő kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, távolléti díjnak, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.”

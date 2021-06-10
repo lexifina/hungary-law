@@ -1,0 +1,5 @@
+2. § Az Szja tv. 44/F. §-a helyébe a következő rendelkezés lép:
+
+„44/F. § (1) Az adóbevallási tervezettel összefüggő eljárásban a magánszemély adó feletti rendelkezésének minősül az állami adó- és vámhatóság által elkészített és az adóbevallási tervezetben feltüntetett 44/A–44/E. § szerinti nyilatkozat is, ha a magánszemély az adóbevallási tervezetet az adóévet követő év május 20-ig nem egészíti ki, nem javítja, bevallási kötelezettségét más módon nem teljesíti.
+
+(2) Abban az esetben, ha a magánszemély a halála miatt a 44/A–44/E. § szerinti nyilatkozattételi jogosultságának nem tudott eleget tenni, az adóhatóság a rendelkezésére álló adatszolgáltatások alapján az adózás rendjéről szóló törvény szerinti soron kívüli adómegállapítási eljárásban a nyilatkozattételt egyébként megalapozó befizetéseket figyelembe veszi, és a befizetett adó terhére történő visszatérítés összegét határozattal állapítja meg.”

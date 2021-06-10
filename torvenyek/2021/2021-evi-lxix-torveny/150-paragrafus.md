@@ -1,0 +1,5 @@
+150. § Az Szt. 177. §-a a következő (83) és (84) bekezdéssel egészül ki:
+
+„(83) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 25. § (7) bekezdés a) és c) pontját, 32. § (9) bekezdését, 33. § (7) bekezdését, 44. § (8) bekezdését, 47. § (2) bekezdés e) pontját, (3) és (9) bekezdését, 50. § (6) bekezdését, 73. § (1) bekezdését, (2) bekezdés a)–e) pontját, (3) bekezdését, valamint 156. § (5) bekezdés o) pontját először a 2022. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(84) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 25. § (7) bekezdés a) és c) pontját, 32. § (9) bekezdését, 33. § (7) bekezdését, 44. § (8) bekezdését, 47. § (2) bekezdés e) pontját, (3) és (9) bekezdését, 50. § (6) bekezdését, 73. § (1) bekezdését, (2) bekezdés a)–e) pontját, (3) bekezdését, valamint 156. § (5) bekezdés o) pontját a 2021. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.”
