@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-90-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2010-90-00-00.22 |
 | 2018-07-26 | 2018. évi XLI. törvény | 2010-90-00-00.23 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 2010-90-00-00.24 |
+| 2021-06-10 | 2021. évi LXIX. törvény | 2010-90-00-00.25 |
