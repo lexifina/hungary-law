@@ -16,6 +16,8 @@ f) a védett adatot tartalmazó iratba, ha azt az érintett adat védelmét szab
 
 g) az iratnak azon részébe, amelynek megismerése a más személyre vonatkozó, adótitkot érintő rendelkezésbe ütközik.
 
+h) a büntetőeljárásról szóló törvény szerinti szignalizáció keretében az adóhatóság részére megküldött megkeresés irataiba.
+
 (2) Korlátozható az iratbetekintés az adatszolgáltatásra vonatkozó iratok tekintetében az ellenőrzés megkezdéséig, ha valószínűsíthető, hogy azok tartalmának megismerése a későbbi ellenőrzést meghiúsítaná. Az iratbetekintés korlátozásáról az adóhatóság végzéssel dönt.
 
 (3) Az adózó a nemzetközi információcsere keretében kiküldött megkeresésbe és az arra adott válaszba a válasz megérkezését követően tekinthet be. Az iratbetekintési jog nem terjed ki a nemzetközi információcserében közreműködő adóhatósági alkalmazottak személyes adataira.
