@@ -30,13 +30,13 @@ b) az adóalany a termék adóalany beszerzőjét, szolgáltatás adóalany igé
 
 c) az adóalany nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követeléssel érintett bevallás benyújtásának időpontjában,
 
-d) a termék beszerzője, szolgáltatás igénybevevője nem áll csőd-, felszámolási, vagy kényszertörlési eljárás hatálya alatt a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában,
+d)
 
-e) a termék beszerzője, szolgáltatás igénybevevője nem szerepel a nagy összegű adóhiánnyal vagy a nagy összegű adótartozással rendelkezők adóhatóság holnapjáról lekérdezhető adatbázisában a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában és az azt megelőző egy évben,
+e)
 
-f) a termék beszerzőjének, szolgáltatás igénybevevőjének adószáma a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjában nincs törölve,
+f)
 
-g) az állami adó- és vámhatóság a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás teljesítésének időpontjáig nem adott tájékoztatást az adóalany részére a terméket beszerző, szolgáltatást igénybevevő adókötelezettsége teljesítésének megkerüléséről,
+g)
 
 h) a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítés, szolgáltatásnyújtás ellenértéke megtérítésének esedékessége óta legalább egy év eltelt, kivéve, ha a behajthatatlan követelésként történő elszámolás alapjául szolgáló termékértékesítésre, szolgáltatásnyújtásra vonatkozó polgári jogi igényekre alkalmazandó elévülési idő nem haladja meg az egy évet,
 

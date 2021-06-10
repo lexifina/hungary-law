@@ -1,0 +1,1 @@
+352. § A 8/A. számú melléklet 6. pontja szerinti államban letelepedett adóalanyok tekintetében a XVIII. Fejezet szerinti adó-visszatérítést azon ügyletek esetén kell először alkalmazni, amelyek teljesítési időpontja 2021. január 1-jére vagy azt követő időpontra esik.

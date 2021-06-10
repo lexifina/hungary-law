@@ -1,0 +1,3 @@
+350. § (1) E törvénynek az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 257/J. § (2a) bekezdése és 257/K. § (2a) bekezdése olyan kérelmek esetében alkalmazható, amelyek vonatkozásában a kérelem benyújtását megalapozó ok a 257/J. § (2a) bekezdése és 257/K. § (2a) bekezdése hatálybalépésének napján vagy azt követően következett be.
+
+(2) Az adóalany az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 257/J. § (2a) bekezdés és 257/K. § (2a) bekezdés hatálybalépésének időpontjában folyamatban levő adóhatósági ellenőrzés során is jogosult a kérelem benyújtására az (1) bekezdéssel összhangban.

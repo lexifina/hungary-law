@@ -54,6 +54,8 @@ go) a Tanács (EU) 2018/1695 irányelve (2018. november 6.) a közös hozzáadot
 
 gp) a Tanács (EU) 2018/1910 irányelve (2018. december 4.) a 2006/112/EK irányelvnek a hozzáadottértékadó-rendszer egyes, a tagállamok közötti kereskedelem adóztatására vonatkozó szabályainak harmonizálása és egyszerűsítése tekintetében történő módosításáról;
 
+gr) A Tanács (EU) 2020/1756 irányelve (2020. november 20.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az észak-írországi adóalanyok azonosítása tekintetében történő módosításáról.
+
 h) a Tanács 2008/9/EK irányelve (2008. február 12.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról, valamint annak a következő irányelvvel történt módosítása:
 
 ha) a Tanács 2010/66/EU irányelve (2010. október 14.) a nem a visszatérítés helye szerinti tagállamban, hanem egy másik tagállamban letelepedett adóalanyok részére a 2006/112/EK irányelvben előírt hozzáadottértékadó-visszatérítés részletes szabályainak megállapításáról szóló 2008/9/EK irányelv módosításáról;
