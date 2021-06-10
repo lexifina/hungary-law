@@ -22,7 +22,7 @@
 
 (10a) Amennyiben a (10) bekezdés szerinti, a feltételek teljesítését vállaló csoporttag tagsága nem jogutódlás miatt szűnik meg, de továbbra is e törvény hatálya alá tartozik, akkor az adókedvezmény érvényesítésére a csoporttagsága megszűnését követően – a csoporttagság alatt a csoportos társasági adóalany által fel nem használt keretösszeg erejéig – jogosulttá válik.
 
-(11) A csoportos társasági adóalany adókedvezményre történő jogszerzés és az adókedvezmény érvényesítése érdekében szükséges jognyilatkozatát, továbbá a 22. § (1) bekezdése és a 22/C. § szerinti adókedvezményhez tartozó bejelentést a csoportos társasági adóalany esetében kizárólag a csoportképviselő teheti meg.
+(11) A csoportos társasági adóalany adókedvezményre történő jogszerzés és az adókedvezmény érvényesítése érdekében szükséges jognyilatkozatát, továbbá a 22/C. § szerinti adókedvezményhez tartozó bejelentést a csoportos társasági adóalany esetében kizárólag a csoportképviselő teheti meg.
 
 (12) A (2) bekezdéstől eltérően a csoportos társasági adóalany a jogosult csoporttagra a pozitív adóalapja arányában jutó számított adóból érvényesíti a 22/B. § alapján a fejlesztési adókedvezményt, legfeljebb a jogosult csoporttagra jutó számított adó 80 százalékáig.
 

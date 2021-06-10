@@ -100,13 +100,17 @@ xb) az sz) pont szerint megállapított, de az sz) pont szerinti jogosult adóz�
 
 y) az adóév első napján mikrovállalkozásnak minősülő adózónál – döntése szerint – a (19)–(20) bekezdésben foglaltakat is figyelembe véve a foglalkoztatottak átlagos állományi létszáma előző adóévhez, az adózó átalakulása, egyesülése, szétválása esetén a jogelőd utolsó adóévéhez, előző adóév hiányában nullához viszonyított növekményének és az adóév első napján érvényes havi minimálbér adóévre számított összegének szorzata, feltéve, hogy az adózó foglalkoztatottainak átlagos állományi létszáma a megelőző adóévben legfeljebb 5 fő és az adózónak az adóév utolsó napján nincs az állami vagy önkormányzati adóhatóságnál nyilvántartott adótartozása,
 
-z) a közhasznú szervezetnek, a közhasznú szervezettel kötött adományozási szerződés keretében, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység támogatására, a Magyar Kármentő Alapnak, a Nemzeti Kulturális Alapnak, továbbá a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 7. § (1) bekezdése szerinti mezőgazdasági kockázatkezelési pénzeszköz (a továbbiakban: Kárenyhítési Alap) javára önkéntesen, nem jogszabályi kötelezés alapján vagy a felsőoktatási intézménynek felsőoktatási támogatási megállapodás keretében az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének
+z) a közhasznú szervezetnek, a közhasznú szervezettel kötött adományozási szerződés keretében, az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenysége támogatására, továbbá a Magyar Kármentő Alapnak, a Nemzeti Kulturális Alapnak, továbbá a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény 7. § (1) bekezdése szerinti mezőgazdasági kockázatkezelési pénzeszköz (a továbbiakban: Kárenyhítési Alap) javára önkéntesen, nem jogszabályi kötelezés alapján vagy a felsőoktatási intézménynek (fenntartójának) felsőoktatási támogatási megállapodás keretében az adóévben visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítvány részére az adóévben alapítói vagy csatlakozói vagyonrendelés keretében, továbbá a közhasznú tevékenysége támogatására visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értékének, térítés nélkül nyújtott szolgáltatás bekerülési értékének
 
-za) 20 százaléka – tartós adományozási szerződés keretében 40 százaléka – közhasznú szervezet,
+za) 20 százaléka – tartós adományozási szerződés keretében 40 százaléka – a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kivételével közhasznú szervezet,
 
 zb) 50 százaléka a Magyar Kármentő Alap, a Nemzeti Kulturális Alap, továbbá a Kárenyhítési Alap,
 
-zc) 50 százaléka felsőoktatási intézmény felsőoktatási támogatási megállapodás alapján történő
+zc) 300 százaléka közfeladatot ellátó közérdekű vagyonkezelő alapítványi vagy egyházi fenntartásban lévő egyetem, illetve annak fenntartója felsőoktatási támogatási megállapodás alapján történő,
+
+zd) 20 százaléka – alapítói vagy csatlakozói vagyonrendelés esetén 40 százaléka – közfeladatot ellátó közérdekű vagyonkezelő alapítvány zc) alponton kívüli,
+
+ze) 50 százaléka felsőoktatási intézmény a zc) alponton kívüli felsőoktatási támogatási megállapodás alapján történő
 
 támogatása esetén, de együttesen legfeljebb az adózás előtti eredmény összege,
 
@@ -122,7 +126,19 @@ zs) az adóév utolsó napján kis- és középvállalkozásnak minősülő adó
 
 (6)
 
-(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik a közhasznú szervezet, a Magyar Kármentő Alap, a Nemzeti Kulturális Alap vagy a felsőoktatási intézmény által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját.
+(7) Az (1) bekezdés z) pontja alapján az adózó akkor csökkentheti az adózás előtti eredményt, ha rendelkezik
+
+a) az (1) bekezdés z) pont za) alpontjára vonatkozóan a közhasznú szervezet,
+
+b) az (1) bekezdés z) pont zb) alpontja esetében a Magyar Kármentő Alapra vonatkozóan a Magyar Kármentő Alap, a Nemzeti Kulturális Alapra vonatkozóan a Nemzeti Kulturális Alap,
+
+c) az (1) bekezdés z) pont zc) alpontjára vonatkozóan az egyetem, vagy fenntartója,
+
+d) az (1) bekezdés z) pont zd) alpontjára vonatkozóan a közfeladatot ellátó közérdekű vagyonkezelő alapítvány,
+
+e) az (1) bekezdés z) pont ze) alpontjára vonatkozóan a felsőoktatási intézmény
+
+által az adóalap megállapítása céljából kiállított igazolással, amely tartalmazza a kiállító és az adózó megnevezését, székhelyét, adószámát, a támogatás, juttatás összegét, célját.
 
 (8) Az (1) bekezdés m) pontjában foglaltak alkalmazásának feltétele, hogy
 

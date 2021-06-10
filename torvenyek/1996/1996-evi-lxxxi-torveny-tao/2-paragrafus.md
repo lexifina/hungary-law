@@ -26,7 +26,7 @@ j) az egyéni cég,
 
 k) az európai kutatási infrastruktúráért felelős konzorcium (ERIC),
 
-l) a vagyonkezelő alapítvány.
+l) a vagyonkezelő alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány.
 
 (3) Belföldi illetőségű adózónak minősül a külföldi személy, ha üzletvezetésének helye belföld.
 

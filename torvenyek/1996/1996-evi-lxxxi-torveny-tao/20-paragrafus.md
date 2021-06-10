@@ -12,6 +12,8 @@ d) a vízitársulatnak az (5) bekezdésben – 2009. július 1-jétől a (6) bek
 
 e) a közhasznú nonprofit gazdasági társaságnak és a szociális szövetkezetnek a (6) bekezdésben foglaltak szerinti adóalapra számított adónak olyan része után, amelyet a 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenységből elért bevétele képvisel az összes bevételen belül.
 
+f) a közfeladatot ellátó közérdekű vagyonkezelő alapítványnak az adóalapja azon része után, amelyet céljainak, közfeladatának, közérdekű tevékenységének megvalósítását szolgáló tevékenysége révén szerzett bevétele – így különösen az alapító által rendelt, az alapítványhoz csatlakozók által juttatott, valamint az egyéb forrásból származó vagyon átvételéből, kezeléséből, hasznainak szedéséből származó bevétele – képvisel az összes bevételén belül.
+
 (2) A szociális szövetkezet, közhasznú nonprofit gazdasági társaság és a vízitársulat az adókedvezményeket az adómentességgel csökkentett adó arányában érvényesítheti.
 
 (3)

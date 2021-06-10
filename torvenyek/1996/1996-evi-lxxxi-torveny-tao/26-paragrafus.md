@@ -36,11 +36,7 @@ b) az adóév első negyedévében az éves adóelőleg 3,3 százaléka, másodi
 
 (11) Nem kell az (1)–(9) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, az ingatlannal rendelkező társaság tagjának, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek és az iskolaszövetkezetnek.
 
-(12) A jogi személy és az egyéni cég az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő 60 napon belül köteles az esedékességi időre eső összeg feltüntetésével az egyszerűsített vállalkozói adó adóalanyisága megszűnését követő naptól az adóévet követő hatodik hónap utolsó napjáig számított időszak valamennyi teljes naptári negyedévére társasági adóelőleget bevallani és egyenlő részletekben a negyedév utolsó hónapjának 10. napjáig megfizetni. A háromhavonta esedékes társasági adóelőleg összege
-
-a) az egyszerűsített vállalkozói adó adóalanyisága megszűnésének adóévében elszámolt összes bevétel 1 százaléka, ha az adóév időtartama 12 hónap volt,
-
-b) az egyszerűsített vállalkozói adó adóalanyisága megszűnésének adóévében elszámolt összes bevételnek a működés naptári napjai alapján 12 hónapra számított összegének 1 százaléka minden más esetben.
+(12)
 
 (13) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény (a továbbiakban: Katv.) hatálya alá tartozó adóalany a Katv. szerinti adóalanyisága megszűnését követő 60 napon belül köteles az esedékességi időre eső összeg feltüntetésével a Katv. szerinti adóalanyisága megszűnését követő naptól az adóévet követő hatodik hónap utolsó napjáig számított időszak valamennyi teljes naptári negyedévére társasági adóelőleget bevallani és egyenlő részletekben a negyedév utolsó hónapjának 10. napjáig megfizetni. A háromhavonta esedékes társasági adóelőleg összege
 

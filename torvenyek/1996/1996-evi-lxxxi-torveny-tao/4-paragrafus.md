@@ -128,7 +128,7 @@ i) a 8. § (1) bekezdés f) pontja alkalmazásában nem mentesülhet az ellenőr
 
 16/b. foglalkoztatói nyugdíjszolgáltató intézmény: a foglalkoztatói nyugdíjról és intézményeiről szóló törvény szerinti foglalkoztatói nyugdíjszolgáltató intézmény;
 
-16/c. felsőoktatási támogatási megállapodás: a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti alapítóval vagy fenntartóval felsőoktatási intézmény alapítására, működésének biztosítására kötött, legalább öt évre szóló megállapodás;
+16/c. felsőoktatási támogatási megállapodás: alapítóval vagy fenntartóval a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény alapítására, működésének biztosítására kötött, legalább három évre szóló megállapodás;
 
 17. független képviselő: az adózótól gazdaságilag és jogilag független személy, amely/aki a szokásos üzletmenete szerint jár el, amikor az adózót képviseli; nem számít szokásos üzletmenetnek, ha a képviselő olyan tevékenységet is végez, amely az adózó tevékenységi körébe tartozik; nem független a képviselő, ha üzleti tevékenységét az adózó részletes utasítása vagy átfogó ellenőrzése mellett végzi, vagy ha a kockázatot az adózó és nem a képviselő viseli;
 
@@ -210,6 +210,8 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 23/e. kutatás-fejlesztési megállapodás: a tudományos kutatásról, fejlesztésről és innovációról szóló törvény szerinti kutatás-fejlesztési megállapodás;
 
+23/f. közfeladatot ellátó közérdekű vagyonkezelő alapítvány: közfeladatot ellátó közérdekű vagyonkezelő alapítványként nyilvántartásba vett jogi személy;
+
 24. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló törvényben ilyenként meghatározott vállalkozás, ideértve az említett törvényben előírt feltételeknek megfelelő ügyvédi irodát, végrehajtói irodát, szabadalmi ügyvivői irodát, és közjegyzői irodát is azzal, hogy kisvállalkozásnak minősül az említett törvény szerinti mikrovállalkozás is;
 
 24/a. munkahelyi óvoda: olyan óvodai nevelési ellátást nyújtó intézmény, amely az éves átlagos gyermeklétszámot figyelembe véve legalább 80 százalékban az adózó által foglalkoztatottak gyermekeinek az óvodai nevelését biztosítja;
@@ -224,7 +226,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
-28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont és a vagyonkezelő alapítványt) nem számolja el az adózás előtti eredmény terhére ráfordításként;
+28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont és a vagyonkezelő alapítványt, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványt) nem számolja el az adózás előtti eredmény terhére ráfordításként;
 
 28c. önálló szervezeti egység: egy társaság olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez;
 
@@ -364,7 +366,7 @@ Több látvány-csapatsportban több jogi személy szervezeti egységgel (szakos
 
 53. adózási szempontból különálló adózó: olyan adózó, amely nem tagja összevont (konszolidált) éves beszámolót készítő vállalatcsoportnak, nem áll kapcsolt vállalkozási viszonyban más személlyel és külföldön nem rendelkezik telephellyel;
 
-54. összevont (konszolidált) éves beszámolót készítő vállalatcsoport: egy vállalatcsoporthoz tartozó valamennyi gazdálkodó szervezetet magában foglaló csoport, amelynek minden tagja teljes mértékben a rá vonatkozó beszámolási szabályozásra figyelemmel a számvitelről szóló törvény VI. Fejezete, az IFRS-ek vagy más, az Európai Unió vagy az Európai Gazdasági Térség valamely tagállamának nemzeti szabályrendszere szerinti összevont pénzügyi beszámoló hatálya alá tartozik;
+54. összevont (konszolidált) éves beszámolót készítő vállalatcsoport: olyan gazdálkodó szervezetekből álló csoport, amelynek minden tagja teljes mértékben a rá vonatkozó beszámolási szabályozásra figyelemmel a számvitelről szóló törvény VI. Fejezete, az IFRS-ek vagy más, az Európai Unió vagy az Európai Gazdasági Térség valamely tagállamának nemzeti szabályrendszere szerinti összevont pénzügyi beszámoló hatálya alá tartozik;
 
 55. kamatfizetés, adózás és értékcsökkenés előtti eredmény: a 6. § (1)–(4) bekezdései szerinti adóalapnak a nettó finanszírozási költséggel, az e törvény szerinti értékcsökkenési leírás adóalap-csökkentő tételként elszámolt összegével és a 7. § (1) bekezdés ny) pontja alapján adóalap-csökkentő tételként elszámolt összeggel növelt, továbbá a 8. § (1) bekezdés j) pontja alapján adóalap-növelő tételként elszámolt összeggel csökkentett összege, azzal, hogy nem vehető figyelembe a hosszú távú állami infrastrukturális beruházásából származó jövedelem és az olyan jövedelem, amelyet társasági adókötelezettség nem terhel;
 

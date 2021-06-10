@@ -106,6 +106,8 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 22. a vagyonrendelőnél a bizalmi vagyonkezelési szerződés alapján a bizalmi vagyonkezelésbe adott eszközök könyv szerinti értékére, valamint a kezelt vagyon részbeni vagy teljes kiadásakor a kezelt vagyonra szóló tartós követelés kezelt vagyon csökkenésével arányos, kivezetett összegére tekintettel elszámolt ráfordítás.
 
-23. felsőoktatási támogatási megállapodás alapján az adóévben felsőoktatási intézménynek visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke;
+23. felsőoktatási támogatási megállapodás alapján az adóévben felsőoktatási intézménynek, illetve annak fenntartójának visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke;
 
 24. a nemzeti otthonteremtési közösségekről szóló törvényben meghatározott, a szervező által képzett tartalékból a közösség számára teljesített kifizetés értéke.
+
+25. a közfeladatot ellátó közérdekű vagyonkezelő alapítványnak alapításkor vagy csatlakozáskor rendelt vagyon átadása kapcsán az adózás előtti eredmény terhére elszámolt összeg, továbbá visszafizetési kötelezettség nélkül adott támogatás, juttatás, térítés nélkül átadott eszköz könyv szerinti értéke, térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ideértve ha a közfeladatot ellátó közérdekű alapítvány részére a vagyont, juttatást, átadást, szolgáltatást nem az alapító, csatlakozó hanem harmadik személy juttatja és harmadik személy juttatását az alapító, csatlakozó sajátjának ismeri el;

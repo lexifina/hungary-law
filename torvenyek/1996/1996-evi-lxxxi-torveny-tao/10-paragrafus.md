@@ -2,9 +2,9 @@
 
 10. § (1) Az iskolaszövetkezet adóalapja az adóévre jóváhagyott osztalék, részesedés, továbbá a (6) bekezdés szerint nyilvántartott, adómentesen képződött eredménytartalékból osztalék, részesedés címen jóváhagyott összeg, valamint a jegyzett tőke leszállítása, a tagi jogviszony megszűnése következtében az adóévben keletkezett kötelezettségek együttes összege (a továbbiakban: megállapított osztalék), módosítva a (2)–(5) bekezdésben, továbbá a 18. és 28. §-okban, valamint – figyelemmel a (2)–(3) bekezdésre – a VII. fejezetben foglaltakkal.
 
-(2) A megállapított osztalékot csökkenti a 7. § (1) bekezdésének r) és t) pontjában meghatározott összeg.
+(2) A megállapított osztalékot csökkenti a 7. § (1) bekezdés ny), r) és t) pontjában meghatározott összeg.
 
-(3) A megállapított osztalékot növeli a 8. § (1) bekezdésének d), e), j) és m) pontja és a 8. § (5)–(5e) bekezdése és a 7. § (1) bekezdés ny) pontja alapján meghatározott összeg, valamint a behajthatatlan követelésnek nem minősülő elengedett követelés.
+(3) A megállapított osztalékot növeli a 8. § (1) bekezdésének d), e), j) és m) pontja és a 8. § (5)–(5e) bekezdése alapján meghatározott összeg, valamint a behajthatatlan követelésnek nem minősülő elengedett követelés.
 
 (4) Az iskolaszövetkezet jogutód nélküli megszűnése esetén az adó alapja a 6. § (1) bekezdése szerint meghatározott összeg, növelve a (6) bekezdés szerint nyilvántartott, adómentesen képződött eredménytartalék összegével.
 

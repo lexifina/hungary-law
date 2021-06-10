@@ -20,7 +20,7 @@ A társasági adóalanynak nem minősülő szervezetek
 
 9. a pártok,
 
-10. a Magyar Távirati Iroda Részvénytársaság,
+10. a Duna Médiaszolgáltató Nonprofit Zártkörűen Működő Részvénytársaság,
 
 11. a külön törvényben és annak felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek megfelelően működő, kizárólag készfizetőkezesség-vállalást folytató részvénytársaság,
 
