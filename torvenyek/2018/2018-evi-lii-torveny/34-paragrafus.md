@@ -30,7 +30,7 @@ d) az a)–c) pont szerinti jogviszonya megszűnését követően diákigazolvá
 
 10.
 
-11. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában az év első napján érvényes kötelező legkisebb munkabér havi összege;
+11. minimálbér: az év első napján érvényes kötelező legkisebb munkabér havi összege, kivéve az e törvény egyéni és társas vállalkozókra vonatkozó rendelkezéseiben említett minimálbért, amely a tárgyhónap első napján, a teljes munkaidőre érvényes garantált bérminimum havi összege, ha az egyéni vállalkozó személyesen végzett főtevékenysége vagy a társas vállalkozó főtevékenysége legalább középfokú iskolai végzettséget vagy középfokú szakképzettséget igényel, ennek hiányában a tárgyhónap első napján érvényes kötelező legkisebb munkabér havi összege;
 
 12. munkaviszony:
 

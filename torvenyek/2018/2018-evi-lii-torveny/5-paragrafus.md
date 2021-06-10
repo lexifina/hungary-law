@@ -12,7 +12,7 @@ d) a szociális szövetkezetnek a tagi munkavégzési jogviszonyban álló tagj�
 
 e) a kifizetőnek
 
-ea) a szakképzésről szóló 2019. évi LXXX. törvény 86. § (1) bekezdése szerinti szakképzési munkaszerződés,
+ea) a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 83. § (1) bekezdése szerinti szakképzési munkaszerződés, illetve az Szkt. 125. § (3) bekezdés b) pontja szerinti tanulószerződés
 
 eb) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 44. § (1) bekezdés a) pontja szerinti hallgatói munkaszerződés
 
@@ -26,6 +26,8 @@ h) a Tbj. szerint külföldinek minősülő személynek az általa megszerzett, 
 
 i) az egyházi jogi személynek az egyházi szolgálati viszonyban álló egyházi személyre tekintettel, ha az egyházi szolgálati viszonyban álló egyházi személy saját jogú nyugdíjas természetes személy, vagy özvegyi nyugdíjban részesülő olyan természetes személy, aki a rá irányadó öregséginyugdíj-korhatárt már betöltötte.
 
+j) a Tbj. szerint saját jogú nyugdíjasnak minősülő adófizetésre kötelezett személynek az Szja tv. szerinti egyéb jövedelem kivételével.
+
 (2) Nem esik az 1. § (1)–(3) bekezdés szerinti adófizetési kötelezettség alá – e tevékenysége, jogállása alapján szerzett jövedelme tekintetében –
 
 a) a külföldi állam Magyarországra akkreditált diplomáciai és konzuli képviselete személyzetének külföldi állampolgárságú tagja részére kifizetett, juttatott bevétel;
@@ -38,7 +40,7 @@ d) a külföldi kifizető által Magyarországon kiküldetés, kirendelés vagy 
 
 e) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint az általa folyósított szociális ellátásból a szociális igazgatásról és a szociális ellátásokról szóló törvény szerint nem a kifizetőt terhelő rész;
 
-f) táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermeknevelési támogatás, gyermekgondozási díj;
+f) táppénz, baleseti táppénz, csecsemőgondozási díj, örökbefogadói díj, gyermeknevelési támogatás, gyermekgondozási díj, a juttatás időpontjától függetlenül a Tbj. szerinti álláskeresési támogatás;
 
 g) az olyan személynek juttatott bevétel, akire a Tbj. 3. §-a, 17. §-a, és 18. §-a szerint a biztosítási kötelezettség nem terjed ki;
 

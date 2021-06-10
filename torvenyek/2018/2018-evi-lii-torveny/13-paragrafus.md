@@ -24,7 +24,7 @@ a) akinek az egészségi állapota a rehabilitációs hatóság komplex minősí
 
 b) aki 2011. december 31-én – a társadalombiztosítási nyugellátásról szóló törvény alapján megállapított – I., II., vagy III. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult és a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 32–33. §-a, vagy a 19. § (1a) bekezdése, vagy a 38/C. §-a alapján rokkantsági ellátásban vagy rehabilitációs ellátásban részesül.
 
-(4) A részkedvezmény egyenlő az adómegállapítási időszakra a kifizető által a foglalkoztatott után, az egyéni vállalkozó által saját maga után megállapított, a tag után a kifizető által megállapított adóalap, de legfeljebb a minimálbér kétszerese után a 2. § (1) bekezdés szerinti adómértékkel megállapított összeggel.
+(4) A részkedvezmény egyenlő az adómegállapítási időszakra a kifizető által a foglalkoztatott után, az egyéni vállalkozó által saját maga után megállapított, a tag után a kifizető által megállapított adóalap [ide nem értve az 1. § (4)–(5) bekezdés szerinti jövedelmeket], de legfeljebb a minimálbér kétszerese után a 2. § (1) bekezdés szerinti adómértékkel megállapított összeggel.
 
 (5) A kedvezményt az arra jogosult a komplex minősítésről szóló érvényes dokumentum, vagy a (3) bekezdés szerinti megváltozott munkaképességű személyek ellátásainak folyósítását igazoló határozat birtokában érvényesítheti.
 
