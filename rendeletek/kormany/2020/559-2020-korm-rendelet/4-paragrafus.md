@@ -2,4 +2,6 @@
 
 4. § (1) Az autóbuszos közúti személyszállítási tevékenységre, a közlekedésszervező tevékenységére vonatkozó piacfelügyeleti eljárásra és a piacfelügyeleti díj megfizetésére vonatkozó részletes szabályokról, továbbá a piacfelügyeleti bírság mértékére és alkalmazására vonatkozó szabályokról szóló 43/2019. (III. 12.) Korm. rendelet 9. §-ában foglaltaktól eltérően a szolgáltató a piacfelügyeleti díjat a 2020. évben nem köteles megfizetni az autóbuszos hatóságnak.
 
-(2) Az (1) bekezdésben foglaltakra figyelemmel a 2020. évre már megfizetett piacfelügyeleti díj beszámít a 2021. évre fizetendő piacfelügyeleti díjba.
+(2)[^2]
+
+[^2]: A 4. § (2) bekezdését a 323/2021. (VI. 9.) Korm. rendelet 2. §-a hatályon kívül helyezte.
