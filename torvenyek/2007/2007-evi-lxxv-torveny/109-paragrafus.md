@@ -15,3 +15,5 @@ d) a kamara tisztségviselőinek választására és visszahívására, megbíz�
 e) a kamara szakmai tagozatainak létesítésére, működésére vonatkozó szabályokat,
 
 f) a kamara gazdálkodására vonatkozó szabályokat.
+
+(3) A kamara az alapszabályában lehetővé teheti, hogy az e törvény szerinti választások lebonyolítása elektronikus úton, elektronikus választási rendszer használatával történjen, amelynek részletes szabályait a választási szabályzatban kell megállapítani.

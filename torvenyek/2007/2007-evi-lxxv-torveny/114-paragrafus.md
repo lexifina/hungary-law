@@ -7,3 +7,5 @@
 (4) A küldöttgyűlés határozatképtelensége esetén a legalább 3 nappal későbbi, legfeljebb 60 napon belüli időpontra, azonos napirenddel összehívott küldöttgyűlés a megjelentek számától függetlenül határozatképes.
 
 (5) Az elnökség tagjai, a fegyelmi megbízott, a főtitkár, a 108. § (1) bekezdésének d)–k) pontjában meghatározott bizottságok és testületek elnökei – ha nem küldöttek – a küldöttgyűlésen tanácskozási joggal részt vehetnek.
+
+(6) A kamara alapszabálya lehetővé teheti, hogy a küldöttgyűlésen a tagok nem személyes jelenléttel, hanem elektronikus hírközlő eszköz közvetítésével vegyenek részt. Ez esetben az ülés megtartásának részletes szabályait az alapszabályban kell megállapítani.

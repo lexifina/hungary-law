@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2020-07-01 | 2020. évi XXX. törvény | 2007-75-00-00.43 |
 | 2020-11-27 | 2020. évi CXVIII. törvény | 2007-75-00-00.44 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 2007-75-00-00.45 |
+| 2021-06-10 | 2021. évi LXIX. törvény | 2007-75-00-00.46 |

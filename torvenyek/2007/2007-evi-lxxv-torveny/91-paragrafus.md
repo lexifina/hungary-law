@@ -6,7 +6,7 @@
 
 a) a felsőoktatásról szóló törvény szerint Magyarországon államilag elismert felsőoktatási intézményben szerzett oklevéllel rendelkezik,
 
-b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rendelkezik és szakképesítését oklevéllel, bizonyítvánnyal igazolja,
+b) mérlegképes könyvelői szakképesítéssel vagy Association of Chartered Certified Accountants (ACCA) végzettséggel rendelkezik és szakképesítését, végzettségét oklevéllel, bizonyítvánnyal igazolja,
 
 c)
 

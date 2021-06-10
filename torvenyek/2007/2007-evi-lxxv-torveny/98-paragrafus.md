@@ -4,7 +4,7 @@ a) rendelkezik okleveles könyvvizsgálói szakképesítéssel,
 
 b) nem esik a 9/H. §-ban meghatározott kizáró ok alá,
 
-c) vállalja, hogy Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
+c) vállalja, hogy Magyarország területén jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel vagy a kapcsolódó szabályozási és felügyeleti feladatokat ellátó intézménnyel a képzési programnak megfelelő – a kamara mentori szabályzata szerinti – munkaviszonyt, munkaviszony jellegű jogviszonyt létesít,
 
 d) magára nézve kötelezőnek ismeri el a kamara vonatkozó szabályzatának rendelkezéseit,
 

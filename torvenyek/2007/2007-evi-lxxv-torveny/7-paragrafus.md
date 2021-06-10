@@ -1,6 +1,6 @@
 7. § (1) Az egyes kamarai hatósági eljárásokban első fokon az e törvényben kijelölt testület jár el.
 
-(2) A kamarai hatósági eljárás során a kapcsolattartás kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton, űrlapbenyújtás támogatási szolgáltatás igénybevételével történhet.
+(2) A kamarai hatósági eljárásokban az ügyfelek elektronikus ügyintézésre kötelezettek.
 
 (3)–(4)
 
