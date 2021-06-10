@@ -8,4 +8,4 @@
 
 (4) Az adóhatóságnak a megkeresésében meg kell jelölnie a végrehajtási ügy vagy a végrehajtás alapjául szolgáló okirat számát.
 
-(5) Az adó megfizetésére kötelezett személy kötelezéséhez, továbbá az ideiglenes biztosítási intézkedés és a biztosítási intézkedés végrehajtására irányuló végrehajtás foganatosításához szükséges, e §-ban meghatározott adatok beszerzése iránt az adóhatóság már a végrehajtható okirat kézbesítése előtt intézkedhet.
+(5) Az adó megfizetésére kötelezett személy kötelezéséhez, továbbá az ideiglenes biztosítási intézkedés és a biztosítási intézkedés foganatosításához szükséges, e §-ban meghatározott adatok beszerzése iránt az adóhatóság a végrehajtható okirat, vagy az ideiglenes biztosítási intézkedést és a biztosítási intézkedést elrendelő döntés kézbesítése előtt intézkedhet.
