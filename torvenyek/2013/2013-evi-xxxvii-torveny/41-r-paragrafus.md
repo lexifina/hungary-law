@@ -8,7 +8,7 @@ b) a megalakulásától számított 6 hónapon belül véleményt alkot a panasz
 
 (2) A tanácsadó bizottság dönthet arról, hogy az (1) bekezdés b) pontjában szabályozott határidőt további 3 hónappal meghosszabbítja, ha a vitás kérdés rendezéséről szóló vélemény megalkotásához az eredeti határidő nem elegendő.
 
-(3) A tanácsadó bizottság a (2) bekezdésben hozott döntéséről köteles értesíteni az érintett tagállamok illetékes hatóságait és az érintett személyeket.
+(3) A tanácsadó bizottság az (1)–(2) bekezdésben hozott döntéséről értesíti az érintett tagállamok illetékes hatóságait és az érintett személyeket.
 
 (4) Az érintett személyek és a magyar illetékes hatóság kötelesek bármely információt, bizonyítékot vagy dokumentumot (a továbbiakban e § alkalmazásában együtt: információ) a tanácsadó bizottság felhívására rendelkezésre bocsátani.
 

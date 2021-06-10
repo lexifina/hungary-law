@@ -2,14 +2,14 @@
 
 a) a megkeresés beérkezésének időpontjában az adós vitatja a követelést, vagy
 
-b) a végrehajtást engedélyező eredeti okiratot vagy a végrehajtást engedélyező egységes okiratot a megkereső hatóság még nem állította ki, vagy
+b) a végrehajtást engedélyező eredeti okiratot vagy a végrehajtást engedélyező egységes okiratot a megkereső hatóság még nem állította ki,
 
-c) a biztosítási intézkedés elrendelése Air. szerinti feltételeinek egyike fennáll,
+és alapos indokkal valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.
 
-és valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.
+(2) A biztosítási intézkedés iránti megkereséshez mellékelni kell a megkereső tagállamában végrehajtandó biztosítási intézkedés engedélyezése céljából kiállított, a megkeresés tárgyát képező követelésre vonatkozó okiratot. Ha ilyen okirat nem áll rendelkezésre, a biztosítási intézkedést a magyar megkeresett hatóság (állami adó- és vámhatóság) végzésben rendeli el.
 
-(2) A biztosítási intézkedés iránti megkereséshez mellékelni kell a biztosítási intézkedés engedélyezése céljából kiállított, a behajtás iránti megkereséssel érvényesített követelésre vonatkozó okiratot, amely végrehajtható okiratnak minősül. Ha ilyen okirat nem áll rendelkezésre, a biztosítási intézkedést a magyar megkeresett hatóság (állami adó- és vámhatóság) végzésben rendeli el.
+(3) A biztosítási intézkedés iránti megkereséshez a megkereső hatóság a (2) bekezdésben meghatározott okiraton kívül más, a megkereső tagállamban a biztosítási intézkedés iránti megkereséssel érvényesített követeléssel kapcsolatos okiratot is mellékelhet.
 
-(3) A biztosítási intézkedés iránti megkereséshez a megkereső hatóság a (2) bekezdésben meghatározott okiraton kívül más, a megkereső tagállamban a behajtás iránti megkereséssel érvényesített követeléssel kapcsolatos okiratot is mellékelhet.
+(4) A 27. § (1)–(2), (4) bekezdésében, a 28. § (1) bekezdésében, a 29. §-ban és a 30. §-ában foglaltakat a biztosítási intézkedés iránti megkeresés teljesítése során alkalmazni kell.
 
-(4) A 27. § (1)–(2), (4) bekezdésében, a 28. § (1) bekezdésében, a 29. §-ban és a 30. § (1)–(4) bekezdésében foglaltakat a biztosítási intézkedés iránti megkeresés teljesítése során megfelelően alkalmazni kell.
+(5) A magyar megkeresett hatóság (állami adó- és vámhatóság) biztosítási intézkedést foganatosíthat akkor is, ha az eljárás felfüggesztésére a 29. § (3) bekezdése alapján kerül sor, és valószínűsíthető, hogy a követelés későbbi kielégítése veszélyben van.

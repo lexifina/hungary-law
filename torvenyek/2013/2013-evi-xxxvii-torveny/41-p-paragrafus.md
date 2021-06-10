@@ -6,7 +6,7 @@
 
 a) a vitás kérdés ismertetésére,
 
-b) az érintett tagállamok illetékes hatóságai által közösen megállapított tényállásra és a vitatott jogi kérdésre,
+b) az érintett tagállamok illetékes hatóságai által megoldandó jogi és ténybeli kérdések tekintetében közösen megállapított követendő szempontokra,
 
 c) az érintett tagállamok illetékes hatóságainak döntésére, hogy a vitás kérdésben tanácsadó bizottság vagy alternatív vitarendezési bizottság jár el,
 

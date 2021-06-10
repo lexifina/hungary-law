@@ -8,7 +8,7 @@ b) a (3) és (4) bekezdésben foglalt esetekben a követelés esedékességének
 
 c) a követelés behajtása – az adós személy helyzete miatt – Magyarországon komoly gazdasági nehézséget okozna, feltéve, hogy a magyar jogszabályok szerint hasonló követelésre ez a behajtást kizáró ok külön jogszabály alapján alkalmazható lenne.
 
-(2) Ha a megkereséssel érvényesített követelés összege az 1500 eurónak megfelelő pénzösszegnél kisebb, a magyar megkeresett hatóság a 27–32. § szerinti megkeresést elutasítja.
+(2) Ha a megkereséssel érvényesített követelés összege az 1500 eurónak megfelelő pénzösszegnél kisebb, a magyar megkeresett hatóság a 27–32. § szerinti megkeresést elutasíthatja.
 
 (3) Ha a kötelezett személy vagy más érdekelt személy a követeléssel vagy a végrehajtást engedélyező eredeti okirattal kapcsolatban jogorvoslati kérelmet nyújtott be, az (1) bekezdés a) pontja szerinti határidő kezdőnapja az a nap, amelyen a megkereső tagállam hatáskörrel rendelkező hatósága (bírósága) megállapítja, hogy a követeléssel vagy a végrehajtást engedélyező eredeti okirattal kapcsolatban további jogorvoslatnak nincs helye.
 

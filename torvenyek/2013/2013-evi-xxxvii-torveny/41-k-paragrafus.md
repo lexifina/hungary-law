@@ -12,7 +12,9 @@ c) az érintett személy által benyújtott panasz alapján megindult kölcsön�
 
 a) a panasz visszautasítása tárgyában az érintett tagállamok bármelyikének hatósága vagy bírósága előtt eljárás folyamatban van, vagy
 
-b) amennyiben az a) pontban említett jogorvoslati eljárás során bíróság helybenhagyta a visszautasító határozatot.
+b) a panasz visszautasítása tárgyában az érintett tagállamok bármelyikének hatósága vagy bírósága előtti jogorvoslati eljárás megindítására nyitva álló határidő még nem telt le vagy
+
+c) az a) pont szerinti jogorvoslati eljárás során bíróság helybenhagyta a visszautasító határozatot.
 
 (3) Amennyiben az érintett személy a panasz visszautasítása tárgyában élt a jogorvoslathoz való jogával, az illetékes bíróság határozatát kell figyelembe venni az (1) bekezdés a) pontja alkalmazásában.
 
