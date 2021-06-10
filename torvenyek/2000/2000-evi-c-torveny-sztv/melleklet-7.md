@@ -75,5 +75,3 @@ III. Finanszírozási cash flow
 26. Véglegesen átadott pénzeszköz –
 
 IV. Pénzeszközök változása (I+II+III. sorok) +
-
-27. Devizás pénzeszközök átértékelése +
