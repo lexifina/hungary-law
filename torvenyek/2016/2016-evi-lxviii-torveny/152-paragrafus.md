@@ -6,7 +6,7 @@ a) a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK
 
 b) az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről szóló, 2003. október 27-i 2003/96/EK tanácsi irányelv,
 
-c) az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló, 1992. október 19-i 92/83/EGK tanácsi irányelv,
+c) az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló 92/83/EGK irányelv módosításáról szóló, 2020. július 29-i (EU) 2020/1151 tanácsi irányelvvel módosított, az alkohol és az alkoholtartalmú italok jövedéki adója szerkezetének összehangolásáról szóló, 1992. október 19-i 92/83/EGK tanácsi irányelv,
 
 d) az alkohol és az alkoholtartalmú italok jövedékiadó-mértékének közelítéséről szóló, 1992. október 19-i 92/84/EGK tanácsi irányelv,
 
@@ -17,3 +17,5 @@ f) a gázolaj és a kerozin adóügyi jelölőanyagáról szóló, 1995. novembe
 g) a dohánygyártmányokra alkalmazott jövedéki adó szerkezetéről és adókulcsáról szóló, 2011. június 21-i 2011/64/EU tanácsi irányelv,
 
 h) a 2008/118/EK tanácsi irányelv ellenőrzési és szállítási rendelkezéseinek a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével összhangban egyes adalékokra történő alkalmazásáról szóló, 2012. április 20-i 2012/209/EU bizottsági végrehajtási határozat.
+
+i) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek és a jövedéki adóra vonatkozó általános rendelkezésekről szóló 2008/118/EK irányelvnek az uniós keretben végzett védelmi feladatok tekintetében történő módosításáról szóló, 2019. december 16-i (EU) 2019/2235 tanácsi irányelv.

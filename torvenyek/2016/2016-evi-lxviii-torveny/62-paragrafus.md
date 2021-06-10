@@ -46,6 +46,10 @@ j) töltőfolyadék esetében 300 milliliter, és
 
 k) az új dohánytermék-kategóriák egyszer használatos termékei esetében 800 darab, folyadéka esetében 300 milliliter.
 
+l) füst nélküli dohánytermék esetében 500 gramm,
+
+m) dohányzást helyettesítő nikotintartalmú termék esetében 500 gramm.
+
 (5) Nem minősül kereskedelmi célú szállításnak
 
 a) a két tagállam között közlekedő repülőgépek fedélzetén lévő jövedéki termékek szállítása, ha azokat nem hozzák forgalomba, mialatt a repülőgép belföldön tartózkodik,

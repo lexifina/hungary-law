@@ -46,15 +46,15 @@ b) az a családtag, aki az a) pontban megjelölt személlyel igazoltan közös h
 
 17a. étrend-kiegészítő: az egészségügyért felelős miniszter rendeletében ekként meghatározott és forgalomba hozatalra bejelentett (beleértve az Európai Gazdasági Térség más tagállamában fogalomban lévő termék első bejelentésének a rendelet szerinti belföldi benyújtását is) termék;
 
-18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe azzal az eltéréssel, hogy
+18. Európai Unió: az Európai Unióról szóló szerződésben meghatározott tagállamok területe, Észak-Írország, valamint Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia), azzal az eltéréssel, hogy
 
 a) nem tekintendők a tagállamhoz tartozónak
 
 aa) a Németországi Szövetségi Köztársaság esetében Helgoland szigete és Büsingen területe, az Olasz Köztársaság esetében Livigno, a Spanyol Királyság esetében Ceuta és Melilla területei, valamint
 
-ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Nagy-Britannia és Észak-Írország Egyesült Királysága esetében a Csatorna-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
+ab) a Francia Köztársaság esetében az Európai Unió működéséről szóló szerződés 349. cikkében, valamint 355. cikk (1) bekezdésében említett francia területek, a Spanyol Királyság esetében a Kanári-szigetek, a Finn Köztársaság esetében az Aland-szigetek, a Görög Köztársaság esetében az Athosz-hegy,
 
-b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a Man sziget a Nagy-Britannia és Észak-Írország Egyesült Királysága területéhez, a San Marino Köztársaság az Olasz Köztársaság területéhez, a Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia) a Ciprusi Köztársaság területéhez tartozónak tekintendő;
+b) a Monacói Hercegség a Francia Köztársaság területéhez, Jungholz és Mittelberg (Kleines Walsertal) tartományok a Németországi Szövetségi Köztársaság területéhez, a San Marino Köztársaság az Olasz Köztársaság területéhez, Nagy-Britannia és Észak-Írország Egyesült Királysága ciprusi felségterületei (Akrotiri és Dhekelia) a Ciprusi Köztársaság területéhez tartozónak tekintendő;
 
 19. felhasználói engedélyes: az állami adó- és vámhatóság által kiadott engedély birtokában
 
@@ -380,7 +380,7 @@ b) szőlőt, valamint sűrített szőlőmust és finomított szőlőmustsűrítm
 
 c) csendes bort – a bérpalackozásra átadott saját előállítású csendes bor visszaszállítását kivéve – nem szerez be, és csendes boron kívül, valamint a saját előállítású csendes borból évente legfeljebb 50 000 liter palackos erjesztésű habzóbor előállításán, tárolásán kívül, ha utóbbi termékből a kisüzemi bortermelő készlete nem haladja meg a 50 000 litert, más jövedéki terméket nem állít elő, nem tárol és nem hoz forgalomba;
 
-17. kisüzemi sörfőzde: évente legfeljebb 200 ezer hektoliter sört előállító, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő adóraktár;
+17. kisüzemi sörfőzde: évente legfeljebb 200 ezer hektoliter sört előállító, más sörgyártó üzemtől jogilag és gazdaságilag független, más sörgyártó üzemtől elkülönült telephelyet használó, nem licencia alapján működő adóraktár, továbbá sörgyártó üzemek együttműködése esetén az az évente legfeljebb 200 ezer hektoliter sört előállító sörgyártó üzem, amelynek a vele jogi és gazdasági kapcsolatban lévő másik sörgyártó üzemével összesített éves termelése nem haladja meg a 200 ezer hektoliter sört;
 
 18. köztes alkoholtermék: – a sör, a csendes és habzóbor, valamint az egyéb csendes és habzó erjesztett ital kivételével – a 2204 10 11-2206 00 89 KN-kód szerinti olyan termék, amelynek tényleges alkoholtartalma 1,2 térfogatszázaléknál több, de legfeljebb 22 térfogatszázalék;
 

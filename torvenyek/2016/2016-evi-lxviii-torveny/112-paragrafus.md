@@ -16,9 +16,9 @@ cc) kémiai redukcióban, ásványtani, elektrolitikus és kohászati folyamatba
 
 használ fel.
 
-d) a Magyar Honvédség az általa üzemeltetett adóraktárból – a Magyar Honvédség kivételével – az Észak-atlanti Szerződésben részes állam fegyveres erejének és polgári állományának, valamint a törvényben kihirdetett nemzetközi szerződés alapján a szerződésben részes, az adó alól mentesített állam fegyveres erejének, polgári állományának járművei részére kiszolgált üzemanyagra.
+d)
 
-(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja szerint kiszolgáló adóraktár részének tekintendő
+(2) A repülőgép-üzemanyagot az (1) bekezdés a) pontja, valamint a 9. § (1) bekezdés n) pontja szerint kiszolgáló adóraktár részének tekintendő
 
 a) a kiszolgálást végző tartályautó,
 

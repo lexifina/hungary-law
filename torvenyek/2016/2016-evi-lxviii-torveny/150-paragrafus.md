@@ -63,3 +63,9 @@
 (31) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel módosított 3. § (1) bekezdés 44. pont d) alpont, 7. § (2) bekezdés j) pont, 8. § (1) bekezdés q) pont, 9. § (4a) bekezdés, 17. § (5) bekezdés, 30. § (2) bekezdés, 78. § (3)–(4) bekezdés, 96. § (2a) bekezdés, 100. § (6a) bekezdés szerinti rendelkezéseket az e rendelkezés hatálybalépésekor folyamatban lévő adóigazgatási eljárásban is alkalmazni kell.
 
 (32) Az egyes adótörvények módosításáról szóló 2020. évi CXVIII. törvénnyel megállapított 101/A. §-t és 103. § (1) bekezdés d) pontját az e rendelkezés hatálybalépésekor folyamatban lévő adóigazgatási eljárásban is alkalmazni kell.
+
+(33) Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 3. § (3) bekezdés 17. pontját a hatálybalépésekor folyamatban lévő adóigazgatási eljárásokban is alkalmazni kell.
+
+(34) Az állami adó- és vámhatóság a 2023. február 13-át megelőzően kiadott adóraktári engedélyt, jövedéki engedélyt, bejegyzett kereskedői engedélyt és bejegyzett feladói engedélyt 2023. február 13-i hatállyal kiegészíti a szabadforgalomba bocsátott, kereskedelmi céllal másik tagállamba feladott, illetve másik tagállamból átvett jövedéki termékek szállításának lehetőségével, továbbá a 2023. február 13-át megelőzően nyilvántartásba vett kisüzemi bortermelő nyilvántartásba vételében szereplő adatokat 2023. február 13-i hatállyal kiegészíti a szabadforgalomba bocsátott, kereskedelmi céllal másik tagállamba feladott jövedéki termékek szállításának lehetőségével.
+
+(35) 2023. február 13-át megelőzően másik tagállamból adózottan feladott jövedéki termék átvételére a feladáskor hatályos szabályokat kell alkalmazni a jövedéki termék átvételéig, de legkésőbb 2023. december 31-ig.
