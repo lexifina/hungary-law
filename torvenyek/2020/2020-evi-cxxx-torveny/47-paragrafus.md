@@ -36,7 +36,7 @@ h) törvényben meghatározott esetekben.
 
 (8) A (5) és (7) bekezdés nem alkalmazható, ha a foglalkoztató NAV szerv székhelyének, illetve telephelyének megváltozása okán kerül sor a kinevezési okirat (2) bekezdés c) pontja szerinti módosítására.
 
-(9) A (2) bekezdés c)–f) pontjában és a (4) bekezdésben meghatározott okból történő kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
+(9) A (2) bekezdés c)–f) pontjában és a (4) bekezdésben meghatározott okból történő kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – az érintett jogviszonyát felmentéssel meg kell szüntetni. Felmentés esetén a kinevezés módosítását megelőzően betöltött korábbi munkakörben megállapított illetményt kell alapul venni a felmentési időre járó illetménynek, távolléti díjnak, a végkielégítés összegének, valamint az egyéb kifizetések összegének meghatározásakor.
 
 (10) A (7) és (9) bekezdés vezetőre nem alkalmazható.
 

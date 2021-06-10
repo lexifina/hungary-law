@@ -12,7 +12,7 @@
 
 (6) A jogalap nélkül kifizetett illetmény hatvan napon túl akkor követelhető vissza, ha az érintettnek a kifizetés alaptalanságát fel kellett ismernie vagy azt maga idézte elő. E bekezdés alkalmazásában a kifizetés napjának az számít, amikor a NAV számláját a kincstár megterhelte, készpénzkifizetés kézbesítése útján történő kifizetése esetén pedig az a nap, amikor a készpénz feladása megtörtént.
 
-(7) A munkáltatói jogkör gyakorlója a foglalkoztatott szolgálati jogviszonnyal összefüggő tartozásainak megtérítésére irányuló igényét írásbeli felszólítással érvényesítheti.
+(7) A NAV a foglalkoztatott szolgálati jogviszonnyal összefüggő tartozásainak megtérítésére irányuló igényét írásbeli felszólítással érvényesítheti.
 
 (8) A foglalkoztatott az illetményére vonatkozó igényéről – az egyezséget kivéve – előre nem mondhat le.
 

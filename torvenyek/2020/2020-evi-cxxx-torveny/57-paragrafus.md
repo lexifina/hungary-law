@@ -14,7 +14,7 @@ a) a kirendelés, vezénylés időtartamára vonatkozó ötéves korlátozás ne
 
 b) a kirendelésre, vezénylésre a NAV-nál történő ismételt foglalkoztatás hiányában vagy az 54. § (2) bekezdésében meghatározott időtartam letelte előtt is sor kerülhet,
 
-c) a foglalkoztatott illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni,
+c) a foglalkoztatott illetményére és illetményjellegű juttatásaira, pihenőidejére, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni,
 
 d) a foglalkoztatással kapcsolatos költségek – ha jogszabály vagy a miniszter eltérően nem rendelkezik – a NAV-ot terhelik.
 

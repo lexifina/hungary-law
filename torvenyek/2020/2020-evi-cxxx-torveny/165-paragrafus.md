@@ -14,4 +14,4 @@ kell figyelembe venni.
 
 (4) A szakmai tanácsadói, szakmai főtanácsadói címmel rendelkező foglalkoztatott a besorolása szerinti illetményre jogosult, ha az magasabb, mint a címe alapján számított illetménye.
 
-(5) A szakmai tanácsadói vagy főtanácsadói címet vissza kell vonni, ha a foglalkoztatott teljesítménye két egymást követő évben átlagos vagy azt el nem érő. A szakmai tanácsadói vagy főtanácsadói cím visszavonása esetén a foglalkoztatott a címmel járó illetmény helyett a besorolása szerinti illetményére jogosult.
+(5) A szakmai tanácsadói vagy főtanácsadói címet vissza kell vonni, ha a foglalkoztatott teljesítménye két egymást követő évben átlag alatti. A szakmai tanácsadói vagy főtanácsadói cím visszavonása esetén a foglalkoztatott a címmel járó illetmény helyett a besorolása szerinti illetményére jogosult.

@@ -2,7 +2,7 @@
 
 (1) A munkáltatói jogkör gyakorlója a vezetőt indokolás és az érintett beleegyezése nélkül a kinevezés módosításával végzettségének megfelelő nem vezetői munkakörbe, vagy más vezetői munkakörbe helyezheti.
 
-(2) Az érintettet a kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattételt követő naptól kezdődően – fel kell menteni. Az érintett felmentése esetén a kinevezésmódosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó távolléti díj, a végkielégítés összegének, valamint az egyéb járandóságok összegének meghatározásakor.
+(2) Az érintettet a kinevezés módosításról szóló okirat közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a nyilatkozattétel időpontjától kezdődően – fel kell menteni. Az érintett felmentése esetén a kinevezésmódosítást megelőzően betöltött korábbi munkakörében megállapított illetményét kell alapul venni a felmentési időre járó illetmény, távolléti díj, a végkielégítés összegének, valamint az egyéb járandóságok összegének meghatározásakor.
 
 (3) Ha az (1) bekezdés alkalmazása során az ott meghatározott munkakör nem biztosítható, az érintett szolgálati jogviszonyát felmentéssel meg kell szüntetni.
 

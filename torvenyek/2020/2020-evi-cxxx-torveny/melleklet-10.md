@@ -117,23 +117,3 @@ V.
 12. a pénzügyőri státuszú foglalkoztatott állományviszonya és viselt rendfokozata,
 
 13. a szolgálati igazolványának típusa, száma,
-
-14. a pénzügyőr szolgálati jelvényének száma,
-
-15. a pénzügyőr részére kiadott fegyver típusa, száma.
-
-VI.
-
-1. személyi juttatások, illetmények, kedvezmények nyilvántartása a központi létszám- és bérgazdálkodási statisztikai információs rendszer figyelembevételével
-
-2. tanulmányi szerződésekre vonatkozó adatok
-
-VII.
-
-1. a foglalkoztatott munkából való távollétének jogcíme és időtartama
-
-2. kirendelés, vezénylés adatai
-
-VIII.
-
-1. a szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai

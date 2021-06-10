@@ -2,13 +2,13 @@
 
 (1) E törvény alkalmazásában:
 
-1. alacsonyabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél alacsonyabb besorolási osztályba vagy azonos besorolási osztály esetén alacsonyabb besorolási kategóriába tartozik, továbbá a vezetői munkakört betöltők esetében a nem vezetői munkakör vagy az alacsonyabb vezetői munkakör is;
+1. alacsonyabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél alacsonyabb besorolási osztályba vagy azonos besorolási osztály esetén alacsonyabb besorolási kategóriába tartozik, azonos besorolási kategória esetén központi szervnél betöltött munkakörhöz képest a területi szervnél betöltött munkakör, továbbá a vezetői munkakört betöltők esetében a nem vezetői munkakör vagy az alacsonyabb vezetői munkakör is;
 
 2. alacsonyabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakörhöz képest alacsonyabb besorolási kategóriába tartozik;
 
 3. alapvető munkáltatói jog: a kinevezés, a jogviszony-megszüntetés, a fegyelmi, a méltatlansági és a kártérítési eljárás, valamint a sérelemdíj megfizetésére irányuló eljárás megindítása, a fegyelmi büntetés, a kártérítés, a sérelemdíj, az összeférhetetlenség megállapítása, a kinevezés tartalmának módosítása;
 
-4. azonos besorolású munkakör: az a munkakör, amely a betöltött munkakörrel azonos besorolási osztályba és besorolási kategóriába tartozik;
+4. azonos besorolású munkakör: az a munkakör, amely a betöltött munkakörrel azonos besorolási osztályba és besorolási kategóriába tartozik, továbbá azonos szervezeti szinten helyezkedik el;
 
 5. azonos vezetői munkakör: az a vezetői munkakör, amelynek besorolási kategóriája megegyezik a betöltött munkakör besorolási kategóriájával;
 
@@ -32,7 +32,7 @@
 
 15. gyermekét egyedül nevelő foglalkoztatott: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált vagy házastársától külön él és nincs élettársa;
 
-16. magasabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél magasabb besorolási osztályba vagy magasabb besorolási kategóriába tartozik vagy magasabb vezetői munkakörnek minősül, továbbá a nem vezetői munkakört betöltők esetében a vezetői munkakör is;
+16. magasabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél magasabb besorolási osztályba vagy magasabb besorolási kategóriába tartozik vagy magasabb vezetői munkakörnek minősül, azonos besorolási kategória esetén a területi szervnél betöltött munkakörhöz képest a központi szervnél betöltött munkakör, továbbá a nem vezetői munkakört betöltők esetében a vezetői munkakör is;
 
 17. magasabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakör besorolási kategóriájánál magasabb besorolási kategóriába tartozik;
 

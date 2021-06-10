@@ -26,6 +26,8 @@ c) a foglalkoztatott besorolása szerinti fizetési fokozathoz tartozó sáv fel
 
 (3) A (2) bekezdés c) pontja szerinti esetben a foglalkoztatott részére korrekciós díj kerül megállapításra és folyósításra, amelynek összege az alapilletmény megállapítás alapjául szolgáló összeg és a (2) bekezdés c) pontja alapján megállapított alapilletmény különbözete.
 
+(3a) A korrekciós díj része a 3. § (6) bekezdésében meghatározott illetménynek, valamint a 161. § (2) bekezdése szerinti távolléti díjnak.
+
 (4) A foglalkoztatott részére megállapított korrekciós díj összegét megfelelően csökkenteni kell – az illetmény (1)–(3) bekezdés szerinti megállapítását követően bekövetkező –
 
 a) munkaköri pótlékra vonatkozó jogszabályi rendelkezések megváltozása,

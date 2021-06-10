@@ -12,7 +12,7 @@ b) évente egyszer, a tárgyévet követő év január 15-éig írásban érték
 
 [a) és b) pont a továbbiakban együtt: teljesítményértékelés].
 
-(2) Az értékelést a tárgyév február 15-ig meghatározott teljesítménykövetelmény alapján kell elvégezni. Az értékelés eredményeként a teljesítmény kivételes, jó, átlagos, átlag alatti, illetve elfogadhatatlan fokozatú lehet. Az érintett a teljesítményértékelésre észrevételt tehet.
+(2) Az értékelést a tárgyév február 15-ig meghatározott teljesítménykövetelmény alapján kell elvégezni. Az értékelés eredményeként a teljesítmény kivételes, jó, megfelelő, átlag alatti, illetve elfogadhatatlan fokozatú lehet. Az érintett a teljesítményértékelésre észrevételt tehet.
 
 (3) Az (1) bekezdéstől eltérően év közben is teljesítményértékelést kell végezni a NAV szervek közötti áthelyezés, illetve szervezeti egység váltás esetén, valamint akkor is, ha a foglalkoztatott munkaköre év közben megváltozik. Ilyen esetben a tárgyév hátralévő részére új egyéni teljesítménykövetelményt kell kitűzni és a tárgyévi teljesítményértékelés során az évközi teljesítményértékelés eredményét figyelembe kell venni. Nem kell új teljesítménykövetelményt kitűzni, ha a szervezeti egység váltás nem jár a munkakör megváltozásával.
 

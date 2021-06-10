@@ -11,3 +11,7 @@
 (5) A (3) és (4) bekezdés alkalmazásakor az (1) és (2) bekezdést és az 53. § (6) bekezdése szerinti kormányrendelet szabályait nem kell alkalmazni.
 
 (6) A nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát, és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat a Kormány rendeletben állapítja meg.
+
+(7) A (3) bekezdésben meghatározottakon túl a Kttv. szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a NAV foglalkoztatottja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+
+(8) A (3) bekezdésben meghatározottakon túl a Kit. szerinti célhoz köthető feladat végrehajtásában a kormányzati igazgatásról szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a NAV foglalkoztatottja is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célhoz köthető feladat eredményes végrehajtásáért céljuttatásra jogosult.

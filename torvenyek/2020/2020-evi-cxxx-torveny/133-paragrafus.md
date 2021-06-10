@@ -12,13 +12,13 @@ a) a várakozási idő eltelt,
 
 b) az előírt továbbképzési kötelezettségét teljesítette, és
 
-c) a legutolsó teljesítményértékelés eredménye legalább jó.
+c) a legutolsó teljesítményértékelés eredménye legalább megfelelő.
 
 (5) Ha az érintett a (4) bekezdésben meghatározott valamely feltételt nem teljesítette, magasabb fizetési fokozatba nem sorolható.
 
 (6) Ha az (5) bekezdés alkalmazására a (4) bekezdés b) pontja szerinti feltétel nem teljesülése miatt került sor, az érintettet a feltétel teljesülését követő hónap első napjával előre kell sorolni.
 
-(7) Ha az (5) bekezdés alkalmazására a (4) bekezdés c) pontja szerinti feltétel nem teljesülése miatt került sor, az érintettet a 94. § (1) bekezdése szerinti soron következő, legalább jó eredményű teljesítményértékelését követő hónap első napjával előre kell sorolni.
+(7) Ha az (5) bekezdés alkalmazására a (4) bekezdés c) pontja szerinti feltétel nem teljesülése miatt került sor, az érintettet a 94. § (1) bekezdése szerinti soron következő, legalább megfelelő eredményű teljesítményértékelését követő hónap első napjával előre kell sorolni.
 
 (8) Ha az érintett a (4) bekezdés b) és c) pontjában foglalt feltétel egyikét sem teljesítette, úgy az időben később teljesült feltétel tekintetében alkalmazható a (6), illetve a (7) bekezdés.
 
