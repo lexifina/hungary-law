@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-68-00-00
 | 2012-01-01 | 2011. évi CLVI. törvény | 2008-68-00-00.5 |
 | 2017-07-01 | 2016. évi LXVIII. törvény | 2008-68-00-00.6 |
 | 2019-08-23 | 2019. évi LXXII. törvény | 2008-68-00-00.7 |
+| 2021-06-10 | 2021. évi LXIX. törvény | 2008-68-00-00.8 |

@@ -18,6 +18,10 @@ af) új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt
 
 ag) új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott folyadékánál légi utas esetében 75 millilitert, egyéb utas esetében a 15 millilitert;
 
+ah) a füst nélküli dohányterméknél légi utas esetében a 125 grammot, egyéb utas esetében a 25 grammot,
+
+ai) a dohányzást helyettesítő nikotintartalmú terméknél légi utas esetében a 125 grammot, egyéb utas esetében a 25 grammot;
+
 b) alkoholtermékek és egyéb – ide nem értve a szőlőbort és a sört – alkoholtartalmú italok körében:
 
 ba) 22 térfogatszázaléknál nagyobb alkoholtartalmú alkoholterméknél vagy legalább 80 térfogatszázalék alkoholtartalmú nem denaturált alkoholterméknél összesen az 1 litert,
