@@ -4,7 +4,7 @@ a) 49. § (4) bekezdés a) pontjában az „ , amelyet a személyi kedvezmény c
 
 b) 49. § (2) és (5) bekezdése,
 
-c) 50. § (7) bekezdésében a „Ha a jogosultsága a bevételi értékhatár túllépése miatt szűnt meg, az előbbi rendelkezéstől eltérően az átalányadózás – ha annak egyéb feltételei fennállnak – attól az adóévtől kezdődően újra választható, amely adóévben az e törvényben előírt bevételi értékhatár növekedett.” szöveg,
+c)
 
 d) 5. számú melléklet I. Alapnyilvántartások fejezet 6. pont 6.2. alpontja,
 

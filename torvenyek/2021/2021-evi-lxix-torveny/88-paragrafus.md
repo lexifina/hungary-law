@@ -1,10 +1,10 @@
 88. § A Szocho tv.
 
-a) 2. § (1) bekezdésében a „15,5 százaléka” szövegrészek helyébe a „15 százaléka” szöveg,
+a)
 
 b) 5. § (2) bekezdés f) pontjában a „gyermekgondozási díj” szövegrész helyébe a „gyermekgondozási díj, a juttatás időpontjától függetlenül a Tbj. szerinti álláskeresési támogatás” szöveg,
 
-c) 6. § (1) bekezdésében az „az átalányban megállapított jövedelem” szövegrész helyébe „az átalányban megállapított, személyi jövedelemadó köteles jövedelem” szöveg,
+c)
 
 d) 7. § (1) és (2) bekezdésében, valamint (3) bekezdés a) és b) pontjában az „az adóévben el nem érő” szövegrész helyébe az „az adóévben meg nem haladó” szöveg,
 

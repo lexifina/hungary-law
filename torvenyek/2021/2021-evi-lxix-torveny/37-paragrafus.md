@@ -1,6 +1,6 @@
 37. § Az Áfa tv.
 
-1. 85. § (1) bekezdés i) pontjában a „felnőttképző vagy” szövegrész helyébe a „felnőttképző, a szakképzésről szóló törvény szerinti akkreditált vizsgaközpont, ennek hiányában a szakmai vizsgát, illetve a képesítő vizsgát a szakképzésről szóló törvény szerint megszervező személy vagy”,
+1.
 
 2. 99. § (2) bekezdésében az „Az adómentesség érvényesítése érdekében a termék értékesítőjének a számlakibocsátás mellett” szövegrész helyébe az „Adó-visszaigénylő lap alkalmazása esetén az adómentesség érvényesítése érdekében a termék értékesítőjének a számlakibocsátás mellett”,
 

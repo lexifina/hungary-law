@@ -24,11 +24,7 @@ b) a COVID-19 vírus járványban elhunytak hozzátartozóit segítő alapítvá
 
 „4.47. a súlyosan hátrányos helyzetű munkavállalókat a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján megillető munkavállalást ösztönző juttatás a kifizetés időpontjától függetlenül.”
 
-4. Az Szja tv. 1. számú melléklet 4. pontja a következő 4.48. alponttal egészül ki:
-
-(Egyes tevékenységekhez kapcsolódóan adómentes:)
-
-„4.48. az átalányadózást alkalmazó egyéni vállalkozó e tevékenységéből származó jövedelmének az éves minimálbér felét meg nem haladó rész;”
+4.
 
 5. Az Szja tv. 1. számú melléklet 4. pontja a következő 4.49. alponttal egészül ki:
 
@@ -48,11 +44,7 @@ megszerzett, villamos energia értékesítésből származó bevétele – figye
 
 „7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás, a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet szerint az álláskereső részére nyújtható mobilitási támogatás a kifizetés időpontjától függetlenül;”
 
-7. Az Szja tv. 1. számú melléklet 8. pontja a következő 8.44. alponttal egészül ki:
-
-(A nem pénzben kapott juttatások közül adómentes:)
-
-„8.44. kifizető által biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár magáncélú használata.”
+7.
 
 8. Az Szja tv. 1. számú melléklet 9. pontja a következő 9.9. alponttal egészül ki:
 

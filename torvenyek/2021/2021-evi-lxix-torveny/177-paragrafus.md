@@ -19,11 +19,3 @@
 (9) E törvény 164. §–166. §-a az európai uniós adóügyi vitarendezési mechanizmusokról szóló 2017. október 10-i 2017/1852/EU tanácsi irányelv 5. cikk (3) bekezdés b) pontjának, 6. cikk (2) bekezdésének, 11. cikk (2) bekezdés b) pontjának való megfelelést szolgálja.
 
 (10) E törvény 3. melléklet 1. pontjának a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
