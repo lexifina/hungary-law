@@ -1,0 +1,1 @@
+## „12. adatküldő modul: a turisztikai tárhelyszolgáltató által biztosított, a szálláshelykezelő szoftver részeként működő olyan informatikai programrész, amely titkosítja és továbbítja a Turizmus tv. 9/H. § (1) bekezdés a) és b) pontjában meghatározott adatokat a tárhely részére.”
