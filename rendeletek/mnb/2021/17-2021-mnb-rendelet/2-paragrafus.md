@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz, 4% nikkel és 21% cink ötvözetéből készült, súlya 9,4 gramm, átmérője 29,5 mm, széle recézett.
+
+(2) Az emlékérme előlapján, gyöngysorszegéllyel határolt középmezőben a Győr város történelmi múltjára utaló logó ábrázolása látható, amely a város egyik jelképét, az érckakast, illetve annak legendáját idézi fel. A logó ábrázolása alatt a „GYŐR” felirat olvasható. Az emlékérme szélén, köriratban, fent a „MAGYARORSZÁG” felirat, lent a „750” értékjelzés és a „FORINT” felirat, középen, vízszintesen, bal oldalon a „BP.” verdejel, jobb oldalon a „2021” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, gyöngysorszegéllyel határolt középmezőben a Győr város 750. évfordulójára utaló jubileumi logó ábrázolása látható. Az emlékérme szélén, köriratban az „V. ISTVÁN 750 ÉVE ADOMÁNYOZOTT KIRÁLYI VÁROSI JOGOKAT GYŐRNEK” felirat olvasható, melyet egy-egy pont határol, a pontok között, lent, középen Lebó Ferenc tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
