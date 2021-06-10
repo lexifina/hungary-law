@@ -1,12 +1,12 @@
 ## A jövedelemadó alapja
 
-6. § (1) A jövedelemadó alapja az adóévi beszámolóban kimutatott adózás előtti eredménynek a (2) bekezdésben felsorolt tételekkel növelt, a (3) bekezdésben felsorolt tételekkel csökkentett és a (6) bekezdés szerint módosított, továbbá a külföldi telephely útján végzett tevékenység révén keletkezett, a telephelynek betudható, külföldön adóztatható, e törvény szerinti jövedelemadó-alapnak megfelelő tartalmú jövedelmet nem tartalmazó, pozitív összege.
+6. § (1) A jövedelemadó alapja az adóévi beszámolóban kimutatott adózás előtti eredménynek a (2) bekezdésben felsorolt tételekkel növelt, a (3) bekezdésben felsorolt tételekkel csökkentett és a (6) bekezdés szerint módosított, továbbá a külföldi telephely útján végzett tevékenység révén keletkezett, a telephelynek betudható, külföldön adóztatható, e törvény szerinti jövedelemadó-alapnak megfelelő tartalmú jövedelmet nem tartalmazó összege.
 
 (2) Növelő tételek:
 
 a)
 
-b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az ellenérték nélkül átvállalt kötelezettség az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ide nem értve az állam vagy a helyi önkormányzat részére történő, törvényben meghatározott kötelezettségen alapuló juttatást, a villamos energiáról szóló 2007. évi LXXXVI. törvény 142. § (6) bekezdése szerinti kiegyenlítő fizetést az erre kötelezett elosztónál, valamint az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet alapján véglegesen átadott pénzeszköz összegét.
+b) a visszafizetési kötelezettség nélkül adott támogatás, juttatás, véglegesen átadott pénzeszköz, a térítés nélkül átadott eszköz könyv szerinti értéke, az ellenérték nélkül átvállalt kötelezettség az adóévi adózás előtti eredmény terhére elszámolt összege, az adóévben térítés nélkül nyújtott szolgáltatás bekerülési értéke, valamint e juttatásokkal kapcsolatban ráfordításként elszámolt általános forgalmi adó, ide nem értve az állam vagy a helyi önkormányzat részére történő, törvényben meghatározott kötelezettségen alapuló juttatást, a villamos energiáról szóló 2007. évi LXXXVI. törvény 142. § (6) bekezdése szerinti kiegyenlítő fizetést az erre kötelezett elosztónál, valamint az egyetemes szolgáltatást igénybe vevő lakossági földgázfogyasztók részére biztosított téli rezsicsökkentésről szóló kormányrendelet alapján véglegesen átadott pénzeszköz összegét, továbbá ide nem értve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 3. számú melléklet B) rész 25. pontja szerint elismert összeget,
 
 c) az adóalany jogutódlással (átalakulással, egyesüléssel, szétválással) történő megszűnése esetén a jogelődnél utolsó adóévében, az adóalanyból történő kiválás esetén a jogutódnál első adóévében, a végleges vagyonmérlegében kimutatott pozitív összevont átértékelési különbözet a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felértékelésével növelt, valamint korábban az adózás előtti eredményt növelő tételként számításba vett céltartalék leértékelésével csökkentett összege, a (4) bekezdésben meghatározott kivétellel,
 
@@ -40,11 +40,13 @@ h) a várható kötelezettségekre és a jövőbeni költségekre képzett célt
 
 i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
 
-j) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 24/B. § (1) bekezdése szerinti jóváírásra tekintettel az adóévben bevételként elszámolt összeg,
+j) a Tao. tv. 24/B. § (1) bekezdése szerinti jóváírásra tekintettel az adóévben bevételként elszámolt összeg,
 
 k) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
 
 l) az adózó választása szerint az elektromos töltőállomás bekerülési érték, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó bekerüléskori becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet összege, a beruházás befejezésének adóévében, figyelemmel a (13)–(17) bekezdésekre.
+
+m) a korábbi adóévek negatív adóalapjából – a (18) és (19) bekezdésben foglaltakat figyelembe véve – az adózó döntése szerinti összeg.
 
 (4) Kedvezményezett átalakulás esetén a jogelőd, illetve a jogutód – választása szerint – nem alkalmazza a (2) bekezdés c) pontját, feltéve, hogy a jogutód létesítő okirata tartalmazza a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
 
@@ -73,3 +75,7 @@ l) az adózó választása szerint az elektromos töltőállomás bekerülési �
 (16) A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
 
 (17) A (3) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 7. § (1) bekezdése szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 7. § (1) bekezdése szerinti adókulccsal számított értékének megfelelő forintösszegnél.
+
+(18) Amennyiben az (1) bekezdés szerinti adóalap bármely adóévben negatív, ezzel az összeggel az adózó a következő öt adóévben döntése szerinti megosztásban csökkentheti az (1) bekezdés szerinti pozitív adóalapot, feltéve, hogy a negatív adóalap a rendeltetésszerű joggyakorlás elvének betartásával keletkezett. A korábbi adóévek negatív adóalapja legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékáig számolható el az adózás előtti eredmény csökkentéseként.
+
+(19) A (3) bekezdés m) pontja és a (18) bekezdés alkalmazása során az adózó a Tao. tv. 17. §-ában foglaltakat megfelelően alkalmazza.
