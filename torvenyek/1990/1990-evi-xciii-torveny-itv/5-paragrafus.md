@@ -10,7 +10,7 @@ d) az egyesület, a köztestület,
 
 e) az egyházi jogi személy,
 
-f) az alapítvány, ideértve a közalapítványt is,
+f) az alapítvány (ideértve a közalapítványt is), továbbá a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti alapítvány,
 
 g) a vízgazdálkodási társulat,
 
