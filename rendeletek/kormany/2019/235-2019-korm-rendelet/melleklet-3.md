@@ -20,6 +20,6 @@
 
 ## i) szálláshely-szolgáltatási tevékenységének kezdőnapja.
 
-3. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^28]
+3. melléklet a 235/2019. (X. 15.) Korm. rendelethez[^27]
 
-[^28]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
