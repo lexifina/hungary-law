@@ -1,3 +1,5 @@
-## 2. § Az R. 6/B. § (7) bekezdésében a „védettségét az” szövegrész helyébe a „védettségét vagy az életkorát az” szöveg lép.
+## 2. §[^3]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
