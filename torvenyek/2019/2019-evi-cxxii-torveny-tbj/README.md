@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-122-00-00
 | 2021-01-01 | 2020. évi CXXIII. törvény | 2019-122-00-00.5 |
 | 2021-03-01 | 2020. évi CXXXV. törvény | 2019-122-00-00.6 |
 | 2021-05-28 | 2021. évi LIII. törvény | 2019-122-00-00.7 |
+| 2021-06-10 | 2021. évi LXIX. törvény | 2019-122-00-00.8 |
