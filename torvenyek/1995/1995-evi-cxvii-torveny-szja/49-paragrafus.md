@@ -4,13 +4,13 @@
 
 (1a) A négy vagy több gyermeket nevelő anyák kedvezményét érvényesítő magánszemély a 29/D. § (2) bekezdése szerinti – kedvezményre jogosító – jövedelmének adóelőleg-alapja más kedvezménnyel nem csökkenthető. A családi kedvezmény adóelőleg-alap terhére nem érvényesíthető értékének az adó mértékével [8. §] meghatározott összege a Tbj. szerinti szabályok alkalmazásával családi járulékkedvezményként vehető igénybe.
 
-(2) Az (1) bekezdés szerint kiszámított összeget – figyelemmel az (1a) bekezdésben foglaltakra is – legfeljebb annak mértékéig csökkenti – az adóelőleget megállapító munkáltatótól származó bevétel esetében a magánszemély adóelőleg-nyilatkozata alapján – a súlyosan fogyatékos magánszemélynél az erről szóló igazolás, határozat alapján a fogyatékos állapot kezdő napjának hónapjától ezen állapot fennállása idején havonta a személyi kedvezmény.
+(2)
 
 (3) Az adóelőleg-levonásra kötelezett kifizető (ideértve az adóelőleget megállapító munkáltatót is) az állami adó- és vámhatósághoz bejelentett módszerrel állapítja meg az adóelőleget, ha ez által az adóévi adó megállapításánál jelentkező adókülönbözet mérsékelhető. Nem kell bejelentést tenni olyan módszer választása esetén, amelyet a számítástechnikai program kidolgozója az állami adó- és vámhatósághoz bejelentett.
 
 (4) Az egyéni vállalkozó által negyedévenként fizetendő adóelőleg
 
-a) a negyedévben elszámolt vállalkozói kivét után az (1) bekezdés szerint megállapított összeg, amelyet a személyi kedvezmény csökkent;
+a) a negyedévben elszámolt vállalkozói kivét után az (1) bekezdés szerint megállapított összeg;
 
 b) a vállalkozói adóelőleg-alap után számított vállalkozói személyi jövedelemadónak az a része, amely meghaladja
 
@@ -20,7 +20,7 @@ bb) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat a
 
 összegét azzal, hogy a vállalkozói személyi jövedelemadó-előleg az adóelőleg-alap 9 százaléka.
 
-(5) Ha a magánszemély saját maga köteles az adóelőleg megállapítására és megfizetésére, az (1) bekezdés szerint megállapított összeget csökkenti a személyi kedvezmény.
+(5)
 
 (6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét vagy az átalányban megállapított jövedelem adóelőlegét havonta állapítja meg és vallja be.
 

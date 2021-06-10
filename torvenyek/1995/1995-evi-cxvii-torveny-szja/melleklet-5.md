@@ -152,7 +152,7 @@ g) a jövedelem.
 
 6.1.6. A mezőgazdasági őstermelő aláírása
 
-6.2. Az értékesítési betétlapra a mezőgazdasági őstermelő vagy helyette – az e törvényben és a mezőgazdasági őstermelői igazolványról szóló kormányrendeletben meghatározott feltételekkel – a kifizető jegyezhet be adatot.
+6.2.
 
 6.3. A mezőgazdasági őstermelő negyedévenként, a negyedév utolsó napjára összesíti minden olyan, a negyedévben megszerzett őstermelői tevékenységből származó bevételét, amely nem kifizetőtől származik, vagy amelynek kifizetésekor (juttatásakor) nyilatkozott a kifizető részére, hogy a bevételt maga jegyzi be az értékesítési betétlapra. Az értékesítési betétlapra az így összesített bevételt kell a negyedév utolsó napjára bejegyezni. A mezőgazdasági őstermelő az elszámolásnál készített feljegyzést az őstermelői igazolvány mellékleteként a bizonylatmegőrzésre vonatkozó szabályok szerint megőrzi.
 

@@ -36,7 +36,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 2.1. a lakáscélú támogatás, ha az
 
-2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, az említett kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, valamint a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet szerinti támogatás,
+2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, a lakáscélú állami támogatásokról szóló kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet, valamint a rozsdaövezeti akcióterületen létesített lakóingatlanban kialakított lakások vásárlásához kapcsolódó adó-visszatérítési támogatásról szóló kormányrendelet szerinti támogatás,
 
 2.1.2. a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazása alapján kiadott más jogszabály alapján elengedett része,
 
@@ -125,6 +125,12 @@ b) a központi költségvetésről szóló törvényben egyedi támogatásban r�
 vállalkozási tevékenységet nem folytató alapítványtól, közalapítványtól, a szervezet céljával összhangban kap a magánszemély;
 
 3.7. az a tevékenység ellenértékének nem minősülő juttatás, amelyet a magánszemély az Erzsébet-programról szóló törvény szabályai szerint az Erzsébet-program forrásaiból kap.
+
+3.8. a köztársasági elnök által alapított
+
+a) klímavédelmi célú alapítványtól származó, az alapítvány céljainak megvalósítása érdekében nyilvánosan meghirdetett ösztöndíj és támogatási program keretében, a pályázati feltételeknek megfelelő juttatás;
+
+b) a COVID-19 vírus járványban elhunytak hozzátartozóit segítő alapítványtól származó, az alapítvány céljainak megvalósítása érdekében adott juttatás.
 
 4. Egyes tevékenységekhez kapcsolódóan adómentes:
 
@@ -350,6 +356,16 @@ b) az a) pont szerinti jövedelemnek és a méhészeti termékek előállítás�
 
 azzal, hogy amennyiben az őstermelői bevétel az adóévben az átalányadózás választására jogosító bevételi határt meghaladja, a 4.45. alpont rendelkezését kell alkalmazni.
 
+4.47. a súlyosan hátrányos helyzetű munkavállalókat a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján megillető munkavállalást ösztönző juttatás a kifizetés időpontjától függetlenül.
+
+4.49. a magánszemély által nem egyéni vállalkozói tevékenység keretében a villamos energiáról szóló törvény szerinti
+
+a) aktív felhasználóként,
+
+b) energiaközösség tagjaként
+
+megszerzett, villamos energia értékesítésből származó bevétele – figyelemmel a 9. pont 9.9 alpont rendelkezésére – legfeljebb évi 12 000 kWh értékesített villamos energia mennyiségig.
+
 5.
 
 6. A károk megtérülése, a kockázatok viselése körében adómentes:
@@ -504,7 +520,7 @@ kerül sor.
 
 7.23. a Magyar Honvédség hivatásos és szerződéses állományú tagjai részére járó egyenruházati ellátmány terhére, az egyenruházati ellátmány éves összegének legfeljebb 15 százalékáig terjedő összegben adott pénzbeli juttatás;
 
-7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás.
+7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás, a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet szerint az álláskereső részére nyújtható mobilitási támogatás a kifizetés időpontjától függetlenül;
 
 7.25. a Hajdú-Bét Rt., illetve a NOVOFARM Rt. élőállat-beszállítói által igénybe vehető mezőgazdasági csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet, valamint a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet szerinti támogatás azzal, hogy az adómentes juttatás után az adó mértékére vonatkozó rendelkezés (8. §) szerint megállapított, meg nem fizetett személyi jövedelemadó a mezőgazdasági termelők esetében agrár csekély összegű (de minimis) támogatásnak, a Pápai Hús 1913 Kft. élőállat-beszállítói által igénybe vehető csekély összegű (de minimis) támogatásról szóló vidékfejlesztési miniszteri rendelet 1. § 2. pont b)-c) alpont szerinti kérelmező esetében általános csekély összegű (de minimis) támogatásnak minősül;
 
@@ -763,3 +779,13 @@ történik, a db) pont esetében azzal, hogy az átruházásról szóló szerző
 9.8.1. Adómentes az erdőnek minősülő föld, továbbá erdő telepítése céljából erdőnek nem minősülő föld használati jogosultságának átengedése fejében, vagy az erdőnek minősülő földön folytatott erdőkezelésből származó vagy társult erdőgazdálkodási tevékenységre tekintettel az erdőnek minősülő föld tulajdonosa vagy a haszonélvezője által megszerzett jövedelem, ha az erdőnek minősülő föld használatba adására, az erdőkezelésre vagy a társult erdőgazdálkodásra kötött megállapodás (szerződés, illetve alapító okirat) alapján – határozatlan időre szóló megállapodás esetén a jogosultnak az erdőnek minősülő föld fekvése szerint illetékes önkormányzati adóhatóság részére tett kiegészítő nyilatkozata alapján – a használatba adás, az erdőkezelés vagy a társult erdőgazdálkodás időtartama az 5 évet (az adómentesség feltételéül szabott időtartam) eléri.
 
 9.8.2. A magánszemély köteles a 9.8.1 alpont szerinti mentesség alapján korábban meg nem fizetett adót késedelmi pótlékkal növelt összegben a szerződés megszűnése éve kötelezettségeként megállapítani, bevallani és megfizetni, ha a mentesség alapjául szolgáló szerződés az adómentesség feltételéül szabott időtartamon belül bármely okból (ide nem értve a szerződő feleken kívül álló okot, valamint a szerződés azonnali hatályú felmondását) megszűnik.
+
+9.9. A 4. pont 4.49. alpontja szerinti, villamos energiát értékesítő magánszemély adómentességével és az e személynek bevételt juttató kifizető (ezen alpont alkalmazásában: kifizető) adókötelezettségével összefüggő rendelkezések.
+
+9.9.1. A 4. pont 4.49. alpontja szerinti magánszemélynek bevételt juttató kifizető a bevétel alapján adóelőleget nem állapít meg és nem von le.
+
+9.9.2. A kifizető az általa az adóévben juttatott bevételekről az adóévet követő január 31-ig összesítő igazolást állít ki a magánszemély részére, külön feltüntetve a 4. pont 4.49. alpontja szerinti értékhatárig terjedő és az azt meghaladó bevételrészt, és a kiállított igazolásról elektronikus úton adatot szolgáltat az állami adó-és vámhatóságnak.
+
+9.9.3. A 4. pont 4.49. alpontja szerinti, villamos energiát értékesítő magánszemély az ott meghatározott mértéket meghaladó bevétele esetében választhatja, hogy a meghaladó bevételrész egészét tekinti jövedelemnek vagy az éves bevétel egészéből az önálló tevékenységből származó jövedelemre vonatkozó költségelszámolási szabályok alkalmazásával állapítja meg a jövedelmet.
+
+9.9.4. A 9.9.3. alpont alkalmazása esetében a magánszemély a jövedelmet az adóhatóság közreműködése nélkül elkészített bevallásában vagy az adóbevallási tervezet adatait kiegészítve vallja be, és az adót a bevallás benyújtására előírt határidőig fizeti meg.

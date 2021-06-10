@@ -32,9 +32,9 @@ d) részére a jogszabály, illetőleg a kollektív szerződés vagy a munkaszer
 
 7. a megrendelő, a vevő által igazolt szavatossági és jótállási költség;
 
-8. a Tbj. rendelkezései szerint nem megállapodás alapján fizetett járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett tagdíj;
+8. a mezőgazdasági őstermelő által a bevétel, illetve az ehhez szükséges feltételek biztosítása érdekében kifizetett vagyon-, felelősség-, kockázati biztosítás díja;
 
-9. a Tbj., a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján fizetett járulék, illetve tagdíj;
+9. a mezőgazdasági őstermelő által a tevékenységével kapcsolatban felvett pénzintézeti hitelre (kölcsönre) kifizetett kamat;
 
 10. a központi költségvetésbe, a helyi önkormányzatoknak fizetett, kizárólag az adott önálló tevékenységhez kapcsolódó adó (ide nem értve a személyi jövedelemadót), illeték, hatósági díj, vám, vámkezelési díj, perköltség, kötbér, késedelmi kamat, önellenőrzési pótlék;
 
@@ -168,9 +168,9 @@ V. A jövedelem megállapításakor költségként figyelembe nem vehető kiadá
 
 7. azok a kiadások, amelyek az I–IV. fejezetben és az általános, valamint az önálló tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
 
-8. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint nem megállapodás alapján fizetett nyugdíjjárulék, egészségbiztosítási járulék és munkaerőpiaci járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett tagdíj;
+8. a Tbj. rendelkezései szerint nem megállapodás alapján fizetett járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett tagdíj;
 
-9. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján fizetett járulék, illetőleg tagdíj;
+9. a Tbj., a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján fizetett járulék, tagdíj;
 
 10. a vissza nem térítendő munkáltatói támogatás, ide nem értve a magánszemélynek segély címén juttatott összeget.
 
