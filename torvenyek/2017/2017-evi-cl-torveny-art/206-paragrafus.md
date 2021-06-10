@@ -17,3 +17,5 @@
 (4) Nem alkalmazható az (1) bekezdésben foglalt rendelkezés, ha az illeték törlésére az illetékekről szóló 1990. évi XCIII. törvény 21. § (2) és (4) bekezdése, illetve a 80. § (1) bekezdés b), c), g) pontja alapján a jogügylet felbontása, illetve az eredeti állapot helyreállításával való megszüntetése vagy vagyonszerzés hiánya miatt kerül sor.
 
 (5) A késedelmi pótlék – az adóhatósági megállapítás kivételével – a késedelem napján végrehajtható.
+
+(6) A késedelmi pótlék után késedelmi pótlékot felszámítani nem lehet.

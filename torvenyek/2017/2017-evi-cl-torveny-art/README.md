@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-150-00-00
 | 2021-02-01 | 2020. évi CXXI. törvény | 2017-150-00-00.18 |
 | 2021-03-01 | 2020. évi CXXXV. törvény | 2017-150-00-00.19 |
 | 2021-05-22 | 2021. évi XLIII. törvény | 2017-150-00-00.20 |
+| 2021-06-10 | 2021. évi LXIX. törvény | 2017-150-00-00.21 |

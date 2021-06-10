@@ -4,6 +4,8 @@
 
 (1a) Ugyanazon bevallás ismételt önellenőrzése esetén az önellenőrzési pótlék mértéke az (1) bekezdésben foglaltak szerint számított összeg másfélszerese.
 
+(1b) Az önellenőrzési pótlék napi mértékének meghatározása során a 209. § (2) bekezdése szerint kell eljárni.
+
 (2) Ha az önellenőrzés pótlólagos adófizetési kötelezettséget nem eredményezett, mert az adózó adóját az eredeti esedékességkor vagy korábbi önellenőrzése során hiánytalanul megfizette, a fizetendő önellenőrzési pótlék összegét az általános szabályok szerinti mértékkel kell meghatározni, de az ötezer forintot meghaladó összeget nem kell bevallani és megfizetni.
 
 (3) Ha az önellenőrzés pótlólagos adófizetési kötelezettséget azért nem eredményez, mert az adózó a bevallani és megfizetni elmulasztott adót a későbbi bevallásában hiánytalanul bevallotta és megfizette, vagy a bevallani és megfizetni elmulasztott adó a következő elszámolási időszakban levonható adónak minősült volna, az önellenőrzési pótlék összege nem haladhatja meg a két bevallás közötti időre felszámítható késedelmi pótlék összegét.

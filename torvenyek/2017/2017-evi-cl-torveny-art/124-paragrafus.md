@@ -2,6 +2,8 @@
 
 (1) Az adóhatóság a tudomására jutott adatokat nyilvántartja és megőrzi az adóvégrehajtáshoz való jog elévüléséig, kivéve a nyugdíjellátás megállapításhoz szükséges adatokat, amelyeket az adat nyilvántartásba vételétől számított ötven évig tartja nyilván és őrzi meg. Az adóhatóság a természetes személy adózó azonosításával, adókötelezettségének keletkezésével és teljesítésének ellenőrzésével összefüggésben személyes adatokat tart nyilván és ellenőrizhet.
 
+(1a) Az állami adó- és vámhatóság a 113. § (4) és (5) bekezdése szerinti bejelentés adatait, valamint az az alapján képzett EKAER számot a bejelentés időpontjától számított tíz évig kezelheti.
+
 (2) Más hatóság, közfeladatot ellátó adatkezelő szerv nyilvántartásában vagy adózói nyilvántartásban szereplő adatot az adóhatóság az adózó és az adó megfizetésére kötelezett személy azonosításához, az adókötelezettség, a költségvetési támogatáshoz való jogosultság megállapításához, az adózók ellenőrzésre történő kiválasztásához, ellenőrzéséhez, végrehajtási eljárás lefolytatásához, az adózó kérelmére indult adóigazgatási eljárásban a tényállás tisztázásához használhatja fel.
 
 (3) A (2) bekezdés alkalmazása során a személyiadat- és lakcímnyilvántartás, a cégnyilvántartás, az ingatlan-nyilvántartás, a közúti közlekedési nyilvántartás, az építésfelügyeleti nyilvántartás, illetve valamennyi más, jogszabály alapján közhiteles nyilvántartás térítés nélkül felhasználható.

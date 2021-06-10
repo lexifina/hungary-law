@@ -144,7 +144,7 @@ b) az egyéni vállalkozók nyilvántartásában nem szereplő, de az Szja tv. s
 
 c) ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye szerint állapítja meg, az üzletvezetés helye szerint belföldi illetőségű adózónak minősülő külföldi személy esetén e törvény alkalmazása szempontjából az üzletvezetés helye,
 
-43. székhelyszolgáltató: az a személy, aki vagy amely üzletszerű gazdasági tevékenységként az adózó megbízásából gondoskodik az adózó üzleti és hivatalos iratainak munkaidőben történő átvételéről, érkeztetéséről, megőrzéséről, rendelkezésre tartásáról, valamint a székhellyel összefüggő kötelezettségek teljesítéséről, így különösen a cég székhelyéhez és a cégiratokhoz kapcsolódó hatósági kényszerintézkedések tűréséről,
+43. székhelyszolgáltató: az a személy, aki vagy amely üzletszerű gazdasági tevékenységként az adózó megbízásából gondoskodik az adózó üzleti és hivatalos iratainak munkaidőben történő átvételéről, érkeztetéséről, megőrzéséről, rendelkezésre tartásáról, valamint a székhellyel összefüggő kötelezettségek teljesítéséről, így különösen a cég székhelyéhez és a cégiratokhoz kapcsolódó hatósági kényszerintézkedések tűréséről, és a székhelyszolgáltatók nyilvántartásában szerepel vagy ilyen tevékenység végzésére irányuló szándékát bejelentette,
 
 44. szokásos tartózkodási hely: a természetes személynek akkor van Magyarország területén szokásos tartózkodási helye, ha az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább száznyolcvanhárom napot belföldön tartózkodott,
 
