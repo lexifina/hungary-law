@@ -1,5 +1,1 @@
-101. § Az Art. a következő 123/A. §-sal egészül ki:
-
-„123/A. § [Az ellenőrzési eljárás keretében végrehajtott adatmentés során lemásolt adatok kezelése]
-
-Ha az adóhatóságnak az ellenőrzési eljárás keretében végrehajtott adatmentés során tudomására jut a tényállás tisztázásához nem elengedhetetlenül szükséges személyes adat, azt haladéktalanul törli vagy – ha annak haladéktalan törlése nem lehetséges vagy az az ellenőrzési eljárás eredményes lefolytatására tekintettel aránytalan erőfeszítéssel járna – a személyes adatok védelmére vonatkozó előírások szerint az ilyen adat kezelését korlátozza. Az e § szerint korlátozott adatot csak az érintett ismerheti meg, azon – az adat tárolásán túl – további adatkezelési művelet nem végezhető. Az e § szerint korlátozott adatot legkésőbb a törlés akadályául szolgáló körülmény elhárulását követően haladéktalanul törölni kell.”
+101. §

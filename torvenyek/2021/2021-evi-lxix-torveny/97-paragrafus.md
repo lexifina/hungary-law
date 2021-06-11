@@ -1,5 +1,1 @@
-97. § Az Art. a következő 18/A. §-sal egészül ki:
-
-„18/A. § [Székhelyszolgáltatás igénybevételének bejelentése]
-
-Székhelyszolgáltatás igénybevételének bejelentése esetén az adóhatóság megvizsgálja, hogy a székhelyszolgáltató szerepel-e a székhelyszolgáltatók nyilvántartásában, vagy az ilyen tevékenység végzésére irányuló szándékát bejelentette-e. Ha a székhelyszolgáltatóként megjelölt személy nem szerepel a székhelyszolgáltatók nyilvántartásában és az ilyen tevékenység végzésére irányuló szándékát sem jelentette be, az adóhatóság tizenöt napos határidő tűzésével felhívja az adózót, hogy a székhelyszolgáltatás igénybevételére vonatkozó bejelentését vonja vissza, vagy gondoskodjon másik megfelelő székhely, székhelyszolgáltató bejelentéséről. Ha az adózó a felhívásnak nem tesz eleget, az adóhatóság a 246. § (1) bekezdés h) pontja szerint jár el.”
+97. §

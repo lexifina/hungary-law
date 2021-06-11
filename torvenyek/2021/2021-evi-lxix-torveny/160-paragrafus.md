@@ -1,3 +1,1 @@
-160. § Az Aktv. 3/A. §-a helyébe a következő rendelkezés lép:
-
-„3/A. § Az állami adó- és vámhatóság az e törvényben szabályozott közigazgatási együttműködés teljesítése, valamint a Jelentő Magyar Pénzügyi Intézménynek a 43/B. §-ban, a 43/H. §-ban és az 1. melléklet II–VII. Fejezetében meghatározott átvilágítási és adatszolgáltatási kötelezettsége teljesítésének ellenőrzése céljából jogosult a tényleges tulajdonosi információk központi nyilvántartásából adatot igényelni, valamint a tényleges tulajdonosra vonatkozó adatokhoz és dokumentumokhoz hozzáférni.”
+160. §

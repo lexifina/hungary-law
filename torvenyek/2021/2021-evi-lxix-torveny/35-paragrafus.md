@@ -1,3 +1,1 @@
-35. § Az Áfa tv. 345. §-a helyébe a következő rendelkezés lép:
-
-„345. § E törvénynek a Mód11 törvénnyel megállapított 12/B. §, 12/C. §, 253/E. § (4)–(5) bekezdését, 253/F–253/G. §-át, 253/J. § (5)–(7) bekezdését, 253/K–253/O. §-át, 253/S. §-át, 253/T. § (9)–(13) bekezdését, 253/U–253/Z. §-át és az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 253/ZA. §-át 2021. július 1-jétől kell alkalmazni azzal, hogy az adóalany a 253/X. § szerinti döntéséről ezen rendelkezés hatálybalépésének időpontjától kezdődően tehet az állami adó- és vámhatóság felé bejelentést.”
+35. §

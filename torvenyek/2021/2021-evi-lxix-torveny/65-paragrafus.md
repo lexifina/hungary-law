@@ -6,6 +6,6 @@ b)
 
 c)
 
-d) 112. § (1) bekezdés d) pontja,
+d)
 
 e)

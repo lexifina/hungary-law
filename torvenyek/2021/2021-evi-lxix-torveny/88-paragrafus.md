@@ -2,16 +2,16 @@
 
 a)
 
-b) 5. § (2) bekezdés f) pontjában a „gyermekgondozási díj” szövegrész helyébe a „gyermekgondozási díj, a juttatás időpontjától függetlenül a Tbj. szerinti álláskeresési támogatás” szöveg,
+b)
 
 c)
 
-d) 7. § (1) és (2) bekezdésében, valamint (3) bekezdés a) és b) pontjában az „az adóévben el nem érő” szövegrész helyébe az „az adóévben meg nem haladó” szöveg,
+d)
 
-e) 7. § (1) bekezdésében az „a Tbj. 41. § (1) bekezdése” szövegrész helyébe az „a Tbj. 41. §-a” szöveg,
+e)
 
-f) 13. § (4) bekezdésében az „adóalap” szövegrész helyébe az „adóalap [ide nem értve az 1. § (4)–(5) bekezdés szerinti jövedelmeket]” szöveg,
+f)
 
-g) 34. § 11. pontjában az „ennek hiányában az év első” szövegrész helyébe az „ennek hiányában a tárgyhónap első” szöveg
+g)
 
 lép.

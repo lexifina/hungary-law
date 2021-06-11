@@ -1,3 +1,1 @@
-132. § A NAV Szjtv. 32. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Ha a pénzügyőr a (4) bekezdés alapján felajánlott pénzügyőri munkakört elfogadja, intézkedni kell a kifogástalan életvitel soron kívüli ellenőrzéséről. A pénzügyőr az elfogadott munkakörbe abban az esetben helyezhető, ha a kifogástalan életvitel ellenőrzése során a 34. § (5) bekezdése szerinti körülményt a munkáltatói jogkör gyakorlója nem állapított meg. A kifogástalan életvitel ellenőrzése idejére a pénzügyőrt a munkáltatói jogkör gyakorlója a munkavégzés alól mentesíti. A mentesítés időtartamára a pénzügyőr a távolléti díjának 50%-ára jogosult.”
+132. §
