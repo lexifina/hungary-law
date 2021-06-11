@@ -1,0 +1,7 @@
+## 2. § A veszélyhelyzet idején alkalmazandó védelmi intézkedések második üteméről szóló 484/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 484/2020. (XI. 10.) Korm. rendelet] 2/B. § (1) bekezdésétől, valamint 6. § (2) és (2b) bekezdésétől eltérően a futamra a magyar állampolgársággal nem rendelkező személy nézőként abban az esetben is beléphet, illetve beléptetését nem lehet megtagadni, ha a belépés előtt 72 órán belül elvégzett – magyar vagy angol nyelven kiállított – negatív eredményű molekuláris biológiai vizsgálattal – SARS-CoV-2 PCR-teszt – igazolja, hogy a vizsgálat időpontjában a szervezetében SARS-CoV-2 koronavírus nem volt kimutatható.
+
+## 3. § A futam szervezője, a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 70. §-a szerinti rendezője, a futam helyszínének üzemeltetője vagy vezetője, valamint a szervező, az üzemeltető vagy a vezető alkalmazottja köteles
+
+a) annak a nézőnek a futamra történő beléptetését megtagadni, valamint a belépését megakadályozni, aki a koronavírus elleni védettségét vagy az életkorát a 484/2020. (XI. 10.) Korm. rendelet 1/A. alcímében meghatározott módon nem igazolja, vagy
+
+b) annak a magyar állampolgársággal nem rendelkező személynek a futamra történő beléptetését megtagadni, valamint a belépését megakadályozni, aki a 2. §-ban meghatározott módon nem igazolja, hogy a belépés előtt 72 órán belül elvégzett SARS-CoV-2 PCR-teszt időpontjában a szervezetében SARS-CoV-2 koronavírus nem volt kimutatható.
