@@ -40,7 +40,7 @@ Határidő: azonnal
 
 3.1. egyetért azzal, hogy az 1. pont 1.1. alpontjában rögzített hitelek indulását követően a Széchenyi Kártya Program egyes konstrukciói támogatásának folytatásáról szóló 1736/2019. (XII. 19.) Korm. határozat
 
-a) 1. pontja szerinti Széchenyi Kártya Folyószámlahitel forgalmazása – a Széchenyi Kártya Folyószámlahitel meghosszabbítással, illetve felülvizsgálattal érintett hitelkérelmei kivételével – az 1. pont 1.1. alpont a) és b) pontjában foglalt hitel,
+a)[^2]
 
 b) 2. pontja szerinti Széchenyi Forgóeszközhitel forgalmazása az 1. pont 1.1. alpont c) alpontjában foglalt hitel,
 
@@ -96,7 +96,8 @@ Határidő: Magyarország 2022–2031. évi központi költségvetésének terve
 
 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-5.[^2]
+5.[^3]
 
 [^1]: A 2. pont d) alpontja az 1684/2020. (X. 21.) Korm. határozat 5. pontjával megállapított szöveg.
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont 3.1. alpont a) pontját az 1368/2021. (VI. 10.) Korm. határozat 4. pont a) alpontja visszavonta.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
