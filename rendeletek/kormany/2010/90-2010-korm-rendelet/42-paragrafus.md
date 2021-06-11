@@ -2,7 +2,7 @@
 
 ## 31. A főnyilvántartó könyv és a minősített adat kezeléséhez szükséges iratkezelési segédletek
 
-42. § (1) A Nyilvántartó és a Kezelő pont által használt valamennyi iratkezelési segédlet nyilvántartását a papír alapú főnyilvántartó könyv vagy elektronikus iktatórendszer tartalmazza. A főnyilvántartó könyv egyes sorszámmal kezdődik és betelte után a következő főnyilvántartó könyv sorszám kihagyása nélkül folyamatos számképzéssel folytatódik.
+42. § (1)[^124] A Nyilvántartó és a Kezelőpont által használt valamennyi iratkezelési segédlet nyilvántartását a papír alapú főnyilvántartó könyv vagy elektronikus iktatórendszer tartalmazza. A főnyilvántartó könyv egyes sorszámmal kezdődik és betelte után a következő főnyilvántartó könyv sorszám kihagyása nélkül folyamatos számképzéssel folytatódik.
 
 (2) Ha a minősített adatot kezelő szerv egyszerre több Nyilvántartóval rendelkezik, a minősített adatot kezelő szerv vezetője által kijelölt Nyilvántartó vezeti a szerv főnyilvántartó könyvét.
 
@@ -28,11 +28,12 @@ a) az iktatókönyv,
 
 b) a belső átadókönyv vagy más belső átadóokmány,
 
-c)[^111] a külső kézbesítő könyv vagy futárjegyzék-nyilvántartás.
+c)[^125] a külső kézbesítő könyv vagy futárjegyzék-nyilvántartás.
 
 (5) Minősített adatok kezelése – nemzeti, valamint NATO, NYEU, EU forrásonként elkülönítve – külön iratkezelési segédletben történik. Az egy ügyben egyszerre kezelt nemzeti, valamint NATO, NYEU, EU vagy EU intézményei minősített adatai egy – a NATO, a NYEU, az EU vagy az EU intézményei minősített adatai tekintetében megnyitott – iratkezelési segédletben is kezelhetők.
 
-(6)[^112] A főnyilvántartó könyv és az iktatókönyv nem selejtezhető. A minősített adatot kezelő szerv a belső átadókönyvet vagy más belső átadóokmányt, a külső kézbesítőkönyvet, a futárjegyzéket és a futárjegyzék-nyilvántartást a Büntető Törvénykönyvről szóló 1978. évi IV. törvény szerinti visszaélés szigorúan titkos és titkos minősítésű adattal, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés bűncselekményre meghatározott büntetési tétel felső határának megfelelő ideig őrzi.
+(6)[^126] A főnyilvántartó könyv és az iktatókönyv nem selejtezhető. A minősített adatot kezelő szerv a belső átadókönyvet vagy más belső átadóokmányt, a külső kézbesítőkönyvet, a futárjegyzéket és a futárjegyzék-nyilvántartást 8 évig őrzi.
 
-[^111]: A 42. § (4) bekezdés c) pontja a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^112]: A 42. § (6) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^124]: A 42. § (1) bekezdése a 242/2021. (V. 12.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
+[^125]: A 42. § (4) bekezdés c) pontja a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^126]: A 42. § (6) bekezdése a 242/2021. (V. 12.) Korm. rendelet 7. §-ával megállapított szöveg.

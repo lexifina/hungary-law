@@ -10,6 +10,6 @@ c) 2. kategóriájú, ha legalább az EN 14450; MSZ EN 1143–1-A1-A2, S 1-es
 
 ## ellenállási fokozattal rendelkezik.
 
-(2)[^87] Az 1. kategóriájú tároló a hagyományos zárral felszerelt lemezszekrény.
+(2)[^92] Az 1. kategóriájú tároló a hagyományos zárral felszerelt lemezszekrény.
 
-[^87]: A 24. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^92]: A 24. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -26,6 +26,12 @@
 
 11.[^7] biztonsági vezetői kód: a biztonsági vezetői feladat- és hatáskör ellátásával összefüggésben a biztonsági vezető részére biztosított, a biztonsági terület elektronikai jelzőrendszerének aktiválására és deaktiválására szolgáló kód.
 
+12.[^8] sokszorosítás: a minősített adatról nem hitelesített vagy hiteles papíralapú, illetve elektronikus másolat készítése,
+
+13.[^9] megsemmisítés: a minősített adatot tartalmazó adathordozó, ügyviteli érdeket nem képviselő többes példánysorszámú példányának fizikai behatás útján történő végleges használhatatlanná tétele,
+
+14.[^10] törlés: az elektronikus minősített adat szoftver útján történő felülírása, amelynek eredményeként a minősített adat tartalmát utólag nem lehet helyreállítani.
+
 [^1]: Az 1. § 5. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^2]: Az 1. § 6. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^3]: Az 1. § 7. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
@@ -33,3 +39,6 @@
 [^5]: Az 1. § 9. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^6]: Az 1. § 10. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^7]: Az 1. § 11. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § 12. pontját a 242/2021. (V. 12.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § 13. pontját a 242/2021. (V. 12.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § 14. pontját a 242/2021. (V. 12.) Korm. rendelet 1. §-a iktatta be.

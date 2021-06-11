@@ -20,21 +20,21 @@ g) a tárgy,
 
 h) az ügyintéző szervezeti egység és az ügyintéző neve,
 
-i) a terjedelem,
+i)[^127] az adathordozó papíralapú vagy elektronikus megjelenési formája és – ha az adathordozóból megállapítható – terjedelme,
 
-j) a mellékletek száma, terjedelme,
+j)[^128] a mellékletek száma, valamint papíralapú vagy elektronikus megjelenési formája és – ha az adathordozóból megállapítható – terjedelme,
 
-k) a példánysorszám,
+k)[^129] – ha az adathordozóból megállapítható – a példánysorszám,
 
 l) a továbbítás időpontja, módja,
 
-m) a továbbításra kerülő példányok példánysorszáma, címzettje és terjedelme,
+m)[^130] a továbbításra kerülő példányok címzettje és – ha az adathordozóból megállapítható – példánysorszáma és terjedelme,
 
-n) az irattárba helyezés kelte,
+n)[^131] az irattárba, elektronikus minősített adat esetén az elektronikus irattárba helyezés kelte,
 
-o) a megsemmisítés időpontja, a megsemmisítési jegyzőkönyv iktatószáma,
+o)[^132] a megsemmisítés vagy a törlés időpontja, a megsemmisítési vagy a törlési jegyzőkönyv iktatószáma,
 
-p)[^113] a felülvizsgálat dátuma és eredménye a minősítési szint csökkentése, az érvényességi idő módosítása vagy a minősítés megszüntetése esetén,
+p)[^133] a felülvizsgálat dátuma és eredménye a minősítési szint csökkentése, az érvényességi idő módosítása vagy a minősítés megszüntetése esetén,
 
 q) a kezelési bejegyzés (csatolás, határidő, visszaérkezés stb.)
 
@@ -42,16 +42,22 @@ q) a kezelési bejegyzés (csatolás, határidő, visszaérkezés stb.)
 
 (4) Az iktatás minden év január 1-jén 1-es főszámmal kezdődik és a naptári év végéig emelkedő számmal folytatódik. A titkos ügykezelő az azonos tárgyban, ugyanabban az ügyben érkezett vagy készített újabb adatot az illető főszám 1-től növekvő alszámára iktatja. Amennyiben más tárgyban érkezett vagy készült az újabb adat, akkor azt iktatókönyv következő főszámára iktatja.
 
-(5)[^114] A (4) bekezdésben foglaltaktól eltérően a rendvédelmi szerveknél, a Nemzeti Adó- és Vámhivatalnál, a Katonai Nemzetbiztonsági Szolgálatnál, a bíróságoknál és az ügyészi szerveknél a különböző években, de ugyanazon ügyben keletkezett minősített adatokat egy főszámhoz tartozó alszámokon lehet nyilvántartani.
+(5)[^134] A (4) bekezdésben foglaltaktól eltérően a rendvédelmi szerveknél, a Nemzeti Adó- és Vámhivatalnál, a Katonai Nemzetbiztonsági Szolgálatnál, a bíróságoknál és az ügyészi szerveknél a különböző években, de ugyanazon ügyben keletkezett minősített adatokat egy főszámhoz tartozó alszámokon lehet nyilvántartani.
 
-(6)[^115] A minősített adatot kezelő elektronikus rendszeren (a továbbiakban: rendszer) érkező és továbbítandó minősített adatok kezelése (a továbbiakban együtt: feldolgozás) során az (1)–(5) bekezdést nem kell alkalmazni, ha a minősített adat kizárólag a rendszeren belül feldolgozható, és a feldolgozás során a minősített adat sem papíralapú, sem más adathordozón nem jelenik meg.
+(6)[^135]
 
-(7)[^116] Ha az adatok feldolgozása során a minősített adatot a rendszeren kívül is szükséges adathordozón rögzíteni, a végponti felhasználó a minősített adat kinyerését követően a minősített adatot tartalmazó adathordozót átadja a titkos ügykezelőnek, aki az (1)–(5) bekezdésben meghatározottak szerint jár el.
+(7)[^136]
 
-(8)[^117] A rendszeren kívüli feldolgozás ellenőrzésének szabályait a minősített adatot kezelő szerv vezetője a biztonsági szabályzatban határozza meg.
+(8)[^137]
 
-[^113]: A 43. § (3) bekezdés p) pontja a 243/2016. (VIII. 17.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^114]: A 43. § (5) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^115]: A 43. § (6) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^116]: A 43. § (7) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^117]: A 43. § (8) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^127]: A 43. § (3) bekezdés i) pontja a 242/2021. (V. 12.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^128]: A 43. § (3) bekezdés j) pontja a 242/2021. (V. 12.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^129]: A 43. § (3) bekezdés k) pontja a 242/2021. (V. 12.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^130]: A 43. § (3) bekezdés m) pontja a 242/2021. (V. 12.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^131]: A 43. § (3) bekezdés n) pontja a 242/2021. (V. 12.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^132]: A 43. § (3) bekezdés o) pontja a 242/2021. (V. 12.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^133]: A 43. § (3) bekezdés p) pontja a 243/2016. (VIII. 17.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^134]: A 43. § (5) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^135]: A 43. § (6) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, hatályon kívül helyezte a 242/2021. (V. 12.) Korm. rendelet 14. § a) pontja.
+[^136]: A 43. § (7) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, hatályon kívül helyezte a 242/2021. (V. 12.) Korm. rendelet 14. § a) pontja.
+[^137]: A 43. § (8) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 25. § (2) bekezdése iktatta be, hatályon kívül helyezte a 242/2021. (V. 12.) Korm. rendelet 14. § a) pontja.

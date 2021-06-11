@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-90-20-2
 | 2020-07-31 | 2010-90-20-22.18 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2020-11-12 | 2010-90-20-22.19 | 495/2020. (XI. 11.) Korm. rendelet |
 | 2021-01-01 | 2010-90-20-22.20 | 671/2020. (XII. 28.) Korm. rendelet |
+| 2021-06-11 | 2010-90-20-22.21 | 242/2021. (V. 12.) Korm. rendelet |
