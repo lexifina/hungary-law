@@ -1,0 +1,1 @@
+## „f) az eredeti irattári példány esetében a kiadmányozó aláírását, elektronikus minősített adat esetén a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását, vagy az elektronikus bélyegzőt és az időbélyeget.”
