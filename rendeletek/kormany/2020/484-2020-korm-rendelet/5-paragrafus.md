@@ -1,5 +1,3 @@
-## 4. §[^24]
-
 ## 3. [^25] A rendezvényekre vonatkozó védelmi intézkedések
 
 5. §[^26] (1)[^27] Tilos – az e rendeletben meghatározott kivétellel – rendezvényt, valamint gyűlést szervezni, illetve tartani.
@@ -28,19 +26,20 @@ a) a házasságkötés – az ilyen eseményt általában követő családi esem
 
 b) a temetés
 
-## nem minősül rendezvénynek.
+nem minősül rendezvénynek.
 
 (4b)[^36] Ha a házasságkötésre nem az anyakönyvi hivatal házasságkötő termében, a polgármesteri hivatal helyiségében vagy a vallási közösség vallási tevékenység céljára használt helyiségében kerül sor, a házasságkötésre az e rendelet családi eseményre vagy magánrendezvényre vonatkozó rendelkezéseit kell alkalmazni.
 
+(4c)[^37] Ezen alcím alkalmazásában nem minősül rendezvénynek a versenyrendszerben szervezett verseny vagy mérkőzés közterületen elhelyezett kivetítőn történő közvetítése. Az ilyen helyszínen való tartózkodásra, szolgáltatásnyújtásra e rendeletnek a vendéglátó üzlet kerthelyiségére vagy teraszára vonatkozó rendelkezéseit kell alkalmazni.
+
 (5) Ezen alcím alkalmazásában az online módon közvetített kulturális esemény vagy élő előadás útján nyújtott zeneszolgáltatás nem minősül rendezvénynek, ha a kulturális esemény vagy az élő előadás útján nyújtott zeneszolgáltatás helyszínén kizárólag a fellépők és a lebonyolításhoz elengedhetetlenül szükséges technikai személyzet tartózkodik.
 
-(6)[^37] Ezen alcím alkalmazásában
+(6)[^38] Ezen alcím alkalmazásában
 
 a) sportrendezvény az olyan versenyrendszerben szervezett verseny vagy mérkőzés, amelyen versenyzőként kizárólag a sportról szóló törvény szerinti versenyszerűen sportoló vehet részt,
 
 b) sportfesztivál az olyan sportesemény, amelyen a sportról szóló törvény szerinti versenyszerűen sportoló mellett a szabadidős sportoló is részt vehet.
 
-[^24]: A 4. §-t a 264/2021. (V. 21.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
 [^25]: A 3. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
 [^26]: Az 5. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
 [^27]: Az 5. § (1) bekezdése a 264/2021. (V. 21.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
@@ -53,4 +52,5 @@ b) sportfesztivál az olyan sportesemény, amelyen a sportról szóló törvény
 [^34]: Az 5. § (4) bekezdése a 264/2021. (V. 21.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
 [^35]: Az 5. § (4a) bekezdését a 264/2021. (V. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^36]: Az 5. § (4b) bekezdését a 264/2021. (V. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^37]: Az 5. § (6) bekezdését a 264/2021. (V. 21.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^37]: Az 5. § (4c) bekezdését a 335/2021. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^38]: Az 5. § (6) bekezdését a 264/2021. (V. 21.) Korm. rendelet 1. § (3) bekezdése iktatta be.

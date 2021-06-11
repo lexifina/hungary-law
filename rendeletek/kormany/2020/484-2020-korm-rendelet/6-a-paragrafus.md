@@ -1,4 +1,4 @@
-6/A. §[^51] (1) A családi eseményt vagy magánrendezvényt az e §-ban foglaltak szerint lehet megtartani.
+6/A. §[^52] (1) A családi eseményt vagy magánrendezvényt az e §-ban foglaltak szerint lehet megtartani.
 
 (2) A családi eseményen vagy magánrendezvényen – az ott foglalkoztatottakon kívül – egy időben
 
@@ -6,7 +6,7 @@ a) a lakodalom esetén legfeljebb kétszáz fő,
 
 b) a lakodalmon kívül minden más családi esemény vagy magánrendezvény esetén legfeljebb ötven fő
 
-## lehet jelen.
+lehet jelen.
 
 (3) A családi eseményen vagy magánrendezvényen a válogatott lemezbemutatás vagy élő előadás útján nyújtott zeneszolgáltatás megengedett.
 
@@ -24,7 +24,7 @@ a) a (6) bekezdés szerinti családi esemény vagy magánrendezvény ideje alatt
 
 b) a (7) bekezdés szerinti családi esemény vagy magánrendezvény ideje alatt az elkülönített helyiségben
 
-## nem köteles maszkot viselni.
+nem köteles maszkot viselni.
 
 (9) A (6) és (7) bekezdés szerinti védelmi intézkedés betartatásáról a vendéglátó üzlet üzemeltetője, illetve vezetője köteles gondoskodni.
 
@@ -38,4 +38,4 @@ b) a (7) bekezdés szerinti családi esemény vagy magánrendezvény ideje alatt
 
 (14) A (11)–(13) bekezdés szerinti védelmi intézkedés betartatásáról a szálláshely üzemeltetője, illetve vezetője köteles gondoskodni.
 
-[^51]: A 6/A. §-t a 264/2021. (V. 21.) Korm. rendelet 2. §-a iktatta be.
+[^52]: A 6/A. §-t a 264/2021. (V. 21.) Korm. rendelet 2. §-a iktatta be.

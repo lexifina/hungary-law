@@ -1,3 +1,3 @@
-## 3/A. §[^23]
+4. §[^24]
 
-[^23]: A 3/A. §-t a 624/2020. (XII. 21.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 3. §-a.
+[^24]: A 4. §-t a 264/2021. (V. 21.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
