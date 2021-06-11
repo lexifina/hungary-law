@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1494-30
 | 2018-02-02 | 2016-1494-30-22.4 | 1133/2017. (III. 20.) Korm. határozat |
 | 2019-04-18 | 2016-1494-30-22.5 | 1133/2017. (III. 20.) Korm. határozat |
 | 2020-07-14 | 2016-1494-30-22.6 | 1133/2017. (III. 20.) Korm. határozat |
+| 2021-06-11 | 2016-1494-30-22.7 | 1133/2017. (III. 20.) Korm. határozat |
