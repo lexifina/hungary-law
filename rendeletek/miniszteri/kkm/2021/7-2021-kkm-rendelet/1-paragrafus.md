@@ -28,6 +28,8 @@ m) Szlovák Köztársaság,
 
 n) Szlovén Köztársaság,
 
-o) Török Köztársaság.
+o) Török Köztársaság,
 
-[^1]: Az 1. § a 22/2021. (VI. 9.) KKM rendelet 1. §-ával megállapított szöveg.
+p) Ukrajna.
+
+[^1]: Az 1. § a 23/2021. (VI. 10.) KKM rendelet 1. §-ával megállapított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-7-20-6Q
 | 2021-06-06 | 2021-7-20-6Q.10 | 20/2021. (VI. 5.) KKM rendelet |
 | 2021-06-09 | 2021-7-20-6Q.11 | 21/2021. (VI. 8.) KKM rendelet |
 | 2021-06-10 | 2021-7-20-6Q.12 | 22/2021. (VI. 9.) KKM rendelet |
+| 2021-06-11 | 2021-7-20-6Q.13 | 23/2021. (VI. 10.) KKM rendelet |
