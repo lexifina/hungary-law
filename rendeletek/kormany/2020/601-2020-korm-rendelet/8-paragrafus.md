@@ -28,6 +28,6 @@ b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, i
 
 (11) A (9) bekezdés b) pontja a honvédelmi egészségügyi szolgáltatónál, valamint az egészségügyi szolgáltatást nem nyújtó honvédelmi szervezetnél létesített, egészségügyi tevékenység végzésére irányuló, a egészségügyi honvédelmi alkalmazotti jogviszonyhoz kapcsolódó munkakörre, vezetői megbízásra nem alkalmazandó.
 
-(12)[^21] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+(12)[^22] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
 
-[^21]: A 8. § (12) bekezdése a 186/2021. (IV. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^22]: A 8. § (12) bekezdése a 186/2021. (IV. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

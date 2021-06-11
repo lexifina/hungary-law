@@ -1,3 +1,3 @@
-## 16. §[^34]
+## 16. §[^35]
 
-[^34]: A 16. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 38. pontja alapján hatályát vesztette.
+[^35]: A 16. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 38. pontja alapján hatályát vesztette.
