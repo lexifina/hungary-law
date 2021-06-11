@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-556-20-
 | 2020-12-19 | 2020-556-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-01-01 | 2020-556-20-22.4 | 659/2020. (XII. 24.) Korm. rendelet |
 | 2021-02-08 | 2020-556-20-22.5 | 27/2021. (I. 29.) Korm. rendelet |
+| 2021-06-11 | 2020-556-20-22.6 | 331/2021. (VI. 10.) Korm. rendelet |
