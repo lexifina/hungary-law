@@ -82,23 +82,9 @@ Határidő: folyamatos
 
 7.[^8] egyetért azzal, hogy a NÚSZ Zrt. az előszűréshez, az objektív felelősség bevezetését követően pedig az ellenőrzéshez szükséges adatokat – így különösen a jármű azonosító adatokat, a járműről készült képi felvételeket, a tengelyterhelést, az összsúlyt, az adatfelvételezés helyét, idejét – az ITM hatósági informatikai rendszere részére integrált módon, elektronikus úton biztosítsa;
 
-8.[^9] felhívja az innovációért és technológiáért felelős minisztert és a pénzügyminisztert, hogy gondoskodjanak a 6. pont a) alpontjában meghatározott rendszerelemek fenntartásához és üzemeltetéséhez szükséges forrásoknak a Magyarország központi költségvetése Innovációs és Technológiai Minisztérium fejezet Útdíj rendszerek működtetése jogcímcsoportja keretében történő biztosításáról;
+8.[^9]
 
-Felelős: innovációért és technológiáért felelős miniszter
-
-pénzügyminiszter
-
-Határidő: a 2017. évi központi költségvetés tervezésével kezdődően folyamatos
-
-9.[^10] felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a 6. pont b) alpont ba)–bc) pontjában és a 6. pont c) és d) alpontjában meghatározott vagyonelemek üzemeltetéséhez és fenntartásához szükséges források rendelkezésre állásról a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezetében,
-
-a) a 6. pont b) alpont ba) pontja esetében a „Közúthálózat fenntartás és működtetése” előirányzat javára,
-
-b) a 6. pont b) alpont bb) és bc) pontja, valamint a 6. pont c) és d) alpontja esetében a „Tengelysúlymérő-rendszer üzemeltetése” előirányzat javára.
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: az éves központi költségvetési törvények tervezése során
+9.[^10]
 
 10.[^11] A kormányhatározat visszavonása nem érinti a kormányhatározat által a visszavonást megelőzően keletkeztetett, megszüntetett vagy módosított jogokat és kötelezettségeket.
 
@@ -110,6 +96,6 @@ Határidő: az éves központi költségvetési törvények tervezése során
 [^6]: Az 5. pont az 1825/2018. (XII. 27.) Korm. határozat 3. pont b) és c) alpontja szerint módosított szöveg.
 [^7]: A 6. pont az 1825/2018. (XII. 27.) Korm. határozat 1. pontjával megállapított szöveg.
 [^8]: A 7. pont az 1825/2018. (XII. 27.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
-[^9]: A 8. pont az 1825/2018. (XII. 27.) Korm. határozat 3. pont b), c) és e) alpontja szerint módosított szöveg.
-[^10]: A 9. pont az 1825/2018. (XII. 27.) Korm. határozat 2. pontjával megállapított szöveg.
+[^9]: A 8. pontot az 1374/2021. (VI. 11.) Korm. határozat 8. pontja visszavonta.
+[^10]: A 9. pontot az 1374/2021. (VI. 11.) Korm. határozat 8. pontja visszavonta.
 [^11]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
