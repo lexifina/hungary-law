@@ -758,9 +758,27 @@ tartalmazhat.
 
 | 301. | N-methylbenzedrone | 2-[benzyl(methyl)amino]-1-(4-methylphenyl)propan-1-one |
 
+| 302. | 3F-PCP | 1-[1-(3-fluorophenyl)cyclohexyl]piperidine |
+
+| 303. | 3-Cl-PCP | 1-[1-(3-chlorophenyl)cyclohexyl]piperidine |
+
+| 304. | A-D2PV | 1,2-diphenyl-2-(pyrrolidin-1-yl)ethan-1-one |
+
+| 305. | 3-Me-PCP | 1-[1-(3-methylphenyl)cyclohexyl]piperidine |
+
+| 306. | MXiPR | 2-(isopropylamino)-2-(3-methoxyphenyl)-cyclohexanone |
+
+| 307. | Metonitazene | N,N-diethyl-2-[2-[(4-methoxyphenyl)methyl]-5-nitro-benzimidazol- 1-yl]ethanamine |
+
+| 308. | Cumyl-BC-HpMeGaClone-221 | 5-(Bicyclo[2.2.1]hept-2-ylmethyl)-2-(2-phenylpropan-2-yl)-2,5- dihydro-1H-pyrido[4,3-b]indol-1-one |
+
+| 309. | 3-Methoxyphenmetrazine | 2-(3-methoxyphenyl)-3-methylmorpholine |
+
+| 310. | 4F-EPH | Ethyl 2-(4-fluorophenyl)-2-(piperidin-2-yl)acetate |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 [^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1–2. §-a, a 19/2021. (VI. 2.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1–2. §-a, a 19/2021. (VI. 2.) EMMI rendelet 1. §-a, a 22/2021. (VI. 8.) EMMI rendelet 1. §-a szerint módosított szöveg.
