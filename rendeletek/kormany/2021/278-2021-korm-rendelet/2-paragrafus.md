@@ -1,1 +1,3 @@
-## „33. a 8., 15. és 24. pontban felsorolt, valamint egyéb értékesítési, marketing- és kommunikációs tevékenységéhez és az egyes nemzeti rendezvények megszervezéséhez kapcsolódó feladatait egy, a tulajdonosi joggyakorlása alá tartozó gazdasági társaság útján látja el,”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
