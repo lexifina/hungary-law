@@ -18,7 +18,7 @@ b) a tartózkodási engedéllyel rendelkező személyek esetében az útlevél o
 
 (6)[^12] A nyilvántartó szerv az (5) bekezdés alapján átvett adatot a személy regisztrációs felületen megadott adatainak az egyes nyilvántartásokban szereplő adatokkal való összevetését és ellenőrzését (a továbbiakban: validálását) és annak a (7) bekezdés szerinti átadását követően haladéktalanul törli. A nyilvántartó szerv a kapott adatokat – a nyilvántartásokban szereplő adatok alapján, valamint szükség esetén az érintett személlyel történő egyeztetést követően – pontosítja, ha azok eltérnek a nyilvántartásokban szereplő adatoktól, de a regisztrált személy a kapott adatokból beazonosítható. Ha a regisztrációs felületen megadott adatok validálása és az adatok pontosítása eredménytelen, a nyilvántartó szerv a kapott adatokat az átvételt követő hat hónap után törli.
 
-(7)[^13] A (6) bekezdés szerint azonosított személy nevét, életkorát, értesítési címét, elektronikus elérhetőségét, valamint az (5) bekezdés a) és b) pontja szerinti adatokat a Belügyminisztérium az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője részére megküldi.
+(7)[^13] A (6) bekezdés szerint validált személy nevét, életkorát, értesítési címét, elektronikus elérhetőségét, a nyilvántartó szerv által vezetett nyilvántartásokban található születési idejét, valamint az (5) bekezdés a) és b) pontja szerinti adatokat a Belügyminisztérium az Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) működtetője részére megküldi.
 
 (8)[^14] Az EESZT működtetője az EESZT-ben az oltottság adatai rögzítésének érdekében az érintett számára az EESZT-ben az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 35/F. § (1) bekezdés a) pontja szerinti azonosítót (a továbbiakban: technikai azonosító) hoz létre, amelyhez az érintett (7) bekezdés szerinti adatait hozzárendeli. Az EESZT működtetője az érintettre vonatkozó technikai azonosítót, valamint az érintett (7) bekezdése szerinti adatait a NEAK részére átadja.
 
@@ -30,7 +30,7 @@ b) a tartózkodási engedéllyel rendelkező személyek esetében az útlevél o
 [^10]: A 9/B. § (1) bekezdése a 132/2021. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 146/2021. (III. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^11]: A 9/B. § (5) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A 9/B. § (6) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
-[^13]: A 9/B. § (7) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 9/B. § (7) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 334/2021. (VI. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^14]: A 9/B. § (8) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
 [^15]: A 9/B. § (9) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
 [^16]: A 9/B. § (10) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
