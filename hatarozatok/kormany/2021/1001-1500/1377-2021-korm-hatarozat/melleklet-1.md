@@ -48,6 +48,8 @@
 
 ## összegben csoportosítja át.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és Korm. határozat módosításáról szóló 1494/2016. (IX. 15.) Korm. határozat 1. pontjában a „2021. december 31.” szövegrész helyébe a „2022. június 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1377/2021. (VI. 11.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
