@@ -4,6 +4,6 @@
 
 | 2. | Képzési központ létrehozása | Budapest 36548 helyrajzi számú ingatlan | a kivitelezés megkezdésétől – 2026. december 31. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^29]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^34]
 
-[^29]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

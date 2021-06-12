@@ -1,3 +1,3 @@
-## 13. §[^16]
+## 13. §[^19]
 
-[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.
+[^19]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.

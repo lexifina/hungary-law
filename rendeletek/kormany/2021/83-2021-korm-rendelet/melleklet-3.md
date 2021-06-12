@@ -26,4 +26,12 @@
 
 | 14. | Balatonfüred Alkony Program előkészítése | Balatonfüred belterület 633/1 helyrajzi számú ingatlan | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
+| 15. | Szilágyi Dezső téri református templom rekonstrukciója és bővítése | Budapest belterület 14431 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 16. | Budapest-Pasaréti Páduai Szent Antal Plébánia lelkipásztori központjának felépítése, a templom és a rendház felújítása | Budapest belterület 11618/9 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 17. | Budapest-Pasaréti Páduai Szent Antal Plébánia lelkipásztori központjának felépítése, a templom és a rendház felújítása | Budapest belterület 11648/3 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 18. | Tihanyi Bencés Apátság műemléki és kiegészítő fejlesztései | Tihany belterület 1/1, 1/2, 4, 5 és 6 helyrajzi számú ingatlanok | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
+
 3. melléklet a 83/2021. (II. 23.) Korm. rendelethez
