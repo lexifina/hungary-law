@@ -62,4 +62,6 @@ belügyminiszter
 
 Határidő: 2021. október 1.
 
-8. visszavonja a Nemzeti Tengelysúly- és kapcsolódó ellenőrzéseket támogató hálózat kialakításáról szóló 1102/2016. (III. 3.) Korm. határozat 8. és 9. pontját.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
