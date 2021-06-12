@@ -1,1 +1,3 @@
-## 1. § Az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló 55/2014. (XII. 30.) EMMI rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
