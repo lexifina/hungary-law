@@ -1,7 +1,3 @@
-## 3. § Az R. 7. § (2)–(4) bekezdése helyébe a következő rendelkezések lépnek:
+## 3. §[^4]
 
-## „(2) A Nemzeti Biztonsági Felügyelet és a Nemzeti Közszolgálati Egyetem az állami szervek és a gazdálkodó szervezetek esetében a titkos ügykezelői és a biztonsági vezetői munkakörben foglalkoztatott személyek részére – a kinevezésük előtt – a minősített adat védelméről szóló törvény és e rendelet ismeretéből, gyakorlati alkalmazásából oktatást és az (1) bekezdésben meghatározott vizsgát szervezhet. A Nemzeti Közszolgálati Egyetemnél a titkos ügykezelőre meghatározott tananyagot és a vizsgakövetelményeket a Nemzeti Biztonsági Felügyelet elnöke előzetesen jóváhagyja.
-
-## (3) A minősített adatot kezelő szerv a minősített adatot kezelő szervnél titkos ügykezelői munkakörben foglalkoztatott személyek részére – a kinevezésük előtt – a minősített adat védelméről szóló törvény és e rendelet ismeretéből, gyakorlati alkalmazásából oktatást és az (1) bekezdésben meghatározott vizsgát tarthat. A titkos ügykezelőre meghatározott tananyag és vizsgakövetelmény elkészíttetése, az oktatás szervezeti kereteinek és a vizsgáztatás eljárási rendjének meghatározása, valamint a vizsgabizottság kijelölése a szakirányításra jogosult vezető vagy a biztonsági vezető feladata.
-
-## (4) A minősített adatot kezelő szerveknél a titkos ügykezelőre meghatározott tananyagot és a vizsgakövetelményeket a Nemzeti Biztonsági Felügyelet elnöke előzetesen jóváhagyja. A biztonsági vezető a titkos ügykezelők részére szervezett vizsga tervezett időpontjáról a Nemzeti Biztonsági Felügyelet elnökét előzetesen írásban tájékoztatja, aki elrendelheti a vizsgáztatás menetének és rendjének ellenőrzését.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „f) az eredeti irattári példány esetében a kiadmányozó aláírását, elektronikus minősített adat esetén a minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírását, vagy az elektronikus bélyegzőt és az időbélyeget.”
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

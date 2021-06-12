@@ -1,3 +1,3 @@
-## 4. § Az R. 15. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „(4) A biztonsági vezető felelőssége, hogy a minősített adatot kezelő szervnél tárolt felhasználói engedély és titoktartási nyilatkozat a felhasználói engedély visszavonását követően 8 évig fellelhető legyen. Ezt követően intézkedik ezen okmányok selejtezési jegyzőkönyv felvétele mellett történő megsemmisítéséről.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

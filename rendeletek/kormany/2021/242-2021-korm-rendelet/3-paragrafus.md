@@ -1,3 +1,3 @@
-## 2. § Az R. 4. § (2e) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(2e) Az ellenőrzési jegyzőkönyv vagy az ellenőrzésről készült feljegyzés egy példányát a vizsgált szerv részére a Nemzeti Biztonsági Felügyelet az ellenőrzés befejezésétől számított 15 napon belül megküldi.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
