@@ -12,11 +12,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a védelmi felkészítés egyes kérdéseiről szóló 1643/2020. (X. 7.) Korm. határozat.
+## 3.[^2]
 
 1. melléklet az 1370/2021. (VI. 10.) Korm. határozathoz
 
-## A védelmi felkészítés 2021. évi feladatterve
+A védelmi felkészítés 2021. évi feladatterve
 
 1. Az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) Válságreagálási Rendszerével összhangban álló Nemzeti Intézkedési Rendszerrel kapcsolatban végrehajtandó feladatok:
 
@@ -337,3 +337,5 @@ Határidő: 2022. február 15.
 Felelős: honvédelmi miniszter
 
 Határidő: 2022. március 31.
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
