@@ -32,17 +32,9 @@
 
 ## Határidő: a d) alpont szerinti forrás rendelkezésre állását követően azonnal
 
-## 2. Az egyes köznevelési infrastrukturális fejlesztésekről szóló intézkedések keretében tervezett, a Kecskeméti Tankerületi Központ fenntartásában működő Kecskeméti Széchenyivárosi Arany János Általános Iskola Lánchíd Utcai Sport Általános Iskolája fejlesztésére irányuló beruházás előkészítéséről szóló 1688/2020. (X. 22.) Korm. határozat 1. pontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány)
-
-## „1. egyetért az egyes köznevelési infrastrukturális fejlesztésekről szóló intézkedések keretében a Kecskeméti Tankerületi Központ fenntartásában működő Kecskeméti Széchenyivárosi Arany János Általános Iskola Lánchíd Utcai Sport Általános Iskolája fejlesztésére irányuló beruházás (a továbbiakban: Beruházás) koncepciójával, és a Beruházás annak megfelelő, 2021. május 31-ig történő teljes körű előkészítésével az ingatlan-nyilvántartás szerinti Kecskemét belterület 3791/58 helyrajzi számú ingatlanon;”
-
-## 3. Az egyes köznevelési infrastrukturális fejlesztésekről szóló intézkedések keretében tervezett, a Mezőkövesdi Tankerületi Központ fenntartásában működő Mezőkövesdi Alapfokú Művészeti Iskola beruházásának előkészítéséről szóló 1699/2020. (X. 27.) Korm. határozat 1. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „1. egyetért az egyes köznevelési infrastrukturális fejlesztésekről szóló intézkedések keretében a Mezőkövesdi Tankerületi Központ fenntartásában működő Mezőkövesdi Alapfokú Művészeti Iskola beruházásának (a továbbiakban: Beruházás) koncepciójával, és a Beruházás annak megfelelő, 2021. október 31-ig történő teljes körű előkészítésével az ingatlan-nyilvántartás szerinti Mezőkövesd belterület 5044 helyrajzi számú ingatlanon, azzal, hogy a Beruházás előkészítését és megvalósítását Mezőkövesd Város Önkormányzata végzi;”
+## 3.[^2]
 
 1. melléklet az 1375/2021. (VI. 11.) Korm. határozathoz
 
@@ -55,3 +47,6 @@
 | 3. | Keszthelyi Vajda János Gimnázium | 8360 Keszthely, Fő tér 9. | Nagykanizsai Tankerületi Központ | 96 500 000 |
 
 |  | Összesen | 843 089 630 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
