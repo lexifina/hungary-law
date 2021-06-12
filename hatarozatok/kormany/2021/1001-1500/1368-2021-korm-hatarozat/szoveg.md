@@ -156,10 +156,8 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók módosítását követően azonnal
 
-4. A Kormány visszavonja
-
-a) a Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra gyakorolt gazdasági hatásainak mérséklése érdekében létrehozandó Széchenyi Kártya Program hitelkonstrukciókról szóló 1194/2020. (IV. 30.) Korm. határozat 3. pont 3.1. alpont a) pontját;
-
-b) az 1913/2020. (XII. 16.) Korm. határozat 4., 5. és 6. pontját.
+4.[^1]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
