@@ -1,3 +1,3 @@
-11. §[^2]
+11. § (1) A Kormány e rendelet hatályát 2021. július 12-ig meghosszabbítja.
 
-[^2]: A 11. § a 10. § (2) bekezdése alapján 2021. június 12-én lép hatályba.
+(2) Ez a rendelet 2021. július 12-én hatályát veszti.
