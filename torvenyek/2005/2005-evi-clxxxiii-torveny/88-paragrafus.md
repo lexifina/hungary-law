@@ -90,7 +90,7 @@ rendeletben állapítsa meg.
 
 12.
 
-13. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó szabályokat,
+13. a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésére – ideértve a távoktatási képzésmenedzsment rendszerrel, digitális tananyaggal összefüggő szabályokat is – és vizsgáztatására, a vasúti vizsgaközpont és képzőszervezetek működésére, a képzési engedélyre, továbbá a vasúti járművezetői gyakorlatra vonatkozó szabályokat,
 
 14. a vasúti járművek
 

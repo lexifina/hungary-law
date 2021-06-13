@@ -14,7 +14,7 @@ d) a vasúti pálya, a vasúti üzemi létesítmények, a vasúti járművek, a 
 
 e) a vasúti járművek és a vasúti járműre szerelt, vasútüzemi célt szolgáló kazánok és nyomástartó edények hatósági jelzésének kiadása,
 
-f) a vasúti járművek, valamint a vasúti pályák nyilvántartásának vezetése,
+f) a vasúti járművek, valamint az országos vasúti pályahálózat nyilvántartásának vezetése,
 
 g) a biztonsági keretszabályok érvényesítése és fejlesztése, a nemzeti szabályok érvényesítése és érvényesülésének figyelemmel kísérése, azok módosítására vonatkozó javaslat kidolgozása, a nem jogszabályban kihirdetett nemzeti szabályok kiadását megelőző vizsgálata,
 

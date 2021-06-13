@@ -10,7 +10,7 @@
 
 1.3. keresztfinanszírozás tilalma: az egyik vasúti tevékenységi területre kifizetett állami pénzeszközöknek vagy erről a vasúti tevékenységi területről származó bevételeknek más vasúti tevékenységi területre történő átirányításának tilalma;
 
-1.4. keskeny nyomtáv: a nyomtáv névleges mérete nagyobb, mint 184 mm, de kisebb, mint 1435 mm;
+1.4. keskeny nyomtáv: a nyomtáv névleges mérete legalább 600 mm, de kisebb, mint 1435 mm;
 
 1.5. működési engedély: egy gazdálkodó szervezetnek az engedélyező hatóság által kiadott felhatalmazása, elismerve annak vasúti szolgáltatások nyújtására vasúti társaságként való alkalmasságát; az alkalmasság korlátozható a szállítási szolgáltatások bizonyos típusainak nyújtására;
 

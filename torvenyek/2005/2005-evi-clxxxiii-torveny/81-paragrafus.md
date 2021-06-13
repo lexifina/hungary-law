@@ -1,12 +1,24 @@
 ## A hatósági ellenőrzés, igazgatási bírság
 
-81. § (1) A közlekedési hatóság a vasúti pálya és tartozékai, az üzemi létesítmények és a vasúti járművek üzem- és forgalombiztos állapotát, az engedélyben előírt üzemeltetési feltételek betartását, valamint a karbantartás, az időszakos vizsgálatok és a szükséges javítások elvégzését ellenőrzi. A vasúti társaság köteles a szabad ellenőrzés valamennyi feltételét biztosítani, különösen a lényeges dokumentumokhoz, létesítményekhez, berendezésekhez és felszerelésekhez való korlátozás nélküli hozzáférést. Ha a közlekedési hatóság az ellenőrzés során mulasztást állapít meg,
+81. § (1) A közlekedési hatóság a vasúti pálya és tartozékai, az üzemi létesítmények és a vasúti járművek üzem- és forgalombiztos állapotát, az engedélyben előírt üzemeltetési feltételek betartását, valamint a karbantartás, az időszakos vizsgálatok és a szükséges javítások elvégzését ellenőrzi. A vasúti társaság köteles a szabad ellenőrzés valamennyi feltételét biztosítani, különösen a lényeges valós idejű forgalmi adatokhoz, dokumentumokhoz, létesítményekhez, berendezésekhez és felszerelésekhez való korlátozás nélküli hozzáférést. Ha a közlekedési hatóság az ellenőrzés során mulasztást állapít meg,
 
 a) az üzemben tartót a vizsgálat vagy a javítás elvégzésére illetve az üzemben tartót az engedélyben előírt üzemeltetési feltételek betartására kötelezi és
 
 b) az üzemben tartóval szemben bírságot szab ki.
 
-(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság a vasúti pálya üzemének megszüntetését, a vizsgált jármű forgalomból való kivonását, vagy a vasúti személyzet munkavégzésének felfüggesztését vagy a vasúti társaság tevékenység végzésétől történő eltiltását rendeli el, valamint bírságot szab ki.
+(2) Ha a mulasztás az élet- és vagyonbiztonságot veszélyezteti, a közlekedési hatóság – bírság kiszabása mellett – a veszély elhárításának igazolásáig a mulasztás jellegétől, a mulasztással érintett kör nagyságától és a mulasztás súlyától függően
+
+a) a vasúti pálya üzemének megszüntetését,
+
+b) a szerelvény további közlekedésének megtiltását és várakozóhelyre való közlekedését,
+
+c) a vizsgált jármű forgalomból való kivonását,
+
+d) a vasúti személyzet munkavégzésének felfüggesztését, vagy
+
+e) a vasúti társaság tevékenység végzésétől történő eltiltását
+
+rendeli el.
 
 (3) A közlekedési hatóság a vasúti pályának, a vasúti járműnek vagy a vasúti járműre szerelt nyomástartó edénynek engedély nélküli vagy az engedélyben foglaltaktól eltérő létesítése, gyártása, átalakítása, bontása, illetve használata, üzemeltetése esetén
 
@@ -106,4 +118,4 @@ e) a vasúti közlekedés biztonságával összefüggő munkakört betöltő mun
 
 terjedhet jogsértésenként.
 
-(17) A közlekedési hatóság a VPSZ-t a vasúti közlekedés biztonságával kapcsolatos tevékenységének ellátásához szükséges információk, adatok szolgáltatására kötelezheti.
+(17) A vasúti közlekedési hatóság a feladatai ellátásához szükséges információk és adatok –beleértve az üzleti titkot is – szolgáltatására, iratok bemutatására kötelezheti indítványra, vagy hivatalból a vasúti társaságot, a megfelelőségértékelő szervezetet, a kockázatértékelő szervezetet, a karbantartást végző szervezetet, valamint a VPSZ-t.

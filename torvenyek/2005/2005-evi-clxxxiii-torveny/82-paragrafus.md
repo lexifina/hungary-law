@@ -18,7 +18,7 @@ g) a nemzeti vasúti járműnyilvántartásban a vasúti jármű tulajdonosának
 
 kezelni, továbbá a vizsgaeredményeket, alkalmassági minősítéseket, képesítéseket – ezek hitelességének utólagos igazolása céljából – nyilvántartani.
 
-(2) A közlekedési hatóság személyes adatokat a vasúti közlekedés zavartalanságának biztosítása, a vasúti közlekedés biztonságának fenntartása, valamint a 80. § (4) bekezdésének c), h) és j) pontjaiban meghatározott feladatok ellátása érdekében kezeli.
+(2) A közlekedési hatóság személyes adatokat a vasúti közlekedés zavartalanságának biztosítása, a vasúti közlekedés biztonságának fenntartása, valamint a 80. § (1) bekezdés c), h) és j) pontjaiban meghatározott feladatok ellátása érdekében kezeli.
 
 (3) Az (1) bekezdésben meghatározott különleges adatokat a közlekedési hatóság a vasútbiztonsági követelmények érvényesítése céljából a munkavégzésre való alkalmasság megállapítása, a vasúti közlekedés biztonságának folyamatos fenntartása, valamint a 80. § (4) bekezdésének c), h) és j) pontjaiban meghatározott feladatok ellátása érdekében kezeli.
 

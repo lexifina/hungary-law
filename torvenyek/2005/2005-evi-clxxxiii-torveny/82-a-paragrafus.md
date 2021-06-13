@@ -1,6 +1,6 @@
 82/A. § (1) A közlekedési hatóság az ellenőrzési tevékenységének támogatása céljából, a hatósági engedélyek közhitelességének biztosításához fűződő egyéni és közérdek érvényesítése érdekében a 80. § (1) bekezdés c), l) és n) pontjában, 82. § (1) bekezdés a)–c) és f) pontjában meghatározott, valamint a 82. § (1) bekezdés d) pontjában meghatározottak közül a 10. § (1) bekezdés d) és e) pontjában foglalt személyekre és szervezetekre vonatkozó, elektronikus vasúti személyi és szervezeti nyilvántartást vezet.
 
-(2) A nyilvántartás
+(2) A nyilvántartás a nyilvántartási számon, valamint a nyilvántartásba vétel időpontján túlmenően
 
 a) a vasúti járművezető
 
@@ -24,7 +24,7 @@ b) a képzést és vizsgáztatást végző személy és az egészségi alkalmass
 
 ba) 80/B. § (1) bekezdésében meghatározott adatait,
 
-bb) vizsgaeredményeire, alkalmassági minősítésére, képesítésére vonatkozó adatokat,
+bb) vizsgaeredményeire, alkalmassági minősítésére, képesítésére vonatkozó adatokat, az egészségi alkalmassági vizsgálatot végző orvos orvosi pecsétjének számát,
 
 bc) a képzésre, vizsgáztatásra, egészségi alkalmasság vizsgálatára és véleményezésére vonatkozó jogosultság kezdetének és megszűnésének időpontját;
 
@@ -48,7 +48,7 @@ dc) vasúti társaságban betöltött tisztségére vonatkozó adatokat, valamin
 
 dd) annak a vasúti társaságnak az azonosító adatait, amelynek ügyvezetését, vagy a közlekedési tevékenységének szakmai irányítását a személy ellátja;
 
-e) a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok minősítését, valamint hatósági műszaki vizsgálatát végző, valamint a vasúti járművek, vasúti járművek közlekedésbiztonsági berendezései javítását, karbantartását és időszakos vizsgálatát végző természetes személy
+e) a vasúti járművekre szerelt, vasútüzemi célt szolgáló nyomástartó edények és kazánok minősítését, valamint hatósági műszaki vizsgálatát végző, valamint a vasúti járművek, vasúti járművek közlekedésbiztonsági berendezései javítását, karbantartását és időszakos vagy rendkívüli vizsgálatát végző természetes személy – vasúti jármű vizsgabiztos –
 
 ea) természetes személyazonosító adatait,
 
@@ -89,3 +89,33 @@ kezeli.
 (5) A nyilvántartás a (2) bekezdés a) pont ag) és ah) alpontjában, a b) pont bb) és bc) alpontjában, a c) pont cb) és cc) alpontjában, a d) pont dc) és dd) alpontjában, az e) pont eb) és ec) alpontjában, valamint az f) pont fb) alpontjában foglalt adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (6) A közlekedési hatóság az elektronikus vasúti személyi és szervezeti nyilvántartás vezetése céljából az érintett természetes személyazonosító adatait, lakcímadatait, valamint elhalálozásának helyét és idejét igényelheti a személyiadat- és lakcímnyilvántartást kezelő szervtől.
+
+(7) A nyilvántartásból közvetlen adatátvétel útján igényelheti
+
+a) a Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság az egészségi alkalmassági vizsgálati feladatai ellátásához
+
+aa) a (2) bekezdés a) és c) pontjában meghatározott személyek természetes személyazonosító adatait és nyilvántartási számát;
+
+ab) az egészségügyi alkalmasság vizsgálatát és véleményezését végző személy (2) bekezdés b) pont bc) alpontjában meghatározott adatait;
+
+b) a vasúti képzési módszertani központ és vasúti vizsgaközpont a feladatai ellátásához a (2) bekezdés a) és c) pontjában meghatározott személyek, valamint a (2) bekezdés b) pontjában meghatározottak közül a képzést és vizsgáztatást végző személyek
+
+ba) természetes személyazonosító adatait és
+
+bb) nyilvántartási számát;
+
+c) a vasúti társaság a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló miniszteri rendeletben meghatározott feladatai ellátásához a társaságnál alkalmazásban álló munkavállalók
+
+ca) (2) bekezdés a) pont aa), ad) alpontjában meghatározott, valamint
+
+cb) (2) bekezdés c) pont ca), cc) alpontjában meghatározott adatait.
+
+(8) A közlekedési hatóság felhívására, a vasúti közlekedési biztonsági feladatainak ellátása érdekében hatósági ellenőrzés, illetve azt követően hatósági eljárás lefolytatása céljából a vasúti társaság – elektronikus kapcsolattartás esetén – elektronikus úton adatot szolgáltat az országos jelentőségű vasútvonalakon, térségi, elővárosi, helyi vagy városi vasúti pályahálózaton a vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalóról a hatóság által meghatározott időszakra vonatkozóan a munkavállaló természetes személyazonosító adatai alapján a munkavállaló
+
+a) nyilvántartási számáról
+
+b) tényleges napi munkaidejéről és
+
+c) vezénylésével kapcsolatos adatairól.
+
+(9) A közlekedési hatóság a (8) bekezdés szerinti adatokat hatósági ellenőrzés, illetve az azt követő hatósági eljárás végleges lezárását követő 5 évig kezeli.
