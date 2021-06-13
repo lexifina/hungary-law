@@ -1,3 +1,5 @@
-## 2. § Az R. 2. § (6a) bekezdésében a „hatóság a (6) bekezdés” szövegrész helyébe a „hatóság – a (7a) bekezdésben foglaltak kivételével – a (6) bekezdés” szöveg lép.
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

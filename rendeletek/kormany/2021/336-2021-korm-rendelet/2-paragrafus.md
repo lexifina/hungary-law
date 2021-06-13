@@ -1,1 +1,0 @@
-## „(7a) A (6a) bekezdéstől eltérően, ha az érintett részére a (3) vagy (4) bekezdésre tekintettel védettségi igazolvány került kiállításra, az érintett a védettségi igazolvány lejártát megelőző 14 napon belül is kérelmezheti a (7) bekezdés szerint a védettségi igazolvány kiállítását.”
