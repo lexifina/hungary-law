@@ -1,1 +1,1 @@
-82. § A Projekttörvény 3. § (1) bekezdésében a „gazdálkodó szervezettel” szövegrész helyébe a „gazdasági szereplővel” szöveg, az „a minősített adat védelméről szóló törvény szerinti telephely-biztonsági tanúsítvánnyal rendelkezik” szövegrész helyébe a „szerepel a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény szerinti jegyzéken” szöveg lép.
+82. §
