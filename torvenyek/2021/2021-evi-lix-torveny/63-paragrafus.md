@@ -1,3 +1,1 @@
-63. § Az Útdíjtv. 10. §-a helyébe a következő rendelkezés lép:
-
-„10. § A 9. § (1) bekezdés a), e) és g) pontjában meghatározott járművek a közlekedési igazgatási hatósághoz, vagy az a) pont esetén közvetlen hozzáféréssel elektronikusan a b)–d), h), j) és k) pontjában meghatározott járművek a közúti közlekedési nyilvántartó szervhez, az f) és i) pontban meghatározott járművek a katasztrófavédelmi hatósághoz történő előzetes bejelentése alapján, annak tudomásulvételét és a mentességi nyilvántartásba történő bejegyzést követően a jármű üzembentartóját útdíjfizetési és bevallási kötelezettség nem terheli.”
+63. §

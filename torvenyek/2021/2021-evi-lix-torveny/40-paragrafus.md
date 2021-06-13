@@ -1,3 +1,1 @@
-40. § A Vtv. 79/F. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A vasúti igazgatási szerv részére a piac felügyeletével kapcsolatos tevékenységért az országos működési engedéllyel rendelkező vasúti társaság felügyeleti díjat fizet, amelynek mértéke a fizetésre kötelezett által az előző évben belföldön fizetett hálózat-hozzáférési díj, valamint elszámolt belső hálózat-hozzáférési díj 0,4%-a. Előző évi fizetett hálózat-hozzáférési díj, vagy elszámolt hálózat-hozzáférési díj hiányában a felügyeleti díjat a tárgyidőszakban ténylegesen fizetett hálózat-hozzáférési díjak alapján kell megfizetni. A felügyeleti díj a vasúti igazgatási szervet illeti meg, amely azt feladataival összefüggésben használja fel.”
+40. §

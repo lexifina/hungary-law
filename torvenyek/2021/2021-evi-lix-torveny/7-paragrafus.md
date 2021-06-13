@@ -6,6 +6,6 @@ b) 29. § (9) bekezdésében a „közforgalom elől elzárni az utak forgalomsz
 
 c) 29/E. § (11) bekezdésében a „kerékpárforgalmi létesítmények tartozékainak esetében” szövegrész helyébe a „kerékpárforgalmi létesítmények és tartozékainak esetében” szöveg,
 
-d) a 44. § (8) bekezdésében a „jogosult díjmentesen átvenni” szövegrész helyébe a „közvetlen adathozzáféréssel, díjmentesen jogosult átvenni” szöveg
+d)
 
 lép.

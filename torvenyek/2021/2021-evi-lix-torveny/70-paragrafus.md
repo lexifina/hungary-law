@@ -21,11 +21,3 @@ való megfelelést szolgálja.
 4. az európai elektronikus útdíjszedési szolgáltatást nyújtó szolgáltatók részletes kötelezettségeiről, az EETS területi nyilatkozatok minimális tartalmáról, az elektronikus kapcsolódási pontokról, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a 2009/750/EK határozat hatályon kívül helyezéséről szóló, 2019. november 28-i (EU) 2020/204 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
