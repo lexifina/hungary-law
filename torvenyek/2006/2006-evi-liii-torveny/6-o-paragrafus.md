@@ -1,4 +1,4 @@
-6/O. § (1) Kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények tartozékainak (a továbbiakban együttesen: kerékpárút) építése során közmű kiváltására, fejlesztésére (a továbbiakban: közmű kiváltása) vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni.
+6/O. § (1) Kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények és tartozékainak (a továbbiakban együttesen: kerékpárút) építése során közmű kiváltására, fejlesztésére (a továbbiakban: közmű kiváltása) vonatkozó szabályokat az alábbi eltérésekkel kell alkalmazni.
 
 (2) A kerékpárút nyomvonalában a közműveket nem kell kiváltani, ha a közművek
 

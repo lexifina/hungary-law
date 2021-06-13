@@ -9,3 +9,5 @@
 (4) A (3) bekezdés szerinti esetben a telekalakítást legkésőbb a használatbavételi engedélyezési vagy tudomásulvételi eljárás megindulásáig az ingatlan-nyilvántartásban át kell vezetni.
 
 (5) Közlekedési infrastruktúra-beruházás megvalósítása során az építtető kérelmére a hatóság köteles lefolytatni azt az Étv. szerinti, valamint a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárást és környezeti hatásvizsgálati engedélyezési, valamint a már kiadott engedély módosítására irányuló eljárást is, ha az adott tevékenységre vonatkozóan jogszabály már nem ír elő engedélyt. Ilyen esetben az engedélyezésre vonatkozó korábbi – a hatályvesztésüket megelőző napon hatályos – jogszabályi rendelkezéseket kell alkalmazni.
+
+(6) Az e törvény szerinti eljárásokban ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen. Az ügygondnokot az eljáró hatóság, az eseti gondnokot a hatóság megkeresésére a gyámhatóság rendeli ki. A gyámhatósági eljárás ügyintézési ideje 15 nap.
