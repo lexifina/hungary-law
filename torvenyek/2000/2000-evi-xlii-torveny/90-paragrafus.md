@@ -29,3 +29,5 @@ l) a Bizottság (2013. október 11.) a belvízi hajókra vonatkozó műszaki kö
 m) a tengerészeti felszerelésekről és a 96/98/EK tanácsi irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 2014/90/EU európai parlamenti és tanácsi irányelv,
 
 n) az Európai Hajózási Szövetség (EBU), az Európai Hajósok Szervezete (ESO) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) által kötött, a munkaidő-szervezés egyes szempontjainak a belvízi hajózási ágazaton belüli szabályozásáról szóló európai megállapodás végrehajtásáról szóló, 2014. december 19-i 2014/112/EU tanácsi irányelv, az egyes foglalkoztatáspolitikai és egészségügyi tárgyú jogszabályokkal együtt.
+
+o) a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról és a tagállamok által kiállított tengerészképesítési bizonyítványok kölcsönös elismeréséről szóló 2005/45/EK irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1159 európai parlamenti és tanácsi irányelv.
