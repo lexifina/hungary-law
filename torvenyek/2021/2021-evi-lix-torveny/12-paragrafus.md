@@ -1,0 +1,3 @@
+12. § Az Lt. 3/A. §-a a következő (10) bekezdéssel egészül ki:
+
+„(10) A légiközlekedési vizsgaközpont az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a légiközlekedési szakszemélyzeti képesítések megszerzéséhez szükséges vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és ezek hitelességének utólagos igazolása céljából – uniós jogi aktus vagy törvény eltérő rendelkezése hiányában – nyilvántartani a vizsga teljesítését követő 40 évig.”
