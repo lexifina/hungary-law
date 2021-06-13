@@ -2,7 +2,11 @@
 
 56/A. § (1) Az engedélyes köteles a Hivatal által a 72. § rendelkezései szerint jóváhagyott üzletszabályzatot – a mindenkor hatályos, egységes szerkezetbe fogalt szöveggel – az ügyfélszolgálatán, illetve a honlapján a felhasználók részére hozzáférhetővé tenni.
 
-(2) A felhasználót megilleti az a jog, hogy fogyasztási adataira vonatkozóan térítésmentesen tájékoztatást kapjon az őt ellátó egyetemes szolgáltatótól, villamosenergia-kereskedőtől. A felhasználó kérése esetén biztosítani kell minden számlázási időszakban legalább egyszer díjmentesen a felhasználót érintő keresletoldali szabályozásból származó, vagy a kínált és eladott villamos energiával kapcsolatos valamennyi releváns adatot.
+(1a) Az engedélyes az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben előírt, az ügyfélszolgálatán teljesítendő közzétételi, tájékoztatási kötelezettségét elektronikus eszköz útján is teljesítheti.
+
+(2) A felhasználót megilleti az a jog, hogy fogyasztási adataira vonatkozóan térítésmentesen tájékoztatást kapjon az őt ellátó villamosenergia-kereskedőtől.
+
+(2a) A felhasználó kérése esetén az aggregátor minden számlázási időszakban legalább egyszer, díjmentesen biztosítja a felhasználót érintő keresletoldali szabályozásból származó, vagy a kínált és eladott villamos energiával kapcsolatos valamennyi releváns adatot.
 
 (3) A villamos energia felhasználók részére történő értékesítéséhez kapcsolódóan a felhasználókat tájékoztatni kell az előző naptári évben értékesített villamos energia előállításához felhasznált energiaforrások részarányáról és környezeti hatásairól. A tájékoztatás módjára és tartalmára vonatkozó részletes szabályokat a miniszter rendeletben határozza meg.
 

@@ -12,4 +12,4 @@ e) az elosztói rugalmassági szolgáltatási igények tervezése, meghatározá
 
 (2) Az elosztó az (1) bekezdésben foglaltakon kívül felelős továbbá azért, hogy az elosztó hálózat hosszú távon alkalmas legyen a villamos energia elosztásával kapcsolatos, indokolt igények kielégítésére.
 
-(3) Az elosztó tulajdonában kell állnia a tevékenység folytatásához szükséges – a működési engedélyben meghatározott – hálózati, rendszer- és üzemirányítási, mérés-elszámolási és informatikai eszközöknek.
+(3) Az elosztó tulajdonában kell állnia a tevékenység folytatásához szükséges – a működési engedélyben meghatározott – hálózati, rendszer- és üzemirányítási, mérés-elszámolási és informatikai berendezéseknek.

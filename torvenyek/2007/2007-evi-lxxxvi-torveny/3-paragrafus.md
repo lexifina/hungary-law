@@ -26,7 +26,9 @@
 
 7a. Adatgazdálkodás: a villamosenergia-ellátási szabályzatokban meghatározott fogyasztásmérési és fogyasztási adatok, valamint a kereskedőváltáshoz, az aggregátorváltáshoz, a keresletoldali szabályozáshoz és az egyéb szolgáltatásokhoz szükséges adatok cseréjére és az adatokhoz történő hozzáférésre vonatkozó azon szabályok összessége, amelyek mentén az adatok beszerzése, összegyűjtése, validálása, tárolása, védelme, feldolgozása történik, és amelyek biztosítják az adatokhoz való megkülönböztetésmentes, egyidejű és könnyű hozzáférést, a kiberbiztonság és adatvédelem legmagasabb fokát, valamint az adatkezelők pártatlanságát;
 
-7b. Hálózatüzemeltetési adat: minden olyan, a hálózati engedélyesnél az okosmérőből és a távlehívható fogyasztásmérő-berendezésből származó adat, amely a közcélú hálózat irányításához, üzemviteléhez és fejlesztéséhez szükséges és nem minősül felhasználói elszámolási célú mérési adatnak;
+7b. Hálózatüzemeltetési adat: minden olyan távlehívható fogyasztásmérőből származó adat, amely a közcélú hálózat irányításához, üzemviteléhez és fejlesztéséhez szükséges, és nem minősül felhasználói elszámolási célú mérési adatnak;
+
+7c. Egyedi alkalmazás: olyan szoftver, amelyet a hálózati engedélyes által meghatározott feltételekre, elvárásokra és funkcionalitásra tekintettel fejlesztettek;
 
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
@@ -46,7 +48,7 @@
 
 14. Erőmű: egy telephelyen lévő olyan energia-átalakító létesítmény, amely elsődleges energiaforrás felhasználásával villamos energiát termel, engedélyezési szempontból ideértve az energia tározós erőművet is;
 
-15. Erőművi névleges teljesítőképesség: a beépített villamosenergia-termelő egységek generátorkapcson, tervezési körülmények között mért névleges aktív (wattos) teljesítményeinek összege;
+15. Erőművi névleges teljesítőképesség: generátort tartalmazó erőmű esetén a beépített villamosenergia-termelő egységek generátorkapcson, tervezési körülmények között mért névleges aktív (wattos) teljesítményeinek összege; invertert tartalmazó erőmű esetén az inverterek váltóáram oldali névleges aktív (wattos) teljesítményeinek összege, azzal, hogy a csatlakozási pont erőművi oldalára csatlakoztatott villamosenergia-tároló teljesítménye nem számítandó be az erőmű névleges teljesítményébe;
 
 16. Felhasználási hely: egy vagy több csatlakozási ponton keresztül ellátott, összefüggő terület, ahol a felhasználó a villamos energiát felhasználja;
 
@@ -76,9 +78,15 @@
 
 26. Hulladékból nyert energia: hulladéknak – a környezetvédelmi és hulladékgazdálkodási előírások betartása mellett – tüzelőanyagként történő felhasználása során nyert energia;
 
-26a. Informatikai eszköz: a hálózati engedélyes tevékenységéhez szükséges adattároló eszköz, operációs rendszerek és alkalmazások futtatását, kiszolgálását ellátó adatfeldolgozó eszköz (szerver), valamint ilyen kiszolgálást felhasználó adatfeldolgozó eszköz (kliens) ideértve az ezek működését biztosító szoftvert is;
+26a. Ideiglenes vezeték: közcélúnak, magán-, közvetlen és termelői vezetéknek, valamint felhasználói berendezésnek nem minősülő, az ideiglenes villamosenergia-igény kiszolgálása céljából, határozott időre létesülő vezeték, a hozzá tartozó átalakító és kapcsolóberendezésekkel együtt;
 
-26b. Ideiglenes vezeték: közcélúnak, magán-, közvetlen és termelői vezetéknek, valamint felhasználói berendezésnek nem minősülő, az ideiglenes villamos energia igény kiszolgálása céljából, határozott időre létesülő vezeték, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
+26b. Informatikai berendezés: a hálózati engedélyes tevékenységéhez szükséges adattároló eszköz, operációs rendszerek és alkalmazások futtatását, kiszolgálását ellátó adatfeldolgozó eszköz (szerver), valamint ilyen kiszolgálást felhasználó adatfeldolgozó eszköz (kliens);
+
+26c. Informatikai szolgáltatás: meglévő informatikai rendszerek működtetésére vagy hozzáférhetőségük biztosítására, új informatikai rendszer létrehozására, fejlesztésére, illetve telepítésére irányuló szolgáltatás (rendszerintegráció és alkalmazásfejlesztés), továbbá informatikai tanácsadás és oktatás;
+
+26d. Informatikai támogatási szolgáltatás: a megvásárolt szoftverek, modulok legújabb verzióinak használata (termékkövetési szolgáltatás) és a szoftver működésével és kezelésével kapcsolatos terméktámogatás (támogatási szolgáltatás);
+
+26e. Informatikai rendszer: az informatikai berendezések és szoftverek összessége egy adott villamosenergia ipari vállalkozáson belül;
 
 27. Integrált villamosenergia-ipari vállalkozás: vertikálisan, illetőleg horizontálisan integrált villamosenergia-ipari vállalkozás;
 
@@ -150,7 +158,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 48. Együttműködő villamosenergia-rendszer: legalább két, egy vagy több rendszerösszekötő vezetékkel összekapcsolt villamosenergia-rendszer, melyből az egyik Magyarország területén működik;
 
-48a. Okosmérő: olyan fogyasztásmérő-berendezés, amely képes a villamosenergia-fogyasztás és a villamosenergia-hálózatba táplált villamos energia mennyiségét mérni, a mérési adatokat tárolni, valamint elektronikus távkommunikáció útján a mért adatokat továbbítani és távoli utasításokat fogadni tájékoztatás, vezérlés, figyelemmel kísérés és ellenőrzés céljából;
+48a. Okosmérő: olyan távlehívható fogyasztásmérő, amely képes a távoli utasításokat fogadni tájékoztatás, vezérlés, figyelemmelkísérés és ellenőrzés céljából;
 
 49. Összekötő berendezés: több felhasználó által használt ingatlan belső vezetékhálózatának nem az elosztó tulajdonában álló, a csatlakozási pont után lévő méretlen szakasza;
 
@@ -164,6 +172,8 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 52. Rendszerösszekötő vezeték: az átviteli hálózat részét képező határkeresztező vezeték, amely együttműködő villamosenergia-rendszerek hálózatait köti össze;
 
+52a. rugalmas árszabást tartalmazó szerződés: a villamosenergia-kereskedő és a felhasználó között létrejött olyan villamosenergia-vásárlási szerződés, amely tükrözi az azonnali piacokon – ideértve a másnapi és a napon belüli piacokat is – jelentkező árváltozást legalább a piaci elszámolás gyakoriságával azonos időközönként;
+
 53. Rendszerszintű szolgáltatás: az átviteli rendszerirányító által a villamosenergia-rendszer mindenkori egyensúlyának és az átvitel megfelelő minőségének fenntartása érdekében – különösen a 2019/943/EU rendelet 2. cikk 10. pontja szerinti kiegyenlítő szabályozás és a nem frekvenciavonatkozású kisegítő szolgáltatások útján – biztosított szolgáltatások összessége;
 
 53a. Elosztói rugalmassági szolgáltatás: az elosztóhálózat zavartalan és biztonságos működtetése és üzemvitele folyamatos biztosítása és hatékonyabbá tétele, valamint a villamosenergia-ellátás minőségének fenntartása érdekében az elosztó által piaci alapú eljárások keretében igénybe vett szolgáltatások összessége, ideértve a 2019/943/EU rendelet 2. cikk 26. pontja szerinti teher-újraelosztást és a nem-frekvenciavonatkozású kisegítő szolgáltatásokat, valamint egyéb az elosztó hálózati szűk keresztmetszet kezelésére irányuló szolgáltatásokat és az elosztói üzemirányítást támogató szolgáltatásokat;
@@ -175,6 +185,8 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 55. Szélerőmű park: ugyanazon ügyfél vagy egy engedélyes üzemeltetésében lévő azon szélerőművek összessége, amelyek az átviteli vagy elosztó hálózathoz ugyanazon csatlakozási ponton kapcsolódnak;
 
 56. Szervezett villamosenergia-piac: a szervezett villamosenergia-piaci engedélyes által működtetett, a regionális villamosenergia-forgalmat elősegítő kereskedési rendszer, amelyben a villamosenergia-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik;
+
+56a. Távlehívható fogyasztásmérő: olyan fogyasztásmérő-berendezés, amely képes a villamosenergia-fogyasztás és a villamosenergia-hálózatba táplált villamos energia mennyiségét mérni, a kiegyenlítő energia elszámolási mérési időintervallumának megfelelő gyakorisággal a mérési adatokat tárolni, valamint elektronikus távkommunikáció útján a mért adatokat továbbítani;
 
 57. Termelés: a villamos energia előállítása;
 
@@ -204,7 +216,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 67. Villamosenergia-ellátási szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, egyes nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére és az elosztói rugalmassági szolgáltatásokra és azok beszerzésére, igénybevételére és elszámolására vonatkozó elosztói szabályzat, továbbá a nemzetközi üzemi és kereskedelmi szabályzat;
 
-68. Villamosenergia-ipari vállalkozás: az az e törvény szerint engedélyköteles tevékenységet folytató természetes személy, aki az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak az állampolgára, továbbá olyan, az ezen államokban jogszerűen nyilvántartásba vett vállalkozás, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, szövetkezet vagy európai részvénytársaság, amely e törvény szerint engedélyköteles tevékenységet folytat;
+68. Villamosenergia-ipari vállalkozás: az a természetes vagy jogi személy, aki vagy amely az e törvény szerinti villamosenergia-termelést, villamosenergia-átviteli és rendszerirányítási tevékenységet, villamosenergia-elosztást, egyetemes szolgáltatói tevékenységet, villamosenergia-kereskedelmet, aggregálást, energiatárolást, közvilágítási berendezések üzemeltetését, vagy a közúti közlekedésről szóló törvény szerinti elektromos töltőberendezés üzemeltetési, vagy elektromobilitás szolgáltatási tevékenységet végez;
 
 69. Villamosenergia-kereskedelem: az a tevékenység, amely a villamos energia és a hozzá tartozó teljesítmény üzletszerű, nem saját felhasználási célra történő vásárlásából és értékesítéséből áll;
 

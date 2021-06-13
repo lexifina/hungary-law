@@ -4,4 +4,4 @@
 
 (2) Az üzembe helyezést követően az üzemeltető az (1) bekezdésben felsorolt építmények – bele nem értve a kisfeszültségű hálózati elemeket – üzemeltetését a Hatósághoz 90 napon belül, a kisfeszültségű hálózati elemek üzemeltetését 8 napon belül köteles bejelenteni.
 
-(3) Az üzemeltető a bejelentés alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja és átalakíthatja, felújíthatja, továbbá a közcélú hálózat, termelői vezeték, magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetet sértő növényzetet eltávolíthatja.
+(3) Az üzemeltető a bejelentés alapján az építményeket üzemeltetheti, karbantarthatja, kijavíthatja, átalakíthatja, felújíthatja, fejlesztheti, továbbá a villamosmű, a termelői vezeték, a magánvezeték vagy a közvetlen vezeték mentén lévő, a biztonsági övezetben lévő növényzetet, annak ágait, gyökereit eltávolíthatja.

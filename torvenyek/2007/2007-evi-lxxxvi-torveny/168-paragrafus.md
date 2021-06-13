@@ -60,4 +60,4 @@ nem változtathatja meg.
 
 (5a) A Hivatal e törvény szerinti hatáskörében hozott határozataival szembeni közigazgatási perben az elsőfokú ítélet ellen fellebbezésnek van helye.
 
-(6) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.
+(6) Az e törvény hatálya alá tartozó panaszeljárásokban hozott döntés kivételével, a Hivatal a véglegessé vált határozatát – a személyes és védett adattartalmat elérhetetlenné téve – a honlapján közzéteszi.
