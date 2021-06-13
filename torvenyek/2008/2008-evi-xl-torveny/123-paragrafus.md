@@ -1,30 +1,40 @@
-123. § (1) A befolyásszerző – a (2) bekezdés szerinti esetek kivételével – köteles haladéktalanul a Hivatal tudomásulvételét kérni, ha bármely földgázipari vállalkozásban a közvetlenül és közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének, vagy szavazati jogának aránya eléri vagy meghaladja az öt, tíz, tizenöt, húsz, huszonöt, harminc, harmincöt, negyven, negyvenöt, ötven, hetvenöt, nyolcvan, nyolcvanöt, kilencven, kilencvenegy, kilencvenkettő, kilencvenhárom, kilencvennégy, kilencvenöt, kilencvenhat, kilencvenhét, kilencvennyolc, kilencvenkilenc százalékot, vagy eléri a száz százalékot (a továbbiakban együtt: befolyásszerzés).
+123. § (1) A befolyásszerző – a (2) bekezdésben meghatározott kivétellel – bármely engedélyesben a szavazatok öt, húsz, huszonöt, harminchárom, ötven, hetvenöt vagy kilencven százalékát elérő vagy meghaladó, valamint száz százalékát elérő közvetlenül vagy közvetve birtokolt, szavazati jogot biztosító részvény, üzletrész vagy közvetlen szavazati jog szerzéséhez (a továbbiakban együtt: befolyásszerzés) és az ehhez fűződő jogok gyakorlásához köteles a Hivatal előzetes hozzájárulását kérni.
 
-(2) Bármely földgázipari vállalkozásban a szavazatok huszonöt, ötven vagy hetvenöt százalékát meghaladó, valamint száz százalékát elérő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulása szükséges.
+(2) A befolyásszerzőnek engedélyes nyilvánosan működő részvénytársaságban közvetlenül vagy annak engedélyes társaságában – az adott közvetlen befolyásszerzéssel összefüggésben – közvetve birtokolt, szavazati jogot biztosító részvényének, üzletrészének vagy szavazati jogának aránya
 
-(3) Nem kell a Hivatal előzetes hozzájárulása a (2) bekezdésben foglaltak szerint jóváhagyott mértékek elérését követően mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri a Hivatal előzetes hozzájárulásához kötött (2) bekezdés szerinti következő mértéket, az (1) bekezdésben meghatározott tudomásulvétel kérése iránti kötelezettség alól azonban a befolyásszerző nem mentesül.
+a) az öt, tíz, tizenöt, húsz százalékot elérte vagy – a b) pontban foglalt kivétellel – meghaladta, a befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához haladéktalanul a Hivatal tudomásulvételről szóló döntését kell kérnie,
+
+b) a huszonöt, harminchárom, ötven, hetvenöt százalékot elérő vagy meghaladó, illetve a száz százalékot elérő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához a Hivatal előzetes hozzájárulásról szóló döntését kell kérnie,
+
+c) – a Hivatal b) pont szerinti előzetes hozzájárulásáról szóló döntését követően – a negyven, negyvenöt, illetve nyolcvan, nyolcvanöt, kilencven, kilencvenegy, kilencvenkettő, kilencvenhárom, kilencvennégy, kilencvenöt, kilencvenhat, kilencvenhét, kilencvennyolc, kilencvenkilenc százalékot elérte vagy meghaladta, a befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához haladéktalanul a Hivatal tudomásulvételről szóló döntését kell kérnie.
+
+(3) A Hivatal előzetes jóváhagyásáról vagy tudomásulvételről szóló döntését követően nem kell a Hivatal újabb előzetes hozzájárulásról vagy tudomásulvételről szóló döntését kérni mindaddig, amíg az újabb befolyásszerzéssel a befolyásszerző el nem éri az (1) vagy a (2) bekezdés a)–c) pontja szerinti következő befolyásszerzési mértéket.
 
 (3a) Nem kell alkalmazni az (1) és (2) bekezdést
 
-a) az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyese,
+a) az egyablakos kiszolgálású nemzetközi szállítóvezeték engedélyesében,
 
-b) a 28. § (3) bekezdés b) pontja szerinti földgázkereskedő,
+b) a 28. § (3) bekezdés b) pontja szerinti földgázkereskedőben,
 
-c) a 28. § (4) bekezdése szerinti korlátozott földgázkereskedelmi engedélyes és
+c) a 28. § (4) bekezdése szerinti korlátozott földgáz-kereskedelmi engedélyesben, és
 
-d) a telephelyi szolgáltató
+d) a telephelyi szolgáltatóban
 
-esetében akkor, ha a befolyásszerző a befolyásszerzésről a befolyásszerzés hatályosulásától számított 30 napon belül tájékoztatja a Hivatalt.
+történő befolyásszerzés esetében.
 
-(4) Földgáz, illetve villamos energia termelésével vagy kereskedelmével foglalkozó vállalkozás, valamint az ilyen vállalkozás irányító részvényese a szállítási rendszerüzemeltetőben, sem közvetlenül, sem közvetetten nem szerezhet irányítást biztosító részesedést. A szállítási rendszerüzemeltetőben, illetve annak irányító részvényesében irányítást biztosító részesedésszerzéshez a Hivatal hozzájárulása is szükséges. E rendelkezés nem érinti a 121/B. § (1) bekezdésben rögzített rendelkezést.
+(3b) A (3a) bekezdés szerinti befolyásszerzés esetén a befolyásszerző a befolyásszerzés hatályosulásától számított
+
+30 napon belül tájékoztatja a befolyásszerzés tényéről a Hivatalt, kivéve, ha az (3a) bekezdés szerinti engedélyes olyan más, a távhőszolgáltatásról szóló törvény, a Vet. vagy e törvény szerinti engedéllyel is rendelkezik, amely alapján a befolyásszerzéshez a Hivatal előzetes hozzájárulása vagy tudomásulvételről szóló döntése szükséges.
+
+(4)
 
 (5) A Hivatal hozzájáruló határozata szükséges az olyan jogügylet létrejöttéhez, amely azt eredményezné, hogy harmadik országból származó személy vagy személyek gyakorolnak irányítást a szállítási rendszerüzemeltető vagy annak irányító részvényese felett.
 
-(6) A Hivatal az (1) bekezdés szerinti tudomásulvételt, a (2), a (4) és az (5) bekezdésben, valamint a 122. § (1) bekezdésében meghatározott jogügyletekhez történő hozzájárulást megtagadhatja vagy feltételhez kötheti, ha ezen jogügyletek végrehajtása a földgázellátás biztonságát, a közbiztonságot, az energiapolitikai célkitűzések érvényesülését, az e törvény szerinti engedélyköteles tevékenység ellátását, a szállítási, tárolási, elosztási, valamint egyetemes szolgáltatási tevékenység árának és a szolgáltatás minőségének meghatározására vonatkozó szabályozást, a legkisebb költség elvének érvényesülését veszélyeztetheti, továbbá ha a jogügylet eredményeképpen az engedélyes nem tud megfelelni a 114. § (7) bekezdés b)–d) pontja szerinti követelményeknek, vagy ha a 122. § (1) bekezdésében meghatározott jogügylet végrehajtása a (8) bekezdés szerint bejelentett elővásárlási jog megsértését eredményezi.
+(6) A Hivatal az (1), a (2) és az (5) bekezdésben, valamint a 122. § (1) bekezdésében meghatározott jogügyletekhez történő előzetes hozzájárulást vagy tudomásulvételt megtagadhatja vagy feltételhez kötheti, ha ezen jogügyletek végrehajtása a földgázellátás biztonságát, a közbiztonságot, az energiapolitikai célkitűzések érvényesülését, az e törvény szerinti engedélyköteles tevékenység ellátását, a szállítási, tárolási, elosztási, valamint egyetemes szolgáltatási tevékenység árának és a szolgáltatás minőségének meghatározására vonatkozó szabályozást, a legkisebb költség elvének érvényesülését veszélyeztetheti, továbbá ha a jogügylet eredményeképpen az engedélyes nem tud megfelelni a 114. § (7) bekezdés b)–d) pontja szerinti követelményeknek, vagy ha a 122. § (1) bekezdésében meghatározott jogügylet végrehajtása a (8) bekezdés szerint bejelentett elővásárlási jog megsértését eredményezi.
 
-(6a) A Hivatal megtagadja a (4) bekezdésben meghatározott részesedésszerzés jóváhagyását, ha az nem felel meg az ott rögzített követelményeknek. A Hivatal megtagadja az (5) bekezdésben meghatározott jogügylet jóváhagyását, ha a 128. § szerinti eljárásban azt állapította meg, hogy a jogügylet végrehajtása eredményeként a szállítási rendszerüzemeltető nem felelne meg a rá vonatkozó szétválasztási követelményeknek, vagy azt, hogy a jogügylet megvalósítása veszélyeztetné az ország, vagy más tagállam energiaellátásának biztonságát.
+(6a) A Hivatal megtagadja az (5) bekezdésben meghatározott jogügylet jóváhagyását, ha a 128. § szerinti eljárásban megállapítja, hogy a jogügylet végrehajtása eredményeként a szállítási rendszerüzemeltető nem felel meg a rá vonatkozó szétválasztási követelményeknek, vagy, hogy a jogügylet megvalósítása veszélyeztetné az ország vagy más tagállam energiaellátásának biztonságát.
 
-(7) A befolyásszerzés (1) bekezdésben meghatározott bejelentésének elmulasztása esetén, az (1) bekezdés szerinti tudomásulvételt kimondó visszaigazolás hiányában, a (2), a (4) és az (5) bekezdésben, illetve a 122. § (1) bekezdésében meghatározott hozzájáruló határozat hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, és a részvénykönyvbe nem jegyezhető be, a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal visszaigazolását, illetve jóváhagyását igazoló dokumentummal együtt lehet benyújtani. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelem benyújtási határideje a Hivatal előzetes hozzájáruló vagy tudomásul vevő döntésének közlését követő naptól kezdődik.
+(7) Az (1) bekezdésben, a (2) bekezdés b) pontjában és az (5) bekezdésben, illetve a 122. § (1) bekezdésében meghatározott előzetes hozzájáruló döntés hiányában a (2) bekezdés a) és c) pontjában meghatározott tudomásulvételt kimondó döntés hiányában a szerző fél a részesedései tekintetében a társasággal szemben – az osztalékra való jogosultságot kivéve – jogot nem gyakorolhat, és a részvénykönyvbe nem jegyezhető be, a tagjegyzékben nem tüntethető fel. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelmet a Hivatal előzetes hozzájárulását, illetve tudomásul vételét igazoló dokumentummal együtt lehet benyújtani. A részvénykönyvbe, tagjegyzékbe, valamint a cégjegyzékbe való bejegyzésre irányuló kérelem benyújtási határideje a Hivatal előzetes hozzájáruló vagy tudomásul vevő döntésének közlését követő naptól kezdődik.
 
 (7a) Cégjogi esemény esetén az érintett engedélyes, továbbá befolyásszerzés esetén a befolyásszerző a cégjogi eseményt, valamint a befolyásszerzést bejegyző cégbírósági végzés jogerőre emelkedésétől, vagy ha a cégjogi esemény később hatályosul, annak hatályosulásától számított 8 napon belül kezdeményezi a Hivatalnál az előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzését.
 

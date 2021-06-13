@@ -18,4 +18,4 @@ c) referenciaár-módszertant, az (EU) 2017/460 bizottsági rendelet szerinti á
 
 (2a) A Hivatal e törvényben meghatározott hatáskörében hozott határozataival szembeni közigazgatási perben hozott elsőfokú ítélet ellen fellebbezésnek van helye.
 
-(3) A Hivatal véglegessé vált határozatait – az e törvény hatálya alá tartozó panaszeljárások, illetve a személyes és védett adatok kivételével – a honlapján közhírré teszi.
+(3) Az e törvény hatálya alá tartozó panaszeljárásokban hozott döntés kivételével, a Hivatal véglegessé vált határozatát – a személyes és védett adattartalom olvashatatlanná tétele mellett – a honlapján közzéteszi.

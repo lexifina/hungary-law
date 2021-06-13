@@ -16,13 +16,13 @@ d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket a f
 
 (5) Az (1) bekezdés alapján megkötött szerződés a szerződés lejártának napjáig nem szüntethető meg.
 
-(6) A (2) bekezdés szerinti szerződést a megkötést vagy módosítást követő egy munkanapon belül meg kell küldeni a Hivatalnak.
+(6)
 
 (7) A Hivatal ellenőrzi, hogy az egyetemes szolgáltató kizárólag egyetemes szolgáltatásra jogosult felhasználók ellátására fordította a (2) bekezdés szerinti szerződés alapján átvett földgázt.
 
 (8) A miniszter a Hivatal javaslata alapján a Felajánlási rendeletben állapítja meg a (2) bekezdés alapján megkötött szerződés – a (3) bekezdés b) pontja szerinti árelemeket is tartalmazó – árát és mennyiségét. Az ármegállapítás során figyelembe kell venni az egyetemes szolgáltatás keretében vételező felhasználók költséghatékony ellátásának követelményét. Ha a Felajánlási rendelet vagy annak módosítása olyan időpontban lép hatályba, amely időpontban már új szabályozási időszak kezdődött, akkor a Felajánlási rendeletben vagy annak módosításában meghatározott földgázmennyiségbe be kell számítani a megkezdődött új szabályozási időszakban a szerződő félnek már átadott mennyiséget.
 
-(9) A volt közüzemi nagykereskedő köteles az e § szerinti felajánlás forrásait biztosító szerződéseit a felajánlást követő 5 munkanapon belül a Hivatal részére megküldeni.
+(9)
 
 (10) A (3) bekezdés szerinti szerződés 2022. szeptember 30-áig meghosszabbodik.
 

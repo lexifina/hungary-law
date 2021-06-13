@@ -14,13 +14,13 @@
 
 a) az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, Ptk. szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, a szövetkezet, az európai részvénytársaság, továbbá
 
-b) az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak állampolgára, aki az állampolgársága szerinti országban földgáz-kereskedelmi tevékenységet folytat, vagy ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely a székhelye szerinti országban földgáz-kereskedelmi tevékenységet folytat, ha megfelel a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben foglalt feltételeknek, a feltételek fennállását hitelt érdemlően igazolja, valamint Magyarországon történő elérhetőségét legalább kézbesítési megbízott útján folyamatosan biztosítja.
+b) az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak állampolgára, aki ezen országok egyikében földgázkereskedelmi tevékenységet folytat, vagy az ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely ezen országok egyikében földgázkereskedelmi tevékenységet folytat, ha megfelel az e törvény végrehajtására kiadott kormányrendeletben foglalt feltételeknek, a feltételek fennállását hitelt érdemlően igazolja, valamint Magyarországon történő elérhetőségét a 63. § (1) bekezdése szerint folyamatosan biztosítja. Az elérhetőség kézbesítési megbízott útján is biztosítható.
 
-(4) Korlátozott földgáz-kereskedelmi engedélyt kaphat az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak az állampolgára, aki az állampolgársága szerinti országban földgáz-kereskedelmi tevékenységet folytat, vagy ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely a székhelye vagy a tevékenység végzése szerinti országban földgáz-kereskedelmi tevékenységet folytat abban az esetben, ha
+(4) Korlátozott földgáz-kereskedelmi engedélyt kaphat az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak az állampolgára, aki ezen országok egyikében földgáz-kereskedelmi tevékenységet folytat, vagy az ezen államokban jogszerűen nyilvántartásba vett vállalkozás, amely ezen országok egyikében földgáz-kereskedelmi tevékenységet folytat abban az esetben, ha
 
 a) Magyarország területén történő elérhetőségét kézbesítési megbízott útján biztosítja, valamint
 
-b) megfelel a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételeknek, és azt hitelt érdemlően igazolja.
+b) megfelel az e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételeknek, és azt hitelt érdemlően igazolja.
 
 (4a) Korlátozott földgáz-kereskedelmi engedély megszerzésére jogosult a (4) bekezdésben foglaltakon felül a belföldön nyilvántartásba vett Ptk. szerinti gazdasági társaság, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, továbbá a szövetkezet, az európai részvénytársaság, amely megfelel az e törvény és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételeknek.
 

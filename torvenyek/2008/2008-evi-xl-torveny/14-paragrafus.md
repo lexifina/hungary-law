@@ -8,4 +8,10 @@
 
 (3) A földgázelosztó és az elosztóvezeték – (1) bekezdés szerinti tulajdonosától különböző – tulajdonosa az üzemeltetni kívánt vezetékszakaszok működtetésére, karbantartására vonatkozóan üzemeltetési szerződést köt. Az üzemeltetési szerződés tartalmi elemeit külön jogszabály tartalmazza.
 
-(4) A földgázelosztónak rendelkeznie kell az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint kialakított, a rendszerüzemeltetők informatikai rendszereivel történő adatkommunikációra alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást, valamint a rendszerhasználók felé az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat és adatcserét. Az informatikai rendszernek alkalmasnak kell lennie a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből eredő földgázmennyiség napi forgalmazásával kapcsolatos nominálások, allokálások kezelésére is.
+(4) A földgázelosztónak rendelkeznie kell a rendszerüzemeltetők informatikai rendszereivel történő adatkommunikációra alkalmas, a vertikálisan integrált vállalkozástól és annak leányvállalataitól független olyan adatforgalmi és informatikai rendszerrel, amely biztosítja
+
+a) az adatcserét,
+
+b) az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint a szállítási rendszerüzemeltető részére a napi gázforgalmazás megbízható helyzetére vonatkozó adatszolgáltatást, és
+
+c) a szigetüzemhez vagy részleges szigetüzemhez csatlakozó termelésből eredő földgázmennyiség napi forgalmazásával kapcsolatos allokálások kezelését.

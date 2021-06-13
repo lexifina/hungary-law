@@ -8,7 +8,9 @@
 
 1b. Betáplálási-kiadási pont: a szállítási rendszerüzemeltető, a földgázelosztó, a földgáztárolói engedélyes, a felhasználó vagy a földgáztermelő földgázrendszere közötti fizikai vagy egyesített csatlakozási pont, valamint a rendszer-összekötési pont, ide nem értve az összekapcsolási pontot.
 
-1c. Adatcsere: a földgázelosztó és – a korlátozott földgáz-kereskedelmi engedélyes kivételével – a rendszerhasználó közötti együttműködés érdekében jogszabályokban, valamint az Üzemi és Kereskedelmi Szabályzatban kötelezettségként előírt adatszolgáltatások egységes keretek között történő, diszkriminációmentes lebonyolítása az Üzemi és Kereskedelmi Szabályzatban rögzítettek szerint, a rendszerhasználati szerződések betartása mellett.
+1c. Adatcsere: a jogszabályban, valamint az Adatcsere Szabályzatban kötelezettségként előírt adatszolgáltatások egységes keretek között történő, diszkriminációmentes lebonyolítása az Adatcsere Szabályzatban rögzítettek szerint, a rendszerhasználati szerződések betartása mellett.
+
+1d. Adatcsere Szabályzat: az adatcsere működésére, folyamataira vonatkozó, Hivatal által jóváhagyott szabályzat.
 
 2. Célvezeték: a földgáztermelőhöz, határon túli földgázrendszerhez, a szállító-, elosztóvezetékhez vagy a tárolóhoz közvetlenül csatlakozó olyan földgázvezeték, amely kizárólag egy felhasználó egy felhasználási helyének ellátására szolgál.
 
@@ -21,6 +23,8 @@
 6. Egyablakos kiszolgálású nemzetközi földgázszállító- vezeték: Magyarország és rajta kívül egy vagy több ország területét érintő – a hazai együttműködő földgázrendszernek részét nem képező – földgázszállító-vezeték, amelynek egy vagy több országot érintő szakaszára vonatkozóan egyetlen ügylettel lehet kapacitást lekötni.
 
 7. Egybefüggő telephely: telephelyi szolgáltatás esetén a gázfelhasználó tulajdonában, kezelésében vagy használatában lévő egybefüggő ingatlan, ahol a csatlakozóvezeték, a felhasználói berendezés, a gázfogyasztást szolgáló nyomásszabályozó, a gázmérőhely vagy a fogyasztói főcsap van. Egy telephely több felhasználási helyet is tartalmazhat eltérő felhasználó vagy rendszerhasználó esetén.
+
+7a. Egyedi alkalmazás: olyan szoftver, amelyet a földgázipari vállalkozás által meghatározott feltételek, elvárások és funkcionalitás alapján fejlesztettek ki.
 
 8. Egyetemes szolgáltatás: a jogosult felhasználók földgázellátására vonatkozó, e törvényben és külön jogszabályban meghatározott szolgáltatások értékesítése.
 
@@ -113,6 +117,14 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 39. Határkeresztező gázvezeték: olyan szállítóvezeték, amely Magyarország államhatárát keresztezi.
 
 40. Hidraulikai egyensúly: az együttműködő földgázrendszer azon állapota, amikor minden ponton biztosított a működéshez szükséges nyomásérték.
+
+40a. Informatikai berendezés: a földgázipari vállalkozás tevékenységéhez szükséges adattároló eszköz, operációs rendszerek és alkalmazások futtatását, kiszolgálását ellátó adatfeldolgozó eszköz (szerver), valamint ilyen kiszolgálást felhasználó adatfeldolgozó eszköz (kliens).
+
+40b. Informatikai rendszer: az informatikai berendezések és szoftverek összessége egy adott földgázipari vállalkozáson belül.
+
+40c. Informatikai szolgáltatás: meglévő informatikai rendszerek működtetésére vagy hozzáférhetőségük biztosítására, új informatikai rendszerek létrehozására, fejlesztésére, illetve telepítésére irányuló szolgáltatás (rendszerintegráció és alkalmazásfejlesztés), továbbá informatikai tanácsadás és oktatás.
+
+40d. Informatikai támogatási szolgáltatás: a megvásárolt szoftverek, modulok legújabb verzióinak használata (termékkövetési szolgáltatás) és a szoftver működésével és kezelésével kapcsolatos terméktámogatás (támogatási szolgáltatás).
 
 41. Integrált földgázipari vállalkozás:
 

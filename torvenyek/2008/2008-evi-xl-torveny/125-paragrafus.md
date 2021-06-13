@@ -10,7 +10,7 @@
 
 (1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának az e törvény 115/A. § szerinti kezdeményezése esetén az e törvény 115/B. § (1) bekezdése szerinti visszavonó és a kijelölő határozat kézhezvételének napjától a 115/B. § (1) bekezdés a) pontjában meghatározott időpontig az érintett felhasználók átvétele, földgázellátásuk biztosításához szükséges teendők elvégzése céljából kezeli az érintett felhasználó azonosításához és földgázellátása biztosításához szükséges – az átadó egyetemes szolgáltató által továbbított – személyes adatokat.
 
-(1d)
+(1d) A földgázkereskedő a kapacitáslekötési jog visszaszármaztatásának elősegítése érdekében a felhasználó lejárt számlatartozásával kapcsolatos adatokat, így a felhasználó azonosító számát, a felhasználó nevét, a felhasználó címét, a felhasználási hely címét, a lejárt tartozással érintett számla sorszámát és esedékességét, valamint a lejárt esedékességű tartozás összegét a felhasználási hely tulajdonosának, annak kérése esetén – a felhasználási hely tulajdonosának átadott kapacitáslekötési joga védelme céljából – átadja. A földgázkereskedő a felhasználási hely tulajdonosának e bekezdés teljesítéséhez szükséges adatait kezelheti a felhasználó díjtartozása teljes körű megfizetésének megtörténtéig.
 
 (2)
 

@@ -72,7 +72,7 @@ t) meghatározza azon – személyes adatokat nem tartalmazó – gazdálkodási
 
 u) érvényesíti a legkisebb költség elvét az e törvény hatálya alá tartozó hatósági áras termék és szolgáltatás vonatkozásában;
 
-v) nyilvánosan közzéteszi a határozatait;
+v)
 
 w) az Fbkt.-ben meghatározott módon kezdeményezi a miniszternél a földgáz biztonsági készlet felhasználását;
 

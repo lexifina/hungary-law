@@ -2,7 +2,7 @@
 
 41. § (1) Ha a felhasználókat ellátó földgázkereskedő gazdasági-pénzügyi helyzetének, földgázbeszerzésének vagy rendszerhasználatának ellehetetlenülése következtében a felhasználók földgázzal történő ellátása veszélybe kerül, az érintett felhasználók földgázellátását a végső menedékes földgázkereskedő kijelöléséig – a végső menedékes szolgáltatásról szóló kormányrendeletben meghatározottak szerint – a biztonsági földgázkészletből kell biztosítani.
 
-(1a) Az (1) bekezdés szerinti kijelölést követően a végső menedékes földgázkereskedő biztosítja a felhasználók földgázellátását.
+(1a) Az (1) bekezdés szerinti kijelölést követően a végső menedékes földgázkereskedő biztosítja a Tszt. 20. § (1a) bekezdésében foglaltak alapján a távhőtermelők kivételével a felhasználók földgázellátását.
 
 (2) A kijelölés legfeljebb kormányrendeletben meghatározott időtartamra hatályos, azonban a kijelölés az időtartam lejártát megelőzően hatályát veszti, ha a kormányrendeletben meghatározott feltételek teljesülnek.
 

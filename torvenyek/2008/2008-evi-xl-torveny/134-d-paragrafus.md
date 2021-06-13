@@ -1,0 +1,1 @@
+134/D. § E törvénynek az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvénnyel megállapított 63/B. § (3) és (4) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.

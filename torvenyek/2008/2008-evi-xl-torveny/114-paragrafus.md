@@ -46,6 +46,8 @@ c) a kérelmező csőd- vagy felszámolási eljárás alatt áll,
 
 d) a kérelmező működési engedélyét a Hivatal az engedély iránti kérelem benyújtását megelőző 10 éven belül a kérelmezőnek felróható okból visszavonta.
 
+e) a kérelmező hamis, hamisított vagy valótlan tartalmú bizonyítékot terjeszt elő kérelmében.
+
 (8) Az e törvény által kiadott engedély nem érinti a más jogszabályokban előírt engedélyek megszerzésének, és az engedélyezési eljárások lefolyatásának kötelezettségét.
 
 (9) A Hivatal az engedély iránti kérelem elutasításának okait tájékoztatásul megküldi az Európai Bizottságnak.
