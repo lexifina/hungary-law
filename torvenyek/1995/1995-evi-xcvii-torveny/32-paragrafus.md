@@ -1,21 +1,21 @@
-32. § (1) A légijármű-, vagy repülőeszköz-vezetői képzés, valamint ejtőernyős ugrás során és ejtőernyős képzésben harmadik országbeli állampolgár részvételét a képző vagy az ugrást szervező szervezet, a képzés vagy az ugrás megkezdése előtt legalább hat nappal, írásban köteles bejelenteni az általános rendőrségi feladatokat ellátó szervnek.
+32. § (1) A komplex motoros meghajtású légijármű vezetésére vonatkozó típusképzésen való részvételt a képzőszervezet a képzés megkezdése előtt legalább tíz munkanappal, írásban bejelenti az általános rendőrségi feladatok ellátására létrehozott szervnek közbiztonsági, nemzetbiztonsági és terrorfenyegetettségi érdek vizsgálata céljából.
 
 (2) Az írásbeli bejelentésnek tartalmaznia kell
 
-a) a harmadik országbeli állampolgár természetes személyazonosító adatait,
+a) a képzésre jelentkező személy természetes személyazonosító adatait és lakcímét – nem magyar állampolgár esetén a személyazonosításra alkalmas, arcképmását tartalmazó okmány másolatával együtt –,
 
-b) a harmadik országbeli állampolgár állampolgárságát,
+b) a képzés helyét, idejét és célját,
 
-c) a képzés vagy ugrás helyét, idejét és célját,
+c) a bejelentő szervezet nevét és elérhetőségét, valamint
 
-d) a bejelentő szervezet nevét és elérhetőségét.
+d) a képzésre jelentkező képzés ideje alatti tartózkodási helyét.
 
-(3) Az általános rendőrségi feladatokat ellátó szerv a bejelentést annak beérkezésétől számított 24 órán belül egyidejűleg megküldi a terrorizmust elhárító szervnek a terrorfenyegetettség vizsgálata, valamint az Alkotmányvédelmi Hivatalnak a nemzetbiztonsági érdek vizsgálata céljából.
+(3) Az általános rendőrségi feladatok ellátására létrehozott szerv a bejelentést annak beérkezésétől számított két munkanapon belül megküldi a terrorizmust elhárító szervnek, az Alkotmányvédelmi Hivatalnak, az Információs Hivatalnak és a Katonai Nemzetbiztonsági Szolgálatnak a közbiztonsági, terrorfenyegetettségi és a nemzetbiztonsági érdek vizsgálata céljából.
 
-(4) A terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal a bejelentés beérkezésétől számított legfeljebb 48 órán belül megküldi a szakvéleményét az általános rendőrségi feladatokat ellátó szervnek.
+(4) A terrorizmust elhárító szerv, az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a bejelentés beérkezésétől számított négy munkanapon belül megküldi az adattárakban történő ellenőrzés eredményét tartalmazó szakvéleményét az általános rendőrségi feladatok ellátására létrehozott szervnek.
 
-(5) Az általános rendőrségi feladatokat ellátó szerv közbiztonsági célból vagy a (4) bekezdésben meghatározott szakvélemények alapján a 2018/1139/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárművek vagy repülőeszközök vezetésére irányuló, továbbá az ejtőernyős képzés végzését megtilthatja.
+(5) Az általános rendőrségi feladatok ellátására létrehozott szerv közbiztonsági, továbbá – a (3) bekezdés szerinti szerv szakvéleménye alapján – nemzetbiztonsági vagy terrorfenyegetettségi érdeksérelem esetén az érintett személy számára a komplex motoros meghajtású légijármű vezetésére vonatkozó típusképzésen való részvételt megtiltja.
 
-(6) Az általános rendőrségi feladatokat ellátó szerv az (5) bekezdés szerinti döntését legfeljebb a (4) bekezdés szerinti szakvélemények megérkezését követő 24 órán belül határozatban közli a bejelentővel.
+(6) Az általános rendőrségi feladatok ellátására létrehozott szerv az (5) bekezdés szerinti döntését a (4) bekezdés szerinti szakvélemények megérkezését követő két munkanapon belül határozatban közli a bejelentővel.
 
-(7) Az általános rendőrségi feladatokat ellátó szerv határozatát a bejelentő a határozat közlésétől számított három napon belül közigazgatási perben megtámadhatja. A keresetlevélhez csatolni kell a rendőr-főkapitányság határozatát.
+(7) Az általános rendőrségi feladatok ellátására létrehozott szerv határozatát a bejelentő a határozat közlésétől számított három napon belül közigazgatási perben megtámadhatja. A keresetlevélhez csatolni kell az általános rendőrségi feladatok ellátására létrehozott szerv határozatát.

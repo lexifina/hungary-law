@@ -6,7 +6,7 @@ a) amely felségjellel és lajstromjellel, illetőleg jogszabályban meghatároz
 
 b) amelynek vezetője a légiközlekedési hatóság, illetve a katonai légügyi hatóság által kiadott szakszolgálati engedéllyel rendelkezik, repülőeszköz és pilóta nélküli légijármű esetében a jogszabályban meghatározott feltételeknek megfelel.
 
-(2) Az (1) bekezdés b) pontjában említett feltétel nem vonatkozik a kiképzés ideje alatt légijárművezető-növendék által vezetett légijárműre.
+(2) Az (1) bekezdés b) pontja szerinti feltétel nem vonatkozik a kiképzés ideje alatt légijárművezető-növendék által vezetett légijárműre, valamint az állami célú légiközlekedésben a szakszolgálati engedély megszerzésére, megújítására irányuló képzés, vagy típus átképzés alatt álló személy által vezetett állami légijárműre.
 
 (3) Külföldi polgári légijármű a magyar légteret az (1) bekezdésben meghatározott feltételekkel, nemzetközi szerződés alapján, ennek hiányában a légiközlekedési hatóság egyedi repülési engedélyével veheti igénybe.
 

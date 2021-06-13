@@ -52,6 +52,8 @@ y) a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légi
 
 z) a pilóta nélküli légi járművekkel végzett műveletekre vonatkozó szabályokról és eljárásokról szóló, 2019. május 24-i (EU) 2019/947 bizottsági végrehajtási rendelet.
 
+zs) az (EU) 2015/1998 végrehajtási rendeletnek bizonyos egyedi légiközlekedés-védelmi intézkedések egyértelműsítése, harmonizálása, egyszerűsítése és megerősítése tekintetében történő módosításáról szóló, 2019. január 23-i (EU) 2019/103 bizottsági végrehajtási rendelet.
+
 (2) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 96/67/EGK irányelve (1996. október 15.) a közösségi repülőterek földi kiszolgálási piacára való bejutásról – a földi kiszolgálás feltételeiről és engedélyezésének rendjéről szóló 7/2002. (I. 28.) KöViM rendelettel együtt;

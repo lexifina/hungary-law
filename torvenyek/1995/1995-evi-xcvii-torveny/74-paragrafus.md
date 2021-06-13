@@ -74,7 +74,7 @@ h) a miniszter, hogy a 2018/1139/EU európai parlamenti és tanácsi rendelet ha
 
 i) a miniszter, hogy a rendvédelemért felelős miniszterrel és a honvédelemért felelős miniszterrel egyetértésben a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat,
 
-j) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés szakszemélyzetei szakszolgálati engedélyeinek és képzéseinek részletes szabályait a miniszterrel és a rendészetért felelős miniszterrel egyetértésben;
+j)
 
 k) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a szakszolgálati engedélyek és a légiutas-kísérői tanúsítvány kiadásának egészségügyi feltételeit, a repülőeszközök vezetőire vonatkozó egészségügyi feltételeket, valamint a légiközlekedési szakszemélyzet tagjai és a repülőeszközök vezetői egészségügyi alkalmasságának megállapítását végző szervek kijelölésének és tevékenységének szabályait,
 
@@ -100,11 +100,11 @@ u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Mag
 
 v) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a katonai légügyi hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
-w)
+w) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés repülőhajózó szakszemélyzet szakszolgálati engedélyeinek és képzéseinek részletes szabályait a miniszterrel és a rendészetért felelős miniszterrel egyetértésben,
 
-x)
+x) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés léginavigációs szakszemélyzet szakszolgálati engedélyeinek és képzéseinek részletes szabályait a miniszterrel és a rendészetért felelős miniszterrel egyetértésben,
 
-y)
+y) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés repülőműszaki földi szakszemélyzet szakszolgálati engedélyeinek és képzéseinek részletes szabályait a miniszterrel és a rendészetért felelős miniszterrel egyetértésben,
 
 z) a miniszter, hogy a veszélyes áruk légi úton történő továbbítására használt csomagolóeszközök megfelelőség-értékelésének szabályait
 

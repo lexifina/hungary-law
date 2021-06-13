@@ -24,13 +24,15 @@ d) a szükséges intézkedések végrehajtásának határideje.
 
 (9) Az (1)–(3) bekezdésben meghatározott határozatokat a légiközlekedési hatóság a honlapján, a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi, valamint az (1) bekezdés szerinti határozatot az Európai Repülésbiztonsági Ügynökségnek tájékoztatás céljából megküldi.
 
-(10) A légiközlekedési hatóság honlapján
+(10) A légiközlekedési hatóság meghatározza és honlapján közzéteszi azokat az általa készített kérelem-formanyomtatványokat és kitöltési útmutatókat, amelyeket az eljárás indításához az ügyfél használni köteles, továbbá
 
-a) közzéteszi légiközlekedési szakterület szerinti csoportosításban a 2018/1139 EU európai parlamenti és tanácsi rendeletben, valamint annak végrehajtási rendeleteiben meghatározott, és a minimális megfelelési követelményekkel, nemzetközi útmutatókkal összefüggő általános és egyedi jellegű tájékoztatókat, iránymutatásokat, minimális követelményeket;
+a) az (EU) 2018/1139 európai parlamenti és tanácsi rendeletben, valamint annak végrehajtási rendeleteiben meghatározott, minimális megfelelési követelményekkel, nemzetközi útmutatókkal összefüggő,
 
-b) közzéteszi a légiközlekedési szakterület szerinti csoportosításban az 1971. évi 25. törvényerejű rendelettel kihirdetett Chicagói Egyezmény függelékeihez szorosan kapcsolódó, megfelelő végrehajtásukhoz szükséges ICAO dokumentumokban foglalt részletes műszaki követelmények azon részét, amelyet eljárásai tekintetében e törvény, valamint a vonatkozó jogszabályok alapján figyelembe vesz;
+b) a nemzeti szabályozás alá tartozó polgári légiközlekedési területre vonatkozó jogszabályokkal összefüggő, jogszabályi szintű szabályozást nem igénylő általános és egyedi jellegű, e törvény, valamint a vonatkozó jogszabályok alapján figyelembe veendő,
 
-c) közzéteszi az Lt. 51. §-ában meghatározott a légiközlekedési terep és akadály adatbázis elkészítéséhez és fenntartásához szükséges műszaki követelményeket.
+c) a nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény és az annak módosításáról szóló jegyzőkönyvek kihirdetéséről szóló 1971. évi 25. törvényerejű rendelet függelékeihez szorosan kapcsolódó, megfelelő végrehajtásukhoz szükséges ICAO-dokumentumokban foglalt részletes műszaki követelmények e törvény, valamint a végrehajtására kiadott rendelet alapján figyelembe veendő részét tartalmazó
+
+– jogszabály által meghatározott módon kiadott – dokumentumokat.
 
 (11) A légiközlekedési hatóság e törvény alapján meghatározott feltételek jogszerű teljesítése, valamint a repülésbiztonság megfelelő szintjének biztosítása érdekében teljesíti jogszabályokban meghatározott közzétételi kötelezettségét.
 

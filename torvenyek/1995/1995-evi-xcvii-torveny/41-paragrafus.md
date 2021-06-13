@@ -2,7 +2,7 @@
 
 41. § (1) A nyilvános repülőtér légijármű által történő igénybevételéért – az (5) és (6) bekezdésben foglalt kivétellel – a repülőtér üzemben tartója által megállapított díjat kell fizetni. A díjat vagy a díj részletes ismertetését tartalmazó forrásra történő hivatkozást a 61/B. §-ban meghatározott Légiforgalmi Tájékoztató Kiadványban (Aeronautical Information Publication, a továbbiakban: AIP) szereplő repülőtér esetén e kiadványban közzé kell tenni.
 
-(1a) Ha a repülőtér nem szerepel az AIP-ben, akkor az (1) bekezdésben meghatározott díjat vagy a díj részletes ismertetését tartalmazó forrásra történő hivatkozást a repülőtér honlapján vagy a légiforgalmi tájékoztatás rendjéről szóló miniszteri rendeletben meghatározott látvarepülési szabályok szerinti repülésekről szóló kiadványban kell közzétenni.
+(1a) Ha a repülőtér nem szerepel az AIP-ben, akkor az (1) bekezdésben meghatározott díjat vagy a díj részletes ismertetését tartalmazó forrásra történő hivatkozást a légiforgalmi tájékoztatás rendjéről szóló miniszteri rendeletben meghatározott látvarepülési szabályok szerinti repülésekről szóló kiadványban kell közzétenni.
 
 (2) A tárgyévet megelőző három év statisztikai adatai alapján számított átlag szerint az évente 250 000 utas feletti forgalmat bonyolító kereskedelmi repülőtér esetében az (1) bekezdés szerinti díj megállapításának elveit és módszerét a miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg az egyenlő bánásmód, az átláthatóság és az adott szolgáltatással felmerülő költségek figyelembevételével.
 
@@ -20,4 +20,4 @@
 
 (8) A nem nyilvános repülőtér igénybevételét a repülőtér üzemben tartója engedélyezheti. A polgári célú nem nyilvános és a közös felhasználású repülőtér használatáért ellenszolgáltatás kérhető, amelyet a repülőtér üzemben tartója állapít meg. Az ellenszolgáltatás értékét vagy az annak részletes ismertetését tartalmazó forrásra történő hivatkozást az AIP-ben szereplő repülőtér esetén e kiadványban közzé kell tenni.
 
-(8a) Ha a repülőtér nem szerepel az AIP-ben, a (8) bekezdésben meghatározott ellenszolgáltatás értékét vagy az annak részletes ismertetését tartalmazó forrásra történő hivatkozást a repülőtér honlapján vagy a légiforgalmi tájékoztatás rendjéről szóló miniszteri rendeletben meghatározott látvarepülési szabályok szerinti repülésekről szóló kiadványban kell közzétenni.
+(8a) Ha a repülőtér nem szerepel az AIP-ben, a (8) bekezdésben meghatározott ellenszolgáltatás értékét vagy az annak részletes ismertetését tartalmazó forrásra történő hivatkozást a légiforgalmi tájékoztatás rendjéről szóló miniszteri rendeletben meghatározott látvarepülési szabályok szerinti repülésekről szóló kiadványban kell közzétenni.

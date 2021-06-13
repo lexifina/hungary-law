@@ -28,6 +28,8 @@ g) a Magyarország teljes területére vonatkozó, legalább 10x10 méteres rác
 
 (5) Minden olyan légiközlekedéssel kapcsolatos tevékenység esetében, amelynek végzéséhez a (3) bekezdés szerinti terep és akadály adatbázisban elérhető adat szükséges, a terep és akadály adatbázis adatát kell használni. Az adatokat attól az időponttól kezdődően kell alkalmazni, amikortól a szükséges adat az adatbázisban elérhetővé válik.
 
+(5a) A közlekedésért felelős miniszter – a központi légiforgalmi tájékoztató szolgálatot ellátó szervezettel történő egyeztetést követően – a Hivatalos Értesítőben közleményben teszi közzé a (3) bekezdés szerinti terep- és akadály-adatbázis elkészítéséhez és fenntartásához szükséges műszaki követelményekre vonatkozó szakmai szabályokat.
+
 (6) A (3) bekezdés szerinti adatbázis létrehozására és kezelésére kormányrendeletben kijelölt adatbázis-kezelő az adatbázis adatait a Magyarország légiközlekedési terep és akadály adatbázisából történő adatszolgáltatással kapcsolatos igazgatási szolgáltatási díj, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával, felhasználásával és visszatérítésével kapcsolatos részletes szabályokról szóló miniszteri rendeletben meghatározott igazgatási szolgáltatási díj megfizetése ellenében szolgáltatja.
 
 (7) Az adatbázis-kezelő a terep és akadály adatbázisból közvetlenül és folyamatosan szolgáltatja az igényelt adatot a Magyar Honvédség, a légiközlekedési hatóság és a 61/A. §-ban meghatározott légiforgalmi szolgálat részére az adatbázis-kezelő és az adott szervezet között kötött megállapodásban meghatározottak szerint.

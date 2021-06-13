@@ -22,6 +22,8 @@ h) zajkorlátozásra
 
 i) a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény (a továbbiakban: Szabs. tv.) hatálya alá tartozó jogsértő magatartások kivételével a pilóta nélküli légijármű üzemeltetésére
 
+j) repülőtérrendre, valamint repülőtéri kézikönyvre, illetve ezekben meghatározottak alkalmazására
+
 vonatkozó rendelkezések megsértőivel szemben 100 000 000 Ft-ig terjedő bírság szabható ki. Nincs helye a légiközlekedési bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta öt év eltelt.
 
 (2) A bírságolással kapcsolatos eljárást:
@@ -58,11 +60,13 @@ d) az átadás és átvétel tényét, valamit azon időszak megjelölését, am
 
 (3) A bírság ismételten is kiszabható.
 
-(4) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés a), c), d), e), valamint g) pontjában meghatározott közigazgatási szabályszegés miatt indult közigazgatási hatósági eljárásban.
+(4) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés a), c), d), e), g), valamint j) pontjában meghatározott közigazgatási szabályszegés miatt indult közigazgatási hatósági eljárásban.
 
 (4a) A légiközlekedési hatóság az engedélyben vagy a vonatkozó jogszabályokban foglaltak megsértése esetén jogosult az engedély visszavonására vagy felfüggesztésére.
 
 (4b) A légiközlekedési hatóság eljárásaiban a tevékenység végzésétől történő eltiltás legfeljebb a döntés véglegessé válásától számított három évre szólhat.
+
+(4c) A légiközlekedési hatóság a repülőtér engedélyét visszavonhatja, amennyiben a repülőtérnek a repülés biztonságával összefüggő szolgáltatási színvonala a repülés biztonságát veszélyezteti.
 
 (5)
 

@@ -14,6 +14,8 @@
 
 (1f) A légiközlekedési hatóság eljárása felfüggeszthető, ha az előkérdés más szerv hatáskörébe tartozik, vagy a légiközlekedési hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el.
 
+(1g) A légiközlekedési hatóság gazdasági célú légiközlekedési tevékenység vagy a légiközlekedéssel összefüggő tevékenység ellenőrzésével összefüggő eljárásában – ha a tevékenység gazdasági feltételeire vonatkozó követelményekkel kapcsolatos jogsértésre utaló adat merült fel –, az adóval összefüggő adatról, tényről, körülményről az állami adó- és vámhatóság a légiközlekedési hatóság erre irányuló megkeresésére, a megkereséstől számított 15 napon belül adatot szolgáltat.
+
 (2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
 (2a) A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 55 nap.
