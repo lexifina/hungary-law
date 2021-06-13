@@ -22,7 +22,7 @@ j)
 
 k) a műszaki biztonsági szerv vagy szervek kijelölését,
 
-l) a központi fűtés és melegvíz-szolgáltatás feltételeire, a jogviszonyban lévők jogaira, kötelezettségeire, a szolgáltatás díjának megállapítására vonatkozó szabályokat,
+l)
 
 m) a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a hőmennyiségmérők és a költségmegosztók alkalmazására vonatkozó szabályokat;
 
