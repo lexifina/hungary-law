@@ -82,9 +82,11 @@ a) a Kormány, hogy
 
 38. a tájékozódást segítő jelzést megjelenítő reklámcélú eszközök közvilágítási-, villany- és telefonoszlopon történő elhelyezésére és eltávolítására, az azok elhelyezéséért fizetendő elhelyezési díj mértékére és megfizetésére vonatkozó részletes szabályokat,
 
-39. a 33. § (1) bekezdés d) pont da) alpontja szerinti országos kerékpárút-törzshálózat és a főutakkal párhuzamos kerékpárutak lakott területen kívüli és lakott területi szakaszainak – beleértve az e hálózathoz tartozó, kerékpározás céljára használt magánutakat és útnak nem minősülő egyéb útvonalakat is – kijelölését, valamint a 33. § (1) bekezdés d) pont da)–db) alpontja szerinti, a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet kijelölését;
+39. a 33. § (1) bekezdés d) pont da) alpontja szerinti országos kerékpárút-törzshálózat és a főutakkal párhuzamos kerékpárutak lakott területen kívüli és lakott területi szakaszainak – ideértve az e hálózathoz tartozó, kerékpározás céljára használt magánutakat és útnak nem minősülő egyéb útvonalakat is – kijelölését, valamint a 33. § (1) bekezdés d) pont da) és db) alpontjai szerinti, a fenntartási, a fejlesztési és a fejlesztéssel összefüggő üzemeltetési feladatok ellátásával megbízott 100%-os állami tulajdonú gazdálkodó szervezet kijelölését,
 
-39. a megkülönböztető és figyelmeztető jelzés felszerelésével, engedélyezésével, használatával és visszavonásával kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat;
+39a. a megkülönböztető és figyelmeztető jelzés felszerelésével, engedélyezésével, használatával és visszavonásával kapcsolatos közigazgatási hatósági eljárásra vonatkozó kiegészítő és eltérő szabályokat,
+
+39.
 
 40. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait, valamint a szakirányú továbbképzés és az utánképzés részletes szabályait,
 
@@ -105,6 +107,8 @@ a) a Kormány, hogy
 48. az elektromobilitás szolgáltatást érintő bejelentési kötelezettség alapján eljáró és az elektromos töltőberendezés üzemeltetésének engedélyezését végző Hivatal feladat- és hatáskörét
 
 49. a közút nem közlekedési célú igénybevétele esetén az igénybe vevő óvadékfizetési kötelezettségének részletes szabályait
+
+50. a helyi önkormányzati tulajdonban álló ingatlanra történő belépés és az előzetes tájékoztatás feltételeit, valamint a helyi önkormányzat tűrési kötelezettségét
 
 b) a miniszter, hogy
 
@@ -240,7 +244,7 @@ h) az iparügyekért felelős miniszter, hogy az elektromos töltőberendezések
 
 i) a közlekedésrendészetért felelős miniszter, hogy a megkülönböztető és figyelmezető jelzés felszerelésének, engedélyezésének szabályait, használatuk és visszavonásuk rendjét,
 
-j) a miniszter, hogy a közlekedésrendészetért felelős miniszter és az adópolitikáért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos hatósági feladatok szabályait,
+j) a miniszter, hogy a közlekedésrendészetért felelős miniszter egyetértésével – a foglalkoztatáspolitikáért felelős miniszterrel, valamint a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a közúti árufuvarozásra, személyszállításra, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések, valamint a jogosulatlan úthasználattal kapcsolatos hatósági feladatok szabályait,
 
 k) a miniszter, hogy az elektronikus hírközlésért felelős miniszterrel, az energiapolitikáért felelős miniszterrel, a vízgazdálkodásért felelős miniszterrel, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszterrel egyetértésben az utak más nyomvonalas létesítmény által történő megközelítésének, keresztezésének részletes szabályait,
 

@@ -86,3 +86,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 1988-1-00-00.117 |
 | 2021-03-01 | 2021. évi II. törvény | 1988-1-00-00.118 |
 | 2021-03-28 | 2021. évi II. törvény | 1988-1-00-00.119 |
+| 2021-06-13 | 2021. évi LIX. törvény | 1988-1-00-00.120 |

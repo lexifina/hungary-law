@@ -18,4 +18,4 @@
 
 (10) Az országos közutat ellátó, annak üzemeléséhez szükséges, és a közcélú hálózat részét nem képező közművek üzemeltetéséről – a csatlakozási ponttól – a 33. § (1) bekezdés b) pont ba) alpontja szerinti országos közútkezelő köteles gondoskodni.
 
-(11) Törvény a nemzetgazdasági szempontból kiemelt jelentőségű közúti infrastruktúra beruházások, a kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények tartozékainak esetében a közműkiváltásra vagy -fejlesztésre az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.
+(11) Törvény a nemzetgazdasági szempontból kiemelt jelentőségű közúti infrastruktúra beruházások, a kerékpárút, gyalog- és kerékpárút, gyalogút, járda, valamint kerékpárforgalmi létesítmények és tartozékainak esetében a közműkiváltásra vagy -fejlesztésre az e törvényben foglaltaktól eltérő szabályokat állapíthat meg.

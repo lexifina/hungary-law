@@ -54,7 +54,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (1b) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés e) pontjában foglalt rendelkezések megsértése miatt indult közigazgatási hatósági eljárásban, ha a jogsértés az e törvény végrehajtására kiadott kormányrendeletben meghatározott I., II. vagy III. kockázati kategóriába tartozó cselekmény vagy mulasztás.
 
-(1c) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés k), m) és o) pontjában felsorolt ügycsoportba tartozó, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes jogsértések miatt indult közigazgatási hatósági eljárásokban.
+(1c) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (1) bekezdés k), m), o) és p) pontjában felsorolt ügycsoportba tartozó, valamint a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek közúti közlekedésére vonatkozó rendelkezések megsértése miatt az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes jogsértések miatt indult közigazgatási hatósági eljárásokban.
 
 (2) A bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság, a foglalkoztatás-felügyeleti hatóság és a közterület-felügyelet (a továbbiakban együtt: eljáró hatóság) jogosult.
 
