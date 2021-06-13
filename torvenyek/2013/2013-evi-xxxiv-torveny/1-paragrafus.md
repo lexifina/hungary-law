@@ -22,6 +22,8 @@
 
 (3a) Nem terjed ki e törvény hatálya a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény hatálya alá tartozó építési beruházásokra.
 
+(3b) Nem terjed ki e törvény hatálya az állam 100%-os tulajdonában álló gazdasági társaság mint megrendelő által kötött szerződések alapján megvalósított, a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény hatálya alá tartozó közlekedési infrastrukturális építési beruházásokra.
+
 (4) E törvény alkalmazásában
 
 a) szerződést biztosító mellékkötelezettség a garancia, zálogjog és kezesség,
