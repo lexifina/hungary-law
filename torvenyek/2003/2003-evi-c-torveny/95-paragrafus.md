@@ -1,4 +1,4 @@
-95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy a 94. § (2a) bekezdése szerinti fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató állami vagy helyi önkormányzati tulajdonban, vagy a magántulajdonban álló ingatlan tulajdonosánál kezdeményezheti az elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben ezen megállapodás 30 nap alatt nem jön létre, az elektronikus hírközlési építmény e § szerinti eljárásban állami vagy helyi önkormányzati tulajdonban vagy magántulajdonban álló ingatlanon is elhelyezhető. A 94/A. § (3) bekezdése megfelelően irányadó ez esetben is.
+95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy a 94. § (2a) bekezdése szerinti fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató állami vagy helyi önkormányzati tulajdonban, vagy a magántulajdonban álló ingatlan tulajdonosánál kezdeményezheti az elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben a felek a (4) bekezdés szerinti ajánlat közlésétől számított 30 napon belül nem állapodnak meg, az elektronikus hírközlési építmény e § szerinti eljárásban állami vagy helyi önkormányzati tulajdonban vagy magántulajdonban álló ingatlanon is elhelyezhető. A 94/A. § (3) bekezdése megfelelően irányadó ez esetben is.
 
 (2) A Hatóság az elektronikus hírközlési szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha
 
@@ -22,23 +22,21 @@ e) a megállapodás megkötésére irányuló, a szolgalmi jog vagy más haszná
 
 f) az e) pont szerinti ellenértékre vonatkozó számításokat, valamint
 
-g) a (2) bekezdés szerinti hatósági eljárás lehetőségére vonatkozó figyelmeztetést.
+g) a 94. § (4h)–(4i) bekezdéseire, valamint a (2) bekezdés szerinti hatósági eljárás lehetőségére vonatkozó figyelmeztetést.
 
-(4a) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell akkor is, ha igazolja, hogy a (4) bekezdés szerinti tájékoztatást és ajánlattételt az érintett ingatlan tulajdonosának közhiteles nyilvántartásban szereplő lakcímére vagy székhelyére (telephelyére) postai úton megküldte, de az a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló kormányrendelet szerinti bármely okból kézbesíthetetlen.
+(4a)
 
 (5) A hatósági határozatban meg kell határozni:
 
 a) a korlátozás mely nyilvánosan elérhető elektronikus hírközlési szolgáltatás érdekében történik,
 
-b) szolgalmi vagy más használati jog tartalmát, így különösen az elektronikus hírközlési szolgáltató erre felhatalmazott képviselője belépési jogát az érintett ingatlan területére az elektronikus hírközlési építmény és berendezések ellenőrzése, karbantartása és a szükséges hibaelhárítás céljából,
+b) a szolgalmi vagy más használati jog tartalmát, így különösen az elektronikus hírközlési szolgáltató erre felhatalmazott képviselője belépési jogát az érintett ingatlan területére az elektronikus hírközlési építmény és berendezések ellenőrzése, karbantartása és a szükséges hibaelhárítás céljából,
 
 c) az elektronikus hírközlési építmény elhelyezésének helyét és módját,
 
-d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit, és a rá vonatkozó környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeket,
+d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírközlési berendezések műszaki jellemzőit, és a rá vonatkozó környezetvédelmi, közegészségügyi, közbiztonsági és építésügyi jogszabályok által megszabott határértékeket, valamint
 
-e) a környezet eredeti állapotának helyreállításához szükséges és elégséges feltételeket, valamint
-
-f)
+e) a környezet eredeti állapotának helyreállításához szükséges és elégséges feltételeket.
 
 (6)
 

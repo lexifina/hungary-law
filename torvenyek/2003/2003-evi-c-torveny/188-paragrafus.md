@@ -213,29 +213,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 89. Műsorterjesztés: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 50. pontjában meghatározott fogalom.
 
 90. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
-
-91. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (többek között készülékekben, eszközökben, járművekben) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
-
-92. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
-
-93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat, ideértve a kis hatótávú vezeték nélküli hozzáférési pontot.
-
-94. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
-
-95. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
-
-96. Nemföldrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amely nem földrajzi szám, különösen a mobilszámok, a díjmentes és az emelt díjas szolgáltatás hívószámai, továbbá a gépek közötti szolgáltatások hívószámai.
-
-97. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
-
-98. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
-
-99. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók, adatforgalmaik egymásnak történő átadása céljából.
-
-100. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
-
-101. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban nyilvános elektronikus hírközlési szolgáltatások nyújtására használt hálózati végpontok közötti információátvitelt támogató elektronikus hírközlő hálózat.
-
-102. Nyilvános elektronikus hírközlő hálózat üzemeltetője: nyilvános elektronikus hírközlő hálózat, illetve kapcsolódó eszközök feletti rendelkezési vagy használati jogot gyakorló természetes személy, jogi személy vagy egyéb szervezet.
-
-103. Nyilvánosan elérhető telefonszolgáltatás (telefonszolgáltatás vagy hangszolgáltatás): nyilvános elektronikus hírközlési szolgáltatás, amely nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi hívások kezdeményezését és fogadását.

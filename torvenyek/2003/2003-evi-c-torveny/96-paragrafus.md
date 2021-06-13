@@ -1,4 +1,4 @@
-96. § (1) Az érintett ingatlan tulajdonosát – a közterület, az állami tulajdonban álló ingatlan, valamint a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa kivételével – az e törvényből eredő korlátozás mértékének megfelelő Ptk. szerinti kártalanítás illeti meg.
+96. § (1) Az érintett ingatlan tulajdonosát – a közterület, az állami tulajdonban álló ingatlan, a közös eszközhasználattal érintett elektronikus hírközlési építmény tulajdonosa, valamint a 94. § (4e) bekezdés alapján létesített nagy sebességű elektronikus hírközlő hálózattal érintett ingatlan tulajdonosa kivételével – az e törvényből eredő korlátozás mértékének megfelelő, a Ptk. szerinti kártalanítás illeti meg.
 
 (2) Az elektronikus hírközlési építményt elhelyező elektronikus hírközlési szolgáltató a korlátozásból eredő jogainak gyakorlása, vagy az építési munkálatok során okozott kárt köteles megtéríteni. Köteles továbbá saját költségén a munkálatok befejeztével a környezet eredeti állapotának helyreállítására is.
 
