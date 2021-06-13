@@ -26,6 +26,8 @@ c) figyelemmel kíséri a víziközmű-szolgáltató üzemeltetési szerződésb
 
 (4) Az (1)–(3) bekezdésben meghatározott feladatokat a közigazgatási területén lévő felhasználási helyekre és az azokat közvetlenül ellátó víziközműre nézve az (5) bekezdésben foglalt eltéréssel a települési önkormányzat, a fővárosban a fővárosi önkormányzat (a továbbiakban együttesen: települési önkormányzat) látja el.
 
+(4a) A települési önkormányzat a tulajdonában álló víziközmű-vagyon 5/H. § (2) és (3) bekezdése szerinti átruházása esetén mentesül a (4) bekezdésben meghatározott ellátási felelősség alól.
+
 (5) Az (1)–(3) bekezdésben meghatározott feladatokat az állam látja el azon felhasználási helyek vonatkozásában, amelyek ellátása közvetlenül a nemzeti vagyonról szóló törvényben nevesített kizárólagos állami tulajdonnak minősülő regionális víziközmű-rendszerekről, vagy a kizárólagos állami tulajdonban lévő víziközmű-rendszerekről történik.
 
 (6) Az adott közigazgatási terület vagy víziközmű-rendszer felett ellátásért felelősi jogokat és kötelezettségeket gyakorló személyéről a Hivatal kérelemre hatósági bizonyítványt állít ki.
