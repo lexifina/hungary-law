@@ -6,7 +6,7 @@
 
 (4) E törvénynek a Mód. tv. által megállapított 53/B. § (8) bekezdésében meghatározott kötelezettséget első alkalommal 2021. április 30-ig kell teljesíteni.
 
-(5) E törvénynek a Mód. tv. által megállapított 18/A–18/C. §-ában meghatározott rendelkezéseit 2023. július 1-je előtt csak a Hivatal elnökének a hulladéklerakási díjról szóló rendelete megalkotásával összefüggő feladata teljesítésével kapcsolatban kell alkalmazni. A Hivatal elnökének a Mód. tv. által megállapított 18/B. § (3) bekezdésében meghatározott kötelezettséget első alkalommal féléves díjfizetési időszakra vonatkozóan 2023. július 1-jéig kell teljesítenie.
+(5) E törvénynek a Mód. tv. által megállapított 18/A–18/D. §-ában meghatározott rendelkezéseit 2023. július 1-je előtt csak a Hivatal elnökének a vonatkozó díjmegállapító rendelete megalkotásával összefüggő feladata teljesítésével kapcsolatban kell alkalmazni. A Hivatal elnökének a Mód. tv. által megállapított 18/B. § (3) bekezdésében, és a 18/D. § (1) bekezdésében meghatározott kötelezettséget első alkalommal féléves díjfizetési időszakra vonatkozóan 2023. július 1-jéig kell teljesítenie.
 
 (6) E törvénynek a Mód. tv. által a Hivatal részére meghatározott kötelezettségét a Hivatal első alkalommal
 

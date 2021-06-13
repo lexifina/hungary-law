@@ -8,9 +8,9 @@
 
 a) a (3) bekezdés szerinti jogszabályváltozások a koncessziós társaság számára olyan mértékben hátrányosak, amely miatt a koncessziós szerződés fenntartása a továbbiakban már nem várható el;
 
-b) az állam nem tesz eleget az állami hulladékgazdálkodási közfeladattal kapcsolatos 53/E. § (2) bekezdésében meghatározott megtérítési kötelezettségének; vagy
+b)
 
-c) az állam nem bocsátja a tulajdonában vagy a Koordináló szerv vagyonkezelésében lévő és a koncesszor által igényelt hulladékgazdálkodási eszközöket a koncesszor rendelkezésére legfeljebb a piaci viszonyoknak megfelelő bérleti díj ellenében.
+c)
 
 (5) A (4) bekezdésben foglalt felmondási okokat a koncessziós szerződésben szükséges rögzíteni.
 

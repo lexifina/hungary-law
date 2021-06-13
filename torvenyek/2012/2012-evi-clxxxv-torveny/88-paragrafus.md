@@ -140,7 +140,7 @@ bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási fel
 
 bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 
-bd) az Országos Hulladékgazdálkodási Közszolgáltatási Tervet.
+bd) az Országos Hulladékgazdálkodási Közszolgáltatási Tervet,
 
 be) a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének időpontjára, rendjére, módjára, tartalmára vonatkozó részletes szabályokat,
 

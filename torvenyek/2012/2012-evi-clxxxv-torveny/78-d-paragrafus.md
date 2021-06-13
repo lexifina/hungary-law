@@ -10,7 +10,7 @@ aa) ügyfélre vonatkozóan az egységes ügyfél-nyilvántartási rendszerben n
 
 ab) ügyfél által végzett hulladékgazdálkodási tevékenységre vonatkozó adatokat,
 
-ac) ügyfél által végzett hulladékgazdálkodási tevékenység helyére vonatkozó adatokat a térinformatikai leíró adatokkal együtt, és az ültetvény kataszterben nyilvántartott adatokat,
+ac) ügyfél által végzett hulladékgazdálkodási tevékenység helyére vonatkozó adatokat a térinformatikai leíró adatokkal együtt,
 
 b) a termékek, a hulladékfajták nyilvántartási adatait,
 

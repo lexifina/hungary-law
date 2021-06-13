@@ -16,7 +16,7 @@ g) a 37/B. § szerinti, valamint a Koordináló szerv mint vagyonkezelő által 
 
 h) köteles az e törvényben foglalt előírásoknak megfelelő ügyfélszolgálatot működtetni.
 
-(1a) Az (1) bekezdés e) pontjában foglalt feladatok ellenértékét a települési önkormányzat köteles megtéríteni a közszolgáltatónak.
+(1a)
 
 (2) Ha a közszolgáltató hulladékkezelő létesítménnyel vagy a közszolgáltatás körébe tartozó hulladékkezelési feladatok ellátására alkalmas berendezéssel nem rendelkezik, hulladékkezelő létesítményt vagy közszolgáltatás körébe tartozó hulladékkezelési feladatok ellátására alkalmas berendezést nem üzemeltet, a hulladék kezeléséről a hulladék hulladékkezelőnek történő átadása útján gondoskodik. Ebben az esetben a hulladékkezelőnek nem szükséges minősítési engedéllyel rendelkeznie.
 

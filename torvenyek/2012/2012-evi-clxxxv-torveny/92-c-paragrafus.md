@@ -1,4 +1,4 @@
-92/C. § (1) A hulladékgazdálkodásért felelős miniszter a 92. § (2a) bekezdésében, 92. § (5)–(7) bekezdésében meghatározott teljesítési határidő legfeljebb 5 évvel való elhalasztását a 92/D. §-ban meghatározott végrehajtási terv megküldésével
+92/C. § (1) A hulladékgazdálkodásért felelős miniszter a 92. § (2a) bekezdésében, valamint a 92. § (5)–(7) bekezdésében meghatározott teljesítési határidő legfeljebb 5 évvel való elhalasztását a 92/D. §-ban meghatározott végrehajtási terv megküldésével
 
 a) a 92. § (2a) bekezdése esetében 2032. december 31-ig,
 

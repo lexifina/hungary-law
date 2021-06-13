@@ -22,6 +22,12 @@ i) a hulladékokról szóló 2008/98/EK irányelv módosításáról szóló, 20
 
 j) a hulladéklerakókról szóló 1999/31/EK irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/850 európai parlamenti és tanácsi irányelvnek
 
+k) az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló, 2019. június 5-i
+
+(EU) 2019/904 európai parlamenti és tanácsi irányelvnek,
+
+l) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) Ez a törvény

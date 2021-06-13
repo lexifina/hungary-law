@@ -1,4 +1,4 @@
-47/A. § (1) A hulladékgazdálkodási közszolgáltatási résztevékenység ellátásáért szedhető közszolgáltatási díjat, a hulladékgazdálkodási intézményi résztevékenység ellátásáért szedhető díjakat, valamint a koncessziós társaságnak a hulladékgazdálkodási tevékenységére tekintettel a környezetvédelmi termékdíjból, a visszaváltási rendszerrel összefüggő díjakból, valamint a kiterjesztett gyártói felelősségi rendszerből származó bevételekből való részesedésének mértékét a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
+47/A. § (1) A hulladékgazdálkodási közszolgáltatási résztevékenység ellátásáért szedhető közszolgáltatási díjat és a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjakat a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg.
 
 (2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint küldi meg a miniszter részére.
 
