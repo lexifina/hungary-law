@@ -1,0 +1,3 @@
+16. § Az Eht. 97. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Ha a jogszerűen létesített építmény eltávolítása vagy áthelyezése szükséges, akkor e munkálatokat – a 94. § (4e) bekezdése alapján létesített nagy sebességű elektronikus hírközlő hálózat kivételével – annak költségére kell elvégezni, akinek érdekében ez felmerült. Jogszerűen építettnek kell tekinteni azt az építményt is, amely az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 48. §-a szerint fennmaradási engedélyt kapott.”

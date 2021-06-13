@@ -1,0 +1,3 @@
+67. § A Vksztv. 45. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A víziközmű-szolgáltató víziközmű-működtetés körébe nem tartozó tevékenysége (a továbbiakban: másodlagos tevékenység) nem veszélyeztetheti a víziközmű működtetését, a folyamatos, biztonságos és előírt színvonalú ellátást. Másodlagos tevékenységnek minősül különösen az elkülönített rendszerű csapadékvíz-elvezető rendszerek üzemeltetése, a fürdőüzemeltetés, vízvisszanyerő létesítmény üzemeltetése, a nem közműves szennyvízszállítási közszolgáltatás, a biogázüzem üzemeltetése, valamint az árvízvédelemmel kapcsolatos tevékenység.”
