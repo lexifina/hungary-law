@@ -46,6 +46,8 @@ aa) nem áll rendelkezésre a nem harmonizált forgalmi engedély eredeti vagy a
 
 ab) a harmonizált forgalmi engedély I. és II. részből áll, és a II. rész hiányzik,
 
+ac)[^185] nem áll rendelkezésre a harmonizált forgalmi engedély I. része, de az ügyfél csatolja a származási ország hatósága által kiadott igazolást a jármű külföldi forgalmi engedélyben szereplő adatairól, vagy a forgalmi engedélynek a kiállító hatóság által hitelesített másolati példányát, továbbá az okiratot, amely a forgalmi engedély hiányának okát tartalmazza,
+
 b) a jármű azért nem rendelkezik forgalmi engedéllyel, mert a származási országban forgalomba helyezésre nem kötelezett,
 
 c) a járművet hatósági árverés, hatósági vagy bírósági határozat útján szerezték meg és a jármű forgalmi engedéllyel nem rendelkezik.
@@ -56,7 +58,7 @@ a) a magyarországi gyártónak, vezérképviseletnek, összeépítési engedél
 
 b) harmadik országból vagy más EGT-államból belföldi üzemeltetés céljából behozott jármű esetén annak, aki a forgalomba helyezést kezdeményezi.
 
-(6)[^185] A külföldről belföldi üzemeltetés céljából behozott használt jármű forgalomba helyezéséig, valamint egyéb olyan járművek esetében, amelyek forgalomba helyezése nem indokolt, a jármű ideiglenes forgalomban tartása engedélyezhető, ha az ügyfél a tulajdonjog megszerzését, a kötelező gépjármű-felelősségbiztosítás meglétét és a jármű műszaki alkalmasságát igazolta.
+(6)[^186] A külföldről belföldi üzemeltetés céljából behozott használt jármű forgalomba helyezéséig, valamint egyéb olyan járművek esetében, amelyek forgalomba helyezése nem indokolt, a jármű ideiglenes forgalomban tartása engedélyezhető, ha az ügyfél a tulajdonjog megszerzését, a kötelező gépjármű-felelősségbiztosítás meglétét és a jármű műszaki alkalmasságát igazolta.
 
 (7) A jármű forgalomba helyezése nyilvántartásba vétellel, a forgalmi engedély, a rendszámtábla, és – az 55. §-ban meghatározott járműveknél – az új típusú rendszámtáblához tartozó regisztrációs matrica kiadásával valósul meg.
 
@@ -64,11 +66,11 @@ b) harmadik országból vagy más EGT-államból belföldi üzemeltetés céljá
 
 (9) A lassú jármű, annak pótkocsija, valamint a négykerekű segédmotoros kerékpár forgalomba helyezése esetén „igazolólap” megnevezést tartalmazó forgalmi engedélyt kell kiadni.
 
-(10)[^186] A forgalmi engedély, az ideiglenes forgalomban tartási engedély, a törzskönyv és a rendszámtábla, valamint a regisztrációs matrica arra a járműre érvényes, amelyre azt kiadták, vagy engedélyezték.
+(10)[^187] A forgalmi engedély, az ideiglenes forgalomban tartási engedély, a törzskönyv és a rendszámtábla, valamint a regisztrációs matrica arra a járműre érvényes, amelyre azt kiadták, vagy engedélyezték.
 
-(11)[^187] A közlekedési igazgatási hatóság a külföldi hatóság által kiállított forgalmi engedélyeket és hatósági jelzéseket a forgalomba helyezés során bevonja, és a keletkezett alapirattal a Nyilvántartónak megküldi.
+(11)[^188] A közlekedési igazgatási hatóság a külföldi hatóság által kiállított forgalmi engedélyeket és hatósági jelzéseket a forgalomba helyezés során bevonja, és a keletkezett alapirattal a Nyilvántartónak megküldi.
 
-(12)[^188] A Nyilvántartó a más EGT-állam nyilvántartó hatóságát a külföldi forgalmi engedély bevonásáról a jármű magyarországi forgalomba helyezésétől számított két hónapon belül értesíti, ezt követően az állam nyilvántartó hatóságának kérésére, illetve viszonosság esetén a külföldi okmányokat, hatósági jelzéseket az azt kiadó hatósághoz továbbítja, egyéb esetekben a jogszabályban meghatározott őrzési időt követően megsemmisíti.
+(12)[^189] A Nyilvántartó a más EGT-állam nyilvántartó hatóságát a külföldi forgalmi engedély bevonásáról a jármű magyarországi forgalomba helyezésétől számított két hónapon belül értesíti, ezt követően az állam nyilvántartó hatóságának kérésére, illetve viszonosság esetén a külföldi okmányokat, hatósági jelzéseket az azt kiadó hatósághoz továbbítja, egyéb esetekben a jogszabályban meghatározott őrzési időt követően megsemmisíti.
 
 (13) A jármű forgalomba helyezése iránti, vagy a már forgalomba helyezett járművel kapcsolatos eljárások során a közlekedési igazgatási hatóság az ügyfél kérelmének megfelelő adattartalmú elektronikus kérelmet állít elő.
 
@@ -81,7 +83,8 @@ b) harmadik országból vagy más EGT-államból belföldi üzemeltetés céljá
 [^182]: A 42. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 367. § (10) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^183]: A 42. § (3) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 367. § (10) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^184]: A 42. § (4) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^185]: A 42. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 367. § (11) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^186]: A 42. § (10) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
-[^187]: A 42. § (11) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
-[^188]: A 42. § (12) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^185]: A 42. § (4) bekezdés a) pont ac) alpontját a 246/2021. (V. 13.) Korm. rendelet 1. §-a iktatta be.
+[^186]: A 42. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 367. § (11) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^187]: A 42. § (10) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^188]: A 42. § (11) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja szerint módosított szöveg.
+[^189]: A 42. § (12) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.

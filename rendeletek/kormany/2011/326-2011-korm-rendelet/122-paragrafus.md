@@ -1,8 +1,8 @@
 ## 30. Hatályon kívül helyező rendelkezések
 
-122. § (1)–(4)[^449]
+122. § (1)–(4)[^450]
 
-(5)[^450]
+(5)[^451]
 
-[^449]: A 122. § (1)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^450]: A 122. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^450]: A 122. § (1)–(4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^451]: A 122. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

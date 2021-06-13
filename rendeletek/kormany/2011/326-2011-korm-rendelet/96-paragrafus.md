@@ -1,4 +1,4 @@
-## 95. §[^339] A forgalmi engedélyre vonatkozó szabályokat a lassú járműre, annak pótkocsijára és a négykerekű segédmotoros kerékpárra kiadott igazolólapra, továbbá az ideiglenes forgalmi engedélyre is értelemszerűen alkalmazni kell.
+## 95. §[^340] A forgalmi engedélyre vonatkozó szabályokat a lassú járműre, annak pótkocsijára és a négykerekű segédmotoros kerékpárra kiadott igazolólapra, továbbá az ideiglenes forgalmi engedélyre is értelemszerűen alkalmazni kell.
 
 ## 21. A rendszámtábla érvénytelenítése és a forgalmi engedély helyszíni elvétele
 
@@ -6,13 +6,13 @@
 
 a) járművet engedély nélkül átalakították,
 
-b)[^340] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
+b)[^341] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
 
-ba)[^341]
+ba)[^342]
 
 bb) forgalmi engedélyének „H” adatmezőben szereplő érvényességi ideje vagy az ideiglenes forgalomban tartási engedélyének az érvényességi ideje lejárt vagy
 
-bc)[^342] műszaki vizsgálatra történő berendelésére vonatkozó végleges határozatban foglaltaknak határidőben nem tettek eleget,
+bc)[^343] műszaki vizsgálatra történő berendelésére vonatkozó végleges határozatban foglaltaknak határidőben nem tettek eleget,
 
 c) a jármű közúti forgalomban való további részvétele közvetlen balesetveszéllyel jár és a járművel ennek ellenére közlekednek,
 
@@ -24,7 +24,7 @@ f) a közlekedési balesettel érintett jármű kormányműve vagy futóműve, i
 
 g) az új típusú rendszámmal rendelkező járművön nincs regisztrációs matrica elhelyezve, és azt a jármű vezetője nem tudja a helyszínen bemutatni, és a matrica utángyártására vagy egyedi gyártására vonatkozó kérelemmel sem rendelkezik.
 
-(2)[^343]
+(2)[^344]
 
 (3) Az (1) bekezdés c) és f) pontja esetén meg kell akadályozni, hogy a járművel tovább közlekedjenek.
 
@@ -38,11 +38,11 @@ g) az új típusú rendszámmal rendelkező járművön nincs regisztrációs ma
 
 (8) A (6) bekezdés alapján megküldött ideiglenes forgalomban tartási engedélyt és a hatósági jelzést a közlekedési igazgatási hatóság visszavonja.
 
-(9)[^344] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és a P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – az M, az SP és a P betűjelű ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban és 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
+(9)[^345] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és a P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – az M, az SP és a P betűjelű ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban és 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
 
-[^339]: A 95. § az 572/2020. (XII. 9.) Korm. rendelet 45. § 31. pontja szerint módosított szöveg.
-[^340]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
-[^341]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^342]: A 96. § (1) bekezdés b) pont bc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^343]: A 96. § (2) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^344]: A 96. § (9) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^340]: A 95. § az 572/2020. (XII. 9.) Korm. rendelet 45. § 31. pontja szerint módosított szöveg.
+[^341]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
+[^342]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^343]: A 96. § (1) bekezdés b) pont bc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^344]: A 96. § (2) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^345]: A 96. § (9) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
