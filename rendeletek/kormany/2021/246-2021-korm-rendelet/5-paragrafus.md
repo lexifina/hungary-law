@@ -1,4 +1,4 @@
-## 4. §[^2]
+## 4. §[^4]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 4. § 2022. május 28-án lép hatályba.
 
-[^2]: A 4. § az 5. § (3) bekezdése alapján 2022. május 28-án lép hatályba.
+[^4]: A 4. § az 5. § (3) bekezdése alapján 2022. május 28-án lép hatályba.
