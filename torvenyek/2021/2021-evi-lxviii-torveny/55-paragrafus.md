@@ -1,3 +1,1 @@
-55. § A Get. 125. §-a következő (1d) bekezdéssel egészül ki:
-
-„(1d) A földgázkereskedő a kapacitáslekötési jog visszaszármaztatásának elősegítése érdekében a felhasználó lejárt számlatartozásával kapcsolatos adatokat, így a felhasználó azonosító számát, a felhasználó nevét, a felhasználó címét, a felhasználási hely címét, a lejárt tartozással érintett számla sorszámát és esedékességét, valamint a lejárt esedékességű tartozás összegét a felhasználási hely tulajdonosának, annak kérése esetén – a felhasználási hely tulajdonosának átadott kapacitáslekötési joga védelme céljából – átadja. A földgázkereskedő a felhasználási hely tulajdonosának e bekezdés teljesítéséhez szükséges adatait kezelheti a felhasználó díjtartozása teljes körű megfizetésének megtörténtéig.”
+55. §

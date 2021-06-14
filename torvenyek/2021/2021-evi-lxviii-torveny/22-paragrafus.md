@@ -1,3 +1,1 @@
-22. § A Vet. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az átviteli rendszerirányító az elosztók által készített fejlesztési tervek és ajánlatok, az aktuális és a várható villamosenergia-felhasználás, -termelés, -kereslet és -kínálat, a határkeresztező villamosenergia-forgalom, az európai villamosenergia-piac követelményei, a regionális és közösségi szintű hálózatokra vonatkozó fejlesztési tervek, az (EU) 2019/943 európai parlamenti és tanácsi rendeletben, valamint a Vhr.-ben meghatározott szempontok figyelembevételével az üzemi szabályzatban meghatározottak alapján, az üzemi szabályzatban megjelölt iparági koordinációban, az ott meghatározott felelősségi körök szerint évente elkészíti a villamosenergia-rendszer 132 kV-os és annál nagyobb feszültségű hálózatokra vonatkozó hálózatfejlesztési tervét.”
+22. §

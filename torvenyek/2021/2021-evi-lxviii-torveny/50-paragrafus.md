@@ -1,9 +1,1 @@
-50. § (1) A Get. 63. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A földgázkereskedő – a (2)–(5) bekezdésben foglalt eltéréssel – a felhasználók bejelentéseinek intézésére, panaszainak kivizsgálására, orvoslására és tájékoztatására köteles a kapcsolattartást szóbeli és írásbeli ügyintézés keretében biztosítani.
-
-(2) Az egyetemes szolgáltatásra jogosult felhasználókat ellátó földgázkereskedő az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározottak szerint ügyfélszolgálatot is működtet állandó ügyfélszolgálati irodaként vagy ügyfélszolgálati fiókirodaként (a továbbiakban együtt: ügyfélszolgálat). Az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet és a földgázkereskedő üzletszabályzata tartalmazza.”
-
-(2) A Get. 63. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az egyetemes szolgáltató az ügyfélszolgálatok fenntartása tekintetében – az (1) és (2) bekezdésben és a 63/A. § (1) bekezdésében meghatározottakon túl – járásonként legalább egy ügyfélszolgálatot működtet. Ha a járásnak csak egy része tartozik az egyetemes szolgáltató működési területéhez, akkor az egyetemes szolgáltató jogosult az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározottak szerint az ügyfélszolgálatot összevontan működtetni. A főváros területén a lakossági fogyasztók arányában létesítendő ügyfélszolgálatok típusát, minimális számát, az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet tartalmazza. Az egyetemes szolgáltató e kötelezettségének olyan, az ügyfélforgalom számára nyitva álló helyiségben is eleget tehet, amelyet más szolgáltatóval, közszolgáltatóval vagy közfeladatot ellátó jogi személlyel együttműködve tart fenn.”
+50. §
