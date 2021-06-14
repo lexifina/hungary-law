@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-484-20-
 | 2021-05-23 | 2020-484-20-22.27 | 264/2021. (V. 21.) Korm. rendelet |
 | 2021-06-09 | 2020-484-20-22.28 | 314/2021. (VI. 8.) Korm. rendelet |
 | 2021-06-11 | 2020-484-20-22.29 | 335/2021. (VI. 11.) Korm. rendelet |
+| 2021-06-14 | 2020-484-20-22.30 | 313/2021. (VI. 8.) Korm. rendelet |

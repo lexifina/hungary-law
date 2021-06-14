@@ -1,17 +1,17 @@
-## 13/A. §[^113] Ezen alcím alkalmazásában látogatáson a 12. § (1) bekezdésében meghatározott helyszínen nyújtott szolgáltatás igénybevételét vagy a helyszín rendeltetésszerű használatának megkezdését kell érteni.
+## 13/A. §[^117] Ezen alcím alkalmazásában látogatáson a 12. § (1) bekezdésében meghatározott helyszínen nyújtott szolgáltatás igénybevételét vagy a helyszín rendeltetésszerű használatának megkezdését kell érteni.
 
-## 8. [^114] A felsőoktatási intézményekre vonatkozó intézkedések
+## 8. [^118] A felsőoktatási intézményekre vonatkozó intézkedések
 
-14. §[^115] (1) A felsőoktatási intézményben az oktatás digitális oktatás keretei között folytatható.
+14. §[^119] (1) A felsőoktatási intézményben az oktatás digitális oktatás keretei között folytatható.
 
-(2)[^116] Az (1) bekezdéstől eltérően a felsőoktatási intézmény rektora dönthet az oktatás – így különösen a hallgatók gyakorlati képzésének, valamint a tanulmányi és vizsgaszabályzat szerint hallgatói jelenlétet igénylő tudásmérésnek – személyes érintkezés mellett történő megszervezéséről, a szükséges védelmi intézkedések betartásával.
+(2)[^120] Az (1) bekezdéstől eltérően a felsőoktatási intézmény rektora dönthet az oktatás – így különösen a hallgatók gyakorlati képzésének, valamint a tanulmányi és vizsgaszabályzat szerint hallgatói jelenlétet igénylő tudásmérésnek – személyes érintkezés mellett történő megszervezéséről, a szükséges védelmi intézkedések betartásával.
 
-(3)[^117] A szükséges védelmi intézkedések betartásáról a rektor köteles gondoskodni.
+(3)[^121] A szükséges védelmi intézkedések betartásáról a rektor köteles gondoskodni.
 
 (4) A felsőoktatási intézmény kollégiumának és diákotthonának hallgatók általi látogatásának a rendjéről a felsőoktatási intézmény rektora dönt.
 
-[^113]: A 13/A. §-t a 194/2021. (IV. 26.) Korm. rendelet 6. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
-[^114]: A 8. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
-[^115]: A 14. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^116]: A 14. § (2) bekezdése a 234/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^117]: A 14. § (3) bekezdése a 234/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^117]: A 13/A. §-t a 194/2021. (IV. 26.) Korm. rendelet 6. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
+[^118]: A 8. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
+[^119]: A 14. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
+[^120]: A 14. § (2) bekezdése a 234/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^121]: A 14. § (3) bekezdése a 234/2021. (V. 6.) Korm. rendelet 1. §-ával megállapított szöveg.

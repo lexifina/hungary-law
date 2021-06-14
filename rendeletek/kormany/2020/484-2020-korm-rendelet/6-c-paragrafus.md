@@ -1,4 +1,4 @@
-6/C. §[^58] (1) A sportrendezvénynek, a kulturális eseménynek, a családi eseménynek vagy magánrendezvénynek, valamint zenés, táncos rendezvénynek nem minősülő rendezvényt (a továbbiakban: egyéb rendezvény) az e §-ban foglaltak szerint lehet megtartani.
+6/C. §[^60] (1)[^61] A sportrendezvénynek, a kulturális eseménynek, a családi eseménynek vagy magánrendezvénynek, zenés, táncos rendezvénynek, valamint falunapnak nem minősülő rendezvényt (a továbbiakban: egyéb rendezvény) az e §-ban foglaltak szerint lehet megtartani.
 
 (2) Ha az egyéb rendezvényt a szabadtéren tartják, és azon – az ott foglalkoztatottakon kívül –
 
@@ -20,4 +20,5 @@ b) a maszkhasználatot nem tilthatja meg.
 
 (7) A (2)–(4) bekezdés szerinti védelmi intézkedés betartatásáról a rendezvény szervezője, illetve a rendezvény helyszínének üzemeltetője köteles gondoskodni.
 
-[^58]: A 6/C. §-t a 264/2021. (V. 21.) Korm. rendelet 2. §-a iktatta be.
+[^60]: A 6/C. §-t a 264/2021. (V. 21.) Korm. rendelet 2. §-a iktatta be.
+[^61]: A 6/C. § (1) bekezdése a 313/2021. (VI. 8.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
