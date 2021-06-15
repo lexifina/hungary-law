@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 62. §-sal egészül ki:
+
+## „62. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 340/2021. (VI. 14.) Korm. rendelettel (a továbbiakban: Módr54.) módosított 3. § (3) és (4) bekezdését, 4. § (1) és (2) bekezdését, megállapított 6/P. §-át, a 2. mellékletében foglalt táblázat 67. és 68. sorát a Módr54. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
