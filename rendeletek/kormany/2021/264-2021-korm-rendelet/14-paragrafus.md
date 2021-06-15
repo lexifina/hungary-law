@@ -1,4 +1,4 @@
-## 13. §[^4]
+## 13. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) E rendelet hatálybalépésének naptári napját az élet és vagyonbiztonság védelméért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-[^4]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
