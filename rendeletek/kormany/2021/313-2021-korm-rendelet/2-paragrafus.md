@@ -1,1 +1,3 @@
-## „(7) Ezen alcím alkalmazásában a falunap olyan rendezvény, amelyet 5000 főnél nem nagyobb lakónépességű település önkormányzata szervez, és a rendezvényt szabadtéren tartják.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
