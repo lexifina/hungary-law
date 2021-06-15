@@ -32,23 +32,25 @@ feliratokat.
 
 (1c)[^6] Ha az érintett magánútlevél mellett hivatalos útlevéllel is rendelkezik, kérelmére – az e rendeletben foglalt feltételek fennállása esetén – a (6) bekezdés szerinti hatóság a hivatalos útlevél számával feltüntetett védettségi igazolványt is kiállít.
 
-(2) Az (1) bekezdés f) pontja szerinti érvényességi dátum – a (4) bekezdés szerinti kivétellel – az érintett – (3) bekezdés szerinti – fertőzésből történő felgyógyulásának napját követő hatodik hónap azonos napjával, ha pedig a hónapban nincs ilyen nap, a hónap utolsó napjával egyezik meg.
+(2)[^7] Az (1) bekezdés f) pontja szerinti érvényességi dátum – a (4) bekezdés szerinti kivétellel – az érintett – (3) és (3a) bekezdés szerinti – fertőzésből történő felgyógyulásának napját követő hatodik hónap azonos napjával, ha pedig a hónapban nincs ilyen nap, a hónap utolsó napjával egyezik meg.
 
 (3) A (2) bekezdés szerinti fertőzésből történő felgyógyulás napja, az Elektronikus Egészségügyi Szolgáltatási Térben (a továbbiakban: EESZT) nyilvántartott,
 
-a)[^7] az utolsó pozitív eredményű, a koronavírus kimutatására szolgáló molekuláris biológiai vizsgálatot vagy antigén gyorstesztet követő negatív eredményű, a koronavírus kimutatására szolgáló molekuláris biológiai vizsgálat napja, ha az a b) pontban foglalt időpontnál hamarabb következett be,
+a)[^8] az utolsó pozitív eredményű, a koronavírus kimutatására szolgáló molekuláris biológiai vizsgálatot vagy antigén gyorstesztet követő negatív eredményű, a koronavírus kimutatására szolgáló molekuláris biológiai vizsgálat napja, ha az a b) pontban foglalt időpontnál hamarabb következett be,
 
-b) negatív eredményű, a koronavírus kimutatására szolgáló molekuláris biológiai vizsgálat hiányában, az utolsó pozitív eredményű, a koronavírus kimutatására szolgáló antigén gyorsteszt vagy molekuláris biológiai vizsgálat napját követő tizedik nap.
+b)[^9] negatív eredményű, a koronavírus kimutatására szolgáló molekuláris biológiai vizsgálat hiányában, az utolsó pozitív eredményű, a koronavírus kimutatására szolgáló antigén gyorsteszt vagy molekuláris biológiai vizsgálat napját követő tizenötödik nap.
 
-(4)[^8] Az érintett az egészségügyi szakmai szabályoknak megfelelő, Magyarországon működő egészségügyi szolgáltató által laboratóriumban elvégzett, pozitív eredményű vizsgálattal igazolhatja, hogy szervezetében a koronavírus elleni ellenanyag jelen van, ha
+(3a)[^10] A (3) bekezdéstől eltérően, ha a (3) bekezdés b) pontja szerinti időpontban az érintett fekvőbeteg-ellátó intézményben van, az érintett gyógyulásának napja a fekvőbeteg-ellátó intézményből történt elbocsátást követő tizedik nap.
+
+(4)[^11] Az érintett az egészségügyi szakmai szabályoknak megfelelő, Magyarországon működő egészségügyi szolgáltató által laboratóriumban elvégzett, pozitív eredményű vizsgálattal igazolhatja, hogy szervezetében a koronavírus elleni ellenanyag jelen van, ha
 
 a) az érintettről az EESZT-ben nem tartanak nyilván pozitív eredményű koronavírus kimutatására szolgáló antigén gyorsteszt vagy molekuláris biológiai vizsgálati eredményt, vagy
 
 b) az érintett részére a (3) bekezdésre tekintettel védettségi igazolvány került kiállításra, és a védettségi igazolvány érvényességi ideje lejárt, vagy a lejárata 14 napon belül van.
 
-(4a)[^9] A (4) bekezdés szerinti vizsgálatot megelőzően az érintettnek a Magyarországon működő egészségügyi szolgáltatót tájékoztatnia kell arról, hogy a koronavírus elleni ellenanyag kimutatására szolgáló laboratóriumi vizsgálatot a védettségi igazolvány kiállítása céljából kéri.
+(4a)[^12] A (4) bekezdés szerinti vizsgálatot megelőzően az érintettnek a Magyarországon működő egészségügyi szolgáltatót tájékoztatnia kell arról, hogy a koronavírus elleni ellenanyag kimutatására szolgáló laboratóriumi vizsgálatot a védettségi igazolvány kiállítása céljából kéri.
 
-(4b)[^10] A (4a) bekezdés szerinti tájékoztatás esetén a Magyarországon működő egészségügyi szolgáltató a leletet,
+(4b)[^13] A (4a) bekezdés szerinti tájékoztatás esetén a Magyarországon működő egészségügyi szolgáltató a leletet,
 
 a) ha az elvégzett laboratóriumi vizsgálat az érintett szervezetében valamely koronavírus elleni ellenanyag tekintetében pozitív eredményt hozott, az „Az igénylő szervezetében a koronavírus elleni ellenanyag jelen van.” szöveggel,
 
@@ -56,23 +58,23 @@ b) ha az elvégzett laboratóriumi vizsgálat az érintett szervezetében egyetl
 
 ## látja el.
 
-(4c)[^11] Ha az érintett a (4)–(4b) bekezdés szerint igazolja, hogy szervezetében a koronavírus elleni ellenanyag jelen van, úgy az (1) bekezdés f) pontja szerinti érvényességi dátum az ellenanyag jelenlétét kimutató vizsgálat dátumát követő negyedik hónap azonos napja, ha pedig a hónapban nincs ilyen nap, a hónap utolsó napja.
+(4c)[^14] Ha az érintett a (4)–(4b) bekezdés szerint igazolja, hogy szervezetében a koronavírus elleni ellenanyag jelen van, úgy az (1) bekezdés f) pontja szerinti érvényességi dátum az ellenanyag jelenlétét kimutató vizsgálat dátumát követő negyedik hónap azonos napja, ha pedig a hónapban nincs ilyen nap, a hónap utolsó napja.
 
 (5) A védettségi igazolvány az egyes adatok megjelölését angol nyelven is tartalmazza.
 
-(6)[^12] A védettségi igazolványt – a (7) bekezdésben foglalt kivétellel – a jogosult természetes személy részére Budapest Főváros Kormányhivatala (a továbbiakban: hatóság)
+(6)[^15] A védettségi igazolványt – a (7) bekezdésben foglalt kivétellel – a jogosult természetes személy részére Budapest Főváros Kormányhivatala (a továbbiakban: hatóság)
 
 a) 2021. március 1. napját megelőzően a fertőzésből történő felgyógyulás esetén 2021. március 15. napjáig,
 
-b) 2021. március 1. napját követően a fertőzésből történő felgyógyulás esetén a (3) bekezdés szerinti fertőzésből történő felgyógyulásának napját követő 8 napon belül,
+b)[^16] 2021. március 1. napját követően a fertőzésből történő felgyógyulás esetén a (3) és (3a) bekezdés szerinti fertőzésből történő felgyógyulásának napját követő 8 napon belül,
 
-c)[^13] ha az oltás beadására 2021. március 1. napját megelőzően került sor, 2021. március 15. napjáig,
+c)[^17] ha az oltás beadására 2021. március 1. napját megelőzően került sor, 2021. március 15. napjáig,
 
-d)[^14] ha az oltás beadására 2021. március 1. napját követően került sor, 8 napon belül
+d)[^18] ha az oltás beadására 2021. március 1. napját követően került sor, 8 napon belül
 
 ## hivatalból állítja ki.
 
-(6a)[^15] A hatóság – a (7a) bekezdésben foglaltak kivételével – a (6) bekezdés a) és b) pontja, valamint a (7) bekezdés szerinti esetben nem állít ki újabb védettségi igazolványt, ha az érintett érvényes védettségi igazolvánnyal rendelkezik.
+(6a)[^19] A hatóság – a (7a) bekezdésben foglaltak kivételével – a (6) bekezdés a) és b) pontja, valamint a (7) bekezdés szerinti esetben nem állít ki újabb védettségi igazolványt, ha az érintett érvényes védettségi igazolvánnyal rendelkezik.
 
 (7) A védettségi igazolványt – a (4) bekezdés szerinti esetben – a jogosult természetes személy részére a hatóság
 
@@ -82,9 +84,9 @@ b) 2021. március 1. napját követően a kérelem benyújtását követő 8 nap
 
 ## kérelemre állítja ki.
 
-(7a)[^16] A (6a) bekezdéstől eltérően, ha az érintett részére a (3) vagy (4) bekezdésre tekintettel védettségi igazolvány került kiállításra, az érintett a védettségi igazolvány lejártát megelőző 14 napon belül is kérelmezheti a (7) bekezdés szerint a védettségi igazolvány kiállítását.
+(7a)[^20] A (6a) bekezdéstől eltérően, ha az érintett részére a (3) vagy (4) bekezdésre tekintettel védettségi igazolvány került kiállításra, az érintett a védettségi igazolvány lejártát megelőző 14 napon belül is kérelmezheti a (7) bekezdés szerint a védettségi igazolvány kiállítását.
 
-(8)[^17] Az (1c) és a (7) bekezdés esetében a védettségi igazolvány
+(8)[^21] Az (1c) és a (7) bekezdés esetében a védettségi igazolvány
 
 a) elektronikus úton a fővárosi és megyei kormányhivatal által rendszeresített elektronikus űrlapon vagy
 
@@ -92,7 +94,7 @@ b) bármely kormányablakban személyesen
 
 ## igényelhető.
 
-(9)[^18] A (7) bekezdés szerinti kérelemhez mellékelni kell a koronavírus elleni ellenanyagnak az érintett személy szervezetében való jelenlétét igazoló Magyarországon működő egészségügyi szolgáltató által elvégzett vizsgálat eredményét és annak értékelését tartalmazó leletet.
+(9)[^22] A (7) bekezdés szerinti kérelemhez mellékelni kell a koronavírus elleni ellenanyagnak az érintett személy szervezetében való jelenlétét igazoló Magyarországon működő egészségügyi szolgáltató által elvégzett vizsgálat eredményét és annak értékelését tartalmazó leletet.
 
 (10) A védettségi igazolvány pótlása, cseréje iránti kérelmet
 
@@ -102,15 +104,15 @@ b) bármely kormányablakban személyesen
 
 ## lehet benyújtani.
 
-(10a)[^19] A (8) és a (10) bekezdés alapján benyújtott kérelmek esetében a kormányablak a hatóság nevében a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 48. § (1) bekezdése alapján jár el.
+(10a)[^23] A (8) és a (10) bekezdés alapján benyújtott kérelmek esetében a kormányablak a hatóság nevében a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 48. § (1) bekezdése alapján jár el.
 
 (11) A védettségi igazolvány
 
-a)[^20] a (7) bekezdésben foglalt kivétellel kiállítása ingyenes,
+a)[^24] a (7) bekezdésben foglalt kivétellel kiállítása ingyenes,
 
 b) (7) bekezdés szerinti kiállítása, valamint (10) bekezdés szerinti pótlása, cseréje esetén 3000 forint igazgatási szolgáltatási díjat kell fizetni, amelyből 2000 forint a védettségi igazolvány előállítási költsége.
 
-(11a)[^21] Az érintett a hatósághoz benyújtott kérelmében díjmentesen kérheti a védettségi igazolvány kiállítását, ha a kérelmező a védettségi igazolványt a (6) bekezdés b) és d) pontja, illetve a (7) bekezdés b) pontja szerinti kiállítást követő 30 napon belül nem kapta kézhez. A kérelmező részére ebben az esetben akkor is új igazolványt kell kiállítani, ha a részére korábban került kiállításra védettségi igazolvány, de az érintett jelzésére vélelmezhető, hogy az nem került kézbesítésre.
+(11a)[^25] Az érintett a hatósághoz benyújtott kérelmében díjmentesen kérheti a védettségi igazolvány kiállítását, ha a kérelmező a védettségi igazolványt a (6) bekezdés b) és d) pontja, illetve a (7) bekezdés b) pontja szerinti kiállítást követő 30 napon belül nem kapta kézhez. A kérelmező részére ebben az esetben akkor is új igazolványt kell kiállítani, ha a részére korábban került kiállításra védettségi igazolvány, de az érintett jelzésére vélelmezhető, hogy az nem került kézbesítésre.
 
 (12) A védettségi igazolvány személyazonosító igazolvány vagy útlevél felmutatásával együtt érvényes.
 
@@ -130,18 +132,22 @@ b) (7) bekezdés szerinti kiállítása, valamint (10) bekezdés szerinti pótl�
 [^4]: A 2. § (1a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^5]: A 2. § (1b) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^6]: A 2. § (1c) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^7]: A 2. § (3) bekezdés a) pontja a 222/2021. (V. 3.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^8]: A 2. § (4) bekezdése a 336/2021. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § (4a) bekezdését a 108/2021. (III. 5.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^10]: A 2. § (4b) bekezdését a 108/2021. (III. 5.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^11]: A 2. § (4c) bekezdését a 336/2021. (VI. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^12]: A 2. § (6) bekezdés nyitó szövegrésze a 222/2021. (V. 3.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^13]: A 2. § (6) bekezdés c) pontja a 108/2021. (III. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^14]: A 2. § (6) bekezdés d) pontja a 108/2021. (III. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^15]: A 2. § (6a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 336/2021. (VI. 11.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^16]: A 2. § (7a) bekezdését a 336/2021. (VI. 11.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^17]: A 2. § (8) bekezdés nyitó szövegrésze a 222/2021. (V. 3.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^18]: A 2. § (9) bekezdése a 108/2021. (III. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^19]: A 2. § (10a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (4) bekezdése iktatta be.
-[^20]: A 2. § (11) bekezdése a 222/2021. (V. 3.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
-[^21]: A 2. § (11a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^7]: A 2. § (2) bekezdése a 334/2021. (VI. 10.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdés a) pontja a 222/2021. (V. 3.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § (3) bekezdés b) pontja a 334/2021. (VI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (3a) bekezdését a 334/2021. (VI. 10.) Korm. rendelet 2. §-a iktatta be.
+[^11]: A 2. § (4) bekezdése a 336/2021. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (4a) bekezdését a 108/2021. (III. 5.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^13]: A 2. § (4b) bekezdését a 108/2021. (III. 5.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^14]: A 2. § (4c) bekezdését a 336/2021. (VI. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 2. § (6) bekezdés nyitó szövegrésze a 222/2021. (V. 3.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^16]: A 2. § (6) bekezdés b) pontja a 334/2021. (VI. 10.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^17]: A 2. § (6) bekezdés c) pontja a 108/2021. (III. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: A 2. § (6) bekezdés d) pontja a 108/2021. (III. 5.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. § (6a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (3) bekezdése iktatta be, szövege a 336/2021. (VI. 11.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^20]: A 2. § (7a) bekezdését a 336/2021. (VI. 11.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^21]: A 2. § (8) bekezdés nyitó szövegrésze a 222/2021. (V. 3.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^22]: A 2. § (9) bekezdése a 108/2021. (III. 5.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^23]: A 2. § (10a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^24]: A 2. § (11) bekezdése a 222/2021. (V. 3.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^25]: A 2. § (11a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (5) bekezdése iktatta be.
