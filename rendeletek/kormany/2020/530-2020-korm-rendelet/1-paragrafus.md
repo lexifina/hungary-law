@@ -4,7 +4,7 @@
 
 (2a)[^2] A (2) bekezdésben foglaltaktól eltérően nem alakul át egészségügyi szolgálati jogviszonnyá a szociális intézményként működő egészségügyi szolgáltatónál foglalkoztatott személy (2) bekezdés szerinti jogviszonya azzal, hogy az érintett foglalkoztatott vonatkozásában nem alkalmazható az Eszjtv. 1. § (4) bekezdése, valamint a (7) és a (8) bekezdés.
 
-(3) Az érintett jogviszonyára a (2) bekezdésben megállapított időpontig a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), illetve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit – a 2. § figyelembevételével – kell alkalmazni.
+(3)[^3] Az érintett jogviszonyára a (2) bekezdésben megállapított időpontig a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.), illetve a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit kell alkalmazni.
 
 (4) A jogviszony átalakulásáról és az egészségügyi szolgálati munkaszerződés tervezett tartalmáról az érintettet az országos kórház-főigazgató által előírtak szerint írásban tájékoztatni kell.
 
@@ -43,3 +43,4 @@ c) a Kjt. alatt az Mt.-t
 (14) A (2) bekezdésben meghatározott időponttól nem alkalmazható az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 13/B. §-a és 14–14/C. §-a azon egészségügyi dolgozó vonatkozásában, akinek az illetménye az Eszjtv. 1. melléklete alapján kerül megállapításra.
 
 [^2]: Az 1. § (2a) bekezdését a 69/2021. (II. 19.) Korm. rendelet 21. §-a iktatta be.
+[^3]: Az 1. § (3) bekezdése a 308/2021. (VI. 7.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.

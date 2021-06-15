@@ -1,3 +1,3 @@
-8. §[^5]
+8. §[^8]
 
-[^5]: A 8. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 22. pontja alapján hatályát vesztette.
+[^8]: A 8. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 22. pontja alapján hatályát vesztette.

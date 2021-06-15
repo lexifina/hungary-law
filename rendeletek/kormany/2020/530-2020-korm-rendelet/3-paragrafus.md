@@ -1,4 +1,4 @@
-## 2. § Az Eszjtv. hatálya alá tartozó egészségügyi szolgáltatónál foglalkoztatott egészségügyi dolgozó és egészségügyben dolgozó az egészségügyi szolgáltatónál fennálló jogviszonyát – a rendkívüli megszüntetés kivételével – nem szüntetheti meg a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendeletben kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt.
+## 2. §[^4]
 
 3. § (1) Az egészségügyi felsőfokú szakirányú szakképzést 2021. január 1-jét követően megkezdő rezidens foglalkoztatója a szakképzésre akkreditált egészségügyi szolgáltató.
 
@@ -13,3 +13,5 @@ b) az Eszjtv. hatálya alá nem tartozó egészségügyi szolgáltató az Eütev
 keretében köteles foglalkoztatni azzal, hogy a rezidens besorolási illetménye, valamint munkabére nem lehet kevesebb, mint a 2020. december 31. napját megelőzően megállapított besorolási illetmény.
 
 (4) Az Eszjtv. hatálya alá tartozó egészségügyi szolgáltató a rezidenst a (3) bekezdés a) pontjában meghatározott időponttól egészségügyi szolgálati jogviszonyban köteles foglalkoztatni.
+
+[^4]: A 2. §-t a 308/2021. (VI. 7.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
