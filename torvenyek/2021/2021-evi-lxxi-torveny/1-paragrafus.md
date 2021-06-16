@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Oroszországi Föderáció Kormánya között a Magyarország Kormányának a magyarországi atomerőmű építésének finanszírozásához nyújtandó állami hitel folyósításáról szóló, 2014. március 28-án kelt megállapodás módosításáról szóló jegyzőkönyv (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
