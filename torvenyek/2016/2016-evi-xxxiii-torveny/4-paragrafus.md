@@ -8,9 +8,11 @@ b) a pályázat benyújtására nyitva álló határidő megjelölését,
 
 c) a pályázat elbírálásának várható időpontját,
 
-d) a pályázói adatlapot, továbbá
+d) a pályázói adatlapot,
 
-e) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír elő.
+e) mindazokat az egyéb tartalmi és formai elemeket, amelyeket jogszabály ír elő, továbbá
+
+f) annak megjelölését, hogy a pályázat tartalmi értékelés vagy közbeszerzési értékelés végzésére irányul.
 
 (3) A jogviszony létesítését megelőzően a pályázó nyilatkozik arról, hogy büntetlen előéletű és nem áll foglalkozástól eltiltás hatálya alatt. Ha a pályázó, értékelő büntetlen előéletével összefüggésben kétség merül fel, a munkáltatói jogkör gyakorlója írásban, indokolással felszólíthatja, hogy a felhívástól számított tizenöt napon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvány bemutatásával igazolja, hogy büntetlen előéletű.
 

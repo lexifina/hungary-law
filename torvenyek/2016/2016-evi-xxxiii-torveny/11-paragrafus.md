@@ -8,7 +8,7 @@
 
 a) a projektértékelői pályázat tartalmára, kiírására, benyújtására, valamint a pályázat elbírálásának rendjére vonatkozó részletes szabályokat,
 
-b)
+b) azon közbeszerzések körét, amelyek tekintetében az állami projektértékelő közbeszerzési értékelést végez,
 
 c) az értékelő eseti feladatellátásával kapcsolatos részletes szabályokat,
 

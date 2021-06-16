@@ -4,7 +4,7 @@
 
 ## 1. A törvény alkalmazási köre
 
-1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése közfeladat, amelyet az állami projektértékelői jogviszonyban állók látnak el.
+1. § (1) Az Európai Unió pénzügyi alapjaihoz kapcsolódó támogatási kérelmek tartalmi értékelése és az ezen alapok által támogatott projektek megvalósításához kapcsolódó közbeszerzések ellenőrzése közfeladat. E támogatási kérelmek tartalmi értékelését (a továbbiakban: tartalmi értékelés) és az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben, valamint a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló kormányrendeletben meghatározott közbeszerzések műszaki szempontú ellenőrzését (a továbbiakban: közbeszerzési értékelés) az állami projektértékelői jogviszonyban állók látják el.
 
 (2) Állami projektértékelői jogviszony létesíthető azzal, aki
 
@@ -12,21 +12,29 @@ a) központi államigazgatási szervnél, illetve annak területi és helyi szer
 
 b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottként, kormánytisztviselőként, köztisztviselőként vagy munkavállalóként, valamint állami vagy vagyonkezelő alapítvány fenntartásában működő felsőoktatási intézményben közalkalmazottként vagy munkavállalóként,
 
-c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként vagy
+c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként,
 
-d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként
+d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként vagy
 
-[az a)–d) pont továbbiakban együtt: állami alkalmazott] foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
+e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként
+
+foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
 
 (3) Az értékelő felett a munkáltatói jogkört az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(4) E törvényt a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló, kormányrendeletben meghatározott kiválasztási eljárásrenddel érintett felhívásokra benyújtott támogatási kérelmek tartalmi értékelésére kell alkalmazni.
+(4) E törvényt
 
-(5) E törvény a miniszter hozzájárulása esetén a (4) bekezdésbe nem tartozó felhívásra benyújtott támogatási kérelmek esetén is alkalmazható.
+a) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló, kormányrendeletben meghatározott kiválasztási eljárásrenddel érintett felhívások tekintetében végzett tartalmi értékelésre és
 
-(6) A (4) bekezdésben foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet meghatározhatja.
+b) a közbeszerzési értékelésre
 
-(7) E törvényt – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni
+kell alkalmazni.
+
+(5) E törvény a miniszter hozzájárulása esetén a (4) bekezdés a) pontjába nem tartozó felhívással összefüggő tartalmi értékelésre is alkalmazható.
+
+(6) A (4) bekezdés a) pontjában foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet meghatározhatja.
+
+(7) E törvény tartalmi értékelésre vonatkozó rendelkezéseit – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni
 
 a) a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvényben (a továbbiakban: KFItv.) meghatározott, továbbá
 
@@ -34,4 +42,4 @@ b) a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési �
 
 értékelési feladatokra és eljárásokra.
 
-(8) E törvényt nem kell alkalmazni a (4) vagy (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.
+(8) E törvényt nem kell alkalmazni a (4) bekezdés a) pontja vagy (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.

@@ -14,13 +14,7 @@ céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó sz
 
 (2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – legfeljebb az érintett operatív programra irányadó dokumentum-megőrzési kötelezettség leteltéig kezeli.
 
-(3) A munkáltató a pályázó, illetve értékelő
-
-a) állami projektértékelő jogviszonya létesítéséhez – a Kormány rendeletében – előírt iskolai végzettséget igazoló oklevelét, bizonyítványát, illetve a szakmai tapasztalat igazolását, továbbá
-
-b) fizetési számlára vonatkozó, a fizetési számláját kezelő pénzforgalmi szolgáltató által kiállított igazolást
-
-másolati vagy elektronikus formában ellenőrzés céljából írásban, az ellenőrzés céljának megjelölésével bekérheti.
+(3) A munkáltató a projektértékelői pályázati eljárás keretében a pályázó későbbi állami projektértékelői jogviszonya létesítéséhez és az alkalmazási feltételeknek való megfelelés utólagos ellenőrzéséhez – a Kormány rendeletében – előírt iskolai végzettséget igazoló oklevelének, bizonyítványának, illetve a szakmai tapasztalat igazolásának másolati vagy elektronikus példányát bekéri és kezeli.
 
 (4) Az értékelő köteles öt napon belül bejelenteni a nyilvántartott adataiban bekövetkezett változást.
 

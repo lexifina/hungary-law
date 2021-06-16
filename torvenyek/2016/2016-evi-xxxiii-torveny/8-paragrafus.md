@@ -1,6 +1,6 @@
 ## 5. A feladatellátással kapcsolatos szabályok
 
-8. § (1) Az értékelő feladatellátását a miniszter írásban, elektronikus úton – a konkrét munkavégzés megkezdése előtt legalább három nappal – esetileg rendeli el.
+8. § (1) Az értékelő feladatellátását a miniszter írásban, elektronikus úton – a konkrét munkavégzés megkezdése előtt – esetileg rendeli el.
 
 (2) Az értékelő feladatellátása nem érinti az alapjogviszonya szerinti munkavégzését.
 

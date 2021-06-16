@@ -47,3 +47,5 @@ f) az állami projektértékelői jogviszony létesítéséhez szükséges nyila
 g) a projektértékelői azonosítót (a minisztérium által működtetett informatikai rendszer által generált adat).
 
 h) a pályázó nyilatkozatát arról, hogy Ügyfélkapu regisztrációval vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatáshoz való hozzáféréssel rendelkezik-e.
+
+i) annak megjelölését, hogy a pályázat tartalmi értékelésre vagy közbeszerzési értékelésre irányul.
