@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-51-20-2
 | 2020-11-25 | 2016-51-20-22.7 | 179/2016. (VII. 1.) Korm. rendelet |
 | 2020-12-24 | 2016-51-20-22.8 | 652/2020. (XII. 23.) Korm. rendelet |
 | 2021-05-05 | 2016-51-20-22.9 | 225/2021. (V. 4.) Korm. rendelet |
+| 2021-06-16 | 2016-51-20-22.10 | 179/2016. (VII. 1.) Korm. rendelet |

@@ -36,4 +36,6 @@ Kijelölt építési beruházások
 
 | 15. | Nemzeti Oltóanyaggyár és Nemzeti Koronavírus Oltóanyaggyár az ingatlan-nyilvántartás szerint Debrecen 0204/37 helyrajzi számú ingatlanon |
 
-[^10]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a, a 225/2021. (V. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
+| 16. | Az iváncsai ipari-innovációs fejlesztési terület kialakításával összefüggő infrastruktúra-fejlesztések megvalósítása |
+
+[^10]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a, a 225/2021. (V. 4.) Korm. rendelet 5. §-a, a 341/2021. (VI. 15.) Korm. rendelet 1. §-a szerint módosított szöveg.
