@@ -1,4 +1,4 @@
-2. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^6]
+2. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^8]
 
 Nemzetgazdasági szempontból kiemelt jelentőségű beruházások, valamint a kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottak
 
@@ -12,4 +12,6 @@ Nemzetgazdasági szempontból kiemelt jelentőségű beruházások, valamint a k
 
 | 4 | Szikszó közigazgatási területén megvalósuló fejlesztéshez szükséges víziközmű-beruházások | Arnót Felsőzsolca Onga Szikszó | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^6]: A 2. melléklet a 397/2020. (VIII. 12.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+| 5. | Iváncsa és térsége fejlesztéséhez szükséges víziközmű-beruházások | Iváncsa Ercsi Adony Pusztaszabolcs | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
+
+[^8]: A 2. melléklet a 397/2020. (VIII. 12.) Korm. rendelet 1. § b) pontja, a 341/2021. (VI. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
