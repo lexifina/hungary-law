@@ -1,4 +1,4 @@
-## 17. §[^36] E rendeletnek az emberi erőforrások minisztere által adományozható elismerésekről szóló 26/2016. (IX. 8.) EMMI rendelet módosításáról szóló 38/2020. (X. 30.) EMMI rendelettel (a továbbiakban: Mód. r.) megállapított rendelkezéseit a Mód. r. hatálybalépésekor[^37] folyamatban lévő eljárásokban is alkalmazni kell.
+## 17. §[^39] E rendeletnek az emberi erőforrások minisztere által adományozható elismerésekről szóló 26/2016. (IX. 8.) EMMI rendelet módosításáról szóló 38/2020. (X. 30.) EMMI rendelettel (a továbbiakban: Mód. r.) megállapított rendelkezéseit a Mód. r. hatálybalépésekor[^40] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 26/2016. (IX. 8.) EMMI rendelethez
 
@@ -28,7 +28,7 @@ EGÉSZSÉGÜGYI ÁGAZAT
 
 2.2. A díj azon önkormányzati, egyházi és civil szervezeteknek, egészségügyi intézményeknek és gazdálkodó szervezeteknek is adományozható, amelyek az egészség megőrzése, a betegségek megelőzése és a gyógyítás terén kivételesen magas színvonalú, példaértékű eredményt értek el.
 
-2.3.[^38] A díj átadására minden évben Semmelweis Ignác születése napja (július 1.) alkalmából kerül sor.
+2.3.[^41] A díj átadására minden évben Semmelweis Ignác születése napja (július 1.) alkalmából kerül sor.
 
 2.4. A díjból évente legfeljebb öt adományozható.
 
@@ -40,7 +40,7 @@ EGÉSZSÉGÜGYI ÁGAZAT
 
 3.1. A díj annak adományozható, aki szakmai vagy közszolgálati munkájával a betegellátás során vagy a tudományos kutatás során hozzájárult az egészségügyi ellátás fejlesztéséhez, e tevékenysége során elért kimagasló teljesítménye elismeréseként.
 
-3.2.[^39] A díj átadására minden évben Semmelweis Ignác születése napja (július 1.) alkalmából kerül sor.
+3.2.[^42] A díj átadására minden évben Semmelweis Ignác születése napja (július 1.) alkalmából kerül sor.
 
 3.3. A díjból évente legfeljebb harminc adományozható.
 
@@ -52,7 +52,7 @@ EGÉSZSÉGÜGYI ÁGAZAT
 
 4.1. A díj az egészségügyi ellátás érdekében kifejtett kiemelkedő szakmai vagy közszolgálati tevékenységért adományozható.
 
-4.2.[^40] A díj átadására minden évben Batthyány-Strattmann László születése napja (október 28.) alkalmából kerül sor.
+4.2.[^43] A díj átadására minden évben Batthyány-Strattmann László születése napja (október 28.) alkalmából kerül sor.
 
 4.3. A díjból évente legfeljebb ötven adományozható.
 
@@ -70,9 +70,9 @@ b) az élő önkéntes szerv- vagy szövetdonornak,
 
 c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
-5.2.[^41] Az 5.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
+5.2.[^44] Az 5.1. pont a) alpontja alapján a díj adományozását a Magyar Vöröskereszt és az Országos Vérellátó Szolgálat kezdeményezi.
 
-5.3.[^42] A díj átadására minden évben Batthyány-Strattmann László születése napja (október 28.) alkalmából kerül sor.
+5.3.[^45] A díj átadására minden évben Batthyány-Strattmann László születése napja (október 28.) alkalmából kerül sor.
 
 5.4. A díjazott az adományozást igazoló oklevelet kap.
 
@@ -82,7 +82,7 @@ c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
 6.2. A díj természetes személyeknek adományozható.
 
-6.3.[^43] A díj átadására minden évben Batthyány-Strattmann László születése napja (október 28.) alkalmából kerül sor.
+6.3.[^46] A díj átadására minden évben Batthyány-Strattmann László születése napja (október 28.) alkalmából kerül sor.
 
 6.4. A díjból évente legfeljebb egy adományozható.
 
@@ -90,7 +90,7 @@ c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
 6.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom összege az illetményalap tizenkétszeresének megfelelő összeg.
 
-6/A.[^44] Elige Vitam díj
+6/A.[^47] Elige Vitam díj
 
 6/A. 1. A díj a kábítószer elleni küzdelem területén végzett kiemelkedő tevékenység elismerésére adományozható.
 
@@ -102,7 +102,7 @@ c) annak, aki az élet mentésében kiemelkedő tevékenységet fejtett ki.
 
 6/A. 5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-II. FEJEZET[^45]
+II. FEJEZET[^48]
 
 ## KULTURÁLIS ÁGAZAT
 
@@ -120,7 +120,7 @@ II. FEJEZET[^45]
 
 7.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
-7/A.[^46] Sára Sándor-díj
+7/A.[^49] Sára Sándor-díj
 
 7/A. 1. A díj azon 40 év alatti rendezőknek, operatőröknek, illetve forgatókönyvíróknak adományozható, akik a nemzeti identitás erősödését elősegítő kiemelkedő teljesítményt mutattak fel.
 
@@ -154,7 +154,7 @@ II. FEJEZET[^45]
 
 9.2. A díj átadására március 15-e alkalmából kerül sor.
 
-9.3.[^47] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páratlan naptári évben kerül sor.
+9.3.[^50] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páratlan naptári évben kerül sor.
 
 9.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
@@ -194,9 +194,9 @@ II. FEJEZET[^45]
 
 12.1. A díj 35. év alatti, elsősorban első kötetes alkotóknak adományozható, akik a névadó szellemiségéhez méltó, jelentős irodalmi alkotást hoztak létre.
 
-12.2.[^48] A díj átadására március 15-e alkalmából kerül sor.
+12.2.[^51] A díj átadására március 15-e alkalmából kerül sor.
 
-12.3.[^49] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
+12.3.[^52] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
 
 12.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
@@ -224,7 +224,7 @@ II. FEJEZET[^45]
 
 14.2. A díj átadására március 15-e alkalmából kerül sor.
 
-14.3.[^50] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
+14.3.[^53] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
 
 14.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
@@ -260,7 +260,7 @@ II. FEJEZET[^45]
 
 16.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
-16/A.[^51] Herczeg Ferenc-díj
+16/A.[^54] Herczeg Ferenc-díj
 
 16/A. 1. A díj Herczeg Ferenc szellemi és irodalmi örökségét méltóképpen képviselő kiemelkedő fikciós vagy dokumentarista jellegű történeti irodalmi – történetírói, történelmi regény vagy történelmi dráma írói – teljesítmény elismerésére adományozható.
 
@@ -288,7 +288,7 @@ II. FEJEZET[^45]
 
 17.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
-17/A.[^52] Máté Péter-díj
+17/A.[^55] Máté Péter-díj
 
 17/A. 1. A díj kiemelkedő könnyűzenei, dzsesszzenei előadó-művészeti tevékenység elismerésére adományozható természetes személyek és előadóművész-csoportok részére.
 
@@ -298,7 +298,7 @@ II. FEJEZET[^45]
 
 17/A. 4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
-17/A. 5.[^53] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Tóth Dávid Tamás szobrászművész alkotása, első oldalán középen Máté Péter domború arcképét ábrázolja, és azon „MÁTÉ PÉTER-DÍJ” felirat található.
+17/A. 5.[^56] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Tóth Dávid Tamás szobrászművész alkotása, első oldalán középen Máté Péter domború arcképét ábrázolja, és azon „MÁTÉ PÉTER-DÍJ” felirat található.
 
 17/A. 6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
@@ -306,9 +306,9 @@ II. FEJEZET[^45]
 
 18.1. A díj írói életmű vagy a díj adományozását megelőző öt évben megjelentetett kimagasló értékű prózakötet, valamint magyar író külföldi elismerést szerzett munkássága elismerésére adományozható.
 
-18.2.[^54] A díj átadására március 15-e alkalmából kerül sor.
+18.2.[^57] A díj átadására március 15-e alkalmából kerül sor.
 
-18.3.[^55] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páratlan naptári évben kerül sor.
+18.3.[^58] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páratlan naptári évben kerül sor.
 
 18.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
@@ -320,7 +320,7 @@ II. FEJEZET[^45]
 
 19.1. A díj a népművészeti mozgalom szervezése területén végzett munkásság elismerésére adományozható, vagy azok számára adományozható, akik munkásságuk során kimagasló eredményeket értek el a népművészet – a tárgyalkotó népi kézművesség, vagy a néptánc, a népzene, a népdal, a népmese, a hagyományőrzés – területén, illetve akik a népművészethez kötődően kiemelkedő művészetelméleti szakírói tevékenységet folytatnak.
 
-19.2.[^56] A díj átadására augusztus 20-a alkalmából kerül sor.
+19.2.[^59] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 19.3. A díjból évente legfeljebb négy adományozható.
 
@@ -328,7 +328,7 @@ II. FEJEZET[^45]
 
 19.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Mihály Gábor szobrászművész alkotása, egyoldalas, Martin György domború arcképét ábrázolja, és azon „MARTIN GYÖRGY-DÍJ” felirat található.
 
-19.6.[^57] A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
+19.6.[^60] A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap harmincszorosának megfelelő összeg.
 
 20. Munkácsy Mihály-díj
 
@@ -350,7 +350,7 @@ II. FEJEZET[^45]
 
 21.2. A díj átadására március 15-e alkalmából kerül sor.
 
-21.3.[^58] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
+21.3.[^61] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
 
 21.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
@@ -364,7 +364,7 @@ II. FEJEZET[^45]
 
 22.2. A díj átadására március 15-e alkalmából kerül sor.
 
-22.3.[^59] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
+22.3.[^62] A díjból kétévente legfeljebb egy adományozható. A díj adományozására minden páros naptári évben kerül sor.
 
 22.4. A díj adományozására javaslatot tevő bizottság tagjait a miniszter – az érintett szakmai szervezetek javaslatait mérlegelve – négy évre kéri fel.
 
@@ -402,9 +402,9 @@ II. FEJEZET[^45]
 
 25. Bánffy Miklós-díj
 
-25.1.[^60] A díj a kultúra érdekében művészeti vagy kulturális intézményben, illetve szervezetnél hosszabb időn át – legalább 15 éven keresztül – végzett kiemelkedő tevékenység elismerésére, valamint művészetelméleti oktatói és szerkesztő tevékenységért adományozható.
+25.1.[^63] A díj a kultúra érdekében művészeti vagy kulturális intézményben, illetve szervezetnél hosszabb időn át – legalább 15 éven keresztül – végzett kiemelkedő tevékenység elismerésére, valamint művészetelméleti oktatói és szerkesztő tevékenységért adományozható.
 
-25.2.[^61] A díj átadására augusztus 20-a alkalmából kerül sor.
+25.2.[^64] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 25.3. A díjból évente legfeljebb három adományozható.
 
@@ -414,7 +414,7 @@ II. FEJEZET[^45]
 
 25.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hússzorosának megfelelő összeg.
 
-25/A.[^62] Bessenyei György-díj
+25/A.[^65] Bessenyei György-díj
 
 25/A. 1. A díj a kultúra érdekében a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény szerinti közművelődési intézményekben vagy közösségi színterekben végzett kiemelkedő tevékenységet végző közművelődési szakembereknek adományozható, akik elméleti tevékenységükkel, új módszerek kidolgozásával, azok alkalmazásával és terjesztésével a korszerű művelődést és a művészi ízlés fejlesztését szolgálták.
 
@@ -438,7 +438,7 @@ b) amatőr alkotó- és előadó-művészeti csoportok
 
 részére adományozható.
 
-26.2.[^63] A díj átadására augusztus 20-a alkalmából kerül sor.
+26.2.[^66] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 26.3. A díjból évente legfeljebb három, ezen belül
 
@@ -518,7 +518,7 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 30.4. A cím viselésének ideje alatt a zenekar működését a minisztérium külön szerződés szerint támogatja.
 
-30/A.[^64] A Magyar Klasszikus Zene Ifjú Nagykövete cím
+30/A.[^67] A Magyar Klasszikus Zene Ifjú Nagykövete cím
 
 30/A. 1. A cím a magyar klasszikus zene megismertetését és terjesztését szolgáló kimagasló zeneművészeti teljesítmény elismeréseként, húsz évnél fiatalabb természetes személyek részére adományozható.
 
@@ -538,21 +538,21 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 31.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 7 mm. Az érem Kiss Nagy András szobrászművész alkotása, első oldala a pannon tájat, a magvető ember alakját a zeniten álló nappal ábrázolja. Az emlékérem hátoldalát a koszorúba foglalt „PRO CULTURA HUNGARICA” felirat díszíti.
 
-31.5.[^65]
+31.5.[^68]
 
-31/A.[^66] Művészeti életpálya elismerés
+31/A.[^69] Művészeti életpálya elismerés
 
 31/A. 1. A díj a kulturális ágazatban jelentős művészi életpályával rendelkező művészek elismerésére adományozható.
 
-31/A. 2.[^67] A díjban nem részesülhet az, aki a Nemzet Színésze, a Magyar Mozgókép Mestere, a Nemzet Művésze, a Magyar Állami Operaház Mesterművésze cím alapján folyósított havi juttatásban vagy a Magyar Művészeti Akadémia rendes vagy levelező tagjait megillető életjáradékban, továbbá a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény szerinti művészjáradékban részesül.
+31/A. 2.[^70] A díjban nem részesülhet az, aki a Nemzet Színésze, a Magyar Mozgókép Mestere, a Nemzet Művésze, a Magyar Állami Operaház Mesterművésze cím alapján folyósított havi juttatásban vagy a Magyar Művészeti Akadémia rendes vagy levelező tagjait megillető életjáradékban, továbbá a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény szerinti művészjáradékban részesül.
 
 31/A. 3. A díj egy országos szakmai szervezet ajánlásával kezdeményezhető.
 
 31/A. 4. A 4. § (1) bekezdésében foglaltaktól eltérően a díj saját maga vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozó számára is kezdeményezhető.
 
-31/A. 5.[^68] A díj átadására az adományozó döntése alapján évente legfeljebb két alkalommal kerül sor.
+31/A. 5.[^71] A díj átadására az adományozó döntése alapján évente legfeljebb két alkalommal kerül sor.
 
-31/A. 6.[^69]
+31/A. 6.[^72]
 
 31/A. 7. A díjra és az azzal járó járadékra egyidejűleg legfeljebb száztíz fő jogosult.
 
@@ -564,23 +564,23 @@ d) a muzeális intézmények társadalmi beágyazottsága és társadalmi haszno
 
 31/A. 11. A díj posztumusz is adományozható, amely esetben a díj és a díjjal járó járadék átvételére az elhunyt díjazott házastársa, annak hiányában a miniszter döntése szerinti leszármazója jogosult.
 
-III. FEJEZET[^70]
+III. FEJEZET[^73]
 
 ## KÖZNEVELÉSI ÁGAZAT
 
-32.[^71] Eötvös József-díj (köznevelési tagozat)
+32.[^74] Eötvös József-díj (köznevelési tagozat)
 
-32.1.[^72] A díj azoknak a kiemelkedő munkát végző pedagógusoknak adományozható, akik oktató-nevelő munkájuk során, életpályájukkal kifejezték elkötelezettségüket a pedagógus élethivatás mellett.
+32.1.[^75] A díj azoknak a kiemelkedő munkát végző pedagógusoknak adományozható, akik oktató-nevelő munkájuk során, életpályájukkal kifejezték elkötelezettségüket a pedagógus élethivatás mellett.
 
 32.2. A díj átadására a Pedagógus Nap (június első vasárnapja) alkalmából kerül sor.
 
-32.3.[^73] A díjból évente legfeljebb hat adományozható.
+32.3.[^76] A díjból évente legfeljebb hat adományozható.
 
 32.4. A díjazott kisplasztikát és az adományozást igazoló oklevelet kap. A kisplasztika bronzból készült, magassága 200 mm. A kisplasztika Kutas László szobrászművész alkotása. A kisplasztika Eötvös József álló alakját ábrázolja.
 
 32.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenhatszorosának megfelelő összeg.
 
-33.[^74] Apáczai Csere János-díj (köznevelési tagozat)
+33.[^77] Apáczai Csere János-díj (köznevelési tagozat)
 
 33.1. A díj kiemelkedő hatású oktatási-nevelési, gyógypedagógiai, valamint idegen nyelvi oktatás területén nyújtott kiemelkedő munkáért adományozható.
 
@@ -604,7 +604,7 @@ III. FEJEZET[^70]
 
 34.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-35.[^75] Trefort Ágoston-díj (köznevelési tagozat)
+35.[^78] Trefort Ágoston-díj (köznevelési tagozat)
 
 35.1. A díj azoknak az állami és egyházi fenntartású intézményben dolgozóknak adományozható, akik az oktatás érdekében hosszabb időn át kiemelkedő munkát végeznek.
 
@@ -616,13 +616,13 @@ III. FEJEZET[^70]
 
 35.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
 
-36.[^76]
+36.[^79]
 
 37. Pedagógus Szolgálati Emlékérem
 
-37.1.[^77] A díj azoknak a nyugállományba vonuló, köznevelési intézményben dolgozó pedagógusoknak adományozható, akik legalább 25 éven keresztül a gyermekek, tanulók oktatása-nevelése érdekében tevékenykedtek, és kiemelkedő munkát végeztek.
+37.1.[^80] A díj azoknak a nyugállományba vonuló, köznevelési intézményben dolgozó pedagógusoknak adományozható, akik legalább 25 éven keresztül a gyermekek, tanulók oktatása-nevelése érdekében tevékenykedtek, és kiemelkedő munkát végeztek.
 
-37.2.[^78] A díj átadására az év során folyamatosan sor kerülhet.
+37.2.[^81] A díj átadására az év során folyamatosan sor kerülhet.
 
 37.3. A díj évente korlátlan számban adományozható.
 
@@ -630,17 +630,17 @@ III. FEJEZET[^70]
 
 38. Brunszvik Teréz-díj
 
-38.1. A díj kiemelkedő óvodapedagógiai munkáért és az óvodapedagógus képzésben kiemelkedő munkát végző oktatók elismerésére, továbbá a bölcsődei ellátás területén kifejtett példaértékű, magas színvonalon végzett szakmai munkáért, a szakma fejlesztéséért, a családok és a gyermekek jólétének növelése érdekében tett közszolgálati tevékenység elismeréseként adományozható.
+38.1.[^82] A díj kiemelkedő óvodapedagógiai munkáért és az óvodapedagógus képzésben kiemelkedő munkát végző oktatók elismerésére, a szakma fejlesztéséért, a családok és a gyermekek jólétének növelése érdekében tett közszolgálati tevékenység elismeréseként adományozható.
 
-38.2.[^79] A díj átadására a Pedagógus Nap (június első vasárnapja) vagy a bölcsődei ellátás területén végzett szakmai munkáért járó elismerés tekintetében a Család Nemzetközi Napja (május 15.) alkalmából kerül sor.
+38.2.[^83] A díj átadására a Pedagógus Nap (június első vasárnapja) alkalmából kerül sor.
 
-38.3. A díjból évente legfeljebb huszonöt adományozható azzal, hogy öt díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+38.3.[^84] A díjból évente legfeljebb húsz adományozható.
 
 38.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80, vastagsága 8 mm. Az emlékérem Lebó Ferenc szobrászművész alkotása, egyoldalas, Brunszvik Teréz domború arcképét ábrázolja, és azon „BRUNSZVIK TERÉZ-DÍJ” felirat található.
 
 38.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-39.[^80]
+39.[^85]
 
 IV. FEJEZET
 
@@ -708,13 +708,13 @@ IV. FEJEZET
 
 V. FEJEZET
 
-## SZOCIÁLIS ÉS CSALÁDÜGYI ÁGAZAT
+## SZOCIÁLIS ÁGAZAT[^86]
 
 45. Pro Caritate díj
 
-45.1.[^81] A díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a szociális szakmák területén végzett kiemelkedő tevékenység elismerésére, a gyermekvédelem, a fogyatékossággal élő és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben végzett, továbbá a miniszter feladatkörébe tartozóan az esélyteremtés előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenység, valamint a nyugdíjbiztosítás terén a nyugdíjasokért végzett munkáért adományozható.
+45.1.[^87] A díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a szociális szakmák területén végzett kiemelkedő tevékenység elismerésére, a gyermekvédelem, a fogyatékossággal élő és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben végzett, továbbá a miniszter feladatkörébe tartozóan az esélyteremtés előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenységért adományozható.
 
-45.2.[^82] A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
+45.2.[^88] A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
 
 45.3. A díjból évente legfeljebb tizenöt adományozható.
 
@@ -722,57 +722,35 @@ V. FEJEZET
 
 45.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizennégyszeresének megfelelő összeg.
 
-46.[^83]
+46.[^89]
 
 47. Idősekért díj
 
-47.1.[^84] A díj az idősek emberi méltósága, anyagi, fizikai, lelki egészsége, jóléte, az időskori aktivitás megőrzése érdekében kifejtett munka, valamint az idősgondozás területén az ápolásra szoruló idősek életminőségének, méltóságának, tartalmas mindennapjainak érdekében végzett kiemelkedő tevékenység elismerésére adományozható.
+47.1.[^90] A díj az idősek emberi méltósága, anyagi, fizikai, lelki egészsége, jóléte, az időskori aktivitás megőrzése érdekében kifejtett munka, valamint az idősgondozás területén az ápolásra szoruló idősek életminőségének, méltóságának, tartalmas mindennapjainak érdekében végzett kiemelkedő tevékenység elismerésére adományozható.
 
-47.2.[^85] A díj átadására a Szociális Munka Napja (november 12.) vagy a Család Nemzetközi Napja (május 15.) alkalmából kerül sor.
+47.2.[^91] A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
 
-47.3. A díjból évente legfeljebb hat adományozható azzal, hogy három díjazott a szociális ügyek és társadalmi felzárkózás területéről, három díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+47.3.[^92] A díjból évente legfeljebb három adományozható.
 
 47.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 126 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, nagylombú fát körbetáncoló fiatalokat ábrázol, és azon az „IDŐSEKÉRT DÍJ” félkörívű felirat található.
 
 47.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-48.[^86] Családokért díj
-
-48.1. A díj a családalapítás és a gyermeknevelés támogatása, a családok jólétének növelése érdekében, továbbá a családvédelem területén kifejtett kiemelkedő szakmai vagy közszolgálati tevékenység elismerésére adományozható.
-
-48.2. A díj átadására a Család Nemzetközi Napja (május 15.) alkalmából kerül sor.
-
-48.3. A díjból évente legfeljebb tíz adományozható.
-
-48.4. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 102 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, fiatal háromtagú családot ábrázol egészalakos figurákkal, a köriratban a CSALÁDOKÉRT felirat található.
-
-48.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tizenkétszeresének megfelelő összeg.
+48.[^93]
 
 49. Szent Kristóf a Gyermekekért díj
 
 49.1. A díj a gyermekvédelem, gyermek- és ifjúságügy területén végzett kiemelkedő szakmai tevékenység elismerésére adományozható.
 
-49.2.[^87] A díj átadására a Szociális Munka Napja (november 12.) vagy a Család Nemzetközi Napja (május 15.) alkalmából kerül sor.
+49.2.[^94] A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
 
-49.3.[^88] A díjból évente legfeljebb hat adományozható. Három díjazott a család- és ifjúságügy területéről, három díjazott a szociális ügyek és társadalmi felzárkózás területéről kerül kiválasztásra.
+49.3.[^95] A díjból évente legfeljebb három adományozható.
 
 49.4. A díjazott az adományozást igazoló oklevelet és plakettet kap. A kisplasztika 33 cm magas, gyermeket a vállán hordozó Szent Kristóf bronzszobor, Kampfl József szobrászművész alkotása. A szobor talapzatán „SZENT KRISTÓF A GYERMEKEKÉRT DÍJ” (Kampfl J. és az adományozás évszáma) felirat található.
 
 49.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-50. Pro Voluntarius díj
-
-50.1. A díj az önkéntesség, a közjó ellátása, valamint a fiatal generációk önkéntességre nevelésében végzett kiemelkedő szakmai teljesítmény, tevékenység elismerésére, valamint azok számára adományozható, akik közösségszervező munkájukkal kiemelkedőt alkottak, munkájukkal a civil szervezetek, az adományozás kultúrájának fejlődését elősegítették vagy más módon támogatták.
-
-50.2. A díj természetes személyeknek, önkormányzati, egyházi vagy civil szervezeteknek, közintézményeknek adományozható.
-
-50.3.[^89] A díj átadására a Szociális Munka Napja (november 12.) vagy a Család Nemzetközi Napja (május 15.) alkalmából kerül sor.
-
-50.4.[^90] A díjból évente legfeljebb hat adományozható természetes személyek, illetve szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, négy díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
-
-50.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 110 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, rajta „PRO VOLUNTARIUS DÍJ” félkörívű felirat található.
-
-50.6. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
+50.[^96]
 
 51. Esélyteremtésért díj
 
@@ -780,9 +758,9 @@ V. FEJEZET
 
 51.2. A díj természetes személyeknek, önkormányzati, egyházi vagy civil szervezeteknek, közintézményeknek adományozható.
 
-51.3.[^91] A díj átadására a Szociális Munka Napja (november 12.) vagy a Család Nemzetközi Napja (május 15.) alkalmából kerül sor.
+51.3.[^97] A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
 
-51.4.[^92] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére azzal, hogy két díjazott a szociális ügyek és társadalmi felzárkózás területéről, két díjazott a család- és ifjúságügy területéről kerül kiválasztásra.
+51.4.[^98] A díjból évente legfeljebb négy adományozható természetes személyek, szervezetek, intézmények részére.
 
 51.5. A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 95 mm. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, rajta „ESÉLYTEREMTÉSÉRT DÍJ” félkörívű felirat található.
 
@@ -792,7 +770,7 @@ V. FEJEZET
 
 52.1. A díj a szociális szakmák területén végzett kiemelkedő tevékenység elismerésére adományozható.
 
-52.2.[^93] A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
+52.2.[^99] A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
 
 52.3. A díjból évente legfeljebb tíz adományozható.
 
@@ -800,33 +778,25 @@ V. FEJEZET
 
 52.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
 
-53. Magyar Fiatalokért díj
+53.[^100]
 
-53.1. A díj az ifjúságügy területén végzett kiemelkedő szakmai teljesítmény vagy elért kimagasló eredmény elismerésére adományozható.
+53/A.[^101] Szent Anna a Nevelőszülőkért díj
 
-53.2.[^94] A díj átadására a Család Nemzetközi Napja (május 15.) alkalmából kerül sor.
-
-53.3. A díjból évente legfeljebb kettő adományozható.
-
-53.4.[^95] A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, három részből áll, a külső bronzgyűrű átmérője 80 mm, magassága 12 mm, ezen látható a felirat: „MAGYAR FIATALOKÉRT DÍJ”. A bronzgyűrűbe egy gőzölt akácfa korong kerül belefoglalásra, jól látszó, koncentrikusan elhelyezkedő évgyűrűkkel, melynek közepén a fa erezetét egyedileg lekövető kontúrvonalú ezüstintarzia szerepel. Az emlékérem tervezői és készítői Gelley Kristóf és Mátyás Zoltán ötvösművészek.
-
-53.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap hatszorosának megfelelő összeg.
-
-53/A.[^96] Szent Anna a Nevelőszülőkért díj
-
-53/A. 1. A díj a nevelőszülői hivatást példamutatóan, kiemelkedő szakmai színvonalon végző személy elismerésére adományozható.
+53/A. 1. A díj a nevelőszülői hivatás példamutató, kiemelkedő szakmai színvonalú teljesítésének elismerésére adományozható.
 
 53/A. 2. A díj átadására a Szociális Munka Napja (november 12.) alkalmából kerül sor.
 
-53/A. 3. A díjból évente legfeljebb hat adományozható, ebből kettő olyan nevelőszülő számára, aki fogyatékossággal élő gyermeket nevel vagy fogyatékossággal élő fiatal felnőttet lát el kiemelkedő színvonalon.
+53/A. 3. A díjból évente legfeljebb hat adományozható, ebből kettő fogyatékossággal élő gyermek vagy fogyatékossággal élő fiatal felnőtt kiemelkedő színvonalon történő gondozásáért adható.
 
-53/A. 4. A díjazott kisplasztikát és az adományozást igazoló oklevelet kap. A kisplasztika a gyermeket karján tartó Szent Annát ábrázolja.
+53/A. 4. A díjazott kisplasztikát és az adományozást igazoló oklevelet kap. A kisplasztika Józsa Pál Gyula szobrászművész alkotása. A kompozíció bronzból, cizellált gesztenyebarna patinázott felületkialakítással készül, teljes magassága 33 cm. Szent Annát ábrázolja, kezében tartva Máriát, akinek az ölében ül Jézus, kezében a Világot jelképező gömbbel. A szobor hengeres, zöld márvány talapzaton áll, amelyen „Szent Anna a Nevelőszülőkért Díj” felirat található.
 
-53/A. 5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
+53/A. 5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg. A díj házaspárok közös teljesítményének elismerésére is kezdeményezhető és adományozható.
 
-53/B.[^97]
+53/A. 6. A 4. § (1) bekezdésében foglaltaktól eltérően az elismerés adományozása a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozó számára is kezdeményezhető.
 
-VI. FEJEZET[^98]
+53/B.[^102]
+
+VI. FEJEZET[^103]
 
 54.
 
@@ -842,78 +812,80 @@ VII. FEJEZET
 
 57. Közösség Szolgálatáért díj
 
-57.1.[^99] A díj annak adományozható, aki a minisztériumnál kormánytisztviselőként tartósan kiemelkedő színvonalú jogszabály-előkészítési, ágazati szakmai, funkcionális, vagy a minisztérium alapfeladatához kötődő egyéb érdemi tevékenységet végez, és munkája, közszolgálati pályafutása mások számára példaértékű.
+57.1.[^104] A díj annak adományozható, aki a minisztériumnál kormánytisztviselőként tartósan kiemelkedő színvonalú jogszabály-előkészítési, ágazati szakmai, funkcionális, vagy a minisztérium alapfeladatához kötődő egyéb érdemi tevékenységet végez, és munkája, közszolgálati pályafutása mások számára példaértékű.
 
 57.2. A díj évente három személy részére adományozható.
 
-57.3.[^100] A díj átadására augusztus 20-a alkalmából kerül sor.
+57.3.[^105] A díj átadására augusztus 20-a alkalmából kerül sor.
 
 57.4. A díjazott az adományozást igazoló oklevelet kap.
 
 57.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^36]: A 17. §-t újonnan a 38/2020. (X. 30.) EMMI rendelet 3. §-a iktatta be.
-[^37]: A hatálybalépés időpontja 2020. október 31.
-[^38]: Az 1. melléklet I. fejezet 2. pont 2.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^39]: Az 1. melléklet I. fejezet 3. pont 3.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^40]: Az 1. melléklet I. fejezet 4. pont 4.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^41]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^42]: Az 1. melléklet I. fejezet 5. pont 5.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^43]: Az 1. melléklet I. fejezet 6. pont 6.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^44]: Az 1. melléklet I. fejezet 6/A. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be.
-[^45]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^46]: Az 1. melléklet II. fejezet 7/A. pontot az 1/2020. (I. 6.) EMMI rendelet 3. §-a iktatta be.
-[^47]: Az 1. melléklet II. fejezet 9. pont 9.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^48]: Az 1. melléklet II. fejezet 12. pont 12.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^49]: Az 1. melléklet II. fejezet 12. pont 12.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^50]: Az 1. melléklet II. fejezet 14. pont 14.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^51]: Az 1. melléklet 16/A. pontját a 19/2019. (VIII. 14.) EMMI rendelet 4. §-a iktatta be.
-[^52]: Az 1. melléklet II. fejezet 17/A. pontját a 9/2018. (II. 15.) EMMI rendelet 4. §-a iktatta be.
-[^53]: Az 1. melléklet II. fejezet 17/A. pont 17/A.5. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^54]: Az 1. melléklet II. fejezet 18. pont 18.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^55]: Az 1. melléklet II. fejezet 18. pont 18.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^56]: Az 1. melléklet II. fejezet 19. pont 19.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^57]: Az 1. melléklet II. fejezet 19. pont 19.6. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^58]: Az 1. melléklet II. fejezet 21. pont 21.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^59]: Az 1. melléklet II. fejezet 22. pont 22.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^60]: Az 1. melléklet II. fejezet 25. pont 25.1. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^61]: Az 1. melléklet II. fejezet 25. pont 25.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^62]: Az 1. melléklet II. fejezet 25/A. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be.
-[^63]: Az 1. melléklet II. fejezet 26. pont 26.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^64]: Az 1. melléklet II. fejezet 30/A. pontját a 9/2020. (III. 12.) EMMI rendelet 2. §-a iktatta be.
-[^65]: Az 1. melléklet II. fejezet 31. pont 31.5. alpontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a hatályon kívül helyezte.
-[^66]: Az 1. melléklet II. fejezet 31/A. pontját a 30/2017. (XI. 21.) EMMI rendelet 5. §-a iktatta be.
-[^67]: Az 1. melléklet II. fejezet 31/A. pont 31/A.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^68]: Az 1. melléklet II. fejezet 31/A. pont 31/A.5. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-a szerint módosított szöveg.
-[^69]: Az 1. melléklet II. fejezet 31/A. pont 31/A.6. alpontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a hatályon kívül helyezte.
-[^70]: Az 1. melléklet III. fejezet címe a 38/2020. (X. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^71]: Az 1. melléklet III. fejezet 32. pont nyitó szövegrésze a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^72]: Az 1. melléklet III. fejezet 32. pont 32.1. alpontja a 38/2020. (X. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^73]: Az 1. melléklet III. fejezet 32. pont 32.3. alpontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^74]: Az 1. melléklet III. fejezet 33. pontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^75]: Az 1. melléklet III. fejezet 35. pontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^76]: Az 1. melléklet III. fejezet 36. pontját a 38/2020. (X. 30.) EMMI rendelet 4. §-a hatályon kívül helyezte.
-[^77]: Az 1. melléklet III. fejezet 37. pont 37.1. alpontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^78]: Az 1. melléklet III. fejezet 37. pont 37.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^79]: Az 1. melléklet III. fejezet 38. pont 38.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^80]: Az 1. melléklet III. fejezet 39. pontját a 7/2020. (II. 17.) ITM rendelet 39. § (3) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
-[^81]: Az 1. melléklet V. fejezet 45. pont 45.1. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^82]: Az 1. melléklet V. fejezet 45. pont 45.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^83]: Az 1. melléklet V. fejezet 46. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a hatályon kívül helyezte.
-[^84]: Az 1. melléklet V. fejezet 47. pont 47.1. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^85]: Az 1. melléklet V. fejezet 47. pont 47.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^86]: Az 1. melléklet V. fejezet 48. pontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^87]: Az 1. melléklet V. fejezet 49. pont 49.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^88]: Az 1. melléklet V. fejezet 49. pont 49.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^89]: Az 1. melléklet V. fejezet 50. pont 50.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^90]: Az 1. melléklet V. fejezet 50. pont 50.4. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^91]: Az 1. melléklet V. fejezet 51. pont 51.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^92]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^93]: Az 1. melléklet V. fejezet 52. pont 52.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^94]: Az 1. melléklet V. fejezet 53. pont 53.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
-[^95]: Az 1. melléklet V. fejezet 53. pont 53.4. alpontja a 30/2017. (XI. 21.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^96]: Az 1. melléklet V. fejezet 53/A. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be.
-[^97]: Az 1. melléklet V. fejezet 53/B. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be, hatályon kívül helyezte a 25/2019. (VI. 18.) BM rendelet 2. § b) pontja.
-[^98]: Az 1. melléklet VI. fejezetét (54–56/A. pont) a 6/2018. (XII. 21.) TNM rendelet 15. § d) pontja hatályon kívül helyezte.
-[^99]: Az 1. melléklet VII. fejezet 57. pont 57.1. alpontja a 18/2019. (VIII. 14.) EMMI rendelet 7. §-a szerint módosított szöveg.
-[^100]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^39]: A 17. §-t újonnan a 38/2020. (X. 30.) EMMI rendelet 3. §-a iktatta be.
+[^40]: A hatálybalépés időpontja 2020. október 31.
+[^41]: Az 1. melléklet I. fejezet 2. pont 2.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^42]: Az 1. melléklet I. fejezet 3. pont 3.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^43]: Az 1. melléklet I. fejezet 4. pont 4.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^44]: Az 1. melléklet I. fejezet 5. pont 5.2. alpontja a 3/2017. (III. 7.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^45]: Az 1. melléklet I. fejezet 5. pont 5.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^46]: Az 1. melléklet I. fejezet 6. pont 6.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^47]: Az 1. melléklet I. fejezet 6/A. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be.
+[^48]: Az 1. melléklet II. fejezete a 3/2017. (III. 7.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^49]: Az 1. melléklet II. fejezet 7/A. pontot az 1/2020. (I. 6.) EMMI rendelet 3. §-a iktatta be.
+[^50]: Az 1. melléklet II. fejezet 9. pont 9.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^51]: Az 1. melléklet II. fejezet 12. pont 12.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^52]: Az 1. melléklet II. fejezet 12. pont 12.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^53]: Az 1. melléklet II. fejezet 14. pont 14.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^54]: Az 1. melléklet 16/A. pontját a 19/2019. (VIII. 14.) EMMI rendelet 4. §-a iktatta be.
+[^55]: Az 1. melléklet II. fejezet 17/A. pontját a 9/2018. (II. 15.) EMMI rendelet 4. §-a iktatta be.
+[^56]: Az 1. melléklet II. fejezet 17/A. pont 17/A.5. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^57]: Az 1. melléklet II. fejezet 18. pont 18.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^58]: Az 1. melléklet II. fejezet 18. pont 18.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^59]: Az 1. melléklet II. fejezet 19. pont 19.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^60]: Az 1. melléklet II. fejezet 19. pont 19.6. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^61]: Az 1. melléklet II. fejezet 21. pont 21.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^62]: Az 1. melléklet II. fejezet 22. pont 22.3. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^63]: Az 1. melléklet II. fejezet 25. pont 25.1. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^64]: Az 1. melléklet II. fejezet 25. pont 25.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^65]: Az 1. melléklet II. fejezet 25/A. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be.
+[^66]: Az 1. melléklet II. fejezet 26. pont 26.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^67]: Az 1. melléklet II. fejezet 30/A. pontját a 9/2020. (III. 12.) EMMI rendelet 2. §-a iktatta be.
+[^68]: Az 1. melléklet II. fejezet 31. pont 31.5. alpontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^69]: Az 1. melléklet II. fejezet 31/A. pontját a 30/2017. (XI. 21.) EMMI rendelet 5. §-a iktatta be.
+[^70]: Az 1. melléklet II. fejezet 31/A. pont 31/A.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^71]: Az 1. melléklet II. fejezet 31/A. pont 31/A.5. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^72]: Az 1. melléklet II. fejezet 31/A. pont 31/A.6. alpontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^73]: Az 1. melléklet III. fejezet címe a 38/2020. (X. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^74]: Az 1. melléklet III. fejezet 32. pont nyitó szövegrésze a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^75]: Az 1. melléklet III. fejezet 32. pont 32.1. alpontja a 38/2020. (X. 30.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^76]: Az 1. melléklet III. fejezet 32. pont 32.3. alpontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^77]: Az 1. melléklet III. fejezet 33. pontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^78]: Az 1. melléklet III. fejezet 35. pontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^79]: Az 1. melléklet III. fejezet 36. pontját a 38/2020. (X. 30.) EMMI rendelet 4. §-a hatályon kívül helyezte.
+[^80]: Az 1. melléklet III. fejezet 37. pont 37.1. alpontja a 38/2020. (X. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^81]: Az 1. melléklet III. fejezet 37. pont 37.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^82]: Az 1. melléklet III. fejezet 38. pont 38.1. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^83]: Az 1. melléklet III. fejezet 38. pont 38.2. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^84]: Az 1. melléklet III. fejezet 38. pont 38.3. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^85]: Az 1. melléklet III. fejezet 39. pontját a 7/2020. (II. 17.) ITM rendelet 39. § (3) bekezdés c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
+[^86]: Az 1. melléklet V. fejezet címe a 23/2021. (VI. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^87]: Az 1. melléklet V. fejezet 45. pont 45.1. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított, a 23/2021. (VI. 14.) EMMI rendelet 2. §-a szerint módosított szöveg.
+[^88]: Az 1. melléklet V. fejezet 45. pont 45.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^89]: Az 1. melléklet V. fejezet 46. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a hatályon kívül helyezte.
+[^90]: Az 1. melléklet V. fejezet 47. pont 47.1. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^91]: Az 1. melléklet V. fejezet 47. pont 47.2. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^92]: Az 1. melléklet V. fejezet 47. pont 47.3. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^93]: Az 1. melléklet V. fejezet 48. pontját a 23/2021. (VI. 14.) EMMI rendelet 1. §-a hatályon kívül helyezte.
+[^94]: Az 1. melléklet V. fejezet 49. pont 49.2. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^95]: Az 1. melléklet V. fejezet 49. pont 49.3. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^96]: Az 1. melléklet V. fejezet 50. pontját a 23/2021. (VI. 14.) EMMI rendelet 1. §-a hatályon kívül helyezte.
+[^97]: Az 1. melléklet V. fejezet 51. pont 51.3. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^98]: Az 1. melléklet V. fejezet 51. pont 51.4. alpontja a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^99]: Az 1. melléklet V. fejezet 52. pont 52.2. alpontja az 1/2019. (I. 9.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^100]: Az 1. melléklet V. fejezet 53. pontját a 23/2021. (VI. 14.) EMMI rendelet 1. §-a hatályon kívül helyezte.
+[^101]: Az 1. melléklet V. fejezet 53/A. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be, szövege a 23/2021. (VI. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^102]: Az 1. melléklet V. fejezet 53/B. pontját az 1/2019. (I. 9.) EMMI rendelet 7. §-a iktatta be, hatályon kívül helyezte a 25/2019. (VI. 18.) BM rendelet 2. § b) pontja.
+[^103]: Az 1. melléklet VI. fejezetét (54–56/A. pont) a 6/2018. (XII. 21.) TNM rendelet 15. § d) pontja hatályon kívül helyezte.
+[^104]: Az 1. melléklet VII. fejezet 57. pont 57.1. alpontja a 18/2019. (VIII. 14.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^105]: Az 1. melléklet VII. fejezet 57. pont 57.3. alpontja a 10/2017. (VI. 2.) EMMI rendelet 1. §-ával megállapított szöveg.

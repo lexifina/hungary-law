@@ -116,29 +116,29 @@
 
 5. Kemény Ferenc-díj.
 
-(11)[^13] A miniszter által adományozandó díjak a szociális és családügyi ágazatban:
+(11)[^13] A miniszter által adományozandó díjak a szociális ágazatban:
 
 1. Pro Caritate díj,
 
 2. Idősekért díj,
 
-3. Családokért díj,
+3.[^14]
 
 4. Szent Kristóf a Gyermekekért díj,
 
-5. Pro Voluntarius díj,
+5.[^15]
 
 6. Esélyteremtésért díj,
 
 7. Szociális Munkáért díj,
 
-8. Magyar Fiatalokért díj,
+8.[^16]
 
 9. Szent Anna a Nevelőszülőkért díj,
 
-10.[^14]
+10.[^17]
 
-(12)[^15]
+(12)[^18]
 
 (13) A miniszter által adományozható díj a tartósan kiemelkedő színvonalú, a minisztériumban végzett közszolgálati tevékenységért:
 
@@ -154,6 +154,9 @@
 [^10]: A 2. § (7) bekezdése a 38/2020. (X. 30.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^11]: A 2. § (8) bekezdését a 38/2020. (X. 30.) EMMI rendelet 5. § a) pontja hatályon kívül helyezte.
 [^12]: A 2. § (9) bekezdését a 7/2020. (II. 17.) ITM rendelet 39. § (3) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
-[^13]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^14]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
-[^15]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^13]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított, nyitó szövegrésze a 23/2021. (VI. 14.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
+[^14]: A 2. § (11) bekezdés 3. pontját a 23/2021. (VI. 14.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
+[^15]: A 2. § (11) bekezdés 5. pontját a 23/2021. (VI. 14.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
+[^16]: A 2. § (11) bekezdés 8. pontját a 23/2021. (VI. 14.) EMMI rendelet 3. § d) pontja hatályon kívül helyezte.
+[^17]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^18]: A 2. § (12) bekezdését a 6/2018. (XII. 21.) TNM rendelet 15. § a) pontja hatályon kívül helyezte.
