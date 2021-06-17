@@ -20,7 +20,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 (6) A kézbesítési kifogásban elő kell adni azokat a tényeket, illetve körülményeket, amelyek a kézbesítés szabálytalanságát igazolják, vagy az ügyfél vagy az eljárásban részt vevő más személy részéről az önhiba hiányát valószínűsítik.
 
-(7) A kézbesítési kifogást a kézbesítés tárgyát képező iratot kiadmányozó vámszerv bírálja el.
+(7) A kézbesítési kifogást a kézbesítés tárgyát képező iratot kiadmányozó vámszerv bírálja el végzéssel 30 napon belül.
 
 (8) A kézbesítési kifogásnak az eljárás folytatására, illetve a végrehajtásra nincs halasztó hatálya. A vámhatóság a végrehajtási eljárást kérelemre vagy hivatalból a kézbesítési kifogást elbíráló döntés véglegessé válásáig felfüggesztheti, ha a kérelemben előadott tények, körülmények annak elfogadását valószínűsítik.
 

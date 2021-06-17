@@ -2,7 +2,7 @@
 
 (1) Aki a vámigazgatási eljárás során valamely határnapot, határidőt önhibáján kívül elmulasztott, igazolási kérelmet terjeszthet elő.
 
-(2) Az igazolási kérelemről a vámhatóságnak az a szerve dönt, amelynek eljárása során a mulasztás történt.
+(2) Az igazolási kérelemről a vámhatóságnak az a szerve dönt 30 napon belül végzéssel, amelynek eljárása során a mulasztás történt.
 
 (3) Az igazolási kérelmet a mulasztásról való tudomásszerzést vagy az akadály megszűnését követően, de legkésőbb az elmulasztott határnaptól vagy a határidő utolsó napjától számított, az igazolni kívánt eljárási cselekményre előírt határidővel megegyező időtartamon, de legfeljebb 45 napon belül lehet előterjeszteni.
 

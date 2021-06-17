@@ -22,6 +22,8 @@ h) az iratbetekintési jog korlátozására irányuló kérelem tárgyában hozo
 
 i) az eljárási költség megállapításával és viselésével kapcsolatos
 
+j) a kézbesítési kifogást elutasító
+
 elsőfokú végzés ellen.
 
 (3) Nincs helye fellebbezésnek, ha az elsőfokú döntést a miniszter hozta.
