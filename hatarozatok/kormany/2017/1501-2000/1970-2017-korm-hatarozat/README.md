@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1970-30
 | --- | --- | --- |
 | 2017-12-19 | 2017-1970-30-22.1 | 1970/2017. (XII. 19.) Korm. határozat |
 | 2020-12-31 | 2017-1970-30-22.2 | 2066/2020. (XII. 31.) Korm. határozat |
+| 2021-06-18 | 2017-1970-30-22.3 | 2066/2020. (XII. 31.) Korm. határozat |

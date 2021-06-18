@@ -66,10 +66,10 @@ Az Egészséges Budapest Program keretében megvalósuló járóbeteg-szakellát
 
 | 8 | A váci Jávorszky Ödön Kórház járóbeteg- szakellátásának fejlesztése | Új járóbeteg-szakrendelő tömb építése, laboratóriumi és képalkotó diagnosztika fejlesztése, orvostechnikai eszközpark modernizálása, informatikai berendezések beszerzése | – | 5 659 558 579 | 5 659 558 579 |
 
-| 9 | Dunakeszi Szakorvosi Rendelőintézet belső felújítása, korszerűsítése | Szakrendelő épület belső felújítása, pszichiátriai gondozó korszerűsítése, orvostechnikai eszközök fejlesztése, felvonók cseréje, digitális képalkotó rendszer kialakítása | 191 381 495 (Dunakeszi Önkormányzata) | 1 722 433 451 | 1 913 814 946 |
+| 9. | Dunakeszi Szakorvosi Rendelőintézet belső felújítása, korszerűsítése | Szakrendelő-épület belső felújítása, pszichiátriai gondozó korszerűsítése, orvostechnikai eszközök fejlesztése, felvonók cseréje, digitáliskép-alkotó rendszer kialakítása | 220 048 161 (Dunakeszi Város Önkormányzata) | 1 980 433 451 | 2 200 481 612 |
 
 | 10 | Általános tervezési és beruházási céltartalék |  | 685 008 413 |  |
 
-| ÖSSZESEN | 2 738 846 120 | 18 401 176 672 | 21 140 022 792 |
+| ÖSSZESEN | 2 767 512 786 | 18 659 176 672 | 21 426 689 458 |
 
-[^1]: Az 1. melléklet a 2066/2020. (XII. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet a 2066/2020. (XII. 31.) Korm. határozat 2. pontja, az 1389/2021. (VI. 18.) Korm. határozat 2. pontja szerint módosított szöveg.
