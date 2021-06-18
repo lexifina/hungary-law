@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-16-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-06-17 | 2021-16-30-41.1 | 16/2021. (VI. 16.) OGY határozat |
+| 2021-06-18 | 2021-16-30-41.2 | 2010: CXXX. törvény |
