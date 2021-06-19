@@ -1,51 +1,51 @@
-5. melléklet a 9/2015. (III. 25.) BM rendelethez
+5. melléklet a 9/2015. (III. 25.) BM rendelethez[^48]
 
-## A gazdálkodó szervezeteknél a tűzvédelem szakágazatban, illetve a tűzvédelmi szolgáltatás területén foglalkoztatottak által az e rendelet hatályba lépése előtt megszerzett, elismerhető szakmai képesítéseinek szintjei
+## A gazdálkodó szervezeteknél a katasztrófavédelem, a polgári védelem szakágazatban foglalkoztatottak által e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
 
-1. Alapszintű:
+1. Középszintű:
 
-a) tűzvédelmi előadó II. (OKJ azonosító szám: 51 8915 01) szakon, valamint az 1993 előtt az irányító szervek által szervezett, legalább egyéves levelező vagy egy hónapos bentlakásos alapfokú tűzvédelmi tanfolyamon szerzett szakképzettség, képesítés.
+1.1. polgári védelmi előadó szakképzés,
 
-2. Középszintű:
+1.2. katasztrófavédelmi előadó szakképesítés,
 
-a) tűzvédelmi előadó szakképesítés;
+1.3. PV Kiképző Központ 18 hónapos, levelező, üzemi törzsparancsnoki tanfolyami képesítés,
 
-b) a 10 hónapos képzési idejű tűzoltó tiszthelyettes-képző szak;
+1.4. PV OVKI 8 hetes nappali pv. tanfolyami képesítés,
 
-c)[^56] az 1993 előtt a minisztériumok és a fővárosi, illetve a megyei tanácsok végrehajtó bizottságai, valamint a BM TKK által szervezett kétéves levelező vagy a 2 hónapos bentlakásos tűzvédelmi előadói tanfolyam;
+1.5. PV Kiképző Központ zászlósképző tanfolyami képesítés.
 
-d) 1991 után a BM Tűzvédelmi Oktató és Kutató Intézetben szerzett középfokú tűzvédelmi előadói képesítés;
+2. Felsőszintű:
 
-e) 1993-ig a Munkavédelmi Képző és Továbbképző Intézetben és jogelődjeiben, munkavédelmi felsőfokú tanfolyamon szerzett középfokú tűzvédelmi képesítés vagy
+2.1. főiskolai szintű tűzvédelem szak tűzvédelmi szakirány,
 
-f) tűzvédelmi előadó I. szakon (OKJ azonosító szám: 53 8915 01) szerzett képesítés, illetőleg szakképzettség,
+2.2. egyetemi vagy főiskolai végzettség megszerzését követően a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett képesítés,
 
-g)[^57] BM TOP Tűzvédelmi Kiképző Intézet tűzoltó szakmunkásképző szak (10 hónapos) OKJ 93 25362 14 20 01 tűzoltó.
+2.3. polgári védelmi főelőadó szakképesítés,
 
-3. Felsőszintű:
+2.4. katasztrófavédelmi főelőadó szakképesítés,
 
-a) egyetemi vagy főiskolai végzettség megszerzését követően a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett képesítés;
+2.5. főiskolai szintű katasztrófavédelmi szak,
 
-b) tűzvédelmi főelőadó szakképesítés;
+2.6. egyetemi szintű védelmi igazgatási szak, katasztrófavédelmi szakirány,
 
-c)[^58] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+2.7. egyetemi szintű környezetmérnöki szak, katasztrófavédelmi szakirány,
 
-d) főiskolai szintű műszaki szakoktató szak, tűzvédelmi szakirány (2002. február után beiskolázottak részéről e végzettség csak abban az esetben fogadható el, ha a végzett hallgató rendelkezik a hivatásos állományra előírt, valamely – tűzoltás, műszaki mentés vezetésére jogosító – legalább középfokú szakmai képesítéssel, szakképzettséggel);
+2.8. katasztrófa- és tűzvédelmi szervező (tiszt) szakképesítés,
 
-e) katasztrófa- és tűzvédelmi szervező (tiszt) szakképesítés;
+2.9. rendészeti szervező szakképzés, katasztrófa- és polgári védelmi szervező szakképesítés (elágazás),
 
-f) rendészeti szervező szakképzés, tűzoltó szervező elágazás (elágazás);
+2.10. a hazai vagy külföldi, a munkakörnek megfelelő egyetemen, főiskolán, akadémián szerzett szakirányú végzettség,
 
-g) a hazai vagy külföldi belügyi és államilag elismert felsőoktatási intézmény szakirányú szakán okleveles tűzvédelmi mérnöki és tűzvédelmi mérnöki szakon szerzett végzettség;
+2.11. PVOI 10 hónapos felsőfokú polgári védelmi tanfolyami képesítés,
 
-h) a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett szakképesítés;
+2.12. PV OVKI, PVOI 5 hónapos nappali felsőfokú polgári védelmi tanfolyami képesítés,
 
-i) a BM Akadémia Tűzoltó Tagozatán;
+2.13. PV Kiképző Központ 4 hónapos nappali polgári védelmi tiszti átképző tanfolyami képesítés,
 
-j) a 2002. előtt tűzoltótechnikus-képző szakon, valamint a kétéves nappali vagy hároméves levelező tisztképző szakon vagy
+2.14. PVOI, PVOK, KOK 10 hónapos levelező polgári védelmi vezetői tanfolyami képesítés,
 
-k) a hároméves levelező tűzvédelmi előadói vagy a tűzvédelmi vezetői szakon, valamint a tűzvédelmi szakelőadói szakon (OKJ azonosító szám: 71 8915 01) szerzett képesítés, illetőleg szakképzettség.
+2.15. külföldi polgári védelmi törzstiszti tanfolyami képesítés,
 
-[^56]: Az 5. melléklet 2. pont c) alpontja a 46/2016. (XI. 23.) BM rendelet 12. §-ával megállapított szöveg.
-[^57]: Az 5. melléklet 2. pont g) alpontját a 46/2016. (XI. 23.) BM rendelet 12. §-a iktatta be.
-[^58]: Az 5. melléklet 3. pont c) alpontja a 46/2016. (XI. 23.) BM rendelet 12. §-ával megállapított szöveg.
+2.16. a hazai vagy külföldi belügyi és államilag elismert felsőoktatási intézményben okleveles tűzvédelmi mérnöki és tűzvédelmi szakon szerzett végzettség.
+
+[^48]: Az 5. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (5) bekezdésével megállapított szöveg.

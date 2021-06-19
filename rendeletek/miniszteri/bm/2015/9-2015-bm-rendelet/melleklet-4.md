@@ -1,261 +1,189 @@
+4. melléklet a 9/2015. (III. 25.) BM rendelethez[^47]
+
 ## A hivatásos katasztrófavédelmi szervnél rendszeresített szolgálati beosztások képesítési követelményei
 
-## I.
+1. Alapfeladatot ellátó szolgálati beosztások
 
-## 1. Az alapfeladatot ellátó beosztásnak minősülő vezetői besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
-
-|  | A | B | C | D | E |
-
-| 1 | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKMAI KÉPESÍTÉSI KÖVETELMÉNY | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
-
-| 2 | kiemelt vezetők | központi szerv vezetője | egyetemi végzettség | nem szükséges | MVK+VK+RSZV |
-
-| 3 |  | központi szerv vezetőjének helyettese | egyetemi végzettség | szakterületi felsőszintű | MVK+VK+RSZV |
-
-| 4 |  | területi szerv vezetője | egyetemi végzettség | szakterületi felsőszintű | MVK+VK+RSZV |
-
-| 5 | középvezető | szakirányító 1 | egyetemi végzettség | szakterületi felsőszintű | MVK+VK+RSZV |
-
-| 6 |  | szakirányító 2 | felsőfokú végzettség | szakterületi felsőszintű | MVK+VK+RSZV |
-
-| 7 |  | főosztályvezető 1 | felsőfokú végzettség | szakterületi felsőszintű | MVK+VK+RSZV |
-
-| 8 |  | főosztályvezető 2 | felsőfokú végzettség | szakterületi felsőszintű | MVK+VK+RSZV |
-
-| 9 | beosztott vezető | főosztályvezető-helyettes 1 | felsőfokú végzettség | szakterületi felsőszintű | VK+RSZV |
-
-| 10 |  | főosztályvezető-helyettes 2 | felsőfokú végzettség | szakterületi felsőszintű | VK+RSZV |
-
-| 11 |  | osztályvezető 1 | felsőfokú végzettség | szakterületi felsőszintű | VK+RSZV |
-
-| 12 |  | osztályvezető 2 | felsőfokú végzettség | szakterületi felsőszintű | VK+RSZV |
-
-## 2. Az alapfeladatot ellátó beosztásnak minősülő tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
-
-|  | A | B | C | D |
-
-| 1 | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKMAI KÉPESÍTÉSI KÖVETELMÉNY | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
-
-| 2 | E | felsőfokú végzettség | szakterületi felsőszintű | beosztáshoz előírt szaktanfolyam+RSZV |
-
-| 3 | D | felsőfokú végzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-| 4 | C | felsőfokú végzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-| 5 | B | felsőfokú végzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-| 6 | A | felsőfokú végzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-## Magyarázat az 1–2. táblázathoz:
-
-## Iskolai végzettség
-
-## 1. Felsőfokú végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BSc, BA).
-
-## 2. Szakirányú egyetemi végzettség: rendészeti, közigazgatási, katonai, jogi végzettséget adó egyetemi vagy mesterképzési szakon (MSc, MA) vagy e szakoknak megfeleltethető, korábban létesített szakon szerzett felsőfokú végzettség.
-
-## Szakterületi szakképesítés:
-
-## A katasztrófavédelmi, tűzoltósági, polgári védelmi, iparbiztonsági vagy ügyeleti szakterület ellátására rendszeresített szolgálati beosztásokhoz tartozó képesítési követelmény.
-
-## Beosztáshoz előírt szaktanfolyam:
-
-## A szolgálati beosztás ellátásához szükséges ismereteket adó, jogszabályban vagy főigazgatói utasításban előírt és a munkaköri leírásban rögzített rendészeti tárgyú iskolarendszeren kívüli képzés.
-
-## Rövidítések
-
-## MVK: mestervezetővé képző tanfolyam
-
-## VK: rendészeti vezetővé képző tanfolyam
-
-## RSZV: rendészeti szakvizsga
-
-## 3. Az alapfeladatot ellátó beosztásnak minősülő tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
-
-|  | A | B | C | D |
-
-| 1 | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKMAI KÉPESÍTÉSI KÖVETELMÉNY | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
-
-| 2 | D | középiskolai végzettség (érettségi) | Szakterületi középszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-| 3 | C | középiskolai végzettség (érettségi) | Szakterületi középszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-| 4 | B | középiskolai végzettség (érettségi) | Szakterületi alapszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-| 5 | A | középiskolai végzettség (érettségi vagy szakiskolai végzettség) | Szakterületi alapszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
-
-## Magyarázat a 3. táblázathoz:
-
-## Beosztáshoz előírt szaktanfolyam:
-
-## A szolgálati beosztás ellátásához szükséges ismereteket adó, jogszabályban vagy főigazgatói utasításban előírt és a munkaköri leírásban rögzített rendészeti tárgyú iskolarendszeren kívüli képzés.
-
-## II.
-
-## 1. Az alapfeladatot ellátó beosztásnak nem minősülő vezetői besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
+1.1. Az alapfeladatot ellátó szolgálati beosztásnak minősülő vezetői besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
 |  | A | B | C | D | E |
 
-| 1 | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKTERÜLETI SZAKKÉPESÍTÉS | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
+| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKMAI KÉPESÍTÉSI KÖVETELMÉNY | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-| 2 | kiemelt vezető | központi szerv vezetőjének helyettese | egyetemi végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
+| 2. | kiemelt vezetők | központi szerv vezetője | felsőfokú szakképzettség (egyetem/MA) | nem szükséges | MVK+VK+RSZV |
 
-| 3 | középvezető | szakirányító 1 | egyetemi végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
+| 3. | kiemelt vezetők | központi szerv vezetőjének helyettese | felsőfokú szakképzettség (egyetem/MA) | szakterületi felsőszintű | MVK+VK+RSZV |
 
-| 4 | szakirányító 2 | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
+| 4. | kiemelt vezetők | területi szerv vezetője | felsőfokú szakképzettség (egyetem/MA) | szakterületi felsőszintű | MVK+VK+RSZV |
 
-| 5 | főosztályvezető 1 | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
+| 5. | középvezető | szakirányító 1 | felsőfokú szakképzettség (egyetem/MA) | szakterületi felsőszintű | MVK+VK+RSZV |
 
-| 6 | főosztályvezető 2 | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
+| 6. | középvezető | szakirányító 2 | felsőfokú szakképzettség | szakterületi felsőszintű | MVK+VK+RSZV |
 
-| 7 | beosztott vezető | főosztályvezető-helyettes 1 | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
+| 7. | középvezető | főosztályvezető 1 | felsőfokú szakképzettség | szakterületi felsőszintű | MVK+VK+RSZV |
 
-| 8 | főosztályvezető-helyettes 2 | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
+| 8. | középvezető | főosztályvezető 2 | felsőfokú szakképzettség | szakterületi felsőszintű | MVK+VK+RSZV |
 
-| 9 | osztályvezető 1 | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
+| 9. | beosztott vezető | főosztályvezető-helyettes 1 | felsőfokú szakképzettség | szakterületi felsőszintű | VK+RSZV |
 
-| 10 | osztályvezető 2 | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
+| 10. | beosztott vezető | főosztályvezető-helyettes 2 | felsőfokú szakképzettség | szakterületi felsőszintű | VK+RSZV |
 
-## 2. Az alapfeladatot ellátó beosztásnak nem minősülő tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
+| 11. | beosztott vezető | osztályvezető 1 | felsőfokú szakképzettség | szakterületi felsőszintű | VK+RSZV |
 
-|  | A | B | C | D |
+| 12. | beosztott vezető | osztályvezető 2 | felsőfokú szakképzettség | szakterületi felsőszintű | VK+RSZV |
 
-| 1 | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKTERÜLETI SZAKKÉPESÍTÉS | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
-
-| 2 | E | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga RSZV |
-
-| 3 | D | felsőfokú végzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga |
-
-| 4 | C | felsőfokú végzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
-
-| 5 | B | felsőfokú végzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
-
-| 6 | A | felsőfokú végzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
-
-## Magyarázat az 1–2. táblázathoz:
-
-## Iskolai végzettség
-
-## 1. Felsőfokú végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BSc, BA).
-
-## 2. Szakirányú felsőfokú végzettség: a felsőoktatásban szerezhető képesítések jegyzékéről és az új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendeletben szereplő felsőfokú képzettségek valamelyike:
-
-## – jogi, igazgatási szakterületen,
-
-## – ügyviteli és adatvédelmi szakterületen,
-
-## – humánigazgatási (személyügy, munkaügy, szociális és társadalombiztosítási igazgatás) szakterületen,
-
-## – oktatás, képzési, nevelési szakterületen,
-
-## – informatikai fejlesztés és infrastruktúra szakterületen,
-
-## – sajtó és tájékoztatási szakterületen,
-
-## – pénzügyi, számviteli szakterületen,
-
-## – műszaki-logisztikai fejlesztési, fenntartási és ellátási szakterületen,
-
-## – egészségügyi, közegészségügyi és munkavédelmi szakterületen,
-
-## – állategészségügyi, kiképzési és gondozási szakterületen,
-
-## – belső ellenőri szakterületen,
-
-## – rendészeti, katonai szakterületen.
-
-## Szakterületi szakképzettség
-
-## Beosztásnak megfelelő szakképesítés:
-
-## Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a beosztás ellátására vonatkozó, szakterületének megfelelő közép-, felsőfokú vagy emelt szintű szakképzettség, egyéb képesítés.
-
-## Rövidítések
-
-## MVK: rendészeti mestervezetővé képző tanfolyam
-
-## VK: rendészeti vezetővé képző tanfolyam
-
-## RSZV: rendészeti szakvizsga
-
-## 3. Az alapfeladatot ellátó beosztásnak nem minősülő tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
+1.2. Az alapfeladatot ellátó szolgálati beosztásnak minősülő tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
 |  | A | B | C | D |
 
-| 1 | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKTERÜLETI SZAKKÉPESÍTÉS | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
+| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKMAI KÉPESÍTÉSI KÖVETELMÉNY | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-| 2 | D | középiskolai végzettség (érettségi) | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+| 2. | E | felsőfokú szakképzettség | szakterületi felsőszintű | beosztáshoz előírt szaktanfolyam + RSZV |
 
-| 3 | C | középiskolai végzettség (érettségi) | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+| 3. | D | felsőfokú szakképzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-| 4 | B | középiskolai végzettség (érettségi) | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+| 4. | C | felsőfokú szakképzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-## Magyarázat a 3. táblázathoz:
+| 5. | B | felsőfokú szakképzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-## Szakterületi szakképesítés
+| 6. | A | felsőfokú szakképzettség | szakterületi felsőszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-## Beosztásnak megfelelő szakképesítés:
+1.3. Az alapfeladatot ellátó beosztásnak minősülő tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
-## Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a beosztás ellátására vonatkozó, szakterületének megfelelő közép-, felsőfokú vagy emelt szintű szakképzettség, egyéb képesítés.
+|  | A | B | C | D |
 
-## III. Megfeleltetések
+| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKMAI KÉPESÍTÉSI KÖVETELMÉNY | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-## Felsőfokú rendészeti tárgyú szakképesítésnek kell tekinteni:
+| 2. | D | érettségi végzettség | Szakterületi középszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-## 1. Az 1. és 3. mellékletben felsőszintű képesítésnek elismert szakmai képesítéseket.
+| 3. | C | érettségi végzettség | Szakterületi középszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-## 2. Nem alapfeladatot ellátó beosztásnak minősülő szolgálati beosztások tekintetében gazdálkodási, műszaki, informatikai, logisztikai, pénzügyi szakterületen szakirányú felsőfokú végzettségnek kell tekinteni: Zalka Máté Műszaki Katonai Főiskolán vagy jogutódain szerzett szakirányú végzettséget.
+| 4. | B | érettségi végzettség | Szakterületi alapszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-## Középfokú rendészeti tárgyú szakképesítésnek kell tekinteni:
+| 5. | A | szakképesítés, technikumi vagy érettségi végzettség | Szakterületi alapszintű | Rendészeti alapvizsga és a beosztáshoz előírt szaktanfolyam |
 
-## Katasztrófavédelmi alapismereti tanfolyami képesítést.
+1.4. Magyarázat az 1.1–1.3. pontokhoz:
 
-4. melléklet a 9/2015. (III. 25.) BM rendelethez
+1.4.1. Iskolai végzettség
 
-## A gazdálkodó szervezeteknél a katasztrófavédelem, a polgári védelem szakágazatban foglalkoztatottak által e rendelet hatályba lépése előtt megszerzett, elismerhető szakmai képesítéseinek szintjei
+1.4.1.1. Felsőfokú végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BSc, BA).
 
-1. Középszintű:
+1.4.1.2. Szakirányú egyetemi végzettség: rendészeti, közigazgatási, katonai, jogi végzettséget adó egyetemi vagy mesterképzési szakon (MSc, MA) vagy e szakoknak megfeleltethető, korábban létesített szakon szerzett felsőfokú végzettség.
 
-a) polgári védelmi előadó szakképzés;
+1.4.2. Szakterületi szakképesítés: a katasztrófavédelmi, tűzoltósági, polgári védelmi, iparbiztonsági vagy ügyeleti szakterület ellátására rendszeresített szolgálati beosztásokhoz tartozó képesítés.
 
-b) katasztrófavédelmi előadó szakképesítés;
+1.4.3. Beosztáshoz előírt szaktanfolyam: a szolgálati beosztás ellátásához szükséges ismereteket adó, jogszabályban vagy főigazgatói utasításban előírt és a munkaköri leírásban rögzített rendészeti tárgyú iskolarendszeren kívüli képzés.
 
-c) PV Kiképző Központ 18 hónapos, levelező, üzemi törzsparancsnoki tanfolyami képesítés;
+1.4.4. Rövidítések
 
-d) PV OVKI 8 hetes nappali pv. tanfolyami képesítés;
+1.4.4.1. MVK: mestervezetővé képző tanfolyam,
 
-e) PV Kiképző Központ zászlósképző tanfolyami képesítés.
+1.4.4.2. VK: rendészeti vezetővé képző tanfolyam,
 
-2. Felsőszintű:
+1.4.4.3. RSZV: rendészeti szakvizsga.
 
-a) főiskolai szintű tűzvédelem szak tűzvédelmi szakirány;
+2. Alapfeladatot ellátó szolgálati beosztásnak nem minősülő szolgálati beosztások
 
-b) egyetemi vagy főiskolai végzettség megszerzését követően a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett képesítés;
+2.1. Az alapfeladatot ellátó szolgálati beosztásnak nem minősülő vezetői besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
-c) polgári védelmi főelőadó szakképesítés;
+|  | A | B | C | D | E |
 
-d) katasztrófavédelmi főelőadó szakképesítés;
+| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKTERÜLETI SZAKKÉPESÍTÉS | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-e) főiskolai szintű katasztrófavédelmi szak;
+| 2. | kiemelt vezető | központi szerv vezetőjének helyettese | felsőfokú szakképzettség (egyetem/MA) | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
 
-f) egyetemi szintű védelmi igazgatási szak, katasztrófavédelmi szakirány;
+| 3. | középvezető | szakirányító 1 | felsőfokú szakképzettség (egyetem/MA) | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
 
-g) egyetemi szintű környezetmérnöki szak, katasztrófavédelmi szakirány;
+| 4. | középvezető | szakirányító 2 | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
 
-h) katasztrófa- és tűzvédelmi szervező (tiszt) szakképesítés;
+| 5. | középvezető | főosztályvezető 1 | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
 
-i) rendészeti szervező szakképzés, katasztrófa- és polgári védelemi szervező szakképesítés (elágazás);
+| 6. | középvezető | főosztályvezető 2 | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga MVK+VK+RSZV |
 
-j) a hazai vagy külföldi, a munkakörnek megfelelő egyetemen, főiskolán, akadémián szerzett szakirányú végzettség;
+| 7. | beosztott vezető | főosztályvezető-helyettes 1 | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
 
-k) PVOI 10 hónapos felsőfokú polgári védelmi tanfolyami képesítés;
+| 8. | beosztott vezető | főosztályvezető-helyettes 2 | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
 
-l) PV OVKI, PVOI 5 hónapos nappali felsőfokú polgári védelmi tanfolyami képesítés;
+| 9. | beosztott vezető | osztályvezető 1 | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
 
-m) PV Kiképző Központ 4 hónapos nappali polgári védelmi tiszti átképző tanfolyami képesítés;
+| 10. | beosztott vezető | osztályvezető 2 | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga VK+RSZV |
 
-n) PVOI, PVOK, BM KOK 10 hónapos levelező polgári védelmi vezetői tanfolyami képesítés;
+2.2. Az alapfeladatot ellátó szolgálati beosztásnak nem minősülő tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
-o) külföldi polgári védelmi törzstiszti tanfolyami képesítés vagy
+|  | A | B | C | D |
 
-p) a hazai vagy külföldi belügyi és államilag elismert felsőoktatási intézményben okleveles tűzvédelmi mérnöki és tűzvédelmi szakon szerzett végzettség.
+| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKTERÜLETI SZAKKÉPESÍTÉS | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
+
+| 2. | E | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga + RSZV |
+
+| 3. | D | felsőfokú szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | Rendészeti alapvizsga |
+
+| 4. | C | felsőfokú szakképzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+
+| 5. | B | felsőfokú szakképzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+
+| 6. | A | felsőfokú szakképzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+
+2.3. Az alapfeladatot ellátó szolgálati beosztásnak nem minősülő tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
+
+|  | A | B | C | D |
+
+| 1. | BESOROLÁS | ISKOLAI VÉGZETTSÉG | SZAKTERÜLETI SZAKKÉPESÍTÉS | RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
+
+| 2. | D | érettségi végzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+
+| 3. | C | érettségi végzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+
+| 4. | B | érettségi végzettség | beosztásnak megfelelő szakképesítés | Rendészeti alapvizsga |
+
+2.4. Magyarázat 2.1–2.3. pontokhoz:
+
+2.4.1. Iskolai végzettség
+
+2.4.1.1. Felsőfokú szakképzettség végzettség: legalább főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BSc, BA).
+
+2.4.1.2. Szakirányú felsőfokú szakképzettség: a felsőoktatásban szerezhető képesítések jegyzékéről és az új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendeletben szereplő felsőfokú szakképzettségek valamelyike:
+
+2.4.1.2.1. jogi, igazgatási szakterületen,
+
+2.4.1.2.2. ügyviteli és adatvédelmi szakterületen,
+
+2.4.1.2.3. humánigazgatási (személyügy, munkaügy, szociális és társadalombiztosítási igazgatás) szakterületen,
+
+2.4.1.2.4. oktatás, képzési, nevelési szakterületen,
+
+2.4.1.2.5. informatikai fejlesztés és infrastruktúra szakterületen,
+
+2.4.1.2.6. sajtó és tájékoztatási szakterületen,
+
+2.4.1.2.7. pénzügyi, számviteli szakterületen,
+
+2.4.1.2.8. műszaki-logisztikai fejlesztési, fenntartási és ellátási szakterületen,
+
+2.4.1.2.9. egészségügyi, közegészségügyi és munkavédelmi szakterületen,
+
+2.4.1.2.10. állategészségügyi, kiképzési és gondozási szakterületen,
+
+2.4.1.2.11. belső ellenőri szakterületen,
+
+2.4.1.2.12. rendészeti, katonai szakterületen.
+
+2.4.2. Beosztásnak megfelelő szakképesítés: jogszabályban meghatározott, a szolgálati beosztás ellátására vonatkozó, szakterületnek megfelelő közép-, felsőfokú vagy emelt szintű szakképzettség, egyéb képesítés.
+
+2.4.3. Rövidítések
+
+2.4.3.1. MVK: rendészeti mestervezetővé képző tanfolyam,
+
+2.4.3.2. VK: rendészeti vezetővé képző tanfolyam,
+
+2.4.3.3. RSZV: rendészeti szakvizsga.
+
+3. Megfeleltetések
+
+3.1. Felsőfokú rendészeti tárgyú szakképesítésnek kell tekinteni az 1. és 3. mellékletben felsőszintű képesítésnek elismert szakmai képesítéseket.
+
+3.2. Nem alapfeladatot ellátó szolgálati beosztásnak minősülő szolgálati beosztások tekintetében gazdálkodási, műszaki, informatikai, logisztikai, pénzügyi szakterületen szakirányú felsőfokú végzettségnek kell tekinteni a Zalka Máté Műszaki Katonai Főiskolán vagy jogutódain szerzett szakirányú végzettséget.
+
+3.3. Középfokú rendészeti tárgyú képesítésnek felel meg a Katasztrófavédelmi alapismereti tanfolyami képesítés.
+
+[^47]: A 4. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (4) bekezdésével megállapított szöveg.

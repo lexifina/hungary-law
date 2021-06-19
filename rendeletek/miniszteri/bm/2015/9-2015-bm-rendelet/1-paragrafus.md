@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet hatálya kiterjed:
 
-a) a hivatásos katasztrófavédelmi szervek hivatásos állományának tagjaira és közalkalmazottaira;
+a)[^1] a hivatásos katasztrófavédelmi szerv hivatásos állományának tagjaira és rendvédelmi igazgatási alkalmazottaira, munkavállalóira;
 
 b) az önkormányzati és létesítményi tűzoltóságok állományának tagjaira;
 
@@ -15,3 +15,8 @@ e) a gazdálkodó tevékenységet folytató magánszemélyeknél, jogi személye
 f) a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjaira;
 
 g) a katasztrófa- és tűzvédelmi képzés szakmai felügyeletét végző személyekre.
+
+h)[^2] a hivatásos katasztrófavédelmi szerv kéményseprő-ipari tevékenységet ellátó állományára.
+
+[^1]: Az 1. § a) pontja a 14/2021. (VI. 16.) BM rendelet 16. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § h) pontját a 14/2021. (VI. 16.) BM rendelet 8. §-a iktatta be.

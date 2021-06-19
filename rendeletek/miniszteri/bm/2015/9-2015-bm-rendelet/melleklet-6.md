@@ -1,47 +1,47 @@
-6. melléklet a 9/2015. (III. 25.) BM rendelethez
+6. melléklet a 9/2015. (III. 25.) BM rendelethez[^49]
 
-## Műszaki szaktanfolyamhoz kötött gépek, gépi berendezések és gépjárművek besorolása
+## A gazdálkodó szervezeteknél a tűzvédelem szakágazatban, illetve a tűzvédelmi szolgáltatás területén foglalkoztatottak által az e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
 
-1. Tűzoltótechnika-kezelői alaptanfolyamhoz kötött gépcsaládok és géptípusok:
+1. Alapszintű: tűzvédelmi előadó II. (OKJ azonosító szám: 51 8915 01) szakon, valamint az 1993 előtt az irányító szervek által szervezett, legalább egyéves levelező vagy egy hónapos bentlakásos alapfokú tűzvédelmi tanfolyamon szerzett szakképzettség, képesítés.
 
-a) emelőkosaras tűzoltó gépjárművek;
+2. Középszintű:
 
-b) létrás tűzoltó gépjárművek;
+2.1. a tűzvédelmi előadó szakképesítés,
 
-c) légzésvédő készülék palacktöltő kompresszorok;
+2.2. a 10 hónapos képzési idejű tűzoltó tiszthelyettes-képző szak,
 
-d) áramfejlesztők (10 KVA, illetve a 10 KVA teljesítmény feletti, beépített gépek esetén);
+2.3. az 1993 előtt a minisztériumok és a fővárosi, illetve a megyei tanácsok végrehajtó bizottságai, valamint a BM TKK által szervezett kétéves levelező vagy a 2 hónapos bentlakásos tűzvédelmi előadói tanfolyam,
 
-e) tűzoltódaruk, illetve daruval felszerelt tűzoltó gépjárművek;
+2.4. 1991 után a BM Tűzvédelmi Oktató és Kutató Intézetben szerzett középfokú tűzvédelmi előadói képesítés,
 
-f) műszaki mentésre alkalmas vonócsörlők (beépített, zárt hajtáslánc kialakítású 50 KN, vagy a feletti vonóerő teljesítmény esetén);
+2.5. 1993-ig a Munkavédelmi Képző és Továbbképző Intézetben és jogelődjeiben, munkavédelmi felsőfokú tanfolyamon szerzett középfokú tűzvédelmi képesítés,
 
-g) cserefelépítmény-hordozó járművek (ha rendelkeznek tűzoltótechnika-kezelői alaptanfolyamhoz kötött géppel);
+2.6. tűzvédelmi előadó I. szakon (OKJ azonosító szám: 53 8915 01) szerzett képesítés, illetőleg szakképzettség,
 
-h) műszaki mentő gépjárművek és vegyi balesetelhárító gépjárművek (ha rendelkeznek beépített, zárt hajtásláncú előzőekben felsorolt gépcsaládok, géptípusok valamelyikével);
+2.7. BM TOP Tűzvédelmi Kiképző Intézet tűzoltó szakmunkásképző szak (10 hónapos OKJ 93 25362 14 20 01 tűzoltó).
 
-i) egyéb tűzoltó gépjárművek.
+3. Felsőszintű:
 
-2. Tűzoltótechnika-kezelői alaptanfolyamhoz nem kötött gépcsaládok és géptípusok:
+3.1. egyetemi vagy főiskolai végzettség megszerzését követően a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett képesítés,
 
-a) gépjárműfecskendők;
+3.2. tűzvédelmi főelőadó szakképesítés,
 
-b) habbal oltó gépjárművek;
+3.3. főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak,
 
-c) porral oltó gépjárművek;
+3.4. főiskolai szintű műszaki szakoktató szak, tűzvédelmi szakirány (a 2002. február 28-át követően beiskolázottak részéről e végzettség csak abban az esetben fogadható el, ha a végzett hallgató rendelkezik a hivatásos állományra előírt, valamely – tűzoltás, műszaki mentés vezetésére jogosító –, legalább középfokú szakmai képesítéssel, szakképzettséggel),
 
-d) egyéb tűzoltógépjárművek;
+3.5. katasztrófa- és tűzvédelmi szervező (tiszt) szakképesítés,
 
-e) cserefelépítmények (ha nem rendelkeznek tűzoltótechnika-kezelői alaptanfolyamhoz kötött géppel);
+3.6. rendészeti szervező szakképzés, tűzoltó szervező elágazás,
 
-f) műszaki mentések gépei és berendezései;
+3.7. a hazai vagy külföldi belügyi és államilag elismert felsőoktatási intézmény szakirányú szakán okleveles tűzvédelmi mérnöki és tűzvédelmi mérnöki szakon szerzett végzettség,
 
-g) vegyi balesetelhárítás gépei és berendezései;
+3.8. a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett szakképesítés,
 
-h) áramfejlesztők (10 KVA teljesítmény alatt);
+3.9. a BM Akadémia Tűzoltó Tagozatán szerzett képesítés,
 
-i) műszaki mentésre alkalmas vonócsörlők (beépített, illetve mobil kialakítású 50 KN alatti vonóerő teljesítmény esetén);
+3.10. a 2002. előtt tűzoltótechnikus-képző szakon, valamint a kétéves nappali vagy hároméves levelező tisztképző szakon szerzett képesítés,
 
-j) folyadékszállításra használható (szivattyúval ellátott) egyéb gépek;
+3.11. a hároméves levelező tűzvédelmi előadói vagy a tűzvédelmi vezetői szakon, valamint a tűzvédelmi szakelőadói szakon (OKJ azonosító szám: 71 8915 01) szerzett képesítés vagy szakképzettség.
 
-k) tűzoltás és műszaki mentés egyéb, az előzőekben fel nem sorolt gépei és berendezései.
+[^49]: A 6. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (6) bekezdésével megállapított szöveg.
