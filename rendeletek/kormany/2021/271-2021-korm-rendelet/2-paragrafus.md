@@ -52,11 +52,11 @@
 
 25. a köznevelési intézményekben, a szakképző intézményekben, valamint a felnőttképzésben a rendes oktatásra történő visszatérésről és az óvodákban elrendelt rendkívüli szünet megszüntetéséről szóló 177/2021. (IV. 15.) Korm. rendelet,
 
-26. a veszélyhelyzet során a vállalkozások reorganizációjáról szóló 179/2021. (IV. 16.) Korm. rendelet,
+26.[^5]
 
-27. a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény egyes rendelkezéseinek eltérő alkalmazásáról szóló 180/2021. (IV. 16.) Korm. rendelet,
+27.[^6]
 
-28. a veszélyhelyzet során a felszámolási eljárásban történő vagyonértékesítés eltérő szabályairól szóló 181/2021. (IV. 16.) Korm. rendelet,
+28.[^7]
 
 29. az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása érdekében a magyarországi székhelyű gazdasági társaságok gazdasági célú védelméhez szükséges intézkedések veszélyhelyzetben történő eltérő alkalmazásáról szóló 189/2021. (IV. 21.) Korm. rendelet,
 
@@ -75,3 +75,7 @@
 36. a védettségi igazolással való visszaélés elleni fellépésről szóló 220/2021. (V. 1.) Korm. rendelet,
 
 37. az ingatlanok árverezésére és kiürítésére a veszélyhelyzet ideje alatt alkalmazandó eltérő intézkedésekről szóló 229/2021. (V. 5.) Korm. rendelet
+
+[^5]: A 2. § 26. pontját a 345/2021. (VI. 18.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^6]: A 2. § 27. pontját a 345/2021. (VI. 18.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^7]: A 2. § 28. pontját a 345/2021. (VI. 18.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
