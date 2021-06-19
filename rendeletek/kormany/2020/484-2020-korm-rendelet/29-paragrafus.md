@@ -1,4 +1,4 @@
-## 28/G. §[^172] A védelmi intézkedések lépcsőzetes feloldásának ötödik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 264/2021. (V. 21.) Korm. rendelet (a továbbiakban: R5.) hatálybalépését[^173] megelőző napon hatályos 1. §-ra, 3–6. §-ra, 8. §-ra, 9. §-ra, 11. §-ra, 12. §-ra tekintettel az R5. hatálybalépését megelőző napon hatályos 22. § és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+## 28/H. §[^166] Az egyes veszélyhelyzeti kormányrendeleteknek a nevelési, oktatási intézményeket érintő módosításáról szóló 346/2021. (VI. 18.) Korm. rendelet (a továbbiakban: R6.) hatálybalépését[^167] megelőző napon hatályos 17. és 18. §-ra tekintettel az R6. hatálybalépését megelőző napon hatályos 22. és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
 
-[^172]: A 28/G. §-t a 264/2021. (V. 21.) Korm. rendelet 4. §-a iktatta be.
-[^173]: A hatálybalépés időpontja 2021. május 23.
+[^166]: A 28/H. §-t a 346/2021. (VI. 18.) Korm. rendelet 1. §-a iktatta be.
+[^167]: A hatálybalépés időpontja 2021. június 19.
