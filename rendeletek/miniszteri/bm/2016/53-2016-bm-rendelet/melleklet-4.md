@@ -18,7 +18,7 @@
 
 | 8. | Gépkocsivezető | Alapfokú iskolai végzettség és B vagy C kategóriás vezetői engedély és pályaalkalmassági vizsgálat I. |
 
-4. melléklet az 53/2016. (XII. 16.) BM rendelethez[^7]
+4. melléklet az 53/2016. (XII. 16.) BM rendelethez[^8]
 
 Az Iasz. 104. § (1) bekezdésében fel nem sorolt vezetői munkakörök megfeleltetése
 
@@ -34,4 +34,4 @@ Az Iasz. 104. § (1) bekezdésében fel nem sorolt vezetői munkakörök megfele
 
 | 5. | laboratóriumvezető | csoportvezető |
 
-[^7]: A 4. melléklet a 17/2018. (VI. 12.) BM rendelet 3. § c) pontjával megállapított szöveg.
+[^8]: A 4. melléklet a 17/2018. (VI. 12.) BM rendelet 3. § c) pontjával megállapított szöveg.

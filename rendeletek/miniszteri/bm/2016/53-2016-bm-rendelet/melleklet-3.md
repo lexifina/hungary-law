@@ -6,11 +6,11 @@
 
 | 2. | Technikus III. fizetési osztály | Szakirányának megfelelő felsőfokú végzettség |
 
-| 3. | Technikus IV. fizetési osztály | Szakirányának megfelelő középfokú végzettség, vagy középfokú végzettség és az Országos Képzési Jegyzék (a továbbiakban: OKJ) szerinti államilag elismert szakirányú szakképesítés |
+| 3. | Technikus IV. fizetési osztály | Szakirányának megfelelő középfokú végzettség, vagy középfokú végzettség és az államilag elismert szakirányú szakképesítés |
 
 | 4. | Szakügyintéző III. fizetési osztály | Szakirányának megfelelő felsőfokú végzettség |
 
-| 5. | Szakügyintéző IV. fizetési osztály | Szakirányának megfelelő középfokú végzettség, vagy középfokú végzettség és az OKJ szerinti államilag elismert szakirányú szakképesítés |
+| 5. | Szakügyintéző IV. fizetési osztály | Szakirányának megfelelő középfokú végzettség, vagy középfokú végzettség és az államilag elismert szakirányú szakképesítés |
 
 | 6. | Belső ellenőr III. fizetési osztály | Szakirányának megfelelő felsőfokú végzettség vagy |
 
@@ -26,7 +26,7 @@
 
 | 12. | Gazdasági ügyintéző III. fizetési osztály | Szakirányának megfelelő felsőfokú végzettség |
 
-| 13. | Gazdasági ügyintéző IV. fizetési osztály | Középiskolai végzettség és az OKJ szerinti államilag elismert szakirányú szakképesítés |
+| 13. | Gazdasági ügyintéző IV. fizetési osztály | Középiskolai végzettség és az államilag elismert szakirányú szakképesítés |
 
 | 14. | Kontroller III. fizetési osztály | Szakirányának megfelelő felsőfokú végzettség vagy |
 

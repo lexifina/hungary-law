@@ -4,7 +4,7 @@
 
 (2) Ha az Iszr. az igazságügyi szakértői névjegyzékbe való felvételhez egyetemi vagy főiskolai alapképzésben szerzett végzettségen túl szakirányú továbbképzésben szerzett szakképzettség, szakvizsga vagy egyéb szakképesítés meglétét írja elő, szakértőjelöltté kinevezhető az is, aki az Iszr.-ben az adott szakterülethez előírt egyetemi vagy főiskolai alapképzésben szerzett végzettséggel és szakképzettséggel rendelkezik és vállalja, hogy az Iszr.-ben előírt további szakirányú továbbképzésben szerzett szakképzettséget, szakvizsgát vagy egyéb szakképesítést a kinevezési (munkáltatói) jogkör gyakorlója által előírt határidőben megszerzi.
 
-(3) A technikusok esetében az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló kormányrendeletben szereplő szakképesítés vagy – ha jogszabály másként nem rendelkezik – azzal a munkakör betöltése szempontjából egyenértékű más, államilag elismert szakképesítés fogadható el.
+(3)[^2] A technikusok esetében a szakképzésről szóló törvény szerinti szakképesítés vagy – ha jogszabály másként nem rendelkezik – azzal a munkakör betöltése szempontjából egyenértékű más, államilag elismert szakképesítés fogadható el.
 
 (4) Az igazságügyi szakértői intézmény tisztviselőire és technikusaira vonatkozó képesítési követelményeket a 2. melléklet tartalmazza.
 
@@ -12,7 +12,8 @@
 
 (6) A (4) és (5) bekezdésben megjelölt igazságügyi alkalmazottak részére – ide nem értve a gazdasági vezető, a belső ellenőr és a jogtanácsos munkakört – a kinevezési (munkáltatói) jogkör gyakorlója a képesítés megszerzésére, kivételesen indokolt esetben – határidő megjelölésével, de legfeljebb 3 évre – halasztást engedélyezhet.
 
-(7)[^2] Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 104. § (1) bekezdésében fel nem sorolt vezetői munkaköröknek az Iasz. 7. melléklete szerinti fizetési fokozatokba sorolását a 4. melléklet határozza meg.
+(7)[^3] Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény (a továbbiakban: Iasz.) 104. § (1) bekezdésében fel nem sorolt vezetői munkaköröknek az Iasz. 7. melléklete szerinti fizetési fokozatokba sorolását a 4. melléklet határozza meg.
 
 [^1]: Az 1. § a 17/2018. (VI. 12.) BM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (7) bekezdése a 17/2018. (VI. 12.) BM rendelet 2. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdése a 14/2021. (VI. 16.) BM rendelet 22. §-a szerint módosított szöveg.
+[^3]: A 2. § (7) bekezdése a 17/2018. (VI. 12.) BM rendelet 2. §-ával megállapított szöveg.

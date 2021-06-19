@@ -1,6 +1,6 @@
-## 5. §[^3]
+## 5. §[^4]
 
-1. melléklet az 53/2016. (XII. 16.) BM rendelethez[^4]
+1. melléklet az 53/2016. (XII. 16.) BM rendelethez[^5]
 
 ## Az igazságügyi szakértői intézménynél az igazságügyi alkalmazottak által ellátható munkakörök megnevezése
 
@@ -152,5 +152,5 @@ VI. Fizikai dolgozói munkakör
 
 7. segédmunkás
 
-[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet a 17/2018. (VI. 12.) BM rendelet 3. § a) pontjával megállapított szöveg.
+[^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 17/2018. (VI. 12.) BM rendelet 3. § a) pontjával megállapított szöveg.

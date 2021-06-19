@@ -1,4 +1,4 @@
-1/A. melléklet az 53/2016. (XII. 16.) BM rendelethez[^5]
+1/A. melléklet az 53/2016. (XII. 16.) BM rendelethez[^6]
 
 ## Az igazságügyi alkalmazottak által ellátott azon munkakörök, amelyek esetén az Iasz. 97. § (3) bekezdés f) pontja nem mellőzhető
 
@@ -74,4 +74,4 @@ II. Szakértőjelölti munkakörök
 
 17. szakértőjelölt (egyéb természettudomány)
 
-[^5]: Az 1/A. mellékletet a 17/2018. (VI. 12.) BM rendelet 3. § b) pontja iktatta be.
+[^6]: Az 1/A. mellékletet a 17/2018. (VI. 12.) BM rendelet 3. § b) pontja iktatta be.
