@@ -12,6 +12,8 @@ e) a szociális, gyermekjóléti vagy gyermekvédelmi szolgáltatónál, intézm
 
 f) a fővárosi és megyei kormányhivataloknál, valamint a járási (fővárosi kerületi) hivataloknál
 
+g)[^1] a Nemzeti Népegészségügyi Központnál
+
 ## foglalkoztatott személy.
 
 (2) Ha a foglalkoztatott 2021. évben a SARS-CoV-2 koronavírus-világjárvány következményeinek elhárításában részt vett, a 2021. évben esedékes szabadságán felül további 10 munkanap pótszabadságra (a továbbiakban: pótszabadság) jogosult.
@@ -20,7 +22,7 @@ f) a fővárosi és megyei kormányhivataloknál, valamint a járási (főváros
 
 a) az (1) bekezdés b) pontja szerinti foglalkoztatott esetében az állományilletékes parancsnok, illetve – a hivatásos állományon kívüli állomány vonatkozásában – a rendvédelmi feladatokat ellátó szerv szervezeti egységének vezetője,
 
-b) az (1) bekezdés c), d) és f) pontja szerinti foglalkoztatott esetében a munkáltatói jogkört gyakorló személy,
+b)[^2] az (1) bekezdés c), d), f) és g) pontja szerinti foglalkoztatott esetében a munkáltatói jogkört gyakorló személy,
 
 c) az (1) bekezdés a) és e) pontja szerinti foglalkoztatott esetében a foglalkoztatott munkáltatója
 
@@ -31,3 +33,6 @@ c) az (1) bekezdés a) és e) pontja szerinti foglalkoztatott esetében a foglal
 (5) A pótszabadság pénzben nem váltható meg.
 
 (6) A pótszabadságot a foglalkoztatott többi szabadságától elkülönítetten kell nyilvántartani, és a pótszabadságra a szabadság kiadásának egyes jogviszonyokban alkalmazandó veszélyhelyzeti szabályairól szóló 149/2021. (III. 27.) Korm. rendelet nem alkalmazható.
+
+[^1]: Az 1. § (1) bekezdés g) pontját a 344/2021. (VI. 18.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. § (3) bekezdés b) pontja a 344/2021. (VI. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
