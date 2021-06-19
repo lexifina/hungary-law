@@ -32,7 +32,8 @@ b)[^12] a BVOTRK-ban az alapfokú szaktanfolyam 1996. szeptember 1. utáni elvé
 
 (5) Középfokú rendőri képesítésnek kell elfogadni az Országos Rendőr-főkapitányság Oktatási és Kiképzési Központja, a BM Rendőr-zászlósképző Iskola és jogelőd intézményei szakképzési tagozatának elvégzését igazoló bizonyítványt, a bűnügyi szaktanfolyamon és a rendőr szervező tanfolyamon korábban szerzett végzettségeket.
 
-(6) A kiegészítő képzés és a vizsga helyett az (1) bekezdésben meghatározottak mellett az 5. mellékletben meghatározott Országos Képzési Jegyzék szerinti szakképesítések fogadhatók el.
+(6)[^13] A kiegészítő képzés és a vizsga helyett az (1) bekezdésben meghatározottak mellett az 5. mellékletben meghatározott szakképesítések fogadhatók el.
 
 [^11]: A 7. § (3) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 5. § e) pontja szerint módosított szöveg.
 [^12]: A 7. § (4) bekezdés b) pontja az 52/2015. (IX. 24.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^13]: A 7. § (6) bekezdése a 14/2021. (VI. 16.) BM rendelet 7. §-ával megállapított szöveg.
