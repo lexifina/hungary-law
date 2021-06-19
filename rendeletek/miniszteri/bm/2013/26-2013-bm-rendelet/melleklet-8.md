@@ -336,7 +336,7 @@ VI. A büntetés-végrehajtási szervezet szakmai tevékenységét értékelő t
 
 3.3. az értékesítés jövedelmezőségének alakulása
 
-3.4. a társaság szakmunkás képzésben, OKJ-s képzésben való részvételének eredményessége
+3.4. a társaság szakmunkás képzésben, a szakképzésről szóló törvény szerinti szakmai képzésben való részvételének eredményessége
 
 VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékelő teljesítménymutatók
 
@@ -370,4 +370,4 @@ VII. A hivatásos katasztrófavédelmi szerv szakmai tevékenységét értékel�
 
 5.3. az iparbiztonsági szakterületi gyakorlatok megfelelősége
 
-[^72]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése, a 27/2019. (VI. 28.) BM rendelet 38. §-a szerint módosított szöveg.
+[^72]: A 8. melléklet a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 8. és 23. pontja, a 76/2015. (XII. 22.) BM rendelet 17. § g) pontja, a 40/2017. (XII. 29.) BM rendelet 7. § (3) bekezdése, a 21/2018. (VI. 29.) BM rendelet 16. § (2) bekezdése, a 27/2019. (VI. 28.) BM rendelet 38. §-a, a 14/2021. (VI. 16.) BM rendelet 6. §-a szerint módosított szöveg.
