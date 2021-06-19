@@ -10,4 +10,7 @@
 
 (6) A vezetői besorolású tanácsadó és főtanácsadó szolgálati beosztásba kinevezés feltétele a rendészeti szakvizsga sikeres teljesítése, de nem feltétele a rendészeti vezetővé, illetve a rendészeti mestervezetővé képző tanfolyam elvégzése.
 
+(7)[^11] Ha az érintett szakirányú továbbképzéssel vagy technikus végzettséggel nem rendelkezik, a tiszti vagy a tiszthelyettesi besorolási osztályba tartozó szolgálati beosztás betöltéséhez rendvédelmi alapozó képzés elvégzése szükséges.
+
 [^10]: A 11. § (2) bekezdése a 20/2019. (V. 15.) BM rendelet 7. § b) pontja szerint módosított szöveg.
+[^11]: A 11. § (7) bekezdését a 14/2021. (VI. 16.) BM rendelet 18. §-a iktatta be.
