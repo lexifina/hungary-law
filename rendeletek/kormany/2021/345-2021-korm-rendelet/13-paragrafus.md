@@ -1,0 +1,13 @@
+13. § (1) A vállalkozás a reorganizációs eljárás alatti működéséhez, illetve a reorganizációs terv végrehajtásához átmeneti vagy új finanszírozást vehet igénybe, amely finanszírozást biztosító hitelezők a reorganizációba bevonásra kerülnek. Az új vagy átmeneti finanszírozás minden olyan pénzügyi, vagyoni támogatás vagy a piaci feltételeknél kedvezőbb hitelkonstrukció lehet, amely szükséges ahhoz, hogy a vállalkozás a reorganizációs eljárás, illetve a reorganizációs terv végrehajtása során is folytathassa működését, vagy a reorganizáció célját szolgáló átszervezést hajtson végre.
+
+(2) A reorganizációs szakértő jogosult arra, hogy az új vagy átmeneti finanszírozást nyújtó hitelező felé nyilatkozatot tegyen arról, hogy a vállalkozás helyzete, illetve a reorganizációs terv milyen befektetési kockázatot jelent.
+
+(3) A reorganizációs tervet írásba kell foglalni. A reorganizációs terv bármely, a vállalkozás pénzügyi egyensúlyának helyreállítását célzó intézkedést tartalmazhat, beleértve a vállalkozás kötelezettségállománya rendezésének módját, a vállalkozás veszteségcsökkentő programját, valamint – ha ezt e rendelet lehetővé teszi, és a felek szándéka is erre irányul – a vállalkozás működése átszervezésével, tulajdonosi szerkezetének megváltoztatásával vagy a 27. §-ban szabályozott leválasztással történő szervezeti és működési átalakítását, valamint a 21. § (3) bekezdésében foglaltak figyelembevételével nyújtott állami finanszírozást is.
+
+(4) A reorganizációs tervben a hitelező – ideértve az államot, önkormányzatot, valamint az adó és más köztartozás behajtását végző szervezetet is – a vállalkozás javára fizetési kedvezményt adhat, követeléséről részben lemondhat.
+
+(5) A reorganizációs eljárás alatt a biztosítékul szolgáló vagyontárgyat a vállalkozás – ha e rendelet eltérően nem rendelkezik – nem idegenítheti el és nem terhelheti meg.
+
+(6) A reorganizációs tervnek meg kell határoznia a végrehajtásának határidejét is, amely nem lehet hosszabb, mint két év. A reorganizációs terv részeként a hitelezők kiköthetik, hogy a reorganizációs szakértő ellenőrzi a reorganizációs terv végrehajtását, és erről beszámol a hitelezőknek, a vállalkozás pedig az ellenőrzés tűrésére és a reorganizációs szakértővel történő együttműködésre köteles.
+
+(7) A vállalkozás a moratórium ideje alatt köteles a reorganizációs tervbe bevont valamennyi hitelező jóváhagyását és a reorganizációs szakértő 14. § (1) bekezdése szerinti szakértői véleményét beszerezni. A vállalkozás hitelezővel kötött megállapodását – a hitelezővel kötött megállapodás kifejezett rendelkezése hiányában is – úgy kell tekinteni, hogy a hitelező a vállalkozás végleges reorganizációs tervét a rá vonatkozó részben megismerte és jóváhagyta.
