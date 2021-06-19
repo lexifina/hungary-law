@@ -18,7 +18,7 @@ d) a műveletvégrehajtó munkavégzésre alkalmas állapotának ellenőrzése.
 
 (5) A műveletvezető köteles a műveleti kötéltechnikai tevékenység ellátása során a munkabiztonsági követelmények teljesítését folyamatosan ellenőrizni és a veszélyhelyzetek megelőzése érdekében minden szükségessé váló, tőle elvárható műszaki és szervezési intézkedést megtenni.
 
-(6)[^4] A műveleti kötéltechnikai tevékenység ellátása során kétköteles technika, biztosító kötél nélküli egyköteles technika és gyorskötél egyaránt alkalmazható. A műveleti kötéltechnikai képzés során a kötéltechnikai oktató dönt az alkalmazandó módszerről, a műveleti kötéltechnikai tevékenység ellátása és a begyakorlás során a műveletvezető dönt az alkalmazandó módszerről.
+(6)[^5] A műveleti kötéltechnikai tevékenység ellátása során kétköteles technika, biztosító kötél nélküli egyköteles technika és gyorskötél egyaránt alkalmazható. A műveleti kötéltechnikai képzés során a kötéltechnikai oktató dönt az alkalmazandó módszerről, a műveleti kötéltechnikai tevékenység ellátása és a begyakorlás során a műveletvezető dönt az alkalmazandó módszerről.
 
 (7) A kijelölt műveletvezetőnek a műveleti területen való jelenléte nélkül műveleti kötéltechnikai tevékenység nem látható el.
 
@@ -26,4 +26,4 @@ d) a műveletvégrehajtó munkavégzésre alkalmas állapotának ellenőrzése.
 
 (9) A műveletvezető írásban köteles rögzíteni, hogy a műveleti kötéltechnikai tevékenység megkezdése előtt meggyőződött a műveletvégrehajtó írásbeli kijelölésének megtörténtéről és a műveleti kötéltechnikai tevékenység ellátására alkalmas állapotáról.
 
-[^4]: A 4. § (6) bekezdése a 17/2020. (VI. 24.) BM rendelet 4. §-ával megállapított szöveg.
+[^5]: A 4. § (6) bekezdése a 17/2020. (VI. 24.) BM rendelet 4. §-ával megállapított szöveg.

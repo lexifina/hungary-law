@@ -28,7 +28,7 @@
 
 11. karabiner: véletlenszerű kinyílás ellen önzáródó elemmel ellátott, vagy kézzel zárható csatlakozó, amely gyorsan oldható kapcsolatot biztosít a különböző eszközök között;
 
-12. kötéltechnikai oktató: az Országos Képzési Jegyzékben meghatározott ipari alpinista szakképesítéssel vagy ipari alpintechnika végzésére jogosító, jogszabály alapján elismert vagy honosított külföldi bizonyítvánnyal vagy oklevéllel és munkavédelmi technikusi szakképesítéssel vagy felsőfokú munkavédelmi szakképzettséggel rendelkező személy;
+12.[^4] kötéltechnikai oktató: az ipari alpinista szakképesítéssel vagy ipari alpintechnika végzésére jogosító, jogszabály alapján elismert vagy honosított külföldi bizonyítvánnyal vagy oklevéllel és munkavédelmi technikusi szakképesítéssel vagy felsőfokú munkavédelmi szakképzettséggel rendelkező személy;
 
 13. kötélzsák: a kötél tárolására, szállítására és védelmére szolgáló felszerelés, amely egyben a munkavégzés során a használatban nem lévő kötélrész védelmére is használható;
 
@@ -65,3 +65,4 @@
 [^1]: Az 1. § 2a. pontját a 17/2020. (VI. 24.) BM rendelet 1. §-a iktatta be.
 [^2]: Az 1. § 6. pontja a 17/2020. (VI. 24.) BM rendelet 2. §-ával megállapított szöveg.
 [^3]: Az 1. § 10a. pontját a 17/2020. (VI. 24.) BM rendelet 3. §-a iktatta be.
+[^4]: Az 1. § 12. pontja a 14/2021. (VI. 16.) BM rendelet 24. §-a szerint módosított szöveg.
