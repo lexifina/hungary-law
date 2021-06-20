@@ -1,5 +1,3 @@
-## 8. § A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet 1. §-a a következő h) ponttal egészül ki:
+## 8. §[^9]
 
-## (E rendelet hatálya kiterjed:)
-
-## „h) a hivatásos katasztrófavédelmi szerv kéményseprő-ipari tevékenységet ellátó állományára.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

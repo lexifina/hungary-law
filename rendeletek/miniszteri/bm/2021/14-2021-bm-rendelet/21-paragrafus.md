@@ -1,7 +1,3 @@
-## 21. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet
+## 20. §[^21]
 
-a) 12. § (1) bekezdésében a „szakképzettségeket, szakmai” szövegrész helyébe a „szakképzettségeket, szakképesítéseket,” szöveg,
-
-b) 12. § (2) bekezdésében a „szakképzettségeket, szakmai alap-, közép- és felsőfokú szakmai képzettségeket” szövegrész helyébe a „felsőfokú szakképzettségeket, szakképzettségeket, szakképesítéseket, egyéb szakmai képesítéseket” szöveg,
-
-c) 12. § (3) bekezdésében a „szakmai alap-” szövegrész helyébe a „szakképesítéseket, alap-” szöveg és a „szerveknél” szövegrész helyébe a „szervnél” szöveg
+[^21]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

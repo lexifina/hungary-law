@@ -1,3 +1,5 @@
-## 24. § Hatályát veszti a Terrorelhárítási Központ műveleti kötéltechnikai tevékenysége ellátásának szabályairól szóló 32/2017. (XII. 20.) BM rendelet 1. § 12. pontjában az „Országos Képzési Jegyzékben meghatározott” szövegrész.
+## 24. §[^25]
 
 ## 9. Záró rendelkezések
+
+[^25]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

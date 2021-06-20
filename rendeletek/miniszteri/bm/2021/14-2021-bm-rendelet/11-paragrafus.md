@@ -1,3 +1,3 @@
-## 10. § A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 10. §[^11]
 
-## „(4) Az önkormányzati és létesítményi tűzoltó tanfolyami végzettség – a hivatásos állomány részére előírt rendvédelmi alapozó képzés teljesítése esetén – elfogadott hivatásos tűzoltó szakképesítésként.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
