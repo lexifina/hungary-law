@@ -4,4 +4,4 @@
 
 (3)[^2]
 
-[^2]: A 9. § (3) bekezdése a 31. § (3) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^2]: A 9. § (3) bekezdése a 31. § (3) bekezdése alapján 2022. június 1-jén lép hatályba.

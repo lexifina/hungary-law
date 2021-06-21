@@ -6,4 +6,4 @@
 
 (4)[^3]
 
-[^3]: A 11. § (4) bekezdése a 31. § (4) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^3]: A 11. § (4) bekezdése az 5/2021. (VI. 16.) NMHH rendelet 9. § a) pontja alapján nem lép hatályba.

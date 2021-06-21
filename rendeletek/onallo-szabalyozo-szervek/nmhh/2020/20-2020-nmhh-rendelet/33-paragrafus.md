@@ -18,6 +18,16 @@ végezték.
 
 (6) A (4) bekezdés szerinti nyilvántartásba vétel hiányában az építmény jogszerűen nem használható, azon elektronikus hírközlési szolgáltatás nem nyújtható.
 
-(7)[^5] A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet és a 2021. február 8. napjával kihirdetett veszélyhelyzettel összefüggő rendkívüli intézkedések hatályának meghosszabbításáról szóló 80/2021. (II. 22.) Korm. rendelet által meghatározott veszélyhelyzet (a továbbiakban: veszélyhelyzet) időtartama alatt, továbbá e veszélyhelyzet megszűnésének napját követő 180 napon belül lejáró végleges építési engedély, végleges bontási engedély, valamint a 2021. február 15. napját megelőzően nyilvántartásba vett, előzetes bejelentésen alapuló építési vagy bontási jogosultság külön erre irányuló kérelem hiányában is meghosszabbodik e veszélyhelyzet megszűnésének napjától számított további egy évvel.
+(7)[^11] A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet és a 2021. február 8. napjával kihirdetett veszélyhelyzettel összefüggő rendkívüli intézkedések hatályának meghosszabbításáról szóló 80/2021. (II. 22.) Korm. rendelet által meghatározott veszélyhelyzet (a továbbiakban: veszélyhelyzet) időtartama alatt, továbbá e veszélyhelyzet megszűnésének napját követő 180 napon belül lejáró végleges építési engedély, végleges bontási engedély, valamint a 2021. február 15. napját megelőzően nyilvántartásba vett, előzetes bejelentésen alapuló építési vagy bontási jogosultság külön erre irányuló kérelem hiányában is meghosszabbodik e veszélyhelyzet megszűnésének napjától számított további egy évvel.
 
-[^5]: A 33. § (7) bekezdését a 4/2021. (V. 10.) NMHH rendelet 1. §-a iktatta be.
+(8)[^12] A hatósági engedélyezési eljárások tekintetében a kérelem 2022. június 1. napja és 2023. május 31. napja között – a (9) bekezdésben foglalt kivétellel – a 9. § (2) bekezdése vagy a 9. § (3) bekezdése szerint nyújtható be.
+
+(9)[^13] Az építési engedély iránti kérelem és ugyanezen építési engedély alapján létesített elektronikus hírközlési építmény használatbavételéhez szükséges engedély iránti kérelem
+
+a) 2022. június 1. napja és 2022. augusztus 31. napja között a 9. § (2) bekezdése vagy a 9. § (3) bekezdése szerint nyújtható be;
+
+b) 2022. szeptember 1. napjától a 9. § (3) bekezdése szerint nyújtható be.
+
+[^11]: A 33. § (7) bekezdését a 4/2021. (V. 10.) NMHH rendelet 1. §-a iktatta be.
+[^12]: A 33. § (8) bekezdését az 5/2021. (VI. 16.) NMHH rendelet 2. §-a iktatta be.
+[^13]: A 33. § (9) bekezdését az 5/2021. (VI. 16.) NMHH rendelet 2. §-a iktatta be.

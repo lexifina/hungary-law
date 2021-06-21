@@ -28,7 +28,7 @@
 
 ## 11. Földmérési jelek, geodéziai pontok kezelői.
 
-2. melléklet a 20/2020. (XII. 18.) NMHH rendelethez
+2. melléklet a 20/2020. (XII. 18.) NMHH rendelethez[^19]
 
 1. Az engedélyezési tervdokumentáció tartalma a tervezés tárgyától függően
 
@@ -80,7 +80,7 @@ a) Érintett ingatlanok jegyzéke (XLS, XLSX)
 
 b) Építési jogosultságot, jogszerűséget igazoló dokumentumok (PDF/A)
 
-ba) Érintett ingatlanokra, vonatkozó építési jogosultság igazolása a nem közterületi ingatlanokra vonatkozóan (tulajdonosi hozzájárulás)
+ba) A jogszerűen épült saját tulajdonú fizikai infrastruktúra igénybevétele, valamint a meglévő fizikai infrastruktúra Eht. 94. § (4e) bekezdése szerinti igénybevétele kivételével az érintett ingatlanokra vonatkozó építési jogosultság igazolása a nem közterületi ingatlanokra vonatkozóan (tulajdonosi hozzájárulás) vagy az Eht. 94/A. §-a szerinti szolgalmi vagy más használati jog létesítésére irányuló kérelem
 
 bb) Nem építtető tulajdonában lévő meglévő építmény felhasználása esetén tulajdonosi hozzájárulás
 
@@ -524,10 +524,6 @@ Az építmény megfelelőségére és használhatóságára vonatkozó szakért�
 
 Tervadatok, tervlapok (egyenkénti csatolmányként, vagy tömörítve, egybefűzve és felelős tervező által aláírva)
 
-Tervadatok
-
-A tervezett/felhasznált hírközlési építmény objektumainak adatai az EHO-ban meghatározott módon és adattartalommal (EOV koordinátái, a talppont magassági koordinátája, stb., XML)
-
 Tervlapok
 
 a) Áttekintő helyszínrajz, amely megjelöli a tervezéssel érintett ingatlan elhelyezkedését a tágabb környezetben/ településen (georeferált PDF/A, DWG vagy DXF szükség szerint méretarányban 1:2000, 1:1000)
@@ -639,3 +635,5 @@ Előzetes bejelentés mellékletei (egyenkénti csatolmányként)
 a) Az érintett ingatlan tulajdonosának hozzájáruló nyilatkozata (PDF/A)
 
 b) a légügyi szakhatóságok előzetes állásfoglalásai (PDF/A)
+
+[^19]: A 2. melléklet az 5/2021. (VI. 16.) NMHH rendelet 5. §-a és 7. § b) pontja szerint módosított szöveg.

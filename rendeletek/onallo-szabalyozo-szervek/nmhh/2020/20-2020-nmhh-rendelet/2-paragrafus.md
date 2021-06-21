@@ -18,4 +18,4 @@ h) kis területi lefedésű, vezeték nélküli hozzáférési pont: az Eht. 188
 
 i) korszerűsítés: a jogszerűen létesült elektronikus hírközlési építmény meglévő nyomvonalán korszerű technológia alkalmazásával az elektronikus hírközlő hálózat egyes részeinek vagy teljes egészének – a régi építménynek az építési engedély hatályának lejártáig történő elbontását is magában foglaló – kicserélése, amelynek következtében nő az elektronikus hírközlő hálózat üzembiztonsága, teljesítőképessége vagy használhatósága, valamint az antennák cseréje, ha az érintett antennák valamelyikének bármely irányú mérete a 4,0 m-t meghaladja, és az antennatartó szerkezet megerősítését nem igényli, továbbá a teljes szerkezet – antennatartó szerkezet és az antenna – együttes magassága nem növekszik.
 
-[^1]: A 2. § c) pontja a 31. § (3) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^1]: A 2. § c) pontja a 31. § (3) bekezdése alapján 2022. június 1-jén lép hatályba.

@@ -4,4 +4,4 @@ a)[^4]
 
 b) a 7. §-ban foglaltak szerint helyszíni szemlét tarthat.
 
-[^4]: A 12. § a) pontja a 31. § (3) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^4]: A 12. § a) pontja a 31. § (3) bekezdése alapján 2022. június 1-jén lép hatályba.

@@ -58,13 +58,13 @@ c) a közműegyeztetés ismételt lefolytatásának szükségességét.
 
 (7) Ha a Hatóság az építési engedélyezési eljárás során megállapítja, hogy a tervezett építési tevékenységet engedély nélkül megkezdték, a tényállás tisztázását követően haladéktalanul az építési engedély iránti kérelmet elutasítja, és a szabálytalan építés jogkövetkezményeit alkalmazza.
 
-(8) Ha a 9. § szerint benyújtott tervdokumentáció hiánytalanul rendelkezésre áll, és szakhatóság bevonása nem követelmény, a Hatóság 15 napon belül kiadja az építési engedélyt, ha a kérelem
+(8)[^5] Ha a 9. § szerint benyújtott tervdokumentáció hiánytalanul rendelkezésre áll, és szakhatóság bevonása nem követelmény, és szolgalmi vagy más használati jog létesítése nem szükséges, a Hatóság 15 napon belül kiadja az építési engedélyt, ha a kérelem
 
 a) a jogszerűen épült
 
 aa) az e-közmű alkalmazásban feltüntetett elektronikus hírközlési célra alkalmas alépítményi csőhálózatba, közmű alagútba, metró alagútba, csatornahálózatba történő kábelbehúzásra, védőcső behúzásra, vagy ezek bontására irányul;
 
-ab) kizárólag közterületen elhelyezkedő elektronikus hírközlő, vagy villamos energia elosztó hálózat részét képező vagy közvilágítási vagy tömegközlekedési célú tartószerkezetekre, oszlopokra történő vezetékek, kábelek kizárólag közterületet érintő elhelyezésére vagy bontására irányul;
+ab)[^6] elektronikus hírközlő, vagy villamos energia elosztó hálózat részét képező vagy közvilágítási vagy tömegközlekedési célú tartószerkezetekre, oszlopokra történő vezetékek, kábelek elhelyezésére vagy bontására irányul;
 
 ac) olyan, az aa) és ab) alpont szerinti munkálatokhoz kapcsolódó, azzal egyidejűleg végzett legfeljebb 100 méter hosszúságú, kizárólag közterületen megvalósuló építményre irányul, amelynek nyomvonala a benyújtott tervdokumentációban szerepel;
 
@@ -77,3 +77,6 @@ bb) kőolajvezeték, földgázvezeték, villamosmű, vízvezeték, szennyvízvez
 c) nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény más építési beruházás, így különösen más fizikai infrastruktúra építése vagy átépítése miatt szükséges áthelyezésére, későbbi kábelbehúzás lehetőségét biztosító tartalék nyomvonal építésére irányul, vagy
 
 d) az elektronikus hírközlési építmény korszerűsítésére irányul.
+
+[^5]: A 13. § (8) bekezdés nyitó szövegrésze az 5/2021. (VI. 16.) NMHH rendelet 4. § 1. pontja szerint módosított szöveg.
+[^6]: A 13. § (8) bekezdés a) pont ab) alpontja az 5/2021. (VI. 16.) NMHH rendelet 4. § 2. pontja szerint módosított szöveg.
