@@ -10,7 +10,7 @@ Az OHKT előkészítése során a Koordináló szerv bevonhatja:
 
 2. a vízügyre vonatkozó szakkérdések vonatkozásában a területileg illetékes vízügyi hatóságot és a működési területével érintett vízügyi igazgatóságot,
 
-3. az árképzéssel és az energetikával kapcsolatos szakkérdések vonatkozásában a Magyar Energetikai és Közmű-szabályozási Hivatalt,
+3.[^3] az árképzéssel, energetikával és a megfelelőségi véleményezéssel kapcsolatos szakkérdések vonatkozásában a Magyar Energetikai és Közmű-szabályozási Hivatalt,
 
 4. az útügyi, vasúti és hajózási szakkérdések vonatkozásában a feladatkörrel rendelkező hatóságot,
 
@@ -45,3 +45,5 @@ g) fogyasztóvédelmi hatáskörében eljárva a fogyasztóvédelmi szakkérdés
 h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában,
 
 i) a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában.
+
+[^3]: Az 1. melléklet 3. pontja a 312/2021. (VI. 7.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.

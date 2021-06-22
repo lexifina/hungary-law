@@ -58,6 +58,18 @@
 
 2.3.9. a közszolgáltatási tevékenységre vonatkozó minimum műszaki feltételek.
 
+2.3.10.[^4] közszolgáltatás körébe tartozó hulladék átvételével, gyűjtésével kapcsolatos feltételek;
+
+2.3.11.[^5] közszolgáltatás körébe tartozó hulladék kezelésével kapcsolatos feltételek.
+
+2.4.[^6] közszolgáltatói alvállalkozó működésének és hulladékgazdálkodási közszolgáltatással kapcsolatos tevékenységének megfelelésére vonatkozó feltételek meghatározása (közszolgáltatási területre vetítetten):
+
+2.4.1. általános feltételek;
+
+2.4.2. közszolgáltatás körébe tartozó hulladék átvételével, gyűjtésével kapcsolatos feltételek;
+
+2.4.3. közszolgáltatás körébe tartozó hulladék kezelésével kapcsolatos feltételek.
+
 3. Az OHKT-ban foglaltak teljesítéséhez szükséges intézkedések, feladatok:
 
 3.1. a 2.2. pontban meghatározott célkitűzések megvalósítását szolgáló intézkedések, feladatok;
@@ -67,3 +79,7 @@
 4. Összefoglalás:
 
 Az összefoglalásban be kell mutatni a tervezési időszak alatt várható eredményeket, valamint a hulladékgazdálkodási közszolgáltatás további fejlesztésének lehetőségeit.
+
+[^4]: A 2. melléklet 2. pont 2.3. alpont 2.3.10. alpontját a 312/2021. (VI. 7.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^5]: A 2. melléklet 2. pont 2.3. alpont 2.3.11. alpontját a 312/2021. (VI. 7.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^6]: A 2. melléklet 2. pont 2.4. alpontját a 312/2021. (VI. 7.) Korm. rendelet 18. § (1) bekezdése iktatta be.
