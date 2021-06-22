@@ -344,7 +344,7 @@
 
 | 18. | Az ADN 1.3 fejezete szerinti oktatásról szóló igazolás nincs a hajón, de bizonyított, hogy a járműszemélyzet részesült a képzésben, és erről a munkáltató igazolást állított ki a részére. | 30 000 | járműszemélyzet |
 
-4. melléklet a 312/2011. (XII. 23.) Korm. rendelethez[^54]
+4. melléklet a 312/2011. (XII. 23.) Korm. rendelethez[^55]
 
 A vasúti közlekedési hatóság tájékoztatásának tartalmi követelményei
 
@@ -402,4 +402,4 @@ B. Katasztrófavédelmi beavatkozást igénylő események
 
 12. Az esemény vizsgálatának megállapítása.
 
-[^54]: A 4. mellékletet a 66/2021. (II. 16.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^55]: A 4. mellékletet a 66/2021. (II. 16.) Korm. rendelet 15. § (3) bekezdése iktatta be.

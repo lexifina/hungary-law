@@ -16,9 +16,9 @@
 
 ## 9. A veszélyes áru feladójának neve, küldeményazonosítója (a feladási ország és állomás azonosító kódszáma, a feladáskor közreműködő fuvarozó, illetve fuvarozásteljesítési segéd kódszáma, amennyiben rendelkezik vele /SzMGSz szerint: Fuvarozó/, a feladási szám), és a küldemény átvételének dátuma [év, hó, nap] (SzMGSz szerint: a fuvarozási szerződés megkötésének időpontja).
 
-## 10.[^45] Veszélyes árut szállító jármű be- és kisorolási helye és azok azonosító kódszáma. Ha a be-, kisorolás nem Magyarországon történik, a be-, kisorolás helyeként a határátlépés szerinti államhatárt kell megjelölni.
+## 10.[^46] Veszélyes árut szállító jármű be- és kisorolási helye és azok azonosító kódszáma. Ha a be-, kisorolás nem Magyarországon történik, a be-, kisorolás helyeként a határátlépés szerinti államhatárt kell megjelölni.
 
-## 11.[^46] A szállítási útvonal részletes leírása (érintett állomások neve és azok azonosító kódszáma vagy a 6. § (1) bekezdés b) pontja szerinti bejelentés esetén az érintett vonalszám).
+## 11.[^47] A szállítási útvonal részletes leírása (érintett állomások neve és azok azonosító kódszáma vagy a 6. § (1) bekezdés b) pontja szerinti bejelentés esetén az érintett vonalszám).
 
 ## 12. A vonat indulásának helye és annak azonosító kódszáma, valamint tervezett időpontja (év, hó, nap, óra, perc).
 
@@ -30,7 +30,7 @@
 
 ## 16. Bejelentő aláírása és cégbélyegző lenyomata.
 
-## B.[^47] Veszélyes áru vízi szállítása esetén
+## B.[^48] Veszélyes áru vízi szállítása esetén
 
 ## 1. Bejelentő személy neve, elérhetősége.
 
@@ -62,6 +62,6 @@
 
 A. Veszélyes áruk vasúti szállítása esetén
 
-[^45]: Az 1. melléklet A. rész 10. pontja a 66/2021. (II. 16.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^46]: Az 1. melléklet A. rész 11. pontja a 66/2021. (II. 16.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg.
-[^47]: Az 1. melléklet B. része a 66/2021. (II. 16.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^46]: Az 1. melléklet A. rész 10. pontja a 66/2021. (II. 16.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^47]: Az 1. melléklet A. rész 11. pontja a 66/2021. (II. 16.) Korm. rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^48]: Az 1. melléklet B. része a 66/2021. (II. 16.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-312-20-
 | 2017-06-17 | 2011-312-20-22.6 | 137/2017. (VI. 9.) Korm. rendelet |
 | 2018-01-01 | 2011-312-20-22.7 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-04-02 | 2011-312-20-22.8 | 66/2021. (II. 16.) Korm. rendelet |
+| 2021-06-22 | 2011-312-20-22.9 | 312/2021. (VI. 7.) Korm. rendelet |
