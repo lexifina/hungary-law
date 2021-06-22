@@ -14,22 +14,22 @@ ac) azzal, akit az építésügyi hatóság az eljárásba ügyfélként bevont,
 
 b) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott.
 
-(3)[^240] A végleges döntést közölni kell:
+(3)[^241] A végleges döntést közölni kell:
 
 a) az építtetővel vagy meghatalmazottjával,
 
-b)[^241]
+b)[^242]
 
-(4)[^242] A használatbavételi engedély véglegessé válása esetén az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti.
+(4)[^243] A használatbavételi engedély véglegessé válása esetén az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti.
 
-(5)[^243] Az építésügyi hatóság a végleges használatbavételi engedélyt a véglegessé válástól számított három napon belül megküldi az építtetőnek vagy meghatalmazottjának a kapcsolattartás módjára megjelölt rendelkezésének megfelelően.
+(5)[^244] Az építésügyi hatóság a végleges használatbavételi engedélyt a véglegessé válástól számított három napon belül megküldi az építtetőnek vagy meghatalmazottjának a kapcsolattartás módjára megjelölt rendelkezésének megfelelően.
 
 (6) A használatbavételi engedély határozatlan ideig hatályos.
 
-(7)[^244] A hatályos földhivatali záradékkal ellátott változási vázrajznak az OÉNY-be történt feltöltését követően a végleges használatbavételi engedély ÉTDR-en keresztül történő megküldésével az építésügyi hatóság megkeresi az ingatlan fekvése szerint illetékes ingatlanügyi hatóságot a változás ingatlan-nyilvántartási átvezetése iránt.
+(7)[^245] A hatályos földhivatali záradékkal ellátott változási vázrajznak az OÉNY-be történt feltöltését követően a végleges használatbavételi engedély ÉTDR-en keresztül történő megküldésével az építésügyi hatóság megkeresi az ingatlan fekvése szerint illetékes ingatlanügyi hatóságot a változás ingatlan-nyilvántartási átvezetése iránt.
 
-[^240]: A 41. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 61. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^241]: A 41. § (3) bekezdés b) pontját a 668/2020. (XII. 28.) Korm. rendelet 32. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^242]: A 41. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (15) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^243]: A 41. § (5) bekezdése a 13/2019. (II. 11.) Korm. rendelet 18. § 9. pontja szerint módosított szöveg.
-[^244]: A 41. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 62. pontja, a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés b) pontja, a 38/2020. (III. 10.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^241]: A 41. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 61. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^242]: A 41. § (3) bekezdés b) pontját a 668/2020. (XII. 28.) Korm. rendelet 32. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^243]: A 41. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (15) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^244]: A 41. § (5) bekezdése a 13/2019. (II. 11.) Korm. rendelet 18. § 9. pontja szerint módosított szöveg.
+[^245]: A 41. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 62. pontja, a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés b) pontja, a 38/2020. (III. 10.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.

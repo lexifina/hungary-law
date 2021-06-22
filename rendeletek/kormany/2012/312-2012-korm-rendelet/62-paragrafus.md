@@ -4,7 +4,7 @@ a) a vállalkozó kivitelező, a kivitelezési dokumentáció tervezője, az ép
 
 b) az Étv. 39/A. § (1) és (3) bekezdésében foglaltakat teljesítették-e,
 
-c)[^352] az építőipari kivitelezési tevékenység a végleges építésügyi hatósági engedély, a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció és az az alapján készített kivitelezési dokumentáció, egyszerű bejelentéshez kötött épület esetén az egyszerű bejelentési dokumentáció alapján, illetve a szakmai és biztonsági előírások megtartásával történt-e,
+c)[^354] az építőipari kivitelezési tevékenység a végleges építésügyi hatósági engedély, a hozzátartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentáció és az az alapján készített kivitelezési dokumentáció, egyszerű bejelentéshez kötött épület esetén az egyszerű bejelentési dokumentáció alapján, illetve a szakmai és biztonsági előírások megtartásával történt-e,
 
 d) az építési napló a jogszabályban meghatározottak szerint és módon rendelkezésre áll-e, az építmény szerkezetére, a kivitelezés módszerére és technológiájára vonatkozó követelményeket betartották-e,
 
@@ -14,10 +14,10 @@ e) az építtetői fedezetkezelés hatálya alá tartozó építőipari kivitele
 
 a) az építési termékek beépítésére vonatkozó jogszabályokat, szabványokat és szakmai szabályokat az építőipari kivitelezési tevékenység végzése során megtartották-e,
 
-b)[^353] az építőipari kivitelezési tevékenység végzését nem tiltotta-e meg,
+b)[^355] az építőipari kivitelezési tevékenység végzését nem tiltotta-e meg,
 
-c)[^354] a kivitelezés szerződésre vonatkozó előírások teljesültek-e.
+c)[^356] a kivitelezés szerződésre vonatkozó előírások teljesültek-e.
 
-[^352]: A 62. § (1) bekezdés c) pontja a 456/2015. (XII. 29.) Korm. rendelet 11. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 79. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^353]: A 62. § (2) bekezdés b) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés e) pontja szerint módosított szöveg.
-[^354]: A 62. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 23. pontja szerint módosított szöveg.
+[^354]: A 62. § (1) bekezdés c) pontja a 456/2015. (XII. 29.) Korm. rendelet 11. § c) pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 79. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^355]: A 62. § (2) bekezdés b) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés e) pontja szerint módosított szöveg.
+[^356]: A 62. § (2) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 23. pontja szerint módosított szöveg.

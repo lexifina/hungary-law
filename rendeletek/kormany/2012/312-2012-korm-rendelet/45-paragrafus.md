@@ -14,9 +14,9 @@ c) a zártsorú vagy ikres beépítésű építmény esetén az építmény alap
 
 bontási tevékenység.
 
-(2)[^264] A bontási engedély iránti kérelemhez elektronikus formátumban mellékelni kell a 8. mellékletben meghatározott építészeti-műszaki dokumentációt.
+(2)[^265] A bontási engedély iránti kérelemhez elektronikus formátumban mellékelni kell a 8. mellékletben meghatározott építészeti-műszaki dokumentációt.
 
-(3)[^265] A kérelemhez mellékelni lehet a 4. § (4) bekezdése szerinti nyilatkozatokat.
+(3)[^266] A kérelemhez mellékelni lehet a 4. § (4) bekezdése szerinti nyilatkozatokat.
 
-[^264]: A 45. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (18) bekezdésével megállapított, a 13/2019. (II. 11.) Korm. rendelet 19. § g) pontja szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 618. §-át.
-[^265]: A 45. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^265]: A 45. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (18) bekezdésével megállapított, a 13/2019. (II. 11.) Korm. rendelet 19. § g) pontja szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 618. §-át.
+[^266]: A 45. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

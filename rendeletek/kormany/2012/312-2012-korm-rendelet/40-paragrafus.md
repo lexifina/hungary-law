@@ -70,7 +70,7 @@ dc)[^238] arról, hogy a használatbavételi engedély véglegessé válását k
 
 e)[^239] az építési tevékenység rövid leírását, az építmény rendeltetését, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként.
 
-(8) A határozat tájékoztatást tartalmaz arra vonatkozóan, hogy az építtető az építési, illetve bontási tevékenység befejezését követően, a használatbavételi engedély kézhezvételét követő harminc napon belül (de legkésőbb a kikötések teljesítésekor) – jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni az építési tevékenység során ténylegesen keletkezett hulladékról az előírt építési hulladék nyilvántartó lapot, illetve a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a környezetvédelmi hatósághoz kell benyújtania.
+(8)[^240] A határozat tájékoztatást tartalmaz arra vonatkozóan, hogy az építtető az építési, illetve bontási tevékenység befejezését követően, a használatbavételi engedély kézhezvételét követő harminc napon belül (de legkésőbb a kikötések teljesítésekor) – jogszabályban meghatározott minőségű és mennyiségű hulladék keletkezése esetén – köteles elkészíteni az építési tevékenység során ténylegesen keletkezett hulladékról az előírt építési hulladék nyilvántartó lapot, illetve a bontási tevékenység során ténylegesen keletkezett hulladékról az előírt bontási hulladék nyilvántartó lapot, melyet a hulladékgazdálkodási hatósághoz kell benyújtania.
 
 (9) Az építésügyi hatóság a határozaton a 41. § (2) bekezdésében foglaltak szerint feltünteti az értesítettek körét.
 
@@ -93,3 +93,4 @@ e)[^239] az építési tevékenység rövid leírását, az építmény rendelte
 [^237]: A 40. § (7) bekezdés d) pont db) alpontját a 262/2015. (IX. 14.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
 [^238]: A 40. § (7) bekezdés d) pont dc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 60. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^239]: A 40. § (7) bekezdés e) pontját a 38/2020. (III. 10.) Korm. rendelet 6. §-a iktatta be.
+[^240]: A 40. § (8) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
