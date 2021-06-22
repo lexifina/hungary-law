@@ -1,4 +1,4 @@
-## 30. §[^18] A 23. §-ban meghatározott kötelezettség teljesítési határideje a 2018. év tekintetében 2018. október 31.
+## 30. §[^17] A 23. §-ban meghatározott kötelezettség teljesítési határideje a 2018. év tekintetében 2018. október 31.
 
 1. melléklet a 69/2016. (III. 31.) Korm. rendelethez
 
@@ -72,4 +72,4 @@ b) a tervezett fejlesztésre vonatkozó előzetes fejlesztési terv legalább az
 
 – fejlesztésre vonatkozó koncepcióterv (különös tekintettel a hulladékáramok, hulladékmennyiségek kimutatására).
 
-[^18]: A 30. §-t a 132/2018. (VII. 23.) Korm. rendelet 17. §-a iktatta be.
+[^17]: A 30. §-t a 132/2018. (VII. 23.) Korm. rendelet 17. §-a iktatta be.

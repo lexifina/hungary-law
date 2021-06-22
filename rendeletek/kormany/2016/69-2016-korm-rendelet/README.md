@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-69-20-2
 | 2018-01-01 | 2016-69-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-07-15 | 2016-69-20-22.5 | 105/2018. (VI. 15.) Korm. rendelet |
 | 2018-07-31 | 2016-69-20-22.6 | 132/2018. (VII. 23.) Korm. rendelet |
+| 2021-06-22 | 2016-69-20-22.7 | 312/2021. (VI. 7.) Korm. rendelet |
