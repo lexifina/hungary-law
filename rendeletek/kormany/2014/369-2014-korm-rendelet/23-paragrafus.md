@@ -8,7 +8,7 @@ b) a hulladékokról és egyes irányelvek hatályon kívül helyezéséről sz�
 
 c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
-d)[^37] az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek
+d)[^39] az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek
 
 ## való megfelelést szolgálja.
 
@@ -22,4 +22,4 @@ b) az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és
 
 (3) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-[^37]: A 23. § (1) bekezdés d) pontját a 158/2021. (III. 31.) Korm. rendelet 32. §-a iktatta be.
+[^39]: A 23. § (1) bekezdés d) pontját a 158/2021. (III. 31.) Korm. rendelet 32. §-a iktatta be.
