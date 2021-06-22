@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-439-20-
 | 2017-01-01 | 2012-439-20-22.7 | 440/2016. (XII. 16.) Korm. rendelet |
 | 2018-01-01 | 2012-439-20-22.8 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2018-07-26 | 2012-439-20-22.9 | 370/2014. (XII. 30.) Korm. rendelet |
+| 2021-06-22 | 2012-439-20-22.10 | 312/2021. (VI. 7.) Korm. rendelet |
