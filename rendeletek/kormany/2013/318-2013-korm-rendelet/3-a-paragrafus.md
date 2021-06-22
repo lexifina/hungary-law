@@ -18,11 +18,11 @@ b) a hulladék szállítója a fuvarokmányt és veszélyes hulladék szállít�
 
 c) az elektronikus megfigyelő rendszer által készített képfelvételeket
 
-az országos környezetvédelmi hatóságnak átadja, megtekinthetővé teszi.
+az országos hulladékgazdálkodási hatóságnak átadja, megtekinthetővé teszi.
 
 [^13]: A 3. alcímet (3/A. §) a 310/2014. (XII. 11.) Korm. rendelet 18. § (3) bekezdése iktatta be.
 [^14]: A 3/A. § (2) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^15]: A 3/A. § (3) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^16]: A 3/A. § (4) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^17]: A 3/A. § (5) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^18]: A 3/A. § (6) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 241. § d) pontja szerint módosított szöveg.
+[^18]: A 3/A. § (6) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 241. § d) pontja, a 312/2021. (VI. 7.) Korm. rendelet 10. §-a szerint módosított szöveg.
