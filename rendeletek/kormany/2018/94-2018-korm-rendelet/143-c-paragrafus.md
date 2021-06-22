@@ -16,7 +16,7 @@ f) együttműködik az egészségügyért felelős miniszterrel a Kormány medd�
 
 g) közreműködik a Kormány otthonteremtési programjának alakításában, a lakásgazdálkodásért és lakáspolitikáért, valamint a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel együttműködve,
 
-h)[^113] közreműködik az emberkereskedelem elleni küzdelemről szóló stratégia végrehajtásában,
+h)[^116] közreműködik az emberkereskedelem elleni küzdelemről szóló stratégia végrehajtásában,
 
 i) felel – az egészségügyért felelős miniszterrel együttműködve – a családbarát szülészetek kialakításáért,
 
@@ -30,4 +30,4 @@ l) az egészségbiztosításért felelős miniszterrel együttműködve feladatk
 
 (4) A miniszter irányítása alatt álló Kopp Mária Intézet a Népesedésért és Családokért – kutatási és elemzési tevékenység ellátásával – részt vesz a miniszter (2) bekezdés a), b), valamint d)–i) és k) pontjában meghatározott feladatainak ellátásában.
 
-[^113]: A 143/C. § (2) beekzdés h) pontja a 94/2021. (II. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^116]: A 143/C. § (2) beekzdés h) pontja a 94/2021. (II. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
