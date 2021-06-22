@@ -34,7 +34,7 @@ ba) megfelel a külön jogszabályban meghatározott hulladékgyűjtési és hul
 
 bb) nem tartozik az Európai Hulladék Katalógus (EWC) 05–15 főcsoportjainak valamelyikébe, továbbá
 
-bc)[^49] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi hatóság által kiállított nyilatkozattal arról, hogy a hulladék tüzelőanyagként történő felhasználástól eltérő egyéb módon tovább már nem hasznosítható.
+bc)[^49] a hulladékhasznosító erőműegység rendelkezik a hulladékgazdálkodási hatóság által kiállított nyilatkozattal arról, hogy a hulladék tüzelőanyagként történő felhasználástól eltérő egyéb módon tovább már nem hasznosítható.
 
 (6)[^50] A használt berendezést is magában foglaló erőműegységben termelt villamos energia kötelező átvételi árait – az (1), valamint a (6a) és (6b) bekezdés szerinti eltéréssel – az 1. számú melléklet 4. pontjában meghatározott bázisáraknak megfelelően kell megállapítani a kötelező átvételi jogosultságnak a kérelmező részére első alkalommal történő meghatározásakor, ha az erőműegységre vonatkozó engedély e rendelet hatálybalépése után került kiadásra.
 
@@ -61,7 +61,7 @@ bc)[^49] a hulladékhasznosító erőműegység rendelkezik a környezetvédelmi
 (13)[^61] Ha a kötelező átvételre jogosult erőműegység a közcélú hálózaton piaci alapon is értékesít vagy kíván értékesíteni villamos energiát, akkor át kell lépnie a METÁR rendelet szerinti prémium típusú támogatási rendszerbe. Ebben az esetben a (12) bekezdésben meghatározott támogatott árat és időtartamot kell alkalmazni. A KÁT termelőnek nem kell átlépnie a METÁR rendelet szerinti prémium típusú támogatási rendszerbe, ha a kötelező átvételi rendszerben értékesíthető villamos energia a VET 5. §-ának megfelelően az átviteli rendszerirányító által a rendszerszintű szolgáltatások biztosításához igényelt villamosenergia-termelés során az átviteli rendszerirányító részére kerül értékesítésre vagy az elosztói rugalmassági szolgáltatás keretében az elosztó hálózati engedélyes részére kerül értékesítésre.
 
 [^48]: A 4. § (5) bekezdés nyitó szövegrésze a 123/2015. (V. 26.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^49]: A 4. § (5) bekezdés b) pont bc) alpontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^49]: A 4. § (5) bekezdés b) pont bc) alpontja a 182/2009. (IX. 10.) Korm. rendelet 612. §-a, a 312/2021. (VI. 7.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^50]: A 4. § (6) bekezdése a 123/2015. (V. 26.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^51]: A 4. § (6a) bekezdését a 123/2015. (V. 26.) Korm. rendelet 21. § (1) bekezdése iktatta be.
 [^52]: A 4. § (6b) bekezdését a 123/2015. (V. 26.) Korm. rendelet 21. § (1) bekezdése iktatta be.
