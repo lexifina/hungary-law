@@ -20,7 +20,7 @@
 
 ## Határidő: 2021-től az adott tárgyév január 31. napjáig
 
-1. melléklet az 1150/2020. (IV. 10.) Korm. határozathoz
+1. melléklet az 1150/2020. (IV. 10.) Korm. határozathoz[^1]
 
 |  | Színház megnevezése | Fenntartó helyi önkormányzat | Közös működtetés időbeli hatálya |
 
@@ -48,7 +48,7 @@
 
 | 12. | Vörösmarty Színház | Székesfehérvár Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 13. | Szolnoki Szigligeti Színház Nonprofit Korlátolt Felelősségű Társaság | Szolnok Megyei Jogú Város Önkormányzata | 2021. június 30. |
+| 13. | Szolnoki Szigligeti Színház Nonprofit Korlátolt Felelősségű Társaság | Szolnok Megyei Jogú Város Önkormányzata | 2026. december 31. |
 
 | 14. | Weöres Sándor Színház Nonprofit Korlátolt Felelősségű Társaság | Szombathely Megyei Jogú Város Önkormányzata | 2022. december 31. |
 
@@ -83,3 +83,5 @@
 | 29. | Mesebolt Bábszínház | Szombathely Megyei Jogú Város Önkormányzata | 2022. december 31. |
 
 | 30. | Kövér Béla Bábszínház | Szeged Megyei Jogú Város Önkormányzata | 2022. december 31. |
+
+[^1]: Az 1. melléklet az 1392/2021. (VI. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
