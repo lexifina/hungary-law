@@ -1,3 +1,3 @@
-## 40–41. §[^97]
+## 40–41. §[^99]
 
-[^97]: A 40–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 40–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

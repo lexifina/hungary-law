@@ -1,6 +1,6 @@
-## 44. §[^99]
+## 44. §[^101]
 
-1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^100]
+1. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^102]
 
 ## Elektromos-, elektronikusberendezés-kategóriák
 
@@ -486,5 +486,5 @@
 
 ** Abban az esetben, ha a gyártó, a forgalmazó olyan használt elektromos, elektronikus berendezést vesz vissza vagy olyan hulladékká vált elektromos, elektronikus berendezést vesz át, amely a 2.1.–2.6. pontban foglalt táblázatokban meghatározott elektromos-, elektronikusberendezés-kategóriák és a részüket képező egyes elektromos, elektronikus berendezésekhez tartozó vámtarifaszámok alá nem sorolható be, a gyártó, a forgalmazó az adott elektromos-, elektronikus berendezés-kategóriájához tartozó legalacsonyabb értékű vásárlási utalványt állítja ki.
 
-[^99]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^100]: Az 1. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^101]: A 44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: Az 1. melléklet az 525/2017. (XII. 29.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.

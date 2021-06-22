@@ -28,7 +28,7 @@ d) a vásárlási utalvány összege nem áthárítható.
 
 (5) Ha a gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét megtagadja, jegyzőkönyvet vesz fel. A jegyzőkönyvben a berendezés azonosítására alkalmas adatokat, továbbá az átvétel megtagadásának indokát, helyét és időpontját kell rögzíteni. A jegyzőkönyvet a gyártónak és a hulladékbirtokosnak alá kell írnia. A gyártó az aláírt jegyzőkönyv egy példányát a hulladékbirtokosnak átadja.
 
-(6) Ha a gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét a (4) bekezdés szerinti indok valamelyikére hivatkozva megtagadja, a hulladékbirtokost a helyszínen tájékoztatja arról, hogy a hulladék hol és kinek adható át annak környezetvédelmi szempontból biztonságos kezelése érdekében. Szükség esetén a gyártó a környezetvédelmi hatóságot, illetve egy – a hulladék kezelésére jogosult – gazdálkodó szervezetet a hulladék elszállítása és annak környezetvédelmi szempontból biztonságos kezelése érdekében haladéktalanul tájékoztatja.
+(6)[^17] Ha a gyártó a hulladékká vált elektromos, elektronikus berendezés átvételét a (4) bekezdés szerinti indok valamelyikére hivatkozva megtagadja, a hulladékbirtokost a helyszínen tájékoztatja arról, hogy a hulladék hol és kinek adható át annak környezetvédelmi szempontból biztonságos kezelése érdekében. Szükség esetén a gyártó a hulladékgazdálkodási hatóságot, illetve egy – a hulladék kezelésére jogosult – gazdálkodó szervezetet a hulladék elszállítása és annak környezetvédelmi szempontból biztonságos kezelése érdekében haladéktalanul tájékoztatja.
 
 (7) Az átvétel megtagadása miatti eljárásban a (4) bekezdésben foglaltak bizonyítása a gyártót terheli. Ha az eljárásban a gyártó az (5) bekezdés szerinti jegyzőkönyvet nem mutatja be, az átvétel megtagadásának jogtalanságát vélelmezni kell.
 
@@ -42,3 +42,4 @@ d) a vásárlási utalvány összege nem áthárítható.
 [^14]: A 4. § (1a) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 30. § (1) bekezdése iktatta be.
 [^15]: A 4. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
 [^16]: A 4. § (4) bekezdése az 525/2017. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. § (6) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

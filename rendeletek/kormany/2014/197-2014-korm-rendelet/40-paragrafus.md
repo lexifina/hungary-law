@@ -1,3 +1,3 @@
-## 39. §[^96]
+## 39. §[^98]
 
-[^96]: A 39. § a 370/2014. (XII. 30.) Korm. rendelet 40. § (1) bekezdése alapján nem lép hatályba.
+[^98]: A 39. § a 370/2014. (XII. 30.) Korm. rendelet 40. § (1) bekezdése alapján nem lép hatályba.
