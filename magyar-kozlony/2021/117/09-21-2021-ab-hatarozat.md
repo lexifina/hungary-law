@@ -1,0 +1,697 @@
+# Az Alkotmánybíróság 21/2021. (VI. 22.) AB határozata
+
+Magyar Közlöny 2021. évi 117. szám, 2021. június 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/alW9GvjqmsDIFuujAaWF60c8b576bbf38/dokumentumok/d86727bd1c265d80a0becfa6ea43dc0e48911c1b/letoltes)
+
+---
+
+Az Alkotmánybíróság 21/2021. (VI. 22.) AB határozata
+a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény
+22. § (4) bekezdésének és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 94. § (6) bekezdésének
+alkalmazása esetére vonatkozó alkotmányos követelmény megállapításáról, és a nemzeti felsőoktatásról
+szóló 2011. évi CCIV. törvény 94. § (6) bekezdése alaptörvény-ellenességének megállapítására,
+megsemmisítésére valamint alkalmazási tilalom kimondására irányuló bírói indítvány elutasításáról
+Az Alkotmánybíróság teljes ülése jogszabály alaptörvény-ellenességének megállapítása iránti bírói kezdeményezés
+tárgyában – dr. Juhász Imre, dr. Szívós Mária és dr. Schanda Balázs alkotmánybírók párhuzamos indokolásával,
+valamint dr. Pokol Béla alkotmánybíró különvéleményével – meghozta a következő
+h a t á r o z a t o t:
+1. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 22. §
+(4) bekezdésének és a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 94. § (6) bekezdésének
+alkalmazása esetén az Alaptörvény X. cikk (3) bekezdéséből és XI. cikk (2) bekezdéséből fakadó alkotmányos
+követelmény, hogy a fenntartó köteles a felsőoktatási intézmény szenátusát – mint a felsőoktatási intézmény
+oktatási-kutatási autonómiájának letéteményesét – megillető véleményezési jog gyakorlására kellő
+időt biztosítani, továbbá lehetőséget kell biztosítania érdemi javaslattétel megfogalmazására, amelyet
+a fenntartónak nyomon követhető módon figyelembe kell vennie döntéshozatala során.
+2. Az Alkotmánybíróság a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 94. § (6) bekezdése alaptörvény-
+ellenességének megállapítására, megsemmisítésére valamint alkalmazási tilalom kimondására irányuló bírói
+indítványt elutasítja.
+3. Az Alkotmánybíróság a Színház- és Filmművészeti Alapítványról, a Színház és Filmművészetért Alapítvány
+és a Színház és Filmművészeti Egyetem részére történő vagyonjuttatásról szóló 2020. évi LXXII. törvény
+alaptörvény-ellenességének megállapítására és megsemmisítésére irányuló indítványt visszautasítja.
+Az Alkotmánybíróság elrendeli e határozatának közzétételét a Magyar Közlönyben.
+I n d o k o l á s
+I.
+[1] A Fővárosi Törvényszék az előtte folyamatban lévő közigazgatási jogvita elbírálása iránti 105.K.707.375/2020/4.
+számú perben az Alkotmánybíróságról szóló 2011. évi CLI. törvény (a továbbiakban: Abtv.) 25. § (1) bekezdése
+alapján az Alkotmánybírósághoz 2021. február 18-án érkezett bírói kezdeményezéssel élt a Színház- és
+Filmművészeti Alapítványról, a Színház és Filmművészetért Alapítvány és a Színház és Filmművészeti
+Egyetem részére történő vagyonjuttatásról szóló 2020. évi LXXII. törvény (a továbbiakban: SZFE-törvény),
+a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 94. § (6) bekezdése ellen, azok
+alaptörvény-ellenességének megállapítását és megsemmisítését, valamint a támadott jogszabályok perbeli
+alkalmazhatóságának kizárását kérve.
+[2] Az indítványozó bírói tanács előadta, hogy az előtte folyamatban lévő ügy előzménye, hogy az Országgyűlés
+2019. március 19-én elfogadta az Nftv. módosításáról szóló 2019. évi XIX. törvényt, amely akként módosította
+az Nftv. 94. § (6) bekezdését, hogy a magán felsőoktatási intézmény alapító okirata az Nftv. általános szabályaitól
+eltérően úgy is rendelkezhet, hogy a fenntartó hagyja jóvá a felsőoktatási intézmény költségvetését, a számviteli
+rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát, intézményfejlesztési
+tervét, vagyongazdálkodási tervét, gazdálkodó szervezet alapítását, gazdálkodó szervezetben történő részesedés
+szerzését, valamint a fenntartó írja ki a rektori pályázatot. Ezt követően az Nftv., valamint az egyes kapcsolódó
+
+törvények módosításáról szóló 2020. évi XXXIII. törvény szintén módosította az Nftv. ugyanezen szakaszát
+és a „fenntartó hagyja jóvá” szövegrész helyébe a „fenntartó fogadja el” szöveg lépett, majd a felsőoktatás
+szabályozására vonatkozó és egyes kapcsolódó törvények módosításáról szóló 2020. évi CXLVIII. törvény alapján
+az Nftv. 94. § (6) bekezdésében az„intézményfejlesztési”terv szövegrész hatályát vesztette.
+[3] Az Országgyűlés 2020. július 3-án fogadta el a 2020. július 9-én hatályba lépett SZFE-törvényt. Az SZFE-törvény
+alapján az Országgyűlés felhívja a Kormányt, hogy az állam nevében tegye meg a szükséges intézkedéseket
+a Színház- és Filmművészetért Alapítvány (a továbbiakban: Alapítvány) közérdekű vagyonkezelő alapítvány
+formájában történő létrehozatalára. Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói
+jogok teljes körének gyakorlására az innovációs és technológiai miniszter (a továbbiakban: miniszter) kerüljön
+kijelölésre; az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki (SZFE-törvény 1. §). Az Alapítvány
+feladata oktatási intézmény, kiemelten a Színház- és Filmművészeti Egyetem (a továbbiakban: SZFE) alapítói,
+fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása,
+amelynek érdekében gazdasági tevékenysége keretében az alapító által rendelt, valamint az Alapítványhoz
+csatlakozók által nyújtott vagyont kezeli. Az SZFE-törvény 2020. szeptember 1-jén hatályba lépett 3. § (1) bekezdése
+az SZFE fenntartói jogát alapítói vagyoni juttatásként az Alapítvány tulajdonába adta. Az alapítói jogok gyakorlása
+tekintetében az SZFE-törvény 8. §-a az innovációért és technológiáért felelős minisztert jelöli ki, aki ezt a jogát
+2021. december 31-ig gyakorolja, 2022. január 1. után az Alapítvány kuratóriuma is gyakorolhatja az alapítói jogok
+teljes körét (SZFE-törvény 8. §).
+[4] Az Alapítvány 2020. augusztus 24-én elfogadta az SZFE Alapító Okiratát, valamint ugyanazon a napon
+a 2020. szeptember 1-jétől hatályos Szervezeti és Működési Szabályzatát (a továbbiakban: SZMSZ),
+amelyet ezt követően több alkalommal módosított. Az SZFE Hallgatói Önkormányzata keresettel támadta
+a kezdeményező bíróság előtt az SZMSZ-t, valamint kérte, hogy a bíróság kezdeményezze az Alkotmánybíróság
+eljárását az SZFE-törvény, valamint az Nftv. 94. § (6) bekezdése alaptörvény-ellenességének megállapítása és
+megsemmisítése iránt, az Alaptörvény B) cikk (1) bekezdésébe és a X. cikk (3) bekezdésébe ütközés miatt.
+[5] A kezdeményező bíróság álláspontja szerint az Alaptörvény és az Alkotmány egyetemi autonómiát érintő
+rendelkezései érdemben nem változtak, ezért a kezdeményezés szempontjából irányadónak tekinti elsősorban
+a 41/2005. (X. 27.) AB határozatban megfogalmazott megállapításokat.
+[6] Az egyetemi autonómia megvalósulásához nélkülözhetetlen, hogy a felsőoktatási intézmény a tudományos
+tevékenységgel közvetlenül összefüggő kérdésekben autonómiával rendelkezzen a végrehajtó hatalommal
+szemben. Ezen autonómia alapvető feltétele, hogy az intézmény független képviseleti szervvel rendelkezzen,
+a fenntartó képviselője nem veszélyeztetheti az intézmény autonómiáját, az egyetemi autonómia alanyai ugyanis
+az intézmény, az oktató, a kutató és a hallgató, illetve ezek közössége. Az egyetemi autonómiából kifolyólag
+a képviseleti szervet kell felhatalmazni norma- és szabályalkotásra, és garantálni kell emellett az érintettek
+jogorvoslathoz való jogát is. A szervezeti függetlenség a döntési jogosultságok, szervezeti hatáskörök
+összességének gyakorlását jelenti. Az intézményi autonómiához tartozik a gazdálkodási autonómia is. A jogosultak,
+azaz a tudomány művelői, csak akkor tudják indokolatlan befolyástól mentesen folytatni a tevékenységüket, ha
+azt a felsőoktatási intézmény szervezete, illetve az oktatást, a tudományt érintő döntések meghozatalának rendje
+kellő módon biztosítja. Nem tekinthető alkotmányosnak az a törvényi szabályozás, amely az önkormányzás jogának
+kiüresedéséhez vezet: a fenntartó számára az autonóm működést közvetlenül érintő jogosítványok adása, a túl
+széles körű felhatalmazás az intézményi autonómia megszűnését vonja maga után. A kezdeményező bíróság utalt
+továbbá a Magna Charta Unversitatum alapelveire, mely deklarálja az egyetemek autonómiáját és függetlenségét
+minden politikai, gazdasági és ideológiai hatalommal szemben.
+[7] A kezdeményező bíróság álláspontja szerint az Alaptörvényből levezethető intézményi függetlenség,
+illetve autonómia követelménye ellenére az SZFE-törvény és az Nftv. 94. § (6) bekezdése alapján elfogadott
+Alapító Okirat és SZMSZ a fenntartó számára teljes gazdasági és szervezeti kontrollt biztosít. A fenntartó
+fogadja el az intézményfejlesztési tervet, illetve annak részeként a kutatás-fejlesztési és innovációs stratégiát,
+az SZFE költségvetését, a számviteli rendelkezések alapján elkészített éves beszámolóját, az SZFE közhasznúsági
+beszámolóját és vagyongazdálkodási tervét, valamint az SZFE SZMSZ-ét. A fenntartó dönt gazdálkodó szervezet
+SZFE általi alapításáról, ilyen gazdálkodó szervezetben történő részesedés szerzéséről. A fenntartó írja ki továbbá
+– a szenátus véleményének ismeretében – a rektori pályázatot, kiadja a rektor és a kancellár munkaköri leírását is,
+a rektori tisztség betöltetlensége, a rektor lemondása, magasabb vezetői megbízásának megszűnése, valamint
+akadályoztatása esetén az általános rektorhelyettest, valamint az oktatási rektorhelyettest – sürgős esetben,
+vagy a szenátus lemondása vagy akadályoztatása esetén a szenátus véleményének bevárása nélkül – pályázati
+eljárás mellőzésével közvetlenül a fenntartó bízza meg, továbbá vonja vissza a megbízását, és gyakorolja felette
+
+a munkáltatói jogokat. Az osztályvezető tanárt a fenntartó által jóváhagyott nemzetközi pályázat alapján bízza
+meg a rektor, az oktatási-kutatási szervezeti egységet vezető intézetvezetőt a fenntartó egyetértésével bízza meg
+a rektor. A kezdeményező bíróság álláspontja szerint a korábban az SZFE független döntési kompetenciájába
+tartozó feladatkör a fenntartó hatáskörébe került. A kezdeményező bíróság álláspontja szerint a fenntartó
+az Nftv. 94. § (6) bekezdése által adott lehetőséggel élve az abban felsorolt valamennyi jogosultságot a saját
+hatáskörébe vonta. A bíróság szerint – utalva az Alkotmánybíróság gyakorlatára – az SZFE kuratóriuma nem
+a felsőoktatási intézmény önkormányzati szerve, így nem lehet felhatalmazni a felsőoktatási intézmény
+autonómiájával védett tudományos, oktatási és kutatási tevékenységet érintő, alapvető döntések meghozatalára.
+A felsőoktatási intézményt megillető döntési jogkörök ilyen koncentrációjú telepítése a fenntartóhoz a felsőoktatási
+intézmény autonómiájának elvonását jelenti, amivel a felsőoktatási intézmény léte, szervezeti, működési és
+gazdálkodási önállóságának az intézményi autonómiából eredő alapvető alkotmányos követelménye szenved
+sérelmet. A bíróság álláspontja szerint ezért az SZFE-törvény és az Nftv. 94. § (6) bekezdése az intézményi autonómia
+olyan szintű elvonására ad lehetőséget a fenntartónak, amely ellentétes az Alaptörvény X. cikk (3) bekezdésével.
+[8] A kezdeményező bíróság álláspontja szerint az SZFE-törvény tekintetében a 2020. július 8-i kihirdetéshez
+képest annak következő napon történő, valamint a vagyonjuttatásokra vonatkozó rendelkezések tekintetében
+a 2020. szeptember 1-jei hatálybalépés nem tekinthető elegendő felkészülési időnek, mert a törvény rendelkezései
+egy teljes intézményi modell- és fenntartóváltást írtak elő az SZFE működésében, amely ilyen rövid idő
+alatt a jogbiztonság sérelme nélkül nem megvalósítható. Ezért az SZFE-törvény a bíróság álláspontja szerint
+az Alaptörvény B) cikk (1) bekezdésével is ellentétes.
+[9] Az igazságügyi miniszter és a felsőoktatásért felelős miniszter az Abtv. 57. § (1b) bekezdésében foglaltak alapján
+tájékoztatta az Alkotmánybíróságot az üggyel kapcsolatos álláspontjáról, melyben kifejtették a modellváltás
+mögötti érveket, és kitértek arra, hogy a támadott szabályozás indoka a tulajdonosi felelősségből fakadó,
+intézményfenntartási kötelezettség fokozása. Utaltak továbbá arra, hogy a felsőoktatási autonómia a támadott
+SZFE-törvény kapcsán fel sem merül, mert az nem érinti a felsőoktatási intézményt, csak annyiban, hogy a fenntartó
+változott, és az önálló jogi személy fenntartó ezt az autonómiát tovább növeli.
+II.
+[10] 1. Az Alaptörvénynek a bírói kezdeményezéssel érintett rendelkezései:
+„B) cikk (1) Magyarország független, demokratikus jogállam.”
+„X. cikk (1) Magyarország biztosítja a tudományos kutatás és művészeti alkotás szabadságát, továbbá − a lehető
+legmagasabb szintű tudás megszerzése érdekében − a tanulás, valamint törvényben meghatározott keretek között
+a tanítás szabadságát.
+(2) Tudományos igazság kérdésében az állam nem jogosult dönteni, tudományos kutatások értékelésére kizárólag
+a tudomány művelői jogosultak.
+(3) Magyarország védi a Magyar Tudományos Akadémia és a Magyar Művészeti Akadémia tudományos és művészeti
+szabadságát. A felsőoktatási intézmények a kutatás és a tanítás tartalmát, módszereit illetően önállóak, szervezeti
+rendjüket törvény szabályozza. Az állami felsőoktatási intézmények gazdálkodási rendjét törvény keretei között
+a Kormány határozza meg, gazdálkodásukat a Kormány felügyeli.”
+„XI. cikk (1) Minden magyar állampolgárnak joga van a művelődéshez.
+(2) Magyarország ezt a jogot a közművelődés kiterjesztésével és általánossá tételével, az ingyenes és kötelező
+alapfokú, az ingyenes és mindenki számára hozzáférhető középfokú, valamint a képességei alapján mindenki
+számára hozzáférhető felsőfokú oktatással, továbbá az oktatásban részesülők törvényben meghatározottak szerinti
+anyagi támogatásával biztosítja.”
+[11] 2. A bírói kezdeményezésben felhívott Nftv. érintett rendelkezése:
+„94. § (6) A magán felsőoktatási intézmény alapító okirata a 12. § (3) bekezdésében és a 73. § (3) bekezdésében
+foglaltaktól eltérően úgy is rendelkezhet, hogy a fenntartó fogadja el a felsőoktatási intézmény költségvetését,
+a számviteli rendelkezések alapján elkészített éves beszámolóját, szervezeti és működési szabályzatát,
+vagyongazdálkodási tervét, gazdálkodó szervezet alapítását, gazdálkodó szervezetben történő részesedés szerzését,
+valamint a fenntartó írja ki a rektori pályázatot.”
+
+[12] 3. A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: Kvatv.)
+bírói kezdeményezéssel érintett rendelkezése:
+„22. § (4) Az alapítvány által fenntartott 1. melléklet szerinti felsőoktatási intézmény alapító okirata rendelkezhet
+úgy, hogy a fenntartó fogadja el a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján
+elkészített éves beszámolóját, szervezeti és működési szabályzatát, vagyongazdálkodási tervét, gazdálkodó
+szervezet alapítását, gazdálkodó szervezetben történő részesedés szerzését, valamint a fenntartó írja ki a rektori
+pályázatot, de a szenátusnak az alapító okiratban véleményezési vagy egyetértési jogot kell biztosítani.”
+III.
+[13] Az Alkotmánybíróság mindenekelőtt megvizsgálta, hogy a bírói kezdeményezés megfelel-e az Abtv. 25. és
+52. §-ában írt formai és tartalmi feltételeknek {3058/2015. (III. 31.) AB végzés, Indokolás [15]−[24]; 3242/2017. (X. 10.)
+AB határozat, Indokolás [7]; 3102/2018. (IV. 9.) AB határozat, Indokolás [18]}.
+[14] Az Abtv. 25. §-a értelmében a bíró – a bírósági eljárás felfüggesztése mellett – abban az esetben kezdeményezheti
+az Alaptörvény 24. cikk (2) bekezdés b) pontja alapján az Alkotmánybíróságnál a jogszabály vagy jogszabályi
+rendelkezés alaptörvény-ellenességének megállapítását, illetve az alaptörvény-ellenes jogszabály alkalmazásának
+kizárását, ha az előtte folyamatban lévő egyedi ügy elbírálása során olyan jogszabályt kell alkalmaznia, amelynek
+alaptörvény-ellenességét észleli, vagy alaptörvény-ellenességét az Alkotmánybíróság már megállapította.
+[15] Az Alkotmánybíróság gyakorlata szerint „[a] kérelem az Abtv. 52. §-ának (1) bekezdésében megkövetelt
+határozottságnak (applicatio certa) akkor felel meg, ha az (1b) bekezdésben felsorolt feltételeknek eleget tesz, így
+pontosan és egyértelműen megjelöli az indítvány indokait, az indítvány által támadott jogszabályt vagy jogszabályi
+rendelkezést, az Alaptörvény vagy nemzetközi szerződés megsértett rendelkezését. Az indítványnak indokolnia kell
+továbbá, hogy a sérelmezett jogszabály vagy jogszabályi rendelkezés miért ellentétes az Alaptörvény megjelölt
+rendelkezésével vagy a nemzetközi szerződéssel, továbbá kifejezett kérelmet kell tartalmaznia a támadott
+jogszabály vagy jogszabályi rendelkezés alaptörvény-ellenességének megállapítására és alkalmazása tilalmának
+kimondására. Nem alkalmas az indítvány az érdemi elbírálásra, ha félreérthetően jelöli meg az Alaptörvénynek
+azt a rendelkezését, amelyet sérülni vél {3175/2014. (VI. 18.) AB végzés, Indokolás [5]}, vagy pusztán megjelöli
+azt, de nem indokolja meg – nem tartalmaz részletes érvelést arra vonatkozóan –, hogy az Alaptörvény megjelölt
+rendelkezésével miért ellentétes a támadott jogszabály vagy jogszabályi rendelkezés [3136/2013. (VII. 2.)
+AB végzés, 3193/2014. (VII. 15.) AB végzés, 3226/2013. (XII. 12.) AB végzés]. Az elégtelen indokolás miatt akadálya
+az érdemi elbírálásnak az is, ha a támadott jogszabály vagy jogszabályi rendelkezés és az Alaptörvény megjelölt
+rendelkezése között nem állapítható meg összefüggés [3269/2012. (X. 4.) AB határozat, 12/2014. (IV. 10.)
+AB határozat, 3025/2014. (II. 17.) AB határozat, 37/2013. (XII. 5.) AB határozat, 3074/2013. (III. 14.) AB határozat] vagy
+az alkotmányjogi értelemben nem releváns [3009/2012. (VI. 21.) AB határozat].” {3058/2015. (III. 31.) AB végzés,
+Indokolás [19]}
+[16] Az Alkotmánybíróság megállapította, hogy a kezdeményezés az Nftv. 94. § (6) bekezdésével kapcsolatban több
+olyan fenntartói jogkört említ, amely jogkörök fenntartóhoz telepítésére az Nftv. támadott 94. § (6) bekezdése nem
+ad felhatalmazást. Az Alkotmánybíróság megállapította, hogy az alapító okiratnak nem az Nftv. 94. § (6) bekezdésén
+alapuló rendelkezései vizsgálatával szemben a határozottság követelménye nem teljesül, mert pusztán csak
+állítja a felsőoktatási intézményi autonómia sérelmét, de érdemi indokolást erre nézve a kezdeményezés nem
+tartalmaz. Az Alkotmánybíróság megjegyzi, hogy annak eldöntése, hogy a fenntartónak mire van az Nftv. alapján
+felhatalmazása, nem alkotmányossági kérdés, hanem a rendes bíróság törvényértelmezési hatáskörébe tartozik.
+[17] Az Alkotmánybíróság utal arra, hogy az Abtv. 52. § (2) bekezdése értelmében állandó gyakorlata szerint
+a határozottság követelményének minden támadott jogszabály vagy jogszabályi rendelkezés és az Alaptörvény
+minden felhívott rendelkezése vonatkozásában külön-külön teljesülnie kell {3136/2013. (VII. 2.) AB végzés,
+Indokolás [7]}.
+[18] Az Alkotmánybíróság megállapította, hogy a bírói kezdeményezés az Abtv. 25. §-ában, valamint az 52. § (1) és
+(1b) bekezdéseiben előírt, az Alkotmánybíróság 3058/2015. (III. 31.) AB végzésével értelmezett feltételeknek
+részben felel meg, mivel a kezdeményező előtt folyamatban levő per tárgyát képező alapító okirat megalkotása
+az Nftv. 94. § (6) bekezdésén alapul, a per felperese a szenátusban törvény alapján képviselettel rendelkező
+szervezet, ugyanakkor az SZFE-törvény az ügyben az alperes kuratóriumot a fenntartói jogok gyakorlására
+jelölte ki. Az Alkotmánybíróság megállapította, hogy a „bírói kezdeményezés mint normakontroll »egyedi vagy
+konkrét« jellege az absztrakt utólagos normakontrollhoz képest annyiban szűkebb, hogy az indítványozó bíró csak
+az ügyben alkalmazott jogszabályt támadhatja meg, és részletesen meg kell indokolnia, hogy valóban kell azt
+
+az adott ügyben alkalmaznia. Csak ezzel biztosítható ugyanis a kezdeményezés egyedi – konkrét – normakontroll
+jellege.” {3193/2014. (VII. 15.) AB végzés, Indokolás [7]}. Az Alkotmánybíróság megállapította, hogy az SZFE-törvény
+az indítványban foglaltak alapján nem minősül az ügyben alkalmazandó normának, mert a támadott fenntartói
+hatáskörök nem az SZFE-törvényen, hanem az Nftv. támadott rendelkezésén alapulnak {3058/2015. (III. 31.)
+AB végzés, Indokolás [22]}.
+[19] Ezen túlmenően a kezdeményező bírói tanács intézkedett az eljárás felfüggesztése iránt, és az indítvány határozott
+kérelmet tartalmaz, valamint az Alaptörvény X. cikk (3) bekezdésére alapított érvelés vonatkozásában pontosan
+és egyértelműen megjelöli az indítvány indokait, a támadott jogszabályi rendelkezést, illetve az Alaptörvény
+megsértett rendelkezését. Az indítvány a X. cikk (3) bekezdése vonatkozásában megindokolja, hogy a sérelmezett
+jogszabályi rendelkezések miért ellentétesek az Alaptörvénnyel, továbbá kifejezett kérelmet tartalmaz a támadott
+jogszabályi rendelkezés alaptörvény-ellenességének megállapítására és alkalmazási tilalom kimondására.
+IV.
+[20] A bírói kezdeményezés nem megalapozott.
+[21] A kezdeményezés tárgya az SZFE mint felsőoktatási intézmény és a fenntartói jogokat gyakorló közfeladatot ellátó
+közérdekű vagyonkezelői alapítvány, annak kuratóriuma (a továbbiakban: fenntartó) közötti viszony.
+[22] 1. Az Alaptörvény XI. cikk (1) bekezdése szerint minden magyar állampolgárnak joga van a művelődéshez.
+Magyarország ezt a jogot a közművelődés kiterjesztésével és általánossá tételével, az ingyenes és kötelező
+alapfokú, az ingyenes és mindenki számára hozzáférhető középfokú, valamint a képességei alapján mindenki
+számára hozzáférhető felsőfokú oktatással, továbbá az oktatásban részesülők törvényben meghatározottak
+szerinti anyagi támogatásával biztosítja [Alaptörvény X. cikk (2) bekezdés]. Az Alkotmánybíróság a 32/2012. (VII. 4.)
+AB határozatban megállapította, hogy egyes, a felsőfokú oktatásra vonatkozó szabályok a művelődéshez való jog
+érvényesülésének lényeges garanciáját jelentik. A képességei alapján mindenki számára hozzáférhető felsőfokú
+oktatást az állam elsősorban a felsőoktatási intézményeken keresztül biztosítja. A felsőoktatási intézményekre
+vonatkozó szabályok összességében a művelődéshez való jog részét képező felsőfokú oktatási lehetőség olyan
+intézményi oldalát jelentik, ahol a felsőfokú oktatás igénybevételére a művelődéshez való jog jogosultjainak
+lehetősége nyílik.
+[23] A felsőfokú oktatásra mindemellett az Alaptörvény X. cikke is vonatkozik. Az Alaptörvény X. cikk (1) bekezdése
+alapján Magyarország biztosítja a tudományos kutatás és művészeti alkotás szabadságát, továbbá − a lehető
+legmagasabb szintű tudás megszerzése érdekében − a tanulás, valamint törvényben meghatározott keretek
+között a tanítás szabadságát. Az Alaptörvény X. cikk (3) bekezdése biztosítja a felsőoktatási intézmények
+tudományos-oktatási autonómiáját, amikor kimondja, hogy a felsőoktatási intézmények a kutatás és a tanítás
+tartalmát, módszereit illetően önállóak, szervezeti rendjüket törvény szabályozza. A felsőoktatási intézmények
+önállóságát, autonómiáját a kutatás (tudományos) és tanítás (oktatás) tartalmára nézve mondja ki az Alaptörvény.
+Ezt az önállóságot a felsőoktatási intézmények kutatási szabadságát illetően kiteljesíti az Alaptörvény X. cikk
+(2) bekezdése, mely szerint tudományos igazság kérdésében az állam nem jogosult dönteni, tudományos
+kutatások értékelésére kizárólag a tudomány művelői jogosultak. Az állam számára az Alaptörvény ezen
+szakasza a tudományos kutatások értékelésére vonatkozó általános tartózkodási kötelezettséget mond ki, amely
+értelemszerűen vonatkozik a felsőoktatási intézmények kutatási tevékenységével szembeni tartózkodásra is.
+[24] A felsőoktatási intézmények kutatási-tanítási önállósága akkor tud érvényesülni, ha ehhez megfelelő
+garanciarendszer társul. A garanciarendszer elsősorban a felsőoktatási intézménnyel szemben érvényesül, valamint
+ezt maga az intézmény a belső működésében önmaga is biztosítani köteles, ezért a felsőoktatási intézmények
+kutatási-tanítási önállósága szükségképpen feltételezi olyan szabályok létét, amelyek ezt képesek garantálni.
+A felsőoktatási intézmények kutatási-tanítási autonómiájának tiszteletben tartása az állam részéről tehát nemcsak
+azt követeli meg, hogy a kutatási-tanítási önállóság egyéni szinten megvalósuljon, hanem pozitív kötelezettsége
+is van az államnak; olyan intézményi rendszert kell kiépítenie, amely az önállóság érvényesülését a felsőoktatási
+intézményekkel szemben és a felsőoktatási intézményben biztosítja. Az államot intézményvédelmi kötelezettség
+terheli, amely a felsőoktatási intézmények olyan szabályozásában ölt testet, amely a kutatási-tanítási autonómia
+külső befolyástól mentes érvényesülését biztosítja.
+[25] Az intézményi, szervezeti garanciarendszer kiépítése nem csak a kutatási-tanítási autonómia biztosításának a kerete.
+A kutatási-tanítási autonómia érvényesüléséhez szükséges intézményrendszer az Alaptörvény XI. cikk (2) bekezdése
+
+alanyai számára, azaz a felsőoktatást igénybe vevők számára a felsőfokú oktatás igénybevételének intézményi
+garanciája, ugyanis a felsőfokú oktatás lehetőségét az állam felsőoktatási intézményeken keresztül biztosítja.
+[26] A befolyásolástól mentes kutatási-oktatási autonómia és a felsőoktatáshoz való jog biztosítása a felsőoktatási
+intézményeken keresztül valósul meg. A felsőoktatási intézmények akkor tudják garantálni a felsőoktatás alanyai
+számára a külső befolyásolástól mentes kutatási-tanítási tevékenységet, ha ehhez megfelelő garanciák társulnak.
+A felsőoktatási intézményeken belüli garanciarendszer érvényesülését a szervezetrendszer, a szervezeti rend
+képes eredendően biztosítani. A felsőoktatási autonómia nem önmagáért való, az csak megfelelő intézményi
+keretek között működhet. Az intézményi kereteken belül olyan szervezeti szabályozást kell megalkotni, amely
+biztosítja az autonómia hordozója álláspontjának kifejtését, artikulálását és azt, hogy a kutatási-oktatási önállóság
+gyakorlójaként a működésükre vonatkozó szabályok megalkotásában részt vegyen. A szervezeti keretnek tehát
+alkalmasnak kell lennie arra, hogy a felsőoktatási intézmények Alaptörvényben biztosított önállóságának jogosultjai
+az önállóság biztosítékaként érdemi befolyással bírjanak a működésükre vonatkozó szabályok kialakításában.
+[27] Az Alaptörvényben foglalt felsőoktatási intézményt megillető kutatási-oktatási autonómia gyakorlói a felsőoktatási
+intézmény oktatói és kutatói; továbbá a művelődéshez való joggal fennálló szoros összefüggés okán a felsőoktatási
+autonómia gyakorlói a felsőoktatásban nyújtott képzéseken részt vevő hallgatók. A felsőoktatási intézmények
+szervezeti rendjével szemben az Alaptörvény X. cikk (3) bekezdéséből következő követelmény, hogy az biztosítsa
+azt, hogy a felsőoktatási autonómia alanyai befolyással bírjanak a felsőoktatási intézmény működésére, a kutatási-
+oktatási autonómia kapcsán kifejthessék álláspontjukat, véleményeiket ütköztethessék egymással és a kutatási-
+oktatási autonómiához kapcsolódó kérdésekben döntési jogosultságokkal rendelkezzenek. Ezen jog gyakorlására
+az intézményen belül olyan szervezeti rendet kell működtetni, amelyben a felsőoktatási intézménnyel kapcsolatos
+döntésekben az autonómia gyakorlóinak befolyásolása van. Amennyiben ez képviseleti elven kerül megszervezésre,
+akkor a képviseleti elven (például választás útján) felépülő intézményi szerv összetételének képviselnie kell
+az autonómia gyakorlóit, azaz az ilyen szerv felhatalmazása az autonómia gyakorlóitól kell származzon.
+A felsőoktatási intézményekre vonatkozó hatályos ágazati jogszabály, az Nftv. ezt a követelményt teljesíti akkor,
+amikor kimondja, hogy a szenátust illetik meg a felsőoktatási intézmény Alaptörvényben rögzített jogosultságai
+[Nftv. 12. § (2) bekezdés].
+[28] Az Alaptörvény X. cikk (3) bekezdése a szervezeti renddel szemben a törvényi szabályozás követelményét támasztja.
+Ebből következően az állam szabályozási kötelezettsége olyan törvényi rendelkezések megalkotása, amely
+a felsőoktatási intézmények kutatási-oktatási önállóságát biztosítja [vö. Nftv. 1. § (1) bekezdés]. Az Alaptörvény
+X. cikke a fenntartó szempontjából nem tesz különbséget felsőoktatási intézmények között, kivéve a gazdálkodás
+tekintetében, amikor kimondja, hogy az állami felsőoktatási intézmények gazdálkodási rendjét törvény keretei
+között a Kormány határozza meg, gazdálkodásukat a Kormány felügyeli.
+[29] A felsőoktatási autonómia lényegi tartalma az Alaptörvény X. cikk (3) bekezdése alapján a kutatási-oktatási
+tevékenység önállósága, amelyhez szükségképpen hozzátartozik azt ezt érvényesítő és garantáló szervezeti
+szabályozás, amely a kutatási-oktatási tevékenységhez kapcsolódó kérdésekben döntési jogot, befolyásolási
+lehetőséget biztosít az autonómia letéteményesének, a felsőoktatási intézmény hallgatóinak, oktatóinak és
+kutatóinak. Másképpen megfogalmazva: a kutatási-oktatási autonómia nem gyakorolható szervezetrendszer és
+szervezeti jogok nélkül.
+[30] Összefoglalva: a művelődéshez való jog felsőoktatási érvényesülésének biztosításaként az állam feladata olyan
+szabályozási környezet kiépítése, amely a felsőoktatási intézmények számára külső befolyásolástól mentes kutatási-
+oktatási önállóságot nyújt; és ennek szervezeti biztosítékát a szervezeti rend törvényi szabályozása nyújtja.
+V.
+[31] Az Alkotmánybíróság ezt követően a bírói kezdeményezéshez kapcsolódó szervezeti szabályozást tekintette át.
+[32] 1. A felsőoktatási intézményrendszerre vonatkozó alapvető követelményeket az Nftv. határozza meg [vö. Nftv. 1. §
+(1) bekezdés]. A kezdeményezés alapjául szolgáló eljárás alperese a Színház- és Filmművészeti Egyetemért
+alapítvány kuratóriuma (a továbbiakban: kuratórium). A kuratórium az SZFE fenntartója (SZFE-törvény 2. §).
+Az Nftv. szerint felsőoktatási intézményt önállóan vagy más jogosulttal együttesen a magyar állam, országos
+nemzetiségi önkormányzat, egyházi jogi személy, Magyarország területén székhellyel rendelkező gazdasági
+társaság, a Magyarországon nyilvántartásba vett alapítvány, vagyonkezelő alapítvány, közalapítvány vagy vallási
+egyesület alapíthat [Nftv. 4. § (1) bekezdés]. Az Nftv. deklarálja azt, hogy az alapítói jogok gyakorlása nem sértheti
+a felsőoktatási intézmények Alaptörvényben és az Nftv.-ben biztosított önállóságát [Nftv. 4. § (5) bekezdés].
+
+[33] Az Nftv. lehetővé teszi azt, hogy a felsőoktatási intézmény alapítója az alapítói jogokat átruházza.
+Az Nftv. különbséget tesz alapítói és fenntartói jogok között, melynek a megosztására a felsőoktatási
+intézményeknek lehetősége van, azzal, hogy ezekről az állam közhiteles nyilvántartást vezet transzparens módon.
+A felsőoktatási intézmény fenntartói irányításának célja a felsőoktatási intézmény működéséhez szükséges
+feltételekről való gondoskodás [Nftv. 73. § (1) bekezdés]. A felsőoktatási intézmény folyamatos működési feltétele
+– többek között – a fenntartó általi működtetés, melynek hiánya a felsőoktatási intézmény megszüntetését jelenti.
+A fenntartói jogok az Nftv. szerint főszabály szerint azonosak, függetlenül attól, hogy ki látja el őket.
+[34] A fenntartó az Nftv. 73. § (3) bekezdése alapján a) saját hatáskörben − állami felsőoktatási intézmény esetén
+az államháztartásról szóló 2011. évi CXCV. törvényben írt egyetértéshez nem kötött intézkedésével − kiadja,
+illetve módosítja a felsőoktatási intézmény alapító okiratát; b) közli a felsőoktatási intézmény költségvetésének
+kereteit (főösszegeit), és értékeli a számviteli rendelkezések alapján elkészített éves beszámolóját; c) megvizsgálja
+ca) a felsőoktatási intézmény szervezeti és működési szabályzatát, cb) a felsőoktatási intézmény intézményfejlesztési
+tervét, cc) a felsőoktatási intézmény költségvetését; d) ellenőrzi da) a felsőoktatási intézmény gazdálkodását,
+működésének törvényességét, hatékonyságát, db) a szakmai munka eredményességét; e) kezdeményezi
+a rektor megbízását és felmentését, továbbá gyakorolja felette a munkáltatói jogokat; f) nem állami felsőoktatási
+intézményben megbízza az elnököt és a kancellárt − utóbbi hiányában a magasabb vezetőként (vezető állású
+munkavállalóként) foglalkoztatott gazdasági vezetőt −, illetve visszavonja a megbízásukat; g) gondoskodik
+a költségvetési szervként működő felsőoktatási intézmény éves költségvetési beszámolójának ellenőrzéséről;
+h) hozzájárulása szükséges a felsőoktatási intézmény ha) hatáskörében történő rendszeres pénzjuttatással járó
+cím, elismerés alapításához; elismerés, cím alapján rendszeres pénzjuttatás folyósításához, hb) éves képzési
+tevékenységének − különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos
+hallgatói kapacitás − kialakításához; i) a felsőoktatási intézmény működése, gazdálkodása ellenőrzése céljából
+jogosult az intézmény tanulmányi, gazdálkodási, illetve egyéb nyilvántartási adataihoz való hozzáférésre;
+j) jóváhagyásával határozza meg a felsőoktatási intézmény az intézményben folytatott képzés költségét;
+k) gyakorolja az állami felsőoktatási intézményben a konzisztórium tagjainak delegálásával, megbízásával,
+visszahívásával, a megbízás megszüntetésével kapcsolatos döntési hatásköröket; valamint a fenntartó a nemzetiségi
+képzés tekintetében hozott döntéseihez beszerzi az Országos Nemzetiségi Tanács véleményét.
+[35] A fenntartót a felsőoktatási intézmény működésével kapcsolatban ellenőrzési kötelezettség terheli, és
+a felsőoktatási intézmény törvényes működésének biztosítása érdekében külön ellenőrzési kötelezettsége van
+[Nftv. 73. § (4)–(5) bekezdés]. Az általános előírásokon túl az Nftv. az egyes fenntartók esetén további
+kötelezettségeket fogalmaz meg. Mindez azt jelenti, hogy a felsőoktatási intézmények fenntartóinak
+feladata a stratégiai irányításban való közreműködés, a működés jogszerűségi felügyelete és a működtetés
+finanszírozása. A fenntartói irányítás – mint irányítási jogkör – a felsőoktatási intézményen kívül irányítást jelenti.
+Az Alaptörvényben biztosított autonómia a felsőoktatási intézményt illeti meg, így a fenntartói irányítás nem
+terjedhet ki olyan területen való kizárólagos döntésre, amelyben a felsőoktatási intézményt önállósági illeti meg.
+Ezt a követelményt képezi le az Nftv., amely kimondja, hogy a fenntartói irányítás nem sértheti a felsőoktatási
+intézmény − a képzés és kutatás tudományos tárgyával és tartalmával kapcsolatos kérdések tekintetében
+biztosított − önállóságát. A felsőoktatási intézményi autonómia letéteményesét (szenátust) perindítási jog illeti meg
+arra az esetre, ha a fenntartói intézkedés a felsőoktatási intézmény Nftv.-ben biztosított önállóságát sérti [Nftv. 75. §
+(1) bekezdés].
+[36] 2. Az Alaptörvény a felsőoktatási intézmények autonómiáját védő rendelkezéséből és abból, hogy az Alaptörvény
+alapján a felsőoktatási intézményrendszer működtetése a művelődéshez való jog érvényesülésének egyik
+eszköze, az következik, hogy az Alaptörvényben biztosított jogok jogosultjai gyakorolják a felsőoktatási
+intézményt megillető, Alaptörvényből eredő jogokat. A felsőoktatási intézmény olyan szerve tekinthető ezen
+jogok gyakorlójának, amelyben a döntéseket a felsőoktatási autonómia jogosultjai hozzák, vagy a döntések
+meghozatala visszavezethető a felsőoktatási autonómia gyakorlóira. Az Nftv. ilyen testületnek a szenátust tekinti,
+amely az Nftv. szerint az Alaptörvényből eredő jogok gyakorlója a felsőoktatási intézményen belül [Nftv. 12. §
+(2) bekezdés]. A szenátus tagjai választás útján nyerik el megbízásukat, és az Nftv. szenátusi összetétellel kapcsolatos
+rendelkezései biztosítják azt, hogy a szenátus tagjai a felsőoktatási autonómia letéteményeseit képviseljék.
+[37] Az Nftv. alapján a szenátus a) határozza meg a felsőoktatási intézmény képzési és kutatási feladatait, és ellenőrzi
+azok végrehajtását; b) állapítja meg saját működésének rendjét; c) fogadja el − középtávra, legalább négyéves
+időszakra, évenkénti bontásban meghatározva a végrehajtás feladatait − az intézményfejlesztési tervet, illetve
+annak részeként a kutatási-fejlesztési innovációs stratégiát; d) javaslatot tesz a rektori pályázati felhívás tartalmára,
+
+elbírálja a rektori pályázatokat és megválasztja a rektorjelöltet, továbbá értékeli a rektor vezetői tevékenységét;
+e) fogadja el az intézmény ea) képzési programját, eb) szervezeti és működési szabályzatát, doktori szabályzatát,
+ed) a fenntartó által meghatározott keretek között költségvetését, ee) a számviteli rendelkezések alapján elkészített
+éves beszámolóját; f) határozza meg az intézményben fa) a hallgatói tanácsadás rendszerét, fb) az oktatói munka
+hallgatói véleményezési rendszerét; g) a fenntartó egyetértésével dönt gb) az intézmény vagyongazdálkodási
+tervéről, gc) gazdálkodó szervezet alapításáról, gazdálkodó szervezetben részesedés szerzéséről; h) a szenátus dönt
+továbbá hb) a tudományos tanács létrehozásáról, tagjainak és elnökének megválasztásáról, hc) az oktatói, kutatói
+és vezetői pályázatok rangsorolásáról, címek, kitüntetések adományozásáról, hd) a doktori iskola létesítéséről,
+megszüntetéséről és a doktori képzés indításáról, he) nemzeti felsőoktatási ösztöndíj adományozásának
+kezdeményezéséről, hf) képzés indításának, illetve megszüntetésének kezdeményezéséről.
+[38] 3. A bírói kezdeményezés tárgya az Nftv. azon szabálya, amely az egyes fenntartókhoz képest speciális
+rendelkezéseket ír elő. Az Nftv. 96. § (6) bekezdése alapján „a magán felsőoktatási intézmény alapító okirata
+a(z Nftv.) 12. § (3) bekezdésében és a 73. § (3) bekezdésében foglaltaktól eltérően úgy is rendelkezhet, hogy
+a fenntartó fogadja el a felsőoktatási intézmény költségvetését, a számviteli rendelkezések alapján elkészített
+éves beszámolóját, szervezeti és működési szabályzatát, vagyongazdálkodási tervét, gazdálkodó szervezet
+alapítását, gazdálkodó szervezetben történő részesedés szerzését, valamint a fenntartó írja ki a rektori pályázatot”.
+Az Nftv. a felsőoktatási intézmények egyik formáját tekintve lehetőséget ad arra az alapítónak (fenntartónak),
+hogy olyan tárgyban hozzon – az alapító okirat felhatalmazása alapján – döntést, amely az Nftv. főszabálya szerint
+a szenátus hatásköre. A kezdeményező bíróság álláspontja szerint az érintett döntési hatáskörök a felsőoktatási
+autonómia érvényesülését biztosító hatáskörök, ezért az olyan döntés, melyben az autonómia letéteményese nem
+működik közre, sérti a felsőoktatási intézmény autonómiát.
+[39] Az Alkotmánybíróság az érdemi vizsgálat során észlelte, hogy a kezdeményezéssel kapcsolatban az Országgyűlés
+elfogadta a Kvatv.-t, amelynek 22. § (4) bekezdése az Nftv. 94. § (6) bekezdésében foglalt döntési jogosítványokat
+a fenntartó úgy gyakorolhatja, hogy „a szenátusnak az alapító okiratban véleményezési vagy egyetértési jogot kell
+biztosítani” [Kvatv. 22. § (4) bekezdés]. Az új szabály a kezdeményezéssel érintett közfeladatot ellátó közérdekű
+vagyonkezelő alapítványra is vonatkozik a Kvatv. 1. melléklet 27. sora alapján. A fenntartó jogi személy alapító
+okiratát a törvény hatálybalépését követő legkésőbb 6 hónapon belül kell módosítani [Kvatv. 31. § (1) bekezdés].
+[40] Az indítványozó által felvetett alkotmányossági problémára okot adó jogszabályi környezetet a jogalkotó
+az időközben megalkotott Kvatv. vonatkozó rendelkezésével megváltoztatta. Az Alkotmánybíróság megállapítja,
+hogy a módosított törvény alapján a felsőoktatási autonómia letéteményese az Nftv.-ben nevesített azon
+jogkörökkel kapcsolatban, melyek korábban a kuratórium hatáskörébe tartoztak – az alapító okirat rendelkezései
+szerint – véleményezési vagy egyetértési jogot gyakorol. Az eljáró bíróság azért tartotta alaptörvény-ellenesnek
+a támadott rendelkezést, mert a kuratóriumot a támadott szabály olyan jogkörök gyakorlására hatalmazta fel, amely
+a felsőoktatási intézményi autonómia által védett tudományos, oktatási és kutatási tevékenységét érintik. Abból
+fakadóan, hogy a felsőoktatási intézmény oktatási-kutatási önállóságának letéteményesei a döntésre jogosult
+testületben nem rendelkeznek képviselettel, a hatáskörök gyakorlására feljogosító Nftv.-beli szabály az indítványozó
+szerint sérti a felsőoktatási intézmény Alaptörvényben védett autonómiáját.
+[41] 4. Az Alkotmánybíróság megállapítja, hogy a fenntartói jogkör gyakorlása és a felsőoktatási intézmény szenátusának
+döntési hatásköreinél az Nftv. olyan szabályozást követ, amely egyes kérdésekben a fenntartó (kuratórium) önálló
+döntését, más esetekben a szenátus önálló döntését, végül a fenntartónak a szenátus közreműködésével hozott
+közös döntését írja elő. Az Alaptörvény X. cikk (3) bekezdésében biztosított intézményi autonómia és a felsőoktatási
+intézményrendszer fenntartásának kötelezettsége egy közös célt követ: a felsőoktatáshoz való jog biztosítását.
+Ebből következően az állam feladata olyan intézményrendszert kialakítani, amely a felsőoktatás működését
+és az autonómia érvényesülését egyaránt biztosítja. Az Alaptörvény X. cikk (3) bekezdéséből következően
+az intézményi megoldások több fajtája levezethető azzal a feltétellel, hogy az Alaptörvény X. cikk (3) bekezdésében
+biztosított felsőoktatási oktatási-kutatási önállóság nem sérülhet. Az Alkotmánybíróság utal ugyanakkor e helyütt
+arra, hogy a felsőoktatási intézményrendszert nem csak a felsőoktatási intézmények működtetik. A felsőoktatási
+intézményrendszer minősége, az oktatás-kutatási szabadság biztosítása számos a felsőoktatási intézményen belüli
+és kívüli intézmény közreműködésével valósul meg. A felsőoktatási intézményrendszeren kívüli külső szerv látja el
+a felsőoktatási igazgatási feladatokat (Oktatási Hivatal), független testületként minőségellenőrzést végez a Magyar
+Akkreditációs Bizottság, végső soron pedig külső intézménynek minősül az Országgyűlés is, amelynek a döntése
+szükséges a felsőoktatási intézmény állami elismeréséhez vagy megszűnéséhez, és ilyen külső közreműködő
+a köztársasági elnök is, aki az egyetemi tanárokat és rektorokat kinevezi. A felsőoktatási intézményrendszer
+
+belső intézményi oldalával szemben támasztott követelmények alapján (például állandó oktatói kar, állandó
+székhely) kaphat a felsőoktatási intézmény működési engedélyt, melynek hiányában nem végezhet felsőoktatási
+tevékenységet. A fenntartói jogkört gyakorló kuratórium és a felsőoktatási intézmény közös feladata és közös
+felelőssége a felsőoktatási intézmény működési hatékonyságának és oktatási-kutatási minőségének biztosítása.
+A bírói kezdeményezéssel érintett felsőoktatási intézmény kuratóriuma és a szenátus ebben a tekintetben azonos
+érdekállású testületeknek tekinthetők. Nem létezhet fenntartó autonóm felsőoktatási intézmény hiányában, és
+olyan autonóm felsőoktatási intézmény sem, amelynek a működését a fenntartó nem tudja biztosítani.
+[42] Az Alaptörvény X. cikk (3) bekezdésében biztosított felsőoktatási autonómia védelmét olyan szervezeti szabályozás
+biztosítja, amely az autonómia letéteményesének érdemi befolyást biztosít az autonómia által érintett döntésekre.
+Az Alaptörvény X. cikk (3) bekezdésével csak olyan szabályozás állhat összhangban, amely a felsőoktatási
+autonómiát biztosítja, ugyanakkor ez nem jelenti azt, hogy a felsőoktatási intézménnyel kapcsolatos minden döntés
+szükségképpen a felsőoktatási autonómia alanyainak képviselői hozhatnak csak meg. A döntések különböző módon
+érinthetik a felsőoktatási autonómiát, így a szenátus hatásköre is hatáskörről hatáskörre vizsgálandó.
+[43] 5. Az Alkotmánybíróság ezt követően a támadott szabályozásban érintett egyes hatáskörök és a felsőoktatási
+intézmények autonómiájának kapcsolatát tekintette át.
+[44] A költségvetés elfogadása a költségvetésről hozott végső döntés. Az Nftv. általános szabályai szerint a fenntartó
+közli a felsőoktatási intézmény költségvetésének kereteit (főösszegeit) [Nftv. 73. § (3) bekezdés a) pont].
+A szenátus ezek alapján tudja meghatározni a felsőoktatási intézmény költségvetését. Ebből fakadóan az általános
+szabályok szerint is a szenátus legfeljebb a költségvetés keretein belül rendelkezik döntési kompetenciával.
+Az Nftv. támadott szabálya ehhez képest rendelkezik akként, hogy a fenntartó fogadja el a felsőoktatási
+intézmény költségvetését. A felsőoktatási autonómia oktatási-kutatási oldalához szükségképpen hozzátartozik
+az, hogy a felsőoktatási intézmény költségvetésének kialakítása során az autonómia letéteményesei befolyással
+rendelkezzenek. A felsőoktatási intézmény oktatási-kutatási feladataihoz rendelt költségvetési tételek megalkotása
+során a szenátusnak érdemi befolyást kell biztosítani megismerési és javaslattételi, konzultatív jogosítványokon
+keresztül, a szenátus közreműködése a költségvetés megalkotása során nem zárható ki. A felsőoktatási intézmény
+működtetéséért a fenntartó felelős, és a működtetés szükségképpen feltételezi azt, hogy az a mindenkori
+gazdálkodási keretek között észszerűen valósuljon meg. Az Alkotmánybíróság megállapítja, hogy a költségvetés
+végleges elfogadása a kuratórium részéről nem sérti a felsőoktatási intézmény autonómiáját, amennyiben
+a költségvetés részletes megalkotásában a szenátus érdemi megismerési, javaslattételi és véleményezési
+lehetőséggel bírt, ha ez biztosított, akkor van befolyása a szenátusnak a költségvetésre, mert annak tartalma
+változhat a szenátus javaslata, véleménye alapján. Az Alkotmánybíróság megállapítja azt, hogy a számviteli
+rendelkezések alapján elkészített éves beszámoló fenntartó általi elfogadása ugyanezen okokból szintén nem
+ütközik az Alaptörvény X. cikk (3) bekezdésébe.
+[45] A szervezeti és működési szabályzat a felsőoktatási intézmény működési rendjét döntően, de nem kizárólagosan
+meghatározó dokumentum. A felsőoktatási intézmény autonómiája szükségképpen feltételezi azt a szervezeti
+keretet, amely az autonómiát garantálni képes. A szervezeti keret megalkotása ugyan az Nftv. általános szabályai
+szerint olyan hatáskör, amelyet a szenátus gyakorol, ugyanakkor a fenntartó a szervezeti és működési szabályzat
+egységességét, teljességét, törvényességét és hatékonyságnak való megfelelőségét vizsgálja [Nftv. 73. §
+(4) bekezdés]. Az Alaptörvény X. cikk (3) bekezdése és XI. cikk (2) bekezdése alapján alkotmányos követelmény,
+hogy a szervezeti és működési szabályzat megalkotásában a felsőoktatási autonómia letéteményese érdemi módon
+közreműködjön. A szervezeti és működési szabályzat kialakítása nem önmagáért való szabályozási hatáskör, hanem
+a felsőoktatási intézmény belső felépítését és működését biztosítja, a különböző intézményen belüli érdekeket
+összehangolja. Ezzel együtt a szervezeti és működési szabályzatnak olyannak kell lennie, ami a felsőoktatási
+intézmény működtetésére alkalmas. A felsőoktatási intézmény működtetése a fenntartó feladata, azonban ezt nem
+gyakorolhatja úgy, hogy a felsőoktatási autonómiát biztosító szervezeti keretet ellehetetleníti, működésképtelenné
+teszi. A kuratórium és a szenátus közös érdeke a felsőoktatási intézmény sikeres és hatékony működtetése.
+Ez szükségképpen feltételezi, hogy az azonos érdek melletti konfliktusokat a két szerv kölcsönös együttműködése
+során képes legyen feloldani a felsőoktatási intézmény működőképességének biztosítása érdekében. Bármely szerv
+is jogosult kizárólagosan dönteni a szervezeti és működési rend elfogadásáról, az Alaptörvény XI. cikk és X. cikk
+(3) bekezdéséből fakadó felsőoktatási intézményrendszer fenntarthatóságának biztosításából és a felsőoktatási
+intézményi autonómia garantálásából következő alkotmányos követelmény, hogy a két szerv kölcsönösen
+együttműködve, a döntés érdemi előkészítésével és az ellentétes vélemények kifejtésének teret adva, azok
+
+megtárgyalásával tudja biztosítani. Az Alkotmánybíróság megállapítja, hogy mindezek biztosítása alkotmányos
+követelmény, melynek érvényre juttatásával a támadott szabály vizsgált fordulata nem alaptörvény-ellenes.
+[46] A rektor a felsőoktatási intézmény vezetője, törvényes képviselője és a szenátus elnöke. A támadott szabályozás
+szerint a rektori pályázatot a kuratórium írja ki. A rektor személyének kiválasztása több eljárási cselekményből áll.
+A rektor a felsőoktatási intézmény működésének első számú felelőse, a megválasztása és kinevezése a felsőoktatási
+intézmények működőképességének garanciája. A hatályos jogszabályok szigorú előírásokat támasztanak a rektor
+személyével szemben (például egyetemi tanári kinevezés), és a rektorokat a köztársasági elnök nevezi ki. A rektori
+pályázat kiírása mint eljárási mozzanat szükségképpen feltételezi azt, hogy a rektori pályázatra javaslattétel
+készüljön, mely az Nftv. alapján szenátusi jogkör. Az Alkotmánybíróság megállapítja, hogy a szenátusnak érdemi
+befolyást biztosító jogszabályi környezet alapján a támadott szabályozás nem alaptörvény-ellenes.
+[47] A vagyongazdálkodási terv elfogadása, a gazdasági társaságban való részvétel és gazdasági társaság alapítása
+mind olyan jogkörök, melyek az intézményi működtetéshez szorosan tartoznak. A felsőoktatási autonómia
+Alaptörvényben védett elemei közül leginkább a kutatási önállósággal hozható összefüggésbe. A kutatási
+eredmények mint szellemi alkotások felhasználhatósága és hasznosításai kapcsolatban állnak a vagyongazdálkodási
+tervvel, ugyanakkor az Alkotmánybíróság megállapítja, hogy a felsőoktatási intézmények autonómiája és
+a támadott szabályozás közötti kapcsolat közvetett, az intézmény működtetése és fenntartása mint feladat és
+felelősség a fenntartóé, a szenátus véleményezési jogosítványa e jogkörök gyakorlása során biztosítja azt, hogy
+a felsőoktatási intézmények önállósága ne sérüljön. Az Alkotmánybíróság ezért megállapítja, hogy a szabályozás
+ezen fordulata nem alaptörvény-ellenes.
+[48] Az Alkotmánybíróság – az Abtv. 46. § (3) bekezdése alapján – a rendelkező rész 1. pontja szerinti alkotmányos
+követelményt fűzte az Nftv. 94. § (6) bekezdéséhez és a Kvatv. 22. § (4) bekezdéséhez annak érdekében, hogy
+az Alaptörvény X. cikk (3) bekezdése részét képező felsőoktatási oktatási-kutatási autonómia, valamint a XI. cikk
+(2) bekezdése szerinti felsőoktatáshoz való jog érvényre jusson azokban a fenntartói döntési jogosítványokban,
+amelyek a felsőoktatási intézményi autonómiát érintik. Az alkotmányos követelmény alapján a fenntartónak
+a döntéshozatali eljárása során a mérlegelése körébe kell vonnia a szenátus indokolt javaslatát.
+[49] Habár az ügyben érintett felsőoktatási intézmény alapító okirata a szenátus véleményezési jogát a támadott
+szabályozással kapcsolatban már tartalmazza, az Alkotmánybíróság megállapítja, hogy az alkotmányos követelmény
+érvényesítésének eszköze az, hogy a fenntartói jogokat gyakorló intézmény a hatálybalépésre nyitva álló
+időtartamon belül mihamarabb eleget tesz az alapítói okirat módosítási kötelezettségének.
+VI.
+[50] Az Alkotmánybíróság a határozat Magyar Közlönyben való közzétételét az Abtv. 44. § (1) bekezdésének második
+mondata alapján rendelte el.
+Budapest, 2021. június 8.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+előadó alkotmánybíró
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Dienes-Oehm Egon dr. Handó Tünde
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Horváth Attila dr. Juhász Imre
+alkotmánybíró helyett alkotmánybíró helyett
+
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Juhász Miklós dr. Pokol Béla
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Salamon László dr. Schanda Balázs
+alkotmánybíró helyett alkotmánybíró helyett
+Dr. Sulyok Tamás s. k., Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke az Alkotmánybíróság elnöke
+az aláírásban akadályozott az aláírásban akadályozott
+dr. Szalay Péter dr. Szívós Mária
+alkotmánybíró helyett alkotmánybíró helyett
+Alkotmánybírósági ügyszám: III/384/2021.
+Dr. Juhász Imre alkotmánybíró párhuzamos indokolása
+[51] A többségi határozat rendelkező részével és nagyrészt az indokolásával is egyetértek, azonban úgy vélem, hogy
+az SZFE-törvényre vonatkozó indítványi elem visszautasítása, pontosabban annak indokolása félreértelmezhető.
+[52] A határozat rögzíti, hogy az Alkotmánybíróság gyakorlata szerint a bírói kezdeményezések esetében az indítványozó
+bíró csak az ügyben alkalmazott jogszabályt támadhatja meg – annak indokolása mellett, hogy azt miért kell
+alkalmaznia.
+[53] Majd megállapítja, hogy az SZFE-törvény egészének – a kellő idő elvének sérelme miatti – alaptörvény-ellenességét
+állító indítványi elem nem felel meg a határozottság követelményének, mivel az indítványozó nem jelölte meg
+pontosan, hogy a törvény mely rendelkezését tartja alaptörvény-ellenesnek.
+[54] A többségi döntés pedig e két premissza alapján levonja a konklúziót, ti., hogy az SZFE-törvény nem minősül
+az ügyben alkalmazandó normának.
+[55] Álláspontom szerint a fenti indokolás inkoherens, egyes elemei pedig nem feltétlenül következnek egymásból.
+Úgy vélem, külön kellett volna választani annak a kérdését, hogy kellett-e alkalmaznia a bíróságnak
+az SZFE-törvényt, attól a kérdéstől, hogy annak mely rendelkezését támadta az indítványozó.
+[56] Ha ugyanis a bíróságnak nem kellett alkalmaznia az SZFE-törvényt, akkor lényegtelen, hogy annak mely
+rendelkezését támadta, mindenképp vissza kell utasítani ezt az indítványi elemet.
+[57] Ha viszont alkalmaznia kellett, akkor az adott esetben az is megfelel a határozottság követelményének,
+ha az indítványozó a törvény egészét támadta, tekintettel arra, hogy a kellő idő elvének sérelmére hivatkozó
+indítványozónak ilyenkor az a problémája, hogy nem volt kellő idő az adott törvény (akár egésze) alkalmazására való
+felkészülésre.
+[58] A tárgyi ügyben tehát annak nem volt jelentősége, hogy az indítványozó nem jelölte meg konkrétan
+az SZFE-törvény általa sérelmesnek tartott, konkrét rendelkezéseit.
+[59] Álláspontom szerint a fentiekből következően elegendő lett volna annak megállapítása mellett visszautasítani
+az indítványt, hogy a bíróságnak az adott perben felmerült jogvitában nem kellett alkalmaznia az SZFE-törvényt.
+Ugyanis a többségi határozat indokolása úgy is értelmezhető, mintha határozott kérelem esetén lehetőség lett
+volna az SZFE-törvény érdemi vizsgálatára.
+[60] Természetesen ez utóbbi lehetőség sem zárható ki ipso iure, viszont az indítványt nem lehet egyszerre el- és
+visszautasítani.
+Budapest, 2021. június 8.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Juhász Imre
+alkotmánybíró helyett
+
+Dr. Szívós Mária alkotmánybíró párhuzamos indokolása
+[61] Egyetértek a határozattal, azonban az Abtv. 66. § (3) bekezdésében biztosított jogkörömnél fogva – az alábbiakban
+kifejtettek szerint – a határozathoz a következő párhuzamos indokolás csatolását tartom szükségesnek.
+[62] Mindenekelőtt kiemelném, hogy az ügy tárgyalását megelőzően kétely merült fel bennem a bírói kezdeményezés
+érdemi elbírálhatósága tekintetében. Álláspontom szerint ugyanis az indítványozó bíróság nem igazolta
+meggyőzően, hogy a támadott (teljes) SZFE-törvényt, valamint az Nftv. 94. § (6) bekezdését alkalmaznia kellene.
+Az indítvány pusztán kijelenti, hogy a támadott jogszabályok a bíróság előtt levő egyedi ügy elbírálása során
+alkalmazandók, ezt azonban nem támasztja alá (lásd indítvány utolsó oldala). A bírói kezdeményezésből az sem
+állapítható meg egyértelműen, hogy mi az eljárás tárgya, az eljáró bíróság minden valószínűség szerint azt vizsgálja,
+hogy az SZMSZ, illetve az alapító okirat kiadása során a hallgatói önkormányzat jogai sérültek-e.
+[63] Az indítvány elutasításával egyetértek, és megszavaztam a hivatalból megállapított alkotmányos követelményt is.
+Tettem ezt azzal együtt, vagy annak ellenére, hogy álláspontom szerint az Alkotmánybíróság nem kapcsolhat
+alkotmányos követelményt olyan jogszabályhoz, illetve jogszabályi rendelkezéshez, melyet az eljáró bíróság sem
+nem támad, sem nem alkalmaz. Az Abtv. 46. § (3) bekezdése ugyanis úgy fogalmaz, hogy az Alkotmánybíróság
+hatáskörei gyakorlása során folytatott eljárásában határozattal megállapíthatja azokat az Alaptörvény
+szabályozásából eredő és az Alaptörvény rendelkezéseit érvényre juttató alkotmányos követelményeket,
+amelyeknek a vizsgált, illetve a bírósági eljárásban alkalmazandó jogszabály alkalmazásának meg kell felelnie.
+Véleményem szerint az alkotmányos követelményben megjelenő Kvatv. 22. § (4) bekezdése sem a vizsgált, sem
+az alkalmazandó jogszabályi körbe nem tartozik, továbbá az indítványozó bíróság sem hivatkozik rá, ennek
+megfelelően számomra kétséges, hogy alkotmányos követelmény alapítható-e rá.
+[64] Ugyanakkor az alkotmányos követelményt azért szavaztam meg, mert annak érdemi tartalmát támogatni tudom,
+tekintettel arra, hogy az nem teremt egyetértési jogot a felsőoktatási intézmény szenátusa számára, csupán arra
+biztosít lehetőséget, hogy a fenntartó a döntéshozatali eljárása során a szenátus indokolt javaslatát a mérlegelése
+körébe vonja.
+Budapest, 2021. június 8.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Szívós Mária
+alkotmánybíró helyett
+Dr. Schanda Balázs alkotmánybíró párhuzamos indokolása
+[65] Egyetértek a határozatban megfogalmazott alkotmányos követelmény tartalmával, és a határozat rendelkező
+részének egyéb elemeivel is. Ugyanakkor az indokolás csak korlátozottan tárta fel a felsőoktatási autonómia
+tartalmát. Az Alaptörvény X. cikk (3) bekezdése rögzíti, hogy „a felsőoktatási intézmények a kutatás és a tanítás
+tartalmát, módszereit illetően önállóak, szervezeti rendjüket törvény szabályozza. Az állami felsőoktatási
+intézmények gazdálkodási rendjét törvény keretei között a Kormány határozza meg, gazdálkodásukat a Kormány
+felügyeli.” Ez a megfogalmazás – a korábbi Alkotmány hatálya alatt elfogadott 62/2009. (VI. 16.) AB határozattal
+egyezően – az egyetemek tudományos (a határozat szóhasználatában: oktatási-kutatási) autonómiáját állítja
+középpontba. Az Alaptörvény hivatkozott rendelkezéséből ugyanakkor nem vonható le olyan következtetés,
+hogy szervezeti kérdésekben a törvényhozónak, gazdálkodási kérdésekben pedig a Kormánynak szabad keze
+van; ha ugyanis a szervezeti és gazdálkodási kérdések érintik a felsőoktatási intézmény tudományos, oktatási
+vagy épp művészi tevékenységét, akkor az autonómia nem hagyható figyelmen kívül. Az Alaptörvény X. cikk
+(3) bekezdésében védett autonómiát korlátozó gazdasági vagy szervezeti rendelkezés csak akkor alkotmányos,
+ha e rendelkezés az alapjogok korlátozására irányadó, Alaptörvény I. cikk (3) bekezdésében rögzített feltételeknek
+eleget tesz. Ha viszont a szervezeti vagy gazdálkodási kérdés nem érinti a felsőoktatási intézmény tudományos
+önállóságát, a törvényhozónak, illetve a Kormánynak szabad keze van a kérdés eldöntésére. Minél szorosabb
+tehát a kapcsolat a szervezeti vagy gazdálkodási kérdés és a felsőoktatási intézmény oktatói, kutatói, művészi
+tevékenysége között, annál nagyobb teret kell adni az autonómiának, ugyanakkor kevésbé védett az autonómia,
+ha a szervezeti, gazdálkodási kérdés azzal csak érintőlegesen van kapcsolatban.
+
+Budapest, 2021. június 8.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Schanda Balázs
+alkotmánybíró helyett
+Dr. Pokol Béla alkotmánybíró különvéleménye
+[66] Nem támogatom a többségi határozatot. A most folyó egyetemi reform kapcsán elénk terjesztett indítvány módot
+adott volna, hogy az Alkotmánybíróság kifejtse álláspontját a tudomány szabadsága és az egyetemek működésének
+tudományhoz kötöttsége, illetve az e téren található problémák ügyében, de a határozat nem élt ezzel
+a lehetőséggel. Így azonban a kérdést leszűkítve az egyetemek szervezeti autonómiájára félre futott megítélésem
+szerint a testületi többség döntése.
+[67] Látni kell, hogy az egyetemek autonómiáját – szemben az alsóbb fokú oktatási szintekkel – az alapozza meg, hogy
+az európai fejlődésben az egyetemek voltak mindig a tudományos kutatás bázisai, még ha az utóbbi évtizedekben
+már nem egyetemhez tartozó kutatóintézetek is létrejöttek. Így az egyetemi autonómia tartalmilag a teljes
+mögöttes tudósközösséget és tudományos kutatási szabadságát védi. Ezt fejezi ki az Alaptörvény X. cikkének
+szerkezete, mely az (1) és (2) bekezdésében a tudományos kutatás szabadságát mondja ki, majd a (3) bekezdésében
+tér rá a felsőoktatási intézmények tudományos kutatásokat illető autonómiájára, mind az előbbiekből folyó
+derivátumra. Ez azonban azt jelenti, hogy az egyetemi autonómia csak a mögöttes tudományos közösség
+értékeléséhez kötöttség függvényében lehetséges, mert enélkül csak az egyetemi belső lobbik beltenyészeti
+működése uralja el az egyetemeket. A határozat indokolása azonban ezt a fontos alkotmányos összefüggést teljes
+mértékben kihagyja a helyzet tisztázásából, és ez kihat a rendelkező rész tartalmára is.
+[68] Hogy történik ez a mögöttes tudományos közösségi értékelés? A tudományelméletben és
+a tudományszociológiában már évtizedek óta bevetté vált, hogy tudósközösség a tudományos alkotások
+megidézésével és kritikájával értékeli egyes tagjait, és kinek mekkora az idézettségi mutatója, akkora
+a tudósteljesítménye. Akit nem idéznek az nulla, az tudósként nem teljesít. Ez a körülöttünk lévő világban már
+bevetté vált a természettudományokban és a műszaki tudományokban, és ezekben az egyetemi szektorokban
+itthon is jórészt így van. Ám az egyetemek társadalomtudományi, jogtudományi és művészeti szektoraiban
+ez teljesen idegen maradt. Így a rendszerváltás óta ezek az egyetemi szektorok az államhatalomtól már
+függetlenedve élik egyetemi autonómiájukat, de sajnálatos módon ugyanígy az alapul fekvő tudósközösségeiktől is.
+A mai egyetemi életet így jórészt a mögöttes tudósközösségektől elszakadt belső egyetemi lobbik dominanciája
+jellemzi. De a rendszerváltás óta annyi változás azért végbement, hogy a politikai versengés következtében ezek
+a hatalmi erőforrásokat is jelentő társadalomtudományi egyetemi intézmények átpolitizálódtak. Ez az egyetemi
+autonómia különösen nem érvényesül a nyugati világ szellemi életében dominanciát elért balliberális politikai
+táborral szemben.
+[69] Ez a politikai kötöttség a mai helyzetben csak úgy szüntethető meg, ha az egyetemi és akadémiai vezetést
+kiragadják törvényi úton a beltenyészeti egyetemi lobbik kezéből, másrészt az így a lobbiktól megszabadított
+egyetemi-akadémiai közösségeket alávetik a teljes tudósközösség értékelési mérésének. Példaként utalni lehet,
+hogy az átfogó német kulturális térségben – így Ausztriában is – a spontán módon kialakuló beltenyészet és
+belső lobbik elfojtására már generációk óta bevetté vált, hogy a professzori kinevezéshez szükséges tudományos
+minősítés, a habilitációs disszertáció megvédése után csak más egyetemre lehet kinevezni professzornak, és ehhez
+ott kell hagyni a felnevelő egyetemet. Az egyetemi karok belső lobbiképződése így már a kiindulópontjaiban
+megtörik.
+[70] Fontos még egyszer kiemelni, hogy a felsőoktatási, egyetemi autonómia alapvetően a tudományos kutatás
+szabadságán nyugszik, és ez annak derivátuma. Így ennek a letéteményesei nem az egyes egyetemek, hanem
+a tudományágak teljes tudósközösségei. Így, ha az autonómiára hivatkozva ezektől elszakadnak az egyes egyetemi
+karok, bezárkózva a beltenyészetbe és az „egyetemi bárói”, „akadémiai bárói” rendszerbe, akkor ez az autonómiával
+való visszaélést jelent.
+[71] A tudósközösségekhez visszakötést pedig az idézettségi mutatókhoz kötés valósít meg, és professzornak csak egy
+magas idézettségi mutatót elért egyetemi oktató alkalmas, illetve dékán, rektor, rektorhelyettes csak ilyen professzor
+lehet. A hazai egyetemi-tudományos szférában már létezik az idézettségi mutatók közhitelű nyilvántartása az utóbbi
+
+években a Magyar Tudományos Akadémia (a továbbiakban: MTA) kezelésében (ez a Magyar Tudományos Művek
+Tára, a továbbiakban: MTMT), csak éppen semmilyen szerepe nincs a társadalomtudományi és jogi egyetemeken,
+illetve a művészeti felsőoktatásban. Ezen kell változtatni, mert addig nem lehet az egyetemi beltenyészeti és
+lobbirendszert, illetve a politikai táborokhoz kötődést megszüntetni, amíg ez a reform nem megy végbe, és
+az egyetemeket, illetve az MTA-t nem kötik vissza a tudósközösségek egészéhez a mai kooptálási rendszer helyett.
+[72] A fenti elemzést szem előtt tartva azt lehet mondani, hogy a jelenlegi változtatás és egyetemi reform az alapítványi
+egyetem modellje felé a beltenyészeti egyetemi gárdáktól való elválasztásban kifejezetten üdvözlendő, de nem
+elégséges. Emellett még létre kellene hozni általában a hazai egyetemi rendszer egészében egy felsőoktatási
+törvényi módosítással az alkotmányosság érdekében, hogy az egyetemi docensi és egyetemi tanári kinevezéshez
+elengedhetetlen az MTA által működtetett nyilvántartás, az MTMT citációs indexének egy magasabb mutatója,
+és dékán, rektor, rektorhelyettes csak egyetemi tanárokból nevezhető ki. Az Alaptörvény X. cikkében foglalt
+tudományos kutatás szabadsága csak ilyen egyetemi intézményrendszer mellett biztosítható, és ezek szinte teljes
+hiánya felelős az itthoni társadalomtudományi és művészeti egyetemek, egyetemi karok átpolitizáltságáért, és
+sokszor a minimális tudományos teljesítményért az idézettségi mutatók szintjén is. De nem jobb a helyzet a jogi
+karok egy sor részlegénél sem.
+[73] Ha az Alkotmánybíróság a fent jelzett kiegészítést az Alaptörvény X. cikkének érvényesülésének érdekében mint
+alkotmányos mulasztást előírta volna a mostani ügy kapcsán, jelezve a mostani módosítás és egyetemi reform
+helyes irányát, de féloldalasságát, akkor nagyot léptünk volna előre a tudomány és a tudományegyetemek
+alkotmányosságának megteremtése felé. Ennek elmaradása miatt nem tudtam támogatni a mostani többségi
+határozatot, de legalább ehhez csatoltan e különvéleményben megjelenhetnek ezek a problémák is.
+Budapest, 2021. június 8.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnöke
+az aláírásban akadályozott
+dr. Pokol Béla
+alkotmánybíró helyett
+
+IX. Határozatok Tára
