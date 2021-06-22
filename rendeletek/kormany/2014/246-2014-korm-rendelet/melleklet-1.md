@@ -1,4 +1,4 @@
-## 31–32. §[^21]
+## 31–32. §[^23]
 
 1. melléklet a 246/2014. (IX. 29.) Korm. rendelethez
 
@@ -296,4 +296,4 @@
 
 ** A **-gal megjelölt hulladékot valamennyi hulladékgyűjtő udvarban kötelezően át kell venni a hulladékgyűjtő udvar gyűjtési kapacitásának erejéig.
 
-[^21]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

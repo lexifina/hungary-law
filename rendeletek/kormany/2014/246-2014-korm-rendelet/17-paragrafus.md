@@ -12,13 +12,13 @@ d) az üzemvitellel kapcsolatos rendkívüli események (így különösen az ü
 
 e) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(3)[^12] Az üzemeltető az üzemi gyűjtőhely részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemi gyűjtőhely csak az üzemeltetési szabályzatban foglaltak szerint, a környezetvédelmi hatóság általi jóváhagyását követően üzemeltethető.
+(3)[^12] Az üzemeltető az üzemi gyűjtőhely részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemi gyűjtőhely csak az üzemeltetési szabályzatban foglaltak szerint, a hulladékgazdálkodási hatóság általi jóváhagyását követően üzemeltethető.
 
-(4)[^13] A környezetvédelmi hatóság az üzemeltetési szabályzatot – a környezetvédelmi, természetvédelmi, valamint a vízügyi hatósági eljárások igazgatási szolgáltatási díjairól szóló KvVM rendelet szerinti hulladékgazdálkodási létesítmények működési szabályzat jóváhagyására vonatkozó –igazgatási szolgáltatási díj megfizetésének igazolását követően hagyja jóvá, ha
+(4)[^13] A hulladékgazdálkodási hatóság az üzemeltetési szabályzatot a hulladékgazdálkodási létesítmények működési szabályzat jóváhagyására vonatkozó igazgatási szolgáltatási díj megfizetésének igazolását követően hagyja jóvá, ha
 
-a)[^14] a használatbavételi eljárás hiányában az üzemeltető megváltozott személyére vagy technológiaváltozásra hivatkozva az üzemi gyűjtőhely üzemeltetője a környezetvédelmi hatóságtól ezt kérelmezi, vagy
+a)[^14] a használatbavételi eljárás hiányában az üzemeltető megváltozott személyére vagy technológiaváltozásra hivatkozva az üzemi gyűjtőhely üzemeltetője a hulladékgazdálkodási hatóságtól ezt kérelmezi, vagy
 
-b)[^15] a gyűjtött hulladék típusa, a gyűjtés módja, illetve körülményei miatti környezetvédelmi hatósági felszólításra az üzemeltető az üzemeltetési szabályzat jóváhagyását kérelmezi.
+b)[^15] a gyűjtött hulladék típusa, a gyűjtés módja, illetve körülményei miatti hulladékgazdálkodási hatósági felszólításra az üzemeltető az üzemeltetési szabályzat jóváhagyását kérelmezi.
 
 (5) Az üzemeltetési szabályzatban legalább
 
@@ -46,7 +46,7 @@ vonatkozó előírásokat kell meghatározni.
 
 (8) Veszélyes hulladék gyűjtése esetén az üzemi gyűjtőhely kialakítására és üzemeltetésére a 2. melléklet szerinti műszaki előírásokat is alkalmazni kell.
 
-[^12]: A 17. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (2) bekezdésével megállapított szöveg.
-[^13]: A 17. § (4) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^14]: A 17. § (4) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^15]: A 17. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^12]: A 17. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (2) bekezdésével megállapított, a 312/2021. (VI. 7.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^13]: A 17. § (4) bekezdés nyitó szövegrésze a 312/2021. (VI. 7.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^14]: A 17. § (4) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^15]: A 17. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés d) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
