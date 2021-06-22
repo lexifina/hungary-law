@@ -4,7 +4,7 @@
 
 (2) A vagyoni biztosíték mértéke a tárgyévet megelőző évben forgalmazott elem és akkumulátor kilogrammban kifejezett mennyiségének és az egységnyi tömegre vetített biztosítékösszegnek a szorzata. Az egységnyi tömegre vetített biztosítékösszeg értéke 1000 forint kilogrammonként.
 
-(3)[^44] A gyártónak, ha a tárgyévet megelőző év december 31. napján e rendelet hatálya alá tartozó tevékenységet folytat, a tárgyév február 20. napjáig a tárgyévre vonatkozó vagyoni biztosítékot kell képeznie. A biztosíték létrehozására vonatkozó igazolást a gyártó az adatszolgáltatási kötelezettség teljesítésével egyidejűleg az országos környezetvédelmi hatóság részére megküldi.
+(3)[^44] A gyártónak, ha a tárgyévet megelőző év december 31. napján e rendelet hatálya alá tartozó tevékenységet folytat, a tárgyév február 20. napjáig a tárgyévre vonatkozó vagyoni biztosítékot kell képeznie. A biztosíték létrehozására vonatkozó igazolást a gyártó az adatszolgáltatási kötelezettség teljesítésével egyidejűleg az országos hulladékgazdálkodási hatóság részére megküldi.
 
 (4) Ha a gyártó a tevékenységét a tárgyévben kezdi meg, a tárgyév végéig a tárgyévre tervezett termékforgalom mennyiségével arányos mértékű vagyoni biztosítékot hoz létre.
 
@@ -20,9 +20,9 @@ d) biztosítási szerződés.
 
 (6) A tárgyévi biztosíték feletti rendelkezés engedélyezését a gyártó a tárgyévet követő év adatszolgáltatási kötelezettségének teljesítésével egyidejűleg kezdeményezheti.
 
-(7)[^45] A tárgyévi biztosítékkal a gyártó az országos környezetvédelmi hatóság jóváhagyását követően szabadon rendelkezhet.
+(7)[^45] A tárgyévi biztosítékkal a gyártó az országos hulladékgazdálkodási hatóság jóváhagyását követően szabadon rendelkezhet.
 
-(8)[^46] A tárgyévi biztosíték feletti rendelkezés jogának megadására vonatkozó kezdeményezést az országos környezetvédelmi hatóság a tárgyévet követő év szeptember 1-jéig akkor hagyja jóvá, ha a gyártó
+(8)[^46] A tárgyévi biztosíték feletti rendelkezés jogának megadására vonatkozó kezdeményezést az országos hulladékgazdálkodási hatóság a tárgyévet követő év szeptember 1-jéig akkor hagyja jóvá, ha a gyártó
 
 a) a tárgyévi átvételi, gyűjtési, hasznosítási és ártalmatlanítási, valamint
 
@@ -32,7 +32,7 @@ kötelezettségét teljesítette.
 
 (9)[^47] A gyártónak nem kell biztosítékot képeznie a Ktdt. hatálya alá tartozó termékdíjköteles termékek esetén, továbbá akkor, ha gyűjtési, hasznosítási és ártalmatlanítási kötelezettségének az állami hulladékgazdálkodást közvetítő szervezeten keresztül történő kollektív teljesítés vagy közvetítő szervezet útján tesz eleget.
 
-[^44]: A 13. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
-[^45]: A 13. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
-[^46]: A 13. § (8) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja szerint módosított szöveg.
+[^44]: A 13. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^45]: A 13. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^46]: A 13. § (8) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 220. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^47]: A 13. § (9) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.

@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-445-20-
 | 2018-01-01 | 2012-445-20-22.9 | 310/2014. (XII. 11.) Korm. rendelet |
 | 2018-07-26 | 2012-445-20-22.10 | 132/2018. (VII. 23.) Korm. rendelet |
 | 2021-04-01 | 2012-445-20-22.11 | 158/2021. (III. 31.) Korm. rendelet |
+| 2021-06-22 | 2012-445-20-22.12 | 379/2016. (XII. 2.) Korm. rendelet |

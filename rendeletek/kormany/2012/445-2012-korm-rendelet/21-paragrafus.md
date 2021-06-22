@@ -1,4 +1,4 @@
-## 20/A. §[^64] A kereskedő és a közvetítő a hulladékjegyzékről szóló miniszteri rendeletben meghatározott 16 06 azonosító kóddal rendelkező elem- és akkumulátorhulladékot – Ht. 13. § (3) bekezdésében foglaltakra figyelemmel – a hulladékkezelőn túl kereskedőnek is átadhatja.
+## 20/A. §[^65] A kereskedő és a közvetítő a hulladékjegyzékről szóló miniszteri rendeletben meghatározott 16 06 azonosító kóddal rendelkező elem- és akkumulátorhulladékot – Ht. 13. § (3) bekezdésében foglaltakra figyelemmel – a hulladékkezelőn túl kereskedőnek is átadhatja.
 
 ## 12. Az elem- és az akkumulátorhulladék kezelésével kapcsolatos szabályok
 
@@ -24,4 +24,4 @@ elem vagy akkumulátor újrafeldolgozásáról, az 5. mellékletben előírt hat
 
 (3) A hulladékká vált gépjárműelemet vagy -akkumulátort, az ipari elemet vagy akkumulátort, valamint a kémiai összetétele alapján azonosítható, hulladékká vált hordozható elemet és akkumulátort hulladéklerakóban lerakni, valamint termikus módon ártalmatlanítani – az 5. melléklet szerinti hatékonysági mutatóval végzett újrafeldolgozási eljárás alkalmazása során képződő maradékhulladék kivételével – tilos.
 
-[^64]: A 20/A. §-t a 370/2014. (XII. 30.) Korm. rendelet 22. §-a iktatta be, szövege a 158/2021. (III. 31.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^65]: A 20/A. §-t a 370/2014. (XII. 30.) Korm. rendelet 22. §-a iktatta be, szövege a 158/2021. (III. 31.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
