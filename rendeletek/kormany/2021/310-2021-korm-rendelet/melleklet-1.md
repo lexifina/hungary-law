@@ -1,5 +1,3 @@
-## 6. §[^1]
-
 1. melléklet a 310/2021. (VI. 7.) Korm. rendelethez
 
 1. Az önfoglalkoztatók kompenzációs támogatására a tényleges főtevékenységeként
@@ -131,5 +129,3 @@ b) a tevékenységet végző rendelkezik a díj ellenében végzett közúti ár
 5. Az 1. pont 1.42. alpontja szerinti tevékenységet végzőre nem terjed ki az 1. § szerinti támogatási jogosultság, ha a tevékenységet végző az építési és szerelési munkához kapcsolódó cikkek kölcsönzését tényleges főtevékenységként végzi.
 
 6. Az 1. pont 1.49. alpontja szerinti tevékenységet végzőre nem terjed ki az 1. § szerinti támogatási jogosultság, ha a tevékenységet végző a kerékpárok javítása tevékenységet tényleges főtevékenységként folytatja.
-
-[^1]: A 6. § az 5. § (2) bekezdése alapján 2021. június 22-én lép hatályba.
