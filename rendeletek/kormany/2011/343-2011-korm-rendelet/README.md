@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-343-20-
 | 2018-07-26 | 2011-343-20-22.19 | 2010: CXXX. törvény |
 | 2021-01-01 | 2011-343-20-22.20 | 724/2020. (XII. 31.) Korm. rendelet |
 | 2021-04-01 | 2011-343-20-22.21 | 446/2017. (XII. 27.) Korm. rendelet |
+| 2021-06-22 | 2011-343-20-22.22 | 366/2012. (XII. 17.) Korm. rendelet |

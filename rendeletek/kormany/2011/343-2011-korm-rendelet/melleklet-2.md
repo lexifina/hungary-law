@@ -360,9 +360,9 @@
 
 | 6. | 01 | egyszer használható |
 
-| 7. | 02 | többször használható, az országos környezetvédelmi hatóság újrahasználható csomagolószer nyilvántartásába felvett csomagolószer |
+| 7. | 02 | többször használható, az országos hulladékgazdálkodási hatóság újrahasználható csomagolószer nyilvántartásába felvett csomagolószer |
 
-| 8. | 03 | többször használható, az országos környezetvédelmi hatóság újrahasználható csomagolószer nyilvántartásába fel nem vett csomagolószer |
+| 8. | 03 | többször használható, az országos hulladékgazdálkodási hatóság újrahasználható csomagolószer nyilvántartásába fel nem vett csomagolószer |
 
 | 9. | 04 | újrahasználatra előkészítést követően létrejött csomagolószer |
 

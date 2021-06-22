@@ -4,7 +4,7 @@
 
 23. § (1)[^71]
 
-(2)[^72] Az állami adó- és vámhatóság jár el a hulladékká vált egyéb kőolajtermék anyagában történő hasznosítása után történő termékdíj visszaigénylése során. Az anyagában történő hasznosítás esetében a hasznosítás tényére, körülményeire vonatkozó szakkérdések eldöntése érdekében az állami adó- és vámhatóság megkeresi az országos környezetvédelmi hatóságot. Az országos környezetvédelmi hatóság az állami adó- és vámhatóság részére a felkérés keretében a szakkérdésre vonatkozó véleményét 15 napon belül köteles megadni.
+(2)[^72] Az állami adó- és vámhatóság jár el a hulladékká vált egyéb kőolajtermék anyagában történő hasznosítása után történő termékdíj visszaigénylése során. Az anyagában történő hasznosítás esetében a hasznosítás tényére, körülményeire vonatkozó szakkérdések eldöntése érdekében az állami adó- és vámhatóság megkeresi az országos hulladékgazdálkodási hatóságot. Az országos hulladékgazdálkodási hatóság az állami adó- és vámhatóság részére a felkérés keretében a szakkérdésre vonatkozó véleményét 15 napon belül köteles megadni.
 
 (3)[^73]
 
@@ -86,7 +86,7 @@ c) a Ktdt. 25. § (1) bekezdés g) pontja szerinti visszaigénylés esetén a ne
 
 [^70]: A 22/A. §-t a 407/2015. (XII. 15.) Korm. rendelet 5. §-a iktatta be.
 [^71]: A 23. § (1) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 9. pontja hatályon kívül helyezte.
-[^72]: A 23. § (2) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 190. § c)–d) pontja szerint módosított szöveg.
+[^72]: A 23. § (2) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 190. § c)–d) pontja, a 312/2021. (VI. 7.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
 [^73]: A 23. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 9. pontja hatályon kívül helyezte.
 [^74]: A 23. § (4) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 9. pontja hatályon kívül helyezte.
 [^75]: A 23. § (5) bekezdés a) pontja a 366/2012. (XII. 17.) Korm. rendelet 42. § (3) bekezdése szerint módosított szöveg.

@@ -2,8 +2,8 @@
 
 (2)[^59] Ha a saját jogú ellenőrzés során bizonyítást nyer, hogy az ellenőrzött a Ht.-ben és annak végrehajtási rendeleteiben előírt, vagy a szerződésen alapuló kötelezettségei tekintetében az állami hulladékgazdálkodást közvetítő szervezetet szándékosan megtévesztette, az állami hulladékgazdálkodást közvetítő szervezet értesíti az ellenőrzött hulladékgazdálkodási kötelezettségeinek hatóság általi ellenőrzésében érintett hatóságokat a szükséges hatósági eljárások lefolytatása érdekében.
 
-(3)[^60] Ha az állami hulladékgazdálkodást közvetítő szervezet ellenőre a környezet védelmével kapcsolatos jogszabályok megszegését észleli, értesíti a környezetvédelmi hatóságot.
+(3)[^60] Ha az állami hulladékgazdálkodást közvetítő szervezet ellenőre a környezet védelmével kapcsolatos jogszabályok megszegését észleli, értesíti a hulladékgazdálkodási, indokolt esetben a környezetvédelmi hatóságot.
 
 [^58]: A 18. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^59]: A 18. § (2) bekezdése a 441/2012. (XII. 29.) Korm. rendelet 25. § b) pontja, a 368/2014. (XII. 30.) Korm. rendelet 2. § c) és f) pontja szerint módosított szöveg.
-[^60]: A 18. § (3) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^60]: A 18. § (3) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 7. §-ával megállapított, a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
