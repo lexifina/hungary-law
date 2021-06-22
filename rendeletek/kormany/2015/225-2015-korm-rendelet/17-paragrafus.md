@@ -4,6 +4,6 @@
 
 (3) A hulladék veszélyességének megállapítása érdekében a 2. melléklet 3. pontja szerinti vizsgálatokat kell elvégezni. A fizikai és kémiai, valamint ökotoxikológiai vizsgálatokat minden esetben el kell végezni. A fertőzőképességi vizsgálatokat minden szervesanyag-tartalmú, illetve szerves anyaggal feltételezhetően szennyeződött hulladék esetében el kell végezni.
 
-(4)[^7] A laboratórium a mintavizsgálat eredményeit tartalmazó dokumentumot a mintavizsgálatot követő 8 napon belül az országos környezetvédelmi hatóság részére megküldi, amely gondoskodik annak a kérelmezővel és a Hulladékminősítő Bizottsággal való megismertetéséről.
+(4)[^11] A laboratórium a mintavizsgálat eredményeit tartalmazó dokumentumot a mintavizsgálatot követő 8 napon belül az országos hulladékgazdálkodási hatóság részére megküldi, amely gondoskodik annak a kérelmezővel és a Hulladékminősítő Bizottsággal való megismertetéséről.
 
-[^7]: A 17. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 17. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés b) pontja, a 312/2021. (VI. 7.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
