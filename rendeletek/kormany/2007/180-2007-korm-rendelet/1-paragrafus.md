@@ -12,15 +12,15 @@
 
 (4)[^6] A bejelentéshez nyilatkozatot kell csatolni arról, hogy a bejelentőt vagy a címzettet a 3. § szerinti kármentesítési kötelezettség nem terheli.
 
-(5)[^7] A bejelentéshez kötött hulladékszállítások biztosíték nyújtásához kötöttek, amelynek már a bejelentőlap benyújtásakor rendelkezésre kell állnia. A biztosíték az R. II. Mellékletében meghatározott szempontok figyelembevételével az R. 6. cikk (1) bekezdésében meghatározott költségek fedezetére szolgál. A biztosíték kiszámításának módját a bejelentőlappal egyidejűleg meg kell küldeni az országos környezetvédelmi hatóság részére.
+(5)[^7] A bejelentéshez kötött hulladékszállítások biztosíték nyújtásához kötöttek, amelynek már a bejelentőlap benyújtásakor rendelkezésre kell állnia. A biztosíték az R. II. Mellékletében meghatározott szempontok figyelembevételével az R. 6. cikk (1) bekezdésében meghatározott költségek fedezetére szolgál. A biztosíték kiszámításának módját a bejelentőlappal egyidejűleg meg kell küldeni az országos hulladékgazdálkodási hatóság részére.
 
-(6)[^8] A biztosíték kedvezményezettje az országos környezetvédelmi hatóság. Amennyiben a hulladékszállítást a bejelentésben foglaltaktól eltérően, vagy a hulladék hasznosítását vagy ártalmatlanítását jogellenesen hajtják végre, az országos környezetvédelmi hatóság rendelkezik a biztosíték felett, és felhasználhatja az összeget a kötelezettségek teljesítésére történő kifizetésekre, illetve a más hatóságok céljára történő kifizetésekre.
+(6)[^8] A biztosíték kedvezményezettje az országos hulladékgazdálkodási hatóság. Amennyiben a hulladékszállítást a bejelentésben foglaltaktól eltérően, vagy a hulladék hasznosítását vagy ártalmatlanítását jogellenesen hajtják végre, az országos hulladékgazdálkodási hatóság rendelkezik a biztosíték felett, és felhasználhatja az összeget a kötelezettségek teljesítésére történő kifizetésekre, illetve a más hatóságok céljára történő kifizetésekre.
 
-(7)[^9] Az országos környezetvédelmi hatóság a hulladék szállítására vonatkozó eljárásáról
+(7)[^9] Az országos hulladékgazdálkodási hatóság a hulladék szállítására vonatkozó eljárásáról
 
-a)[^10] hulladék behozatala esetén a hasznosítás helye szerinti környezetvédelmi hatóságot, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Irányítását, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét,
+a)[^10] hulladék behozatala esetén a hasznosítás helye szerinti hulladékgazdálkodási hatóságot, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) Központi Irányítását, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét,
 
-b)[^11] hulladék kivitele esetén a hulladék termelőjének (birtokosának) telephelye szerinti illetékes környezetvédelmi hatóságot, a NAV Központi Irányítását, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét,
+b)[^11] hulladék kivitele esetén a hulladék termelőjének (birtokosának) telephelye szerinti illetékes hulladékgazdálkodási hatóságot, a NAV Központi Irányítását, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét,
 
 c)[^12] hulladéknak az országon történő átszállítása esetén a NAV Központi Irányítását, valamint veszélyes hulladék esetén a hivatásos katasztrófavédelmi szerv központi szervét értesíti.
 
@@ -32,10 +32,10 @@ c)[^12] hulladéknak az országon történő átszállítása esetén a NAV Köz
 [^4]: Az 1. § (2a) bekezdését a 302/2021. (VI. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^5]: Az 1. § (2b) bekezdését a 302/2021. (VI. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^6]: Az 1. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 549. §-a, a 302/2021. (VI. 1.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^7]: Az 1. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 98. § b) pontja, a 302/2021. (VI. 1.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^8]: Az 1. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 98. § c) pontja szerint módosított szöveg.
-[^9]: Az 1. § (7) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (1) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 98. § d) pontja szerint módosított szöveg.
-[^10]: Az 1. § (7) bekezdés a) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 102. § a) pontja, a 486/2015. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^11]: Az 1. § (7) bekezdés b) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 102. § b) pontja, a 486/2015. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 98. § b) pontja, a 302/2021. (VI. 1.) Korm. rendelet 4. § a) pontja, a 312/2021. (VI. 7.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 98. § c) pontja, a 312/2021. (VI. 7.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^9]: Az 1. § (7) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 121. § (1) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 98. § d) pontja, a 312/2021. (VI. 7.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^10]: Az 1. § (7) bekezdés a) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (2) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 102. § a) pontja, a 486/2015. (XII. 29.) Korm. rendelet 19. § a) pontja, a 312/2021. (VI. 7.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § (7) bekezdés b) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 102. § b) pontja, a 486/2015. (XII. 29.) Korm. rendelet 19. § a) pontja, a 312/2021. (VI. 7.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^12]: Az 1. § (7) bekezdés c) pontja a 74/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdése, a 486/2015. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^13]: Az 1. § (8) bekezdését a 443/2013. (XI. 27.) Korm. rendelet 33. §-a iktatta be, szövege a 302/2021. (VI. 1.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
