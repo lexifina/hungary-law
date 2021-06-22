@@ -26,4 +26,6 @@ d) a nehézfém-koncentráció csökkentésére tervezett intézkedések részle
 
 (6) Ha a csomagolási célú üveget nem az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) területén állították elő, a (4) bekezdés szerinti jelentéstételi kötelezettség a csomagolási célú üveg első hazai forgalmazóját terheli. Más EGT-államból történt behozatal esetén a forgalmazó az érintett államban a 94/62/EK európai parlamenti és tanácsi irányelvben meghatározott nehézfémkoncentráció-szintekkel kapcsolatban a 2001/171/EK bizottsági határozat 5. cikke alapján megtett bejelentés másolatát a hatóság kérésére bemutatja.
 
-(7) A (4) bekezdés szerinti ellenőrző mérések eredményeit és az alkalmazott mérési módszereket a környezetvédelmi hatóság kérésére a csomagolószer gyártója, továbbá a (6) bekezdés szerinti esetben az első forgalmazó a környezetvédelmi hatóság rendelkezésére bocsátja.
+(7)[^17] A (4) bekezdés szerinti ellenőrző mérések eredményeit és az alkalmazott mérési módszereket a hulladékgazdálkodási hatóság kérésére a csomagolószer gyártója, továbbá a (6) bekezdés szerinti esetben az első forgalmazó a hulladékgazdálkodási hatóság rendelkezésére bocsátja.
+
+[^17]: A 3. § (7) bekezdése a 312/2021. (VI. 7.) 8. § a) pontja szerint módosított szöveg.

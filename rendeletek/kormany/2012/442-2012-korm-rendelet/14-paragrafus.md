@@ -4,11 +4,11 @@
 
 (2) A 4. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvényben (a továbbiakban: Fttv.) meghatározott hatóság jár el, ha a jogsértés az Fttv. 2. § a) pontja értelmében vett fogyasztót érint. Az eljáró hatóság az Fttv.-ben meghatározott szabályok szerint jár el.
 
-(3)[^51] A 4. § (4) bekezdésében, az 5. §-ban, és a 10. §-ban foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv.-ben meghatározott szabályok szerint jár el.
+(3)[^53] A 4. § (4) bekezdésében, az 5. §-ban, és a 10. §-ban foglalt rendelkezések megsértése esetén a fogyasztóvédelmi hatóság jár el, ha a jogsértés a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 2. § a) pontja értelmében vett fogyasztót érint. A fogyasztóvédelmi hatóság az Fgytv.-ben meghatározott szabályok szerint jár el.
 
 (4) A (2) és a (3) bekezdésben meghatározott rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-(5)[^52] Az (1)–(3) bekezdés hatálya alá nem tartozó egyéb kötelezettségek ellenőrzésére az országos környezetvédelmi hatóság jogosult.
+(5)[^54] Az (1)–(3) bekezdés hatálya alá nem tartozó egyéb kötelezettségek ellenőrzésére az országos hulladékgazdálkodási hatóság jogosult.
 
-[^51]: A 14. § (3) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^52]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 219. § b) pontja szerint módosított szöveg.
+[^53]: A 14. § (3) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^54]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 219. § b) pontja, a 312/2021. (VI. 7.) 8. § b) pontja szerint módosított szöveg.

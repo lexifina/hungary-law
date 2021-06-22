@@ -1,4 +1,4 @@
-## 4a.[^29] Eltérés a célértékektől
+## 4a.[^31] Eltérés a célértékektől
 
 9/A. § (1) A hulladékgazdálkodásért felelős miniszter a 9. § (2a), illetve (2b) bekezdés a)–f) pontja szerinti célértékek elérésére előírt teljesítési határidő legfeljebb 5 évvel való elhalasztását – végrehajtási terv megküldésével – a 9. § (2a) és (2b) bekezdésében meghatározott határidőt megelőző 2. év végéig kezdeményezheti az Európai Bizottságnál (a továbbiakban: Bizottság).
 
@@ -32,4 +32,4 @@ f) a hulladékgazdálkodás finanszírozására vonatkozó információk a „sz
 
 g) ha szükséges, az adatminőség javítására irányuló intézkedések meghatározása a hulladékgazdálkodási teljesítmény jobb tervezése és nyomon követése érdekében.
 
-[^29]: A 4a. alcímet (9/A. §) a 158/2021. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^31]: A 4a. alcímet (9/A. §) a 158/2021. (III. 31.) Korm. rendelet 5. §-a iktatta be.

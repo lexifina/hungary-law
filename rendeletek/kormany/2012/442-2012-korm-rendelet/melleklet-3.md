@@ -102,7 +102,7 @@
 
 ## * Társított anyagok (kompozitok) esetében a következő jelölést kell alkalmazni: C/a jellemző anyag megnevezésének rövidítése.
 
-3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^61]
+3. melléklet a 442/2012. (XII. 29.) Korm. rendelethez[^63]
 
 ## A csomagolás összetételére, újrahasználhatóságra, továbbá a csomagolási hulladék hasznosíthatóságra vonatkozó lényegi követelmények
 
@@ -200,4 +200,4 @@ g) ha szükséges, az adatminőség javítására irányuló intézkedések megh
 
 9/B. § A 9. § (2a) bekezdésében meghatározott célérték elérésének számítását – a 2005/270/EK bizottsági határozat előírásainak megfelelően – a 4. melléklet szerint kell végezni.
 
-[^61]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^63]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 6. § (1) bekezdése szerint módosított szöveg.
