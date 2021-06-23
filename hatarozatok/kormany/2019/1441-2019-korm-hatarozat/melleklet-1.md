@@ -18,4 +18,6 @@
 
 ## Határidő: a 2021–2027 közötti európai uniós programozási időszak közlekedésfejlesztésre rendelkezésre álló forrásainak tervezése keretében
 
-1. melléklet az 1441/2019. (VII. 26.) Korm. határozathoz
+1. melléklet az 1441/2019. (VII. 26.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1391/2021. (VI. 22.) Korm. határozat 1. pontjával megállapított szöveg.
