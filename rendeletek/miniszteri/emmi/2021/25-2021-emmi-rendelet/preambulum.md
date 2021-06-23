@@ -1,0 +1,1 @@
+A lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény 87. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 7. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
