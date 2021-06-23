@@ -1,4 +1,4 @@
-## 13. §[^15] A Társaság az önkormányzattal megállapodásban rögzítheti különösen:
+## 13. §[^16] A Társaság az önkormányzattal megállapodásban rögzítheti különösen:
 
 a) a műteremlakások bérletére irányuló pályázatok előkészítésére vonatkozó együttműködés módját,
 
@@ -20,4 +20,4 @@ i) a Társaság gazdálkodását támogató információk, nyilvántartások, m�
 
 j) a rendszeres együttműködésért, kapcsolattartásért felelős személyek megnevezését.
 
-[^15]: A 13. § a 43/2012. (XI. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^16]: A 13. § a 43/2012. (XI. 29.) EMMI rendelet 8. §-ával megállapított szöveg.
