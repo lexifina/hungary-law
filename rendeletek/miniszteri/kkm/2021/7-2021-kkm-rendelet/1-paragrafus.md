@@ -1,35 +1,37 @@
 ## 1. §[^1] A járványügyi készültségi időszak utazási korlátozásairól szóló 408/2020. (VIII. 30.) Korm. rendelet 1. § (3) bekezdés e) pontja szerinti, a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötött ország:
 
-a) Albán Köztársaság,
+1. Albán Köztársaság,
 
-b) Bahreini Királyság,
+2. Bahreini Királyság,
 
-c) Ciprusi Köztársaság,
+3. Ciprusi Köztársaság,
 
-d) Cseh Köztársaság,
+4. Cseh Köztársaság,
 
-e) Észak-macedón Köztársaság,
+5. Észak-macedón Köztársaság,
 
-f) Georgia,
+6. Georgia,
 
-g) Horvát Köztársaság,
+7. Horvát Köztársaság,
 
-h) Marokkói Királyság,
+8. Kazah Köztársaság,
 
-i) Moldovai Köztársaság,
+9. Marokkói Királyság,
 
-j) Mongólia,
+10. Moldovai Köztársaság,
 
-k) Montenegrói Köztársaság,
+11. Mongólia,
 
-l) Szerb Köztársaság,
+12. Montenegrói Köztársaság,
 
-m) Szlovák Köztársaság,
+13. Szerb Köztársaság,
 
-n) Szlovén Köztársaság,
+14. Szlovák Köztársaság,
 
-o) Török Köztársaság,
+15. Szlovén Köztársaság,
 
-p) Ukrajna.
+16. Török Köztársaság,
 
-[^1]: Az 1. § a 23/2021. (VI. 10.) KKM rendelet 1. §-ával megállapított szöveg.
+17. Ukrajna.
+
+[^1]: Az 1. § a 24/2021. (VI. 22.) KKM rendelet 1. §-ával megállapított szöveg.
