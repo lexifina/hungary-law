@@ -6,7 +6,7 @@
 
 a) a magyarországi bírósági vagy hatósági eljáráshoz kapcsolódó, magyar bíróság vagy hatóság által kiállított okirattal igazolt eljárási cselekményen történő részvétel,
 
-b)[^16]
+b)[^17]
 
 c) az egészségügyi intézmény beutalójával vagy más megfelelő igazolással egészségügyi ellátás igénybevétele,
 
@@ -18,7 +18,7 @@ f) a családi eseményeken (házasságkötés, keresztelő, temetés) részvéte
 
 g) a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti hozzátartozó gondozása, ápolása,
 
-h)[^17] a kiemelt jelentőségű, nemzetközi vonatkozású egyházi rendezvényen történő részvétel vagy
+h)[^18] a kiemelt jelentőségű, nemzetközi vonatkozású egyházi rendezvényen történő részvétel vagy
 
 i) az a)–h) ponton kívüli méltányolható ok.
 
@@ -62,5 +62,5 @@ okból kockázatos.
 
 (9) A rendőri szerv határozatával szemben benyújtott fellebbezést a rendőri szerv irányítását ellátó megyei (fővárosi) rendőr-főkapitányság bírálja el.
 
-[^16]: A 6. § (2) bekezdés b) pontját a 422/2020. (IX. 4.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^17]: A 6. § (2) bekezdés h) pontja a 422/2020. (IX. 4.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^17]: A 6. § (2) bekezdés b) pontját a 422/2020. (IX. 4.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^18]: A 6. § (2) bekezdés h) pontja a 422/2020. (IX. 4.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

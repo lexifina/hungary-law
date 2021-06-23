@@ -26,15 +26,17 @@ d)[^3] arra a személyre, aki a határátlépés során a koronavírus elleni v�
 
 e)[^4] arra a személyre, aki olyan ország által kiállított védettségi igazolással rendelkezik, amely a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötött Magyarországgal, és az ezen ország által a részére kiállított koronavírus elleni védettséget igazoló hatósági igazolvány felmutatásával a koronavírus elleni védettségét igazolja,
 
-f)[^5] arra a személyre, aki olyan ország által kiállított védettségi igazolással rendelkezik, amely ország viszonyában Magyarország a védettségi igazolásokat egyoldalúan elismeri, és az ezen ország által a részére kiállított koronavírus elleni védettséget igazoló hatósági igazolvány felmutatásával a koronavírus elleni védettségét igazolja, valamint
+f)[^5] arra a személyre, aki olyan ország által kiállított védettségi igazolással rendelkezik, amely ország viszonyában Magyarország a védettségi igazolásokat egyoldalúan elismeri, és az ezen ország által a részére kiállított koronavírus elleni védettséget igazoló hatósági igazolvány felmutatásával a koronavírus elleni védettségét igazolja,
 
-g)[^6] arra a tizennyolcadik életévét be nem töltött személyre, aki a d)–f) pont szerinti személy felügyelete alatt áll, és vele együtt lépi át Magyarország határát.
+g)[^6] arra a tizennyolcadik életévét be nem töltött személyre, aki a d)–f) pont szerinti személy felügyelete alatt áll, és vele együtt lépi át Magyarország határát, valamint
 
-(3a)[^7] A védettségi igazolvány felmutatásával egyenértékű, ha az érintett a koronavírus elleni védettségét a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet szerinti védőoltást igazoló applikációval igazolja.
+h)[^7] arra a személyre, aki – a polgári légijárművel történő beutazás esetét ide nem értve – a Horvát Köztársaság, az Osztrák Köztársaság, Románia, a Szerb Köztársaság, a Szlovák Köztársaság, valamint a Szlovén Köztársaság területéről lép Magyarország területére.
 
-(3b)[^8] A koronavírus elleni védettség (3a) bekezdés szerinti igazolása során az érintett személyazonosság igazolására alkalmas hatósági igazolvány bemutatására külön is felhívható.
+(3a)[^8] A védettségi igazolvány felmutatásával egyenértékű, ha az érintett a koronavírus elleni védettségét a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet szerinti védőoltást igazoló applikációval igazolja.
 
-(3c)[^9] A védőoltást igazoló applikációt ellenőrző szerv vagy személy jogosult az érintett (3b) bekezdés szerinti hatósági igazolványán és az applikációban jelzett adatok megismerésére, azzal, hogy az adatokat – ha törvény vagy a veszélyhelyzetben az Alaptörvény 53. cikk (2) bekezdése alapján alkotott kormányrendelet eltérően nem rendelkezik – semmilyen módon nem rögzítheti.
+(3b)[^9] A koronavírus elleni védettség (3a) bekezdés szerinti igazolása során az érintett személyazonosság igazolására alkalmas hatósági igazolvány bemutatására külön is felhívható.
+
+(3c)[^10] A védőoltást igazoló applikációt ellenőrző szerv vagy személy jogosult az érintett (3b) bekezdés szerinti hatósági igazolványán és az applikációban jelzett adatok megismerésére, azzal, hogy az adatokat – ha törvény vagy a veszélyhelyzetben az Alaptörvény 53. cikk (2) bekezdése alapján alkotott kormányrendelet eltérően nem rendelkezik – semmilyen módon nem rögzítheti.
 
 (4) E rendelet alkalmazásában hivatalos célú határátlépés a magánútlevéllel, valamint az egyéb úti okmánnyal végrehajtott hivatalos látogatás céljából történő határátlépés.
 
@@ -42,8 +44,9 @@ g)[^6] arra a tizennyolcadik életévét be nem töltött személyre, aki a d)�
 [^2]: Az 1. § (3) bekezdés b) pontja a 203/2021. (IV. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdés d) pontját a 203/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 233/2021. (V. 6.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdés e) pontját a 203/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 273/2021. (V. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (3) bekezdés f) pontját a 233/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be, szövege a 273/2021. (V. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (3) bekezdés g) pontját a 273/2021. (V. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (3a) bekezdését a 266/2021. (V. 21.) Korm. rendelet 1. §-a iktatta be.
-[^8]: Az 1. § (3b) bekezdését a 266/2021. (V. 21.) Korm. rendelet 1. §-a iktatta be.
-[^9]: Az 1. § (3c) bekezdését a 266/2021. (V. 21.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (3) bekezdés f) pontját a 233/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be, szövege a 273/2021. (V. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 347/2021. (VI. 22.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdés g) pontját a 273/2021. (V. 22.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 347/2021. (VI. 22.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. § (3) bekezdés h) pontját a 347/2021. (VI. 22.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (3a) bekezdését a 266/2021. (V. 21.) Korm. rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (3b) bekezdését a 266/2021. (V. 21.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (3c) bekezdését a 266/2021. (V. 21.) Korm. rendelet 1. §-a iktatta be.
