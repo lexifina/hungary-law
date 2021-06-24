@@ -58,15 +58,13 @@
 
 ## Határidő: az üzemeltetési koncepció rendelkezésre állását követően azonnal
 
-## 10.[^7] egyetért azzal, hogy a Beruházás megvalósítója a Beruházási Ügynökség legyen;
+## 10.[^7] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése alapján a Beruházás megvalósítójának a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaságot jelöli ki;
 
-## 11.[^8] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján a kormánybiztos és a Miniszterelnökséget vezető miniszter bevonásával készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával.
+## 11.[^8] felhívja a Miniszterelnökséget vezető minisztert, hogy a kormánybiztos bevonásával, a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával.
 
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+## Felelős: Miniszterelnökséget vezető miniszter
 
 ## kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
-
-## Miniszterelnökséget vezető miniszter
 
 ## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
 
@@ -148,5 +146,5 @@
 [^4]: A 6. pont az 1940/2020. (XII. 17.) Korm. határozat 4. pont e) alpontja szerint módosított szöveg.
 [^5]: A 7. pontot az 1940/2020. (XII. 17.) Korm. határozat 5. pontja visszavonta.
 [^6]: A 9. pont az 1940/2020. (XII. 17.) Korm. határozat 2. pontjával megállapított szöveg.
-[^7]: A 10. pontot az 1940/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be.
-[^8]: A 11. pontot az 1940/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be.
+[^7]: A 10. pontot az 1940/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be, szövege az 1396/2021. (VI. 24.) Korm. határozattal megállapított szöveg.
+[^8]: A 11. pontot az 1940/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be, szövege az 1396/2021. (VI. 24.) Korm. határozattal megállapított szöveg.
