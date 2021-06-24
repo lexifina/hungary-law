@@ -20,20 +20,11 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2021. évi központi költségvetés tervezése során
 
-4. felhívja a pénzügyminisztert, hogy – a KSH elnökének bevonásával – gondoskodjon a 2021. évi népszámlálás megvalósításához az 1. pont c) alpontja szerinti összeg rendelkezésre állásáról a 2022. évi központi költségvetés XXXI. Központi Statisztikai Hivatal fejezet, 1. Központi Statisztikai Hivatal cím javára;
-
-Felelős: pénzügyminiszter
-
-Határidő: a 2022. évi központi költségvetés tervezése során
+4.[^1]
 
 5. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XXXI. Központi Statisztikai Hivatal fejezet, 1. Központi Statisztikai Hivatal cím, 2. Felhalmozási költségvetés előirányzat-csoport, 6. Beruházások kiemelt előirányzat kiadási előirányzatai terhére vállalható kötelezettségek 2020. évre vonatkozó felső korlátját 5 700 000 000 forintban állapítja meg;
 
-6. felhívja a belügyminisztert, az innovációért és technológiáért felelős minisztert, valamint a miniszterelnök kabinetfőnökét, hogy – a KSH elnökének bevonásával – dolgozzon ki javaslatot a 2021. évi népszámlálás adatfelvételi szakaszának lezárását követően a beszerzett mobileszközök közfeladat céljára történő továbbhasznosításáról.
+6.[^2]
 
-Felelős: belügyminiszter
-
-innovációért és technológiáért felelős miniszter
-
-a miniszterelnök kabinetfőnöke
-
-Határidő: 2020. december 31.
+[^1]: A 4. pontot az 1394/2021. (VI. 24.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 6. pontot az 1394/2021. (VI. 24.) Korm. határozat 5. pontja visszavonta.
