@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-19-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-06-23 | 2021-19-20-2C.1 | 19/2021. (VI. 22.) MNB rendelet |
+| 2021-06-24 | 2021-19-20-2C.2 | 22/2021. (VII. 27.) MNB rendelet |
