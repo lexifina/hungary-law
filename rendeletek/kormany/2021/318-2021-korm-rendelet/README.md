@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-318-20-
 | --- | --- | --- |
 | 2021-06-10 | 2021-318-20-22.1 | 318/2021. (VI. 9.) Korm. rendelet |
 | 2021-06-11 | 2021-318-20-22.2 | 2010: CXXX. törvény |
+| 2021-06-24 | 2021-318-20-22.3 | 647/2021. (XI. 30.) Korm. rendelet |
