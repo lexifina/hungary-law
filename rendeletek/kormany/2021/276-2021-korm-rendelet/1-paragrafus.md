@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1. §) a 9. § (2) bekezdése alapján 2021. június 25-én lép hatályba.
+## 1. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet módosítása
