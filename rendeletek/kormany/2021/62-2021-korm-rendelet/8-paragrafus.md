@@ -12,8 +12,8 @@
 
 (7) Az (5) bekezdés szerinti kérelemhez a kedvezményezett csatolja az általa vállalt foglalkoztatottak számára, a munkaidőre és a munkabérre vonatkozó adatokat.
 
-(8)[^12] Ha a kedvezményezett (5) bekezdés szerinti kérelme megfelel az e rendeletben foglaltaknak, a támogató a 4. § (2) bekezdés e) pontja szerinti költségvetési támogatásra új támogatói okiratot ad ki a lebonyolító szerv útján, és a költségvetési támogatást egy összegben folyósítja a támogatói okirat kiadásától számított 15 napon belül.
+(8)[^15] Ha a kedvezményezett (5) bekezdés szerinti kérelme megfelel az e rendeletben foglaltaknak, a támogató a 4. § (2) bekezdés e) pontja szerinti költségvetési támogatásra új támogatói okiratot ad ki a lebonyolító szerv útján, és a költségvetési támogatást egy összegben folyósítja a támogatói okirat kiadásától számított 15 napon belül.
 
 (9) A kedvezményezett nem jogosult a 4. § (2) bekezdés e) pontja szerinti költségvetési támogatásra, ha az e rendelet szerint igénybe vett költségvetési támogatással határidőn belül nem számol el, vagy az igénybe vett támogatást jogosulatlanul, jogszabálysértő módon vagy nem rendeltetésszerűen használta fel, és azt a kérelme benyújtásáig nem fizette vissza.
 
-[^12]: A 8. § (8) bekezdése a 290/2021. (V. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 8. § (8) bekezdése a 290/2021. (V. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
