@@ -1,0 +1,1 @@
+## 7. § A Beruházással összefüggő közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – ha jogszabály rövidebb határidőt nem állapít meg, illetve az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás és a természetvédelmi hatósági eljárás kivételével – harminc nap.
