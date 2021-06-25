@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-343-20-
 | 2020-03-01 | 2006-343-20-22.46 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-12-22 | 2006-343-20-22.47 | 622/2020. (XII. 21.) Korm. rendelet |
 | 2021-01-01 | 2006-343-20-22.48 | 668/2020. (XII. 28.) Korm. rendelet |
+| 2021-06-25 | 2006-343-20-22.49 | 276/2021. (V. 26.) Korm. rendelet |
