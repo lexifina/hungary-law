@@ -1,1 +1,1 @@
-11. § A Budapest Diákváros – Déli Városkapu Fejlesztési Program keretében megvalósuló beruházásokkal összefüggő, közműszakasz bontására, kiváltására vagy fejlesztésére irányuló munkákat az Ngtv. 11/F. § (2)–(7) bekezdésében foglaltak alapján kell elvégezni és elszámolni.
+11. § A Déli Városkapu Fejlesztési Program keretében megvalósuló beruházásokkal összefüggő, közműszakasz bontására, kiváltására vagy fejlesztésére irányuló munkákat az Ngtv. 11/F. § (2)–(7) bekezdésében foglaltak alapján kell elvégezni és elszámolni.

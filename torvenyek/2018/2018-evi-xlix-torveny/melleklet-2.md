@@ -1,6 +1,6 @@
 2. melléklet a 2018. évi XLIX. törvényhez
 
-A Budapest Diákváros – Déli Városkapu Fejlesztési Programmal összefüggő árvízvédelmi vonal
+A Déli Városkapu Fejlesztési Programmal összefüggő árvízvédelmi vonal
 
 |
 
