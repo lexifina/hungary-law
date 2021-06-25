@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-90-00-00
 | 2020-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-90-00-00.1 |
 | 2021-01-01 | 1294/2021. (V. 20.) Korm. határozat | 2020-90-00-00.2 |
 | 2021-05-28 | 2021. évi XLIV. törvény | 2020-90-00-00.3 |
+| 2021-06-25 | 1569/2021. (VIII. 9.) Korm. határozat | 2020-90-00-00.4 |
