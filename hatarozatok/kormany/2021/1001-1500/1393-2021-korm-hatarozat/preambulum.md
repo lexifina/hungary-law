@@ -1,0 +1,1 @@
+A Kormány, figyelemmel a Magyar Köztársaság biztonság- és védelempolitikájának alapelveiről szóló 94/1998. (XII. 29.) OGY határozat 17. pontjára, valamint a Magyarország Nemzeti Biztonsági Stratégiájáról szóló 1163/2020. (IV. 21.) Korm. határozat 2. pontjára, a következő határozatot hozza:
