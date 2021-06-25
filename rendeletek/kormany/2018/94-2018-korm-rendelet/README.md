@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-94-20-2
 | 2021-05-27 | 2018-94-20-22.37 | 423/2020. (IX. 4.) Korm. rendelet |
 | 2021-05-28 | 2018-94-20-22.38 | 287/2021. (V. 27.) Korm. rendelet |
 | 2021-06-22 | 2018-94-20-22.39 | 312/2021. (VI. 7.) Korm. rendelet |
+| 2021-06-25 | 2018-94-20-22.40 | 355/2021. (VI. 24.) Korm. rendelet |
