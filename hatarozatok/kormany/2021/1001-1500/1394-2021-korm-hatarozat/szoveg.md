@@ -30,10 +30,12 @@ a miniszterelnök kabinetfőnöke
 
 Határidő: 2022. szeptember 1.
 
-5. visszavonja az 1345/2019. (VI. 11.) Korm. határozat 4. és 6. pontját;
+5.[^1]
 
 6. felhívja a pénzügyminisztert, hogy intézkedjen a 2021. évben felhasználásra nem kerülő előirányzat elvonásáról.
 
 Felelős: pénzügyminiszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
