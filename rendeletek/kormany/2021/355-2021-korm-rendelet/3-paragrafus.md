@@ -1,0 +1,3 @@
+## „(3) A miniszter a 143/B. §-ban meghatározott feladatainak ellátásába bevonja a Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaságot az állampolgárok számára aktív, kétirányú kommunikációt biztosító ügyfélpont működtetése, továbbá a (2) bekezdés a), b), d), e) és j) pontjában meghatározott feladatok támogatása érdekében közreműködői szolgáltatások nyújtása, a család- és idősügyi, illetve nőpolitikai döntések megalapozása és azok hatásainak vizsgálata körében tudományos kutatási tevékenység végzése, képzések és továbbképzések szervezése, szakmai kiadványok kiadása, valamint ezekhez kapcsolódóan fejlesztési feladatok ellátása tekintetében.”
+
+3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
