@@ -1,8 +1,8 @@
 ## Hatályon kívül helyező rendelkezések
 
-11. § (1)[^25]
+11. § (1)[^28]
 
-(2)[^26]
+(2)[^29]
 
-[^25]: A 11. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
-[^26]: A 11. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^28]: A 11. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^29]: A 11. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
