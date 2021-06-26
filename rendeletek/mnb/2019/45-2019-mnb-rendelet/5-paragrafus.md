@@ -14,6 +14,6 @@ d) a hiánypótlást elrendelő végzés,
 
 e) hatósági bizonyítvány kiállítása.
 
-f)[^27] a nyilvántartásból való törlésre irányuló kérelem tárgyában hozott döntés.
+f)[^28] a nyilvántartásból való törlésre irányuló kérelem tárgyában hozott döntés.
 
-[^27]: Az 5. § (3) bekezdés f) pontját a 9/2021. (V. 13.) MNB rendelet 1. § (6) bekezdése iktatta be.
+[^28]: Az 5. § (3) bekezdés f) pontját a 9/2021. (V. 13.) MNB rendelet 1. § (6) bekezdése iktatta be.

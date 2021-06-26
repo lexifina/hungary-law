@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-45-20-2
 | 2021-01-29 | 2019-45-20-2C.4 | 4/2021. (I. 28.) MNB rendelet |
 | 2021-02-10 | 2019-45-20-2C.5 | 5/2021. (II. 9.) MNB rendelet |
 | 2021-05-14 | 2019-45-20-2C.6 | 9/2021. (V. 13.) MNB rendelet |
+| 2021-06-26 | 2019-45-20-2C.7 | 4/2021. (I. 28.) MNB rendelet |
