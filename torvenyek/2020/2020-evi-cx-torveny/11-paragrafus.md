@@ -1,1 +1,19 @@
-11. §
+11. § A Bszt. I. Fejezete a következő 3/B. és 3/C. §-sal egészül ki:
+
+„3/B. § (1) A kis méretű és össze nem kapcsolt befektetési vállalkozásra – a 17. §-ban, a 19/A. §-ban, a 20/A. §-ban, a 21/A. § (2)–(4) bekezdésében, a 101. § (2), (4)–(9) bekezdésében, a 123/A. § (1) és (2) bekezdésében, valamint a 4. mellékletben meghatározott rendelkezések kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
+
+(2) A 162. §-ban a befektetési vállalkozásra előírt rendelkezések kis méretű és össze nem kapcsolt befektetési vállalkozásra való alkalmazásáról a Felügyelet eseti alapon, az arányosság elve (a befektetési vállalkozás mérete, tevékenységeinek jellege, nagyságrendje, összetettsége) alapján dönt.
+
+(3) A Felügyelet a 106. § (1) és (2) bekezdésében foglaltak arányos betartására kötelezheti a kis méretű és össze nem kapcsolt befektetési vállalkozást, ha a piaci részesedése vagy az egy üzleti év alatt elért mérlegfőösszeg növekedése alapján indokoltnak látja.
+
+(4) Olyan befektetési vállalkozás esetében, amely korábban nem teljesítette a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/2033 rendelet] 12. cikk (1) bekezdésében meghatározott összes feltételt, valamely időponttól kezdve teljesíti azokat, az (1) bekezdésben foglalt rendelkezés a feltételek teljesítésének kezdőnapjától számított hat hónap elteltével alkalmazandó. Az (1) bekezdésben foglalt rendelkezés csak akkor alkalmazandó az említett időszak elteltével, ha annak során a befektetési vállalkozás megszakítás nélkül megfelelt az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott feltételeknek, és erről értesítette a Felügyeletet.
+
+(5) Ha egy kis méretű és össze nem kapcsolt befektetési vállalkozás megállapítja, hogy már nem teljesíti az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott összes feltételt, erről értesíti a Felügyeletet, és az értékelés meg nem felelése megállapításának napjától számított 12 hónapon belül a befektetési vállalkozásra előírt követelményeket teljeskörűen kell teljesítenie.
+
+(6) A befektetési vállalkozás alkalmazza a 4. melléklet teljesítményjavadalmazásra vonatkozó rendelkezéseit az (5) bekezdés szerinti értékelés pénzügyi évét követő pénzügyi évben nyújtott szolgáltatásokért, illetve teljesítményért járó javadalmazásra.
+
+3/C. § (1) Az (EU) 2019/2033 rendelet 8. cikke szerinti csoporttőke-tesztet alkalmazó befektetési vállalkozás a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezéseket egyedi alapon alkalmazza.
+
+(2) Az (EU) 2019/2033 rendelet 7. cikke szerinti prudenciális konszolidációt alkalmazó befektetési vállalkozás a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezéseket egyedi és összevont alapon alkalmazza.
+
+(3) A (2) bekezdéstől eltérően, a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezések nem alkalmazandóak az összevont alapú felügyelet alá tartozó harmadik országbeli leányvállalatokra, ha a magyarországi székhelyű befektetési vállalkozás anyavállalat bizonyítani tudja a Felügyelet számára, hogy a belső irányításra, átláthatóságra, a kockázatok kezelésére és a javadalmazásra vonatkozó rendelkezések alkalmazása jogellenes lenne azon harmadik ország jogszabályai szerint, amelyben az adott leányvállalat letelepedett.”
