@@ -1,1 +1,3 @@
-## „(1a) Egyéb szolgáltatásként postai közreműködői tevékenység ellátásának vállalása esetén az (1) bekezdés b) pontjában foglaltakat azzal az eltéréssel kell alkalmazni, hogy az e szolgáltatás ellátásához szükséges eszközbeszerzés esetén a költségvetési támogatás mértéke az elszámolható költség legfeljebb 100%-a.”
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
