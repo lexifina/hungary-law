@@ -8,7 +8,7 @@
 
 a) az (1) bekezdésben meghatározott összeg, vagy
 
-b) a megelőző év – az 575/2013/EU rendelet 97. cikke szerinti – fix működési költségei 25%-ának megfelelő összeg
+b) a megelőző év – az (EU) 2019/2033 rendelet 13. cikke szerinti – fix működési költségei 25%-ának megfelelő összeg
 
 alá.
 

@@ -262,7 +262,7 @@ b) legalább százezer euró vagy annak megfelelő értékű kollektív befektet
 
 90. származtatott ügylet: a Tpt.-ben meghatározott fogalom;
 
-91. szavatoló tőke: az Európai Parlament és a Tanács a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 575/2013/EU rendeletében (a továbbiakban: 575/2013/EU rendelet) meghatározott fogalom;
+91. szavatoló tőke: a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2019/2033 rendelet] meghatározott szavatoló tőke;
 
 92. szoros kapcsolat:
 

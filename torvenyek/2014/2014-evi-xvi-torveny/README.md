@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2019-12-26 | 2019. évi CXVIII. törvény | 2014-16-00-00.33 |
 | 2020-01-01 | 2019. évi CXVIII. törvény | 2014-16-00-00.34 |
 | 2020-01-18 | 2019. évi CXVIII. törvény | 2014-16-00-00.35 |
+| 2021-06-26 | 2020. évi CX. törvény | 2014-16-00-00.36 |
