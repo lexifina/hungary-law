@@ -1,1 +1,0 @@
-## 9. § Olyan szabályozott piacra be nem vezetett intézmény, amelynek többségi tulajdonnal rendelkező anyavállalata van, a nem pénzbeli javadalmazás teljesítéséhez az anyavállalata által kibocsátott pénzügyi eszközt is felhasználhat. Az ilyen pénzügyi eszköz a 8. § szerinti teljesítményjavadalmazás során is felhasználható.
