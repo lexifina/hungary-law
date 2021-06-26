@@ -1,3 +1,3 @@
-## 21. §[^26]
+## 21. §[^28]
 
-[^26]: A 21. §-t a 17/2020. (XII. 30.) PM rendelet 3. §-a hatályon kívül helyezte.
+[^28]: A 21. §-t a 17/2020. (XII. 30.) PM rendelet 3. §-a hatályon kívül helyezte.

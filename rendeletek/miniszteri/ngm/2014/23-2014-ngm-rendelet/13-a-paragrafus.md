@@ -16,7 +16,13 @@
 
 (7) Ha a (4)–(5) bekezdés szerinti hibás adatszolgáltatás észlelésének napjától számított 3 munkanapon belül a hiba elhárítása nem történt meg, akkor az adatszolgáltatásra kötelezett adóalany az adatszolgáltatást a hiba elhárulásáig a (6) bekezdésben foglaltak szerint köteles teljesíteni.
 
+(8)[^17] Ha a számlakibocsátásra kötelezett adóalany ezen kötelezettségének meghatalmazott útján tesz eleget, és meghatalmazottként a terméket beszerző, szolgáltatást igénybe vevő olyan személy, szervezet jár el, aki (amely) belföldön nem rendelkezik székhellyel, és a meghatalmazotti minőségében történő számlakiállítás alapjául szolgáló ügylettel kapcsolatban belföldön nyilvántartásba nem vett adóalany, a meghatalmazott által számlázó programmal kiállított számláról, számlával egy tekintet alá eső okiratról az (1) bekezdés szerinti adatszolgáltatási kötelezettség teljesíthető a meghatalmazott számlázó programjától eltérő számítástechnikai rendszerből is, feltéve, hogy az gép-gép kapcsolattal, elektronikus úton valósul meg.
+
+(9)[^18] A (8) bekezdés szerinti esetben az (1) bekezdés szerinti adatszolgáltatási kötelezettséget az (1) bekezdéstől eltérően a számla, számlával egy tekintet alá eső okirat kiállítását követő 6 napon belül kell teljesíteni.
+
 [^13]: A 13. §-t a 17/2020. (XII. 30.) PM rendelet 3. §-a hatályon kívül helyezte.
 [^14]: A 4/A. alcímet (13/A–13/B. §) a 2/2018. (VI. 1.) PM rendelet 3. §-a iktatta be.
 [^15]: A 13/A. § (1) bekezdése a 17/2020. (XII. 30.) PM rendelet 2. § b) pontja szerint módosított szöveg.
 [^16]: A 13/A. § (6) bekezdése a 17/2020. (XII. 30.) PM rendelet 2. § c) pontja szerint módosított szöveg.
+[^17]: A 13/A. § (8) bekezdését a 6/2021. (VI. 25.) PM rendelet 2. §-a iktatta be.
+[^18]: A 13/A. § (9) bekezdését a 6/2021. (VI. 25.) PM rendelet 2. §-a iktatta be.
