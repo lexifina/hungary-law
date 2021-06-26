@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat C:8 mezőjében az „51,00” szövegrész helyébe az „51,28” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1397/2021. (VI. 24.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.9-17- 2018-00010 | Szántódpuszta Majorsági épületek fejlesztése és látogatóközpont létrehozása I. ütem | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság, Magyar Turisztikai Szövetség Alapítvány | 1 499 663 665 | 282 592 067 | 1 782 255 732 | A projekt közvetlen célja, hogy a szántódpusztai majorság épületeinek fejlesztésével és látogatóközpont létrehozásával a déli part legalább félnapos attrakciójává váljon, családos, szenior, kerékpárral érkező és kulturális érdeklődésű célcsoportot is kiszolgálva. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
