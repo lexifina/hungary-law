@@ -4,7 +4,7 @@ a) a létesítő okiratát vagy létesítő okiratának módosítását,
 
 b) részvénykönyvének másolatát,
 
-c) a meghatározott mértékű induló tőke befizetésének igazolását, nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy az induló tőke befizetéséhez szükséges összeg az alapításban részt vevő személy törvényes jövedelméből származik vagy a felelősségbiztosítási szerződést,
+c) a meghatározott mértékű induló tőke befizetésének igazolását, nyilatkozatot az erre vonatkozó okirati bizonyítékkal együtt arra, hogy az induló tőke befizetéséhez szükséges összeg az alapításban részt vevő személy törvényes jövedelméből származik,
 
 d) a végezni kívánt tevékenység megnevezését és a kérelmező döntési, irányítási rendszerét is tartalmazó szervezeti és működési szabályzatot,
 

@@ -1,6 +1,6 @@
-123/A. § (1) A befektetési vállalkozás, ha az 575/2013/EU rendelet alapján összevont alapú felügyelet alá tartozik akkor legalább évente egyszer összevont alapon nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonként és harmadik országonkénti bontásban)
+123/A. § (1) A befektetési vállalkozás, ha az 575/2013/EU rendelet 4. cikk (1) bekezdés 26. pontja szerinti pénzügyi vállalkozásnak minősülő, valamely más EGT-államban, illetve harmadik országban működő fiókteleppel vagy leányvállalattal rendelkezik, legalább évente egyszer nyilvánosságra hozza az üzleti évre vonatkozóan (EGT-államonkénti és harmadik országonkénti bontásban) az alábbi információkat:
 
-a) a befektetési vállalkozás nevét, tevékenységek jellegét és földrajzi tagozódását,
+a) a leányvállalatok, illetve fióktelepek nevét, működési helyét, valamint a tevékenységeik jellegét,
 
 b) az árbevételt,
 
@@ -12,9 +12,9 @@ e) az eredményt terhelő adókat, valamint
 
 f) a kapott állami támogatást.
 
-(2) A befektetési vállalkozás egyedi alapon nyilvánosságra hozza az adózott eredmény és a mérlegfőösszeg hányadosaként kifejezett eszközarányos jövedelmezőségi mutatóját.
+(2) Az (1) bekezdés szerinti információkat a számviteli jogszabályokban foglaltakkal összhangban ellenőrizni kell, és – ha rendelkezésre áll – azokat mellékelni kell a befektetési vállalkozás éves beszámolójához vagy az összevont (konszolidált) éves pénzügyi beszámolójához.
 
-(3) A Felügyelet az 575/2013/EU rendelet Nyolcadik részében meghatározott információk évesnél gyakoribb nyilvánosságra hozataláról is dönthet, ha a befektetési vállalkozás tevékenységi volumene, tevékenységi köre, más országban folytatott tevékenysége, különböző pénzügyi szektorokban folytatott tevékenysége, nemzetközi pénzügyi piacon való részvétele, illetve a klíring- és elszámolási rendszerekben való részvétele indokolja azt.
+(3) A Felügyelet megkövetelheti, hogy a kis méretű és össze nem kapcsolt befektetési vállalkozásnak nem minősülő befektetési vállalkozás, valamint a kiegészítő alapvető tőkeinstrumentumokat kibocsátó, kis méretű és össze nem kapcsolt befektetési vállalkozásnak minősülő befektetési vállalkozás legalább évente kétszer hozza nyilvánosságra honlapján az (EU) 2019/2033 rendelet 46. cikke szerinti információkat a Felügyelet által meghatározott a nyilvánosságra hozatali határidőn belül.
 
 (4) A befektetési vállalkozás anyavállalat és a pénzügyi holding társaság anyavállalat legalább évente nyilvánosságra hozza a jogi, vállalatirányítási és szervezeti struktúráját, valamint javadalmazási politikáját.
 

@@ -4,7 +4,7 @@
 
 22. § (1) A részvénytársasági formában működő befektetési vállalkozás ügyvezetését legalább kettő fő, három év szakirányú szakmai gyakorlattal rendelkező természetes személy munkaviszony keretében köteles ellátni.
 
-(1a) Befektetési vállalkozásnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
+(1a) Befektetési vállalkozásnál, befektetési holding társaságnál és vegyes pénzügyi holding társaságnál vezető állású személynek az választható meg, illetve az nevezhető ki, aki
 
 a) – a (6) bekezdésben foglaltak figyelembevételével – igazolja, hogy az (5) bekezdés szerinti bűncselekményi kör tekintetében büntetlen előéletű;
 

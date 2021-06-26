@@ -28,7 +28,7 @@ g) a befektetési vállalkozás fő üzletágai, működési folyamatai és eszk
 
 h) annak ismertetése, hogy a terv hogyan illeszkedik a befektetési vállalkozás vállalatirányítási rendszerébe, ideértve a terv kidolgozásához és végrehajtásához kapcsolódó felelősségi köröket,
 
-i) a 105. §-ban meghatározott tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések, ideértve a csoporton belüli pénzügyi támogatás nyújtását is,
+i) a szavatoló tőkekövetelmény megőrzéséhez kapcsolódó szabályok, lehetséges lépések, ideértve a csoporton belüli pénzügyi támogatás nyújtását is,
 
 j) szabályok és lépések annak biztosítására, hogy a befektetési vállalkozás megfelelően hozzáférjen válsághelyzeti finanszírozási forrásokhoz,
 

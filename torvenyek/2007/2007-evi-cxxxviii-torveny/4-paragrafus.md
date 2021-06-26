@@ -18,7 +18,7 @@ d) végrehajtott tranzakciók kereskedést követő feldolgozására
 
 használnak,
 
-1a. anticiklikus tőkepufferráta: a befektetési vállalkozás tevékenységéhez kapcsolódó prociklikusság csökkentését célzó tőkepuffer-követelmény meghatározásához alkalmazott arányszám, amelyet a befektetési vállalkozás a kitettségeihez kapcsolódó felek vonatkozásában alkalmaz azok földrajzi elhelyezkedése alapján;
+1a.
 
 1b. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
 
@@ -50,6 +50,8 @@ f) az Európai Beruházási Bank,
 
 4a. árualapú származtatott termék: a 600/2014/EU rendelet 2. cikke (1) bekezdésének 30. pontjában meghatározott termék,
 
+4b. árutőzsdei kereskedő és kibocsátásiegység-kereskedő: az 575/2013/EU rendelet 4. cikk (1) bekezdés 150. pontjában meghatározott fogalom,
+
 5. átruházható értékpapír: a tőkepiacon forgalomképes értékpapír a fizetőeszköz kivételével,
 
 6. azonosító adatok:
@@ -66,6 +68,10 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 10. befektetési vállalkozás: az, aki e törvény szerinti, tevékenység végzésére jogosító engedély alapján, harmadik személy részére, ellenérték fejében, rendszeres gazdasági tevékenysége keretében befektetési szolgáltatást nyújt vagy befektetési tevékenységet végez, ide nem értve a 3. §-ban meghatározottakat,
 
+10a. befektetési vállalkozás-csoport: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 25. pontjában meghatározott fogalom,
+
+10b. befektetési holding társaság: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 23. pontjában meghatározott fogalom,
+
 11. minősített befolyás: a Hpt.-ben befolyásoló részesedésként meghatározott fogalom,
 
 11a. certifikát: a 600/2014/EU rendelet 2. cikk (1) bekezdés 27. pontjában meghatározott fogalom,
@@ -75,6 +81,10 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 11c. CTP: összesítettadat-szolgáltató, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely összegyűjti a szabályozott piacokról, az MTF-ektől, az OTF-ektől és az APA-któl (jóváhagyott közzétételi mechanizmusok) a 600/2014/EU rendelet 6., 7., 10., 12., 13., 20. és 21. cikkében felsorolt pénzügyi eszközökről szóló kereskedési jelentéseket, és azokat olyan, folyamatos és élő elektronikus adatfolyamba vonja össze, amely pénzügyi eszközönként árfolyam- és volumenadatokat biztosít,
 
 12. csereügylet (swap): valamely pénzügyi eszköz cseréjére vonatkozó olyan összetett megállapodás, amely általában egy azonnali és egy határidős adásvételi ügyletből, illetve több határidős ügyletből tevődik össze és általában jövőbeni pénzáramlások cseréjét vonja maga után,
+
+12a. csoportfelügyeleti hatóság: az EU-szintű befektetési vállalkozás anyavállalat, az EU-szintű befektetési holding társaság anyavállalat vagy az EU-szintű vegyes pénzügyi holding társaság anyavállalat által ellenőrzött befektetési vállalkozás csoporttőke-tesztnek való megfelelésének felügyeletére hatáskörrel rendelkező felügyeleti hatóság,
+
+12b. csoporttőke-tesztnek való megfelelés: a befektetési vállalkozás-csoport anyavállalatának megfelelése az (EU) 2019/2033 rendelet 8. cikke szerinti követelményeknek,
 
 13. dotációs tőke: a fióktelep létesítéséhez és működéséhez az alapító által tartósan, korlátlanul, tehermentesen a fióktelep szabad rendelkezésére bocsátott tőke,
 
@@ -96,11 +106,11 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 21.
 
-22. EU-szintű anyavállalat: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 575/2013/EU rendelet) ekként meghatározott fogalom,
+22. EU-szintű befektetési vállalkozás anyavállalat: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 56. pontjában meghatározott EU-szintű befektetési vállalkozás anyavállalat,
 
-23. EU-szintű pénzügyi holding társaság anyavállalat az 575/2013/EU rendeletben ekként meghatározott fogalom,
+23. EU-szintű befektetési holding társaság anyavállalat: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 57. pontjában meghatározott EU-szintű befektetési vállalkozás anyavállalat,
 
-23a. EU-szintű vegyes pénzügyi holding társaság anyavállalat az 575/2013/EU rendeletben ekként meghatározott fogalom,
+23a. EU-szintű vegyes pénzügyi holding társaság anyavállalat: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 58. pontjában meghatározott EU-szintű befektetési vállalkozás anyavállalat,
 
 23b. értékpapír-finanszírozási ügylet: az értékpapír-finanszírozási ügyletek és az újrafelhasználás átláthatóságáról, valamint a 648/2012/EU rendelet módosításáról szóló (EU) 2015/2365 európai parlamenti és tanácsi rendelet 3. cikk 11. pontja szerint meghatározott fogalom,
 
@@ -126,7 +136,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 31a. harmadik országbeli vállalkozás: olyan vállalkozás, amely befektetési szolgáltatási tevékenységet végző vagy kiegészítő szolgáltatást nyújtó hitelintézetnek, befektetési vállalkozásnak minősülne, ha központi ügyviteli helye vagy létesítő okirat szerinti székhelye valamely EGT-államban lenne,
 
-32. induló tőke: az alapításkori jegyzett tőke, a tőketartalék és az eredménytartalék összege,
+32. indulótőke: a 13. §-ban meghatározott alapításkori induló tőke, amely az (EU) 2019/2033 rendelet 9. cikke szerinti elemekből áll,
 
 33. jegyzési garanciavállalás: az értékpapír saját számlára történő lejegyzésére, illetve megvásárlására vonatkozó kötelezettségvállalás vagy a jegyzés vagy eladás meghiúsulásának elkerülése érdekében szerződésben vállalt mennyiségű értékpapír lejegyzésére, illetőleg megvásárlására vonatkozó kötelezettségvállalás,
 
@@ -142,7 +152,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 34d. kkv-tőkefinanszírozási piac: olyan multilaterális kereskedési rendszer, amelyet kkv-tőkefinanszírozási piacként vettek nyilvántartásba, a 154/A. §-nak megfelelően,
 
-35.
+35. kis méretű és össze nem kapcsolt befektetési vállalkozás: az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott fogalom,
 
 36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,
 
@@ -195,6 +205,10 @@ a) a hálózati és egyéb típusú adatátviteli idő minimalizálását célz�
 b) a megbízások kezdeményezését, létrehozását, továbbítását vagy végrehajtását a rendszer határozza meg, anélkül, hogy az egyes ügyletek vagy megbízások kapcsán emberi beavatkozásra kerülne sor, valamint
 
 c) a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 19. cikkében meghatározott magas napi üzenetforgalom (megbízások, árajánlatok vagy törlések),
+
+49d. nemek szempontjából semleges javadalmazási politika: a Hpt.-ben meghatározott fogalom,
+
+49e. összevont helyzet: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 11. pontjában meghatározott fogalom,
 
 50. pénzügyi elemző: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott személy,
 
@@ -252,7 +266,13 @@ e) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi szem
 
 f) ha az adatszolgáltatási tevékenységet végző APA, CTP vagy ARM jogi személy és nemzeti joga szerint nem rendelkezik létesítő okirat szerinti székhellyel, az az EGT-állam, amelyben a központi irodája található,
 
-63. szoros kapcsolat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
+63. szoros kapcsolat: olyan helyzet, amelyben két vagy több természetes vagy jogi személy a következő tényezők valamelyike révén kapcsolatban áll egymással:
+
+a) részesedés, amely valamely vállalkozás szavazati jogai vagy tőkéje 20%-ának vagy annál nagyobb részének közvetlen vagy ellenőrző befolyás útján történő birtoklása,
+
+b) ellenőrző befolyás, amely az anyavállalat és a leányvállalat közötti kapcsolat, a leányvállalat leányvállalatát is azon anyavállalat leányvállalatának tekintve, amely e vállalkozások élén áll, vagy más hasonló kapcsolat bármely természetes vagy jogi személy és jogi személy között,
+
+c) olyan helyzet, amelyben ezek ellenőrző befolyás révén tartósan kapcsolódnak ugyanazon személyhez,
 
 64. szponzor: az 575/2013/EU rendeletben ekként meghatározott fogalom,
 
@@ -290,6 +310,8 @@ bc) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyz
 
 70. üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalom,
 
+70a. vegyes tevékenységű holding társaság: olyan anyavállalat, amely nem minősül pénzügyi holdingtársaságnak, befektetési holdingtársaságnak, hitelintézetnek, befektetési vállalkozásnak vagy vegyes pénzügyi holding társaságnak és amelynek leányvállalatai közül legalább egy befektetési vállalkozás,
+
 71. vezető állású személy:
 
 a) a vezető tisztségviselő – ideértve az e törvény szerinti ügyvezetőt is – és a felügyelő bizottság tagja,
@@ -310,7 +332,7 @@ c) amely esetén a szavazati jogok többségét – a vállalkozás más tulajdo
 
 d) amely fölött a létesítő okirat, megállapodás alapján egy személy döntő befolyást, ellenőrzést gyakorol vagy gyakorolhat,
 
-74. járulékos vállalkozás: a Tpt.-ben meghatározott fogalom,
+74. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlantulajdonlást, ingatlankezelést vagy adatkezelést végez,
 
 75. kapcsolt vállalkozás: a Tpt.-ben meghatározott fogalom,
 
@@ -328,45 +350,27 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 82. javadalmazás: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott fogalom,
 
-83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó teljesítményt nyújt vagy abban nem rögzített feladatokat lát el,
+83. teljesítményjavadalmazás: a javadalmazás azon része, amelyet a befektetési vállalkozás az alapjavadalmazáson felül biztosíthat a vezető állású személynek és a munkavállalónak, ha az a munkaszerződésben meghatározottakat meghaladó fenntartható és kockázattal kiigazított teljesítményt nyújt vagy abban nem rögzített feladatokat lát el,
 
 84. Nem kötelező nyugdíjjuttatás: a Hpt.-ben ekként meghatározott fogalom,
 
-85. túlzott tőkeáttétel kockázata: az 575/2013/EU rendeletben ekként meghatározott fogalom.
+85.
 
-86. tőkefenntartási puffer: a befektetési vállalkozás veszteségviselő képességének növelése érdekében kötelezően fenntartandó szavatolótőke-követelmény.
+86.
 
-87. intézményspecifikus anticiklikus tőkepuffer: a befektetési vállalkozási tevékenység prociklikusságának a csökkentésére irányuló, az ügyfél – akivel szemben a hitelezési kitettség fennáll – elhelyezkedésének figyelembevételével számított szavatolótőke-követelmény,
+87.
 
-88. rendszerszinten jelentős befektetési vállalkozás:
+88.
 
-a) az EU-szintű anyavállalat,
+89.
 
-b) az EU-szintű pénzügyi holding társaság anyavállalat,
+90.
 
-c) az EU-szintű vegyes pénzügyi holding társaság anyavállalat, vagy
+91.
 
-d) a befektetési vállalkozás,
+92.
 
-amelynek fizetésképtelenné válása vagy nem prudens működése rendszerkockázathoz vezethet,
-
-89. globálisan rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amely nem lehet leányvállalata valamely
-
-a) EU-szintű anyavállalatnak,
-
-b) EU-szintű pénzügyi holding társaság anyavállalatnak,
-
-c) EU-szintű vegyes pénzügyi holding társaság anyavállalatnak, és
-
-amelynek fizetésképtelenné válása vagy nem prudens működése globális szintű rendszerkockázathoz vezethet,
-
-90. globálisan rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a rendszerszintű kockázatokat hordozó, globálisan tevékenykedő befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
-
-91. egyéb rendszerszinten jelentős befektetési vállalkozás: olyan rendszerszinten jelentős befektetési vállalkozás, amelynek felszámolása vagy nem prudens működése EGT-szinten vagy tagállami szinten rendszerkockázathoz vezethet,
-
-92. egyéb rendszerszinten jelentős befektetési vállalkozásokra vonatkozó tőkepuffer: a Magyarországon vagy az Európai Unióban jelentős kockázatokat hordozó befektetési vállalkozások csődvalószínűségének és kockázatvállalásának csökkentésére irányuló szavatolótőke-követelmény,
-
-93. rendszerkockázati tőkepuffer: a rendszerszintű kockázatok megelőzésére és mérséklésére irányuló szavatolótőke-követelmény,
+93.
 
 93a. helyreállítási képesség: a befektetési vállalkozás azon képessége, hogy stabilizálja pénzügyi helyzetét, ha az jelentős mértékben romlik;
 
@@ -390,8 +394,8 @@ amelynek fizetésképtelenné válása vagy nem prudens működése globális sz
 
 103. belső módszer: az 575/2013/EU rendeletben belső minősítésen alapuló módszerként meghatározott fogalom,
 
-104. modellkockázat: a Hpt.-ben ekként meghatározott fogalom,
+104.
 
-105. tőkeáttétel: a Hpt.-ben ekként meghatározott fogalom,
+105.
 
-106. teljes kockázati kitettség: az 575/2013/EU rendeletben ekként alkalmazott fogalom.
+106.

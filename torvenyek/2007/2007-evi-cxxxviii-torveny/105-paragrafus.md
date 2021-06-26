@@ -2,15 +2,7 @@
 
 105. § (1) A befektetési vállalkozás a prudens működésre vonatkozó előírások betartásával úgy köteles a rábízott idegen és saját forrásokkal gazdálkodni, hogy folyamatosan fenntartsa azonnali fizetőképességét (likviditását) és mindenkori fizetőképességét (szolvenciáját).
 
-(2) A befektetési vállalkozás – a mindenkori fizetőképesség (szolvencia) fenntartása és a kötelezettségek teljesíthetősége érdekében – az általa végzett tevékenység kockázatának fedezetét mindenkor biztosító megfelelő nagyságú szavatoló tőkével rendelkezik, amely legalább
-
-a) az 575/2013/EU rendelet 92. cikkében meghatározott minimum tőkekövetelmény,
-
-b) a felügyeleti felülvizsgálat keretében előírt többlettőke-követelmény, valamint
-
-c)
-
-összegének értéke azzal, hogy az összeg nem lehet kevesebb az engedélyezés feltételeként előírt legkisebb jegyzett tőke értékénél.
+(2)
 
 (3) A befektetési vállalkozás a tevékenységét likviditása folyamatos fenntartása mellett végzi.
 

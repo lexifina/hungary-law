@@ -42,6 +42,8 @@ oc) tulajdonosainak e szervezetektől való kölcsönfelvételét, illetőleg, h
 
 od) tulajdonosainak és vezető tisztségviselőinek érdekeltségi körébe tartozó vállalkozások részére történő hitel, kölcsön nyújtását, illetve annak minősülő ügyletkötést,
 
+oe) részvényeseinek, tagjainak vagy a kiegészítő alapvető tőkeinstrumentumok tulajdonosainak járó, a befektetési vállalkozás általi nyereség- vagy kamatkifizetést, amennyiben ez a korlátozás vagy tilalom nem minősül a befektetési vállalkozás általi nem-teljesítésnek,
+
 of) hitel vagy kölcsönszerződésében foglalt határidők meghosszabbítását (prolongálását),
 
 og) új fiókjának megnyitását, új tevékenységének megkezdését, valamint új üzletágának kialakítását,
@@ -62,7 +64,7 @@ r) a multilaterális kereskedési rendszer működését felfüggesztheti,
 
 s) a befektetési vállalkozást az irányítási és kockázatkezelési rendszerére, valamint a 106. § szerinti belső tőkemegfelelés értékelési folyamatára vonatkozó szabályzatok, eljárások, stratégiák és módszerek megerősítésére kötelezheti,
 
-t) a befektetési vállalkozást a (4) bekezdés szerinti többlettőke-követelmény elérésére kötelezheti,
+t) a befektetési vállalkozást a (4) bekezdés szerinti többlettőke-követelmény elérésére kötelezheti, illetve a befektetési vállalkozás üzleti tevékenységének lényeges változása esetén módosíthatja a szavatoló tőke és a likvid eszközök megkövetelt mennyiségét,
 
 u) az MTF-en, illetve OTF-en kereskedés tárgyát képező pénzügyi eszköz kereskedését felfüggesztheti, valamint előírhatja valamely pénzügyi eszköz kereskedésből történő kivezetését,
 
@@ -95,6 +97,24 @@ zsh) ideiglenesen vagy – ismételt súlyos jogsértés esetén – tartósan e
 zsi) ideiglenesen eltilthatja a befektetési vállalkozást a szabályozott piacon való részvételtől, az MTF-ekben való tagságtól, illetve az OTF-ekben ügyfélként való részvételtől, valamint
 
 zsj) felfüggesztheti a befektetési vállalkozás érintett részvényeihez fűződő szavazati jogok gyakorlását, amennyiben a befektetési vállalkozásban gyakorolt minősített befolyás hátrányosan érinti a befektetési vállalkozás megalapozott és megbízható irányítását, illetve amennyiben a befektetési vállalkozásban minősített befolyást szerző személy nem teljesíti a minősített befolyás megszerzésével vagy mértékének növelésével kapcsolatos, 37. § és 37/B. § szerinti kérelem-benyújtási kötelezettségét.
+
+(1a) A Felügyelet – a fokozatosság és arányosság figyelembevételével – az (EU) 2019/2033 rendelet és e törvény alkalmazása során
+
+a) előírhatja a befektetési vállalkozás számára, hogy időben tegye meg a szükséges intézkedéseket a fennálló jogsértés megszüntetésére, illetve az elkövetkező tizenkét hónapban várhatóan bekövetkező jogsértés megszüntetésére, amennyiben az utóbbira a Felügyelet bizonyítékkal rendelkezik,
+
+b) előírhatja a befektetési vállalkozás számára, hogy egy éven belül nyújtson be az (EU) 2019/2033 rendelet és e törvény szerinti felügyeleti követelményeknek való megfelelés visszaállítására irányuló tervet, ennek végrehajtására tűzzön ki határidőt, és módosítsa a terv hatályát és végrehajtási határidejét,
+
+c) a szavatoló tőke követelmények vonatkozásában a befektetési vállalkozás számára egyedi tartalékképzési szabályzatot vagy eszközkezelést írhat elő,
+
+d) szigorúbb feltételekhez kötheti vagy korlátozhatja a befektetési vállalkozás üzletvitelét, működését vagy hálózatát, vagy megkövetelheti a befektetési vállalkozás megfelelő pénzügyi működésére túlzott kockázatot jelentő tevékenységek leválasztását,
+
+e) előírhatja a befektetési vállalkozás tevékenységében, termékében és rendszerében rejlő kockázat csökkentését, ideértve a kiszervezett tevékenységeket is,
+
+f) a jogszabályban előírt adatszolgáltatást kiegészítő vagy annál gyakoribb adatszolgáltatást írhat elő, beleértve a tőke- és likviditási pozíciókra vonatkozó adatszolgáltatást,
+
+g) kiegészítő nyilvánosságra hozatalt követelhet meg, vagy
+
+h) megkövetelheti, hogy a befektetési vállalkozás csökkentse a hálózati és információs rendszerei biztonságát fenyegető kockázatokat a vállalkozások eljárásai, adatai és eszközei bizalmas jellegének, integritásának és rendelkezésre állásának biztosítása érdekében.
 
 (2) A Felügyelet az (1) bekezdés oa) alpontjában foglalt intézkedést akkor alkalmazhatja, ha az osztalék kifizetése esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató e törvényben foglalt tőkekövetelményeknek való megfelelése nem biztosított.
 
@@ -133,3 +153,5 @@ d) forrásbevonási stratégiájának a fő üzletágak, kritikus funkciók elle
 a) a felfüggesztés visszavonása esetén és
 
 b) az értesítési eljárás vonatkozásában a Felügyelet által alkalmazott, az (1) bekezdés u) pontja szerinti szankciókra vonatkozó határozatok esetén.
+
+(12) E § rendelkezéseit alkalmazni kell a befektetési holding társaságra, a vegyes pénzügyi holding társaságra, a vegyes tevékenységű holding társaságra, valamint ezek vezető állású személyére.

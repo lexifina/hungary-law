@@ -20,7 +20,7 @@ f) a befektetési vállalkozás panaszkezelésének eljárására, valamint a pa
 
 g)
 
-h) a javadalmazási politikának az érintett befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására vonatkozó részletes szabályokat
+h)
 
 rendeletben állapítsa meg.
 

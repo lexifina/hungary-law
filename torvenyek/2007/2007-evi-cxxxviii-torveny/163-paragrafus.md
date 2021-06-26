@@ -2,7 +2,7 @@
 
 a) szolvenciáját veszélyeztető kockázatok azonosítására kerül sor az elvégzett stressztesztek eredményei, vagy a felügyeleti és értékelési eljárás eredményei alapján,
 
-b) megsértik az e törvény, a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet rendelkezéseit,
+b) megsértik az e törvény, a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet rendelkezéseit,
 
 c) a pénzügyi rendszer alapján rendszerszinten jelentősek, vagy
 

@@ -6,7 +6,7 @@ b) a likviditási kockázat,
 
 c) a felügyeleti felülvizsgálat,
 
-d) a 105. § szerinti többlettőke-követelmény vagy
+d)
 
 e) az intézményspecifikus likviditási követelmények
 

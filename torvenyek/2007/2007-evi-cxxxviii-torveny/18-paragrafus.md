@@ -24,4 +24,6 @@ b) az ügyfél által átadott vagy az ügyfelet megillető pénzügyi eszköz �
 
 c) a befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató jogszabályban előírt adatszolgáltatási kötelezettségének teljesítésére.
 
+(2a) A befektetési vállalkozás minden eljárást és rendszert olyan módon dokumentál, hogy a Felügyelet az e törvényben és az (EU) 2019/2033 rendeletben meghatározott prudenciális követelményeknek való megfelelését ellenőrizhesse.
+
 (3) Az MNB elnöke a pénzügyi közvetítőrendszer felügyeletével kapcsolatos jogkörében a hatékony és eredményes kockázatkezelés elősegítése érdekében rendeletben szabályozza a nem teljesítő kitettség és az átstrukturált követelésre vonatkozó prudenciális követelményeket.

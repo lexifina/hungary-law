@@ -66,6 +66,16 @@ kell eleget tenni.
 
 (6) A befektetési vállalkozás és az árutőzsdei szolgáltató köteles a tevékenységéről, az általa megkötött ügyletekről jogszabályban előírt módon, tartalommal és gyakorisággal a Felügyeletnek adatot szolgáltatni.
 
+(6a) A (6) bekezdéstől eltérően, a Felügyelet akkor írhat elő kiegészítő vagy gyakoribb adatszolgáltatást a befektetési vállalkozás számára, ha az nem eredményez párhuzamos adatközlést, és
+
+a) fennáll a 164. § (1a) bekezdés a) pontja szerinti eset,
+
+b) a Felügyelet szükségesnek ítéli a 164. § (1a) bekezdés a) pontja szerinti bizonyítékok begyűjtését, vagy
+
+c) a kiegészítő információra a 162. § szerinti felügyeleti felülvizsgálat és értékelés céljából van szükség.
+
+(6b) Az adatközlés akkor tekinthető párhuzamosnak, ha az információ vagy lényegében ugyanaz az információ már a Felügyelet rendelkezésére áll, azt a Felügyelet elő tudja állítani, vagy az adatszolgáltatási kötelezettségnek a befektetési vállalkozás számára történő előírása nélkül is be tudja szerezni. Ha az információ a közlendő további információtól eltérő formátumban vagy részletezettséggel áll a Felügyelet rendelkezésére, akkor a Felügyelet nem írhat elő további adatszolgáltatást, ha az említett eltérő formátum vagy részletezettség nem akadályozza abban, hogy lényegében hasonló információt állítson elő.
+
 (7) A Magyarország területén bejegyzett befektetési vállalkozás köteles bejelenteni, ha anyavállalata vegyes tevékenységű holding társasággá vagy vegyes pénzügyi holding társasággá válik, és ha ezen viszony módosul vagy megszűnik.
 
 (8) A működési kockázat kivételével az egyes kockázati típusok tőkekövetelmény számítására belső módszert alkalmazó befektetési vállalkozások évente legalább egyszer megküldik a Felügyelet számára a kialakított referenciaérték portfóliókra a belső módszerük által számított tőkekövetelmény eredményeket és a számításra alkalmazott módszerek magyarázatát. A referenciaérték portfólióra vonatkozó adatszolgáltatás módját, annak tartalmát, valamint a beérkezett információk értékelésének módszertanát az Európai Bizottság vonatkozó rendelete határozza meg. A Felügyelet a rendeletben foglaltakhoz képest további referenciaérték portfóliókat is meghatározhat.

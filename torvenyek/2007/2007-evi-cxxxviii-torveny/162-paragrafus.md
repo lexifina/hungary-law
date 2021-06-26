@@ -1,64 +1,46 @@
 ## Felügyeleti felülvizsgálat és értékelés
 
-162. § (1) A Felügyelet felülvizsgálja és értékeli azokat a szabályzatokat, stratégiákat, eljárásokat és módszereket, amelyeket a befektetési vállalkozás az e törvény, továbbá a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet betartása érdekében hoz.
+162. § (1) A Felügyelet felülvizsgálja és értékeli azokat a szabályzatokat, stratégiákat, eljárásokat és módszereket, amelyeket a befektetési vállalkozás az e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet betartása érdekében hoz.
 
-(2) A Felügyelet felülvizsgálja és értékeli a befektetési vállalkozás e törvény, továbbá a prudens működésre vonatkozó szabályok és az 575/2013/EU rendelet összes követelményének való megfelelését.
+(2) A Felügyelet felülvizsgálja és értékeli a befektetési vállalkozás e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet összes követelményének való megfelelését.
 
-(3) A Felügyelet a felügyeleti felülvizsgálatot és értékelést az 575/2013/EU rendelet első részének II. címében meghatározottaknak megfelelően egyedi vagy összevont alapon végzi.
+(3)
 
-(4) A Felügyelet a felülvizsgálati és értékelési eljárás során értékeli:
+(4)
 
-a) azon kockázatokat, amelyeknek a befektetési vállalkozás ki van vagy ki lehet téve,
+(5) A Felügyelet a kockázatok fedezetének és megbízható kezelésének biztosítása érdekében a felülvizsgálati és értékelési eljárás során értékeli
 
-b) a befektetési vállalkozás pénzügyi közvetítőrendszerre gyakorolt rendszerszintű kockázatát, és
+a) a 101. § (1) bekezdés szerinti kockázatokat,
 
-c) azon kockázatokat, amelyeket a stresszteszt során a befektetési vállalkozás tevékenységének jellegét, nagyságrendjét és összetettségét figyelembe véve feltártak.
+b) a befektetési vállalkozás kitettségeinek földrajzi helyét,
 
-(5) A felülvizsgálatnak és értékelésnek a hitel-, piaci és működési kockázatokon kívül ki kell terjednie:
+c) a befektetési vállalkozás üzleti modelljét,
 
-a) a belső minősítési módszert alkalmazó befektetési vállalkozás által végzett stresszteszteredményekre,
+d) a rendszerszintű kockázat azonosításával és mérésével a rendszerszintű kockázatot az 1093/2010/EU rendelet 23. cikke vagy az Európai Rendszerkockázati Testület (a továbbiakban: ERKT) ajánlásai alapján,
 
-b) a 101. § (1) bekezdésének b) pontja szerinti koncentrációs kockázat kezelésére,
+e) a befektetési vállalkozás hálózati és információs rendszerének biztonságát fenyegető kockázatokat, a befektetési vállalkozás eljárásai, adatai és eszközei bizalmas jellegének, integritásának és rendelkezésre állásának biztosítása érdekében,
 
-c) az elismert hitelezési kockázatmérséklési módszerek használatával kapcsolatos – a 21/A. § (2) bekezdése – kockázat kezelésére szolgáló eljárások és szabályzatok megbízhatóságára, megfelelőségére és alkalmazási módjára,
+f) a befektetési vállalkozás vállalatirányítási rendszereit, a vezető testület tagjainak feladataik ellátására irányuló képességeit, és
 
-d) a befektetési vállalkozás likviditási kockázatokkal szembeni kitettségének mértékére, e kockázatoknak a befektetési vállalkozás általi mérésére és kezelésére, ideértve az alternatív forgatókönyvek elemzését, a kockázatcsökkentő eszközök alkalmazását, a likviditási többlettartalékok mértékét, összetételét és minőségét, valamint a vészhelyzeti terveket,
+g) a befektetési vállalkozásnak a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatát.
 
-e) a kockázatmegoszlás (diverzifikáció) hatására és annak kockázatfelmérési rendszerben történő figyelembevételére,
+(6) Az (5) bekezdés alkalmazása során a Felügyelet figyelembe veszi, hogy a befektetési vállalkozás rendelkezik-e a 101. § (6) bekezdés szerinti szakmai felelősségbiztosítással.
 
-f) a piaci kockázattal kapcsolatos tőkekövetelményhez belső modell módszert használó befektetési vállalkozás által végrehajtott stresszteszteredményekre,
-
-g) a kitettséggel szemben felmerülő országkockázatból eredő pótlólagos tőkekövetelményre,
-
-h) egy olyan mérési vizsgálatra, amelynek keretében a Felügyelet megállapítja, hogy egy – általa megállapított mértékű – hirtelen és váratlan kamatlábváltozásnak milyen hatása lenne a szavatoló tőkére,
-
-i) arra, hogy a befektetési vállalkozás által értékpapírosított eszközökre vonatkozó szavatoló tőke mértéke megfelel-e az ügylet gazdasági tartalma által indokolt mértéknek, ideértve az átadott kockázat mértékét is,
-
-j) a befektetési vállalkozás üzleti modelljére,
-
-k) a rendszerszintű kockázatra,
-
-l) a befektetési vállalkozás túlzott tőkeáttételi kockázatnak való kitettségére, és annak kezelése céljából működtetett rendszerek, stratégiák, eljárások és mechanizmusok megfelelőségére, valamint
-
-m) a befektetési vállalkozás vállalatirányítási rendszereire, vállalati kultúrájára és értékeire, az irányító és ellenőrző testületek feladatai ellátására irányuló képességeire.
-
-(6) Az (5) bekezdés d) pontja szerinti felülvizsgálat keretében a Felügyelet a befektetési vállalkozás pénzügyi piacon betöltött szerepéhez igazodva értékeli a likviditási kockázat kezelését, valamint a likviditási kockázatot mérséklő eszközök alkalmazását ösztönözve a megbízható belső módszerek kifejlesztését.
-
-(7) Az (1) és (2) bekezdés szerinti felülvizsgálat és értékelés alapján a Felügyeletnek meg kell határoznia, hogy a befektetési vállalkozás által alkalmazott szabályzatok, stratégiák, eljárások és módszerek, valamint a befektetési vállalkozás szavatoló tőkéje és likvid eszköze biztosítja-e a kockázatok fedezetét és megbízható kezelését.
+(7)
 
 (8) A Felügyelet által végzett felülvizsgálat és értékelés a kereskedési könyvet vezető befektetési vállalkozásnál arra is kiterjed, hogy a befektetési vállalkozás által elszámolt értékvesztés és képzett céltartalék lehetővé teszi-e a pozíciók rövid időn – legfeljebb harminc napon – belüli lezárását normális piaci körülmények között.
 
-(9) A Felügyelet által végzett felülvizsgálat és értékelés kiterjed a befektetési vállalkozásnak a kereskedési könyvben nem nyilvántartott kitettségének a kamatkockázatára.
+(9)
 
-(10) A Felügyelet a felügyeleti felülvizsgálat és értékelés keretében ellenőrzi, hogy a befektetési vállalkozás nyújtott-e burkolt támogatást értékpapírosításhoz. Ha a befektetési vállalkozás egynél többször nyújtott már az 575/2013/EU rendelet 248. cikke szerinti burkolt támogatást, és ezzel nem ér el jelentős kockázattranszferálást, akkor a Felügyeletnek meg kell tennie a 164. § szerinti intézkedéseket.
+(10)
 
 (11) A felülvizsgálat és az értékelés gyakoriságát, mértékét és részletezettségét a befektetési vállalkozás mérete, tevékenységének jelentősége, jellege, nagyságrendje és összetettsége alapján arányosan határozza meg a Felügyelet azzal, hogy a felülvizsgálatot és értékelést legalább évente egyszer el kell végezni.
 
-(12) Ha a Felügyelet a felügyeleti felülvizsgálat és értékelés során azt állapítja meg, hogy a befektetési vállalkozás az (5) bekezdés h) pontja szerinti kamatlábváltozás figyelembevételével számított üzleti értéke (eszköz-, idegen forrás- és mérlegen kívüli pozíciói várható nettó pénzáramlásának jelenértéke) a szavatoló tőke több mint 20 százalékával csökkenne a kamatlábváltozás figyelembevétele nélkül számított üzleti értékéhez viszonyítva, a kamatláb hirtelen és nem várt, 200 bázispontos vagy az EBH által meghatározott egyéb változás eredményeként, akkor a Felügyelet a 164. §-ban foglalt intézkedést alkalmaz.
+(12)
 
-(13) Az (5) bekezdés j) pontja szerinti felülvizsgálat és értékelés keretében a Felügyelet figyelembe veszi a befektetési vállalkozás üzleti modelljét.
+(13) Az (5) bekezdés c) pontja szerinti felülvizsgálat és értékelés keretében a Felügyelet figyelembe veszi a befektetési vállalkozás üzleti modelljét.
 
-(14) Az (5) bekezdés m) pontja szerinti felülvizsgálat és értékelés keretében a befektetési vállalkozásnak a Felügyelet rendelkezésére kell bocsátania legalább
+(14) Az (5) bekezdés f) pontja szerinti felülvizsgálat és értékelés keretében a befektetési vállalkozásnak a Felügyelet rendelkezésére kell bocsátania legalább
 
 a) a vezető és ellenőrző testület és egyéb bizottsági ülésének napirendjét és a kapcsolódó dokumentumokat, valamint
 

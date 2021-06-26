@@ -50,14 +50,16 @@ i) a befektetési vállalkozásnak az esetleges likviditási hiányok megszünte
 
 j) a befektetési vállalkozásnak a likviditás helyreállítására vonatkozó tervek azonnali végrehajthatóságának érdekében előzetesen meg kell hoznia a szükséges működési intézkedéseket, amelyek magukban foglalják a központi banki finanszírozáshoz szükséges fedezetek azonnali hozzáférhetőségének biztosítását, amely fedezetek szükség esetén a befektetési vállalkozás kitettségeinek pénznemében is tarthatóak.
 
-(3) A rulírozó kitettségek értékpapírosítását kezdeményező befektetési vállalkozás, ha az értékpapír előrehozott tőketörlesztésre vonatkozó rendelkezést tartalmaz, likviditási tervvel rendelkezik a terv szerinti tőketörlesztés, valamint az előrehozott tőketörlesztés esetére.
+(3)
 
 (4) A befektetési vállalkozás a tevékenységének jellegével, nagyságrendjével és összetettségével összhangban alakítja ki likviditási kockázati profilját.
 
 (5) A Felügyelet figyelemmel kíséri a befektetési vállalkozás (4) bekezdésben meghatározottaknak megfelelően kialakított kockázati profiljának változásait. Ha ezen változások kihatnak a befektetési vállalkozás biztonságos működésére vagy a pénzügyi közvetítőrendszer stabilitására, akkor a Felügyeletnek meg kell tennie a szükséges intézkedéseket.
 
-(6) Az (1) bekezdés h) pontjában foglaltak teljesítésénél a befektetési vállalkozásnak különösen figyelembe kell vennie az 575/2013/EU rendelet 429. cikke alapján meghatározott tőkeáttételi mutatót, valamint az eszközök és kötelezettségek közötti eltéréseket.
+(6) Az (1) bekezdés alkalmazása során az ügyfelek védelme érdekében a befektetési vállalkozás megfontolja, hogy a kockázatkezelés hatékony eszközeként szakmai felelősségbiztosítást alkalmazzon.
 
-(7) Az (1) bekezdés j) pontjában meghatározott nettó finanszírozási pozícióval (eszköz-, forrásszerkezettel és lejárati összhanggal) kapcsolatos döntéseket alátámasztó feltételezéseket rendszeresen felülvizsgálja.
+(7) Az (1) bekezdés alkalmazása során a befektetési vállalkozást fenyegető jelentős kockázatként kell figyelembe venni többek között – adott esetben – az eszközök könyv szerinti értékében bekövetkező jelentős változásokat, beleértve a függő ügynökökkel szembeni esetleges követeléseket, az ügyfelek vagy szerződő felek csődjét, a pénzügyi eszköz-, deviza- és árupozíciókat, valamint a szolgáltatással meghatározott nyugdíjkonstrukció felé fennálló kötelezettségeket.
 
-(8) A befektetési vállalkozás a tőkekövetelménnyel nem fedezett piaci kockázatokra vonatkozóan is megfelelő szintű belső tőkével rendelkezik.
+(8) A befektetési vállalkozásnak biztosítania kell, hogy megfelelő szintű szavatoló tőkével rendelkezzen abban az esetben is, ha a piaci kockázatokat nem fedezik kellőképpen az (EU) 2019/2033 rendelet 11. cikke szerinti szavatoló tőke követelmények szerinti tőkeelemek.
+
+(9) A Felügyelet kötelezi a befektetési vállalkozást, hogy amennyiben annak felszámolása vagy a tevékenységével történő felhagyás szükséges – üzleti modellje és stratégiája életképességét és fenntarthatóságát figyelembe véve –, reális követelményekkel és erőforrásokkal számoljon mind az időtávot, mind pedig a szavatoló tőke és a likvid erőforrások fenntartását illetően, a piacról való kivonulás teljes folyamata során.

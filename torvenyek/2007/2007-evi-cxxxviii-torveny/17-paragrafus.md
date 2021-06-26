@@ -28,7 +28,7 @@ d) a felmerülő kockázatok azonosítására, mérésére, kezelésére, nyomon
 
 e) a jogszabályoknak megfelelő belső ellenőrzési mechanizmusokat, adminisztratív és számviteli eljárásokat alkalmaz,
 
-f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő javadalmazási politikát és gyakorlatot valósít meg,
+f) a befektetési vállalkozás a hatékony és eredményes kockázatkezeléssel összhangban álló, annak alkalmazását előmozdító, a 4. mellékletben meghatározott elveknek megfelelő, a nemek szempontjából semleges javadalmazási politikát és gyakorlatot valósít meg,
 
 g) elősegíti a szervezet zavartalan és eredményes működését, az intézménnyel szembeni bizalom fenntartását, a tulajdonosok és az ügyfelek intézménnyel összefüggő gazdasági érdekeinek és társadalmi céljainak védelmét.
 
