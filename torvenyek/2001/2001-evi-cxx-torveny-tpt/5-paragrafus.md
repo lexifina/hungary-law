@@ -168,7 +168,7 @@ b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 
 61. ISIN azonosító: a központi értéktár által kiadott, az azonos jogokat megtestesítő értékpapírok, illetőleg tőzsdei termékek azonosítására szolgáló betű vagy számjel összessége, illetve ezek kombinációja,
 
-62. járulékos vállalkozás: olyan vállalkozás, amely kizárólagosan vagy elsődlegesen egy vagy több befektetési vállalkozás, központi értéktár, központi szerződő fél vagy befektetési alapkezelő üzletszerű tevékenységét kiegészítő tevékenységet, így különösen ingatlankezelést, adatfeldolgozást, pénzszállítást, biztonsági, illetőleg kommunikációs szolgáltatást végez,
+62. járulékos vállalkozás: a Bszt.-ben meghatározott fogalom,
 
 63. jegyzés: az értékpapír forgalomba hozatala során az értékpapírt megszerezni szándékozó befektetőnek az értékpapír megszerzésére irányuló, feltétetlen és visszavonhatatlan nyilatkozata, amellyel az ajánlatot elfogadja és kötelezettséget vállal az ellenszolgáltatás teljesítésére,
 
