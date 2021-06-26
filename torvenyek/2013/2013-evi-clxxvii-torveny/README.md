@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-177-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2013-177-00-00.13 |
 | 2020-01-01 | 2019. évi CX. törvény | 2013-177-00-00.14 |
 | 2021-01-01 | 2020. évi CXLVII. törvény | 2013-177-00-00.15 |
+| 2021-06-26 | 2021. évi XCVI. törvény | 2013-177-00-00.16 |
