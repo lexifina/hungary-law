@@ -12,7 +12,7 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény
 
-a) a hitelintézetekre és a befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek, és
+a) a hitelintézetekre vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló, 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendeletnek, és
 
 b) az 575/2013/EU rendeletnek a tőkeáttételi mutató, a nettó stabil forrásellátottsági ráta, a szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó követelmények, a partnerkockázat, a piaci kockázat, a központi szerződő felekkel szembeni kitettségek, a kollektív befektetési formákkal szembeni kitettségek, a nagykockázat-vállalások és az adatszolgáltatási és nyilvánosságra hozatali követelmények tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/876 európai parlamenti és tanácsi rendeletnek
 

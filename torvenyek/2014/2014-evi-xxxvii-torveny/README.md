@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-37-00-00
 | 2019-12-26 | 2019. évi CXVIII. törvény | 2014-37-00-00.17 |
 | 2020-01-01 | 2019. évi CXVIII. törvény | 2014-37-00-00.18 |
 | 2020-12-26 | 2020. évi CX. törvény | 2014-37-00-00.19 |
+| 2021-06-26 | 2020. évi CX. törvény | 2014-37-00-00.20 |
