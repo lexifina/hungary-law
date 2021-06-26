@@ -2,21 +2,23 @@
 
 2. §[^1] (1) Az egyes előirányzatoknak az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdése szerinti felhasználási szabályait az 1. és 2. melléklet tartalmazza.
 
-(2) Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
+(2)[^2] Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
-a) 9. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
+1. 9., 11. és 15. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
-b) 9. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás;
+2. 9., 11.,14. és 15. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti kultúrát és kulturális örökség megőrzését előmozdító támogatás;
 
-c) 9. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás;
+3. 9. és 11. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás;
 
-d) 9. sora alapján a 651/2014/EU bizottsági rendelet 13–14. cikke szerinti regionális beruházási támogatás;
+4. 9., 11., 14. és 15. sora alapján a 651/2014/EU bizottsági rendelet 13–14. cikke szerinti regionális beruházási támogatás;
 
-e) 9. és 11. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás;
+5. 9., 11. és 14. sora alapján a 651/2014/EU bizottsági rendelet 55. cikke szerinti sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatás;
 
-f) 9. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
+6. 9., 11.,14. és 15. sora alapján a 651/2014/EU bizottsági rendelet 56. cikke szerinti helyi infrastruktúrára irányuló támogatás;
 
-g) 9. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat (a továbbiakban: SA.46515 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, tanácsadási szolgáltatásokhoz nyújtott támogatás, valamint mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás
+7. 15. sora alapján a 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás;
+
+8. 9. és 11. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat (a továbbiakban: SA.46515 sz. bizottsági határozat) szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, tanácsadási szolgáltatásokhoz nyújtott támogatás, valamint mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás
 
 ## nyújtható.
 
@@ -50,16 +52,21 @@ g) 9. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott ál
 
 14. 4. és 5. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.46515 sz. bizottsági határozat szerinti tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás, tanácsadási szolgáltatásokhoz nyújtott támogatás, valamint mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás;
 
-15. 4. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény 3.1. szakasza szerinti átmeneti támogatás és a 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás
+15.[^3] 4. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény (a továbbiakban: átmeneti közlemény) 3.1. szakasza szerinti átmeneti támogatás és 3.12. szakasza szerinti fedezetlen állandó költségekhez nyújtott támogatás;
 
-16.[^2] 4. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás;
+16.[^4] 4. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás;
 
-17.[^3] 4. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás
+17.[^5] 4. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötőkre irányuló támogatás
+
+18.[^6] 4. és 5. sora alapján a 360/2012/EU bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás
 
 ## nyújtható.
 
 (4) A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges fordítási tevékenységet az Országos Fordító- és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság végzi.
 
 [^1]: A 2. § az 1/2021. (III. 3.) MK rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (3) bekezdés 16. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
-[^3]: A 2. § (3) bekezdés 17. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
+[^2]: A 2. § (2) bekezdése az 5/2021. (VI. 25.) MK rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (3) bekezdés 15. pontja az 5/2021. (VI. 25.) MK rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (3) bekezdés 16. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
+[^5]: A 2. § (3) bekezdés 17. pontját a 2/2021. (IV. 21.) MK rendelet 1. §-a iktatta be.
+[^6]: A 2. § (3) bekezdés 18. pontját az 5/2021. (VI. 25.) MK rendelet 1. § (3) bekezdése iktatta be.

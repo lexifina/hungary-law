@@ -4,7 +4,7 @@
 
 ## 3. Az egyes támogatási kategóriákra vonatkozó közös szabályok
 
-3. § (1)[^4] E fejezet alkalmazásában
+3. § (1)[^7] E fejezet alkalmazásában
 
 1. acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti tevékenység;
 
@@ -234,4 +234,4 @@ f) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szó
 
 g) a 651/2014/EU bizottsági rendeletben
 
-[^4]: A 3. § (1) bekezdése a 2/2021. (IV. 21.) MK rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3. § (1) bekezdése a 2/2021. (IV. 21.) MK rendelet 2. §-ával megállapított szöveg.

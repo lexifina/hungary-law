@@ -1,4 +1,4 @@
-## 23. [^34] A regionális repülőterekhez nyújtott támogatás
+## 23. [^40] A regionális repülőterekhez nyújtott támogatás
 
 31/K. § (1) A regionális repülőterekhez nyújtott támogatás beruházási támogatásként nyújtható.
 
@@ -32,4 +32,4 @@ b) az elszámolható költségek 75%-át azon repülőterek esetében, amelyekne
 
 (10) A (6) bekezdés szerinti repülőtér fejlesztéséhez nyújtott beruházási támogatás a támogatást nyújtó választása szerint a (8) bekezdés szerinti maximális támogatási összegig vagy a (9) bekezdés b) pontja szerinti maximális támogatási intenzitásig nyújtható.
 
-[^34]: A 23. alcímet (31/K. §) a 2/2021. (IV. 21.) MK rendelet 4. §-a iktatta be.
+[^40]: A 23. alcímet (31/K. §) a 2/2021. (IV. 21.) MK rendelet 4. §-a iktatta be.
