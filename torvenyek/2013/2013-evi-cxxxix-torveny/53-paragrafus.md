@@ -22,9 +22,11 @@ e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet r
 
 a) aránytalan a természetes személy által elkövetett jogsértéshez képest,
 
-b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve, vagy
+b) aránytalan hátrányt okoz a természetes és jogi személyekre nézve,
 
-c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét.
+c) veszélyezteti valamely folyamatban lévő büntetőeljárás sikerességét, vagy
+
+d) veszélyezteti a pénzügyi piacok stabilitását.
 
 (5) Az MNB mérlegelése alapján a Hpt.-ben, a Tpt.-ben, a Bszt.-ben, a Kbftv.-ben, az Fnytv.-ben, az Mpt.-ben és az Öpt.-ben meghatározott intézkedésről vagy kivételes intézkedésről, pénzbírságról hozott határozat közzététele legfeljebb 60 napra elhalasztható, ha a jogsértő magatartás legfeljebb 60 napon belül megszűnik, és a jogsértés nem veszélyezteti a jogi személy biztonságos működését, ügyfeleinek védelmét, valamint a pénzügyi közvetítőrendszer stabilitását.
 

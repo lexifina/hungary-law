@@ -14,6 +14,12 @@ ad) az Európai Biztosítási és Foglalkoztatói-nyugdíj Bizottsággal, valami
 
 ae) az Európai Bankbizottsággal,
 
+af) másik tagállamok felügyeleti hatóságaival,
+
+ag) a tagállami központi bankokkal, a Központi Bankok Európai Rendszerével és az Európai Központi Bankkal mint monetáris hatóságokkal,
+
+ah) a fizetési és elszámolási rendszerek felügyeletére hatáskörrel rendelkező állami hatóságokkal,
+
 b) a 4. § (7) bekezdésében meghatározott feladataira tekintettel az Európai Rendszerkockázati Testülettel,
 
 c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai Bankhatósággal.
@@ -38,7 +44,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 8. azt, hogy a Bit. 378. § (1) bekezdés f), i), k), l), m) és n) pontjában foglaltak a 2016/97/EU európai parlamenti és tanácsi irányelvben foglaltakhoz képest többlettájékoztatási követelményeket állapítanak meg a biztosításközvetítők számára, valamint, hogy a Bit. 166/B. §-a a biztosítási alapú befektetési termékek esetében kötelezővé teszi a tanácsadással történő értékesítést,
 
-9. összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
+9. összevont alapú felügyelet során – a Hpt. 174. § (5)–(7) bekezdése és a Bszt. 161/B. § (5)–(7) bekezdése tekintetében – alkalmazott eljárásokat,
 
 10. a Magyarország területén bejegyzett biztosító vagy viszontbiztosító harmadik országban történő letelepedése vagy tevékenysége akadályba ütközésének tényét,
 
@@ -54,6 +60,8 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 16. a Bit. 279. § (5) bekezdésében és a Bit. 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számát és típusát.
 
+17. a Hpt. 175. § (5) bekezdése, illetve a Bszt. 161/C. § (5) bekezdése szerinti megállapodást, az összevont alapú felügyelet alatt álló intézmények esetében csoport szintű belső irányítást, rendszereket, eljárásokat és mechanizmusokat.
+
 (4) Az MNB tájékoztatja
 
 1. az Európai Értékpapír-piaci Hatóságot
@@ -68,7 +76,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 1.5. azokról a kötvényekről, jelzálog-levelekről, továbbá ezek kibocsátóiról, amelyek megfelelnek a 2009/65/EK irányelv 52. cikk (4) bekezdésében foglaltaknak, valamint mellékeli a felsoroltakat tartalmazó jegyzéket és a felkínált biztosítékok jellegét meghatározó feljegyzést,
 
-1.6. a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+1.6.
 
 1.7. a Bszt. 26/A. § (4) bekezdése alapján hozott engedélyről és az abban bekövetkezett változásról,
 
@@ -77,6 +85,18 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 1.9. a Bszt. 154/H. §-a alapján hozott engedélyről és az abban bekövetkezett változásról,
 
 1.10. az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről;
+
+1.11. évente a harmadik országban székhellyel rendelkező befektetési vállalkozások általa engedélyezett fióktelepeinek listájáról,
+
+1.12. az Európai Értékpapír-piaci Hatóság kérése esetén
+
+1.12.1. a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe Magyarországon végzett tevékenységének engedélyéről, ezek mindenkori módosításairól,
+
+1.12.2. a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe tevékenységi köréről,
+
+1.12.3. a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe által végzett tevékenységből eredő forgalom mértékéről és eszköz állományáról,
+
+1.12.4. annak a harmadik országbeli csoportnak a megnevezéséről, amelyhez a harmadik országban székhellyel rendelkező befektetési vállalkozás fióktelepe tartozik;
 
 2. az Európai Bankhatóságot
 
@@ -106,7 +126,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 2.13. a Hpt. 145. § (4) bekezdése alapján hozott engedélyről,
 
-2.14. a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése és 164. §-a alapján hozott határozatokról,
+2.14. a Hpt. 145. § (4) bekezdése, 174. § (5) bekezdése, 185. §-a, 199. § (5) bekezdése, valamint a Bszt. 26/A. § (4) bekezdése, 161/B. § (5) bekezdése és 164. §-a alapján hozott határozatokról,
 
 2.15. a harmadik országban székhellyel rendelkező hitelintézet vagy befektetési vállalkozás magyarországi fióktelepe részére kiadott tevékenységi engedélyről,
 
@@ -120,7 +140,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 2.20. a Hpt. 112. § (5) bekezdése és a Bszt. 24/D. § (5) bekezdése szerinti elemzésről,
 
-2.21. a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
+2.21. a biztosítók és a viszontbiztosítók csoportfelügyeletével kapcsolatos részletes szabályokról szóló kormányrendelet szerinti határozatokról, valamint az 1286/2014/EU európai parlamenti és tanácsi rendelet alapján, és az 53. § (1) és (1a) bekezdésével összhangban közzétett, valamint az 53. § (5a) bekezdésével összhangban közzé nem tett valamennyi határozatáról, valamint az azokkal kapcsolatos jogorvoslati eljárásokról és azok során hozott jogerős ítéletekről,
 
 2.22. a pénzforgalmi intézmény, elektronikuspénz kibocsátó intézmény nyilvántartásba vett pénzforgalmi közvetítőiről,
 
@@ -132,9 +152,13 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 2.26. szanálási feladatkörben a szavatoló tőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó azon minimumkövetelményről, amelyet a Szantv. 68/A. §-ával vagy 68/B. §-ával összhangban a Szantv. hatálya alá tartozó minden egyes szervezet tekintetében megállapítottak;
 
+2.27. a Bszt. 164. §-a szerinti szankciók szintjéről,
+
+2.28. a Bszt. 107. § (1) és (4) bekezdése szerinti döntéséről;
+
 3. az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóságot
 
-3.1. a Pmt. 62. § (3) bekezdése alapján a harmadik országok vonatkozásában rendelkezésére álló információkról,
+3.1.
 
 3.2. a biztosító, a viszontbiztosító és a foglalkoztatói nyugdíjintézmény tevékenységi engedélyének kiadásáról és visszavonásáról,
 
@@ -178,23 +202,7 @@ c) a 4. § (8) bekezdésben meghatározott feladatára tekintettel az Európai B
 
 6.2. a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról.
 
-(4a) Az MNB tájékoztatja
-
-a) az Európai Bankhatóságot:
-
-aa) a pénzforgalmi intézmény, elektronikuspénz kibocsátó intézmény nyilvántartásba vett pénzforgalmi közvetítőiről,
-
-ab) a Hpt. 289/A. § (1) és (4) bekezdése szerinti bejelentésekről,
-
-ac) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
-
-ad) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról,
-
-b) az EKB-t
-
-ba) a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett értesítés kézhezvételét követően haladéktalanul az eseménnyel kapcsolatos releváns információkról,
-
-bb) a pénzforgalmi szolgáltatók által az MNB rendelkezésére bocsátott információk alapján a különböző fizetési módokhoz kapcsolódó csalásokra vonatkozó összesített statisztikai adatokról.
+(4a)
 
 (4b) Ha a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/B. §-ában említett bejelentés mérlegelését követően az MNB azt állapítja meg, hogy az esemény releváns lehet a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek vagy személyek ellenőrzését ellátó más hatóságok vagy egyéb hatóságok számára, úgy ez utóbbiaknak is értesítést küld.
 

@@ -65,3 +65,5 @@
 (33) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet 5–7. cikkének végrehajtását.
 
 (34) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(35) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet végrehajtását.
