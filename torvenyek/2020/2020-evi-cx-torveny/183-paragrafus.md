@@ -1,7 +1,7 @@
-183. § Hatályát veszti a Szantv.
+183. §
 
 a)
 
 b)
 
-c) 151. § (2) bekezdés a) pontjában az „és a befektetési vállalkozásokra” szövegrész.
+c)
