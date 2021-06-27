@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-23-20-2
 | 2020-03-01 | 1991-23-20-22.19 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-07-01 | 1991-23-20-22.20 | 306/2020. (VI. 30.) Korm. rendelet |
 | 2021-01-01 | 1991-23-20-22.21 | 289/2010. (XII. 21.) Korm. rendelet |
+| 2021-06-27 | 1991-23-20-22.22 | 327/2011. (XII. 29.) Korm. rendelet |
