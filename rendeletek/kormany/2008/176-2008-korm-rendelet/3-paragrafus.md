@@ -22,7 +22,7 @@ b) ha ugyanabban az ingatlanban résztulajdonnal rendelkező tulajdonos szerez e
 
 c)[^19]
 
-d)[^20] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelésében lévő lakóingatlan arra jogosultak általi visszavásárlása
+d)[^20] a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvény szerinti Lebonyolító vagyonkezelésében lévő lakóingatlannak a jogosult általi visszavásárlása, valamint a megüresedett lakóingatlan versenyeztetéssel történő értékesítése
 
 ## esetén.
 
@@ -41,6 +41,6 @@ esetében.
 [^17]: A 3. § (2a) bekezdését a 105/2012. (V. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^18]: A 3. § (3) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^19]: A 3. § (4) bekezdés c) pontját a 105/2012. (V. 30.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^20]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 373/2020. (VII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^20]: A 3. § (4) bekezdés d) pontját a 49/2012. (III. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 361/2020. (VI. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^21]: A 3. § (5) bekezdése a 105/2012. (V. 30.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
 [^22]: A 3. § (6) bekezdése a 715/2020. (XII. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
