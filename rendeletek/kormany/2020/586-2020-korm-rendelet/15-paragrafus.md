@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti a javadalmazási politikának a hitelintézet és a befektetési vállalkozás mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazásáról szóló 131/2011. (VII. 18.) Korm. rendelet.
+## 14. §[^15]
 
 ## 6. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) A 2. §, a 3. §, a 4. §, a 7. § és a 10–12. § 2021. június 30-án lép hatályba.
 
 (5) A 9. § (2) bekezdése 2026. január 1-jén lép hatályba.
+
+[^15]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
