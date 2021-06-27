@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-4-20-2C
 | 2021-01-29 | 2021-4-20-2C.1 | 4/2021. (I. 28.) MNB rendelet |
 | 2021-01-30 | 2021-4-20-2C.2 | 2010: CXXX. törvény |
 | 2021-06-26 | 2021-4-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-06-27 | 2021-4-20-2C.4 | 2010: CXXX. törvény |
