@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-6-20-53
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-06-26 | 2021-6-20-53.1 | 6/2021. (VI. 25.) PM rendelet |
+| 2021-06-27 | 2021-6-20-53.2 | 2010: CXXX. törvény |
