@@ -22,6 +22,8 @@
 
 | 8 | 10M e. r. gyakorló dzseki, felirattal | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
+| 8a | Gyakorló póló, sötétkék | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+
 | 9 | 2. szolgálati ruházat | 12M e. r. szolgálati félcipő | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
 | 10 | 12M e. r. szolgálati nyári pantalló, | db |  | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
@@ -198,4 +200,4 @@ bi) T2: Tábornoki alapellátási norma (férfi)
 
 3. A hivatásos állomány részére, a szolgálati feladatok függvényében, – alegységkészletként – szolgálati, csapadék ellen védő kabátot kell biztosítani.
 
-[^47]: A 4. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (3) bekezdése, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^47]: A 4. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (3) bekezdése, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja, a 16/2021. (VI. 24.) BM rendelet 7. § b) pontja szerint módosított szöveg.

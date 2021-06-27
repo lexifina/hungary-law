@@ -16,7 +16,7 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendvédelmi te
 
 | 4 | 10M e. r. gyakorló dzseki, felirattal | db | 1 |
 
-| 5 | 10M e. r. gyakorló nadrág | db | 1 |
+| 5 | 10M e. r. gyakorló nadrág | db | 2 |
 
 | 6 | 10M e. r. gyakorló zubbony, felirattal | db | 1 |
 
@@ -92,4 +92,4 @@ Nemzeti Közszolgálati Egyetem Rendészettudományi Karra és a rendvédelmi te
 
 | 11 | Téli ing | 2018. március 31 |
 
-[^50]: A 7. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (6) bekezdése, a 18/2020. (VI. 30.) BM rendelet 16. § a) és d) pontja szerint módosított szöveg.
+[^50]: A 7. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (6) bekezdése, a 18/2020. (VI. 30.) BM rendelet 16. § a) és d) pontja, a 16/2021. (VI. 24.) BM rendelet 7. § c) pontja szerint módosított szöveg.

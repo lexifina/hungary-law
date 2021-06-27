@@ -232,23 +232,27 @@ c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 nor
 
 4. A ruházati ellátási normában felsorolt termékeken és cikkeken felül alapfelszerelésként – a védőfelszerelés ellátási szabályai szerint – az alább felsorolt szolgálatokat ellátók részére speciális szolgálati egyenruházatot kell a szervezeti egység költségvetése terhére kiadni, a ruházati normabesorolástól függetlenül.
 
-4.1. Motoros szolgálatot ellátók – a körzeti megbízott kivételével – speciális szolgálati egyenruházata:
+4.1. Motoros szolgálatot ellátók speciális szolgálati egyenruházata a körzeti megbízott kivételével:
 
 |  | A | B | C |
 
 | 1 | termék megnevezése | menny. egység | mennyiség |
 
-| 2 | Motoros dzseki | db | 1 |
+| 2 | 20M motoros dzseki átmeneti | db | 1 |
 
-| 3 | Motoros nadrág mellrésszel | db | 1 |
+| 3 | 20M motoros nadrág átmeneti | db | 1 |
 
-| 4 | Kétrészes motoros alsóruházat (kék) | db | 1 |
+| 4 | 20M motoros dzseki nyári | db | 1 |
 
-| 5 | Motoros csizma | pár | 1 |
+| 5 | 20M motoros nadrág nyári | db | 1 |
 
-| 6 | Vízirendészeti teniszing, fehér | db | 3 |
+| 6 | Kétrészes motoros alsóruházat (kék) | db | 1 |
 
-| 7 | Motoros kesztyű | pár | 1 |
+| 7 | Motoros csizma | pár | 1 |
+
+| 8 | 19M vízirendészeti rövid ujjú póló | db | 3 |
+
+| 9 | Motoros kesztyű | pár | 1 |
 
 4.2. Vízirendészeti szolgálatot ellátók speciális szolgálati egyenruházata:
 
@@ -256,27 +260,31 @@ c) Ha az igényjogosult, egyenruhás alapellátási normába sorolt az E1-E2 nor
 
 | 1 | termék megnevezése | menny. egység | mennyiség |
 
-| 2 | Viharruha, kétrészes | db | 1 |
+| 2 | Vízirendészeti téli sapka | db | 1 |
 
-| 3 | Vízirendészeti viharmellény | db | 1 |
+| 3 | Vízirendészeti sildes sapka | db | 1 |
 
-| 4 | Vízirendészeti védőkesztyű | pár | 1 |
+| 4 | 19M vízirendészeti viharkabát | db | 1 |
 
-| 5 | Viharcsizma | pár | 1 |
+| 5 | 19M vízirendészeti viharnadrág | db | 1 |
 
-| 6 | Vízirendészeti félcipő | pár | 1 |
+| 6 | Vízirendészeti viharmellény | db | 1 |
 
-| 7 | Vízirendészeti teniszing, fehér | db | 3 |
+| 7 | Vízirendészeti védőkesztyű | pár | 1 |
 
-| 8 | Vízirendészeti rövidnadrág | db | 2 |
+| 8 | Viharcsizma | pár | 1 |
 
-| 9 | Vízirendészeti sildes sapka | db | 1 |
+| 9 | Vízirendészeti félcipő | pár | 1 |
 
-| 10 | Vízirendészeti hosszúnadrág | db | 1 |
+| 10 | 19M vízirendészeti hosszú ujjú póló | db | 2 |
 
-| 11 | Vízirendészeti téli sapka | db | 1 |
+| 11 | 19M vízirendészeti rövid ujjú póló | db | 2 |
 
-| 12 | Vízirendészeti karjelvény | db | 2 |
+| 12 | 19M vízirendészeti rövidnadrág | db | 2 |
+
+| 13 | 19M vízirendészeti hosszúnadrág | db | 1 |
+
+| 14 | Vízirendészeti karjelvény | db | 2 |
 
 4.3. Lovas szolgálatot ellátók speciális szolgálati egyenruházata:
 
@@ -332,7 +340,7 @@ a) Megjegyzés:
 
 | 1 | termék megnevezése | viselési határidő |
 
-| 2 | Vízirendészeti teniszing, fehér (a speciális szolgálatot ellátók öltözetéhez) | – |
+| 2 |  |  |
 
 | 3 |  |  |
 
@@ -363,6 +371,18 @@ a) Megjegyzés:
 | 15 | Női csizma, fekete | – |
 
 | 16 | Nyakkendőtű | – |
+
+| 17 | Motoros dzseki | – |
+
+| 18 | Motoros nadrág mellrésszel | – |
+
+| 19 | Vízirendészeti teniszing, fehér | – |
+
+| 20 | Viharruha, kétrészes | – |
+
+| 21 | Vízirendészeti rövidnadrág | – |
+
+| 22 | Vízirendészeti hosszúnadrág | – |
 
 6. A megengedett öltözetként viselhető társasági öltözet cikkösszetétele:
 
@@ -666,4 +686,4 @@ bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazga
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^44]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a szerint módosított szöveg.
+[^44]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja szerint módosított szöveg.
