@@ -20,6 +20,9 @@ e)[^2] a helyi önkormányzattal tömegsport, látvány-csapatsport, kulturális
 
 f)[^3] pénzforgalmi szolgáltatáshoz szükséges ügyfél-hitelesítésre
 
+g)[^4] a Kormányzati Személyügyi Döntéstámogató Rendszerbe való felhasználói belépésre
+
 [^1]: Az 1. § d) pontját a 12/2020. (V. 4.) BM rendelet 1. §-a iktatta be.
 [^2]: Az 1. § e) pontját a 12/2020. (V. 4.) BM rendelet 1. §-a iktatta be.
 [^3]: Az 1. § f) pontját a 20/2020. (VII. 6.) BM rendelet 1. § (1) bekezdése iktatta be.
+[^4]: Az 1. § g) pontját a 16/2021. (VI. 24.) BM rendelet 8. §-a iktatta be.
