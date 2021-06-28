@@ -1,9 +1,5 @@
-## 8. § Az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatásazonosító felhasználásával ellenőrizhető jogosultságok köréről szóló 36/2019. (X. 15.) BM rendelet 1. §-a a következő g) ponttal egészül ki:
-
-## (Az állandó személyazonosító igazolvány tároló elemén elhelyezett szolgáltatásazonosító)
-
-## „g) a Kormányzati Személyügyi Döntéstámogató Rendszerbe való felhasználói belépésre”
-
-## (való jogosultság ellenőrzésére használható fel.)
+## 8. §[^5]
 
 ## 5. Záró rendelkezések
+
+[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
