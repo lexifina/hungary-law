@@ -8,7 +8,7 @@
 
 a) a hatóság feladatának részletes szabályait, a hatósági ellenőrzés lefolytatásának részletes eljárási szabályait,
 
-b) a hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
+b) a hatóság, valamint a tanúsító hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
 
 c) az információbiztonsági felügyelő kirendelésének szabályait, feladatkörét és eljárásának rendjét,
 
@@ -34,7 +34,15 @@ m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a kor
 
 n) a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában a hatóság 14. § (2) bekezdése, valamint a 20. § (1) bekezdése szerinti feladatait, továbbá a sérülékenység vizsgálat, illetve a biztonsági esemény vizsgálat részletes szabályait.
 
+o) a tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
+
+p) a tanúsító hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
+
+q) a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat.
+
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
+
+(1b) Felhatalmazást kap a Kormány, hogy kijelölje a tanúsító hatóságokat.
 
 (2) Felhatalmazást kap
 
@@ -43,6 +51,10 @@ a) az e-közigazgatásért felelős miniszter, hogy az informatikáért felelős
 b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatásért felelős miniszterrel egyetértésben az e törvényben meghatározott vezetői, az elektronikus információs rendszer biztonságáért felelős személyek képzésének és továbbképzésének tartalmát,
 
 c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének rendjét
+
+d) az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a tanúsító hatósági eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+
+e) az e-közigazgatásért felelős miniszter, hogy a megfelelőségértékelő szervezetek által teljesítendő követelményeket
 
 rendeletben határozza meg.
 
