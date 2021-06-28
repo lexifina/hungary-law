@@ -1,1 +1,0 @@
-## 1. A belföldön nem letelepedett adóalanyokat a Magyar Köztársaságban megillető általános forgalmiadó-visszatéríttetési jognak, valamint a belföldön letelepedett adóalanyokat az Európai Közösség más tagállamában megillető hozzáadottértékadó-visszatéríttetési jognak érvényesítésével kapcsolatos egyes rendelkezésekről szóló 32/2009. (XII. 21.) PM rendelet módosítása
