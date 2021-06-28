@@ -40,7 +40,7 @@ h) a Türk Nyelvű Államok Együttműködési Tanácsa tagállamaiban: Azerbajd
 
 i) a külpolitikáért felelős miniszternek a közbiztonságért felelős miniszterrel egyetértésben kiadott rendeletében megjelölt országban
 
-## került sor, a védettségi igazolványt a külföldön beoltott magyar állampolgár részére a hatóság 15 napon belül – a 2. § (8) bekezdésében meghatározottak szerint, díjmentesen – bármely kormányablakban személyesen vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton benyújtott kérelemre állítja ki.
+## került sor, a védettségi igazolványt a külföldön beoltott magyar állampolgár, valamint Magyarország területén 180 napon belül 90 napot meghaladóan jogszerűen tartózkodó nem magyar állampolgár részére a hatóság 15 napon belül – a 2. § (8) bekezdésében meghatározottak szerint, díjmentesen – bármely kormányablakban személyesen vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton benyújtott kérelemre állítja ki.
 
 (2b)[^32] A (2a) bekezdés szerinti kérelemhez csatolni kell a külföldi hatóság vagy az oltást végző egészségügyi szolgáltató által kiállított, az oltás tényének magyar vagy angol nyelvű igazolását, ennek hiányában más idegen nyelvű igazolásának hiteles magyar fordítását, azzal, hogy az igazolásnak tartalmaznia kell a koronavírus elleni oltóanyag típusát (a továbbiakban: oltóanyag típusa), az oltás időpontját és helyét.
 
@@ -90,7 +90,7 @@ c) a védettségi igazolvány kiállítása céljából a személyiadat- és lak
 [^28]: A 3. § (1a) bekezdését a 222/2021. (V. 3.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^29]: A 3. § (2) bekezdés a) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^30]: A 3. § (2) bekezdés b) pontja a 86/2021. (II. 27.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^31]: A 3. § (2a) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^31]: A 3. § (2a) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 321/2021. (VI. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^32]: A 3. § (2b) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^33]: A 3. § (2c) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^34]: A 3. § (2d) bekezdését a 247/2021. (V. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
