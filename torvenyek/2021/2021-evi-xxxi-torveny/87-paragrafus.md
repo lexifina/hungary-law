@@ -4,9 +4,9 @@ a)
 
 b)
 
-c)
+c) 20. § (2) bekezdésében az „és k” szövegrész helyébe a „ , k) és l” szöveg,
 
-d)
+d) 24. § (1) bekezdés b) pontjában a „hatóság által” szövegrész helyébe a „hatóság, valamint a tanúsító hatóság által” szöveg,
 
 e)
 
