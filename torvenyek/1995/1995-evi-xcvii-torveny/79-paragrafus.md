@@ -1,0 +1,1 @@
+79. § E törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2021. évi LIX. törvénnyel megállapított 67. § (9) bekezdésében szereplő áruszállítás esetén fizetendő felügyeleti díjat első alkalommal 2021. július 1-től szükséges megfizetni, a harmadik negyedévet követő hónap tizenötödik napjáig.
