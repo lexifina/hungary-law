@@ -1,4 +1,4 @@
-## 2. § Ez a rendelet az Átv. hatálybalépésével egyidejűleg lép hatályba.
+## 3. §[^1] Az 1. melléklet 21. pontja az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. melléklet a 288/2020. (VI. 17.) Korm. rendelethez
 
@@ -42,6 +42,10 @@
 
 19. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény hatálya alá tartozó, kérelemre indult hatósági ügyek
 
-20.[^1] A biztonsági okmányok védelmével összefüggő hatósági tevékenység keretében végzett engedélyezési tevékenység
+20.[^2] A biztonsági okmányok védelmével összefüggő hatósági tevékenység keretében végzett engedélyezési tevékenység
 
-[^1]: Az 1. melléklet 20. pontját a 259/2021. (V. 20.) Korm. rendelet 49. § (1) bekezdése iktatta be.
+21.[^3] Az elektronikus információbiztonsági hatósági és kiberbiztonsági tanúsítási tevékenység keretében végzett engedélyezési tevékenység
+
+[^1]: A 3. §-t a 259/2021. (V. 20.) Korm. rendelet 48. §-a iktatta be.
+[^2]: Az 1. melléklet 20. pontját a 259/2021. (V. 20.) Korm. rendelet 49. § (1) bekezdése iktatta be.
+[^3]: Az 1. melléklet 21. pontját a 259/2021. (V. 20.) Korm. rendelet 49. § (2) bekezdése iktatta be.
