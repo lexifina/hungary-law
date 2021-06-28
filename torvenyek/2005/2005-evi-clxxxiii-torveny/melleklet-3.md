@@ -13,7 +13,3 @@ c) megtérítendő indokoltnak elismert költség meghatározásának módját;
 d) új infrastruktúra létrehozásának feltételeit adott esetben;
 
 e) felhasználó-központú teljesítménycélokat, a következő elemeket tartalmazó mutatók és minőségi szempontok leírását:
-
-ea) a vonat teljesítménye például a vonalsebesség és a megbízhatóság szempontjából és az ügyfél-elégedettség feltételeit;
-
-eb) hálózati kapacitás leírását;

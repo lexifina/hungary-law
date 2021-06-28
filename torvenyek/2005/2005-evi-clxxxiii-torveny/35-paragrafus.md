@@ -55,3 +55,5 @@ b) az országos vasúti pályahálózatokhoz közvetlenül nem kapcsolódó, kiz
 c) a kizárólag a tulajdonosa által árutovábbításra használt sajátcélú vasúti pályahálózatokra vonatkozó vasútbiztonsági engedéllyel
 
 kapcsolatos szabályokat.
+
+(9) Az (5) bekezdés szerinti felügyeleti díj a vasúti közlekedési hatóságot illeti meg, amelyet a vasúti közlekedési hatóság hatósági feladataival összefüggésben használ fel.
