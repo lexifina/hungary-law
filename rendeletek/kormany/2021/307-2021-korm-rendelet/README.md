@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-307-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-06-15 | 2021-307-20-22.1 | 307/2021. (VI. 5.) Korm. rendelet |
+| 2021-06-29 | 2021-307-20-22.2 | 2021. évi I. törvény |
