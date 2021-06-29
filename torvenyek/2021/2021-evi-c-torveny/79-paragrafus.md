@@ -1,3 +1,3 @@
 ## 44. Földkönyvi adatszolgáltatás
 
-79. § A földkönyv a tulajdonilap-másolaton szereplő adatoknak a földkönyv igénylője igényei szerint az ingatlanügyi hatóság által leválogatott és összeállított elektronikus dokumentuma. Földkönyvként a tulajdonilap-másolat valamennyi adata nem szolgáltatható. A földkönyv az ingatlan-nyilvántartás tartalmáról tanúsító erővel nem rendelkezik. Földkönyv szolgáltatására az e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt ingatlanügyi hatóság jogosult.
+79. §

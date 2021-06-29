@@ -1,1 +1,1 @@
-26. § Az ingatlanügyi hatóság – e törvényben és az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott kivételekkel – írásban, elektronikus úton tart kapcsolatot az ügyféllel és az eljárásban részt vevőkkel.
+26. §

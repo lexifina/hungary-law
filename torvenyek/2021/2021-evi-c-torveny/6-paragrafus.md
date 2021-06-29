@@ -1,1 +1,1 @@
-6. § Az épített környezet alakításáról és védelméről szóló törvényben meghatározott nyomvonal jellegű építmények esetében az ingatlan-nyilvántartás azt a földrészletet vagy egyéb önálló ingatlant tartja nyilván, amelyen vagy amelyben a nyomvonal jellegű építmény elhelyezkedik.
+6. §

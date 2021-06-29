@@ -1,1 +1,1 @@
-38. § Ha a társasházakról szóló törvényben szabályozott társasházi közösköltség-tartozás, illetve a lakásszövetkezetekről szóló törvényben szabályozott költséghátralék biztosítékául szolgáló jelzálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a kötelezett személyi azonosító jelét, akkor azt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartásból történő adatátvétellel, hivatalból pótolja.
+38. §
