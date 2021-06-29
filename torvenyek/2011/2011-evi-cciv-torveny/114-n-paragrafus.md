@@ -2,6 +2,6 @@
 
 (2) E törvénynek – a Módtv3.-mal megállapított – 84. § (2) bekezdés c) és d) pontját, 84. § (3) bekezdését, 84/A. § (1), (1a) és (2) bekezdését, 94. § (3) bekezdését, 117/C. § (11) bekezdését 2021. szeptember 1-jétől kell alkalmazni.
 
-(3) E törvénynek – a Módtv3.-mal megállapított – 84/A. §-át a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tekintetében 2021. szeptember 1-jétől olyan módon kell alkalmazni, hogy az adott felsőoktatási intézményre tekintettel évente biztosított költségvetési hozzájárulásnak az összes felsőoktatási intézmény számára biztosított költségvetési hozzájárulás éves összegéhez viszonyított aránya nem lehet kevesebb, mint az 2020/2021-es tanévben az adott felsőoktatási intézményre tekintettel megállapított költségvetési hozzájárulásnak az összes felsőoktatási intézmény részére biztosított költségvetési hozzájáruláshoz viszonyított aránya.
+(3)
 
 (4) E törvénynek – a Módtv3.-mal megállapított – 92. § (1a)–(1c) bekezdését a Módtv2. hatálybalépésekor már létrejött támogatási jogviszonyok esetében is alkalmazni kell.

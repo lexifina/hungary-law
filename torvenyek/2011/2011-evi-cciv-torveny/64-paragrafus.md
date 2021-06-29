@@ -42,6 +42,8 @@ e) a felsőoktatási szakképzésben, az alapképzésben és a mesterképzésben
 
 f) a felsőoktatás és a gazdaság kapcsolatának legalább háromévenkénti értékelése.
 
+g) a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló törvény szerinti hosszú távú finanszírozás és az ennek alapján megkötött finanszírozási keretmegállapodások elveinek meghatározása, valamint az ehhez szükséges finanszírozási adatok elemzése, statisztikai adatok vizsgálata.
+
 (4) A miniszter a nemzetiségi képzés tekintetében hozott döntéseihez beszerzi az Országos Nemzetiségi Tanács véleményét. Ha a nemzetiségek jogairól szóló törvény alapján az országos nemzetiségi önkormányzat kezdeményezi az anyanyelvű vagy anyanyelvi felsőfokú oktatás feltételeinek a megteremtését, a miniszter – az igények mérlegelése után – nemzetközi megállapodás megkötésének kezdeményezésével, munkaterv létesítésével, illetve az anyaországban folytatott felsőfokú tanulmányokban való részvételre vagy hazai felsőoktatási intézményekben a szükséges feltételek biztosítására kiírt pályázattal biztosítja a feltételeket.
 
 (5) A miniszter a szenátus kezdeményezésére nemzeti felsőoktatási ösztöndíjat adományoz a kimagasló teljesítményt nyújtó hallgatók részére.

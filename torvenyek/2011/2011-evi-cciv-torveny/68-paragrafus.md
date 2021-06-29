@@ -36,7 +36,7 @@ f)
 
 g)
 
-(5a) Amennyiben az oktatási hivatalnak felsőoktatási szakképzés, alap- és mesterképzés, doktori képzés indítására, valamint doktori iskola létesítésére irányuló eljárásban a MAB szakértői véleményét kell beszereznie, az ügyintézési határidő a szakértői vélemény beérkezését követő napon indul.
+(5a) Ha az oktatási hivatalnak felsőoktatási szakképzés, alap- és mesterképzés, doktori képzés indítására, valamint doktori iskola létesítésére irányuló eljárásban a MAB szakértői véleményét kell beszereznie, az ügyintézési határidő a szakértői vélemény beérkezését követő napon indul.
 
 (6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
