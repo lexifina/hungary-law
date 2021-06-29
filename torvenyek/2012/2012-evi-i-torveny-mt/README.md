@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2020-09-01 | 2020. évi LXV. törvény | 2012-1-00-00.24 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2012-1-00-00.25 |
 | 2021-03-01 | 2020. évi CXXXV. törvény | 2012-1-00-00.26 |
+| 2021-06-29 | 2021. évi CI. törvény | 2012-1-00-00.27 |
