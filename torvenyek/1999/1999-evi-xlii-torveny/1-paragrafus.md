@@ -40,7 +40,7 @@ p) elektronikus cigaretta: olyan egyszer használatos (eldobható), vagy utánt�
 
 q) utántöltő flakon: az elektronikus cigaretta utántöltésére szolgáló, nikotintartalmú folyadékot tartalmazó tartály;
 
-r) patron: egyes elektronikus cigaretták használatához szükséges, jellemzően egyszer használatos (nem utántölthető) nikotintartalmú folyadékot tartalmazó tartály;
+r) patron: egyes elektronikus cigaretták használatához szükséges, jellemzően egyszer használatos (nem utántölthető) bármilyen formában nikotint tartalmazó folyadékot tartalmazó tartály;
 
 s) dohányzást imitáló elektronikus eszköz: olyan elektronikus termék, amely szopókán keresztül nikotinmentes pára fogyasztását teszi lehetővé;
 
@@ -56,6 +56,6 @@ vb) amelyet 2014. május 19-e után hoznak forgalomba;
 
 w) új dohánytermék-kategóriák kiegészítő terméke: olyan áru, amely az új dohánytermék-kategóriák fogyasztását közvetlen módon elősegíti, így különösen a fogyasztáshoz szükséges kiegészítő eszköz, továbbá az új dohánytermék-kategóriák használatához, tárolásához, karbantartásához, működtetéséhez kapcsolódó termékek (tartozék, alkatrész);
 
-x) módosított hatású termék: olyan, az új dohánytermék-kategóriákba tartozó, fogyasztható nikotintartalmú termék, amelyet ilyen termékként nyilvántartásba vettek, továbbá a 2014. május 19-e után az Európai Unió területén jogszerűen forgalomba hozott elektronikus cigaretta;
+x) elektronikuscigaretta-azonosító szám: az elektronikus cigarettákra és az utántöltő flakonokra vonatkozó értesítések közös formátumának meghatározásáról szóló, 2015. november 24-i (EU) 2015/2183 bizottsági végrehajtási határozatban meghatározott közös adatbeviteli kapun bejelentett termékek azonosítására szolgáló szám;
 
 y) a dohányzást helyettesítő nikotintartalmú termék: olyan – dohányt nem tartalmazó, és elektronikus cigarettának, továbbá utántöltő flakonnak vagy patronnak nem minősülő – nikotint tartalmazó termék, amely nem minősül gyógyszernek, és amelynek hatóanyaga szájon át (nyálkahártyán keresztül) jut el az emberi szervezetbe.

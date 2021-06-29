@@ -2,9 +2,9 @@
 
 8. § (1) Ez a törvény a kihirdetését követő hetedik hónap első napján lép hatályba azzal, hogy a hatálybalépésének napján – érvényes működési engedély alapján – működő vagy folyamatban lévő működési engedélyezési eljárás alapján a működésüket a törvény hatálybalépését követően megkezdő szórakoztató, vendéglátóipari szolgáltatást nyújtó közforgalmú intézmények tekintetében a dohányzási korlátozást, illetőleg a dohányzóhely kijelölésére vonatkozó kötelezettséget 2001. január 1-jétől kell alkalmazni.
 
-(2) A dohányzásra, valamint a dohánytermékek, valamint az elektronikus cigaretták és utántöltő flakonok forgalmazására vonatkozó, e törvényben foglalt tilalmak, korlátozások nem érintik az egyéb jogszabályban meghatározott érdekből, célból, illetőleg módon elrendelt dohányzási tilalmakat, korlátozásokat.
+(2)
 
-(3) Azok a cigaretta dohánytermékek, amelyek nem felelnek meg az e törvény 6. § (1)–(2) bekezdésében és a külön jogszabályban meghatározott rendelkezéseknek nem gyárthatóak és a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 1997. évi CIII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba és e rendelkezés hatálybalépésétől számított egy évet követően nem hozhatók forgalomba.
+(3) Azok a cigaretta dohánytermékek, amelyek nem felelnek meg az e törvény 6. § (1)–(2) bekezdésében és a külön jogszabályban meghatározott rendelkezéseknek nem gyárthatóak és a jövedéki adóról és a jövedéki adóról szóló 2016. évi LXVIII. törvény rendelkezései szerint nem bocsáthatóak szabadforgalomba és e rendelkezés hatálybalépésétől számított egy évet követően nem hozhatók forgalomba.
 
 (4) Felhatalmazást kapnak az érintett miniszterek, hogy az irányításuk, illetve felügyeletük alá tartozó, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében a dohányzásra, elektronikus cigaretta használatára a dohányzóhelyek kijelölésére, illetve a dohánytermékek forgalmazására vonatkozó részletes, az e törvénnyel összhangban lévő szabályokat rendeletben meghatározzák.
 
@@ -20,7 +20,7 @@ rendeletben határozza meg.
 
 (4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben
 
-a) az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalára, nyilvántartására és az ezzel kapcsolatos változások bejelentésére, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
+a) az elektronikus cigaretta, az utántöltő flakon, a nikotinmentes utántöltő flakon, dohányzást helyettesítő nikotin tartalmú termékek és a dohányzást imitáló elektronikus eszköz forgalomba hozatalára, nyilvántartására és az ezzel kapcsolatos változások bejelentésére, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
 
 b) az új dohánytermék-kategóriák bejelentésére, nyilvántartására, valamint a bejelentések fenntartására vonatkozó igazgatási szolgáltatási díj mértékét, a díj beszedésével, kezelésével, nyilvántartásával, és visszatérítésével kapcsolatos,
 
@@ -28,7 +28,7 @@ c) a dohánytermékek gyártása során felhasznált adalékanyagok bejelentés�
 
 részletes szabályokat rendeletben határozza meg.
 
-(4d) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a módosított hatású terméknek történő minősítésre irányuló eljárás igazgatási szolgáltatási díját, valamint a Bizottság véleményére vonatkozó díj mértékét, továbbá a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+(4d)
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -52,7 +52,7 @@ i) a dohányzási célú gyógynövénytermékekre vonatkozó részletes szabál
 
 j) az új dohánytermék-kategóriák forgalmazásának és ismertetésének különös szabályait,
 
-k) a módosított hatású terméknek történő minősítésre irányuló eljárásban vizsgálandó tudományos és egészségügyi szempontokat, az eljárás részletes szabályai, valamint a Bizottság összetételére és működésére vonatkozó különös szabályokat.
+k)
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
