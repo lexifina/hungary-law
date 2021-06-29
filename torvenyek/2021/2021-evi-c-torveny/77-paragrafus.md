@@ -1,0 +1,5 @@
+77. § (1) Tulajdonilap-másolatot az ingatlanügyi hatóság szolgáltathat. A közjegyző a Kjtv. 136. § (1) bekezdés i) pontjában meghatározott jogkörében eljárva a tulajdoni lap tartalmáról tanúsítványt állíthat ki, amely a hiteles tulajdonilap-másolattal azonos hatályú.
+
+(2) Mező-, erdőgazdasági hasznosítású föld esetében – ide nem értve az erdő művelési ágban nyilvántartott földrészleteket – a tulajdonilap-másolat szolgáltatását úgy kell teljesíteni, hogy abból megállapítható legyen az érintett földrészletnek a földhasználati nyilvántartásba bejegyzett földhasználója is, vagy az a tény, hogy a földhasználati nyilvántartás adatai alapján az érintett földrészletre nincs bejelentett földhasználó.
+
+(3) A tulajdonilap-másolat szolgáltatást úgy kell teljesíteni, hogy azon az érintett földrészleten álló, a földrészlettel együtt nyilvántartott épületek és építmények beazonosíthatóak legyenek, és – amennyiben műszaki adatlap rendelkezésre áll – a hozzájuk tartozó műszaki adatlapok tartalma megismerhető legyen.

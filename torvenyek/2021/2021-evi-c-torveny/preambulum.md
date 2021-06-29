@@ -1,0 +1,1 @@
+Az Országgyűlés annak érdekében, hogy elősegítse a tulajdonhoz, a vállalkozás és a gazdasági verseny szabadságához való jog érvényesülését, valamint a Magyarország területén fekvő ingatlanok forgalmának biztonságát, a következő törvényt alkotja:

@@ -1,0 +1,1 @@
+45. § Amennyiben a bejegyzett jog törlése hivatalból elmaradt, nem kell okiratot csatolni a törlés iránti kérelemhez, ha a haszonélvezeti, a tartási, gondozási vagy az életjáradéki jog, továbbá a használat jogának a jogosult elhalálozása következtében történő megszűnése a személyiadat- és lakcímnyilvántartásban szereplő adatokból kétségtelenül megállapítható.

@@ -1,0 +1,1 @@
+50. § A beadvány megtartja a benyújtás időpontjának megfelelő ranghelyét, ha az elutasításra a 49. § (1) bekezdésében foglaltak miatt került sor, és a döntés átvételétől számított 15 napon belül új kérelemben pótolták az elutasításról szóló határozatban megjelölt hiányosságokat.
