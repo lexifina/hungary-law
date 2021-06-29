@@ -13,3 +13,5 @@ c) tartalmazhatja a felhasználó e-mail címét, telefonszámát,
 d) tartalmazza a felhasználó számára megállapított jogosultságokat.
 
 Az azonosítási és jogosultságkezelési nyilvántartás az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásában szereplő felhasználók a) és b) pont szerinti adatait az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásából veszi át.
+
+(4) A működtető lehetővé teheti, hogy a csatlakozott adatkezelő a működtetővel kötött megállapodás alapján a saját, az érintett azonosítását igénylő szolgáltatása keretében, az érintett azonosítása céljából igénybe vegye a működtető által elérhetővé tett elektronikus azonosítási szolgáltatást.

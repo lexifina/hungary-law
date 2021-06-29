@@ -16,6 +16,8 @@ b) az EESZT-ben tárolt vény adatait az érintett, az érintett kezelőorvosa, 
 
 c) gyógyszer, gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a papíralapú vény tartalmát és a 14/A. § (1) bekezdés d) pontja szerinti adatokat az EESZT-ben rögzíthesse.
 
+d) az elektronikus vény kiváltását a nem saját TAJ szám közlésével kezdeményező személy nevét és személyi azonosításra alkalmas okmányának számát a gyógyszer, a gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a 4. § (2) bekezdés s) pontjában foglalt célból elektronikusan rögzíthesse.
+
 (1b)
 
 (1c) Az EESZT működtetője az EESZT útján továbbított, vagy abban rögzített vényekről nyilvántartást vezet, amely
@@ -33,6 +35,14 @@ tartalmazza.
 (2) A gyógyszer, gyógyászati segédeszköz, gyógyászati ellátás kiszolgáltatója, illetve nyújtója az (1) bekezdés szerinti adatokat a 4. § (2) bekezdés s) pontjában foglalt céllal kezelheti.
 
 (2a) Ha az EESZT útján kiállított vényt kiváltó személy nem az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet szerinti felírási igazolással igazolja a vényrendelést, a gyógyszer, a gyógyászati segédeszköz kiszolgálója jogosult a TAJ számának és személyazonosságának ellenőrzésére.
+
+(2b) Ha az EESZT útján kiállított vényt kiváltó személy a vény kiváltását nem a saját TAJ szám közlésével kezdeményezi, a gyógyszer, a gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a 4. § (2) bekezdés s) pontjában foglalt célból e személy
+
+a) személyazonosságát ellenőrzi, valamint
+
+b) nevét és az a) pont szerinti ellenőrzés során bemutatott, személyazonosításra alkalmas okmánya azonosítóját rögzíti.
+
+(2c) A gyógyszer, a gyógyászati segédeszköz 35/B. § szerinti csatlakozott kiszolgálója a (2b) bekezdés b) pontja szerint rögzített adatokat a 4. § (2) bekezdés s) pontjában meghatározott célból a rögzítéstől számított 5 évig kezelheti.
 
 (3) A gyógyszerész a 4. § (2) bekezdés z) pontja szerinti cél érdekében – amennyiben az érintett ezt írásban vagy elektronikus kapcsolattartás keretében nem tiltotta meg – megismerheti a gyógyszerellátásban részesülő biztosított által, a kötelező egészségbiztosítás terhére igénybevett, gyógyszereléssel kapcsolatos egy éven belüli adatokat – ide nem értve a mentális és viselkedészavarok kezelésére, valamint a szexuális úton terjedő betegségek kezelésére szolgáló gyógyszerekre vonatkozó adatokat – úgy, hogy az adatokat az egészségbiztosítási szerv elektronikus formában biztosítja számára. A gyógyszerész – az adatok rögzítése nélkül – a gyógyszer nevét, mennyiségét és a kiváltás idejét ismerheti meg. Az érintettet a tiltakozás lehetőségéről tájékoztatni kell. Az érintett tiltakozását megteheti az egészségbiztosítási szervnél vagy a gyógyszerésznél. Ha az érintett tiltakozását a gyógyszerésznél tette, azt a gyógyszerész haladéktalanul köteles továbbítani az egészségbiztosítási szerv részére. Az érintett aláírásával igazolja a betekintés megtörténtét.
 

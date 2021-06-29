@@ -54,6 +54,8 @@ y) az EESZT-hez csatlakozott egészségügyi szolgáltatók által használt inf
 
 z) a Donor Regisztert vezető szervet kijelölje, és a Donor Regiszterre vonatkozó részletes szabályokat
 
+zs) a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében a kijelölt nemzeti kapcsolattartó szerv feladatait, a tájékoztatás és adatátadás rendjét és feltételeit
+
 rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy
@@ -67,6 +69,8 @@ c) az EESZT működtetőjét,
 d) az önrendelkezési nyilvántartást vezető szervet,
 
 e) a 35/L. § szerinti kapcsolati kódot kezelő szervet
+
+f) a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szervet
 
 rendeletben jelölje ki.
 

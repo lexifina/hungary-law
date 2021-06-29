@@ -32,4 +32,4 @@ b) az egészségügyi adat más módon való megismerése, illetve az arra való
 
 (6) Az (5) bekezdés szerinti esetben csak azoknak az egészségügyi adatoknak a megismerése lehetséges, amelyek az (5) bekezdés a) pontja szerinti okkal közvetlenül összefüggésbe hozhatóak.
 
-(7) Az érintett halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról – saját költségére – másolatot kapni.
+(7) Az érintett halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, illetve azokról – első alkalommal – térítésmentesen, valamint minden további másolat tekintetében – a (3) bekezdés szerinti módon – másolatot kapni.

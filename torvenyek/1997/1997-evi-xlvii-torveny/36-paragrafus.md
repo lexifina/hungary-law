@@ -13,3 +13,5 @@
 (5) Az a csatlakozott vagy csatlakozásra köteles egészségügyi szolgáltató, amely a Módtv. hatálybalépésekor egészségügyi adatot továbbító informatikai rendszert működtet, a 35/B. § (4) bekezdése Módtv.-vel megállapított követelményének való megfelelést 2021. június 1-jéig köteles biztosítani.
 
 (6) A Módtv.-vel megállapított 35/M. § (4) bekezdése szerinti hozzáférést a működtető 2021. január 1-jéig köteles biztosítani.
+
+(7) A csatlakozással kapcsolatos kötelezettségét az Eüak. 35/B. § (1) bekezdés e) pontja alapján csatlakozásra köteles gyógyászatisegédeszköz-forgalmazó 2021. szeptember 1-jéig köteles teljesíteni.

@@ -31,3 +31,5 @@
 (15) A (13) és (14) bekezdésben foglalt rendelkezést nem kell alkalmazni, ha a betegségregisztert vezető szerv törvény rendelkezése vagy az érintett hozzájárulása alapján kapcsolati kód képzése nélkül jogosult az érintett TAJ számának és személyazonosító adatainak kezelésére.
 
 (16) Ha a betegségregiszterben szereplő adat a (14) vagy (15) bekezdés alapján az érintett személyazonosító adataival összekapcsolható, a betegségregisztert vezető szerv jogosult az EESZT útján hozzáférni a (7) bekezdés szerinti célból szükséges egészségügyi adatokhoz.
+
+(17) A Központi Statisztikai Hivatal az egészségügyi intézményen kívül elhunyt személyek halálának okával kapcsolatos egészségügyi adatokat és az elhunyt személyek TAJ számát, nemét és születési idejét továbbítja az egészségbiztosítási szerv részére a 4. § (1) bekezdés b) pontjában és a 4. § (2) bekezdés b)–d), v), w), z) és zs) pontjaiban meghatározott feladataihoz kapcsolódó elemzés céljából. Az adattovábbításról a Központi Statisztikai Hivatal és az egészségbiztosítási szerv megállapodást köt, amely tartalmazza az adatátadás módját, gyakoriságát és határidejét.
