@@ -36,6 +36,8 @@ o) a vízrajzi tevékenység ellátása;
 
 p) a vízkészletek mennyiségi és minőségi számbavétele.
 
+q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
+
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
 a) a Kormány az a), f), i) és az m) pontban;
