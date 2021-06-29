@@ -2,7 +2,7 @@
 
 a) a gyógyszertárakról típusonkénti bontásban a gyógyszertár megszűnését követő öt évig, mely tartalmazza
 
-aa) a gyógyszertár nevét és címét, az ellátott települések körét,
+aa) gyógyszertár nevét, címét, elektronikus levelezési címét és internetes honlapjának címét, telefonszámát, többletszolgáltatásait, forgalmazási körét, működési engedélyezése során a gyógyszerészeti államigazgatási szervtől kapott egyedi azonosító kódját, szolgálati rendjét és az ellátott települések körét,
 
 ab) a létesítését és működését engedélyező határozat számát,
 
@@ -28,6 +28,6 @@ ca) az üzlet nevét, címét, a működtető megnevezését,
 
 cb) a működést engedélyező határozat számát; valamint
 
-d) a hatósági vezetőkről;
+d) a hatósági, a felelős és az ideiglenes vezetőkről,
 
 e) az interneten igényelt gyógyszerek kiszolgáltatását végző gyógyszertárakról.

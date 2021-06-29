@@ -18,7 +18,7 @@
 
 9. ésszerű mértékű támogatás: olyan támogatás, amely a meghirdetett rendezvény egy főre eső összegét tekintve nem haladja meg a 8. pontban meghatározott összeget;
 
-10. kereskedelmi gyakorlat: gyógyszer, tápszer, illetve gyógyászati segédeszköz rendelésének, beszerzésének, értékesítésének vagy fogyasztásának előmozdítására irányuló bármely tájékoztatás, tevékenység, megjelenítési mód, marketing vagy egyéb kereskedelmi kommunikáció. A közforgalmú gyógyszertárak, az intézeti gyógyszertár közvetlen lakossági gyógyszerellátást végző egysége és a fiókgyógyszertárak, valamint gyógyászatisegédeszköz szaküzletek esetében nem minősül kereskedelmi gyakorlatnak a gyógyszerek, gyógyászati segédeszköz kiszolgáltatásakor, valamint a gyógyszerekkel kapcsolatos jogszabályban előírt tájékoztatás nyújtása során végzett egészségügyi szolgáltató tevékenység, továbbá a gyógyszerészi gondozás;
+10. kereskedelmi gyakorlat: gyógyszer, tápszer, illetve gyógyászati segédeszköz rendelésének, beszerzésének, értékesítésének vagy fogyasztásának előmozdítására irányuló vagy arra alkalmas szakmai, tudományos vagy bármely egyéb tájékoztatás, tevékenység, megjelenítési mód, marketing vagy egyéb kereskedelmi kommunikáció. A közforgalmú gyógyszertárak, az intézeti gyógyszertár közvetlen lakossági gyógyszerellátást végző egysége és a fiókgyógyszertárak, valamint gyógyászatisegédeszköz szaküzletek esetében nem minősül kereskedelmi gyakorlatnak a gyógyszerek, gyógyászati segédeszköz kiszolgáltatásakor, valamint a gyógyszerekkel kapcsolatos jogszabályban előírt tájékoztatás nyújtása során végzett egészségügyi szolgáltató tevékenység, továbbá a gyógyszerészi gondozás;
 
 11. reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. §-ának d) pontja szerinti gazdasági reklám, azzal, hogy nem reklám
 
@@ -74,7 +74,7 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 
 34. gyógyászati segédeszköz forgalmazó: a gyógyászati segédeszköznek a végső felhasználó részére történő értékesítését, kölcsönzését, javítását végző természetes vagy jogi személy, ide nem értve azokat az egészségügyi szolgáltatónak nem minősülő, gyógyászati segédeszközt egyedi méretvétel alapján gyártókat, akik az eszköznek a biztosított részére történő kiszolgáltatását nem maguk végzik;
 
-35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 15%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 15%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
+35. Preferált referencia ársávba tartozó gyógyszer: az egészségbiztosításért felelős miniszter rendelete alapján történő fixesítés során meghatározott gyógyszerek közül, a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 20%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer, valamint a terápiás fix elven működő támogatás esetén normatív támogatási kategóriába tartozó csoportban a napi terápiás költség átlagát legfeljebb 15%-kal meghaladó és az annál alacsonyabb napi terápiás költségű gyógyszer;
 
 36. lakos: a települési önkormányzat közigazgatási területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 26. §-a szerint nyilvántartott lakcímmel rendelkező személy;
 
@@ -95,3 +95,5 @@ c) a kereskedelmi árlista, feltéve, hogy nem tartalmaz a gyógyszer hatásáva
 44. gyógyszertári ügyelet: a gyógyszertár által gyógyszerész jelenléte mellett a gyógyszertár nyitvatartási idején túl – ideértve a heti pihenőnapot vagy munkaszüneti napot is – nyújtott közvetlen lakossági gyógyszerellátás;
 
 45. gyógyszertári készenlét: a gyógyszertár nyitvatartási idején túl – ideértve a heti pihenőnapot vagy munkaszüneti napot is – nyújtott közvetlen lakossági gyógyszerellátás biztosítása olyan módon, hogy a készenlétet teljesítő gyógyszerész az ellátást telefonhívást követően 30 perces várakozási időn belül kezdi meg.
+
+46. tételes elszámolás alá eső hatóanyagot tartalmazó gyógyszer: az egészségbiztosítási szerv által közbeszerzés útján természetben vagy pénzügyi keret formájában biztosított, speciális támogatásban részesülő gyógyszer;

@@ -1,6 +1,6 @@
-31/C. § (1) A 31/B. § szerinti kedvezményezetti státuszról az egészségbiztosítási szerv dönt a 23. § (4) bekezdésében foglaltak szerint az Országos Gyógyszerterápiás Tanács szakvéleményének kikérését követően.
+31/C. § (1) A 31/B. § szerinti kedvezményezetti státuszról az egészségbiztosítási szerv dönt az egészségügyért felelős miniszter jóváhagyását követően.
 
-(2) Az egészségbiztosítási szerv akkor fogadhat be gyógyszert kedvezményezetti státusszal a társadalombiztosítási támogatásba, ha a gyógyszer megfelel a 31/B. § (2) bekezdésében foglaltaknak, továbbá a gyógyszer forgalomba hozatali engedélyének jogosultja, a kérelméhez csatolt nyilatkozatában vállalja öt évre az egészségbiztosítási szervvel a 26. § (5) bekezdés b) pontja szerinti – termelői áron számított évi 30 millió forint – határértékre szóló támogatásvolumen szerződés megkötését az indikációban használt gyógyszer(ek)re.
+(2) Az egészségbiztosítási szerv akkor fogadhat be gyógyszert kedvezményezetti státusszal a társadalombiztosítási támogatásba, ha a gyógyszer megfelel a 31/B. § (2) bekezdésében foglaltaknak, továbbá a gyógyszer forgalombahozatali engedélyének jogosultja, a kérelméhez csatolt nyilatkozatában vállalja öt évre az egészségbiztosítási szervvel a 26. § (5) bekezdés b) pontja szerinti – termelői áron számított évi 100 millió forint – határértékre szóló támogatásvolumen-szerződés megkötését az indikációban használt gyógyszer(ek)re.
 
 (2a) A (2) bekezdéstől eltérően az egészségbiztosítási szerv akkor fogadhat be gyógyszert támogatási érték nélküli támogatási kategóriába kedvezményezetti státusszal, ha a gyógyszer megfelel a 31/B. § (2) bekezdésében foglaltaknak, továbbá a gyógyszer éves forgalma várhatóan nem haladja meg a – termelői áron számított – 30 millió forintot.
 

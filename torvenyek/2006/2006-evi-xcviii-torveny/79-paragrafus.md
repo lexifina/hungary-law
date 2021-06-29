@@ -1,1 +1,1 @@
-79. § Az e törvényben meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
+79. § Az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott engedélyezési és ellenőrzési eljárásokban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.

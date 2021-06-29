@@ -12,6 +12,8 @@ ab) a 49/A. § (2) bekezdésében foglalt feltételek teljesülnek, vagy
 
 b) hivatalból, amennyiben a 49/A. § (1)–(2) bekezdésében foglaltak felülvizsgálatának eredményeként az szükséges, mely felülvizsgálat naptári félévente lefolytatásra kerül.
 
+(2a) Ha a településen a lakosságszám figyelembevételével egynél több közforgalmú gyógyszertár létesítésére is lehetőség van, a településen újabb közforgalmú gyógyszertár létesítésére akkor írható ki újabb pályázat, ha a korábban elbírált pályázatot követően kiadott létesítési engedély és működési engedély véglegessé vált. Ha a lakosság gyógyszerellátása szempontjából indokolt, a települési önkormányzat képviselő-testületének kérelme alapján az újabb pályázat a működési engedély véglegessé válását megelőzően is kiírható, az előző létesítési cím feltüntetésével.
+
 (3) Az országos pályázati felhívást, valamint a pályázat tartalmi követelményeit az egészségügyi államigazgatási szerv a (2) bekezdés a) pontja szerinti esetben a pályázati kiírás kezdeményezésétől, a (2) bekezdés b) pontja szerinti esetben pedig a felülvizsgálat lezárásától számított hatvan napon belül az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában és saját honlapján közzéteszi. A pályázatot az egészségügyi államigazgatási szerv előzetesen megküldi jóváhagyásra az egészségügyért felelős miniszter számára.
 
 (4) A pályázatokat az egészségügyi államigazgatási szerv a pályázati felhívásban megjelölt benyújtási határnaptól számított hatvan napon belül bírálja el, és annak eredményét a (3) bekezdés szerinti lapban és honlapján közzéteszi. A pályázatot úgy kell kiírni, hogy a közzététel napjától számítva legalább 30 nap álljon rendelkezésre a benyújtásra.

@@ -6,7 +6,7 @@
 
 (2a) Az egészségügyi államigazgatási szerv a létesítési engedélyt és a működési engedélyt visszavonja, ha a személyi jogos személyében bekövetkező változás nem a 60/B–60/D. §-okban, illetőleg a 65. § b) pontja alapján következett be.
 
-(3) A gyógyszertár működtetője a gyógyszertár működtetését naptári évente legfeljebb 21 napig szüneteltetheti. A szüneteltetést legalább egy hónappal előbb be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek. Az előre nem tervezhető szüneteltetést az arra okot adó körülmény észlelését követően haladéktalanul, de legkésőbb a következő munkanapon be kell jelenteni.
+(3) A gyógyszertár működtetője a gyógyszertár működtetését naptári évente legfeljebb 21 napig szüneteltetheti. A szüneteltetést legalább egy hónappal előbb be kell jelenteni az engedélyező egészségügyi államigazgatási szervnek. Az előre nem tervezhető szüneteltetést az arra okot adó körülmény észlelését követően haladéktalanul, de legkésőbb a következő napon be kell jelenteni. Az előre nem tervezett szünetelés kezdőnapja – visszamenőleges hatállyal – legkorábban a bejelentést megelőző nap lehet.
 
 (4) A (3) és (4a) bekezdés szerinti bejelentésben meg kell jelölni a szüneteltetés vagy az eltérés okát, a kezdetét és a várható befejezés időpontját. A gyógyszertár újbóli megnyitását be kell jelenteni az egészségügyi államigazgatási szervnek, amennyiben eltér az előzetes bejelentésben feltüntetett időponttól.
 
