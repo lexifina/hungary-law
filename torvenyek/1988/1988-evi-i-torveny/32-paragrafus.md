@@ -22,4 +22,4 @@ d) a közparkokban és a telepszerű beépítésű lakóövezetben elhelyezhető
 
 (5)
 
-(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Magyar Közút Nonprofit Zrt., amely a vagyonkezelői feladatokat közfeladatként látja el.
+(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Magyar Közút Nonprofit Zrt., amely a vagyonkezelői feladatokat – ideértve a vagyonkezelésében álló vagyonelemek hasznosítását is – állami feladatként, közfeladatként látja el.
