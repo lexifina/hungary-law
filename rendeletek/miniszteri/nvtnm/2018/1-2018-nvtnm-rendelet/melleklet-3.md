@@ -138,7 +138,13 @@
 
 | 2. | VIZITERV Export Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-308251 | 2022. december 31. |
 
-## XV.
+## XV. Tulajdonosi joggyakorló: Nemzeti Sportközpontok
+
+|  | A | B | C |
+
+| Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Haladás Sportkomplexum Fejlesztő Nonprofit Korlátolt Felelősségű Társaság | 18-09-112060 | 2022. december 31. |
 
 ## XVI. Tulajdonosi joggyakorló: Szabadtéri Néprajzi Múzeum
 
