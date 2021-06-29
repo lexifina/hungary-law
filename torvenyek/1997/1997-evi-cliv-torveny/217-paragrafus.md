@@ -48,6 +48,6 @@ b) nem áll egészségügyi tevékenységet kizáró foglalkozástól eltiltás 
 
 c) nem áll büntetőeljárás hatálya alatt, a magánvádas és a pótmagánvádas eljárást kivéve,
 
-d) megfelel a halottvizsgálati szaktanácsadókról, valamint a halottvizsgálati szaktanácsadói névjegyzékről szóló miniszteri rendeletben meghatározott egyéb feltételeknek.
+d) megfelel a halottvizsgálati szaktanácsadókról, valamint a halottvizsgálati szaktanácsadói névjegyzékről szóló kormányrendeletben meghatározott egyéb feltételeknek.
 
 (12) A (11) bekezdés a)–c) pontjaiban szereplő adatokat a névjegyzékbe felvételét kérő a 31/A. § szerint igazolja.

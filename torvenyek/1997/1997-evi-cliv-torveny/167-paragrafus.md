@@ -6,4 +6,4 @@
 
 (4) Egyedülálló nő esetében a reprodukciós eljárás akkor végezhető el, amennyiben a nő életkora vagy egészségi állapota (meddőség) következtében gyermeket természetes úton nagy valószínűséggel nem vállalhat. A reprodukciós eljárás megkezdésére, a tájékoztatásra, a beleegyező nyilatkozatra e fejezet rendelkezései megfelelően irányadók. A reprodukciós eljárás során testen kívül létrejött és be nem ültetett embrióval kapcsolatos, e fejezet szerinti rendelkezési jogot az egyedülálló nő gyakorolja azzal, hogy rendelkezési jogáról közokiratban vagy teljes bizonyító erejű magánokiratban lemondhat.
 
-(5) Reprodukciós eljárás megfelelő szakorvosi javaslatra az eljárás lefolytatására kiadott működési engedély alapján jogosult egészségügyi szolgáltatónál végezhető.
+(5) Reprodukciós eljárás megfelelő szakorvosi javaslatra, az eljárás végzésére működési engedéllyel rendelkező, a 169. § (2) bekezdésében meghatározott egészségügyi szolgáltatónál végezhető.

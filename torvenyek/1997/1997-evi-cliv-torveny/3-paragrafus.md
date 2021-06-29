@@ -64,7 +64,7 @@ wb) egyházi jogi személy vagy vallási egyesület által fenntartott egészsé
 
 wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
 
-wd) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 97. § (1) bekezdés a), b) és c) pontja szerinti esetben az egészségügyi felsőoktatási intézmény,
+wd) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdés a) és b) pontja szerinti esetben az egészségügyi felsőoktatási intézmény,
 
 we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet;
 

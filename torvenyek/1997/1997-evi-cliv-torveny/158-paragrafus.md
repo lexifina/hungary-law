@@ -4,6 +4,8 @@
 
 (3) A kutatásengedélyezési eljárás ügyintézési határideje ötvenöt nap, az ETT és az ETT bizottsága szakhatósági eljárásának az ügyintézési határideje ötven nap.
 
+(3a) A (3) bekezdésben foglaltak az orvostechnikai eszközökkel végzett klinikai vizsgálatok engedélyezésére nem alkalmazandók.
+
 (4) A közigazgatási ügyben eljáró bíróság a kutatásengedélyezési ügyben hozott döntést nem változtathatja meg.
 
 (5) A kutatásengedélyezési ügyben hozott döntés ellen indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.

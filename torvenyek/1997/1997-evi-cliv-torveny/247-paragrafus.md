@@ -46,7 +46,13 @@ o) az alapnyilvántartást vezető szervet, az egészségügyi szakértői nyilv
 
 p) a humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák körét, a nyilvánosságra hozatal módját és helyét, továbbá az ellenőrzés módját,
 
-q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat,
+q) a halottvizsgálatra, a halottakkal kapcsolatos orvosi eljárásra, a nem természetes halál esetén ellátandó feladatokra, a kórbonctani vizsgálatra, a hatósági és igazságügyi orvosi boncolásra, a holttest szállítására, tárolására, az ehhez kapcsolódó költségek viselésére, a halottvizsgálati szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szerv kijelölésére, a kihantolásra, valamint a holttest helyreállítására és átadására vonatkozó szabályokat, továbbá a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
+
+qa) szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
+
+qb) a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
+
+qc) a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
 
 r) a sürgős szükség esetén külön jogszabályban meghatározott ellátások költségeinek behajtására és finanszírozására irányuló eljárási szabályokat,
 
@@ -64,7 +70,9 @@ x) az egészségségre ártalmas szintet elérő hő- és hideghullámok, napsug
 
 y) a hagyományos kínai gyógyászat területén oklevéllel rendelkező személy által végzett egészségügyi tevékenység engedélyezésére vonatkozó részletes szabályokat,
 
-z) a természetes gyógytényezőkkel kapcsolatos hatósági eljárásra vonatkozó részletes szabályokat
+z) a természetes gyógytényezőkre, gyógyhelyekre, fürdő- és klímagyógyintézetekre vonatkozó részletes szabályokat és a kapcsolódó hatósági eljárásra vonatkozó szabályokat,
+
+zs) a közhasználatú fürdő létesítésére, üzemeltetésére, ellenőrzésére, a fürdővízzel érintkező anyagokra vonatkozó részletes szakmai előírásokat, a fürdési célú létesítmények vízminőségének ellenőrzéséhez szükséges mintavételi és laboratóriumi vizsgálati tevékenységre vonatkozó követelményeket, továbbá az üzemeltetéshez szükséges képesítési előírásokat
 
 rendeletben megállapítsa.
 
@@ -216,7 +224,7 @@ v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cs
 
 w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
 
-x) a természetes gyógytényezőkre vonatkozó részletes szabályokat,
+x)
 
 y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
 
@@ -236,7 +244,7 @@ ab) tartalmi követelményeire vonatkozó részletes szabályokat,
 
 b) az egészségfejlesztési programok akkreditációs eljárásának szabályait,
 
-c) a közfürdők létesítésére, üzemeltetésére, valamint a közfürdők és kútjaik védőterületére vonatkozó részletes szakmai előírásokat, továbbá az üzemeltetéshez szükséges képesítési előírásokat,
+c)
 
 d) az egészségügyi kockázattal járó egyes nem egészségügyi tevékenységek egészségügyi kockázatának csökkentésére irányuló szakmai szabályokat,
 
@@ -246,15 +254,7 @@ f) az egészségügyi szakdolgozó által, orvosi elrendelésre önállóan is e
 
 g) az egészségügyi tevékenységet e törvény alapján felügyelet mellett végzők felügyeletének módjával, illetve a felügyelet szintjével kapcsolatos szabályokat,
 
-h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben
-
-ha) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadói névjegyzékbe történő felvételre, valamint az ahhoz szükséges képesítési és szakmai feltételekre és a névjegyzékből való törlésre vonatkozó szabályokat,
-
-hb) az igazságügyért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó igénybe vételének, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói ügyeleti rendszer részletes szabályait,
-
-hc) az adópolitikáért felelős miniszterrel egyetértésben a névjegyzékbe-vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
-
-hd) az igazságügyért felelős miniszterrel és az államháztartásért felelős miniszterrel egyetértésben a halottvizsgálati szaktanácsadó részére fizetendő díjat és a díj megállapítására vonatkozó részletes szabályokat,
+h) a halottvizsgálati szaktanácsadói névjegyzékkel összefüggésben az adópolitikáért felelős miniszterrel egyetértésben és a közigazgatás-szervezésért felelős miniszterrel egyetértésben a névjegyzékbe vételi eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszafizetésére és nyilvántartására vonatkozó részletes szabályokat,
 
 i) a Szoptatást Támogató Nemzeti Bizottság működésére vonatkozó szabályokat,
 
@@ -262,7 +262,7 @@ j) a rendezvénybiztosítás és a helyszínbiztosítás részletes szakmai szab
 
 k) a Központi Implantátumregiszter működésére vonatkozó részletes szabályokat és a 101/C. § (1) bekezdése szerinti nyilvántartási kötelezettség alól – a 101/C. § (1) bekezdésében meghatározott egyes adatok vagy valamennyi adat tekintetében – mentesülő implantátumok körét,
 
-l) a 137. § b) pontja szerinti azon járóbeteg-szakellátási tevékenységeket, amelyek befejezésekor ambuláns ellátási lapot kell kiállítani, valamint az ambuláns ellátási lap tartalmával kapcsolatos szabályokat
+l)
 
 m) a sugárszennyezett vagy arra gyanús személy egészségügyi ellátásának, valamint a sugárszennyezett személy elkülönítésének részletes szabályait,
 
@@ -280,6 +280,8 @@ q) a prehospitális gyógyszeralkalmazás szabályait,
 
 r) az állami fenntartásban működő országos gyógyintézetek típusait és körét és az országos gyógyintézetek működésére vonatkozó speciális szabályokat
 
+s) az orvosi fizikus szakértői tevékenység folytatásához szükséges továbbképzésre vonatkozó szabályokat,
+
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
@@ -295,3 +297,29 @@ b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek
 c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
 
 ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
+
+cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
+
+cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
+
+cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
+
+ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
+
+cf) az egészségügyi szakértői tevékenység folytatására irányuló szándék bejelentéséért,
+
+cg) az egészségfejlesztési programok akkreditációjáért,
+
+ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
+
+ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
+
+cj)
+
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
+
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a köznevelési intézményekben vagy szakképző intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat,
+
+e) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben a taktikai medicina – mint a rendőri speciális műveleti feladatok végrehajtása során végezhető egészségügyi tevékenység – szakmai, személyi, tárgyi feltételeit és követelményeit, valamint ezek szakmai tartalmát;
