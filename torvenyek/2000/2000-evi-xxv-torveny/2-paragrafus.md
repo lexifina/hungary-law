@@ -1,18 +1,18 @@
 ## A törvény hatálya
 
-2. § (1) A REACH és a CLP e törvénnyel együttesen alkalmazandó.
+2. § (1)
 
-(2) E törvény hatálya az embert és a környezetet veszélyeztető veszélyes anyagokra és keverékekre, illetőleg az ezekkel folytatott tevékenységekre terjed ki azzal, hogy a CLP szerinti osztályozásig – az osztályba sorolhatóságtól függetlenül – e törvényt valamennyi anyagra alkalmazni kell. A veszélyes anyagok és veszélyes keverékek csomagolására és feliratozására (címkézésére) vonatkozó rendelkezéseket – ha azt külön jogszabály elrendeli – azon keverékekre is alkalmazni kell, amelyek nem minősülnek veszélyesnek, de – különösen mennyiségükre, felhasználásuk módjára vagy céljára tekintettel – különleges kockázatot jelenthetnek az emberi egészségre vagy a környezetre.
+(2) E törvény hatálya az embert és a környezetet veszélyeztető veszélyes anyagokra és veszélyes keverékekre, és az ezekkel folytatott tevékenységekre terjed ki.
 
-(3) E törvény hatálya a 23. § (6) bekezdésében meghatározott, valamint a c) pont tekintetében a 20. § (6) bekezdésében meghatározott kivétellel nem terjed ki
+(3) E törvény hatálya a 23. § (6) bekezdésében meghatározott, és a c) pont tekintetében a 20. § (6) bekezdésében, és a h) és i) pont tekintetében a 8/A. §-ban meghatározott kivétellel nem terjed ki
 
-a) az emberi vagy az állatgyógyászati célra használt gyógyszerekre (késztermékekre), valamint a külön jogszabály szerint orvostechnikai eszköznek minősülő termékre és anyagra,
+a) az emberi vagy az állatgyógyászati célra használt gyógyszerekre (késztermékekre), és az orvostechnikai eszközökről szóló jogszabályokban meghatározott orvostechnikai eszköznek minősülő termékre és anyagra,
 
-b) a pszichotróp anyagokra, a kábítószerekre, illetve a kábítószer-prekurzorokra,
+b) a pszichotróp anyagokra, a kábítószerekre, és a kábítószer-prekurzorokra,
 
-c) a kozmetikai termékekre,
+c) a kozmetikai termékekről szóló, 2009. november 30-ai 1223/2009/EK európai parlamenti és tanácsi rendelet szerinti kozmetikai termékekre,
 
-d) a külön jogszabály szerint hulladéknak minősülő anyagokra,
+d) a hulladéknak minősülő anyagokra,
 
 e) a radioaktív anyagokra,
 
@@ -20,7 +20,7 @@ f) az élelmiszerjog általános elveiről és követelményeiről, az Európai 
 
 g) a 178/2002/EK rendelet szerinti takarmányokra,
 
-h) a növényvédő szerekre,
+h) a növényvédő szerek forgalomba hozataláról valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet szerinti növényvédő szerekre,
 
 i) az egyéb veszélyes anyagokra vagy veszélyes keverékekre, amelyekkel kapcsolatban jogszabály olyan bejelentési, engedélyezési vagy egyéb közigazgatási eljárást ír elő, amelynek során érvényesített követelmények megfelelnek az e törvényben meghatározott követelményeknek.
 

@@ -18,7 +18,11 @@ g) a hulladékgazdálkodás vonatkozásában a hulladékgazdálkodási hatóság
 
 végzi, és hatáskörében eljár a rendelkezések megsértése esetén.
 
+(1a) A Nemzeti Adó- és Vámhivatal a REACH rendelet 5., 18., 56. és 67. cikkében foglalt előírások ellenőrzésének tekintetében közreműködik a harmadik országból importált termékek forgalomba hozatalának ellenőrzésében.
+
 (2) Az ellenőrzést végző hatóságok eljárására és intézkedéseire a rájuk vonatkozó külön jogszabályok rendelkezései az irányadóak. A tevékenység ellenőrzésére az (1) bekezdés b)–f) pontja szerint jogosult hatóság értesíti az egészségügyi államigazgatási szervet, ha feladatkörében eljárva az e törvényben, illetőleg a végrehajtására kiadott jogszabályokban foglalt rendelkezések megsértése miatt eljárást indított.
+
+(2a) Az (1) bekezdés b)–f) pontja szerint jogosult hatóság a kémiai biztonsági tárgyú ellenőrzéseiről éves összesítő jelentést küld a 26/A. § szerint kijelölt kompetens hatóságnak az Európai Bizottság számára megküldendő tagállami jelentés összeállítása érdekében.
 
 (3) A tevékenység ellenőrzésére az (1) bekezdés b)–f) pontja szerint jogosult hatóság feladatkörében eljárva – a rá vonatkozó külön jogszabályokban meghatározott intézkedések alkalmazásán túl – az e törvényben, illetőleg a végrehajtására kiadott jogszabályokban foglalt rendelkezések megsértése esetén határozatát közli az egészségügyi államigazgatási szervvel. Az egészségügyi államigazgatási szerv a megkeresés alapján indított eljárásban elrendelheti
 

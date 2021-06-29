@@ -1,1 +1,1 @@
-31. § Az e törvényben foglalt követelményeknek megfelelő veszélyes anyagok, illetve veszélyes keverékek hazai forgalmazása kizárólag a 20. § (4) bekezdésében, valamint a 26. §-ban meghatározott esetben korlátozható vagy tiltható meg.
+31. §
