@@ -4,7 +4,7 @@
 
 (2) Az e törvény szerinti vagyonjuttatás során az 1. mellékletben foglalt táblázat 3. sorában szereplő védett ingatlan esetében nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, valamint az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 25. § (5) bekezdését.
 
-(3) Az 1. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Egyetemmel.
+(3) Az 1. melléklet szerinti ingatlanok tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) köti meg az Egyetemmel.
 
 (4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott közfeladatok ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
 
