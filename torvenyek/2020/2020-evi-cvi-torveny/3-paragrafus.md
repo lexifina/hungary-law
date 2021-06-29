@@ -1,11 +1,11 @@
 ## 3. A Batthyány Lajos Alapítvány
 
-3. § (1) Az Országgyűlés felhívja a Kormányt, hogy az állam nevében tegye meg a szükséges intézkedéseket a Batthyány Lajos Alapítványhoz való, e törvényben meghatározott vagyoni juttatás teljesítésével történő csatlakozásra, a Batthyány Lajos Alapítvány alapító okiratának a vagyonkezelő alapítványokról szóló 2019. évi XIII. törvény (a továbbiakban: Vatv.) rendelkezéseinek megfelelő módosítására és a Batthyány Lajos Alapítványnak közérdekű vagyonkezelő alapítványként való nyilvántartásba vételére.
+3. § (1)
 
-(2) Az állam képviseletében a 3. és a 4. alcím alkalmazása során a miniszter jár el.
+(2) Az állam képviseletében a 4. alcím alkalmazása során a miniszter jár el.
 
-(3) A Batthyány Lajos Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a Batthyány Lajos Alapítvány kuratóriuma kerüljön kijelölésre.
+(3)
 
-(4) A Kormánynak az állam nevében a Batthyány Lajos Alapítványhoz való, e törvényben meghatározott vagyoni juttatás teljesítésével történő csatlakozására csak akkor kerülhet sor, ha a Batthyány Lajos Alapítvány alapító okiratának a Batthyány Lajos Alapítvány vagyonkezelő alapítványként való nyilvántartásba vétele érdekében a Vatv. rendelkezéseinek megfelelő, a Batthyány Lajos Alapítvány kuratóriumának új tagjait kijelölő, valamint a Batthyány Lajos Alapítvány kuratóriumának az alapítói jogok teljes körének gyakorlására történő kijelöléséhez szükséges módosítása legkésőbb a Kormánynak az állam nevében a Batthyány Lajos Alapítványhoz való csatlakozása során megtörténik.
+(4)
 
-(5) Az (1) bekezdésben előírtaknak, valamint a 4. §-ban meghatározott céloknak, a nemzeti vagyonnal való felelős gazdálkodás követelményének az érvényre juttatásával történő megvalósítása érdekében, az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésében meghatározottaktól eltérően a Kormány, az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat a Batthyány Lajos Alapítványhoz azzal, hogy az alapítók, a csatlakozó, valamint az alapítói jogok gyakorlására a (3) bekezdés értelmében kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg a Batthyány Lajos Alapítványt.
+(5) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésétől eltérően a Kormány, az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat a Batthyány Lajos Alapítványhoz azzal, hogy az alapítók, a csatlakozó, valamint az alapítói jogok gyakorlására kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg a Batthyány Lajos Alapítványt.
