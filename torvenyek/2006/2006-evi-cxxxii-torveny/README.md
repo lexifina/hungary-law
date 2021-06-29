@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-132-00-00
 | 2017-12-19 | 2017. évi CLXXXVIII. törvény | 2006-132-00-00.35 |
 | 2018-01-01 | 2017. évi L. törvény | 2006-132-00-00.36 |
 | 2020-07-01 | 2020. évi XXXX. törvény | 2006-132-00-00.37 |
+| 2021-06-29 | 2021. évi CI. törvény | 2006-132-00-00.38 |
