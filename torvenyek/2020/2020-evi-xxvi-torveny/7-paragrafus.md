@@ -6,11 +6,11 @@
 
 (3) Az (1) és (2) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a MUC tv. 1. § (2) bekezdésében meghatározott miniszter jár el.
 
-(4) Ha a MUC Alapítvány a tulajdonába adott (1) bekezdés szerinti vagyonelemet el kívánja idegeníteni, akkor a tulajdonba adásról rendelkező nyilatkozatban előírt módon meghatározott piaci áron köteles annak megvásárlására az államnak a MUC tv. 1. § (2) bekezdésében meghatározott miniszterhez eljuttatott nyilatkozattal ajánlatot tenni, amelyre tekintettel az államot vételi jog illeti meg. Ha a MUC tv. 1. § (2) bekezdésében meghatározott miniszter e nyilatkozat közlésétől számított 90 napon belül úgy nyilatkozik, hogy a vagyonelem tekintetében vételi jogával nem kíván élni, vagy ha a nyilatkozat közlésétől számított 90 napon belül nem tesz nyilatkozatot, úgy az állam vételi joga megszűnik.
+(4)
 
-(5) A (4) bekezdésben meghatározott vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+(5)
 
-(6) A (4) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a MUC Alapítvány a MUC tv. preambulumában meghatározott célok megvalósítására köteles fordítani.
+(6) A (4) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét a MUC Alapítvány a a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. mellékletében meghatározott közfeladatai ellátására és közérdekű céljai megvalósítására köteles fordítani.
 
 (7) A MUC Alapítvány jogutód nélküli megszűnése esetén az (1) bekezdés szerinti vagyonelemek tulajdonjoga az államra száll vissza.
 
