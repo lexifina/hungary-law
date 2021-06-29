@@ -1,0 +1,3 @@
+175. § A Vagyonjuttatási tv. 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésétől eltérően a Kormány, az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat a Batthyány Lajos Alapítványhoz azzal, hogy az alapítók, a csatlakozó, valamint az alapítói jogok gyakorlására kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg a Batthyány Lajos Alapítványt.”

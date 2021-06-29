@@ -1,0 +1,9 @@
+## 39. A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény módosításáról
+
+145. § (1) A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (a továbbiakban: Fdvtv.) 15/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat, az új dohánytermék-kategóriákat, valamint a füst nélküli dohánytermékeket kivéve – típusonként, márkajelzésenként, valamint – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan megjeleníteni. A szivarok kivételével minden olyan dohánytermék, amelynek csomagolása kombinált egészségvédő figyelmeztetést tartalmaz, csak olyan módon helyezhető az értékesítési csatornába (polchelyre), hogy a kombinált egészségvédő figyelmeztetés a fogyasztó felé láthatóvá váljék; minden más esetben a terméket a csomagolás előlapjával kell megjeleníteni.”
+
+(2) Az Fdvtv. 15/D. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Azon dohánytermék vonatkozásában, amelyik jogszabályban meghatározott, kötelezően alkalmazandó színű (egységes) csomagolásban kerül forgalomba, az (1) bekezdésben foglaltakat 2022. december 31-ig azzal az eltéréssel kell alkalmazni, hogy a dohánytermék értékesítési csatornája elé a dohánytermék csomagolásának méretével megegyező méretű, márkajelzést tartalmazó, a dohánytermék korábbi vagy más országban jellemző megjelenését ábrázoló kép helyezhető ki a kihelyezett képen a kombinált egészségvédő figyelmeztetést a dohánytermékre irányadó jogszabályok szerinti méretben és szöveggel meg kell jeleníteni.”

@@ -1,0 +1,3 @@
+124. § A Gyftv. 49. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha a településen a lakosságszám figyelembevételével egynél több közforgalmú gyógyszertár létesítésére is lehetőség van, a településen újabb közforgalmú gyógyszertár létesítésére akkor írható ki újabb pályázat, ha a korábban elbírált pályázatot követően kiadott létesítési engedély és működési engedély véglegessé vált. Ha a lakosság gyógyszerellátása szempontjából indokolt, a települési önkormányzat képviselő-testületének kérelme alapján az újabb pályázat a működési engedély véglegessé válását megelőzően is kiírható, az előző létesítési cím feltüntetésével.”

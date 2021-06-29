@@ -1,0 +1,1 @@
+203. § Az MKA tv. 6. § (2) bekezdésben a „4. § és a 2. mellékletben foglalt táblázat 10. és 12. pontja” szövegrész helyébe a „2/A. §, 4. §, a 2. mellékletben foglalt táblázat 10. és 12. pontja és a 3. melléklet” szöveg lép.

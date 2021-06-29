@@ -1,0 +1,3 @@
+57. § Az Eütv. 159. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Orvostechnikai eszközök klinikai vizsgálatának minősülő orvostudományi kutatás – az (1)–(6) bekezdésben foglaltaktól eltérően – az (EU) 2017/745 rendeletben meghatározott feltételek fennállása esetén végezhető. Az orvostechnikai eszközök klinikai vizsgálatának engedélyezését – az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott, az (EU) 2017/745 rendelet 62. cikk (4) bekezdés b) pontja szerinti szakvéleménye alapján – az orvostechnikai eszközökkel kapcsolatos hatósági feladatok ellátására kijelölt szerv végzi.”

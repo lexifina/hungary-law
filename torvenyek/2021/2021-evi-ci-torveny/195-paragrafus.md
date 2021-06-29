@@ -1,0 +1,3 @@
+## 59. A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény módosítása
+
+195. § A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény (a továbbiakban: 2021. évi XI. törvény) 3. § (1) bekezdése az „ingatlanok, valamint ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, valamint ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni szöveggel lép hatályba.

@@ -1,0 +1,5 @@
+## 53. A Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény módosítása
+
+180. § A Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény (a továbbiakban: 2020. évi CXLII. törvény) 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, valamint a Debreceni Egyetem Agrár Kutatóintézetek és Tangazdaság Karcagi Kutatóintézet által használt állami tulajdonú ingó vagyontárgyak az Egyetem tulajdonába kerülnek.”
