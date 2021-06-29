@@ -6,6 +6,6 @@
 
 (3)
 
-(4) Az Alapítvány (3) bekezdés szerinti tevékenysége, valamint az Alapítvány ezen céljainak a megvalósítása közérdekű célnak minősül. Az Alapítvány e céljainak megvalósításával közvetlenül összefüggő gazdasági tevékenységet végez, amely keretében az alapító által rendelt, valamint az Alapítványhoz csatlakozók és adományozók által juttatott vagyont kezeli.
+(4)
 
 (5) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.

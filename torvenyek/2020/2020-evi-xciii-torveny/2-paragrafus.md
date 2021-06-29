@@ -6,14 +6,14 @@
 
 (3) Az 1. melléklet szerinti vagyonelemek tekintetében az Alapítvány nyilvántartásba vételének hatályával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket. A miniszter az 1. mellékletben meghatározott vagyonelemek (1) bekezdés szerinti tulajdonba adásáról az Alapítvány alapító okiratában rendelkezik. Az 1. melléklet szerinti vagyonelemekhez kapcsolódó, 2019. év után járó osztalékra vagy annak megfelelő összegre az Alapítvány jogosult.
 
-(4) Ha az Alapítvány a tulajdonába adott 1. melléklet szerinti vagyonelemet el kívánja idegeníteni, akkor az alapító okiratban előírt módon meghatározott piaci áron köteles annak megvásárlására az államnak – a miniszterhez eljuttatott nyilatkozattal – ajánlatot tenni, amelyre tekintettel az államot vételi jog illeti meg. A vételi jog biztosítására az államot elidegenítési és terhelési tilalom illeti meg.
+(4)
 
-(5) Ha a miniszter a (4) bekezdés szerinti nyilatkozat közlésétől számított 90 napon belül úgy nyilatkozik, hogy a vagyonelem tekintetében az állam a vételi jogával nem kíván élni, vagy ha a nyilatkozat közlésétől számított 90 napon belül nem tesz nyilatkozatot, úgy az állam vételi joga megszűnik.
+(5)
 
-(6) A (4) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítést követően fennmaradó részét az Alapítvány az 1. § (3) bekezdésében meghatározott célok és feladatok megvalósítására köteles fordítani.
+(6) Az 1. melléklet szerinti vagyonelemek elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítést követően fennmaradó részét az Alapítvány a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 1. mellékletében meghatározott közfeladatainak ellátására és közérdekű céljainak megvalósítására köteles fordítani.
 
 (7) Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az 1. melléklet szerinti vagyonelem tulajdonjoga az államra száll vissza.
 
-(8) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik. Az Alapítvány 1. § (3) bekezdésében meghatározott közérdekű tevékenysége, közfeladata ellátása érdekében az Alapítvány részére a külgazdasági ügyekért felelős miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
+(8) Az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatainak ellátására és közérdekű céljainak megvalósítása érdekében az Alapítvány részére a miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
 
 (9) Az (1) bekezdés szerinti vagyonjuttatást úgy kell tekinteni, hogy az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésben és 18. § (1) bekezdésben meghatározott feltételek szerinti juttatással esik egy tekintet alá.
