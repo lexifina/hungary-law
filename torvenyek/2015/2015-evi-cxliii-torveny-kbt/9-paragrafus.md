@@ -90,7 +90,7 @@ d) logisztikai szolgáltatások (a fizikai kézbesítést, illetve a raktározá
 
 (10) Az (1) bekezdés b) pontja szerinti beszerzés során az ajánlatkérő jogosult a bűnügyi személyes adatok kezelésére.
 
-(11) Az (1) bekezdés b) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését az 5. § (1) bekezdés a)–c) pontjában meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
+(11) Az (1) bekezdés b) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését az 5. § (1) bekezdés a)–e) pontjában és (2) bekezdésében meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
 
 (12) A (11) bekezdés alapján az (1) bekezdés b) pontjában meghatározott
 
