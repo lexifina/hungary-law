@@ -25,3 +25,5 @@ j) Magyar Nemzeti Filmarchívum Könyvtára,
 k) a HM Hadtörténeti Intézet és Múzeum Hadtörténeti Könyvtár,
 
 l) az Országos Széchényi Könyvtár Könyvtári Intézet Könyvtártudományi Szakkönyvtára.
+
+m) Színház- és Filmművészeti Egyetem Könyvtár, Kottatár és Médiatár

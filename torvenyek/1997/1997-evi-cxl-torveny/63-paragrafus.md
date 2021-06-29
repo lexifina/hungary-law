@@ -4,7 +4,7 @@
 
 63. § (1) A tudományos és szakkönyvtári ellátás az Országos Széchényi Könyvtár, a Debreceni Egyetem Egyetemi és Nemzeti Könyvtára, az országos szakkönyvtárak (3. számú melléklet), az állami egyetemek könyvtárai, valamint a nyilvános könyvtári ellátást vállaló egyéb szak- és felsőoktatási könyvtárak feladata.
 
-(2) Nemzeti gyűjtőkörű könyvtár a Debreceni Egyetem Egyetemi és Nemzeti Könyvtára, amely egyben az Országos Dokumentumellátási Rendszer elektronikus szolgáltató központja is.
+(2) Nemzeti gyűjtőkörű könyvtár a Debreceni Egyetem Egyetemi és Nemzeti Könyvtára.
 
 (3) A tudományos és szakkönyvtári ellátás az (1) bekezdésben felsorolt könyvtárak, valamint a könyvtári rendszer minden egyéb tagjának együttműködésével valósul meg. Az egyes szakterületeken működő könyvtárak együttműködését a szakterület szerint illetékes minisztériumok támogatják.
 
