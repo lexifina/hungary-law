@@ -1,0 +1,21 @@
+## 5. § E rendelet rendelkezéseit a hatálybalépése napján folyamatban lévő ügyekben is alkalmazni kell.
+
+1. melléklet a 9/2021. (VI. 28.) NVTNM rendelethez
+
+| XLVII. Gazdaság-újraindítási Alap fejezet az állami vagyongazdálkodás gazdaság-újraindítási központi kezelésű előirányzatai 2021. évi költségvetési kiadási előirányzatainak feladatterve |
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
+
+|  | Áht. Azonosító | Cím- név | Alcím- név | Jogcím- csoportnév | Jog- cím- név | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Vissza- fizetés határ- ideje | Biztosíték | Kezelő szerv | Lebo- nyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete |
+
+| 1 | 387062 | Központi kezelésű előirányzatok |
+
+| 2 | 387839 |  | Az állami vagyongazdálkodás gazdaság-újraindítási központi kezelésű előirányzatai |
+
+| 3 | 375317 |  |  | Közgyűjteményi Digitalizálási Stratégia megvalósítását szolgáló kiadások |  | Az előirányzat célja a Magyar Nemzeti Filmarchívumot érintő szolgáltatásfejlesztési, digitálisgyűjtemény-fejlesztési és aggregációfejlesztési feladatok végrehajtásának tulajdonosi támogatása. | Nemzeti Filmintézet Közhasznú Nonprofit Zrt. (a továbbiakban: NFI) | Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti, az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatási szerződésben foglaltaknak megfelelően. | előleg nyújtása lehetséges | Részletekben vagy egyösszegben, idő- vagy teljesítés- arányosan. | – | Az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) szerinti biztosítékok. | Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) | – | – |
+
+| 4 | 330017 |  |  | A Nemzeti Filmintézet Közhasznú Nonprofit Zrt. támogatása |  | Az előirányzat tulajdonosi támogatás útján az NFI törvényben meghatározott feladatainak (nemzeti filmvagyon kezelése és védelme; a mozgóképkultúra és mozgóképipar – ideértve a korábbi Televíziós Film Mecenatúra céljainak – támogatása) és működési költségeinek fedezetéül szolgál. | NFI | Az Áht. szerinti, az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatási szerződésben foglaltaknak megfelelően. | előleg nyújtása lehetséges | Részletekben vagy egyösszegben, idő- vagy teljesítés- arányosan. | – | Az Ávr. szerinti biztosítékok. | MNV Zrt. | – | – |
+
+| 5 | 381095 |  |  | Liget Budapest projekttel kapcsolatos kiadások |  | Az előirányzat azokra a kifizetésekre nyújt fedezetet, melyek közvetlenül vagy közvetve a Liget Budapest projekt megvalósítása kapcsán felmerülő ingatlanvásárlásokhoz és -beruházásokhoz kapcsolódnak. A kiadásokhoz előzetesen felszámított általános forgalmi adófizetés is kapcsolódhat. Az előirányzat terhére történik továbbá a Liget Budapest projekt létesítményei üzemeltetési költségeinek finanszírozása. | Városliget Zrt. | Támogatási szerződés vagy támogatói okirat | előleg nyújtása lehetséges | Részletekben vagy egyösszegben, idő- vagy teljesítés- arányosan. | – | Az Ávr. szerinti biztosítékok. | A Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 150. §-a alapján az MNV Zrt. a kötelezettség- vállalás és a teljesítés- igazolás kivételével azzal, hogy a pénzügyi ellenjegyzés és az utalványozás a Ávr. 1. melléklet I/41. pont c) alpontja szerinti fejezetet irányító szerv vezetője által írásban kijelölt, a kezelő szerv alkalmazá- sában álló személy lehet (a továbbiakban: MNV Zrt.2) | – | – |
+
+| 6 | 382039 |  |  | Eiffel Műhelyház és Próbacentrum beruházása, valamint a Magyar Állami Operaház Andrássy úti épületének beruházása |  | Az előirányzat célja a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását, valamint a Magyar Állami Operaház Andrássy úti épülete és a kapcsolódó létesítmények felújítását és korszerűsítését célzó beruházások finanszírozása. | Opera Vagyonkezelő Kft. | Támogatói okirat | előleg nyújtása lehetséges | Részletekben vagy egyösszegben, idő- vagy teljesítés- arányosan. | – | Az Ávr. szerinti biztosítékok. | MNV Zrt2. | – | – |
