@@ -4,9 +4,9 @@
 
 (2) Az Alapítvány jogutód nélküli megszűnése vagy megszüntetése esetén az Alapítvány vagyona az államra száll.
 
-(3) Az Alapítvány további vagyonának és költségvetési támogatásának biztosításáról a Kormány gondoskodik.
+(3)
 
-(4) Az Alapítvány 2. §-ban meghatározott közérdekű tevékenysége, közfeladata ellátása érdekében az Alapítvány részére a miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
+(4) Az Alapítvány, a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 1. mellékletében meghatározott közfeladatainak ellátása érdekében az Alapítvány részére a miniszter által vezetett minisztérium fejezetéhez tartozó fejezeti kezelési előirányzatai terhére adomány juttatható, kötelezettség teljesíthető.
 
 (5) Az Alapítvány vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 

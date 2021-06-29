@@ -1,1 +1,1 @@
-5. § A 3. § (5) bekezdése az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
+5. § A 2. § (2)–(15) bekezdése és 3. § (2), (4) és (5), valamint (7)–(9) bekezdése az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
