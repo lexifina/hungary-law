@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-38-00-00
 | 2020-08-01 | 2020. évi LXXV. törvény | 2020-38-00-00.2 |
 | 2021-05-01 | 2021. évi VIII. törvény | 2020-38-00-00.3 |
 | 2021-05-28 | 2021. évi LIII. törvény | 2020-38-00-00.4 |
+| 2021-06-29 | 2021. évi CI. törvény | 2020-38-00-00.5 |

@@ -1178,7 +1178,7 @@ MOSONMAGYARÓVÁR
 
 |
 
-kivett gazdasági épület, udvar
+Kivett gazdasági épület, udvar
 
 |
 
@@ -1198,7 +1198,7 @@ MOSONMAGYARÓVÁR
 
 |
 
-kivett egyetem
+Kivett egyetem
 
 |
 
@@ -1206,8 +1206,56 @@ kivett egyetem
 
 |
 
-|
+GYŐR
 
 |
 
+8508
+
 |
+
+1/1
+
+|
+
+Kivett gazdasági épület, udvar
+
+|
+
+60.
+
+|
+
+GYŐR
+
+|
+
+8509/1
+
+|
+
+1/1
+
+|
+
+Kivett beépítetlen terület
+
+|
+
+61.
+
+|
+
+GYŐR
+
+|
+
+10140/3
+
+|
+
+1/1
+
+|
+
+kivett beépítetlen terület”
