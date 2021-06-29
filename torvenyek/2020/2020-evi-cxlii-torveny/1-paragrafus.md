@@ -4,10 +4,10 @@
 
 (2) Az Alapítvány alapítása során az állam képviseletében az innovációért és technológiáért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására a miniszter kerüljön kijelölésre.
+(3)
 
 (4) Az Alapítvány alapító okiratában az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerülhet kijelölésre.
 
-(5) Az Alapítvány kuratóriuma elnökét és tagjait a miniszter jelöli ki.
+(5)
 
-(6) Az Alapítvány kuratóriumába egy tagot az agrárminiszter delegál.
+(6)

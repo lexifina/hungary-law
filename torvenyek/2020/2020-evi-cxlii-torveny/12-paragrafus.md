@@ -1,1 +1,1 @@
-12. § A 6. § (3) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+12. § A 6. § (3) bekezdése, a 3. melléklet 34a., 35a., 164a., 164b., a 193a., 238a., 324a., 333a. és 348–353. sora, valamint a 4. melléklet 6a. és 37. sora az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.

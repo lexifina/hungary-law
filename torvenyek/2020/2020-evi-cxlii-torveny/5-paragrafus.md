@@ -8,7 +8,7 @@
 
 (4) A 3. mellékletben foglalt táblázat 173. sorában meghatározott ingatlan ingyenes átruházása tekintetében az Nvtv. 6. § (1) bekezdését nem kell alkalmazni.
 
-(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak e törvény erejénél fogva az Egyetem tulajdonába kerülnek.
+(5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, valamint a Debreceni Egyetem Agrár Kutatóintézetek és Tangazdaság Karcagi Kutatóintézet által használt állami tulajdonú ingó vagyontárgyak az Egyetem tulajdonába kerülnek.
 
 (6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
@@ -30,4 +30,4 @@
 
 (15) A 3. melléklet szerinti ingatlanok vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint az (5) bekezdés szerinti ingóságok vonatkozásában a (6) bekezdés szerinti jegyzőkönyv felvételéig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatai ellátása érdekében – az ingatlan-nyilvántartásba be nem jegyezhető – ingyenes használati jog illeti meg.
 
-(16) A Békésszentandrás 0151/1 és a Kaposvár 3656/2 helyrajzi számú ingatlanokat a művelési ág változást követően az Egyetem tulajdonába kell adni.
+(16) A Békésszentandrás 0151/1 és a Kaposvár 3656/2 helyrajzi számú ingatlanokat a művelési ág változását követően az Egyetem tulajdonába kell adni.
