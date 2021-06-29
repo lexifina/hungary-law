@@ -35,3 +35,9 @@
 (14) A Módtv.-nyel megállapított 39/B. §-t a 2012. június 30-át követően benyújtott kérelmek tekintetében kell alkalmazni.
 
 (15) A Módtv.-nyel megállapított 52/A. §-t, 55/A. §-t, valamint a 65. § (2) bekezdést a 2012. június 30-át követően bekövetkezett balesetek tekintetében kell alkalmazni.
+
+(16) E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel módosított 15. § (2) bekezdésében foglaltakat 2022. július 1-jétől kell alkalmazni.
+
+(17) Az egészségbiztosító meddőség kezelésére szolgáló egészségügyi szolgáltatások nyújtására az egészségügyről szóló 1997. évi CLIV. törvény 169. § (2) bekezdésének figyelembevételével köthet finanszírozási szerződést.
+
+(18) Az egészségbiztosító az egészségügyről szóló 1997. évi CLIV. törvény 169. § (2) bekezdésének nem megfelelő egészségügyi szolgáltató finanszírozási szerződését az egészségügyi államigazgatási szerv tájékoztatása alapján 2022. június 30-ával megszünteti. Ezen finanszírozási szerződés tekintetében az egészségbiztosító elszámolásra köteles.

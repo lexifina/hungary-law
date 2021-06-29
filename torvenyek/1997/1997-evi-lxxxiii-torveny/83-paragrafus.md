@@ -92,6 +92,8 @@ d) határozza meg az intézményi várólista alapján, illetve a betegfogadási
 
 (2l) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyógyászati segédeszközök árához nyújtott támogatással igénybe vehető szolgáltatást nyújtók számára folyósítható előleg feltételeinek és folyósításának szabályait.
 
+(2m) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközökkel kapcsolatos egészségbiztosítói ellenjegyzés eljárási szabályait.
+
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
 a) a gyógyászati ellátások körét, az árukhoz nyújtott támogatás alapját és mértékét, valamint a támogatott gyógyászati segédeszközök körét funkcionális csoport vagy alcsoport szintig, az árukhoz nyújtott támogatás mértékét, az egyes funkcionális csoportokra vagy alcsoportokra megállapított támogatási módszert, a támogatási csoportra vonatkozó kihordási időket, a kihordási időre maximálisan felírható mennyiségeket, rendelhetőségi feltételeket,
@@ -192,7 +194,7 @@ e) a háziorvosi indikátorrendszerre vonatkozó részletes szabályokat, az egy
 
 f) az egészségügyi ellátás finanszírozásában használt kódrendszerek meghatározását és alkalmazásainak részletszabályait,
 
-g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait, valamint az ellenjegyzéssel kapcsolatos eljárási szabályokat,
+g) az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközök körét, az egészségbiztosítói ellenjegyzés feltételeit és a mérlegelés szempontjait,
 
 h) a társadalombiztosítási támogatással javítható gyógyászati segédeszközök körét,
 
