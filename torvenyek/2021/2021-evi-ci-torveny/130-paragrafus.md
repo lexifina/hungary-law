@@ -12,7 +12,7 @@ e) 14. § (10) bekezdésében a „szakmai rendezvény” szövegrész helyébe 
 
 f) 14. § (11) bekezdés d) pontjában az „indokokat,” szövegrész helyébe az „indokokat vagy online jellegét,” szöveg,
 
-g) 17. § (6) bekezdés c) pontjában a „készítményt” szövegrész helyébe a „gyógyszert” szöveg,
+g)
 
 h) 17. § (8) bekezdésében a „(kupon) akár” szövegrész helyébe a „(kupon), nyeremény, akár” szöveg,
 

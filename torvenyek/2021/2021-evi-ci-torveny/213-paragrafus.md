@@ -1,3 +1,3 @@
-## 67. A Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXIII. törvény módosítása
+## 67.
 
-213. § A Szegedi Tudományegyetemért Alapítványról, a Szegedi Tudományegyetemért Alapítvány és a Szegedi Tudományegyetem részére történő vagyonjuttatásról szóló 2021. évi XXIII. törvény (a továbbiakban: 2021. évi XXIII. törvény) 3. § (1) bekezdése az „ingatlanok, ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel lép hatályba.
+213. §

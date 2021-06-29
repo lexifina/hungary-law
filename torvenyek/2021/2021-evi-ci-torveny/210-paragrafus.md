@@ -1,3 +1,3 @@
-## 66. A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény módosítása
+## 66.
 
-210. § A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény (a továbbiakban: 2021. évi XXII. törvény) 3. § (1) bekezdése az „ingatlanok” szövegrész helyett az „ingatlanokat” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel lép hatályba.
+210. §

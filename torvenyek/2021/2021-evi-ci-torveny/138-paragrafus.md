@@ -10,6 +10,6 @@ d) 67. § (4a) bekezdésében a „hozza meg” szövegrész helyébe az „alak
 
 e) 68. § (5a) bekezdésében az „Amennyiben” szövegrész helyébe a „Ha” szöveg
 
-f) 1. mellékletében foglalt táblázat C:69 mezőjében az „Érseki Hittudományi” szövegrész helyébe az „Érseki” szöveg
+f)
 
 lép.
