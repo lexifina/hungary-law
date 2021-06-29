@@ -88,7 +88,7 @@ w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmaz�
 
 x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
 
-y) az engedélyezés előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
+y) az engedélyezés, illetve a kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 
 z) a gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre, azok kezelésére vonatkozó részletszabályokat, illetve a biztonsági elemek kezelésére jogosultak körét
 

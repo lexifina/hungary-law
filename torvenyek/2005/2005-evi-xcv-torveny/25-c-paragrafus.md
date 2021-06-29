@@ -1,6 +1,6 @@
-## Engedélyezés előtti gyógyszeralkalmazás
+## Engedélyezés, illetve kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazás
 
-25/C. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati készítményt, vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszert (a továbbiakban e § tekintetében együttesen: gyógyszer) különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv engedélye alapján akkor lehet alkalmazni, ha
+25/C. § (1) Engedélyezés előtti gyógyszeralkalmazás keretében vizsgálati készítményt, vagy forgalomba hozatali engedéllyel nem rendelkező gyógyszert – ideértve a kérelmezett javallatban forgalombahozatali engedéllyel nem rendelkező gyógyszert is – (a továbbiakban e § tekintetében együttesen: gyógyszer) különös méltánylást érdemlő betegellátási érdekből a gyógyszerészeti államigazgatási szerv engedélye alapján akkor lehet alkalmazni, ha
 
 a) az érintett gyógyszer
 
@@ -38,6 +38,6 @@ b) az (1) bekezdés b) pontja azzal az eltéréssel alkalmazandó, hogy a kérel
 
 c) az (1) bekezdés d) pontjától indokolt kérelem alapján a gyógyszerészeti államigazgatási szerv kivételes esetben eltekinthet, amennyiben a gyógyszer gyártója részéről a hozzájárulás, illetve a gyógyszer térítésmentes rendelkezésre bocsátására vonatkozó kötelezettségvállalás beszerzése bizonyíthatóan olyan késedelemmel járna vagy olyan aránytalan nehézségekbe ütközne, amelyek az engedély kiadását ellehetetlenítenék,
 
-d) a (2) bekezdés szerinti indokolási kötelezettséget az a) pont szerinti szponzor is teljesítheti, és
+d) a (2) bekezdés szerinti indokolási kötelezettséget az (1) bekezdés a) pont aa) alpontja szerinti klinikai vizsgálat megbízója is teljesítheti, és
 
 e) a (7) bekezdés szerinti feltétel abban az esetben is teljesül, ha az alkalmazni kívánt gyógyszer kereskedelmi forgalomba hozatala Magyarország területén nem történt meg, és a c) pont szerinti kivétel nem kerül alkalmazásra.

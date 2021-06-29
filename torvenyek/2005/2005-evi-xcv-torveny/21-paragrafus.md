@@ -2,9 +2,9 @@
 
 21. § (1) Ha a vizsgálati készítmény klinikai vizsgálata során, illetve annak következményeként bármely természetes személy egészségkárosodást szenved, a sérelmet szenvedett személy, illetve halála esetén a Polgári Törvénykönyv szerinti hozzátartozója részére
 
-a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a vizsgálat kezdeményezője,
+a) a klinikai vizsgálatot engedélyező hatóság által jóváhagyott vizsgálati terv szerint végzett vizsgálat esetén a megbízó,
 
-b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a vizsgálat kezdeményezője,
+b) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a vizsgálatot kezdeményező által ismert, de a klinikai vizsgálatot engedélyező hatóságnak be nem nyújtott adat eltitkolásának következménye, a megbízó,
 
 c) amennyiben a halál, megrokkanás vagy súlyos egészségkárosodás a klinikai vizsgálatot engedélyező hatóság előírásának következménye, az engedélyező hatóság,
 

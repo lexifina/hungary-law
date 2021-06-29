@@ -2,7 +2,7 @@
 
 (1a) A gyógyszerészeti államigazgatási szerv a Magyarországon vagy a harmadik országok területén végzett ellenőrzések során figyelembe veszi az Európai Bizottság iránymutatásait és együttműködik az Európai Gyógyszerügynökséggel, amelynek keretében az Európai Gyógyszerügynökséggel megosztja a tervezett és lefolytatott vizsgálatokkal kapcsolatos információkat.
 
-(2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását.
+(2) A gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapított tényállás alapján a hiányosságok, szabályszegések jellegét és súlyát mérlegelve megteszi a szükséges intézkedéseket és ellenőrzi azok végrehajtását, valamint az Európai Bizottság és az Európai Gyógyszerügynökség iránymutatásai szerint, illetve az e törvény felhatalmazása alapján kiadott jogszabályok szerint inspektori jelentést készít.
 
 (3) Amennyiben a gyógyszerészeti államigazgatási szerv az ellenőrzés során megállapítja, hogy az arra kötelezett természetes személy, jogi személy tevékenysége folytatása során az e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályokban meghatározott feltételeinek nem tesz eleget, illetve kötelezettségét megszegi,
 

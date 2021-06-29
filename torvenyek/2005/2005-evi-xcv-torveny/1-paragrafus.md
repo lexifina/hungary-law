@@ -104,7 +104,7 @@ e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszere
 
 41. gyógyszerközvetítő: gyógyszerközvetítéssel foglalkozó természetes vagy jogi személy.
 
-42. Hamisított gyógyszer: bármilyen gyógyszer, amellyel kapcsolatban – a nem szándékos minőségi hiányosság esetét kivéve – az alábbiak valamelyike hamisan van feltüntetve:
+42. Hamisított gyógyszer: bármilyen gyógyszer, amelynek eredete nem igazolható, vagy amellyel kapcsolatban – a nem szándékos minőségi hiányosság esetét kivéve – az alábbiak valamelyike hamisan van feltüntetve:
 
 a) azonossága, így annak csomagolása és a címkézése, megnevezése, a hatóanyagokat, segédanyagokat és azok hatáserősségét jelölő összetétele,
 

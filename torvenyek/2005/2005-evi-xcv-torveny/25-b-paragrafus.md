@@ -2,7 +2,7 @@
 
 25/B. § (1) Az emberi felhasználásra kerülő gyógyszerek gyártásával, forgalomba hozatalával, forgalmazásával, a forgalomba hozatali engedély fenntartásával, a gyógyszer-nagykereskedelmi tevékenység folytatásával, a gyógyszernek nem minősülő gyógyhatású termékek gyógyszerré történő átminősítésével, a párhuzamos importtal, a vizsgálati készítmények klinikai vizsgálatával, a Helyes Laboratóriumi Gyakorlat alkalmazásával kapcsolatos – az 1. számú melléklet szerinti – engedélyezési, módosítási és egyéb eljárásokért – a (2) bekezdésben foglalt kivétellel – az eljárás lefolytatását, illetve az engedély kiadását kérelmező az 1. számú mellékletben meghatározott igazgatási szolgáltatási díjat (a továbbiakban: díj), a forgalomba hozatali engedély fenntartásáért pedig évente az 1. számú mellékletben meghatározott fenntartási díjat köteles fizetni.
 
-(2) A kormányrendeletben meghatározott nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
+(2) A nem kereskedelmi célú klinikai vizsgálat engedélyezése iránti eljárások díjmentesek.
 
 (2a) Nem kell az (1) és (5) bekezdés szerinti igazgatási szolgáltatási díjat, fenntartási díjat megfizetni a Gyftv. szerinti kedvezményezetti státusszal rendelkező gyógyszerekkel kapcsolatos eljárásokért.
 

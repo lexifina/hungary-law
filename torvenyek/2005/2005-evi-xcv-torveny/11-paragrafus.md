@@ -4,7 +4,7 @@
 
 (2) Az engedélyt a gyógyszerészeti államigazgatási szerv akkor adja meg, ha a kérelmező megfelel a külön jogszabályban meghatározott személyi és tárgyi feltételeknek.
 
-(3) A gyógyszer-nagykereskedelmi engedély jogosultja – a külön jogszabályban meghatározott kivételtől eltekintve – az általa forgalmazott termékeket közvetlenül lakosság részére nem forgalmazhatja, illetve csak olyan megrendelőnek szállíthat gyógyszert, aki gyógyszerekkel kapcsolatos nagykereskedelmi, illetve egészségügyi szolgáltató tevékenység végzésére engedéllyel rendelkezik.
+(3) A gyógyszer-nagykereskedelmi engedély jogosultja – jogszabályban meghatározott kivételekkel – csak olyan személynek értékesíthet, forgalmazhat, illetve szállíthat ki gyógyszert, aki gyógyszer-nagykereskedelmi, illetve egészségügyi szolgáltató tevékenység végzésére engedéllyel rendelkezik.
 
 (4) Az engedély kiadásáról és módosításáról a hatóság a kérelem beérkezését követő naptól számított kilencven napon belül dönt. A nagykereskedelmi engedély visszavonásig érvényes.
 

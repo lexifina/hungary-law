@@ -6,4 +6,4 @@ a) értesíti a forgalomba hozatali engedély jogosultját azon EGT-megállapod�
 
 b) felkéri az érintett állam illetékes hatóságát, hogy juttassa el számára a gyógyszerre vonatkozó külön jogszabályban meghatározottak szerinti értékelő jelentés és a gyógyszerre vonatkozó hatályos forgalomba hozatali engedély másolatát.
 
-(3) Amennyiben EGT-megállapodásban részes állam hatóságától érkezik a (2) bekezdés b) pontja szerinti megkeresés a gyógyszerészeti államigazgatási szervhez, úgy az a megkeresés kézhezvételétől számított 30 napon belül az értékelő jelentés és az érintett gyógyszerre vonatkozó hatályos forgalomba hozatali engedély egy példányának megküldésével köteles annak eleget tenni.
+(3) Amennyiben EGT-megállapodásban részes állam hatóságától érkezik a (2) bekezdés b) pontja szerinti megkeresés a gyógyszerészeti államigazgatási szervhez, úgy az a megkeresés kézhezvételétől számított 75 napon belül az értékelő jelentés és az érintett gyógyszerre vonatkozó hatályos forgalomba hozatali engedély egy példányának megküldésével köteles annak eleget tenni.

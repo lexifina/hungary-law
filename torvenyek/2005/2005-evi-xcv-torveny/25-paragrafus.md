@@ -22,7 +22,7 @@ b) az adott gyógyszer Magyarországon vagy más országban forgalomba hozatalra
 
 c) az adott terápiás terület szakorvosi szakképesítéssel rendelkező orvosa a külön jogszabályban foglalt feltételeknek megfelelően a gyógyszer indikáción túli alkalmazását az adott betegre nézve
 
-ca) a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte, vagy
+ca) a gyógyszerészeti államigazgatási szervtől kérelmezte és azt a gyógyszerészeti államigazgatási szerv egyedileg engedélyezte és ezt az orvost foglalkoztató egészségügyi szolgáltató útján az orvossal közölte, vagy
 
 cb) a (6d)–(6h) bekezdés szerinti esetben a gyógyszerészeti államigazgatási szerv részére bejelentette.
 

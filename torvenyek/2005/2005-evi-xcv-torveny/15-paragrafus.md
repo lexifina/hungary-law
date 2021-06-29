@@ -6,7 +6,7 @@
 
 (3) A kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal kapcsolatos egyes engedélyezési és nyilvántartásba vételi eljárásokért, illetve az engedély kiadásáért, módosításáért jogszabályban meghatározottak szerint igazgatási szolgáltatási díjat kell fizetni.
 
-(3a) A (3) bekezdés szerinti eljárásokban az ügyintézési határidő 30 nap.
+(3a) A (3) bekezdés szerinti eljárásokban az ügyintézési határidő 75 nap.
 
 (4) Az (1) bekezdés szerinti tevékenységi engedélyt kizárólag olyan gazdálkodó szervezet kaphat, amelynek vezetője büntetlen előéletű, nem áll gazdálkodó szervezetben vagy gazdasági társaságban vezető tisztség betöltését kizáró, valamint egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt.
 
