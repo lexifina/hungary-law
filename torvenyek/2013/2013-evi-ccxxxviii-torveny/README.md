@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-238-00-00
 | 2018-12-28 | 2018. évi CXIII. törvény | 2013-238-00-00.5 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2013-238-00-00.6 |
 | 2021-01-21 | 2020. évi CLXVII. törvény | 2013-238-00-00.7 |
+| 2021-06-30 | 22/2020. (VIII. 4.) AB határozat | 2013-238-00-00.8 |
