@@ -1,3 +1,3 @@
-## 10. §[^11]
+## „(7) Az (5) bekezdés esetén a megkeresést követő egy hónapon belül az EBFH – az 1094/2010/EU rendelet 19. cikk (3) bekezdése szerinti – kötelező erejű határozatot hozhat. Ebben az esetben a Felügyelet mint csoportfelügyeleti hatóság az EBFH határozatának megfelelően hozza meg saját határozatát, amelyet az érintett felügyeleti hatóságok irányadónak tekintenek, és teljesítik az abban foglaltakat.
 
-[^11]: A 10. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
+## (7a) Amennyiben az EBFH nem hoz a (7) bekezdés szerinti határozatot az 1094/2010/EU rendelet 19. cikk (3) bekezdésével összhangban, akkor a Felügyelet mint csoportfelügyeleti hatóság hozza meg a végső döntést, amelyet az érintett felügyeleti hatóságok irányadónak tekintenek, és teljesítik az abban foglaltakat.”

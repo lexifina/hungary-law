@@ -1,3 +1,3 @@
-## 7. §[^7]
+## 7. § A biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló 43/2015. (III. 12.) Korm. rendelet [a továbbiakban: 43/2015. (III. 12.) Korm. rendelet] 21. alcíme a következő 56/A. §-sal egészül ki:
 
-[^7]: A 7. § a 15. § (4) bekezdése alapján 2021. június 30-án lép hatályba.
+## „56/A. § A Felügyelet az európai felügyeleti hatóság (az Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) létrehozásáról, valamint a 716/2009/EK határozat módosításáról és a 2009/79/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1094/2010/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1094/2010/EU európai parlamenti és tanácsi rendelet) 35. cikk (1) bekezdésének megfelelően tájékoztatja az EBFH-t a belső modell alkalmazása vagy módosítása iránti minden kérelemről. A Felügyelet technikai segítséget kérhet az EBFH-tól az 1094/2010/EU európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdés b) pontja alapján, a kérelemről való döntéssel kapcsolatban.”
