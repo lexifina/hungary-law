@@ -8,7 +8,7 @@
 
 (4) Ha a (3) bekezdésben említett három hónapos időszak alatt valamelyik érintett felügyeleti hatóság az ügyet – az 1094/2010/EU rendelet 19. cikkével összhangban – az EBFH elé utalja, akkor a Felügyelet mint a csoportfelügyeletért felelős hatóság köteles a döntését elhalasztani és megvárni az EBFH által – az 1094/2010/EU rendelet 19. cikk (3) bekezdése alapján – hozott határozatot, majd az EBFH határozatának megfelelően köteles meghozni saját határozatát, amelyről tájékoztatja az érintett felügyeleti hatóságokat és az EBFH-t. Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságként jár el, úgy köteles elismerni az említett határozatot, és köteles teljesíteni az abban foglaltakat.
 
-(5) Ha az EBFH – az 1094/2010/EU rendelet 41. cikk (2) és (3) bekezdésével, illetve 44. cikk (1) bekezdésének harmadik albekezdésével összhangban – a javasolt határozatot elutasítja, a Felügyelet mint a csoportfelügyeletért felelős hatóság hozza meg a végső döntést, amelyről tájékoztatja az érintett felügyeleti hatóságokat és az EBFH-t. Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságnak minősül, úgy köteles elismerni az említett határozatot, és köteles teljesíteni az abban foglaltakat. A három hónapos időtartam eltelte vagy az együttes határozat meghozatala után az ügy már nem utalható az EBFH elé.
+(5)[^16] Ha az EBFH nem hoz a (4) bekezdés szerinti határozatot az 1094/2010/EU rendelet 19. cikk (3) bekezdésével összhangban, akkor a Felügyelet mint a csoportfelügyeletért felelős hatóság hozza meg a végső döntést, amelyről tájékoztatja az érintett felügyeleti hatóságokat és az EBFH-t. Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságnak minősül, úgy elismeri az említett határozatot, és teljesíti az abban foglaltakat. A három hónapos időtartam eltelte vagy az együttes határozat meghozatala után az ügy már nem utalható az EBFH elé.
 
 (6) Ha az érintett felügyeleti hatóságok megállapodtak a (3) bekezdésben említett közös határozatban, a Felügyelet mint a leányvállalatot engedélyező felügyeleti hatóság köteles a kérelmező rendelkezésére bocsátani a határozatot.
 
@@ -25,3 +25,5 @@ b) bármely fenntartás, amelyet a felügyeleti kollégiumon belüli többi éri
 (10) Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságnak minősül, úgy köteles magára nézve irányadónak elismerni a (7) bekezdés szerinti határozatot, és köteles teljesíteni az abban foglaltakat.
 
 (11) A Felügyelet e § szerinti jogaira és kötelezettségeire vonatkozó részletszabályokat a Bizottságnak a Szolvencia 2 irányelv 237. cikk (4) bekezdésében és a 241. cikk c) pontjában meghatározott tárgykörökben kiadott rendeletei tartalmazzák.
+
+[^16]: A 16. § (5) bekezdése az 586/2020. (XII. 15.) Korm. rendelet 11. §-ával megállapított szöveg.

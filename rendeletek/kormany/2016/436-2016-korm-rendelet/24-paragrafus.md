@@ -1,6 +1,6 @@
 ## 16. A csoportfelügyeletért felelős hatóság
 
-24. §[^15] (1) Ha egy csoporton belül az összes biztosító vagy viszontbiztosító vonatkozásában a Felügyelet illetékes, a csoportfelügyeleti hatósági feladatot is a Felügyelet látja el.
+24. §[^17] (1) Ha egy csoporton belül az összes biztosító vagy viszontbiztosító vonatkozásában a Felügyelet illetékes, a csoportfelügyeleti hatósági feladatot is a Felügyelet látja el.
 
 (2) Az (1) bekezdéstől eltérő minden más esetben – tekintettel a (3) bekezdésben foglaltakra is –, a csoportfelügyeleti hatósági feladatot a Felügyelet látja el, ha
 
@@ -38,4 +38,4 @@ be) ha a csoport anyavállalat nélküli csoport, vagy bármely, a ba)–bd) alp
 
 (12) Ha a (3)–(11) bekezdés szerinti eljárásban nem születik közös határozat, és a (2) bekezdés alapján a Felügyelet lenne a felügyeleti hatóság, akkor a csoportfelügyeleti hatóság feladatát a Felügyelet látja el.
 
-[^15]: A 24. § a 264/2019. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^17]: A 24. § a 264/2019. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
