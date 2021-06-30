@@ -1,6 +1,6 @@
 ## 32. A biztosítástechnikai tartalékokra vonatkozó átmeneti rendelkezések
 
-89. § (1)[^25] A biztosító és viszontbiztosító a Felügyelet előzetes jóváhagyásával a biztosítástechnikai tartalékokra vonatkozó átmeneti levonást kérhet. A levonás veszélyközösségek szintjén alkalmazható, a Bit. 97. § (5) bekezdése figyelembevételével.
+89. § (1)[^26] A biztosító és viszontbiztosító a Felügyelet előzetes jóváhagyásával a biztosítástechnikai tartalékokra vonatkozó átmeneti levonást kérhet. A levonás veszélyközösségek szintjén alkalmazható, a Bit. 97. § (5) bekezdése figyelembevételével.
 
 (2) Az átmeneti levonás az alábbi két összeg különbségére vonatkozik:
 
@@ -24,4 +24,4 @@ b) amennyiben az átmeneti levonás alkalmazása nélkül nem felel meg a szavat
 
 c) a Bit. 108. §-ában foglalt szolvencia- és pénzügyi helyzetről szóló jelentés részeként nyilvánosságra hozza egyrészt, hogy a biztosítástechnikai tartalékokkal kapcsolatban az átmeneti levonást alkalmazza, másrészt az ezen átmeneti levonás alkalmazásának hiánya nélkül a pénzügyi helyzetére gyakorolt hatások számszerűsítését.
 
-[^25]: A 89. § (1) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^26]: A 89. § (1) bekezdése a 278/2018. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -14,7 +14,7 @@ b) a részvénypiaci kockázati részmodul standard formula szerinti és a 35. �
 
 (3) Az e § rendelkezéseit a Bizottságnak a Szolvencia 2 irányelv 301a. cikkével összhangban kiadott felhatalmazáson alapuló jogi aktusaiban megállapított szabályokkal együtt kell alkalmazni.
 
-(4)[^20] A 21. §-ban foglaltaktól eltérően az alapvető szavatolótőke elemeket 2016. január 1-jétől legfeljebb 10 éven keresztül az első szintű szavatolótőke elemek közé kell sorolni, feltéve, hogy ezen elemeket:
+(4)[^21] A 21. §-ban foglaltaktól eltérően az alapvető szavatolótőke elemeket 2016. január 1-jétől legfeljebb 10 éven keresztül az első szintű szavatolótőke elemek közé kell sorolni, feltéve, hogy ezen elemeket:
 
 a) 2016. január 1-je előtt bocsátották ki,
 
@@ -22,13 +22,13 @@ b) 2015. december 31-én fel lehet használni ahhoz, hogy a rendelkezésre áll�
 
 c) másképpen nem sorolnák az első vagy a második szintre a 21. §-nak megfelelően.
 
-(5)[^21] A 21. §-tól eltérve az alapvető szavatolótőke elemeket 2016. január 1-jétől legfeljebb 10 éven keresztül a második szintű szavatolótőke elemek közé kell sorolni, feltéve, hogy ezen elemeket:
+(5)[^22] A 21. §-tól eltérve az alapvető szavatolótőke elemeket 2016. január 1-jétől legfeljebb 10 éven keresztül a második szintű szavatolótőke elemek közé kell sorolni, feltéve, hogy ezen elemeket:
 
 a) 2016. január 1-je előtt bocsátották ki,
 
 b) 2015. december 31-én fel lehet használni ahhoz, hogy a rendelkezésre álló szavatolótőke elérje a szavatolótőke legalább 25%-át, a 84. és 85. § szerinti rendelkezéseknek megfelelően.
 
-(6)[^22] A 25. §-tól, a 26. § (2) és (3) bekezdésétől, a 27. § (2) bekezdésétől, továbbá a 29. és 30. §-tól eltérve a következőket kell alkalmazni:
+(6)[^23] A 25. §-tól, a 26. § (2) és (3) bekezdésétől, a 27. § (2) bekezdésétől, továbbá a 29. és 30. §-tól eltérve a következőket kell alkalmazni:
 
 a) 2017. december 31-ig a kockázatkoncentráció részmodulnak és a kamatréskockázati részmodulnak a standard formulával összhangban történő számításakor ugyanazokat a standard paramétereket kell alkalmazni a tagállamok központi kormányzataival vagy központi bankjaival szemben, bármely más tagállam fizetőeszközében denominált és finanszírozott kitettségek vonatkozásában, mint amilyet a saját fizetőeszközükben denominált és finanszírozott kitettségek vonatkozásában alkalmaznának,
 
@@ -38,6 +38,6 @@ c) 2019-ben a kockázatkoncentráció részmodulnak és a kamatréskockázati r�
 
 d) 2020. január 1-jétől a kockázatkoncentráció részmodulnak és a kamatréskockázati részmodulnak a standard formulával összhangban történő számításakor alkalmazott standard paramétereket nem kell csökkenteni a tagállamok központi kormányzataival vagy központi bankjaival szemben, bármely más tagállam fizetőeszközében denominált és finanszírozott kitettségek vonatkozásában.
 
-[^20]: A 87. § (4) bekezdését a 295/2015. (X. 8.) Korm. rendelet 9. §-a iktatta be.
-[^21]: A 87. § (5) bekezdését a 295/2015. (X. 8.) Korm. rendelet 9. §-a iktatta be.
-[^22]: A 87. § (6) bekezdését a 295/2015. (X. 8.) Korm. rendelet 9. §-a iktatta be.
+[^21]: A 87. § (4) bekezdését a 295/2015. (X. 8.) Korm. rendelet 9. §-a iktatta be.
+[^22]: A 87. § (5) bekezdését a 295/2015. (X. 8.) Korm. rendelet 9. §-a iktatta be.
+[^23]: A 87. § (6) bekezdését a 295/2015. (X. 8.) Korm. rendelet 9. §-a iktatta be.
