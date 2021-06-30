@@ -1,3 +1,1 @@
-113. § A Gyftv. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A gyógyszer, a közfinanszírozásban részesülő anyatej-helyettesítő tápszer, a közfinanszírozásban részesülő anyatej-kiegészítő tápszer és a közfinanszírozásban részesülő speciális gyógyászati célra szánt tápszer (e fejezet alkalmazásában a továbbiakban: tápszer) valamint a gyógyászati segédeszköz ismertetése (a továbbiakban: ismertetés) bármely, a gyógyszerekre, tápszerekre és gyógyászati segédeszközökre, így különösen a gyógyszer és tápszer összetételére, hatására, illetve a gyógyszer, a tápszer és a gyógyászati segédeszköz alkalmazására vonatkozó kereskedelmi gyakorlat, amely kizárólag a gyógyszerek, tápszerek és gyógyászati segédeszközök rendelésére, használatának betanítására és forgalmazására jogosult egészségügyi szakképesítéssel rendelkezőknek szól, vagy amelyet velük szemben alkalmaznak.”
+113. §

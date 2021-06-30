@@ -1,25 +1,25 @@
 130. § A Gyftv.
 
-a) 3. § 10. pontjában az „irányuló bármely tájékoztatás” szövegrész helyébe az „irányuló vagy arra alkalmas szakmai, tudományos vagy bármely egyéb tájékoztatás” szöveg,
+a)
 
-b) 3. § 35. pontjában az „a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 15%-kal” szövegrész helyébe az „a hatóanyag alapú fix támogatás esetén a referenciagyógyszer napi terápiás költségét legfeljebb 20%-kal ”szöveg,
+b)
 
-c) 14. § (10) bekezdésében a „szakmai rendezvénnyel” szöveg helyébe a „szakmai, tudományos rendezvénnyel” szöveg,
+c)
 
-d) 14. § (10) bekezdésében a „(4)–(6) bekezdés” szövegrész helyébe a „(2)–(6) bekezdés” szöveg,
+d)
 
-e) 14. § (10) bekezdésében a „szakmai rendezvény” szövegrész helyébe a „szakmai, tudományos rendezvény” szöveg,
+e)
 
-f) 14. § (11) bekezdés d) pontjában az „indokokat,” szövegrész helyébe az „indokokat vagy online jellegét,” szöveg,
+f)
 
 g)
 
-h) 17. § (8) bekezdésében a „(kupon) akár” szövegrész helyébe a „(kupon), nyeremény, akár” szöveg,
+h)
 
-i) 17. § (8) bekezdésében az „egy adott gyógyszer, egy adott forgalombahozatali engedély jogosult” szövegrész helyébe a „gyógyszer, egy adott forgalombahozatali engedély jogosult” szöveg,
+i)
 
-j) 79. §-ában az „e törvényben meghatározott” szövegrész helyébe az „e törvényben, illetve az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott” szöveg,
+j)
 
-k) 80. §-ában a „gyógyszerészeti államigazgatási szerv” szövegrész helyébe a „gyógyszerészeti, valamint az egészségügyi államigazgatási szerv” szöveg
+k)
 
 lép.

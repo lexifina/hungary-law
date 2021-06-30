@@ -1,3 +1,1 @@
-149. § A Kbt. 197. §-a a következő (23) bekezdéssel egészül ki:
-
-„(23) E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel (Mód6. tv.) megállapított 9. § (11) bekezdését a hatálybalépését megelőzően megkezdett eljárások, valamint megkötött szerződések tekintetében is alkalmazni kell. E törvénynek a Mód6. tv.-vel megállapított 62. § (1) bekezdés l) pontjának alkalmazásakor munkaügyi bírság alatt a 2021. március 1. napja előtt hatályos, a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény 7/A. §-a alapján kiszabott befizetésre kötelezést is érteni kell.”
+149. §

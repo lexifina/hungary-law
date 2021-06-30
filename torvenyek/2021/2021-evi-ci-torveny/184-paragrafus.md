@@ -1,5 +1,3 @@
 ## 54. A Közép-európai Oktatási Alapítványról és a Közép-európai Oktatási Alapítvány részére történő vagyonjuttatásról szóló 2020. évi CXLIII. törvény módosítása
 
-184. § A Közép-európai Oktatási Alapítványról és a Közép-európai Oktatási Alapítvány részére történő vagyonjuttatásról szóló 2020. évi CXLIII. törvény (a továbbiakban: Közép-európai Oktatási Alapítvány tv.) 2. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az International Baccalaureate Organization (Nemzetközi Érettségi Szervezet) mint nemzetközi szervezet által a Middle Years Programme (Közép Évek Programja) és Diploma Programme (Diploma Program) nyújtására, valamint IB Diploma (Nemzetközi Érettségi bizonyítvány) kiadására feljogosított, arra akkreditált, kollégiummal rendelkező középfokú nevelési-oktatási intézmény (a továbbiakban: Intézmény) olyan magyarországi nevelési-oktatási intézménynek, nemzetközi iskolának minősül, amelynek alapítására, működésére és ellenőrzésére a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: köznevelési törvény) rendelkezéseit csak akkor kell alkalmazni, ha arról e törvény kifejezetten rendelkezik.”
+184. §

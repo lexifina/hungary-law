@@ -1,5 +1,3 @@
 ## 42. A Mathias Corvinus Collegium tehetséggondozási programjának és a Maecenas Universitatis Corvini Alapítvány oktatási tevékenységének támogatásáról szóló 2020. évi XXVI. törvény módosítása
 
-153. § A Mathias Corvinus Collegium tehetséggondozási programjának és a Maecenas Universitatis Corvini Alapítvány oktatási tevékenységének támogatásáról szóló 2020. évi XXVI. törvény (a továbbiakban: MCC tv.) 3. § (9) bekezdése helyébe a következő rendelkezés lép:
-
-„(9) Az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1) bekezdésében meghatározottaktól eltérően a Kormány az állam nevében, e törvény rendelkezései alapján – e törvényben meghatározott vagyonjuttatás teljesítésével – csatlakozhat az Alapítványhoz, azzal, hogy az alapító, a csatlakozó, valamint az alapítói jogok gyakorlására kijelölt kuratórium, illetve az alapítói jogokat esetlegesen gyakorló egyéb személy vagy szerv nem szüntetheti meg az Alapítványt.”
+153. §

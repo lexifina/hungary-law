@@ -1,1 +1,1 @@
-41. § Az Eüak. 35/K. § (3) bekezdésében az „a 4. § (1) bekezdés a)–d) pontjában vagy a 4. § (2) bekezdés f) pontjában meghatározott célból” szövegrész helyébe az „a 4. § (1) és (2) bekezdésében meghatározott célból” szöveg lép.
+41. §

@@ -1,3 +1,1 @@
-54. § Az Eütv. 24. § (11) bekezdése helyébe a következő rendelkezés lép:
-
-„(11) A beteg halála esetén törvényes képviselője, közeli hozzátartozója, valamint örököse – írásos kérelme alapján – jogosult a halál okával összefüggő vagy összefüggésbe hozható, továbbá a halál bekövetkezését megelőző gyógykezeléssel kapcsolatos egészségügyi adatokat megismerni, az egészségügyi dokumentációba betekinteni, valamint azokról kivonatot, másolatot készíteni, illetve – első alkalommal térítésmentesen, valamint – minden további másolat tekintetében – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerint meghatározott módon a saját költségére másolatot kapni.”
+54. §

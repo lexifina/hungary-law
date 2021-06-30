@@ -1,3 +1,1 @@
-168. § Az SZFE tv. 2. alcíme a következő 3/B. §-sal egészül ki:
-
-„3/B. § A 3/A. § (1) bekezdése szerinti üzletrész tulajdonba adásáról az Alapítvány alapító okiratának módosításával a miniszter rendelkezik. A tulajdonba adás végrehajtása során az állam képviseletében a miniszter jár el, aki jogosult az üzletrész felett az államot megillető tulajdonosi jogok gyakorlására és a kötelezettségek teljesítésére.”
+168. §

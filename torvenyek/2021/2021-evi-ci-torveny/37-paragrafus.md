@@ -1,3 +1,1 @@
-37. § Az Eüak. 35/J. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozó adat tekintetében az állami vérellátó szolgálat is, a 4. § (1) és (2) bekezdésében meghatározott célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).”
+37. §
