@@ -1,4 +1,4 @@
-## 18. §[^48]
+## 18. §[^49]
 
 1. melléklet a 13/2011. (XII. 27.) NMHH rendelethez
 
@@ -72,4 +72,4 @@ Kiadás helye, kelte:
 
 Cégszerű aláírás
 
-[^48]: A 18. § a 16. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 18. § a 16. § (2) bekezdése alapján hatályát vesztette.

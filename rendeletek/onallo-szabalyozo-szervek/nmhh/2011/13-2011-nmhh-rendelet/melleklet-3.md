@@ -12,7 +12,7 @@
 
 | 6 | késleltetés | ITU-T Y.2617 | BoR (17) 178 3.3 |
 
-3. melléklet a 13/2011. (XII. 27.) NMHH rendelethez[^50]
+3. melléklet a 13/2011. (XII. 27.) NMHH rendelethez[^51]
 
 | „A” táblázat: Internet-hozzáférési szolgáltatások leíró táblázata Érvényesség kezdete: Év.Hó.Nap |
 
@@ -92,4 +92,4 @@
 
 * A táblázat csak példálózó jellegű, a szolgáltatóknak mind a helyhez kötött, mind pedig a mobil internet-hozzáférési szolgáltatások nyújtása esetén a saját szolgáltatásukat figyelembe véve értelemszerűen kell kitölteniük.
 
-[^50]: A 3. mellékletet a 25/2020. (XII. 21.) NMHH rendelet 10. § (2) bekezdése iktatta be.
+[^51]: A 3. mellékletet a 25/2020. (XII. 21.) NMHH rendelet 10. § (2) bekezdése iktatta be.
