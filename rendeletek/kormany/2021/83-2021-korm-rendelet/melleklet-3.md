@@ -1,5 +1,3 @@
-## A Beruházások, valamint a kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottak
-
 |  | A | B | C |
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott |
@@ -34,4 +32,8 @@
 
 | 18. | Tihanyi Bencés Apátság műemléki és kiegészítő fejlesztései | Tihany belterület 1/1, 1/2, 4, 5 és 6 helyrajzi számú ingatlanok | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez
+| 19 | Semmelweis Egyetem, Anatómiai Tömb, Semmelweis Egyetem II. Sz. Patológiai Intézet Nemzeti Orvosi Innovációs Képző Központ építése | Budapest IX. kerület, belterület 37192 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^39]
+
+[^39]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 11. §[^17]
+12. §[^21]
 
-[^17]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.
+[^21]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.

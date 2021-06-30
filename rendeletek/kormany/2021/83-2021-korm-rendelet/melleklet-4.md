@@ -4,6 +4,8 @@
 
 | 2. | Képzési központ létrehozása | Budapest 36548 helyrajzi számú ingatlan | a kivitelezés megkezdésétől – 2026. december 31. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^34]
+| 3. | Semmelweis Egyetem, Anatómiai Tömb, Semmelweis Egyetem II. Sz. Patológiai Intézet Nemzeti Orvosi Innovációs Képző Központ építése | Budapest IX. kerület, belterület 37192 helyrajzi számú ingatlan | 2022. 01. 01. – 2025. 12. 31. |
 
-[^34]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^40]
+
+[^40]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

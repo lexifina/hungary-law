@@ -1,8 +1,8 @@
-## 20. §[^31] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 338/2021. (VI. 11.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 7/I. §-át, 7/J. §-át, 7/K. §-át és 2. mellékletében foglalt táblázat 15., 16., 17. és 18. sorát a Módr12. hatálybalépésekor[^32] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 21. §[^36] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 383/2021. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 1. § (3)–(5) bekezdését, 3. § (3) bekezdését, 6. § (1) bekezdés a) alpontját, 7/L. §-át, 2. mellékletében foglalt táblázat 19. sorát és a 3. mellékletében foglalt táblázat 3. sorát a Módr13. hatálybalépésekor[^37] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^31]: A 20. §-t a 338/2021. (VI. 11.) Korm. rendelet 2. §-a iktatta be.
-[^32]: A hatálybalépés időpontja 2021. június 12.
+[^36]: A 21. §-t a 383/2021. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^37]: A hatálybalépés időpontja 2021. június 30.

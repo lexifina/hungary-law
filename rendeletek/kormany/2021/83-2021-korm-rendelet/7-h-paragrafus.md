@@ -1,4 +1,4 @@
-7/H. §[^11] (1) A 2. mellékletben foglalt táblázat 13. sora szerinti beruházással érintett ingatlanon művelődési, kereskedelmi, szolgáltató-, oktatási, igazgatási és egyéb közösségi szórakoztatóépület, irodaépület, a kutatás-fejlesztés építménye, sportépítmény, valamint parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló-építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/H. §[^13] (1) A 2. mellékletben foglalt táblázat 13. sora szerinti beruházással érintett ingatlanon művelődési, kereskedelmi, szolgáltató-, oktatási, igazgatási és egyéb közösségi szórakoztatóépület, irodaépület, a kutatás-fejlesztés építménye, sportépítmény, valamint parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló-építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -16,4 +16,4 @@ d) az építmények és önálló rendeltetési egységek rendeltetésszerű has
 
 e) a terepszint feletti és alatti építési hely az érintett ingatlanok teljes területe.
 
-[^11]: A 7/H. §-t a 212/2021. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^13]: A 7/H. §-t a 212/2021. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
