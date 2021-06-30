@@ -1,0 +1,53 @@
+# Az innovációért és technológiáért felelős miniszter 28/2021. (VI. 30.) ITM rendelete
+
+Magyar Közlöny 2021. évi 123. szám, 2021. június 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/5PxDhHu64B2vRCQZXjWf60d4d5de6a1c8/dokumentumok/6d408ec9c88221276266e0b2ed05caea8e79df7a/letoltes)
+
+---
+
+Az innovációért és technológiáért felelős miniszter 28/2021. (VI. 30.) ITM rendelete
+az egyes közlekedési képzésekkel összefüggő, a veszélyhelyzet megszűnésével kapcsolatos szabályokról
+szóló 8/2021. (II. 12.) ITM rendelet módosításáról
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 18. alpontjában, a vasúti közlekedésről szóló
+2005. évi CLXXXIII. törvény 88. § (2) bekezdés 13. pontjában, a víziközlekedésről szóló 2000. évi XLII. törvény 88. § (2) bekezdés
+19. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet
+116. § 18. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+Az egyes közlekedési képzésekkel összefüggő, a veszélyhelyzet megszűnésével kapcsolatos szabályokról szóló
+8/2021. (II. 12.) ITM rendelet a következő 5. §-sal egészül ki:
+„5. § (1) E rendelet rendelkezéseit a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről
+szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet időszaka tekintetében is alkalmazni kell,
+a (2)–(7) bekezdés szerinti eltérésekkel.
+(2) Az (1) bekezdés szerinti veszélyhelyzet tekintetében az 1. § (1) és (2) bekezdése nem alkalmazható, amennyiben
+a határidő meghosszabbítására a veszélyhelyzet megszűnésével kapcsolatos egyes közlekedési képzésekkel
+összefüggő szabályokról szóló 19/2020. (VI. 17.) ITM rendelet, valamint az e rendelet szerint már sor került, kivéve,
+ha a meghosszabbított határidő 2021. március 8. napja és 2021. április 19. napja között járt le.
+(3) Az (1) bekezdés szerinti veszélyhelyzet tekintetében a 2. § (1)–(4) bekezdése, valamint a 3. § (1) bekezdése nem
+alkalmazható, amennyiben a határidő meghosszabbítására a veszélyhelyzet megszűnésével kapcsolatos egyes
+közlekedési képzésekkel összefüggő szabályokról szóló 19/2020. (VI. 17.) ITM rendelet, valamint az e rendelet szerint
+már sor került.
+(4) A SARS-CoV-2 koronavírus (a továbbiakban: koronavírus) elleni védettség igazolására alkalmas hatósági
+igazolvánnyal vagy koronavírus elleni védőoltást igazoló applikációval rendelkező és azt felmutató személyek
+a veszélyhelyzet időtartama alatt a vizsgaterem engedélyezett befogadóképességének megfelelő létszámban
+vehetnek részt a közúti járművezetők és a közúti közlekedési szakemberek vizsgáin. A koronavírus elleni védettség
+igazolására alkalmas hatósági igazolvánnyal nem rendelkezők esetén a vizsga a vonatkozó járványügyi szabályok
+szerinti létszámkorlát figyelembevételével tartható meg.
+(5) Az NFM rendelet 2. mellékletében foglalt „Időszakos oktatásra, valamint időszakos vizsgára kötelezett
+munkavállalók és az időszakos oktatás rendje” című táblázat 3–11. sorában meghatározott munkakörök esetében
+a veszélyhelyzet miatt a 2020. évi oktatási ütemtervben szereplő, de elmaradt időszakos oktatások pótlására nem
+kerül sor.
+(6) Az NFM rendelet 2. mellékletében foglalt „Időszakos oktatásra, valamint időszakos vizsgára kötelezett
+munkavállalók és az időszakos oktatás rendje” című táblázat 3–11. sorában meghatározott munkakörök esetében
+a 2021. évi időszakos oktatást az alábbi éves oktatási időkeretben kell megtartani: az NFM rendelet 2. mellékletében
+foglalt „Időszakos oktatásra, valamint időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje”
+című táblázatban előírt
+a) 30 óra éves oktatási idő esetében 7 óra,
+b) 12 óra éves oktatási idő esetében 4 óra,
+c) 6 óra éves oktatási idő esetében 3 óra.
+(7) A hajózási képesítések tekintetében a befejezett (sikeres) elméleti vizsgát követően gyakorlati vizsga legfeljebb
+18 hónapon belül tehető. Amennyiben az elméleti vizsga letételétől számított 18 hónap a veszélyhelyzet időtartama
+alatt vagy a veszélyhelyzet megszűnését követő 15 napon belül jár le, akkor a gyakorlati vizsga a veszélyhelyzet
+megszűnését követő 180. napig tehető le.”
+2. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Dr. Palkovics László s. k.,
+ innovációért és technológiáért felelős miniszter
