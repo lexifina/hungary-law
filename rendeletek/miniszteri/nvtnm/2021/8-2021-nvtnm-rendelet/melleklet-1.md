@@ -1,4 +1,4 @@
-## 13. § Hatályát veszti a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet központi kezelésű előirányzatai felhasználásáról szóló 2/2020. (IV. 22.) NVTNM rendelet.
+## 13. §[^1]
 
 1. melléklet a 8/2021. (VI. 28.) NVTNM rendelethez
 
@@ -59,3 +59,5 @@
 | 26 | 380251 |  | A regionális víziközmű társaságok forrásjuttatásai | Az előirányzat célja az NV Zrt. tulajdonosi joggyakorlásába tartozó regionális víziközmű társaságok javára történő tőkeemelés és pótbefizetés fedezetének biztosítása, továbbá a társaságok feladatainak tulajdonosi támogatása, ideértve a minimálbér-emeléshez és garantált bérminimum-emeléshez kapcsolódó társasági bérfejlesztésekhez szükséges forrás biztosítását is. | Az NV Zrt. tulajdonosi joggyakorlása alá tartozó regionális víziközmű társaságok. | Az Áht. szerinti, az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatási szerződésben vagy támogatói okiratban foglaltaknak megfelelően. | Előleg nyújtása lehetséges | Tőkeemelés, pótbefizetés jogcímen, alapítói vagy részvényesi határozat alapján. Tulajdonosi támogatás esetén egy összegben vagy részletekben, teljesítés- vagy időarányosan. | - | Az Ávr. szerinti biztosítékok. | NV Zrt. | - | - |
 
 | 27 | 278645 | Fejezeti tartalék | Az előirányzat a fejezet év közben felmerülő, előre nem látható kiadásaira használható fel. | - | - | - | Az előirányzat felhasználása fejezeten belüli átcsoportosítás- sal történik a Fejezeti tartalék éves költségvetési törvényben meghatározott felhasználási szabályai szerint. | - | - | - | - | - |
+
+[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
