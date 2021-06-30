@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-30-00-00
 | --- | --- | --- |
 | 2021-05-07 | 2021. évi XXX. törvény | 2021-30-00-00.0 (közlönyállapot) |
 | 2021-05-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-30-00-00.1 |
+| 2021-06-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-30-00-00.2 |
