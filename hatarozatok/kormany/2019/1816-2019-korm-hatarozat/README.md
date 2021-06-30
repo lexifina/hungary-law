@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1816-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-12-30 | 2019-1816-30-22.1 | 1816/2019. (XII. 30.) Korm. határozat |
+| 2021-06-30 | 2019-1816-30-22.2 | 1415/2021. (VI. 30.) Korm. határozat |

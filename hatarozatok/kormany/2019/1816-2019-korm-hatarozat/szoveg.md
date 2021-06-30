@@ -4,13 +4,13 @@ A Kormány
 
 2. egyetért a kutatóliget II. (a továbbiakban: Beruházás I.) ütemének és a központi energiaellátó épület (a továbbiakban: Beruházás II.) megvalósításának koncepciójával, valamint azzal, hogy a Beruházás I. és Beruházás II. (a továbbiakban együtt: Beruházások) a Piliscsaba belterület 1602/4 helyrajzi számú ingatlanon valósuljon meg;
 
-3. beruházási célterületté nyilvánítja a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra figyelemmel az 1. pontban foglalt cél elérése érdekében a Piliscsaba külterület 080/13 helyrajzi számú földrészletet, valamint az ezen földrészletből a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított földrészleteket;
+3.[^1]
 
 4. a Beruházás I. előkészítése érdekében szakértői tanulmányok, megvalósíthatósági tanulmány, tervezési program elkészítésére, helyszínvizsgálat lefolytatására, vázlatterv, településrendezési eszközök, engedélyezési dokumentáció, valamint kivitelezési terv elkészítésére legfeljebb 60 000 000 forint forrást biztosít a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 15. napjáig kell megvalósítani;
 
 5. a Beruházás II. előkészítése érdekében szakértői tanulmányok készítésére, helyszínvizsgálat lefolytatására, tervezési program elkészítésére, megvalósíthatósági tanulmány készítésére, fenntartási és üzemeltetési modell kidolgozására, településrendezési eszközök elkészítésére, engedélyezési terv készítésére, engedélyeztetés lefolytatására, valamint kivitelezési terv elkészítésére legfeljebb 55 000 000 forint forrást biztosít a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. augusztus 31. napjáig kell megvalósítani;
 
-6. felhívja a pénzügyminisztert, hogy – az emberi erőforrások miniszterének bevonásával – elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel gondoskodjon a 4. és 5. pont szerinti összesen 115 000 000 forint forrás rendelkezésre állásáról a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása jogcímcsoport, 2. Közművelődési szakmai feladatok jogcím javára;
+6.[^2] felhívja a pénzügyminisztert, hogy – az emberi erőforrások miniszterének bevonásával – elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel gondoskodjon a 4. és 5. pont szerinti összesen 115 000 000 forint forrás rendelkezésre állásáról a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása jogcímcsoport, 2. Közművelődési szakmai feladatok jogcím javára;
 
 Az átcsoportosítás tekintetében
 
@@ -24,7 +24,7 @@ Az elszámolási és visszafizetési kötelezettség tekintetében
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2020. december 30.
+Határidő: 2021. június 30.
 
 7. a Beruházások előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
@@ -54,19 +54,15 @@ Határidő: a kivitelezési dokumentáció elkészültét követően azonnal
 
 14. felhívja
 
-a) az emberi erőforrások miniszterét, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával készítsen előterjesztést a Kormány részére az Alapítvány Piliscsaba belterület 1602/4, 1602/4/A és Piliscsaba külterület 080/13 helyrajzi számú ingatlanok vagyonkezelőjeként történő kijelölése érdekében;
+a)[^3] az emberi erőforrások miniszterét, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával készítsen előterjesztést a Kormány részére a Iosephinum Fejlesztéséért Alapítványnak a Piliscsaba belterület 1602/4 és 1602/4/A helyrajzi számú ingatlanok vagyonkezelőjeként történő kijelölése érdekében;
 
 Felelős: emberi erőforrások minisztere
 
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-Határidő: 2020. július 31.
+Határidő: a Iosephinum területén megvalósuló felépítmények külön helyrajzi számra történő kiemelését eredményező ingatlan-nyilvántartási bejegyzéseket követő 90 napon belül
 
-b) felhívja az agrárminisztert, hogy a Nemzeti Földügyi Központ útján gondoskodjon a 3. pontban meghatározott ingatlan vagyonkezelési szerződésének megszüntetéséről, és ezt követően a tulajdonosi joggyakorlás átadásáról a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részére;
-
-Felelős: agrárminiszter
-
-Határidő: 2020. május 31.
+b)[^4]
 
 15. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy vizsgálja meg a Piliscsaba belterület 1602/4/B helyrajzi számú, természetben a 2081 Piliscsaba, Fő út 2. szám alatti ingatlan állami tulajdonba kerülésének lehetőségét;
 
@@ -85,3 +81,8 @@ Határidő: 2020. június 30.
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2020. január 31.
+
+[^1]: A 3. pontot a Kormány a 1415/2021. (VI. 30.) Korm. határozat 4. pontjával visszavonta.
+[^2]: A 6. pont a 1415/2021. (VI. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 14. pont a) alpontja a 1415/2021. (VI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 14. pont b) alpontját a Kormány a 1415/2021. (VI. 30.) Korm. határozat 4. pontjával visszavonta.
