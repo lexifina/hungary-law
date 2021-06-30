@@ -10,7 +10,7 @@ A Kormány
 
 5. a Beruházás előkészítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 698 000 000 forintban határozza meg;
 
-6. a Beruházás Előkészítési Alap terhére a Beruházás megvalósíthatósági tanulmányának, tervezési programjának, költség- és időkalkulációjának, jóváhagyási tervének, engedélyezési és kivitelezési dokumentációjának elkészítésére, valamint az engedélyeztetés lefolytatására összesen 698 000 000 forintot biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. március 31-ig kell megvalósítani;
+6.[^1] a Beruházás Előkészítési Alap terhére a Beruházás megvalósíthatósági tanulmányának, tervezési programjának, költség- és időkalkulációjának, jóváhagyási tervének, engedélyezési és kivitelezési dokumentációjának elkészítésére, valamint az engedélyeztetés lefolytatására összesen 698 000 000 forintot biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. október 30-ig kell megvalósítani;
 
 7. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímet a 14. Semmelweis Egyetem II. Sz. Patológiai Intézet Nemzeti Orvosi Innovációs Képző Központ jogcímcsoporttal és azon belül az 1. Beruházás előkészítés jogcímmel egészíti ki;
 
@@ -44,11 +44,7 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 
 10. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy
 
-a) készítsen jelentést a 6. pont szerinti előkészítési fázisok végrehajtásának állapotáról, valamint a felhasznált forrás összegéről,
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-Határidő: 2021. április 30.
+a)[^2]
 
 b) a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával;
 
@@ -67,3 +63,6 @@ Határidő: a 10. pont b) alpontja szerinti előterjesztés elfogadása esetén,
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 6. pont az 1416/2021. (VI. 30.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 10. pont a) alpontját a Kormány az 1416/2021. (VI. 30.) Korm. határozat 2. pontjával visszavonta.
