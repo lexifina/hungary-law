@@ -1,6 +1,6 @@
 ## 11. [^26] A Lebonyolító feladatainak ellátására kizárólagos jog alapján történő kijelölés
 
-22. § (1)[^27] A Lebonyolítónak a Lakástörvény 10. § (1) bekezdésében meghatározott feladatait kizárólagos jog alapján – a 26. §-ban meghatározott kivétellel – a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
+22. § (1)[^27] A Lebonyolítónak a 24. § szerinti – EAR igénybevételével történő – értékesítés során felmerülő, a megüresedett ingatlan érdeklődők részére történő bemutatásával kapcsolatos feladatait, a megüresedett ingatlan árverési vevő, illetve a helyi önkormányzat részére történő birtokátruházásával kapcsolatos feladatait, továbbá a Lakástörvény 10. § (1) bekezdésében meghatározott feladatait kizárólagos jog alapján – a 26. §-ban meghatározott kivétellel – a KIVING Ingatlangazdálkodó és Beruházásszervező Korlátolt Felelősségű Társaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
 
 (2) A Kijelölt Szolgáltató által ellátandó feladatok körét a 3. melléklet határozza meg.
 
@@ -9,5 +9,5 @@
 (4) A Kijelölt Szolgáltató a feladatot közszolgáltatás keretében látja el.
 
 [^26]: A 11. alcím címe a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^27]: A 22. § (1) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
+[^27]: A 22. § (1) bekezdése a 361/2021. (VI. 24.) Korm. rendelet 1. §–ával megállapított szöveg.
 [^28]: A 22. § (3) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.

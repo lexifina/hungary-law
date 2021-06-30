@@ -22,6 +22,10 @@ A Kijelölt Szolgáltató által a Lakástörvény 10. § (1) bekezdésében meg
 
 9.[^61] A Lebonyolító vagyonkezelésében álló lakóingatlanok és tartalék ingatlanok a lakásbérleti szerződés megszűnése okán bekövetkező megüresedése esetén az ingatlanok bérbeadásból történő visszavétele, üres lakóingatlanok és tartalék ingatlanok gondnokolása, illetve újabb bérbeadást megelőzően műszaki állapotfelmérés elkészítése.
 
+10.[^62] A megüresedett ingatlan 24. § szerinti értékesítése során az ingatlan iránt érdeklődők részére történő bemutatása.
+
+11.[^63] Közreműködés a megüresedett ingatlan árverési vevő, illetve a helyi önkormányzat részére történő birtokátruházásában.
+
 [^54]: A 3. melléklet 1. pontja a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
 [^55]: A 3. melléklet 2. pontja a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
 [^56]: A 3. melléklet 3. pontja a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
@@ -30,3 +34,5 @@ A Kijelölt Szolgáltató által a Lakástörvény 10. § (1) bekezdésében meg
 [^59]: A 3. melléklet 6. pontja a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
 [^60]: A 3. melléklet 7. pontja a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
 [^61]: A 3. melléklet 9. pontja a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^62]: A 3. melléklet 10. pontját a 361/2021. (VI. 24.) Korm. rendelet 2. §–a iktatta be.
+[^63]: A 3. melléklet 11. pontját a 361/2021. (VI. 24.) Korm. rendelet 2. §–a iktatta be.
