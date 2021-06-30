@@ -1,5 +1,0 @@
-13. § (1) A határozatlan időre kötött előfizetői szerződések tekintetében az Eht. 132. § (2) bekezdés c) pontja szerinti esetnek minősül különösen az olyan költség – az előfizetői szerződés megkötésekor előre nem látható – növekedése, amely a szolgáltató harmadik személlyel fennálló szerződéses kapcsolatából ered és közvetlenül beépül a szolgáltatás díjába.
-
-(2) A határozatlan időre kötött előfizetői szerződés tekintetében a szolgáltató meghatározhat olyan feltételt az egyedi előfizetői szerződésben vagy az általános szerződési feltételekben, amely alapján a fogyasztói árszínvonal meghatározott változása esetén a szolgáltató jogosult a szolgáltatás díjának naptári évenként legfeljebb egyszeri módosítására. E feltétel bekövetkezése esetén a szolgáltató az Eht. 132. § (2) bekezdés a) pontjában foglaltak szerint jogosult az előfizetői szerződést egyoldalúan módosítani.
-
-(3) A (2) bekezdésben foglalt esetben a díjváltozás mértéke nem haladhatja meg a megelőző naptári évre a Központi Statisztikai Hivatal által megadott tényleges fogyasztói árindex mértékét.
