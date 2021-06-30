@@ -1,3 +1,3 @@
-4. melléklet a 680/2020. (XII. 28.) Korm. rendelethez[^18]
+4. melléklet a 680/2020. (XII. 28.) Korm. rendelethez[^17]
 
-[^18]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

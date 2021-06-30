@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-680-20-
 | 2021-01-01 | 2020-680-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-01-02 | 2020-680-20-22.4 | 2010: CXXX. törvény |
 | 2021-01-03 | 2020-680-20-22.5 | 2010: CXXX. törvény |
+| 2021-06-30 | 2020-680-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
