@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-100-00-00
 | --- | --- | --- |
 | 2021-06-29 | 2021. évi C. törvény | 2021-100-00-00.0 (közlönyállapot) |
 | 2021-06-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-100-00-00.1 |
+| 2021-06-30 | 2010. évi CXXX. törvény | 2021-100-00-00.2 |
