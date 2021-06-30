@@ -1,0 +1,1 @@
+## 3. § A nemzeti felsőoktatási kiválóságról szóló Korm. rendelet 17. §-ában az „a tudománypolitika koordinációjáért felelős miniszter” szövegrész helyébe az „az NKFI Alap kezelő szervének vezetője” szöveg lép.
