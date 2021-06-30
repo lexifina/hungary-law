@@ -1,3 +1,3 @@
-## 30. §[^29]
+31. §[^26]
 
-[^29]: A 30. §-t a 170/2016. (VII. 1.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
+[^26]: A 31. §-t a 345/2015. (XI. 19.) Korm. rendelet 52. § 3. pontja hatályon kívül helyezte.
