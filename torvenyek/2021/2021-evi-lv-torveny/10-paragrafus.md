@@ -1,0 +1,3 @@
+10. § A Vet. 66/B. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A megújulóenergia-közösségre az energiaközösségre vonatkozó szabályokat kell alkalmazni azzal, hogy a megújulóenergia-közösség olyan energiaközösség, amely megújuló energiaforrásból termel villamos energiát, ilyen villamos energiát fogyaszt, tárol vagy értékesít. A megújulóenergia-közösség tényleges irányítását azon tag vagy tagok látják el, amelyek felhasználási helyeinek csatlakozási pontjai a megújulóenergia-közösség tulajdonában álló villamosenergia-tároló és erőmű csatlakozási pontjaival ugyanazon nagy/középfeszültségű transzformátorállomási körzetben helyezkednek el.”
