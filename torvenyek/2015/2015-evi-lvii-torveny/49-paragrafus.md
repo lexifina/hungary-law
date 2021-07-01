@@ -10,7 +10,9 @@ c) az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/E
 
 d) az épületek energiahatékonyságáról szóló 2010/31/EU irányelv és az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/844 európai parlamenti és tanácsi irányelvnek,
 
-e) az energiahatékonyságról szóló, 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelvnek
+e) az energiahatékonyságról szóló, 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelvnek,
+
+f) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 15. cikk (5) és (6) bekezdésének
 
 való megfelelést szolgálja.
 
