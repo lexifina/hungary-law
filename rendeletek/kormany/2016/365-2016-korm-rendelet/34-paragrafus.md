@@ -4,7 +4,7 @@
 
 1. a 2005/32/EK európai parlamenti és tanácsi irányelvnek a tömszelence nélküli önálló keringetőszivattyúkra, illetve termékekbe beépített tömszelence nélküli keringetőszivattyúkra vonatkozó környezetbarát tervezési követelmények tekintetében történő végrehajtásáról szóló, 2009. július 22-i 641/2009/EK bizottsági rendelet 5. cikkének,
 
-2. a 2005/32/EK európai parlamenti és tanácsi irányelvnek az elektromos motorok környezetbarát tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2009. július 22-i 640/2009/EK bizottsági rendelet 5. cikkének,
+2.[^97] az elektromos motorokra és a frekvenciaváltókra vonatkozó környezettudatos tervezési követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti megállapításáról, a 641/2009/EK rendeletnek a tömszelence nélküli önálló keringetőszivattyúkra és a termékbe beépített tömszelence nélküli keringetőszivattyúkra vonatkozó környezettudatos tervezési követelmények tekintetében történő módosításáról és a 640/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1781 bizottsági rendelet 6. cikkének
 
 3. a 2005/32/EK európai parlamenti és tanácsi irányelvnek a beépített előtét nélküli fénycsövek, nagy intenzitású kisülőlámpák és az ilyen lámpák működtetésére alkalmas előtétek és lámpatestek környezetbarát tervezési követelményei tekintetében történő végrehajtásáról, valamint a 2000/55/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2009. március 18-i 245/2009/EK bizottsági rendelet 5. cikkének,
 
@@ -12,9 +12,9 @@
 
 5. a 2005/32/EK európai parlamenti és tanácsi irányelvnek az elektromos és elektronikus háztartási és irodai berendezések készenléti és kikapcsolt üzemmódban fellépő elektromosáram-fogyasztására vonatkozó környezetbarát tervezési követelmények tekintetében történő végrehajtásáról szóló, 2008. december 17-i 1275/2008/EK bizottsági rendelet 5. cikkének,
 
-6.[^97] a külső tápegységek környezettudatos tervezésére vonatkozó követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti meghatározásáról, valamint a 278/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1782 bizottsági rendelet 5. cikkének,
+6.[^98] a külső tápegységek környezettudatos tervezésére vonatkozó követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti meghatározásáról, valamint a 278/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1782 bizottsági rendelet 5. cikkének,
 
-7.[^98] a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet,
+7.[^99] a valamely másik tagállamban jogszerűen forgalmazott áruk kölcsönös elismeréséről és a 764/2008/EK rendelet hatályon kívül helyezéséről szóló, 2019. március 19-i (EU) 2019/515 európai parlamenti és tanácsi rendelet,
 
 8. az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló, 2005. december 20-i 2173/2005/EK tanácsi rendelet I. fejezet 2. cikk 8. pontjának, valamint az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló 2173/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes rendelkezések megállapításáról szóló, 2008. október 17-i 1024/2008/EK bizottsági rendelet I. fejezet 2. cikk 4. pontjának,
 
@@ -22,7 +22,7 @@
 
 10. az Iránnal szembeni korlátozó intézkedésekről és a 961/2010/EU rendelet hatályon kívül helyezéséről szóló, 2012. március 23-i 267/2012/EU tanácsi rendelet,
 
-11.[^99] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdésének
+11.[^100] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdésének
 
 12. a 2009/125/EK európai parlamenti és tanácsi irányelvnek a számítógépek és a kiszolgáló számítógépek környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2013. június 26-i 617/2013/EU bizottsági rendelet,
 
@@ -36,11 +36,11 @@
 
 17. a 2009/125/EK európai parlamenti és tanácsi irányelvnek a helyiségfűtő berendezések és a kombinált fűtőberendezések környezettudatos tervezésére vonatkozó követelmények tekintetében történő végrehajtásáról szóló, 2013. augusztus 2-i 813/2013/EU bizottsági rendelet
 
-18.[^100] a konfliktusok által érintett és nagy kockázatot jelentő térségekből származó ón, tantál, volfrám, ezek ércei és arany uniós importőrei körében a kellő gondosság elvének megfelelő ellátási láncra vonatkozó kötelezettségek megállapításáról szóló, 2017. május 17-i (EU) 2017/821 európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének és 16. cikkének
+18.[^101] a konfliktusok által érintett és nagy kockázatot jelentő térségekből származó ón, tantál, volfrám, ezek ércei és arany uniós importőrei körében a kellő gondosság elvének megfelelő ellátási láncra vonatkozó kötelezettségek megállapításáról szóló, 2017. május 17-i (EU) 2017/821 európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének és 16. cikkének
 
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2)[^101] Ez a rendelet
+(2)[^102] Ez a rendelet
 
 1. az aeroszoladagolókra vonatkozó tagállami jogszabályok közelítéséről szóló, 1975. május 20-i 75/324/EGK tanácsi irányelvnek,
 
@@ -70,8 +70,9 @@
 
 [^95]: A 33/A. §-t a 345/2017. (XI. 16.) Korm. rendelet 14. §-a iktatta be.
 [^96]: A hatálybalépés időpontja 2017. november 17.
-[^97]: A 34. § (1) bekezdés 6. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^98]: A 34. § (1) bekezdés 7. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^99]: A 34. § (1) bekezdés 11. pontja a 37/2021. (II. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^100]: A 34. § (1) bekezdés 18. pontját a 37/2021. (II. 2.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^101]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^97]: A 34. § (1) bekezdés 2. pontja a 37/2021. (II. 2.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^98]: A 34. § (1) bekezdés 6. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^99]: A 34. § (1) bekezdés 7. pontja a 190/2020. (V. 7.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^100]: A 34. § (1) bekezdés 11. pontja a 37/2021. (II. 2.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^101]: A 34. § (1) bekezdés 18. pontját a 37/2021. (II. 2.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^102]: A 34. § (2) bekezdése a 198/2019. (VIII. 1.) Korm. rendelet 20. §-ával megállapított szöveg.
