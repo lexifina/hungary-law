@@ -30,4 +30,8 @@ b) a kérelmező az egyszerűsített nyilvántartásba vételi (változásbejegy
 
 (3) A közhasznú szervezetté minősítés iránti kérelmet kizárólag elektronikus úton lehet előterjeszteni, s az eljárásban a kérelmező a beadványokat kizárólag elektronikus úton terjesztheti elő. A közhasznú szervezet a beadványokat kizárólag elektronikus úton terjesztheti elő.
 
-(4) Az elektronikus eljárásra kötelezett kérelmező az Ectv.-ben meghatározott beszámolót és a közhasznúsági mellékletét (a továbbiakban együtt: beszámoló) elektronikus úton küldi meg a bíróság részére.
+(4) Az Ectv.-ben meghatározott beszámolót és a közhasznúsági mellékletét (a továbbiakban együtt: beszámoló) elektronikus úton küldi meg a bíróság részére
+
+a) az elektronikus eljárásra kötelezett kérelmező, és
+
+b) az Ectv. 2. § 6. pont b) és c) alpontja szerinti civil szervezet, ha mérlegfőösszege eléri az ötmillió forintot.
