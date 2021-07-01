@@ -70,6 +70,8 @@ d) az állami közlekedésbiztonsági szervet vagy szerveket,
 
 e) a repülésmeteorológiai szolgáltatót vagy szolgáltatókat.
 
+f) a légiközlekedési vizsgaközpontot.
+
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 a) a légiközlekedés védelmével kapcsolatos feladatoknak az általános rendőrségi feladatok ellátására létrehozott szerv általi átvételének, valamint a nyilvános repülőtér üzemben tartója részére történő visszaadásának és az általános rendőrségi feladatok ellátására létrehozott szerv indokolt költségei megtérítésének részletes szabályait,
@@ -93,3 +95,7 @@ i) az állami repülések céljára szolgáló repülőterek létesítésének, 
 j) a légvédelmi készenléti szolgálat riasztásából eredő költségek megtérítésének részletes szabályait,
 
 k) a légiközlekedési hatóság által – közigazgatási hatósági hatáskörében eljárva – alkalmazandó kiegészítő eljárási szabályokat.
+
+l) a légiközlekedési vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását,
+
+m) a légiközlekedési vizsgaközpont felügyeleti szerve által kiszabható bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.

@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2021-01-22 | 2020. évi CLXXIX. törvény | 1995-97-00-00.74 |
 | 2021-06-13 | 2021. évi LIX. törvény | 1995-97-00-00.75 |
 | 2021-06-28 | 2021. évi LIX. törvény | 1995-97-00-00.76 |
+| 2021-07-01 | 2021. évi LIX. törvény | 1995-97-00-00.77 |

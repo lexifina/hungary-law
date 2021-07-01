@@ -57,3 +57,9 @@ i) a c), az l), n) és az o) pontjaiban felsorolt feladatokat a légiközlekedé
 látja el.
 
 (3) A miniszter látja el – az általa kijelölt szervezet útján – a légiközlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatokat. A kijelölt szervezet számára – a külön jogszabályban meghatározott forrásból a miniszter által vezetett minisztérium igazgatása terhére – a miniszter döntése alapján támogatás is nyújtható.
+
+(4) A légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás – ide nem értve a léginavigációs szolgáltatásokat nyújtó, valamint a léginavigációs szolgáltatások nyújtását közvetlenül támogató munkakörökben foglalkoztatottak képesítéseit és azok vizsgáztatói tanúsítását – megszerzéséhez szükséges vizsgáztatást – jogszabály eltérő rendelkezése hiányában – e törvény felhatalmazása alapján a Kormány által a közúti közlekedési, a hajózási, valamint a vasúti vizsgáztatásra kijelölt közlekedési vizsgaközpont (a továbbiakban: légiközlekedési vizsgaközpont) végzi.
+
+(4a) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján a légiközlekedési szakszemélyzeti képesítések és vizsgáztatói tanúsítás megszerzéséhez szükséges vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a vizsgán résztvevők, valamint a vizsgára jelentkezők természetes személyazonosító adatait.
+
+(4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a légiközlekedési hatóság adatkérése alapján a pilóta nélküli légijármű-rendszerekről, valamint a pilóta nélküli légijármű-rendszer üzemben tartókról vezetett nyilvántartáshoz kapcsolódóan a kérelmezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
