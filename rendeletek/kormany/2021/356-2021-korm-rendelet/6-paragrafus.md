@@ -1,0 +1,1 @@
+## „c) az ügyintézési határidő kölcsönbeadók esetén 25 nap, magán-munkaközvetítők esetén pedig a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott határidő.”
