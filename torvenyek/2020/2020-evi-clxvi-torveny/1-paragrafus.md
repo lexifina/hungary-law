@@ -2,7 +2,7 @@
 
 1. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
-a)
+a) 24/B. § (1) és (2) bekezdésében a „vagy „özvegy vagy özvegy bejegyzett élettárs” megjelöléssel” szövegrész helyébe az „ , „özvegy vagy özvegy bejegyzett élettárs” vagy „házassága megszűnt vagy bejegyzett élettársi kapcsolata megszűnt” megjelöléssel” szöveg,
 
 b)
 
