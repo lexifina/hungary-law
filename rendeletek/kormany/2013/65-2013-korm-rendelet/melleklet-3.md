@@ -1,3 +1,3 @@
-3. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^72]
+3. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^81]
 
-[^72]: A 3. mellékletet a 94/2020. (IV. 7.) Korm. rendelet 4. § b) pontja iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 51. § c) pontjával megállapított szöveg.
+[^81]: A 3. mellékletet a 94/2020. (IV. 7.) Korm. rendelet 4. § b) pontja iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 51. § c) pontjával megállapított szöveg.

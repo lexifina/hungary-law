@@ -70,7 +70,7 @@
 
 | 33 |  |  | legfelső szintű domain név (TLD) nyilvántartó szolgáltatás | a legfelső szintű domain (TLD) alatti internetes domain nevek regisztrációjára, illetve kezelésére irányuló szolgáltatás |
 
-4. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^73]
+4. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^82]
 
 BÍRSÁG
 
@@ -90,6 +90,8 @@ BÍRSÁG
 
 | 7 | Biztonsági összekötő személy alkalmazásának elmulasztása | 500 000 | 500 000 |
 
+| 7a. | A biztonsági összekötő személy nem felel meg a képesítési követelményeknek | 300 000 | 300 000 |
+
 | 8 | Bekövetkezett rendkívüli eseményről tájékoztatás elmulasztása | 500 000 | 3 000 000 |
 
 | 9 | A létfontosságú rendszerelem üzemfolytonos működését befolyásoló, az ágazati kijelölő hatóság határozatában foglalt egyéb előírások nem teljesítése | 100 000 | 500 000 |
@@ -102,4 +104,4 @@ BÍRSÁG
 
 | 13 | A komplex gyakorlat megállapításai eredményeképp az üzemeltetői biztonsági terv módosításának elmulasztása | 500 000 | 500 000 |
 
-[^73]: A 4. mellékletet a 375/2020. (VII. 30.) Korm. rendelet 51. § d) pontja iktatta be.
+[^82]: A 4. mellékletet a 375/2020. (VII. 30.) Korm. rendelet 51. § d) pontja iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.

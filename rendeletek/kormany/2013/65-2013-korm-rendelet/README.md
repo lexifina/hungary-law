@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-65-20-2
 | 2019-01-01 | 2013-65-20-22.11 | 323/2018. (XII. 28.) Korm. rendelet |
 | 2020-04-08 | 2013-65-20-22.12 | 94/2020. (IV. 7.) Korm. rendelet |
 | 2020-07-31 | 2013-65-20-22.13 | 375/2020. (VII. 30.) Korm. rendelet |
+| 2021-07-01 | 2013-65-20-22.14 | 375/2021. (VI. 30.) Korm. rendelet |
