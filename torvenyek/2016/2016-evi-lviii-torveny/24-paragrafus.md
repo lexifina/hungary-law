@@ -2,7 +2,7 @@
 
 24. § (1) Az építés helyi rendjének biztosítása érdekében Budapesten a Fővárosi Önkormányzat az Olimpiai és Paralimpiai Játékok megrendezésének helyszínéül kijelölt területek felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket az Olimpiai és Paralimpiai Játékok Építési Szabályzatában (a továbbiakban: OJÉSZ) állapítja meg.
 
-(2) Az OJÉSZ készítése és jóváhagyása során Budapest hosszú távú városfejlesztési koncepcióját, a fővárosi integrált településfejlesztési stratégiát, továbbá a mindenkor hatályos fővárosi településrendezési eszközök szabályait figyelembe kell venni.
+(2) Az OJÉSZ készítése és jóváhagyása során Budapest hosszú távú városfejlesztési koncepcióját, a a hatályos fővárosi településfejlesztési és településrendezési tervek szabályait figyelembe kell venni.
 
 (3) Az OJÉSZ több ütemre, továbbá külön, az egyes együtt tervezendő területekre bontva is készülhet.
 
