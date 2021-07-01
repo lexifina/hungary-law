@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-125-00-00
 | 2019-07-10 | 2019. évi LXVI. törvény | 2009-125-00-00.12 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2009-125-00-00.13 |
 | 2020-09-01 | 2020. évi LXXXVIII. törvény | 2009-125-00-00.14 |
+| 2021-07-01 | 2020. évi LXXXVIII. törvény | 2009-125-00-00.15 |
