@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-242-00-00
 | 2020-03-01 | 2018. évi CVI. törvény | 2013-242-00-00.9 |
 | 2020-05-29 | 2020. évi XXX. törvény | 2013-242-00-00.10 |
 | 2020-07-15 | 2020. évi LXXX. törvény | 2013-242-00-00.11 |
+| 2021-07-01 | 2021. évi XXXIX. törvény | 2013-242-00-00.12 |
