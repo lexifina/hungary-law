@@ -18,7 +18,7 @@ h) a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli ti
 
 i) az útlevélhatóság, valamint a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselője, illetve annak munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy az útlevél-ügyintézéshez,
 
-j) az értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához;
+j) az állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához;
 
 k) a körözési nyilvántartó szerv a körözött személy személyazonosságának ellenőrzéséhez;
 

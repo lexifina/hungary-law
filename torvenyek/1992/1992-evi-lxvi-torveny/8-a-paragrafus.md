@@ -8,7 +8,7 @@ c) ellátja a menekült vagy oltalmazott jogállású személy utóbb megszerzet
 
 d) ellátja a 4. § (1) bekezdés c) pontja szerinti külföldön élő polgárok személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat;
 
-e) ellátja az értesítési cím tudomásul vételével összefüggő – jogszabályban meghatározott – hatósági feladatokat, valamint
+e)
 
 f) ellátja a jogszabályban hatáskörébe utalt egyéb hatósági feladatokat;
 

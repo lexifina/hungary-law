@@ -2,4 +2,6 @@
 
 (2) A személyazonosság igazolására alkalmas hatóságiigazolvány-kiadási eljárásban – személyazonosítás és személyazonosság igazolására alkalmas hatósági igazolványon történő feltüntetés céljából – az eljáró hatóság jogosult a polgár arcképmásának és saját kezű aláírásának megismerésére, illetve igénylésére.
 
+(2a) A közúti közlekedési nyilvántartó szerv, valamint a közlekedési igazgatási hatóság a vezetői engedély automatikus hivatalbóli kiállítása érdekében, a vezetőiengedély-kiállítás feltételeinek előzetes ellenőrzése céljából jogosult igényelni a nyilvántartást kezelő szervtől az automatikus hivatalbóli vezetői engedély megszemélyesítésére alkalmas arcképmás- és aláírás adat rendelkezésre állásának tényét.
+
 (3) A körözési nyilvántartó szerv a személyazonosító igazolvány adatainak a körözési nyilvántartási rendszerbe rögzítését megelőző ellenőrzése céljából jogosult átvenni a polgár 11. § (1) bekezdés a)–e) pontja szerinti adatait, valamint a polgár személyazonosító igazolványának okmányazonosítóját.

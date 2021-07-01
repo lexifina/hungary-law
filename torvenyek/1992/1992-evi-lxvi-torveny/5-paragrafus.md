@@ -36,9 +36,9 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 
 (14) A polgár anyja neve: a polgár anyja születési családi és utóneve.
 
-(15) Címjogosult: az a személy, aki az értesítési címként megadott címhely tekintetében az (5a) bekezdés értelmében szállásadónak minősül.
+(15)
 
-(16) Értesítési cím bejelentése: az értesítési cím nyilvántartásba vételének első alkalommal történő igénylése, a bejelentett értesítési cím megújítása, megváltoztatásának vagy törlésének kérése.
+(16)
 
 (17) Központi címregiszter: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott nyilvántartás.
 

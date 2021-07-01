@@ -50,4 +50,4 @@ b) a szabad mozgás és tartózkodás jogával rendelkező személy kivételéve
 
 c) a személyazonosítás célját szolgáló és jogosultságot igazoló egyéb okmányok kiadásával összefüggő eljárásra,
 
-d) az értesítési cím bejelentési eljárásra.
+d)

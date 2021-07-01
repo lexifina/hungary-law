@@ -26,13 +26,7 @@ c) jogszabályban meghatározott kivétellel a szállásadó nevét, szállásad
 
 (2) A polgár a személyazonosító igazolvány, valamint az egységes arcképmás- és aláírás-felvételezés iránti kérelem előterjesztésekor rendelkezésre bocsátja – és a jogszabályban foglaltak szerint igazolja – a 29. § (2) bekezdés a)–g) pontjában megjelölt adatait, és – ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan – saját kezű aláírását. Ha a polgár írásképtelen vagy írástudatlan, a kérelem aláírás rovatában a kiállító hatóság az „írásképtelen” megjelölést tünteti fel. A polgár a személyazonosító igazolvány iránti kérelem előterjesztésekor – a 29. § (9) bekezdésében foglaltak kivételével –rendelkezésre bocsátja az ujjnyomatát is.
 
-(3) A polgár az értesítési cím bejelentése során a következő adatokat közli a helyi nyilvántartó szervvel vagy a kijelölt kormányhivatallal:
-
-a) természetes személyazonosító adatait,
-
-b) értesítési címét, valamint
-
-c) a bejelentés időpontját.
+(3)
 
 (4) A külföldön élő magyar állampolgár külföldi lakóhely változásának bejelentése során a következő adatokat közli a kijelölt kormányhivatallal:
 

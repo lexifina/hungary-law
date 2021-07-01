@@ -18,7 +18,7 @@ g) a címek tekintetében a központi címregiszterből automatikus adatátvéte
 
 h) a helyi önkormányzat jegyzője (főjegyzője) által küldött értesítés a g) pontba nem tartozó, de a címnyilvántartás részét képező adatok vonatkozásában;
 
-i) a polgár értesítési címének bejelentése;
+i)
 
 j) a polgár adatai letiltására vagy helyesbítésére vonatkozó kérelme;
 

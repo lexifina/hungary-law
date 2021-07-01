@@ -52,7 +52,7 @@ s)
 
 (3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve számítógépes adathordozón tárolva – kezeli:
 
-a) az állandó személyazonosító igazolvány adatlapokat, kérelmeket és fényképeket, a lakcímbejelentő lapokat, valamint az értesítésicím-bejelentőlapot;
+a) az állandó személyazonosító igazolvány adatlapokat, kérelmeket és fényképeket, a lakcímbejelentő lapokat, valamint a 2021. július 1. napját megelőzően keletkezett értesítésicím-bejelentőlapot;
 
 b) a külföldi letelepedésre vonatkozó nyilatkozatot, valamint a külföldön élő magyar állampolgárok nyilvántartásba vételével és a külföldi lakóhely változás bejelentésével kapcsolatos iratokat;
 

@@ -1,4 +1,4 @@
-23. § E törvény felhatalmazása alapján az értesítési cím adatok és a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a 17. § (2) bekezdés c) pontja szerinti adatok igénylésére jogosult
+23. § E törvény felhatalmazása alapján a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a 17. § (2) bekezdés c) pontja szerinti adatok igénylésére jogosult
 
 a) a választási szerv a népszavazásról és az európai polgári kezdeményezésről szóló törvényben, valamint a választási eljárásról szóló törvényben meghatározott feladatai ellátásához,
 

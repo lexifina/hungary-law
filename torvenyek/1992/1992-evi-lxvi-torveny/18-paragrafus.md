@@ -6,7 +6,7 @@
 
 (4) Adatszolgáltatás helyett a kérelmező bármely járási hivatalnál és a kijelölt kormányhivatalnál igényelheti, hogy kapcsolatfelvétel céljából a járási hivatal vagy a kijelölt kormányhivatal az általa megjelölt személyt, személyi kört keresse meg, és
 
-a) kérje írásos hozzájárulását ahhoz, hogy név, lakcím és értesítési cím adatait a kérelmező rendelkezésére bocsáthassa, vagy
+a) kérje írásos hozzájárulását ahhoz, hogy név- és lakcím adatait a kérelmező rendelkezésére bocsáthassa, vagy
 
 b) arról értesítse, hogy a kérelmezőt közvetlenül keresse meg, ha vele a kapcsolatot fel kívánja venni.
 

@@ -1,4 +1,4 @@
-27. § (1) Az értesítési címet – annak bejelentésétől számított két éven belül – ismét be kell jelenteni, ha annak a nyilvántartásban való szerepeltetését a polgár továbbra is kéri. Az ismételt bejelentéssel való megújítás hiányában az értesítési címet a nyilvántartásból törölni kell.
+27. § (1)
 
 (2) A polgár tartózkodási helyének megszűnését bármely járási hivatalnál bejelentheti. A polgár tartózkodási helyének újabb tartózkodási hely létesítése nélküli megszüntetését elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti.
 

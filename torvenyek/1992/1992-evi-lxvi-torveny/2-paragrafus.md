@@ -8,4 +8,4 @@
 
 (5) A nyilvántartás szervei statisztikai célra – a népszámlálással kapcsolatos feladatok és a Központi Statisztikai Hivatal statisztikai célú adatkezelése kivételével – csak olyan módon szolgáltathatnak adatot, amellyel a polgár és az adat kapcsolata nem állítható helyre.
 
-(6) A nyilvántartás hatálya alá tartozó polgárok teljes körére — ha törvény másként nem rendelkezik — személyi, lakcím és értesítési cím adatokat csak a nyilvántartás szervei gyűjthetnek.
+(6) A nyilvántartás hatálya alá tartozó polgárok teljes körére — ha törvény másként nem rendelkezik — személyi- és lakcímadatokat csak a nyilvántartás szervei gyűjthetnek.

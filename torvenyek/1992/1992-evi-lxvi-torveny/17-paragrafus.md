@@ -6,9 +6,9 @@
 
 (2) A nyilvántartásból adatok az alábbi csoportosítás szerint szolgáltathatók:
 
-a) név, lakcím és értesítési cím adatok (felvilágosítás a lakcímről és az értesítési címről);
+a) név- és lakcím adatok (felvilágosítás a lakcímről);
 
-b) természetes személyazonosító adatok és lakcímadatok, értesítési cím adatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje;
+b) természetes személyazonosító adatok és lakcímadatok, állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye, a nem, a nyilvántartásból való kikerülés oka, helye és ideje;
 
 c) a b) pontban felsorolt adatok és a személyazonosító jel;
 
@@ -16,7 +16,7 @@ d) a 9. § (2) bekezdés i) pontja, a 11. § (1) bekezdés q) pontja és (4) bek
 
 e) természetes személyazonosító adatok és állampolgárság;
 
-f) természetes személyazonosító adatok, valamint a lakcím és értesítési cím adatok;
+f) természetes személyazonosító adatok, valamint a lakcím adatok;
 
 g) elhalálozás ténye, helye és ideje.
 
