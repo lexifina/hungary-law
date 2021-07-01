@@ -4,6 +4,6 @@
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a helyi esélyegyenlőségi program elkészítésében részt vevők képzését végző szervet.
 
-(4) Felhatalmazást kap a társadalmi felzárkózásért felelős miniszter, hogy a helyi esélyegyenlőségi program elkészítésének részletes szabályait rendeletben határozza meg.
+(4)
 
 (5)
