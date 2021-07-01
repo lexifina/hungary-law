@@ -28,11 +28,13 @@ kezeli.
 
 (4a) A Vizsgaközpont az e törvényben, valamint a hajózási képesítésekről szóló miniszteri rendeletben meghatározott vizsgáztatási tevékenységével összefüggésben jogosult a (4) bekezdés a) pontjában foglalt, valamint a hajózási képesítő vizsgára jelentkező és a vizsgát tett személy egészségi alkalmasságra vonatkozó adatait a vizsgára jelentkezéstől számítottan két évig, a vizsgára jelentkező és a vizsgát tett személy természetes személyazonosító adatait, képesítéssel kapcsolatos adatait kezelni és – ezek hitelességének utólagos igazolása céljából – nyilvántartani a vizsga letételét követő 40 évig.
 
+(4b) A személyiadat- és lakcímnyilvántartást kezelő szerv a vizsgaközpont adatkérése alapján az úszólétesítményen fedélzeti és gépüzemi szolgálatot ellátó személyek, továbbá a hajózási üzemeltetési vezetők, valamint a kedvtelési céllal közlekedő úszólétesítmény vezetői képzésén részt vevők, illetve ehhez kapcsolódóan vizsgára jelentkezők adatainak ellenőrzése céljából díjmentesen átadja a résztvevők, valamint jelentkezők természetes személyazonosító adatait.
+
 (5) A hajózási hatóság a büntetett előéletre, a foglalkozástól eltiltásra vagy a járművezetéstől eltiltásra vonatkozóan kezelt adatot
 
 a) a (4) bekezdés a) pontjában meghatározott esetben a Vizsgabiztosok Névjegyzékéből való törlésig,
 
-b) a (4) bekezdés b) pontjában meghatározott esetben a vizsga letételéig,
+b) a (4) bekezdés b) pontjában meghatározott esetben a vizsga letételéig, vagy a hajózási képesítéshez kötött foglalkozásától vagy járművezetéstől eltiltás hatályának lejáratáig
 
 c) a (4) bekezdés c) pontjában meghatározott esetben az engedély visszavonásáig vagy hatályának lejártáig
 
