@@ -1,11 +1,3 @@
-## 2. § Az R. a következő 21. §-sal egészül ki:
+3. §[^4]
 
-## „21. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 383/2021. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 1. § (3)–(5) bekezdését, 3. § (3) bekezdését, 6. § (1) bekezdés a) alpontját, 7/L. §-át, 2. mellékletében foglalt táblázat 19. sorát és a 3. mellékletében foglalt táblázat 3. sorát a Módr13. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
-
-## 3. § Az R.
-
-a) 2. melléklete az 1. melléklet,
-
-b) 3. melléklete a 2. melléklet
-
-szerint módosul.
+[^4]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
