@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-485-20-
 | 2021-03-28 | 2020-485-20-22.10 | 571/2020. (XII. 9.) Korm. rendelet |
 | 2021-05-01 | 2020-485-20-22.11 | 105/2021. (III. 5.) Korm. rendelet |
 | 2021-05-28 | 2020-485-20-22.12 | 32/2021. (I. 29.) Korm. rendelet |
+| 2021-07-01 | 2020-485-20-22.13 | 505/2020. (XI. 17.) Korm. rendelet |

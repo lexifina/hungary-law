@@ -20,11 +20,13 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 
 (5b)[^59] Ha a munkaadó a fővárosi és megyei kormányhivatal által megállapított visszafizetési kötelezettségének a visszafizetési kötelezettség megállapításától számított harmincadik napig eleget tesz, részére további, a visszafizetési kötelezettséghez kapcsolódó szankció nem kerül megállapításra.
 
+(5c)[^60] A munkaadó a visszafizetési kötelezettség megállapításától számított harmincadik napig fizetési moratórium iránti kérelmet nyújthat be, amely alapján a fővárosi és megyei kormányhivatal 2022. május 31. napjában állapítja meg a visszakövetelés napját, és ettől az időponttól számítva három hónap időtartamra járó részletfizetési kedvezményt biztosít.
+
 (6) A támogatásra az Flt. és a végrehajtási rendeleteinek szabályait a jelen alcímben és a munkaerőpiaci programban foglalt eltérésekkel kell alkalmazni.
 
 (7) A támogatás a XLVII. Gazdaságvédelmi Alap fejezet, 2. Nemzeti Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható.
 
-(7a)[^60] Az e § szerinti támogatás a 2021. évben a XLVII. Gazdaságvédelmi Alap fejezet, 4. Gazdaságvédelmi Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható.
+(7a)[^61] Az e § szerinti támogatás a 2021. évben a XLVII. Gazdaságvédelmi Alap fejezet, 4. Gazdaságvédelmi Foglalkoztatási Alap cím, 15. Munkahely-megtartási program alcímből nyújtható.
 
 (8) A támogatás az átmeneti közlemény 3. 10. szakasza szerinti támogatást tartalmaz.
 
@@ -38,4 +40,5 @@ b) a munkaadó a munkavállaló részére a munkabért megfizeti.
 [^57]: A 14. § (5) bekezdése az 571/2020. (XII. 9.) Korm. rendelet 5. § d) pontja, a 32/2021. (I. 29.) Korm. rendelet 3. § c) pontja, a 43/2021. (II. 2.) Korm. rendelet 3. §-a, a 86/2021. (II. 27.) Korm. rendelet 2. § c) pontja, a 147/2021. (III. 27.) Korm. rendelet 2. § d) pontja, a 204/2021. (IV. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^58]: A 14. § (5a) bekezdését a 43/2021. (II. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^59]: A 14. § (5b) bekezdését a 43/2021. (II. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^60]: A 14. § (7a) bekezdését a 32/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 285/2021. (V. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^60]: A 14. § (5c) bekezdését a 370/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^61]: A 14. § (7a) bekezdését a 32/2021. (I. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 285/2021. (V. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.
