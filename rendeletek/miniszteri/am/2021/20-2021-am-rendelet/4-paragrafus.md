@@ -1,3 +1,13 @@
-## 3. §[^3]
+## 4. § Az engedélyköteles létesítmény engedélye határozatlan időre szól, és tartalmazza
 
-[^3]: A 3. § a 8. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+a) az élelmiszer-vállalkozó adatait,
+
+b) az engedélyköteles létesítmény címét,
+
+c) az engedélyköteles létesítményben végezhető tevékenységeket,
+
+d) állati eredetű termék előállítása esetén a tevékenységhez kapcsolódó állatfajokat,
+
+e) a csírákat termelő létesítmény kivételével az engedélyköteles létesítmény engedélyezési számát, valamint
+
+f) tevékenységenként a napi, a heti és az éves termelési kapacitást.
