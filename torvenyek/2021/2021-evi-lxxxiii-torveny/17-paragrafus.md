@@ -1,3 +1,1 @@
-17. § A szakképzésről szóló 2019. évi LXXX. törvény 46. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az állami szakképző intézményben az igazgató kiválasztása nyilvános pályázat útján történik. A pályázat mellőzhető, ha az igazgató ismételt megbízásával a fenntartó és az oktatói testület legalább kétharmada egyetért vagy újonnan létesített szakképző intézmény esetén a szervezési feladatok ellátása érdekében ez indokolt. Egyetértés hiányában, illetve az igazgató harmadik és további megbízási ciklusát megelőzően a pályázat kiírása kötelező. A szervezési feladatok ellátására adott megbízás legfeljebb a következő tanév utolsó napjáig terjedő időszakra szólhat.”
+17. §

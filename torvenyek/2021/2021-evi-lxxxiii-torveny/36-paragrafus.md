@@ -1,6 +1,4 @@
-36. § (1) A szakképzésről szóló 2019. évi LXXX. törvény 128. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A 2022. adóévben a 108. § (2) bekezdésének az adóelőleg megfizetésekor hatályos rendelkezése szerinti előleget utoljára 2022. május hónapra vonatkozóan kell megfizetni azzal, hogy a 2022. adóévben befizetett előleg és a 2022. január–június hónapra vonatkozó nettó kötelezettség különbözetét 2022. július 12-éig kell megfizetni, illetve visszaigényelni. A szakképzési hozzájárulásból 2022. július 31-éig befolyt bevétel az Alapot illeti meg.”
+36. § (1)
 
 (2) A szakképzésről szóló 2019. évi LXXX. törvény 128. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
 
@@ -8,6 +6,4 @@
 
 (5b) A bruttó kötelezettségét a MódTv1.-gyel megállapított 107. § (2) bekezdés a) pontja szerinti mérték hetven százalékával csökkentheti a régi Szkt. szerinti gyakorlati képzést folytató szervezet az általa a régi Szkt. szerint kötött olyan együttműködési megállapodásra tekintettel, amely a gyakorlati képzési kötelezettséget a 125. § (3) bekezdése szerinti tanulóra vonatkozóan az érintett tanuló családi és utónevének és oktatási azonosító számának megjelölésével konkrétan meghatározza. Az adóév munkanapjai közül csak azon napok vehetők figyelembe, amelyek átlagában a gyakorlattal lefedett időszak eléri a napi hét órát. A bruttó kötelezettség csökkentésénél alkalmazandó súlyszorzó mértéke 1,0.”
 
-(3) A szakképzésről szóló 2019. évi LXXX. törvény 128. §-a a következő (8a) bekezdéssel egészül ki:
-
-„(8a) A MódTv1.-gyel megállapított 22. § (1a) bekezdését a 2021. szeptember 1-jén és az azt követően alapított szakképző intézményre kell alkalmazni.”
+(3)
