@@ -1,6 +1,6 @@
-## 5. § Ez a rendelet 2019. december 1-jén lép hatályba.
+## 6. §[^5] A hitelintézet és az ezen típusú EGT-fióktelep az adatszolgáltatást a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 46/2020. (XI. 20.) MNB rendelet 1. mellékletével módosított 1. mellékletben meghatározott adattartalommal és a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 46/2020. (XI. 20.) MNB rendelet 2. mellékletével módosított 2. mellékletben foglalt kitöltési előírások szerint első alkalommal 2021. szeptember hónapra mint tárgyidőszakra vonatkozóan jelenti.
 
-1. melléklet a 35/2018. (XI. 13.) MNB rendelethez
+1. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^6]
 
 Az adatszolgáltatás részletes adattartalma
 
@@ -84,9 +84,9 @@ Az adatszolgáltatás részletes adattartalma
 
 | 24. | Az instrumentum projekthitel-e? |
 
-| 25. | Induló ügyleti kamat = szerződéses kamatláb |
+| 25. | A kerethez kapcsolódó, annak megnyitása során felmerült mérlegtételek |
 
-| 26. | Évesített kamatláb – új szerződésekre vonatkozó |
+| 26. | Keret egyéb jellemzője |
 
 4. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
@@ -188,7 +188,7 @@ Az adatszolgáltatás részletes adattartalma
 
 | 48. | Az instrumentum belső hitel-e? |
 
-| 49. | Az instrumentum Minősített Fogyasztóbarát Lakáshitel minősítéssel rendelkező hitel-e? |
+| 49. | Az instrumentum az MNB fogyasztóbarát minősítésével rendelkező hitel-e? |
 
 | 50. | Az instrumentum kombinált hitel-e? |
 
@@ -256,13 +256,13 @@ Az adatszolgáltatás részletes adattartalma
 
 | 82. | Hitelbírálatkori hitelfedezeti arány (LTV) |
 
-| 83. | Aktuális (mérlegen belüli) kitettségérték |
+| 83. | Aktuális kitettségérték |
 
-| 84. | Aktuális (mérlegen belüli) kitettségérték – devizanem |
+| 84. | Aktuális kitettségérték – devizanem |
 
-| 85. | Mérlegen kívüli kitettségérték |
+| 85. | Várható hitelezési veszteség alapján származtatott kitettségérték |
 
-| 86. | Mérlegen kívüli kitettségérték – devizanem |
+| 86. | Várható hitelezési veszteség alapján származtatott kitettségérték – devizanem |
 
 | 87. | A hitelkockázat változásából származó valósérték-változás halmozott összege |
 
@@ -366,7 +366,7 @@ Az adatszolgáltatás részletes adattartalma
 
 | 137. | Késedelmi kamat, díjak mértéke |
 
-| 138. | Kamat periódus hossza – egyszeri |
+| 138. | Szerződéskötés és indulás napja eltérésének oka |
 
 | 139. | Kamat periódus hossza – aktuális |
 
@@ -402,7 +402,7 @@ Az adatszolgáltatás részletes adattartalma
 
 | 155. | Az ügyfél csak kamatot törleszt-e? |
 
-| 156. | Kamatmentes periódus vége |
+| 156. | Csak kamatfizetési periódus vége |
 
 | 157. | Moratórium tárgya |
 
@@ -436,7 +436,7 @@ Az adatszolgáltatás részletes adattartalma
 
 | 172. | CRR szerinti nemteljesítés (default) jelzője |
 
-| 173. | Kombinált termék esetén a nem hiteltermék késedelmes-e? |
+| 173. | A megtakarítási rész késedelmes napjainak száma (kombinált termék esetén) |
 
 | 174. | Felmondás dátuma |
 
@@ -455,6 +455,10 @@ Az adatszolgáltatás részletes adattartalma
 | 181. | Kitöltetlen JTM oka |
 
 | 182. | Hitelfedezeti mutató |
+
+| 183. | Ügynök azonosítója |
+
+| 184. | Ügynöki jutalék összege forintban |
 
 5. INSTM Instrumentum – megszűnés
 
@@ -506,19 +510,19 @@ Az adatszolgáltatás részletes adattartalma
 
 | 3. | Instrumentum (nem speciális keret és nem keret) szervezeti azonosító |
 
-| 4. | Az instrumentum banki könyvben szerepel-e? |
+| 4. | Minősítő modell (ügyfélminősítési tool) megnevezése |
 
 | 5. | Prudenciális portfólió (kereskedési könyvben szerepel-e?) |
 
-| 6. | COREP szegmens |
+| 6. | Kockázati (risk) szegmens |
 
 | 7. | Kockázati súly (RWA-hoz) |
 
-| 8. | Nemteljesítéskori veszteségráta (LGD) |
+| 8. | Tőkeszámítás során alkalmazott nemteljesítéskori veszteségráta (LGD) |
 
-| 9. | Hitelegyenértékesítési tényező (CCF) |
+| 9. | Tőkeszámítás során alkalmazott hitelegyenértékesítési tényező (CCF) |
 
-| 10. | Nemteljesítési valószínűség (PD) |
+| 10. | Tőkeszámítás során alkalmazott nemteljesítési valószínűség (PD) |
 
 | 11. | Pillér I. tőkekövetelmény |
 
@@ -533,6 +537,12 @@ Az adatszolgáltatás részletes adattartalma
 | 16. | Pillér I. alatti végső kockázattal súlyozott kitettségérték forintban |
 
 | 17. | Várható veszteség értéke forintban |
+
+| 18. | Várható hitelezési veszteség alapján származtatott nemteljesítéskori veszteségráta (LGD) |
+
+| 19. | Tényleges hitelegyenértékesítési tényező (CCF) |
+
+| 20. | Várható hitelezési veszteség alapján származtatott nemteljesítési valószínűség (PD) |
 
 7. INST_UGYF Instrumentum – ügyfél
 
@@ -569,6 +579,10 @@ Az adatszolgáltatás részletes adattartalma
 | 15. | Rendelkezésre álló ügyfélszintű keret az időszak végén – devizanem |
 
 | 16. | Ügyfélváltozás oka |
+
+| 17. | Iskolai végzettség |
+
+| 18. | Az ügyfél új ügyfél-e? |
 
 8. FEDE Fedezet – eredeti
 
@@ -672,49 +686,61 @@ Az adatszolgáltatás részletes adattartalma
 
 | 4. | Instrumentum (nem speciális keret és nem keret) szervezeti azonosító |
 
-| 5. | Fedezet allokált értéke (tőkeszámításhoz) |
+| 5. | Fedezet allokált piaci értéke – tőkeszámításhoz |
 
-| 6. | Tőkeszámításhoz használt allokált érték típusa |
+| 6. | Fedezet allokált hitelbiztosítéki értéke – tőkeszámításhoz |
 
-| 7. | Fedezet allokált értéke (értékvesztéshez) |
+| 7. | Fedezet allokált fedezeti értéke – tőkeszámításhoz |
 
-| 8. | Értékvesztés számításához használt allokációnál figyelembe vett érték típusa |
+| 8. | Fedezet allokált likvidációs értéke – tőkeszámításhoz |
 
-| 9. | Fedezet allokált értékek – devizanem |
+| 9. | Fedezet allokált (egyéb) értéke – tőkeszámításhoz |
 
-| 10. | Mérlegen belüli kintlévőségre elismerhető fedezet értéke (bruttó kintlévőségre allokált érték) |
+| 10. | Fedezet allokált piaci értéke – értékvesztésképzéshez |
 
-| 11. | Mérlegen belüli kintlévőségre elismerhető fedezet értéke (bruttó kintlévőségre allokált érték) – devizanem |
+| 11. | Fedezet allokált hitelbiztosítéki értéke – értékvesztésképzéshez |
 
-| 12. | Fedezet befogadásának dátuma |
+| 12. | Fedezet allokált fedezeti értéke – értékvesztésképzéshez |
 
-| 13. | A fedezet kockázat csökkentő értékkel bír-e? |
+| 13. | Fedezet allokált likvidációs értéke – értékvesztésképzéshez |
 
-| 14. | A fedezet a hitelfedezeti mutató számításához figyelembe vett fedezet-e? |
+| 14. | Fedezet allokált (egyéb) értéke – értékvesztésképzéshez |
 
-| 15. | A fedezet ingatlannyilvántartási ranghelye |
+| 15. | Fedezet allokált értéke – devizanem |
 
-| 16. | A fedezet ingatlannyilvántartási ranghelye kikötésének értéke |
+| 16. | Mérlegen belüli kintlévőségre elismerhető fedezet értéke (bruttó kintlévőségre allokált érték) |
 
-| 17. | A fedezet ingatlannyilvántartási ranghelye kikötésének értéke – devizanem |
+| 17. | Mérlegen belüli kintlévőségre elismerhető fedezet értéke (bruttó kintlévőségre allokált érték) – devizanem |
 
-| 18. | A fedezetet megelőző terhek értéke |
+| 18. | Fedezet befogadásának dátuma |
 
-| 19. | A fedezetet megelőző terhek értéke – devizanem |
+| 19. | A fedezet kockázat csökkentő értékkel bír-e? |
 
-| 20. | Jelzálogjog bejegyzésének dátuma |
+| 20. | A fedezet a hitelfedezeti mutató számításához figyelembe vett fedezet-e? |
 
-| 21. | A fedezet a pénzügyi lízing instrumentum tárgyát képezi? |
+| 21. | A fedezet ingatlannyilvántartási ranghelye |
 
-| 22. | A fedezethez tartozó jog típusa |
+| 22. | A fedezet ingatlannyilvántartási ranghelye kikötésének értéke |
 
-| 23. | Jelzálogjog típusa |
+| 23. | A fedezet ingatlannyilvántartási ranghelye kikötésének értéke – devizanem |
 
-| 24. | Fedezet figyelembe vehetőségének határideje az adott instrumentum vonatkozásában |
+| 24. | A fedezetet megelőző terhek értéke |
 
-| 25. | Fedezet elfogadhatósági jelölés befogadáskor |
+| 25. | A fedezetet megelőző terhek értéke – devizanem |
 
-| 26. | Fedezet elfogadhatósági jelölés (aktuális) |
+| 26. | Jelzálogjog bejegyzésének dátuma |
+
+| 27. | A fedezet a pénzügyi lízing/hitelkövetelés tárgyát képezi-e? |
+
+| 28. | A fedezethez tartozó jog típusa |
+
+| 29. | Jelzálogjog típusa |
+
+| 30. | Fedezet figyelembe vehetőségének határideje az adott instrumentum vonatkozásában |
+
+| 31. | Fedezet elfogadhatósági jelölés befogadáskor |
+
+| 32. | Fedezet elfogadhatósági jelölés (aktuális) |
 
 11. FED_UGYF Fedezet – ügyfél
 
@@ -952,6 +978,8 @@ Az adatszolgáltatás részletes adattartalma
 
 | 30. | Külföldi vállalatközpont vállalkozás külföldi azonosítója |
 
+| 31. | A vállalkozás szektora |
+
 19. UGYFBVTN Ügyfél – belföldi vállalkozás – törzsszámmal nem rendelkező vállalkozások
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -1116,7 +1144,7 @@ Az adatszolgáltatás részletes adattartalma
 
 | 11. | CRR szerinti nemteljesítés (default) oka |
 
-| 12. | CRR szerinti nemteljesítő (default) státuszba történő utolsó besorolás dátuma |
+| 12. | CRR szerinti ügyfélminősítés utolsó időpontja |
 
 | 13. | Ügyfél nemteljesítési valószínűsége (PD) |
 
@@ -1163,3 +1191,70 @@ Az adatszolgáltatás részletes adattartalma
 | 19. | Hitelbírálat során figyelembe vett összes jövedelem – devizanem |
 
 | 20. | A hitelfelvételkor a hitelnyújtó rendelkezett-e az ügyfél hozzájárulásával a KHR-ben tárolt adatok átadásához? |
+
+23. ESRB Az ERKT/2019/3 ajánlással módosított ERKT/2016/14 ajánlásban meghatározott ingatlanokra vonatkozó mutatók
+
+| Attribútum sorszáma | Attribútum megnevezése |
+
+| 1. | Megfigyelt szervezet azonosító |
+
+| 2. | Instrumentum szervezeti azonosító |
+
+| 3. | Hitelnyújtáskori kamatfedezeti mutató (ICR-O) |
+
+| 4. | Hitelnyújtáskori éves kamatköltség – lakóingatlan |
+
+| 5. | Hitelnyújtáskori éves kamatköltség – lakóingatlan – devizanem |
+
+| 6. | Hitelnyújtáskori hitel-bérleti díj arány (LTR-O) |
+
+| 7. | Hitelnyújtáskori bruttó éves bérletidíj-bevétel |
+
+| 8. | Hitelnyújtáskori bruttó éves bérletidíj-bevétel – devizanem |
+
+| 9. | Első ingatlan vásárlása-e? |
+
+| 10. | Lakóingatlan vásárlásának célja |
+
+| 11. | Aktuális hitelfedezeti arány (LTV-C) |
+
+| 12. | Hitel-költség arány (LTC) |
+
+| 13. | Fejlesztési költség |
+
+| 14. | Fejlesztési költség – devizanem |
+
+| 15. | Hitelnyújtáskori nettó éves bevétel |
+
+| 16. | Hitelnyújtáskori nettó éves bevétel – devizanem |
+
+| 17. | Aktuális nettó éves bevétel |
+
+| 18. | Aktuális nettó éves bevétel – devizanem |
+
+| 19. | Hitelnyújtáskori éves adósságszolgálat |
+
+| 20. | Hitelnyújtáskori éves adósságszolgálat – devizanem |
+
+| 21. | Aktuális éves adósságszolgálat |
+
+| 22. | Aktuális éves adósságszolgálat – devizanem |
+
+| 23. | Hitelnyújtáskori kamatfedezeti mutató (ICR-O) |
+
+| 24. | Aktuális adósságszolgálati fedezeti mutató (DSCR-C) |
+
+| 25. | Aktuális kamatfedezeti mutató (ICR-C) |
+
+| 26. | Hitelnyújtáskori éves kamatköltség – kereskedelmi ingatlan |
+
+| 27. | Hitelnyújtáskori éves kamatköltség – kereskedelmi ingatlan – devizanem |
+
+| 28. | Aktuális éves kamatköltség |
+
+| 29. | Aktuális éves kamatköltség – devizanem |
+
+| 30. | A hitelezett kereskedelmi ingatlan elhelyezkedése |
+
+[^5]: A 6. §-t a 46/2020. (XI. 20.) MNB rendelet 3. §-a iktatta be.
+[^6]: Az 1. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (1) bekezdése szerint módosított szöveg.
