@@ -36,7 +36,7 @@ c) a településképi véleményezési, a településképi bejelentési és a te
 
 d) azon – jogszabályban építésügyi hatósági engedélyhez kötött – építési tevékenységek körét, amelyek megkezdését településképi véleményezési eljáráshoz köti,
 
-e) azon – jogszabályban építésügyi hatósági engedélyhez és az Étv. 33/A. § szerint egyszerű bejelentéshez nem kötött – építési tevékenységek, rendeltetésváltoztatások és reklámelhelyezések körét, amelyek megkezdését településképi bejelentési eljáráshoz köti,
+e) azon – jogszabályban építésügyi hatósági engedélyhez és az Étv. 33/A. § szerint egyszerű bejelentéshez nem kötött – építési tevékenységek, az Étv. 57/F. § hatálya alá nem tartozó rendeltetésmódosítások és a reklámelhelyezések körét, amelyek megkezdését településképi bejelentési eljáráshoz köti,
 
 f) a településképi kötelezettség megszegése és végrehajtása esetén alkalmazható bírság esetköreit, a törvény keretei közötti mértékét, kiszabásának és behajtásának módját,
 
@@ -46,6 +46,6 @@ h) a helyi önkormányzat illetékességi területén létesíthető reklámhord
 
 (3) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait.
 
-(4) Felhatalmazást kap az önkormányzat, hogy a széleskörű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapítsa meg a településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök, a kézikönyv és a településképi rendelet készítéséhez, módosításához a lakosság, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (partnerek) történő (partnerségi) egyeztetés részletes szabályait.
+(4) Felhatalmazást kap az önkormányzat, hogy a széleskörű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapítsa meg a településterv, a kézikönyv és a településképi rendelet készítéséhez, módosításához a lakosság, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (partnerek) történő (partnerségi) egyeztetés részletes szabályait.
 
 (5) Felhatalmazást kap az önkormányzat településképi rendelet hiányában, a reklámok, reklámhordozók és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról és a településképi bejelentési eljárásról szóló önkormányzati rendeletnek – a településkép védelméről szóló 2016. évi LXXIV. törvény módosításáról szóló 2016. évi CLXXIV. törvénnyel (a továbbiakban: Módtv.) és a végrehajtására kiadott jogszabályokkal való összhang biztosítása érdekében történő – megalkotására és módosítására.

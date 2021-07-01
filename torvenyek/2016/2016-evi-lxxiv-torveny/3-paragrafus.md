@@ -2,9 +2,9 @@
 
 3. § (1) A településképi rendelet
 
-a) az építési tevékenységgel érintett építmények – ideértve a sajátos építményfajtákat is – településképhez való illeszkedését biztosító anyaghasználatára, tömegformálására, homlokzati kialakítására és a zöldfelületek kialakításának módjára,
+a) a település teljes közigazgatási területére, részterületére vagy a – településszerkezet, táji környezet, településkarakter vagy egyéb helyi adottság miatt – településképi szempontból meghatározó területekre, az építési tevékenységgel érintett építmények – ideértve a sajátos építményfajtákat is – településképhez való illeszkedését biztosító anyaghasználatára, tömegformálására, homlokzati kialakítására és a zöldfelületek kialakításának módjára,
 
-b) a – településszerkezet, táji környezet, településkarakter vagy egyéb helyi adottság miatt – településképi szempontból meghatározó területekre,
+b)
 
 c) az Étv. szerinti helyi építészeti örökség egyedi és területi védelmére, védetté nyilvánítására és a védettség megszüntetésére,
 

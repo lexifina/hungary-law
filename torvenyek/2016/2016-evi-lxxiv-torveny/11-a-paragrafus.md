@@ -16,6 +16,6 @@ helyezhető el.
 
 a) a reklámok tartalmi megítélésére vonatkozó, valamint
 
-b) a közúti közlekedési tárgyú jogszabályokban a reklámok közúton és annak környezetében történő közzétételének feltételeiről megállapított rendelkezésektől eltérő
+b) a közúti közlekedési tárgyú jogszabályokban a reklámok közúton és annak környezetében történő közzétételének, valamint az életmentő funkciót ellátó reklámcélú eszközök elhelyezésének feltételeiről megállapított rendelkezésektől eltérő
 
 szabályokat.

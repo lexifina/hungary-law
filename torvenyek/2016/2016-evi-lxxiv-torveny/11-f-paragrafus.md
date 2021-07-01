@@ -16,4 +16,4 @@ c) a járművön, valamint tájékozódást segítő jelzést megjelenítő rekl
 
 d) a tulajdonos által az ingatlanán elhelyezett, annak elidegenítésére vonatkozó ajánlati felhívást (hirdetést), valamint a helyi önkormányzat által lakossági apróhirdetések közzétételének megkönnyítése céljából biztosított táblán vagy egyéb felületen elhelyezett, kisméretű hirdetéseket;
 
-4. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt az e törvény szerinti reklám közzétételét, illetve elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény.
+4. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt az e törvény szerinti reklám közzétételét, illetve elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény; ide nem értve a közúti közlekedési tárgyú jogszabályokban meghatározott életmentő funkciót ellátó reklámcélú eszközt.
