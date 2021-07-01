@@ -4,7 +4,7 @@
 
 (3) Az átadás során a szervező nyilatkozhat arról, hogy a népszavazási kezdeményezését visszavonja.
 
-(4) A (2) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után ezer forint.
+(4) A (2) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki a 18. § (2) bekezdésében foglaltaknak megfelelően.
 
 (5) Az (1) bekezdés szerinti szünetelés esetén
 

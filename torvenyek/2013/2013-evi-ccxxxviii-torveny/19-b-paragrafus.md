@@ -10,7 +10,7 @@ c) népszavazási kezdeményezését visszavonja.
 
 (3) A (2) bekezdésben meghatározott nyilatkozattételi kötelezettség elmulasztása esetén a népszavazási kezdeményezést visszavontnak kell tekinteni.
 
-(4) Az (1) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után ezer forint.
+(4) Az (1) bekezdésben meghatározott kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki a 18. § (2) bekezdésében foglaltaknak megfelelően.
 
 (5) A felfüggesztő benyújtási határidőt követő naptól az Országgyűlés – a 23. § (3) bekezdése szerinti tájékoztatás alapján – a 25. § (2) bekezdése szerinti, az Alaptörvény 8. cikk (1) bekezdés második mondata alapján a népszavazást el nem rendelő döntéséig a 14. § (1) bekezdése szerinti határidő szünetel.
 
