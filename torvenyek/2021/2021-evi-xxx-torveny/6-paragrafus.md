@@ -1,1 +1,1 @@
-6. § Hatályát veszti a Magyar Népköztársaság Kormánya és a Svéd Királyság Kormánya között a beruházások elősegítéséről és kölcsönös védelméről szóló megállapodás kihirdetéséről szóló 25/1987. (VII. 28.) MT rendelet.
+6. §
