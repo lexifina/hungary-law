@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-442-20-
 | 2021-01-01 | 2012-442-20-22.11 | 724/2020. (XII. 31.) Korm. rendelet |
 | 2021-04-01 | 2012-442-20-22.12 | 158/2021. (III. 31.) Korm. rendelet |
 | 2021-06-22 | 2012-442-20-22.13 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2021-07-01 | 2012-442-20-22.14 | 30/2017. (II. 13.) Korm. rendelet |

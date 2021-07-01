@@ -22,13 +22,13 @@ c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyaszt�
 
 5a.[^3] forgási ciklus: az újrahasználható csomagolás útja attól az időponttól, amikor forgalomba hozzák azon áruval együtt, amelynek tárolására, védelmére, kezelésére, szállítására vagy prezentálására szánják, addig az időpontig, amikor olyan csomagolások újrahasználatát célzó rendszerbe kerül, amelynek célja újra forgalomba hozni a csomagolást az áruval együtt;
 
-5b.[^4] könnyű műanyag zacskó: olyan műanyag zacskó, amelynek falvastagsága 50 mikronnál kevesebb;
+5b.[^4] könnyű műanyag hordtasak: a Ktdt. szerinti fogalom;
 
-5c.[^5] műanyag: a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikk 5. pontja értelmében vett polimer, amely alkalmas a műanyag zacskók fő szerkezeti alkotóelemeként való felhasználásra, és amelyhez esetleg adalékanyagokat vagy egyéb anyagokat is adtak;
+5c.[^5] műanyag: a Ktdt. szerinti fogalom;
 
-5d.[^6] műanyag zacskó: olyan fogófüllel ellátott vagy fogófül nélküli, műanyagból készült hordozható zacskó, amelyet az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére;
+5d.[^6] műanyag hordtasak: olyan, műanyagból készült, fogófüllel ellátott vagy fogófül nélküli, hordtasak, amelyet az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére;
 
-5e.[^7] nagyon könnyű műanyag zacskó: olyan műanyag zacskó, amelynek falvastagsága 15 mikronnál kevesebb, és amelynek felhasználása higiéniai célokat szolgál, vagy amelyet ömlesztett élelmiszerek elsődleges csomagolására használnak azokban az esetekben, amikor az segít megelőzni az élelmiszer-pazarlást;
+5e.[^7] nagyon könnyű műanyag hordtasak: a Ktdt. szerinti fogalom;
 
 6. nehézfém: az ólom, a kadmium, a higany és a hat vegyértékű króm;
 
@@ -36,7 +36,7 @@ c) a szállítási vagy harmadlagos csomagolás, amely megkönnyíti a fogyaszt�
 
 8. nehézfém véletlen jelenléte: a nehézfém csomagolásban vagy annak összetevőjében nem szándékos hozzáadás következtében való jelenléte;
 
-9.[^8] oxidatív úton aprózódó műanyag zacskó: olyan, az áruk vagy termékek értékesítési pontján a fogyasztók részére biztosított, adalékanyagokat tartalmazó, műanyagból készült zacskó, amely elősegíti a műanyag mikroméretű műanyagrészecskékre történő széttöredezését.
+9.[^8] oxidatív úton aprózódó műanyag hordtasak: olyan, az áruk vagy termékek értékesítési pontján a fogyasztók részére biztosított, adalékanyagokat tartalmazó, műanyagból készült hordtasak, amely elősegíti a műanyag mikroméretű műanyagrészecskékre történő széttöredezését.
 
 9a.[^9] társított (kompozit) csomagolás: olyan csomagolás, amely különböző anyagok kézi erővel szét nem választható két vagy több rétegéből áll, egyetlen integrált egységet képezve, amely egy belső tartályból és egy külső burkolatból áll, amelyet ennek megfelelően töltenek meg, tárolnak, szállítanak és ürítenek ki;
 
@@ -52,22 +52,22 @@ b) az értékesítés helyén történő megtöltésre tervezett és szánt áru
 
 (4)[^13] A csomagolásnak minősülő, illetve a csomagolásnak nem minősülő tételeket (szemléltető példákat) az 1. melléklet tartalmazza.
 
-(5)[^14] A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény (a továbbiakban: Ktdt.) 2. § 25. pontja szerinti hajlékonyfalú műanyag hordtasaknak vagy hordtáskának minősül az e rendelet szerinti műanyag zacskó, a könnyű műanyag zacskó, valamint az oxidatív úton aprózódó műanyag zacskó.
+(5)[^14]
 
-(6)[^15] Nem minősül a Ktdt. 2. § 25. pontja szerinti hajlékonyfalú műanyag hordtasaknak vagy hordtáskának az e rendelet szerinti nagyon könnyű műanyag zacskó.
+(6)[^15]
 
 [^1]: A 2. § (1) bekezdés 1. pont nyitó szövegrésze az 534/2013. (XII. 30.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 4a. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (1) bekezdése iktatta be.
 [^3]: A 2. § (1) bekezdés 5a. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § (1) bekezdés 5b. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdés 5c. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § (1) bekezdés 5d. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § 5e. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdés 9. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés 5b. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdés 5c. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés 5d. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^7]: A 2. § 5e. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege ugyanezen módosító rendelet 8. §-ával megállapított szöveg.
+[^8]: A 2. § (1) bekezdés 9. pontját a 30/2017. (II. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^9]: A 2. § (1) bekezdés 9a. pontját a 158/2021. (III. 31.) Korm. rendelet 2. §-a iktatta be.
 [^10]: A 2. § (1) bekezdés 10. pontját a 724/2020. (XII. 31.) Korm. rendelet 7. § (3) bekezdése iktatta be.
 [^11]: A 2. § (2) bekezdése az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (3) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^13]: A 2. § (4) bekezdését az 534/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^14]: A 2. § (5) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^15]: A 2. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^14]: A 2. § (5) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.
+[^15]: A 2. § (6) bekezdését a 30/2017. (II. 13.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte a 724/2020. (XII. 31.) Korm. rendelet 13. § a) pontja.
