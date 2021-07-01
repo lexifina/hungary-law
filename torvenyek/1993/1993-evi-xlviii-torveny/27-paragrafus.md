@@ -2,7 +2,7 @@
 
 27. § (1) A feltárási, kitermelési, föld alatti gáztárolási és meddőhányó-hasznosítási tevékenységet jóváhagyott műszaki üzemi terv szerint kell végezni.
 
-(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a 26/A. § (3a) bekezdése szerint megállapított bányateleknél, illetve horizontálisan bővített bányatelekrésznél a településrendezési eszközökben foglaltaknak való megfelelést.
+(2) A műszaki üzemi tervet a műszaki-biztonsági, az egészségvédelmi, a tűzvédelmi szabályok és az ásványvagyon-gazdálkodási, a vízgazdálkodási, valamint a környezet-, természet- és tájvédelmi követelmények figyelembevételével úgy kell elkészíteni, hogy az biztosítsa az élet, az egészség, a felszíni és a föld alatti létesítmények, valamint a mező- és erdőgazdasági rendeltetésű földek megóvását, a bányakárok, a környezeti-természeti károk lehetséges megelőzését, illetve csökkentését, továbbá a 26/A. § (3a) bekezdése szerint megállapított bányateleknél, illetve horizontálisan bővített bányatelekrésznél a településrendezési tervben foglaltaknak való megfelelést.
 
 (3) A műszaki üzemi tervet a bányafelügyelet a (2) bekezdésben meghatározott szempontokra és az ingatlan-igénybevételi ütemtervre figyelemmel hagyja jóvá.
 

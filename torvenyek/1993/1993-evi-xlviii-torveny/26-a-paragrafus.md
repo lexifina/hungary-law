@@ -12,7 +12,7 @@ c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát 
 
 d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
 
-(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek, és a bányászati tevékenység befejezését követő, a bányászattal igénybe vett területekre vonatkozó újrahasznosítási cél a településrendezési eszközökben foglaltaknak megfelel.
+(3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek, és a bányászati tevékenység befejezését követő, a bányászattal igénybe vett területekre vonatkozó újrahasznosítási cél a településrendezési tervben foglaltaknak megfelel.
 
 (4) A bányavállalkozó a bányatelek megállapításától számított 5 éven, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 éven, közös államhatár mentén lévő szénhidrogén-előfordulás esetében 10 éven belül köteles az üzemszerű kitermelést megkezdeni. A bányavállalkozó egy bányatelekre vonatkozóan legfeljebb egy alkalommal kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő legfeljebb 5 évvel, az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében 2 évvel történő meghosszabbítását. Meghosszabbítás esetén a bányavállalkozó térítést köteles fizetni.
 

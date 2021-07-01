@@ -16,7 +16,7 @@ b) az építési tevékenységet az a) pontban meghatározott engedélytől elt�
 
 c) a sajátos építményre vagy annak egy részére vonatkozó építési tevékenységet bejelentés nélkül vagy attól eltérően végzi,
 
-d) sajátos építményt vagy annak részét a településrendezési eszközök és az általános érvényű kötelező építésügyi előírások és biztonsági szabályzatok megszegésével létesít, vagy
+d) sajátos építményt vagy annak részét a településrendezési terv és az általános érvényű kötelező építésügyi előírások és biztonsági szabályzatok megszegésével létesít, vagy
 
 e) építési engedélyhez kötött sajátos építményt használatbavételi engedély nélkül használ
 
