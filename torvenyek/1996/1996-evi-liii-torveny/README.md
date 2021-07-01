@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-53-00-00
 | 2020-07-07 | 14/2020. (VII. 6.) AB határozat | 1996-53-00-00.50 |
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 1996-53-00-00.51 |
 | 2021-01-07 | 2020. évi CLXVIII. törvény | 1996-53-00-00.52 |
+| 2021-07-01 | 2021. évi LV. törvény | 1996-53-00-00.53 |
