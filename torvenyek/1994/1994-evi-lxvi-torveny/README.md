@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-66-00-00
 | 2020-07-01 | 2019. évi CXXII. törvény | 1994-66-00-00.31 |
 | 2020-07-15 | 2020. évi LXXIX. törvény | 1994-66-00-00.32 |
 | 2021-01-01 | 2020. évi CLXIV. törvény | 1994-66-00-00.33 |
+| 2021-07-01 | 2021. évi LXXXV. törvény | 1994-66-00-00.34 |

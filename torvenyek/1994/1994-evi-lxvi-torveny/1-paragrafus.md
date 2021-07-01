@@ -4,7 +4,7 @@ a) a felszámolás vagy kényszertörlési eljárás alatt álló gazdálkodó s
 
 b) a felszámolás alatt álló kölcsönbevevő által a kölcsönbeadó részére a kölcsönzött munkavállaló után meg nem fizetett kölcsönzési díjból,
 
-c) a felszámolás alatt álló gazdálkodó szervezetnek az iskolaszövetkezet, közérdekű nyugdíjas szövetkezet (a továbbiakban: nyugdíjas szövetkezet) részére meg nem fizetett szolgáltatási díjból
+c) a felszámolás alatt álló gazdálkodó szervezetnek az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete, közérdekű nyugdíjas szövetkezet (a továbbiakban: nyugdíjas szövetkezet) részére meg nem fizetett szolgáltatási díjból
 
 az e törvény által meghatározott összeg előlegezhető meg.
 
@@ -30,13 +30,13 @@ g) felszámolási eljárás: a Cstv. szerinti felszámolási eljárás;
 
 h) Bérgarancia biztos: a Ctv. 117/A. § (4) bekezdés szerinti személy;
 
-i) díj: az iskolaszövetkezetet, nyugdíjas szövetkezetet terhelő azon díj, illetve egyéb bérjellegű juttatás, amely az iskolaszövetkezeti, nyugdíjas szövetkezeti tagot a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyes közreműködésének időtartamára tekintettel megilleti vagy megillette;
+i) díj: az iskolaszövetkezetet, kisgyermekkel otthon lévők szövetkezetét, nyugdíjas szövetkezetet terhelő azon díj, illetve egyéb bérjellegű juttatás, amely az iskolaszövetkezeti, nyugdíjas szövetkezeti tagot, valamint a kisgyermekkel otthon lévők szövetkezete tagját, a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyes közreműködésének időtartamára tekintettel megilleti vagy megillette;
 
 j) kölcsönzési díj: az az ellenérték, amelynek fejében a kölcsönbeadó a vele kölcsönzés céljából munkaviszonyban álló munkavállalót munkavégzésre a kölcsönvevőnek ideiglenesen átengedi vagy átengedte;
 
-k) szolgáltatási díj: az az ellenérték, amelynek fejében az iskolaszövetkezet, nyugdíjas szövetkezet a szolgáltatását igénybe vevő részére – a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tag által történő teljesítés útján – szolgáltatást nyújt vagy nyújtott;
+k) szolgáltatási díj: az az ellenérték, amelynek fejében az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete, nyugdíjas szövetkezet a szolgáltatását igénybe vevő részére – a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tag által történő teljesítés útján – szolgáltatást nyújt vagy nyújtott;
 
-l) személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag: az iskolaszövetkezetnek, nyugdíjas szövetkezetnek a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tagja.
+l) személyesen közreműködő iskolaszövetkezeti, nyugdíjas szövetkezeti tag, kisgyermekkel otthon lévők szövetkezetének tagja: az iskolaszövetkezetnek, nyugdíjas szövetkezetnek, valamint a kisgyermekkel otthon lévők szövetkezetének a külső szolgáltatásra vonatkozó tagsági megállapodás alapján személyesen közreműködő tagja.
 
 (2a) A (2) bekezdés d) pontjában, valamint i)–k) pontjaiban foglaltak alkalmazása szempontjából csak el nem évült követelés vehető figyelembe.
 
