@@ -1,0 +1,3 @@
+50. § (1) E törvénynek az ügyfelek számára adminisztratív terheket tartalmazó egyes törvények módosításáról szóló 2020. évi CLXIV. törvénnyel megállapított 40/G. §-át a 2021. július 1-jét követően indult és megismételt hatósági és bírósági eljárásokban kell alkalmazni.
+
+(2) Kisajátítási eljárásban nem kötelező az elektronikus ügyintézés azon kisajátítást kérő illetve képviselője esetében, akinek részére a záradékolás iránt 2021. július 1-jét megelőzően benyújtott kérelme alapján záradékolt kisajátítási terv csak papíralapon áll rendelkezésére. Az elektronikus ügyintézést ennek alapján nem alkalmazó kisajátítást kérő, illetve képviselője e körülmény fennállásáról a kisajátítási hatóság részére nyilatkozni köteles.
