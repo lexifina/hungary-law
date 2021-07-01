@@ -1,6 +1,12 @@
 27. § (1) Az átviteli rendszerirányító és a csatlakozás biztosítására jogosult elosztó hálózati engedélyes köteles a rendszerhasználói igény kielégítésének műszaki, gazdasági feltételeiről tájékoztatást adni, és a legkedvezőbb vételezési vagy betáplálási mód meghatározásában a rendszerhasználóval együttműködni.
 
-(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra kizárólag a hálózat műszaki jellemzőire tekintettel tagadhatja meg. A hálózati engedélyes az adott csatlakozási pontra való csatlakozás megengedhetőségéről vagy annak megtagadásáról a (3) bekezdésben meghatározottakkal együtt legkésőbb a rendszerhasználói igény bejelentését követő 15 napon belül köteles írásban tájékoztatni a rendszerhasználót.
+(2) A hálózati engedélyes az átviteli vagy az elosztó hálózathoz való csatlakozást egy adott csatlakozási pontra
+
+a) a hálózat műszaki jellemzőire tekintettel,
+
+b) a nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás esetén a villamosenergia-rendszer üzembiztonságára tekintettel az e törvény végrehajtására kiadott kormányrendeletben meghatározott feltételek és az üzemi és elosztói szabályzatokban foglalt eljárásrend szerint
+
+tagadhatja meg. A hálózati engedélyes az adott csatlakozási pontra való csatlakozás megengedhetőségéről vagy annak megtagadásáról a (3) bekezdésben meghatározottakkal együtt, legkésőbb a rendszerhasználói igény bejelentését követő 15 napon belül köteles írásban tájékoztatni a rendszerhasználót. A hálózati engedélyes a nagy- vagy középfeszültségű hálózatra történő termelői csatlakozás esetén az adott csatlakozási pontra való csatlakozás megengedhetőségéről vagy annak megtagadásáról az üzemi és elosztói szabályzatban foglalt határidő szerint köteles írásban tájékoztatni a rendszerhasználót.
 
 (2a) Ha a kiserőmű a csatlakozási pont kialakítását középfeszültségen, a kiserőmű elhelyezésére szolgáló telek határán igényli, akkor az elosztó köteles ezt az igényt – figyelembe véve a (2) és a (2b) bekezdésben foglaltakat is – teljesíteni.
 

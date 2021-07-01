@@ -24,6 +24,8 @@ g) által üzemeltetett erőmű telephelyére, beépített teljesítményére, a
 
 h) tulajdonában álló vagy általa üzemeltetett villamosenergia-tároló telephelyére, beépített teljesítményére vonatkozó műszaki adatokat, ha villamosenergia-tárolási tevékenységet folytat.
 
+i) megújulóenergia-közösségre vonatkozó megjelölését, ha az megfelel a 66/B. § (1a) bekezdésében meghatározott feltételeknek és a kérelmező ennek megjelölésével kéri a nyilvántartásba vételét.
+
 (3) A nyilvántartásba bejegyzett energiaközösség azonosításához a Hivatal jogosult kezelni az energiaközösséghez kapcsolódó (2) bekezdésben meghatározott adatokat.
 
 (4) A Hivatal a nyilvántartás számítógépes adatbázisából papíralapú vagy elektronikus másolattal szolgáltat adatot. A Hivatal a (2) bekezdésben meghatározott adatokat a nyilvántartásból való törlés évét követő ötödik év végéig jogosult kezelni.

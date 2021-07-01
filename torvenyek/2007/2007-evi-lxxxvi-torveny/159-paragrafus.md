@@ -32,7 +32,7 @@
 
 15. e törvény szerint jóváhagyja az engedélyest érintő cégjogi eseményt, az engedélyesekben történő befolyásszerzést, és az olyan jogügyletek végrehajtását, amelyek eredményeként harmadik országból származó személy vagy személyek gyakorolnának irányítást az átviteli rendszerirányító vagy annak irányító részvényese felett, az engedélyes működési engedélyében felsorolt engedélyhez kötött tevékenységeinek más személy általi végzését, valamint a működési engedélyben meghatározott alapvető eszközeinek és vagyoni értékű jogainak más személy részére történő átruházását, átengedését, lízingbe adását, vagy egyéb módon tartós használatba adását, megterhelését vagy biztosítékul lekötését,
 
-16. figyelemmel kíséri az aktív felhasználó, az együttesen tevékenykedő aktív felhasználók vagy az energiaközösség által termelt és elfogyasztott villamos energia mennyiségének alakulását, az energiaközösségek alapítását, az aggregátori tevékenység elterjedését, az ezeket akadályozó tényezőket azonosítja és azok felszámolása érdekében javaslatokat fogalmaz meg a miniszter számára,
+16. figyelemmel kíséri az aktív felhasználó, az együttesen tevékenykedő aktív felhasználók, a termelő-fogyasztó, az együttesen eljáró termelő-fogyasztók, a megújulóenergia-közösség vagy az energiaközösség által termelt és elfogyasztott villamos energia mennyiségének alakulását, az energiaközösségek alapítását, az aggregátori tevékenység elterjedését, az ezeket akadályozó tényezőket azonosítja és azok felszámolása érdekében javaslatokat fogalmaz meg a miniszter számára,
 
 17.
 
@@ -65,6 +65,8 @@
 11. az elosztói rugalmassági szolgáltatások és a nem frekvenciavonatkozású kisegítő szolgáltatások beszerzésének gazdaságossági szempontú értékelése alapján, ha a Hivatal megállapítja, hogy az e szolgáltatások átlátható, megkülönböztetésmentes, az egyenlő bánásmód követelményének megfelelő, piaci alapú eljárásokkal összhangban történő beszerzése gazdaságilag nem hatékony, akkor kivételt állapíthat meg az elosztói rugalmassági szolgáltatásoknak és nem frekvenciavonatkozású kisegítő szolgáltatásoknak az e törvényben meghatározott eljárások keretében történő beszerzése alól,
 
 12. figyelemmel kíséri és éves jelentést tesz közzé a rugalmas árszabást tartalmazó szerződések fontosabb változásairól – a piaci ajánlatokat, a fogyasztók számláira gyakorolt hatást és az áringadozás szintjét is ideértve –, valamint figyelemmel kíséri a rugalmas árszabással kapcsolatos villamosenergia-piaci fejleményeket, vizsgálja az új termékekben és szolgáltatásokban rejlő kockázatokat és azonosítja a visszaélésszerű gyakorlatokat.
+
+13. figyelemmel kíséri a megújuló energiaforrásból előállított villamos energia kereskedelmére és megosztására irányuló, villamosenergia-kereskedelem esetén a termelő és a villamosenergia-kereskedő, villamosenergia-megosztás esetén a termelő és az aktív felhasználó, energiaközösség vagy megújulóenergia-közösség között létrejött szerződések elterjedését, és kétévente javaslatot tesz a miniszter számára a szabályozási és adminisztratív akadályok felszámolására, amelyek a szerződések létrejöttét indokolatlanul akadályozzák.
 
 (4) A Hivatal a szétválasztási szabályok teljesítésével kapcsolatos feladatai körében:
 

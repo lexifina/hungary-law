@@ -2,6 +2,8 @@
 
 66/B. § (1) Az energiaközösség szövetkezet vagy nonprofit gazdasági társaság formában működő jogalany, amelynek elsődleges célja nem a pénzügyi haszonszerzés, hanem hogy a tagjai számára, vagy az energiaközösség létesítő okiratában megjelölt működési területen környezeti, gazdasági és szociális közösségi előnyöket biztosítson azáltal, hogy villamosenergia termelés, tárolás, fogyasztás, elosztói rugalmassági szolgáltatás nyújtása, villamosenergia-megosztás, aggregálás, a közúti közlekedésről szóló törvény szerinti elektromobilitás szolgáltatás nyújtása és elektromos töltőberendezés üzemeltetése tevékenységek közül legalább az egyiket végzi.
 
+(1a) A megújulóenergia-közösségre az energiaközösségre vonatkozó szabályokat kell alkalmazni azzal, hogy a megújulóenergia-közösség olyan energiaközösség, amely megújuló energiaforrásból termel villamos energiát, ilyen villamos energiát fogyaszt, tárol vagy értékesít. A megújulóenergia-közösség tényleges irányítását azon tag vagy tagok látják el, amelyek felhasználási helyeinek csatlakozási pontjai a megújulóenergia-közösség tulajdonában álló villamosenergia-tároló és erőmű csatlakozási pontjaival ugyanazon nagy/középfeszültségű transzformátorállomási körzetben helyezkednek el.
+
 (2) Az energiaközösség nem végezhet a 74. § (1) bekezdés c), d), f) és g) pontja szerinti tevékenységeket. Az energiaközösség a megfelelő engedély birtokában a 74. § (1) bekezdés a), b), e) és h–l) pontja szerinti tevékenységeket végezheti.
 
 (3) Az energiaközösség e törvény által szabályozott tevékenységét érintően nem vehet részt határon átnyúló együttműködésben.

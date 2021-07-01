@@ -58,6 +58,10 @@
 
 17b. Együttesen tevékenykedő aktív felhasználók: olyan felhasználók, akik közös csatlakozási ponton keresztül csatlakoznak a közcélú hálózatra, és az általuk vagy az együttesen tevékenykedő csoport valamely aktív felhasználó tagja által termelt vagy tárolt villamos energiát a közös csatlakozási ponton felhasználják, a közcélú hálózatra betáplálják, vagy fogyasztásuk vagy betáplálásuk rugalmasságát felajánlják, úgy, hogy az nem minősül önálló foglalkozásuk vagy elsődleges gazdasági tevékenységük céljából kifejtett tevékenységnek;
 
+17c. Termelő-fogyasztó: olyan aktív felhasználó, aki megújuló energiaforrásból saját fogyasztásra termel villamos energiát, vagy a saját maga által megújuló energiaforrásból termelt villamos energiát tárol vagy értékesít;
+
+17d. Együttesen eljáró termelő-fogyasztók: legalább két termelő-fogyasztó, akik a 17c. pontban meghatározott tevékenységüket ugyanazon épületben fejtik ki és megállapodnak arról, hogy e tekintetben együttesen járnak el.
+
 18. Felhasználói berendezés: a felhasználó használatában lévő, villamos energiát termelő, átalakító és kapcsoló berendezés, vezetékhálózat és villamos energiát felhasználó berendezés a tartozékaival (készülékeivel) együtt;
 
 19. Fogyatékkal élő fogyasztó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét közvetlenül veszélyezteti a villamosenergia-szolgáltatásból való kikapcsolás vagy annak megszakadása;
