@@ -17,3 +17,5 @@ f) pótlás: úti okmány kiállítása az útlevélhatóság által kiadott elv
 g) elektronikus adat: az útiokmány-nyilvántartás számítógépes adathordozón kezelt adatállománya;
 
 h) kapcsolattartási adat: telefonszám, e-mail-cím.
+
+i) élettárs: az élettársi nyilvántartásban szereplő élettárs, a közjegyző előtt tett nyilatkozat alapján okiratban feltüntetett élettárs.

@@ -1,1 +1,1 @@
-15. § Hajós szolgálati útlevél a hajón teljesítendő szolgálat igazolása esetén, külföldön tengeri vagy belvízi hajón szolgálatot teljesítő személynek és a vele együtt utazó házastársának és eltartott gyermekének adható.
+15. § Hajós szolgálati útlevél a hajón teljesítendő szolgálat igazolása esetén, külföldön tengeri vagy belvízi hajón szolgálatot teljesítő személynek és a vele együtt utazó házastársának, bejegyzett élettársának, élettársának és eltartott gyermekének adható.

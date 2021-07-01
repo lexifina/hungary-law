@@ -8,7 +8,7 @@ c) az a) és b) pontban meghatározott adatokból képzett, az állampolgár és
 
 (2) Az útlevél – az ideiglenes magánútlevél kivételével – biometrikus azonosítót tartalmazó tároló elemet (a továbbiakban: tároló elem) tartalmaz. A tároló elem az (1) bekezdésben foglalt adatokat elektronikus formában tartalmazza.
 
-(3) A tároló elem elektronikus formában tartalmazza – kivéve a (4) bekezdésben foglalt eseteket – a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet 1. cikk (2) bekezdésének második mondata szerinti biometrikus adatot (a továbbiakban: második biometrikus adat).
+(3) A tároló elem elektronikus formában tartalmazza – kivéve a (4) bekezdésben foglalt eseteket – az ujjnyomat adatot (a továbbiakban: második biometrikus adat).
 
 (4) A tároló elem kizárólag az (1) bekezdésben foglalt adatokat tartalmazza
 
@@ -28,7 +28,7 @@ b) második magánútlevél és hivatalos útlevél érvényességi ideje legfel
 
 (6) Az ideiglenes magánútlevél adatoldala az (1) bekezdésben meghatározott adatokon kívül tartalmazza az ellenőrző sorszámot, a kiállítás okát, az utazás célországát, a kiállító hatóság bélyegző lenyomatát és a kiállító személy aláírását. A hazatérés céljából kiállított ideiglenes magánútlevél az (1) bekezdés c) pontjában meghatározott adatot a gépi kiállításhoz szükséges technikai feltételek fennállása esetén tartalmazza. A hivatalból kiállított ideiglenes magánútlevél az állampolgár aláírása nélkül is érvényes.
 
-(7) A hivatalos útlevél adattartalma kiegészül a használatára jogosult személy diplomáciai rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
+(7) A hivatalos útlevél adattartalma – a hajós szolgálati útlevél kivételével – kiegészül a használatára jogosult személy diplomáciai rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
 
 (8) Az útlevélbe az útlevélhatóság, a rendőrség, a külföldi hatóság, valamint jogszabályban erre felhatalmazott szerv tehet bejegyzést.
 

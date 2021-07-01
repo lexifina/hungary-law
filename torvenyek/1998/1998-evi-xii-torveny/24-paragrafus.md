@@ -6,7 +6,7 @@
 
 a) az állampolgár családi és utónevét, születési családi és utónevét, születési helyét, idejét, anyja születési családi és utónevét, nemét, állampolgárságát (a továbbiakban együtt: személyi adat), személyi azonosítóját, személyazonosságát igazoló hatósági igazolványának számát, kézbesítési címét valamint kapcsolattartási adatát,
 
-b) az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá a 32/A. § (1) bekezdés a) pontjában meghatározott feltételek fennállása esetén az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát,
+b) az állampolgár arcképmását és saját kezű aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan, továbbá második biometrikus adatát, és annak tárolhatóságára vonatkozó adatát,
 
 c) a kiskorú, továbbá a cselekvőképességet kizáró gondnokság alá helyezett állampolgár törvényes képviselőjének személyi adatait, személyazonosságát igazoló hatósági igazolványának számát és saját kezű aláírását,
 
@@ -22,7 +22,7 @@ h) az útlevélhatósági eljárást lefolytató ügyintéző egyedi azonosító
 
 i) a külföldre utazás korlátozása bejegyzésének és törlésének tényét,
 
-j) a hivatalos útlevél használatára jogosult személy diplomáciai rangját, a hivatalos útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímét,
+j) a hivatalos útlevél – a hajós szolgálati útlevél kivételével – használatára jogosult személy diplomáciai rangját, a hivatalos útlevél kiállítására alapot szolgáltató tisztségét vagy jogcímét,
 
 k) a személyiadat- és lakcímnyilvántartásban nem szereplő, úti okmánnyal rendelkező magyar állampolgár arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott technikai kapcsoló számot,
 
@@ -30,7 +30,7 @@ l) a kérelem egyedi azonosítására szolgáló technikai azonosítóját,
 
 m) az eljárás illetékének és igazgatási szolgáltatási pótdíjának az összegét, valamint a teljesítésének tényét,
 
-n) az okmány kézbesítésének, illetve átvételének idejét, helyét, az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
+n) az okmány kézbesítésének, illetve átvételének idejét, helyét, meghatalmazotti átvétel esetén az átvevő nevét és az átvételkor bemutatott okmány azonosítóját,
 
 o) az ideiglenes magánútlevél esetében az ellenőrző sorszámot, a kiállítás okát és az utazás célországát.
 

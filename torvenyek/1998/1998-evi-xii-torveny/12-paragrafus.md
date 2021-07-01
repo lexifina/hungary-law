@@ -12,11 +12,11 @@ e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomá
 
 f) a Honvéd Vezérkar főnöke és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és helyettesei, a katonai külképviseletek vezetői és helyettesei; valamint
 
-g) az országgyűlési képviselővel, a nemzetiségi szószólóval, az a), a c)–d), illetve az f) pontokban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, élettársa, eltartott gyermeke;
+g) az országgyűlési képviselővel, a nemzetiségi szószólóval, az a), a c)–d), illetve az f) pontokban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, bejegyzett élettársa, élettársa, eltartott gyermeke;
 
-h) az Európai Parlament magyarországi képviselőjével, illetve az e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, élettársa, eltartott gyermeke, egyenes ági felmenője;
+h) az Európai Parlament magyarországi képviselőjével, illetve az e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, bejegyzett élettársa, élettársa, eltartott gyermeke, egyenes ági felmenője;
 
-i) az Európai Parlament magyarországi képviselőjével, illetve az e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársának, élettársának egyenes ági felmenője.
+i) az Európai Parlament magyarországi képviselőjével, illetve az e) pontban megjelölt személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársának, bejegyzett élettársának, élettársának egyenes ági felmenője.
 
 (1a) Az (1) bekezdés h) és i) pontjában meghatározott hozzátartozókat a diplomata-útlevél kizárólag az Európai Parlament magyarországi képviselőjének mandátumából fakadó tartós külföldi tartózkodás időtartamára, illetve az (1) bekezdés e) pontban megjelölt személy tartós külszolgálatának időtartamára illeti meg.
 

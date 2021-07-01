@@ -22,7 +22,7 @@ c) az úti okmányokkal összefüggő adatkezelés részletes szabályait, valam
 
 d) a külképviseleteknek az útlevél kiadásával, nyilvántartásával kapcsolatos feladatait;
 
-e) az adópolitikáért felelős miniszterrel egyetértésben – az útlevél kivételével – az úti okmányok kiadásáért és cseréjéért; valamint az adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, a kedvezmények és mentességek körét;
+e) az adópolitikáért felelős miniszterrel egyetértésben az útiokmány-nyilvántartásból történő adatszolgáltatásért fizetendő igazgatási szolgáltatási díj összegét, megállapításának, megfizetésének, elszámolásának, kezelésének szabályait;
 
 f) az e-közigazgatásért felelős miniszterrel, a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel egyetértésben a magánútlevél, valamint a második magánútlevél soron kívüli, sürgősségi, valamint azonnali kiadásáért és pótlásáért fizetendő igazgatási szolgáltatási pótdíj összegét és fizetendő igazgatási szolgáltatási pótdíj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 

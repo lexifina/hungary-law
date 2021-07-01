@@ -6,15 +6,9 @@
 
 (4) Ha a külföldön élő vagy tartózkodó kérelmező konzuli tisztviselőnél történő személyes megjelenése aránytalan nehézséget okoz, a 7. § (4) bekezdése, valamint a 10. § (1) és (2) bekezdése szerinti kérelmét az útlevélhatósághoz postai úton is benyújthatja. Ebben az esetben a kérelmező személyazonosságát és aláírását az érintett ország gyakorlata szerint erre felhatalmazott külföldi szerv vagy személy hitelesíti. A hitelesítés – nemzetközi egyezmény eltérő rendelkezése hiányában – akkor fogadható el, ha azt a konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
 
-(5) Elektronikus kapcsolattartás útján kérelmezhető
+(5) Kizárólag elektronikus kapcsolattartás útján kérelmezhető a magánútlevél, a második magánútlevél, a szolgálati útlevél és a hajós szolgálati útlevél pótlása. A pótlás feltétele, hogy a kérelmező a második biometrikus adat kezeléséhez a pótlás érdekében hozzájárult.
 
-a) a magánútlevél pótlása,
-
-b) a második magánútlevél kiállítása,
-
-ha a kérelmező a 32/A. § (1) bekezdés a) pontja alapján a második biometrikus adat kezeléséhez hozzájárult.
-
-(5a)
+(5a) Elektronikus kapcsolattartás útján is kérelmezhető a második magánútlevél kiállítása, ha a kérelmező a második biometrikus adat kezeléséhez a második magánútlevél kiállítása érdekében hozzájárult. Elektronikus kapcsolattartás útján nem kérelmezhető a második magánútlevél azonnali eljárás keretében történő kiállítása.
 
 (6) Az (5) bekezdés alapján az elveszett, eltulajdonított vagy megsemmisült úti okmány helyett kiállított új úti okmány érvényességi ideje az eredeti úti okmány érvényességének idejével megegyezik.
 

@@ -1,4 +1,4 @@
-19. § (1) Az útlevélhatóság a 20. § (1) bekezdés c)–e) pontjában meghatározott esetekben az érvénytelen úti okmányt visszavonja.
+19. § (1) Az útlevélhatóság a 20. § (1) bekezdés c)–e) pontjában meghatározott esetekben az érvénytelen úti okmányt – ha az nincs az okmány elvételére, visszatartására, bevonására jogosult hatóság, az eljárásban közreműködő szerv vagy az útlevélhatóság birtokában – visszavonja.
 
 (2)
 

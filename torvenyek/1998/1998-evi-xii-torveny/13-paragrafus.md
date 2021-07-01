@@ -8,9 +8,9 @@ c) Magyarország hivatásos konzuli képviselete konzuli alkalmazottja és kiseg
 
 d) a nemzetközi jogon alapuló mentességet élvező más személy;
 
-e) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, élettársa, eltartott gyermeke, egyenes ági felmenője;
+e) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársa, bejegyzett élettársa, élettársa, eltartott gyermeke, egyenes ági felmenője;
 
-f) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársának, élettársának egyenes ági felmenője.
+f) az a)–d) pontok szerint jogosult személlyel hivatalos célból együtt utazó, közös háztartásban élő házastársának, bejegyzett élettársának, élettársának egyenes ági felmenője.
 
 (1a) Az (1) bekezdés e) és f) pontjában meghatározott hozzátartozókat a külügyi szolgálati útlevél kizárólag az (1) bekezdés a)–d) pontja szerint jogosult személy tartós külszolgálatának időtartamára illeti meg.
 
