@@ -6,9 +6,9 @@
 
 a) nem üzletszerű gazdasági tevékenység keretében,
 
-b) – a jogszabály alapján szervezett oktatás, képzés kivételével – összesen hat óra időtartamot meghaladó mértékben,
+b) – a jogszabály alapján szervezett oktatás, képzés kivételével – összesen hat óra időtartamot meghaladó mértékben, vagy
 
-c) a saját, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás, illetve beszállítójának foglalkoztatottja részére
+c) a saját, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás, valamint a munkáltató beszállítójának, illetve a munkáltató által igénybe vett közreműködő foglalkoztatottja (ideértve a kölcsönzött munkavállalót is, ha a munkaerő-kölcsönzésre kötött megállapodás tartalmazza az arra vonatkozó kitételt, hogy a kölcsönvevő vállalja a kölcsönzött munkavállaló oktatását, képzését is) részére
 
 szervez.
 
@@ -20,15 +20,19 @@ szervez.
 
 5. felnőttképzési tevékenységhez kapcsolódó szolgáltatás: olyan tevékenység, amely a felnőttképzési tevékenység keretében szervezett oktatás, képzés egyénre szabott kialakításának elősegítésére, a képzés hatékonyságának javítására vagy a munkavállalás elősegítésére irányul,
 
+5a. jogszabály alapján szervezett oktatás és képzés: jogszabály által valamely tevékenység folytatásának, munkakör betöltésének, illetve magasabb fizetési besorolás alkalmazásának feltételéül meghatározott olyan oktatás és képzés, amelynek legalább célját, tartalmát és megszervezésének általános feltételeit, továbbá az oktatás, képzés eredményes elvégzésének igazolási módját vagy ahhoz kapcsolódóan szervezett vizsga letételére vonatkozó követelményt jogszabály vagy a polgári nemzetbiztonsági szolgálatok vonatkozásában közjogi szervezetszabályozó eszköz határozza meg, ide nem értve a köznevelési intézmény, a szakképző intézmény, illetve törvényben meghatározott oktatási és tehetséggondozó intézmény alapfeladatába vagy a felsőoktatási intézmény alaptevékenységébe tartozó, valamint a szakképzettségre, szakképesítésre felkészítő oktatást és képzést,
+
 6. képzés megkezdésének időpontja: a képzés első kontaktórájának időpontja, a folyamatban lévő képzésbe bekapcsolódó képzésben részt vevő személy esetében az első kontaktóra időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyagnak vagy résztananyagnak a képzésben részt vevő személy számára történő megküldésének vagy más módon történő rendelkezésre bocsátásának időpontja,
 
 6a. képzés befejezésének időpontja: a képzés utolsó kontaktórájának időpontja, távoktatás és zárt rendszerű elektronikus távoktatás esetén a tananyag vagy résztananyag elsajátítására megállapított utolsó időpont vagy ha a képzés elvégzése meghatározott követelményhez kötött, annak teljesítésének napja,
 
 7. kompetencia: olyan ismeretek, készségek és képességek összessége, amely által a személy egy adott területen képes meghatározott döntésen és a megvalósításon alapuló eredmény elérésére,
 
-8. kontaktóra: a képzésben részt vevő személyes jelenlétét igénylő tanóra,
+7a. komplex felzárkózási képzés: a személyek társadalmi és gazdasági felzárkózásának részeként a kompetenciafejlesztés, illetve a humán szolgáltatásokhoz való hozzáférésének javítása érdekében szervezett képzés, a közfoglalkoztatáshoz és a szociális szövetkezetben történő foglalkoztatáshoz kapcsolódóan szervezett képzés, a szakképzettséggel nem rendelkezők a társadalmi felzárkózását szolgáló és kompetenciáját fejlesztő képzés, valamint az esélyegyenlőségi mentorok és a helyi esélyegyenlőségi programok készítésében résztvevők képzése,
 
-9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy és az oktató, tutor közötti megbeszélés, amely elektronikus úton is megvalósulhat,
+8. kontaktóra: a képzésben részt vevő személyes jelenlétét vagy – az olyan tanóra kivételével, amely olyan kompetencia átadására irányul, amely kizárólag személyes jelenlét mellett sajátítható el – interaktív és távolléti kapcsolattal vagy zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósuló jelenlétét igénylő tanóra,
+
+9. konzultáció: az elsajátítandó ismeret átadását, megerősítését elősegítő, a képzésben részt vevő személy vagy csoport és az oktató, tutor közötti megbeszélés, amely interaktív és távolléti kapcsolattal, továbbá zárt rendszerű távoktatási képzésmenedzsment rendszerrel is megvalósulhat,
 
 9a. nemzetgazdasági szempontból kiemelt jelentőségű képzés: országos vagy helyi kiterjedésű, kiemelt jelentőségű munkaerő-piaci cél megvalósítása érdekében szervezett és a Kormány rendeletében meghatározott feltételek alapján a Kormány adott ágazatért felelős tagja véleményének kikérésével az iparügyekért felelős miniszter által ilyennek minősített oktatás, képzés,
 
@@ -38,4 +42,4 @@ szervez.
 
 12. zárt rendszerű elektronikus távoktatás: elméleti képzési ismeretanyag oktatását digitális tananyag formájában informatikai hálózaton (internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment rendszerrel megvalósító távoktatási forma, ahol az oktató, az oktatásszervező és a képzésben részt vevő személy közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment rendszer,
 
-13. zárt rendszerű távoktatási képzésmenedzsment rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli – valamint a regisztrációs és tanulmányi alaprendszer számára közvetíti – a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét és végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit.
+13. zárt rendszerű távoktatási képzésmenedzsment rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti, értékeli, valamint a regisztrációs és tanulmányi alaprendszer számára közvetíti a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét, végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű együttműködését.

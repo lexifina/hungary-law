@@ -1,3 +1,5 @@
+## 9/A. A képzés megvalósításával összefüggő dokumentumok
+
 16. § A felnőttképzőnek az alábbi dokumentumokat kell vezetnie, nyilvántartania és – a felnőttképzési államigazgatási szerv ellenőrzési jogköre gyakorlásának biztosítása érdekében – annak keletkezésétől számított nyolcadik év utolsó napjáig megőriznie:
 
 a) a kontaktórákon vezetett, a képzésben részt vevő személy által aláírt jelenléti íveket, valamint a képzésben résztvevővel elektronikus úton folytatott szakmai felkészítést, ellenőrzést igazoló dokumentumokat,

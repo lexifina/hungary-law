@@ -6,6 +6,6 @@ b) – a költségvetési szervként működő felnőttképző kivételével –
 
 c) akinek a létesítő okiratában, működési engedélyében vagy az egyéni vállalkozói nyilvántartásban a tevékenységei között az oktatás vagy képzés szerepel.
 
-(2) Nem kaphat engedélyt az a felnőttképző, akinek a képviseletére jogosult személy más felnőttképzőnél ilyen tisztséget tölt be vagy korábban betöltött, ha annak engedélyét a felnőttképzési államigazgatási szerv – a képviselet időtartama alatt elkövetett jogsértés miatt – visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
+(2) Nem kaphat engedélyt az, akinek a képviseletére jogosult személy más felnőttképzőnél ilyen tisztséget tölt be vagy korábban betöltött, ha annak engedélyét a felnőttképzési államigazgatási szerv – a képviselet időtartama alatt elkövetett jogsértés miatt – visszavonta. Az engedély megszerzésének tilalma a visszavonás időtartamára vonatkozik.
 
 (3) A vallási közösség által fenntartott felnőttképző e törvény hatálya alá tartozó felnőttképzési tevékenységének engedélyezése során a hittudományokra és kizárólag a hitélet gyakorlására vonatkozó ismeretek tartalma nem vizsgálható.

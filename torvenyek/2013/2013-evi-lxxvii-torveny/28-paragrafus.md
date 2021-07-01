@@ -32,6 +32,8 @@ f) a képzés nemzetgazdasági szempontból kiemelt jelentőségűvé minősít�
 
 g) a munkaerő-piaci előrejelző rendszer működésére, az adatszolgáltatás rendjére, továbbá a munkaerő-piaci előrejelző rendszer működéséért felelős szervnek a munkaerő-piaci előrejelző rendszer működtetésével kapcsolatos feladataira vonatkozó részletes szabályokat,
 
+h) a komplex felzárkózási képzések részletes szabályait, valamint, hogy ezen képzések szervezéséért és a képzések engedélyezéséért, ellenőrzéséért felelős szervet rendeletben jelölje ki.
+
 (3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét.
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
