@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-128-00-00
 | 2019-07-25 | 2019. évi LXVII. törvény | 2000-128-00-00.16 |
 | 2020-03-01 | 2019. évi CX. törvény | 2000-128-00-00.17 |
 | 2021-02-01 | 2020. évi CXXI. törvény | 2000-128-00-00.18 |
+| 2021-07-01 | 2020. évi CXXI. törvény | 2000-128-00-00.19 |

@@ -1,0 +1,1 @@
+7/A. § A járművezető a közúti közlekedési nyilvántartás engedély-nyilvántartásában szereplő saját közúti közlekedési előéleti pontrendszer adatairól díjmentesen kérhet tájékoztatást a Nyilvántartótól.

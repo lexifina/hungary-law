@@ -6,4 +6,4 @@
 
 (4) Nem állapítható meg pont olyan szabályszegés elkövetése esetén, amely miatt a bíróság vagy a szabálysértési hatóság járművezetéstől eltiltást, meghatározott járműkategória, alkategória, kombinált kategória (a továbbiakban: járműkategória) vezetésétől való eltiltást alkalmazott.
 
-(5) A járművezetőnek az eltiltás jogerőre emelkedésének időpontjáig nyilvántartásba vett pontjait törölni kell, ha a vezetői engedély visszaadására utánképzést követően kerülhet sor.
+(5)
