@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-722-20-
 | 2021-02-02 | 2020-722-20-22.4 | 2010: CXXX. törvény |
 | 2021-02-14 | 2020-722-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-02-15 | 2020-722-20-22.6 | 2010: CXXX. törvény |
+| 2021-07-01 | 2020-722-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |

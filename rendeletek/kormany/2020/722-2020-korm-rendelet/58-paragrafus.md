@@ -1,4 +1,4 @@
-## 57. §[^62]
+## 57. §[^61]
 
 ## 22. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 25. § (2) bekezdése 2021. július 1-jén lép hatályba.
 
-[^62]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
