@@ -52,7 +52,7 @@ tarthatók nyilván.
 
 a) az állami adóhatóság, valamint a vámhatóság az ellenőrzési feladatok érdekében a (2) bekezdés a) és d) pontja,
 
-b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) pontja,
+b) az állami adóhatóság, valamint az önkormányzati adóhatóság az adókötelezettség ellenőrzése és az adóvégrehajtási eljárás lefolytatása érdekében, továbbá a támogatás megállapítása és ellenőrzése érdekében a (2) bekezdés a)–d) pontja szerinti adatok, a (2) bekezdés e) pontjából a rokkantság fokára vonatkozó adatok, valamint a (2) bekezdés f) és h) pontja,
 
 c) az egészségügyi ellátást nyújtó szerv vagy személy az egészségügyi szolgáltatói feladatai ellátása érdekében a (2) bekezdés a)–e) pontja,
 
@@ -71,6 +71,10 @@ i) az oktatási nyilvántartás működéséért felelős szerv a pályaköveté
 j) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 35/A. §-ában meghatározott szervezet a közforgalmú személyszállítási utazási kedvezmények ellenőrzése céljából a nyugdíjfolyósító szerv által kibocsátott utazási utalványban részesülő személyekre vonatkozóan a (2) bekezdés a) és h) pontja
 
 k) a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradék folyósítása és a jogosultság ellenőrzése érdekében a (2) bekezdés a), c) és h) pontja
+
+l) a foglalkoztatás-felügyeleti hatóság, a munkavédelmi hatóság, a családtámogatási ügyben eljáró hatóság, a rehabilitációs hatóság, a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv, foglalkoztatás-felügyeleti hatósági ellenőrzés és munkavédelmi ellenőrzés, továbbá az ellátás megállapítása, folyósítása és ellenőrzése céljából a (2) bekezdés a)–f) és h) pontja,
+
+m) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói támogatásra, illetve az árvák kiegészítő támogatására való jogosultság megállapításához és ellenőrzéséhez a (2) bekezdés a) és h) pontja
 
 szerinti adatok igénylésére jogosult.
 

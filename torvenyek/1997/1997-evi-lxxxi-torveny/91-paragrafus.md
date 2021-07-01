@@ -5,3 +5,5 @@
 (2) A mulasztási bírságot az ügyben eljárt nyugdíjbiztosítási igazgatási szervhez kell befizetni.
 
 (3) Az (1) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetésnek helye nincs.
+
+(4) A mulasztási bírságot kiszabó döntés adatait a nyugdíjbiztosítási igazgatási szerv nem jegyzi be a Közigazgatási Szankciók Nyilvántartásába.

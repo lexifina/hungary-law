@@ -6,7 +6,7 @@
 
 a) pénzforgalmi számláról történő készpénzkifizetés kézbesítése útján vagy a jogosult által megjelölt belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára,
 
-b) EGT-állam területén élők részére történő folyósítás esetén a jogosult által megjelölt, valamely EGT a államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára,
+b) EGT-állam vagy Nagy-Britannia és Észak-Írország Egyesült Királysága területén élők részére történő folyósítás esetén a jogosult által megjelölt, valamely EGT-államban vagy Nagy-Britannia és Észak-Írország Egyesült Királyságában, pénzforgalmi szolgáltatónál vezetett fizetési számlára,
 
 c) Magyarországgal szociálpolitikai, szociális biztonsági egyezményt kötött állam területén élő személy részére történő folyósítás esetén a jogosult által megjelölt, a szerződő államban, pénzforgalmi szolgáltatónál vezetett fizetési számlára, vagy
 

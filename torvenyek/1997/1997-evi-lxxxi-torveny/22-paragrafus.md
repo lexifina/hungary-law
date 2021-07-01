@@ -8,13 +8,13 @@ c) amennyiben a nyugdíjjárulékot a biztosítási jogviszony keretében meghat
 
 d) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során meghatározott beszámított jövedelmet, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,
 
-e) a felszolgálási díj 81%-át,
+e) a 2020. június 30-áig terjedő időszakra a felszolgálási díj 81%-át, az azt követő időszakra a felszolgálási díj teljes összegét,
 
 f) a 2020. június 30-áig terjedő időszakra a vendéglátó üzlet felszolgálójaként a fogyasztótól közvetlenül kapott borravaló 81%-át,
 
 g) azon egyszerűsített közteherviselési hozzájárulás (ekho) alap 50 százalékát, 2008. január 1-jétől 61 százalékát, amely után a magánszemélyt terhelő ekho mértéke 15 százalék,
 
-h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat és fejlesztési foglalkoztatási díjat,
+h) a 2020. augusztus 31-ét követő időszakra a Tbj. 27. § (2) bekezdése szerinti járulékfizetési alsó határ alkalmazása esetén a minimálbér 30 százalékát,
 
 i) a Tbj. 41. § (2) bekezdésében meghatározott mezőgazdasági őstermelő esetében az éves bevételének 6 százalékát,
 
@@ -26,7 +26,7 @@ a) az álláskeresési járadék, a munkanélküli-járadék, a vállalkozói j�
 
 b) a gyermekgondozást segítő ellátás, gyermekgondozási segély, a gyermeknevelési támogatás és a gyermekgondozási díj összegét,
 
-c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét,
+c) a nyugdíjjárulék-köteles szociális és gyermekvédelmi ellátások (gyermekek otthongondozási díja, ápolási díj) összegét, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díjat és fejlesztési foglalkoztatási díjat,
 
 d) a prémiumévek programról és a különleges foglalkoztatási állományról szóló 2004. évi CXXII. törvény (a továbbiakban: Péptv.) 3–5. §-a szerinti prémiumévek program, illetve különleges foglalkoztatási állomány keretében járó juttatás összegét,
 
