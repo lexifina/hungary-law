@@ -2,7 +2,7 @@
 
 5. § (1)[^39] A nemzetközi kategóriára, valamint a „TR” és „V” nemzeti kategóriára megszerzett vizsga a vezetői engedélybe bejegyzett kategória érvényességi idejének lejárta után is – ha a közúti járművezetők egészségi alkalmasságáról szóló miniszteri rendelet egészségi alkalmasságot nem ír elő – jogosít a 4. mellékletben meghatározott járművek vezetésére.
 
-(2)[^40] A közlekedési igazgatási hatóság az ügyfél kérelmére nemzeti kategóriára érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
+(2)[^40] A közlekedési igazgatási hatóság az ügyfél kérelmére az egészségi alkalmassági vizsgálat nélkül is vezethető kategóriákra érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
 
 (3)[^41] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
 
@@ -32,16 +32,17 @@ b) a teherbíró kapacitás ugyanezen nem alternatív üzemanyagú járműhöz v
 
 a) a vezetői engedély hátoldalán a 11. pontban feltüntetett kategória érvényesség időpontjáig, amely az egészségi alkalmassági vizsgálaton megállapított időpont,
 
-b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével – a vezetői engedély első oldalán a 4.b) pontban feltüntetett érvényesség időpontjáig, de legfeljebb a vezetői engedély kiállítását követő tíz évig.
+b)[^47] az egészségi alkalmassági vizsgálat nélkül is vezethető kategóriákra a vezetői engedély első oldalán a 4.b) pontban feltüntetett érvényesség időpontjáig, de legfeljebb a vezetői engedély kiállítását követő tíz évig.
 
 (6) A vezetői engedély érvényességi idejének meghosszabbítása az okmány cseréjével történik.
 
 [^38]: A 4. § a 90/2015. (IV. 9.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^39]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^40]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^40]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított, a 375/2021. (VI. 30.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
 [^41]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^42]: Az 5. § (3) bekezdés b) pont bb) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^43]: Az 5. § (3) bekezdés b) pont bc) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^44]: Az 5. § (3a) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^45]: Az 5. § (3b) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^46]: Az 5. § (4) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^47]: Az 5. § (5) bekezdés b) pontja a 375/2021. (VI. 30.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.

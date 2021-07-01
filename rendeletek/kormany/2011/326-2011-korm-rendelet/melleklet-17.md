@@ -44,7 +44,7 @@
 
 ## 17. A törzskönyv nyomdai sorszámának vonalkódja
 
-## B.
+## B.[^514]
 
 ## A 2009. július 1-jét követően kiadásra kerülő törzskönyv tartalmi elemei
 
@@ -52,7 +52,7 @@
 
 ## H
 
-## JÁRMŰ TÖRZSKÖNYV
+## JÁRMŰTÖRZSKÖNYV
 
 ## 1. Sorszám
 
@@ -64,23 +64,21 @@
 
 ## 5. Alvázszám
 
-## 6. Motorszám/motorkód
-
-## 7. Gyártási év
-
-## 8. Kiállítás helye, kelte
-
-## 9. Kiállító hatóság
+## 6. Gyártási év
 
 ## Második oldal
 
-## 10. Tulajdonosi adatok (természetes személynél: név, születési hely és idő, anyja neve; gazdálkodó szervezetnél: a gazdálkodó szervezet megnevezése, a cégjegyzék vagy nyilvántartási száma)
+## 7. Kiállítás helye, kelte
 
-## 11. Hivatalos feljegyzések
+## 8. Kiállító hatóság
 
-## 12. A törzskönyv nyomdai sorszámának vonalkódja
+## 9. Tulajdonosi adatok (természetes személynél: név, születési hely és idő, anyja neve; nem természetes személynél: a gazdálkodó szervezet megnevezése, a cégjegyzék- vagy nyilvántartási száma)
 
-17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^481]
+## 10. Hivatalos feljegyzések
+
+## 11. A törzskönyv nyomdai sorszámának vonalkódja
+
+17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^515]
 
 A.
 
@@ -362,6 +360,8 @@ P.5 – motorkód/szám
 
 R – a jármű színe
 
+V.7. – CO2 (g/km-ben)
+
 V.9 – környezetvédelmi osztályba sorolás
 
 (További adatok a forgalmi engedély első oldalán, amelyeket az irányelv külön nem nevesít)
@@ -386,7 +386,7 @@ Nyeregterhelés (3)
 
 3: szekvenciális
 
-– Eurotax kód
+– regisztrációs matrica rendszámot tartalmazó vonalkódja – Eurotax kód
 
 A forgalmi engedély második oldalán (Az irányelvben külön nem nevesített adatok)
 
@@ -402,8 +402,7 @@ időszakos vagy forgalomba helyezés előtti vizsgálat azonosítója
 
 – Hivatalos feljegyzések
 
-regisztrációs matrica rendszámot tartalmazó vonalkódja
-
 – A harmonizált közösségi kódok magyarázata
 
-[^481]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^514]: A 16. melléklet B. része az 572/2020. (XII. 9.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^515]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a, a 375/2021. (VI. 30.) Korm. rendelet 15. §-a szerint módosított szöveg.
