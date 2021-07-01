@@ -1,3 +1,3 @@
-## 27. §[^153]
+## 27. §[^155]
 
-[^153]: A 27. §-t a 317/2020. (VII. 1.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^155]: A 27. §-t a 317/2020. (VII. 1.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
