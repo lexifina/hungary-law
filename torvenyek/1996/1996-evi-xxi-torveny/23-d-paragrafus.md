@@ -18,9 +18,9 @@
 
 (7) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a területrendezési hatósági eljárást követően a térségi területfelhasználási engedélyt, valamint annak mellékleteként az engedélyezési tervdokumentációt közli a megyei önkormányzattal.
 
-(8) Az állami főépítész – felkérésre – állást foglal a terület- és településfejlesztési koncepcióknak, programoknak, építészeti-műszaki terveknek, továbbá más ágazati terveknek és koncepcióknak a területrendezési tervekkel való összhangjáról, valamint a külön jogszabályban meghatározott területrendezési tanulmánytervről.
+(8) Az állami főépítész – felkérésre – állást foglal a területfejlesztési és településrendezési terveknek, építészeti-műszaki terveknek, továbbá más ágazati terveknek és koncepcióknak a területrendezési tervekkel való összhangjáról, valamint a külön jogszabályban meghatározott területrendezési tanulmánytervről.
 
-(9) A kiemelt térségi és megyei tervekkel összhangban nem lévő településrendezési eszközöket – az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye birtokában – a területrendezési tervvel összhangban lévőnek kell tekinteni.
+(9) A kiemelt térségi és megyei tervekkel összhangban nem lévő településrendezési terveket – az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye birtokában – a területrendezési tervvel összhangban lévőnek kell tekinteni.
 
 (10) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a területrendezési hatósági eljárásban kiadott térségi területfelhasználási engedélyekről közhiteles hatósági nyilvántartás vezet.
 

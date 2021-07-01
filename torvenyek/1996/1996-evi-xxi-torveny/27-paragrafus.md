@@ -4,7 +4,7 @@ a) a térségi fejlesztési tanács létrehozásával, működésével, sajátos
 
 b) a kedvezményezett járások és települések besorolásának feltételrendszerét és besorolását,
 
-c) a településrendezési eszköz területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
+c) a településrendezési terv területrendezési tervvel való összhangját igazoló területrendezési hatósági eljárás részletes szabályait;
 
 d) a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeit, továbbá illeszkedésük, kidolgozásuk és közzétételük részletes szabályait, valamint egyeztetésük, elfogadásuk rendjét;
 

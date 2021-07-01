@@ -10,4 +10,4 @@ a) véleményezi illetékességi területén a területrendezési terveket, és 
 
 b) véleményezi az országos, valamint az illetékességi területét érintő regionális, megyei fejlesztési programokat és azoknak a területrendezési tervekkel való összhangját,
 
-c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési eszközöknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról.
+c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési terveknek az országos, a kiemelt térségi és a megyei területrendezési tervekkel való összhangjáról.

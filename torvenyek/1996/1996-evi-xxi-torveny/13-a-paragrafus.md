@@ -2,8 +2,8 @@
 
 (2) A megyei önkormányzat a 11. § (1) bekezdés a) pont aa) és ae) alpontjában, a 11. § (1) bekezdés c) pont ce) alpontjában, a 12. § (1) bekezdés a) és d) alpontjában meghatározott feladata végrehajtása érdekében önkormányzati rendeletet alkot.
 
-(3) A megyei önkormányzat koncepcionálisan összehangolja települései településfejlesztési koncepciója és integrált településfejlesztési stratégiája, valamint településrendezési eszközei kidolgozását a megyei területrendezési tervhez való illeszkedésük érdekében.
+(3) A megyei önkormányzat koncepcionálisan összehangolja települései településfejlesztési és településrendezési tervei kidolgozását a megyei területrendezési tervhez való illeszkedésük érdekében.
 
-(4) A megyei önkormányzat előzetesen véleményezi a megye települései településfejlesztési koncepcióját és integrált településfejlesztési stratégiáját, valamint településrendezési eszközeit a megyei területfejlesztési koncepcióhoz és programhoz való illeszkedésük érdekében.
+(4) A megyei önkormányzat előzetesen véleményezi a megye települései településfejlesztési és településrendezési terveit a megyei területfejlesztési koncepcióhoz és programhoz való illeszkedésük érdekében.
 
-(5) A megyei önkormányzat véleményezi települései településrendezési eszközeit, a megyei területrendezési tervvel való összhang megteremtése érdekében.
+(5) A megyei önkormányzat véleményezi települései településrendezési terveit, a megyei területrendezési tervvel való összhang megteremtése érdekében.
