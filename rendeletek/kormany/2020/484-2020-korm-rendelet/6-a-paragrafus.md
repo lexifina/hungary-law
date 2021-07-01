@@ -1,4 +1,4 @@
-6/A. §[^54] (1) A családi eseményt vagy magánrendezvényt az e §-ban foglaltak szerint lehet megtartani.
+6/A. §[^57] (1) A családi eseményt vagy magánrendezvényt az e §-ban foglaltak szerint lehet megtartani.
 
 (2) A családi eseményen vagy magánrendezvényen – az ott foglalkoztatottakon kívül – egy időben
 
@@ -38,4 +38,4 @@ b) a (7) bekezdés szerinti családi esemény vagy magánrendezvény ideje alatt
 
 (14) A (11)–(13) bekezdés szerinti védelmi intézkedés betartatásáról a szálláshely üzemeltetője, illetve vezetője köteles gondoskodni.
 
-[^54]: A 6/A. §-t a 264/2021. (V. 21.) Korm. rendelet 2. §-a iktatta be.
+[^57]: A 6/A. §-t a 264/2021. (V. 21.) Korm. rendelet 2. §-a iktatta be.
