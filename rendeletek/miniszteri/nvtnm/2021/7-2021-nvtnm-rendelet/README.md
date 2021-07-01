@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-7-20-7P
 | --- | --- | --- |
 | 2021-06-04 | 2021-7-20-7P.1 | 7/2021. (VI. 3.) NVTNM rendelet |
 | 2021-06-05 | 2021-7-20-7P.2 | 2010: CXXX. törvény |
+| 2021-07-01 | 2021-7-20-7P.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
