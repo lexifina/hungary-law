@@ -1,4 +1,4 @@
-## 12. §
+## 12. § Ha a Hírközlés Hálózati Nyilvántartásba már bejegyzett adatokhoz képest az adatszolgáltató elektronikus hírközlő hálózatát érintő olyan változás következik be, amely érinti az egységes hírközlési objektummodell adattartalmát, az adatszolgáltató a változás megtörténtét követő három hónapon belül az egységes hírközlési objektummodell aktuális követelményeinek megfelelő tartalmú és szerkezetű adatállomány benyújtásával, elektronikus úton, a Hatóság elektronikus ügyintézési felületén keresztül köteles a változást bejelenteni.
 
 ## 6. Záró rendelkezések
 

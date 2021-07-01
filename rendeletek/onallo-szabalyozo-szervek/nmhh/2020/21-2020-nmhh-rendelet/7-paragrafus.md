@@ -1,5 +1,3 @@
-## 6. §
-
 ## 3. A meglévő elektronikus hírközlő hálózatra, elektronikus hírközlési építményre és kapcsolódó eszközre vonatkozó adatszolgáltatási kötelezettség
 
 ## 7. § A meglévő elektronikus hírközlő hálózat, elektronikus hírközlési építmény és kapcsolódó eszköz tekintetében adatszolgáltatásra kötelezett (a továbbiakban: adatszolgáltató):

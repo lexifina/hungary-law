@@ -1,3 +1,1 @@
-## 14. §[^5]
-
-[^5]: A 14. § a 13. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+## 14. § Azon elektronikus hírközlő hálózat, elektronikus hírközlési építmény és kapcsolódó eszköz vonatkozásában, amely esetében az engedély iránt – 2021. október 1. és 2022. június 30. közötti időszakban – benyújtott kérelem mellékleteként a hírközlési építményre vonatkozó adatokat tartalmazó tervdokumentáció nem az egységes hírközlési objektummodell követelményei szerint került benyújtásra, a 8. § (2) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a változás-bejelentési kötelezettséget a használatbavételi engedély véglegessé válásától számított harminc napon belül kell teljesíteni.
