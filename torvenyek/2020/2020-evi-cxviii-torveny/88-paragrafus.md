@@ -10,9 +10,9 @@ d)
 
 e)
 
-f)
+f) 70. § (3) bekezdése,
 
-g)
+g) 71. § b) pont bb) alpontjában a „ , a 70. § (3) bekezdése szerinti bejelentés megtételével” szöveg,
 
 h)
 

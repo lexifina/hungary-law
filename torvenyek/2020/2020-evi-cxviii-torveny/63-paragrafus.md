@@ -1,1 +1,3 @@
-### 63. §
+63. § Az Áfa tv. Átmeneti rendelkezések alcíme a következő 344. §-sal egészül ki:
+
+„344. § A 253/O. § (5) bekezdése alkalmazásában teljesítésnek és a fizetendő adó megállapítása időpontjának a termék vámjogi szabad forgalomba bocsátásának időpontját kell tekinteni, abban az esetben, ha a fizetés elfogadása 2021. július 1. napját megelőzi, míg a termék vámjogi szabad forgalomba bocsátása 2021. június 30. napját követi.”
