@@ -1,4 +1,4 @@
-## 37. § Hatályát veszti az elektronikus hírközlési előfizetői szerződések részletes szabályairól szóló 2/2015. (III. 30.) NMHH rendelet.
+## 37. §[^1]
 
 38. § (1) E rendelet
 
@@ -17,3 +17,5 @@ a) az (EU) 2018/1972 európai parlamenti és tanácsi irányelv alapján a nyilv
 b) a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjakkal kapcsolatos intézkedések meghozataláról, továbbá a 2002/22/EK irányelv és az 531/2012/EU rendelet módosításáról szóló, 2015. november 25-i (EU) 2015/2120 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^1]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
