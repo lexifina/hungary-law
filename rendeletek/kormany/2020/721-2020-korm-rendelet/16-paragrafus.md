@@ -1,4 +1,4 @@
-## 15. §[^16]
+## 15. §[^15]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. § (2) bekezdése 2024. január 1-jén lép hatályba.
 
-[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
