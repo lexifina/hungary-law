@@ -82,43 +82,65 @@ de) hozzájáruló nyilatkozatát, ha a gyermek a 14. életévét betöltötte,
 
 e) a szülői felügyeletet gyakorló szülők vagy a nagykorú gyermek nyilatkozatát a gyermek születési családi nevének viseléséről,
 
-f) ha az apa jognyilatkozatának érvényességéhez törvényes képviselőjének hozzájárulása szükséges, a törvényes képviselő
+f) ha az apa vagy az anya jognyilatkozatának érvényességéhez törvényes képviselőjének hozzájárulása szükséges, a törvényes képviselő
 
-g) ha az apai elismerő nyilatkozat tételében gondnok vagy gyám közreműködik,
+fa) születési családi és utónevét,
 
-ga) a gondnokot vagy gyámot kirendelő szerv megnevezését,
+fb) házassági nevét,
 
-gb) a kirendelő határozat számát,
+fc) születési helyét,
 
-gc) a kirendelt gondnok vagy gyám nevét,
+fd) születési idejét,
 
-gd) a kirendelt gondnok vagy gyám nyilatkozatát,
+fe) anyja születési családi és utónevét és
 
-h) az anya nyilatkozatát arról, hogy tudomása szerint apaság megállapítása iránti per van-e folyamatban, ha igen
+ff) nyilatkozatát,
 
-ha) az eljáró bíróság megnevezését,
+g) ha a gyermeknek nem az anya a törvényes képviselője, illetve ha az anya és a gyermek között – születendő gyermek esetén az anya és a magzat között – érdekellentét áll fenn, a gyermek vagy magzat törvényes képviselője
 
-hb) a per ügyszámát,
+ga) születési családi és utónevét,
 
-i) a nyilatkozattal érintett nem magyar állampolgár nyilatkozatát arról, hogy a magyar nyelvet érti és beszéli,
+gb) házassági nevét,
 
-j) ha a nyilatkozat megtételében közreműködött, a tolmács
+gc) születési helyét,
 
-ja) nevét,
+gd) születési idejét,
 
-jb) lakóhelyét,
+ge) anyja születési családi és utónevét és
 
-jc) személyazonosító okmányának típusát, okmányazonosítóját és érvényességi idejét,
+gf) nyilatkozatát,
 
-k) az apai elismerő nyilatkozat és a hozzájáruló nyilatkozatok megtételének és rögzítésének helyét és idejét,
+h) ha az apai elismerő nyilatkozat tételénél gondnok vagy gyám közreműködik,
 
-l) az apai elismerő nyilatkozat azonosító számát,
+ha) a gondnokot vagy gyámot kirendelő szerv megnevezését,
 
-m) – ha az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot nem az anyakönyvvezető előtt tették – a nyilatkozatot felvevő szerv megnevezését és személy nevét,
+hb) a kirendelő határozat számát,
 
-n) az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot rögzítő személy nevét és felhasználói azonosítóját, valamint
+i) az anya nyilatkozatát arról, hogy tudomása szerint apaság megállapítása iránti per van-e folyamatban, ha igen,
 
-o) az elektronikus anyakönyv adatai alapján az a) pont aa)–ae) alpontjában és ah) alpontjában, a b) pont ba)–be) alpontjában és bg) alpontjában, továbbá a d) pont da)–dd) alpontjában foglalt adatok, valamint a szülői felügyeletet gyakorló szülők e) pont szerinti nyilatkozatának változását.
+ia) az eljáró bíróság megnevezését,
+
+ib) a per ügyszámát,
+
+j) a nyilatkozattal érintett nem magyar állampolgár nyilatkozatát arról, hogy a magyar nyelvet érti és beszéli,
+
+k) ha a nyilatkozat megtételénél tolmács működött közre, akkor
+
+ka) a tolmácsolás nyelvét,
+
+kb) a tolmács házassági nevét, születési családi és utónevét,
+
+kc) a tolmács lakóhelyét,
+
+kd) a tolmács személyazonosító okmányának típusát, okmányazonosítóját és érvényességi idejét,
+
+l) az apai elismerő nyilatkozat és a hozzájáruló nyilatkozatok megtételének és rögzítésének helyét és idejét,
+
+m) az apai elismerő nyilatkozat azonosító számát,
+
+n) – ha az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot nem az anyakönyvvezető előtt tették – a nyilatkozatot felvevő szerv megnevezését, továbbá a nyilatkozatot felvevő személy nevét,
+
+o) az apai elismerő nyilatkozatot vagy a hozzájáruló nyilatkozatot rögzítő személy nevét és felhasználói azonosítóját.
 
 (3) Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat törölni kell, ha az apai jogállást nem az apai elismerő nyilatkozat alapján töltötték be. Az apai elismerő nyilatkozattal összefüggésben nyilvántartott adatokat az apa adatait az anyakönyvbe bejegyző személy kezdeményezésére a nevének és felhasználói azonosítójának feltüntetésével a gyermek születési helye szerint illetékes anyakönyvi szerv, külföldön történt születés esetében pedig a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törli az apai elismerő nyilatkozatok nyilvántartásából.
 

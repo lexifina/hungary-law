@@ -38,7 +38,7 @@ q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
 
 r) adatmódosítás: adatváltozás bejegyzése vagy hibás adat javításának elvégzése,
 
-s) adattörlés: az anyakönyvben szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
+s) adattörlés: az anyakönyvben és apai elismerő nyilatkozatok nyilvántartásában szereplő adat vagy adatcsoport felismerhetetlenné tétele olyan módon, hogy a helyreállításuk többé nem lehetséges,
 
 t) eseményazonosító: az adott anyakönyvi eseményt azonosító alfanumerikus azonosító,
 

@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2021-03-01 | 2020. évi CLXVI. törvény | 2010-1-00-00.22 |
 | 2021-04-08 | 11/2021. (IV. 7.) AB határozat | 2010-1-00-00.23 |
 | 2021-06-04 | 2021. évi L. törvény | 2010-1-00-00.24 |
+| 2021-07-01 | 2020. évi CLXVI. törvény | 2010-1-00-00.25 |

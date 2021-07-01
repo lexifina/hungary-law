@@ -6,7 +6,7 @@ b) kérheti az anyakönyvezett utóneve helyett az annak megfelelő nemzetiségi
 
 c) kérheti az anyakönyvezett családi neve helyett az adott nemzetiségi nyelv szabályai szerint képzett családi név bejegyzését, és
 
-d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utónevét az adott nemzetiségi nyelven, vagy az adott nemzetiségi nyelven is bejegyezzék.
+d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utónevét az adott nemzetiségi nyelven is bejegyezzék.
 
 (2) A nemzetiségi utónév bejegyzésére irányuló kérelemben nyilatkozni kell arról, hogy a választott nevet mely nemzetiség használja.
 

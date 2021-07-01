@@ -18,7 +18,7 @@ af) családi állapotát,
 
 ag) házasságkötésének, bejegyzett élettársi kapcsolata létesítésének helyét és idejét,
 
-ah) lakóhelyét, annak hiányában tartózkodási helyét, valamint ha ilyennel rendelkezik, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti értesítési címét vagy azt a címet, amelyen a hatósággal kapcsolatot kíván tartani,
+ah) lakóhelyét, annak hiányában tartózkodási helyét vagy azt a címet, amelyen a hatósággal kapcsolatot kíván tartani,
 
 ai) személyazonosságát és magyar állampolgárságát igazoló okiratának típusát, számát és érvényességi idejét,
 

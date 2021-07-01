@@ -11,3 +11,7 @@ ab)
 b) – ha a gyermek a nyilatkozattétel időpontjában már megszületett – a születést nyilvántartó anyakönyvvezető
 
 rögzíti az apai elismerő nyilatkozatok nyilvántartásában.
+
+(3) Az apai elismerő nyilatkozatok nyilvántartásába bejegyzett hibás adat javítására a rögzítő anyakönyvvezető vagy a születést nyilvántartó anyakönyvvezető illetékes.
+
+(4) Az apai elismerő nyilatkozatok nyilvántartásából történő törlésre a születés helye szerint illetékes anyakönyvi szerv vagy külföldön történt születés esetén a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv illetékes.
