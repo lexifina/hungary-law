@@ -1,6 +1,6 @@
-## Kereskedőváltás[^144]
+## Kereskedőváltás[^145]
 
-26. §[^145] (1) Ha a villamosenergia-kereskedő a VET 47/B. § (6) bekezdés b) pontja szerinti értesítést küld a felhasználónak, a villamosenergia-kereskedő részletes tájékoztatást ad a felhasználónak a nem teljesített szerződéses feltételekről – így különösen a lejárt tartozásról –, és azok teljesítésének módjáról.
+26. §[^146] (1) Ha a villamosenergia-kereskedő a VET 47/B. § (6) bekezdés b) pontja szerinti értesítést küld a felhasználónak, a villamosenergia-kereskedő részletes tájékoztatást ad a felhasználónak a nem teljesített szerződéses feltételekről – így különösen a lejárt tartozásról –, és azok teljesítésének módjáról.
 
 (2) Ha a felhasználó a felmondáshoz szükséges szerződési feltételeket teljesítette, a villamosenergia-kereskedő a teljesítésről való tudomásszerzést követően haladéktalanul írásban visszaigazolást küld a VET 47/B. § (6) bekezdés a) pontja szerint, és ezzel egyidejűleg teljesíti a VET 47/B. § (9) bekezdése szerinti bejelentési kötelezettségét.
 
@@ -22,5 +22,5 @@ megszűnik.
 
 (8) A kereskedőváltással kapcsolatos kötelezettségeket nem teljesítő villamosenergia-kereskedő vagy hálózati engedélyes a kereskedőváltás késedelme miatt köteles az érintettek kárát és költségét kamatokkal együtt megtéríteni.
 
-[^144]: A Vhr. 26. §-át megelőző alcímet a 100/2011. (VI. 29.) Korm. rendelet 12. §-a iktatta be.
-[^145]: A Vhr. 26. §-a a 721/2020. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^145]: A Vhr. 26. §-át megelőző alcímet a 100/2011. (VI. 29.) Korm. rendelet 12. §-a iktatta be.
+[^146]: A Vhr. 26. §-a a 721/2020. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.

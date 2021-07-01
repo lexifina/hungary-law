@@ -1,3 +1,3 @@
-112. §[^370]
+112. §[^371]
 
-[^370]: A Vhr. 112. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.
+[^371]: A Vhr. 112. §-a a 80/2019. (IV. 15.) Korm. rendelet 13. §-a alapján hatályát vesztette.

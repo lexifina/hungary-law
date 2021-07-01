@@ -1,4 +1,4 @@
-120/A. §[^418] E rendeletnek az egyes kormányrendeletek energiahatékonysággal összefüggő módosításáról szóló 123/2015. (V. 26.) Korm. rendelet [a továbbiakban: 123/2015. (V. 26.) Korm. rendelet] 9. §-ával megállapított 14. § (9) bekezdését a 123/2015. (V. 26.) Korm. rendelet hatálybalépésének[^419] napját megelőzően meghirdetett energiahatékonysági pályázatok keretében megvalósuló jelentős felújítások esetében nem kell alkalmazni.
+120/A. §[^419] E rendeletnek az egyes kormányrendeletek energiahatékonysággal összefüggő módosításáról szóló 123/2015. (V. 26.) Korm. rendelet [a továbbiakban: 123/2015. (V. 26.) Korm. rendelet] 9. §-ával megállapított 14. § (9) bekezdését a 123/2015. (V. 26.) Korm. rendelet hatálybalépésének[^420] napját megelőzően meghirdetett energiahatékonysági pályázatok keretében megvalósuló jelentős felújítások esetében nem kell alkalmazni.
 
-[^418]: A Vhr. 120/A. §-át újonnan a 123/2015. (V. 26.) Korm. rendelet 14. §-a iktatta be.
-[^419]: A hatálybalépés időpontja 2015. június 7.
+[^419]: A Vhr. 120/A. §-át újonnan a 123/2015. (V. 26.) Korm. rendelet 14. §-a iktatta be.
+[^420]: A hatálybalépés időpontja 2015. június 7.

@@ -1,32 +1,32 @@
 ## (A VET 72. §-ához)
 
-## Üzletszabályzat[^249]
+## Üzletszabályzat[^250]
 
-51. §[^250] (1) Az engedélyes üzletszabályzata tervezetét honlapján közzéteszi. Az átviteli rendszerirányító az üzletszabályzat tervezetének közzétételéről az érintett engedélyeseket tájékoztatja.
+51. §[^251] (1) Az engedélyes üzletszabályzata tervezetét honlapján közzéteszi. Az átviteli rendszerirányító az üzletszabályzat tervezetének közzétételéről az érintett engedélyeseket tájékoztatja.
 
-(2)[^251] Az üzletszabályzat tervezetének a VET. 72. § (3) bekezdése szerinti egyeztetése során az engedélyes – az átviteli rendszerirányító kivételével – a tervezetet az érintett energetikai felhasználói érdekképviseletekkel közvetlenül egyezteti, és a beérkezett észrevételekkel együtt nyújtja be a Hivatal részére jóváhagyásra.
+(2)[^252] Az üzletszabályzat tervezetének a VET. 72. § (3) bekezdése szerinti egyeztetése során az engedélyes – az átviteli rendszerirányító kivételével – a tervezetet az érintett energetikai felhasználói érdekképviseletekkel közvetlenül egyezteti, és a beérkezett észrevételekkel együtt nyújtja be a Hivatal részére jóváhagyásra.
 
 (3) Az engedélyesek az észrevételek megtételére legalább 20 napos határidőt biztosítanak. A beérkezett véleményeket és az egyeztetés eredményét rögzíteni kell. Amennyiben az érdekképviselet vagy az engedélyes véleménye az üzletszabályzatba nem kerül beépítésre és a felek közötti érdekellentét feloldhatatlan, vagy az észrevételt tevő ezt kéri, a Hivatalhoz az üzletszabályzat jóváhagyására irányuló kérelem mellékleteként be kell nyújtani az észrevételt tevő véleményét is.
 
 (4) A Hivatal a jóváhagyási eljárás keretében a (3) bekezdés szerinti, fennmaradt vitás kérdésekben dönt, és az üzletszabályzatot jóváhagyja, a jóváhagyást feltételekhez köti vagy a jóváhagyást megtagadja.
 
-(5)[^252] Az üzletszabályzat készítése alól a VET 72. § (5) bekezdése alapján történő felmentésre vonatkozó kérelemhez mellékelni kell az engedélyes által alkalmazandó szerződésmintát.
+(5)[^253] Az üzletszabályzat készítése alól a VET 72. § (5) bekezdése alapján történő felmentésre vonatkozó kérelemhez mellékelni kell az engedélyes által alkalmazandó szerződésmintát.
 
 (6) Az (5) bekezdésben foglaltakat az átviteli kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörben és a kapcsolt mérlegkörben történő értékesítés esetében nem kell alkalmazni.
 
-(7)[^253] Az engedélyes az üzletszabályzatát – a (7a) bekezdésben foglalt kivétellel – a Hivatal jóváhagyó határozatának keltétől számítva legalább évente felülvizsgálja.
+(7)[^254] Az engedélyes az üzletszabályzatát – a (7a) bekezdésben foglalt kivétellel – a Hivatal jóváhagyó határozatának keltétől számítva legalább évente felülvizsgálja.
 
-(7a)[^254] Az egyetemes szolgáltató üzletszabályzatát a Hivatal jóváhagyó határozatának közlésétől számítva legalább félévente felülvizsgálja.
+(7a)[^255] Az egyetemes szolgáltató üzletszabályzatát a Hivatal jóváhagyó határozatának közlésétől számítva legalább félévente felülvizsgálja.
 
-(7b)[^255] Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és az engedélyes által alkalmazott működési gyakorlatból eredő változásokra és szerződéses jogviszonyokra. Ha a felülvizsgálat során az engedélyes megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát lényegesen érinti, a módosítást átvezeti, és a változásokkal egységes szerkezetbe foglalt, alkalmazni kíván üzletszabályzat tervezetét a (2) bekezdés szerinti egyeztetést követően haladéktalanul benyújtja a Hivatalhoz jóváhagyásra. Ha a felülvizsgálat alapján nem indokolt az üzletszabályzat módosítása, az engedélyes erről írásbeli bejelentést tesz a Hivatalhoz.
+(7b)[^256] Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és az engedélyes által alkalmazott működési gyakorlatból eredő változásokra és szerződéses jogviszonyokra. Ha a felülvizsgálat során az engedélyes megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát lényegesen érinti, a módosítást átvezeti, és a változásokkal egységes szerkezetbe foglalt, alkalmazni kíván üzletszabályzat tervezetét a (2) bekezdés szerinti egyeztetést követően haladéktalanul benyújtja a Hivatalhoz jóváhagyásra. Ha a felülvizsgálat alapján nem indokolt az üzletszabályzat módosítása, az engedélyes erről írásbeli bejelentést tesz a Hivatalhoz.
 
-(8)[^256] Az egyetemes szolgáltató és az elosztó az üzletszabályzatának jóváhagyott módosításáról honlapján és ügyfélszolgálatán közzétett, továbbá – amennyiben az engedélyes a felhasználóval történő kapcsolattartás keretében azzal rendelkezik – a felhasználó elektronikus levélcímére megküldött rövid, a módosítás lényegét bemutató tartalmi összefoglalóban tárgykörönként megjelöli azon üzletszabályzati rendelkezéseket, amelyek a felhasználók jogait vagy kötelezettségeit közvetlenül érintik. A honlapon és ügyfélszolgálaton történő tájékoztatás közzétételének időtartama legalább 3 hónap.
+(8)[^257] Az egyetemes szolgáltató és az elosztó az üzletszabályzatának jóváhagyott módosításáról honlapján és ügyfélszolgálatán közzétett, továbbá – amennyiben az engedélyes a felhasználóval történő kapcsolattartás keretében azzal rendelkezik – a felhasználó elektronikus levélcímére megküldött rövid, a módosítás lényegét bemutató tartalmi összefoglalóban tárgykörönként megjelöli azon üzletszabályzati rendelkezéseket, amelyek a felhasználók jogait vagy kötelezettségeit közvetlenül érintik. A honlapon és ügyfélszolgálaton történő tájékoztatás közzétételének időtartama legalább 3 hónap.
 
-[^249]: A Vhr. 51. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^250]: A Vhr. 51. §-a a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^251]: A Vhr. 51. § (2) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^252]: [A Vhr. 51. § (5) bekezdésének a 378/2011. (XII. 31.) Korm. rendelet 86. §-ával megállapított, a 85. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „(5) A (4) bekezdésben foglaltakat az átviteli kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörben történő értékesítés esetében nem kell alkalmazni.”.]
-[^253]: A Vhr. 51. § (7) bekezdését a 458/2016. (XII. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 401/2020. (VIII. 17.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^254]: A Vhr. 51. § (7a) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.
-[^255]: A Vhr. 51. § (7b) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.
-[^256]: A Vhr. 51. § (8) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 3. §-a iktatta be.
+[^250]: A Vhr. 51. §-át megelőző alcím a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^251]: A Vhr. 51. §-a a 378/2011. (XII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^252]: A Vhr. 51. § (2) bekezdése a 458/2016. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^253]: [A Vhr. 51. § (5) bekezdésének a 378/2011. (XII. 31.) Korm. rendelet 86. §-ával megállapított, a 85. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „(5) A (4) bekezdésben foglaltakat az átviteli kötelezettség alá eső villamos energia elszámolására létrehozott mérlegkörben történő értékesítés esetében nem kell alkalmazni.”.]
+[^254]: A Vhr. 51. § (7) bekezdését a 458/2016. (XII. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 401/2020. (VIII. 17.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^255]: A Vhr. 51. § (7a) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^256]: A Vhr. 51. § (7b) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 10. §-a iktatta be.
+[^257]: A Vhr. 51. § (8) bekezdését a 275/2017. (IX. 21.) Korm. rendelet 3. §-a iktatta be.
