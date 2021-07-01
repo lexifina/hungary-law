@@ -4,11 +4,11 @@ a) kiválasztja a várományos helyszíneket,
 
 b) bejelenti a várományos helyszíneket a Központhoz,
 
-c) ötévente felülvizsgálja a Világörökségi Várományos Helyszínek Jegyzékét,
+c) gondoskodik a hazai Világörökségi Várományos Helyszínek Jegyzékének vezetéséről,
 
-d) a c) pont szerinti felülvizsgálat eredményére is figyelemmel javaslatot tesz a Kormány részére a Világörökség Jegyzékbe jelölendő várományos helyszínre (a továbbiakban: a Világörökség Jegyzékbe jelölendő helyszín),
+d) javaslatot tesz a Kormány részére a Világörökség Jegyzékbe jelölendő várományos helyszínre (a továbbiakban: a Világörökség Jegyzékbe jelölendő helyszín),
 
-e) gondoskodik a Kormány döntése alapján a Világörökség Jegyzékbe jelölendő helyszín és javasolt védőövezete világörökségi kezelési tervének elkészítéséről és világörökségi gondnokságának kijelöléséről,
+e) gondoskodik a Kormány döntése alapján a Világörökség Jegyzékbe jelölendő helyszín világörökségi gondnokságának ideiglenes kijelöléséről,
 
 f) intézkedik a Világörökség Jegyzékbe jelölendő helyszín Világörökség Jegyzékbe történő jelöléséről, valamint
 

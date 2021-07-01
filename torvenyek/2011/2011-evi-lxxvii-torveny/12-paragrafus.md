@@ -8,7 +8,7 @@ a) a világörökségi kezelési terv kidolgozását;
 
 b) a 9. § (2) bekezdésében meghatározott szakértői költségeket;
 
-c) a területrendezési tervek és településrendezési eszközök világörökségi kezelési tervben foglaltak szerinti felülvizsgálatát és módosítását;
+c) a területrendezési tervek és a településrendezési tervek világörökségi kezelési tervben foglaltak szerinti felülvizsgálatát és módosítását;
 
 d) a 4/A. § szerinti felülvizsgálattal összefüggésben felmerülő, másra át nem hárítható költségeket és egyéb fizetési kötelezettségeket;
 

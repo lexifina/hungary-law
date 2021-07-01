@@ -12,7 +12,7 @@
 
 (6) A világörökségi területek világörökségi kezelési tervében foglaltak figyelembevételével kell különösen
 
-a) a területrendezési tervet, valamint a területfelhasználás rendjét és a területhasználat szabályait érintően a településrendezési eszközöket felülvizsgálni, és szükség esetén módosítani, összhangba hozni;
+a) a területrendezési tervet, valamint a területfelhasználás rendjét és a területhasználat szabályait érintően a településrendezési tervet felülvizsgálni, és szükség esetén módosítani, összhangba hozni;
 
 b) a világörökségi terület vagy a Világörökség Jegyzékbe jelölendő helyszín természeti és kulturális örökségi értékeit érő káros hatások bekövetkezését megelőzni, a káros hatásokat elhárítani, csökkenteni; valamint
 

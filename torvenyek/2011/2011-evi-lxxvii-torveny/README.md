@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-77-00-00
 | 2018-07-26 | 2018. évi XL. törvény | 2011-77-00-00.19 |
 | 2019-07-16 | 2019. évi LXIV. törvény | 2011-77-00-00.20 |
 | 2021-06-29 | 2021. évi CI. törvény | 2011-77-00-00.21 |
+| 2021-07-01 | 2021. évi XXXIX. törvény | 2011-77-00-00.22 |

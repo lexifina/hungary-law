@@ -4,7 +4,7 @@
 
 (2) Az illetékes országos szervezetek, valamint a megyei önkormányzatok a területrendezési terveik 8. § (6) bekezdés a) pontja szerinti összhangja megteremtéséről a világörökségi kezelési tervek kihirdetését követően legkésőbb 5 éven belül, illetve más jogszabályból fakadó kötelező felülvizsgálat vagy más okból elvégzett módosítás alkalmával kötelesek gondoskodni.
 
-(3) A települési (fővárosi, fővárosi kerületi) önkormányzatok a településrendezési eszközeik 8. § (6) bekezdés a) pontja szerinti módosításáról a világörökségi kezelési tervek kihirdetését követő tizennyolc hónapon belül kötelesek gondoskodni.
+(3) A települési (fővárosi, fővárosi kerületi) önkormányzatok a településrendezési tervük 8. § (6) bekezdés a) pontja szerinti módosításáról a világörökségi kezelési tervek kihirdetését követő tizennyolc hónapon belül kötelesek gondoskodni.
 
 (4) A világörökségi gondnokságot az e törvény hatálybalépésétől számított 14 hónapon belül kell kijelölni.
 

@@ -24,6 +24,6 @@ j) gondoskodik a kiemelkedő egyetemes értéket hordozó örökség széles kö
 
 k) gondoskodik a világörökség állapotának figyelemmel kísérése, értékeinek megóvása során a létesítő okiratuk szerint kulturális örökség védelmével, illetve természeti értékek esetén a természetvédelemmel foglalkozó civil szervezetekkel való együttműködésről;
 
-l) gondoskodik a hazai világörökségi területek és a Világörökségi Várományos Helyszínek Jegyzékének mint közhiteles nyilvántartásnak a vezetéséről;
+l)
 
-m) jogszabályban meghatározott módon gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.
+m) gondoskodik a hazai világörökségi területek jogszabályban meghatározott – személyes adatot nem tartalmazó – adatai központi, közhiteles nyilvántartásának vezetéséről.

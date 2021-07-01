@@ -14,10 +14,8 @@ e) a világörökségi területre vonatkozóan a kiemelkedő egyetemes értéket
 
 f) a világörökségi helyszínen található ingatlanok vonatkozásában a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait, a 6/A. § (5) bekezdésében meghatározott hatóság kijelölését, valamint az elővásárlási joggal érintett ingatlanok adatait.
 
-(2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy – az 1. mellékletben meghatározott miniszterekkel egyetértésben – rendeletben állapítsa meg:
+g) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat.
 
-a) a világörökségi komplex hatásvizsgálati dokumentáció tartalmi elemeit, valamint az annak elkészítésére vonatkozó különös szabályokat;
-
-b) a világörökségi területtel érintett ingatlanokat.
+(2) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy rendeletben állapítsa meg a Világörökségi Várományos Helyszínek Jegyzékét.
 
 (3)
