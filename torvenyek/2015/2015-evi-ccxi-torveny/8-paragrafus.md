@@ -38,7 +38,7 @@ i) a jogszabályi kötelezés alapján felszerelt szén-monoxid-érzékelő bere
 
 j) a kéményseprő-ipari tevékenységről szóló statisztikai adatlap tartalmi követelményeit;
 
-k)
+k) a kéményseprő-ipari műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat;
 
 l) a kéményseprő-ipari szolgáltató kéményseprő-ipari tevékenység végzéséhez szükséges szakmai, személyi, tárgyi és gazdasági feltételeket;
 
