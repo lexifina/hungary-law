@@ -14,7 +14,21 @@ c) a Kormány rendeletében a kormányzati informatikai beszerzésekre kijelölt
 
 ## veszi igénybe a SZEÜSZ-t, valamint a KEÜSZ-t.
 
-(2a)[^37] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a Kormány által biztosított szabályozott elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartás és a központi azonosítási ügynök KEÜSZ szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés szolgáltató által nyújtott tanúsítványszolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult a 150. § (1) bekezdésében meghatározott nyilvántartásokban vagy adatbázisokban szereplő adatok szolgáltatására, illetve igénybevételére.
+(2a)[^37] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a Kormány által biztosított szabályozott elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartás és a központi azonosítási ügynök KEÜSZ szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés szolgáltató által nyújtott tanúsítványszolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult
+
+a) a 150. § (1) bekezdésében meghatározott vagy
+
+b) a Központi Kormányzati Szolgáltatás Busz KEÜSZ-höz csatlakozott és azon keresztül adatot szolgáltató
+
+ba) elektronikus ügyintézést biztosító szerv,
+
+bb) állami vagy önkormányzati költségvetési szerv vagy
+
+bc) az állam többségi befolyása alatt álló gazdasági társaság
+
+## által kezelt
+
+## nyilvántartásokban vagy adatbázisokban szereplő adatok szolgáltatására, illetve igénybevételére.
 
 (2b)[^38] A Központi Kormányzati Szolgáltatás Busz KEÜSZ, valamint a központi azonosítási ügynök KEÜSZ szolgáltatás (2a) bekezdésben meghatározott igénybevételére jogosult az E-ügyintézési tv. 1. § 17. pont j) és l) alpontja szerinti elektronikus ügyintézést biztosító szerv is.
 
@@ -45,7 +59,7 @@ b) ha az igénybevevő nem teljesíti a szerződésben vállalt kötelezettsége
 [^34]: A 23/A. alcímet (68/A–68/B. §) a 361/2017. (XI. 30.) Korm. rendelet 5. § (5) bekezdése iktatta be.
 [^35]: A 68/A. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 11. § (12) bekezdés a) pontja szerint módosított szöveg.
 [^36]: A 68/A. § (2) bekezdése a 683/2020. (XII. 28.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^37]: A 68/A. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege az 541/2020. (XII. 2.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^37]: A 68/A. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^38]: A 68/A. § (2b) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
 [^39]: A 68/A. § (2c) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (3) bekezdése iktatta be.
 [^40]: A 68/A. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 89. § (2) bekezdésével megállapított szöveg.
