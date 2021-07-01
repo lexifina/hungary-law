@@ -1,4 +1,4 @@
-3/A. §[^1] (1) A Beruházás esetében a beépítés szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
+3/A. §[^2] (1) A Beruházás esetében a beépítés szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -22,4 +22,4 @@ a) a telek beépítési módja szabadon álló,
 
 b) a kialakítható telek legkisebb területe 3000 m2.
 
-[^1]: A 3/A. §-t a 174/2021. (IV. 9.) Korm. rendelet 7. §-a iktatta be.
+[^2]: A 3/A. §-t a 174/2021. (IV. 9.) Korm. rendelet 7. §-a iktatta be.

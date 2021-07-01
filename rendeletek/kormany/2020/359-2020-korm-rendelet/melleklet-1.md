@@ -1,4 +1,4 @@
-## 6. §[^3] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3/A. és 3/B. §-át, valamint 2. mellékletét a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^6] E rendeletnek a Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 31/2016. (II. 25.) Korm. rendelet és az Iváncsa község külterületén megvalósuló ipari park fejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 359/2020. (VII. 23.) Korm. rendelet módosításáról szóló 342/2021. (VI. 15.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 359/2020. (VII. 23.) Korm. rendelethez
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 6. §-t a 174/2021. (IV. 9.) Korm. rendelet 8. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2021. április 10.
+[^6]: A 7. §-t a 342/2021. (VI. 15.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2021. július 1.
