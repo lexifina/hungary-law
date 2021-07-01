@@ -4,10 +4,6 @@
 
 (2) A települési nemzetiségi önkormányzati jelöltet a helyi választási bizottság veszi nyilvántartásba.
 
-(3) A jelöltnek arról is nyilatkoznia kell, hogy
+(3)
 
-a) a nemzetiség képviseletét vállalja,
-
-b) a nemzetiségi közösség nyelvét beszéli, kultúráját és hagyományait ismeri.
-
-(4) A választási bizottság a jelöltek nyilvántartásában ellenőrzi, hogy a jelölt a nemzetiségi önkormányzati képviselők megelőző két általános választásán, valamint az azokat követő időközi választásokon nem volt jelölt más nemzetiség önkormányzatának választásán.
+(4)

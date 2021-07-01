@@ -4,4 +4,4 @@
 
 (2) A területi nemzetiségi önkormányzati választáson állított listát és az azon szereplő jelölteket a területi választási bizottság, az országos nemzetiségi önkormányzati választáson állított listát és az azon szereplő jelölteket a Nemzeti Választási Bizottság veszi nyilvántartásba.
 
-(3) A 318. § (3) és (4) bekezdésének rendelkezéseit a listán állított jelöltekre is alkalmazni kell.
+(3) A 317. § (1) és (2) bekezdésének rendelkezéseit a listán állított jelöltekre is alkalmazni kell.

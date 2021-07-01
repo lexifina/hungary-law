@@ -2,7 +2,7 @@
 
 37. § (1) A választási bizottság tagja a megválasztását vagy bejelentését követő öt napon belül, a szavazatszámláló bizottság tagja legkésőbb a szavazást megelőző második napon esküt vagy fogadalmat tesz.
 
-(2) A választási bizottság 28. § (5) bekezdése szerint megbízott tagja legkésőbb a szavazást megelőző napon tesz esküt vagy fogadalmat.
+(2) A választási bizottság 245. § (4) bekezdése szerint megbízott tagja legkésőbb a szavazást megelőző napon tesz esküt vagy fogadalmat.
 
 (3) A Nemzeti Választási Bizottság választott tagja és póttagja az Országgyűlés előtt, a Nemzeti Választási Bizottság megbízott tagja az Országgyűlés elnöke előtt, a területi választási bizottság tagja és póttagja a főpolgármester, megyei közgyűlés elnöke előtt, a szavazatszámláló bizottság, az országgyűlési egyéni választókerületi választási bizottság és a helyi választási bizottság tagja és póttagja a polgármester előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel tesz esküt vagy fogadalmat.
 

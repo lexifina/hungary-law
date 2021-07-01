@@ -8,6 +8,8 @@ b) a választójoggal nem rendelkező polgárok nyilvántartása,
 
 c) a szavazókörök és választókerületek nyilvántartása.
 
+d) a központi útiokmány-nyilvántartás.
+
 (2) A Nemzeti Választási Iroda közvetlen hozzáférést biztosít a választási iroda számára a választópolgárok központi névjegyzéki adataihoz.
 
 (3) A választópolgár a központi névjegyzékben nyilvántartott adatairól a magyarországi lakcíme szerinti helyi választási irodában, a magyarországi lakcímmel nem rendelkező választópolgár a Nemzeti Választási Irodában másolatot kérhet.

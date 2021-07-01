@@ -10,4 +10,4 @@
 
 (5) Az ajánlás nem vonható vissza.
 
-(6) Az ajánlóíven az ajánlást gyűjtő személy feltünteti nevét, személyi azonosítóját – ha nem rendelkezik személyi azonosítóval, a személyazonosságát igazoló hatósági igazolványának számát – és aláírását.
+(6) Az ajánlóíven az ajánlást gyűjtő személy feltünteti nevét, személyi azonosítóját vagy személyazonosságát igazoló hatósági igazolványa számát és aláírását.

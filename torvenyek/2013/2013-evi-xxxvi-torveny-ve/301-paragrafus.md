@@ -2,4 +2,4 @@
 
 ## A HELYI ÖNKORMÁNYZATI KÉPVISELŐK ÉS POLGÁRMESTEREK VÁLASZTÁSA
 
-301. § A helyi önkormányzati képviselők és polgármesterek választásán e törvény I–XII. Fejezetét, továbbá a 250. § (6) bekezdését az e fejezetben foglalt eltérésekkel kell alkalmazni.
+301. § A helyi önkormányzati képviselők és polgármesterek választásán e törvény I–XII. Fejezetét, továbbá a 250. § (6) és (7) bekezdését az e fejezetben foglalt eltérésekkel kell alkalmazni.
