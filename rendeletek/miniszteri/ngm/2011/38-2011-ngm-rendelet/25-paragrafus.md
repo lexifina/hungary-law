@@ -32,6 +32,10 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (14)[^23] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete III. része 13. pontjának a műszaki és tudományos fejlődéshez való hozzáigazítás céljából a króm (VI) tekintetében történő módosításáról szóló, 2018. május 16-i (EU) 2018/725 bizottsági irányelvnek való megfelelést szolgálja.
 
+(15)[^24] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete III. része 13. pontjának a műszaki és tudományos fejlődéshez való hozzáigazítás céljából az alumínium tekintetében történő módosításáról szóló, 2019. november 18-i (EU) 2019/1922 bizottsági irányelvnek való megfelelést szolgálja.
+
+(16)[^25] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete C. függelékének az egyes játékokban használt vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a formaldehid tekintetében történő módosításáról szóló, 2019. november 19-i (EU) 2019/1929 bizottsági irányelvnek való megfelelést szolgálja.
+
 [^11]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^12]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
 [^13]: A 25. § (4) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
@@ -45,3 +49,5 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^21]: A 25. § (12) bekezdését a 14/2018. (IX. 4.) ITM rendelet 7. § (2) bekezdése iktatta be.
 [^22]: A 25. § (13) bekezdését a 14/2018. (IX. 4.) ITM rendelet 7. § (3) bekezdése iktatta be.
 [^23]: A 25. § (14) bekezdését a 14/2018. (IX. 4.) ITM rendelet 7. § (4) bekezdése iktatta be.
+[^24]: A 25. § (15) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (1) bekezdése iktatta be.
+[^25]: A 25. § (16) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (2) bekezdése iktatta be.

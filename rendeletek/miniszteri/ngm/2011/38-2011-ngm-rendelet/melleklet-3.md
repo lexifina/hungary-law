@@ -256,45 +256,47 @@
 
 ## 13. A 3–5. pontban foglalt egyéb rendelkezések sérelme nélkül az anyagok játékokból, valamint a játékok részeiből történő kioldódáskor nem haladhatják meg az alábbi kioldódási értékeket:
 
-| Elem | mg/kg száraz, törékeny, porszerű vagy hajlékony játékanyagokban | mg/kg folyékony vagy ragadós játékanyagokban | mg/kg lekapart játékanyagokban |
+|  | A | B | C | D |
 
-| Alumínium | 5 625 | 1 406 | 70 000 |
+| 1. | Elem | mg/kg száraz, törékeny, porszerű vagy hajlékony játékanyagokban | mg/kg folyékony vagy ragadós játékanyagokban | mg/kg lekapart játékanyagokban |
 
-| Antimon | 45 | 11,3 | 560 |
+| 2. | Alumínium | 2250 | 560 | 28130 |
 
-| Arzén | 3,8 | 0,9 | 47 |
+| 3. | Antimon | 45 | 11,3 | 560 |
 
-| Bárium | 1 500 | 375 | 18 750 |
+| 4. | Arzén | 3,8 | 0,9 | 47 |
 
-| Bór | 1 200 | 300 | 15 000 |
+| 5. | Bárium | 1500 | 375 | 18750 |
 
-| Kadmium | 1,3 | 0,3 | 17 |
+| 6. | Bór | 1200 | 300 | 15000 |
 
-| Króm (III) | 37,5 | 9,4 | 460 |
+| 7. | Kadmium | 1,3 | 0,3 | 17 |
 
-| Króm (VI) | 0,02 | 0,005 | 0,053 |
+| 8. | Króm (III) | 37,5 | 9,4 | 460 |
 
-| Kobalt | 10,5 | 2,6 | 130 |
+| 9. | Króm (VI) | 0,02 | 0,005 | 0,053 |
 
-| Réz | 622,5 | 156 | 7 700 |
+| 10. | Kobalt | 10,5 | 2,6 | 130 |
 
-| Ólom | 2,0 | 0,5 | 23 |
+| 11. | Réz | 622,5 | 156 | 7700 |
 
-| Mangán | 1 200 | 300 | 15 000 |
+| 12. | Ólom | 2,0 | 0,5 | 23 |
 
-| Higany | 7,5 | 1,9 | 94 |
+| 13. | Mangán | 1200 | 300 | 15000 |
 
-| Nikkel | 75 | 18,8 | 930 |
+| 14. | Higany | 7,5 | 1,9 | 94 |
 
-| Szelén | 37,5 | 9,4 | 460 |
+| 15. | Nikkel | 75 | 18,8 | 930 |
 
-| Stroncium | 4 500 | 1 125 | 56 000 |
+| 16. | Szelén | 37,5 | 9,4 | 460 |
 
-| Ón | 15 000 | 3 750 | 180 000 |
+| 17. | Stroncium | 4500 | 1125 | 56000 |
 
-| Szerves ón | 0,9 | 0,2 | 12 |
+| 18. | Ón | 15000 | 3750 | 180000 |
 
-| Cink | 3 750 | 938 | 46 000 |
+| 19. | Szerves ón | 0,9 | 0,2 | 12 |
+
+| 20. | Cink | 3750 | 938 | 46000 |
 
 ## 14. Ezek a határértékek nem vonatkoznak azokra a játékokra vagy játékok részeire, amelyek hozzáférhetőségük, funkciójuk, térfogatuk vagy tömegük miatt egyértelműen kizárnak minden olyan veszélyt, amely a játék szopogatásából, nyalogatásából, lenyeléséből vagy a bőrrel való hosszabb érintkezéséből eredhet, hogy, ha a 9. §-ban meghatározottak szerint használják.
 
@@ -424,15 +426,15 @@
 
 | 1. | Anyag | CAS-szám | Határérték |
 
-| 2. | 1,2-benzizotiazol-3(2H)-on | 2634-33-5 | 5 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban, az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint |
+| 2. | 1,2-benzizotiazol-3(2H)-on | 2634-33-5 | 5 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban, az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően |
 
-| 3. | 5-klór-2-metil-4-izotiazolin- 3-on [EK-szám: 247-500-7] és a 2-metil-2H-izotiazol-3-on [EK- szám: 220-239-6] reakcióelegye (3:1) | 55965-84-9 | 1 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban |
+| 3. | 5-klór-2-metil-4-izotiazolin- 3-on [EK-szám: 247-500-7] és a 2-metil-2H-izotiazol- 3-on [EK-szám: 220-239-6] reakcióelegye (3:1) | 55965-84-9 | 1 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban |
 
 | 4. | 5-klór-2-metil-izotiazolin- 3(2H)-on | 26172-55-4 | 0,75 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban |
 
 | 5. | 2-metil-izotiazolin-3(2H)-on | 2682-20-4 | 0,25 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban |
 
-| 6. | Biszfenol-A | 80-05-7 | 0,04 mg/l (kioldódási határérték) az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszerek szerint mérve vagy azokkal egyenértékű műszaki megoldások szerint |
+| 6. | Biszfenol-A | 80-05-7 | 0,04 mg/l (kioldódási határérték) az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszerek szerint mérve |
 
 | 7. | Formamid | 75-12-7 | 20 μg/m3 (kibocsátási határérték) a habosított műanyagból készült játékok több mint 200 mg/kg formamidot (tartalmon alapuló küszöbérték) tartalmazó alapanyaga tekintetében végzett kibocsátásvizsgálat kezdete után legfeljebb 28 nappal |
 
@@ -442,7 +444,9 @@
 
 | 10. | TDCP | 13674-87-8 | 5 mg/kg (tartalomra vonatkozó határérték) |
 
-| 11. | Fenol | 108-95-2 | 5 mg/l (kioldódási határérték) polimer anyagokban az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint 10 mg/kg (tartalomra vonatkozó határérték) tartósítószerként az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően vagy azokkal egyenértékű műszaki megoldások szerint |
+| 11. | Fenol | 108-95-2 | 5 mg/l (kioldódási határérték) polimer anyagokban az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően 10 mg/kg (tartalomra vonatkozó határérték) tartósítószerként az MSZ EN 71-10:2006 és az MSZ EN 71-11:2006 szabványban meghatározott módszereknek megfelelően |
+
+| 12. | Formaldehid | 50-00-0 | 1,5 mg/l (kioldódási határérték) polimer játékanyagokban 0,1 ml/m3 (kibocsátási határérték) gyantával összeragasztott fa játékanyagokban 30 mg/kg (tartalomra vonatkozó határérték) textil játékanyagokban 30 mg/kg (tartalomra vonatkozó határérték) bőr játékanyagokban 30 mg/kg (tartalomra vonatkozó határérték) papír játékanyagokban 10 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban. |
 
 3. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
