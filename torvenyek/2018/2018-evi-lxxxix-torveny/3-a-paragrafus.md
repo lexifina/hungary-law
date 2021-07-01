@@ -52,4 +52,6 @@ f)
 
 5. részére oktatási igazolvány kerül kibocsátásra.
 
+(2a) A (2) bekezdés 3a. pontja szerinti esetben az oktatási azonosító szám kiadása nem magyar állampolgár esetén a képzésben részt vevő személy kérelmére történik.
+
 (3) A kiadott oktatási azonosító számot az azt igénylő köznevelési intézmény, szakképző intézmény, felsőoktatási intézmény, illetve felnőttképző számára az oktatási nyilvántartás 4. § (1) bekezdés a)–d) pontja szerinti szakrendszere útján kell elérhetővé tenni és egyidejűleg át kell adni a pályakövetési rendszer részére.

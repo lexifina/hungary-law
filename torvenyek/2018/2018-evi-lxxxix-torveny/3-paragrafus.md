@@ -12,4 +12,4 @@ c) személyazonosító okmány száma.
 
 (3a) A személyiadat- és lakcímnyilvántartást kezelő szerv minden év január 15-éig adatot szolgáltat az oktatási nyilvántartás működéséért felelős szerv számára az adott évben a harmadik életévüket betöltő gyermekek, továbbá folyamatosan a Magyarország területére érkező óvodába járni köteles vagy tanköteles gyermekek 2. § a)–h) pontja szerinti adatai vonatkozásában.
 
-(4) Az oktatási nyilvántartás működéséért felelős szerv a 2. § a)–e) pontjában meghatározott adatokról adategyeztetés céljából az összerendelési nyilvántartáson keresztül adatot igényel a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 10/A. § (2) bekezdése szerinti azonosítók képzésére jogosult adatkezelőktől.
+(4) Az oktatási nyilvántartás működéséért felelős szerv a 2. § a)–e) pontjában és 3. § (1) bekezdés a) és b) pontjában meghatározott adatokról – adategyeztetés céljából – az összerendelési nyilvántartás jogszabályban kijelölt szolgáltatójától adatot igényel.

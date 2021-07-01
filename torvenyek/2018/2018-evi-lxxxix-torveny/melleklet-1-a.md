@@ -42,13 +42,13 @@ k) melyik évfolyamon, mely országban vett részt határon túli kiránduláson
 
 l) a szakmai oktatás, illetve a szakmai képzés teljesítésére vonatkozó adatokat, ennek keretében a tanuló tudásának értékelésével és minősítésével, valamint a tanuló által tett vizsgákkal és az évfolyamismétléssel kapcsolatos adatokat,
 
-m) tanulóbalesetre vonatkozó adatokat,
+m)
 
-n) fegyelmi és kártérítési ügyeivel kapcsolatos adatokat,
+n)
 
 o) az általa fizetett díjak és térítések adata,
 
-p) a tankönyvellátásra vonatkozó adatok,
+p)
 
 q) a számára járó ösztöndíj, támogatás és egyéb juttatás adata,
 
@@ -62,7 +62,7 @@ III. Alkalmazotti nyilvántartás
 
 1. Az alkalmazotti nyilvántartás az alkalmazott alábbi személyes adatait tartalmazza:
 
-a) oktatási azonosító számát,
+a) oktatási azonosító számát és társadalombiztosítási azonosító jelét,
 
 b) végzettségi szintjére és szakképzettségére vonatkozó adatokat: felsőoktatási intézmény nevét, az oklevél számát, a végzettségi szintet, szakképzettséget, a végzettségi szint, szakképzettség, a pedagógus-szakvizsga, tudományos fokozat megszerzésének idejét,
 

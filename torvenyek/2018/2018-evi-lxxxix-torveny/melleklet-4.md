@@ -18,7 +18,7 @@
 
 ## a) oktatási azonosító számát,
 
-## b) természetes személyazonosító adatait és nemét,
+## b) természetes személyazonosító adatait és nemét, valamint – annak rendelkezésre állása esetén – a 2. § h)–k) pontja és 3. § (1) bekezdés a) és b) pontja szerinti adatát,
 
 ## c) állampolgárságát, nem magyar állampolgár Magyarországon való tartózkodásának jogcímét és a tartózkodásra jogosító okirat, okmány megnevezését és számát,
 
@@ -34,7 +34,7 @@
 
 ## b) a képzés első képzési napját és – a zárt rendszerű elektronikus távoktatás keretében megvalósuló képzés kivételével – befejezésének tervezett időpontját,
 
-## c) a képzési díj mértékét és annak költségviselőjének nevét, valamint a képzési hitel igénybevételének tényét és típusát,
+## c) a képzési díj mértékét és annak költségviselőjének megjelölését, valamint a képzési hitel igénybevételének és szünetelésének tényét, típusát és mértékét,
 
 ## d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát.
 

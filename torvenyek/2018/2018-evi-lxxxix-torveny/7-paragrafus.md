@@ -6,7 +6,7 @@ a) a tanulói jogviszonyhoz, illetve a felnőttképzési jogviszonyhoz kapcsoló
 
 b) a tanuló nevelési-oktatási intézményének megállapítása, a tanítási napon a tanítási órától vagy az iskola által szervezett kötelező foglalkozástól való távolmaradás jogszerűségének ellenőrzése, valamint a nevelési-oktatási intézménnyel és a tanuló szülőjével, törvényes képviselőjével való kapcsolatfelvétel céljából a 2. § a)–g) pontjában meghatározott adatok, valamint az 1. melléklet I. rész c)–f) és h) pontjában és az 1/A. melléklet I. rész c)–f) és h) pontjában meghatározott adatok a rendőrség részére,
 
-c) a központi költségvetésből vagy európai uniós forrásból megszervezett külföldi tanulmányutak megszervezése, továbbá az igénybevétel jogszerűségének ellenőrzése céljából a 2. § a)–c), e)–g) és l) pontjában, továbbá az 1. melléklet I. rész e)–g) és i) pontjában meghatározott adatok a Tempus Közalapítvány részére
+c)
 
 továbbítható.
 
@@ -57,6 +57,12 @@ ba) a (20) bekezdés a) pontja szerinti célból az igénylőre vonatkozóan a 3
 bb) a (20) bekezdés b) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 1. pont b) alpontjában meghatározott adatok,
 
 bc) a (20) bekezdés c) pontja szerinti célból az igénylőre vonatkozóan a 3/A. melléklet II. rész 2. pont b) és d) alpontjában meghatározott adatok
+
+c) a felnőttképzési intézménytörzsből
+
+ca) a felnőttképző képviseletére jogosult személy azonosítása céljából a 3/A. melléklet I. rész 1. pont a) alpontjában meghatározott adatok,
+
+cb) a közvetlenül a felnőttképző rendelkezésére bocsátott képzési hitelhez kapcsolódóan a képzési hitel folyósítása céljából a felnőttképző fizetési számlájának száma
 
 továbbíthatóak a Diákhitel Központnak.
 
