@@ -8,4 +8,4 @@ b) 25 litert meghaladó kiszerelésű csendes bort italadagoló szerkezeten kere
 
 forgalmazhat.
 
-(3) Sört, csendes és habzóbort, egyéb csendes és habzó erjesztett italt, köztes alkoholterméket és alkoholterméket jövedéki kiskereskedő a kereskedelmi tevékenységek végzésének feltételeiről szóló jogszabály szerinti alkalmi rendezvényen, a kereskedelemről szóló törvény szerinti közterületi értékesítés keretében, vásáron vagy piacon akkor forgalmazhat, ha az állami adó- és vámhatóságnak – a végrehajtási rendeletben meghatározott adattartalommal – az értékesítés megkezdése előtt legkésőbb 3 munkanappal bejelentést tesz.
+(3)

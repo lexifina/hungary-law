@@ -6,6 +6,6 @@ b) – ha a bérfőzető a kistermelői élelmiszer-termelés, -előállítás �
 
 ba) a gazdasága helyén a kereskedelemről szóló törvény szerinti vendéglátás vagy szálláshely-szolgáltatás keretében, vagy
 
-bb) a gazdasága helyétől légvonalban számítva Magyarország területén legfeljebb 40 km távolságon belüli, a kereskedelemről szóló törvény szerinti vásáron vagy piacon folytatott kereskedelmi tevékenység keretében, a 70. § (3) bekezdése szerinti bejelentés megtételével
+bb) a gazdasága helyétől légvonalban számítva Magyarország területén legfeljebb 40 km távolságon belüli, a kereskedelemről szóló törvény szerinti vásáron vagy piacon folytatott kereskedelmi tevékenység keretében
 
 értékesítheti.
