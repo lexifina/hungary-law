@@ -1,6 +1,6 @@
-## 6. § A vízgazdálkodási létesítmény üzemeltetője által foglalkoztatott biztonsági összekötő személynek a víziközművek üzemeltetéséről szóló 21/2002. (IV. 25.) KöViM rendelet 1. számú melléklet A) és B) pontjában foglalt táblázatában meghatározott, területi vagy szakági irányító munkakör betöltéséhez előírt mérnöki végzettséggel is rendelkeznie kell.
+## kell rendelkeznie.
 
-## 6/A. §[^5] Víz ágazatban rendkívüli eseménynek minősül
+## 6/A. §[^7] Víz ágazatban rendkívüli eseménynek minősül
 
 a) az a víziközmű szolgáltatási zavar vagy kiesés, amely legalább 3000 felhasználási helyet érint, és helyreállítása várhatóan legalább 4 órát vesz igénybe,
 
@@ -22,4 +22,7 @@ e) az, ha az illetékes hatóság a kijelölt létfontosságú rendszerelemnél 
 
 f) a humánerőforrás olyan mértékű kritikus hiánya, ami a tevékenység leállításához, szüneteltetéséhez vezethet.
 
-[^5]: A 6/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 63. §-a iktatta be.
+g)[^8] az üdítőital, ásványvíz gyártó gyártókapacitásának bármely telephelyén bekövetkező legalább 50%-os kiesése, legalább 48 óra időtartamban.
+
+[^7]: A 6/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 63. §-a iktatta be.
+[^8]: A 6/A. § g) pontját a 375/2021. (VI. 30.) Korm. rendelet 21. § (3) bekezdése iktatta be.
