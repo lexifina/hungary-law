@@ -8,13 +8,15 @@ a) magyar állampolgár,
 
 b) a 18. évét betöltötte,
 
-c) nem áll a 233. § (2) bekezdés a)–d), i) és j) pontjában meghatározott kizáró ok hatálya alatt,
+c) nem áll a 233. § (2) bekezdésében meghatározott kizáró ok hatálya alatt,
 
 d) középfokú iskolai végzettséggel rendelkezik.
 
 (3) A végrehajtójelölt – a 254/E. § (3) bekezdésében foglalt kivétellel – a meghatározott végrehajtóval áll munkaviszonyban.
 
 (4) A végrehajtói szakvizsgával rendelkező önálló bírósági végrehajtójelölt önállóan foganatosíthat eljárási cselekményeket; az ebből eredő kártérítési, illetve sérelemdíj iránti igényeket a végrehajtóval szemben kell érvényesíteni. A végrehajtójelölt azonban hagyományos ingóárverést nem tarthat, árverési jegyzőkönyvet nem készíthet, valamint ingatlan birtokbaadását és meghatározott cselekmény végrehajtását sem foganatosíthatja.
+
+(4a) A végrehajtói szakvizsgával nem rendelkező végrehajtójelölt a végrehajtó irányítása alapján és utasításai szerint közreműködik a végrehajtási eljárásban, a közreműködéséből eredő kártérítési, illetve sérelemdíj iránti igényeket a végrehajtóval szemben kell érvényesíteni. A végrehajtójelölt végrehajtási cselekményt azonban – az (5) bekezdésben foglalt kivétellel – önállóan a végrehajtó nevében sem foganatosíthat.
 
 (5) Végrehajtói kézbesítést a végrehajtójelölt akkor végezhet, ha a végrehajtójelölti kézbesítési vizsgát letette.
 
@@ -24,7 +26,7 @@ a) a végrehajtójelölti munkakör betöltésére irányuló munkaviszonya megs
 
 b) a névjegyzékbe vétel feltételei a nyilvántartásba vétel időpontjában nem álltak fenn,
 
-c) a 233. § (2) bekezdés b)–d) vagy i) pontjában foglalt kizáró ok következett be,
+c) a 233. § (2) bekezdésében foglalt kizáró ok következett be,
 
 d) elhalálozott,
 

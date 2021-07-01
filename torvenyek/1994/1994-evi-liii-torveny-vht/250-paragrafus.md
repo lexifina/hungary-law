@@ -1,4 +1,4 @@
-250. § (1) A Karra – az e törvényben foglalt eltérésekkel – a köztestületre vonatkozó szabályokat kell alkalmazni. A Kar az e törvényben és más jogszabályban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók és a végrehajtó-helyettesek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat.
+250. § (1) A Karra – az e törvényben foglalt eltérésekkel – a köztestületre vonatkozó szabályokat kell alkalmazni. A Kar az e törvényben és más jogszabályban meghatározott jogok gyakorlásával és kötelezettségek teljesítésével képviseli és védi a végrehajtók, végrehajtó-helyettesek és végrehajtójelöltek érdekeit, ellátja a végrehajtói szolgálattal kapcsolatos, jogszabályban meghatározott feladatokat.
 
 (2) A Kar jogai és feladatai különösen:
 

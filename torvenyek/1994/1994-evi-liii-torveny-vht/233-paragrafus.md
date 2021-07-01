@@ -50,7 +50,7 @@ i) aki cselekvőképességet érintő gondnokság vagy támogatott döntéshozat
 
 j) aki büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádas eljárást – hatálya alatt áll,
 
-k) akinek a végrehajtói szolgálati jogviszonya a 239. § (1) bekezdés a) vagy c) pontja alapján szűnt meg, a megszűnést követő 10 évig.
+k) akinek a végrehajtói szolgálati jogviszonya a 239. § (1) bekezdés a)–c) pontja alapján szűnt meg, a megszűnést követő 10 évig.
 
 (3)
 

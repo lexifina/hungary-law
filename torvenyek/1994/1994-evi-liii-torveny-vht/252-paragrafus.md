@@ -8,7 +8,7 @@
 
 (5)
 
-(6) Tisztségviselőnek a Kar végrehajtó tagja választható. A tisztségviselők választása titkos szavazással történik, megbízatásuk 4 évre szól, legfeljebb kétszer választhatók újra.
+(6) Tisztségviselőnek a Kar végrehajtó tagja választható. A tisztségviselők választása titkos szavazással történik, megbízatásuk 7 évre szól, legfeljebb kétszer választhatók újra.
 
 (7) A megválasztott tisztségviselő a megbízatást visszautasíthatja.
 

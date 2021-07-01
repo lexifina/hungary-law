@@ -1,8 +1,8 @@
-250/A. § (1) A Kar a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés 1. és 3–5. pontjában, a (3) bekezdés d) és e) pontjában, valamint a (4) bekezdés d) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+250/A. § (1) A Kar a tagjairól az e §-ban foglaltak szerint vezet nyilvántartást. A nyilvántartás – a (2) bekezdés 1. és 3–5. pontjában, a (3) bekezdés d) és e) pontjában, valamint a (4) bekezdés d) és f) pontjában megjelölt adatok, továbbá a végrehajtó-helyettes és végrehajtójelölt alkalmazásának kezdő időpontjára és a munkavégzésből történő hosszabb időtartamú kiesésére vonatkozó adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
 (2) A végrehajtók névjegyzéke a következő adatokat tartalmazza:
 
-1. természetes személyazonosító adatok,
+1. természetes személyazonosító adatok, lakcím,
 
 2. székhely, illetékességi terület,
 
@@ -50,7 +50,7 @@
 
 (3) A végrehajtó-helyettesek névjegyzéke a következő adatokat tartalmazza:
 
-a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok,
+a) a (2) bekezdés 1., 3–5. és 18–19. pontjában foglalt adatok és a végrehajtó-helyettes azonosító száma,,
 
 b) a névjegyzékbe vétel és az abból történő törlés időpontja,
 
@@ -62,15 +62,17 @@ e) a végrehajtó-helyettes hivatali elektronikus aláírás tanúsítványa ér
 
 (4) A végrehajtójelöltek névjegyzéke a következő adatokat tartalmazza:
 
-a) a (2) bekezdés 1., 3–4. pontjában foglalt adatok,
+a) a (2) bekezdés 1., 3–4. pontjában foglalt adatok és a végrehajtójelölt azonosító száma,
 
 b) a névjegyzékbe vétel és az abból történő törlés napja,
 
-c) a végrehajtójelöltet alkalmazó végrehajtó neve és székhelye, a végrehajtójelölt alkalmazásának kezdő időpontja, a munkavégzésből történő hosszabb időtartamú kiesésre vonatkozó adatok,
+c) a végrehajtójelöltet alkalmazó végrehajtó neve és székhelye, a végrehajtójelölt alkalmazásának kezdő időpontja, a munkavégzésből történő hosszabb időtartamú – 90 napot meghaladó – kiesésre vonatkozó adatok,
 
 d) az alkalmazás (munkaviszony) megszűnésének napja és módja,
 
 e) a végrehajtói kézbesítési vizsga letételének időpontja, a végrehajtói kézbesítésre felhatalmazott végrehajtójelöltek névjegyzékébe vétel és az abból történő törlés időpontja.
+
+f) a végrehajtójelölt hivatali elektronikus aláírás tanúsítványa érvényességének kezdete és lejárta.
 
 (5) A helyettesek névjegyzéke a következő adatokat tartalmazza:
 

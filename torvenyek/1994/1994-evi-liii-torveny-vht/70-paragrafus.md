@@ -1,3 +1,3 @@
 ## Levonás egyéb járandóságból
 
-70. §
+### 70. §

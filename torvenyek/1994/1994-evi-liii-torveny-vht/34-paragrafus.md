@@ -14,4 +14,4 @@
 
 (7) A költségek állam általi előlegezése feltételeinek fennállása esetén a Kar hivatali szerve a 217. § alapján végrehajtási kifogást terjeszthet elő a végrehajtó díj- és költségfelszámítása ellen.
 
-(8) Ha a végrehajtó díjjegyzékével szemben a nem adós fizetésre kötelezett határidőben végrehajtási kifogást nem terjesztett elő, részére a díjjegyzéket végrehajtói kézbesítés útján is kézbesíteni kell.
+(8) Ha a végrehajtó díjjegyzékével szemben a nem adós fizetésre kötelezett határidőben végrehajtási kifogást nem terjesztett elő a végrehajtási lap kiállítása iránti kérelem előterjesztését megelőzően, részére a díjjegyzéket végrehajtói kézbesítés útján is kézbesíteni kell.

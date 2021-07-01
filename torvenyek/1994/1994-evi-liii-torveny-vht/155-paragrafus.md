@@ -1,9 +1,9 @@
-155. § (1) Az árverés sikertelen, ha
+155. § Az árverés sikertelen, ha
 
 a) nem tettek vételi ajánlatot, vagy a felajánlott vételár nem érte el az ingatlan becsértékének felét, vagy lakóingatlan esetében a 147. § (3) bekezdésében foglalt feltételek fennállása esetén a becsérték összegét, illetve annak 70%-át;
 
-b) az árverési vevő az árverési jegyzőkönyvet nem írta alá; vagy
+b) az árverési vevő az árverési jegyzőkönyvet nem írta alá;
 
-c) az árverési vevő nem fizette be vagy nem utalta át a teljes vételárat a 149. § (1) bekezdésében foglalt határidőn belül, illetőleg a végrehajtó által a vételár megfizetésére adott határidőn belül.
+c) az árverési vevő nem fizette be vagy nem utalta át a teljes vételárat a 149. § (1) bekezdésében foglalt határidőn belül, illetőleg a végrehajtó által a vételár megfizetésére adott határidőn belül; vagy
 
-(2) Az árverés sikertelenségének megállapításával egyidejűleg a végrehajtó az ingatlannak a 143. § (1) bekezdés c)–h) és j) pontban foglalt adatait és az ingatlanról készült képfelvételt – az árverés későbbi kitűzéséről szóló tájékoztatással együtt – közzéteszi az elektronikus árverési hirdetmények nyilvántartásában.
+d) az árverés nem szabályszerűen került kitűzésre.
