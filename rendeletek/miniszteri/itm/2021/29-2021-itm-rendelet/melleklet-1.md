@@ -1,0 +1,5 @@
+## 7. §[^8]
+
+1. melléklet a 29/2021. (VI. 30.) ITM rendelethez
+
+[^8]: A 7. § az 5. § (2) bekezdése alapján 2021. november 12-én lép hatályba.
