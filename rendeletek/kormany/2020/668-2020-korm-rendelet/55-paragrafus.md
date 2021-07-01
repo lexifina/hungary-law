@@ -1,4 +1,4 @@
-## 54. §[^64]
+## 54. §[^61]
 
 ## 55. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 21. § (1) és (3) bekezdése, a 28. § 2021. július 1-jén lép hatályba.
 
-[^64]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

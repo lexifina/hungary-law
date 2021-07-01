@@ -1,5 +1,5 @@
-## 51. §[^61]
+## 51. §[^58]
 
 ## 52. A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet módosítása
 
-[^61]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 30. §[^34]
+## 30. §[^31]
 
 ## 31. Az utak építésének, forgalomba helyezésének és megszüntetésének engedélyezéséről szóló 93/2012. (V. 10.) Korm. rendelet módosítása
 
-[^34]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
