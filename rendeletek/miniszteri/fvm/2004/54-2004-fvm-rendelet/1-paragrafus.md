@@ -26,12 +26,20 @@ ca) amely megfelel a 92/65/EGK tanácsi irányelv E. melléklet 1. részében sz
 
 cb) amelyet hatósági állatorvos aláírt, tanúsítva, hogy az azonosító okmányban dokumentálta a b) pontnak megfelelően elvégzett klinikai vizsgálatot, amely igazolja, hogy az állatok a klinikai vizsgálat időpontjában szállításra alkalmas állapotban voltak az 1/2005/EK tanácsi rendelet szerint,
 
-d) az erre feljogosított hatóság által nyilvántartásba vett és rendszeresen ellenőrzött létesítményből származnak, amely nem áll állategészségügyi korlátozó intézkedés alatt, és
+d)[^6] az erre feljogosított hatóság által nyilvántartásba vett és rendszeresen ellenőrzött létesítményből származnak, amely nem áll állategészségügyi korlátozó intézkedés alatt,
 
-e) az érintett tagállamokba való szállítás esetén megfelelnek az 1152/2011/EU felhatalmazáson alapuló bizottsági rendeletben meghatározott követelményeknek.
+e)[^7] az érintett tagállamokba való szállítás esetén megfelelnek az 1152/2011/EU felhatalmazáson alapuló bizottsági rendeletben meghatározott követelményeknek, valamint
+
+f)[^8] Magyarország tekintetében az erre feljogosított hatóság által nyilvántartásba vett, rendszeresen ellenőrzött olyan létesítményben születtek, amely nem áll állategészségügyi korlátozó intézkedés alatt.
+
+(7)[^9] A Magyarországon született állatok esetében a (6) bekezdés d) pontja szerinti létesítménybe csak a (6) bekezdés f) pontja szerinti származási helyen született állat vihető be.
 
 [^1]: Az 1. § (2) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 13. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 35. § a) és c) pontja szerint módosított szöveg.
 [^3]: Az 1. § (4) bekezdése a 21/2015. (IV. 30.) FM rendelet 15. § (4) bekezdése szerint módosított szöveg.
 [^4]: Az 1. § (5) bekezdését a 21/2015. (IV. 30.) FM rendelet 15. § (1) bekezdése iktatta be.
 [^5]: Az 1. § (6) bekezdését a 21/2015. (IV. 30.) FM rendelet 15. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (6) bekezdés d) pontja a 20/2021. (V. 17.) AM rendelet 12. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (6) bekezdés e) pontja a 20/2021. (V. 17.) AM rendelet 12. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^8]: Az 1. § (6) bekezdés f) pontját a 20/2021. (V. 17.) AM rendelet 12. § (1) bekezdése iktatta be.
+[^9]: Az 1. § (7) bekezdését a 20/2021. (V. 17.) AM rendelet 12. § (2) bekezdése iktatta be.

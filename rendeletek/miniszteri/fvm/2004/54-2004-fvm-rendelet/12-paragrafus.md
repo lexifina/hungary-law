@@ -1,4 +1,4 @@
-12. § (1)[^41] A megyei kormányhivatal, szükség esetén más erre hatáskörrel rendelkező hatósággal együttműködve
+12. § (1)[^45] A megyei kormányhivatal, szükség esetén más erre hatáskörrel rendelkező hatósággal együttműködve
 
 a) ellenőrzi az állattartó telepet, felszerelést és berendezést, szállítóeszközt, az állatok jelölésére és azonosítására használt módszert,
 
@@ -14,7 +14,7 @@ d) ellenőrzi azon okiratokat vagy informatikai adatokat, amelyek az e rendeletb
 
 (2) A tenyésztési hatóság – feladat- és hatáskörében eljárva – a szállítóeszköz ellenőrzése kivételével elvégzi az (1) bekezdés szerinti ellenőrzéseket.
 
-(3)[^42] Az ellenőrzött állattartó telep, központ vagy szervezet köteles az ellenőrzés végrehajtásához szükséges mértékben együttműködni a megyei kormányhivatallal.
+(3)[^46] Az ellenőrzött állattartó telep, központ vagy szervezet köteles az ellenőrzés végrehajtásához szükséges mértékben együttműködni a megyei kormányhivatallal.
 
-[^41]: A 12. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 67. § h) pontja szerint módosított szöveg.
-[^42]: A 12. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 67. § d) pontja szerint módosított szöveg.
+[^45]: A 12. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 67. § h) pontja szerint módosított szöveg.
+[^46]: A 12. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 67. § d) pontja szerint módosított szöveg.
