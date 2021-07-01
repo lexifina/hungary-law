@@ -1,0 +1,1 @@
+47. § A szolgáltatás fogadója együttműködik a kisgyermekkel otthon lévők szövetkezetével, így különösen biztosítja a kisgyermekkel otthon lévők szövetkezete képviselőjének a feladatteljesítés helyére történő belépést, tájékoztatja a kisgyermekkel otthon lévők szövetkezetét a feladatteljesítéssel kapcsolatos lényeges körülményekről.

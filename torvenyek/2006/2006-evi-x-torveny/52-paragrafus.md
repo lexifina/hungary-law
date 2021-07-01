@@ -1,0 +1,1 @@
+52. § A gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tag tagsági jogviszonya megszűnik azon a napon, amelytől sem gyermekgondozási díjban, sem gyermekgondozást segítő ellátásban nem részesül.
