@@ -1,4 +1,4 @@
-## 13. §[^1]
+## 13. §[^5]
 
 1. melléklet a 130/2018. (VII. 23.) Korm. rendelethez
 
@@ -62,4 +62,4 @@ d) középfokú szakképesítések közül:
 
 5. bármely középfokú szakképesítés, amely az e pontban felsorolt szakképesítések valamelyikének megfeleltethető.
 
-[^1]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
