@@ -1,6 +1,6 @@
 ## 4. A bioüzemanyag közlekedési célú felhasználására vonatkozó rendelkezések
 
-5. § (1) A motorbenzint vagy a dízelgázolajat forgalomba hozó üzemanyag-forgalmazó a bioüzemanyagot – tisztán vagy a motorbenzinbe, dízelgázolajba bekeverve – úgy köteles forgalomba hozni, hogy az általa a naptári évben forgalomba hozott bioüzemanyag minimális mennyisége elérje a Kormány rendeletében meghatározott kötelező bioüzemanyag-részarány mennyiségét.
+5. § (1) A motorbenzint vagy a dízelgázolajat forgalomba hozó üzemanyag-forgalmazó a bioüzemanyagot – tisztán vagy a motorbenzinbe, dízelgázolajba bekeverve – úgy köteles forgalomba hozni, hogy az általa a naptári évben forgalomba hozott bioüzemanyag minimális mennyisége elérje az e törvény végrehajtására kiadott kormányrendeletben meghatározott kötelező bioüzemanyag-részarány mennyiségét. A kötelező bioüzemanyag-részarány mennyiség megállapításán belül – az általános kötelezettség kiegészítéseként vagy a helyett – a Kormány az e törvény végrehajtására kiadott rendeletében az egyes meghatározott bioüzemanyagnak minősülő termékek kötelező részaránya tekintetében is megállapíthat kötelezettséget.
 
 (2) A kötelező bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni
 

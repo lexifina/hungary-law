@@ -12,7 +12,19 @@ c) születési hely, idő,
 
 d) anyja születési neve.
 
-(4) A mezőgazdasági igazgatási szerv által vezetett nyilvántartás nem nyilvános. Harmadik személy – az érintett személyre vonatkozó adatok tekintetében – csak az érintett személy hozzájárulásával vagy törvényi felhatalmazás alapján tekinthet be a nyilvántartásba.
+(4) A mezőgazdasági igazgatási szerv az általa vezetett nyilvántartás alábbi adatait honlapján közzéteszi:
+
+a) az ügyfél BIONYOM nyilvántartási számát, valamint a regisztrációs számát, ha az ügyfél rendelkezik azzal,
+
+b) a nyilvántartásba vett gazdálkodó szervezet nevét, székhelyét és cégjegyzékszámát,
+
+c) a nyilvántartásba vett egyéni vállalkozó nevét, valamint természetes személy nevét, ha ehhez az ügyfél az e törvény végrehajtására kiadott rendeletben foglaltak szerint hozzájárult,
+
+d) a nyilvántartásba vétel kezdő és lejárati időpontját,
+
+e) az arra vonatkozó adatot, hogy az ügyfelet biomassza-kereskedőként, biomassza-feldolgozóként vagy üzemanyag-forgalmazóként tartja nyilván,
+
+f) a BIONYOM nyilvántartásból való törlés tényét és okát.
 
 (5) A mezőgazdasági igazgatási szerv által vezetett nyilvántartás – az érintett természetes személy személyes adatainak kivételével – közhiteles nyilvántartásnak minősül.
 

@@ -2,17 +2,19 @@
 
 1. § E törvény és a végrehajtására kiadott jogszabályok alkalmazásában:
 
-1. a földhasználat közvetett megváltozása tekintetében alacsony kockázatot jelentő bioüzemanyagok és folyékony bio-energiahordozók: azok a bioüzemanyagok és folyékony bio-energiahordozók, amelyek alapanyagainak előállítására olyan rendszer keretében került sor, amely mérsékli a nem bioüzemanyag-előállítási célokat szolgáló termesztés kiszorítását, és amelyeket az e törvény végrehajtására kiadott jogszabályban meghatározottak szerinti bioüzemanyagokra vonatkozó fenntarthatósági kritériumoknak megfelelően állítottak elő;
+1. a földhasználat közvetett megváltozása tekintetében alacsony kockázatot jelentő bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok: azok a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok, amelyek alapanyagainak előállítására olyan rendszer keretében került sor, amely – a mezőgazdasági gyakorlatok javítása, valamint a korábban nem növénytermesztésre használt területek termelésbe való bevonása révén – lehetővé teszi az élelmiszer- és takarmánynövény-alapú bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok okozta kiszorító hatás elkerülését, és amelyeket az e törvény végrehajtására kiadott kormányrendeletben meghatározott, bioüzemanyagokra, folyékony bio-energiahordozókra és biomasszából előállított tüzelőanyagokra vonatkozó fenntarthatósági kritériumoknak megfelelően állítottak elő;
 
 2. alternatív üzemanyag: a közlekedés energiaellátásában a kőolajforrásokat legalább részben helyettesítő üzemanyag vagy energiaforrás – ideértve a villamos energiát, hidrogént, bioüzemanyagot, szintetikus és paraffinos üzemanyagokat, földgázt (beleértve a biometánt) gáznemű (sűrített földgáz – CNG) és cseppfolyósított (cseppfolyósított földgáz – LNG) formában, valamint a cseppfolyósított propán-bután gázt (LPG) –, amely potenciálisan hozzájárul a közlekedési ágazat dekarbonizációjához és javítja annak környezeti teljesítményét;
 
 3. biomassza: a mezőgazdaságból (a növényi és állati eredetű anyagokat is beleértve), erdőgazdálkodásból és a kapcsolódó iparágakból – többek között a halászatból és az akvakultúrából – származó, biológiai eredetű termékek, hulladékok és maradékanyagok biológiailag lebontható része, valamint az ipari és települési hulladék biológiailag lebontható része;
 
+3a. biomasszából előállított tüzelőanyagok: biomasszából előállított szilárd és gáz halmazállapotú tüzelőanyagok;
+
 4. bioüzemanyagok: a biomasszából előállított folyékony vagy gáz halmazállapotú, a közlekedésben használt üzemanyagok;
 
 5. bioüzemanyag-részarány: a forgalomba hozott bioüzemanyag energiatartalomban kifejezett mennyiségének és a forgalomba hozott motorbenzin és dízelgázolaj energiatartalomban kifejezett mennyiségének hányadosa, százalékértékben, egy tizedesjegy pontossággal meghatározva;
 
-6. BÜHG-rendszer: a bioüzemanyag üvegházhatású gázkibocsátási rendszer a 2009/28/EK európai parlamenti és tanácsi irányelv követelményeinek végrehajtását szolgáló nemzeti önkéntes fenntarthatósági rendszer;
+6. BÜHG-rendszer: a bioüzemanyag üvegházhatású gázkibocsátási rendszer az (EU) 2018/2001 európai parlamenti és tanácsi irányelv követelményeinek végrehajtását szolgáló nemzeti önkéntes fenntarthatósági rendszer;
 
 7. cseppfolyósított propán-bután gáz (LPG): olyan szénhidrogéngáz, amely környezeti hőmérsékleten és közepes nyomáson folyékony halmazállapotban tartható üzemanyag (a 2711 12 11-2711 19 00 KN-kód szerinti termék);
 
@@ -38,7 +40,7 @@ b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 
 15. hulladék: a hulladékról szóló 2012. évi CLXXXV. törvény 2. § 23. pontja szerinti anyagok, kivéve az e fogalom-meghatározásnak való megfelelés érdekében szándékosan módosított vagy szennyezett anyagok;
 
-16. keményítőben gazdag növények: főként gabonafélék (függetlenül attól, hogy csak a magvakat használják-e fel vagy – mint például a silókukorica esetében – a növény egészét), gumós és gyökérnövények [például burgonya, csicsóka, édesburgonya, manióka (kasszava) és jamszgyökér], valamint kukoricafélék (például taró és tánia);
+16. keményítőben gazdag növények: főként gabonafélék, függetlenül attól, hogy csak a magvakat használják-e fel vagy – mint például a silókukorica esetében – a növény egészét; gumós és gyökérnövények, például burgonya, csicsóka, édesburgonya, manióka és jamszgyökér, valamint gumós növények, például taró és tánia;
 
 17. kiindulási érték: a 2010. évben a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás az e törvény végrehajtására kiadott jogszabályban meghatározott mértéke;
 
@@ -52,9 +54,9 @@ b) a 30. pont b) alpontja szerinti üzemanyag-forgalmazó esetében az általa t
 
 22. motorbenzin: minden olyan illékony ásványolajtermék, amelynek rendeltetése külső gyújtású belső égésű motorok (Otto-motorok) működtetése (a 2710 12 31-2710 12 49 KN-kód szerinti termék);
 
-23. nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásból származó üzemanyagok: a bioüzemanyagok kivételével azon folyékony vagy gáznemű üzemanyagok, amelyek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik, és amelyeket a közlekedés területén használnak;
+23. nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásból származó üzemanyagok: a bioüzemanyagok és biogáz kivételével azon folyékony vagy gáznemű üzemanyagok, amelyek energiatartalma a biomasszától eltérő megújuló energiaforrásokból származik, és amelyeket a közlekedés területén használnak;
 
-24. nem élelmezési célú cellulóztartalmú anyagok: főként cellulózból és hemicellulózból álló, a lignocellulóz- tartalmú anyagoknál alacsonyabb lignintartalmú anyagok; ide tartozik többek között: élelmiszer- és takarmánynövény-maradékanyagok alacsony keményítőtartalmú, a fűfélék közé tartozó energianövények (például perje, vesszős köles, elefántfű, óriásnád és a fő termények előtt és után termesztett takarónövények), ipari maradékanyagok és biohulladékból származó anyagok;
+24. nem élelmezési célú cellulóztartalmú alapanyagok: főként cellulózból és hemicellulózból álló, a lignocellulóz-tartalmú anyagoknál alacsonyabb lignintartalmú alapanyagok; ide tartozik többek között: élelmiszer- és takarmánynövény-maradékanyagok, például szalma, kukoricaszár, hüvely és héj, alacsony keményítőtartalmú, a fűfélék közé tartozó energianövények, például perje, vesszős köles, elefántfű, óriásnád, a fő termények előtt és után termesztett takarónövények, takarmánynövények, ipari maradékanyagok, például olyan élelmiszer- és takarmánynövények, amelyekből kisajtolták a növényi olajokat, kivonták a cukrokat, a keményítőt és a fehérjét, és biohulladékból származó anyagok, e szempontból takarmány-, illetve takarónövény alatt a legelőkön átmenetileg, rövid távra vetett, alacsony keményítőtartalmú fűfélék és pillangósok keverékéből álló növényzet értendő, amelynek rendeltetése takarmány termelése az állatállomány számára, illetve a talaj termelékenységének javítása a fő szántóföldi növények hozamának növelése érdekében;
 
 25. nyilvánvaló hiba: az ügyfél által benyújtott kérelemben, kérelem mellékletében feltüntetett adatok olyan hiányossága vagy hibája, amely a kérelem vagy a kérelem mellékletének más adataiból, vagy más, a hatóságok által elérhető nyilvántartásból származó adatok alapján hiánypótlásra felszólítás nélkül, a hatóságok által saját hatáskörben pótolható vagy javítható, kivéve a kérelem hitelességét befolyásoló hiányosság;
 

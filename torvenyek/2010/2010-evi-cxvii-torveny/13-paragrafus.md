@@ -2,11 +2,11 @@
 
 13. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a bioüzemanyagok és a folyékony bio-energiahordozók, valamint ezek alapanyagának tekinthető termékek körét,
+a) a bioüzemanyagok, a folyékony bio-energiahordozók, a biomasszából előállított tüzelőanyagok, valamint ezek alapanyagának tekinthető termékek körét,
 
-b) a biomassza, a köztes termékek a bioüzemanyagok, és a folyékony bio-energiahordozók fenntartható előállítására vonatkozó követelményekre vonatkozó részletes szabályokat,
+b) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható előállítására vonatkozó követelményekre vonatkozó részletes szabályokat,
 
-c) a biomassza, a köztes termékek a bioüzemanyagok és a folyékony bio-energiahordozók fenntartható módon történő előállításának, kezelésének és forgalmazásának nyilvántartási, igazolási és ellenőrzési rendjére vonatkozó részletes szabályokat,
+c) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történő előállításának, kezelésének és forgalmazásának nyilvántartási, igazolási és ellenőrzési rendjére vonatkozó részletes szabályokat,
 
 d) a fenntarthatósági követelmények teljesítésének minősítésével, nyilvántartásával, fenntarthatósági követelmények teljesítésének ellenőrzésével kapcsolatban eljáró hatóság vagy hatóságok kijelölését,
 
@@ -26,14 +26,14 @@ k) a kötelező bioüzemanyag-részarány teljesítésének ellenőrzésére, va
 
 l) a fosszilis üzemanyagokból származó, energiaegységre számított üvegházhatású gázkibocsátás mértékét,
 
-m) a biomassza, a köztes termékek, a bioüzemanyagok és folyékony bio-energiahordozók fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
+m) a biomassza, a köztes termékek, a bioüzemanyagok, a folyékony bio-energiahordozók és a biomasszából előállított tüzelőanyagok fenntartható módon történt előállítását igazoló okirat vagy hatósági bizonyítvány kiállítását, és az okiratban vagy hatósági bizonyítványban szereplő adatok ellenőrzéséhez szükséges adatok körét.
 
 (2) Felhatalmazást kap az energiapolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 a) az adópolitikáért felelős miniszter egyetértésével az üzemanyag-forgalmazó által forgalomba hozott üzemanyagból és más közlekedési célú energiatermékből származó teljes életciklusra és energiaegységre számított üvegházhatású gázkibocsátással kapcsolatos nyilvántartásokra, bizonylatolásra és jelentésre vonatkozó részletes szabályokat,
 
-b) az agrárpolitikáért felelős miniszter egyetértésével a bioüzemanyagok, folyékony bio-energiahordozók vagy ezek alapanyagául szolgáló termékekhez kapcsolódó üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek, a folyékony bio-energiahordozók és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait.
+b) az agrárpolitikáért felelős miniszter egyetértésével a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékekhez kapcsolódó üvegházhatású gázkibocsátás-elkerülésének és teljes életciklusra számított üvegházhatású gázkibocsátásának, valamint a biomassza, a köztes termékek, a folyékony bio-energiahordozók és a bioüzemanyagok előállítása során történt üvegházhatású gázkibocsátás számításának részletes szabályait.
 
-(3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a bioüzemanyagok, folyékony bio-energiahordozók vagy ezek alapanyagául szolgáló termékek előállításához kapcsolódó fenntartható minősítésének ellenőrzéséért, a nyilvántartásba vételéért, továbbá a fenntarthatósági bizonyítvány kiállításáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+(3) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy az energiapolitikáért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a bioüzemanyagok, folyékony bio-energiahordozók, biomasszából előállított tüzelőanyagok vagy ezek alapanyagául szolgáló termékek előállításához kapcsolódó fenntartható minősítésének ellenőrzéséért, a nyilvántartásba vételéért, továbbá a fenntarthatósági bizonyítvány kiállításáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
 
-(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a bioüzemanyagok, folyékony bio-energiahordozók vagy ezek alapanyaga fenntartható termelésének területi lehatárolásával kapcsolatos részletes szabályokat.
+(4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy rendeletben állapítsa meg a bioüzemanyagok, folyékony bio-energiahordozók, és a biomasszából előállított tüzelőanyagok vagy ezek alapanyaga fenntartható termelésének területi lehatárolásával, valamint az ezen alapanyagok termelésére használt földterületek talajminőségére és széntartalmára gyakorolt hatások kezelését biztosító figyelemmel kísérési vagy gazdálkodási tervekkel kapcsolatos részletes szabályokat.
