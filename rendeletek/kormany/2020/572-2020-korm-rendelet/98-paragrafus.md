@@ -1,3 +1,3 @@
-## 97. §[^168]
+## 97. §[^150]
 
-[^168]: A 97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: A 97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

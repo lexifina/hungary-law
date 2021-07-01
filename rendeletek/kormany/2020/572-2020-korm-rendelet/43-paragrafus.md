@@ -1,3 +1,3 @@
-## 42. §[^44]
+## 42. § Az R. 118. §-a a következő (3) bekezdéssel egészül ki:
 
-[^44]: A 42. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+## „(3) A közlekedési igazgatási hatóság egy eljárásban jegyzi be a járműnyilvántartásba a jármű első forgalomba helyezését és az ideiglenes forgalomból kivonását, ha az arra vonatkozó kérelmet az ügyfél egy időben terjeszti elő.”

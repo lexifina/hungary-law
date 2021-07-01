@@ -1,5 +1,3 @@
 ## 18. §
 
-## 7.[^19]
-
-[^19]: A 7. alcím (19. §) a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+## 7. A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet módosítása

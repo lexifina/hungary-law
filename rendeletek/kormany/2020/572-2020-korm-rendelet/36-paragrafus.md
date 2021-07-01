@@ -1,3 +1,3 @@
-## 35. §[^36]
+## 35. § Az R. 46. §-a a következő (10) bekezdéssel egészül ki:
 
-[^36]: A 35. § a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+## „(10) A jármű forgalomba helyezésére irányuló kérelem elbírálása során a jármű tulajdonjogának hitelt érdemlő igazolása hiányában a törzskönyv kiadása nélkül a forgalmi engedély és a rendszámtábla kiadható az üzembentartó járműnyilvántartásba történő egyidejű bejegyzésével, feltéve, hogy a jármű a korábban Magyarországon már forgalomba volt helyezve, de a Kknyt. 15. §-ában meghatározott adatkezelés időtartama miatt a járműnyilvántartásban már nem szerepel, és a forgalomba helyezést kezdeményező ügyfél birtokába kerülése igazolt.”

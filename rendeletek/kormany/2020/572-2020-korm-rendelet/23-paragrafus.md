@@ -1,3 +1,3 @@
-## 22. §
+## 22. § A közúti közlekedési nyilvántartásba bejegyzett jármű tulajdonjogának, illetve üzembentartó személyének változását igazoló teljes bizonyító erejű magánokiratnak a közlekedési igazgatási eljárásban történő felhasználhatóságához szükséges kötelező tartalmi elemekről szóló 304/2009. (XII. 22.) Korm. rendelet 1. § b) pontjában a „tulajdonosa által” szövegrész helyébe a „tulajdonosa és nyilvántartás szerinti, a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 33. § (1) bekezdés b) pontjában foglalt kötelezettségét elmulasztó új tulajdonos által” szöveg lép.
 
 ## 10. A közfoglalkoztatási bér és a közfoglalkoztatási garantált bér megállapításáról szóló 170/2011. (VIII. 24.) Korm. rendelet módosítása

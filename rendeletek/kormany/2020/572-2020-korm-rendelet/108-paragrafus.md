@@ -1,3 +1,3 @@
-## 107. §[^183]
+## 107. §[^165]
 
-[^183]: A 107. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^165]: A 107. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

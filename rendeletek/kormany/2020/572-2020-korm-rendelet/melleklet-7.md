@@ -1,3 +1,1 @@
-7. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^206]
-
-[^206]: A 7. melléklet a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+7. melléklet az 572/2020. (XII. 9.) Korm. rendelethez

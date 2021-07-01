@@ -1,3 +1,3 @@
-## 106. §[^182]
+## 106. §[^164]
 
-[^182]: A 106. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 106. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

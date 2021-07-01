@@ -1,3 +1,3 @@
-## 101. §[^172]
+## 101. §[^154]
 
-[^172]: A 101. § a 127. § (10) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^154]: A 101. § a 127. § (10) bekezdése alapján 2023. január 1-jén lép hatályba.

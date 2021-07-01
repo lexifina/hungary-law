@@ -1,3 +1,3 @@
-## 49. §[^98]
+## 49. §[^80]
 
-[^98]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

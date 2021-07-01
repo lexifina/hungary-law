@@ -1,6 +1,5 @@
-## 21. §[^21]
+## 21. §[^20]
 
-## 9.[^22]
+## 9. A közúti közlekedési nyilvántartásba bejegyzett jármű tulajdonjogának, illetve üzembentartó személyének változását igazoló teljes bizonyító erejű magánokiratnak a közlekedési igazgatási eljárásban történő felhasználhatóságához szükséges kötelező tartalmi elemekről szóló 304/2009. (XII. 22.) Korm. rendelet módosítása
 
-[^21]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 9. alcím (22. §) a 127. § (6) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^20]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

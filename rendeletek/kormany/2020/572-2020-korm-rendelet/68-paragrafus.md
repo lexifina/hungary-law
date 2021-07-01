@@ -1,3 +1,3 @@
-## 67. §[^125]
+## 67. §[^107]
 
-[^125]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: A 67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
