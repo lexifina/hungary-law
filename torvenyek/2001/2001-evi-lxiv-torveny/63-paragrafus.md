@@ -4,7 +4,7 @@
 
 (3) A hatóság engedélyezi vagy tudomásul veszi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
 
-(4) Műemlékvédelmi érdekből műemlék, illetve a kiemelt nemzeti emlékhellyel kapcsolatos érdekből a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan fenntartása, különösen helyreállítása során az országos építési követelményektől, a településrendezési eszközöktől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. A nemzeti szabványoktól való eltérést a műemléki értékek megőrzése, továbbá a kiemelt nemzeti emlékhely egyedi településképi követelményeknek való megfelelése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható.
+(4) Műemlékvédelmi érdekből műemlék, illetve a kiemelt nemzeti emlékhellyel kapcsolatos érdekből a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan fenntartása, különösen helyreállítása során az országos építési követelményektől, a településrendezési tervtől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. A nemzeti szabványoktól való eltérést a műemléki értékek megőrzése, továbbá a kiemelt nemzeti emlékhely egyedi településképi követelményeknek való megfelelése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható.
 
 (4a) A (4) bekezdés tekintetében
 
