@@ -28,7 +28,7 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a Kormány, hogy a rehabilitációs hatóságot, a megváltozott munkaképességű személyek ellátásait folyósító szervet, a rehabilitációs szakértői szervet, az orvosszakértői szervet, a foglalkozási rehabilitációs szakértői névjegyzéket és a rehabilitációs orvosszakértői névjegyzéket vezető szervet, valamint a foglalkozási rehabilitációs szakértők, rehabilitációs orvosszakértők továbbképzésével kapcsolatos feladatokat ellátó szervet rendeletben jelölje ki.
 
-(3) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben a komplex minősítésre vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
+(3) Felhatalmazást kap a szociál- és nyugdíjpolitikáért felelős miniszter, hogy a komplex minősítésre, továbbá a 33/B. § szerinti fizikai állapotjavulás visszamenőleges vizsgálatára (a továbbiakban: állapotvizsgálat) vonatkozó részletes szakmai szabályokat rendeletben állapítsa meg.
 
 (4)
 
