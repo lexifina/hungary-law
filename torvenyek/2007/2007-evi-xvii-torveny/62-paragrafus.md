@@ -1,6 +1,8 @@
 62. § (1) Ha az ügyfél az esedékes tartozását nem fizette meg és azt tőle nem lehet behajtani, a tartozás megfizetésére határozattal kötelezhető:
 
-a)–b)
+a)
+
+b)
 
 c) az ügyfél tartozásáért kezességet vállaló, illetve az ügyfél tartozását átvállaló, a jóváhagyott szerződésben foglalt tartozás tekintetében,
 

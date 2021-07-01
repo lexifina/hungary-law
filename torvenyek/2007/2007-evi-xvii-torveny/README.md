@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2021-01-01 | 2020. évi CLXIV. törvény | 2007-17-00-00.53 |
 | 2021-03-01 | 2020. évi CXXXV. törvény | 2007-17-00-00.54 |
 | 2021-06-05 | 2021. évi LX. törvény | 2007-17-00-00.55 |
+| 2021-07-01 | 2021. évi XXXIX. törvény | 2007-17-00-00.56 |

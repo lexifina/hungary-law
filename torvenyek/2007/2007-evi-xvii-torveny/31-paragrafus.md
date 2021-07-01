@@ -16,7 +16,7 @@ b) a vízügyi igazgatási szerv a vagyongazdálkodás, a nagyvízi meder és a 
 
 (5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében a Mezőgazdasági Parcella Azonosító Rendszernek a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
-(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési eszköz, a településfejlesztési koncepció, az integrált településfejlesztési stratégia készítése és a településképi követelmények meghatározása érdekében az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési terv és településfejlesztési terv készítése és a településképi követelmények meghatározása érdekében az érintett területre a Mezőgazdasági Parcella Azonosító Rendszer programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
 (7) A Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság
 

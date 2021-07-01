@@ -30,7 +30,9 @@ c) az együttműködő szervezet,
 
 d) a hatáskörrel rendelkező hatóság,
 
-e)–f)
+e)
+
+f)
 
 (4) A (3) bekezdésben foglaltak szerinti szervek, illetve szervezetek feletti egyes, a közösségi jogszabályok által meghatározott, támogatás kifizetéséhez kapcsolódó ellenőrzési jogosítványokat
 
