@@ -82,7 +82,7 @@ a) a felszíni vagy felszín alatti víz kitermelése, duzzasztása, tárolása,
 
 b) a szennyvíz összegyűjtése és kezelése, amelyet ezt követően a felszíni vizekbe juttatnak;
 
-32. lakott terület: a település közigazgatási területének belterületi része, valamint az övezeti besorolástól függetlenül minden olyan külterületi településrész, ahol a nyilvántartott földrészleteket (ingatlanokat) tekintve legalább 50%-ban állandó tartózkodási hely szerint bejelentett (nyilvántartott) lakosság él, és a területfelhasználás, valamint az infrastruktúra-hálózat kialakítása a települést érintő – jóváhagyott – országos és térségi területrendezési tervekkel összhangban lévő településrendezési eszközöknek megfelel;
+32. lakott terület: a település közigazgatási területének belterületi része, valamint az övezeti besorolástól függetlenül minden olyan külterületi településrész, ahol a nyilvántartott földrészleteket (ingatlanokat) tekintve legalább 50%-ban állandó tartózkodási hely szerint bejelentett (nyilvántartott) lakosság él, és a területfelhasználás, valamint az infrastruktúra-hálózat kialakítása a települést érintő – jóváhagyott – országos és térségi területrendezési tervekkel összhangban lévő településrendezési tervnek megfelel;
 
 33. ivóvízminőség-javító program (intézkedési terv): az emberi fogyasztásra szolgáló vízre (ivóvízre) vonatkozó – jogszabályban meghatározott – minőségi követelményeket kielégítő cél megvalósítására irányuló feladatok összessége.
 

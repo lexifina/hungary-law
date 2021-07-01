@@ -14,7 +14,7 @@ c) domborzati,
 
 d) klimatikus hidrológiai és hidrogeológiai,
 
-e) gazdasági (településszerkezeti, településfejlesztési),
+e) gazdasági (településrendezési, településfejlesztési),
 
 f) műszaki,
 
