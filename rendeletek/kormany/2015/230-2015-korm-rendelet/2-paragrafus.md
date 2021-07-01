@@ -134,7 +134,7 @@ b) temetési költségekre nyújtott temetési támogatás;
 
 46. az Art. alapján az adósságrendezés kezdeményezését követően esedékessé váló bevételből a kifizető által levont, a bevételt vagy az ellenértéket terhelő, az Art. szerinti adó-, adóelőleg;
 
-47. az adósságrendezési eljárás alatt keletkezett bevételnek az a része, amelyet a társadalombiztosítás pénzügyi alapjait vagy a Nemzeti Foglalkoztatási Alapot megillető befizetésre kell fordítani;
+47.[^4] az adósságrendezési eljárás alatt keletkezett bevételnek az a része, amelyet a társadalombiztosítás pénzügyi alapjait vagy a Gazdaság-újraindítási Foglalkoztatási Alapot megillető befizetésre kell fordítani;
 
 48. az adósságrendezés kezdeményezését követően kapott bevételnek az a része, amelyet az adósnak az Are. tv. 8. § (2) bekezdés d) pontjában meghatározott tartozásként be kell fizetnie az adóhatóságnak.
 
@@ -143,3 +143,4 @@ b) temetési költségekre nyújtott temetési támogatás;
 [^1]: A 2. § (1) bekezdés 27. pontja a 13/2020. (II. 7.) Korm. rendelet 106. §-a szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés 31. pontja a 671/2020. (XII. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés 37. pontja a 448/2016. (XII. 19.) Korm. rendelet 58. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 47. pontja a 356/2021. (VI. 24.) Korm. rendelet 27. §-a szerint módosított szöveg.
