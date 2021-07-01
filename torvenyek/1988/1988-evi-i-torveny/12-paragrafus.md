@@ -28,6 +28,20 @@ d) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerin
 
 (3e) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakasza mellett nem lehet reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés, valamint a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz. A tilalom nem vonatkozik a 2010. december 31-éig a nem gyorsforgalmi utak mentén kihelyezett 12A/0-ás ív méretű reklámfelülettel rendelkező reklámtáblákra, az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét (piktogramját), vagy tevékenységét jelzik, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület által engedélyezett a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
 
+(3f) A segélykérő telefon e törvény alkalmazásában életmentő funkciót ellátó reklámcélú eszköznek minősül a következő feltételekkel:
+
+a) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés a nyilvános telefonállomás üzemeltetője engedélyével helyezhető el a segélykérő telefon tartószerkezetén,
+
+b) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés segélykérő telefon tartószerkezetén történő elhelyezése esetén az elhelyező életmentő funkciót ellátó reklámcélú eszközönként 3000 forint/hó összegű díj megfizetésére köteles,
+
+c) elhelyezése esetén nem kell alkalmazni a településkép védelméről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
+
+d) a közterület igénybevétele rendeltetésszerű igénybevételnek minősül, amely közterület-használati díjfizetési kötelezettséggel nem jár, az elhelyezőnek a közút kezelője részére csak a b) pont szerinti elhelyezési díjat kell fizetnie,
+
+e) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges, és
+
+f) az életmentő funkciót ellátó reklámcélú eszközre az (5) bekezdésben foglaltak irányadók.
+
 (4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 100 000 forinttól 500 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
 
 (4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett a közvetlen balesetveszély lehetőségét is mérlegeli.
