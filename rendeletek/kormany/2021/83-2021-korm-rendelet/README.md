@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2021-06-01 | 2021-83-20-22.9 | 296/2021. (V. 31.) Korm. rendelet |
 | 2021-06-12 | 2021-83-20-22.10 | 338/2021. (VI. 11.) Korm. rendelet |
 | 2021-06-30 | 2021-83-20-22.11 | 383/2021. (VI. 30.) Korm. rendelet |
+| 2021-07-01 | 2021-83-20-22.12 | 2010: CXXX. törvény |

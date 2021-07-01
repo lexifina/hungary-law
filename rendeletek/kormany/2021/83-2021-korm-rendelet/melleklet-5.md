@@ -1,3 +1,3 @@
-5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^41]
+5. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^43]
 
-[^41]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.
+[^43]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,8 +1,8 @@
-## 21. §[^36] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 383/2021. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 1. § (3)–(5) bekezdését, 3. § (3) bekezdését, 6. § (1) bekezdés a) alpontját, 7/L. §-át, 2. mellékletében foglalt táblázat 19. sorát és a 3. mellékletében foglalt táblázat 3. sorát a Módr13. hatálybalépésekor[^37] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 22. §[^38] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 384/2021. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr14.) megállapított 3. § (3) bekezdését, 7/F. §-át, valamint 2. mellékletében foglalt táblázat 20. sorát a Módr14. hatálybalépésekor[^39] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
-A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^36]: A 21. §-t a 383/2021. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
-[^37]: A hatálybalépés időpontja 2021. június 30.
+[^38]: A 22. §-t a 384/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^39]: A hatálybalépés időpontja 2021. július 1.

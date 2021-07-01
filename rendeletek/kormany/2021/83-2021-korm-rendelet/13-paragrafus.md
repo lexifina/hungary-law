@@ -1,3 +1,3 @@
-13. §[^22]
+## 12. §[^21]
 
-[^22]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát veztette.
+[^21]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

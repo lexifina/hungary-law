@@ -1,0 +1,4 @@
+## 21. §[^36] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 383/2021. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 1. § (3)–(5) bekezdését, 3. § (3) bekezdését, 6. § (1) bekezdés a) alpontját, 7/L. §-át, 2. mellékletében foglalt táblázat 19. sorát és a 3. mellékletében foglalt táblázat 3. sorát a Módr13. hatálybalépésekor[^37] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^36]: A 21. §-t a 383/2021. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^37]: A hatálybalépés időpontja 2021. június 30.
