@@ -8,12 +8,12 @@ a) az Európai Unió tagállamának vámhatósága által az áru Unió vámter�
 
 b) a Jöt. 77. § (2) bekezdése szerinti esetben a jogszabályban meghatározott NATO Vámokmány vagy – a nem NATO tagállamokba történő kiszállítás esetében – az Egységes Vámokmány, amelyben exportőrként a Honvédelmi Minisztérium vagy az MH kijelölt szerve, címzettként a külföldön szolgálatot teljesítő MH egysége, alegysége, köteléke szerepel,
 
-c)[^80] a zárjeggyel ellátott jövedéki termék esetén a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
+c)[^81] a zárjeggyel ellátott jövedéki termék esetén a zárjegy állami adó- és vámhatóság képviselőinek jelenlétében elvégzett megsemmisítéséről, illetve érvénytelenítéséről a 93/L. § rendelkezéseinek alkalmazásával felvett jegyzőkönyv.
 
-(2)[^81] Az adó-visszaigénylési jogosultság abban az esetben is érvényesíthető, ha az adózó által megadott MRN azonosító alapján a váminformatikai rendszerben megállapítható az Unió vámterületéről történő kilépés ténye.
+(2)[^82] Az adó-visszaigénylési jogosultság abban az esetben is érvényesíthető, ha az adózó által megadott MRN azonosító alapján a váminformatikai rendszerben megállapítható az Unió vámterületéről történő kilépés ténye.
 
-(3)[^82] Az (1) bekezdés c) pont szerinti felülragasztással történő érvénytelenítéssel egy tekintet alá esik a zárjegyen fekete színű, nyomtatott „E” betű feltüntetése.
+(3)[^83] Az (1) bekezdés c) pont szerinti felülragasztással történő érvénytelenítéssel egy tekintet alá esik a zárjegyen fekete színű, nyomtatott „E” betű feltüntetése.
 
-[^80]: A 64. § (1) bekezdés c) pontját az 5/2017. (III. 30.) NGM rendelet 18. § (1) bekezdése iktatta be
-[^81]: A 64. § (2) bekezdése a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
-[^82]: A 64. § (3) bekezdését az 5/2017. (III. 30.) NGM rendelet 18. § (2) bekezdése iktatta be
+[^81]: A 64. § (1) bekezdés c) pontját az 5/2017. (III. 30.) NGM rendelet 18. § (1) bekezdése iktatta be
+[^82]: A 64. § (2) bekezdése a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
+[^83]: A 64. § (3) bekezdését az 5/2017. (III. 30.) NGM rendelet 18. § (2) bekezdése iktatta be

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-45-20-2
 | 2020-10-01 | 2016-45-20-2X.12 | 7/2020. (VII. 30.) PM rendelet |
 | 2020-12-31 | 2016-45-20-2X.13 | 23/2020. (XII. 30.) PM rendelet |
 | 2021-01-01 | 2016-45-20-2X.14 | 23/2020. (XII. 30.) PM rendelet |
+| 2021-07-01 | 2016-45-20-2X.15 | 23/2020. (XII. 30.) PM rendelet |
