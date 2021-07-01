@@ -2,9 +2,9 @@
 
 (2) Az e törvény felhatalmazása alapján a Balaton vízparti területeire vonatkozó sajátos településrendezési és építési követelmények tárgyában kiadott kormányrendelet
 
-a) a települési területfelhasználási egységek kijelölésének szabályait, a megengedett területfelhasználási egységeken a megengedett rendeltetést és a megengedett legnagyobb beépítési sűrűséget,
+a) az építési övezetek és övezetek kijelölésének szabályait, a megengedett építési övezetekben és övezetekben a megengedett rendeltetést ó,
 
-b) az építési telken a megengedett legnagyobb beépítettséget, a megengedett legnagyobb beépítési magasságot és a legkisebb zöldfelületi arányt,
+b) az építési övezetek és övezetek telkein a megengedett legnagyobb beépítettséget, a megengedett legnagyobb beépítési magasságot és a legkisebb zöldfelületi arányt,
 
 c) a zagyterek felhasználásának feltételeit
 

@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-139-00-00
 | 2019-03-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-139-00-00.3 |
 | 2019-03-16 | 2010. évi CXXX. törvény | 2018-139-00-00.4 |
 | 2019-07-16 | 2019. évi LXIV. törvény | 2018-139-00-00.5 |
+| 2021-07-01 | 2021. évi XXXIX. törvény | 2018-139-00-00.6 |

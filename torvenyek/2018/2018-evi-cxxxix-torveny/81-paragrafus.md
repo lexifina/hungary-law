@@ -8,7 +8,7 @@ a) új beépítésre szánt terület nem jelölhető ki;
 
 b) a művelési ág megváltoztatása, termőföld más célú hasznosítása csak a hagyományos tájhasználatnak megfelelő termelési- és tájszerkezet, illetve a sajátos tájkarakter erősítése, valamint közmű és közút építése érdekében engedélyezhető;
 
-c) a látványvédelmet a településképi követelményekben és a településrendezési eszközökben biztosítani kell;
+c) a látványvédelmet a településképi követelményekben és a településrendezési tervben biztosítani kell;
 
 d) a kialakult geomorfológiai formák természetes domborzati adottságai és láthatósága megőrzendők.
 

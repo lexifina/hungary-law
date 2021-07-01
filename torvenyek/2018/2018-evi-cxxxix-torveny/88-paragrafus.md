@@ -10,7 +10,7 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a területrendezési tervek, valamint a településrendezési eszközök készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek körét és az eljárás részletes szabályait,
+a) a területrendezési tervek, valamint a településrendezési terv készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek körét és az eljárás részletes szabályait,
 
 b) a Balaton vízparti területeire vonatkozó közcélú területfelhasználási terv területi hatálya kijelölésének szempontjait, a terv tartalmi követelményeit és készítésének részletes szabályait,
 
@@ -18,7 +18,7 @@ c) a Balaton vízparti területein a kikötők létesítése feltételeinek szab
 
 d) a Balaton vízparti területeire – az e törvényben nem szabályozott – sajátos településrendezési és építési követelményeket, ideértve ezeknek a helyi építési szabályzatban történő alkalmazására vonatkozó szabályokat,
 
-e) a balatoni partvonal-szabályozási terv tartalmi követelményeit,
+e) a balatoni partvonal-szabályozási terv készítésére vonatkozó szabályokat és tartalmi követelményeit,
 
 f) a hegybírók e törvény által meghatározott feladatainak részletes szabályait,
 
@@ -35,6 +35,8 @@ c) a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartoz�
 d) a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének hatálya alá tartozóan az ásványi nyersanyagvagyon övezete, a földtani veszélyforrás terület övezete, a rendszeresen belvízjárta terület övezet, a vízeróziónak kitett terület övezete és az általános mezőgazdasági terület övezete térképi lehatárolását, az övezeti szabályokat, valamint egyes országos övezetek kiegészítő szabályait,
 
 e) a Balaton vízparti területeinek lehatárolását és a Balaton vízparti területeire vonatkozó közcélú területfelhasználást
+
+f) a vízpart-rehabilitácós szabályozási követelményekkel érintett területet és a vízpart-rehabilitációs tanulmányterv elfogadását
 
 rendeletben állapítsa meg.
 

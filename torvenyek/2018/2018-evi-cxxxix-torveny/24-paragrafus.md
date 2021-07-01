@@ -2,7 +2,7 @@
 
 24. § (1) A megyei önkormányzat a területrendezési tervéről szóló rendeletének részeként a megye területének természeti, épített környezeti és gazdasági adottságainak védelmére és fejlesztésére, a térszerkezet szervezésére, továbbá a területfejlesztési koncepciók és programok végrehajtására a 19. §-ban meghatározott térségi övezeteken túl egyedileg meghatározott övezeteket is megállapíthat, amely övezetek
 
-a) szabályai a településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök készítésére, a településrendezési eszközökben meghatározott területfelhasználási egységek kijelölésére, valamint az OTÉK-ban meghatározott, kereskedelmi, szolgáltató gazdasági területek építési használatának megengedett határértékeinél megengedőbb követelmények megállapításának lehetőségére vonatkozhatnak,
+a) szabályai a településfejlesztési terv és a településrendezési terv készítésére, településrendezési tervekben meghatározott építési övezetek, övezetek kijelölésére, valamint az OTÉK-ban meghatározott, kereskedelmi, szolgáltató gazdasági területek építési használatának megengedett határértékeinél megengedőbb követelmények megállapításának lehetőségére vonatkozhatnak,
 
 b) nem lehetnek ellentétesek a megyét érintő országos és kiemelt térségi területrendezési tervekkel.
 

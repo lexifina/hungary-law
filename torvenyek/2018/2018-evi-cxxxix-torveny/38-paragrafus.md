@@ -12,7 +12,7 @@ c) a tervezett funkció ellátásához szükséges műszaki infrastruktúra-kapa
 
 (4) Új lakóterület, illetve vegyes terület csak a települési térséghez kapcsolódóan jelölhető ki.
 
-(5) A nagy kiterjedésű zöldterületi települési térségben – új területfelhasználási egységként – csak zöldterület, továbbá – a beépítésre szánt és beépítésre nem szánt különleges terület területfelhasználási egység köréből – sportolási célú terület, temetőterület vagy különleges beépítésre nem szánt, rekreációs célú terület jelölhető ki.
+(5) A nagy kiterjedésű zöldterületi települési térségben – új építési övezetként vagy övezetként – csak zöldterület, továbbá – a beépítésre szánt és beépítésre nem szánt különleges területek köréből – sportolási célú terület, temetőterület vagy különleges beépítésre nem szánt, rekreációs célú terület építési övezet, övezet jelölhető ki.
 
 (6) 5 ha-t meghaladó kiterjedésű új lakóterület vagy vegyes terület ott jelölhető ki, ahol annak legtávolabbi pontjától a meglévő vagy kiépítendő közösségi közlekedés megállóhelyig a közforgalom számára szabályosan használható közúton mért távolság nem haladja meg az 5 km-t.
 

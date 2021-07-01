@@ -1008,11 +1008,7 @@ Budapest [XIV. kerület, Rákosrendező] – Budapest [XV. kerület, Istvántelk
 
 |
 
-221
-
 |
-
-Budapest [XXIII. kerület, Soroksár] – Budapest [XVIII. kerület, Szemeretelep mh.]
 
 3. Tervezett országos törzshálózati vasúti pályák
 

@@ -1,10 +1,10 @@
 ## 47. Kemping és strand
 
-75. § (1) A vízparti kemping területén tulajdoni formától függetlenül kereskedelmi célú szállásférőhely, vendéglátó épület és pihenés, testedzést szolgáló építmény helyezhető el. Lakóépület és lakás nem alakítható ki.
+75. § (1) A vízparti kemping területén tulajdoni formától függetlenül kereskedelmi célú szállásférőhely, vendéglátó épület és pihenést, testedzést szolgáló építmény helyezhető el. Lakóépület és lakás nem alakítható ki.
 
-(2) A Balaton vízparti területein lévő kempinget különleges terület kemping települési területfelhasználási egységbe kell sorolni, amelynek beépítettsége legfeljebb 15% lehet.
+(2) A Balaton vízparti területein lévő kempinget különleges kemping terület építési övezetbe vagy övezetbe kell sorolni, amelynek beépítettsége legfeljebb 15% lehet.
 
-(3) A kemping területének más területfelhasználási egységbe történő besorolása csak
+(3) A kemping területének más övezetbe történő besorolása csak
 
 a) zöldterületként legfeljebb 3%-os beépítettséggel, vagy
 

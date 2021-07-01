@@ -4,10 +4,10 @@ a) az országos műszaki infrastruktúra-hálózatok és a műszaki infrastrukt�
 
 b) az országos műszaki infrastruktúra-hálózatoknak az Ország Szerkezeti Tervében megállapított nyomvonalától, a térbeli rendtől és a térbeli rend szempontjából meghatározó települések felsorolásától az adott műszaki infrastruktúra kijelölése tekintetében feladat- és hatáskörrel rendelkező miniszter egyetértése esetén lehet eltérni.
 
-(2) A településrendezési eszközökben
+(2) A településrendezési tervben
 
 a) az országos és térségi műszaki infrastruktúra-hálózatok és a műszaki infrastruktúra egyedi építményeinek helyét a kiemelt térségi, illetve megyei területrendezési tervekben meghatározott térbeli rend figyelembevételével kell meghatározni,
 
-b) az országos és térségi műszaki infrastruktúra-hálózatok nyomvonala a településrendezési eszközök egyeztetési eljárásában részt vevő, az egyeztetés tárgyát képező infrastruktúra elem vonatkozásában az adott egyeztetési szakterületet képviselő államigazgatási szerv hozzájárulása, és az egyéb érintett szakterületet képviselő államigazgatási szerv egyetértése esetén térhet el a kiemelt térségi, illetve megyei területrendezési tervek szerkezeti tervében megállapított nyomvonalváltozattól, azok térbeli rendjétől és a térbeli rend szempontjából meghatározó települések felsorolásától.
+b) az országos és térségi műszaki infrastruktúra-hálózatok nyomvonala a településrendezési terv egyeztetési eljárásában részt vevő, az egyeztetés tárgyát képező infrastruktúra elem vonatkozásában az adott egyeztetési szakterületet képviselő államigazgatási szerv hozzájárulása, és az egyéb érintett szakterületet képviselő államigazgatási szerv egyetértése esetén térhet el a kiemelt térségi, illetve megyei területrendezési tervek szerkezeti tervében megállapított nyomvonalváltozattól, azok térbeli rendjétől és a térbeli rend szempontjából meghatározó települések felsorolásától.
 
 (3) Az országos és térségi műszaki infrastruktúra-hálózatok nyomvonalának meghatározásánál biztosítani kell a szomszédos megyék és települések határán a folyamatos kapcsolódás lehetőségét.

@@ -24,9 +24,9 @@ g) a parti sétányok
 
 lehatárolását.
 
-(3) A településrendezési eszközöket az e törvény felhatalmazása alapján kiadott 48. § (2) bekezdése szerinti kormányrendelettel, a 48. § (4) bekezdés szerinti miniszteri rendelettel, továbbá a (2) bekezdés szerinti miniszteri rendelettel összhangban kell elkészíteni vagy módosítani.
+(3) A településrendezési tervet az e törvény felhatalmazása alapján kiadott 48. § (2) bekezdése szerinti kormányrendelettel, a 48. § (4) bekezdés szerinti miniszteri rendelettel, továbbá a (2) bekezdés szerinti miniszteri rendelettel összhangban kell elkészíteni vagy módosítani.
 
-(4) Ahol e fejezet a vízparti területekre vonatkozóan külön előírásokat nem tartalmaz, ott az e törvény felhatalmazása alapján kiadott, 48. § (2) bekezdése szerinti kormányrendelet előírásait, az ezzel összhangban álló OTÉK követelményeket, valamint a településrendezési eszközök és az egyes településrendezési sajátos jogintézmények tárgyában kiadott kormányrendelet előírásait kell alkalmazni.
+(4) Ahol e fejezet a vízparti területekre vonatkozóan külön előírásokat nem tartalmaz, ott az e törvény felhatalmazása alapján kiadott, 48. § (2) bekezdése szerinti kormányrendelet előírásait, az ezzel összhangban álló OTÉK követelményeket, valamint a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézmények tárgyában kiadott kormányrendelet előírásait kell alkalmazni.
 
 (5) Azon ingatlan, amelyet – az e törvény felhatalmazása alapján kiadott (2) bekezdés szerinti miniszteri rendelettel összhangban – zöldterületként, illetve parti sétányként jelöl ki a helyi építési szabályzat, zöldterület esetében a zöldterületté, parti sétány esetében a zöldterületté, közlekedési területté, vízgazdálkodási területté vagy különleges kikötő terület közhasználat elől el nem zárható területévé alakítás érdekében, terület- vagy településrendezési célból, a kisajátításról szóló törvényben foglaltak szerint kisajátítható.
 
@@ -40,6 +40,6 @@ lehatárolását.
 
 (9) Kisajátítási kártalanításra, kártalanításra a települési önkormányzat akkor kötelezett, ha a (2) bekezdés szerinti miniszteri rendelettől függetlenül rendelkezik a helyi építési szabályzat az övezeti átsorolásról, állapítja meg másként vagy korlátozza az ingatlan rendeltetését, használati módját.
 
-(10) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat hatálybalépésének napja. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet az illetékes állami főépítészi hatáskörében eljáró megyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
+(10) A kártalanítási igény a vagyoni hátrány keletkezésekor válik esedékessé. Ez az időpont a helyi építési szabályzat hatálybalépésének napja. A kártalanítás a felek megállapodásának tárgya. Ha a felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet az illetékes megyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel.
 
 (11) A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási perre az Étv. 30. § (8) bekezdésében foglaltakat kell alkalmazni.

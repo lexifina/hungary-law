@@ -22,7 +22,7 @@ f) a borszőlő termőhelyi kataszteri területből való kivonás és átminős
 
 (2) Az (1) bekezdés szerinti előírásokat a már kijelölt beépítésre szánt területeken nem kell alkalmazni.
 
-(3) Az övezet területén található egyedi értékű dűlőkön új építményként csak a szőlőtermesztéssel összefüggő rendeltetésű építmény helyezhető el, amelyről a településrendezési eszközökben rendelkezni kell.
+(3) Az övezet területén található egyedi értékű dűlőkön új építményként csak a szőlőtermesztéssel összefüggő rendeltetésű építmény helyezhető el, amelyről a településrendezési tervben rendelkezni kell.
 
 (4) A (3) bekezdés szerinti egyedi értékű dűlők lehatárolását és a megőrzésükre vonatkozó követelményeket e törvény felhatalmazása alapján kiadott miniszteri rendelet tartalmazza.
 

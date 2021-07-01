@@ -1,6 +1,6 @@
 ## 8. Új beépítésre szánt terület kijelölése
 
-12. § (1) Ha jogszabály új beépítésre szánt terület kijelölését nem tiltja, a településrendezési eszközben új beépítésre szánt területet a következő szempontok mérlegelése alapján kell kijelölni:
+12. § (1) Ha jogszabály új beépítésre szánt terület kijelölését nem tiltja, a településrendezési tervben új beépítésre szánt területet a következő szempontok mérlegelése alapján kell kijelölni:
 
 a) az új beépítésre szánt terület csatlakozik a meglévő települési területhez,
 

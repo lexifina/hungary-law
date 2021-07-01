@@ -1,6 +1,6 @@
 ## 18. Világörökségi és világörökségi várományos területek övezete
 
-31. § (1) A világörökségi és világörökségi várományos területek övezetét a településrendezési eszközökben kell tényleges kiterjedésének megfelelően lehatárolni.
+31. § (1) A világörökségi és világörökségi várományos területek övezetét a településrendezési tervben kell tényleges kiterjedésének megfelelően lehatárolni.
 
 (2) Az (1) bekezdés szerint lehatárolt világörökségi és világörökségi várományos terület övezetén:
 

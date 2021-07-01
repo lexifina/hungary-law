@@ -22,7 +22,7 @@
 
 10. erőmű: a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 3. § 14. pontjában meghatározott fogalom;
 
-11. esőbeálló: természetes anyagokból (pl. kő, fa, nád, szalma) egyszerű módon, részben vagy teljesen oldalfalakkal épített, legfeljebb 3,5 méter épületmagasságú és legfeljebb 20 m2 bruttó alapterületű építmény;
+11.
 
 12. földdel borított pince: a helyi építési hagyományoknak megfelelően boltozott, oromfalas, földdel részben borított terepszint alatti építmény, amelynek kialakítása során a meglévő terep legfeljebb 2 méteres töltésére kerül sor;
 
@@ -40,7 +40,7 @@
 
 19. jó termőhelyi adottságú szántók övezete: a területrendezésért felelős miniszter rendeletében megállapított, kiemelt térségi területrendezési terv esetében a területrendezésért felelős miniszter rendeletében, valamint a megyei területrendezési tervben alkalmazott övezet, amelybe jó növénytermesztési feltételekkel rendelkező szántóterületek tartoznak;
 
-20. kemping: a településrendezési eszközben kempingként kijelölt, vagy az e törvény felhatalmazása alapján a Balaton vízparti területeinek közcélú területfelhasználása tárgyában kiadott miniszteri rendeletben kempingként kijelölt terület, vagy más jogszabály szerinti kemping;
+20. kemping: a településrendezési tervben kempingként kijelölt, vagy az e törvény felhatalmazása alapján a Balaton vízparti területeinek közcélú területfelhasználása tárgyában kiadott miniszteri rendeletben kempingként kijelölt terület, vagy más jogszabály szerinti kemping;
 
 21. kertes mezőgazdasági terület övezete: a BKÜTrT-ben egyedileg meghatározott és lehatárolt övezet, amelybe a beépítésre nem szánt mezőgazdasági területek közül azok a zártkerti vagy zártkerti művelésből kivett mezőgazdasági területek tartoznak, amelyek fekvése, szerkezete, telekstruktúrája, hasznosítása módja és intenzitása, valamint beépítettsége eltér az általános mezőgazdasági terület övezetének területeitől, így kisüzemi használatú telkekből (földrészletekből) állnak, és ahol a kert, szőlő és gyümölcsös művelési ágak dominálnak;
 
@@ -78,7 +78,7 @@
 
 38. rendszeresen belvízjárta terület övezete: kiemelt térség esetében a területrendezésért felelős miniszter rendeletében, valamint a megyei területrendezési tervben megállapított övezet, amelybe a síkvidéki vagy enyhe lejtésviszonyokkal rendelkező területek azon mélyebb részei tartoznak, ahol a helyi csapadék egy része átmeneti vízfelesleg formájában, nagyobb mennyiségben és gyakorisággal összegyűlik;
 
-39. strand: a Balaton vízparti területeire vonatkozólag az ingatlan-nyilvántartásban strandként vagy strandfürdőként bejegyzett, vagy a településrendezési eszközben vagy jogszabályban strandterületként kijelölt terület, vagy strandként engedélyezett és üzemeltetett terület, valamint jogszabályban természetes fürdőhelyként meghatározott terület;
+39. strand: a Balaton vízparti területeire vonatkozólag az ingatlan-nyilvántartásban strandként vagy strandfürdőként bejegyzett, vagy a településrendezési tervben vagy jogszabályban strandterületként kijelölt terület, vagy strandként engedélyezett és üzemeltetett terület, valamint jogszabályban természetes fürdőhelyként meghatározott terület;
 
 40. szőlő-, gyümölcs- és kertművelésű térség: a BKÜTrT-ben egyedileg meghatározott területfelhasználási kategória, amelybe a kertes mezőgazdasági terület övezete mellett az árutermelő méretű és szerepű szőlő, gyümölcsös ültevény és kert területek tartoznak;
 
@@ -94,7 +94,7 @@
 
 46. települési terület: a település belterülete, valamint az ahhoz csatlakozó beépítésre szánt terület;
 
-47. területfelhasználási egység: a település igazgatási területének a jellemző rendeltetés szerint megkülönböztetett területegysége, amely azonos jellemző vagy kijelölt településfunkciónak biztosít területet;
+47.
 
 48. térség: a területrendezés szempontjából megkülönböztetett területi egység, amelyre vonatkozóan a területrendezési terv előírásokat határoz meg;
 

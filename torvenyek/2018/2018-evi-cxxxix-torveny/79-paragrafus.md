@@ -2,7 +2,7 @@
 
 79. § Az ökológiai hálózat ökológiai folyosójának övezete tekintetében a 26. § szerinti övezeti előírások mellett a következő előírások alkalmazandók:
 
-a) a településrendezési eszközök készítése során az ökológiai folyosók folytonosságát és folyamatossá tételét biztosítani kell;
+a) a településrendezési terv készítése során az ökológiai folyosók folytonosságát és folyamatossá tételét biztosítani kell;
 
 b) szántó művelési ágú területen – a Balatoni főépítész hozzájárulását követően – kizárólag út, közmű, vízgazdálkodási és vízkárelhárítási építmény helyezhető el;
 

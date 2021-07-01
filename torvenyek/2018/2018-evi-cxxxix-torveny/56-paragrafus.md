@@ -14,6 +14,6 @@ bc) az ökológiai hálózat pufferterületének övezetében,
 
 bd) a borszőlő termőhelyi kataszteri terület övezetében és
 
-be) a településszerkezeti tervben üdülőterület, a különleges települési területfelhasználási egységek közül az oktatási központ, egészségügyi épület elhelyezésére szolgáló terület, nagy kiterjedésű sportolási terület, továbbá erdőterület és zöldterület települési területfelhasználási egységbe sorolt területeken
+be) a településrendezési terv üdülőterület övezetében, a különleges építési övezetek, övezetek közül az oktatási központ, egészségügyi épület elhelyezésére szolgáló terület, nagy kiterjedésű sportolási terület, továbbá erdőterület és zöldterület övezetbe sorolt területeken
 
 nem okoz.

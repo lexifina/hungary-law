@@ -1,6 +1,6 @@
-73. § (1) E § alkalmazásában zöldterület: a Balaton vízparti területére eső, a településrendezési eszközökben zöldterületként kijelölt, valamint az e törvény felhatalmazása alapján kiadott miniszteri rendeletben zöldterületté átsorolt terület.
+73. § (1) E § alkalmazásában zöldterület: a Balaton vízparti területére eső, a településrendezési tervben zöldterületként kijelölt, valamint az e törvény felhatalmazása alapján kiadott miniszteri rendeletben zöldterületként kijelölt terület.
 
-(2) E § szerinti zöldterületen más települési területfelhasználási egység csak közfeladat ellátása érdekében, az átsorolni kívánt zöldterülettel legalább azonos alapterületű új zöldterület egyidejű kijelölésével és az alábbi feltételek egyidejű teljesülése esetén jelölhető ki:
+(2) E § szerinti zöldterületen más építési övezet, övezet csak közfeladat ellátása érdekében, az átsorolni kívánt zöldterülettel legalább azonos alapterületű új zöldterület egyidejű kijelölésével és az alábbi feltételek egyidejű teljesülése esetén jelölhető ki:
 
 a) az átsorolni kívánt zöldterület nem tartozik természetvédelmi oltalom alá,
 
@@ -16,7 +16,7 @@ f) az ingatlan-nyilvántartás szerint állami vagy önkormányzati tulajdonban 
 
 g) az átsorolni kívánt zöldterület nem váltható ki természetvédelmi oltalom alatt álló terület zöldterületi kijelölésével.
 
-(3) Az átsorolást követően az újonnan zöldterület települési területfelhasználási egységbe sorolt ingatlanon további átsorolás nem hajtható végre.
+(3) Az átsorolást követően az újonnan zöldterület övezetbe sorolt ingatlanon további átsorolás nem hajtható végre.
 
 (4) Az átsorolás következtében újonnan kijelölt zöldterületen létrehozandó közparkot vagy közkertet legkésőbb az átsorolt zöldterület területének tényleges csökkentéséig meg kell valósítani, és az ingatlan-nyilvántartásba közparkként vagy közkertként bejegyezni.
 

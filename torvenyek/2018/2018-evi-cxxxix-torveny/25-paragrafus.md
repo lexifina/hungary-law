@@ -4,7 +4,7 @@
 
 ## 13. Ökológiai hálózat magterületének övezete
 
-25. § (1) Az ökológiai hálózat magterületének övezetében – kivéve, ahol az Ország Szerkezeti Terve, vagy a Budapesti Agglomeráció Szerkezeti Terve, vagy a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve települési térséget határoz meg – csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési eszközökben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem veszélyezteti.
+25. § (1) Az ökológiai hálózat magterületének övezetében – kivéve, ahol az Ország Szerkezeti Terve, vagy a Budapesti Agglomeráció Szerkezeti Terve, vagy a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve települési térséget határoz meg – csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete és az ökológiai hálózat ökológiai folyosója természetes és természetközeli élőhelyeit és azok kapcsolatait nem veszélyezteti.
 
 (2) Az ökológiai hálózat magterületének övezetében új beépítésre szánt terület nem jelölhető ki, kivéve, ha:
 
