@@ -1,4 +1,4 @@
-2. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^63]
+2. számú melléklet a 178/2008. (VII. 3.) Korm. rendelethez[^64]
 
 ## A kisajátítás során készítendő változási vázrajz tartalma
 
@@ -30,22 +30,22 @@ d) a megszűnő földrészlet és alrészlet határvonalak dupla megszüntető v
 
 3. A lábrésznek az alábbi adatokat kell tartalmaznia:
 
-a)[^64] a 7. § (3) bekezdése szerinti záradékszövegek;
+a)[^65] a 7. § (3) bekezdése szerinti záradékszövegek;
 
 b) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz iktató számára történő hivatkozás;
 
-c)[^65] a kormányhivatal székhelye és az ingatlanügyi szempontú vizsgálat lezárásának dátuma,;
+c)[^66] a kormányhivatal székhelye és az ingatlanügyi szempontú vizsgálat lezárásának dátuma,;
 
-d)[^66] az ingatlanügyi szempontú vizsgálatot végző aláírása és ingatlanrendező földmérői minősítésének száma;
+d)[^67] az ingatlanügyi szempontú vizsgálatot végző aláírása és ingatlanrendező földmérői minősítésének száma;
 
 e) a készítő olvasható aláírása és kék színű bélyegző lenyomata, földmérő igazolványának száma, vagy ha van, ingatlanrendező földmérői minősítésének száma;
 
-f)[^67] ha a készítőnek nincs ingatlan rendező minősítése, akkor a minőségtanúsító aláírása, kékszínű bélyegző lenyomata és az ingatlanrendezői földmérői minősítésének száma;
+f)[^68] ha a készítőnek nincs ingatlan rendező minősítése, akkor a minőségtanúsító aláírása, kékszínű bélyegző lenyomata és az ingatlanrendezői földmérői minősítésének száma;
 
 g) a készítés dátuma.
 
-[^63]: A 2. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^64]: A 2. számú melléklet 3. pont a) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés g) pontja szerint módosított szöveg.
-[^65]: A 2. számú melléklet 3. pont c) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés h) pontjával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^66]: A 2. számú melléklet 3. pont d) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés i) pontja szerint módosított szöveg.
-[^67]: A 2. számú melléklet 3. pont f) alpontja a 373/2014. (XII. 31.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^64]: A 2. számú melléklet a 154/2013. (V. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^65]: A 2. számú melléklet 3. pont a) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés g) pontja szerint módosított szöveg.
+[^66]: A 2. számú melléklet 3. pont c) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés h) pontjával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 62. § (2) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^67]: A 2. számú melléklet 3. pont d) alpontja a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés i) pontja szerint módosított szöveg.
+[^68]: A 2. számú melléklet 3. pont f) alpontja a 373/2014. (XII. 31.) Korm. rendelet 49. §-a szerint módosított szöveg.
