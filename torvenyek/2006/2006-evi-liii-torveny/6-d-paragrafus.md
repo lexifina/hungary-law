@@ -20,8 +20,8 @@ d) a 6/L. § szerinti védettség időtartamának meghatározásával.
 
 (6) A közlekedési infrastruktúra-beruházás megvalósítása során az Étv. építési tevékenység végzésére vonatkozó rendelkezéseit a (7)–(9) bekezdésben foglalt eltéréssel kell alkalmazni.
 
-(7) Az építési engedély iránti kérelmet – a településrendezési eszközöknek a rendelettel való összhangja hiányában – a rendelet követelményeinek megfelelően kell elbírálni. Ebben az esetben az építési engedélyezési eljárásban a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatát nem kell beszerezni.
+(7) Az építési engedély iránti kérelmet – a településrendezési tervnek a rendelettel való összhangja hiányában – a rendelet követelményeinek megfelelően kell elbírálni. Ebben az esetben az építési engedélyezési eljárásban a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatát nem kell beszerezni.
 
-(8) A rendelettel megállapított nyomvonal nem pótolja a településrendezési eszközöket, és nem érinti az érintett település önkormányzatának a 6/H. § (1) bekezdésében foglalt kötelezettségét.
+(8) A rendelettel megállapított nyomvonal nem pótolja a településrendezési terveket, és nem érinti az érintett település önkormányzatának a 6/H. § (1) bekezdésében foglalt kötelezettségét.
 
 (9) A rendelet hatálybalépésétől az államot – más jogszabállyal megjelölt jogosultakat megelőzően – elővásárlási jog illeti meg a rendelettel meghatározott nyomvonalon található földrészlet tekintetében. Az elővásárlási jogot az állam nevében az építtető gyakorolja. A megvásárolt földrészlet és a kisajátítással megszerzett földrészlet az állam tulajdonába kerül. Az állam javára adásvétel vagy kisajátítás útján megszerzett ingatlanok vagyonkezelői jogának ingatlan-nyilvántartási bejegyzése és annak az ingatlan-nyilvántartásból való törlése után igazgatási szolgáltatási díjat nem kell fizetni.
