@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-118-20-
 | 2020-07-17 | 2001-118-20-22.26 | 337/2020. (VII. 9.) Korm. rendelet |
 | 2021-01-01 | 2001-118-20-22.27 | 273/2018. (XII. 20.) Korm. rendelet |
 | 2021-03-01 | 2001-118-20-22.28 | 273/2018. (XII. 20.) Korm. rendelet |
+| 2021-07-01 | 2001-118-20-22.29 | 356/2021. (VI. 24.) Korm. rendelet |

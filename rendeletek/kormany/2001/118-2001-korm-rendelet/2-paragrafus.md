@@ -16,9 +16,9 @@ f)[^6] kölcsönbeadó: az új Mt. 214. § (1) bekezdés b) pontjában meghatár
 
 g)[^7] kölcsönvevő: az új Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató;
 
-h)[^8] közfoglalkoztatásra irányuló munkaerő-kölcsönzés: a közfoglalkoztatási jogviszony keretében történő munkaerő-kölcsönzés;
+h)[^8] magán-munkaközvetítő: az a) pontban meghatározott magán-munkaközvetítést e rendeletnek, továbbá a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvénynek megfelelően végző szolgáltató;
 
-i)[^9] közhasznú kölcsönző: helyi vagy nemzetiségi önkormányzat, illetve ezek társulása, valamint az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32. §-a szerinti közhasznú szervezet;
+i)[^9]
 
 j)[^10] közteher:
 
@@ -36,8 +36,8 @@ k)[^12] munkaerő-kölcsönzési díj: a munkaerő-kölcsönzési szerződés al
 [^5]: A 2. § (1) bekezdés e) pontja a 335/2016. (XI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés f) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdés g) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés c) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
-[^9]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, szövege a 135/2012. (VI. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, a 356/2021. (VI. 24.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, a 356/2021. (VI. 24.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
 [^10]: A 2. § (1) bekezdés j) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
 [^11]: A 2. § (1) bekezdés j) pont ja) alpontja a 337/2020. (VII. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^12]: A 2. § (1) bekezdés k) pontját a 273/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
