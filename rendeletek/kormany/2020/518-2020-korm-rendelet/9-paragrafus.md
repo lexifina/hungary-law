@@ -70,7 +70,7 @@ ld) a 3. § (3) bekezdés a) pontjában – ide nem értve a Tbj. 4. § 11. pont
 
 le) a 3. § (5) bekezdés b) pontjában meghatározott ellátásban részesül,
 
-lf)[^21] ha részben vagy egészben otthonfelújítási kölcsöntartozására nézve érvényesítette a jelzáloghitel-csökkentési támogatást, akkor ennek tényéről, továbbá hogy a jelzáloghitel-csökkentési támogatást mely hitelintézetnél fennálló milyen kölcsöntartozására, valamint – több érintett kölcsöntartozás esetén melyikre nézve – mekkora összegben vette igénybe,
+lf)[^20] ha részben vagy egészben otthonfelújítási kölcsöntartozására nézve érvényesítette a jelzáloghitel-csökkentési támogatást, akkor ennek tényéről, továbbá hogy a jelzáloghitel-csökkentési támogatást mely hitelintézetnél fennálló milyen kölcsöntartozására, valamint – több érintett kölcsöntartozás esetén melyikre nézve – mekkora összegben vette igénybe,
 
 m) a 2. § (1) bekezdés 2. pont c) alpontja esetén a gyámrendelésről szóló végleges és hatályban lévő gyámhatósági határozat,
 
@@ -84,9 +84,9 @@ q) a három hónapot meghaladó tartózkodás jogát tanúsító, a szabad mozg�
 
 r) a 3. § (5) bekezdése szerinti esetben a gyermekek otthongondozási díja vagy az ápolási díj megállapításáról szóló, a járási vagy fővárosi (kerületi) hivatal által kiállított határozat.
 
-s)[^22] a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (5a) bekezdésben foglaltak teljesüléséről,
+s)[^21] a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (5a) bekezdésben foglaltak teljesüléséről,
 
-t)[^23] otthonfelújítási kölcsön igénybevétele esetén a kölcsönszerződés,
+t)[^22] otthonfelújítási kölcsön igénybevétele esetén a kölcsönszerződés,
 
 (4) Az igénylő az elektronikus úton benyújtott kérelmét és mellékleteit – így különösen a szükséges mellékletek másolatait – saját maga is hitelesítheti.
 
@@ -104,6 +104,6 @@ c) a kormányablak általi átvételének
 
 (7) Amennyiben az a szülő, akinek a nevére a számlát kiállították, a kérelem benyújtását megelőzően elhalálozik, és a számlát a másik szülő csatolja a kérelméhez, ez a tény a számla elfogadhatóságát nem akadályozza.
 
-[^21]: A 9. § (3) bekezdés l) pont lf) alpontját a 183/2021. (IV. 16.) Korm. rendelet 27. § (1) bekezdése iktatta be.
-[^22]: A 9. § (3) bekezdés s) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^23]: A 9. § (3) bekezdés t) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^20]: A 9. § (3) bekezdés l) pont lf) alpontját a 183/2021. (IV. 16.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^21]: A 9. § (3) bekezdés s) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^22]: A 9. § (3) bekezdés t) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (2) bekezdése iktatta be.

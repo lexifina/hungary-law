@@ -18,8 +18,7 @@ c) a felújítással kapcsolatos tervezési, építési, szerelési munkálatok 
 
 (5a)[^17] Napelemes rendszer telepítését vagy cseréjét igazoló számla esetén – a tetősíkba integrált, napenergia- hasznosítást biztosító tetőhéjazat kivételével – az abban feltüntetett anyagköltség és kapcsolódó vállalkozói díj összesítve nem haladhatja meg a bruttó 450 000 Ft/kWp összeget.
 
-(6)[^18]
+(6) Az (5) bekezdésben foglalt feltétel fennállását a Magyar Államkincstár (a továbbiakban: Kincstár) a lakáscélú támogatások kapcsán elszámolt számlák ellenőrzésére szolgáló elektronikus rendszerből történő lekérdezéssel ellenőrzi.
 
 [^16]: A 7. § (5) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
 [^17]: A 7. § (5a) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 7. §-a iktatta be, szövege a 183/2021. (IV. 16.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^18]: A 7. § (6) bekezdése a 15. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
