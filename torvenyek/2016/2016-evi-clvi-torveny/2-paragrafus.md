@@ -13,3 +13,13 @@
 5. egyéb kiemelt turisztikai jelentőségű állami ingatlan, vagyonelem: az állam 100%-os tulajdonában álló, olyan ingatlan vagy vagyonelem, amely turisztikai fejlesztési célú hasznosítása kiemelt jelentőséggel bír, elhelyezkedésénél, jellegénél fogva alkalmas arra, hogy turisztikai fejlesztés helyszíne legyen, vagy annak tárgyát képezze, és ezt jogszabály, szerződés vagy más megállapodás nem zárja ki, azonban kiemelt állami turisztikai beruházással nem érintett;
 
 6. ingatlan: ingatlan, ingatlanrészek, ingatlanalrészlet és ingatlanhányad.
+
+7. turisztikai attrakció: olyan turisztikai céllal hasznosított és működtetett természeti vagy ember alkotta vonzerő, illetve földrajzi terület, amely a látogatók számára élmény-, szabadidős, utazási szolgáltatásokkal, kínálati palettával, vagy szórakoztatási funkcióval rendelkezik;
+
+8. turisztikai attrakció üzemeltetője: a turisztikai attrakció bérlője, tulajdonosa, fenntartója vagy kezelője;
+
+9. turisztikailag kiemelt jelentőségű település: olyan település, ahol legalább egy országos, vagy nemzetközi jelentőségű turisztikai attrakció található, és amely a beutazó turizmus szempontjából kiemelkedő jelentőségű vagy célzott fejlesztések eredményeként azzá tehető;
+
+10. vendéglátó üzlet: a kereskedelmi tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott vendéglátóhely üzlettípusok, ahol a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti vendéglátás tevékenységet folytatnak;
+
+11. vendéglátó üzlet üzemeltetője: a vendéglátó üzlet bérlője vagy tulajdonosa.
