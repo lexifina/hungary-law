@@ -1,4 +1,4 @@
-10. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^79]
+10. melléklet a 86/2019. (IV. 23.) Korm. rendelethez[^83]
 
 Megállapodás az építésügyi igazgatási feladatok átvételéről
 
@@ -128,4 +128,4 @@ A vagyonkezelő a tulajdonosi ellenőrzést köteles tűrni, az ellenőrzés ér
 
 V. EGYÉB RENDELKEZÉSEK
 
-[^79]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 360/2019. (XII. 30.) Korm. rendelet 199. § (8) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^83]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 360/2019. (XII. 30.) Korm. rendelet 199. § (8) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
