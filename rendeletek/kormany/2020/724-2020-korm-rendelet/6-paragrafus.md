@@ -1,23 +1,17 @@
-## 5. §[^5]
-
 ## 6. § A Vhr.
 
-a)[^6]
+a)[^3]
 
-b)[^7]
+b)[^4]
 
-c)[^8]
+c)[^5]
 
-d)[^9]
+d) 4. melléklet X. pontjában az „Eladótéri műanyag zsák, zacskó, műanyag bevásárló reklámtáska, továbbá” szövegrész helyébe a „Műanyag hordtasak és” szöveg,
 
-e)[^10]
+e) 4. melléklet XI. pontjában az „eladótéri műanyag zsák, zacskó, műanyag bevásárló reklámtáska” szövegrész helyébe a „műanyag hordtasak” szöveg,
 
-f)[^11]
+f) 5. melléklet 4. pontjában a „zacskó” szövegrész helyébe a „hordtasak” szöveg
 
-[^5]: Az 5. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^6]: A 6. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 6. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 6. § d) pontja a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^10]: A 6. § e) pontja a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^11]: A 6. § f) pontja a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+[^3]: A 6. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

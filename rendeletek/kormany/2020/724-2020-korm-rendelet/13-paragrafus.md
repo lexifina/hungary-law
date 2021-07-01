@@ -1,17 +1,15 @@
-## 12. §[^17]
+## lép.
 
 ## 13. § Hatályát veszti a Cskr.
 
-a)[^18]
+a) 2. § (5) és (6) bekezdése,
 
-b)[^19]
+b)[^10]
 
-c)[^20]
+c)[^11]
 
-d)[^21]
+d)[^12]
 
-[^17]: A 12. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^18]: A 13. § a) pontja a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
-[^19]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

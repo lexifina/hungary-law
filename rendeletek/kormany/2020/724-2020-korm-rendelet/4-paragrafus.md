@@ -1,3 +1,3 @@
-## 3. §[^3]
+## 3. § A Vhr. a következő 38. §-sal egészül ki:
 
-[^3]: A 3. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+## „38. § A rendelet 1. melléklet A) cím 2. pontja a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i (EU) 2015/720 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”

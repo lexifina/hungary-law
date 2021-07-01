@@ -1,3 +1,1 @@
-## 16. §[^22]
-
-[^22]: A 16. § a 14. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+## 16. § Ez a rendelet a 94/62/EK irányelvnek a könnyű műanyag hordtasakok felhasználásának csökkentése tekintetében történő módosításáról szóló, 2015. április 29-i (EU) 2015/720 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
