@@ -38,6 +38,6 @@ i) közlekedési
 
 rendeltetés helyezhető el.
 
-(6) A történelmi sportterületre vonatkozó településrendezési eszközöket az e törvényben foglalt eltérésekkel kell alkalmazni.
+(6) A történelmi sportterületre vonatkozó településrendezési tervet az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) A beruházással érintett és az erdőtörvény hatálya alá tartozó ingatlanok esetében az erdővédelmi járulék megfizetése alól mentesül az ingatlan mindenkori tulajdonosa, amennyiben az igénybe vett ingatlan esetében annak megfizetésére jogszabály alapján kötelezettsége keletkezik.
