@@ -6,6 +6,6 @@
 
 (4) Ha a bejelentő a bejelentési űrlapot megfelelően töltötte ki, a nyilvántartást vezető szerv nem mérlegelheti a (2) és (3) bekezdésben foglaltak végrehajtását.
 
-(5) A nyilvántartást vezető szerv a 9. § szerinti értesítés megküldésével egyidejűleg a nyilvántartásba vételről értesíti a Központi Statisztikai Hivatalt, a Közreműködő Szervet, valamint a Hatóságot.
+(5) A nyilvántartást vezető szerv a 9. § szerinti értesítés megküldésével egyidejűleg a nyilvántartásba vételről értesíti a Központi Statisztikai Hivatalt, a Közreműködő Szervet, a Hatóságot, valamint a székhelye szerint illetékes területi gazdasági kamarát.
 
 (6) Az egyéni vállalkozói tevékenység a nyilvántartásba vétel napján kezdhető meg.

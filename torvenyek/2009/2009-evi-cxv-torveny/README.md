@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-115-00-00
 | 2020-07-01 | 2019. évi CX. törvény | 2009-115-00-00.21 |
 | 2021-01-01 | 2020. évi CXXIII. törvény | 2009-115-00-00.22 |
 | 2021-06-29 | 2021. évi CI. törvény | 2009-115-00-00.23 |
+| 2021-07-01 | 2020. évi CLXIV. törvény | 2009-115-00-00.24 |

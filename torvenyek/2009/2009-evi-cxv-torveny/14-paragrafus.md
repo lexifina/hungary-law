@@ -4,4 +4,4 @@
 
 (2) Az adatváltozás bejelentésére és nyilvántartásba vételére a 6. és 7. §-t kell alkalmazni azzal, hogy az értesítés az egyéni vállalkozó nyilvántartási számát, a 9. § a) és b) pontjában meghatározott, valamint az adatváltozással érintett adatokat tartalmazza.
 
-(3) A nyilvántartást vezető szerv az (1) és (2) bekezdésben foglalt esetekben a megváltozott adatokról értesíti a Központi Statisztikai Hivatalt, a Közreműködő Szervet, valamint a Hatóságot.
+(3) A nyilvántartást vezető szerv az (1) és (2) bekezdésben foglalt esetekben a megváltozott adatokról értesíti a Központi Statisztikai Hivatalt, a székhely szerint illetékes területi gazdasági kamarát, a Közreműködő Szervet, valamint a Hatóságot.
