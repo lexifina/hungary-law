@@ -1,4 +1,4 @@
-## 26/A. A tanulói edzettség mérésével és a külföldi tanulmányúttal kapcsolatosan kezelt adatok
+## 26/A. A tanulói edzettség mérésével kapcsolatosan kezelt adatok
 
 44/B. § (1) A tanulók fizikai állapotának és edzettségének mérési adatait tartalmazó informatikai alapú diagnosztikus értékelő rendszert, a Nemzeti Egységes Tanulói Fittségi Tesztet (a továbbiakban: NETFIT) a tanulók egészségi állapotának nyomon követése céljából a Magyar Diáksport Szövetség működteti.
 
