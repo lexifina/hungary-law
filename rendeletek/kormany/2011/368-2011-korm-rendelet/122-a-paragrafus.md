@@ -24,11 +24,12 @@ c) a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szer
 
 d) a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti családi pótlékot, gyermekgondozási támogatást és anyasági támogatást, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról 1998. évi XXVI. törvény szerinti fogyatékossági támogatást és vakok személyi járadékát, valamint az egyes bányászati dolgozók társadalombiztosítási kedvezményeiről szóló 23/1991. (II. 9.) Korm. rendelet szerinti keresetkiegészítést,
 
-e) a Nemzeti Foglalkoztatási Alapból finanszírozott álláskeresési és keresetpótló támogatások kiadásait,
+e)[^530] a Gazdaság-újraindítási Foglalkoztatási Alapból finanszírozott álláskeresési, keresetpótló és álláskeresést ösztönző támogatások kiadásait,
 
-f)[^530] a helyi önkormányzatokat a tárgyévet követő évben a nettó finanszírozás keretében megillető, tárgyév december 15-éig megállapított támogatások összegének 4%-át kitevő, és a tárgyév december 20-án fennálló lemondás miatti visszafizetési kötelezettséggel, forgótőke-visszapótlással, valamint jogszabály alapján érvényesített egyéb levonási kötelezettséggel csökkentett összegét.
+f)[^531] a helyi önkormányzatokat a tárgyévet követő évben a nettó finanszírozás keretében megillető, tárgyév december 15-éig megállapított támogatások összegének 4%-át kitevő, és a tárgyév december 20-án fennálló lemondás miatti visszafizetési kötelezettséggel, forgótőke-visszapótlással, valamint jogszabály alapján érvényesített egyéb levonási kötelezettséggel csökkentett összegét.
 
 [^527]: Az Ávr. 122/A. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^528]: Az Ávr. 122/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
 [^529]: Az Ávr. 122/A. § (2) bekezdés nyitó szövegrésze a 425/2016. (XII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^530]: Az Ávr. 122/A. § (2) bekezdés f) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 17. pontja, a 282/2019. (XI. 27.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^530]: Az Ávr. 122/A. § (2) bekezdés e) pontja 356/2021. (VI. 24.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^531]: Az Ávr. 122/A. § (2) bekezdés f) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 17. pontja, a 282/2019. (XI. 27.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
