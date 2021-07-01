@@ -1,0 +1,1 @@
+## „(9) Ha a Cst. 20. § (1) bekezdés b) pontjának és 20. § (2) bekezdésének alkalmazása során a gyermek tankötelezettsége nem abban az évben kezdődik, amely év augusztusának 31. napjáig a hatodik életévét betölti, a jogosult bejelentése alapján a kormányhivatal hivatalból felülvizsgálja az ellátás időtartamát.”
