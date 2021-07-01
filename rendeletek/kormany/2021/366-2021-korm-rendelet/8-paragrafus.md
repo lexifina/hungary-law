@@ -1,0 +1,1 @@
+## 7. § Az e rendelet szerint benyújtott kérelmek esetében a kormányablak a kiállító szerv nevében a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet 48. § (1) bekezdése alapján jár el.
