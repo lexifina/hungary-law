@@ -1,4 +1,4 @@
-## 14b.[^203] Otthonfelújítási kölcsön kamattámogatása
+## 14b.[^204] Otthonfelújítási kölcsön kamattámogatása
 
 51/J. § (1) Ezen alcím alkalmazásában
 
@@ -16,13 +16,13 @@ a) az 518/2020. (XI. 25.) Korm. rendelet 9. § (3) bekezdés c)–g), i) és k) 
 
 b) az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdésében foglalt biztosítotti jogviszony fennállásáról az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal által kiállított igazolást,
 
-c)[^204]
+c)[^205]
 
-d)[^205]
+d)[^206]
 
 e) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/E. §-a alapján megállapított gyermekgondozási díj folyósításának időtartamáról az ellátást megállapító szerv által kiállított igazolást, és
 
-f)[^206] az igénylő büntetőjogi felelőssége tudatában tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatát
+f)[^207] az igénylő büntetőjogi felelőssége tudatában tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatát
 
 fa) – amennyiben a jogosultság megállapítását erre hivatkozással kéri – az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdés b) pont bd) alpontja szerinti tanulmányok folytatásáról,
 
@@ -34,7 +34,7 @@ fc) annak vállalásáról, hogy az otthonfelújítási kölcsön összegét mar
 
 (5) Ha a hitelintézet a benyújtott kérelem és mellékletei alapján azt állapítja meg, hogy az igénylő a kérelem benyújtásának időpontjában a kamattámogatás feltételeinek megfelel, akkor a kamattámogatás igénybevételéről az igénylővel támogatási szerződést köt.
 
-[^203]: A 14b. alcímet (51/J–51/N. §) a 641/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
-[^204]: Az 51/J. § (3) bekezdés c) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
-[^205]: Az 51/J. § (3) bekezdés d) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
-[^206]: Az 51/J. § (3) bekezdés f) pontja a 183/2021. (IV. 16.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^204]: A 14b. alcímet (51/J–51/N. §) a 641/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^205]: Az 51/J. § (3) bekezdés c) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^206]: Az 51/J. § (3) bekezdés d) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^207]: Az 51/J. § (3) bekezdés f) pontja a 183/2021. (IV. 16.) Korm. rendelet 15. §-ával megállapított szöveg.

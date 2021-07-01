@@ -1,6 +1,6 @@
 ## összegét.
 
-19/E. § (1)[^92] A preferált kistelepülésen – a (2) bekezdésben foglalt kivétellel – a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a Tbj. 6. §-a szerint biztosított, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, és legalább egy éve folyamatosan
+19/E. § (1)[^93] A preferált kistelepülésen – a (2) bekezdésben foglalt kivétellel – a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a Tbj. 6. §-a szerint biztosított, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, és legalább egy éve folyamatosan
 
 a) a Tbj. 6. §-a alapján biztosított,
 
@@ -12,7 +12,7 @@ d) a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató szem
 
 ## azzal, hogy az egyéves jogosultsági időszak számítása során a különböző, egymást követő jogosultsági időszakokat össze kell számítani, és a jogosultsági időszakot folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, melynek időtartama a teljesítendő jogosultsági időszakba nem számít bele.
 
-(2)[^93] A 19/D. § (2) bekezdés c) pontja szerinti családi otthonteremtési kedvezmény esetén a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában
+(2)[^94] A 19/D. § (2) bekezdés c) pontja szerinti családi otthonteremtési kedvezmény esetén a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában
 
 a) 30 napnál nem régebbi okirattal igazolja, hogy a Tbj. 6. §-a szerint biztosított, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt –, vagy a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, valamint
 
@@ -52,8 +52,8 @@ b) korszerűsítéséhez felvett lakáscélú hitelintézeti, illetve lakás-tak
 
 (11) A lakás korszerűsítésére e rendeletnek a bővítésre irányadó rendelkezéseit megfelelően alkalmazni kell.
 
-(12)[^94] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
+(12)[^95] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
 
-[^92]: A 19/E. § (1) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^93]: A 19/E. § (2) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^94]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.
+[^93]: A 19/E. § (1) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^94]: A 19/E. § (2) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^95]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 21. §[^103]
+## 21. §[^104]
 
-[^103]: A 21. §-t a 183/2021. (IV. 16.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^104]: A 21. §-t a 183/2021. (IV. 16.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## 50. § A családi otthonteremtési kedvezményt is magába foglaló, lakáscélú állami támogatásokhoz kapcsolódó szakmai informatikai rendszereket – a szakmai irányítást ellátó miniszter utasítása és felügyelete mellett – a Kincstár üzemelteti és fejleszti.
 
-51. §[^194] (1) A 45. § (12) bekezdése szerinti tájékoztató eléréséhez és az ezen alcím szerinti adatszolgáltatás teljesítéséhez a hitelintézet számára az eAdaton történő regisztráció szükséges.
+51. §[^195] (1) A 45. § (12) bekezdése szerinti tájékoztató eléréséhez és az ezen alcím szerinti adatszolgáltatás teljesítéséhez a hitelintézet számára az eAdaton történő regisztráció szükséges.
 
 (2) A hitelintézet az adatszolgáltatását a 47. § szerinti adatszolgáltatás esetén a Kincstár, a 48. § és 49. § szerinti adatszolgáltatás esetén a miniszter kérésére felülvizsgálja, és szükség esetén a javított adatszolgáltatását ismételten megküldi.
 
@@ -16,7 +16,7 @@ b) hibás vagy hiányos teljesítése esetén a hibás vagy hiányos adatszolgá
 
 (5) A (3) bekezdés b) pontja szerinti felfüggesztés nem érinti a hitelintézet adatszolgáltatási hiánnyal nem érintett támogatásra vonatkozó elszámolási jogosultságát.
 
-(6)[^195] Az e rendelet szerinti elszámolást és adatszolgáltatásokat három vagy annál több hitelintézet helyett, megbízási szerződés alapján egy másik hitelintézet (a továbbiakban: összesítő hitelintézet) összesítve is benyújthatja a Kincstár részére.
+(6)[^196] Az e rendelet szerinti elszámolást és adatszolgáltatásokat három vagy annál több hitelintézet helyett, megbízási szerződés alapján egy másik hitelintézet (a továbbiakban: összesítő hitelintézet) összesítve is benyújthatja a Kincstár részére.
 
 (7) Az e rendelet szerinti elszámolásra és adatszolgáltatásra vonatkozó szabályokat az összesítő hitelintézetre is alkalmazni kell azzal, hogy
 
@@ -28,5 +28,5 @@ c) az összesítő hitelintézet felel a hitelintézeti elszámolások és adats
 
 d) az összesítő hitelintézetet az összesített elszámolás és adatszolgáltatás teljesítéséért a hitelintézetek tárgyhavi elszámolásában lehívott a Kincstár által az elszámolás ellenőrzése alapján jóváhagyott támogatási összeg 1,5‰-ének megfelelő összegű költségtérítés illeti meg, melyet az összesített tárgyhavi elszámolásban, külön jogcímen feltüntetve igényelhet a Kincstártól.
 
-[^194]: Az 51. § a 152/2019. (VI. 26.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^195]: Az 51. § (6) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 26. § p) pontja szerint módosított szöveg.
+[^195]: Az 51. § a 152/2019. (VI. 26.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^196]: Az 51. § (6) bekezdése a 686/2020. (XII. 29.) Korm. rendelet 26. § p) pontja szerint módosított szöveg.

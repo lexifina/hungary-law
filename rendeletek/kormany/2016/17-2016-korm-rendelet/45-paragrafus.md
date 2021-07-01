@@ -1,10 +1,10 @@
 ## de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybe vett családi otthonteremtési kedvezmény összegének kétszeresét.
 
-## 13. [^190] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
+## 13. [^191] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
 
 45. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
-(2)[^191] A hitelintézetet az általa jogszerűen folyósított
+(2)[^192] A hitelintézetet az általa jogszerűen folyósított
 
 a) családi otthonteremtési kedvezmény összege után 2% költségtérítés illeti meg, amelyet a családi otthonteremtési kedvezménnyel,
 
@@ -32,5 +32,5 @@ b) 14b. alcím szerinti otthonfelújítási kölcsön összege után 1,5% költs
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^190]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^191]: A 45. § (2) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^191]: A 13. alcím (45–46. §) a 101/2019. (V. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^192]: A 45. § (2) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
