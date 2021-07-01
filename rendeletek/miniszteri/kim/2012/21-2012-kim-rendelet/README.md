@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-21-20-2
 | 2019-04-15 | 2012-21-20-2T.10 | 22/2014. (III. 13.) KIM rendelet |
 | 2020-09-05 | 2012-21-20-2T.11 | 16/2020. (IX. 4.) MvM rendelet |
 | 2021-06-01 | 2012-21-20-2T.12 | 22/2014. (III. 13.) KIM rendelet |
+| 2021-07-01 | 2012-21-20-2T.13 | 22/2014. (III. 13.) KIM rendelet |
