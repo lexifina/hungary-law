@@ -28,6 +28,6 @@ j) a közigazgatási nemperes eljárásban.
 
 (4) Ha az ügy különös bonyolultsága indokolja, az egyesbíró a (3) bekezdés szerinti perben a tárgyalás megkezdése előtt elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(5) A végzés elleni fellebbezést egyesbíró bírálja el.
+(5) A végzés elleni fellebbezést – a keresetlevelet visszautasító és az eljárást megszüntető végzés elleni fellebbezés kivételével – egyesbíró bírálja el. Ha az ügy különös bonyolultsága indokolja, az egyesbíró elrendelheti, hogy az ügyben három hivatásos bíróból álló tanács járjon el. A tanács elé utalt ügyben utóbb egyesbíró nem járhat el.
 
-(6) A Kúria három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.
+(6) A Kúria – az (5) bekezdésben meghatározott kivétellel – három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el. Ha az ügy jellege ezt indokolja, az öt hivatásos bíróból álló tanács legfeljebb két tagja olyan hivatásos bíró lehet, aki közigazgatási ügyben eljáró bírónak nincs kijelölve.

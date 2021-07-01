@@ -2,7 +2,7 @@
 
 (1) Kötelező a jogi képviselet
 
-a) a törvényszék végzése elleni fellebbezési eljárás kivételével a Kúria előtt,
+a) a Kúria előtt,
 
 b) a 13. § (3) bekezdésében meghatározott jogvitában, továbbá
 

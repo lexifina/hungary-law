@@ -6,7 +6,7 @@
 
 ### 115. § [A felülvizsgálat alapja és eljárási szabályai]
 
-(1) A jogerős ítélet, továbbá a keresetlevelet visszautasító vagy az eljárást megszüntető jogerős végzés ellen jogszabálysértésre, illetve a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozással felülvizsgálati kérelmet terjeszthet elő a fél, az érdekelt, valamint a rendelkezés rá vonatkozó része ellen az, akire a határozat rendelkezést tartalmaz.
+(1) A jogerős ítélet ellen jogszabálysértésre, illetve a Kúria közzétett határozatától jogkérdésben való eltérésre hivatkozással felülvizsgálati kérelmet terjeszthet elő a fél, az érdekelt, valamint a rendelkezés rá vonatkozó része ellen az, akire a határozat rendelkezést tartalmaz.
 
 (2) A felülvizsgálatra a fellebbezésre vonatkozó szabályokat az e fejezetben foglalt eltérésekkel kell megfelelően alkalmazni.
 

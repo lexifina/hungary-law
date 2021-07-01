@@ -8,7 +8,7 @@
 
 (4) A bíróság a kérelem teljesítését biztosíték adásához kötheti.
 
-(5) Az azonnali jogvédelem tárgyában hozott végzés ellen a közléstől számított nyolc napon belül van helye fellebbezésnek, amelyről a másodfokú bíróság nyolc napon belül dönt. Az azonnali jogvédelmet biztosító végzés elleni fellebbezésnek nincs halasztó hatálya. A kérelem elutasítását követően ismételten, azonos ténybeli és jogi alapon benyújtott kérelmet megtagadó végzés ellen nincs helye fellebbezésnek.
+(5) Az azonnali jogvédelem tárgyában hozott végzés ellen a közléstől számított nyolc napon belül van helye fellebbezésnek. Az azonnali jogvédelmet biztosító végzés elleni fellebbezésnek nincs halasztó hatálya. A kérelem elutasítását követően ismételten, azonos ténybeli és jogi alapon benyújtott kérelmet megtagadó végzés ellen nincs helye fellebbezésnek.
 
 (6) A bíróság tanácsa az azonnali jogvédelem tárgyában hozott végzését – a felek lehetőség szerinti meghallgatását követően – legkésőbb a végzés elleni fellebbezés felterjesztéséig módosíthatja vagy visszavonhatja.
 
