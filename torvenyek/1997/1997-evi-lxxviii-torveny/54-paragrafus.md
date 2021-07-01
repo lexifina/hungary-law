@@ -6,7 +6,7 @@
 
 ## Az épített környezet fenntartása és használata
 
-54. § (1) Az épített környezet elemeit (a közterületet, az építési telkeket és területeket, építményeket, építményrészeket, építményegyütteseket, burkolt és zöldfelületeket) – a jó műszaki állapot folyamatos fenntartása mellett – csak a jellegük szerinti rendeltetésüknek, a rájuk vonatkozó előírásoknak és hatósági engedélyeknek megfelelő célra és módon szabad használni.
+54. § (1) Az épített környezet elemeit (a közterületet, az építési telkeket, építményeket, építményrészeket, építményegyütteseket, burkolt és zöldfelületeket) – a jó műszaki állapot folyamatos fenntartása mellett – csak a jellegük szerinti rendeltetésüknek, a rájuk vonatkozó előírásoknak és hatósági engedélyeknek megfelelő célra és módon szabad használni.
 
 (2) A tulajdonos köteles az építmény állapotát, állékonyságát a jogszabályokban meghatározott esetekben és módon időszakonként felülvizsgáltatni, és a jó műszaki állapothoz szükséges munkálatokat elvégeztetni.
 

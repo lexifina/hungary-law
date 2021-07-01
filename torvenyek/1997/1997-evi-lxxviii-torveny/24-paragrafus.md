@@ -10,8 +10,8 @@ d) telekhatárrendezés (2. § 25. pont),
 
 e) vasúti telekalakítás (2. § 44. pont)
 
-(2) Új beépítésre szánt, vagy jelentős mértékben átépítésre kerülő (pl. rehabilitációs) területek esetében a területre vonatkozó helyi építési szabályzat elfogadása után a beépíthetőség feltételeként a telkeket az előírásoknak megfelelő építési telekké, telekké kell alakítani az érintett telekcsoport – legalább telektömbönként történő – újraosztásával
+(2) Új beépítésre szánt vagy jelentős mértékben átépítésre kerülő terület esetében a területre vonatkozó helyi építési szabályzat a beépíthetőség feltételeként előírhatja a telkek építési telekké vagy telekké történő alakítását, az érintett telekcsoport – legalább telektömbönként történő – újraosztásával.
 
-(3)
+(3) A szabályozási vonal szerinti telekalakítást legkésőbb a kiszolgáló út megépítésével egyidejűleg kell elvégezni.
 
 (4) A telekalakítás során érintett tulajdoni jogviszonyokban a polgári jog szabályai szerint kell eljárni.

@@ -1,6 +1,6 @@
 ## Elővásárlási jog
 
-25. § (1) A települési önkormányzatot elővásárlási jog illeti meg az építési szabályzatban meghatározott településrendezési célok megvalósítához szükséges ingatlanok esetében.
+25. § (1) A települési önkormányzatot elővásárlási jog illeti meg a helyi építési szabályzatban meghatározott településrendezési célok megvalósításához szükséges ingatlanok esetében.
 
 (2)
 

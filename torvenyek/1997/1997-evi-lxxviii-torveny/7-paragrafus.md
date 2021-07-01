@@ -4,9 +4,15 @@
 
 ## A településfejlesztés és a településrendezés célja és alapvető követelményei
 
-7. § (1) A településfejlesztés és a településrendezés célja a lakosság életminőségének és a település versenyképességének javítása érdekében a fenntartható fejlődést szolgáló településszerkezet és a jó minőségű környezet kialakítása, a közérdek érvényesítése az országos, a térségi, a települési és a jogos magánérdekek összhangjának biztosításával, a természeti, táji és építészeti értékek gyarapítása és védelme, valamint az erőforrások kíméletes és környezetbarát hasznosításának elősegítése.
+7. § (1) A településfejlesztés és a településrendezés célja a lakosság életminőségének és a település versenyképességének javítása érdekében
 
-(2) A településfejlesztés és a településrendezés során biztosítani kell a területek közérdeknek megfelelő felhasználását a jogos magánérdekekre tekintettel. Ennek során figyelembe kell venni
+a) a fenntartható fejlődést szolgáló településszerkezet és a jó minőségű környezet kialakítása,
+
+b) a közérdek érvényesítése az országos, a térségi, a települési érdek és a jogos magánérdekek összhangjának biztosításával,
+
+c) a természeti, táji és építészeti értékek gyarapítása és védelme, az erőforrások kíméletes és környezetbarát hasznosításának elősegítése.
+
+(2) A településfejlesztés és a településrendezés során, valamint a településrendezési sajátos jogintézmények alkalmazásával biztosítani kell a területek közérdeknek megfelelő felhasználását a jogos magánérdekekre tekintettel. Ennek során figyelembe kell venni
 
 a) a népesség demográfiai változását, lakásszükségletét,
 
@@ -44,10 +50,10 @@ p) a zöldfelület-, környezet- és természetkímélő fejlesztések támogat�
 
 a) a településfejlesztés és a településrendezés során a település teljes közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését biztosítani kell, részbeni összegyűjtése és helyben tartása biztosításának az adottságok és a lehetőségek szerinti figyelembevételével,
 
-b) újonnan beépítésre szánt területek kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest, az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint nem csökkenhet,
+b) új beépítésre szánt terület kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest, az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint nem csökkenhet,
 
 c) a települések beépítésre szánt területeinek összességét – ott, ahol az fizikailag lehetséges – beépítésre nem szánt területekből álló gyűrűvel kell körülvenni, a települések összenövésének elkerülése érdekében,
 
-d) a termőföld igénybevételével járó, újonnan beépítésre szánt területek kijelölésénél elsősorban a termőföld védelméről szóló törvényben meghatározott átlagosnál gyengébb minőségű termőföld-területek jelölhetők ki,
+d) a termőföld igénybevételével járó, új beépítésre szánt területek kijelölésénél elsősorban a termőföld védelméről szóló törvényben meghatározott átlagosnál gyengébb minőségű termőföld-területek jelölhetők ki,
 
-e) a települések beépítésre szánt területe csak olyan területfelhasználás céljára növelhető, amilyen célra a település már beépítésre kijelölt területén belül nincs megfelelő terület.
+e) a település beépítésre szánt területe csak olyan használati célra növelhető, amilyen célra a település már beépítésre kijelölt területén belül nincs megfelelő terület, és ezt a települési önkormányzat képviselő-testülete – a fővárosban a Fővárosi Közgyűlés és a kerületi önkormányzat képviselő-testülete – külön döntéssel igazolja.

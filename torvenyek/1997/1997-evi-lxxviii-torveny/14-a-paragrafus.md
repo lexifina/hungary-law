@@ -1,11 +1,9 @@
-14/A. § (1) A fővárosban a településrendezési eszközökre vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
+14/A. § (1) A fővárosban a településrendezési tervre vonatkozó rendelkezéseket az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A főváros településrendezési eszközei
+(2) A főváros településrendezési tervei:
 
-a) a fővárosi településszerkezeti terv,
+a) a fővárosi rendezési szabályzat, amely építési jogot nem keletkeztet,
 
-b) a fővárosi rendezési szabályzat,
+b) a fővárosi önkormányzat által a fővárosi rendezési szabályzattal összhangban készülő Duna-parti építési szabályzat és Városligeti építési szabályzat, és
 
-c) a fővárosi kerületi önkormányzat által a fővárosi településszerkezeti tervvel, a fővárosi rendezési szabályzattal összhangban a kerület területére megállapított kerületi építési szabályzat,
-
-d) a fővárosi önkormányzat által a fővárosi településszerkezeti tervvel, a fővárosi rendezési szabályzattal összhangban a Duna főmedrével közvetlenül határos telkek és a Margitsziget területére megállapított Duna-parti építési szabályzat, valamint a Városliget megújításáról és fejlesztéséről szóló törvény hatálya alá tartozó területre megállapított Városligeti építési szabályzat.
+c) a fővárosi kerületi önkormányzat által a fővárosi rendezési szabályzattal összhangban – a b) pont szerinti szabályzat által szabályozott terület kivételével – a kerület területére megállapított kerületi építési szabályzat.

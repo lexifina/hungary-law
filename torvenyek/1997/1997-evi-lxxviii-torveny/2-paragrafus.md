@@ -4,9 +4,11 @@
 
 1. Akadálymentes: az épített környezet akkor, ha annak kényelmes, biztonságos, önálló használata minden ember számára biztosított, ideértve azokat az egészségkárosodott egyéneket vagy embercsoportokat is, akiknek ehhez speciális eszközökre, illetve műszaki megoldásokra van szükségük.
 
-2. Beépítésre nem szánt terület: a település közigazgatási területének a zöldterületi, a közlekedési, a mezőgazdasági, az erdőművelési, illetve az egyéb célra szolgáló része.
+2. Beépítésre nem szánt terület: a település közigazgatási területének a közlekedési- és közmű-elhelyezési, a hírközlési, a zöldterületi, a mezőgazdasági, az erdő-, a vízgazdálkodási, a természetközeli és különleges célra szolgáló övezetbe sorolt területrésze.
 
-3. Beépítésre szánt terület: a település közigazgatási területének a beépített, illetve a további beépítés céljára szolgáló területrésze.
+3. Beépítésre szánt terület: a település közigazgatási területének a beépített, illetve a további beépítés céljára szolgáló, építési telkek kialakítására alkalmas, építési övezetbe sorolt területrésze.
+
+3a. Új beépítésre szánt terület kijelölése: településrendezési terv készítése vagy módosítása során, valamely övezetnek vagy teleknek építési övezetbe sorolása.
 
 4. Építtető: a hatósági engedély vagy tudomásulvétel kérelmezője, a 33/A. § szerinti építési tevékenység bejelentője az építési beruházás megvalósításához szükséges hatósági engedélyek jogosultja, illetve az építési-bontási tevékenység megrendelője vagy folytatója.
 
@@ -14,7 +16,7 @@
 
 6. Nyomvonal jellegű építmény: a sajátos építményfajták körében a vasúti pálya, a függő- és szállítószalag-pálya, az út, a vízilétesítmény, a vízellátási vezeték, a csatorna, a szénhidrogén-termelés mezőbeli vezetékei, a kőolaj- és a kőolajtermék-szállító vezeték, a földgázszállító vezeték, a földgáz-célvezeték és a földgáz-elosztóvezeték, a szén-dioxid-szállító vezeték, az egyéb gáz- és gáztermékek vezetéke, a villamosenergia-átviteli és elosztóhálózat, a villamosenergia-termelői, magán- és közvetlen vezeték, a távhővezeték-hálózat, az elektronikus hírközlési építmény.
 
-7. Építési terület: olyan telek vagy telkek csoportja, amely a nyomvonal jellegű építmények elhelyezésére szolgál.
+7. Fejlesztési akcióterület: a település közigazgatási területén belül lehatárolt, a rövid, közép- és hosszú távú fejlesztési célok megvalósítását szolgáló területegység.
 
 8. Építmény: építési tevékenységgel létrehozott, illetve késztermékként az építési helyszínre szállított, – rendeltetésére, szerkezeti megoldására, anyagára, készültségi fokára és kiterjedésére tekintet nélkül – minden olyan helyhez kötött műszaki alkotás, amely a terepszint, a víz vagy az azok alatti talaj, illetve azok feletti légtér megváltoztatásával, beépítésével jön létre (az építmény az épület és műtárgy gyűjtőfogalma).
 
@@ -32,7 +34,7 @@
 
 11. Helyi építési szabályzat: az építés rendjét a helyi sajátosságoknak megfelelően megállapító és biztosító települési (fővárosban a kerületi) önkormányzati rendelet, a Duna-parti építési szabályzat és a Városligeti építési szabályzat.
 
-12. Integrált településfejlesztési stratégia: a településfejlesztési koncepcióban foglalt környezeti, társadalmi és gazdasági célok megvalósítását egyidejűleg szolgáló középtávú fejlesztési program.
+12.
 
 13. Közterület: közhasználatra szolgáló minden olyan állami vagy önkormányzati tulajdonban álló földterület, amelyet az ingatlan-nyilvántartás ekként tart nyilván.
 
@@ -40,9 +42,9 @@
 
 15. Műtárgy: mindazon építmény, ami nem minősül épületnek és épület funkciót jellemzően nem tartalmaz (pl. út, híd, torony, távközlés, műsorszórás műszaki létesítményei, gáz-, folyadék-, ömlesztett anyag tárolására szolgáló és nyomvonalas műszaki alkotások).
 
-16. Önkormányzati (megyei, települési, a fővárosban fővárosi és kerületi, térségi) főépítész: a helyi önkormányzat településrendezési, valamint e törvényben meghatározott egyéb építésügyi feladataival kapcsolatos döntéseit előkészítő személy.
+16. Önkormányzati (települési, a fővárosban fővárosi és kerületi, térségi, megyei) főépítész: a helyi önkormányzat vagy önkormányzati társulás területfejlesztési és területrendezési, településfejlesztési és településrendezési, településkép-védelmi tárgyú döntéseit előkészítő személy.
 
-17. Önkormányzati településfejlesztési döntés: a települési érdekek érvényre juttatása céljából a település fejlődésének alapvető lehetőségeit és irányait meghatározó, a település természeti adottságaira, gazdasági, szociális-egészségügyi és pénzügyi szempontjaira épülő településfejlesztési elhatározás.
+17.
 
 18. Sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, közmű- és energiaellátási, vízellátási és vízgazdálkodási, bányászati tevékenységgel és a bányászati hulladék kezelésével kapcsolatos, atomenergia alkalmazására szolgáló, valamint a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények amelyek létesítésekor – az építményekre, építési tevékenységekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség.
 
@@ -52,7 +54,7 @@
 
 21. Telek: egy helyrajzi számon nyilvántartásba vett földterület.
 
-22. Telekcsoport újraosztása: a szomszédos telkek csoportjának összevonása és egyidejűleg a helyi építési szabályzatban és településrendezési tervben meghatározott rendeltetés céljára szolgáló új telkekként történő felosztása.
+22. Telekcsoport újraosztása: a szomszédos telkek csoportjának összevonása és egyidejűleg a településrendezési tervben meghatározott rendeltetés céljára szolgáló új telkekként történő felosztása.
 
 23. Telekegyesítés: az egymással közvetlenül szomszédos telkek egy telekké történő összevonása.
 
@@ -60,13 +62,13 @@
 
 25. Telekhatárrendezés: az egymással közvetlenül szomszédos telkek közös határvonalának megváltoztatása.
 
-26. Telektömb: a telkek olyan csoportja, amelyet minden oldalról közterület vagy részben más beépítésre nem szánt terület határol.
+26. Telektömb: a telkek olyan csoportja legalább hat telekkel, amelyet minden oldalról közterület, magánút vagy más beépítésre nem szánt terület határol.
 
-27. Településfejlesztési koncepció: a település környezeti, társadalmi, gazdasági adottságaira alapozó, a település egészére készített, a változások irányait és a fejlesztési célokat hosszú távra meghatározó dokumentum.
+27.
 
-28.
+28. Településrendezési illeszkedés követelménye: helyi építési szabályzat hiányában alkalmazott, a telek alakítására, a beépítés mértékére, magasságára, módjára, helyére, valamint a rendeltetési egységek számára és rendeltetés módjára vonatkozó, az önkormányzat által egy adott területre meghatározott, az országos településrendezési és építési követelményekkel összhangban álló, vagy indokolt esetben annál megengedőbb településrendezési és építési követelmény, amely telekalakítás, új építmény építése, az építmény térfogatát megváltoztató építési tevékenység, épületben rendeltetési egység számának vagy a rendeltetés módjának változtatása esetén biztosítja a települési környezetbe való harmonikus beillesztést és az érintett telken a környezetével azonos értékű építési jogok és kötelezettségek érvényesülését; ha a helyi építési szabályzat az e törvényben vagy a végrehajtására kiadott kormányrendeletben meghatározott kötelező tartalmi elemek közül egyeseket nem tartalmaz, az illeszkedés követelményét ezen hiányzó szabályozási elemekre kell alkalmazni.
 
-29. Településszerkezeti terv: a településfejlesztési koncepcióban foglalt célok megvalósítását biztosító, a település szerkezetét, a területfelhasználást és a műszaki infrastruktúra-hálózatok elrendezését meghatározó terv.
+29. Településterv: a településfejlesztési terv és a településrendezési terv együttes megnevezése.
 
 30. Építési beruházás: az építési tevékenység megvalósításával összefüggésben végzett gazdasági, és építésügyi tevékenységek összessége.
 
@@ -78,11 +80,11 @@
 
 34. Helyi építészeti értékvédelem: a helyi építészeti örökség értékeinek feltárása, számbavétele, védetté nyilvánítása, fenntartása és védelmének biztosítása.
 
-35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos településrendezési és építési követelményeknek, valamint a főváros településszerkezeti tervének megfelelően a területfelhasználási egységek beépítési sűrűségét, meghatározott területek beépítési magasságát, a fővárosi infrastruktúra területbiztosítását megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.
+35. Fővárosi rendezési szabályzat: a fővárosban a településrendezés és az építés összehangolt rendjének biztosítása érdekében az országos településrendezési és építési követelményeknek megfelelően a beépítésre szánt és a beépítésre nem szánt területek használatának általános jellegét, a kormányrendeletben meghatározott egyes településrendezési követelményeket, a fővárosi infrastruktúra területbiztosítását megállapító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket nem tartalmaz.
 
 36. Építési tevékenység: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka végzése.
 
-37. Fővárosi településrendezési terv: a fővárosi településszerkezeti terv.
+37. Fővárosi településfejlesztési terv: a Fővárosi Közgyűlés által határozattal elfogadott olyan terv, amely meghatározza a főváros jövőképét, javaslatot tesz a főváros egészét vagy több kerületet érintő környezeti, társadalmi, gazdasági és infrastruktúra-fejlesztésre, a műszaki, az intézményi, valamint a táji, természeti és ökológiai adottságok fenntartható hasznosítására, a fővárosnak az országban betöltött különleges szerepköréhez kapcsolódó fejlesztési célokra, a településfejlesztési szándékokra és a fejlődés kimeneteli adataira.
 
 38. Duna-parti építési szabályzat: a Duna főmedrével közvetlenül határos telkek és a Margitsziget területének építési rendjét és rendeltetését a helyi sajátosságoknak megfelelően megállapító és biztosító fővárosi önkormányzati rendelet, amely telekalakítási és építésjogi szabályozási elemeket tartalmaz.
 
@@ -117,3 +119,7 @@ f) az 55/A. § (3) bekezdése alapján megillető felhasználási jogok vagy vag
 46. Azonnali rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amelyen a megvalósítani kívánt építési beruházások megindításához szükséges előkészítő munkák elvégzése nem szükséges, illetve azok folyamatban vannak vagy rövid időn belül elvégezhetőek, és amely tekintetében engedélyezett vagy előkészítés alatt álló építési beruházás megvalósítását tervezik a tulajdonosok, építtetők, és a kapcsolódó kedvezmények bevezetése gyors építkezéskezdést eredményezhet.
 
 47. Közép- és hosszú távú rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amely tekintetében összetett előkészítő munkák, adott esetben környezeti kármentesítés, bontás, közműrendezés és infrastruktúra-fejlesztés, tulajdonrendezés, telekalakítás és településrendezési feladatok elvégzése szükséges, és amely fejlesztési célú területként való rendelkezésre állása kormányzati koordinációt, jelentős anyagi ráfordítást és többéves előkészítő időszakot igényel.
+
+48. Települési zöldinfrastruktúra: jellemzően zöld- vagy vízfelülettel borított területek széles körű ökoszisztéma-szolgáltatásokat nyújtó, stratégiailag tervezett hálózata, amely a településtervben kerül meghatározásra, és az életminőség javítását, az egészség-, a környezet-, a természet- és a tájvédelem biztosítását szolgálja.
+
+49. Fejlesztési céladat: a rövid, közép- és hosszú távú fejlesztési célhoz és feladathoz rendelt, a fejlesztési cél eredményét jelző mérhető adat, amely eléréséért a fejlesztési cél és feladat meghatározásra került.

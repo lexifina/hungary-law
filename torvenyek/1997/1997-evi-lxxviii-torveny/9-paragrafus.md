@@ -1,3 +1,3 @@
 ## A településfejlesztés feladata
 
-9. § A településfejlesztés feladata a településen élők számára a települési élet- és környezetminőség javítása, a környezetbiztonság erősítése, a települési erőforrásokra építő, az erőforrások fenntarthatóságát biztosító, hosszú és rövid távú fejlesztési irányok, célok és az azok elérését biztosító programok és eszközök meghatározása.
+9. § A településfejlesztés feladata a településen élők számára a települési élet- és környezetminőség javítása, a környezetbiztonság erősítése, a települési erőforrásokra építő, az erőforrások fenntarthatóságát biztosító jövőkép, ezzel összhangban a rövid, közép- és hosszú távú fejlesztési irányok, célok és az azok elérését biztosító beavatkozások, programok és eszközök – fejlesztési akcióterületükkel együtt történő – meghatározása, az országos és térségi érdek, valamint a szomszédos és a más módon érdekelt többi település településtervének figyelembevételével.

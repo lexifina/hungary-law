@@ -1,39 +1,27 @@
 ## A helyi építési szabályzat
 
-13. § (1) Az építés helyi rendjének biztosítása érdekében a települési önkormányzatnak az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi építési szabályzatban kell megállapítania.
+13. § (1) Az építés helyi rendjének biztosítása érdekében a települési önkormányzat az országos szabályoknak megfelelően, illetve az azokban megengedett eltérésekkel a település közigazgatási területének felhasználásával és beépítésével, továbbá a környezet természeti, táji és épített értékeinek védelmével kapcsolatos, a telkekhez fűződő sajátos helyi követelményeket, jogokat és kötelezettségeket helyi építési szabályzatban állapítja meg.
 
-(2) A 33/A. § (1) bekezdésében meghatározott építési tevékenység esetén a helyi építési szabályzatban meghatározott
+(2) Valamennyi település helyi építési szabályzatának tartalmaznia kell legalább a következőket (a továbbiakban: minimális tartalmi követelmény):
 
-a) övezet, építési övezet területi lehatárolását;
+a) az építési övezet és az övezet, valamint érintettség esetén a szabályozási vonal ingatlan-nyilvántartási alaptérképen alapuló térképi megjelenítését;
 
-b) övezetre, építési övezetre vonatkozóan
+b) az építési övezetre és az övezetre az építési helyet, a megengedett legnagyobb beépítettséget, a megengedett legnagyobb beépítési magasságot, a legkisebb zöldfelületi mértéket, a közműellátás és járműelhelyezés követelményeit, valamint az elhelyezhető és tiltott rendeltetéseket;
 
-ba) a védelemmel és korlátozásokkal érintett területeken a szennyvízelvezetés vagy tisztítás szabályait közegészségügyi szempont szerint,
+c) a telekalakítás szabályait;
 
-bb) a megengedett legnagyobb beépítettséget,
+d) érintettség esetén az országos és helyi építészeti örökségvédelemmel, régészettel, környezet- és természetvédelemmel, valamint honvédelemmel kapcsolatos rendelkezést, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre, valamint a honvédelmi és katonai célú területekre vonatkozó védőterületet és védőtávolságot.
 
-bc) a telken, az építési telken elhelyezhető épület, valamint az önálló rendeltetési egység számát és a megengedett vagy kizárt rendeltetését,
+(3) A Kormány rendeletében egyes települések és a fővárosi kerületek vonatkozásában a (2) bekezdésben foglaltakon túlmenően további kötelező tartalmi követelményeket is megállapíthat.
 
-bd) a megengedett legnagyobb beépítési magasságot vagy építménymagasságot,
+(4) A helyi építési szabályzatban megállapított követelmények – ideértve az (2) bekezdés szerinti minimális tartalmi követelményeket is – nem lehetnek megengedőbbek az országos településrendezési és építési követelményekről szóló kormányrendeletben, valamint a 4. § (3a) és a 6. § (3) bekezdése szerinti kormányrendeletben foglaltaknál, kivéve, ha azt kormányrendelet kifejezetten megengedi.
 
-be) a szabályozási vonalat,
+(5) A 33/A. § (1) bekezdése szerinti építési tevékenység esetén a helyi építési szabályzatban meghatározott (2) és (3) bekezdés szerinti minimális tartalmi követelményeket és a rendeltetési egységek számát figyelembe kell venni.
 
-bf) a beépítési módot, az építési helyet
+(6) A polgármester (főpolgármester) – a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjteményben való közzététellel egyidejűleg – a helyi építési szabályzat, illetve módosítása esetén a módosításokkal egységes szerkezetbe foglalt helyi építési szabályzat E-TÉR-be történő feltöltését kezdeményezi a 8. § (4) bekezdés d) pontjában meghatározott módon.
 
-bg) a minimális zöldfelület mértékét,
+(7) Egy településre – ide nem értve a megyei jogú városokat, a fővárost és a fővárosi kerületeket – csak egy helyi építési szabályzat készülhet a 10. § (2) bekezdésének figyelembevételével.
 
-bh) a járművek mennyiségére és elhelyezésére vonatkozó előírásokat;
+(8) A helyi építési szabályzatban – különösen a helyi építési szabályzat (2) bekezdés a) pontja szerinti térképi megjelenítése során – megjeleníthető olyan tény vagy adat, amely a helyi építési szabályzat (1) bekezdés szerinti tartalmának értelmezését elősegíti.
 
-c) országos vagy helyi építészeti örökségvédelemmel, – településképi rendelet hiányában – a településképi védelemmel, országos régészeti-, táj- és természetvédelemmel kapcsolatos rendelkezéseket, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre vonatkozó követelményeket, védőterületet, védőtávolságot
-
-kell figyelembe venni.
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
+(9) Ha a helyi építési szabályzatban a (8) bekezdés szerinti tény vagy adat szerepel, egyértelműen meg kell határozni az ilyen adatok vagy tények körét. A helyi építési szabályzatban a (8) bekezdés szerinti tény vagy adat szerepeltetése – a (8) bekezdésben meghatározottakon túl – további joghatás kiváltására alkalmas normatív jelleggel nem rendelkezik.

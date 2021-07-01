@@ -72,7 +72,7 @@
 
 12.5. az e tevékenységek ellátásához szükséges nyilvántartások létesítésének és működésének sajátos szabályait,
 
-12.6. a 6. § (3) bekezdése szerinti területfelhasználásra és a beépítésre vonatkozó sajátos feltételeket,
+12.6. a 6. § (3) bekezdése szerinti építési övezetre, építési telekre a beépítésre vonatkozó sajátos feltételeket,
 
 12.7. a tömeges bevándorlás okozta válsághelyzetben alkalmazható építésügyi hatósági eljárási szabályokat,
 
@@ -122,9 +122,9 @@
 
 21.5. teljesítéséhez kapcsolódó díjfizetési kötelezettség nem teljesítése tárgyában hozott marasztaló jogerős bírósági ítéletről szóló értesítést vagy a nemfizetési jelzést követően lefolytatandó vizsgálat és jogkövetkezmények megállapításának részletes szabályait
 
-22. a településfejlesztési koncepció és az integrált településfejlesztési stratégia tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
+22. a településfejlesztési terv tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
 
-23. a településszerkezeti terv és a helyi építési szabályzat tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
+23. a településrendezési terv tartalmára, elkészítésére, alátámasztására – ideértve a biológiai aktivitásérték számítását is – és elfogadására vonatkozó részletes szabályokat,
 
 24. a közterület-alakításra, valamint a településrendezési kötelezettségek teljesítésére vonatkozó részletes szabályokat, továbbá a telepítési tanulmányterv és a beépítési terv előkészítésére és tartalmára vonatkozó szabályokat,
 
@@ -147,6 +147,12 @@
 33.
 
 34. a telekalakítás és építési tilalom elrendelése, továbbá a telekalakítás és cseretelek-adás részletes szabályait
+
+35. az útépítési és közművesítési hozzájárulás alkalmazására vonatkozó részletes szabályokat,
+
+36. a településrendezési illeszkedés követelménye alkalmazásának részletes szabályait, az illeszkedés egyedi tartalmát és területi hatályának megállapítására kijelölt közigazgatási szervet,
+
+37. az E-TÉR létrehozásáról és működtetéséről, az E-TÉR működését elősegítő elektronikus alkalmazásokról, az államigazgatási szervek és költségvetési szervek Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság részére történő személyes adatokat nem érintő adatszolgáltatásáról, az adatok továbbításáról és a véleményezésről, az E-TÉR-be történő regisztrációról, az E-TÉR adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, valamint az E-TÉR működése finanszírozásának pénzügyi rendjéről szóló szabályokat
 
 rendelettel állapítsa meg.
 
@@ -184,7 +190,7 @@ c) az 54. § (5g) bekezdése szerinti eljárási szabályokat és az eljáró ha
 
 1.
 
-2. a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
+2.
 
 3. az igazgatási eljárásokban alkalmazandó telekár számításának szabályait
 
@@ -220,11 +226,15 @@ rendelettel állapítsa meg.
 
 (6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) arra, hogy rendeletben állapítsa meg
 
-1–3.
+1.
+
+2.
+
+3.
 
 4. a helyi építészeti-műszaki tervtanács létrehozásáról, működési feltételeiről, eljárási szabályainak megállapításáról szóló szabályokat,
 
-5.
+5. a településre elrendelt építési tilalmat, valamint változtatási tilalmat,
 
 6. a helyi építési szabályzatát,
 
@@ -242,7 +252,7 @@ rendelettel állapítsa meg.
 
 szóló szabályokat,
 
-2.
+2. a fővárosi tulajdonban lévő közterületek közterület-alakítási tervét,
 
 3. a fővárosi rendezési szabályzatát,
 

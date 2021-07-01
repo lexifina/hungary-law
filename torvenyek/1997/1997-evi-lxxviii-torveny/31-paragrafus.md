@@ -16,7 +16,7 @@ d) a közhasználatú építmények esetében a mindenki számára biztonságos 
 
 e) a rendeltetésszerű telekhasználatot.
 
-(2) Az építmények és azok részeinek építése, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése során érvényre kell juttatni az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott alapvető követelményeket.
+(2) Az építmények és azok részeinek építése, bővítése, felújítása, átalakítása, helyreállítása, korszerűsítése során – az (1) bekezdésben foglaltak figyelembe vételével – érvényre kell juttatni az országos településrendezési és építési követelményekről szóló kormányrendeletben meghatározott alapvető követelményeket.
 
 (3) Az országos építési szakmai követelményektől – külön jogszabályban meghatározott esetekben és módon – lehet eltérni.
 

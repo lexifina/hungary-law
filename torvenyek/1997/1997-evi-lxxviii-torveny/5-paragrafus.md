@@ -10,7 +10,7 @@ bb) ellátja az építésügyi és az építésfelügyeleti hatóságok, valamin
 
 c) elősegíti – a kulturális örökség védelméért felelős miniszter, valamint a természetvédelemért felelős miniszter bevonásával – az építészeti kultúra megőrzését, fejlesztését és védelmét, ennek keretében országos kutatási, műszaki fejlesztési, valamint oktatási-nevelési programokat dolgoztat ki és működtet,
 
-d) elősegíti – a természetvédelméért felelős miniszter bevonásával – a települési zöldfelületek megőrzését, fejlesztését és védelmét,
+d) elősegíti – a természetvédelemért, valamint az erdőgazdálkodásért felelős miniszter bevonásával – a települési zöldinfrastruktúra megőrzését, fejlesztését és védelmét,
 
 e) a sajátos építményfajtákért felelős miniszterek és az önálló szabályozó szervek, valamint az építésügy területén érintett szakmai kamarák és az érintett felsőfokú oktatási és szakképzéssel foglalkozó intézmények javaslata alapján koordinálja, összefogja és irányítja az építésüggyel kapcsolatos szakmák gyakorlására vonatkozó szabályozás kialakítását,
 
@@ -40,12 +40,10 @@ e) ellátja az építési termékkel kapcsolatos feladatokat.
 
 (5) A tervtanácsok feladata különösen
 
-a) településrendezési eszköz hiánya vagy hiányos szabályozása esetén az illeszkedési szabályok érvényesülésének elősegítése, továbbá
+a) a településrendezési terv előírásainak – ennek hiányában az illeszkedési szabályoknak –, valamint az országos településrendezési és építési követelményeknek érvényesítése,
 
-b) a települési környezet, a táj- és településkép,
+b) az önkormányzat településkép-védelmi feladatainak előkészítése és munkájának segítése,
 
-c) a beépítési-, vagy az építészeti jellegzetesség és látvány, a helyi jelleg, illetve
+c) a településkép és a települési környezet védelme,
 
-d) az építészeti örökség és az építészeti értékek (építészeti minőség) külön jogszabály szerinti védelme.
-
-e)
+d) az építészeti örökség és az építészeti értékek, az építészeti minőség és a táji jellegzetességek védelme.
