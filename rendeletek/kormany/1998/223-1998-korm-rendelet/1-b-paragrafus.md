@@ -16,12 +16,13 @@ jár el.
 
 (3)[^28] A Cst. 22. §-a szerinti méltányossági ügyekben a kérelmet benyújtó személy lakcíme szerint illetékes kormányhivatal vezetője jár el.
 
-(4) A gyermeknevelési támogatás megállapítására irányuló, valamint a gyermekgondozást segítő ellátás nagyszülő részére történő megállapítására irányuló eljárásban családtámogatási kifizetőhely nem járhat el.
+(4)[^29] A családtámogatási kifizetőhely jár el az általa foglalkoztatott, a Cst. 2. § a) pont aa) alpontja szerinti személy családtámogatási ellátás megállapítása iránti kérelme ügyében a gyermeknevelési támogatás és a gyermekgondozást segítő ellátás nagyszülő részére történő megállapítására irányuló eljárás kivételével.
 
-(5)[^29] A Cst. 2. § c) pontja szerinti személy esetén az anyasági támogatással kapcsolatos eljárásban a Központ jár el.
+(5)[^30] A Cst. 2. § c) pontja szerinti személy esetén az anyasági támogatással kapcsolatos eljárásban a Központ jár el.
 
 [^25]: Az 1/B. §-t a 379/2016. (XII. 2.) Korm. rendelet 33. § (3) bekezdése iktatta be.
 [^26]: Az 1/B. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^27]: Az 1/B. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^28]: Az 1/B. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^29]: Az 1/B. § (5) bekezdését a 405/2017. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^29]: Az 1/B. § (4) bekezdése a 376/2021. (VI. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^30]: Az 1/B. § (5) bekezdését a 405/2017. (XII. 15.) Korm. rendelet 1. §-a iktatta be.

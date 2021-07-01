@@ -28,6 +28,6 @@
 
 |  | ..................................................... intézmény |
 
-13. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^275]
+13. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^279]
 
-[^275]: A 13. mellékletet a 171/2017. (VI. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezet a 360/2019. (XII. 30.) Korm. rendelet 16. § (9) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^279]: A 13. mellékletet a 171/2017. (VI. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezet a 360/2019. (XII. 30.) Korm. rendelet 16. § (9) bekezdés d) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
