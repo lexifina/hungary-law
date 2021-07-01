@@ -22,4 +22,4 @@ g) az alapítvány tevékenységéről szóló rövid tartalmi beszámolót.
 
 (5) Az alapítvány köteles az (1) bekezdésben meghatározott jelentését a tárgyévet követő évben, legkésőbb június 30-áig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben, továbbá saját honlapján közzétenni.
 
-(6) A (3) bekezdés a) pontjában foglalt rendelkezés az éves beszámoló készítésének kötelezettségére, letétbe helyezésére és közzétételére vonatkozó számviteli szabályok alkalmazását nem érinti.
+(6) Az (1) bekezdés szerinti jelentéstételi kötelezettség teljesítése mellett az alapítványt a számviteli szabályok megfelelő alkalmazásának kötelezettsége terheli. Az alapítványra az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 11. alcíme szerinti beszámolási szabályokat megfelelően alkalmazni kell.

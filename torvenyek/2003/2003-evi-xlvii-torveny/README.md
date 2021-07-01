@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-47-00-00
 | 2012-01-01 | 2011. évi CLXXXI. törvény | 2003-47-00-00.5 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2003-47-00-00.6 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2003-47-00-00.7 |
+| 2021-07-01 | 2021. évi LXXV. törvény | 2003-47-00-00.8 |
