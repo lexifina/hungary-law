@@ -107,3 +107,5 @@ kell érteni.
 (6) Az ajánlatkérő az eljárást megindító felhívásban köteles hivatkozni az (1) és (2) bekezdésben foglalt kizáró okokra.
 
 (7) Az ajánlatkérő – az érintett ajánlattevő, részvételre jelentkező, alvállalkozó, alkalmasság igazolásában részt vevő szervezet nevének és címének (székhelyének, lakóhelyének) az eljárás tárgyának és azonosítójának, valamint a kizárás és a kizárt gazdasági szereplő erről való tudomásszerzése időpontjának megjelölésével, valamint a kizárásra okot adó cselekmény és az eset lényeges körülményeinek leírásával – köteles tájékoztatni a Közbeszerzési Hatóságot az (1) bekezdés i) és j) pontja szerinti kizárásról és a kizárás időpontjáról.
+
+(8) A Gazdasági Versenyhivatal az EKR-ben közzéteszi az (1) bekezdés n) pontja szerinti – a Gazdasági Versenyhivatal vagy a Gazdasági Versenyhivatal döntésével szemben indított közigazgatási perben a bíróság által hozott – a kizáró okot megalapozó határozatokra vonatkozó, a kizáró ok hiányának ellenőrzését szolgáló információkat.

@@ -4,13 +4,13 @@
 
 (2) A Hatóság
 
-a) naprakészen vezeti és a honlapján közzéteszi
+a) naprakészen vezeti és az EKR-ben közzéteszi
 
 aa) a minősített ajánlattevők Hatóság által létrehozott hivatalos jegyzékét,
 
 ab) – a gazdasági szereplő megbízhatóságának mérlegelése nélkül – a 62. § (1) bekezdés i) és j) pontja szerinti kizárás megalapozására alkalmas ajánlatkérői döntések tényét, leírását és lényeges körülményeinek összefoglalását, és a 62. § (1) bekezdés i) és j) pontja szerinti kizárást megalapozó döntőbizottsági és bírósági határozatok számát, a határozat elektronikus elérhetőségét (amennyiben elérhető) és a határozathozatal napját,
 
-ac) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak a honlapon a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
+ac) a gazdasági szereplők közbeszerzési eljárás alapján vállalt szerződéses kötelezettségének jogerős bírósági határozatban megállapított vagy a gazdasági szereplő által nem vitatott súlyos megszegése esetén a szerződésszegés tényét, leírását, lényeges jellemzőit – beleértve azt is, ha a szerződésszegés a szerződés felmondásához vagy a szerződéstől való elálláshoz, kártérítés követeléséhez vagy a szerződés alapján alkalmazható egyéb szankció érvényesítéséhez vezetett, valamint ha a nyertes ajánlattevőként szerződő fél olyan magatartásával, amelyért felelős, részben vagy egészben a szerződés lehetetlenülését okozta – azzal, hogy az adatoknak az EKR-ben a szerződésszegéstől vagy a bírósági határozat jogerőre emelkedésétől számított három évig kell elérhetőnek lenniük;
 
 ad) a kizáró ok hatálya alatt álló gazdasági szereplő megbízhatóságát megállapító határozatokat [188. § (4) bekezdés],
 
@@ -63,6 +63,8 @@ w) naprakészen vezeti az EKR-ben a törvény hatálya alá tartozó ajánlatké
 x) kizárólagos joggal ellátja a CoRe üzemeltetését.
 
 (2a) A (2) bekezdés u) pontjában foglalt feladatok ellátásához a védett munkahelyek kötelesek ezen minőségükről – valamint az adataikban történt változásokról – haladéktalanul tájékoztatni a Hatóságot az általuk gyártott vagy forgalmazott termékek, valamint a részükről nyújtott szolgáltatások megjelölésével együtt.
+
+(2b) A (2) bekezdés a) pontjában foglalt feladatok ellátása tekintetében kizárólag a Hatóság jogosult az EKR-be feltöltött adatok vonatkozásában módosítást végrehajtani. Az e bekezdésben, a (2) bekezdés a) pontjában, valamint a 43. § (1a) bekezdésében foglaltak teljesítéséhez kapcsolódóan az EKR megfelelő működéséért az EKR üzemeltetője felelős.
 
 (3) A Hatóság elnöke, illetve a közbeszerzési biztos megkeresésére a közbeszerzéssel kapcsolatos ügyben minden szervezet – ideértve a szakmai kamarákat és az érdekképviseleti szervezeteket is – köteles tíz napon belül tájékoztatást adni, és az EKR-ben rendelkezésre álló adatok hozzáférhetőségét biztosítani.
 

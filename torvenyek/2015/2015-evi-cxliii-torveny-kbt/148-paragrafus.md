@@ -26,7 +26,7 @@ da) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határid�
 
 db) ha az ajánlatkérő a jogsértéssel kapcsolatban álláspontját határidőben nem küldte meg, ezen jogsértés tekintetében az ajánlatkérői álláspont megküldésére vonatkozó határidő lejártának napját;
 
-e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [43. § (1) bekezdés c) pont] a CoRe-ban történő közzétételétől számított harmincadik napot.
+e) a közbeszerzési eljárás alapján megkötött szerződés e törvénybe ütköző módosítása vagy teljesítése esetében a szerződés módosításáról szóló tájékoztatót tartalmazó hirdetmény közzétételétől, vagy a teljesítésre vonatkozó adatok [43. § (1) bekezdés c) pont] az EKR-en keresztül a Core-ban történő közzétételétől számított harmincadik napot.
 
 (7a) Ha egy adott jogsértés kapcsán a (7) bekezdés c) pontja szerinti iratbetekintést követően a (7) bekezdés d) pontja szerinti előzetes vitarendezés kezdeményezésére is sor került, a tudomásra jutás időpontjának meghatározására a (7) bekezdés d) pontja alkalmazandó.
 
