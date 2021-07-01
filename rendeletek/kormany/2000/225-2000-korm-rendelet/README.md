@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-225-20-
 | 2017-01-01 | 2000-225-20-22.11 | 342/2011. (XII. 29.) Korm. rendelet |
 | 2017-12-28 | 2000-225-20-22.12 | 445/2017. (XII. 27.) Korm. rendelet |
 | 2020-12-22 | 2000-225-20-22.13 | 616/2020. (XII. 21.) Korm. rendelet |
+| 2021-07-01 | 2000-225-20-22.14 | 324/2011. (XII. 28.) Korm. rendelet |
