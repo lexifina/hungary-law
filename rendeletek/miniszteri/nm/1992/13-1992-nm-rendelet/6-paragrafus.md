@@ -1,4 +1,4 @@
-## 6. §[^19]
+## 6. §[^20]
 
 (1) A közúti járművezető az 5. § (1)–(4) bekezdésében meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatnak köteles magát alávetni, ha
 
@@ -16,4 +16,4 @@ c) súlyos hipoglikémia fordult elő, vagy
 
 d) egészségi állapotában olyan állapotromlást észlel, amely a közúti járművezetésre átmenetileg vagy véglegesen egészségi szempontból alkalmatlanná teheti, illetve azt befolyásolhatja.
 
-[^19]: A 6. § a 44/2016. (XII. 28.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^20]: A 6. § a 44/2016. (XII. 28.) EMMI rendelet 1. §-ával megállapított szöveg.

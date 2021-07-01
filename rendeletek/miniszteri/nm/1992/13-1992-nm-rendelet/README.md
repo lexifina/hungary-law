@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-13-20-3
 | 2018-01-13 | 1992-13-20-3D.13 | 1/2018. (I. 12.) EMMI rendelet |
 | 2021-02-13 | 1992-13-20-3D.14 | 7/2021. (II. 12.) EMMI rendelet |
 | 2021-02-20 | 1992-13-20-3D.15 | 8/2021. (II. 19.) EMMI rendelet |
+| 2021-07-01 | 1992-13-20-3D.16 | 8/2021. (II. 19.) EMMI rendelet |
