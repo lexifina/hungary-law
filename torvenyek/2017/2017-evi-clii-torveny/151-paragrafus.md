@@ -13,3 +13,5 @@ c) a kibocsátó hitelintézet kötelezettséget vállal arra, hogy az azon felt
 (3) Ha a hitelintézet és a vámhatóság között kötött megállapodás szerint a hitelintézet az ügyfél által a nála visszavonhatatlanul befizetett összegről elektronikus úton értesíti a vámhatóságot, a közölt vámot és egyéb terheket biztosítottnak kell tekinteni, és az áru átengedhető.
 
 (4) Az Azonnali Fizetési Rendszeren keresztül történő befizetések esetén közölt vámot és egyéb terheket a Magyar Államkincstár által küldött előzetes értesítés alapján biztosítottnak kell tekinteni és az áru átengedhető.
+
+(5) Ha az ügyfél a 66. § (1a) bekezdés szerinti szabad forgalomba bocsátás vámeljárás során közölt egyéb terheket az elektronikus fizetéseket és elszámolásokat biztosító alrendszeren keresztül, internetes felületen (VPOS) történő bankkártyás fizetéssel egyenlíti ki és a hitelintézet a fizetés sikeres teljesítését a vámhatóságnak visszaigazolja, akkor az egyéb terheket biztosítottnak kell tekinteni és az áru átengedhető.
