@@ -1,14 +1,14 @@
-2. §[^3] (1)[^4] A felszámolók névjegyzékébe – nyilvános pályázat alapján – a Cstv. 27/C. §-ában és az e rendeletben foglalt feltételeknek megfelelő
+2. §[^4] (1)[^5] A felszámolók névjegyzékébe – nyilvános pályázat alapján – a Cstv. 27/C. §-ában és az e rendeletben foglalt feltételeknek megfelelő
 
 a) magyarországi székhelyű korlátolt felelősségű társaság vagy zártkörűen működő részvénytársaság, vagy
 
-b)[^5] az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező, a székhelye szerinti államban – a fizetésképtelenségi eljárásokról szóló 1346/2000/EK tanácsi rendelet szerinti eljárásokban vagy a fizetésképtelenségi eljárásról szóló (EU) 2015/848 európai parlamenti és tanácsi rendelet szerinti eljárásokban – fizetésképtelenségi szakértői tevékenység végzésére jogosult vállalkozás magyarországi fióktelepe
+b)[^6] az Európai Gazdasági Térségről szóló megállapodásban részes más államban székhellyel rendelkező, a székhelye szerinti államban – a fizetésképtelenségi eljárásokról szóló 1346/2000/EK tanácsi rendelet szerinti eljárásokban vagy a fizetésképtelenségi eljárásról szóló (EU) 2015/848 európai parlamenti és tanácsi rendelet szerinti eljárásokban – fizetésképtelenségi szakértői tevékenység végzésére jogosult vállalkozás magyarországi fióktelepe
 
 vehető fel.
 
-(2)[^6] A Cstv. 27/C. § (2) bekezdés a) pontjában foglaltakról az állami adóhatóságtól beszerezhető adóigazolás helyett arról is lehet nyilatkozni, hogy a gazdasági társaság szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban.
+(2)[^7] A Cstv. 27/C. § (2) bekezdés a) pontjában foglaltakról az állami adóhatóságtól beszerezhető adóigazolás helyett arról is lehet nyilatkozni, hogy a gazdasági társaság szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban.
 
-(3)[^7] A Cstv. 27/C. § (2) bekezdésének b) pontjában foglaltakra tekintettel a felszámoló szervezetnek folyamatosan rendelkeznie kell legalább 30 millió forint biztosítékkal, amely – a felszámoló szervezet választása szerint –
+(3)[^8] A Cstv. 27/C. § (2) bekezdésének b) pontjában foglaltakra tekintettel a felszámoló szervezetnek folyamatosan rendelkeznie kell legalább 30 millió forint biztosítékkal, amely – a felszámoló szervezet választása szerint –
 
 a) a törvényszék gazdasági hivatalában letéti számlára befizetett pénzösszeg,
 
@@ -30,11 +30,11 @@ h) Magyarország vagy az Európai Gazdasági Térségről szóló megállapodás
 
 (4) A Cstv. 27/C. § (2) bekezdés c)–d) és f) pontjaiban előírt feltételek fennállásáról nyilatkozatot kell tenni.
 
-(5)[^8] A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló szervezet egy-egy fő közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá két fő, a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyt foglalkoztat. A foglalkoztatott közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók (kivéve a könyvvizsgálót), valamint a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyek közül legalább egy-egy főnek, összesen legalább két főnek munkaviszonyban kell állnia a felszámoló szervezettel. E feltételek teljesítését a Cstv.-ben és az 1. melléklet 1. pont b) alpontjában meghatározott okiratokkal kell igazolni.
+(5)[^9] A névjegyzékbe való felvétel feltétele annak igazolása is, hogy a felszámoló szervezet egy-egy fő közgazdászt, jogi szakvizsgát tett jogászt, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálót, továbbá két fő, a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyt foglalkoztat. A foglalkoztatott közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók (kivéve a könyvvizsgálót), valamint a Cstv. 27/C. § (1) bekezdése szerinti szakképzettségű személyek közül legalább egy-egy főnek, összesen legalább két főnek munkaviszonyban kell állnia a felszámoló szervezettel. E feltételek teljesítését a Cstv.-ben és az 1. melléklet 1. pont b) alpontjában meghatározott okiratokkal kell igazolni.
 
-[^3]: A 2. § a 275/2009. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (1) bekezdés b) pontja a 151/2020. (IV. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (2) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 8. § b) pontja, a 475/2017. (XII. 28.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^7]: A 2. § (3) bekezdése a 343/2015. (XI. 13.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 151/2020. (IV. 24.) Korm. rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 2. § (5) bekezdése a 151/2020. (IV. 24.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § a 275/2009. (XII. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés b) pontja a 151/2020. (IV. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdése a 169/2012. (VII. 20.) Korm. rendelet 8. § b) pontja, a 475/2017. (XII. 28.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdése a 343/2015. (XI. 13.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 151/2020. (IV. 24.) Korm. rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 2. § (5) bekezdése a 151/2020. (IV. 24.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

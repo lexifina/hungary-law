@@ -1,6 +1,6 @@
-## 6. §[^62]
+## 6. §[^63]
 
-## 6/A. §[^63] A felszámolók névjegyzékét vezető hatóság hatósági ellenőrzés keretében – helyszíni ellenőrzéssel is – vizsgálja, hogy
+## 6/A. §[^64] A felszámolók névjegyzékét vezető hatóság hatósági ellenőrzés keretében – helyszíni ellenőrzéssel is – vizsgálja, hogy
 
 a) a felszámoló szervezet eleget tett-e a pályázatban vállalt kötelezettségeinek,
 
@@ -14,5 +14,5 @@ e) a felszámoló szervezet belső szabályzatai, nyilvántartásai megfelelnek-
 
 f) a felszámoló szervezet eleget tett-e a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet által meghatározott díjfizetési kötelezettségének.
 
-[^62]: A 6. §-t a 151/2020. (IV. 24.) Korm. rendelet 15. § g) pontja hatályon kívül helyezte.
-[^63]: A 6/A. §-t a 68/2014. (III. 13.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 343/2015. (XI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^63]: A 6. §-t a 151/2020. (IV. 24.) Korm. rendelet 15. § g) pontja hatályon kívül helyezte.
+[^64]: A 6/A. §-t a 68/2014. (III. 13.) Korm. rendelet 4. § (4) bekezdése iktatta be, szövege a 343/2015. (XI. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

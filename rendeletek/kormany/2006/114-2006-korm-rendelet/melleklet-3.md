@@ -18,7 +18,7 @@
 
 ## 6.2. van-e ellene ezzel összefüggésben végrehajtási eljárás, kibocsátott fizetési meghagyás.
 
-## 7.[^96] A 3. § (8a) bekezdése szerinti kapcsolódó szervezetek, illetve azon jogi személyek vagy jogi személyiség nélküli szervezetek, amelyekben a felszámoló szervezet közvetlen vagy közvetett részesedéssel rendelkezik.
+## 7.[^97] A 3. § (8a) bekezdése szerinti kapcsolódó szervezetek, illetve azon jogi személyek vagy jogi személyiség nélküli szervezetek, amelyekben a felszámoló szervezet közvetlen vagy közvetett részesedéssel rendelkezik.
 
 ## 7.1. A 3. § (8a) bekezdése szerinti kapcsolódó szervezetek, illetve azon jogi személyek vagy jogi személyiség nélküli szervezetek bemutatása, amelyekben a felszámoló szervezet közvetlen vagy közvetett részesedéssel rendelkezik.
 
@@ -48,7 +48,7 @@
 
 ## 5. Volt-e a tárgybeli időszakban olyan jogerős bírósági döntés, amely jogerősen megállapította a felszámoló szervezet jogszabálysértő tevékenységét vagy mulasztását, ha igen, ezek száma, ügyszáma, a bírósági határozat szerint megszegett jogszabályhely(ek) felsorolásával.
 
-## 6.[^97] Volt-e a tárgybeli időszakban – az 5. pontban foglaltakon kívül – olyan jogerős vagy végleges, elmarasztaló bírósági vagy hatósági döntés, amely a felszámoló szervezet szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma.
+## 6.[^98] Volt-e a tárgybeli időszakban – az 5. pontban foglaltakon kívül – olyan jogerős vagy végleges, elmarasztaló bírósági vagy hatósági döntés, amely a felszámoló szervezet szakmai vagy gazdasági tevékenységével függött össze, ha igen, ezek száma, tárgya, ügyszáma.
 
 ## 7. A hitelezői igények befogadásával, besorolásával vagy más jogi kérdésekkel összefüggésben a felszámoló intézkedését megváltoztató bírósági döntések száma, ügyszáma.
 
@@ -82,11 +82,11 @@
 
 ## 22. A tárgybeli időszakban jogerősen megszüntetett csődeljárások esetén a csődegyezség elmaradása okainak felsorolása (összesített adatok).
 
-## 23.[^98] A tárgybeli időszakban volt-e a felszámoló szervezetnél jogerősen vagy véglegesen lezárt adóhatósági vagy más hatósági, törvényességi felügyeleti eljárás, ha igen, ezek megállapítottak-e jogszabálysértést, ezek száma, és az ügyek jellege.
+## 23.[^99] A tárgybeli időszakban volt-e a felszámoló szervezetnél jogerősen vagy véglegesen lezárt adóhatósági vagy más hatósági, törvényességi felügyeleti eljárás, ha igen, ezek megállapítottak-e jogszabálysértést, ezek száma, és az ügyek jellege.
 
-## 24.[^99] A tárgybeli időszakban az állami adóhatóság végleges határozattal megállapította-e a foglalkoztatási jogviszony létesítésével összefüggő bejelentési kötelezettség elmulasztását (fel kell tüntetni a jogerős határozat számát és a határozatban kiszabott mulasztási bírság összegét, illetve egyéb adóhatósági intézkedés tényét).
+## 24.[^100] A tárgybeli időszakban az állami adóhatóság végleges határozattal megállapította-e a foglalkoztatási jogviszony létesítésével összefüggő bejelentési kötelezettség elmulasztását (fel kell tüntetni a jogerős határozat számát és a határozatban kiszabott mulasztási bírság összegét, illetve egyéb adóhatósági intézkedés tényét).
 
-## 25.[^100] Volt-e a tárgybeli időszakban olyan jogsértés, ami miatt foglalkoztatás-felügyeleti hatóság végleges határozattal pénzbírsággal sújtotta, vagy a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezte (fel kell tüntetni a végleges határozat számát is).
+## 25.[^101] Volt-e a tárgybeli időszakban olyan jogsértés, ami miatt foglalkoztatás-felügyeleti hatóság végleges határozattal munkaügyi bírsággal sújtotta vagy befizetésre kötelezte (fel kell tüntetni a végleges határozat számát is).
 
 ## 26. A tárgybeli időszakban folyamatban lévő csődeljárásokban, felszámolási eljárásokban, kényszervégelszámolási eljárásokban a felszámoló szervezet által a fedezetelvonó ügyletek megtámadása érdekében, csődbűncselekmény vagy más, a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXXVIII–XLIII. Fejezetében meghatározott bűncselekmény gyanúja miatt, illetőleg az adós volt vezetői, tulajdonosai ellen indított vagy kezdeményezett eljárások (eljárás típusonként csoportosítva).
 
@@ -98,9 +98,9 @@
 
 ## IV. Képzések, továbbképzések, tudományos tevékenység, szakmai elismerés:
 
-## 1.[^101] A tárgyidőszakban a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai által elkezdett vagy befejezett képzések, továbbképzések száma, ezek típusa.
+## 1.[^102] A tárgyidőszakban a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai által elkezdett vagy befejezett képzések, továbbképzések száma, ezek típusa.
 
-## 2.[^102] A tárgyidőszakban olyan folyamatban lévő vagy befejezett képzések, továbbképzések száma, ezek típusa, amelyben a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai közül oktatóként vettek részt.
+## 2.[^103] A tárgyidőszakban olyan folyamatban lévő vagy befejezett képzések, továbbképzések száma, ezek típusa, amelyben a felszámoló szervezet vezetői, tagjai, foglalkoztatottjai közül oktatóként vettek részt.
 
 ## 3. A tárgyidőszakban volt-e olyan folyamatban lévő tudományos kutatási program, amelyben a felszámoló szervezet részt vett (ha igen, a kutatási program megnevezése, az azonosítására vonatkozó adat, és a kutatási programot indító intézmény neve).
 
@@ -124,13 +124,13 @@
 
 ## 6. Van-e ISO minősítése, és ennek érvényessége.
 
-3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^103]
+3. melléklet a 114/2006. (V. 12.) Korm. rendelethez[^104]
 
-[^96]: A 2. melléklet I. pont 7. alpontja a 151/2020. (IV. 24.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^97]: A 2. melléklet II. 6. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^98]: A 2. melléklet II. 23. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^99]: A 2. melléklet II. 24. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^100]: A 2. melléklet II. 25. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja, a 116/2021. (III. 10.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^101]: A 2. melléklet IV. pont 1. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
-[^102]: A 2. melléklet IV. pont 2. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
-[^103]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^97]: A 2. melléklet I. pont 7. alpontja a 151/2020. (IV. 24.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^98]: A 2. melléklet II. 6. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^99]: A 2. melléklet II. 23. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^100]: A 2. melléklet II. 24. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^101]: A 2. melléklet II. 25. pontja a 108/2018. (VI. 25.) Korm. rendelet 3. § (5) bekezdés a) pontja, a 116/2021. (III. 10.) Korm. rendelet 3. §-a, a 356/2021. (VI. 24.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^102]: A 2. melléklet IV. pont 1. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
+[^103]: A 2. melléklet IV. pont 2. alpontja a 13/2020. (II. 7.) Korm. rendelet 29. § 2. pontja szerint módosított szöveg.
+[^104]: A 3. számú mellékletet a 275/2009. (XII. 3.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte. A 3. számú melléklet korábbi megjelölését 3. mellékletre változtatta, és újonnan a 169/2012. (VII. 20.) Korm. rendelet 9. § (3) bekezdése iktatta be.

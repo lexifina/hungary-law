@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-114-20-
 | 2020-02-15 | 2006-114-20-22.28 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-04-25 | 2006-114-20-22.29 | 151/2020. (IV. 24.) Korm. rendelet |
 | 2021-03-11 | 2006-114-20-22.30 | 151/2020. (IV. 24.) Korm. rendelet |
+| 2021-07-01 | 2006-114-20-22.31 | 500/2021. (VIII. 18.) Korm. rendelet |
