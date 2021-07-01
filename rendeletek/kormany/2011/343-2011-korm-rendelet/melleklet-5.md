@@ -160,7 +160,7 @@
 
 ## d) a termékdíjátalány összege soronként és összesen (Ft).
 
-## X.[^141] Eladótéri műanyag zsák, zacskó, műanyag bevásárló reklámtáska, továbbá elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén
+## X.[^141] Műanyag hordtasak és elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén
 
 ## 1. Termékdíj fajtája KT, CsK kód szerinti bontásban
 
@@ -180,13 +180,13 @@
 
 ## 1. Termékdíjköteles termék megnevezése;
 
-## 2. Mennyisége (kg, eladótéri műanyag zsák, zacskó, műanyag bevásárló reklámtáska, továbbá elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén darabszáma);
+## 2.[^143] Mennyisége (kg, műanyag hordtasak, továbbá elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén darabszáma);
 
 ## 3. Termékdíjátalány mértéke (Ft/év);
 
 ## 4. Termékdíjátalány összesen (Ft).
 
-5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^143]
+5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^144]
 
 ## A nyilvántartás minimális adattartalma
 
@@ -200,9 +200,9 @@ A termékdíjköteles termék:
 
 3. vámtarifaszáma,
 
-4.[^144] mennyisége (kg) és műanyag zacskó, zsák esetében darabszáma vagy gépjármű esetében darabszáma,
+4.[^145] mennyisége (kg) és műanyag hordtasak, zsák esetében darabszáma vagy gépjármű esetében darabszáma,
 
-5.[^145] termékdíjtétele és összege vagy az átalány-termékdíj összege,
+5.[^146] termékdíjtétele és összege vagy az átalány-termékdíj összege,
 
 6. eredete (belföldi gyártású, külföldről behozott),
 
@@ -222,8 +222,9 @@ A termékdíjköteles termék:
 [^138]: A 4. melléklet VIII. pont 3. alpont h) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^139]: A 4. melléklet VIII. alcím 3. pont i) alpontját a 446/2017. (XII. 27.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^140]: A 4. melléklet IX. pontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^141]: A 4. melléklet X. pontját a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^141]: A 4. melléklet X. pontját a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdése iktatta be, nyitó szövegrésze a 724/2020. (XII. 31.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
 [^142]: A 4. melléklet XI. pontját a 724/2020. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^143]: Az 5. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
-[^144]: Az 5. melléklet 4. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^145]: Az 5. melléklet 5. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^143]: A 4. melléklet XI. pont 2. alpontja a 724/2020. (XII. 31.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^144]: Az 5. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
+[^145]: Az 5. melléklet 4. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 724/2020. (XII. 31.) Korm. rendelet 6. § f) pontja szerint módosított szöveg.
+[^146]: Az 5. melléklet 5. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

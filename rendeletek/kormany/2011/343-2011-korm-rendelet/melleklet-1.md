@@ -3,4 +3,4 @@
 1. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^121]
 
 [^120]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^121]: Az 1. melléklet a 446/2017. (XII. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 724/2020. (XII. 31.) Korm. rendelet 4. § (1) bekezdése, a 158/2021. (III. 31.) Korm. rendelet 1. §-a, a 312/2021. (VI. 7.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^121]: Az 1. melléklet a 446/2017. (XII. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 724/2020. (XII. 31.) Korm. rendelet 4. § (1) bekezdése és 5. § (1) bekezdése, a 158/2021. (III. 31.) Korm. rendelet 1. §-a, a 312/2021. (VI. 7.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

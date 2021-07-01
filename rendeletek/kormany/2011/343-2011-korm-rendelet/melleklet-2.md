@@ -24,19 +24,19 @@
 
 | 2. | A | Csomagolóanyag vagy csomagolóanyagként is felhasználható termék |
 
-| 3. | B | Az eladótérben megtöltésre tervezett, megtöltésre szánt, felhasználásra kerülő (eladótéri) műanyag zsák, zacskó |
+| 3. | E | Csomagolóeszköz vagy csomagolóeszközként is felhasználható termék |
 
-| 4. | E | Csomagolóeszköz vagy csomagolóeszközként is felhasználható termék |
+| 4. | H | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött csomagolószer |
 
-| 5. | H | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött csomagolószer |
+| 5. | F | Fém ital-csomagolószer |
 
-| 6. | F | Fém ital-csomagolószer |
+| 6. | N | Nagyon könnyű műanyag hordtasak |
 
-| 7. | M | Műanyag bevásárló reklámtáska |
+| 7. | S | Csomagolási segédanyag vagy csomagolási segédanyagként is felhasználható termék |
 
-| 8. | S | Csomagolási segédanyag vagy csomagolási segédanyagként is felhasználható termék |
+| 8. | Z | Elkülönített hulladék gyűjtésére szolgáló műanyag zsák |
 
-| 9. | Z | Elkülönített hulladék gyűjtésére szolgáló műanyag zsák |
+| 9. | X | Műanyag hordtasak a nagyon könnyű műanyag hordtasak kivételével |
 
 ## 2.1.2. az elévülési időszakon belüli visszaigénylésnél alkalmazható CsK kód 1. karaktere
 
@@ -44,7 +44,11 @@
 
 | 1. | Kód | Megnevezés |
 
-| 2. | K | Kereskedelmi csomagolószer |
+| 2. | B | Az eladótérben megtöltésre tervezett, megtöltésre szánt, felhasználásra kerülő (eladótéri) műanyag zsák, zacskó |
+
+| 3. | K | Kereskedelmi csomagolószer |
+
+| 4. | M | Műanyag bevásárló reklámtáska |
 
 ## 2.2. a CsK kód 2–3. karaktere
 
@@ -72,7 +76,7 @@
 
 | 11. | 09 | poli(vinil-alkohol) |
 
-| 12. | 18 | megújuló nyersanyagból előállított biológiailag lebomló biopolimer |
+| 12. | 18 | biológiailag lebomló műanyag |
 
 | 13. | 19 | más műanyag (műanyag/műanyag), külföldről behozott csomagolás műanyag összetevője |
 
@@ -194,7 +198,7 @@
 
 | 16. | 1K | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés d) pontja alapján |
 
-| 17. | 1L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
+| 17. |  |  |
 
 | 18. | 1U | a termékdíj nem kerül megfizetésre a Ktdt. 3/A. § (1) bekezdése alapján |
 
@@ -266,7 +270,7 @@
 
 | 52. | 3K | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés d) pontja alapján |
 
-| 53. | 3L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
+| 53. |  |  |
 
 | 54. | 3U | a termékdíj nem kerül megfizetésre a Ktdt. 3/A. § (1) bekezdése alapján |
 
@@ -322,7 +326,7 @@
 
 | 80. | 5R | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés d) pontja szerint adott nyilatkozata alapján |
 
-| 81. | 5L | a termékdíj nem kerül megfizetésre a Ktdt. 3. § (9) bekezdés e) pontja alapján |
+| 81. |  |  |
 
 | 82. | 54 | a termékdíj-kötelezettséget az első belföldi vevő a Ktdt. 14. § (5) bekezdés a) pont aa) alpontja alapján szerződéssel átvállalta |
 
@@ -356,7 +360,7 @@
 
 | 4. | 98 | külföldről behozott áru részét képező csomagolószer, a visszaszállításra kerülő újrahasználható csomagolószer kivételével |
 
-| 5. | Csomagolószer esetén, az eladótéri műanyag zsák, zacskó, a műanyag bevásárló reklámtáska, továbbá az elkülönített hulladék gyűjtésére szolgáló műanyag zsák kivételével |
+| 5. | Hazai előállítású vagy külföldről behozott csomagolószer esetén, a műanyag hordtasak és az elkülönített hulladék gyűjtésére szolgáló műanyag zsák, továbbá elévülési időszakon belüli visszaigénylés esetén a műanyag bevásárló reklámtáska és az eladótéri műanyag zsák, zacskó kivételével |
 
 | 6. | 01 | egyszer használható |
 
@@ -368,7 +372,7 @@
 
 | 10. | 05 | újbóli felhasználásra előkészítést követően létrejött csomagolószer |
 
-| 11. | Eladótéri műanyag zsák, zacskó, továbbá a műanyag bevásárló reklámtáska esetén |
+| 11. | Hazai előállítású vagy külföldről behozott műanyag hordtasak, továbbá elévülési időn belüli visszaigénylés esetén a műanyag bevásárló reklámtáska és az eladótéri műanyag zsák, zacskó esetén |
 
 | 12. | 14 | 15 mikronnál kisebb falvastagságú |
 
@@ -376,7 +380,7 @@
 
 | 14. | 51 | 50 mikron vagy azt meghaladó falvastagságú |
 
-| 15. | Elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén |
+| 15. | Hazai előállítású vagy külföldről behozott, elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén |
 
 | 16. | 58 | 100 liternél kisebb űrtartalmú |
 
@@ -692,7 +696,7 @@
 
 |  | A | B | C |
 
-| 1. | 1. karakter: | 1 | – a belföldön keletkező és belföldön kezelt hulladék esetén |
+| 1. | 1. karakter | 1 | – a belföldön keletkező és belföldön kezelt hulladék esetén |
 
 | 2. | 2 | – a belföldön keletkező, de külföldön, az Európai Unión belül kezelt hulladék esetén |
 
@@ -702,7 +706,7 @@
 
 | 5. | 9 | – a belföldön keletkező és belföldön, valamint külföldön kezelt hulladék összesen (B1+B2+B4 mezők szerinti esetek) |
 
-| 6. | 2–4. karakter: | 900 | – hulladékkezelés esetén (belső technikai kód) |
+| 6. | 2–4. karakter | 900 | – hulladékkezelés esetén (belső technikai kód) |
 
 | 7. | 010 | – visszavett hulladék mennyisége összesen (B8+B9 mezők szerinti esetek) |
 
@@ -740,7 +744,7 @@
 
 | 24. | 421 | – hulladékégetőben energetikai hasznosítással történő elégetés esetén |
 
-| 25. | 422 | – energia visszanyerés esetén |
+| 25. | 422 | – energia-visszanyerés esetén |
 
 | 26. | 430 | – más módon hasznosított hulladék mennyisége esetén |
 
@@ -752,19 +756,21 @@
 
 | 30. | 530 | – más kémiai, biológiai, fizikai eljárással ártalmatlanított hulladék mennyisége esetén |
 
-| 31. | 5–7. karakter: | 1** | – elektromos, elektronikai berendezés hulladéka ** a KT kód 2–3. karaktere szerint |
+| 31. | 5–7. karakter | 1** | – elektromos, elektronikai berendezés hulladéka ** a KT kód 2–3. karaktere szerint |
 
 | 32. | 2** | – gumiabroncs hulladéka ** a KT kód 2–3. karaktere szerint |
 
-| 33. | 4** | – csomagolás – kivéve műanyag bevásárló reklámtáska, fém ital-csomagolószer – hulladéka ** a CsK kód 2–3. karaktere szerint |
+| 33. | 4** | – csomagolás – kivéve műanyag hordtasak – hulladéka ** a CsK kód 2–3. karaktere szerint |
 
-| 34. | M** | műanyag bevásárló reklámtáska hulladéka ** a CsK kód 2–3. karaktere szerint |
+| 34. | N** | nagyon könnyű műanyag hordtasak |
 
-| 35 | F** | fém ital-csomagolószer hulladéka ** a CsK kód 2-3. karaktere szerint |
+| 35. | X** | műanyag hordtasak – kivéve a nagyon könnyű műanyag hordtasak – hulladéka ** a CsK kód 2–3. karaktere szerint |
 
-| 36. | 5** | – akkumulátor hulladéka ** a KT kód 2–3. karaktere szerint |
+| 36. | F** | fém ital-csomagolószer hulladéka ** a CsK kód 2–3. karaktere szerint |
 
-| 37. | 6** | – kenőolaj hulladéka ** a KT kód 2–3. karaktere szerint |
+| 37. | 5** | – akkumulátor hulladéka ** a KT kód 2–3. karaktere szerint |
+
+| 38. | 6** | – kenőolaj hulladéka ** a KT kód 2–3. karaktere szerint |
 
 2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^122]
 

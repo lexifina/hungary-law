@@ -36,7 +36,7 @@ cc) a tevékenység és a felhasznált anyagok rövid leírását,
 
 cd) anyagmérleget, amely pontosan bemutatja az újrahasználatra előkészítéshez vagy újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, a létrejött termékdíjköteles termék mennyiségét, és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét, anyagnormáját.
 
-(4)[^4] A kötelezett a Ktdt. 3. § (9) bekezdés e) pontja szerinti feltételek teljesítését a nyilvántartásába felvett, akkreditált laboratórium által kiadott tanúsítvánnyal igazolja.
+(4)[^4] Biológiailag lebomló műanyagból készült műanyag hordtasak esetén a kötelezett nyilvántartása tartalmazza az akkreditált laboratórium által kiadott tanúsítvány számát, amely igazolja, hogy a termékdíjköteles termék – a csomagolásra vonatkozó európai szabványokkal összhangban – komposztálás és anaerob lebontás útján hasznosítható.
 
 [^3]: A 2. § a 446/2016. (XII. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (4) bekezdését a 446/2017. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 2. § (4) bekezdését a 446/2017. (XII. 27.) Korm. rendelet 1. §-a iktatta be, szövege a 724/2020. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
