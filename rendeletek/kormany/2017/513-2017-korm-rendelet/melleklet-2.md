@@ -1,4 +1,4 @@
-2. melléklet az 513/2017. (XII. 29.) Korm. rendelethez[^2]
+2. melléklet az 513/2017. (XII. 29.) Korm. rendelethez[^4]
 
 Nyilatkozat az adatszolgáltatás megtiltásáról
 
@@ -16,4 +16,4 @@ Megjegyzés:
 
 A nyilatkozat nem érinti törvényben előírt adatok nyilvántartását és adatszolgáltatások teljesítését.
 
-[^2]: A 2. melléklet az 572/2020. (XII. 9.) Korm. rendelet 120. §-ával megállapított szöveg.
+[^4]: A 2. melléklet az 572/2020. (XII. 9.) Korm. rendelet 120. §-ával megállapított szöveg.
