@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-445-20-
 | 2020-03-01 | 2013-445-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |
 | 2021-01-01 | 2013-445-20-22.18 | 636/2020. (XII. 22.) Korm. rendelet |
 | 2021-03-11 | 2013-445-20-22.19 | 116/2021. (III. 10.) Korm. rendelet |
+| 2021-07-01 | 2013-445-20-22.20 | 89/2014. (III. 20.) Korm. rendelet |
