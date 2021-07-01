@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti az egységes európai segélyhívószámra és a nemzeti segélyhívó számokra irányuló segélyhívások támogatása érdekében a nyilvánosan elérhető telefonszolgáltatásra vonatkozó műszaki követelményekről szóló 3/2012. (I. 24.) NMHH rendelet.
+## 6. §[^1]
 
 ## 7. § Ez a rendelet
 
@@ -7,3 +7,5 @@ a) az egyetemes szolgáltatásról, valamint az elektronikus hírközlő hálóz
 b) az Európai Elektronikus Hírközlési Kódex létrehozásáról szóló, 2018. december 11-i (EU) 2018/1972 európai parlamenti és tanácsi irányelv 109. cikkének
 
 való megfelelést szolgálja.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
