@@ -1,4 +1,4 @@
-6. §[^12] (1) A miniszter által a 4. § szerint biztosított finanszírozás kizárólag a közszolgáltatási szerződés keretében, a 2. mellékletben meghatározott költségvetési szervek részére nyújtott szolgáltatásokat fedezi.
+6. §[^9] (1) A miniszter által a 4. § szerint biztosított finanszírozás kizárólag a közszolgáltatási szerződés keretében, a 2. mellékletben meghatározott költségvetési szervek részére nyújtott szolgáltatásokat fedezi.
 
 (2) A 2. mellékletben meghatározott költségvetési szerv a közszolgáltatási szerződés által le nem fedett egyedi igényeinek ellátására – az (5) bekezdésben meghatározott, a miniszterrel lefolytatott előzetes egyeztetést követően – egyedi szolgáltatási szint alapú megállapodást (a továbbiakban: egyedi szolgáltatási megállapodás) köt a központi szolgáltatóval.
 
@@ -10,4 +10,4 @@
 
 (6) Ha az (5) bekezdés szerinti egyeztetés alapján a szolgáltatási igény nem közszolgáltatási szerződés keretében kerül biztosításra, az igény szerinti szolgáltatás teljesítésére a (2) és a (3) bekezdésben foglaltakat kell alkalmazni.
 
-[^12]: A 6. § a 81/2019. (IV. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^9]: A 6. § a 81/2019. (IV. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
