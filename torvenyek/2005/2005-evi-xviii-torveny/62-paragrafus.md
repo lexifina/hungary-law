@@ -4,4 +4,6 @@ a) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módos�
 
 b) az energiahatékonyságról szóló 2012/27/EU irányelv módosításáról szóló, 2018. december 11-i (EU) 2018/2002 európai parlamenti és tanácsi irányelv 1. cikk 6., 8., 10. pontjának és a Melléklet 3. pontjának
 
+c) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
