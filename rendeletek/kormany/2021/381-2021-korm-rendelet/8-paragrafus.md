@@ -1,3 +1,3 @@
-8. §[^4]
+## 7. § Az NKFI Alap működtetésének és felhasználásának szabályairól szóló Korm. rendelet 15. §-a a következő (6) bekezdéssel egészül ki:
 
-[^4]: A 8. § a 10. § (2) bekezdése alapján 2021. július 1-jén lép hatályba.
+## „(6) A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.”

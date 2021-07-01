@@ -1,3 +1,3 @@
-## 2. § A nemzeti felsőoktatási kiválóságról szóló Korm. rendelet 18. §-a helyébe a következő rendelkezés lép:
+3. §[^3]
 
-## „18. § A tudományos diákköri kiválósági rendszer, a nemzeti felsőoktatási kiválóság ösztöndíjak fedezetét és az OTDK előkészítése és lebonyolítása támogatásának forrását az OTDT részére az NKFI Alap költségvetésében kell megtervezni.”
+[^3]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
