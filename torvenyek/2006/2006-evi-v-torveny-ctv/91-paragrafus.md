@@ -7,3 +7,7 @@
 (3) A cégbíróság az e § szerinti eljárását hivatalból megszünteti, ha tudomására jut, hogy az állami adóhatóság az adószám törléséről szóló határozatát visszavonta, megsemmisítette vagy azt a bíróság hatályon kívül helyezte.
 
 (4) E cím szerinti eljárásban a fogalmazó vagy a bírósági ügyintéző önállóan jár el.
+
+7. CÍM
+
+A közkereseti társaság tagjai számának egy főre csökkenésével vagy a betéti társaság valamennyi beltagja vagy valamennyi kültagja jogviszonyának megszűnésével összefüggő eljárás

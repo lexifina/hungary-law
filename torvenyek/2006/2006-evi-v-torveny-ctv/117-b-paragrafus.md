@@ -1,5 +1,1 @@
 117/B. § Ha a kényszertörlési eljárást ismeretlen székhelyű cég megszüntetésére irányuló eljárás előzte meg, a kényszertörlési eljárásban a 117/A. § (1) bekezdése szerinti felhívásra nem kerül sor, és a cégbíróság az elektronikus vagyonfelmérés során csak az ingatlanügyi hatóságot köteles megkeresni. A cégbíróságnak a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart csak abban az esetben kell megkeresnie, ha a cégjegyzék a cég elleni végrehajtásról bejegyzést tartalmaz.
-
-3. CÍM
-
-A KÉNYSZERTÖRLÉS BEFEJEZÉSE

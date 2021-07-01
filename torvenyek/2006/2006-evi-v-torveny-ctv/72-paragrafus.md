@@ -6,7 +6,7 @@
 
 (4)
 
-(5) A törvényességi felügyeleti eljárás során hozott jogerős cégbírósági intézkedéssel az ügyben keletkezett iratok nyilvánossá válnak, továbbá nyilvánosak az ügyben keletkezett iratok akkor is, ha a cég a cégbíróság felhívására a törvényes működését helyreállította. Más esetben az iratok nyilvánosságára a Pp. rendelkezései vonatkoznak.
+(5) A 76/A. § (3) bekezdése alapján indult eljárás kivételével a törvényességi felügyeleti eljárás során hozott jogerős cégbírósági intézkedéssel az ügyben keletkezett iratok nyilvánossá válnak, továbbá nyilvánosak az ügyben keletkezett iratok akkor is, ha a cég a cégbíróság felhívására a törvényes működését helyreállította. Más esetben az iratok nyilvánosságára a Pp. rendelkezései vonatkoznak.
 
 (6) Amennyiben a törvényességi felügyeleti eljárásban a cégbírósági iratok kézbesítése postai úton meghiúsul, a cégbíróság a kézbesítendő iratokat a Cégközlönyben történő közzététellel kézbesíti azzal, hogy a közzétételt követő ötödik napon az irat kézbesítettnek tekintendő.
 

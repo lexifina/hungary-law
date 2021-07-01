@@ -12,9 +12,9 @@ d) tudomása van a kényszertörlés közzétételének a napját megelőző év
 
 e) a céggel fennálló munkaviszonyon alapuló bérkövetelése vagy munkaviszonyból származó egyéb követelése van,
 
-azt a közzétételt követő hatvan napon belül jelentse be a cégbíróságnak.
+azt a közzétételt követő negyven napon belül jelentse be a cégbíróságnak. A határidő elmulasztása esetén igényét a kényszertörlési eljárásban már nem érvényesítheti.
 
-(2a) A céggel szembeni követelés bejelentése esetén a bejelentőnek nyilatkoznia kell a követelés összege mellett a követelés jogcíméről, keletkezésének és esedékességének időpontjáról is.
+(2a) A céggel szembeni követelés bejelentése esetén a beadvány tartalmazza a követelés jogosultjának nevét vagy elnevezését, lakcímét vagy székhelyét, szervezet esetén nyilvántartási számát, a követelés jogalapját, összegét és esetleges járulékait, keletkezésének és esedékességének időpontját is. Ha a követelést nem valamely hatóság jelenti be, a beadványhoz a követelést megalapozó okiratokat is csatolni kell.
 
 (3) Az (1) bekezdés szerinti közzététellel egyidejűleg a cégbíróság megkeresi a közhiteles vagy közérdekvédelmi célból vezetett nyilvántartást vezető szervezeteket annak megállapítására, hogy a nyilvántartásukban a kényszertörlés közzétételének napján vagy az azt megelőző évben a cég jog jogosultjaként van-e bejegyezve, a javára, illetve érdekében tény van-e feljegyezve, vagy egyébként a nyilvántartás a cég vagyonára vonatkozó adatot tartalmaz-e. A cégbíróság így megkeresi különösen a gépjárműveket nyilvántartó hatóságot, a légi járművek és az úszólétesítmények lajstromát, illetve nyilvántartását vezető szerveket, az ingatlanügyi hatóságot, az ingó jelzálogjogi nyilvántartást vezető szervezetet, a bírósági végrehajtási ügyek központi nyilvántartását vezető Magyar Bírósági Végrehajtói Kart.
 

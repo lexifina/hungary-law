@@ -1,6 +1,6 @@
 9/B. § (1) A cégbíróság öt évre eltiltja azt a személyt,
 
-a) akinek felelősségét a felszámolási vagy kényszertörlési eljárás során ki nem elégített hitelezői követelésért a bíróság jogerősen megállapította és a jogerős bírósági határozat szerinti fizetési kötelezettségét nem teljesítette,
+a) akinek felelősségét a felszámolási eljárás során ki nem elégített hitelezői követelésért a bíróság jogerősen megállapította és a jogerős bírósági határozat szerinti fizetési kötelezettségét nem teljesítette,
 
 b) aki a gazdasági társaság tartozásáért való korlátlan tagi helytállási kötelezettségének nem tett eleget, vagy
 

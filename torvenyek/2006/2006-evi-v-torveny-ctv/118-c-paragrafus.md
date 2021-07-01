@@ -2,10 +2,4 @@
 
 (2) A hitelező a keresetét a cég törlését elrendelő jogerős határozat Cégközlönyben való közzétételét követő kilencven napos jogvesztő határidőn belül a cég utolsó bejegyzett székhelye szerint illetékes törvényszéken terjesztheti elő.
 
-## IX. Fejezet
-
-## A VAGYONRENDEZÉSI ELJÁRÁS
-
-1. CÍM
-
-A vagyonrendezési eljárás kezdeményezése
+(3) A 118/A. § és a 118/B. § szerinti pernek a cégnek azon a tagjával, volt tagjával, valamint azon vezető tisztségviselőjével, volt vezető tisztségviselőjével szemben van helye, akivel szemben a cégbíróság a kényszertörlési eljárásban a 117/F. § (2) bekezdése szerinti jogkövetkezményt nem alkalmazta.

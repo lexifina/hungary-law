@@ -12,6 +12,8 @@ b) ha nem vitatja a kérelemben vagy a végzésben foglaltakat, úgy a törvény
 
 (5) Ha a kérelmet a cég tagjai – jogszabályban biztosított – kisebbségvédelmi jogaik védelmében a legfőbb szerv összehívásának kezdeményezése iránt nyújtják be, a cégbíróság a kérelem érkezésétől számított tizenöt munkanapon belül azt érdemben elbírálja. A kérelmet elutasító cégbírósági végzés ellen fellebbezésnek van helye.
 
+(6) A cég vezető tisztségviselője köteles a cég cégjegyzékbe bejegyzett tagjait (tagját) írásban értesíteni a céggel szemben indult törvényességi felügyeleti eljárás tényéről, és köteles megadni a tagok részére – a törvényes működés helyreállításához szükséges – valamennyi információt. E kötelezettség teljesítését a vezető tisztségviselő az (1) bekezdés szerinti felhívás kézhezvételétől számított tizenöt napon belül köteles a cégbíróságnak igazolni. Ennek elmulasztása esetén a cégbíróság a vezető tisztségviselőt a 98. § (5) bekezdése szerinti pénzbírsággal sújthatja.
+
 7. CÍM
 
 A cégbíróság intézkedései

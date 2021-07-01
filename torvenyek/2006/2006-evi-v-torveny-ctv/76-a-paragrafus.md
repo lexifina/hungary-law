@@ -4,6 +4,8 @@
 
 (3) A bűnügyi nyilvántartó szerv a Bnytv. 71. § (2) bekezdése szerinti – cégiratnak nem minősülő – értesítést küld a cégbíróság részére. A bűnügyi nyilvántartó szervnek a Ptk. 3:22. § (4) és (5) bekezdése szerinti kizáró okot tartalmazó értesítése alapján a cégbíróság a céggel szemben hivatalból törvényességi felügyeleti eljárást indít.
 
+(4) Ha a törvényességi felügyeleti eljárásban a cégbíróság törli az érintett személyt a cégjegyzékből, a törlés a törlésről rendelkező végzés jogerőre emelkedésének napjával válik hatályossá. Ha a törvényességi felügyeleti eljárásban a cégbíróság törli az érintett személyt a cégjegyzékből, a cégbíróság a 9/D. § (4), (5) és (8) bekezdésében foglaltakat is alkalmazza.
+
 4. CÍM
 
 A cégbíróság eljárása kérelemre

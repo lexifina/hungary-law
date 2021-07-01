@@ -20,7 +20,7 @@ h) a cég törlésére és a tag, vezető tisztségviselő eltiltására vonatko
 
 i) végelszámolás lefolytatása során a végelszámoló jogsértő intézkedése vagy mulasztása miatt előterjesztett kifogás elbírálása tárgyában hozott érdemi határozat;
 
-j) a kényszertörlési eljárásban a 118. § szerinti határozatok;
+j) a kényszertörlési eljárásban a 117/E. §, a 117/F. § és a 118. § szerinti határozatok;
 
 k) a vagyonrendezési eljárásban az eljárás lefolytatását elrendelő határozat, a vagyonrendező jogszabálysértő intézkedése vagy mulasztása ellen benyújtott kifogás tárgyában hozott határozatok, valamint a vagyonrendezési eljárás befejezése során hozott érdemi határozat;
 
