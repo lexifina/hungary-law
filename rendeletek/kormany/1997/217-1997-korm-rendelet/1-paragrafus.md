@@ -80,15 +80,17 @@ jelöli ki.
 
 (9)[^36] A kifizetőhelyek eljárására az Ebtv. és az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény rendelkezéseit együttesen kell alkalmazni.
 
-(10)[^37] A Kormány egészségbiztosítóként, valamint egészségbiztosítási szervként az Ebtv. 71. § (1) bekezdésében, valamint 72. §-ában foglalt feladatok ellátására a Központot jelöli ki, ha a követelés érvényesítése az Ebtv. 70. § (1) bekezdés a) pontja szerint hozott határozaton, illetve fizetési meghagyáson alapszik. A visszafizetésre kötelező, véglegessé vált határozatokon, illetve megtérítésre kötelező, véglegessé vált fizetési meghagyásokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatokat a Központ látja el, és a Központ rendeli el a végrehajtást.
+(10)[^37] A Kormány egészségbiztosítóként, valamint egészségbiztosítási szervként az Ebtv. 71. § (1) bekezdésében, valamint 72. §-ában foglalt feladatok ellátására a Központot jelöli ki, ha a követelés érvényesítése az Ebtv. 70. § (1) bekezdés a) pontja vagy 80. § (6) bekezdése szerint hozott határozaton, illetve fizetési meghagyáson alapszik. A visszafizetésre kötelező, véglegessé vált határozatokon, illetve megtérítésre kötelező, véglegessé vált fizetési meghagyásokon alapuló követelések nyilvántartásával, végrehajtásával és elszámolásával kapcsolatos feladatokat a Központ látja el, és a Központ rendeli el a végrehajtást.
 
-(10)[^38] A minisztérium jogosult az Ebtv. 36. § (1) és (2), valamint (4)–(9) bekezdésében, továbbá az Ebtv. 37–38/C. §-ában meghatározott ellenőrzésekhez elemzéseket végezni, ellenőrzéseket elrendelni, koordinálni és irányítani.
+(10)[^38]
 
-(11)[^39] Az Ebtv. 72. §-a szerinti tartozás mérséklésére, elengedésére vagy részletfizetés engedélyezésére irányuló eljárás tartamára a végrehajtást fel kell függeszteni.
+(10a)[^39] A minisztérium jogosult az Ebtv. 36. § (1), (2) és (4)–(9) bekezdésében, valamint az Ebtv. 37–38/C. §-ában meghatározott ellenőrzésekhez elemzéseket végezni, ellenőrzéseket elrendelni, koordinálni és irányítani.
 
-(12)[^40]
+(11)[^40] Az Ebtv. 72. §-a szerinti tartozás mérséklésére, elengedésére vagy részletfizetés engedélyezésére irányuló eljárás tartamára a végrehajtást fel kell függeszteni.
 
-(13)[^41] A kormányhivatalnak az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel és a baleseti táppénzzel kapcsolatos hatósági ügyeiben a Központ jár el felügyeleti szervként, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.
+(12)[^41]
+
+(13)[^42] A kormányhivatalnak az egészségbiztosítás pénzbeli ellátásaival, az üzemi balesettel és a baleseti táppénzzel kapcsolatos hatósági ügyeiben a Központ jár el felügyeleti szervként, és e közigazgatási hatósági ügyekkel összefüggésben gyakorolja a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.) 2. § (1) bekezdés e) és f) pontjában és kizárólag ezekhez kapcsolódva a Ksztv. 2. § (1) bekezdés g) pontjában meghatározott hatásköröket.
 
 [^1]: A Vhr. 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 27. § (1) bekezdésével megállapított, a 311/2017. (X. 31.) Korm. rendelet 7. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^2]: A Vhr. 1. §-ának (2) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -126,8 +128,9 @@ jelöli ki.
 [^34]: A Vhr. 1. § új (8) bekezdését a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8)–(9) bekezdés számozását (9)–(10) bekezdésre változtatta. A Vhr. 1. § (8) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^35]: A Vhr. 1. § (8a) bekezdését az 52/2017. (III. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 13. § (7) bekezdés f) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^36]: A Vhr. 1. § (8) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (9) bekezdésre változtatta. Az 1. § (9) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^37]: A Vhr. 1. § (9) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (10) bekezdésre változtatta. A Vhr. 1. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^38]: A Vhr. 1. § újabb (10) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^39]: A Vhr. 1. § (11) bekezdését a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^40]: A Vhr. 1. § (12) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 315/2020. (VII. 1.) Korm. rendelet 3. § (2) bekezdése.
-[^41]: A Vhr. 1. § (13) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 315/2020. (VII. 1.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^37]: A Vhr. 1. § (9) bekezdését a 319/2006. (XII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be, számozását a 360/2008. (XII. 31.) Korm. rendelet 1. § (2) bekezdése (10) bekezdésre változtatta. A Vhr. 1. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 130. §-a hatályon kívül helyezte, újonnan a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 376/2021. (VI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^38]: A Vhr. 1. § újabb (10) bekezdését az 507/2017. (XII. 29.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 376/2021. (VI. 30.) Korm. rendelet 7. § a) pontja.
+[^39]: A Vhr. 1. § (10a) bekezdését a 376/2021. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
+[^40]: A Vhr. 1. § (11) bekezdését a 404/2017. (XII. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^41]: A Vhr. 1. § (12) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 315/2020. (VII. 1.) Korm. rendelet 3. § (2) bekezdése.
+[^42]: A Vhr. 1. § (13) bekezdését a 30/2020. (II. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 315/2020. (VII. 1.) Korm. rendelet 3. § (1) bekezdése szerint módosított szöveg.

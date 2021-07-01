@@ -1,20 +1,20 @@
-28. § (1)[^485] A 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén méltányosságból folyósított táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén a gyermek legutóbbi születésnapját követően táppénzt folyósítottak.
+28. § (1)[^486] A 12 éves, vagy annál idősebb, de 18 évesnél fiatalabb beteg gyermek ápolása, illetve kórházi tartózkodása címén méltányosságból folyósított táppénz megállapításánál előzményként azt az időtartamot kell figyelembe venni, amelyre ugyanazon gyermek ápolása, illetve kórházi tartózkodása címén a gyermek legutóbbi születésnapját követően táppénzt folyósítottak.
 
-(1a)[^486]
+(1a)[^487]
 
 (2) A biztosítás megszakítás nélkül akkor áll fenn, ha abban a szabadnap, a heti pihenőnap és a munkaszüneti nap kivételével egy nap megszakítás sincs.
 
-(3)[^487] Ha az Ebtv. 48/A. § (1) bekezdés szerinti folyamatos biztosítás időtartama egy évnél rövidebb, a táppénzre való jogosultság időtartamának a megállapításánál előzményként csak az Ebtv. 48/A. § (1) bekezdés szerinti folyamatos biztosítás ideje alatti táppénzfolyósítás időtartamát lehet figyelembe venni.
+(3)[^488] Ha az Ebtv. 48/A. § (1) bekezdés szerinti folyamatos biztosítás időtartama egy évnél rövidebb, a táppénzre való jogosultság időtartamának a megállapításánál előzményként csak az Ebtv. 48/A. § (1) bekezdés szerinti folyamatos biztosítás ideje alatti táppénzfolyósítás időtartamát lehet figyelembe venni.
 
-(4)[^488] A biztosítási jogviszony kezdő napjánál korábban kezdődő keresőképtelenség esetén a keresőképtelenség első napjának a biztosítási jogviszony kezdő napját kell tekinteni.
+(4)[^489] A biztosítási jogviszony kezdő napjánál korábban kezdődő keresőképtelenség esetén a keresőképtelenség első napjának a biztosítási jogviszony kezdő napját kell tekinteni.
 
-(5)[^489] A fennálló biztosítási jogviszony kezdőnapjának a pénzbeli ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszony első napja minősül. Az Ebtv. 39/A. § (1) bekezdésének, 42. § (4b) bekezdésének, 42/D. § (6) bekezdésének és 48. § (8) bekezdésének alkalmazásánál a fennálló biztosítási jogviszony kezdő napja nem változik, ha az ellátásra jogosult a biztosítási jogviszony megszűnését követő harminc napon belül ugyanannál a foglalkoztatónál, ugyanolyan vagy jogszabály szerint átalakult jogviszony alapján ismét biztosítottá válik. Törvény szerinti jogutódlás esetén a biztosítási jogviszony kezdő napja megegyezik a jogelődnél létesített biztosítási jogviszony kezdő napjával.
+(5)[^490] A fennálló biztosítási jogviszony kezdőnapjának a pénzbeli ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszony első napja minősül. Az Ebtv. 39/A. § (1) bekezdésének, 42. § (4b) bekezdésének, 42/D. § (6) bekezdésének és 48. § (8) bekezdésének alkalmazásánál a fennálló biztosítási jogviszony kezdő napja nem változik, ha az ellátásra jogosult a biztosítási jogviszony megszűnését követő harminc napon belül ugyanannál a foglalkoztatónál, ugyanolyan vagy jogszabály szerint átalakult jogviszony alapján ismét biztosítottá válik. Törvény szerinti jogutódlás esetén a biztosítási jogviszony kezdő napja megegyezik a jogelődnél létesített biztosítási jogviszony kezdő napjával.
 
-(6)[^490] Az (5) bekezdés tekintetében nem érinti a fennálló biztosítási jogviszony kezdőnapját a jogviszonynak a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 47. §-a és 47/A. §-a alapján történő átalakulása.
+(6)[^491] Az (5) bekezdés tekintetében nem érinti a fennálló biztosítási jogviszony kezdőnapját a jogviszonynak a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 47. §-a és 47/A. §-a alapján történő átalakulása.
 
-[^485]: A Vhr. 28. § (1) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^486]: A Vhr. 28. § (1a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 413/2015. (XII. 23.) Korm. rendelet 10. § c) pontja.
-[^487]: A Vhr. 28. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
-[^488]: A Vhr. 28. § (4) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 18. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^489]: A Vhr. 28. § (5) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 287/2018. (XII. 21.) Korm. rendelet 8. § f) pontja, a 277/2021. V. 26.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^490]: A Vhr. 28. § (6) bekezdését a 204/2019. (VIII. 23.) Korm. rendelet 2. §-a iktatta be, szövege az 543/2020. (XII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^486]: A Vhr. 28. § (1) bekezdését újonnan a 172/2016. (VII. 1.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^487]: A Vhr. 28. § (1a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 413/2015. (XII. 23.) Korm. rendelet 10. § c) pontja.
+[^488]: A Vhr. 28. § (3) bekezdése a 254/2013. (VII. 5.) Korm. rendelet 17. § g) pontja szerint módosított szöveg.
+[^489]: A Vhr. 28. § (4) bekezdését a 295/2002. (XII. 27.) Korm. rendelet 18. §-a iktatta be, szövege a 254/2013. (VII. 5.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^490]: A Vhr. 28. § (5) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be, szövege a 172/2016. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 287/2018. (XII. 21.) Korm. rendelet 8. § f) pontja, a 277/2021. V. 26.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^491]: A Vhr. 28. § (6) bekezdését a 204/2019. (VIII. 23.) Korm. rendelet 2. §-a iktatta be, szövege az 543/2020. (XII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.

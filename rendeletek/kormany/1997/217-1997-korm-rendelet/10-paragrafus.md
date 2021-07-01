@@ -1,3 +1,3 @@
-10. §[^208]
+10. §[^209]
 
-[^208]: A Vhr. 10. §-át a 312/2007. (XI. 17.) Korm. rendelet 4. § (5) bekezdése hatályon kívül helyezte.
+[^209]: A Vhr. 10. §-át a 312/2007. (XI. 17.) Korm. rendelet 4. § (5) bekezdése hatályon kívül helyezte.

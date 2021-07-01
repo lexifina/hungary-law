@@ -1,3 +1,3 @@
-41/A. §[^603] A gyermekgondozási díjat írásban, a Központ által rendszeresített nyomtatványon kell kérelmezni. A kérelmet két példányban kell a foglalkoztatóhoz benyújtani, abban az esetben is, ha a kérelmező a biztosítás megszűnését követően igényel gyermekgondozási díjat, kivéve, ha az igénylő az Ebtv. 42/E. §-a alapján kéri a gyermekgondozási díjat és a szülés napján nem biztosított. A foglalkoztató megbízottja a kérelem másolatán az átvételt igazolja.
+41/A. §[^601]
 
-[^603]: A Vhr. 41/A. §-át a 203/1999. (XII. 26.) Korm. rendelet 13. §-a iktatta be, szövege a 311/2017. (X. 31.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^601]: A Vhr. 41/A. §-át a 203/1999. (XII. 26.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 376/2021. (VI. 30.) Korm. rendelet 7. § c) pontja.
