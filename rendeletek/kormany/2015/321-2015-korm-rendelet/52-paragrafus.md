@@ -1,5 +1,5 @@
 ## való megfelelést szolgálja.
 
-52. §[^91]
+52. §[^99]
 
-[^91]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

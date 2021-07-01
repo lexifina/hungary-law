@@ -14,11 +14,11 @@ d) a Kbt. 62. § (1) bekezdés f) pontja tekintetében a kizáró ok hiányát a
 
 e)[^21]
 
-f)[^22] a Kbt. 62. § (1) bekezdés h) pontjára vonatkozóan az ajánlatkérő a Hatóság honlapján közzétett adatbázist ellenőrzi. A Kbt. 62. § (1) bekezdés h) pont ha) alpontja alkalmazásában az ajánlatkérő a Hatóság honlapján közzétett információkat és a gazdasági szereplő 4. § (1b) bekezdése szerinti nyilatkozatát veszi figyelembe, valamint alkalmazhatja a Kbt. 69. § (13) bekezdését a kizárás megítéléséhez szükséges további információk kéréséhez;
+f)[^22] a Kbt. 62. § (1) bekezdés h) pontjára vonatkozóan az ajánlatkérő a Hatóság által az EKR-ben közzétett nyilvántartást ellenőrzi. A Kbt. 62. § (1) bekezdés h) pont ha) alpontja alkalmazásában az ajánlatkérő az EKR-ben közzétett nyilvántartásban szereplő információkat és a gazdasági szereplő 4. § (1b) bekezdése szerinti nyilatkozatát veszi figyelembe, valamint alkalmazhatja a Kbt. 69. § (13) bekezdését a kizárás megítéléséhez szükséges további információk kéréséhez;
 
 g) a Kbt. 62. § (1) bekezdés i) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
-h)[^23] a Kbt. 62. § (1) bekezdés j) pontja tekintetében az adott eljárásban a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során; korábbi közbeszerzési eljárásra vonatkozóan az ajánlatkérő a Hatóság honlapján közzétett adatbázist ellenőrzi. A Kbt. 62. § (1) bekezdés j) pont ja) alpontja alkalmazásában az ajánlatkérő a Hatóság honlapján közzétett információkat és a gazdasági szereplő 4. § (1b) bekezdése szerinti nyilatkozatát veszi figyelembe, valamint alkalmazhatja a Kbt. 69. § (13) bekezdését a kizárás megítéléséhez szükséges további információk kéréséhez;
+h)[^23] a Kbt. 62. § (1) bekezdés j) pontja tekintetében az adott eljárásban a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során; korábbi közbeszerzési eljárásra vonatkozóan az ajánlatkérő a Hatóság által az EKR-ben közzétett nyilvántartást ellenőrzi. A Kbt. 62. § (1) bekezdés j) pont ja) alpontja alkalmazásában az ajánlatkérő az EKR-ben közzétett nyilvántartásban szereplő információkat és a gazdasági szereplő 4. § (1b) bekezdése szerinti nyilatkozatát veszi figyelembe, valamint alkalmazhatja a Kbt. 69. § (13) bekezdését a kizárás megítéléséhez szükséges további információk kéréséhez;
 
 i) a Kbt. 62. § (1) bekezdés k) pontjára vonatkozóan
 
@@ -32,20 +32,21 @@ j)[^25] a Kbt. 62. § (1) bekezdés l) pontja tekintetében a kizáró okok hiá
 
 k) a Kbt. 62. § (1) bekezdés m) pontja tekintetében nem szükséges igazolás benyújtása, a kizáró ok megvalósulását az ajánlatkérő ellenőrzi az eljárás során;
 
-l) a Kbt. 62. § (1) bekezdés n) pontja tekintetében a Gazdasági Versenyhivatal (a továbbiakban: GVH) döntései, illetve az ezt felülvizsgáló bírósági döntések tekintetében a jogsértés megtörténtét az ajánlatkérő a GVH honlapján található, döntéseket tartalmazó adatbázisokból ellenőrzi; az ajánlatkérő ezen felül nem kérhet külön igazolást, a GVH honlapján található adatbázisokban nem szereplő esetleges jogsértés hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
+l)[^26] a Kbt. 62. § (1) bekezdés n) pontja tekintetében a Gazdasági Versenyhivatal (a továbbiakban: GVH) döntései, illetve az ezt felülvizsgáló bírósági döntések tekintetében a jogsértés megtörténtét az ajánlatkérő a GVH által az EKR-ben közzétett információk alapján ellenőrzi; az ajánlatkérő ezen felül nem kérhet külön igazolást, az EKR-ben nem szereplő esetleges jogsértés hiányának igazolásaként az ajánlatkérő köteles elfogadni az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
 
 m) a Kbt. 62. § (1) bekezdés o) pontja tekintetében az ajánlatkérő köteles elfogadni igazolásként az eljárásban benyújtott egységes európai közbeszerzési dokumentumba foglalt nyilatkozatot;
 
-n)[^26]
+n)[^27]
 
-o)[^27]
+o)[^28]
 
 [^19]: A 8. § b) pontja a 475/2017. (XII. 28.) Korm. rendelet 61. § 1. pontja szerint módosított szöveg.
 [^20]: A 8. § c) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^21]: A 8. § e) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 1. pontja hatályon kívül helyezte.
-[^22]: A 8. § f) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^23]: A 8. § h) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^22]: A 8. § f) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 12. § 4. pontja szerint módosított szöveg.
+[^23]: A 8. § h) pontja a 40/2021. (II. 2.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 12. § 4. pontja szerint módosított szöveg.
 [^24]: A 8. § i) pont ib) alpontja a 66/2019. (III. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^25]: A 8. § j) pontja a 40/2021. (II. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^26]: A 8. § n) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja hatályon kívül helyezte.
-[^27]: A 8. § o) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (8) bekezdése iktatta be, hatályon kívül helyezte a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja.
+[^26]: A 8. § l) pontja a 40/2021. (II. 2.) Korm. rendelet 12. § 5–6. pontja szerint módosított szöveg.
+[^27]: A 8. § n) pontját a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja hatályon kívül helyezte.
+[^28]: A 8. § o) pontját a 487/2016. (XII. 28.) Korm. rendelet 7. § (8) bekezdése iktatta be, hatályon kívül helyezte a 40/2021. (II. 2.) Korm. rendelet 13. § 2. pontja.
