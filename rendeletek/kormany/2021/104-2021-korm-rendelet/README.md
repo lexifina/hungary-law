@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-104-20-
 | 2021-05-10 | 2021-104-20-22.12 | 233/2021. (V. 6.) Korm. rendelet |
 | 2021-05-22 | 2021-104-20-22.13 | 266/2021. (V. 21.) Korm. rendelet |
 | 2021-05-23 | 2021-104-20-22.14 | 264/2021. (V. 21.) Korm. rendelet |
+| 2021-07-01 | 2021-104-20-22.15 | 366/2021. (VI. 30.) Korm. rendelet |

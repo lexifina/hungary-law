@@ -1,5 +1,5 @@
 ## 4. §
 
-## 4.[^11]
+## 4.[^14]
 
-[^11]: A 4. alcímet (5. §) a 17. § hatályon kívül helyezte.
+[^14]: A 4. alcímet (5. §) a 17. § hatályon kívül helyezte.

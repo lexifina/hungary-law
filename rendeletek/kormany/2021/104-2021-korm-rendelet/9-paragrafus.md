@@ -1,6 +1,6 @@
 ## 8. § Az e rendeletben meghatározott ideiglenes védelmi intézkedések betartását a rendőrség az R. 20. § (2) bekezdés b) pontjára figyelemmel a Magyar Honvédség közreműködésével ellenőrzi.
 
-9. § (1)[^23] Ha a rendőrség az ellenőrzés során vagy a rendőrség a katona értesítése alapján a 7. § (1b), (1c), (2) és (5) bekezdése szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
+9. § (1)[^26] Ha a rendőrség az ellenőrzés során vagy a rendőrség a katona értesítése alapján a 7. § (1b), (1c), (2) és (5) bekezdése szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
 
 a) 100 000 forinttól 1 000 000 forintig terjedő bírságot szabhat ki,
 
@@ -30,4 +30,4 @@ a) az ellenőrzés helye szerint illetékes rendőrkapitányság,
 
 b) a Budapest Liszt Ferenc Nemzetközi Repülőtéren a Repülőtéri Rendőr Igazgatóság.
 
-[^23]: A 9. § (1) bekezdés nyitó szövegrésze a 194/2021. (IV. 26.) Korm. rendelet 14. § d) pontja, a 233/2021. (V. 6.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^26]: A 9. § (1) bekezdés nyitó szövegrésze a 194/2021. (IV. 26.) Korm. rendelet 14. § d) pontja, a 233/2021. (V. 6.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
