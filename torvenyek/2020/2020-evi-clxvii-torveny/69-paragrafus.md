@@ -1,3 +1,5 @@
 ## 7. A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény módosítása
 
-69. §
+69. § A népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény (a továbbiakban: Nsztv.) 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a szervező az aláírásgyűjtést az országgyűlési képviselők, az Európai Parlament tagjai, a helyi önkormányzati képviselők és polgármesterek vagy a nemzetiségi önkormányzati képviselők általános választásának napját megelőző negyvenedik napig nem fejezi be, az addig összegyűjtött aláírásokat tartalmazó és az aláírásokat nem tartalmazó aláírásgyűjtő íveket legkésőbb a szavazás napját megelőző harminckilencedik napon át kell adnia a Nemzeti Választási Irodának. E kötelezettség elmulasztása esetén a Nemzeti Választási Bizottság hivatalból eljárva bírságot szab ki. A bírság összege minden be nem nyújtott aláírásgyűjtő ív után nyolcszáz forint, de összesen nem haladhatja meg választópolgár esetében a kötelező legkisebb munkabér havi összegének ötszörösét, szervezet esetében tízszeresét.”
