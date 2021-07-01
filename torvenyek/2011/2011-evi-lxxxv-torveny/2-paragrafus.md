@@ -14,6 +14,8 @@
 
 5. bérgyártás: a megrendelő (bérgyártató) által a Magyarországon letelepedett természetes vagy jogi személy (a továbbiakban együtt: bérgyártó) részére ellenszolgáltatás nélkül – részben vagy egészben – rendelkezésére bocsátott anyagokból, félkész termékekből ellenszolgáltatás ellenében termékdíjköteles termék előállítása, amely során a bérgyártó anyagáramonként és termékáramonként legfeljebb a termékdíjköteles termék tömegében számított ötven százalékos mértéket meg nem haladóan adhat hozzá terméket a bérgyártató részére gyártott termékdíjköteles termékhez;
 
+5a. biológiailag lebomló műanyag: olyan műanyag, amely fizikai és biológiai bomlásra képes úgy, hogy végül szén-dioxiddá (CO2), biomasszává és vízzé bomoljon le, és amely a csomagolásra vonatkozó európai szabványokkal összhangban komposztálás és anaerob lebontás útján hasznosítható;
+
 6. csekély mennyiségű kibocsátó: a tárgyévben
 
 a) 30 kg akkumulátort,
@@ -22,9 +24,9 @@ b) csomagolószer termékkör esetén
 
 ba) 3000 kg üveget,
 
-bb) 300 kg – a műanyag bevásárló-reklám táska nélkül számított – műanyagot,
+bb) 300 kg – műanyag hordtasak nélkül számított – műanyagot,
 
-bc) 75 kg műanyag bevásárló-reklám táskát,
+bc) 75 kg műanyag hordtasakot,
 
 bd) 300 kg társított vagy rétegzett csomagolószert,
 
@@ -164,13 +166,19 @@ d) a 8711 vtsz. alá tartozó termék, kivéve a kerékpár segédmotorral felsz
 
 21. kiskereskedelmi értékesítés: a kereskedelemről szóló törvény szerinti kiskereskedelmi tevékenység;
 
-22–23.
+22. könnyű műanyag hordtasak: olyan műanyag hordtasak, amelynek falvastagsága 50 mikronnál kevesebb;
+
+23.
 
 24. külföld: az Európai Közösség Magyarországon kívüli állama és a harmadik ország;
 
-25. műanyag bevásárló-reklám táska: a csomagolásról és a csomagolási hulladék kezelésének részletes szabályairól szóló jogszabály szerinti fogyasztói (elsődleges) vagy gyűjtőcsomagolt, illetve csomagolatlanul forgalmazott termékek, áruk, reklámanyagok szállítására szolgáló, hajlékonyfalú műanyag hordtasak vagy hordtáska, a hajlékonyfalú műanyag hűtőtasak vagy hűtőtáska kivételével;
+24a. műanyag: a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH), az Európai Vegyianyag-ügynökség létrehozásáról, az 1999/45/EK irányelv módosításáról, valamint a 793/93/EGK tanácsi rendelet, az 1488/94/EK bizottsági rendelet, a 76/769/EGK tanácsi irányelv, a 91/155/EGK, a 93/67/EGK, a 93/105/EK és a 2000/21/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2006. december 18-i 1907/2006/EK európai parlamenti és tanácsi rendelet 3. cikk 5. pontja értelmében vett polimer, amelyhez esetleg adalékanyagokat vagy egyéb anyagokat is adtak és amely alkalmas a műanyag hordtasakok fő szerkezeti alkotóelemeként való felhasználásra, beleértve a biológiailag lebomló műanyagokat is;
+
+25. műanyag hordtasak: olyan, műanyagból készült, fogófüllel ellátott vagy fogófül nélküli hordtasak, amelyet az áruk vagy termékek értékesítési pontján biztosítanak a fogyasztók részére, a hajlékonyfalú műanyag hűtőtasak vagy hűtőtáska kivételével;
 
 25a. nagyméretű rögzített ipari szerszám: gépek, berendezések, illetve azok alkatrészeinek nagyméretű összessége, amelyek egy adott alkalmazás céljából működnek együtt, és amelyeket szakemberek állandó jelleggel egy adott helyen beüzemelnek, leszerelnek, használnak, illetve karbantartanak valamely ipari gyártó létesítményben vagy kutatási és fejlesztési létesítményben;
+
+25b. nagyon könnyű műanyag hordtasak: olyan műanyag hordtasak, amelynek falvastagsága 15 mikronnál kevesebb, és amelynek felhasználása higiéniai célokat szolgál, vagy amelyet ömlesztett élelmiszerek elsődleges csomagolására használnak azokban az esetekben, amikor az segít megelőzni az élelmiszer-pazarlást;
 
 26. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló törvény által meghatározott
 

@@ -6,7 +6,7 @@
 
 ## b) Csomagolószer
 
-## | | A | B | 1. | Anyagáram | Termékdíjtétel (Ft/kg) | 2. | Műanyag [a műanyag bevásárló-reklám táska és a teljes egészében megújuló forrásból származó alapanyagból (az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően) készült biológiai úton lebomló műanyag kivételével] | 57 | 3. | Műanyag bevásárló-reklám táska | 1900 | 4. | Társított (kivéve társított rétegzett italkarton) | 57 | 5. | Társított rétegzett italkarton | 19 | 6. | Fém (a fém ital-csomagolószer kivételével) | 19 | 7. | Fém ital-csomagolószer | 57 | 8. | Papír | 19 | 9. | Fa, természetes alapú anyag | 19 | 10. | Üveg | 19 | 11. | Egyéb | 57
+## | | A | B | 1. | Anyagáram | Termékdíjtétel (Ft/kg) | 2. | Műanyag (a műanyag hordtasak kivételével) | 57 | 3. | Műanyag hordtasak a biológiailag lebomló műanyagból készült műanyag hordtasak kivételével | 1900 | 4. | Biológiailag lebomló műanyagból készült műanyag hordtasak | 500 | 5. | Társított (kivéve társított rétegzett italkarton) | 57 | 6. | Társított rétegzett italkarton | 19 | 7. | Fém (a fém ital-csomagolószer kivételével) | 19 | 8. | Fém ital-csomagolószer | 57 | 9. | Papír | 19 | 10. | Fa, természetes alapú anyag | 19 | 11. | Üveg | 19 | 12. | Egyéb | 57
 
 ## c) Egyéb kőolajtermék
 

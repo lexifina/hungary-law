@@ -106,7 +106,7 @@ c) a belföldön hulladékká vált termék az újrafelhasználásra előkészí
 
 d) az elkülönített hulladék gyűjtésére szolgáló műanyag zsákot belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
 
-e) a teljes egészében megújuló forrásból származó alapanyagból és – az MSZ EN 13432:2002 szabvány, vagy azzal egyenértékű megoldás követelményeinek megfelelően – biológiai úton lebomló műanyagból készült termékdíjköteles terméket belföldön forgalomba hozza, saját célra felhasználja vagy készletre veszi;
+e)
 
 f) olyan reklámhordozó papírt hoz belföldön forgalomba, használ fel saját célra vagy vesz készletre,
 
