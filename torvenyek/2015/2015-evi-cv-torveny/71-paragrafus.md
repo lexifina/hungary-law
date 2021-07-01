@@ -10,7 +10,7 @@ c) meghatározza az értékesítésből származó bevétel, valamint és az ad�
 
 d) a családi vagyonfelügyelő, az adós, adóstárs és a hitelezők feladatait az adósságtörlesztés végrehajtása során.
 
-(2) Az adósságtörlesztési terv elkészítéséhez a családi vagyonfelügyelő indokolt esetben – az adós, adóstárs és a hitelezők bevonásával, az egyéb kötelezettek szükség szerinti értesítésével – az adós lakóhelye szerinti jegyzőtől környezettanulmányt is bekérhet. A környezettanulmánynak a 24. § alapján készült környezettanulmányhoz képest csak az esetleges változásokat kell tartalmaznia. A környezettanulmány elvégzésének részletes szabályait és az arról felvett jegyzőkönyv tartalmát e törvény végrehajtási rendelete tartalmazza.
+(2)
 
 (3) Az adósságtörlesztési terv összeállításánál az adós, adóstárs írásbeli kérelmére a családi vagyonfelügyelő az adós és a vele közös háztartásban élő közeli hozzátartozók lakhatását biztosító lakóingatlannak az adós tulajdonában való megtartására tesz javaslatot, ha az ingatlan e törvény és e törvény végrehajtási rendelete által meghatározott feltételek szerint a lakhatási feltételek megtartására szolgáló ingatlannak minősül, és
 

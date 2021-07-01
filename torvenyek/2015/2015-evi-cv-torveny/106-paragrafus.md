@@ -28,7 +28,7 @@ a) a bíróságon kívüli adósságrendezés során a főhitelező és az adós
 
 b) az adósságrendezés kezdeményezéséhez benyújtandó dokumentumok, űrlapok kötelező tartalmi elemeit, formátumát, formai követelményeit,
 
-c) az adósra, adóstársra vonatkozó környezettanulmány elvégzésével és a környezettanulmány kötelező tartalmával összefüggő részletes szabályokat, a Családi Csődvédelmi Szolgálatnak a környezettanulmány elvégzésében történő közreműködését, a környezettanulmányról felvett jegyzőkönyv tartalmát, a környezettanulmány elvégzéséért fizetendő díjat a környezettanulmány díjának viselésére vonatkozó szabályokat,
+c)
 
 d) a bíróság és a felek közötti elektronikus kapcsolattartás részletes szabályait – ideértve a regisztrációt, kézbesítést és más irattovábbítást is –,
 

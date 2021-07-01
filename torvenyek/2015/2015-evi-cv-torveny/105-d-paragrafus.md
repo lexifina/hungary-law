@@ -1,0 +1,3 @@
+105/D. § (1) E törvények a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosításáról szóló 2021. évi LXXXII. törvénnyel (a továbbiakban: 2021. évi LXXXII. törvény) megállapított rendelkezéseit – a (2) bekezdésben foglaltak kivételével – a 2021. évi LXXXII. törvény hatálybalépését követően kezdeményezett adósságrendezési eljárásokra kell alkalmazni.
+
+(2) E törvénynek a 2021. évi LXXXII. törvénnyel megállapított 45. § (3) bekezdését, 45. § (4)–(5) bekezdését és 72. § (1) bekezdését a 2021. évi LXXXII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

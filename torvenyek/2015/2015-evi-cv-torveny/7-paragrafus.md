@@ -4,7 +4,7 @@
 
 a) ha az adósnak – önálló adósi vagy adóstársi minőségében, adóstársaival együtt – összességében – kamattal, járulékokkal növelten – egy vagy több, összesen legalább 2 millió forint, de legfeljebb 60 millió forint közötti, hatósági vagy bírósági úton érvényesíthető tartozása van,
 
-b) az a) pont szerinti tartozások meghaladják az adós, adóstárs adósságrendezésbe tartozó vagyonát, de nem haladhatják meg az adós, adóstárs belföldön található vagy hozzáférhető vagyonának 200%-át, azzal, hogy ez utóbbi rendelkezés szempontjából a vagyonba beleértendő az adós, adóstárs öt évre számított, adósságrendezésbe vonható várható bevétele is, de nem tartozik bele a 6. § (2) bekezdésében meghatározott vagyon, illetve bevétel,
+b) az a) pont szerinti tartozások meghaladják az adós, adóstárs adósságrendezésbe tartozó vagyonának 80%-át, de nem haladhatják meg az adós, adóstárs belföldön található vagy hozzáférhető vagyonának 200%-át, azzal, hogy ez utóbbi rendelkezés szempontjából a vagyonba beleértendő az adós, adóstárs öt évre számított, adósságrendezésbe vonható várható bevétele is, de nem tartozik bele a 6. § (2) bekezdésében meghatározott vagyon, illetve bevétel,
 
 c) az a) pont szerinti tartozások legalább 80%-a az adós (adóstársak) által elismert vagy nem vitatott,
 

@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-105-00-00
 | 2020-07-01 | 2019. évi CXXII. törvény | 2015-105-00-00.13 |
 | 2020-08-13 | 2020. évi LXXX. törvény | 2015-105-00-00.14 |
 | 2021-01-01 | 2020. évi CLXV. törvény | 2015-105-00-00.15 |
+| 2021-07-01 | 2021. évi LXXXII. törvény | 2015-105-00-00.16 |
