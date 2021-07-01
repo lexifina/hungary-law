@@ -12,6 +12,8 @@ bb) a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti
 
 bc) a szociális szövetkezetben tagi munkavégzés keretében munkát végző tagot,
 
+bd) a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő, egyéb jogcímen – ide nem értve az f) pont és a (2) bekezdés szerint – biztosított tagját,
+
 c) álláskeresési támogatásban részesülő személy,
 
 d) egyéni vállalkozó,
