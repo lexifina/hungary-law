@@ -18,7 +18,7 @@ f) a hitelezőknek [ideértve a zálogjogosultat, az alzálogjog jogosultját, t
 
 g) a felszámoló nevét, székhelyét, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. §-a szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét, adószámát, valamint a felszámolóbiztos nevét, lakóhelyét, vagy a személyiadat- és lakcímnyilvántartásban szereplő értesítési címét, születési idejét, adóazonosító jelét, valamint anyja születési nevét;
 
-h) a 46. § (7) bekezdésében meghatározott elkülönített számla számát;
+h) a 46. § (7) bekezdésében meghatározott elkülönített számla számát és a 27/C. § (4) bekezdés a) pont ac) alpontja szerinti pénzforgalmi számla számát;
 
 i) ha az adós egyszemélyes társaság, az alapítója (tagja, részvényese) nevét és lakóhelyét (székhelyét);
 

@@ -1,3 +1,3 @@
 83/E. § Az adózást érintő egyes törvények módosításáról szóló 2012. évi LXIX. törvénnyel megállapított 57. § (1) bekezdés e) pontját és 57. § (6) bekezdését a hatálybalépés napját követően indult felszámolási eljárásokban kell alkalmazni.
 
-83/E. §
+### 83/E. §

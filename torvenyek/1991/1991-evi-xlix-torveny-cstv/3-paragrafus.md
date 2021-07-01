@@ -2,7 +2,7 @@
 
 a) gazdálkodó szervezet:
 
-aa) a magyarországi székhellyel rendelkező gazdasági társaság, közhasznú társaság, ügyvédi iroda, közjegyzői iroda, szabadalmi ügyvivői iroda, végrehajtói iroda, európai részvénytársaság, szövetkezet, lakásszövetkezet, európai szövetkezet, vízgazdálkodási társulat (a víziközmű-társulat kivételével), erdőbirtokossági társulat, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, egyéni cég, egyesülés – ideértve az európai gazdasági egyesülést is –, európai területi társulás, egyesület, alapítvány, valamint
+aa) a magyarországi székhellyel rendelkező gazdasági társaság, közhasznú társaság, ügyvédi iroda, közjegyzői iroda, szabadalmi ügyvivői iroda, végrehajtói iroda, európai részvénytársaság, szövetkezet, lakásszövetkezet, valamint európai szövetkezet, vízgazdálkodási társulat (a víziközmű-társulat kivételével), erdőbirtokossági társulat, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, egyéni cég, egyesülés – ideértve az európai gazdasági egyesülést is –, európai területi társulás, egyesület, alapítvány, valamint
 
 ab) mindazon egyéb jogi személy vagy jogi személyiséggel nem rendelkező, a személyes joga alapján gazdasági társaság vagy más, gazdasági tevékenységet folytató szervezet, amelynek a fő érdekeltségeinek központja – a fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet (a továbbiakban: 2015/848 EU rendelet) alapján – az Európai Unió területén található, és az ellene indítható fizetésképtelenségi eljárás a 2015/848 EU rendelet hatálya alá esik;
 
