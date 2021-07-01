@@ -2,7 +2,7 @@
 
 a) a származási perben,
 
-b) a szülői felügyelettel kapcsolatos perben,
+b) a szülői felügyelettel kapcsolatos és kapcsolattartási perben,
 
 c) a törvényen alapuló tartással kapcsolatos perben, ideértve a tartásdíjnak a kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a tartásdíj megszüntetése vagy összegének megváltoztatása, a tartásdíjra irányuló végrehajtás megszüntetése vagy korlátozása iránti pert, továbbá a határon átnyúló tartási ügyben a tartásra kötelezett adatainak beszerzése iránti eljárást is,
 
