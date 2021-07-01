@@ -34,7 +34,7 @@ b) az (1) bekezdés a) pont ab)–af) alpontjában vagy b) pont bb) alpontjában
 
 (5) Az (1), illetve a (3) bekezdés alapján megállapított gyermekgondozási díj havi összege
 
-a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes kötelező legkisebb munkabér,
+a) a felsőfokú alapképzésben, felsőfokú szakképzésben vagy felsőoktatási szakképzésben, valamint a szakirányú továbbképzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes minimálbér,
 
 b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésben részt vevő hallgató esetén a jogosultság kezdő napján érvényes garantált bérminimum
 
@@ -46,6 +46,6 @@ b) a mesterképzésben, egységes, osztatlan képzésben vagy doktori képzésbe
 
 (8) Ha az (1) vagy a (3) bekezdés alapján gyermekgondozási díjra jogosult személy az (1) bekezdés a) pont ab) alpontja szerinti hallgatói jogviszony megszűnését követő 1 éven belül válik jogosulttá az ellátásra és az ellátás összege nem állapítható meg a (6) bekezdés alapján, a gyermekgondozási díj összegét az (5) bekezdés a) vagy b) pontja szerint kell megállapítani.
 
-(9) Az (5) és a (6) bekezdés alapján megállapított gyermekgondozási díj összegét minden év január 15-éig hivatalból felül kell vizsgálni és a tárgyévre érvényes kötelező legkisebb munkabér, illetve garantált bérminimum figyelembevételével január 1-jei időponttól újra meg kell állapítani.
+(9) Az (5)–(8) bekezdés alapján megállapított gyermekgondozási díj összegét a minimálbér, illetve a garantált bérminimum emelésének napjától számított 15 napon belül hivatalból felül kell vizsgálni, és a megemelt minimálbér, illetve garantált bérminimum figyelembevételével, – ha kormányrendelet korábbi időpontot nem állapít meg – az emelés napjára visszamenőlegesen újra meg kell állapítani.
 
 (10) Az (1)–(9) bekezdés szerint megállapított gyermekgondozási díjra a 42/B–42/D. § rendelkezései közül azokat kell alkalmazni, amelyektől eltérő rendelkezést az (1)–(9) bekezdés nem tartalmaz.

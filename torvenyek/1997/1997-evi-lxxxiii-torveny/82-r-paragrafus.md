@@ -1,0 +1,1 @@
+82/R. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvénynek a csecsemőgondozási díj emelésével összefüggő módosításáról szóló 2020. évi CXXXIV. törvény által megállapított 42. § (1) bekezdés a) és b) pontját a 2021. július 1-jén fennálló jogosultságra is alkalmazni kell.

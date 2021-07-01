@@ -10,7 +10,7 @@
 
 a) csecsemőgondozási díj esetén a 42. § (3) bekezdése szerinti összeget,
 
-b) gyermekgondozási díj esetén a 48. § (4) bekezdése szerinti összeget,
+b) gyermekgondozási díj esetén a 42/D. § (1) bekezdése szerinti összeget,
 
 c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (7) bekezdése szerinti összeget.
 

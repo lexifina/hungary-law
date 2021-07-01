@@ -2,11 +2,11 @@
 
 a)
 
-b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, az álláskeresési járadékot és segélyt, a vállalkozói és a munkanélküli járadékot, valamint az álláskeresést ösztönző juttatást, vagy ha a jogosult rendszeres pénzellátásban részesül és a csecsemőgondozási díjra, az örökbefogadói díjra, vagy a gyermekgondozási díjra való jogosultság kezdő napján társadalombiztosítási járulék fizetésére kötelezett;
+b) a jogosult a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés i) pontjában meghatározott egyéb rendszeres pénzellátásban részesül, ide nem értve a táppénzt, a baleseti táppénzt, a csecsemőgondozási díjat, az örökbefogadói díjat, a gyermekgondozási díjat, a gyermekgondozási támogatást, a jogosult nem ugyanazon gyermekére tekintettel megállapított gyermekek otthongondozási díját, a Tbj. szerinti álláskeresési támogatást, a rokkantsági ellátást és a rehabilitációs ellátást;
 
 c) a gyermeket ideiglenes hatállyal elhelyezték, nevelésbe vették, továbbá ha harminc napot meghaladóan bentlakásos szociális intézményben helyezték el;
 
-d) a gyermeket napközbeni ellátást biztosító intézményben (bölcsőde, mini bölcsőde, munkahelyi bölcsőde, családi bölcsőde, napközbeni gyermekfelügyelet) helyezték el, kivéve ha a jogosult keresőtevékenységet folytat, továbbá ide nem értve a rehabilitációs, habilitációs foglalkozást nyújtó intézményi elhelyezést;
+d) a gyermeket bölcsődében, mini bölcsődében, munkahelyi bölcsődében, családi bölcsődében vagy napközbeni gyermekfelügyeletben helyezték el, kivéve, ha a jogosult keresőtevékenységet folytat, nappali rendszerű oktatás keretében iskolában, szakképző intézményben tanul, vagy felsőoktatási intézményben nappali képzésben vesz részt, vagy az intézmény, ahol a gyermeket elhelyezték, rehabilitációs, habilitációs foglalkoztatást nyújt;
 
 e) a jogosult letartóztatásban van, vagy szabadságvesztést, elzárást tölt;
 

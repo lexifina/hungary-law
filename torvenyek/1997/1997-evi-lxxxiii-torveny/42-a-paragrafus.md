@@ -16,7 +16,7 @@ b) a Gyvtv. 84. §-a szerinti gyermekvédelmi gyám és
 
 c) a nevelőszülő, függetlenül attól, hogy a nála elhelyezett, gyermekvédelmi gondoskodás alatt álló gyermek tekintetében kirendelték-e gyámként.
 
-(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszonya mellett egyidejűleg fennálló Tbj. 6. §-a szerinti biztosítási jogviszonnyal rendelkezik és ezen jogviszonyában azon nevelt gyermekére tekintettel válik jogosulttá gyermekgondozási díjra, amelyre a 42/F. § szerinti gyermekgondozási díj került megállapításra, az (1) bekezdés a) pontja alkalmazásakor a nevelőszülőt szülőnek kell tekinteni azzal, hogy az ellátásra való jogosultság kezdőnapját a nevelőszülő valamennyi biztosítási jogviszonya tekintetében a 42/F. § (4) bekezdése szerint kell megállapítani.
+(3) Ha a nevelőszülő a nevelőszülői foglalkoztatási jogviszonya mellett egyidejűleg fennálló Tbj. 6. §-a szerinti biztosítási jogviszonnyal rendelkezik és ezen jogviszonyában azon nevelt gyermekére tekintettel válik jogosulttá gyermekgondozási díjra, amelyre a 42/F. § szerinti gyermekgondozási díj került megállapításra, az (1) bekezdés a) pontja alkalmazásakor a nevelőszülőt szülőnek kell tekinteni azzal, hogy az ellátásra való jogosultság kezdőnapját a nevelőszülő valamennyi biztosítási jogviszonya tekintetében a 42/F. § (4) bekezdése szerint kell megállapítani, és a 365 nap biztosítási idő meglétét a nevelésbe vett gyermek gondozási helyének a nevelőszülőnél történő kijelölését megelőző két éven belül kell vizsgálni.
 
 (4) A gyermekgondozási díjra történő jogosultsághoz szükséges előzetes 365 napi biztosítási időbe be kell számítani
 

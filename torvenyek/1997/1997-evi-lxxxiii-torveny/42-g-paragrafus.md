@@ -1,4 +1,4 @@
-42/G. § (1) A gyermekgondozási díjra a 42/A. § (1) bekezdése alapján jogosult személy (e § alkalmazásában a továbbiakban: alapjogosult) jogán annak vagy az alapjogosulttal együtt élő házastársának – ide nem értve a családbafogadó gyám házastársát – vér szerinti és örökbe fogadó biztosított szülője, továbbá a biztosított szülővel együtt élő biztosított házastárs (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási díjra, ha
+42/G. § (1) A gyermekgondozási díjra a 42/A. § (1) bekezdése alapján jogosult személy (e § alkalmazásában a továbbiakban: alapjogosult) jogán annak vagy az alapjogosulttal együtt élő házastársának – ide nem értve a családbafogadó gyám házastársát – vér szerinti és örökbe fogadó biztosított szülője, továbbá a szülővel együtt élő biztosított házastárs (a továbbiakban együtt: nagyszülő) is jogosult a gyermekgondozási díjra, ha
 
 a) a nagyszülő a gyermek születését megelőző két éven belül legalább 365 napon át biztosított volt,
 

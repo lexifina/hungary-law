@@ -8,7 +8,7 @@ ba) betegszabadságra jogosultak esetén az ellátásra való jogosultság kezd�
 
 bb) egészségügyi szabadságra jogosultak esetében az ellátásra való jogosultság kezdő napjának hónapjára számított, egészségügyi szabadság idejére járó távolléti díj,
 
-bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes minimálbér,
+bc) egyéni és társas vállalkozók esetében a jogosultság kezdő napján érvényes kötelező legkisebb munkabér (a továbbiakban: minimálbér),
 
 bd) a Tbj. 6. § (1) bekezdés f) pontja esetében a 30 napot meg nem haladó biztosítási jogviszony esetén az ellátásra való jogosultság kezdő napján érvényes minimálbér, egyéb esetben a jogviszony alapjául szolgáló szerződésben meghatározott díj,
 

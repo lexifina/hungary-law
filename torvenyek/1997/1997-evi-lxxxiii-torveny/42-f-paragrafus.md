@@ -1,4 +1,4 @@
-42/F. § (1) A 42/A. § (1) bekezdésében és a 42/E. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállásának időtartama alatt a nevelt gyermekre tekintettel, ha a nevelőszülő a nevelt gyermek nevelésbe vételét megelőző két éven belül 365 napon át biztosított volt és a gyermeket saját háztartásában neveli.
+42/F. § (1) A 42/A. § (1) bekezdésében és a 42/E. § (1) bekezdésében foglaltakon túl gyermekgondozási díjra jogosult a nevelőszülő a nevelőszülői foglalkoztatási jogviszony fennállásának időtartama alatt a nevelésbe vett gyermekre tekintettel, ha a nevelőszülő a nevelt gyermek gondozási helyének nála történő kijelölését megelőző két éven belül 365 napon át biztosított volt és a gyermeket saját háztartásában neveli.
 
 (2) A gyermek születését követő 169. napot megelőzően a nevelőszülő részére nem jár az (1) bekezdés szerinti gyermekgondozási díj arra az időszakra, amikor a nevelőszülő bármilyen jogviszonyban – ide nem értve a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenységet – keresőtevékenységet folytat.
 
