@@ -30,4 +30,4 @@ g) akinek ügyvédi kamarával szemben legalább a kamarai szabályzatban meghat
 
 (2) Az erről szóló határozat jogerőre emelkedését követő három évig nem folytathat ügyvédi tevékenységet az, akivel szemben jogerősen megállapították, hogy jogosulatlanul folytatott rendszeresen és ellenérték fejében ügyvédi tevékenységet.
 
-(3) Az (1) bekezdés c) pont ca) és cb) alpontja kegyelmi mentesítés esetén nem alkalmazható.
+(3) Az (1) bekezdés c) pont ca)–cc) alpontja kegyelmi mentesítés esetén nem alkalmazható.

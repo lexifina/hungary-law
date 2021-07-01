@@ -12,7 +12,7 @@ d) az okiratszerkesztés,
 
 e) az okirat ellenjegyzése,
 
-f) az a)–e) pont szerinti ügyvédi tevékenységgel összefüggésben a szerkesztett okiratok és mellékleteik elektronikus okirati formába alakítása,
+f) az a)–e) pont szerinti ügyvédi tevékenységgel összefüggésben a szerkesztett okiratok és mellékleteik elektronikus másolattá vagy elektronikus okirati formába alakítása (a továbbiakban együtt: elektronikus okirati formába alakítás),
 
 g) az a)–f) pont szerinti ügyvédi tevékenységgel összefüggésben letét kezelése.
 
