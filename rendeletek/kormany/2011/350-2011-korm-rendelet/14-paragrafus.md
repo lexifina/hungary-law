@@ -1,6 +1,6 @@
-14. §[^7]
+14. §[^8] E rendeletnek a civil szervezetek gazdálkodása, az adománygyűjtés és a közhasznúság egyes kérdéseiről szóló 350/2011. (XII. 30.) Korm. rendelet módosításáról szóló 379/2021. (VI. 30.) Korm. rendelettel megállapított 12/A. §-át a 2020. december 31-ét követően induló üzleti évre vonatkozó beszámolóra kell először alkalmazni.
 
-Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^8]
+Melléklet a 350/2011. (XII. 30.) Korm. rendelethez[^9]
 
 Közhasznúsági melléklet – minta –
 
@@ -88,5 +88,5 @@ Közhasznúsági melléklet – minta –
 
 * Adatok ezer forintban.
 
-[^7]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 88/2014. (III. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^8]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 379/2021. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A melléklet a 142/2012. (VII. 3.) Korm. rendelet 10. § (4) bekezdésével megállapított, a 88/2014. (III. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
