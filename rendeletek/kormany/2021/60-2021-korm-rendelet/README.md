@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-60-20-2
 | 2021-06-12 | 2021-60-20-22.7 | 336/2021. (VI. 11.) Korm. rendelet |
 | 2021-06-15 | 2021-60-20-22.8 | 334/2021. (VI. 10.) Korm. rendelet |
 | 2021-06-28 | 2021-60-20-22.9 | 247/2021. (V. 14.) Korm. rendelet |
+| 2021-07-01 | 2021-60-20-22.10 | 366/2021. (VI. 30.) Korm. rendelet |
