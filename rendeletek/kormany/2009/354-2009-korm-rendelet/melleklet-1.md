@@ -1,6 +1,8 @@
+## 8/A. §[^14] A munkavédelmi hatóság engedélye alapján munkabiztonsági szakértői tevékenységre jogosult munkabiztonsági szakértőt a lakóhelye szerinti, a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott illetékes területi mérnöki kamara – e § hatálybalépését követő 30. napig a munkavédelmi hatóság által vezetett nyilvántartásból – felveszi a munkabiztonsági szakértők nyilvántartásába.
+
 1. számú melléklet a 354/2009. (XII. 30.) Korm. rendelethez
 
-## Munkabiztonsági szakértői szakterületek
+Munkabiztonsági szakértői szakterületek
 
 1. Állattenyésztés technológiája és eszközeinek biztonsága
 
@@ -51,3 +53,5 @@
 24. Üzem- és munkaszervezés
 
 25. Munkavédelem gazdasági elemzése
+
+[^14]: A 8/A. §-t a 356/2021. (VI. 24.) Korm. rendelet 13. §-a iktatta be.
