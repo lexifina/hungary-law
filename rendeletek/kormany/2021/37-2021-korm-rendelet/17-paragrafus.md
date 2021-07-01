@@ -2,6 +2,4 @@
 
 (2) Ez a rendelet a konfliktusok által érintett és nagy kockázatot jelentő térségekből származó ón, tantál, volfrám, ezek ércei és arany uniós importőrei körében a kellő gondosság elvének megfelelő ellátási láncra vonatkozó kötelezettségek megállapításáról szóló, 2017. május 17-i (EU) 2017/821 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^18]
-
-[^18]: A 17. § (3) bekezdése a 16. § (4) bekezdése alapján 2021. július 1-jén lép hatályba.
+(3) Ez a rendelet az elektromos motorokra és a frekvenciaváltókra vonatkozó környezettudatos tervezési követelményeknek a 2009/125/EK európai parlamenti és tanácsi irányelv szerinti megállapításáról, a 641/2009/EK rendeletnek a tömszelence nélküli önálló keringetőszivattyúkra és a termékbe beépített tömszelence nélküli keringetőszivattyúkra vonatkozó környezettudatos tervezési követelmények tekintetében történő módosításáról és a 640/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. október 1-i (EU) 2019/1781 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
