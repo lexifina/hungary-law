@@ -1,3 +1,3 @@
-5–7. §[^24]
+5–7. §[^28]
 
-[^24]: Az 5–7. §-t a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^28]: Az 5–7. §-t a 327/2006. (XII. 23.) Korm. rendelet 12. § (3) bekezdésének a) pontja hatályon kívül helyezte.

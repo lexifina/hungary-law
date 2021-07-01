@@ -1,3 +1,3 @@
-25. §[^76]
+25. §[^80]
 
-[^76]: A 25. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.
+[^80]: A 25. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § i) pontja hatályon kívül helyezte.
