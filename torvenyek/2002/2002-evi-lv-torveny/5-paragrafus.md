@@ -1,6 +1,6 @@
 5. § (1) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti bejelentés alapján a névjegyzékbe fel kell venni azt a – cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt nem álló – természetes személyt, aki
 
-a) felsőfokú végzettséggel és a végzettség megszerzésétől számított, annak megfelelő legalább ötéves igazolt szakmai gyakorlattal rendelkezik,
+a) felsőfokú végzettséggel és a végzettség megszerzésétől számított, felsőfokú végzettséghez kötött legalább ötéves igazolt szakmai gyakorlattal rendelkezik,
 
 b) a miniszter rendeletében meghatározott közvetítői szakmai képzést elvégezte,
 
@@ -17,3 +17,5 @@ b) van közvetítői tevékenység folytatására feljogosított tagja, vagy mun
 (4) A természetes személy a jogszabályban meghatározott módon köteles igazolni, hogy a közvetítői tevékenységhez szükséges elméleti és gyakorlati ismereteket a közvetítői szakmai képzés elvégzésével elsajátította.
 
 (5) Vizsgálat alapján történő törlés esetén a természetes személy és jogi személy a törlésről szóló határozat véglegessé válásától számított öt évig nem vehető fel a névjegyzékbe.
+
+(6) Ha a természetes személyt azért kell törölni a névjegyzékből, mert a továbbképzésre vonatkozó kötelezettségének nem tesz eleget, a természetes személy mindaddig nem vehető fel ismételten a névjegyzékbe, amíg az elmaradt továbbképzési kötelezettségét nem teljesíti.

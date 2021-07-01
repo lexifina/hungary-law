@@ -48,8 +48,8 @@ f) névjegyzékbe vételének időpontját, a határozat számát.
 
 (2a) Az (1) és (2) bekezdés szerinti névjegyzék – az (1) bekezdés a)–c), k) és m) pontjában, valamint a (2) bekezdés a)–c) pontjában foglalt adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(3) A névjegyzék adatai – a 6. § (1) bekezdés b), k), l) pontjaiban foglaltak kivételével – nyilvánosak, amelyeket a miniszter a világhálón tesz közzé.
+(3) A névjegyzék adatai – a 6. § (1) bekezdés b) és k) pontjában foglaltak kivételével – nyilvánosak, amelyeket a miniszter a világhálón tesz közzé.
 
-(4) A nyilvános adatok jogszabályban meghatározott körét a miniszter a Hivatalos Értesítőben is közzéteszi.
+(4)
 
 (5) A névjegyzékben kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
