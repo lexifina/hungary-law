@@ -1,4 +1,4 @@
-## 3. §[^1]
+## 3. §[^3]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–2. § 2021. június 30. napján lép hatályba.
 
-[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
