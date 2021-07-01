@@ -12,9 +12,11 @@ ha a jogosult 2011 decemberére járó szolgálati nyugdíjának havi összege e
 
 a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alkalmatlanság miatt került sor és az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegét a jogviszony megszüntetésekor minősítő határozattal megállapították,
 
-b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát, vagy
+b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát,
 
-c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig.
+c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig, vagy
+
+d) a jogosult a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 29/D. § (3) bekezdése alapján négy vagy több gyermeket nevelő anyának minősül.
 
 (4) Ha a személyi jövedelemadó mértéke megváltozik, a (2) bekezdés szerint csökkentett szolgálati járandóság folyósított összegét módosítani kell.
 
