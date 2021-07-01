@@ -1,4 +1,4 @@
-9. § (1) A járműnyilvántartás tartalmazza a járműtulajdonos (üzemben tartó):
+9. § (1) A járműnyilvántartás tartalmazza a járműtulajdonos (üzembentartó), az állami vagyonkezelő és a lízingbevevő:
 
 a) természetes személyazonosító adatát,
 
@@ -8,41 +8,23 @@ c) állampolgárságát (hontalanságát),
 
 d) a nem természetes személy
 
-da) megnevezését,
+da) megnevezését és rövidített elnevezését
 
-db) székhelyének (telephelyének) címét,
+db) székhelyének, telephelyének, fióktelepének címét, és az elektronikus kézbesítési címét,
 
 dc) cégjegyzék-, vagy nyilvántartási számát,
 
-e) tulajdonjoga és üzembentartói joga kezdetének, valamint megszűnésének időpontját.
+e) tulajdonjoga és üzembentartói joga, az állami vagyonkezelő vagyonkezelői joga, valamint lízing esetén a jogviszony kezdetének, valamint megszűnésének időpontját.
 
-(1a) A járműnyilvántartás tulajdonjog változás esetén – a tulajdonszerző bejelentéséig – tartalmazza a járműnyilvántartásba bejegyzett tulajdonos (tulajdonjog átruházó) által a 33. § (6) bekezdésében meghatározott tulajdon átruházási szerződés alapján teljesített bejelentésben foglaltak szerint a tulajdonszerzőre vonatkozó, az (1) bekezdésben meghatározott adatokat, a tulajdonjog-átruházás időpontját, valamint a bejelentés tényét és időpontját.
+(1a) A járműnyilvántartás tulajdonjog változás esetén tartalmazza a járműnyilvántartásba bejegyzett tulajdonos (tulajdonjog átruházó) által a 33. § (6) bekezdésében meghatározott tulajdon átruházási szerződés alapján teljesített bejelentésben foglaltak szerint a tulajdonszerzőre vonatkozó, az (1) bekezdésben meghatározott adatokat, a tulajdonjog-átruházás időpontját, valamint a bejelentés tényét és időpontját.
 
 (1b) A járműnyilvántartás tartalmazza a bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdonjog tényét.
 
-(1c) A járműnyilvántartás a jármű származás-ellenőrzése tekintetében tartalmazza
+(1c)
 
-a) a jármű származását igazoló okmányok adatait,
+(1d)
 
-b) a származás ellenőrzésének eredményét.
-
-(1d) A járműnyilvántartás a jármű előzetes eredetiségvizsgálata tekintetében tartalmazza
-
-a) a kérelmező nevét, lakcímét, születési helyét és idejét, továbbá a személyazonosításra használt okmány fajtáját és számát,
-
-b) a közreműködő megnevezését, azonosítóját, adószámát, fizetési számlájának számát, cégjegyzékszámát, székhelyét, továbbá vizsgálóállomásainak címét és azonosítóját, valamint a cégvezető adatait,
-
-c) a vizsgáló természetes személyazonosító adatát, lakcímét, valamint a nyilvántartó által képzett jogosultságazonosítóját,
-
-d) az előírások szerint mért és azonosított egyedi azonosító, valamint rögzített képi adatokat,
-
-e) az okmányok adattartalmának, valamint a jármű egyedi azonosítójának egyezőségére vagy eltérésére vonatkozó megállapításokat,
-
-f) az egyedi azonosítók eredetiségére és valódiságára vonatkozó megállapításokat,
-
-g) az előzetes eredetiségvizsgálat során megállapított minősítést, annak indokolását, valamint az erről kiállított hatósági bizonyítvány sorszámát,
-
-h) a jogszabályban meghatározott minősítés esetén szükséges egyéb hatósági intézkedéseket, azok idejét, az ügyintézőnek a nyilvántartó által képzett jogosultságazonosítóját.
+(1e) A járműnyilvántartás a járműtulajdonos (üzembentartó) (1) bekezdés a)–d) pontjában foglalt adatai tekintetében a járműokmány kiállításkori és aktuális adatait tartalmazza.
 
 (2) A járműnyilvántartás a külön jogszabályban meghatározottak szerint tartalmazza a jármű
 
@@ -62,7 +44,19 @@ g) kilométerszámláló műszere által jelzett értéket (kilométeróra-áll�
 
 h) kerékpárszállító eszközre kiadott különleges rendszámtáblájának adatait.
 
-(3) A járműnyilvántartás tartalmazza a külön jogszabályban meghatározottak szerint a régi tulajdonos (átruházó) tulajdonjog-változáshoz kapcsolódó bejelentési kötelezettség-teljesítésének időpontját.
+(2a) A járműnyilvántartás tartalmazza a járműre vonatkozó kötvénynyilvántartásban rögzített
+
+a) ajánlati azonosítót,
+
+b) biztosító nevét,
+
+c) kötvényszámot,
+
+d) szerződés és kockázatviselés kezdetét és végét, és
+
+e) szerződő fél megnevezését.
+
+(3)
 
 (4) A járműtulajdonos (üzemben tartó) kérésére a járműnyilvántartás tartalmazza a járműtulajdonos (üzemben tartó) rövid szöveges üzenet fogadására szolgáló elérhetőségét, telefonszámát vagy elektronikus levélcímét.
 

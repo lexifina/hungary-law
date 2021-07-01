@@ -14,7 +14,7 @@ ea)
 
 eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/D. § (1) bekezdés a)–c) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
-f) az adóhatóság az adóigazgatási eljáráshoz a 8. § (1) bekezdés a) pont aa) és ab) alpontjában, a b) pont ba) és bc) alpontjában, a 9. § (1)–(1c) bekezdésében és (2)–(6a) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat;
+f) az adóhatóság az adóigazgatási eljáráshoz a 8. § (1) bekezdés a) pont aa) és ab) alpontjában, a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) és (2)–(6a) bekezdésében, 9/A. § (1) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat;
 
 g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás során a 8. § (1) bekezdés a) pont aa) és ab) alpontjában és b) pont ba), bc) és bd) alpontjában meghatározott adatokat;
 
@@ -30,7 +30,7 @@ j) nemzetközi bűnüldözési szervezet a Nemzetközi Bűnügyi Együttműköd�
 
 k) külföldi bűnüldöző szerv nemzetközi szerződés alapján;
 
-l) a gépjármű-felelősségbiztosítást ellátó biztosító a kárrendezési eljáráshoz a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
+l) a térítésmentesen a gépjármű-felelősségbiztosítást ellátó biztosító a biztosítási szerződés megkötéséhez, nyilvántartásához, módosításához, megszüntetéséhez, továbbá a kárrendezési eljáráshoz, valamint a Magyar Biztosítók Szövetsége a Gfbt. 56. § (1) bekezdése szerinti feladatainak ellátásához a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, d) pont da)–db) alpontjában, a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
 m) az Országgyűlési Őrség a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat;
 
@@ -40,11 +40,11 @@ o) a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatá
 
 p) az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjfizetés ellenében történő használatának ellenőrzésére, valamint a díjszedésre jogosult szervezetek törvényben meghatározott feladataik ellátásához a 9. § (1) és (1a) bekezdésében, (2) bekezdés a), b), d) és e) pontjában, (3) bekezdésében, a 9/C. §-ban, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
-q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (3)–(4) bekezdése, valamint a 9/D. § (1) bekezdése szerinti adatokat;
+q) az országos közutak kezelői a közúti közlekedésről szóló 1988. évi I. törvény 14/A. §-ában meghatározott feladatuk ellátásához a 9. § (1)–(1a) és (4) bekezdése, valamint a 9/D. § (1) bekezdése szerinti adatokat;
 
-r) az országos közutak kezelői a Kkt. 15. § (1) bekezdésében meghatározott közútkezelői hozzájárulás kiadására és a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésben, a (2) bekezdés a)–b) és d)–e) pontjában, a (3) bekezdésében, a 9/C. § (1) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
+r) az országos közutak kezelői a Kkt. 15. § (1) bekezdésében meghatározott közútkezelői hozzájárulás kiadására és a megengedett legnagyobb össztömeget, tengelyterhelést és méretet meghaladó járművek ellenőrzésére vonatkozó feladataik ellátásához a 9. § (1)–(1a) bekezdésében, a (2) bekezdés a) és b), valamint d) és e) pontjában, a 9/C. § (1) bekezdésében, a 9/D. § (1) bekezdésében, (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
 
-s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1)–(1a) és (3) bekezdésben, valamint a 9/D. § (1) bekezdésében megjelölt adatokat,
+s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jogosult, valamint a közfeladat ellátására jogosulttal a Kkt. 9/D. § (4) bekezdése alapján szerződött szervezet feladatai ellátásához a 9. § (1) és (1a) bekezdésében, valamint a 9/D. § (1) bekezdésében megjelölt adatokat,
 
 t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása, vagy a névváltozási eljárással összefüggő feladatainak ellátása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 
@@ -54,7 +54,7 @@ v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli 
 
 w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
 
-z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1), (1a) és (3) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
+z) a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő a természetes személyek adósságrendezéséről szóló törvény szerinti feladataik ellátásához a járműtulajdonos (üzembentartó) 9. § (1) és (1a) bekezdésében meghatározott adatait és a tulajdonosváltozásra vonatkozó adatokat, és csoportos adatszolgáltatást a természetes személy mint járműtulajdonos járműveire a 9. § (2) bekezdésben felsorolt adatokat.
 
 (2) A nyilvántartásból adatot igényelhetnek:
 
@@ -66,7 +66,7 @@ ab) a közúti közlekedés ellenőrzésére jogosult hatóságok a közúti kö
 
 b) a hivatásos katasztrófavédelmi szerv, a megyei, fővárosi védelmi bizottság elnöke és a polgármester törvényben meghatározott polgári védelmi feladatai ellátásához a 8. § (1) bekezdés a) pont ac), ad), ag), ah) alpontjában és a 9. § (1) bekezdés c) pontjában, és d) pont dc) alpontjában meghatározott adatok kivételével;
 
-c) a közlekedési hatóság a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1c) és (1d) bekezdésében, a 9. § (2) bekezdés a), d) és e) pontjában meghatározott nyilvántartási adatok kivételével
+c) a közlekedési hatóság a 9. § (1) bekezdés a) és b) pontjában, a 9/A. és 9/B. §-ban, a 9. § (2) bekezdés d) és e) pontjában meghatározott nyilvántartási adatok kivételével
 
 ca) a közúti járművezető és közúti közlekedési szakember képzési, utánképzési, pályaalkalmassági és vizsgáztatási tevékenység ellenőrzésével és felügyeletével kapcsolatos feladatai ellátása tekintetében a 8. §-ban meghatározott adatokat,
 

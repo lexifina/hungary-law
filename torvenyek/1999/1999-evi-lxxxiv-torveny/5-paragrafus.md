@@ -22,15 +22,15 @@ bc) a ba) és bb) alpontban meghatározott esetekben gondoskodik a törzskönyv 
 
 bd) jogszabályban meghatározott esetekben gondoskodik a törzskönyv ügyfél részére történő kiadásáról;
 
-c) a jármű forgalomban tarthatóságát igazoló okmány kapcsán:
+c) a jármű nyilvántartásba vételét igazoló okmány kapcsán:
 
-ca) ellenőrzi a jármű forgalomban tarthatóságát igazoló okmány kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
+ca) ellenőrzi a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány kiállítására, cseréjére, pótlására irányuló kérelem teljesítésének feltételeit,
 
-cb) eljár a jármű forgalomban tarthatóságát igazoló okmány kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor az állandó forgalmi engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
+cb) eljár a jármű nyilvántartásba vételét igazoló okmány kiállítása, cseréje, pótlása ügyében azokban az esetekben, amikor az állandó forgalmi engedély automatikus kiállításának nincs helye, vagy az bármely okból akadályozott,
 
-cc) a ca) és cb) alpontban meghatározott esetekben gondoskodik a jármű forgalomban tarthatóságát igazoló okmány kiállításáról,
+cc) a ca) és cb) alpontban meghatározott esetekben gondoskodik a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány kiállításáról,
 
-cd) jogszabályban meghatározott esetekben gondoskodik a jármű forgalomban tarthatóságát igazoló okmány ügyfél részére történő kiadásáról;
+cd) jogszabályban meghatározott esetekben gondoskodik a jármű nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmány ügyfél részére történő kiadásáról;
 
 d) ellátja az a)–c) és i) pontokban megjelölt okmányok kiadásával kapcsolatos hatáskörébe utalt adatkezelési feladatokat;
 
@@ -49,6 +49,8 @@ j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak szá
 k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
 
 (1a) A közlekedési igazgatási hatóság és a nyilvántartó a hatáskörébe tartozó okmánykiállításra irányuló eljárás során a személyiadat- és lakcímnyilvántartásból közvetlen hozzáférés útján, az érintett személy azonosítása céljából adatot igényel a személyazonosító igazolvány adatairól, valamint az érintett lakcíméről.
+
+(1b) A közlekedési igazgatási hatóság és a nyilvántartó a hatáskörébe tartozó okmánykiállításra irányuló eljárás során az útiokmány-nyilvántartásból közvetlen hozzáférés útján, az érintett személy azonosítása céljából adatot igényel az útiokmány adatairól.
 
 (2) A Kormány által rendeletben kijelölt közlekedési igazgatási hatóság
 

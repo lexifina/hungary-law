@@ -1,6 +1,6 @@
 24. § (1) A 21. § a) pontjában meghatározott kérelmezők részére az engedély- és a parkolási igazolvány nyilvántartásából adatok akkor szolgáltathatók, ha a kérelem a járművezető, illetve a parkolási igazolvány használatára jogosult természetes személy személyazonosító adatát, vagy a parkolási igazolvány használatára jogosult intézmény megnevezését is tartalmazza.
 
-(2) A 21. § a) pontjában meghatározott kérelmezők részére a jármű tulajdonos (üzembentartó) adatai akkor szolgáltathatók, ha a kérelemben megjelölt járműazonosító adatok vagy a gépjármű gyártmánya és rendszáma a nyilvántartásban szereplő adatokkal megegyezik.
+(2) A 21. § a) pontjában meghatározott kérelmezők részére a jármű tulajdonos (üzembentartó), állami vagyonkezelő, lízingbevevő, továbbá az ideiglenes rendszámtábla, valamint annak jogosultja adatai akkor szolgáltathatók, ha a kérelemben megjelölt járműazonosító adatok vagy a gépjármű gyártmánya és rendszáma a nyilvántartásban szereplő adatokkal megegyezik.
 
 (3) A kérelemben megjelölt célt nem kell igazolni, ha az
 
@@ -8,7 +8,7 @@ a) az engedély vagy a járműokmány típusára, okmányazonosító jelére, ki
 
 b) az abban feltüntetett adatok nyilvántartásban való ellenőrzésére irányul. Az adatszolgáltatás azonban csak az adatok egyezőségének, illetve eltérésének tényét, továbbá az eltérő adat fajtájának megnevezését tartalmazza;
 
-c) elektronikus úton előterjesztett kérelem a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, motorszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
+c) a jármű gyártmányára, típusára, színére vonatkozó tájékoztató adatok közlésére, illetve a járműnyilvántartásban szereplő egyéb adatok egyezőségének ellenőrzésére irányul, ez utóbbi nem terjedhet ki azonban a jármű alvázszámára, motorszámára, a motor kódjára és a 9. § (1) bekezdésében meghatározott adatokra;
 
 d) a járműnek a járműnyilvántartásba bejegyzett érvényes forgalmazási korlátozás tényének ellenőrzésére irányul,
 

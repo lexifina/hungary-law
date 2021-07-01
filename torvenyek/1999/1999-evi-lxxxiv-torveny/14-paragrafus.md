@@ -53,3 +53,7 @@ k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont
 l) a Magyar Vöröskereszt fővárosi, megyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
 
 m) a személyiadat- és lakcímnyilvántartást kezelő szerv a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, az anyakönyvvezetőnél a házasságkötési szándék bejelentésekor tett nyilatkozatairól.
+
+n) a kötvénynyilvántartó szerv elektronikusan a 9. § (2a) bekezdésében, illetve a 9/D. § (4a) bekezdésében meghatározott adatokról.
+
+(3) A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a nyilvántartó részére a természetes személy kapcsolati kódját és tárhely-azonosítóját. Az adatszolgáltatás adatait a nyilvántartó a járművezetővel vagy járművezető-jelölttel, a jármű tulajdonosával (üzembentartójával), valamint a parkolási igazolvány jogosultjával való elektronikus úton történő kapcsolatfelvételre használhatja fel.

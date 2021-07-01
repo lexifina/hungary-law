@@ -8,7 +8,7 @@ c) a nyilvántartásból a törvényben meghatározott feltételek fennállása 
 
 d) kezeli a nyilvántartáshoz közvetlen hozzáféréssel rendelkező felhasználók jogosultsági nyilvántartását.
 
-e)
+e) kezeli az elektronikus úton végzett adatkezelési műveletek nyilvántartását (adatkezelési napló).
 
 f)
 

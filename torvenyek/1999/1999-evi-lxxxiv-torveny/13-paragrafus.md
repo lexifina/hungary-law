@@ -1,5 +1,5 @@
-13. § (1) A jármű forgalomban tarthatóságát igazoló okmány tartalmazza az üzembentartó (tulajdonos) 9. § (1) bekezdés a), b), e), f) pontjaiban, továbbá a 9. § (2) bekezdése szerinti jogszabályban megjelölt adatokat.
+13. § (1) A jármű nyilvántartásba vételét igazoló okmány tartalmazza a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben megjelölt adatokat.
 
-(2) A jármű ideiglenes forgalomban tarthatóságát igazoló okmány tartalmazza a járműtulajdonos (üzembentartó) 9. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában és a jármű 9. § (2) bekezdésének a)–d) pontjaiban meghatározott adatait.
+(2) A jármű ideiglenes forgalomban tarthatóságát igazoló okmány tartalmazza az ideiglenes rendszámtábla jogosultjának 9/D. § (1) bekezdés a), b) pontjában, és d) pont da), db) alpontjában, továbbá az ideiglenes rendszámtáblával ellátott jármű 9/D. § (3) és (4) bekezdésében meghatározott adatait.
 
-(3) Az előzetes eredetiségvizsgálatról kiállított hatósági bizonyítvány a kérelmező nevét és lakcímét, valamint a 9. § (1d) bekezdés e)–g) pontjában és a 9. § (2) bekezdés a) pontjában meghatározott adatokat tartalmazza.
+(3) Az előzetes eredetiségvizsgálatról kiállított hatósági bizonyítvány a kérelmező nevét és lakcímét, valamint a 9/B. § (1) bekezdés f)–h) pontjában és a 9. § (2) bekezdés a) pontjában meghatározott adatokat tartalmazza.

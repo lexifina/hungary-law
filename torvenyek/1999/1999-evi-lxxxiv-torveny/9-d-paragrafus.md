@@ -8,9 +8,9 @@ c) állampolgárságát (hontalanságát),
 
 d) a nem természetes személy
 
-da) megnevezését,
+da) megnevezését és rövidített elnevezését,
 
-db) székhelyének (telephelyének) címét,
+db) székhelyének, telephelyének, fióktelepének címét, és az elektronikus kézbesítési címét,
 
 dc) cégjegyzék- vagy nyilvántartási számát,
 
@@ -42,4 +42,16 @@ e) fajtáját.
 
 (4) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az „E” és a „P” betűjelű rendszámtáblák használatának korlátozására vonatkozó adatokat.
 
-(5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(4a) Az ideiglenes rendszámtáblák nyilvántartása tartalmazza az ideiglenes rendszámtáblához kapcsolt kötvénynyilvántartásban rögzített
+
+a) ajánlati azonosítót,
+
+b) biztosító nevét,
+
+c) kötvényszámot,
+
+d) szerződés és kockázatviselés kezdetét és végét, valamint
+
+e) szerződő fél megnevezését.
+
+(5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.

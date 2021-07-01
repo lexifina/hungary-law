@@ -4,7 +4,7 @@
 
 1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó elektronikus nyilvántartás.
 
-2. Járműnyilvántartás: olyan egységes elektronikus nyilvántartás, amely tartalmazza a járműtulajdonos (üzemben tartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány). A járműnyilvántartás tartalmazza a származás-ellenőrzés eredményének nyilvántartását és az előzetes eredetiségvizsgálattal kapcsolatos adatokat.
+2. Járműnyilvántartás: olyan elektronikus nyilvántartás, amely tartalmazza a Magyarországon forgalomba helyezett, állandó hatósági jelzéssel és forgalmi engedéllyel ellátott járművek adatait, a járműtulajdonos (üzembentartó), az állami vagyonkezelő és a lízingbevevő adatait, továbbá a járműokmány adatait, valamint a történeti állományt.
 
 3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
 
@@ -12,21 +12,21 @@
 
 5. Járműazonosító adat: a jármű hatósági jelzése (rendszám) és alvázszáma.
 
-6. Járműokmány: a jármű tulajdonjogát, forgalomban tarthatóságát igazoló okmányok.
+6. Járműokmány: a jármű tulajdonjogát, nyilvántartásba vételét, ideiglenes forgalomban tarthatóságát igazoló okmányok.
 
 7. Egyedi adatszolgáltatás: egy személyre (ideértve a nem természetes személyt is), egy vezetői engedélyre, egy, a mozgásában korlátozott személy parkolási igazolványára (a továbbiakban: parkolási igazolvány), egy járműre, egy járműokmányra vonatkozó adat közlése.
 
-8. Csoportos adatszolgáltatás: az adatigénylő által meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése.
+8. Csoportos adatszolgáltatás: az adatigénylő által meghatározott szempontok szerint képzett csoportba tartozó nyilvántartási adatok közlése, továbbá azon adatszolgáltatás, amely a kapcsolatfelvételi eljárást kezdeményező kérelem kapcsán, azzal összefüggésben, egyedi járműadatra vonatkozik.
 
 9. Üzembentartó: a jármű tulajdonosa, illetve akit a jármű jogszerű üzemeltetésére szerződés vagy más hitelt érdemlően igazolt jogcím alapján a járműnyilvántartásba bejegyeztek.
 
 10. A jármű előzetes eredetiségvizsgálata: olyan hatósági eljárás, melynek célja a járművek azonosító adatai és a jármű okmányok valódiságának megállapítása.
 
-11.
+11. Származás-ellenőrzési nyilvántartás: olyan elektronikus nyilvántartás, amely tartalmazza a külföldről belföldi forgalomba helyezés céljából behozott használt jármű azonosító adatait, a jármű származását igazoló külföldi okmány adatait, a jármű tulajdonjoga megszerzőjének és a származás-ellenőrzési nyilvántartásba vételt kérelmezőnek az adatait, valamint a származás-ellenőrzés eredményét.
 
-12.
+12. Előzetes eredetiségvizsgálati nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező adatait, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó elektronikus nyilvántartás.
 
-13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
+13. Történeti állomány: a 7. § a)–h) pontjában meghatározott résznyilvántartások történeti állománya tartalmazza az ezen résznyilvántartások hatálya alá tartozó járműtulajdonos (üzembentartó), állami vagyonkezelő, lízingbevevő, a jármű és az ideiglenes rendszámtábla, valamint annak jogosultjának e törvény hatálya alá tartozó adatát és adatváltozását, az e törvényben meghatározott adatkezelési időtartamon belül.
 
 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
 
@@ -43,3 +43,7 @@
 20. Járművezető: az a személy, akinek a vezetési jogosultságára, a vezetői engedélyére vagy a vezetési jogosultsága szünetelésére vonatkozóan szerepel adat az engedély-nyilvántartásban.
 
 21. Járművezető-jelölt: az a vezetői engedéllyel vagy vezetési jogosultsággal még nem rendelkező személy, akinek a vezetői engedélye kiállításához szükséges adatok szerepelnek az engedély-nyilvántartásban.
+
+22. Állami vagyonkezelő: a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben vagyonkezelőként meghatározott azon személy, amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt., valamint annak jogelődje, vagy az állami vagyon tulajdonosi joggyakorlója vagyonkezelési szerződést kötött, továbbá akit törvény vagyonkezelőnek kijelöl.
+
+23. Lízingbevevő: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti lízingbevevő.
