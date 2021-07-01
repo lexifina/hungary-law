@@ -1,0 +1,1 @@
+## 11. § Az a kérelmező, aki a kormányrendelet alapján e rendelet hatálybalépése előtt nyújtotta be az auditálás iránti kérelmét, a 2. § (3) bekezdése szerinti díjfizetési kötelezettségnek a 3. § szerinti helyszíni értékelés időpontjáig köteles eleget tenni.
