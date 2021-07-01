@@ -8,6 +8,6 @@
 
 (5) Lóversenyfogadás kivételével a bukmékeri rendszerű fogadás szervezéséhez a 3. § (1) bekezdésének a) pontjában szereplő jogi személynek legalább 1 milliárd forint alap- vagy törzstőkével és legalább ötéves szerencsejáték-szervezői gyakorlattal kell rendelkeznie. Lóversenyfogadás kivételével a bukmékeri rendszerű fogadásra kiírt koncessziós pályázat nyertese csak az a személy lehet, aki a pályázat kiírása előtt legalább öt évig az e törvény hatálya alá tartozó szerencsejáték szervezésével foglalkozott, és a bukmékeri rendszerű fogadási tevékenység folytatására legalább 1 milliárd forint alap- vagy törzstőkével rendelkező koncessziós társaságot alapít. Ha többen közösen nyújtanak be pályázatot, vagy olyan pályázó nyújt be pályázatot, amelynek egyik tagja (részvényese) a szavazatok többségével rendelkezik, a legalább ötéves szerencsejáték-szervezői gyakorlattal kapcsolatos feltételt elegendő, ha legalább a pályázók egyike vagy a szavazatok többségével rendelkező tag (részvényes) teljesíti.
 
-(6) Bukmékeri rendszerű fogadás esetén a koncessziós díj mértéke évente legalább 200 millió forint. A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
+(6) A kiadott koncessziók száma egyidejűleg legfeljebb 2 lehet.
 
 (7) A szerencsejáték-felügyeleti hatóság a nemzetközi együttműködés keretében szervezett totalizatőri rendszerű lóversenyfogadás esetén sorsolás alkalmazását a nemzetközi együttműködés keretében valamennyi szerencsejáték-szervező által kialakított és elfogadott játékszabályoknak megfelelően engedélyezi.
