@@ -136,7 +136,7 @@
 
 | 19 | KÖFOP-2.3.1-VEKOP- 16-2016-00001 | Belügyminisztérium | Helyi közszolgáltatás információs rendszer fejlesztése és bevezetése (IKIR) | 19.1. Helyi közszolgáltatás információs rendszer (IKIR) |
 
-| 20 | KÖFOP-2.1.5-VEKOP- 16-2016-00001 | Belügyminisztérium | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása |  |
+| 20 |  |  |  |  |
 
 | 21 | KÖFOP-1.0.0-VEKOP- 15-2016-00036 | Külgazdasági és Külügyminisztérium | A külgazdasági és külügyi működést támogató kiemelt alapfolyamatok fejlesztése és szolgáltatási kapacitásuk bővítése | 21.1. Külgazdasági Integrált Együttműködési Platform (KIEP) |
 
@@ -206,9 +206,15 @@
 
 | 42 | KÖFOP-1.0.0-VEKOP- 15-2019-00057 | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság vagy az általa vezetett konzorcium | Az informatikai beszerzések központosítását támogató rendszer továbbfejlesztése | 42.1. Integrált DKÜ Portál Rendszer |
 
-| 43. | KÖFOP-2.1.5-VEKOP-162016-00001 | Belügyminisztérium | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | Kormányzati Személyügyi Döntéstámogató Rendszer |
+| 43. | KÖFOP-2.1.5-VEKOP- 162016-00001 | Belügyminisztérium | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | 43.1. Kormányzati Személyügyi Döntéstámogató Rendszer |
 
-| 44. | KÖFOP-2.1.5-VEKOP-162016-00001 | Belügyminisztérium | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | Közszolgálati HR Rendszer |
+| 43.2. Közszolgálati HR Rendszer |
+
+| 43.3. KOMP Komplex, kompetencia alapú kiválasztási eljárás és tehetségmenedzsment rendszer |
+
+| 43.4. SZEM Szilárd Erkölcsiség Mutató teszt rendszer |
+
+| 44. |  |  |  |  |
 
 3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^13]
 
@@ -338,4 +344,16 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 60. | Mesterséges Intelligencia Alapú Alkalmazások Szolgáltatása (MIA – MIaaS) Multi Tenant alapon | szakrendszer |
 
-[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja, a 680/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+| 61. | vakcinainfo.gov.hu | szakrendszer |
+
+| 62. | koronavirus.gov.hu | szakrendszer |
+
+| 63. | hiteles személyazonosításon alapuló videokonferencia szolgáltatás (ideértve a Videohívással támogatott egészségügyi ellátásokat | szakrendszer |
+
+| 64. | primeminister.hu | szakrendszer |
+
+| 65. | eEvidence Digital Exchange System | szakrendszer |
+
+| 66. | iSupport Ügykezelő és Kommunikációs Rendszer | szakrendszer |
+
+[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja, a 680/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdése, a 375/2021. (VI. 30.) Korm. rendelet 26. § (2) bekezdése szerint módosított szöveg.
