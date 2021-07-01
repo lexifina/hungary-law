@@ -58,65 +58,7 @@
 
 ## d) fizikai megterhelés-igénybevétel vizsgálata.
 
-## 1.2.2.[^26] Biológiai expozíciós mutatók vizsgálata a külön jogszabályban meghatározott expozíciós mutatók alapján:
-
-| Vegyi anyag | Biológiai expozíciós mutató |
-
-| vizeletben | vérben |
-
-| Anilin | p-aminofenol | met Hb. |
-
-| Arzén | arzén |  |
-
-| Benzol | fenol |  |
-
-| Dimetilformamid | N-metil-formamid |  |
-
-| Etil-benzol | mandulasav |  |
-
-| Fenol | fenol |  |
-
-| Fluorid vegyületek | fluorid |  |
-
-| Halotán | halotán |  |
-
-|  | trifluorecetsav |  |
-
-| Higany (szervetlen) | higany |  |
-
-| Kadmium | kadmium | kadmium |
-
-| Króm | króm |  |
-
-| Kobalt | kobalt |  |
-
-| n-Hexán | 2,5-hexán-dion |  |
-
-| Nikkel | nikkel |  |
-
-| Nitrobenzol | p-nitrofenol |  |
-
-| Ólom (szervetlen) | D-ALA | ólom |
-
-|  |  | ZPP |
-
-| Pentaklórfenol | pentaklórfenol |  |
-
-| Szelén | szelén |  |
-
-| Szén-monoxid |  | CO Hb |
-
-| Szerves foszforsavészter tart. peszticidek |  | vörösvérsejt vagy teljes vér acetil-kolineszteráz |
-
-| Sztirol | mandulasav |  |
-
-| Toluol | hippursav |  |
-
-|  | o-krezol |  |
-
-| Triklóretilén | triklórecetsav |  |
-
-| Xilol | metilhippursavak |  |
+## 1.2.2.[^26] A biológiai expozíciós mutatók vizsgálata a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendeletben meghatározott expozíciós mutatók és határértékek alapján történik.
 
 2. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
 
@@ -125,4 +67,4 @@
 [^23]: Az 1. melléklet 1.1.2. pont 1. alpontját a 350/2012. (XII. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
 [^24]: Az 1. melléklet 1.1.2 pont 4. alpontját a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
 [^25]: Az 1. számú melléklet 1.1.3. pontját a 64/2000. (V. 9.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 350/2012. (XII. 12.) Korm. rendelet 4. § c) pontja.
-[^26]: Az 1. számú melléklet 1.2.2. pontjának bevezető szövegrésze a 70/2007. (IV. 14.) Korm. rendelet 7. § (3) bekezdésének c) pontjával megállapított szöveg.
+[^26]: Az 1. számú melléklet 1.2. pont 1.2.2. alpontja a 356/2021. (VI. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
