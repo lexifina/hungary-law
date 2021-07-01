@@ -18,7 +18,7 @@ c) az üzemeltető nyilatkozata alapján
 
 dönthet.
 
-(2) Európai létfontosságú rendszerelemmé kijelölésre irányuló kezdeményezést, illetve az üzemeltető által benyújtott azonosítási jelentést – az (1) bekezdés c) pontja kivételével a javaslattevő hatóság bevonásával – az ágazati kijelölő hatóság megvizsgálja és az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos álláspontjáról az ágazatért felelős miniszter útján a katasztrófák elleni védekezésért felelős minisztert tájékoztatja.
+(2) Európai létfontosságú rendszerelemmé kijelölésre irányuló kezdeményezést, illetve az üzemeltető által benyújtott azonosítási jelentést – az (1) bekezdés c) pontja kivételével az ágazati javaslattevő hatóság bevonásával – az ágazati kijelölő hatóság megvizsgálja és az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos álláspontjáról az ágazatért felelős miniszter útján a katasztrófák elleni védekezésért felelős minisztert tájékoztatja.
 
 (3) Az európai létfontosságú rendszerelemmé nyilvánítással kapcsolatos nemzetközi szerződés megkötését a katasztrófák elleni védekezésért felelős miniszter az adott ágazat szerint feladat- és hatáskörrel rendelkező miniszterrel együtt kezdeményezi.
 

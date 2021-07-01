@@ -20,7 +20,7 @@ dd) az erre irányuló eljárásban alapvető szolgáltatást nyújtó szereplő
 
 e) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam,
 
-f) európai létfontosságú rendszerelem: e törvény alapján kijelölt olyan létfontosságú rendszerelem, amelynek kiesése jelentős hatással lenne – az ágazatokon átnyúló kölcsönös függőségből következő hatásokat is ideértve – legalább két EGT-államra,
+f) európai létfontosságú rendszerelem: e törvény alapján nemzeti létfontosságú rendszerelemmé kijelölt olyan létfontosságú rendszerelem, amelynek kiesése jelentős hatással lenne – az ágazatokon átnyúló kölcsönös függőségből következő hatásokat is ideértve – legalább két EGT-államra,
 
 g) helyszíni ellenőrzést lefolytató szerv: az ágazati kijelölő hatóság, a szakhatóság, a kijelölési eljárásban részt vevő, véleménynyilvánító szerv, és jogszabály alapján helyszíni ellenőrzés lefolytatására jogosult szerv,
 

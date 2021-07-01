@@ -8,7 +8,9 @@ b) az üzemeltetés időszakában a tevékenységben bekövetkezett olyan mért�
 
 c) a kijelölésre nem javasolt, a korábbi azonosítási jelentésben szereplő lehetséges létfontosságú rendszerelem esetén az azonosítási vizsgálat zárónapját követő öt év elteltével, az üzemeltetés időszakában a kijelölő határozat véglegessé válását követő öt év elteltével,
 
-d) a javaslattevő hatóság kezdeményezése alapján.
+d) a javaslattevő hatóság kezdeményezése alapján,
+
+e) ágazati kritérium módosítása esetén az ágazati kritériumot szabályozó kormányrendeletet módosító kormányrendelet hatálybalépését követő 60 napon belül.
 
 (2) Az üzemeltető az azonosítási vizsgálat alapján elkészített azonosítási jelentését (a továbbiakban: azonosítási jelentés) – annak elkészítését követő 8 napon belül – benyújtja a kormányrendeletben kijelölt szerv (a továbbiakban: az ágazati kijelölő hatóság) részére.
 
@@ -33,6 +35,10 @@ b) az üzemeltető kérelmére
 dönthet.
 
 (6) Az ágazati kijelölő hatóság szakhatóság bevonásával az ágazati és horizontális kritériumok teljesülésének vizsgálata alapján dönt a nemzeti létfontosságú rendszerelem kijelöléséről vagy a kijelölés visszavonásáról.
+
+(6a) A honvédelmi rendszerek és létesítmények ágazati kijelölő hatósága által is kijelölt, az 1. mellékletben meghatározott, nem honvédelmi ágazatba tartozó rendszerelem kivételével egy rendszerelemnek több ágazatban való nemzeti létfontosságú rendszerelemmé történő kijelölésének (kettős kijelölés) nincs helye.
+
+(6b) Ha egy nemzeti létfontosságú rendszerelem az ágazati kritériumok teljesülésének lehetősége alapján több ágazatban is kijelölhető nemzeti létfontosságú rendszerelemmé, a későbbi kijelölési eljárást lefolytató ágazati kijelölő hatóság megkeresi az általános javaslattevő hatóságot annak érdekében, hogy az az ágazati függőségek és kitettség vizsgálatának eredménye alapján javaslatot tegyen a korábbi kijelölés visszavonására, vagy fenntartására. Az általános javaslattevő hatóság e körben kiadott ügyindító javaslata alapján a korábbi kijelölési eljárást lefolytató ágazati kijelölő hatóság hivatalból kijelölés visszavonására irányuló eljárást folytat le.
 
 (7) Az ágazati kijelölő hatóság a (6) bekezdés szerinti kijelölő határozatban
 

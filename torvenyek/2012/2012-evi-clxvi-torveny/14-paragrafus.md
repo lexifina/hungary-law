@@ -26,4 +26,6 @@ k) állapítsa meg a rendkívüli eseményekre vonatkozó részletes ágazati sz
 
 l) jelölje ki a 2/B. § szerinti azonosítási eljárást lefolytató és az információbiztonsági hatósági feladatokat ellátó hatóságot és határozza meg az azonosítási eljárásra, ellenőrzésre vonatkozó különös szabályokat, valamint állapítsa meg az azonosítás visszavonására vonatkozó eljárási szabályokat,
 
-m) állapítsa meg ágazatonként a 2/B. § (6) bekezdése szerinti küszöbértékeket és a 2/A. § szerinti jelentős zavar mértékét.
+m) állapítsa meg ágazatonként a 2/B. § (6) bekezdése szerinti küszöbértékeket és a 2/A. § szerinti jelentős zavar mértékét,
+
+n) állapítsa meg az IHR működésének a részletszabályait.
