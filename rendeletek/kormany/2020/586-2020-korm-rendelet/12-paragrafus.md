@@ -1,3 +1,3 @@
-## 11. § A 436/2016. (XII. 16.) Korm. rendelet 16. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 11. §[^12]
 
-## „(5) Ha az EBFH nem hoz a (4) bekezdés szerinti határozatot az 1094/2010/EU rendelet 19. cikk (3) bekezdésével összhangban, akkor a Felügyelet mint a csoportfelügyeletért felelős hatóság hozza meg a végső döntést, amelyről tájékoztatja az érintett felügyeleti hatóságokat és az EBFH-t. Ha a Felügyelet nem a csoportfelügyeletért felelős hatóság, hanem érintett felügyeleti hatóságnak minősül, úgy elismeri az említett határozatot, és teljesíti az abban foglaltakat. A három hónapos időtartam eltelte vagy az együttes határozat meghozatala után az ügy már nem utalható az EBFH elé.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
