@@ -34,9 +34,9 @@
 
 17.
 
-18.
+18. 148. § (7) bekezdés e) pontjában a „pont] a CoRe-ban” szövegrész helyébe a „pont] az EKR-en keresztül a Core-ban” szöveg,
 
-19.
+19. 153. § (2) bekezdésében az „a CoRe-ban, valamint ha az e törvény felhatalmazása alapján alkotott jogszabály azt egyes dokumentumok, adatok tekintetében kötelezővé teszi, az EKR-ben” szövegrész helyébe az „az EKR-en keresztül a CoRe-ban, valamint az EKR-ben” szöveg,
 
 20.
 
@@ -50,9 +50,9 @@
 
 25.
 
-26.
+26. 187. § (2) bekezdés a) pont nyitó szövegrészében az „a honlapján” szövegrész helyébe az „az EKR-ben” szöveg,
 
-27.
+27. 187. § (2) bekezdés a) pont ac) alpontjában az „a honlapon” szövegrész helyébe az „az EKR-ben” szöveg,
 
 28.
 
