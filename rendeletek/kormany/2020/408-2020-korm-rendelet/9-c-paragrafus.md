@@ -1,4 +1,4 @@
-9/C. §[^24] (1) Magyar állampolgár Magyarország területére korlátozás nélkül beléphet, ha
+9/C. §[^27] (1) Magyar állampolgár Magyarország területére korlátozás nélkül beléphet, ha
 
 a) az Európai Unióban, illetve a Magyarországon engedélyezett és a lakosság oltására felhasznált COVID-19 oltóanyag a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet [a továbbiakban: 60/2021. (II. 12.) Korm. rendelet] 3. § (2a) bekezdése szerinti országban történő beadásának tényét Magyarországra történő belépésekor igazolja,
 
@@ -16,4 +16,4 @@ b) a karantén helyszínét az illetékes járványügyi hatóság jelöli ki.
 
 (4) Magyar állampolgár Magyarország területére – az (1) bekezdés szerint – korlátozás nélkül beléphet abban az esetben is, ha az (1) bekezdés b) pontja szerinti kérelmet az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton benyújtotta, és azt igazolja.
 
-[^24]: A 9/C. §-t a 247/2021. (V. 14.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 9/C. §-t a 247/2021. (V. 14.) Korm. rendelet 2. §-a iktatta be.
