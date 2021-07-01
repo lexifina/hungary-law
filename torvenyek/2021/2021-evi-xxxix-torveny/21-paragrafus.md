@@ -1,1 +1,3 @@
-21. §
+21. § Az Étv. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha egy adott területre vonatkozóan nincs hatályban helyi építési szabályzat – vagy ha a helyi építési szabályzat az e törvényben vagy a végrehajtására kiadott kormányrendeletben meghatározott kötelező tartalmi elemeket nem tartalmazza teljeskörűen –, építési munkát és egyéb építési tevékenységet végezni csak e törvény, valamint az építésügyi és településképi követelményekre vonatkozó egyéb jogszabályok megtartásával és csak akkor lehet, ha az építési tevékenység során érvényesül a településrendezési illeszkedés követelménye.”
