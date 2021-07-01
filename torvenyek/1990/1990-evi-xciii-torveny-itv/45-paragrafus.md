@@ -16,7 +16,7 @@ f) külföldi székhelyű vállalkozás magyarországi fióktelepe esetén 50 00
 
 g) külföldi vállalkozás közvetlen kereskedelmi képviselete esetén 50 000 forint.
 
-(1a) A szociális szövetkezet, a közérdekű nyugdíjas szövetkezet, a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
+(1a) A szociális szövetkezet, a közérdekű nyugdíjas szövetkezet, a kisgyermekkel otthon lévők szövetkezete a korlátolt felelősségű társaság, az egyéni cég, a közkereseti társaság és a betéti társaság bejegyzésére irányuló eljárás illetékmentes.
 
 (2) Ha a cégbejegyzésre irányuló kérelemben fióktelep bejegyzését is kérik, az (1) bekezdésben meghatározott illetéken kívül további illetéket nem kell fizetni.
 

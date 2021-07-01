@@ -498,17 +498,13 @@ a személyi adat- és lakcímnyilvántartásban a lakcím érvénytelenné nyilv
 
 |
 
-a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett értesítési cím törlése, ha a törlést a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti címjogosult kezdeményezi
-
 |
 
 4.
 
 |
 
-a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. §
-
-(1) bekezdése és 27/D. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás
+a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 27/A. § (1) bekezdése szerinti nyilatkozat megtételével kapcsolatos eljárás
 
 |
 
@@ -523,8 +519,6 @@ az érintett polgár adatainak a polgárok személyi adatainak és lakcímének 
 6.
 
 |
-
-az értesítési cím bejelentésével kapcsolatos eljárás
 
 |
 
@@ -600,7 +594,7 @@ kiállításával, cseréjével, pótlásával, visszavonásával és nyilvánta
 
 |
 
-a Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartásba vételére irányuló eljárás
+a Magyarország területén kívül élő magyar állampolgár kérelemre történő személyi- és lakcímadatait tartalmazó nyilvántartásba vételére irányuló eljárás
 
 |
 
