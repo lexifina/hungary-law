@@ -6,6 +6,9 @@
 
 (4) A támogatás akkor vehető igénybe, ha a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítja, továbbá a teljes beruházás megvalósításához szükséges költségek forrását a támogató számára bemutatja.
 
-(5)[^4] A támogatást igénylő a támogatási kérelem benyújtásával egyidejűleg, a támogatás – az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (2) bekezdése szerinti jogosulatlan igénybevételre vonatkozó szabályok alapján történő – visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
+(5)[^9] A támogatást igénylő a támogatási kérelem benyújtásával egyidejűleg, a támogatás – az államháztartásról szóló 2011. évi CXCV. törvény 53/A. § (2) bekezdése szerinti jogosulatlan igénybevételre vonatkozó szabályok alapján történő – visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
 
-[^4]: A 15. § (5) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+(6)[^10] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
+
+[^9]: A 15. § (5) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^10]: A 15. § (6) bekezdését a 381/2021. (VI. 30.) Korm. rendelet 7. §-a iktatta be.

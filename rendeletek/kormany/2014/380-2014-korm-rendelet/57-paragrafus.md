@@ -1,4 +1,4 @@
-## 56/B. §[^13] E rendelet a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet (HL L 156., 2017.6.20., 1. o.) végrehajtásához szükséges rendelkezéseket állapít meg.
+## 56/B. §[^22] E rendelet a 651/2014/EU rendeletnek a kikötői és repülőtéri infrastruktúrákra irányuló támogatás, a kultúrát és a kulturális örökség megőrzését előmozdító támogatásra és a sportlétesítményekre és multifunkcionális szabadidős létesítményekre nyújtott támogatásra vonatkozó bejelentési határértékek, továbbá a legkülső régiókban biztosított regionális működési támogatási programok tekintetében, valamint a 702/2014/EU rendeletnek a támogatható költségek összegének meghatározása tekintetében történő módosításáról szóló, 2017. június 14-i 2017/1084/EU bizottsági rendelet (HL L 156., 2017.6.20., 1. o.) végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ## 57. § E rendelet
 
@@ -12,4 +12,4 @@ d) 5. § 16. pontja az Európai Unió működéséről szóló szerződés 106. 
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^13]: Az 56/B. §-t a 483/2017. (XII. 28.) Korm. rendelet 15. §-a iktatta be.
+[^22]: Az 56/B. §-t a 483/2017. (XII. 28.) Korm. rendelet 15. §-a iktatta be.

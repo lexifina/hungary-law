@@ -14,9 +14,9 @@
 
 6. 20. §-a, 24. § (1) bekezdés a)–c), f)–i) és k) pontjai, 28. § a)–c), e)–g) és i)–n) pontjai és 35. § (1) bekezdése alapján induló vállalkozásnak nyújtott támogatás,
 
-7. 20. §-a, 24. § (1) bekezdés b)–c), f)–g) és h)–i) pontjai és 28. § a)–b), d)–e) és h)–m) pontjai alapján, valamint a 24. § (1) bekezdés a), d), e) és j)–k) pontjai és 28. § c) pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, kutatás-fejlesztési projektekhez nyújtott támogatás,
+7.[^2] 20. §-a, 24. § (1) bekezdés b)–c), f)–g) és h)–i) pontjai és 28. § a)–b), d)–e) és g)–m) pontjai alapján, valamint a 24. § (1) bekezdés a), d), e) és j)–k) pontjai és 28. § c) pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, kutatás-fejlesztési projektekhez nyújtott támogatás,
 
-8. 20. §-a, 24. § (1) bekezdés b)–c), f) és i) pontjai és 28. § a), d), h) és m)–n) pontjai alapján kutatási infrastruktúrához nyújtott beruházási támogatás,
+8.[^3] 20. §-a, 24. § (1) bekezdés b)–c), f) és i) pontjai és 28. § a), d), g)–h) és m)–n) pontjai alapján kutatási infrastruktúrához nyújtott beruházási támogatás,
 
 9. 20. §-a, 24. § (1) bekezdés b)–c), f), i) és k) pontjai, 28. § a), d)–e), g)–h) és m)–n) pontjai és 35. § (1) bekezdése alapján innovációs klaszterre nyújtott támogatás,
 
@@ -24,7 +24,7 @@
 
 11. 20. §-a, 24. § (1) bekezdés b)–c) és i) pontjai és 28. § a)–b), e) és g)–h) pontjai alapján eljárási innováció és szervezési innováció támogatásához nyújtott támogatás,
 
-12. 20. §-a, 24. § (1) bekezdés b)–c), f)–g) és h)–i) pontjai és 28. § a)–b), d)–e) és h)–m) pontjai alapján, valamint a 24. § (1) bekezdés a), d), e) és j)–k) pontjai és 28. § c) pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás,
+12.[^4] 20. §-a, 24. § (1) bekezdés b)–c), f)–g) és h)–i) pontjai és 28. § a)–b), d)–e) és g)–m) pontjai alapján, valamint a 24. § (1) bekezdés a), d), e) és j)–k) pontjai és 28. § c) pontja alapján akkor, ha az adott tevékenység kutatás-fejlesztési projekthez kapcsolódik, halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás,
 
 13. 20. §-a, 24. § (1) bekezdés h)–i) pontjai és 28. § e)–g), és i)–j) pontjai alapján képzési támogatás,
 
@@ -33,3 +33,7 @@
 15. 20. §-a, 24. § (1) bekezdés a)–c), f) és h)–i) pontjai és 28. § a)–b), d)–e), g)–i) és n) pontjai alapján csekély összegű közszolgáltatási támogatás,
 
 16. 20. §-a, 24. § (1) bekezdés a)–c), f) és h)–i) pontjai és 28. § a)–b), d)–e), g)–i) és n) pontjai alapján közszolgáltatásért járó ellentételezés
+
+[^2]: Az 5. § 7. pontja a 381/2021. (VI. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § 8. pontja a 381/2021. (VI. 30.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § 12. pontja a 381/2021. (VI. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

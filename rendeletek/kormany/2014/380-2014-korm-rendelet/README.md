@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-380-20-
 | --- | --- | --- |
 | 2015-01-01 | 2014-380-20-22.1 | 380/2014. (XII. 31.) Korm. rendelet |
 | 2018-01-01 | 2014-380-20-22.2 | 483/2017. (XII. 28.) Korm. rendelet |
+| 2021-07-01 | 2014-380-20-22.3 | 381/2021. (VI. 30.) Korm. rendelet |
