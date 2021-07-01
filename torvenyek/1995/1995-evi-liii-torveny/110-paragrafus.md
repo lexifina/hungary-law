@@ -98,7 +98,9 @@
 
 40. a levegőtisztaság-védelemmel kapcsolatos hatósági eljárások és a nyilvántartásba vétel szabályait, valamint a nyilvántartásba vétel tartalmi követelményeit;
 
-41. az Országos Környezeti Kármentesítési Program végrehajtásával és az állami felelősségi körbe tartozó területek kármentesítésével kapcsolatos feladatokat, valamint a barnamezős területek hasznosításával kapcsolatos részletes szabályokat, ideértve a barnamezős területekre vonatkozó adatszolgáltatás és nyilvántartás rendjét.
+41. az Országos Környezeti Kármentesítési Program végrehajtásával és az állami felelősségi körbe tartozó területek kármentesítésével kapcsolatos feladatokat, valamint a barnamezős területek hasznosításával kapcsolatos részletes szabályokat, ideértve a barnamezős területekre vonatkozó adatszolgáltatás és nyilvántartás rendjét;
+
+42. a 30/A. § alapján korlátozás és tilalom alá sorolható termékek körét, valamint e termékek gyártását, forgalomba hozatalát, felhasználását és kereskedelmét korlátozó vagy tiltó részletes szabályokat.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
