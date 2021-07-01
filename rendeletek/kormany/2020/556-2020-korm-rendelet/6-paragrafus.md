@@ -1,4 +1,4 @@
-## 5. § A veszélyhelyzet ideje alatt lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően csak a veszélyhelyzet megszűnését követő második hónap utolsó napján szűnik meg.
+## kezdődik.
 
 ## 6. § A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet (a továbbiakban: Mmtr.) rendelkezéseit a veszélyhelyzet megszűnését követő harmincadik napig a következő eltérésekkel kell alkalmazni:
 
