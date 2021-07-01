@@ -32,7 +32,7 @@ b) a (6)–(10) bekezdésben foglaltak alkalmazásával – nemzetközi szerződ
 
 a) az előtársasági adóévben .és az azt követő adóévben, illetve az első adóévében, amennyiben az előtársasági időszakról külön beszámoló készítésére nem kötelezett, vagy
 
-b) ha a 2. § (2) bekezdés e)–h) pontja alapján adóalany, továbbá ha szociális szövetkezet, közérdekű nyugdíjas szövetkezet, iskolaszövetkezet, közhasznú nonprofit gazdasági társaság, vagy
+b) ha a 2. § (2) bekezdés e)–h) pontja alapján adóalany, továbbá ha szociális szövetkezet, közérdekű nyugdíjas szövetkezet, iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete, közhasznú nonprofit gazdasági társaság, vagy
 
 c) ha az adóévben vagy a megelőző adóévben elemi kár sújtotta és mértéke – több kár esetén azok együttes értéke – eléri az elemi kár bekövetkezését megelőző adóévi évesített árbevétel (átalakulással, egyesüléssel, szétválással létrejött adózónál a jogelőd árbevételéből számított, az átalakulás, egyesülés, szétválás formájától függően azzal egyező, összesített, megosztott árbevétel) legalább 15 százalékát,
 

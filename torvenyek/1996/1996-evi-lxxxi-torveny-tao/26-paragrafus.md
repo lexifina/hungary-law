@@ -34,7 +34,7 @@ b) az adóév első negyedévében az éves adóelőleg 3,3 százaléka, másodi
 
 (10)
 
-(11) Nem kell az (1)–(9) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, az ingatlannal rendelkező társaság tagjának, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek és az iskolaszövetkezetnek.
+(11) Nem kell az (1)–(9) bekezdés rendelkezéseit alkalmaznia az adózónak megszűnésekor, valamint, ha adóbevallást a cégbejegyzési eljárás befejezése miatt ad be, továbbá az MRP-nek, az ingatlannal rendelkező társaság tagjának, a közhasznú nonprofit gazdasági társaságnak, a vízitársulatnak, az alapítványnak, a közalapítványnak, az egyesületnek, a köztestületnek, az egyházi jogi személynek, a lakásszövetkezetnek, a közhasznú szervezetként besorolt felsőoktatási intézménynek, az önkéntes kölcsönös biztosítópénztárnak, a szociális szövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, a kisgyermekkel otthon lévők szövetkezetének és az iskolaszövetkezetnek.
 
 (12)
 
