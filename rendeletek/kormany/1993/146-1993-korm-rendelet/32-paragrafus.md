@@ -1,6 +1,6 @@
 32. §[^230] (1)[^231] A lakcímbejelentést – a 29. § (3) bekezdésében, a 30. § (2) bekezdésében, valamint az Nytv. 26. § (2a) és (2b) bekezdésében, valamint jogszabályban meghatározott kivétellel – a 3. számú mellékletben előírt adattartalmú bejelentőlapon kell teljesíteni. A bejelentőlapot a lakcímbejelentés teljesítésére kötelezettnek és az e rendeletben meghatározott esetekben – az Nytv. 27/A. § (1) bekezdés b) pontjában és (3) bekezdésében foglalt kivétellel – a szállásadónak is saját kezűleg alá kell írnia.
 
-(1a)[^232] Az értesítési címet a 6. számú mellékletben előírt adattartalmú, az értesítési címét bejelentő polgár által saját kezűleg aláírt bejelentőlapon vagy elektronikus azonosítást követően elektronikus kapcsolattartás útján kell bejelenteni.
+(1a)[^232]
 
 (1b)[^233] A 29. § (1a) bekezdésében meghatározott esetben a bejelentőlapot – az (1) bekezdésben meghatározott kivételekkel – a lakcímbejelentés teljesítésére kötelezettnek – két esetben – és a szállásadónak saját kezűleg alá kell írnia.
 
@@ -20,7 +20,7 @@ d)[^238] menekült esetében a menekültkénti, az oltalmazott esetében az olta
 
 [^230]: Az R. 32. § -a a 13/1999. ( II.1.) Korm. rendelet 27. §-ával megállapított szöveg.
 [^231]: Az R. 32. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^232]: Az R. 32. § (1a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 15. § h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^232]: Az R. 32. § (1a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 9. pontja.
 [^233]: Az R. 32. § (1b) bekezdését a 60/2017. (III. 20.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^234]: Az R. 32. §-ának (2) bekezdése a 9/2004. (I. 31.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 417/2012. (XII. 29.) Korm. rendelet 41. § i) pontja szerint módosított szöveg.
 [^235]: Az R. 32. § (2) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 15. § i) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

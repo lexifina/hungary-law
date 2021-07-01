@@ -14,10 +14,10 @@ a) a kereskedelmi szálláshely (szálloda, fogadó, kemping, üdülőház, turi
 
 b) a csecsemőotthon, más egészségügyi intézmény, diákotthon, kollégium, bentlakásos szociális intézmény vezetője (gondnoka) az irányítása alá tartozó szálláshelyre vagy lakóhelyre befogadott polgár és az ott lakó alkalmazott vagy hozzátartozó esetében.
 
-(3)[^242] A tulajdonosnak, a haszonélvezőnek, a bérlőnek, valamint a bíróság vagy más hatóság jogerős vagy végleges és végrehajtható határozata alapján lakó- vagy tartózkodási helyet változtatónak a lakcímjelentőlapján a ,,tulajdonos'', ,,bérlő'', illetve értelemszerűen a megfelelő kifejezést kell feltüntetni.
+(3)[^242] A tulajdonosnak, a haszonélvezőnek, a bérlőnek, valamint a bíróság vagy más hatóság jogerős vagy végleges és végrehajtható határozata alapján lakó- vagy tartózkodási helyet változtatónak a lakcímbejelentő lapján a ,,tulajdonos'', ,,bérlő'', illetve értelemszerűen a megfelelő kifejezést kell feltüntetni.
 
-(4)[^243] Közös tulajdon esetén a tulajdonostársak hozzájárulását a lakcímbejelentés során eljáró szállásadó írásbeli nyilatkozatával igazolja.
+(4)[^243] Ha a lakcímbejelentéssel érintett ingatlannak több szállásadója van, a szállásadók hozzájárulását a lakcímbejelentés során eljáró szállásadó írásbeli nyilatkozatával igazolja.
 
 [^241]: Az R. 33. § -a (1) bekezdésének a) pontja a 13/1999. ( II.1.) Korm. rendelet 28. §-ának (1) bekezdésével megállapított szöveg.
-[^242]: Az R. 33. § (3) bekezdése a 13/1999. (II. 1.) Korm. rendelet 28. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 15. § j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^243]: Az R. 33. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^242]: Az R. 33. § (3) bekezdése a 13/1999. (II. 1.) Korm. rendelet 28. § (2) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 15. § j) pontja, a 375/2021. (VI. 30.) Korm. rendelet 3. § 4. pontja szerint módosított szöveg.
+[^243]: Az R. 33. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 8. § (1) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 3. § 5. pontja szerint módosított szöveg.

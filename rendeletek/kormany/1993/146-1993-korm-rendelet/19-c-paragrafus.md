@@ -1,4 +1,4 @@
-19/C. §[^163] (1) Az Nytv. 7. § (4) bekezdésében meghatározott magyar állampolgár hatósági igazolványa belföldön postai úton, könyvelt küldeményként kerül kézbesítésre lakóhelyére vagy ennek hiányában tartózkodási helyére.
+19/C. §[^164] (1) Az Nytv. 7. § (4) bekezdésében meghatározott magyar állampolgár hatósági igazolványa belföldön postai úton, könyvelt küldeményként kerül kézbesítésre lakóhelyére vagy ennek hiányában tartózkodási helyére.
 
 (2) A hatósági igazolvány külföldi cím esetén a konzuli tisztviselőnek kerül megküldésre. A konzuli tisztviselő a hatósági igazolványt személyesen adja át, vagy a kérelmező választása szerint külföldön postai úton, könyvelt küldeményként kézbesíti.
 
@@ -18,4 +18,4 @@ b) személyes megjelenés nélkül, postai úton bármely járási hivatalnak c�
 
 (8) Az át nem vett hatósági igazolványt a konzuli tisztviselő a hatósági igazolvány kiállításától számított 1 év elteltével érvénytelenítés céljából megküldi a kijelölt kormányhivatalnak.
 
-[^163]: Az R. 19/C. §-át az 572/2020. (XII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^164]: Az R. 19/C. §-át az 572/2020. (XII. 9.) Korm. rendelet 4. §-a iktatta be.

@@ -1,13 +1,13 @@
-14. §[^59] (1)[^60] A nyilvántartást kezelő szerv ellátja a járási hivatal és a kijelölt kormányhivatal által végzett – a személyi azonosítóról és a lakcímről szóló hatósági igazolvány (a továbbiakban: hatósági igazolvány) kiadásával és nyilvántartásával kapcsolatos hatósági tevékenység szakmai felügyeletét.
+14. §[^61] (1)[^62] A nyilvántartást kezelő szerv ellátja a járási hivatal és a kijelölt kormányhivatal által végzett – a személyi azonosítóról és a lakcímről szóló hatósági igazolvány (a továbbiakban: hatósági igazolvány) kiadásával és nyilvántartásával kapcsolatos hatósági tevékenység szakmai felügyeletét.
 
-(2)[^61]
+(2)[^63]
 
-(3)[^62] A nyilvántartást kezelő szerv az okmánynyilvántartásban rögzíti az általa kiadott hatósági igazolvány kitöltésének tényét, és kezeli a – a Nytv. 9. §-ának (3) bekezdése szerint – az eljárásban keletkezett alapiratokat.
+(3)[^64] A nyilvántartást kezelő szerv az okmánynyilvántartásban rögzíti az általa kiadott hatósági igazolvány kitöltésének tényét, és kezeli a – a Nytv. 9. §-ának (3) bekezdése szerint – az eljárásban keletkezett alapiratokat.
 
-(4)[^63] A nyilvántartást kezelő szerv a nála benyújtott bejelentések alapján gondoskodik a hatósági igazolványok visszavonása tényének az okmánynyilvántartáson történő átvezetéséről.
+(4)[^65] A nyilvántartást kezelő szerv a nála benyújtott bejelentések alapján gondoskodik a hatósági igazolványok visszavonása tényének az okmánynyilvántartáson történő átvezetéséről.
 
-[^59]: Az R. 14. §-a a 230/2000. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^60]: Az R. 14. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. és 8. pontja szerint módosított szöveg.
-[^61]: Az R. 14. § új (2) bekezdését a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva. Az R. 14. § (2) bekezdését a 115/2007. (V. 24.) Korm. rendelet 31. § (4) bekezdésének a) pontja hatályon kívül helyezte.
-[^62]: Az R. 14. § eredeti (2) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (1) bekezdése (3) bekezdésre változtatta. A (3) bekezdés a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
-[^63]: Az R. 14. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (1) bekezdése, szövege a 182/2009. (IX. 10.) Korm. rendelet 47. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. és (19) bekezdés b) pontja szerint módosított szöveg.
+[^61]: Az R. 14. §-a a 230/2000. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^62]: Az R. 14. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. és 8. pontja szerint módosított szöveg.
+[^63]: Az R. 14. § új (2) bekezdését a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (1) bekezdése iktatta be, egyidejűleg az eredeti (2)–(3) bekezdés számozását (3)–(4) bekezdésre változtatva. Az R. 14. § (2) bekezdését a 115/2007. (V. 24.) Korm. rendelet 31. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^64]: Az R. 14. § eredeti (2) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (1) bekezdése (3) bekezdésre változtatta. A (3) bekezdés a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
+[^65]: Az R. 14. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (1) bekezdése, szövege a 182/2009. (IX. 10.) Korm. rendelet 47. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. és (19) bekezdés b) pontja szerint módosított szöveg.

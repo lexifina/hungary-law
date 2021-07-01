@@ -1,6 +1,6 @@
-10/A. §[^40] A kijelölt kormányhivatal hatósági jogkörében:
+10/A. §[^41] A kijelölt kormányhivatal hatósági jogkörében:
 
-a)[^41] dönt a 3. § (1) és (4) bekezdése szerinti esetekben a nyilvántartásba vételről, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásáról, visszavonásáról, a külföldön élő magyar állampolgárok adatainak helyesbítéséről, módosításáról, valamint a 3. § (1) bekezdése szerinti esetekben a személyazonosító igazolvány kiadásáról, visszavonásáról;
+a)[^42] dönt a 3. § (1) és (4) bekezdése szerinti esetekben a nyilvántartásba vételről, a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásáról, visszavonásáról, a külföldön élő magyar állampolgárok adatainak helyesbítéséről, módosításáról, valamint a 3. § (1) bekezdése szerinti esetekben a személyazonosító igazolvány kiadásáról, visszavonásáról;
 
 b) dönt a nála előterjesztett kérelmek ügyében a személyazonosító igazolvány, valamint a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásáról vagy visszavonásáról;
 
@@ -16,17 +16,18 @@ g) az eljáró idegenrendészeti szerv értesítése alapján átvezeti a nyilv�
 
 h) az eljáró menekültügyi hatóság értesítése alapján átvezeti a nyilvántartáson a menekült vagy oltalmazott jogállás megszűnését;
 
-i) dönt a nála előterjesztett kérelmek ügyében az értesítési cím nyilvántartásba vételéről, megújításáról, törléséről;
+i)[^43]
 
 j) dönt a külföldön élő magyar állampolgárok külföldi lakóhely változásának nyilvántartásba vételéről;
 
 k) átvezeti a nyilvántartáson az adatváltozásokat és adatjavításokat a személyazonosító igazolvány, illetve a személyi azonosítóról és a lakcímről szóló hatósági igazolvány kiadásával kapcsolatos – kormányrendeletben megállapított – hatósági jogkörében eljárva;
 
-l)[^42] az Nytv. 4. § (2e) bekezdése szerinti magyar állampolgárt Magyarországon élő magyar állampolgárként a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal nyilvántartásba veszi.
+l)[^44] az Nytv. 4. § (2e) bekezdése szerinti magyar állampolgárt Magyarországon élő magyar állampolgárként a magyar hatóság által vezetett anyakönyvbe bejegyzett adatokkal nyilvántartásba veszi.
 
-m)[^43] az eljáró idegenrendészeti szerv értesítése alapján átvezeti a nyilvántartásban a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett letelepedett jogállásának tényét.
+m)[^45] az eljáró idegenrendészeti szerv értesítése alapján átvezeti a nyilvántartásban a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett letelepedett jogállásának tényét.
 
-[^40]: Az R. 10/A. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^41]: Az R. 10/A. § a) pontja a 28/2020. (II. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^42]: Az R. 10/A. § l) pontját a 176/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^43]: Az R. 10/A. § m) pontját a 668/2020. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^41]: Az R. 10/A. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^42]: Az R. 10/A. § a) pontja a 28/2020. (II. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^43]: Az R. 10/A. § i) pontját a 375/2021. (VI. 30.) Korm. rendelet 4. § 4. pontja hatályon kívül helyezte.
+[^44]: Az R. 10/A. § l) pontját a 176/2019. (VII. 18.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^45]: Az R. 10/A. § m) pontját a 668/2020. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.

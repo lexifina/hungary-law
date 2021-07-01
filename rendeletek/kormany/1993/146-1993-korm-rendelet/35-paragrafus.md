@@ -6,10 +6,10 @@
 
 (4)[^255] A lakcím érvénytelenítése vagy „fiktív” jelzéssel szerepeltetése esetén a jegyző, illetve a járási hivatal haladéktalanul gondoskodik arról, hogy az érintett polgár lakcímet tartalmazó hatósági igazolványa érvénytelenségének ténye a hatósági igazolvány nyilvántartásba bejegyzésre kerüljön.
 
-(5)[^256] A címjogosult és a postafiók bérlője a bejelentett értesítési cím törlését kérheti a nyilvántartásból, ha a cím (címhely vagy postafiók) értesítési címként történő nyilvántartását nem kívánja biztosítani.
+(5)[^256]
 
 [^252]: Az R. 35. § (1) bekezdése a 26/2011. (III. 10.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^253]: Az R. 35. § (2) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^254]: Az R. 35. § (3) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^255]: Az R. 35. § (4) bekezdését a 327/2005. (XII. 29.) Korm. rendelet 4. §-a iktatta be, szövege a 417/2012. (XII. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^256]: Az R. 35. § (5) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^256]: Az R. 35. § (5) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 32. §-a iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 11. pontja.
