@@ -10,8 +10,8 @@ c) a Budapest főváros IX. kerület 38299/3, 38299/4, 38299/5, 38299/6, 38299/7
 
 (a továbbiakban együtt: létesítményfejlesztési ingatlanok) tekintetében.
 
-(2) A létesítményfejlesztési ingatlanokon az M3 metróvonalat érintő építmények tekintetében a fővárosi és kerületi településrendezési eszközöknek az előírásait az e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt eltérésekkel kell figyelembe venni.
+(2) A létesítményfejlesztési ingatlanokon az M3 metróvonalat érintő építmények tekintetében a fővárosi és kerületi településrendezési terveknek az előírásait az e törvény felhatalmazása alapján kiadott kormányrendeletben foglalt eltérésekkel kell figyelembe venni.
 
 (3) A létesítményfejlesztési ingatlanok telkét úgy kell kialakítani, hogy azon csak a beruházáshoz tartozó felépítmények álljanak.
 
-(4) A létesítményfejlesztési ingatlanok telke rendezettnek minősül, ha a kerületi településrendezési eszközöknek megfelelő telekalakítási eljárásban a telekalakítási engedély rendelkezésre áll. A telekalakítási engedély alapján az ingatlan-nyilvántartásba történő bejegyzésre vonatkozó változásátvezetési eljárást a használatbavételi engedély megkéréséig kérelmezni kell.
+(4) A létesítményfejlesztési ingatlanok telke rendezettnek minősül, ha a kerületi településrendezési terveknek megfelelő telekalakítási eljárásban a telekalakítási engedély rendelkezésre áll. A telekalakítási engedély alapján az ingatlan-nyilvántartásba történő bejegyzésre vonatkozó változásátvezetési eljárást a használatbavételi engedély megkéréséig kérelmezni kell.
