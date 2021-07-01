@@ -22,5 +22,11 @@ c) a bevándorlási engedély, illetve a letelepedett jogállást igazoló okmá
 
 (5) Ha a kérelem az Etv. IX. Fejezetének hatálya alá tartozik, az eljáró hatóság előírhatja, hogy az ügyfél mellékeljen olyan más tagállami igazolást, amely azt tanúsítja, hogy az ügyfél képzés sikeres elvégzését tanúsító okirata az Etv. IX. Fejezetének hatálya alá tartozik.
 
+(6)[^50] Ha a kérelmező a kérelmét elektronikus ügyintézés igénybevételével nyújtja be, az (1) bekezdés b) pontja szerinti hiteles másolatot és hiteles fordítást, az (1) bekezdés c) pontja szerinti okiratot és hiteles fordítást, a (3)–(5) bekezdés szerinti okiratokat, a 3. § szerinti okiratokat, valamint az 5/E. § szerinti okiratokat elektronikusan is benyújthatja.
+
+(7)[^51] Ha a (6) bekezdés alapján elektronikusan benyújtott okiratok hitelessége kétséges, az eljáró hatóság előírja, hogy a kérelmező mutassa be a (6) bekezdésben meghatározott okiratok eredeti példányát.
+
 [^48]: Az 5/D. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
 [^49]: Az 5/D. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 218. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^50]: Az 5/D. § (6) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^51]: Az 5/D. § (7) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
