@@ -2406,6 +2406,6 @@
 
 | 1202 | Zsurk |
 
-2. melléklet a 27/2013. (II. 12.) Korm. rendelethez[^7]
+2. melléklet a 27/2013. (II. 12.) Korm. rendelethez[^8]
 
-[^7]: A 2. mellékletet a 147/2013. (V. 14.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 15/2018. (II. 13.) Korm. rendelet 4. § c) pontja.
+[^8]: A 2. mellékletet a 147/2013. (V. 14.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 15/2018. (II. 13.) Korm. rendelet 4. § c) pontja.
