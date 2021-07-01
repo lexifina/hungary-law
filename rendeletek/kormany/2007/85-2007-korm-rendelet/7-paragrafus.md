@@ -1,5 +1,3 @@
-## az idegenrendészeti szerv által kiállított igazolás alapján az igazolásban meghatározott viszonylatra és alkalommal.
-
 7. § (1)[^24] Utazási utalvánnyal – évente 12 alkalommal – az 1. mellékletben meghatározott kedvezményű menettérti utazásra jogosult:
 
 a)[^25] a költségvetési szervek és intézmények – beleértve az önkormányzati költségvetésből gazdálkodó szerveket is – közalkalmazotti, egészségügyi szolgálati, közszolgálati, kormányzati szolgálati, adó- és vámhatósági szolgálati, rendvédelmi igazgatási szolgálati, honvédelmi alkalmazotti vagy hivatásos szolgálati jogviszony – ideértve a bírói, az igazságügyi és az ügyészségi szolgálati viszonyt is – keretében foglalkoztatott, valamint a közigazgatási szerveknél ügykezelőként, illetve fizikai alkalmazottként foglalkoztatott (továbbfoglalkoztatott) dolgozója,

@@ -1,5 +1,3 @@
-## A belföldi menetrend szerint közforgalmi közlekedésben utazót megillető közforgalmú személyszállítási utazási kedvezmény mértéke
-
 |  | A | B | C |  | D |
 
 | 1. |  |  | Kedvezmények a helyközi közlekedésben | Kedvezmények a helyi közlekedésben |

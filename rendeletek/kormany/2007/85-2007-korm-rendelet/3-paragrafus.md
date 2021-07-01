@@ -30,7 +30,7 @@ e) a szociális igazgatásról és a szociális ellátásokról szóló 1993. é
 
 f) az e) pont szerinti bentlakó gondozott látogatója a lakóhelye (tartózkodási helye) és az ellátást nyújtó, illetve a bentlakásos intézmény székhelye (telephelye) között;
 
-g)[^12] a 18. életéve betöltéséig az az álláskereső, aki a Nemzeti Foglalkoztatási Alapból vagy Európai Uniós forrásból támogatott képzésben vesz részt, a állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) igazolása alapján, a képzésben részt vevő lakóhelye (tartózkodási helye) és a képzés helye közötti utazásra;
+g)[^12] a 18. életéve betöltéséig az az álláskereső, aki a Gazdaság-újraindítási Foglalkoztatási Alapból vagy Európai Uniós forrásból támogatott képzésben vesz részt, a állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) igazolása alapján, a képzésben részt vevő lakóhelye (tartózkodási helye) és a képzés helye közötti utazásra;
 
 h)[^13] az a szabad mozgás és tartózkodás jogával rendelkező személy, aki olyan alap-, közép-, illetve felsőfokú oktatási intézmény nappali oktatás munkarendje vagy esti oktatás munkarendje szerint folyó oktatásban részt vevő tanulója, illetve hallgatója, amely az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban, illetve olyan államban működik, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján a szabad mozgás és tartózkodás joga tekintetében az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
@@ -44,7 +44,7 @@ a) a tanévre, illetve a tanév II. félévére érvényesített diákigazolván
 
 b) a tanév I. félévére érvényesített diákigazolványnál a tárgyév márciusi
 
-## havijegy érvényességi idejének lejártáig vehetők igénybe.
+havijegy érvényességi idejének lejártáig vehetők igénybe.
 
 (5)[^14] Az (1) bekezdés b) pont szerinti igazolás a kedvezményt igénybevevő személyazonosságának igazolására alkalmas hatósági igazolvánnyal rendelkezőknek, annak együttes felmutatásával érvényes.
 
@@ -52,6 +52,6 @@ b) a tanév I. félévére érvényesített diákigazolványnál a tárgyév má
 [^9]: A 3. § (1) bekezdés b) pontja a 89/2013. (III. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^10]: A 3. § (1) bekezdésének c) pontja a 115/2007. (V. 24.) Korm. rendelet 31. § (3) bekezdésének s) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés d) pontja a 73/2013. (III. 8.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^12]: A 3. § (1) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 97. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 97. § a) pontja, a 356/2021. (VI. 24.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdésének h) pontját a 115/2007. (V. 24.) Korm. rendelet 30. § (3) bekezdése iktatta be.
 [^14]: A 3. § (5) bekezdését a 73/2013. (III. 8.) Korm. rendelet 14. § (2) bekezdése iktatta be.

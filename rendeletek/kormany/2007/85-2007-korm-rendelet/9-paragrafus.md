@@ -14,7 +14,7 @@ ea) a Szátv. 8. § (3) bekezdés b) pontjában meghatározott 18 éven aluli sz
 
 eb) a szabad mozgás és tartózkodás jogával rendelkező 18 éven aluli személyek legalább tíz főből álló csoportja és a velük utazó két 18. életévét betöltött kísérője
 
-## a csoportos utazást szervező előzetes megrendelése alapján;
+a csoportos utazást szervező előzetes megrendelése alapján;
 
 f) a szülő (szülők) és a vele (velük) együtt utazó legalább 3 gyermekük, a személyazonosság és a feltételek igazolására alkalmas okmány(ok) felmutatásával,
 

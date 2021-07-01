@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-85-20-2
 | 2020-06-18 | 2007-85-20-22.35 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2021-01-01 | 2007-85-20-22.36 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2021-03-01 | 2007-85-20-22.37 | 284/2020. (VI. 17.) Korm. rendelet |
+| 2021-07-01 | 2007-85-20-22.38 | 70/2015. (III. 30.) Korm. rendelet |
