@@ -52,7 +52,7 @@ j) az igazságügyi szakértők értékelésére vonatkozó részletes szabályo
 
 k) az igazságügyi szakértői és szakértőjelölti igazolványra vonatkozó részletes szabályokat,
 
-l) az elektronikus felület létrehozására és kezelésére vonatkozó részletes szabályokat,
+l)
 
 m) az adópolitikáért felelős miniszterrel egyetértésben a kamarai tagság szünetelésének engedélyezése iránti eljárás és a szakértőjelölti igazolvány kiállítása iránti eljárás igazgatási szolgáltatási díjának összegére, befizetésére, visszatérítésére és nyilvántartására vonatkozó részletes szabályokat és
 

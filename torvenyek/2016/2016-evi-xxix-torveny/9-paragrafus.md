@@ -1,6 +1,6 @@
 9. § (1) A névjegyzékbe történő felvétel iránti kérelem tartalmára vonatkozó szabályokat a Kormány rendeletben állapítja meg. Kérelem csak a miniszter rendeletében szereplő szakterületre nyújtható be.
 
-(2) A névjegyzéket vezető hatóság a kérelemről értesíti a Kamarát. A Kamara az eljárásban véleményezőként vesz részt. A Kamara az értesítés kézhezvételétől számított tizenöt napon belül jelzi, ha tudomása van olyan tényről, ami akadálya a kérelmező felvételének.
+(2)
 
 (2a) A névjegyzéket vezető hatóság a hiánypótlásra legfeljebb harmincnapos határidőt állapíthat meg.
 

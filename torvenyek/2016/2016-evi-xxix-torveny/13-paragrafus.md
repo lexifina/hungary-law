@@ -10,7 +10,7 @@ c) a névjegyzékben szereplő adatok változását, a Kormány rendeletében me
 
 d) az igazságügyi szakértő hatósági kirendelésre történő szakvélemény nyújtásával egy évet elérő késedelembe esett,
 
-e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének felhívás ellenére ismételten nem tesz eleget,
+e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének ugyanazon eljárásban felhívás ellenére ismételten nem tesz eleget,
 
 f) azon statisztikai adatokat, amelyeket e törvény alapján a Kamara részére szolgáltatni köteles, a naptári év tekintetében határidőben nem szolgáltatja,
 

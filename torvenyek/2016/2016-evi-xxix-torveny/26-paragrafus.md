@@ -8,4 +8,4 @@ c) nincs a névjegyzékben szereplő tagja vagy alkalmazottja,
 
 d) a névjegyzékben szereplő valamennyi tagjának és alkalmazottjának a kamarai tagsága szünetel, vagy fel van függesztve vagy
 
-e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének felhívás ellenére ismételten nem tesz eleget.
+e) az 5. § (2) bekezdés f) pontjában meghatározott kötelezettségének ugyanazon eljárásban felhívás ellenére ismételten nem tesz eleget.

@@ -6,73 +6,77 @@ Az igazságügyi szakértői névjegyzék tartalma
 
 1.1. családi neve és utóneve(i);
 
-1.2. anyja születési neve;
+1.2. születési neve;
 
-1.3. születési hely és idő;
+1.3. anyja születési neve;
 
-1.4. lakcím (postacím, telefon-, telefaxszám, e-mail);
+1.4. születési hely és idő;
 
-1.5. munkahely (postacím, telefon-, telefaxszám, e-mail);
+1.5. lakcím (postacím, telefon-, telefaxszám, e-mail);
 
-1.6. elérhetőségi cím (postacím, telefon-, telefaxszám, e-mail);
+1.6. munkahely (postacím, telefon-, telefaxszám, e-mail);
 
-1.7. nyelvismeret (nyelv, nyelvtudás foka);
+1.7. elérhetőségi cím (postacím, telefon-, telefaxszám, e-mail);
 
-1.8. szakmai kamarai tagság;
+1.8. nyelvismeret (nyelv, nyelvtudás foka);
 
-1.9. igazságügyi szakértői igazolvány száma;
+1.9. szakmai kamarai tagság;
 
-1.10. szakterület
+1.10. igazságügyi szakértői eskü letételének időpontja;
 
-1.10.1. a névjegyzékbe bejegyzett szakterület és a bejegyzés időpontja,
+1.11. igazságügyi szakértői igazolvány száma;
 
-1.10.2. elutasított szakterület és az elutasítás időpontja,
+1.12. szakterület
 
-1.10.3. elbírálás alatt lévő szakterület;
+1.12.1. a névjegyzékbe bejegyzett szakterület és a bejegyzés időpontja,
 
-1.11. iskolai végzettség és szakmai képesítés, valamint nemzetközi vagy hazai szakmai minősítés;
+1.12.2. elutasított szakterület és az elutasítás időpontja,
 
-1.12. állapot
+1.12.3. elbírálás alatt lévő szakterület;
 
-1.12.1. névjegyzékbe felvett,
+1.13. iskolai végzettség és szakmai képesítés, valamint nemzetközi vagy hazai szakmai minősítés;
 
-1.12.2. névjegyzékbe történő felvétel folyamatban,
+1.14. állapot
 
-1.12.3. névjegyzékbe bejegyzett, kiterjesztési kérelem folyamatban,
+1.14.1. névjegyzékbe felvett,
 
-1.12.4. névjegyzékbe bejegyzett, kamarai tagsági viszony szünetel,
+1.14.2. névjegyzékbe történő felvétel folyamatban,
 
-1.12.5. névjegyzékbe bejegyzett, kamarai tagsági viszony felfüggesztve,
+1.14.3. névjegyzékbe bejegyzett, kiterjesztési kérelem folyamatban,
 
-1.12.6. névjegyzékből törölt,
+1.14.4. névjegyzékbe bejegyzett, kamarai tagsági viszony szünetel,
 
-1.12.7. elhunyt;
+1.14.5. névjegyzékbe bejegyzett, kamarai tagsági viszony felfüggesztve,
 
-1.13. tudományos fokozat;
+1.14.6. névjegyzékből törölt,
 
-1.14. nyilvántartási szám;
+1.14.7. elhunyt;
 
-1.15. az igazgatási ügyiratok ügyszáma;
+1.15. tudományos fokozat;
 
-1.16. az 55. § (2) bekezdése szerinti bejelentés ténye az ügyre történő utalással;
+1.16. nyilvántartási szám;
 
-1.17. az igazságügyi szakértő minősítése;
+1.17. az igazgatási ügyiratok ügyszáma;
 
-1.18. a szakértő ellen
+1.18. az 55. § (2) bekezdése szerinti bejelentés ténye az ügyre történő utalással;
 
-1.18.1. közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
+1.19. az igazságügyi szakértő minősítése;
 
-1.18.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
+1.20. a szakértő ellen
 
-1.19. annak ténye, hogy a szakértő az elektronikus kapcsolattartást vállalja; ebben az esetben elektronikus elérhetősége;
+1.20.1. közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
 
-1.20. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
+1.20.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
 
-1.21. nyilatkozat arról, hogy az igazságügyi szakértő tevékenységét fő- vagy mellékállásban végzi;
+1.21. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség, ha a szakértő elektronikus kapcsolattartásra köteles vagy azt vállalja;
 
-1.22. egyetemi vagy főiskolai végzettsége, a diploma minősítése;
+1.22. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
 
-1.23. külön minősítésre vonatkozó adat (ha van);
+1.23. nyilatkozat arról, hogy az igazságügyi szakértő tevékenységét fő- vagy mellékállásban végzi;
+
+1.24. egyetemi vagy főiskolai végzettsége, a diploma minősítése;
+
+1.25. külön minősítésre vonatkozó adat (ha van).
 
 2. Az igazságügyi szakértők névjegyzéke a gazdasági társaság következő adatait tartalmazza:
 
@@ -82,17 +86,19 @@ Az igazságügyi szakértői névjegyzék tartalma
 
 2.3. cégjegyzékszám,
 
-2.4. szakterület,
+2.4. adószám,
 
-2.5. a vezető tisztségviselő neve,
+2.5. elektronikus kézbesítési cím,
 
-2.6. a vezető tisztségviselő lakóhelye,
+2.6. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség,
 
-2.7. annak ténye, hogy a társaság az elektronikus kapcsolattartást vállalja, az azt vállaló vezető tisztségviselő nevének megjelölésével,
+2.7. szakterület,
 
-2.8. az elektronikus kapcsolattartást vállaló vezető tisztségviselő születési helye, ideje és anyja neve,
+2.8. a vezető tisztségviselő neve,
 
-2.9. a 23. § (1) bekezdésében meghatározott tagokra és alkalmazottakra vonatkozó nyilvános adatok.
+2.9. a vezető tisztségviselő lakóhelye,
+
+2.10. a 23. § (1) bekezdésében meghatározott tagokra és alkalmazottakra vonatkozó nyilvános adatok.
 
 3. Az igazságügyi szakértők névjegyzéke az igazságügyi szakértői intézmények következő adatait tartalmazza:
 
