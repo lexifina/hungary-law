@@ -1,1 +1,1 @@
-64. §
+64. § A Kpt. 6. § (1) bekezdésében a „legfeljebb három évig lehet a pontok összesítésénél figyelembe venni” szövegrész helyébe a „legfeljebb három évig lehet a pontok összesítésénél figyelembe venni (elévülés)” szöveg lép.

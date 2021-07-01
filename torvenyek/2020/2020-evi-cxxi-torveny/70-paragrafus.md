@@ -1,3 +1,9 @@
-## 13.
+## 13. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-70. §
+70. § (1) A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény (a továbbiakban: Gfbt.) 45. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 44. §-ban meghatározott közlekedési igazgatási eljárásokban és a gépjármű időszakos vizsgálata során, továbbá a közúti forgalomban részt vevő jármű ellenőrzésekor a biztosítási fedezet fennállását, a gépjármű első forgalomba helyezésére, a forgalmi engedélybe üzembentartóval kapcsolatos bejegyzés tételére, ideiglenes forgalomban tartási engedély kiadására és meghosszabbítására irányuló közlekedési hatósági eljárások megindításakor a 49. § (1a) bekezdése szerinti ajánlat (a továbbiakban: hatályosult ajánlat) meglétét az ellenőrzésre jogosult hatóság elektronikus úton, közvetlen lekérdezéssel, a kötvénynyilvántartó szervvel számítógépes kommunikációs kapcsolat segítségével ellenőrzi. E hatósági eljárások során az ügyfél, illetve az ellenőrzés alá vont jogosult a felelősségbiztosítási szerződés fennállását az (1a) bekezdésben meghatározott igazolóeszközzel is bizonyítani.”
+
+(2) A Gfbt. 45. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a járműnyilvántartás és a kötvénynyilvántartás, továbbá az ideiglenes rendszámtáblák nyilvántartása és a kötvénynyilvántartás kötvénynyilvántartó szerv általi összevetésével, vagy az ellenőrzésre jogosult hatóság eljárása során megállapítást nyer, hogy a gépjárműre vagy az ideiglenes rendszámra nincs érvényes biztosítási fedezet, a kötvénynyilvántartó szerv, illetve a hatóság értesítése alapján az üzembentartó, vagy az ideiglenes rendszámtábla jogosultjának lakóhelye (székhelye) szerint illetékes járási hivatal jogszabályban meghatározott módon – az 57/A. § (1) bekezdésének megfelelően mentesített gépjárművek kivételével – az ideiglenes rendszámtáblát visszavonja és a gépjárművet kivonja a forgalomból.”
