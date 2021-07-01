@@ -20,12 +20,6 @@ b) kizárólag adóraktározási eljárás hatálya alatt álló terméket ért�
 
 c) kizárólag adóraktározási eljárás hatálya alatt álló terméket értékesít a 89. § szerint a Közösség másik tagállamába, és az adómentesség érvényesítéséhez az adóraktár üzemeltetőjét hatalmazza meg, feltéve, hogy a Közösség másik tagállamában gazdasági céllal letelepedett, gazdasági célú letelepedés hiányában ott lakóhellyel vagy szokásos tartózkodási hellyel rendelkezik.
 
-(4) Mentesül az Art. szerinti bejelentkezési kötelezettség alól a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany a 45/A. § szerinti szolgáltatásnyújtása tekintetében, feltéve, hogy adófizetési kötelezettségét
-
-a) a Közösség területén letelepedett adóalany a gazdasági célú letelepedése, ennek hiányában lakóhelye, vagy szokásos tartózkodási helye szerinti,
-
-b) a Közösség területén nem letelepedett adóalany a választása szerinti
-
-tagállamban teljesíti azon tagállami szabályozás alapján, amely tartalmában megfelel a Héa-irányelv 358–369. cikkében vagy 369a–369k. cikkében foglaltaknak.
+(4) Mentesül az Art. szerinti bejelentkezési kötelezettség alól a belföldön gazdasági céllal nem letelepedett, belföldön lakóhellyel vagy szokásos tartózkodási hellyel nem rendelkező adóalany harmadik államból importált termék távértékesítése, termék Közösségen belüli távértékesítése, ideértve azt az az esetet is, ha a 12/C. § (2) bekezdése szerint jár el, valamint nem adóalany részére nyújtott szolgáltatása tekintetében, feltéve, hogy adófizetési kötelezettségét a Közösség másik tagállamában teljesíti azon tagállami szabályozás alapján, amely tartalmában megfelel a Héa-irányelv XII. cím 6. fejezet 2–4. szakaszában foglaltaknak.
 
 (5) Mentesül az Art. szerinti bejelentkezési kötelezettség alól az az egyéni vállalkozónak nem minősülő természetes személy adóalany, aki kizárólag a 86. § (1) bekezdés l) pontja szerinti adómentes szolgáltatást nyújt, feltéve, hogy nem él a 88. § (1) bekezdés b) pont szerinti választási jogával és a 257/B. § szerint közösségi adószám kiváltására nem kötelezett.

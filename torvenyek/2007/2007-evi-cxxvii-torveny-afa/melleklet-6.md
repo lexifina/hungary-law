@@ -4,8 +4,6 @@ A 142. § (1) bekezdése d) pontjának alkalmazása alá tartozó termékek
 
 |
 
-Sorszám
-
 |
 
 Megnevezés

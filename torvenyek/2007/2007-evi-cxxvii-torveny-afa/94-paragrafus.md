@@ -4,7 +4,7 @@ a) a Vámmentességi-rendelet II. címének VI. fejezete alatt meghatározott eg
 
 b) a Vámmentességi-rendelet II. címének VIII. fejezete alatt szabályozott termék importján túl a legfeljebb 6 hónapos korú telivér ló importja is, ha az olyan anyaállattól született, amelyet belföldön termékenyítettek meg, majd azt követően ellés céljából a Közösség területén kívülre adtak fel küldeményként vagy fuvaroztak el ideiglenes jelleggel;
 
-c) a Vámmentességi-rendelet II. címének V. fejezete alatt szabályozott termék (termékek) importja is, ha annak (azok) összértéke nem haladja meg a 22 euronak megfelelő pénzösszeget;
+c)
 
 d) a Vámmentességi-rendelet II. cím XI. fejezetének 42. és 43. cikkében meghatározott termék importja, ha az ellenérték nélküli, vagy ha ellenérték fejében történik, de a terméket értékesítő nem adóalany személy, szervezet.
 
@@ -31,3 +31,5 @@ i) a Vámmentességi-rendelet II. cím XVII. fejezete 61. cikk (1) bekezdéséne
 j) a Vámmentességi-rendelet II. cím XVII. fejezetének 66–68., valamint 70–73. cikkeiben szabályozott termék importja, ha az importáló maga a fogyatékos személy;
 
 k) a Vámmentességi-rendelet II. címének XXVI. fejezetében szabályozott termék importja, ha annak ellenértékét járulékos költségként a 74. §, illetőleg a 75. § (1) bekezdésének b) pontja és (2) bekezdése szerint megállapított adóalap nem tartalmazza.
+
+l) a Vámmentességi-rendelet II. címének V. fejezete alatt szabályozott termék importja.

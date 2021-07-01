@@ -2,6 +2,8 @@
 
 Az „adó” kifejezés jelentése a Közösség egyes tagállamaiban
 
+2K26624M_0
+
 |
 
 1. A Belga Királyság esetében: Belasting over de toegevoegde waarde (BTW), illetőleg Taxe sur la valeur ajoutée (TVA);

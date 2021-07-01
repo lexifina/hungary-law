@@ -1,3 +1,3 @@
 ## Módosuló jogszabályok
 
-263–266. §
+### 263. §

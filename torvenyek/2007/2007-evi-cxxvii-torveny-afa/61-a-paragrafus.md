@@ -1,0 +1,1 @@
+61/A. § Az 55–61. §-tól eltérően, ha az adóalanyt a 12/C. § szerint úgy kell tekinteni, mint aki (amely) a terméket egyúttal beszerzi és értékesíti, az általa, valamint a részére történő termékértékesítés esetében a teljesítés a fizetés elfogadásának időpontja. Ebben az esetben a fizetendő adót is ekkor kell megállapítani.

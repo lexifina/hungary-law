@@ -2,7 +2,7 @@
 
 a) olyan termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, amelynek teljesítési helye külföld, de amelyet, ha belföldön teljesítene, adólevonásra jogosító termékértékesítésének, szolgáltatásnyújtásának minősülne;
 
-b) a 89. és 92. §, a 93. § (2) bekezdése, valamint a 98–117. §-ok szerint adómentes termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja;
+b) a 87/A. §, a 89. §, a 92. §, a 93. § (2) bekezdése, valamint a 98–117. § szerint adómentes termékértékesítése, szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja;
 
 c) a 86. § (1) bekezdésének a)–f) pontjai szerint adómentes szolgáltatásnyújtása érdekében használja, egyéb módon hasznosítja, feltéve, hogy
 

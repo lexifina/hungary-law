@@ -7,3 +7,5 @@
 a) megelőzik azt a termékértékesítést, amelynek teljesítési helye megállapítására a 26. § alkalmazandó, a teljesítési helye az a hely, ahol a termék – a beszerző nevére szóló rendeltetéssel – a küldeménykénti feladásakor vagy a fuvarozás megkezdésekor van;
 
 b) követik azt a termékértékesítést, amelynek teljesítési helye megállapítására a 26. § alkalmazandó, a teljesítési helye az a hely, ahol a termék a küldeménykénti megérkezésekor vagy a fuvarozás befejezésekor van.
+
+(4) Az (1)–(3) bekezdéstől eltérően, ha az adóalanyt a 12/C. § szerint úgy kell tekinteni, mint aki (amely) a terméket egyúttal beszerzi és értékesíti, a termék küldeménykénti feladását vagy fuvarozását az általa teljesített termékértékesítéshez kell hozzárendelni.

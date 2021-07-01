@@ -6,8 +6,6 @@ I. rész: termékek
 
 |
 
-Sorszám
-
 |
 
 Megnevezés
@@ -93,8 +91,6 @@ Gabona, liszt, keményítő vagy tej felhasználásával készült termék
 II. rész: szolgáltatások
 
 |
-
-Sorszám
 
 |
 
