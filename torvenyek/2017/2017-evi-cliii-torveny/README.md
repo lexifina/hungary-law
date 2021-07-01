@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-153-00-00
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2017-153-00-00.11 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 2017-153-00-00.12 |
 | 2021-06-10 | 2021. évi LXIX. törvény | 2017-153-00-00.13 |
+| 2021-07-01 | 2021. évi LXIX. törvény | 2017-153-00-00.14 |

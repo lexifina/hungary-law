@@ -10,7 +10,7 @@
 
 (5) Az eljáró adóhatóság a végrehajtási eljárást törvényben meghatározott esetben felfüggeszti.
 
-(5a) A felfüggesztést elrendelő végzés elleni fellebbezésnek a döntés végrehajtására nincs halasztó hatálya.
+(5a) A felfüggesztés tárgyában hozott végzés elleni fellebbezésnek a döntés végrehajtására nincs halasztó hatálya.
 
 (6) Ha az adóhatóság hatósági átutalási megbízását a fizetési számlát vezető pénzforgalmi szolgáltató a végrehajtás felfüggesztéséről szóló végzés meghozataláig nem teljesítette, az adóhatóság a hatósági átutalási megbízás visszavonásáról haladéktalanul intézkedik. Ha a fizetési számlát vezető pénzforgalmi szolgáltató a hatósági átutalási megbízást a felfüggesztés kezdő napját követően, a felfüggesztés hatálya alatt teljesítette és az összeget az adóhatóság részére átutalta, az adóhatóság azt a tudomására jutásától számított 8 napon belül visszatéríti az adósnak.
 
