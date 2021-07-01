@@ -90,15 +90,15 @@ Az állami adó- és vámhatósághoz bejelentendő adatok
 
 13. Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában az Efo. tv.-ben meghatározott bejelentési kötelezettségének elektronikus úton adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az Efo. tv. keretében általa foglalkoztatott természetes személy Efo. tv. 11. § (3) bekezdése szerinti adatait.
 
-14. Az iskolaszövetkezetnek, illetve a közérdekű nyugdíjas szövetkezetnek a Tbj. 6. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló törvény szerinti tagsági megállapodás alapján személyesen közreműködő tagja esetében – a 3. pontban foglaltaktól eltérően – az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
+14. Az iskolaszövetkezetnek, a közérdekű nyugdíjas szövetkezetnek, illetve a kisgyermekkel otthon lévők szövetkezetének a Tbj. 6. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló törvény szerinti tagsági megállapodás alapján személyesen közreműködő tagja esetében – a 3. pontban foglaltaktól eltérően – az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
 
-14.1. az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet adószámát,
+14.1. az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, illetve a kisgyermekkel otthon lévők szövetkezetének adószámát,
 
-14.2. az iskolaszövetkezeti, illetve a közérdekű nyugdíjas szövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, iskolaszövetkezeti tag esetén diákigazolványa számát, illetve közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát is.
+14.2. az iskolaszövetkezeti, a közérdekű nyugdíjas szövetkezeti tag, illetve a kisgyermekkel otthon lévők szövetkezete tagja adóazonosító jelét és társadalombiztosítási azonosító jelét, továbbá iskolaszövetkezeti tag esetén diákigazolványa számát, közérdekű nyugdíjas szövetkezeti tag esetén nyugdíjfolyósítási törzsszámát, illetve kisgyermekkel otthon lévők szövetkezetének tagja esetén azt, hogy nem nagyszülőként részesül-e gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban.
 
-15. Az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő nyolc napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a 3.3. pontjában foglaltakat megfelelően alkalmazni kell.
+15. Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő nyolc napon belül az iskolaszövetkezeti, illetve közérdekű nyugdíjas szövetkezeti tag, továbbá a kisgyermekkel otthon lévők szövetkezete tagjának jogviszonya megszűnésének napját. Jogutódlás esetén a 3.3. pontjában foglaltakat megfelelően alkalmazni kell.
 
-16. Az iskolaszövetkezet, illetve a közérdekű nyugdíjas szövetkezet bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
+16. Az iskolaszövetkezet, a közérdekű nyugdíjas szövetkezet, továbbá a kisgyermekkel otthon lévők szövetkezete bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 
 16.1. elektronikus úton – a tárhelyen keresztül – vagy
 

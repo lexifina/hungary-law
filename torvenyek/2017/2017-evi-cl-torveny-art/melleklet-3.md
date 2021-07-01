@@ -249,17 +249,3 @@
 ## 4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék
 
 ## A természetes személy a Tbj. 43. § (1) bekezdése alapján előírt járulékfizetési kötelezettségét a tárgyhót követő hónap 12. napjáig vagy az állami adó és vámhatóság által meghatározott időpontig teljesíti.
-
-## 5. Játékadó
-
-## 5.1. Az adózó – az 5.2. alpontban foglalt kivétellel – a játékadót a tárgyhót követő hó huszadik napjáig, a nem folyamatosan szervezett sorsolásos játék esetén a sorsolás napját követő hó huszadik napjáig vallja be és fizeti meg.
-
-## 5.2. A játékautomata éves adóját az adózó az erre vonatkozó bevallás benyújtásával egyidejűleg fizeti meg.
-
-## 6. Rehabilitációs hozzájárulás
-
-## 6.1. Az adózó a rehabilitációs célú hozzájárulásra a jogszabályban előírt módon számított előleget az I–III. negyedévben a negyedévet követő hó huszadik napjáig fizeti meg.
-
-## 6.2. A befizetett előlegek és az éves hozzájárulás különbözetét az adóévet követő év február huszonötödik napjáig kell megfizetni.
-
-## 7. Külön fel nem sorolt befizetések

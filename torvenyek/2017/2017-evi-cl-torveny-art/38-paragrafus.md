@@ -18,4 +18,6 @@ g) amelyet a bírósági nyilvántartásból töröltek,
 
 h) akinek (amelynek) nyilvántartását nem a bíróság, a cégbíróság, a kincstár vagy az egyéni vállalkozók nyilvántartását vezető szerv vezeti, és adószámát az állami adó- és vámhatóság a 246. § alapján véglegesen törölte.
 
+i) aki áfa-regisztrált adóalanyként bejelenti, hogy általános forgalmi adókötelezettségének az Európai Unió egy másik tagállamának illetékes hatóságán keresztül tesz eleget, és ezen adókötelezettségen kívül egyéb adókötelezettsége belföldön nem merül fel.
+
 (2) Az (1) bekezdés d) pontjában meghatározott esetekben a nyilvántartásból való törlésről az állami adó- és vámhatóság az adózót haladéktalanul értesíti.

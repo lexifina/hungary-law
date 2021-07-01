@@ -32,6 +32,8 @@ a) a köztartozás összegének a költségvetési támogatásból való levoná
 
 b) a költségvetési támogatásnak a köztartozás megfizetéséig történő visszatartása céljából az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásért felelős miniszter által vezetett minisztérium részére.
 
+c) a költségvetési támogatás megállapítása, illetve havi összegének elszámoláson alapuló kifizetése céljából az állami foglalkoztatási szerv részére.
+
 (9) Az állami adó- és vámhatóság elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, havi adó- és járulék bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő, a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében.
 
 (9a) Az állami adó- és vámhatóság megkeresésre elektronikus úton tájékoztatja az ügyvédi kamarát a jogi, ügyvédi szolgáltatást nyújtó adózó adószámáról, valamint az adószámának törléséről.
@@ -105,3 +107,5 @@ o) a hulladékgazdálkodási hatóságot, ha a tájékoztatás törvényben megh
 (25) Az állami adó- és vámhatóság elektronikus úton hivatalból átadja a járási hivatalnak azon adózó természetes személyazonosító adatait, valamint a fizetési kedvezményre irányuló eljárásban feltárt jövedelmi, vagyoni és szociális körülményeinek adatait, akiről a fizetési kedvezmény engedélyezésére irányuló eljárásában olyan tényt tárt fel, amely a szociális rászorultság megállapítását a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerint megalapozhatja.
 
 (26) Ha az állami adó- és vámhatóság a személygépkocsival személyszállítási szolgáltatást végző adózó tekintetében a nyugtaadási kötelezettségek megsértését állapítja meg, akkor az erről szóló véglegessé vált döntését haladéktalanul megküldi a személyszállítási szolgáltatást folytató vállalkozás működési területén illetékes közlekedési hatóság részére, a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott, a tevékenységi engedély visszavonása és a tevékenység végzéstől történő eltiltás feltételeinek vizsgálata céljából.
+
+(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és megyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
