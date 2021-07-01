@@ -82,7 +82,7 @@ f) az (1) bekezdés l) pontja szerinti Központi Statisztikai Hivatal,
 
 g) a (2) bekezdés a) pontja szerinti Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
 
-h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv
+h) a (2) bekezdés d) pontja szerinti közúti közlekedési nyilvántartás járműnyilvántartását vezető szerv, valamint kizárólag az érintett elhalálozása, vagy a nyilvántartásból történő kikerülésének egyéb oka, és időpontja adatok vonatkozásában a közúti közlekedési nyilvántartásról szóló törvény szerinti engedély-nyilvántartást vezető szerv,
 
 i) az (1) bekezdés c) pontja szerinti nyugdíjbiztosítási nyilvántartást vezető társadalombiztosítási szerv,
 
