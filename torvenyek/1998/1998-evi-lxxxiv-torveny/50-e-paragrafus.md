@@ -1,0 +1,1 @@
+50/E. § A 7. § (2) bekezdése alapján járó, 2021. július 1-jén – a 2021. június 30-án hatályos 14. § alapján – szünetelő nevelési ellátást kérelemre, 2021. július 1-jei időponttól újra folyósítani kell.
