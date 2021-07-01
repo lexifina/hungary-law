@@ -2,4 +2,4 @@
 
 19. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^42]
 
-[^42]: A 19. melléklet a 3/2019. (III. 28.) MEKH rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^42]: A 19. melléklet a 6/2021. (VI. 29.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
