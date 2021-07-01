@@ -1,4 +1,4 @@
-9/A. §[^46] (1) Regionális beruházási támogatás az induló beruházáshoz vagy új gazdasági tevékenység végzésére irányuló induló beruházáshoz nyújtható az Atr. 25. §-ában meghatározott régiókban vagy településeken.
+9/A. §[^53] (1) Regionális beruházási támogatás az induló beruházáshoz vagy új gazdasági tevékenység végzésére irányuló induló beruházáshoz nyújtható az Atr. 25. §-ában meghatározott régiókban vagy településeken.
 
 (2) A támogatási intenzitás mértéke – beleértve a más államháztartási forrásokból kapott állami támogatásokat – nem haladhatja meg az Atr. 25. §-ában meghatározott százalékos mértéket.
 
@@ -10,7 +10,7 @@
 
 (6) Nagyvállalkozások esetében az immateriális javak költségei csupán az induló beruházás teljes elszámolható beruházási költségeinek 50%-áig számolhatók el.
 
-(7) Regionális beruházási támogatás esetén a támogatás odaítélését megelőzően – a támogatási kérelemben és a támogatási szerződésben – a kedvezményezett a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
+(7)[^54] Regionális beruházási támogatás esetén a támogatás odaítélését megelőzően – a támogatási igényben és a támogatási szerződésben – a kedvezményezett a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási igény benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási igény tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási igény tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási igény tárgyát képező induló beruházást meg kívánja valósítani.
 
 (8) Nagyberuházás esetén az odaítélhető összes állami támogatás összegéből le kell vonni a beruházás megkezdését megelőző háromszor háromszázhatvanöt napos időszakban a kedvezményezett által vagy a kedvezményezettől független harmadik félnek nem minősülő beruházó által azonos megyében megkezdett beruházáshoz vagy beruházásokhoz odaítélt állami támogatás jelenértéken meghatározott összegét. Ha az összeszámítási szabály figyelembevétele nélkül az adott beruházáshoz nyújtható állami támogatás jelenértéken kisebb, mint az annak alkalmazásával meghatározott támogatási összeg, akkor ez a kisebb összeg az odaítélhető állami támogatás felső korlátja. Ellenkező esetben állami támogatás az összeszámítási szabály alkalmazásával meghatározott összegig nyújtható. Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken 50 000 000 eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
@@ -44,7 +44,7 @@ b) a korábban már használatba vett olyan tárgyi eszköz és támogatható im
 
 c) az olyan tárgyi eszköz és támogatható immateriális javak költsége, amelyet a beruházó nehéz helyzetben lévő vagy csődeljárás, felszámolás vagy kényszertörlési eljárás alatt álló beruházótól szerzett be,
 
-d) a kérelem benyújtásának napja előtt felmerült költség, ráfordítás,
+d)[^55] a támogatási igény benyújtásának napja előtt felmerült költség, ráfordítás,
 
 e) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 31/c. pontja szerinti személygépkocsi költsége és
 
@@ -52,7 +52,9 @@ f) nagyvállalkozásnál a korábban már bárki által használatba vett tárgy
 
 (13) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, e tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
-(14)[^47] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, a (7) bekezdés szerinti kötelezettségvállalás szempontjából nem jelentenek áttelepítést.
+(14)[^56] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, a (7) bekezdés szerinti kötelezettségvállalás szempontjából nem jelentenek áttelepítést.
 
-[^46]: A 9/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 8. §-a iktatta be.
-[^47]: A 9/A. § (14) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 22. §-a iktatta be.
+[^53]: A 9/A. §-t a 226/2019. (IX. 25.) Korm. rendelet 8. §-a iktatta be.
+[^54]: A 9/A. § (7) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 36. § i)–h) pontja szerint módosított szöveg.
+[^55]: A 9/A. § (12) bekezdés d) pontja a 356/2021. (VI. 24.) Korm. rendelet 36. § g) pontja szerint módosított szöveg.
+[^56]: A 9/A. § (14) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 22. §-a iktatta be.
