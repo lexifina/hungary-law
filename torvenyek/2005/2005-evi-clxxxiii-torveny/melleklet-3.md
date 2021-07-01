@@ -11,5 +11,3 @@ b) a 2. mellékletben felsorolt szolgáltatásokra, a karbantartásra, a felúj�
 c) megtérítendő indokoltnak elismert költség meghatározásának módját;
 
 d) új infrastruktúra létrehozásának feltételeit adott esetben;
-
-e) felhasználó-központú teljesítménycélokat, a következő elemeket tartalmazó mutatók és minőségi szempontok leírását:

@@ -4,6 +4,6 @@
 
 a) az épített környezet alakításáról és védelméről szóló törvény és annak felhatalmazása alapján kiadott jogszabályok előírásait,
 
-b) törvény szerint vagy annak alapján hozott valamely településszerkezeti terv vagy helyi építési szabályzat, illetve településrendezési eszköz rendelkezéseit,
+b) törvény szerint vagy annak alapján hozott valamely településrendezési terv rendelkezéseit,
 
 c) a településkép védelméről szóló törvény vagy annak felhatalmazása alapján hozott önkormányzati rendelet előírásait.
