@@ -16,7 +16,9 @@ d) a nemzetközi védelmet kérelmezők befogadására vonatkozó szabályok meg
 
 e) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv 12. cikk (1) bekezdés c) pontjának,
 
-f) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv 27. cikk (1) bekezdésének
+f) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv 27. cikk (1) bekezdésének,
+
+g) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló (EU) 2018/2001 európai parlamenti és tanácsi irányelv 18. cikk (3), (4) és (6) bekezdésének
 
 való megfelelést szolgálja.
 

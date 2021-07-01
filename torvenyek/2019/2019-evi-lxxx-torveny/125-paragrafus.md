@@ -18,7 +18,7 @@ kell kifutó jelleggel megszervezni.
 
 a) a tanuló tanulmányai befejezésére,
 
-b) a gyakorlati képzésben tanulószerződéssel való részvételre,
+b) a gyakorlati képzésben tanulószerződéssel vagy együttműködési megállapodással való részvételre,
 
 c) a szintvizsga és az érettségi vizsga megszervezésére és teljesítésére, valamint
 

@@ -1,27 +1,39 @@
 ### 105. § [A szakképzési hozzájárulásra kötelezett]
 
-(1) Szakképzési hozzájárulásra kötelezett a gazdálkodó szervezet, ha belföldön székhellyel, telephellyel vagy fiókteleppel rendelkezik vagy üzletvezetésének helye belföld.
+(1) Szakképzési hozzájárulásra kötelezett
+
+a) a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet az egyéni vállalkozó kivételével,
+
+b) a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) szerinti egyéni vállalkozó és
+
+c) a belföldön vállalkozási tevékenységet folytató külföldi adóügyi illetőségű személy,
+
+ha belföldön székhellyel, telephellyel vagy fiókteleppel rendelkezik, vagy üzletvezetésének helye belföld.
 
 (2) Szakképzésihozzájárulás-fizetési kötelezettség nem terheli
 
-a) a költségvetési szervet,
+1. az államot, a helyi önkormányzatot és a nemzetiségi önkormányzatot,
 
-b) a civil szervezetet,
+2. a költségvetési szervet,
 
-c) az egyházi jogi személyt, a vallási egyesületet,
+3. a köztestületet,
 
-d) a lakásszövetkezetet, a szociális szövetkezetet, az iskolaszövetkezetet és a közérdekű nyugdíjas szövetkezetet,
+4. a közhasznú szervezetet,
 
-e) a víziközmű-társulatot,
+5. az egyesületet, az alapítványt (ideértve a vagyonkezelő alapítványt, a közfeladatot ellátó közérdekű vagyonkezelő alapítványt és a közalapítványt is),
 
-f) a büntetés-végrehajtásnál a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetet,
+6. az egyházi jogi személyt, a vallási egyesületet,
 
-g) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontjában meghatározott egészségügyi szolgáltatót – feltéve, hogy az egészségbiztosítási szervvel szerződést kötött és nem költségvetési szervként működik – az Eütv. 3. § e) pontjában meghatározott, részben vagy egészben az államháztartás terhére támogatott egészségügyi közszolgáltatás ellátásával összefüggésben őt terhelő szociális hozzájárulási adó alapja után,
+7. a lakásszövetkezetet, a szociális szövetkezetet, az iskolaszövetkezetet, a közérdekű nyugdíjas szövetkezetet és a kisgyermekkel otthon lévők szövetkezetét,
 
-h) az egyéni vállalkozót a szociális hozzájárulási adó alapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját,
+8. a víziközmű-társulatot,
 
-i) az egyéni cég, a végrehajtó iroda, a szabadalmi ügyvivő iroda, az ügyvédi iroda vagy a közjegyzői iroda tevékenységében személyesen közreműködő tagot a szociális hozzájárulási adó alapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját,
+9. a büntetés-végrehajtásnál a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó szervezetet,
 
-j) a közhasznú nonprofit gazdasági társaságot a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 6. számú melléklet E) fejezete alapján megállapított kedvezményezett tevékenység ellátásával összefüggésben őt terhelő szociális hozzájárulási adó alapja után.
+10. az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § f) pontjában meghatározott egészségügyi szolgáltatót – feltéve, hogy az egészségbiztosítási szervvel szerződést kötött és nem költségvetési szervként működik – az Eütv. 3. § e) pontjában meghatározott, részben vagy egészben az államháztartás terhére támogatott egészségügyi közszolgáltatás ellátásával összefüggésben őt terhelő szociális hozzájárulási adó alapja után,
 
-(3) Nem keletkezik szakképzésihozzájárulás-fizetési kötelezettség, ha a szakképzési hozzájárulásra kötelezettet a szociális hozzájárulási adóról szóló törvény alapján adófizetési kötelezettség nem terheli.
+11. az Szja tv. szerinti egyéni vállalkozót a szociális hozzájárulási adó alapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját,
+
+12. az egyéni cég, a végrehajtói iroda, a szabadalmi ügyvivő iroda, az ügyvédi iroda vagy a közjegyzői iroda tevékenységében személyesen közreműködő tagot a szociális hozzájárulási adó alapja után, ide nem értve az általa foglalkoztatottra tekintettel őt terhelő szociális hozzájárulási adó alapját.
+
+(3) Nem keletkezik szakképzésihozzájárulás-fizetési kötelezettség, ha a szakképzési hozzájárulásra kötelezettet szociális hozzájárulási adófizetési kötelezettség nem terheli.

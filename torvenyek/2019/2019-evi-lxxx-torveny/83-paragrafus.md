@@ -4,7 +4,11 @@
 
 (1) A szakképzési munkaszerződéssel a tanuló, illetve a képzésben részt vevő személy és a duális képzőhely között munkaviszony jön létre. A szakképzési munkaszerződéssel a tanuló, illetve a képzésben részt vevő személy elfogadja a szakirányú oktatásban való részvétel feltételeit és kötelezettséget vállal a duális képzőhely irányítása szerint a szakirányú oktatásban való részvételre, a duális képzőhely pedig vállalja a tanuló, illetve a képzésben részt vevő személy szakirányú oktatáson való foglalkoztatását és oktatását, továbbá kötelezettséget vállal a tanuló, illetve a képzésben részt vevő személy számára az e törvényben meghatározott juttatások nyújtására. A szakirányú oktatásban szakképzési munkaszerződéssel való részvétel esetén, ha e törvény eltérően nem rendelkezik, a tanuló, illetve a képzésben részt vevő személy oktatására a duális képzőhelynél a 82. § (1) bekezdés b) pontja szerint kijelölt személy gyakorolja az oktató e törvényben meghatározott jogait és teljesíti kötelezettségeit.
 
-(2) Szakképzési munkaszerződés a tanulóval, illetve a képzésben részt vevő személlyel a szakirányú oktatás kezdő napjával kezdődő hatállyal a szakirányú oktatás egészére kiterjedő határozott időtartamra köthető.
+(2) Szakképzési munkaszerződés a szakirányú oktatásban részt vevő tanulóval, illetve a képzésben részt vevő személlyel köthető
+
+a) a szakirányú oktatás időtartamára vagy
+
+b) évente egy alkalommal, legalább négy és legfeljebb tizenkettő hét egybefüggő időszakra.
 
 (3) A tanuló, illetve a képzésben részt vevő személy egyidejűleg csak egy szakképzési munkaszerződéssel rendelkezhet.
 
