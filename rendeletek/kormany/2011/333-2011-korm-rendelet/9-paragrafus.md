@@ -1,10 +1,8 @@
-## 8. §[^12]
-
 9. §[^13] (1) Az ellátásban részesülő a T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján igényelhető összeg folyósítása iránti kérelmet az adóévet követő év június 30-át követően nyújthatja be.
 
 (2) A kérelmet a Központ által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített, és a Magyar Államkincstár honlapján, valamint a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon a nyugdíjfolyósító szervhez kell benyújtani. Az adatlap és az elektronikus űrlap tartalmazza
 
-a)[^14] az ellátásban részesülő, vele közös háztartásban élő házastársa, élettársa és a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja. tv.) 29/A. § (5) bekezdése szerinti eltartottak (a továbbiakban: eltartott) természetes személyazonosító adatait, lakcímét és Társadalombiztosítási Azonosító Jelét,
+a)[^14] az ellátásban részesülő, vele közös háztartásban élő házastársa, élettársa és az Szja. tv. 29/A. § (5) bekezdése szerinti eltartottak (a továbbiakban: eltartott) természetes személyazonosító adatait, lakcímét és Társadalombiztosítási Azonosító Jelét,
 
 b) a nyilatkozatot a családi kedvezmény, családi járulékkedvezmény jogcíméről,
 
@@ -34,8 +32,7 @@ c) az a) pont szerinti személyek által az adóévben igénybe vett családi ke
 
 (8) A nyugdíjfolyósító szerv a T. 4. § (4) bekezdése, illetve 5. § (5) bekezdése alapján megállapított összeget a határozat véglegessé válásától számított tizenhárom napon belül folyósítja.
 
-[^12]: A 8. §-t a 457/2017. (XII. 28.) Korm. rendelet 374. §-a hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^13]: A 9. § a 457/2017. (XII. 28.) Korm. rendelet 373. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^14]: A 9. § (2) bekezdés a) pontja a 322/2018. (XII. 28.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^14]: A 9. § (2) bekezdés a) pontja a 322/2018. (XII. 28.) Korm. rendelet 13. § a) pontja, a 376/2021. (VI. 30.) Korm. rendelet 21. §-a szerint módosított szöveg.
 [^15]: A 9. § (3) bekezdés b) pontja a 322/2018. (XII. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^16]: A 9. § (6) bekezdés b) pontja a 322/2018. (XII. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
