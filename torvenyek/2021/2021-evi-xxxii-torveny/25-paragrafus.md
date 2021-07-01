@@ -1,0 +1,1 @@
+25. § A Tanács elnöke, a Tanács alelnöke és a Tanács tagjai vagy azon személyek, akik ilyen tisztséget viseltek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.

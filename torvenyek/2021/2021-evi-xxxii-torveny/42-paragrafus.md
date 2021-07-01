@@ -1,0 +1,3 @@
+42. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 121. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vagyonrendezési eljárás lefolytatását elrendelő, a Cégközlönyben közzétett végzésben a bíróság – az eljárás tárgyát képező vagyontárgy megjelölésével vagyonrendezőt rendel ki a felszámolók névjegyzékében szereplő felszámolók közül, a Cstv. 27/A. § (1) bekezdésében foglaltak alkalmazásával. A vagyonrendezőre vonatkozóan a Cstv.-ben a felszámoló szervezetre, illetve a felszámolóbiztosra irányadó összeférhetetlenségi szabályokat alkalmazni kell.”
