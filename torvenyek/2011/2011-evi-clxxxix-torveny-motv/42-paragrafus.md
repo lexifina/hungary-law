@@ -26,7 +26,7 @@
 
 13. az önkormányzati képviselői megbízatás megszűnéséről való döntés, ha a képviselő egy éven át nem vesz részt a képviselő-testület ülésén;
 
-14. a településfejlesztési eszközök és a településszerkezeti terv jóváhagyása;
+14. a településfejlesztési terv és a településrendezési terv jóváhagyása;
 
 15. területszervezési kezdeményezés;
 
