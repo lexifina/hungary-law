@@ -1,0 +1,5 @@
+## 4. A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosítása
+
+23. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 7. § (1) bekezdése a következő rendelkezés lép:
+
+„(1) A cégbíróság nem alkalmazza a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti eltiltás jogkövetkezményét és az eltiltott személyek felelősségének megállapításával kapcsolatos szabályokat az állammal, az államot megillető tulajdonosi jogokat gyakorló szervezettel vagy az ilyen szervezet közvetlen vagy közvetett befolyása alatt álló szervezettel mint taggal és az e tag javaslatára megválasztott vezető tisztségviselőkkel szemben, továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 66. § (2) bekezdése szerinti állami felszámoló szervezet végelszámolóként való eljárása során a végelszámoló szervezettel és a végelszámolói feladatok ellátására kijelölt természetes személy végelszámolóval szemben.”

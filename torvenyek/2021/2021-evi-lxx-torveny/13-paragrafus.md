@@ -1,0 +1,7 @@
+13. § (1) A Ctv. 117/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A cégbíróság harmincnapos nyilatkozattételi határidőt biztosítva – szükség szerint a 117/E. § szerinti értesítéssel együtt – felhívja a vezető tisztségviselőt és a cégjegyzékbe bejegyzett tagokat a cég vagyonára és kötelezettségeire vonatkozó információk közlésére. Az együttműködési kötelezettség megszegése esetén e törvényben meghatározott jogkövetkezmények alkalmazásán túl a cégbíróság az érintett személyt a 98. § (5) bekezdése szerinti pénzbírsággal sújthatja.”
+
+(2) A Ctv. 117/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a cégnek munkavállalóval munkaviszonya áll fenn – feltéve, hogy a cég elleni felszámolási eljárás megindításának feltételei egyébként nem állnak fenn – a cégbíróság a felszámolói névjegyzékből jelöli ki a munkáltatói jogok gyakorlására és a munkaviszonyra vonatkozó szabályban és egyéb jogszabályokban előírt igazolások kiadására, továbbá a Bérgarancia Alapból igényelhető támogatással összefüggő feladatok ellátására jogosult személyt (a továbbiakban: Bérgarancia biztos). A Bérgarancia biztost támogatásnak a Bérgarancia Alapból történő igénylése vonatkozásában ugyanazok a jogok illetik meg és kötelezettségek terhelik, mint a felszámolót a felszámolási eljárás esetében. A Bérgarancia biztos feladatára és felelősségére a munkáltatói jogok gyakorlásával és a munkaviszony megszűnésével összefüggésben a munka törvénykönyvének rendelkezései irányadók.”

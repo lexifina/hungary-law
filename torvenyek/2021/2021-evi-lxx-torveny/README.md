@@ -1,0 +1,7 @@
+# 2021. évi LXX. törvény a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-70-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2021-07-01 | 2021. évi LXX. törvény | 2021-70-00-00.0 (közlönyállapot) |
