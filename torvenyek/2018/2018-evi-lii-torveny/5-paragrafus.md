@@ -28,6 +28,8 @@ i) az egyházi jogi személynek az egyházi szolgálati viszonyban álló egyhá
 
 j) a Tbj. szerint saját jogú nyugdíjasnak minősülő adófizetésre kötelezett személynek az Szja tv. szerinti egyéb jövedelem kivételével.
 
+k) a kisgyermekkel otthon lévők szövetkezetének a nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagjával fennálló jogviszonyára tekintettel.
+
 (2) Nem esik az 1. § (1)–(3) bekezdés szerinti adófizetési kötelezettség alá – e tevékenysége, jogállása alapján szerzett jövedelme tekintetében –
 
 a) a külföldi állam Magyarországra akkreditált diplomáciai és konzuli képviselete személyzetének külföldi állampolgárságú tagja részére kifizetett, juttatott bevétel;
