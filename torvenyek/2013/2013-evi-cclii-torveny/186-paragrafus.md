@@ -2,25 +2,25 @@
 
 186. § (1) A Ptk. 4:124. § (1) bekezdése a következő szöveggel lép hatályba:
 
-„(1) A gyámhatóság a nevelésbe vett gyermeket legfeljebb két évre örökbefogadhatónak nyilvánítja, ha a szülőjének szülői felügyeleti joga nem szűnt meg és a szülő önhibájából
+## „(1) A gyámhatóság a nevelésbe vett gyermeket legfeljebb két évre örökbefogadhatónak nyilvánítja, ha a szülőjének szülői felügyeleti joga nem szűnt meg és a szülő önhibájából
 
-a) gyermekével egy éve nem tart rendszeres kapcsolatot vagy fél éven át semmilyen formában nem tart kapcsolatot, illetve életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel nem szüntethető meg; vagy
+## a) gyermekével egy éve nem tart rendszeres kapcsolatot vagy fél éven át semmilyen formában nem tart kapcsolatot, illetve életvitelén, körülményein nem változtat, és emiatt a nevelésbe vétel nem szüntethető meg; vagy
 
-b) lakó- és tartózkodási helyét az új lakó- és tartózkodási helyének hátrahagyása nélkül megváltoztatja, és az annak felderítésére irányuló intézkedések hat hónapon belül nem vezetnek eredményre.”
+## b) lakó- és tartózkodási helyét az új lakó- és tartózkodási helyének hátrahagyása nélkül megváltoztatja, és az annak felderítésére irányuló intézkedések hat hónapon belül nem vezetnek eredményre.”
 
 (2) A Ptk. 4:233. § (1) bekezdése a következő szöveggel lép hatályba:
 
-„(1) Nem rendelhető gyámul az a személy,
+## „(1) Nem rendelhető gyámul az a személy,
 
-a) aki cselekvőképességet érintő gondnokság alatt áll;
+## a) aki cselekvőképességet érintő gondnokság alatt áll;
 
-b) aki szülői felügyeletet megszüntető vagy közügyektől eltiltó jogerős ítélet hatálya alatt áll;
+## b) aki szülői felügyeletet megszüntető vagy közügyektől eltiltó jogerős ítélet hatálya alatt áll;
 
-c) akinek szülői felügyeleti joga azért szünetel, mert gyermekét nevelésbe vették;
+## c) akinek szülői felügyeleti joga azért szünetel, mert gyermekét nevelésbe vették;
 
-d) akinek a gyermekét örökbefogadhatónak nyilvánították; vagy
+## d) akinek a gyermekét örökbefogadhatónak nyilvánították; vagy
 
-e) akit a szülői felügyelet gyakorlására jogosult szülő a gyámságból közokiratban vagy végrendeletben kizárt.”
+## e) akit a szülői felügyelet gyakorlására jogosult szülő a gyámságból közokiratban vagy végrendeletben kizárt.”
 
 (3) A Ptk.
 

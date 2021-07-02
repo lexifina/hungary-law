@@ -1,3 +1,3 @@
 ## 22. A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosítása
 
-22. §
+### 22. §

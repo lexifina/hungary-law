@@ -1,3 +1,3 @@
 ## 47. A vízgazdálkodásról szóló 1995. évi LVII. törvény módosítása
 
-47. §
+### 47. §

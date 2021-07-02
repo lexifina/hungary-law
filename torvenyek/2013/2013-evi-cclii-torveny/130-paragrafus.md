@@ -22,15 +22,15 @@
 
 (26) A Cnytv. 84. § (2) bekezdése a következő szöveggel lép hatályba:
 
-„(2) Az országos névjegyzék az OBH által működtetett internetes felületen azonosítás nélkül elérhető. Az országos névjegyzék adatai a honlapon keresőprogram segítségével is megismerhetőek. A nyilvántartást úgy kell kialakítani, hogy a nem részletezett, illetve az egyéb adatként bejegyzendő adatok kereshetősége az országos névjegyzékben keresőszavakkal biztosítható legyen, az OBH a nyilvántartás nem részletezett, illetve egyéb adatainak egységes bejegyzése érdekében a nyilvántartásban kódtárakat rendszeresít. Kódtárat kell rendszeresíteni különösen a 83. § (1) bekezdés i) pontjában, a 94. § (1) bekezdés e) pontjában és a 95. § a) pont ai) alpontjában meghatározott adatok kezelésére.”
+## „(2) Az országos névjegyzék az OBH által működtetett internetes felületen azonosítás nélkül elérhető. Az országos névjegyzék adatai a honlapon keresőprogram segítségével is megismerhetőek. A nyilvántartást úgy kell kialakítani, hogy a nem részletezett, illetve az egyéb adatként bejegyzendő adatok kereshetősége az országos névjegyzékben keresőszavakkal biztosítható legyen, az OBH a nyilvántartás nem részletezett, illetve egyéb adatainak egységes bejegyzése érdekében a nyilvántartásban kódtárakat rendszeresít. Kódtárat kell rendszeresíteni különösen a 83. § (1) bekezdés i) pontjában, a 94. § (1) bekezdés e) pontjában és a 95. § a) pont ai) alpontjában meghatározott adatok kezelésére.”
 
 (27) A Cnytv. 84. § (6) bekezdése a következő szöveggel lép hatályba:
 
-„(6) Az országos névjegyzék a szervezet, jogi személyiséggel rendelkező szervezeti egység beszámolóját, közhasznúsági mellékletét is tartalmazza.”
+## „(6) Az országos névjegyzék a szervezet, jogi személyiséggel rendelkező szervezeti egység beszámolóját, közhasznúsági mellékletét is tartalmazza.”
 
 (28) A Cnytv. 91. § (2) bekezdése a következő szöveggel lép hatályba:
 
-„(2) A nyilvántartási szám jogszabályban meghatározott módon a nyilvántartást vezető törvényszék kétjegyű kódját, a szervezettípus kétjegyű kódját és a szervezet egyedi hétjegyű azonosítóját tartalmazza.”
+## „(2) A nyilvántartási szám jogszabályban meghatározott módon a nyilvántartást vezető törvényszék kétjegyű kódját, a szervezettípus kétjegyű kódját és a szervezet egyedi hétjegyű azonosítóját tartalmazza.”
 
 (29) A Cnytv.
 
