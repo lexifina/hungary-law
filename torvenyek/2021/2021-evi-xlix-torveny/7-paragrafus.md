@@ -1,7 +1,1 @@
-7. § A Cnytv. 46. alcíme a következő 111. §-sal egészül ki:
-
-„111. § (1) E törvénynek a közélet befolyásolására alkalmas tevékenységet végző civil szervezetek átláthatóságáról szóló 2021. évi XLIX. törvénnyel (a továbbiakban: Módtv2.) megállapított 8. § (4) bekezdését a 2021. december 31-ét követően induló üzleti évre vonatkozó beszámolóra kell először alkalmazni.
-
-(2) A bíróság a Módtv2. hatálybalépésétől számított 30 napon belül hivatalból törli az alapítvány nyilvántartásából a 2021. június 30-án hatályos 94. § (1) bekezdés h) pontja szerint bejegyzett tényt, valamint az egyesület nyilvántartásából a 2021. június 30-án hatályos 95. § e) pontja szerint bejegyzett tényt. A tényt úgy kell törölni, hogy az mint törölt adat se legyen megismerhető.
-
-(3) A külföldről támogatott szervezetek átláthatóságáról szóló 2017. évi LXXVI. törvény 3. §-a alapján indult, 2021. június 30-án folyamatban lévő elsőfokú és másodfokú eljárások a Módtv2. hatálybalépésének napján megszűnnek. Ha az elsőfokú bíróság a 37. § (2) bekezdése szerinti bírságot szabott ki, a folyamatban levő eljárás bírság alkalmazása nélkül szűnik meg. Az eljárás megszűnéséről az elsőfokú bíróság a Módtv2. hatálybalépését követő 30 napon belül tájékoztatja a szervezetet.”
+7. §
