@@ -1,0 +1,1 @@
+61/C. § E törvénynek az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvénnyel megállapított 60/J. §-át a folyamatban lévő ügyekben is alkalmazni kell.

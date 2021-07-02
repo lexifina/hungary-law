@@ -44,7 +44,7 @@ végzik.
 
 a) azt – a 33/A. § szerinti építési tevékenység kivételével – a helyi építési szabályzat rendelkezéseitől eltérően végzik,
 
-b) a 33/A. § szerinti építési tevékenység esetén a 13. § (2) bekezdésében foglaltaktól eltérően végzik,
+b) a 33/A. § szerinti építési tevékenység esetén a 13. § (5) bekezdésében foglaltaktól eltérően végzik,
 
 c) az alapvető követelmények, a tevékenységre vonatkozó szakmai szabályok, előírások megsértésével végzik, vagy
 

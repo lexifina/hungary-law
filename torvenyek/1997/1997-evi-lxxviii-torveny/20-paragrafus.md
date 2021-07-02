@@ -24,13 +24,13 @@ bb) a természet-, illetve a környezet védelméről szóló törvényekben fog
 
 (7) A tilalom nem terjed ki:
 
-a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra, valamint a 33/A. § szerinti egyszerű bejelentés alapján megkezdett tevékenységre,
+a) a tilalom hatálybalépésekor hatályos építésügyi hatósági engedéllyel megvalósuló építési, javítási-karbantartási és a jogszabályokban megengedett más építési munkákra, valamint a 33/A. § szerinti egyszerű bejelentés alapján megkezdett építési tevékenységre,
 
 b) a korábban gyakorolt használat folytatására,
 
 c) az állékonyságot, életet és egészséget, köz- és vagyonbiztonságot veszélyeztető kármegelőzési, kárelhárítási tevékenységre, továbbá
 
-d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra,
+d) az a) pont szerinti, hatósági engedélyhez kötött építési munkáknak a településrendezési követelményeket nem érintő módosítására irányuló építésügyi hatósági engedélyezési eljárásra, vagy az egyszerű bejelentéstől eltérő építési munkáknak a településrendezési követelményeket nem érintő kivitelezésére,
 
 e) a honvédelmi és katonai célú területre,
 
