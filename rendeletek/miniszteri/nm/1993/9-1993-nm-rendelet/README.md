@@ -68,3 +68,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-9-20-3D
 | 2020-12-29 | 1993-9-20-3D.126 | 50/2020. (XII. 28.) EMMI rendelet |
 | 2021-02-06 | 1993-9-20-3D.127 | 32/2016. (X. 27.) EMMI rendelet |
 | 2021-06-09 | 1993-9-20-3D.128 | 3/2004. (I. 15.) ESZCSM rendelet |
+| 2021-07-02 | 1993-9-20-3D.129 | 28/2021. (VI. 29.) EMMI rendelet |
