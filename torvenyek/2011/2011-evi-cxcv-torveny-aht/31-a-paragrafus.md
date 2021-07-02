@@ -1,6 +1,6 @@
 31/A. § (1) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt központi kezelésű előirányzatok kezelő szerve mint kedvezményezett számára biztosított, a fejezet költségvetési bevételi előirányzatai javára elszámolandó európai uniós forrásból származó költségvetési támogatások összegével a fejezet költségvetési kiadási előirányzatait a fejezetet irányító szerv módosíthatja.
 
-(2) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt, az állam Polgári Törvénykönyv szerinti örökléséből adódóan a fejezet költségvetési bevételi előirányzata javára elszámolandó, a tervezettet meghaladó bevétel összegével a fejezet költségvetési kiadási előirányzatát a fejezetet irányító szerv módosíthatja.
+(2) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt, az állam Polgári Törvénykönyv szerinti örökléséből adódóan a fejezet költségvetési bevételi előirányzata javára elszámolandó, a tervezettet meghaladó bevétel összegével a fejezet költségvetési kiadási előirányzatát a bevétel elszámolását megelőzően – a bevétel elszámolás alátámasztottsága esetén – a fejezetet irányító szerv módosíthatja.
 
 (3) A 14. § (4) bekezdés b) pontja szerinti fejezetbe sorolt, ingatlanok fejlesztését, vásárlását szolgáló kiadási előirányzatokat – a központi költségvetésből finanszírozott határozott idejű programok, projektek megvalósítása érdekében – a fejezetet irányító szerv javaslata alapján az államháztartásért felelős miniszter módosíthatja.
 

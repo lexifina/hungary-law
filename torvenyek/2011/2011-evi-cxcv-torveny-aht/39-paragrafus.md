@@ -1,6 +1,14 @@
 ## 27. A költségvetési felügyelő
 
-39. § (1) Az államháztartásért felelős miniszter a Kormány irányítása alá tartozó fejezetet irányító szervhez, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervhez, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervéhez, valamint az állam legalább többségi tulajdonában álló gazdasági társasághoz költségvetési felügyelőt rendelhet ki. Az államháztartásért felelős miniszter a költségvetési felügyelő kirendeléséről az érintett fejezetet irányító szerv vezetőjét, – többségi állami tulajdonban álló gazdasági társasághoz történő kirendelés esetén – a tulajdonosi joggyakorlót előzetesen tájékoztatja.
+39. § (1) Az államháztartásért felelős miniszter a Kormány irányítása alá tartozó fejezetet irányító szervhez, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervhez, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervéhez, az állam legalább többségi tulajdonában álló gazdasági társasághoz, valamint az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaságához költségvetési felügyelőt rendelhet ki. Az államháztartásért felelős miniszter a költségvetési felügyelő kirendeléséről
+
+a) az érintett fejezetet irányító szerv vezetőjét,
+
+b) többségi állami tulajdonban álló gazdasági társasághoz történő kirendelés esetén a tulajdonosi joggyakorlót,
+
+c) a többségi állami tulajdonban álló gazdasági társaság 100%-os tulajdonában álló gazdasági társaságához történő kirendelés esetén a többségi állami tulajdonban álló gazdasági társaságot és annak a tulajdonosi joggyakorlóját
+
+előzetesen tájékoztatja.
 
 (2) A költségvetési felügyelő a gazdálkodás költségvetés-politikával való összhangja és a takarékos, szabályszerű, eredményes működés érdekében a Kormány rendeletében meghatározott intézkedéseket tehet.
 

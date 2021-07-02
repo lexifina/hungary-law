@@ -20,7 +20,7 @@ d) az irányítása alá tartozó bármely, a köztulajdonban álló gazdasági 
 
 (4b)–(4c)
 
-(5) Az államháztartásért felelős miniszter a belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza az érintett
+(5) Az államháztartásért felelős miniszter által a belső ellenőrzési tevékenység folytatására jogosult személyekről vezetett nyilvántartás tartalmazza az érintett
 
 a) természetes személyazonosító adatát,
 
@@ -48,7 +48,13 @@ j) a kötelező szakmai továbbképzésen történő részvétel idejét.
 
 (7) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétel szabályait meghatározó jogszabályban foglaltakat vagy a kötelező továbbképzési kötelezettségre vonatkozó feltételeket nem teljesítő személyt törli a nyilvántartásból, illetve a tevékenység gyakorlásától eltiltja. A nyilvántartásból törölt természetes személyek adatait a nyilvántartásba vételt végző szervezet a törlést követő tíz évig megőrzi.
 
-(7a) A (7) bekezdés szerinti tevékenység végzésétől történő eltiltás – e törvény felhatalmazása alapján kiadott rendeletben foglaltak szerint – legfeljebb három évre szólhat.
+(7a) A (7) bekezdés szerinti tevékenység végzésétől történő eltiltás időtartama
+
+a) kérelemre, vagy továbbképzési kötelezettség nem teljesítése miatti nyilvántartásból való törlés esetén egy,
+
+b) a nyilvántartásba vételkor, illetve a nyilvántartásba vételt követően történő valótlan adatközlés, a nyilvántartásból törlésre okot adó körülmény bejelentésének elmulasztása, a bejelentés elmulasztásának utólagos megállapítása esetén három
+
+évre szól.
 
 (7b) Az a természetes személy, aki
 

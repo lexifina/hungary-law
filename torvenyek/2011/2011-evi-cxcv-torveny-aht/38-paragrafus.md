@@ -5,3 +5,5 @@
 (1a)
 
 (2) A teljesítés igazolására, utalványozásra, érvényesítésre jogosultakat, feladataikat, összeférhetetlenségük eseteit, és az érvényesítő képesítési követelményeit a Kormány rendeletben határozza meg.
+
+(3) Az utalványozás és az érvényesítés nem érinti a teljesítésigazolónak a kötelezettségvállalás teljesítésének igazolásából származó polgári jogi és büntetőjogi felelősségét.
