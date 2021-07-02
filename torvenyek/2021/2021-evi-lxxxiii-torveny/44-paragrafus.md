@@ -1,3 +1,1 @@
-44. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 99/K. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A szakgimnáziummal 2020. május 31-ét megelőzően létesített tanulói jogviszonyban álló tanuló szakmai vizsgájára a komplex szakmai vizsgáztatás szabályainak az Szktmód. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni. A vizsgabizottság elnökét és tagjait az oktatásért felelős miniszter javaslatára a szakképzési államigazgatási szerv delegálja, a központi kiadású tételsor, a feladatközlő lap, a segédanyag és a javítási-értékelési útmutató elkészítéséről az oktatásért felelős miniszter gondoskodik.”
+44. §
