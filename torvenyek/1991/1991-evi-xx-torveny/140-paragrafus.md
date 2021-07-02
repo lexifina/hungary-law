@@ -1,10 +1,10 @@
 140. § (1) A jegyző gazdálkodási feladata és hatásköre:
 
-a) elkészíti a helyi önkormányzat gazdasági programtervezeteit, a költségvetéséről szóló koncepciót, majd a költségvetési törvény elfogadása után a költségvetési rendelet, illetve az ahhoz kapcsolódó, azt megalapozó rendeletek tervezetét;
+a) elkészíti a helyi önkormányzat gazdasági programtervezeteit, majd a költségvetési törvény elfogadása után a költségvetési rendelet, illetve az ahhoz kapcsolódó, azt megalapozó rendeletek tervezetét;
 
 b) a helyi önkormányzat elfogadott költségvetéséről információt szolgáltat a központi költségvetés számára;
 
-c) kialakítja a saját, valamint intézményei számviteli rendjét a költségvetési szervekre vonatkozó előírások alapján;
+c)
 
 d) az államháztartás igényeinek megfelelően havi, féléves, háromnegyedéves és éves információt szolgáltat;
 
@@ -14,13 +14,13 @@ f) ellátja a polgármesteri hivatal, mint költségvetési szerv operatív gazd
 
 g) az önkormányzat költségvetési rendeletének megfelelően gondoskodik a költségvetési szervek pénzellátásáról;
 
-h) elkészíti az éves költségvetés végrehajtásáról szóló beszámolót (zárszámadást), s ennek keretében elszámol a normatív költségvetési hozzájárulásokkal;
+h) elkészíti az éves költségvetés végrehajtásáról szóló beszámolót (zárszámadást), s ennek keretében elszámol a feladatalapú támogatásokkal;
 
 i) szükség esetén előkészíti az átmeneti gazdálkodásról szóló rendelet-tervezetét;
 
 j) részt vesz az önkormányzatot érintő térségi fejlesztési programok megalapozásában, véleményezésében, koordinálja a programok végrehajtásának helyi feladatait, információt szolgáltat azok megvalósításáról;
 
-k) a kötelezettségvállalást ellenjegyzi, erre más személyt is felhatalmazhat.
+k)
 
 (2) A jegyző adóügyi feladata és hatásköre:
 

@@ -1,6 +1,6 @@
 139. § (1) A polgármester gazdálkodási feladata és hatásköre:
 
-a) a képviselőtestület elé terjeszti a gazdaság programtervezetét, a költségvetési koncepciót, a költségvetési rendelet, illetve az azt megalapozó egyéb rendeletek tervezetét;
+a) a képviselőtestület elé terjeszti a gazdaság programtervezetét, a költségvetési rendelet, illetve az azt megalapozó egyéb rendeletek tervezetét;
 
 b) gondoskodik a helyi önkormányzat költségvetésének végrehajtásáról;
 
