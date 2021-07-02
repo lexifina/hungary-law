@@ -1,5 +1,3 @@
 ## 11. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-21. § Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) preambuluma helyébe a következő szöveg lép:
-
-„Az Országgyűlés az intézményes privatizáció lezárása után, az állami vagyonnal való gazdálkodás új, korszerű rendjének, a hatékonyabb, eredményesebb, költségtakarékosabb, a nemzet számára tartós értékként megőrzendőnek minősülő vagyon védelmét szolgáló vagyongazdálkodás kialakítása, az állami vagyonnal való fenntartható gazdálkodás megteremtése, továbbá a tartós értéket nem képviselő és az állami feladatok ellátásához, valamint az állami vagyongazdálkodás céljaihoz nem illeszkedő vagyon értékesítésének biztosítása érdekében, az állami vagyon feletti tulajdonosi jogok gyakorlásáról, az állami vagyon hasznosításáról, kezeléséről, kivezetéséről az alábbi törvényt alkotja:”
+21. §
