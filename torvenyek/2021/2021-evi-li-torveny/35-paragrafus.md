@@ -2,6 +2,6 @@
 
 a)
 
-b) 6. § (4) bekezdése,
+b)
 
-c) 9. § (2) bekezdése.
+c)
