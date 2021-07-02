@@ -4,4 +4,6 @@
 
 (2) E rendelet rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(3) Hatályát veszti a közutak igazgatásáról szóló 19/1994. (V. 31.) KHVM rendelet.
+(3)[^1]
+
+[^1]: A 9. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
