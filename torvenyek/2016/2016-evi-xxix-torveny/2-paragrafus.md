@@ -10,7 +10,7 @@
 
 4. eseti szakértő: olyan – az eljárásban megállapítandó vagy megítélendő jelentős tény vagy egyéb körülmény megállapításához vagy megítéléséhez – megfelelő szakértelemmel rendelkező természetes vagy jogi személy, aki nem igazságügyi szakértő; valamint olyan igazságügyi szakértő, aki az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben meg nem határozott szakterületen ad szakvéleményt,
 
-5. igazságügyi szakértői intézet: olyan állami szerv vagy egyetem szervezeti egységeként működő intézet, amely kizárólagosan, illetve törvényben vagy az alapszabályában meghatározott alaptevékenységén, így különösen tudományos, oktatói vagy kutatói tevékenységén kívül igazságügyi szakértői tevékenységet is végez,
+5. igazságügyi szakértői intézet: olyan – jellemzően egyetem mellett működő – állami szerv, vagy közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény részeként működő szervezet, amely kizárólagosan, illetve törvényben vagy az alapszabályában meghatározott alaptevékenységén, így különösen tudományos, oktatói, kutatói tevékenységén kívül igazságügyi szakértői tevékenységet is végez,
 
 6. igazságügyi szakértői intézmény: a Kormány által jogszabályban alapított, az igazságügyért felelős miniszter (a továbbiakban: miniszter) által alapított, a miniszter és a Kormány más tagja által közösen alapított vagy a miniszterrel egyetértésben a Kormány más tagja által alapított központi költségvetési szerv, amelynek feladata jogszabályban meghatározott igazságügyi szakértői kirendelés teljesítése,
 
