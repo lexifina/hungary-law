@@ -1,8 +1,6 @@
-## 20212220000387_2
-
 3. melléklet a 387/2021. (VI. 30.) Korm. rendelethez
 
-## A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Megállapodás (ADR) „A” és „B” Mellékletében foglalt egyes feladatok megosztása
+A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Megállapodás (ADR) „A” és „B” Mellékletében foglalt egyes feladatok megosztása
 
 1. A közlekedésért felelős miniszter
 
