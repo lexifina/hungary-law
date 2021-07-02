@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-122-00-00
 | 2020-01-01 | 2019. évi LXVI. törvény | 2009-122-00-00.17 |
 | 2020-07-15 | 2020. évi LXXVI. törvény | 2009-122-00-00.18 |
 | 2021-07-01 | 2021. évi LXX. törvény | 2009-122-00-00.19 |
+| 2021-07-02 | 2021. évi LXXXIX. törvény | 2009-122-00-00.20 |
