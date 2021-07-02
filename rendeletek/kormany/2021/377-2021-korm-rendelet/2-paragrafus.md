@@ -1,1 +1,3 @@
-## 1. § Nem lép hatályba az otthonfelújítási hitel bevezetése érdekében egyes kormányrendeletek módosításáról szóló 641/2020. (XII. 22.) Korm. rendelet 9. § (3) bekezdése.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
