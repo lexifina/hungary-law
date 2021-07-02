@@ -1,1 +1,1 @@
-16. § A Vet. 159. § (1) bekezdés 16. pontjában az „az aktív felhasználó, az együttesen tevékenykedő aktív felhasználók” szövegrész helyébe az „az aktív felhasználó, az együttesen tevékenykedő aktív felhasználók, a termelő-fogyasztó, az együttesen eljáró termelő-fogyasztók, a megújulóenergia-közösség” szövegrész lép.
+16. §

@@ -1,7 +1,1 @@
-5. § A Vet. 6/A. §-a helyébe a következő rendelkezés lép:
-
-„6/A. § (1) A Hivatal a felhasználók tájékoztatása céljából származási garanciát állít ki és gondoskodik a származási garanciák megbízható és hiteles elektronikus tárolásáról. A származási garanciákra vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
-
-(2) A Hivatal a 2017. január 3-a előtt kérelmezett kötelező átvételi jogosultság alá eső, megújuló energiaforrásból nyert energiával termelt és értékesített villamos energia vonatkozásában automatikusan bejegyzi a származási garanciát az átviteli rendszerirányító részére. A származási garanciákat az átviteli rendszerirányító a kereskedelmi szabályzatban meghatározottak szerint köteles a szervezett villamosenergia-piacon értékesíteni, az ebből származó bevételeket a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról szóló miniszteri rendelet szerinti KÁT pénzeszköz meghatározása során csökkentő tényezőként figyelembe venni. Az értékesítésre vonatkozó szabályokat a szervezett villamosenergia-piaci szabályzat határozza meg.
-
-(3) Az átviteli rendszerirányító és a szervezett villamosenergia-piaci engedélyes együttműködik a Hivatallal a (2) bekezdés szerinti származási garanciák bejegyzése, szervezet villamosenergia-piaci értékesítése, átruházása, törlése, valamint ezek Hivatal általi ellenőrzése kapcsán.”
+5. §
