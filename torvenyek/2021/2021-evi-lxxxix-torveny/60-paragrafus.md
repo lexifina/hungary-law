@@ -1,0 +1,3 @@
+60. § (1) Az 59. § (1) bekezdése szerinti tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) készíti elő és köti meg. A szerződésekben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított értéket kell megjelölni.
+
+(2) Az 59. § (1) bekezdése szerinti, ingyenesen tulajdonba adott ingatlanokon e törvény erejénél fogva határozatlan időre szóló elidegenítési és terhelési tilalom áll fenn. Az elidegenítési és terhelési tilalomnak a magyar állam javára történő ingatlan-nyilvántartásba történő feljegyzését a tulajdonjog bejegyzése iránti kérelem benyújtásával egyidejűleg az OKFŐ kérelmezi.

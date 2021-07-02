@@ -1,0 +1,1 @@
+14. § Hatályát veszti az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 138. § (2) bekezdés c) pontja.

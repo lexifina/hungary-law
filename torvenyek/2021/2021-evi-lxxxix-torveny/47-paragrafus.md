@@ -1,0 +1,3 @@
+47. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az NKFI Alapból pályázat útján elnyert közfinanszírozási támogatás felhasználásáról és a kutatómunka előrehaladásáról a kedvezményezettnek a pályázati kiírásban szereplő időtartamra figyelemmel, a támogatási szerződésben előírt ütem szerint, be kell számolnia a Kormány által kijelölt szervnek, amely – szakértői vélemény alapján – dönt a beszámoló elfogadásáról és ennek megfelelően a közfinanszírozási támogatás további folyósításáról, szükség esetén a támogatási szerződés módosításáról vagy megszüntetéséről.”

@@ -1,0 +1,1 @@
+39. § A hulladékról szóló 2012. évi CLXXXV. törvény 68. § (4) bekezdésében az „a hulladékgazdálkodási hatóság számlájára” szövegrész helyébe az „az e célra vezetett központi költségvetési fizetési számlára” szöveg lép.

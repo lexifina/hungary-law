@@ -1,0 +1,3 @@
+46. § A tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 25. §-a a következő (8) bekezdéssel egészül ki:
+
+„(8) A Kormány által kijelölt szerv az NKFI Alap Kutatási Alaprésze terhére finanszírozott pályázatok értékelésében közreműködő értékelő testületek elnökei és tagjai, a szakértői csoportok elnökei és tagjai, valamint az anonim szakértők e törvény szerinti feladatai ellátásával összefüggésben megismert személyes adatait az adatkezelés céljának megvalósulásáig, de legkésőbb az érintettel létrejött jogviszonnyal kapcsolatos ügyiratok selejtezéséig vagy levéltárba adásáig kezeli.”
