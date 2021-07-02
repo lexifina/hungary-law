@@ -1,0 +1,1 @@
+Az Országgyűlés elismerve és támogatva a karitatív szervezetek társadalomért, különösen a nehéz helyzetben lévő családokért végzett szociális, segítő-szolgáltató, mentori tevékenységét, a következő törvényt alkotja:
