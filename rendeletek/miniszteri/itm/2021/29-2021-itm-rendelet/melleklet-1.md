@@ -1,5 +1,6 @@
-## 7. §[^8]
+## 7. §[^12]
 
-1. melléklet a 29/2021. (VI. 30.) ITM rendelethez
+1. melléklet a 29/2021. (VI. 30.) ITM rendelethez[^13]
 
-[^8]: A 7. § az 5. § (2) bekezdése alapján 2021. november 12-én lép hatályba.
+[^12]: A 7. § az 5. § (2) bekezdése alapján 2021. november 12-én lép hatályba.
+[^13]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

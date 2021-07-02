@@ -1,4 +1,4 @@
-## 4. §[^5]
+## 4. §[^9]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. § (3) és (4) bekezdése, a 2. § (3) bekezdése, a 6. § (3) és (4) bekezdése, valamint a 3. melléklet 2022. július 5-én lép hatályba.
 
-[^5]: A 4. § az 5. § (2) bekezdése alapján 2021. november 12-én lép hatályba.
+[^9]: A 4. § az 5. § (2) bekezdése alapján 2021. november 12-én lép hatályba.

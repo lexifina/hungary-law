@@ -1,7 +1,9 @@
-2. § (1) A 38/2011. (X. 5.) NGM rendelet 2. melléklete az 1. melléklet szerint módosul.
+2. § (1)[^5]
 
-(2) A 38/2011. (X. 5.) NGM rendelet 2. melléklete a 2. melléklet szerint módosul.
+(2)[^6]
 
-(3)[^3]
+(3)[^7]
 
-[^3]: A 2. § (3) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.
+[^5]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 2. § (3) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.
