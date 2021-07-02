@@ -1,3 +1,3 @@
-## 88. §[^141]
+## 88. §[^113]
 
-[^141]: A 88. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 88. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

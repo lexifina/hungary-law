@@ -1,3 +1,3 @@
-## 35. § Az R. 46. §-a a következő (10) bekezdéssel egészül ki:
+## 35. §[^36]
 
-## „(10) A jármű forgalomba helyezésére irányuló kérelem elbírálása során a jármű tulajdonjogának hitelt érdemlő igazolása hiányában a törzskönyv kiadása nélkül a forgalmi engedély és a rendszámtábla kiadható az üzembentartó járműnyilvántartásba történő egyidejű bejegyzésével, feltéve, hogy a jármű a korábban Magyarországon már forgalomba volt helyezve, de a Kknyt. 15. §-ában meghatározott adatkezelés időtartama miatt a járműnyilvántartásban már nem szerepel, és a forgalomba helyezést kezdeményező ügyfél birtokába kerülése igazolt.”
+[^36]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

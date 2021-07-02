@@ -1,3 +1,3 @@
-## 95. §[^148]
+## 95. §[^120]
 
-[^148]: A 95. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: A 95. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

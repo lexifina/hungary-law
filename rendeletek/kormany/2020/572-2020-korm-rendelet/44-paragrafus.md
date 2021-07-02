@@ -1,8 +1,9 @@
-## 43. §[^39]
+## 43. §[^45]
 
-44. § (1) Az R. 16. melléklete a 7. melléklet szerint módosul.
+44. § (1)[^46]
 
-(2)[^40]
+(2)[^47]
 
-[^39]: A 43. § a 375/2021. (VI. 30.) Korm. rendelet 31. § (2) bekezdése alapján nem lép hatályba.
-[^40]: A 44. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 44. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 44. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

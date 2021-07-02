@@ -1,3 +1,3 @@
-## 37. §[^34]
+## 37. §[^38]
 
-[^34]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

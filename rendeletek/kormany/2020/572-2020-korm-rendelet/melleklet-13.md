@@ -1,3 +1,3 @@
-13. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^193]
+13. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^166]
 
-[^193]: A 13. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^166]: A 13. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

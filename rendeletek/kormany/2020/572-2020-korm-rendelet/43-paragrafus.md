@@ -1,3 +1,3 @@
-## 42. § Az R. 118. §-a a következő (3) bekezdéssel egészül ki:
+## 42. §[^44]
 
-## „(3) A közlekedési igazgatási hatóság egy eljárásban jegyzi be a járműnyilvántartásba a jármű első forgalomba helyezését és az ideiglenes forgalomból kivonását, ha az arra vonatkozó kérelmet az ügyfél egy időben terjeszti elő.”
+[^44]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

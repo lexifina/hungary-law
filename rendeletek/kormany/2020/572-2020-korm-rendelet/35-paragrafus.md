@@ -1,3 +1,3 @@
-## 34. § Az R. 42. §-a a következő (2c) bekezdéssel egészül ki:
+## 34. §[^35]
 
-## „(2c) A közlekedési igazgatási hatóság a kötelező gépjármű-felelősségbiztosításra vonatkozó adatokat a kötvénynyilvántartó szervtől elektronikus úton átveszi.”
+[^35]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

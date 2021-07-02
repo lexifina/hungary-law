@@ -1,9 +1,9 @@
-## 117. §[^171]
+## 117. §[^143]
 
-118. § (1)[^172]
+118. § (1)[^144]
 
-(2)[^173]
+(2)[^145]
 
-[^171]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^172]: A 118. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^173]: A 118. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^143]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^144]: A 118. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^145]: A 118. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
