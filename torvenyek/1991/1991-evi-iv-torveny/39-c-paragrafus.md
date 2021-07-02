@@ -16,7 +16,7 @@ g) az állami foglalkoztatási szervek közreműködésével, uniós források b
 
 h)
 
-i) egyéb bevételek: a Gazdaságvédelmi Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Gazdaságvédelmi Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
+i) egyéb bevételek: a Gazdaság-újraindítási Foglalkoztatási Alap javára teljesített visszafizetés, a hatósági eljárás alapján befolyt bevétel, késedelmi pótlék, kamatbevétel, a Gazdaság-újraindítási Foglalkoztatási Alap javára teljesített önkéntes befizetés, támogatás, valamint a működésével összefüggő bevétel;
 
 j) uniós forrás terhére megvalósuló operatív program finanszírozására szolgáló előleg;
 

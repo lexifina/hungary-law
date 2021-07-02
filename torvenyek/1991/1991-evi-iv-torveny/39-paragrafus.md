@@ -2,11 +2,11 @@
 
 ## A MUNKANÉLKÜLI ELLÁTÁSOK ÉS A FOGLALKOZTATÁST ELŐSEGÍTŐ TÁMOGATÁSOK FEDEZETE
 
-## Gazdaságvédelmi Foglalkoztatási Alap
+## Gazdaság-újraindítási Foglalkoztatási Alap
 
 39. § (1)
 
-(2) A Gazdaságvédelmi Foglalkoztatási Alap, mely a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
+(2) A Gazdaság-újraindítási Foglalkoztatási Alap, mely a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
 
 a) az álláskeresők ellátásának biztosítása,
 
