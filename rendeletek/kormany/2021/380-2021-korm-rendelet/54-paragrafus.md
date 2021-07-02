@@ -1,1 +1,3 @@
-## „c) ha a tanulóra irányadó szakmai és vizsgakövetelmény a 290. § szerinti minősítésnél szigorúbb követelményt határoz meg, a 290. § helyett azt kell alkalmazni.”
+## 53. §[^48]
+
+[^48]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

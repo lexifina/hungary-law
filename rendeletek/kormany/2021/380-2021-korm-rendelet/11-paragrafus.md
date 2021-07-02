@@ -1,3 +1,5 @@
-## 10. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 15. melléklete az 1. melléklet szerint módosul.
+## 10. §[^5]
 
 ## 5. A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet módosítása
+
+[^5]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

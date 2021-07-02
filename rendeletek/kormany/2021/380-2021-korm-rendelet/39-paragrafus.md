@@ -1,3 +1,3 @@
-## 38. §[^31]
+## 38. §[^33]
 
-[^31]: A 38. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+[^33]: A 38. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.

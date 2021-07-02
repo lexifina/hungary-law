@@ -1,3 +1,3 @@
-## 28. §[^22]
+## 28. §[^23]
 
-[^22]: A 28. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+[^23]: A 28. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.

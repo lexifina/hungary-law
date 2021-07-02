@@ -1,3 +1,3 @@
-## 32. § Az R4. a következő 181/A. §-sal egészül ki:
+## 32. §[^27]
 
-## „181/A. § A szakképző intézmény tizedik évfolyamán a tanuló szövegértési és matematikai eszköztudás fejlődését az Nkt. szerint kell mérni és értékelni.”
+[^27]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

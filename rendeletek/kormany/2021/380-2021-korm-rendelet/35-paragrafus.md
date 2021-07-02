@@ -1,3 +1,3 @@
-## 34. §[^27]
+## 34. §[^29]
 
-[^27]: A 34. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+[^29]: A 34. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.

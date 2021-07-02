@@ -1,3 +1,3 @@
-## 17. §[^11]
+## 17. §[^12]
 
-[^11]: A 17. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+[^12]: A 17. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.

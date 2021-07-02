@@ -1,3 +1,3 @@
-## 41. §[^34]
+## 41. §[^36]
 
-[^34]: A 41. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+[^36]: A 41. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
