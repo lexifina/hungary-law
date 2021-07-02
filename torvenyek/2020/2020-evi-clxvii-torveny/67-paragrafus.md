@@ -1,8 +1,8 @@
-67. § Hatályát veszti a Ve.
+67. §
 
 a)
 
-b) 28. § (5)–(7) bekezdése,
+b)
 
 c)
 
@@ -24,6 +24,6 @@ k)
 
 l)
 
-m) 318. § (3) és (4) bekezdése,
+m)
 
 n)
