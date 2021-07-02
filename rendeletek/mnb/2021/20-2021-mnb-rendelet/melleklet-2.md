@@ -2,7 +2,7 @@
 
 ## Climate Bonds Initiative által kibocsátott Zöld kötvények normái (Climate Bonds Standard V3.0)
 
-2. melléklet a 20/2021. (VI. 23.) MNB rendelethez[^2]
+2. melléklet a 20/2021. (VI. 23.) MNB rendelethez[^3]
 
 A jelzáloghitel-finanszírozás megfelelési mutató számításának módja
 
@@ -84,4 +84,4 @@ ZTF: az összesen rendes fedezetként rendelkezésre álló zöld jelzáloghitel
 
 16. Az önálló zálogjog adásvétele, valamint az ennek kapcsán fennálló visszavásárlási vételár esetén a 3. pont c) alpontja, valamint a 6., 8. és 9. pontnak a zöld refinanszírozási jelzáloghitelre vonatkozó rendelkezései megfelelően alkalmazandók.
 
-[^2]: A 2. melléklet 10–13. pontja a 4. § (2) bekezdése alapján 2022. október 1-jén lép hatályba.
+[^3]: A 2. melléklet 10–13. pontja a 4. § (2) bekezdése alapján 2022. október 1-jén lép hatályba.
