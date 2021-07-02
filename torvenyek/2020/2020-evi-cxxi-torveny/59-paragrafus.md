@@ -2,17 +2,17 @@
 
 a)
 
-b) 9. § (1a) bekezdésében az „– a tulajdonszerző bejelentéséig –” szövegrész,
+b)
 
-c) 9. § (1c) bekezdése,
+c)
 
-d) 9. § (1d) bekezdése,
+d)
 
-e) 9. § (3) bekezdése,
+e)
 
 f)
 
-g) 15. § (1) bekezdés a) pontjában a „visszavonásától,” szövegrész,
+g)
 
 h)
 
@@ -22,8 +22,8 @@ j)
 
 k)
 
-l) 24. § (3) bekezdés c) pontjában az „elektronikus úton előterjesztett kérelem” szövegrész,
+l)
 
 m)
 
-n) 33. § (1) bekezdés a) pontjában a „székhelye, telephelye címének,” szövegrész.
+n)
