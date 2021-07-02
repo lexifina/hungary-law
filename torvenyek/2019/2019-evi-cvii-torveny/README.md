@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-107-00-00
 | 2020-09-01 | 2020. évi LXV. törvény | 2019-107-00-00.4 |
 | 2021-01-01 | 2020. évi CLII. törvény | 2019-107-00-00.5 |
 | 2021-05-01 | 2021. évi VIII. törvény | 2019-107-00-00.6 |
+| 2021-07-02 | 2021. évi LXXXIX. törvény | 2019-107-00-00.7 |
