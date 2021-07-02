@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-138-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 2013-138-00-00.8 |
 | 2018-07-26 | 2018. évi XL. törvény | 2013-138-00-00.9 |
 | 2019-07-10 | 2019. évi LXVI. törvény | 2013-138-00-00.10 |
+| 2021-07-02 | 2021. évi LXXXIX. törvény | 2013-138-00-00.11 |
