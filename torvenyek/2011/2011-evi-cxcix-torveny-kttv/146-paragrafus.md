@@ -6,7 +6,7 @@
 
 (3) Az illetményt a tárgyhónapot követő ötödik napig ki kell fizetni.
 
-(4) Az illetmény bankszámlára utalással történő kifizetése esetén, a munkáltatónak úgy kell eljárnia, hogy a kormánytisztviselő illetményével a bérfizetési napon rendelkezhessen.
+(4) Az illetmény bankszámlára utalással történő kifizetése esetén a munkáltatónak úgy kell eljárnia, hogy a kormánytisztviselő az illetményével a bérfizetési napon rendelkezhessen. Külföldi fizetési számlára utalása esetén a munkáltató köteles eddig a napig az utalást kezdeményezni.
 
 (5) Az illetményt a kormánytisztviselőnek kell kifizetni, kivéve, ha erre mást felhatalmaz, illetőleg bírósági vagy más hatósági határozat ebben korlátozza.
 

@@ -29,7 +29,3 @@
 ## 4. fényképe
 
 ## II.
-
-## 1. a kormánytisztviselő lakóhelye, lakáscíme, tartózkodási helye, telefonszáma
-
-## 2. az alkalmazó államigazgatási szerv neve, székhelye, statisztikai számjele
