@@ -1,6 +1,6 @@
-143. § Hatályát veszti az Art.
+### 143. §
 
-1. XIII. Fejezete,
+1.
 
 2.
 
@@ -26,9 +26,9 @@
 
 13.
 
-14. 275. § (3) bekezdésében a „115–122. §-a,” szövegrész,
+14.
 
-15. 275. § (4) bekezdése,
+15.
 
 16.
 
