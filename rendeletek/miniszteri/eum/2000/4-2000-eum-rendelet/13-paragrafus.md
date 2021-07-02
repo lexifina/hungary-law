@@ -1,6 +1,6 @@
-13. §[^41] (1) Az ÁEEK mint az alapellátás módszertani központja által meghatározott területen területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi és fogorvosi szolgálatban praxisjoggal rendelkező háziorvosok, házi gyermekorvosok és fogorvosok maguk közül területenként 1-1 fő területi kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost választanak.
+13. §[^43] (1)[^44] Az OKFŐ mint az alapellátás módszertani központja által meghatározott területen területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi és fogorvosi szolgálatban praxisjoggal rendelkező háziorvosok, házi gyermekorvosok és fogorvosok maguk közül területenként 1-1 fő területi kollegiális szakmai vezető háziorvost, házi gyermekorvost és fogorvost választanak.
 
-(2) Az ÁEEK eltérő döntése hiányában egy területnek egy járás felel meg. Az ÁEEK az illetékességi területek meghatározása során figyelembe veszi a háziorvosi, fogorvosi szolgálatok számát, területi ellátási kötelezettséggel működő háziorvosi szolgálatok esetében a tartósan betöltetlen körzetek számát, a háziorvosi szolgálatok területi elhelyezkedését, az ellátandó lakosságszámot, a járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal történő szakmai együttműködés lehetőségét. A területi kollegiális szakmai vezető házi gyermekorvosok illetékességi területének meghatározása során az ÁEEK figyelembe veszi a fekvőbeteg-szakellátást nyújtó gyógyintézet csecsemő- és gyermekgyógyászat szakmára meghatározott ellátási területét. Az ÁEEK a kialakított illetékességi területek listáját a honlapján közzéteszi.
+(2)[^45] Az OKFŐ eltérő döntése hiányában egy területnek egy járás felel meg. Az OKFŐ az illetékességi területek meghatározása során figyelembe veszi a háziorvosi, fogorvosi szolgálatok számát, területi ellátási kötelezettséggel működő háziorvosi szolgálatok esetében a tartósan betöltetlen körzetek számát, a háziorvosi szolgálatok területi elhelyezkedését, az ellátandó lakosságszámot, a járó- és fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókkal történő szakmai együttműködés lehetőségét. A területi kollegiális szakmai vezető házi gyermekorvosok illetékességi területének meghatározása során az OKFŐ figyelembe veszi a fekvőbeteg-szakellátást nyújtó gyógyintézet csecsemő- és gyermekgyógyászat szakmára meghatározott ellátási területét. Az OKFŐ a kialakított illetékességi területek listáját a honlapján közzéteszi.
 
 (3) Területi kollegiális szakmai vezető háziorvosnak, fogorvosnak, házi gyermekorvosnak (a továbbiakban együtt: területi szakmai vezető) az a háziorvos, házi gyermekorvos, fogorvos választható, aki
 
@@ -20,9 +20,9 @@ d) nem rendelkezik megyei vagy országos kollegiális szakmai vezetői megbízá
 
 (7) A (6) bekezdés szerinti választás eredménye vonatkozásában jogorvoslatnak nincs helye.
 
-(8) Az (1)–(6) bekezdés szerinti választás lebonyolítása az ÁEEK feladata.
+(8)[^46] Az (1)–(6) bekezdés szerinti választás lebonyolítása az OKFŐ feladata.
 
-(9) A területi szakmai vezető az ÁEEK-kel kötött megbízási szerződés alapján látja el tevékenységét. A területi szakmai vezető megbízatása 3 évre szól. Ha a megbízatása annak lejárta előtt megszűnik, új választást kell tartani, azzal, hogy az új választás szerinti megbízatás időtartama az eredeti 3 éves megbízatás időtartamából való hátralévő időtartamra szól. A területi szakmai vezető újraválasztható.
+(9)[^47] A területi szakmai vezető az OKFŐ-vel kötött megbízási szerződés alapján látja el tevékenységét. A területi szakmai vezető megbízatása 3 évre szól. Ha a megbízatása annak lejárta előtt megszűnik, új választást kell tartani, azzal, hogy az új választás szerinti megbízatás időtartama az eredeti 3 éves megbízatás időtartamából való hátralévő időtartamra szól. A területi szakmai vezető újraválasztható.
 
 (10) A területi szakmai vezető megbízatása megszűnik:
 
@@ -40,10 +40,15 @@ f) halála esetén,
 
 g) felmondásával, vagy
 
-h) ha feladatait az ÁEEK általi egyszeri felszólítás ellenére nem látja el.
+h)[^48] ha feladatait az OKFŐ általi egyszeri felszólítás ellenére nem látja el.
 
 (11) A területi szakmai vezető a megbízásának személyesen köteles eleget tenni, akadályoztatása esetén a megyei kollegiális szakmai vezető kijelöli a helyettesítésére jogosult személyt.
 
 (12) A területi szakmai vezető tevékenységének ellátásáért 244 000 Ft/hó tiszteletdíjban részesül, költségtérítés nem illeti meg. A tiszteletdíj a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
 
-[^41]: A 13. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^43]: A 13. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^44]: A 13. § (1) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § e) pontja szerint módosított szöveg.
+[^45]: A 13. § (2) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § f) pontja szerint módosított szöveg.
+[^46]: A 13. § (8) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § g) pontja szerint módosított szöveg.
+[^47]: A 13. § (9) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
+[^48]: A 13. § (10) bekezdés h) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § i) pontja szerint módosított szöveg.

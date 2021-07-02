@@ -1,4 +1,4 @@
-16. §[^50] (1) A területi, a megyei, az országos szakmai vezetők a kollegiális szakmai vezetők konzultációi során kidolgozott, valamint az ÁEEK által elfogadott éves munkaterv alapján végzik tevékenységüket, ide nem értve az eseti jellegű feladataikat.
+16. §[^58] (1)[^59] A területi, a megyei, az országos szakmai vezetők a kollegiális szakmai vezetők konzultációi során kidolgozott, valamint az OKFŐ által elfogadott éves munkaterv alapján végzik tevékenységüket, ide nem értve az eseti jellegű feladataikat.
 
 (2) A területi szakmai vezető a következő feladatokat látja el:
 
@@ -20,7 +20,7 @@ h) támogatja az alapellátás és a népegészségügy, egészségfejlesztés e
 
 i) a háziorvosoktól, házi gyermekorvosoktól és fogorvosoktól bekért morbiditási, mortalitási adatok alapján évente értékelést végez a járásban végzett egészségügyi alapellátási tevékenységről, melyet megküld a megyei szakmai vezető részére,
 
-j) a Nemzeti Egészségbiztosítási Alapkezelő által összeállított, és az ÁEEK-től kapott területi jelentés alapján véleményez és javaslatot készít a problémák megoldására,
+j)[^60] a Nemzeti Egészségbiztosítási Alapkezelő által összeállított, és az OKFŐ-től kapott területi jelentés alapján véleményez és javaslatot készít a problémák megoldására,
 
 k) ha az alapellátás tekintetében szakmai szabályokba vagy jogszabályba ütköző tevékenységet tapasztal, erről tájékoztatja a megyei szakmai vezetőt.
 
@@ -42,7 +42,7 @@ a) részt vesz az egészségügyi alapellátásra vonatkozó szakmai koncepciók
 
 b) 3 havonta, szükség esetén soron kívül egyeztet a megyei szakmai vezetőkkel,
 
-c) félévente összefoglaló jelentést készít a szakmai vezetők tevékenységéről az ÁEEK számára,
+c)[^61] félévente összefoglaló jelentést készít a szakmai vezetők tevékenységéről az OKFŐ számára,
 
 d) véleményezi az egészségügyi alapellátásra vonatkozó szakmai anyagokat, javaslatokat,
 
@@ -52,6 +52,10 @@ f) kapcsolatot tart a Szakmai Kollégium illetékes tagozatával,
 
 g) kapcsolatot tart a szakmai szervezetekkel, egyesületekkel, kamarával, orvostudományi egyetemekkel, és
 
-h) ha az alapellátás tekintetében szakmai szabályokba vagy jogszabályba ütköző tevékenységet tapasztal, illetve a megyei szakmai vezetőtől ilyen tevékenységről tudomást szerez, erről tájékoztatja az ÁEEK főigazgatóját.
+h)[^62] ha az alapellátás tekintetében szakmai szabályokba vagy jogszabályba ütköző tevékenységet tapasztal, illetve a megyei szakmai vezetőtől ilyen tevékenységről tudomást szerez, erről tájékoztatja az OKFŐ főigazgatóját.
 
-[^50]: A 16. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^58]: A 16. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
+[^59]: A 16. § (1) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § o) pontja szerint módosított szöveg.
+[^60]: A 16. § (2) bekezdés j) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § p) pontja szerint módosított szöveg.
+[^61]: A 16. § (4) bekezdés c) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § q) pontja szerint módosított szöveg.
+[^62]: A 16. § (4) bekezdés h) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § q) pontja szerint módosított szöveg.
