@@ -6,7 +6,7 @@
 
 3.
 
-4. 3. § s) pontjában az „anyakönyvben” szövegrész helyébe az „anyakönyvben és apai elismerő nyilatkozatok nyilvántartásában” szöveg,
+4.
 
 5.
 

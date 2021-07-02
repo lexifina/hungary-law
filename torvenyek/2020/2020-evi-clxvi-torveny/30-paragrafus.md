@@ -8,7 +8,7 @@ c)
 
 d)
 
-e) 46. § (1) bekezdés d) pontjában „ , vagy az adott nemzetiségi nyelven” szövegrész,
+e)
 
 f)
 
