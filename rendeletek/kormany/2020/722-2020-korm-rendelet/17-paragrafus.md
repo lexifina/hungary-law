@@ -1,3 +1,3 @@
-## 16. §[^20]
+## 16. §[^21]
 
-[^20]: A 16. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § a 2010: CXXX. törvéyn 12. § (2) bekezdése alapján hatályát vesztette.
