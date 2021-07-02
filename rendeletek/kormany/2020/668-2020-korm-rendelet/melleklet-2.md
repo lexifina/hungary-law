@@ -1,3 +1,3 @@
-2. melléklet a 668/2020. (XII. 28.) Korm. rendelethez[^63]
+2. melléklet a 668/2020. (XII. 28.) Korm. rendelethez[^67]
 
-[^63]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
