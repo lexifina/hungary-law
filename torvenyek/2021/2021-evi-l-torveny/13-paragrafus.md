@@ -4,9 +4,7 @@
 
 (2)
 
-(3) A Kknyt. 5. §-a a következő (1b) bekezdéssel egészül ki:
-
-## „(1b) A közlekedési igazgatási hatóság és a nyilvántartó a hatáskörébe tartozó okmánykiállításra irányuló eljárás során az útiokmány-nyilvántartásból közvetlen hozzáférés útján, az érintett személy azonosítása céljából adatot igényel az útiokmány adatairól.”
+(3)
 
 (4)
 

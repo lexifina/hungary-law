@@ -1,9 +1,3 @@
 ## 12. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
 
-20. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 49. §-a a következő (1a)–(1c) bekezdéssel egészül ki:
-
-„(1a) A biztosító az adott járművet vagy ideiglenes rendszámot illetően tett, a 46. § (2a) bekezdése szerinti adatokat tartalmazó, ajánlati kötöttséget eredményező biztosítási ajánlatot hatályosult ajánlatként kezeli. A biztosító a hatályosult ajánlat azonosítása céljából egyedi azonosító karaktersort, ajánlati azonosítót képez. A biztosító a hatályosult ajánlatról az ajánlati azonosító megadásával a hatályosulást követő napon köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni. A biztosító a hatályosult ajánlat esetleges elutasításáról legkésőbb az elutasítást követő napon köteles a kötvénynyilvántartó szervet informatikai rendszerén keresztül értesíteni.
-
-(1b) A közlekedési igazgatási hatóság kérésére a kiadott rendszám járműnyilvántartásba, vagy ideiglenes rendszámtáblák nyilvántartásába történő bejegyzéséhez, illetve a biztosítási kötelezettséggel járó nyilvántartásba vételi eljárás során a kötvénynyilvántartó szerv a biztosítást igazoló okirat számáról vagy az ajánlati azonosítóról, vagy ezek hiányáról, továbbá az alvázszámról, valamint az üzemben tartó nevéről elektronikus kommunikációs kapcsolaton keresztül értesíti a járműnyilvántartást és az ideiglenes rendszámtáblák nyilvántartását vezető szervet. A biztosítást igazoló okirathoz vagy ajánlati azonosítóhoz rögzített rendszámról a járműnyilvántartást és az ideiglenes rendszámtáblák nyilvántartását vezető szerv elektronikus kommunikációs kapcsolaton keresztül értesíti a kötvénynyilvántartó szervet.
-
-(1c) A kötvénynyilvántartó szerv a biztosítást igazoló okirat számához vagy az ajánlati azonosítóhoz rendelten nyilvántartásba veszi a rendszámot, amellyel egyidejűleg informatikai rendszerén keresztül értesíti a biztosítót a rendszámról.”
+### 20. §
