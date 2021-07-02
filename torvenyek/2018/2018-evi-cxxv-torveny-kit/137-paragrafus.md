@@ -4,7 +4,7 @@
 
 (2) A fizetési számlához kapcsolódóan a kormánytisztviselő részére legfeljebb havonta a központi költségvetésről szóló törvényben meghatározott mértékű bankszámla-hozzájárulás adható.
 
-(3) A kormánytisztviselőt foglalkoztató kormányzati igazgatási szerv viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét.
+(3) A kormánytisztviselőt foglalkoztató kormányzati igazgatási szerv viseli az illetmény fizetési számlára történő átutalásának vagy készpénzben történő kifizetésének a költségét, azzal, hogy az illetmény külföldi fizetési számlára utalása esetén az átutalás költsége a munkáltatói jogkör gyakorlójának erre irányuló döntése alapján a kormánytisztviselőt terheli.
 
 (4) A kormánytisztviselő részére járó illetményt havonta utólag, egy alkalommal kell elszámolni és kifizetni. Ha a jogviszony egy hónapnál rövidebb ideig tart, az illetményt a jogviszony végén kell elszámolni és kifizetni.
 
@@ -12,7 +12,7 @@
 
 (6) Az illetményt a tárgyhónapot követő ötödik napig ki kell fizetni.
 
-(7) Az illetmény bankszámlára utalással történő kifizetése esetén, a kormánytisztviselőt foglalkoztató kormányzati igazgatási szervnek úgy kell eljárnia, hogy a kormánytisztviselő illetményével a bérfizetési napon rendelkezhessen.
+(7) Az illetmény bankszámlára utalással történő kifizetése esetén a kormánytisztviselőt foglalkoztató kormányzati igazgatási szervnek úgy kell eljárnia, hogy a kormánytisztviselő illetményével a bérfizetési napon rendelkezhessen. Külföldi fizetési számlára utalás esetén a kormányzati igazgatási szerv köteles eddig a napig az utalást kezdeményezni.
 
 (8) Az illetményt a kormánytisztviselő részére kell kifizetni, kivéve, ha erre mást felhatalmaz, vagy bírósági vagy más hatósági határozat ebben korlátozza.
 

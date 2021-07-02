@@ -147,5 +147,3 @@
 ## 29. tárgyi ellátmány adatai (gépkocsi, számítógép stb.)
 
 ## V.
-
-## 1. az alkalmazó kormányzati igazgatási szerv neve, székhelye, statisztikai számjele
