@@ -19,3 +19,5 @@ h) segítséget nyújt a vizsgált személyek és szervezetek, illetve a vizsgá
 i) az Európai Unió pénzügyi érdekeit sértő szabálytalanságokról olyan statisztikai célú nyilvántartást vezet, amely személyes adatot nem tartalmazza,
 
 j) minden év június 1-jéig Összefoglalót készít az adópolitikáért felelős miniszter részére az Európai Közösségek pénzügyi érdekeit sértő, az EUCS tv. 125. §. c) pontjában meghatározott szabálytalanságokról, valamint az OLAF Magyarországgal kapcsolatos vizsgálatairól az EUCS tv. 125. §-ának i) pontjában meghatározott nyilvántartás, valamint az EUCS tv. 130. §-a e) pontjában előírt tájékoztatók alapján.
+
+k) eljár a 883/2013/EU, Euratom európai parlamenti és tanácsi rendelet 7. cikk (3a) bekezdésében rögzített információcserét biztosító nemzeti szervezetként, amelynek keretében továbbítja az OLAF – intézkedés megfelelőségére és arányosságára vonatkozó – indokolást tartalmazó megkeresését az érintett szervezetek részére.
