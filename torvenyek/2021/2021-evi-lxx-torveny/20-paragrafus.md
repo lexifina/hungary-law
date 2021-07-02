@@ -1,13 +1,1 @@
-20. § A Ctv. a következő 131/O. §-sal egészül ki:
-
-„131/O. § (1) A cégbíróság a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló 2020. évi LVIII. törvény (a továbbiakban: Vmtv.) 157. §-a értelmében felfüggesztett, a kényszertörlési eljárásra és a felszámolási eljárásra vonatkozó és kapcsolódó egyes törvények módosításáról szóló 2021. évi LXX. törvény (a továbbiakban: 2021. évi LXX. tv.) hatálybalépése napján a 116. § (1) bekezdés d) pontja alapján folyamatban lévő, valamint a (2) bekezdés hatálya alá nem tartozó, a 2021. évi LXX. tv. hatálybalépése napján még folyamatban lévő kényszertörlési eljárásokat e törvény 2021. június 30-án hatályos rendelkezései alapján folytatja le.
-
-(2) Ha a cég a Vmtv. 157. § (5) és (6) bekezdésében meghatározott kérelmet 2021. július 30-ig benyújtja a cégbírósághoz, az (1) bekezdést csak akkor kell alkalmazni, ha e kérelem alapján a kényszertörlési eljárás megszüntetésére nem kerül sor.
-
-(3) E törvénynek a 2021. évi LXX. tv.-nyel megállapított rendelkezéseit – az (1) és a (2) bekezdésben foglalt kivétellel – a 2021. évi LXX. tv. hatálybalépése napján vagy azt követően meghozott, a 116. § (1) bekezdés szerinti végzéssel megindult kényszertörlési eljárásokban kell alkalmazni azzal, hogy
-
-a) a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt 2022. június 30-áig nem alkalmazza azokban a kényszertörlési eljárásokban, amelyekben kizárólag az állami adó- és vámhatóság az adószámtörléssel érintett cégek megszűntnek nyilvánítására irányuló eljárás miatti törvényességi felügyeleti illeték összegét jelenti be követelésként és más követelés nincs,
-
-b) a cégbíróság a 118. § szerinti, illetve a 117/F. § (2) bekezdése szerinti végzés meghozatala előtt 2022. június 30-áig felfüggeszti azokat a kényszertörlési eljárásokat, amelyekben a 118. § (2) bekezdése szerinti végzés meghozatalának lenne helye és nem tartoznak az a) pont hatálya alá. Ha a cég 2022. június 30-ig cégbíróság felé igazolja, hogy 117/C. § (2) bekezdés a) és d) pontjában foglalt feltételeknek megfelel, a cégbíróság kényszertörlési eljárást a céggel szemben megszünteti.
-
-(4) E törvénynek a 2021. évi LXX. tv.-nyel megállapított 80. § (6) bekezdését a folyamatban lévő törvényességi felügyeleti eljárásokban is alkalmazni kell azzal, hogy a cég vezető tisztségviselője köteles a tagokat a 2021. évi LXX. tv. hatálybalépését követő 30 napon belül tájékoztatni a céggel szemben folyamatban lévő törvényességi felügyeleti eljárásról.”
+20. §
