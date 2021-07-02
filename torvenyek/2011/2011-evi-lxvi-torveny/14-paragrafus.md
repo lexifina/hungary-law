@@ -1,6 +1,6 @@
-## Az Állami Számvevőszék alelnöke
+## Az Állami Számvevőszék alelnökei
 
-14. § (1) Az Állami Számvevőszék alelnökét az elnök nevezi ki tizenkét évre.
+14. § (1) Az Állami Számvevőszék alelnökeit az elnök nevezi ki tizenkét évre.
 
 (2) Nem nevezhető ki az Állami Számvevőszék alelnökévé olyan személy, aki a megelőző négy évben tagja volt a Kormánynak, vagy bármely párt országos (központi) szervezetében választott vezető tisztséget töltött be.
 
@@ -40,6 +40,6 @@ g) halállal.
 
 (13) Ha az Állami Számvevőszék alelnökének megbízatása megszűnik, jogosult az e megbízatására utaló megnevezést használni, feltéve, hogy a megbízatása nem összeférhetetlenség megállapításával vagy kizárással szűnt meg.
 
-(14) Az Állami Számvevőszék alelnöke az elnök akadályoztatása esetén az elnök által szabályozott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. Az alelnök helyettesítési jogkörben nem jogosult a 13. § (2) bekezdés a) és b) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
+(14) Az Állami Számvevőszék Szervezeti és Működési Szabályzata által kijelölt alelnöke az elnök akadályoztatása esetén az elnök által szabályozott jogkörben gyakorolja az elnök jogait és ellátja kötelezettségeit. A kijelölt alelnök helyettesítési jogkörben nem jogosult a 13. § (2) bekezdés a) és b) pontjában foglalt feladatok ellátására, azonban a már meghatározott ellenőrzési terv és stratégia végrehajtásáról gondoskodni köteles. Az Állami Számvevőszék kijelölt alelnöke nem helyettesítheti az elnököt a Költségvetési Tanácsban.
 
-(15) Az Állami Számvevőszék alelnökének feladatait az Állami Számvevőszék Szervezeti és Működési Szabályzata határozza meg.
+(15) Az Állami Számvevőszék alelnökeinek feladatait az Állami Számvevőszék Szervezeti és Működési Szabályzata határozza meg.

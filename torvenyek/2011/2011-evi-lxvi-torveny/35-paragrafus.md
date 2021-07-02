@@ -21,3 +21,5 @@
 (10) A számvevőt 2019. május 1-jétől kell besorolni az Állami Számvevőszékről szóló 2011. évi LXVI. törvény, valamint a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosításáról szóló 2019. évi XXXVII. törvénnyel (a továbbiakban: Módtv.) megállapított besorolási kategóriák valamelyikébe.
 
 (11) A számvevő a jogviszonyát érintő, a Módtv. rendelkezéseivel összefüggésben, a Módtv. hatálybalépését követő négy munkanapon belül írásban kérheti a felmentését a felmentés okának megjelölésével. A felmentési kérelemnek a munkáltatói jogkör gyakorlója általi elfogadása esetén a Módtv.-vel megállapított 15. § (2c) bekezdése megfelelően alkalmazandó.
+
+(12) E törvénynek az állami vagyonnal való fenntartható gazdálkodás megteremtése érdekében egyes vagyongazdálkodást érintő törvények módosításáról, valamint egyéb vagyongazdálkodási rendelkezésekről szóló 2021. évi LXXXIV. törvénnyel (a továbbiakban: Módtv2.) megállapított 8. § (1) bekezdése, 14. § (1), (14) és (15) bekezdése, 19. § (1) és (2) bekezdése, valamint 20. § (2) bekezdése nem érinti a Módtv2. hatálybalépésekor hivatalban lévő alelnök kinevezését.
