@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-37-20-2
 | 2021-03-19 | 2021-37-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-03-20 | 2021-37-20-22.6 | 2010: CXXX. törvény |
 | 2021-07-01 | 2021-37-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-07-02 | 2021-37-20-22.8 | 2010: CXXX. törvény |

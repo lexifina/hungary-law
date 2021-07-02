@@ -1,4 +1,4 @@
-## 15. §[^16]
+## 15. §[^18]
 
 ## 7. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 13. § (1) bekezdése és a 17. § (3) bekezdése 2021. július 1-jén lép hatályba.
 
-[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
