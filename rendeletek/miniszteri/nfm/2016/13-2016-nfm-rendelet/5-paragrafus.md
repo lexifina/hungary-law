@@ -1,16 +1,36 @@
 ## 4. A szolgáltatási díj, a díjalkalmazási feltételek
 
-5. § (1) A szolgáltatási díj a standard díjon alapul. A standard díj a 2. mellékletben felsorolt és az OHKT-ben előírt módon és feltételeknek megfelelően nyújtott hulladékgazdálkodási közszolgáltatás ellátásának egységnyi díjtétele.
+5. § (1)[^2] A tervezett szolgáltatási díj megállapítását a Koordináló szerv a közszolgáltató indokolt szolgáltatási költségeit alapul véve végzi. Indokolt szolgáltatási költségnek minősül a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék gyűjtésének és elszállításának költsége, a közszolgáltatás keretében végzett hulladékgyűjtés, -szállítás és -kezelés, valamint -ártalmatlanítás gyakorlásához szükséges, a hulladékkezelő, illetve hulladékártalmatlanító létesítményeknek a közszolgáltatással kapcsolatos üzemeltetési és karbantartási költségei és ráfordításai, a környezetvédelmi kiadások és ráfordítások, valamint a közszolgáltatás körében működtetett létesítmények utógondozásának és monitorozásának a díjfizetési időszakra vetített költsége.
 
-(2) A standard díj – a (3) bekezdésben meghatározott kivétellel – a 3–4. melléklet szerinti korrekciós tényezőkkel pozitív irányban maximum 70%-kal, negatív irányban maximum 60%-kal korrigálható.
+(2)[^3] A tárgyévi tervezett szolgáltatási díj mértékét a Koordináló szerv állapítja meg a közszolgáltató adatszolgáltatása alapján, az e rendeletben meghatározottak szerint. A szolgáltatási díj alapját képező indokolt szolgáltatási költségre vonatkozóan a Koordináló szerv a honlapján a számviteli szétválasztásról, költségfelosztásról és önköltségszámításról szóló ajánlást és az adatszolgáltatás formai és tartalmi követelményeit meghatározó útmutatót tesz közzé.
 
-(3) Azon a közszolgáltatási területen, ahol a közszolgáltatási díj kéttényezős díjképzési módszerrel került az ingatlanhasználók felé kiszámlázásra, a 3–4. melléklet szerinti korrekciós tényezőkkel korrigált standard díj a (2) bekezdésben foglaltakon túl, további maximum 30%-kal növelhető a tényleges ürítésből és az elméleti ürítésből adódó arány alapján. Elméleti ürítés a kihelyezett edény és a gyűjtési gyakoriság alapján számított liter értéke.
+(3)[^4] A (2) bekezdés szerinti ajánlás tartalmazza a költségek hulladékgazdálkodási tevékenységek szerinti felosztásának célszerű rendjét, a közszolgáltató egyes tevékenységeiből származó költségek, ráfordítások és bevételek elkülönített nyilvántartásához szükséges számviteli szétválasztásra vonatkozó javasolt alapelveket és az egységes önköltségszámítás ajánlott módszerét.
 
-(4) Az adott naptári negyedévben ellátott szolgáltatásra vonatkozó szolgáltatási díj kiszámítása a 3., 4., 5., mellékletben meghatározott tényezőknek a figyelembevételével az 1. mellékletben meghatározott módszer (képlet) szerint történik. Az így kiszámított díj nem tartalmazza az általános forgalmi adó összegét.
+(4)[^5] A Koordináló szerv a szolgáltatási díjszámítással érintett naptári évet (a továbbiakban: tárgyév) megelőző év február hónap utolsó napjáig a közszolgáltató által benyújtott hulladékgazdálkodási közszolgáltatási és pénzügyi adatokkal indokolt szolgáltatási fajlagos költségszámítást, tervezési és optimalizációs feladatokat végez, és ezek alapján meghatározza a tervezett szolgáltatási díjat. A Koordináló szerv a tárgyévet megelőző év október 31-ig értesíti a közszolgáltatót a tervezett szolgáltatási díjról és annak a közszolgáltató részére havonként kifizetendő összegéről. A közszolgáltató által a Koordináló szerv felé kiállított számla alapján havi részletekben kifizetendő összeg a Koordináló szerv által meghatározott tervezett szolgáltatási díj egy hónapra eső részének a 75%-a.
 
-(5) A szolgáltatási díjat csökkenteni kell a közszolgáltató részére biztosított közszolgáltatási díjat, díjalapot a Ht., valamint a települési hulladékkezelési közszolgáltatási díj megállapításának részletes szakmai szabályairól szóló 64/2008. (III. 28.) Korm. rendelet alapján csökkentő elemekkel.
+(5)[^6] A tervezett szolgáltatási díj havi kifizetésének feltétele, hogy a közszolgáltató a tárgyhónapot követő 5. napig megküldje az alábbi dokumentumokat, és az alábbi feltételeknek megfeleljen:
 
-(6) Az (5) bekezdésben foglaltaknak megfelelően kell érvényesíteni a haszonanyaggal kapcsolatban a közszolgáltatónál keletkező bevételt is.
+a) az alvállalkozók szerződés szerinti kifizetésére vonatkozó közszolgáltatói nyilatkozat,
+
+b) az ellátásért felelős által – a közszolgáltató által ellátott tevékenységről – kiállított teljesítésigazolás,
+
+c) az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.) Korm. rendelet szerinti adatszolgáltatási kötelezettség határidőben történő teljesítése,
+
+d) a haszonanyag gazdálkodás tekintetében a Koordináló szerv által előírt elektronikus formában történő adatszolgáltatási kötelezettség teljes körű teljesítése.
+
+(6)[^7] A közszolgáltató számlája alapján a Koordináló szerv 8 napon belül megfizeti a tervezett szolgáltatási díj havi esedékes részét.
+
+(6a)[^8] A Koordináló szerv a tárgyévet követő év április 15-ig a közszolgáltató által benyújtott hulladékgazdálkodási közszolgáltatási és pénzügyi adatokra, a máluszokra, a mennyiségi tényadatokra, valamint a bevételre, illetve a (4) bekezdés szerint meghatározott és kifizetett tervezett szolgáltatási díjra tekintettel meghatározza a szolgáltatási díj korrekciót.
+
+(6b)[^9] Ha a közszolgáltatás év közbeni minőségi vagy mennyiségi változása miatt a szolgáltatási díj korrekciója során a közszolgáltatónak keletkezik visszafizetési kötelezettsége, a Koordináló szerv a változás tudomására jutását követően haladéktalanul módosítja a tervezett szolgáltatási díjat, amelyről értesíti a közszolgáltatót.
+
+(6c)[^10] A tárgyévre vonatkozóan a Koordináló szerv a díj korrekciója alapján a tárgyévet követő év július 31. napjáig pénzügyileg elszámol a közszolgáltatóval.
+
+(6d)[^11] Ha a közszolgáltató a tevékenységét év közben megszünteti, a (6a) bekezdés szerinti adatszolgáltatását a tevékenység megszüntetését követő második hónap végéig teljesíti, mely adatszolgáltatás alapján a hiánytalan adatszolgáltatást követő 60 napon belül a Koordináló szerv elszámol vele.
+
+(6e)[^12] A tárgyévben ellátott közszolgáltatásért járó szolgáltatási díjszámítás – a 3. mellékletben meghatározott málusz figyelembevételével – az 1. mellékletben meghatározott módszer szerint történik.
+
+(6f)[^13] A Koordináló szerv a (4) bekezdés szerinti értesítését, valamint a (6c) bekezdés szerinti elszámolást megelőzően tájékoztatja a közszolgáltató részére megállapított tervezett szolgáltatási díjról és szolgáltatási díjról a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős minisztert (a továbbiakban: miniszter) és a Magyar Energetikai és Közmű-szabályozási Hivatalt (a továbbiakban: Hivatal). A tájékoztatást legalább 15 nappal a (4) bekezdés szerinti értesítést és a (6c) bekezdés szerinti szolgáltatási díj kifizetését megelőzően kell megküldeni.
 
 (7) Ha a Koordináló szerv azt állapítja meg, hogy a közszolgáltató nem adta át valamennyi haszonanyagát a Koordináló szerv által kijelölt szervezetnek, úgy a Koordináló szerv az erre vonatkozó írásbeli értesítést követő szolgáltatási díjfizetési időszakban a közszolgáltatónak fizetendő szolgáltatási díjból levonhatja az át nem adott haszonanyag mennyiségére vetített, a Koordináló szerv és a haszonanyag átvételére jogosult szervezet között létrejött szerződése alapján megállapított összeget.
 
@@ -29,3 +49,22 @@ c) a közszolgáltató a jogszabályban, hatósági engedélyeiben előírt cél
 (10) A Koordináló szerv a (9) bekezdés szerinti összegeket elkülönítetten tartja nyilván.
 
 (11) Ha a közszolgáltatási szerződés megszűnéséig az adott közszolgáltatási szerződéssel összefüggő (9) bekezdés szerinti visszatartott összegeknek a közszolgáltató részére történő kifizetésére nem kerül sor, úgy a közszolgáltatási szerződés megszűnésekor a közszolgáltató és az ellátásért felelős elszámolása tekintetében a Koordináló szerv ezen összegeket az ellátásért felelős részére fizeti meg.
+
+(12)[^14] A Koordináló szerv a tervezett szolgáltatási díj és a szolgáltatási díj meghatározásakor a miniszter vagy a Hivatal jóváhagyása alá tartozó szerződéses jogviszonyokban meghatározott költségeket és ráfordításokat a miniszter vagy a Hivatal jóváhagyó döntése véglegessé válását követően veheti figyelembe.
+
+(13)[^15] A Koordináló szerv a Ht. 92/G. §-ában vagy 92/H. § (7) bekezdésében meghatározott, jóváhagyáshoz kötött szerződést és kötelezettségvállalást – ha azzal kapcsolatban kifizetési igényt jelentett be a közszolgáltató, és annak jóváhagyásról a Koordináló szerv nem kapott tájékoztatást – kétség esetén megküldi a miniszter vagy a Hivatal részére. A Koordináló szerv megkeresésére a miniszter vagy a Hivatal 15 napon belül választ ad arra vonatkozóan, hogy a jóváhagyás szükséges vagy sem. Ha jóváhagyás szükséges, és az még nem áll rendelkezésre, az érintett szerződést és kötelezettségvállalást a Koordináló szerv a szolgáltatási díj kiszámítása során – a jóváhagyó döntés véglegessé válásáig – nem veszi figyelembe, és erről tájékoztatja a közszolgáltatót.
+
+[^2]: Az 5. § (1) bekezdése a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (2) bekezdése a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (3) bekezdése a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (4) bekezdése a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 5. § (5) bekezdése a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (6) bekezdése a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (6a) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^9]: Az 5. § (6b) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^10]: Az 5. § (6c) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^11]: Az 5. § (6d) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^12]: Az 5. § (6e) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^13]: Az 5. § (6f) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (1) bekezdése iktatta be.
+[^14]: Az 5. § (12) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (2) bekezdése iktatta be.
+[^15]: Az 5. § (13) bekezdését a 27/2021. (VI. 29.) ITM rendelet 2. § (2) bekezdése iktatta be.

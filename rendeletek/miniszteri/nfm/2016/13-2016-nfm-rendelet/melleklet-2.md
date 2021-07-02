@@ -1,69 +1,47 @@
-## SZOLGÁLTATÁSI DÍJ SZÁMÍTÁS ÁLTALÁNOS KÉPLETE
+## 1. Szolgáltatási díj számításának általános képlete
 
-## S : standard díj [Ft/liter] 2. melléklet
+## Ahol:
 
-## KPoz,i : pozitív korrekciós tényező [Ft/liter]
+## DSZ: szolgáltatási díj (Ft)
 
-## KNeg,i : negatív korrekciós tényező [Ft/liter]
+## j: a 4. mellékletben meghatározott hulladékgazdálkodási közszolgáltatási tevékenység indexe
 
-## M : ürített mennyiség [liter*]
+## bj: az adott közszolgáltató j-edik tevékenységének indokolt szolgáltatási fajlagos költsége, amely az önköltség adatszolgáltatás adataiból meghatározott indokolt szolgáltatási fajlagos költségszámításból származik (Ft/tonna)
 
-## * A liter mennyiség az adott közszolgáltatási terület tekintetében a közszolgáltatási díj alapjául szolgáló liter mennyiség alapján kerül meghatározásra.
+## mj: az adott közszolgáltató j-edik tevékenységére eső mennyiség (tonna)
 
-## N : népsűrűség tényező 5. melléklet
+## M: málusz összeg (Ft)
 
-## Ci : egyösszegű levonás [Ft]
+## T: bevétel (Ft)
 
-## KORREKCIÓS TÉNYEZŐ SZÁMÍTÁS ÁLTALÁNOS KÉPLETE
+## 2. Málusz számításának általános képlete:
 
-## Aj,i : Az előírt teljesítésből származtatott arányszám
+## Ahol:
 
-## Ei : korrekció értéke [Ft/liter] 3. és 4. melléklet táblázat
+## M: málusz összeg (Ft)
 
-## L : lakossági tényező 5. melléklet
+## Mk: a k-adik málusz elem esetében a közszolgáltatónak fizetendő szolgáltatási díjat csökkentő fajlagos, 3. melléklet szerinti málusz érték (Ft/kg),
 
-2. melléklet a 13/2016. (V. 24.) NFM rendelethez
+## mk: a közszolgáltató k-adik máluszát meghatározó mennyiség (kg)
 
-1. A standard díj meghatározása
+## k: a málusz elemek indexe
 
-1.1. A standard díj valamennyi közszolgáltatási terület tekintetében: 2,737 Ft/liter
+## 3. Az indokolt szolgáltatási fajlagos költség számításának általános képlete
 
-1.2. Az 1.1. pontban rögzített standard díj magában foglalja:
+## Ahol:
 
-1.2.1. Az egyes ingatlanhasználók tekintetében a közszolgáltatás körébe tartozó vegyes hulladék jogszabályban előírt gyakorisággal történő összegyűjtését és elszállítását.
+## bi,j: az i-edik közszolgáltató j-edik tevékenységére vonatkozó indokolt szolgáltatási fajlagos költsége (Ft/tonna)
 
-1.2.2. Az egyes ingatlanhasználók tekintetében a közszolgáltatás körébe tartozó zöldhulladék OHKT-ban minimálisan meghatározott módon és gyakorisággal történő összegyűjtését és elszállítását.
+## : a j-edik tevékenységre vonatkozó fajlagos költségek országos átlaga (Ft/tonna)
 
-1.2.3. Az OHKT-ban minimálisan előírtak szerinti ingatlanhasználók tekintetében a közszolgáltatás körébe tartozó elkülönítetten gyűjtött csomagolási hulladék OHKT-ban minimálisan meghatározott gyakoriságú, arányú és módon történő összegyűjtését és elszállítását.
+## fi,j: az i-edik közszolgáltató j-edik tevékenységére vonatkozó fajlagos költsége (Ft/tonna)
 
-1.2.4. Az OHKT-ban minimálisan előírtak szerinti ingatlanhasználók tekintetében a közszolgáltatás körébe tartozó lomhulladék OHKT-ban minimálisan meghatározott gyakoriságú és módon történő összegyűjtését és elszállítását.
+## mi,j: az i-edik közszolgáltató j-edik tevékenységére eső tárgyévi mennyiség (tonna)
 
-1.2.5. Az 1.2.1–1.2.4. pontok szerinti feladatok teljesítéséhez szükséges eszközök, gépek üzemeltetését.
+## r: a bázis évre meghatározott inflációs ráta (0 ≤ r ≤ 1)
 
-1.2.6. Az 1.2.1–1.2.4. pontok szerint gyűjtött hulladékok előkezelését az OHKT-ban minimálisan előírt technikával, és az előkezelés tekintetében az OHKT-ban minimálisan megjelölt mennyiségi és minőségi feltételek teljesítésével (ide értendő különösen: anyagában hasznosítás érdekében végzett előkezelés az elkülönített csomagolási hulladék utóválogatása és bálázása; vegyesen gyűjtött háztartási hulladékhoz hasonló vegyesen gyűjtött hulladék esetén az energetikai hasznosításra alkalmas frakció szétválasztása további utóaprítás és stabilizálás nélkül).
+## 4. 2023. évtől a 3. pontban meghatározott képletében a fajlagos költségek országos átlagának súlyszáma évente 5%-kal emelkedik, míg a közszolgáltató fajlagos költségének súlyszáma 5%-kal csökken. 2022. év esetében a fajlagos költségek országos átlagának figyelembe vehető súlyszáma 25%, a közszolgáltató fajlagos költségének súlyszáma 75%.
 
-1.2.7. Az 1.2.6. pont szerinti feladat teljesítéséhez szükséges hulladékgazdálkodási létesítmények, eszközök, berendezések üzemeltetését.
+2. melléklet a 13/2016. (V. 24.) NFM rendelethez[^26]
 
-1.2.8. Az OHKT-ban minimálisan előírt mennyiségű és minőségű haszonanyag Koordináló Szerv által megjelölt szervezet részére történő átadását.
-
-1.2.9. Az előkezelt és haszonanyagként a Koordináló szerv által megjelölt szervezet részére át nem adott hulladék ártalmatlanítását és az ehhez szükséges hulladékgazdálkodási létesítmények, eszközök, berendezések üzemeltetését.
-
-1.2.10. Ügyfélszolgálat fenntartását, üzemeltetését.
-
-1.2.11. Az 1.2.1–1.2.10. pontokban foglaltakon felül az adott közszolgáltatási területre irányadó 2016. április 1-jén hatályos közszolgáltatási szerződésben és önkormányzati rendeletben szereplő OHKT-val összhangban lévő további feladatokat.
-
-1.2.12. A közszolgáltató tulajdonában, esetleg vagyonkezelésében vagy üzemeltetésében lévő a közszolgáltatás ellátásához szükséges vagyon fenntartását, rekonstrukcióját, felújítását, pótlását, esetleges fejlesztését, legalább az adott vagyontárgyak elszámolt – megfelelő élettartam alapján megállapított értékcsökkenésének erejéig.
-
-1.2.13. A közszolgáltató eszközeinek a pótlásához, megújításához, bővítéséhez, fejlesztéséhez szükséges forrásokat azzal, hogy a közszolgáltató a nonprofit jellegére, illetve tevékenységére tekintettel osztalékot nem képezhet.
-
-1.2.14. A folyamatos hulladékgazdálkodási közszolgáltatás tartós ellátásához szükséges indokolt költségeket.
-
-1.2.15. A környezetvédelmi kötelezettségek teljesítésének indokolt költségeit.
-
-1.2.16. A hulladékgazdálkodási közszolgáltatással érintett, a közszolgáltató által üzemeltetett hulladékgazdálkodási létesítmény bezárásának, rekultivációjának, utógondozásának és monitoringjának indokolt költségeit.
-
-2. A standard díjhoz kapcsolódó költségek
-
-2.1. Indokolt költségnek és ráfordításnak minősül különösen a hulladékgyűjtés, -szállítás és -kezelés, valamint -ártalmatlanítás gyakorlásához szükséges, a hulladékkezelő, illetve hulladékártalmatlanító létesítményeknek a közszolgáltatással kapcsolatos üzemeltetési és karbantartási költségei és ráfordításai, a környezetvédelmi kiadások és ráfordítások, valamint a közszolgáltatás körében működtetett létesítmények utógondozásának és monitorozásának a díjfizetési időszakra vetített költsége.
-
-2.2. Az utógondozási és monitorozási költségek a szolgáltatási díjban akkor érvényesíthetők, ha a közszolgáltató az utógondozás, illetve a monitorozás körébe tartozó feladatai ellátására tervet készít, amely alapján mennyiségarányosan megállapítja az ennek megvalósításához évente szükséges, inflációval korrigált bevételt, és annak mértékét a passzív időbeli elhatárolásokkal szemben közvetlen költségként számolja el vagy, ha az utógondozás, illetve monitorozás céljára szükséges fedezetet csak közelíteni lehet, akkor az időközönként ismétlődő jövőbeni költségekre céltartalékot képez.
+[^26]: A 2. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.
