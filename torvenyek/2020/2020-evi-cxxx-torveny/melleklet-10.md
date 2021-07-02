@@ -115,5 +115,3 @@ V.
 11. próbaidejének adatai
 
 12. a pénzügyőri státuszú foglalkoztatott állományviszonya és viselt rendfokozata,
-
-13. a szolgálati igazolványának típusa, száma,
