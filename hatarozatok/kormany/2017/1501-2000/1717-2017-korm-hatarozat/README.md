@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1717-30
 | 2019-04-18 | 2017-1717-30-22.5 | 1993/2017. (XII. 19.) Korm. határozat |
 | 2019-07-18 | 2017-1717-30-22.6 | 1993/2017. (XII. 19.) Korm. határozat |
 | 2020-09-09 | 2017-1717-30-22.7 | 1993/2017. (XII. 19.) Korm. határozat |
+| 2021-07-02 | 2017-1717-30-22.8 | 1993/2017. (XII. 19.) Korm. határozat |

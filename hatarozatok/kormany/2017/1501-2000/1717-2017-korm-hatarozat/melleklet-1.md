@@ -312,7 +312,7 @@
 
 | 59. | Újtikos Község fejlesztési feladatainak támogatása | művelődési ház rekonstrukció III. ütem | 50,0 |
 
-| 60. | Úri Község fejlesztési feladatainak támogatása | sportcsarnok építése támogatásnyújtással | 200,0 |
+| 60. | Úri Község fejlesztési feladatainak támogatása | sportcsarnok építése | 200,0 |
 
 | 61. | Vajta Község fejlesztési feladatainak támogatása | közterület-felújítás, járdaépítés | 10,0 |
 
@@ -415,7 +415,7 @@
 1. melléklet az 1717/2017. (X. 3.) Korm. határozathoz
 
 [^1]: A 2. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont a) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont a) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
-[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont b) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont b) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont b) alpontja, az 1215/2019. (IV. 18.) Korm. határozat 2. pontja, az 1423/2019. (VII. 18.) Korm. határozat 2. pontja, az 1575/2020. (IX. 9.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1993/2017. (XII. 19.) Korm. határozat 1. pont b) alpontja, az 1082/2018. (III. 13.) Korm. határozat 1. pont b) alpontja, az 1697/2018. (XII. 17.) Korm. határozat 10. pont b) alpontja, az 1215/2019. (IV. 18.) Korm. határozat 2. pontja, az 1423/2019. (VII. 18.) Korm. határozat 2. pontja, az 1575/2020. (IX. 9.) Korm. határozat 3. pontja, az 1434/2021. (VII. 2.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^3]: A 4. pont az 1697/2018. (XII. 17.) Korm. határozat 10. pont c) alpontja szerint módosított szöveg.
 [^4]: Az 5. pont az 1993/2017. (XII. 19.) Korm. határozat 2. a) pontja szerint módosított szöveg.
 [^5]: A 6. pont az 1993/2017. (XII. 19.) Korm. határozat 2. b) pontja szerint módosított szöveg.
