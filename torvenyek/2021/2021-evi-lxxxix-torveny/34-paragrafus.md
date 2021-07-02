@@ -14,9 +14,9 @@
 
 7. 41. § (3) bekezdésében a „szervezetének juttatott támogatásokra.” szövegrész helyébe a „szervezetének juttatott támogatásokra, valamint tanuló, hallgató részére foglalkoztatási jogviszony létesítésére irányuló kötelezettséget keletkeztető támogatási szerződés alapján nyújtott ösztöndíjakra, támogatásokra.” szöveg,
 
-8. 44. § (1) bekezdésében a „teljesítése – ideértve a szakképzési hozzájárulás bevallási kötelezettségét is –, továbbá” szövegrész helyébe a „teljesítése, továbbá” szöveg,
+8.
 
-9. 65. § (1) bekezdésében a „köteles” szövegrész helyébe a „köteles, melynek megszegése esetén az érintett személy eljárási bírsággal sújtható” szöveg,
+9.
 
 10. 70. § (5) bekezdés nyitó szövegrészében a „miniszter a” szövegrész helyébe a „miniszter által a” szöveg, és
 
