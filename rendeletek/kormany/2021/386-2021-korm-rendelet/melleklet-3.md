@@ -1,8 +1,6 @@
-## 20212220000386_2
-
 3. melléklet a 386/2021. (VI. 30.) Korm. rendelethez
 
-## A Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzatban foglalt egyes feladatok megosztása
+A Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodáshoz (ADN) csatolt Szabályzatban foglalt egyes feladatok megosztása
 
 1. A közlekedésért felelős miniszter
 
