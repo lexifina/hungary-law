@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2021-04-01 | 2020. évi CLXV. törvény | 2011-189-00-00.45 |
 | 2021-05-01 | 2021. évi VIII. törvény | 2011-189-00-00.46 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2011-189-00-00.47 |
+| 2021-07-02 | 2021. évi LXXXIX. törvény | 2011-189-00-00.48 |
