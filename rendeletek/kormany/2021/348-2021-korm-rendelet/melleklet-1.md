@@ -1,4 +1,4 @@
-## 6. §[^3]
+## 6. §[^4]
 
 1. melléklet a 348/2021. (VI. 22.) Korm. rendelethez
 
@@ -44,4 +44,4 @@
 
 | 20. | Kassai kerület (Košický kraj) |
 
-[^3]: A 6. § a 4. § (2) bekezdése alapján 2021. július 15-én lép hatályba.
+[^4]: A 6. § a 4. § (2) bekezdése alapján 2021. július 15-én lép hatályba.
