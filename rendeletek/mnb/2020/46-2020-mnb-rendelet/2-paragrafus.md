@@ -1,3 +1,3 @@
-## 1. § A jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségről szóló 35/2018. (XI. 13.) MNB rendelet (a továbbiakban: Rendelet) 1. §-a helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „1. § E rendelet hatálya a hitelintézetre, az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban (a továbbiakban: EGT-állam) székhellyel rendelkező hitelintézet magyarországi fióktelepére (a továbbiakban: EGT-fióktelep), az összevont alapú felügyelet alá tartozó pénzügyi vállalkozásra, valamint a Magyar Nemzeti Bank (a továbbiakban: MNB) által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozásra és az ezen típusú EGT-fióktelepre (a továbbiakban együtt: adatszolgáltató) terjed ki.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

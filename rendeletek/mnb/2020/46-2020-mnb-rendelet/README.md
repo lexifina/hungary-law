@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-46-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-07-01 | 2020-46-20-2C.1 | 46/2020. (XI. 20.) MNB rendelet |
+| 2021-07-02 | 2020-46-20-2C.2 | 2010: CXXX. törvény |

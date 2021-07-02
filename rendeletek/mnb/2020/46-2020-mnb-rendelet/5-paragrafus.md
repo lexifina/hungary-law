@@ -1,5 +1,3 @@
-## 4. § A Rendelet 3. § (2) bekezdésében a „3. pontja” szövegrész helyébe a „I. 3. pontja” szöveg lép.
+## 4. §[^5]
 
-5. § (1) A Rendelet 1. melléklete az 1. melléklet szerint módosul.
-
-(2) A Rendelet 2. melléklete helyébe a 2. melléklet lép.
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
