@@ -1,4 +1,4 @@
-57. § Hatályát veszti a Kbt.
+57. §
 
 1.
 
@@ -14,7 +14,7 @@
 
 7.
 
-8. 119. § (2) bekezdés g) pontja,
+8.
 
 9.
 
