@@ -4,7 +4,7 @@
 
 (2) A Holding Szövetkezet tekintetében a Ptk.-nak a tag személyes közreműködésére, a tagok vagyoni hozzájárulásának arányára és mértékére vonatkozó rendelkezéseit és a 3:326. § (1)–(3) bekezdését nem kell alkalmazni.
 
-(3) A Holding Szövetkezet az Integrációs Szervezet tagja, amely a hitelintézetek integrációja működésében az általa tulajdonolt szervezetekkel kapcsolatos tulajdonosi és a 6. § (4)–(6) bekezdésében foglalt jogait gyakorolva vesz részt.
+(3) A Holding Szövetkezet az Integrációs Szervezet tagja, amely a hitelintézetek integrációja működésében az általa tulajdonolt szervezetekkel kapcsolatos tulajdonosi jogait gyakorolva vesz részt.
 
 (4) A Holding Szövetkezet jogosult integrált hitelintézetben és annak többségi tulajdonában álló vállalkozásban fennálló tulajdoni részesedésének kezelését fő tevékenységként végezni.
 
