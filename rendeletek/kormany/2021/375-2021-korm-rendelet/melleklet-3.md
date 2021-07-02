@@ -1,7 +1,3 @@
-## A 309/2011. (XII. 23.) Korm. r. 3. melléklete a következő 114. ponttal egészül ki:
+3. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^131]
 
-## (Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kötelezően biztosítandó központosított alkalmazás-üzemeltetési és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások)
-
-## „114. Központi Döntéstámogató Alkalmazás”
-
-3. melléklet a 375/2021. (VI. 30.) Korm. rendelethez
+[^131]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

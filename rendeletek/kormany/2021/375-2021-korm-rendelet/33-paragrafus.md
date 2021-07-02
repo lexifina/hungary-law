@@ -1,4 +1,4 @@
-## 32. §[^41]
+## 32. §[^128]
 
 ## 19. Záró rendelkezések
 
@@ -16,4 +16,4 @@
 
 (7) A 18. § (9), (11) és (14) bekezdése, a 19. § (3) bekezdése, a 20. § c) pontja, valamint a 6. melléklet 2023. július 1-jén lép hatályba.
 
-[^41]: A 32. § a 33. § (5) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^128]: A 32. § a 33. § (5) bekezdése alapján 2022. július 1-jén lép hatályba.

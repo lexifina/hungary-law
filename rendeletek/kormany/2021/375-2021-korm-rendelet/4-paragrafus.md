@@ -2,37 +2,51 @@
 
 ## 4. § Hatályát veszti a 146/1993. (X. 26.) Korm. r.
 
-1.[^7]
+1.[^15]
 
-2.[^8]
+2.[^16]
 
-3. 9. § (4) bekezdés a) pontjában az „és értesítési cím adatokat” szövegrész,
+3.[^17]
 
-4. 10/A. § i) pontja,
+4.[^18]
 
-5. 11. § b) pontjában az „az értesítési cím,” szövegrész,
+5.[^19]
 
-6. 13. §-ában az „- és értesítési cím” szövegrész,
+6.[^20]
 
-7. 15. § (6) bekezdése,
+7.[^21]
 
-8. 31/A. §-a,
+8.[^22]
 
-9. 32. § (1a) bekezdése,
+9.[^23]
 
-10. 34. § (1a) és (3a) bekezdése,
+10.[^24]
 
-11. 35. § (5) bekezdése,
+11.[^25]
 
-12. 37. § (1) bekezdésében a „vagy értesítésicím-változásról” szövegrész,
+12.[^26]
 
-13. 39. § (2) bekezdése,
+13.[^27]
 
-14. 46. § (2)–(4) bekezdése,
+14.[^28]
 
-15. 2. számú melléklet 3. pont 3.5. alpontja,
+15.[^29]
 
-16. 6. számú melléklete.
+16.[^30]
 
-[^7]: A 4. § 1. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^8]: A 4. § 2. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^15]: A 4. § 1. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 4. § 2. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^17]: A 4. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 4. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 4. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 4. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 4. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 4. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 4. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 4. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 4. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 4. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 4. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 4. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 4. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 4. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

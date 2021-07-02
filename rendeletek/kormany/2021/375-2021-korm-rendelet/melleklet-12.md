@@ -1,3 +1,3 @@
-12. melléklet a 375/2021. (VI. 30.) Korm. rendelethez
+12. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^140]
 
-Hatályát veszti a 86/2019. (IV. 23.) Korm. r. 8. melléklet 9. pontjában az „ , értesítési cím” szövegrész.
+[^140]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

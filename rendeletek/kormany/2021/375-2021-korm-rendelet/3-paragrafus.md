@@ -1,20 +1,23 @@
-## 2. §[^3]
+## 2. §[^8]
 
 ## 3. § A 146/1993. (X. 26.) Korm. r.
 
-1.[^4]
+1.[^9]
 
-2.[^5]
+2.[^10]
 
-3.[^6]
+3.[^11]
 
-4. 33. § (3) bekezdésében az „a lakcímjelentőlapján” szövegrész helyébe az „a lakcímbejelentő lapján” szöveg,
+4.[^12]
 
-5. 33. § (4) bekezdésében a „Közös tulajdon esetén a tulajdonostársak hozzájárulását” szövegrész helyébe a „Ha a lakcímbejelentéssel érintett ingatlannak több szállásadója van, a szállásadók hozzájárulását” szöveg,
+5.[^13]
 
-6. 40. § (1) bekezdés d) pontjában a „közös tulajdon esetén csatolja a szállásadó nyilatkozatát a tulajdonostársak hozzájárulásáról” szövegrész helyébe a „csatolja a szállásadó hozzájárulását, illetve több szállásadó esetén a lakcímbejelentés során eljáró szállásadó nyilatkozatát a többi szállásadó hozzájárulásáról” szöveg
+6.[^14]
 
-[^3]: A 2. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^4]: A 3. § 1. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^5]: A 3. § 2. pontja a 33. § (3) bekezdése alapján 2021. szeptember 11-én lép hatályba.
-[^6]: A 3. § 3. pontja a 33. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^8]: A 2. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^9]: A 3. § 1. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^10]: A 3. § 2. pontja a 33. § (3) bekezdése alapján 2021. szeptember 11-én lép hatályba.
+[^11]: A 3. § 3. pontja a 33. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^12]: A 3. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 3. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 3. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
