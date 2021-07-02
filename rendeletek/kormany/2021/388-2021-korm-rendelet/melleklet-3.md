@@ -1,8 +1,6 @@
-## 20212220000388_2
-
 3. melléklet a 388/2021. (VI. 30.) Korm. rendelethez
 
-## A RID Mellékletében foglalt egyes feladatok megosztása
+A RID Mellékletében foglalt egyes feladatok megosztása
 
 1. A közlekedésért felelős miniszter
 
