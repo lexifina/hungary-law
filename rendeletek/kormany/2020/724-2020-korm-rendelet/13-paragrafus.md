@@ -1,15 +1,18 @@
-## lép.
+## 12. §[^19]
 
-## 13. § Hatályát veszti a Cskr.
+## 13. §[^20]
 
-a) 2. § (5) és (6) bekezdése,
+a)[^21]
 
-b)[^10]
+b)[^22]
 
-c)[^11]
+c)[^23]
 
-d)[^12]
+d)[^24]
 
-[^10]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 13. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 13. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 13. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 13. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 13. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

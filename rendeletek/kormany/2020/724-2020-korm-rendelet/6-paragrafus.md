@@ -1,17 +1,24 @@
-## 6. § A Vhr.
+## 5. §[^6]
 
-a)[^3]
+## 6. §[^7]
 
-b)[^4]
+a)[^8]
 
-c)[^5]
+b)[^9]
 
-d) 4. melléklet X. pontjában az „Eladótéri műanyag zsák, zacskó, műanyag bevásárló reklámtáska, továbbá” szövegrész helyébe a „Műanyag hordtasak és” szöveg,
+c)[^10]
 
-e) 4. melléklet XI. pontjában az „eladótéri műanyag zsák, zacskó, műanyag bevásárló reklámtáska” szövegrész helyébe a „műanyag hordtasak” szöveg,
+d)[^11]
 
-f) 5. melléklet 4. pontjában a „zacskó” szövegrész helyébe a „hordtasak” szöveg
+e)[^12]
 
-[^3]: A 6. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 6. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+f)[^13]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 6. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 6. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 6. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 6. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
