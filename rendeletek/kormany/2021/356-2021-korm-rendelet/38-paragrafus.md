@@ -1,3 +1,5 @@
-## 37. § Hatályát veszti a 23/2017. Korm. rendelet 6/A. §-a.
+## 29–37. §[^17]
 
 ## 17. Az Európai Foglalkoztatási Szolgálat tevékenységében részt vevő állami foglalkoztatási szerv feladatairól, valamint más szervezetek e tevékenységben történő részvételének feltételeiről szóló 130/2018. (VII. 23.) Korm. rendelet módosítása
+
+[^17]: A 29–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 1. § A foglalkozás-egészségügyi szolgálatról szóló 89/1995. (VII. 14.) Korm. rendelet (a továbbiakban: 89/1995. Korm. rendelet) 1. számú melléklete az 1. melléklet szerint módosul.
+## 1. §[^1]
 
 ## 2. A felszámolás számviteli feladatairól szóló 225/2000. (XII. 19.) Korm. rendelet módosítása
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

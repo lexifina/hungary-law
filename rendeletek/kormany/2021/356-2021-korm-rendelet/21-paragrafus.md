@@ -1,3 +1,5 @@
-## 20. § A szabad vállalkozási zónák létrehozásának és működésének, valamint a kedvezmények igénybevételének szabályairól szóló 27/2013. (II. 12.) Korm. rendelet 2. § (1) bekezdésében a „Nemzeti Foglalkoztatási Alap” szövegrész helyébe a „Gazdaság-újraindítási Foglalkoztatási Alap” szöveg lép.
+## 20. §[^10]
 
 ## 11. A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet módosítása
+
+[^10]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

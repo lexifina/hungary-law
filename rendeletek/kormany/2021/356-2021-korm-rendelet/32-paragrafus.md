@@ -1,1 +1,0 @@
-## „(5) A közhasznú szervezet a pályázati felhívás tervezetét bejelenti a Támogatásokat Vizsgáló Iroda, mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Atr. 17. § (1) bekezdése alapján.”

@@ -1,1 +1,0 @@
-## „h) magán-munkaközvetítő: az a) pontban meghatározott magán-munkaközvetítést e rendeletnek, továbbá a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvénynek megfelelően végző szolgáltató;”

@@ -1,3 +1,5 @@
-## 21. § A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet 6. § (2) bekezdés b) pontjában az „a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvényben (a továbbiakban: Met.) meghatározott, a Nemzeti Foglalkoztatási Alapba történő befizetésre kötelezték” szövegrész helyébe a „munkaügyi bírsággal sújtották vagy befizetésre kötelezték” szöveg lép.
+## 21. §[^11]
 
 ## 12. Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet módosítása
+
+[^11]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
