@@ -1,3 +1,3 @@
 ## 2. A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény módosítása
 
-2. § A foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 58. § (5) bekezdés a) pontjában a „tagját és a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját –,” szövegrész helyébe a „tagját, a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját és a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagját –,” szöveg lép.
+2. §
