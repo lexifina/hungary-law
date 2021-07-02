@@ -1,0 +1,3 @@
+25. § A Vtv. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az állami vagyon feletti tulajdonosi jogokat gyakorlók az e törvényben és végrehajtási rendeletében meghatározott módon adatot szolgáltatnak az egységes állami vagyonnyilvántartás vezetése érdekében az MNV Zrt. részére a rájuk bízott állami vagyonról készített mérlegről, valamint – a nemzetbiztonsági szolgálatok és az MVH kivételével – a mérleg soraival megegyező, vagyonelemenkénti tételes adatokról (a továbbiakban: tulajdonosi joggyakorlói adatszolgáltatás). A nemzetbiztonsági szolgálatok és az MVH az e törvény végrehajtási rendeletében meghatározottak szerint teljesítik adatszolgáltatási kötelezettségüket.”

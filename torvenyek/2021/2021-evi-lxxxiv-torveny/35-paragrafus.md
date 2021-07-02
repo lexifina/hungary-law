@@ -1,0 +1,3 @@
+35. § A Hetv. 32. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A (2)–(4) bekezdésben meghatározott ügygondnok csak akkor rendelhető ki, ha az eljárásának előrelátható díját és költségeit a kérelmező – a hagyatéki eljárás költségeitől függetlenül – megelőlegezi és viseli. Ha más törvényes örökös hiányában a magyar állam öröklése valószínűsíthető, a (2) bekezdésben foglaltaktól eltérően ügygondnokként – díj és költségek megelőlegezése nélkül – az állam képviseletében eljáró tulajdonosi joggyakorlót kell kirendelni, ha a tulajdonosi joggyakorló ezt maga kezdeményezi, vagy más kérelmére indult biztosítási intézkedés esetén az ügygondnokként történő kirendelésével egyetért.”

@@ -1,0 +1,3 @@
+49. § Az Nvtv. 11. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) A nemzeti vagyon hasznosítására vonatkozó szerződés csak természetes személlyel vagy átlátható szervezettel köthető. A hasznosításra irányuló szerződés – a 11/A. § (2) bekezdésében foglalt kivétellel – határozatlan vagy legfeljebb 15 éves határozott időre köthető, amely időszak egy alkalommal legfeljebb 5 évvel meghosszabbítható abban az esetben, ha a hasznosításra jogosult valamennyi kötelezettségét szerződésszerűen, késedelem nélkül teljesítette. E bekezdés szerinti korlátozás nem vonatkozik az állammal, költségvetési szervvel, önkormányzattal vagy önkormányzati társulással kötött szerződésre.”

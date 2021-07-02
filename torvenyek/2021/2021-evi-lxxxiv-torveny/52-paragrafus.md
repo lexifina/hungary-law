@@ -1,0 +1,3 @@
+52. § Az Nvtv. 7. alcíme a következő 14/B. §-sal egészül ki:
+
+„14/B. § A kivezetésre szánt állami vagyon tulajdonjogának átruházása esetén – a 3. § (1) bekezdés 1. pontja szerinti szervezetek mellett – átlátható szervezetnek minősül az a gazdasági társaság is, amelynek közvetlen vagy közvetett tulajdonosai kizárólag természetes személyek, amennyiben e személyek megismerhetőek. Ebben az esetben a 3. § (2) bekezdése szerinti nyilatkozat mellőzhető.”
