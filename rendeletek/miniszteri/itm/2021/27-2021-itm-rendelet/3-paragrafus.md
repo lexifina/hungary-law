@@ -1,3 +1,3 @@
-## „(12) A Koordináló szerv a tervezett szolgáltatási díj és a szolgáltatási díj meghatározásakor a miniszter vagy a Hivatal jóváhagyása alá tartozó szerződéses jogviszonyokban meghatározott költségeket és ráfordításokat a miniszter vagy a Hivatal jóváhagyó döntése véglegessé válását követően veheti figyelembe.
+## 2. §[^3]
 
-## (13) A Koordináló szerv a Ht. 92/G. §-ában vagy 92/H. § (7) bekezdésében meghatározott, jóváhagyáshoz kötött szerződést és kötelezettségvállalást – ha azzal kapcsolatban kifizetési igényt jelentett be a közszolgáltató, és annak jóváhagyásról a Koordináló szerv nem kapott tájékoztatást – kétség esetén megküldi a miniszter vagy a Hivatal részére. A Koordináló szerv megkeresésére a miniszter vagy a Hivatal 15 napon belül választ ad arra vonatkozóan, hogy a jóváhagyás szükséges vagy sem. Ha jóváhagyás szükséges, és az még nem áll rendelkezésre, az érintett szerződést és kötelezettségvállalást a Koordináló szerv a szolgáltatási díj kiszámítása során – a jóváhagyó döntés véglegessé válásáig – nem veszi figyelembe, és erről tájékoztatja a közszolgáltatót.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
