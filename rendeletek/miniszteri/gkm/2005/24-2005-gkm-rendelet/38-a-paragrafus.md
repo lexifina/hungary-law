@@ -1,4 +1,4 @@
-38/A. §[^257] (1) Az e-learning rendszerű képzésben alkalmazható Rendszer akkor akkreditálható, ha:
+38/A. §[^258] (1) Az e-learning rendszerű képzésben alkalmazható Rendszer akkor akkreditálható, ha:
 
 a) a képző szerv az akkreditációs időszak teljes idejére igazolja a tanúsított és szabványos Rendszer jogszerű felhasználhatóságát legalább ezer konkurens (egyidejű) felhasználóra vonatkozóan,
 
@@ -30,4 +30,4 @@ a) a képzés Tananyagát – az e-learning tananyagokra vonatkozó speciális p
 
 b) a képzésen belül a Tananyagnak modulárisan épül fel oly módon, hogy egy átlagos képességű tanulónak képesnek kell lennie bármely modul egyszerre történő elvégzésére. A modulokat fejezetekbe kell szervezni olyan módon, hogy egy fejezet legfeljebb tíz modult tartalmazhat.
 
-[^257]: A 38/A. §-t a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be.
+[^258]: A 38/A. §-t a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be.
