@@ -1,3 +1,1 @@
-55. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény 251. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Igazgatónak az nevezhető ki, aki felsőfokú igazgatásszervezői, közigazgatás-szervezői, védelmi igazgatási menedzser vagy jogász szakképzettséggel vagy okleveles közigazgatási menedzser, okleveles közigazgatási szakértő, vagy közgazdász szakképzettséggel, valamint jogi vagy közigazgatási szakvizsgával, államtudományi okleveles mester szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.”
+55. §
