@@ -20,6 +20,6 @@ c) a növény generatív részein jelentkező, a termés mennyiségi és minős�
 
 ## minősítő számmal kell elbírálni.
 
-(3)[^73] Az (1) és (2) bekezdésben meghatározott minősítő számok alapján kell kialakítani a vetőmag-szaporító táblára vonatkozó fertőzöttségi minősítő értékszámot.
+(3)[^76] Az (1) és (2) bekezdésben meghatározott minősítő számok alapján kell kialakítani a vetőmag-szaporító táblára vonatkozó fertőzöttségi minősítő értékszámot.
 
-[^73]: A 24. § (3) bekezdését a 16/2011. (III. 2.) VM rendelet 13. §-a iktatta be.
+[^76]: A 24. § (3) bekezdését a 16/2011. (III. 2.) VM rendelet 13. §-a iktatta be.

@@ -20,11 +20,11 @@ d) az azonosíthatóság biztosítását lehetővé tevő nyilvántartási rends
 
 1. a vetőmag tulajdonos nevére, címére,
 
-2.[^156] a feldolgozásra kerülő nyers vetőmag fajára, fajtájára, szaporítási fokára, mennyiségére, a származást igazoló dokumentumokra (szántóföldi ellenőrzési jegyzőkönyv, vetőmagminősítő bizonyítvány), a betárolásra, az esetleges mintavételre és nyers vetőmag vizsgálatra,
+2.[^162] a feldolgozásra kerülő nyers vetőmag fajára, fajtájára, szaporítási fokára, mennyiségére, a származást igazoló dokumentumokra (szántóföldi ellenőrzési jegyzőkönyv, vetőmagminősítő bizonyítvány), a betárolásra, az esetleges mintavételre és nyers vetőmag vizsgálatra,
 
-3.[^157] a feldolgozási folyamatok műveleti nyilvántartására,
+3.[^163] a feldolgozási folyamatok műveleti nyilvántartására,
 
-4.[^158] a fémzárolás időpontjára,
+4.[^164] a fémzárolás időpontjára,
 
 5. a készáru raktárkészlet nyilvántartására és raktártérképére,
 
@@ -34,9 +34,9 @@ e) a bértisztításra átvett nyers vetőmagtételek tényleges árutulajdonos 
 
 f) szakismeret, szakmai alkalmasság.
 
-(4)[^159] A vetőmag-feldolgozási tevékenységet a NÉBIH hatósági jogkörében ellenőrzi.
+(4)[^165] A vetőmag-feldolgozási tevékenységet a NÉBIH hatósági jogkörében ellenőrzi.
 
-[^156]: Az 51. § (3) bekezdés d) pont 2. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
-[^157]: Az 51. § (3) bekezdés d) pont 3. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
-[^158]: Az 51. § (3) bekezdés d) pont 4. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
-[^159]: Az 51. § (4) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^162]: Az 51. § (3) bekezdés d) pont 2. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
+[^163]: Az 51. § (3) bekezdés d) pont 3. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
+[^164]: Az 51. § (3) bekezdés d) pont 4. alpontja a 16/2011. (III. 2.) VM rendelet 26. §-ával megállapított szöveg.
+[^165]: Az 51. § (4) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.

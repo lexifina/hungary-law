@@ -536,11 +536,11 @@
 
 ## 5.3.9. A vírusos, baktériumos és gombabetegségeket, továbbá a kártevők kártételét fel kell jegyezni és a kultúrállapot minősítési kategóriájában kell elbírálni.
 
-## 5.3.10. A hímsteril anyai szülőn előállított árutermesztés célját szolgáló vetőmagtermést a fertilis analóg termésével a vetőmagüzemben a morzsolást és tisztítást követően legalább 2:1 arányban kell keverni. Ettől eltérni indokolt esetben csak a NÉBIH külön engedélyével lehet.
+## 5.3.10. A hímsteril anyai szülőn előállított árutermesztés célját szolgáló vetőmagtermést, ha azt nem a sterilitást helyreállító apai szülővel termelték, a fertilis analóg termésével a vetőmagüzemben a morzsolást és tisztítást követően legalább 2:1 arányban kell keverni. Ettől eltérni indokolt esetben csak a NÉBIH külön engedélyével lehet.
 
-## 5.3.11. Csuhélevéllel teljesen borított csövet nem szabad a végleges válogatószalagra szállítani. A szárítókamrába betárolt minden csőnek fosztottnak kell lennie.
+## 5.3.11. Csöves formában történő betakarítás esetén a csuhélevéllel teljesen borított csövet nem szabad a végleges válogatószalagra szállítani. A szárítókamrába betárolt minden csőnek fosztottnak kell lennie.
 
-## 5.3.12. A vetőmagüzemben az összes idegen csövet ki kell válogatni. A szárító kamrába 99,9% (db/100) mértékben csak fajtaazonos csövek kerülhetnek.
+## 5.3.12. Csöves formában történő betakarítás esetén a vetőmagüzemben az összes idegen csövet ki kell válogatni. A szárítókamrába 99,9% (db/100) mértékben csak fajtaazonos cső kerülhet.
 
 ## 5.4. A kukorica vizsgálata:
 
@@ -1286,7 +1286,7 @@
 
 |  | □ és II. szaporítási fok | 4,0% |
 
-2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^207]
+2. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^213]
 
 ## A répafélék vetőmagvainak forgalomba hozatali feltételei
 
@@ -1454,4 +1454,4 @@ b) a tömeg feltüntetésénél – ha bármilyen szemcsés növényvédőszer, 
 
 c) monogerm vetőmag esetében a „monogerm”, precíziós vetőmag esetében pedig a „precíziós” megjelölés.
 
-[^207]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^213]: A 2. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (1) bekezdése, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése szerint módosított szöveg.

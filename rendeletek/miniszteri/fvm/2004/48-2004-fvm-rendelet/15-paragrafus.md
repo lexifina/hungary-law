@@ -1,19 +1,19 @@
 ## 15. § A vetőmag-szaporítás bejelentése akkor fogadható el, ha
 
-a)[^53] azt a vetőmag-előállító a NÉBIH által erre rendszeresített nyomtatványon,
+a)[^56] azt a vetőmag-előállító a NÉBIH által erre rendszeresített nyomtatványon,
 
-b)[^54] a 14. §-ban előírt bejelentési határidőn belül, valamint
+b)[^57] a 14. §-ban előírt bejelentési határidőn belül, valamint
 
 c) a vetőmag származását igazolva nyújtja be, a 19. § szerint,
 
-d)[^55] az elit szaporítási foknál alacsonyabb szaporítási fokú vetőmag-előállítás esetén a vetőmag-előállító tábla nagysága – a dohány kivételével – legalább 1 hektár,
+d)[^58] az elit szaporítási foknál alacsonyabb szaporítási fokú vetőmag-előállítás esetén a vetőmag-előállító tábla nagysága – a dohány kivételével – legalább 1 hektár,
 
-e)[^56] a vetőmag-előállító 3 évre, de legalább a növényfaj elővetemény korlátozási követelményének megfelelő időtartamra visszamenőleg rendelkezik a vetőmag-előállító tábla nyilvántartásával, továbbá
+e)[^59] a vetőmag-előállító 3 évre, de legalább a növényfaj elővetemény korlátozási követelményének megfelelő időtartamra visszamenőleg rendelkezik a vetőmag-előállító tábla nyilvántartásával, továbbá
 
-f)[^57] támasztónövényes vetőmag-szaporítás esetén a vetésbejelentő ív megjegyzés rovata tartalmazza a támasztónövény faját és annak arányát a szaporításban.
+f)[^60] támasztónövényes vetőmag-szaporítás esetén a vetésbejelentő ív megjegyzés rovata tartalmazza a támasztónövény faját és annak arányát a szaporításban.
 
-[^53]: A 15. § a) pontja a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^54]: A 15. § b) pontja a 16/2011. (III. 2.) VM rendelet 9. §-ával megállapított szöveg.
-[^55]: A 15. § d) pontja a 24/2016. (IV. 8.) FM rendelet 14. §-ával megállapított szöveg.
-[^56]: A 15. § e) pontja a 24/2016. (IV. 8.) FM rendelet 14. §-ával megállapított szöveg.
-[^57]: A 15. § f) pontját a 24/2016. (IV. 8.) FM rendelet 14. §-a iktatta be.
+[^56]: A 15. § a) pontja a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^57]: A 15. § b) pontja a 16/2011. (III. 2.) VM rendelet 9. §-ával megállapított szöveg.
+[^58]: A 15. § d) pontja a 24/2016. (IV. 8.) FM rendelet 14. §-ával megállapított szöveg.
+[^59]: A 15. § e) pontja a 24/2016. (IV. 8.) FM rendelet 14. §-ával megállapított szöveg.
+[^60]: A 15. § f) pontját a 24/2016. (IV. 8.) FM rendelet 14. §-a iktatta be.

@@ -1,4 +1,4 @@
-## Átruházott jogkörben végzett vetőmagvizsgálat[^122]
+## Átruházott jogkörben végzett vetőmagvizsgálat[^127]
 
 41/B. § (1) Az 1. és 3–4. számú melléklet A. és D. részeiben és a 2. számú melléklet A. részében felsorolt növényfajok vetőmagjának – az 1. és 3–4. számú melléklet C. és D. részeiben és a 2. számú melléklet C. részében foglalt követelményekre kiterjedő – a (2)–(10) bekezdés előírásainak megfelelő átruházott jogkörben végzett vetőmagvizsgálata joghatásában azonos a növénytermesztési hatáskörben eljáró hatóság által végzett vetőmagvizsgálattal.
 
@@ -20,7 +20,7 @@ ba) legalább középfokú végzettséggel és szakirányú képesítéssel rend
 
 bb) a hivatalos magvizsgálókra vonatkozó vizsgakövetelményeknek megfelelt.
 
-(4) A (3) bekezdés szerinti engedély a kérelemben megjelölt határozott időre, de legfeljebb 2021. december 31. napjáig adható ki. A vetőmagvizsgáló laboratórium köteles a vetőmagvizsgálat eredményét a VIGOR szakrendszerben rögzíteni.
+(4)[^128] A (3) bekezdés szerinti engedély a kérelemben megjelölt határozott időre adható ki. A vetőmagvizsgáló laboratórium köteles a vetőmagvizsgálat eredményét a VIGOR szakrendszerben rögzíteni.
 
 (5) A vetőmagvizsgálatot e rendelet, a NÉBIH által honlapján közzétett, az átruházott jogkörben végzett vetőmagvizsgálatra vonatkozó szabályzatban és a NÉBIH engedélyében foglaltak alapján kell elvégezni.
 
@@ -38,4 +38,5 @@ a) a laboratórium a magvizsgálat során három vagy több esetben megsérti a 
 
 b) a laboratórium akkreditált státusza lejár, vagy visszavonják.
 
-[^122]: Az „Átruházott jogkörben végzett vetőmagvizsgálat” alcímet (41/B. §) a 24/2019. (V. 31.) AM rendelet 3. §-a iktatta be.
+[^127]: Az „Átruházott jogkörben végzett vetőmagvizsgálat” alcímet (41/B. §) a 24/2019. (V. 31.) AM rendelet 3. §-a iktatta be.
+[^128]: A 41/B. § (4) bekezdése a 23/2021. (VI. 18.) AM rendelet 6. § b) pontja szerint módosított szöveg.

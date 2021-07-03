@@ -2,9 +2,9 @@
 
 52. § (1) Forgalomba hozni csak olyan kiszerelt vetőmagot lehet, amely hivatalosan fémzárolt, a mellékletekben előírt követelményeknek megfelelő vetőmagtételből származik. Kiszerelésnek minősül a fémzárolt, minősített vetőmagnak a legfeljebb az e rendeletben meghatározott tömeghatárig történő kicsomagolása. A kiszerelt vetőmag továbbszaporításra nem, csak árutermesztés céljára használható fel.
 
-(2)[^160] Kiszerelést kizárólag a NÉBIH által nyilvántartásba vett vetőmag-kiszerelő végezhet azzal, hogy
+(2)[^166] Kiszerelést kizárólag a NÉBIH által nyilvántartásba vett vetőmag-kiszerelő végezhet azzal, hogy
 
-a)[^161] megfelelő szakismerettel kell rendelkeznie, és biztosítania kell a kiszerelés műszaki és technikai feltételeit,
+a)[^167] megfelelő szakismerettel kell rendelkeznie, és biztosítania kell a kiszerelés műszaki és technikai feltételeit,
 
 b) a kiszerelés során biztosítania kell a keveredés-mentességet és a pontos tömegmérést,
 
@@ -14,9 +14,9 @@ d) a kiszerelt csomagolási egységeknek meg kell felelniük a 42. § (2) bekezd
 
 e) tételenként és kiszerelési formánként valamennyi kiszerelési egységből – két évig megőrzendő – mintát kell venni,
 
-f)[^162] a kiszerelésről a NÉBIH előírásai szerint nyilvántartást kell vezetni.
+f)[^168] a kiszerelésről a NÉBIH előírásai szerint nyilvántartást kell vezetni.
 
-(3)[^163] A vetőmag-kiszerelőt a NÉBIH rendszeresen ellenőrzi és a feltételek be nem tartása esetén ideiglenesen vagy véglegesen törli a nyilvántartásból.
+(3)[^169] A vetőmag-kiszerelőt a NÉBIH rendszeresen ellenőrzi és a feltételek be nem tartása esetén ideiglenesen vagy véglegesen törli a nyilvántartásból.
 
 (4) Valamennyi kiszerelt egységen fel kell tüntetni
 
@@ -24,7 +24,7 @@ a) a kiszerelő nevét és címét vagy azonosító jelölését,
 
 b) az illetékes minősítő hatóság és tagállam megnevezését, vagy annak kezdőbetűit,
 
-c)[^164] a fémzárolási számot vagy egyéb azonosító számot,
+c)[^170] a fémzárolási számot vagy egyéb azonosító számot,
 
 d) a fémzárolás időpontját (év, hónap),
 
@@ -48,13 +48,13 @@ m) ,,EK ,B' kistasak'' megjelölést a gabonafélék, olaj- és rostnövények v
 
 n) ,,EK kistasak'' megjelölést répafélék esetében,
 
-o)[^165] a „Forgalomba hozatala csak Magyarországon engedélyezett” megjelölést a gabonafélék, olaj- és ipari növények esetében.
+o)[^171] a „Forgalomba hozatala csak Magyarországon engedélyezett” megjelölést a gabonafélék, olaj- és ipari növények esetében.
 
 (5) ,,EK ,A' kistasak'' és ,,EK ,B' kistasak'' esetében az adatokat a 24. § (2) bekezdése szerinti színű címkén kell feltüntetni.
 
-[^160]: Az 52. § (2) bekezdés nyitó szövegrésze a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^161]: Az 52. § (2) bekezdés a) pontja a 16/2011. (III. 2.) VM rendelet 32. § n) pontja szerint módosított szöveg.
-[^162]: Az 52. § (2) bekezdésének f) pontja a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^163]: Az 52. § (3) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
-[^164]: Az 52. § (4) bekezdés c) pontja a 16/2011. (III. 2.) VM rendelet 32. § o) pontja szerint módosított szöveg.
-[^165]: Az 52. § (4) bekezdés o) pontja a 16/2011. (III. 2.) VM rendelet 27. §-ával megállapított szöveg.
+[^166]: Az 52. § (2) bekezdés nyitó szövegrésze a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^167]: Az 52. § (2) bekezdés a) pontja a 16/2011. (III. 2.) VM rendelet 32. § n) pontja szerint módosított szöveg.
+[^168]: Az 52. § (2) bekezdésének f) pontja a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^169]: Az 52. § (3) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^170]: Az 52. § (4) bekezdés c) pontja a 16/2011. (III. 2.) VM rendelet 32. § o) pontja szerint módosított szöveg.
+[^171]: Az 52. § (4) bekezdés o) pontja a 16/2011. (III. 2.) VM rendelet 27. §-ával megállapított szöveg.

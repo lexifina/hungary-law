@@ -6,7 +6,7 @@
 
 (3) Az (1) bekezdés szerinti engedélyt a NÉBIH kérelemre annak a természetes személynek adja meg, aki
 
-a) az 5/a. számú melléklet szerinti felsőfokú vagy középfokú szakirányú képzettséggel rendelkezik,
+a)[^47] az 5/a. számú melléklet szerinti felsőfokú szakirányú képzettséggel rendelkezik,
 
 b) szántóföldi ellenőrzési és minősítési ismeretekre vonatkozó sikeres gyakorlati és elméleti vizsgát tesz, valamint
 
@@ -14,17 +14,17 @@ c) munkaszerződéssel vagy megbízási szerződéssel igazolja a szaporítóany
 
 (4) A (3) bekezdés a) és b) pontja szerinti feltételek nem vonatkoznak arra a természetes személyre, aki legalább 5 éves, igazolt, a növénytermesztési hatóságnál teljesített, szántóföldi ellenőrzésre is kiterjedő gyakorlattal rendelkezik.
 
-(5) A (3) bekezdés szerinti engedély a kérelemben megjelölt határozott időre, de legfeljebb 2021. december 31. napjáig adható ki. A megbízott ellenőr köteles a NÉBIH által üzemeltetett Vetőmag-, Szaporítóanyag Felügyeleti és Növényfajta kísérleti Információs Rendszerbe (a továbbiakban: VIGOR szakrendszer) a NÉBIH által kiadott és honlapján közzétett szántóföldi ellenőrzésre vonatkozó szabályzatban (a továbbiakban: Szántóföldi Szemle szabályzat) meghatározott adatok rögzítésére.
+(5)[^48] A (3) bekezdés szerinti engedély a kérelemben megjelölt határozott időre adható ki. A megbízott ellenőr köteles a NÉBIH által üzemeltetett Vetőmag-, Szaporítóanyag Felügyeleti és Növényfajta kísérleti Információs Rendszerbe (a továbbiakban: VIGOR szakrendszer) a NÉBIH által kiadott és honlapján közzétett szántóföldi ellenőrzésre vonatkozó szabályzatban (a továbbiakban: Szántóföldi Szemle szabályzat) meghatározott adatok rögzítésére.
 
 (6) Átruházott jogkörű szántóföldi ellenőrzés esetén a vetőmag-előállító köteles rögzíteni – a 14. § (1) bekezdése szerinti bejelentés megtétele helyett – a 14. § (1) bekezdése szerinti határidőben a 15. § szerinti nyomtatvány szerinti adatokat a VIGOR szakrendszerben.
 
 (7) A megbízott ellenőr az ellenőrzés eredményeképpen nem juthat jogtalan előnyhöz. A megbízott ellenőr e tevékenysége során nem utasítható. A megbízott ellenőr köteles az átruházott jogkörben végzett szántóföldi ellenőrzés során a Szántóföldi Szemle szabályzatban foglaltak szerint eljárni.
 
-(8)[^47] Az átruházott jogkörben végzett szántóföldi ellenőrzést a NÉBIH vagy a megyei kormányhivatal felügyelete mellett kell végezni, azzal, hogy
+(8)[^49] Az átruházott jogkörben végzett szántóföldi ellenőrzést a NÉBIH vagy a megyei kormányhivatal felügyelete mellett kell végezni, azzal, hogy
 
 a) az ellenőrzésre kerülő szaporítás anyamagjának és termésének a hatóság által elvégzett fajtakitermesztésben kell részesülnie,
 
-b) az első évben a megbízott ellenőr kizárólag a hatósági felügyelővel együtt, annak teljes felügyelete mellett végzi a szántóföldi szemlét és minősítést,
+b)[^50] az első évben a megbízott ellenőr – a (4) bekezdés szerinti gyakorlattal rendelkező természetes személy kivételével – kizárólag a hatósági felügyelővel együtt, annak teljes felügyelete mellett végzi a szántóföldi szemlét és minősítést,
 
 c) a második évtől kezdődően a hatósági felügyelő közvetlen felügyelete mellett végzett szántóföldi szemlében kell részesíteni legalább
 
@@ -45,4 +45,7 @@ a) a hatósági felügyelő megállapítja, hogy a megbízott ellenőr a (8) bek
 b) a termésből származó tétel a fajtakitermesztés során három vagy több esetben alkalmatlan minősítést kap.
 
 [^46]: A 12. §-t a 16/2011. (III. 2.) VM rendelet 34. § (2) bekezdése hatályon kívül helyezte, újonnan a 24/2019. (V. 31.) AM rendelet 1. §-a iktatta be.
-[^47]: A 12. § (8) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^47]: A 12. § (3) bekezdés a) pontja a 23/2021. (VI. 18.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^48]: A 12. § (5) bekezdése a 23/2021. (VI. 18.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^49]: A 12. § (8) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^50]: A 12. § (8) bekezdés b) pontja a 23/2021. (VI. 18.) AM rendelet 5. § a) pontja szerint módosított szöveg.
