@@ -1,3 +1,3 @@
-## 3. §[^25]
+## 3. §[^16]
 
-[^25]: A 3. §-t a 264/2021. (V. 21.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^16]: A 3. §-t a 264/2021. (V. 21.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

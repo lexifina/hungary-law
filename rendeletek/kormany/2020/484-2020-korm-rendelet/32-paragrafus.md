@@ -1,6 +1,6 @@
-## 31. §[^172]
+## 31. §[^136]
 
-32. §[^173]
+32. §[^137]
 
-[^172]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^173]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

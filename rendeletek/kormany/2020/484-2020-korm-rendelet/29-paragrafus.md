@@ -1,4 +1,3 @@
-## 28/H. §[^169] Az egyes veszélyhelyzeti kormányrendeleteknek a nevelési, oktatási intézményeket érintő módosításáról szóló 346/2021. (VI. 18.) Korm. rendelet (a továbbiakban: R6.) hatálybalépését[^170] megelőző napon hatályos 17. és 18. §-ra tekintettel az R6. hatálybalépését megelőző napon hatályos 22. és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+## 28/I. §[^134] A védelmi intézkedések lépcsőzetes feloldásának hatodik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 365/2021. (VI. 30.) Korm. rendelet (a továbbiakban: R7.) hatálybalépését megelőző napon hatályos 1. §-ra, 2. §-ra, 5–6/C. §-ra, 8. §-ra, 10. §-ra, valamint 12–13/A. §-ra tekintettel az R7. hatálybalépését megelőző napon hatályos 22. és 23. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
 
-[^169]: A 28/H. §-t a 346/2021. (VI. 18.) Korm. rendelet 1. §-a iktatta be.
-[^170]: A hatálybalépés időpontja 2021. június 19.
+[^134]: A 28/I. §-t a 365/2021. (VI. 30.) Korm. rendelet 6. §-a iktatta be.

@@ -1,3 +1,5 @@
-## 5.[^86]
+## 8. §
 
-[^86]: Az 5. alcímet (9. §) a 264/2021. (V. 21.) Korm. rendelet 6. § j) pontja hatályon kívül helyezte.
+## 5.[^77]
+
+[^77]: Az 5. alcímet (9. §) a 264/2021. (V. 21.) Korm. rendelet 6. § j) pontja hatályon kívül helyezte.

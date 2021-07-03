@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-484-20-
 | 2021-06-14 | 2020-484-20-22.30 | 313/2021. (VI. 8.) Korm. rendelet |
 | 2021-06-19 | 2020-484-20-22.31 | 346/2021. (VI. 18.) Korm. rendelet |
 | 2021-07-01 | 2020-484-20-22.32 | 366/2021. (VI. 30.) Korm. rendelet |
+| 2021-07-03 | 2020-484-20-22.33 | 365/2021. (VI. 30.) Korm. rendelet |

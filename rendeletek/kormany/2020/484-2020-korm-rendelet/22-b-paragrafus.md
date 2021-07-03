@@ -1,3 +1,3 @@
-## 22/A. §[^140]
+## 22/A. §[^99]
 
-[^140]: A 22/A. §-t a 28/2021. (I. 29.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § f) pontja.
+[^99]: A 22/A. §-t a 28/2021. (I. 29.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § f) pontja.

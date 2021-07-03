@@ -1,3 +1,5 @@
+## 14. §
+
 ## 9. Az üzleten kívüli kereskedelmi tevékenység és a csomagküldő kereskedelem veszélyhelyzeti szabályai
 
 15. § (1) A veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendeletben kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) idején a lakosság ellátása céljából végzett üzleten kívüli kereskedelmi tevékenység bejelentés és nyilvántartásba vétel nélkül folytatható a vendéglátó üzlettel, illetve napi fogyasztási cikket értékesítő üzlettel kötött szerződés alapján.

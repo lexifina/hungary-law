@@ -1,3 +1,3 @@
-## 27. §[^154]
+## 27. §[^117]
 
-[^154]: A 27. §-t a 335/2021. (VI. 11.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^117]: A 27. §-t a 335/2021. (VI. 11.) Korm. rendelet 2. §-a hatályon kívül helyezte.
