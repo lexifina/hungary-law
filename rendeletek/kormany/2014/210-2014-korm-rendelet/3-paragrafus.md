@@ -130,7 +130,7 @@ l) rendelkezésre álló beszállítói, vevői, kivitelezői, partneri szándé
 
 41.[^25] megtartott kutatás-fejlesztési munkahelyek száma: a beruházó támogatásban részesülő kutatás-fejlesztési projektjével érintett létesítményében a munka törvénykönyvéről szóló törvény hatálya alá tartozó, a munkakörüknél fogva munkaidejük legalább ötven százalékában kutatás-fejlesztési tevékenységgel foglalkozó munkavállalóknak a támogatási kérelem benyújtását megelőző 12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést az adott létesítményben, úgy azon létszám, hozzátéve, hogy mindkét esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg;
 
-42.[^26] megtartott munkahelyek száma: a beruházó a beruházás megkezdését megelőző, a munka törvénykönyvéről szóló törvény hatálya alá tartozó, 12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést, úgy az a létszám, azzal, hogy mindkét esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkás alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg, azzal, hogy a képzési támogatás esetében a jelen pont alkalmazása során beruházónak a képzési támogatás kedvezményezettjét, a beruházásnak pedig az üzemfejlesztést kell tekinteni;
+42.[^26] megtartott munkahelyek száma: a beruházó a beruházás megkezdését megelőző, a munka törvénykönyvéről szóló törvény hatálya alá tartozó, 12 hónap átlagos statisztikai állományi létszáma, vagy ha a beruházó ennél magasabb létszámra vállalt más támogatási szerződésben létszámteremtést, úgy az a létszám, azzal, hogy mindkét esetben a munkahelyek számának megállapításakor a részmunkaidős és az idénymunkát végző alkalmazottak a teljes munkaidőben alkalmazottak arányos törtrészének felelnek meg, azzal, hogy a képzési támogatás esetében a jelen pont alkalmazása során beruházónak a képzési támogatás kedvezményezettjét, a beruházásnak pedig az üzemfejlesztést vagy regionális szolgáltató központ létesítést vagy bővítést kell tekinteni;
 
 43.[^27] kutató-fejlesztő: a KFItv. 3. § 15. pontjában meghatározott kutató-fejlesztő.
 
@@ -164,6 +164,18 @@ e) az a)–d) pont közül több pont együttes megvalósulása esetén a legkor
 
 53.[^37] képzés: belső vagy külső képzésre irányuló felnőttképzési tevékenység.
 
+54.[^38] regionális szolgáltató központ létesítésének vagy bővítésének megkezdése:
+
+a) építési munka esetén az építésre vonatkozó első visszavonhatatlan kötelezettségvállalás időpontja,
+
+b) tárgyi eszköz és immateriális javak beszerzése esetén a vállalkozás általi első jogilag kötelező érvényűnek tekintett megrendelés napja,
+
+c) olyan egyéb, nem személyi jellegű költség felmerülését eredményező kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi,
+
+d) létesítmény felvásárlása esetén a felvásárlás időpontja vagy
+
+e) az a)–d) pont közül több pont együttes megvalósulása esetén a legkorábbi időpont, azzal, hogy nem tekinthető megkezdésnek a földterület megvásárlása, ha az nem képezi az üzemfejlesztés költségét, valamint az előkészítő munka költségének felmerülése.
+
 [^2]: A 3. § 2. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § 6. pontja a 426/2016. (XII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^4]: A 3. § 6a. pontját a 227/2019. (IX. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -188,7 +200,7 @@ e) az a)–d) pont közül több pont együttes megvalósulása esetén a legkor
 [^23]: A 3. § 39. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (12) bekezdése iktatta be.
 [^24]: A 3. § 40. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (13) bekezdése iktatta be, szövege a 346/2017. (XI. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 227/2019. (IX. 26.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
 [^25]: A 3. § 41. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (14) bekezdése iktatta be, szövege a 346/2017. (XI. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 227/2019. (IX. 26.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^26]: A 3. § 42. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (15) bekezdése iktatta be, szövege a 463/2020. (X. 21.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^26]: A 3. § 42. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (15) bekezdése iktatta be, szövege a 390/2021. (VII. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^27]: A 3. § 43. pontját a 426/2016. (XII. 15.) Korm. rendelet 2. § (16) bekezdése iktatta be.
 [^28]: A 3. § 44. pontját a 119/2017. (V. 29.) Korm. rendelet 1. § (8) bekezdése iktatta be.
 [^29]: A 3. § 45. pontját a 119/2017. (V. 29.) Korm. rendelet 1. § (9) bekezdése iktatta be.
@@ -200,3 +212,4 @@ e) az a)–d) pont közül több pont együttes megvalósulása esetén a legkor
 [^35]: A 3. § 51. pontját a 463/2020. (X. 21.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^36]: A 3. § 52. pontját a 463/2020. (X. 21.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^37]: A 3. § 53. pontját a 463/2020. (X. 21.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^38]: A 3. § 54. pontját a 390/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.

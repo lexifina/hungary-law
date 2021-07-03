@@ -6,4 +6,6 @@
 
 (3) A támogatási szerződésben kell rendelkezni a kedvezményezett rendeltetésszerű támogatás-felhasználásról szóló beszámolási és bejelentési kötelezettségeiről, valamint a beszámolók benyújtásának határidőiről.
 
-(4) A beszámoló a támogatási szerződésben meghatározott feltételeknek megfelelően tartalmazza a befejezett üzemfejlesztés, illetve a képzési projekt szakmai és pénzügyi adatait.
+(4)[^148] A beszámoló a támogatási szerződésben meghatározott feltételeknek megfelelően tartalmazza a befejezett üzemfejlesztés, regionális szolgáltató központ létesítés vagy bővítés, illetve a képzési projekt szakmai és pénzügyi adatait.
+
+[^148]: A 26/O. § (4) bekezdése a 390/2021. (VII. 2.) Korm. rendelet 13. §-ával megállapított szöveg.

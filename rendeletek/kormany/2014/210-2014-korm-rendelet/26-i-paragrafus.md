@@ -6,8 +6,13 @@
 
 (3) Üzemfejlesztés esetén a kedvezményezett köteles a megtartott munkahelyek számát a képzési projekt vagy az üzemfejlesztés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani.
 
-(4) Regionális szolgáltató központ létesítés vagy bővítés esetén, ha a kedvezményezett
+(4)[^145] Regionális szolgáltató központ létesítés vagy bővítés esetén, ha a kedvezményezett
 
-a) nem vesz igénybe a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást, köteles a megtartott munkahelyek számát legalább 25 újonnan létesített munkahellyel növelni, és az összes munkahelyet a képzési projekt befejezését követően legalább 18 hónapon keresztül fenntartani,
+a) nem vesz igénybe a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást, köteles a megtartott munkahelyek számát legalább 25 újonnan létesített munkahellyel növelni, és az összes munkahelyet a képzési projekt vagy a regionális szolgáltató központ létesítés vagy bővítés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani,
 
-b) a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást vesz igénybe, köteles a megtartott munkahelyek számát a képzési projekt befejezését követően legalább 18 hónapon keresztül fenntartani.
+b) a 2. § (1) bekezdés a) vagy c) pontja szerinti regionális támogatást vesz igénybe, köteles a regionális támogatási kérelemben vagy támogatási szerződésben vállalt munkahelyek számával azonos számú munkahelyet a képzési projekt vagy a regionális szolgáltató központ létesítés vagy bővítés befejezését – ha az később fejeződik be, mint a képzési projekt – követően legalább 18 hónapon keresztül fenntartani.
+
+(5)[^146] A képzésben részt vevő személyek száma nem haladhatja meg a megtartott munkahelyek számának és az újonnan létesített munkahelyek számának összegét.
+
+[^145]: A 26/I. § (4) bekezdése a 390/2021. (VII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^146]: A 26/I. § (5) bekezdését a 390/2021. (VII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.

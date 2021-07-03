@@ -1,4 +1,4 @@
-## 29/C. §[^138] E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 346/2017. (XI. 20.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 16. § (1) bekezdés a) pontját a Módr2. hatálybalépésekor[^139] folyamatban lévő eljárásokban is alkalmazni kell, amennyiben az eljárásban támogatási szerződés megkötésére a Módr2. hatálybalépésének napjáig nem került sor.
+## 29/C. §[^153] E rendeletnek a beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet módosításáról szóló 346/2017. (XI. 20.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 16. § (1) bekezdés a) pontját a Módr2. hatálybalépésekor[^154] folyamatban lévő eljárásokban is alkalmazni kell, amennyiben az eljárásban támogatási szerződés megkötésére a Módr2. hatálybalépésének napjáig nem került sor.
 
-[^138]: A 29/C. §-t a 346/2017. (XI. 20.) Korm. rendelet 7. §-a iktatta be.
-[^139]: A hatálybalépés időpontja 2017. november 21.
+[^153]: A 29/C. §-t a 346/2017. (XI. 20.) Korm. rendelet 7. §-a iktatta be.
+[^154]: A hatálybalépés időpontja 2017. november 21.
