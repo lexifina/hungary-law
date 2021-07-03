@@ -1,0 +1,3 @@
+## 12. § A védelmi intézkedések lépcsőzetes feloldásának első fokozatáról szóló 144/2021. (III. 27.) Korm. rendelet (a továbbiakban: R3.) a következő 10/B. §-sal egészül ki:
+
+## „10/B. § A védelmi intézkedések lépcsőzetes feloldásának hatodik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 365/2021. (VI. 30.)Korm. rendelet (a továbbiakban: R1.) hatálybalépését megelőző napon hatályos 5. §-ra, valamint 7. §-ra tekintettel az R1. hatálybalépését megelőző napon hatályos 9. és 10. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.”

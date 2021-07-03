@@ -1,0 +1,3 @@
+## 14. § A védelmi intézkedések lépcsőzetes feloldásának harmadik fokozata kapcsán a sportrendezvényekre vonatkozó egyes szabályokról szóló 202/2021. (IV. 29.) Korm. rendelet (a továbbiakban: R4.) 3. alcíme a következő 4/A. §-sal egészül ki:
+
+## „4/A. § A védelmi intézkedések lépcsőzetes feloldásának hatodik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 365/2021. (VI. 30.) Korm. rendelet (a továbbiakban: R.) hatálybalépését megelőző napon hatályos 1. §-ra tekintettel az R. hatálybalépését megelőző napon hatályos 3. és 4. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.”
