@@ -4,10 +4,10 @@
 
 (2) A vetőmag minősítését a vetőmagot kísérő hivatalos okirat vagy a szállító igazolása tartalmazza.
 
-(3)[^66] A minősítést elit és certifikált minősítés esetén a megyei kormányhivatal végzi. A standard minősítés saját jogon történik.
+(3)[^65] A minősítést elit és certifikált minősítés esetén a megyei kormányhivatal végzi. A standard minősítés saját jogon történik.
 
 (4) Az e rendeletben foglalt követelményeknek megfelelő minősítés a tagállamok vetőmag forgalmazásában érvényes.
 
 (5) A 3–5. számú mellékletekben megadott, a minősítésre vonatkozó határértékektől a vetőmag előállítója, forgalmazója magasabb értékek vagy szigorúbb követelmények irányába eltérhet.
 
-[^66]: A 16. § (3) bekezdése a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^65]: A 16. § (3) bekezdése a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.

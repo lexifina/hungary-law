@@ -4,7 +4,7 @@
 
 4. § (1) Vetőmagot az szaporíthat, dolgozhat fel, illetve hozhat forgalomba, aki
 
-a)[^29]
+a)[^28]
 
 b) nyilvántartást vezet
 
@@ -20,4 +20,4 @@ b) nyilvántartást vezet
 
 (2) Az (1) bekezdés b) pontja szerinti nyilvántartásokat öt évig meg kell őrizni, és kérésre az ellenőrző hatóság rendelkezésére kell bocsátani.
 
-[^29]: A 4. § (1) bekezdésének a) pontját a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^28]: A 4. § (1) bekezdésének a) pontját a 124/2007. (X. 20.) FVM rendelet 19. § (1) bekezdésének a) pontja hatályon kívül helyezte.

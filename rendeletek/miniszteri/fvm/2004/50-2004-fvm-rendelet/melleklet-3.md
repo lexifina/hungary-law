@@ -1,4 +1,4 @@
-3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^238]
+3. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^243]
 
 ## A zöldség vetőmagvak minőségi feltételei
 
@@ -100,4 +100,4 @@
 
 4. A zöldségvetőmagon a vizsgálatköteles nemzárlati károsítók mennyisége – legalább vizuális vizsgálat alapján – nem haladhatja meg a 2019/2072/EU bizottsági végrehajtási rendelet IV. melléklet F. részében foglalt táblázatban meghatározott küszöbértéket.
 
-[^238]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése, a 35/2020. (VI. 29.) AM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^243]: A 3. számú melléklet a 14/2011. (II. 24.) VM rendelet 16. § (1) bekezdésével megállapított, a 27/2014. (III. 26.) VM rendelet 1. § (2) bekezdése, a 35/2020. (VI. 29.) AM rendelet 6. § (1) bekezdése szerint módosított szöveg.

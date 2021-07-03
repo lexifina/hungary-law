@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-8
 | 2020-07-01 | 2004-50-20-82.18 | 36/2020. (VI. 29.) AM rendelet |
 | 2020-07-04 | 2004-50-20-82.19 | 35/2020. (VI. 29.) AM rendelet |
 | 2020-09-28 | 2004-50-20-82.20 | 70/2013. (VII. 31.) VM rendelet |
+| 2021-07-03 | 2004-50-20-82.21 | 23/2021. (VI. 18.) AM rendelet |
