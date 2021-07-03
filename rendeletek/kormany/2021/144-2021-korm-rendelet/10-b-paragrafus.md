@@ -1,0 +1,3 @@
+## 10/A. §[^5] A védelmi intézkedések lépcsőzetes feloldásának harmadik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 194/2021. (IV. 26.) Korm. rendelet hatálybalépését megelőző napon hatályos 4. §-ra és 5. §-ra tekintettel a 9. § és a 10. § alapján indított eljárásokat az eljárást megalapozó kötelezettségszegés időpontjában hatályos szabályok szerint kell elbírálni.
+
+[^5]: A 10/A. §-t a 194/2021. (IV. 26.) Korm. rendelet 15. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba.]
