@@ -1,0 +1,1 @@
+## „(10) Az üzem 30 napon belül köteles – a (3) bekezdés szerinti űrlapon, az (5) bekezdésben foglaltak egyidejű igazolásával – értesíteni a megyei kormányhivatalt, ha az engedélyezett tevékenységén kívül egyéb tevékenységet folytat, vagy ha bejelentett adata megváltozik.”
