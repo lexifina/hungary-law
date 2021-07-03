@@ -1,13 +1,3 @@
-## 1. A sportrendezvényekre vonatkozó rendelkezések
+## 1.[^2]
 
-1. § (1) A jégpályák, az uszodák, az edző- és fitnesztermek és a sportlétesítmények – a sportrendezvényen való részvétel céljából vagy a sportrendezvényre való felkészülés céljából – a sportról szóló törvény szerint versenyszerűen sportoló tizennyolcadik életévét betöltött személy (a továbbiakban: versenyző) és az őt felkészítő sportszakember számára is látogathatóak.
-
-(2) Az (1) bekezdés szerinti helyszínre történő beléptetést megelőzően a versenyző a versenyszerű sportoló minőségét, valamint az őt felkészítő sportszakember e minőségét igazolja.
-
-(3) Az (1) bekezdés szerinti helyszín üzemeltetője vagy vezetője, illetve az üzemeltető vagy a vezető alkalmazottja annak a versenyzőnek, valamint az őt felkészítő sportszakembernek a beléptetését megtagadja, valamint az (1) bekezdés szerinti látogatás megkezdését megakadályozza, aki a (2) bekezdésben foglaltakat nem igazolja.
-
-(4) Az (1) bekezdés szerinti helyszíneken a versenyző, valamint az őt felkészítő sportszakember nem köteles maszkot viselni.
-
-(5)[^2]
-
-[^2]: Az 1. § (5) bekezdését a 26462021. (V. 21.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^2]: Az 1. alcímet (1. §) a 365/2021. (VI. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.

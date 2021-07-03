@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-202-20-
 | 2021-05-15 | 2021-202-20-22.2 | 3/2021. (IV. 30.) BM határozat |
 | 2021-05-22 | 2021-202-20-22.3 | 271/2021. (V. 21.) Korm. rendelet |
 | 2021-05-23 | 2021-202-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-07-03 | 2021-202-20-22.5 | 365/2021. (VI. 30.) Korm. rendelet |
