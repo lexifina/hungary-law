@@ -1,5 +1,5 @@
 ## 3. §
 
-## 3.[^13]
+## 3.[^4]
 
-[^13]: A 3. alcímet (4. §) a 233/2021. (V. 6.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. alcímet (4. §) a 233/2021. (V. 6.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
