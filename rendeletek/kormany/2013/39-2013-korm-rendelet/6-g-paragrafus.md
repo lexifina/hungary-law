@@ -1,4 +1,4 @@
-6/G. §[^35] (1) A dohánytermékek minden csomagolási egységét egyedi azonosítóval kell megjelölni. Az egyedi azonosító sértetlenségének biztosítása érdekében azt eltávolíthatatlanul kell nyomtatni vagy rögzíteni, annak kitörölhetetlennek kell lennie, és azt semmilyen módon nem lehet eltakarni vagy megszakítani például zárjegyek vagy árcédulák által, illetve a csomagolási egység felnyitásakor.
+6/G. §[^36] (1) A dohánytermékek minden csomagolási egységét egyedi azonosítóval kell megjelölni. Az egyedi azonosító sértetlenségének biztosítása érdekében azt eltávolíthatatlanul kell nyomtatni vagy rögzíteni, annak kitörölhetetlennek kell lennie, és azt semmilyen módon nem lehet eltakarni vagy megszakítani például zárjegyek vagy árcédulák által, illetve a csomagolási egység felnyitásakor.
 
 (2) Az egyedi azonosítónak lehetővé kell tennie a következők meghatározását:
 
@@ -42,4 +42,4 @@ k) a gyártástól az első kiskereskedelmi egységig valamennyi vásárló szá
 
 (11) A rögzített adatokat a dohánytermékek kereskedelmében részt vevő gazdasági szereplő nem módosíthatja vagy törölheti.
 
-[^35]: A 6/G. §-t a 72/2018. (IV. 16.) Korm. rendelet 12. §-a iktatta be.
+[^36]: A 6/G. §-t a 72/2018. (IV. 16.) Korm. rendelet 12. §-a iktatta be.

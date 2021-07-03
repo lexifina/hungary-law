@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-39-20-2
 | 2019-01-01 | 2013-39-20-22.17 | 239/2016. (VIII. 16.) Korm. rendelet |
 | 2020-01-01 | 2013-39-20-22.18 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-07-31 | 2013-39-20-22.19 | 70/2015. (III. 30.) Korm. rendelet |
+| 2021-07-03 | 2013-39-20-22.20 | 349/2021. (VI. 22.) Korm. rendelet |

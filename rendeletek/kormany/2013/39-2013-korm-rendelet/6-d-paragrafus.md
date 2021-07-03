@@ -1,8 +1,8 @@
-6/D. §[^31] (1) A 2. § 3. pont a), e) és g) alpontjában meghatározott dohánytermékektől eltérő dohányzásra szánt dohánytermék esetében a 6/A. § rendelkezéseit a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni.
+6/D. §[^32] (1) A 2. § 3. pont a), e) és g) alpontjában meghatározott dohánytermékektől eltérő dohányzásra szánt dohánytermék esetében a 6/A. § rendelkezéseit a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) A 2. § 3. pont a), e) és g) alpontjában meghatározott dohánytermékektől eltérő dohányzásra szánt dohánytermékek esetében a 6/A. § (1) bekezdése szerinti egészségvédő figyelmeztetések közül kizárólag
 
-a)[^32] a 6/A. § (1) bekezdés a) pontja szerinti általános figyelmeztetést kell feltüntetni az egyik főoldal legalább 30%-át kitevő felületen, a főoldal alsó részén a következő szöveggel: „A dohányzás halált okoz – szokjon le most! Segítség a leszokáshoz: 06 80 200 493, www.leteszemacigit.hu”, és
+a)[^33] a 6/A. § (1) bekezdés a) pontja szerinti általános figyelmeztetést kell feltüntetni az egyik főoldal legalább 30%-át kitevő felületen, a főoldal alsó részén a következő szöveggel: „A dohányzás halált okoz – szokjon le most! Segítség a leszokáshoz: 06 80 200 493, www.leteszemacigit.hu”, és
 
 b) a 6/A. § (1) bekezdés c) pontja szerinti kombinált egészségvédő figyelmeztetést kell feltüntetni a másik főoldal legalább 40%-át kitevő felületen, a főoldal alsó részén.
 
@@ -22,5 +22,5 @@ b) a 6/A. § (1) bekezdés c) pontja szerinti kombinált egészségvédő figyel
 
 (10) A 2. § 3. pont f) alpontjában meghatározott dohánytermék esetén az általános figyelmeztetés és a kombinált egészségvédő figyelmeztetés – ha a dohánytermék hátsó főoldalán kerül feltüntetésre – a főoldal felső részén, a csomagon található többi információval azonos irányban is felhelyezhető.
 
-[^31]: A 6/D. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be, szövege a 421/2016. (XII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^32]: A 6/D. § (2) bekezdés a) pontja az 507/2017. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^32]: A 6/D. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be, szövege a 421/2016. (XII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^33]: A 6/D. § (2) bekezdés a) pontja az 507/2017. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
