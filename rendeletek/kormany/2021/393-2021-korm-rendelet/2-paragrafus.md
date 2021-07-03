@@ -1,0 +1,7 @@
+## 1. § A veszélyhelyzet során a távmunkával kapcsolatos szabályok alkalmazásáról szóló 487/2020. (XI. 11.) Korm. rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § (1) A veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendeletben kihirdetett veszélyhelyzet, valamint a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendeletben kihirdetett veszélyhelyzet (a továbbiakban együtt: veszélyhelyzet) ideje alatt a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 86/A. §-a helyett a (2)–(3) bekezdésben foglalt rendelkezéseket kell alkalmazni a munkaviszonyban foglalkoztatott természetes személy foglalkoztatása tekintetében.
+
+## (2) A távmunkavégzés – a munkáltatóval kötött megállapodás alapján – a munkavállaló által biztosított munkaeszközzel is történhet. Az ilyen munkaeszköz esetén a munkáltató a kockázatértékelés elvégzése során győződik meg a munkaeszköz egészséget nem veszélyeztető és biztonságos állapotáról. A munkaeszköz egészséget nem veszélyeztető és biztonságos állapotának fenntartásáról ebben az esetben a munkavállaló gondoskodik.
+
+## (3) A munkáltató a munkavállalót tájékoztatja az Mvt. VI. fejezetében meghatározott munkahelyi munkavédelmi tanácskozási és érdekképviseleti lehetőségekről és gyakorlatról, továbbá az ezzel összefüggő feladatot ellátó felelős személyekről, elérhetőségük adatairól.”
