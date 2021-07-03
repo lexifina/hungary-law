@@ -1,454 +1,264 @@
-## A DUS-vizsgálathoz szükséges szaporítóanyag mennyiségi és minőségi előírásai
+## A) SZÁNTÓFÖLDI NÖVÉNYEK
 
-| Faj | Fajtabejelen- tési határidő (dátum) | Vetőmag beérkezési határidő (dátum) | Vizsgálati mintameny- nyisége (kg) | Kalász mintameny- nyisége (db) | Vetőmag minőségi előírások | Letéti mintafelújí- táshoz (kg) |
+|  | A | B | C | D | E | F | G | H |
 
-| csírázási % | tisztaság % |
+| 1. | Faj | Fajtabejelentési határidő (dátum) | Vetőmag beérkezési határidő (dátum) | Vizsgálati minta mennyisége (kg) | Kalász mintameny- nyisége (db) | Vetőmag minőségi előírás csírázás % | Vetőmag minőségi előírás tisztaság % | Letéti minta felújításhoz (kg) |
 
-| A) SZÁNTÓFÖLDI NÖVÉNYEK |  |  |  |  |  |  |  |
+| 2. | 1 RÉPAFÉLÉK |
 
-| RÉPAFÉLÉK |  |  |  |  |  |  |  |
+| 3. | 1.1 Cukorrépa (Beta vulgaris L.) | I. 31. | III. 1. | 1,2 U | – | 85 | 100 | 1,2 U |
 
-| Cukorrépa | I. 31. | III. 1. | 1,2U | – | 85,0 | 100,0 | 1,2U |
+| 4. | 1.2 Takarmányrépa (Beta vulgaris L.) | I. 20. | I. 20. | 3 | – | 85 | 100 | 3 |
 
-| (Beta vulgaris L.) |  |  |  |  |  |  |  |
+| 5. | 2 TAKARMÁNYNÖVÉNYEK ÉS PÁZSITFÜVEK |
 
-| Takarmányrépa | I. 20. | I. 20. | 3 | – | 85,0 | 100,0 | 3,0 |
+| 6. | 2.1 Ebtippan (Agrostis canina L.) | I. 20. | I. 31. | 1,5 | – | 88 | 92 | 2 |
 
-| (Beta vulgaris L.) |  |  |  |  |  |  |  |
+| 7. | 2.2 Óriás tippan (Agrostis gigantea Roth) | I. 20. | I. 31. | 1,5 | – | 88 | 92 | 2 |
 
-| TAKARMÁNYNÖVÉNYEK ÉS PÁZSITFÜVEK |  |  |  |  |  |  |  |
+| 8. | 2.3 Tarackos tippan (Agrostis stolonifera L.) | I. 20. | I. 31. | 1,5 | – | 88 | 92 | 2 |
 
-| Ebtippan | I. 20. | I. 31. | 1,5 | – | 88,0 | 92,0 | 2,0 |
+| 9. | 2.4 Cérnatippan (Agrostis capillaris L.) | I. 20. | I. 31. | 1,5 | – | 88 | 92 | 2 |
 
-| (Agrostis canina L.) |  |  |  |  |  |  |  |
+| 10. | 2.5 Réti ecsetpázsit (Alopecurus pratensis L.) | I. 31. | II. 10. | 2 | – | 70 | 75 | 2,5 |
 
-| Óriás tippan | I. 20. | I. 31. | 1,5 | – | 88,0 | 92,0 | 2,0 |
+| 11. | 2.6 Francia perje [Arrhenatherum elatius (L.)P. Beauv. ex J. Presl & C Presl] | I. 31. | II. 10. | 2 | – | 80 | 90 | 2,5 |
 
-| (Agrostis gigantea Roth) |  |  |  |  |  |  |  |
+| 12. | 2.7 Sudár rozsnok (Bromus catharticus Vahl) | I. 31. | II. 10. | 2 | – | 75 | 97 | 2,5 |
 
-| Tarackos tippan | I. 20. | I. 31. | 1,5 | – | 88,0 | 92,0 | 2,0 |
+| 13. | 2.8 Alaszkai rozsnok (Bromus sitchensis Trin.) | I. 31. | II. 10. | 2 | – | 75 | 97 | 2,5 |
 
-| (Agrostis stolonifera L.) |  |  |  |  |  |  |  |
+| 14. | 2.9 Csillagpázsit [Cynodon dactylon (L.) Pers.] | I. 31. | II. 10. | 1,5 | – | 70 | 90 | 2 |
 
-| Cérnatippan | I. 20. | I. 31. | 1,5 | – | 88,0 | 92,0 | 2,0 |
+| 15. | 2.10 Csomós ebír (Dactylis glomerata L.) | I. 31. | II. 10. | 2 | – | 80 | 92 | 2,5 |
 
-| (Agrostis capillaris L.) |  |  |  |  |  |  |  |
+| 16. | 2.11 Nádképű csenkesz (Festuca arundinacea Schreber) | I. 20. | I. 31. | 2 | – | 90 | 94 | 2,5 |
 
-| Réti ecsetpázsit | I. 31. | II. 10. | 2,0 | – | 70,0 | 75,0 | 2,5 |
+| 17. | 2.12 Fonalas csenkesz (Festuca filiformis Pourr.) | I. 31. | II. 10. | 0,5 | – | 75 | 90 | 1,2 |
 
-| (Alopecurus pratensis L.) |  |  |  |  |  |  |  |
+| 18. | 2.13 Juhcsenkesz (Festuca ovina L.) | I. 31. | II. 10. | 0,5 | – | 75 | 90 | 1,2 |
 
-| Francia perje | I. 31. | II. 10. | 2,0 | – | 80,0 | 90,0 | 2,5 |
+| 19. | 2.14 Réti csenkesz (Festuca pratensis Huds.) | I. 20. | I. 31. | 2 | – | 80 | 95 | 2,5 |
 
-| [Arrhenatherum elatius (L.) |  |  |  |  |  |  |  |
+| 20. | 2.15 Vörös csenkesz (Festuca rubra L.) | I. 20. | I. 31. | 2,5 | – | 80 | 94 | 2,5 |
 
-| P. Beauv. ex J. Presl & C Presl] |  |  |  |  |  |  |  |
+| 21. | 2.16 Keménylevelű csenkesz [Festuca trachyphilla (Hack.) Krajina] | I. 31. | II. 10. | 0,5 | – | 75 | 90 | 1,2 |
 
-| Sudár rozsnok | I. 31. | II. 10. | 2,0 | – | 75,0 | 97,0 | 2,5 |
+| 22. | 2.17 Csenkesz-perje fajhibrid (xFestulolium Asch. & Graebn.) | I. 31. | II. 10. | 2 | – | 75 | 96 | 2,5 |
 
-| (Bromus catharticus Vahl) |  |  |  |  |  |  |  |
+| 23. | 2.18 Olaszperje, hollandiperje (Lolium multiflorum Lam.) | I. 20. | I. 31. | 2 | – | 80 | 95 | 2,5 |
 
-| Alaszkai rozsnok | I. 31. | II. 10. | 2,0 | – | 75,0 | 97,0 | 2,5 |
+| 24. | 2.19 Angolperje (Lolium perenne L.) | I. 31. | II. 10. | 2 | – | 88 | 95 | 3 |
 
-| (Bromus sitchensis Trin.) |  |  |  |  |  |  |  |
+| 25. | 2.20 Hibrid perje (Lolium x boucheanum Kunth) | I. 20. | I. 31. | 2 | – | 88 | 95 | 2,5 |
 
-| Csillagpázsit | I. 31. | II. 10. | 1,5 | – | 70,0 | 90,0 | 2,0 |
+| 26. | 2.21 Kanáriköles (Phalaris aquatica L.) | I. 31. | II. 10. | 1,5 | – | 75 | 96 | 2 |
 
-| [Cynodon dactylon |  |  |  |  |  |  |  |
+| 27. | 2.22 Kis komócsin (Phleum nodosum L.) | I. 20. | I. 31. | 2 | – | 80 | 96 | 2,5 |
 
-| (L.) Pers.] |  |  |  |  |  |  |  |
+| 28. | 2.23 Réti (mezei) komócsin (Phleum pratense L.) | I. 20. | I. 31. | 2 | – | 89 | 96 | 2,5 |
 
-| Csomós ebír | I. 31. | II. 10. | 2,0 | – | 80,0 | 92,0 | 2,5 |
+| 29. | 2.24 Egynyári perje (Poa annua L.) | I. 31. | II. 10. | 1,5 | – | 85 | 92 | 1,5 |
 
-| (Dactylis glomerata L.) |  |  |  |  |  |  |  |
+| 30. | 2.25 Ligeti perje (Poa nemoralis L.) | I. 31. | II. 10. | 1,5 | – | 83 | 91 | 1,5 |
 
-| Nádképű csenkesz | I. 20. | I. 31. | 2,0 | – | 90,0 | 94,0 | 2,5 |
+| 31. | 2.26 Mocsári perje (Poa palustris L.) | I. 20. | I. 31. | 1,5 | – | 84 | 85 | 1,5 |
 
-| (Festuca arundinacea Schreber) |  |  |  |  |  |  |  |
+| 32. | 2.27 Réti perje (Poa pratensis L.) | I. 20. | I. 31. | 2 | – | 84 | 88 | 2,5 |
 
-| Fonalas csenkesz | I. 31. | II. 10. | 0,5 | – | 75,0 | 90,0 | 1,2 |
+| 33. | 2.28 Sovány perje (Poa trivialis L.) | I. 20. | I. 31. | 1,5 | – | 75 | 85 | 1,5 |
 
-| (Festuca filiformis Pourr.) |  |  |  |  |  |  |  |
+| 34. | 2.29 Aranyzab [Trisetum flavescens (L.) P. Beauv.] | I. 31. | II. 10. | 1,5 | – | 75 | 78 | 1,5 |
 
-| Juhcsenkesz | I. 31. | II. 10. | 0,5 | – | 75,0 | 90,0 | 1,2 |
+| 35. | 2.30 Keleti kecskeruta (Galega orientalis Lam.) | I. 31. | II. 10. | 2 | – | 75 | 99,5 | 2,5 |
 
-| (Festuca ovina L.) |  |  |  |  |  |  |  |
+| 36. | 2.31 Koronás baltavirág (Hedysarum coronarium L.) | I. 31. | II. 10. | 1,5 | – | 75 | 95 | 1,5 |
 
-| Réti csenkesz | I. 20. | I. 31. | 2,0 | – | 80,0 | 95,0 | 2,5 |
+| 37. | 2.32 Szarvaskerep (Lotus corniculatus L.) | I. 20. | I. 31. | 2 | – | 75 | 95 | 2,5 |
 
-| (Festuca pratensis Huds.) |  |  |  |  |  |  |  |
+| 38. | 2.33 Fehérvirágú csillagfürt (Lupinus albus L.) | I. 31. | II. 10. | 6 | – | 80 | 98 | 15 |
 
-| Vörös csenkesz | I. 20. | I. 31. | 2,5 | – | 80,0 | 94,0 | 2,5 |
+| 39. | 2.34 Keskenylevelű csillagfürt (Lupinus angustifolius L.) | I. 31. | II. 10. | 6 | – | 75 | 98 | 13 |
 
-| (Festuca rubra L.) |  |  |  |  |  |  |  |
+| 40. | 2.35 Sárgavirágú csillagfürt (Lupinus luteus L.) | I. 31. | II. 10. | 6 | – | 80 | 98 | 13 |
 
-| Keménylevelű csenkesz | I. 31. | II. 10. | 0,5 | – | 75,0 | 90,0 | 1,2 |
+| 41. | 2.36 Komlós lucerna (Medicago lupulina L.) | I. 31. | II. 10. | 2 | – | 85 | 99,5 | 2,5 |
 
-| Festuca trachyphilla (Hack.) Krajina |  |  |  |  |  |  |  |
+| 42. | 2.37 Lucerna (Medicago sativa L.) | I. 31. | II. 10. | 2 | – | 85 | 99,5 | 2,5 |
 
-| Csenkesz-perje fajhibrid | I. 31. | II. 10. | 2,0 | – | 75,0 | 96,0 | 2,5 |
+| 43. | 2.38 Tarkavirágú lucerna (Medicago x varia T. Martyn) | I. 31. | II. 10. | 2 | – | 85 | 99,5 | 2,5 |
 
-| (xFestulolium Asch. & Graebn.) |  |  |  |  |  |  |  |
+| 44. | 2.39 Baltacim (Onobrychis viciifolia Scop.) | I. 31. | II. 10. | 1,5 | – | 82 | 99 | 2 |
 
-| Olaszperje, hollandiperje | I. 20. | I. 31. | 2,0 |  | 80,0 | 95,0 | 2,5 |
+| 45. | 2.40 Étkezési száraz- és takarmányborsó [Pisum sativum L. (partim)] | I. 31. | II. 10. | 5 | – | 80 | 98 | 5 |
 
-| (Lolium multiflorum Lam.) |  |  |  |  |  |  |  |
+| 46. | 2.41 Alexandriai here (Trifolium alexandrinum L.) | I. 31. | II. 10. | 1 | – | 85 | 99 | 2 |
 
-| Angolperje | I. 31. | II. 10. | 2,0 | – | 80,0 | 95,0 | 3,0 |
+| 47. | 2.42 Svédhere (Trifolium hybridum L.) | I. 20. | I. 31. | 1,5 | – | 85 | 99 | 2 |
 
-| (Lolium perenne L.) |  |  |  |  |  |  |  |
+| 48. | 2.43 Bíborhere (Trifolium incarnatum L.) | VIII. 1. | VIII. 10. | 1 | – | 85 | 99 | 2 |
 
-| Hibrid perje | I. 20. | I. 31. | 2,0 | – | 88,0 | 95,0 | 2,5 |
+| 49. | 2.44 Vöröshere (Trifolium pratense L.) | I. 20. | I. 31. | 2 | – | 85 | 99 | 2,5 |
 
-| (Lolium x boucheanum Kunth) |  |  |  |  |  |  |  |
+| 50. | 2.45 Fehérhere (Trifolium repens L.) | I. 20. | I. 31. | 2 | – | 85 | 99 | 2,5 |
 
-| Kanáriköles | I. 31. | II. 10. | 1,5 | – | 75,0 | 96,0 | 2,0 |
+| 51. | 2.46 Perzsahere (Trifolium resupinatum L.) | I. 31. | II. 10. | 1,5 | – | 85 | 99 | 2 |
 
-| (Phalaris aquatica L.) |  |  |  |  |  |  |  |
+| 52. | 2.47 Görögszéna (Trigonella foenum-graecum L.) | I. 31. | II. 10. | 1,5 | – | 85 | 99 | 2 |
 
-| Kis komócsin | I. 20. | I. 31. | 2,0 | – | 80,0 | 96,0 | 2,5 |
+| 53. | 2.48 Lóbab [Vicia faba L. (partim)] | I. 31. | II. 10. | 3 | – | 85 | 98 | 7 |
 
-| (Phleum nodosum L.) |  |  |  |  |  |  |  |
+| 54. | 2.49 Pannon bükköny (Vicia pannonica Crantz) | IX. 10. | IX. 20. | 2 | – | 90 | 98 | 2 |
 
-| Réti (mezei) komócsin | I. 20. | I. 31. | 2,0 | – | 89,0 | 96,0 | 2,5 |
+| 55. | 2.50 Takarmánybükköny (Vicia sativa L.) | I. 31. | II. 10. | 2 | – | 90 | 98 | 4 |
 
-| (Phleum pratense L.) |  |  |  |  |  |  |  |
+| 56. | 2.51 Szöszös bükköny (Vicia villosa Roth) | IX. 10. | IX. 20. | 2 | – | 85 | 98 | 2 |
 
-| Egynyári perje | I. 31. | II. 10. | 1,5 | – | 85,0 | 92 | 1,5 |
+| 57. | 2.52 Karórépa [Brassica napus L. var. napobrassica (L.) Rchb.] | I. 31. | II. 10. | 2 | – | 80 | 98 | 1 |
 
-| (Poa annua L.) |  |  |  |  |  |  |  |
+| 58. | 2.53 Takarmánykáposzta [Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis] | I. 31. | II. 10. | 0,1 | – | 80 | 95 | 0,5 |
 
-| Ligeti perje | I. 31. | II. 10. | 1,5 | – | 83,0 | 91,0 | 1,5 |
+| 59. | 2.54 Mézontófű (Phacelia tanacetifolia Benth.) | I. 20. | I. 31. | 1,5 | – | 85 | 98 | 2 |
 
-| (Poa nemoralis L.) |  |  |  |  |  |  |  |
+| 60. | 2.55 Takarmányretek (olajretek) (Raphanus sativus L. var. oleiformis pers.) | I. 31. | II. 10. | 0,5 | – | 80 | 97 | 1 |
 
-| Mocsári perje | I. 20. | I. 31. | 1,5 | – | 75,0 | 85,0 | 1,5 |
+| 61. | 3 OLAJ- ÉS ROSTNÖVÉNYEK |
 
-| (Poa palustris L.) |  |  |  |  |  |  |  |
+| 62. | 3.1 Földimogyoró (Arachis hypogaea L.) | I. 31. | II. 20. | 3 | – | 70 | 99 | 4 |
 
-| Réti perje | I. 20. | I. 31. | 2,0 | – | 84,0 | 88,0 | 2,5 |
+| 63. | 3.2 Réparepce [Brassica rapa L. var. silvestris (Lam.) Briggs] |
 
-| (Poa pratensis L.) |  |  |  |  |  |  |  |
+| 64. | 3.2.1 őszi | VIII. 5. | VIII. 10. | 1 | – | 94 | 99,5 | 1 |
 
-| Sovány perje | I. 20. | I. 31. | 1,5 | – | 75,0 | 85,0 | 1,5 |
+| 65. | 3.2.2 tavaszi | I. 31. | II. 10. | 1 | – | 94 | 99,5 | 1 |
 
-| (Poa trivialis L.) |  |  |  |  |  |  |  |
+| 66. | 3.3 Barna mustár [Brassica juncea (L.) Czern.] | I. 15. | II. 15. | 3 | – | 95 | 99 | 2 |
 
-| Aranyzab | I. 31. | II. 10. | 1,5 | – | 75,0 | 78,0 | 1,5 |
+| 67. | 3.4 Káposztarepce [Brassica napus L. (partim)] hibrid |
 
-| [Trisetum flavescens |  |  |  |  |  |  |  |
+| 68. | 3.4.1 őszi | VIII. 5. | VIII. 10. | 1,0 | – | 94,0 | 99,5 | 1,0 |
 
-| (L.) P. Beauv.] |  |  |  |  |  |  |  |
+| 69. | 3.4.2 hibrid és szabadelvirágzású fajta hibrid komponens | VIII. 5. | VIII. 10. | 0,4 | – | 94 | 99,5 | 0,6 |
 
-| Keleti kecskeruta | I. 31. | II. 10. | 2,0 | – | 75,0 | 99,5 | 2,5 |
+| 70. | 3.4.3 tavaszi | I. 30. | II. 10. | 1,0 | – | 94,0 | 99,5 | 1,0 |
 
-| (Galega orientalis Lam.) |  |  |  |  |  |  |  |
+| 71. | 3.4.4 hibrid és szabadelvirágzású fajta hibrid komponens | I. 30. | II. 10. | 0,4 | – | 94 | 99,5 | 0,6 |
 
-| Koronás baltavirág | I. 31. | II. 10. | 1,5 | – | 75,0 | 95,0 | 1,5 |
+| 72. | 3.5 Fekete mustár [Brassica nigra (L.) W.D.J. Koch] | I. 31. | II. 15. | 3 | – | 95 | 99 | 2 |
 
-| (Hedysarum coronarium L.) |  |  |  |  |  |  |  |
+| 73. | 3.6 Kender (Cannabis sativa L.) |
 
-| Szarvaskerep | I. 20. | I. 31. | 2,0 | – | 75,0 | 95,0 | 2,5 |
+| 74. | 3.6.1 hibrid | I. 31. | II. 20. | 2 | – | 85 | 98,5 | 2 |
 
-| (Lotus corniculatus L.) |  |  |  |  |  |  |  |
+| 75. | 3.6.2 vonalak | I. 31. | II. 20. | 1 | – | 85 | 98,5 | 1 |
 
-| Fehérvirágú csillagfürt | I. 31. | II. 10. | 6,0 | – | 80,0 | 98,0 | 15,0 |
+| 76. | 3.7 Sáfrányos szeklice (Carthamus tinctorius L.) | I. 15. | II. 15. | 3 | – | 90 | 99 | 2 |
 
-| (Lupinus albus L.) |  |  |  |  |  |  |  |
+| 77. | 3.8 Kömény (Carum carvi L.) | I. 15. | II. 15. | 3 | – | 80 | 99 | 2 |
 
-| Keskenylevelű csillagfürt | I. 31. | II. 10. | 6,0 | – | 75,0 | 98,0 | 13,0 |
+| 78. | 3.9 Napraforgó (Heliantus annuus L.) |
 
-| (Lupinus angustifolius L.) |  |  |  |  |  |  |  |
+| 79. | 3.9.1 hibrid és szabadelvirágzású fajta | I. 31. | III. 15. | 2 | – | 92 | 99,5 | 1 |
 
-| Sárgavirágú csillagfürt | I. 31. | II. 10. | 6,0 | – | 80,0 | 98,0 | 13,0 |
+| 80. | 3.9.2 hibrid komponens | I. 31. | III. 15. | 1 | – | 87 | 99,5 | 1 |
 
-| (Lupinus luteus L.) |  |  |  |  |  |  |  |
+| 81. | 3.10 Len (olajlen, rostlen) (Linum usitatissimum L.) | I. 31. | II. 20. | 1,5 | – | 87 | 98,5 | 2 |
 
-| Komlós lucerna | I. 31. | II. 10. | 2,0 | – | 85,0 | 99,5 | 2,5 |
+| 82. | 3.11 Mák (Papaver somniferum L.) |
 
-| (Medicago lupulina L.) |  |  |  |  |  |  |  |
+| 83. | 3.11.1 tavaszi | I. 15. | II. 15. | 0,3 | 4 | 90,0 | 99,0 | 1 |
 
-| Lucerna | I. 31. | II. 10. | 2,0 | – | 85,0 | 99,5 | 2,5 |
+| 84. | 3.11.2 őszi | VIII. 10. | VIII. 25. | 0,3 | 4 | 90,0 | 99,0 | 1 |
 
-| (Medicago sativa L.) |  |  |  |  |  |  |  |
+| 85. | 3.12 Fehér mustár (Sinapis alba L.) | I. 15. | II. 15. | 3 | – | 95 | 99 | 2 |
 
-| Tarkavirágú lucerna | I. 31. | II. 10. | 2,0 | – | 85,0 | 99,5 | 2,5 |
+| 86. | 3.13 Szója [Glycine max (L.) Merr.] | I. 31. | II. 15. | 3 | – | 80 | 98 | 5 |
 
-| (Medicago x varia T. Martyn) |  |  |  |  |  |  |  |
+| 87. | 4 GABONAFÉLÉK |
 
-| Baltacim | I. 31. | II. 10. | 1,5 | – | 82,0 | 99,0 | 2,0 |
+| 88. | 4.1 Csupasz zab (Avena nuda L.) | I. 31. | II. 10. | 3 | 200 | 87 | 99 | 10 |
 
-| (Onobrychis viciifolia Scop.) |  |  |  |  |  |  |  |
+| 89. | 4.2 Zab beleértve a bizánci zabot [Avena sativa L. (továbbá Avena byzantina K. Koch)] |
 
-| Étkezési száraz- és takarmányborsó | I. 31. | II. 10. | 5,0 | – | 80,0 | 98,0 | 5,0 |
+| 90. | 4.2.1 tavaszi | I. 31. | II. 10. | 3 | 200 | 87 | 99 | 10 |
 
-| [Pisum sativum L. (partim)] |  |  |  |  |  |  |  |
+| 91. | 4.2.2 őszi | IX. 10. | IX. 20. | 3 | 220 | 87 | 99 | 5 |
 
-| Alexandriai here | I. 31. | II. 10. | 1,0 | – | 85,0 | 99 | 2,0 |
+| 92. | 4.3 Homoki zab (Avena strigosa Schreb.) | IX. 10. | IX. 20. | 3 | 220 | 87 | 99 | 5 |
 
-| (Trifolium alexandrinum L.) |  |  |  |  |  |  |  |
+| 93. | 4.4 Árpa (Hordeum vulgare L.) |
 
-| Svédhere | I. 20. | I. 31. | 1,5 | – | 85,0 | 99,0,0 | 2,0 |
+| 94. | 4.4.1 őszi (csupasz árpa is) | IX. 10. | IX. 20. | 4 | 220 | 90 | 99 | 5 |
 
-| (Trifolium hybridum L.) |  |  |  |  |  |  |  |
+| 95. | 4.4.2 tavaszi | I. 31. | II. 20. | 3 | 200 | 90 | 99 | 10 |
 
-| Bíborhere | VIII. 1. | VIII. 10. | 1,0 | – | 85,0 | 99,0 | 2,0 |
+| 96. | 4.5 Rizs (Oryza sativa L.) | I. 31. | III. 10. | 5 | 105 | 90 | 99,8 | 8 |
 
-| (Trifolium incarnatum L.) |  |  |  |  |  |  |  |
+| 97. | 4.6 Fénymag (Phalaris canariensis L.) | I. 31. | III. 15. | 2 | – | 90 | 99,5 | 3 |
 
-| Vöröshere | I. 20. | I. 31. | 2,0 | – | 85,0 | 99,0 | 2,5 |
+| 98. | 4.7 Rozs (Secale cereale L.) |
 
-| (Trifolium pratense L.) |  |  |  |  |  |  |  |
+| 99. | 4.7.1 őszi (fajta, hibrid) | VIII. 15. | VIII. 25. | 6,5 | – | 85 | 99 | 12 |
 
-| Fehérhere | I. 20. | I. 31. | 2,0 | – | 85,0 | 99,0 | 2,5 |
+| 100. | 4.7.2 tavaszi (fajta, hibrid) | I. 31. | II. 25. | 6,5 | – | 85 | 99 | 12 |
 
-| (Trifolium repens L.) |  |  |  |  |  |  |  |
+| 101. | 4.7.3 vonal, alapegyszeres – őszi | VIII. 15. | VIII. 25. | 3 | – | 85 | 99 | 6 |
 
-| Perzsahere | I. 31. | II. 10. | 1,5 | – | 85,0 | 99,0 | 2,0 |
+| 102. | 4.7.4 vonal, alapegyszeres – tavaszi | I. 31. | II. 25. | 3 | – | 85 | 99 | 6 |
 
-| (Trifolium resupinatum L.) |  |  |  |  |  |  |  |
+| 103. | 4.8 Cirok [Sorghum bicolor (L.) Moench] |
 
-| Görögszéna | I. 31. | II. 10. | 1,5 | – | 85,0 | 99,0 | 2,0 |
+| 104. | 4.8.1 hibrid és szab. elv. fajták | II. 10. | III. 15. | 0,5 | – | 90 | 99,5 | 1 |
 
-| (Trigonella foenum-graecum L.) |  |  |  |  |  |  |  |
+| 105. | 4.8.2 vonal, alapegyszeres | II. 10. | III. 15. | 0,5 | 50 | 90 | 99,5 | 1 |
 
-| Lóbab | I. 31. | II. 10. | 3,0 | – | 85,0 | 98,0 | 7,0 |
+| 106. | 4.9 Szudánifű [Sorghum sudanense (Piper) Stapf] |
 
-| [Vicia faba L. (partim)] |  |  |  |  |  |  |  |
+| 107. | 4.9.1 hibrid és szab. elv. fajták | II. 10. | III. 15. | 0,5 | – | 90 | 99,5 | 1 |
 
-| Pannon bükköny | IX. 10. | IX. 20. | 2,0 | – | 90,0 | 98,0 | 2,0 |
+| 108. | 4.9.2 vonal, alapegyszeres | II. 10. | III. 15. | 0,5 | 50 | 90 | 99,5 | 1 |
 
-| (Vicia pannonica Crantz) |  |  |  |  |  |  |  |
+| 109. | 4.10 Cirok x Szudánifű hibrid [Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf] |
 
-| Takarmánybükköny | I. 31. | II. 10. | 2,0 | – | 90,0 | 98,0 | 4,0 |
+| 110. | 4.10.1 hibrid | II. 10. | III. 15. | 0,5 | – | 90 | 99,5 | 1 |
 
-| (Vicia sativa L.) |  |  |  |  |  |  |  |
+| 111. | 4.10.2 vonal, alapegyszeres | II. 10. | III. 15. | 0,5 | 50 | 90 | 99,5 | 1 |
 
-| Szöszös bükköny | IX. 10. | IX. 20. | 2,0 | – | 85,0 | 98,0 | 2,0 |
+| 112. | 4.11 Tritikálé (x Triticosecale Wittm. ex A. Camus) |
 
-| (Vicia villosa Roth) |  |  |  |  |  |  |  |
+| 113. | 4.11.1 őszi (fajta, hibrid) | VIII. 15. | VIII. 25. | 8 | 350 | 80 | 99 | 12 |
 
-| Karórépa | I. 31. | II. 10. | 2,0 | – | 80,0 | 98,0 | 1,0 |
+| 114. | 4.11.2 tavaszi (fajta, hibrid) | I. 31. | II. 25. | 8 | 350 | 80 | 99 | 12 |
 
-| [Brassica napus L. var. napobrassica (L.) Rchb.] |  |  |  |  |  |  |  |
+| 115. | 4.11.3 vonal, alapegyszeres – őszi | VIII. 15. | VIII. 25. | 3 | – | 80 | 99 | 6 |
 
-| Takarmánykáposzta | I. 31. | II. 10. | 0,1 | – | 80,0 | 95,0 | 0,5 |
+| 116. | 4.11.4 vonal, alapegyszeres – tavaszi | I. 31. | II. 25. | 3 | – | 80 | 99 | 6 |
 
-| [Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis] |  |  |  |  |  |  |  |
+| 117. | 4.12 Búza (Triticum aestivum L.) |
 
-| Mézontófű | I. 20. | I. 31. | 1,5 | – | 85,0 | 98,0 | 2,0 |
+| 118. | 4.12.1 őszi (fajta, hibrid) | IX. 10. | IX. 20. | 4 | 220 | 90 | 99 | 5 |
 
-| (Phacelia tanacetifolia Benth.) |  |  |  |  |  |  |  |
+| 119. | 4.12.2 vonal, alapegyszeres | IX. 10. | IX. 20. | 4 | 220 | 90 | 99 | 5 |
 
-| Takarmányretek (olajretek) | I. 31. | II. 10. | 0,5 | – | 80,0 | 97,0 | 1,0 |
+| 120. | 4.12.3 tavaszi | I. 31. | II. 10. | 4 | 220 | 90 | 99 | 5 |
 
-| (Raphanus sativus L. var. oleiformis pers.) |  |  |  |  |  |  |  |
+| 121. | 4.13 Durumbúza (Triticum durum Desf.) |
 
-| OLAJ- ÉS ROSTNÖVÉNYEK |  |  |  |  |  |  |  |
+| 122. | 4.13.1 őszi | IX. 10. | IX. 20. | 4 | 220 | 90 | 99 | 5 |
 
-| Földimogyoró | I. 31. | II. 20. | 3,0 | – | 70,0 | 99,0 | 4,0 |
+| 123. | 4.13.2 tavaszi | I. 31. | II. 10. | 4 | 220 | 90 | 99 | 5 |
 
-| (Arachis hypogaea L.) |  |  |  |  |  |  |  |
+| 124. | 4.14 Tönkölybúza (Triticum spelta L.) őszi | IX. 10. | IX. 20. | 4 | 220 | 90 | 99 | 5 |
 
-| Réparepce |  |  |  |  |  |  |  |
+| 125. | 4.15 Kukorica (Zea mays L.) |
 
-| [Brassica rapa L. var. silvestris (Lam.) Briggs] |  |  |  |  |  |  |  |
+| 126. | 4.15.1 hibrid, szab. elv. fajta | II. 10. | III. 15. | 1 | – | 95 | 99 | 1 |
 
-| őszi | VIII. 5. | VIII. 10. | 1,0 | – | 94,0 | 99,5 | 1,0 |
+| 127. | 4.15.2 vonal és alapegyszeres | II. 10. | III. 15. | 1 | – | 85 | 99 | 1 |
 
-| tavaszi | I. 31. | II. 10. | 1,0 | – | 94,0 | 99,5 | 1,0 |
+| 128. | 5 BURGONYA |
 
-| Barna mustár | I. 15. | II. 15. | 3,0 | – | 95,0 | 99,0 | 2,0 |
-
-| [Brassica juncea (L.) Czern.] |  |  |  |  |  |  |  |
-
-| Káposztarepce |  |  |  |  |  |  |  |
-
-| [Brassica napus L. (partim)] hibrid |  |  |  |  |  |  |  |
-
-| őszi | VIII. 5. | VIII. 10. | 1,0 | – | 94,0 | 99,5 | 1,0 |
-
-| hibrid és szabadelvirágzású fajta |  |  |  |  |  |  |  |
-
-| hibrid komponens | VIII. 5. | VIII. 10. | 0,4 | – | 94,0 | 99,5 | 0,6 |
-
-| tavaszi | I. 30. | II. 10. | 1,0 | – | 94,0 | 99,5 | 1,0 |
-
-| hibrid és szabadelvirágzású fajta |  |  |  |  |  |  |  |
-
-| hibrid komponens | I. 30. | II. 10. | 0,4 | – | 94,0 | 99,5 | 0,6 |
-
-| Fekete mustár | I. 31. | II. 15. | 3,0 | – | 95,0 | 99,0 | 2,0 |
-
-| [Brassica nigra (L.) W.D.J. Koch] |  |  |  |  |  |  |  |
-
-| Kender |  |  |  |  |  |  |  |
-
-| (Cannabis sativa L.) |  |  |  |  |  |  |  |
-
-| hibrid | I. 31. | II. 20. | 2,0 | – | 85,0 | 98,5 | 2,0 |
-
-| vonalak | I. 31. | II. 20. | 1,0 | – | 85,0 | 98,5 | 1,0 |
-
-| Sáfrányos szeklice | I. 15. | II. 15. | 3,0 | – | 90,0 | 99,0 | 2,0 |
-
-| (Carthamus tinctorius L.) |  |  |  |  |  |  |  |
-
-| Kömény | I. 15. | II. 15. | 3,0 | – | 80,0 | 99,0 | 2,0 |
-
-| (Carum carvi L.) |  |  |  |  |  |  |  |
-
-| Napraforgó |  |  |  |  |  |  |  |
-
-| (Helianthus annuus L.) |  |  |  |  |  |  |  |
-
-| hibrid és szabadelvirágzású fajta | I. 31. | III. 15. | 2,0 | – | 92,0 | 99,5 | 1,0 |
-
-| hibrid komponens | I. 31. | III. 15. | 1,0 | – | 87,0 | 99,5 | 1,0 |
-
-| Len (olajlen, rostlen) | I. 31. | II. 20. | 1,5 | – | 87,0 | 98,5 | 2,0 |
-
-| (Linum usitatissimum L.) |  |  |  |  |  |  |  |
-
-| Mák | XII. 15. | I. 15. | 1,2 | _ | 90,0 | 99,0 | 1,0 |
-
-| (Papaver somniferum L.) |  |  |  |  |  |  |  |
-
-| Fehér mustár | I. 15. | II. 15. | 3,0 | – | 95,0 | 99,0 | 2,0 |
-
-| (Sinapis alba L.) |  |  |  |  |  |  |  |
-
-| Szója | I. 31. | II. 15. | 3,0 | – | 80,0 | 98,0 | 5,0 |
-
-| [Glycine max (L.) Merr.] |  |  |  |  |  |  |  |
-
-| GABONAFÉLÉK |  |  |  |  |  |  |  |
-
-| Csupasz zab | I. 31. | II. 10. | 3,0 | 200 | 87,0 | 99,0 | 10,0 |
-
-| (Avena nuda L.) |  |  |  |  |  |  |  |
-
-| Zab beleértve:bizánci zab |  |  |  |  |  |  |  |
-
-| [Avena sativa L. (továbbá Avena byzantina K. Koch)] |  |  |  |  |  |  |  |
-
-| tavaszi | I. 31. | II. 10. | 3,0 | 200 | 87,0 | 99,0 | 10,0 |
-
-| őszi | IX. 10. | IX. 20. | 3,0 | 220 | 87,0 | 99,0 | 5,0 |
-
-| Homoki zab | IX. 10. | IX. 20. | 3,0 | 220 | 87,0 | 99,0 | 5,0 |
-
-| (Avena strigosa Schreb.) |  |  |  |  |  |  |  |
-
-| Árpa |  |  |  |  |  |  |  |
-
-| (Hordeum vulgare L.) |  |  |  |  |  |  |  |
-
-| őszi | IX. 10. | IX. 20. | 4,0 | 220 | 90,0 | 99,0 | 5,0 |
-
-| (csupasz árpa is) |  |  |  |  |  |  |  |
-
-| tavaszi | I. 31. | II. 20. | 3,0 | 200 | 90,0 | 99,0 | 10,0 |
-
-| Rizs | I. 31. | III. 10. | 5,0 | 105 | 90,0 | 99,8 | 8,0 |
-
-| (Oryza sativa L.) |  |  |  |  |  |  |  |
-
-| Fénymag | I. 31. | III. 15. | 2,0 | – | 90,0 | 99,5 | 3,0 |
-
-| (Phalaris canariensis L.) |  |  |  |  |  |  |  |
-
-| Rozs |  |  |  |  |  |  |  |
-
-| (Secale cereale L.) |  |  |  |  |  |  |  |
-
-| őszi | VIII. 15. | VIII. 25. | 6,5 | – | 85,0 | 99,0 | 12,0 |
-
-| (fajta, hibrid) |  |  |  |  |  |  |  |
-
-| tavaszi | I. 31. | II. 25. | 6,5 |  | 85,0 | 99,0 | 12,0 |
-
-| (fajta, hibrid) |  |  |  |  |  |  |  |
-
-| vonal, alapegyszeres-őszi | VIII. 15. | VIII. 25. | 3,0 | – | 85,0 | 99,0 | 6,0 |
-
-| vonal, alapegyszeres-tavaszi | I. 31. | II. 25. | 3,0 |  | 85,0 | 99,0 | 6,0 |
-
-| Cirok |  |  |  |  |  |  |  |
-
-| [Sorghum bicolor (L.) Moench] |  |  |  |  |  |  |  |
-
-| hibrid és szab. elv. fajták | II. 10. | III. 15. | 0,5 | – | 90,0 | 99,5 | 1,0 |
-
-| vonal, alapegyszeres | II. 10. | III. 15. | 0,5 | 50 | 90,0 | 99,5 | 1,0 |
-
-| Szudánifű |  |  |  |  |  |  |  |
-
-| [Sorghum sudanense (Piper) Stapf] |  |  |  |  |  |  |  |
-
-| hibrid és szab. elv. fajták | II. 10. | III. 15. | 0,5 | – | 90,0 | 99,5 | 1,0 |
-
-| vonal, alapegyszeres | II. 10. | III. 15. | 0,5 | 50 | 90,0 | 99,5 | 1,0 |
-
-| Cirok x Szudánifű hibrid |  |  |  |  |  |  |  |
-
-| [Sorghum bicolor (L.) |  |  |  |  |  |  |  |
-
-| Moench x Sorghum sudanense (Piper) Stapf] |  |  |  |  |  |  |  |
-
-| hibrid | II. 10. | III. 15. | 0,5 | – | 90,0 | 99,5 | 1,0 |
-
-| vonal, alapegyszeres | II. 10. | III. 15. | 0,5 | 50 | 90,0 | 99,5 | 1,0 |
-
-| Tritikálé |  |  |  |  |  |  |  |
-
-| (x Triticosecale Wittm. ex A. Camus) |  |  |  |  |  |  |  |
-
-| őszi (fajta, hibrid) | VIII. 15. | VIII. 25. | 8,0 | 350 | 80,0 | 99,0 | 12,0 |
-
-| tavaszi (fajta, hibrid) | I. 31. | II. 25. | 8,0 | 350 | 80,0 | 99,0 | 12,0 |
-
-| vonal, alapegyszeres-őszi | VIII. 15. | VIII. 25. | 3,0 | – | 80,0 | 99,0 | 6,0 |
-
-| vonal, alapegyszeres-tavaszi | I. 31. | II. 25. | 3,0 |  | 80,0 | 99,0 | 6,0 |
-
-| Búza |  |  |  |  |  |  |  |
-
-| (Triticum aestivum L.) |  |  |  |  |  |  |  |
-
-| őszi (fajta, hibrid) | IX. 10. | IX. 20. | 4,0 | 220 | 90,0 | 99,0 | 5,0 |
-
-| vonal, alapegyszeres | IX. 10. | IX. 20. | 4,0 | 220 | 90,0 | 99,0 | 5,0 |
-
-| tavaszi | I. 31. | II. 10. | 4,0 | 220 | 90,0 | 99,0 | 5,0 |
-
-| Durumbúza |  |  |  |  |  |  |  |
-
-| (Triticum durum Desf.) |  |  |  |  |  |  |  |
-
-| őszi | IX. 10. | IX. 20. | 4,0 | 220 | 90,0 | 99,0 | 5,0 |
-
-| tavaszi | I. 31. | II. 10. | 4,0 | 220 | 90,0 | 99,0 | 5,0 |
-
-| Tönkölybúza |  |  |  |  |  |  |  |
-
-| (Triticum spelta L.) |  |  |  |  |  |  |  |
-
-| őszi | IX. 10. | IX. 20. | 4,0 | 220 | 90,0 | 99,0 | 5,0 |
-
-| Kukorica |  |  |  |  |  |  |  |
-
-| (Zea mays L.) |  |  |  |  |  |  |  |
-
-| hibrid, szab. elv. fajta | II. 10. | III. 15. | 1,0 | – | 95,0 | 99,0 | 1,0 |
-
-| vonal és alapegyszeres | II. 10. | III. 15. | 1,0 | – | 85,0 | 99,0 | 1,0 |
-
-| BURGONYA |  |  |  |  |  |  |  |
-
-| Burgonya | II. 28. | III. 10. | 300 db | – | „E” | – | – |
-
-| (Solanum tuberosum L.) |  |  | vetőgumó |  | 35/55 mm |  |  |
+| 129. | 5.1 Burgonya (Solanum tuberosum L.) | II. 28. | III. 10. | 300 db vetőgumó | – | “E” 35/55mm | – | – |
 
 | Faj | Fajtabejelen- tési határidő (dátum) | Vetőmag beérkezési határidő | Vizsgálati és letéti minta menynyisége (ezer szem) | Vetőmag minőségi előírások |
 
@@ -690,6 +500,6 @@
 
 ## Megjegyzés: Szőlő és szőlőalany klónok bejelentésekor csak vírustesztelt szaporítóanyag fogadható el.
 
-5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^114]
+5. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^115]
 
-[^114]: Az 5. számú melléklet a 42/2011. (V. 26.) VM rendelet 3. §-ával megállapított szöveg.
+[^115]: Az 5. számú melléklet a 23/2021. (VI. 18.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.

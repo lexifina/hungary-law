@@ -1,5 +1,3 @@
-## kell alkalmazni.
-
 2. § (1)[^4] A növényfajták állami elismeréséhez és a növényfajta-oltalom megszerzéséhez szükséges kísérleti vizsgálatokat a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) végzi.
 
 (2)[^5] Az állami elismerésre kötelezett növényfajok listáját – a hasznosítási célok megjelölésével – az 1. számú melléklet tartalmazza.

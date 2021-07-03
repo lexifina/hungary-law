@@ -8,7 +8,7 @@ b) zöldség, gyümölcs és dísznövény fajok fajtái esetén csak DUS-vizsg�
 
 c) szőlőfajták esetén az alaktani, fiziológiai, különösen a termesztési és felhasználási cél szempontjából döntő, a szőlő vegetatív szaporítóanyagok forgalmazásáról szóló külön jogszabályban, illetve a 6. számú mellékletben meghatározott jellemzők megállapítására irányuló, a 7. számú mellékletben foglaltaknak megfelelő vizsgálatot
 
-## végez.
+végez.
 
 (2)[^32] Erdészeti fajták esetén a NÉBIH a vizsgált kategóriájú, magtermesztő ültetvények, testvérvonalak szülei és klón-, valamint klóncsoport szaporítóanyagforrás-típusok kiinduló anyagainak erdészeti szaporítóanyag-források jegyzékre vételéhez az európai uniós jogi aktusokban megállapított módszertani előírások szerinti vizsgálatokat végez. Erdészeti fajták esetében a gazdasági értékvizsgálat követelményeinek részletes leírását az erdészeti szaporítóanyagokról szóló jogszabály tartalmazza.
 

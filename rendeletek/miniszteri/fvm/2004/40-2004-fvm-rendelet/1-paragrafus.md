@@ -10,6 +10,8 @@ c)[^2] a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) 
 
 d)[^3] a növényfajták nemesítésével foglalkozó, a fajtafenntartást végző, illetve képviselőként eljáró természetes és jogi személyekre, illetve jogi személyiséggel nem rendelkező szervezetekre
 
+kell alkalmazni.
+
 [^1]: Az 1. § a) pontja a 42/2011. (V. 26.) VM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § c) pontja a 105/2012. (X. 11.) VM rendelet 5. § (1) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § d) pontja a 22/2014. (III. 14.) VM rendelet 20. § a) pontja szerint módosított szöveg.
