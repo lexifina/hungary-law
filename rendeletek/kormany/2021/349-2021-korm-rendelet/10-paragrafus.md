@@ -1,0 +1,3 @@
+10. § (1) A gyártó a 9. § szerinti harmonizált jelölési előírásokat az (EU) 2020/2151 bizottsági végrehajtási rendeletben foglaltak szerint teljesíti, az (EU) 2020/2151 bizottsági végrehajtási rendelet 2. cikk (3) bekezdésében megjelölt termékkör vonatkozásában a (2) bekezdésben foglaltakra figyelemmel.
+
+(2) A gyártó a 9. § szerinti harmonizált jelölési előírásokat az (EU) 2020/2151 bizottsági végrehajtási rendelet 2. cikk (3) bekezdésében megjelölt termékkör vonatkozásában a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendeletben foglaltak szerint teljesíti.
