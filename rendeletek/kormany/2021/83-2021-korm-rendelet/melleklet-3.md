@@ -38,6 +38,8 @@
 
 | 20. | Somogy Megyei Kaposi Mór Oktató Kórház telephelyén lévő Mosdósi kastély és környezetének felújítását és funkcióváltását célzó beruházás | Mosdós, belterület 172/4, 172/5 és 179 helyrajzi számú ingatlanok | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^41]
+| 21. | Az EFOP-2.2.0-16-2020-00009 azonosító számú projekt keretében megvalósuló „Új Nemzeti Biztonsági Laboratórium fejlesztése” beruházás | Budapest IX. kerület, belterület 38293/33 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^41]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^44]
+
+[^44]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

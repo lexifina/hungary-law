@@ -4,11 +4,11 @@
 
 (2)[^5] A 2. mellékletben foglalt táblázat 4., 5., 6., 11., 12., 13. és 14. sora szerinti beruházás kivételével a Beruházásokkal összefüggésben településképi bejelentési eljárásnak nincs helye.
 
-(3)[^6] A 2. mellékletben foglalt táblázat 3., 12., 13., 14.,19. és 20. sora szerinti beruházás esetében településképi véleményezési eljárást nem kell lefolytatni.
+(3)[^6] A 2. mellékletben foglalt táblázat 3., 12., 13., 14.,19., 20. és 21. sora szerinti beruházás esetében településképi véleményezési eljárást nem kell lefolytatni.
 
 (4)[^7] A 2. mellékletben foglalt táblázat 7. sora szerinti beruházás esetében építészeti-műszaki tervtanácsi véleményt nem kell beszerezni.
 
 [^4]: A 3. § (1) bekezdése a 261/2021. (V. 20.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (2) bekezdése a 134/2021. (III. 19.) Korm. rendelet 3. §-a, a 162/2021. (IV. 2.) Korm. rendelet 3. § a) pontja, a 212/2021. (IV. 29.) Korm. rendelet 4. § b) pontja, a 230/2021. (V. 5.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^6]: A 3. § (3) bekezdése a 184/2021. (IV. 16.) Korm. rendelet 3. §-a, a 212/2021. (IV. 29.) Korm. rendelet 4. § c) pontja, a 230/2021. (V. 5.) Korm. rendelet 2. § b) pontja, a 383/2021. (VI. 30.) Korm. rendelet 4. § d) pontja, a 384/2021. (VI. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdése a 184/2021. (IV. 16.) Korm. rendelet 3. §-a, a 212/2021. (IV. 29.) Korm. rendelet 4. § c) pontja, a 230/2021. (V. 5.) Korm. rendelet 2. § b) pontja, a 383/2021. (VI. 30.) Korm. rendelet 4. § d) pontja, a 384/2021. (VI. 30.) Korm. rendelet 3. § a) pontja, a 394/2021. (VII. 2.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^7]: A 3. § (4) bekezdését a 261/2021. (V. 20.) Korm. rendelet 1. §-a iktatta be.

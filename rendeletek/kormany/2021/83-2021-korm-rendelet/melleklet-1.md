@@ -1,4 +1,4 @@
-## 22. §[^38] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 384/2021. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr14.) megállapított 3. § (3) bekezdését, 7/F. §-át, valamint 2. mellékletében foglalt táblázat 20. sorát a Módr14. hatálybalépésekor[^39] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 23. §[^41] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 394/2021. (VII. 2.) Korm. rendelettel (a továbbiakban: Módr15.) megállapított 3. § (3) bekezdését, 7/M. §-át, 2. mellékletében foglalt táblázat 21. sorát a Módr15. hatálybalépésekor[^42] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^38]: A 22. §-t a 384/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^39]: A hatálybalépés időpontja 2021. július 1.
+[^41]: A 23. §-t a 394/2021. (VII. 2.) Korm. rendelet 2. §-a iktatta be.
+[^42]: A hatálybalépés időpontja 2021. július 3.
