@@ -1,5 +1,5 @@
-## 5. § Az R. 3. alcíme a következő 3/A. §-sal egészül ki:
-
-## „3/A. § Az Mt. 197. §-a a veszélyhelyzet ideje alatt nem alkalmazható.”
+## 5. §[^6]
 
 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
