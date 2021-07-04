@@ -1,7 +1,3 @@
-## 4. § Az R1. 23. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## [A Szabstv. 1. § (1) bekezdésétől eltérően szabálysértést követ el, aki]
-
-## „a) a 6/B. § (3) és (4) bekezdésében, a 6/C. § (2) bekezdés b) pontjában, illetve a 6/C. § (3) bekezdésében”
-
-## (meghatározott védelmi intézkedést megszegi.)
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „(4d) E rendelet alkalmazásában nem minősül rendezvénynek a kulturális esemény, ha az előadó-művészet valamely ágának fellépése céljából megtartott esemény
+## 2. §[^3]
 
-## a) az e művészet céljára rendelt helyszínen kerül megtartásra,
-
-## b) előre megváltott ülőhelyre szóló jegy ellenében látogatható, és
-
-## c) a néző az előadás időtartama alatt az előre megváltott ülőhelyén köteles tartózkodni.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
