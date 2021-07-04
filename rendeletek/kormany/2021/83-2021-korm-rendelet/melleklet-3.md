@@ -40,6 +40,10 @@
 
 | 21. | Az EFOP-2.2.0-16-2020-00009 azonosító számú projekt keretében megvalósuló „Új Nemzeti Biztonsági Laboratórium fejlesztése” beruházás | Budapest IX. kerület, belterület 38293/33 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^44]
+| 22. | A korábbi Büntetés-végrehajtási Központi Kórház átalakítása | Tököl külterület 0165/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^44]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+| 23. | A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet területén könnyűszerkezetes épületegyüttesek telepítése | Szirmabesenyő külterület 0124/16 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^56]
+
+[^56]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
