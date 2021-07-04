@@ -1,5 +1,6 @@
-## 2. § Hatályát veszti az egyes, a veszélyhelyzet ideje alatt alkalmazandó gazdasági szabályokról szóló 498/2020. (XI. 13.) Korm. rendelet 2/A. §-a.
+## 2. §[^3]
 
-3. § Ez a rendelet a védelmi intézkedések lépcsőzetes feloldásának hatodik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 365/2021. (VI. 30.) Korm. rendelet hatálybalépésének napján lép hatályba.[^1]
+3. § Ez a rendelet a védelmi intézkedések lépcsőzetes feloldásának hatodik fokozatára tekintettel a veszélyhelyzet idején alkalmazandó védelmi intézkedéseket szabályozó kormányrendeletek módosításáról szóló 365/2021. (VI. 30.) Korm. rendelet hatálybalépésének napján lép hatályba.[^4]
 
-[^1]: Az 5/2021. (VII. 2.) BM határozat alapján a hatálybalépés időpontja 2021. július 3.
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5/2021. (VII. 2.) BM határozat alapján a hatálybalépés időpontja 2021. július 3.
