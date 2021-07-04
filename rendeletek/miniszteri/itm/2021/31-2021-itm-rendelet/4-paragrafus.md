@@ -1,3 +1,5 @@
-## 3. § A Rendelet 13. § (1) bekezdésében az „a vizsgáztatást ellenőrző személy(ek) és a vizsgabiztos-jelölt” szövegrész helyébe az „a vizsgáztatást ellenőrző személy(ek), a vizsgabiztos-jelölt és a tolmács” szöveg lép.
+## 1–3. §[^2]
 
 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
