@@ -1,3 +1,0 @@
-## 4. § A Korm. rendelet 13/C. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Azonos vagy részben azonos azonosítható elszámolható költségek esetében a 2. § (1) bekezdés b) pontja szerinti támogatás más, helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatással halmozható, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez. A 2. § (1) bekezdés b) pontja szerinti támogatás különböző azonosítható elszámolható költségek esetében halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.”
