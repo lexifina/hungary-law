@@ -1,3 +1,3 @@
-## 3. § A szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet [a továbbiakban: 48/2004. (IV. 21.) FVM rendelet] 54. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „(1) Ha a NÉBIH vagy a megyei kormányhivatal ellenőrzési tevékenysége során az e rendeletben foglaltak megsértését állapítja meg, a törvény 27–28. §-a szerinti jogkövetkezmények alkalmazása mellett megtiltja a továbbszaporítás során nem igazolt származású vagy alkalmatlannak minősített növényállomány magtermésének vetőmagkénti felhasználását és forgalomba hozatalát.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
