@@ -1,4 +1,4 @@
-3/B. §[^10] (1) A Hivatal a jóváhagyásához kötött, a Ht. 92/H. § (7) bekezdésében meghatározott szerződések és kötelezettségvállalások esetében megvizsgálja, hogy
+3/B. §[^13] (1) A Hivatal a jóváhagyásához kötött, a Ht. 92/H. § (7) bekezdésében meghatározott szerződések és kötelezettségvállalások esetében megvizsgálja, hogy
 
 a) a szerződés vagy kötelezettségvállalás a Ht. 92/H. § (7) bekezdésében előírt határidőn túlterjeszkedik-e, vagy sem,
 
@@ -50,4 +50,4 @@ g) a közszolgáltató számára ötmillió forintot meg nem haladó mértékű 
 
 (9) A Hivatal a véglegessé vált záradékkal ellátott szerződésről vagy kötelezettségvállalásról hiteles elektronikus formában tájékoztatást ad a Koordináló szerv részére.
 
-[^10]: A 3/B. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^13]: A 3/B. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.

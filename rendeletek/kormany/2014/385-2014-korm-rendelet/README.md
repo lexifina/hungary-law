@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-385-20-
 | 2016-01-02 | 2014-385-20-22.7 | 2010: CXXX. törvény |
 | 2018-07-15 | 2014-385-20-22.8 | 105/2018. (VI. 15.) Korm. rendelet |
 | 2021-06-22 | 2014-385-20-22.9 | 312/2021. (VI. 7.) Korm. rendelet |
+| 2021-07-05 | 2014-385-20-22.10 | 382/2021. (VI. 30.) Korm. rendelet |

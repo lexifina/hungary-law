@@ -28,4 +28,23 @@ e) a módosítandó szerződéses jogviszonyról szóló eredeti dokumentum.
 
 (8) A miniszter a véglegessé vált, záradékkal ellátott szerződéses jogviszonyról szóló dokumentumról hiteles elektronikus formában tájékoztatást ad az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv) részére.
 
+(9)[^10] A Ht. 92/G. § (8) és (9) bekezdése szerinti hozzájárulás kiadása iránti kérelem tartalmazza
+
+a) a kérelmező nevét, székhelyét,
+
+b) a kérelmező cégjegyzékszámát, statisztikai számjelét,
+
+c) a cégjogi esemény alapjául szolgáló döntést,
+
+d) a cégjogi eseményt alátámasztó írásbeli indokolást és
+
+e) a cégjogi eseménynek a hulladékgazdálkodási közszolgáltatással kapcsolatos összefüggéseit, különösen annak szükségességét és a cégjogi eseménytől várt előny bemutatását.
+
+(10)[^11] A cégjogi esemény miniszteri jóváhagyására irányuló eljárásban az ügyintézési határidő 45 nap.
+
+(11)[^12] A miniszter a véglegessé vált határozatáról hiteles elektronikus formában tájékoztatást ad az állam által létrehozott Koordináló szerv részére.
+
 [^9]: A 3/A. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^10]: A 3/A. § (9) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^11]: A 3/A. § (10) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A 3/A. § (11) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
