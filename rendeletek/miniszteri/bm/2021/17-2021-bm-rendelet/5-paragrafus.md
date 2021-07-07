@@ -1,4 +1,4 @@
-## 4. § A 3. § szerinti részleges határzár időtartama harminc nap.
+## 4. §
 
 ## 3. Záró rendelkezések
 
