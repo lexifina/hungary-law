@@ -1,0 +1,1 @@
+## 4. § A FoNo VIII.-nak az OGYÉI közleményével történő módosítása az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában történő közzétételt követő 5. naptól alkalmazandó.
