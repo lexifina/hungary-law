@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-107-20-
 | 2020-06-18 | 2011-107-20-22.28 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-01-03 | 2011-107-20-22.29 | 723/2020. (XII. 31.) Korm. rendelet |
 | 2021-05-25 | 2011-107-20-22.30 | 253/2021. (V. 17.) Korm. rendelet |
+| 2021-07-07 | 2011-107-20-22.31 | 397/2021. (VII. 6.) Korm. rendelet |
