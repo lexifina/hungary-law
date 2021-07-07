@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1432-30
 | 2017-01-01 | 2015-1432-30-22.2 | 1853/2016. (XII. 27.) Korm. határozat |
 | 2017-05-30 | 2015-1432-30-22.3 | 1268/2017. (V. 29.) Korm. határozat |
 | 2021-01-01 | 2015-1432-30-22.4 | 1948/2020. (XII. 18.) Korm. határozat |
+| 2021-07-07 | 2015-1432-30-22.5 | 1447/2021. (VII. 6.) Korm. határozat |

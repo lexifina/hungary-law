@@ -24,7 +24,7 @@ f) véleményt nyilvánít és javaslatokat tesz az Országos Fogyatékosságüg
 
 7. A Bizottság szervezetével és működésével kapcsolatos napirendi pontok tárgyalására valamennyi állandó és eseti tagot meg kell hívni.
 
-8. A Bizottság állandó tagjai:
+8.[^1] A Bizottság állandó tagjai:
 
 a) a Bizottság elnöke, valamint
 
@@ -52,7 +52,7 @@ bj) a szakképzésért és felnőttképzésért és
 
 bk) az államháztartásért
 
-felelős miniszter által vezetett minisztérium képviseletében,
+felelős miniszter által vezetett, illetve a tevékenységét segítő minisztérium képviseletében,
 
 c) az oktatásért felelős miniszter által vezetett minisztérium képviseletében a köznevelési és a felsőoktatási területet képviselő egy-egy személy, továbbá
 
@@ -78,17 +78,17 @@ ag) az informatikáért és
 
 ah) a közlekedésért
 
-ai)[^1] a sportpolitikáért
+ai)[^2] a sportpolitikáért
 
 felelős miniszter által vezetett minisztérium képviseletében, továbbá
 
-b)[^2] az alábbi szervek egy-egy képviselője:
+b)[^3] az alábbi szervek egy-egy képviselője:
 
 ba) Központi Statisztikai Hivatal,
 
 bb) rehabilitációs és szociális hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
-bc)[^3] Nemzeti Szociálpolitikai Intézet,
+bc)[^4] Nemzeti Szociálpolitikai Intézet,
 
 bd) Állami Egészségügyi Ellátó Központ,
 
@@ -110,7 +110,7 @@ b) az Alapvető Jogok Biztosának Hivatala,
 
 c) a Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Kft.,
 
-d)[^4]
+d)[^5]
 
 e) a Nemzeti Hírközlési és Informatikai Tanács
 
@@ -118,7 +118,7 @@ egy-egy képviselője.
 
 11. A Bizottság elnöke, ha valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, további szakértőket hívhat meg, akik az elnök által meghatározott napirendi pontok tekintetében tanácskozási joggal vesznek részt a Bizottság ülésén.
 
-12.[^5] A 8. pont b)–c) alpontja és a 9. pont szerinti tagot az adott szervezet vezetője jelöli ki. Tagként
+12.[^6] A 8. pont b)–c) alpontja és a 9. pont szerinti tagot az adott szervezet vezetője jelöli ki. Tagként
 
 a) a szervezettel állami vezetői szolgálati jogviszonyban vagy állami vezetőként betöltött jogviszonyban álló személy,
 
@@ -142,8 +142,9 @@ jelölhető ki.
 
 19. Ez a határozat a közzétételét követő harmadik napon lép hatályba.
 
-[^1]: A 9. pont a) alpont ai) pontját az 1853/2016. (XII. 27.) Korm. határozat 51. pontja iktatta be.
-[^2]: A 9. pont b) alpontja az 1268/2017. (V. 29.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 9. pont b) alpont bc) alpontja az 1948/2020. (XII. 18.) Korm. határozat 3. pontjával megállapított szöveg.
-[^4]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
-[^5]: A 12. pont az 1268/2017. (V. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: A 8. pont b) alpont záró szövegrésze az 1447/2021. (VII. 6.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 9. pont a) alpont ai) pontját az 1853/2016. (XII. 27.) Korm. határozat 51. pontja iktatta be.
+[^3]: A 9. pont b) alpontja az 1268/2017. (V. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 9. pont b) alpont bc) alpontja az 1948/2020. (XII. 18.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
+[^6]: A 12. pont az 1268/2017. (V. 29.) Korm. határozat 2. pontjával megállapított szöveg.
