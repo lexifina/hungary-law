@@ -36,4 +36,6 @@
 
 ## 7. Ez a határozat a közzétételét követő napon lép hatályba, és 2024. január 1-jén hatályát veszti.
 
-1. melléklet az 1046/2020. (II. 18.) Korm. határozathoz
+1. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^2]
+
+[^2]: Az 1. melléklet az 1447/2021. (VII. 6.) Korm. határozat 6. pont a)–b) alpontja szerint módosított szöveg.

@@ -8,11 +8,11 @@
 
 | I.1. | Kiemelt figyelem fordítása az emberkereskedelem 18 év alatti áldozataira | A kormányzati és civil szervek forrásoktól függően biztosítanak prevenciós foglalkozásokat az általános és a középiskolákban és a gyermekotthonokban, azonban ezek a programok leginkább az ország azon területeire korlátozódnak, ahol a szervezet működési területe van. A szakemberek nem minden esetben biztosítottak. A cél az egységes tematikájú és gyakorlatú tananyag létrehozása. Fokozottan veszélyeztetett csoportok a mélyszegénységben élő társadalmi csoportok tagjai, ezen belül is a nők és a leánygyermekek. Az eredményes fellépés e társadalmi csoportok specifikumait tekintve sajátos eszközöket kíván meg. Szükséges figyelemmel lenni a szociokulturális sajátosságokra. Az intézkedés megfeleltethető az Európa Tanács Emberkereskedelem elleni fellépés szakértői csoportja (a továbbiakban: GRETA) 2015. évi első körös értékelő jelentése 6. ajánlásának, valamint a 2018. évi különjelentés, a 2019-es második körös értékelő jelentés, valamint az Egyesült Államok emberkereskedelem elleni jelentése (TIP Jelentés) ajánlásainak. | Belügyminisztérium (a továbbiakban: BM), Emberi Erőforrások Minisztériuma (a továbbiakban: EMMI), Országos Rendőr-főkapitányság (a továbbiakban: ORFK), Nemzeti Bűnmegelőzési Tanács (a továbbiakban: NBT), a Nemzeti Koordinációs Mechanizmus tagjai és az NGO Kerekasztal tagjai | európai uniós és kormányzati |
 
-| I.2. | Prevenciós célú tájékoztató anyagok kidolgozása és képzések, kampányok lebonyolítása, különösen a fokozottan veszélyeztetett társadalmi csoportok elérése érdekében | Az intézkedés megfeleltethető a GRETA 2015. évi első körös értékelő jelentése 6. ajánlásának, valamint a 2018. évi különjelentés, a 2019-es második körös értékelő jelentés, valamint az Egyesült Államok emberkereskedelem elleni jelentése (TIP Jelentés) ajánlásainak. | BM, EMMI, ORFK, NBT, a Nemzeti Koordinációs Mechanizmus tagjai és az NGO Kerekasztal tagjai | európai uniós és kormányzati |
+| I.2. | Prevenciós célú tájékoztató anyagok kidolgozása és képzések, kampányok lebonyolítása, különösen a fokozottan veszélyeztetett társadalmi csoportok elérése érdekében | Az intézkedés megfeleltethető a GRETA 2015. évi első körös értékelő jelentése 6. ajánlásának, valamint a 2018. évi különjelentés, a 2019-es második körös értékelő jelentés, valamint az Egyesült Államok emberkereskedelem elleni jelentése (TIP Jelentés) ajánlásainak. | BM, családokért felelős tárca nélküli miniszter (a továbbiakban: CSTNM), EMMI, ORFK, NBT, a Nemzeti Koordinációs Mechanizmus tagjai és az NGO Kerekasztal tagjai | európai uniós és kormányzati |
 
 | I.3. | Az internet lehetőségeinek kihasználása a szexuális és a munkacélú kizsákmányolás terén az áldozattá válás megelőzésére, különös tekintettel a 18 éven aluli személyek veszélyeztetettségére | Az adott gyakorlati kihívásra reagáló célkitűzés szerepeltetése, illetve a hazai intézkedések közelítése a nemzetközi gyakorlathoz indokolt. | BM, EMMI, Pénzügyminisztérium (a továbbiakban: PM), Innovációs és Technológiai Minisztérium (a továbbiakban: ITM), NBT, ORFK, a Nemzeti Koordinációs Mechanizmus tagjai és az NGO Kerekasztal tagjai | európai uniós és kormányzati |
 
-| I.4. | Az ismételt áldozattá válás elkerülése érdekében egy, az azonosított és ellátásban részesített áldozatok életének, védelmének nyomon követését szolgálni hivatott utánkövető rendszer felállítása és működtetése | A Nemzeti Koordinációs Mechanizmus tagjainak jelzése alapján indokolt a célkitűzés szerepeltetése. | BM, EMMI, Igazságügyi Minisztérium (a továbbiakban: IM) | európai uniós és kormányzati |
+| I.4. | Az ismételt áldozattá válás elkerülése érdekében egy, az azonosított és ellátásban részesített áldozatok életének, védelmének nyomon követését szolgálni hivatott utánkövető rendszer felállítása és működtetése | A Nemzeti Koordinációs Mechanizmus tagjainak jelzése alapján indokolt a célkitűzés szerepeltetése. | BM, CSTNM, EMMI, Igazságügyi Minisztérium (a továbbiakban: IM) | európai uniós és kormányzati |
 
 | I.5. | Az emberkereskedelem témájának köz- és felsőoktatási tananyagba, valamint egyes szakosított szolgálatok vizsgaanyagaiba történő integrálása | A korábbi stratégia tapasztalatai, a Nemzeti Koordinációs Mechanizmus tagjainak jelzése, illetve a gyakorlati kihívások alapján indokolt a célkitűzés ismételt szerepeltetése. | BM, EMMI | európai uniós és kormányzati |
 
@@ -24,7 +24,7 @@
 
 | II.2. | A családi és szociális igazgatás területén az önkormányzatok szervezettségének továbbfejlesztése, a védőnői és a gyámügyi rendszer erősítése helyi és megyei szinten | A Nemzeti Koordinációs Mechanizmus tagjainak jelzése alapján és a gyakorlati kihívások kezelése érdekében indokolt a célkitűzés szerepeltetése. | BM, EMMI, Miniszterelnökség (a továbbiakban: ME) | európai uniós és kormányzati |
 
-| II.3. | Az ellátórendszer elemeinek és tagjainak egyértelmű meghatározása, módszertani útmutatók kidolgozása | Az intézkedés megfeleltethető a GRETA 2015. évi első körös értékelő jelentése 16. ajánlásának, valamint a 2019-es második körös értékelő jelentés ajánlásainak. | BM, EMMI, IM, ORFK | európai uniós és kormányzati |
+| II.3. | Az ellátórendszer elemeinek és tagjainak egyértelmű meghatározása, módszertani útmutatók kidolgozása | Az intézkedés megfeleltethető a GRETA 2015. évi első körös értékelő jelentése 16. ajánlásának, valamint a 2019-es második körös értékelő jelentés ajánlásainak. | BM, CSTNM, EMMI, IM, ORFK | európai uniós és kormányzati |
 
 | II.4. | Az áldozatazonosítást végző szervek körének bővítése, az áldozattá válásra utaló jelek listájának felülvizsgálatával, illetve az adatszolgáltatások nyomon követésével egyidejűleg | A Nemzeti Koordinációs Mechanizmus tagjainak jelzése alapján indokolt a célkitűzés szerepeltetése. | IM | európai uniós és kormányzati |
 
@@ -54,7 +54,7 @@
 
 | IV.5. | Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővítése | A korábbi stratégia tapasztalatai, illetve a Nemzeti Koordinációs Mechanizmus tagjainak jelzése alapján indokolt a célkitűzés ismételt szerepeltetése. | BM | európai uniós és kormányzati |
 
-2. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^2]
+2. melléklet az 1046/2020. (II. 18.) Korm. határozathoz[^3]
 
 ## Az emberkereskedelem elleni küzdelemről szóló 2020–2023 közötti nemzeti stratégia végrehajtását szolgáló, 2020–2021 közötti időszakban végrehajtandó intézkedési terv
 
@@ -120,7 +120,7 @@ I. Megelőzés
 
 | I.1.5. További menekítőautók beszerzésének, fenntartásának támogatása és forrás elkülönítése a kijelölt területi gyermekvédelmi szakszolgáltatást nyújtó intézmények számára a gyermekvédelmi szakellátásban részesülő kiskorú áldozatok biztonságos szállításához, valamint a felnőtt áldozatokat fogadó átmeneti szállásokat fenntartó szervezeteknek a Magyarországon azonosított felnőtt áldozatok védett szálláshelyre történő elszállításához |
 
-| A | Felelős: | EMMI, PM |
+| A | Felelős: | CSTNM, EMMI, PM |
 
 | B | Partner: | kijelölt területi gyermekvédelmi szakszolgáltatást nyújtó intézmények, átmeneti szállásokat fenntartó szervezetek |
 
@@ -160,7 +160,7 @@ I. Megelőzés
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
 
-| I.1.8. További Barnahus modell3 szerinti szolgáltatások infrastrukturális feltételei megteremtésének és működésének támogatása, az országos lefedettség biztosítása érdekében |
+| I.1.8. További Barnahus modell4 szerinti szolgáltatások infrastrukturális feltételei megteremtésének és működésének támogatása, az országos lefedettség biztosítása érdekében |
 
 | A | Felelős: | EMMI, PM |
 
@@ -174,7 +174,7 @@ I. Megelőzés
 
 | F | Forrás: | hazai költségvetés terhére megvalósítandó Előzmények: a már két Barnahus működtetésre beépülően: 74 000 000 Ft/év forrást biztosít a központi költségvetés 2020-tól. (A 2020. évi központi költségvetés biztosítja.) További egy Barnahus kialakítására 30 000 000 Ft. (A 2020. évi központi költségvetésben rendelkezésre áll.) Forrásigény: 2021-ben további két Barnahus kialakítására: 70 000 000 Ft, valamint 2021-től a 2020-ban saját intézményi forrásból (nem központi költségvetési többletforrásból) kialakított további egy Barnahus működtetésre beépülően: 37 000 000 Ft/év. A 2021-re bemutatott forrásallokációkra vonatkozó döntések még nem születtek meg. |
 
-## 3 A modell lényege, hogy a szexuális abúzus által traumatizált gyermekek ne legyenek kitéve a büntetőeljárás hosszas procedúrájának, ne történjen reviktimizáció a többszöri meghallgatások következtében. A gyermek számára megfelelő környezetben mondhassa el, fejezhesse ki a vele történteket, az egyszeri meghallgatás és vizsgálat során szerzett információk pedig bizonyítékul szolgálhatnak a büntetőeljárások során. A Barnahus-modell a felek egyenlőségének elvét is biztosítja, hiszen a rendszerben a gyanúsított jogai is védve vannak.
+## 4 A modell lényege, hogy a szexuális abúzus által traumatizált gyermekek ne legyenek kitéve a büntetőeljárás hosszas procedúrájának, ne történjen reviktimizáció a többszöri meghallgatások következtében. A gyermek számára megfelelő környezetben mondhassa el, fejezhesse ki a vele történteket, az egyszeri meghallgatás és vizsgálat során szerzett információk pedig bizonyítékul szolgálhatnak a büntetőeljárások során. A Barnahus-modell a felek egyenlőségének elvét is biztosítja, hiszen a rendszerben a gyanúsított jogai is védve vannak.
 
 | I.1.9. A Barnahus modell szerinti szolgáltatás büntetőeljárásban történő alkalmazhatóságára vonatkozó jogi szabályozás kialakítása |
 
@@ -192,7 +192,7 @@ I. Megelőzés
 
 | I.1.10. Módszertani anyag kidolgozása köznevelési intézményekben és ifjúsági közösségi terekben, ifjúsági táborokban megvalósítandó prevenciós foglalkozásokra |
 
-| A | Felelős: | EMMI |
+| A | Felelős: | CSTNM |
 
 | B | Partner: | BM |
 
@@ -268,7 +268,7 @@ I. Megelőzés
 
 | I.4.2. Az átmeneti szállásokról, illetve a félutas kiléptető házakból kikerült áldozatok ismételt áldozattá válási gyakoriságának vizsgálata és az eredmények alapján az ellátórendszerben nyújtott szolgáltatások további fejlesztést igénylő területeinek beazonosítása |
 
-| A | Felelős: | EMMI |
+| A | Felelős: | CSTNM |
 
 | B | Partner: | – |
 
@@ -412,7 +412,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | F | Forrás: | – |
 
-| II.1.7. Az EKAT rendszerrel4 kapcsolatos fejlesztések megvalósítása |
+| II.1.7. Az EKAT rendszerrel5 kapcsolatos fejlesztések megvalósítása |
 
 | A | Felelős: | IM |
 
@@ -426,7 +426,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
 
-## 4 Az emberkereskedelem áldozatainak azonosítására szolgáló webalapú rendszer, amely az Igazságügyi Minisztérium fejlesztési projektje keretében került kialakításra.
+## 5 Az emberkereskedelem áldozatainak azonosítására szolgáló webalapú rendszer, amely az Igazságügyi Minisztérium fejlesztési projektje keretében került kialakításra.
 
 | II.1.8. Együttműködési megállapodások megkötése az Innovációs és Technológiai Minisztérium hatáskörrel rendelkező egysége és a rendőrség, valamint egyéb partnerszervek bevonásával lebonyolított, rendszeres és koordinált munkaügyi ellenőrzések érdekében |
 
@@ -458,7 +458,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.1.10. A kizsákmányolás formájára reagáló segítségnyújtó szolgáltatások, különös tekintettel a családok átmeneti otthonai és az átmeneti szállások kapacitásainak, kihasználásának folyamatos monitorozása, a monitoring eredményei alapján – amennyiben az szükséges –, a rendelkezésre álló kapacitások bővítése |
 
-| A | Felelős: | EMMI, PM, BM |
+| A | Felelős: | CSTNM, EMMI, PM, BM |
 
 | B | Partner: | IM |
 
@@ -576,7 +576,7 @@ II. Áldozatazonosítás, áldozatirányítás, áldozatsegítés
 
 | II.4.3. A személyes gondoskodást nyújtó, azonosítást végző szervként nevesített, képzésben részesült szolgáltatók részéről az adatszolgáltatások megvalósulásának nyomon követése |
 
-| A | Felelős: | EMMI |
+| A | Felelős: | CSTNM, EMMI |
 
 | B | Partner: | IM |
 
@@ -788,7 +788,7 @@ IV.2. Többoldalú együttműködések kialakítása az emberkereskedelem áldoz
 
 | IV.2.1. Az országos lefedettség elérése érdekében további szolgáltató szervezetek bevonása a reintegrációt biztosító ellátások fenntartásába |
 
-| A | Felelős: | EMMI |
+| A | Felelős: | CSTNM |
 
 | B | Partner: | IM |
 
@@ -816,7 +816,7 @@ IV.3. Nemzetközi egyezményekben foglalt vállalásoknak és kötelezettségekn
 
 | F | Forrás: | – |
 
-| IV.3.2. Csatlakozás lehetőségének a vizsgálata az Európa Tanács szervkereskedelem elleni egyezményéhez5 |
+| IV.3.2. Csatlakozás lehetőségének a vizsgálata az Európa Tanács szervkereskedelem elleni egyezményéhez6 |
 
 | A | Felelős: | IM, EMMI |
 
@@ -830,7 +830,7 @@ IV.3. Nemzetközi egyezményekben foglalt vállalásoknak és kötelezettségekn
 
 | F | Forrás: | – |
 
-5 Az Európa Tanács Miniszteri Bizottsága 2014. július 9-én elfogadta a Tanács Emberi szervek kereskedelme elleni egyezményét, amelynek aláírását 2015. március 25-én nyitották meg.
+6 Az Európa Tanács Miniszteri Bizottsága 2014. július 9-én elfogadta a Tanács Emberi szervek kereskedelme elleni egyezményét, amelynek aláírását 2015. március 25-én nyitották meg.
 
 IV.4. Párbeszéd erősítése a Nemzeti Koordinációs Mechanizmus és az NGO Kerekasztal tagjai között
 
@@ -892,4 +892,4 @@ IV.5. Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővít�
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
 
-[^2]: A 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 8. pontja, az 1447/2021. (VII. 6.) Korm. határozat 6. pont b)–c) alpontja szerint módosított szöveg.
