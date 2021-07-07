@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-300-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-06-02 | 2021-300-20-22.1 | 300/2021. (VI. 1.) Korm. rendelet |
+| 2021-07-07 | 2021-300-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
