@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-44-20-0
 | 2020-06-18 | 2004-44-20-0M.46 | 21/2020. (VI. 17.) EMMI rendelet |
 | 2020-10-31 | 2004-44-20-0M.47 | 37/2020. (X. 30.) EMMI rendelet |
 | 2021-01-01 | 2004-44-20-0M.48 | 29/2017. (X. 31.) EMMI rendelet |
+| 2021-07-07 | 2004-44-20-0M.49 | 29/2021. (VII. 6.) EMMI rendelet |

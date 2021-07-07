@@ -1,3 +1,3 @@
-4. §[^18]
+4. §[^11]
 
-[^18]: Az „Egyedi gyógyszerbeszerzés igénylése” alcímet (4. §) a 8/2018. (II. 13.) EMMI rendelet 23. § c) pontja hatályon kívül helyezte.
+[^11]: Az „Egyedi gyógyszerbeszerzés igénylése” alcímet (4. §) a 8/2018. (II. 13.) EMMI rendelet 23. § c) pontja hatályon kívül helyezte.

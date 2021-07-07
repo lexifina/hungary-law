@@ -1,4 +1,4 @@
-## 22/B. §[^128] A gyógyszerbiztonsági ellenőrzés során a gyógyszerek kiadását kizárólag gyógyszerész végezheti, illetve a gyógyszerkiadási folyamatba gyógyszerész bevonása szükséges:
+## 22/B. §[^122] A gyógyszerbiztonsági ellenőrzés során a gyógyszerek kiadását kizárólag gyógyszerész végezheti, illetve a gyógyszerkiadási folyamatba gyógyszerész bevonása szükséges:
 
 a) a gyógyszerek egyidejű kiadásakor klinikailag jelentős interakció észlelése esetén,
 
@@ -12,4 +12,4 @@ e) a beteg kérésére, vagy
 
 f) a gyógyszertári szakasszisztens kezdeményezésére.
 
-[^128]: A 22/B. §-t az 52/2012. (XII. 27.) EMMI rendelet 10. §-a iktatta be.
+[^122]: A 22/B. §-t az 52/2012. (XII. 27.) EMMI rendelet 10. §-a iktatta be.
