@@ -1,1 +1,0 @@
-Az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény 24. § (2) bekezdés g) pontjában, valamint a gyógyszertárak létesítéséről és működésük egyes szabályairól szóló 1994. évi LIV. törvény 42. § (2) bekezdésének a) pontjában kapott felhatalmazás alapján az alábbiakat rendelem el:
