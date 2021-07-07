@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-53-20-0
 | 2018-07-05 | 2004-53-20-0M.23 | 5/2005. (III. 3.) EüM rendelet |
 | 2019-04-30 | 2004-53-20-0M.24 | 9/2019. (IV. 29.) EMMI rendelet |
 | 2021-02-09 | 2004-53-20-0M.25 | 9/2019. (IV. 29.) EMMI rendelet |
+| 2021-07-07 | 2004-53-20-0M.26 | 9/2019. (IV. 29.) EMMI rendelet |
