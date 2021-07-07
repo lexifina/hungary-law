@@ -1,6 +1,4 @@
-## 21. §[^24] A 9. és 10. mellékletnek a képesítési követelményekkel összefüggésben egyes belügyi tárgyú miniszteri rendeletek módosításáról szóló 14/2021. (VI. 16.) BM rendelet (a továbbiakban: Módr.4.) hatálybalépését[^25] megelőző napon hatályos szabályai szerinti, legkésőbb 2022. december 31-ig megszerzett képesítés a Módr.4. hatálybalépését követően is megfelel az e rendelet szerinti rendvédelmi végzettségnek.
-
-1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^26]
+1. melléklet a 30/2015. (VI. 16.) BM rendelethez[^27]
 
 A szolgálati beosztások besorolásához szükséges munkakör-értékelés végrehajtásának módszertana és eljárási rendje
 
@@ -110,6 +108,4 @@ II. Eljárásrend
 
 4. Ha indokolt az új szolgálati beosztás létrehozása, a Belügyminisztérium humánigazgatási szerve javaslatot tesz a rendszeresített szolgálati beosztások módosítására, az erre vonatkozó jogszabály előkészítésére.
 
-[^24]: A 21. §-t a 14/2021. (VI. 16.) BM rendelet 19. §-a iktatta be.
-[^25]: A hatálybalépés időpontja 2021. június 19.
-[^26]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés b) pontja szerint módosított szöveg.

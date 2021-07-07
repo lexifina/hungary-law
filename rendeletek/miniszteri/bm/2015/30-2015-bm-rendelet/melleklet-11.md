@@ -234,7 +234,7 @@
 
 ## 3.3.5. a Kun Béla zászlósképző iskolán szerzett büntetés-végrehajtási tiszthelyettesi képzettséget.
 
-11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^37]
+11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^38]
 
 A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások
 
@@ -398,4 +398,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^37]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a szerint módosított szöveg.
+[^38]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a szerint módosított szöveg.
