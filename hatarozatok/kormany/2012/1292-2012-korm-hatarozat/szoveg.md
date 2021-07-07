@@ -18,11 +18,11 @@ e) gyermek- és ifjúságpolitikával kapcsolatos jogszabály-módosításokat, 
 
 5. A Tanács tagjai:
 
-a) a miniszter által vezetett minisztérium részéről a gyermek- és ifjúságpolitikai szakterület képviselője;
+a)[^1] a miniszter tevékenységét segítő minisztérium részéről a gyermek- és ifjúságpolitikai szakterület képviselője;
 
 b) az országos önkormányzati érdekszövetségek által közösen jelölt egy személy;
 
-c)[^1] az alábbi szervezetek által jelölt, az ifjúsági területen tevékenykedő egy-egy személy:
+c)[^2] az alábbi szervezetek által jelölt, az ifjúsági területen tevékenykedő egy-egy személy:
 
 ca) Magyar Ifjúsági Konferencia Egyesület,
 
@@ -64,9 +64,9 @@ a) a megbízatásra méltatlanná válik,
 
 b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátni.
 
-9a.[^2] A Tanács ülésein állandó meghívottként tanácskozási joggal részt vesz a Roma Szakkollégiumok Egyesület által jelölt egy személy.
+9a.[^3] A Tanács ülésein állandó meghívottként tanácskozási joggal részt vesz a Roma Szakkollégiumok Egyesület által jelölt egy személy.
 
-10.[^3] A Tanács működtetésével kapcsolatos titkársági teendőket az Emberi Erőforrás Támogatáskezelő látja el.
+10.[^4] A Tanács működtetésével kapcsolatos titkársági teendőket az Emberi Erőforrás Támogatáskezelő látja el.
 
 11. A Tanács a miniszter által – a Tanács tagjainak előzetes véleményére figyelemmel – meghatározott ügyrend és munkaterv szerint, de legalább negyedévente ülésezik. A Tanács feladatainak végrehajtásáról évente két alkalommal írásban tájékoztatja a minisztert.
 
@@ -76,6 +76,7 @@ b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátn
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 5. pont c) alpontja az 1671/2018. (XII. 10.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 9a. pontot az 1671/2018. (XII. 10.) Korm. határozat 2. pontja iktatta be.
-[^3]: A 10. pont az 1428/2016. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 5. pont a) alpontja az 1447/2021. (VII. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: Az 5. pont c) alpontja az 1671/2018. (XII. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 9a. pontot az 1671/2018. (XII. 10.) Korm. határozat 2. pontja iktatta be.
+[^4]: A 10. pont az 1428/2016. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
