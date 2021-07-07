@@ -1,1 +1,0 @@
-## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és az Oroszországi Föderáció Kormánya között a földgáz Magyar Köztársaság területén történő tranzitszállítását szolgáló gázvezeték megépítésével kapcsolatos együttműködésről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
