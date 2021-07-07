@@ -6,4 +6,7 @@
 
 (3) A közvetlen lakossági ellátás biztosításához szükséges gyógyszerkészlet – a magisztrális gyógyszerek készítéséhez szükséges gyógyszeranyagok kivételével – az intézeten belüli felhasználásra szolgáló készlettől elkülönítetten, kizárólag a külön jogszabály szerint gyógyszer-nagykereskedelmi engedéllyel rendelkező gazdálkodó szervezettől szerezhető be és a Gyftv. 51. § (2) bekezdése szerint elkülönítve tárolható.
 
+(4)[^120] Magyarország területére elrendelt veszélyhelyzet időtartama alatt a fekvőbeteg-gyógyintézeti ellátás biztosítása érdekében a közvetlen lakossági gyógyszerellátás céljára beszerzett gyógyszerek a fekvőbeteg-ellátásban felhasználhatók. A gyógyszerek intézeti gyógyszertáron belüli átadását a fekvőbeteg-gyógyintézeti és közvetlen lakossági gyógyszerellátáshoz kapcsolódó nyilvántartásban is fel kell tüntetni.
+
 [^119]: A 27. § (1) bekezdése az 56/2009. (XII. 30.) EüM rendelet 17. §-ával megállapított szöveg.
+[^120]: A 27. § (4) bekezdését a 29/2021. (VII. 6.) EMMI rendelet 15. §-a iktatta be.
