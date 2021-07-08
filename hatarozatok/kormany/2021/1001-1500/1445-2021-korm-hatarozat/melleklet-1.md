@@ -12,7 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat C:8 mezőjében az „51,28” szövegrész helyébe az „51,39” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1445/2021. (VII. 6.) Korm. határozathoz
 
@@ -21,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.9-17- 2018-00027 | Bodrogkeresztúr turisztikai attraktivitásának fejlesztése | Bodrogkeresztúrért Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető) Bodrogkeresztúr Község Önkormányzata, Bodrogkeresztúr Református Egyházközség, Magyar Turisztikai Szövetség Alapítvány, Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság, Tokaj Borvidék Fejlődéséért Nonprofit Korlátolt Felelősségű Társaság | 1 499 616 600 | 111 830 826 | 1 611 447 426 | A fejlesztés keretében Bodrogkeresztúr központi része (történelmi településközpont – világörökségi magterület) teljesen megújul, ami hozzájárul a település turisztikai vonzerejének növeléséhez. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
