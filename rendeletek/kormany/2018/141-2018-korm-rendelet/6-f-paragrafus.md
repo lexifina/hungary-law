@@ -1,4 +1,4 @@
-6/F. §[^33] (1) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/F. §[^34] (1) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -28,4 +28,4 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (5) A 2. mellékletben foglalt táblázat 35. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:35 mezőjében megjelölt telkeken a beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani, a telekhatárokon is csatlakozhatnak egymáshoz.
 
-[^33]: A 6/F. §-t a 23/2020. (II. 20.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 6/F. §-t a 23/2020. (II. 20.) Korm. rendelet 1. §-a iktatta be.
