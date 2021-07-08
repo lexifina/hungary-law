@@ -20,7 +20,7 @@ h) az iskolai felvételi eljárás rendjét, az iskolai vizsgáztatás rendjét,
 
 i) az érettségi vizsga kivételével a vizsgák rendjét,
 
-j)
+j) a 9/A. § (1) bekezdése szerinti nyilvántartás vezetésére jogosult szervet rendeletben jelölje ki, valamint a nyilvántartásba vétel részletes feltételeit, a nyilvántartás vezetésére és közzétételére vonatkozó részletes szabályokat,
 
 k) az oktatási jogok biztosának feladatait, eljárását, továbbá az általa vezetett hivatal szervezetének és működésének szabályait,
 

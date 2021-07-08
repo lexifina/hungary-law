@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2021-05-28 | 2021. évi LII. törvény | 2011-190-00-00.64 |
 | 2021-06-30 | 9/2021. (III. 17.) AB határozat | 2011-190-00-00.65 |
 | 2021-07-01 | 2021. évi LXXXIII. törvény | 2011-190-00-00.66 |
+| 2021-07-08 | 2021. évi LXXIX. törvény | 2011-190-00-00.67 |
