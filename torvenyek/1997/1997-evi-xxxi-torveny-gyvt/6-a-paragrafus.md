@@ -1,0 +1,1 @@
+6/A. § E törvényben foglalt célok és gyermeki jogok biztosítása érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
