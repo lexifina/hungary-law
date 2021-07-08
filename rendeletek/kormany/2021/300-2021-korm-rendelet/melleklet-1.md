@@ -1,3 +1,5 @@
+## 6. §[^3]
+
 1. melléklet a 300/2021. (VI. 1.) Korm. rendelethez[^4]
 
 ## JEGYZŐKÖNYV
@@ -24,4 +26,5 @@ Az Oroszországi Föderáció
 
 Kormánya nevében
 
+[^3]: A 6. § 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: Az 1. melléklet a 4. § (2) bekezdése alapján a Jegyzőkönyv 2. Cikkében meghatározott időpontban lép hatályba. A 42/2021. (VII. 8.) KKM közlemény alapján a hatálybalépés időpontja 2021. július 7.
