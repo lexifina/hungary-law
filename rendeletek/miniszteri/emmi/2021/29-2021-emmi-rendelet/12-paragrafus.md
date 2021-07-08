@@ -1,3 +1,3 @@
-## 11. § Az R2. 11. §-a a következő (3) bekezdéssel egészül ki:
+## 11. §[^14]
 
-## „(3) Magyarország területére elrendelt veszélyhelyzet időtartama alatt a nagykereskedő elsősorban az ügyeleti szolgálatra kijelölt vagy az OGYÉI által az adott település gyógyszerellátásának biztosítására kijelölt gyógyszertár megrendelését köteles teljesíteni.”
+[^14]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
