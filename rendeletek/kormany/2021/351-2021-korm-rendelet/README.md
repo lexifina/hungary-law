@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-351-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-06-25 | 2021-351-20-22.1 | 351/2021. (VI. 24.) Korm. rendelet |
+| 2021-07-08 | 2021-351-20-22.2 | 399/2021. (VII. 7.) Korm. rendelet |

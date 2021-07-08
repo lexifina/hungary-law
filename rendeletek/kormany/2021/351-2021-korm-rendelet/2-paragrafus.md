@@ -7,3 +7,7 @@
 (4) A rendezvényszervező a koronavírus-világjárvány terjedésének megakadályozása céljából a tisztavató ünnepségen betartandó magatartási szabályokat állapíthat meg.
 
 (5) A rendezvényszervező a tisztavató ünnepségen részt vevőket a (4) bekezdés szerinti feltételekről tájékoztatja. A feltételek betartatása a rendezvényszervező felelőssége.
+
+(6)[^1] Az (1)–(5) bekezdés rendelkezései irányadók a honvédelmi szervezet által szervezett honvéd tiszt- és altisztavató, valamint a rendvédelmi képző intézmények által szervezett rendőr tiszthelyettes és rendőrjárőr kibocsátó ünnepségekre is.
+
+[^1]: A 2. § (6) bekezdését a 399/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
