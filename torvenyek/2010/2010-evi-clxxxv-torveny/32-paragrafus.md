@@ -14,6 +14,8 @@ figyelemfelhívás.
 
 (4) Politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételekor a közzététel megrendelőjét egyértelműen meg kell nevezni.
 
+(4a) Nem minősül közérdekű közleménynek vagy társadalmi célú reklámnak az olyan műsorszám, amely alkalmas a gyermekek megfelelő fizikai, szellemi és erkölcsi fejlődésének a kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme a szexualitás öncélú ábrázolása, a pornográfia, továbbá a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának, valamint a homoszexualitásnak a népszerűsítése, megjelenítése.
+
 (5) A közérdekű közlemény közzétételéért a médiaszolgáltató ellenszolgáltatást nem kérhet.
 
 (6) A közszolgálati, a közösségi és a jelentős befolyásoló erejű médiaszolgáltató köteles közzétenni a hivatásos katasztrófavédelmi szerv közérdekű közleményét, amennyiben az az emberi életet vagy vagyonbiztonságot veszélyeztető vagy károsító események várható bekövetkezéséről, a már bekövetkezett ilyen események következményeinek enyhítéséről, elvégzendő feladatokról tájékoztat. A közzétételre a médiaszolgáltató legnagyobb éves átlagos közönségaránnyal rendelkező médiaszolgáltatásában, és – a 36. § (6) bekezdésben foglalt esetet kivéve – a médiaszolgáltató által meghatározott módon kerül sor. A közzétételi kötelezettség ezen események helyszíne szerinti vételkörzetben működő helyi médiaszolgáltatás médiaszolgáltatóját is terheli.
