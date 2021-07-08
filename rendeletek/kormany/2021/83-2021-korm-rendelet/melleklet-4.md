@@ -6,6 +6,6 @@
 
 | 3. | Semmelweis Egyetem, Anatómiai Tömb, Semmelweis Egyetem II. Sz. Patológiai Intézet Nemzeti Orvosi Innovációs Képző Központ építése | Budapest IX. kerület, belterület 37192 helyrajzi számú ingatlan | 2022. 01. 01. – 2025. 12. 31. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^57]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^60]
 
-[^57]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

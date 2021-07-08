@@ -14,7 +14,9 @@
 
 | 6. | Badacsonytördemic turisztikai attraktivitásának javítása | Badacsonytördemic belterület 32/2, 32/3, 32/4, 32/5, 32/6, 33, 234/1, 234/4, 234/5, 234/6, 234/7, 234/8, 414 és 1016/3 helyrajzi számú ingatlanok. | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 7. | Bolgár Oktatási és Kulturális Központ megépítése | Budapest belterület 38287/5 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 7. | Bolgár Oktatási és Kulturális Központ megépítése | Budapest belterület 38257/5 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 8. | Nemzeti Védelmi Szolgálat új irodaépület fejlesztése | Budapest belterület 38897 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalt vezető kormánymegbízott |
 
 | 10. | A Csongrád-Csanád Megyei Egészségügyi Ellátó Központ honvéd egészségügyi ellátás rendszeréhez történő csatlakozása érdekében szükséges, továbbá a kórházfejlesztési pályázat keretében megvalósuló beruházások | Hódmezővásárhely belterület 1371/4 helyrajzi számú ingatlan | Csongrád-Csanád Megyei Kormányhivatalát vezető kormánymegbízott |
 
@@ -44,6 +46,6 @@
 
 | 23. | A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet területén könnyűszerkezetes épületegyüttesek telepítése | Szirmabesenyő külterület 0124/16 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^56]
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^59]
 
-[^56]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^59]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
