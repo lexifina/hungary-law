@@ -2,9 +2,9 @@
 
 ## CÉLOK ÉS ALAPELVEK
 
-1. § (1) Az állam – önmagukban vett méltóságuk és értékük miatt is – védi a család és a házasság intézményét.
+1. § (1) Az állam – önmagukban vett méltóságuk és értékük miatt is – védi a család és a házasság intézményét, különös tekintettel a családi kapcsolat alapját képező szülő-gyermek viszonyra, melyben az anya nő, az apa férfi.
 
-(2) A rendezett családi viszonyok védelme különös jelentőséggel bír a testi, a szellemi és a lelki egészség megóvása érdekében.
+(2) A rendezett családi viszonyok védelme és a gyermekek születési nemének megfelelő önazonossághoz való jogának érvényesülése különös jelentőséggel bír a testi, a szellemi és a lelki egészség megóvása érdekében.
 
 (3) Az állam a nemzet fennmaradását biztosító népesedési folyamatok érdekében külön törvényekben foglaltak szerint támogatja a gyermekvállalást, és segíti a szülők gyermekvállalási szándékainak megvalósulását.
 
