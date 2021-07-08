@@ -26,6 +26,8 @@ b) a tanítási hetek szervezésére, a tanítás nélküli pihenőnapok kiadás
 
 c) a tanuló- és gyermekbaleset megelőzésére vonatkozó előírásokat szándékosan megszegi,
 
+d) a köznevelési intézményben tartható foglalkozások tartására, vagy azok törvényessége ellenőrzésére vonatkozó rendelkezéseket megszegi,
+
 szabálysértést követ el.
 
 (4) Aki
