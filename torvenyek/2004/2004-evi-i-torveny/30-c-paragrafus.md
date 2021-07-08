@@ -6,21 +6,21 @@ b) más állam joga alapján nyilvántartásba vett és jogszerűen működő ne
 
 (2) Eredeti alapítás esetén a miniszteri támogató nyilatkozat kiadása iránti kérelemhez mellékelni kell
 
-a) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetséget sportágának hivatalos nemzetközi szövetségeként külön nyilatkozatban el fogja ismerni, vagy
+a) a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozatot, vagy
 
-b) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetséget tagjaként fogja elismerni, vagy
+b) a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozatot.
 
-c) a GAISF szándéknyilatkozatát arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státusszal fog rendelkezni
+(3) Amennyiben a miniszteri támogató nyilatkozat kiadására a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozat alapján került sor, a nemzetközi sportszövetség köteles a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozatot a nyilvántartásba vételtől számított 180 napon belül a sportpolitikáért felelős miniszter részére megküldeni. Amennyiben a határidő eredménytelenül telik el, a sportpolitikáért felelős miniszter köteles erről a körülményről a bíróságot haladéktalanul tájékoztatni. A bíróság a tájékoztatás átvételét követően elrendeli a nemzetközi sportszövetség nyilvántartásból való törlését.
 
-[az a)–c) pontban foglaltak a továbbiakban együtt: elismerő nyilatkozat].
-
-(3) Amennyiben a miniszteri támogató nyilatkozat kiadására a (2) bekezdés szerinti szándéknyilatkozat alapján került sor, a nemzetközi sportszövetség köteles az elismerő nyilatkozatot a nyilvántartásba vételtől számított 180 napon belül a sportpolitikáért felelős miniszter részére megküldeni. Amennyiben a határidő eredménytelenül telik el, a sportpolitikáért felelős miniszter köteles erről a körülményről a bíróságot haladéktalanul tájékoztatni. A bíróság a tájékoztatás átvételét követően elrendeli a nemzetközi sportszövetség nyilvántartásból való törlését.
-
-(4) Eredeti alapítás esetén a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter és a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
+(4) Eredeti alapítás esetén a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter és a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
 
 a) a 30/A. § (2) és (3) bekezdésében foglaltaknak való megfelelést, valamint
 
-b) a (2) bekezdés szerinti szándéknyilatkozat meglétét
+b) a 30/A. § (1) bekezdés
+
+ba) a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozat meglétét, vagy
+
+bb) e)–h) pontja szerinti szándéknyilatkozat meglétét
 
 vizsgálja.
 
@@ -36,10 +36,10 @@ b) a külföldi szövetség képviselőjének teljes bizonyító erejű magánok
 
 c) a külföldi szövetség képviselőjének teljes bizonyító erejű magánokiratba vagy közokiratba foglalt nyilatkozata arról, hogy a b) pontban foglaltak teljesítése a külföldi szövetség saját nemzeti joga alapján nem eredményezte a külföldi szövetség jogutód nélküli megszűnését.
 
-(8) Jogutódlásos alapítás esetén a Budapest és a fővárosi agglomeráció fejlesztéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
+(8) Jogutódlásos alapítás esetén a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter, valamint a sportpolitikáért felelős miniszter a miniszteri támogató nyilatkozat kiadása során
 
-a) az elismerő nyilatkozat meglétét, valamint
+a) a 30/A. § (1) bekezdés a)–d) pontja szerinti státuszra vonatkozó elismerő nyilatkozat, vagy a 30/A. § (1) bekezdés e)–h) pontja szerinti szándéknyilatkozat meglétét, valamint
 
-b) a 30/A. § (2) és (3) bekezdésében, továbbá a (7) bekezdésben foglaltaknak való megfelelést
+b) a 30/A. § (2), (3) és (7) bekezdésében foglaltaknak való megfelelést
 
 vizsgálja.

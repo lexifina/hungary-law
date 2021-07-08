@@ -6,7 +6,7 @@
 
 (3) A sportszakember szakmai tevékenységét a tisztességes játék (fair play) elvei szerint köteles végezni, aminek keretében tartózkodni köteles különösen:
 
-a) a – 4. §-ban foglaltakra is figyelemmel, a doppingellenes tevékenységről szóló kormányrendeletben meghatározottak szerint – doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartások elkövetésétől,
+a) a – 4. §-ban foglaltakra is figyelemmel – doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartások elkövetésétől,
 
 b) a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolásától, a fogadási csalástól,
 

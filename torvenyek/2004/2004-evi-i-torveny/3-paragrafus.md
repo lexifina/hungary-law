@@ -4,7 +4,7 @@
 
 (3) A versenyengedély kiadására és visszavonására vonatkozó részletes szabályokat a sportszövetség szabályzatban köteles megállapítani. A versenyengedély tartalmazza:
 
-a) a versenyző képmását, nevét, születési helyét és idejét,
+a) a versenyző képmását, nevét, születési helyét és idejét, anyja nevét,
 
 b) a versenyrendszer megnevezését,
 

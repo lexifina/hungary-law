@@ -8,7 +8,7 @@ c) sportfegyelmi szabályzat,
 
 d) a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásokat tartalmazó szabályzat,
 
-e) doppingszabályzat,
+e) doppingszabályzat, amelyben elfogadja a nemzeti doppingellenes szervezetnek a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott követelményeknek megfelelő szabályzatát,
 
 f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcélú támogatások e törvénynek, valamint az államháztartás működésére vonatkozó jogszabályoknak és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletnek megfelelő felhasználására vonatkozó előírásokat is,
 

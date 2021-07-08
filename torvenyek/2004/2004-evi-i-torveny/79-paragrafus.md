@@ -6,7 +6,7 @@ a)
 
 b) rendeletben állapítsa meg
 
-ba) a doppingtilalomra és a doppingvizsgálatra vonatkozó részletes szabályokat,
+ba) a doppingellenes tevékenység meghatározását, a doppingellenes tevékenységben részt vevő szervezetek körét, feladat- és hatáskörüket, a doppingeljárás szervezeti kereteit, valamint a nemzeti doppingellenes szervezetnek a doppingellenes tevékenységre vonatkozó szabályzatával összefüggő követelményeket,
 
 bb) a sportfegyelmi felelősségre és a sportfegyelmi eljárásra vonatkozó részletes szabályokat,
 

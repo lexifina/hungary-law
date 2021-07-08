@@ -10,6 +10,8 @@ c) a sportszervezetek, illetve a sportolók és a sportszakemberek közötti spo
 
 d) a MOB, valamint a tagjai közötti, sporttal kapcsolatos jogvitákban.
 
+(1a) A Sport Állandó Választottbíróság a doppingellenes tevékenység szabályairól szóló kormányrendelet, valamint a 4/B. § szerinti szabályzat szerint működteti a dopping fellebbviteli bizottságot, amely lefolytatja a másodfokú doppingeljárást.
+
 (2) A Sport Állandó Választottbíróság az érintett sportoló, sportszakember, sportszervezet, valamint sportszövetség kérelmére eljárhat a versenyengedély kiadására és visszavonására vonatkozó, igazolási és átigazolási, továbbá sportfegyelmi, valamint az indulási joggal kapcsolatos ügyekben is, ha ezekben a 3. § (6) bekezdése, a 14. § (2) bekezdése, illetve a 33. § (4) bekezdése alapján bírósági eljárásnak van helye.
 
 (3) A (2) bekezdésben meghatározott ügyekben a választottbíráskodásról szóló törvény rendelkezéseit abban az esetben kell alkalmazni, ha e törvény – a felek kölcsönös alávetési nyilatkozata kivételével – eltérően nem rendelkezik.

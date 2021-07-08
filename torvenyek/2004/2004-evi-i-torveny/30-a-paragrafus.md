@@ -8,9 +8,15 @@ b) a GAISF tagjának minősül,
 
 c) GAISF megfigyelői státusszal rendelkezik,
 
-d) a 30/C. § (2) bekezdésében meghatározott szándéknyilatkozattal rendelkezik, vagy
+d) az a)–c) pont szerinti sportszövetség kontinentális sportszövetsége,
 
-e) az a)–d) pont szerinti sportszövetség kontinentális sportszövetsége.
+e) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetség sportágának hivatalos nemzetközi szövetségeként történő elismeréséről dönt,
+
+f) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség tagként történő elismeréséről dönt,
+
+g) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státuszáról dönt, vagy
+
+h) az e)–g) pont szerinti sportszövetség kontinentális sportszövetsége.
 
 (1a) A nemzetközi sportszövetség jogi személy. A nemzetközi sportszövetség a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül.
 
@@ -36,7 +42,7 @@ g) gondoskodik a sportág edzésmódszereinek, a sportággal kapcsolatban folyta
 
 (5) A nemzetközi sportszövetség működésének e törvényben meghatározottakon túli szabályait a nemzetközi sportszövetség létesítő okirata tartalmazza.
 
-(6) Nemzetközi sportszövetségként csak olyan szervezet vehető nyilvántartásba, amelyet a Nemzetközi Olimpiai Bizottság a sportág hivatalos nemzetközi szövetségeként elismer vagy amely a 30/C. § (2) bekezdése szerinti szándéknyilatkozattal rendelkezik.
+(6) Nemzetközi sportszövetségként csak az (1) bekezdés szerinti szervezet vehető nyilvántartásba.
 
 (7) A nemzetközi sportversenyek és sportrendezvények szervezése, kiírása és lebonyolítása, továbbá azok televíziós, rádiós, valamint egyéb elektronikus-digitális technikákkal történő közvetítése, rögzítése és ezek kereskedelmi célú hasznosításának – beleértve a reklám- és marketingjogokat is – engedélyezése a nemzetközi sportszövetséget megillető vagyoni értékű jogot képez, amelynek hasznosítása és az azokhoz kapcsolódó kereskedelmi szerződések megkötése a nemzetközi sportszövetséget illeti meg. E vagyoni értékű jogok hasznosítása és az azokhoz kapcsolódó kereskedelmi szerződések megkötése a nemzetközi sportszövetség létesítő okiratában meghatározott cél szerint tevékenységnek minősülnek.
 

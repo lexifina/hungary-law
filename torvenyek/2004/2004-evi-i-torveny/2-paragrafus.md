@@ -8,7 +8,7 @@
 
 a) a tisztességes játék (fair play) elvei szerint felkészülni és versenyezni, aminek keretében tartózkodni különösen:
 
-aa) a – 4. §-ban foglaltakra is figyelemmel – doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározott tiltott szerek használatától, tiltott módszerek alkalmazásától vagy más, doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartás kifejtésétől,
+aa) a – 4. §-ban foglaltakra is figyelemmel – doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti tiltólistában szereplő tiltott szer vagy módszer alkalmazásától vagy más, doppingvétséget vagy büntetőjogi felelősségre vonást megalapozó magatartás kifejtésétől,
 
 ab) a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolásától, a fogadási csalástól,
 

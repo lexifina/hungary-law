@@ -2,6 +2,6 @@
 
 (2) A sportszövetség által a versenyzővel szemben a 12. § (4) bekezdés d) pontja és (5) bekezdése alapján, a sportszakemberre a 12. § (4) bekezdés d) pontja és (6) bekezdése alapján, továbbá a sportszervezetre a 13. § (3) bekezdés b), e), f), i)–l), n) és o) pontja alapján kiszabott másodfokú fegyelmi büntetéssel szemben a határozat kézbesítésétől számított 30 napos jogvesztő határidővel az érintett keresettel bírósághoz vagy a választottbírósághoz fordulhat.
 
-(2a) Nemzetközi minősítésű sportoló doppingellenes jogerős sportfegyelmi büntetéssel szemben kizárólag a CAS-hoz fordulhat.
+(2a)
 
 (3) A sportfegyelmi felelősségre, a sportfegyelmi eljárásra és a sportfegyelmi büntetésekre vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg. A sportszövetségnek – e törvény és a külön jogszabály alapján – sportfegyelmi szabályzatban kell meghatároznia a sportszövetség sportfegyelmi eljárásának részletes szabályait.
