@@ -145,5 +145,3 @@
 ## 28. nemzetbiztonsági ellenőrzés előírása, eredménye
 
 ## 29. tárgyi ellátmány adatai (gépkocsi, számítógép stb.)
-
-## V.

@@ -14,7 +14,7 @@ b) a Magyar Kormánytisztviselői Karban betöltött tagsággal,
 
 c) a munkáltatói jogkör gyakorlásával,
 
-d) a szolgálati jogviszony létesítésével és a kinevezés módosításával,
+d) a 82. § (2)–(4) bekezdése kivételével a szolgálati jogviszony létesítésével és a kinevezés módosításával,
 
 e) a kötelező részmunkaidő kikötésével,
 
