@@ -1,3 +1,5 @@
 ## 7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-8. § Hatályát veszti a Szabványos Vényminták Gyűjteménye VII. kiadása alkalmazásáról szóló 64/2004. (VII. 27.) ESzCsM rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
