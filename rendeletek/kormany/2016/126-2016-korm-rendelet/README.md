@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-126-20-
 | 2020-08-07 | 2016-126-20-22.9 | 377/2020. (VII. 30.) Korm. rendelet |
 | 2020-09-18 | 2016-126-20-22.10 | 426/2020. (IX. 10.) Korm. rendelet |
 | 2020-12-25 | 2016-126-20-22.11 | 598/2020. (XII. 17.) Korm. rendelet |
+| 2021-07-08 | 2016-126-20-22.12 | 385/2021. (VI. 30.) Korm. rendelet |

@@ -1,4 +1,4 @@
-## 34. §[^151] A 27. § (5) bekezdés b) pontja szerinti döntésben meghatározott intézkedések végrehajtása – ide nem értve a kifizetések felfüggesztését – a jogorvoslati eljárás lezárásáig, illetve érdemi vizsgálat nélküli elutasításáig nem kezdhető meg.
+## 34. §[^152] A 27. § (5) bekezdés b) pontja szerinti döntésben meghatározott intézkedések végrehajtása – ide nem értve a kifizetések felfüggesztését – a jogorvoslati eljárás lezárásáig, illetve érdemi vizsgálat nélküli elutasításáig nem kezdhető meg.
 
 35. § (1) A jogorvoslati kérelem érdemi vizsgálat nélküli elutasításának van helye, ha
 
@@ -10,11 +10,11 @@ c) a jogorvoslati kérelem az Európai Bizottság, az audit hatóság és az aud
 
 d) a beadvány tartalmilag nem minősül jogorvoslati kérelemnek vagy nem tartalmazza a jogszabály, a felhívás, illetve a támogatási szerződés megsértett rendelkezésére vonatkozó pontos hivatkozást, vagy a megsértett rendelkezésre vonatkozó indokok részletes kifejtését,
 
-e)[^152] a hazai kedvezményezett vagy a hazai TA kedvezményezett a 27. § (5) bekezdés b) pontja szerinti döntés ellen ismételten jogorvoslati kérelmet terjeszt elő.
+e)[^153] a hazai kedvezményezett vagy a hazai TA kedvezményezett a 27. § (5) bekezdés b) pontja szerinti döntés ellen ismételten jogorvoslati kérelmet terjeszt elő.
 
 (2) A jogorvoslati kérelmet az (1) bekezdés szerinti esetekben az iratok felterjesztéséig a nemzeti hatóság, azt követően a jogorvoslati egység köteles érdemi vizsgálat nélkül elutasítani.
 
 (3) A jogorvoslati kérelmet a kérelmező a jogorvoslati eljárás lezárásáig az erre irányuló nyilatkozattal visszavonhatja.
 
-[^151]: A 34. § a 377/2020. (VII. 30.) Korm. rendelet 19. § 36. pontja szerint módosított szöveg.
-[^152]: A 35. § (1) bekezdés e) pontja a 377/2020. (VII. 30.) Korm. rendelet 19. § 36. pontja szerint módosított szöveg.
+[^152]: A 34. § a 377/2020. (VII. 30.) Korm. rendelet 19. § 36. pontja szerint módosított szöveg.
+[^153]: A 35. § (1) bekezdés e) pontja a 377/2020. (VII. 30.) Korm. rendelet 19. § 36. pontja szerint módosított szöveg.

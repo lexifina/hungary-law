@@ -1,4 +1,4 @@
-27. § (1)[^135] A hitelesítési tevékenységre kijelölt szervezet által indított szabálytalansági vizsgálatban a szervezet vezetője a szabálytalanság-vizsgálati jelentés alapján tesz javaslatot a nemzeti hatóság vezetője részére a szabálytalansági vizsgálat lezárására. A szabálytalansági vizsgálat lezárásának időpontja a vizsgálati jelentés jóváhagyásának napja. A szabálytalansági vizsgálatot a megindításától számított negyvenöt napon belül le kell zárni, amely határidőt a nemzeti hatóság egy alkalommal legfeljebb további negyvenöt nappal meghosszabbíthatja.
+27. § (1)[^136] A hitelesítési tevékenységre kijelölt szervezet által indított szabálytalansági vizsgálatban a szervezet vezetője a szabálytalanság-vizsgálati jelentés alapján tesz javaslatot a nemzeti hatóság vezetője részére a szabálytalansági vizsgálat lezárására. A szabálytalansági vizsgálat lezárásának időpontja a vizsgálati jelentés jóváhagyásának napja. A szabálytalansági vizsgálatot a megindításától számított negyvenöt napon belül le kell zárni, amely határidőt a nemzeti hatóság egy alkalommal legfeljebb további negyvenöt nappal meghosszabbíthatja.
 
 (2) A szabálytalansági vizsgálat alapján elrendelt intézkedést a nemzeti hatóság vezetője állapítja meg.
 
@@ -8,15 +8,15 @@
 
 a) a hitelesítési tevékenységre kijelölt szervezetet legfeljebb két alkalommal új eljárás lefolytatására kötelezheti,
 
-b)[^136] a javasolt intézkedést megváltoztathatja, vagy
+b)[^137] a javasolt intézkedést megváltoztathatja, vagy
 
 c) saját hatáskörben új eljárást folytathat le.
 
 (5) A szabálytalansági vizsgálat lezárulhat
 
-a)[^137] annak megállapításával, hogy nem történt szabálytalanság vagy pénzügyi hiba és a szabálytalansági vizsgálat intézkedés nélküli megszüntetésével, vagy
+a)[^138] annak megállapításával, hogy nem történt szabálytalanság vagy pénzügyi hiba és a szabálytalansági vizsgálat intézkedés nélküli megszüntetésével, vagy
 
-b)[^138] a szabálytalanság vagy pénzügyi hiba megtörténtét megállapító, és – ha szükséges – intézkedést – így különösen
+b)[^139] a szabálytalanság vagy pénzügyi hiba megtörténtét megállapító, és – ha szükséges – intézkedést – így különösen
 
 ba) a hazai kedvezményezett vagy a hazai TA kedvezményezett részére kifizetett támogatás részleges vagy teljes visszafizetését vagy
 
@@ -26,12 +26,12 @@ bc) a korrekció összegének a hazai kedvezményezett vagy hazai TA kedvezmény
 
 ## elrendelő döntéssel.
 
-(6)[^139] A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalanságot vagy pénzügyi hibát a hazai kedvezményezettre vagy a hazai TA kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A szabálytalanság vagy pénzügyi hiba megállapításával összefüggésben elrendelt intézkedés a hazai kedvezményezettet, illetve a hazai TA kedvezményezettet terheli.
+(6)[^140] A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalanságot vagy pénzügyi hibát a hazai kedvezményezettre vagy a hazai TA kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A szabálytalanság vagy pénzügyi hiba megállapításával összefüggésben elrendelt intézkedés a hazai kedvezményezettet, illetve a hazai TA kedvezményezettet terheli.
 
 (7) A szabálytalanság-felelős az (5) bekezdés b) pontja szerinti döntésről értesíti az elrendelt intézkedés végrehajtásában érintetteket.
 
-[^135]: A 27. § (1) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 12. pontja, a 85/2018. (IV. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^136]: A 27. § (4) bekezdés b) pontja a 377/2020. (VII. 30.) Korm. rendelet 19. § 30. pontja szerint módosított szöveg.
-[^137]: A 27. § (5) bekezdés a) pontja a 377/2020. (VII. 30.) Korm. rendelet 19. § 10. pontja szerint módosított szöveg.
-[^138]: A 27. § (5) bekezdés b) pontja a 377/2020. (VII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^139]: A 27. § (6) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 13. pontja, a 377/2020. (VII. 30.) Korm. rendelet 19. § 29. és 31. pontja szerint módosított szöveg.
+[^136]: A 27. § (1) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 12. pontja, a 85/2018. (IV. 20.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^137]: A 27. § (4) bekezdés b) pontja a 377/2020. (VII. 30.) Korm. rendelet 19. § 30. pontja szerint módosított szöveg.
+[^138]: A 27. § (5) bekezdés a) pontja a 377/2020. (VII. 30.) Korm. rendelet 19. § 10. pontja szerint módosított szöveg.
+[^139]: A 27. § (5) bekezdés b) pontja a 377/2020. (VII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^140]: A 27. § (6) bekezdése a 116/2017. (V. 19.) Korm. rendelet 11. § 13. pontja, a 377/2020. (VII. 30.) Korm. rendelet 19. § 29. és 31. pontja szerint módosított szöveg.

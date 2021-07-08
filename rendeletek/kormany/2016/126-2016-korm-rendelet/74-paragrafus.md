@@ -1,4 +1,4 @@
-## 73/C. §[^197] E rendeletnek a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásához és intézményrendszerének finanszírozásához kapcsolódó kormányrendeletek módosításáról szóló 218/2018. (XI. 27.) Korm. rendelettel (a továbbiakban: Módr.3) megállapított 7. § (2) bekezdés a) pontját a Módr.3 hatálybalépésekor[^198] fennálló támogatási jogviszonyokban is alkalmazni kell.
+## 73/C. §[^198] E rendeletnek a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz és az Európai Szomszédsági Támogatási Eszköz egyes, határon átnyúló együttműködési programjainak végrehajtásához és intézményrendszerének finanszírozásához kapcsolódó kormányrendeletek módosításáról szóló 218/2018. (XI. 27.) Korm. rendelettel (a továbbiakban: Módr.3) megállapított 7. § (2) bekezdés a) pontját a Módr.3 hatálybalépésekor[^199] fennálló támogatási jogviszonyokban is alkalmazni kell.
 
 ## 74. § Ez a rendelet
 
@@ -14,5 +14,5 @@ e) az IPA II Előcsatlakozási Támogatási Eszköz létrehozásáról szóló 2
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^197]: A 73/C. §-t a 218/2018. (XI. 27.) Korm. rendelet 10. §-a iktatta be.
-[^198]: A hatálybalépés időpontja 2018. november 28.
+[^198]: A 73/C. §-t a 218/2018. (XI. 27.) Korm. rendelet 10. §-a iktatta be.
+[^199]: A hatálybalépés időpontja 2018. november 28.
