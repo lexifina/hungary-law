@@ -16,7 +16,7 @@ b) az elkövető a hozzátartozója, vagy nevelése, felügyelete, gondozása, g
 
 c) azonos alkalommal, egymás cselekményéről tudva, többen követik el.
 
-(4) Öt évtől tizenöt évig terjedő szabadságvesztéssel büntetendő,
+(4) Öt évtől húsz évig terjedő szabadságvesztéssel büntetendő,
 
 a) aki a (2) bekezdésben meghatározott bűncselekményt
 
@@ -30,6 +30,6 @@ követi el, vagy
 
 b) ha a (3) bekezdés a) pontjában meghatározott bűncselekmény a (3) bekezdés b) vagy c) pontja szerint is minősül.
 
-(4a) A büntetés öt évtől húsz évig terjedő szabadságvesztés, ha a (4) bekezdés a) pont aa) alpontjában meghatározott bűncselekmény a (4) bekezdés a) pont ab) vagy ac) alpontja szerint is minősül.
+(4a) A büntetés tíz évtől húsz évig terjedő szabadságvesztés, ha a (4) bekezdés a) pont aa) alpontjában meghatározott bűncselekmény a (4) bekezdés a) pont ab) vagy ac) alpontja szerint is minősül.
 
 (5) Aki szexuális erőszak elkövetéséhez szükséges vagy azt könnyítő feltételeket biztosítja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.

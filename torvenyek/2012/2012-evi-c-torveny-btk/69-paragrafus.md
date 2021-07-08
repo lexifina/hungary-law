@@ -18,10 +18,12 @@ ha annak eredményes elteltéhez az elkövető rendszeres figyelemmel kísérés
 
 a) akit életfogytig tartó szabadságvesztésből feltételes szabadságra bocsátottak,
 
-b) az a visszaeső, akit feltételes szabadságra bocsátottak, vagy akivel szemben a szabadságvesztés végrehajtását felfüggesztették.
+b) az a visszaeső, akit feltételes szabadságra bocsátottak, vagy akivel szemben a szabadságvesztés végrehajtását felfüggesztették,
 
-c) az a 38. § (5) bekezdése szerinti elkövető, akit a 38. § (6) bekezdése alkalmazásával bocsátottak feltételes szabadságra, vagy
+c) az a 38. § (5) bekezdése szerinti elkövető, akit a 38. § (6) bekezdése alkalmazásával bocsátottak feltételes szabadságra,
 
-d) a szabadságvesztés felfüggesztésének próbaidejére az, akit a hozzátartozója sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt ítéltek szabadságvesztésre.
+d) a szabadságvesztés felfüggesztésének próbaidejére az, akit a hozzátartozója sérelmére elkövetett személy elleni erőszakos bűncselekmény miatt ítéltek szabadságvesztésre, vagy
+
+e) a szabadságvesztés felfüggesztésének próbaidejére az, akit tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény miatt ítéltek szabadságvesztésre.
 
 (3) A (2) bekezdés d) pontja alkalmazásában hozzátartozó alatt az elkövető gyermekének szülőjét, volt házastársát, volt élettársát, gondnokát, gondokoltját, gyámját vagy gyámoltját is érteni kell.

@@ -21,3 +21,5 @@ c) hatalmi vagy befolyási helyzetével visszaélve, illetve
 d) hivatalos személy sérelmére, hivatali tevékenységével össze nem egyeztethető helyen vagy időben
 
 követi el, az (1) bekezdésben meghatározott esetben két évig, a (2) bekezdésben meghatározott esetben bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(4) Az a tizennyolcadik életévét betöltött személy, aki az (1) bekezdésben meghatározott zaklatást tizennyolcadik életévét be nem töltött személy sérelmére követi el, két évig terjedő szabadságvesztéssel büntetendő.
