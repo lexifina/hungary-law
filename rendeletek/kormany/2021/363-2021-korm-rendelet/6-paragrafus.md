@@ -1,0 +1,3 @@
+6. § (1) A doppingbizottság első fokon meghozott határozatával szemben benyújtott fellebbezés eredményeként vagy a WADA Szabályzatban, a nemzetközi követelményekben és a HUNADO Szabályzatban meghatározott egyéb okból induló másodfokú doppingeljárást – a (2) bekezdésben meghatározott kivétellel – a dopping fellebbviteli bizottság folytatja le. A dopping fellebbviteli bizottság a Sport Állandó Választottbíróság szervezeti keretei között működik.
+
+(2) A nemzetközi minősítésű versenyző és a nemzetközi sporteseményen részt vevő versenyző az első fokú doppingeljárás során hozott határozattal szemben a Nemzetközi Sportdöntőbírósághoz (CAS) nyújthat be fellebbezést.

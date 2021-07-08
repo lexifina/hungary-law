@@ -1,0 +1,5 @@
+4. § (1) A sportszervezet, a szövetség és a sportköztestület részt vesz a doppingellenes tevékenységben, ellátja a részére jogszabályban, alapszabályában vagy más szabályzatában, a HUNADO Szabályzatban, a doppingellenes szervezetek doppingellenes szabályzataiban és a nemzetközi doppingellenes programban meghatározott feladatokat, a HUNADO Szabályzatban meghatározott feladatával összhangban a felvilágosítással, oktatással és neveléssel kapcsolatos feladatokat, valamint együttműködik a doppingellenes tevékenységben részt vevő egyéb szervezetekkel.
+
+(2) A sportszervezet, a szövetség és a sportköztestület feladatait arra figyelemmel látja el, hogy a HUNADO felelős Magyarország nemzeti doppingellenes programjának megvalósításáért, ideértve a doppingellenőrzés végrehajtását, amely a HUNADO kizárólagos hatáskörébe tartozik.
+
+(3) A szövetség érvényesíti a doppingtilalmat e rendelettel, a doppingellenes szervezetek doppingellenes szabályaival, a nemzetközi doppingellenes programmal, a HUNADO Szabályzattal, valamint a HUNADO szakmai ajánlásaival összhangban.
