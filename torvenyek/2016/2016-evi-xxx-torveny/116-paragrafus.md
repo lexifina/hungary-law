@@ -2,7 +2,7 @@
 
 116. § (1) A beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként kizárólag a jegyzéken szereplő gazdasági szereplő vehet részt, a 117. § (2)–(5) bekezdésében foglalt kivételekkel. A jegyzéken
 
-a) a Mavtv.-ben meghatározott telephelybiztonsági tanúsítvánnyal (a továbbiakban: TBT) rendelkező gazdasági szereplők,
+a) a Mavtv.-ben meghatározott telephely biztonsági tanúsítvánnyal vagy egyszerűsített telephely biztonsági tanúsítvánnyal (a továbbiakban együtt: TBT) rendelkező gazdasági szereplők,
 
 b) az előzetes minősítésen megfelelt gazdasági szereplők, valamint
 
