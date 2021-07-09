@@ -1,1 +1,3 @@
-## 1. § A Nemzeti Akkreditáló Hatóság eljárásaiért fizetendő igazgatási szolgáltatási díjakról szóló 45/2015. (XII. 30.) NGM rendelet 1. melléklete az 1. melléklet szerint módosul.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
