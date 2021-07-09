@@ -1,0 +1,3 @@
+## 1. § Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet [a továbbiakban: 92/2010. (III. 31.) Korm. rendelet] 16/A. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) A 2020. július 31-ét megelőző napon hatályos 2/A. alcím szerint kiadott telephely biztonsági tanúsítvány – amely a gazdálkodó szervezetet kizárólag a 2015. évi VII. törvény 3. § (1) bekezdésében meghatározott szerződés vagy alvállalkozói szerződés megkötésére jogosítja fel – e rendelet erejénél fogva visszavonásra kerül. Az ilyen telephely biztonsági tanúsítvány jogosultjára a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 174. § (4) bekezdése az irányadó.”
