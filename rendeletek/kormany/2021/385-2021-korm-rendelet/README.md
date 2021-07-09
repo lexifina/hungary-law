@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-385-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-07-08 | 2021-385-20-22.1 | 385/2021. (VI. 30.) Korm. rendelet |
+| 2021-07-09 | 2021-385-20-22.2 | 2010: CXXX. törvény |
