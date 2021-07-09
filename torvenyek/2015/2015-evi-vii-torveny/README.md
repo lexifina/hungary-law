@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-7-00-00
 | 2016-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-7-00-00.8 |
 | 2016-01-02 | 2010. évi CXXX. törvény | 2015-7-00-00.9 |
 | 2016-04-12 | 2016. évi XIX. törvény | 2015-7-00-00.10 |
+| 2021-07-09 | 2021. évi LXVIII. törvény | 2015-7-00-00.11 |
