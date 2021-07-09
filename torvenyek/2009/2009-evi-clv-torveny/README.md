@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2020-02-01 | 2019. évi CXVI. törvény | 2009-155-00-00.33 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2009-155-00-00.34 |
 | 2021-07-02 | 2021. évi LXXXIX. törvény | 2009-155-00-00.35 |
+| 2021-07-09 | 2021. évi LXVIII. törvény | 2009-155-00-00.36 |
