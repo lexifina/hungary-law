@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 25. §-sal egészül ki:
-
-## „25. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 401/2021. (VII. 7.) Korm. rendelettel (a továbbiakban: Módr17.) megállapított, 3. § (3) bekezdését, 7/O. §-át és 2. mellékletben foglalt táblázat 8. sorát a Módr17. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
