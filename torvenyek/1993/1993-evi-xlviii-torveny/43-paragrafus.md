@@ -36,7 +36,9 @@ e) a szén-dioxid-tárolóhely üzemeltetőjének, valamint a szén-dioxid-szál
 
 (9c) A (9) bekezdés szerint felügyeleti díjat fizető bányavállalkozónak, illetve engedélyesnek a tárgyévben befizetendő felügyeleti díjból – a tárgyévre megállapított felügyeleti díj fizetési kötelezettség mértékéig – visszajár a tárgyévet megelőző évben az általa a bányafelügyelet eljárásaiért megfizetett igazgatási szolgáltatási díjak összege.
 
-(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 350 Ft/em3.
+(9d) A felügyeleti díj éves összege a bányatelekből, a kutatási területből a tárgyévet megelőző évben kitermelt kőolaj esetében 550 Ft/t, földgáz esetében 33,2 Ft/MWh.
+
+(9e) A (9d) bekezdésben meghatározott díjtételt a megállapítást követő minden 5. év december 31-ig felül kell vizsgálni.
 
 (10) A bányászati igazgatási feladatokat ellátó személyek részére igazolványt, a hatósági feladatokat ellátó személyek részére az igazolvánnyal azonos sorszámú szolgálati jelvényt kell biztosítani.
 

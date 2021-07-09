@@ -36,7 +36,7 @@
 
 (17) A használaton kívüli bányászati célú mélyfúrásoknak, kutaknak a 36. §-t módosító Módtv1. hatálybalépése előtt engedélyezett nem bányászati célú hasznosítása esetében a hasznosítást a Módtv1. hatálybalépésétől számított egy éven belül kell megkezdeni. Ennek elmaradása esetén a használaton kívüli bányászati célú mélyfúrás kút tájrendezését el kell végezni.
 
-(18) A Módtv1. hatálybalépését követően a 36. § (8) bekezdése szerinti nyilvántartást 2013. szeptember 30-ig kell létrehozni, amelyhez a használaton kívüli bányászati célú mélyfúrások tulajdonosa 2013. július 31-ig köteles adatot szolgáltatni.
+(18) E törvénynek az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvénnyel (a továbbiakban: Módtv6.) megállapított 36. § (3) bekezdése szerinti nyilvántartást, a Módtv6. hatálybalépését követő 24 hónapon belül kell összeállítani, amelyhez a mélyfúrás tulajdonosa vagy vagyonkezelője a Módtv6. hatálybalépését követő 12 hónapon belül szolgáltat adatot. A Módtv6.-tal megállapított 36. § (4) bekezdés szerinti kockázatelemzést első alkalommal 2023. december 31-ig kell elvégezni.
 
 (19) E törvénynek a bányászatról szóló 1993. évi XLVIII. törvény és a termőföld védelméről szóló 2007. évi CXXIX. törvény módosításáról szóló 2014. évi LXXXVI. törvénnyel (a továbbiakban: Módtv2.) módosított 38. § (11) bekezdését, 38/A. § (5b) bekezdését, megállapított 39. § (4) és (5) bekezdését és 43/B. § (6) bekezdés g) pontját a folyamatban lévő eljárásokban is alkalmazni kell.
 
@@ -51,3 +51,7 @@
 (24) E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
 (25) E törvénynek az egyes közigazgatási tárgyú törvények módosításáról, valamint ingyenes vagyonjuttatásról szóló 2020. évi XXX. törvénnyel (a továbbiakban: Módtv3.) megállapított 5. § (6) bekezdését a Módtv3. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+
+(26) E törvénynek a Módtv6.-tal megállapított 43. § (9e) bekezdése szerinti felülvizsgálatot első alkalommal a Módtv6. hatálybalépését követő 5. év december 31-ig kell elvégezni.
+
+(27) E törvénynek a Módtv6.-tal megállapított 43. § (9d) bekezdését a 2021. évre azzal az eltéréssel kell alkalmazni, hogy a Módtv6. 1. alcíme hatálybalépését megelőző időszakra eső felügyeleti díjat a Módtv6. 1. alcíme hatálybalépését megelőző szabályok szerint, a Módtv6. 1. alcíme hatálybalépését követő időszakra eső felügyeleti díjat a Módtv6. 1. alcíme hatálybalépését követően hatályos szabályok szerint, időarányosan kell megfizetni.

@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2021-01-01 | 2020. évi CLXI. törvény | 1993-48-00-00.86 |
 | 2021-03-28 | 2021. évi II. törvény | 1993-48-00-00.87 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 1993-48-00-00.88 |
+| 2021-07-09 | 2021. évi LXVIII. törvény | 1993-48-00-00.89 |

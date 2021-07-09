@@ -1,6 +1,6 @@
 49/B. § (1) Átmeneti bányászjáradékra jogosult az a személy, aki
 
-a) Magyarországon bányavállalkozónál föld alatti munkakörben
+a) bányavállalkozónál föld alatti munkakörben
 
 aa) legalább huszonöt év, a társadalombiztosítási nyugellátásról szóló törvény szerint figyelembe vehető szolgálati időt szerzett, vagy
 

@@ -2,7 +2,7 @@
 
 38. § (1) Az ingatlan tulajdonosa (kezelője, használója) köteles tűrni, hogy a bányavállalkozó vagy a földtani kutatásra jogosult az ingatlanon megfigyeléseket, méréseket végezzen, jeleket helyezzen el. A bányavállalkozó, valamint a földtani kutatásra jogosult e tevékenységével és az ingatlan rendeltetésszerű használatának ideiglenes akadályozásával vagy zavarásával okozott károkat a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
 
-(1a) Az ingatlan tulajdonosa köteles tűrni, hogy a használaton kívüli mélyfúrás 36. § (4) bekezdése szerinti tulajdonosa a mélyfúrás tájrendezését elvégezze. A tájrendezés során okozott károkat a mélyfúrás tulajdonosa a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
+(1a) Az ingatlan tulajdonosa köteles tűrni, hogy a használaton kívüli mélyfúrás 36. § (4) bekezdése szerinti tulajdonosa vagy vagyonkezelője a mélyfúrás tájrendezését elvégezze. A tájrendezés során okozott károkat a mélyfúrás tulajdonosa vagy vagyonkezelője a bányakárokra vonatkozó szabályok szerint köteles megtéríteni.
 
 (2) Az (1) bekezdés szerinti tevékenységnek kell tekinteni a szeizmikus mérések helyszínére történő behajtást, a mérési pontok és nyomvonalak kitűzését, a mérések elvégzését, ideértve a többdimenziós szeizmikus méréseket és a felvételezést is. A geofizikai mérések elvégzése nem minősül a termőföld védelméről szóló törvényben meghatározott termőföld időleges más célú hasznosításának.
 

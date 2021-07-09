@@ -78,7 +78,7 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 26. a kőolaj- és földgázbányászati létesítmények, a szénhidrogén szállító-, elosztó-, célvezetékek és tároló létesítmények tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint az európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
 
-27. a használaton kívüli bányászati célú mélyfúrások nyilvántartására,
+27. a használaton kívüli bányászati célú mélyfúrások nyilvántartására, azok kockázatelemzésére, besorolására, valamint a céltartalék képzésére,
 
 28. a koncessziós pályázatra kijelölhető zárt területek listájának kiegészítésére tehető javaslatra, a kijelölhető területek közzétételére,
 

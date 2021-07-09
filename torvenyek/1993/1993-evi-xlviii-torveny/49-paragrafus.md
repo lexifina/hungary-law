@@ -38,17 +38,13 @@ f) a geotermikus energia kutatása, kinyerése és hasznosítása, továbbá
 
 g) az a)–f) pontokban meghatározott tevékenységek során keletkezett hulladék kezelése.
 
-5. ,,Bányavállalkozó'' a bányászati tevékenység végzésére jogosult jogi vagy természetes személy (a továbbiakban együtt: személy).
+5. „Bányavállalkozó” a bányászati tevékenység végzésére jogosult jogi vagy természetes személy, továbbá
 
-Bányavállalkozónak minősül e törvény
+a) a 2. §, a 18. §, a 21. § (1) bekezdése, a 24. § (1) bekezdése, a 28. § (1) bekezdése, a 31–35. §, a 37. és 38. §, a 41. § alkalmazásában a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására jogosult személy,
 
-a)
+b) a 2. §, a 21. § (1) bekezdése, a 28. § (1) bekezdése, a 31–34. §, a 41. és 42. § alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására jogosult személy, valamint
 
-b) 2. §-ának, 18. §-ának, 21. § (1) bekezdésének, 24. § (1) bekezdésének, 28. § (1) bekezdésének, 31–35. §-ainak, 37–38. §-ainak, 41. §-ának szabályai alkalmazásában, a szénhidrogén szállítóvezetékek létesítésére és üzemben tartására, valamint
-
-c) 2. §-ának, 21. § (1) bekezdésének, 28. § (1) bekezdésének, 31–34. §-ainak, 41–42. §-ainak szabályai, alkalmazásában a megszűnt föld alatti bánya nyitva maradó térségének fenntartására, hasznosítására
-
-jogosult személy is.
+c) a használaton kívüli bányászati célú mélyfúrás tulajdonosa vagy vagyonkezelője.
 
 6. „Feldolgozás”: az ásványi nyersanyagokon – beleértve a külfejtéses bányák működése során – végrehajtott mechanikai, fizikai, biológiai, termikus vagy kémiai eljárás, vagy eljárások összessége, beleértve a méret megváltoztatását, szétválasztását és a kioldást, továbbá az előzőleg elhagyott bányászati hulladék újrafeldolgozását, de nem beleértve az olvasztást, a mészkőégetéstől eltérő termikus gyártási folyamatokat és kohászati eljárásokat.
 
