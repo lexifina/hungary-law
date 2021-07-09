@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-2
 | 2019-07-01 | 2012-22-20-22.40 | 159/2019. (VI. 28.) Korm. rendelet |
 | 2020-01-01 | 2012-22-20-22.41 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2020-04-19 | 2012-22-20-22.42 | 111/2020. (IV. 14.) Korm. rendelet |
+| 2021-07-09 | 2012-22-20-22.43 | 398/2021. (VII. 6.) Korm. rendelet |

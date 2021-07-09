@@ -1,5 +1,5 @@
 ## 8. Az élelmiszerlánc-felügyeleti hatósági eljárásokban közreműködő szakhatóságok
 
-25. §[^29]
+25. §[^30]
 
-[^29]: A 25. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
+[^30]: A 25. §-t a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés d) pontja hatályon kívül helyezte.
