@@ -1,0 +1,9 @@
+# 404/2021. (VII. 8.) Korm. rendelet
+
+a gazdaság újraindítása érdekében fizetendő kiegészítő bányajáradékról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-404-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-07-09 | 2021-404-20-22.1 | 404/2021. (VII. 8.) Korm. rendelet |
