@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-81-20-8
 | 2015-04-10 | 2009-81-20-82.8 | 17/2015. (IV. 9.) FM rendelet |
 | 2015-12-24 | 2009-81-20-82.9 | 17/2015. (IV. 9.) FM rendelet |
 | 2017-01-01 | 2009-81-20-82.10 | 55/2010. (V. 6.) FVM rendelet |
+| 2021-07-10 | 2009-81-20-82.11 | 24/2021. (VII. 7.) AM rendelet |

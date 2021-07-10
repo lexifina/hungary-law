@@ -288,7 +288,7 @@
 
 ## 13.3.3. Maradandó: Az előírás megszegése nem szüntethető meg, az az állatok egészségének maradandó károsodását okozza, illetve okozhatja.
 
-2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^21]
+2. számú melléklet a 81/2009. (VII. 10.) FVM rendelethez[^22]
 
 ## A jogkövetkezmény mértékének számítási alapjai
 
@@ -346,4 +346,4 @@
 
 | 9. | 5 | 5 | 5 | 100% |
 
-[^21]: A 2. számú melléklet a 17/2015. (IV. 9.) FM rendelet 5. § (2) bekezdésével megállapított, a 93/2015. (XII. 23.) FM rendelet 7. §-a szerint módosított szöveg.
+[^22]: A 2. számú melléklet a 17/2015. (IV. 9.) FM rendelet 5. § (2) bekezdésével megállapított, a 93/2015. (XII. 23.) FM rendelet 7. §-a szerint módosított szöveg.
