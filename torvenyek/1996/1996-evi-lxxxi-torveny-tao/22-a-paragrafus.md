@@ -20,4 +20,4 @@ a) a hitelszerződés megkötésének évét követő négy éven belül a beruh
 
 b) a tárgyi eszközt üzembe helyezésének adóévében vagy az azt követő három évben elidegeníti.
 
-(6)
+(6) Ha az (5) bekezdésben meghatározott adó- és késedelmipótlék-fizetési kötelezettség olyan adózót terhelne, amely csoportos társasági adóalany tagja, akkor az (5) bekezdés szerint megállapított adót, valamint azzal összefüggésben a késedelmi pótlékot az adózó a csoporttagság időtartama alatt csoporttagként, a csoportképviselő útján fizeti meg.
