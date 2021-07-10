@@ -16,7 +16,7 @@
 
 8.
 
-9.
+9. 65. § (1) bekezdésében a „köteles” szövegrész helyébe a „köteles, melynek megszegése esetén az érintett személy eljárási bírsággal sújtható” szöveg,
 
 10.
 

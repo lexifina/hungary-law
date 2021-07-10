@@ -1,1 +1,3 @@
-61. §
+61. § (1) Az 59. § (1) bekezdése szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló állami tulajdonú és a Felső-Szabolcsi Kórház vagyonkezelésében álló ingó vagyontárgyak (a továbbiakban: ingóságok) e törvény erejénél fogva a Görögkatolikus Metropólia tulajdonába kerülnek.
+
+(2) Az (1) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó tulajdonosi joggyakorló OKFŐ és az átvevő Görögkatolikus Metropólia képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
