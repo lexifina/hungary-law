@@ -1,1 +1,1 @@
-84. § A Vbt. 116. § (1) bekezdés a) pontjában a „telephelybiztonsági tanúsítvánnyal (a továbbiakban: TBT)” szövegrész helyébe a „telephely biztonsági tanúsítvánnyal vagy egyszerűsített telephely biztonsági tanúsítvánnyal (a továbbiakban együtt: TBT)” szöveg lép.
+84. §
