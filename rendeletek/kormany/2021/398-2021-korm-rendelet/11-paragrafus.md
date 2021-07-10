@@ -1,5 +1,5 @@
 ## 10. §
 
-## 4.[^2]
+## 4.[^5]
 
-[^2]: A 4. alcím a 12. § (2) bekezdése alapján 2021. augusztus 5-én lép hatályba.
+[^5]: A 4. alcím a 12. § (2) bekezdése alapján 2021. augusztus 5-én lép hatályba.
