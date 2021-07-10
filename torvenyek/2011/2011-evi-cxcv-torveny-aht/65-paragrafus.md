@@ -1,4 +1,4 @@
-65. § (1) A kormányzati ellenőrzési szerv ellenőrzése során az ellenőrzött szerv, szervezet vagy más – az ellenőrzés lefolytatásához szükséges adatok, tények, információk birtokában lévő – személy, szervezet vezetője, alkalmazottja a jogszabályokban meghatározottak szerint adatszolgáltatásra és együttműködésre köteles.
+65. § (1) A kormányzati ellenőrzési szerv ellenőrzése során az ellenőrzött szerv, szervezet vagy más – az ellenőrzés lefolytatásához szükséges adatok, tények, információk birtokában lévő – személy, szervezet vezetője, alkalmazottja a jogszabályokban meghatározottak szerint adatszolgáltatásra és együttműködésre köteles, melynek megszegése esetén az érintett személy eljárási bírsággal sújtható.
 
 (2)
 

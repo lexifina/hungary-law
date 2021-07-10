@@ -3,3 +3,5 @@
 (2) A kincstárral kötött megállapodás alapján a központosított illetményszámfejtéshez az államháztartásba nem tartozó szerv, szervezet is csatlakozhat. A megállapodás alapján végzett központosított illetményszámfejtés nem terjed ki az állami adóhatóság felé teljesítendő bevallási és befizetési kötelezettségek központosított teljesítésére.
 
 (3) A központosított illetményszámfejtésre alkalmazott rendszer a költségvetési szervekre, a helyi önkormányzatokra, a nemzetiségi önkormányzatokra, a társulásokra és a térségi fejlesztési tanácsokra vonatkozó, a törzskönyvi nyilvántartásban szereplő adatokat a törzskönyvi nyilvántartásból veszi át.
+
+(4) A központosított illetményszámfejtés igénybevételére az (1) és (2) bekezdés szerinti kötelezett által a központosított illetményszámfejtő rendszerbe neki felróható okból történő valótlan, vagy három hónapot meghaladó késedelemmel történő adatszolgáltatás esetén a kincstár a kötelezettel szemben határozatban a Kormány rendeletében meghatározott mértékű bírságot szabhat ki.
