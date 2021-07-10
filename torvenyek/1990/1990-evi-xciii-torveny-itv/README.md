@@ -96,3 +96,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-93-00-00
 | 2021-01-01 | 2020. évi CXVIII. törvény | 1990-93-00-00.177 |
 | 2021-06-10 | 2021. évi LXIX. törvény | 1990-93-00-00.178 |
 | 2021-07-01 | 2021. évi LXXXV. törvény | 1990-93-00-00.179 |
+| 2021-07-10 | 2021. évi LXIX. törvény | 1990-93-00-00.180 |

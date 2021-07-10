@@ -134,7 +134,7 @@ kiállítása
 
 |
 
-az I/1–2. pontban meghatározott mértékű illeték és
+az I. pontban és az 1–2. alpontban meghatározott mértékű illeték és
 
 a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj
 
@@ -214,7 +214,7 @@ a magánútlevél, valamint a második magánútlevél soron kívüli, sürgőss
 
 |
 
-a II/4–8. pontban meghatározott mértékű illeték és
+a 4–8. pontban meghatározott mértékű illeték és
 
 a külön jogszabályban meghatározott igazgatási szolgáltatási pótdíj
 

@@ -96,7 +96,7 @@ d) az ingatlan forgalmi értékéből az épület forgalmi értékének megfelel
 
 e) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés.
 
-f) lakás tulajdonjogának, lakás tulajdoni hányadának az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet1.) 2020. október 1-jén hatályos 1. § a) pontja, vagy a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet2.) 2020. október 1-jén hatályos 1. § (2) bekezdése szerinti családi otthonteremtési kedvezmény (a továbbiakban együtt: családi otthonteremtési kedvezmény) felhasználásával történő megvásárlása.
+f) lakás tulajdonjogának, lakás tulajdoni hányadának az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § a) pontja, vagy a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet 2020. október 1-jén hatályos 1. § (2) bekezdése szerinti családi otthonteremtési kedvezmény (a továbbiakban együtt: családi otthonteremtési kedvezmény) felhasználásával történő megvásárlása.
 
 (2a) Az (1) bekezdés a) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
@@ -116,15 +116,9 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2f) Ha a magánszemély vagyonszerző a természetes személyek adósságrendezéséről szóló törvény rendelkezései szerint bíróságon kívüli vagy bírósági adósságrendezést kezdeményezett, és az említett eljárások időszaka alatt a lakóház építésére alkalmas telektulajdont értékesítik, akkor a 87. § (2) bekezdése nem alkalmazható, továbbá – ha a telektulajdont megszerző vevő nyilatkozik arról, hogy a megszerzett telek után az (1) bekezdés a) pontja szerinti mentességet igénybe kívánja venni vagy a telektulajdont megszerzőnek a telekre elővásárlási joga van – az említett eljárások alá vont magánszemélynek a (2a) bekezdés szerint felfüggesztett illetéket nem kell megfizetni.
 
-(2g) Ha az (1a) bekezdés f) pontja szerinti illetékmentességre a vagyonszerző kizárólag a Korm. rendelet1. 2020. október 1-jén hatályos 6. alcíme vagy a Korm. rendelet2. 2020. október 1-jén hatályos 8. alcíme szerinti megelőlegezett családi otthonteremtési kedvezmény igénybevétele alapján vált jogosulttá, és
+(2g) Ha a vagyonszerző az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegét bármely okból visszafizette, vagy a hatóság annak visszafizetését rendelte el, az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az illetékkötelezettség keletkezésekor hatályos rendelkezések alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
 
-a) a gyermekvállalás az arra vonatkozó határidő lejártáig nem teljesült, vagy
-
-b) a családi otthonteremtési kedvezményt a gyermekvállalás teljesítése nélkül a határidő lejártát megelőzően bármely okból visszafizette,
-
-az állami adóhatóság az erről való tudomásszerzést követően – az (1a) bekezdés f) pontjában foglaltak alkalmazását mellőzve – a lakás illetékkötelezettség keletkezésekor fennálló forgalmi értéke és az ekkor hatályos illetékmérték alapulvételével kiszabja a visszterhes vagyonátruházási illetéket.
-
-(2h) Nem kell a (2g) bekezdést alkalmazni, ha a gyermekvállalás teljesítése a családi otthonteremtési kedvezményben részesülő egészségi állapotára tekintettel hiúsult meg.
+(2h) Nem kell a (2g) bekezdést alkalmazni, ha az (1a) bekezdés f) pontja szerinti illetékmentességre jogosító családi otthonteremtési kedvezmény teljes összegének visszafizetése kizárólag a családi otthonteremtési kedvezményben részesülő egészségi állapotára tekintettel meghiúsult gyermekvállalás miatt vált szükségessé.
 
 (3) Ha az (1) bekezdés j) pontjában említett csereingatlan a kisajátítottnál értékesebb, vagy ha a megszerzett ingatlan forgalmi értéke a kártalanítási összeget, illetőleg ennek a vevőre eső arányos részét meghaladja, az illetékmentesség a többletre nem terjed ki.
 
