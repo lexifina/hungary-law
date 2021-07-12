@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-142-00-00
 | 2021-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-142-00-00.2 |
 | 2021-05-01 | 2021. évi VIII. törvény | 2020-142-00-00.3 |
 | 2021-06-29 | 2021. évi CI. törvény | 2020-142-00-00.4 |
+| 2021-07-12 | 2021. évi CI. törvény | 2020-142-00-00.5 |

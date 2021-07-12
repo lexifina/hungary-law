@@ -3964,7 +3964,7 @@ kivett munkásszálló
 
 |
 
-194.
+193a.
 
 |
 
@@ -3972,7 +3972,7 @@ GÖDÖLLŐ
 
 |
 
-8044/2
+5880
 
 |
 
@@ -3980,7 +3980,7 @@ GÖDÖLLŐ
 
 |
 
-kivett üzem
+kivett ipartelep
 
 |
 
