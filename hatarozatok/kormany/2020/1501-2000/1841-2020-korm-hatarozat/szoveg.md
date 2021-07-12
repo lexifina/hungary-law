@@ -36,13 +36,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2021. február 28.
 
-5. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Beruházások kivitelezési feladatainak végrehajtásához szükséges legfeljebb 4 002 000 000 forint biztosításáról a 2022. évi központi költségvetés Miniszterelnökség fejezetében;
-
-Felelős: pénzügyminiszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: a 2022. évi központi költségvetés tervezése során
+5.[^1]
 
 6. felhívja a Miniszterelnökséget vezető minisztert, hogy
 
@@ -75,3 +69,5 @@ b) gondoskodjon az aa) és ab) alpontban foglalt összegnek támogatási előleg
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az a) alpont tekintetében a forrás rendelkezésre állását követően azonnal a b) alpont tekintetében a támogatási szerződés megkötését követő 30 napon belül
+
+[^1]: Az 5. pontot az 1454/2021. (VII. 12.) Korm. határozat 2. pontja visszavonta.
