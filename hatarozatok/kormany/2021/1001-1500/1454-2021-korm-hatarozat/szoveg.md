@@ -52,4 +52,6 @@ a Budai Várnegyed, a Citadella és a visegrádi műemlék-együttes területén
 
 Határidő: 2021. szeptember 1.
 
-2. A Kormány visszavonja a Citadella erőd és sétány megújítása érdekében a kivitelezési feladatokhoz szükséges forrás biztosításáról szóló 1841/2020. (XI. 24.) Korm. határozat 5. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
