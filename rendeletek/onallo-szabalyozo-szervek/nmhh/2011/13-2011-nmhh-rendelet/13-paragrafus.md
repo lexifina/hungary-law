@@ -8,7 +8,7 @@ b) biztosítania kell az intézkedések végrehajtását;
 
 c) nyilvántartást kell vezetnie az ilyen eseményekről és az elvégzett intézkedésekről.
 
-(2)[^40] A forgalommérésen alapuló számlázási rendszernek alkalmasnak kell lennie arra, hogy a szolgáltató – hiteles adatok alapján – képes legyen az Eht. 137. § (1) bekezdés d) pontja és az Eszr. 12. § (2) bekezdése, illetve az Eszr. 12. § (4) bekezdés c) pontja értelmében az előfizető fogyasztásának túllépése, valamint rendellenes fogyasztási szokás vagy túlzott fogyasztás esetén az értesítési kötelezettség teljesítésére.
+(2)[^43] A forgalommérésen alapuló számlázási rendszernek alkalmasnak kell lennie arra, hogy a szolgáltató – hiteles adatok alapján – képes legyen az Eht. 137. § (1) bekezdés d) pontja és az Eszr. 12. § (2) bekezdése, illetve az Eszr. 12. § (4) bekezdés c) pontja értelmében az előfizető fogyasztásának túllépése, valamint rendellenes fogyasztási szokás vagy túlzott fogyasztás esetén az értesítési kötelezettség teljesítésére.
 
 (3) Az (1) és (2) bekezdésekben meghatározott követelményrendszer alapján
 
@@ -20,7 +20,7 @@ b) az igénybevétel díja akkor van hibátlanul kiszámolva, ha az előfizető 
 
 (5) Az adatgyűjtéshez használt eszközöknek és módszereknek az alább részletezett feltételek mellett biztosítaniuk kell az alábbiakban meghatározott pontossági értékeket:
 
-a)[^41] az időmérésen alapuló szolgáltatás forgalommérését olyan pontossággal kell végezni, hogy a tényleges kapcsolati idő és a mért szolgáltatási idő közötti eltérés két másodpercet ne haladjon meg;
+a)[^44] az időmérésen alapuló szolgáltatás forgalommérését olyan pontossággal kell végezni, hogy a tényleges kapcsolati idő és a mért szolgáltatási idő közötti eltérés két másodpercet ne haladjon meg;
 
 b) forgalommérést egyéb esetekben olyan pontossággal kell végezni, hogy egy adott igénybevétel során a számlázott forgalom és az ellenőrző mérés által kimutatott forgalom között az eltérés ne haladja meg a számlázási rendszerben alkalmazott számlázási egység felét;
 
@@ -32,7 +32,7 @@ e) a pontatlanul mért forgalmú igénybevételek száma nem lehet nagyobb, mint
 
 f) az összes pontatlanul mért forgalmú igénybevétel számlázási hibaösszege a tárgyidőszakra vonatkozóan nem haladhatja meg a szolgáltató által azonos módon mért forgalmú igénybevételekre kiszámlázott kapcsolási és forgalmi díjak összegének egy tízezred részét;
 
-g)[^42] az Eszr. 12. § (2) és (3) bekezdése, valamint az Eszr. 12. § (4) bekezdés c) pontja értelmében az előfizető fogyasztásának túllépése, valamint rendellenes fogyasztói szokások esetén a túlfogyasztási korlát vagy a rendellenes fogyasztói szokás hibás mérése, valamint az értesítési kötelezettség hibás teljesítésének száma sem a mérés sem az értesítés tekintetében nem haladhatja meg az összes kötelezettség tízezredét;
+g)[^45] az Eszr. 12. § (2) és (3) bekezdése, valamint az Eszr. 12. § (4) bekezdés c) pontja értelmében az előfizető fogyasztásának túllépése, valamint rendellenes fogyasztói szokások esetén a túlfogyasztási korlát vagy a rendellenes fogyasztói szokás hibás mérése, valamint az értesítési kötelezettség hibás teljesítésének száma sem a mérés sem az értesítés tekintetében nem haladhatja meg az összes kötelezettség tízezredét;
 
 h) forgalommérési adat csak a szolgáltatás igénybevétele esetén keletkezhet, az adatállomány nem lehet utólag szerkeszthető;
 
@@ -58,6 +58,6 @@ d) a helyhez kötött telefonhálózat az ellenkező bizonyításáig a jogosula
 
 e) a rádiótávközlő hálózat az ellenkező bizonyításáig a jogosulatlan hozzáférés ellen védettnek tekinthető, ha a hálózathoz vagy a szolgáltatáshoz való hozzáférés biztosítását a rendszer – a segélykérő összeköttetések kivételével – minden alkalommal a hozzáférést kérő rádióberendezés, valamint az előfizető azonosításától teszi függővé (a rádióberendezés IMSI vagy IMEI azonosítója, illetőleg az előfizető SIM kártyája vagy hasonló biztonságot nyújtó más azonosítási módszerek útján).
 
-[^40]: A 13. § (2) bekezdése a 25/2020. (XII. 21.) NMHH rendelet 11. § 6. pontja szerint módosított szöveg.
-[^41]: A 13. § (5) bekezdés a) pontja a 25/2020. (XII. 21.) NMHH rendelet 12. § d) pontja szerint módosított szöveg.
-[^42]: A 13. § (5) bekezdés g) pontja a 25/2020. (XII. 21.) NMHH rendelet 11. § 6. pontja szerint módosított szöveg.
+[^43]: A 13. § (2) bekezdése a 25/2020. (XII. 21.) NMHH rendelet 11. § 6. pontja szerint módosított szöveg.
+[^44]: A 13. § (5) bekezdés a) pontja a 25/2020. (XII. 21.) NMHH rendelet 12. § d) pontja szerint módosított szöveg.
+[^45]: A 13. § (5) bekezdés g) pontja a 25/2020. (XII. 21.) NMHH rendelet 11. § 6. pontja szerint módosított szöveg.

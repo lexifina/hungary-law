@@ -1,4 +1,4 @@
-2. melléklet a 13/2011. (XII. 27.) NMHH rendelethez[^50]
+2. melléklet a 13/2011. (XII. 27.) NMHH rendelethez[^53]
 
 ## A szolgáltatásminőségi követelményekre mértékadó dokumentumok
 
@@ -116,4 +116,4 @@ V. A nyilvános internet-hozzáférési szolgáltatást nyújtó szolgáltató e
 
 Hálózati szolgáltatásminőségi követelmények
 
-[^50]: A 2. melléklet a 25/2020. (XII. 21.) NMHH rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^53]: A 2. melléklet a 25/2020. (XII. 21.) NMHH rendelet 10. § (1) bekezdésével megállapított, a 6/2021. (VII. 8.) NMHH rendelet 2. § 4–5. pontja szerint módosított szöveg.

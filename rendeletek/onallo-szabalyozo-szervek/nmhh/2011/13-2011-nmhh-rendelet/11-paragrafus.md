@@ -1,4 +1,4 @@
-11. § (1)[^38] A 9. § (1) bekezdés a) és b) pontja szerinti esetekben a szolgáltatónak minden megfelelőségi nyilatkozathoz műszaki dokumentációt kell kidolgoznia, és annak valamennyi dokumentumát az 1. melléklet szerinti azonosító adatokkal kell ellátnia.
+11. § (1)[^40] A 9. § (1) bekezdés a) és b) pontja szerinti esetekben a szolgáltatónak minden megfelelőségi nyilatkozathoz műszaki dokumentációt kell kidolgoznia, és annak valamennyi dokumentumát az 1. melléklet szerinti azonosító adatokkal kell ellátnia.
 
 (2) Az (1) bekezdés szerinti műszaki dokumentációnak magában kell foglalnia különösen:
 
@@ -18,4 +18,4 @@ f) a szolgáltató által közzétett, a szolgáltatás minőségének megfelel�
 
 (4) A műszaki dokumentációban bekövetkezett változásokat dokumentálni kell.
 
-[^38]: A 11. § (1) bekezdése az 1/2014. (II. 6.) NMHH rendelet 5. §-a szerint módosított szöveg.
+[^40]: A 11. § (1) bekezdése az 1/2014. (II. 6.) NMHH rendelet 5. §-a szerint módosított szöveg.
