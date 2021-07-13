@@ -1,3 +1,3 @@
-## 3. §[^7]
+## 3. §[^8]
 
-[^7]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 217. § c) pontja hatályon kívül helyezte.
+[^8]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 217. § c) pontja hatályon kívül helyezte.

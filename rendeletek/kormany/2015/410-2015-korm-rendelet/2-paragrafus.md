@@ -6,8 +6,8 @@ b) nem kell településképi véleményezési eljárást lefolytatni,
 
 c) településképi bejelentési eljárásnak nincs helye,
 
-d)[^4]
+d)[^5]
 
 e) építészeti-műszaki tervpályázati eljárást nem kell lefolytatni.
 
-[^4]: A 2. § d) pontját a 677/2020. (XII 28.) Korm. rendelet 40. §-a hatályon kívül helyezte.
+[^5]: A 2. § d) pontját a 677/2020. (XII 28.) Korm. rendelet 40. §-a hatályon kívül helyezte.

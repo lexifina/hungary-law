@@ -5,3 +5,7 @@
 a) a Beruházás megvalósításához és használatbavételéhez szükségesek,
 
 b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közmű csatlakozási és fejlesztési, valamint egyéb munkákat érintik.
+
+(3)[^1] A Beruházás időtartama alatt a Beruházás helyszínéül szolgáló ingatlanok vagyonkezelője által a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
+
+[^1]: Az 1. § (3) bekezdését a 411/2021. (VII. 12.) Korm. rendelet 1. §-a iktatta be.
