@@ -1,4 +1,4 @@
-## 37. §[^1]
+## 37. §[^5]
 
 38. § (1) E rendelet
 
@@ -18,4 +18,4 @@ b) a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírköz
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^1]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
