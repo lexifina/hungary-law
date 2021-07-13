@@ -34,7 +34,7 @@ c) ha a szolgáltatóváltás műszaki megvalósításához a szolgáltatóvált
 
 (11) A szolgáltatóváltási igény elfogadása esetén az átvevő szolgáltató a szolgáltatások teljes körű nyújtásának megkezdését követően haladéktalanul értesíti az átadó szolgáltatót a sikeres szolgáltatóváltásról.
 
-(12) Az átadó szolgáltató a szolgáltatásait – ha műszakilag lehetőség van az átadó és átvevő szolgáltató szolgáltatásainak egyidejű nyújtására – az átadó szolgáltató értesítéséig fenntartja. Ilyen lehetőség hiányában az átadó szolgáltató a szolgáltatását a szolgáltatóváltási megállapodásban rögzített napig fenntartja.
+(12)[^1] Az átadó szolgáltató a szolgáltatásait – ha műszakilag lehetőség van az átadó és átvevő szolgáltató szolgáltatásainak egyidejű nyújtására – az átadó szolgáltató (11) bekezdés szerinti értesítéséig fenntartja. Ilyen lehetőség hiányában az átadó szolgáltató a szolgáltatását a szolgáltatóváltási megállapodásban rögzített napig fenntartja.
 
 (13) A sikeresen végrehajtott szolgáltatóváltás időpontjában az átadó szolgáltatónál az előfizetői szerződés az átadott szolgáltatások vonatkozásában megszűnik.
 
@@ -43,3 +43,5 @@ c) ha a szolgáltatóváltás műszaki megvalósításához a szolgáltatóvált
 (15) Az előfizetőnek az átadó szolgáltatóval szemben az előfizetői szerződés szolgáltatóváltás miatti megszűnéséig az előfizetői szerződés alapján keletkező számlatartozását, és az Eht. 134. § (15a) bekezdése szerinti, az előfizető által igénybe vett kedvezmények megtérítését az átvevő szolgáltató átvállalhatja. Erről az átvevő szolgáltató nyilatkozik az átadó szolgáltatónak. Átvállalás hiányában az előfizető a számlatartozást, és az igénybe vett kedvezményeket az átadó szolgáltató által kiállított számla alapján a szolgáltatóváltás kezdeményezését követően az átadó szolgáltatónál megfizeti.
 
 (16) Az átvevő szolgáltató jogosult az előfizető részére a (15) bekezdés szerint átvállalt tartozását kiszámlázni vagy annak kiegyenlítéséről, rendezéséről az előfizetővel egyéb módon megállapodni.
+
+[^1]: A 4. § (12) bekezdése a 6/2021. (VII. 8.) NMHH rendelet 12. §-a szerint módosított szöveg.
