@@ -8,4 +8,6 @@
 
 (4) A kérelmezőnek – nem elektronikus úton történő kapcsolattartás esetén – magyarországi kézbesítési címet kell megadnia.
 
-(5) A hatóság elutasítja azon szolgáltató lekötési, kijelölési, valamint – azonosító átvételére irányuló – számmezőátadási és azonosítóátadási kérelmét, amely azonosítót engedély nélkül vagy az engedélytől eltérő módon használ, vagy az azonosító használati díj megfizetésére vonatkozó kötelezettségét nem teljesíti az Eht.-ban meghatározott határidőn belül, vagy a 22. § (6) bekezdésében meghatározott együttműködési kötelezettségének az ott foglalt határidőre nem tesz eleget.
+(5)[^1] A hatóság elutasítja azon szolgáltató lekötési, kijelölési, valamint – azonosító átvételére irányuló – számmezőátadási és azonosítóátadási kérelmét, amely azonosítót engedély nélkül vagy az engedélytől eltérő módon használ, vagy az azonosító használati díj megfizetésére vonatkozó kötelezettségét nem teljesíti az Eht.-ban meghatározott határidőn belül, vagy a 21. § (6) bekezdésében meghatározott együttműködési kötelezettségének az ott foglalt határidőre nem tesz eleget.
+
+[^1]: Az 5. § (5) bekezdése a 6/2021. (VII. 8.) NMHH rendelet 5. § 1. pontja szerint módosított szöveg.

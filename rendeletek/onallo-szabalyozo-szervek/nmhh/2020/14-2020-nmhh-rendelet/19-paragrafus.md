@@ -24,4 +24,6 @@ b) az elsőfokú határozat véglegessé válását érintő körülményről e 
 
 c) a véglegessé vált határozat végrehajtására halasztó hatállyal bíró vagy azt kizáró körülményről e körülmény felmerülése napján.
 
-(3) Számmezőátadás esetén a számmezőt átadó szolgáltató tájékoztatja a számmezőt átvevő szolgáltatót a számmezőben lévő számok használatára vonatkozó, 22. § (4) és (5) bekezdése szerinti korlátozásokkal kapcsolatos adatokról.
+(3)[^2] Számmezőátadás esetén a számmezőt átadó szolgáltató tájékoztatja a számmezőt átvevő szolgáltatót a számmezőben lévő számok használatára vonatkozó, 21. § (4) és (5) bekezdése szerinti korlátozásokkal kapcsolatos adatokról.
+
+[^2]: A 19. § (3) bekezdése a 6/2021. (VII. 8.) NMHH rendelet 5. § 2. pontja szerint módosított szöveg.
