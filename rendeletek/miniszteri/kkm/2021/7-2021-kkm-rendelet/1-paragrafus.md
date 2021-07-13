@@ -24,14 +24,16 @@
 
 12. Montenegrói Köztársaság,
 
-13. Szerb Köztársaság,
+13. San Marino Köztársaság,
 
-14. Szlovák Köztársaság,
+14. Szerb Köztársaság,
 
-15. Szlovén Köztársaság,
+15. Szlovák Köztársaság,
 
-16. Török Köztársaság,
+16. Szlovén Köztársaság,
 
-17. Ukrajna.
+17. Török Köztársaság,
 
-[^1]: Az 1. § a 24/2021. (VI. 22.) KKM rendelet 1. §-ával megállapított szöveg.
+18. Ukrajna.
+
+[^1]: Az 1. § a 27/2021. (VII. 12.) KKM rendelet 1. §-ával megállapított szöveg.
