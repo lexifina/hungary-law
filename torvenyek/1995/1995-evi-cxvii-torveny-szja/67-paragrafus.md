@@ -2,7 +2,7 @@
 
 67. § (1) Árfolyamnyereségből származó jövedelem az értékpapír átruházása (ide nem értve a kölcsönbe adást) ellenében megszerzett bevételnek az a része, amely meghaladja az értékpapír megszerzésére fordított érték és az értékpapírhoz kapcsolódó járulékos költségek együttes összegét. Nem minősül árfolyamnyereségből származó jövedelemnek az említett különbözetből az a rész, amelyet e törvény előírásai szerint más jövedelem megállapításánál kell figyelembe venni.
 
-(2)
+(2) Árfolyamnyereségből származó jövedelemnek minősül a KMRP szervezetben való részvételi jogosultság ellenérték fejében történő értékesítéséből származó bevételnek az a része, amely meghaladja a részvételi jogosultsággal összefüggésben teljesített kiadás összegét.
 
 (3) A bevételből a jövedelmet az értékpapír átruházásáról szóló szerződés keltének napjára kell megállapítani. Ha a magánszemély az átruházott értékpapír tulajdonjogát értékpapír kölcsönbe vétele útján szerezte meg, akkor a jövedelmet
 

@@ -18,6 +18,8 @@ af) a kisadózó vállalkozás kisadózóként be nem jelentett tagja részére 
 
 ag) a közhasznúnak nem minősülő alapítvány által az alapítványi vagyon hozamainak terhére a kedvezményezett magánszemély részére juttatott vagyoni érték;
 
+ah) a KMRP résztvevője részére a KMRP által megszerzett vagyonelemek hozamából származó kifizetés;
+
 b) osztalékelőleg az adóévi várható osztalékra tekintettel az adóévben kapott bevétel.
 
 (2)
