@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-44-00-00
 | 2019-01-01 | 2018. évi LXXXII. törvény | 1992-44-00-00.14 |
 | 2020-01-01 | 2018. évi LXXXII. törvény | 1992-44-00-00.15 |
 | 2021-01-01 | 2018. évi LXXXII. törvény | 1992-44-00-00.16 |
+| 2021-07-13 | 2021. évi CI. törvény | 1992-44-00-00.17 |
