@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet 2012. február 1-jén lép hatályba.
 
-1. melléklet az 5/2012. (I. 24.) NMHH rendelethez[^6]
+1. melléklet az 5/2012. (I. 24.) NMHH rendelethez[^8]
 
 |  | A | B |
 
@@ -24,9 +24,9 @@
 
 | 10 | üzleti hálózat szám (SHS=38) | 66 |
 
-| 11 | gépek közötti kommunikáció (M2M) szám (SHS=71) | 3 |
+| 11 | gépek közötti szolgáltatás számai (M2M szám) (SHS=71) | 3 |
 
-| 12 | RÖVID KÓDOK | Éves díj Ft/kód |
+| 12 | RÖVID SZÁMOK | Éves díj Ft/szám |
 
 | 13 |  |  |
 
@@ -34,9 +34,9 @@
 
 | 15 | telefontudakozó szám (118de) | 600 000 |
 
-| 16 | szolgáltató ügyfélszolgálati száma (12cd) | 120 000 |
+| 16 | elektronikus hírközlési szolgáltató ügyfélszolgálati száma (12cd) | 120 000 |
 
-| 17 | közcélú adománygyűjtő szám (135d, 136de) | 0 |
+| 17 | adománygyűjtő szám (135d, 136de) | 0 |
 
 | 18 | lelki segítő és támogató szolgáltatás szám (137de) | 0 |
 
@@ -60,17 +60,17 @@
 
 | 28 | emelt díjas felnőtt 6-jegyű rövid szám (169def) | 660 000 |
 
-| 29 | szolgáltató hálózatához rendelt 3-jegyű szám (17c) | 720 000 |
+| 29 | elektronikus hírközlési szolgáltató hálózatához rendelt 3-jegyű szám (17c) | 720 000 |
 
-| 30 | szolgáltató hálózatához rendelt 4-jegyű szám (17cd) | 480 000 |
+| 30 | elektronikus hírközlési szolgáltató hálózatához rendelt 4-jegyű szám (17cd) | 480 000 |
 
-| 31 | szolgáltató hálózatához rendelt 5-jegyű szám (17cde) | 360 000 |
+| 31 | elektronikus hírközlési szolgáltató hálózatához rendelt 5-jegyű szám (17cde) | 360 000 |
 
 | 32 | közérdekű tájékoztató és támogató szolgáltatás szám [18c(d)] | 0 |
 
 | 33 | telefonos kezelői szolgáltatás szám (192, 193) | 0 |
 
-| 34 | EGYÉB KÓDOK | Éves díj Ft/kód |
+| 34 | HÁLÓZATI KÓDOK | Éves díj Ft/kód |
 
 | 35 | mobil hálózati kód (MNC) | 660 000 |
 
@@ -80,6 +80,6 @@
 
 | 38 | nemzetközi jelzéspont kód (ISPC) | 660 000 |
 
-| 39 | nemzeti összekötő hálózat jelzéspont kód (NISPC) | 66 000 |
+| 39 | nemzeti összekötő jelzéshálózati jelzéspont kód (NISPC) | 66 000 |
 
-[^6]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a és 19. § (3) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a, a 14/2020. (XII. 15.) NMHH rendelet 31. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a és 19. § (3) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a, a 14/2020. (XII. 15.) NMHH rendelet 31. § (1) bekezdés c) pontja, a 6/2021. (VII. 8.) NMHH rendelet 4. § 2. pontja szerint módosított szöveg.
