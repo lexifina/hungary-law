@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-70-00-00
 | 2021-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-70-00-00.1 |
 | 2021-07-02 | 2010. évi CXXX. törvény | 2021-70-00-00.2 |
 | 2021-07-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-70-00-00.3 |
+| 2021-07-13 | 2010. évi CXXX. törvény | 2021-70-00-00.4 |
