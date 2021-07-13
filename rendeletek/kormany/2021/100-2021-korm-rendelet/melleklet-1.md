@@ -1,4 +1,4 @@
-## 49. §[^1]
+## 49. §[^2]
 
 1. melléklet a 100/2021. (II. 27.) Korm. rendelethez
 
@@ -62,4 +62,4 @@
 
 2.24. középiskolai végzettség és államilag elismert felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző vagy szociális asszisztens szakképzettség vagy szakképesítés, és ezen a területen szerzett legalább két év szakmai gyakorlattal rendelkezik.
 
-[^1]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
