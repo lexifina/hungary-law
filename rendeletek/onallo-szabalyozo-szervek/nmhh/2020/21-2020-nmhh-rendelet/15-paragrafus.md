@@ -1,1 +1,3 @@
-## 14. § Azon elektronikus hírközlő hálózat, elektronikus hírközlési építmény és kapcsolódó eszköz vonatkozásában, amely esetében az engedély iránt – 2021. október 1. és 2022. június 30. közötti időszakban – benyújtott kérelem mellékleteként a hírközlési építményre vonatkozó adatokat tartalmazó tervdokumentáció nem az egységes hírközlési objektummodell követelményei szerint került benyújtásra, a 8. § (2) bekezdésben foglaltakat kell alkalmazni, azzal, hogy a változás-bejelentési kötelezettséget a használatbavételi engedély véglegessé válásától számított harminc napon belül kell teljesíteni.
+## 14/A. §[^4] A 13. § (2) bekezdésében megjelölt rendelkezéseket 2022. június 1. napjáig nem kell alkalmazni.
+
+[^4]: A 14/A. §-t a 6/2021. (VII. 8.) NMHH rendelet 7. §-a iktatta be.

@@ -2,15 +2,15 @@
 
 | 1. | Adatszolgáltatási időszak | Adatszolgáltatási időszak végére kötelezően elérendő adatszolgáltatási szint adatszolgáltatásra kötelezettenként a meglévő – illetve a változás-bejelentéssel aktualizált meglévő – vezetékes elektronikus hírközlő hálózat esetében a hírközlő vezeték nyomvonalhosszának, vezeték nélküli elektronikus hírközlő hálózat esetében az antennák és antenna-tartószerkezetek (tornyok) darabszámának százalékában kifejezve |
 
-| 2. | 2022. január 1. – 2022. december 31. | 10% |
+| 2. | 2023. január 1. – 2023. december 31. | 10% |
 
-| 3. | 2023. január 1. – 2023. december 31. | 30% |
+| 3. | 2024. január 1. – 2024. december 31. | 30% |
 
-| 4. | 2024. január 1. – 2024. december 31. | 50% |
+| 4. | 2025. január 1. – 2025. december 31. | 50% |
 
-| 5. | 2025. január 1. – 2025. december 31. | 70% |
+| 5. | 2026. január 1. – 2026. december 31. | 70% |
 
-| 6. | 2026. január 1. – 2026. december 31. | 95% |
+| 6. | 2027. január 1. – 2027. december 31. | 95% |
 
 2. melléklet a 21/2020. (XII. 18.) NMHH rendelethez
 
