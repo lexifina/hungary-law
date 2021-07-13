@@ -1,4 +1,4 @@
-7/L. §[^21] (1) A 2. mellékletben foglalt táblázat 19. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2)–(5) bekezdés állapítja meg, azzal, hogy
+7/L. §[^22] (1) A 2. mellékletben foglalt táblázat 19. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -38,4 +38,4 @@ e) új épület, vagy meglévő épület bővítésének építési helyén a me
 
 (5) Bővítés, átalakítás és rendeltetésmódosítás esetén a parkolóférőhelyek számának meghatározásakor a teljes ellátandó rendeltetés képezi az alapot, azzal, hogy a keletkező többlet személygépjármű elhelyezési kötelezettséget a (4) bekezdés a)–e) pontjában meghatározott mértékben kell biztosítani.
 
-[^21]: A 7/L. §-t a 383/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^22]: A 7/L. §-t a 383/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-7/I. §[^18] (1) A 2. mellékletben foglalt táblázat 15. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/I. §[^19] (1) A 2. mellékletben foglalt táblázat 15. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -20,4 +20,4 @@ f) az ingatlan teljes területe építési helynek minősül.
 
 (3) A 2. mellékletben foglalt táblázat 15. sora szerinti beruházás keretében megvalósuló építmények esetében, amennyiben az alapterületi bővítés mértéke nem haladja meg a bruttó 75 m2-t, az OTÉK 42. §-át nem kell alkalmazni.
 
-[^18]: A 7/I. §-t a 338/2021. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 7/I. §-t a 338/2021. (VI. 11.) Korm. rendelet 1. §-a iktatta be.

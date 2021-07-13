@@ -46,6 +46,8 @@
 
 | 23. | A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet területén könnyűszerkezetes épületegyüttesek telepítése | Szirmabesenyő külterület 0124/16 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^59]
+| 24. | A „Visegrád 700” fejlesztési programmal összefüggő beruházások | Visegrád külterület 0108/5, 0125/5, 0125/8, 0125/9, 0131/1 helyrajzi számú, valamint Visegrád belterület 1/4, 22, 23, 24, 25, 26, 27/1, 27/2, 28, 29/1, 29/3, 56, 61, 169/2, 353, 354 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^59]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^63]
+
+[^63]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

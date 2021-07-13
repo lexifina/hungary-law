@@ -10,9 +10,9 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 
 (2a)[^1] Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket is, amelyek a (2) bekezdés b) pontjában foglaltakra vonatkoznak, és a 2. mellékletben foglalt táblázat 22. és 23. sora szerinti beruházással érintett ingatlanokkal szomszédos ingatlanokat is érintik.
 
-(3)[^2] A Kormány kiemelten közérdekű beruházássá nyilvánítja a 2. melléklet 3., 7., 12., 13., 19., 20., 22. és 23. sora szerinti beruházást.
+(3)[^2] A Kormány kiemelten közérdekű beruházássá nyilvánítja a 2. mellékletben foglalt táblázat 3., 7., 12., 13., 19., 20., 22., 23. és 24. sora szerinti beruházást.
 
-(4)[^3] A 2. mellékletben foglalt táblázat 3. sora szerinti beruházás tekintetében az építési tevékenységgel érintett B:3 mezője és a 19. sora szerinti beruházás tekintetében az építési tevékenységgel érintett B:19 mezője szerinti telek közvetlen környezetét és az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.
+(4)[^3] A 2. mellékletben foglalt táblázat 3., 19. és 24. sora szerinti beruházás tekintetében az építési tevékenységgel érintett ingatlanok közvetlen környezetét és az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.
 
 (5)[^4] A 2. melléklet 12., 13. és 19. sora szerinti beruházások megvalósításának helyszíne és azok közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, a kivágással érintett ingatlanok vagyonkezelője vagyonkezelésében álló, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
 
@@ -20,9 +20,12 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 
 (7)[^6] A 2. melléklet 11. pontja szerinti ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telekalakítás és annak ingatlan-nyilvántartásban történő átvezetése még nem történt meg.
 
+(8)[^7] A 2. mellékletben foglalt táblázat 3. és 24. sora szerinti beruházás időtartama alatt a beruházás helyszínéül szolgáló ingatlanok vagyonkezelője által a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
+
 [^1]: Az 1. § (2a) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^2]: Az 1. § (3) bekezdése a 212/2021. (IV. 29.) Korm. rendelet 4. § a) pontja, a 261/2021. (V. 20.) Korm. rendelet 4. § a) pontja, a 383/2021. (VI. 30.) Korm. rendelet 4. § a) pontja, a 395/2021. (VII. 2.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (4) bekezdése a 383/2021. (VI. 30.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (5) bekezdését a 212/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 383/2021. (VI. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^5]: Az 1. § (6) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^6]: Az 1. § (7) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (8) bekezdését a 411/2021. (VII. 12.) Korm. rendelet 5. § (2) bekezdése iktatta be.
