@@ -1,1 +1,1 @@
-## 17. §
+## 17. § Az Mmtv. 22/A. § (2) bekezdésének alkalmazása során rehabilitációs mentori tevékenységnek a 2. melléklet 1.5. pontjában meghatározott feladatok ellátását kell tekinteni, feltéve, hogy a rehabilitációs mentor megfelel a 3. melléklet I. pont 1. alpontjában előírt képesítési előírásoknak.

@@ -1,3 +1,3 @@
-1. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^179]
+1. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^184]
 
-[^179]: Az 1. melléklet a 117/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^184]: Az 1. melléklet a 117/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
