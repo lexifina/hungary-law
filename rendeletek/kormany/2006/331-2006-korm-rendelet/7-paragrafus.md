@@ -18,9 +18,9 @@ e) pert indíthat, illetve kezdeményezhet a gyermek örökbefogadásának felbo
 
 f) kérelemre felvilágosítást adhat a Ptk. 4:135. § (1) bekezdése és 4:136. §-a szerinti adatokról.
 
-(3)[^50] Az örökbefogadási ügyben kijelölt gyámhivatal a (2) bekezdés b) pontja szerinti jognyilatkozat alapján a gyermek számára gyermekvédelmi gyámot, helyettes gyermekvédelmi gyámot rendel, és a gyermeket ideiglenesen elhelyezi a leendő örökbefogadó szülőnél.
+(3)[^50]
 
 [^47]: A 7. § a 174/2012. (VII. 26.) Korm. rendelet – a 296/2012. (X. 17.) Korm. rendelet 64. § (4) bekezdésével megállapított – 42. § (6) bekezdésével megállapított szöveg.
 [^48]: A 7. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^49]: A 7. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 44. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^50]: A 7. § (3) bekezdését a 10/2021. (I. 20.) Korm. rendelet 12. §-a iktatta be.
+[^50]: A 7. § (3) bekezdését a 10/2021. (I. 20.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 414/2021. (VII. 13.) Korm. rendelet 4. § a) pontja.
