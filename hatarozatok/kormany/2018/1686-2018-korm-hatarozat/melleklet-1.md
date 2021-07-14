@@ -30,7 +30,7 @@
 
 ## 3. felkéri az érdekelt szervezeteket, hogy működjenek közre a Cselekvési Program végrehajtásában.
 
-1. melléklet az 1686/2018. (XII. 17.) Korm. határozathoz
+1. melléklet az 1686/2018. (XII. 17.) Korm. határozathoz[^1]
 
 A Nemzeti Tehetség Program végrehajtásának 2019–2020. évi cselekvési programja
 
@@ -40,7 +40,7 @@ I.1. Támogatni kell
 
 a) a hazai és határon túli matematikai, természettudományos és digitális kompetenciák erősítését segítő tehetséggondozó programokat;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -48,7 +48,7 @@ Indikátor: legalább 250 támogatott program
 
 b) a hazai és határon túli köznevelési intézmények, iskolai rendszerű szakképzést folytató intézmények tehetséggondozó programjait;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -56,7 +56,7 @@ Indikátor: legalább 300 támogatott program, amelyből legalább 10 szakképz�
 
 c) a hazai és határon túli művészeti tehetséggondozó programokat;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -64,7 +64,7 @@ Indikátor: legalább 250 támogatott program
 
 d) a hazai és határon túli magyar tehetségígéretek óvodai tehetségkibontakoztató programjait;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -72,7 +72,7 @@ Indikátor: legalább 150 támogatott program
 
 e) a hazai és határon túli kulturális intézmények tehetséggondozó programjait;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -80,7 +80,7 @@ Indikátor: legalább 80 támogatott program
 
 f) az innovatív tanulási környezet kialakítását segítő programokat az esélynövelés érdekében;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -88,7 +88,7 @@ Indikátor: legalább 10 támogatott program
 
 g) a tehetségsegítés feltételrendszerének javítását;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -96,7 +96,7 @@ Indikátor: legalább 150 támogatott program
 
 h) a nemek egyenlő esélyű részvételének biztosítását célzó, speciális tehetséggondozó programokat, különös tekintettel azon tehetség- és tudományterületeken, amelyeken hagyományosan a lányok, nők részvétele alulreprezentált;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -104,7 +104,7 @@ Indikátor: legalább 30 támogatott program
 
 i) a hazai és határon túli tematikus, tehetségterületekhez kapcsolódó táborok megszervezését és lebonyolítását;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -112,7 +112,7 @@ Indikátor: legalább 80 támogatott program
 
 j) a hazai és határon túli magyar sporttehetségeket fejlesztő tehetséggondozó programokat;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -120,7 +120,7 @@ Indikátor: legalább 60 támogatott program
 
 k) a hazai és határon túli magyar, kettős vagy többszörös különlegességű magyar tehetségeket támogató, integráló környezetben megvalósuló tehetségsegítő programokat;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -128,7 +128,7 @@ Indikátor: legalább 100 támogatott program legalább 1000 bevont fiatal
 
 l) a hazai nagy hagyományú és szakmailag elismert országos vagy Kárpát-medencei szervezésű hagyományos és online tanulmányi és művészeti versenyeket;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -136,7 +136,7 @@ Indikátor: legalább 150 verseny
 
 m) a hazai tehetséges, országos versenyeken eredményt elért magyar fiatalok nemzetközi tanulmányi és művészeti versenyeken, hivatalos magyar csapat nemzetközi tudományos diákolimpiákon, valamint tantárgyi világversenyeken való részvételét, továbbá a nemzetközi tudományos és művészeti versenyek hazai megrendezését;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -144,7 +144,7 @@ Indikátor: legalább 100 támogatott program
 
 n) a hazai és határon túli Tudományos Diákkörök műhelyeit és rendezvényeit, továbbá a hallgatók és oktatók részvételét az Országos Tudományos Diákköri Konferencián (a továbbiakban: OTDK), az OTDK központi szervezési valamint szekció-lebonyolítási feladatainak ellátását és ehhez kapcsolódóan az OTDK online infrastruktúrájának fejlesztését;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -154,7 +154,7 @@ legalább 18 támogatott program
 
 o) a hazai és határon túli magyar nyelvű képzést folytató felsőoktatási intézmények, valamint ezen intézményekhez kapcsolódó szervezetek tehetséggondozó programjait;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -162,7 +162,7 @@ Indikátor: legalább 20 támogatott program
 
 p) a hazai és határon túli magyar nyelvű szakkollégiumokat, a szakkollégiumok tehetséggondozó programjait;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -170,7 +170,7 @@ Indikátor: legalább 200 támogatott program
 
 q) a hazai és határon túli magyar pályakezdő, kiemelkedően tehetséges fiatalok példaértékű innovációit;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -178,7 +178,7 @@ Indikátor: legalább 30 támogatott program
 
 r) a határon túli és külföldön létrejött Tehetségsegítő Információs és Programpontokat (a továbbiakban: TIPP).
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -186,7 +186,7 @@ Indikátor: 4 TIPP iroda folyamatos működtetése
 
 I.2. A Minősített Tehetséggondozó Műhely címmel rendelkezők számára biztosítani kell a folyamatos támogatást.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -194,7 +194,7 @@ Indikátor: legalább 39 támogatott Minősített Tehetséggondozó Műhely
 
 I.3. Ösztöndíjtípusú támogatással segíteni kell a kiemelkedően tehetséges hazai és határon túli magyar fiatalokat egyedi fejlesztéssel, beleértve a neves külföldi felsőoktatási intézményben tanuló kiváló fiatalokat, speciális program megvalósításával.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -206,7 +206,7 @@ II.1. Támogatni kell a hazai és határon túli
 
 a) kiemelkedő tehetséggondozó személyek, szervezetek, közösségek, programok szakmai elismerését, média-megjelenését, valamint a tehetséges fiatalok médián keresztüli megismertetését és a Nemzeti Tehetség Program népszerűsítését;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -216,7 +216,7 @@ legalább 50 média megjelenés
 
 b) tehetséggondozó szakemberek, pedagógusok, gyermekvédelmi szakemberek, humán erőforrással foglalkozó szakemberek és vezetők képzését;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -224,7 +224,7 @@ Indikátor: legalább 500 fő képzése
 
 c) Tehetségsegítő Tanácsokat, tehetségfejlesztő vagy tehetségfejlesztését is végző szervezeteket és közösségeket, továbbá a tehetségsegítő szervezetek hálózatosodását és működését;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -232,7 +232,7 @@ Indikátor: legalább 60 támogatás
 
 d) tehetségek fejlesztését és hasznosulását segítő környezet kialakítását, a családoknak szóló, a családi szemléletmódot megerősítő programok megvalósítását.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -242,7 +242,7 @@ III. A Nemzeti Tehetség Program megvalósításának segítése, szakmai, inté
 
 III.1. Működtetni kell a Nemzeti Tehetségügyi Koordinációs Fórumot.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: folyamatos
 
@@ -250,31 +250,31 @@ Indikátor: legalább 4 ülés
 
 III.2. Ki kell alakítani a társadalmi szereplők tehetségsegítésének koordinálása érdekében a Nemzeti Tehetségsegítő Kör létrehozásához szükséges feltételrendszert.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
 III.3. Harmonizálni kell a tehetséggondozást segítő jogi szabályozást.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: folyamatos
 
 III.4. Folytatni kell a tehetséggondozó programok támogatási rendszerének egyszerűsítését.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: folyamatos
 
 III.5. Biztosítani kell a tehetséggondozó szolgáltatásokhoz történő egyenlő hozzáférést, kiemelkedően a hátrányos helyzetű, a halmozottan hátrányos helyzetű gyerekek és fiatalok és a kedvezményezett járások besorolásáról szóló kormányrendelet alapján a kedvezményezett járásokhoz tartozó települések tekintetében.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: folyamatos
 
 III.6. Támogatni kell a magyar anyanyelvi, valamint a Magyarországon élő nemzetiségek anyanyelvi identitás megőrzését célzó tehetséggondozó programokat.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: folyamatos
 
@@ -282,7 +282,7 @@ Indikátor: legalább 30 támogatott program, ebből 10, a Magyarországon élő
 
 III.7. Működtetni kell a tehetségazonosítás és tehetséggondozás koordinációját, a tehetségkövetést támogató információs rendszert, az egységes, nemzeti, komplex tehetségazonosítási rendszert.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -292,7 +292,7 @@ III.8. Támogatni kell
 
 a) a Budapesti Európai Tehetségközpont működését, stratégiai továbbfejlesztését és európai tehetséghálózati munkáját;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -302,7 +302,7 @@ Európai Tehetségközpontként 25 Európai Tehetségpont akkreditálása
 
 b) a Nemzeti Tehetség Program célkitűzéseit népszerűsítő rendezvényeket, kiadványokat, a program eredményeinek hatásvizsgálatát és bemutatását;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -314,7 +314,7 @@ legalább 70 életpálya-vizsgálat
 
 c) az olyan kezdeményezéseket, amelyek hozzájárulnak a kiemelkedő tehetségű hazai és határon túli magyar diákok és pedagógusok tudományos tájékozottságának bővítéséhez, nemzetközi kapcsolatrendszerük fejlesztéséhez.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -322,7 +322,7 @@ Indikátor: legalább 5 támogatott program
 
 III.9. Biztosítani kell a matematikai tehetségazonosító módszertan és eszköztár fejlesztését és a köznevelési matematikai tudásközpontok működését.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -330,7 +330,7 @@ Indikátor: 5 matematikai tudásközpont létrehozása és az ezáltal létrejö
 
 III.10. Erősíteni kell a hazai tehetséggondozó rendszer nemzetközi szerepvállalását, népszerűsíteni kell a hazai tehetséggondozási rendszert külföldön, támogatni kell a hazai jó gyakorlatok külföldi megismertetését és elterjesztését, valamint a külföldi jó gyakorlatok hazai adaptációját.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. június 30.
 
@@ -338,8 +338,10 @@ Indikátor: legalább 2 nemzetközi konferencia és legalább 5 adaptált külf�
 
 III.11. Erősíteni kell a tehetséges fiatalok társadalmi felelősségvállalását, ennek érdekében támogatni kell a tehetséges fiatalok alumni közösségbe szerveződését.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: folyamatos
 
 Indikátor: legalább 8 program és legalább 4 alumni találkozó
+
+[^1]: Az 1. melléklet az 1458/2021. (VII. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
