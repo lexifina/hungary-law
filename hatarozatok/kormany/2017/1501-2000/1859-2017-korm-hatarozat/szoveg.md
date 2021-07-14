@@ -2,7 +2,7 @@
 
 a) a Wacław Felczak Alapítványról szóló 2017. évi CLXVI. törvény (a továbbiakban: Törvény) 1. §-ában, valamint az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény 1. § (1a) bekezdésében biztosított jogkörében eljárva létrehozza a Wacław Felczak Alapítványt (a továbbiakban: Alapítvány),
 
-b) a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására az emberi erőforrások miniszterét jelöli ki,
+b)[^*] a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény 96/A. §-ában biztosított jogkörében eljárva az Alapítvány feletti alapítói jogok gyakorlására a Miniszterelnökséget vezető minisztert jelöli ki,
 
 c) a Törvényben meghatározott alapítványi célok megvalósításához az alapító okiratban 10 000 000 forint pénzbeli vagyoni juttatás (a továbbiakban: induló vagyon) rendelkezésre bocsátását vállalja,
 
@@ -47,3 +47,5 @@ f) felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. mellék
 Felelős: nemzetgazdasági miniszter
 
 Határidő: az e) pont szerinti címrendi kiegészítést követően azonnal
+
+[^*]: Az 1. pont b) alpontja az 1458/2021. (VII. 13.) Korm. határozat 1. pontja szerint módosított szöveg.
