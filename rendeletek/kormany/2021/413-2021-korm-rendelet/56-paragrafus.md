@@ -1,0 +1,1 @@
+## 55. § Az időközi forráslehívás alapját képező, az Európai Bizottság részére a 2021/241/EU rendelet 24. cikk (2) bekezdése szerinti félévenként benyújtandó kifizetési kérelmet – a negyedéves összesítések alapján – az 54. § (3) bekezdésében foglaltak szerint kell elkészíteni.

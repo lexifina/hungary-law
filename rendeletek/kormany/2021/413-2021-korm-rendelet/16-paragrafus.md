@@ -1,0 +1,1 @@
+## 15. § Az eljáró szervek a pályázó vagy a végső kedvezményezett által benyújtott bármely dokumentum tekintetében a nyilvánvaló hibát kijavíthatják, amelyről a pályázót – indokolt esetben – értesítik.

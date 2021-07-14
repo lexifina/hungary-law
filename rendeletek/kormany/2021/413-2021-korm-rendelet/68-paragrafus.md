@@ -1,0 +1,3 @@
+68. § (1) Ha a kifogás érdemi vizsgálat nélküli elutasításnak nincs helye, a kifogást a beérkezésétől számított harminc napon belül el kell bírálni. Az elbírálás határideje egy alkalommal, legfeljebb harminc nappal meghosszabbítható, erről a határidő lejárta előtt tájékoztatni kell a kifogás benyújtóját.
+
+(2) Ha a kifogást elbíráló döntéshez más hatóság előzetes döntése szükséges, vagy a kifogást elbíráló döntés különleges szakértelmet igénylő előzetes kérdés eldöntésétől függ, a kifogást elbíráló szerv az eljárását a hatóság döntésig vagy a szakértői állásfoglalás elkészítéséig felfüggesztheti. A felfüggesztés ideje az ügyintézési határidőkbe nem számít bele.
