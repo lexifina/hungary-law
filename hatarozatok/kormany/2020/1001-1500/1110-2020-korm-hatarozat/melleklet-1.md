@@ -8,9 +8,9 @@
 
 ## 3. felhívja a feladat- és hatáskörrel rendelkező minisztereket, valamint felkéri a Nemzeti Média- és Hírközlési Hatóság elnökét, hogy az 1. melléklet 1. pontjában közzétett ajánlások végrehajtásának lehetőségét vizsgálják meg az alábbiak szerint:
 
-## 3.1. az 1. melléklet 1. pont 2. alpontja tekintetében
+## 3.1.[^1] az 1. melléklet 1. pont 2. alpontja tekintetében
 
-## Felelős: emberi erőforrások minisztere
+## Felelős: családokért felelős tárca nélküli miniszter
 
 ## Határidő: folyamatos
 
@@ -437,3 +437,5 @@ A KVB javasolja a magyar félnek, hogy vizsgálja meg az intézet folyamatos és
 9. alpont: A KVB javasolja a feleknek egy szakértői csoport létrehozását a magyar–horvát és a horvát–magyar jogi szótár kidolgozására és a működésük megkezdéséhez szükséges feltételek biztosítását.
 
 10. alpont: A KVB javasolja az új magyar–horvát oktatási és tudományos tárcaközi együttműködési program mielőbbi összeállítását és aláírását, tekintettel arra, hogy a legutóbbi oktatási és tudományos tárcaközi együttműködési program 2014–2017. közötti időszakra köttetett a két tárca között.
+
+[^1]: A 3. pont 3.1. alpontja az 1458/2021. (VII. 13.) Korm. határozat 7. pontja szerint módosított szöveg.
