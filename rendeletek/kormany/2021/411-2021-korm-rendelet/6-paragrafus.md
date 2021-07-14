@@ -1,1 +1,3 @@
-## „(8) A 2. mellékletben foglalt táblázat 3. és 24. sora szerinti beruházás időtartama alatt a beruházás helyszínéül szolgáló ingatlanok vagyonkezelője által a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.”
+## 5. §[^5]
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
