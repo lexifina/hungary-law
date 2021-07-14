@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1616-30
 | --- | --- | --- |
 | 2020-10-01 | 2020-1616-30-22.1 | 1616/2020. (X. 1.) Korm. határozat |
 | 2020-12-24 | 2020-1616-30-22.2 | 2005/2020. (XII. 24.) Korm. határozat |
+| 2021-07-14 | 2020-1616-30-22.3 | 1458/2021. (VII. 13.) Korm. határozat |

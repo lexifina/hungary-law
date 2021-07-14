@@ -78,7 +78,7 @@ családokért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-6. felhatalmazza az ET/MB magyar elnökség tevékenysége és prioritásai alapján érintett minisztereket, hogy az 5. pontban megjelölt feladat végrehajtását követően felmerült további szakmai programelemeket az érintett fejezetek költségvetése terhére megvalósítsák;
+6.[^4] felhatalmazza az ET/MB magyar elnökség tevékenysége és prioritásai alapján érintett minisztereket, hogy az 5. pontban megjelölt feladat végrehajtását követően felmerült további szakmai programelemeket az érintett fejezetek költségvetése terhére megvalósítsák;
 
 Felelős: külgazdasági és külügyminiszter
 
@@ -92,7 +92,7 @@ belügyminiszter
 
 agrárminiszter
 
-emberi erőforrások minisztere
+emberi erőforrások minisztere, családokért felelős tárca nélküli miniszter
 
 innovációért és technológiáért felelős miniszter
 
@@ -103,3 +103,4 @@ Határidő: a felmerülés ütemében
 [^1]: A 4. pont c) alpontja a 2005/2020. (XII. 24.) Korm. határozat 15. pont a) alpontja szerint módosított szöveg.
 [^2]: A 4. pont h) alpontja a 2005/2020. (XII. 24.) Korm. határozat 15. pont b) alpontja szerint módosított szöveg.
 [^3]: Az 5. pontja a 2005/2020. (XII. 24.) Korm. határozat 16. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1458/2021. (VII. 13.) Korm. határozat 10. pontja szerint módosított szöveg.
