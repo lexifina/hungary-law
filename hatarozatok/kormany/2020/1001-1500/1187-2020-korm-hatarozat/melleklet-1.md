@@ -46,9 +46,9 @@
 
 1. A fogyatékos emberek társadalmi befogadását támogató szakmai fejlesztések
 
-1.1. A fogyatékos emberek társadalmi befogadása érdekében szemléletformáló programokat kell indítani az őket képviselő érdekvédelmi szervezetek bevonásával, egyebek mellett szemléletformáló programok kidolgozásával és indításával kell támogatni a fogyatékos gyermekek örökbefogadását.
+1.1.[^1] A fogyatékos emberek társadalmi befogadása érdekében szemléletformáló programokat kell indítani az őket képviselő érdekvédelmi szervezetek bevonásával, egyebek mellett szemléletformáló programok kidolgozásával és indításával kell támogatni a fogyatékos gyermekek örökbefogadását.
 
-Felelős: emberi erőforrások minisztere
+Felelős: emberi erőforrások minisztere, családokért felelős tárca nélküli miniszter
 
 Határidő: 2022. december 31.
 
@@ -758,9 +758,9 @@ Határidő: 2022. december 31.
 
 Forrás: európai uniós forrásbevonással
 
-11.3. Fogyatékos gyermekek örökbefogadásának elősegítése érdekében ki kell dolgozni a fogyatékos gyermeket örökbefogadók támogatásának további lehetőségeit.
+11.3.[^2] Fogyatékos gyermekek örökbefogadásának elősegítése érdekében ki kell dolgozni a fogyatékos gyermeket örökbefogadók támogatásának további lehetőségeit.
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: 2021. december 31.
 
@@ -774,7 +774,7 @@ Határidő: 2022. január 1.
 
 Forrás: európai uniós forrásbevonással
 
-11.5.[^1] A súlyosan, halmozottan fogyatékos, tartósan súlyos beteg gyermekek nevelőszülői elhelyezése érdekében célirányos, különböző tevékenység elemekből álló toborzási módszertant kell kidolgozni és megvalósítani.
+11.5.[^3] A súlyosan, halmozottan fogyatékos, tartósan súlyos beteg gyermekek nevelőszülői elhelyezése érdekében célirányos, különböző tevékenység elemekből álló toborzási módszertant kell kidolgozni és megvalósítani.
 
 Felelős: emberi erőforrások minisztere a Nemzeti Szociálpolitikai Intézet bevonásával
 
@@ -882,4 +882,6 @@ Határidő: 2022. december 31.
 
 Forrás: forrást nem igényel
 
-[^1]: Az 1. melléklet 11. alcím 11.5. pontja az 1948/2020. (XII. 18.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet 1. pont 1.1. alpontja az 1458/2021. (VII. 13.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet 11. pont 11.3. alpontja az 1458/2021. (VII. 13.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 11. alcím 11.5. pontja az 1948/2020. (XII. 18.) Korm. határozat 9. pontja szerint módosított szöveg.

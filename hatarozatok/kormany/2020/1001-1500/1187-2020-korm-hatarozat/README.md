@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1187-30
 | --- | --- | --- |
 | 2020-04-29 | 2020-1187-30-22.1 | 1187/2020. (IV. 28.) Korm. határozat |
 | 2021-01-01 | 2020-1187-30-22.2 | 1948/2020. (XII. 18.) Korm. határozat |
+| 2021-07-14 | 2020-1187-30-22.3 | 1458/2021. (VII. 13.) Korm. határozat |
