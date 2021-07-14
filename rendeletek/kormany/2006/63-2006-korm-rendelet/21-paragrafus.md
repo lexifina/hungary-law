@@ -42,15 +42,15 @@ i) a szakmai vélemény kiállítójának azonosítására szolgáló adatot.
 
 (8a)[^138] A (8) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, azzal, hogy a szakvélemény érvényességi ideje legfeljebb a gyermek 7. életévének betöltéséig terjedhet.
 
-(8b)[^139] Az ápolási díjat megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
+(8b)[^139] A gyermekek otthongondozási díját megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
 
-(9)[^140] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
+(9)[^140] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés alapján felkért szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
 
 (10)[^141] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
 
 [^136]: A 21. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
 [^137]: A 21. § (6a) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be.
 [^138]: A 21. § (8a) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^139]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^140]: A 21. § (9) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^139]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 414/2021. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^140]: A 21. § (9) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^141]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
