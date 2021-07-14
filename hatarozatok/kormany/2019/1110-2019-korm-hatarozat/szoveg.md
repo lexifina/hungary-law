@@ -84,18 +84,21 @@ Határidő: az 1. pont aa) alpontja esetében 2019. június 30.
 
 az 1. pont aa)–ad), b) és c) alpontja esetében a 2020. évre vonatkozó központi költségvetés tervezésekor
 
-b) a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló kormányrendelet szerinti támogatási rendszer működéséhez az Emberi Erőforrások Minisztériuma költségvetési fejezetében;
+b)[^1] a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló kormányrendelet szerinti támogatási rendszer működéséhez a Miniszterelnökség költségvetési fejezetében;
 
 Felelős: pénzügyminiszter
 
-emberi erőforrások minisztere
+családokért felelős tárca nélküli miniszter
 
 Határidő: a 2019-es év tekintetében 2019. június 30., a további években az adott évre vonatkozó központi költségvetés tervezésekor
 
-c) a babaváró támogatásról szóló kormányrendelet szerinti kölcsönkonstrukcióhoz kapcsolódó költségvetési támogatásokhoz a Magyarország központi költségvetéséről szóló törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezetében.
+c)[^2] a babaváró támogatásról szóló kormányrendelet szerinti kölcsönkonstrukcióhoz kapcsolódó költségvetési támogatásokhoz a Magyarország központi költségvetéséről szóló törvény 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezetében.
 
 Felelős: pénzügyminiszter
 
-emberi erőforrások minisztere
+családokért felelős tárca nélküli miniszter
 
 Határidő: a 2019-es év tekintetében 2019. június 30., a további években az adott évre vonatkozó központi költségvetés tervezésekor
+
+[^1]: A 3. pont b) alpontja az 1458/2021. (VII. 13.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont c) alpontja az 1458/2021. (VII. 13.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
