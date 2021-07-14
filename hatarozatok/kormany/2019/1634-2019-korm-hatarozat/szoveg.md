@@ -42,9 +42,9 @@ Határidő: a 3. pont a)–d) alpontja tekintetében 2020. február 29.
 
 a 3. pont e) alpontja tekintetében 2019. december 15.
 
-5. felhívja az emberi erőforrások miniszterét, hogy évente gondoskodjon a civil szervezetek részére pályázati program kiírásáról az 1-es típusú diabétesszel kapcsolatos tájékoztatási feladatokban való részvétel támogatására;
+5.[^1] felhívja az családokért felelős tárca nélküli minisztert, hogy évente gondoskodjon a civil szervezetek részére pályázati program kiírásáról az 1-es típusú diabétesszel kapcsolatos tájékoztatási feladatokban való részvétel támogatására;
 
-Felelős: emberi erőforrások minisztere
+Felelős: családokért felelős tárca nélküli miniszter
 
 Határidő: a 2020. évre vonatkozóan azonnal, a 2021. évtől pedig minden év januárjának 31. napjáig
 
@@ -69,3 +69,5 @@ Felelős: pénzügyminiszter
 emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
+
+[^1]: Az 5. pont az 1458/2021. (VII. 13.) Korm. határozat 6. pontja szerint módosított szöveg.
