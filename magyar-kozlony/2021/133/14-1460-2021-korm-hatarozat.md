@@ -1,0 +1,172 @@
+# A Kormány 1460/2021. (VII. 14.) Korm. határozata
+
+Magyar Közlöny 2021. évi 133. szám, 2021. július 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/yjRYroZcroffgJOT1t3w60e5f6621b1de/dokumentumok/d4dbacaa97da7f1cb5167231e8ceba03ea7af447/letoltes)
+
+---
+
+A Kormány 1460/2021. (VII. 14.) Korm. határozata
+a KEHOP-5.2.2-16-2016-00089 azonosító számú, Fejér Megyei Rendőr-főkapitányság épületeinek energetikai
+fejlesztése című és a KEHOP-5.2.2-16-2016-00101 azonosító számú, Budapesti Rendőr-főkapitányság
+épületeinek energetikai fejlesztése című projekt támogatásának növeléséről
+1. A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés f) pontjában meghatározott
+feladatkörében eljárva
+a) egyetért az 1. melléklet szerinti projektek (a továbbiakban: projektek) támogatásának növelésével és
+forrásszerkezetének módosításával,
+b) egyetért a projektek 1. mellékletben foglalt táblázat G oszlopa szerinti többlettámogatásának a Környezeti
+és Energiahatékonysági Operatív Program (a továbbiakban: KEHOP) 5. prioritása rendelkezésre álló kerete
+terhére történő finanszírozásával,
+c) felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon a projektek támogatási
+szerződéseinek 1. melléklet szerinti módosításáról.
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: azonnal
+2. A Kormány egyetért azzal, hogy a projektek esetén az 1. mellékletben foglalt táblázat H oszlopában meghatározott,
+összesen legfeljebb 298 268 604 forint összegű európai uniós forrás terhére el nem számolható költség – az Uniós
+fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.)
+Korm. rendelet 6. § (1) bekezdés b) pontja alapján – a KEHOP hazai társfinanszírozáson felüli felhasználásával
+kerüljön finanszírozásra.
+Felelős: innovációért és technológiáért felelős miniszter
+Határidő: azonnal
+3. Ez a határozat a közzétételét követő napon lép hatályba.
+4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló
+1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:558 mezőjében a „0,40” szövegrész helyébe
+a„0,43”szöveg lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1460/2021. (VII. 14.) Korm. határozathoz
+A B C D E F G H I J K L M
+1.
+Projekt
+azonosító száma
+Projekt megnevezése
+Kedvezményezett
+neve
+Módosítás előtti forrásszerkezet
+Projekt módosítás
+előtti összköltsége
+összesen
+(bruttó forint)
+Változás Módosítást követő forrásszerkezet
+Projekt módosítást
+követő összköltsége
+(bruttó forint)
+Projekt rövid bemutatása
+2.
+KEHOP
+(bruttó forint)
+Az Európai
+Unió felé nem
+elszámolható
+költség
+(bruttó forint)
+KEHOP
+(bruttó forint)
+Az EU felé nem
+elszámolható
+egyéb költségek
+az 549/2013. (XII. 30.)
+Korm. rendelet
+6. § (1) bekezdés
+b) pontja alapján
+(bruttó forint)
+Projekt
+összköltsége
+(bruttó forint)
+KEHOP
+(bruttó forint)
+Az EU felé nem
+elszámolható
+egyéb költségek
+az 549/2013. (XII. 30.)
+Korm. rendelet
+6. § (1) bekezdés
+b) pontja alapján
+(bruttó forint)
+3.
+KEHOP-5.2.2-
+16-2016-00089
+Fejér Megyei
+Rendőr-
+főkapitányság
+épületeinek
+energetikai
+fejlesztése
+BMSK Sport
+Közhasznú
+Nonprofit Kft.
+(konzorcium-
+vezető)
+Fejér Megyei
+Rendőr-
+főkapitányság
+400 000 000 – 400 000 000 + 26 172 573 + 135 093 849 + 161 266 422 426 172 573 135 093 849 561 266 422
+1. rész: Autópálya-rendőrség
+A projekt a Fejér Megyei Rendőr-főkapitányság Fejér Megye 020382/1 hrsz.,
+8000 Székesfehérvár külterület épületét érinti. Ezen épület az építési kornak
+megfelelő technológiai színvonalon épült, de a határoló szerkezetek és az elavult,
+helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai
+és épület-szerkezettani követelményeinek, így az épület jelentős hőveszteséggel
+működik. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek
+utólagos hőszigetelését, fűtési és világítási rendszerek korszerűsítését, villamos
+energiát termelő napelemrendszer telepítését tartalmazza a hatályos
+7/2006. (IV. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve
+az üzemeltetés energiaköltségeinek minél magasabb megtakarítására.
+2. rész: Főkapitányság épülete
+A projekt a Fejér Megyei Rendőr-főkapitányság Fejér Megye 856 hrsz.,
+8000 Székesfehérvár, Deák F. u. 2. épületeit érinti. Ezen épületek az építési kornak
+megfelelő technológiai színvonalon épültek, de a határoló szerkezetek és az elavult,
+helyenként rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és
+épület-szerkezettani követelményeinek, így az épületek jelentős hőveszteséggel
+működnek. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek
+utólagos hőszigetelését, fűtési és világítási rendszerek korszerűsítését, villamos
+energiát termelő napelemrendszer telepítését tartalmazza a hatályos
+7/2006. (IV. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve
+az üzemeltetés energiaköltségeinek minél magasabb megtakarítására.
+Az épület energetikai korszerűsítését célzó építészeti felújítási munkáknak az épület
+külső határoló szerkezeteit kell érinteniük. Hőszigetelésre kell kerülniük az épület
+homlokzati falainak, a lábazatoknak és a lapostetőknek. A lapostetők hőszigetelése
+kapcsán mindenütt szükséges felújítani a lapostetőkön található csapadékvíz elleni
+szigetelést. Cserélni szükséges a mai energetikai követelményeknek nem megfelelő
+homlokzati nyílászárókat.
+Szükséges kialakítani egyes épületek esetében a fűtési hálózat korszerűsítését,
+a fűtési rendszer szabályozását. Továbbá telepítésre kell kerülnie napelemes
+rendszernek is.
+
+4.
+KEHOP-5.2.2-
+16-2016-00101
+Budapesti
+Rendőr-
+főkapitányság
+épületeinek
+energetikai
+fejlesztése
+BMSK Sport
+Közhasznú
+Nonprofit Kft.
+(konzorcium-
+vezető)
+Budapesti
+Rendőr-
+főkapitányság
+1 620 000 000 72 146 905 1 692 146 905 0 + 163 174 755 + 163 174 755 1 620 000 000 235 321 660 1 855 321 660
+A projekt a Budapesti Rendőr-főkapitányság 1102 Budapest, Harmat utca 6–8.
+39192 helyrajzi számú épületeit érinti. Ezen épületek az építési kornak megfelelő
+technológiai színvonalon épültek, de a határoló szerkezetek és az elavult, helyenként
+rosszul záródó nyílászárók nem felelnek meg a mai kor hőtechnikai és
+épület-szerkezettani követelményeinek, így az épületek jelentős hőveszteséggel
+működnek. Az épületenergetikai beruházás a külső határoló fal- és födémszerkezetek
+utólagos hőszigetelését, fűtési rendszerek korszerűsítését, valamint villamos energiát
+termelő napelemrendszer telepítését tartalmazza a hatályos
+7/2006. (IV. 24.) TNM rendelet követelményszintjének való megfeleléssel, törekedve
+az üzemeltetés energiaköltségeinek minél magasabb megtakarítására.
+Az épületek energetikai korszerűsítését célzó építészeti felújítási munkáknak
+az épületek külső határoló szerkezeteit kell érinteniük. Hőszigetelésre kell
+kerülniük az épületek homlokzati falainak, a lábazatoknak és a lapostetőknek.
+A lapostetők hőszigetelése kapcsán mindenütt szükséges felújítani a lapostetőkön
+található csapadékvíz elleni szigetelést. Cserélni szükséges a mai energetikai
+követelményeknek nem megfelelő homlokzati nyílászárókat.
+Szükséges kialakítani egyes épületek esetében a fűtési hálózat korszerűsítését,
+a fűtési rendszer szabályozását. Beépítésre kell kerülniük korszerű lapradiátoroknak is.
+Továbbá telepítésre kerül napelemes rendszer is.
