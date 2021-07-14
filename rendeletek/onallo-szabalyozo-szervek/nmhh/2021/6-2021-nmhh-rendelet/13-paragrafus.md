@@ -1,3 +1,5 @@
-## 12. § A szolgáltatóváltás és számhordozás részletes szabályairól szóló 23/2020. (XII. 21.) NMHH rendelet 4. § (12) bekezdésében az „értesítéséig” szövegrész helyébe a „(11) bekezdés szerinti értesítéséig” szöveg lép.
+## 12. §[^13]
 
 ## 7. Záró rendelkezések
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
