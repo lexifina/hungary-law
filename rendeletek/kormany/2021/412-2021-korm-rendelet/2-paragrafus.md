@@ -1,3 +1,5 @@
-## 1. § A honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató, valamint az ennek irányítása alá tartozó egyéb egészségügyi szolgáltató irányításának veszélyhelyzeti rendjéről szóló 691/2020. (XII. 29.) Korm. rendelet 1. melléklet 1. pontjában a „Baleseti Központ” szövegrész helyébe a „Dr. Manninger Jenő Baleseti Központ” szöveg lép.
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
