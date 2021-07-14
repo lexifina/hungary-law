@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-316-20-
 | 2019-08-01 | 2012-316-20-22.19 | 180/2019. (VII. 26.) Korm. rendelet |
 | 2021-01-01 | 2012-316-20-22.20 | 610/2020. (XII. 18.) Korm. rendelet |
 | 2021-07-01 | 2012-316-20-22.21 | 376/2021. (VI. 30.) Korm. rendelet |
+| 2021-07-14 | 2012-316-20-22.22 | 610/2020. (XII. 18.) Korm. rendelet |
