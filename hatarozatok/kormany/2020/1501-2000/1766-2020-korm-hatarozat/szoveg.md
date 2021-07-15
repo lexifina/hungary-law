@@ -1,10 +1,10 @@
 A Kormány
 
-1. egyetért a kisújszállási sportcsarnok megvalósítására irányuló, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházás (a továbbiakban: Beruházás) koncepciójával és a Beruházás ennek megfelelő előkészítésével a Kisújszállás belterület, Arany János utca – Illéssy utca által határolt ingatlanokon;
+1.[^1] egyetért a kisújszállási sportcélú beruházás megvalósítására irányuló, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházás (a továbbiakban: Beruházás) koncepciójával és a Beruházás ennek megfelelő előkészítésével az ingatlan-nyilvántartás szerinti Kisújszállás belterület 31, 32, 38/2, 39, 40/1, 40/2 és 2213 helyrajzi számú ingatlanokon;[^2]
 
 2. a Beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-3. egyetért azzal, hogy a Beruházás előkészítője Kisújszállás Város Önkormányzata (a továbbiakban: Önkormányzat), megvalósítója a Beruházási Ügynökség legyen;
+3.[^3] egyetért azzal, hogy a Beruházás előkészítője Kisújszállás Város Önkormányzata (a továbbiakban: Önkormányzat), megvalósítója a Beruházási Ügynökség legyen, azzal, hogy a Beruházás előkészítése a kisújszállási sportcsarnok és tanuszoda tervezésére irányulóan valósuljon meg;[^4]
 
 4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), c), e), g), i), l), n)–p) pontja szerinti előkészítési fázisaira 97 659 806 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell teljesíteni.
 
@@ -22,10 +22,17 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a forrás rendelkezésre állását követő 45 napon belül
 
-7. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával, a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének, valamint a Beruházás során létrejövő vagyonelemek tulajdoni viszonyaira és vagyonkezelőjére vonatkozó javaslatának bemutatásával.
+7.[^5] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával, a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, ideértve a sportcsarnok és a tanuszoda kialakítására vonatkozó, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének, valamint a Beruházás során létrejövő vagyonelemek tulajdoni viszonyaira és vagyonkezelőjére vonatkozó javaslatának bemutatásával.[^6]
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 emberi erőforrások minisztere
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
+
+[^1]: Az 1. pont az 1469/2021. (VII. 15.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Lásd az 1947/2021. (XII. 21.) Korm. határozat 2. pont a) alpontját.
+[^3]: A 3. pont az 1469/2021. (VII. 15.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: Lásd az 1947/2021. (XII. 21.) Korm. határozat 2. pont b) alpontját.
+[^5]: A 7. pont az 1469/2021. (VII. 15.) Korm. határozat 5. pontjával megállapított szöveg.
+[^6]: Lásd az 1947/2021. (XII. 21.) Korm. határozat 2. pont c) alpontját.
