@@ -1,1 +1,0 @@
-4. § Nem lép hatályba a védettségi igazolások kölcsönös elfogadásának megállapításáról szóló 7/2021. (IV. 29.) KKM rendelet Zöld-foki Köztársasággal összefüggő módosításáról szóló 25/2021. (VI. 25.) KKM rendelet.
