@@ -1,24 +1,24 @@
-## 18. §[^39] A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 239/A. § (1) bekezdésében meghatározott védelmi intézkedés megszegése szabálysértés alkalmazásában védelmi intézkedésnek minősül a 2. § (1) bekezdése, a 7. § (1) és (3) bekezdése, a 9. § (2) bekezdése, a 10. § (2) és (3) bekezdése, a 11. § (4) bekezdése, a 12/A. § (2) bekezdés a) pontja, a 12/A. § (4) bekezdése és a 14. § (2)–(4) bekezdése.
+## 18. §[^44] A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 239/A. § (1) bekezdésében meghatározott védelmi intézkedés megszegése szabálysértés alkalmazásában védelmi intézkedésnek minősül a 2. § (1) bekezdése, a 7. § (1) és (3) bekezdése, a 9. § (2) bekezdése, a 10. § (2) és (3) bekezdése, a 11. § (4) bekezdése, a 12/A. § (2) bekezdés a) pontja, a 12/A. § (4) bekezdése, a 14. § (2)–(4) bekezdése és a 14. § (6) bekezdése.
 
-19. § (1) Felhatalmazást kap a közbiztonságért felelős miniszter, hogy rendeletben állapítsa meg – a 9. § (1) bekezdése szerinti – azon államokat, amelyek esetében a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti vállalkozási viszonyban álló gazdasági társaságok vezető tisztségviselői, illetve munkavállalói Magyarország területére korlátozás nélkül beléphetnek.[^40]
+19. § (1) Felhatalmazást kap a közbiztonságért felelős miniszter, hogy rendeletben állapítsa meg – a 9. § (1) bekezdése szerinti – azon államokat, amelyek esetében a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja szerinti vállalkozási viszonyban álló gazdasági társaságok vezető tisztségviselői, illetve munkavállalói Magyarország területére korlátozás nélkül beléphetnek.[^45]
 
-(2) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg – a 10. § (1) bekezdése szerinti – azon szomszédos államokat, amelyekből annak polgárai és az ott élő magyar állampolgárok Magyarország területére legfeljebb 24 óra időtartamra az államhatártól számított 30 kilométeres távolságon belülre beléphetnek.[^41]
+(2) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg – a 10. § (1) bekezdése szerinti – azon szomszédos államokat, amelyekből annak polgárai és az ott élő magyar állampolgárok Magyarország területére legfeljebb 24 óra időtartamra az államhatártól számított 30 kilométeres távolságon belülre beléphetnek.[^46]
 
-(3)[^42] Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg – a 9/A. § (2) bekezdés f) pontja szerinti – azon államokat,[^43]
+(3)[^47] Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg – a 9/A. § (2) bekezdés f) pontja szerinti – azon államokat,[^48]
 
 a) amelyekbe történő gazdasági vagy üzleti célú kiutazást követő visszautazásakor a magyar állampolgár Magyarország területére korlátozás nélkül beléphet, illetve
 
 b) amely állam állampolgára, vagy amely államban 90 napot meghaladó tartózkodásra jogosult személy gazdasági vagy üzleti célból Magyarország területére korlátozás nélkül beléphet.
 
-(4)[^44] Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg azon államokat, amelyek érvényes, a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötöttek Magyarországgal.[^45]
+(4)[^49] Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg azon államokat, amelyek érvényes, a védettségi igazolások kölcsönös elfogadásáról szóló kétoldalú megállapodást kötöttek Magyarországgal.[^50]
 
-(5)[^46] Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg azon államokat, amelyek védettségi igazolását Magyarország egyoldalúan elismeri. Az így meghatározott országok körét azok járványügyi helyzetétől vagy ezzel kapcsolatos intézkedésétől függően – ideértve egy ország tekintetében az egyoldalú kedvezmény visszavonását is – a külpolitikáért felelős miniszter a határrendészetért felelős miniszterrel egyetértésben hatályon kívül helyezheti vagy módosíthatja.
+(5)[^51] Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a határrendészetért felelős miniszterrel egyetértésben, rendeletben állapítsa meg azon államokat, amelyek védettségi igazolását Magyarország egyoldalúan elismeri. Az így meghatározott országok körét azok járványügyi helyzetétől vagy ezzel kapcsolatos intézkedésétől függően – ideértve egy ország tekintetében az egyoldalú kedvezmény visszavonását is – a külpolitikáért felelős miniszter a határrendészetért felelős miniszterrel egyetértésben hatályon kívül helyezheti vagy módosíthatja.
 
-[^39]: A 18. § a 422/2020. (IX. 4.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^40]: Lásd a 33/2020. (VIII. 30.) BM rendeletet.
-[^41]: Lásd a 13/2020. (VIII. 31.) KKM rendeletet.
-[^42]: A 19. § (3) bekezdését a 88/2021. (II. 27.) Korm. rendelet 2. §-a iktatta be.
-[^43]: Lásd a 4/2021. (III. 1.) KKM rendeletet.
-[^44]: A 19. § (4) bekezdését a 203/2021. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
-[^45]: Lásd a 7/2021. (IV. 29.) KKM rendeletet.
-[^46]: A 19. § (5) bekezdését a 273/2021. (V. 22.) Korm. rendelet 2. §-a iktatta be.
+[^44]: A 18. § a 422/2020. (IX. 4.) Korm. rendelet 8. § d) pontja, a 416/2021. (VII. 14.) Korm. rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^45]: Lásd a 33/2020. (VIII. 30.) BM rendeletet.
+[^46]: Lásd a 13/2020. (VIII. 31.) KKM rendeletet.
+[^47]: A 19. § (3) bekezdését a 88/2021. (II. 27.) Korm. rendelet 2. §-a iktatta be.
+[^48]: Lásd a 4/2021. (III. 1.) KKM rendeletet.
+[^49]: A 19. § (4) bekezdését a 203/2021. (IV. 29.) Korm. rendelet 2. §-a iktatta be.
+[^50]: Lásd a 7/2021. (IV. 29.) KKM rendeletet.
+[^51]: A 19. § (5) bekezdését a 273/2021. (V. 22.) Korm. rendelet 2. §-a iktatta be.
