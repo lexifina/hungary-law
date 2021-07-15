@@ -6,7 +6,7 @@ A Kormány
 
 3. egyetért azzal, hogy a Beruházás előkészítője Lajosmizse Város Önkormányzata (a továbbiakban: Önkormányzat), megvalósítója a Beruházási Ügynökség legyen;
 
-4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § p) pontja szerinti előkészítési fázisára, továbbá egyéb, a Beruházáshoz kapcsolódó előkészítési feladatokra 17 508 750 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. március 31. napjáig kell megvalósítani;
+4.[^1] a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § p) pontja szerinti előkészítési fázisára, továbbá egyéb, a Beruházáshoz kapcsolódó előkészítési feladatokra 17 508 750 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. október 31. napjáig kell megvalósítani;
 
 5. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a 4. pontban meghatározott cél szerinti forrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 40. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport javára;
 
@@ -29,3 +29,5 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 emberi erőforrások minisztere
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
+
+[^1]: A 4. pont az 1469/2021. (VII. 15.) Korm. határozat 6. pontja szerint módosított szöveg.
