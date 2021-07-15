@@ -46,7 +46,11 @@ Határidő: az a) alpont tekintetében azonnal
 
 a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-7. támogatja, hogy az Önkormányzat a jelenleg a Magyar Állam tulajdonában és az Önkormányzat vagyonkezelésében lévő 1062 Budapest, Bajza utca 44. szám alatti ingatlanban működő köznevelési és kulturális intézményei a Magyarországi Bolgárok Egyesületének tulajdonában lévő, a Budapest 38257/5 helyrajzi számú, természetben az 1097 Budapest, Vágóhíd utca 19. szám alatti beépítetlen telken megvalósítandó új ingatlanban kerüljenek elhelyezésre;
+7.[^2] támogatja, hogy a Magyarországi Bolgárok Egyesületének tulajdonában lévő, a Budapest belterület 38257/5 helyrajzi számú, természetben az 1097 Budapest, Vágóhíd utca 19. szám alatti beépítetlen telken megvalósítandó új ingatlanban
+
+a) kerüljenek elhelyezésre az Önkormányzat köznevelési és kulturális intézményei és a Bolgár Országos Önkormányzat Hivatala, valamint
+
+b) az Önkormányzat részére a köznevelési és kulturális feladatainak ellátását szolgáló lakások kerüljenek kialakításra;
 
 8. felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon az Önkormányzat által megvalósítani kívánt épület finanszírozásához a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet javára 2 600 000 000 forint biztosításáról;
 
@@ -71,3 +75,4 @@ innovációért és technológiáért felelős miniszter
 Határidő: folyamatos
 
 [^1]: A 6. pont az 1045/2021. (II. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 7. pont az 1466/2021. (VII. 15.) Korm. határozattal megállapított szöveg.
