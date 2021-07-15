@@ -1,26 +1,26 @@
 ## 1. egyetért a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának szükségességével, az 1. melléklet szerint;
 
-## 2. egyetért azzal, hogy a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében összesen 157 247 685 622 forint központi költségvetési forrás kerüljön biztosításra az alábbi, költségvetési évek szerinti bontásban:
+## 2.[^1] egyetért azzal, hogy a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében összesen 170 971 394 739 forint központi költségvetési forrás kerüljön biztosításra az alábbi, költségvetési évek szerinti bontásban:
 
 ## a) a 2020. évben 14 298 284 785 forint,
 
-## b) a 2021. évben 108 081 707 103 forint,
+## b) a 2021. évben 111 633 834 488 forint,
 
-## c) a 2022. évben 34 867 693 734 forint;
+## c) a 2022. évben 45 039 275 466 forint;
 
-## 3. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében gondoskodjon:
+## 3.[^2] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében gondoskodjon:
 
-## a) a 2020. évben szükséges 14 298 284 785 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. Közúthálózat felújítása jogcímcsoport javára,
+## a) a 2021. évben szükséges 111 633 834 488 forint rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára,
 
-## b) a 2021. évben szükséges 108 081 707 103 forint rendelkezésre állásáról az Innovációs és Technológiai Minisztérium fejezet közúthálózat felújítását finanszírozó előirányzata javára,
-
-## c) a 2022. évre szükséges 34 867 693 734 forint rendelkezésre állásáról az Innovációs és Technológiai Minisztérium fejezet közúthálózat felújítását finanszírozó előirányzata javára;
+## b) a 2022. évben szükséges 45 039 275 466 forint rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára;
 
 ## Felelős: pénzügyminiszter
 
 ## innovációért és technológiáért felelős miniszter
 
-## Határidő: az a) alpont tekintetében a 2020. évi központi költségvetés végrehajtása során a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása során a c) alpont tekintetében a 2022. évi központi költségvetés tervezése során
+## Határidő: az a) alpont tekintetében a felmerülés ütemében
+
+## a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során
 
 ## 4. felhívja az innovációért és technológiáért felelős minisztert, hogy az elérhető európai uniós források függvényében gondoskodjon az 1. pontban hivatkozott, az 1. melléklet szerinti, központi költségvetési forrásból megvalósítani tervezett projektek átemeléséről az adott projektek finanszírozását lehetővé tévő európai uniós finanszírozási programba;
 
@@ -34,15 +34,11 @@
 
 ## Határidő: a 3. pont a) alpont szerinti forrás rendelkezésre állását követően azonnal
 
-## 6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében – a 7. pont szerinti korlátokat is figyelembe véve – összesen legfeljebb 157 169 101 071 forint összegben kötelezettséget vállaljon;
+## 6.[^3] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében összesen legfeljebb 170 885 951 762 forint összegben kötelezettséget vállaljon.
 
-## 7. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 30. Közúthálózat felújítása kiadási előirányzata terhére vállalható kötelezettségek mértékét a 2021–2022. évekre az alábbiak szerint állapítja meg:
+## 7.[^4]
 
-## a) a 2021. évre 108 027 693 256 forint,
-
-## b) a 2022. évre 34 850 268 600 forint.
-
-1. melléklet az 1744/2020. (XI. 11.) Korm. határozathoz
+1. melléklet az 1744/2020. (XI. 11.) Korm. határozathoz[^5]
 
 A közúti felújításokra vonatkozó kiemelt társadalmi igények projektlistája
 
@@ -209,3 +205,27 @@ A közúti felújításokra vonatkozó kiemelt társadalmi igények projektlist�
 | 81. | 7213. és 72306. jelű utak csomópontjának körforgalmú csomóponttá történő átépítése |
 
 | 82. | 73. számú Csopak-Veszprém másodrendű főút és a 7221. jelű összekötő út csomópontjának körforgalmú csomóponttá történő átépítése |
+
+| 83. | 67107. jelű Gamás bekötőút 0+517–3+146 km szelvények közötti szakaszának felújítása |
+
+| 84. | Gamás belterület, bekötőúthoz csatlakozó önkormányzati út felújítása |
+
+| 85. | 68. számú Barcs–Böhönye–Balatonszentgyörgy másodrendű főút 91+748–92+819 és 93+099–95+027 km szelvények közötti szakaszainak felújítása |
+
+| 86. | 54121. jelű bekötőút építése, az M5 autópálya Csengelei pihenőhely közúti hálózatba illesztése és a kapcsolódó hálózati elemek rekonstrukciója |
+
+| 87. | 3224. jelű Szolnok–Tiszasüly összekötőút 8+800–11+000 km szelvények közötti szakaszának felújítása |
+
+| 88. | 13. számú Országhatár–Komárom–Kisbér másodrendű főút 3+1941–9+194 km szelvények közötti szakaszának felújítása |
+
+| 89. | 471. számú Debrecen–Mátészalka másodrendű főút 53+250–54+665 km szelvények közötti szakaszának felújítása |
+
+| 90. | 471. számú Debrecen–Mátészalka másodrendű főút 54+665–56+810 km szelvények közötti szakaszának felújítása |
+
+| 91. | 4927. jelű Máriapócs–Ófehértó összekötőút 7+586–8+973 km szelvények közötti szakaszának felújítása |
+
+[^1]: A 2. pont az 1467/2021. (VII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1467/2021. (VII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1467/2021. (VII. 15.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 7. pontot az 1467/2021. (VII. 15.) Korm. határozat 4. pontja visszavonta.
+[^5]: Az 1. melléklet az 1467/2021. (VII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
