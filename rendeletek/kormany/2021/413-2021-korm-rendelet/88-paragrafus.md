@@ -14,4 +14,6 @@
 
 (4) Az e rendelet hatálybalépésekor folyamatban lévő közbeszerzési ellenőrzéseket is a nemzeti hatóság folytatja le a 272/2014. (XI. 5.) Korm. rendelet XVI. Fejezetének utólagos ellenőrzésre vonatkozó rendelkezései szerint, az eljárások áttételéről az irányító hatóság e rendelet hatálybalépését követő 15 munkanapon belül gondoskodik.
 
-(5) Hatályát veszti a 256/2021. (V. 18.) Korm. rendelet 531. §-a.
+(5)[^1]
+
+[^1]: A 88. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
