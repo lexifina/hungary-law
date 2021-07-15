@@ -1,5 +1,3 @@
-## 6. §[^4]
-
 1. melléklet a 348/2021. (VI. 22.) Korm. rendelethez
 
 |  | A | B |
@@ -43,5 +41,3 @@
 | 19. | Besztercebányai kerület (Banskobystrický kraj) |
 
 | 20. | Kassai kerület (Košický kraj) |
-
-[^4]: A 6. § a 4. § (2) bekezdése alapján 2021. július 15-én lép hatályba.

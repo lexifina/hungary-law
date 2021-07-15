@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-348-20-
 | --- | --- | --- |
 | 2021-07-01 | 2021-348-20-22.1 | 348/2021. (VI. 22.) Korm. rendelet |
 | 2021-07-02 | 2021-348-20-22.2 | 2010: CXXX. törvény |
+| 2021-07-15 | 2021-348-20-22.3 | 17/2021. (VI. 29.) BM rendelet |
