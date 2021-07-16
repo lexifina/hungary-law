@@ -18,10 +18,10 @@ bc) a felelős műszaki vezető díját, fizetési módját, határidejét,
 
 bd) a felelős műszaki vezető feladatainak és felelősségének meghatározását.
 
-(3)[^38] A felelős műszaki vezető nem lehet az építészeti-műszaki dokumentáció engedélyezésében részt vevő hatóság, valamint a tevékenység és az engedélyező hatóság felügyeletét ellátó szerv köztisztviselője, kormánytisztviselője vagy állami tisztviselője. A felelős műszaki vezető nem végezhet építésügyi műszaki szakértői és építési műszaki ellenőri tevékenységet azon kivitelezési tevékenység esetében, ahol részben vagy egészben építési-szerelési munkát vezet.
+(3)[^43] A felelős műszaki vezető nem lehet az építészeti-műszaki dokumentáció engedélyezésében részt vevő hatóság, valamint a tevékenység és az engedélyező hatóság felügyeletét ellátó szerv köztisztviselője, kormánytisztviselője vagy állami tisztviselője. A felelős műszaki vezető nem végezhet építésügyi műszaki szakértői és építési műszaki ellenőri tevékenységet azon kivitelezési tevékenység esetében, ahol részben vagy egészben építési-szerelési munkát vezet.
 
 (4) A felelős műszaki vezető nem láthat el felelős műszaki vezetői feladatokat olyan építési-szerelési munka esetében, ahol az építésügyi műszaki szakértői vagy építési műszaki ellenőri tevékenységet olyan gazdálkodó szervezet végzi, amelynek tagja, illetve amellyel munkavégzésre irányuló jogviszonyban áll.
 
 (5) A felelős műszaki vezető nem végezhet építési műszaki ellenőri tevékenységet azon kivitelezési tevékenység esetében, ahol részben vagy egészben építési-szerelési munkát vezet. A felelős műszaki vezető nem láthat el felelős műszaki vezetői feladatokat olyan építési-szerelési munka esetében, ahol az építési műszaki ellenőri tevékenységet olyan gazdálkodó szervezet végzi, amelynek tagja, illetve amellyel munkavégzésre irányuló jogviszonyban áll.
 
-[^38]: A 22. § (3) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 38. §-a szerint módosított szöveg.
+[^43]: A 22. § (3) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 38. §-a szerint módosított szöveg.

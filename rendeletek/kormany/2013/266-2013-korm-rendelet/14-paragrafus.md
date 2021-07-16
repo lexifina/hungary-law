@@ -10,14 +10,18 @@
 
 (3) A szakági településtervező feladata a szakterületének megfelelő településtervezési szakági munkarészek és javaslatok elkészítése a jogszabályok, szabványok és szakmai szabályok alapján.
 
-(4) A településfejlesztési koncepció megalapozó vizsgálata csak akkor használható fel a településrendezési eszköz kidolgozásához, ha azt jogosultsággal rendelkező településtervező és szakági településtervező készítette.
+(4)[^24] A településfejlesztési terv megalapozó vizsgálata csak akkor használható fel a településrendezési terv kidolgozásához, ha azt jogosultsággal rendelkező településtervező és szakági településtervező készítette.
 
-(5) A településrendezési tervezési tevékenység során létrejött dokumentáció aláíró lapja tartalmazza a feladat elvégzésében részt vett összes tervező nevét, szakképzettségét, szakmai címét, névjegyzéki jelölését és – legalább egy eredeti példányon – a tervező saját kezű aláírását. A településrendezési eszköz tervlapja tartalmazza a településtervező és a szakági településtervezők nevét és névjegyzéki jelölését.
+(5)[^25] A településrendezési tervezési tevékenység során létrejött dokumentáció aláíró lapja tartalmazza a feladat elvégzésében részt vett összes tervező nevét, szakképzettségét, szakmai címét, névjegyzéki jelölését és – legalább egy eredeti példányon – a tervező saját kezű aláírását. A településrendezési terv tervlapja tartalmazza a településtervező és a szakági településtervezők nevét és névjegyzéki jelölését.
 
-(6) A tervezőnek az általa készített településrendezési eszközt a megrendelő részére történő átadástól számított legalább 10 évig meg kell őriznie.
+(6)[^26] A tervezőnek az általa készített településrendezési tervet a megrendelő részére történő átadástól számított legalább 10 évig meg kell őriznie.
 
 (7) A településtervezési szerződésre a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.) szabályozott tervezési szerződés és az Étv.-ben szabályozott településtervezési szerződés szabályait kell alkalmazni.
 
-(8) Nem folytathat településrendezési tervezési tevékenységet illetékességi területén a településrendezési eszközök előkészítésében, véleményezésében, döntéshozatalában közreműködő személy, kivéve, ha az önkormányzat a 6. § (2) bekezdés a) pontja alapján településrendezési tervezési tevékenységet is folytat.
+(8)[^27] Nem folytathat településrendezési tervezési tevékenységet illetékességi területén a településrendezési terv előkészítésében, véleményezésében, döntéshozatalában közreműködő személy, kivéve, ha az önkormányzat a 6. § (2) bekezdés a) pontja alapján településrendezési tervezési tevékenységet is folytat.
 
 [^23]: A 14. § (1) bekezdése a 290/2019. (XII. 5.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^24]: A 14. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 66. § a) pontja szerint módosított szöveg.
+[^25]: A 14. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 66. § b) pontja szerint módosított szöveg.
+[^26]: A 14. § (6) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 66. § c) pontja szerint módosított szöveg.
+[^27]: A 14. § (8) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 66. § d) pontja szerint módosított szöveg.

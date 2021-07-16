@@ -40,12 +40,12 @@ bb) hogy a díjfizetés tárgyában indított bírósági eljárás van folyamat
 
 c) tájékoztatja a feleket, hogy az igazolás elmaradása esetén felfüggeszti a fizetésre kötelezett tevékenység folytatásához szükséges jogosultságát.
 
-(6)[^90] Ha a díjfizetésre kötelezett hatvan napon belül nem igazolja a meghatározottakat, a területi kamara a határidő lejártát követő nyolc napon belül az Ákr. szerinti határozatot hoz a tevékenység folytatásához szükséges jogosultság felfüggesztéséről.
+(6)[^95] Ha a díjfizetésre kötelezett hatvan napon belül nem igazolja a meghatározottakat, a területi kamara a határidő lejártát követő nyolc napon belül az Ákr. szerinti határozatot hoz a tevékenység folytatásához szükséges jogosultság felfüggesztéséről.
 
-(7)[^91] A (6) bekezdés szerinti felfüggesztés megszűnik az Étv. 58. § (11) bekezdése szerinti bírósági értesítés vagy alvállalkozói nemfizetési jelzés alapjául szolgáló díjfizetési kötelezettség teljesítésének igazolásakor. Amennyiben az építészeti-műszaki tervező a felfüggesztési határozat véglegessé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését, a kamara az engedély visszavonásával egyidejűleg törli a névjegyzékből.
+(7)[^96] A (6) bekezdés szerinti felfüggesztés megszűnik az Étv. 58. § (11) bekezdése szerinti bírósági értesítés vagy alvállalkozói nemfizetési jelzés alapjául szolgáló díjfizetési kötelezettség teljesítésének igazolásakor. Amennyiben az építészeti-műszaki tervező a felfüggesztési határozat véglegessé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését, a kamara az engedély visszavonásával egyidejűleg törli a névjegyzékből.
 
-(8)[^92] A területi kamara titkára felfüggeszti az energetikai tanúsító jogosultságát, ha a 45/B. §-ban foglalt bírságot határidőre nem fizeti meg, valamint erről az OÉNY üzemeltetőjét értesíti. A felfüggesztés addig marad hatályban, amíg a tanúsító a bírság megfizetését nem igazolja a területi kamara titkárának. A bírság megfizetésének megtörténtéről a területi kamara titkára értesíti az OÉNY üzemeltetőjét.
+(8)[^97] A területi kamara titkára felfüggeszti az energetikai tanúsító jogosultságát, ha a 45/B. §-ban foglalt bírságot határidőre nem fizeti meg, valamint erről az OÉNY üzemeltetőjét értesíti. A felfüggesztés addig marad hatályban, amíg a tanúsító a bírság megfizetését nem igazolja a területi kamara titkárának. A bírság megfizetésének megtörténtéről a területi kamara titkára értesíti az OÉNY üzemeltetőjét.
 
-[^90]: A 46. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § n) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^91]: A 46. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^92]: A 46. § (8) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 39. §-a iktatta be.
+[^95]: A 46. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § n) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^96]: A 46. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 445. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^97]: A 46. § (8) bekezdését a 482/2016. (XII. 28.) Korm. rendelet 39. §-a iktatta be.

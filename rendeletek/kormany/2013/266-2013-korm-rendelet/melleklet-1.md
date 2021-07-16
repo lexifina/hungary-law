@@ -1,4 +1,4 @@
-1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^114]
+1. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^119]
 
 ## A szakmagyakorlási jogosultságokhoz szükséges képesítési követelmények, szakmai gyakorlati idők, továbbá feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni
 
@@ -10,7 +10,7 @@ I. Szakma
 
 |  | 1. | Szakmagyakorlási terület megnevezése | Szakterület/ részszakterület megnevezése | Szakterület/ részszakterület jelölése | Feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni | Képesítési minimum követelmény és az ezzel egyenértékű szakképzettség | Szakmai gyak. idő |
 
-|  | 2. | Településtervezési terület | Településtervezési szakterület | TT | Településrendezési eszköz (megalapozó vizsgálat, alátámasztó javaslat és jóváhagyandó munkarészek), településfejlesztési koncepció településszerkezeti tervhez is felhasználható megalapozó vizsgálata, telepítési tanulmányterv, beépítési terv és örökségvédelmi hatástanulmány készítése – a tervezési feladat elvégzéséhez szükséges – településtervezési szakági tervezők bevonásával. | okleveles településmérnök | 5 év |
+|  | 2. | Településtervezési terület | Településtervezési szakterület | TT | Településrendezési eszköz (megalapozó vizsgálat, alátámasztó javaslat és jóváhagyandó munkarészek), településfejlesztési koncepció településszerkezeti tervhez is felhasználható megalapozó vizsgálata, településterv (településfejlesztési terv, helyi építési szabályzat, kerületi építési szabályzat és fővárosi rendezési szabályzat) és ennek készítéséhez szükséges megalapozó vizsgálat, alátámasztó javaslat, települési környezeti értékelés, telepítési tanulmányterv, beépítési terv és örökségvédelmi hatástanulmány készítése – a tervezési feladat elvégzéséhez szükséges esetben – településtervezési szakági tervezők bevonásával. | okleveles településmérnök | 5 év |
 
 |  | 3. | Településtervezési szakági tervezési terület | Településtervezési zöldfelületi és tájrendezési szakterület | TK | Táji-, természeti adottságok, zöldfelületi rendszer vizsgálat, helyzetelemzés, értékelés; tájrendezési, zöldfelületi rendszer fejlesztési, környezeti hatások és feltételek, és a tervezési feladat elvégzéséhez szükséges szakági munkarész és javaslat készítése. | okleveles tájépítész mérnök | 5 év |
 
@@ -30,7 +30,7 @@ II. Szakma
 
 |  | 1. | Szakmagyakorlási terület megnevezése | Szakterület/ részszakterület megnevezése | Szakterület/ részszakterület jelölése | Feladatok, amelyeket az adott szakterületi jogosultsággal lehet végezni | Képesítési minimum követelmény és az ezzel egyenértékű szakképzettség | Szakmai gyak. idő |
 
-|  | 2. | Építészeti tervezési terület | É | Az általános építmények teljes körű építészeti tervezése, beleértve a helyi vagy műemléki védelem alatt álló építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakítását. A tervezésbe – beleértve az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenység tervezését is – szakági műszaki tervezési területen jogosultsággal rendelkező tervezőt kell bevonni az Épkiv. 22. § (1) bekezdés b) pont ba)–bf) alpontjában meghatározott méretet, jellemzőt meghaladó, valamint 22. § (3) bekezdés c) és d) pontjában meghatározott esetben. Telepítési tanulmányterv (településrendezési eszköz készítése vagy módosítása esetén településtervező, szükség szerint szakági településtervező bevonásával), továbbá beépítési terv és örökségvédelmi hatástanulmány készítése. A saját tervezésű építmény teljes körű belsőépítészeti tervezése. | okleveles építészmérnök | 2 év |
+|  | 2. | Építészeti tervezési terület | É | Az általános építmények teljes körű építészeti tervezése, beleértve a helyi vagy műemléki védelem alatt álló építménnyel kapcsolatos, valamint jogszabállyal védetté nyilvánított területen (világörökség, műemléki jelentőségű területen, műemléki környezetben, tájvédelem vagy helyi védelem alatt álló területen) új építmény létesítésével és meglévő építmény tömegét megváltoztató átalakítását. A tervezésbe – beleértve az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenység tervezését is – szakági műszaki tervezési területen jogosultsággal rendelkező tervezőt kell bevonni az Épkiv. 22. § (1) bekezdés b) pont ba)–bf) alpontjában meghatározott méretet, jellemzőt meghaladó, valamint 22. § (3) bekezdés c) és d) pontjában meghatározott esetben. Telepítési tanulmányterv (településrendezési terv készítése vagy módosítása esetén településtervező, szükség szerint szakági településtervező bevonásával), továbbá beépítési terv és örökségvédelmi hatástanulmány készítése. A saját tervezésű építmény teljes körű belsőépítészeti tervezése. | okleveles építészmérnök | 2 év |
 
 |  | 3. |  | Belsőépítészeti tervezési szakterület | BÉ | Építmények teljes körű belsőépítészeti tervezése. Külön jogszabály szerinti belsőépítészeti terv készítése. | okleveles építész tervező művész, okleveles belsőépítész környezet- tervező művész | 2 év |
 
@@ -322,4 +322,4 @@ A sajátos építményfajták felelős műszaki vezetői szakterületek
 
 VII. Szakma
 
-[^114]: Az 1. melléklet a 290/2019. (XII. 5.) Korm. rendelet 7. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 20. §-a, a 236/2020. (V. 26.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^119]: Az 1. melléklet a 290/2019. (XII. 5.) Korm. rendelet 7. §-ával megállapított, a 30/2020. (II. 29.) Korm. rendelet 20. §-a, a 236/2020. (V. 26.) Korm. rendelet 10. §-a, a 420/2021. (VII. 15.) Korm. rendelet 66. § b) és f) pontja szerint módosított szöveg.
