@@ -1,6 +1,6 @@
-## 12/A. §[^10] A mindenkori Országos Képzési Jegyzékben nyilvántartott, korábban emelt szintű szakképesítésként megszerezhető szakképesítéseket a Haj.tv. 62. § (1) bekezdésének, valamint a Haj.tv. 64. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
+## 12/A. §[^12] A mindenkori Országos Képzési Jegyzékben nyilvántartott, korábban emelt szintű szakképesítésként megszerezhető szakképesítéseket a Haj.tv. 62. § (1) bekezdésének, valamint a Haj.tv. 64. § (2) bekezdésének alkalmazásakor felsőfokú szakképesítésnek, a középszintű szakképesítést középfokú szakképesítésnek kell tekinteni.
 
-## 3/A. [^11] A kulturális szakmai és a kulturális működéstámogató munkakörben foglalkoztatott honvédelmi alkalmazott munkaköre betöltésének különös szabályai
+## 3/A. [^13] A kulturális szakmai és a kulturális működéstámogató munkakörben foglalkoztatott honvédelmi alkalmazott munkaköre betöltésének különös szabályai
 
 ## 12/B. § Ezen alcím alkalmazásában
 
@@ -44,5 +44,5 @@ c) közlevéltár esetében az Ltv. 14. § (1) bekezdésében
 
 16. vezetői gyakorlat: intézményvezetői vagy szervezeti egység vezetői munkakörében eltöltött idő.
 
-[^10]: A 12/A. §-t a 13/2020. (X. 14.) HM rendelet 51. §-a iktatta be.
-[^11]: A 3/A. alcímet (12/B–12/K. §) az 5/2021. (I. 18.) HM rendelet 5. §-a iktatta be.
+[^12]: A 12/A. §-t a 13/2020. (X. 14.) HM rendelet 51. §-a iktatta be.
+[^13]: A 3/A. alcímet (12/B–12/K. §) az 5/2021. (I. 18.) HM rendelet 5. §-a iktatta be.

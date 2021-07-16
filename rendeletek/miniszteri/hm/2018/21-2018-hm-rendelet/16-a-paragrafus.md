@@ -1,4 +1,4 @@
-16/A. §[^14] (1) A tudományos munkakört betöltő honvédelmi alkalmazott tudományos feladatait egyéni tudományos munkaterv (a továbbiakban: munkaterv) alapján végzi. A munkatervet a tudományos kutatás szabadságának biztosítása mellett, de a munkakörében ellátott kulturális tevékenységéhez igazodóan a honvédelmi alkalmazott évente elkészíti, és jóváhagyásra benyújtja a munkáltatói jogkör gyakorlójának.
+16/A. §[^16] (1) A tudományos munkakört betöltő honvédelmi alkalmazott tudományos feladatait egyéni tudományos munkaterv (a továbbiakban: munkaterv) alapján végzi. A munkatervet a tudományos kutatás szabadságának biztosítása mellett, de a munkakörében ellátott kulturális tevékenységéhez igazodóan a honvédelmi alkalmazott évente elkészíti, és jóváhagyásra benyújtja a munkáltatói jogkör gyakorlójának.
 
 (2) A tudományos munkakört betöltő honvédelmi alkalmazott – a (4) bekezdésben foglalt kivétellel – legalább kéthetente egy, legfeljebb hetente egy, a (3) bekezdés szerinti kutatónap igénybevételére jogosult a munkaterv alapján, a munkáltatói jogkört gyakorló által jóváhagyott rendben.
 
@@ -10,4 +10,4 @@
 
 (6) A munkaterv és a munkabeszámoló benyújtásának és elfogadásának rendjét a munkáltatói jogkört gyakorló állapítja meg.
 
-[^14]: A 16/A. §-t az 5/2021. (I. 18.) HM rendelet 7. §-a iktatta be.
+[^16]: A 16/A. §-t az 5/2021. (I. 18.) HM rendelet 7. §-a iktatta be.
