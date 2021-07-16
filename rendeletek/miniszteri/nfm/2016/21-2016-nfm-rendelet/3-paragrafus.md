@@ -2,7 +2,7 @@
 
 ## 3. § E rendelet alkalmazásában
 
-1. akkreditálás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott fogalom;
+1.[^1] akkreditálás: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott fogalom;
 
 2. CE-jelölés: olyan jelölés, amellyel a gyártó jelzi, hogy a termék megfelel a jelölés feltüntetését előíró jogszabályban rögzített követelményeknek;
 
@@ -57,3 +57,5 @@
 27. üzembe helyezés: a terméknek a végfelhasználó által első alkalommal történő használatba vétele az Európai Unió területén;
 
 28. visszahívás: minden olyan intézkedés, amelynek célja egy a végfelhasználók számára hozzáférhető, már forgalomban lévő termék visszavétele.
+
+[^1]: A 3. § 1. pontja a 25/2020. (VII. 3.) ITM rendelet 5. §-a szerint módosított szöveg.

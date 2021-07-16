@@ -1,4 +1,4 @@
-## 34. §[^4]
+## 34. §[^5]
 
 1. melléklet a 21/2016. (VII. 12.) NFM rendelethez
 
@@ -14,4 +14,4 @@
 
 5. előre gyártott nyílások és hajóablakok.
 
-[^4]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

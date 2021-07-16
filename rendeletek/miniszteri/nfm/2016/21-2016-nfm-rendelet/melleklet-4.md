@@ -34,7 +34,7 @@ Az EU megfelelőségi nyilatkozatnak – függetlenül attól, hogy azonosító 
 
 7. További információk:
 
-7.1.[^5] Az EU megfelelőségi nyilatkozatban a hajtómotor gyártójának, illetve az 5. § (4) bekezdés b) vagy c) pontja szerinti motor átalakítását végző személynek nyilatkoznia kell arról, hogy a motorhoz tartozó beszerelési útmutatóval összhangban a vízi járműbe történő beszerelését követően a motor megfelel a 2. melléklet B) rész 2. fejezetében foglalt kipufogógáz-kibocsátási követelményeknek.
+7.1.[^6] Az EU megfelelőségi nyilatkozatban a hajtómotor gyártójának, illetve az 5. § (4) bekezdés b) vagy c) pontja szerinti motor átalakítását végző személynek nyilatkoznia kell arról, hogy a motorhoz tartozó beszerelési útmutatóval összhangban a vízi járműbe történő beszerelését követően a motor megfelel a 2. melléklet B) rész 2. fejezetében foglalt kipufogógáz-kibocsátási követelményeknek.
 
 7.2. A motor csak azt követően helyezhető üzembe, hogy nyilatkoztak arról, hogy az érintett vízi jármű megfelel az e rendeletben meghatározott követelményeknek.
 
@@ -44,4 +44,4 @@ Az EU megfelelőségi nyilatkozatnak – függetlenül attól, hogy azonosító 
 
 9. A kiállítás helye és ideje.
 
-[^5]: A 4. melléklet 7.1. pontja a 36/2019. (IX. 20.) ITM rendelet 19. §-ával megállapított szöveg.
+[^6]: A 4. melléklet 7.1. pontja a 36/2019. (IX. 20.) ITM rendelet 19. §-ával megállapított szöveg.
