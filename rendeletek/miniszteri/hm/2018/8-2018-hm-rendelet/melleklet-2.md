@@ -32,6 +32,6 @@
 
 | 15. | legénységi állománycsoport | „A”–„B” fizetési osztály | 1,3 |
 
-2. melléklet a 8/2018. (VI. 22.) HM rendelethez[^181]
+2. melléklet a 8/2018. (VI. 22.) HM rendelethez[^182]
 
-[^181]: A 2. melléklet a 2/2019. (I. 31.) HM rendelet 37. § 37. pontja és 38. § b) pontja szerint módosított szöveg.
+[^182]: A 2. melléklet a 2/2019. (I. 31.) HM rendelet 37. § 37. pontja és 38. § b) pontja szerint módosított szöveg.

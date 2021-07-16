@@ -1,3 +1,3 @@
-## 49/A.[^147]
+## 49/A.[^148]
 
-[^147]: A 49/A. alcímet (83/A. §) a 2/2019. (I. 31.) HM rendelet 31. §-a iktatta be, hatályon kívül helyezte a 17/2020. (XII. 12.) HM rendelet 49. § c) pontja.
+[^148]: A 49/A. alcímet (83/A. §) a 2/2019. (I. 31.) HM rendelet 31. §-a iktatta be, hatályon kívül helyezte a 17/2020. (XII. 12.) HM rendelet 49. § c) pontja.
