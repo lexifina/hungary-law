@@ -1,0 +1,3 @@
+## 2. § A Korm. rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakba: Áht.) 3/A. § (2) bekezdésére figyelemmel a Társaság e rendelet szerinti feladatait közfeladatként látja el. Az európai uniós forrásból finanszírozott támogatás – központi költségvetésből megelőlegezett és a támogatásból elszámolható – részével a Társaság az Áht. 20. § (2) bekezdésére is figyelemmel számol el. A Társaság a bevételeit – az Áht. 3/A. § (3) bekezdésére figyelemmel – az e rendeletben meghatározott feladatai ellátásának pénzügyi fedezetére használhatja fel.”
