@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1037-30
 | 2021-05-22 | 2016-1037-30-22.42 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2021-06-09 | 2016-1037-30-22.43 | 1341/2016. (VII. 5.) Korm. határozat |
 | 2021-06-30 | 2016-1037-30-22.44 | 1341/2016. (VII. 5.) Korm. határozat |
+| 2021-07-16 | 2016-1037-30-22.45 | 1341/2016. (VII. 5.) Korm. határozat |
