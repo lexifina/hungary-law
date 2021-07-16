@@ -260,7 +260,7 @@
 
 ## Az árfeliratozó (címkéző) mérlegeknek a vásárlóközönség közvetlen kiszolgálására szolgáló árkijelző mérlegek követelményeit olyan mértékben kell kielégíteniük, amilyen mértékig ezek a szóban forgó mérlegekre alkalmazhatók. Az árfelirat nyomtatása az alsó méréshatár alatt nincs megengedve.
 
-2. melléklet a 19/2016. (VI. 17.) NGM rendelethez[^16]
+2. melléklet a 19/2016. (VI. 17.) NGM rendelethez[^35]
 
 ## A MEGFELELŐSÉG ÉRTÉKELÉSÉRE VONATKOZÓ ELJÁRÁSOK
 
@@ -518,4 +518,4 @@
 
 |  | 7.2.4. | A CE-jelölést és a kiegészítő metrológiai jelölést a második szakasz befejezése után, a második szakaszban részt vevő bejelentett szervezet azonosító számával együtt kell a mérlegen feltüntetni. |
 
-[^16]: A 2. melléklet a 14/2018. (IX. 4.) ITM rendelet 10. § b)–c) és g)–h) pontja, a 25/2019. (VIII. 26.) ITM rendelet 14. §-a szerint módosított szöveg.
+[^35]: A 2. melléklet a 14/2018. (IX. 4.) ITM rendelet 10. § b)–c) és g)–h) pontja, a 25/2019. (VIII. 26.) ITM rendelet 14. §-a szerint módosított szöveg.

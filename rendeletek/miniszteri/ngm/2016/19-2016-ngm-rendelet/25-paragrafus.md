@@ -1,3 +1,3 @@
-## 24. §[^11]
+## 24. §[^30]
 
-[^11]: A 24. §-t a 25/2019. (VIII. 26.) ITM rendelet 16. §-a hatályon kívül helyezte.
+[^30]: A 24. §-t a 25/2019. (VIII. 26.) ITM rendelet 16. §-a hatályon kívül helyezte.

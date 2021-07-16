@@ -1,4 +1,4 @@
-3. melléklet a 19/2016. (VI. 17.) NGM rendelethez[^17]
+3. melléklet a 19/2016. (VI. 17.) NGM rendelethez[^36]
 
 ## FELIRATOK
 
@@ -58,4 +58,4 @@ Ezeken a berendezéseken nem kerül elhelyezésre az e rendeletben előírt kieg
 
 A korlátozott felhasználásra utaló jelölés egy vörös háttér előtt álló fekete nyomtatott nagy „M”, amely egy olyan, legalább 25 mm × 25 mm méretű négyzetben található, melynek két átlója keresztet alkot.
 
-[^17]: A 3. melléklet a 25/2019. (VIII. 26.) ITM rendelet 14. §-a szerint módosított szöveg.
+[^36]: A 3. melléklet a 25/2019. (VIII. 26.) ITM rendelet 14. §-a szerint módosított szöveg.

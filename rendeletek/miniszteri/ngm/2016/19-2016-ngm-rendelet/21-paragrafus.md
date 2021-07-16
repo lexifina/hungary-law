@@ -1,3 +1,3 @@
-## 20. §[^7]
+## 20. §[^26]
 
-[^7]: A 20. §-t a 25/2019. (VIII. 26.) ITM rendelet 16. §-a hatályon kívül helyezte.
+[^26]: A 20. §-t a 25/2019. (VIII. 26.) ITM rendelet 16. §-a hatályon kívül helyezte.
