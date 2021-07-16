@@ -8,8 +8,9 @@ b) a hivatásos katasztrófavédelmi szerv központi szervét (a továbbiakban: 
 
 c) a Pest Megyei Kormányhivatalt,
 
-d) a Szerencsejáték Felügyeletet, valamint
+d)[^2] a Szerencsejáték Felügyeletet (a továbbiakban: Felügyelet), valamint
 
 e) a fogyasztóvédelemért felelős minisztert (a továbbiakban: miniszter)
 
 [^1]: Az 1. § a 360/2019. (XII. 30.) Korm. rendelet 163. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: Az 1. § d) pontja a 246/2020. (V. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
