@@ -1,4 +1,4 @@
-## 11. §[^12] Az 1. § (1) bekezdés a) és b) pontjában megjelölt beruházásokkal érintett építmények, önálló rendeltetési egységek közutakról történő megközelítését és felszíni csatlakozásait a következő előírások figyelembevétele mellett kell biztosítani:
+## 11. §[^13] Az 1. § (1) bekezdés a) és b) pontjában megjelölt beruházásokkal érintett építmények, önálló rendeltetési egységek közutakról történő megközelítését és felszíni csatlakozásait a következő előírások figyelembevétele mellett kell biztosítani:
 
 a) a Hegyalja úton az Alkotás utca és az Avar utca között a meglévő és újonnan létesítendő felszíni parkolók be- és kihajtási csatlakozásai az Alkotás és Avar utcához viszonyított távolsága 500 méter alatt létesül,
 
@@ -20,4 +20,4 @@ i) a Győri úton az Alkotás utca és a Csörsz utca közötti szakaszon a spor
 
 j) a Kiss János altábornagy utcán a Győri út és az Alkotás utca között a meglévő, valamint az újonnan létesítendő csatlakozások – Győri út, a kollégiumi parkoló kijárata, a sporthotel be- és kihajtója, a kollégiumi parkoló bejárata, Alkotás utca – egymáshoz viszonyított távolságában 100 méter alatt létesülnek.
 
-[^12]: A 11. § a 353/2020. (VII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 11. § a 353/2020. (VII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
