@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2021-05-01 | 2021. évi VIII. törvény | 2015-143-00-00.41 |
 | 2021-06-29 | 2021. évi CI. törvény | 2015-143-00-00.42 |
 | 2021-07-01 | 2020. évi CXXVIII. törvény | 2015-143-00-00.43 |
+| 2021-07-16 | 2020. évi XLI. törvény | 2015-143-00-00.44 |
