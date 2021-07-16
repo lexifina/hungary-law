@@ -1,6 +1,6 @@
 ## 2. § E rendelet alkalmazásában:
 
-1.[^1]
+1.[^2]
 
 2. hitelminősítés: a hitelminősítő intézetekről szóló, 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés a) pontjában ekként meghatározott fogalom;
 
@@ -22,4 +22,4 @@
 
 11. zöld refinanszírozási jelzáloghitel: olyan refinanszírozási jelzáloghitel, amely fedezetéül szolgáló különvált jelzálogjogok zöld jelzáloghitelek biztosítékai.
 
-[^1]: A 2. § 1. pontja a 4. § (2) bekezdése alapján 2022. október 1-jén lép hatályba.
+[^2]: A 2. § 1. pontja a 4. § (2) bekezdése alapján 2022. október 1-jén lép hatályba.
