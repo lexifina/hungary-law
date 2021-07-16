@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1447-30
 | 2019-12-20 | 2017-1447-30-22.17 | 1347/2018. (VII. 26.) Korm. határozat |
 | 2020-04-23 | 2017-1447-30-22.18 | 1347/2018. (VII. 26.) Korm. határozat |
 | 2020-12-14 | 2017-1447-30-22.19 | 1347/2018. (VII. 26.) Korm. határozat |
+| 2021-07-16 | 2017-1447-30-22.20 | 1347/2018. (VII. 26.) Korm. határozat |

@@ -20,7 +20,7 @@
 
 ## Felelős: belügyminiszter, Miniszterelnökséget vezető miniszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere, miniszterelnök kabinetfőnöke, nemzetpolitikáért felelős miniszterelnök-helyettes, a Magyar Tudományos Akadémia elnökének felkérésével
 
-## Határidő: 2018. június 30.; az MTA kutatóközpontok, kutatóintézetek cím javára átcsoportosított 55 000 000 forint tekintetében 2018. december 31.; a Közbeszerzési és Ellátási Főigazgatóság cím részére biztosított 3 556 000 000 forint tekintetében 2019. december 31., a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint, a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint tekintetében 2019. június 30., a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 398 000 000 forint tekintetében 2020. augusztus 31., az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint tekintetében 2021. június 30., a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forintból 771 000 000 forint tekintetében 2020. június 30., 481 793 000 forint tekintetében 2021. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 3 087 151 050 forint tekintetében 2020. december 31.
+## Határidő: 2018. június 30.; az MTA kutatóközpontok, kutatóintézetek cím javára átcsoportosított 55 000 000 forint tekintetében 2018. december 31.; a Közbeszerzési és Ellátási Főigazgatóság cím részére biztosított 3 556 000 000 forint tekintetében 2019. december 31., a Külképviseletek igazgatása cím javára átcsoportosított 150 000 000 forint, a Kodály-év jogcímcsoport javára átcsoportosított 1 018 510 000 forint tekintetében 2019. június 30., a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára átcsoportosított 398 000 000 forint tekintetében 2020. augusztus 31., az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint tekintetében 2021. december 31., a Nemzetpolitikai célú támogatások cím javára átcsoportosított 1 253 793 000 forintból 771 000 000 forint tekintetében 2020. június 30., 481 793 000 forint tekintetében 2021. június 30., az Egyházi közösségi célú programok és beruházások támogatása előirányzat javára átcsoportosított 3 087 151 050 forint tekintetében 2020. december 31.
 
 ## c) a Kvtv. 17. §-a és 4. melléklet 2. pontja alapján jóváhagyja a Kvtv. 1. melléklet, XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 8. Szociális humánszolgáltatók részére biztosított szociális- és gyermekvédelmi ágazati pótlék és egyéb ágazati bérrendezéssel összefüggő támogatások jogcímcsoport legfeljebb 6255 millió forint összeggel történő túllépését.
 
@@ -45,6 +45,8 @@
 ## kerüljön felhasználásra.
 
 1. melléklet az 1447/2017. (VII. 7.) Korm. határozathoz
+
+7K17584_0
 
 | IX. Helyi önkormányzatok támogatásai XI. Miniszterelnökség XV. Nemzetgazdasági Minisztérium XVII. Nemzeti Fejlesztési Minisztérium XVIII. Külgazdasági és Külügyminisztérium XX. Emberi Erőforrások Minisztériuma XXI. Miniszterelnöki Kabinetiroda XXXIII. Magyar Tudományos Akadémia XLII. A költségvetés közvetlen bevételei és kiadásai XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2017. forintban |
 
@@ -438,7 +440,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont b) alpontja az 1347/2018. (VII. 26.) Korm. határozat 24. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 8. pontja, az 1454/2018. (IX. 21.) Korm. határozat 3. pontja, az 1207/2019. (IV. 18.) Korm. határozat 8. pontja, az 1244/2019. (IV. 30.) Korm. határozat 6. pontja, az 1353/2019. (VI. 13.) Korm. határozat 3. pontja, az 1528/2019. (IX. 17.) Korm. határozat 4. pontja, az 1668/2019. (XI. 28.) Korm. határozat 7. pontja, az 1755/2019. (XII. 20.) Korm. határozat 3. pontja, az 1176/2020. (IV. 23.) Korm. határozat 7. pontja, az 1899/2020. (XII. 14.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1347/2018. (VII. 26.) Korm. határozat 24. pontja, az 1403/2018. (VIII. 31.) Korm. határozat 8. pontja, az 1454/2018. (IX. 21.) Korm. határozat 3. pontja, az 1207/2019. (IV. 18.) Korm. határozat 8. pontja, az 1244/2019. (IV. 30.) Korm. határozat 6. pontja, az 1353/2019. (VI. 13.) Korm. határozat 3. pontja, az 1528/2019. (IX. 17.) Korm. határozat 4. pontja, az 1668/2019. (XI. 28.) Korm. határozat 7. pontja, az 1755/2019. (XII. 20.) Korm. határozat 3. pontja, az 1176/2020. (IV. 23.) Korm. határozat 7. pontja, az 1489/2021. (VII. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 2. pont az 1347/2018. (VII. 26.) Korm. határozat 25. pontja, az 1057/2019. (II. 22.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^3]: A 3. pont a 2029/2017. (XII. 27.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^4]: A 4–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
