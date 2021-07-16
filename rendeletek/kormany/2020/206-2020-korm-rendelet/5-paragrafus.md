@@ -1,8 +1,8 @@
 5. § (1) A Beruházással érintett, 1. § (1) bekezdésében meghatározott ingatlan telkére a beépítés szabályait a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
-a) a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+a)[^2] a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b) ha a hatályos településrendezési eszköz vagy az OTÉK a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési eszközt és az OTÉK-ot nem lehet alkalmazni.
+b)[^3] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) A Beruházással érintett, 1. § (1) bekezdésében meghatározott ingatlan telkén nevelési-oktatási célú épületek és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -35,3 +35,6 @@ k) az utcai és a hátsó szárny sem önálló, sem együttes mélysége nincs 
 a) egy személygépkocsi elhelyezését kell biztosítani minden foglalkoztató, illetve tanterem nettó alapterületének minden megkezdett 50 m2-e után, valamint
 
 b) egy kerékpár elhelyezését kell biztosítani minden foglalkoztató, illetve tanterem nettó alapterületének minden megkezdett 50 m2-e után.
+
+[^2]: Az 5. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 109. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 109. § b) pontja szerint módosított szöveg.
