@@ -700,7 +700,7 @@ vonatkozó, a világörökségi helyszín kiemelkedő egyetemes értékének sé
 
 a) az apátsághoz csatlakozó gazdasági udvar, gyógynövénykert és Apátsági Major fejlesztési területein az építési helyek települési helyi építési szabályzatban és szabályozási tervben történő kijelölését kezdeményezni és ahhoz adatot szolgáltatni;
 
-b) Pannonhalma településrendezési eszközeinek felülvizsgálatát kezdeményezni és ahhoz adatot szolgáltatni:
+b) Pannonhalma településrendezési tervének felülvizsgálatát kezdeményezni és ahhoz adatot szolgáltatni:
 
 ba) a hatályos területfelhasználás és az építési övezetek előírásainak finomítása,
 
@@ -828,4 +828,4 @@ c) a vízháztartással, szélsőséges terheléssel kapcsolatos változások k�
 
 7.5. A világörökségi gondnokságnak a világörökségi helyszín területére a haváriák kezelését szolgáló intézkedési tervet kell kidolgoznia.
 
-[^1]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 192. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^1]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 192. §-a, a 420/2021. (VII. 15.) Korm. rendelet 94. §-a szerint módosított szöveg

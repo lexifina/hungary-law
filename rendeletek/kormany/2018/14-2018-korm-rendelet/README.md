@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-14-20-2
 | --- | --- | --- |
 | 2018-02-13 | 2018-14-20-22.1 | 14/2018. (II. 12.) Korm. rendelet |
 | 2020-03-01 | 2018-14-20-22.2 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-07-16 | 2018-14-20-22.3 | 360/2019. (XII. 30.) Korm. rendelet |
