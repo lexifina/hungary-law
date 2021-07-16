@@ -1,8 +1,8 @@
-## A kiemelt térségi és a megyei területrendezési terv, valamint a megyei területrendezési terv hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
+## A kiemelt térségi és a megyei területrendezési terv, valamint a megyei területrendezési terv hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
 |  | A | B | C | D |
 
-| 1. | Térségi övezetek | A kiemelt térségi és a megyei területrendezési terv készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek | A megyei területrendezési terv hatálya alá tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
+| 1. | Térségi övezetek | A kiemelt térségi és a megyei területrendezési terv készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek | A megyei területrendezési terv hatálya alá tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
 | 2. | 1. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti országos övezetek | a) ökológiai hálózat magterületének övezete | természetvédelemért felelős miniszter | nemzeti park igazgatóság |
 
@@ -48,6 +48,6 @@
 
 | 23. | f) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |  |
 
-15. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^105]
+15. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^119]
 
-[^105]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja szerint módosított szöveg.
+[^119]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.

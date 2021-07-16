@@ -1,4 +1,4 @@
-11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^101]
+11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^115]
 
 ## A területrendezési tervek véleményezésére jogosult szervek
 
@@ -106,4 +106,4 @@ c) a működési területével érintett vízügyi igazgatóság,
 
 16. az érintett települési önkormányzatok.
 
-[^101]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^115]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

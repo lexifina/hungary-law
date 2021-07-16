@@ -32,9 +32,9 @@ n)[^6]
 
 o)[^7]
 
-p)[^8] települési szolgáltatások: a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti települési szolgáltatások,
+p)[^8] települési szolgáltatások: a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti települési szolgáltatások,
 
-q)[^9] okos város: a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti okos város,
+q)[^9] okos város: a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet szerinti okos város,
 
 r)[^10]
 
@@ -49,8 +49,8 @@ t)[^12] térségi térszervező központ: a településrendszer térségi jelent
 [^5]: Az 1. § l) pontját a 25/2014. (II. 7.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte, újonnan a 280/2017. (IX. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^6]: Az 1. § n) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 19. § a) pontja.
 [^7]: Az 1. § o) pontját a 342/2014. (XII. 19.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 19. § a) pontja.
-[^8]: Az 1. § p) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be.
-[^9]: Az 1. § q) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be.
+[^8]: Az 1. § p) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § q) pontját az 56/2017. (III. 20.) Korm. rendelet 1. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
 [^10]: Az 1. § r) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 19. § a) pontja.
 [^11]: Az 1. § s) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be, hatályon kívül helyezte a 121/2019. (V. 27.) Korm. rendelet 19. § a) pontja.
 [^12]: Az 1. § t) pontját a 280/2017. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.

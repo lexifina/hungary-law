@@ -1,8 +1,8 @@
-## A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/2. mellékletében felsorolt, a Balaton Kiemelt Üdülőkörzethez tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
+## A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/2. mellékletében felsorolt, a Balaton Kiemelt Üdülőkörzethez tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
 |  | A | B | C |
 
-| 1. | Térségi övezetek | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/2. mellékletében felsorolt, a Balaton Kiemelt Üdülőkörzethez tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
+| 1. | Térségi övezetek | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/2. mellékletében felsorolt, a Balaton Kiemelt Üdülőkörzethez tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
 | 2. | 1. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti országos övezetek | a) ökológiai hálózat magterületének övezete | nemzeti park igazgatóság |
 
@@ -38,13 +38,13 @@
 
 | 18. | c) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |
 
-16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^106]
+16. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^120]
 
-A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
+A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
 |  | A | B | C |
 
-| 1. | Térségi övezetek | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési eszközének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
+| 1. | Térségi övezetek | A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/1. mellékletében felsorolt, a Budapesti Agglomerációhoz tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek |
 
 | 2. | 1. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti országos övezetek | a) ökológiai hálózat magterületének övezete | nemzeti park igazgatóság |
 
@@ -76,4 +76,4 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 16. | c) földtani veszélyforrás területe övezete | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
 
-[^106]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja szerint módosított szöveg.
+[^120]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
