@@ -2,7 +2,7 @@
 
 ## 4. § E rendelet alkalmazásában:
 
-1. akkreditálás: az akkreditálás és piacfelügyelet előírásainak megállapításáról szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 10. pontjában meghatározott fogalom;
+1.[^1] akkreditálás: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott fogalom;
 
 2. CE-jelölés: olyan jelölés, amellyel a gyártó jelzi, hogy a mérőműszer megfelel a jelölés feltüntetéséről rendelkező uniós harmonizációs jogszabályokban rögzített alkalmazandó követelményeknek;
 
@@ -34,7 +34,7 @@
 
 16. műszaki leírás: a mérőműszer által teljesítendő műszaki követelményeket ismertető dokumentum;
 
-17. nemzeti akkreditáló testület: a 765/2008/EK rendelet 2. cikk 11. pontjában meghatározott nemzeti akkreditáló testület;
+17.[^2] nemzeti akkreditáló testület: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontjában meghatározott nemzeti akkreditáló testület;
 
 18. normatív dokumentum: a Nemzetközi Mérésügyi Szervezet által elfogadott műszaki előírásokat tartalmazó dokumentum;
 
@@ -45,3 +45,6 @@
 21. üzembe helyezés: a végfelhasználó számára szánt mérőműszer első rendeltetésszerű használata;
 
 22. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára hozzáférhető mérőműszer visszavétele.
+
+[^1]: A 4. § 1. pontja a 25/2020. (VII. 3.) ITM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^2]: A 4. § 17. pontja a 25/2020. (VII. 3.) ITM rendelet 9. § (2) bekezdése szerint módosított szöveg.

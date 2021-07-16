@@ -254,6 +254,6 @@
 
 ## A mérőműszert úgy kell kialakítani, hogy lehetővé tegye az e rendelet vonatkozó követelményeinek való megfelelőség teljes értékelését.
 
-3. melléklet a 43/2016. (XI. 23.) NGM rendelethez[^17]
+3. melléklet a 43/2016. (XI. 23.) NGM rendelethez[^20]
 
-[^17]: A 3. melléklet a 27/2020. (VII. 16.) ITM rendelet 24. § f)–g) pontja szerint módosított szöveg.
+[^20]: A 3. melléklet a 27/2020. (VII. 16.) ITM rendelet 24. § f)–g) pontja szerint módosított szöveg.

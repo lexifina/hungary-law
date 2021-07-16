@@ -2070,6 +2070,6 @@
 
 ## 2.5.9. Amennyiben a kipufogógáz-elemző készülék különböző típusú üzemanyagok esetén is használható (pl. benzin vagy cseppfolyósított gáz), akkor lehetővé kell tenni, hogy a lambda-érték számításánál alkalmazandó együtthatókat egyértelműen lehessen kiválasztani a megfelelő egyenletbe.
 
-2. melléklet a 43/2016. (XI. 23.) NGM rendelethez[^16]
+2. melléklet a 43/2016. (XI. 23.) NGM rendelethez[^19]
 
-[^16]: A 2. melléklet a 27/2020. (VII. 16.) ITM rendelet 24. § e) pontja szerint módosított szöveg.
+[^19]: A 2. melléklet a 27/2020. (VII. 16.) ITM rendelet 24. § e) pontja szerint módosított szöveg.
