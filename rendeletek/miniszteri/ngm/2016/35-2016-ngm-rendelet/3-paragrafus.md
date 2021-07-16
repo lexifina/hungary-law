@@ -2,7 +2,7 @@
 
 ## 3. § E rendelet alkalmazásában
 
-1. akkreditálás: a termék forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 10. pontjában meghatározott akkreditálás;
+1.[^1] akkreditálás: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott akkreditálás;
 
 2. alkatrész: a berendezés és a védelmi rendszer minden olyan része, amely a berendezés biztonságos működéséhez alapvetően szükséges, de önálló funkciója nincs;
 
@@ -53,3 +53,5 @@
 25. I. alkalmazási csoport: olyan berendezések, amelyeket bányák földalatti részében, valamint az ilyen bányák külszíni létesítményeinek sújtólég vagy éghető por robbanása által veszélyeztet részeiben történő használatra szántak; ide tartozik az 1. mellékletben meghatározott M1. és M2. kategória is;
 
 26. II. alkalmazási csoport: olyan berendezések, amelyeket egyéb, robbanásveszélyes környezetben történő használatra szántak; ide tartozik az 1. mellékletben meghatározott 1., 2. és 3. kategória.
+
+[^1]: A 3. § 1. pontja a 25/2020. (VII. 3.) ITM rendelet 8. § (1) bekezdése szerint módosított szöveg.

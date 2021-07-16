@@ -2,6 +2,6 @@
 
 ## A MEGFELELŐSÉGÉRTÉKELŐ SZERVEZETEK BEJELENTÉSE
 
-## 14.[^5]
+## 14.[^7]
 
-[^5]: A 14. alcímet (16. §) a 25/2019. (VIII. 26.) ITM rendelet 21. §-a hatályon kívül helyezte.
+[^7]: A 14. alcímet (16. §) a 25/2019. (VIII. 26.) ITM rendelet 21. §-a hatályon kívül helyezte.

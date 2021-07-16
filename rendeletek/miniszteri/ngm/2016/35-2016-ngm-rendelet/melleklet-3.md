@@ -30,7 +30,7 @@
 
 ## a) a gyártó neve, bejegyzett kereskedelmi neve vagy bejegyzett védjegye, és címe,
 
-## b) a CE megfelelőségi jelölés (lásd a 765/2008/EK rendelet II. mellékletét),
+## b)[^19] a CE megfelelőségi jelölés (lásd a 765/2008/EK európai parlamenti és tanácsi rendelet II. mellékletét),
 
 ## c) a széria vagy a típus megjelölése,
 
@@ -411,3 +411,5 @@ d) a tervezett termelés tekintetében reprezentatív mintadarabok. A bejelentet
 9. A gyártó az EU-típusvizsgálati tanúsítvány, a tanúsítvány mellékleteinek és kiegészítéseinek egy példányát a piacfelügyeleti hatóság számára elérhetővé teszi a műszaki dokumentációval együtt a termék forgalomba hozatala után tíz évig.
 
 10. A gyártó meghatalmazott képviselője is benyújthatja a 3. pontban említett kérelmet, és teljesítheti a 7. és a 9. pontban meghatározott kötelezettségeket, amennyiben ez szerepel a megbízásában.
+
+[^19]: A 2. melléklet B) 1.0.5. b) pontja a 25/2020. (VII. 3.) ITM rendelet 8. § (2) bekezdése szerint módosított szöveg.

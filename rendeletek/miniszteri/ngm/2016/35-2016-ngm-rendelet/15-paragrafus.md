@@ -1,6 +1,6 @@
 ## 13. A CE megfelelőségi jelölésre és egyéb jelölések feltüntetésére vonatkozó szabályok és feltételek
 
-15. § (1) A CE megfelelőségi jelölésre a 765/2008/EK rendelet 30. cikkében meghatározott általános elvek vonatkoznak.
+15. § (1)[^6] A CE megfelelőségi jelölésre a 765/2008/EK európai parlamenti és tanácsi rendelet 30. cikkében meghatározott általános elvek vonatkoznak.
 
 (2) A CE megfelelőségi jelölést a terméken vagy annak adattábláján jól látható, olvasható és letörölhetetlen módon kell feltüntetni. Amennyiben a termék jellege miatt ez nem lehetséges vagy nem indokolt, a jelölést a csomagoláson és a kísérő dokumentumokon kell feltüntetni.
 
@@ -13,3 +13,5 @@
 (6) A CE megfelelőségi jelölést és az (5) bekezdésben meghatározott jelöléseket, jeleket és információkat – valamint a bejelentett szervezet azonosító számát – különleges kockázatot vagy felhasználást jelölő, bármilyen egyéb jelölés követhet. Meghatározott típusú robbanásveszélyes légkörben való használatra készített terméket ennek megfelelő jelöléssel kell ellátni.
 
 (7) A piacfelügyeleti hatóság a meglévő mechanizmusokra támaszkodik a CE megfelelőségi jelölést szabályozó rendszer megfelelő alkalmazása céljából, és a jelölések nem megfelelő használata esetén meghozza a megfelelő intézkedéseket.
+
+[^6]: A 15. § (1) bekezdése a 25/2020. (VII. 3.) ITM rendelet 8. § (2) bekezdése szerint módosított szöveg.
