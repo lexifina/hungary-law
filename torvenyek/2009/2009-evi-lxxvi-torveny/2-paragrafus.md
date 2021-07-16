@@ -36,4 +36,4 @@ m) szolgáltató: a szolgáltatási tevékenységet folytató vállalkozás,
 
 n) termék: minden birtokba vehető forgalomképes ingó dolog – ide nem értve a pénzt, az értékpapírt és a pénzügyi eszközt – és a dolog módjára hasznosítható természeti erő,
 
-o) termelő tevékenység: valamely termék – akár más termékek feldolgozása útján történő – előállítása, beleértve az előállított terméknek az előállító által történő, a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikkének 2. pontja szerinti forgalomba hozatalát is.
+o) termelő tevékenység: valamely termék – akár más termékek feldolgozása útján történő – előállítása, beleértve az előállított terméknek az előállító által történő, (EU) 2019/1020 rendelet 3. cikk 2. pontja szerinti forgalomba hozatalát is.
