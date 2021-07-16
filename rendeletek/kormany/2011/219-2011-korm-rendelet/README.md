@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-219-20-
 | 2019-08-17 | 2011-219-20-22.15 | 176/2019. (VII. 18.) Korm. rendelet |
 | 2020-07-01 | 2011-219-20-22.16 | 317/2020. (VII. 1.) Korm. rendelet |
 | 2020-12-12 | 2011-219-20-22.17 | 572/2020. (XII. 9.) Korm. rendelet |
+| 2021-07-16 | 2011-219-20-22.18 | 476/2013. (XII. 17.) Korm. rendelet |
