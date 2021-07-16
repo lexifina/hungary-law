@@ -1,4 +1,4 @@
-## 8. §[^4]
+## 8. §[^5]
 
 1. melléklet a 318/2017. (XI. 7.) Korm. rendelethez
 
@@ -48,4 +48,4 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
