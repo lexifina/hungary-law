@@ -1,3 +1,3 @@
-## 13/K. [^88] A szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet és szórakozási célú sporteszköz megfelelőségértékelésére vonatkozó szabályok
+## 13/K. [^90] A szórakoztatási célú berendezés, létesítmény, ideiglenes szerkezet és szórakozási célú sporteszköz megfelelőségértékelésére vonatkozó szabályok
 
-[^88]: A 13/K. alcímet (24/U. §) a 190/2020. (V. 7.) Korm. rendelet 12. §-a iktatta be.
+[^90]: A 13/K. alcímet (24/U. §) a 190/2020. (V. 7.) Korm. rendelet 12. §-a iktatta be.
