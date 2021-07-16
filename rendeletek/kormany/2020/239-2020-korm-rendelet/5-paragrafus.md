@@ -2,7 +2,7 @@
 
 a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b) ha a hatályos településrendezési eszköz és az OTÉK a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszközt és az OTÉK-ot nem lehet alkalmazni.
+b)[^1] ha a hatályos településrendezési terv és az OTÉK a beépítés (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) Az 1. § (1) bekezdése szerinti, 33298 helyrajzi számú ingatlan esetén
 
@@ -43,3 +43,5 @@ b) ha a hatályos településrendezési eszköz és az OTÉK a beépítés (2)�
 (3) A Beruházással érintett ingatlanokon egészségügyi, oktatási, iroda, sport, labor, állatház, kollégium és apartman funkciójú épületek is elhelyezhetők, továbbá a meglévő épületek rendeltetése az előbbiekben felsorolt funkciókra megváltoztatható.
 
 (4) A Beruházással érintett ingatlanokon a Beruházással összefüggő felvonulási építmény, valamint legfeljebb bruttó 300 m2 alapterületű, ideiglenes ideig fennálló építmény az OTÉK előírásainak figyelembevétele és építési engedély nélkül építhető, azzal, hogy ezen építmények lebontása kártalanítási igény nélkül legkésőbb 2025. december 31. napjáig kötelező.
+
+[^1]: Az 5. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 110. §-a szerint módosított szöveg.
