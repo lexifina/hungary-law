@@ -6,4 +6,6 @@ b) 4. számú melléklete szerint meghatározott számú személygépkocsi-parko
 
 ## elhelyezését nem kell biztosítani.
 
-(2) A Beruházás keretében létrejövő építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a helyi településrendezési eszközökben előírt infrastruktúra-fejlesztések megvalósulása.
+(2)[^3] A Beruházás keretében létrejövő építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a helyi településrendezési tervekben előírt infrastruktúra-fejlesztések megvalósulása.
+
+[^3]: A 7. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 117. § c) pontja szerint módosított szöveg.
