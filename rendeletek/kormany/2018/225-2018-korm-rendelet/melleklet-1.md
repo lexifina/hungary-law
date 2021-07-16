@@ -1,4 +1,4 @@
-## 11. §[^7]
+## 11. §[^9]
 
 1. melléklet a 225/2018. (XI. 29.) Korm. rendelethez
 
@@ -44,4 +44,4 @@
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^7]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
