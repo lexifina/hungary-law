@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-370-20-
 | 2020-07-31 | 2020-370-20-22.1 | 370/2020. (VII. 30.) Korm. rendelet |
 | 2020-10-21 | 2020-370-20-22.2 | 460/2020. (X. 20.) Korm. rendelet |
 | 2021-02-06 | 2020-370-20-22.3 | 47/2021. (II. 5.) Korm. rendelet |
+| 2021-07-16 | 2020-370-20-22.4 | 420/2021. (VII. 15.) Korm. rendelet |

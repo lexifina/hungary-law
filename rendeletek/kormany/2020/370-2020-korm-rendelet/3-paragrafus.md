@@ -36,7 +36,8 @@ k)[^1] a városképi szempontok érvényesítését a megengedett beépítés eg
 
 (8)[^2] Az Ingatlanon a járművek elhelyezésének kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 4. számú melléklete alapján számított személygépkocsik számának legalább 15%-a elhelyezését kell biztosítani.
 
-(9) A Beruházás keretében megvalósított építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a – helyi és fővárosi – településrendezési eszközökben előírt infrastruktúra-fejlesztések megvalósulása.
+(9)[^3] A Beruházás keretében megvalósított építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a – helyi és fővárosi – településrendezési tervben előírt infrastruktúra-fejlesztések megvalósulása.
 
 [^1]: A 3. § (1) bekezdés k) pontját a 47/2021. (II. 5.) Korm. rendelet 12. §-a iktatta be.
 [^2]: A 3. § (8) bekezdése a 460/2020. (X. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^3]: A 3. § (9) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 113. §-a szerint módosított szöveg.
