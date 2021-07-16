@@ -8,7 +8,7 @@ a) szakmai segítséget nyújt az önkormányzati főépítészi feladatok ellá
 
 b) az egységes szakmai szempontok – különösen az általános érvényű terület- és településrendezési, illetve építési követelmények – érvényesítése érdekében elősegíti és szükség szerint koordinálja az önkormányzatok terület- és településrendezéssel, valamint az építészeti értékvédelemmel kapcsolatos döntéseinek főépítészi előkészítését,
 
-c)[^29] kérelemre határozatban megállapítja a mezőgazdasági birtoktesthez tartozó önálló telkek körét, az országos településrendezési és építési követelményekről szóló kormányrendelet szerint a birtokközpontot és a – birtokközpont beépítettségének meghatározásakor – beszámításra került telek vonatkozásában az építési tilalmat, majd kezdeményezi az építési tilalom ingatlan-nyilvántartásba történő bejegyzését,
+c)[^29] kérelemre határozatban megállapítja a mezőgazdasági birtoktesthez tartozó önálló telkek körét, az országos településrendezési és építési követelményekről szóló kormányrendelet szerint a birtokközpontot és a – birtokközpont beépítettségének meghatározásakor – beszámításra került telek vonatkozásában az építési tilalmat, a birtoktest és a birtokközpont módosítását majd kezdeményezi az építési tilalom ingatlan-nyilvántartásba történő bejegyzését vagy törlését,
 
 d) elősegíti a területi településpolitikai és építészetpolitikai elvek és elvárások koncepcionális kialakítását,
 
@@ -18,7 +18,7 @@ f)[^30] ellátja az önkormányzati főépítészi vizsga lebonyolításának fe
 
 g)[^31] vezeti a területi építészeti-műszaki és településrendezési tervtanácsot, ideértve a tájegységi tervtanácsot is.
 
-h)[^32] ellátja a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározott szakmai feladatokat.
+h)[^32] ellátja a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben meghatározott szakmai feladatokat.
 
 i)[^33]
 
@@ -27,9 +27,9 @@ j)[^34]
 [^26]: A 6/B. §-t a 62/2014. (III. 6.) Korm. rendelet 9. §-a iktatta be, szövege a 241/2021. (V. 12.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^27]: A 7. §-t megelőző alcím a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés f) pontjával megállapított szöveg.
 [^28]: A 7. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés g) pontja szerint módosított szöveg.
-[^29]: A 7. § c) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte, újonnan a 30/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^29]: A 7. § c) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte, újonnan a 30/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 51. § a) pontja szerint módosított szöveg.
 [^30]: A 7. § f) pontját a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés c) pontja hatályon kívül helyezte, újonnan a 217/2018. (XI. 27.) Korm. rendelet 9. §-a iktatta be.
 [^31]: A 7. § g) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte, újonnan a 217/2018. (XI. 27.) Korm. rendelet 9. §-a iktatta be.
-[^32]: A 7. § h) pontja a 322/2012. (XI. 16.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^32]: A 7. § h) pontja a 322/2012. (XI. 16.) Korm. rendelet 50. §-ával megállapított, a 420/2021. (VII. 15.) Korm. rendelet 51. § b) pontja szerint módosított szöveg.
 [^33]: A 7. § i) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte.
 [^34]: A 7. § j) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § e) pontja hatályon kívül helyezte.

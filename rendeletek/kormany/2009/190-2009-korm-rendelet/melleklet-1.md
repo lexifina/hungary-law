@@ -1,4 +1,4 @@
-1. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^54]
+1. Melléklet a 190/2009. (IX. 15.) Korm. rendelethez[^58]
 
 ## A főépítészi vizsga témakörei
 
@@ -12,7 +12,7 @@
 
 1.4. Településfejlesztés: a településfejlesztés célja, a településfejlesztési dokumentumok tartalma és elkészítésének rendje; okos város stratégia
 
-1.5. Településrendezés: a településrendezés célja, az országos településrendezési és építési követelmények tartalma és érvényesítése; a településszerkezeti tervek és a helyi építési szabályzatok tartalma és elkészítésének rendje; a településrendezési feladatok megvalósítását biztosító sajátos jogintézmények; a tervtanácsok feladata, összetétele, működése; a nemzetgazdasági szempontból kiemelt beruházások, települési beruházások főépítészi közreműködése
+1.5.[^59] Településrendezés: a településrendezés célja, az országos településrendezési és építési követelmények tartalma és érvényesítése; a településrendezési tervek és a helyi építési szabályzatok tartalma és elkészítésének rendje; a településrendezési feladatok megvalósítását biztosító sajátos jogintézmények; a tervtanácsok feladata, összetétele, működése; a nemzetgazdasági szempontból kiemelt beruházások, települési beruházások főépítészi közreműködése
 
 1.6. Településkép-védelem: a településképi követelmények, a településképi arculati kézikönyv és a településképi rendelet tartalma és elkészítésének folyamata; önkormányzati településkép-érvényesítési eszközök; kiemelt nemzeti emlékhelyek
 
@@ -34,7 +34,7 @@
 
 2.1. Településtervezőnek vagy településmérnök végzettségű vizsgázónak: egy épületterv településképi véleményezése
 
-2.2. Építészmérnök végzettségű vizsgázónak: javaslat megfogalmazása egy településszerkezeti terv vagy a helyi építési szabályzat szabályozási tervének módosítására
+2.2.[^60] Építészmérnök végzettségű vizsgázónak: javaslat megfogalmazása egy településrendezési terv vagy a helyi építési szabályzat szabályozási tervének módosítására
 
 2.3. További témakörök, amelyből egyet kell kiválasztani
 
@@ -72,4 +72,6 @@
 
 2.3.17. Önkormányzati támogatás helyi védett épületeknek, helyi védett területnek, döntés előkészítése a képviselő-testület felé
 
-[^54]: Az eredeti melléket megjelölése a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése alapján 1. mellékletre változott. Az 1. melléklet a 241/2021. (V. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^58]: Az eredeti melléket megjelölése a 234/2010. (VIII. 31.) Korm. rendelet 26. § (2) bekezdése alapján 1. mellékletre változott. Az 1. melléklet a 241/2021. (V. 12.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^59]: Az 1. melléklet 1. pont 1.5. alpontja a 420/2021. (VII. 15.) Korm. rendelet 51. § f) pontja szerint módosított szöveg.
+[^60]: Az 1. melléklet 2. pont 2.2. alpontja a 420/2021. (VII. 15.) Korm. rendelet 51. § f) pontja szerint módosított szöveg.
