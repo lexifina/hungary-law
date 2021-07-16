@@ -24,7 +24,7 @@ i) beruházási alapokmány és program elfogadása,
 
 j) tervpályázat lebonyolítása,
 
-k) településrendezési eszközök elkészítése,
+k)[^3] településrendezési terv elkészítése,
 
 l) vázlatterv készítése,
 
@@ -37,3 +37,4 @@ o) engedélyeztetés lefolytatása,
 p) kivitelezési dokumentáció elkészítése.
 
 [^2]: A 2. § (2) bekezdés nyitó szövegrésze a 678/2020. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^3]: A 2. § (2) bekezdés k) pontja a 420/2021. (VII. 15.) Korm. rendelet 101. § a) pontja szerint módosított szöveg.
