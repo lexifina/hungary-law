@@ -14,7 +14,7 @@ a) a szülő, családbafogadó gyám alacsony iskolai végzettsége tekintetébe
 
 b)[^623] az alacsony foglalkoztatottság tekintetében az Szt.18/B. §-a alapján vezetett nyilvántartás adatai vagy az Szt. 33. §-a szerinti ellátásra való jogosultság hiányában az állami foglalkoztatási szervnek a gyermeket nevelő szülők bármelyikének, a családbafogadó gyámnak az álláskeresőként történő nyilvántartásáról szóló igazolása,
 
-c)[^624] a településre vonatkozó integrált településfejlesztési stratégia szegregátum meghatározása, vagy ennek hiányában a lakókörnyezet, illetve lakáskörülmények tekintetében az elvégzett vagy beszerzett, (2a) bekezdés szerinti környezettanulmány vagy a Gyermekeink védelmében elnevezésű informatikai rendszerben elkészített, hat hónapnál nem régebbi, ugyanazon a címen elvégzett környezettanulmány
+c)[^624] a településre vonatkozó településfejlesztési terv szegregátum meghatározása, vagy ennek hiányában a lakókörnyezet, illetve lakáskörülmények tekintetében az elvégzett vagy beszerzett, (2a) bekezdés szerinti környezettanulmány vagy a Gyermekeink védelmében elnevezésű informatikai rendszerben elkészített, hat hónapnál nem régebbi, ugyanazon a címen elvégzett környezettanulmány
 
 alapján állapítja meg.
 
@@ -37,7 +37,7 @@ c) a gyermek ellátására, lakókörülményeire vonatkozó adatokat.
 [^621]: A XI/A. Fejezetet (83/A. §) a 257/2013. (VII. 5.) Korm. rendelet 4. §-a iktatta be.
 [^622]: A 83/A. § (1) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^623]: A 83/A. § (2) bekezdés b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 54. pontja, a 448/2016. (XII. 19.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^624]: A 83/A. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 55. pontja, a 205/2021. (IV. 29.) Korm. rendelet 10. § j) pontja szerint módosított szöveg.
+[^624]: A 83/A. § (2) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 55. pontja, a 205/2021. (IV. 29.) Korm. rendelet 10. § j) pontja, a 420/2021. (VII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^625]: A 83/A. § (2a) bekezdését a 205/2021. (IV. 29.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^626]: A 83/A. § (3) bekezdése a 419/2015. (XII. 23.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
 [^627]: A 83/A. § (6) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
