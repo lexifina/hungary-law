@@ -6,4 +6,4 @@
 
 (4) Amennyiben a termék mérete, kialakítása vagy egyéb sajátossága miatt az azonosító jelölés és a (3) bekezdésben meghatározott adatok nem tüntethetők fel magán a terméken, azokat jogszabály eltérő rendelkezésének hiányában a termék csomagolásán vagy a termék kísérő dokumentációján kell megadni.
 
-(5) Amennyiben általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktus vagy az Európai Unió egyes termékek forgalmazásának feltételeit harmonizáló kötelező jogi aktusa rendelkezéseinek átültetése céljából elfogadott jogszabály előírja, a gyártó köteles mellékelni az ott meghatározott formában, módon és tartalommal használati és kezelési útmutatót, valamint a biztonságot érintő figyelmeztetéseket a termékhez. A használati és kezelési útmutatónak közérthetőnek és egyértelműnek kell lennie.
+(5) A gyártó a termékhez magyar nyelven köteles mellékelni a fogyasztók és más végfelhasználók számára a használati és kezelési útmutatót, valamint a biztonságot érintő figyelmeztetéseket. A használati és kezelési útmutatónak közérthetőnek és egyértelműnek kell lennie.

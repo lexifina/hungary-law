@@ -1,5 +1,5 @@
 ## 14. Az importtermékek szabad forgalomba bocsátása
 
-21. § (1) A vámhatóság a felfüggesztést megszünteti és a vámkezelést lefolytatja, ha a szabad forgalomba bocsátás felfüggesztését követő 3 munkanapon belül a piacfelügyeleti hatóság által indított eljárásról vagy a termék jogszabályi előírásoknak való megfelelősége tárgyában hozott döntésről nem értesül.
+21. § (1) Ha a szabad forgalomba bocsátás felfüggesztését követő 4 munkanapon belül a piacfelügyeleti hatóság nem kéri a felfüggesztés fenntartását, a vámhatóság a kérelmezett vámeljárást lefolytatja és az árukat kiadja.
 
-(2) A vámhatóság az importterméket szabad forgalomba bocsátja, ha a piacfelügyeleti hatóság a vámhatóság 20. § (3) bekezdése szerinti értesítését követően döntésében megállapítja, hogy a termék megfelel a jogszabályi előírásoknak.
+(2) A vámhatóság az importtermék szabad forgalomba bocsátás vámeljárás alá vonását lefolytatja és az árukat kiadja, ha a piacfelügyeleti hatóság értesíti a vámhatóságot a termék szabad forgalomba bocsátásának jóváhagyásáról.
