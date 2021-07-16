@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-198-20-
 | 2016-07-15 | 2016-198-20-22.2 | 2010: CXXX. törvény |
 | 2016-09-09 | 2016-198-20-22.3 | 271/2016. (IX. 1.) Korm. rendelet |
 | 2018-01-01 | 2016-198-20-22.4 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2021-07-16 | 2016-198-20-22.5 | 420/2021. (VII. 15.) Korm. rendelet |
