@@ -4,6 +4,6 @@
 
 ## A MEGFELELŐSÉGÉRTÉKELŐ SZERVEZETEK BEJELENTÉSE
 
-## 18.[^4]
+## 18.[^17]
 
-[^4]: A 18. alcímet (19–21. §) a 25/2019. (VIII. 26.) ITM rendelet 26. §-a hatályon kívül helyezte.
+[^17]: A 18. alcímet (19–21. §) a 25/2019. (VIII. 26.) ITM rendelet 26. §-a hatályon kívül helyezte.
