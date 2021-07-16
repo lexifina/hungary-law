@@ -1,6 +1,6 @@
 ## 8. Bejelentett szervezet kijelölése
 
-15. § (1)[^2] A kijelölési feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: kijelölő hatóság) jelöli ki a bejelentett szervezeteket
+15. § (1)[^8] A kijelölési feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: kijelölő hatóság) jelöli ki a bejelentett szervezeteket
 
 a) megfelelőségértékelésre;
 
@@ -16,4 +16,4 @@ c) időszakos vizsgálatra.
 
 (5) A kijelölő hatóság nem jelentheti be a Bizottságnak az ADR-ben, a RID-ben és az ADN-ben meghatározott kijelölt üzemi vizsgálóhelyet az (1) bekezdés szerinti eljárások lefolytatására.
 
-[^2]: A 15. § (1) bekezdés nyitó szövegrésze a 62/2016. (XII. 29.) NGM rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 15. § (1) bekezdés nyitó szövegrésze a 62/2016. (XII. 29.) NGM rendelet 23. § (2) bekezdése szerint módosított szöveg.
