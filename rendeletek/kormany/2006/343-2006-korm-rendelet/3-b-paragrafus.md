@@ -22,11 +22,11 @@ e)[^21] a fogvatartottak elhelyezésére szolgáló büntetés-végrehajtási in
 
 a)[^24] építésügyi hatósági engedélyezése során, ha az építésügyi hatóság helyszíni szemle megtartását rendeli el, a helyszíni szemlét három napon belül kell lefolytatni, és a helyszíni szemlén részt vevő szakhatóság állásfoglalását a helyszíni szemle keretében adja meg,
 
-b) az építésügyi hatósági engedélyezési eljárások az Étv. 4. § (3a) bekezdése, valamint 6. § (3) bekezdése szerinti kormányrendelet alapján lefolytathatók a hatályos településrendezési eszközök eltérő rendelkezése esetén is,
+b)[^25] az építésügyi hatósági engedélyezési eljárások az Étv. 4. § (3a) bekezdése, valamint 6. § (3) bekezdése szerinti kormányrendelet alapján lefolytathatók a hatályos településrendezési tervek eltérő rendelkezése esetén is,
 
 c) jogszerűtlen építési tevékenysége során az Eng. R. 55. §-a alkalmazható.
 
-(4)[^25] A (3) bekezdés szerinti, szállás jellegű, nem életvitelszerű, átmeneti tartózkodásra szolgáló épületet vagy önálló rendeltetési egységet úgy kell megtervezni és kialakítani, hogy annak helyiségei, vagy a rendeltetésével hozzá tartozó építmények helyiségei a tervezési program szerint tegyék lehetővé
+(4)[^26] A (3) bekezdés szerinti, szállás jellegű, nem életvitelszerű, átmeneti tartózkodásra szolgáló épületet vagy önálló rendeltetési egységet úgy kell megtervezni és kialakítani, hogy annak helyiségei, vagy a rendeltetésével hozzá tartozó építmények helyiségei a tervezési program szerint tegyék lehetővé
 
 a) a pihenést (az alvást),
 
@@ -47,4 +47,5 @@ c) a mosást, főzést, élelmiszertárolást, mosogatást, az étkezést, valam
 [^22]: A 3/B. § (2) bekezdése a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^23]: A 3/B. § (3) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^24]: A 3/B. § (3) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 184. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^25]: A 3/B. § (4) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^25]: A 3/B. § (3) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 48. §-a szerint módosított szöveg.
+[^26]: A 3/B. § (4) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.

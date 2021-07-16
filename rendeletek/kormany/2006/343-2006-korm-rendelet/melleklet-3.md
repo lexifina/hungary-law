@@ -6,6 +6,6 @@
 
 ## c) jogász szakképzettség az a) és b) pontban foglalt szakképzettségű tudást nem igénylő döntés-előkészítő feladatok ellátására.
 
-3. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^82]
+3. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^83]
 
-[^82]: A 3. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^83]: A 3. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte.
