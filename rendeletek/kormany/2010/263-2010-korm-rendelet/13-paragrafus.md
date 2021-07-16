@@ -1,4 +1,4 @@
-13. § (1)[^44] Az NFK a vagyonkezelési szerződést azonnali hatállyal írásban felmondhatja, ha
+13. § (1)[^46] Az NFK a vagyonkezelési szerződést azonnali hatállyal írásban felmondhatja, ha
 
 a) az önkormányzat a vagyonkezelői jogot továbbadta;
 
@@ -20,18 +20,18 @@ i) két egymást követő évben az 1 főre eső átlagos területnagyság megha
 
 j) az önkormányzat jogszabályból vagy a szerződésből eredő lényeges kötelezettségét felróható módon megszegte.
 
-(2)[^45] Ha az azonnali hatályú felmondást az önkormányzat 15 napon belül nem veszi tudomásul, az NFK további 15 napon belül a bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
+(2)[^47] Ha az azonnali hatályú felmondást az önkormányzat 15 napon belül nem veszi tudomásul, az NFK további 15 napon belül a bírósághoz fordulhat. Ha nem így jár el, a felmondás hatályát veszti.
 
-(3)[^46] A rendes felmondási időt a felek a szerződésben határozzák meg, oly módon, hogy az NFK a termőföld védelméről szóló törvényben előírtak szerint, az ott meghatározott termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld hasznosítási kötelezettségének teljesítéséről, illetve a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon.
+(3)[^48] A rendes felmondási időt a felek a szerződésben határozzák meg, oly módon, hogy az NFK a termőföld védelméről szóló törvényben előírtak szerint, az ott meghatározott termőföld és a mező-, erdőgazdasági művelés alatt álló belterületi föld hasznosítási kötelezettségének teljesítéséről, illetve a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon.
 
 (4) A vagyonkezelési szerződés közös megegyezéssel a gazdasági év végével szüntethető meg.
 
-(5)[^47] A vagyonkezelési szerződés módosítására irányuló kérelemnek minősül, ha az önkormányzat a vagyonkezelésébe került földrészletek egy részére a vagyonkezelési szerződés megszüntetését kezdeményezi. Ilyen kérelmet kizárólag önálló helyrajzi számú földrészletekre lehet előterjeszteni, mely kérelem elbírálásáról az NFK dönt. Egyéb esetekben a vagyonkezelési szerződés módosítására a vagyonkezelési szerződés megkötésére vonatkozó szabályokat kell alkalmazni.
+(5)[^49] A vagyonkezelési szerződés módosítására irányuló kérelemnek minősül, ha az önkormányzat a vagyonkezelésébe került földrészletek egy részére a vagyonkezelési szerződés megszüntetését kezdeményezi. Ilyen kérelmet kizárólag önálló helyrajzi számú földrészletekre lehet előterjeszteni, mely kérelem elbírálásáról az NFK dönt. Egyéb esetekben a vagyonkezelési szerződés módosítására a vagyonkezelési szerződés megkötésére vonatkozó szabályokat kell alkalmazni.
 
-(6)[^48] Ha a vagyonkezelési szerződés az NFK felmondása következtében szűnt meg, az önkormányzat vagyonkezelői jogának ingatlan-nyilvántartásból történő törlését követő öt éven belül az önkormányzat részére a program céljára nem adható földrészletet.
+(6)[^50] Ha a vagyonkezelési szerződés az NFK felmondása következtében szűnt meg, az önkormányzat vagyonkezelői jogának ingatlan-nyilvántartásból történő törlését követő öt éven belül az önkormányzat részére a program céljára nem adható földrészletet.
 
-[^44]: A 13. § (1) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^45]: A 13. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^46]: A 13. § (3) bekezdése a 91/2014. (III. 20.) Korm. rendelet 16. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
-[^47]: A 13. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^48]: A 13. § (6) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^46]: A 13. § (1) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 42. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^47]: A 13. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^48]: A 13. § (3) bekezdése a 91/2014. (III. 20.) Korm. rendelet 16. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^49]: A 13. § (5) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^50]: A 13. § (6) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
