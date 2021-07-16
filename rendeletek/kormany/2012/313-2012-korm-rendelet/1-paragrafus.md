@@ -32,7 +32,7 @@ g) a telek állapotáról jogszabályban előírt kötelezettség teljesítése 
 
 h) a helyi építészeti és természeti értékek védelmére, az azokkal összefüggő tilalmakra, korlátozásokra vonatkozó határozatok, rendeletek, nyilvántartásba vételi és területi adatok,
 
-i) a településfejlesztési- és rendezési eszközökre, továbbá a tilalmakra, korlátozásokra vonatkozó, valamint az Étv. 62. § (6)–(7) bekezdése szerinti önkormányzati rendeletek, és az Étv. 20. § (4) bekezdése szerinti önkormányzati határozatok,
+i)[^3] a településfejlesztési- és rendezési tervekre, továbbá a tilalmakra, korlátozásokra vonatkozó, valamint az Étv. 62. § (6)–(7) bekezdése szerinti önkormányzati rendeletek, és az Étv. 20. § (4) bekezdése szerinti önkormányzati határozatok,
 
 j) az önkéntesen átadott dokumentációk, gyűjtemények, dokumentumtárak,
 
@@ -40,25 +40,27 @@ k) az építésügyi hatósági engedélyezési eljárást támogató elektronik
 
 l) a honvédelmi és katonai célú, valamint a nemzetbiztonsági célú, rendeltetésű építmények esetében az építésfelügyeleti szankciók megállapítására és adataik,
 
-m)[^3] az építésügyi és építésfelügyeleti hatósági ellenőrzési jegyzőkönyvek, hitelesített feljegyzések és fotómellékleteik,
+m)[^4] az építésügyi és építésfelügyeleti hatósági ellenőrzési jegyzőkönyvek, hitelesített feljegyzések és fotómellékleteik,
 
-n)[^4] az elektronikus építési napló és mellékletei,
+n)[^5] az elektronikus építési napló és mellékletei,
 
 o) az épület ingatlan-nyilvántartási feltüntetéséhez a vonatkozó jogszabályi előírások szerint szükséges, hatályos földhivatali záradékkal ellátott változási vázrajz (a továbbiakban: épület-feltüntetési vázrajz),
 
-p)[^5] a régészeti és a műemléki védelem alatt álló ingatlanok, területek – külön jogszabály szerinti – dokumentációi és nyilvántartási adatai,
+p)[^6] a régészeti és a műemléki védelem alatt álló ingatlanok, területek – külön jogszabály szerinti – dokumentációi és nyilvántartási adatai,
 
-q)[^6] az Étv. 58. § (11) bekezdése szerinti értesítés,
+q)[^7] az Étv. 58. § (11) bekezdése szerinti értesítés,
 
-r)[^7] a megszűnt vagy jogutódlással átalakult állami építéstervező vállalatok vagy állami tulajdonú, építészeti tervezést végző gazdasági társaságok felszámolása és e vállalatok gazdasági társasággá alakulása során, valamint ezek időpontjáig keletkezett, a nemzeti tervvagyont érintő dokumentumok, így különösen fotó, dia, szerződéses iratok és adatok,
+r)[^8] a megszűnt vagy jogutódlással átalakult állami építéstervező vállalatok vagy állami tulajdonú, építészeti tervezést végző gazdasági társaságok felszámolása és e vállalatok gazdasági társasággá alakulása során, valamint ezek időpontjáig keletkezett, a nemzeti tervvagyont érintő dokumentumok, így különösen fotó, dia, szerződéses iratok és adatok,
 
-s)[^8] az Étv. 33/A. §-a szerinti egyszerű bejelentéssel megépített vagy bővített lakóépületre vonatkozóan kiállított hatósági bizonyítványok
+s)[^9] az Étv. 33/A. §-a szerinti egyszerű bejelentéssel megépített vagy bővített lakóépületre vonatkozóan kiállított hatósági bizonyítványok,
 
-## [a továbbiakban az a)–s) pont együtt: dokumentációk] kezelésére, az építésügy körébe tartozó tevékenységekkel összefüggő adatokra, azok átadására, kezelésére, továbbá az építésügy körébe tartozó hatósági és szakmai tevékenységeket kiszolgáló központi elektronikus alkalmazások és adatállományok működésére és működtetésére.
+t)[^10] a településtervezés önkormányzat által elfogadott dokumentumai
 
-(1a)[^9] E rendelet hatálya kiterjed a Dokumentációs Központ részére átadni vagy szolgáltatni rendelt, az állami költségvetési források felhasználásával megvalósítani tervezett építészeti tervpályázatok tervanyagának és dokumentációinak gyűjtésére, kezelésére és szolgáltatására.
+## [a továbbiakban az a)–t) pont együtt: dokumentációk] kezelésére, az építésügy körébe tartozó tevékenységekkel összefüggő adatokra, azok átadására, kezelésére, továbbá az építésügy körébe tartozó hatósági és szakmai tevékenységeket kiszolgáló központi elektronikus alkalmazások és adatállományok működésére és működtetésére.
 
-(1b)[^10] E rendelet hatálya kiterjed az alábbi európai uniós fejlesztési programokhoz kapcsolódó iratanyag kezelésére, tárolására, őrzésére és az ellenőrzésre jogosult szervek számára a hozzáférés biztosítására: Phare, ISPA, Saphard, Access, Interreg, 2004–2006 időszak közötti AVOP, GVOP, HEFOP, KIOP, ROP, Svájci Alap, Twinning Program, 2007–2013 közötti időszak határon átnyúló, valamint a 2014–2020-ig terjedő programozási időszak Partnerségi Megállapodással érintett valamennyi programja.
+(1a)[^11] E rendelet hatálya kiterjed a Dokumentációs Központ részére átadni vagy szolgáltatni rendelt, az állami költségvetési források felhasználásával megvalósítani tervezett építészeti tervpályázatok tervanyagának és dokumentációinak gyűjtésére, kezelésére és szolgáltatására.
+
+(1b)[^12] E rendelet hatálya kiterjed az alábbi európai uniós fejlesztési programokhoz kapcsolódó iratanyag kezelésére, tárolására, őrzésére és az ellenőrzésre jogosult szervek számára a hozzáférés biztosítására: Phare, ISPA, Saphard, Access, Interreg, 2004–2006 időszak közötti AVOP, GVOP, HEFOP, KIOP, ROP, Svájci Alap, Twinning Program, 2007–2013 közötti időszak határon átnyúló, valamint a 2014–2020-ig terjedő programozási időszak Partnerségi Megállapodással érintett valamennyi programja.
 
 (2) E rendelet hatálya nem terjed ki
 
@@ -72,23 +74,25 @@ d) a földgázellátásról szóló törvény szerinti nyomvonalas építmények
 
 e) a bányászatról szóló törvény szerinti nyomvonalas építmények a hozzájuk tartozó tartozékokkal és szerelvényekkel,
 
-f)[^11] az atomenergiáról szóló törvény szerinti nukleáris létesítmény, nukleáris létesítménnyel összefüggő építmény, nukleáris rendszer és rendszerelem, a radioaktív hulladék átmeneti és végleges elhelyezésére szolgáló építmény, valamint az atomenergia-felügyeleti szerv építésügyi és építésfelügyeleti hatósági hatáskörébe tartozó, sajátos építménynek nem minősülő építmény,
+f)[^13] az atomenergiáról szóló törvény szerinti nukleáris létesítmény, nukleáris létesítménnyel összefüggő építmény, nukleáris rendszer és rendszerelem, a radioaktív hulladék átmeneti és végleges elhelyezésére szolgáló építmény, valamint az atomenergia-felügyeleti szerv építésügyi és építésfelügyeleti hatósági hatáskörébe tartozó, sajátos építménynek nem minősülő építmény,
 
 g) a távhőszolgáltatásról szóló törvény szerinti távhő-szolgáltatási célra hőt termelő építmények, a távhő továbbítására, elosztására szolgáló távhővezetékek, a távhőt továbbító hőhordozó közeg kiadására, elosztására, fogadására és átalakítására szolgáló hőközpontok,
 
 h) a vasúti pálya, a vasút egyéb helyhez kötött létesítményei és berendezései, a sikló, a függőpálya, a távolsági szalagpálya és a sífelvonó,
 
-i)[^12] a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdés a)–j) pontjában meghatározott sajátos építményfajták
+i)[^14] a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdés a)–j) pontjában meghatározott sajátos építményfajták
 
-[^1]: Az 1. § (1) bekezdés záró szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 5. § (2) bekezdése szerint, a 280/2018. (XII. 21.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés záró szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 5. § (2) bekezdése szerint, a 280/2018. (XII. 21.) Korm. rendelet 6. § a) pontja, a 420/2021. (VII. 15.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 280/2018. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (1) bekezdés m) pontja a 482/2016. (XII. 28.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (1) bekezdés n) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (1) bekezdés p) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^6]: Az 1. § (1) bekezdés q) pontját a 109/2013. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^7]: Az 1. § (1) bekezdés r) pontját a 280/2018. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^8]: Az 1. § (1) bekezdés s) pontját a 280/2018. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^9]: Az 1. § (1a) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^10]: Az 1. § (1b) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^11]: Az 1. § (2) bekezdés f) pontja a 491/2015. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^12]: Az 1. § (2) bekezdés i) pontja a 457/2017. (XII. 28.) Korm. rendelet 414. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^3]: Az 1. § (1) bekezdés i) pontja a 420/2021. (VII. 15.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés m) pontja a 482/2016. (XII. 28.) Korm. rendelet 34. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés n) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (1) bekezdés p) pontja a 62/2014. (III. 6.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. § (1) bekezdés q) pontját a 109/2013. (IV. 9.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^8]: Az 1. § (1) bekezdés r) pontját a 280/2018. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (1) bekezdés s) pontját a 280/2018. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § (1) bekezdés t) pontját a 420/2021. (VII. 15.) Korm. rendelet 62. §-a iktatta be.
+[^11]: Az 1. § (1a) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^12]: Az 1. § (1b) bekezdését a 280/2018. (XII. 21.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^13]: Az 1. § (2) bekezdés f) pontja a 491/2015. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 1. § (2) bekezdés i) pontja a 457/2017. (XII. 28.) Korm. rendelet 414. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -16,6 +16,6 @@
 
 | 7 | 1.000.000.001 Ft felett | 23 580 Ft |
 
-2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^60]
+2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^67]
 
-[^60]: A 2. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § b) pontja.
+[^67]: A 2. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § b) pontja.
