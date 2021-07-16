@@ -1,4 +1,4 @@
-## 11/B. §[^134] A környezetvédelmi hatóság a tevékenység engedélynek megfelelő megvalósítását, illetve a környezetre gyakorolt jelentős kedvezőtlen hatások elkerülése, megelőzése, csökkentése vagy kiegyenlítése érdekében szükséges intézkedések végrehajtását – az e rendeletben, valamint az egyes környezeti elemekre és tényezőkre vonatkozó szabályozásban foglalt előírások szerint, szükség szerint hatósági ellenőrzéssel – figyelemmel kíséri.
+## 11/B. §[^136] A környezetvédelmi hatóság a tevékenység engedélynek megfelelő megvalósítását, illetve a környezetre gyakorolt jelentős kedvezőtlen hatások elkerülése, megelőzése, csökkentése vagy kiegyenlítése érdekében szükséges intézkedések végrehajtását – az e rendeletben, valamint az egyes környezeti elemekre és tényezőkre vonatkozó szabályozásban foglalt előírások szerint, szükség szerint hatósági ellenőrzéssel – figyelemmel kíséri.
 
 ## Nemzetközi környezeti hatásvizsgálati eljárás
 
@@ -6,13 +6,13 @@
 
 (2) Az egyezmény I. függelékében felsorolt azon tevékenységek vagy létesítmények mérethatáraként, amelyeknél számszerű érték helyett a „nagy” vagy „nagyobb” megjelölés található, az 1. mellékletben a megfelelő tevékenységnél vagy létesítménynél a környezeti hatásvizsgálati kötelezettséghez megadott feltételt vagy mérethatárt kell alkalmazni.
 
-(3)[^135] Az egyezmény és e rendelet 12–16. §-ának előírásait az egyezményben nem szereplő, de az e rendelet 1. és 3. számú mellékletében felsorolt minden tevékenységnél alkalmazni kell, ha országhatáron átterjedő jelentős környezeti hatás feltételezhető, és a hatásviselő vagy a kibocsátó fél az EGT-megállapodásban részes állam.
+(3)[^137] Az egyezmény és e rendelet 12–16. §-ának előírásait az egyezményben nem szereplő, de az e rendelet 1. és 3. számú mellékletében felsorolt minden tevékenységnél alkalmazni kell, ha országhatáron átterjedő jelentős környezeti hatás feltételezhető, és a hatásviselő vagy a kibocsátó fél az EGT-megállapodásban részes állam.
 
-(4)[^136] Az egyezmény és e rendelet 12–16. §-a rendelkezéseinek végrehajtásához szükséges koordináció és az egyezmény 1. cikk (iv) pontja szerinti érdekelt felekkel való kapcsolattartás a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium, illetve az általa kijelölt szerv (a továbbiakban együtt: Minisztérium) feladata.
+(4)[^138] Az egyezmény és e rendelet 12–16. §-a rendelkezéseinek végrehajtásához szükséges koordináció és az egyezmény 1. cikk (iv) pontja szerinti érdekelt felekkel való kapcsolattartás a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium, illetve az általa kijelölt szerv (a továbbiakban együtt: Minisztérium) feladata.
 
-(5)[^137]
+(5)[^139]
 
-[^134]: A 11/B. §-t a 139/2017. (VI. 9.) Korm. rendelet 8. §-a iktatta be.
-[^135]: A 12. § (3) bekezdése a 110/2010. (IV. 9.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^136]: A 12. § (4) bekezdése a 82/2011. (V. 18.) Korm. rendelet 25. § g) pontja, a 480/2013. (XII. 17.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^137]: A 12. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 441. § (10) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 157. § (1) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^136]: A 11/B. §-t a 139/2017. (VI. 9.) Korm. rendelet 8. §-a iktatta be.
+[^137]: A 12. § (3) bekezdése a 110/2010. (IV. 9.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^138]: A 12. § (4) bekezdése a 82/2011. (V. 18.) Korm. rendelet 25. § g) pontja, a 480/2013. (XII. 17.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^139]: A 12. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 441. § (10) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 157. § (1) bekezdése. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

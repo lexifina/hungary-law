@@ -20,7 +20,7 @@
 
 ## 4. Rövid tájékoztatás az érintett területen korábban engedélyezett tevékenységek alapjául szolgáló szakvéleményekről, tervekről
 
-## 5. Tervezési és egyéb előírások, így különösen az érintett területre vonatkozó jogszabályok, valamint a határozatba foglalt kötelezettségeket és szakmai irányelveket tartalmazó tervdokumentációk és szabályzatok összefoglalása (Natura 2000 fenntartási tervek, természetvédelmi kezelési tervek, vízgyűjtő-gazdálkodási tervek, területrendezési tervek, településrendezési eszközök)
+## 5. Tervezési és egyéb előírások, így különösen az érintett területre vonatkozó jogszabályok, valamint a határozatba foglalt kötelezettségeket és szakmai irányelveket tartalmazó tervdokumentációk és szabályzatok összefoglalása (Natura 2000 fenntartási tervek, természetvédelmi kezelési tervek, vízgyűjtő-gazdálkodási tervek, területrendezési tervek, településrendezési tervek)
 
 ## C) Általános adatok
 
@@ -278,7 +278,7 @@
 
 ## C) Az intézkedés engedélyezhető, amennyiben az esetlegesen fellépő negatív hatásokat hatásmérséklő intézkedésekkel (időbeli, mennyiségbeli korlátozások, szűrőmezőlétesítés) semlegesíteni lehet.”
 
-15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^329]
+15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^333]
 
 Az egységes környezethasználati engedély köteles tevékenységek környezeti kockázatértékelésének szempontrendszere
 
@@ -306,4 +306,4 @@ Az egységes környezethasználati engedély köteles tevékenységek környezet
 
 2.3. a tárgyi évet megelőző évben a létesítmény az engedélyben meghatározott feltételeket teljesítette.
 
-[^329]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^333]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
