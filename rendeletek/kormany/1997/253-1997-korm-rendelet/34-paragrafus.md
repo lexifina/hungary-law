@@ -1,21 +1,34 @@
-## Az építési telkek beépítési módjának meghatározása
+## Az építési telkek, telkek beépítési módjának meghatározása[^164]
 
-34. § (1)[^116] Az építési telek beépítési módját az építési határvonalakkal meghatározott terület határozza meg úgy, hogy
+34. § (1)[^165] Az építési telek, – továbbá ha indokolt – a telek beépítési módját a helyi építési szabályzatban az építési határvonalakkal meghatározott terület, az építési hely, az építési hely határozza meg úgy, hogy
 
-a) szabadonálló beépítési mód esetén azt minden oldalról a saját telkének az előírt elő-, oldal- és hátsókerti építési határvonalai és a telek határai közötti beépítetlen része vegye körül,
+a) szabadon álló beépítési mód esetén azt minden oldalról a saját telkének az előírt elő-, oldal- és hátsókerti építési határvonalai és a telek határai közötti beépítetlen része vegye körül,
 
-b)[^117] oldalhatáron álló beépítési mód esetén annak egyik építési határvonala a telek egyik oldalhatára, szemközti építési határvonala és a telek másik oldalhatára között beépítetlen telekrész legyen,
+b) oldalhatáron álló beépítési mód esetén annak egyik építési határvonala a telek egyik oldalhatára, szemközti építési határvonala és a telek másik oldalhatára között beépítetlen telekrész legyen,
 
 c) ikres beépítési mód esetén a szomszédos telkek egymás felőli építési határvonala a telkek közös oldalhatára legyen,
 
-d)[^118] zártsorú beépítési mód esetén annak a telek előkerti építési határvonalához csatlakozó oldalai a telek két oldalhatára legyen.
+d) zárt sorú beépítési mód esetén annak a telek előkerti építési határvonalához csatlakozó oldalai a telek két oldalhatára legyen,
 
-(2)[^119] A helyi építési szabályzat, szabályozási terv építési vonalakat meghatározhat.
+e) a nagyvárosias lakóterületen és a kisvárosias lakóterület lakótelepén alkalmazható telepszerű beépítési mód esetén, azt minden oldalról a saját telkének határai vagy a saját telkének az előírt elő-, oldal- és hátsókerti építési határvonalai és a telek határai közötti beépítetlen része vegye körül, és az építési határvonalak által meghatározott építési hely egy telepszerű építési övezeten belül vagy egy övezeten belüli telekcsoportra kerül meghatározásra olyan módon, hogy az építési határvonalak lehetnek telekhatárok és egyben szabályozási vonalak is.
 
-(3)[^120] Zártsorú beépítési mód esetén a helyi építési szabályzat előírhatja hogy az épületek zárt sora helyenként, legalább 10,0 m-es épületközzel szakadjon meg. Ha az épületköz területe két telekre esik, abból legalább 30%-ának, de minimum 3,0 m széles résznek egy telekre kell esnie.
+(2)[^166] A helyi építési szabályzat, szabályozási terv építési vonalakat meghatározhat.
 
-[^116]: A 34. § (1) bekezdés nyitó szövegrésze a 314/2012. (XI. 8.) Korm. rendelet 55. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^117]: A 34. § (1) bekezdés b) pontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 20. pontja szerint módosított szöveg.
-[^118]: A 34. § (1) bekezdés d) pontja a 90/2012. (IV. 26.) Korm. rendelet 31. § 21. pontja, a 217/2018. (XI. 27.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^119]: A 34. § (2) bekezdésének második mondatát a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
-[^120]: A 34. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 10. §-a iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 32. § 21. pontja szerint módosított szöveg.
+(3)[^167] Zárt sorú beépítési mód esetén a helyi építési szabályzat előírhatja, hogy az épületek zárt sora helyenként megszakadjon. Ha az épületköz területe két telekre esik, abból legalább 3,0 m széles résznek egy telekre kell esnie.
+
+(4)[^168] Az építési helyen belül az épületet úgy kell telepíteni, hogy a későbbiekben az energetikai hatékonyságot biztosító épületrész és gépészeti berendezés az építési helyen belül elhelyezhető legyen.
+
+(5)[^169] A telepszerű beépítési mód szerinti telekcsoport lehet közterületen belüli vagy egyéb telken belül úszó építési telkek, telkek csoportja is.
+
+(6)[^170] Telepszerű beépítési mód esetén a telepszerű építési övezet, övezet telekalakítási és beépítési szabályai a 6. § (7) bekezdése szerinti többszintű övezetek alkalmazásával is meghatározható. Ebben az esetben a többszintű építési övezet, övezet alkalmazásával az építési övezetek, övezetek telekalakítási szabályai és beépítési szabályai a telepszerű építési övezet, övezet területére is meghatározhatók.
+
+(7)[^171] Telepszerű beépítési mód esetén az egyes úszótelkek megengedett legnagyobb beépítettsége elérheti a 100%-ot.
+
+[^164]: A 34. §-t megelőző alcím cím a 420/2021. (VII. 15.) Korm. rendelet 38. § 40. pontja szerint módosított szöveg.
+[^165]: A 34. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 28. § (1) bekezdésével megállapított, e módosító rendelet 38. § 41. pontja szerint módosított szöveg.
+[^166]: A 34. § (2) bekezdésének második mondatát a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
+[^167]: A 34. § (3) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 10. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^168]: A 34. § (4) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^169]: A 34. § (5) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^170]: A 34. § (6) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^171]: A 34. § (7) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 28. § (2) bekezdése iktatta be.

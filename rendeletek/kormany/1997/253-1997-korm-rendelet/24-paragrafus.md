@@ -1,8 +1,16 @@
-## Különleges terület
+## Különleges beépítésre szánt terület[^99]
 
-24. §[^76] (1) A különleges területbe azok a területek tartoznak, amelyeken az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre, vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek. A különleges területek célját és fajtáját a településszerkezeti tervben, a beépítési előírásokat a helyi építési szabályzatban minden esetben meg kell határozni.
+24. §[^100] (1)[^101] A különleges beépítésre szánt területbe azok a területek tartoznak, amelyeken
 
-(2) Különleges terület
+a) az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre,
+
+b) a környezetük megengedett külső hatásaitól védelmet igényelnek, vagy
+
+c) településrendezési adottságuk egyedi – a fejlesztési célok vagy a helyi sajátosságok figyelembevételével –,
+
+azzal, hogy a beépítésre szánt különleges terület célját és fajtáját a településtervben, a sajátos használat szerinti építési övezetet és a kapcsolódó beépítési előírásokat a helyi építési szabályzatban minden esetben meg kell határozni.
+
+(2)[^102] Különleges beépítésre szánt területként határozható meg
 
 a) a nagy bevásárlóközpont és nagykiterjedésű kereskedelmi célú terület,
 
@@ -14,7 +22,7 @@ d) az oktatási központok területe,
 
 e) az egészségügyi épület elhelyezésére szolgáló terület,
 
-f) a nagykiterjedésű sportolási célú terület,
+f)[^103] a nagykiterjedésű sportolási célú terület és kempingterület,
 
 g) a kutatás-fejlesztés, a megújuló energiaforrás hasznosításának céljára szolgáló terület,
 
@@ -34,10 +42,14 @@ n) a mezőgazdasági üzemi terület,
 
 o) az egyéb, a 10–23. §-ban foglaltak egyikébe sem sorolható, helyi sajátosságot hordozó terület.
 
-(3)[^77] Tömeges bevándorlás okozta válsághelyzet esetén az új ideiglenes befogadó állomások építésére irányuló beruházások számára kijelölt telkek különleges beépítésre szánt területfelhasználási egységnek tekintendők.
+(3)[^104] Tömeges bevándorlás okozta válsághelyzet esetén az új ideiglenes befogadó állomások építésére irányuló beruházások számára kijelölt telkek különleges beépítésre szánt építési övezetbe tartozónak tekintendők.
 
-(4)[^78] A (3) bekezdésben meghatározott telkek beépítési feltételeinek meghatározásánál e kormányrendelet előírásaitól el lehet térni, a beépítés nagysága szükség esetén 100% is lehet.
+(4)[^105] A (3) bekezdésben meghatározott telkek beépítési feltételeinek meghatározásánál e kormányrendelet előírásaitól el lehet térni, a beépítés nagysága szükség esetén 100% is lehet.
 
-[^76]: A 24. § a 90/2012. (IV. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^77]: A 24. § (3) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
-[^78]: A 24. § (4) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
+[^99]: A 24. §-t megelőző alcím cím a 420/2021. (VII. 15.) Korm. rendelet 38. § 24. pontja szerint módosított szöveg.
+[^100]: A 24. § a 90/2012. (IV. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^101]: A 24. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^102]: A 24. § (2) bekezdés nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 38. § 25. pontja szerint módosított szöveg.
+[^103]: A 24. § (2) bekezdés f) pontja a a 420/2021. (VII. 15.) Korm. rendelet 38. § 26. pontja szerint módosított szöveg.
+[^104]: A 24. § (3) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 1. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 38. § 27. pontja szerint módosított szöveg.
+[^105]: A 24. § (4) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 1. §-a iktatta be.

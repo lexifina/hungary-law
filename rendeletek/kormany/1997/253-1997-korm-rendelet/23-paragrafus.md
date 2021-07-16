@@ -1,17 +1,18 @@
-## Hétvégi házas terület
+## Hétvégi házas üdülőterület[^93]
 
-23. § (1)[^71] A hétvégi házas területen elsősorban a 6,0 m beépítési magasságot meg nem haladó, legfeljebb két üdülőegységet magába foglaló üdülőépületek helyezhetők el.
+23. § (1)[^94] A hétvégi házas üdülőterületen jellemzően legfeljebb két üdülő rendeltetési egységet magába foglaló üdülőépület helyezhető el, amely állandó üdülői kör időszakos pihenésére szolgál, és elhelyezése, mérete, kialakítása, felszereltsége és infrastrukturális ellátottsága alapján az üdülési célú tartózkodásra alkalmas.
 
-(2)[^72] A hétvégi házas területen a helyi építési szabályzatban elő lehet írni, hogy az üdülőegységeket csak csoportos formában lehet elhelyezni.
+(2)[^95] A hétvégi házas üdülőterületen a helyi építési szabályzatban elő lehet írni, hogy az üdülőegységeket csak csoportos formában lehet elhelyezni.
 
-(3)[^73] A helyi építési szabályzatban megengedhető olyan építmények elhelyezése, amelyek a terület rendeltetésével összhangban vannak és azt szolgálják, valamint sportépítmények elhelyezése.
+(3)[^96] A helyi építési szabályzatban megengedhető olyan építmények elhelyezése, amelyek a terület rendeltetésével összhangban vannak és azt szolgálják, valamint sportrendeltetésű építmények elhelyezése.
 
-(4)[^74] A hétvégi házas területen közösségi szórakoztató épület nem helyezhető el.
+(4)[^97] A hétvégi házas üdülőterületen területen közösségi szórakoztató épület nem helyezhető el.
 
-(5)[^75]
+(5)[^98]
 
-[^71]: A 23. § (1) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 10. pontja szerint módosított szöveg.
-[^72]: A 23. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 31. § 12. pontja szerint módosított szöveg.
-[^73]: A 23. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 31. § 13. pontja szerint módosított szöveg.
-[^74]: A 23. § (4) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 31. § 14. pontja szerint módosított szöveg.
-[^75]: A 23. § (5) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 15. pontja hatályon kívül helyezte.
+[^93]: A 23. §-t megelőző alcím címe a 420/2021. (VII. 15.) Korm. rendelet 38. § 19. pontja szerint módosított szöveg.
+[^94]: A 23. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^95]: A 23. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 31. § 12. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 21. pontja szerint módosított szöveg.
+[^96]: A 23. § (3) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 31. § 13. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 22. pontja szerint módosított szöveg.
+[^97]: A 23. § (4) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 31. § 14. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 23. pontja szerint módosított szöveg.
+[^98]: A 23. § (5) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 15. pontja hatályon kívül helyezte.

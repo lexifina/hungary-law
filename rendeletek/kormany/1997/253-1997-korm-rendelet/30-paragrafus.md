@@ -1,23 +1,31 @@
 ## Vízgazdálkodási terület
 
-30. §[^98] (1) A vízgazdálkodással összefüggő területek:
+30. §[^143] (1) A vízgazdálkodási terület a vizek hasznosítását, megőrzését, ökológiai rendszerének védelmét, továbbá a lakossági rekreációt egymással összehangoltan szolgáló terület. Vízgazdálkodási terület
 
-1. a folyóvizek medre és parti sávja,
+a) a folyóvizek medre,
 
-2. az állóvizek medre és parti sávja,
+b) az állóvizek medre,
 
-3. a folyóvizekben keletkezett, nyilvántartásba még nem vett szigetek,
+c) a folyóvizekben keletkezett, nyilvántartásba még nem vett szigetek,
 
-4. a közcélú nyílt csatornák medre és parti sávja,
+d) a közcélú nyílt csatornák medre és parti sávja,
 
-5.[^99] a vízbázis területek,
+e) a vízbázis terület belső vagy belső és külső védőterülete,
 
-6. a hullámterek,
+f) a nagyvízi meder területe.
 
-7.[^100]
+(2) Az (1) bekezdés e) és f) pontja esetében a 6. § (7) bekezdése szerinti kétszintű övezetet kell kijelölni, amennyiben a vízbázissal vagy a nagyvízi mederrel érintett terület más célú hasznosítása is fennáll. Ebben az esetben a vízgazdálkodási területtel érintett
 
-(2) A területen építményt elhelyezni csak a külön jogszabályokban foglaltak szerint lehet.
+a) beépítésre szánt területen a beépítettség legnagyobb mértéke nem növelhető,
 
-[^98]: A 30. § és az azt megelőző alcím a 36/2002. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^99]: A 30. § (1) bekezdésének 5. pontja a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése, a 90/2012. (IV. 26.) Korm. rendelet 31. § 17. pontja, valamint a 32. § 17. pontja szerint módosított szöveg.
-[^100]: A 30. § (1) bekezdés 7. pontját a 90/2012. (IV. 26.) Korm. rendelet 31. § 18. pontja hatályon kívül helyezte.
+b) területen új beépítésre szánt terület nem jelölhető ki.
+
+(3) A vízgazdálkodási területen épületet elhelyezni csak jogszabályban foglaltak szerint, a vízügyi igazgatási szerv hozzájárulásával lehet.
+
+(4) Nagyvízi meder területén a nagyvízi mederkezelési tervvel összhangban határozható meg építési övezeti, övezeti, kétszintű övezet esetén építési övezet és övezeti előírás, azzal, hogy
+
+a) az elsődleges levezetősávban épület, terepszint fölé emelkedő építmény nem helyezhető el, meglévő épület és terepszint fölé emelkedő építményen építési tevékenység nem végezhető;
+
+b) a másodlagos és az átmeneti levezetősávban, továbbá az áramlási holttérben építési tevékenység és építmény elhelyezése a nagyvízi meder, a parti sáv, a vízjárta és a fakadó vizek által veszélyeztetett területek használatáról, hasznosításáról, valamint a folyók esetében a nagyvízi mederkezelési terv készítésének rendjére és tartalmára vonatkozó szabályokról szóló kormányrendeletben foglaltakkal összhangban történhet.
+
+[^143]: A 30. § a 420/2021. (VII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.

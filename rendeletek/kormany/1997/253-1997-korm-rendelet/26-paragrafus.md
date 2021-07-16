@@ -1,8 +1,8 @@
-## Közlekedési és közműterület
+## A közúti közlekedési terület[^111]
 
-26. §[^82] (1) A közlekedés és a közmű elhelyezésére szolgáló terület az országos és a helyi közút, a kerékpárút, a gépjármű várakozóhely (parkoló) – a közterületnek nem minősülő telken megvalósuló kivételével –, a járda és gyalogút (sétány), köztér, mindezek csomópontja, vízelvezetési rendszere és környezetvédelmi építményei, a közúti, a kötöttpályás, a vízi és a légi közlekedés, továbbá a közmű és a hírközlés építményei elhelyezésére szolgál.
+26. §[^112] (1) A közúti közlekedési terület az országos és a helyi közút, a kerékpárút, a gépjármű-várakozóhely (parkoló) – a közterületnek nem minősülő telken megvalósuló kivételével –, a járda és gyalogút (sétány), köztér, mindezek csomópontja, vízelvezetési rendszere és környezetvédelmi építményei, a közúti közlekedés, továbbá a közmű és a hírközlés építményei elhelyezésére szolgál.
 
-(2) A közút, a vasút elhelyezése céljára – más jogszabályi előírás hiányában – legalább a következő szélességű építési területet kell biztosítani a vonalvezetési jellemzők figyelembe vételével:
+(2) A közút elhelyezése céljára – más jogszabályi előírás hiányában – legalább a következő szélességű területet kell biztosítani, a vonalvezetési jellemzők figyelembevételével:
 
 a) gyorsforgalmi út (autópálya, autóút) esetén 60 m,
 
@@ -12,16 +12,17 @@ c) országos mellékút esetén 30 m,
 
 d) helyi gyűjtőút esetén 22 m,
 
-e) kiszolgáló út esetén 12 m,
+e) kiszolgálóút esetén 12 m,
 
-f) kerékpárút esetén 3 m,
+f) kiszolgálóút kialakult állapot esetén a helyi építési szabályzatban foglaltaknak megfelelően,
 
-g) gyalogút esetén 3 m,
+g) kerékpárút esetén 3 m,
 
-h) kétvágányú vasút esetén 20 m,
+h) gyalogút esetén 3 m.
 
-i) egyvágányú vasút esetén 10 m.
+(3) A közlekedési terület méretét úgy kell meghatározni, hogy az a helyi sajátosságoknak megfelelő zöldfelületi, gyalogosközlekedési, valamint csapadékvíz-szikkasztási igényeket ki tudja szolgálni.
 
-(3) A közlekedési területen elhelyezhető épület a közlekedést kiszolgáló, a területet igénybe vevők ellátását szolgáló kereskedelmi, szolgáltató, és szállás, továbbá ezen épületeken belül a tulajdonos, a használó és a személyzet számára szolgáló lakás rendeltetést tartalmazhat.
+(4) A közúti közlekedési területen a közlekedést kiszolgáló épület, valamint a területet igénybe vevők ellátását szolgáló iroda, kereskedelmi, szolgáltató, raktár- és szállásjellegű épület helyezhető el. Lakás – a helyi építési szabályzatban meghatározott számban és módon elhelyezett szolgálati lakás kivételével – nem helyezhető el.
 
-[^82]: A 26. § a 90/2012. (IV. 26.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^111]: A 26. §-t megelőző alcím címet a 420/2021. (VII. 15.) Korm. rendelet 20. §-a iktatta be.
+[^112]: A 26. § a 420/2021. (VII. 15.) Korm. rendelet 20. §-ával megállapított szöveg.

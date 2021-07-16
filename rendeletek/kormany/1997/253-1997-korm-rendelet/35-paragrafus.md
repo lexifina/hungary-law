@@ -1,18 +1,24 @@
 ## Az elő-, oldal- és hátsókert előírásai
 
-35. § (1)[^121] Építési határvonalra helyezett épületrész esetén az építési határvonalra a végleges külső (vakolt vagy burkolt) felületnek kell kerülnie. Az előírt legkisebb elő-, és oldalkert méretén belül épületrész – az 1,0 m-nél nem nagyobb kiállású eresz, 0,6 m-nél nem nagyobb kiállású angolakna és alaptest, valamint az építmény alagsori vagy pinceszinti megközelítését biztosító lépcső vagy lejtő és annak támfala, továbbá a (8)–(9) bekezdésben és a helyi építési szabályzatban foglaltak kivételével – nem állhat.
+35. § (1)[^172] Építési határvonalra helyezett épületrész esetén az építési határvonalra a végleges külső (vakolt vagy burkolt) felületnek kell kerülnie. Az előírt legkisebb elő-, és oldalkert méretén belül épületrész – az 1,0 m-nél nem nagyobb kiállású eresz, 0,6 m-nél nem nagyobb kiállású angolakna és alaptest, valamint az építmény alagsori vagy pinceszinti megközelítését biztosító lépcső vagy lejtő és annak támfala, továbbá a (8)–(9) bekezdésben és a helyi építési szabályzatban foglaltak kivételével – nem állhat.
 
-(2)[^122] Az előkert legkisebb mélységét a helyi építési szabályzat állapítja meg, ennek hiányában a kialakult állapotnak megfelelő vagy 5,0 m.
+(2)[^173] Az előkert legkisebb mélysége
 
-(3)[^123] Az oldalkert legkisebb szélességét a helyi építési szabályzat állapítja meg, ha a szabályzat erről nem rendelkezik, akkor az a kialakult állapotnak megfelelő, ennek hiányában nem lehet kisebb:
+a) a helyi építési szabályzatban megállapított érték,
 
-a) szabadon álló és ikresen csatlakozó beépítési mód esetén a 36. § (2) bekezdése szerint meghatározott legkisebb távolság felénél,
+b) a helyi építési szabályzat által elismert kialakult állapot vagy
 
-b)[^124] oldalhatáron álló beépítési mód esetén 4 m-nél.
+c) az a) és b) pontban foglaltak hiányában 5,0 m.
 
-c)[^125]
+(3)[^174] Az oldalkert legkisebb szélessége
 
-(4)[^126] A hátsókert legkisebb mélységét a helyi építési szabályzat állapítja meg, ha a szabályzat erről nem rendelkezik, akkor az a kialakult állapotnak megfelelő, ennek hiányában nem lehet kisebb:
+a) a helyi építési szabályzatban megállapított érték,
+
+b) a helyi építési szabályzat által elismert kialakult állapot vagy
+
+c) az a) és b) pontban foglaltak hiányában szabadon álló és ikresen csatlakozó beépítési mód esetén a 36. § (2) bekezdése szerint meghatározott legkisebb távolság fele, az oldalhatáron álló beépítési mód esetén 4,0 m.
+
+(4)[^175] A hátsókert legkisebb mélységét a helyi építési szabályzat állapítja meg, ha a szabályzat erről nem rendelkezik, akkor az a kialakult állapotnak megfelelő, ennek hiányában nem lehet kisebb:
 
 – sem 6,0 m-nél,
 
@@ -20,7 +26,7 @@ c)[^125]
 
 (5) A saroktelek elő- és oldalkertnek nem minősülő részén a hátsókertre vonatkozó rendelkezéseket kell alkalmazni.
 
-(6)[^127] Az elő- és oldalkert előírt legkisebb méretén belül nem lehet:
+(6)[^176] Az elő- és oldalkert előírt legkisebb méretén belül nem lehet:
 
 – növénytermesztés céljára szolgáló kerti növényház (üvegház), fóliasátor,
 
@@ -34,13 +40,21 @@ c)[^125]
 
 – trágyatároló, komposztáló, továbbá
 
-– siló, nem terepszint alatti vagy terepszint alatti fedetlen kialakítású ömlesztett anyag-, folyadék- vagy gáztároló.
+– siló, nem terepszint alatti vagy terepszint alatti fedetlen kialakítású ömlesztett anyag-, folyadék- vagy gáztároló, valamint a helyi építési szabályzatban nem megengedett egyéb tárolóépítmény.
 
-(7)[^128] A hátsókert előírt legkisebb méretén belül – a szükséges védőtávolságok megtartásával – valamennyi melléképítmény, továbbá mosókonyha, nyárikonyha, gépkocsi és egyéb tároló épület elhelyezhető. Növényházat (üvegházat), fóliasátrat a 31. § rendelkezéseinek keretei között – helyi építési szabályzat és szabályozási terv eltérő rendelkezése hiányában – a teleknek a szomszédos telekkel közös határától legalább 1,50 m távolságra szabad elhelyezni.
+(7)[^177] A hátsókert előírt legkisebb méretén belül – a szükséges védőtávolságok megtartásával – valamennyi melléképítmény, továbbá mosókonyha, nyárikonyha, gépkocsi és egyéb tároló épület elhelyezhető. Növényházat (üvegházat), fóliasátrat a 31. § rendelkezéseinek keretei között – helyi építési szabályzat és szabályozási terv eltérő rendelkezése hiányában – a teleknek a szomszédos telekkel közös határától legalább 1,50 m távolságra szabad elhelyezni.
 
-(8)[^129] Az épületek utólagos hőszigetelése és homlokzatburkolása az elő-, oldal- és hátsókert méretét, valamint a telek homlokvonalára kiépített épület esetében a közterületet csökkentheti. A telek beépítettsége ennek megfelelően eltérhet az övezetre előírt megengedett legnagyobb beépítettség mértékétől.
+(8)[^178] Az utólagos hőszigetelés és homlokzatburkolás
 
-(9)[^130] Építési határvonalon kívülre eső épületrész
+a) az elő-, oldal- és hátsókert méretét csökkentheti,
+
+b) a telek homlokvonalára kiépített épület esetében a közterületre átnyúlhat, és
+
+c) az oldalhatárra kiépített épület esetében a szomszéd ingatlan tulajdonosának hozzájárulása esetén a szomszéd ingatlanra átnyúlhat,
+
+azzal, hogy az érintett telkek beépítettsége ennek megfelelően eltérhet az építési övezetre, övezetre előírt megengedett legnagyobb beépítettség mértékétől, az utólagos hőszigetelés és homlokzatburkolás által elfoglalt terület mértékével.
+
+(9)[^179] Építési határvonalon kívülre eső épületrész
 
 a) az előkertbe a legalább 5,0 m-es előkertméret,
 
@@ -50,16 +64,14 @@ c) az oldalkertbe – legfeljebb 1,0 m-es benyúlással – a legalább 4,0 m-es
 
 esetében létesíthető.
 
-(10)[^131] A (9) bekezdés szerinti túlnyúló épületrész hossza legfeljebb az adott teljes épület homlokzathosszának 4/5-e, legnagyobb szélessége (kiugrása) legfeljebb 1,0 m lehet. Az épületkiugrás a szomszédos telek határától legalább a kiugrás másfélszeresének megfelelő, de legalább 1,0 m távolságra lehet.
+(10)[^180] A (9) bekezdés szerinti túlnyúló épületrész hossza legfeljebb az adott teljes épület homlokzathosszának 4/5-e, legnagyobb szélessége (kiugrása) legfeljebb 1,0 m lehet. Az épületkiugrás – az erkélyt is beleértve – a szomszédos telek határától legalább a kiugrás másfélszeresének megfelelő, de legalább 1,0 m távolságra lehet.
 
-[^121]: A 35. § (1) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^122]: A 35. § (2) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 56. § b) pontja szerint módosított szöveg. alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^123]: A 35. § (3) bekezdésének bevezető szövegrésze a 182/2008. (VII. 14.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^124]: A 35. § (3) bekezdés b) pontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 23. pontja szerint módosított szöveg.
-[^125]: A 35. § (3) bekezdésének c) pontját a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
-[^126]: A 35. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 90/2012. (IV. 26.) Korm. rendelet 32. § 24. pontja szerint módosított szöveg.
-[^127]: A 35. § (6) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 25. pontja szerint módosított szöveg.
-[^128]: A 35. § (7) bekezdése a Magyar Közlöny 1998. évi 25. számában közzétett helyesbítésnek megfelelően módosított szöveg. A 35. § (7) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^129]: A 35. § (8) bekezdését a 36/2002. (III. 7.) Korm. rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^130]: A 35. § (9) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^131]: A 35. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 32. § 26. pontja szerint módosított szöveg.
+[^172]: A 35. § (1) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^173]: A 35. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^174]: A 35. § (3) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^175]: A 35. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 11. § (3) bekezdésével megállapított, a 90/2012. (IV. 26.) Korm. rendelet 32. § 24. pontja szerint módosított szöveg.
+[^176]: A 35. § (6) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 32. § 25. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 42. pontja szerint módosított szöveg.
+[^177]: A 35. § (7) bekezdése a Magyar Közlöny 1998. évi 25. számában közzétett helyesbítésnek megfelelően módosított szöveg. A 35. § (7) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^178]: A 35. § (8) bekezdését a 36/2002. (III. 7.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^179]: A 35. § (9) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^180]: A 35. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 32. § 26. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 43. pontja szerint módosított szöveg.

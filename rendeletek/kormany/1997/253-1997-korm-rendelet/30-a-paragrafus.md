@@ -1,20 +1,18 @@
-## Természetközeli terület[^101]
+## Természetközeli terület[^144]
 
-30/A. §[^102] (1) A természetközeli területek:
+30/A. §[^145] (1)[^146] A természetközeli terület:
 
-a) mocsár,
+a) mocsár, nádas, ex lege védett láp,
 
-b) nádas,
+b) ex lege védett kunhalom és
 
-c)[^103]
+c) nyílt karsztterület és sziklagyepterület,
 
-d) sziklás terület,
+kivéve, ha ezeket a területeket védelmi célú erdőterület, általános mezőgazdasági terület, tájgazdálkodási mezőgazdasági terület vagy vízgazdálkodási területbe sorolják.
 
-e)[^104]
+(2)[^147] A természetközeli területek övezetében épületet elhelyezni nem lehet.
 
-(2) A természetközeli területeken épületet elhelyezni nem lehet.
-
-[^101]: A 30/A. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
-[^102]: A 30/A. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^103]: A 30/A. § (1) bekezdés c) pontját a 90/2012. (IV. 26.) Korm. rendelet 31. § 19. pontja hatályon kívül helyezte.
-[^104]: A 30/A. (1) bekezdésének e) pontját a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének a) pontja hatályon kívül helyezte.
+[^144]: A 30/A. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
+[^145]: A 30/A. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^146]: A 30/A. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^147]: A 30/A. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 38. § 35. pontja szerint módosított szöveg.

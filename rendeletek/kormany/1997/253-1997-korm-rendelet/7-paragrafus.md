@@ -1,30 +1,14 @@
 ## A TERÜLETFELHASZNÁLÁSI EGYSÉGEK TAGOZÓDÁSA
 
-## Építési övezetek, övezetek
+## Építési övezetek, övezetek alapvető követelményei[^19]
 
-7. § (1)[^20] A 6. § (3) bekezdése szerinti területfelhasználási egységek területeit közterületekre és egyéb (közterületnek nem minősülő) területekre kell tagolni. A beépítésre szánt területeket építési övezetekbe, a beépítésre nem szánt területeket övezetekbe kell sorolni.
+7. § (1)[^20] A 6. § (2) és (3) bekezdése szerinti általános használatú területek településfejlesztési tervben jelölt területeit a településrendezési tervben közterületekre és egyéb közterületnek nem minősülő általános használatú területekre kell tagolni, amennyiben ezt a tagolást a fejlesztési terv nem tartalmazza.
 
-(2)[^21] Az építési övezeteket, övezeteket a meglévő vagy tervezett rendeltetésük, beépítettségük és karakterbeli különbségeik alapján úgy kell besorolni, hogy az egy övezetbe tartozó, azonos adottságú telkeket azonos értékű építési jogok és kötelezettségek illessék meg. Az építési övezeten belül zártsorú beépítés esetén a saroktelekre vonatkozóan eltérő építési jog is megállapítható.
+(2)[^21] Az építési övezeteket, övezeteket a meglévő vagy tervezett rendeltetésük, beépítettségük és karakterbeli különbségeik alapján úgy kell besorolni, hogy az egy övezetbe tartozó, azonos adottságú telkeket azonos értékű építési jogok és kötelezettségek illessék meg. Az építési övezeten belül zártsorú beépítés esetén a saroktelekre vonatkozóan, valamint kialakult állapotú területen az övezeti sajátosságoktól eltérő adottságú telkekre eltérő építési jog is megállapítható.
 
-(3)[^22] Újonnan beépítésre vagy jelentős átépítésre kerülő területek építési övezeteire vonatkozóan meg kell határozni legalább:
+(3)[^22] Újonnan beépítésre vagy jelentős átépítésre kerülő területeken építési tevékenység csak helyi építési szabályzat alapján történhet.
 
-1.[^23] a kialakítható telek legkisebb területét,
-
-2. a beépítési módot,
-
-3. a beépítettség megengedett legnagyobb mértékét,
-
-4.[^24] a beépítési magasság megengedett legnagyobb mértékét,
-
-5.[^25] a közműellátás mértékét és módját,
-
-6. a zöldfelület legkisebb mértékét,
-
-7.[^26] az építési övezet használati céljával összefüggő rendeltetést, és – a 10. § (2) bekezdésében foglaltak szerint – az ezen kívül elhelyezhető egyéb rendeltetést, valamint azt a rendeltetést, amely nem helyezhető el,
-
-8.[^27] a terepszint alatti építés mértékét és helyét.
-
-(3a)[^28] A helyi építési szabályzatban egységesen kell meghatározni a megengedett beépítési magasságot:
+(3a)[^23] A helyi építési szabályzatban a megengedett legnagyobb beépítési magasságot
 
 a) az épületmagasság,
 
@@ -32,11 +16,13 @@ b) a homlokzatmagasság vagy
 
 c) a párkánymagasság
 
-alkalmazásával.
+alkalmazásával kell meghatározni, amelyek indokolt esetben egy építési övezeten, övezeten belül együtt is alkalmazhatóak.
 
-(4)[^29] A helyi építési szabályzat a helyi sajátosságok megőrzése vagy kialakítása érdekében további előírásokat írhat elő.
+(3b)[^24] A megengedett legnagyobb beépítési magasság meghatározása mellett kiegészítő előírásként az épület legmagasabb pontja is meghatározható.
 
-(5)[^30] Az épületmagasság megállapítása során:
+(4)[^25]
+
+(5)[^26] Az épületmagasság megállapítása során:
 
 a) az egyes homlokzati felületek magasságát az adott felületi síknak (vagy íves felületnek)
 
@@ -72,17 +58,20 @@ ch) a pincelejáró, a gépkocsilehajtó, az angolakna térszint alatti homlokza
 
 d) az egy telken álló épületek épületmagasságát külön-külön kell meghatározni.
 
-(6)[^31] A szintterület számítása során a bruttó alapterületbe nem kell beszámítani az erkély, a függőfolyosó, a tornác, a fedetlen terasz és udvar, a közterülethez csatlakozó árkád bruttó alapterületét.
+(5a)[^27] A nagyvárosias lakóterületen, a kisvárosias lakóterületen és a településközponti vegyes területen – zárt sorú beépítés esetén – az épületmagasság meghatározása során a település sajátosságainak megfelelő utcai légtérarányt kell biztosítani.
 
-[^20]: A 7. § (1) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^21]: A 7. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^22]: A 7. § (3) bekezdésének felvezető szövege a 36/2002. (III. 7.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^23]: A 7. § (3) bekezdés 1. pontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 5. pontja szerint módosított szöveg.
-[^24]: A 7. § (3) bekezdés 4. pontja a 314/2012. (XI. 8.) Korm. rendelet 47. §-ával megállapított szöveg. Alkalmazására lád e módosító rendelet 45–46. §-át.
-[^25]: A 7. § (3) bekezdés 5. pontja a 314/2012. (XI. 8.) Korm. rendelet 47. §-ával megállapított szöveg. Alkalmazsáára lásd e módosító rendelet 45–46. §-át.
-[^26]: A 7. § (3) bekezdés 7. pontja a 90/2012. (IV. 26.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^27]: A 7. § (3) bekezdés 8. pontja a 90/2012. (IV. 26.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^28]: A 7. § (3a) bekezdését a 314/2012. (XI. 8.) Korm. rendelet 48. §-a iktatta be. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^29]: A 7. § (4) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 217/2018. (XI. 27.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^30]: A 7. § (5) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^31]: A 7. § (6) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+(6)[^28] A szintterület számítása során a bruttó alapterületbe nem kell beszámítani az erkély, a függőfolyosó, az oldalt nyitott emeleti folyosó, a tornác, a szabad lépcső, a fedetlen terasz és udvar, a légudvar, a légakna, a belső udvari árkád, a közterülethez csatlakozó árkád, az 1,90 méternél kisebb belmagasságú helyiség vagy helyiségrész bruttó alapterületét, valamint a loggia és a fedett terasz bruttó alapterületének a felét.
+
+(7)[^29] A helyi építési szabályzat az egyes építési övezetekhez és övezetekhez kapcsolódóan a szintterületi mutató számításáról – a (6) bekezdésben foglaltak figyelembevétele mellett – külön rendelkezhet. A fővárosi rendezési szabályzat a szintterület-átlagérték számításáról külön rendelkezik, a kerületi építési szabályzat a szintterületi mutatót és annak számítását ezzel összhangban állapítja meg.
+
+[^19]: A 7. § megelőző alcím cím a 420/2021. (VII. 15.) Korm. rendelet 38. § 3. pontja szerint módosított szöveg.
+[^20]: A 7. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 7. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 420/2021. (VII. 15.) Korm. rendelet 38. § 4. pontja szerint módosított szöveg.
+[^22]: A 7. § (3) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^23]: A 7. § (3a) bekezdését a 314/2012. (XI. 8.) Korm. rendelet 48. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^24]: A 7. § (3b) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^25]: A 7. § (4) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 39. § 1. pontja hatályon kívül helyezte.
+[^26]: A 7. § (5) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^27]: A 7. § (5a) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^28]: A 7. § (6) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 38. § 5. pontja szerint módosított szöveg.
+[^29]: A 7. § (7) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 6. § (4) bekezdése iktatta be.

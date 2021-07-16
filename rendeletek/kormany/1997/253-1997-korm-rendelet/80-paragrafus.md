@@ -1,6 +1,6 @@
 ## Gáznemű égéstermék homlokzati kivezetési feltételei
 
-80. §[^309] (1) Homlokzati égéstermék-kivezetést létesíteni – a (2) bekezdésben foglalt kivétellel – építmény, építményrész homlokzatán nem lehet.
+80. §[^363] (1) Homlokzati égéstermék-kivezetést létesíteni – a (2) bekezdésben foglalt kivétellel – építmény, építményrész homlokzatán nem lehet.
 
 (2) Homlokzati égéstermék-kivezetési hely létesíthető – ha a kivezetési helytől mért 10,0 m távolságon belül nincs épület – e rendelkezés hatálybalépését megelőzően használatba vett, meglévő
 
@@ -14,7 +14,7 @@ a) a gyalogos és gépkocsival használt átjárókban, aluljárókban, áthajt�
 
 b) a légaknában,
 
-c)[^310] a légudvarban, a 71. § (5) bekezdésében foglaltak kivételével,
+c)[^364] a légudvarban, a 71. § (5) bekezdésében foglaltak kivételével,
 
 d) a bevilágító aknában,
 
@@ -22,5 +22,5 @@ e) a zárt, át nem szellőző kis alapterületű belső udvarban, verandán, be
 
 f) a közvetlenül csatlakozó járdaszinttől mért 2,10 m-es magasság alatt.
 
-[^309]: A 80. § a 182/2008. (VII. 14.) Korm. rendelet 35. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^310]: A 80. § (3) bekezdés c) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 32. pontja szerint módosított szöveg.
+[^363]: A 80. § a 182/2008. (VII. 14.) Korm. rendelet 35. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^364]: A 80. § (3) bekezdés c) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 32. pontja szerint módosított szöveg.

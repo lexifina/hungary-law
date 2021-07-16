@@ -1,3 +1,0 @@
-## 9. §[^33] A helyi építési szabályzatban, a szabályozási tervben – a főváros esetében a szabályozási kerettervben is – gondoskodni kell a település igazgatási területén a klimatikus viszonyok megőrzése, javítása érdekében a telkek növényzettel fedett részéből, a zöldterületekből és az erdőkből álló egységes és összefüggő zöldfelületi rendszer kialakításáról, valamint az épített környezet alaktani és helyi éghajlati jellegét meghatározó elemeinek a megőrzéséről.
-
-[^33]: A 9. § a 90/2012. (IV. 26.) Korm. rendelet 32. § 6. pontja szerint módosított szöveg. [A 314/2012. (XI. 8.) Korm. rendelet 56. § a) pontjával elrendelt módosítás, amely szerint hatályát veszti a „, a szabályozási tervben–a főváros estében a szabályozási kerettervben is–” szövegrész, nem vezethető át.]

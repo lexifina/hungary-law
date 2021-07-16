@@ -2,98 +2,96 @@
 
 ## TELEPÜLÉSRENDEZÉSI KÖVETELMÉNYEK
 
-## TELEPÜLÉSSZERKEZET, TERÜLETFELHASZNÁLÁS
+## ÁLTALÁNOS TERÜLETHASZNÁLAT[^8]
 
 6. § (1) A városok és községek (a továbbiakban együtt: település) igazgatási területét építési szempontból
 
-a)[^7] beépítésre szánt (beépített, további beépítésre kijelölt) területbe, amelyen belüli építési övezetekben az építési telkek megengedett beépítettsége legalább 10% illetőleg
+a)[^9] beépítésre szánt (beépített, további beépítésre kijelölt) területbe, amelyen belüli építési övezetekben az építési telkek megengedett beépítettsége legalább 10% illetőleg
 
-b)[^8] beépítésre nem szánt területbe, amelyen belüli övezetekben a telkek megengedett beépítettsége legfeljebb 10%
+b)[^10] beépítésre nem szánt területbe, amelyen belüli övezetekben a telkek megengedett beépítettsége legfeljebb 10%
 
 kell sorolni.
 
-(2) A település igazgatási területén belüli azonos szerepkörű, jellegű, beépítettségi intenzitású területrészeket – általános és sajátos építési használatuk szerint – azonos területfelhasználási egységbe kell sorolni.
+(2)[^11] Az igazgatási terület beépítésre szánt területe általános használata szerint lehet
 
-(3) Az igazgatási terület
+1. nagyvárosias lakóterület,
 
-a) beépítésre szánt területeit az építési használatuk általános jellege, valamint sajátos építési használatuk szerint
+2. kisvárosias lakóterület,
 
-1. lakó-,
+3. kertvárosias lakóterület,
 
-1.1. nagyvárosias lakó-,
+4. falusias lakóterület,
 
-1.2. kisvárosias lakó-,
+5. településközponti vegyes terület,
 
-1.3. kertvárosias lakó-,
+6. intézményi vegyes terület,
 
-1.4. falusias lakó-,
+7. kereskedelmi, szolgáltató gazdasági terület,
 
-2. vegyes-,
+8. ipari gazdasági terület,
 
-2.1.[^9] településközpont
+9. egyéb ipari gazdasági terület,
 
-2.2.[^10] intézményi,
+10. általános gazdasági terület,
 
-3. gazdasági-,
+11. üdülőházas üdülőterület,
 
-3.1. kereskedelmi, szolgáltató-,
+12. hétvégi házas üdülőterület vagy
 
-3.2. ipari-,
+13. különleges beépítésre szánt terület, a 24. § alapján.
 
-3.3.[^11] általános gazdasági,
+(3)[^12] Az igazgatási terület beépítésre nem szánt területe általános használata szerint lehet
 
-4. üdülő-,
+1. közúti közlekedési terület,
 
-4.1. üdülőházas-,
+2. egyéb közlekedési terület,
 
-4.2. hétvégiházas-, valamint
+3. közműelhelyezési terület,
 
-5. különleges-,
+4. hírközlési terület,
 
-b) beépítésre nem szánt területeit
+5. közpark zöldterület,
 
-1. közlekedési- és közműelhelyezési, hírközlési-,
+6. közkert zöldterület,
 
-2. zöld-,
+7. védelmi célú erdőterület,
 
-3.[^12] erdő
+8. rekreációs célú erdőterület,
 
-3.1. védelmi erdő-,
+9. egyéb erdőterület,
 
-3.2. gazdasági erdő-,
+10. kertes mezőgazdasági terület,
 
-3.3. közjóléti erdő-,
+11. általános mezőgazdasági terület,
 
-4.[^13] mezőgazdasági,
+12. tájgazdálkodási mezőgazdasági terület,
 
-4.1. kertes mezőgazdasági,
+13. vízgazdálkodási terület,
 
-4.2. általános mezőgazdasági,
+14. természetközeli terület vagy
 
-5.[^14] vízgazdálkodási,
+15. különleges beépítésre nem szánt terület, a 30/B. § alapján.
 
-6.[^15] természetközeli,
+(4)[^13] A (2) és (3) bekezdésben foglalt általános használatok mellett – a különleges beépítésre szánt és különleges beépítésre nem szánt területen kívül – egyéb általános használat az (5) bekezdésben foglalt kivételekkel nem állapítható meg.
 
-7.[^16] különleges beépítésre nem szánt
+(5)[^14] A Balaton vízparti területe vonatkozásában kormányrendelet egyéb általános építési használatot is megállapíthat, valamint a fővárosi rendezési szabályzat a (2) és (3) bekezdésben meghatározott általános használat szerinti területeket a helyi adottságoknak megfelelően tovább bonthatja.
 
-területként (területfelhasználási egységként) lehet megkülönböztetni.
+(6)[^15] A helyi építési szabályzatnál a (2) és (3) bekezdésben – a kerületi építési szabályzatnál a fővárosi rendezési szabályzatban – meghatározott általános használatokon belül a helyi adottságok figyelembevételével kerülnek meghatározásra építési övezetként vagy övezetként a sajátos használatok és területeik. A beépítésre szánt területeket építési övezetekbe, a beépítésre nem szánt területeket övezetekbe kell sorolni.
 
-(4)[^17] A beépítésre szánt területfelhasználási egységekre vonatkozóan meg kell határozni a beépítési sűrűséget és a közüzemi közművesítettség mértékét.
+(7)[^16] A területi adottságok figyelembevételével egy adott területre egymás felett legfeljebb kettő általános használat szerinti terület, illetve építési övezet vagy övezet is meghatározható.
 
-(5)[^18] A (3) bekezdésben foglalt egyes területfelhasználási egységek a helyi sajátosságoknak megfelelően tovább bonthatók.
+(8)[^17] A szabályozási tartalékterülettel érintett területeken meghatározásra kerül az építési jogot keletkeztető építési övezet vagy övezet, és a fejlesztési akcióterület kijelöléssel összhangban a terület távlati általános használata, ami építési jogot nem keletkeztet.
 
-(6)[^19] Egy területen egymás felett többszintes területfelhasználás is meghatározható.
+(9)[^18] Kerületi építési szabályzatban építési övezet és övezet a beépítésre szánt és a beépítésre nem szánt területek használatának általános jellegét, szintterületi átlagértékét és egyes területek beépítési magasságát meghatározó fővárosi rendezési szabályzattal összhangban határozható meg.
 
-[^7]: A 6. § (1) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 6. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^9]: A 6. § (3) bekezdés a) pont 2.1. alpontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 2. pontjával megállapított szöveg.
-[^10]: A 6. § (3) bekezdés a) pont 2.2. alpontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 3. pontjával megállapított szöveg.
-[^11]: A 6. § (3) bekezdés a) pont 3.3. alpontját a 157/2017. (VI. 16.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^12]: A 6. § (3) bekezdés b) pont 3. alpontja a 90/2012. (IV. 26.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: A 6. § (3) bekezdés b) pontjának 4. alpontja a 36/2002. (III. 7.) Korm. rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^14]: A 6. § (3) bekezdés b) pontjának 5. alpontja a 36/2002. (III. 7.) Korm. rendelet 3. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
-[^15]: A 6. § (3) bekezdése b) pontjának 6. alpontját a 182/2008. (VII. 14.) Korm. rendelet 2. § (1) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^16]: A 6. § (3) bekezdése b) pontjának 7. alpontját a 182/2008. (VII. 14.) Korm. rendelet 2. § (1) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^17]: A 6. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 90/2012. (IV. 26.) Korm. rendelet 32. § 4. pontja szerint módosított szöveg.
-[^18]: A 6. § (5) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^19]: A 6. § (6) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^8]: A 6. § megelőző alcím cím a 420/2021. (VII. 15.) Korm. rendelet 38. § 2. pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 6. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 6. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^12]: A 6. § (3) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^13]: A 6. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^14]: A 6. § (5) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^15]: A 6. § (6) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^16]: A 6. § (7) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 5. §-a iktatta be.
+[^17]: A 6. § (8) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 5. §-a iktatta be.
+[^18]: A 6. § (9) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 5. §-a iktatta be.

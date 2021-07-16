@@ -1,27 +1,32 @@
-## Erdőterület
+## A védelmi célú erdőterület, a rekreációs erdőterület és az egyéb erdőterület[^123]
 
-28. § (1) Az erdőterület erdő céljára szolgáló terület.
+28. §[^124] (1) Az erdőterület az erdőgazdálkodás hosszú távú célját, a település ökológiai rendszerének megőrzését, javítását és védelmét, valamint a pihenést és a szabadidős tevékenységet egymással összehangoltan szolgáló területek összessége.
 
-(2)[^84] Az erdő területfelhasználási célja szerint:
+(2) Az erdőterület általános használata szerint lehet
 
-a) védelmi,
+a) védelmi célú erdőterület,
 
-b) gazdasági,
+b) rekreációs erdőterület vagy
 
-c) közjóléti
+c) egyéb erdőterület.
 
-lehet.
+(3) Védelmi célú erdőterület jellemzően az erdőről szóló törvény szerinti védelmi rendeltetésű erdő, a környezet védelmének általános szabályairól szóló törvény szerinti, a környezeti elemek védelmét, a környezeti terhelés megelőzését vagy csökkentését szolgáló védőerdő, a természet védelméről szóló törvény szerinti védett erdő, továbbá a területrendezési és településrendezési követelmények teljesítését szolgáló védőerdő.
 
-(3)[^85] A védelmi erdőben – az erdei kilátó, a magasles, továbbá a honvédelmi rendeltetésű erdőben a honvédelmi és katonai épületek kivételével – épületet elhelyezni nem lehet.
+(4) A védelmi célú erdőterületen csak erdő- és vadgazdálkodási, természetvédelmi, honvédelmi vagy katonai rendeltetésű épületet lehet elhelyezni olyan módon, hogy
 
-(4)[^86] Az erdőterület telkén
+a) a megengedett legnagyobb beépítettség legfeljebb 0,2% lehet, vagy
 
-a) gazdasági rendeltetésű erdőterületen legfeljebb 0,5%-os beépítettséggel,
+b) a helyi építési szabályzat kizárhatja az épület elhelyezését.
 
-b) közjóléti rendeltetésű erdőterületen legfeljebb 5%-os beépítettséggel
+(5) Rekreációs erdőterületbe jellemzően a közjóléti célt szolgáló, pihenést és szabadidős tevékenységet biztosító erdőterületet kell sorolni.
 
-az erdő rendeltetésének megfelelő építmények helyezhetők el.
+(6) Rekreációs erdőterületen erdő- és vadgazdálkodási, rekreációs, vendéglátást, pihenést, testedzést szolgáló sport-, továbbá kulturális, hitéleti rendeltetésű épületet lehet elhelyezni, oly módon, hogy a megengedett legnagyobb beépítettség legfeljebb 5% lehet.
 
-[^84]: A 28. § (2) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^85]: A 28. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^86]: A 28. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
+(7) Egyéb erdőterületbe jellemzően az erdőről szóló törvény szerinti honvédelmi rendeltetésű erdőket, a védelmi rendeltetésű erdőnek nem minősülő erdőket, a vízgazdálkodási célú erdőket és az egyéb feladatok megvalósítását szolgáló erdőket kell sorolni.
+
+(8) Az egyéb erdőterületen a megengedett legnagyobb beépítettség legfeljebb 0,5%.
+
+(9) A helyi építési szabályzatban az önkormányzat által tervezett erdőket a tervezett általános használatuknak megfelelően kell a (2) bekezdés szerinti erdőterületek valamelyikébe besorolni.
+
+[^123]: A 28. §-t megelőző alcím cím a 420/2021. (VII. 15.) Korm. rendelet 38. § 33. pontja szerint módosított szöveg.
+[^124]: A 28. § a 420/2021. (VII. 15.) Korm. rendelet 23. §-ával megállapított szöveg.

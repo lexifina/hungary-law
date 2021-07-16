@@ -1,7 +1,25 @@
-## Üdülőházas terület
+## Üdülőházas üdülőterület[^88]
 
-22. §[^70] (1) Az üdülőházas területen olyan – általában – kettőnél több üdülőegységet magába foglaló üdülő rendeltetésű épület, üdülőtábor és kemping helyezhető el, amely túlnyomóan változó üdülői kör több napos tartózkodására szolgál, és elhelyezése, mérete, kialakítása, felszereltsége és infrastrukturális ellátottsága alapján az üdülési célú tartózkodásra alkalmas.
+22. §[^89] (1)[^90] Az üdülőházas üdülőterületen olyan – általában – kettőnél több üdülőegységet magába foglaló üdülő rendeltetésű épület, üdülőtábor és kemping helyezhető el, amely túlnyomóan változó üdülői kör több napos tartózkodására szolgál, és elhelyezése, mérete, kialakítása, felszereltsége és infrastrukturális ellátottsága alapján az üdülési célú tartózkodásra alkalmas.
 
-(2) Az üdülőházas területen állattartó épület – a lovas turizmust szolgáló lóistálló kivételével – és különálló árnyékszék, komposztáló, siló és ömlesztettanyag-, folyadék- és gáztároló melléképítmény – a terepszint alatti, fedett kialakítású kivételével – nem helyezhető el.
+(2)[^91] Az üdülőházas üdülőterületen elhelyezhető épület az (1) bekezdésben foglaltakon kívül
 
-[^70]: A 22. § a 90/2012. (IV. 26.) Korm. rendelet 15. §-ával megállapított szöveg.
+a) az üdülőházas üdülőterület kiszolgálását biztosító iroda,
+
+b) kereskedelmi, szolgáltató, szállásjellegű,
+
+c) kulturális, közösségi szórakoztató,
+
+d) hitéleti és
+
+e) sport
+
+rendeltetést is tartalmazhat.
+
+(3)[^92] Az üdülőházas üdülőterületen belül önálló lakóépület nem helyezhető el. Egy telken az üdülőépületen belül kizárólag egy szolgálati lakás alakítható ki, a helyi építési szabályzatban meghatározott módon.
+
+[^88]: A 22. §-t megelőző alcím címe a 420/2021. (VII. 15.) Korm. rendelet 38. § 19. pontja szerint módosított szöveg.
+[^89]: A 22. § a 90/2012. (IV. 26.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^90]: A 22. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 38. § 20. pontja szerint módosított szöveg.
+[^91]: A 22. § (2) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^92]: A 22. § (3) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 17. §-a iktatta be.

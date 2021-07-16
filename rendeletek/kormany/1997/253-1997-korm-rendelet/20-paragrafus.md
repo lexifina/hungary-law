@@ -1,19 +1,17 @@
-## Ipari terület
+## Egyéb ipari gazdasági terület[^84]
 
-20. § (1) Az ipari terület, olyan gazdasági célú ipari építmények elhelyezésére szolgál, amelyek más beépítésre szánt területen nem helyezhetők el.
+20. § (1) Az egyéb ipari gazdasági terület elsősorban olyan gazdasági célú ipari, energiaszolgáltatási, településgazdálkodási építmények és raktárak elhelyezésére szolgál, amelyek más beépítésre szánt területen nem helyezhetők el, és nem tartoznak a 19/A. § (1) bekezdése szerinti tevékenységi körbe.
 
-(2) Az ipari terület lehet:
+(2) Az egyéb ipari gazdasági területen elhelyezhető épület az (1) bekezdésben foglaltakon kívül
 
-1.[^64] környezetre jelentős hatást gyakorló terület,
+a) iroda,
 
-2. egyéb terület.
+b) a gazdasági területhez kapcsolódó munkásszállás,
 
-(3)[^65] A környezetre jelentős hatást gyakorló ipari terület a különlegesen veszélyes (pl. tűz-, robbanás-, fertőzőveszélyes), bűzös vagy nagy zajjal járó gazdasági tevékenységhez szükséges építmények elhelyezésére szolgál.
+c) kereskedelmi, szolgáltató
 
-(4) Az egyéb ipari terület elsősorban az ipari, az energiaszolgáltatási és a településgazdálkodás építményei elhelyezésére szolgál.
+rendeltetést is tartalmazhat.
 
-(5)[^66] A környezetre jelentős hatást gyakorló iparterületen lakás nem helyezhető el. Az egyéb ipari gazdasági területen a gazdasági tevékenységi célú épületen belül a tulajdonos, a használó és a személyzet számára szolgáló lakások helyezhetők el, önálló lakó rendeltetésű épület nem helyezhető el.
+(3) Az egyéb ipari gazdasági területen önálló lakóépület nem helyezhető el. Egy telken csak a gazdasági tevékenységi célú épületen belül, és kizárólag egy szolgálati lakás alakítható ki, a helyi építési szabályzatban meghatározott módon.
 
-[^64]: A 20. § (2) bekezdés 1. pontja a 314/2012. (XI. 8.) Korm. rendelet 55. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^65]: A 20. § (3) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 55. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
-[^66]: A 20. § (5) bekezdése a 314/2012. (XI. 8.) Korm. rendelet 50. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 45–46. §-át.
+[^84]: Az „Egyéb ipari gazdasági terület” alcím (20. §) a 420/2021. (VII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
