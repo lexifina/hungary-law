@@ -1,4 +1,4 @@
-12. §[^45] (1) A védetté nyilvánítás előkészítése során a nyilvántartást vezető hatóság a miniszter 11. § (5) bekezdés a) pontja szerinti döntése alapján védetté nyilvánítási értékmeghatározó szakértői dokumentációt készíttet, amelynek tartalmát a 14. § (1) bekezdése határozza meg.
+12. §[^46] (1) A védetté nyilvánítás előkészítése során a nyilvántartást vezető hatóság a miniszter 11. § (5) bekezdés a) pontja szerinti döntése alapján védetté nyilvánítási értékmeghatározó szakértői dokumentációt készíttet, amelynek tartalmát a 14. § (1) bekezdése határozza meg.
 
 (2) A védetté nyilvánítás előkészítése során a nyilvántartást vezető hatóság az előkészítés tényéről írásban értesíti a védetté nyilvánításra javasolt ingatlannal rendelkezni jogosultat. A több mint ötven rendelkezni jogosult értesítése során az Ákr. hirdetményi közlésre vonatkozó szabályai alkalmazhatóak.
 
@@ -20,4 +20,4 @@ c) a védelemre tervezett történeti kert, történeti táj, műemléki jelent�
 
 (7) A kezdeményezés iratába, valamint az értékmeghatározó szakértői dokumentációba betekinthet mindenki, akinek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joga áll fenn, az ingatlan műemléki védettségéhez jogos érdeke fűződik, illetve a kezdeményező.
 
-[^45]: A 12. § a 677/2020. (XII. 28.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^46]: A 12. § a 677/2020. (XII. 28.) Korm. rendelet 60. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-3. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^229]
+3. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^238]
 
 ## Az örökségvédelmi engedély iránti kérelem, az örökségvédelmi bejelentés, a műemlékké vagy műemléki területté nyilvánítási vagy törlési eljárás dokumentumainak felépítése, kötelező adattartalma
 
@@ -438,4 +438,4 @@ A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén 
 
 7.2.3. a további fenntartást biztosító kezelésre és megőrzésre vonatkozó javaslatok.
 
-[^229]: A 2. melléklet a 677/2020. (XII. 28.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^238]: A 2. melléklet a 677/2020. (XII. 28.) Korm. rendelet 82. §-ával megállapított szöveg.

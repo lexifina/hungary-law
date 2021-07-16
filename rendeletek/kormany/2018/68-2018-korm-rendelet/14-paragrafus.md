@@ -1,4 +1,4 @@
-14. § (1)[^46] Az értékmeghatározó szakértői dokumentáció tartalmazza
+14. § (1)[^47] Az értékmeghatározó szakértői dokumentáció tartalmazza
 
 a) a műemléki érték földrajzi azonosító adatait, állapotának adatait és azonosítóit a 3. melléklet 1.1., 1.2., 1.3., 2.6.3. alpontjai szerinti tartalommal;
 
@@ -46,26 +46,27 @@ ig) védettség elrendelésénél a műemlék bírság kategóriába történő 
 
 ih) védettség elrendelésénél a műemlék megőrzésére, karbantartásának, fenntartásának módjára, fejlesztésére és hasznosítására tett javaslatot,
 
-ii) védettség elrendelésénél a védetté nyilvánítandó műemléki érték megőrzésének biztosítása érdekében a településrendezési eszközöknek szükséges változtatására vonatkozó javaslatot.
+ii)[^48] védettség elrendelésénél a védetté nyilvánítandó műemléki érték megőrzésének biztosítása érdekében a településrendezési terveknek szükséges változtatására vonatkozó javaslatot.
 
 (2) A védetté nyilvánítási dokumentációt a védetté nyilvánítást befolyásoló egyéb információk és az e rendeletben meghatározott és határidőben beérkezett vélemények figyelembevételével kell véglegesíteni.
 
-(3)[^47] A műemléki védettség megszüntetését megalapozó szakértői állásfoglalás tartalmazza
+(3)[^49] A műemléki védettség megszüntetését megalapozó szakértői állásfoglalás tartalmazza
 
 a) a műemlék hatósági nyilvántartási és földrajzi azonosító adatait, kiterjedésének pontos meghatározását, a térképmellékleteket, a tulajdoni lap másolatot, az archív és aktuális fotódokumentációt;
 
-b)[^48] a műemlék megnevezését, fajtáját, típusát, stílusát, jellemző datálását, építészeti leírását, aktuális állapotának bemutatását;
+b)[^50] a műemlék megnevezését, fajtáját, típusát, stílusát, jellemző datálását, építészeti leírását, aktuális állapotának bemutatását;
 
 c) a műemlék örökségvédelmi szempontú értékelését;
 
 d) a műemléki védettség megszüntetésének kezdeményezője nevét, a kezdeményezés dátumát, előzményeit és indokait;
 
-e)[^49] a műemléki védettség megszüntetésére vonatkozó szakértői véleményt indokolással, továbbá ezen szakértői vélemény tartalmától függően a Kötv. 35. § (3) bekezdése szerinti javaslatot.
+e)[^51] a műemléki védettség megszüntetésére vonatkozó szakértői véleményt indokolással, továbbá ezen szakértői vélemény tartalmától függően a Kötv. 35. § (3) bekezdése szerinti javaslatot.
 
-(4)[^50]
+(4)[^52]
 
-[^46]: A 14. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 61. §-ával megállapított szöveg.
-[^47]: A 14. § (3) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 21. pontja szerint módosított szöveg.
-[^48]: A 14. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 22. pontja szerint módosított szöveg.
-[^49]: A 14. § (3) bekezdés e) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 23. pontja szerint módosított szöveg.
-[^50]: A 14. § (4) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 3. pontja hatályon kívül helyezte.
+[^47]: A 14. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^48]: A 14. § (1) bekezdés i) pont ii) alpontja a 420/2021. (VII. 15.) Korm. rendelet 98. § b) pontja szerint módosított szöveg.
+[^49]: A 14. § (3) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 21. pontja szerint módosított szöveg.
+[^50]: A 14. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 22. pontja szerint módosított szöveg.
+[^51]: A 14. § (3) bekezdés e) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 23. pontja szerint módosított szöveg.
+[^52]: A 14. § (4) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 3. pontja hatályon kívül helyezte.

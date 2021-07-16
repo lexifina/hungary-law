@@ -62,27 +62,27 @@ i) a védetté nyilvánított régészeti lelőhelyet vagy az in situ (helyben �
 
 a) az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszának megindításához vagy a keretengedélyezés szakaszában,
 
-b) a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök egyeztetési eljárásában,
+b)[^26] a településfejlesztési terv és a településrendezési terv egyeztetési eljárásában,
 
-c)[^26] a hatósági eljárást megelőző egyeztetési és a hatósági engedélyezési szakaszban
+c)[^27] a hatósági eljárást megelőző egyeztetési és a hatósági engedélyezési szakaszban
 
 kérheti, ha jelentős tény vagy egyéb körülmény megállapításához, különleges követelmények előzetes tisztázásához szakértelem és komplex értékelés szükséges.
 
-(9)[^27] Ha a hatóság az Országos Építészeti Tervtanács szakvéleményét az eljárásnak az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerben (a továbbiakban: ÉTDR) történt megindítása után, a jelentős tény vagy körülmény fennálltának megjelölésével kéri, akkor az Országos Építészeti Tervtanács a hatóság megkeresésének kézhezvételétől számított tizenöt napon belül szakvéleményt ad, vagy dönthet a szakvélemény megadásának mellőzéséről.
+(9)[^28] Ha a hatóság az Országos Építészeti Tervtanács szakvéleményét az eljárásnak az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerben (a továbbiakban: ÉTDR) történt megindítása után, a jelentős tény vagy körülmény fennálltának megjelölésével kéri, akkor az Országos Építészeti Tervtanács a hatóság megkeresésének kézhezvételétől számított tizenöt napon belül szakvéleményt ad, vagy dönthet a szakvélemény megadásának mellőzéséről.
 
 (10) A (7)–(9) bekezdés szerinti szakvélemény megadásának feltétele valamennyi, e rendeletben meghatározott, az engedélyezési eljárásban kötelezően benyújtandó melléklet teljes körű csatolása.
 
-(11)[^28] Az Országos Építészeti Tervtanács vizsgálja, hogy a tervezett tevékenység
+(11)[^29] Az Országos Építészeti Tervtanács vizsgálja, hogy a tervezett tevékenység
 
 a) szakszerű-e,
 
-b)[^29] a benyújtott tervek alapján a műemlék védelmét veszélyezteti-e, valamint
+b)[^30] a benyújtott tervek alapján a műemlék védelmét veszélyezteti-e, valamint
 
 c) a műemlék és műemléki jelentőségű terület esetében az érték érvényesülését szolgálja-e.
 
-(12)[^30] Az Országos Építészeti Tervtanács vizsgálhatja az építészeti minőséget.
+(12)[^31] Az Országos Építészeti Tervtanács vizsgálhatja az építészeti minőséget.
 
-(12a)[^31] Kiemelten védett műemléket érintő restaurátori beavatkozások esetén az Országos Építészeti Tervtanács véleménye kialakításához a Lechner Tudásközpont által javasolt, a tervezett beavatkozásnak megfelelő területen jogosultsággal rendelkező restaurátor szakértőt von be.
+(12a)[^32] Kiemelten védett műemléket érintő restaurátori beavatkozások esetén az Országos Építészeti Tervtanács véleménye kialakításához a Lechner Tudásközpont által javasolt, a tervezett beavatkozásnak megfelelő területen jogosultsággal rendelkező restaurátor szakértőt von be.
 
 (13) A Kulturális Javak Bizottsága a kulturális javakkal kapcsolatos hatósági és egyéb szakmai döntések előkészítésében segíti a kulturális javak hatóságának munkáját és a miniszter egyéb szakmai feladatait. A Kulturális Javak Bizottsága nyolctagú testület, amelynek egy-egy tagját
 
@@ -110,9 +110,10 @@ g) a Magyar Műkereskedők és Galériák Országos Szövetsége
 [^23]: A 4. § (6) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 56. §-ával megállapított szöveg..
 [^24]: A 4. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja és a 84. § 1. pontja szerint módosított szöveg.
 [^25]: A 4. § (8) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 10. pontja szerint módosított szöveg.
-[^26]: A 4. § (8) bekezdés c) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 11. pontja szerint módosított szöveg.
-[^27]: A 4. § (9) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 12., 13. és 14. pontja szerint módosított szöveg.
-[^28]: A 4. § (11) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja szerint módosított szöveg.
-[^29]: A 4. § (11) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
-[^30]: A 4. § (12) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja szerint módosított szöveg.
-[^31]: A 4. § (12a) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 56. § (2) bekezdése iktatta be.
+[^26]: A 4. § (8) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
+[^27]: A 4. § (8) bekezdés c) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 11. pontja szerint módosított szöveg.
+[^28]: A 4. § (9) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 12., 13. és 14. pontja szerint módosított szöveg.
+[^29]: A 4. § (11) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja szerint módosított szöveg.
+[^30]: A 4. § (11) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^31]: A 4. § (12) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 9. pontja szerint módosított szöveg.
+[^32]: A 4. § (12a) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 56. § (2) bekezdése iktatta be.

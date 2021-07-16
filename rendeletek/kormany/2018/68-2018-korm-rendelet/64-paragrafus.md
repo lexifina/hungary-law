@@ -1,6 +1,6 @@
 ## jár, a hatóságtól örökségvédelmi engedélyt kell kérni.
 
-## 25.[^106] Örökségvédelmi bejelentéshez kötött tevékenységek
+## 25.[^108] Örökségvédelmi bejelentéshez kötött tevékenységek
 
 64. § (1) Ha a tevékenység a 63. § alapján nem örökségvédelmi engedély köteles, a (2) és (3) bekezdésben foglalt esetekben örökségvédelmi bejelentés alapján végezhető.
 
@@ -54,7 +54,7 @@ bd) meglévő építmény közterület felé eső homlokzatának 10%-nál nagyob
 
 c) műemlék történeti táj esetében a védett műemléki érték megjelenését érintő és érvényesülését befolyásoló, legalább 6 m2 felületű reklám külterületi elhelyezése.
 
-(4)[^107] Ha a (2) bekezdés a), b), e) és f) pontjában meghatározott tevékenység elvégzéséhez az értékleltár a nyilvántartásban nem áll rendelkezésre, a 92. § (2) bekezdés c) pontjában meghatározott előzetes tájékoztatást kötelező megkérni.
+(4)[^109] Ha a (2) bekezdés a), b), e) és f) pontjában meghatározott tevékenység elvégzéséhez az értékleltár a nyilvántartásban nem áll rendelkezésre, a 92. § (2) bekezdés c) pontjában meghatározott előzetes tájékoztatást kötelező megkérni.
 
-[^106]: A 25. alcím (64. §) a 677/2020. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.
-[^107]: A 64. § (4) bekezdése az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^108]: A 25. alcím (64. §) a 677/2020. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.
+[^109]: A 64. § (4) bekezdése az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés d) pontja szerint módosított szöveg.

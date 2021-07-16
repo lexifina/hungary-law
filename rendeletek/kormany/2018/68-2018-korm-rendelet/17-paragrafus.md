@@ -1,4 +1,4 @@
-17. §[^55] (1) A miniszter az értékmeghatározó szakértői dokumentáció ismeretében dönt és
+17. §[^57] (1) A miniszter az értékmeghatározó szakértői dokumentáció ismeretében dönt és
 
 a) a védetté nyilvánítás, illetve a védettség megszüntetése tárgyában rendeletet alkot, vagy
 
@@ -8,4 +8,4 @@ b) megtagadja a védetté nyilvánítást, illetve a védettség megszüntetés�
 
 (3) Ha a műemléki védettség megszüntetésének kezdeményezése a szakértői vizsgálat alapján nem megalapozott, vagy a Kötv. 35. § (1) bekezdésben meghatározott feltételek nem állnak fenn, vagy nyilvánvalóan fennálló műemléki értékre vonatkozik, a műemléki védettség megszüntetését megalapozó szakértői állásfoglalás alapján a kezdeményezést a miniszter elutasítja, amely döntésről a kezdeményezőt és az ingatlannal rendelkezni jogosultat a nyilvántartást vezető hatóság tájékoztatja.
 
-[^55]: A 17. § a 677/2020. (XII. 28.) Korm. rendelet 64. §-ával megállapított szöveg.
+[^57]: A 17. § a 677/2020. (XII. 28.) Korm. rendelet 64. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-9. §[^34] (1) A műemléki nyilvántartás tartalmazza
+9. §[^35] (1) A műemléki nyilvántartás tartalmazza
 
 a) a műemlék azonosítására és védettségére vonatkozó alábbi adatokat:
 
@@ -50,4 +50,4 @@ f) a műemlék, a műemlékvédelem sajátos tárgyának veszélyeztetettségér
 
 (3) A szakanyagot ki kell egészíteni, ha a műemléki nyilvántartásban nem szereplő, de a Kötv. 7. § 17. pontja értelmében a műemlékhez tartozó műemléki érték, alkotórész, tartozék vagy berendezés kerül elő.
 
-[^34]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^35]: A 9. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 ## 5. A régészeti lelőhely nyilvántartása
 
-5. § (1)[^32] Régészeti lelőhely központi, közhiteles nyilvántartásba vételét feltárásra jogosult intézmény vagy a hatóság, továbbá örökségvédelmi hatástanulmány készítése esetén örökségvédelmi szakértő kezdeményezheti a 2. mellékletben meghatározott adattartalmú lelőhely-bejelentő adatlap benyújtásával a nyilvántartást vezető hatóságnál.
+5. § (1)[^33] Régészeti lelőhely központi, közhiteles nyilvántartásba vételét feltárásra jogosult intézmény vagy a hatóság, továbbá örökségvédelmi hatástanulmány készítése esetén örökségvédelmi szakértő kezdeményezheti a 2. mellékletben meghatározott adattartalmú lelőhely-bejelentő adatlap benyújtásával a nyilvántartást vezető hatóságnál.
 
 (2) A kezdeményezőnek a lelőhely-bejelentő adatlaphoz csatolnia kell
 
@@ -20,4 +20,4 @@ a) helyszíni szemlét tarthat,
 
 b) adategyeztetést végez a régészeti lelőhely elhelyezkedése szerint illetékes hatósággal és a régészeti lelőhely területét érintő gyűjtőterülettel rendelkező múzeummal.
 
-[^32]: Az 5. § (1) bekezdése a 62/2019. (III. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: Az 5. § (1) bekezdése a 62/2019. (III. 26.) Korm. rendelet 2. §-ával megállapított szöveg.

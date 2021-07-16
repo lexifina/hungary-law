@@ -38,9 +38,9 @@
 
 1.15. örökségvédelmi bírság kiszabása a Kötv. 82. §-a alapján,
 
-1.16.[^204] hatósági döntés a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről szóló 22/2019. (II. 25.) Korm. rendelet alapján,
+1.16.[^212] hatósági döntés a közgyűjteményekben őrzött vitatott tulajdonú kulturális javak visszaadásának rendjéről szóló 449/2013. (XI. 28.) Korm. rendelet hatályon kívül helyezéséről és az azzal összefüggő átmeneti rendelkezésekről szóló 22/2019. (II. 25.) Korm. rendelet alapján,
 
-1.17.[^205] az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 8. § (4) bekezdésében és 25. § (5) bekezdésében foglalt feladatok,
+1.17.[^213] az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 8. § (4) bekezdésében és 25. § (5) bekezdésében foglalt feladatok,
 
 2. a lopott vagy jogellenesen külföldre vitt kulturális javak nemzetközi visszaadásáról szóló, Rómában, 1995. év június hó 24. napján aláírt UNIDROIT Egyezmény kihirdetéséről szóló 2001. évi XXVIII. törvény 3. §-a szerinti megbízott illetékes hatósági feladatokat,
 
@@ -62,8 +62,8 @@
 
 11. a hatósági letétről, valamint a közigazgatási hatósági eljárás során zár alá vett vagy lefoglalt dolgok tárolásáról és értékesítéséről szóló 18/2017. (XII. 15.) IM rendeletben foglalt feladatokat,
 
-12.[^206] a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendeletben az illetékes hatóság feladatait.
+12.[^214] a kulturális javak bejuttatásáról és behozataláról szóló, 2019. április 17-i (EU) 2019/880 európai parlamenti és tanácsi rendeletben az illetékes hatóság feladatait.
 
-[^204]: A 93. § 1.16. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
-[^205]: A 93. § 1.17. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
-[^206]: A 93. § 12. pontját a 367/2020. (VII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^212]: A 93. § 1.16. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
+[^213]: A 93. § 1.17. pontját a 677/2020. (XII. 28.) Korm. rendelet 78. §-a iktatta be.
+[^214]: A 93. § 12. pontját a 367/2020. (VII. 28.) Korm. rendelet 4. §-a iktatta be.

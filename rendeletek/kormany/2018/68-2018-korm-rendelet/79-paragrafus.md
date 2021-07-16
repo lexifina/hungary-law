@@ -1,4 +1,4 @@
-## 34.[^165] Az örökségvédelmi intézkedés szabályai műemléki érték esetén
+## 34.[^167] Az örökségvédelmi intézkedés szabályai műemléki érték esetén
 
 79. § (1) Ha a hatóság a tevékenység végzésének folytatását a 78. § (1) bekezdése alapján megtiltotta, az ellenőrzés napjától számított nyolc napon belül elrendeli a szabálytalan állapot megszüntetését. A szabálytalan állapot megszüntetésére a hatóság a döntés kézbesítésétől számított legfeljebb hat hónapos határidőt adhat, mely határidő a kötelezett kérelmére indokolt esetben egyszer három hónappal meghosszabbítható.
 
@@ -8,7 +8,7 @@
 
 (4) Az e rendeletben meghatározott követelmények súlyos megsértése szabálytalan állapotnak minősül
 
-a)[^166] a műemléki érték megőrzésére vonatkozóan, ha annak
+a)[^168] a műemléki érték megőrzésére vonatkozóan, ha annak
 
 aa) épsége vagy jelentősége a tevékenység megvalósítása során veszélyeztetetté válik,
 
@@ -32,5 +32,5 @@ a) a szakértő vagy szakértő szervezet által készített terv vagy dokument�
 
 b) a szakértőre vonatkozó összeférhetetlenséget vagy jogosulatlan tevékenységet észlel.
 
-[^165]: A 34. alcím címe a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
-[^166]: A 79. § (4) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
+[^167]: A 34. alcím címe a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
+[^168]: A 79. § (4) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.

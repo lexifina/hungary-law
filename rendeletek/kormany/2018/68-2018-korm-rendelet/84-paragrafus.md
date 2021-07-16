@@ -1,4 +1,4 @@
-84. § (1) A települési örökségvédelmi hatástanulmány elkészítéséről a településfejlesztési koncepció vagy a településrendezési eszköz és a településképi rendelet készíttetője köteles gondoskodni.
+84. § (1)[^185] A települési örökségvédelmi hatástanulmány elkészítéséről a településfejlesztési terv vagy a településrendezési terv és a településképi rendelet készíttetője köteles gondoskodni.
 
 (2) Az örökségvédelmi hatástanulmány elkészítésére jogosult
 
@@ -10,9 +10,10 @@ c) az örökségvédelmi hatástanulmány műemléki szakterületi munkarésze v
 
 (3) A településképi rendelet alátámasztásául szolgáló települési értékleltárt az önkormányzati főépítész is elkészítheti.
 
-(4)[^180] A településrendezési eszköz kidolgozása során további beépítés céljára szolgáló beépítésre szánt területnek kijelölt területen az örökségvédelmi hatástanulmány régészeti munkarészét régészeti terepbejárás alkalmazásával kell elkészíteni, amennyiben a terület alkalmas terepbejárással történő kutatásra.
+(4)[^186] A településrendezési terv kidolgozása során további beépítés céljára szolgáló beépítésre szánt területnek kijelölt területen az örökségvédelmi hatástanulmány régészeti munkarészét régészeti terepbejárás alkalmazásával kell elkészíteni, amennyiben a terület alkalmas terepbejárással történő kutatásra.
 
-(5)[^181] Az örökségvédelmi hatástanulmány elkészítése céljából végzett régészeti terepbejárásról, illetve műszeres lelőhely- és leletfelderítésről a 26. § és 27. §-ban meghatározott tartalmú jelentést és feltárási dokumentációt kell készíteni, amit el kell küldeni a 26. § (4) bekezdésében és a 27. § (4) bekezdésében meghatározott hatóságoknak és intézményeknek.
+(5)[^187] Az örökségvédelmi hatástanulmány elkészítése céljából végzett régészeti terepbejárásról, illetve műszeres lelőhely- és leletfelderítésről a 26. § és 27. §-ban meghatározott tartalmú jelentést és feltárási dokumentációt kell készíteni, amit el kell küldeni a 26. § (4) bekezdésében és a 27. § (4) bekezdésében meghatározott hatóságoknak és intézményeknek.
 
-[^180]: A 84. § (4) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
-[^181]: A 84. § (5) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
+[^185]: A 84. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 98. § c) pontja szerint módosított szöveg.
+[^186]: A 84. § (4) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 98. § e) pontja szerint módosított szöveg.
+[^187]: A 84. § (5) bekezdését a 62/2019. (III. 26.) Korm. rendelet 3. §-a iktatta be.
