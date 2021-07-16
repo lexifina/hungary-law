@@ -1,0 +1,1 @@
+## „(7) A védőterületet vagy a védelmet biztosító elemet a hatást előidéző, valamint a védelmet igénylő – ha jogszabály másként nem rendelkezik – a saját területén (telkén, építési területén) belül köteles kialakítani és fenntartani, a honvédelmi és katonai célú területek kivételével.”

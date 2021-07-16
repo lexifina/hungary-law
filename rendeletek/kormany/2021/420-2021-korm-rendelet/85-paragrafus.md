@@ -1,0 +1,3 @@
+## 84. § A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet 2. § (2) bekezdés 14. pontjában, 6. § (5) bekezdésében, 8. § (2) bekezdés 20. pontjában és 9. § (4) bekezdés 70. pontjában a „településfejlesztési koncepció, az integrált településfejlesztési stratégia” szövegrész helyébe a „településfejlesztési terv” szöveg, az „eszközök” szövegrész helyébe a „terv” szöveg lép.
+
+## 43. A Budapest IX. kerületében megvalósuló, Magyar Telekom Nyrt. székház megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 470/2016. (XII. 23.) Korm. rendelet módosítása

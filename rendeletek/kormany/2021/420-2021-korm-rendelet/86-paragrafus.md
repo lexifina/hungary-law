@@ -1,0 +1,3 @@
+## 85. § A Budapest IX. kerületében megvalósuló, Magyar Telekom Nyrt. székház megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 470/2016. (XII. 23.) Korm. rendelet 5. § (1) bekezdés nyitó szövegrészében az „eszközöket” szövegrész helyébe a „tervet” szöveg lép.
+
+## 44. A Belváros-Lipótvárosi Sportközpont kialakítására, valamint a Budapest V. kerület, József nádor tér felszínrendezésére irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 68/2017. (III. 23.) Korm. rendelet módosítása

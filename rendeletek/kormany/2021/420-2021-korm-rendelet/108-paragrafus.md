@@ -1,0 +1,3 @@
+## 107. § A Magyar Vakok és Gyengénlátók Országos Szövetsége székházának felújítására és egy szolgáltató ház felépítésére irányuló beruházással kapcsolatos közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 149/2020. (IV. 23.) Korm. rendelet 6. § (1) bekezdés b) pontjában az „eszköz” szövegrész helyébe a „terv” szöveg, az „eszközt” szövegrész helyébe a „tervet” szöveg lép.
+
+## 66. A Magyar Műszaki és Közlekedési Múzeum új helyszínének megvalósítását célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 183/2020. (V. 6.) Korm. rendelet módosítása
