@@ -10,7 +10,7 @@
 
 ## A szakértői bizottság által tartott ülések jegyzőkönyve.
 
-4. melléklet a 16/2010. (XII. 28.) NGM rendelethez[^17]
+4. melléklet a 16/2010. (XII. 28.) NGM rendelethez[^18]
 
 ## ALKALMAZÁSBA VÉTELI HATÁROZAT
 
@@ -28,4 +28,4 @@ I. Az alkalmazásba vételi javaslat adatai
 
 II. Az alkalmazásba vétellel kapcsolatos döntés
 
-[^17]: A 4. melléklet a 47/2015. (XII. 30.) NGM rendelet 12. § c) pontja szerint módosított szöveg.
+[^18]: A 4. melléklet a 47/2015. (XII. 30.) NGM rendelet 12. § c) pontja szerint módosított szöveg.

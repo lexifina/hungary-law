@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-2
 | --- | --- | --- |
 | 2011-01-01 | 2010-16-20-2X.1 | 16/2010. (XII. 28.) NGM rendelet |
 | 2016-01-01 | 2010-16-20-2X.2 | 47/2015. (XII. 30.) NGM rendelet |
+| 2021-07-16 | 2010-16-20-2X.3 | 18/2020. (XII. 30.) PM rendelet |
