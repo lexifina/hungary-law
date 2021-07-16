@@ -32,6 +32,6 @@
 
 | 15. | azok a 2–14. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, működésének megkezdéséhez és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint kijelölt hatóság |
 
-2. melléklet a 395/2014. (XII. 31.) Korm. rendelethez[^17]
+2. melléklet a 395/2014. (XII. 31.) Korm. rendelethez[^20]
 
-[^17]: A 2. mellékletet a 361/2019. (XII. 30.) Korm. rendelet 71. § (2) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.
+[^20]: A 2. mellékletet a 361/2019. (XII. 30.) Korm. rendelet 71. § (2) bekezdés c) pontja hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.
