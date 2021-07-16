@@ -14,7 +14,7 @@ f) a forgalmazás módját,
 
 g) a jogsértéssel érintett termékről szóló tájékoztatók, leírások tartalmát,
 
-h)[^3] a megfelelőségigazolás, teljesítménynyilatkozat, vagy a tűzvédelmi megfelelőségi tanúsítvány tartalmát,
+h)[^4] a megfelelőségigazolás, teljesítménynyilatkozat, vagy a tűzvédelmi megfelelőségi tanúsítvány tartalmát,
 
 i) a jogsértéssel érintett termék árát,
 
@@ -24,7 +24,7 @@ k) a jogsértéssel érintett termék műszaki specifikációknak való megfelel
 
 l) a termék potenciális környezetkárosító hatását.
 
-(2)[^4] A bírságot a bírságot kiszabó határozat jogerőre emelkedésétől számított 15 napon belül a határozatban megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlára kell befizetni.
+(2)[^5] A bírságot a bírságot kiszabó határozat jogerőre emelkedésétől számított 15 napon belül a határozatban megjelölt, a Magyar Államkincstár által e célra létrehozott központosított beszedési számlára kell befizetni.
 
-[^3]: A 3. § (1) bekezdés h) pontja a 275/2013. (VII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^4]: A 3. § (2) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdés h) pontja a 275/2013. (VII. 16.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^5]: A 3. § (2) bekezdése a 137/2017. (VI. 9.) Korm. rendelet 11. §-ával megállapított szöveg.
