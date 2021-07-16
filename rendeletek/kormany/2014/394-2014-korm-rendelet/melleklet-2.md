@@ -28,6 +28,6 @@
 
 | 13. | bányahatósági engedélyek | Veszprém Megyei Kormányhivatal |
 
-2. melléklet a 394/2014. (XII. 31.) Korm. rendelethez[^12]
+2. melléklet a 394/2014. (XII. 31.) Korm. rendelethez[^13]
 
-[^12]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 174. § f) pontja hatályon kívül helyezte.
+[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 174. § f) pontja hatályon kívül helyezte.
