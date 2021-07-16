@@ -50,7 +50,7 @@
 
 | 24. | 24892/2 | ¤ | ¤ | 2 | 100 | ¤ | ¤ | ¤ | ¤ | 0 | 1 |
 
-| ¤ | a településrendezési eszközökben rögzített előírásokat nem kell alkalmazni |
+| ¤ | a településrendezési tervben rögzített előírásokat nem kell alkalmazni |
 
 | * | közhasználat céljára átadásra kerülő megfelelő arányú földszinti, közterülethez kapcsolódó terület esetén 6,0 m² /m², a KNEB-bel és a kerületi önkormányzattal történő külön megállapodás alapján |
 

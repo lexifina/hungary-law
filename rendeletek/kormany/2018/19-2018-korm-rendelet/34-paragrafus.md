@@ -1,6 +1,6 @@
 ## 17. A településképi bejelentési eljárás
 
-34. § (1)[^43] A hatóság településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytat le
+34. § (1)[^48] A hatóság településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytat le
 
 a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez nem kötött és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységnek nem minősülő azon építési tevékenységek tekintetében, amelyek megkezdése a 37. § a) pontjának hatálya alá tartozik, és
 
@@ -28,7 +28,7 @@ d) a tervezett építési tevékenység, reklámok, reklámhordozók vagy rendel
 
 e) az építési tevékenység elvégzésének, a rendeltetésváltozás megvalósításának vagy a reklámok, reklámhordozók elhelyezésének tervezett időtartamát.
 
-(5) A bejelentéshez az egyedi településképi követelményeknek való megfelelést és a részletes településképi követelményekkel való összhangot igazoló építészeti-műszaki tervet, továbbá rendeltetésváltozás esetén a településrendezési eszközök és a beépítési szabályok rendeltetésekre vonatkozó követelményeinek való megfelelést igazoló dokumentációt kell mellékelni.
+(5)[^49] A bejelentéshez az egyedi településképi követelményeknek való megfelelést és a részletes településképi követelményekkel való összhangot igazoló építészeti-műszaki tervet, továbbá rendeltetésváltozás esetén a településrendezési terv és a beépítési szabályok rendeltetésekre vonatkozó követelményeinek való megfelelést igazoló dokumentációt kell mellékelni.
 
 (6) A hatóság – a (8) bekezdés kivételével – a kérelem beérkezését követően a bejelentés egy példányának egyidejű megküldésével haladéktalanul beszerzi a KNEB nyilatkozatát.
 
@@ -36,4 +36,5 @@ e) az építési tevékenység elvégzésének, a rendeltetésváltozás megval�
 
 (8) A hatóság nem kéri be a KNEB (6) bekezdés szerinti nyilatkozatát, amennyiben az előzetes szakmai konzultáción készült jegyzőkönyv nyilatkozatot is tartalmaz, és abban szerepel, hogy a kiadott nyilatkozat felhasználható a településképi bejelentés során.
 
-[^43]: A 34. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^48]: A 34. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^49]: A 34. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 95. § f) pontja szerint módosított szöveg.

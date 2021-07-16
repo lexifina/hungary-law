@@ -10,6 +10,6 @@ b) a 2. mellékletben meghatározott építménymagasság megengedett legnagyobb
 
 c) a homlokzat kialakításra vonatkozó, kézikönyvben meghatározott részletes településképi követelményeket.
 
-(4)[^31] Tető eredeti formájának és geometriájának, tetődíszének, illetve díszes tetőfelépítményének rekonstrukciója során, illetve azzal összefüggésben történő beruházás esetén a településrendezési eszközökben előírt beépítési szabályok figyelmen kívül hagyhatók.
+(4)[^36] Tető eredeti formájának és geometriájának, tetődíszének, illetve díszes tetőfelépítményének rekonstrukciója során, illetve azzal összefüggésben történő beruházás esetén a településrendezési tervben előírt beépítési szabályok figyelmen kívül hagyhatók.
 
-[^31]: A 23. § (4) bekezdését a 145/2018. (VIII. 13.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^36]: A 23. § (4) bekezdését a 145/2018. (VIII. 13.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 95. § e) pontja szerint módosított szöveg.
