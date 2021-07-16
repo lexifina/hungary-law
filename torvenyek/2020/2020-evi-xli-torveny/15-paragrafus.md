@@ -1,0 +1,3 @@
+## 4. A nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény módosítása
+
+15. § A nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény 1. § 1. pontjában az „a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet” szöveg lép.
