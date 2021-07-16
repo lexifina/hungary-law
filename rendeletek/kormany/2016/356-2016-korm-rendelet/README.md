@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-356-20-
 | 2016-11-20 | 2016-356-20-22.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2016-356-20-22.3 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2019-06-21 | 2016-356-20-22.4 | 143/2019. (VI. 20.) Korm. rendelet |
+| 2021-07-16 | 2016-356-20-22.5 | 420/2021. (VII. 15.) Korm. rendelet |

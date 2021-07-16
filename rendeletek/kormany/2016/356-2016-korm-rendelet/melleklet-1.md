@@ -1,4 +1,4 @@
-## 9. §[^4] A nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 143/2019. (VI. 20.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^5] A nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 143/2019. (VI. 20.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^6] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 356/2016. (XI. 18.) Korm. rendelethez
 
@@ -52,5 +52,5 @@ A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé n
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 143/2019. (VI. 20.) Korm. rendelet 2. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2019. június 21.
+[^5]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 143/2019. (VI. 20.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2019. június 21.
