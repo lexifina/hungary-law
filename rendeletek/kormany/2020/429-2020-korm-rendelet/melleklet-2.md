@@ -40,12 +40,6 @@
 
 | 7. | Majorsági épületegyüttes | Szántód belterület 936, 937, 938, 939, 944, 945, 949 és 950 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
 
-3. Tokaj és Nyíregyháza turisztikai térség
+3.
 
-|  | A | B |
-
-| 1. | Kiemelt állami turisztikai beruházás, egyéb kiemelt turisztikai jelentőségű állami ingatlan | Beruházási helyszín azonosító adatai (ingatlan-nyilvántartás szerinti helyrajzi szám) |
-
-| 2. | Kékedi Melczer-kastély | Kéked belterület 204 helyrajzi számú ingatlan a kapcsolódó vagyonelemekkel |
-
-[^3]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^3]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 424/2021. (VII. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.
