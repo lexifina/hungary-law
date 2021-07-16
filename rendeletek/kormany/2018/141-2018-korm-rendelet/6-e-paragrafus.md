@@ -1,8 +1,8 @@
-6/E. §[^33] (1) A 2. mellékletben foglalt táblázat 33. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:33 mezőjében megjelölt telkekre és ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/E. §[^39] (1) A 2. mellékletben foglalt táblázat 33. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:33 mezőjében megjelölt telkekre és ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b) ha a hatályos településrendezési eszköz és az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési eszközt és az OTÉK-ot nem lehet alkalmazni.
+b)[^40] ha a hatályos településrendezési terv és az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:33 mezőjében megjelölt telkekre és ingatlanokra meghatározott sajátos beépítési szabályok:
 
@@ -54,4 +54,5 @@ b) ha a hatályos településrendezési eszköz és az OTÉK a beépítés (2) b
 
 24. a telek természetes terepszintje tartós vagy végleges kialakítással legfeljebb 1,5 méterrel változtatható meg.
 
-[^33]: A 6/E. §-t a 371/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege az 56/2021. (II. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^39]: A 6/E. §-t a 371/2019. (XII. 30.) Korm. rendelet 1. §-a iktatta be, szövege az 56/2021. (II. 9.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^40]: A 6/E. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § c) pontja szerint módosított szöveg.

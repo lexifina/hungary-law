@@ -1,8 +1,8 @@
 6. § (1)[^10] A 2. mellékletben foglalt táblázat 7. és 7a. sora szerinti beruházások esetében a 2. mellékletben foglalt táblázat B:7 és a B:7a mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(3b), (5) és (6) bekezdés állapítja meg, azzal, hogy
 
-a)[^11] a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(3b) bekezdésben foglalt eltérésekkel kell alkalmazni,
+a)[^11] a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(3b) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^12] amennyiben a hatályos településrendezési eszközök a beépítés és az egyedi építési követelmények (2), (3a), (5) és (6) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaznak, akkor a településrendezési eszközt nem lehet alkalmazni, továbbá
+b)[^12] amennyiben a hatályos településrendezési terv a beépítés és az egyedi építési követelmények (2), (3a), (5) és (6) bekezdésben meghatározott sajátos szabályaival ellentétes, vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet nem lehet alkalmazni, továbbá
 
 c) az érintett területre a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény erdők övezetére vonatkozó 29. §-át, valamint 40. §-át nem kell alkalmazni.
 
@@ -75,8 +75,8 @@ l)[^22] a kialakítható telek legkisebb mélysége 5 méter.
 (8)[^28] A (7) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
 
 [^10]: A 6. § (1) bekezdése a 160/2019. (VI. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 47/2021. (II. 5.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^11]: A 6. § (1) bekezdés a) pontja a 47/2021. (II. 5.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
-[^12]: A 6. § (1) bekezdés b) pontja a 47/2021. (II. 5.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdés a) pontja a 47/2021. (II. 5.) Korm. rendelet 10. § b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 99. § a) pontja szerint módosított szöveg.
+[^12]: A 6. § (1) bekezdés b) pontja a 47/2021. (II. 5.) Korm. rendelet 10. § c) pontja, a 420/2021. (VII. 15.) Korm. rendelet 99. § b) pontja szerint módosított szöveg.
 [^13]: A 6. § (2) bekezdés nyitó szövegrésze a 160/2019. (VI. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^14]: A 6. § (2) bekezdés b) pontja a 160/2019. (VI. 28.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^15]: A 6. § (2) bekezdés i) pontja a 160/2019. (VI. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

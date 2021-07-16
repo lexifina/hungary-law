@@ -152,6 +152,8 @@
 
 |  |  | Kiskunlacháza külterület 0441/12 Kiskunlacháza külterület 0441/13 Kiskunlacháza külterület 0441/14 Kiskunlacháza külterület 0441/15 Kiskunlacháza külterület 0441/16 Kiskunlacháza külterület 0441/17 Kiskunlacháza külterület 0441/18 Kiskunlacháza külterület 0441/19 Kiskunlacháza külterület 0441/20 Kiskunlacháza külterület 0461/2 Kiskunlacháza külterület 0461/3 Kiskunlacháza külterület 0461/4 Kiskunlacháza külterület 0461/5 Kiskunlacháza külterület 0461/6 Kiskunlacháza külterület 0461/7 Kiskunlacháza külterület 0461/10 Kiskunlacháza külterület 0461/11 Kiskunlacháza külterület 0462 Kiskunlacháza külterület 0464/1 |  |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^160]
+| 70. | Gyáregység létrehozására irányuló beruházás Pécs területén | Pécs közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0212/141, 0212/142, 0212/143, 0212/146, 0212/147, 0212/151, 0212/152, 0212/153, 0219/8, 01455/88, 01455/89, 01457/1 helyrajzi számú ingatlanokon | Baranya Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^160]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^181]
+
+[^181]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

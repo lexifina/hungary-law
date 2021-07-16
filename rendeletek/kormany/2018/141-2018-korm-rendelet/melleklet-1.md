@@ -1,4 +1,4 @@
-## 63. §[^156] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 400/2021. (VII. 7.) Korm. rendelettel (a továbbiakban: Módr55.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 5. § (2) bekezdését, 6/Q. §-át, és 2. mellékletében foglalt táblázat 69. sorát a Módr55. hatálybalépésekor[^157] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 64. §[^177] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 425/2021. (VII. 15.) Korm. rendelettel (a továbbiakban: Módr56.) megállapított 2. mellékletben foglalt táblázat 70. sorát a Módr56. hatálybalépésekor[^178] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^158] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^179] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^156]: A 63. §-t a 400/2021. (VII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^157]: A hatálybalépés időpontja 2021. július 8.
-[^158]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^177]: A 64. §-t a 425/2021. (VII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^178]: A hatálybalépés időpontja 2021. július 16.
+[^179]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
