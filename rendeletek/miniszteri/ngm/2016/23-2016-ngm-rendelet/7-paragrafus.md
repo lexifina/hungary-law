@@ -10,7 +10,7 @@ b) elkészítette az EU-megfelelőségi nyilatkozatot és a műszaki dokumentác
 
 c) a villamossági terméken feltüntette a CE megfelelőségi jelölést, és mellékelte hozzá a műszaki dokumentációt, valamint
 
-d) teljesíti az 5. § (5) és (6) bekezdésében meghatározott követelményeket.
+d)[^3] teljesíti az 5. § (6) és (7) bekezdésében meghatározott követelményeket.
 
 (3) Az importőr magyar nyelven feltünteti a villamossági terméken, vagy ha ez nem lehetséges, annak csomagolásán vagy kísérő dokumentációján a nevét, kereskedelmi nevét vagy bejegyzett kereskedelmi védjegyét és a székhelyét.
 
@@ -27,3 +27,5 @@ d) teljesíti az 5. § (5) és (6) bekezdésében meghatározott követelmények
 (9) Az importőr a piacfelügyeleti hatóság felhívására magyar nyelven rendelkezésre bocsátja a villamossági termék megfelelőségének igazolásához szükséges összes nyomtatott vagy elektronikus formátumú információt és dokumentációt. Az importőr együttműködik a piacfelügyeleti hatósággal minden olyan intézkedés terén, amelyeket az általa forgalomba hozott villamossági termék által képviselt veszélyek kiküszöbölése érdekében hoz.
 
 (10) Ha az importőr úgy ítéli meg, vagy okkal feltételezi, hogy a villamossági termék nem felel meg a 3. §-ban és a 2. mellékletben meghatározott biztonsági céloknak, a villamossági terméket nem hozza forgalomba, amíg megfelelővé nem tették. Ha a villamossági termék kockázatot jelent, az importőr tájékoztatja erről a gyártót, valamint a piacfelügyeleti hatóságot.
+
+[^3]: A 7. § (2) bekezdés d) pontja a 25/2020. (VII. 3.) ITM rendelet 6. § (2) bekezdésével megállapított szöveg.

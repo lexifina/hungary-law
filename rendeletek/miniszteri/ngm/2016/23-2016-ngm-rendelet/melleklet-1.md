@@ -1,4 +1,4 @@
-## 23. §[^2]
+## 23. §[^8]
 
 1. melléklet a 23/2016. (VII. 7.) NGM rendelethez
 
@@ -22,4 +22,4 @@
 
 9. Szakembereknek szánt, rendelésre készült értékelő felszerelések, amelyeket kizárólag kutatási és fejlesztési létesítményekben lehet használni kutatási és fejlesztési célból.
 
-[^2]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
