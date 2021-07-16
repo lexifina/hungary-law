@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1815-30
 | 2019-12-31 | 2019-1815-30-22.2 | 2010: CXXX. törvény |
 | 2020-08-17 | 2019-1815-30-22.3 | 1541/2020. (VIII. 17.) Korm. határozat |
 | 2021-06-30 | 2019-1815-30-22.4 | 1415/2021. (VI. 30.) Korm. határozat |
+| 2021-07-16 | 2019-1815-30-22.5 | 1415/2021. (VI. 30.) Korm. határozat |

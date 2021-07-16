@@ -22,7 +22,7 @@
 
 | 5. | Budapest | Pesterzsébeti Református Templom építése | Budapest, Pesterzsébet, Szabótelepi Református Egyházközség | 400 000 000 | 150 000 000 | 30 000 000 |
 
-| 6. | Budapest | Díszlet Bartók Béla három színpadi művéhez | Magyar Állami Operaház | 1 000 000 |  | 65 000 000 |
+| 6. | Budapest | Díszlet Bartók Béla három színpadi művéhez | Magyar Állami Operaház | 1 000 000 |  |  |
 
 | 7. | Csíkszereda | Kápolna építése a Tolvajos tetőre | Csíksomlyó Közbirtokosság | 50 000 000 |  |  |
 
@@ -52,7 +52,7 @@
 
 | 20. | Sárospatak | Művelődési Ház és Könyvtár felújítása | Sárospataki Művelődési Ház és Könyvtár | 2 050 000 000 |  | 105 000 000 |
 
-| 21. | Sárospatak | Árpád Vezér Gimnázium és Kollégium felújítása és bővítése (I. és II. ütem) | Önkormányzat | 400 000 000 |  | 555 000 000 |
+| 21. | Sárospatak | Árpád Vezér Gimnázium és Kollégium felújítása és bővítése (I. és II. ütem) | Önkormányzat | 400 000 000 |  | 620 000 000 |
 
 | 22. | Sárospatak | Ivókutak rekonstrukciója | Önkormányzat | 10 000 000 |  |  |
 
@@ -77,4 +77,4 @@
 | 32. | Összesen |  |  | 10 921 300 000 | 1 093 700 000 | 1 500 000 000 |
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet az 1415/2021. (VI. 30.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1415/2021. (VI. 30.) Korm. határozat 5. pontjával megállapított, az 1489/2021. (VII. 16.) Korm. határozat 5. pontja szerint módosított szöveg.
