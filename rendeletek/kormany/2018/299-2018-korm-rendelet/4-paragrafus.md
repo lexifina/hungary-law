@@ -22,7 +22,7 @@ i) beruházási alapokmány és program elfogadása,
 
 j) tervpályázat lebonyolítása,
 
-k) településrendezési eszközök elkészítése, a beruházással érintett ingatlan jogi helyzetének rendezése,
+k)[^3] településrendezési terv elkészítése, a beruházással érintett ingatlan jogi helyzetének rendezése,
 
 l) vázlatterv készítése,
 
@@ -33,3 +33,5 @@ n) engedélyezési dokumentáció készítése,
 o) engedélyeztetés lefolytatása,
 
 p) kivitelezési dokumentáció elkészítése.
+
+[^3]: A 4. § k) pontja a 420/2021. (VII. 15.) Korm. rendelet 102. §-a szerint módosított szöveg.
