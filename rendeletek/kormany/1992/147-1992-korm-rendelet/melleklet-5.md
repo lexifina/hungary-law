@@ -32,7 +32,7 @@
 
 ## Belterületi közutak
 
-## A település területrendezési (településszerkezeti és szabályozási) tervében beépítettként feltüntetett (vagy beépíteni tervezett) területen belül (belterületen) vagy annak határán elhelyezkedő (határát alkotó) közút.
+## A település területrendezési (településrendezési és szabályozási) tervében beépítettként feltüntetett (vagy beépíteni tervezett) területen belül (belterületen) vagy annak határán elhelyezkedő (határát alkotó) közút.
 
 ## Belterületi elsőrendű főút
 
@@ -294,11 +294,11 @@
 
 ## Közkert
 
-## A település ,,zöldterület'' területfelhasználási egységébe sorolt, döntően növényzettel fedett, egyetlen funkció betöltésére (pihenés, játék, sport stb. tevékenység) alkalmas közterület. Területe 200–10 000 m2 között van, és legkisebb oldalmérete legalább 15 méter.
+## A település ,,zöldterület'' építési övezetébe, övezetébe sorolt, döntően növényzettel fedett, egyetlen funkció betöltésére (pihenés, játék, sport stb. tevékenység) alkalmas közterület. Területe 200–10 000 m2 között van, és legkisebb oldalmérete legalább 15 méter.
 
 ## Közpark
 
-## A település ,,zöldterület'' területfelhasználási egységébe sorolt, döntően növényzettel fedett, többfunkciós közterülete, amely a napi és hétvégi szabadidő szabadban történő eltöltését biztosító (pihenés, játék, sport stb. tevékenységek végzésére alkalmas), egymáshoz kapcsolódó közkertek együttese. Területe legalább egy ha, és legkisebb oldalmérete legalább 80 méter.
+## A település ,,zöldterület'' építési övezetébe, övezetébe sorolt, döntően növényzettel fedett, többfunkciós közterülete, amely a napi és hétvégi szabadidő szabadban történő eltöltését biztosító (pihenés, játék, sport stb. tevékenységek végzésére alkalmas), egymáshoz kapcsolódó közkertek együttese. Területe legalább egy ha, és legkisebb oldalmérete legalább 80 méter.
 
 ## Köznevelés pedagógiai szakszolgálatai és szakmai szolgáltatásai
 
