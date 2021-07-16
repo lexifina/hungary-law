@@ -32,7 +32,7 @@
 
 | 15. | üzletek (kávézó) működési engedélye | Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat jegyzője |
 
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^45]
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^47]
 
 A Kossuth Lajos téri beruházási programmal összefüggő, kiemelten közérdekű beruházások felsorolása
 
@@ -52,4 +52,4 @@ A Kossuth Lajos téri beruházási programmal összefüggő, kiemelten közérde
 
 | 7. | Kozma Ferenc utca felszíni rendezése | Budapest V. kerület, belterület 24890 helyrajzi számú ingatlan | – | 2021. 07. 01. – 2024. 06. 30. |
 
-[^45]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be.
+[^47]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be.

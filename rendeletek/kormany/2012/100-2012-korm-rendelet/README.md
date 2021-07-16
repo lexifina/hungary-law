@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-100-20-
 | 2020-05-20 | 2012-100-20-22.23 | 19/2018. (II. 14.) Korm. rendelet |
 | 2021-01-01 | 2012-100-20-22.24 | 677/2020. (XII. 28.) Korm. rendelet |
 | 2021-01-15 | 2012-100-20-22.25 | 2/2021. (I. 7.) Korm. rendelet |
+| 2021-07-16 | 2012-100-20-22.26 | 420/2021. (VII. 15.) Korm. rendelet |
