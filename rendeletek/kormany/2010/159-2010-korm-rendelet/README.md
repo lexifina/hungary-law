@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-159-20-
 | 2018-01-01 | 2010-159-20-22.20 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-12-28 | 2010-159-20-22.21 | 348/2019. (XII. 23.) Korm. rendelet |
 | 2021-01-01 | 2010-159-20-22.22 | 722/2020. (XII. 31.) Korm. rendelet |
+| 2021-07-16 | 2010-159-20-22.23 | 420/2021. (VII. 15.) Korm. rendelet |
