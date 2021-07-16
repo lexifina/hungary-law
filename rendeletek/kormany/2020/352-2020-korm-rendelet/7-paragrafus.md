@@ -1,8 +1,8 @@
 7. § (1) A Beruházással érintett, 1. § (1) bekezdésében meghatározott ingatlan telkére a beépítés szabályait a (2) bekezdés állapítja meg, azzal, hogy
 
-a) a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
+a)[^2] a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
-b) ha a hatályos településrendezési eszköz vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési eszközt és az OTÉK-ot nem lehet alkalmazni.
+b)[^3] ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) A Beruházással érintett, az 1. § (1) bekezdésében meghatározott ingatlan telkén sportolási, kulturális és rekreációs célú épületek és azok kiszolgáló építményei helyezhetőek el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -21,3 +21,6 @@ f) az épületmagasság megengedett legnagyobb mértéke 8 m,
 g) az épület legmagasabb pontja nem haladhatja meg a 8 m-t,
 
 h) az építési hely az érintett ingatlanok teljes területe.
+
+[^2]: A 7. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 112. § b) pontja szerint módosított szöveg.
+[^3]: A 7. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 112. § c) pontja szerint módosított szöveg.
