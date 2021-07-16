@@ -1,8 +1,8 @@
-## 14/A. §[^37] A vízgazdálkodási területbe sorolt területek „vízgazdálkodási terület tómederben” vagy „vízgazdálkodási terület tómedren kívül” területfelhasználási egységbe sorolhatók.
+## 14/A. §[^42] A vízgazdálkodási területbe sorolt területek „vízgazdálkodási terület tómederben” vagy „vízgazdálkodási terület tómedren kívül” övezetbe sorolhatók.
 
-## A partvonal-szabályozási terv tartalmi követelményei[^38]
+## A partvonal-szabályozási terv tartalmi követelményei[^43]
 
-15. §[^39] (1) A partvonal-szabályozási terv megalapozásául szolgáló partvonal-szabályozási tervdokumentáció elkészítése során figyelembe kell venni
+15. §[^44] (1) A partvonal-szabályozási terv megalapozásául szolgáló partvonal-szabályozási tervdokumentáció elkészítése során figyelembe kell venni
 
 a) az ingatlan-nyilvántartási térképen szereplő, a Balatonnal érintkező telkek határvonalát,
 
@@ -34,8 +34,9 @@ e) a strandok kijelölésére alkalmas partszakaszokat.
 
 (3) A partvonal-szabályozási terv a (2) bekezdés b) és c) pontjában foglaltakat tartalmazza.
 
-(4) A (2) bekezdés d) és e) pontjában foglalt tartalmi elemek vonatkozásában – a területi vízügyi igazgatóság adatszolgáltatása alapján meghatározott keretek között – a helyi építési szabályzat állapítja meg az adott területfelhasználási egység konkrét területét.
+(4)[^45] A (2) bekezdés d) és e) pontjában foglalt tartalmi elemek vonatkozásában – a területi vízügyi igazgatóság adatszolgáltatása alapján meghatározott keretek között – a településrendezési terv állapítja meg az adott építési övezet, övezet konkrét területét.
 
-[^37]: A 14/A. §-t a 152/2007. (VI. 26.) Korm. rendelet 9. §-a iktatta be, szövege a 201/2013. (VI. 13.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^38]: A 15. §-t megelőző alcímet a 463/2017. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
-[^39]: A 15. §-t újonnan a 463/2017. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^42]: A 14/A. §-t a 152/2007. (VI. 26.) Korm. rendelet 9. §-a iktatta be, szövege a 201/2013. (VI. 13.) Korm. rendelet 12. §-ával megállapított, a 420/2021. (VII. 15.) Korm. rendelet 41. § g) pontja szerint módosított szöveg.
+[^43]: A 15. §-t megelőző alcímet a 463/2017. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A 15. §-t újonnan a 463/2017. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^45]: A 15. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 41. § i) pontja szerint módosított szöveg.

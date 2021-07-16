@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-283-20-
 | 2017-04-01 | 2002-283-20-22.16 | 201/2013. (VI. 13.) Korm. rendelet |
 | 2018-01-05 | 2002-283-20-22.17 | 463/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2002-283-20-22.18 | 201/2013. (VI. 13.) Korm. rendelet |
+| 2021-07-16 | 2002-283-20-22.19 | 420/2021. (VII. 15.) Korm. rendelet |

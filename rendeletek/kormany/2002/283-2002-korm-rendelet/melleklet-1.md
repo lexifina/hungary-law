@@ -1,6 +1,6 @@
-## 21. §[^51] E rendelet rendelkezéseit a vízpart-rehabilitációs tanulmányterv módosítása, a partvonal-szabályozási terv készítése, valamint a vízpart-rehabilitációs szabályozási követelményekkel érintett területek településrendezési eszközeinek készítése során kell alkalmazni.
+## 21. §[^57] E rendelet rendelkezéseit a vízpart-rehabilitációs tanulmányterv módosítása, a partvonal-szabályozási terv készítése, valamint a vízpart-rehabilitációs szabályozási követelményekkel érintett területek településrendezési terveinek készítése során kell alkalmazni.
 
-1. melléklet a 283/2002. (XII. 21.) Korm. rendelethez[^52]
+1. melléklet a 283/2002. (XII. 21.) Korm. rendelethez[^58]
 
 A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási és vízpart-rehabilitációs terv egyeztetési eljárásában résztvevő államigazgatási szervek
 
@@ -48,5 +48,5 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 21. | Magyar Építész Kamara, megyei építész kamara | településtervezés |
 
-[^51]: A 21. §-t újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be, szövege a 463/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^52]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított, ugyanezen módosító rendelet 53. § (2) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 27. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^57]: A 21. §-t újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be, szövege a 463/2017. (XII. 28.) Korm. rendelet 10. §-ával megállapított, a 420/2021. (VII. 15.) Korm. rendelet 41. § j) pontja szerint módosított szöveg.
+[^58]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított, ugyanezen módosító rendelet 53. § (2) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 27. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

@@ -1,3 +1,3 @@
-## Közlekedési terület[^30]
+## Közlekedési terület[^35]
 
-[^30]: A 12. §-t megelőző alcím a 201/2013. (VI. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^35]: A 12. §-t megelőző alcím a 201/2013. (VI. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
