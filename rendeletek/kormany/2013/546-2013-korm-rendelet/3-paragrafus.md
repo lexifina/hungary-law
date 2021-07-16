@@ -8,7 +8,7 @@ b) nem kell településképi véleményezési eljárást lefolytatni.
 
 (3)[^11] Az 1. § (1) bekezdésében megjelölt beruházásokkal összefüggésben a fás szárú növények védelméről szóló kormányrendeletet azzal az eltéréssel kell alkalmazni, hogy a beruházások szerinti földrészleteken lévő fás szárú növények kivágása esetén azok pótlásáról 2022. december 31. napjáig kell gondoskodni, azzal, hogy a kivágott fák és cserjék pótlásának várható időpontját a kérelemben fel kell tüntetni.
 
-(4)[^12] Az 1. § (1) bekezdésében megjelölt beruházásokra vonatkozó településrendezési eszköz módosítása során az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet 4. § (4) bekezdése, 7. § (3) bekezdése, valamint 8. § (3a) bekezdése szerinti véleményadás határideje legfeljebb nyolc nap.
+(4)[^12] Az 1. § (1) bekezdésében megjelölt beruházásokra vonatkozó településrendezési terv módosítása során az egyes tervek, illetve programok környezeti vizsgálatáról szóló 2/2005. (I. 11.) Korm. rendelet 4. § (4) bekezdése, 7. § (3) bekezdése, valamint 8. § (3a) bekezdése szerinti véleményadás határideje legfeljebb nyolc nap.
 
 (5)[^13] Az 1. § (1) bekezdés b) pontjában meghatározott beruházásokkal érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletet (a továbbiakban: OTÉK) a következő eltérésekkel kell alkalmazni:
 
@@ -27,7 +27,7 @@ c)[^15] az építési és a használatbavételi engedélyezési eljárás során
 (8)[^19] Az 1. § (1) bekezdés b) pontjában meghatározott ingatlanon – az egyedileg védett építmények (műemlék, helyi egyedi védelem) kivételével – bontási tevékenység bontási engedély és bontás tudomásulvétele nélkül végezhető tevékenység, azzal, hogy az építőipari kivitelezési tevékenység végzéséről elektronikus építési naplót kell vezetni.
 
 [^11]: A 3. § (3) bekezdését a 373/2015. (XII. 2.) Korm. rendelet 3. §-a iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 13. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^12]: A 3. § (4) bekezdését a 373/2015. (XII. 2.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A 3. § (4) bekezdését a 373/2015. (XII. 2.) Korm. rendelet 3. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 67. §-a szerint módosított szöveg.
 [^13]: A 3. § (5) bekezdését a 373/2015. (XII. 2.) Korm. rendelet 3. §-a iktatta be.
 [^14]: A 3. § (5) bekezdés b) pontja a 31/2020. (II. 29.) Korm. rendelet 13. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^15]: A 3. § (5) bekezdés c) pontja a 31/2020. (II. 29.) Korm. rendelet 13. § (4) bekezdés c) pontja szerint módosított szöveg.
