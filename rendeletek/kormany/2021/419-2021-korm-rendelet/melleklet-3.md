@@ -1,0 +1,59 @@
+3. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
+
+## A TELEPÜLÉSFEJLESZTÉSI TERV TARTALMI KÖVETELMÉNYEI
+
+1. Jövőkép
+
+A jövőkép – a fejlesztési terv végrehajtásában szereplők mindegyike számára – integráltan és egyértelműen szemlélteti a reális településfejlesztési célok megvalósításával létrejövő azon jobb, élhetőbb jövőbeli állapotot, amely érdekében a településfejlesztési terv készül. A jövőkép meghatározza a legfőbb településfejlesztési elveket, az ezeken alapuló távlati fejlesztési szándékokat, a környezeti és társadalmi felelősséget a település társadalmi, gazdasági, táji, természeti és az épített környezetének és térségi szerepének tekintetében.
+
+2. Stratégia
+
+A stratégiában történik – a jövőkép megvalósítása érdekében –
+
+a) a rövid, közép- és hosszú távú területi, tematikus és ágazati fejlesztési céloknak,
+
+b) a településfejlesztési célok rendszerének és a célok összefüggései vázlatának,
+
+c) az integrált és tematikus beavatkozási területeknek és
+
+d) az épített és természeti örökség védelme követelményeinek
+
+meghatározása, figyelembe véve a gazdasági szereplők települést érintő terveit és törekvéseit, valamint a helyi társadalom szükségleteit. A fejlesztési célokhoz fejlesztési céladatok és fejlesztési akcióterületek kerülnek meghatározásra.
+
+3. Cselekvési program
+
+A cselekvési program meghatározza a célok eléréséhez szükséges rövid és középtávú tematikus és integrált fejlesztési feladatokat és egyéb tevékenységeket, a kapcsolódó céladatokat, és – fejlesztési akcióterületeket figyelembe véve – az önkormányzat által elfogadott tematikus, gazdasági és egyéb tervek, programok vonatkozó elemeit. A cselekvési program tartalmazza továbbá a fejlesztések pénzügyi tervét és ütemezésének vázolását. A cselekvési program rögzíti a települési vízgazdálkodás és csapadékvíz-gazdálkodás fejlesztési feladatait és az ennek megvalósulását biztosító tervek, programok vonatkozó elemeit is.
+
+4. Részletes cselekvési program
+
+A részletes cselekvési program – a 3. pontban foglaltakon túlmenően – tartalmazza:
+
+a) a megvalósítandó beavatkozásokat, így a fejlesztési feladatokat és projekteket, valamint a nem fejlesztési jellegű önkormányzati tevékenységeket;
+
+b) a fejlesztési akcióterületeket, azok bemutatásával, lehatárolásával, fejlesztési céljaival és tevékenységeivel;
+
+c) a településfejlesztési akciók megvalósítási kereteit, a finanszírozási lehetőségeket, szervezeti kereteket és kompetenciákat;
+
+d) városokban az anti-szegregációs programot, ha található ott szegregált vagy szegregációval veszélyeztetett terület.
+
+5. Fejlesztési tervlap
+
+A fejlesztési tervlap – a településrendezési terv megalapozásához, a teljes közigazgatási területre – az általános használatú területek figyelembevételével meghatározza a stratégia és a cselekvési program, kiemelten a céladatok és a fejlesztési akcióterületek térbeli összefüggéseit, azok rendszerét, továbbá a település működéséhez szükséges meglévő és tervezett zöldinfrastruktúra-elemek térbeli kialakítását, elrendezését és településszerkezeti szerepét.
+
+6. Részletes fejlesztési tervlap
+
+A részletes fejlesztési tervlap – az 5. pontban foglaltakon túlmenően – a településtervezési szabályzatban meghatározott jelkulcs figyelembevételével meghatározza
+
+a) a stratégia és a cselekvési terv elemeinek főbb térbeli összefüggéseit,
+
+b) a település fejlesztésének térbeli rendszerét és területi irányait,
+
+c) az épített, a táj- és természeti környezet tekintetében a külső és belső korlátokat, azok jellegét,
+
+d) a megőrzendő és a fejlesztési célokat szolgáló fejlesztési akcióterületeket és egyéb területek legalább általános használat szerinti lehatárolását,
+
+e) a település működéséhez szükséges meglévő és tervezett műszakiinfrastruktúra-elemek térbeli kialakítását, elrendezését és településszerkezeti szerepét.
+
+7. Monitoring
+
+Monitoring feladatok meghatározása a stratégia hatékonyságának elősegítése érdekében, a településfejlesztési célok, akciók megvalósításának folyamatos vizsgálatára és ellenőrzésére, valamint az eredmények kiértékelésére.
