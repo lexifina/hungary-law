@@ -1,4 +1,4 @@
-265/A. §[^439] (1) A honvéd tisztjelölt – a Hjt. 40. §-ában meghatározottak szerinti – eggyel magasabb rendfokozattal történő állományba vételére a képzése során nyújtott teljesítményének elismeréseként, a (2) és (3) bekezdésben meghatározott feltételek teljesítése esetén kerülhet sor.
+265/A. §[^455] (1) A honvéd tisztjelölt – a Hjt. 40. §-ában meghatározottak szerinti – eggyel magasabb rendfokozattal történő állományba vételére a képzése során nyújtott teljesítményének elismeréseként, a (2) és (3) bekezdésben meghatározott feltételek teljesítése esetén kerülhet sor.
 
 (2) A honvéd tisztjelölt eggyel magasabb rendfokozattal történő állományba vételére akkor kerülhet sor, ha a tisztjelölt
 
@@ -8,4 +8,4 @@ b) tanulmányai folytatása során nem került sor fegyelmi felelősségének me
 
 (3) A kiválóan végzett honvéd tisztjelöltre vonatkozó kinevezési javaslatot az oktatásért felelős miniszternek a tanév rendjét szabályzó rendeletében meghatározott írásbeli vizsgát követő harmincadik napig személyi javaslati lapon kell felterjeszteni a központi személyügyi szerv vezetője felé.
 
-[^439]: A 265/A. §-t a 12/2018. (VII. 27.) HM rendelet 20. §-a iktatta be.
+[^455]: A 265/A. §-t a 12/2018. (VII. 27.) HM rendelet 20. §-a iktatta be.

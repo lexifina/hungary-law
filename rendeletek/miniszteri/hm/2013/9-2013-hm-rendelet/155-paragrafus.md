@@ -2,9 +2,9 @@
 
 155. § (1) A méltatlansági jogkört gyakorlót a (2) és (3) bekezdés és az 1. melléklet határozza meg.
 
-(2)[^339] A miniszter, valamint az MH PK – indokolt esetben – a méltatlansági eljárást bármely szakaszában saját hatáskörébe vonhatja, melyről írásban tájékoztatja a méltatlansági jogkört gyakorlót.
+(2)[^353] A miniszter, valamint az MH PK – indokolt esetben – a méltatlansági eljárást bármely szakaszában saját hatáskörébe vonhatja, melyről írásban tájékoztatja a méltatlansági jogkört gyakorlót.
 
-(3)[^340] Az MH PK jár el, ha a méltatlansági eljárás során szükséges az állományilletékes parancsnok tanúként történő meghallgatása.
+(3)[^354] Az MH PK jár el, ha a méltatlansági eljárás során szükséges az állományilletékes parancsnok tanúként történő meghallgatása.
 
-[^339]: A 155. § (2) bekezdése a 4/2020. (II. 28.) HM rendelet 18. § f) pontja szerint módosított szöveg.
-[^340]: A 155. § (3) bekezdése a 4/2020. (II. 28.) HM rendelet 18. § g) pontja szerint módosított szöveg.
+[^353]: A 155. § (2) bekezdése a 4/2020. (II. 28.) HM rendelet 18. § f) pontja szerint módosított szöveg.
+[^354]: A 155. § (3) bekezdése a 4/2020. (II. 28.) HM rendelet 18. § g) pontja szerint módosított szöveg.

@@ -6,6 +6,6 @@
 
 260. § (1) A honvéd tisztjelöltekre e rendelet állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2)[^438] Nem alkalmazható a 3.§ (2), (3) és (5) bekezdése, a 6. § (2) bekezdés b)–c) pontja, a 9. § (2) bekezdése, a 11–17. §, a 20–25. §, a 29–32. §, a 34–57. §, az 58. § (1) bekezdés d) pontja, (2) bekezdése, az 59. § (1) bekezdés b) pontja, (2) bekezdése, a 60. § (3) bekezdése, a 61. § e) pontja, a 63–72. §, a 79–96. §, a 100–114. §, a 119–126. §, a 129. §, a 130. § (2) bekezdés a) pontja, a 157. § (2) bekezdés a) pontja, a 158. § (1) bekezdése, a 162. §, a 163. § (4) bekezdése, a 165. § és az 1–11. melléklet.
+(2)[^454] Nem alkalmazható a 3.§ (2), (3) és (5) bekezdése, a 6. § (2) bekezdés b)–c) pontja, a 9. § (2) bekezdése, a 11–17. §, a 20–25. §, a 29–32. §, a 34–57. §, az 58. § (1) bekezdés d) pontja, (2) bekezdése, az 59. § (1) bekezdés b) pontja, (2) bekezdése, a 60. § (3) bekezdése, a 61. § e) pontja, a 63–72. §, a 79–96. §, a 100–114. §, a 119–126. §, a 129. §, a 130. § (2) bekezdés a) pontja, a 157. § (2) bekezdés a) pontja, a 158. § (1) bekezdése, a 162. §, a 163. § (4) bekezdése, a 165. § és az 1–11. melléklet.
 
-[^438]: A 260. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 44. pontja, a 25/2016. (XII. 22.) HM rendelet 45. § i) pontja, a 10/2017. (VIII. 31.) HM rendelet 25. § m) pontja, a 13/2020. (X. 14.) HM rendelet 31. § n) pontja szerint módosított szöveg.
+[^454]: A 260. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 44. pontja, a 25/2016. (XII. 22.) HM rendelet 45. § i) pontja, a 10/2017. (VIII. 31.) HM rendelet 25. § m) pontja, a 13/2020. (X. 14.) HM rendelet 31. § n) pontja szerint módosított szöveg.

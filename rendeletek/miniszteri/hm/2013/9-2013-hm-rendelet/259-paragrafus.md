@@ -1,6 +1,6 @@
-## 258. §[^436] Az önkéntes tartalékos katonák által betölthető szolgálati beosztásokat a KNBSZ vonatkozásában a honvédelmi miniszter, az MH vonatkozásában az MH PK által jóváhagyott hadi állománytáblák tartalmazzák.
+## 258. §[^452] Az önkéntes tartalékos katonák által betölthető szolgálati beosztásokat a KNBSZ vonatkozásában a honvédelmi miniszter, az MH vonatkozásában az MH PK által jóváhagyott hadi állománytáblák tartalmazzák.
 
-259. §[^437]
+259. §[^453]
 
-[^436]: A 258. § a 19/2015. (XII. 22.) HM rendelet 6. §-ával megállapított, a 4/2020. (II. 28.) HM rendelet 18. § f) pontja szerint módosított szöveg.
-[^437]: A 259. §-t a 10/2017. (VIII. 31.) HM rendelet 26. § b) pontja hatályon kívül helyezte.
+[^452]: A 258. § a 19/2015. (XII. 22.) HM rendelet 6. §-ával megállapított, a 4/2020. (II. 28.) HM rendelet 18. § f) pontja szerint módosított szöveg.
+[^453]: A 259. §-t a 10/2017. (VIII. 31.) HM rendelet 26. § b) pontja hatályon kívül helyezte.

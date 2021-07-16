@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdés esetén alkalmazni kell a 193. §-t.
 
-(3)[^387] A külföldi szolgálat időtartama az állomány tagjának kérelmére vagy szolgálati érdekből a vezénylésre jogosult munkáltatói jogkört gyakorló által meghosszabbítható.
+(3)[^401] A külföldi szolgálat időtartama az állomány tagjának kérelmére vagy szolgálati érdekből a vezénylésre jogosult munkáltatói jogkört gyakorló által meghosszabbítható.
 
-[^387]: A 204. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 57. §-a iktatta be.
+[^401]: A 204. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 57. §-a iktatta be.

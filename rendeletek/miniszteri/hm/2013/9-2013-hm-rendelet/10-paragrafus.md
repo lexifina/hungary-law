@@ -6,8 +6,8 @@ b) az állományilletékes parancsnok vagy – ha nem az állományilletékes pa
 
 folytathatja le.
 
-(2)[^60] A személyi beszélgetés lefolytatását a miniszter, az MH PK, illetve – ha nem az állományilletékes parancsnok a munkáltatói jogkört gyakorló – a munkáltatói jogkört gyakorló magához vonhatja.
+(2)[^62] A személyi beszélgetés lefolytatását a miniszter, az MH PK, illetve – ha nem az állományilletékes parancsnok a munkáltatói jogkört gyakorló – a munkáltatói jogkört gyakorló magához vonhatja.
 
 (3) Az (1) bekezdés b) pontja szerint kijelölt személy képviseleti jogosultságát a meghatalmazás igazolja.
 
-[^60]: A 10. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^62]: A 10. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
