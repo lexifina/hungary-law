@@ -1,19 +1,9 @@
-## 29. § Az MH EK-ban az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvényben (a továbbiakban: Eütev.) meghatározott egészségügyi ügyelet ellátásáért a katonaorvos, továbbá az egészségügyi tiszt, altiszt, legénységi állományú katona fokozott igénybevételi pótlékra jogosult.
+## 29. § A Magyar Honvédség Egészségügyi Központban (a továbbiakban: MH EK) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvényben (a továbbiakban: Eütev.) meghatározott egészségügyi ügyelet ellátásáért a IV/A. Fejezet hatálya alá nem tartozó egészségügyi tiszt, altiszt, legénységi állományú katona fokozott igénybevételi pótlékra jogosult.
 
 ## 30. § A 29. § szerinti pótlék óránkénti mértéke a honvédelmi illetményalap százalékában meghatározva
 
-a) orvos esetében
+a) hétköznap teljesített ügyelet esetén 2,6%,
 
-aa) hétköznap teljesített ügyelet esetén 3,6%,
+b) a jogosult esetében irányadó heti pihenőnapon teljesített ügyelet esetén 2,9%,
 
-ab) heti pihenőnapon teljesített ügyelet esetén 4,2%,
-
-ac) munkaszüneti napon teljesített ügyelet esetén 4,7%, és
-
-b) az állomány a) pontba nem tartozó tagja esetében
-
-ba) hétköznap teljesített ügyelet esetén 2,6%,
-
-bb) heti pihenőnapon teljesített ügyelet esetén 2,9%,
-
-bc) munkaszüneti napon teljesített ügyelet esetén 3,3%.
+c) munkaszüneti napon teljesített ügyelet esetén 3,3%.

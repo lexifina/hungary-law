@@ -1,4 +1,4 @@
-## 32/A. [^109] A Honvédség tevékenységét elősegítő egyesülethez vezényeltek illetményjogosultsága
+## 32/A. [^120] A Honvédség tevékenységét elősegítő egyesülethez vezényeltek illetményjogosultsága
 
 52/A. § (1) Ha az állomány a Hjt. 52/A. § (4) bekezdésében foglaltak alapján a Honvédség tevékenységét elősegítő egyesülethez vezényelt tagja illetményére a vezénylési megállapodás alapján a hivatásos vagy szerződéses állományú katonákra vonatkozó szabályok az irányadók és az illetményt a vezénylés időtartama alatt a Honvédség biztosítja, erre irányuló miniszteri döntés esetén a Hjt. 123. § (5) bekezdésében foglaltaktól eltérően az alapilletmény – az életkor és a vezénylés alapjául szolgáló eredmények figyelembevételével – a honvédelmi illetményalap és
 
@@ -14,4 +14,4 @@ a) az első szolgálati beosztásba történő kinevezés nélkül vezényeltek 
 
 b) az első szolgálati beosztásba kinevezett vezényeltek esetében a vezénylést megelőző napon betöltött beosztás besorolása
 
-[^109]: A 32/A. alcímet (52/A. §) a 10/2017. (VIII. 31.) HM rendelet 63. §-a iktatta be.
+[^120]: A 32/A. alcímet (52/A. §) a 10/2017. (VIII. 31.) HM rendelet 63. §-a iktatta be.
