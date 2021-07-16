@@ -20,6 +20,6 @@
 
 | 9. | Minden eljárásnál. | Környezet-egészségügyi követelmények érvényesítése. |
 
-3. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^62]
+3. számú melléklet a 76/2009. (IV. 8.) Korm. rendelethez[^66]
 
-[^62]: A 3. számú mellékletet a 70/2015. (III. 30.) Korm. rendelet 133. § (6) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 244. § e) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^66]: A 3. számú mellékletet a 70/2015. (III. 30.) Korm. rendelet 133. § (6) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 244. § e) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
