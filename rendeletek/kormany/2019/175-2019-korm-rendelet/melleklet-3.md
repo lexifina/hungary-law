@@ -1,5 +1,3 @@
-## A 8. § szerinti kiemelt budapesti fejlesztések
-
 |  | A | B |
 
 | 1. | Fejlesztés megnevezése | Kijelölt egyéb előkészítő építtető |
@@ -26,7 +24,7 @@
 
 | 12. | Budapest-Keleti pályaudvar fejlesztése | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság |
 
-3. melléklet a 175/2019. (VII. 16.) Korm. rendelethez[^34]
+3. melléklet a 175/2019. (VII. 16.) Korm. rendelethez[^36]
 
 A 10. § szerinti kiemelt budapesti fejlesztések
 
@@ -38,4 +36,4 @@ A 10. § szerinti kiemelt budapesti fejlesztések
 
 | 3. | Budapest Istvánmező rehabilitációs programja keretében a Nemzeti Olimpiai Központ területfejlesztése | Nemzeti Sportközpontok |
 
-[^34]: A 3. melléklet a 321/2020. (VII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^36]: A 3. melléklet a 321/2020. (VII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.

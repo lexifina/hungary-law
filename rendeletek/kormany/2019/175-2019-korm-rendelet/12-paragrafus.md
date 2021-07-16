@@ -1,5 +1,3 @@
-## 11. §
-
 ## 8. Vegyes rendelkezések
 
 12. § (1) Az 1. és 3. mellékletben felsorolt kiemelt budapesti fejlesztések előkészítéséhez, valamint a kiemelt nemzetközi sportesemények megpályázásához és megrendezéséhez kapcsolódó beszerzések és közbeszerzések esetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X. 30.) Korm. rendelet előírásait nem kell alkalmazni.

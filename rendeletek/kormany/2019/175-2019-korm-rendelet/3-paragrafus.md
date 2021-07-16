@@ -1,4 +1,4 @@
-## 3. §[^4] A kiemelt budapesti fejlesztés tekintetében a beruházás előkészítésének fázisában az előkészítő építtető különösen az 1–16. pont szerinti feladatokat látja el:
+## 3. §[^5] A kiemelt budapesti fejlesztés tekintetében a beruházás előkészítésének fázisában az előkészítő építtető különösen az 1–16. pont szerinti feladatokat látja el:
 
 1. megvalósíthatósági tanulmány készítése,
 
@@ -18,7 +18,7 @@
 
 9. tervpályázat lebonyolítása,
 
-10. közreműködés a településrendezési eszközök egyeztetési eljárásában,
+10.[^6] közreműködés a településrendezési tervek egyeztetési eljárásában,
 
 11. vázlatterv készítése,
 
@@ -32,4 +32,5 @@
 
 16. az 1–15. ponthoz, továbbá az építőipari kivitelezési tevékenység megkezdéséig szükséges valamennyi közbeszerzési eljárás lefolytatása, és a vonatkozó szerződések megkötése, magasépítési beruházások esetén az építészeti-műszaki dokumentáció szakmai ellenőrzését (tervellenőrzést) végző tervező, valamint az építőipari kivitelezési tevékenységben részt vevő építési műszaki ellenőr és a kivitelező kiválasztására irányuló közbeszerzési eljárás kivitelével.
 
-[^4]: A 3. § a 321/2020. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 3. § a 321/2020. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3. § 10. pontja a 420/2021. (VII. 15.) Korm. rendelet 105. §-a szerint módosított szöveg.

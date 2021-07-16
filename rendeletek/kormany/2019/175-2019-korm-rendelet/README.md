@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-175-20-
 | 2019-07-18 | 2019-175-20-22.2 | 2010: CXXX. törvény |
 | 2020-07-01 | 2019-175-20-22.3 | 321/2020. (VII. 1.) Korm. rendelet |
 | 2020-12-16 | 2019-175-20-22.4 | 565/2020. (XII. 8.) Korm. rendelet |
+| 2021-07-16 | 2019-175-20-22.5 | 426/2022. (X. 28.) Korm. rendelet |

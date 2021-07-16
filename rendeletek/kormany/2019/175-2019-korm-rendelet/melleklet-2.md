@@ -1,5 +1,3 @@
-## A 7. § szerinti kiemelt budapesti fejlesztések
-
 |  | A | B |
 
 | 1. | Fejlesztés megnevezése | Kijelölt egyéb előkészítő építtető |
@@ -16,6 +14,8 @@
 
 | 7. | H5-H6/H7 HÉV vonalak mélyvezetésű összekötésének előkészítése | BFK Budapest Fejlesztési Központ Nonprofit Zrt. – MÁV-HÉV Zrt. |
 
-2. melléklet a 175/2019. (VII. 16.) Korm. rendelethez[^33]
+2. melléklet a 175/2019. (VII. 16.) Korm. rendelethez[^35]
 
-[^33]: A 2. melléklet a 321/2020. (VII. 1.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+A 8. § szerinti kiemelt budapesti fejlesztések
+
+[^35]: A 2. melléklet a 321/2020. (VII. 1.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.

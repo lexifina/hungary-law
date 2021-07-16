@@ -2,7 +2,7 @@
 
 10. § (1) Amennyiben a Kormány a kiemelt budapesti fejlesztés megvalósítását kormánybiztos irányítása alá utalja, úgy az egyéb megvalósító építtető tekintetében a kormánybiztost az e §-ban meghatározott beruházás-irányítási jogok illetik meg.
 
-(2)[^25] A kormánybiztos az irányítása alá tartozó, a 3. mellékletben meghatározott beruházások tekintetében az (5) bekezdésben meghatározott beruházás-irányítási jogokat, illetve feladatokat személyesen, illetve a BFK Budapest Fejlesztési Központ Nonprofit Zrt. útján látja el.
+(2)[^27] A kormánybiztos az irányítása alá tartozó, a 3. mellékletben meghatározott beruházások tekintetében az (5) bekezdésben meghatározott beruházás-irányítási jogokat, illetve feladatokat személyesen, illetve a BFK Budapest Fejlesztési Központ Nonprofit Zrt. útján látja el.
 
 (3) A kijelölt egyéb megvalósító építtető a kivitelezésre irányuló közbeszerzési eljárást a kormánybiztos által jóváhagyott közbeszerzési dokumentáció alapján indíthatja meg és a már jóváhagyott közbeszerzési dokumentációt csak a kormánybiztos jóváhagyásával módosíthatja.
 
@@ -54,7 +54,7 @@ f) a beruházás vállalkozó kivitelezőjétől tájékoztatást kérhet.
 
 (10) Az (1)–(9) bekezdésben meghatározott beruházás-irányítási jog nem minősül a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény, továbbá a kormányzati igazgatásról szóló törvény szerinti irányítási jognak.
 
-(11)[^26] A magasépítési beruházásoktól eltérő kiemelt budapesti fejlesztések esetében az (1)–(9) bekezdés szerinti feladatokat a BFK Budapest Fejlesztési Központ Nonprofit Zrt. vagy annak 100%-os tulajdonában álló gazdasági társaság látja el.
+(11)[^28] A magasépítési beruházásoktól eltérő kiemelt budapesti fejlesztések esetében az (1)–(9) bekezdés szerinti feladatokat a BFK Budapest Fejlesztési Központ Nonprofit Zrt. vagy annak 100%-os tulajdonában álló gazdasági társaság látja el.
 
-[^25]: A 10. § (2) bekezdése a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^26]: A 10. § (11) bekezdése a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^27]: A 10. § (2) bekezdése a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^28]: A 10. § (11) bekezdése a 321/2020. (VII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
