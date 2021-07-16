@@ -1,3 +1,5 @@
+## 6/T. § A NÉBIH piacfelügyeleti hatásköre az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő termékek megfelelőségének ellenőrzésére és forgalomba hozatalára terjed ki.
+
 ## 5. A tárgyalás tartására vonatkozó különös szabályok
 
 7. § (1) A Pftv. 18. § (1) bekezdése szerinti tárgyalásról készítetett jegyzőkönyvnek tartalmaznia kell

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-6-20-22
 | 2019-09-01 | 2013-6-20-22.13 | 198/2019. (VIII. 1.) Korm. rendelet |
 | 2020-03-01 | 2013-6-20-22.14 | 30/2020. (II. 29.) Korm. rendelet |
 | 2021-05-26 | 2013-6-20-22.15 | 164/2020. (IV. 30.) Korm. rendelet |
+| 2021-07-16 | 2013-6-20-22.16 | 246/2020. (V. 28.) Korm. rendelet |
