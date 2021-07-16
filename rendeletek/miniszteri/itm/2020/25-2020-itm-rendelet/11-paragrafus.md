@@ -1,0 +1,9 @@
+## 11. A tengeri hajók felszereléseinek alapvető követelményeiről, megfelelőségük tanúsításáról és a piacfelügyeleti eljárásról szóló 45/2016. (XI. 11.) NFM rendelet módosítása
+
+11. § (1) A tengeri hajók felszereléseinek alapvető követelményeiről, megfelelőségük tanúsításáról és a piacfelügyeleti eljárásról szóló 45/2016. (XI. 11.) NFM rendelet (a továbbiakban: R9.) 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A megfelelőségértékelő szervezetnek meg kell felelnie az úszólétesítmények megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek elismeréséről, kijelöléséről és felhatalmazásáról szóló 2/2004. (I. 5.) GKM rendeletben [a továbbiakban: 2/2004. (I. 5.) GKM rendelet], az e §-ban és a 14. §-ban foglalt követelményeknek, és a termék tanúsításról szóló harmonizált szabványban meghatározott akkreditálási követelményeknek.”
+
+(2) Az R9. 2. § 1. pontjában az „a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet” szöveg lép.
+
+(3) Az R9. 9. § (2) bekezdésében a „765/2008/EK európai parlamenti és tanácsi rendelet 19. cikke szerinti piacfelügyeleti intézkedések céljára,” szövegrész helyébe az „a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet 11. cikk (2)–(3) és (5) bekezdés, 14. cikk (4) bekezdés a), b), e) és j) pont, 16. cikk (3) bekezdés g) pont, 17. cikk és 18. cikk (2) bekezdése szerinti piacfelügyeleti intézkedések céljára,” szöveg lép.
