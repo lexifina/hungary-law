@@ -18,6 +18,8 @@
 
 | 8. | Nemzeti Védelmi Szolgálat új irodaépület fejlesztése | Budapest belterület 38897 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalt vezető kormánymegbízott |
 
+| 9. | Kormányzati Adattrezor georedundáns kialakítása | Budapest I. kerület, belterület 14372 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
 | 10. | A Csongrád-Csanád Megyei Egészségügyi Ellátó Központ honvéd egészségügyi ellátás rendszeréhez történő csatlakozása érdekében szükséges, továbbá a kórházfejlesztési pályázat keretében megvalósuló beruházások | Hódmezővásárhely belterület 1371/4 helyrajzi számú ingatlan | Csongrád-Csanád Megyei Kormányhivatalát vezető kormánymegbízott |
 
 | 11. | A Bicskei Egészségügyi Központ teljes körű rekonstrukciója | Bicske belterület 1602/3, 1602/4, 1602/5, 1602/6, 1602/9 és 1582 helyrajzi számú ingatlanok | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
@@ -48,6 +50,6 @@
 
 | 24. | A „Visegrád 700” fejlesztési programmal összefüggő beruházások | Visegrád külterület 0108/5, 0125/5, 0125/8, 0125/9, 0131/1 helyrajzi számú, valamint Visegrád belterület 1/4, 22, 23, 24, 25, 26, 27/1, 27/2, 28, 29/1, 29/3, 56, 61, 169/2, 353, 354 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^63]
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^66]
 
-[^63]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^66]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
