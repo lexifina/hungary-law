@@ -1,4 +1,4 @@
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^84]
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^87]
 
 ……………………………………….
 
@@ -254,4 +254,4 @@ aláírás
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^84]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja, a 17/2020. (XII. 12.) HM rendelet 29. § b) pontja szerint módosított szöveg.
+[^87]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja, a 17/2020. (XII. 12.) HM rendelet 29. § b) pontja szerint módosított szöveg.
