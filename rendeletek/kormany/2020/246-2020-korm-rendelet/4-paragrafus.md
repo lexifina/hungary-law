@@ -1,0 +1,3 @@
+## 3. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 72. § (1) bekezdésében az „a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet” szövegrész helyébe az „a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet” szöveg lép.
+
+## 4. A BM Országos Katasztrófavédelmi Főigazgatóság piacfelügyeleti eljárásának részletes szabályairól szóló 367/2012. (XII. 17.) Korm. rendelet módosítása
