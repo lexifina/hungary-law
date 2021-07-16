@@ -4,7 +4,7 @@
 
 ## 3. § E rendelet alkalmazásában:
 
-1. akkreditálás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 10. pontjában meghatározott akkreditálás;
+1.[^2] akkreditálás: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott akkreditálás;
 
 2. belföldi átadás: olyan robbanóanyag szállítás, amelynek a kiindulópontja és végcélja egyaránt Magyarországon található;
 
@@ -44,7 +44,7 @@
 
 20. műszaki leírás: a robbanóanyag által teljesítendő műszaki követelményeket ismertető dokumentum;
 
-21. nemzeti akkreditáló testület: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontjában meghatározott nemzeti akkreditáló testület;
+21.[^3] nemzeti akkreditáló testület: a termékek forgalmazása tekintetében a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontjában meghatározott nemzeti akkreditáló testület;
 
 22. robbanóanyag: az ENSZ „Ajánlások a veszélyes áruk szállítására” című kiadványa szerint az 1. osztályba tartozó, robbanóanyagnak minősülő anyagok és tárgyak;
 
@@ -59,3 +59,6 @@
 27. uniós harmonizációs jogszabály: minden, a termékek forgalmazásának feltételeit harmonizáló európai uniós jogszabály;
 
 28. visszahívás: minden olyan intézkedés, amelynek célja a végfelhasználók számára hozzáférhető robbanóanyag visszavétele.
+
+[^2]: A 3. § 1. pontja a 246/2020. (V. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § 21. pontja a 246/2020. (V. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

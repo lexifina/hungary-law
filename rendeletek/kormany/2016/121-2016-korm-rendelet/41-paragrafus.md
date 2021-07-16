@@ -1,4 +1,4 @@
-## 40. § A robbanóanyagokat forgalomba hozatal előtt a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 30. cikkében meghatározott általános elvek szerint CE-jelöléssel kell ellátni.
+## 40. §[^14] A robbanóanyagokat forgalomba hozatal előtt a termékek forgalmazása tekintetében a 765/2008/EK európai parlamenti és tanácsi rendelet 30. cikkében meghatározott általános elvek szerint CE-jelöléssel kell ellátni.
 
 ## 25. A CE-jelölés feltüntetésére vonatkozó szabályok és feltételek
 
@@ -11,3 +11,5 @@
 (4) A CE-jelölést – és adott esetben a bejelentett szervezet azonosító számát – különleges kockázatokat vagy felhasználást jelölő bármilyen egyéb jelölés követheti.
 
 (5) A saját felhasználásra gyártott robbanóanyagok, a robbantólyukba való közvetlen betöltéshez csomagolatlanul, szivattyús kocsikban vagy mobil robbanóanyag-gyártó egységekben szállított és átadott robbanóanyagok, valamint a robbantás helyszínén gyártott robbanóanyagok esetében, amelyeket közvetlenül a gyártásuk után töltenek be, a CE-jelölést a kísérő dokumentumokon kell feltüntetni.
+
+[^14]: A 40. § a 246/2020. (V. 28.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.

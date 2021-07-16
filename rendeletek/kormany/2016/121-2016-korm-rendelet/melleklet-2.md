@@ -146,7 +146,7 @@
 
 | 0432 | Pirotechnikai tárgyak műszaki célokra | 1.4 S |  |
 
-2. melléklet a 121/2016. (VI. 7.) Korm. rendelethez[^14]
+2. melléklet a 121/2016. (VI. 7.) Korm. rendelethez[^19]
 
 ## ENGEDÉLYKÉRELMEK TARTALMI KÖVETELMÉNYEI
 
@@ -290,4 +290,4 @@ a) a közlekedési alágazatnak megfelelően az ADR, RID, ADN 1.10. fejezete sze
 
 b) azt, hogy a robbanóanyag átadója jogosult polgári robbantási tevékenység végzésére vagy polgári robbanóanyag forgalmazására.
 
-[^14]: A 2. melléklet a 457/2017. (XII. 28.) Korm. rendelet 575. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^19]: A 2. melléklet a 457/2017. (XII. 28.) Korm. rendelet 575. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

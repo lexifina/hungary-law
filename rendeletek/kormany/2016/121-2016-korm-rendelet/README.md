@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-121-20-
 | 2017-01-01 | 2016-121-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2016-121-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2016-121-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-07-16 | 2016-121-20-22.6 | 246/2020. (V. 28.) Korm. rendelet |

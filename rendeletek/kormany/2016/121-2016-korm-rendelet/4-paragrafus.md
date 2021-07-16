@@ -18,7 +18,7 @@ d) megsemmisítési
 
 ## engedélye robbanóanyag megszerzésére is feljogosít. A robbanóanyag tárolásának engedélyezéséről a bányafelügyelet a robbanóanyag-raktár használatbavételi engedélyezési eljárása során dönt.
 
-(3)[^1] A robbanóanyag gyártási engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
+(3)[^4] A robbanóanyag gyártási engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
 
 a) a gyártás helyét település, utca, házszám vagy helyrajzi szám megjelölésével,
 
@@ -28,7 +28,7 @@ c) a gyártás egyéb hatósági feltételeit, és
 
 d) az engedély hatályát.
 
-(4)[^2] A robbanóanyag-forgalmazási engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
+(4)[^5] A robbanóanyag-forgalmazási engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
 
 a) a felelős személy természetes személyazonosító adatait és lakcímét,
 
@@ -36,7 +36,7 @@ b) a forgalmazni kívánt robbanóanyag kereskedelmi megnevezését és mennyis�
 
 c) az engedély hatályát.
 
-(5)[^3] A robbanóanyag megszerzési engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
+(5)[^6] A robbanóanyag megszerzési engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
 
 a) a felelős személy természetes személyazonosító adatait és lakcímét,
 
@@ -44,7 +44,7 @@ b) a megszerezni tervezett robbanóanyag kereskedelmi megnevezését és mennyis
 
 c) az engedély hatályát.
 
-(6)[^4] A robbanóanyag felhasználási engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
+(6)[^7] A robbanóanyag felhasználási engedélynek az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell
 
 a) a robbantási munka helyét a bányaüzem megnevezésével, cím vagy helyrajzi szám szerinti megjelölésével,
 
@@ -94,7 +94,7 @@ b) a felhasznált robbanóanyag megnevezését és mennyiségét, valamint
 
 c) – bányafelügyeletnek küldendő jelentés esetében – a robbantásvezető nevét, értesítési címét, a robbantásvezetői engedély számát is.
 
-[^1]: A 4. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^2]: A 4. § (4) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^3]: A 4. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^4]: A 4. § (6) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^4]: A 4. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^5]: A 4. § (4) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 4. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 4. § (6) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 576. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
