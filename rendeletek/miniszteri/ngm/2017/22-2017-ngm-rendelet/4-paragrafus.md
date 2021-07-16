@@ -10,8 +10,8 @@ b) a WIM eszköz, illetve részegységeinek gyártmányát, típusát vagy – h
 
 c) a WIM eszközre vonatkozó tervdokumentációt.
 
-(3)[^1]
+(3)[^3]
 
 (4) A kérelmező a típusvizsgálati eljárás lefolytatásához ingyenesen típusmintát bocsát a mérésügyi hatóság rendelkezésére. A típusminta több típusváltozatot is reprezentálhat, ha a változatok megfelelőségéről a típusminta vizsgálatával meg lehet győződni.
 
-[^1]: A 4. § (3) bekezdését az 51/2017. (XII. 29.) NGM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^3]: A 4. § (3) bekezdését az 51/2017. (XII. 29.) NGM rendelet 29. § a) pontja hatályon kívül helyezte.
