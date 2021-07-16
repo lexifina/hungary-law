@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-72-20-2
 | 2020-12-12 | 1996-72-20-22.49 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-01-01 | 1996-72-20-22.50 | 716/2020. (XII. 30.) Korm. rendelet |
 | 2021-07-01 | 1996-72-20-22.51 | 375/2021. (VI. 30.) Korm. rendelet |
+| 2021-07-16 | 1996-72-20-22.52 | 420/2021. (VII. 15.) Korm. rendelet |

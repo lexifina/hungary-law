@@ -112,13 +112,13 @@ g) az öntözött terület nagyságát (hektárban megadva).
 
 a) területi elhelyezkedésére, a terület vízgazdálkodási, ár- és belvízvédelmi, környezet-, természet- és tájvédelmi, továbbá kulturális örökségvédelmi és közegészségügyi szempontjaira,
 
-b) a közigazgatásilag érintett település önkormányzati rendeletében meghatározott településrendezési eszközökre, illetve előírásokra, valamint
+b)[^87] a közigazgatásilag érintett település önkormányzati rendeletében meghatározott településrendezési tervre, illetve előírásokra, valamint
 
 c) a vizek védelmére vonatkozó jogszabályokban foglalt előírásokra
 
 figyelemmel kell meghatározni.
 
-(17)[^87] A tavas szennyvízleürítő hely üzemeltetésére vonatkozó végleges határozattal és a változási vázrajz közlésével a vízügyi hatóság megkeresi a tavas szennyvízleürítő hely fekvése szerint illetékes első fokon eljáró ingatlanügyi hatóságot, hogy a tavas szennyvízleürítő helyet ezzel a megnevezéssel, művelés alól kivett területként jegyezze be az ingatlan-nyilvántartásba.
+(17)[^88] A tavas szennyvízleürítő hely üzemeltetésére vonatkozó végleges határozattal és a változási vázrajz közlésével a vízügyi hatóság megkeresi a tavas szennyvízleürítő hely fekvése szerint illetékes első fokon eljáró ingatlanügyi hatóságot, hogy a tavas szennyvízleürítő helyet ezzel a megnevezéssel, művelés alól kivett területként jegyezze be az ingatlan-nyilvántartásba.
 
 [^57]: Az 5. § (1) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
 [^58]: Az 5. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
@@ -150,4 +150,5 @@ figyelemmel kell meghatározni.
 [^84]: Az 5. § (14f) bekezdését a 98/2019. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^85]: Az 5. § (15) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
 [^86]: Az 5. § (16) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be.
-[^87]: Az 5. § (17) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 18. § a) pontja, az 518/2017. (XII. 29.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^87]: Az 5. § (16) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^88]: Az 5. § (17) bekezdését a 455/2013. (XI. 29.) Korm. rendelet 22. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 18. § a) pontja, az 518/2017. (XII. 29.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
