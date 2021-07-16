@@ -12,11 +12,11 @@ c) arra vonatkozó kérést, hogy megadott határidőn belül a másik ország j
 
 (3) Ha a másik ország az (1) bekezdés c) pontja szerint megadott határidő lejártáig nem jelzi konzultációs szándékát, azt úgy kell tekinteni, hogy a konzultáció lehetőségével nem kíván élni.
 
-(4)[^8] Ha a másik ország értesítése alapján vagy egyéb módon felmerül, hogy egy másik ország kidolgozás alatt álló, a 2001/42/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó – nem EU tagállam esetén annak megfelelő – terve, illetve programja megvalósítása következtében Magyarországon jelentős káros környezeti hatás várható, a nemzetközi eljárással kapcsolatos koordinációs feladatokat a környezetvédelemért felelős miniszter az irányítása alá tartozó, kijelölt nemzeti kapcsolattartón (a továbbiakban: kapcsolattartó) keresztül látja el.
+(4)[^10] Ha a másik ország értesítése alapján vagy egyéb módon felmerül, hogy egy másik ország kidolgozás alatt álló, a 2001/42/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó – nem EU tagállam esetén annak megfelelő – terve, illetve programja megvalósítása következtében Magyarországon jelentős káros környezeti hatás várható, a nemzetközi eljárással kapcsolatos koordinációs feladatokat a környezetvédelemért felelős miniszter az irányítása alá tartozó, kijelölt nemzeti kapcsolattartón (a továbbiakban: kapcsolattartó) keresztül látja el.
 
 (5) A (4) bekezdésben említett koordinációs feladatokon a másik országgal való kapcsolattartást, a konzultációs szándékról való döntést, a konzultációkon való részvételt, továbbá a környezet védelméért felelős érintett magyar szervek, valamint az érintett nyilvánosság tájékoztatásának és véleménynyilvánításának biztosításában való közreműködést kell érteni.
 
-(6)[^9] A kapcsolattartó a (2) bekezdés szerinti konzultálási szándékkal kapcsolatos döntés meghozásába bevonja a környezet védelméért felelős érintett szerveket.
+(6)[^11] A kapcsolattartó a (2) bekezdés szerinti konzultálási szándékkal kapcsolatos döntés meghozásába bevonja a környezet védelméért felelős érintett szerveket.
 
-[^8]: A 9. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
-[^9]: A 9. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 9. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
+[^11]: A 9. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés a) pontja szerint módosított szöveg.

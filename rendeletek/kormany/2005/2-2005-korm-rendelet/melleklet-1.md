@@ -4,13 +4,13 @@
 
 1. Területi tervek [1996. évi XXI. tv. 23. § (1) bekezdés]
 
-2. A település egészére készülő településszerkezeti terv, helyi építési szabályzat és szabályozási terv [1997. évi LXXVIII. tv. 7. § (3) bekezdés b) és c) pontja]
+2.[^17] A település egészére készülő településszerkezeti terv, helyi építési szabályzat és szabályozási terv [1997. évi LXXVIII. tv. 10. és 13. §]
 
 3. Nemzeti Fejlesztési Terv [1260/99/EK tanácsi rendelet 9. cikk b) pontja szerint]
 
 4. A Nemzeti Fejlesztési Terv operatív programjai [1260/99/EK tanácsi rendelet 9. cikk f) pontja szerint]
 
-5.[^15] Országos, területi hulladékgazdálkodási terv (2012. évi CLXXXV. tv. 73–77. §)
+5.[^18] Országos, területi hulladékgazdálkodási terv (2012. évi CLXXXV. tv. 73–77. §)
 
 6. Agrárpolitika középtávú terve (1997. évi CXIV. tv. 2. §)
 
@@ -20,4 +20,5 @@
 
 9. Országos, helyi közúthálózat fejlesztési terv [30/1988. (IV. 21.) MT rend. 5. §]
 
-[^15]: Az 1. számú melléklet 5. pontja a 441/2012. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^17]: Az 1. számú melléklet 2. pontja a 420/2021. (VII. 15.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
+[^18]: Az 1. számú melléklet 5. pontja a 441/2012. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

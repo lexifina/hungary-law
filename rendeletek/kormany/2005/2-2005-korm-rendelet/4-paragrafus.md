@@ -18,8 +18,9 @@ c) módosítás esetén a módosítás lényege és az eredeti tervhez, illetve 
 
 d) a 2. számú mellékletben foglalt szempontok alkalmazásához a rendelkezésére álló és általa adható információ.
 
-(4) A kidolgozó a véleményt a tájékoztatáshoz szükséges információ rendelkezésére állásakor haladéktalanul kikéri, és a véleményadásra határidőt állapít meg, amely nem lehet kevesebb mint 15 nap.
+(4)[^4] A kidolgozó a véleményt a tájékoztatáshoz szükséges információ rendelkezésére állásakor haladéktalanul kikéri, és a véleményadásra határidőt állapít meg, amely legfeljebb 15 nap.
 
 (5) A kidolgozó az (1) bekezdés szerinti döntéséhez az általa megadott határidőre beérkezett véleményeket veszi figyelembe.
 
 [^3]: A 4. § (2a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 35. § (1) bekezdése iktatta be.
+[^4]: A 4. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.

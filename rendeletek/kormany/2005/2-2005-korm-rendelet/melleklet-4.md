@@ -116,7 +116,7 @@
 
 1.1. előzmények, különösen a tematika tartalma;
 
-1.2. a tervezési folyamat más részeihez[^20] való kapcsolódása;
+1.2. a tervezési folyamat más részeihez[^23] való kapcsolódása;
 
 1.3. a környezeti értékelés készítése során tett javaslatok hatása a terv, illetve program alakulására;
 
@@ -128,7 +128,7 @@
 
 2.1. a terv, illetve program céljainak, tartalmának összefoglaló ismertetése, kiemelve a környezeti értékelés készítése szempontjából fontos részeket;
 
-2.2. a terv, illetve program összefüggése más releváns tervekkel, illetve programokkal[^21];
+2.2. a terv, illetve program összefüggése más releváns tervekkel, illetve programokkal[^24];
 
 2.3. a változatok közötti választás indokai, a választást alátámasztó vizsgálat rövid leírása.
 
@@ -160,7 +160,7 @@
 
 3.6.1. jól azonosítható környezet igénybevétel vagy terhelés esetén különös tekintettel:
 
-3.6.1.1. a környezeti elemekre (földre, levegőre, vízre, élővilágra, épített környezetre, ez utóbbi részeként az építészeti és régészeti örökségre[^22]),
+3.6.1.1. a környezeti elemekre (földre, levegőre, vízre, élővilágra, épített környezetre, ez utóbbi részeként az építészeti és régészeti örökségre[^25]),
 
 3.6.1.2. a környezeti elemek rendszereire, folyamataira, szerkezetére, különösen a tájra, településre, klímára, természeti (ökológiai) rendszerre, a biodiverzitásra,
 
@@ -190,9 +190,9 @@
 
 6. A terv, illetve program megvalósítása következtében várhatóan fellépő környezeti hatásokra vonatkozóan a tervben, illetve programban szereplő monitorozási javaslatok értékelése, javaslatok egyéb szükséges intézkedésekre.
 
-7.[^23] Az 1–6. pontokban megadott valamennyi információra kiterjedő közérthető összefoglaló.
+7.[^26] Az 1–6. pontokban megadott valamennyi információra kiterjedő közérthető összefoglaló.
 
-[^20]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
-[^21]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.
-[^22]: Ha a terv, illetve program kidolgozása során a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 66. § (2) bekezdése, illetve az örökségvédelmi hatástanulmányról szóló 4/2003. (II. 20.) NKÖM rendelet szerint örökségvédelmi hatástanulmányt kell készíteni, akkor e hatástanulmány felhasználásával.
-[^23]: A 4. számú melléklet 7. pontja a 118/2015. (V. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A „tervezési folyamat” jelenti a terv, illetve program dokumentáció kidolgozásának folyamatát.
+[^24]: Releváns az a terv, illetve program, ami például a tervezési hierarchiában elfoglalt helyéből következően a vizsgált terv, illetve program számára előírásokat, szempontokat tartalmaz, vagy más módon hatással lehet a terv, illetve program megvalósítására, illetve a vizsgált terv, illetve program befolyásolja a másik terv, illetve program megvalósulását.
+[^25]: Ha a terv, illetve program kidolgozása során a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 66. § (2) bekezdése, illetve az örökségvédelmi hatástanulmányról szóló 4/2003. (II. 20.) NKÖM rendelet szerint örökségvédelmi hatástanulmányt kell készíteni, akkor e hatástanulmány felhasználásával.
+[^26]: A 4. számú melléklet 7. pontja a 118/2015. (V. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
