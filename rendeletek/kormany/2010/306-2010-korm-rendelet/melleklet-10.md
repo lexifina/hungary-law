@@ -56,7 +56,7 @@
 
 | 27. | Az éves levegőtisztaság-védelmi jelentés kötelezettségének, vagy a levegőtisztaság-védelmi alapbejelentés változás-bejelentési kötelezettségének nem, vagy nem megfelelő teljesítése; | 300 000 Ft |
 
-10. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^148]
+10. melléklet a 306/2010. (XII. 23.) Korm. rendelethez[^149]
 
 ## Országos légszennyezőanyag kibocsátás-csökkentési kötelezettségek
 
@@ -90,4 +90,4 @@
 
 3. A közúti közlekedésből származó kibocsátás számítását az értékesített üzemanyag alapján kell elvégezni.
 
-[^148]: A 10. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § a) pontja iktatta be.
+[^149]: A 10. mellékletet a 133/2018. (VII. 23.) Korm. rendelet 8. § a) pontja iktatta be.

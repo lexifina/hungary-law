@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-306-20-
 | 2020-11-07 | 2010-306-20-22.24 | 474/2020. (X. 30.) Korm. rendelet |
 | 2021-01-01 | 2010-306-20-22.25 | 292/2015. (X. 8.) Korm. rendelet |
 | 2021-03-18 | 2010-306-20-22.26 | 122/2021. (III. 10.) Korm. rendelet |
+| 2021-07-16 | 2010-306-20-22.27 | 420/2021. (VII. 15.) Korm. rendelet |

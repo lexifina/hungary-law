@@ -8,7 +8,7 @@ c) az észrevételek benyújtásának helyét és
 
 d) az észrevételek benyújtásának határidejét.
 
-(1a)[^62] Ha a Program végrehajtása kapcsolatba hozható az országhatáron átterjedő légszennyezéssel, a környezetvédelemért felelős miniszter konzultációt kezdeményez az érintett állam hatáskörrel rendelkező szervével.
+(1a)[^63] Ha a Program végrehajtása kapcsolatba hozható az országhatáron átterjedő légszennyezéssel, a környezetvédelemért felelős miniszter konzultációt kezdeményez az érintett állam hatáskörrel rendelkező szervével.
 
 (2) Az érintett nyilvánosság a Program vagy annak felülvizsgált és szükséges esetben módosított tervezetére az (1) bekezdés szerinti közzétételtől számított 30 napon belül tehet észrevételt.
 
@@ -16,4 +16,4 @@ d) az észrevételek benyújtásának határidejét.
 
 (4) A figyelembe vett észrevételekről vagy figyelmen kívül hagyásuk esetén annak indokairól szóló tájékoztatást a környezetvédelemért felelős miniszter a kormányzati honlapon közzéteszi.
 
-[^62]: A 21/J. § (1a) bekezdését a 122/2021. (III. 10.) Korm. rendelet 4. §-a iktatta be.
+[^63]: A 21/J. § (1a) bekezdését a 122/2021. (III. 10.) Korm. rendelet 4. §-a iktatta be.

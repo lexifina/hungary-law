@@ -1,10 +1,10 @@
 ## 21. Jogkövetkezmények
 
-34. § (1)[^97] A területi környezetvédelmi hatóság vagy a járási környezetvédelmi hatóság a levegővédelmi követelményt megsértő természetes és jogi személy, vagy jogi személyiséggel nem rendelkező szervezet részére, a jogsértő tevékenység megszüntetésére, illetve a mulasztás pótlására való kötelezéssel egyidejűleg, – ha jogszabály másként nem rendelkezik – levegőtisztaság-védelmi bírságot szab ki.
+34. § (1)[^98] A területi környezetvédelmi hatóság vagy a járási környezetvédelmi hatóság a levegővédelmi követelményt megsértő természetes és jogi személy, vagy jogi személyiséggel nem rendelkező szervezet részére, a jogsértő tevékenység megszüntetésére, illetve a mulasztás pótlására való kötelezéssel egyidejűleg, – ha jogszabály másként nem rendelkezik – levegőtisztaság-védelmi bírságot szab ki.
 
 (2) A levegővédelmi követelmények megsértésének eseteit és az azokhoz kapcsolódó levegőtisztaság-védelmi bírságok mértékét a 9. melléklet tartalmazza.
 
-(3)[^98] A területi környezetvédelmi hatóság vagy a járási környezetvédelmi hatóság a bírság kiszabása során
+(3)[^99] A területi környezetvédelmi hatóság vagy a járási környezetvédelmi hatóság a bírság kiszabása során
 
 a) a mulasztás körülményeit,
 
@@ -14,11 +14,11 @@ c) a kötelezettségszegés időtartamát és ismétlődését
 
 ## veszi figyelembe.
 
-(4)[^99] A területi környezetvédelmi hatóság vagy a járási környezetvédelmi hatóság a (3) bekezdés szerinti körülmények mérlegelésével a bírság összegét kötelezettségszegésenként legfeljebb 75%-kal csökkentett összegben állapíthatja meg.
+(4)[^100] A területi környezetvédelmi hatóság vagy a járási környezetvédelmi hatóság a (3) bekezdés szerinti körülmények mérlegelésével a bírság összegét kötelezettségszegésenként legfeljebb 75%-kal csökkentett összegben állapíthatja meg.
 
-(5)[^100]
+(5)[^101]
 
-[^97]: A 34. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § f) pontja, az 52/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^98]: A 34. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 163. § f) pontja, az 52/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^99]: A 34. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § f) pontja, az 52/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
-[^100]: A 34. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 39. §-a hatályon kívül helyezte.
+[^98]: A 34. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § f) pontja, az 52/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^99]: A 34. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 163. § f) pontja, az 52/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^100]: A 34. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 163. § f) pontja, az 52/2017. (III. 20.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^101]: A 34. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 39. §-a hatályon kívül helyezte.
