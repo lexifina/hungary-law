@@ -1,6 +1,6 @@
 8. § (1) A Büat. 10. § (1) bekezdésének alkalmazásában a forgalmazók az 5. mellékletben előírt számítási módszert használják az általuk forgalmazott motorhajtóanyagok üvegházhatású gázkibocsátási intenzitásának meghatározására.
 
-(2)[^4] A Büat. 9. § (2) bekezdésének alkalmazásában a forgalmazó
+(2)[^6] A Büat. 9. § (2) bekezdésének alkalmazásában a forgalmazó
 
 a) a motorhajtóanyag típusára,
 
@@ -22,7 +22,7 @@ f) a beszerzési helyre
 
 (5) Az állami adó- és vámhatóság a forgalmazók által jelentett adatokat összesítve megküldi a miniszternek.
 
-(6)[^5] A miniszter a motorhajtóanyagok tekintetében a forgalmazók által az állami adó- és vámhatóságnak szolgáltatott, összesített adatokat szolgáltatja az Európai Bizottság számára az Európai Környezetvédelmi Ügynökség által rendelkezésre bocsátott ReportNet eszközök felhasználásával.
+(6)[^7] A miniszter a motorhajtóanyagok tekintetében a forgalmazók által az állami adó- és vámhatóságnak szolgáltatott, összesített adatokat szolgáltatja az Európai Bizottság számára az Európai Környezetvédelmi Ügynökség által rendelkezésre bocsátott ReportNet eszközök felhasználásával.
 
-[^4]: A 8. § (2) bekezdése a 61/2020. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.
-[^5]: A 8. § (6) bekezdése a 4/2018. (II. 8.) NFM rendelet 1. § b) pontja, a 61/2020. (XII. 30.) ITM rendelet 10. §-a szerint módosított szöveg.
+[^6]: A 8. § (2) bekezdése a 61/2020. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.
+[^7]: A 8. § (6) bekezdése a 4/2018. (II. 8.) NFM rendelet 1. § b) pontja, a 61/2020. (XII. 30.) ITM rendelet 10. §-a szerint módosított szöveg.

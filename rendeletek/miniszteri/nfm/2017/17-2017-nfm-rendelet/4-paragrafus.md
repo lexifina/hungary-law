@@ -14,7 +14,7 @@ e) a sűrített földgáz esetében az MSZ EN ISO 15403-1,
 
 f) a cseppfolyósított szénhidrogéngáz esetében az MSZ EN 589,
 
-g)[^3] a közlekedésben felhasznált villamos energia esetében az MSZ EN 50160
+g)[^5] a közlekedésben felhasznált villamos energia esetében az MSZ EN 50160
 
 legkésőbbi évjelzetű termékszabványban megadott analitikai módszer alkalmazásával kell elvégezni.
 
@@ -30,4 +30,4 @@ b) a vizsgálati jegyzőkönyv a tanúsítási kérelem tárgyát képező motor
 
 (5) A tanúsítást kérő a (4) bekezdés szerinti kötelezettségének a (4) bekezdés a) pontja esetében az akkreditált laboratórium azonosításához szükséges adatok, a (4) bekezdés b) pontja esetében a szállítási dokumentáció (fuvarokmány és minőségi bizonyítvány) rendelkezésre bocsátásával tesz eleget.
 
-[^3]: A 4. § (1) bekezdés g) pontját a 31/2017. (VIII. 17.) NFM rendelet 5. §-a iktatta be.
+[^5]: A 4. § (1) bekezdés g) pontját a 31/2017. (VIII. 17.) NFM rendelet 5. §-a iktatta be.

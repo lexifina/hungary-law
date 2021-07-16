@@ -12,7 +12,7 @@ b) az Európai Unió más tagállamában szabad forgalomba bocsátott motorhajt�
 
 3. forgalomba hozatal: a 2. pont a) alpontjában meghatározott forgalmazó esetében a szabad forgalomba bocsátás, ideértve az importálással szabad forgalomba bocsátást is, a 2. pont b) alpontjában meghatározott forgalmazó esetében az Európai Unió más tagállamából történő beszerzés;
 
-4. gyártó: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 3. pontja szerinti gyártó;
+4.[^1] gyártó: a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/1020 rendelet] 3. cikk 8. pontja szerinti gyártó;
 
 5. hagyományos nyersolaj: bármely, származási helyén a tárolórétegben az Amerikai Anyagvizsgáló Társaság (a továbbiakban: ASTM) D287 vizsgálati módszere szerint mérve az Amerikai Kőolajipari Intézet (a továbbiakban: API) sűrűségbesorolása szerint 10-nél magasabb fokozatú, 2714 KN-kóddal jelölt meghatározás alá nem tartozó kőolaj-finomítói nyersanyag;
 
@@ -20,9 +20,9 @@ b) az Európai Unió más tagállamában szabad forgalomba bocsátott motorhajt�
 
 7. kiskereskedelmi motorhajtóanyag-forgalmazó: az a gazdálkodó szervezet, amely motorhajtóanyagot üzemanyagtöltő állomáson fogyasztónak kiszolgál;
 
-8. meghatalmazott képviselő: a 765/2008/EK rendelet 2. cikk 4. pontja szerinti meghatalmazott képviselő;
+8.[^2] meghatalmazott képviselő: az (EU) 2019/1020 rendelet 3. cikk 12. pontja szerinti meghatalmazott képviselő;
 
-9.[^1] motorhajtóanyag: a motorbenzin, a dízelgázolaj, a biodízel, az E85, a sűrített földgáz és a cseppfolyósított szénhidrogéngáz, a közlekedésben felhasznált villamos energia;
+9.[^3] motorhajtóanyag: a motorbenzin, a dízelgázolaj, a biodízel, az E85, a sűrített földgáz és a cseppfolyósított szénhidrogéngáz, a közlekedésben felhasznált villamos energia;
 
 10. motorhajtóanyagokra vonatkozó kiindulási érték: motorhajtóanyagokra vonatkozó, fosszilis motorhajtóanyagokból származó, teljes életciklusra és energiaegységre számított, 2010. évi üvegházhatású gázkibocsátáson alapuló kiindulási érték;
 
@@ -44,4 +44,6 @@ d) kinyerése bányászati kitermeléssel vagy termikusan segített gravitáció
 
 (3) Ahol e rendelet szabvány alkalmazását írja elő, azon a szabvánnyal egyenértékű más műszaki megoldást is érteni kell.
 
-[^1]: A 2. § 9. pontja a 31/2017. (VIII. 17.) NFM rendelet 6. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés 4. pontja a 25/2020. (VII. 3.) ITM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés 8. pontja a 25/2020. (VII. 3.) ITM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § 9. pontja a 31/2017. (VIII. 17.) NFM rendelet 6. § a) pontja szerint módosított szöveg.
