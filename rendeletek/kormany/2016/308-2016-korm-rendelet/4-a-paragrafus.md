@@ -1,4 +1,4 @@
-4/A. §[^6] (1) Az 1. § (1) bekezdése szerinti telkekre a beépítés szabályait a (2) bekezdés állapítja meg. A hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni.
+4/A. §[^7] (1)[^8] Az 1. § (1) bekezdése szerinti telkekre a beépítés szabályait a (2) bekezdés állapítja meg. A hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) Az 1. § (1) bekezdése szerinti telkekre meghatározott sajátos beépítési szabályok:
 
@@ -16,7 +16,8 @@ f) az előkert mérete 5 méter, az előkertben a csatlakozó rendezett terepszi
 
 g) az oldalkert és a hátsókert mérete 15 méter.
 
-(3) A (2) bekezdés c) pontjának alkalmazása során a szintterületi mutató a Budapest X. kerületben megvalósuló ingatlanfejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 308/2016. (X. 13.) Korm. rendelet módosításáról szóló 257/2017. (IX. 5.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor[^7] hatályos Kerületi Építési Szabályzatban foglalt követelmények szerint számítandó. A (2) bekezdés e) pontjának alkalmazása során az épületmagasság a Módr. hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint számítandó.
+(3) A (2) bekezdés c) pontjának alkalmazása során a szintterületi mutató a Budapest X. kerületben megvalósuló ingatlanfejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 308/2016. (X. 13.) Korm. rendelet módosításáról szóló 257/2017. (IX. 5.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor[^9] hatályos Kerületi Építési Szabályzatban foglalt követelmények szerint számítandó. A (2) bekezdés e) pontjának alkalmazása során az épületmagasság a Módr. hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint számítandó.
 
-[^6]: A 4/A. §-t a 257/2017. (IX. 5.) Korm. rendelet 1. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2017. szeptember 6.
+[^7]: A 4/A. §-t a 257/2017. (IX. 5.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 4/A. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.
+[^9]: A hatálybalépés időpontja 2017. szeptember 6.
