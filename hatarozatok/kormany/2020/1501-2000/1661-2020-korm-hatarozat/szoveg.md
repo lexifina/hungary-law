@@ -2,11 +2,11 @@ A Kormány
 
 1. egyetért a „Minden gyermek tanuljon meg úszni!” kormányzati célkitűzéssel, összhangban a Magyar Úszó Szövetség (a továbbiakban: Szövetség) által kidolgozott Úszónemzet Program szerinti óvodai nagycsoport és általános iskola alsó tagozat célcsoport kötelező úszásoktatásának (a továbbiakban: alprogram) koncepciójával;
 
-2. felhívja az emberi erőforrások miniszterét, hogy – a Szövetség bevonásával és az illetékes köznevelési intézmények fenntartóinak közreműködésével – gondoskodjon a 2020/2021. tanévben az alprogram bevezetéséről Budapest XXII. kerülete, Debrecen, Mór, Tokaj településeken azzal, hogy a lebonyolítást 2021. február 1. és 2021. június 30. között kell megvalósítani;
+2.[^1] felhívja az emberi erőforrások miniszterét, hogy – a Szövetség bevonásával és az illetékes köznevelési intézmények fenntartóinak közreműködésével – gondoskodjon a 2021/2022. tanévben az alprogram bevezetéséről Budapest XXII. kerülete, Debrecen, Mór, Tokaj településeken, azzal, hogy a lebonyolítást 2021. szeptember 13. és 2021. december 17. között kell megvalósítani;
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2021. június 30.
+Határidő: 2021. december 17.
 
 3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a 2. pontban foglaltak megvalósításához
 
@@ -28,8 +28,17 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a költségvetési támogatás rendelkezésre állását követő 30 napon belül
 
-5. felhívja az emberi erőforrások miniszterét hogy a 2. pont szerinti alprogram eredményéről és a „Minden gyermek tanuljon meg úszni!” kormányzati célkitűzés teljes körű megvalósításához szükséges intézkedésekről készítsen előterjesztést a Kormány részére.
+5.[^2] felhívja az emberi erőforrások miniszterét, hogy a Szövetség bevonásával tegyen javaslatot a Kormány részére a „Minden gyermek tanuljon meg úszni!” alprogram
+
+a) I. ütemének 2022. február 1-jétől történő megvalósításához szükséges intézkedésekre,
+
+b) teljes körű bevezetésére és megvalósítására (2022–2027).
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2021. szeptember 30.
+Határidő: az a) alpont tekintetében 2021. október 31.
+
+a b) alpont tekintetében 2022. március 31.
+
+[^1]: A 2. pont az 1490/2021. (VII. 16.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1490/2021. (VII. 16.) Korm. határozat 2. pontjával megállapított szöveg.
