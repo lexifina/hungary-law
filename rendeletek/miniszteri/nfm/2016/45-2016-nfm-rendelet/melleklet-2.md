@@ -8,6 +8,6 @@
 
 ## Kisméretű felszerelések esetében a minimális méretkorlátozástól el lehet tekinteni.
 
-2. melléklet a 45/2016. (XI. 11.) NFM rendelethez[^7]
+2. melléklet a 45/2016. (XI. 11.) NFM rendelethez[^10]
 
-[^7]: A 2. mellékletet a 34/2020. (X. 7.) ITM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^10]: A 2. mellékletet a 34/2020. (X. 7.) ITM rendelet 6. § b) pontja hatályon kívül helyezte.

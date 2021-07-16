@@ -4,7 +4,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. akkreditálás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott fogalom;
+1.[^1] akkreditálás: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontjában meghatározott fogalom;
 
 2. bejelentett szervezet: egy tagállam nemzeti hatósága által az Európai Bizottságnak bejelentett szervezet, amelyet felhatalmaztak az e rendelet szerinti megfelelőségértékelési feladatok ellátására;
 
@@ -71,3 +71,5 @@ g) az Európai Távközlési Szabványügyi Intézet (ETSI),
 h) az Európai Bizottság, és
 
 i) az azon kölcsönös elismerési megállapodásokban elismert szabályozó hatóságok, amelyekben az Európai Unió részes fél.
+
+[^1]: A 2. § 1. pontja a 25/2020. (VII. 3.) ITM rendelet 11. § (2) bekezdése szerint módosított szöveg.
