@@ -6,6 +6,7 @@
 
 (4) A Kormány a Beruházás tekintetében szakhatóságként a népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki valamennyi olyan esetben, amikor jogszabály a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala szakhatóságként történő bevonását írja elő.
 
-(5) A Kormány a Beruházás esetén a helyi településrendezési eszközökkel való összhang megállapítása, valamint az építmény vagy tevékenység helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek való megfelelésének szakkérdésében szakhatóságként az építmény vagy tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat főjegyzőjét jelöli ki.
+(5)[^5] A Kormány a Beruházás esetén a helyi településrendezési tervekkel való összhang megállapítása, valamint az építmény vagy tevékenység helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek való megfelelésének szakkérdésében szakhatóságként az építmény vagy tevékenység helye szerinti települési, fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat főjegyzőjét jelöli ki.
 
 [^4]: Az 1/A. §-t a 363/2020. (VII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^5]: Az 1/A. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 93. § a) pontja szerint módosított szöveg.
