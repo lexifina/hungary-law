@@ -80,7 +80,7 @@
 
 ## Határidő: azonnal
 
-## k) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 700 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, továbbá a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 7. Rendőrség cím javára, a 6. melléklet szerint;
+## k)[^1] az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 700 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, továbbá a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 7. Rendőrség cím javára, a 6. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -94,7 +94,7 @@
 
 ## Felelős: belügyminiszter
 
-## Határidő: 2021. március 31.
+## Határidő: 2021. december 31.
 
 ## l) a Kvtv. 4. melléklet 2. pontja alapján a terrorellenes intézkedések kezeléséhez kapcsolódó, a Magyar Honvédség által végzett feladatok hatékony megvalósítása érdekében jóváhagyja a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Terrorellenes intézkedések megvalósításához kapcsolódó kiadások alcím 34 028 000 000 forint összeggel történő túllépését;
 
@@ -128,20 +128,21 @@
 
 ## Határidő: azonnal
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
-## 6.[^5]
+## 6.[^6]
 
 1. melléklet az 1574/2020. (IX. 9.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont k) alpontja az 1489/2021. (VII. 16.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
