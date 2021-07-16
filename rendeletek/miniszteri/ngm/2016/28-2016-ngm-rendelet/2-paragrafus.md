@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. akkreditálás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 10. pontjában meghatározott akkreditálás;
+1.[^1] akkreditálás: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet) 2. cikk 10. pontjában meghatározott akkreditálás;
 
 2. CE megfelelőségi jelölés: a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény (a továbbiakban: Pftv.) 2. § 2. pontja szerinti fogalom;
 
@@ -48,9 +48,9 @@ c) kizárólag teher, feltéve, hogy a fülkébe legalább egy személy be tud s
 
 19. műszaki leírás: a felvonó vagy a felvonókhoz készült biztonsági berendezés által teljesítendő műszaki követelményeket ismertető dokumentum;
 
-20. piacfelügyeleti hatóság: a 765/2008/EK rendelet 2. cikk 18. pontjában meghatározott fogalom;
+20.[^2] piacfelügyeleti hatóság: a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet 3. cikk 4. pontjában meghatározott fogalom.
 
-21.[^1] tanúsító szervezet: a kijelölési feladatkörében eljáró Budapest Főváros Kormányhivatala által – külön jogszabály előírásai szerint – a felvonók és a felvonó biztonsági berendezések megfelelőségének értékelésére, a biztonsági berendezés gyártója vagy a felvonószerelő vállalkozás minőségbiztosítási rendszerének tanúsítására és ellenőrzésére kijelölt, az Európai Bizottságnak és a tagállamoknak bejelentett szervezet;
+21.[^3] tanúsító szervezet: a kijelölési feladatkörében eljáró Budapest Főváros Kormányhivatala által – külön jogszabály előírásai szerint – a felvonók és a felvonó biztonsági berendezések megfelelőségének értékelésére, a biztonsági berendezés gyártója vagy a felvonószerelő vállalkozás minőségbiztosítási rendszerének tanúsítására és ellenőrzésére kijelölt, az Európai Bizottságnak és a tagállamoknak bejelentett szervezet;
 
 22. típusvizsgálati tanúsítvány: a tanúsító szervezet állítja ki akkor, ha a biztonsági berendezés típusmintája és a típusfelvonó megfelel az e rendeletben előírt biztonsági követelményeknek;
 
@@ -58,4 +58,6 @@ c) kizárólag teher, feltéve, hogy a fülkébe legalább egy személy be tud s
 
 24. visszahívás: felvonó esetében minden olyan intézkedés, amelynek célja a felvonó szétszerelése és biztonságos ártalmatlanítása, a felvonókhoz készült biztonsági berendezések esetében pedig a felvonószerelő vállalkozások vagy a felhasználók számára már hozzáférhetővé tett, felvonókhoz készült biztonsági berendezés visszavétele.
 
-[^1]: A 2. § 21. pontja a 62/2016. (XII. 29.) NGM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^1]: A 2. § 1. pontja a 25/2020. (VII. 3.) ITM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § 20. pontja a 25/2020. (VII. 3.) ITM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 21. pontja a 62/2016. (XII. 29.) NGM rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.

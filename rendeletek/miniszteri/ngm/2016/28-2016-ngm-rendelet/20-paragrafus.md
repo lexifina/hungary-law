@@ -1,3 +1,3 @@
-## 19.[^3]
+## 19.[^5]
 
-[^3]: A 19. alcímet (20. §) a 25/2019. (VIII. 26.) ITM rendelet 19. §-a hatályon kívül helyezte.
+[^5]: A 19. alcímet (20. §) a 25/2019. (VIII. 26.) ITM rendelet 19. §-a hatályon kívül helyezte.

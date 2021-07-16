@@ -1,4 +1,4 @@
-## 33. §[^9]
+## 33. §[^11]
 
 1. melléklet a 28/2016. (VIII. 23.) NGM rendelethez
 
@@ -132,4 +132,4 @@ b) a felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014.
 
 7.4. A felvonót kísérő ismertetők, iratok, utasítások a biztonsági szempontokat tekintve nem mondhatnak ellent a gyártó által biztosított használati utasításnak.
 
-[^9]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

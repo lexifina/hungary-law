@@ -10,6 +10,6 @@
 
 (4) A bejelentett szervezet a megfelelőségértékelési tevékenysége során kiadott dokumentumokat – így különösen a vizsgálati, ellenőrzési jegyzőkönyvet, tanúsítványt – 10 évig köteles megőrizni.
 
-(5)[^6] Ha a tanúsítvány vagy a jóváhagyási döntés kiadása után a megfelelőség ellenőrzése során a bejelentett szervezet megállapítja, hogy a felvonó vagy egy a felvonókhoz készült biztonsági berendezés már nem megfelelő, akkor legalább 15 napos határidő közlésével felszólítja a felvonószerelő vállalkozást vagy a gyártót a megfelelő kiigazító intézkedések megtételére.
+(5)[^8] Ha a tanúsítvány vagy a jóváhagyási döntés kiadása után a megfelelőség ellenőrzése során a bejelentett szervezet megállapítja, hogy a felvonó vagy egy a felvonókhoz készült biztonsági berendezés már nem megfelelő, akkor legalább 15 napos határidő közlésével felszólítja a felvonószerelő vállalkozást vagy a gyártót a megfelelő kiigazító intézkedések megtételére.
 
-[^6]: A 23. § (5) bekezdését a 62/2016. (XII. 29.) NGM rendelet 35. § (1) bekezdése iktatta be.
+[^8]: A 23. § (5) bekezdését a 62/2016. (XII. 29.) NGM rendelet 35. § (1) bekezdése iktatta be.

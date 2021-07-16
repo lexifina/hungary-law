@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-28-20-2
 | 2016-09-08 | 2016-28-20-2X.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2016-28-20-2X.3 | 62/2016. (XII. 29.) NGM rendelet |
 | 2019-09-01 | 2016-28-20-2X.4 | 25/2019. (VIII. 26.) ITM rendelet |
+| 2021-07-16 | 2016-28-20-2X.5 | 25/2020. (VII. 3.) ITM rendelet |
