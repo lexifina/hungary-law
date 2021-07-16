@@ -18,13 +18,13 @@ A Kormány a Klíma- és Természetvédelmi Akciótervben foglaltak alapján, az
 
 (a továbbiakban együtt: közreműködő szervezetek),
 
-1.2.[^1] azzal, hogy a Projekt 2021. április 30-ig megvalósuló I. ütemének (a továbbiakban: I. ütem) végrehajtására összesen 13 000 000 000 forint kerüljön biztosításra,
+1.2.[^1] azzal, hogy a Projekt 2021. december 31-ig megvalósuló I. ütemének (a továbbiakban: I. ütem) végrehajtására összesen 13 000 000 000 forint kerüljön biztosításra,
 
 1.3. azzal, hogy a Projekt koordinációját – a hulladékgazdálkodásért való felelőssége keretében – az innovációért és technológiáért felelős miniszter lássa el (a továbbiakban: koordináló miniszter),
 
 1.4. azzal, hogy a Projekt I. ütemének 2020. szeptember 30. napjáig tartó első szakaszában – az 1.1. alpont 1.1.5. pontjában meghatározott esetben településkategóriánként – valamennyi közreműködő szervezeti kategóriában pilothelyszínek kerülnek kijelölésre,
 
-1.5.[^2] azzal, hogy a Projekt I. ütemének 2020. október 1. és 2021. április 30. közötti második szakaszában a pilothelyszíneken illegális hulladék összegyűjtésének hulladékgazdálkodási adatai – így különösen a hulladék becsült mennyisége, összetétele, az elszállítás feltételei – alapján kerül sor az ország közreműködő szervezetek által felügyelt, kezelt területei közül az illegális hulladékkal leginkább szennyezett területek felszámolására,
+1.5.[^2] azzal, hogy a Projekt I. ütemének 2020. október 1. és 2021. december 31. közötti második szakaszában a pilothelyszíneken illegális hulladék összegyűjtésének hulladékgazdálkodási adatai – így különösen a hulladék becsült mennyisége, összetétele, az elszállítás feltételei – alapján kerül sor az ország közreműködő szervezetek által felügyelt, kezelt területei közül az illegális hulladékkal leginkább szennyezett területek felszámolására,
 
 1.6. azzal, hogy Hulladék Radar elnevezéssel egy applikáció (a továbbiakban: applikáció) kerüljön kifejlesztésre, amely bárki számára, ingyenesen elérhető, és amely beazonosítható módon képes egy háttéradatbázisban a beérkezett bejelentésnek a közreműködő szervezetek – illetve ahol a bejelentés nem a Projektben közreműködő szervezetként részt vevő tulajdonában, vagyonkezelésében vagy kezelésében lévő ingatlant érint, a települési jegyző – részére történő automatikus továbbítására,
 
@@ -146,7 +146,7 @@ fordítható;
 
 8.4. a Projekt adminisztrációjával, koordinációjával kapcsolatos projektmenedzsment-jellegű feladatokra a támogatás legfeljebb 5%-a számolható el, ezen felül bérköltség elszámolására nincs mód;
 
-8.5. az önkormányzatok támogatása esetén – a 8.4. alpontban jelzetteken túl – az alábbi korlátokkal nyújtható támogatás:
+8.5.[^6] az önkormányzatok belügyminiszter által történő támogatása esetén – a 8.4. alpontban jelzetteken túl – az alábbi korlátokkal nyújtható támogatás:
 
 8.5.1. a hulladék elszállításának és kezelésének költségére legfeljebb
 
@@ -170,11 +170,11 @@ belügyminiszter
 
 Határidő: 2020. december 31.
 
-9.[^6] felhívja az innovációért és technológiáért felelős minisztert, hogy a Projekt I. ütemének lezárását – az önkormányzatok esetében a pilotok lezárását – követően készítsen előterjesztést a Kormány részére a 2021. évre vonatkozó II. ütem feladattervéről és költségkalkulációjáról;
+9.[^7] felhívja az innovációért és technológiáért felelős minisztert, hogy a Projekt I. ütemére biztosított pályázati forrás felhasználását követően haladéktalanul készítsen előterjesztést a Kormány részére a következő ütemben elvégzendő feladatokról és azok forrásigényéről;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
-Határidő: 2021. május 31.
+Határidő: a pályázati forrás felhasználását követően azonnal
 
 10. felhívja
 
@@ -194,9 +194,10 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
-[^1]: Az 1. pont 1.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
-[^2]: Az 1. pont 1.5. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^1]: Az 1. pont 1.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont a) alpontja, az 1491/2021. (VII. 16.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.5. alpontja az 1862/2020. (XI. 30.) Korm. határozat 5. pont b) alpontja, az 1491/2021. (VII. 16.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^3]: Az 5. pont 5.2. alpontja az 1862/2020. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
 [^4]: Az 5. pont 5.5. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
 [^5]: Az 5. pont 5.6. alpontját az 1862/2020. (XI. 30.) Korm. határozat 3. pontja iktatta be.
-[^6]: A 9. pont az 1862/2020. (XI. 30.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 8. pont 8.5. alpont nyitó szövegrésze az 1491/2021. (VII. 16.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^7]: A 9. pont az 1491/2021. (VII. 16.) Korm. határozat 1. pontjával megállapított szöveg.

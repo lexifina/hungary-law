@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1598-30
 | --- | --- | --- |
 | 2020-09-21 | 2020-1598-30-22.1 | 1598/2020. (IX. 21.) Korm. határozat |
 | 2020-11-30 | 2020-1598-30-22.2 | 1862/2020. (XI. 30.) Korm. határozat |
+| 2021-07-16 | 2020-1598-30-22.3 | 1862/2020. (XI. 30.) Korm. határozat |
