@@ -12,4 +12,7 @@
 
 (5) Az (1) bekezdés szerint szerződéses vagy a (3) bekezdés szerint önkéntes tartalékos állományba vettek fegyveres, valamint külföldi szolgálatra nem vezényelhetők, kivéve, ha az állományba vételt követően az e rendeletben, továbbá külön jogszabályokban előírt alkalmassági feltételekkel rendelkeznek.
 
+(6)[^59] Az (1) bekezdés szerinti szerződéses, valamint a (3) bekezdés szerinti önkéntes tartalékos állományba vettek esetében a fizikai alkalmasság-vizsgálatot a veszélyhelyzet megszűnését követően 180 nap felkészülési idő eltelte után kell elvégezni.
+
 [^58]: A XVI. fejezetet (77/A–77/D. §) a 7/2020. (IV. 30.) HM rendelet 1. §-a iktatta be.
+[^59]: A 77/A. § (6) bekezdését a 13/2021. (VII. 15.) HM rendelet 32. §-a iktatta be.

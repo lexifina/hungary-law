@@ -1,4 +1,4 @@
-## 83. §[^62] E rendeletnek a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 7/2020. (IV. 30.) HM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^63] folyamatban lévő ügyekre is alkalmazni kell.
+## 83. §[^64] E rendeletnek a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 7/2020. (IV. 30.) HM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^65] folyamatban lévő ügyekre is alkalmazni kell.
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2472,29 +2472,5 @@ d) E szakasz szerinti minősítésnél korlátozások nem alkalmazhatók.
 
 e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
 
-| 129 Vesefertőzések | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | heveny pyelonephritis utáni, következmény nélkül gyógyult állapot, két évet meghaladó megfigyelés esetén | KLGS | A | A | A | N10–N16 |
-
-| 2. | heveny pyelonephritis utáni állapot, két éven belül | KLGS | KLGS | K | K |
-
-| 3. | idült pyelonephritis enyhe formája | E | K | K | K |
-
-| 4. | idült pyelonephritis kp. súlyos formája | E | E | KLGS | KLGS |
-
-| 5. | idült pyelonephritis súlyos formája | E | E | E | KLGS |
-
-a) Pyelonephritis chronica, pyelonephritis acuta, abscessus renis et perirenalis, pyeloureteritis cystica, pyonephrosis.
-
-b) We, teljes vérkép és vizelet, Se kreatinin, UN, koncentrálási próba, 24 órás vizelet fehérje ürítés meghatározása, vizelet bact. és Koch tenyésztés, UH, iv. pyelographia CT, kontrasztanyagos CT vizsgálat.
-
-c) Idült pyelonephritis enyhe formájának tekinthető, ha kóros vizeleteltérés (leukocyturia, bacteriuria) az i.v. pyelographiás képen jellegzetes kehelyelváltozás látható, ugyanakkor még nem jár a vesefunctio beszűkülésével, illetve jelentősebb hypertoniával. Katonai oktatási intézménybe jelentkezők felvételekor 129.2 „E”.
-
-Idült pyelonephritis kp. súlyos formájának tekinthető, ha a kóros vizeleteltérés mellett vagy anélkül a jellegzetes radiologiai leleten kívül a vesefunctio mérsékelt beszűkülése (Se kreatinin 200–400 mmol/l), továbbá kísérő hypertonia észlelhető.
-
-Idült pyelonephritis súlyos formájának tekinthető, ha a kóros vizeleteltérés és a jellegzetes radiologiai lelet mellett a vesefunctio kifejezett beszűkülése (400 mmol/l) vagy progrediáló hypertonia észlelhető. Hivatásos és szerződéses állományba vételkor a minősítés a 129.2 „E”.
-
-d) K: 4, 6, 11–13, 15, 17–18, 21; F: 1–4, 6.
-
-[^62]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2020. (IV. 30.) HM rendelet 2. §-a iktatta be.
-[^63]: A hatálybalépés időpontja 2020. május 1.
+[^64]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2020. (IV. 30.) HM rendelet 2. §-a iktatta be.
+[^65]: A hatálybalépés időpontja 2020. május 1.
