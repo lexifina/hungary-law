@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-48-20-2
 | 2017-07-01 | 2015-48-20-22.7 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2015-48-20-22.8 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2015-48-20-22.9 | 361/2019. (XII. 30.) Korm. rendelet |
+| 2021-07-16 | 2015-48-20-22.10 | 420/2021. (VII. 15.) Korm. rendelet |

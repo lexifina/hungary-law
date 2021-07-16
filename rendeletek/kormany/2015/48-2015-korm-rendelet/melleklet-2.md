@@ -26,6 +26,6 @@
 
 | 12. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
 
-2. melléklet a 48/2015. (III. 12.) Korm. rendelethez[^12]
+2. melléklet a 48/2015. (III. 12.) Korm. rendelethez[^13]
 
-[^12]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 183. § f) pontja hatályon kívül helyezte.
+[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 183. § f) pontja hatályon kívül helyezte.
