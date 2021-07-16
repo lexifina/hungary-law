@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Hírközlési és Informatikai Tanácsról szóló 2018. évi CII. törvény 3. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
