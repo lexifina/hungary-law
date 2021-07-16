@@ -14,7 +14,7 @@
 
 | 5. | Áramlási holttér | Nem vesz részt a nagyvízi hozamok vízszállításában. A hozzájárulást megelőző vizsgálatot ez esetben is el kell végezni. A vizsgálatnak ki kell terjednie különösen arra, hogy a holttérből igénybe vett teljes térfogat nem csökkenti a terület víztározó térfogatát az árvízszintet károsan növelő mértékben, valamint a vízvisszatartási lehetőségekre vagy az egyéb vízgazdálkodási célokra gyakorolt hatásokra. | Meglévő üdülőterület beépítetlen telkén új üdülőépület helyezhető el, a vonatkozó övezeti előírások keretei között. A biztonsági szint alatti építmények elöntéssel szembeni ellenállóságáról, illetve árvízvédelméről gondoskodni kell. | Építési engedélynek és kezelői hozzájárulásnak megfelelő bővítése is megengedett. A biztonsági szint alatti építmények elöntéssel szembeni ellenállóságáról, illetve árvízvédelméről gondoskodni kell. | Építési övezetben az építési engedély és kezelői hozzájárulás nélkül épült létesítmények szükség szerinti felszámolása. |
 
-4. melléklet a 83/2014. (III. 14.) Korm. rendelethez[^38]
+4. melléklet a 83/2014. (III. 14.) Korm. rendelethez[^41]
 
 A nagyvízi mederkezelési terv elkészítésével érintett vízfolyások, folyószakaszok
 
@@ -156,4 +156,4 @@ A nagyvízi mederkezelési terv elkészítésével érintett vízfolyások, foly
 
 | 68. | 12.KÖVÍZIG | Hortobágy-Berettyó | 12.NMT.06. | Borzi szivattyútelep | 54,80 | Hármas-Körös-torkolat | 0 |
 
-[^38]: A 4. melléklet a 288/2018. (XII. 21.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^41]: A 4. melléklet a 288/2018. (XII. 21.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.

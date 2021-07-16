@@ -1,6 +1,6 @@
-14. § (1)[^28] A tervdokumentációt a 4. melléklet szerinti vízfolyásokra, illetve folyószakaszokra kell elkészíteni.
+14. § (1)[^29] A tervdokumentációt a 4. melléklet szerinti vízfolyásokra, illetve folyószakaszokra kell elkészíteni.
 
-(2)[^29] Ha a 4. mellékletben felsorolt vízfolyás mellékvízfolyásának mederhasználata jelentősen befolyásolja a tervdokumentációval érintett vízfolyás morfológiai, hidrológiai vagy hidraulikai viszonyait, illetve ezek változását, akkor a tervdokumentációnak ki kell terjednie a mellékvízfolyás mederkezelésére is.
+(2)[^30] Ha a 4. mellékletben felsorolt vízfolyás mellékvízfolyásának mederhasználata jelentősen befolyásolja a tervdokumentációval érintett vízfolyás morfológiai, hidrológiai vagy hidraulikai viszonyait, illetve ezek változását, akkor a tervdokumentációnak ki kell terjednie a mellékvízfolyás mederkezelésére is.
 
-[^28]: A 14. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § m) pontja szerint módosított szöveg.
-[^29]: A 14. § (2) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § n)–o) pontja szerint módosított szöveg.
+[^29]: A 14. § (1) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § m) pontja szerint módosított szöveg.
+[^30]: A 14. § (2) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § n)–o) pontja szerint módosított szöveg.

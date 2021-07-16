@@ -20,7 +20,7 @@ c) a nagyvízi mederben fekvő települési belterületen történő építmény
 
 (5)[^13] A (2)–(4) bekezdés szerinti hozzájárulás az ingatlanon esetleg fennálló, nem megfelelő használatból származó lefolyási akadályok megszüntetése után adható meg. A hozzájárulás feltétele továbbá, hogy az ingatlantulajdonos a 2. melléklet szerinti nyilatkozatot tegyen arról, hogy az építménynek a nagyvízi mederben való elhelyezésével összefüggésben keletkezett károk tekintetében kártalanítási igényt nem érvényesít. A hozzájárulás az építési és a fennmaradási engedélyezési, valamint a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány kiadása iránti eljárásban résztvevő vízügyi hatóság szakhatósági állásfoglalása megadásának feltétele. Az építésügyi hatósági engedély (ideértve a sajátos építményfajta szerinti építésügyi hatósági engedélyt is) tájékoztató részében az építésügyi hatóság felhívja az építtető figyelmét a kártalanítási igény érvényesítésének kizárására.
 
-(6) A nagyvízi meder területe újonnan beépítésre szánt területbe nem sorolható, továbbá a nagyvízi mederben lévő üdülőterület lakó-, vegyes vagy gazdasági területfelhasználási egységbe nem sorolható át.
+(6)[^14] A nagyvízi meder területe újonnan beépítésre szánt területbe nem sorolható, továbbá a nagyvízi mederben lévő üdülőterület lakó-, vegyes vagy gazdasági építési övezetbe nem sorolható át.
 
 [^8]: Az 5. § (1) bekezdése a 706/2020. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^9]: Az 5. § (2) bekezdése a 706/2020. (XII. 30.) Korm. rendelet 15. §-ával megállapított szöveg.
@@ -28,3 +28,4 @@ c) a nagyvízi mederben fekvő települési belterületen történő építmény
 [^11]: Az 5. § (3) bekezdés b) pontja a 288/2018. (XII. 21.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
 [^12]: Az 5. § (4) bekezdés nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^13]: Az 5. § (5) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (6) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
