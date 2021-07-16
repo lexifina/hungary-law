@@ -1,0 +1,3 @@
+## 15. § Az egyes költségtérítésekről szóló 19/2013. (IX. 6.) HM rendelet (a továbbiakban: R2.) 15. §-a a következő (2a) bekezdéssel egészül ki:
+
+## „(2a) A (2) bekezdéstől eltérően rendkívüli utazási költség címén az állomány tagja, az önkéntes tartalékos katona és a honvédelmi alkalmazott jogosult a munkába járással összefüggő költségeinek megtérítésére, ha az adott viszonylatra bármely más jogcímen részére engedélyezett térítésmentes személyszállítást szolgálati, munkaköri feladatainak végrehajtása miatt igazoltan nem tudta igénybe venni. Ha az állomány tagja a 19. § hatálya alá tartozik, akkor a munkába járási költségtérítésre a 23. § rendelkezései szerint jogosult.”
