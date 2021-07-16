@@ -8,7 +8,7 @@ a) a légiutas-kísérők szakirányú földi kiképzése,
 
 b) a légijármű bérbeadása,
 
-c)[^77] a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/1139 európai parlamenti és tanácsi rendelet] hatálya alá nem tartozó légijármű, annak részei, berendezései és alkatrészei, valamint a légiközlekedéssel kapcsolatos eszköz karbantartása, javítása,
+c)[^80] a polgári légi közlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i (EU) 2018/1139 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/1139 európai parlamenti és tanácsi rendelet] hatálya alá nem tartozó légijármű, annak részei, berendezései és alkatrészei, valamint a légiközlekedéssel kapcsolatos eszköz karbantartása, javítása,
 
 d) a légiközlekedésről szóló 1995. évi XCVII. törvény 20/A. §-a szerinti szakértői tevékenység, valamint
 
@@ -30,13 +30,13 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 2. az engedélyhez kötött légiközlekedési és légiközlekedéssel összefüggő tevékenység engedélyezésével összefüggő eljárások lefolytatása és e tevékenységek folytatásának ellenőrzése,
 
-3.[^78] az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárművek típusalkalmassági vizsgálata,
+3.[^81] az (EU) 2018/1139 európai parlamenti és tanácsi rendelet hatálya alá nem tartozó légijárművek típusalkalmassági vizsgálata,
 
 4. a lajstromozásra kötelezett légijárművek egyedi légialkalmasságának vizsgálata és ellenőrzése, valamint a légialkalmassági bizonyítvány kiadása és időbeli hatályának meghosszabbítása,
 
 5. a 139/2014/EU bizottsági rendelet hatálya alá nem tartozó repülőterek állapotának és üzemben tartásának vizsgálata és ellenőrzése, valamint a repülőtér üzemben tartási engedélyének kiadása és időbeli hatályának meghosszabbítása, a repülőtérrendek jóváhagyása,
 
-6.[^79] az ATM/ANS rendszerhez tartozó polgári légiforgalmi földi berendezés valamint az egyéb földi berendezések telepítésének, üzemben tartásának, módosításának és megszüntetésének engedélyezéséhez szükséges hatósági eljárás lefolytatása, valamint a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló („léginavigációs-szolgálati rendelet”), 2004. március 10-i európai parlamenti és tanácsi 550/2004/EK rendelet 4. és 6. cikke alapján kiadott végrehajtási rendeleteknek megfelelően végzett felügyelete,
+6.[^82] az ATM/ANS rendszerhez tartozó polgári légiforgalmi földi berendezés valamint az egyéb földi berendezések telepítésének, üzemben tartásának, módosításának és megszüntetésének engedélyezéséhez szükséges hatósági eljárás lefolytatása, valamint a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló („léginavigációs-szolgálati rendelet”), 2004. március 10-i európai parlamenti és tanácsi 550/2004/EK rendelet 4. és 6. cikke alapján kiadott végrehajtási rendeleteknek megfelelően végzett felügyelete,
 
 7. a légiközlekedési akadállyal kapcsolatos légiközlekedési hatósági eljárásnak a rendészetért felelős miniszter által vezetett minisztérium és a honvédelemért felelős miniszter által vezetett minisztérium illetékes szerveivel egyetértésben való lefolytatása,
 
@@ -72,7 +72,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 23. a polgári légi közlekedés védelmének közös szabályairól és a 2320/2002/EK rendelet hatályon kívül helyezéséről szóló, 2008. március 11-i 300/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 300/2008/EK rendelet) 9. cikke szerinti felelős hatósági feladatok ellátása,
 
-24.[^80] az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, ellátja az (EU) 2019/317 bizottsági végrehajtási rendeletben a nemzeti felügyeleti hatóságra vonatkozóan megállapított feladatokat, továbbá az (EU) 2015/340 bizottsági rendelet 5. cikke szerinti illetékes hatóságként gondoskodik az (EU) 2015/340 bizottsági rendeletben meghatározott feladatok ellátásáról,
+24.[^83] az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és tanácsi rendelet 4. cikke rendelkezésének megfelelően kijelölt nemzeti felügyeleti hatóságként gondoskodik az e cikkben meghatározott tevékenység ellátása érdekében hatáskörébe utalt feladatok végrehajtásáról, ellátja az (EU) 2019/317 bizottsági végrehajtási rendeletben a nemzeti felügyeleti hatóságra vonatkozóan megállapított feladatokat, továbbá az (EU) 2015/340 bizottsági rendelet 5. cikke szerinti illetékes hatóságként gondoskodik az (EU) 2015/340 bizottsági rendeletben meghatározott feladatok ellátásáról,
 
 25. a kormányzati frekvenciagazdálkodási hatósággal együttműködve nemzeti és nemzetközi frekvenciaegyeztetést végez a légiközlekedést szolgáló légiforgalmi célú földi rádióberendezések üzembe helyezési eljárásának keretében,
 
@@ -80,7 +80,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 27. a légijárművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU rendeletben írt (a továbbiakban: 1321/2014/EU rendelet) kijelölt illetékes hatóságként gondoskodik az e pontokban meghatározott feladatok végrehajtásáról,
 
-28.[^81] gondoskodik – az Európai Repülésbiztonsági Ügynökséggel kötött megállapodás alapján – (EU) 2018/1139 európai parlamenti és tanácsi rendelet 77. cikk (2) és (3) bekezdésében meghatározott feladatok végrehajtásáról,
+28.[^84] gondoskodik – az Európai Repülésbiztonsági Ügynökséggel kötött megállapodás alapján – (EU) 2018/1139 európai parlamenti és tanácsi rendelet 77. cikk (2) és (3) bekezdésében meghatározott feladatok végrehajtásáról,
 
 29. jóváhagyja Magyarország területén kereskedelmi célból leszálló, illetve onnan induló, menetrend szerinti nemzetközi repülést végrehajtó légitársaság menetrendjét,
 
@@ -96,7 +96,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 35. gondoskodik az egységes európai égbolt S-módú lekérdezési kódjainak összehangolt kiosztására és használatára vonatkozó követelmények megállapításáról szóló, 2009. március 30-i 262/2009/EK bizottsági rendeletben meghatározott lekérdezési kód kiosztásáról és a kapcsolódó feladatok végrehajtásáról,
 
-36.[^82] ellátja a légijárműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon lajstromozott légijárművek esetében, amelyek jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek, valamint végzi a földi eszközökön üzemeltetett válaszjeladókhoz kapcsolódó kódkiosztást,,
+36.[^85] ellátja a légijárműhöz a levegő-föld kommunikáció, a navigáció és a radarfelderítés céljából hozzárendelt 24 bitből álló légi jármű cím kiosztásának feladatát azon lajstromozott légijárművek esetében, amelyek jogszabály szerint „S” módú fedélzeti transzponderrel való felszerelésre kötelezettek, valamint végzi a földi eszközökön üzemeltetett válaszjeladókhoz kapcsolódó kódkiosztást,,
 
 37. elfogadja a légiközlekedési szakszemélyzet képzési szervezete, a gazdasági célú légiközlekedési tevékenység végzésére kiadott, üzemben tartási engedéllyel rendelkező légijármű üzemben tartója, a kereskedelmi repülőtér üzemben tartója, a légijármű karbantartó, tervező és gyártó szervezetek által kidolgozott Repülésbiztonság-irányítási Rendszert, valamint ellenőrzi annak működtetését,
 
@@ -136,13 +136,13 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 55. a 2015/1998 bizottsági (EU) végrehajtási rendelet Melléklet 11.6. pontjában meghatározott uniós légiközlekedés-védelmi ellenőrzés végrehajtása, valamint az uniós légiközlekedési védelmi ellenőrök jóváhagyása,
 
-56.[^83] gondoskodik a teljesítménytervek és teljesítménycélok (EU) 2019/317 bizottsági végrehajtási rendelet 10. cikk (6) bekezdése szerinti módosításáról, a teljesítményterv tervezetének az (EU) 2019/317 bizottsági végrehajtási rendelet 12. cikke szerinti benyújtásáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 13. cikk (2) bekezdésében, 14. cikk (3) bekezdésében, 15. cikk (6) bekezdésében a tagállamok részére megállapított feladatok végrehajtásáról, a teljesítménycéloknak az (EU) 2019/317 bizottsági végrehajtási rendelet 18. cikk (1) bekezdése szerinti felülvizsgálatáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 6. cikkében, 24. cikk (2) és (3) bekezdésében, valamint 30. cikk (1) bekezdésében meghatározott konzultációk lefolytatásáról, továbbá az (EU) 2019/317 bizottsági végrehajtási rendelet 24. cikk (4) bekezdésében, 30. cikk (2) bekezdésében és 38. cikk (1) bekezdés c)–e) pontjában foglaltak végrehajtásáról,
+56.[^86] gondoskodik a teljesítménytervek és teljesítménycélok (EU) 2019/317 bizottsági végrehajtási rendelet 10. cikk (6) bekezdése szerinti módosításáról, a teljesítményterv tervezetének az (EU) 2019/317 bizottsági végrehajtási rendelet 12. cikke szerinti benyújtásáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 13. cikk (2) bekezdésében, 14. cikk (3) bekezdésében, 15. cikk (6) bekezdésében a tagállamok részére megállapított feladatok végrehajtásáról, a teljesítménycéloknak az (EU) 2019/317 bizottsági végrehajtási rendelet 18. cikk (1) bekezdése szerinti felülvizsgálatáról, az (EU) 2019/317 bizottsági végrehajtási rendelet 6. cikkében, 24. cikk (2) és (3) bekezdésében, valamint 30. cikk (1) bekezdésében meghatározott konzultációk lefolytatásáról, továbbá az (EU) 2019/317 bizottsági végrehajtási rendelet 24. cikk (4) bekezdésében, 30. cikk (2) bekezdésében és 38. cikk (1) bekezdés c)–e) pontjában foglaltak végrehajtásáról,
 
-57.[^84] kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésében, 3. cikk (6) bekezdésében, 5. cikk (1) és (2) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint a II. mellékletében meghatározott feladatok végrehajtásáról és a hatálya alá tartozó repülőterek repülőtéri kézikönyvének jóváhagyásáról,
+57.[^87] kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésében, 3. cikk (6) bekezdésében, 5. cikk (1) és (2) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint a II. mellékletében meghatározott feladatok végrehajtásáról és a hatálya alá tartozó repülőterek repülőtéri kézikönyvének jóváhagyásáról,
 
 58. az 598/2014/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik az 598/2014/EU európai parlamenti és tanácsi rendeletben meghatározott, a légijárművek zajának kezelésére, az egyes repülőterek zajhelyzetének értékelésére, az üzemeltetési korlátozások bevezetésére és a bizottság értesítésére vonatkozó feladatok végrehajtásáról,
 
-59.[^85]
+59.[^88]
 
 60. a 139/2014/EU bizottsági rendelet 10. cikk (1) bekezdés a) pontjának megfelelően a vadon élő állatok és a légijárművek közötti ütközésekre vonatkozó nemzeti nyilvántartási és bejelentési eljárást dolgoz ki és működtet,
 
@@ -164,7 +164,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 69. a repülésmeteorológiai szolgáltatók, mint léginavigációs szolgáltatók tanúsítása és hatósági felügyelete,
 
-70. a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök légiközlekedéssel érintett település esetében történő egyeztetési eljárásai,
+70.[^89] a településfejlesztési terv és a településrendezési terv légiközlekedéssel érintett település esetében történő egyeztetési eljárásai,
 
 71. eljár az állami repülések céljára szolgáló és a közös felhasználású repülőterek kivételével a repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, megszüntetésére és fejlesztésére irányuló eljárásban,
 
@@ -172,25 +172,25 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 73. építésügyi hatóságként eljár a repülőtér területén lévő, a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építményekkel kapcsolatos eljárásokban,
 
-74.[^86] a légiközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként jár el,
+74.[^90] a légiközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként jár el,
 
-75.[^87] vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
+75.[^91] vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
 
-76.[^88] közreműködés a vízi repülőteret is érintő vízi sportpálya kijelölésében.
+76.[^92] közreműködés a vízi repülőteret is érintő vízi sportpálya kijelölésében.
 
-77.[^89] Ellátja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 70. és 71. cikkében a tagállamok számára meghatározott feladatokat.
+77.[^93] Ellátja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 70. és 71. cikkében a tagállamok számára meghatározott feladatokat.
 
-78.[^90] az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.
+78.[^94] az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.
 
-79.[^91] ellátja az (EU) 2019/945 felhatalmazáson alapuló bizottsági rendeletben meghatározott bejelentő hatóságra, valamint piacfelügyeleti hatóságra vonatkozó feladatokat,
+79.[^95] ellátja az (EU) 2019/945 felhatalmazáson alapuló bizottsági rendeletben meghatározott bejelentő hatóságra, valamint piacfelügyeleti hatóságra vonatkozó feladatokat,
 
-80.[^92] ellátja az (EU) 2019/947 bizottsági végrehajtási rendelet 18. cikkében – ide nem értve annak c) pontját – meghatározott, az illetékes hatóságnak címzett feladatokat,
+80.[^96] ellátja az (EU) 2019/947 bizottsági végrehajtási rendelet 18. cikkében – ide nem értve annak c) pontját – meghatározott, az illetékes hatóságnak címzett feladatokat,
 
-81.[^93] közzéteszi a honlapján a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. melléklet 2. számú Korlátozott légterek táblázatban szereplő légtereket, valamint az adott légtérben pilóta nélküli légijárművekkel hozzájárulással végrehajtható műveletekhez hozzájárulást adni jogosult szervezet nevét, valamint a kapcsolattartást biztosító elérhetőségeit,
+81.[^97] közzéteszi a honlapján a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. melléklet 2. számú Korlátozott légterek táblázatban szereplő légtereket, valamint az adott légtérben pilóta nélküli légijárművekkel hozzájárulással végrehajtható műveletekhez hozzájárulást adni jogosult szervezet nevét, valamint a kapcsolattartást biztosító elérhetőségeit,
 
-82.[^94] jóváhagyja a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 8/D. §-ában meghatározott háromoldalú koordinációs együttműködési megállapodást,
+82.[^98] jóváhagyja a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 8/D. §-ában meghatározott háromoldalú koordinációs együttműködési megállapodást,
 
-83.[^95] ellátja a távoli pilóták képzését végző képzőszervek felügyeletét.
+83.[^99] ellátja a távoli pilóták képzését végző képzőszervek felügyeletét.
 
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
@@ -204,22 +204,23 @@ c) a repülésszimulációs oktatóeszköz engedélyének kiadására és módos
 
 d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzésére, valamint a légijármű üzemben tartási engedély kiadására, időbeli hatályának meghosszabbítására irányuló
 
-[^77]: A 9. § (2) bekezdés c) pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
-[^78]: A 9. § (4) bekezdés 3. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^79]: A 9. § (4) bekezdés 6. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^80]: A 9. § (4) bekezdés 24. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^81]: A 9. § (4) bekezdés 28. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^82]: A 9. § (4) bekezdés 36. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^83]: A 9. § (4) bekezdés 56. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^84]: A 9. § (4) bekezdés 57. pontja a 9/2021. (I. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^85]: A 9. § (4) bekezdés 59. pontját a 348/2019. (XII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
-[^86]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
-[^87]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^88]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^89]: A 9. § (4) bekezdés 77. pontját a 722/2020. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
-[^90]: A 9. § (4) bekezdés 78. pontját a 9/2021. (I. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^91]: A 9. § (4) bekezdés 79. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^92]: A 9. § (4) bekezdés 80. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^93]: A 9. § (4) bekezdés 81. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^94]: A 9. § (4) bekezdés 82. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^95]: A 9. § (4) bekezdés 83. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^80]: A 9. § (2) bekezdés c) pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^81]: A 9. § (4) bekezdés 3. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^82]: A 9. § (4) bekezdés 6. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^83]: A 9. § (4) bekezdés 24. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^84]: A 9. § (4) bekezdés 28. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^85]: A 9. § (4) bekezdés 36. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^86]: A 9. § (4) bekezdés 56. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^87]: A 9. § (4) bekezdés 57. pontja a 9/2021. (I. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^88]: A 9. § (4) bekezdés 59. pontját a 348/2019. (XII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^89]: A 9. § (4) bekezdés 70. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^90]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^91]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^92]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^93]: A 9. § (4) bekezdés 77. pontját a 722/2020. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
+[^94]: A 9. § (4) bekezdés 78. pontját a 9/2021. (I. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^95]: A 9. § (4) bekezdés 79. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^96]: A 9. § (4) bekezdés 80. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^97]: A 9. § (4) bekezdés 81. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^98]: A 9. § (4) bekezdés 82. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^99]: A 9. § (4) bekezdés 83. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.

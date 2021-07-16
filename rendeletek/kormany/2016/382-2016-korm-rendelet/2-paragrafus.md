@@ -42,13 +42,13 @@ e)[^4]
 
 13. a gyorsforgalmi utak, valamint a közúti határátkelőhelyek útjai tekintetében az országos közút helyi közúttá vagy magánúttá, a helyi közút országos közúttá vagy magánúttá, a magánút helyi közúttá vagy országos közúttá nyilvánításával kapcsolatos ügyek,
 
-14. a településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök a gyorsforgalmi úttal, a közúti határátkelőhellyel érintett település esetében történő egyeztetési eljárásai
+14.[^5] a településfejlesztési terv és a településrendezési terv a gyorsforgalmi úttal, a közúti határátkelőhellyel érintett település esetében történő egyeztetési eljárásai
 
 ## során.
 
-(3)[^5] Útügyi közlekedési hatóságként a fővárosi és megyei kormányhivatal jár el
+(3)[^6] Útügyi közlekedési hatóságként a fővárosi és megyei kormányhivatal jár el
 
-1.[^6] a (2) bekezdés 1–3. pontjában, valamint a (4) bekezdés 2. pontjában meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével vagy bejelentésével összefüggő ügyek,
+1.[^7] a (2) bekezdés 1–3. pontjában, valamint a (4) bekezdés 2. pontjában meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével vagy bejelentésével összefüggő ügyek,
 
 2. az engedélyezési hatáskörébe tartozó utak 30 m szabadnyílást meg nem haladó hídjai kiviteli tervének jóváhagyása,
 
@@ -104,37 +104,38 @@ e)[^4]
 
 28. az engedélyezési hatáskörébe tartozó utak tekintetében elektronikus közúti ellenőrző rendszer, illetve ellenőrző berendezés elhelyezéséhez szükséges hozzájárulás kiadása,
 
-29.[^7] a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
+29.[^8] a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
 
-30.[^8] a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése
+30.[^9] a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése
 
 ## során.
 
-(4)[^9] Útügyi közlekedési hatóságként a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala jár el:
+(4)[^10] Útügyi közlekedési hatóságként a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala jár el:
 
 1. az elhelyezési tilalom alá eső jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolításával kapcsolatos ügyek,
 
-2.[^10] a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése – ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést –,
+2.[^11] a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése – ide nem értve a gyalog- és kerékpárutakat, valamint a közút építésével összefüggő járdaépítést –,
 
-3.[^11]
+3.[^12]
 
 4. a közlekedés biztonsága, az út állagának védelme érdekében az út melletti ingatlan tulajdonosának kötelezése
 
 ## során.
 
-(5)[^12]
+(5)[^13]
 
-(6)[^13]
+(6)[^14]
 
 [^2]: A 2. § (1) bekezdése a 236/2020. (V. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdés d) pontját a 446/2020. (X. 1.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
 [^4]: A 2. § (1) bekezdés e) pontját a 446/2020. (X. 1.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^5]: A 2. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^6]: A 2. § (3) bekezdés 1. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § a) pontja, a 446/2020. (X. 1.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^7]: A 2. § (3) bekezdés 29. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
-[^8]: A 2. § (3) bekezdés 30. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
-[^9]: A 2. § (4) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^10]: A 2. § (4) bekezdés 2. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte, újonnan a 446/2020. (X. 1.) Korm. rendelet 4. §-a iktatta be.
-[^11]: A 2. § (4) bekezdés 3. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
-[^12]: A 2. § (5) bekezdését a 446/2020. (X. 1.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^13]: A 2. § (6) bekezdését a 446/2020. (X. 1.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^5]: A 2. § (2) bekezdés 14. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^7]: A 2. § (3) bekezdés 1. pontja a 60/2017. (III. 20.) Korm. rendelet 27. § a) pontja, a 446/2020. (X. 1.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^8]: A 2. § (3) bekezdés 29. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
+[^9]: A 2. § (3) bekezdés 30. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (1) bekezdése iktatta be.
+[^10]: A 2. § (4) bekezdés nyitó szövegrésze a 31/2020. (II. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^11]: A 2. § (4) bekezdés 2. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte, újonnan a 446/2020. (X. 1.) Korm. rendelet 4. §-a iktatta be.
+[^12]: A 2. § (4) bekezdés 3. pontját a 171/2017. (VI. 29.) korm. rendelet 23. § (3) bekezdése hatályon kívül helyezte.
+[^13]: A 2. § (5) bekezdését a 446/2020. (X. 1.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^14]: A 2. § (6) bekezdését a 446/2020. (X. 1.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
