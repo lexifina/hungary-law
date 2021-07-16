@@ -1,6 +1,6 @@
 ## vonatkozó előírásoknak nem felel meg.
 
-## 8/B. [^4] A légfűtő eszközökre, a hűtőeszközökre, a magas hőmérsékletű technológiai hűtőkre és a ventilátoros konvektorokra vonatkozó forgalombahozatali előírások
+## 8/B. [^6] A légfűtő eszközökre, a hűtőeszközökre, a magas hőmérsékletű technológiai hűtőkre és a ventilátoros konvektorokra vonatkozó forgalombahozatali előírások
 
 10/B. § (1) 2018. január 1-jétől nem hozható forgalomba
 
@@ -24,4 +24,4 @@ b) olyan hűtőeszköz, amely a 2016/2281/EU bizottsági rendeletben foglalt má
 
 c) olyan magas hőmérsékletű technológiai hűtő, amely a 2016/2281/EU bizottsági rendeletben foglalt második ütemre meghatározott szezonális hűtési jóságfokra
 
-[^4]: A 8/B. alcímet (10/B. §) a 260/2017. (IX. 11.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 8/B. alcímet (10/B. §) a 260/2017. (IX. 11.) Korm. rendelet 1. §-a iktatta be.

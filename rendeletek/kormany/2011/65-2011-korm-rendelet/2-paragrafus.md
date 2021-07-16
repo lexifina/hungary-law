@@ -6,13 +6,13 @@
 
 2. anyagok: minden olyan anyag, amelyet az energiával kapcsolatos termék életciklusa alatt felhasználnak;
 
-3. CE-jelölés: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 20. pontjában meghatározott jelölés;
+3.[^1] CE-jelölés: a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 20. pontjában meghatározott jelölés;
 
 4. energiával kapcsolatos termék: az a forgalomba hozatalra szánt, illetve használatba vett termék, amely rendeltetése szerinti használata során hatást gyakorol az energiafogyasztásra, továbbá azon energiával kapcsolatos termékekbe beépítendő alkatrész vagy részegység, amelyet a végfelhasználók részére szánt egyedi alkatrészként hoznak forgalomba vagy vesznek használatba, és amelynek környezetre gyakorolt hatását önállóan lehet értékelni;
 
 5. életciklus: az energiával kapcsolatos termék létezésének egymás után következő és egymással kapcsolatban levő szakaszai a nyersanyag felhasználásától a végső ártalmatlanításig;
 
-6. forgalomba hozatal: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott fogalom;
+6.[^2] forgalomba hozatal: a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet 3. cikk 2. pontjában meghatározott fogalom;
 
 7. gyártó: bármely természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely ennek a rendeletnek a hatálya alá tartozó termékeket gyárt, és felelős azért, hogy az energiával kapcsolatos termék – saját neve vagy védjegye alatt, vagy a gyártó saját használatára történő – forgalomba hozatalára vagy használatbavételére tekintettel megfeleljen ennek a rendeletnek, továbbá a gyártó vagy a 12. pontban meghatározott importőr hiányában bármely természetes vagy jogi személy, aki az e rendelet hatálya alá tartozó termékeket forgalomba hoz, illetve használatba vesz;
 
@@ -47,3 +47,6 @@
 22. terméktervezés: azon eljárások sorozata, amelyekkel az energiával kapcsolatos termékre vonatkozó jogi, műszaki, biztonságossági, funkcionális, piaci vagy egyéb követelményt az energiával kapcsolatos termék műszaki előírásaivá alakítják át;
 
 23. újrafeldolgozás: olyan termelési folyamat, amely során a hulladék anyagát az eredeti vagy más célra ismételten felhasználják, ide nem értve az energetikai hasznosítást.
+
+[^1]: A 2. § 3. pontja a 246/2020. (V. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 6. pontja a 246/2020. (V. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
