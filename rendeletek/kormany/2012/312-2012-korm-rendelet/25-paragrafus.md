@@ -8,7 +8,7 @@ a) engedélyezését a kiemelt településképi vélemény nem javasolta, vagy
 
 b) az Étv. 19. § (4) bekezdésében foglaltak szerinti, és a központi építészeti tervtanács szakmai véleményében engedélyezésre nem ajánlotta.
 
-(3a)[^143] A polgármesternek a tervezett építési tevékenység vonatkozásában kiadott településképi véleményét a hatóság bizonyítékként veszi figyelembe.
+(3a)[^143] A képviselő-testületnek a tervezett építési tevékenység vonatkozásában kiadott településképi véleményét a hatóság bizonyítékként veszi figyelembe.
 
 (4) Az elvi építési keretengedély építési tevékenység végzésére nem jogosít.
 
@@ -38,7 +38,7 @@ f) az engedély hatályát.
 
 (8)[^147] A döntés indokolási része végzés esetén az Ákr. 81. § (1) bekezdésében foglaltakon kívül, a rendelkezéstől függően tartalmazza:
 
-a)[^148] a kiemelt településképi véleményt, a települési önkormányzat polgármestere településképi véleményének vagy az építészeti-műszaki tervtanács véleményének figyelembevételi módját, annak indokolását,
+a)[^148] a kiemelt településképi véleménynek, a képviselő-testület településképi véleményének vagy az építészeti-műszaki tervtanács véleményének figyelembevételi módját, annak indokolását,
 
 b) az engedély megadása feltételeinek indokolását,
 
@@ -59,11 +59,11 @@ c) a tájékoztatást arról, hogy a jogorvoslatra nyitva álló idő alatt az �
 [^140]: A 25. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 28. pontja, a 150/2018. (VIII. 13.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
 [^141]: A 25. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (11) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^142]: A 25. § (3) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^143]: A 25. § (3a) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^143]: A 25. § (3a) bekezdését a 700/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
 [^144]: A 25. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 5. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^145]: A 25. § (7) bekezdés nyitó szövegrésze a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 29. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^146]: A 25. § (7) bekezdés e) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^146]: A 25. § (7) bekezdés e) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés h) pontja szerint módosított szöveg. [A 420/2021. (VII. 15.) Korm. rendelet 61. § 7. pontjával elrendelt módosítás, amely szerint a „vélemény, a települési önkormányzat polgármestere” szövegrész helyébe a „véleményt, a képviselő-testület” szöveg lép, nem vezethető át.]
 [^147]: A 25. § (8) bekezdés nyitó szövegrésze a 67/2013. (III. 8.) Korm. rendelet 18. § (7) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 412. § 30. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^148]: A 25. § (8) bekezdés a) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^148]: A 25. § (8) bekezdés a) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés i) pontja, a 420/2021. (VII. 15.) Korm. rendelet 61. § 8. pontja szerint módosított szöveg.
 [^149]: A 25. § (8) bekezdés c) pontját a 457/2017. (XII. 28.) Korm. rendelet 413. § 20. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^150]: A 25. § (9) bekezdés b) pontját a 700/2020. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.

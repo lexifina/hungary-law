@@ -36,7 +36,7 @@ d)[^85]
 
 (6)[^86] Az építési engedély iránti kérelem benyújtásával egyidejűleg, jogszabályban előírt esetekben igazolni kell, hogy
 
-a)[^87] a települési önkormányzat polgármestere vagy a főpolgármester településképi véleményt adott, vagy
+a)[^87] a települési önkormányzat településképi véleményt adott, vagy
 
 b)[^88] a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményt adott.
 
@@ -74,7 +74,7 @@ b)[^94] a 4. § (4) bekezdése szerinti nyilatkozatokat.
 [^84]: A 17. § (4) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^85]: A 17. § (4) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
 [^86]: A 17. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (8) bekezdésével, nyitó szövegrésze a 13/2019. (II. 11.) Korm. rendelet 18. § 5. pontja szerint módosított szöveg. Alkalmazására lásd az előbbi módosító rendelet 618. §-át.
-[^87]: A 17. § (6) bekezdés a) pontja a 13/2019. (II. 11.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^87]: A 17. § (6) bekezdés a) pontja a 13/2019. (II. 11.) Korm. rendelet 18. § 6. pontja, a 420/2021. (VII. 15.) Korm. rendelet 61. § 3. pontja szerint módosított szöveg.
 [^88]: A 17. § (6) bekezdés b) pontja a 13/2019. (II. 11.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
 [^89]: A 17. § (6a) bekezdését a 19/2018. (II. 14.) Korm. rendelet 58. § (2) bekezdése iktatta be.
 [^90]: A 17. § (7) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 15. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

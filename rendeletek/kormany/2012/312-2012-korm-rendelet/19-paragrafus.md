@@ -28,7 +28,7 @@ e) a tervezett építési tevékenység végzésével kapcsolatban szükségess�
 
 f) az engedély megadásának egyéb feltételeit,
 
-g)[^110] a kiemelt településképi véleményt, a települési önkormányzat polgármesterének településképi véleményét vagy az építészeti-műszaki tervtanács véleményét,
+g)[^110] a kiemelt településképi véleményt, a képviselő-testület településképi véleményét vagy az építészeti-műszaki tervtanács véleményét,
 
 h) az engedély hatályát,
 
@@ -36,7 +36,7 @@ i)[^111] a 2015. december 31-ét követően benyújtott, az épületek energetik
 
 (5)[^112] A határozat indokolási része az Ákr. 81. § (1) bekezdésében foglaltakon kívül, a rendelkezéstől függően tartalmazza:
 
-a)[^113] a szakértői véleménynek, a kiemelt településképi véleménynek, a települési önkormányzat polgármestere településképi véleményének vagy az építészeti-műszaki tervtanács véleményének figyelembevételi módját, annak indokolását,
+a)[^113] a szakértői véleménynek, a kiemelt településképi véleménynek, a képviselő-testület településképi véleményének vagy az építészeti-műszaki tervtanács véleményének figyelembevételi módját, annak indokolását,
 
 b) a döntés kikötéseinek és az építési engedély megadása feltételeinek indokolását,
 
@@ -72,10 +72,10 @@ i)[^119] a (4) bekezdés i) pontjában meghatározott épületek esetén figyelm
 [^107]: A 19. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (9) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^108]: A 19. § (4) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^109]: A 19. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (9) bekezdésével megállapított szöveg.
-[^110]: A 19. § (4) bekezdés g) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^110]: A 19. § (4) bekezdés g) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 61. § 4. pontja szerint módosított szöveg.
 [^111]: A 19. § (4) bekezdés i) pontját a 262/2015. (IX. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 114/2021. (III. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^112]: A 19. § (5) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 18. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^113]: A 19. § (5) bekezdés a) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^113]: A 19. § (5) bekezdés a) pontja a 19/2018. (II. 14.) Korm. rendelet 58. § (4) bekezdés e) pontja, a 420/2021. (VII. 15.) Korm. rendelet 61. § 5. pontja szerint módosított szöveg.
 [^114]: A 19. § (6) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 412. § 19. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^115]: A 19. § (6) bekezdés c) pontja a 440/2013. (XI. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^116]: A 19. § (6) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
