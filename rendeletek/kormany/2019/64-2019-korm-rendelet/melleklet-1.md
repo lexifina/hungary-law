@@ -1,8 +1,8 @@
-## 17. §[^9] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (1) bekezdését a Módr. hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
+## 17. §[^10] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (1) bekezdését a Módr. hatálybalépésekor[^11] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 64/2019. (III. 27.) Korm. rendelethez
 
-A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -52,5 +52,5 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^9]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 196/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^10]: A hatálybalépés időpontja 2020. május 13.
+[^10]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 196/2020. (V. 12.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^11]: A hatálybalépés időpontja 2020. május 13.
