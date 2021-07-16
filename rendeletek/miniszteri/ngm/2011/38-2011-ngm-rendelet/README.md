@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-38-20-2
 | 2019-09-01 | 2011-38-20-2X.15 | 25/2019. (VIII. 26.) ITM rendelet |
 | 2019-11-18 | 2011-38-20-2X.16 | 14/2018. (IX. 4.) ITM rendelet |
 | 2021-07-01 | 2011-38-20-2X.17 | 29/2021. (VI. 30.) ITM rendelet |
+| 2021-07-16 | 2011-38-20-2X.18 | 25/2020. (VII. 3.) ITM rendelet |

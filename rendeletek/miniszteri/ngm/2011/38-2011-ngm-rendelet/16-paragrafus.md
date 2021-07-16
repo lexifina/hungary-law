@@ -6,9 +6,9 @@
 
 (3) Más tagállam piacfelügyeleti hatóságának megalapozott kérését követően a gyártónak a műszaki dokumentáció releváns részeiről fordítást kell készíttetnie a kérést benyújtó tagállam nyelvére.
 
-(4)[^2]
+(4)[^7]
 
-(5)[^3]
+(5)[^8]
 
-[^2]: A 16. § (4) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
-[^3]: A 16. § (5) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
+[^7]: A 16. § (4) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
+[^8]: A 16. § (5) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.

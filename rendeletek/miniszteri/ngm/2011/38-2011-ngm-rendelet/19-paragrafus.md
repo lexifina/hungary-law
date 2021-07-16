@@ -1,12 +1,12 @@
-## 18. §[^5]
+## 18. §[^10]
 
-19. § (1)[^6]
+19. § (1)[^11]
 
-(2)[^7]
+(2)[^12]
 
-(3)[^8]
+(3)[^13]
 
-[^5]: A 18. §-t a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
-[^6]: A 19. § (1) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
-[^7]: A 19. § (2) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
-[^8]: A 19. § (3) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
+[^10]: A 18. §-t a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
+[^11]: A 19. § (1) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
+[^12]: A 19. § (2) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
+[^13]: A 19. § (3) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.

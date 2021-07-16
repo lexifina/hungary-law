@@ -1,3 +1,3 @@
-## 11.[^9]
+## 11.[^14]
 
-[^9]: A 11. alcímet (20–21. §) a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.
+[^14]: A 11. alcímet (20–21. §) a 25/2019. (VIII. 26.) ITM rendelet 9. §-a hatályon kívül helyezte.

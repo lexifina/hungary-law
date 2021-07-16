@@ -2,13 +2,13 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. forgalmazás: a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 1. pontjában meghatározott fogalom;
+1.[^1] forgalmazás: a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/1020 rendelet] 3. cikk 1. pontjában meghatározott fogalom;
 
-2. forgalomba hozatal: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott fogalom;
+2.[^2] forgalomba hozatal: az (EU) 2019/1020 rendelet 3. cikk 2. pontjában meghatározott fogalom;
 
-3. gyártó: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 3. pontjában meghatározott fogalom;
+3.[^3] gyártó: az (EU) 2019/1020 rendelet 3. cikk 8. pontjában meghatározott fogalom;
 
-4. meghatalmazott képviselő: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 4. pontjában meghatározott fogalom;
+4.[^4] meghatalmazott képviselő: az (EU) 2019/1020 rendelet 3. cikk 12. pontjában meghatározott fogalom;
 
 5. importőr: az EGT-megállapodásban részes államban letelepedett természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely harmadik országból származó játékot a belső piacon forgalomba hoz;
 
@@ -24,7 +24,7 @@
 
 11. EK-típusvizsgálati tanúsítvány: a bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a játék típusmintája a jogszabályban előírt biztonsági előírásoknak megfelel;
 
-12. CE-jelölés: a 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 20. pontjában meghatározott jelölés;
+12.[^5] CE-jelölés: a a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 20. pontjában meghatározott jelölés;
 
 13. visszahívás: minden olyan intézkedés, amelynek célja egy végfelhasználók számára már forgalmazott játék visszaadása;
 
@@ -57,3 +57,9 @@
 27. kockázat: a sérülést okozó veszély bekövetkeztének valószínűsége és a sérülés súlyosságának valószínű mértéke;
 
 28. számára ajánlott: a játék működése, mérete és jellemzői alapján a szülő vagy felügyelő ésszerűen feltételezheti, hogy a játék a megjelölt korcsoportba tartozó gyermekek általi használatra készült.
+
+[^1]: A 2. § 1. pontja a 25/2020. (VII. 3.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 2. pontja a 25/2020. (VII. 3.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 3. pontja a 25/2020. (VII. 3.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § 4. pontja a 25/2020. (VII. 3.) ITM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 12. pontja a 25/2020. (VII. 3.) ITM rendelet 4. § (2) bekezdése szerint módosított szöveg.
