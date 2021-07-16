@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-448-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-10-02 | 2020-448-20-22.1 | 448/2020. (X. 1.) Korm. rendelet |
+| 2021-07-16 | 2020-448-20-22.2 | 420/2021. (VII. 15.) Korm. rendelet |
