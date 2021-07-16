@@ -1,8 +1,8 @@
-## 27/F. §[^153] A DKÜ működésével összefüggésben álló beszerzési eljárás esetében az ÁAFK Kr. rendelkezéseit nem kell alkalmazni.
+## 27/F. §[^155] A DKÜ működésével összefüggésben álló beszerzési eljárás esetében az ÁAFK Kr. rendelkezéseit nem kell alkalmazni.
 
-27/G. §[^154] (1) A 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás, valamint a DKÜ működésével összefüggésben álló beszerzési eljárás, valamint az ezek eredményeképpen megkötött szerződések módosítása esetében a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet előírásait akként kell alkalmazni, hogy a közbeszerzési eljárással, valamint a szerződésmódosítással összefüggésben csak utóellenőrzés szükséges.
+27/G. §[^156] (1) A 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás, valamint a DKÜ működésével összefüggésben álló beszerzési eljárás, valamint az ezek eredményeképpen megkötött szerződések módosítása esetében a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet előírásait akként kell alkalmazni, hogy a közbeszerzési eljárással, valamint a szerződésmódosítással összefüggésben csak utóellenőrzés szükséges.
 
 (2) A 13. § (1) bekezdés b) pontja szerinti esetben az érintett szervezet, ha a beszerzési igényét az e rendelet szerinti sajátos beszerzési módszerekkel megkötött keretmegállapodás vagy más keretjellegű szerződés alkalmazásával elégíti ki, az ellenőrzés alapjául szolgáló dokumentumok rendelkezésre bocsátását részben vagy egészben úgy is teljesítheti, hogy a 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás dokumentumai helyett, amennyiben az a DKÜ-nél már rendelkezésre áll, a korábban lefolytatott utóellenőrzés eredményeképpen megszületett jelentést – több szakaszból álló eljárás esetén az egyes szakaszokhoz kapcsolódó jelentéseket – bocsátja az ellenőrzést végző szervezet rendelkezésére. A 13. § (1) bekezdés a) pontja szerinti beszerzési eljárás utóellenőrzését a DKÜ az ellenőrzését végző szervezetnél közvetlenül kezdeményezheti.
 
-[^153]: A 27/F. §-t a 182/2019. (VII. 26.) Korm. rendelet 6. § (22) bekezdése iktatta be.
-[^154]: A 27/G. §-t a 304/2021. (VI. 2.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^155]: A 27/F. §-t a 182/2019. (VII. 26.) Korm. rendelet 6. § (22) bekezdése iktatta be.
+[^156]: A 27/G. §-t a 304/2021. (VI. 2.) Korm. rendelet 1. § (4) bekezdése iktatta be.

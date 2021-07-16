@@ -1,6 +1,6 @@
-28/A. §[^160] (1)[^161]
+28/A. §[^162] (1)[^163]
 
 (2) A DKÜ az EKR-en kívüli más informatikai rendszer alkalmazásakor a piacon elérhető vagy saját maga által kifejlesztett elektronikus rendszereket is felhasználhatja.
 
-[^160]: A 28/A. §-t a 83/2019. (IV. 18.) Korm. rendelet 6. § (8) bekezdése iktatta be.
-[^161]: A 28/A. § (1) bekezdését a 304/2021. (VI. 2.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^162]: A 28/A. §-t a 83/2019. (IV. 18.) Korm. rendelet 6. § (8) bekezdése iktatta be.
+[^163]: A 28/A. § (1) bekezdését a 304/2021. (VI. 2.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

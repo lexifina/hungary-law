@@ -1,3 +1,3 @@
-22. §[^133]
+22. §[^135]
 
-[^133]: A 22. §-t a 83/2019. (IV. 18.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^135]: A 22. §-t a 83/2019. (IV. 18.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.

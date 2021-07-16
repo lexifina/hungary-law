@@ -4,10 +4,14 @@
 
 (2) Az NHIT-t elnök vezeti, az elnök az NHIT tagja.
 
-(3)[^128] Az elnök munkáját alelnök segíti, az alelnök az NHIT tagja.
+(2a)[^128] Az elnöki feladatkör társadalmi megbízatás keretében is ellátható, azzal, hogy ebben az esetben az elnök tiszteletdíjra nem jogosult.
 
-(4) Az NHIT elnöke az államtitkár illetményének megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye kilencven százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye nyolcvan százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig.
+(3)[^129] Az elnök munkáját alelnök segíti, az alelnök az NHIT tagja.
+
+(4)[^130] Az NHIT elnöke – a (2a) bekezdésben meghatározott kivétellel – az államtitkár illetményének megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye kilencven százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye nyolcvan százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig.
 
 (5) Az NHIT tevékenységének a támogatására a Kormány a Miniszterelnöki Kormányirodát jelöli ki.
 
-[^128]: A 15. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 8. § e) pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 11. pontja szerint módosított szöveg.
+[^128]: A 15. § (2a) bekezdését a 428/2021. (VII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^129]: A 15. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 8. § e) pontja, a 304/2021. (VI. 2.) Korm. rendelet 2. § 11. pontja szerint módosított szöveg.
+[^130]: A 15. § (4) bekezdése a 428/2021. (VII. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.
