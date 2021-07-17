@@ -4,7 +4,7 @@
 
 ## 9. Idegennyelv-tudási pótlék
 
-14. § (1)[^5] A hivatásos állomány tagja a Hszt. 160. § (5) bekezdése szerinti idegennyelv-tudási pótlékra jogosult, ha – angol, francia és német nyelveken kívül – az Európai Unió valamely tagállamának hivatalos nyelvéből, ukrán vagy szerb nyelvből, továbbá a büntetés-végrehajtási szervezet hivatásos állománya esetében lovári nyelvből a Hszt. 160. § (2) bekezdés szerint elismerhető nyelvtudással rendelkezik, és szolgálati beosztása az állománytáblázatban idegennyelv-tudási pótlékra jogosító beosztásként van feltüntetve.
+14. § (1)[^7] A hivatásos állomány tagja a Hszt. 160. § (5) bekezdése szerinti idegennyelv-tudási pótlékra jogosult, ha – angol, francia és német nyelveken kívül – az Európai Unió valamely tagállamának hivatalos nyelvéből, ukrán vagy szerb nyelvből, továbbá a büntetés-végrehajtási szervezet hivatásos állománya esetében lovári nyelvből a Hszt. 160. § (2) bekezdés szerint elismerhető nyelvtudással rendelkezik, és szolgálati beosztása az állománytáblázatban idegennyelv-tudási pótlékra jogosító beosztásként van feltüntetve.
 
 (2) Idegennyelv-tudási pótlék folyósítható az (1) bekezdésben meghatározottakon túli bármely állam hivatalos nyelvének használatáért, ha annak használatát a szolgálati feladatok teljesítése szükségessé teszi és a használat rendszeressége a szolgálatellátás során megállapítható.
 
@@ -12,4 +12,4 @@
 
 (4) A nyelvtanári, tolmács, idegen-nyelvi fordító vagy lektor feladatokra létrehozott szolgálati beosztások idegen nyelv használatához kötött szolgálati beosztások. Ilyen szolgálati beosztást ellátó hivatásos állományú részére csak olyan nyelv tudása után fizethető idegen-nyelv tudási pótlék, amelynek ismerete a beosztás betöltésének nem feltétele.
 
-[^5]: A 14. § (1) bekezdése a 76/2015. (XII. 22.) BM rendelet 43. § b) pontja szerint módosított szöveg.
+[^7]: A 14. § (1) bekezdése a 76/2015. (XII. 22.) BM rendelet 43. § b) pontja szerint módosított szöveg.

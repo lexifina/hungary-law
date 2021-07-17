@@ -1,4 +1,4 @@
-38/A. §[^6] (1) A rendvédelmi szerv 2019. december 1. napján hivatásos szolgálati jogviszonyban álló tagja – a (2) bekezdésben foglalt kivétellel – 2019. december hónapban bruttó 500 000 forint mértékű egyszeri fegyveres testületi juttatásra (e § vonatkozásában a továbbiakban: juttatás) jogosult. A juttatást 2019. december 31-ig kell kifizetni.
+38/A. §[^8] (1) A rendvédelmi szerv 2019. december 1. napján hivatásos szolgálati jogviszonyban álló tagja – a (2) bekezdésben foglalt kivétellel – 2019. december hónapban bruttó 500 000 forint mértékű egyszeri fegyveres testületi juttatásra (e § vonatkozásában a továbbiakban: juttatás) jogosult. A juttatást 2019. december 31-ig kell kifizetni.
 
 (2) Nem jogosult a juttatásra a rendvédelmi szerv hivatásos állományának azon tagja,
 
@@ -18,4 +18,4 @@ a) a hivatásos állomány volt tagja, ha a szolgálati viszonya a 2019. január
 
 b) a hivatásos állomány 2019. január 1. és 2019. december 1. közötti időszakban szolgálatteljesítés közben elhunyt tagjának örököse.
 
-[^6]: A 38/A. §-t az 51/2019. (XII. 27.) BM rendelet 1. §-a iktatta be.
+[^8]: A 38/A. §-t az 51/2019. (XII. 27.) BM rendelet 1. §-a iktatta be.

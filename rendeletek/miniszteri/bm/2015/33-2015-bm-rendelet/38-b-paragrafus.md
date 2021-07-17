@@ -1,4 +1,4 @@
-38/B. §[^7] (1) A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
+38/B. §[^9] (1) A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
 
 a) beosztási illetmény,
 
@@ -28,4 +28,4 @@ c) aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha az il
 
 (5) A kiegészítő juttatásra jogosultságról és annak mértékéről az állományilletékes parancsnok munkáltatói intézkedésben rendelkezik. A munkáltatói intézkedés kiadmányozását követően az 5. § és a 6. § (1) bekezdése szerint kell eljárni.
 
-[^7]: A 38/B. §-t a 2/2020. (I. 17.) BM rendelet 3. §-a iktatta be.
+[^9]: A 38/B. §-t a 2/2020. (I. 17.) BM rendelet 3. §-a iktatta be.
