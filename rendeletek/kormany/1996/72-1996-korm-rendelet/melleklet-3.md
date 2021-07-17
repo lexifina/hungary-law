@@ -1,4 +1,4 @@
-3. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^243]
+3. melléklet a 72/1996. (V. 22.) Korm. rendelethez[^246]
 
 Adatlap a mezőgazdasági öntözési célú kút bejelentéséhez
 
@@ -80,4 +80,4 @@ Adatlap a mezőgazdasági öntözési célú kút bejelentéséhez
 
 | Az öntözendő terület érint-e védett természeti területet, Natura 2000 területet, barlang védőövezetet, ivóvízbázist | érint/ nem érint érintett terület: | a megfelelő aláhúzandó |
 
-[^243]: A 3. mellékletet a 716/2020. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^246]: A 3. mellékletet a 716/2020. (XII. 30.) Korm. rendelet 3. §-a iktatta be.

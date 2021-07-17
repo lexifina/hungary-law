@@ -4,15 +4,15 @@
 
 (3) A vízjogi engedély módosítása során a vízvezetési szolgalom változatlan fenntartásának feltételeit is vizsgálni kell a szolgalom alapítására irányadó rendelkezések megfelelő alkalmazásával.
 
-(4)[^110] A vízvezetési, valamint vízhasználati szolgalmi jogot – külön jogszabály szerint – az ingatlan-nyilvántartásba be kell jegyezni.
+(4)[^111] A vízvezetési, valamint vízhasználati szolgalmi jogot – külön jogszabály szerint – az ingatlan-nyilvántartásba be kell jegyezni.
 
-(4a)[^111] A vízügyi hatóság a 6. § (1) és (2a) bekezdése szerinti végleges vízjogi engedéllyel vagy az engedély módosításával, közcélú szolgalomalapítást tartalmazó végleges határozattal, valamint a szolgalmi jogi megállapodással megkeresi az ingatlanügyi hatóságot a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
+(4a)[^112] A vízügyi hatóság a 6. § (1) és (2a) bekezdése szerinti végleges vízjogi engedéllyel vagy az engedély módosításával, közcélú szolgalomalapítást tartalmazó végleges határozattal, valamint a szolgalmi jogi megállapodással megkeresi az ingatlanügyi hatóságot a szolgalmi jog ingatlan-nyilvántartásba történő bejegyzése iránt.
 
-(4b)[^112] Az ingatlan-nyilvántartásba bejegyzett szolgalmi jogot annak megszűnését követően a vízügyi hatóság által kiadott hatósági bizonyítvány becsatolásával, a szolgalommal terhelt ingatlan tulajdonosának, állami tulajdon esetén vagyonkezelőjének egyoldalú kérelmére a az ingatlanügyi hatóság törli az ingatlan-nyilvántartásból.
+(4b)[^113] Az ingatlan-nyilvántartásba bejegyzett szolgalmi jogot annak megszűnését követően a vízügyi hatóság által kiadott hatósági bizonyítvány becsatolásával, a szolgalommal terhelt ingatlan tulajdonosának, állami tulajdon esetén vagyonkezelőjének egyoldalú kérelmére a az ingatlanügyi hatóság törli az ingatlan-nyilvántartásból.
 
-(5)[^113] Vízvezetési szolgalom alapításával kapcsolatos kártalanítási igény (Vgtv. 21. §) elbírálására, továbbá a vízhasználati szolgalommal összefüggő költségviselésre e rendeletnek a kártalanításra és költségmegosztásra vonatkozó szabályai irányadók.
+(5)[^114] Vízvezetési szolgalom alapításával kapcsolatos kártalanítási igény (Vgtv. 21. §) elbírálására, továbbá a vízhasználati szolgalommal összefüggő költségviselésre e rendeletnek a kártalanításra és költségmegosztásra vonatkozó szabályai irányadók.
 
-[^110]: A 8. § (4) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
-[^111]: A 8. § (4a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be, szövege a 171/2015. (VI. 30.) Korm. rendelet 3. §-ával megállapított, az 518/2017. (XII. 29.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
-[^112]: A 8. § (4b) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 3. § (8) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
-[^113]: A 8. § (5) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^111]: A 8. § (4) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
+[^112]: A 8. § (4a) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be, szövege a 171/2015. (VI. 30.) Korm. rendelet 3. §-ával megállapított, az 518/2017. (XII. 29.) Korm. rendelet 17. § h) pontja szerint módosított szöveg.
+[^113]: A 8. § (4b) bekezdését a 242/2012. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be, szövege az 527/2013. (XII. 30.) Korm. rendelet 3. § (8) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 18. § e) pontja szerint módosított szöveg.
+[^114]: A 8. § (5) bekezdését a 10/2000. (II. 2.) Korm. rendelet 5. §-a iktatta a szövegbe.
