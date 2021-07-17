@@ -10,7 +10,7 @@
 
 a) a rendőrrel szemben büntetőeljárás indult,
 
-b) a rendőr szolgálati maroklőfegyverét az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló együttes rendelet alapján bevonták,
+b)[^141] a rendőr szolgálati maroklőfegyverét a szolgálati lőfegyver ideiglenes bevonásának szabályaira vonatkozó miniszteri rendeleti szabályozás alapján bevonták,
 
 c) a rendőr illetménynélküli szabadságon van,
 
@@ -20,3 +20,4 @@ e) a rendőr a lőfegyverrel (lőszerrel) bármely módon visszaélt.
 
 [^139]: A 97. § (1a) bekezdését a 18/2013. (V. 9.) BM rendelet 16. § (1) bekezdése iktatta be.
 [^140]: A 97. § (2) bekezdése a 18/2013. (V. 9.) BM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^141]: A 97. § (4) bekezdés b) pontja a 20/2021. (VII. 14.) BM rendelet 4. §-a szerint módosított szöveg.

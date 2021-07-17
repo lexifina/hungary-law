@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-30-20-0
 | 2020-07-18 | 2011-30-20-0A.24 | 27/2020. (VII. 17.) BM rendelet |
 | 2020-11-24 | 2011-30-20-0A.25 | 40/2020. (XI. 16.) BM rendelet |
 | 2021-06-27 | 2011-30-20-0A.26 | 16/2021. (VI. 24.) BM rendelet |
+| 2021-07-17 | 2011-30-20-0A.27 | 20/2021. (VII. 14.) BM rendelet |
