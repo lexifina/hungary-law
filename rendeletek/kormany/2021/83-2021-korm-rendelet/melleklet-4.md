@@ -10,6 +10,6 @@
 
 | Visegrád belterület 1/4, 22, 23, 24, 25, 26, 27/1, 27/2, 28, 29/1, 29/3, 56, 61, 169/2, 353, 354 helyrajzi számú ingatlanok | 2022. január 1. – 2032. december 31. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^67]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^69]
 
-[^67]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

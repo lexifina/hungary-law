@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2021-07-08 | 2021-83-20-22.15 | 401/2021. (VII. 7.) Korm. rendelet |
 | 2021-07-13 | 2021-83-20-22.16 | 411/2021. (VII. 12.) Korm. rendelet |
 | 2021-07-16 | 2021-83-20-22.17 | 426/2021. (VII. 15.) Korm. rendelet |
+| 2021-07-17 | 2021-83-20-22.18 | 184/2021. (IV. 16.) Korm. rendelet |
