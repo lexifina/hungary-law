@@ -4,7 +4,7 @@
 
 a) a Kincstár megnevezését, az ellenőr nevét, az ellenőrzés tárgyát és a támogatási kérelem iratazonosító számát,
 
-b) az ellenőrzés alá vont támogatást igénylő ügyfél-azonosítóját, az 1. és 2. célterület esetén nevét és lakcímét, a 3. és 4. célterület esetén elnevezését és székhelyét,
+b)[^14] az ellenőrzés alá vont támogatást igénylő ügyfél-azonosítóját, az 1. és 2. célterület esetén nevét és lakcímét, a 3., a 4. és a 6. célterület esetén elnevezését és székhelyét,
 
 c) a természetes személy támogatást igénylő személyes adatait, vagy a nem természetes személynek minősülő támogatást igénylő képviseletében eljáró személy személyes adatait és a képviseletre való jogosultságát alátámasztó okiratot,
 
@@ -17,3 +17,5 @@ f) a jegyzőkönyv készítésének helyét és időpontját, és
 g) az ellenőr és a támogatást igénylő vagy a támogatást igénylő képviseletében eljáró személy aláírását.
 
 (3) A jegyzőkönyv egy másolati példányát az ellenőr – amennyiben az ehhez szükséges technikai feltételek adottak – köteles a helyszínen átadni vagy azt a támogatást igénylő részére a jegyzőkönyv lezárásától számított 15 napon belül megküldeni.
+
+[^14]: A 23. § (2) bekezdés b) pontja a 434/2021. (VII. 16.) Korm. rendelet 8. § 7. pontja szerint módosított szöveg.

@@ -12,10 +12,10 @@ d) a döntés évét és a hónapját
 
 ## nyilvánosságra hozza.
 
-(2)[^5] A Kincstár nyilvánosságra hozatali kötelezettsége az 1., a 2. és az 5. célterület esetén nem terjed ki a személyes adatokra, és annak teljesítése statisztikai módon történhet.
+(2)[^9] A Kincstár nyilvánosságra hozatali kötelezettsége az 1., a 2. és az 5. célterület esetén nem terjed ki a személyes adatokra, és annak teljesítése statisztikai módon történhet.
 
 (3) A támogatással összefüggő bármely, Kincstárhoz benyújtott kérelem elbírálásához, a támogatási jogviszonyból fakadó kötelezettségek teljesítésének ellenőrzéséhez a Kincstár elsősorban a támogatások kihelyezésére vonatkozó jogszabályok alapján létrehozott adatkapcsolatokat használja fel, amely adatokat a Kincstár által kiadott közlemények nevesítik.
 
 (4) Az e rendelet hatálya alá tartozó támogatással összefüggő bármely, Kincstárhoz benyújtott kérelem elbírálása során nem lehet figyelembe venni a Támogatási törvény 79/D. §-ában felsorolt, hivatkozott vagy a támogatás kapcsán a jogosultság megállapítása tekintetében adatot tartalmazó nyilvántartási rendszerekben szereplő olyan adatokat, amelyeket a kérelem benyújtását követően pótoltak vagy módosítottak, amennyiben a módosítás a támogatási jogosultság feltételeinek utólagos teljesítésére vagy a kérelem kedvezőbb elbírálására irányul, kivéve, ha az adott célterületre vonatkozó szabály eltérően rendelkezik.
 
-[^5]: A 7. § (2) bekezdése a 385/2020. (VIII. 7.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^9]: A 7. § (2) bekezdése a 385/2020. (VIII. 7.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.

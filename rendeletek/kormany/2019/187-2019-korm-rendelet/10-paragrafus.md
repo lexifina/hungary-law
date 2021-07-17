@@ -8,7 +8,7 @@
 
 a) a Kincstár megnevezését, az ügy számát,
 
-b)[^6] a támogatást igénylő nevét, címét – az 1., a 2. és az 5. célterület esetén lakóhelyét, tartózkodási helyét, a 3. és 4. célterület esetén székhelyét – és ügyfél-azonosítóját,
+b)[^10] a támogatást igénylő nevét, címét – az 1., a 2. és az 5. célterület esetén lakóhelyét, tartózkodási helyét, a 3., a 4. és a 6. célterület esetén székhelyét – és ügyfél-azonosítóját,
 
 c) az ügyben hozott döntést,
 
@@ -24,4 +24,4 @@ fb) a kérelmet elutasító, a támogatási jogviszony megszűnésével, valamin
 
 fc) a kifogásról hozott döntés
 
-[^6]: A 10. § (3) bekezdés b) pontja a 385/2020. (VIII. 7.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^10]: A 10. § (3) bekezdés b) pontja a 385/2020. (VIII. 7.) Korm. rendelet 7. § 4. pontja, a 434/2021. (VII. 16.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.

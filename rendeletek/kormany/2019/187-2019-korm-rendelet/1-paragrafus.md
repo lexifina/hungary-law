@@ -50,4 +50,7 @@ p) vállalkozás: a 3. és 4. célterület vonatkozásában kettős könyvvitelt
 
 q) Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Támogatási törvény) szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer.
 
+r)[^2] kkv: a 6. célterület esetében a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU bizottsági rendelet (a továbbiakban: 651/2014/EU bizottsági rendelet) I. Melléklete szerinti mikro-, kis- és középvállalkozás.
+
 [^1]: Az 1. § b) pontja a 385/2020. (VIII. 7.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § r) pontját a 434/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
