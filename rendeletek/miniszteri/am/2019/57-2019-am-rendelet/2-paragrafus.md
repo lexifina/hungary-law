@@ -55,3 +55,7 @@ a) 2019. augusztus 1-jétől 2020. július 31-éig (a továbbiakban: I. végreha
 b) 2020. augusztus 1-jétől 2021. július 31-éig (a továbbiakban: II. végrehajtási időszak),
 
 c) 2021. augusztus 1-jétől 2022. július 31-éig (a továbbiakban: III. végrehajtási időszak)
+
+d)[^2] 2022. augusztus 1-jétől 2022. december 31-éig (a továbbiakban: meghosszabbított III. végrehajtási időszak)
+
+[^2]: A 2. § (2) bekezdés d) pontját a 25/2021. (VII. 14.) AM rendelet 7. §-a iktatta be.

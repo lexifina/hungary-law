@@ -6,7 +6,7 @@ a) a Támogatási törvény 28. § (3) bekezdése szerinti nyilvántartásba vé
 
 b) megfelel az e rendeletben előírt egyes intézkedések megvalósítására vonatkozó feltételeknek;
 
-c) a 2. § (1) bekezdés a) pont ae) alpontjában, af) alpontjában foglalt, az OMME termelői mézesüveg beszerzési költségének támogatása, továbbá b) pont ba) és bb) alpontja, c), e) és h) pontja szerinti intézkedések esetében:
+c)[^12] a 2. § (1) bekezdés a) pont ae) alpontjában, az a) pont ag) alpontja szerinti, méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés, az af) alpontjában foglalt, az OMME termelői mézesüveg beszerzési költségének támogatása, továbbá a 2. § (1) bekezdés b) pont ba) és bb) alpontja, c), e) és h) pontja szerinti intézkedések esetében:
 
 ca) az adott végrehajtási időszakban a 119/2007. (X. 18.) FVM rendeletben foglaltaknak megfelelően bejelentette a végrehajtási időszakban elvégzett, a 70/2003. (VI. 27.) FVM rendelet 7. §-a szerinti monitoring vizsgálat során az adataiban megállapított változásokat az illetékes megyei kormányhivatalhoz és erről nyilatkozik a kifizetési kérelem benyújtásával egyidejűleg,
 
@@ -16,11 +16,12 @@ cc) a kifizetési kérelem benyújtásának évében az OMME tagja, amiről nyil
 
 (2) A 27. § (1) bekezdés a) pontja szerinti támogatás igénybevételére a miniszter által jóváhagyott kutatási tervről kiállított igazolással rendelkező és a kutatási tervet végrehajtó szervezet, intézmény jogosult.
 
-(3)[^6] A 2. § (1) bekezdés a) pont ae) alpontja, az af) alpontjában foglalt, az OMME termelői mézesüveg beszerzési költségének támogatása, b) pont ba) és bb) alpontja, c) és e) pontja, f) pont fc) alpontjához tartozó alintézkedések közül a 27. § (1) bekezdés a) pontja szerinti alintézkedés, valamint a 2. § (1) bekezdés h) pontja szerinti intézkedéseken kívüli esetekben a kérelmező kizárólag az OMME, illetve az OMME-vel együttműködési megállapodást kötött, önálló jogi személyiségű méhészeti egyesület (a továbbiakban: OMME tagszervezete) lehet.
+(3)[^13] A 2. § (1) bekezdés a) pont ae) alpontja, az a) pont ag) alpontja szerinti, méhészek kommunikációját és működését segítő eszközök beszerzésének támogatása alintézkedés, az af) alpontjában foglalt, az OMME termelői mézesüveg beszerzési költségének támogatása, a 2. § (1) bekezdés b) pont ba) és bb) alpontja, c) és e) pontja, f) pont fc) alpontjához tartozó alintézkedések közül a 27. § (1) bekezdés a) pontja szerinti alintézkedés, valamint a 2. § (1) bekezdés h) pontja szerinti intézkedéseken kívüli esetekben a kérelmező kizárólag az OMME, illetve az OMME-vel együttműködési megállapodást kötött, önálló jogi személyiségű méhészeti egyesület (a továbbiakban: OMME tagszervezete) lehet.
 
 (4) A 2. § (1) bekezdés a) pont af) alpontja szerinti, a termelői mézesüveg gyártásához szükséges formagarnitúra beszerzésének támogatása intézkedés esetében kérelmező kizárólag az OMME lehet.
 
-(5)[^7]
+(5)[^14]
 
-[^6]: Az 5. § (3) bekezdése a 12/2020. (IV. 3.) AM rendelet 7. § e) pontja szerint módosított szöveg.
-[^7]: Az 5. § (5) bekezdését a 12/2020. (IV. 3.) AM rendelet 8. § a) pontja hatályon kívül helyezte.
+[^12]: Az 5. § (1) bekezdés c) pont nyitó szövegrésze a 25/2021. (VII. 14.) AM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 5. § (3) bekezdése a 25/2021. (VII. 14.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (5) bekezdését a 12/2020. (IV. 3.) AM rendelet 8. § a) pontja hatályon kívül helyezte.

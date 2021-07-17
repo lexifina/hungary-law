@@ -2,7 +2,7 @@
 
 23. § (1) A 2. § (1) bekezdés d) pontja szerinti támogatás a közforgalomban lévő mézek mintavételezéséhez, valamint a minták vizsgálatához és a vizsgálat eredményének közzétételéhez vehető igénybe.
 
-(2) A támogatás keretösszege legfeljebb 100 000 eurónak megfelelő forintösszeg végrehajtási időszakonként.
+(2)[^115] A támogatás keretösszege legfeljebb 100 000 eurónak megfelelő forintösszeg végrehajtási időszakonként. A meghosszabbított III. végrehajtási időszakra vonatkozó támogatás a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) A támogatás igénybevételére az OMME jogosult.
 
@@ -23,3 +23,5 @@ e) a termelői mintavételezéssel kapcsolatos méz mintavételi jegyzőkönyv,
 f) a hivatalos vizsgálati eredményekről szóló jegyzőkönyv és az ahhoz kapcsolódó szakmai vélemény,
 
 g) azon szakmai kiadvány vonatkozó oldalai, amelyben az eredményeket közzétették vagy a kiadvány elektronikus elérhetősége.
+
+[^115]: A 23. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 27. §-ával megállapított szöveg.

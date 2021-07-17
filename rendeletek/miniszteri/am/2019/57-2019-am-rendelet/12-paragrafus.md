@@ -1,8 +1,8 @@
 12. § (1) A 10. § (1) bekezdés b) pontja szerinti intézkedés keretében a következő költségek számolhatóak el:
 
-a) előadói díj legfeljebb 40 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összege;
+a)[^33] előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/rendezvény, a III. és a meghosszabbított III. végrehajtási időszakban legfeljebb 50 000 forint/előadó/rendezvény megbízási szerződés esetén ennek közterhekkel növelt összege;
 
-b)[^8] előadó szállásköltsége legfeljebb 16 000 forint/nap/fő/rendezvény, valamint az előadó és az OMME tagszervezet elnökének vagy megbízottjának étkezési költsége legfeljebb 5000 forint/nap/fő/rendezvény összegig;
+b)[^34] előadó szállásköltsége legfeljebb 16 000 forint/nap/fő/rendezvény, valamint az előadó és az OMME tagszervezet elnökének vagy megbízottjának étkezési költsége legfeljebb 5000 forint/nap/fő/rendezvény összegig;
 
 c) előadó utazási költsége:
 
@@ -48,4 +48,5 @@ k) a szervező nyilatkozata arról, hogy a résztvevő méhészek, szaktanácsad
 
 l) az OMME nyilatkozata a rendezvény Méhészeti Programba illeszkedéséről, ha a kérelmet tagszervezete nyújtja be.
 
-[^8]: A 12. § (1) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 7. § f) pontja szerint módosított szöveg.
+[^33]: A 12. § (1) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 16. §-ával megállapított szöveg.
+[^34]: A 12. § (1) bekezdés b) pontja a 12/2020. (IV. 3.) AM rendelet 7. § f) pontja szerint módosított szöveg.

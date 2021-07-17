@@ -2,7 +2,7 @@
 
 15. § (1) A 2. § (1) bekezdés a) pont ad) alpontja szerinti intézkedés vonatkozásában támogatás olyan – az OMME honlapján közzétett listában szereplő – bemutató méhészet látogatásához vehető igénybe, amellyel az OMME e célból együttműködési megállapodást kötött, és a látogatók száma legalább húsz fő.
 
-(2) A támogatás keretösszege legfeljebb 110 000 eurónak megfelelő forintösszeg végrehajtási időszakonként.
+(2)[^45] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 110 000 eurónak, a II. végrehajtási időszakban legfeljebb 20 000 eurónak, a III. végrehajtási időszakban legfeljebb 110 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszak a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (3) A támogatás igénybevételére az OMME, illetve az OMME tagszervezete jogosult.
 
@@ -22,7 +22,7 @@ ba) a helyi és helyközi tömegközlekedéssel történő utazás költsége,
 
 bb) a bérelt busszal történő utazás költsége, amely a résztvevők fel- és leszállási helye és a bemutató méhészet helyszíne közötti távolságra számolható el oly módon, hogy a busz telephelye és az első felszállás helye, valamint az utolsó leszállás helye és a busz telephelye közötti távolság költsége nem számolható el;
 
-c) résztvevők elszállásolási költsége legfeljebb egy éjszakára, legfeljebb 5000 forint/fő összegig, ha az oda-vissza út távolsága a 400 kilométert meghaladja.
+c)[^46] résztvevők elszállásolási költsége legfeljebb egy éjszakára, legfeljebb 5000 forint/fő összegig, ha az oda-vissza út távolsága az I. és II. végrehajtási időszakban a 400 kilométert, a III. és a meghosszabbított III. végrehajtási időszakban a 300 kilométert meghaladja.
 
 (8) A kifizetési kérelemhez csatolni kell az alábbi dokumentumok másolati példányát:
 
@@ -44,6 +44,10 @@ f) a résztvevők nevét, címét, aláírását, valamint a bemutató méhésze
 
 g) a szervező nyilatkozata arról, hogy a részvevők nem fizettek részvételi díjat;
 
-h) az OMME nyilatkozata a rendezvény Méhészeti Programba illeszkedéséről.
+h)[^47] az OMME nyilatkozata a rendezvény Méhészeti Programba illeszkedéséről, amennyiben a kérelmező az OMME tagszervezete.
 
 (9) Az OMME a bemutató méhészetekkel kötött cégszerű aláírással ellátott együttműködési megállapodásokat az e rendelet hatálybalépését követő kilencven napon belül – az elektronikus űrlapkitöltő felületen keresztül – a Kincstár rendelkezésére bocsátja. Az együttműködési megállapodás módosítása vagy új bemutató méhészettel kötött megállapodás esetén az OMME az új vagy módosított együttműködési megállapodást a megállapodás megkötését követő nyolc napon belül – az elektronikus űrlapkitöltő felületen keresztül – a Kincstár rendelkezésére bocsátja.
+
+[^45]: A 15. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^46]: A 15. § (7) bekezdés c) pontja a 25/2021. (VII. 14.) AM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^47]: A 15. § (8) bekezdés h) pontja a 25/2021. (VII. 14.) AM rendelet 19. § (3) bekezdésével megállapított szöveg.

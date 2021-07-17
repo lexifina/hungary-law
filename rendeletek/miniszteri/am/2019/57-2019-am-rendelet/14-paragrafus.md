@@ -4,7 +4,7 @@
 
 (2) A támogatás csak abban az esetben igényelhető, ha a méhészeti szaktanácsadó vagy a vezető szaktanácsadó a szaktanácsadás során – a (8) bekezdés a) pont aa) alpontja szerinti vállalkozói szerződésben meghatározottak szerint – fogadónapot biztosít a méhészek részére.
 
-(4) A támogatás keretösszege legfeljebb 530 000 eurónak megfelelő forintösszeg végrehajtási időszakonként.
+(4)[^40] A támogatás keretösszege az I. végrehajtási időszakban legfeljebb 530 000 eurónak, a II. végrehajtási időszakban 500 000 eurónak, a III. végrehajtási időszakban 800 000 eurónak megfelelő forintösszeg. A meghosszabbított III. végrehajtási időszak a 2023. méhészeti évre biztosított keret terhére kerül kifizetésre.
 
 (5) A támogatás igénybevételére az OMME jogosult.
 
@@ -12,13 +12,13 @@
 
 (7) A támogatás keretében a következő költségek számolhatóak el:
 
-a) az OMME által méhészeti szaktanácsadónként éves szinten meghatározott vállalkozói díj legfeljebb 600 000 forint/hó összegig, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget,
+a)[^41] az OMME által méhészeti szaktanácsadónként éves szinten meghatározott vállalkozói díj az I. végrehajtási időszakban legfeljebb 600 000 forint/hó összegig, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget, az OMME által méhészeti szaktanácsadónként havi szinten, területi illetékesség alapján, az 1. mellékletben meghatározott vállalkozói díjszabás a II., a III. és a meghosszabbított III. végrehajtási időszakban, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget:
 
-b) az OMME által a vezető szaktanácsadó részére éves szinten meghatározott vállalkozói díj legfeljebb 985 000 forint/hó összegig, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget,
+b)[^42] az OMME által a vezető szaktanácsadó részére éves szinten meghatározott vállalkozói díj az I. végrehajtási időszakban legfeljebb 985 000 forint/hó összegig, amely tartalmazza a vállalkozói szerződésben foglalt feladatok teljesítéséhez kapcsolódó összes költséget,
 
-c) a szaktanácsadó-hálózat működtetéséhez szükséges irodai archiválás eszközei, irodaszerek, informatikai adattároló eszközök, szoftverek, munkavégzéshez szükséges számítástechnikai és egyéb műszaki eszközök beszerzése, javítása, pótlása, nyomdai sokszorosítási költségek 4 000 000 forint/év összegig,
+c)[^43] a szaktanácsadó-hálózat működtetéséhez szükséges irodai archiválás eszközei, irodaszerek, informatikai adattároló eszközök, szoftverek, munkavégzéshez szükséges számítástechnikai és egyéb műszaki eszközök beszerzése, javítása, pótlása, nyomdai sokszorosítási költségek, mintavételhez szükséges eszközök 8 000 000 forint/év összegig,
 
-d) a méhészeti szaktanácsadók, illetve a vezető szaktanácsadó egy héten túli távolléte esetén az OMME elnökének utasítására történő helyettesítés esetén a helyettesítéssel járó vállalkozói díj.
+d)[^44] a az I. végrehajtási időszakba a méhészeti szaktanácsadók, illetve a vezető szaktanácsadó egy héten túli távolléte esetén az OMME elnökének utasítására történő helyettesítés esetén a helyettesítéssel járó vállalkozói díj.
 
 (8) A kifizetési kérelemhez csatolni kell az alábbi dokumentumok másolati példányát:
 
@@ -35,3 +35,9 @@ c) a méhészeti szaktanácsadók, illetve a vezető szaktanácsadó által a ha
 d) a fogadónapról szóló havi nyilvántartások;
 
 e) a nyomtatványok méhészeti szaktanácsadók, illetve a vezető szaktanácsadó által történő átvételének igazolása.
+
+[^40]: A 14. § (4) bekezdése a 25/2021. (VII. 14.) AM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^41]: A 14. § (7) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^42]: A 14. § (7) bekezdés b) pontja a 25/2021. (VII. 14.) AM rendelet 36. § d) pontja szerint módosított szöveg.
+[^43]: A 14. § (7) bekezdés c) pontja a 25/2021. (VII. 14.) AM rendelet 36. § e) pontja szerint módosított szöveg.
+[^44]: A 14. § (7) bekezdés d) pontja a 25/2021. (VII. 14.) AM rendelet 36. § f) pontja szerint módosított szöveg.

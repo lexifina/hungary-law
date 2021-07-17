@@ -4,6 +4,6 @@
 
 a) az adott gazdasági évre a központi költségvetésben az Agrárminisztérium fejezetében a Méhészeti Nemzeti Program jogcímen a 2. §-ban, valamint
 
-b) az Európai Mezőgazdasági Garancia Alap terhére a 2019/974/EU bizottsági végrehajtási határozat alapján az a) pont szerinti programban
+b)[^15] az Európai Mezőgazdasági Garancia Alap terhére a 2021/974/EU bizottsági végrehajtási határozat alapján az a) pont szerinti programban
 
-meghatározott intézkedések megvalósításának támogatására előirányzott pénzösszeg.
+[^15]: A 6. § b) pontja a 25/2021. (VII. 14.) AM rendelet 11. §-ával megállapított szöveg.

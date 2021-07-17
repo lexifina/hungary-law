@@ -16,4 +16,6 @@
 
 5. rendezvény: a 2. § (1) bekezdés a) pont ab) és ad) alpontja, valamint a b) pont bc) alpontja szerinti alintézkedésekhez sorolható, előre meghatározott célból, adott helyen és időben tartott méhészeti szakmai program;
 
-6. tárgyhónap: az adott végrehajtási időszakban az adott költségek felmerülésének naptári hónapja.
+6.[^1] tárgyhónap: az adott végrehajtási időszakban az adott költségek felmerülésének naptári hónapja, kivéve a 9. § (1) bekezdés c) pontjában szereplő támogatás esetén.
+
+[^1]: Az 1. § 6. pontja a 25/2021. (VII. 14.) AM rendelet 6. §-ával megállapított szöveg.

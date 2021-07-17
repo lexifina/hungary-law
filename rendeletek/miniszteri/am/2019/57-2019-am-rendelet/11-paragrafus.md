@@ -1,6 +1,6 @@
 11. § (1) A 10. § (1) bekezdés a) pontja szerinti intézkedés keretében a következő költségek számolhatóak el:
 
-a) előadói díj legfeljebb 40 000 forint/előadó/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összegéig, a tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összegéig;
+a)[^31] előadói díj az I. és II. végrehajtási időszakban legfeljebb 40 000 forint/előadó/rendezvény, a III. és a meghosszabbított III. végrehajtási időszakban legfeljebb 50 000 forint/előadó/rendezvény megbízási szerződés esetén ennek közterhekkel növelt összegéig, a tolmács díja legfeljebb 50 000 forint/tolmács/rendezvény, megbízási szerződés esetén ennek közterhekkel növelt összegéig;
 
 b) előadó és tolmács szállásköltsége legfeljebb 16 000 forint/nap/fő/rendezvény összegig;
 
@@ -58,6 +58,9 @@ j) étkezési és szállásköltségek elszámolása esetén a kérelmező nevé
 
 k) a szervező nyilatkozata arról, hogy a látogatók nem fizettek részvételi vagy belépődíjat;
 
-l) az OMME nyilatkozata a rendezvény Méhészeti Programba illeszkedéséről;
+l)[^32] az OMME nyilatkozata a rendezvény Méhészeti Programba illeszkedéséről, amennyiben a kérelmet az OMME tagszervezete nyújtja be;
 
 m) külföldi előadó esetén a repülőjegy, valamint a repülőjegyről és a reptéri transzferrel történő utazásról a kérelmező nevére és címére kiállított számla, továbbá az ellenérték megtérítését igazoló bizonylat.
+
+[^31]: A 11. § (1) bekezdés a) pontja a 25/2021. (VII. 14.) AM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^32]: A 11. § (2) bekezdés l) pontja a 25/2021. (VII. 14.) AM rendelet 15. § (2) bekezdésével megállapított szöveg.
