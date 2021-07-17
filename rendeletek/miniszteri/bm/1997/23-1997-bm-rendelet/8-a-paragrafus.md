@@ -1,6 +1,6 @@
-8/A. §[^19] (1)[^20] A tanúvallomást megtagadhatja az, aki nem tagja a rendvédelmi feladatokat ellátó szerv hivatásos állományának, vagy a miniszter irányítása alá tartozó egyéb szerv állományának.
+8/A. §[^20] (1)[^21] A tanúvallomást megtagadhatja az, aki nem tagja a rendvédelmi feladatokat ellátó szerv hivatásos állományának, vagy a miniszter irányítása alá tartozó egyéb szerv állományának.
 
-(2)[^21] A rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, vagy a miniszter irányítása alá tartozó egyéb szerv tagja megtagadhatja a tanúvallomást:
+(2)[^22] A rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, vagy a miniszter irányítása alá tartozó egyéb szerv tagja megtagadhatja a tanúvallomást:
 
 a) ha nem várható el tőle elfogulatlan tanúvallomás;
 
@@ -12,6 +12,6 @@ d) olyan tényekre, adatokra, körülményekre nézve, amelyre titoktartási kö
 
 (3) A tanút meghallgatása előtt mentességi jogaira figyelmeztetni kell, a figyelmeztetést, valamint a tanúnak a figyelmeztetésre adott válaszát jegyzőkönyvbe kell foglalni.
 
-[^19]: A 8/A. §-t a 34/2014. (IV. 24.) BM rendelet 4. §-a iktatta be.
-[^20]: A 8/A. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
-[^21]: A 8/A. § (2) bekezdés nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^20]: A 8/A. §-t a 34/2014. (IV. 24.) BM rendelet 4. §-a iktatta be.
+[^21]: A 8/A. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^22]: A 8/A. § (2) bekezdés nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 9. § b) pontja szerint módosított szöveg.
