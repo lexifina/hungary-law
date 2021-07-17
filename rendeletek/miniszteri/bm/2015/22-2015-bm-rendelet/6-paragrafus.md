@@ -22,6 +22,8 @@ h) nyilatkozata vagy az ez irányú ellenőrzés eredménye alapján szervezeté
 
 (3) A vér- és vizeletvételre kizárólag az erre a célra rendszeresített, ép zárcímkével ellátott, bontatlan – a mintavételi eszközöket magába foglaló – egységdoboz alkalmazható. A mintavételi egységdoboz felnyitása és alkalmazása csak a hivatásos állomány mintavétellel érintett tagja, a hivatásos állomány vizsgálatot foganatosító tagja, a szolgálati elöljáró és a mintát vevő orvos jelenlétében történhet.
 
-(4) A minta levételét az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet 2. § c) pontja szerinti alapellátó orvos (a továbbiakban: alapellátó orvos) végzi. Ha az alapellátó orvos igénybe vétele akadályba ütközik, mintavétel érdekében a szolgálatteljesítés helye szerint illetékes egészségügyi szolgáltató (a továbbiakban: egészségügyi szolgáltató) ügyeletes orvosát kell igénybe venni.
+(4)[^4] A minta levételét a hivatásos állomány egészségi alkalmasságvizsgálatára vonatkozó szabályokat tartalmazó szabályozás szerinti rendvédelmi alapellátó orvos (a továbbiakban: alapellátó orvos) végzi. Ha az alapellátó orvos igénybe vétele akadályba ütközik, mintavétel érdekében a szolgálatteljesítés helye szerint illetékes egészségügyi szolgáltató (a továbbiakban: egészségügyi szolgáltató) ügyeletes orvosát kell igénybe venni.
 
 (5) A (4) bekezdésben meghatározott esetben, ha a mintavételt az egészségügyi szolgáltató ügyeletes orvosa végzi, akkor ennek költségét a rendvédelmi szerv téríti meg.
+
+[^4]: A 6. § (4) bekezdése a 20/2021. (VII. 14.) BM rendelet 18. §-a szerint módosított szöveg.

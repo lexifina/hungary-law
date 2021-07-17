@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet 2015. július 1-jén lép hatályba.
 
-1. melléklet a 22/2015. (VI. 15.) BM rendelethez[^4]
+1. melléklet a 22/2015. (VI. 15.) BM rendelethez[^5]
 
 ## ....................................
 
@@ -64,4 +64,4 @@ I. Hivatásos állomány vizsgálat alá vont tagjának
 
 II. Alkoholteszterrel ........ év ..... hó ...... nap ..... óra ..... perckor történt mérés ............... mg/l légalkohol értékét elfogadom, és kijelentem, hogy az kizárólag a szolgálatba lépése előtt elfogyasztott szeszes italtól származik.
 
-[^4]: Az 1. melléklet a 33/2019. (VIII. 30.) BM rendelet 7. §-a szerint módosíttot szöveg.
+[^5]: Az 1. melléklet a 33/2019. (VIII. 30.) BM rendelet 7. §-a szerint módosíttot szöveg.
