@@ -10,7 +10,7 @@
 
 | 4. | fizikai alkalmasságra vonatkozó irat | 5 év |
 
-| 5. | pszichikai alkalmasságra vonatkozó irat | 5 év |
+| 5. | pszichológiai alkalmasságra vonatkozó irat | 5 év |
 
 | 6. | teljesítményértékelés | 5 év |
 
@@ -26,7 +26,7 @@
 
 | 12. | kártérítési eljárás iratai | eljárás megszűnését követő 3 év |
 
-2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^58]
+2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^73]
 
 ## A rekreációs célú pótszabadságra jogosító, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások
 
@@ -108,4 +108,4 @@ D) A Terrorelhárítási Központ Műveleti Igazgatóság Képzési Főosztály�
 
 E) A Hszt. 146. § (1) bekezdésében meghatározott rekreációs célú pótszabadságra akkor is csak 14 napban jogosult a hivatásos állomány e mellékletben felsorolt szolgálati beosztást betöltő tagja, ha a Hszt. 146. § (1) bekezdésében meghatározott más jogcímen is jogosult lenne a pótszabadságra.
 
-[^58]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be.
+[^73]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be.

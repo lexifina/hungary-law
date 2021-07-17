@@ -4,7 +4,7 @@
 
 (3) A kinevezési javaslathoz csatolni kell
 
-a) a kinevezés feltételeként meghatározott egészségi, pszichikai és fizikai alkalmasságot és a szolgálati viszony létesítéséhez szükséges feltételek meglétét igazoló okiratok másolatát,
+a)[^15] a kinevezés feltételeként meghatározott egészségi, pszichológiai és fizikai alkalmasságot és a szolgálati viszony létesítéséhez szükséges feltételek meglétét igazoló okiratok másolatát,
 
 b) a humánigazgatási szakszolgálat által előkészített, a szenior állomány tagjával az állományilletékes parancsnok által aláírandó szerződés tervezetét,
 
@@ -15,3 +15,5 @@ d) a humánigazgatási szakszolgálat által előkészített esküokmányt,
 e) a munkaköri leírás tervezetét, és
 
 f) az iskolai végzettséget és szakképzettséget igazoló okiratok másolatát.
+
+[^15]: A 15. § (3) bekezdés a) pontja a 20/2021. (VII. 14.) BM rendelet 24. § h) pontja szerint módosított szöveg.

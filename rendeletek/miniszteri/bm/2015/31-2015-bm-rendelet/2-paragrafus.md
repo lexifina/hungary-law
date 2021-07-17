@@ -4,6 +4,8 @@
 
 2. központi humánigazgatási szakszolgálat: az országos parancsnok vagy országos főigazgató irányítása alatt működő humánigazgatási szakszolgálat,
 
-3. moduláris képzés: meghatározott, összekapcsolható egységekből álló rendészeti képzési program alapján felépülő oktatási forma, amely lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek részenkénti elsajátítását, biztosítja a képzési szintek közötti átjárhatóságot, az eltérő tudásszintekhez, munkatapasztalatokra való felkészülést, a képzések különböző irányú specializálását,
+3.[^1]
 
 4. szenior állomány: az általános rendőrségi feladatok ellátására létrehozott szerv különleges foglalkoztatási állománya.
+
+[^1]: A 2. § 3. pontját a 20/2021. (VII. 14.) BM rendelet 25. § a) pontja hatályon kívül helyezte.

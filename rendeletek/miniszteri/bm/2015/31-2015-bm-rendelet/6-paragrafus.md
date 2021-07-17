@@ -1,16 +1,16 @@
 6. § (1) A szolgálati viszony létesítése során a Hszt. 33. § (1) bekezdés b) pontja alapján, a Hszt. 128. § (1) bekezdésében meghatározott feltétel teljesülése esetén tiszthelyettesi besorolási osztályba tartozó szolgálati beosztásba az nevezhető ki,
 
-a) aki a rendészeti szakközépiskolát eredményesen elvégezte,
+a)[^6] aki a rendészeti szakközépiskolát vagy rendészeti szakgimnáziumot eredményesen elvégezte, vagy rendvédelmi szakképző intézményben szerzett technikusi végzettséggel rendelkezik,
 
 b) aki a tervezett szolgálati beosztása betöltéséhez szükséges szakirányú rendészeti szakképesítéssel rendelkezik,
 
-c) aki – a 7. §-ba nem tartozó esetben – a moduláris képzési rendszerben az alapképzést és az első szakképzési modulban a tanulmányait legkésőbb a hivatásos állományba vétellel egyidejűleg megkezdi,
+c)[^7]
 
-d) aki a Magyar Honvédségnél hivatásos vagy szerződéses szolgálatot teljesít, a szolgálati idejéből legalább egy év eltelt és a moduláris képzési rendszerben a szakképzést vállalja, vagy
+d)[^8] aki a Magyar Honvédségnél hivatásos vagy szerződéses szolgálatot teljesít, a szolgálati idejéből legalább egy év eltelt és a b) pont szerinti szakképesítés megszerzését vállalja, vagy
 
 e) aki a rendvédelmi szervnél korábban szolgálati viszonyban állt és a tervezett szolgálati beosztás ellátásához szükséges rendvédelmi szakképesítéssel rendelkezik.
 
-(1a)[^4] Az (1) bekezdés c) pontjába tartozó esetben a hivatásos állományba vett személyt a tervezett szolgálati beosztásába kell kinevezni, amellyel egyidejűleg megfelelő határidő kitűzésével elő kell írni a tervezett szolgálati beosztáshoz tartozó rendészeti szakképesítés vagy rész-szakképesítés megszerzését.
+(1a)[^9]
 
 (2) A szolgálati viszony létesítése során a Hszt. 33. § (1) bekezdés b) pontja alapján, a Hszt. 128. § (1) bekezdésében meghatározott feltétel teljesülése esetén tiszti besorolási osztályba tartozó szolgálati beosztásba az nevezhető ki, aki
 
@@ -22,4 +22,7 @@ c) hazai vagy külföldi felsőoktatási intézményben olyan szakképesítést 
 
 d) rendvédelmi szervnél vagy a Magyar Honvédségnél korábban hivatásos szolgálatot teljesített és a tiszti besorolási osztályba tartozó szolgálati beosztás ellátásához szükséges képesítéssel, szakképzettséggel rendelkezik.
 
-[^4]: A 6. § (1a) bekezdését az 55/2016. (XII. 22.) BM rendelet 13. §-a iktatta be.
+[^6]: A 6. § (1) bekezdés a) pontja a 20/2021. (VII. 14.) BM rendelet 24. § b) pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés c) pontját a 20/2021. (VII. 14.) BM rendelet 25. § b) pontja hatályon kívül helyezte.
+[^8]: A 6. § (1) bekezdés d) pontja a 20/2021. (VII. 14.) BM rendelet 24. § c) pontja szerint módosított szöveg.
+[^9]: A 6. § (1a) bekezdését az 55/2016. (XII. 22.) BM rendelet 13. §-a iktatta be, hatályon kívül helyezte a 20/2021. (VII. 14.) BM rendelet 25. § c) pontja.
