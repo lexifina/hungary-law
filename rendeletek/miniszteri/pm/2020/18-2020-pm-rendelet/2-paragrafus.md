@@ -1,5 +1,5 @@
-## 1. § A Nemzeti Adó- és Vámhivatalnál alkalmazásra kerülő kényszerítő eszközök rendszeresítésére vonatkozó eljárási szabályokról és a rendszeresíthető kényszerítő eszközök típusairól és fajtáiról szóló 16/2010. (XII. 28.) NGM rendelet 18. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Minősítő, összehasonlító és ellenőrző vizsgálat olyan hazai vagy más EGT-állambeli szervezettől fogadható el, amely a termékek forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 11. pontja szerinti nemzeti akkreditáló testület e tevékenység elvégzésére akkreditált, valamint olyan szervezettől vagy személytől, amely vagy aki rendelkezik a feladat jellegéhez igazodó személyi és műszaki-technikai feltételekkel.”
+## 1. §[^2]
 
 ## 2. A vámszabálysértések eljárási szabályairól, valamint felderítése és elbírálása végrehajtásának részletes szabályairól 32/2012. (XII. 4.) NGM rendelet módosítása
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
