@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat C:4 mezőjében az „5,438” szövegrész helyébe a „6,795” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1479/2021. (VII. 15.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.3-15- 2016-00001 | Élményteli gyógyhely: Bükfürdő | Bük Város Önkormányzata | 999 226 000 | 1 356 856 735 | 2 356 082 735 | A projekt fő célja egy olyan közösségi tér létrehozása, mely a gyógyhely múltjához, történelméhez, híréhez méltón képes közösségi és turisztikai élményt nyújtani a Bükfürdőre látogatóknak. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
