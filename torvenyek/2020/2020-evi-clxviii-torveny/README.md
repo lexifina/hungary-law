@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-168-00-00
 | 2021-01-07 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-168-00-00.5 |
 | 2021-01-08 | 2010. évi CXXX. törvény | 2020-168-00-00.6 |
 | 2021-07-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-168-00-00.7 |
+| 2021-07-17 | 2010. évi CXXX. törvény | 2020-168-00-00.8 |
