@@ -1,4 +1,4 @@
-24/F. §[^42] (1) Az Országgyűlési Őrség 2019. december 1. napján hivatásos szolgálati jogviszonyban álló tagja – a (2) bekezdésben foglalt kivétellel – 2019. december hónapban bruttó 500 000 forint mértékű egyszeri fegyveres testületi juttatásra (e § vonatkozásában a továbbiakban: juttatás) jogosult.
+24/F. §[^43] (1) Az Országgyűlési Őrség 2019. december 1. napján hivatásos szolgálati jogviszonyban álló tagja – a (2) bekezdésben foglalt kivétellel – 2019. december hónapban bruttó 500 000 forint mértékű egyszeri fegyveres testületi juttatásra (e § vonatkozásában a továbbiakban: juttatás) jogosult.
 
 (2) Nem jogosult a juttatásra a rendvédelmi szerv hivatásos állományának azon tagja,
 
@@ -18,4 +18,4 @@ a) a hivatásos állomány volt tagja, ha a szolgálati viszonya a 2019. január
 
 b) a hivatásos állomány 2019. január 1. és 2019. december 1. közötti időszakban szolgálatteljesítés közben elhunyt tagjának örököse.
 
-[^42]: A 24/F. §-t az 50/2019. (XII. 27.) BM rendelet 1. §-a iktatta be.
+[^43]: A 24/F. §-t az 50/2019. (XII. 27.) BM rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-24/E. §[^40] (1) A hivatásos állomány tagja a képernyő előtti munkavégzéshez szükséges éleslátást biztosító szemüveg (a továbbiakban: képernyős szemüveg) készítésével kapcsolatos költségtérítésre jogosult.
+24/E. §[^41] (1) A hivatásos állomány tagja a képernyő előtti munkavégzéshez szükséges éleslátást biztosító szemüveg (a továbbiakban: képernyős szemüveg) készítésével kapcsolatos költségtérítésre jogosult.
 
 (2) A hivatásos állomány tagja akkor jogosult az (1) bekezdés szerinti költségtérítésre, ha legalább 6 hónap szolgálati viszonyban töltött idővel rendelkezik.
 
@@ -8,11 +8,11 @@
 
 (5) A hivatásos állomány más szervhez vezényelt tagja esetében a képernyős szemüveg készítésével kapcsolatos költségek megtérítése a foglalkoztató szervet terheli.
 
-(6)[^41] A hivatásos állomány tagja a képernyős szemüveg költségeinek megtérítése iránti kérelmet az Országgyűlési Őrség parancsnokánál terjesztheti elő.
+(6)[^42] A hivatásos állomány tagja a képernyős szemüveg költségeinek megtérítése iránti kérelmet az Országgyűlési Őrség parancsnokánál terjesztheti elő.
 
 (7) A képernyős szemüveg készítésével kapcsolatos költségek megtérítésére irányuló kérelemhez csatolni kell az Országgyűlési Őrség nevére és címére kiállított, a hivatásos állomány tagja nevével ellátott – a szemüveglencse és a keret árát külön-külön feltüntető – részletes számlát, valamint az alapellátó orvos által a képernyős szemüveg viselésének indokoltságáról szóló igazolást.
 
 (8) Az Országgyűlési Őrség parancsnoka a kérelem alapján, a részletes számlának a benyújtását követő 30 napon belül intézkedik a kifizetésről.
 
-[^40]: A 24/E. §-t a 49/2013. (VIII. 27.) BM rendelet 3. §-a iktatta be.
-[^41]: A 24/E. § (6) bekezdése a 9/2018. (IV. 25.) BM rendelet 65. § a) pontja szerint módosított szöveg.
+[^41]: A 24/E. §-t a 49/2013. (VIII. 27.) BM rendelet 3. §-a iktatta be.
+[^42]: A 24/E. § (6) bekezdése a 9/2018. (IV. 25.) BM rendelet 65. § a) pontja szerint módosított szöveg.
