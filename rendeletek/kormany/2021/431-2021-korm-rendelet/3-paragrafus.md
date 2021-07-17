@@ -1,0 +1,1 @@
+## 2. § Az Exim tv. 6. § (1) bekezdésében felsoroltakon túl az állam a központi költségvetés terhére visszavonhatatlanul készfizető kezesként felel az Eximbank Zrt. által a Kormány határozata alapján nyújtott hitel- és pénzkölcsönből eredő fizetési kötelezettségek teljesítéséért.
