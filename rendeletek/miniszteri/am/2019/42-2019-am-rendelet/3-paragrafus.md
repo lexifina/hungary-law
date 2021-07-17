@@ -4,7 +4,7 @@
 
 a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a kamattámogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe;
 
-b)[^3] a kamattámogatási kérelem benyújtás pénzügyi intézménynél történő kezdeményezésének időpontjában
+b)[^4] a kamattámogatási kérelem benyújtás pénzügyi intézménynél történő kezdeményezésének időpontjában
 
 ba) nem áll csőd-, felszámolási, végelszámolási, kényszertörlési vagy végrehajtási eljárás alatt,
 
@@ -26,9 +26,9 @@ bi) a beruházási hitel tárgyát képező beruházás megvalósítását nem k
 
 c) meghatalmazza a pénzügyi intézményt, hogy a kamattámogatás lehívásával kapcsolatban a Magyar Államkincstár (a továbbiakban: Kincstár) előtt eljárjon.
 
-(2)[^4] Az (1) bekezdés b) pontjában foglaltakról az igénylőnek a kamattámogatási kérelem benyújtás pénzügyi intézménynél történő kezdeményezésével egyidejűleg nyilatkoznia kell.
+(2)[^5] Az (1) bekezdés b) pontjában foglaltakról az igénylőnek a kamattámogatási kérelem benyújtás pénzügyi intézménynél történő kezdeményezésével egyidejűleg nyilatkoznia kell.
 
-(3)[^5] A kamattámogatást az igénylő a kamattámogatási kérelem Kincstárhoz történt továbbítását (a továbbiakban: kamattámogatási kérelem benyújtása) követően hatályba lépett hitelszerződésekkel összefüggésben veheti igénybe, feltéve, hogy a 2. § (1) és (2) bekezdése szerinti beruházási hitel tárgyát képező beruházás megvalósítását a – 651/2014/EU bizottsági rendelet vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdése szerinti adatokat is tartalmazó – kamattámogatási kérelem benyújtásának időpontjában még nem kezdte meg. A beruházás megkezdésének a 651/2014/EU bizottsági rendelet 2. cikk (23) bekezdése vagy a 702/2014/EU bizottsági rendelet 2. cikk (25) bekezdése szerinti tevékenység minősül.
+(3)[^6] A kamattámogatást az igénylő a kamattámogatási kérelem Kincstárhoz történt továbbítását (a továbbiakban: kamattámogatási kérelem benyújtása) követően hatályba lépett hitelszerződésekkel összefüggésben veheti igénybe, feltéve, hogy a 2. § (1) és (2) bekezdése szerinti beruházási hitel tárgyát képező beruházás megvalósítását a – 651/2014/EU bizottsági rendelet vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdése szerinti adatokat is tartalmazó – kamattámogatási kérelem benyújtásának időpontjában még nem kezdte meg. A beruházás megkezdésének a 651/2014/EU bizottsági rendelet 2. cikk (23) bekezdése vagy a 702/2014/EU bizottsági rendelet 2. cikk (25) bekezdése szerinti tevékenység minősül.
 
 (4) Kamattámogatás nem nyújtható a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1308/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1308/2013/EU rendelet) megállapított valamely tiltás vagy korlátozás megszegésével még akkor sem, ha az ilyen tiltások és korlátozások kizárólag az 1308/2013/EU rendeletben előírt uniós támogatásokra vonatkoznak.
 
@@ -58,6 +58,6 @@ kapcsolódó beruházási hitelhez.
 
 (7) Különböző azonosítható elszámolható költségek esetén a kamattámogatás halmozható más, államháztartási vagy európai uniós forrásból származó támogatással.
 
-[^3]: A 3. § (1) bekezdés b) pont nyitó szövegrésze a 66/2019. (XII. 30.) AM rendelet 16. § b) pontja szerint módosított szöveg.
-[^4]: A 3. § (2) bekezdése a 66/2019. (XII. 30.) AM rendelet 16. § c) pontja szerint módosított szöveg.
-[^5]: A 3. § (3) bekezdése a 66/2019. (XII. 30.) AM rendelet 16. § d) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés b) pont nyitó szövegrésze a 66/2019. (XII. 30.) AM rendelet 16. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdése a 66/2019. (XII. 30.) AM rendelet 16. § c) pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdése a 66/2019. (XII. 30.) AM rendelet 16. § d) pontja szerint módosított szöveg.

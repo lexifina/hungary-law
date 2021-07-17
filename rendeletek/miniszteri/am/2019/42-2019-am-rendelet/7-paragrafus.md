@@ -6,6 +6,6 @@
 
 (3) A Kincstár a kamattámogatási döntés alapján havonta, az adott hónap 15. napjáig tájékoztatja az agrárpolitikáért felelő minisztert (a továbbiakban: miniszter) a megelőző hónap utolsó napjára vonatkozóan a kamattámogatási programba bevont hitelállomány alakulásáról. Ha a tájékoztatásban szereplő hitelállomány eléri a (2) bekezdésben meghatározott keret vagy alkeret 90%-át, a miniszter a keret vagy az alkeret vonatkozásában közleményben felfüggeszti a kamattámogatási kérelmek benyújtását.
 
-(4)[^7] A felfüggesztésről szóló miniszteri közlemény megjelenéséig benyújtott kamattámogatási kérelmek befogadásra és elbírálásra kerülnek.
+(4)[^8] A felfüggesztésről szóló miniszteri közlemény megjelenéséig benyújtott kamattámogatási kérelmek befogadásra és elbírálásra kerülnek.
 
-[^7]: A 7. § (4) bekezdését a 23/2020. (VI. 19.) AM rendelet 11. §-a iktatta be.
+[^8]: A 7. § (4) bekezdését a 23/2020. (VI. 19.) AM rendelet 11. §-a iktatta be.

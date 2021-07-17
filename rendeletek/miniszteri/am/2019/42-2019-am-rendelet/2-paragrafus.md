@@ -26,7 +26,7 @@ a) az elsődleges mezőgazdasági termeléshez kapcsolódó beruházások eseté
 
 b) a mezőgazdasági termékfeldolgozáshoz vagy -forgalmazáshoz és az erdőgazdálkodáshoz kapcsolódó beruházások esetében a 2 milliárd forintot.
 
-(5) A kamattámogatás mértéke az ügyleti kamat 80%-a, de legfeljebb 2 százalékpont éves szinten azzal, hogy kamattámogatás csak azon kamatidőszak tekintetében nyújtható, amelynél a hiteldíj nem haladja meg a 2,5%/év szintet.
+(5)[^2] A kamattámogatás mértéke az ügyleti kamat 80%-a, de legfeljebb 2 százalékpont éves szinten azzal, hogy kamattámogatás csak azon kamatidőszak tekintetében nyújtható, amelynél a hiteldíj nem haladja meg az 5%/év szintet.
 
 (6) A kamatidőszak hiteldíjának számításakor figyelembe kell venni a kamatidőszakra megállapított ügyleti kamatot, továbbá valamennyi, a hitelhez kapcsolódó, a kamatidőszakban esedékessé váló, a hitelfelvevőt terhelő díjat, jutalékot, költséget, kivéve
 
@@ -48,7 +48,7 @@ b) a 702/2014/EU bizottsági rendelet 4. cikk (1) bekezdés a) vagy c) pontjába
 
 meghatározott határértéket.
 
-(10)[^2] A támogatási intenzitás
+(10)[^3] A támogatási intenzitás
 
 a) a 651/2014/EU bizottsági rendelet 14. cikke alapján megvalósuló beruházás esetén az Atr. V. fejezete szerinti regionális támogatási térkép alapján kerül meghatározásra;
 
@@ -61,4 +61,5 @@ bb) középvállalkozásnak minősülő igénylő vonatkozásában legfeljebb az
 c) a 702/2014/EU bizottsági rendelet 14. vagy 17. cikke alapján megvalósuló beruházás esetén legfeljebb az elszámolható költségek 40%-a.
 
 [^1]: A 2. § (2) bekezdés záró szövegrésze a 66/2019. (XII. 30.) AM rendelet 16. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (10) bekezdése a 66/2019. (XII. 30.) AM rendelet 14. §-ával megállapított szöveg.
+[^2]: A 2. § (5) bekezdése a 25/2021. (VII. 14.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (10) bekezdése a 66/2019. (XII. 30.) AM rendelet 14. §-ával megállapított szöveg.
