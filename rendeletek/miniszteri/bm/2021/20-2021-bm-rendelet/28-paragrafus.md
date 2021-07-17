@@ -1,0 +1,1 @@
+## „(4) A jubileumi jutalmat a hivatásos állomány Hszt. 150. §-a alapján illetmény nélküli szabadságon lévő tagjának az utolsó szolgálati beosztás szerint számított illetmény alapulvételével kell megállapítani.”
