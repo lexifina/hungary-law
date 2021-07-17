@@ -1,3 +1,0 @@
-## 17. § Az R2. 19. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Nem jogosult az e Fejezet szerinti költségtérítésekre az állomány azon tagja, akit saját kérelmére helyeznek át más településen lévő szolgálatteljesítési helyre, vagy saját érdekkörében felmerülő ok miatt, saját elhatározásából nem költözik át oda, továbbá, aki az áthelyezését követően saját elhatározásából a szolgálatteljesítési hely vonzáskörzetén kívül eső településre költözik át. Aki a szolgálatteljesítés helyével megegyező településen részére a Lakásrendeletben foglaltaknak megfelelően felajánlott, jogosultságának megfelelő lakást nem fogadja el, úgy kell tekinteni, mint aki saját elhatározásából nem költözik át oda.”

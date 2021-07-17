@@ -1,1 +1,0 @@
-## 18. § Az R2. 15. § (2) bekezdésében a „térítésmentes személyszállításban részesül” szövegrész helyébe a „térítésmentes személyszállítás igénybevételére jogosító engedéllyel rendelkezik” szöveg lép.

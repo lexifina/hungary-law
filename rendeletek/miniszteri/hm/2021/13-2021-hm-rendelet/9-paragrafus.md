@@ -1,1 +1,0 @@
-## „(6a) A (6) bekezdésben foglaltakon túl a szolgálatteljesítési időkeret tartama annak lejárta előtt egészségügyi válsághelyzet vagy veszélyhelyzet időtartama alatt különösen indokolt esetben megszakítható.”
