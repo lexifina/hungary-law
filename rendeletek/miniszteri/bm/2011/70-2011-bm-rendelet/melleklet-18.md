@@ -4,7 +4,7 @@
 
 1. Szerv létszáma (fő) összesen és jogviszony szerinti megoszlásban (hivatásos, nem hivatásos, közfoglalkoztatottak)
 
-2. A személyi állomány száma (fő) kockázati kategória (IV, III, II, I, S) és jogviszony (hivatásos, nem hivatásos, közfoglalkoztatottak) szerinti megoszlása
+2. A személyi állomány száma (fő) kockázati kategória (alkalmasságvizsgálati kategória) és jogviszony (hivatásos, nem hivatásos, közfoglalkoztatottak) szerinti megoszlása
 
 3. Nem hivatásos állomány munkaköri alkalmassági vizsgálata
 
@@ -14,25 +14,31 @@
 
 3.3. Vizsgált személyek körének (nem hivatásos állomány, közfoglalkoztatottak) száma (fő)
 
-4. Hivatásos állomány alkalmassági vizsgálata
+4. Hivatásos állomány alkalmasságvizsgálata
 
-4.1. I. fokú alkalmassági vizsgálatot végző szerv megjelölése (a rendvédelmi szerv saját egészségügyi szolgálat által végzett I. fokú vizsgálat, a Rendőri szerv alapellátó egysége által végzett I. fokú vizsgálat)
+4.1. Elsőfokú alkalmasságvizsgálatot végző szerv megjelölése (a vizsgálatot végző szervezeti egység megjelölésével)
 
-4.1.1. Alkalmassági vizsgálat megnevezése (Hivatásos állományba jelentkezők felvétel előtti alkalmassági vizsgálata, kivéve a szenior állományba jelentkezőket;* Szenior állományba jelentkezők alkalmassági vizsgálata; Hivatásos állományban lévő személyek alkalmassági vizsgálata (átminősítés, áthelyezés, időszakos, stb.)
+4.1.1. Alkalmasságvizsgálat megnevezése (Hivatásos állományba jelentkezők felvétel előtti alkalmasságvizsgálata, kivéve a szenior állományba jelentkezőket*; Szenior állományba jelentkezők alkalmasságvizsgálata; Hivatásos állományban lévő személyek alkalmasságvizsgálata, típusonként megjelölve)
 
-4.1.2. Egészségi alkalmassági vizsgálat minősítése (alkalmas, alkalmatlan, ideiglenesen alkalmatlan)
+4.1.2. Egészségi alkalmasságvizsgálat minősítése
 
-4.1.3. Pszichikai alkalmassági vizsgálat minősítése (alkalmas, alkalmatlan, ideiglenesen alkalmatlan)
+4.1.3. Pszichológiai alkalmasságvizsgálat minősítése
 
-4.2. II. fokú alkalmassági vizsgálatot végző szerv megjelölése ((a rendvédelmi szerv saját egészségügyi szolgálat által végzett II. fokú vizsgálat, a Rendőri szerv alapellátó egysége által végzett II. fokú vizsgálat)
+4.2. Másodfokú alkalmasságvizsgálatot végző szerv megjelölése (a vizsgálatot végző szervezeti egység megjelölésével)
 
-4.2.1. Alkalmassági vizsgálat megnevezése (Hivatásos állományba jelentkezők felvétel előtti alkalmassági vizsgálata, kivéve a szenior állományba jelentkezőket;* Szenior állományba jelentkezők alkalmassági vizsgálata; Hivatásos állományban lévő személyek alkalmassági vizsgálata (átminősítés, áthelyezés, időszakos, stb.)
+4.2.1. Alkalmasságvizsgálat megnevezése (Hivatásos állományba jelentkezők felvétel előtti alkalmasságvizsgálata, kivéve a szenior állományba jelentkezőket;* Szenior állományba jelentkezők alkalmasságvizsgálata; Hivatásos állományban lévő személyek alkalmassági vizsgálata, típusonként megjelölve)
 
-4.2.2. Egészségi alkalmassági vizsgálat minősítése (alkalmas, alkalmatlan, ideiglenesen alkalmatlan)
+4.2.2. Egészségi alkalmasságvizsgálat minősítése
 
-4.2.3. Pszichikai alkalmassági vizsgálat minősítése (alkalmas, alkalmatlan, ideiglenesen alkalmatlan)
+4.2.3. Pszichológiai alkalmasságvizsgálat minősítése
 
-5. Egyéb alkalmassági vizsgálatok
+4.3. Alkalmasságvizsgálat megnevezése (Hivatásos állományban lévő személyek alkalmassági vizsgálata, típusonként megjelölve)
+
+4.3.1. Felülvizsgálati eljárásban végzett egészségi alkalmasságvizsgálat minősítése
+
+4.3.2. Pszichológiai háromfős bizottsági eljárásban végzett pszichológiai alkalmasságvizsgálat minősítése”
+
+5. Egyéb alkalmasságvizsgálatok
 
 5.1. Vizsgálat megnevezése (Záróvizsgálat; Külföldön munkát vállalók vizsgálata
 
@@ -80,4 +86,4 @@
 
 *Beleértve a rendészeti oktatási intézménybe jelentkezőket is!
 
-[^84]: A 18. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés i) pontja iktatta be.
+[^84]: A 18. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés i) pontja iktatta be, szövege a 20/2021. (VII. 14.) BM rendelet 6–7. §-a szerint módosított szöveg.
