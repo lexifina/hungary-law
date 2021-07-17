@@ -1,3 +1,1 @@
-5. § A Pftv. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Az importőr köteles biztosítani, hogy a termékhez mellékelt használati és kezelési útmutató a fogyasztók és más végfelhasználók számára magyar nyelvű, közérthető és egyértelmű legyen, valamint tartalmazza mindazt az információt, amelyet a gyártó által csatolt idegen nyelvű használati és kezelési útmutató tartalmaz. Amennyiben a gyártó nem mellékelte a termékhez az általános hatályú, közvetlenül alkalmazandó európai uniós jogi aktus vagy az Európai Unió egyes termékek forgalmazásának feltételeit harmonizáló kötelező jogi aktusa rendelkezéseinek átültetése céljából elfogadott jogszabály által előírt tájékoztatásokat, az importőr köteles azt pótolni.”
+5. §
