@@ -1,4 +1,4 @@
-## 14. §[^76] A debreceni Észak-Nyugati Gazdasági Övezettel, valamint a Debreceni Regionális és Innovációs Tudományos Technológiai Park bővítésével összefüggő kormányrendeletek módosításáról szóló 243/2018. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 2. mellékletben foglalt táblázat 15. sorát a Módr6. hatálybalépésekor[^77] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 14. §[^77] A debreceni Észak-Nyugati Gazdasági Övezettel, valamint a Debreceni Regionális és Innovációs Tudományos Technológiai Park bővítésével összefüggő kormányrendeletek módosításáról szóló 243/2018. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 2. mellékletben foglalt táblázat 15. sorát a Módr6. hatálybalépésekor[^78] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^76]: A 14. §-t a 243/2018. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
-[^77]: A hatálybalépés időpontja 2018. december 14.
+[^77]: A 14. §-t a 243/2018. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^78]: A hatálybalépés időpontja 2018. december 14.
