@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. mellékletében foglalt 2. táblázat C:4 mezőjében a „16,84 (ebből indikatív önerő: 6,91)” szövegrész helyébe a „17,82 (ebből indikatív önerő: 6,91)” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:32 mezőjében a „9,94” szövegrész helyébe a „10,92” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1477/2021. (VII. 15.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos összköltség (forint) | EFOP terhére történő többlettámogatás legfeljebb (forint) | Projekt megnövelt összköltsége legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.1-VEKOP-16- 2016-00001 | Gyermek sürgősségi, baleseti ellátás fejlesztése | Országos Kórházi Főigazgatóság (konzorciumvezető) Heim Pál Gyermekkórház, Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem, Petz Aladár Megyei Oktató Kórház, Borsod-Abaúj-Zemplén Megyei Egyetemi Oktató Kórház | 16 887 530 538 | 979 852 505 | 17 867 383 043 | A projekt célja országos, legmagasabb progresszivitási szintű gyermekbaleseti és gyermeksürgősségi ellátóközpont (III. a. szint) és vidéki ellátást biztosító országos háromszintű (I. szint, II. szint és III. szint) gyermekbaleseti és gyermeksürgősségi ellátóhálózat létrehozása, továbbá gyermektraumatológia kialakítása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
