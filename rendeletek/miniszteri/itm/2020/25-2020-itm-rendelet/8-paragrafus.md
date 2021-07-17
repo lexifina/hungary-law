@@ -1,5 +1,5 @@
+## 7. §[^8]
+
 ## 8. A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek vizsgálatáról és tanúsításáról szóló 35/2016. (IX. 27.) NGM rendelet módosítása
 
-8. § (1) A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek vizsgálatáról és tanúsításáról szóló 35/2016. (IX. 27.) NGM rendelet (a továbbiakban: R6.) 3. § 1. pontjában az „a termék forgalmazása tekintetében az akkreditálás és piacfelügyelet előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK rendelet)” szövegrész helyébe az „a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet)” szöveg lép.
-
-(2) Az R6. 15. § (1) bekezdésében és a 2. melléklet B) 1.0.5. b) pontjában a „765/2008/EK rendelet” szövegrész helyébe a „765/2008/EK európai parlamenti és tanácsi rendelet” szöveg lép.
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
