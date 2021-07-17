@@ -16,13 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:334 mezőjében a „6,60” szövegrész helyébe a „7,50” szöveg,
-
-## b) E:334 mezőjében a „0,74” szövegrész helyébe a „0,84” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1480/2021. (VII. 15.) Korm. határozathoz
 
@@ -35,3 +29,5 @@
 | 3. | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (Ft) | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) | Az EU felé el nem számol- ható költségek összege (Ft) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján |
 
 | 4. | KEHOP-3.2.1-15- 2017- 00025 | Komplex hulladék- gazdálkodási rendszer fejlesztése a Szabolcs- Szatmár-Bereg megyében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Szabolcs-Szatmár- Bereg Megyei Szilárdhulladék- gazdálkodási Társulás az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 89,946060 | 6 602 040 804 | 737 959 196 | 1 964 201 616 | 0 | – | +897 511 245 | +100 321 507 | +261 979 717 | – | 89,946060 | 7 499 552 049 | 838 280 703 | 2 226 181 333 | 0 | 10 564 014 085 | A projekttel szembeni szakmai elvárás a projektterületen élők megfelelő hulladék- gazdálkodási közszolgáltatással történő ellátásának biztosítása az Országos Hulladékgazdálkodási Közszolgáltatási Tervnek megfelelően. A projekt keretében a Szabolcs-Szatmár- Bereg megyei térségi hulladékgazdálkodási rendszer komplex továbbfejlesztése, az előválogató kapacitás további fejlesztése, valamint az utóválogató kapacitás kiépítése valósul meg. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
