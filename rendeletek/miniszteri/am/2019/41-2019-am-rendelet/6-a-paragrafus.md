@@ -1,4 +1,4 @@
-## 6a.[^8] Átmeneti támogatás
+## 6a.[^11] Átmeneti támogatás
 
 ## 6/A. § Ezen alcím alkalmazásában
 
@@ -8,4 +8,4 @@ b) kapcsolt vállalkozás: a koronavírus járvány miatt nehéz gazdasági hely
 
 c) nehéz helyzetben lévő vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. § (4a) bekezdése szerinti vállalkozás.
 
-[^8]: A 6a. alcímet (6/A–6/C. §) a 41/2020. (VIII. 19.) AM rendelet 32. §-a iktatta be.
+[^11]: A 6a. alcímet (6/A–6/C. §) a 41/2020. (VIII. 19.) AM rendelet 32. §-a iktatta be.

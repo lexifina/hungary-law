@@ -2,7 +2,7 @@
 
 4. § (1) Támogatás igénybevételére az az állattartó (a továbbiakban: kérelmező) jogosult, aki vagy amely
 
-a)[^5] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe;
+a)[^6] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe;
 
 b) a támogatási kérelem benyújtásának időpontjában
 
@@ -20,7 +20,7 @@ d) a támogatási kérelemmel érintett támogatási időszakban a tenyésztősz
 
 e) rendelkezik a 119/2007. (X. 18.) FVM rendelet szerint bejelentett szarvasmarhatartó tenyészettel.
 
-(2) Egy adott központi lajstromszámmal rendelkező apaállat után kizárólag a tenyésztésbe állítást követő első támogatási kérelem benyújtási időszakban és kizárólag egy alkalommal igényelhető támogatás.
+(2)[^7] Egy adott központi lajstromszámmal rendelkező apaállat után kizárólag az apaállat tenyésztésbe állítását követő első támogatási kérelem benyújtási időszakban és kizárólag egy alkalommal igényelhető támogatás.
 
 (3) A kérelmező a bejelentett tenyészetében lévő, a tárgyév augusztus 31-én az ENAR szerinti adatbázisban nyilvántartott és ebben az időpontban legalább a 18 hónapos kort betöltött nőivarú szarvasmarha vagy bivaly (a továbbiakban együtt: tehén) minden megkezdett harminc egyedszáma után egy apaállat tenyésztésbe állításához igényelhet támogatást.
 
@@ -28,4 +28,5 @@ e) rendelkezik a 119/2007. (X. 18.) FVM rendelet szerint bejelentett szarvasmarh
 
 (5) Egy kérelmező egy támogatási időszakban egy támogatási kérelmet nyújthat be.
 
-[^5]: A 4. § (1) bekezdés a) pontja a 41/2020. (VIII. 19.) AM rendelet 33. § pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdés a) pontja a 41/2020. (VIII. 19.) AM rendelet 33. § pontja szerint módosított szöveg.
+[^7]: A 4. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 4. § b) pontja szerint módosított szöveg.

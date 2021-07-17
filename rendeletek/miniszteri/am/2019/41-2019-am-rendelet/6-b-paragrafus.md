@@ -1,4 +1,4 @@
-6/B. § (1)[^9] A kérelmező – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2021. évben benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
+6/B. § (1)[^12] A kérelmező – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2021. évben benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult.
 
 (2) Az átmeneti támogatásra a 2–6. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -26,4 +26,4 @@ bd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító 
 
 (8) Az átmeneti támogatás iránti kérelem a benyújtását követő naptól számított két napon belül, de legkésőbb az 5. § (1) bekezdésében meghatározott benyújtási határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó átmeneti támogatási kérelmet kell elbírálni. Az átmeneti támogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
 
-[^9]: A 6/B. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 28. § a) pontja szerint módosított szöveg.
+[^12]: A 6/B. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 28. § a) pontja szerint módosított szöveg.
