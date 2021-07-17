@@ -30,25 +30,25 @@ ca)[^6] a rendvédelmi feladatokat ellátó szerv hivatásos állományának tag
 
 cb)[^7] a rendvédelmi feladatokat ellátó szervvel rendvédelmi igazgatási szolgálati jogviszonyban álló személy,
 
-cc) a rá vonatkozó mértékben a nyugállományba helyezett személy, valamint
+cc)[^8] a rá vonatkozó mértékben a nyugállományba helyezett személy, illetve a rendvédelmi egészségkárosodási ellátásra jogosult személy, valamint
 
-cd)[^8] a rá vonatkozó mértékben a személyi állomány tagjainak a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvényben (a továbbiakban: Hszt.) meghatározott közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
+cd)[^9] a rá vonatkozó mértékben a személyi állomány tagjainak a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvényben (a továbbiakban: Hszt.) meghatározott közeli hozzátartozója (a továbbiakban: közeli hozzátartozó),
 
 ## feltéve minden esetben, hogy rendelkezik az e rendeletben meghatározott támogatás jogosultsági feltételeivel;
 
-d)[^9] nyugállományba helyezett: az a személy, akinek a rendvédelmi feladatokat ellátó szervvel vagy annak jogelődjével fennálló hivatásos szolgálati viszonya nyugállományba helyezéssel, vagy az öregségi, rokkantsági nyugdíjjogosultságra, rokkantsági ellátásra való jogosultságra tekintettel szűnt meg – az ellátásra való jogosultság időtartamára –, ideértve azokat is, akiknek nyugdíja a korhatár előtti öregségi nyugdíjak megszüntetésről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény alapján korhatár előtti ellátássá vagy szolgálati járandósággá alakult át; továbbá az a személy, akit az elmúlt rendszerben politikai okból bocsátottak el a Belügyminisztérium valamely szervétől és rehabilitálására a vonatkozó rendelkezés szerint sor került;
+d)[^10] nyugállományba helyezett: az a személy, akinek a rendvédelmi feladatokat ellátó szervvel vagy annak jogelődjével fennálló hivatásos szolgálati jogviszonya vagy rendvédelmi igazgatási szolgálati jogviszonya nyugállományba helyezéssel vagy az öregségi, rokkantsági nyugdíjjogosultságra, rokkantsági ellátásra való jogosultságra tekintettel szűnt meg – az ellátásra való jogosultság időtartamára –, ideértve azokat is, akiknek nyugdíja a korhatár előtti öregségi nyugdíjak megszüntetésről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény alapján korhatár előtti ellátássá vagy szolgálati járandósággá alakult át; továbbá az a személy, akit az elmúlt rendszerben politikai okból bocsátottak el a Belügyminisztérium valamely szervétől és rehabilitálására a vonatkozó rendelkezés szerint sor került;
 
-e)[^10] országos parancsnok: a rendvédelmi feladatokat ellátó szerv országos parancsnoka, illetve főigazgatója;
+e)[^11] országos parancsnok: a rendvédelmi feladatokat ellátó szerv országos parancsnoka, illetve főigazgatója;
 
 f) személyi állomány:
 
-fa)[^11] a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, valamint
+fa)[^12] a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja, valamint
 
-fb)[^12] a rendvédelmi feladatokat ellátó szervvel rendvédelmi igazgatási szolgálati jogviszonyban álló személy;
+fb)[^13] a rendvédelmi feladatokat ellátó szervvel rendvédelmi igazgatási szolgálati jogviszonyban álló személy;
 
-g)[^13] személyügyi szolgálat: a rendvédelmi feladatokat ellátó szervnél vagy annak szervezeti egységénél működő személyügyi feladatokat ellátó munkaszervezet,
+g)[^14] személyügyi szolgálat: a rendvédelmi feladatokat ellátó szervnél vagy annak szervezeti egységénél működő személyügyi feladatokat ellátó munkaszervezet,
 
-h)[^14] központi gondozott: a hősi halottá vagy a szolgálat halottjává, valamint a Belügyminisztérium halottjává minősített elhunyt özvegye, valamint a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény szerinti árvaellátásra jogosult.
+h)[^15] központi gondozott: a hősi halottá vagy a szolgálat halottjává, valamint a Belügyminisztérium halottjává minősített elhunyt özvegye, valamint a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény szerinti árvaellátásra jogosult.
 
 [^1]: Az 1. § a) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § b) pontja a 29/2016. (VII. 15.) BM rendelet 25. §-ával megállapított szöveg.
@@ -57,10 +57,11 @@ h)[^14] központi gondozott: a hősi halottá vagy a szolgálat halottjává, va
 [^5]: Az 1. § b) pont bi) alpontját a 27/2019. (VI. 28.) BM rendelet 30. §-a iktatta be.
 [^6]: Az 1. § c) pont ca) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § c) pont cb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja, a 6/2019. (III. 11.) BM rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^8]: Az 1. § c) pont cd) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § b) pontja szerint módosított szöveg.
-[^9]: Az 1. § d) pontja az 54/2015. (X. 5.) BM rendelet 1. §-ával megállapított szöveg.
-[^10]: Az 1. § e) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^11]: Az 1. § f) pont fa) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^12]: Az 1. § f) pont fb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja, a 6/2019. (III. 11.) BM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^13]: Az 1. § g) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^14]: Az 1. § h) pontját az 54/2015. (X. 5.) BM rendelet 2. §-a iktatta be.
+[^8]: Az 1. § c) pont cc) alpontja a 20/2021. (VII. 14.) BM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 1. § c) pont cd) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. § d) pontja a 20/2021. (VII. 14.) BM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 1. § e) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § f) pont fa) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § f) pont fb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja, a 6/2019. (III. 11.) BM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: Az 1. § g) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^15]: Az 1. § h) pontját az 54/2015. (X. 5.) BM rendelet 2. §-a iktatta be.

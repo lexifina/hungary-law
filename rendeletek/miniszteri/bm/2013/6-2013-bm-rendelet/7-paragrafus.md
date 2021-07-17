@@ -1,6 +1,6 @@
 ## 4. Szociális segély
 
-7. §[^18] (1) Szociális segélyben azt az igényjogosultat lehet részesíteni, akinek jövedelemcsökkenés vagy váratlan, nagyösszegű kiadások miatt a megélhetése átmenetileg veszélybe került.
+7. §[^19] (1) Szociális segélyben azt az igényjogosultat lehet részesíteni, akinek jövedelemcsökkenés vagy váratlan, nagyösszegű kiadások miatt a megélhetése átmenetileg veszélybe került.
 
 (2) A szociális segély egyszeri, nettó összege a (3) és a (4) bekezdésben meghatározott kivétellel nem haladhatja meg
 
@@ -14,4 +14,4 @@ c) a belügyminiszter részére biztosított keret terhére adott segély eseté
 
 (4) A központi gondozottak esetében a belügyminiszter az illetményalap legfeljebb 950%-ának megfelelő összegű szociális segélyt adhat.
 
-[^18]: A 7. § az 54/2015. (X. 5.) BM rendelet 4. §-ával megállapított szöveg.
+[^19]: A 7. § az 54/2015. (X. 5.) BM rendelet 4. §-ával megállapított szöveg.

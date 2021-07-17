@@ -2,9 +2,9 @@
 
 10. § (1) Temetési segélyben részesíthető szociális helyzetének figyelembevételével a személyi állomány tagja a közeli hozzátartozója vagy más olyan hozzátartozója halála esetén, akinek eltartására kötelezett volt, feltéve, hogy a szociális igazgatásról és szociális ellátásokról szóló törvény alapján nem részesült temetési segélyben.
 
-(2) Temetési segélyben részesíthető a személyi állomány elhunyt tagjának, illetve igényjogosult hozzátartozójának házastársa, élettársa, gyermeke, szülője, ezek hiányában más hozzátartozója is, ha a temetéssel járó kiadások elsődlegesen rá hárulnak és az elhunyt e rendelet szerint nem került minősítésre.
+(2)[^21] Temetési segélyben részesíthető a személyi állomány elhunyt tagjának, illetve az elhunyt igényjogosultnak a házastársa, élettársa, gyermeke, szülője, ezek hiányában más hozzátartozója is, ha a temetéssel járó kiadások elsődlegesen rá hárulnak és az elhunyt e rendelet szerint nem került minősítésre.
 
-(3)[^20] Csak különösen indokolt esetben folyósítható temetési segély akkor, ha a rendvédelmi feladatokat ellátó szerv a temetés költségeit legalább 50%-ban átvállalta.
+(3)[^22] Csak különösen indokolt esetben folyósítható temetési segély akkor, ha a rendvédelmi feladatokat ellátó szerv a temetés költségeit legalább 50%-ban átvállalta.
 
 (4) A temetési segély legkisebb összege az illetményalap 75%-a, de nem haladhatja meg az illetményalap
 
@@ -12,4 +12,5 @@ a) 150%-ának megfelelő összeget, ha a temetési segélyről a területi jogá
 
 b) 280%-ának megfelelő összeget, ha a temetési segélyről az országos parancsnok vagy a központi szerv vezetője
 
-[^20]: A 10. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^21]: A 10. § (2) bekezdése a 20/2021. (VII. 14.) BM rendelet 14. §-a szerint módosított szöveg.
+[^22]: A 10. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
