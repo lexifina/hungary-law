@@ -6,7 +6,7 @@
 
 2. harmadik országbeli állampolgárnak kulcsszemélyzetként történő munkavégzéséhez,
 
-3.[^29] a többségi külföldi tulajdonban lévő gazdasági társaság esetében, naptári negyedévenként, a megelőző naptári negyedév utolsó napján érvényes munkajogi állományi létszáma tíz százalékát meg nem haladó létszámú harmadik országbeli állampolgár munkavégzéséhez,
+3.[^29] a többségi külföldi tulajdonban lévő gazdasági társaság esetében, naptári negyedévenként, a megelőző naptári negyedév utolsó napján érvényes munkajogi állományi létszáma húsz százalékát meg nem haladó létszámú harmadik országbeli állampolgár munkavégzéséhez,
 
 4. a külföldi állam diplomáciai vagy konzuli képviseletének személyzete közeli hozzátartozója magyarországi foglalkoztatásához, az államok között fennálló viszonosság hiányában,
 
@@ -40,7 +40,7 @@
 
 (3) Az (1) bekezdés 1. és 2. pontjában meghatározott esetekben a 6. §-ban foglalt szempontokat sem kell vizsgálni.
 
-(4)[^33] Az (1) bekezdés 3. pontja alkalmazása szempontjából, a megelőző naptári negyedév munkajogi állományi létszám tíz százalékának kiszámításánál minden olyan harmadik országbeli állampolgárt figyelembe kell venni, akinek foglalkoztatására munkavállalási engedély vagy összevont engedély alapján kerül sor.
+(4)[^33] Az (1) bekezdés 3. pontja alkalmazása szempontjából, a megelőző naptári negyedév munkajogi állományi létszám húsz százalékának kiszámításánál minden olyan harmadik országbeli állampolgárt figyelembe kell venni, akinek foglalkoztatására munkavállalási engedély vagy összevont engedély alapján kerül sor.
 
 (5) Az (1) bekezdés 4. pontjában meghatározott viszonosság fennállásának tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
@@ -48,10 +48,10 @@
 
 (7)[^35] A kormányhivatal az (1) bekezdés 13. pontjában meghatározott feltétel fennállásának vizsgálata érdekében a mozgóképszakmai hatóság által vezetett nyilvántartásból adatot igényelhet.
 
-[^29]: A 9. § (1) bekezdés 3. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (2) bekezdésével megállapított, a 345/2017. (XI. 16.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdés 3. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (2) bekezdésével megállapított, a 345/2017. (XI. 16.) Korm. rendelet 11. §-a, a 430/2021. (VII. 16.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^30]: A 9. § (1) bekezdés 5. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^31]: A 9. § (1) bekezdés 11. pontja a 411/2017. (XII. 15.) Korm. rendelet 54. §-ával megállapított szöveg.
 [^32]: A 9. § (1) bekezdés 15. pontja a 441/2015. (XII. 28.) Korm. rendelet 216. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^33]: A 9. § (4) bekezdése a 193/2015. (VII. 21.) Korm. rendelet 3. § (3) bekezdése, a 273/2018. (XII. 20.) Korm. rendelet 21. §-a szerint módosított szöveg.
+[^33]: A 9. § (4) bekezdése a 193/2015. (VII. 21.) Korm. rendelet 3. § (3) bekezdése, a 273/2018. (XII. 20.) Korm. rendelet 21. §-a, a 430/2021. (VII. 16.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
 [^34]: A 9. § (6) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (6) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 471. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^35]: A 9. § (7) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 469. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
