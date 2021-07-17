@@ -32,10 +32,11 @@ d) a vele közös háztartásban élő házastársa, élettársa, valamint feln�
 
 e)[^3]
 
-f) a rendvédelmi oktatási intézménybe jelentkezők fizikai, pszichikai és egészségügyi alkalmassági vizsgálatát szabályozó rendelet szerinti, a felvételt megelőző egészségügyi, pszichikai és fizikai alkalmassági vizsgálaton megállapított alkalmas minősítést tartalmazó irat másolata.
+f)[^4] a rendvédelmi oktatási intézménybe jelentkezők fizikai, pszichológiai és egészségügyi alkalmassági vizsgálatát szabályozó rendelet szerinti, a felvételt megelőző egészségügyi, pszichológiai és fizikai alkalmassági vizsgálaton megállapított alkalmas minősítést tartalmazó irat másolata.
 
 (4) A tisztjelölti jogviszony létesítéséhez szükséges feltételeket igazoló dokumentumok benyújtását követően a központi szakszolgálat intézkedik az ösztöndíjszerződés előkészítése érdekében. Az ösztöndíjszerződés aláírására csak abban az esetben kerülhet sor, ha rendelkezésre áll a Nemzeti Védelmi Szolgálat főigazgatójának a kifogástalan életvitel-ellenőrzés befejezéséről szóló határozata.
 
 [^1]: A 4. § (3) bekezdés b) pontja a 33/2019. (VIII. 30.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^2]: A 4. § (3) bekezdés c) pontja a 33/2019. (VIII. 30.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^3]: A 4. § (3) bekezdés e) pontját a 33/2019. (VIII. 30.) BM rendelet 14. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 4. § (3) bekezdés f) pontja a 20/2021. (VII. 14.) BM rendelet 30. §-a szerint módosított szöveg.
