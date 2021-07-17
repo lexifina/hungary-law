@@ -14,9 +14,9 @@ c) hitelintézetnél lekötött, a (2) bekezdésben meghatározott célra elkül
 
 (4) Az ingatlanértékelő köteles a felhasznált vagyoni biztosítékot – amennyiben e tevékenységét továbbfolytatja – haladéktalanul, de legkésőbb harminc napon belül pótolni.
 
-(5)[^9] Ha az ingatlanértékeléssel megbízott ingatlanértékelő természetes személy, az (1) bekezdés szerinti jogviszonyban egyidejűleg legfeljebb tizenöt ingatlanalapnál vagy ingatlantársaságnál láthat el ingatlanértékelői feladatot, egy adott alap esetében legfeljebb 5 évig, és az egy befektetési alapkezelőtől és az általa kezelt ingatlanalapoktól származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) 30%-át.
+(5)[^11] Ha az ingatlanértékeléssel megbízott ingatlanértékelő természetes személy, az (1) bekezdés szerinti jogviszonyban egyidejűleg legfeljebb tizenöt ingatlanalapnál vagy ingatlantársaságnál láthat el ingatlanértékelői feladatot, egy adott alap esetében legfeljebb 5 évig, és az egy befektetési alapkezelőtől és az általa kezelt ingatlanalapoktól származó jövedelme (bevétele) nem haladhatja meg az éves jövedelmének (bevételének) 30%-át.
 
-(6)[^10] Ha az ingatlanértékeléssel megbízott ingatlanértékelő nem természetes személy, az (1) bekezdésben előírtakon túlmenően további követelmény az ingatlanértékelő szervezettel szemben, hogy az ingatlanértékelő szervezet alkalmazásában álló, az értékelést ténylegesen végző természetes személy egyidejűleg legfeljebb tizenöt ingatlanalapnál vagy ingatlantársaságnál láthat el ingatlanértékelői feladatot, és az ingatlanértékelő szervezet egy befektetési alapkezelőtől és az általa kezelt ingatlanalapoktól származó bevétele nem haladhatja meg az éves nettó árbevételének 10%-át.
+(6)[^12] Ha az ingatlanértékeléssel megbízott ingatlanértékelő nem természetes személy, az (1) bekezdésben előírtakon túlmenően további követelmény az ingatlanértékelő szervezettel szemben, hogy az ingatlanértékelő szervezet alkalmazásában álló, az értékelést ténylegesen végző természetes személy egyidejűleg legfeljebb tizenöt ingatlanalapnál vagy ingatlantársaságnál láthat el ingatlanértékelői feladatot, és az ingatlanértékelő szervezet egy befektetési alapkezelőtől és az általa kezelt ingatlanalapoktól származó bevétele nem haladhatja meg az éves nettó árbevételének 10%-át.
 
-[^9]: A 44. § (5) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^10]: A 44. § (6) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^11]: A 44. § (5) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^12]: A 44. § (6) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 19. §-ával megállapított szöveg.
