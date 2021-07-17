@@ -64,20 +64,6 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-4. melléklet az 1489/2021. (VII. 16.) Korm. határozathoz
+4. melléklet az 1489/2021. (VII. 16.) Korm. határozathoz[^6]
 
-1. A Korm. határozat 1. melléklet 6. sora helyébe a következő sor lép:
-
-|  | [A | B | C | D | E | F |
-
-| 1. | Település | Projekt | Támogatott | Összeg (Ft) (a 2016–2019. évi forrás terhére) | Összeg (Ft) (a 2020. évi forrás terhére) | Összeg (Ft) (a 2021. évi forrás terhére)] |
-
-| 6. | Budapest | Díszlet Bartók Béla három színpadi művéhez | Magyar Állami Operaház | 1 000 000 |  |  |
-
-2. A Korm. határozat 1. melléklet 21. sora helyébe a következő sor lép:
-
-|  | [A | B | C | D | E | F |
-
-| 1. | Település | Projekt | Támogatott | Összeg (Ft) (a 2016–2019. évi forrás terhére) | Összeg (Ft) (a 2020. évi forrás terhére) | Összeg (Ft) (a 2021. évi forrás terhére)] |
-
-| 21. | Sárospatak | Árpád Vezér Gimnázium és Kollégium felújítása és bővítése (I. és II. ütem) | Önkormányzat | 400 000 000 |  | 620 000 000 |
+[^6]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

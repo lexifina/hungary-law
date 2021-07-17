@@ -32,14 +32,20 @@
 
 ## g) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva, a Központi Maradványelszámolási Alapból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről, valamint kormányhatározat módosításáról szóló 1377/2021. (VI. 11.) Korm. határozat 1. pont a) alpont ab) pontjában és 1. mellékletében meghatározottaktól eltérően úgy dönt, hogy a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok címnek az „Egyes Kárpát-medencei gazdaságélénkítő programok és összehangolt fejlesztési feladatok, valamint turisztikai fejlesztések koordinációjáért felelős kormánybiztos tulajdonosi joggyakorlásával kapcsolatos kiadások és bevételek” című alcímmel történő kiegészítésekor az új alcím sorszáma 4.
 
-## 2. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1276/2017. (V. 31.) Korm. határozat 1. pont a) alpontjában a „2021. június 30.” szövegrész helyébe a „2021. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. pont b) alpontjában az „az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint tekintetében 2021. június 30.” szövegrész helyébe az „az Országos Széchényi Könyvtár részére biztosított 250 000 000 forint tekintetében 2021. december 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, tárgyéven túli kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1707/2017. (IX. 25.) Korm. határozat 1. pontjában a „2021. június 30.” szövegrész helyébe a „2021. december 31.” szöveg lép.
+## 4.[^3]
 
-## 5. A Makovecz Imre-életmű gondozásának folytatásával összefüggő további intézkedésekről szóló 1815/2019. (XII. 30.) Korm. határozat (a továbbiakban: Korm. határozat) 1. melléklete a 4. melléklet szerint módosul.
+## 5.[^4]
 
-## 6. A Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Járvány Elleni Védekezés Központi Tartalékából történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, továbbá a migrációs nyomás és a terrorellenes intézkedések kezeléséhez szükséges további források biztosításáról, valamint egyes kormányhatározatok módosításáról szóló 1574/2020. (IX. 9.) Korm. határozat 1. pont k) alpontjában a „2021. március 31.” szövegrész helyébe a „2021. december 31.” szöveg lép.
+## 6.[^5]
 
 1. melléklet az 1489/2021. (VII. 16.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
