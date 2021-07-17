@@ -1,3 +1,5 @@
-## 91. § Az Erzsébet Táborok infrastrukturális fejlesztésére irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 266/2017. (IX. 11.) Korm. rendelet 5/B. § a) pontjában a „területfelhasználási egység” szövegrész helyébe az „építési övezetek, övezetek” szöveg, 5/C. §-ában az „eszközöket” szövegrész helyébe a „tervet” szöveg, a „településendezési eszköz” szövegrész helyébe a „településrendezési terv” szöveg lép.
+## 91. §[^50]
 
 ## 50. A Budapest XIII. kerületében megvalósuló, az OTP Bankcsoport új irodaházának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 318/2017. (XI. 7.) Korm. rendelet módosítása
+
+[^50]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 58. § A Budapest V. kerület Kossuth Lajos téri beruházási programmal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 100/2012. (V. 16.) Korm. rendelet 1/B. § c) és e) pontjában, valamint 2/E. §-ában az „eszközöket” szövegrész helyébe a „tervet” szöveg, az „eszköz” szövegrész helyébe a „terv” szöveg lép.
+## 58. §[^22]
 
 ## 22. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
+
+[^22]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## 78. § A Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézetének megvalósítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről, valamint a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 319/2015. (X. 30.) Korm. rendelet módosításáról szóló 131/2016. (VI. 7.) Korm. rendelet 6. § (1) bekezdésében az „eszközöket” szövegrész helyébe a „tervet” szöveg, az „eszköz” szövegrész helyébe a „terv” szöveg lép.
+## 78. §[^37]
 
 ## 37. A Vasas Sport Club létesítményfejlesztési programjának megvalósítását szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet módosításáról szóló 198/2016. (VII. 13.) Korm. rendelet módosítása
+
+[^37]: A 78. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

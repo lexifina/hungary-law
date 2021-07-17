@@ -1,3 +1,5 @@
-## 104. § A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet 5. § nyitó szövegrészében az „eszközöket” szövegrész helyébe a „tervet” szöveg lép.
+## 104. §[^63]
 
 ## 63. A budapesti fejlesztések előkészítésével, megvalósításával és a kiemelt nemzetközi sportesemények rendezési jogának megszerzésével kapcsolatos egyes feladatok ellátásáról szóló 175/2019. (VII. 16.) Korm. rendelet módosítása
+
+[^63]: A 104. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
