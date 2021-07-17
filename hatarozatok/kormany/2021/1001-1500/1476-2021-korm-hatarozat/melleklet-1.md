@@ -12,15 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) C:39 mezőjében az „Állami Egészségügyi Ellátó Központ” szövegrész helyébe az „Országos Kórházi Főigazgatóság” szöveg,
-
-## b) D:39 mezőjében a „9,93” szövegrész helyébe a „10,51” szöveg,
-
-## c) E:39 mezőjében a „0,09” szövegrész helyébe a „–” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1476/2021. (VII. 15.) Korm. határozathoz
 
@@ -29,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Módosított támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.0-16- 2016-00001 | Egészségügyi szakellátók szállóinak fejlesztése | Országos Kórházi Főigazgatóság | 9 927 257 660 | 573 655 609 | 10 500 913 269 | A projekt célja az egészségügyi szakdolgozók, szakképzésben részt vevő orvosok, szakorvosok alapvető szükségleteinek kielégítése, fiziológiai igényeik és biztonságérzetük megteremtése, lakhatási körülményeik javítása, elhelyezési lehetőségeik bővítése, amely vonzóbbá teszi a felkínált munkahelyeket, kulturált életkörülményeket és jövőképet teremt a munkavállalók számára, az egészségügyi intézmények vezetői számára pedig újabb eszközt biztosít az új dolgozók felvételére, hiányzó állások betöltésére, jól teljesítő dolgozók megtartására, illetve hiányszakmák betöltésére. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
