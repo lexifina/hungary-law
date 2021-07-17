@@ -1,3 +1,5 @@
-## 10. § Hatályát veszti a folyékony tüzelő- és fűtőanyagok, a motorhajtóanyagok, valamint egyes kőolajtermékek forgalmazási követelményei tekintetében a megfelelőségértékelési tevékenységgel összefüggő kérdésekről szóló 495/2017. (XII. 29.) Korm. rendelet 3. alcíme.
+## 10. §[^11]
 
 ## 11. Záró rendelkezések
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
