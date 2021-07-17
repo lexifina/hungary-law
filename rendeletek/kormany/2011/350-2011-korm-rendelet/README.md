@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-350-20-
 | 2013-08-01 | 2011-350-20-22.4 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2014-03-28 | 2011-350-20-22.5 | 88/2014. (III. 20.) Korm. rendelet |
 | 2021-07-01 | 2011-350-20-22.6 | 379/2021. (VI. 30.) Korm. rendelet |
+| 2021-07-17 | 2011-350-20-22.7 | 379/2021. (VI. 30.) Korm. rendelet |
