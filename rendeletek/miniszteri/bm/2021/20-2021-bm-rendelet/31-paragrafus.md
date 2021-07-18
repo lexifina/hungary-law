@@ -1,5 +1,6 @@
-## 30. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek tisztjelöltjeiről és a tisztjelölti szolgálati jogviszonyról szóló 20/2016. (VI. 9.) BM rendelet 4. § (3) bekezdés f) pontjában a „pszichikai” szövegrészek helyébe a „pszichológiai” szöveg lép.
+## 30. §[^38]
 
-## 17.[^6]
+## 17.[^39]
 
-[^6]: A 17. alcím (31–32. §) a 34. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^38]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 17. alcím (31–32. §) a 34. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.

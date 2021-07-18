@@ -1,3 +1,5 @@
-## 4. § A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet 97. § (4) bekezdés b) pontjában az „az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló együttes rendelet” szövegrész helyébe az „a szolgálati lőfegyver ideiglenes bevonásának szabályaira vonatkozó miniszteri rendeleti szabályozás” szöveg lép.
+## 4. §[^4]
 
 ## 4. A hivatásos katasztrófavédelmi szervek állományának, valamint a polgári védelmi szervezetek Szolgálati Szabályzatáról szóló 49/2011. (XII. 20.) BM rendelet módosítása
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(4) A jubileumi jutalmat a hivatásos állomány Hszt. 150. §-a alapján illetmény nélküli szabadságon lévő tagjának az utolsó szolgálati beosztás szerint számított illetmény alapulvételével kell megállapítani.”
+## 27. §[^35]
+
+[^35]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

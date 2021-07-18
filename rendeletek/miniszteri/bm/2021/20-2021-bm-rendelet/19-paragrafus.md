@@ -1,5 +1,6 @@
-## 18. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjainak szolgálatképes állapota megállapítása érdekében a befolyásoltság kiszűrése céljából elvégezhető vizsgálatok köréről és a vizsgálat végrehajtásának szabályairól szóló 22/2015. (VI. 15.) BM rendelet 6. § (4) bekezdésében a „levételét az egyes rendvédelmi szervek hivatásos állományú tagjai egészségi, pszichikai és fizikai alkalmasságáról, közalkalmazottai és köztisztviselői munkaköri egészségi alkalmasságáról, a szolgálat-, illetve keresőképtelenség megállapításáról, valamint az egészségügyi alapellátásról szóló 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelet 2. § c) pontja szerinti alapellátó” szövegrész helyébe a „levételét a hivatásos állomány egészségi alkalmasságvizsgálatára vonatkozó szabályokat tartalmazó szabályozás szerinti rendvédelmi alapellátó” szöveg lép.
+## 18. §[^18]
 
-## 13.[^2]
+## 13.[^19]
 
-[^2]: A 13. alcím (19–21. §) a 34. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 13. alcím (19–21. §) a 34. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.

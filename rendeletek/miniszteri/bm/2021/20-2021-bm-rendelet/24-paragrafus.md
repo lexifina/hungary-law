@@ -1,28 +1,38 @@
-## 23. §[^3]
+## 23. §[^21]
 
 ## 24. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet
 
-a) 5. § (2) bekezdésében a „pszichikai” szövegrész helyébe a „pszichológiai” szöveg,
+a)[^22]
 
-b) 6. § (1) bekezdés a) pontjában a „szakközépiskolát” szövegrész helyébe a „szakközépiskolát vagy rendészeti szakgimnáziumot” szöveg, az „elvégezte,” szövegrész helyébe az „elvégezte, vagy rendvédelmi szakképző intézményben szerzett technikusi végzettséggel rendelkezik,” szöveg,
+b)[^23]
 
-c) 6. § (1) bekezdés d) pontjában az „a moduláris képzési rendszerben a szakképzést” szövegrész helyébe az „a b) pont szerinti szakképesítés megszerzését” szöveg,
+c)[^24]
 
-d) 7. § (1) bekezdésében a „középfokú oktatási rendvédelmi intézményben” szövegrész helyébe a „rendvédelmi szakképző intézményben” szöveg,
+d)[^25]
 
-e) 7. § (2) bekezdésében a „középfokú oktatási rendvédelmi intézményben” szövegrész helyébe a „rendvédelmi szakképző intézményben” szöveg,
+e)[^26]
 
-f)[^4]
+f)[^27]
 
-g) 14. § (2) bekezdés b) pontjában a „pszichikai” szövegrész helyébe a „pszichológiai” szöveg,
+g)[^28]
 
-h) 15. § (3) bekezdés a) pontjában a „pszichikai” szövegrész helyébe a „pszichológiai” szöveg,
+h)[^29]
 
-i) 37. § (4) bekezdésében a „pszichikai” szövegrész helyébe a „pszichológiai” szöveg,
+i)[^30]
 
-j) 73. § (2) bekezdésében az „eset szükségessé” szövegrész helyébe az „eset vagy személyvédelmi szolgálati feladat szükségessé” szöveg,
+j)[^31]
 
-k) 1. mellékletében foglalt táblázat A:5 mezőjében a „pszichikai” szövegrész helyébe a „pszichológiai” szöveg
+k)[^32]
 
-[^3]: A 23. § a 34. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
-[^4]: A 24. § f) pontja a 34. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^21]: A 23. § a 34. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^22]: A 24. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 24. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 24. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 24. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 24. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 24. § f) pontja a 34. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^28]: A 24. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 24. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 24. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 24. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 24. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

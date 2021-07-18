@@ -1,1 +1,3 @@
-## 16. § A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet 1. melléklete a 2. melléklet szerint módosul.
+## 16. §[^16]
+
+[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

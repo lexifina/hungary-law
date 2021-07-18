@@ -1,3 +1,3 @@
-6. melléklet a 20/2021. (VII. 14.) BM rendelethez[^10]
+6. melléklet a 20/2021. (VII. 14.) BM rendelethez[^46]
 
-[^10]: A 6. melléklet a 34. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^46]: A 6. melléklet a 34. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.

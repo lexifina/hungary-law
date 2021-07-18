@@ -1,1 +1,3 @@
-## „d) nyugállományba helyezett: az a személy, akinek a rendvédelmi feladatokat ellátó szervvel vagy annak jogelődjével fennálló hivatásos szolgálati jogviszonya vagy rendvédelmi igazgatási szolgálati jogviszonya nyugállományba helyezéssel vagy az öregségi, rokkantsági nyugdíjjogosultságra, rokkantsági ellátásra való jogosultságra tekintettel szűnt meg – az ellátásra való jogosultság időtartamára –, ideértve azokat is, akiknek nyugdíja a korhatár előtti öregségi nyugdíjak megszüntetésről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény alapján korhatár előtti ellátássá vagy szolgálati járandósággá alakult át; továbbá az a személy, akit az elmúlt rendszerben politikai okból bocsátottak el a Belügyminisztérium valamely szervétől és rehabilitálására a vonatkozó rendelkezés szerint sor került;”
+## 12. §[^12]
+
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

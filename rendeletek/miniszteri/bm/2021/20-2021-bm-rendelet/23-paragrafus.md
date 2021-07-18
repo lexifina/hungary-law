@@ -1,3 +1,3 @@
-## „c) pszichológiai állapot alapján történő felmentésére a pszichológiai háromfős bizottság döntése alapján kerülhet sor, vagy
+## 22. §[^20]
 
-## d) fizikai állapot alapján történő felmentésére a fizikai háromfős bizottság döntése alapján kerülhet sor.”
+[^20]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
