@@ -22,6 +22,9 @@ g) vállalja a praxiskezelő által közzétett módszertanok és protokollok al
 
 (5)[^17] Ha a praxisközösség kéri, vagy a (4) bekezdés szerinti felhívásban foglaltakat a kijelölt határidővel nem teljesíti, a praxiskezelő a praxisközösséget törli a nyilvántartásból.
 
+(6)[^18] A 2. § (3) bekezdése szerinti praxisközösségi formákban működő, a háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet hatálya alá tartozó háziorvosi és házi gyermekorvosi szolgáltató, vagy az e rendelet szerint létrehozott praxisközösségi szolgáltató beutaló nélkül jogosult elvégezni azon szakorvosi szakképesítéshez kötött tevékenységeket a praxisközösség betegei részére, amelyek vonatkozásában működési engedéllyel rendelkezik.
+
 [^15]: A 4. § (1) bekezdés e) pontja a 277/2021. (V. 26.) Korm. rendelet 23. § h) pontja szerint módosított szöveg.
 [^16]: A 4. § (4) bekezdését a 277/2021. (V. 26.) Korm. rendelet 21. §-a iktatta be.
 [^17]: A 4. § (5) bekezdését a 277/2021. (V. 26.) Korm. rendelet 21. §-a iktatta be.
+[^18]: A 4. § (6) bekezdését a 422/2021. (VII. 15.) Korm. rendelet 1. §-a iktatta be.
