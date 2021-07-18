@@ -1,5 +1,0 @@
-## 5. § A 187/2019. (VII. 30.) Korm. rendelet 54/F. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-## „(3) A 3. és 4. célterületen a veszélyhelyzet ideje alatt egyes gazdaságvédelmi intézkedésekről szóló 485/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 485/2020. (XI. 10.) Korm. rendelet] 5. § (1) bekezdésében meghatározott tevékenységet főtevékenységként végző, a 485/2020. (XI. 10.) Korm. rendelet 4/A. §-a szerint a tételes adó megfizetése alól átmenetileg mentesített vállalkozások esetében a mentesítés – annak időtartama alatt – az időközi kifizetés feltételének, illetve az időközi beszámoló elfogadása tekintetében a tételes adó megfizetésének minősül.
-
-## (4) A (3) bekezdés szerinti, tételes adó megfizetése alól mentesített vállalkozások esetében az 51. § (3) és (5) bekezdése, valamint az 52. § alkalmazása során a 43. § (3) bekezdése szerint tervezett éves bevételi elvárás összege a támogatást igénylő kérelmére a veszélyhelyzet idejére eső, a 485/2020. (XI. 10.) Korm. rendelet 5. § (4) bekezdésében meghatározott hónapok számával arányosan csökkenthető.”
