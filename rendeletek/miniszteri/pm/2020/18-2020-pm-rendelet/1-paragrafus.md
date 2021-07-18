@@ -1,1 +1,0 @@
-## 1. A Nemzeti Adó- és Vámhivatalnál alkalmazásra kerülő kényszerítő eszközök rendszeresítésére vonatkozó eljárási szabályokról és a rendszeresíthető kényszerítő eszközök típusairól és fajtáiról szóló 16/2010. (XII. 28.) NGM rendelet módosítása
