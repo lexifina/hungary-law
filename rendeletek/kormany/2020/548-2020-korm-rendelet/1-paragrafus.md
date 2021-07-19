@@ -16,6 +16,9 @@
 
 (9)[^4] A (8) bekezdés szerinti feladat ellátására vezényelt honvéd tisztjelölt napi szolgálatteljesítése tekintetében a Hjt. 225. § (2) bekezdésétől eltérően a Hjt. 96. és 101. §-át kell alkalmazni.
 
+(10)[^5] A Hjt. 219. § (1) és (1c) bekezdésétől eltérően a Hjt. 214. § (1a) bekezdése szerinti önkéntes tartalékos katona számára a tényleges szolgálatteljesítésének jellegére tekintettel laktanyai elhelyezés is biztosítható.
+
 [^2]: Az 1. § (1) bekezdése a 109/2021. (III. 5.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^3]: Az 1. § (8) bekezdését a 109/2021. (III. 5.) Korm. rendelet 2. §-a iktatta be.
 [^4]: Az 1. § (9) bekezdését a 109/2021. (III. 5.) Korm. rendelet 2. §-a iktatta be.
+[^5]: Az 1. § (10) bekezdését a 417/2021. (VII. 14.) Korm. rendelet 2. §-a iktatta be.
