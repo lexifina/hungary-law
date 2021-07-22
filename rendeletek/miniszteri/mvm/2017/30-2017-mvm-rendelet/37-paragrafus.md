@@ -1,6 +1,6 @@
 ## 9. Lakbértámogatás, albérleti díj hozzájárulás
 
-37. §[^4] (1) Lakbértámogatás vagy albérleti díj hozzájárulás (jelen alcímben a továbbiakban: hozzájárulás) biztosítható a hivatásos állomány tagja részére, ha
+37. §[^5] (1) Lakbértámogatás vagy albérleti díj hozzájárulás (jelen alcímben a továbbiakban: hozzájárulás) biztosítható a hivatásos állomány tagja részére, ha
 
 a) szolgálatteljesítési helyén vagy közigazgatási területéről helyi járatú tömegközlekedési eszközzel elérhető településen önálló lakással nem rendelkezik,
 
@@ -50,4 +50,4 @@ c) haszonélvezettel terhelt tulajdonában álló önálló ingatlana tekinteté
 
 (12) Jóváhagyás esetén a hozzájárulás a kérelem benyújtása hónapjának első napjától illeti meg a hivatásos állomány tagját.
 
-[^4]: A 37. § a 16/2020. (XII. 16.) KKM rendelet 5. §-ával megállapított szöveg.
+[^5]: A 37. § a 16/2020. (XII. 16.) KKM rendelet 5. §-ával megállapított szöveg.

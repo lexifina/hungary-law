@@ -2,6 +2,8 @@
 
 (2) A hivatásos állomány tagja részére a külföldi kiküldetés várható költségeit figyelembe véve kiküldetési előleg adható.
 
-(3) A kiküldött az ideiglenes külföldi kiküldetés elszámolása során nyilatkozik arról, hogy az ideiglenes külföldi kiküldetés időtartama alatt részesült-e olyan ebédben vagy vacsorában, amelyet nem kellett megtérítenie. Ha a kiküldött az ideiglenes külföldi kiküldetés időtartama alatt ebédben vagy vacsorában részesült, az adott napra – kivéve a külföldre utazás indulási és érkezési napjára – jutó napidíját és napidíj-kiegészítését étkezésenként 30%-kal csökkenteni kell.
+(3)[^3]
 
 (4) A (2) bekezdés szerinti kiküldetési előleggel a felvétel szerinti devizanemben kell elszámolni.
+
+[^3]: A 18. § (3) bekezdését a 26/2021. (VII. 7.) KKM rendelet 1. §-a hatályon kívül helyezte.
