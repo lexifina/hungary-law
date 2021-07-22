@@ -180,7 +180,7 @@
 
 | 2. | Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság | 01-09-348527 | 2022. december 31. |
 
-## XX. Állami Egészségügyi Ellátó Központ
+## XX. Országos Kórházi Főigazgatóság
 
 |  | A | B | C |
 
@@ -205,6 +205,14 @@
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
 | 1. | Nemzeti Fogyatékosságügyi- és Szociálpolitikai Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-978791 | 2022. december 31. |
+
+## XXII. Tulajdonosi joggyakorló: az Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet
+
+|  | A | B | C |
+
+| Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | URBS PRO PATIENTE Egészségügyi Fejlesztő és Üzemeltető Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-340507 | 2022. december 31. |
 
 3. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^5]
 
