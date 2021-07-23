@@ -1,5 +1,3 @@
-## 3. §[^1]
-
 1. melléklet a 403/2021. (VII. 8.) Korm. rendelethez
 
 Bejelentésköteles építőipari nyersanyagok és termékek
@@ -205,5 +203,3 @@ Bejelentésköteles építőipari nyersanyagok és termékek
 | 91. | 7609 00 00 | Alumínium csőszerelvény (pl. csatlakozókarmantyú, könyökdarab, csőtoldat) |
 
 | 92. | 9406 | Előre gyártott épület (fából) |
-
-[^1]: A 3. § a 2. § (2) bekezdése alapján 2021. július 23-án lép hatályba.
