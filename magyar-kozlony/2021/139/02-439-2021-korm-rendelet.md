@@ -1,0 +1,160 @@
+# A Kormány 439/2021. (VII. 23.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 139. szám, 2021. július 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ja3KDrQXLsHvJJteyGL160f1d26c582ba/dokumentumok/d52403992c634177ecedf4e6a2e4895246c49efa/letoltes)
+
+---
+
+A Kormány 439/2021. (VII. 23.) Korm. rendelete
+a járvány elleni védekezést elősegítő egyes intézkedésekről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 6. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Azon 60. életévüket betöltött magyar állampolgárokról, akik magyarországi lakcímmel és Társadalombiztosítási
+Azonosító Jellel rendelkeznek, azonban a SARS-CoV-2 koronavírus elleni védőoltásban (a továbbiakban: védőoltás)
+nem részesültek (a továbbiakban: érintett személy), a Nemzeti Egészségbiztosítási Alapkezelő heti rendszerességgel
+tájékoztatást nyújt a fővárosi és megyei kormányhivatalokat irányító miniszter (a továbbiakban: miniszter), valamint
+az érintett személy háziorvosa részére.
+(2) Az (1) bekezdés szerinti tájékoztatás – a védőoltás beadásának elősegítése céljából – tartalmazza az érintett személy
+egészségbiztosítási nyilvántartásban rögzített nevét, lakcímadatait, valamint Társadalombiztosítási Azonosító Jelét.
+(3) Az (1) bekezdés szerinti tájékoztatás alapján a miniszter – az országos háziorvosi kollegiális vezetővel és
+az érintett személy lakóhelyéhez legközelebb található orvos- és egészségtudományi képzést folytató egyetem
+(a továbbiakban: egészségügyi felsőoktatási intézmény) képviselőjével történő egyeztetést követően – javaslatot
+tesz az illetékes fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) felé az egészségügyi
+felsőoktatási intézmény által nyújtott felsőfokú képzésben részt vevő orvostanhallgatónak (a továbbiakban:
+hallgató) a háziorvosi szolgáltatóhoz történő kirendelésére. Az egészségügyi felsőoktatási intézmény átadja
+a miniszternek a kirendelhető hallgatói természetes személyazonosító adatait, levelezési címét, telefonszámát és
+elektronikus elérhetőségét (e-mail-címét), amelyeket a miniszter a kirendelésre irányuló javaslattal együtt továbbít
+a kormányhivatal részére.
+(4) A (3) bekezdés szerinti kezdeményezés alapján a kormányhivatal kirendeli a hallgatót, és erről tájékoztatja azt
+a háziorvosi szolgáltatót, ahol a hallgató a kirendelés szerinti feladatát végezni fogja, valamint azt az egészségügyi
+felsőoktatási intézményt, amellyel a hallgató hallgatói jogviszonyban áll.
+(5) A (4) bekezdés alapján kirendelt hallgató (a továbbiakban: kirendelt hallgató)
+a) az érintett személynek a védőoltás beadását megelőző, a védőoltás igénybevételének lehetőségével
+kapcsolatos tájékoztatást nyújthat,
+b) ha az orvostudományi képzés első tíz félévét eredményesen teljesítette, az a) pontban foglaltakon túl
+az érintett személynek a védőoltással történő beoltását is végezheti a (6) bekezdésben foglaltak szerint.
+(6) A kirendelt hallgató az (5) bekezdés b) pontja szerinti védőoltási tevékenység végzésére az érintett személy
+háziorvosának vagy az egészségügyi felsőoktatási intézmény kijelölt orvosának felügyelete mellett jogosult.
+(7) Az e rendelet szerinti feladatok ellátásában bármely orvos részt vehet. Az orvos a részvételi szándékát
+a kormányhivatalnál történő regisztrációval jelzi. A regisztráció során az orvos köteles megadni a természetes
+személyazonosító adatait és a levelezési címét, továbbá – amennyiben rendelkezésre áll – az elektronikus
+elérhetőségét (e-mail) és telefonszámát.
+(8) Az e rendelet szerinti feladatok ellátására a (7) bekezdés szerint regisztrált orvos (a továbbiakban: önkéntes orvos)
+számára a kormányhivatal jelöli ki azt a háziorvosi szolgáltatót, melynek munkájában az önkéntes orvos részt
+vehet, és erről tájékoztatja a háziorvosi szolgáltatót. Az önkéntes orvos a kijelölt háziorvosi szolgáltató személyes
+közreműködőjének minősül.
+
+(9) A kirendelt hallgató és az önkéntes orvos az e rendelet szerinti feladatai ellátása céljából felveszi a kapcsolatot
+a kirendelés, illetve a kijelölés szerinti háziorvosi szolgáltatóval.
+(10) A kirendelt hallgató az e rendelet szerinti feladatait az egészségügyi felsőoktatási intézmény szakmai útmutatójának
+figyelembevételével végzi.
+(11) Ha a kirendelt hallgató lakóhelye, illetve tartózkodási helye és a kirendelés helye közötti napi közlekedésre nincs
+lehetőség, illetve ez aránytalan nehézséggel járna, a kirendelt személy elhelyezéséről és ellátásáról szükség esetén
+a kormányhivatal gondoskodik.
+2. § (1) Az érintett személlyel a védőoltás beadása céljából a háziorvosa vagy a nevében eljáró kirendelt hallgató, illetve
+önkéntes orvos veszi fel a kapcsolatot, és tájékoztatja az érintett személyt arról, hogy beleegyezése esetén
+lehetősége van a védőoltás igénybevételére. A tájékoztatásnak ki kell terjednie arra is, hogy az egészségügyi
+adatok alapján az érintett személy milyen oltással oltható, továbbá arra, hogy a védőoltás igénybevételéhez
+a jogszabályban meghatározott szabályok szerinti, az önkéntes koronavírus elleni védőoltásra történő regisztráció
+szükséges, amit legkésőbb a védőoltás igénybevételekor el kell végezni. A védőoltás igénybevételét megelőzően
+az érintett személy nyilatkozik a védőoltás igénybevételének elfogadásáról. Ha az érintett személy az oltás
+igénybevételét elutasítja, úgy az elutasításról írásban nyilatkozik.
+(2) Az (1) bekezdés szerinti regisztráció elektronikusan és papír alapon egyaránt történhet azzal, hogy az önkéntes
+koronavírus elleni védőoltásra történő regisztrációra vonatkozó jogszabályi rendelkezéseket megfelelően
+alkalmazni kell. A papír alapon történő regisztráció esetén a regisztrációs lapot a kormányhivatal biztosítja
+a háziorvosi szolgáltató részére. A papír alapon történő regisztráció során a regisztráló személy a következő adatokat
+köteles megadni: viselt név, Társadalombiztosítási Azonosító Jel, lakcím vagy értesítési cím (a védettségi igazolvány
+kézbesítési címe), továbbá – amennyiben rendelkezésre áll – elektronikus elérhetőség (e-mail) és telefonszám.
+Az érintett személy a papíralapú regisztráció keretében, továbbá elektronikusan regisztráló személy a védőoltás
+beadásakor nyilatkozhat arról, hogy a védettségi igazolványát hivatalos iratként kéri kézbesíteni, illetve a védettségi
+igazolvány kézbesítési címeként a személyiadat- és lakcímnyilvántartásban szereplő címétől eltérő címet is
+megadhat. Ha az érintett személy igényli, helyette a háziorvos, az önkéntes orvos vagy a kirendelt hallgató végzi el
+a regisztrálását.
+(3) Ha az érintett személy regisztrálása megtörtént, és az érintett személy a védőoltás igénybevételének elfogadásáról
+nyilatkozott, a háziorvos, illetve az önkéntes orvos vagy az 1. § (5) bekezdés b) pontja szerinti feltételeknek
+megfelelő hallgató az érintett személyt a védőoltással beoltja. A védőoltás az érintett személy választása szerint
+a háziorvosi rendelőben, illetve az érintett személy lakóhelyén vagy tartózkodási helyén is beadható. Ha a védőoltás
+beadására az érintett személy lakóhelyén vagy tartózkodási helyén kerül sor, a háziorvos köteles a védőoltásnak
+az érintett személy lakóhelyén vagy tartózkodási helyén történő nyújtásához szükséges feltételek biztosítására.
+(4) Ha az érintett személy a védőoltás igénybevételének elutasításáról nyilatkozott, a háziorvos, a hallgató vagy
+az önkéntes orvos tájékoztatja az érintett személyt arról, hogy a későbbiekben a nyilatkozatát megváltoztathatja
+a védőoltás igénybevétele céljából.
+(5) Ha az (1)–(3) bekezdés szerinti feladatot nem a háziorvos végzi, az érintett személy felkeresése és a védőoltás
+beadása céljából a háziorvos
+a) az önkéntes orvos és az 1. § (5) bekezdés b) pontja szerinti feltételeknek megfelelő hallgató rendelkezésére
+bocsátja az érintett személy nevét, lakcímadatait, továbbá az érintett személynek a védőoltás beadásához
+szükséges egészségügyi adatait,
+b) az a) pont alá nem tartozó kirendelt hallgató rendelkezésére bocsátja az érintett személy nevét és
+lakcímadatait.
+(6) A védőoltás beadásáról vagy annak meghiúsulásáról
+a) az önkéntes orvos az érintett személy háziorvosát,
+b) az 1. § (5) bekezdés b) pontja szerinti feltételeknek megfelelő hallgató az érintett személy háziorvosát és
+az egészségügyi felsőoktatási intézményt
+haladéktalanul értesíti.
+(7) Az Egészségügyi Elektronikus Szolgáltatási Térben a védőoltás beadásának tényét
+a) a (6) bekezdés a) pontja szerinti esetben az érintett személy háziorvosa,
+b) a (6) bekezdés b) pontja szerinti esetben az egészségügyi felsőoktatási intézménynél erre feljogosított
+személy
+rögzíti, és a beoltott személy nyilatkozatát a háziorvosa az érintett személy egészségügyi dokumentációjához
+csatolja.
+
+(8) Ha az (1) bekezdés szerinti regisztrációra papír alapon került sor, a kitöltött regisztrációs lapot a háziorvosi
+szolgáltató a székhelye szerint illetékes kormányhivatalnak küldi meg.
+(9) A veszélyhelyzet ideje alatt a járvány elleni védekezést elősegítő egyes intézkedésekről szóló 89/2021. (II. 27.)
+Korm. rendeletet alkalmazni kell az e rendelet alapján végzett alapellátási tevékenységre is.
+(10) Az érintett személyt a védőoltás beadása céljából személyesen felkereső háziorvos, önkéntes orvos és kirendelt
+hallgató az érintett személy kérésére köteles a személyazonosságát igazolni.
+3. § (1) Az 1. § (4) bekezdése szerinti kirendeléssel a hallgató és a felsőoktatási intézmény között a nemzeti felsőoktatásról
+szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 44. § (1) bekezdés b) pontja szerinti hallgatói munkaszerződés
+jön létre. A hallgatói munkaszerződés során szerzett munkatapasztalat kreditértékét az Nftv. 49. § (6) bekezdése
+szerint a kreditátviteli bizottság állapítja meg. A kirendeléssel érintett hallgató tanulmányi kötelezettségeinek
+teljesítését a felsőoktatási intézmény a hallgatói munkaszerződésre tekintettel szervezi meg. A hallgatói
+munkaszerződés alapján végzett tevékenységből származó jövedelem a személyi jövedelemadóról szóló 1995. évi
+CXVII. törvény 1. számú melléklet 4.13. pontja szerinti jövedelemnek minősül.
+(2) A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.)
+Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt a társadalombiztosítás ellátásaira
+jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 17. § (2) bekezdés b) pontjától
+eltérően a biztosítási kötelezettség alóli mentesülést az (1) bekezdés szerinti hallgató vonatkozásában az Nftv. 44. §
+(1) bekezdés b) pontja szerinti hallgatói munkaszerződés alapján létrejött jogviszonyra is alkalmazni kell.
+(3) A veszélyhelyzet ideje alatt a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 5. § (1) bekezdés e) pont
+eb) alpontjától eltérően az adófizetési kötelezettség alóli mentesülést az (1) bekezdés szerinti hallgató
+vonatkozásában az Nftv. 44. § (1) bekezdés b) pontja szerinti hallgatói munkaszerződés alapján létrejött
+jogviszonyra is alkalmazni kell.
+(4) A hallgatót megillető, az (1) bekezdés szerinti hallgatói munkaszerződésre tekintettel adott pénzbeli juttatást
+a kirendelési pótlék megállapítása során alapilletménynek kell tekinteni.
+(5) A 2020/2021., valamint a 2021/2022. tanévben az egészségügyi felsőoktatási intézmények az orvos- és
+egészségtudományi képzésben részt vevő hallgatókra nézve az Nftv. 108. § 5. és 40. pontjában a félév, illetve
+a tanév hosszára meghatározott időtartamoktól, továbbá a szorgalmi időszak és a vizsgaidőszak tanév rendjében
+meghatározott időtartamaitól a kirendelések idejét figyelembe véve eltérhetnek.
+(6) Az egészségügyi felsőoktatási intézmények a (3) bekezdésben meghatározott esetben kirendelt hallgatókra
+vonatkozóan a 2021/2022. tanévben a szorgalmi időszakban teljesített feladatok, megírt zárthelyi dolgozatok,
+elkészített beszámolók alapján adott félévközi jegy, valamint félévközi követelmények és a vizsga alapján
+együttesen vagy kizárólag a vizsgán tanúsított tudás alapján adott vizsgajegy megszerzésének módjára, továbbá
+a sikertelen félévközi teljesítések pótlásának lehetőségeire, a sikertelen vizsgák egy vizsgaidőszakon belüli
+vizsgalehetőségeinek számára, egy adott tantárgynak a tanulmányok során való újabb felvételi lehetőségeire
+– az Nftv. rendelkezéseinek figyelembevételével – a tanulmányi és vizsgaszabályzatukban foglaltaktól eltérően,
+a hallgató számára kedvezőbb feltételekről rendelkezhetnek.
+(7) A kirendelt hallgatók tekintetében 2021-ben az Nftv. 48. § (2) bekezdésében szabályozott átsorolásra
+a 2021/2022-es tanévre nézve nem kerülhet sor.
+(8) A kormányhivatal
+a) a kirendelés – illetve az azzal összefüggő kötelezettségekkel való elszámolás – időtartamában kezeli
+a kirendelés megszervezése céljából a hallgató,
+b) az önkéntes orvos nyilvántartása és az e rendelet szerinti feladatok megszervezése céljából kezeli az önkéntes
+orvos
+természetes személyazonosító adatait és elérhetőségi adatait (levelezési cím, telefonszám és elektronikus
+elérhetőség).
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 6. § az e rendelet kihirdetését követő 15. napon lép hatályba.
+
+5. §
+A háziorvos, illetve a kirendelt hallgató és az önkéntes orvos az e rendelet szerinti feladatokat 2021. augusztus 1.
+napjától látja el.
+6. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát
+veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
