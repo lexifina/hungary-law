@@ -38,11 +38,7 @@
 
 ## Határidő: 2022. január 30.
 
-## 8. felhívja az emberi erőforrások miniszterét, hogy az 5. pont szerinti feladat végrehajtásához szükséges források tervezéséről a 2021. évi központi költségvetés tervezése során a saját fejezetében gondoskodjon;
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: a 2021. évi költségvetés tervezése során
+## 8.[^3]
 
 ## 9. felhívja az emberi erőforrások miniszterét, hogy a 4. és 5. pontban meghatározott előkészítési fázisok megvalósításához, a 4. és 5. pontban megjelölt források terhére adjon ki – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a alapján – egyszerűsített támogatói okiratot a Sportegyesület részére elszámolási, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
 
@@ -136,3 +132,4 @@
 
 [^1]: A 4. pont az 1861/2020. (XI. 28.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^2]: A 7. pont az 1861/2020. (XI. 28.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A 8. pontot az 1496/2021. (VII. 23.) Korm. határozat 1. pont i) alpont ib) pontja visszavonta.
