@@ -8,13 +8,9 @@ külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében foglalt jogkörében eljárva a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 2. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások alcímet a 2. Tulajdonosi joggyakorlással kapcsolatos kiadások jogcímcsoporttal és azon belül az 1. Eximbank Zrt. tőkeemelése jogcímmel egészíti ki;
+2.[^1]
 
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
-
-3. felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter kezdeményezése alapján – a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság tőkeemelése érdekében – gondoskodjon 15 000 000 000 forint biztosításáról a 2. pont szerinti előirányzat javára;
+3.[^2] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter kezdeményezése alapján – a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság tőkeemelése érdekében – gondoskodjon 15 000 000 000 forint biztosításáról a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 2. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások alcím, 2. Tulajdonosi joggyakorlással kapcsolatos kiadások jogcímcsoport, 2. A KKM tulajdonosi joggyakorlása alatt álló társaságok tőkeemelése jogcím javára;
 
 Felelős: pénzügyminiszter
 
@@ -29,3 +25,6 @@ Felelős: pénzügyminiszter
 külgazdasági és külügyminiszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 2. pontot az 1496/2021. (VII. 23.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 3. pont az 1496/2021. (VII. 23.) Korm. határozat 4. pontja szerint módosított szöveg.
