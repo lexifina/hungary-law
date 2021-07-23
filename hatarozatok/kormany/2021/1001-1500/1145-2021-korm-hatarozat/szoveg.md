@@ -24,7 +24,7 @@ pénzügyminiszter
 
 Határidő: 2021. június 30.
 
-4. a 3. pont b) alpontban foglalt feladat végrehajtása érdekében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 1. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások alcímének a 2. Tulajdonosi joggyakorlással kapcsolatos kiadások jogcímcsoporttal, ezen belül 1. A KKM egyéb tulajdonosi részesedéseivel kapcsolatos kiadások jogcímmel történő kiegészítését;
+4.[^2] a 3. pont b) alpontban foglalt feladat végrehajtása érdekében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 2. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások alcímének a 2. Tulajdonosi joggyakorlással kapcsolatos kiadások jogcímcsoporttal, ezen belül 1. A KKM egyéb tulajdonosi részesedéseivel kapcsolatos kiadások jogcímmel történő kiegészítését;
 
 Felelős: pénzügyminiszter
 
@@ -53,3 +53,5 @@ Határidő: a 2022–2024. évi központi költségvetés tervezése során
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: a tárgyévet követő év június 30. napja
+
+[^2]: A 4. pont az 1496/2021. (VII. 23.) Korm. határozat 3. pontja szerint módosított szöveg.
