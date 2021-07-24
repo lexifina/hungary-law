@@ -88,20 +88,20 @@
 
 ## Határidő: azonnal
 
-## i) visszavonja
+## i)[^1]
 
-## ia) az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztéséhez szükséges intézkedésekről szóló 1817/2019. (XII. 30.) Korm. határozatot,
+## 2.[^2]
 
-## ib) a Budapesti Honvéd Sportegyesület 2020–2023. évi sportcélú létesítményfejlesztési programja előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1166/2020. (IV. 21.) Korm. határozat 8. pontját,
+## 3.[^3]
 
-## ic) a Magyar Nemzeti Levéltár digitális adatvagyona Kormányzati Adattrezorban történő tárolása pénzügyi forrásának biztosításáról szóló 1063/2021. (II. 19.) Korm. határozatot.
+## 4.[^4]
 
-## 2. A Magyar Agrár- és Élettudományi Egyetem infrastrukturális fejlesztésével kapcsolatos kérdésekről szóló 2035/2020. (XII. 29.) Korm. határozatban a „fejlesztésével, és felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a fejlesztések előkészítése érdekében” szövegrész helyébe a „fejlesztésével és felújítások elvégzésével, ezért felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a fejlesztések előkészítése és a felújítások megvalósítása érdekében” szöveg lép.
-
-## 3. A Magyar–Indonéz Tőkealap létrehozásáról szóló 1145/2021. (III. 31.) Korm. határozat 4. pontjában az „1. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások” szövegrész helyébe a „2. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások” szöveg lép.
-
-## 4. A Gazdaság Újraindítási Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint a közepes piaci tőkeértékű vállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság által módosításra kerülő hitelkonstrukciókkal kapcsolatos intézkedésekről szóló 1486/2021. (VII. 16.) Korm. határozat (a továbbiakban: Határozat) 3. pontjában a „felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter kezdeményezése alapján – a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság tőkeemelése érdekében – gondoskodjon 15 000 000 000 forint biztosításáról a 2. pont szerinti előirányzat javára” szövegrész helyébe a „felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter kezdeményezése alapján – a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság tőkeemelése érdekében – gondoskodjon 15 000 000 000 forint biztosításáról a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 8. Központi kezelésű előirányzatok cím, 2. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások alcím, 2. Tulajdonosi joggyakorlással kapcsolatos kiadások jogcímcsoport, 2. A KKM tulajdonosi joggyakorlása alatt álló társaságok tőkeemelése jogcím javára” szöveg lép.
-
-## 5. A Kormány a Határozat 2. pontját visszavonja.
+## 5.[^5]
 
 1. melléklet az 1496/2021. (VII. 23.) Korm. határozathoz
+
+[^1]: Az 1. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
