@@ -24,7 +24,7 @@ j)[^8] a településfejlesztésért felelős miniszter és a településrendezé
 
 k) a területrendezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a külön jogszabályban meghatározott, a mérnöki kamarák hatáskörébe tartozó területrendezési tervezési, területrendezési szakértői tevékenységeknél első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
 
-l)[^9] a környezetvédelemért felelős miniszter és a természetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az országos környezetvédelmi és természetvédelmi hatóságot,
+l)[^9] a környezetvédelemért felelős miniszter és a természetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az s) pontban meghatározott kivétellel az országos környezetvédelmi és természetvédelmi hatóságot,
 
 m)[^10] a közlekedésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a közlekedésért felelős minisztert,
 
@@ -38,13 +38,15 @@ q)[^13] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szab�
 
 r)[^14] energetikai szakreferens képesítések esetén a Magyar Energetikai és Közmű-szabályozási Hivatalt
 
+s)[^15] a környezetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a meteorológiai szolgáltatási tevékenység tekintetében az Országos Meteorológiai Szolgálatot
+
 ## jelöli ki.
 
-(3)[^15] A Kormány az Etv. IV. Fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek képzési és kimeneti követelményeinek meghatározása során a Kormány adott ágazatért felelős tagjaként
+(3)[^16] A Kormány az Etv. IV. Fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek képzési és kimeneti követelményeinek meghatározása során a Kormány adott ágazatért felelős tagjaként
 
-a)[^16] az egészségügyért felelős miniszter egyetértési joggal rendelkezik, az Országos Kórházi Főigazgatóságot,
+a)[^17] az egészségügyért felelős miniszter egyetértési joggal rendelkezik, az Országos Kórházi Főigazgatóságot,
 
-b)[^17]
+b)[^18]
 
 c) a közlekedésért felelős miniszter egyetértési joggal rendelkezik, a közlekedésért felelős minisztert,
 
@@ -52,19 +54,19 @@ d) a postaügyért felelős miniszter, az elektronikus hírközlésért felelős
 
 ## jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
 
-(3a)[^18] A Kormány a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként a felnőttképzési államigazgatási szervet jelöli ki az Etv. IV. Fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák esetében, amelyek a szakmajegyzék bányászat és kohászat, elektronika és elektrotechnika, építőipar, épületgépészet, fa- és bútoripar, gépészet, kereskedelem, kreatív, szépészet, turizmus-vendéglátás, valamint vegyipar ágazatába tartoznak vagy azokhoz az ágazatokhoz köthetők.
+(3a)[^19] A Kormány a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként a felnőttképzési államigazgatási szervet jelöli ki az Etv. IV. Fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák esetében, amelyek a szakmajegyzék bányászat és kohászat, elektronika és elektrotechnika, építőipar, épületgépészet, fa- és bútoripar, gépészet, kereskedelem, kreatív, szépészet, turizmus-vendéglátás, valamint vegyipar ágazatába tartoznak vagy azokhoz az ágazatokhoz köthetők.
 
 (4) A Kormány az Etv. 60/A–60/C. §-a szerinti eljárásokban – az (5) bekezdésben foglalt kivételekkel – eljáró hatóságként első fokon az Oktatási Hivatalt, másodfokon az oktatásért felelős minisztert jelöli ki.
 
 (5) A Kormány eljáró hatóságként
 
-a)[^19] az Etv. 60/A–60/C. §-a szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében az Országos Kórházi Főigazgatóságot,
+a)[^20] az Etv. 60/A–60/C. §-a szerinti eljárásokban a (2) bekezdés a) pontja, valamint a (3) bekezdés a) pontja alapján elismerendő szakmák tekintetében az Országos Kórházi Főigazgatóságot,
 
 b) az Etv. 60/B. §-a szerinti eljárásokban okleveles építészmérnök és okleveles építész tervező művész szakképzettség esetén első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
 c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti eljárásokban, ha az adott szabályozott szakma folytatása Magyarország területén engedélyköteles vagy a szolgáltatási tevékenység folytatásának és megkezdésének általános szabályairól szóló 2009. évi LXXVI. törvény szerinti bejelentési kötelezettség hatálya alá tartozik, az engedélyezésre, illetve a bejelentéssel kapcsolatos eljárásra hatáskörrel rendelkező illetékes hatóságot jelöli ki.
 
-(6)[^20] Az elismerésért felelős hatóság rendszeresen tájékoztatja az Etv. IV. fejezetének hatálya alá tartozó döntéseiről a Kormány adott ágazatért felelős tagját.
+(6)[^21] Az elismerésért felelős hatóság rendszeresen tájékoztatja az Etv. IV. fejezetének hatálya alá tartozó döntéseiről a Kormány adott ágazatért felelős tagját.
 
 [^1]: Az 1. § a 282/2011. (XII. 21.) Korm. rendelet – 324/2011. (XII. 28.) Korm. rendelet 35. § (2)–(3) bekezdése szerint módosított – 26. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (1) bekezdésével megállapított, a 70/2021. (II. 19.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
@@ -74,15 +76,16 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 [^6]: Az 1. § (2) bekezdés g) pontja a 395/2015. (XII. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés h) pontja a 345/2015. (XI. 19.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
 [^8]: Az 1. § (2) bekezdés j) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § d) pontja szerint módosított szöveg.
-[^9]: Az 1. § (2) bekezdés l) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (2) bekezdés l) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (2) bekezdésével megállapított, a 353/2021. (VI. 24.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^10]: Az 1. § (2) bekezdés m) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (3) bekezdésével megállapított szöveg.
 [^11]: Az 1. § (2) bekezdés o) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
 [^12]: Az 1. § (2) bekezdés p) pontja a 393/2017. (XII. 13.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^13]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (9) bekezdés a) pontja szerint módosított szöveg.
 [^14]: Az 1. § (2) bekezdés r) pontját újonnan a 715/2020. (XII. 30.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^15]: Az 1. § (3) bekezdését a 13/2020. (II. 7.) Korm. rendelet 38. § 2. pontja hatályon kívül helyezte, újonnan a 30/2020. (II. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^16]: Az 1. § (3) bekezdés a) pontja a 70/2021. (II. 19.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^17]: Az 1. § (3) bekezdés b) pontját a 403/2020. (VIII. 17.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^18]: Az 1. § (3a) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^19]: Az 1. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (8) bekezdésével megállapított, a 70/2021. (II. 19.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^20]: Az 1. § (6) bekezdése a 30/2020. (II. 29.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
+[^15]: Az 1. § (2) bekezdés s) pontját a 353/2021. (VI. 24.) Korm. rendelet 17. §-a iktatta be.
+[^16]: Az 1. § (3) bekezdését a 13/2020. (II. 7.) Korm. rendelet 38. § 2. pontja hatályon kívül helyezte, újonnan a 30/2020. (II. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^17]: Az 1. § (3) bekezdés a) pontja a 70/2021. (II. 19.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^18]: Az 1. § (3) bekezdés b) pontját a 403/2020. (VIII. 17.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^19]: Az 1. § (3a) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^20]: Az 1. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (8) bekezdésével megállapított, a 70/2021. (II. 19.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^21]: Az 1. § (6) bekezdése a 30/2020. (II. 29.) Korm. rendelet 10. § (3) bekezdése szerint módosított szöveg.
