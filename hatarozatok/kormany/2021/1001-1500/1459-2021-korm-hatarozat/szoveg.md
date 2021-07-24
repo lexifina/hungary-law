@@ -16,6 +16,8 @@ ae) az építőanyagok helyettesíthetőségével kapcsolatos kormányzati célo
 
 b) értékeli a gazdaság újraindítása keretében meghozott építésgazdasági intézkedések eredményességét, és szükség esetén javaslatot tesz a Kormány számára további intézkedések érdekében.
 
+c)[^1] vizsgálja a gazdaság újraindítása érdekében meghozandó, az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű nyersanyagok és termékek kivitelével kapcsolatos regisztrációs eljárásról és egyéb intézkedésekről szóló 402/2021. (VII. 8.) Korm. rendelet 3. § (2) bekezdése szerinti körülmény fennállását, és a körülmény fennállta esetén javaslatot tesz az elővásárlási és vételi jog gyakorlására.
+
 3. A kormánybiztos az 1. pont szerinti feladatkörében felügyeli az építésgazdaság hatékonyságjavítását, teljesítménynövelését és az épített környezet fenntartható fejlesztését célzó középtávú stratégiáról és intézkedési tervről szóló 1337/2021. (VI. 1.) Korm. határozat szerinti beruházások költségkövetési rendszerének létrehozását.
 
 4. A kormánybiztos a 2. és 3. pontban meghatározott feladatait az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társasággal együttműködve látja el.
@@ -27,3 +29,5 @@ b) értékeli a gazdaság újraindítása keretében meghozott építésgazdasá
 7. A kormánybiztos tevékenységét az Innovációs és Technológiai Minisztérium szervezetében működő titkárság segíti.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont c) alpontját az 1499/2021. (VII. 23.) Korm. határozat 1. pontja iktatta be.
