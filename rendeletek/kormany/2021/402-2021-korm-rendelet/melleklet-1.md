@@ -1,6 +1,6 @@
 ## 12. § E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 402/2021. (VII. 8.) Korm. rendelethez
+1. melléklet a 402/2021. (VII. 8.) Korm. rendelethez[^12]
 
 Az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű nyersanyagok és termékek
 
@@ -18,11 +18,11 @@ Az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű 
 
 | 6. | 6809 | Gipszből készült tábla, lap, panel és egyéb termékek |
 
-| 7. | 7209 | Síkhengerelt, legalább 600 mm szélességű termék vasból vagy nem ötvözött acélból hidegen hengerelve, plattírozás, lemezelés vagy bevonat nélkül |
+| 7. |  |  |
 
-| 8. | 7210 | Síkhengerelt, 600 mm vagy azt meghaladó szélességű termék vasból vagy nem ötvözött acélból, plattírozva, lemezelve vagy bevonva |
+| 8. |  |  |
 
-| 9. | 7211 | Síkhengerelt, kevesebb mint 600 mm szélességű termék vasból vagy nem ötvözött acélból, plattírozás, lemezelés vagy bevonás nélkül |
+| 9. |  |  |
 
 | 10. | 7212 | Síkhengerelt, kevesebb mint 600 mm szélességű termék vasból vagy nem ötvözött acélból, plattírozva, lemezelve vagy bevonva |
 
@@ -30,18 +30,24 @@ Az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű 
 
 | 12. | 7214 | Melegen hengerelt, húzott vagy extrudált rúd vasból, nem ötvözött acélból, bevágásokkal, bordákkal |
 
-| 13. | 7215 | Hidegen alakított vagy húzott rúd vasból, nem ötvözött /nem forgácsolható/ acélból |
+| 13. |  |  |
 
 | 14. | 7216 | Melegen vagy hidegen alakított szelvény / szögvas / idomvas / profil vasból, nem ötvözött acélból |
 
 | 15. | 7217 | Huzal vasból, nem ötvözött acélból, bevonat nélkül / nem nemesfémen kívül bármilyen anyaggal bevonva |
 
-| 16. | 7219 | Síkhengerelt, legalább 600 mm szélességű termék rozsdamentes acélból |
+| 16. |  |  |
 
-| 17. | 7222 | Más rúd rozsdamentes acélból; szögvas, idomvas és szelvény rozsdamentes acélból |
+| 17. |  |  |
 
 | 18. | 7225 | Síkhengerelt, legalább 600 mm szélességű termék, más ötvözött acélból |
 
-| 19. | 7228 | Más rúd más ötvözött acélból; szögvas, idomvas és szelvény más ötvözött acélból; üreges fúrórúdvas és -rúdacél ötvözött vagy ötvözetlen acélból |
+| 19. |  |  |
 
 | 20. | 7301 | Szádpalló vasból vagy acélból, fúrva, lyukasztva vagy elemekből összeszerelve is; hegesztett szögvas, idomvas és szelvény vasból vagy acélból |
+
+| 21. | 7204 | Vas- és acéltörmelék és hulladék; ingot újraolvasztott hulladék vasból vagy acélból |
+
+| 22. | 4407 | Hosszában fűrészelt vagy szélezett, vágott vagy hántolt, 6 mm-nél vastagabb fa, gyalulva, csiszolva vagy végillesztéssel összeállítva is |
+
+[^12]: Az 1. melléklet a 442/2021. (VII. 23.) Korm. rendelet 2–3. §-a szerint módosított szöveg.

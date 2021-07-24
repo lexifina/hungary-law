@@ -24,13 +24,17 @@ bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megje
 
 bc) elektronikus vagy postai kapcsolattartásra szolgáló elérhetőségét,
 
-c) az építőanyag 1. melléklet szerinti megnevezését és annak mennyiségi mutatóit, szerződésben meghatározott árát, ha pedig nem került sor szerződéskötésre, az építőanyag aktuális piaci értékét, valamint
+c)[^2] az építőanyag
 
-d) az 1. § (1) bekezdés b) pontja szerinti esetben
+ca) 1. melléklet szerinti vámtarifaszámát és mennyiségi mutatóit,
 
-da) az építőanyag szállítását végző jármű azonosításához szükséges adatokat és
+cb) szerződésben meghatározott árát, ha pedig nem került sor szerződéskötésre, az építőanyag aktuális piaci értékét,
 
-db) a határátlépés tervezett helyét.
+d)[^3] az 1. § (1) bekezdés b) pontja szerinti esetben a címzett nevét és címét, ahová az építőanyag leszállításra kerül, valamint
+
+e)[^4] az építőanyag értékesítésének, illetve kivitelének tervezett, legfeljebb 2021. szeptember 30. napjáig terjedő időszakát.
+
+(2a)[^5] Ha a bejelentő olyan terméket értékesít vagy visz ki külföldre, amelyet az 1. melléklet tartalmaz, azonban annak kiszállítására nem építési beruházásokhoz vagy Magyarország területén kívül megvalósított diplomáciai célú ingatlanokon végzett beruházásokhoz kerül sor, úgy a bejelentésnek tartalmaznia kell a bejelentő erre vonatkozó nyilatkozatát, a (2) bekezdés a) és b) pontjában foglalt adatokat és a vámtarifaszámot. A bejelentésre a (2) bekezdés c)–e) pontjában és a (4) bekezdésben foglaltakat nem kell alkalmazni.
 
 (3) A bejelentést a hatóság honlapján közzétett formanyomtatványon a 3. § (4) bekezdésében foglalt határidőre figyelemmel kell megtenni.
 
@@ -43,3 +47,8 @@ b) szállításáról szóló szerződés, illetve egyéb, a külföldre törté
 ## másolatát.
 
 (5) A (4) bekezdésben meghatározott okiratok nem magyar nyelven történő kiállítása esetén azok hiteles magyar nyelvű fordítását is csatolni kell a bejelentéshez.
+
+[^2]: A 2. § (2) bekezdés c) pontja a 442/2021. (VII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2) bekezdés d) pontja a 442/2021. (VII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (2) bekezdés e) pontját a 442/2021. (VII. 23.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 2. § (2a) bekezdését a 442/2021. (VII. 23.) Korm. rendelet 1. § (3) bekezdése iktatta be.
