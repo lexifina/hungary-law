@@ -1,0 +1,1 @@
+## 15. § A kiadmányozó szerv a menetparanccsal történő határátlépés szabályainak megsértéséről, illetve a szabálysértés miatt tett intézkedéseiről az általános rendőrségi feladatok ellátására létrehozott szerv értesítése alapján – indokolt esetben – felelősségre vonást kezdeményez, illetve megteszi a szükséges intézkedéseket a jövőbeni szabálysértések elkerülése érdekében.
