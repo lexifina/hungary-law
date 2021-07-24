@@ -1,1 +1,0 @@
-## 1. § Az Országos Meteorológiai Szolgálat (a továbbiakban: Szolgálat) a környezetvédelemért felelős miniszter (a továbbiakban: miniszter) irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv.
