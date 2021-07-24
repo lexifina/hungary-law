@@ -34,6 +34,8 @@
 
 17. Török Köztársaság,
 
-18. Ukrajna.
+18. Ukrajna,
 
-[^1]: Az 1. § a 27/2021. (VII. 12.) KKM rendelet 1. §-ával megállapított szöveg.
+19. Üzbég Köztársaság.
+
+[^1]: Az 1. § a 29/2021. (VII. 23.) KKM rendelet 1. §-ával megállapított szöveg.
