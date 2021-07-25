@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. melléklet 7. pontjában foglalt táblázat C:6 mezőjében a „4,31” szövegrész helyébe az „5,11” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1500/2021. (VII. 23.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.5- 16-2016-00005 | A Bükk Keleti Kapuja – A Szeleta Park Látogatóközpont kialakítása | Bükki Nemzeti Park Igazgatóság | 1 399 755 202 | 800 859 243 | 2 200 614 445 | Az egyik legfontosabb „ősemberbarlang” a Szeleta-barlang, a Szeleta-kultúra névadó lelőhelye. Erre az ősrégészeti lelőhelyre és a Bükk őstörténetére alapozva a projekt célja a Szeleta Park Látogatóközpont és kapcsolódó létesítményeinek létrehozása, a központ környezetének kialakítása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
