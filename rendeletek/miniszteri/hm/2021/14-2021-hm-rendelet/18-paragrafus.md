@@ -1,1 +1,3 @@
-18. § Hatályát veszti a NATO menetparancs alkalmazásával kapcsolatos szabályokról szóló 32/2007. (VIII. 15.) HM rendelet.
+18. §[^1]
+
+[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
