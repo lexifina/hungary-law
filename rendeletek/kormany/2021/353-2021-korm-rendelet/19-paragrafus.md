@@ -1,1 +1,3 @@
-## 18. § A 33/2008. (II. 21.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+## 18. §[^3]
+
+[^3]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

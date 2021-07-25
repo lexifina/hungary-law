@@ -1,9 +1,6 @@
-## 20. § Hatályát veszti az Országos Meteorológiai Szolgálatról szóló 277/2005. (XII. 20.) Korm. rendelet.
+## 20. §[^5]
 
-1. melléklet a 353/2021. (VI. 24.) Korm. rendelethez
+1. melléklet a 353/2021. (VI. 24.) Korm. rendelethez[^6]
 
-A 33/2008. (II. 21.) Korm. rendelet 1. számú mellékletében foglalt táblázat a következő 41. sorral egészül ki:
-
-| (Sorszám | Szabályozott szakma megnevezése | Hatóság kijelölése, amelyhez a bejelentést meg kell tenni) |
-
-| 41. | Okleveles meteorológus | Országos Meteorológiai Szolgálat |
+[^5]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
