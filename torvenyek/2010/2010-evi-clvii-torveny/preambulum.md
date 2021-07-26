@@ -1,1 +1,0 @@
-Az Országgyűlés felismerve, hogy az állami szervek által kezelt, a nemzeti adatvagyon körébe tartozó nyilvántartások fokozott biztonságáról való gondoskodás elengedhetetlen az állampolgárok államba vetett bizalmának visszaállítása, valamint a közigazgatás folyamatos és zavartalan működésének biztosítása érdekében, a következő törvényt alkotja:
