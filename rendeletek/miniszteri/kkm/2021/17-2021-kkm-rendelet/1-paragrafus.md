@@ -4,4 +4,7 @@ a) Románia.
 
 b)[^1] Svájci Államszövetség.
 
+c)[^2] Oroszországi Föderáció.
+
 [^1]: Az 1. § b) pontját a 28/2021. (VII. 19.) KKM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § c) pontját a 30/2021. (VII. 26.) KKM rendelet 1. §-a iktatta be.
