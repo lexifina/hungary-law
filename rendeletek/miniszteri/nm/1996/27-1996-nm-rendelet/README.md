@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-27-20-3
 | 2018-01-01 | 1996-27-20-3D.15 | 58/1997. (XII. 21.) NM rendelet |
 | 2020-01-01 | 1996-27-20-3D.16 | 10/2019. (IX. 4.) PM rendelet |
 | 2020-06-30 | 1996-27-20-3D.17 | 10/2019. (IX. 4.) PM rendelet |
+| 2021-07-27 | 1996-27-20-3D.18 | 32/2021. (VII. 26.) ITM rendelet |
