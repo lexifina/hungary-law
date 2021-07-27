@@ -1,3 +1,5 @@
+## 15. §[^39]
+
 ## Egészségügyi ellenőrzés
 
 16. § (1)[^40] A rákkeltő expozícióban történő foglalkoztatás előtt a munkavállaló köteles előzetes munkaköri orvosi alkalmassági vizsgálaton, a rákkeltő expozícióban foglalkoztatott munkavállaló pedig köteles a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló miniszteri rendeletben meghatározott gyakorisággal a foglalkozás-egészségügyi szolgálat által elvégzett időszakos orvosi alkalmassági vizsgálaton részt venni. A munkavállaló orvosi alkalmassági vizsgálaton való megjelenését a munkáltató biztosítja.
@@ -16,6 +18,7 @@
 
 (8) A foglalkozás-egészségügyi szolgálat orvosa tájékoztatja a munkavállalót a rákkeltő expozíció okozta egészségkárosodásokról, illetve az általa végzett higiénés és alkalmassági vizsgálatok céljáról, várható eredményeiről.
 
+[^39]: A 15. §-t a 32/2021. (VII. 26.) ITM rendelet 17. §-a hatályon kívül helyezte.
 [^40]: A 16. § (1) bekezdése a 6/2020. (II. 7.) ITM rendelet 6. §-ával megállapított szöveg.
 [^41]: A 16. § (3) bekezdése a 18/2007. (V. 10.) SZMM rendelet 14. § (4) bekezdése, a 9/2015. (III. 31.) NGM rendelet 19. § d) pontja szerint módosított szöveg.
 [^42]: A 16. § (4) bekezdése a 27/2010. (XII. 31.) NGM rendelet 26. § (2) bekezdésével megállapított, a 6/2020. (II. 7.) ITM rendelet 9. § f) pontja szerint módosított szöveg.

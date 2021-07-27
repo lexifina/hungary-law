@@ -4,7 +4,7 @@
 
 (2) Ha zárt rendszer, illetőleg az (1) bekezdésben előírt technológiai eljárások alkalmazása műszakilag nem lehetséges, a munkáltató biztosítja, hogy a munkavállalót érő összes (napi, heti, éves) expozíció a tudományos technikai színvonal mellett lehetséges legalacsonyabb szinten legyen, határértékkel rendelkező anyagok esetében a munkatéri rákkeltő szennyezettsége nem haladhatja meg az 5. § (2) és (3) bekezdései szerinti határértékeket.
 
-(3)[^30] Légtechnikai eljárások útján helyi, illetőleg általános szellőztetéssel biztosítani kell, hogy az előállított, felhasznált, intermedierként, melléktermékként, szennyezőként keletkezett anyagok a munkakörnyezetet, a helyiség levegőjét és berendezési tárgyait, valamint az épületen belüli és kívüli levegőt ne szennyezzék. Az alkalmazott légtechnikai megoldások más munkahelyek munkavállalóit nem veszélyeztethetik.
+(3)[^31] Légtechnikai eljárások útján helyi, illetőleg általános szellőztetéssel biztosítani kell, hogy az előállított, felhasznált, intermedierként, melléktermékként, szennyezőként keletkezett anyagok a munkakörnyezetet, a helyiség levegőjét és berendezési tárgyait, valamint az épületen belüli és kívüli levegőt ne szennyezzék. Az alkalmazott légtechnikai megoldások más munkahelyek munkavállalóit nem veszélyeztethetik.
 
 (4) Rákkeltő felhasználása esetén a munkáltató köteles
 
@@ -22,9 +22,9 @@ f) biztosítani valamely előre nem látható eseményből vagy balesetből ered
 
 g) a legkisebb kockázatot biztosító, megfelelő technológiai eljárásokat és munkamódszereket alkalmazni,
 
-h)[^31] elsősorban műszaki, technológiai intézkedésekkel, kollektív műszaki védelmi eszközökkel, eljárásokkal az egészségkárosodást megelőzni azon a munkahelyen, ahol a munkavállaló szabályos üzemmenet, illetve üzemzavar esetében gáz, gőz, folyadék, aerosol vagy por formájában rákkeltő anyaggal érintkezésbe kerülhet, továbbá az egészséget károsító hatások megelőzéséről a munkakörülmények, a technológia, a műszaki állapot rendszeres felülvizsgálatával is gondoskodni,
+h)[^32] elsősorban műszaki, technológiai intézkedésekkel, kollektív műszaki védelmi eszközökkel, eljárásokkal az egészségkárosodást megelőzni azon a munkahelyen, ahol a munkavállaló szabályos üzemmenet, illetve üzemzavar esetében gáz, gőz, folyadék, aerosol vagy por formájában rákkeltő anyaggal érintkezésbe kerülhet, továbbá az egészséget károsító hatások megelőzéséről a munkakörülmények, a technológia, a műszaki állapot rendszeres felülvizsgálatával is gondoskodni,
 
-i)[^32] egyéni védelmi intézkedéseket hozni, továbbá egyéni védőeszközöket alkalmazni, ha a rákkeltő okozta expozíció kollektív védelmi eszközökkel, eljárásokkal nem szorítható az eltűrhető szintre – 1:105 kockázat –, vagy a határértékkel rendelkező anyagok esetében nem szorítható határérték alá,
+i)[^33] egyéni védelmi intézkedéseket hozni, továbbá egyéni védőeszközöket alkalmazni, ha a rákkeltő okozta expozíció kollektív védelmi eszközökkel, eljárásokkal nem szorítható az eltűrhető szintre – 1:105 kockázat –, vagy a határértékkel rendelkező anyagok esetében nem szorítható határérték alá,
 
 j) szükség szerinti, de legalább hetenkénti gyakorisággal végzett tisztítással, takarítással megakadályozni a munkatér padozatán, falain, a munkatérben elhelyezett gépek, munkaeszközök, tárgyak felszínén a rákkeltő anyag felhalmozódását,
 
@@ -40,6 +40,6 @@ o) gondoskodni a rákkeltőt tartalmazó vagy azzal szennyezett hulladéknak a m
 
 p) gondoskodni a rákkeltő közömbösítéséről, hatástalanításáról, a munkahelyi berendezési tárgyak, a munkavállalók által használt védőeszközök dekontaminálásáról vagy szükség szerint veszélyes hulladékként történő kezeléséről.
 
-[^30]: A 7. § (3) bekezdése a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének a) pontja szerint módosított szöveg.
-[^31]: A 7. § (4) bekezdésének h) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
-[^32]: A 7. § (4) bekezdésének i) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
+[^31]: A 7. § (3) bekezdése a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének a) pontja szerint módosított szöveg.
+[^32]: A 7. § (4) bekezdésének h) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.
+[^33]: A 7. § (4) bekezdésének i) pontja a 12/2002. (XI. 16.) ESZCSM rendelet 4. §-ával megállapított szöveg.

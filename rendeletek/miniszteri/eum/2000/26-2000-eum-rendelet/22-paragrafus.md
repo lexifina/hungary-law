@@ -10,7 +10,7 @@
 
 (3)[^58] A biológiai monitorozás költségei a munkáltatót terhelik.
 
-(4)[^59] A 4. § (2) bekezdés b) pontja szerinti határérték ellenőrzésére irányuló vizsgálatokat kizárólag a Nemzeti Akkreditáló Testület által e szakterületre és a mérendő vegyi anyagok meghatározására akkreditált és nemzetközi jártassági vizsgálatban írásban igazolt módon eredményesen részt vevő laboratórium végezhet.
+(4)[^59] A 4. § (2) bekezdés b) pontja szerinti határérték ellenőrzésére irányuló vizsgálatokat kizárólag a Nemzeti Akkreditáló Hatóság által e szakterületre és a mérendő vegyi anyagok meghatározására akkreditált és nemzetközi jártassági vizsgálatban írásban igazolt módon eredményesen részt vevő laboratórium végezhet.
 
 (5)[^60] Ez a rendelet
 
@@ -36,7 +36,7 @@ c)[^64] a Bizottság (EU) 2018/669 rendelete (2018. április 16.) az anyagok és
 [^56]: A 22. § (2) bekezdését a 6/2020. (II. 7.) ITM rendelet 10. § e) pontja hatályon kívül helyezte.
 [^57]: A 22. § (2a) bekezdését a 21/2015. (VIII. 28.) NGM rendelet 11. § (1) bekezdése iktatta be, hatályon kívül helyezte a 6/2020. (II. 7.) ITM rendelet 10. § e) pontja.
 [^58]: A 22. § (3) bekezdése a 6/2020. (II. 7.) ITM rendelet 9. § g) pontja szerint módosított szöveg.
-[^59]: A 22. § (4) bekezdése a 6/2020. (II. 7.) ITM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^59]: A 22. § (4) bekezdése a 6/2020. (II. 7.) ITM rendelet 7. § (1) bekezdésével megállapítot, a 32/2021. (VII. 26.) ITM rendelet 16. §-a szerint módosított szöveg.
 [^60]: A 22. § (5) bekezdése a 21/2015. (VIII. 28.) NGM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^61]: A 22. § (5) bekezdés c) pontját a 6/2020. (II. 7.) ITM rendelet 7. § (2) bekezdése iktatta be.
 [^62]: A 22. § (5) bekezdés d) pontját a 6/2020. (II. 7.) ITM rendelet 7. § (2) bekezdése iktatta be.

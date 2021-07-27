@@ -10,7 +10,7 @@ b) polivinil-kloriddá (a továbbiakban: PVC) történő átalakítása esetén
 
 valamennyi munkahelyen ellenőrizni kell a VCM-koncentrációt.
 
-2.[^74] A VCM-koncentráció határértéke 7,77 mg/m3 MK.
+2.[^74] A VCM munkahelyi levegőben megengedett határértékét a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet tartalmazza.
 
 3.1. A VCM-határérték betartásának ellenőrzésekor a munkatérben a mérési pontokat úgy kell kijelölni, hogy a mért eredmények a lehető legpontosabban reprezentálják a munkavállalókat érő VCM expozíció mértékét.
 
@@ -83,5 +83,5 @@ g) krónikus bőrártalom,
 h) túlzott alkoholfogyasztás és/vagy kábítószer-élvezet.
 
 [^73]: Az 5. számú melléklet 1. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.
-[^74]: Az 5. számú melléklet 2. pontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^74]: Az 5. számú melléklet 2. pontja a 32/2021. (VII. 26.) ITM rendelet 15. §-ával megállapított szöveg.
 [^75]: Az 5. számú melléklet 6.1. pontjának af) alpontja a 12/2002. (XI. 16.) ESZCSM rendelet 13. §-a (1) bekezdésének g) pontja szerint módosított szöveg.

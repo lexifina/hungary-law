@@ -10,7 +10,7 @@ aa)[^3] az anyagok és keverékek osztályozásáról, címkézéséről és cso
 
 ab)[^4] az a keverék, amely egy vagy több – az aa) alpontban meghatározott – anyagot tartalmaz, és ezen összetevő vagy összetevők koncentrációja alapján a keverék az 1A. vagy 1B. rákkeltő kategóriába tartozik,
 
-ac)[^5] a 2. számú mellékletben meghatározott eljárás során felszabaduló vagy alkalmazott, az aa) alpontban foglaltak szerinti anyag, vagy ilyen anyagot az ab) alpontban meghatározott koncentrációban tartalmazó keverék,
+ac)[^5] a 2. számú mellékletben meghatározott anyag, keverék vagy eljárás, valamint ezen eljárások során felszabaduló anyag vagy keverék,
 
 ad) bükkfa-, tölgyfa-, egyéb keményfaporok, illetve keményfaporokat tartalmazó faporok
 
@@ -60,7 +60,7 @@ sc)[^15] az a keverék, amely egy vagy több – az sb) alpontban meghatározott
 [^2]: A 2. § a) pontja a 30/2009. (XII. 22.) SZMM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § a) pont aa) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § a) pont ab) alpontja a 21/2015. (VIII. 28.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § a) pont ac) alpontja a 21/2015. (VIII. 28.) NGM rendelet 12. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § a) pont ac) alpontja a 32/2021. (VII. 26.) ITM rendelet 12. §-ával megállapított szöveg.
 [^6]: A 2. § g) pontja a 18/2007. (V. 10.) SZMM rendelet 20. § (6) bekezdésének a) pontja, az 51/2011. (XII. 23.) NGM rendelet 5. §-a szerint módosított szöveg.
 [^7]: A 2. § h) pontja a 6/2020. (II. 7.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^8]: A 2. § i) pontját a 6/2020. (II. 7.) ITM rendelet 10. § a) pontja hatályon kívül helyezte.
