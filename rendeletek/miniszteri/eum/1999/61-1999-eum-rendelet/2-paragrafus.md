@@ -4,7 +4,7 @@
 
 2. § (1) E rendelet értelmében
 
-a) biológiai tényezők: a mikroorganizmusok – beleértve a genetikailag módosított mikroorganizmusokat –, a sejttenyészetek és emberi belső élősdiek, amelyek fertőzést, allergiát vagy mérgezést okozhatnak,
+a)[^2] biológiai tényezők: a mikroorganizmusok – beleértve a genetikailag módosított mikroorganizmusokat –, a sejttenyészetek és emberi belső élősdiek, amelyek fertőzést, allergiát vagy mérgezést okozhatnak, továbbá azon külső élősdiek, melyek képesek tartósan megtelepedni az emberi szervezeten,
 
 b) mikroorganizmus: olyan sejtes vagy nem sejtes mikrobiológiai egység, amely szaporodásra vagy genetikai anyag továbbítására képes,
 
@@ -25,3 +25,4 @@ c) 3. csoport: az a biológiai tényező, amely súlyos emberi megbetegedést k�
 d) 4. csoport: az a biológiai tényező, amely súlyos emberi megbetegedést okoz, ezért komoly veszélyt jelent a munkavállaló számára, az emberi közösségben való szétterjedésének nagy a kockázata, általában nem előzhető meg, vagy nem kezelhető hatásosan.
 
 [^1]: Az 1. § a 18/2007. (V. 10.) SZMM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § a) pontja a 32/2021. (VII. 26.) ITM rendelet 3. §-ával megállapított szöveg.

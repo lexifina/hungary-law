@@ -1,4 +1,4 @@
-## 18. §[^25]
+## 18. §[^28]
 
 1. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez
 
@@ -12,10 +12,11 @@
 
 4. Az egészségügyi és szociális ellátásban végzett munkák, beleértve az elkülönítő, valamint a kórbonctani részlegeket.
 
-5. A klinikai, állatorvosi diagnosztikai laboratóriumokban végzett munkák.
+5.[^29] A klinikai, állatorvosi diagnosztikai laboratóriumokban végzett munkák a diagnosztikai mikrobiológiai laboratóriumok kivételével.
 
 6. A hulladék megsemmisítő, ártalmatlanító létesítményekben végzett munkák.
 
 7. A szennyvíztisztító berendezésekben, járható szelvényű szennyvízelvezető művekben végzett munkák.
 
-[^25]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 187. pontja hatályon kívül helyezte.
+[^28]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 187. pontja hatályon kívül helyezte.
+[^29]: Az 1. számú melléklet 5. pontja a 32/2021. (VII. 26.) ITM rendelet 6. §-ával megállapított szöveg.
