@@ -8,7 +8,7 @@ b)[^13]
 
 c)[^14]
 
-[^11]: A 11. § a 14. § (3) bekezdése alapján 2023. február 1-jén lép hatályba.
-[^12]: A 12. § a) pontja a 14. § (3) bekezdése alapján 2023. február 1-jén lép hatályba.
-[^13]: A 12. § b) pontja a 14. § (5) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^11]: A 11. § a 14. § (3) bekezdése alapján 2023. február 21-én lép hatályba.
+[^12]: A 12. § a) pontja a 14. § (3) bekezdése alapján 2023. február 21-én lép hatályba.
+[^13]: A 12. § b) pontja a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
 [^14]: A 12. § c) pontja a 14. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
