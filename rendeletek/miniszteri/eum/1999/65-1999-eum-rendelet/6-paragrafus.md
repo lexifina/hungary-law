@@ -1,4 +1,4 @@
-6. § (1)[^3] A védőeszköz kiválasztását megelőzően a munkáltató köteles a védőeszköz típusbizonyítványa, valamint – szükség esetén – szakértői vélemény alapján felmérni, hogy a felhasználni kívánt védőeszköz megfelel-e a 4. § (1) és (2) bekezdésében előírt követelményeknek.
+6. § (1)[^5] A védőeszköz kiválasztását megelőzően a munkáltató köteles a védőeszköz típusbizonyítványa, valamint – szükség esetén – szakértői vélemény alapján felmérni, hogy a felhasználni kívánt védőeszköz megfelel-e a 4. § (1) és (2) bekezdésében előírt követelményeknek.
 
 (2) Az (1) bekezdés szerinti felmérésnek tartalmaznia kell:
 
@@ -10,4 +10,4 @@ c) a beszerezni kívánt védőeszköz védelmi szintjének (képességének) ö
 
 (3) Az (1) bekezdésben előírt vizsgálatot meg kell ismételni, ha bármelyik elemét tekintve változás következett be.
 
-[^3]: A 6. § (1) bekezdése a 77/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdése szerint módosított szöveg.
+[^5]: A 6. § (1) bekezdése a 77/2003. (XII. 23.) ESZCSM rendelet 2. §-ának (2) bekezdése szerint módosított szöveg.

@@ -20,4 +20,6 @@ cb) a munkavállaló által végzett fizikai munka mértékének és a klimatiku
 
 d) figyelembe veszi a védőeszköz használatának egészségi (egyéni) alkalmassági feltételeit, illetve annak egészségi korlátjait.
 
-(3) Az egyes alkalmazható védőeszközök típusait a 2. számú melléklet, a védőeszköz használatával végezhető tevékenységeket a 3. számú melléklet tartalmazza.
+(3)[^4] Az egyes alkalmazható védőeszközök típusait és a védőeszköz használatával végezhető tevékenységek listáját a munkavédelmi hatóság a miniszter honlapján közzéteszi.
+
+[^4]: Az 5. § (3) bekezdése a 32/2021. (VII. 26.) ITM rendelet 9. §-ával megállapított szöveg.
