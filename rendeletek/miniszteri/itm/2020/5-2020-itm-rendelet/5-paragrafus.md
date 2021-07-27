@@ -24,7 +24,7 @@ a) a veszélyes anyagok azonosításáról,
 
 b) a veszélyes anyagok koncentrációjának légzési zónában, személyi mintavétellel történő méréséről,
 
-c) a munkavállaló bőrén át a munkavállaló szervezetébe felszívódó veszélyes anyagok mennyiségének becsléssel történő meghatározásáról,
+c)[^6]
 
 d) a 4. § (2) bekezdése szerinti biológiai monitorozás elvégzéséről.
 
@@ -53,3 +53,5 @@ bb) az eredeti célját és alkalmazását tekintve korábban belső égésű mo
 (11) A munkáltató a kockázatbecslés alapján a kémiai biztonságról szóló 2000. évi XXV. törvény 19. §-ával összhangban a 6. §-ban foglaltak szerinti általános, valamint – ha ez a feltárt kockázatok mérsékléséhez nem elégséges – a 7–13., a 17. és a 20. §-ban foglaltak szerinti különleges megelőző és védő intézkedéseket foganatosít.
 
 (12) Ha az (1) és (2) bekezdésben foglaltak alapján végzett kockázatelemzés eredménye azt mutatja, hogy a munkahelyen alkalmazott vegyi anyagok felhasznált mennyisége miatt a munkavállalók egészségét és biztonságát fenyegető veszély elhanyagolható mértékű, továbbá a megtett megelőző intézkedések összhangban állnak a 6. § (1)–(3) bekezdésében foglaltakkal, a 7–13. §-ban meghatározott intézkedéseket nem kell alkalmazni.
+
+[^6]: Az 5. § (4) bekezdés c) pontját a 32/2021. (VII. 26.) ITM rendelet 25. § b) pontja hatályon kívül helyezte.

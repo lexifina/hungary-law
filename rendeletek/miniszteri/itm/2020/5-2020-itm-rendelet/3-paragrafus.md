@@ -12,11 +12,11 @@
 
 6. biológiai monitorozás: a szervezetbe jutott veszélyes anyagok mennyiségének, a dolgozó vegyi anyaggal történt terhelésének becslése;
 
-7. egészségkárosító vagy biztonságot veszélyeztető kockázat: a munkahelyi légtérben lévő szennyező anyagra megadott határérték túllépése vagy határérték hiányában a kockázat olyan mértéke, amely veszélyeztetheti a munkavállalók egészségét vagy biztonságát;
+7.[^1] egészségkárosító vagy biztonságot veszélyeztető kockázat: a munkahelyi légtérben lévő szennyező anyagra megadott foglalkozási expozíciós határérték túllépése vagy határérték hiányában a kockázat olyan mértéke, amely veszélyeztetheti a munkavállalók egészségét vagy biztonságát;
 
 8. expozíció: a munkahelyen jelen lévő veszélyes anyagok hatásának való kitettség, amely a munkavállalót az adott munkakörnyezeti tényező ellen védelmet nyújtó egyéni védőfelszerelés nélkül éri;
 
-9. expozíció-becslés: azon tevékenység, mely magában foglalja az expozíció mérését, vagy mérés hiányában a feltételezhetően „megszökött” anyag becsült tömegének munkatérben valószínűsíthető hígulásából adódó légtér-koncentráció becslését;
+9.[^2] expozíció-becslés: azon tevékenység, mely magában foglalja az expozíciós koncentráció mérését, vagy mérés hiányában a feltételezhetően „megszökött” anyag becsült tömegének munkatérben valószínűsíthető hígulásából adódó légtér-koncentráció becslését;
 
 10. expozíció-hatás összefüggés elemzése: a hatástalan küszöb koncentráció, vagy küszöb koncentráció nélküli anyagok esetében az elérhető legkisebb kockázatot jelentő koncentráció meghatározása, a toxikológia szabályai alapján;
 
@@ -28,9 +28,9 @@
 
 14. kockázatelemzés: a szervezetre, rendszerre vagy egy meghatározott populációra veszélyt jelentő expozíciós szituációk elemzésének folyamata;
 
-15. kockázatértékelés: a méréssel vagy becsléssel nyert expozíciós koncentráció összehasonlítása a határértékkel, ennek hiányában a küszöb koncentrációval, vagy küszöb koncentráció nélküli anyagok esetében az elérhető legkisebb kockázatot jelentő koncentrációval;
+15.[^3] kockázatértékelés: a méréssel vagy becsléssel nyert expozíciós koncentráció összehasonlítása a határértékkel,;
 
-16. megengedett átlagos koncentráció: a légszennyező anyagnak a munkahely levegőjében egy 8 órás vagy annál rövidebb műszak, 40 órás munkahét esetén megengedett átlagkoncentrációja, amely a dolgozó egészségére általában nem fejt ki káros hatást, kivéve egyes daganatkeltő anyagokat;
+16.[^4] megengedett átlagos koncentráció: a légszennyező anyagnak a munkahely levegőjében egy 8 órás vagy annál rövidebb műszak, 40 órás munkahét esetén megengedett, idővel súlyozott átlagkoncentrációja, amely a dolgozó egészségére általában nem fejt ki káros hatást, kivéve egyes küszöbérték nélküli mutagén vagy daganatkeltő anyagokat;
 
 17. megengedett csúcskoncentráció: rövid ideig megengedhető legnagyobb levegőszennyezettség, a légszennyező anyagnak egy műszakon belül megengedett átlagos koncentrációt meghaladó legnagyobb koncentrációja;
 
@@ -53,3 +53,8 @@
 26. veszélyes anyag: az Mvt. szerinti veszélyes anyag;
 
 27. veszélyes keverék: az Mvt. szerinti veszélyes keverék.
+
+[^1]: A 3. § 7. pontja a 32/2021. (VII. 26.) ITM rendelet 24. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § 9. pontja a 32/2021. (VII. 26.) ITM rendelet 24. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § 15. pontja a 32/2021. (VII. 26.) ITM rendelet 25. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § 16. pontja a 32/2021. (VII. 26.) ITM rendelet 18. §-ával megállapított szöveg.

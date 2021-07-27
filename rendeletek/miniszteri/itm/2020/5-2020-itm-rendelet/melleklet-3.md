@@ -1,4 +1,4 @@
-3. melléklet az 5/2020. (II. 6.) ITM rendelethez
+3. melléklet az 5/2020. (II. 6.) ITM rendelethez[^14]
 
 ## A foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós és hatásmutatók megengedhető határértékei
 
@@ -18,7 +18,7 @@
 
 | 6. | Diklórmetán | Diklórmetán | m.v. |  |  | 0,3 | 3,5 |
 
-| 7. | Dimetilformamid | N-metilformamid | m.v. |  |  | 15 | 29 |
+| 7. | Dimetilformamid | N-metilformamid | m.v. |  |  | 15 | 254 |
 
 | 8. | Etilbenzol | mandulasav | mhv., m.v. | 1500 | 1110 |  |  |
 
@@ -104,9 +104,9 @@
 
 | 3. | Ólom (szervetlen) | Cink- protoporfirin előszűrésre | három hónapnál hosszabb expozíció esetén alkalmazható | 80 mikromol/mol haem | 45 évnél fiatalabb nők | határérték túllépése esetén a vérólom koncentráció meghatározása kötelező |
 
-| 4. | Szén- monoxid | CO Hb | m.u. | 5% (az összhemoglobin %-ában) |  |  |
+| 4. | Szén-monoxid | CO Hb | m.v. | 5% (az összhemoglobin %-ában) |  |  |
 
-| 5. | Szerves foszforsav- észter tartalmú peszticidek vörösvérsejt vagy teljes vér acetil- kolineszteráz aktivitás (EC. 3.1.1.7.) | vörösvérsejt vagy teljes acetil- kolinészteráz aktivitás (EC. 3.1.1.7.) | <25%-os aktivitáscsökkenés az expozíció előtt mért alapaktivitáshoz viszonyítva |  | az alapaktivitás az expozíciómentes periódusban egy héten belül két alkalommal történt mérések értékeinek átlaga |
+| 5. | Szerves foszforsav-észter tartalmú peszticidek | vörösvérsejt vagy teljes vér acetil- kolinészteráz aktivitás (EC. 3.1.1.7.) | n.k | <25%-os aktivitáscsökkenés az expozíció előtt mért alapaktivitáshoz viszonyítva |  | az alapaktivitás az expozíciómentes periódusban egy héten belül két alkalommal történt mérések értékeinek átlaga |
 
 3.1. A biológiai hatásmutatók megengedhető határértékei vérben elnevezésű táblázat tekintetében használt rövidítések magyarázata
 
@@ -119,3 +119,5 @@
 |  | 3. | n.k. | nem kritikus |
 
 |  | 4. | mhv. | munkahét végén |
+
+[^14]: A 3. melléklet a 32/2021. (VII. 26.) ITM rendelet 22. §-a szerint módosított szöveg.

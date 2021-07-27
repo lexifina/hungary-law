@@ -1,6 +1,6 @@
-## 25. §[^1]
+## 25. §[^12]
 
-1. melléklet az 5/2020. (II. 6.) ITM rendelethez
+1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^13]
 
 ## Veszélyes anyagok a munkahelyi levegőben
 
@@ -48,7 +48,7 @@
 
 | 19. | AMMÓNIA | 7664-41-7 | 14 | 36 | m | EU1 | N |
 
-| 20. | ANILIN | 62-53-3 | 8 | 20 | b, k(2), BEM |  | N |
+| 20. | ANILIN | 62-53-3 | 7,74 | 19,35 | b, k(2), BEM | EU7 | N |
 
 | 21. | o-ANIZIDIN | 90-04-0 | 0.5 |  | b, k(1B) |  | R+T |
 
@@ -56,7 +56,7 @@
 
 | 23. | ANTIMON-HIDROGÉN | 7803-52-3 | 0,5 | 1 |  |  | T |
 
-| 24. | ARZÉN ÉS SZERVETLEN VEGYÜLETEI (arzin kivételével), (As-ra számítva) | 7440-38-2 | 0,01 | k(1A), b, i | BEM |  | T |
+| 24. | ARZÉN ÉS SZERVETLEN VEGYÜLETEI (arzin kivételével), (As-ra számítva) | 7440-38-2 | 0,01 |  | k(1A), b, i, BEM | EU8 | T |
 
 | 25. | ARZIN | 7784-42-1 | 0,2 | 0,8 | b |  | T |
 
@@ -88,11 +88,11 @@
 
 | 39. | n-BUTÁN | 106-97-8 | 2350 | 9400 |  |  | N |
 
-| 40. | n-BUTIL-ACETÁT | 123-86-4 | 241 | 723 | i, sz |  | N |
+| 40. | n-BUTIL-ACETÁT | 123-86-4 | 241 | 723 | i, sz | EU7 | N |
 
-| 41. | IZOBUTIL-ACETÁT | 110-19-0 | 241 | 723 | i, sz |  | N |
+| 41. | IZOBUTIL-ACETÁT | 110-19-0 | 241 | 723 | i, sz | EU7 | N |
 
-| 42. | szek-BUTIL-ACETÁT | 105-46-4 | 241 | 723 | i, sz |  | N |
+| 42. | szek-BUTIL-ACETÁT | 105-46-4 | 241 | 723 | i, sz | EU7 | N |
 
 | 43. | n-BUTIL-AKRILÁT | 141-32-2 | 11 | 53 | i | EU1 | N |
 
@@ -174,11 +174,11 @@
 
 | 82. | DIIZOCIANÁTOK |  |  |  |  |  |  |
 
-| 83. | difenilmetán-4,4’-diizocianát (MDI) | 101-68-8 | 0,05 | 0,05 | i, sz |  | T |
+| 83. | difenilmetán-4,4’-diizocianát (MDI) | 101-68-8 | 0,05 | 0,05 | i, sz, BEM |  | T |
 
 | 84. | hexametilén-diizocianát (HDI) | 822-06-0 | 0,035 | 0,035 | i, sz |  | T |
 
-| 85. | 1,5-naftilén-diizocianát (NDI) | 3173-72-6 | 0,09 | 0,09 | i, sz |  | T |
+| 85. | Toluol-2,4-diizocianát Toluol-2,6- diizocianát (TDI) | 584-84-9 91-08-7 | 0,007 |  | k(2), i, sz |  | T |
 
 | 86. | DIKÉN-DIKLORID | 10025-67-9 | 6 | 12 | m |  | R |
 
@@ -202,7 +202,7 @@
 
 | 96. | DIKLÓRFOSZ (DDVP) | 62-73-7 | 0,9 | 2,0 | b |  | R+T |
 
-| 97. | DIKLÓRMETÁN (metilén-klorid) | 75-09-2 | 353 | 706 | b | EU4 | R+T |
+| 97. | DIKLÓRMETÁN (metilén-klorid) | 75-09-2 | 353 | 706 | k(2), b, BEM | EU4 | R+T |
 
 | 98. | 1,2-DIKLÓRPROPÁN | 78-87-5 | 50 | 100 | k(1B) |  | R+T |
 
@@ -278,11 +278,11 @@
 
 | 134. | FLUORIDOK (F-ra számítva) |  | 2,5 |  | b, i, BEM | EU1 | T |
 
-| 135. | FORMALDEHID | 50-00-0 | 0,6 | 0,6 | k(1B), b, m, sz |  | T |
+| 135. | FORMALDEHID | 50-00-0 | 0,37 | 0,74 | k(1B), b, m, sz | EU8 | T |
 
 | 136. | FOSZFIN | 7803-51-2 | 0,14 | 0,28 | i | EU2 | R |
 
-| 137. | FOSZFOR | 7723-14-0 | 0,1 | 0,1 | i |  | N |
+| 137. | FOSZFOR | 12185-10-3 7723-14-0 | 0,1 | 0,1 | i |  | N |
 
 | 138. | FOSZFOR-PENTAKLORID | 10026-13-8 | 1 |  | m | EU2 | N |
 
@@ -318,7 +318,7 @@
 
 | 154. | n-HEXÁN | 110-54-3 | 72 |  | b, i, BEM | EU2 | T |
 
-| 155. | HIDRAZIN | 302-01-2 | 0,013 |  | k(1B), b | EU6 | T |
+| 155. | HIDRAZIN | 302-01-2 | 0,013 |  | k(1B), b, BEM | EU6 | T |
 
 | 156. | HIDROGÉN-BROMID | 10035-10-6 |  | 6,7 | m | EU1 | N |
 
@@ -328,7 +328,7 @@
 
 | 159. | HIGANY SZERVES VEGYÜLETEI* (Hg-ra számítva) |  | 0,01 | 0,04 | b, sz |  | R+T |
 
-| 160. | IZOAMIL-ALKOHOL | 123-51-3 | 18 | 37 |  |  | R |
+| 160. | IZOAMIL-ALKOHOL | 123-51-3 | 18 | 37 |  | EU7 | R |
 
 | 161. | IZOPENTÁN | 78-78-4 | 3000 |  |  | EU2 | N |
 
@@ -390,7 +390,7 @@
 
 | 190. | KRÓM (VI) SZERVETLEN VEGYÜLETEK [Cr (VI)-ra számítva] |  | 0,01 |  | k(1A vagy 1B), BEM | EU6 | T |
 
-| 191. | KUMOL | 98-82-8 | 50 | 250 | b, i |  | R |
+| 191. | KUMOL | 98-82-8 | 50 | 250 | b, i | EU7 | R |
 
 | 192. | LINDÁN (γ-HCH) (γ-1,2,3,4,5,6-hexaklórciklohexán) | 58-89-9 | 0,1 | 0,8 | b, i |  | R+T |
 
@@ -406,7 +406,7 @@
 
 | 198. | METIL-AKRILÁT | 96-33-3 | 18 | 36 | b, i, sz | EU3 | T |
 
-| 199. | METANOL | 67-56-1 | 260 |  | b, i | EU2 | R+T |
+| 199. | METANOL | 67-56-1 | 260 |  | b, i, BEM | EU2 | R+T |
 
 | 200. | 2-METILAZIRIDIN | 75-55-8 | 5 |  | k(1B) |  | R+T |
 
@@ -414,9 +414,9 @@
 
 | 202. | 1-METILBUTIL-ACETÁT | 626-38-0 | 270 | 540 |  | EU1 | N |
 
-| 203. | METIL-BUTIL-KETON | 591-78-6 | 21 | 84 | b, i |  | T |
+| 203. | METIL-BUTIL-KETON | 591-78-6 | 21 | 84 | b, i, BEM |  | T |
 
-| 204. | 4,4’-Metilén-bisz(2-klóranilin)[MOCA] | 101-14-4 | 0,01 |  | k(1B), b |  | R+T |
+| 204. | 4,4’-Metilén-bisz(2-klóranilin) [MOCA] | 101-14-4 | 0,01 |  | k(1B), b, BEM | EU8 | R+T |
 
 | 205. | METIL-ETIL-KETON | 78-93-3 | 600 | 900 | b, i | EU1 | N |
 
@@ -428,7 +428,7 @@
 
 | 209. | METIL-IZOCIANÁT | 624-83-9 |  | 0,047 | b, i, sz | EU3 | R+T |
 
-| 210. | METIL-KLORID | 74-87-3 | 42 |  |  |  | R+T |
+| 210. | METIL- KLORID | 74-87-3 | 42 |  |  | EU7 | R+T |
 
 | 211. | METIL-MERKAPTÁN | 74-93-1 | 1 | 2 | i |  | N |
 
@@ -450,7 +450,7 @@
 
 | 220. | MEZITILÉN (1,3,5-trimetilbenzol) | 108-67-8 | 100 |  | i | EU1 | T |
 
-| 221. | MOLIBDÉN OLDHATATLAN VEGYÜLETEI (Mo-ra számítva) |  | 5 resp 10 |  |  |  | N |
+| 221. | MOLIBDÉN ÉS OLDHATATLAN VEGYÜLETEI (Mo-ra számítva) |  | 5 resp 10 |  |  |  | N |
 
 | 222. | MOLIBDÉN OLDHATÓ VEGYÜLETEI (Mo-ra számítva) |  | 5 |  |  |  | N |
 
@@ -468,13 +468,13 @@
 
 | 229. | NEOPENTÁN | 463-82-1 | 3000 |  |  | EU2 | N |
 
-| 230. | NIKKEL SZERVETLEN VEGYÜLETEI, (Ni-re számítva) |  | 0,01 |  | k(1B), sz, BEM |  | T |
+| 230. | NIKKEL ÉS SZERVETLEN VEGYÜLETEI, (Ni-re számítva) |  | 0,01 |  | k(1B), sz, BEM | SCOEL/ SUM/85/ 2011 | T |
 
 | 231. | NIKOTIN | 54-11-5 | 0,5 |  | b, i | EU2 | R |
 
 | 232. | 4-NITROANILIN | 100-01-6 | 3 |  | b, i |  | R+T |
 
-| 233. | NITROBENZOL | 98-95-3 | 1 |  | b, i | EU2 | R+T |
+| 233. | NITROBENZOL | 98-95-3 | 1 |  | b, i, BEM | EU2 | R+T |
 
 | 234. | NITROETÁN | 79-24-3 | 62 | 312 | b | EU4 | N |
 
@@ -492,7 +492,7 @@
 
 | 241. | OKTÁN (összes izomer) |  | 2350 | 4700 | i |  | R |
 
-| 242. | OLAJ (ásványi) KÖD** | 92062-35-6 8042-47-5 72623-83-7 92045-77-8 92045-45-9 | 5 |  |  | SCOEL/ SUM/163/ 2011 | T |
+| 242. | OLAJ (ásványi) KÖD** | 92062-35-6 8042-47-5 72623-83-7 92045-44-8 92045-45-9 | 5 |  |  | SCOEL/SUM/ 163/2011 | T |
 
 | 243. | ÓLOM és SZERVETLEN VEGYÜLETEI (Pb-ra számítva) | 7439-92-1 | 0,1 0,05 resp |  | i, BEM, BHM |  | T |
 
@@ -500,153 +500,153 @@
 
 | 245. | ÓLOM-TETRAMETIL | 75-74-I | 0,05 | 0,2 | b, i | T |
 
-| 246. | ÓN SZERVES VEGYÜLETEI (Sn-ra számítva): TRIBUTIL-ÓN VEGYÜLETEK |  | 0,05 | 0,05 | b, i |  | T |
+| 246. | ÓN SZERVES VEGYÜLETEI (Sn-ra számítva) |  | 0,02 |  | b, i | SCOEL/ SUM/ 138/2011 | T |
 
-| 247. | ÓN SZERVES VEGYÜLETEI (Sn-ra számítva): FENIL- ÉS BUTIL-ÓN VEGYÜLETEK |  | 0,002 | 0,04 | b, i |  | T |
+| 247. | ÓN SZERVETLEN VEGYÜLETEI (Sn-ra számítva) |  | 2 | 8 | b, i | EU91 | T |
 
-| 248. | ÓN SZERVETLEN VEGYÜLETEI (Sn-ra számítva) |  | 2 | 8 | b, i | EU91 | T |
+| 248. | ORTOFOSZFORSAV | 7664-38-2 | 1 | 2 | m | EU1 | N |
 
-| 249. | ORTOFOSZFORSAV | 7664-38-2 | 1 | 2 | m | EU1 | N |
+| 249. | OXÁLSAV | 144-62-7 | 1 |  |  | EU2 | N |
 
-| 250. | OXÁLSAV | 144-62-7 | 1 |  |  | EU2 | N |
+| 250. | OZMIUM-TETRAOXID (Os-ra számítva) | 20816-12-0 | 0,002 | 0,004 | m, b |  | N |
 
-| 251. | OZMIUM-TETRAOXID (Os-ra számítva) | 20816-12-0 | 0,002 | 0,004 | m, b |  | N |
+| 251. | ÓZON | 10028-15-6 | 0,2 | 0,2 | i |  | N |
 
-| 252. | ÓZON | 10028-15-6 | 0,2 | 0,2 | i |  | N |
+| 252. | PARAKVÁT-DIKLORID | 1910-42-5 | 0,1 | 0,1 | b, i |  | T |
 
-| 253. | PARAKVÁT-DIKLORID | 1910-42-5 | 0,1 | 0,1 | b, i |  | T |
+| 253. | PARATION | 56-38-2 | 0,1 |  | b |  | R+T |
 
-| 254. | PARATION | 56-38-2 | 0,1 |  | b |  | R+T |
+| 254. | PENTAKLÓRFENOL ÉS SÓI | 87-86-5 | 0,5 | 1,5 | b, i |  | T |
 
-| 255. | PENTAKLÓRFENOL ÉS SÓI | 87-86-5 | 0,5 | 1,5 | b, i |  | T |
+| 255. | PENTAKLÓR- NAFTALINOK | 1321-64-8 | 0,5 | 2 | b, i, sz |  | T |
 
-| 256. | PENTAKLÓRNAFTALINOK | 1321-64-8 | 0,5 | 2 | b, i, sz |  | T |
+| 256. | n-PENTÁN | 109-66-0 | 2950 |  |  | EU2 | R |
 
-| 257. | n-PENTÁN | 109-66-0 | 2950 |  |  | EU2 | R |
+| 257. | PENTIL-ACETÁT | 628-63-7 | 270 | 540 | i | EU1 | N |
 
-| 258. | PENTIL-ACETÁT | 628-63-7 | 270 | 540 | i | EU1 | N |
+| 258. | 3-PENTIL-ACETÁT | 620-11-1 | 270 | 540 | i | EU1 | N |
 
-| 259. | 3-PENTIL-ACETÁT | 620-11-1 | 270 | 540 | i | EU1 | N |
+| 259. | PIKRINSAV | 88-89-1 | 0,1 | 0,1 | i, sz | EU91 | T |
 
-| 260. | PIKRINSAV | 88-89-1 | 0,1 | 0,1 | i, sz | EU91 | T |
+| 260. | PIPERAZIN | 110-85-0 | 0,1 | 0,3 |  | EU1 | T |
 
-| 261. | PIPERAZIN | 110-85-0 | 0,1 | 0,3 |  | EU1 | T |
+| 261. | PIRETRUM | 8003-34-7 | 1 |  |  | EU2 | T |
 
-| 262. | PIRETRUM | 8003-34-7 | 1 |  |  | EU2 | T |
+| 262. | PIRIDIN | 110-86-1 | 15 | 30 | b, i, sz | EU91 | T |
 
-| 263. | PIRIDIN | 110-86-1 | 15 | 30 | b, i, sz | EU91 | T |
+| 263. | PLATINA FÉM | 7440-06-4 | 1 |  |  | EU91 | T |
 
-| 264. | PLATINA FÉM | 7440-06-4 | 1 |  |  | EU91 | T |
+| 264. | PLATINA OLDHATÓ VEGYÜLETEI (Pt-ra számítva) |  | 0,002 |  | i, sz |  | T |
 
-| 265. | PLATINA OLDHATÓ VEGYÜLETEI (Pt-ra számítva) |  | 0,002 |  | i, sz |  | T |
+| 265. | PORTLAND CEMENT | 65997-15-1 | 10 |  |  |  | N |
 
-| 266. | PORTLAND CEMENT | 65997-15-1 | 10 |  |  |  | N |
+| 266. | PROPIL-ACETÁT | 109-60-4 | 420 | 840 | b, i. |  | N |
 
-| 267. | PROPIL-ACETÁT | 109-60-4 | 420 | 840 | b, i. |  | N |
+| 267. | PROPILÉN-OXID (1,2-epoxipropán) | 75-56-9 | 2,4 |  | k(1B), b, i | EU6 | T |
 
-| 268. | PROPILÉN-OXID (1,2-epoxipropán) | 75-56-9 | 2,4 |  | k(1B), b, i | EU6 | T |
+| 268. | 1,3-PROPIOLAKTON | 57-57-8 | 1,5 |  | k(1B) |  | T |
 
-| 269. | 1,3-PROPIOLAKTON | 57-57-8 | 1,5 |  | k(1B) |  | T |
+| 269. | PROPIONSAV | 79-09-4 | 31 | 62 | m | EU1 | T |
 
-| 270. | PROPIONSAV | 79-09-4 | 31 | 62 | m | EU1 | T |
+| 270. | RÉZ és vegyületei (Cu-re számítva) | 7440-50-8 | 0,1 | 0,2 |  |  | R |
 
-| 271. | RÉZ és vegyületei (Cu-re számítva) | 7440-50-8 | 0,1 | 0,2 |  |  | R |
+| 271. | RÉZ füst (Cu-re számítva) | 7440-50-8 | 0,01 resp |  |  |  | R |
 
-| 272. | RÉZ füst (Cu-re számítva) | 7440-50-8 | 0,01 resp |  |  |  | R |
+| 272. | REZORCIN | 108-46-3 | 45 |  | b, i | EU2 | R |
 
-| 273. | REZORCIN | 108-46-3 | 45 |  | b, i | EU2 | R |
+| 273. | SALÉTROMSAV | 7697-37-2 |  | 2,6 | i, m | EU2 |  |
 
-| 274. | SALÉTROMSAV | 7697-37-2 |  | 2,6 | i, m | EU2 |  |
+| 274. | SÓSAV | 7647-01-0 | 8 | 16 | i, m | EU1 | N |
 
-| 275. | SÓSAV | 7647-01-0 | 8 | 16 | i, m | EU1 | N |
+| 275. | STRONCIUM-KROMÁT [Cr (VI)-ra számítva] | 7789-06-2 | 0,005 |  | k(1B), BEM |  | T |
 
-| 276. | STRONCIUM-KROMÁT [Cr (VI)-ra számítva] | 7789-06-2 | 0,005 |  | k(1B) |  | T |
+| 276. | SZELÉNVEGYÜLETEK (Se-re számítva) |  | 0,1 | 0,2 | i, BEM |  | R+T |
 
-| 277. | SZELÉNVEGYÜLETEK (Se-re számítva) |  | 0,1 | 0,2 | i, BEM |  | R+T |
+| 277. | SZÉN-DIOXID | 124-38-9 | 9000 |  |  | EU2 | N |
 
-| 278. | SZÉN-DIOXID | 124-38-9 | 9000 |  |  | EU2 | N |
+| 278. | SZÉN-DISZULFID | 75-15-0 | 15 |  | b, i, m | EU3 | R+T |
 
-| 279. | SZÉN-DISZULFID | 75-15-0 | 15 |  | b, i, m | EU3 | R+T |
+| 279. | SZÉN-MONOXID | 630-08-0 | 23 | 117 | BHM | EU4 | R+T |
 
-| 280. | SZÉN-MONOXID | 630-08-0 | 23 | 117 | BHM | EU4 | R+T |
+| 280. | SZÉN-TETRAKLORID (tetraklór-metán) | 56-23-5 | 6,4 | 32 | b, k(2) | EU4 | R+T |
 
-| 281. | SZÉN-TETRAKLORID (tetraklór- metán) | 56-23-5 | 6,4 | 32 | b | EU4 | R+T |
+| 281. | SZTIROL | 100-42-5 | 86 | 172 | i, BEM |  | R+T |
 
-| 282. | SZTIROL | 100-42-5 | 86 | 172 | i, BEM |  | R+T |
+| 282. | SZULFOTEP | 3689-24-5 | 0,1 |  | b | EU1 | R+T |
 
-| 283. | SZULFOTEP | 3689-24-5 | 0,1 |  | b | EU1 | R+T |
+| 283. | TALLIUM OLDHATÓ VEGYÜLETEI (Tl-ra számítva) |  | 0,1 | 0,2 | b, i |  | T |
 
-| 284. | TALLIUM OLDHATÓ VEGYÜLETEI (Tl-ra számítva) |  | 0,1 | 0,2 | b, i |  | T |
+| 284. | TERFENILEK (hidrogénezett) | 61788-32-7 | 19 | 48 |  | EU4 | T |
 
-| 285. | TERFENILEK (hidrogénezett) | 61788-32-7 | 19 | 48 |  | EU4 | T |
+| 285. | TETRAETIL-ORTOSZILIKÁT | 78-10-4 | 44 |  | i | EU4 | N |
 
-| 286. | TETRAETIL-ORTOSZILIKÁT | 78-10-4 | 44 |  | i | EU4 | N |
+| 286. | TETRAHIDROFURÁN | 109-99-9 | 150 | 300 | b, i, BEM | EU1 | N |
 
-| 287. | TETRAHIDROFURÁN | 109-99-9 | 150 | 300 | b, i | EU1 | N |
+| 287. | 1,1,2,2-TETRAKLÓRETÁN | 79-34-5 | 7 |  | b |  | R+T |
 
-| 288. | 1,1,2,2-TETRAKLÓRETÁN | 79-34-5 | 7 |  | b |  | R+T |
+| 288. | TETRAKLÓRETILÉN | 127-18-4 | 138 | 275 | b | EU4 | R+T |
 
-| 289. | TETRAKLÓRETILÉN | 127-18-4 | 138 | 275 | b | EU4 | R+T |
+| 289. | TIOGLIKOLSAV | 68-11-1 | 4 |  | b, m |  | N |
 
-| 290. | TIOGLIKOLSAV | 68-11-1 | 4 |  | b, m |  | N |
+| 290. | 2-TOLUIDIN (o-toluidin) | 95-53-4 | 0,5 |  | k(1B), i, b | EU6 | R+T |
 
-| 291. | 2-TOLUIDIN (o-toluidin) | 95-53-4 | 0,5 |  | k(1B), i, b | EU6 | R+T |
+| 291. | 3-TOLUIDIN | 108-44-1 | 9 |  | b |  | R |
 
-| 292. | 3-TOLUIDIN | 108-44-1 | 9 |  | b |  | R |
+| 292. | 4-TOLUIDIN (para-toluidin) | 106-49-0 | 4,46 | 8,92 | k(2), b | EU7 | R+T |
 
-| 293. | 4-TOLUIDIN (para-toluidin) | 106-49-0 | 4,46 | 8,92 | k(2), b |  | R+T |
+| 293. | TOLUOL | 108-88-3 | 190 | 380 | b, i, BEM | EU2 | R+T |
 
-| 294. | TOLUOL | 108-88-3 | 190 | 380 | b, i, BEM | EU2 | R+T |
+| 294. | TOXAFÉN | 8001-35-2 | 0,5 |  | b, i, k(2) |  | R+T |
 
-| 295. | TOXAFÉN | 8001-35-2 | 0,5 |  | b, i |  | R+T |
+| 295. | TRIETIL-AMIN | 121-44-8 | 8,4 | 12,6 | b, i, m | EU1 | R+T |
 
-| 296. | TRIETIL-AMIN | 121-44-8 | 8,4 | 12,6 | b, i, m | EU1 | R+T |
+| 296. | TRIKLÓRBENZOLOK (1,2,4-TRIKLÓRBENZOL kivételével) | 12002-48-1 | 38 | 72 | b |  | N |
 
-| 297. | TRIKLÓRBENZOLOK (1,2,4-TRIKLÓRBENZOL kivételével) | 12002-48-1 | 38 | 72 | b |  | N |
+| 297. | 1,2,4-TRIKLÓRBENZOL | 120-82-1 | 15,1 | 37,8 | b | EU1 | N |
 
-| 298. | 1,2,4-TRIKLÓRBENZOL | 120-82-1 | 15,1 | 37,8 | b | EU1 | N |
+| 298. | 1,1,1-TRIKLÓRETÁN* | 71-55-6 | 555 | 1110 | b, i | EU1 | R+T |
 
-| 299. | 1,1,1-TRIKLÓRETÁN* | 71-55-6 | 555 | 1110 | b, i | EU1 | R+T |
+| 299. | TRIKLÓRETILÉN | 79-01-6 | 54,7 | 164,1 | k(1B), b, sz, BEM | EU6 | R |
 
-| 300. | TRIKLÓRETILÉN | 79-01-6 | 54,7 | 164,1 | k(1B), b, sz, BEM | EU6 | R |
+| 300. | 2,4,5-TRIKLÓR- FENOXIECETSAV; (2,4,5-T) | 93-76-5 | 2 | 4 | b, i |  | N |
 
-| 301. | 2,4,5- TRIKLÓRFENOXIECETSAV; (2,4,5-T) | 93-76-5 | 2 | 4 | b, i |  | N |
+| 301. | TRIKLÓRNAFTALINOK | 1321-65-9 | 5 |  | b, i, sz |  | T |
 
-| 302. | TRIKLÓRNAFTALINOK | 1321-65-9 | 5 |  | b, i, sz |  | T |
+| 302. | TRI-o-KREZIL-FOSZFÁT | 78-30-8 | 0,1 |  | b, i, sz |  | T |
 
-| 303. | TRI-o-KREZIL-FOSZFÁT | 78-30-8 | 0,1 |  | b, i, sz |  | T |
+| 303. | TRIMETIL-AMIN | 75-50-3 | 4,9 | 12,5 | m, sz | EU7 | N |
 
-| 304. | TRIMETIL-AMIN | 75-50-3 | 4,9 | 12,5 | m, sz |  | N |
+| 304. | 1,2,3-TRIMETILBENZOL | 526-73-8 | 100 |  |  | EU1 | T |
 
-| 305. | 1,2,3-TRIMETILBENZOL | 526-73-8 | 100 |  |  | EU1 | T |
+| 305. | 1,2,4-TRIMETILBENZOL | 95-63-6 | 100 |  |  | EU1 | T |
 
-| 306. | 1,2,4-TRIMETILBENZOL | 95-63-6 | 100 |  |  | EU1 | T |
+| 306. | TRINIKKEL-DISZULFID (Ni-re számítva) | 12035-72-2 | 0,01 |  | k(1A) , sz |  | T |
 
-| 307. | TRINIKKEL-DISZULFID (Ni-re számítva) | 12035-72-2 | 0,01 |  | k(1A), sz |  | T |
+| 307. | 2,4,6-TRINITROTOLUOL | 118-96-7 | 0,09 | 0,36 | b |  | T |
 
-| 308. | 2,4,6-TRINITROTOLUOL | 118-96-7 | 0,09 | 0,36 | b |  | T |
+| 308. | VANÁDIUM-PENTOXID (V-ra számítva) | 1314-62-1 | 0,05 resp | 0,2 resp | i, sz, BEM |  | N |
 
-| 309. | VANÁDIUM-PENTOXID (V-ra számítva) | 1314-62-1 | 0,05 resp | 0,2 resp | i, sz |  | N |
+| 309. | VAS(II)-OXID (Fe-ra számítva) | 1345-25-1 | 4 resp |  |  |  | T |
 
-| 310. | VAS(II)-OXID (Fe-ra számítva) | 1345-25-1 | 4 resp |  |  |  | T |
+| 310. | VAS(III)-OXID (Fe-ra számítva) | 1309-37-1 | 4 resp |  |  |  | T |
 
-| 311. | VAS(III)-OXID (Fe-ra számítva) | 1309-37-1 | 4 resp |  |  |  | T |
+| 311. | VINIL-ACETÁT | 108-05-4 | 17,6 | 35,2 |  | EU3 | N |
 
-| 312. | VINIL-ACETÁT | 108-05-4 | 17,6 | 35,2 |  | EU3 | N |
+| 312. | VINIL-BROMID (bróm-etilén) | 593-60-2 | 4,4 |  | k(1B) | EU6 | T |
 
-| 313. | VINIL-BROMID (bróm-etilén) | 593-60-2 | 4,4 |  | k | EU6 | T |
+| 313. | VINIL-KLORID | 75-01-4 | 2,6 |  | k(1B) | EU6 | T |
 
-| 314. | VINIL-KLORID | 75-01-4 | 2,6 |  | k | EU6 | T |
+| 314. | XILOL izomerek keveréke | 1330-20-7 | 221 | 442 | b, BEM | EU1 | R |
 
-| 315. | XILOL izomerek keveréke | 1330-20-7 | 221 | 442 | b, BEM | EU1 | R |
+| 315. | m-XILOL | 108-38-3 | 221 | 442 | b, BEM | EU1 | R |
 
-| 316. | m-XILOL | 108-38-3 | 221 | 442 | b, BEM | EU1 | R |
+| 316. | o-XILOL | 95-47-6 | 221 | 442 | b, BEM | EU1 | R |
 
-| 317. | o-XILOL | 95-47-6 | 221 | 442 | b, BEM | EU1 | R |
+| 317. | p-XILOL | 106-42-3 | 221 | 442 | b, BEM | EU1 | R |
 
-| 318. | p-XILOL | 106-42-3 | 221 | 442 | b, BEM | EU1 | R |
+| 318. | XILIDIN(ek) | 1300-73-8 | 10 |  | b |  | T |
 
-| 319. | XILIDIN(ek) | 1300-73-8 | 10 |  | b |  | T |
+| 319. | FOSZFORIL-TRIKLORID | 10025-87-3 | 0,064 | 0,12 | m | EU7 |  |
 
 1.1.1. Az 1.1. táblázatban a nem gőz-/gázállapotú veszélyes anyagok határértékei a belélegezhető frakcióra vonatkoznak (MSZ EN 481).
 
@@ -690,17 +690,25 @@
 
 |  | 16. | EU6 | 2019/130 EU irányelvben közölt érték |
 
-|  | 17. | BEM | biológiai expozíciós mutató |
+|  | 17. | EU7 | 2019/1831 EU irányelvben közölt érték |
 
-|  | 18. | BHM | biológiai hatásmutató |
+|  | 18. | EU8 | 2019/983 EU irányelvben közölt érték |
 
-|  | 19. | mg/m3 | milligramm légköbméterenként, 20 °C-on és 101,3 KPa légköri nyomáson |
+|  | 19. | BEM | biológiai expozíciós mutató |
 
-|  | 20. | ÁK-érték | megengedett átlagos koncentráció |
+|  | 20. | BHM | biológiai hatásmutató |
 
-|  | 21. | CK-érték | megengedett csúcskoncentráció |
+|  | 21. | mg/m3 | milligramm légköbméterenként, 20 °C-on és 101,3 KPa légköri nyomáson |
 
-|  | 22. | CAS-szám | A vegyi anyagok azonosítására használt Chemical Abstracts Service regisztrációs szám |
+|  | 22. | ÁK-rték | megengedett átlagos koncentráció |
+
+|  | 23. | CK-rték | megengedett csúcskoncentráció |
+
+|  | 24. | CAS-szám | a vegyi anyagok azonosítására használt Chemical Abstracts Service regisztrációs szám |
+
+|  | 25. | SCOEL/SUM/138/2011 | a SCOEL/SUM/138/2011. számú ajánlásban javasolt határérték |
+
+|  | 26. | SCOEL/SUM/85/2011 | SCOEL/SUM/85/2011. számú ajánlásban javasolt határérték |
 
 1.3. Nyolc óránál hosszabb műszak vagy 40 órásnál hosszabb munkahét esetén alkalmazandó ÁK-érték korrekciók
 
@@ -734,7 +742,7 @@ ahol:
 
 1.5.1.1. C1, C2, ... Cn a t1, t2, ... tn időszakokhoz tartozó légszennyező anyagok koncentrációi (mg/m3).
 
-1.5.1.2. t1 + t2 ... + tn = 8 óra
+1.5.1.2. t1 + t2 ... + tn = műszak óráinak száma
 
 1.5.2. Határérték meghatározása több veszélyes anyag munkatérben való egyidejű jelenléte esetén. Ha a munkatér levegőjében egyidejűleg több veszélyes anyag van jelen, – egyaránt beleértve a rákkeltő hatású és nem rákkeltő hatású anyagokat – a megengedhető értéket az alábbi összefüggés szerint kell meghatározni:
 
@@ -748,4 +756,5 @@ ahol:
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^1]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 1. melléklet a 32/2021. (VII. 26.) ITM rendelet 21. §-a szerint módosított szöveg.

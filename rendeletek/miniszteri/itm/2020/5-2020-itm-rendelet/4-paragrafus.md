@@ -8,6 +8,8 @@
 
 (4) A biológiai expozíciós mutatók és a biológiai hatásmutatók mérésére, valamint a 11. § (4) bekezdése szerinti határérték ellenőrzésére – a munkateret szennyező anyagok mérésére – irányuló vizsgálatokat kizárólag
 
-a) a Nemzeti Akkreditáló Testület által e területre és a mérendő vegyi anyagok meghatározására akkreditált és
+a)[^5] a Nemzeti Akkreditáló Hatóság által e területre és a mérendő vegyi anyagok meghatározására akkreditált és
 
 b) a nemzeti vagy nemzetközi jártassági vizsgálatban írásban igazolt módon eredményesen részt vevő
+
+[^5]: A 4. § (4) bekezdés a) pontja a 32/2021. (VII. 26.) ITM rendelet 24. § c) pontja szerint módosított szöveg.
