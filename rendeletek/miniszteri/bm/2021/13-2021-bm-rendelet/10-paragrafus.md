@@ -1,3 +1,5 @@
-## 9. § Hatályát veszti a 47/2011. (XII. 15.) BM rendelet 13. §-a.
+## 9. §[^10]
 
 ## 3. Záró rendelkezések
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
