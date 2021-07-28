@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) C:42 mezőjében az „Állami Egészségügyi Ellátó Központ” szövegrész helyébe az „Országos Kórházi Főigazgatóság” szöveg,
-
-## b) D:42 mezőjében a „4,00” szövegrész helyébe a „4,46” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1505/2021. (VII. 26.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Módosított támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.0- 16-2016-00008 | Pszichiátriai és addiktológiai gondozóhálózat fejlesztése | Országos Kórházi Főigazgatóság (konzorciumvezető) Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem | 4 000 000 000 | 456 479 315 | 4 456 479 315 | A projekt célja a pszichiátria és addiktológiai szakellátások minőségének, valamint az azokhoz való hozzáférés javítása. Ezáltal megvalósul – az Egészséges Magyarország 2014–2020 egészségügyi ágazati stratégia célkitűzéseivel összhangban – a lakosság mentális egészségi állapotának fejlesztése. Speciális cél továbbá a pszichiátriai és addiktológiai betegek lakossághoz közeli egészségügyi ellátásához való hozzáférésének javítása, a pszichiátriai és addiktológiai fekvőbeteg-szakellátás időtartamának lehetséges lerövidítése, kiváltása, a gondozóintézeti ellátás minőségének és hatékonyságának javítása, valamint a humán kompetenciák fejlesztése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
