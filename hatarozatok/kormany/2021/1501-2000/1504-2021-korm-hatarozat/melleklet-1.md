@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) C:43b mezőjében az „Állami Egészségügyi Ellátó Központ” szövegrész helyébe az „Országos Kórházi Főigazgatóság” szöveg,
-
-## b) D:43b mezőjében a „2,30” szövegrész helyébe a „2,38” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1504/2021. (VII. 26.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.0-16- 2016-00005 | A pszichiátriai ellátórendszer strukturált fejlesztése keretében a szakellátások minőségének és hozzáférésének javítása | Országos Kórházi Főigazgatóság | 2 300 000 000 | 75 605 227 | 2 375 605 227 | A projekt elsődleges célja a pszichiátriai és addiktológiai ellátások minőségének és hozzáférhetőségének javítása. További cél a pszichiátriai és addiktológiai betegek részére olyan infrastrukturális körülmények biztosítása, amelyek megfelelő kereteket és szakmai feltételeket biztosítanak az ellátó szakmai munkához és az adekvát kezelésekhez. A projekt további célja a biztonsági pszichiátriai egység kialakítása: a violens magatartású betegek kezelése érdekében a szigorú biztonsági standardoknak megfelelően felszerelt pszichiátriai osztályok létrehozása. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
