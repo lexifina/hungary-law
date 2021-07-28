@@ -1,1 +1,3 @@
-## 6. § A 61/1999. EüM rendelet 1. számú melléklete az 1. melléklet szerint módosul.
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

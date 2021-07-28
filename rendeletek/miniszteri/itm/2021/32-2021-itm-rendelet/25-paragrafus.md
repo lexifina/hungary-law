@@ -1,17 +1,20 @@
-## lép.
+## 24. §[^23]
 
 ## 25. § Hatályát veszti az 5/2020. ITM rendelet
 
-a) 3. § 15. pontjában az „ennek hiányában a küszöb koncentrációval, vagy küszöb koncentráció nélküli anyagok esetében az elérhető legkisebb kockázatot jelentő koncentrációval” szövegrész,
+a)[^24]
 
-b) 5. § (4) bekezdés c) pontja,
+b)[^25]
 
-c)[^3]
+c)[^26]
 
-d)[^4]
+d)[^27]
 
-e)[^5]
+e)[^28]
 
-[^3]: A 25. § c) pontja a 29. § (3) bekezdése alapján 2023. július 11-én lép hatályba.
-[^4]: A 25. § d) pontja a 29. § (4) bekezdése alapján 2024. július 12-én lép hatályba.
-[^5]: A 25. § e) pontja a 29. § (4) bekezdése alapján 2024. július 12-én lép hatályba.
+[^23]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 25. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 25. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 25. § c) pontja a 29. § (3) bekezdése alapján 2023. július 11-én lép hatályba.
+[^27]: A 25. § d) pontja a 29. § (4) bekezdése alapján 2024. július 12-én lép hatályba.
+[^28]: A 25. § e) pontja a 29. § (4) bekezdése alapján 2024. július 12-én lép hatályba.

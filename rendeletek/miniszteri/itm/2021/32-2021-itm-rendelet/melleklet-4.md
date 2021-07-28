@@ -1,10 +1,4 @@
-## A 26/2000. EüM rendelet 5. számú melléklet 2. pontja helyébe a következő rendelkezés lép:
-
-## (A vinil-klorid monomer expozíció hatásának kitett munkavállalók egészségvédelmére vonatkozó előírások)
-
-## „2. A VCM munkahelyi levegőben megengedett határértékét a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló rendelet tartalmazza.”
-
-4. melléklet a 32/2021. (VII. 26.) ITM rendelethez[^8]
+4. melléklet a 32/2021. (VII. 26.) ITM rendelethez[^35]
 
 1. Az 5/2020. ITM rendelet 1. melléklet 1. pont 1.1. alpontjában foglalt táblázat 20. sora helyébe a következő rendelkezés lép:
 
@@ -360,4 +354,4 @@
 
 24. Az 5/2020. ITM rendelet 1. melléklet 1. pont 1.5. alpont 1.5.1. pontjában az „1.5.1.2. t1 + t2 ... + tn = 8 óra” szövegrész helyébe az „1.5.1.2. t1 + t2 ... + tn = műszak óráinak száma” szöveg lép.
 
-[^8]: A 4. melléklet 3. pontja a 29. § (7) bekezdése alapján 2026. július 12-én lép hatályba. A 4. melléklet 12. pontja a 29. § (8) bekezdése alapján 2027. július 12-én lép hatályba.
+[^35]: A 4. melléklet 1–2. és 4–11. és 13–24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. A 4. melléklet 3. pontja a 29. § (7) bekezdése alapján 2026. július 12-én lép hatályba. A 4. melléklet 12. pontja a 29. § (8) bekezdése alapján 2027. július 12-én lép hatályba.

@@ -1,7 +1,3 @@
-## A 61/1999. EüM rendelet 1. számú melléklet 5. pontja helyébe a következő rendelkezés lép:
+2. melléklet a 32/2021. (VII. 26.) ITM rendelethez[^33]
 
-## (A foglalkozási tevékenységek típusainak tájékoztató jegyzéke)
-
-## „5. A klinikai, állatorvosi diagnosztikai laboratóriumokban végzett munkák a diagnosztikai mikrobiológiai laboratóriumok kivételével.”
-
-2. melléklet a 32/2021. (VII. 26.) ITM rendelethez
+[^33]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

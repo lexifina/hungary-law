@@ -1,3 +1,3 @@
-## 10. § A 65/1999. EüM rendelet 11. §-a a következő (3) bekezdéssel egészül ki:
+## 10. §[^10]
 
-## „(3) Ez a rendelet a 89/656/EGK tanácsi irányelv I., II. és III. mellékletének tisztán technikai kiigazítások tekintetében történő módosításáról szóló, 2019. október 24-i 2019/1832 bizottsági irányelvnek való megfelelést szolgálja.”
+[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

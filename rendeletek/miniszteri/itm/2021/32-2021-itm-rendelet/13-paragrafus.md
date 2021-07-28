@@ -1,7 +1,3 @@
-## 12. § A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló 26/2000. (IX. 30.) EüM rendelet (a továbbiakban: 26/2000. EüM rendelet) 2. § a) pont ac) alpontja helyébe a következő rendelkezés lép:
+## 12. §[^12]
 
-## (E rendelet alkalmazásában
-
-## rákkeltő anyag:)
-
-## „ac) a 2. számú mellékletben meghatározott anyag, keverék vagy eljárás, valamint ezen eljárások során felszabaduló anyag vagy keverék,”
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

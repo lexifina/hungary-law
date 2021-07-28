@@ -1,1 +1,3 @@
-## 22. § Az 5/2020. ITM rendelet 3. melléklete az 5. melléklet szerint módosul.
+## 22. §[^21]
+
+[^21]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

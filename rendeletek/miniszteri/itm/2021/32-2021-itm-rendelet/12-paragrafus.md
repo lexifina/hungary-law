@@ -1,3 +1,5 @@
-## 11. § Hatályát veszti a 65/1999. EüM rendelet 1–3. számú melléklete.
+## 11. §[^11]
 
 ## 4. A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló 26/2000. (IX. 30.) EüM rendelet módosítása
+
+[^11]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

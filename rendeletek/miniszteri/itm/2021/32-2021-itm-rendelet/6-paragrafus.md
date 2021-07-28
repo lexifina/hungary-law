@@ -1,7 +1,3 @@
-## 5. § A 61/1999. EüM rendelet 17. § (2) bekezdése a következő d) ponttal egészül ki:
+## 5. §[^5]
 
-## (E rendelet)
-
-## „d) a 2000/54/EK európai parlamenti és tanácsi irányelv I., III., V. és VI. mellékletének tisztán technikai kiigazítások tekintetében történő módosításáról szóló, 2019. október 24-i 2019/1833 bizottsági irányelvnek”
-
-## (való megfelelést szolgálja.)
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

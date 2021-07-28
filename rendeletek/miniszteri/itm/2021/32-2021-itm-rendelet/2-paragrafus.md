@@ -1,1 +1,3 @@
-## „(9) Betegség esetén, annak (8) bekezdés szerinti elbírálását követően foglalkozási megbetegedésként történő elfogadásáról a munkahigiénés és foglalkozás-egészségügyi szerv 5 napon belül tájékoztatja a munkavédelmi hatóságot.”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

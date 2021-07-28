@@ -1,3 +1,3 @@
-## 13. § A 26/2000. EüM rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 13. §[^13]
 
-## „(1) E rendelet hatálya kiterjed – a (3) bekezdésben foglaltak kivételével – az Mvt. alapján történő szervezett munkavégzésre, amelynek során a munkavállaló rákkeltő vagy mutagén anyag (a továbbiakban együtt: rákkeltők) hatásának van vagy lehet kitéve.”
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
