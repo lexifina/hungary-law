@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-0A
 | 2019-07-01 | 2011-9-20-0A.16 | 27/2019. (VI. 28.) BM rendelet |
 | 2020-05-01 | 2011-9-20-0A.17 | 9/2020. (IV. 16.) BM rendelet |
 | 2020-07-01 | 2011-9-20-0A.18 | 18/2020. (VI. 30.) BM rendelet |
+| 2021-07-29 | 2011-9-20-0A.19 | 22/2021. (VII. 14.) BM rendelet |
