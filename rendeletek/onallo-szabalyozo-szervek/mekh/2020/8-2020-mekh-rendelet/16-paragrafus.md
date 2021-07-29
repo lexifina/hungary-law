@@ -38,12 +38,18 @@ b) az alapszolgáltatásokhoz kapcsolódó adatforgalmon felül igényelt adatsz
 
 (4) A (2) bekezdés szerinti, nem szállítási szolgáltatások körébe tartozó szolgáltatások díját meghatározó módszertant a referenciaár-módszertan tartalmazza.
 
-(5) A külön díjak megállapítása során – a 3. § (3) bekezdéssel összhangban – a következő alapelveket is érvényesíteni kell:
+(5)[^11] A külön díjak megállapítása során – a 3. § (3) bekezdésével összhangban – a következő alapelveket is érvényesíteni kell:
 
 a) a rendszerüzemeltetőkkel szemben felmerülő, túlzott rendszerhasználói igények korlátozása,
 
-b) az egyedi rendszerhasználói igények kielégítése során felmerülő költségekkel arányos bevétel biztosítása, és
+b) az egyedi rendszerhasználói igények kielégítése során felmerülő költségekkel arányos bevétel biztosítása,
 
-c) a felhasználó szerződésszegéséből származó többletkiadások felhasználó által történő megtérítésének biztosítása.
+c) a felhasználó szerződésszegéséből származó többletkiadások felhasználó által történő megtérítésének biztosítása,
+
+d) csak a közbeszerzési jogszabályoknak vagy szabályzatoknak megfelelő árubeszerzés és szolgáltatás-megrendelés keretében vásárolt áruk és igénybe vett szolgáltatások elszámolásának figyelembevétele lehetséges, valamint
+
+e) csak azon igénybe vett szolgáltatások költségei vehetők figyelembe, amelyek megfelelnek a GET és a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet kiszervezésre vonatkozó szabályainak.
 
 (6) A külön díjak mértéke az árszabályozási cikluson belül – a rendszerhasználati díjakkal összehangoltan – módosítható.
+
+[^11]: A 16. § (5) bekezdése a 9/2021. (VII. 26.) MEKH rendelet 7. § (3) bekezdésével megállapított szöveg.
