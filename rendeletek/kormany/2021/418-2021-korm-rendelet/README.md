@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-418-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-07-15 | 2021-418-20-22.1 | 418/2021. (VII. 14.) Korm. rendelet |
+| 2021-07-29 | 2021-418-20-22.2 | 813/2021. (XII. 28.) Korm. rendelet |
