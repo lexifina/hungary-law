@@ -12,7 +12,7 @@ d) csökkentő tételként
 
 da) az állami adó- és vámhatóság által visszavett, feleslegessé vált vagy minőséghibás zárjegy darabszámát,
 
-db)[^115] a gyártás közben megsérült és tételes elszámolás mellett az állami adó- és vámhatóság felügyelete mellett megsemmisített és a 93/M. § (3) bekezdése szerint elszámolt zárjegy darabszámát,
+db)[^116] a gyártás közben megsérült és tételes elszámolás mellett az állami adó- és vámhatóság felügyelete mellett megsemmisített és a 93/M. § (3) bekezdése szerint elszámolt zárjegy darabszámát,
 
 dc) a zárjegy igénylőjének érdekkörén kívüli elháríthatatlan okból – ide nem értve a lopás esetét – használhatatlanná vált, megsemmisült zárjegy darabszámát, ha az biztonsággal megállapítható,
 
@@ -32,4 +32,4 @@ ed) más telephelyre kiszállított,
 
 f) az elszámolási időszakban keletkezett zárjegyhiányt.
 
-[^115]: A 93/L. § (2) bekezdés d) pont db) alpontja a 7/2020. (VII. 30.) PM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^116]: A 93/L. § (2) bekezdés d) pont db) alpontja a 7/2020. (VII. 30.) PM rendelet 12. § 4. pontja szerint módosított szöveg.

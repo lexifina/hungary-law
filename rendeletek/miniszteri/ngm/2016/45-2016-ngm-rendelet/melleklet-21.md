@@ -1,4 +1,4 @@
-21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^166]
+21. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^167]
 
 ## A zárjegyek leírása
 
@@ -164,4 +164,4 @@ legalább 70, legfeljebb 85µm vastag.
 
 6.6. Kiszerelési egység: 10 000 darabonként vagy 25 000 darabonként tekercsben, vagy 50 darabonként ívben és 200 ívenként dobozba csomagolva.
 
-[^166]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított, a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése, a 7/2020. (VII. 30.) PM rendelet 11. § d) pontja szerint módosított szöveg.
+[^167]: A 21. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (8) bekezdésével megállapított, a 47/2017. (XII. 27.) NGM rendelet 12. § (4) bekezdése, a 7/2020. (VII. 30.) PM rendelet 11. § d) pontja szerint módosított szöveg.

@@ -10,15 +10,15 @@ a) az állami adó- és vámhatósággal létesített közvetlen kapcsolati rend
 
 aa) a Jöt. 24. § szerinti adatszolgáltatás,
 
-ab)[^60] a Jöt. 62. § (1) bekezdés szerinti EKO adatainak,
+ab)[^61] a Jöt. 62. § (1) bekezdés szerinti EKO adatainak,
 
-ac)[^61] a Jöt. 64. § szerinti szállítólevél adatainak,
+ac)[^62] a Jöt. 64. § szerinti szállítólevél adatainak,
 
 ad) az uniós számítógépes rendszerben, adófelfüggesztési eljárás keretében végzett szállításnál alkalmazott elektronikus okmányok,
 
-ae)[^62] a Jöt. 72. § (3) bekezdése szerinti adatszolgáltatás,
+ae)[^63] a Jöt. 72. § (3) bekezdése szerinti adatszolgáltatás,
 
-af)[^63] az 58. § szerinti bizonylat
+af)[^64] az 58. § szerinti bizonylat
 
 ## megküldése,
 
@@ -28,7 +28,7 @@ ba) az a) pont alá tartozó, vagy
 
 bb) az elektronikusan intézhető, a) pont alá nem tartozó egyéb
 
-[^60]: A 43. § a) pont ab) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
-[^61]: A 43. § a) pont ac) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
-[^62]: A 43. § a) pont ae) alpontját a 47/2017. (XII. 27.) NGM rendelet 5. §-a iktatta be.
-[^63]: A 43. § a) pont af) alpontját a 7/2020. (VII. 30.) PM rendelet 4. §-a iktatta be.
+[^61]: A 43. § a) pont ab) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
+[^62]: A 43. § a) pont ac) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
+[^63]: A 43. § a) pont ae) alpontját a 47/2017. (XII. 27.) NGM rendelet 5. §-a iktatta be.
+[^64]: A 43. § a) pont af) alpontját a 7/2020. (VII. 30.) PM rendelet 4. §-a iktatta be.

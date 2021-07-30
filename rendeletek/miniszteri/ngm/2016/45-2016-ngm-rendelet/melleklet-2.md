@@ -1,4 +1,4 @@
-2. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^153]
+2. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^154]
 
 ## Felhasználói engedélyes által vezetett nyilvántartás adattartalma
 
@@ -108,4 +108,4 @@
 
 5.2. kiszerelt mennyiség (kiszerelési egységenként és darabszámban)
 
-[^153]: A 2. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^154]: A 2. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (2) bekezdésével megállapított szöveg.
