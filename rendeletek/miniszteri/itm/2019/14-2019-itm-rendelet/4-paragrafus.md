@@ -4,7 +4,7 @@
 
 ## 3. Az európai uniós támogatásoknak való megfelelés
 
-## 4. §[^15] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
+## 4. §[^17] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
 1. 3., 4., 6., 7., 8. és 10. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
@@ -58,4 +58,7 @@
 
 26. 6. sora alapján a 651/2014/EU bizottsági rendelet 36. cikke szerinti uniós környezetvédelmi szabvány túlteljesítését vagy a környezetvédelem szintjének emelését lehetővé tevő beruházási támogatás
 
-[^15]: A 4. § az 59/2020. (XII. 30.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
+27.[^18] 3., 4., 6., 7., 8., 10., 12. és 13. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, 2020/C 91 I/01. számú európai bizottsági közlemény szerinti átmeneti támogatás;
+
+[^17]: A 4. § az 59/2020. (XII. 30.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^18]: A 4. § 27. pontját a 37/2021. (VII. 29.) ITM rendelet 1. §-a iktatta be.

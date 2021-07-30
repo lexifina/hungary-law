@@ -1,6 +1,6 @@
 ## nyújtható.
 
-## 4/A. §[^16] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
+## 4/A. §[^19] Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében a 2. mellékletben foglalt táblázat
 
 1. 10., 11. és 13. sora alapján az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás;
 
@@ -58,10 +58,11 @@
 
 28. 11. sora alapján a mezőgazdasági és az erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatásnak megfelelően jóváhagyott SA.37599 sz. bizottsági határozat szerinti mezőgazdasági ágazatban megvalósuló technikai segítségnyújtáshoz nyújtott támogatás;
 
-29. 11. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, 2020/C 91 I/01. számú európai bizottsági közlemény szerinti átmeneti támogatás;
+29.[^20] 6., 10., 11. és 13. sora alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, 2020/C 91 I/01. számú európai bizottsági közlemény szerinti átmeneti támogatás;
 
 30. 11. sora alapján a 702/2014/EU bizottsági rendelet 14. cikke szerinti, az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás;
 
 31. 11. sora alapján az 1388/2014/EU bizottsági rendelet 42. cikke szerinti halászati és akvakultúra-termékek feldolgozásához nyújtott támogatás
 
-[^16]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be.
+[^19]: A 4/A. §-t az 59/2020. (XII. 30.) ITM rendelet 4. §-a iktatta be.
+[^20]: A 4/A. § 29. pontja a 37/2021. (VII. 29.) ITM rendelet 7. § 3. pontja szerint módosított szöveg.
