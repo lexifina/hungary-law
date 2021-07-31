@@ -1,6 +1,5 @@
-## 61. §[^38]
+## is alkalmazni kell.
 
-1. melléklet a 9/2018. (X. 19.) PM rendelethez[^39]
+1. melléklet a 9/2018. (X. 19.) PM rendelethez[^72]
 
-[^38]: A 61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^39]: Az 1. melléklet a 24/2020. (XII. 30.) PM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^72]: Az 1. melléklet a 24/2020. (XII. 30.) PM rendelet 6. § (1) bekezdésével megállapított, a 8/2021. (VII. 30.) PM rendelet 7. § l) pontja szerint módosított szöveg.

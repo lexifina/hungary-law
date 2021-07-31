@@ -1,4 +1,4 @@
-## 7/A. [^27] A regionális városfejlesztési támogatás
+## 7/A. [^48] A regionális városfejlesztési támogatás
 
 20/A. § (1) A regionális városfejlesztési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) olyan, az Atr. 25. § (1) bekezdése szerinti területeket érintő városfejlesztési projektek esetén nyújtható, amelyek a város integrált településfejlesztési stratégiájának végrehajtását szolgálják.
 
@@ -22,4 +22,4 @@
 
 (11) Az elszámolható költség a városfejlesztési projekt teljes költsége, ha az összhangban áll az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet 37. és 65. cikkének rendelkezéseivel.
 
-[^27]: A 7/A. alcímet (20/A–20/B. §) a 11/2019. (IX. 4.) PM rendelet 5. §-a iktatta be.
+[^48]: A 7/A. alcímet (20/A–20/B. §) a 11/2019. (IX. 4.) PM rendelet 5. §-a iktatta be.

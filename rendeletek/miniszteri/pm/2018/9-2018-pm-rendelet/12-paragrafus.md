@@ -1,3 +1,3 @@
-## 6.[^25]
+## 6.[^46]
 
-[^25]: A 6. alcímet (12. §) a 24/2020. (XII. 30.) PM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^46]: A 6. alcímet (12. §) a 24/2020. (XII. 30.) PM rendelet 8. § c) pontja hatályon kívül helyezte.
