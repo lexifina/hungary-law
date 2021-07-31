@@ -1,0 +1,4 @@
+## 65. §[^180] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 436/2021. (VII. 16.) Korm. rendelettel (a továbbiakban: Módr57.) megállapított 6/R. §-át, módosított 3. § (4) bekezdését, 4. § (1) és (2) bekezdését, 2. mellékletét és 5. mellékletét a Módr57. hatálybalépésekor[^181] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^180]: A 65. §-t a 436/2021. (VII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^181]: A hatálybalépés időpontja 2021. július 17.

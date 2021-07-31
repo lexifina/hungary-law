@@ -154,6 +154,8 @@
 
 | 70. | Gyáregység létrehozására irányuló beruházás Pécs területén | Pécs közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0212/141, 0212/142, 0212/143, 0212/146, 0212/147, 0212/151, 0212/152, 0212/153, 0219/8, 01455/88, 01455/89, 01457/1 helyrajzi számú ingatlanokon | Baranya Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^184]
+| 71. | Ipari-innovációs fejlesztési terület kialakítása Göd város területén | Göd külterület 084/20, 084/21, 084/22, 084/23, 084/24, 084/25, 084/26, 084/27, 084/28, 084/32, 084/33, 084/34, 084/35, 084/36, 084/37, 084/38, 084/39, 084/40, 084/41, 084/42, 084/43, 084/44, 084/45, 084/46, 084/47, 084/48, 084/49, 084/50, 084/51, 084/52, 084/53, 084/68, 084/69, 084/72, 084/70, 084/71, 062/11, 062/12, 062/13, 062/14, 062/15, 062/17, 062/18, 062/50 helyrajzi számú ingatlanok. | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^184]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^186]
+
+[^186]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
