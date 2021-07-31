@@ -1,4 +1,4 @@
-## való megfelelést szolgálja.
+## 5. §[^1] Ez a rendelet a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődés figyelembevétele céljából történő módosításáról szóló, 2020. október 2-i (EU) 2020/1833 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
 
 1. melléklet a 26/2017. (VII. 5.) NFM rendelethez
 
@@ -8,9 +8,7 @@
 
 2. Az ADN Szabályzat 1.3.2 szakasz szerinti oktatásokat a veszélyes áruk belvízi szállítására vonatkozó, érvényes bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadó tarthatja.
 
-3.[^2] Az ADN Szabályzat 1.3.2.4 bekezdését a következő kiegészítéssel kell alkalmazni:
-
-## „A következő ismeretfelújító oktatást legalább az előző oktatást követő két éven belül meg kell tartani. Ezenkívül az ADN Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén a balesetben vagy annak okozásában érintett munkavállalók részére 30 napon belül soron kívüli oktatást kell tartani.”
+3.[^2] Az ADN Szabályzat 1.3.2.4 bekezdésének alkalmazása során a képzést ismeretfelújító oktatás keretében rendszeresen ki kell egészíteni az előírásokban történt változásokkal. Az ismeretfelújító oktatást legkésőbb az előző oktatást követő második év végéig meg kell tartani. Az ADN Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén a balesetben vagy annak okozásában érintett munkavállalók részére 30 napon belül soron kívüli oktatást kell tartani.
 
 4. Az ADN Szabályzat 1.3.2 szakaszát a következő 1.3.2.5 bekezdéssel kiegészítve kell alkalmazni:
 
@@ -70,13 +68,18 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 
 ## g)[^3] a hajózási hatóságnál nyilvántartott és iktatott kérelmen feltüntetett adatokon kívül a szállítás befejezésekor (kirakó kikötőbe történt megérkezés vagy az ország területének elhagyása), illetve nemzetközi szerződés szerinti adattovábbítás megtörténte után a veszélyes árut szállító hajók bejelentett adatai közül a hajót és a vezetőjét azonosító adatokat (név, tulajdonos, lajstromszám) törölni kell minden más nyilvántartásból, a többi adatot statisztikai célokra felhasználásra havonta az Innovációs és Technológiai Minisztériumnak kell átadni.”
 
-10.[^4] Az ADN Szabályzat 8.2.2.7.3.1 pontjának rendelkezéseit a következő kiegészítéssel kell alkalmazni:
+10.[^4] Az ADN Szabályzat 8.2.2.7.0 pont rendelkezéseinek alkalmazása során a tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani. Ebben az esetben nincs szükség a Szabályzat által előírt írásos kijelölésre és a vizsgáztató szervezet tekintetében a leírt kritériumrendszer vizsgálatára.
 
-## „A tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani.”
+10a.[^5] Az ADN Szabályzat 8.2.2.7.3.1 pont rendelkezéseinek alkalmazása során az ismeretfelújító tesztvizsgát a vizsgaközpont által delegált vizsgabizottság előtt kell megtartani.
 
-11.[^5] Az ADN Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben, és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
+11.[^6] Az ADN Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben, és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek. A sugárvédelmi program alkalmazásához az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatköréről, az Országos Atomenergia Hivatal hatósági eljárásaiban közreműködő szakhatóságok kijelöléséről, a kiszabható bírság mértékéről, valamint az Országos Atomenergia Hivatal munkáját segítő tudományos tanácsról szóló 112/2011. (VII. 4.) Korm. rendelet szerinti engedély szükséges.
 
-[^2]: Az 1. melléklet 3. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
+12.[^7] Az ADN Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
+
+[^1]: Az 5. § a 38/2021. (VII. 30.) ITM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet 3. pontja a 38/2021. (VII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
 [^3]: Az 1. melléklet 9. pont (4) bekezdés g) pontja a 20/2019. (VIII. 1.) ITM rendelet 6. § szerint módosított szöveg.
-[^4]: Az 1. melléklet 10. pont a 15/2021. (IV. 9.) ITM rendelet 50. §-a szerint módosított szöveg.
-[^5]: Az 1. melléklet 11. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 10. pontja a 38/2021. (VII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 10a. pontját a 38/2021. (VII. 30.) ITM rendelet 4. §-a iktatta be.
+[^6]: Az 1. melléklet 11. pontja a 20/2019. (VIII. 1.) ITM rendelet 6. §-ával megállapított szöveg.
+[^7]: Az 1. melléklet 12. pontját a 38/2021. (VII. 30.) ITM rendelet 4. §-a iktatta be.
