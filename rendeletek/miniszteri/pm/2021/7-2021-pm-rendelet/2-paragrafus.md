@@ -1,3 +1,3 @@
-## 1. § A jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet (a továbbiakban: 45/2016. NGM rendelet) 36. §-a a következő (2c) bekezdéssel egészül ki:
+## 1. §[^1]
 
-## „(2c) Nem kell tartalmaznia az (1) bekezdés szerinti bizonylatnak az (1) bekezdés d) pontja szerinti azon adatokat, amelyeket az adóraktár engedélyese a Jöt. 9. § (1) bekezdés n) pontja szerinti jövedéki termék kiszolgálása során nem ismer, ha az e bekezdés szerinti tevékenységre történő utalást az (1) bekezdés c) pont cc) alpontja szerinti adat egyértelműen tartalmazza.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
