@@ -1,4 +1,4 @@
-## való megfelelést szolgálja.
+## 4. §[^4] Ez a rendelet a veszélyes áruk szárazföldi szállításáról szóló 2008/68/EK európai parlamenti és tanácsi irányelv mellékleteinek a tudományos és műszaki fejlődés figyelembevétele céljából történő módosításáról szóló, 2020. október 2-i (EU) 2020/1833 felhatalmazáson alapuló bizottsági irányelvnek való megfelelést szolgálja.
 
 1. melléklet a 62/2013. (X. 17.) NFM rendelethez
 
@@ -12,9 +12,7 @@ A RID Szabályzat előírásait a veszélyes áruk belföldi vasúti fuvarozás�
 
 2. A RID Szabályzat 1.3.2 szakasza szerinti oktatásokat a veszélyes áruk vasúti szállítására vonatkozó, hatályos bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadó tarthatja.
 
-3.[^6] A RID Szabályzat 1.3.2.4 bekezdését a következő kiegészítéssel kell alkalmazni:
-
-## „A következő ismeretfelújító oktatást legalább az előző oktatást követő két éven belül meg kell tartani. Ezenkívül az RID Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén a balesetben vagy annak okozásában érintett munkavállalók részére 30 napon belül soron kívüli oktatást kell tartani.”
+3.[^6] A RID Szabályzat 1.3.2.4 bekezdésének alkalmazása során a képzést ismeretfelújító oktatás keretében rendszeresen ki kell egészíteni az előírásokban történt változásokkal. Az ismeretfelújító oktatást legkésőbb az előző oktatást követő második év végéig meg kell tartani. A RID Szabályzat 1.8.5.3 bekezdésében meghatározott kritériumokat kielégítő baleset vagy káresemény bekövetkezése esetén a balesetben vagy annak okozásában érintett munkavállalók részére 30 napon belül soron kívüli oktatást kell tartani.
 
 3a.[^7] A RID Szabályzat 1.3.2 szakaszát a következő 1.3.2.5 bekezdéssel kiegészítve kell alkalmazni:
 
@@ -48,11 +46,15 @@ Az oktatásra vonatkozó iratokat a munkáltatónak öt évig, de legalább a mu
 
 8.[^12] A RID Szabályzat 1.7.2 szakasza szerinti sugárvédelmi programnak meg kell felelnie a radioaktív anyagok szállításáról, fuvarozásáról és csomagolásáról szóló 51/2013. (IX. 6.) NFM rendeletben és az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendeletben foglalt követelményeknek.
 
+9.[^13] A RID Szabályzat 1.10.3.2 bekezdése szerinti közbiztonsági tervnek a 7 osztályba tartozó anyagok szállítása esetén meg kell felelnie az atomenergia alkalmazása körében a fizikai védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 190/2011. (IX. 19.) Korm. rendeletben (a továbbiakban: Fvr.) foglalt követelményeknek, és a szállításhoz az Fvr. 32. § (1) bekezdés c) pontja szerinti engedély szükséges.
+
+[^4]: A 4. § a 38/2021. (VII. 30.) ITM rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. melléklet 1a. pontját a 20/2019. (VIII. 1.) ITM rendelet 4. §-a iktatta be.
-[^6]: Az 1. melléklet 3. pontja a 20/2019. (VIII. 1.) ITM rendelet 4. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 3. pontja a 38/2021. (VII. 30.) ITM rendelet 2. §-ával megállapított szöveg.
 [^7]: Az 1. melléklet 3a. pontját a 28/2017. (VII. 5.) NFM rendelet 3. §-a iktatta be.
 [^8]: Az 1. melléklet 4. pontja a 28/2017. (VII. 5.) NFM rendelet 3. §-ával megállapított szöveg.
 [^9]: Az 1. melléklet 5a. pontját az 53/2015. (IX. 18.) NFM rendelet 3. §-a iktatta be.
 [^10]: Az 1. melléklet 6. pontja az 53/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
 [^11]: Az 1. melléklet 7. pontja az 53/2015. (IX. 18.) NFM rendelet 3. §-ával megállapított szöveg.
 [^12]: Az 1. melléklet 8. pontját a 20/2019. (VIII. 1.) ITM rendelet 4. §-a iktatta be.
+[^13]: Az 1. melléklet 9. pontját a 38/2021. (VII. 30.) ITM rendelet 2. §-a iktatta be.
