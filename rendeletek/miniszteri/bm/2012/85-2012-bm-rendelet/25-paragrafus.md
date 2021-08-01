@@ -1,6 +1,6 @@
-## 9. [^45] Lakhatási támogatás
+## 9. [^46] Lakhatási támogatás
 
-25. § (1)[^46] Ezen alcím alkalmazásában:
+25. § (1)[^47] Ezen alcím alkalmazásában:
 
 1. akadálymentesítés: az Szja.tv.-ben ekként meghatározott fogalom,
 
@@ -28,15 +28,15 @@ c) négy személyt meghaladó esetben minden további személy esetében egy lak
 
 10. tiszta vételár: a lakás vételárának, tulajdonjogot keletkeztető lakáscsere esetén a lakások értékkülönbözetének – a készpénzben megjelenő lakásépítési kedvezménnyel, a vissza nem térítendő önkormányzati támogatással, a hivatásos állomány tagja vagy a vele együtt költöző, együtt lakó családtag által bérelt lakás bérletének megszüntetéséért kapott pénzbeli térítéssel, valamint az e személyek tulajdonát képező, öt éven belül értékesített lakás elidegenítéséből származó bevétellel csökkentett – összege.
 
-(1a)[^47] Az (1) bekezdés 7. pontja alkalmazásában nem minősül lakószobának az a lakóhelyiség, amelynek hasznos alapterülete nem haladja meg a 8 négyzetmétert. A lakószoba – a meglévő, kialakult állapotot kivéve – legfeljebb 30 négyzetméter alapterületű, legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel rendelkező lakóhelyiség. A 30 négyzetméternél nagyobb lakóhelyiséget két lakószobaként kell számításba venni. Ha a nappali szoba, az étkező és a konyha osztatlan közös térben van, és hasznos alapterületük együttesen meghaladja a 60 négyzetmétert, úgy két lakószobaként kell figyelembe venni. A 8 négyzetméternél nagyobb, de 12 négyzetmétert meg nem haladó lakóhelyiségek esetében két ilyen lakóhelyiséget egy lakószobaként kell figyelembe venni, azzal, hogy ha az így kapott szobaszám nem egész szám, a szobaszámot lefelé kerekítve kell megállapítani.
+(1a)[^48] Az (1) bekezdés 7. pontja alkalmazásában nem minősül lakószobának az a lakóhelyiség, amelynek hasznos alapterülete nem haladja meg a 8 négyzetmétert. A lakószoba – a meglévő, kialakult állapotot kivéve – legfeljebb 30 négyzetméter alapterületű, legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel rendelkező lakóhelyiség. A 30 négyzetméternél nagyobb lakóhelyiséget két lakószobaként kell számításba venni. Ha a nappali szoba, az étkező és a konyha osztatlan közös térben van, és hasznos alapterületük együttesen meghaladja a 60 négyzetmétert, úgy két lakószobaként kell figyelembe venni. A 8 négyzetméternél nagyobb, de 12 négyzetmétert meg nem haladó lakóhelyiségek esetében két ilyen lakóhelyiséget egy lakószobaként kell figyelembe venni, azzal, hogy ha az így kapott szobaszám nem egész szám, a szobaszámot lefelé kerekítve kell megállapítani.
 
-(1b)[^48] Ezen alcím alkalmazásában együtt költöző, együtt lakó családtagként kell figyelembe venni
+(1b)[^49] Ezen alcím alkalmazásában együtt költöző, együtt lakó családtagként kell figyelembe venni
 
 a) a hivatásos állomány lakáscélú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) igénylő tagját, valamint
 
 b) jövedelemtől és életkortól függetlenül a hivatásos állomány tagjának a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti közeli hozzátartozóját, házastársának közeli hozzátartozóját, élettársát és annak közeli hozzátartozóját, feltéve, hogy a munkáltatói kölcsönnel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak.
 
-(1c)[^49] Ezen alcím alkalmazásában együtt költöző, együtt lakó családtagként a méltányolható lakásigény meghatározásánál – ha a munkáltatói kölcsön igénylésekor a házastársak egyike sem töltötte be a 40. életévét (a továbbiakban: fiatal házaspár) – figyelembe lehet venni
+(1c)[^50] Ezen alcím alkalmazásában együtt költöző, együtt lakó családtagként a méltányolható lakásigény meghatározásánál – ha a munkáltatói kölcsön igénylésekor a házastársak egyike sem töltötte be a 40. életévét (a továbbiakban: fiatal házaspár) – figyelembe lehet venni
 
 a) gyermektelen fiatal házaspár esetén legfeljebb három születendő gyermeket,
 
@@ -44,18 +44,18 @@ b) egy gyermekes fiatal házaspár esetén további két születendő gyermeket,
 
 c) két gyermekes fiatal házaspár esetén további egy születendő gyermeket.
 
-(2)[^50] Ezen alcím alkalmazásában saját lakáshelyzetét az rendezi, akinek
+(2)[^51] Ezen alcím alkalmazásában saját lakáshelyzetét az rendezi, akinek
 
 a) a vásárolni, építeni, cserélni tervezett lakás – haszonélvezeti jogtól mentes – kizárólagos tulajdonába vagy a vele együtt költöző, együtt lakó családtagjának közös tulajdonába kerül, vagy
 
 b) a bővíteni, korszerűsíteni, akadálymentesíteni tervezett lakás – haszonélvezeti jogtól mentes – kizárólagos tulajdonában vagy a vele együtt költöző, együtt lakó családtagjának közös tulajdonában van.
 
-(3)[^51] Ezen alcím alkalmazásában a lakástulajdonnal egy tekintet alá esik a hivatásos állomány tagja, vagy a vele együtt költöző, együtt lakó családtagja által gazdasági társaság tagjaként a társaság részére vagyoni hozzájárulásként rendelkezésre bocsátott lakás, valamint az építési és használatbavételi, fennmaradási engedélyben meghatározott céltól vagy a rendeltetésétől tartósan eltérő célra használható lakás.
+(3)[^52] Ezen alcím alkalmazásában a lakástulajdonnal egy tekintet alá esik a hivatásos állomány tagja, vagy a vele együtt költöző, együtt lakó családtagja által gazdasági társaság tagjaként a társaság részére vagyoni hozzájárulásként rendelkezésre bocsátott lakás, valamint az építési és használatbavételi, fennmaradási engedélyben meghatározott céltól vagy a rendeltetésétől tartósan eltérő célra használható lakás.
 
-[^45]: A 9. alcím (25–57. §) a 47/2016. (XI. 23.) BM rendelet 13. §-ával megállapított szöveg.
-[^46]: A 25. § (1) bekezdése a 46/2019. (XII. 18.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^47]: A 25. § (1a) bekezdését a 46/2019. (XII. 18.) BM rendelet 16. § (2) bekezdése iktatta be.
-[^48]: A 25. § (1b) bekezdését a 46/2019. (XII. 18.) BM rendelet 16. § (2) bekezdése iktatta be.
-[^49]: A 25. § (1c) bekezdését a 46/2019. (XII. 18.) BM rendelet 16. § (2) bekezdése iktatta be.
-[^50]: A 25. § (2) bekezdése a 46/2019. (XII. 18.) BM rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^51]: A 25. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 64. § c) pontja szerint módosított szöveg.
+[^46]: A 9. alcím (25–57. §) a 47/2016. (XI. 23.) BM rendelet 13. §-ával megállapított szöveg.
+[^47]: A 25. § (1) bekezdése a 46/2019. (XII. 18.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^48]: A 25. § (1a) bekezdését a 46/2019. (XII. 18.) BM rendelet 16. § (2) bekezdése iktatta be.
+[^49]: A 25. § (1b) bekezdését a 46/2019. (XII. 18.) BM rendelet 16. § (2) bekezdése iktatta be.
+[^50]: A 25. § (1c) bekezdését a 46/2019. (XII. 18.) BM rendelet 16. § (2) bekezdése iktatta be.
+[^51]: A 25. § (2) bekezdése a 46/2019. (XII. 18.) BM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^52]: A 25. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 64. § c) pontja szerint módosított szöveg.

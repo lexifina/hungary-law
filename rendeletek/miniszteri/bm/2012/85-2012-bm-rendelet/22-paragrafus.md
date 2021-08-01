@@ -1,4 +1,4 @@
-## 21. §[^28] A hivatásos állomány tagja részére a munkába járáshoz helyi közlekedési bérlet csak a Hszt. 176. §-ában meghatározott választható juttatások rendszerében biztosítható.
+## 21. §[^29] A hivatásos állomány tagja részére a munkába járáshoz helyi közlekedési bérlet csak a Hszt. 176. §-ában meghatározott választható juttatások rendszerében biztosítható.
 
 ## 8. Kedvezmények és támogatások
 
@@ -16,7 +16,7 @@ c) akinek illetményét – a fennálló tartozásai miatt – további levonás
 
 (4) A támogatás a szolgálati viszony fennállása alatt egy alkalommal – házastársak és élettársak esetében csak az egyik fél részére – engedélyezhető.
 
-(5)[^29] A támogatás legfeljebb négy éves futamidőre adható, felső határa nem haladhatja meg a központi költségvetésről szóló törvény szerinti rendvédelmi illetményalap (a továbbiakban: illetményalap) összegének tizenötszörösét.
+(5)[^30] A támogatás legfeljebb négy éves futamidőre adható, felső határa nem haladhatja meg a központi költségvetésről szóló törvény szerinti rendvédelmi illetményalap (a továbbiakban: illetményalap) összegének tizenötszörösét.
 
 (6) Ha a hivatásos állomány tagjának szolgálati viszonya a törlesztés ideje alatt önhibájából szűnik meg, a vissza nem fizetett támogatás a szolgálati viszony megszűnésének napján egy összegben esedékessé válik.
 
@@ -24,5 +24,5 @@ c) akinek illetményét – a fennálló tartozásai miatt – további levonás
 
 (8) Az Országgyűlési Őrség parancsnoka kivételesen, rendkívüli méltánylást érdemlő esetben engedélyezheti a tartozás törlését.
 
-[^28]: A 21. § a 35/2015. (VI. 16.) BM rendelet 8. § d) pontja szerint módosított szöveg.
-[^29]: A 22. § (5) bekezdése a 49/2013. (VIII. 27.) BM rendelet 5. § a) pontja, a 36/2015. (VI. 16.) BM rendelet 30. § (1) bekezdése szerint módosított szöveg.
+[^29]: A 21. § a 35/2015. (VI. 16.) BM rendelet 8. § d) pontja szerint módosított szöveg.
+[^30]: A 22. § (5) bekezdése a 49/2013. (VIII. 27.) BM rendelet 5. § a) pontja, a 36/2015. (VI. 16.) BM rendelet 30. § (1) bekezdése szerint módosított szöveg.
