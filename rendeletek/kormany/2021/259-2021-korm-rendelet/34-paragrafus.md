@@ -1,3 +1,3 @@
-## 33. §[^23]
+## 33. §[^20]
 
-[^23]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

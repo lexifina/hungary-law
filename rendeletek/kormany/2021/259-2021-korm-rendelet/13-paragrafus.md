@@ -1,1 +1,3 @@
-## 12. §
+## 12. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 97. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének kiadására, illetve visszavonására irányuló eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát – elsőfokon az Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot, másodfokon a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert szakhatóságként jelöli ki.”

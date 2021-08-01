@@ -1,3 +1,1 @@
-## 1.[^1]
-
-[^1]: Az 1. alcím (1–3. §) az 50. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+## 1. A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet módosítása
