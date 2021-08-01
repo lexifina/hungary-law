@@ -1,1 +1,0 @@
-A Kormány visszavonja az egyes központi államigazgatási szervek hiteles elektronikus dokumentumainak központi tárhelyszolgáltatás igénybevételével történő megőrzéséről szóló 1631/2020. (X. 5.) Korm. határozatot.
