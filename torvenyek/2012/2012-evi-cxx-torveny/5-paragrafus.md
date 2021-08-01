@@ -12,6 +12,8 @@ c) akit a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a tová
 
 d) aki az e törvény hatálya alá tartozó foglalkozástól eltiltás hatálya alatt áll.
 
+e) aki a b) vagy c) pontban meghatározott bűncselekmény miatt büntetőeljárás hatálya alatt áll.
+
 (3) Nem lehet az (1) bekezdésben meghatározott személy, akivel szemben a (2) bekezdés b) vagy c) pontjában meghatározott
 
 a) szándékos bűncselekmény miatt végrehajtandó szabadságvesztést szabtak ki,
@@ -30,4 +32,4 @@ cb) pénzbüntetést szabtak ki, a mentesítés beálltától számított egy é
 
 (4) A rendészeti feladatokat ellátó személy köteles az (1)–(3) bekezdésben meghatározott kizáró okot a munkáltató részére haladéktalanul bejelenteni.
 
-(5) Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) – az elkövetett bűncselekmény jellege, az elkövetett bűncselekmény és a jogviszony közötti összefüggés, valamint a munkáltató javaslata alapján kialakított – egyetértésével a (3) bekezdésben meghatározott kizáró okoktól a munkáltató eltekinthet, amely alapján az érintett személy foglalkoztatható.
+(5) Az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: rendőrség) – az elkövetett bűncselekmény jellege, az elkövetett bűncselekmény és a jogviszony közötti összefüggés, valamint a munkáltató javaslata alapján kialakított – egyetértésével a (2) bekezdés e) pontjában és a (3) bekezdésben meghatározott kizáró okoktól a munkáltató eltekinthet, amely alapján az érintett személy foglalkoztatható.

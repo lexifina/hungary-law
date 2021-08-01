@@ -38,6 +38,8 @@ g) az 1. § (1) bekezdés l) pontjában meghatározottak esetében a mezőgazdas
 
 az általa vezetett nyilvántartásból közvetlenül közli a központi szervvel.
 
+(3a) A szolgálati igazolvány és a szolgálati jelvény kiadására irányuló eljárás lefolytatására illetékes rendőri szerv a szolgálati igazolvány és a szolgálati jelvény kiadásáról a kiadást követő 8 napon belül értesíti a (3) bekezdés szerinti érintett hatóságot.
+
 (4) A (3) bekezdés szerinti adatszolgáltató a nyilvántartásában beállt változásról haladéktalanul értesíti a központi szervet.
 
 (5) A központi szerv a (2) bekezdésben meghatározott adatokat a szolgálati igazolvány visszavonását követő 3 hónapig kezeli a nyilvántartásban.

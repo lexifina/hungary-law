@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-120-00-00
 | 2020-01-01 | 2019. évi CIX. törvény | 2012-120-00-00.17 |
 | 2020-07-01 | 2020. évi XXXI. törvény | 2012-120-00-00.18 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2012-120-00-00.19 |
+| 2021-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-120-00-00.20 |

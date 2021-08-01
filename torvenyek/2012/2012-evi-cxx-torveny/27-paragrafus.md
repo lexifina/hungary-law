@@ -9,3 +9,5 @@
 (4) Az e törvény hatálybalépésekor a rendészeti feladatokat ellátó személy által használt szolgálati igazolvány és jelvény visszavonásig, de legkésőbb 2013. május 1-ig érvényes.
 
 (5) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 91. §-a szerinti módosítása hatálybalépését követően rendészeti feladatokat el nem látó erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet esetében az e törvény 8. § (2) bekezdését és (3) bekezdés a) pontját kell megfelelően alkalmazni.
+
+(6) A rendészeti feladatokat ellátó erdészeti szakszemélyzet és a rendészeti feladatokat ellátó jogosult erdészeti szakszemélyzet részére az erdészeti hatóság által kezdeményezett eljárás során az e bekezdés hatálybalépéséig kiadott szolgálati igazolványok és szolgálati jelvények e bekezdés hatálybalépésétől számított 8 hónapig érvényesek.
