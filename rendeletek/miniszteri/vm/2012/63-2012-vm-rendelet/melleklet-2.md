@@ -1,6 +1,8 @@
+## 1X06623M_0
+
 | 1. | BORÁSZATI DÍJTÉTELEK |  |
 
-| 1.1. | A forgalomba hozatali engedély kiadásának és az ahhoz kapcsolódó analitikai vizsgálatok díja az alábbi borászati termékek esetében: - bor - likőrbor - pezsgő - minőségi pezsgő - illatos minőségi pezsgő - szén-dioxid hozzáadásával készült habzóbor - gyöngyözőbor - szén-dioxid hozzáadásával készült gyöngyözőbor - szárított szőlőből készült bor - túlérett szőlőből készült bor - borecet | A forgalomba hozni kívánt tétel a) első 50 hektoliteréig 7500 b) 51-500. hektoliterére hektoliterenként további 120 c) 500. hektoliterétől további 26 100 |
+| 1.1. | A forgalomba hozatalhoz kapcsolódó analitikai vizsgálatok díja az alábbi borászati termékek esetében: - bor - likőrbor - pezsgő - minőségi pezsgő - illatos minőségi pezsgő - szén-dioxid hozzáadásával készült habzóbor - gyöngyözőbor - szén-dioxid hozzáadásával készült gyöngyözőbor - szárított szőlőből készült bor - túlérett szőlőből készült bor - borecet | A forgalomba hozni kívánt tétel a) első 50 hektoliteréig 7500 b) 51-500. hektoliterére hektoliterenként további 120 c) 500. hektoliterétől további 26 100 |
 
 | 1.2 | Érzékszervi vizsgálat | 3 000 |
 
@@ -405,6 +407,8 @@
 | 8.1.3.2. | Monográfia felülvizsgálat egy szakterületre | 300 000 |
 
 | 8.1.3.3. | Értékelés szakterületenként | 2 000 000 |
+
+## 1X06623M_3
 
 | 8.2. | Növényvédő szerek nemzeti engedélyezése |  |
 
@@ -2473,6 +2477,8 @@
 | 18.3.3.4.4. | Kötegelt fás oltványok forgalmazás előtti minőségvizsgálata oltvány db-onként | 1 |
 
 | 18.3.3.4.4.1. | Alapdíj esetenként | 8 500 |
+
+## 1X06623M_24
 
 | 18.3.3.5. | Kitermesztés díjtételei: (Fajtaazonosság vagy rejtett minőséghiba vizsgálata hatósági mintavétel vagy megrendelés alapján, kitermesztéssel) |  |
 
