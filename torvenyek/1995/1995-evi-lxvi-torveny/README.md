@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-66-00-00
 | 2018-12-26 | 2018. évi CVI. törvény | 1995-66-00-00.43 |
 | 2020-01-01 | 2019. évi CV. törvény | 1995-66-00-00.44 |
 | 2020-07-01 | 2020. évi XXXII. törvény | 1995-66-00-00.45 |
+| 2021-08-01 | 2021. évi LVII. törvény | 1995-66-00-00.46 |

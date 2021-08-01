@@ -1,8 +1,8 @@
 ## Az iratkezelési szabályzatok kiadása
 
-10. § (1) Egyedi iratkezelési szabályzatot ad ki:
+10. § (1) Az e törvényben meghatározott kivételekkel egyedi iratkezelési szabályzatot ad ki:
 
-a) a közfeladatot ellátó szerv – e törvényben foglalt kivételekkel – az illetékes közlevéltárral egyetértésben,
+a) a közfeladatot ellátó szerv az illetékes közlevéltárral egyetértésben,
 
 b) a központi államigazgatási szerv a Magyar Nemzeti Levéltárral, az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
 
@@ -16,11 +16,13 @@ b) az Országos Bírósági Hivatal elnöke a bíróságok, a legfőbb ügyész 
 
 c) az igazságügyért felelős miniszter a közjegyzők és bírósági végrehajtók, valamint ezek kamarái, továbbá az igazságügyi szakértői tevékenység végzésére feljogosított természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek tekintetében a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben.
 
+(2a) A jogszabály-előkészítésnek a jogszabály-előkészítési munkafolyamatot támogató szoftveren keresztül történő megvalósítása tekintetében az iratkezelési szabályzat tartalmát a jogszabály-előkészítési munkafolyamatot támogató szoftver felhasználója által az abban létrehozott irattal kapcsolatos iratkezelésre kiterjedően a Kormány rendeletben határozza meg.
+
 (3) A 10. § (1) bekezdés b) pontja és a 10. § (2) bekezdésének a) pontja szerinti iratkezelési szabályzatokat a szakmai irányítást ellátó miniszter vagy a központi államigazgatási szerv vezetője egységes iratkezelési szabályzatban is kiadhatja.
 
 (4) A szakmai irányítást ellátó miniszter az állami és helyi önkormányzati intézmények meghatározott csoportja részére a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben egységes iratkezelési szabályzatot vagy egyedi iratkezelési szabályzatuk mellékletét képező egységes irattári tervet ad ki.
 
-(5) Az önkormányzati hivatal számára a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
+(5) Az önkormányzati hivatal számára – a (2a) bekezdésben meghatározott kivétellel – a helyi önkormányzatokért felelős miniszter a köziratok kezelésének szakmai irányításáért felelős miniszterrel és a kultúráért felelős miniszterrel egyetértésben egységes irattári tervet ad ki.
 
 (6) Az önkormányzati társulás a társulási megállapodásban foglalt esetben rendelkezik az iratkezelés szabályozásáról.
 

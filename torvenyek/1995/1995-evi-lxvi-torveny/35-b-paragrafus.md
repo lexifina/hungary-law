@@ -15,3 +15,5 @@ e) a kijelölt tanúsító szervezetek kijelölést követő ellenőrzésének s
 f) a kijelölés felfüggesztésének, megszűnésének eseteit
 
 rendeletben állapítsa meg.
+
+(3) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a jogszabály-előkészítési munkafolyamatot támogató szoftverként a köziratok e törvényben meghatározott kezelésének és védelmének követelményeit megvalósító szoftvert és az annak felhasználója által az abban létrehozott irattal kapcsolatos iratkezelésre kiterjedően az iratkezelés követelményeit és az iratkezelési szabályzat tartalmát.
