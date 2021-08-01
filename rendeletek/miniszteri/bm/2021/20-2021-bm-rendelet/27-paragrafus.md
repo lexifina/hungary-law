@@ -1,3 +1,3 @@
-## 26. §[^34]
+## 26. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet 7. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^34]: A 26. § a 34. § (3) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+## „(2a) A hivatásos állománynak a Hszt. 77. § (1) bekezdés h) pontja szerint rendelkezési állományba helyezett tagja a rendelkezési állományba helyezés idejére 50%-os mértékű hivatásos pótlékra jogosult.”

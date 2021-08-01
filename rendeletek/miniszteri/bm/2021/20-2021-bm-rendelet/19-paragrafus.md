@@ -1,6 +1,5 @@
-## 18. §[^18]
+## 18. §[^17]
 
-## 13.[^19]
+## 13. A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet módosítása
 
-[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 13. alcím (19–21. §) a 34. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+[^17]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

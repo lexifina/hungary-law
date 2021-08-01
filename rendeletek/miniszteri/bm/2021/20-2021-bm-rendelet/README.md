@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-20-20-0
 | --- | --- | --- |
 | 2021-07-17 | 2021-20-20-0A.1 | 20/2021. (VII. 14.) BM rendelet |
 | 2021-07-18 | 2021-20-20-0A.2 | 2010: CXXX. törvény |
+| 2021-08-01 | 2021-20-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
