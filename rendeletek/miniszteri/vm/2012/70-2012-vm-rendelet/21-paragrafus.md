@@ -1,4 +1,4 @@
-21. §[^55] (1) A támogatási kérelmet részben el kell utasítani, vagy a kifizetett támogatási összeget részben vissza kell fizetni, ha:
+21. §[^63] (1) A támogatási kérelmet részben el kell utasítani, vagy a kifizetett támogatási összeget részben vissza kell fizetni, ha:
 
 a) a Kincstár a 10. § (5) bekezdése, valamint 12. § (4) bekezdése szerint a lepárlóüzemek által benyújtott jelentések alapján azt állapítja meg, hogy a lepárlóüzem részére kifizetett támogatási összeg meghaladja a 15. § (2) bekezdésében meghatározott felső határt, a visszafizetendő támogatási összeg a kifizetett teljes támogatási összeg és a megállapított felsőhatár különbsége,
 
@@ -14,4 +14,4 @@ e) a Kincstár azt állapítja meg, hogy a lepárlóüzem az ipari célú nyers 
 
 (3) Az 1308/2013/EU európai parlamenti és tanácsi rendeletből fakadó előnyök megszerzéséhez szükséges feltételeknek a jogszabályi előírások megsértésével történő, az 1306/2013/EU európai parlamenti és tanácsi rendelet 60. cikke szerinti mesterséges megteremtése akkor áll fenn, ha bármely természetes vagy jogi személy a 12. §-ban meghatározott feltételek teljesítését az arra hatáskörrel rendelkező szerv által megállapított jogellenes cselekmény megvalósításával érte el a támogatás céljával ellentétes előnyök megszerzése érdekében.
 
-[^55]: A 21. § a 22/2021. (VI. 3.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^63]: A 21. § a 22/2021. (VI. 3.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.

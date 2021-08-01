@@ -1,6 +1,6 @@
-16. § (1)[^28] A támogatási kérelmeket a Kincstár által közleményben közzétett nyomtatványokon, postai úton vagy személyesen kell benyújtani a Kincstár részére. A kérelemnek tartalmaznia kell
+16. § (1)[^35] A támogatási kérelmeket a Kincstár által közleményben közzétett nyomtatványokon, postai úton vagy személyesen kell benyújtani a Kincstár részére. A kérelemnek tartalmaznia kell
 
-a)[^29] a lepárlóüzem
+a)[^36] a lepárlóüzem
 
 aa) ügyfél-azonosítóját,
 
@@ -16,11 +16,11 @@ c) a lepárlás adatait (a tárgyidőszak, a lepárolt borászati melléktermék
 
 d) az igényelt támogatás összegét,
 
-e)[^30] a lepárlási összesítőt, amelyben szerepel a kötelezett ügyfél-azonosítója, neve, adóalanyi jogállása, a 10. § (1) bekezdése szerinti átvételi elismervény száma, az átvétel időpontja, az átvétel helye (lepárlóüzem telephelyén, vagy begyűjtőhelyén, vagy kötelezett telephelyén), a borászati melléktermék típusa, a borászati melléktermék mennyisége szőlőtörköly esetében tonnában, borseprő, illetve bor esetében hektoliterben megadva, a borászati melléktermék alkoholtartalma térfogatszázalékban kifejezve, valamint a borászati melléktermék számított alkoholtartalma térfogatszázalék/hektoliterben kifejezve,
+e)[^37] a lepárlási összesítőt, amelyben szerepel a kötelezett ügyfél-azonosítója, neve, adóalanyi jogállása, a 10. § (1) bekezdése szerinti átvételi elismervény száma, az átvétel időpontja, az átvétel helye (lepárlóüzem telephelyén, vagy begyűjtőhelyén, vagy kötelezett telephelyén), a borászati melléktermék típusa, a borászati melléktermék mennyisége szőlőtörköly esetében tonnában, borseprő, illetve bor esetében hektoliterben megadva, a borászati melléktermék alkoholtartalma térfogatszázalékban kifejezve, valamint a borászati melléktermék számított alkoholtartalma térfogatszázalék/hektoliterben kifejezve,
 
-f)[^31] a beszállítási költségtérítés elszámolását (kötelezett ügyfél-azonosítója, neve, a szállítás távolsága kilométerben, egységár, tételes beszállítási költség kifizetett nettó és bruttó értéke, a számlák száma, a kifizetés dátuma),
+f)[^38] a beszállítási költségtérítés elszámolását (kötelezett ügyfél-azonosítója, neve, a szállítás távolsága kilométerben, egységár, tételes beszállítási költség kifizetett nettó és bruttó értéke, a számlák száma, a kifizetés dátuma),
 
-g)[^32]
+g)[^39]
 
 h) a lepárlóüzem cégszerű aláírását.
 
@@ -28,32 +28,33 @@ h) a lepárlóüzem cégszerű aláírását.
 
 a) a 10. § (1) bekezdése szerint kiállított, a borászati melléktermékek átvételét igazoló sorszámozott átvételi elismervények egy példányát tételenként,
 
-b)[^33] a borászati melléktermékek lepárlására vonatkozóan a jövedéki vhr. 1. melléklete szerinti, borászati melléktermék típusonként elkészített, adóraktári nyilvántartás másolatait azokra a hónapokra, amelyekben az adott borászati melléktermékeket lepárolták,
+b)[^40] a borászati melléktermékek lepárlására vonatkozóan a jövedéki vhr. 1. melléklete szerinti, borászati melléktermék típusonként elkészített, adóraktári nyilvántartás másolatait azokra a hónapokra, amelyekben az adott borászati melléktermékeket lepárolták,
 
-c)[^34] a termelési napló másolatát, amely tartalmazza a lepárlás időpontját, a felhasznált alapanyag mennyiségét, számított alkoholtartalmát, a szeszmérő gép számát, induló és záró óraállását, az előállított ipari célú nyers alkohol mennyiségét literben és az előállított ipari célú nyers alkohol alkoholtartalmát térfogatszázalékban, valamint térfogatszázalék/hektoliterben,
+c)[^41] a termelési napló másolatát, amely tartalmazza a lepárlás időpontját, a felhasznált alapanyag mennyiségét, számított alkoholtartalmát, a szeszmérő gép számát, induló és záró óraállását, az előállított ipari célú nyers alkohol mennyiségét literben és az előállított ipari célú nyers alkohol alkoholtartalmát térfogatszázalékban, valamint térfogatszázalék/hektoliterben,
 
-d)[^35] a tárolótartály-nyilvántartás másolatát, azon feltüntetve a tárolótartályok – a mérésügyről szóló törvény alapján a Budapest Főváros Kormányhivatala által kiállított – hitelesítési engedélyének számát és érvényességének idejét,
+d)[^42] a tárolótartály-nyilvántartás másolatát, azon feltüntetve a tárolótartályok – a mérésügyről szóló törvény alapján a Budapest Főváros Kormányhivatala által kiállított – hitelesítési engedélyének számát és érvényességének idejét,
 
 e) ha a 9. § (4) bekezdése szerint a kötelezett szállítja be lepárlás céljára a borászati mellékterméket, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő beszállítási költségtérítés összegét tartalmazó számlák és azok kifizetését igazoló bizonylatok másolati példányait,
 
-f)[^36] ha a 9. § (5) bekezdése szerint a kötelezett a szőlőtörköly szállítójárműre történő rakodását vállalta, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő rakodási költségtérítés összegét tartalmazó számlák és az azok kifizetését igazoló bizonylatok másolati példányait,
+f)[^43] ha a 9. § (5) bekezdése szerint a kötelezett a szőlőtörköly szállítójárműre történő rakodását vállalta, a lepárlóüzem részére a kötelezett által kiállított, a fizetendő rakodási költségtérítés összegét tartalmazó számlák és az azok kifizetését igazoló bizonylatok másolati példányait,
 
-g) ha a 3. § (6) bekezdésének megfelelően a kötelezett a borászati melléktermék leadási kötelezettsége teljesítését bor leadásával egészítette ki, a borászati termékek egységes bizonylatolási, nyilvántartási és elszámolási rendjéről szóló VM rendeletben meghatározott borkísérő okmányok másolatait tételenként,
+g)[^44] ha a kötelezett a borászati melléktermék leadási kötelezettségét a 26/2021. (VII. 29.) AM rendelet 24. § (5) bekezdése alapján bor lepárlóüzem részére történő átadásával egészítette ki, a 26/2021. (VII. 29.) AM rendelet 35. § (1) bekezdésében meghatározott kísérőokmány másolatait tételenként,
 
-h)[^37] a jövedéki vhr. 49. §-a szerint kérelmezett helyszíni szemléről készült jegyzőkönyvet.
+h)[^45] a jövedéki vhr. 49. §-a szerint kérelmezett helyszíni szemléről készült jegyzőkönyvet.
 
-(3)[^38] A lepárlóüzem havonta egy támogatási kérelem alapján jogosult támogatásra. A támogatási kérelem benyújtásának legkorábbi időpontja az adott borpiaci év október 5-e, legkésőbbi időpontja pedig a következő borpiaci év augusztus 30-a. A benyújtási határidő elmulasztása esetén igazolásnak nincs helye.
+(3)[^46] A lepárlóüzem havonta egy támogatási kérelem alapján jogosult támogatásra. A támogatási kérelem benyújtásának legkorábbi időpontja az adott borpiaci év október 5-e, legkésőbbi időpontja pedig a következő borpiaci év augusztus 30-a. A benyújtási határidő elmulasztása esetén igazolásnak nincs helye.
 
 (4) Egy támogatási kérelemnek legalább egy teljes naptári hónap alatt előállított ipari célú nyers alkohol mennyiségre kell vonatkoznia.
 
-[^28]: A 16. § (1) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 52. § e) pontja szerint módosított szöveg.
-[^29]: A 16. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^30]: A 16. § (1) bekezdés e) pontja a 44/2014. (XII. 30.) FM rendelet 6. § d) pontja szerint módosított szöveg.
-[^31]: A 16. § (1) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § e) pontja szerint módosított szöveg.
-[^32]: A 16. § (1) bekezdés g) pontját a 68/2017. (XII. 27.) FM rendelet 10. § c) pontja hatályon kívül helyezte.
-[^33]: A 16. § (2) bekezdés b) pontja a 68/2017. (XII. 27.) FM rendelet 6. §-ával megállapított szöveg.
-[^34]: A 16. § (2) bekezdés c) pontját a 33/2017. (VI. 9.) FM rendelet 10. §-a hatályon kívül helyezte, újonnan a 68/2017. (XII. 27.) FM rendelet 6. §-a iktatta be.
-[^35]: A 16. § (2) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 184. § d) pontja szerint módosított szöveg.
-[^36]: A 16. § (2) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § f) pontja szerint módosított szöveg.
-[^37]: A 16. § (2) bekezdés h) pontját a 68/2017. (XII. 27.) FM rendelet 6. §-a iktatta be.
-[^38]: A 16. § (3) bekezdése a 44/2014. (XII. 30.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^35]: A 16. § (1) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 52. § e) pontja szerint módosított szöveg.
+[^36]: A 16. § (1) bekezdés a) pontja a 44/2014. (XII. 30.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^37]: A 16. § (1) bekezdés e) pontja a 44/2014. (XII. 30.) FM rendelet 6. § d) pontja szerint módosított szöveg.
+[^38]: A 16. § (1) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § e) pontja szerint módosított szöveg.
+[^39]: A 16. § (1) bekezdés g) pontját a 68/2017. (XII. 27.) FM rendelet 10. § c) pontja hatályon kívül helyezte.
+[^40]: A 16. § (2) bekezdés b) pontja a 68/2017. (XII. 27.) FM rendelet 6. §-ával megállapított szöveg.
+[^41]: A 16. § (2) bekezdés c) pontját a 33/2017. (VI. 9.) FM rendelet 10. §-a hatályon kívül helyezte, újonnan a 68/2017. (XII. 27.) FM rendelet 6. §-a iktatta be.
+[^42]: A 16. § (2) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 184. § d) pontja szerint módosított szöveg.
+[^43]: A 16. § (2) bekezdés f) pontja a 44/2014. (XII. 30.) FM rendelet 6. § f) pontja szerint módosított szöveg.
+[^44]: A 16. § (2) bekezdés g) pontja a 26/2021. (VII. 29.) AM rendelet 68. § (4) bekezdésével megállapított szöveg.
+[^45]: A 16. § (2) bekezdés h) pontját a 68/2017. (XII. 27.) FM rendelet 6. §-a iktatta be.
+[^46]: A 16. § (3) bekezdése a 44/2014. (XII. 30.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.

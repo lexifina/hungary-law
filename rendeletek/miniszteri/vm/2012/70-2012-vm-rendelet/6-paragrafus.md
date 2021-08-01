@@ -1,7 +1,5 @@
-## 5. Borseprő denaturálása
+## 5. §
 
-6. § (1) A borseprő denaturálását literenként legalább 2 gramm konyhasó vagy kálium-klorid hozzáadásával kell elvégezni.
+## 5.[^11]
 
-(2) Az (1) bekezdésben meghatározott módon denaturált borseprőt harmadik fél részére át kell adni a borkészítés borpiaci évének végéig.
-
-(3) A denaturált borseprő átvételéről az átvevőnek a borkísérő okmányon kell nyilatkoznia.
+[^11]: Az 5. alcímet (6. §) a 26/2021. (VII. 29.) AM rendelet 68. § (5) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,9 +1,13 @@
+## 6. §
+
 ## 6. A borászati melléktermékek elszámolása
 
-7. § (1) A kötelezettnek a kivonás tényét – az időpont, a borászati melléktermék típusa, mennyisége és alkoholtartalma, a szőlőtörköly és borseprő kivonás módjának feltüntetésével –a kivonás napján be kell jegyeznie a pincekönyvbe.
+7. § (1)[^12]
 
-(2) A szőlőtörköly és a borseprő kivonásával kapcsolatban keletkezett összes bizonylatot a kötelezettnek a kötelezettség teljesítését követő ötödik naptári év végéig meg kell őriznie.
+(2)[^13]
 
-(3)[^9] Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) minden év április 5-ig tájékoztatja a Magyar Államkincstár (a továbbiakban: Kincstár) az adott borpiaci évben támogatható maximális alkoholmennyiségről.
+(3)[^14] Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) minden év április 5-ig tájékoztatja a Magyar Államkincstár (a továbbiakban: Kincstár) az adott borpiaci évben támogatható maximális alkoholmennyiségről.
 
-[^9]: A 7. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 52. § a) pontja szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdését a 26/2021. (VII. 29.) AM rendelet 68. § (5) bekezdés c) pontja hatályon kívül helyezte.
+[^13]: A 7. § (2) bekezdését a 26/2021. (VII. 29.) AM rendelet 68. § (5) bekezdés c) pontja hatályon kívül helyezte.
+[^14]: A 7. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 52. § a) pontja szerint módosított szöveg.
