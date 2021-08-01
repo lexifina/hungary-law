@@ -1,3 +1,1 @@
-4. §[^3]
-
-[^3]: A 4. § a 3. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
+4. § Nem lép hatályba a védettségi igazolások kölcsönös elfogadásának megállapításáról szóló 7/2021. (IV. 29.) KKM rendelet San Marino Köztársasággal összefüggő módosításáról szóló 27/2021. (VII. 12.) KKM rendelet 2. §-a.
