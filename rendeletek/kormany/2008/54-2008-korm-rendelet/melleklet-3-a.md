@@ -4,9 +4,11 @@
 
 ## 1.1. A 8/A. § (1) bekezdés h) pontjában előírt bányajáradék vetítési alapját a következő képlet alapján kell megállapítani:
 
-| bányajáradék vetítési alapja = | kitermelt mennyiség (m3, illetve t) × fajlagos érték (Ft/m3, illetve Ft/t) |
+|  | kitermelt mennyiség (m3, t, illetve MWh) × fajlagos érték (Ft/m3, Ft/t, illetve Ft/MWh) |
 
-| 1000 |
+| bányajáradék vetítési alapja = | ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ |
+
+|  | 1000 |
 
 ## 1.2. A 8/A. § (1) bekezdés j) pontjában előírt bányajáradék értéket a következő képlettel kell meghatározni:
 
@@ -18,7 +20,7 @@
 
 ## 2.1. A 8/A. § (3) bekezdés d) pontjában előírt t/2 °C értéket a következő képlet alapján kell megállapítani:
 
-## 3K89921N_2
+## 1X06738M_2
 
 ## 2.2. A 8/A. § (3) bekezdés e) pontjában előírt kinyert energia mennyiséget a következő képlet alapján kell megállapítani:
 
