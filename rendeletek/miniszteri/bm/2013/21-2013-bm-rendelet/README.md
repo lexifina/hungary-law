@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-21-20-0
 | 2013-06-15 | 2013-21-20-0A.1 | 21/2013. (VI. 7.) BM rendelet |
 | 2013-06-16 | 2013-21-20-0A.2 | 2010: CXXX. törvény |
 | 2015-07-11 | 2013-21-20-0A.3 | 40/2015. (VII. 10.) BM rendelet |
+| 2021-08-01 | 2013-21-20-0A.4 | 23/2021. (VII. 29.) BM rendelet |

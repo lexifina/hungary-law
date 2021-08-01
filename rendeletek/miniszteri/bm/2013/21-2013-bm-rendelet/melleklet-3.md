@@ -24,4 +24,6 @@
 
 | ............................................................................... (aláírás, cégszerű aláírás) |
 
-3. melléklet a 21/2013. (VI. 7.) BM rendelethez
+3. melléklet a 21/2013. (VI. 7.) BM rendelethez[^4]
+
+[^4]: A 3. melléklet a 23/2021. (VII. 29.) BM rendelet 19. § (2) bekezdésével megállapított szöveg.
