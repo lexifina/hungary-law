@@ -1,0 +1,1 @@
+63. § A 8. melléklet 3. pontjában foglalt táblázat 8., 10., 11. és 14. sorában meghatározott egyéb korlátozottan használható kifejezésekre vonatkozó rendelkezéseit először a 2022/2023. borpiaci évben szüretelt szőlőből készült borászati termékekre kell alkalmazni.
