@@ -34,4 +34,6 @@
 
 16. ültetvényleltár: az ültetvény pontos helyét, méretét, sor- és tőtávolságát, művelésmódját, tőállományát, szőlőfajta-összetételét soronként bemutató nyilvántartás.
 
-(2) Az (1) bekezdésben nem értelmezett fogalmak alkalmazásakor a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: Btv.) rendelkezéseit kell figyelembe venni.
+(2)[^1] Az (1) bekezdésben foglaltakon túlmenően a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.), valamint a végrehajtására kiadott rendeletek fogalommeghatározásait kell figyelembe venni.
+
+[^1]: Az 1. § (2) bekezdése a 26/2021. (VII. 29.) AM rendelet 69. § (1) bekezdésével megállapított szöveg.

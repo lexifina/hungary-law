@@ -40,7 +40,7 @@
 
 | 19. | a termeléskiesést ellentételező kompenzáció |  |  |  | 2 400 | – |
 
-2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^15]
+2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^17]
 
 1. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – fajtaváltás, áttelepítés
 
@@ -68,7 +68,7 @@
 
 | 11. | D. A kérelmező háttere |
 
-| 12. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet 12. számú melléklet I. pontjában meghatározott, illetve azoknak megfeleltethető iskolai végzettségek valamelyikével | 2 | 2 |
+| 12. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a szőlő- és bortermelés részletes szabályairól szóló 26/2021. (VII. 29.) AM rendelet [a továbbiakban: 26/2021. (VII. 29.) AM rendelet] 9. melléklet 1. és 2. pontjában meghatározott végzettségek valamelyikével | 2 | 2 |
 
 | 13. | E. A beruházással érintett terület jellemzői |
 
@@ -124,7 +124,7 @@
 
 | 9. | B. A kérelmező háttere |
 
-| 10. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a szőlészeti és a borászati adatszolgáltatás, valamint a származási bizonyítványok kiadásának rendjéről, továbbá a borászati termékek előállításáról, forgalomba hozataláról és jelöléséről szóló 127/2009. (IX. 29.) FVM rendelet 12. számú melléklet I. pontjában meghatározott vagy azoknak megfeleltethető iskolai végzettségek valamelyikével | 1 | 1 |
+| 10. | A kérelmező vagy nem természetes személy esetén a kérelmező valamely tulajdonosa vagy alkalmazottja rendelkezik a 26/2021. (VII. 29.) AM rendelet 9. melléklet 1. és 2. pontjában meghatározott végzettségek valamelyikével | 1 | 1 |
 
 | 11. | C. A beruházással érintett terület jellemzői |
 
@@ -158,4 +158,4 @@
 
 | 26. | Összesen elérhető pontszám | 50 |  |
 
-[^15]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése szerint módosított szöveg.

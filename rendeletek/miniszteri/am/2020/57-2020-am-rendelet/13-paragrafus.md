@@ -4,7 +4,7 @@
 
 (3) A Kincstár az egyéni terv módosítását követően megállapítja a módosított egyéni terv alapján igényelhető támogatás maximális összegét, amely nem lehet nagyobb a módosítást megelőzően jóváhagyott egyéni terv alapján megállapított támogatási összegnél.
 
-(4)[^9] Nem kell bejelenteni a Kincstár részére a sor- és tőtávolságnak a 10%-ot meg nem haladó mértékű megváltoztatását, amennyiben az eltérésből adódó hektáronkénti tőszámmódosítás nem eredményezi az egyéni tervben jóváhagyott, az 1. melléklet szerinti elszámolható hektáronkénti költségátalányok, valamint a 2. melléklet 1. pontjában foglalt táblázat C:3 mezőjében és 2. pontjában foglalt táblázat C:7 és C:8 mezőjében meghatározott pontértékek változását.
+(4)[^11] Nem kell bejelenteni a Kincstár részére a sor- és tőtávolságnak a 10%-ot meg nem haladó mértékű megváltoztatását, amennyiben az eltérésből adódó hektáronkénti tőszámmódosítás nem eredményezi az egyéni tervben jóváhagyott, az 1. melléklet szerinti elszámolható hektáronkénti költségátalányok, valamint a 2. melléklet 1. pontjában foglalt táblázat C:3 mezőjében és 2. pontjában foglalt táblázat C:7 és C:8 mezőjében meghatározott pontértékek változását.
 
 (5) Amennyiben a kérelmező a jóváhagyott egyéni tervében bázis-, illetve certifikált kategóriájú szaporítóanyagot jelölt meg, azonban az intézkedés megvalósítása során részben vagy egészben standard kategóriájú szaporítóanyagot használ fel, és a 12. § (5) bekezdése szerinti minimális pontértéket így is eléri, részére – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti standard kategóriájú szaporítóanyaggal végrehajtott ültetési munka művelete után meghatározott költség számolható el.
 
@@ -24,4 +24,4 @@ a) a terület lejtése 5% és az alatti mértékű, – az egyéb feltételeknek
 
 b) a terület lejtése 5% feletti és 12% vagy az alatti mértékű, – az egyéb feltételeknek történő megfelelés esetén – az 1. melléklet szerinti 5% feletti és 12% vagy az alatti lejtésű területekre vonatkozó költségnövekménnyel meghatározott költség számolható el.
 
-[^9]: A 13. § (4) bekezdése a 22/2021. (VI. 3.) AM rendelet 10. § d) pontja szerint módosított szöveg.
+[^11]: A 13. § (4) bekezdése a 22/2021. (VI. 3.) AM rendelet 10. § d) pontja szerint módosított szöveg.

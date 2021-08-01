@@ -14,9 +14,9 @@ b) a támberendezés létesítését kizárólag új anyagok felhasználásával
 
 c) az ültetvény beállottsága
 
-ca)[^11] a 6. § (6)–(8) bekezdése szerinti megvalósítás első évében,
+ca)[^13] a 6. § (6)–(8) bekezdése szerinti megvalósítás első évében,
 
-cb)[^12] a 6. § (9) bekezdése szerinti megvalósítás esetén a megvalósítás évében
+cb)[^14] a 6. § (9) bekezdése szerinti megvalósítás esetén a megvalósítás évében
 
 eléri a 90%-ot,
 
@@ -24,5 +24,5 @@ d) az ültetvény beállottsága az ültetvény telepítését követő évben e
 
 e) régi ültetvény kivágási költségeinek támogatása esetén a régi ültetvény kivágását az egyéni terv benyújtása előtt nem kezdték el.
 
-[^11]: A 17. § c) pont ca) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § f) pontja szerint módosított szöveg.
-[^12]: A 17. § c) pont cb) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § g) pontja szerint módosított szöveg.
+[^13]: A 17. § c) pont ca) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § f) pontja szerint módosított szöveg.
+[^14]: A 17. § c) pont cb) alpontja a 22/2021. (VI. 3.) AM rendelet 10. § g) pontja szerint módosított szöveg.
