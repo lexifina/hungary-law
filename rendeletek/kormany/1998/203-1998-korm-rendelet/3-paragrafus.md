@@ -34,7 +34,7 @@ b) a kérelem benyújtását megelőző három évre vonatkozóan be kell mutatn
 
 (4)[^32] A bányászati jog az engedélyezett kutatási terület, a megállapított bányatelek vagy a kijelölt geotermikus védőidom egészére ruházható át.
 
-(5)[^33]
+(5)[^33] A Bt. 6. § (4) bekezdés a)–c) pontja szerinti esetben a hozzájárulás iránti kérelmet a jogutódlásról, átruházásról vagy árverési vételről rendelkező okiratnak a cégbírósághoz való benyújtását megelőzően az a) pont szerinti esetben a jogelőd, a b) és c) pont szerinti esetben a jogszerző természetes vagy jogi személy nyújtja be a bányafelügyelethez.
 
 [^26]: A Vhr. 3. § (1) bekezdését a 146/2012. (VII. 5.) Korm. rendelet 20. §-a hatályon kívül helyezte.
 [^27]: A Vhr. § 3. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 62. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
@@ -43,4 +43,4 @@ b) a kérelem benyújtását megelőző három évre vonatkozóan be kell mutatn
 [^30]: A 3. § (2c) bekezdését a 706/2020. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
 [^31]: A Vhr. 3. § (3) bekezdését a 106/2005. (VI. 16.) Korm. rendelet 6. § (3) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 62. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^32]: A Vhr. 3. §-ának (4) bekezdését az 57/2008. (III. 26.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 251/2011. (XII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^33]: A Vhr. 3. § (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 146. § (2) bekezdése iktatta be, hatályon kívül helyezte a 411/2012. (XII. 28.) Korm. rendelet 23. §-a.
+[^33]: A Vhr. 3. § (5) bekezdését újonnan a 453/2021. (VII. 30.) Korm. rendelet 1. §-a iktatta be.

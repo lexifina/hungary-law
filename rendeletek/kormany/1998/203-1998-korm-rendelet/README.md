@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-203-20-
 | 2019-04-30 | 1998-203-20-22.48 | 80/2019. (IV. 15.) Korm. rendelet |
 | 2020-01-01 | 1998-203-20-22.49 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 1998-203-20-22.50 | 706/2020. (XII. 30.) Korm. rendelet |
+| 2021-08-01 | 1998-203-20-22.51 | 453/2021. (VII. 30.) Korm. rendelet |
