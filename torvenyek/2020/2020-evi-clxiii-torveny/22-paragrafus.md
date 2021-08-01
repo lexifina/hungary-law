@@ -22,9 +22,9 @@ h) a borászati termék érzékszervi jellemzői megfelelőségének vizsgálat�
 
 a) a szőlőültetvény kivágását elrendelheti,
 
-b) az ültetvény használóját kötelezheti a hegyközség szőlő termőhelyi kataszterben nyilvántartott terület hasznosításához való hozzájárulásának beszerzésére,
+b) a földterület használóját kötelezheti a hegyközség szőlő termőhelyi kataszterben nyilvántartott terület hasznosításához való hozzájárulásának beszerzésére,
 
-c) az ültetvény használóját kötelezheti a szőlő termőhelyi kataszterben nyilvántartott területen az eredeti állapot helyreállítására.
+c) a földterület használóját kötelezheti a szőlő termőhelyi kataszterben nyilvántartott területen az eredeti állapot helyreállítására.
 
 (4) Mulasztási bírságot szab ki
 
@@ -66,4 +66,4 @@ esetén.
 
 (7) A mulasztási és a minőségvédelmi bírság mértékét, megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
-(8) A mulasztási bírság és a minőségvédelmi bírság a központi költségvetés bevételét képezi.
+(8) A borászati hatóság, valamint az állami adó- és vámhatóság által kiszabott mulasztási bírság és a minőségvédelmi bírság a központi költségvetés bevételét képezi.

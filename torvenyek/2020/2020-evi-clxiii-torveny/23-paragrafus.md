@@ -16,7 +16,7 @@
 
 7. adott évi szüret tekintetében a szőlő maximális hozamára és minimális cukortartalmára vonatkozó követelményektől való eltérés engedélyezésére vonatkozó szabályokat;
 
-8. a borászati üzemengedély kiadására és a borászati üzemengedély-nyilvántartás vezetésére vonatkozó szabályokat, valamint a borászati üzemengedély-nyilvántartás személyes adatnak nem minősülő tartalmát;
+8. a borászati üzemengedély kiadására és a borászati üzemengedély-nyilvántartás vezetésére vonatkozó szabályokat, a borászati üzemengedély-nyilvántartás személyes adatnak nem minősülő tartalmát, a borászati termék borászati üzem területén kívül történő kiszerelése és a borászati üzemben engedéllyel tárolható anyagok tárolása engedélyezésének szabályait, valamint a borászati üzemengedély-jogosult kockázatos besorolásának feltételeit;
 
 9. a nem engedélyezett borászati eljárás kísérleti célú alkalmazásának engedélyezésére és a kiadott engedélyek nyilvántartására vonatkozó szabályokat;
 
@@ -32,11 +32,11 @@
 
 15. az ePincekönyv rendszer használatára kötelezettek körét, személyes adatot nem tartalmazó tartalmát, működtetésének és használatának szabályait, az ePincekönyv rendszerrel kapcsolatos adatszolgáltatás módját, valamint az ePincekönyv rendszerrel adatkapcsolatot fenntartó számítógépes program nyilvántartásba vételének és használatának feltételeit;
 
-16. a közfogyasztásra történő forgalomba hozatalra szánt borászati termék analitikai vizsgálatának rendjére, a vizsgálatot végző laboratórium engedélyezésére vonatkozó szabályokat;
+16. a borászati termék analitikai vizsgálatának és érzékszervi jellemzői megfelelősége vizsgálatának rendjére, az analitikai vizsgálatot végző laboratórium engedélyezésére, a borászati termék érzékszervi jellemzői megfelelőségének vizsgálatát végzők körére és nyilvántartásba vételére vonatkozó szabályokat, valamint a nyilvántartás adattartalmát;
 
-17. a borászati termék érzékszervi jellemzői megfelelőségének vizsgálati rendjét, a vizsgálatot végzők körét, nyilvántartásba vételükkel kapcsolatos szabályokat és a nyilvántartás adattartalmát;
+17. a regisztrált borversenyek nyilvántartásba vételének szabályait és a nyilvántartás személyes adatnak nem minősülő tartalmát;
 
-18. a földrajzi árujelzők és a hagyományos kifejezések oltalmára és használatára vonatkozó szabályokat;
+18. a földrajzi árujelzők és a hagyományos kifejezések oltalmára és használatára vonatkozó szabályokat, valamint a földrajzi árujelzőt kezelő hegyközségi szervezet számára meghatározott jogosultságok gyakorlására vonatkozó részletes szabályokat;
 
 19. a hatósági ellenőrzés eljárási szabályait és az ellenőrzés alapján hozható intézkedésekre vonatkozó szabályokat;
 
@@ -76,10 +76,12 @@
 
 10. a szőlőfeldolgozás, a borkészítés és az alkoholcsökkentés melléktermékeinek kötelező kivonásával kapcsolatos szabályokat;
 
-11. a borminősítés követelményeit, a borászati termék érzékszervi jellemzői megfelelőségének vizsgálatát végzőkre vonatkozó szakmai követelményeket, a borbíráló tanfolyamok és a borbíráló szakvizsga részletszabályait, az analitikai és érzékszervi vizsgálatok részletes szabályait;
+11. a borminősítés követelményeit, a borászati termék érzékszervi jellemzői megfelelőségének vizsgálatát végzőkre vonatkozó szakmai követelményeket, a borbíráló képzés és a borbíráló szakvizsga részletszabályait, az analitikai és érzékszervi vizsgálatok részletes szabályait;
 
 12. a regisztrált borversenyekre vonatkozó szabályokat;
 
 13. a borászati termékek jelölésének, valamint a borászati termékeken feltüntethető kifejezések használatának szabályait.
+
+14. a bor kifejezés nem borászati termék elnevezésében való használatának szabályait.
 
 (4) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben állapítsa meg a borászati termékek nyilvántartási és elszámolási rendjét.

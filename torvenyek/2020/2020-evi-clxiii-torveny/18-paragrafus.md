@@ -24,7 +24,7 @@ i) az értékesítési jelentéseket,
 
 j) a készletjelentéseket.
 
-(3) Az ePincekönyv rendszer nyilvántartja
+(3) Az ePincekönyv rendszer – az adatszolgáltatási kötelezettség megszűnését követő 5 évig – nyilvántartja
 
 a) az adatszolgáltató FELIR azonosítóját, valamint mezőgazdasági és vidékfejlesztési támogatási szerv által adott ügyfél-azonosítóját, ha azzal rendelkezik, levelezési címét, telefonos és elektronikus elérhetőségét, számlázási címét,
 
@@ -34,7 +34,7 @@ c) gazdálkodó szervezet adatszolgáltató székhelyét, telephelyét, adószá
 
 (4) Az ePincekönyv rendszer a lekérdezést követő 60 napig nyilvántartja – az adatszolgáltató által a saját adatai vonatkozásában végzett lekérdezést kivéve – az ePincekönyv rendszerből egyedi azonosításra alkalmas módon lekérdezett adatokat és a lekérdezést végző személy nevét.
 
-(5) A HNT hozzáférést biztosít az ePincekönyv rendszerhez a miniszter, az állami adó- és vámhatóság, a földrajzi árujelzőt kezelő hegyközségi szervezet, valamint a borászati hatóság számára, jogszabályban meghatározott feladataik ellátása céljából, az ahhoz szükséges mértékben.
+(5) A HNT hozzáférést biztosít az ePincekönyv rendszerhez a miniszter, az állami adó- és vámhatóság, a földrajzi árujelzőt kezelő hegyközségi szervezet, a hegybíró, valamint a borászati hatóság számára, jogszabályban meghatározott feladataik ellátása céljából, az ahhoz szükséges mértékben. A HNT biztosítja továbbá az ePincekönyv rendszert használó adatszolgáltató számára az e törvényben és e törvény végrehajtására kiadott jogszabályban meghatározott adatszolgáltatási kötelezettségének teljesítése, valamint hatósági eljárás kezdeményezése céljából az ePincekönyv rendszerben biztosított tárhelyéhez való hozzáférést és az azon keresztül történő ügyintézést, elektronikus azonosítását követően.
 
 (6) A hatósági ellenőrzések kockázatbecslésen alapuló tervezéséhez az ePincekönyv rendszer a (2) bekezdés szerinti adatokat automatikus információátadással biztosítja a FELIR számára. A FELIR nyilvántartja a borászati hatóság által a (4) bekezdésben foglaltak szerint végzett lekérdezéssel kapcsolatos adatokat, az ott meghatározott módon.
 
@@ -44,8 +44,12 @@ c) gazdálkodó szervezet adatszolgáltató székhelyét, telephelyét, adószá
 
 (9) A HNT az ePincekönyv rendszerben kezelt adatokat a Központi Statisztikai Hivatal részére statisztikai célokra való felhasználás érdekében, a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben, egyedi azonosításra alkalmas módon, térítésmentesen átadja. Az átvett adatok körét és az adatátvétel részletes szabályait a hivatalos statisztikáról szóló 2016. évi CLV. törvény 28. §-a szerinti megállapodásban kell rögzíteni.
 
-(10) A HNT az ePincekönyv rendszerben kezelt adatok alapján évente legalább két alkalommal az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott tartalmú borpiaci elemzést tesz közzé honlapján.
+(10) A HNT az ePincekönyv rendszerben kezelt adatok alapján évente legalább két alkalommal az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott tartalmú borpiaci elemzést tesz közzé internetes honlapján.
 
 (11) Az ePincekönyv rendszerben történő ügyintézés támogatása érdekében a HNT ügyfélszolgálatot működtet.
 
 (12) A hegybíró ellátja az e törvény végrehajtására kiadott kormányrendeletben az ePincekönyv rendszer használatával kapcsolatban meghatározott feladatokat.
+
+(13) A HNT az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 17. pont i) alpontjától eltérően e törvényben az ePincekönyv rendszerrel kapcsolatban meghatározott feladatai tekintetében elektronikus ügyintézést biztosító szervnek minősül.
+
+(14) A HNT jogosult a (3) bekezdésben meghatározott, az ePincekönyv rendszerben nyilvántartott személyes adatok kezelésére az ePincekönyv rendszer működtetése és e törvényben meghatározott feladatai ellátása érdekében.

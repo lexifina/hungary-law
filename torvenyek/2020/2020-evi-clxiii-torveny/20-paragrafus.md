@@ -20,9 +20,11 @@ ag) birtokában lévő telepítési jogokat típusonkénti bontásban,
 
 ah) által leadott szüreti bejegyzéseket, termelési jelentéseket, származásibizonyítvány-kérelmeket,
 
+ai) borászati üzemengedély jogosultjával szemben kiszabott, e törvény végrehajtására kiadott kormányrendeletben meghatározott jogkövetkezményeket, valamint ezen jogkövetkezményekre figyelemmel a borászati üzemengedély jogosult kockázatos besorolását,
+
 b) az adatszolgáltatóval azonos borgazdasági egységbe tartozó személyek listáját,
 
-c) az a) pont ah) alpontja alapján kiadott hatósági bizonyítványokat, továbbá
+c) az a) pont ah) alpontja alapján kiadott hatósági bizonyítványokat,
 
 d) az adatszolgáltató használatában lévő szőlőparcellák
 
@@ -41,6 +43,8 @@ df) kapcsolatát a szőlőültetvények szerkezetátalakításával, átállít�
 dg) kísérleti célú ültetvény jellegét, ha van ilyen, valamint
 
 dh) engedély nélkül telepített, illetve kivágott státuszát, ha van ilyen.
+
+e) a szakmai-jövedéki nyilvántartás vezetésének módját.
 
 (2) A gazdasági akta az (1) bekezdés a) pont af) és ag) alpontja, valamint b) és c) pontja tekintetében – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartásnak minősül.
 
