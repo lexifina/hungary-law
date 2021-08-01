@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR) „A” és „B” Mellékletének belföldi alkalmazásáról szóló 61/2013. (X. 17.) NFM rendelet.
+## 4. §[^1]
 
 1. melléklet a 39/2021. (VII. 30.) ITM rendelethez
 
@@ -90,7 +90,7 @@ c) az árut csak a helyi elosztóhelyek és a kiskereskedők vagy a felhasznál�
 
 a) a „különlegesen felszerelt jármű, illetve konténer” az ADR értelmében vett fedett járművet vagy zárt konténert jelent, melynek kialakítása, valamint állapota olyan, hogy normális szállítási körülmények között megakadályozza mind a szilárd, mind a folyékony rakomány szabadba jutását; a berakáshoz használt csomagolóeszközök biztonságosabb és könnyebb kezelhetősége érdekében a járművön, illetve konténeren belül műanyag tartóeszköz („hulladéktároló”) is elhelyezhető;
 
-b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni, a csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló jogszabály[^1] rendelkezéseinek;
+b) a hulladékot műanyag zsákokba vagy merevfalú csomagolóeszközökbe helyezve kell a járműbe, illetve a konténerbe rakni, a csomagolóeszköz kialakításának, a hulladék csomagolóeszközbe helyezésének és lezárásának meg kell felelnie az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló jogszabály[^2] rendelkezéseinek;
 
 c) a csomagolóeszközöket megfelelően rögzíteni kell, hogy normál szállítási körülmények között ne rongálódhassanak meg;
 
@@ -284,4 +284,5 @@ c) a gyakorlati vizsgafeladatok végrehajtásához szükséges eszközöket és 
 
 „A járművezetők ezt a képzést az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló 487/2015. (XII. 30.) Korm. rendelet szerinti, legalább alapfokozatú sugárvédelmi képzettség megszerzése után az ADR Szabályzat 8.2.3 szakasza szerinti oktatás során is megkaphatják, ha az oktatást az ADR Szabályzat 7 osztályára érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal rendelkező személy tartja.”
 
-[^1]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
+[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Lásd a 12/2017. (VI. 12.) EMMI rendeletet.
