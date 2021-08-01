@@ -1,0 +1,9 @@
+## 3. § A Vhr. 23. §-a a következő (6)–(9) bekezdéssel egészül ki:
+
+## „(6) A szerencsejáték-szervező a játéktervben a kaparós sorsjegy nyeremény kifizetését kizárhatja olyan értékesítőhelyre, értékesítési formára vonatkozóan, ahol egyik nyerőosztály nyereményének kifizetése sem biztosított.
+
+## (7) A 18. § (1) bekezdés d) pontjában foglaltaktól eltérően a szerencsejáték-szervező a játéktervben rendelkezhet úgy, hogy a nyereménykifizetés helyének és idejének feltüntetését a kaparós sorsjegy hátoldalán mellőzi azon értékesítőhelyre, értékesítési formára vonatkozóan, ahol egyik nyerőosztály nyereményének kifizetése sem biztosított, és azokat csak a játéktervben és a részvételi szabályzatban tünteti fel. A játékosok nyereménykifizetéssel kapcsolatos, megfelelő tájékoztatása ezen sorsjegy-értékesítő helyeken a sorsjegy értékesítése során jól látható hirdetményben és a szerencsejáték-szervező honlapján elérhető részvételi szabályzatban is kötelező.
+
+## (8) A szerencsejáték-felügyeleti hatóság a játéktervet a (6) és (7) bekezdés szerinti tartalommal kizárólag abban az esetben hagyja jóvá, ha a nyereménykifizetést nem biztosító sorsjegyforgalmazó 2000 méteres körzetében van olyan értékesítési helyszín, ahol a kaparós sorsjegyen elért nyeremények kifizetése biztosított.
+
+## (9) A (8) bekezdésben foglalt 2000 méteres körzeten azon legrövidebb útvonalat kell érteni, amelyen a nyeremény kifizetését biztosító értékesítési helyszín a közúti közlekedés szabályairól szóló rendelet szabályait figyelembe véve közterületen gyalogosan megközelíthető. A 2000 méteres távolság mérése során a 73/A. § (10) bekezdését kell alkalmazni, azzal, hogy védett intézményen a kaparós sorsjegyen elért nyeremény kifizetését biztosító értékesítési helyet, kártyatermen a nyereménykifizetést nem biztosító sorsjegyforgalmazót kell érteni.”
