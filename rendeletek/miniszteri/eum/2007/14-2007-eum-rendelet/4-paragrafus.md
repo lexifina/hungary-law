@@ -20,7 +20,7 @@ i)[^6]
 
 (2)[^7] A gyógyászati segédeszközök befogadásánál az alábbi gazdasági szempontokat kell figyelembe venni:
 
-a)[^8] az eszköz árát, szavatosságát, kihordási idejét, az OGYÉI által igazolt tartósságát, élettartamát;
+a)[^8] az eszköz árát, szavatosságát, kihordási idejét, a kijelölt szervezet által igazolt tartósságát, élettartamát;
 
 b) az Egészségbiztosítási Alap kiadásaiban az eszköz támogatásával várható csökkenés vagy növekedés mértékét;
 
@@ -50,7 +50,7 @@ d) a tartós használatra szánt, valamint egyedi méretvétel alapján készít
 
 [^6]: A 4. § (1) bekezdésének i) pontját a 8/2008. (III. 4.) EüM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte az 56/2008. (XII. 31.) EüM rendelet 23. § (12) bekezdése.
 [^7]: A 4. § (2) bekezdése az 56/2008. (XII. 31.) EüM rendelet 4. §-ával megállapított szöveg; alkalmazására lásd e módosító rendelet 23. § (6) bekezdését.
-[^8]: A 4. § (2) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 84. § d) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 84. § d) pontja, a 32/2021. (VII. 29.) EMMI rendelet 10. § 1. pontja szerint módosított szöveg.
 [^9]: A 4. § (2) bekezdésének d) pontja a 25/2009. (VIII. 3.) EüM rendelet 1. §-ával megállapított, a 7/2016. (III. 30.) EMMI rendelet 17. § a) pontja szerint módosított szöveg.
 [^10]: A 4. § (2) bekezdés e) pontja a 8/2018. (II. 13.) EMMI rendelet 42. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § (2) bekezdés g) pontját az 57/2012. (XII. 29.) EMMI rendelet 4. §-a iktatta be.

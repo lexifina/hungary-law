@@ -50,6 +50,8 @@
 
 | 21/c. | NT | 04 19 24 03 09 | Inzulinpumpa tartozékok: patron, adapter |
 
+| 21/d. | T | 04 19 24 03 12 | Automata inzulinpumpák |
+
 | 22. |  | 04 24 | FIZIKAI, ÉLETTANI ÉS BIOKÉMIAI VIZSGÁLÓ KÉSZÜLÉKEK ÉS ANYAGOK |
 
 | 23. |  | 04 24 12 | Vérelemző anyagok |
@@ -356,6 +358,6 @@
 
 |  | RT – ruházati jellegű tartós használatra szánt eszközök |
 
-9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^160]
+9. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^166]
 
-[^160]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.
+[^166]: A 9. számú mellékletet a 25/2009. (VIII. 3.) EüM rendelet 7. § (3) bekezdése hatályon kívül helyezte, újonnan a 7/2016. (III. 30.) EMMI rendelet 15. § (8) bekezdése iktatta be.

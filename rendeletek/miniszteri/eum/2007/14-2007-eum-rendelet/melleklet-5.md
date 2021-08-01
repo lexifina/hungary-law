@@ -124,7 +124,7 @@
 
 ## 8. Az eszköz megfelelőségi igazolása
 
-## 8.1. A 2. § (4) bekezdés y) pontja szerinti regisztrációról szóló igazolás száma
+## 8.1. Regisztrációról szóló igazolás száma, amennyiben az az R. vagy az IVD-rendelet szerint kötelező
 
 ## 8.1.1. Az igazolás kiadásának dátuma
 
@@ -144,9 +144,9 @@
 
 ## 9. Az eszköz árára és kölcsönzési díjára vonatkozó paraméterek
 
-## 9.1. Napi kölcsönzési díj árajánlat (nettó napi kölcsönzési díj Ft/eszköz)
+## 9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
 
-## A 2. § (4) bekezdés q) pontja szerinti nyilatkozatot alátámasztó számítások
+## Nyilatkozat arról – az alkalmazott számítások egyidejű bemutatásával –, hogy az árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti a támogatással történő értékesítés;
 
 ## 9.2. A kérelmezett napi kölcsönzési díj társadalombiztosítási támogatásának mértéke és módszere
 
@@ -182,6 +182,6 @@
 
 ## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^156]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^162]
 
-[^156]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
+[^162]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.

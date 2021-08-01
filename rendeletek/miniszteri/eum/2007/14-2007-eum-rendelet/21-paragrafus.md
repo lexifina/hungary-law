@@ -1,9 +1,9 @@
-## 20. §[^145] Az egyes egészségügyi és gyógyszerészeti tárgyú miniszteri rendeletek módosításáról szóló 32/2019. (XII. 17.) EMMI rendelettel (a továbbiakban: Módr9.) megállapított 10. és 18. számú mellékletben foglaltakat 2020. január 1-jétől kell alkalmazni. A Módr9. hatálybalépését[^146] megelőző napon hatályos 10. és 18. számú mellékletben foglaltakat 2019. december 31-ig kell alkalmazni.
+## 20. §[^147] Az egyes egészségügyi és gyógyszerészeti tárgyú miniszteri rendeletek módosításáról szóló 32/2019. (XII. 17.) EMMI rendelettel (a továbbiakban: Módr9.) megállapított 10. és 18. számú mellékletben foglaltakat 2020. január 1-jétől kell alkalmazni. A Módr9. hatálybalépését[^148] megelőző napon hatályos 10. és 18. számú mellékletben foglaltakat 2019. december 31-ig kell alkalmazni.
 
-21. §[^147] (1) E rendeletnek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 15/2020. (IV. 28.) EMMI rendelettel (a továbbiakban: Módr10.) megállapított 14/A. §-ában foglalt előírásokat 2020. április 30-ától kell alkalmazni.
+21. §[^149] (1) E rendeletnek a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosításáról szóló 15/2020. (IV. 28.) EMMI rendelettel (a továbbiakban: Módr10.) megállapított 14/A. §-ában foglalt előírásokat 2020. április 30-ától kell alkalmazni.
 
 (2) A NEAK a Módr10.-zel megállapított 14/A. § szerinti közleményét első alkalommal 2020. április 30-áig a honlapján közzéteszi.
 
-[^145]: A 20. §-t a 32/2019. (XII. 17.) EMMI rendelet 4. § (1) bekezdése iktatta be.
-[^146]: A hatálybalépés időpontja 2019. december 18.
-[^147]: A 21. §-t a 15/2020. (IV. 28.) EMMI rendelet 2. §-a iktatta be.
+[^147]: A 20. §-t a 32/2019. (XII. 17.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^148]: A hatálybalépés időpontja 2019. december 18.
+[^149]: A 21. §-t a 15/2020. (IV. 28.) EMMI rendelet 2. §-a iktatta be.

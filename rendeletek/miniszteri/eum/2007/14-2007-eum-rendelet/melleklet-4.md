@@ -122,7 +122,7 @@
 
 ## 9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
 
-## A 2. § (4) bekezdés q) pontja szerinti nyilatkozatot alátámasztó számítások
+## Nyilatkozat arról – az alkalmazott számítások egyidejű bemutatásával –, hogy az árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti a támogatással történő értékesítés;
 
 ## 9.2. A kérelmező által kért társadalombiztosítási támogatás mértéke és jellege
 
@@ -158,6 +158,6 @@
 
 ## 11.11. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^155]
+4. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^161]
 
-[^155]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 58. § (2) bekezdése, a 7/2016. (III. 30.) EMMI rendelet 15. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés c) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
+[^161]: A 4. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (4) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 58. § (2) bekezdése, a 7/2016. (III. 30.) EMMI rendelet 15. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés c) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (4) bekezdése szerint módosított szöveg.

@@ -10,7 +10,7 @@ b)[^33] a Gyftv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kér
 
 c)[^34] a Gyftv. 32. § (2) bekezdés a) pont aa), ab) alpontja és b) pont bc) alpontja szerinti kérelem esetében 700 000 Ft;
 
-(3)[^35] A befizetett díj a NEAK bevétele. A díj a kérelem visszavonása esetén, a felmerült költségek levonásával visszaigényelhető. A NEAK az igazgatási szolgáltatási díjból származó bevételeket a nyilvántartásában elkülönítetten vezeti.
+(3)[^35] A befizetett díj a NEAK bevétele. A díj a kérelem visszavonása, a kérelem visszautasítása, valamint az eljárásnak az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 47. § (1) bekezdés a) pontja szerinti megszüntetése esetén, a felmerült költségek levonásával visszaigényelhető. A NEAK az igazgatási szolgáltatási díjból származó bevételeket a nyilvántartásában elkülönítetten vezeti.
 
 (4)–(6)[^36]
 
@@ -30,5 +30,5 @@ d) 86. §-ában foglaltakat az elévülés tekintetében
 [^32]: A 10. § (2) bekezdés a) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 10. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
 [^33]: A 10. § (2) bekezdés b) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 11. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
 [^34]: A 10. § (2) bekezdés c) pontja a 34/2010. (V. 14.) EüM rendelet 13. § 12. pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § c) pontja szerint módosított szöveg.
-[^35]: A 10. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) és j) pontja szerint módosított szöveg.
+[^35]: A 10. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés i) és j) pontja, a 32/2021. (VII. 29.) EMMI rendelet 10. § 2. pontja szerint módosított szöveg.
 [^36]: A 10. § (4)–(6) bekezdését a 4/2010. (VIII. 12.) NEFMI rendelet 5. § c) pontja hatályon kívül helyezte.
