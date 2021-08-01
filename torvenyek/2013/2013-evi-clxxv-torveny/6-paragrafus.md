@@ -4,7 +4,7 @@
 
 a) az ügyészség és a nyomozó hatóság a büntetőeljárás lefolytatása céljából, valamint a büntetés-végrehajtási szervezet és a rendőrség a fogvatartott gondnokának értesítése céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
 
-b) a rendőrség a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
+b) a rendőrség a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok, továbbá a polgári célú pirotechnikai tevékenységek hatósági engedélyezésével és ellenőrzésével összefüggő feladatok ellátása céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
 
 c) az ügyészség a gondnokság alá helyezés, annak megszüntetése vagy módosítása, a választójogból való kizárás vagy a választójogból való kizárás megszüntetése iránti per megindításával kapcsolatos feladatai ellátása során a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–g) pontjában szereplő adatokat,
 
