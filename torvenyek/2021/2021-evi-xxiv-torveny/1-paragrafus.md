@@ -4,8 +4,8 @@
 
 (2) Az Alapítvány alapítása során az állam képviseletében a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős miniszter (a továbbiakban: miniszter) jár el.
 
-(3) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok gyakorlására a miniszter kerüljön kijelölésre.
+(3)
 
-(4)
+(4) Az Alapítvány alapító okiratában gondoskodni kell arról, hogy az alapítói jogok teljes körének gyakorlására az Alapítvány kuratóriuma kerüljön kijelölésre.
 
-(5) Az Alapítvány kuratóriumának elnökét és tagjait a miniszter jelöli ki.
+(5)
