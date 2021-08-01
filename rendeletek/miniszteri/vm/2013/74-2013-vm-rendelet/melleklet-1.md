@@ -24,9 +24,9 @@ A kártalanítás mértékét növelő tényezők a járványügyi intézkedéss
 
 | 9. | A kártalanításra jogosult az érintett állományok esetében önkéntes felügyeleti vagy mentesítési programot folytat. | +5% |
 
-| 10. |  |  |
+| 10. | A kártalanításra jogosult az érintett telep vonatkozásában részt vesz független, a NÉBIH által megfelelőnek minősített, és az elismert vagy kijelölt szakmai szervezet által elfogadott járványvédelmi telepauditáló rendszerben, méhészet esetében ideértve a méhegészségügyi felelős által elvégzett látogatást is. | +25% |
 
-| 11. |  |  |
+| 11. | A telepauditáló rendszerben az érintett telep a legutóbbi szemle alapján kiváló, kiemelkedő minősítést szerzett. | +5% |
 
 [^45]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^46]: Az 1. mellékletet a 7/2021. (III. 10.) AM rendelet 10. §-a iktatta be. [Az 1. melléklet 10. és 11. sora e módosító rendelet 13. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.]
+[^46]: Az 1. mellékletet a 7/2021. (III. 10.) AM rendelet 10. §-a iktatta be.

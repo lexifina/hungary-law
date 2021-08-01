@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-74-20-2
 | 2016-04-19 | 2013-74-20-2Y.6 | 29/2016. (IV. 11.) FM rendelet |
 | 2016-09-24 | 2013-74-20-2Y.7 | 64/2016. (IX. 19.) FM rendelet |
 | 2021-06-08 | 2013-74-20-2Y.8 | 7/2021. (III. 10.) AM rendelet |
+| 2021-08-01 | 2013-74-20-2Y.9 | 7/2021. (III. 10.) AM rendelet |
