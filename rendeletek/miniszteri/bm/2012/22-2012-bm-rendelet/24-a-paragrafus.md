@@ -10,7 +10,7 @@ a) azon szerv megnevezését, amelynek nevében a helyszíni bírság kiszabás�
 
 b) az ideiglenesen elvett dolog birtokosának nevét, elérhetőségét,
 
-c) az ideiglenesen elvett dolog megnevezését, azonosító adatait, ismertetőjegyeit, mennyiségét és becsült forgalmi értékét, valamint
+c)[^41] az ideiglenesen elvett dolog megnevezését, azonosító adatait, ismertetőjegyeit, mennyiségét és – ha az a szabálysértési ügy szempontjából releváns – a becsült forgalmi értékét, valamint
 
 d) az arról történő tájékoztatást, hogy az intézkedés ellen a lefoglalásról szóló határozat ellen benyújtható panasz, illetve az érdemi határozattal szemben benyújtható jogorvoslat keretében élhet jogorvoslattal.
 
@@ -19,3 +19,4 @@ d) az arról történő tájékoztatást, hogy az intézkedés ellen a lefoglal�
 (3) A helyszíni bírság kiszabására jogosult szerv az ideiglenesen elvett dolgot a szabálysértési vagy előkészítő eljárás lefolytatására jogosult hatóság részére történő átadásig a 28. § (1) bekezdésében meghatározott módon őrzi.
 
 [^40]: A 24/A. §-t a 81/2015. (XII. 23.) BM rendelet 12. §-a iktatta be.
+[^41]: A 24/A. § (1) bekezdés c) pontja a 23/2021. (VII. 29.) BM rendelet 18. §-ával megállapított szöveg.
