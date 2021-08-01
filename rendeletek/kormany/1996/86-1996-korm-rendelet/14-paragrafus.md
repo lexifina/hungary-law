@@ -76,9 +76,12 @@ d) (a mozgásában korlátozott személy parkolási igazolványa vonatkozásába
 
 (5)[^46] E rendelet 1. számú melléklet III. rész 1.78/a. pontja a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i, 2015/2403 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(6)[^47] Az 1. számú melléklet I. rész 3–5. pontja és II. rész 22. pontja az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^41]: A 14. §-t megelőző alcímet a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
 [^42]: A 14. §-t a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2011. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^43]: A 14. § (3) bekezdés e) pontja a 411/2017. (XII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^44]: A 14. § (3) bekezdés f) pontját a 145/2011. (VII. 27.) Korm. rendelet 11. §-a iktatta be.
 [^45]: A 14. § (3) bekezdés g) pontját a 411/2017. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
 [^46]: A 14. § (5) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 23. §-a iktatta be.
+[^47]: A 14. § (6) bekezdését a 259/2021. (V. 20.) Korm. rendelet 1. §-a iktatta be.
