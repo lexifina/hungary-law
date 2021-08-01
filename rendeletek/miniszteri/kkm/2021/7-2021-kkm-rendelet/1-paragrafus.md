@@ -36,6 +36,8 @@
 
 18. Ukrajna,
 
-19. Üzbég Köztársaság.
+19. Üzbég Köztársaság,
 
-[^1]: Az 1. § a 29/2021. (VII. 23.) KKM rendelet 1. §-ával megállapított szöveg.
+20. Zöld-foki Köztársaság.
+
+[^1]: Az 1. § a 29/2021. (VII. 23.) KKM rendelet 2. §-ával megállapított szöveg.
