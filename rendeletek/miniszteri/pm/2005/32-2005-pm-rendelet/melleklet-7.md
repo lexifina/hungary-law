@@ -1,6 +1,6 @@
 ## Távoli hozzáféréssel biztosított adatok köre távszerencsejáték és az online kaszinójáték szervezése esetén
 
-## I.[^287] Játékosi egyenleggel kapcsolatos adatok a játéktípustól függetlenül:
+## I.[^296] Játékosi egyenleggel kapcsolatos adatok a játéktípustól függetlenül:
 
 ## a) játékosi azonosító adat (pl. felhasználói név, alkalmazott azonosító stb.),
 
@@ -18,7 +18,7 @@
 
 ## h) a játékosok által távszerencsejátékban elért összes nyeremény összege adott időszakra vonatkozóan.
 
-## II.[^288] Fogadás esetén:
+## II.[^297] Fogadás esetén:
 
 ## 1. Fogadási eseménnyel kapcsolatosan
 
@@ -98,13 +98,13 @@
 
 ## A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer lényeges elemeinek változatlanságát igazoló adatok (különösen a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer lényeges elemeihez tartozó ellenőrző számok, hash kódok).
 
-## VI.[^289] Statisztikai nyilvántartás
+## VI.[^298] Statisztikai nyilvántartás
 
 ## A 33. § (3) bekezdésében meghatározott statisztikai nyilvántartás.
 
-7. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^290]
+7. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^299]
 
-[^287]: A 6. számú melléklet I. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított szöveg.
-[^288]: A 6. számú melléklet II. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított, a 10/2020. (VIII. 30.) NVTNM rendelet 14. § h) pontja szerint módosított szöveg.
-[^289]: A 6. számú melléklet VI. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított szöveg.
-[^290]: A 7. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba. A 7. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte.
+[^296]: A 6. számú melléklet I. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított szöveg.
+[^297]: A 6. számú melléklet II. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított, a 10/2020. (VIII. 30.) NVTNM rendelet 14. § h) pontja szerint módosított szöveg.
+[^298]: A 6. számú melléklet VI. pontja a 30/2017. (X. 10.) NGM rendelet 8. § c) pontjával megállapított szöveg.
+[^299]: A 7. számú melléklet e rendelet 88. § (3) bekezdése alapján 2006. január 1-jén lépett hatályba. A 7. számú mellékletet a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja hatályon kívül helyezte.

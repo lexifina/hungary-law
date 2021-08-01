@@ -1,3 +1,3 @@
-## 16. §[^46]
+## 16. §[^47]
 
-[^46]: A 16. §-t a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 6. pontja hatályon kívül helyezte.
+[^47]: A 16. §-t a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 6. pontja hatályon kívül helyezte.

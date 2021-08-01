@@ -34,9 +34,9 @@ a) a totalizatőri rendszerű fogadás esetén
 
 15. az át nem vett nyeremények kezelésének és felhasználásának módját,
 
-16.[^185] a napi készpénz záró állomány havi szintű átlagának maximumát és az összeg megállapításának indokait, amennyiben a számvitelről szóló törvényben meghatározott értékhatártól való eltérés a nyeremények kifizetése miatt szükséges;
+16.[^190] a napi készpénz záró állomány havi szintű átlagának maximumát és az összeg megállapításának indokait, amennyiben a számvitelről szóló törvényben meghatározott értékhatártól való eltérés a nyeremények kifizetése miatt szükséges;
 
-17.[^186] lóversenyfogadás esetén a fogadási formákat;
+17.[^191] lóversenyfogadás esetén a fogadási formákat;
 
 b) bukmékeri rendszerű fogadás esetén
 
@@ -48,7 +48,7 @@ b) bukmékeri rendszerű fogadás esetén
 
 4. a fogadás megkötésének és nyilvántartásának módszerét,
 
-5.[^187] az a) pont 14., 15. és 16. alpontjában foglaltakat.
+5.[^192] az a) pont 14., 15. és 16. alpontjában foglaltakat.
 
 (2) A részvételi szabályzatnak tartalmaznia kell:
 
@@ -62,7 +62,7 @@ d) a fogadás eredményének bizonyítási módját,
 
 e) a szervező és a játékos közötti megállapodás módját
 
-f)[^188] a nyereményigazolás kiadásának feltételeit.
+f)[^193] a nyereményigazolás kiadásának feltételeit.
 
 (3) A költségvetésnek tartalmaznia kell:
 
@@ -92,17 +92,17 @@ d) a fogadásban szereplő időben utolsó fogadási esemény várható időpont
 
 e) a megtett tét összegét és bukmékeri fogadás esetén a nyereményszorzót,
 
-f)[^189]
+f)[^194]
 
 g) a nyeremények kifizetésének helyét, idejét, a szervező nevét, székhelyét, valamint
 
 h) a fogadásban történő részvételre vonatkozó, az 1. § (5) bekezdése szerinti tilalmat.
 
-(5)[^190] A játékos számára a szervező internetes oldalán fogadási formánként megismerhetővé kell tenni a részvételi szabályzatot. Az értékesítőhelyen nyújtott fogadás esetében a játékos kérésére három munkanapon belül rendelkezésére kell bocsátani a teljes terjedelmű részvételi szabályzatot nyomtatott formában.
+(5)[^195] A játékos számára a szervező internetes oldalán fogadási formánként megismerhetővé kell tenni a részvételi szabályzatot. Az értékesítőhelyen nyújtott fogadás esetében a játékos kérésére három munkanapon belül rendelkezésére kell bocsátani a teljes terjedelmű részvételi szabályzatot nyomtatott formában.
 
-[^185]: A 72. § (1) bekezdés a) pont 16. alpontját a 40/2008. (XII. 31.) PM rendelet 7. § (1) bekezdése iktatta be.
-[^186]: A 72. § (1) bekezdés a) pont 17. alpontját a 6/2014. (II. 12.) NGM rendelet 3. §-a iktatta be.
-[^187]: A 72. § (1) bekezdés b) pont 5. alpontja a 40/2008. (XII. 31.) PM rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^188]: A 72. § (2) bekezdésének f) pontját a 32/2007. (XII. 21.) PM rendelet 24. §-a iktatta be. E módosító rendelet 30. § (4) bekezdése alapján a szerencsejáték-szervezőnek a részvételi szabályzat, illetve a látogatási szabályzat új szabályozás szerinti módosításáról – az igazgatási-szolgáltatási díj megfizetése nélkül – 2008. március 31-éig kell gondoskodnia.
-[^189]: A 72. § (4) bekezdés f) pontját a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 23. pontja hatályon kívül helyezte.
-[^190]: A 72. § (5) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 7. §-ával megállapított szöveg.
+[^190]: A 72. § (1) bekezdés a) pont 16. alpontját a 40/2008. (XII. 31.) PM rendelet 7. § (1) bekezdése iktatta be.
+[^191]: A 72. § (1) bekezdés a) pont 17. alpontját a 6/2014. (II. 12.) NGM rendelet 3. §-a iktatta be.
+[^192]: A 72. § (1) bekezdés b) pont 5. alpontja a 40/2008. (XII. 31.) PM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^193]: A 72. § (2) bekezdésének f) pontját a 32/2007. (XII. 21.) PM rendelet 24. §-a iktatta be. E módosító rendelet 30. § (4) bekezdése alapján a szerencsejáték-szervezőnek a részvételi szabályzat, illetve a látogatási szabályzat új szabályozás szerinti módosításáról – az igazgatási-szolgáltatási díj megfizetése nélkül – 2008. március 31-éig kell gondoskodnia.
+[^194]: A 72. § (4) bekezdés f) pontját a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 23. pontja hatályon kívül helyezte.
+[^195]: A 72. § (5) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 7. §-ával megállapított szöveg.

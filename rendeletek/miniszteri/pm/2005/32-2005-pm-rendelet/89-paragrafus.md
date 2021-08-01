@@ -1,4 +1,4 @@
-89. § (1)[^250]
+89. § (1)[^256]
 
 (2) E rendelet 54. §-ának (2)–(4) bekezdésében foglalt képesítésre és szakmai gyakorlatra vonatkozó előírásokat az e rendelet hatálybalépése előtt kiadott engedély alapján működő játékkaszinóban az e rendelet hatálybalépésekor már fennálló munkaviszonyra az engedély érvényességének lejártáig nem kell alkalmazni.
 
@@ -10,19 +10,26 @@
 
 (6) Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 25/1991. (X. 16.) PM rendelet 5. és 6. számú melléklete szerinti engedélyek érvényességi idejük végéig használhatók az e rendeletben foglaltak megfelelő alkalmazásával.
 
-(7)[^251]
+(7)[^257]
 
 (8) A sorsolásos játékra – a sorsjáték (kaparós sorsjegy) kivételével – továbbá a fogadásra a 18. § (1) bekezdésének f) pontjában és a 72. § (4) bekezdésének h) pontjában foglaltakat 2006. május 1-jétől kell alkalmazni.
 
 (9) E rendelet hatálybalépése előtt kiadott engedélyek alapján kibocsátott sorsjegyre (kaparós sorsjegyre) a 18. § (1) bekezdésének f) pontjában foglaltakat nem kell alkalmazni.
 
-(10)[^252] A rendeletnek az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 31/2015. (XI. 24.) NGM rendelettel (a továbbiakban: Mód1.) megállapított 77. § (5a) bekezdését a Mód1. hatálybalépésekor[^253] folyamatban lévő ügyekben is alkalmazni kell.
+(10)[^258] A rendeletnek az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 31/2015. (XI. 24.) NGM rendelettel (a továbbiakban: Mód1.) megállapított 77. § (5a) bekezdését a Mód1. hatálybalépésekor[^259] folyamatban lévő ügyekben is alkalmazni kell.
 
-(11)[^254] E rendeletnek az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 30/2017. (X. 10.) NGM rendelettel (a továbbiakban: Mód2.) megállapított 4–6. számú mellékletének való megfelelést a Mód2. hatálybalépésekor[^255] engedéllyel rendelkező online kaszinójáték szervezője a szerencsejáték-felügyeleti hatóság felé 2017. december 31-ig köteles auditálási okirattal igazolni, vagy az auditor olyan nyilatkozatát benyújtani, amely szerint az engedélyezett játék műszaki-informatikai rendszere a feltételeket teljesíti.
+(11)[^260] E rendeletnek az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 30/2017. (X. 10.) NGM rendelettel (a továbbiakban: Mód2.) megállapított 4–6. számú mellékletének való megfelelést a Mód2. hatálybalépésekor[^261] engedéllyel rendelkező online kaszinójáték szervezője a szerencsejáték-felügyeleti hatóság felé 2017. december 31-ig köteles auditálási okirattal igazolni, vagy az auditor olyan nyilatkozatát benyújtani, amely szerint az engedélyezett játék műszaki-informatikai rendszere a feltételeket teljesíti.
 
-[^250]: A 89. § (1) bekezdését a 36/2006. (XII. 25.) PM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte.
-[^251]: A 89. § (7) bekezdését e rendelet 90. § (2) bekezdése hatályon kívül helyezte.
-[^252]: A 89. § (10) bekezdését a 31/2015. (XI. 24.) NGM rendelet 2. §-a iktatta be.
-[^253]: A hatálybalépés időpontja 2015. december 25.
-[^254]: A 89. § (11) bekezdését a 30/2017. (X. 10.) NGM rendelet 7. §-a iktatta be.
-[^255]: A hatálybalépés időpontja 2017. október 10.
+(12)[^262] Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 12/2021. (VII. 30.) NVTNM rendelettel megállapított 23. § (7) bekezdése hatálybalépését[^263] megelőzően már engedélyezett sorsjegysorozat tekintetében a szerencsejáték-felügyeleti hatóság a játékterv-módosítás jóváhagyásával engedélyezheti, hogy a szervező a nyereménykifizetés helyét és idejét a részvételi szabályzatban a sorsjegyen feltüntetett tájékoztatástól eltérően szabályozza, ha egyes értékesítőhelyeken a nyeremény kifizetése kizárt vagy nem biztosított. A játékosok nyereménykifizetéssel kapcsolatos, megfelelő tájékoztatása ezeken a sorsjegy értékesítő helyszíneken a sorsjegy értékesítése során jól látható hirdetményben és a szerencsejáték-szervező honlapján elérhető részvételi szabályzatban is kötelező.
+
+(13)[^264] A (12) bekezdés szerinti játékterv-módosítás iránti kérelem elbírálása során a 23. § (8) és (9) bekezdésében foglaltak is alkalmazandóak.
+
+[^256]: A 89. § (1) bekezdését a 36/2006. (XII. 25.) PM rendelet 7. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^257]: A 89. § (7) bekezdését e rendelet 90. § (2) bekezdése hatályon kívül helyezte.
+[^258]: A 89. § (10) bekezdését a 31/2015. (XI. 24.) NGM rendelet 2. §-a iktatta be.
+[^259]: A hatálybalépés időpontja 2015. december 25.
+[^260]: A 89. § (11) bekezdését a 30/2017. (X. 10.) NGM rendelet 7. §-a iktatta be.
+[^261]: A hatálybalépés időpontja 2017. október 10.
+[^262]: A 89. § (12) bekezdését a 12/2021. (VII. 30.) NVTNM rendelet 8. §-a iktatta be.
+[^263]: A hatálybalépés időpontja 2021. augusztus 1.
+[^264]: A 89. § (13) bekezdését a 12/2021. (VII. 30.) NVTNM rendelet 8. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## A bukmékeri fogadás szervezésének különös szabályai
 
-71. § (1)[^174] Az egy fogadáson elérhető nyeremény legfeljebb 2 millió forint. Az ezt meghaladó összegű nyereményt lehetővé tevő téttel, illetve nyereményszorzóval fogadás nem köthető.
+71. § (1)[^178] Az egy fogadáson elérhető nyeremény legfeljebb 2 millió forint. Az ezt meghaladó összegű nyereményt lehetővé tevő téttel, illetve nyereményszorzóval fogadás nem köthető.
 
 (2) A fogadási ajánlat megtételekor a szervezőnek
 
@@ -30,16 +30,16 @@ h) a nyertes fogadási ajánlat nyereményének képzési módját,
 
 i) az egyes nyertes fogadások nyereményeinek megállapítása során alkalmazott kerekítési szabályokat.
 
-(4)[^175] Bukmékeri rendszerű fogadásban nem vehetnek részt a szervező alkalmazottai közül a fogadási események nyereményszorzóinak meghatározására befolyással bíró személyek, és ezek közeli hozzátartozói.
+(4)[^179] Bukmékeri rendszerű fogadásban nem vehetnek részt a szervező alkalmazottai közül a fogadási események nyereményszorzóinak meghatározására befolyással bíró személyek, és ezek közeli hozzátartozói.
 
-(5)[^176] A szervező a játékosok részére kölcsönt (hitelt) nem nyújthat.
+(5)[^180] A szervező a játékosok részére kölcsönt (hitelt) nem nyújthat.
 
-(6)[^177] Távszerencsejátéknak nem minősülő bukmékeri fogadás esetén, ha olyan megoldást vagy eljárást alkalmaz a szervező, amelyhez más szerencsejáték fajtában történő alkalmazás esetén auditálási kötelezettség alá eső rendszert vagy eszközt vesz igénybe, a szervezőnek rendelkeznie kell az igénybe vett rendszer vagy eszköz auditálására vonatkozó okiratokkal is.
+(6)[^181] Távszerencsejátéknak nem minősülő bukmékeri fogadás esetén, ha olyan megoldást vagy eljárást alkalmaz a szervező, amelyhez más szerencsejáték fajtában történő alkalmazás esetén auditálási kötelezettség alá eső rendszert vagy eszközt vesz igénybe, a szervezőnek rendelkeznie kell az igénybe vett rendszer vagy eszköz auditálására vonatkozó okiratokkal is.
 
-(7)[^178] A játékosok számára meghirdetett nyereményszorzót tilos megváltoztatni véletlenszám-generátor igénybevételével szervezett fogadás esetén.
+(7)[^182] A játékosok számára meghirdetett nyereményszorzót tilos megváltoztatni véletlenszám-generátor igénybevételével szervezett fogadás esetén.
 
-[^174]: A 71. § (1) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^175]: A 71. § (4) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.
-[^176]: A 71. § (5) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.
-[^177]: A 71. § (6) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 6. § (2) bekezdése iktatta be.
-[^178]: A 71. § (7) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 6. § (2) bekezdése iktatta be.
+[^178]: A 71. § (1) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^179]: A 71. § (4) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.
+[^180]: A 71. § (5) bekezdését a 32/2007. (XII. 21.) PM rendelet 22. §-a iktatta be.
+[^181]: A 71. § (6) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 6. § (2) bekezdése iktatta be.
+[^182]: A 71. § (7) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 6. § (2) bekezdése iktatta be.

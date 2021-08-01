@@ -1,4 +1,4 @@
-35/A. §[^99] (1) Amennyiben a szervező távszerencsejátéknak minősülő játék mellett más szerencsejáték szervezésére is engedéllyel rendelkezik, a közös játékosi egyenlegen a játékos részére valamennyi játékkal összefüggésben vezethető a szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb ügyletek elszámolása és nyilvántartása. Közös játékosi egyenleg alkalmazása esetén egy játékosnak egy játékosi egyenlege lehet a szervezőnél.
+35/A. §[^105] (1) Amennyiben a szervező távszerencsejátéknak minősülő játék mellett más szerencsejáték szervezésére is engedéllyel rendelkezik, a közös játékosi egyenlegen a játékos részére valamennyi játékkal összefüggésben vezethető a szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb ügyletek elszámolása és nyilvántartása. Közös játékosi egyenleg alkalmazása esetén egy játékosnak egy játékosi egyenlege lehet a szervezőnél.
 
 (2) A szervező a közös játékosi egyenleget a távszerencsejáték szervezésére jogosító engedély érvényességének kezdetekor, a játékos szervezőnél már meglévő játékosi egyenlegének felhasználásával is kialakíthatja.
 
@@ -14,4 +14,4 @@
 
 (8) A játékosi egyenlegre vonatkozó rendelkezéseket a közös játékosi egyenlegre megfelelően alkalmazni kell.
 
-[^99]: A 35/A. §-t a 30/2017. (X. 10.) NGM rendelet 2. §-a iktatta be.
+[^105]: A 35/A. §-t a 30/2017. (X. 10.) NGM rendelet 2. §-a iktatta be.

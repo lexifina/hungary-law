@@ -1,3 +1,3 @@
-## 17/C. §[^51]
+## 17/C. §[^52]
 
-[^51]: A 17/C. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.
+[^52]: A 17/C. §-t a 19/2006. (VII. 31.) PM rendelet 6. §-a iktatta be, hatályon kívül helyezte a 15/2013. (V. 9.) NGM rendelet 1. § b) pontja.

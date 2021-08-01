@@ -14,8 +14,8 @@ e) egyéb visszaélés gyanúja merül fel,
 
 (2) Többszörös nyilvántartásba vétel esetén a játékosi egyenleg végleges lezárására, elszámolására és a játékos játékból való kizárására irányuló intézkedéseket valamennyi érintett játékosra és játékosi egyenlegre alkalmazni kell, biztosítva, hogy egy játékoshoz csak egy játékosi egyenleg tartozzon.
 
-(3)[^98] A szervező a (2) bekezdés szerinti kizárásról statisztikai nyilvántartást vezet, melyhez a szerencsejáték-felügyeleti hatóság részére távoli hozzáférést biztosít. A statisztikai nyilvántartás a kizárás okát és időpontját tartalmazza.
+(3)[^104] A szervező a (2) bekezdés szerinti kizárásról statisztikai nyilvántartást vezet, melyhez a szerencsejáték-felügyeleti hatóság részére távoli hozzáférést biztosít. A statisztikai nyilvántartás a kizárás okát és időpontját tartalmazza.
 
 (4) Ha szervező tudomására jut, hogy a nyilvántartásba vétel vagy a nyilvántartás az (1) bekezdésben meghatározottakon kívüli, egyéb okból – különösen az adatváltozás késedelmes bejelentése miatt – szabálytalan, a szervező a szabálytalanság kiküszöbölése iránt intézkedik. A szervező szükség esetén a játékost felhívja a szabálytanság kiküszöbölésében való közreműködésre és a játékosi egyenleget a szabálytalanság kiküszöböléséig felfüggesztheti. Ha a szabálytalanság 30 napon belül sem kiküszöbölhető és emiatt a jogszabálynak megfelelő játék nem biztosítható, a szervező a játékosi számla lezárása és a játékos kizárása iránt intézkedik.
 
-[^98]: A 33. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.
+[^104]: A 33. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § b) pontja szerint módosított szöveg.

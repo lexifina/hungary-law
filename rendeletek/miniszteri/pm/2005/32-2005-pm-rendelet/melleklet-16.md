@@ -2,7 +2,7 @@
 
 ## A kártyaterem üzemeltetésére szóló működési engedélyben a tartalmi és formai elemként szerepeltetni kell
 
-## a)[^297] a kártyaterem működésére szóló engedély megnevezését,
+## a)[^306] a kártyaterem működésére szóló engedély megnevezését,
 
 ## b) Magyarország címerét,
 
@@ -28,7 +28,7 @@
 
 ## id) a működési engedély másra nem ruházható át.
 
-16. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^298]
+16. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^307]
 
-[^297]: A 15. számú melléklet a) pontja a 30/2017. (X. 10.) NGM rendelet 9. §-a szerint módosított szöveg.
-[^298]: A 16. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
+[^306]: A 15. számú melléklet a) pontja a 30/2017. (X. 10.) NGM rendelet 9. §-a szerint módosított szöveg.
+[^307]: A 16. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.

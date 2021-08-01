@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-32-20-5
 | 2017-11-10 | 2005-32-20-53.30 | 30/2017. (X. 10.) NGM rendelet |
 | 2017-12-31 | 2005-32-20-53.31 | 30/2017. (X. 10.) NGM rendelet |
 | 2020-09-02 | 2005-32-20-53.32 | 10/2020. (VIII. 30.) NVTNM rendelet |
+| 2021-08-01 | 2005-32-20-53.33 | 12/2021. (VII. 30.) NVTNM rendelet |

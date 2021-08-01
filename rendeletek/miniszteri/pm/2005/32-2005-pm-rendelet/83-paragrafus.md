@@ -1,3 +1,3 @@
-## 82. §[^238]
+## 82. §[^243]
 
-[^238]: A 82. §-t a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 31. pontja hatályon kívül helyezte.
+[^243]: A 82. §-t a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 31. pontja hatályon kívül helyezte.

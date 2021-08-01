@@ -1,6 +1,6 @@
 ## Elszámolás, nyilvántartás
 
-73. § (1)[^191] A fogadás szervezője az Szjtv.-ben meghatározottak szerint időközi elszámolást vagy végelszámolást készít, amelyet a szerencsejáték-felügyeleti hatósághoz kell benyújtania. A fogadás szervezőjére a 22. § (2), (4) és (8)–(9) bekezdését alkalmazni kell azzal, hogy a sorsolásos játékon fogadást, sorsjegyen fogadószelvényt kell érteni.
+73. § (1)[^196] A fogadás szervezője az Szjtv.-ben meghatározottak szerint időközi elszámolást vagy végelszámolást készít, amelyet a szerencsejáték-felügyeleti hatósághoz kell benyújtania. A fogadás szervezőjére a 22. § (2), (4) és (8)–(9) bekezdését alkalmazni kell azzal, hogy a sorsolásos játékon fogadást, sorsjegyen fogadószelvényt kell érteni.
 
 (2) Az időszaki és végelszámolásnak legalább a következő adatokat kell tartalmaznia:
 
@@ -34,9 +34,9 @@ b) bukmékeri rendszerű fogadás esetén
 
 7. az át nem vett nyereményeket és az emiatt fizetendő játékadót.
 
-(3)[^192] Számítógépes rendszer alkalmazásával történő elszámolás esetén az alkalmazásra kerülő számítógépes programok és az ehhez kapcsolódó nyilvántartási rendszerek leírását meg kell küldeni a szerencsejáték-felügyeleti hatóságnak.
+(3)[^197] Számítógépes rendszer alkalmazásával történő elszámolás esetén az alkalmazásra kerülő számítógépes programok és az ehhez kapcsolódó nyilvántartási rendszerek leírását meg kell küldeni a szerencsejáték-felügyeleti hatóságnak.
 
 (4) A totalizatőri rendszerű fogadások esetén a meg nem nyert és az át nem vett nyeremények elkülönített alapjaira, valamint a nyeremények halmozódására a 22. § (10)–(12) bekezdését megfelelően alkalmazni kell.
 
-[^191]: A 73. § (1) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 8. §-ával megállapított szöveg.
-[^192]: A 73. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § d) pontja szerint módosított szöveg.
+[^196]: A 73. § (1) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 8. §-ával megállapított szöveg.
+[^197]: A 73. § (3) bekezdése a 17/2017. (VI. 30.) NGM rendelet 11. § d) pontja szerint módosított szöveg.

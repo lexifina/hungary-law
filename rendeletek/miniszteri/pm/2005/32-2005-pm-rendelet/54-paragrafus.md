@@ -1,12 +1,12 @@
 ## A játékkaszinó működtetésének személyi feltételei
 
-54. § (1)[^116]
+54. § (1)[^122]
 
-(2)[^117] Az alkalmazott képesítésére, szakmai gyakorlatára vonatkozó feltételeket tanúsító okiratok hiteles másolatát a szervező köteles a foglalkoztatás megkezdésétől a munkaviszony fennállásáig a munkaszerződések mellékleteként megőrizni.
+(2)[^123] Az alkalmazott képesítésére, szakmai gyakorlatára vonatkozó feltételeket tanúsító okiratok hiteles másolatát a szervező köteles a foglalkoztatás megkezdésétől a munkaviszony fennállásáig a munkaszerződések mellékleteként megőrizni.
 
 (3) A szervező köteles alkalmazottjának munkaviszonyát haladéktalanul megszüntetni abban az esetben, ha a munkaviszony fennállása alatt e rendeletben meghatározott alkalmazási feltételek bármelyike nem áll fenn.
 
-(4)[^118] A játékkaszinóban a következő szakmai képesítési feltételek szükségesek:
+(4)[^124] A játékkaszinóban a következő szakmai képesítési feltételek szükségesek:
 
 a) igazgatóként, igazgató-helyettesként felsőfokú iskolai végzettség vagy legalább öt éves játékkaszinóban szerzett szakmai gyakorlat,
 
@@ -26,6 +26,6 @@ h) pénztárosként középfokú iskolai végzettség és legalább két éves p
 
 i) videó-személyzetként középfokú iskolai végzettség.
 
-[^116]: Az 54. § (1) bekezdését a 16/2010. (IV. 28.) PM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
-[^117]: Az 54. § (2) bekezdése a 16/2010. (IV. 28.) PM rendelet 18. § (10) bekezdése szerint módosított szöveg.
-[^118]: Az 54. § (4) bekezdése a 49/2015. (XII. 30.) NGM rendelet 3. §-ával megállapított szöveg.
+[^122]: Az 54. § (1) bekezdését a 16/2010. (IV. 28.) PM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^123]: Az 54. § (2) bekezdése a 16/2010. (IV. 28.) PM rendelet 18. § (10) bekezdése szerint módosított szöveg.
+[^124]: Az 54. § (4) bekezdése a 49/2015. (XII. 30.) NGM rendelet 3. §-ával megállapított szöveg.

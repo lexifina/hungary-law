@@ -8,6 +8,6 @@
 
 (4) A szervező az ellenőrök felszólítására bármely, a nyilvántartásában lévő kártyát köteles helyszíni vagy további ellenőrzés céljából átadni.
 
-(5)[^210] Kártyaterem tekintetében alkalmazni kell a 66. § (1) és (3)–(5) bekezdését.
+(5)[^215] Kártyaterem tekintetében alkalmazni kell a 66. § (1) és (3)–(5) bekezdését.
 
-[^210]: A 73/I. § (5) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 10. §-ával megállapított szöveg.
+[^215]: A 73/I. § (5) bekezdése a 10/2020. (VIII. 30.) NVTNM rendelet 10. §-ával megállapított szöveg.

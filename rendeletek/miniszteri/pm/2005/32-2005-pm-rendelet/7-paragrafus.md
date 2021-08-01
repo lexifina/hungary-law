@@ -16,33 +16,33 @@ f) a pénznyerő automatával játszható játék(ok) nevét,
 
 g) a pénznyerő automata üzemeltetésére vonatkozó adatokat,
 
-h)[^23] a legmagasabb tét megjelölését,
+h)[^24] a legmagasabb tét megjelölését,
 
 i) a nyeremény kifizetésének módját,
 
 j) a legnagyobb nyeremény összegét alapesetben és halmozottan,
 
-k)[^24] a gép mechanikus vagy elektromechanikus számlálóinak hitelesítésekor leolvasott állását,
+k)[^25] a gép mechanikus vagy elektromechanikus számlálóinak hitelesítésekor leolvasott állását,
 
 l) a nyerési esélyeket 0 és 1 közötti valószínűségi értékekkel vagy százalékban,
 
 m) a pénznyerő automata játékhelyeinek számát,
 
-n)[^25]
+n)[^26]
 
 o) a pénznyerő automata hitelesítési vizsgálatának összegzését.
 
-(3)[^26]
+(3)[^27]
 
-(4)[^27]
+(4)[^28]
 
-(5)[^28]
+(5)[^29]
 
 (6) A hitelesítési kártyát a hitelesítéssel egyidejűleg a pénznyerő automatán jól láthatóan és oly módon kell elhelyezni, hogy azt kizárólag roncsolásos eljárással vagy a törvényes tanúsító jel megsértésével lehessen eltávolítani.
 
-[^23]: A 7. § (2) bekezdésének h) pontja a 32/2007. (XII. 21.) PM rendelet 4. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
-[^24]: A 7. § (2) bekezdés k) pontja a 29/2013. (VII. 3.) NGM rendelet 7. § h) pontja szerint módosított szöveg.
-[^25]: A 7. § (2) bekezdés n) pontját a 29/2013. (VII. 3.) NGM rendelet 7. § i) pontja hatályon kívül helyezte.
-[^26]: A 7. § (3) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 4. pontja hatályon kívül helyezte.
-[^27]: A 7. § (4) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 4. pontja hatályon kívül helyezte.
-[^28]: A 7. § (5) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 4. pontja hatályon kívül helyezte.
+[^24]: A 7. § (2) bekezdésének h) pontja a 32/2007. (XII. 21.) PM rendelet 4. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 30. § (5)–(6) bekezdését.
+[^25]: A 7. § (2) bekezdés k) pontja a 29/2013. (VII. 3.) NGM rendelet 7. § h) pontja szerint módosított szöveg.
+[^26]: A 7. § (2) bekezdés n) pontját a 29/2013. (VII. 3.) NGM rendelet 7. § i) pontja hatályon kívül helyezte.
+[^27]: A 7. § (3) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 4. pontja hatályon kívül helyezte.
+[^28]: A 7. § (4) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 4. pontja hatályon kívül helyezte.
+[^29]: A 7. § (5) bekezdését a 10/2020. (VIII. 30.) NVTNM rendelet 15. § 4. pontja hatályon kívül helyezte.

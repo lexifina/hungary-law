@@ -12,7 +12,7 @@
 
 ## A bizonylatot a pénztáros és a teremvezető írja alá.
 
-21. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^303]
+21. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^312]
 
 Pénztár borravaló bizonylat kitöltése és kezelése
 
@@ -22,4 +22,4 @@ A „Kártyaterem neve” és „Kártyaterem címe” rovat kitöltése törté
 
 A játéknap során a borravaló tartóban összegyűlt és megszámolt zsetonokat darabszám, címlet és összeg szerint kell a bizonylaton feltűntetni, majd összesíteni. A bizonylatot a teremvezető, a pénztáros és a játékvezető írja alá.
 
-[^303]: A 21. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.
+[^312]: A 21. számú mellékletet a 16/2010. (IV. 28.) PM rendelet 17. §-a iktatta be.

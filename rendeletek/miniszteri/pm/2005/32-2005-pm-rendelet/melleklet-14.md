@@ -20,6 +20,6 @@
 
 ## i) az e) és f) pontok szerinti adatok védelme érdekében az ezen adattartalmat letakaró fóliát.
 
-14. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^295]
+14. számú melléklet a 32/2005. (X. 21.) PM rendelethez[^304]
 
-[^295]: A 14. számú mellékletet újonnan a 32/2007. (XII. 21.) PM rendelet 29. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja.
+[^304]: A 14. számú mellékletet újonnan a 32/2007. (XII. 21.) PM rendelet 29. §-a iktatta be, hatályon kívül helyezte a 29/2013. (VII. 3.) NGM rendelet 7. § r) pontja.
