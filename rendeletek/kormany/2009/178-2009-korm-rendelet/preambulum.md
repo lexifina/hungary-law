@@ -1,1 +1,0 @@
-A Kormány a védjegyek és a földrajzi árujelzők oltalmáról szóló 1997. évi XI. törvény 121. §-a (1) bekezdésének b) pontjában foglalt felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdésének b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:

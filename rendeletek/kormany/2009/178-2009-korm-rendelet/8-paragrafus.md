@@ -1,1 +1,0 @@
-## Analitikai és érzékszervi paraméterek
