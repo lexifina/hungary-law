@@ -1,1 +1,1 @@
-220. §
+220. § A 2021. évi XXVI. törvény 3. § (1) bekezdése az „ingatlanok, ingatlanok tulajdoni hányada” szövegrész helyett az „ingatlanokat, ingatlanok tulajdoni hányadát” szöveggel, az „átvezetéssel az Alapítvány tulajdonába kerülnek” szövegrész helyett az „átvezetéssel alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni” szöveggel lép hatályba.
