@@ -1,4 +1,4 @@
-79/D. §[^222] (1) A Nagy-Britannia és Észak-Írország Egyesült Királysága állampolgárára (a továbbiakban: egyesült királysági állampolgár) és az egyesült királysági állampolgár harmadik országbeli állampolgár családtagjára vonatkozó, 2021. január 1-jén vagy azt követően indult vagy megismételt eljárásokban a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet rendelkezéseit kell alkalmazni.
+79/D. §[^226] (1) A Nagy-Britannia és Észak-Írország Egyesült Királysága állampolgárára (a továbbiakban: egyesült királysági állampolgár) és az egyesült királysági állampolgár harmadik országbeli állampolgár családtagjára vonatkozó, 2021. január 1-jén vagy azt követően indult vagy megismételt eljárásokban a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet rendelkezéseit kell alkalmazni.
 
 (2) A Tv. 95. § (4) bekezdés c) pontja alkalmazásában a regionális igazgatóság és a Főigazgatóság az életközösség tényleges fennállásának megállapítása érdekében a személyi adat- és lakcímnyilvántartásból adatot igényel arra vonatkozóan, hogy az egyesült királysági állampolgárnak a harmadik országbeli állampolgár családtag lakóhelyével vagy a tartózkodási helyével azonos-e a lakóhelye vagy a tartózkodási helye.
 
@@ -30,4 +30,4 @@ a) – a b) pont szerinti eset kivételével – a jövedelemszerzés helye szer
 
 b) ha a jövedelemszerzés helye változó, az egyéni vállalkozás bejegyzett irodájának helye szerint illetékes regionális igazgatóságon
 
-[^222]: A 79/D. §-t a 636/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^226]: A 79/D. §-t a 636/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
