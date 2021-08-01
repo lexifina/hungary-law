@@ -26,7 +26,7 @@ c) hatósági hozzájárulással ellátott érvényes meghívólevéllel;
 
 d) lefoglalt és kifizetett szálláshely meglétét igazoló okirattal;
 
-e)[^99] a Magyarország területén tartózkodási vízummal vagy tartózkodási engedéllyel, bevándorolt vagy letelepedett jogállással, külön törvény szerint tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező, illetve menekültként elismert családtag közjegyzői okiratba foglalt, a kérelmező lakhatását biztosító nyilatkozatával vagy
+e)[^99] a Magyarország területén tartózkodási vízummal vagy tartózkodási engedéllyel, bevándorolt vagy letelepedett jogállással, külön törvény szerint tartózkodási kártyával, állandó tartózkodási kártyával, huzamos tartózkodási kártyával rendelkező, illetve menekültként elismert családtag közjegyzői okiratba foglalt, a kérelmező lakhatását biztosító nyilatkozatával vagy
 
 f) más hitelt érdemlő módon.
 
@@ -50,7 +50,7 @@ g)[^105] a kérelmező által Magyarország területén folytatni kívánt vagy 
 
 h) külföldről folyósított rendszeres jövedelemről szóló igazolással;
 
-i)[^106] a Magyarország területén tartózkodási vízummal vagy tartózkodási engedéllyel, bevándorolt vagy letelepedett jogállással, külön törvény szerint tartózkodási kártyával vagy állandó tartózkodási kártyával rendelkező, illetve menekültként elismert családtag közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozatával, valamint a tartást vállaló személy tartási képességét igazoló okirattal, vagy
+i)[^106] a Magyarország területén tartózkodási vízummal vagy tartózkodási engedéllyel, bevándorolt vagy letelepedett jogállással, külön törvény szerint tartózkodási kártyával, állandó tartózkodási kártyával, huzamos tartózkodási kártyával rendelkező, illetve menekültként elismert családtag közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozatával, valamint a tartást vállaló személy tartási képességét igazoló okirattal, vagy
 
 j) más hitelt érdemlő módon.
 
@@ -88,14 +88,14 @@ d) a felügyeleti joggal rendelkező személy vagy személyek akaratnyilvánít�
 [^96]: A 29. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^97]: A 29. § (3a) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 35. § (2) bekezdése iktatta be.
 [^98]: A 29. § (4) bekezdés nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^99]: A 29. § (4) bekezdés e) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^99]: A 29. § (4) bekezdés e) pontja a 259/2021. (V. 20.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^100]: A 29. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 35. § (3) bekezdésével megállapított, a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
 [^101]: A 29. § (4) bekezdés nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése, a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
 [^102]: A 29. § (6) bekezdés a) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^103]: A 29. § (6) bekezdés b) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^104]: A 29. § (6) bekezdés c) pontja a 314/2009. (XII. 28.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^105]: A 29. § (6) bekezdés g) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^106]: A 29. § (6) bekezdés i) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^106]: A 29. § (6) bekezdés i) pontja a 259/2021. (V. 20.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^107]: A 29. § (7) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
 [^108]: A 29. § (8) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 17. §-a iktatta be.
 [^109]: A 29. § (9) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 17. §-a iktatta be.

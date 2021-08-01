@@ -16,7 +16,7 @@ d) a bevándorlási engedéllyel, letelepedési engedéllyel vagy nemzeti letele
 
 e) a Tv. 30. § (1) bekezdés a) pontja alapján kiállított ideiglenes tartózkodásra jogosító igazolással,
 
-f)[^366] a külön törvény szerinti tartózkodási kártyával vagy állandó tartózkodási kártyával
+f)[^366] a külön törvény szerinti tartózkodási kártyával, állandó tartózkodási kártyával vagy huzamos tartózkodási kártyával,
 
 g)[^367] a menekült státuszt vagy kiegészítő védelem fennállását igazoló okmánnyal,
 
@@ -28,7 +28,7 @@ Magyarország területén történő tartózkodás.
 
 [^364]: A 107. § (3) bekezdés záró szövegrésze a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^365]: A 107. § (3) bekezdés a) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^366]: A 107. § (3) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^366]: A 107. § (3) bekezdés f) pontja a 259/2021. (V. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^367]: A 107. § (3) bekezdés g) pontját a 81/2012. (IV. 18.) Korm. rendelet 7. §-a iktatta be.
 [^368]: A 107. § (3) bekezdés h) pontját a 81/2012. (IV. 18.) Korm. rendelet 7. §-a iktatta be.
 [^369]: A 107. § (3) bekezdés i) pontját a 113/2016. (V. 30.) Korm. rendelet 48. §-a iktatta be.

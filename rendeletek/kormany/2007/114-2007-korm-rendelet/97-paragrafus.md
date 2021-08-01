@@ -2,7 +2,7 @@
 
 ## Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ szakhatósági eljárása[^323]
 
-97. §[^324] (1)[^325] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát – elsőfokon az Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot, másodfokon a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert szakhatóságként jelöli ki.
+97. §[^324] (1)[^325] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének kiadására, illetve visszavonására irányuló eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát – elsőfokon az Alkotmányvédelmi Hivatalt és a Terrorelhárítási Központot, másodfokon a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert szakhatóságként jelöli ki.
 
 (2) A regionális igazgatóság az ideiglenes letelepedési engedély első ízben történő kiadása, a nemzeti letelepedési engedély vagy az EK letelepedési engedély iránti kérelmet benyújtó harmadik országbeli állampolgár központi idegenrendészeti nyilvántartásban kezelt adatait továbbítja az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ részére. Az Alkotmányvédelmi Hivatal és a Terrorelhárítási Központ megkeresésére a regionális igazgatóság a kérelemhez csatolt okiratokba betekintést biztosít, illetve azokról másolatot készít.
 
@@ -17,7 +17,7 @@
 [^322]: A 96. § a 81/2012. (IV. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^323]: A 97. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.
 [^324]: A 97. § a 290/2010. (XII. 21.) Korm. rendelet 54. § (1) bekezdésével megállapított szöveg.
-[^325]: A 97. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^325]: A 97. § (1) bekezdése a 259/2021. (V. 20.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^326]: A 97. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^327]: A 97. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^328]: A 97. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 91. § c) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

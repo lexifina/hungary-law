@@ -1,4 +1,4 @@
-## 181/C. §[^566] A befogadott és az emberkereskedelem áldozatává vált harmadik országbeli állampolgár részére e rendelet alapján, 2013. szeptember 1-jét megelőzően megítélt támogatások 2013. október 31-ig folyósíthatók.
+## 181/C. §[^567] A befogadott és az emberkereskedelem áldozatává vált harmadik országbeli állampolgár részére e rendelet alapján, 2013. szeptember 1-jét megelőzően megítélt támogatások 2013. október 31-ig folyósíthatók.
 
 ## X. Fejezet
 
@@ -48,7 +48,7 @@ r) 142. § (3) bekezdése
 
 a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
 
-(3)–(6)[^567]
+(3)–(6)[^568]
 
-[^566]: A 181/C. §-t a 221/2013. (VI. 24.) Korm. rendelet 27. §-a iktatta be.
-[^567]: A 182. § (3)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 93. pontja hatályon kívül helyezte.
+[^567]: A 181/C. §-t a 221/2013. (VI. 24.) Korm. rendelet 27. §-a iktatta be.
+[^568]: A 182. § (3)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 93. pontja hatályon kívül helyezte.
