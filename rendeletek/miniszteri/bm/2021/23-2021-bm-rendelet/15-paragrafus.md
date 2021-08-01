@@ -1,0 +1,3 @@
+## 14. § A Rendőrség légiközlekedés-rendészeti feladatai ellátásának rendjéről, valamint a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány helyszíni elvételének szabályairól szóló 19/2009. (VI. 18.) IRM rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A repüléssel összefüggő rendészeti feladatokat – az e rendeletben foglaltak szerint – az illetékes városi (kerületi) rendőrkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a Budapest Liszt Ferenc Nemzetközi Repülőtéren a Repülőtéri Rendőr Igazgatóság, illetve országos illetékességgel a Készenléti Rendőrség látja el.”

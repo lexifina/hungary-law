@@ -1,0 +1,11 @@
+## 18. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet 24/A. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+## [A Szabs. tv. 75. § (1a) bekezdése alapján a lefoglalás érdekében a birtokostól ideiglenesen elvett dologról átvételi elismervényt kell adni a birtokosnak, amelyben fel kell tüntetni legalább]
+
+## „c) az ideiglenesen elvett dolog megnevezését, azonosító adatait, ismertetőjegyeit, mennyiségét és – ha az a szabálysértési ügy szempontjából releváns – a becsült forgalmi értékét, valamint”
+
+## 7. A közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványokról, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet módosításáról szóló 21/2013. (VI. 7.) BM rendelet módosítása
+
+19. § (1) A közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványokról, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet módosításáról szóló 21/2013. (VI. 7.) BM rendelet 1. melléklete helyébe a 6. melléklet lép.
+
+(2) A közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványokról, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény végrehajtásával kapcsolatos rendelkezésekről, valamint ahhoz kapcsolódó egyes rendeletek módosításáról szóló 22/2012. (IV. 13.) BM rendelet módosításáról szóló 21/2013. (VI. 7.) BM rendelet 3. melléklete helyébe a 7. melléklet lép.
