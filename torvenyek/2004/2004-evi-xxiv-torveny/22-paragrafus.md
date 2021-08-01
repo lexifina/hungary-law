@@ -30,6 +30,6 @@ b) a polgári célú pirotechnikai tevékenységek engedélyezése igazgatási s
 
 a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásához szükséges megelőző és időszakos megvizsgálásának szabályait;
 
-b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, és kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet;
+b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet, valamint meghatározza az (1a) bekezdés szerinti nemzeti kapcsolattartó pontként kijelölt szervezet által ellátandó feladatokat;
 
 c) kijelölje a lőfegyverek hatástalanításának végrehajtására jogosult szervezetet.
