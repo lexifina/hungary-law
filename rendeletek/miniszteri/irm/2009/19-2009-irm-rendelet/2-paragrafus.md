@@ -2,7 +2,7 @@
 
 2. § (1) A Rendőrség légirendészeti tevékenysége során ellenőrzi:
 
-a)[^3] Magyarország légterének a polgári légiközlekedésre vonatkozó szabályok szerinti igénybevételét a légtérben,
+a)[^4] Magyarország légterének a polgári légiközlekedésre vonatkozó szabályok szerinti igénybevételét a légtérben,
 
 b) a légiközlekedésre vonatkozó szabályok megtartását, a légijármű használatának szabályszerűségét, az okmányokra és a felszerelésekre vonatkozó előírások megtartását, a légijármű birtoklásának jogszerűségét, az üzemben tartó, illetőleg a használó személyazonosító adatait,
 
@@ -20,10 +20,12 @@ h) az Lt. 69. §-ában meghatározott felelősségbiztosítási fedezet fennáll
 
 i) a repülőterek és biztonsági övezetük állapotát és üzemeltetését.
 
-(2) A Parancsnokság hatásköre az (1) bekezdésben meghatározott ellenőrzésekre terjed ki.
+(2)[^5] A Készenléti Rendőrség hatásköre az (1) bekezdésben meghatározott ellenőrzésekre terjed ki.
 
-(3) A megyei (fővárosi) rendőr-főkapitányság hatásköre az (1) bekezdés b)–i) pontjában meghatározott ellenőrzésekre terjed ki.
+(3)[^6] A megyei (fővárosi) rendőr-főkapitányság és a Repülőtéri Rendőr Igazgatóság hatásköre az (1) bekezdés b)–i) pontjában meghatározott ellenőrzésekre terjed ki.
 
 (4) A városi (kerületi) rendőrkapitányság hatásköre az (1) bekezdés b), d), f) és h) pontjában meghatározott ellenőrzésekre terjed ki.
 
-[^3]: A 2. § (1) bekezdés a) pontja a 68/2011. (XII. 30.) BM rendelet 33. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés a) pontja a 68/2011. (XII. 30.) BM rendelet 33. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdése a 23/2021. (VII. 29.) BM rendelet 15. §-ával megállapított szöveg.
+[^6]: A 2. § (3) bekezdése a 23/2021. (VII. 29.) BM rendelet 15. §-ával megállapított szöveg.
