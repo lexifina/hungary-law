@@ -11,3 +11,7 @@
 (4) A tartózkodási kártya iránti kérelem tárgyában indult eljárásban az eljáró idegenrendészeti hatóság az érdemi döntést a kérelem benyújtásától számított hetven napon belül hozza meg.
 
 (5) A tartózkodási kártya az érvényességi ideje alatt igazolja a tartózkodási jog fennállását.
+
+(6) A tartózkodási kártya kiadásakor, valamint a tartózkodási kártya cseréje és pótlása során az idegenrendészeti hatóság az (EU) 2019/1157 európai parlamenti és tanácsi rendelet szerint jár el.
+
+(7) A harmadik országbeli állampolgár családtag az arcképmása, valamint – az (EU) 2019/1157 európai parlamenti és tanácsi rendeletben meghatározott kivétellel – az ujjnyomata rögzítését tűrni köteles. Az ujjnyomat rögzítése hatéves kortól kötelező.
