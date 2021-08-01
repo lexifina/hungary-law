@@ -1,0 +1,3 @@
+3. § (1) Árutermő szőlőültetvény telepítéséhez osztályba sorolt szőlőfajta használható fel.
+
+(2) Szőlőfajta osztályba sorolásához – a növénytermesztési hatóság engedélyével – el kell végezni a szőlőfajta termesztési alkalmassági vizsgálatát. A növénytermesztési hatóság a termesztési alkalmassági vizsgálat e törvény végrehajtására kiadott miniszteri rendeletben meghatározott eredményei alapján dönt a szőlőfajta osztályba sorolásáról. Az osztályba sorolt, borkészítésre alkalmas szőlőfajtákról a növénytermesztési hatóság nyilvántartást vezet, amelyet e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint közzé kell tenni.

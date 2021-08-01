@@ -1,0 +1,1 @@
+8. § Az Európai Unió közvetlenül alkalmazandó jogi aktusa értelmében nem engedélyezett borászati eljárás a borászati hatóság engedélyével, kísérleti céllal alkalmazható. A kiadott engedélyekről a borászati hatóság közhiteles nyilvántartást vezet.
