@@ -1,5 +1,3 @@
-## vehet részt.
-
 ## 6. § Nem lehet a kitoloncolás foganatosítása során
 
 a) a kitoloncolt személy légzőképességét bármilyen módon korlátozni, őt ragasztószalaggal vagy más eszközzel elnémítani;
