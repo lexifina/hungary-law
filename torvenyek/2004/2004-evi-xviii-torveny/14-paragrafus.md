@@ -1,5 +1,0 @@
-## III. Fejezet
-
-## BORÁSZATI TERMÉKEK TÁROLÁSA, NYILVÁNTARTÁSA
-
-14–15. §

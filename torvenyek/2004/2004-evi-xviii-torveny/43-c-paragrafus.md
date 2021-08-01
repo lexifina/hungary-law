@@ -1,1 +1,0 @@
-43/C. § A növénytermesztési hatóság a 8. § szerinti hegybírói ellenőrzésről megküldött jegyzőkönyv megállapításai alapján azt a személyt, aki borszőlőültetvényt a telepítési engedélyben foglaltaktól eltérően telepített, ötvenezer forint mulasztási bírság megfizetésére kötelezi.
