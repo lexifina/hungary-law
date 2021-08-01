@@ -1,0 +1,3 @@
+86. § (1) A NÉBIH a földterület használóját a hegyközség szőlő termőhelyi kataszterben nyilvántartott terület hasznosításához való hozzájárulásának 180 napon belül történő beszerzésére kötelezi, ha a földterületen végrehajtott – a csemegeszőlő-telepítést kivéve – gyümölcsös, erdő vagy fásítás telepítéséhez, faiskola, halastó és nádas létesítéséhez, valamint a termőföld más célú hasznosításához a földterület használója elmulasztotta a hegyközség hozzájárulásának beszerzését.
+
+(2) Amennyiben a földterület használója az (1) bekezdésben meghatározott kötelezettségét az (1) bekezdésben meghatározott határidőn belül nem teljesíti, a NÉBIH a földterület használóját a szőlő termőhelyi kataszterben nyilvántartott területen az eredeti állapot helyreállítására kötelezi.

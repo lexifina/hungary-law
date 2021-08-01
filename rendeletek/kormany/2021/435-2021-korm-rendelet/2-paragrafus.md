@@ -1,0 +1,19 @@
+## II. Fejezet
+
+## SZŐLŐTERMESZTÉS
+
+## 1. Szőlő termőhelyi kataszteri eljárás
+
+2. § (1) A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) a szőlő termőhelyi kataszterbe sorolt földterületekről szőlő termőhelyi kataszter nyilvántartást vezet.
+
+(2) A szőlő termőhelyi kataszter nyilvántartás tartalmazza a szőlő termőhelyi kataszterbe sorolt földterület
+
+a) fekvése szerinti település nevét,
+
+b) helyrajzi számát,
+
+c) szőlőtermesztésre való alkalmasságának minősítését,
+
+d) minősítés alapján meghatározott pontértékét, valamint
+
+e) hektárban kifejezett nagyságát.

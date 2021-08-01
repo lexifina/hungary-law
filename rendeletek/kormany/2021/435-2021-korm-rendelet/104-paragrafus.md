@@ -1,0 +1,1 @@
+## 103. § A Nemzeti Földügyi Központ feladatairól szóló 158/2019. (VI. 28.) Korm. rendelet 4/A. § d) pontjában az „a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvényben” szövegrész helyébe az „a szőlészetről és borászatról szóló 2020. évi CLXIII. törvényben” szöveg lép.

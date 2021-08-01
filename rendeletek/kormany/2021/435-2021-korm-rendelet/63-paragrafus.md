@@ -1,0 +1,3 @@
+63. § (1) A miniszter a Vt. 116/A. § (10) bekezdésének megfelelően a Minisztérium honlapján közzéteszi a kérelmet, ha a részletes vizsgálat során megállapítást nyer, hogy azt az arra jogosult nyújtotta be, és a termékleírás, valamint az egységes dokumentum megfelel az e rendeletben és az Európai Unió közvetlenül alkalmazandó jogi aktusaiban előírt feltételeknek.
+
+(2) Az arra jogosult személyek által a kérelemmel szemben a Vt. 116/A. § (10) bekezdése alapján benyújtott felszólalás vagy kifogás (a továbbiakban együtt: kifogás) elbírálása előtt a miniszter nyilatkozattételre hívja fel a kérelmezőt. A miniszter a kifogást megküldi a BET részére, amely véleményt nyilvánít a kifogással kapcsolatban a miniszter által megállapított határidőn belül.
