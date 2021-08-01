@@ -1,1 +1,1 @@
-6. §
+6. § Az Eger 6598/1 helyrajzi számú ingatlan 3703/7260 tulajdoni hányadát és az Eger 8756/2 helyrajzi számú ingatlant a magyar állam tulajdonszerzését követően – a 4. § alkalmazásával – ingyenesen, nyilvántartási értéken történő átvezetéssel az Egri Főegyházmegye tulajdonába kell adni.
