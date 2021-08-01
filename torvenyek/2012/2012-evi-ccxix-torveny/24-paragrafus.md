@@ -1,6 +1,6 @@
 24. § (1) A hegyközségi tanács, ennek hiányában a hegyközségi választmány kizárólagos hatáskörébe tartozik
 
-a) a borvidék területére vagy annak egy részére kiterjedő termőterülettel rendelkező oltalom alatt álló eredetmegjelölések és földrajzi jelzések 2011. december 31-ig benyújtott termékleírásával,
+a) a borvidék területére vagy annak egy részére kiterjedő termőterülettel rendelkező oltalom alatt álló eredetmegjelölések és földrajzi jelzések termékleírásával,
 
 b) a borvidéki rendtartással,
 

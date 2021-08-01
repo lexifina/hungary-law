@@ -4,7 +4,7 @@
 
 (3) A szervezeti és működési szabályzatban kell meghatározni a közigazgatási hatósági ügyben eljáró személy kizárás miatt vagy bármely más okból való akadályoztatása esetére a feltételeknek megfelelő másik személy kijelölésére vonatkozó szabályokat.
 
-(4) E törvény, valamint a szőlőtermesztésről és a borgazdálkodásról szóló törvény alapján a hegybíró hatáskörébe tartozó ügyekben
+(4) E törvény, valamint a Btv. alapján a hegybíró hatáskörébe tartozó ügyekben
 
 a) nincs helye sommás eljárásnak,
 

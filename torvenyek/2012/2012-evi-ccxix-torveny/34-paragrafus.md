@@ -4,7 +4,7 @@
 
 a) az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelmére, valamint az ingatlanok rendeltetésszerű használatával kapcsolatos létesítmények karbantartására vonatkozó szabályokat;
 
-b) a csemegeszőlő-telepítést kivéve gyümölcsös, erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítására vonatkozó hegybírói hozzájárulás megadására vagy elutasítására vonatkozó szabályokat.
+b) a csemegeszőlő-telepítést kivéve gyümölcsös, erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítására vonatkozó hegyközségi hozzájárulás megadására vagy elutasítására vonatkozó szabályokat.
 
 (2a) A rendtartás (2) bekezdés szerinti előírásait a borszőlő termőhelyi kataszterbe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
 

@@ -24,9 +24,11 @@ g) az engedély nélkül telepített szőlőültetvényekről értesíti a növ�
 
 h) a számítógépes nyilvántartásában foglalt adatokat rendszerezi és összegezi,
 
-i) a szőlőtermesztésről és a borgazdálkodásról szóló törvényben szereplő közigazgatási szervek, valamint a borgazdálkodás körébe tartozó ellenőrzéseket végző szervezetek számára megkeresésre adatot szolgáltat,
+i) a szőlészetről és borászatról szóló törvényben (a továbbiakban: Btv.) szereplő közigazgatási szervek, valamint a borgazdálkodás körébe tartozó ellenőrzéseket végző szervezetek számára megkeresésre adatot szolgáltat,
 
 j) a szőlőtermelőnek a szőlőterületére, szőlőfajtáira, a tárgyévi termésmennyiségére és a szőlőfelhasználására vonatkozó adatokat egyedileg azonosítható módon, jövedéki ellenőrzés elősegítése céljára adathordozón vagy elektronikus úton továbbítja a vámhatóságnak.
+
+k) ellenőrzi a neki címzett bejelentések és kérelmek, valamint az azok alapján kiadott hatósági bizonyítványok valóságtartalmát.
 
 (3) Ha a hegybíró a működési területén belüli hegyközségi tagnál irányítási jogviszonyban, munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban áll, ezen tag ügyeiben, valamint saját és közvetlen hozzátartozói ügyeiben nem járhat el. Az ezen ügyekkel kapcsolatos közigazgatási feladatok ellátására a Hegyközségek Nemzeti Tanácsának főtitkára jelöli ki az illetékes hegybírót.
 
