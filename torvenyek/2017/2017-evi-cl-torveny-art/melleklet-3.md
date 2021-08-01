@@ -245,7 +245,3 @@
 ## 4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
 
 ## fizeti meg.
-
-## 4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék
-
-## A természetes személy a Tbj. 43. § (1) bekezdése alapján előírt járulékfizetési kötelezettségét a tárgyhót követő hónap 12. napjáig vagy az állami adó és vámhatóság által meghatározott időpontig teljesíti.
