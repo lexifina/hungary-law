@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti munkáltatók munkavállalói részére a pótszabadság idejére járó távolléti díj és munkáltatói közteher összege a munkáltató részére a központi költségvetésből kerül megtérítésre.
 
-(3)[^1] A munkavállaló a pótszabadság igényléséhez a munkáltatójának bemutatja a gyermek eredeti születési anyakönyvi kivonatát, illetve halva született gyermek esetén a halvaszületés tényét bizonyító okirat eredeti példányát, és írásban nyilatkozik arról, hogy a szülői felügyeletet gyakorló vér szerinti vagy örökbefogadó apa szülői felügyeleti jogát bíróság nem szünetelteti, vagy nem szüntette meg.
+(3)[^2] A munkavállaló a pótszabadság igényléséhez a munkáltatójának bemutatja a gyermek eredeti születési anyakönyvi kivonatát, illetve halva született gyermek esetén a halvaszületés tényét bizonyító okirat eredeti példányát, és írásban nyilatkozik arról, hogy a szülői felügyeletet gyakorló vér szerinti vagy örökbefogadó apa szülői felügyeleti jogát bíróság nem szünetelteti, vagy nem szüntette meg.
 
 (4) Az igénybevételi jogosultságot ellenőrizhető módon, írásban dokumentálni kell. Ennek során a munkáltató jogosult a (3) bekezdés szerint bemutatott okiratokról másolatot készíteni.
 
@@ -10,4 +10,4 @@
 
 (6) Ha a munkavállaló a pótszabadságra jogosító időtartamon belül munkahelyet változtat, az új munkáltatójánál akkor jogosult a pótszabadság igénybevételére, ha igazolja, hogy az előző munkáltatónál a pótszabadságot részben vagy egészben még nem vette igénybe. Erről – és részleges igénybevétel esetén a már kivett napok számáról – az előző munkáltató a munkavállaló kérésére három munkanapon belül köteles igazolást kiadni.
 
-[^1]: Az 1. § (3) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 356/2021. (VI. 24.) Korm. rendelet 26. §-a szerint módosított szöveg.
