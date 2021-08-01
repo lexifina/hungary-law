@@ -1,6 +1,6 @@
-4. § (1)[^3] A börtönlelkészi szolgálat folyamatos ellátása érdekében a büntetés-végrehajtási szervezet (a továbbiakban: bv. szervezet) – a Büntetés-végrehajtás Egészségügyi Központ és az Igazságügyi Megfigyelő és Elmegyógyító Intézet kivételével – bv. intézetenként legalább egy teljes munkaidős börtönlelkészi közalkalmazotti státuszt biztosít.
+4. § (1)[^3] A börtönlelkészi szolgálat folyamatos ellátása érdekében a büntetés-végrehajtási szervezet (a továbbiakban: bv. szervezet) – a Büntetés-végrehajtás Egészségügyi Központ és az Igazságügyi Megfigyelő és Elmegyógyító Intézet kivételével – bv. intézetenként legalább egy teljes munkaidős börtönlelkészi rendvédelmi igazgatási alkalmazotti státuszt biztosít.
 
-(2) A több objektumból álló bv. intézet esetében a közalkalmazotti börtönlelkész a szolgálati helyétől eltérő objektumban is elláthatja az adott bevett egyház hívei körébe tartózó elítéltek és egyéb jogcímen fogvatartottak lelki gondozását.
+(2)[^4] A több objektumból álló bv. intézet esetében a rendvédelmi igazgatási alkalmazotti státuszú börtönlelkész a szolgálati helyétől eltérő objektumban is elláthatja az adott bevett egyház hívei körébe tartózó elítéltek és egyéb jogcímen fogvatartottak lelki gondozását.
 
 (3) A börtönlelkészi szolgálat működtetése érdekében az azt végző egyházi jogi személy és a bv. szervezet együttműködik. Az együttműködés feltételeit az egyházi jogi személy és a büntetés-végrehajtás országos parancsnoka (a továbbiakban: országos parancsnok) megállapodásban rögzítheti.
 
@@ -16,4 +16,5 @@ c) a büntetés-végrehajtás rendjének és a fogvatartás biztonságának megt
 
 (6) A börtönlelkészi szolgálati ágak munkájának összehangolásában az adott egyházi jogi személy részéről részt vevő, a bv. szervezettel kapcsolattartó személyt az egyházi, illetve felekezeti elöljáró jelöli ki.
 
-[^3]: A 4. § (1) bekezdése a 14/2020. (X. 30.) IM rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdése a 14/2020. (X. 30.) IM rendelet 4. §-a, a 4/2021. (VII. 29.) IM rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 4. § (2) bekezdése a 4/2021. (VII. 29.) IM rendelet 2. § b) pontja szerint módosított szöveg.
