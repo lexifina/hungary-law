@@ -1,4 +1,4 @@
-## 1X00692N_4
+## 1X06174S_4
 
 |  | A | B | C | D | E |
 
@@ -60,7 +60,7 @@
 
 ## KML: Katasztrófavédelmi mobil laborok
 
-6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^33]
+6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^34]
 
 A büntetés-végrehajtási szervezet szolgálati beosztásai
 
@@ -74,9 +74,9 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | központi szerv vezetője | országos parancsnok | 100 |  |
+| 3. | kiemelt vezető | központi szerv vezetője | országos parancsnok |  |  |
 
-| 4. | központi szerv vezetőjének helyettes | országos parancsnok helyettes | 100 |  |
+| 4. | központi szerv vezetőjének helyettes | országos parancsnok helyettes |  |  |
 
 | 5. | középvezető | szakirányító 1 | szolgálatvezető | 100 |  |
 
@@ -87,6 +87,8 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 | 7. | főosztályvezető- helyettes 1 | sajtószóvivő | 100 |  |
 
 | főosztályvezető 1 | fötanácsadó | 100 |  |
+
+| 7a | főtanácsadó (országos parancsnoki biztos) | 100 |  |
 
 | 8. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 100 |  |
 
@@ -264,4 +266,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^33]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja, az 55/2016. (XII. 22.) BM rendelet 9. §-a, a 15/2017. (VI. 22.) BM rendelet 5. §-a, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés b) pontja, a 9/2019. (III. 28.) BM rendelet 4. §-a, a 2/2020. (I. 17.) BM rendelet 2. § b) pontja, a 6/2020. (III. 20.) BM rendelet 2. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 4/2021. (II. 10.) BM rendelet 1. § c) pontja szerint módosított szöveg.
+[^34]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja, az 55/2016. (XII. 22.) BM rendelet 9. §-a, a 15/2017. (VI. 22.) BM rendelet 5. §-a, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés b) pontja, a 9/2019. (III. 28.) BM rendelet 4. §-a, a 2/2020. (I. 17.) BM rendelet 2. § b) pontja, a 6/2020. (III. 20.) BM rendelet 2. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 4/2021. (II. 10.) BM rendelet 1. § c) pontja, a 20/2021. (VII. 14.) BM rendelet 20. § (3) bekezdése és 21. § d) pontja szerint módosított szöveg.

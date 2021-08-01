@@ -66,62 +66,70 @@
 
 ## RRI: Repülőtéri Rendőr Igazgatóság
 
-3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^29]
+3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
 
 A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolgálati beosztásai
 
 I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 5K26716N_0
+## 1X06174N_0
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | központi szerv vezetője (tábornok) | főigazgató | 300 |  |
+| 3. | kiemelt vezető | központi szerv vezetője (tábornok) | főigazgató |  |  |
 
-| 4. | központi szerv vezetőjének helyettese (tábornok) | főigazgató-helyettes | 300 |  |
+| 4. | központi szerv vezetőjének helyettese (tábornok) | főigazgató-helyettes |  |  |
 
 | 5. | területi szerv vezetője* | igazgató | 300 | 300 |
 
-| 6. | közép- vezető | szakirányító 1 | igazgató-helyettes hivatalvezető | 300 | 300 |
+| 6. | középvezető | szakirányító 1 | igazgatóhelyettes hivatalvezető | 300 | 300 |
 
 | 7. | szakirányító 2 | főosztályvezető | 300 | 300 |
 
 | 8. | főosztályvezető 1 | főtanácsadó | 300 | 300 |
 
-| 9. | főosztályvezető 2 | önálló osztályvezető (főigazgató közvetlen irányítása alatt) | 300 | 300 |
+| 9. | főosztályvezető 1 | önálló osztályvezető (főigazgató közvetlen irányítása alatt) | 300 | 300 |
 
-| 10. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 300 | 300 |
+| 10. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 450 |  |
 
-| 11. | főosztályvezetőt helyettesítő osztályvezető | 300 | 300 |
+| 11. | főosztályvezetőt helyettesítő osztályvezető | 450 | 350 |
 
-| 12. | főosztályvezető- helyettes 2 | osztályvezető | 300 | 300 |
+| 12. | főosztályvezető- helyettes 2 | osztályvezető | 450 | 350 |
 
-| 13. | osztályvezető 1 | tanácsadó | 450 | 300 |
+| 13. | osztályvezető 1 | tanácsadó | 500 | 400 |
 
-| 14. | osztályvezető 2 | alosztályvezető | 450 | 300 |
+| 14. | osztályvezető 2 | osztályvezető-helyettes (kiemelt) | 500 | 350 |
 
-| 15. | osztályvezető-helyettes | 450 |  |
+| 15. | kirendeltségvezető (osztályvezető-helyettes kiemelt) | 500 |  |
 
-| 16. | kirendeltség-vezető | 450 |  |
+| 16. | kirendeltségvezető (kiemelt) | 500 |  |
 
 II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 5K26716N_1
+## 1X06174N_1
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | kiemelt főreferens | 450 | 300 |
+| 3. | D | osztályvezető-helyettes | 550 | 400 |
 
-| 4. | C | kiemelt főelőadó | 450 | 300 |
+| 4. | D | kirendeltségvezető (osztályvezető-helyettes) | 550 |  |
+
+| 5. | D | alosztályvezető | 500 | 350 |
+
+| 6. | D | kirendeltségvezető | 500 |  |
+
+| 7. | D | kiemelt főreferens | 450 | 300 |
+
+| 8. | C | kiemelt főelőadó | 450 | 300 |
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^29]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja szerint módosított szöveg.
+[^30]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja, a 20/2021. (VII. 14.) BM rendelet 20. § (2) bekezdése szerint módosított szöveg.

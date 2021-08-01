@@ -4,7 +4,7 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_0
+## 1X06175M_0
 
 |  | A | B | C | D | E |
 
@@ -12,7 +12,7 @@
 
 | 2. | alapfeladat | nem alap- feladat |
 
-| 3. | kiemelt vezető | központi szerv vezetője | közbiztonsági főigazgató | 150 | 150 |
+| 3. |  |  |  |  |  |
 
 | 4. | középvezető | szakirányító 1 | sajtófőnök | 150 | 150 |
 
@@ -38,7 +38,7 @@
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_1
+## 1X06175M_1
 
 |  | A | B | C | D |
 
@@ -52,7 +52,7 @@
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_2
+## 1X06175M_2
 
 |  | A | B | C | D |
 
@@ -70,7 +70,7 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_3
+## 1X06175M_3
 
 |  | A | B | C | D | E |
 
@@ -86,7 +86,7 @@
 
 ## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_4
+## 1X06175M_4
 
 |  | A | B | C | D |
 
@@ -102,7 +102,7 @@
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_5
+## 1X06175M_5
 
 |  | A | B | C | D |
 
@@ -118,7 +118,7 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_6
+## 1X06175M_6
 
 |  | A | B | C | D | E |
 
@@ -168,7 +168,7 @@
 
 ## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-## 0X04348N_8
+## 1X06175M_8
 
 |  | A | B | C | D |
 
@@ -194,7 +194,7 @@
 
 ## D)
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^35]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^36]
 
 A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -292,4 +292,4 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 III. Kiképzői beosztások
 
-[^35]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.
+[^36]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a, az 55/2016. (XII. 22.) BM rendelet 10. §-a szerint módosított szöveg.

@@ -8,11 +8,11 @@
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | központi szerv vezetője | főigazgató | 100 |  |
+| 3. | kiemelt vezető | központi szerv vezetője | főigazgató |  |  |
 
-| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | általános főigazgató-helyettes | 100 |  |
+| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | általános főigazgató-helyettes |  |  |
 
-| 5. | kiemelt vezető | központi szerv vezetőjének helyettese | gazdasági főigazgató-helyettes |  | 100 |
+| 5. | kiemelt vezető | központi szerv vezetőjének helyettese | gazdasági főigazgató-helyettes |  |  |
 
 | 6. | középvezető | szakirányító 1 | főosztályvezető* | 100 | 100 |
 
@@ -58,7 +58,7 @@
 
 | 10. | igazgatóság | B | referens | 100 | 100 |
 
-5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
+5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^33]
 
 A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -72,9 +72,9 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 2. | kategória | besorolási kategória | szolgálati beosztás | alapfeladat | nem alap- feladat |
 
-| 3. | kiemelt vezető | központi szerv vezetője (tábornok) | főigazgató | 100 |  |
+| 3. | kiemelt vezető | központi szerv vezetője (tábornok) | főigazgató |  |  |
 
-| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | főigazgató-helyettes | 100 |  |
+| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | főigazgató-helyettes |  |  |
 
 | 5. | középvezető | szakirányító 1 | országos polgári védelmi főfelügyelő | 100 |  |
 
@@ -104,7 +104,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 2. Területi szervnél
 
-## 1X00692N_1
+## 1X06174S_1
 
 |  | A | B | C | D | E |
 
@@ -136,7 +136,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 3. Helyi szervnél
 
-## 1X00692N_2
+## 1X06174S_2
 
 |  | A | B | C | D | E |
 
@@ -256,4 +256,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^32]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés a) pontja, a 4/2021. (II. 10.) BM rendelet 1. § b) pontja szerint módosított szöveg.
+[^33]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja, a 40/2017. (XII. 29.) BM rendelet 11. § (1) bekezdés a) pontja, a 4/2021. (II. 10.) BM rendelet 1. § b) pontja, a 20/2021. (VII. 14.) BM rendelet 21. § c) pontja szerint módosított szöveg.
