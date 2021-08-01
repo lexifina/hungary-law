@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelettel összhangban álló rendelkezéseket állapít meg.
 
-1. melléklet a 7/2021. (III. 10.) AM rendelethez[^14]
+1. melléklet a 7/2021. (III. 10.) AM rendelethez
 
 „1. melléklet a 74/2013. (VIII. 30.) VM rendelethez
 
@@ -31,5 +31,3 @@ A kártalanítás mértékét növelő tényezők a járványügyi intézkedéss
 | 11. | A telepauditáló rendszerben az érintett telep a legutóbbi szemle alapján kiváló, kiemelkedő minősítést szerzett. | +5% |
 
 ”
-
-[^14]: Az 1. melléklet 10. és 11. sora a 13. § (2) bekezdése alapján 2021. augusztus 1-jén lép hatályba.
