@@ -16,11 +16,11 @@ b) a felvezető rendőrségi gépjárművet követve közlekedik.
 
 (5) A megkülönböztető jelzést adó készüléket használó gépjármű vezetője a jelzés használatának kezdetét, az útvonalat a működtetést megelőzően – ha a késedelem veszéllyel jár, akkor annak megszűnését követően –, használatának végét haladéktalanul köteles a menetlevélben vagy annak megfelelő más okmányban rögzíteni. A szerv vezetője gondoskodik arról, hogy az okmányok ellenőrzése legalább negyedévente megtörténjen.
 
-(6)[^30]
+(6)[^30] A (4) bekezdés szerinti bejelentési kötelezettség, illetve az (5) bekezdés szerinti információk okmányban való rögzítésének kötelezettsége zárt informatikai rendszeren belüli eszközökkel, automatizáltan, elektronikus dokumentumok előállításával is teljesíthető.
 
 (7)[^31] A 3. § (1) bekezdés e) pontjában foglalt szervezetek gépjárművezetője a megkülönböztető jelzést adó készüléknek a (3) bekezdés alapján történő használata során köteles a KKB elnöke által kiállított, a kijelölést tanúsító okmányt magánál tartani.
 
 [^28]: A 7. § (3a) bekezdését a 27/2018. (X. 4.) BM rendelet 2. §-a iktatta be.
 [^29]: A 7. § (4) bekezdése a 2/2015. (II. 3.) BM rendelet 3. §-ával megállapított szöveg.
-[^30]: A 7. § új (6) bekezdését a 4/2010. (II. 23.) IRM rendelet 16. §-a iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (7) bekezdésre változtatta. A 7. § (6) bekezdését a 44/2017. (XII. 29.) BM rendelet 29. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^30]: A 7. § új (6) bekezdését újonnan a 23/2021. (VII. 29.) BM rendelet 1. §-a iktatta be.
 [^31]: A 7. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 4/2010. (II. 23.) IRM rendelet 16. §-a.
