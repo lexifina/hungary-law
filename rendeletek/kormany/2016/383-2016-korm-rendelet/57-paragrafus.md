@@ -1,3 +1,3 @@
-57. §[^194]
+57. §[^196]
 
-[^194]: Az 57. §-t a 189/2019. (VII. 30.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^196]: Az 57. §-t a 189/2019. (VII. 30.) Korm. rendelet 3. §-a hatályon kívül helyezte.

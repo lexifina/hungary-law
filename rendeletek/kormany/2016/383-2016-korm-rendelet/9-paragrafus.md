@@ -1,16 +1,16 @@
-9. § (1) A szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény (a továbbiakban: bortörvény)
+9. § (1)[^25] A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény (a továbbiakban: Btv.)
 
-a) 22. § (3) bekezdésében, 23. § (3) bekezdésében, 24/A. §-ában, 28. §-ában a tételes minősítés tekintetében, 29. §-ában, 30. § (2) bekezdésében, 32. § (2) bekezdésében, 45. §-ában foglaltak tekintetében a NÉBIH,
+a) 8. §-ában, 9. § (1) bekezdés d) pontjában, (4) és (5) bekezdésében, 14. §-ában, 18. § (5) és (6) bekezdésében foglaltak tekintetében a NÉBIH,
 
-b)[^25] 11. § (4) bekezdésében, 13/B. § (1) bekezdésében, 20. § (1) bekezdésében, 25. § (2) bekezdésében, 44. § (1) és (2) bekezdésében, 47/A. §-ában, 48. §-ában, 51. § (1) és (4) bekezdésében, 51/A. § (1) és (3) bekezdésében foglaltak tekintetében a NÉBIH és a megyei kormányhivatal,
+b) 21. § (2) és (3) bekezdésében, 22. § (2) bekezdésében, (4) bekezdés b) és c) pontjában, (5) bekezdésében foglaltak tekintetében a NÉBIH, a Pest Megyei Kormányhivatal és a borászati hatáskörben eljáró megyei kormányhivatal,
 
-c) 24. § (1) bekezdésében a nyilvántartásba vétel, illetve annak honlapon történő közzététele, valamint a 44. § (4) bekezdése tekintetében a Pest Megyei Kormányhivatal,
+c) 7. § (4) és (5) bekezdésében foglaltak tekintetében a Pest Megyei Kormányhivatal,
 
-d)[^26] 24. § (1) bekezdésében a borászati üzemek engedélyezése tekintetében, 24. § (2) bekezdésében a megyei kormányhivatal
+d) 7. § (1) és (2) bekezdésében foglaltak tekintetében a borászati hatáskörben eljáró megyei kormányhivatal
 
 a kijelölt borászati hatóság.
 
-(2) A Kormány a továbbfeldolgozási vagy kiszerelési céllal Magyarország területére behozott, az Európai Gazdasági Térség valamely szerződő államában közfogyasztásra forgalomba még nem hozott borászati termék bor származási bizonyítványának kiállításához szükséges igazolás kiállítására a NÉBIH-et jelöli ki. Az igazolás kiállítása során a NÉBIH a bortétel és a kísérődokumentumban foglaltak egyezőségét vizsgálja. A NÉBIH az igazolást 90 napon belül hatósági bizonyítvány formájában adja ki.
+(2)[^26]
 
 (3) A NÉBIH
 
@@ -18,7 +18,10 @@ a) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: he
 
 b) az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vámtv.) 11. § (1) bekezdés e) pont ek) alpontjában
 
+c)[^27] a jövedéki adóról szóló 2016. évi LXVIII. törvény 136. § (5) bekezdésében
+
 meghatározott borászati hatóság.
 
-[^25]: A 9. § (1) bekezdés b) pontja a 30/2020. (II. 29.) Korm. rendelet 29. § (4) bekezdése szerint módosított szöveg.
-[^26]: A 9. § (1) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. pontja, (45) bekezdés 5. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 9. § (1) bekezdése a 435/2021. (VII. 16.) Korm. rendelet 102. § (1) bekezdésével megállapított szöveg.
+[^26]: A 9. § (2) bekezdését a 435/2021. (VII. 16.) Korm. rendelet 102. § (6) bekezdése hatályon kívül helyezte.
+[^27]: A 9. § (3) bekezdés c) pontját a 435/2021. (VII. 16.) Korm. rendelet 102. § (2) bekezdése iktatta be.

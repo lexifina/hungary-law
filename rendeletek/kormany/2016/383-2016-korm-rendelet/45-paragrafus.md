@@ -6,11 +6,11 @@ a) a minisztert,
 
 b) a NÉBIH-et,
 
-c)[^165]
+c)[^167]
 
-d)[^166] növénytermesztési hatáskörben eljáró megyei kormányhivatalt
+d)[^168] növénytermesztési hatáskörben eljáró megyei kormányhivatalt
 
 jelöli ki.
 
-[^165]: A 45. § c) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 17. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^166]: A 45. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 17. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^167]: A 45. § c) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 17. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^168]: A 45. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 17. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
