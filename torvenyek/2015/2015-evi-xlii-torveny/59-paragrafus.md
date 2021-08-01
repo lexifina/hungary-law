@@ -8,7 +8,7 @@ a) a munkáltatói jogkört gyakorló elöljáró jogosult a hivatásos állomá
 
 b) a hivatásos állomány tagja a vezetői visszavonással érintett vezetői beosztásának megfelelő illetményre jogosult.
 
-(3) Ha a vezetői kinevezés visszavonásakor a (2) bekezdés szerinti szolgálati beosztás nem biztosítható, vagy a felajánlásról egészségi állapota miatt nem lehet dönteni, a hivatásos állomány tagját – a vezetői besorolása szerinti utolsó illetménye 85%-ának folyósítása mellett – a szolgálati beosztásba helyezéséig, de legfeljebb egy évig rendelkezési állományba kell helyezni. Ez esetben a szolgálati hely és szolgálati tevékenység meghatározásáról az állományilletékes parancsnok köteles gondoskodni.
+(3) Ha a vezetői kinevezés visszavonásakor a (2) bekezdés szerinti szolgálati beosztás nem biztosítható, vagy a felajánlásról egészségi állapota miatt nem lehet dönteni, a hivatásos állomány tagját – a vezetői besorolása szerinti utolsó beosztási illetménye 85%-ának megállapítása mellett – a szolgálati beosztásba helyezéséig, de legfeljebb egy évig rendelkezési állományba kell helyezni. Ez esetben a szolgálati hely és szolgálati tevékenység meghatározásáról az állományilletékes parancsnok köteles gondoskodni.
 
 (4) Ha a hivatásos állomány tagja a neki felajánlott szolgálati beosztást elfogadja, új szolgálati beosztásának megfelelően be kell sorolni és illetményét megállapítani. Ha a hivatásos állomány tagja a vezetői kinevezés visszavonása után a neki felajánlott, a (2) bekezdésben meghatározott feltételeknek megfelelő szolgálati beosztást nem fogadja el, szolgálati viszonyát a 86. § (2) bekezdés e) pontja alapján felmentéssel meg kell szüntetni.
 

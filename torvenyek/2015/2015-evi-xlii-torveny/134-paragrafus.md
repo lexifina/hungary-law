@@ -6,7 +6,7 @@
 
 134. § (1) A szolgálatteljesítési idő heti negyven óra (a továbbiakban: általános heti szolgálatteljesítési idő). A részben vagy egészben készenléti jellegű szolgálati beosztásban (a továbbiakban: készenléti jellegű szolgálati beosztás) ennél hosszabb, de heti negyvennyolc órát meg nem haladó szolgálatteljesítési idő állapítható meg.
 
-(2) A szolgálatteljesítési idő – a heti szolgálatteljesítési idő figyelembevételével – többheti, de legfeljebb négyhavi vagy tizenhat heti keretben is meghatározható. A folyamatos ügyeleti szolgálat ellátására szervezett, valamint a készenléti jellegű szolgálati beosztásban a szolgálatteljesítési időt a heti szolgálatteljesítési időtartam figyelembevételével legfeljebb hathavi keretben is meg lehet határozni.
+(2) A szolgálatteljesítési idő – a heti szolgálatteljesítési idő figyelembevételével – többheti, de legfeljebb négyhavi vagy tizenhat heti keretben is meghatározható. A folyamatos ügyeleti szolgálat ellátására szervezett, a készenléti jellegű, továbbá a személyvédelmi feladatok ellátására rendszeresített szolgálati beosztásban a szolgálatteljesítési időt a heti szolgálatteljesítési időtartam figyelembevételével legfeljebb hathavi keretben is meg lehet határozni.
 
 (3) Készenléti jellegű szolgálati beosztás az a szolgálati beosztás, amelyben
 

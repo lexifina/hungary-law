@@ -4,6 +4,6 @@
 
 (2) Könnyített szolgálat ellátása esetén a szolgálatteljesítési idő heti harmincöt óra, túlszolgálat nem rendelhető el. A könnyített szolgálatban foglalkoztatott beleegyezése nélkül éjszakai szolgálatteljesítés nem rendelhető el.
 
-(3) A hivatásos állomány könnyített szolgálatban foglalkoztatott tagjának alapilletménye azon összegnek a 90%-a, amely a hivatásos állomány tagját alapilletményként az általa betöltött szolgálati beosztásban akkor illetné meg, ha a szolgálati beosztást nem könnyített szolgálatban töltené be.
+(3) A hivatásos állomány könnyített szolgálatban foglalkoztatott tagjának beosztási illetménye azon összegnek a 90%-a, amely a hivatásos állomány tagját beosztási illetményként az általa betöltött szolgálati beosztásban akkor illetné meg, ha a szolgálati beosztást nem könnyített szolgálatban töltené be.
 
 (4) A könnyített szolgálatban foglalkoztatottak által betölthető szolgálati beosztásokat a miniszter határozza meg.
