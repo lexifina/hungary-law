@@ -8,7 +8,11 @@ c) olyan gazdálkodó szervezettel, amely jogszabályban rögzített állami fel
 
 d) olyan közérdekű vagyonkezelő alapítvánnyal, amelynek elsődleges feladata felsőoktatási intézmény alapítói, fenntartói jogainak gyakorlása, valamint működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása.
 
+e) felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
+
 (2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy 100%-os állami tulajdonban álló gazdálkodó szervezet végezheti.
+
+(2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény is végezheti.
 
 (3) Központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 

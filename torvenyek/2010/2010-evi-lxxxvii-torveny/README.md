@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2021-02-01 | 2020. évi CXLIX. törvény | 2010-87-00-00.42 |
 | 2021-05-01 | 2021. évi XV. törvény | 2010-87-00-00.43 |
 | 2021-06-05 | 2021. évi LX. törvény | 2010-87-00-00.44 |
+| 2021-08-01 | 2021. évi VIII. törvény | 2010-87-00-00.45 |
