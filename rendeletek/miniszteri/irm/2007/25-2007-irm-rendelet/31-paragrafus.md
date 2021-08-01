@@ -1,6 +1,6 @@
 ## Jogharmonizációs záradék
 
-31. §[^49] (1) Ez a rendelet
+31. §[^57] (1) Ez a rendelet
 
 a) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelv 24. cikkének,
 
@@ -8,7 +8,7 @@ b) a 2003/109/EK tanácsi irányelv hatályának a nemzetközi védelmet élvez�
 
 való megfelelést szolgálja.
 
-(2)[^50] E rendelet 1–3. §-a, 12. §-a és 1. melléklete a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(2)[^58] E rendelet 1–3. §-a, 12. §-a és 1. melléklete a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) E rendelet a tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -24,5 +24,8 @@ való megfelelést szolgálja.
 
 (9) E rendelet 11., 41. és 43. melléklete a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i, (EU) 2016/801 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^49]: A 31. § a 38/2017. (XII. 27.) BM rendelet 5. §-ával megállapított szöveg.
-[^50]: A 31. § (2) bekezdése a 8/2020. (IV. 8.) BM rendelet 2. §-ával megállapított szöveg.
+(10)[^59] E rendelet 3. § (5) bekezdése, 8. § (2) és (4) bekezdése, 9. §-a, 10. §-a és 3–6. melléklete az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^57]: A 31. § a 38/2017. (XII. 27.) BM rendelet 5. §-ával megállapított szöveg.
+[^58]: A 31. § (2) bekezdése a 8/2020. (IV. 8.) BM rendelet 2. §-ával megállapított szöveg.
+[^59]: A 31. § (10) bekezdését a 23/2021. (VII. 29.) BM rendelet 6. §-a iktatta be.

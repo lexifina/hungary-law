@@ -2,133 +2,97 @@
 
 ## 1. Regisztrációs igazolás
 
-## Az okmány megnevezése: regisztrációs igazolás
+## Az okmány megnevezése: Regisztrációs Igazolás / Registration Certificate
 
-## Az okmány formátuma: kártya
+## Az okmány formátuma: ID-1 kártya
 
-## Az okmány adattartalma a következő:
+## Az előoldalon kék négyszögben negatív nyomtatással készített, tizenkét sárga csillaggal körülvett kétbetűs országkód (HU).
 
-## 1. az okmányazonosító (elnevezése, száma);
+## Az okmány adattartalma és nyomtatott rovatmegnevezései (dőlt betűvel) a következők:
 
-## 2. név – családi és utónév (nevek) –;
+## Előoldal:
 
-## 3. születési helye (település, ország);
+## 1. Családi és utónév / Family name and given name
 
-## 4. születési ideje;
+## 2. Születési hely / Place of birth
 
-## 5. a bejelentkező személy címe;
+## 3. Születési idő / Date of birth
 
-## 6. a bejelentkező aláírása;
+## 4. Bejelentkezés időpontja / Date of registration
 
-## 7. a bejelentkezés időpontja;
+## 5. Cím / Address
 
-## 8. a kiállító hatóság bélyegzője;
+## 6. Kiállító hatóság / Issuing authority
 
-## 9. a kiállítás helye;
+## 7. Okmány száma
 
-## 10. hátoldalon kiegészítő információ: csak érvényes személyi igazolvánnyal vagy úti okmánnyal együtt érvényes.
+## Hátoldal:
+
+## 8. Kiállító hatóság bélyegzője / Stamp of authority
+
+## 9. „Csak érvényes személyazonosító igazolvánnyal vagy úti okmánnyal együtt érvényes. / Valid together with a valid identity card or travel document.” felirat
+
+## 10. „2004/38/EK irányelv 8. cikke alapján EGT állampolgár részére kiállítva. / Issued to EEA Citizens in accordance with Article 8 of Directive 2004/38/EC.” felirat
 
 ## 2. Tartózkodási kártya
 
-## a) EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére
+## EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére, valamint magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott okmány pótlása vagy cseréje esetén.
 
-## Az okmány megnevezése: tartózkodási kártya
+## A tartózkodási kártya a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben, valamint az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra.
 
-## Az okmány formátuma: ID-2 kártya
+## Az okmány megnevezése: Tartózkodási Kártya / Residence Card
 
-## Az okmány adattartalma a következő:
-
-## 1. okmányazonosító (elnevezése, száma);
-
-## 2. név - családi és utónév (nevek) -;
-
-## 3. születési helye (település, ország);
-
-## 4. születési ideje;
-
-## 5. állampolgárság;
-
-## 6. neme;
-
-## 7. arcfénykép;
-
-## 8. érvényességi idő;
-
-## 9. a kiállító hatóság bélyegzője;
-
-## 10. a kiállítás helye, ideje;
-
-## 11. gépi olvasásra alkalmas adatsor;
-
-## 12. megjegyzés [„EGT-állampolgár családtagja”];
-
-## 13. egyéb megjegyzés [„tartózkodási kártya EGT állampolgár családtagja részére”/ „residence card issued to family members of EEA citizens”].
-
-## b) magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére
-
-## Magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére a tartózkodási kártya a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló,
-
-## 2002. június 13-i 1030/2002/EK tanácsi rendeletben, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i
-
-## 380/2008/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i
-
-## (EU) 2017/1954 európai parlamenti és tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra.
-
-## Az okmány megnevezése: tartózkodási engedély.
-
-## Az okmány formátuma: ID-1 kártya, amely tárolóelemet tartalmaz.
-
-## Az okmány adattartalma a következő:
-
-## 1. az okmányazonosító (elnevezése, száma),
-
-## 2. név – családi és utónév (nevek) –,
-
-## 3. arcfénykép,
-
-## 4. érvényességi idő,
-
-## 5. a kiállítás helye, ideje,
-
-## 6. a kártya típusa,
-
-## 7. megjegyzések [„tartózkodási kártya magyar állampolgár családtagja részére”],
-
-## 8. Magyarország címere,
-
-## 9. géppel olvasható terület.
+## Az okmány típusa: „Uniós polgár 2004/38/EK irányelv 10. cikke szerinti családtagja”
 
 ## 3. Állandó tartózkodási kártya
 
-## Az okmány megnevezése: állandó tartózkodási kártya.
+## Az okmány megnevezése: Állandó Tartózkodási Kártya / Permanent Residence Card
 
 ## Az okmány formátuma: ID-2 kártya.
 
-## Az okmány adattartalma a következő:
+## Az előoldalon kék négyszögben negatív nyomtatással készített, tizenkét sárga csillaggal körülvett kétbetűs országkód („HU”).
 
-## 1. az okmányazonosító (elnevezése, száma),
+## Az okmány adattartalma és rovatmegnevezései (dőlt betűvel) a következők:
 
-## 2. név – családi és utónév (nevek) –,
+## Előoldal:
 
-## 3. születési hely (település, ország),
+## 1. Okmány száma
 
-## 4. születési idő,
+## 2. Családi név és utónév / Family name and given name
 
-## 5. a kérelmező aláírása,
+## 3. Születési hely / Place of birth
 
-## 6. arcfénykép,
+## 4. Születési idő / Date of birth
 
-## 7. a kiállító hatóság bélyegzője,
+## 5. Birtokos aláírása / Holder's signature
 
-## 8. a kiállítás helye, ideje,
+## 6. Arckép
 
-## 9. érvényességi idő,
+## 7. Géppel olvasható zóna
 
-## 10. hátoldalon kiegészítő információ: Csak érvényes személyi igazolvánnyal vagy úti okmánnyal (harmadik ország állampolgárságával rendelkező családtag esetén úti okmánnyal) együtt érvényes. / Valid together with a valid personal identification document or travel document. (In case of third country national family member only with valid travel document.),
+## Hátoldal:
 
-## 11. géppel olvasható terület.
+## 8. Kiállító hatóság / Issuing authority
 
-7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^57]
+## 9. Kiállító hatóság bélyegzője / Stamp of issuing authority
+
+## 10. Kiállítás helye, ideje / Place and date of issue
+
+## 11. Érvényességi idő / Date of expiry
+
+## 12. „Csak érvényes személyazonosító igazolvánnyal vagy úti okmánnyal együtt érvényes. / Valid together with a valid identity card or travel document.” felirat
+
+## 13. „2004/38/EK irányelv 8. cikke alapján EGT állampolgár részére kiállítva. / Issued to EEA Citizens in accordance with Article 8 of Directive 2004/38/EC.” felirat
+
+## 4. Huzamos tartózkodási kártya
+
+## Az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére huzamos tartózkodási kártya a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendeletben, a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendeletben, valamint az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendeletben meghatározott formátumú és adattartalmú okmányként kerül kiállításra.
+
+## Az okmány megnevezése: Huzamos Tartózkodási Kártya / Long-term Residence Card
+
+## Az okmány típusa: „Uniós polgár 2004/38/EK irányelv 20. cikke szerinti családtagja”
+
+7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^66]
 
 ## 9K04194M_0
 
@@ -160,4 +124,4 @@ I. Alulírott
 
 II. Alulírott
 
-[^57]: A 7. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § c) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^66]: A 7. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § c) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.

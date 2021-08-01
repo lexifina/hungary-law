@@ -1,3 +1,3 @@
-5. melléklet a 25/2007. (V. 31.) IRM rendelethez[^55]
+5. melléklet a 25/2007. (V. 31.) IRM rendelethez[^64]
 
-[^55]: Az 5. melléklet a 38/2017. (XII. 27.) BM rendelet 6. § (1) bekezdés e) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^64]: Az 5. melléklet a 23/2021. (VII. 29.) BM rendelet 7. § (3) bekezdésével megállapított szöveg.

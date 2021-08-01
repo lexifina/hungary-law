@@ -1,4 +1,4 @@
-19. melléklet a 25/2007. (V. 31.) IRM rendelethez[^69]
+19. melléklet a 25/2007. (V. 31.) IRM rendelethez[^78]
 
 7M04685_0
 
@@ -36,4 +36,4 @@ Az okmány adattartalma:
 
 14. hátoldalon tudnivalók, hivatalos bejegyzések.
 
-[^69]: A 19. melléklet az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^78]: A 19. melléklet az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.

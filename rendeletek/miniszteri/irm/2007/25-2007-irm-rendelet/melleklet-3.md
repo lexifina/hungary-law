@@ -1,3 +1,3 @@
-3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^53]
+3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^62]
 
-[^53]: A 3. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § b) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § f) pontja szerint módosított szöveg.
+[^62]: A 3. melléklet a 23/2021. (VII. 29.) BM rendelet 7. § (1) bekezdésével megállapított szöveg.
