@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-31-20-0
 | 2021-01-01 | 2015-31-20-0A.11 | 45/2020. (XII. 16.) BM rendelet |
 | 2021-03-01 | 2015-31-20-0A.12 | 4/2021. (II. 10.) BM rendelet |
 | 2021-07-17 | 2015-31-20-0A.13 | 20/2021. (VII. 14.) BM rendelet |
+| 2021-08-01 | 2015-31-20-0A.14 | 20/2021. (VII. 14.) BM rendelet |

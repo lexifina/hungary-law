@@ -2,7 +2,7 @@
 
 (2) A kinevezési javaslathoz csatolni kell
 
-a) a kinevezés feltételeként meghatározott egészségi, pszichikai és fizikai alkalmasságot és a szolgálati viszony létesítéséhez szükséges feltételek meglétét igazoló okiratok másolatát,
+a)[^12] a kinevezés feltételeként meghatározott egészségi, pszichológiai és fizikai alkalmasságot és a szolgálati viszony létesítéséhez szükséges feltételek meglétét igazoló okiratok másolatát,
 
 b) a humánigazgatási szakszolgálat által előkészített, a kinevezésről szóló állományparancs (a továbbiakban: kinevezési okmány) tervezetét,
 
@@ -19,3 +19,5 @@ f) az illetmény fedezetének rendelkezésre állására vonatkozó, a szervezet
 (4) A rendvédelmi oktatási intézmények hivatásos állományba kinevezett hallgatóinak, tanulóinak eskütétele és a kinevezési okmány átvétele a (3) bekezdésben meghatározottól eltérő rendben is történhet, azonban az eskütételnek és a kinevezési okmány átvételének ebben az esetben is ki kell fejeznie a hivatásos szolgálat tekintélyét, méltóságát.
 
 (5) A humánigazgatási szakszolgálat az aláírt esküokmányt a kinevezési okmány mellékleteként a személyi anyaggyűjtőben helyezi el és kezeli.
+
+[^12]: A 8. § (2) bekezdés a) pontja a 20/2021. (VII. 14.) BM rendelet 24. § f) pontja szerint módosított szöveg.
