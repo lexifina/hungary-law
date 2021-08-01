@@ -1,3 +1,3 @@
-## 27. §[^114]
+## 27. §[^113]
 
-[^114]: A 27. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^113]: A 27. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.

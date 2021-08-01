@@ -1,3 +1,3 @@
-8. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^137]
+8. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^136]
 
-[^137]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
