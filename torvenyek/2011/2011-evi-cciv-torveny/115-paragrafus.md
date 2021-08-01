@@ -95,3 +95,7 @@ megnevezéssel működik.
 (31) 2020. augusztus 1. napjával a Kaposvári Egyetem és a Szent István Egyetem összeolvadásával a Szent István Egyetem jön létre.
 
 (32) A Szent István Egyetem 2021. február 1. napjától Magyar Agrár- és Élettudományi Egyetem megnevezéssel működik.
+
+(33) Az Eszterházy Károly Egyetemből kiváló Sárospataki Comenius Campus 2021. augusztus 1. napjától Tokaj-Hegyalja Egyetemként jön létre.
+
+(34) Az Eszterházy Károly Egyetem 2021. augusztus 1. napjától Eszterházy Károly Katolikus Egyetem megnevezéssel működik.
