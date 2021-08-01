@@ -20,11 +20,11 @@ h) irodájának címét,
 
 i) által megjelölt annak a jogi személynek a címét, amelynek alkalmazottjaként a közvetítői tevékenységet folytatja, vagy a közvetítői tevékenység folytatására megjelölt hely címét, ha az eltér a jogi személy székhelyétől,
 
-j) elérhetőségi címét (postacímét, telefon-, telefaxszámát, e-mail címét),
+j)
 
 k) lakcímét (postacímét, telefon-, telefaxszámát, e-mail címét),
 
-l) munkahelye címét (postacímét, telefon-, telefaxszámát, e-mail címét),
+l)
 
 m) szakmai testületi tagságát, a szakmai testület pontos megjelölésével, és
 
