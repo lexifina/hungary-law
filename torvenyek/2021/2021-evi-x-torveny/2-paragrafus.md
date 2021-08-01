@@ -1,3 +1,3 @@
 ## 2. Az Alapítvány részére történő vagyonjuttatás
 
-2. §
+2. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése, az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására a Budapesti Gazdasági Egyetem (a továbbiakban: Egyetem) – a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 4. § (2) bekezdésében meghatározott – fenntartói jogát alapítói vagyoni juttatásként az Alapítvány tulajdonába kell adni.
