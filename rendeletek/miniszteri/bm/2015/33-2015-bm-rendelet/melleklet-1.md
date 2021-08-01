@@ -1,6 +1,6 @@
-## 50. §[^21] A 38/C. § szerinti szakképzési keresetkiegészítést első alkalommal 2020. július 15-ig kell megállapítani.
+## 50. §[^22] A 38/C. § szerinti szakképzési keresetkiegészítést első alkalommal 2020. július 15-ig kell megállapítani.
 
-1. melléklet a 33/2015. (VI. 16.) BM rendelethez[^22]
+1. melléklet a 33/2015. (VI. 16.) BM rendelethez[^23]
 
 ## A nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásban szolgálatot teljesítők pótlékára jogosító szolgálati beosztások
 
@@ -54,5 +54,5 @@ III. A büntetés-végrehajtási szervezetnél
 
 ha szolgálati feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Egészségügyi Központ és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásokban látja el.
 
-[^21]: Az 50. §-t a 18/2020. (VI. 30.) BM rendelet 15. §-a iktatta be.
-[^22]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a, a 21/2020. (VII. 9.) BM rendelet 5. §-a, a 20/2021. (VII. 14.) BM rendelet 28. §-a szerint módosított szöveg.
+[^22]: Az 50. §-t a 18/2020. (VI. 30.) BM rendelet 15. §-a iktatta be.
+[^23]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a, a 21/2020. (VII. 9.) BM rendelet 5. §-a, a 20/2021. (VII. 14.) BM rendelet 28. §-a szerint módosított szöveg.
