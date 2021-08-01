@@ -1,1 +1,3 @@
-23. §
+23. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény a következő 76/E. §-sal egészül ki:
+
+„76/E. § Az EGT-állampolgár családtagja részére kiállított tartózkodási kártya, valamint a 24. § (1) bekezdése szerinti huzamos tartózkodási kártya kiadásához rögzített, az (EU) 2019/1157 európai parlamenti és tanácsi rendelet szerinti arcképmás és ujjnyomat adatot az eljáró idegenrendészeti hatóság a tartózkodási kártya és az állandó tartózkodási kártya kiadása iránti kérelem tárgyában hozott véglegessé vált és végrehajtható döntésig kezelheti, azt követően azt haladéktalanul törölni kell.”

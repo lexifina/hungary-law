@@ -1,1 +1,3 @@
-29. §
+29. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Családi együttélés biztosítása céljából tartózkodási engedélyt az a harmadik országbeli állampolgár kaphat, aki tartózkodási, bevándorlási, letelepedési, ideiglenes letelepedési, nemzeti letelepedési vagy EK letelepedési engedéllyel rendelkező harmadik országbeli állampolgár, illetve magyar állampolgár, vagy külön törvény szerinti tartózkodási kártyával, állandó tartózkodási kártyával, vagy huzamos tartózkodási kártyával rendelkező személy (a továbbiakban e § alkalmazásában: családegyesítő) családtagja.”

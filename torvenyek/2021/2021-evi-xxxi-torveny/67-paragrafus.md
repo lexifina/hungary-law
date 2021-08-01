@@ -1,1 +1,1 @@
-67. §
+67. § Hatályát veszti az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 8. § (4) bekezdése.
