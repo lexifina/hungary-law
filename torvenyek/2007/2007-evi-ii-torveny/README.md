@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2021-03-01 | 2020. évi CXXXV. törvény | 2007-2-00-00.62 |
 | 2021-05-14 | 2021. évi XXXI. törvény | 2007-2-00-00.63 |
 | 2021-07-01 | 2020. évi CXXI. törvény | 2007-2-00-00.64 |
+| 2021-08-01 | 2021. évi XXXI. törvény | 2007-2-00-00.65 |
