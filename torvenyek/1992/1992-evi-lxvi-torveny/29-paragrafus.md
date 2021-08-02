@@ -30,6 +30,12 @@ l) a polgár személyazonosító igazolványát kiállító hatóság nevét,
 
 m) a (4) bekezdés szerinti tényt vagy a 29/G. § (1) bekezdésében foglalt esetekben – jogszabályban meghatározott nem olvasható formában – a külföldre utazási korlátozás tényét.
 
+(2a) A magyar állampolgár részére kiállított állandó személyazonosító igazolvány – a polgár kérelmére – vizuálisan észlelhető módon tartalmazza a polgár származási helyét.
+
+(2b) A nyilvántartást kezelő szerv a (2a) bekezdés szerinti kérelmet a személyazonosító igazolvány kiadására irányuló eljárás megindításával egyidejűleg továbbítja az illetékes anyakönyvvezetőhöz vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szervhez.
+
+(2c) Ha az anyakönyv nem tartalmazza a polgár származási helyét, az állandó személyazonosító igazolványra a polgár kérelmében megjelölt származási hely kerül feltüntetésre.
+
 (3) A 29/G. § (1) bekezdésében foglalt eset kivételével a magyar állampolgár részére kiállított állandó személyazonosító igazolvány tartalmazza a (2) bekezdés a), c), d), f), i) és j) pontjában meghatározott adatokból képzett, a polgár és a személyazonosító igazolvány azonosítását lehetővé tevő, gépi olvasásra alkalmas adatsort.
 
 (4) Külföldi állampolgárságú vagy hontalan polgár részére kiállított állandó személyazonosító igazolvány tartalmazza annak tényét, hogy az állandó személyazonosító igazolvány külföldre történő utazásra nem jogosít.
@@ -40,11 +46,11 @@ m) a (4) bekezdés szerinti tényt vagy a 29/G. § (1) bekezdésében foglalt es
 
 a) a (2) bekezdés j) pontjában, és
 
-b) – a 29/E. § (2) bekezdésében foglalt eset kivételével – a (7) bekezdés f) pontjában
+b) a (7) bekezdés f) pontjában
 
 foglalt adatokat tartalmazza.
 
-(7) Az állandó személyazonosító igazolvány – a 29/E. § (2) bekezdésében foglalt eset kivételével – tároló elemet tartalmaz. A tároló elem tartalmazza
+(7) Az állandó személyazonosító igazolvány tároló elemet tartalmaz. A tároló elem tartalmazza
 
 a) a (2) bekezdésben meghatározott adatokat,
 
@@ -68,11 +74,13 @@ j) a polgár személyi azonosítóját.
 
 (8) A tároló elem az ujjnyomatot abból a célból tartalmazza, hogy az állandó személyazonosító igazolvány és a polgár közti kapcsolat kétséget kizáróan megállapítható legyen.
 
-(9) A tároló elem nem tartalmazza az ujjnyomatot, ha
+(9) A tároló elem nem tartalmazza az ujjnyomat adatot, ha a polgár
 
-a) a polgár a személyazonosító igazolvány kiállításakor a 12. életévét még nem tölti be,
+a) a személyazonosító igazolvány kiállításakor a 6. életévét még nem töltötte be,
 
-b) a polgár annak rögzítését visszautasította, vagy annak adására fizikailag képtelen.
+b) annak adására ideiglenesen fizikailag képtelen, vagy
+
+c) annak adására fizikailag képtelen.
 
 (10) A tároló elem a polgár arcképmását, aláírását és ujjnyomatát képi formátumban tárolja.
 

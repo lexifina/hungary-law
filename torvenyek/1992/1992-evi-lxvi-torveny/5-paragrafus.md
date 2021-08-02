@@ -48,7 +48,7 @@ b) csoportos adatszolgáltatás: az adatigénylő által vagy jogszabályban meg
 
 (20) Ujjnyomat: a kézfej két ujjának sík felületre helyezésekor előállt állapot elektronikus formátumban tárolt képe és annak további leíró adatai.
 
-(21) Állandó személyazonosító igazolvány: a törvényben meghatározott érvényességi idővel és – a 29/E. § (2) bekezdésében meghatározott kivétellel – tároló elemmel rendelkező személyazonosító igazolvány.
+(21) Állandó személyazonosító igazolvány: a törvényben meghatározott érvényességi idővel és tároló elemmel rendelkező személyazonosító igazolvány.
 
 (22) Ideiglenes személyazonosító igazolvány: a törvényben meghatározott érvényességi idővel rendelkező, az állandó személyazonosító igazolvány kiadásáig a Kormány rendeletében meghatározott feltételek esetén kiállított személyazonosító igazolvány.
 
