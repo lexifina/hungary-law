@@ -124,6 +124,8 @@ b) a külföldi befektetési alapkezelő, kollektív befektetési forma, letétk
 
 45. forgalomba hozatal: a kollektív befektetési értékpapír keletkeztetése és az első tulajdonosnak történő átadása;
 
+45a. forgalomba hozatalt megelőző tájékoztatás: az Európai Unióban lakóhellyel vagy székhellyel rendelkező lehetséges szakmai befektetők számára – a befektetési stratégiákra vagy befektetési elképzelésekre vonatkozóan uniós ABAK vagy annak megbízottja által – végzett közvetett vagy közvetlen információszolgáltatás vagy kommunikáció egy még létre nem hozott ABA vagy részalapja vagy egy olyan, már létrehozott ABA vagy részalapja iránti érdeklődésük felmérése céljából, amelynek vonatkozásában a forgalmazással kapcsolatos, a 120. §-nak, illetve a 121. §-nak megfelelő értesítés még nem történt meg a lehetséges befektetők lakóhelye vagy székhelye tagállamában, és amely egyik esetben sem minősül a lehetséges befektetőknek címzett, az ABA vagy részalapja kollektív befektetési értékpapírjaiba történő befektetésre irányuló ajánlattételnek vagy az említett kollektív befektetési értékpapírok befektetőkhöz történő kihelyezésének;
+
 46. főiroda: az a hely, ahol a vállalkozás üzleti tevékenységével kapcsolatos központi döntéshozatal történik;
 
 47. gyűjtő-ABA: olyan ABA, amely
@@ -152,7 +154,7 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 
 54. jogi képviselő: az a természetes személy, akinek lakóhelye az Európai Unióban van, illetve az a jogi személy, amelynek székhelye az Európai Unióban van, és akit vagy amelyet egy nem uniós ABAK jelölt ki arra, hogy a hatóságok, ügyfelek, szervezetek és nem uniós ABAK üzletfelei felé az Európai Unióban a nevében eljárjon ezen törvény szerinti kötelezettségei tekintetében;
 
-54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, teljes tevékenységet irányító személyének, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
+54a. jó üzleti hírnév: a befektetési alapkezelő vezető állású személyeinek, a befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személyének, minősített befolyással rendelkező tagjainak a befektetési alapkezelő irányítására vagy tulajdonlására való alkalmasságát igazoló feltételek megléte;
 
 55. kereskedelmi kommunikáció: a tájékoztató, a kezelési szabályzat, a kiemelt befektetői információ és a hirdetmény kivételével minden, a befektetők tájékoztatását szolgáló, a kollektív befektetési értékpapír nyilvános forgalomba hozatalával és forgalmazásával összefüggésbe hozható, reklámban vagy egyéb módon közölt információ;
 

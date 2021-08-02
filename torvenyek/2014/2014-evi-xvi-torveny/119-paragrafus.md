@@ -4,30 +4,10 @@
 
 (2) Az (1) bekezdésben meghatározott követelmények az ott meghatározott információk és dokumentumok módosítása esetén is megfelelően alkalmazandók.
 
-(3) Az ÁÉKBV székhely szerinti tagállama által lefolytatott bejelentési eljárást követően a forgalmazásra vonatkozó előkészületek megfelelőségének ellenőrzése céljából az ÁÉKBV a forgalmazás megkezdése előtt köteles megküldeni a Felügyelet részére az ÁÉKBV és a forgalmazó között létrejött forgalmazási szerződést, amennyiben a forgalmazást nem a befektetési alapkezelő látja el. Amennyiben magyarországi székhelyű közvetítő igénybevételére is sor kerül, úgy a közvetítővel kötött szerződés benyújtása is kötelező. Magyarországi székhelyű forgalmazó hiányában magyarországi székhelyű közvetítő igénybevétele kötelező.
+(3) Az ÁÉKBV székhely szerinti tagállama által lefolytatott bejelentési eljárást követően a forgalmazásra vonatkozó előkészületek megfelelőségének ellenőrzése céljából az ÁÉKBV a forgalmazás megkezdése előtt köteles megküldeni a Felügyelet részére az ÁÉKBV és a forgalmazó között létrejött forgalmazási szerződést, amennyiben a forgalmazást nem a befektetési alapkezelő látja el. Amennyiben magyarországi székhelyű közvetítő igénybevételére is sor kerül, úgy a közvetítővel kötött szerződés benyújtása is kötelező.
 
 (4) A forgalmazással kapcsolatos intézkedésekre vonatkozó információ változása vagy a forgalmazni kívánt részvényosztályokkal kapcsolatos változás esetén a változás végrehajtása előtt az ÁÉKBV írásban értesíti a Felügyeletet. Az ÁÉKBV szintén értesíti a Felügyeletet a 117. § b) pontjában meghatározott dokumentumok módosításairól, és közli, hogy e dokumentumok hol érhetők el elektronikusan.
 
-(5) A Felügyelet honlapján magyarázó leírás és forrásdokumentumokra mutató hivatkozások vagy linkek kombinálásával magyar és a nemzetközi pénzügyi piacokon általában használt nyelven közzéteszi a más EGT-államban engedélyezett ÁÉKBV kollektív befektetési értékpapírjainak belföldi forgalomba hozatalához szükséges lényeges jogszabályokat és rendelkezéseket.
+(5) Abban az esetben, ha más EGT-államban engedélyezett ÁÉKBV által forgalmazott kollektív befektetési értékpapír magyarországi forgalmazásának visszavonására kerül sor, az ÁÉKBV által a székhelye szerinti tagállam felügyeleti hatóságának küldött, a 118/A. § (4) bekezdésének megfeleltethető értesítésben meghatározott Felügyelet ugyanazokkal a jogokkal és kötelezettségekkel rendelkezik, mint a 71. alcímben foglaltaknak megfelelően az ÁÉKBV fogadó tagállamának felügyeleti hatóságai. Az 55. § és a 172. § szerinti felügyeleti hatáskörök sérelme nélkül az ÁÉKBV székhelye szerinti tagállam felügyeleti hatósága által a Felügyelet részére a 118/A. § (7) bekezdésének megfelelő továbbítás időpontjától kezdődően a Felügyelet nem írhatja elő az ÁÉKBV számára, hogy bizonyítsa a kollektív befektetési vállalkozások határokon átnyúló forgalmazásának megkönnyítéséről, valamint a 345/2013/EU, a 346/2013/EU és az 1286/2014/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1156 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2019/1156 európai parlamenti és tanácsi rendelet] 5. cikke szerinti forgalmazási követelményeket szabályozó nemzeti törvényi, rendeleti és közigazgatási rendelkezéseknek való megfelelést.
 
-(6) A Felügyelet az (5) bekezdésben meghatározott rendelkezések közül legalább az alábbiakat teszi közzé:
-
-a) a folyamatos forgalmazás definíciója;
-
-b) a kereskedelmi kommunikáció tartalmára, formájára és megjelenítési módjára vonatkozó követelmények;
-
-c) a befektetők számára közzéteendő információk;
-
-d) a forgalmazásra vonatkozó szabályok;
-
-e) a Felügyeletnek megküldött jelentésekre vagy információk továbbítására vonatkozó követelmények, és az előírt dokumentumok frissített verziónak benyújtási eljárása;
-
-f) a Felügyelet részére a forgalmazással kapcsolatban fizetendő díjak;
-
-g) a befektetők részére történő kifizetésekkel, a kollektív befektetési értékpapír visszaváltásával, és az ÁÉKBV által kötelezően nyújtandó tájékoztatás elérhetőségével kapcsolatos követelmények;
-
-h) az ÁÉKBV által folytatott forgalmazás megszüntetésének feltételei;
-
-i) az 584/2010/EU bizottsági rendelet 1. cikkében említett bejelentő levélben feltüntetendő információk részletes tartalma;
-
-j) a (4) bekezdésben meghatározott bejelentési kötelezettség teljesítésére szolgáló e-mail cím.
+(6)

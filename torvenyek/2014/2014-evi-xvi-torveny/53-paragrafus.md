@@ -18,4 +18,6 @@ d) bejelenti a fióktelep vezetéséért felelős személyek nevét.
 
 (6) A (2) bekezdés b)–d) pontjaiban meghatározott adatokban bekövetkezett változás esetén – a változások végrehajtása előtt legalább 1 hónappal – az ÁÉKBV-alapkezelő írásban köteles tájékoztatni a Felügyeletet és a fogadó tagállam felügyeleti hatóságát a változásról. A Felügyelet a (4) bekezdés szerinti elutasítási jogot ezen 1 hónap alatt gyakorolhatja.
 
+(6a) Ha a (6) bekezdés szerinti változás miatt az ÁÉKBV-alapkezelő a továbbiakban már nem felelne meg e törvénynek, a Felügyelet a (6) bekezdés szerinti – a változásról szóló – értesítés kézhezvételétől számított 15 munkanapon belül tájékoztatja az ÁÉKBV-alapkezelőt arról, hogy ezt a változtatást nem hajthatja végre. A Felügyelet erről tájékoztatja a fogadó tagállam felügyeleti hatóságait. Ha a tervezett változtatást ennek ellenére ezt követően végrehajtják, amelynek következtében az ÁÉKBV-alapkezelő már nem felel meg e törvénynek, a Felügyelet megteszi a megfelelő intézkedéseket, és azokról haladéktalanul értesíti a fogadó tagállam felügyeleti hatóságait.
+
 (7) A (3) bekezdés szerint megküldött adatokban bekövetkezett változás esetén a Felügyelet megfelelő módon tájékoztatja a fogadó tagállam felügyeleti hatóságát, és szükség esetén módosítja az (5) bekezdés szerinti igazolásban szereplő információkat.
