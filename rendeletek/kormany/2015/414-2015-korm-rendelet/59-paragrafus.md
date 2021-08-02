@@ -1,15 +1,15 @@
-## 19. [^184] Az e-aláírás funkcióval és időbélyegzéssel kapcsolatos további rendelkezések
+## 19. [^193] Az e-aláírás funkcióval és időbélyegzéssel kapcsolatos további rendelkezések
 
-59. § (1)[^185] A járási hivatalok, a kijelölt kormányhivatal állami tisztviselői és a nyilvántartást kezelő szerv kormánytisztviselői részt vehetnek az e-aláírási funkcióhoz kapcsolódóan a kijelölt hitelesítés-szolgáltató által nyújtott hitelesítés-szolgáltatásban, illetve az aláírás-létrehozó adat elhelyezése aláírás-létrehozó eszközön szolgáltatásban.
+59. § (1)[^194] A járási hivatalok, a kijelölt kormányhivatal állami tisztviselői és a nyilvántartást kezelő szerv kormánytisztviselői részt vehetnek az e-aláírási funkcióhoz kapcsolódóan a kijelölt hitelesítés-szolgáltató által nyújtott hitelesítés-szolgáltatásban, illetve az aláírás-létrehozó adat elhelyezése aláírás-létrehozó eszközön szolgáltatásban.
 
-(2)[^186] Az e-aláírási funkcióhoz és az időbélyegzés szolgáltatáshoz kapcsolódó panaszokat a szolgáltatást igénybe vevő az országos telefonos ügyfélszolgálatnál – írásban, telefon és elektronikus levél útján – terjesztheti elő. A telefonos ügyfélszolgálat a panaszt haladéktalanul továbbítja a kijelölt hitelesítés-szolgáltatónak.
+(2)[^195] Az e-aláírási funkcióhoz és az időbélyegzés szolgáltatáshoz kapcsolódó panaszokat a szolgáltatást igénybe vevő az országos telefonos ügyfélszolgálatnál – írásban, telefon és elektronikus levél útján – terjesztheti elő. A telefonos ügyfélszolgálat a panaszt haladéktalanul továbbítja a kijelölt hitelesítés-szolgáltatónak.
 
-(3)[^187] Az e-aláírás funkcióhoz tartozó, az egy aláírással tehető pénzügyi kötelezettségvállalás maximális mértéke 50 000 000 forint.
+(3)[^196] Az e-aláírás funkcióhoz tartozó, az egy aláírással tehető pénzügyi kötelezettségvállalás maximális mértéke 50 000 000 forint.
 
-(4)[^188]
+(4)[^197]
 
-[^184]: A 19. alcím címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^185]: Az 59. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (4) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^186]: Az 59. § (2) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^187]: Az 59. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 148. § (1) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^188]: Az 59. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 148. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^193]: A 19. alcím címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^194]: Az 59. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (4) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^195]: Az 59. § (2) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^196]: Az 59. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 148. § (1) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^197]: Az 59. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 148. § (2) bekezdése hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

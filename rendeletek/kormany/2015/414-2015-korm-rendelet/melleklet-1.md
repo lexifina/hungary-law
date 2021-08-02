@@ -20,17 +20,19 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 
 9. Neme
 
-10.[^207] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
+9a.[^217] Származási helye (Kérelmére)
 
-10a.[^208] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
+10.[^218] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
+
+10a.[^219] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
 
 11. Okmány belföldi kézbesítési címe
 
 12. Arcképmása
 
-13. Ujjnyomatának rögzítése, vagy a rögzítés visszautasítása
+13.[^220] Ujjnyomatának rögzítése
 
-14. Ujjnyomat adására fizikailag képtelenség ténye
+14.[^221] Ujjnyomat adására ideiglenesen fizikailag vagy fizikailag képtelenség ténye
 
 15. Saját kezű aláírása
 
@@ -50,8 +52,14 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 
 23. Az elektronikus aláíráshoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód és a visszavonási jelszó átvételének ténye és a kódokat tartalmazó boríték azonosítója, ha e-aláírás funkciót igényelt
 
-24.[^209] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
+24.[^222] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
 
-[^207]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^208]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^209]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
+25.[^223] A személyazonosító igazolvány kérelem és adatlap ügyszáma
+
+[^217]: Az 1. melléklet 9a. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
+[^218]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^219]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^220]: Az 1. melléklet 13. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^221]: Az 1. melléklet 14. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^222]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
+[^223]: Az 1. melléklet 25. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
