@@ -1,15 +1,3 @@
-## 1. Az R. 1. számú melléklet 8.1. pontja helyébe a következő rendelkezés lép:
+2. melléklet a 32/2021. (VII. 29.) EMMI rendelethez[^13]
 
-## (Az eszköz megfelelőségi igazolása)
-
-## „8.1. Regisztrációról szóló igazolás száma, amennyiben az az R. vagy az IVD-rendelet szerint kötelező”
-
-## 2. Az R. 1. számú melléklet 9.1. pontja helyébe a következő rendelkezés lép:
-
-## (Az eszköz árára, társadalombiztosítási támogatására vonatkozó paraméterek)
-
-## „9.1. Árajánlat (nettó fogyasztói ár Ft/mennyiségi egység)
-
-## Nyilatkozat arról – az alkalmazott számítások egyidejű bemutatásával –, hogy az árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és az üzleti kockázatot csökkenti a támogatással történő értékesítés;”
-
-2. melléklet a 32/2021. (VII. 29.) EMMI rendelethez
+[^13]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
