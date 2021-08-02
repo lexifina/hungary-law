@@ -22,7 +22,7 @@ bb) az 596/2014/EU rendelet 16. és 17. cikkének megsértése esetén legfeljeb
 
 bc) az 596/2014/EU rendelet 18., 19. és 20. cikkének megsértése esetén legfeljebb 2 000 000 000 forint.
 
-(4) Az 596/2014/EU rendelet megsértése esetén a bírság mértéke a jogsértésből származó nyereség vagy az amiatt elkerült veszteség legfeljebb háromszorosa, ha a veszteség összegszerűen meghatározható.
+(4) Az 596/2014/EU rendelet megsértése esetén a bírság mértéke a jogsértésből származó nyereség vagy az amiatt elkerült veszteség legfeljebb háromszorosa, ha a nyereség vagy a veszteség összegszerűen meghatározható.
 
 (5) A 909/2014/EU rendelet megsértése esetén a bírság mértéke
 
