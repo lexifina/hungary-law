@@ -1,3 +1,3 @@
-5. melléklet a 259/2021. (V. 20.) Korm. rendelethez[^41]
+5. melléklet a 259/2021. (V. 20.) Korm. rendelethez[^56]
 
-[^41]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

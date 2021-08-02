@@ -1,1 +1,3 @@
-## „i) a Magyarország területén tartózkodási vízummal vagy tartózkodási engedéllyel, bevándorolt vagy letelepedett jogállással, külön törvény szerint tartózkodási kártyával, állandó tartózkodási kártyával, huzamos tartózkodási kártyával rendelkező, illetve menekültként elismert családtag közjegyzői okiratba foglalt, a kérelmező eltartását és ellátását biztosító nyilatkozatával, valamint a tartást vállaló személy tartási képességét igazoló okirattal, vagy”
+## 11. §[^12]
+
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

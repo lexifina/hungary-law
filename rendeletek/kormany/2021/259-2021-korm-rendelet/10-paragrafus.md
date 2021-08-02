@@ -1,3 +1,3 @@
-## „(8) A Főigazgatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja a kishatárforgalmi engedélyben, valamint a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya, valamint huzamos tartózkodási kártya okmányban elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hatóságok ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok kiállítását.
+## 9. §[^10]
 
-## (9) A kishatárforgalmi engedéllyel, valamint magyar állampolgár harmadik ország állampolgárságával rendelkező családtagjaként tartózkodási kártyával rendelkező harmadik országbeli állampolgár, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
