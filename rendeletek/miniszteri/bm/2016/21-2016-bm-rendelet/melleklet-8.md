@@ -116,7 +116,7 @@
 
 ## – a Kstv. 10. § (1) bekezdés a) pontja szerinti önkormányzat közszolgáltatási szerződésenként
 
-8. melléklet a 21/2016. (VI. 9.) BM rendelethez[^26]
+8. melléklet a 21/2016. (VI. 9.) BM rendelethez[^27]
 
 1. Az égéstermék-elvezetők jele
 
@@ -340,4 +340,4 @@
 
 10. Társasházban vagy lakásszövetkezeti lakóépületben lévő gyűjtő jellegű égéstermék-elvezető esetén a nem természetes személy tulajdonában álló vagy gazdálkodó szervezet székhelyeként, telephelyeként, fióktelepeként bejegyzett ingatlanokra vonatkozó Kstv. 2. § (6) bekezdés szerinti költségtérítés meghatározásánál az 5. pont szerinti képletet az alábbi arányszámmal kell megszorozni:
 
-[^26]: A 8. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § f) pontja szerint módosított szöveg.
+[^27]: A 8. melléklet a 33/2017. (XII. 20.) BM rendelet 4. § f) pontja szerint módosított szöveg.
