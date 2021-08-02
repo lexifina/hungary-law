@@ -122,7 +122,7 @@
 
 | Ssz. | Központi szolgáltató megnevezése | A közszolgáltatás tárgya | A közszolgáltatási feladat | A szolgáltatás nyújtásának kezdete |
 
-| 1. | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | adatátviteli szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 1. |  |  |  |  |
 
 | 2. | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | integrált adatszolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
@@ -134,4 +134,4 @@
 
 | 6. | NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. | eszközüzemeltetés szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
-[^1]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a szerint módosított szöveg.
