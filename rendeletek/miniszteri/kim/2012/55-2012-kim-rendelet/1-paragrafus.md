@@ -1,4 +1,4 @@
-1. § (1)[^1] A lakcímbejelentésről és az értesítési cím bejelentéséről történő értesítési szolgáltatásért ingatlanonként évente az alábbi összegű igazgatási szolgáltatási díjat kell fizetni:
+1. § (1)[^1] A lakcímbejelentésről történő értesítési szolgáltatásért ingatlanonként évente az alábbi összegű igazgatási szolgáltatási díjat kell fizetni:
 
 a) levélben történő értesítésért: 3600 Ft/év,
 
@@ -14,5 +14,5 @@ e) kombinált szolgáltatás (szöveges üzenetközvetítési szolgáltatás és
 
 (3)[^2] Az (1) bekezdés szerinti igazgatási szolgáltatási díj (a továbbiakban: díj) egy ingatlan egy évre vonatkozó figyelését tartalmazza, valamint korlátlan darabszámú értesítés küldését az igénylő által választott módon vagy módokon.
 
-[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 6. § (1) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 6. § (1) bekezdése, a 24/2021. (VII. 30.) BM rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 6/2013. (V. 30.) KIM rendelet 12. §-a szerint módosított szöveg.
