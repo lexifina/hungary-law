@@ -12,11 +12,11 @@ Melléklet a 15/2001. (VII. 5.) BM rendelethez[^10]
 
 | 1.3. Az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetőleg megkerülésének tényéről | 2000 Ft/adattétel |
 
-| 2. Az egy eljárásban kért legalább 20 főre vagy úti okmányra vonatkozó adatot tartalmazó adatszolgáltatás díja az 1.1., 1.2., 1.3. pontok esetében | 730 Ft/adattétel |
+| 2. Az egy eljárásban, egy elszámolási időszakban kért legalább 20 főre vagy úti okmányra vonatkozó adatot tartalmazó adatszolgáltatás díja az 1.1., 1.2., 1.3. pontok esetében | 730 Ft/adattétel |
 
 | 3. Az érintett személy arcképmásáról vagy saját kezű aláírásáról szolgáltatott adat | 2750 Ft/adattétel |
 
 | 4. |  |
 
 [^9]: A 6. § az 58/2016. (XII. 22.) BM rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^10]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 4. §-ával megállapított, a 82/2012. (XII. 28.) BM rendelet 4. §-a, az 58/2016. (XII. 22.) BM rendelet 10. § (1) bekezdés d)–e) pontja és (2) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 4. §-ával megállapított, a 82/2012. (XII. 28.) BM rendelet 4. §-a, az 58/2016. (XII. 22.) BM rendelet 10. § (1) bekezdés d)–e) pontja és (2) bekezdés c) pontja, a 24/2021. (VII. 30.) BM rendelet 4. § b) pontja szerint módosított szöveg.
