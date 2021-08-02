@@ -1,5 +1,5 @@
-## 29. §[^32]
+## 29. §[^41]
 
 ## 16. A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek tisztjelöltjeiről és a tisztjelölti szolgálati jogviszonyról szóló 20/2016. (VI. 9.) BM rendelet módosítása
 
-[^32]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

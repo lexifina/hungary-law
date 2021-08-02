@@ -1,4 +1,4 @@
-## 33. §[^34]
+## 33. §[^45]
 
 ## 19. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 10. §, a 23. §, a 24. § f) pontja, a 26. § és a 17. alcím 2021. augusztus 1-jén lép hatályba.
 
-[^34]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

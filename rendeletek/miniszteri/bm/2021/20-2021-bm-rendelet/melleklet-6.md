@@ -1,11 +1,3 @@
-## A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél a hivatásos szolgálati beosztásokról és a betöltésükhöz szükséges követelményekről szóló 30/2015. (VI. 16.) BM rendelet 6. melléklet I. alcím 1. pontjában foglalt táblázat a következő 7a. sorral egészül ki:
+6. melléklet a 20/2021. (VII. 14.) BM rendelethez[^51]
 
-|  | [A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat] |
-
-| 7a. | középvezető | főosztályvezető 1 | főtanácsadó (országos parancsnoki biztos) | 100 |  |
-
-6. melléklet a 20/2021. (VII. 14.) BM rendelethez
+[^51]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
