@@ -1,0 +1,3 @@
+107. § A Kbftv. 53. §-a a következő (6a) bekezdéssel egészül ki:
+
+„(6a) Ha a (6) bekezdés szerinti változás miatt az ÁÉKBV-alapkezelő a továbbiakban már nem felelne meg e törvénynek, a Felügyelet a (6) bekezdés szerinti – a változásról szóló – értesítés kézhezvételétől számított 15 munkanapon belül tájékoztatja az ÁÉKBV-alapkezelőt arról, hogy ezt a változtatást nem hajthatja végre. A Felügyelet erről tájékoztatja a fogadó tagállam felügyeleti hatóságait. Ha a tervezett változtatást ennek ellenére ezt követően végrehajtják, amelynek következtében az ÁÉKBV-alapkezelő már nem felel meg e törvénynek, a Felügyelet megteszi a megfelelő intézkedéseket, és azokról haladéktalanul értesíti a fogadó tagállam felügyeleti hatóságait.”
