@@ -1,7 +1,1 @@
-96. § Az Art. 15. §-a helyébe a következő rendelkezés lép:
-
-„15. § [Az adóköteles tevékenység szünetelésének következménye]
-
-(1) Az egyéni vállalkozó, az egyéni ügyvéd, a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező természetes személy és a szabadalmi ügyvivő a tevékenységének szüneteltetése, a közjegyző a közjegyzői szolgálata, az önálló bírósági végrehajtó a végrehajtói szolgálata szünetelésének időtartamához kötődő és ilyen minőségében keletkezett adókötelezettségek – kivéve az általános forgalmi adóval kapcsolatos kötelezettségek – teljesítése alól mentesül, ideértve a pénzforgalmi-számlafenntartási kötelezettséget is.
-
-(2) Az egyéni vállalkozó, az egyéni ügyvéd, a szabadalmi ügyvivő, a szolgáltató állatorvosi tevékenység gyakorlására jogosító igazolvánnyal rendelkező természetes személy tevékenysége szüneteltetésének, valamint a közjegyző közjegyzői, az önálló bírósági végrehajtó a végrehajtói szolgálata szünetelésének időtartamára vonatkozóan – ha törvény vagy törvény felhatalmazása alapján kiadott jogszabály másként nem rendelkezik – ilyen minőségében adó-visszaigénylést, adóvisszatérítést, költségvetési támogatásigénylést a szünetelés megszűnését követően sem kérhet, illetve a szünetelés időtartama alatt a túlfizetés visszatérítését nem kérheti. Egyéni vállalkozó esetén a szünetelés időtartama alatt az egyéni vállalkozók nyilvántartása szerinti szünetelés kezdő és záró időpontja közötti időszakot kell érteni.”
+96. §
