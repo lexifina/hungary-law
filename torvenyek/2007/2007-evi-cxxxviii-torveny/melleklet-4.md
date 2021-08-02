@@ -31,11 +31,3 @@ d) azon munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a
 a) a befektetési vállalkozás közgyűlése arra felhatalmazást ad,
 
 b) a közgyűlésen megtárgyalt előterjesztés részletesen feltünteti a magasabb teljesítményjavadalmazás indoklását,
-
-c) a közgyűlésen a befektetési vállalkozás tagjainak támogató határozata
-
-ca) legalább 66 százalékos többségű, amely a tulajdoni jogok legalább 50 százalékát jeleníti meg, vagy
-
-cb) legalább a képviselt tulajdoni jogok 75 százalékos többségével kerül elfogadásra, és
-
-d) a befektetési vállalkozás tájékoztatja a Felügyeletet a közgyűlés előterjesztéséről, valamint a c) pont alapján hozott határozatról.

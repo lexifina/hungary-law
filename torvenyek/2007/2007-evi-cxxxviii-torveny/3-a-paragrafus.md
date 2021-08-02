@@ -4,7 +4,7 @@ a) az e törvény multilaterális kereskedési rendszerre vagy szervezett keresk
 
 b) a Tpt. Kilencedik Részében meghatározott rendelkezések
 
-szerint kell működtetni, valamint a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 600/2014/EU rendelet) II. címével összhangban kell az a) és b) pont szerinti kereskedési helyszínek átláthatóságát biztosítani.
+szerint kell működtetni, valamint a 600/2014/EU rendelet II. címével összhangban kell az a) és b) pont szerinti kereskedési helyszínek átláthatóságát biztosítani.
 
 (2) Minden olyan befektetési vállalkozást, amely szervezett, gyakori és rendszeres formában, jelentős nagyságrendben, az ügyfélmegbízások végrehajtásakor saját számlás kereskedést folytat szabályozott piacon, multilaterális kereskedési rendszeren vagy szervezett kereskedési rendszeren kívül, a 600/2014/EU rendelet III. címével összhangban kell működtetni.
 

@@ -196,7 +196,7 @@ c) az eladási és vételi ár különbségének (spread) átlagos nagyságrendj
 
 49a. multilaterális rendszer: valamely rendszer, amelyben több harmadik fél pénzügyi eszközökre irányuló vételi és eladási szándéka hozható össze a rendszeren belül,
 
-49b. nagykereskedelmi energiatermék: az 1227/2011/EU rendelet 2. cikkének 4. pontjában meghatározott nagykereskedelmi energiatermék,
+49b. nagykereskedelmi energiatermék: a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1227/2011/EU európai parlamenti és tanácsi rendelet) 2. cikkének 4. pontjában meghatározott nagykereskedelmi energiatermék,
 
 49c. nagysebességű algoritmikus kereskedési technika: bármely, az alábbi sajátosságokkal jellemezhető kereskedési technika:
 
@@ -213,6 +213,8 @@ c) a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 19. cikkében 
 50. pénzügyi elemző: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletében meghatározott személy,
 
 51. pénzpiaci eszköz: a fizetőeszköz kivételével sorozatban kibocsátott pénzkövetelésre szóló eszköz, amellyel pénzpiacon kereskednek
+
+51b. pénzügyi vállalkozás: az (EU) 2019/2033 rendelet 4. cikk (1) bekezdés 14. pontjában meghatározott fogalom,
 
 52. pénzügyi eszköz elhelyezése (placement): a pénzügyi eszköz Tpt. szerinti forgalombahozatala és nyilvános értékesítésre történő felajánlása,
 

@@ -16,7 +16,7 @@ eb) a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktus
 
 ec) a külföldi befektetési vállalkozás, árutőzsdei szolgáltató székhelye szerinti állam rendelkezik a jogszabályok és az Európai Unió közvetlenül alkalmazandó jogi aktusai által támasztott követelményeket kielégítő adatvédelmi jogszabállyal,
 
-f) a befektetési vállalkozás, az árutőzsdei szolgáltató igazgatóságának írásbeli hozzájárulásával a befektetési vállalkozásban, az árutőzsdei szolgáltatóban minősített befolyással rendelkező tulajdonosnak vagy az ilyen befolyást szerezni kívánó személynek vagy szervezetnek, a szerződéses kötelezettségek állományának átruházásáról szóló megállapodás szerinti átvevő társaságnak, vagy ezek tulajdonosa, jövőbeni tulajdonosa által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
+f) a befektetési vállalkozás, az árutőzsdei szolgáltató irányítási jogkörrel rendelkező vezető testületének írásbeli hozzájárulásával a befektetési vállalkozásban, az árutőzsdei szolgáltatóban minősített befolyással rendelkező vagy az ilyen befolyást szerezni kívánó személynek vagy szervezetnek, a szerződéses kötelezettségek állományának átruházásáról szóló megállapodás szerinti átvevő társaságnak, vagy ezek tulajdonosa által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő adatátadás,
 
 g) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírás-mintájának bemutatása,
 
@@ -54,6 +54,6 @@ t) a szanálási feladatkörében eljáró MNB által a pénzügyi közvetítő 
 
 u) a befektetési vállalkozás ügyfele által nyilvánosságra hozott állítással összefüggésben a befektetési vállalkozás részéről a közte és ügyfele közötti jogviszonyra vonatkozó, a nyilvánosság előtti válaszadáshoz szükséges mértékben történő adatközlés,
 
-v) a hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása,
+v) a hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő befektetési vállalkozás Hpt. 164/B. § szerinti kölcsönös adatátadása,
 
 w) a nyilvánosan működő részvénytársaság számára külön jogszabályban biztosított részvényesi azonosítás érdekében az értékpapírszámla-vezető részéről a nyilvánosan működő részvénytársaság részére nyújtott adatszolgáltatás.

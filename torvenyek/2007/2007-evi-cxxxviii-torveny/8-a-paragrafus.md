@@ -2,7 +2,7 @@
 
 a) az eszközei havi összértékének 12 egymást követő hónapra számított átlaga legalább harmincmilliárd euró, vagy
 
-b) eszközei havi összértékének 12 egymást követő hónapra számított átlaga legfeljebb harmincmilliárd euró, de olyan csoport tagja, amelynél a csoporthoz tartozó valamennyi vállalkozás egyedi szinten harmincmilliárd eurónál kisebb összértékű eszközzel rendelkezik és befektetési szolgáltatásként sajátszámlás kereskedést vagy pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást) végez, a vállalkozások konszolidált eszközeinek összértéke legalább ötmilliárd euró, és ezen összegek mindkét esetben a megelőző 12 egymást követő hónap átlagában kerültek kiszámításra.
+b) eszközei havi összértékének 12 egymást követő hónapra számított átlaga legfeljebb harmincmilliárd euró, de olyan csoport tagja, amelynél a csoporthoz tartozó valamennyi vállalkozás egyedi szinten harmincmilliárd eurónál kisebb összértékű eszközzel rendelkezik és befektetési szolgáltatásként sajátszámlás kereskedést vagy pénzügyi eszköz elhelyezését az eszköz (értékpapír vagy egyéb pénzügyi eszköz) vételére vonatkozó kötelezettségvállalással (jegyzési garanciavállalást) végez, a vállalkozások konszolidált eszközeinek összértéke legalább harmincmilliárd euró, és ezen összegek mindkét esetben a megelőző 12 egymást követő hónap átlagában kerültek kiszámításra.
 
 (2) Az (1) bekezdés szerinti tevékenységi (működési) engedélyezéskor a Hpt.-ben foglaltak alkalmazandóak azzal, hogy a Felügyelet biztosítja, hogy az eljárás a lehető legegyszerűbb legyen, figyelembe véve a meglévő engedélyekből származó információkat.
 
