@@ -1,1 +1,0 @@
-Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 64/B. § (4) bekezdésében kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 41. § m) és o) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
