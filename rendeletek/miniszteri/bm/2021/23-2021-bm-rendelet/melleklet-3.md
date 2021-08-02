@@ -1,7 +1,3 @@
-## „4. melléklet a 25/2007. (V. 31.) IRM rendelethez
+3. melléklet a 23/2021. (VII. 29.) BM rendelethez[^21]
 
-## 20210A20000023_2
-
-## ”
-
-3. melléklet a 23/2021. (VII. 29.) BM rendelethez
+[^21]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

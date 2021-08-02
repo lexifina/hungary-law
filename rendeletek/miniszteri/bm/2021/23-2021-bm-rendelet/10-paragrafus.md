@@ -1,3 +1,5 @@
-## 9. § Hatályát veszti a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 25/2007. (V. 31.) IRM rendelet 3. § (4) bekezdés a) pontja.
+## 9. §[^9]
 
 ## 3. A kitoloncolás végrehajtásának szabályairól szóló 26/2007. (V. 31.) IRM rendelet módosítása
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

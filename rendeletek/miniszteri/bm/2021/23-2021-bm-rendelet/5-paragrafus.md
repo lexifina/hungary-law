@@ -1,1 +1,3 @@
-## „(4) A huzamos tartózkodási kártyát a 6. melléklet 4. pontja szerinti formában és adattartalommal kell kiállítani.”
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
