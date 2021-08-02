@@ -1,5 +1,0 @@
-## 8. § A Vhr. 89. §-a a következő (12) és (13) bekezdéssel egészül ki:
-
-## „(12) Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 12/2021. (VII. 30.) NVTNM rendelettel megállapított 23. § (7) bekezdése hatálybalépését megelőzően már engedélyezett sorsjegysorozat tekintetében a szerencsejáték-felügyeleti hatóság a játékterv-módosítás jóváhagyásával engedélyezheti, hogy a szervező a nyereménykifizetés helyét és idejét a részvételi szabályzatban a sorsjegyen feltüntetett tájékoztatástól eltérően szabályozza, ha egyes értékesítőhelyeken a nyeremény kifizetése kizárt vagy nem biztosított. A játékosok nyereménykifizetéssel kapcsolatos, megfelelő tájékoztatása ezeken a sorsjegy értékesítő helyszíneken a sorsjegy értékesítése során jól látható hirdetményben és a szerencsejáték-szervező honlapján elérhető részvételi szabályzatban is kötelező.
-
-## (13) A (12) bekezdés szerinti játékterv-módosítás iránti kérelem elbírálása során a 23. § (8) és (9) bekezdésében foglaltak is alkalmazandóak.”
