@@ -1,3 +1,3 @@
-3. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^25]
+3. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^26]
 
-[^25]: A 3. számú mellékletet az 58/2016. (XII. 22.) BM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
+[^26]: A 3. számú mellékletet az 58/2016. (XII. 22.) BM rendelet 4. § (2) bekezdése hatályon kívül helyezte.
