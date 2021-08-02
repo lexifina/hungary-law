@@ -22,7 +22,7 @@ a) intézményre vagy csoportra kidolgozott szanálási terv tekintetében,
 
 b) reorganizációs terv tekintetében és eleget tesz-e a 61. § (2a) bekezdésében, valamint a 69. § (4) bekezdés b) és c) pontjában meghatározott értékek összege fedezetének.
 
-(7) Az intézmény és az 1. § (1) bekezdés b) és c) pont szerinti szervezet által kibocsátott vagy keletkeztetett bármilyen értékpapír vagy kötelezettség – amely nem mentesül a hitelezői feltőkésítés alól, nem a Hpt. 57. § (1) bekezdés a) és b) pontjába sorolandó betét, és nem EGT-állam jogszabályai által szabályozott – olyan szerződéses feltételt tartalmaz, amely
+(7) Az intézmény és az 1. § (1) bekezdés b) és c) pont szerinti szervezet által kibocsátott vagy keletkeztetett bármilyen értékpapír vagy kötelezettség – amely nem mentesül a leírási vagy átalakítási hatáskör gyakorlása alól, nem a Hpt. 57. § (1) bekezdés a) és b) pontjába sorolandó betét, és nem EGT-állam jogszabályai által szabályozott – olyan szerződéses feltételt tartalmaz, amely
 
 a) elismeri, hogy az érintett kötelezettség a szanálási feladatkörében eljáró MNB által hitelezői feltőkésítés alá vonható, valamint
 
@@ -44,7 +44,7 @@ b) hozzájárul a szanálási feladatkörében eljáró MNB leírási, törlési
 
 (9) A (7) bekezdésben foglalt kötelezettség nem teljesítése nem akadályozza a szanálási feladatkörében eljáró MNB-t, hogy alkalmazza a hitelezői feltőkésítést az érintett instrumentumra vagy kötelezettségre.
 
-(9a) A szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó minimumkövetelmények kiszámítása során a (7) bekezdés szerinti szerződéses feltételt nem tartalmazó kötelezettségeket nem lehet figyelembe venni.
+(9a) A szavatoló tőkére és a leírható vagy átalakítható kötelezettségekre vonatkozó minimumkövetelmények teljesítése során a (7) bekezdés szerinti szerződéses feltételt nem tartalmazó kötelezettségeket nem lehet figyelembe venni.
 
 (9b) Ha a szanálási feladatkörében eljáró MNB szükségesnek ítéli, akkor meghatározza a kötelezettségek azon kategóriáit, amelyek esetében az intézmény vagy az 1. § (1) bekezdés b) és c) pontja szerinti szervezet saját hatáskörében megállapíthatja a (7) bekezdés szerinti szerződéses feltétel szerződésbe foglalásának lehetetlenségét.
 

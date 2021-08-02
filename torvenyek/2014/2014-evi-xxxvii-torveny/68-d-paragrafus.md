@@ -1,6 +1,6 @@
 ## 28/G. A szavatolótőkére és a leírható, illetve átalakítható kötelezettségekre vonatkozó minimumkövetelmény meghatározására irányuló eljárás
 
-68/D. § (1) A szanálási feladatkörében eljáró MNB a szanálás alá vonható szervezet, a csoport vagy a csoport egyedi alapon a 68/B. § szerinti követelmény hatálya alá tartozó leányvállalatért felelős szanálási hatóságaként minden tőle telhetőt megtesz, hogy az érintett hatóságokkal többoldalú eljárás keretében hozott döntésben rendelkezzenek
+68/D. § (1) A szanálási feladatkörében eljáró MNB a szanálás alá vonható szervezet szanálási hatóságaként, a csoportszintű szanálási hatóságként amennyiben az előbbi eltér vagy a 68/B. § szerinti követelmény hatálya alá tartozó leányvállalatért felelős szanálási hatóságaként minden tőle telhetőt megtesz, hogy az érintett hatóságokkal többoldalú eljárás keretében hozott döntésben rendelkezzenek
 
 a) a szanálás alá vonható szervezetekre vonatkozó, szanálás alá vonható csoport szintjén teljesítendő követelmények összegéről, és
 
@@ -38,7 +38,7 @@ b) a korrekció nem alkalmazható a szanálás alá vonható csoportok közötti
 
 a) a szanálás alá vonható csoport szanálás alá nem vonható szervezet érintett szanálási hatóságának értékelésére, és
 
-b) a szanálás alá vonható csoport szanálási hatóságának véleményére.
+b) – ha a csoportszintű szanálási hatóság nem a szanálás alá vonható szervezet szanálási hatósága, akkor – a csoportszintű szanálási hatóság véleményére.
 
 (8) Ha a négy hónapos időszak végén valamelyik érintett szanálási hatóság az ügyet az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikkének megfelelően az EBH elé utalta, akkor a szanálási feladatkörében eljáró MNB mint a szanálás alá vonható szervezet szanálási hatósága elhalasztja a döntés meghozatalát addig, amíg az EBH az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdésével összhangban döntést hoz, amellyel összhangban hozhatja majd meg a szanálási feladatkörében eljáró MNB a döntését.
 
@@ -52,7 +52,7 @@ a) a szanálás alá vonható szervezet szanálási hatóságának írásban kif
 
 b) – ha a csoportszintű szanálási hatóság nem a szanálás alá vonható szervezet szanálási hatósága, akkor – a csoportszintű szanálási hatóság írásban kifejezett véleményére és fenntartásainak megfelelő figyelembevételére.
 
-(12) Ha a négy hónapos időszak végén valamelyik érintett szanálási hatóság az ügyet az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikkének megfelelően az EBH elé utalta, akkor a szanálási feladatkörében eljáró MNB mint a leányvállalat szanálási hatósága elhalasztja a döntés meghozatalát addig, amíg az EBH az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdésével összhangban határozatot hoz, amellyel összhangban hozhatja majd meg a szanálási feladatkörében eljáró MNB a döntését.
+(12) Ha a négy hónapos időszak végén a szanálás alá vonható szervezet szanálási hatósága vagy a csoportszintű szanálási hatóság az ügyet az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikkének megfelelően az EBH elé utalta, akkor a szanálási feladatkörében eljáró MNB mint a leányvállalat szanálási hatósága elhalasztja a döntés meghozatalát addig, amíg az EBH az európai felügyeleti hatóság (Európai Bankhatóság) létrehozásáról, a 716/2009/EK határozat módosításáról és a 2009/78/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2010. november 24-i 1093/2010/EU európai parlamenti és tanácsi rendelet 19. cikk (3) bekezdésével összhangban határozatot hoz, amellyel összhangban hozhatja majd meg a szanálási feladatkörében eljáró MNB a döntését.
 
 (13) A (12) bekezdés szerinti négy hónapos időtartam végét vagy a többoldalú eljárás keretében hozott döntés meghozatalát követően az ügy már nem utalható az EBH elé.
 
@@ -66,12 +66,12 @@ b) megfelel a 67. § (16)–(23) bekezdésének.
 
 (16) A többoldalú eljárás keretében hozott döntést, illetve az annak hiányában hozott minden döntést rendszeresen felül kell vizsgálni és szükség esetén naprakésszé kell tenni.
 
-(17) Ha négy hónapon belül azért nem születik többoldalú eljárás keretében hozott döntés, mert véleménykülönbség áll fenn a szanálás alá vonható csoport esetén az összevont alapon alkalmazandó követelmény szintjét, illetve a szanálás alá vonható csoport szervezeteire egyedi alapon alkalmazandó követelmény szintjét illetően, akkor a szanálási feladatkörében eljáró MNB döntést hoz, mint a szanálás alá vonható csoport szanálási hatósága
+(17) Ha négy hónapon belül azért nem születik többoldalú eljárás keretében hozott döntés, mert véleménykülönbség áll fenn a szanálás alá vonható csoport esetén az összevont alapon alkalmazandó követelmény szintjét, illetve a szanálás alá vonható csoport szervezeteire egyedi alapon alkalmazandó követelmény szintjét illetően, akkor a szanálási feladatkörében eljáró MNB döntést hoz
 
-a) a (11)–(16) bekezdéssel összhangban a szanálás alá vonható csoport leányvállalataira egyedi alapon alkalmazandó követelmény szintjéről,
+a) a (11)–(16) bekezdéssel összhangban a szanálás alá vonható csoport illetékességi körébe tartozó leányvállalataira egyedi alapon alkalmazandó követelmény szintjéről,
 
-b) a (7)–(10) bekezdéssel összhangban a szanálás alá vonható csoport esetén az összevont alapon alkalmazandó követelmény szintjéről.
+b) a (7)–(10) bekezdéssel összhangban az illetékességi körébe tartozó szanálás alá vonható szervezet esetén az összevont alapon alkalmazandó követelmény szintjéről.
 
 (18) Az (1)–(3) bekezdésben meghatározott többoldalú eljárás keretében hozott döntés, illetve annak hiányában az érintett szanálási hatóságok által a (7)–(17) bekezdésben meghatározottak szerinti döntés kötelezően alkalmazandó minden érintett szanálási hatóság számára, azzal, hogy a (16) bekezdés szerint kell eljárni a felülvizsgálata során.
 
-(19) Ha a szanálási feladatkörében eljáró MNB a szanálás alá vonható csoport szanálási hatósága, akkor a Felügyelettel együttműködve előírja a szervezetek számára a 62. § (1) bekezdése szerinti követelmény teljesítését, amely betartását ellenőrzi, továbbá figyelemmel a szanálási tervek kialakítására és naprakészen tartására rendszeresen frissíti a határozatát.
+(19) A szanálási feladatkörében eljáró MNB a Felügyelettel együttműködve előírja a szervezetek számára a 62. § (1) bekezdése szerinti követelmény teljesítését, amely betartását ellenőrzi, továbbá figyelemmel a szanálási tervek kialakítására és naprakészen tartására rendszeresen frissíti a határozatát.

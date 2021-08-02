@@ -31,3 +31,5 @@ c) a 61. § alapján leírandó vagy átalakítandó tőkeelemek összegét.
 (5) Ha az intézmény a Hpt. 126–134. §-a alapján és a Bszt. 37–39. §-a alapján befolyásoló részesedést szerezne, akkor a Felügyelet az eljárást a lehető leggyorsabban lefolytatja, hogy a hitelezői feltőkésítést, a tőkeelemek leírását vagy átalakítását ne akadályozza.
 
 (6) Ha az (5) bekezdésben foglalt eljárás nem fejeződött be a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása alkalmazásáig, és a hitelezői feltőkésítés, tőkeelem leírása vagy átalakítása eredményeként befolyásoló részesedés megszerzése vagy befolyásoló részesedés mértékének növelése történt, akkor a 39. § (3) bekezdésében meghatározottak szerint kell eljárni.
+
+(7) A hitelezői feltőkésítés és a tőkeelemek leírása vagy átalakítása során a szanálási feladatkörében eljáró MNB a hitelezői feltőkésítésbe bevont, valamint a tagsági részesedést megtestesítő értékpapírok tulajdonosai részére hirdetményi úton kézbesít.

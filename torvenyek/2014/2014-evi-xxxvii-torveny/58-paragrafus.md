@@ -12,7 +12,7 @@ e) legfeljebb hét nap hátralévő futamidejű kötelezettségre, amely
 
 ea) a fizetési, illetve értékpapír-elszámolási rendszerekben történő teljesítés véglegességéről szóló 2003. évi XXIII. törvény (a továbbiakban: Tvt.) alkalmazásában kijelölt rendszerekkel vagy rendszer-üzemeltetőkkel vagy ezek résztvevőivel szemben áll fenn, és amely az ilyen rendszerekkel való részvételből keletkezik, vagy
 
-eb) a tőzsdén kívüli származtatott ügyletekről, a központi szerződő felekről és a kereskedési adattárakról szóló, 2012. július 4-i 648/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 648/2012/EU rendelet) 14. cikke alapján EGT-államban engedélyezett központi szerződő felekkel, valamint az Európai Értékpapír-piaci Hatóság által a 648/2012/EU rendelet 25. cikkének megfelelően elismert harmadik országbeli központi szerződő felekkel szemben áll fenn,
+eb) a 648/2012/EU rendelet 14. cikke alapján EGT-államban engedélyezett központi szerződő felekkel, valamint az Európai Értékpapír-piaci Hatóság által a 648/2012/EU rendelet 25. cikkének megfelelően elismert harmadik országbeli központi szerződő felekkel szemben áll fenn,
 
 f) olyan kötelezettségre, amely
 

@@ -1,10 +1,10 @@
 ## 26/A. Alárendelt leírható, illetve átalakítható kötelezettségek értékesítése lakossági ügyfeleknek
 
-61/A. § (1) Az 575/2013/EU rendelet – 72a. cikk (1) bekezdés b) pontja és 72b. cikk (3)–(5) bekezdésének kivételével – 72a. cikkében meghatározott valamennyi feltételnek eleget tevő leírható, illetve átalakítható kötelezettségeket átruházó intézmény (e § alkalmazásában a továbbiakban: eladó) e kötelezettségeket azoknak a Bszt.-ben meghatározott lakossági ügyfeleknek, akik minimum ötvenezer euró névértékben kötnének ügyletet, az alábbi feltételek együttes teljesülése esetén értékesíti:
+61/A. § (1) Az 575/2013/EU rendelet – 72a. cikk (1) bekezdés b) pontja és 72b. cikk (3)–(5) bekezdésének kivételével – 72a. cikkében meghatározott valamennyi feltételnek eleget tevő leírható, illetve átalakítható kötelezettségeket átruházó intézmény (e § alkalmazásában a továbbiakban: eladó) e kötelezettségeket a Bszt.-ben meghatározott lakossági ügyfeleknek az alábbi feltételek együttes teljesülése esetén értékesíti:
 
 a) az eladó a Bszt. 44. § (1) és (2) bekezdésével összhangban alkalmassági tesztet végzett;
 
-b) az eladó az a) pont szerinti vizsgálat alapján meggyőződött arról, hogy a leírható, illetve átalakítható kötelezettségek megfelelőek az adott lakossági ügyfél számára;
+b) az eladó az a) pont szerinti vizsgálat alapján meggyőződött arról, hogy a leírható, illetve átalakítható kötelezettségek alkalmasak az adott lakossági ügyfél számára;
 
 c) az eladó a Bszt. 44. § (3)–(5) bekezdésével összhangban dokumentálja az alkalmasságot.
 
@@ -18,7 +18,7 @@ b) az (1) bekezdés szerinti egy vagy több kötelezettséginstrumentumba fektet
 
 (4) A (2) és a (3) bekezdés alkalmazásában a biztosítékként nyújtott pénzügyi eszközöket nem kell figyelembe venni.
 
-(5) Ha magyarországi székhelyű intézmény és a 68/A. § szerinti követelmény hatálya alá tartozó szervezetek összes eszközének értéke nem haladja meg az ötvenmilliárd eurót, az (1)–(4) bekezdésében meghatározott követelményektől eltérően kizárólag a (2) bekezdés b) pontjában meghatározott követelmény is alkalmazható.
+(5) Ha magyarországi székhelyű 68/A. § szerinti követelmény hatálya alá tartozó szervezetek összes eszközének értéke nem haladja meg az ötvenmilliárd eurót, az (1)–(4) bekezdésében meghatározott követelményektől eltérően kizárólag a (2) bekezdés b) pontjában meghatározott követelmény is alkalmazható.
 
 (6) E § rendelkezései az (1) bekezdésben meghatározott, 2020. december 28. előtt kibocsátott kötelezettségekre nem alkalmazandók.
 

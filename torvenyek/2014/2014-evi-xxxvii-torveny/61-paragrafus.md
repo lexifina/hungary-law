@@ -12,7 +12,7 @@ a) a szanálás alatt álló intézmény vagy az áthidaló intézmény iránti 
 
 b) a szanálás alatt álló intézmény elsődleges alapvető tőke tőkemegfelelési mutatójának helyreállítása vagy az áthidaló intézmény elsődleges tőkemegfelelési mutatójának megállapítása érdekében a Szanálási Alapból a 126. § (3) bekezdés d) pontja szerint juttatott tőke hozzájárulást is figyelembe kell venni.
 
-(2a) Ha a szanálási feladatkörében eljáró MNB szanálási eszközként eszközelkülönítést kíván alkalmazni, akkor azon összeg meghatározásakor, amellyel az erre figyelembe vehető kötelezettségeket csökkenteni kell, figyelembe veszi a szanálási vagyonkezelő tőkeszükségletének prudens becslését.
+(2a) Ha a szanálási feladatkörében eljáró MNB szanálási eszközként eszközelkülönítést kíván alkalmazni, akkor azon összeg meghatározásakor, amellyel a hitelezői feltőkésítésbe bevonható kötelezettségeket csökkenteni kell, figyelembe veszi a szanálási vagyonkezelő tőkeszükségletének prudens becslését.
 
 (3) Ha a 74–79. § alapján a tőkeelemek, leírható, illetve átalakítható kötelezettségek leírásra kerültek vagy az 57. § alapján a hitelezői feltőkésítés került alkalmazásra, és a leírás mértéke az elvégzett utólagos, végleges értékelés alapján meghaladja a szükséges mértéket, akkor a leértékelés mértéke terén utólagosan korrekciót kell végrehajtani a hitelezők és a tagsági részesedéssel rendelkezők kártalanítására.
 

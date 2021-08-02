@@ -4,7 +4,7 @@
 
 a) a hitelintézet és a központi szerv felügyeletét a Felügyelet látja el és ugyanannak a szanálás alá vonható csoportnak a tagjai,
 
-b) a központi szerv és a tartósan kapcsolt hitelintézetei kötelezettségvállalásai tekintetében egyetemleges felelősség áll fenn és a tartósan kapcsolt hitelintézetei egyes kötelezettségeit vagy kötelezettségvállalásait a központi szerv teljeskörűen garantálja,
+b) a központi szerv és a tartósan kapcsolt hitelintézetei kötelezettségvállalásai tekintetében egyetemleges felelősség áll fenn vagy a tartósan kapcsolt hitelintézetei egyes kötelezettségeit vagy kötelezettségvállalásait a központi szerv teljeskörűen garantálja,
 
 c) a központi szerv és az összes tartósan kapcsolt hitelintézet szavatoló tőkéjére és leírható, illetve átalakítható kötelezettségeire, valamint fizetőképességükre és likviditásukra vonatkozó minimumkövetelmény alakulását együttesen, ezen intézmények összevont beszámolói alapján követik nyomon,
 

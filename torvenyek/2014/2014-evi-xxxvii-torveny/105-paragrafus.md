@@ -16,4 +16,6 @@ d) a könyvvizsgáló írásos észrevételeit, a könyvvizsgálói jelentést, 
 
 e) az előbbiekben fel nem sorolt egyéb kimutatást – így különösen mindazon szerződések azonosító adataira vonatkozó teljes körű kimutatást, amelyben szerződő fél – a szanálási feladatkörében eljáró MNB által meghatározott formában elkészíteni és rendelkezésére bocsátani.
 
+(4a) A szanálási feladatkörében eljáró MNB hivatalból indult eljárásában, illetve rendszeres vagy rendkívüli adatszolgáltatási kötelezettség esetén a hiánypótlásra a kérelemre indult eljárásban alkalmazandó szabályokat kell alkalmazni.
+
 (5) A kapcsolattartás formáját a szanálási feladatkörében eljáró MNB választja meg, amelyről az ügyfél más módra nem térhet át.

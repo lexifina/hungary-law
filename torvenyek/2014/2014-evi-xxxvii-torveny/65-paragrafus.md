@@ -4,7 +4,7 @@
 
 a) nem gyűjtött vagy nem gyűjt betétet,
 
-b) esetében a megszűnése felszámolási eljárás keretében vagy vagyonértékesítés, áthidaló intézmény vagy eszközelkülönítés szanálási eszközökkel összefüggésben történik,
+b) esetében a megszűnése felszámolási eljárás keretében vagy vagyonértékesítés, áthidaló intézmény vagy eszközelkülönítés szanálási eszközökkel összhangban lefolytatott eljárásokban történik,
 
 c) esetében a b) pont szerinti eljárások biztosítják azt is, hogy a jelzálog-hitelintézet hitelezői – ideértve a fedezett kötvények birtokosait – a szanálási céloknak megfelelően viselik a veszteségeket.
 

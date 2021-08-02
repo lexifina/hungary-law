@@ -4,7 +4,7 @@ a) az Alaphoz való csatlakozásra vonatkozó nyilatkozatot az Alaphoz eljuttatn
 
 b) a jegyzett tőkéjének egy tízezrelékével megegyező összegű csatlakozási díjat az Alapba befizetni legkésőbb e törvény hatálybalépését követő 45 napon belül azzal, hogy a csatlakozási díj fennmaradó négy tízezrelékét e törvény hatálybalépését követő 90 napon belül teljesíti.
 
-(2) A 138. § (1) bekezdésben foglalt díjakat úgy kell megállapítani, hogy az Alap eszközei legkésőbb 2024. december 31. napjáig – és ezen időszakra egyenletesen elosztva – elérjék a Magyarországon engedélyezett hitelintézetek biztosított betétállománya kártalanítási összeghatárának legalább 1%-át.
+(2) A 138. § (1) bekezdésben foglalt díjakat úgy kell megállapítani, hogy az Alap eszközei legkésőbb 2028. december 31. napjáig – és ezen időszakra egyenletesen elosztva – elérjék a Magyarországon engedélyezett hitelintézetek biztosított betétállománya kártalanítási összeghatárának legalább 1%-át.
 
 (3)
 
