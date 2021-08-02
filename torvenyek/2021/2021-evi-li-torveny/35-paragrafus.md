@@ -1,6 +1,6 @@
-35. § Hatályát veszti a Kvtv.
+35. §
 
-a) 6. § (1) bekezdés j) és l) pontja,
+a)
 
 b)
 
