@@ -29,11 +29,3 @@ c) az európai közösségi finanszírozási üzleti szolgáltatókról, valamin
 d) az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
