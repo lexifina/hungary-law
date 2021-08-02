@@ -1,1 +1,3 @@
-4. § Nem lép hatályba a védettségi igazolások kölcsönös elfogadásának megállapításáról szóló 7/2021. (IV. 29.) KKM rendelet San Marino Köztársasággal összefüggő módosításáról szóló 27/2021. (VII. 12.) KKM rendelet 2. §-a.
+4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
