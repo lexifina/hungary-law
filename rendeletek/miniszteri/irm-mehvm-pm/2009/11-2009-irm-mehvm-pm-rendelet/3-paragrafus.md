@@ -1,4 +1,4 @@
-3. § (1)[^4] A céginformációs szolgálat az 1. § (2) bekezdésében meghatározott formátumban megküldött beszámoló ingyenes megismerését (betekintést) a (2)–(3) bekezdés szerint biztosítja a e-beszamolo.kim.gov.hu honlapon (a továbbiakban: honlap).
+3. § (1)[^4] A céginformációs szolgálat az 1. § (2) bekezdésében meghatározott formátumban megküldött beszámoló ingyenes megismerését (betekintést) a (2)–(3) bekezdés szerint biztosítja a e-beszamolo.im.gov.hu honlapon (a továbbiakban: honlap).
 
 (2) A honlapon a cég mérlege, eredménykimutatása, kiegészítő melléklete, könyvvizsgálói jelentése, adózott eredmény felhasználására vonatkozó határozata ismerhető meg. A honlap biztosítja a beszámoló mellett csatoltan megküldött elektronikus űrlap megismerhetőségét is.
 
@@ -8,18 +8,24 @@
 
 (5)[^6] Ha a céginformációs szolgálat azt észleli, hogy a közzétett beszámolóval együtt megküldött elektronikus űrlapon megadott cégadatok, a beszámolóban feltüntetett adatok nem egyeznek a cég cégjegyzékének adataival, és ezáltal a beszámoló nem annak a cégnek a beszámolójaként került közzétételre, amelyre a beszámoló adatai alapján vonatkozik, a beszámolót haladéktalanul eltávolítja a honlapjáról. Az eltávolítás tényéről a céginformációs szolgálat elektronikus értesítést küld a beszámolót benyújtó személy ügyfélkapus tárhelyére, valamint az állami adóhatóságnak. Ebben az esetben a beszámolót be nem nyújtottnak kell tekinteni. Az eltávolítás tényét a céginformációs szolgálat rögzíti a rendszerében. Az eltávolított beszámoló a céginformációs szolgálat ügyfélszolgálati helyiségében elektronikusan megtekinthető. A cég a beszámoló helyes benyújtásáról az 1. § szerint köteles gondoskodni.
 
-(6)[^7] A cég kérelmére a már közzétett beszámoló – a (7) és (8) bekezdésben foglalt kivétellel – a céginformációs szolgálat honlapjáról nem távolítható el.
+(6)[^7] A cég kérelmére a már közzétett beszámoló – a (7)–(8) bekezdésben foglalt kivétellel – a céginformációs szolgálat honlapjáról nem távolítható el.
 
-(7)[^8] Ha nem a legfőbb szerv által elfogadott beszámoló került benyújtásra és közzétételre, a cég erről szóló nyilatkozata alapján a céginformációs szolgálat a beszámolót passzív státuszba helyezi. A legfőbb szerv által elfogadott beszámoló közzétételének lehetőségét a céginformációs szolgálat a beszámoló benyújtását követő egy éven belül, kizárólag egy alkalommal biztosítja, feltüntetve az utólagos közzététel napját és a változás tényét is. A passzív státuszú beszámoló a céginformációs szolgálat honlapján továbbra is megismerhető marad. A változás tényéről a céginformációs szolgálat elektronikus értesítést küld a beszámolót benyújtó személy ügyfélkapus tárhelyére, valamint az állami adóhatóságnak.
+(7)[^8] Ha nem a legfőbb szerv által elfogadott beszámoló került benyújtásra és közzétételre, a cég erről szóló nyilatkozata alapján a céginformációs szolgálat a beszámolót passzív státuszba helyezi, és a megküldött beszámolót közzéteszi.
 
-(8)[^9] Ha a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság a kamarai tag könyvvizsgáló, könyvvizsgáló cég által kibocsátott független könyvvizsgálói jelentés visszavonásáról rendelkezik, a céginformációs szolgálat a cég kérelmére a független könyvvizsgálói jelentés visszavonásáról szóló nyilatkozatot és az ismételt független könyvvizsgálói jelentést közzéteszi. A kérelemhez mellékelni kell a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság független könyvvizsgálói jelentés visszavonásáról szóló határozatát. E bekezdésben foglaltak esetén a (7) bekezdés szerinti időbeli korlátozás nem érvényesül.
+(7a)[^9] Ha az Alaptörvény 53. cikke, illetve a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-a szerinti veszélyhelyzet ideje alatt alkalmazandó jogszabályi rendelkezések lehetővé teszik, hogy a jogi személy döntéshozó szervének hatáskörbe tartozó ügyekben – ideértve a számviteli törvény szerinti beszámoló elfogadását és az adózott eredmény felhasználásáról szóló döntést is – a jogi személy ügyvezetése döntsön, és e döntéseknek a jogi személy döntéshozó szerve általi utólagos felülvizsgálatát vagy jóváhagyását jogszabály lehetővé teszi, a cég erről szóló nyilatkozata alapján a céginformációs szolgálat az ügyvezetés által elfogadott és korábban közzétett számviteli törvény szerinti beszámolót passzív státuszba helyezi, és a megküldött beszámolót közzéteszi.
 
-(9)[^10] A (7) és (8) bekezdéstől eltérő esetekben a beszámoló vagy annak melléklete ismételt benyújtásának nincs helye. A céginformációs szolgálat a megküldött dokumentumokat ezen esetekben nem fogadja be, ennek tényéről elektronikus értesítést küld a beküldő személy részére.
+(7b)[^10] A céginformációs szolgálat az ismételt közzététel lehetőségét a beszámoló benyújtását követő egy éven belül, és kizárólag egy alkalommal – a (7) vagy a (7a) bekezdésre hivatkozással – biztosítja. Ha a céginformációs szolgálat a beszámolót a (7) vagy a (7a) bekezdés alapján passzív státuszba helyezi, feltünteti az utólagos közzététel napját és a változás tényét is. A passzív státuszú beszámoló a céginformációs szolgálat honlapján továbbra is megismerhető marad. A változás tényéről a céginformációs szolgálat elektronikus értesítést küld a beszámolót benyújtó személy ügyfélkapus tárhelyére, valamint az állami adó- és vámhatóságnak.
 
-[^4]: A 3. § (1) bekezdése a 20/2010. (XII. 22.) KIM rendelet 5. § (4) bekezdése, a 38/2011. (XII. 29.) KIM rendelet 6. §-a szerint módosított szöveg.
+(8)[^11] Ha a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság a kamarai tag könyvvizsgáló, könyvvizsgáló cég által kibocsátott független könyvvizsgálói jelentés visszavonásáról rendelkezik, a céginformációs szolgálat a cég kérelmére a független könyvvizsgálói jelentés visszavonásáról szóló nyilatkozatot és az ismételt független könyvvizsgálói jelentést közzéteszi. A kérelemhez mellékelni kell a könyvvizsgálói közfelügyeleti feladatokat ellátó hatóság független könyvvizsgálói jelentés visszavonásáról szóló határozatát. E bekezdésben foglaltak esetén a (7) bekezdés szerinti időbeli korlátozás nem érvényesül.
+
+(9)[^12] A (7)–(8) bekezdéstől eltérő esetekben a beszámoló vagy annak melléklete ismételt benyújtásának nincs helye. A céginformációs szolgálat a megküldött dokumentumokat ezen esetekben nem fogadja be, ennek tényéről elektronikus értesítést küld a beküldő személy részére.
+
+[^4]: A 3. § (1) bekezdése a 38/2011. (XII. 29.) KIM rendelet 6. § (4) bekezdés a) pontja, az 5/2021. (VII. 30.) IM rendelet 3. § a) pontja szerint módosított szöveg.
 [^5]: A 3. § (4) bekezdése a 25/2012. (V. 8.) KIM rendelet 2. §-ával megállapított szöveg.
 [^6]: A 3. § (5) bekezdését a 29/2013. (XI. 26.) KIM rendelet 1. § (2) bekezdése iktatta be.
-[^7]: A 3. § (6) bekezdése a 39/2015. (XII. 21.) IM rendelet 6. § (2) bekezésével megállapított szöveg.
-[^8]: A 3. § (7) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (3) bekezése iktatta be.
-[^9]: A 3. § (8) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (3) bekezése iktatta be.
-[^10]: A 3. § (9) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (3) bekezése iktatta be.
+[^7]: A 3. § (6) bekezdése a 39/2015. (XII. 21.) IM rendelet 6. § (2) bekezésével megállapított, az 5/2021. (VII. 30.) IM rendelet 3. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (7) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (3) bekezése iktatta be, szövege az 5/2021. (VII. 30.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A 3. § (7a) bekezdését az 5/2021. (VII. 30.) IM rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 3. § (7b) bekezdését az 5/2021. (VII. 30.) IM rendelet 1. § (2) bekezdése iktatta be.
+[^11]: A 3. § (8) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (3) bekezése iktatta be.
+[^12]: A 3. § (9) bekezdését a 39/2015. (XII. 21.) IM rendelet 6. § (3) bekezése iktatta be, szövege az 5/2021. (VII. 30.) IM rendelet 3. § b) pontja szerint módosított szöveg.

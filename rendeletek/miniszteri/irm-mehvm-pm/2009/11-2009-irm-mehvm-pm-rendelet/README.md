@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-11-20-1
 | 2016-01-01 | 2009-11-20-1U.9 | 39/2015. (XII. 21.) IM rendelet |
 | 2017-01-01 | 2009-11-20-1U.10 | 39/2015. (XII. 21.) IM rendelet |
 | 2017-10-01 | 2009-11-20-1U.11 | 29/2013. (XI. 26.) KIM rendelet |
+| 2021-08-02 | 2009-11-20-1U.12 | 39/2015. (XII. 21.) IM rendelet |
