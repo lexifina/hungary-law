@@ -2,7 +2,7 @@
 
 81. § (1) Az MNB kérelemre vagy hivatalból indított eljárás keretében ellenőrzi
 
-a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet által nyújtott szolgáltatást igénybe vevő fogyasztóval szemben tanúsítandó magatartásra vonatkozó kötelezettséget megállapító, a 39. §-ban meghatározott törvények vagy az azok végrehajtására kiadott jogszabályban, továbbá közvetlenül alkalmazandó uniós jogi aktusban előírt rendelkezések,
+a) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet által nyújtott szolgáltatást igénybe vevő fogyasztóval szemben tanúsítandó magatartásra vonatkozó kötelezettséget megállapító, a 39. §-ban meghatározott törvények vagy az azok végrehajtására kiadott jogszabályban, továbbá az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában előírt rendelkezések,
 
 b) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvény rendelkezéseinek,
 

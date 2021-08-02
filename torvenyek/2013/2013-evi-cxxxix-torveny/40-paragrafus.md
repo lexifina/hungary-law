@@ -67,3 +67,5 @@
 (34) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet végrehajtását.
 
 (35) Az MNB a 39. § (1) bekezdés l) pontjában meghatározott feladatai során ellátja a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet végrehajtását.
+
+(36) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében az (EU) 2016/1011 rendeletnek az egyes harmadik országbeli azonnali referencia-árfolyamok mentessége és egyes megszűnő referenciamutatók helyettesítőinek kijelölése tekintetében történő módosításáról, valamint a 648/2012/EU rendelet módosításáról szóló, 2021. február 10-i (EU) 2021/168 európai parlamenti és tanácsi rendelet 1. cikk 5. pontjában meghatározott, az (EU) 2016/1011 európai parlamenti és tanácsi rendelet 23b. cikk (5) bekezdés a) pontja szerinti értékelést.

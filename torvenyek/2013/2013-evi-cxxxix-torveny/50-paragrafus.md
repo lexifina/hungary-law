@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdésben foglaltak alkalmazását követően az eljárás más résztvevői – az ügyfél képviselője kivételével – és más hatóság részére az MNB a rendelkezésére álló iratokat az eljárás nyelvén és – ellentétes nyilatkozatuk hiányában – magyar nyelvű fordításban adja át. A fordítás költségeit az MNB viseli.
 
-(3) Az (1) bekezdés nem alkalmazható az alapítási, a tevékenységi engedélyezési, valamint a minősített befolyás megszerzésére irányuló eljárásokban, amelyek során az ügyfél köteles az iratok hiteles magyar nyelvű fordítását biztosítani.
+(3) Az (1) bekezdés nem alkalmazható az alapítási, a tevékenységi engedélyezési, valamint a minősített befolyás megszerzésére irányuló eljárásokban, amelyek során az ügyfél köteles az iratok hiteles magyar nyelvű fordítását biztosítani azzal, hogy az Európai Unió bármely hivatalos nyelvéről történő fordítás esetén elfogadott a szakfordító vagy szakfordító-lektor képesítéssel rendelkezők által készített fordítás.
 
 (4) Ha az MNB döntésének magyar és idegen nyelvű szövege között eltérés van, a magyar nyelvű szöveg az irányadó.

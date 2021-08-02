@@ -4,7 +4,7 @@
 
 a) e törvény,
 
-b) a 39. §-ban meghatározott törvények hatálya alá tartozó személy és szervezet működésére és tevékenységére vonatkozó jogszabályok, és
+b) a 39. §-ban meghatározott törvények hatálya alá tartozó személy és szervezet működésére és tevékenységére vonatkozó jogszabályok, valamint az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai, és
 
 c) az MNB elnöke rendelete
 

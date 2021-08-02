@@ -8,7 +8,7 @@ b) azon külföldi illetékes felügyeleti hatóságok jegyzékét, amelyekkel f
 
 c) a pénzügyi szervezetek és befektetési vállalkozások által alkalmazandó hatályos jogszabályok elérhetőségére mutató internetes hivatkozásokat,
 
-d) a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek tőkeszükséglet számításának felügyeleti felülvizsgálata és értékelése során alkalmazott feltételeket és módszereket,
+d) a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek tőkeszükséglet számításának felügyeleti felülvizsgálata és értékelése során alkalmazott feltételeket és módszereket, ideértve az arányosság elvének alkalmazására vonatkozó feltételeket is,
 
 e) a hitelintézetek és befektetési vállalkozások működése, a tőkemegfelelés és a prudenciális előírások tekintetében a jogszabályokban foglaltak alkalmazására vonatkozó összesített statisztikai adatokat és kapcsolódó elemzést,
 

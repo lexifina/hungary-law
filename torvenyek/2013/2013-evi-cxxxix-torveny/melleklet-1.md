@@ -87,13 +87,3 @@
 ## ba) befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert a befektetési alapkezelő befektetési alapkezelési tevékenység végzésére jogosító engedélyét az MNB visszavonta,
 
 ## bb) befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert az MNB kötelezte a befektetési alapkezelőt a befektetési alap kezelésének átadására, azonban a befektetési alap kezelését egyetlen befektetési alapkezelő sem veszi át,
-
-## c) a kibocsátó vagy a szabályozott piacra bevezetést kezdeményező személy között az (EU) 2017/1129 rendelet 1. cikke (4) bekezdésének f) és g) pontjában, illetve 1. cikke (5) bekezdésének e) és f) pontjában meghatározott tájékoztató dokumentumban szereplő információknak a tájékoztatóban foglalt információkkal való egyenértékűségével kapcsolatos döntés meghozatalára,
-
-## d) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy vagy a forgalmazó között
-
-## da) a kibocsátási tájékoztató kiegészítése közzétételének jóváhagyására,
-
-## db) az alaptájékoztató kiegészítése közzétételének jóváhagyására,
-
-## e) a kibocsátó, az ajánlattevő, az értékpapír szabályozott piacra történő bevezetését kezdeményező személy között
