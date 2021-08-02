@@ -8,4 +8,4 @@ b) a hitelintézettel szoros kapcsolatban álló vállalkozás által kibocsáto
 
 c) a hitelintézet vagy az összevont alapú felügyelet alá tartozó hitelintézettel szoros kapcsolatban álló vállalkozás Ptk.-ban meghatározott minősített többséget biztosító befolyása alatt álló részvénytársaság részvényét.
 
-(3) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, beleértve az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.
+(3) A kockázatvállalást tartalmazó szerződés tartama alatt a hitelintézet rendszeresen figyelemmel kíséri és dokumentálja a szerződésben foglalt feltételek megvalósulását, az ügyfél pénzügyi, gazdasági helyzetének alakulását és az (1) bekezdésben foglaltakat.

@@ -20,4 +20,4 @@ b) a pénzügyi holding társaságot, vegyes pénzügyi holding társaságot tar
 
 (9) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelme elutasítása esetén, a csoport összevont alapú felügyeletét ellátó illetékes felügyeleti hatóság az engedély iránti kérelem kézhezvételét követő négy hónapon belül, vagy amennyiben a kérelem hiányos, a határozathoz szükséges összes információ kézhezvételétől számított négy hónapon belül az elutasításról és annak indokairól tájékoztatja a kérelmezőt.
 
-(10) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelméről hat hónapon belül dönteni kell. Az engedélyezés elutasítása esetén – amennyiben erre szükség van – a 192/A. §-ban meghatározott kivételes intézkedések alkalmazhatóak.
+(10) A pénzügyi holding társaság, vegyes pénzügyi holding társaság külön jóváhagyás iránti kérelméről hat hónapon belül dönteni kell. A külön jóváhagyás iránti kérelem elutasítása esetén – amennyiben erre szükség van – a 192/A. §-ban meghatározott kivételes intézkedések alkalmazhatóak.

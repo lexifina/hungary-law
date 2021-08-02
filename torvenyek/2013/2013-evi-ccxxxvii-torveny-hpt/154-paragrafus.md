@@ -22,6 +22,8 @@ f) a hitelintézetre vonatkozó belső szabályzatokban foglalt előírások bet
 
 (5) A pénzügyi vállalkozás legalább egy belső ellenőrt foglalkoztat. A pénzügyi vállalkozások írásban megállapodhatnak arról, hogy a belső ellenőr kölcsönös foglalkoztatása ellen nem emelnek kifogást. Ugyanazon személy legfeljebb három pénzügyi vállalkozásnál foglalkoztatható belső ellenőrként.
 
+(5a) A hitelintézet csoportjába tartozó leányvállalatok esetén a hitelintézet belső ellenőrzési szervezetébe tartozó munkavállaló elláthatja a leányvállalat belső ellenőrének feladatait is.
+
 (6) A belső ellenőrzés szervezetét, hatáskörét, feladatait, a belső ellenőrrel szemben támasztott szakmai követelményt és eljárási szabályokat a pénzügyi vállalkozás belső szabályzatban rögzíti.
 
 (7) A pénzügyi intézménynél működő belső ellenőrzési szervezet (belső ellenőr) feladata
@@ -36,7 +38,7 @@ vizsgálata, és
 
 b) mindaz, amit jogszabály a feladatkörébe utal.
 
-(8) A belső ellenőrzési szervezeti egység számára az éves tervhez képest további ellenőrzési feladatokat csak a felügyelő bizottság, a belső ellenőrzési szervezeti egység vezetője, valamint a felügyelő bizottság egyetértésével vagy utólagos tájékoztatásával az ügyvezető határozhat meg.
+(8) A belső ellenőrzési szervezeti egység számára az éves tervhez képest további ellenőrzési feladatokat csak a felügyeleti jogkörrel rendelkező vezető testület, a belső ellenőrzési szervezeti egység vezetője, valamint a felügyeleti jogkörrel rendelkező vezető testület egyetértésével vagy utólagos tájékoztatásával az ügyvezető határozhat meg.
 
 (9) A belső ellenőr feletti munkáltatói jogokat közvetlenül az ügyvezető gyakorolja.
 
@@ -44,9 +46,9 @@ b) mindaz, amit jogszabály a feladatkörébe utal.
 
 a) a jelentését megküldi
 
-aa) a felügyelő bizottságnak és az igazgatóságnak,
+aa) a felügyeleti jogkörrel rendelkező vezető testületnek és az igazgatóságnak,
 
-ab) fióktelep esetén az alapító felügyelő bizottságának és igazgatóságának vagy ezek megfelelő szervének; továbbá
+ab) fióktelep esetén az alapító felügyeleti jogkörrel rendelkező vezető testületének és igazgatóságának vagy ezek megfelelő szervének; továbbá
 
 b) gondoskodik arról, hogy szükség esetén jelentése a Felügyelet rendelkezésére álljon.
 

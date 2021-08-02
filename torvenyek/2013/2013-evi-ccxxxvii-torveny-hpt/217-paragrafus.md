@@ -28,7 +28,7 @@ e) a kártalanítást a fióktelep létesítésének helye szerinti ország bet�
 
 (1d) Az (1) bekezdés szerinti határidő lejártát követő naptól számított 5 éves jogvesztő határidőn túl a kártalanítás kifizetését a kártalanításra jogosult személy nem követelheti az OBA-tól.
 
-(2) Az OBA legalább két országos napilapban, valamint honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
+(2) Az OBA honlapján közzéteszi a betétesek kártalanításának feltételeit és a lebonyolításával kapcsolatos információkat. Az OBA által közzétett információkat a kártalanítással érintett hitelintézet a honlapján is közzéteszi.
 
 (3) A betétet gyűjtő hitelintézet a névre szóló betét esetén a betétesnek a Pmt. szerinti azonosító adatait a kártalanításra való jogosultság egyértelmű megállapítása érdekében nyilvántartja.
 

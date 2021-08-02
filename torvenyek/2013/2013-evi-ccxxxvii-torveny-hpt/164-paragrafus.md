@@ -8,7 +8,7 @@ c) a 3. § (1) bekezdés b)–g) és l) pontjában foglalt tevékenységek legal
 
 d) a pénzügyi intézmény által felhatalmazott könyvvizsgálónak, a megbízott vagyonellenőrnek, jogi vagy egyéb szakértőnek, valamint a pénzügyi intézmény részére biztosítási fedezetet nyújtó biztosítónak a biztosítási szerződés teljesítéséhez szükséges mértékben történő adatátadás,
 
-e) a pénzügyi intézmény igazgatóságának írásbeli hozzájárulásával a pénzügyi intézményben befolyásoló részesedéssel rendelkező tagnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tag vagy esetleges jövőbeni tag által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő, valamint a 17. és 17/A. § szerinti állományátruházáshoz kapcsolódóan az átadó és az átvevő pénzügyi intézmény közötti adatátadás,
+e) a pénzügyi intézmény irányítási jogkörrel rendelkező vezető testületének írásbeli hozzájárulásával a pénzügyi intézményben befolyásoló részesedéssel rendelkező tagnak vagy az ilyen befolyást szerezni kívánó személy (társaság), az üzletág átvételét tervező társaság, illetve az ilyen tag vagy esetleges jövőbeni tag által felhatalmazott könyvvizsgálónak, jogi vagy más szakértőnek történő, valamint a 17. és 17/A. § szerinti állományátruházáshoz kapcsolódóan az átadó és az átvevő pénzügyi intézmény közötti adatátadás,
 
 f) a bíróság megkeresése esetén a peres fél számlája felett rendelkezésre jogosultak aláírásmintájának bemutatása,
 

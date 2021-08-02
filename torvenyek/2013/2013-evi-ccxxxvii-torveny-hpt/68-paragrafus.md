@@ -26,7 +26,7 @@ e) a kiszervezett tevékenységet végző részéről a bennfentes kereskedelem 
 
 (5) A hitelintézet a kiszervezésre vonatkozó szerződésben foglaltaktól történő eltérő tevékenységvégzésből eredő, rendkívüli helyzetek kezelésére intézkedési tervet dolgoz ki.
 
-(6) A hitelintézet belső ellenőrzése a kiszervezett tevékenység szerződésben foglaltaknak megfelelő végzését legalább évente megvizsgálja.
+(6) A hitelintézet belső ellenőrzése a kiszervezett tevékenység szerződésben foglaltaknak megfelelő végzését legalább évente, szoros kapcsolatban álló vállalkozásánál legalább kettő évente megvizsgálja.
 
 (7) A hitelintézet felelős azért, hogy a kiszervezett tevékenységet végző a tevékenységet a jogszabályi előírások betartásával és a tőle elvárható gondossággal végezze. A hitelintézet haladéktalanul bejelenti a Felügyelet részére, ha a kiszervezett tevékenység végzése jogszabályba vagy a szerződésbe ütközik.
 

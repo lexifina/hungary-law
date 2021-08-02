@@ -12,4 +12,4 @@ d) a meghozott döntéseket, illetve e döntések elleni tiltakozásokat.
 
 (3) A jegyzőkönyvet az ülés elnöke és két jelen lévő további vezető testületi tag írja alá. A jegyzőkönyvet valamennyi vezető testületi tagnak, valamint az igazgatósági ülés jegyzőkönyvét a felügyelő bizottság elnökének az ülést követő tizenöt napon belül meg kell küldeni függetlenül attól, hogy az ülésen részt vett-e.
 
-(4) Távbeszélőn, telefaxon, telexen és más hasonló módon a vezető testület csak akkor hozhat érvényes határozatot az alapszabályban meghatározott időtartamon belül, ha a vezető testületi tagok alapszabályban meghatározott hányadának szavazatát teljes bizonyító erejű magánokiratba foglalja, és megküldi a pénzügyi intézmény székhelyére.
+(4) Távbeszélőn, telefaxon, elektronikus eszközön és más hasonló módon a vezető testület csak akkor hozhat érvényes határozatot az alapszabályban meghatározott időtartamon belül, ha a vezető testületi tagok alapszabályban meghatározott hányadának szavazatát írásba foglalja, és megküldi a pénzügyi intézmény székhelyére.

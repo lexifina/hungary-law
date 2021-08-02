@@ -4,7 +4,7 @@
 
 (3) A vezető állású személy nem vállalhat szerződéses kötelezettséget – ideértve az adásvételi szerződést is – azzal a pénzügyi intézménnyel szemben, amelyben igazgatósági vagy felügyelő bizottsági tag, vagy ügyvezető, kivéve, ha a szerződés megkötéséhez az igazgatóság előzetesen egyhangú szavazással hozzájárult. Ezt a rendelkezést kell megfelelően alkalmazni a csoporthoz tartozó pénzügyi intézményben igazgatósági, felügyelő bizottsági, ügyvezetői tisztséget vagy állást betöltő vezető állású személyre, ha a csoporthoz tartozó pénzügyi intézménnyel kíván szerződést kötni. Ebben az esetben a szerződéskötéshez a szerződő pénzügyi intézmény és az irányító hitelintézet igazgatóságának előzetes egyetértése szükséges, ha az nem azonos az irányító hitelintézettel.
 
-(4) A (3) bekezdésben foglalt rendelkezést nem kell alkalmazni azon hitelek esetében, amelyek megfelelnek a 106. § (3) és (5) bekezdésében foglalt feltételeknek.
+(4) A (3) bekezdésben foglalt rendelkezést nem kell alkalmazni azon kockázatvállalások esetében, amelyek megfelelnek a 106. § (3) és (5) bekezdésében foglalt feltételeknek.
 
 (5) Az (1) bekezdés szerinti korlátozást nem kell alkalmazni, ha a kockázatvállalást megalapozó döntés olyan összevont felügyelet alá tartozó vállalkozásra vonatkozik, amely összevont alapú felügyelet kiterjed arra a pénzügyi intézményre is, amelynél a döntésben résztvevő vezető állású személy vagy az üzleti döntésre felhatalmazott alkalmazott tölt be vezető állást.
 

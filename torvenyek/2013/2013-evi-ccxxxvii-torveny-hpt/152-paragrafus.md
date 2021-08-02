@@ -10,7 +10,7 @@ b) javaslattétel a közgyűlés számára a megválasztandó könyvvizsgáló s
 
 c) a pénzügyi intézmény éves és közbenső pénzügyi jelentéseinek ellenőrzése,
 
-d) a belső ellenőrzési szervezet irányítása, amelynek keretében a felügyelő bizottság
+d) a belső ellenőrzési szervezet irányítása, amelynek keretében a felügyeleti jogkörrel rendelkező vezető testület
 
 da) elfogadja a belső ellenőrzési szervezeti egység éves ellenőrzési tervét,
 
@@ -24,6 +24,6 @@ e) a belső ellenőrzés által végzett vizsgálatok megállapításai alapján
 
 (4) A felügyeleti jogkörrel rendelkező vezető testület számára feladatai ellátása során a hitelintézet hozzáférést biztosít a hitelintézet kockázataira vonatkozó információkhoz, a kockázati ellenőrzés funkcióhoz és a külső szakértők véleményéhez.
 
-(5) A belső ellenőrzési szervezet vezetője munkaviszonyának létesítésével, munkáltató részéről történő megszüntetésével kapcsolatos döntések a felügyelő bizottság előzetes egyetértésével hozhatóak meg.
+(5) A belső ellenőrzési szervezet vezetője munkaviszonyának létesítésével, munkáltató részéről történő megszüntetésével kapcsolatos döntések a felügyeleti jogkörrel rendelkező vezető testület előzetes egyetértésével hozhatóak meg.
 
-(6) A felügyeleti jogkörrel rendelkező vezető testület elnöke a bizottsági ülést követő tíz napon belül a Felügyeletnek megküldi azokat a jegyzőkönyveket, előterjesztéseket és jelentéseket, amelyek a felügyelő bizottság által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.
+(6) A felügyeleti jogkörrel rendelkező vezető testület elnöke a bizottsági ülést követő tíz napon belül a Felügyeletnek megküldi azokat a jegyzőkönyveket, előterjesztéseket és jelentéseket, amelyek a felügyeleti jogkörrel rendelkező vezető testület által tárgyalt olyan napirendi pontra vonatkoznak, amelynek tárgya a pénzügyi intézmény belső szabályzatainak súlyos megsértése vagy az irányításban, vezetésben észlelt súlyos szabálytalanság.

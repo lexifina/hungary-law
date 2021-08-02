@@ -20,7 +20,7 @@ c) büntetett előéletű;
 
 d) nem rendelkezik jó üzleti hírnévvel.
 
-(5) Hitelintézetnél nem lehet vezető állású személy – a felügyelő bizottsági tag kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
+(5) Hitelintézetnél nem lehet vezető állású személy – a felügyeleti jogkörrel rendelkező vezető testület tagja kivételével – a (4) bekezdésben foglaltakon túl az sem, aki
 
 a) nem rendelkezik legalább háromévi – a banki vagy vállalati gazdálkodás vagy a közigazgatás pénzügyi, illetve gazdasági területén szerzett – vezetői gyakorlattal,
 
