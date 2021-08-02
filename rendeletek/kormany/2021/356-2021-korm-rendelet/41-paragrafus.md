@@ -1,4 +1,4 @@
-## 38–40. §[^17]
+## 38–40. §[^19]
 
 ## 18. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 25. § 2021. augusztus 1-jén lép hatályba.
 
-[^17]: A 38–40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 38–40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

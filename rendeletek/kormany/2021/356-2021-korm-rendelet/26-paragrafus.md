@@ -1,3 +1,3 @@
-## 25. § A gyermek születése esetén az apát megillető pótszabadság igénybevételéről és a pótszabadsággal összefüggő költségek megtérítéséről szóló 350/2014. (XII. 29.) Korm. rendelet (a továbbiakban: 350/2014. Korm. rendelet) 3. §-a helyébe a következő rendelkezés lép:
+## 25. §[^14]
 
-## „3. § A munkáltató az apát megillető és részére kifizetett távolléti díj és annak közterhei megtérítését a Magyar Államkincstár honlapján megjelentetett adattartalmú, erre a célra rendszeresített elektronikus űrlapon – március 31-éig, június 30-áig, szeptember 30-áig, valamint december 31-éig – kérelmezheti. Az Igazgatóság a benyújtási határidőt követő tizenöt napon belül gondoskodik a kimutatott – negyedéven belül összesített – összeg átutalásáról. A munkáltató által kifizetett távolléti díj és annak közterhei legkésőbb a kifizetéstől számított három évig számolhatóak el.”
+[^14]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
