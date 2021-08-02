@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-453-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-08-01 | 2021-453-20-22.1 | 453/2021. (VII. 30.) Korm. rendelet |
+| 2021-08-02 | 2021-453-20-22.2 | 2010: CXXX. törvény |
