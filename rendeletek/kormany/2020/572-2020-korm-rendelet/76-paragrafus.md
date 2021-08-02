@@ -1,3 +1,5 @@
-## 75. §[^88]
+## 75. § A SzigR. 32. § f) pontja helyébe a következő rendelkezés lép:
 
-[^88]: A 75. § a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+## (Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha)
+
+## „f) a 70. életévét betöltött kérelmező az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolványt igényel.”

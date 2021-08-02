@@ -1,3 +1,3 @@
-## 102. §[^127]
+## 102. §[^112]
 
-[^127]: A 102. § a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^112]: A 102. § a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.

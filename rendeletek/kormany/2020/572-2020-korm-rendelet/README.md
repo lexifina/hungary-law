@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-572-20-
 | 2021-03-02 | 2020-572-20-22.10 | 2010: CXXX. törvény |
 | 2021-07-01 | 2020-572-20-22.11 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2021-07-02 | 2020-572-20-22.12 | 2010: CXXX. törvény |
+| 2021-08-02 | 2020-572-20-22.13 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -1,3 +1,3 @@
-## 91. §[^116]
+## 91. §[^101]
 
-[^116]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,30 +2,23 @@
 
 ## 83. § Hatályát veszti a SzigR.
 
-a)[^100]
+a) 11. § (3) bekezdése,
 
-b)[^101]
+b)[^92]
 
-c)[^102]
+c) 14. § (2) és (3) bekezdése,
 
-d)[^103]
+d) 15. § (1) bekezdésében az „Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolvány igénylése, a 11. § (3) bekezdése, a 12. § (2) bekezdése, valamint a (2) bekezdés szerinti visszautasítás kivételével az” szövegrész,
 
-e)[^104]
+e) 17/A. § (1) bekezdésében az „a 11. § (3) bekezdésében, a 12. § (2) bekezdésében és” szövegrész,
 
-f)[^105]
+f) 23. § (3) bekezdése,
 
-g)[^106]
+g)[^93]
 
-h)[^107]
+h) 32. § g) pontja,
 
-i)[^108]
+i) 51. § (3) bekezdés c) pontja.
 
-[^100]: A 83. § a) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^101]: A 83. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^102]: A 83. § c) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^103]: A 83. § d) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^104]: A 83. § e) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^105]: A 83. § f) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^106]: A 83. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^107]: A 83. § h) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
-[^108]: A 83. § i) pontja a 127. § (7) bekezdése alapján 2021. augusztus 2-án lép hatályba.
+[^92]: A 83. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 83. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
