@@ -1,3 +1,3 @@
-## 70. § A SzigR. 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 70. §[^83]
 
-## „(2) Az Nytv. 29. § (9) bekezdés c) pontja szerinti ujjnyomat adására fizikailag képtelenség ténye csak orvosi igazolással bizonyítható. Nincs szükség orvosi igazolás bemutatására, ha a fizikailag képtelenség ténye igazolás nélkül is egyértelműen megállapítható.”
+[^83]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

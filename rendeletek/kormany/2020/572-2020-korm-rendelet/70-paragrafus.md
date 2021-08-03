@@ -1,1 +1,0 @@
-## „(2) A 11. § (1) bekezdés d) pontja alapján a konzuli tisztviselő előtt indított eljárás kivételével, ha kéri, a járási hivatal és a kijelölt kormányhivatal előtt személyes megjelenésében egészségügyi okból akadályozott – és erről a tényről orvosi igazolással rendelkező – kérelmező e rendelet szerinti adatait a hatóság a kérelmező lakóhelyén vagy tartózkodási helyén rögzíti.”

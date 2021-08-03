@@ -1,6 +1,6 @@
-## 85. §[^95]
+## 85. §[^98]
 
-## 19.[^96]
+## 19.[^99]
 
-[^95]: A 85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^96]: A 19. alcím (86. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 85. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 19. alcím (86. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 80. § A SzigR. 21. alcíme a következő 68/B. §-sal egészül ki:
+## 80. §[^93]
 
-## „68/B. § E rendelet az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^93]: A 80. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

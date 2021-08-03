@@ -1,6 +1,6 @@
-## 108. §[^123]
+## 108. §[^126]
 
-## 22.[^124]
+## 22.[^127]
 
-[^123]: A 108. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^124]: A 22. alcím (109–112. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 108. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 22. alcím (109–112. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

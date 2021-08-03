@@ -1,5 +1,3 @@
-## 75. § A SzigR. 32. § f) pontja helyébe a következő rendelkezés lép:
+## 75. §[^88]
 
-## (Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha)
-
-## „f) a 70. életévét betöltött kérelmező az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolványt igényel.”
+[^88]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
