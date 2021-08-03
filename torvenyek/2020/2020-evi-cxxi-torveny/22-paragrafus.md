@@ -1,11 +1,11 @@
-22. § Hatályát veszti az Nytv.
+22. §
 
-a) 5. § (21) bekezdésében az „– a 29/E. § (2) bekezdésében meghatározott kivétellel –” szövegrész,
+a)
 
-b) 7. § (2) bekezdése,
+b)
 
 c)
 
-d) 29. § (6) bekezdés b) pontjában és 29. § (7) bekezdésében az „– a 29/E. § (2) bekezdésében foglalt eset kivételével –” szövegrész,
+d)
 
 e)

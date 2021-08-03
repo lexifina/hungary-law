@@ -1,4 +1,4 @@
-59. § Hatályát veszti a Kknyt.
+59. §
 
 a)
 
@@ -24,6 +24,6 @@ k)
 
 l)
 
-m) 25. § (2) bekezdése,
+m)
 
 n)
