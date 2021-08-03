@@ -1,3 +1,1 @@
-98. § A Hpt. 288. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A pénzügyi intézmény és a független közvetítő biztosítja, hogy az ügyfél a pénzügyi intézmény és a független közvetítő magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse. A panaszkezelésre vonatkozó szabályokat alkalmazni kell arra a személyre is, aki szolgáltatás igénybevétele céljából lép kapcsolatba pénzügyi intézménnyel, független közvetítővel, de a szolgáltatást nem veszi igénybe.”
+98. §
