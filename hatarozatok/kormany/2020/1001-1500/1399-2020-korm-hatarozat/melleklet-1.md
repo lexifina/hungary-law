@@ -1,8 +1,8 @@
 ## 1. egyetért azzal, hogy a MotoGP futam magyarországi megrendezésére Hajdúnánás külterületén kialakítandó pályahelyszínen, versenypálya kialakításával (a továbbiakban: fejlesztés) kerüljön sor;
 
-## 2. a fejlesztés előkészítésének és megvalósításának kormányzati felelőseként az innovációért és technológiáért felelős minisztert jelöli ki, aki ellátja a debreceni autóipari központ, illetve környezete gazdasági, oktatási és kulturális fenntartható fejlődéséért, valamint az autó-motorsport fejlesztéséért és a közlekedésbiztonság kiemelt kezeléséért felelős kormánybiztosi (a továbbiakban: kormánybiztos) feladatokat;
+## 2.[^1] a fejlesztés előkészítésének és megvalósításának kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki;
 
-## 3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – az innovációért és technológiáért felelős miniszter bevonásával – tegye meg a szükséges intézkedéseket – a 8. pont b) és d) alpontjában részletezett feladatokat és a pálya üzemeltetését ellátó, 100%-ban állami tulajdonú gazdasági társaság – a Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) 3 000 000 forint jegyzett tőkével, illetve 100 000 000 forint tőketartalékkal történő megalapítása érdekében;
+## 3.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – az innovációért és technológiáért felelős miniszter bevonásával – tegye meg a szükséges intézkedéseket – a 100%-ban állami tulajdonú gazdasági társaság – a Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) 3 000 000 forint jegyzett tőkével, illetve 100 000 000 forint tőketartalékkal történő megalapítása érdekében;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -26,41 +26,21 @@
 
 ## Határidő: azonnal
 
-## 6.[^1] egyetért azzal, hogy a Társaság a DORNA SPORTS, S.L.-lel mint a MotoGP versenysorozat megrendezésével kapcsolatos kizárólagos jogok tulajdonosával lefolytatott tárgyalás eredményeként a MotoGP hazai megrendezésére vonatkozó megállapodást írjon alá a 10 éves, legkorábban 2023-tól kezdődő időtartamra, azzal, hogy a MotoGP hazai megrendezésére vonatkozó megállapodás szerinti díj nettó összege 2023-ban legfeljebb 9 000 000 euró, az ezt követő években pedig az előző éves jogdíj összegének legfeljebb öt százalékkal növelt összege;
+## 6.[^3] egyetért azzal, hogy a Társaság a DORNA SPORTS, S.L.-lel mint a MotoGP versenysorozat megrendezésével kapcsolatos kizárólagos jogok tulajdonosával lefolytatott tárgyalás eredményeként a MotoGP hazai megrendezésére vonatkozó megállapodást írjon alá a 10 éves, legkorábban 2023-tól kezdődő időtartamra, azzal, hogy a MotoGP hazai megrendezésére vonatkozó megállapodás szerinti díj nettó összege 2023-ban legfeljebb 9 000 000 euró, az ezt követő években pedig az előző éves jogdíj összegének legfeljebb öt százalékkal növelt összege;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
 ## Határidő: 2021. február 28.
 
-## 7. felhívja az innovációért és technológiáért felelős minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a MotoGP magyarországi megrendezéséről szóló, a 6. pontban foglalt szerződés szerint a Társaságot terhelő díjjal egyező költségvetési támogatásnak a XVII. Innovációs és Technológiai Minisztérium fejezetbe való betervezéséről a 2023–2027 közötti évekre folyamatosan, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény rendelkezéseire is figyelemmel;
+## 7.[^4]
 
-## Felelős: innovációért és technológiáért felelős miniszter
+## 8.[^5]
 
-## pénzügyminiszter
+## 9.[^6]
 
-## Határidő: a központi költségvetés tervezése során
+## 10.[^7]
 
-## 8. a fejlesztés végrehajtása során
-
-## a) a fejlesztés előkészítése és megvalósítása során az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése és az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 17. §-a alapján felmentést ad a Korm. rendelet szerinti eljárásrend alkalmazása alól,
-
-## b)[^2] a fejlesztés előkészítésére és az ahhoz kapcsolódó közbeszerzési feladatok ellátására – a c) alpont szerinti előkészítési fázisok kivételével – a Társaságot jelöli ki azzal, hogy a teljes előkészítés befejezésének határideje 2021. december 31.,
-
-## c)[^3] egyetért a Korm. rendelet 4. § a) pontja szerinti előkészítési fázisainak az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: IFKA Kft.) útján történő teljesítésével, azzal, hogy az IFKA Kft. a megvalósíthatósági tanulmányt teljes körű felhasználási joggal a Társaság rendelkezésére bocsátja,
-
-## d) a fejlesztés megvalósítására és az ahhoz kapcsolódó közbeszerzési feladatok ellátására az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdésében foglalt jogkörében eljárva a Társaságot jelöli ki,
-
-## e) egyetért a műszaki ellenőri feladatok ÉMI Építésügyi, Minőségellenőrző, Innovációs Nonprofit Korlátolt Felelősségű Társaság útján történő teljesítésével;
-
-## 9. egyetért azzal, hogy a fejlesztés megvalósításához szükséges eljárások a 2020. évben elindításra, a szerződéskötések előkészítésre kerüljenek, a magyarországi MotoGP futam első alkalommal 2023-ban történő megrendezése érdekében;
-
-## 10. felhívja a kormánybiztost, hogy készítsen előterjesztést a Kormány részére az előkészítéshez és megvalósításhoz szükséges előkészítő tevékenységhez, közreműködő szakértők bevonásához, tervezéshez, kivitelezéshez szükséges költségvetési források és ütemezés bemutatásával.
-
-## Felelős: a debreceni autóipari központ, illetve környezete gazdasági, oktatási és kulturális fenntartható fejlődéséért, valamint az autó-motorsport fejlesztéséért és a közlekedésbiztonság kiemelt kezeléséért felelős kormánybiztos
-
-## Határidő: 2021. március 31.
-
-## 11.[^4] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter és a Társaság bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti beruházás megvalósításához szükséges ingatlanok független értékbecslés szerinti értéken történő megszerzéséről és annak beruházásra alkalmas területté nyilvánításáról legfeljebb 800 000 000 forint összeghatáron belül, továbbá a Társaság részére tulajdonosi joggyakorlásra történő átadásáról.
+## 11.[^8] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter és a Társaság bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti beruházás megvalósításához szükséges ingatlanok független értékbecslés szerinti értéken történő megszerzéséről és annak beruházásra alkalmas területté nyilvánításáról legfeljebb 800 000 000 forint összeghatáron belül.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -138,7 +118,11 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 6. pont az 1047/2021. (II. 10.) Korm. határozat 2. pontjával megállapított szöveg.
-[^2]: A 8. pont b) alpontja az 1047/2021. (II. 10.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^3]: A 8. pont c) alpontja az 1047/2021. (II. 10.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
-[^4]: A 11. pontot az 1690/2020. (X. 23.) Korm. határozat 2. pontja iktatta be.
+[^1]: A 2. pont az 1535/2021. (VIII. 3.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1535/2021. (VIII. 3.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
+[^3]: A 6. pont az 1047/2021. (II. 10.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 7. pontot az 1535/2021. (VIII. 3.) Korm. határozat 3. pont b) pontja visszavonta.
+[^5]: A 8. pontot az 1535/2021. (VIII. 3.) Korm. határozat 3. pont b) pontja visszavonta.
+[^6]: A 9. pontot az 1535/2021. (VIII. 3.) Korm. határozat 3. pont b) pontja visszavonta.
+[^7]: A 10. pontot az 1535/2021. (VIII. 3.) Korm. határozat 3. pont b) pontja visszavonta.
+[^8]: A 11. pontot az 1690/2020. (X. 23.) Korm. határozat 2. pontja iktatta be, szövege az 1535/2021. (VIII. 3.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
