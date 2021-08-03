@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-101-00-00
 | 2021-07-14 | 2010. évi CXXX. törvény | 2021-101-00-00.10 |
 | 2021-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-101-00-00.11 |
 | 2021-08-02 | 2010. évi CXXX. törvény | 2021-101-00-00.12 |
+| 2021-08-03 | 2010. évi CXXX. törvény | 2021-101-00-00.13 |
