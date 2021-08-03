@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-20-00-00
 | --- | --- | --- |
 | 2021-08-02 | 2020. évi XX. törvény | 2020-20-00-00.0 (közlönyállapot) |
 | 2021-08-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-20-00-00.1 |
+| 2021-08-03 | 2010. évi CXXX. törvény | 2020-20-00-00.2 |
