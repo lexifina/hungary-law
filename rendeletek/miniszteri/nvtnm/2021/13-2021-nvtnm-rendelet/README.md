@@ -1,0 +1,9 @@
+# 13/2021. (VIII. 2.) NVTNM rendelet
+
+a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal tulajdonosi joggyakorlóként történő kijelölése érdekében az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-13-20-7P
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-08-03 | 2021-13-20-7P.1 | 13/2021. (VIII. 2.) NVTNM rendelet |
