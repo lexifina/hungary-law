@@ -1,11 +1,11 @@
-## 7. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény hatálya alá tartozó értesítési szolgáltatásokért fizetendő igazgatási szolgáltatási díj mértékéről és megfizetésének szabályairól szóló 55/2012. (XII. 28.) KIM rendelet [a továbbiakban: 55/2012. (XII. 28.) KIM rendelet] a következő 8. §-sal egészül ki:
-
-## „8. § Az értesítési cím bejelentéséről történő értesítési szolgáltatásról szóló nyilatkozat 2021. július 1-jei hivatalbóli érvénytelenítését követően az eljáró hatóság az érvénytelenített nyilatkozatok után befizetett igazgatási szolgáltatási díj időarányos összegét az ügyfél kérelmére visszatéríti.”
+## 7. §[^9]
 
 ## 8. § Hatályát veszti az 55/2012. (XII. 28.) KIM rendelet
 
-a) 1. § (1) bekezdésében az „és az értesítési cím bejelentéséről” szövegrész,
+a)[^10]
 
-b)[^4]
+b)[^11]
 
-[^4]: A 8. § b) pontja a 14. § (3) bekezdése alapján 2021. december 31-én lép hatályba.
+[^9]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 8. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 8. § b) pontja a 14. § (3) bekezdése alapján 2021. december 31-én lép hatályba.

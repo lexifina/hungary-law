@@ -1,4 +1,4 @@
-## 13. § Hatályát veszti a nem a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek részére nyújtott központosított infokommunikációs közszolgáltatások igénybevételének szabályairól szóló 41/2019. (XI. 19.) BM rendelet 1. melléklet 4. pontjában foglalt táblázat 1. sora.
+## 13. §[^16]
 
 ## 9. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) Az 1. § (1) és (3) bekezdése, a 9. §, az 1. és a 3. melléklet 2023. január 1-jén lép hatályba.
 
 (5) A 10. § és az 5. melléklet 2024. január 1-jén lép hatályba.
+
+[^16]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
