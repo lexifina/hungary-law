@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-5-20-06
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-08-02 | 2021-5-20-06.1 | 5/2021. (VII. 30.) IM rendelet |
+| 2021-08-03 | 2021-5-20-06.2 | 2010: CXXX. törvény |
