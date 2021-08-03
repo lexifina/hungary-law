@@ -20,7 +20,7 @@
 
 | 7. |  |  |  |
 
-| 8. | Gödöllői Királyi Kastély Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-14-000003 | 2022. december 31. |
+| 8. |  |  |  |
 
 | 9. | Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 20-09-069758 | 2022. december 31. |
 

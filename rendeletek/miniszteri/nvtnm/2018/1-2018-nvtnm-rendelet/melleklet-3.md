@@ -48,17 +48,7 @@
 
 | 12. | Sopronkőhidai Ipari és Szolgáltató Korlátolt Felelősségű Társaság | 08-09-003769 | 2022. december 31. |
 
-## IV. Tulajdonosi joggyakorló: a Nemzeti Agrárkutatási és Innovációs Központ
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Gabonakutató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 06-09-013499 | 2022. december 31. |
-
-| 2. | Magyar Kertészeti Szaporítóanyag Nonprofit Korlátolt Felelősségű Társaság | 01-09-201774 | 2022. december 31. |
-
-| 3. | ZKI Zöldségtermesztési Kutató Intézet Zártkörűen Működő Részvénytársaság | 03-10-100241 | 2022. december 31. |
+## IV.
 
 ## V. Tulajdonosi joggyakorló: az Országgyűlés Hivatala
 
@@ -214,6 +204,14 @@
 
 | 1. | URBS PRO PATIENTE Egészségügyi Fejlesztő és Üzemeltető Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-340507 | 2022. december 31. |
 
+## XXIII. Tulajdonosi joggyakorló: Nemzeti Kutatási Fejlesztési és Innovációs Hivatal
+
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Vasúti Műszaki Vizsgálóközpont Zártkörűen Működő Részvénytársaság | 01-10-049678 | 2022. december 31. |
+
 3. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^5]
 
-[^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése, a 7/2018. (XII. 21.) NVTNM rendelet 2. § (2) bekezdése, a 2/2019. (III. 6.) NVTNM rendelet 1. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 1. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 4. § (2) bekezdése, a 23/2019. (XII. 23.) NVTNM rendelet 3. §-a, a 7/2020. (VII. 14.) NVTNM rendelet 2. §-a és 3. § b) pontja, a 9/2020. (VIII. 7.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 1. §-a, a 15/2020. (XI. 11.) NVTNM rendelet 1. §-a, a 16/2020. (XI. 30.) NVTNM rendelet 2. §-a, a 20/2020. (XII. 29.) NVTNM rendelet 2. § c) pontja, a 2/2021. (II. 9.) NVTNM rendelet 1. §-a, a 6/2021. (IV. 16.) NVTNM rendelet 1–2. §-a, a 7/2021. (VI. 3.) NVTNM rendelet 2–3. § és 4. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése, a 7/2018. (XII. 21.) NVTNM rendelet 2. § (2) bekezdése, a 2/2019. (III. 6.) NVTNM rendelet 1. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 1. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 4. § (2) bekezdése, a 23/2019. (XII. 23.) NVTNM rendelet 3. §-a, a 7/2020. (VII. 14.) NVTNM rendelet 2. §-a és 3. § b) pontja, a 9/2020. (VIII. 7.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 1. §-a, a 15/2020. (XI. 11.) NVTNM rendelet 1. §-a, a 16/2020. (XI. 30.) NVTNM rendelet 2. §-a, a 20/2020. (XII. 29.) NVTNM rendelet 2. § c) pontja, a 2/2021. (II. 9.) NVTNM rendelet 1. §-a, a 6/2021. (IV. 16.) NVTNM rendelet 1–2. §-a, a 7/2021. (VI. 3.) NVTNM rendelet 2–3. § és 4. §-a, a 13/2021. (VIII. 2.) NVTNM rendelet 2. § c) pontja szerint módosított szöveg.
