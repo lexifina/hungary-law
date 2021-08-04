@@ -32,16 +32,9 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. szeptember 30.
 
-2. A MotoGP kelet-magyarországi helyszínen történő megrendezésével, valamint egyes autó-motorsport stratégiai kérdésekkel kapcsolatos döntésekről szóló 1399/2020. (VII. 15.) Korm. határozat [a továbbiakban: 1399/2020. (VII. 15.) Korm. határozat] 2. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„2. a fejlesztés előkészítésének és megvalósításának kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki;”
-
-3. A Kormány visszavonja az 1399/2020. (VII. 15.) Korm. határozat
-
-a) 3. pontjában a „8. pont b) és d) alpontjában részletezett feladatokat és a pálya üzemeltetését ellátó,” szövegrészt,
-
-b) 7–10. pontját,
-
-c) 11. pontjában a „ , továbbá a Társaság részére tulajdonosi joggyakorlásra történő átadásáról” szövegrészt.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
