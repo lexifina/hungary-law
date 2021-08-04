@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:167 mezőjében a „0,10” szövegrész helyébe a „0,30” szöveg,
-
-## b) E:167 mezőjében a „0,02” szövegrész helyébe a „0,04” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1532/2021. (VIII. 2.) Korm. határozathoz
 
@@ -37,3 +31,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján | Megtérülő projektkölt- ségre jutó központi költségve- tési forrás összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés f) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján |
 
 | 4. | KEHOP- 2.1.3-15- 2016-00015 | Zimány Ivóvízminőség- javító Program | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 90,000000 | 92 622 084 | 10 291 344 | 3 178 366 | 89 086 572 | – | +198 695 913 | +22 077 324 | +537 672 | – | 90,000000 | 291 317 997 | 32 368 668 | 3 716 038 | 89 086 572 | 416 489 275 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg a 98/83/EK irányelv és a 201/2001. (X. 25.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
