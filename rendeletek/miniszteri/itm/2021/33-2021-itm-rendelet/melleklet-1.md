@@ -1,3 +1,5 @@
+## 7. §[^1]
+
 1. melléklet a 33/2021. (VII. 26.) ITM rendelethez
 
 ## A nemzetbiztonsági ellenőrzés alá eső munkakörök, álláshelyek meghatározása
@@ -107,3 +109,5 @@
 4.1.1. az elnök és helyettesei vezetői beosztása,
 
 4.1.2. a gazdasági vezető beosztása.
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
