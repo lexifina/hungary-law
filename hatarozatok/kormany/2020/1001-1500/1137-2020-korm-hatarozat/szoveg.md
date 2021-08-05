@@ -8,9 +8,9 @@ felelős kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
 
 2. A kormánybiztos az 1. pont a) alpontja szerinti feladatkörében koordinálja
 
-a) a debreceni autóipari központ (a továbbiakban: központ) és térsége közlekedési és egyéb infrastruktúrájának, valamint közszolgáltatásainak fejlesztését,
+a)[^1]
 
-b) a központ és térsége tudásfejlesztési koncepciójának megalkotását, és javaslatot tesz az ehhez kapcsolódó szervezeti és tartalmi intézkedésekre, különös tekintettel a Debreceni Egyetem műszaki képzési profiljára, valamint a szakképzés fejlesztésére,
+b)[^2] a debreceni autóipari központ (a továbbiakban: központ) és térsége tudásfejlesztési koncepciójának megalkotását, és javaslatot tesz az ehhez kapcsolódó szervezeti és tartalmi intézkedésekre, különös tekintettel a Debreceni Egyetem műszaki képzési profiljára, valamint a szakképzés fejlesztésére,
 
 c) a Debrecen Megyei Jogú Város Önkormányzata által megalkotott fejlesztési koncepció megvalósításának kormányzati támogatását,
 
@@ -18,7 +18,7 @@ d) a debreceni innovációs és tudományos környezet, illetve science park kon
 
 e) a központ gazdasági környezetének fejlesztését elősegítő határon túli, valamint nemzetközi kapcsolatok élénkítését,
 
-f)[^1]
+f)[^3]
 
 3. A kormánybiztos az 1. pont b) alpontja szerinti feladatkörében
 
@@ -44,7 +44,9 @@ g) az érintett miniszterekkel együttműködve összehangolja az autó-motorspo
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-8.[^2]
+8.[^4]
 
-[^1]: A 2. pont f) alpontját az 1570/2020. (IX. 4.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^2]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a) alpontját az 1549/2021. (VIII. 4.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^2]: A 2. pont b) alpontja az 1549/2021. (VIII. 4.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^3]: A 2. pont f) alpontját az 1570/2020. (IX. 4.) Korm. határozat 5. pontja hatályon kívül helyezte.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
