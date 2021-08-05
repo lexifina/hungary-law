@@ -1,0 +1,9 @@
+# 1563/2021. (VIII. 5.) Korm. határozat
+
+a Magyarország Helyreállítási és Ellenállóképességi Tervében szereplő projektek központi költségvetés terhére történő előfinanszírozásának megkezdéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1563-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-08-05 | 2021-1563-30-22.1 | 1563/2021. (VIII. 5.) Korm. határozat |
