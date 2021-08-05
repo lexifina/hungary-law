@@ -1,3 +1,3 @@
-3. §[^1]
+3. § (1) A Kormány e rendelet hatályát a Tv. hatályvesztéséig meghosszabbítja.
 
-[^1]: A 3. § a 2. § (2) bekezdése alapján 2021. augusztus 5-én lép hatályba.
+(2) Ez a rendelet a Tv. hatályvesztésekor hatályát veszti.
