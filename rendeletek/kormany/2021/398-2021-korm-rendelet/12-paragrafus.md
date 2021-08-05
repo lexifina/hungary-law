@@ -1,4 +1,4 @@
-## 11. §
+## 11. § Hatályát veszti az idegen és nem honos halfajoknak akvakultúrában való alkalmazásával kapcsolatos szabályokról szóló 111/2009. (VIII. 19.) FVM rendelet.
 
 ## 5. Záró rendelkezések
 
