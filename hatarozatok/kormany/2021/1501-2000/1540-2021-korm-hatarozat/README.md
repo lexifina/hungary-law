@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1540-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-08-04 | 2021-1540-30-22.1 | 1540/2021. (VIII. 3.) Korm. határozat |
+| 2021-08-05 | 2021-1540-30-22.2 | 2010: CXXX. törvény |
