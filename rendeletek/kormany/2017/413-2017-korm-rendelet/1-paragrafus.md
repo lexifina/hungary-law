@@ -1,4 +1,4 @@
-## 1. Az egyenáramú elektromos eszközzel végzett, az országos kutatási, valamint az egyéb célú halfogási engedélyezésre vonatkozó rendelkezések
+## 1. [^1] Az egyenáramú elektromos eszközzel végzett, az országos kutatási célú engedélyezésre vonatkozó rendelkezések
 
 1. § (1) A halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) által kiadott országos kutatási célú halfogási engedély Magyarország valamennyi halgazdálkodási vízterületén feljogosít halak és más hasznos víziállatok tudományos kutatására, felmérésére és a vizsgálatokhoz szükséges minták gyűjtésére. Védett természeti területen végzett gyűjtés, illetve természetvédelmi oltalom alatt álló hal és más hasznos víziállat begyűjtése ezen engedélyen túlmenően a természet védelméről szóló törvényben előírt egyéb engedélyek birtokában végezhető.
 
@@ -29,3 +29,5 @@ c) a tevékenységhez alkalmazni kívánt eszközöket; valamint
 d) a kutatás célját.
 
 (8) A (6) bekezdés szerinti tevékenységet, ha az védett természeti területet érint, a működési területe szerint érintett nemzeti park igazgatóságnak is be kell jelenteni a (7) bekezdés szerinti módon.
+
+[^1]: Az 1. alcím címe a 398/2021. (VII. 6.) Korm. rendelet 9. §-a szerint módosított szöveg.
