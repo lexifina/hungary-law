@@ -1,1 +1,3 @@
-## 9. § A 413/2017. (XII. 15.) Korm. rendelet 1. alcím címében a „kutatási, valamint az egyéb célú halfogási engedélyezésre” szövegrész helyébe a „kutatási célú engedélyezésre” szöveg lép.
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

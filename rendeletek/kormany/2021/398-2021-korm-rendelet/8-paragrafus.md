@@ -1,11 +1,3 @@
-## 7. § A 413/2017. (XII. 15.) Korm. rendelet a következő 3/B. alcímmel egészül ki:
+## 7. §[^8]
 
-## „3/B. Idegenhonos halak és más hasznos víziállatok szállításának engedélyezése
-
-## 15/D. § (1) A 708/2007/EK rendelet IV. számú mellékletében fel nem sorolt idegenhonos hal és más hasznos víziállat fajok egyedeinek nem rutin szállítása esetén a környezeti kockázatértékelést kérelemre – a 708/2007/EK rendelet 9. cikk (1) bekezdése szerint – az országos illetékességgel eljáró halgazdálkodási hatóság rendeli el, és a kérelmező költségére a miniszter által kijelölt szakmai kutatóintézet vagy oktatási intézmény végzi el.
-
-## (2) A szomszédos tagállamokat érintő szállítások esetén az országos illetékességgel eljáró halgazdálkodási hatóság a szállítás engedélyezésére vonatkozó határozattervezetet készít, melyet megküld a miniszter által vezetett minisztériumnak külön indokolással és a környezeti kockázatértékelés 708/2007/EK rendelet II. számú mellékletében meghatározott összefoglalójával együtt. Az engedély megadásának szándékáról az érintett tagállamok és az Európai Bizottság – a 708/2007/EK rendelet 11. cikke szerinti – értesítését, egyetértése esetén, a minisztérium végzi. Az Európai Bizottság határozata alapján az országos illetékességgel eljáró halgazdálkodási hatóság határozattal dönt a szállítás engedélyezéséről.
-
-## (3) A szállításokra vonatkozó információs rendszer vezetéséről – az idegen és nem honos fajoknak az akvakultúrában történő alkalmazásáról szóló 708/2007/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2008. június 13-i 535/2008/EK bizottsági rendelet (a továbbiakban: 535/2008/EK bizottsági rendelet) 4. cikke szerint – a minisztérium az országos illetékességgel eljáró halgazdálkodási hatóság útján gondoskodik. Az információs rendszer a szállítási kérelmek, engedélyek és értékelések 535/2008/EK bizottsági rendelet melléklete szerinti adatait tartalmazza. Az országos illetékességgel eljáró halgazdálkodási hatóság internetes honlapján az információs rendszert közzéteszi.
-
-## (4) Ha – a 708/2007/EK rendelet 18. cikke szerinti – megfigyelési programot kell lefolytatni, az országos illetékességgel eljáró halgazdálkodási hatóság dönt annak helyszínéről. A megfigyelési program értékelését a nemzeti nyilvántartásba vétel céljából az országos illetékességgel eljáró halgazdálkodási hatóság juttatja el a miniszter által kijelölt szakmai kutatóintézetnek vagy oktatási intézménynek.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
