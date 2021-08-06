@@ -64,7 +64,10 @@ l) a Forster Központ által ellátott egyéb, a (2)–(4) bekezdésben nem neve
 
 (4b)[^23] A (4) bekezdéstől eltérően a 3. melléklet szerinti ingatlanok vonatkozásában a Nemzeti Örökségvédelmi Fejlesztési Nkft. látja el közfeladatként a (4) bekezdés d)–f) és h)–k) pontja szerinti feladatokat.
 
+(4c)[^24] A Nemzeti Örökségvédelmi Fejlesztési Nkft. közfeladatként látja el a vagyonkezelésében álló vagyonelemekre vonatkozó turisztikai, üzleti célú és egyéb hasznosítási feladatokat.
+
 [^20]: A 34. § (2) bekezdés f) pontját a 317/2017. (XI. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^21]: A 34. § (3a) bekezdését a 317/2017. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
 [^22]: A 34. § (4a) bekezdését a 270/2017. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
 [^23]: A 34. § (4b) bekezdését a 250/2018. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 34. § (4c) bekezdését a 465/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
