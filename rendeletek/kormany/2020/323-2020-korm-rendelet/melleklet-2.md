@@ -1,4 +1,4 @@
-2. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^8]
+2. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^10]
 
 Nemzetgazdasági szempontból kiemelt jelentőségű beruházások, valamint a kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottak
 
@@ -14,4 +14,8 @@ Nemzetgazdasági szempontból kiemelt jelentőségű beruházások, valamint a k
 
 | 5. | Iváncsa és térsége fejlesztéséhez szükséges víziközmű-beruházások | Iváncsa Ercsi Adony Pusztaszabolcs | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^8]: A 2. melléklet a 397/2020. (VIII. 12.) Korm. rendelet 1. § b) pontja, a 341/2021. (VI. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
+| 6. | Tatabánya–Oroszlány–Tata és térsége víziközmű-hálózatának komplex előkészítése, fejlesztése, hatékonyságának növelése és rekonstrukciója | Tatabánya Tata Szomód Vértesszőlős Környe Kecskéd Oroszlány Vértessomló | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 7. | A kelet-balatoni térség víziközmű-hálózatának fejlesztéséhez szükséges beruházások | Balatonakarattya Balatonvilágos Balatonfüred Balatonfőkajár | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
+
+[^10]: A 2. melléklet a 397/2020. (VIII. 12.) Korm. rendelet 1. § b) pontja, a 341/2021. (VI. 15.) Korm. rendelet 3. §-a, a 467/2021. (VIII. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
