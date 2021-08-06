@@ -1,0 +1,1 @@
+## 4. § A beérkezett árvák ösztöndíja pályázatot a 2. § (1) bekezdése szerinti feltételek fennállása esetén elfogadottnak kell tekinteni. Az árvák ösztöndíja pályázat elbírálási határideje a beérkezés napjától számított 30 nap.
