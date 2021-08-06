@@ -18,17 +18,13 @@
 
 ## Határidő: a 2021–2027-es operatív programoknak az Európai Bizottság által történő elfogadását követően azonnal
 
-## 2. A Kormány felhívja a pénzügyminisztert, hogy – az 1. pont e) alpontja szerinti felülvizsgálat elvégzéséig, illetve amennyiben az 1. pont e) alpontjában jelzettek nem valósíthatók meg – a hajózsilip-építés projektelem és annak járulékos költségei fedezetének biztosítása érdekében gondoskodjon az 1. mellékletben foglalt táblázat I:3 mezőjében szereplő többlettámogatás Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 2. Európai uniós programokhoz kapcsolódó tartalék alcím terhére történő finanszírozásáról.
+## 2.[^1] A Kormány egyetért azzal, hogy az 1. pont e) alpontja szerinti felülvizsgálat elvégzéséig, illetve amennyiben az 1. pont e) alpontjában jelzettek nem valósíthatók meg – a hajózsilip-építés projektelem és annak járulékos költsége – legfeljebb az 1. mellékletben foglalt táblázat I:3 mezőjében szereplő európai uniós forrás terhére el nem számolható költségek erejéig a Környezeti és Energiahatékonysági Operatív Program hazai társfinanszírozáson felüli felhasználásával kerüljön biztosításra a fedezet.
 
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 3.[^1]
+## 3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^2]
+## 5.[^3]
 
 1. melléklet az 1304/2021. (V. 21.) Korm. határozathoz
 
@@ -40,5 +36,6 @@
 
 | 3. | KEHOP-1.3.0- 15-2015-00007 | Balaton levezető rendszerének korszerűsítése | Országos Vízügyi Főigazgatóság (konzorciumvezető) Közép-dunántúli Vízügyi Igazgatóság | 14 509 950 692 | 4 429 141 304 | 1 018 047 017 | – 1 018 047 017 | 15 527 997 709 | 3 411 094 287 | 18 939 091 996 | A projekt célja az éghajlatváltozás felszíni és felszín alatti vizekre gyakorolt káros hatásainak mérséklése érdekében a vízgazdálkodás helyzetének javítása, a vízhiányos időszakokban jelentkező vízigények kielégítésének elősegítése, valamint a természetes vízkészletek hasznosíthatóságának növelése. A projektben 80 000 hektár területet érint vízgazdálkodási fejlesztés. |
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1562/2021. (VIII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
