@@ -18,7 +18,9 @@ g) a szabadtéri sportparkok, bringaparkok, görparkok, városi futópályák, v
 
 h) a turistaházak, kulcsosházak fejlesztésének koordinálásával, a Téry Ödön Nemzeti Turistaház-fejlesztési Program megvalósításával,
 
-i) az a)–h) alpont szerinti feladatokkal kapcsolatos kutatások elvégzésével, megalapozó tanulmányok, tervek, koncepciók, kiadványok, infrastrukturális fejlesztések kidolgozásával, megvalósításával, a szakmai civil szervezetekkel történő egyeztetések koordinálásával, a hazai aktív kikapcsolódás népszerűsítésével
+i)[^1] az aktív és ökoturisztikai ágazatot érintő stratégiai tervdokumentumok (különösen a Nemzeti Aktív Turisztikai Stratégia, a Víziturisztikai Stratégia, az Aktív Települések Stratégia tárgyú szakpolitikai stratégiák) előkészítésével,
+
+j)[^2] az a)–i) alpont szerinti feladatokkal kapcsolatos kutatások elvégzésével, megalapozó tanulmányok, tervek, koncepciók, kiadványok, infrastrukturális fejlesztések kidolgozásával, megvalósításával, a szakmai civil szervezetekkel történő egyeztetések koordinálásával, a hazai aktív kikapcsolódás népszerűsítésével
 
 összefüggő feladatokat.
 
@@ -32,6 +34,8 @@ i) az a)–h) alpont szerinti feladatokkal kapcsolatos kutatások elvégzéséve
 
 7. Ez a határozat 2020. május 18. napján lép hatályba.
 
-8.[^1]
+8.[^3]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont i) alpontja az 1552/2021. (VIII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont j) alpontját az 1552/2021. (VIII. 5.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
