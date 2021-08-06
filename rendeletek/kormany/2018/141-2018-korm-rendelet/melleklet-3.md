@@ -156,6 +156,8 @@
 
 | 71. | Ipari-innovációs fejlesztési terület kialakítása Göd város területén | Göd külterület 084/20, 084/21, 084/22, 084/23, 084/24, 084/25, 084/26, 084/27, 084/28, 084/32, 084/33, 084/34, 084/35, 084/36, 084/37, 084/38, 084/39, 084/40, 084/41, 084/42, 084/43, 084/44, 084/45, 084/46, 084/47, 084/48, 084/49, 084/50, 084/51, 084/52, 084/53, 084/68, 084/69, 084/72, 084/70, 084/71, 062/11, 062/12, 062/13, 062/14, 062/15, 062/17, 062/18, 062/50 helyrajzi számú ingatlanok. | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^186]
+| 72. | Gyártóüzem építésére irányuló beruházás Sárvár külterületén | Sárvár város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Sárvár külterület 064/36, 064/47, 065/2, 065/3, 065/4, 066 és 072/5 helyrajzi számú ingatlanok. | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^186]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^188]
+
+[^188]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

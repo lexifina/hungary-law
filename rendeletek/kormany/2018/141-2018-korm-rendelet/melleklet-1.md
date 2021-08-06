@@ -1,4 +1,4 @@
-## 66. §[^182] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 452/2021. (VII. 30.) Korm. rendelettel (a továbbiakban: Módr58.) megállapított 2. mellékletben foglalt táblázat 71. sorát a Módr58. hatálybalépésekor[^183] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 67. §[^184] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 466/2021. (VIII. 5.) Korm. rendelettel (a továbbiakban: Módr59.) megállapított 2. mellékletében foglalt táblázat 72. sorát a Módr59. hatálybalépésekor[^185] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^184] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^186] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^182]: A 66. §-t a 452/2021. (VII. 30.) Korm. rendelet 1. §-a iktatta be.
-[^183]: A hatálybalépés időpontja 2021. július 31.
-[^184]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^184]: A 67. §-t a 466/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^185]: A hatálybalépés időpontja 2021. augusztus 6.
+[^186]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
