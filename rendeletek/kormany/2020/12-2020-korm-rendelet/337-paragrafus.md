@@ -1,3 +1,3 @@
-337. §[^96]
+337. §[^101]
 
-[^96]: A 337. §-t a 95/2021. (II. 27.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.
+[^101]: A 337. §-t a 95/2021. (II. 27.) Korm. rendelet 18. § d) pontja hatályon kívül helyezte.

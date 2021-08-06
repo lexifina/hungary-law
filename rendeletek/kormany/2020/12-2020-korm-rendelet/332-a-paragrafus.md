@@ -6,7 +6,7 @@
 
 ## A SZAKKÉPZÉSI HOZZÁJÁRULÁS
 
-## 109/A. [^82] Az Szkt. 107. § (2) bekezdéséhez
+## 109/A. [^87] Az Szkt. 107. § (2) bekezdéséhez
 
 332/A. § (1) A szakirányú oktatás arányosított önköltségének adott évfolyamra meghatározott összege a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltségének a szakmánként alkalmazandó súlyszorzó szorzataként számított mértéke. A szakmánként alkalmazandó súlyszorzót a (2) bekezdés szerinti szakmaszorzó és a (3) bekezdés szerinti évfolyami szorzó szorzataként kell meghatározni.
 
@@ -98,7 +98,7 @@ cb) a második évfolyamon 1,00,
 
 cc) a harmadik évfolyamon 0,80.
 
-(4)[^83] Az (1)–(3) bekezdéstől eltérően az Szkt. 107. § (2) bekezdés a) pont ab) alpontja szerinti esetben figyelembe vehető súlyszorzó mértéke 1,50.
+(4)[^88] Az (1)–(3) bekezdéstől eltérően az Szkt. 107. § (2) bekezdés a) pont ab) alpontja szerinti esetben figyelembe vehető súlyszorzó mértéke 1,50.
 
-[^82]: A 109/A. alcímet (332/A–332/C. §) a 319/2020. (VII. 1.) Korm. rendelet 17. §-a iktatta be.
-[^83]: A 332/A. § (4) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 48. §-a iktatta be.
+[^87]: A 109/A. alcímet (332/A–332/C. §) a 319/2020. (VII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^88]: A 332/A. § (4) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 48. §-a iktatta be.

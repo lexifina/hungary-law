@@ -4,7 +4,7 @@
 
 ## 70. Az Szkt. 61. §-ához
 
-195. § (1)[^62] Egyéni tanulmányi rendet az igazgató engedélyezhet. Ha a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakértői véleményében egyéni tanulmányi rendet javasol, az igazgató az egyéni tanulmányi rendet – a gyámhatóság és család- és gyermekjóléti szolgálat véleményének kikérése nélkül – köteles engedélyezni.
+195. § (1)[^65] Egyéni tanulmányi rendet az igazgató engedélyezhet. Ha a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) szerinti szakértői bizottság szakértői véleményében egyéni tanulmányi rendet javasol, az igazgató az egyéni tanulmányi rendet – a gyámhatóság és család- és gyermekjóléti szolgálat véleményének kikérése nélkül – köteles engedélyezni.
 
 (2) Az egyéni tanulmányi rend iránti kérelemben meg kell jelölni az egyéni tanulmányi rend keretében biztosítani kért kedvezmények körét, a tanulmányi kötelezettség teljesítésének tervezett módját és időpontját, az egyéni tanulmányi rend indokoltságát. A kérelemhez csatolni kell az egyéni tanulmányi rend indokoltságát alátámasztó bizonyítékokat.
 
@@ -24,4 +24,4 @@ c) a tanulmányi követelményeknek a szakképző intézmény szakmai programjá
 
 (7) Az egyéni tanulmányi rendre adott engedély visszavonható, ha a tanulmányi kötelezettségek egyéni tanulmányi rendre vonatkozóan kiadott engedélyben meghatározottak szerinti teljesítése akadályokba ütközik.
 
-[^62]: A 195. § (1) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^65]: A 195. § (1) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.

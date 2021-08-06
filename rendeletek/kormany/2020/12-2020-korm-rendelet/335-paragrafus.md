@@ -4,7 +4,7 @@
 
 ## 112. Az Szkt. 110. § (1) bekezdéséhez
 
-335. §[^88] A foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap képzési alaprésze
+335. §[^93] A foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap képzési alaprésze
 
 1. a szakképzésialapfeladat-ellátás keretében
 
@@ -16,11 +16,11 @@ c) a szakképző intézményben tanulók korai iskolaelhagyásának csökkentés
 
 2. a szakképzés működtetése keretében
 
-a)[^89] az állami szakképző intézmény és a szakképzési államigazgatási szerv központi támogatással nem fedezett működési költségére,
+a)[^94] az állami szakképző intézmény és a szakképzési államigazgatási szerv központi támogatással nem fedezett működési költségére,
 
-b)[^90] az állami szakképző intézmény, a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság beruházási és felújítási célú támogatására,
+b)[^95] az állami szakképző intézmény, a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság beruházási és felújítási célú támogatására,
 
-c)[^91] a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság szakképzéssel összefüggő feladata ellátására,
+c)[^96] a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság szakképzéssel összefüggő feladata ellátására,
 
 d) a gazdasági kamarának a gazdasági kamarákról szóló törvényben és az Szkt.-ben meghatározott feladata, továbbá a szakképzésért felelős miniszterrel kötött megállapodásban foglalt szakképzési feladatok ellátására,
 
@@ -48,7 +48,7 @@ f) szakképzési célú uniós finanszírozású program elő- és társfinansz�
 
 használható fel.
 
-[^88]: A 335. § nyitó szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 36. pontja szerint módosított szöveg.
-[^89]: A 335. § 2. pont a) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 37. pontja szerint módosított szöveg.
-[^90]: A 335. § 2. pont b) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 38. pontja szerint módosított szöveg.
-[^91]: A 335. § 2. pont c) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 39. pontja szerint módosított szöveg.
+[^93]: A 335. § nyitó szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 36. pontja szerint módosított szöveg.
+[^94]: A 335. § 2. pont a) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 37. pontja szerint módosított szöveg.
+[^95]: A 335. § 2. pont b) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 38. pontja szerint módosított szöveg.
+[^96]: A 335. § 2. pont c) alpontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 39. pontja szerint módosított szöveg.
