@@ -14,10 +14,12 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5. Hatályát veszti a Nemzeti Együttműködésről szóló 1/2010. (VI. 16.) OGY politikai nyilatkozat egyes középületekben való kihelyezéséről szóló 1140/2010. (VII. 2.) Korm. határozat.
+## 5.[^2]
 
 1. melléklet az 1543/2021. (VIII. 4.) Korm. határozathoz
 
 1. A színes formátumban, nyomdai kivitelezésű Nemzeti Hitvallást 500 × 700 mm méretű, álló téglalap alakú keretbe kell foglalni.
 
 2. A Nemzeti Hitvallás a megfelelő minőségű nyomtatáshoz alkalmas formátumban letölthető a http://kormany.hu/nemzetihitvallas honlapról.
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
