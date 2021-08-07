@@ -1,4 +1,4 @@
-12/A. §[^37] (1) A Magyarországon megrendezésre kerülő
+12/A. §[^40] (1) A Magyarországon megrendezésre kerülő
 
 a) nemzetközi sportesemény, valamint
 
@@ -24,4 +24,4 @@ c) a (2) bekezdés b) pontja szerinti részvételi jegy hitelességével kapcsol
 
 (4) Az (1) bekezdés szerint Magyarország területén tartózkodó személy köteles Magyarország területét a belépést követő 72 órán belül elhagyni.
 
-[^37]: A 12/A. §-t a 422/2020. (IX. 4.) Korm. rendelet 7. §-a iktatta be.
+[^40]: A 12/A. §-t a 422/2020. (IX. 4.) Korm. rendelet 7. §-a iktatta be.

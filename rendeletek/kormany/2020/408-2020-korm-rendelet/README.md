@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-408-20-
 | 2021-06-23 | 2020-408-20-22.13 | 233/2021. (V. 6.) Korm. rendelet |
 | 2021-07-01 | 2020-408-20-22.14 | 366/2021. (VI. 30.) Korm. rendelet |
 | 2021-07-15 | 2020-408-20-22.15 | 416/2021. (VII. 14.) Korm. rendelet |
+| 2021-08-07 | 2020-408-20-22.16 | 468/2021. (VIII. 6.) Korm. rendelet |
