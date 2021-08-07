@@ -1,5 +1,5 @@
-1. A KEHOP-1.3.0-15-2015-00007 azonosító számú („Balaton levezető rendszerének korszerűsítése” című) projekt forrásszerkezetében bekövetkezett változásból adódó támogatásának növeléséről, valamint a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat módosításáról szóló 1304/2021. (V. 21.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-„2. A Kormány egyetért azzal, hogy az 1. pont e) alpontja szerinti felülvizsgálat elvégzéséig, illetve amennyiben az 1. pont e) alpontjában jelzettek nem valósíthatók meg – a hajózsilip-építés projektelem és annak járulékos költsége – legfeljebb az 1. mellékletben foglalt táblázat I:3 mezőjében szereplő európai uniós forrás terhére el nem számolható költségek erejéig a Környezeti és Energiahatékonysági Operatív Program hazai társfinanszírozáson felüli felhasználásával kerüljön biztosításra a fedezet.”
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
