@@ -1,4 +1,4 @@
-## 4. §[^1]
+## 4. §[^4]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4. § 2021. szeptember 1-jén lép hatályba.
 
-[^1]: A 4. § az 5. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+[^4]: A 4. § az 5. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
