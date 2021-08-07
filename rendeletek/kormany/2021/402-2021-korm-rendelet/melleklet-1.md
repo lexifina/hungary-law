@@ -1,6 +1,6 @@
 ## 12. § E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 402/2021. (VII. 8.) Korm. rendelethez[^12]
+1. melléklet a 402/2021. (VII. 8.) Korm. rendelethez[^13]
 
 Az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű nyersanyagok és termékek
 
@@ -50,4 +50,4 @@ Az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű 
 
 | 22. | 4407 | Hosszában fűrészelt vagy szélezett, vágott vagy hántolt, 6 mm-nél vastagabb fa, gyalulva, csiszolva vagy végillesztéssel összeállítva is |
 
-[^12]: Az 1. melléklet a 442/2021. (VII. 23.) Korm. rendelet 2–3. §-a szerint módosított szöveg.
+[^13]: Az 1. melléklet a 442/2021. (VII. 23.) Korm. rendelet 2–3. §-a szerint módosított szöveg.
