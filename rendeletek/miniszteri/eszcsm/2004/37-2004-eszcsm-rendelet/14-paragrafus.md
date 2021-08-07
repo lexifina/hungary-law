@@ -16,8 +16,11 @@ c) a 2002/46/EK európai parlamenti és tanácsi irányelvnek és az 1925/2006/E
 
 d)[^18] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához felhasznált (6S)-5-metiltetrahidrofolsav, glükózamin só tekintetében történő módosításáról szóló, 2015. március 12-i 2015/414/EU bizottsági rendelet
 
+e)[^19] a 2002/46/EK európai parlamenti és tanácsi irányelvnek az étrend-kiegészítők előállításához használt nikotinamid-ribozid-klorid és magnézium-citrát-malát tekintetében, valamint a réz esetében alkalmazott mértékegység tekintetében történő módosításáról szóló, 2021. március 9-i (EU) 2021/418 bizottsági rendelet
+
 [^14]: A 14. § (2) bekezdését a 86/2004. (X. 1.) ESZCSM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
 [^15]: A 14. § (3)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 37. pontja hatályon kívül helyezte.
 [^16]: A 14. § (6) bekezdése a 24/2010. (V. 7.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^17]: A 14. § (7) bekezdését a 24/2010. (V. 7.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 32/2014. (IV. 18.) EMMI rendelet 12. §-ával megállapított szöveg.
 [^18]: A 14. § (7) bekezdés d) pontját az 54/2015. (XI. 24.) EMMI rendelet 24. §-a iktatta be.
+[^19]: A 14. § (7) bekezdés e) pontját a 34/2021. (VIII. 6.) EMMI rendelet 1. § (2) bekezdése iktatta be.
