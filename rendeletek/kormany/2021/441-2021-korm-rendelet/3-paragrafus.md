@@ -1,0 +1,1 @@
+## „6/A. § Ha a bejelentő nem tett eleget az e rendelet szerinti bejelentési kötelezettségének, vagy visszaigazolással nem rendelkezik, a rendőrség és az állami adó- és vámhatóság a bejelentő terhére a be nem jelentett vagy a visszaigazolással nem rendelkező építőanyag általános forgalmi adó nélküli értékének negyven százalékáig terjedő közigazgatási bírságot szab ki.”
