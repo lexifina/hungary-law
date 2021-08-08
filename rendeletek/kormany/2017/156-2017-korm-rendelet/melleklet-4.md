@@ -36,11 +36,11 @@
 
 ## 1.1.az összes számlavezető pénzintézet által 60 napnál nem régebben kiállított nyilatkozat (bankinformáció),
 
-## 1.2.[^44] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya. Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+## 1.2.[^49] a vállalkozás vezetőjének közjegyzői aláírás-hitelesítéssel ellátott címpéldánya. Ha a vállalkozás cégjegyzékben nyilvántartott cég és a képviselőjének a közjegyzői aláírás-hitelesítéssel ellátott címpéldányát vagy az ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintáját a cégbírósághoz benyújtotta és ezt a tényt a cégjegyzék tartalmazza, a Hatóság az iratot, valamint a cég cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
 ## 1.3. amennyiben az ügyben nem a vállalkozás képviseletére jogosult jár el, az eljáró ügyintéző meghatalmazása,
 
-## 1.4.[^45] ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati igazolás arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint köztartozásmentes adózónak minősül.
+## 1.4.[^50] ha a kérelmező nem szerepel a köztartozásmentes adózói adatbázisban, 30 napnál nem régebben kiállított közokirati igazolás arról, hogy a kérelmező – az engedély iránti kérelme benyújtásának időpontjában – az adózás rendjéről szóló 2017. évi CL. törvény 260. §-a szerint köztartozásmentes adózónak minősül.
 
 ## 1.5. határon átnyúló szolgáltatás esetében a szolgáltató hitelt érdemlő igazolása, hogy az Európai Unió tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban vállalkozásként bejegyezték, tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
 
@@ -64,89 +64,11 @@
 
 ## 3.7. A kérelmező nyilatkozata arról, hogya gyártáshoz vagy a szolgáltatások nyújtásához szükséges tárgyi feltételekkel, valamint a biztonsági előírások betartásának feltételeivel rendelkezik.
 
-4. melléklet a 156/2017. (VI. 16.) Korm. rendelethez
+## 3.8.[^51] Az 1. melléklet VII. fejezet b) pont 1. és 2. alpontjában, valamint c) pontjában szereplő termékek gyártására vonatkozó engedélykérelem esetén a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló egyezményből eredő nyilatkozattételi kötelezettségek végrehajtásáról és az ellenőrzés rendjéről szóló kormányrendelet szerinti engedély másolati példánya.
 
-## Szakterületenként előírt szakképzettség és szakmai gyakorlati idő
+4. melléklet a 156/2017. (VI. 16.) Korm. rendelethez[^52]
 
-|  | Szakterület megnevezése | Szakképzettség (1) | Gyakorlati idő (2) évben | Az 1. melléklet szerinti fejezetek száma (ML) |
-
-| 1.1. | Fejlesztés, tervezés | Szakirányú felsőfokú végzettség (3) | 10 | I., II., III., IV., V., VII. (5), VIII., XI., XII. (6), XIV. (6), XV., XVII., XVIII., XIX. (6), XX. (6), XXI., XXII., XXIV., XXV. (7), XXVI., |
-
-| 1.2. |  |  | 5 | VI, IX, X. (6), XIII, XVI, XXIII. |
-
-| 2.1. | Alapanyaggyártás | Szakirányú felsőfokú végzettség | 10 | IV. (8), VII., VIII., XIII., |
-
-| 2.2. |  |  | 5 | XVI., XXIII., XXV. |
-
-| 3.1. | Szerszámgyártás | Szakirányú felsőfokú végzettség | 5 | I., II., III., IV., V., VI., VII., IX., X., XI., XII., XIII., XIV., XV., XVI., XVII., XVIII., XIX., |
-
-| 3.2. |  | Szakirányú középfokú végzettség (4) | 10 | XX., XXIII., XXV., XXVI. |
-
-| 4.1. | Gyártás, alkatrészgyártás | Szakirányú felsőfokú végzettség | 5 | I., II., III., IV., V., VI., VII. (9), VIII., IX., X., XI., XII., XIII. (10), XIV., XV., XVI., |
-
-| 4.2. |  | Szakirányú középfokú végzettség | 10 | XVII., XVIII., XIX., XX., XXI., XXIII., XXIV, XXV, XXVI. |
-
-| 5.1. | Szerelés | Szakirányú felsőfokú végzettség | 10 | III., VIII., XII., XIX., XX., XXIV. (11) |
-
-| 5.2. |  |  | 5 | I., II., IV., V., VI., VII. (9), IX., X., XI., XIII., XIV., XV., XVII., XVIII., XXV. (7), XXVI., |
-
-| 5.3. |  | Szakirányú középfokú végzettség és speciális szakmai végzettség | 5 | I. (12), II. (12), XXIII., XXV. (13) |
-
-| 6.1. | Minőségbiztosítás | Szakirányú felsőfokú végzettség | 10 | I, II, III. (14), IV. (15), V, VIII, XII, XIX, XX., XXI., XXII., XXIV., |
-
-| 6.2. |  |  | 5 | VI., VII. (9), IX., X., XI., XIII., XIV., XV., XVI., XVII., XVIII., XXIII., XXV., XXVI. |
-
-| 6.3. |  | Szakirányú középfokú végzettség és speciális szakmai végzettség | 10 | I.(12), II. (12) |
-
-| 7.1. | Javítás | Szakirányú felsőfokú végzettség | 10 | I., II., III., IV., V., VIII., IX., X., XII., XIV., XV., XVII., XVIII., XIX., XX., XXI., XXII., XXIV., XXV. (7), XXVI., |
-
-| 7.2. |  |  | 5 | VI., VII., XI., XIII., XXIII., XXV. (13) |
-
-| 7.3. |  | Szakirányú középfokú végzettség és speciális szakmai végzettség | 10 | I. (12), II. (12) |
-
-| 8.1. | Hatástalanítás, megsemmisítés | Szakirányú felsőfokú végzettség | 10 | I., II., III., IV., V., VII., VIII., IX., X., XII., XIV., XV., XVII., XVIII., XIX., XX., XXI., XXIV., XXV. (7), XXVI., |
-
-| 8.2. |  |  | 5 | VI., XI., XIII., XXII., XXIII., XXV. (13) |
-
-| 8.3. |  | Szakirányú középfokú végzettség és speciális szakmai végzettség | 10 | I. (12), II. (12) |
-
-| 9.1. | Felkutatás | Szakirányú felsőfokú végzettség és speciális szakmai végzettség | 5 | III., IV. (16) |
-
-| 9.2. |  | Szakirányú középfokú végzettség és speciális szakmai végzettség | 8 |
-
-Megjegyzések:
-
-(1) A kérelmezett tevékenység irányítására kijelölt felelős vezető szakirányú szakmai végzettsége
-
-(2) A kérelmezett tevékenység irányítására kijelölt felelős vezető szakterületen megszerzett gyakorlati ideje
-
-(3) Szakirányú felsőfokú végzettség: bőripari, gépész-, informatikai, közlekedési, ruhaipari, textil-, vegyész- és villamos okleveles mérnök, mérnök. A felsőoktatásról szóló 1993. évi LXXX. tv. szerint az egyetemi végzettséggel rendelkező személyek az „okleveles mérnök”, a főiskolai végzettségűek a „mérnök” címet viselhetik
-
-(4) Szakirányú középfokú végzettség: bőripari, cipőipari, gépipari, informatikai, közlekedési, ruhaipari, textilipari, vegyipari és villamos ipari technikus
-
-(5) Elfogadott szakirányú felsőfokú végzettség: biológus, vegyész
-
-(6) Elfogadott szakirányú felsőfokú végzettség: fizikus
-
-(7) Bűnfelderítő eszközök esetén
-
-(8) Elfogadott szakirányú felsőfokú végzettség: vegyész
-
-(9) Elfogadott szakirányú felsőfokú végzettség: biológus
-
-(10) Egyéb speciális szakismeret: ballisztika
-
-(11) Haditechnikai termék hatástalanítása, megsemmisítése és az azzal összefüggő tevékenységek esetén
-
-(12) Elfogadott speciális szakmai végzettség: puskaműves, fegyvermester, fegyver műszerész
-
-(13) Kényszerítő eszközök esetén
-
-(14) Kiegészítő szakmai végzettség: lőszergyártó
-
-(15) Kiegészítő szakmai végzettség: robbantómester, pirotechnikus
-
-(16) Speciális szakmai képzettség: lőszerfeltáró tanfolyam 2. szint és a Magyar Honvédségnél, vagy a BM tűzszerész szervezeténél szerzett tűzszerész vizsga és szakmai vezetői gyakorlat.
-
-[^44]: A 3. melléklet II. rész 1. pont 1.2. alpontja a 393/2017. (XII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
-[^45]: A 3. melléklet II. pont 1.4. alpontja a 475/2017. (XII. 28.) Korm. rendelet 85. §-a szerint módosított szöveg.
+[^49]: A 3. melléklet II. rész 1. pont 1.2. alpontja a 393/2017. (XII. 13.) Korm. rendelet 73. §-a szerint módosított szöveg.
+[^50]: A 3. melléklet II. pont 1.4. alpontja a 475/2017. (XII. 28.) Korm. rendelet 85. §-a szerint módosított szöveg.
+[^51]: A 3. melléklet II. rész 3. pont 3.8. alpontját a 443/2021. (VII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^52]: A 4. melléklet a 443/2021. (VII. 23.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

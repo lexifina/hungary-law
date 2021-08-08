@@ -1,6 +1,6 @@
 ## 7. Brókerengedély
 
-23. § (1) Brókertevékenység végzésére a Hatóság kérelem alapján egy ügyletre szóló brókerengedélyt ad ki. A brókerengedély iránti kérelmet a 10. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság részére.
+23. § (1)[^31] Brókertevékenység a Hatóság által egy ügyletre kiadott brókerengedély alapján végezhető. A brókerengedély iránti kérelmet a 10. mellékletben meghatározott adattartalommal kell benyújtani a Hatóság részére.
 
 (2) A brókerengedély hatályos, haditechnikai külkereskedelemre vonatkozó tevékenységi engedély birtokában, azzal összhangban kérelmezhető, illetve vehető igénybe.
 
@@ -11,3 +11,5 @@
 (5) A vevő és a végfelhasználó megbízhatóságáról a Hatóság felé a vállalkozás nyilatkozik. A nyilatkozat tartalmazza, hogy a vevőt, a végfelhasználót a saját államában vállalkozásként bejegyezték, tevékenységét végezheti és ott a jogszabályoknak megfelelően működik.
 
 (6) Ha az ügy elbírálása érdekében további adatokra van szükség, a Hatóság az (1) bekezdésben meghatározott adatokon túl egyéb, a végfelhasználás igazolására szolgáló okmányokat is bekérhet.
+
+[^31]: A 23. § (1) bekezdése a 443/2021. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.

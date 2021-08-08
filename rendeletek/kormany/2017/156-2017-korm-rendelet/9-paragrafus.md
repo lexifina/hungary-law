@@ -2,7 +2,7 @@
 
 9. § (1) A kérelmet el kell utasítani, ha
 
-a)[^17] a kérelmezett tevékenység ellentétes Magyarország kül- és biztonságpolitikai érdekeivel vagy nemzetközileg vállalt kötelezettségeivel,
+a)[^19] a kérelmezett tevékenység ellentétes Magyarország kül- és biztonságpolitikai érdekeivel vagy nemzetközileg vállalt kötelezettségeivel,
 
 b) a kérelmezett tevékenység ellentétes Magyarország ellátásbiztonsági érdekeivel,
 
@@ -28,17 +28,17 @@ b) az engedély kiadását követően olyan változás áll be, amely alapján a
 
 (3) A Hatóság a kiadott engedélyt visszavonhatja, ha a vállalkozás e rendeletben foglalt előírásokat, az engedélyben meghatározott feltételeket vagy a kereskedelemre vonatkozó jogszabályi rendelkezéseket megsérti.
 
-(4)[^18]
+(4)[^20] A Hatóság az engedélykérelmek elbírálása, valamint a kiadott engedélyekkel kapcsolatban felmerült új tény, adat, körülmény vizsgálata során a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspont végrehajtására kiadott felhasználói útmutatóban foglaltakat is figyelembe véve jár el.
 
 (5) A Hatóság az (1) bekezdés f) pontja alapján elutasított kérelemben foglalt adatokról, az elutasítás indokolásával együtt értesíti az Európai Unió tagállamainak illetékes hatóságait.
 
-(6)[^19]
+(6)[^21]
 
-(7)[^20]
+(7)[^22]
 
 (8) Ha a kérelmezett tevékenység akadályozza a rendvédelmi szervek jogszabályban meghatározott tevékenységének ellátását, a Hatóság az engedélyben műszaki vagy forgalmi korlátozó feltételeket szabhat meg.
 
-[^17]: A 9. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^18]: A 9. § (4) bekezdését az Alkotmánybíróság 5/2019. (III. 11.) AB határozat 1. pontjával megsemmisítette 2019. március 12. napjával.
-[^19]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^20]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^19]: A 9. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 9. § (4) bekezdését újonnan a 443/2021. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 9. § (6) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^22]: A 9. § (7) bekezdését a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés a) pontja hatályon kívül helyezte.

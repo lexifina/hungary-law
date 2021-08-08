@@ -2170,17 +2170,23 @@
 
 ## A haditechnikai külkereskedelmi engedély iránti kérelmek elbírálásakor alkalmazandó egységes magatartási kritériumok
 
-1. Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
+1.[^48] Első kritérium: a tagországok nemzetközi kötelezettségeinek és kötelezettségvállalásainak tiszteletben tartása.
 
-A kiviteli engedély iránti kérelmet el kell utasítani, ha az engedély megadása összeegyeztethetetlen Magyarországnak:
+A kiviteli engedély iránti kérelmet el kell utasítani, ha az engedély megadása összeegyeztethetetlen Magyarországnak
 
-a) az Egyesült Nemzetek Szervezete, az Európai Unió, valamint az Európai Biztonsági és Együttműködési Szervezet által hozott fegyverembargók végrehajtására vonatkozó nemzetközi kötelezettségeivel és kötelezettségvállalásaival;
+a) az Egyesült Nemzetek Szervezete, az Európai Unió, valamint az Európai Biztonsági és Együttműködési Szervezet által hozott fegyverembargók, elfogadott szankciók, az elterjedés elleni és más területeken kötött megállapodások végrehajtására vonatkozó nemzetközi kötelezettségeivel és kötelezettségvállalásaival;
 
-b) az Atomsorompó-szerződésben (Nuclear Non-ProliferationTreaty, NPT), a Biológiai és Toxinfegyver-tilalmi Egyezményben (Biological and Toxin WeaponsConvention, BTWC), valamint a Vegyifegyver-tilalmi Egyezményben (ChemicalWeaponsConvention, CWC) vállalt nemzetközi kötelezettségeivel;
+b) az Atomsorompó-szerződésben (Nuclear Non-Proliferation Treaty, NPT), a Biológiai és Toxinfegyver-tilalmi Egyezményben (Biological and Toxin Weapons Convention, BTWC), valamint a Vegyifegyver-tilalmi Egyezményben (Chemical Weapons Convention, CWC) vállalt nemzetközi kötelezettségeivel;
 
-c) a gyalogsági aknák minden formájának kivitelét tiltó kötelezettségvállalásával;
+c) a tagállamoknak az egyes hagyományos fegyverekről szóló egyezmény és az ahhoz csatolt releváns jegyzőkönyvek szerinti nemzetközi kötelezettségeivel;
 
-d) az Ausztrália Csoport (Australia Group, AG), a Rakéta Technológiai Ellenőrzési Rendszer (MissileTechnologyControlRegime, MTCR), a Zangger-bizottság, a Nukleáris Szállítók Csoportja (NuclearSuppliers Group, NSG), a Wassenaar Megállapodás (WassenaarArrangement, WA) és a ballisztikus rakéták elterjedése elleni hágai magatartási kódex keretén belül vállalt kötelezettségeivel.
+d) a tagállamoknak a Fegyverkereskedelmi Szerződés szerinti nemzetközi kötelezettségeivel;
+
+e) a gyalogsági aknák alkalmazásának, felhalmozásának, gyártásának és átadásának betiltásáról, valamint megsemmisítéséről szóló egyezmény (Ottawai Egyezmény) szerinti nemzetközi kötelezettségvállalásával;
+
+f) a tagállamok által a kézi- és könnyűfegyverek tiltott kereskedelme minden formájának megelőzéséről, leküzdéséről és megszüntetéséről szóló cselekvési program keretében tett kötelezettségvállalásokkal;
+
+g) az Ausztrália Csoport (Australia Group, AG), a Rakéta Technológiai Ellenőrzési Rendszer (Missile Technology Control Regime, MTCR), a Zangger-bizottság, a Nukleáris Szállítók Csoportja (Nuclear Suppliers Group, NSG), a Wassenaar Megállapodás (Wassenaar Arrangement, WA) és a ballisztikus rakéták elterjedése elleni hágai magatartási kódex keretén belül vállalt kötelezettségeivel.
 
 2. Második kritérium: az emberi jogok tiszteletben tartása a fogadó (rendeltetési) országban és a nemzetközi humanitárius jog tiszteletben tartása a fogadó ország által.
 
@@ -2249,3 +2255,5 @@ f) a műszaki visszafejtés vagy technológia nem szándékos átadásának a ko
 8. Nyolcadik kritérium: tekintettel az államoknak a jogos biztonsági és védelmi szükségleteire, valamint az emberi és gazdasági erőforrásokra, a katonai technológia vagy felszerelés kivitelének és a fogadó ország műszaki és gazdasági adottságainak összhangban kell lennie.
 
 A kiviteli engedély iránti kérelem elbírálásakor a hatóság figyelembe veszi – a megfelelő forrásokból, úgymint az ENSZ Fejlesztési Programjától (UNDP), a Világbanktól (World Bank), a Nemzetközi Valutaalaptól (IMF) és a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) jelentéseiből származó információkra is figyelemmel – azt, hogy a tervezett export nem hátráltatná-e súlyosan a fenntartható fejlődést a fogadó országban. Ebben az összefüggésben mérlegeli a fogadó ország katonai és szociális kiadásainak relatív szintjét, figyelembe véve bármilyen európai uniós vagy kétoldalú támogatást is.
+
+[^48]: A 2. melléklet 1. pontja a 443/2021. (VII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

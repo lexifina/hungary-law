@@ -1,4 +1,4 @@
-## 30. § Az iparügyekért felelős miniszter a haditechnikai külkereskedelmi engedélyezési tevékenységről évenként egy alkalommal jelentést tesz a honvédelmi ügyekkel foglalkozó, a rendészeti ügyekkel foglalkozó, a külpolitikai ügyekkel foglalkozó, továbbá a nemzetbiztonsági ügyekkel foglalkozó országgyűlési bizottságoknak.
+## 30/A. §[^35] A Hatóság minden év június 30-ig tájékoztatást ad az Európai Külügyi Szolgálatnak az előző naptári évre vonatkozó katonai technológia- és felszereléskivitelről, valamint a katonai technológia és felszerelések kivitelének ellenőrzésére vonatkozó közös szabályok meghatározásáról szóló, 2008. december 8-i 2008/944/KKBP tanácsi közös álláspont végrehajtásáról.
 
 ## V. Fejezet
 
@@ -17,3 +17,5 @@
 (6) A vállalkozás a Hatóság vagy a Nemzeti Adó- és Vámhivatal felhívására tájékoztatást ad a kivitt, behozott, Magyarországon átszállított vagy transzferált haditechnikai eszköz végfelhasználóiról és végfelhasználásról, valamint az elvégzett eljárások befejezéséről.
 
 (7) A haditechnikai eszközök behozatalára, kivitelére, újrakivitelére és tranzitjára irányuló vámhatósági eljárások kizárólag az engedélyes, annak megbízottja vagy képviselője kezdeményezésére indulhatnak.
+
+[^35]: A 30/A. §-t a 443/2021. (VII. 23.) Korm. rendelet 5. §-a iktatta be.

@@ -16,6 +16,9 @@ c) a szállítás a katasztrófa esetén nyújtott humanitárius segítségnyúj
 
 d) haditechnikai eszközt állami fegyveres szervek közös gyakorlat, bemutató céljából szállítanak át Magyarország határán.
 
+(3)[^16] A (2) bekezdés szerinti esetekben a 2. § 11. pontja szerinti tevékenység során az érintetteknek alkalmazni kell a 2. melléklet szerinti magatartási kritériumokat.
+
 [^13]: A 4. § a 38. § (4) bekezdése alapján hatályát vesztette.
 [^14]: Az 5. § (1) bekezdés a) pontja a 165/2019. (VII. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 329/2019. (XII. 20.) Korm. rendelet 22. §-a szerint módosított szöveg.
 [^15]: Az 5. § (2) bekezdés b) pontja a 165/2019. (VII. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^16]: Az 5. § (3) bekezdését a 443/2021. (VII. 23.) Korm. rendelet 1. §-a iktatta be.

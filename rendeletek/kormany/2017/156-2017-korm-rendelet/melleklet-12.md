@@ -98,7 +98,7 @@ I. A 258/2012/EU rendelet szerinti kivitelre vonatkozó forgalmi engedély irán
 
 12. az ügylet devizamentes vagy ideiglenes jellegére történő utalás.
 
-II.[^46] Csatolandó okiratok:
+II.[^53] Csatolandó okiratok:
 
 1. az importőr harmadik ország beviteli engedélye, valamint
 
@@ -108,4 +108,4 @@ II.[^46] Csatolandó okiratok:
 
 4. tranzit harmadik országok illetékes hatósága által kiadott tranzitengedély vagy a harmadik ország illetékes hatóságának nyilatkozata arról, hogy a tranzithoz hozzájárul, vagy a haditechnikai eszköz tranzitja nem engedélyköteles.
 
-[^46]: A 12. melléklet II. pontja a 165/2019. (VII. 8.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^53]: A 12. melléklet II. pontja a 165/2019. (VII. 8.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.

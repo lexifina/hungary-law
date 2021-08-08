@@ -1,0 +1,1 @@
+## 30. § Az iparügyekért felelős miniszter a haditechnikai külkereskedelmi engedélyezési tevékenységről évenként egy alkalommal jelentést tesz a honvédelmi ügyekkel foglalkozó, a rendészeti ügyekkel foglalkozó, a külpolitikai ügyekkel foglalkozó, továbbá a nemzetbiztonsági ügyekkel foglalkozó országgyűlési bizottságoknak.

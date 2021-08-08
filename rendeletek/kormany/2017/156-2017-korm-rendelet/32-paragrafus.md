@@ -1,21 +1,20 @@
-32. § (1) Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. §-a, valamint a Httv. 4/A. § (1) bekezdése szerint kiszabható bírság mértéke:
+32. § (1)[^36] A Hatóság által az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény 140/D. §-a, valamint a Httv. 4/A. § (1) bekezdése szerint kiszabható bírság mértéke
 
-a) a 11. §, a 28. § (3) bekezdése, valamint a 29. § (3)–(5) bekezdése szerinti, valamint a 15. § (1) bekezdése szerinti jelölési és nyilvántartási kötelezettség megszegése esetén ötezertől ötvenezer forintig,
+a) a 11. §, a 28. § (3) bekezdése, a 29. § (3)–(5) bekezdése, valamint a Httv. 4/A. § (1) bekezdés a) pontja szerinti kötelezettség megsértése esetén ötezertől ötvenezer forintig,
 
-b) a 22. § (4) bekezdésének és 29. § (6) bekezdésének megsértése esetén százezertől egymillió forintig,
+b) a 22. § (4) bekezdése és a 29. § (6) bekezdése szerinti kötelezettség, a Httv. 4/A. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés c) és d) pontja szerinti kötelezettség megsértése esetén százezertől egymillió forintig,
 
-c)[^32] a 10. § (1) bekezdésében, a 16. § (1) bekezdésében, valamint a 24. § (1) bekezdésében foglaltak megsértése esetén egymilliótól ötmillió forintig,
+c) a 10. § (1) bekezdés c) pontja szerinti kötelezettség megsértése, a 16. § (1) bekezdésében és a 24. § (1) bekezdésében foglaltak megsértése, továbbá a Httv. 4/A. § (1) bekezdés b) pontja szerinti jelölési és nyilvántartási kötelezettség, valamint a Httv. 4/A. § (1) bekezdés e)–g) pontja szerinti kötelezettség megsértése esetén ötszázezertől ötmillió forintig,
 
-d)[^33] egyes a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet rendelkezéseinek, továbbá a 17. §-ban és a 23. § (1) bekezdésében foglaltak megsértése esetén ötmilliótól tízmillió forintig,
+d) egyes, a halálbüntetés, a kínzás vagy más kegyetlen, embertelen vagy megalázó bánásmód vagy büntetés során alkalmazható áruk kereskedelméről szóló, 2019. január 16-i (EU) 2019/125 európai parlamenti és tanácsi rendelet rendelkezéseinek megsértése, valamint a 17. §-ban és a 23. § (1) bekezdésében foglaltak megsértése esetén ötszázezertől tízmillió forintig,
 
-e) 19. § (6)–(7) bekezdése, a 20. § (7)–(8) bekezdése, valamint a 21. § (5)–(6) bekezdése szerinti kötelezettség megszegése, a hatóság megtévesztésére alkalmas valótlan adat közlése, valamint az egyes engedélyekben előírt egyedi feltételek megszegése esetén ötszázezertől tízmillió forintig
+e) a 19. § (6) és (7) bekezdése, a 20. § (7) és (8) bekezdése, valamint a 21. § (5) és (6) bekezdése szerinti kötelezettség megszegése, a Hatóság megtévesztésére alkalmas valótlan adat közlése, valamint az egyes engedélyekben előírt egyedi feltételek megszegése esetén ötszázezertől tízmillió forintig
 
-terjedhet.
+## terjedhet.
 
-(2)[^34] Az (1) bekezdés szerinti véglegessé vált határozatban megállapított bírságot a határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
+(2)[^37] Az (1) bekezdés szerinti véglegessé vált határozatban megállapított bírságot a határozatban megjelölt számlaszámra, a megjegyzés rovatban a határozat számára hivatkozva való utalással kell megfizetni.
 
 (3) Az (1) bekezdés szerinti bírság megfizetése készpénzátutalási megbízással vagy átutalással történhet.
 
-[^32]: A 32. § (1) bekezdés c) pontja a 165/2019. (VII. 8.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^33]: A 32. § (1) bekezdés d) pontja a 165/2019. (VII. 8.) Korm. rendelet 11. § f) pontja szerint módosított szöveg.
-[^34]: A 32. § (2) bekezdése a 34. § (3) bekezdése szerint módosított szöveg.
+[^36]: A 32. § (1) bekezdése a 443/2021. (VII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^37]: A 32. § (2) bekezdése a 34. § (3) bekezdése szerint módosított szöveg.
