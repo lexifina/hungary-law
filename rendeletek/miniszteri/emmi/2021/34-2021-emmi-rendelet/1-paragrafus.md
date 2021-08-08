@@ -2,8 +2,7 @@
 
 1. § (1)[^1]
 
-(2) Az ESzCsM rendelet 14. § (7) bekezdése a következő e) ponttal egészül ki:
-
-(Ez a rendelet)
+(2)[^2]
 
 [^1]: Az 1. § (1) bekezdése az 5. § (2) bekezdése alapján 2022. szeptember 30-án lép hatályba.
+[^2]: Az 1. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdsée alapján hatályát vesztette.
