@@ -1,3 +1,3 @@
-## 2. § A 156/2017. (VI. 16.) Korm. rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(2) A Munkacsoport tagjai a külpolitikáért felelős miniszter, az iparügyekért felelős miniszter, a rendészetért felelős miniszter, a honvédelemért felelős miniszter, valamint a védelmi fejlesztésekért felelős kormánybiztos által kijelölt egy-egy személy, továbbá az Alkotmányvédelmi Hivatal, az Információs Hivatal, a Nemzetbiztonsági Szakszolgálat, a Katonai Nemzetbiztonsági Szolgálat, az Országos Rendőr-főkapitányság, a Nemzeti Adó- és Vámhivatal és a Terrorelhárítási Központ képviselője.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
