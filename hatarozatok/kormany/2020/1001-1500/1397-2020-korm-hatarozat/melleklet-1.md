@@ -22,7 +22,7 @@
 
 ## Határidő: azonnal
 
-## e) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 319 963 687 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## e)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 7 319 963 687 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -40,7 +40,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2021. december 31., a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára átcsoportosított 400 000 000 forint tekintetében 2022. október 31.
 
 ## f) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 32 733 697 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 59. Európa Kulturális Fővárosa 2023 cím viselésével kapcsolatos feladatok támogatása jogcímcsoport terhére, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím, 2. Társaságokkal kapcsolatos kiadások jogcímcsoport javára, a 4. melléklet szerint;
 
@@ -60,17 +60,18 @@
 
 ## j) egyetért azzal, hogy a belügyminiszter a h) alpont szerinti költségvetési támogatást Gyöngyöspata Város Önkormányzata számára és az i) alpont szerinti költségvetési támogatást Pilisborosjenő Község Önkormányzata számára a támogatói okiratok kiadását követően folyósítsa.
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
 1. melléklet az 1397/2020. (VII. 14.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontja az 1569/2021. (VIII. 9.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
