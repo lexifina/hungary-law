@@ -1,0 +1,1382 @@
+## GOVERNMENT OF HUNGARY
+
+## Third Universal Periodic Review implementation report
+
+## (Second review in the UPR Working Group: 4 May 2016)
+
+## Content
+
+## I. Methodology and consultation process
+
+## II. New normative and institutional framework since the previous UPR
+
+## III. Scope of international obligations, cooperation with human rights mechanisms
+
+## IV. Voluntary commitments, pledges
+
+## V. Protection and promotion of human rights – implementation of the 2016 UPR recommendations
+
+## 1. Ratifications, international cooperation in the field of human rights
+
+## 2. Human rights infrastructure including national human rights institutions
+
+## 3. Cooperation with civil society in the advancement of human rights
+
+## 4. Family
+
+## 5. Women, equalitybetweenwomen and men
+
+## 6. Children and youth
+
+## 7. Persons with disabilities
+
+## 8. Racism,issues affecting the Roma community, hate crimes
+
+## 9. Protection of minorities
+
+## 10. Migrants, refugees and asylum-seekers
+
+## 11. Sexual orientation
+
+## 12. Human trafficking
+
+## 13. Media, freedom of expression
+
+## 14. Detention conditions, ill-treatment
+
+## 15. Development
+
+## Annex
+
+## 1. Cooperation with civil society in the preparation of the national report
+
+## 2. New legislation, Fundamental Law, cardinal laws
+
+## 3. Policy measures, strategies
+
+## 4. Clustered list of recommendations received during the 2016 UPR of Hungary
+
+## 5. Information on the country visits of and on the communication with mandate holders of international human rights organisations
+
+## I. Methodology and consultation process
+
+## The 3rd National Report of Hungary to the Universal Periodic Review (UPR) Working Group of the Human Rights Council (HRC) was compiled on the basis of the General Guidelines adopted by the HRC and was coordinated by the Ministry of Foreign Affairs and Trade and approved by the Government. It contains the latest information on the implementation of the recommendations based on the detailed information provided by the line ministries and relevant national authorities until 1 July 2021, as well as complementary information received from the inter-ministerial Human Rights Working Group, including its thematic sub-working groups with the participation of more than 50 NGOs. The Human Rights Working Group was established by the Government as a result of the 2011 UPR of Hungary in order to monitor the implementation of UPR recommendations (See Annex, point 1).
+
+## II. New normative and institutional framework since the previous UPR
+
+## Normative framework
+
+## Since 2016, the Fundamental Law has been amended on three occasions, including by the introduction of new provisions on exercising the right to freedom of expression and assembly and the right of the child to a self-identity and to a healthy environment. New Civil Procedure Act, Criminal Procedure Act, Code of Administrative Court Procedure, Code of General Administrative Procedure were adopted in the period concerned.
+
+## Institutional framework
+
+## In 2019, the functioning of the Hungarian Constitutional Court was strengthened by the clarification of the provisions on the exercise of the right to lodge a constitutional complaint, recognition of the de facto judicial activity of the members of the Constitutional Court as judicial practice, easing the administration at a time of special legal order.
+
+## As of 1 January 2021, the Equal Treatment Authority (EBH) is integrated into the Office of the Commissioner for Fundamental Rights, thus offering a higher level of protection for the right and principle of equal treatment, due to the fact that cases of violations of equal treatment are now heard by an institution that is primarily concerned with the protection of fundamental rights. (See Annex, point 2)
+
+## An overview of the new normative and institutional framework since the previous review as well as of legislative and policy measures regarding family and child support, victim protection, domestic violence, education can be found in the Annex (point 3).
+
+## III. Scope of international obligations, cooperation with human rights mechanisms
+
+## Hungary is fully committed to ensuring the implementation of its international obligations through its national legal system. The Fundamental Law stipulates that national law is in conformity with, and shall accept the generally recognised rules of international law. Other sources of international law shall become part of the Hungarian legal system by promulgation into domestic legal regulations. The promulgated international treaties imposing human rights obligations are part of the national law and directly applicable by the courts. Each law or regulation is examined before adoption or modification to ensure its conformity with international commitments of Hungary.[^1.] Furthermore, the Hungarian Constitutional Court has an autonomous competence to examine whether legal regulations are in compliance with the provisions of an international treaty and to rule on the consequences of non-compliance (e.g. annulment of the conflicting domestic law.). Hungary is State Party to the majority of international and European human rights conventions and most of their protocols.
+
+## Hungary has been supporting the work of the HRC since its establishment and was its member between 2009 and 2012 as well as between 2017 and 2019 and also served as Vice-President of the Council in 2012. Hungary is also committed to cooperate with the Office of the High Commissioner for Human Rights and attaches great importance to its independence and effectiveness. Hungary has a standing invitation to special procedures since March 2001. It also provides voluntary financial contributions as well as written inputs to the activities of the OHCHR on a regular basis.
+
+## Hungary hosts regional representations and Global Shared Services Centres of a number of UN specialized agencies and international humanitarian organizations active in the promotion and protection of human rights, such as UNHCR, ILO, FAO, UNICEF, WHO, IFRC. By providing locations and facilities to these organizations Hungary contributes significantly to their cost-efficient thus more effective functioning.
+
+## IV. Voluntary commitments, pledges
+
+## Hungary pledges to
+
+## • pursue an active role in the Human Rights Council, in particular by promoting minority rights, the rights of persons with disabilities, family and children′s rights, freedom of religion and belief,
+
+## • cooperate with instruments and mechanisms of the Human Rights Council, in particular by upholding its standing invitation to the special procedures.
+
+## V. Protection and promotion of human rights - implementation of the 2016 UPR recommendations
+
+## During its second UPR in May 2016, Hungary received 221 recommendations, out of which it accepted (fully or partially) 201 and noted 20.
+
+## Having regard to the strict word limit, the current report is concise and clustered into 15 topics. For the ease of reference, please find the number of the relevant 2016 recommendation in brackets throughout the text.
+
+## The full list of the clustered recommendations can be found in the Annex (point 4).
+
+## V/1. Ratifications, international cooperation in the field of human rights
+
+## In line with its pledge, Hungary has examined the possibility of ratifying the proposed ILO labour standard. Currently, ILO Convention No. 189. is not among the conventions proposed for ratification by the National ILO Council, however it does not mean that Hungary refuses its ratification. (128.2)
+
+## Hungary is party to the Convention relating to the Status of Stateless Persons, the Convention to Fight Discrimination in Education, as well as the Geneva Convention of 1951 and Protocol of 1967 relating to the Status of Refugees. (128.5)
+
+## The Rome Statute of the International Criminal Court was signed and ratified by Hungary. As a constitutional requirement, Hungary is fully committed to ensure the conformity of the national legal system with its international commitments, therefore the provisions of the Criminal Code on crimes against humanity and war crimes have been amended in order to be in line with the Statute. The draft bill on the promulgation of the Statute in national law has been submitted to the Parliament by the Government (128.5, 128.20, 128.29)
+
+## Hungary decided not to ratify the Istanbul Convention. The Hungarian National Assembly expressly confirmed that it does not support the ratification of the Istanbul Convention because of its concept of so-called gender and gender-based approach to asylum.[^2.] In our view, it is not the ratification of a treaty, but the tangible results of Government actions that make prevention and combating violence against women and domestic violence a reality. (128.6. 128.8, 128.134)
+
+## Hungary submitted its periodical reports to the Human Rights Committee, the Committee of the Rights of Persons with Disabilities (CRPD), the Committee on the Elimination of Racial Discrimination (CERD), the Committee on the Elimination of All Forms of Discrimination against Women (CEDAW) and the Committee on the Rights of the Child (CRC). The Government strives, within its capacities, to eradicate any further backlog as well as to implement the recommendations of the UN Treaty Bodies and Special Procedures. (128.41, 128.42, 128.43, 128.44, 128.45)
+
+## V/2. Human rights infrastructure including national human rights institutions
+
+## Human rights instruments
+
+## The independent judiciary, the Constitutional Court and the Commissioner for Fundamental Rights play a crucial role in safeguarding human rights and the rule of law. The Hungarian constitutional system ensures the respect for human rights even under special legal order. Paragraph (2) of Article 54 of the Fundamental Law ensures that under a special legal order, the application of the Fundamental Law may not be suspended and the operation of the Constitutional Court may not be restricted. The functioning of the Constitutional Court has been continuous during the state of danger declared due to the COVID-19 pandemic and the Court provided an independent and adequate constitutional review of legal provisions (as under normal conditions); special procedural rules facilitated its activities. (128.21, 128.26, 128.27, 128.28)
+
+## During the period considered, Hungary adopted, with engagement of the civil society, several sectoral human rights action plans, such as the National Social Inclusion Strategy or the National Disability Programme. These strategies set out more targeted objectives and indicators than a general national human rights action plan may provide. (128.23)
+
+## The National Preventive Mechanism operates within the Office of the Commissioner for Fundamental Rights. The budget of the Office increased between 2013 and 2021 by a total of 87.5% from 1,138.2 million HUF to 2,134.2 million HUF mainly in order to allow the Office to perform the above task.
+
+## As of 1 January 2021, the Equal Treatment Authority (EBH) is integrated into the Office of the Commissioner for Fundamental Rights. The new model, which is in line with relevant provisions of European Union law, offers a higher level of protection for the right and principle of equal treatment as equal treatment cases are now examined by an institution surrounded by stronger constitutional guarantees. The Office of the Commissioner for Fundamental Rights took over the tasks of the EBH with full powers and received adequate resources to carry out these new tasks. (128.32, 128.55)
+
+## Independent monitoring of the implementation of the rights of the child is ensured by the Commissioner for Fundamental Rights. The Commissioner (ombudsperson) shall pay special attention, especially by conducting proceedings ex officio, to the protection of the rights of children. During the period concerned, numerous investigations as well as several projects launched by the Commissioner demonstrate that the ombudsperson regularly puts issues related to ensuring and protecting children′s rights into the focus of his attention. In urgent cases indicated by the Commissioner, the legislator reacts with utmost diligence.
+
+## In order to protect families and children, the Family Law Working Group was established, which – with the involvement of the Human Rights Working Group – keeps contact with more than 60 civil society organisations. The tasks of the Working Group are to identify intervention points that require legislation, enforcement, organization of the work of authorities and other measures, and to examine what measures need to be taken by the Government in the field of protection of families, children and women. (128.35)
+
+## Equal rightsand non-discrimination
+
+## The Fundamental Law guarantees the fundamental rights to everyone without discrimination based on any ground such as race, colour, sex, disability, language, religion, political or any other opinion, ethnic or social origin, wealth, birth or any other circumstance whatsoever. As the primary source of law in the Hungarian legal system, the provisions of the Fundamental Law are to be applied and respected in all areas of life and branches of law. The Equal Treatment Act stipulates that all persons on the territory of Hungary must be treated with the same respect. The Equal Treatment Act as a general law on anti-discrimination renders already existing rules comprehensive. It is in line with relevant international norms and contains consistent, comprehensive and detailed anti-discrimination provisions. In addition to the general provisions the law provides for the enforcement of equal treatment in specific areas and prohibits both direct and indirect discrimination. (128.39,128.48, 128.49, 128.52)
+
+## Independence of the judiciary
+
+## The independence of the judiciary is guaranteed by the Fundamental Law and the relevant sectoral legislation. Judges are only subordinated to law and may not be instructed as regards their judicial activity. Judges may not be members of political parties or engage in political activities. The organisation of the judiciary is also independent, headed by the President of the National Office for the Judiciary (NOJ), who is a judge, and whose independence from the executive is guaranteed by the Fundamental Law. The President shares competences with the National Judicial Council (NJC) whose members may only be judges. Even the Venice Commission acknowledged in 2019 that a number of pivotal elements of the Hungarian judicial system and powers of the NJO′s President had been transferred to the NJC. The rules of assessing applications for a judicial position guarantee that whenever a candidate is appointed or promoted, elected bodies of judges have a decisive role. It means that it is either a local judicial council determining the ranking of applicants or the NJC giving prior consent to the appointment of the 2nd or 3rd ranked candidate. The increase of an average 32% in the salary of judges in 2020 is followed by a salary growth of more than 12% in 2021 and 13% in 2022, ensuring the independence of judges.
+
+## The NJC shall define its own budget before the year to which it pertains, and shall consequently make an agreement thereon with the President of the NOJ. The budget of the NJC constitutes a separate chapter within the budget of NOJ.
+
+## Concerning the functioning of the Constitutional Court, neither the organisation, nor the competences of the Constitutional Court can be changed without the legitimate aim in a democratic state. The fifteen members of the Court are elected by the Parliament with qualified majority for a term of twelve years, re-election is excluded. The independence of Constitutional Court judges is safeguarded by a number of measures: immunity is ensured as in case of ordinary court judges; members of the Constitutional Court may not be members of political parties or engage in political activities either. (128.150, 128.152)
+
+## Electoral system
+
+## The legal framework for parliamentary elections established the constituency boundaries at the parliamentary elections in a way that ensures the highest possible level of proportionality. The provisions concerning political advertising in the electoral campaign comply with international standards, as well as the requirements of the Hungarian Constitutional Court. At the same time, they ensure that the efficiency of the campaign does not depend on the financial sources the parties have at their disposal and contributes this way to the democratic process. Public campaign funding and expenditure ceilings are aimed at securing equal opportunities for all candidates. Independent review through the State Audit Office as well as extensive transparency requirements apply for campaign costs.
+
+## Election commissions are independent bodies serving voters, subject only to the law, and their primary task shall be determining the election results, ensuring the fairness and legality of elections, ensuring impartiality and, if necessary, restoring the legal order of elections. The seven members and three alternate members of the National Election Commission shall be elected by Parliament for a term of nine years on the proposal of the President of the Republic.
+
+## The OSCE/ODIHR mission found that at the parliamentary elections in 2018 fundamental rights and freedoms were respected, the electoral legal framework formed an adequate basis for democratic elections and the election administration fulfilled its mandate efficiently. (128.124)
+
+## V/3. Cooperation with civil society in the advancement of human rights
+
+## Public consultation
+
+## As far as formal and informal dialogue and public consultation between the Government and civil society are concerned, in line with the Public Participation Act, all draft bills, governmental decrees and ministerial decrees are published on the Government′s webpage prior to their submission to Parliament. Public consultations are to be carried out within the framework of general (mandatory) or direct (optional) consultations. The minister responsible for drafting a law concerned shall consider the opinions received and prepare a general summary of them and – in the case of rejected opinions – a standardised explanation of the reasons for rejection, which have to be published on the webpage along with the list of those offering their opinions.
+
+## In the field of human rights, the Human Rights Working Group ensures the possibility for extensive consultations. The Government established the Human Rights Working Group with the main purpose of monitoring the implementation of human rights in Hungary, conducting consultations with civil society organisations, representative associations and other professional and constitutional bodies as well as promoting related professional communication. (See Annex, point 1)
+
+## The National Economic and Social Council is a consultative and counselling body, comprising the representatives of employers, employees, NGOs, representatives of scientific life and the arts, as well as representatives of established churches, that provides opinions on different topics and raises questions to government bodies. It works independently from the Parliament and the Government. (128.36, 128.40)
+
+## Access to public data
+
+## In line with international and European standards, the Info Act only allows labour costs to be charged in a public data request, if the fulfilment of a data request involves disproportionate use of human resources necessary to carry out the basic activities of the organisation performing public functions. The justification of cost-charging must be proven by the data controller. Only in exceptional cases can the fulfilment of data requests be conditional to the advance payment of related costs. In such cases, the requesting party shall be notified within fifteen days from the date of receipt of his or her request if there is any alternate solution available instead of making a copy of those documents. Restrictions are in line with applicable international norms, and are necessary and proportionate in a democratic society.
+
+## In the period concerned, there have not been such substantial changes in the relevant legal framework that would have made an extensive public consultation necessary. (128.37, 128.156)
+
+## Functioning of civil society organizations
+
+## Although, the legitimate aim of the restrictions on civil society organizations using foreign funding has been acknowledged by the European Court of Justice and the Venice Commission, the elaboration and adoption of the adjusted legal framework in line with the EU Court′s guidance and in close cooperation with the European Commission are underway. (128.38, 128.168)
+
+## As regards possible restriction of the rights of human rights defenders, it should be emphasized that the Fundamental Law guarantees the fundamental rights to everyone without discrimination based on any ground such as political or any other opinion. Any difference of treatment based on political or other opinion or belonging to an organisation whose aim is to protect certain interests or any other situation resulting in a less favourable treatment of these persons is to be considered direct discrimination and is prohibited by law. The Equal Treatment Act as well as the sectorial legislation provides for efficient legal remedies in case of discrimination. The case law of the Constitutional Court provides also extensive protection: through the new means of constitutional complaint not only against legal norms but also against judicial decisions. Therefore, any alleged violation of rights by state bodies can be challenged at independent courts and even at the Constitutional Court.
+
+## The Act on the right to assembly fully complies with international and European human rights standards. The law applies a regulatory solution and conceptual definition that fits well with proven foreign regulatory models in order to overcome the problems described above. The new Act facilitates freedom of assembly and attempts to exclude the possibilities of limiting the right to assembly with coherent and clear regulation and using clear definitions.
+
+## Regarding freedom of association, Hungary recognises the vital contribution of non-governmental organisations to the promotion of common values and goals (over 60 000 NGOs are operating in Hungary). They play an important role not only in the democratic control of the government and shaping public opinion but also in addressing certain social difficulties and fulfil other community policy needs. Civil society organizations are forms of expression of democracy and the self-induced organization of society and the relevant legal framework facilitates their proper functioning. Organizations under the right of freedom of association may pursue any activity that is in harmony with the Fundamental Law and that is not prohibited by law. Under the right of association, armed bodies may not be created, and activities for the pursuit of public functions conferred under the exclusive jurisdiction of public bodies by law may not be carried out. Hungarian legislation ensures the lawful operation of organizations under the right of freedom of association including political parties through the intervention possibilities of the independent public prosecution[^3.] and judiciary. (128.161, 128.162, 128.163, 128.164, 128.165, 128.166, 128.167)
+
+## V/4. Family
+
+## Family is a fundamental unit of society and the basis of the survival of the nation. Therefore, its protection is a high priority for Hungary. The Fundamental Law protects the institution of marriage as the voluntary union of a man and a woman, and the basis of family ties are marriage and the relationship between parents and children. Since 2020, the Fundamental Law provides that the mother is a woman and the father is a man. This reflects the biological truth and, read in conjunction with other provisions of the Fundamental Law, puts forward values that wish to serve the benefit of future generations. (128.122)
+
+## Under the Civil Code, the legal age for marriage is 18 years. Minors above 16 years may only marry exceptionally, and only if they can present the prior consent of the Guardianship Authority. Before issuing this consent, the Guardianship Authority carries out a meticulous investigation (that is fully detailed in the Annex, point 3). A marriage of a minor without such prior consent is void. (128.123)
+
+## To support couples who intend to have children, Hungary provides for artificial insemination and reimburses the costs of maximum six in vitro fertilisation procedure and five artificial insemination (up until the mother is 45 years old). (128.172)
+
+## Against the backdrop of the protection of the family, Hungary intensely strives for equality between women and men by promoting women′s participation in the labour market without being disadvantaged because of childbearing. This rationale, i.e. the well-being of the family, is the basis of numerous measures of the Hungarian Government, see below: (128.22, 128.34, 128.43, 128.47, 128.57)
+
+## − Development of the nursery system: In 2017, Hungary carried out a large-scale reform of the nursery services by introducing a demand-driven system (see details in the Annex). If no local nurseries are available or they operate on full capacity, parents may receive a subsidy of HUF 40,000 (USD 140) per month to place their children in family/workplace nurseries or in non-local authority maintained nurseries/mini nurseries while they are working. Nursery capacities increased by 67% from 2010 to July 2021. This development helps to combat territorial inequalities, supports the social inclusion of disadvantaged children, helps the reconciliation of work and family life and supports the employment of women. (128.25, 128.34, 128.170.)
+
+## − Family tax allowance: Hungary operates a generous family tax allowance regime. The personal income tax may be reduced gradually per the number of the children raised by the taxpayer. Between 2016 and 2019, the amount of tax benefit for families with two children was doubled. This tax benefit can be divided between mothers and fathers (the beneficiaries are mostly women). (128.47, 128.170)
+
+## − Child care fee: From 2016, parents whose children are older than 6 months may be employed without losing their eligibility to child care allowance and child care fee. In addition, students of higher education who have children may receive 2 years of child care benefit since 2018. As of 2020, non-retired grandparents are also eligible to child care fee if both parents are (or the single parent is) employed. (128.47, 128. 62)
+
+## In 2021, Hungary set up a complex ′Family Housing Programme′ that supports the family to create their home. This programme includes direct financial support (such as non-refundable subsidies like the Family Housing Subsidy or the residential state loan), a favourable VAT-treatment (like special VAT-exemption for families with at least one child) and home renovation supports. The detailed description of the programme is in the Annex (point 3). (128.47, 128.70)
+
+## The Hungarian family policy pays special attention to single parent families. As of 2017, these families are prioritised at the nursery admission, and in 2018, Hungary set up the Single Parent′s Centre where lawyers, family care workers, psychologists and other professionals help single parent families.
+
+## In 2019, a dedicated Family Protection Action Plan was introduced. Under this programme, married couples can apply to a ′Baby expecting subsidy′, a very favourable loan for couples planning to have children within ten years. The Action Plan also includes a special non-refundable subsidy for the family having at least three children to buy a family car (see the details in the Annex, point 3). (128.47, 128.70)
+
+## Finally, the education for family life is embedded in the National Core Curriculum appearing in nearly all subjects. The subject of ethics taught in grades 1-8 addresses various aspects of equality between women and men and family life, and schools may introduce a separate subject (education for family life) in grades (1-12). (128.57, 128.59)
+
+## V/5. Women, equality between women and men
+
+## Women on the labour market, pay gap
+
+## The Hungarian Government promotes the employment of women raising children. Work and family should not be mutually exclusive, but complementary elements. The employment rate of women aged 20-64 was 67% in 2020 according to the Eurostat (compared to 54.6% in 2010). The greatest increase is observed in the subcategory of women raising small children (see details in the Annex). The Empowering Women in the Family and Society Action Plan 2021-2030, consulted with experts and NGOs, specifically elaborates on the better reconciliation of family life and work, empowering women in areas where they are underrepresented, and creating equal economic, health and social protection for men and women. (128.25, 128.58, 128.66)
+
+## Hungary facilitates the return of mothers to the labour market via various measures (128.47, 128.62, 128.170, 128.72):
+
+## − as of 1 July 2021, the rate of infant care fee (benefit for mothers for 168 days after giving birth) increases from 70% to 100% of the mother′s previous gross monthly salary;
+
+## − under the Job Protection Action Plan programme, employers who employ parents with small children may claim back part of their social contribution tax and the vocational training levy. The amount of this benefit was raised in 2019;
+
+## − from 1 January 2020, the rules on part-time employment were amended favourably for the employees (see detailed in the Annex);
+
+## − with the financial support of the ′Women in the Family and at the Workplace′ program, 71 Family and Career Points were established by 2018. These centres provide trainings, coaching and mentoring programmes about personal development, entrepreneurial and self-employment skills of women. The majority of these centres are situated in more disadvantaged areas of Hungary;
+
+## − since 1 January 2020, women having four children are lifelong exempt from paying personal incomes taxes;
+
+## − since 2018, the so-called Birth Grant (a one-off lump-sum payment) is extended to Hungarian mothers living outside the borders of Hungary.
+
+## Pay gap in Hungary shows a clear decline, with the difference of the gross hourly wage between man and women being 14.2% in 2018 (compared to 17.6% in 2010 and to 15.3% EU-average in 2018). This decrease is explained by the significant wage increase in sectors where women are overrepresented (such as in health care, education or public administration, see details in the Annex). (128.62, 128.170) Further, the Hungarian business enterprise environment is suitable for women, as evidenced by the ′Women, Business and the Law 2019′ report of the World Bank, with Hungary scoring 93.75 out of 100.
+
+## Participation of women in public and political life
+
+## For Hungary, it is paramount that women receive fair chances to participate in public life, including in legislation. Instead of so-called gender quotas (that ignore the qualifications and the suitability of the applicants), Hungary believes in providing equal opportunities. Currently, three female ministers are working in the Hungarian Government, one of them being the Minister for Families, who is responsible for family policy. Further, the Women′s Public Leadership Training Program – launched in 2018 and supported by the National Talent Program – offers a free, practice-oriented training for women aged 18-36 who have the ambition to participate in public life. In addition to this, several clubs and associations help this aims, (see detailed in the Annex (point 3). (128.63, 128.64, 128.65)
+
+## Women who are working in the public administration are supported as per Governmental Administration Act (see the details in the Annex (point 3). (128.62)
+
+## Domestic violence
+
+## As a major development in the Hungarian service scheme for victims of domestic violence, several new institutions were established.
+
+## To prevent the escalation of an abusive situation, Hungary set up Crisis Management Ambulances in 2018 that operate on a regional level and provide legal, psychological and social services. The free, 24/7 hotline of the National Crisis Management and Information Telephone Service provides information and helps to find a safe shelter for the victim in an acute crisis situation. Crisis Centres provide accommodation and complex (legal, psychological and social) assistance to victims of domestic violence who had to leave their home (be it alone or with children), for up to 4 weeks. Secret Shelters are accommodating victims of severe domestic violence who are in life danger. Currently, 8 shelters operate, granting accommodation for up to 6 months. The social reintegration of victims is assisted by Halfway Houses that provide long-term housing (up to 5 years) and legal and psychological assistance to the tenants. This institutional framework received vast financial support in the past years, detailed in the Annex (point 3). Currently, beside the National Crisis Management and Information Telephone Service 20 Crisis Centres, 21 Halfway Houses, 8 Secret Shelters, 7 Crisis Management Ambulances and 2 Temporary Accommodations with extended capacity are operating. Between 2014-2017, five awareness raising campaigns were organised under the slogan ″Notice it!″, and in 2018, under the slogan ″Love does not hurt″. The child protection signal system is also involved in the detection of the early signs of domestic violence in a way of professional trainings and flyers. (128. 131, 128.132)
+
+## As outlined above, Hungary considers the elimination of violence against women as a priority, and has a variety of measures in force serving this purpose (that are in line with the overwhelming majority of the provisions of the Istanbul Convention). (128.6, 128.8, 128.134)
+
+## Women, peace and security
+
+## Hungary is currently preparing its National Action Plan based on UN Security Council resolution 1325.
+
+## V/6. Children and youth
+
+## Child protection and social support
+
+## Hungary strengthened the child protection system and integrated the signal system of the family assistance and the signal system of the child service. Therefore, as of 2016, a unified and stronger signal system serves the (preventive) child protection.
+
+## In 2018, Hungary launched a new system of social assistance, under which supporting professionals/experts (called as kindergarten or school assistance) are working in kindergartens, schools and dormitories, and who is working for prevention and help/promotion development programmes.
+
+## In 2019, Hungary introduced a new benefit for parents taking care of their children that are either seriously disabled, or permanently ill and reliant on care, regardless their age (the ′Child home care fee′). The amount of the fee is currently HUF 147 315 per month, and it will gradually be raised to the level of the applicable minimum wage by 2022. Under the period in which one receives ′Child home care fee′, the recipient/beneficiary is eligible to social and health care.
+
+## As of 2021, foster parents an increased monthly fee if they raise children with special/complex (or dual) needs. (128.178). Since 2019, the territorial child protection services may operate services (such as the Barnahus model) for the examination and therapy of neglected and abused children, especially those who have been sexually abused. (128.178)
+
+## In 2020 the so-called ′general protection measure′ was introduced in order to protect children who are suspected victims of trafficking. The police may place these children in a designated home. (128.139)
+
+## As of January 1, 2016, it was introduced obligatory/bound/obligated for local governments to organize holiday catering/provide healthy food and enriching activities to all children in need. (128.170)
+
+## To support young people to start their life, a new tax allowance will be introduced in 2022 (see Annex point 3).
+
+## Children in education
+
+## In order to ensure access to quality, inclusive education, and to improve school performance especially for vulnerable students′ groups, systemic measures were introduced in line with the Mid-term Strategy against School Leaving without Qualification and Public Education Development Strategy. Particularly, access to quality early childhood education and care has been strengthened to improve educational outcomes; professional assistance is being provided for low performing schools on an ongoing basis; early warning and pedagogical support system to prevent drop-outs from schools. To reduce social inequalities, from 2017 students are entitled to free textbooks in all grades of primary school (grades 1-8) and in the first grade of secondary school (grade 9). In 2020, this was extended to all students in grades 1-12. In addition, from 2016, local governments have to organise catering during the holidays for disadvantaged and severely disadvantaged children. This is heavily supported from the central budget (approx. HUF 79.46 billion for institutional catering, and HUF 3.03 billion for catering during the holidays for disadvantaged children in 2020). (128.47, 128.170)
+
+## The National Core Curriculum and the framework curricula contain the topic of ′The rights of the child, democracy and citizenship′ as a ′cross-cutting′ subject. Its content appears in subjects of history, active citizenship and economic studies. (128.176)
+
+## In 2017, the National Minority Committee of the Hungarian Parliament set up a program to support financially (via scholarships and targeted supports) the education of minority teachers. Upon the initiative of at least 8 parents, the education or care of children belonging to minorities must be organised. The minority language and the folklore teaching follow the framework curriculum approved by the national minorities′ local government, while the other subjects follow the general national curriculum (127.87, 128.88, 128.89, 128.91)
+
+## V/7. Persons with disabilities
+
+## Policy measures
+
+## In 2015, the Hungarian Parliament adopted the National Disability Programme 2015-2025. Based on the evaluation of the past years, the new strategy sets out the main development directions of the disability policy within the envisaged 11 years in a new structure over a longer period than before. In 2020, a new Action Plan for the Implementation of the National Disability Programme was adopted for 2020-2022.
+
+## In 2020, the Sign Language Act was amended to allow for a state-recognized language examination in Hungarian sign language. The state also allowed sign language to be taught to deaf children by adults who are native language users who use sign language as their primary language and are included in the List of Sign Language Instructors, and the state covers/will bear the costs of interpretation when using the state health system.
+
+## As of 1 January 2021, detailed conditions for the provision of elementary rehabilitation benefit for visually impaired persons are laid down in legislation. (128.177, 128.178, 128.182)
+
+## Education
+
+## In 2016 and 2020, the special vocational educational system and trainings were revised. In 2017, the so-called development schools system (for learners with moderate intellectual disability) was reformed and a new practical curriculum was adopted. The rules for the mobile special educator and mobile conductor network were also updated. In 2020, the national core curriculum and the framework curricula were also revised. Moreover, in 2013 the entire specialized pedagogical service system, including special educational needs (SEN) diagnostic committee activities, has been reformed, while the diagnostic committee activities were revised in 2020. Currently, over 71% of children with disabilities participating in the public education system receive education in an inclusive methodological framework. The number of educational institutions involving the teaching of learners with SEN is 4341 (which is 75% of the institutions overall). (128.177, 128.178, 128.181, 128.182)
+
+## Employment
+
+## Hungary increased the employment rate of persons with disabilities through social contribution tax relief, rehabilitation services and wage subsidies provided from the government and the EU funds. The measures introduced also increased labour market demand for the employment of people with disabilities, increasing the employment rate from 18% in 2011 to 44% by 2020.
+
+## As of 1 January 2018, employees with disabilities are entitled to five working days of additional paid leave per year. The definition of a disabled worker has also been clarified in the Labour Code and in other labour legislation concerned. As of 1 January 2021, in order to facilitate the employment of disabled people, the provisions on wage limit in addition to social benefits have been repealed. The purpose of the amendments is to prioritise the rehabilitation of disabled and disadvantaged people over keeping them in an inactive status in order to provide them more effective help with carrying a paid employment, which enables them to support themselves and their families. (128.177, 128.182)
+
+## Voting rights
+
+## Until 2011, the previous constitution automatically excluded persons from suffrage who have been under capacity-limiting or capacity-excluding guardianship.[^4.] In contrast, As of 1 January 2012, the Fundamental Law has brought significant changes in the area of suffrage of persons under guardianship whose decision making is hampered as it vests the courts with the right to exclude the given person from suffrage upon an individual assessment of the concerned person′s situation. In line with the provision of the Fundamental Law, Act on the electoral procedure stipulate that the court has to decide whether it excludes persons who have been put under capacity-limiting or capacity-excluding guardianship from suffrage or not. If the court does not exclude the adult person from suffrage, he/she has the right to vote and to be voted for, and to exercise these rights in person as well as to make legally valid statements in this context on his/her own.[^5.] (128.179, 128. 180)
+
+## Independent living
+
+## In 2011, the Deinstitutionalization Strategy 2011-2041 was adopted and governmental and EU funds have financed the projects necessary for the implementation of the Strategy. In accordance with the principles of the Strategy, supported housing was introduced in 2013. In 2019, nine times as many persons with disabilities used supported housing as in 2014, with the ratio being five times higher for psychiatric patients. Supported housing can be created not only through deinstitutionalisation, but also through the construction of new services.
+
+## As the Government pays particular attention to children with disabilities, the revised deinstitutionalisation concept also includes deinstitutionalisation for children living in child protection facilities. The latest amendment to the Child Protection Act also confirms the concept: in the case of foster children, supported living has been named among the forms of home provision services from 1 January 2020.
+
+## In order to support persons with disabilities to live independently, Hungary has launched different tenders in the recent years co-financed by EU funds. For example the ″Developing ICT-based remote services for the daily lives of people with disabilities″ tender aims to provide the best possible support to persons with disabilities in achieving independent living and self-determination through the development of new and existing ICT services. The ″Developing and improving access to professional and public services for persons with disabilities″ tenderaims to improve public services responding to the needs of people with disabilities: improving access to public services, establishing a network of counselling, providing information, developing new services, improving the currently available services and improving tasks in family and child welfare centres. (128.177, 128.178, 128.182)
+
+## V/8. Racism, issues affecting the Roma community, hate crimes
+
+## Roma integration
+
+## Hungary is committed to the social inclusion and integration of the Roma while preserving their own culture, traditions and communities. This approach prevails in all policies as a horizontal principle; nevertheless, the Government initiated and implemented targeted measures in certain areas such as child welfare, education, employment, health, regional development, discrimination, community participation and ethnic culture. The Government′s commitment is reflected in the EU strategic framework of Roma integration policies, originally initiated by Hungary in 2011 (renewed in 2020), as well as in the national social inclusion strategy and its latest version, the Hungarian National Social Inclusion Strategy 2030. (128.50, 128.51, 128.67)
+
+## In order to promote tolerance, cultural diversity and understanding as well as to eliminate prejudice and discrimination, the Government provides significant resources for the promotion of Roma culture. The so-called ″371 Stars″ theatrical performance is organized every year in collaboration with NGOs on the Day of Roma Courage and Youth (16 May) as well as commemorating the Roma victims of the Holocaust on 2 August. The International Roma Day Gypsy Wheel - Roma Values Festival (8 April) is also an annual event with the aim of bringing the Roma minority and the majority population society closer together through cultural understanding, music and dance, folk traditions and roundtable discussions. Since 2013, the culture and history of Roma and Gypsies are included in the National Core Curriculum. (128.46, 128.110, 128.115)
+
+## Furthermore, to promote tolerance and cultural understanding of the Roma population, their participation in political life, and to eliminate discrimination against the Roma, Hungary launched the Comprehensive Program for the Elimination of Segregated Life Situations aiming at contributing to the social inclusion and integration of disadvantaged people living in segregated living conditions and in deep poverty by eliminating disadvantages in employment, education, health, community, housing and in access to services. Nearly 5.000 persons participate in the program. In addition, the Actively for Knowledge program facilitates employability of the low-educated adult population, including many Roma, through various trainings (competence development, primary school education, acquiring work experience). (128.86) Training and employment of Roma women and girls are supported through various programs. (See Annex, point 3.) Comprehensive settlement programs support the social inclusion and integration of disadvantaged people living in segregated living conditions and in deep poverty through employment, education, health, community, housing measures and by eliminating inequalities in access to services.
+
+## The budget also finances the preservation of Roma cultural identity. The goal of the so-called minority support is to preserve ethnic identity, nurture their mother tongue, historical traditions as well as intellectual and material memories, and to organize national or regional events significant in preserving cultural autonomy, and linguistic and cultural identity. In order to integrate the adult Roma population into the labour market and Roma children into the normal education system, the social land program is implemented annually supporting the self-sufficiency of disadvantaged families through small-scale vegetable production and animal husbandry. (128.54, 128.56, 128.61, 128.71, 128. 73, 128.92, 128.94, 128.95, 128.171)
+
+## Hungary takes all possible measures against discrimination and supports the promotion of equal opportunities and equal treatment of persons belonging to the Roma community. Strong action against discrimination is a key element of the new Hungarian National Social Inclusion Strategy 2030. The legal and institutional guarantees of non-discrimination have developed in recent years. The Equal Opportunity Act sets out the sanctions for cases breaching equal treatment, the persons concerned can turn to the Commissioner for Fundamental Rights. The Equal Treatment Act requires municipalities to adopt a five-year Local Equal Opportunities Program (HEP), which is reviewed every two years. Equal opportunity mentors provide professional assistance to this work. The HEP forum provides an opportunity for cooperation between local leaders and public actors, promoting common thinking and social dialogue. (128.72, 128.78, 128.84)
+
+## Education
+
+## There are ongoing systemic measures in order to improve education outcomes, improve the access to quality, inclusive and mainstream education. Anti-segregation working groups have been established in all state school districts by 2018 October to monitor implementation of measures for inclusive education and desegregation. In 2018, a stronger guarantee was introduced by stipulating the obligatory supervision of the public educational equality action plans at least every 3 years. Schools concerned by the court judgement on segregation were involved in a desegregation project and desegregation action plans were prepared. Methodological assistance for supervision of equality action plans and implementation of desegregation action plans has been provided with special attention to comprehensive school development, to improve school performance and desegregation. Series of measures have been introduced to strengthen guarantees needed to avoid the misdiagnosis and misplacement of Roma children to special education.(See Annex, point 3). (128.76, 128.89, 128.91)
+
+## Based on the Vocational Education and Training Act (VET),[^6.] Hungary ensures the conditions and guarantees of VET provision for everyone free of charge and accessible, specifying that vocational education and training has to meet the requirements of effectiveness, high quality, accessibility with equal opportunities for all as well as meeting the professional standards. It also supports the equal opportunities and accessibility to VET for pupils from disadvantaged background, including Roma pupils, as well as high quality VET provision. These programmes and projects are financed by national or EU funds.
+
+## Since 2018, Roma vocational colleges have been operating within the framework of higher education institutions with the aim of training Roma intellectuals and integrating the Roma into society. Roma vocational colleges , on the one hand, enable well-prepared Roma intellectual to take on a public role in the future, helping and supporting the social inclusion of Roma people. On the other hand, by obtaining a degree, disadvantaged students, including those of Roma origin, have a chance to find employment in the labour market. In 2021, Roma vocational colleges already have had 330 students so far. There are 8 so-called Christian Roma Vocational Colleges operating. In addition, there are 4 Roma Higher Education Colleges within higher education institutions. (128.67)
+
+## The National Higher Education Act ensures equal opportunities for disadvantaged students during the higher education admission procedure and during their higher education studies. Students receive benefits in accordance with their condition, personal abilities and disability. In addition, there is no racial or ethnic discrimination or segregation in the courses offered in Hungarian higher education institutions, as students participate in the courses, regardless of their racial, ethnic origin or sexual orientation.(128.70, 128.75, 128. 81, 128.85, 128.86, 128.88, 128.91, 128.92, 128.173, 128.178)
+
+## Hate crimes
+
+## In accordance with the recommendation of the UN Commission on Human Rights, a protocol-based norm was issued in 2019 in order to provide uniform, effective and professional law enforcement responses to hate crimes. Police officers are regularly briefed on the correct conduct of police officers during measures, the importance of objectivity, the protocol to be followed, the prohibition of discrimination and the importance of prejudice-free policing.In order to eradicate racism, racial or religious discrimination, xenophobia and related intolerance and to provide an effective, professional and lawful law enforcement response, the criminal justice service relies on prejudice indicators in the detection and investigation of criminal offenses. Indicators may later become indirect evidence, and full disclosure of the evidence is a legal obligation. In 2019, trainings were conducted for the law enforcement and criminal personnel on the list and use of the prejudice indicator, and on the characteristics of hate crimes. Based on the cooperation between the Directorate General for Law Enforcement and the Directorate General for Crime Investigation, the "Let's Do Against It Together", an information brochure with useful information and advice for victims of hate crime, was completed in November 2020. The publication was produced in 22,000 copies in February 2021.(128.108)
+
+## In 2020, the Victim Support Act was amended, establishing a victim support system based on direct contact to victims. Within the so-called opt-out system, assistance is offered directly to the victims who can receive personalized support tailored to their needs. The legislative changes entered into force on 1 January 2021. See details in the Annex, point 3. (128.90, 128.96, 128.97, 128.98, 128.99, 128.100, 128.101, 128.102, 128.103, 128.104, 128.105, 128.106, 128.107, 128.109, 128.110, 128.111, 128.112, 128.114, 128.115, 128.116)
+
+## Hungary declared a zero tolerance policy against anti-Semitism and is fully committed to guaranteeing the safety of the Jewish people in Hungary. Beyond a comprehensive legal framework aiming at providing protection for the Jewish community by several laws, the Hungarian Government has also endorsed the working definition of anti-Semitism by the International Holocaust Remembrance Alliance[^7.] and implements it in its policies on Holocaust-remembrance, education and research as well as in the training of teachers, law enforcement bodies and legal practitioners. As regards education, Holocaust Memorial Day was introduced in the high school curriculum with the aim to widely disseminate and teach about that dark period of our history. Raising and educating a responsible person for the future are high on the agenda of educators in Hungary.
+
+## Hungary has been one of the safest countries for members of the Jewish communities in Europe, Jewish people were the least worried about becoming a victim of verbal insults, harassment or physical attack in the future because of being Jewish. It is important to highlight that there are practically no violent physical attacks against members of the Jewish community in Hungary.[^8.] The number of anti-Semitic incidents has been showing a generally decreasing trend over the past 10 years in the European Union (2009-2019).[^9.] (128.117)
+
+## V/9. Protection of minorities
+
+## Self-governments
+
+## According to National Minorities Act, self-governments can only be formed at municipalities and on a regional level if the relevant community′s existence is substantiated by census data. In 2020, the amendment of the National Minorities Act aimed at strengthening the system of tools necessary for the exercise of national minorities′ rights, and it continued to set as a priority the suppression of the eventual emergence of the so-called ″ethno-business″. The drafting process was based on the indications and requests of the Hungarian national minorities. (128.93)
+
+## Financial support
+
+## Direct central budgetary support is provided to Hungarian national minorities. Grants cover the following main areas: support for self-governments and their media; support for institutions maintained by self-governments; grants awarded through tenders and individual applications; support for local and regional self-governments; support for their institutions for renovation, investment, and own contribution at tenders; salary compensation for maintainers of the institutions; scholarships, awards. (128.94.)
+
+## Education
+
+## Based on the amendment of the National Minorities Act, the real estate of public educational institutions taken over by national minorities become compulsory. The amendment also provides a legal opportunity for the national minorities to maintain social institutions. Funds are provided from the central budget for the realizations of the cultural autonomy of communities. Over the last period, the takeover of public education institutions by national minorities was large-scale. The number of public education institutions run by local and national self-governments increased from 77 (2016/2017) to 95 (2020/2021).
+
+## From 2017, national minorities can represent themselves in School District Councils, the Association of National Minorities′ Local Governments can delegate a member to this School District Council, who represents the interests of national minorities. On the proposal of the Association, there are representatives of national minorities in 27 School District Councils.
+
+## Based on the initiative of the Hungarian National Minority Committee of the Hungarian Parliament, the national minority teacher program has been implemented since 2018. The goals of the program are to increase the number of young adults who choose the profession of a national minority teacher and to enhance the standards of the national minority teacher training, to make the national minority language training more efficient and to keep and to honour more the currently working national minority teachers. As part of this program, the quantity of the national minority allowance has progressively increased by four times and it was extended to all national minority teachers; the places of national minority teacher training received support, for the improvement of the training, furthermore, the scholarship for students of national minority teacher training was set up, whereby students undertake that they will work in a national minority pre-primary or primary school at least as long as their scholarship lasted. (128.87, 128.173., 128.174)
+
+## V/10. Migrants, refugees and asylum-seekers
+
+## Hungary upholds its obligations with regard to asylum-seekers in line with international, European and national law. (128.185, 128.189, 128.190, 128.194, 128.195, 128.197, 128.198, 128.203, 128.204, 128.205, 128.206, 128.208, 128.210, 128.213, 128.218)
+
+## Hungary continuously cooperates with international organizations, such as the United Nations, Hungarian Red Cross, the International Committee of the Red Cross and the International Organization for Migration. (128.214)
+
+## In accordance with its international obligation, the Fundamental Law, as well as the Equal Treatment Act, Hungary ensures adequate measures against all forms of racial discrimination, xenophobia and hate speech towards migrants and asylum-seekers. (128.69. 128.74, 128.80, 128.83, 128.96, 128.99, 128.100, 128.101, 128.105, 128. 113)
+
+## In 2020, the Hungarian Asylum Authority has waived the asylum legislation on transit zones and does not apply them currently. Following the decision, nearly 300 applicants were transferred from the transit zones to two open reception facilities. Since then, there has been no asylum seekers accommodated in the transit zones. (128.184, 128.188, 128.196, 128.199, 128.201, 128.207, 128.209)
+
+## Regarding the treatment of persons belonging to vulnerable groups, guidelines have been issued for the law-enforcement staff. Social workers at the Alien Policing Detention Centre in Nyírbátor provide social assistance to persons belonging to vulnerable groups, including women. (128.186)
+
+## Concerning detaining families and children, families having underage child are accommodated at a separate wing of the Alien Policing Detention Centre. The Detention Centres in Nyírbátor and Vámosszabadi are being reconstructed completely from Asylum Migration and Integration Fund aiming at complying with the recommendations of the Committee Against Torture. Unaccompanied minors are accommodated at children′s home. The asylum authority has not ordered detention against families with children since 2017. (128.191, 128.212)
+
+## The consideration of the asylum authority to order asylum detention is based on continuous and careful assessment and in merit evaluation of relevant personal circumstances on a case by case basis. The aim is whether less onerous measures are effective enough to achieve the purpose of securing the availability of the asylum seeker during the asylum procedure. In 2020, in the case of Dublin transfer of a Syrian citizen, the asylum authority, instead of ordering asylum detention, decided to use alternative less severe measure to reach the same objective. The decision based on the thorough analyzation of the person′s circumstances, the authority designated the applicant′s habitual residence as compulsory residence, with the obligation to report every two weeks to the authority. (128.217)
+
+## In the last two years, taking into consideration the declining number of asylum seekers, and the detentions′ short period, it can be observed that detention was only ordered as a last resort, in case of necessity, for a reasonable time period. Beyond the 72 hours of detention ordered by the asylum authority, only the court was authorized to prolong this period. The average length of the implemented detentions stayed far below the maximum of 180 days, limited by the Act on Asylum. In 2019, 40 new detention orders were issued. This number dropped to 22, in 2020, which clearly indicates that detention was only ordered in the most necessary cases, in accordance with international regulations. The length of detention in average was 54 days in 2019, and 77 days in 2020, far below the legal maximum. Regarding asylum detention, no complaints have been lodged in the recent years due to inadequate detention conditions. The training of the guarded accommodation staff is continuous. (128.219) Possible cases of mistreatment by the police are examined by the competent prosecutor′s office, which is in charge of legal supervising. (128.202) During alien policing procedures, detention must be terminated immediately if the conditions are no longer fulfilled. Judicial and prosecutorial control is ongoing during detention. (128.215)
+
+## The asylum authority continuously develops and improves the reception conditions for asylum seekers. Rooms and sanitary facilities have been renovated, the heating system was modernized with new radiators, solar collectors were recently installed. The equipment for leisure and recreational activities were also improved. (128.192, 128.193, 128.209, 128.211, 128.216)
+
+## V/11. Sexual orientation
+
+## The Fundamental Law, as well as the Hungarian Act on Equal Treatment explicitly forbids/prohibits discrimination based on sexual orientation. Act XXIX of 2009 provides for the registered partnership of same sex couples. The rights guaranteed for so-called LGBTI persons are around average in European comparison based on the data of ILGA Europe (placing 27th among 49 European countries).[^10.] Concerning the definition of family enshrined in the Fundamental Law, the Constitutional Court stated that it does not follow from the Fundamental Law that the state should not provide an objective institutional protection to ′many other forms of permanent emotional and economic cohabitations within the sociological definition of family which has common objectives, based on mutual care and meeting the definition of family in the sociological, more dynamic sense of the word, irrespective of their title defined by law.′[^11.] (128. 118., 128.119., 128.120, 128.121, 128.122)
+
+## V/12. Human Trafficking
+
+## In February 2020, the National Anti-Trafficking Strategy for 2020–2023 and its related Action Plan for 2020–2021 were adopted. The new strategy is based on the four pillars of the ″4P″ paradigm, namely prevention, protection, prosecution and partnership. During the drafting process, the proposals of the ministries, authorities and non-governmental organizations involved in victim assistance were taken into account. The strategy envisaged the allocation of 91 million HUF for implementation by 2020 and 518.5 million HUF by 2021; in addition, each organization and ministry implements measures from its own budget.
+
+## The Criminal Code of Hungary orders to be punished all forms of human trafficking laid down in the Protocol to Prevent, Suppress and Punish Trafficking in Persons Especially Women and Children, supplementing the United Nations Convention against Transnational Organized Crime. In addition to the perpetrators who traffic in or enslave the victims for profit,due to an amendment package adopted for the enhanced protection of victims of human trafficking, as of 1 July 2020 consciously utilizing the services or other activities of victims of human trafficking (the demand side) is criminalized as well. If the utilized services or activitiesinclude sexual intercourse or illicit use of human body, it is punishable more severely.
+
+## This law amendment package has also introduced a general prohibition on the offering of sexual services by a person who has not attained the age of 18 was introduced. Consequently, the minor who is in breach of the prohibition of offering sexual services is treated as a presumed victim of human trafficking, and pursuant to the Act on Minor Offences misdemeanour procedure cannot be commenced against him/her. As part of the same amendment package, another amendment to the Criminal Code prescribed severe penalty – even higher than for the qualified case of the use of services as described above – for the felony of providing consideration for sexual intercourse with a minor under 18 years of age.
+
+## In the field of victim support, there is a wide range of services available for persons fallen victim to human trafficking. The state shall provide the following services to the victims after assessing their needs: facilitating the enforcement of interests; instant monetary aid; certificate of victim status; witness care; sheltered accommodation. Two non-governmental organizations operate shelters for adult victims with annual state funding from the central budget. Half-way houses connected to each temporary accommodation also form part of the complex assistance – this service is designed to establish and strengthen independent living, once the victims get over the crisis situation. Besides special criminal law measures, e.g. restraining order (to be ordered during criminal proceedings), rules on persons requiring special treatment and witness protection further contribute to the adequate protection for victims.
+
+## As regards minors, five special children′s homes were designated for the reception of (presumed) victims of human trafficking. One of the institutions, the central special children's home in Kalocsa provides care exclusively for boys. See more details in Annex, point 3. (128.142 128.144, 128.145, 128.146, 128.147, 128.149)
+
+## With a view to increasing the efficiency of law enforcement, senior supervisor officers for trafficking in human beings were appointed in all county police headquarters in 2019 to conduct or direct THB-related investigations. As of 1 January 2021, the anti-human trafficking group has become an independent unit within the framework of the National Bureau of Investigation, with its staff being expanded. Additionally, the Ministry of Interior organizes a series of awareness-raising trainings for police officers, prosecutors and judges from three counties of Hungary each time. (128.143, 128.148)
+
+## V/13. Media, freedom of information, freedom of expression
+
+## Critical remarks concerning the media law having relevance in legal terms (the rules on balanced information, the election (appointment) of the president of the media authority and the chairperson of the media council and the publication of political advertisements in media services) were addressed by legislative means. (128.155, 128.160)
+
+## The regulatory framework for media activities has been developed in consultation with the relevant international fora and adequately safeguards freedom of the media. The relevant legislation ensures a proper framework for the freedom of the media. It offers an all-around protection for journalist′s independence by providing safeguards for editorial and journalistic freedom of expression. The Media Act developed a two-pillar set of tools to effectively prevent the emergence of dominant positions and safeguard the pluralism of the media market. On the one hand, market concentration of providers of linear media services may be limited within the framework of Media Act in order to maintain the diversity of the media market and to prevent the formation of information monopolies. The other pillar securing and maintaining media market pluralism are the additional obligations that the Media Act attaches to Significant Powers of Influence Businesses as a media service provider.
+
+## The National Media and Info-communications Authority (NMHH) is an autonomous regulatory agency subordinated solely to the law. The Media Council and its members are also subject only to the law and cannot be instructed in their activities. The independence of NMHH as well as the foreseeability and predictability of the administrative procedures concerned is properly safeguarded. (128.157, 128.158, 128.159)
+
+## V/14. Detention conditions, ill-treatment
+
+## Hungary resolved the issues of overcrowding in prisons by a multi-directional plan by complementing the program prepared for reducing overcrowding in prisons as well as using the means of legislation by introducing effective legal remedies. The ongoing prison capacity development programme resulted in opening 2.500 new prison places in 2020, as well as a drop to 96 percent of the occupancy level which has an enormous significance in this respect. In 2016, an effective domestic remedy was introduced in respect of complaints concerning overcrowding in prisons with a retroactive effect. In the light of the experience concerning the application of this domestic remedy, the applicable rules were reviewed in 2020. The legislative amendments strengthened the rights of the victims of the crimes committed by the detainees obtaining compensation for overcrowding. (128.127)
+
+## Although the length of pre-trial detention has not been changed, the new Criminal Procedure Code includes several provisions that aim to ensure that the pre-trial detention is only ordered when it is indispensable, and it should only last for the time most necessary. The Code introduced the principles of necessity, proportionality and gradualism to the basic principles applicable during criminal procedure and the court can only order pre-trial detention if the aim to be achieved by pre-trial detention cannot be achieved by an alternative measure, such as a restraining order or criminal supervision. This rule signifies a change in the approach to pre-trial detention; it clearly expresses that the number of pre-trial detentions shall be reduced to the minimum in line with the European trends, and it should indeed be limited to the most necessary cases. (128.129)
+
+## V/15. Development
+
+## According to the published OECD DAC preliminary data, in 2020, Hungary′s Official Development Assistance (ODA) amounted to 411.41 million dollars (126.71 billion Hungarian forints), the sum of which contributed to 550 international development projects in 110 countries. Hungary thereby managed to increase its ODA/GNI ratio from 0,09% in 2010 to nearly 0,26% in 2020, which highlights a total increase of 260%. With this impressive achievement, Hungary successfully reached and exceeded the 0.25% ODA/GNI target by 2025, as set out in its International Development Cooperation Strategy for the period 2020-2025 (IDC2025). Since the last UPR of Hungary in 2016, Hungary has increased its level of ODA by over 165%.
+
+## The substantial increase of the assistance – in line with the priorities of IDC2025 – is attributable to a wide range of international economic development and foreign investment programs, bilateral development projects and numerous medical donations implemented with a view to assisting our international partners in their efforts to tackle the effects of COVID-19 pandemic. (128.221)
+
+2. melléklet az 1566/2021. (VIII. 9.) Korm. határozathoz
+
+Annex to the National report of Hungary on the implementation of 2016 UPR recommendations
+
+1. Cooperation with civil society in the preparation of the national report
+
+2. Legislative and institutional changes
+
+3. Policy measures, strategies
+
+4. Clustered list of recommendations received during the 2016 UPR of Hungary
+
+5. Information on country visits of and communication with mandate holders of international human rights organisations
+
+1. Cooperation with civil society in the preparation of the national report
+
+The Human Rights Working Group and its Human Rights Roundtable
+
+The Human Rights Working Group (HRWG) is an active consultative body of the Government (Gov. Decree 1039/2012.). Its main task is to monitor the realization of human rights in Hungary, consult with a variety of organizations, as well as to follow-up on the UPR recommendations. The Working Group is an inter-ministerial body composed of Ministers of State representing relevant fields, while its chair is the Minister of State for Parliamentary Affairs of the Ministry of Justice. During the sessions of the HRWG accession to human rights conventions and the better implementation of the already existing international obligations of Hungary are discussed regularly.
+
+The Working Group operates the Human Rights Roundtable, which facilitates the consultation with NGOs, advocacy and professional organisations monitoring human rights and formulates recommendations regarding the activities and tasks of the Working Group. In addition to the members of the Working Group, members of the Roundtable include the Commissioner for Fundamental Rights (hereinafter: Ombudsman), the Presidents of the Hungarian Central Statistical Office and the Hungarian National Authority for Data Protection and Freedom of Information, as well as delegates of human rights civil organisations invited by the President and the Vice President. State actors and civil participants form thematic sub-working groups led by relevant ministries. They are covering the whole spectrum of human rights (upon the request of the NGOs for instance: freedom of opinion, other civil and political rights, rights of Roma, minorities, women, children, disabilities, elderly, homeless).
+
+Members of the Human Rights Roundtable are: Addetur Alapítvány, Alapjogokért Központ, Autisták Országos Szövetsége, Baptista Szeretetszolgálat, Cigány Tudományos és Művészeti Társaság, Cigányokért Szociális és Kulturális Egyesület, Civil Összefogás Fórum, Család, Gyermek, Ifjúság Egyesület, Csodacsalád Egyesület, Czinka Panna Roma Kulturális Egyesület, Demokratikus Roma Vezetők Szövetsége, Dráva Menti Romákért Egyesület, Dunántúli Cigányság Felemelkedéséért Közhasznú Egyesület, Ebony Afrikai Kulturális, Művészeti és Emberi Jogi Egyesület, Értelmi Fogyatékossággal Élők és Segítőik Országos Érdekvédelmi Szövetsége, ÉFOÉSZ Komárom-Esztergom Megyei Szervezete, Emberi Méltóság Központ, EMMA Egyesület, Erdélyi Magyarok Egyesülete, ERGO-Európai Regionális Szervezet, Észak-magyarországi Német Önkormányzatok Szövetsége Egyesület, EU-Roma Országos Egyesület, Fáy Károly Hallássérült és Fogyatékos Személyek Egyesülete, Fehér Kereszt Gyermekvédő Alapítvány, Felelős Társadalomért Közhasznú Alapítvány, Fogyatékossággal Élő Emberek Szervezeteinek Tanácsa, Geopolitikai Tanács Közhasznú Alapítvány, Háttér Társaság Helidonaki Görög Hagyományőrző Egyesület, Kárpát-medencei Tehetségkutató Alapítvány, Kilikia Kulturális Egyesület, Kézenfogva Alapítvány, Lativ Barátai a Zsidó Reneszánszért Magyarországon Alapítvány, Lungo Drom Országos Cigány Érdekvédelmi és Polgári Szövetség, Magyar Gerontológiai és Geriátriai Társaság, Magyar Katolikus Újságírók Szövetsége, Magyar Keresztény Misszió Alapítvány, Magyar LMBT Szövetség, Magyar Női Érdekérvényesítő Szövetség, Magyar Női Karrierfejlesztési Szövetség, Magyar Női Unió, Magyar Nők Szövetsége, Magyar Újságírók Közössége, Magyar Újságírtók Országos Szövetsége, Magyar Vakok és Gyengénlátók Országos Szövetsége, Magyar Vöröskereszt, Magyarországi Bem József Lengyel Kulturális Egyesület, Magyarországi Bolgárok Egyesülete, Magyarországi Horvátok Szövetsége, Magyarországi Németek Pécs-Baranyai Nemzetiségi Köre, Magyarországi Roma Galéria Egyesület, Magyarországi Ruszinok/Rutének Országos Szövetsége, Magyarországi Szlovákok Szövetsége Közhasznú Szervezet, Magyarországi Szlovének Szövetsége, Magyarországi Ukrán Kulturális Egyesület, MONA - Magyarországi Női Alapítvány, Mozgáskorlátozottak Egyesületeinek Országos Szövetsége, Nagycsaládosok Országos Egyesülete, NAPFIVÉR-HOLDNŐVÉR Közhasznú Egyesület, Nevelők Háza Egyesület, Országos Gyermekvédő Liga, “Összefogás A Magyarországi Románokért” Egyesület, PATENT Jogvédő Egyesület, Református Misszió Központ, Református Rehabilitációs Alapítvány, Roma Láng Egyesület, Roma Nővédelmi Közhasznú Szervezet, Roma Szeretetszolgálat Nemzetközi Segélyszervezet, Saxlehner András Egyesület, Siketek és Nagyothallók Országos Szövetsége, Srpski Forum Egyesület, Századvég Politikai Iskola Alapítvány, Színes Gyöngyök Délvidéki Roma Nőkért Egyesület, Szubjektív Értékek Alapítvány, Tett és Védelem Alapítvány, Vasutas Nyugdíjasklubok Országos Szövetsége.
+
+The following NGOs were also invited to the thematic working group sessions: Ágota Alapítvány, Asszonyok a Nemzeti Egységért Mozgalom, Bázis Gyermek és Ifjúsági Egyesület, Boldog Gizella Alapítvány Gizella Otthon, Egészségügyi Szakmai Kollégium OSTHK Tagozat, Egységes Magyarországi Izraelita Hitközség, Olajág Otthon, ELTE Bárczi Gusztáv Gyógypedagógiai Kara, EMMI Nyugdíjas Bizottság, Esztergom és Környéke Nyugdíjasok Kultúrális Egyesülete, Fészek Gyermekvédő Egyesület, Fővárosi Gyermekvédelmi Központ és Területi Gyermekvédelmi Szakszolgálat, Friedrich Ebert Stiftung, Hajléktalanokért Közalapítvány, Három Királyfi, Három Királylány Mozgalom, Hintalovon Alapítvány, Idősek Európa Háza Alapítvány, Kalunba Nonprofit Szolgáltató Kft., Kék-Vonal Gyermekkrízis Alapítvány, Lehetőség Családoknak 2005 Alapítvány LIGA Nyugdíjas Bizottság, Magyar Államkincstár, Magyar Asszonyok Érdekszövetsége, Magyar Bölcsődék Egyesülete, Magyar Családi Napközik Közhasznú Egyesülete, Magyar Gyermek és Ifjúsági Telefonos Lelkisegély Szolgálatok Országos Szövetsége, Magyar Gyermekorvosok Társasága, Magyar Gyógypedagógusok Szövetsége, Magyar Nyugdíjasok Egyesületeinek Országos Szövetsége, Magyar Szakszervezeti Szövetség Nyugdíjas Tagozata, Magyar Tudományos Akadémia,, Magyar Védőnők Egyesülete, Menedék Egyesület, Nemzeti Gyermekmentő Szolgálat, Nemzeti Média- és Hírközlési Hatóság, Nemzetközi Migrációs Szervezet, Női Géniusz Alapítvány, Nők a Holnapért Alapítvány, Nők a Magyar Nemzetért Közhasznú Egyesület, Nők a Nemzet Jövőjéért Egyesület, Nyugdíjasklubok és Idősek “Életet az éveknek” Országos Szövetsége, Nyugdíjasok Szociális Fóruma, Országos Nyugdíjas Polgári Egyesület, Schweitzer Albert Református Szeretetotthon, Tessedik Sámuel Evangélikus Szeretetszolgálat, UNHCR Regional Representation, UNICEF Hungary.
+
+2. Legislative and institutional changes
+
+a.) The legal framework
+
+Since 2016, the Fundamental Law has been amended, and from the human rights perspective the following should be highlighted:
+
+The Seventh Amendment to the Fundamental Law laid down that exercising the right to freedom of expression and assembly shall not impair the private and family life and home of others. According to Article VI, the State provides legal protection for the tranquillity of homes. As a result of technological development, digitalization and the growth of media publicity, the protection of the privacy of the individual is facing new challenges to which legislation must also respond; in the digital age, the protection of privacy extends not only to the intimate sphere, but also to a broader private sphere, the individual’s family life and home. An external barrier to freedom of expression and the exercise of the right of assembly may be, inter alia, the right to respect for the private and family life and home of others.
+
+The Ninth Amendment to the Fundamental Law modified Article XVI and stipulated that every child have the right to the protection and care necessary for his or her proper physical, mental and moral development. Hungary protects the right of the child to a self-identity corresponding to their sex at birth, and ensures an upbringing for them that is in accordance with the values based on the constitutional identity and Christian culture of our country.
+
+The Fundamental Law contains the right of children to a healthy development, which is a key value to be protected. Sex at birth is a factor that cannot be changed: it is a biological principle. Human dignity thus includes the right of every child to self-identity according to their sex at birth, part of which is to be protected against mental or biological interference affecting the child’s physical and mental integrity. The amendment provides a clear basis for all members of the younger generation to learn about, preserve and pass on Hungary’s national identity, sovereignty and the role of Christianity in preserving nationhood. It should be emphasized that the latter elements are not new in the Fundamental Law, and these values based on the Christian culture of Hungary do not mean a commitment to a religion, but to the system of historical and cultural traditions that has developed in Hungary over the past 1,000 years. The provision of such education also means that the state has to maintain an institutional system that is able to provide this, but at the same time does not exclude the operation of other value-based educational institutions in accordance with the Fundamental Law or prevents any family from raising their child in their own preferred way. This principle shall in no way affect the exercise of the right to freedom of conscience and religion, which includes the freedom to choose and to change one’s religion or belief.
+
+The Hungarian legal system offers a high level of protection of civil and political rights. Among the most important developments is the adoption of the new Civil Procedure Act, Criminal Procedure Code, the Code of Administrative Court Procedure and the Code of General Administrative Procedure in the recent years. These legal norms were drafted in line with European Union law.
+
+As of 1 January 2021, certain provisions of actions related to personal status, including matrimonial action, were amended in the Code of Civil Procedure. The most important aim of the amendments regarding actions related to personal status (family law actions) is the introduction of provisions aiming at the increased protection of the interests of the parties’ minor child. This amendment of the Code of Civil Procedure provided the judges with more effective case management competences in order to be able to bring the best interest of the minor child in the focus of the proceedings. In order to protect the best interest of the minor child, the amendment broadened and listed the categories of taking evidence ex officio and the possibility of ordering a provisional measure to be taken ex officio. In connection with matrimonial actions where the court may order a provisional measure ex officio, the amendment highlights the best interest of the minor child as a requirement that serves as grounds for ordering the provisional measure, it also broadened the scope of provisional measures that can be ordered in connection with issues related to parental custody.
+
+The new Criminal Procedures Code has lengthened the duration of the restraining order (to be ordered during criminal proceedings) significantly. If it is ordered before the indictment is filed, it can last up to 4 months, which can be reordered for another 4 months. If the restraining order is issued or upheld during the court proceedings, depending on the instance of the proceeding court ordering or upholding the restraining order, it can last until the final judgment is delivered or the procedure is concluded. In addition to the restraining order, the court can simultaneously order the criminal supervision of the defendant. The compliance with both the restraining order and the criminal supervision can be ensured by the electronic device monitoring the defendant’s movement.
+
+Additionally, the new Code dedicates a separate chapter on persons requiring special treatment. According to Chapter XIV, not only victims, but witnesses can also be classified as such persons. The main conditions which determine whether a person can be classified as a person requiring special treatment are based on: age, mental, physical and health condition, the grossly violent nature of the act subject to the criminal proceedings, and/or relationship of the concerned person to other participants of the criminal proceedings. As a result, special supportive and protective measures may be used for the protection and support of persons requiring special treatment during the criminal procedure.
+
+Furthermore, there are special rules of witness protection, which aim to protect the life, physical integrity and personal freedom of a person requiring special treatment (and his relatives) and to guarantee that such a person meets his obligation to give testimony, which needs to be given without any intimidation. Such measures of witness protection include classifying the person requiring special treatment as a specially protected witness, granting personal protection to them and ensuring them to participate in a Protection Program.
+
+As of 5 November 2020, the new provisions of the Criminal Code enhance the protection of victims of violent crimes committed by relatives. The possibility of release on parole is excluded if the perpetrator is sentenced to imprisonment to be served for a violent crime committed against his/her relative, which is punishable by eight or more year of imprisonment. In exceptional cases, when the court does not exclude the possibility of release on parole, the perpetrator has to be placed under probationary supervision and special rule of conduct may be prescribed for him/her. The person who is sentenced to suspended imprisonment for a violent crime against his or her relative also must be placed under probationary supervision. In both cases, the court or the prosecutor shall order the perpetrator to keep distance from the victim or another related person as part of the prescribed rules of conduct. This obligation is enforced by using a technical device that monitors the movement of the perpetrator, provided that the technical requirements are met. A relative shall include in this regard the parent, ex-spouse, ex-domestic partner, custodian, guardian or individual under the custodianship or guardianship of the offender’s child, i.e., this extended definition of relative covers the presumed victims of domestic violence. The places from where the perpetrator is obliged to keep his/her distance was widened to include child welfare and child protection institutions.
+
+b) The institutional framework
+
+In relation to the institutional framework for the protection of human rights, the following can be highlighted.
+
+The Constitutional Court is mandated to undertake the protection of the fundamental rights of individuals based on constitutional complaints and the provisions on the exercise of the right to lodge a constitutional complaint were clarified in 2019. Additionally, taking into account the fact that the members of the Constitutional Court practice de facto judicial activity, from 2019, justices are allowed to use their experience in the Supreme Court as a judge after the end of their terms of office.
+
+Furthermore, with regard to the COVID-19 pandemic, in order to maintain the proper functioning of the Court, the meetings of the Constitutional Court may also be held by electronic means, based on the decision of the President. The President and the Secretary-General shall ensure the continuous functioning of the Constitutional Court and shall take the necessary organisational, operative, administrative and decision-preparing measures and the President may authorize a derogation from the rules of procedure of the Constitutional Court.
+
+As of 1 January 2021, the Equal Treatment Authority (EBH) is integrated into the Office of the Commissioner for Fundamental Rights, thus offering a higher level of protection for the right and principle of equal treatment, due to the fact that cases of violations of equal treatment are now heard by an institution that is primarily concerned with the protection of fundamental rights. The Commissioner for Fundamental Rights, unlike EBH, is a constitutional institution. It is guaranteed at the constitutional level that the Commissioner’s proceedings may be requested by anyone and that the Commissioner shall report annually to the Parliament on his or her activities. In the latter mentioned annual report the Commissioner gives information on his or her fundamental rights protection activities, on the reception and outcomes of his or her initiatives and recommendations, and evaluates the situation of fundamental rights on the basis of statistics compiled on the infringements related to fundamental rights. The Commissioner may also initiate ex-post norm control before the Constitutional Court.
+
+The tasks of the EBH have been taken over by the Office of the Commissioner for Fundamental Rights with full powers. In the performance of its duties specified in the Act on Equal Treatment, the Office of the Commissioner for Fundamental Rights acts as an administrative authority. The new model is in line with the provisions of the relevant provisions of European Union law. Moreover, it provides for far more extensive powers than foreseen in the EU legislation, for instance, through its power of sanctioning violations of equal treatment and adopting binding decisions. Therefore, complaints about equal treatment will be dealt with by an institution surrounded by stronger constitutional guarantees than before. The budgetary independence of the Office of the Commissioner for Fundamental Rights – including adequate funding – is fully safeguarded. In many countries equal treatment complaints are dealt with by ombudsman’s institutions, therefore the integration of EBH in the Office of the Commissioner for Fundamental Rights is fully in line with international standards.
+
+3. Policy measures, strategies
+
+a) Family policy
+
+The administrative investigation preceding the marriage with a minor
+
+The legal age for marriage is set at 18 by Section 4:9 of the Civil Code, irrespective of the sex of the person concerned. Minors at least 16 years old may also enter into a marriage with the prior consent of the Guardianship Authority. The conditions of this consent are set forth by Sections 34-36 of Government Decree 149 of 1997 (IV. 10.) on Guardianship Authorities, Child Protection and Custody Procedure. In accordance with these rules, the request for authorisation must include a certification from the General Practitioner of the minor concerned, confirming that the minor’s physical and mental development is at a stage which qualifies him/her to enter into a marriage. The couple shall also attach their income certificate or present a statement, explaining that the subsistence and accommodation of the parties to the marriage above the age of 16 and their existing children or children to be born prior to them reaching the age of 18 will be provided for after the conclusion of the marriage. Furthermore, if necessary, they shall also attach a certificate proving that they have attended the counselling sessions of the Family Protection Service. Before deciding on the request, the Guardianship Authority also interviews the parent or guardian of the minor. The Guardianship Authority may only grant prior authorization for the marriage, if all the conditions set out above are met, the conclusion of the marriage is in the minor’s interest and if the request for authorisation has been submitted by the child at his or her free will and without undue influence by others.
+
+Apart from the conditions set out above, Section 4:9 (1) of the Civil Code also lays it down, that the marriage of a minor shall be considered void if entered into without the prior consent of the Guardianship Authority. Moreover, pursuant to Section 22 of Act I of 2010 on Civil Registration Procedures, the Registrar shall refuse to register the marriage in the absence of the Guardianship Authority’s authorization for the marriage or if the validity of the prior authorisation granted earlier on has expired.
+
+In sum, persons above the age of 16 but below the age of 18 may only enter into a marriage in exceptional cases with the consent of the Guardianship Authority, if all the conditions laid down by applicable legislation are met and the Guardianship Authority’s interviewed with the minor’s legal representative.. (128.123)
+
+The development of the nursery care system
+
+The new day-care system of children introduced on 1 January 2017 is more flexible, differentiated and gives women with small children a hand with the new demand-driven forms of day-care services (nursery, mini-nursery, workplace nursery, family nursery). From 2017 onwards, municipalities under 10 thousand inhabitants also need to ensure the daily care of small children, where the number of children under the age of 3 is more than 40, or in case if this number is lower, but at least 5 parents with small children indicate their demand for the service. Nursery care is provided for almost 19% of the age group between 0−2, which is so far the highest proportion in the history of Hungarian nurseries. This figure is expected to increase in the upcoming period. The number of settlements providing childcare services has doubled in the last 10 years. (128.25, 128.34, 128.170.)
+
+Family tax allowance
+
+Under the family tax allowance scheme, the amount of the personal income tax of the parent has been decreased as follows:
+
+| Number of children | Amount of the reduction (from 1 January 2019) per month |
+
+| 1 | HUF 10,000 (USD 32.8) |
+
+| 2 | HUF 20,000 per child (USD 65.6) |
+
+| 3 or more | HUF 33,000 (USD 108.3) per child |
+
+Child nursing fee
+
+From 1 July 2016, each parent can qualify for child nursing fee individually, thus eventually doubling the number of childcare days available in case of children between the ages of 3 and 12. (128.47)
+
+Family Housing Subsidy (Hungarian abbreviation: ‘CSOK’) and Village CSOK
+
+The Family Housing Subsidy (Hungarian abbreviation: ‘CSOK’) is a non-refundable state subsidy for families raising at least one child or who undertake to raise at least one child when buying a new or pre-owned house or flat or enlarging their existing home. The amount of the subsidy vary between HUF 600 thousand (USD 1,967) and HUF 10 million (USD 32,790) according to the number of children and whether it is a new house.
+
+Families buying a new or pre-owned house/flat with CSOK may also apply for a residential state loan of maximum 3% interest. Families with two children may apply for a loan of HUF 10 million (USD 32,790) and those raising three or more children may apply for a loan of HUF 15 million (USD 49,185). In the case of a Village Family Housing Subsidy (Village ‘CSOK’), families renovating or enlarging their home are eligible to obtain half of these sums.
+
+Within the framework of the Hungarian Village Program, Village CSOK is available from July 1, 2019 until June 30, 2022 in more than 2.600 disadvantaged settlements with a population up to 5.000. This subsidy is available for families buying and renovating/enlarging pre-owned properties, or those renovating/enlarging their existing real estate. Families having one child or those who undertake to raise one child are entitled to a non-refundable allowance of HUF 600 000 (USD 1,967). This sum is HUF 2.6 million (USD 8,528) in case of two children and HUF 10 million (USD 32,790) for three or more children. Maximum 50% of the allowance can be spent on purchase, while the remaining part can be used for modernization and renovation. Half of the above amounts can be spent on upgrading an existing home.
+
+Families who undertake to raise a second child are entitled to decrease their mortgage debt by HUF 1 million (USD 3,279) and by HUF 4 million (USD 13,116) if they undertake to raise a third child. For each additional child born (fourth, fifth child etc.), families can reduce their mortgage loans by an additional USD 3,279. (128.47, 128.170).
+
+The 8 elements of the Home Creation Programme
+
+1. 5% VAT after newly built homes
+
+from January 2021 to December 2022, instead of the previous 27% VAT rate, a single 5% VAT is in effect when purchasing newly built home or constructing one by a general contractor. There are no family related requirements to claim this tax-reduction.
+
+2. VAT-exemption
+
+Also in the same period, families with at least one child are fully exempt from paying VAT when purchasing a newly built home or constructing one by a general contractor, if at the same time they apply for the “Family Housing Subsidy” (CSOK). The VAT exemption can be claimed at banks, together and simultaneously with CSOK. In practise, the state covers the remaining VAT.
+
+3. VAT-refund for owner-builders
+
+People constructing their home on their own property can refund the 27% VAT of their construction for up to EUR 15 000 (HUF 5 million). The refund - similar to the 5% VAT subsidy - can be claimed at banks. There are no family related requirements to claim this refund.
+
+4. Home renovation support
+
+From January 2021, the state covers half of the expenses, up to EUR 9 000, of home renovation and modernization of families with children. A renovation with an overall cost of EUR 18 000 may only cost EUR 9 000 as half of the construction and half of the material costs are refunded. This amount can be claimed even after a single child living with the parents up to the age of 25 years or without age limit in the case of a disabled child or a child entitled to child homecare fee.
+
+5. Home renovation loan
+
+Those who otherwise could not afford to utilise the home renovation support and pre-finance the costs of the renovation, can claim a home renovation loan of up to EUR 18 000 with a 10-year fixed-term and 3% interest rate. After the completion of the renovation, the home renovation support can be claimed which reduces the outstanding debt by up to EUR 9 000.
+
+6. Exemption from the real estate transfer tax
+
+From 1 January 2021, families are exempt from paying the real estate transfer tax, if they claim the “Family Housing Subsidy” (CSOK) when purchasing their home. Consequently, if a couple planning to have children or a family already having children purchase a new or pre-owned property with CSOK, they are completely exempt from the transfer tax (they do not have to pay the 4% real estate transfer tax regardless of the price of the real estate).
+
+7. Promoting multigenerational homes
+
+This measure offers families the opportunity to live under the same roof but in separate apartments. Creating a new separate flat by second story home addition or finishing an attic in the house of the couple’s parent could provide a solution to the housing needs of many families. To promote this kind of multigenerational co-housing, from 2021, families are eligible to the normal amount of the Family Housing Subsidy (CSOK) in this case, too.
+
+8. Reduced notarial fees
+
+From 1 January 2021, the notarial fees of the interest rate-subsidized housing loans (e.g. Family Housing Loan, home renovation loan) are significantly reduced by around 55-65%.
+
+Release of student debt loans
+
+From 1 January 2018, for female students having a student loan, the repayment is suspended for 3 years when being pregnant with the first child, from the third month of the pregnancy. Upon pregnancy with the second child, the repayment is also suspended for 3 years and after the birth of the child, 50% of the debt is released. After the birth of the third child, 100 % of the debt is released. (128.47, 128.170)
+
+Baby expecting subsidy
+
+Every married couple where the wife’s age is between 18 and 41 is eligible for an interest-free, general purpose loan of HUF 10 million (USD 32,790), which can be requested at commercial banks. The amount of the monthly instalment of the loan may not exceed HUF 50 thousand (USD 164), and it is to be repaid within 20 years. If at least one child is born during the first five years, the scheme will remain interest-free and repayment will be suspended for three years. After the birth of the second child, the repayment will be suspended for another 3 years, and 30% of the outstanding principal will be written off. Following the birth of the third child, the remaining debt will be entirely released. (128.47, 128.170)
+
+Car purchase programme
+
+Families with at least three children (or those expecting their third children) can apply for a subsidy of HUF 2.5 million (USD 8,197) (but no more than 50% of the purchase price) to buy a new passenger car with at least seven seats from 1 July 2019 until 31 December 2022. (128.47, 128.170)
+
+b) Equality between women and men and the empowerment of women
+
+Employment of women
+
+The Hungarian Government vigorously promotes the employment of women. The employment rate of women aged 20-64 was 67.6 % in 2019 according to Eurostat data, which is almost a one-third increase compared to the data of 2010 (54.6%). Female employment rate in Hungary is only 0.6% behind the EU average, which shows a significant improvement.[^12.] The greatest increase in women’s employment is detectable in the group of women raising small children. The employment rate of women aged 25-49 raising a child under the age of 3 increased by more than half of the 2010 rate (12.4%) to 17.9% in 2019, while the employment rate of women aged 25-49 raising a child aged 3-5 shows a more than one-third increase from 58.5% (2010) to 75.1% (2019).[^13.] The rate of female unemployment has significantly decreased. According to recent data available, the unemployment rate of women has decreased to 3.5% in 2019 (EU28 average: 6.5%), while in 2010 it was 10.7%.[^14.]
+
+Pay gap
+
+Pay gap in Hungary shows a clear decrease. While in 2010 the difference between the average gross hourly earnings of male and female employees was 17.6%, it was only 14.2% in 2018[^15.] (while the EU average was 15.3%) in 2018.
+
+The results in the decreasing pay gap can be explained by the significant wage increases taken place over the last few years in the fields of public education, health and social care, which are all areas representing high rates of female employment. Public administration is also to be listed among such sectors, because female employees outnumber male employees in this field, too, where the salaries improved in 2016 and 2017. The wages of health care professionals was increased in four steps, in 2016 by 26.5%, in 2017 by 12% and in 2018-2019 another 8-8% increase were carried out. In 2020-2021 the wages of early-childhood educators, nursery consultants and nursery assistants were increased by 30% on average, while the wages of other employees increased by 14%. Besides, professional sector allowance was introduced for those in pedagogue occupations from 1 July 2020, which makes a 10% wage increase. The target group of these wage increases are women in most of the cases, as women are present in these assisting professions or in the health care and pedagogical field, these wage developments improve their prospects and contribute to their financial situation. (128.62, 128.170)
+
+Broadening part-time employment opportunities
+
+The age limit for part-time employment was raised to 4 years of age of the child, and to 6 years of age of the smallest child in the case of parents with three or more children from 1 January 2020, which means that if parents require, employers are obliged to continue employing them part-time in this period. (128.47, 128.62)
+
+Supporting the participation of women in public life
+
+The Women for Hungary Club was founded in 2018, the members of which form a tight community, where women taking responsibility in the field of arts, science, business life, sports, public life and diplomacy contemplate on what to do for a better and stronger Hungary. The Women for Hungary Club gives awards to women who were coping with the difficulties during the COVID-19 crisis with their outstanding performance and endurance in areas where their work was crucial in order to slower the spread of the pandemic. In 2020, altogether 500 nominations were sent. The main prize was gross HUF 5 million (USD 16,394) and the work of women was acknowledged in four categories: health, social care, education and an ‘other’ category. In each category five women were rewarded. The award was posted in 2021 as well, nominations can be sent until 31 July 2021. (128.63, 128.64, 128.65)
+
+The Women for the Hungarian Nation Movement was established in 2019, the creed of which is that men and women are equal, but not identical. The aim of the Movement is to act jointly in strengthening the Hungarian nation, take responsibility for the next generations, and to express that respect for life and family is important for them. Anyone can join the movement, who agrees with the above mentioned objectives. (128.63, 128.64, 128.65)
+
+Provisions supporting women working in public administration
+
+Act CXXV of 2018 on Governmental Administration supports female employees in a number of ways. The protection against dismissal applies to pregnant women, women on maternity leave, women incapable of work due to taking care of their sick child/children and women receiving treatment related to a human reproduction procedure. Nursing mothers shall be exempted from work duties for one hour twice daily (two hours twice daily in case of twins) during the first six months of breastfeeding, and thereafter for one hour daily (two hours daily in the case of twins) until the end of the ninth month. Women shall be also exempted from work duties for the duration of mandatory medical examinations or a treatment in a healthcare institution related to a human reproduction procedure. As for leave of absence, time spent at work shall include the first six months of leave of absence without pay for caring for a child and the duration of leave of absence without pay – not exceeding 30 days – for providing care for a relative. Parents are entitled to take 4 extra days off in the case of one child, 8 days in the case of 2 children and 14 days altogether in the case of more than 2 children, regarding children below the age of 16. Government officials receive support for training courses during maternity leave and during absence without pay for caring for a child. The involvement of fathers in childcare seeks to promote equal opportunities for men and women to an even greater extent. Fathers can apply for 8 extra days off (10 days in the case of twins) following the birth of their child/children. As for the provisions regarding working from home, governmental employees with children at or under the age of 10 may work from home on more favourable terms. (128.62)
+
+Combatting domestic violence
+
+The Hungarian Government strongly condemns all forms of domestic violence, violence against women, and is committed to eliminate abuse. In the Hungarian Government’s view exact measures have to be taken to achieve the required target in reducing domestic violence.
+
+In the last few years, one focus of development was the expansion of System of Services for Victims of Domestic Violence, while the Government also put great emphasis on prevention and awareness-raising campaigns. Since 2016, there has been 50 % more resources provided from the domestic budget for the operation of the Crisis Centres, while almost 100 % more for Secret Shelters. In 2016-2017 Crisis Centres could apply for the purchase of a rescue car as well as of tangible assets needed for their operation with a special focus on the development of the security system. (128.131., 128.132.)
+
+1. Prevention
+
+The support of victims has the priority ambition to give aid in the shortest notice in order to prevent the escalation of violence. This purpose is served by the Crisis Management Ambulances that function on a regional level. These Ambulances were established from development and budgetary resources in 2018, and provide complex (legal, psychological, social), coordinated and specialized services – focusing only on the topic of domestic violence. This type of institution is unprecedented. By way of these services, it is also possible to reach and support high-latency groups of people, who had not previously appeared in the social care system (e.g. victims without minor children, men, elderly victims, victims belonging to the middle or upper social classes). (128.131., 128.132.)
+
+2. Crisis intervention
+
+The National Crisis Management and Information Telephone Service (OKIT) is available from all of Hungary and operates 24/7 free of charge. This hotline service provides information to the victims of domestic violence and victims of human trafficking as well as helps the abused to find a safe shelter (from the abuser/ponce/exploiter) in an acute crisis situation. The annual financial support of this telephone service increased fourfold from 2020.
+
+(128.131, 128.132.)
+
+Crisis Centres provide accommodation, complex services and, if necessary, physical attendance to those victims of domestic violence who have been forced to leave their homes either alone or with their children. Furthermore, they provide legal, psychological and social assistance. The capacity of these Centres is six places each. The caring time is 4 weeks that can be extended once in justified cases and maximum by further 4 weeks. Crisis Centres are in contact with the National Management and Information Telephone Service, the family and child welfare services, the police, the local health system, local educational institutions and, if necessary, the guardianship office and other authorities.
+
+Secret Shelters are accommodating the severe victims of domestic violence being in life danger. Currently 8 such institution exists (with a capacity of 18 places each), and the time of care is 6 months.
+
+3. Social integration
+
+Halfway Houses are available to support the social reintegration of victims of domestic violence, they provide long-term housing (up to 5 years) and professional (mainly legal and psychological) assistance to their tenants. Victims leaving the crisis management system spend on average, 2 years in Halfway Houses. After that, they usually rent a flat or move to social housing units, i.e. they leave the social welfare system.
+
+The establishment of several new institutions demonstrates the significant development of the Hungarian service scheme for victims of domestic violence. While there were 6 Halfway Houses before, in 2018 and early 2019 another 15 new Halfway Houses started to operate from development funds. Currently, beside the National Crisis Management and Information Telephone Service 20 Crisis Centres, 21 Halfway Houses, 8 Secret Shelters, 7 Crisis Management Ambulances and 2 Temporary Accommodations with extended capacity are operating. There is a separate network of halfway houses designated to victims of human trafficking as well, as referred to on pp. 25-26.
+
+In addition, several measures in the recent years were realized from development resources. The ‘Safe Shelter’ tender with an amount of HUF 1.8 billion (USD 6,071,850) targeted the complex development of the service scheme for the victims of domestic violence and human trafficking. In the framework of the ’Safety Net for Families’ tender, prevention programmes could have been carried out. Currently, 17 organizations are involved in the work of prevention. The ‘Development of Crisis Management Services’ priority project is implemented from an amount of HUF 1.16 billion (USD 4,000,000) resources; the project includes the development of the National Crisis Management and Information Telephone Service as well as the education and awareness-raising of 5,000 professionals of the child protection alarm system. (128.131.; 128.132.)
+
+4. Awareness-raising
+
+The campaign under the slogan "Notice it!" was organized five times between 2014 and 2017, relying on the Ministry of Human Capacities’ support. It wishes to stress the unacceptability of domestic violence and underlines the importance of the timely notification of the problem. The campaign was revived in 2018, and it received a new slogan (“Love doesn’t hurt!”) (www.aszeretetnemart.hu) as well as a new image. The aim of this campaign is to raise awareness on the opening of Crisis Management Centres. (128.132.)
+
+The child protection alert system plays a very important role in identifying problems in time in the fight against domestic violence. 5000 members of this alarming system are trained in 2 years’ time (2019-2020) at 200 training locations. In 2019 a new application was released, which provides affected people with many useful information, it shows where the nearest available help services are and ensures immediate opportunity to ask for help using the „panic button” function. From 2020 flyers provide information about the signs of domestic violence and opportunities of seeking assistance. These flyers were received by employees of family services, health visitors, ombudsman offices as well as crisis ambulances. (128.132.)
+
+Despite the emergency period caused by COVID 19, the service scheme was operating with full capacity every single day and space was immediately available for victims; the services of Ambulances could be ensured online.
+
+c) Child policy
+
+Child home care fee
+
+Child home care fee might be provided for birth and adoptive parent who takes care of his/her
+
+a) seriously disabled,
+
+b) permanently ill child reliant on care
+
+The entitlement to “Child home care fee” can be determined regardless the age of the child. It depends only on the parent-child relationship. In principle, the child home care fee can only be granted to birth or adoptive parents. Other relatives can only receive the benefit after the death of the parent or if the parent is unable to take care of the child due to health issues, or because the parental supervision rights of the parent have been suspended or terminated.
+
+The period spent caring for children at home with „Child home care fee” is counted as insurance time for entitlement to benefits for persons with modified working capacity. With this amendment those people, who suffer damage to their health while taking care of relatives, are be also entitled to benefits for persons with modified working capacity.
+
+In order to help the labour-market reintegration for those who took care of their relatives, the “Child home care” is paid for three extra months after the termination of the eligibility. The provision applies only if the beneficiary is not at fault for the termination of eligibility.
+
+Barnahus
+
+Barnahus – which was introduced in Hungary in 2016 in administrative proceedings, and in 2021 in criminal proceedings – is a child-friendly, multidisciplinary and inter-institutional model for dealing with youth victims and witnesses of violence. Its primary task is to facilitate the hearing of abused children, especially sexually abused children, in order to obtain valid evidence for official, judicial proceedings without hearing the child over and over again, thus avoiding the retraumatization that the child always experiences.
+
+Child care fee for foster parents
+
+Since 2020, foster parents are entitled to receive child care fee, which facilitates the Government’s intention to facilitate the placement of children under the age of 2 receiving child protection care with a foster parent While on 1 October 2018 there were 260 children under the age of 2 placed in institutions providing care for children, and on 1 October 2019 their number reached 278, it has already dropped to 247 on 1 January 2020, and 195 children on 1 January 2021. From this, it can be stated that the introduction of the foster care system has achieved its goal, the young children previously placed in children’s homes can be placed with foster parents in an increasing proportion. According to the data of the Hungarian State Treasury, by 31 December 2020, foster parents child care fee was set for 709 people.
+
+Holiday catering
+
+Since 2016, local governments are obliged to organize holiday catering for children in need. The mandatory provision of holiday catering to local authorities was made in order to make holiday meals available to all children in need, as in the previous application / support system the participation of local governments was only on a voluntary basis and only covered the summer holidays.
+
+At the request of parents and legal representatives of disadvantaged and cumulatively disadvantaged children (approximately 187 thousands in total) who receive regular child protection benefits, must be provided one hot main meal at least 43 working days during the summer break - no later than on all working days during the summer break - and during the autumn, winter and spring breaks, according to the school year, for the duration of the given teaching break and all working days during the corresponding closure of the nursery and kindergarten.
+
+Children who do not go to any institution - typically at the age from 5 months to 2.5 years - may receive this benefit, too, for at least 43 working days during the summer vacation period. Furthermore, these children may receive benefits on all working days during the fall, winter and spring school breaks.
+
+According to the November 2019 baseline survey on child catering for holidays in 2020, adjusted by the October 2020 supplementary request, central budget support was requested for 100,683 children for the summer holidays, 82,895 children for the spring holidays, 80,358 children for the autumn holidays and 86,194 children for the winter holidays by 2.223 municipalities.
+
+Youth work
+
+In order to support the young people to start their life, a new tax allowance will be introduced on 1 January 2022. Based on the new allowance the labour income of people under the age of 25 is exempt from personal income tax up to the average gross earnings at the national level (appr. HUF 450,000 in 2021).
+
+Student unions
+
+According to the Section 120 (2) of the 20/2012 (VIII.31.) on the operation of educational institutions and on the use of public educational institutions EMMI decree, the student council decides about its own operation and assets, school media etc. The communication and cooperation between the government and Student Parliament are continuous since 2015.
+
+In addition to the Student Parliament, the National Student Council also works continuously. The National Student Council is a consultative forum (for long-term cooperation) with the Minister. The Student Parliament and the National Student Council have joint meetings also.
+
+Relationship between the SDGs and the Education Strategy (128.175.)
+
+The implementation of objectives set up in the 2014 National Strategy on Public Education and in the Medium-term Policy Strategy for the Renewal of Vocational Education and Training and Adult Learning are in line with the objectives and goals of the SDGs:
+
+| SDG4 | National strategy, policy | Connection of SDGs and national strategy policy |
+
+| 4.1 By 2030, ensure that all girls and boys complete free, equitable and quality primary and secondary education leading to relevant and effective learning outcomes | Government Resolution 1603/2014. (XI. 4.) on Public Education Development Strategy, and of the Mid-term Strategy against School Leaving without Qualification Act CLXXIX of 2011 on the Rights of Nationalities | In line with the provisions of the National Public Education Act, the Public Education Development Strategy and the Mid-term Strategy against School Leaving without Qualification provide for: ensuring the right to free and compulsory primary and secondary education for all until the completion of the baccalaureate and the first vocational qualification, as well as prescribing measures aimed at raising the level of education. Act CLXXIX of 2011 on the Rights of Nationalities in line with Act CXC of 2011 on National Public Education guarantees that the values of public education of national minorities, developed in close co-operation with communities of national minorities, should be maintained. |
+
+| 4.2 By 2030, ensure that all girls and boys have access to quality early childhood development, care and pre-primary education so that they are ready for primary education. | Government Resolution 1603/2014. (XI. 4.) on Public Education Development Strategy Government Resolution 1246/2015 (IV. 23.) on Measures Necessary for Successful Intervention in ECEC Act CXC of 2011 on National Public Education | In order to support high-quality early childhood education, the Public Education Development Strategy provides for: the development and expansion of the institutional network of early childhood education, the creation of material and personal conditions necessary for the operation of the institutional network, the provision of development programs necessary for early childhood education and development and the availability of personal and material conditions necessary for their implementation. |
+
+| 4.4 By 2030, substantially increase the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship | Government Resolution 1603/2014. (XI. 4.) on the Mid-term Strategy against School Leaving without Qualification | The Strategy includes measures to complete digital skills (by introducing new technologies - mobile, internet, open educational materials). |
+
+| 4.5 By 2030, eliminate gender disparities in education and ensure equal access to all levels of education and vocational training for the vulnerable, including persons with disabilities, indigenous peoples and children in vulnerable situations | Government Resolution 1603/2014. (XI. 4.) on the Mid-term Strategy against School Leaving without Qualification Act LXXX of 2019 on Vocational Education and Training and Government Decree 12/2020 on its implementation | In line with the objectives of the EU 2020 Strategy, this Strategy pays special attention to the implementation of measures aimed at reducing early school leaving and supporting inclusive education. Act LXXX of 2019 on Vocational Education and Training and the Government Decree 12/2020 on its implementation created the legislative framework in order to decrease the differences between the performance of disadvantaged students and those who have a more advantageous background by introducing basic competence development programmes in IVET for young people with behaviour and learning disorders or who have already dropped out of education and training, for students who finished their primary school studies with lack of competences or are uncertain in their career choice. The legislative provisions pay particular attention related to the practical training of disadvantaged young people and those with special education needs. |
+
+| 4.6 By 2030, ensure that all youth and a substantial proportion of adults, both men and women, achieve literacy and numeracy | Act CXC of 2011 on National Public Education Governm e nt Resolution 1603/2014. (XI. 4.) on the Mid-term Strategy against School Leaving without Qualification | The main guiding principles of the Public Education Development Strategy include the development of students′ subject knowledge, skills and abilities, in accordance with the requirements appearing in the new curriculum content regulators, and the development and introduction of new teaching tools in harmony with the content regulators. The goal of the Mid-term Strategy against School Leaving without Qualification is to further develop and operate the tool system promoting the acquisition of students′ skills and abilities and key competencies defined by the new content regulators, and to develop skills development programs and tools related to new content. |
+
+| 4.7 By 2030, ensure that all learners acquire the knowledge and skills needed to promote sustainable development, including, among others, through education for sustainable development and sustainable lifestyles, human rights, gender equality, promotion of a culture of peace and non-violence, global citizenship and appreciation of cultural diversity and of culture’s contribution to sustainable development | Government decree 110/2012. (VI. 4.) on the Publication, Introduction and Implementation of the National Core Curriculum | In the National Core Curriculum in force, the topic area “Orientation on regional and global geographical and environmental processes” appears for grades 5-12. Recognizing that different landscapes, settlements or groups of society contribute at different levels to the transformation and damage of the natural environment. |
+
+| 4.a Build and upgrade education facilities that are child, disability and gender sensitive and provide safe, non-violent, inclusive and effective learning environments for all. | Act CXC of 2011 on National Public Education Government Resolution 1603/2014. (XI. 4. ) on Public Education Development Strategy | The Public Education Development Strategy pays special attention to the implementation of measures aimed at reducing the rate of early school leaving and supporting inclusive education. By strengthening the talent-helping role of the public education system in creating opportunities and supporting social inclusion, a complex system of social inclusion will be established, within the framework of which support will be provided to encourage education fostering openness. |
+
+Combating segregation of Roma children and measures for their integration (128.67., 128.70., 128.72., 128.73., 128.75., 128.76., 128.78., 128.81., 128.82., 128.84., 128.85., 128.86., 128.89., 128.92.)
+
+In the public education system, the implementation of systemic measures in order to improve education outcomes, improve the access to quality inclusive education is ongoing.
+
+For avoiding and preventing school segregation and selection mechanisms, the following desegregation measures are in progress:
+
+− Antisegregation Working Groups were established in all school districts (60 in total) by 2018 October so as to support and monitor the improvement of inclusive education and desegregation. Main activities of the Antisegregation working groups are: monitoring local educational situation, interventions and improvements in inclusion and desegregation, discussions and cooperation with local educational stakeholders, monitoring of segregation.
+
+− School districts invited local stakeholders (e.g. social partners, childcare services and NGOs, maintainers of church schools, local municipalities, kindergarten teachers, etc.) into the working groups in order to monitor implementation of inclusive education, desegregation. Those schools that conduct segregation by court judgement have been involved in desegregation projects, and desegregation action plans have been prepared for them.
+
+In order to implement antidiscrimination legislation and prevent discrimination, school districts shall draft their Equality Action Plan on Public Education. As of April 2018, supervision of the educational equality action plans at least in every 3 years is obligatory which is a stronger guarantee for supervision than previously. The measurement serves the improvement of inclusive education, helps the planning, monitoring and evaluating of tasks to be carried out by the schools, school operators and stakeholders. Methodological assistance for supervision of equality action plans – data collection, analysis, planning, etc. – is provided by a project supported by EU funds with the aims of a comprehensive school development especially in low performing schools and desegregation (see below).
+
+As of September 2015, pre-school education is compulsory from the age of three instead of the previous legislation as age of five. Increasing the access to quality early childhood education and care could contribute to improve educational outcomes, in particular for children from socially disadvantaged families, including Roma children. 95.7% of children aged 4-6 participate in early childhood education (EU27 in 2019: 94.8%; Eurostat; ET Monitor 2020). Proportion of children attending preschool has increased in each age group:
+
+3 yr. olds: from 80.3% in 2014/2015 to 83% in 2019/2020;
+
+4 yr. olds: from 94.7% in 2014/2015 to 98% in 2019/2020.;
+
+5 yr. olds: from 95.1% in 2014/2015 to 96% in 2019/2020.
+
+Participation of Roma children in pre-school education: 92 %.
+
+Provision of free meals to socially disadvantaged children has been extended in 2019/2020, 78.2% of children in pre-schools had free meals or at reduced price. (Source: Hungarian Statistical Office, 2020)
+
+Systemic assistance is being provided for low performing schools on an ongoing basis: learning outcomes based on the last 3 years’ national basic competence assessments and demands for methodological assistance are also examined by Educational Authority: if 50% of students in grades 6, 8 or 10 in school have not achieved minimum requirements in reading and maths (low achiever schools – appr. 30% of schools and school-sites), the school-maintainer obligated to prepare comprehensive action plan to improve learning outcomes. The schools also obligated to take professional, methodological assistance from pedagogical assistance services in order to eliminate low achievement, improve school performance and prevent drop-out.
+
+As of November 2016, the Strategy against Early School Leaving (ESL) introduced the early warning and pedagogical support system to prevent drop-outs from schools. The system is operating to support necessary interventions both student and school level. Specific interventions must be elaborated for those students who would definitely drop out of the educational system without such interventions. At student-level, the warning system monitors signals for ESL such as absenteeism, grade repetition, underachievement, social factors, etc. The aim of the warning system is to have a comprehensive view of the student’s needs and ensure that students at risk of drop-out receive the tailored support they need.
+
+Developments for desegregation implemented through the project “Supporting schools which are at risk of student drop-outs” (HRDOP 3.1.5) which offers assistance to prepare schools being at risk of segregation by methodological developments. The schools involved were selected according to segregation index and schools with court procedure because of segregation have been also involved (schools operated by church as well). The developments to foster desegregation measures and to strengthen inclusion policies are in progress related to these schools and maintenance districts. HRDOP 3.1.5 project facilitates to prepare schools being at risk of low performance and of segregation by methodological developments. The schools involved in the project were selected according to segregation index, low performance and schools with court procedure because of segregation have been also involved. A total number of 300 primary and secondary schools (ISCED 1-3) participated in the project.
+
+Complex assistance provided for schools and school-maintainers in order to enable them to raise students’ achievement and to implement desegregation:
+
+The schools integrated their activities defined by the Complex Action Plan related to the pedagogical system supporting school drop-out prevention (developed also within the project) into their school-level documents, such as their annual work plans and local pedagogical programs. Elaboration of the short and medium-term Complex Action Plans (2020-2023) was supported by series of workshops and accredited in-service teacher training courses focusing on the themes of school development (1541 educators/teachers participated in these courses). The implementation was supported by 53 implementation mentors assisting, encouraging the educators/teachers (1333 persons) who have been the members of micro-groups in their schools. The number of teachers working full-time for the project schools is approximately 6000, and a quarter of the total is provided by some types of service. (Courses and workshops transferred to online in COVID19)
+
+Among schools involved, the rate of students highly risked by drop out had decreased by 1% between the academic years 2018/2019 and 2019/2020.
+
+Improvement in average performance points in reading and mathematical literacy in project schools, 2018 and 2019
+
+|  | 2018 | 2019 |
+
+| reading literacy |
+
+| Grade 6 | 1404 | 1411 |
+
+| Grade 8 | 1496 | 1510 |
+
+| Grade 10 | 1673 | 1683 |
+
+| mathematical literacy |
+
+| Grade 6 | 1425 | 1429 |
+
+| Grade 8 | 1515 | 1523 |
+
+| Grade 10 | 1657 | 1667 |
+
+(Source: Educational Authority, 2021)
+
+For defining the measures to improve access to quality, mainstream education and desegregation, databases were compiled for a total number of 60 school districts in 2019-2020. Databases contains the output and performance indicators of schools in every maintenance centres, proportion of socially disadvantaged students in and between schools – if exceeding 25% – for desegregation. Its work was supported by mentors.
+
+The educational district centres need to coordinate the negotiation among the maintainers and elaborate a desegregation action plan. Some of the main measures implemented according to desegregation action plans (as part of Equity Action Plans): modification of school districts; revision of school districts and transport possibilities of students (school buses, student card for public transport free or reduced price) to access mainstream schools; school closure, no 1st grade launched; cooperation with local church schools in students’ enrolment; information for parents on school enrolment, etc.
+
+The Hungarian authorities have taken a series of measures to strengthen the legal guarantees needed to avoid the misdiagnosis and misplacement of Roma children and to improve their application in practice. The “expert activity” (committee of experts), one of the pedagogical assistance service institution’s duties. Pedagogical assistance service institutions operate professional diagnostical committee. The professional diagnostical committee of the county pedagogical assistance service institution shall draw up an expert opinion on the basis of their complex psychological, pedagogical-special educational, and medical examination. New (adapted) IQ tests (in the last 10 years), which are presently used by the committees, : WISC-IV, WAIS-IV, WPPSI-IV, UNIT2.
+
+Due to measures to improve equity in education, school performance, the following positive developments have to be highlighted.
+
+According to PISA2018, socio-economic status is not as strong predictor of performance as it was in previous PISA cycles:
+
+− 24% of the variation in mathematics performance in PISA 2018 in Hungary, 31,6% in PISA2012
+
+− 21% of the variation in science performance in PISA2018, 21,6 in PISA2015
+
+− 19% of the variation in reading performance in PISA2018, 21,6 in PISA2015 (26% in 2006)
+
+Between 2015 and 2018 there are positive changes in proportions of low performers:
+
+| Underachievers Proficiency below Level 2 | 2015 | 2018 |
+
+| in reading | 27,5% | 25,3% |
+
+| in maths | 28,0% | 25,6% |
+
+| in science | 26,0% | 24,1% |
+
+(Source: OECD PISA2015, 2018)
+
+Early leavers from education and training:
+
+|  | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
+
+| Hungary | 11.6 | 12.4 | 12.5 | 12.5 | 11.8 | 12.1 |
+
+| EU27 | 11.0 | 10.6 | 10.5 | 10.5 | 10.2 | 10.1 |
+
+(Source: Eurostat LFS, 2021)
+
+According to the ESL early warning system, there is a slight decrease in ratio of students who are at risk of drop out: 10,85% in 2017, 8,86% in 2018, 7,46 in 2019 and 6,80% in 2020 (source: ESL early warning system, Educational Authority, 2020.)
+
+Drop-out ratio (national indicator) also decreased: 2014/2015: 7,2%, 2017/2018.: 6,7%, 2018/2019.: 6,6%, 2019/2020: 6,1% (2019/2020: break in time series; (source: Public Education Information System student register system, Educational Authority, 2020.)
+
+From the school year 2021/2022, disadvantaged IVET students who show good academic results can apply for a scholarship to promote talent development and reduce disadvantages.
+
+Training and employment of Roma women and girls within the social and child welfare and protection
+
+The “Growing Chances” program provides mentoring support to integrate of Roma women with different cultural and social backgrounds and low educational qualifications. The “Support for Collaborations in Inclusion” program offers Roma women the opportunity to fulfil traditional, community-building roles as well by creating Roma women’s communities and social organizations, through which also their personal situation as women and Roma can improve. The BARI SHEJ – BIG GIRL program aims to develop disadvantaged primary or secondary school Roma girls at risk of dropping out of school so that they continue their studies and the family motivation for supporting learning is strengthened. Targeted prevention programs based on near-home health services promote healthy lifestyle for disadvantaged groups, including Roma women in particular. Roma children and women in Sure Start Children’s Homes, where the mother participates in activities together with her child, parental competencies are developed and integration and socialization is enhanced. In the EU development period 2013-2020, 81 new homes were opened in settlements with a large share of Roma and/or disadvantaged children. In addition to the mainstream approach, disadvantaged Roma women and children receive ongoing targeted assistance included in the budget to overcome their disadvantages As part of this, social inclusion services, such as Sure Start Children’s Homes, study halls, “On the Road” scholarships and the network of Roma vocational colleges provide assistance primarily in Roma-populated areas.
+
+Access to education for persons with disabilities, ensure a system of inclusive education for children with disabilities (128.177; 128.181)
+
+Over recent years significant developments took place – some of them still in progress – which aim to promote the access of learners with special educational needs to quality education, as well as the prevention of undue classification as a person with disabilities. In 2016 and in 2020 we revised the whole special vocational educational system and the trainings also. In 2017, we reformed the “development schools”, these schools are secondary schools (sort of semi-vocational, practical skills) for learners with moderate intellectual disability. We published new practical curricula. In 2020 the national core curriculum and the framework curricula were revised. In 2017 the mobile special educator, mobile conductor network’s rules were updated. (Mobile special educator, mobile conductor” means the special educator or conductor employed by the respective mobile network of special educators or conductors, who perform their duties as specified in Act CXC of 2011 on National Public Education regularly outside the location of their employer.) The reform process takes into account comments by NGOs, as well as the recommendations of the CRPD.
+
+The 2014-2020 development period’s projects usually have a non-obligatory project component about the network-building. For example: “EFOP 3.1.6.” and “EFOP 4.1.6.” project (professional development of institution on children with severe and multiple disabilities, the pedagogical assistance services and the mobile special educator, mobile conductor networks). The budget 13 billion HUF.
+
+(Mobile special educator, mobile conductor” means the special educator or conductor employed by the respective mobile network of special educators or conductors, who perform their duties as specified in Act CXC of 2011 on National Public Education regularly outside the location of their employer.)
+
+Moreover, the entire specialized pedagogical service system, including special educational needs (SEN) diagnostic committee activities, has been reformed in 2013, and after it the diagnostic committee activities were revised in 2020.
+
+Currently, more than 71% of the children with disabilities participating in the public education system receive education in an inclusive methodological framework. The number educational institutions, which involved the teaching of learners with SEN 4341 (which is 75% of the institutions).
+
+In recent years, the differentiating system of educational and pedagogical professional service institutions has generated new needs. Before the Bologna changes (2006) only one university trained special educators and one conductors, but since then this number has been increasing. Since September 2020, nine universities train special educators, and the Semmelweis University András Pető Faculty conductors. In addition, special education and conductive pedagogy already have independent course. The number of students enrolled in special education teacher training also increased significantly, more than doubling in the period between 2015-2020 from 786 to 1,723. To support the training and future work of students, from 2017, the “Klebelsberg Scholarship” will also available for special educator students. Today, the vast majority of special educators work are in public education (and vocational training), currently employing more than 9,800 professionals (for example, in 2010 there were only 5,700 people).
+
+d) Victim support
+
+Legislative framework
+
+In 2020, the Victim Support Act was amended to establish a victim support system based on direct contact to victims to support as many victims as possible, thus supporting to achieve the required social effect of the regulation. With the introduction of the so called opt-out system, the assistance is offered directly to the victims who contribute to it, thus more and more victims can receive personalized support tailored to their needs. The legislative changes entered into force on 1 January 2021.
+
+According to new provisions the police informs the victim – as soon as possible, but no later than within two days after the victim’s identity and contact details have become known – about the victim support services, about the fact that the victim may be entitled to support services, and the police informs the victim about that in case of the victim’s consent information on his or her identity data and contact details will be forwarded to the victim support service in order to establish direct contact. The information provided and the consent or refusal of the victim shall be recorded in writing. In the case of written communication, when victim does not make a statement regarding consent, it shall be deemed to constitute a refusal of consent.
+
+The investigating authority shall, if possible, forward the data of the victim – with the consent of the victim – to the victim support service as soon as possible, but no later than within two days. The victim support service shall contact the victim within two working days and shall provide the victim with information on the accessible services and other relevant help. Contact may be made in writing, electronically, in person, or such electronically way that does not qualify as written.
+
+As regards state compensation, new provisions have been introduced in 2021. As of 1 January, the condition of neediness abolished, with the result that now victims are entitled to access all victim support services and support regardless of their income situation. Secondly, new provisions include the following: increasing the time limit for claiming state compensation (from the previous 3 months to 1 year), a new and simpler provision to determine the amount of state compensation (instead of the earlier complicated proportional calculation); and the possibility to submit a preliminary quotation or other document to prove the damage. As a result, e.g. a victim of a serious, violent crime caused by relatives is able to assert his or her claims against the offender significantly easier and faster according to this new procedure. The expedited procedure ensures that a procedure can be carried out quickly taking into account the humane treatment of the victim. To this end, the written procedure is prioritized - where it is possible - and as a main rule the use of electronic communications networks (with sound and picture) is mandatory, negotiation should be kept as e-negotiation in order to avoid the physical encounter between the victim and the offender.
+
+Support service
+
+The Victim Support Service pursues a dual mission: to promote victims’ rights and to assist victims with various personalized forms of support focusing on their special needs. The type of service to be provided in each case is determined by the nature of the crime, the impact of the crime on the victim and the personal circumstances of the victim. The offered service is based on the evaluation of these conditions and the needs of the victim by the Victim Support Service so that it can provide personalized support. Victim support and protection procedures are exempt from duties and charges.
+
+The aim of Victim Support Centres – established and operated by the Ministry of Justice – is to make victim support services more accessible to citizens on the one hand, and to make the widest possible access to victim support available to all those who need it, on the other. The government’s mid-term plan is to establish one centre in each and every county by the end of 2025. As a result of the government decision to develop the centres into a nation-wide network, a victim support centre was opened in Budapest in 2017, followed by the establishment of five regional centres.
+
+Implementing a holistic approach, Victim Support Centres provide practical, psychological and financial support tailored for the needs of victims. The assistance provided can range from emotional assistance by a psychologist to organizing and conducting an actual crisis intervention, guiding and following up victims, up to sharing a wide range of information and conducting prevention activities in a more victim friendly manner. It is also an important task for the Centres to focus on groups of victims with special needs (e.g. children, victims of human trafficking). The staff of the Centres also performs coordination tasks, making it easier for victims to have access to various services.
+
+The Ministry of Justice announced the “Year of Victim Assistance” in 2020 with the aim of drawing the attention of citizens through large-scale communication and media campaign, conveying the message that if they become victims, they are not alone, there is available help for them.
+
+The www.vansegitseg.hu victim support online portal has been established, which has generally unified the image of the Victim Support Centres. The aim of the portal always featuring new contents is to prevent situations where someone would become a victim. The website also presents the possibilities for those who have already become victims. It should be emphasized that the Ministry of Justice launched a video podcast series entitled “Ordinary Stories” with the involvement of successful and well-known actors, providing both preventive and informative content to the citizens and to the potential and actual victims.
+
+The review of the accessible victim support services provided by law are in process. It can be mentioned, that the Ministry of Justice make cooperation agreements with NGO-s specialised to human trafficking.
+
+Projects
+
+The Ministry of Justice and the Hungarian Baptist Aid are implementing a project entitled “Complex Victim Support Services for Victims of Trafficking” between 2020-2022 with the support of the Internal Security Fund of the European Union. The project aims to provide a more effective assistance, care, management and reintegration of victims of human trafficking. In the framework of the project, complex victim support services are provided for 24 months to at least 50 people who have been trafficked for 24 months (1 May 2020 – 31 August 2022).
+
+The Ministry of Justice, as a body contributing to the methodological and professional management of the state institutional system of victim assistance, prioritises the provision of personalized support to victims of trafficking in human beings by providing financial assistance, compensation, victim advocacy and legal assistance. Another key goal is to reach the victims and integrate them into the support network to work properly and efficiently.
+
+The Hungarian Baptist Aid – as a consortium partner – provides transportation, rescue, accommodation and care for victims, provides additional services (reintegration assistance, family care, financial management advice), low-threshold assistance (administration outside the shelter) and aftercare. It begins assistance with the rescue and operational escort of victims, according to its own protocol - thus eliminating the shortcomings of the victim management mechanism that has existed over the years. The Hungarian Baptist Aid also maintains three sheltered houses in various parts of the country, where it has been ensuring the process of reintegration of victims for nearly ten years.
+
+The antecedent of the project “Establishment of a web-based system to assist the management mechanism of victims of trafficking in human beings and to monitor trends in trafficking in human beings” was implemented between 1 October 2016 and 30 September 2017 by the Ministry of Justice and its predecessor. This project established the Identification and Support of Victims of Trafficking in Human Beings (hereinafter referred to as EKAT) system, which has more than 2,500 users and a total of 399 recordings have been made in it since its existence until 19 March 2021. The EKAT system is under development constantly in order to improve the identification of victims more effectively.
+
+Development of service scheme of domestic violence
+
+In the last few years, one focus of development was the expansion of System of Services for Victims of Domestic Violence, while the Government also put great emphasis on prevention and awareness-raising campaigns. Since 2016, 50 % more resources have been provided from the domestic budget for the operation of the Crisis Centres, while almost 100 % more for Secret Shelters. In 2016-2017 Crisis Centres could apply for the purchase of a rescue car as well as of tangible assets needed for their operation with a special focus on the development of the security system. (128.131, 128.132.)
+
+Temporary Accommodations for the victims of human trafficking
+
+The victims of human trafficking (prostitution and work-related exploitation) are supported by the Temporary Accommodations, which were created specifically for this purpose and operate separately from the service scheme for victims of domestic violence. Until 2016, two Temporary Accommodations - with capacity of 12 spaces each - provided the victims of human trafficking with sheltered accommodation and complex (psychological, legal and social) assistance services. The caring time is 3-6 months and two Halfway Houses belong to both Temporary Accommodation properties, each of them has a capacity of 4 spaces. The third Temporary Accommodation and two new Halfway Houses were opened in September 2020. Also in 2020 a „crisis apartment” was opened, where victims in serious immediate danger and shock can be sheltered for a certain period while the victims’ situations and vulnerability are properly mapped and the victims can assess what kind of assistance they need. (128.147, 128.149.)
+
+4. Clustered list of recommendations received during the 2016 UPR of Hungary
+
+During its second UPR Hungary received 221 recommendations, out of which it accepted (fully or partially) 201 and noted 20. The list indicates the Governments’ own assessment on the implementation status of the recommendations:
+
+Y – implemented or being implemented, P – partially implemented and N – not yet implemented.
+
+1. Ratifications, international cooperation in the field of human rights
+
+| 128.1 | N | Widen the scope of international obligations through accession to the remaining international treaties, such as the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, and the Optional Protocol to the Convention on the Rights of the Child on a communications procedure and the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights and the International Convention for the Protection of All Persons from Enforced Disappearance |
+
+| 128.2 | N | Consider ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and the Optional Protocol to the Convention on the Rights of the Child on a communications procedure the International Labour Organization (ILO) Domestic Workers Convention, 2011 (No. 189) |
+
+| 128.3 | N | Accept the competence of the Committee on Enforced Disappearances, in conformity with Articles 31 and 32 of the International Convention for the Protection of All Persons from Enforced Disappearance |
+
+| 128.4 | N | Consider ratifying the International Convention on the Protection of All Persons from Enforced Disappearance and the International Convention on the Protection of the Rights of all Migrant Workers and Members of their Families |
+
+| 128.5 | Y | Become party to the Rome Statute of the International Criminal Court, the Conventions on the refugees and stateless persons, the Convention to fight discrimination in Education and to the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families and to the ILO Indigenous and Tribal Peoples Convention, 1989 (no. 169) |
+
+| 128.6 | N | Ratify the Council of Europe Convention on preventing and combating violence against women and domestic violence |
+
+| 128.7 | N | Withdraw its reservation on pertinent articles of the International Convention on the Elimination of All Forms of Racial Discrimination, the International Covenant on Economic, Social and Cultural Rights, the International Covenant on Civil and Political Rights and the Optional Protocol to the Convention on the Rights of the Child on the involvement of children in armed conflict |
+
+| 128.8 | N | Ratify the Istanbul Convention without delay |
+
+| 128.9 | N | Sign and ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families |
+
+| 128.10 | N | Ratify the International Convention on the Protection of the Rights of all Migrant Workers and Members of their Families |
+
+| 128.11 | N | Consider ratifying the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families |
+
+| 128.12 | N | Ratify the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, as previously recommended |
+
+| 128.13 | N | Consider acceding to the UN Convention on Enforced Disappearances |
+
+| 128.14 | N | Accelerate the process of accession to the International Convention for the Protection of All Persons from Enforced Disappearance |
+
+| 128.15 | N | Ratify the International Convention for the Protection of All Persons from Enforced Disappearance |
+
+| 128.16 | N | Step up the process of consultations concerning the accession to the International Convention for the Protection of All Persons from Enforced Disappearance, as previously recommended |
+
+| 128.17 | N | Ratify the Optional Protocol to the Convention on the Rights of the Child on a communication procedure |
+
+| 128.18 | N | Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights |
+
+| 128.19 | Y | Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights |
+
+| 128.20 | Y | Fully align domestic legislation with the Rome Statute of the International Criminal Court through explicit provisions on the duty to cooperate promptly and fully with the Court |
+
+| 128.29 | Y | Deepen its commitment with the International Criminal Court through adapting its national legislation to the Rome Statute |
+
+| 128.41 | P | Continue with the efforts aimed at ensuring timely cooperation with treaty bodies, regarding the submission of its over-due national reports |
+
+| 128.42 | P | Submit overdue reports to Committee on the Elimination of Racial Discrimination, Committee on Economic, Social and Cultural Rights and to the Human Rights Committee |
+
+| 128.43 | Y | Intensify efforts aimed at implementing recommendations of treaty bodies and special procedures including the Committee on the Elimination of Discrimination against Women, the Committee on the Rights of the Child, the Special Rapporteur on contemporary forms of racism, racial discrimination, xenophobia and related intolerance and the Working Group on Arbitrary Detention |
+
+| 128.44 | P | Take appropriate measures to progressively reduce the existing backlog of overdue reports to the UN Treaty Bodies |
+
+| 128.45 | P | Submit overdue reports to the Human Rights Committee, the Committee on Economic, Social and Cultural Rights and the Committee against Torture |
+
+| 128.134 | N | Strengthen efforts to combat violence against women, inter alia, by ratifying the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence |
+
+2. Human rights infrastructure including national human rights institutions, policy
+
+| 128.21 | Y | Continue further improvement of the protection and promotion of human rights in the country |
+
+| 128.23 | N | Develop and implement a National Action Plan on Human Rights to further ensure systematic and comprehensive approach for the promotion and protection of human rights, with the full engagement of the civil society |
+
+| 128.24 | N | Ensure that its policies, legislation, regulations and enforcement measures effectively serve to prevent and address the heightened risk of business involvement in abuses in conflict situations, which includes situations of foreign occupation |
+
+| 128.26 | Y | Assess the compatibility of its policies and laws with its international obligations including all core principles of human rights to which Hungary is a party |
+
+| 128.27 | Y | Continue the efforts to harmonize national legislation with international standards in the field of human rights |
+
+| 128.28 | Y | Continue to promote and protect the fundamental freedoms and human rights of all its citizens |
+
+| 128.30 | N | Consider developing Human Rights Indicators as suggested by the OHCHR as an instrument that allows for a more precise and coherent evaluation of national human rights policies |
+
+| 128.31 | Y | Consider increasing the funding of the National Preventive Mechanism, in order to support its work and the detention monitoring activities |
+
+| 128.32 | Y | Provide adequate resources and functional independence to the Equal Treatment Authority |
+
+| 128.35 | Y | Consider establishing independent mechanism for monitoring children’s rights and providing necessary financial resources for its functioning |
+
+| 128.39 | Y | Adopt measures to comply with provisions of the new Constitution including on combating discrimination and ensuring equal participation in political and public affairs by all citizens |
+
+| 128.48 | Y | Continue efforts to sensitize the public to combat discrimination on all grounds online to ensure that all rights are respected |
+
+| 128.49 | Y | Continue efforts in following up and monitoring any discrimination based on sex, race or any other form |
+
+| 128.52 | Y | Enact comprehensive legislation that fully guarantees the application of the principle of non-discrimination and to ensure the full enjoyment of all human rights by every member of society |
+
+| 128.55 | Y | Provide the national mechanism for the promotion of gender equality of adequate human and financial resources to enable it to effectively fulfil its mandate |
+
+| 128.124 | Y | Follow the recommendations of the 2014 Organization for Security and Cooperation in Europe election observation mission’s final report |
+
+| 128.150 | Y | Take concrete measures to ensure the independence of the Constitutional Court and the protection of human rights and fundamental freedoms, and that political pressure is not being applied to judicial decision-making |
+
+| 128.151 | P | Implement reforms on judicial independence and rule of law recommended by the International Bar Association Human Rights Institute in 2015 |
+
+| 128.152 | Y | Continue to pursue implementation of the Basic Principles on the Independence of the Judiciary and repeal all provisions of national law that restrict the Constitutional Court’s jurisdiction |
+
+3. Cooperation with the civil society on the advancement of human rights
+
+| 128.36 | Y | Ensure consultation processes which allow a public debate and interaction with the independent civil society, with sufficient time during the drafting of new laws and public policies |
+
+| 128.37 | P | Engage in consultation with pro-transparency organisations and other relevant stakeholders prior to developing or implementing new legislation on Freedom of Information |
+
+| 128.38 | Y | Refrain from targeting or restricting the activities of civil society organisations based on their political affiliation or their receipt of foreign funding |
+
+| 128.40 | Y | Improve both formal and informal dialogue and public consultation between the Government and civil society, including on proposed legislation with an impact on human rights |
+
+| 128.161 | Y | Give full consideration to the recommendations of the UN Special Rapporteur on the Situation of Human Rights Defenders |
+
+| 128.162 | Y | Take measures allowing the exercise of the lawful activities of human rights defenders, in a favourable legal and administrative environment |
+
+| 128.163 | Y | Implement recommendations made by Special Rapporteur on freedom of peaceful assembly and association regarding governmental oversight and regulations of non-governmental organizations |
+
+| 128.164 | Y | Review and abolish all legal provisions that restrict the rights of human rights defenders promoting the rights of the Roma community |
+
+| 128.165 | Y | Ensure the prompt and independent investigation of all alleged violations against human rights defenders |
+
+| 128.166 | Y | Positively consider and implement the recommendations presented by the special rapporteur on human rights defenders |
+
+| 128.167 | Y | Remove all administrative and legislative provisions that restrict the rights of the Human Rights Defenders and ensure that civil society organizations can operate freely and without discrimination or undue restriction |
+
+| 128.168 | Y | Take steps to ensure that civil society organizations freely can access and utilize funding, including from foreign sources |
+
+4. Family
+
+| 128.22 | Y | Continue to provide protection to the family as the natural and fundamental unit of the society |
+
+| 128.47 | Y | Reconsider policies on family, gender equality and non-discrimination |
+
+| 128.123 | P | Raise the legal age of marriage for women and men to 18 years |
+
+| 128.126 | N | Amend the legislation on the protection of families in order to widen the definition of family |
+
+| 128.170 | Y | Provide greater support for poor families and children and reduce social inequality |
+
+5. Women, equality between women and men
+
+| 128.25 | Y | Step up efforts to establish a mechanism to monitor measures to help address and ameliorate the conditions of women and children |
+
+| 128.34 | Y | Enhance measures to protect the rights of children, women and other vulnerable groups |
+
+| 128.53 | N | Intensify activities aimed at overcoming gender stereotypes |
+
+| 128.54 | N | Take effective measures to address the needs of women belonging to minorities, such as Roma women, in order to eliminate all forms of discrimination against them |
+
+| 128.55 | Y | Provide the national mechanism for the promotion of gender equality of adequate human and financial resources to enable it to effectively fulfil its mandate |
+
+| 128.57 | Y | Take further measures to reduce the inequality between sexes, sensitize the population in this regard and ensure that these measures are effectively implemented |
+
+| 128.58 | P | Continue to take action towards a comprehensive gender equality strategy and introduce effective legislative measures to increase women’s participation in political life and decision-making |
+
+| 128.59 | P | Redouble its efforts towards combating stereotypical division of gender roles in family and society |
+
+| 128.60 | Y | Adopt a comprehensive law on domestic violence |
+
+| 128.61 | Y | Take further steps to address root causes that affect the rights of women belonging to disadvantaged groups |
+
+| 128.62 | Y | Take concrete measures to improve access to decent work for all women, eliminate all discrimination against women at work, and create more socioeconomic opportunities for disenfranchised women |
+
+| 128.63 | P | Introduce effective legislative measures to increase women’s participation in political life and decision-making |
+
+| 128.64 | P | Continue to make efforts to ensure women’s participation in political life and in decision-making |
+
+| 128.65 | N | Establish effective legislative measures, such as quotas, to improve the participation of women in political life and decision-making processes |
+
+| 128.66 | P | Adopt a comprehensive, human rights based gender equality strategy |
+
+| 128.68 | Y | Support the gender integration in all spheres of life |
+
+| 128.71 | Y | Implement a comprehensive plan of action envisaged to protect the rights and improve the life conditions of women and children pertaining to ethnic minorities |
+
+| 128.130 | Y | Consider adopting a law on domestic violence and criminalizing different types of violence against women |
+
+| 128.131 | Y | Take additional measures to effectively combat violence against women and promote the participation of women in political life and their insertion in the professional life |
+
+| 128.132 | Y | Continue efforts, including by raising awareness, in order to prevent domestic violence and violence against women |
+
+| 128.133 | Y | Promote public policies to prevent violence against women and girls, including domestic violence and sexual violence |
+
+| 128.135 | Y | Establish a law to criminalize all forms of violence against women |
+
+| 128.136 | P | Adopt a National Action Plan on Security Council Resolution 1325 on Women, Peace and Security |
+
+| 128.137 | P | Define rape criminally based on the lack of voluntary consent in addition to reinforcing and making more accessible to victims the health-care services |
+
+| 128.138 | P | Criminalize different types of violence against women to amend the Criminal Code to ensure that rape is defined according to the to the recommendations of the Committee on the Elimination of Discrimination against Women |
+
+| 128.171 | Y | Take further steps to ensure better labour market access and access to basic social and health services for marginalized women, including women with disabilities, Roma women and migrant women |
+
+| 128.172 | Y | Continue to enhance access to sexual and reproductive health services for women, in particular women with disabilities, women with low income, women with HIV/AIDS, and women living in the rural areas |
+
+6. Children and youth
+
+| 128.125 | N | Reinstate juvenile courts and raise the age of criminal responsibility to 14 years, for all crimes, in line with international standards |
+
+| 128.139 | Y | Take concrete measures to protect child victims of sexual exploitation and prostitution |
+
+| 128.140 | Y | Abandon the practice of corporal punishment of children and encourage non-violent forms of discipline |
+
+| 128.141 | N | Consider raising the age of criminal responsibility from 12 to 14 years, even for the most serious crimes |
+
+| 128.153 | N | Take necessary measures for strengthening its specialized juvenile justice system in compliance with the Convention on the Rights of the Child |
+
+| 128.154 | P | Continue efforts for the reintegration of former child offenders in the society |
+
+| 128.169 | Y | Maintain its commitment to the realization of the right to work for all including through technical and vocational training for young people |
+
+| 128.175 | Y | Ensure that the implementation of objectives set up in the 2014 National Strategy on Public Education are in line with the objectives and goals of the SDG’s |
+
+| 128.176 | Y | Ensure the inclusion of human rights and especially children’s rights in the public education system, raising awareness about human rights in general |
+
+7. Persons with disabilities
+
+| 128.177 | Y | Strengthen efforts to provide access to education, labour market and public life for persons with disabilities |
+
+| 128.178 | Y | Continue the path regarding positive results achieved in ensuring the rights and equal opportunities of persons with disabilities by, inter alia, allocating sufficient resources for the development of an inclusive education system for children with disabilities and providing sufficient and adequate support services in local communities to enable persons with disabilities to live independently |
+
+| 128.179 | N | Review all relevant legislations, including the State’s new Fundamental Law to ensure that all persons with disabilities have a right to vote, and that they can participate in political and public life on an equal basis with others |
+
+| 128.180 | N | Review legislations to ensure that all persons with disabilities have a right to vote, and that they can participate in political and public life |
+
+| 128.181 | Y | Consolidate programmes to ensure a system of inclusive education for children with disabilities throughout the country |
+
+| 128.182 | Y | Take further measures to improve access of persons with disabilities to social, economic and cultural life and combat discrimination on the grounds of disability |
+
+| 128.183 | P | Adopt measures in order for any health decision to depend upon the free and informed consent of the concerned disabled person |
+
+8. Racism, issues affecting the Roma community, hate crimes
+
+| 128.46 | Y | Continue to strengthen measures to promote tolerance and respect for cultural diversity and to counter prejudice, stereotypes, discrimination, racism and Islamophobia |
+
+| 128.50 | Y | Continue to implement National Social Inclusion Strategy |
+
+| 128.51 | Y | Take all the necessary measures to fully implement the National Social Inclusion Strategy |
+
+| 128.56 | Y | Address the discriminatory situation of women belonging to minorities, including Roma women |
+
+| 128.67 | Y | Continue the implementation of Roma integration policies in all social economic cultural political and educational sectors |
+
+| 128.70 | Y | Take all necessary measures to eliminate racial discrimination and segregation of Roma in education |
+
+| 128.72 | Y | Step up the efforts to combat all forms of discrimination and favour equality of opportunities and treatment, with special care and attention to those who are in a more vulnerable situation, such as persons belonging to the Roma community |
+
+| 128.73 | Y | Step up efforts to address discrimination and social exclusion faced by persons belonging to the Roma minority with particular emphasis on integrated schooling and social housing |
+
+| 128.75 | Y | Continue to pay special attention to issues related to the elimination of discrimination of the Roma who study in the education system |
+
+| 128.76 | Y | Take measures to eliminate any discrimination and segregation in the education system against Roma children |
+
+| 128.77 | Y | Take effective measures to ensure the Hungarian National Police and the hate-crimes expert net improve the enforcement of laws against hate crimes, including by allocating sufficient resources; undertaking thorough investigations and prosecution; and by providing training for the front-line law enforcement |
+
+| 128.78 | Y | Protect persons who are marginalized and most vulnerable from intolerance, xenophobia, and other forms of discrimination |
+
+| 128.81 | Y | Take resolute measures to put an end, without further delay, to the continuing segregation of Roma children at school |
+
+| 128.82 | Y | Take active measures to prevent actual segregation of Roma students in public and private schools |
+
+| 128.84 | Y | Undertake further steps to promote efforts to overcome residual social discrimination against Roma and other ethnic minorities |
+
+| 128.85 | Y | Take effective steps to end discrimination against Roma in education, employment, housing and access to services with a special focus on ending continued segregation of Roma children at schools and in health |
+
+| 128.86 | Y | Strengthen its efforts to promote tolerance and cultural understanding of the Roma population in the aim of eliminating discrimination including in regard to access to education and employment and participation in politics |
+
+| 128.87 | Y | Step up efforts to effectively prevent and combat discrimination of persons belonging to national minorities, in particular regarding their access to education and health care |
+
+| 128.88 | Y | Take further steps to eliminate discrimination against the Roma population, especially in the field of education, employment, housing and access to services and health |
+
+| 128.89 | Y | Intensify efforts to combat discrimination and ill-treatment of Roma and eliminate segregation of Roma girls in the educational system |
+
+| 128.90 | Y | Take measures to prevent and eliminate racism, racial discrimination, xenophobia and others |
+
+| 128.91 | Y | Continue the work to further social and economic integration of the Roma population, reduce direct and indirect school segregation of Roma children and actively promote Roma participation in society through education |
+
+| 128.92 | Y | Continue its efforts to integrate the adult Roma population in the labour market and the Roma children and young people in the regular education system |
+
+| 128.95 | Y | Adopt more policies and allocate more resources specifically directed towards Roma women and children |
+
+| 128.97 | Y | Carry out the work to eliminate expressions of hatred, racial and religious discrimination |
+
+| 128.98 | Y | Intensify national efforts to prevent and eliminate all manifestations of anti-Semitism and take resolute measures to condemn hate speech, including against Roma |
+
+| 128.99 | Y | Take action against the worrying increase and public use of hate speech, most often addressed at migrants, asylum seekers but also civil society organizations and vulnerable groups |
+
+| 128.100 | Y | Intensify its efforts to combat xenophobia, islamophobia and refugee hatred, and take the necessary measures to condemn hate speech |
+
+| 128.101 | Y | Take resolute measures to condemn hate speech, racial discrimination, xenophobia and intolerance against all minority groups, migrants and asylum seekers |
+
+| 128.102 | Y | Apply effectively policies against racism and hate speech |
+
+| 128.103 | Y | Implement effectively its legislation and policies against hate speech and hate crimes with particular focus on the human rights protection of Roma, Jews, LGBTIs and other vulnerable groups |
+
+| 128.104 | Y | Ensure that the constitutional amendment prohibiting speech that would violate the dignity of the Hungarian nation cannot be used to silence criticism and limit freedom of expression as guaranteed under the International Covenant on Civil and Political Rights |
+
+| 128.105 | Y | Take all the necessary measures to combat violence linked to racial discrimination, as well as hate crimes and speeches, including against refugees and migrants |
+
+| 128.107 | Y | Adopt a hate crime investigation protocol and ensure that victims of hate crimes have effective access to the mechanisms of justice and redress |
+
+| 128.108 | Y | Identify efforts to combat all forms of discrimination and to ensure that hate crimes motivated by racism, xenophobia or other forms of discrimination are effectively investigated and perpetrators are brought to justice |
+
+| 128.109 | Y | Further step up efforts to publicly condemn hate speech, including against Roma |
+
+| 128.110 | Y | Enhance inter-ethnic, inter-religious, and inter-cultural understanding within the society, and ensure access to justice for victims of racial hatred or violence |
+
+| 128.111 | Y | Further strengthen measures to combat hate speech and hate crime |
+
+| 128.112 | Y | Strengthen measures to avoid hate speeches of all kinds in political messages and in the media |
+
+| 128.114 | Y | Prevent and combat racism and hate speech, including through human rights education and training, and by promoting tolerance |
+
+| 128.115 | Y | Enhance its efforts to prevent and root out all kind of national and ethnic intolerance, as well as condemn any incitement to ethnic and religious hatred and hate speech against the Roma in particular |
+
+| 128.116 | Y | Implement strategies aimed at tackling hate speech and xenophobia in all its forms |
+
+| 128.117 | Y | Continue to fight anti-Semitism, and to oppose any attempt to relativize or rehabilitate anti-Semite policies in past and present |
+
+10. Migrants, refugees and asylum-seekers
+
+| 128.69 | Y | Strengthen its measures to combat racism and discrimination in all its forms against migrants and asylum seekers |
+
+| 128.74 | N | Establish a comprehensive integration strategy for migrants, with specific measures to prevent and eliminate racism, racial discrimination, xenophobia and intolerance against migrants irrespective of their status |
+
+| 128.79 | N | Lift the measures in force that imply the discrimination and rejection of migrants and refugees, in particular those concerning to the use of force against them |
+
+| 128.80 | Y | Continue to take specific measures to prevent and eliminate racism, racial discrimination, xenophobia and intolerance against migrants, refugees and asylum seekers |
+
+| 128.83 | Y | Redouble efforts to prevent and eliminate racial discrimination, xenophobia and the intolerance against migrants, refugees and asylum seekers |
+
+| 128.96 | Y | Continue the efforts to combat hate speech, racism, xenophobia and all forms of discrimination against refugees and migrants |
+
+| 128.106 | Y | Cease anti-immigration campaigns and rhetoric of incitement to hatred, xenophobia and anti-Semitism and take measures to fight against hate speech and hate crimes in general |
+
+| 128.113 | Y | Combat hate speech and statements stigmatizing refugees and asylum seekers |
+
+| 128.184 | Y | Take all steps necessary to ensure that the right to seek asylum is guaranteed for asylum seekers coming to Hungary and that the principle of non-refoulement is respected |
+
+| 128.185 | N | Decriminalize the access to its territory for persons wishing to file a request for asylum, and process the asylum applications individually and in a non-discriminatory fashion, in compliance with its international obligations |
+
+| 128.186 | Y | Ensure that migrant and asylum-seeking women receive adequate assistance |
+
+| 128.187 | N | Eliminate detention in penitentiary establishments of asylum seekers and refugees |
+
+| 128.188 | Y | Advance in measures of assistance and promotion of the rights of migrants, refugees and asylum seekers, in compliance with current international standards |
+
+| 128.189 | Y | Reform its legislation to ensure full respect of the principle of non-refoulement |
+
+| 128.190 | Y | Ensure that its legal framework and actions concerning asylum seekers, refugees, and migrants comply with Hungary’s international human rights obligations, including with regard to procedural safeguards. This includes repealing those amendments to Hungary’s Asylum Law, Law on Criminal Procedure and Criminal Code that are inconsistent with its international human rights obligations |
+
+| 128.191 | Y | Seek alternatives to detaining asylum seekers and migrants, particularly children. Take immediate and effective measures to ensure that conditions of detention are fully consistent with UN Standard Minimum Rules for the Treatment of Prisoners |
+
+| 128.192 | Y | Develop actions that improve the living conditions of asylum seekers and prevent discrimination on the grounds of nationality or country of origin |
+
+| 128.193 | Y | Continue to improve the living conditions of migrants, refugees and asylum seekers |
+
+| 128.194 | Y | Ensure the inclusion of a human rights approach in the measures to address the migrant situation, taking into particular account the situation of vulnerable population |
+
+| 128.195 | Y | Apply a dignified and human treatment that respects the universal principles of human rights for people in situation of human mobility, whether migrants or refugees, with special emphasis on strengthening and implementing policies to address trafficking of persons from a holistic approach, particularly regarding women, children and other vulnerable groups, as well as to combat all forms of discrimination, with measures including complaint an denunciation mechanisms for victims that enable them to achieve reparations |
+
+| 128.196 | Y | Ensure that all issues related to migration, asylum seeking and border management are addressed in accordance with respective obligations under applicable international law |
+
+| 128.197 | Y | Fully respect its obligations under international law by guaranteeing the right to seek asylum through an individual, effective process without discrimination |
+
+| 128.198 | Y | Improve the capacity to guarantee every person the possibility to request international protection in a legal way, and create conditions for the medical and psychological treatment of asylum seekers, especially those who were victims of torture and violence |
+
+| 128.199 | Y | Fully implement international Conventions and standards for the protection of refugees and asylum seekers |
+
+| 128.200 | N | Actively participate in the refugee resettlement/humanitarian admission process directly from Turkey to the European Union, as this is actually the only way to save lives and crack down criminal networks of smugglers |
+
+| 128.201 | Y | Take immediate action to improve national asylum system, including by elaborating a national action plan, to avoid continuation of harsh conditions of detention and treatment of asylum seekers and refugees |
+
+| 128.202 | Y | Ensure the prompt and impartial investigation of any excessive use of force in policing the border operations, including by the military |
+
+| 128.203 | Y | Work together with the other European States to improve the conditions and treatment given to asylum seekers and refugees |
+
+| 128.204 | Y | Make every effort to pay due attention to the human rights of asylum seekers and to avoid using disproportionate force on migrants and refugees |
+
+| 128.205 | Y | Redouble efforts in order to guarantee the respect of the human rights of migrants, including persons under irregular situation |
+
+| 128.206 | Y | Implement with no exception the principle of non-refoulement in the context of asylum seeking procedures |
+
+| 128.207 | P | Repeal the amendments to the Criminal Code that criminalizes “illegal entry” and introduces “transit zones” at the border and a list of “safe countries” |
+
+| 128.208 | Y | Comply with the principle of non-refoulement |
+
+| 128.209 | Y | Take measures to work towards improving the living conditions for refugees and asylum seekers |
+
+| 128.210 | Y | Strengthen efforts in addressing issues of irregular migrants in the country in line with international human rights law obligations |
+
+| 128.211 | Y | Improve the living conditions of asylum seekers and step up efforts directed towards improving the treatment of asylum seekers and refugees |
+
+| 128.212 | Y | Take all the necessary steps to address the placing of asylum-seeking and migrant children in detention, including by repealing relevant legislation allowing for the detention of families accompanied by children |
+
+| 128.213 | Y | Review legislation on the rights of migrants and asylum seekers in accordance with Hungary’s obligations under international and European Law and to better apply existing internal rules, namely those related to the handling of unaccompanied children |
+
+| 128.214 | Y | Make efforts to ensure transparency and consideration for human rights, in particular those of women and children, in its treatment of migrants and refugees |
+
+| 128.215 | Y | Ensure that enforcement authorities comply with international human rights obligations in the treatment of migrants and asylum seekers, and expedite the judicial process to avoid prolonged detention of migrants and asylum seekers |
+
+| 128.216 | Y | Continue the efforts to improve the treatment of migrants and asylum seekers |
+
+| 128.217 | Y | Take steps to ensure that detention of asylum-seekers is used only in exceptional cases, the procedure for detention is transparent and comprehensible, and that detainees have access to effective legal remedy |
+
+| 128.218 | Y | Continue to fulfil its international human rights obligations regarding asylum seekers, refugees and migrants |
+
+| 128.219 | Y | Strengthen its efforts to improve the detention conditions of migrants and asylum seekers, including by refraining from excessive use of force, ill-treatment, and prolongation of detention periods; and also to adopt a comprehensive integration strategy for their early stage integration |
+
+| 128.220 | N | Revise the national list of safe countries in order to avoid the high number of unadmitted requests that have been pointed out by the Helsinki Committee of Hungary |
+
+11. Sexual orientation
+
+| 128.118 | N | Adopt and implement a comprehensive strategy and action plan to tackle discrimination based on sexual orientation and gender identity |
+
+| 128.119 | N | Adopt a strategy and a comprehensive plan of action to counter discrimination based on sexual orientation and gender identity |
+
+| 128.120 | Y | Take comprehensive measures to counter discrimination on the grounds of sexual orientation and gender identity |
+
+| 128.121 | Y | Fight against discrimination based on the origin, gender and sexual orientation, by continuing its efforts in the implementation of the existing instruments |
+
+| 128.122 | N | Adopt a comprehensive strategy in order to combat discrimination based on sexual orientation and gender identity |
+
+12. Human Trafficking
+
+| 128.142 | Y | Enact laws and legislation aiming at combating human trafficking |
+
+| 128.143 | Y | Ensure the prosecution and punishment of perpetrators of human trafficking, and provide adequate assistance and protection services to victims |
+
+| 128.144 | Y | Continue its efforts in order to strengthen the protection of victims of trafficking |
+
+| 128.145 | Y | Take steps to reduce and prevent trafficking and provide adequate incentives and protection to victims |
+
+| 128.146 | Y | Take additional measures to combat trafficking in human beings |
+
+| 128.147 | Y | Intensify efforts to effectively prevent trafficking in women and girls and strengthen measures for the rehabilitation and social integration of victims of trafficking |
+
+| 128.148 | Y | Take measures to ensure the effective investigation and prosecution of human trafficking cases and establish remedy procedures for the victims |
+
+| 128.149 | Y | Strengthen mechanisms to prevent the trafficking in boys and girls and provide the support needed for victims of trafficking to be reintegrated into society |
+
+13. Media, freedom of information, freedom of expression
+
+| 128.155 | Y | Remedy the shortcomings in the media law as expressed by the Venice Commission |
+
+| 128.156 | N | Revise transparency laws to reinstate a freedom of information parliamentary ombudsman, and ex ante reclaiming of labour costs for processing information requests, and limit public institutions’ authority to refuse access to public data |
+
+| 128.157 | Y | Take concrete steps to promote pluralism of the media and their independent work, including the exercise of their watchdog function |
+
+| 128.158 | Y | Take the necessary measures to promote media pluralism and fight threats against freedom of the press and freedom of expression |
+
+| 128.159 | Y | Take appropriate measures to further relax restrictions on the freedom of the media |
+
+| 128.160 | Y | Amend the media law in line with previous recommendations to ensure that all media laws are in line with the right to freedom of opinion and expression |
+
+14. Detention conditions, ill-treatment
+
+| 128.127 | Y | Intensify efforts to prevent overcrowding in prisons |
+
+| 128.128 | N | Take measures to address the persistence of preventive detention in police centres and the high risk of ill-treatment |
+
+| 128.129 | N | Reduce the length of the initial pretrial detention phase |
+
+15. Development
+
+| 128.221 | Y | Increase level of ODA |
+
+5. Information on country visits of and communication with mandate holders of international human rights organisations
+
+• The UN Working Group on Discrimination Against Women and Girls visited Hungary in 2016.
+
+• Francois Crépeau, UN Special Rapporteur on the human rights of migrants; Mutuma Ruteere, UN Special Rapporteur on contemporary forms of racism, racial discrimination, xenophobia and related intolerance; Juan E. Méndez, Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment inquired in 2016 about the public campaigns regarding migrants and conditions in reception centres and in transit zones.
+
+• David Kaye, Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression inquired in 2017 about the bill amending the Act on National Higher Education.
+
+• David Kaye, Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; Annalisa Ciampi, Special Rapporteur on the rights to freedom of peaceful assembly and of association and Michel Forst, Special Rapporteur on the situation of human rights defenders inquired in 2017 about the bill on the Transparency of Organizations Financed from Abroad.
+
+• Catalina Devandas-Aguilar, Special Rapporteur on the rights of persons with disabilities; David Kaye Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; Michel Forst Special Rapporteur on the situation of human rights defenders addressed a request in 2017 in connection with the intimidation of staff members of Mental Disability Advocacy Center (MDAC).
+
+• Elina Steinerte, Vice-Chair of the Working Group on Arbitrary Detention; Catalina Devandas-Aguilar Special Rapporteur on the rights of persons with disabilities, Agnes Callamard Special Rapporteur on extrajudicial, summary or arbitrary executions; Dainius Puras, Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health; Maud de Boer-Buquicchio Special Rapporteur on the sale and sexual exploitation of children, including child prostitution, child pornography and other child sexual abuse material; Nils Melzer Special Rapporteur on torture and other cruel, inhuman or degrading treatment or punishment; Dubravka Šimonovic Special Rapporteur on violence against women, its causes and consequences addressed a request in 2017 regarding the segregation of people with disabilities in closed-type institutions.
+
+• David Kaye, Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; Michel Forst Special Rapporteur on the situation of human rights defenders; Obiora C. Okafor Independent Expert on human rights and international solidarity; Felipe González Morales Special Rapporteur on the human rights of migrants; E. Tendayi Achiume Special Rapporteur on contemporary forms of racism, racial discrimination, xenophobia and related intolerance inquired in 2018 about the ‘Stop Soros Legislative Package’.
+
+• Catalina Devandas-Aguilar, Special Rapporteur on the rights of persons with disabilities inquired in 2018 about the national legislation and policy frameworks in connection with the placement of persons with disabilities in segregated social care institutions.
+
+• Leilani Farha, Special Rapporteur on adequate housing as a component of the right to an adequate standard of living, and on the right to non-discrimination in this context inquired in 2018 about the proposed amendment to the Fundamental Law of Hungary on living in a public space and the criminalization of homeless people and people without housing
+
+• Fernand de Varennes, Special Rapporteur on minority issues; Joseph Cannataci, Special Rapporteur on the right to privacy and Ahmed Shaheed, Special Rapporteur on freedom of religion or belief inquired in 2018 about the measures regarding the Church of Scientology.
+
+• Koumbou Boly Barry, Special Rapporteur on the right to education; David Kaye, Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; Clement Nyaletsossi Voule, Special Rapporteur on the rights to freedom of peaceful assembly and of association; Michel Forst, Special Rapporteur on the situation of human rights defenders; Obiora C. Okafor, Independent Expert on human rights and international solidarity; Felipe González Morales, Special Rapporteur on the human rights of migrants; E. Tendayi Achiume, Special Rapporteur on contemporary forms of racism, racial discrimination, xenophobia and related intolerance inquired in 2018 about the adoption of a series of laws affecting the rights to freedom of association, peaceful assembly and freedom of expression in Hungary and public discourse on migration
+
+• Karima Bennoune, Special Rapporteur in the field of cultural rights; Koumbou Boly Barry, Special Rapporteur on the right to education; David Kaye, Special Rapporteur on the promotion and protection of the right to freedom of opinion and expression; Ivana Radačić, Chair-Rapporteur of the Working Group on the issue of discrimination against women in law and in practice inquired in writing in 2018 about a directive regarding the teaching of the subject of gender studies at institutions of higher education.
+
+• The UN Working Group on Arbitrary Detention visited Hungary in 2018.
+
+• Diego García-Sayán, Special Rapporteur on the independence of judges and lawyers inquired in 2018 about the new legislative package on administrative courts.
+
+• Surya Deva, Chair-Rapporteur of the Working Group on the issue of human rights and transnational corporations and other business enterprises; Saad Alfarargi, Special Rapporteur on the right to development; David R. Boyd, Special Rapporteur on the issue of human rights obligations relating to the enjoyment of a safe, clean, healthy and sustainable environment; Juan Pablo Bohoslavsky, Independent Expert on the effects of foreign debt and other related international financial obligations of States on the full enjoyment of all human rights, particularly economic, social and cultural rights; Victoria Lucia Tauli-Corpuz, Special Rapporteur on the rights of indigenous peoples; Livingstone Sewanyana, Independent Expert on the promotion of a democratic and equitable international order; Léo Heller, Special Rapporteur on the human rights to safe drinking water and sanitation addressed a request in 2019 in relation to the work of the Working Group III on Investor-State Dispute Settlement (ISDS) Reform.
+
+• Fionnuala Ní Aoláin, Special Rapporteur on the promotion and protection of human rights and fundamental freedoms while countering terrorism addressed a request two times in 2019 regarding the return of an individual to the Syrian Arab Republic.
+
+• Felipe González Morales, the Special Rapporteur on the human rights of migrants visited Hungary in 2019. The main objective of the visit was to assess existing laws, policies and practices in relation to the governance of migration in Hungary and their impact on the human rights of migrants of all categories, including migrant workers, asylum seekers and migrants in an irregular situation.
+
+• Victor Madrigal-Borloz, Independent Expert on protection against violence and discrimination based on sexual orientation and gender identity; Dainius Puras Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health; Joseph Cannataci Special Rapporteur on the right to privacy; Dubravka Šimonović, Special Rapporteur on Violence against Women, its causes and consequences inquired in 2020 about the proposed bill regarding the sex/gender change of trans and gender diverse people.
+
+• Dainius Puras, Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health; Olivier De Schutter Special Rapporteur on extreme poverty and human rights addressed a request in 2020 regarding the discharge of hospitalized individuals during the COVID-19 pandemic.
+
+• Tlaleng Mofokeng, Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health; Joseph Cannataci, Special Rapporteur on the right to privacy; Ahmed Shaheed Special Rapporteur on freedom of religion or belief; Victor Madrigal-Borloz, Independent Expert on protection against violence and discrimination based on sexual orientation and gender identity; Elizabeth Broderick, Chair-Rapporteur of the Working Group on discrimination against women and girls inquired in 2020 about the proposed bills regarding the interpretation of family and marriage.
+
+• Victor Madrigal-Borloz, Independent Expert on protection against violence and discrimination based on sexual orientation and gender identity; Gerard Quinn, Special Rapporteur on the rights of persons with disabilities; Tlaleng Mofokeng, Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health;
+
+• Mary Lawlor, Special Rapporteur on the situation of human rights defenders inquired in 2021 about the abolition of the Equal Treatment Authority (“ETA”).
+
+• Diego García-Sayán, Special Rapporteur on the independence of judges and lawyers inquired in 2021 about the election of Mr. András Zsolt Varga as the President of the Kúria.
+
+The letters and the comprehensive responses by the Government can be found on the OHCHR’s website[^16.]
+
+[^1.]: Act CXXX of 2010 on law-making stipulates that ″when making laws, it shall be ensured that laws a) comply with the requirements of form and content arising from the Fundamental Law, b) fit into the unity of the legal system, c) comply with obligations arising from international law and the law of the European Union, and d) comply with the professional requirements of law-making. ″ http://www.njt.hu/translated/doc/J2010T0130P 20200101 FIN.PDF
+[^2.]: Decree No. 30/2015. (VII. 7.) on national strategic objectives to promote effective action against intimate partner violence
+[^3.]: According to Article 29 of the Fundamental Law, in Hungary, the Prosecutor General and the Prosecution Service are independent entities.
+[^4.]: Parallel to the introduction of the new Civil Code, the supported decision making was introduced as a legal institution by the Act CLV of 2013, which entered into force in 2014.
+[^5.]: The new rules of limiting legal capacity in case of guardianship have been examined by the Hungarian Constitutional Court in its decision No. 11/2014. (IV. 4.) AB. The Constitutional Court concluded that the rules are in conformity with the supportive model suggested by the CRPD on the following grounds: a.) any person of legal age with legal capacity is entitled to make a prior legal statement with a view to partial or full limitation of his/her legal capacity in the future; b.) the interests of the person concerned are given top priority; c.) it is declared that guardianship with fully limited legal capacity may be ordered only in exceptional cases by the court.
+[^6.]: Act LXXX of 2019 Vocational Education and Training.
+[^7.]: Government Decision No. 1039/2019. (II. 18.) on promoting the use of the IHRA definition of antisemitism
+[^8.]: Fundamental Rights Agency of the European Union (FRA) https://fra.europa.eu/sites/default/files/fra_uploads/fra-2018-experiences-and-perceptions-of-antisemitism-survey_en.pdf https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-antisemitism-overview-2009-2019_en.pdf p. 51-52
+[^9.]: https://fra.europa.eu/sites/default/files/fra_uploads/fra-2020-antisemitism-overview-2009-2019_en.pdf p. 51-52
+[^10.]: https://www.rainbow-europe.org/#8637/0/0
+[^11.]: Decision No. 4 of 1990 (III.4.) of the Constitutional Court
+[^12.]: Source: Eurostat TESEM010 (date of download: 12/03/2021)
+[^13.]: Source: Hungarian Statistical Office (https://www.ksh.hu/thm/2/indi2_3_3.html)
+[^14.]: Source: Eurostat TESEM120 (date of download: 11/03/2021)
+[^15.]: Source: Eurostat TESEM180 (date of download: 11/03/2021)
+[^16.]: http://www.ohchr.org/EN/HRBodies/SP/Pages/CommunicationsreportsSP.aspx
