@@ -34,7 +34,7 @@ feliratokat.
 
 (1d)[^7] Az (1) bekezdés g) pontja szerinti adat leolvasásának útján – a védettségi igazolványon szereplő adatok hitelessége igazolása céljából – az (1) bekezdés a)–c), e) és f) pontjában található adatok online elektronikus felületen is megjelennek.
 
-(1e)[^8] Oltottság tényének igazolása esetén, az Európai Unióban történő szabad mozgás joga biztosítása céljából a védettségi igazolvány (1) bekezdés g) pontja szerinti adatának leolvasása útján az (1) bekezdés a)–f) pontjában foglaltakon túl megjeleníthető az érintett születési ideje, az oltóanyag típusa, valamint az oltóanyag egyes dózisai beadásának napja.
+(1e)[^8] Oltottság tényének igazolása esetén az (1) bekezdés g) pontja szerinti adat leolvasása útján az online elektronikus felületen a Covid–19-világjárvány idején a szabad mozgás megkönnyítése érdekében az interoperábilis, Covid–19-oltásra, tesztre és gyógyultságra vonatkozó igazolványok (uniós digitális Covid-igazolvány) kiállításának, ellenőrzésének és elfogadásának keretéről szóló, 2021. június 14-i (EU) 2021/953 európai parlamenti és tanácsi rendelet 5. cikke szerinti oltási igazolvány adatai jelennek meg.
 
 (2)[^9] Az (1) bekezdés f) pontja szerinti érvényességi dátum – a (4) bekezdés szerinti kivétellel – az érintett – (3) és (3a) bekezdés szerinti – fertőzésből történő felgyógyulásának napját követő hatodik hónap azonos napjával, ha pedig a hónapban nincs ilyen nap, a hónap utolsó napjával egyezik meg.
 
@@ -137,7 +137,7 @@ b) (7) bekezdés szerinti kiállítása, valamint (10) bekezdés szerinti pótl�
 [^5]: A 2. § (1b) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^6]: A 2. § (1c) bekezdését a 222/2021. (V. 3.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^7]: A 2. § (1d) bekezdését a 366/2021. (VI. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be.
-[^8]: A 2. § (1e) bekezdését a 366/2021. (VI. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be.
+[^8]: A 2. § (1e) bekezdését a 366/2021. (VI. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be, szövege e módosító rendelet 14. § (2) bekezdésével megállapított szöveg.
 [^9]: A 2. § (2) bekezdése a 334/2021. (VI. 10.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^10]: A 2. § (3) bekezdés a) pontja a 222/2021. (V. 3.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^11]: A 2. § (3) bekezdés b) pontja a 334/2021. (VI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
