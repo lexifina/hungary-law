@@ -114,7 +114,7 @@ Az EFOP éves fejlesztési kerete
 
 | 31b. |  |  |  |  |  |
 
-| 31c. | EFOP-1.8.0- VEKOP-17 | Egészségügyi ellátórendszer szakmai módszertani fejlesztése | 35,76 (ebből VEKOP: 7,45; ebből indikatív önerő: 9,54) | kiemelt | Meghirdetve 2017. februárban |
+| 31c. | EFOP-1.8.0- VEKOP-17 | Egészségügyi ellátórendszer szakmai módszertani fejlesztése | 35,42 (ebből VEKOP: 7,45; ebből indikatív önerő: 9,20) | kiemelt | Meghirdetve 2017. februárban |
 
 | 32. | EFOP-1.8.1- VEKOP-15 | Komplex népegészségügyi szűrések | 17,92 (ebből VEKOP: 5,38; ebből indikatív önerő: 1,42) | kiemelt | Meghirdetve 2016. januárban |
 
@@ -143,6 +143,8 @@ Az EFOP éves fejlesztési kerete
 | 38f. | EFOP-1.8.21-18 | Infekciókontroll tevékenységek gyakorlati megvalósítása a fekvőbeteg ellátást nyújtó intézményekben | 4,04 (ebből indikatív önerő: 0,19) | egyszerűsített | Meghirdetve 2019. májusban |
 
 | 38g. | EFOP-1.8.22-20 | Alapellátás fejlesztése | 25,00 | kiemelt | 2020 II. félév |
+
+| 38h. | EFOP-1.8.23-21 | Az alapellátáshoz kapcsolódó egységes ügyeleti rendszer bevezetése Hajdú-Bihar megyében (pilot) | 1,10 | kiemelt | 2021. II. félév |
 
 | 39. | EFOP-1.9.1- VEKOP-15 | Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása | 2,50 (ebből VEKOP: 0,45) | kiemelt | Meghirdetve 2016. februárban |
 
@@ -254,7 +256,7 @@ Az EFOP éves fejlesztési kerete
 
 | 5. | EFOP-3.1.4-15 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – Útravaló ösztöndíjprogram | 5,41 | kiemelt | Meghirdetve 2015. októberben |
 
-| 6. | EFOP-3.1.5-16 | A tanulói lemorzsolódással veszélyeztetett intézmények támogatása | 12,90 | kiemelt | Meghirdetve 2016. októberben |
+| 6. | EFOP-3.1.5-16 | A tanulói lemorzsolódással veszélyeztetett intézmények támogatása | 12,12 | kiemelt | Meghirdetve 2016. októberben |
 
 | 7. | EFOP-3.1.6-16 | A köznevelés esélyteremtő szerepének erősítése | 8,13 | standard | Meghirdetve 2017. januárban |
 
@@ -270,7 +272,7 @@ Az EFOP éves fejlesztési kerete
 
 | 9. | EFOP-3.2.1-15 | Tehetségek Magyarországa | 6,07 | kiemelt | Meghirdetve 2015. decemberben |
 
-| 10. | EFOP-3.2.2- VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 4,97 (ebből VEKOP: 1,32; ebből indikatív önerő: 0,18) | kiemelt | Meghirdetve 2016. januárban |
+| 10. | EFOP-3.2.2- VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 6,08 (ebből VEKOP: 1,31; indikatív önerő: 0,52) | kiemelt | Meghirdetve 2016. januárban |
 
 | 11. | EFOP-3.2.3-17 | Digitális környezet a köznevelésben | 6,21 | standard | Meghirdetve 2017. márciusban |
 
@@ -404,9 +406,25 @@ Az EFOP éves fejlesztési kerete
 
 | 8. | EFOP-5.2.6-20 | Országos intézetek transznacionális és innovációs fejlesztései | 11,93 (ebből indikatív önerő: 3,58) | egyszerűsített | 2020. II. félév |
 
+6. A Covid–19-világjárvány okozta válsághelyzet kezelésére szolgáló egészségügyi intézkedések (ERFA) című 6. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP-6.1.1-21 | A Covid-oltóanyag költsége | 56,36 | kiemelt | 2021. II. félév |
+
+7. A Covid–19-világjárvány okozta válsághelyzet kezelésére szolgáló intézkedések (ESZA) című 7. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP-7.1.1-21 | Coviddal kapcsolatos személyi költségek | 31,31 | kiemelt | 2021. II. félév |
+
 [^1]: Az 1. pont d) alpontját az 1740/2017. (X. 10.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^2]: Az 1. pont e) pontját az 1341/2016. (VII. 5.) Korm. határozat 1. pontja iktatta be, szövege az 1157/2017. (III. 21.) Korm. határozat 4. pont 4.1. alpontja, az 1402/2021. (VI. 29.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
 [^3]: Az 1. pont f) alpontját az 1341/2016. (VII. 5.) Korm. határozat 1. pontja iktatta be, hatályon kívül helyezte az 1006/2017. (I. 3.) Korm. határozat 4. pontja.
 [^4]: Az 1/A. pontot az 1473/2020. (VIII. 7.) Korm. határozat 5. pontja iktatta be.
 [^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet az 1341/2016. (VII. 5.) Korm. határozat 2. pontjával megállapított, az 1471/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1608/2016. (XI. 8.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1006/2017. (I. 3.) Korm. határozat 1. pont a) alpontja és 2. pontja szerint módosított, a Magyar Közlöny 2017. évi 3. számában megjelent helyesbítésnek megfelelő szöveg. Az 1. melléklet az 1157/2017. (III. 21.) Korm. határozat 2. pont a) alpontja, 4. pont 4.2–4.4. alpontja, az 1490/2017. (VII. 31.) Korm. határozat 1. pont a) alpontja és 3. pontja, az 1740/2017. (X. 10.) Korm. határozat 1. pont a) alpontja, 2. pontja, az 1182/2018. (III. 29.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1–2.5. alpontja, az 1438/2018. (IX. 11.) Korm. határozat 1. pont a) alpontja, 2. pont 2.1–2.5. alpontja, az 1118/2019. (III. 13.) Korm. határozat 1–2. pontja, az 1307/2019. (V. 27.) Korm. határozat 4. pont a) alpontja, az 1449/2019. (VII. 26.) Korm. határozat 3. pont a) alpontja, az 1485/2019. (VIII. 1.) Korm. határozat 2. pontja, az 1785/2019. (XII. 23.) Korm. határozat 5. pont a) alpontja, az 1056/2020. (II. 20.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1093/2020. (III. 10.) Korm. határozat 3. pontja, az 1100/2020. (III. 12.) Korm. határozat 4. pontja, az 1117/2020. (III. 20.) Korm. határozat 3. pont a) alpontja, az 1140/2020. (IV. 8.) Korm. határozat 5. pontja, az 1159/2020. (IV. 15.) Korm. határozat 4. pontja, az 1188/2020. (IV. 28.) Korm. határozat 4. pontja, az 1236/2020. (V. 15.) Korm. határozat 4. pontja, az 1257/2020. (V. 26.) Korm. határozat 3. pontja, az 1388/2020. (VII. 10.) Korm. határozat 4. pontja, az 1473/2020. (VIII. 7.) Korm. határozat 6. pont 6.1. alpontja és 8. pontja, az 1606/2020. (IX. 28.) Korm. határozat 3. pont a) alpontja, az 1658/2020. (X. 15.) Korm. határozat 2. pont a)–b) alpontja, az 1659/2020. (X. 15.) Korm. határozat 2. pont b)–c) alpontja, az 1670/2020. (X. 20.) Korm. határozat 2. pont b)–c) alpontja, az 1723/2020. (X. 30.) Korm. határozat 4. pont b) alpontja, a 2039/2020. (XII. 29.) Korm. határozat 3. pontja, az 1043/2021. (II. 9.) Korm. határozat 3. pont a) alpontja, az 1068/2021. (II. 19.) Korm. határozat 3. pont a) alpontja, az 1302/2021. (V. 21.) Korm. határozat 3. pont a) alpontja, az 1362/2021. (VI. 8.) Korm. határozat 2. pont a) alpontja, 3. pontja, az 1402/2021. (VI. 29.) Korm. határozat 4. pont b) alpontja, az 1477/2021. (VII. 15.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg. [Az 1471/2016. (VIII. 31.) Korm. határozat 2. pont 2.2.2. alpontjával elrendelt módosítás, amely szerint a 2. pontban foglalt táblázat B:4 mezőben az „EFOP-2.2.1-16” szövegrész helyébe az „EFOP-2.2.1-15” szöveg lép, nem vezethető át.]
+[^6]: Az 1. melléklet az 1341/2016. (VII. 5.) Korm. határozat 2. pontjával megállapított, az 1471/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1608/2016. (XI. 8.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1006/2017. (I. 3.) Korm. határozat 1. pont a) alpontja és 2. pontja szerint módosított, a Magyar Közlöny 2017. évi 3. számában megjelent helyesbítésnek megfelelő szöveg. Az 1. melléklet az 1157/2017. (III. 21.) Korm. határozat 2. pont a) alpontja, 4. pont 4.2–4.4. alpontja, az 1490/2017. (VII. 31.) Korm. határozat 1. pont a) alpontja és 3. pontja, az 1740/2017. (X. 10.) Korm. határozat 1. pont a) alpontja, 2. pontja, az 1182/2018. (III. 29.) Korm. határozat 1. pont a) alpontja és 2. pont 2.1–2.5. alpontja, az 1438/2018. (IX. 11.) Korm. határozat 1. pont a) alpontja, 2. pont 2.1–2.5. alpontja, az 1118/2019. (III. 13.) Korm. határozat 1–2. pontja, az 1307/2019. (V. 27.) Korm. határozat 4. pont a) alpontja, az 1449/2019. (VII. 26.) Korm. határozat 3. pont a) alpontja, az 1485/2019. (VIII. 1.) Korm. határozat 2. pontja, az 1785/2019. (XII. 23.) Korm. határozat 5. pont a) alpontja, az 1056/2020. (II. 20.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1093/2020. (III. 10.) Korm. határozat 3. pontja, az 1100/2020. (III. 12.) Korm. határozat 4. pontja, az 1117/2020. (III. 20.) Korm. határozat 3. pont a) alpontja, az 1140/2020. (IV. 8.) Korm. határozat 5. pontja, az 1159/2020. (IV. 15.) Korm. határozat 4. pontja, az 1188/2020. (IV. 28.) Korm. határozat 4. pontja, az 1236/2020. (V. 15.) Korm. határozat 4. pontja, az 1257/2020. (V. 26.) Korm. határozat 3. pontja, az 1388/2020. (VII. 10.) Korm. határozat 4. pontja, az 1473/2020. (VIII. 7.) Korm. határozat 6. pont 6.1. alpontja és 8. pontja, az 1606/2020. (IX. 28.) Korm. határozat 3. pont a) alpontja, az 1658/2020. (X. 15.) Korm. határozat 2. pont a)–b) alpontja, az 1659/2020. (X. 15.) Korm. határozat 2. pont b)–c) alpontja, az 1670/2020. (X. 20.) Korm. határozat 2. pont b)–c) alpontja, az 1723/2020. (X. 30.) Korm. határozat 4. pont b) alpontja, a 2039/2020. (XII. 29.) Korm. határozat 3. pontja, az 1043/2021. (II. 9.) Korm. határozat 3. pont a) alpontja, az 1068/2021. (II. 19.) Korm. határozat 3. pont a) alpontja, az 1302/2021. (V. 21.) Korm. határozat 3. pont a) alpontja, az 1362/2021. (VI. 8.) Korm. határozat 2. pont a) alpontja, 3. pontja, az 1402/2021. (VI. 29.) Korm. határozat 4. pont b) alpontja, az 1477/2021. (VII. 15.) Korm. határozat 3. pont a) alpontja, az 1571/2021. (VIII. 9.) Korm. határozatz 3. pont a) alpontja és 4. pontja szerint módosított szöveg. [Az 1471/2016. (VIII. 31.) Korm. határozat 2. pont 2.2.2. alpontjával elrendelt módosítás, amely szerint a 2. pontban foglalt táblázat B:4 mezőben az „EFOP-2.2.1-16” szövegrész helyébe az „EFOP-2.2.1-15” szöveg lép, nem vezethető át.]
