@@ -60,6 +60,8 @@
 
 ## g) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő, valamint fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról szóló 1100/2021. (III. 5.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím javára átcsoportosított 64 000 000 forintból legfeljebb 2 500 000 forint a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása címen a K3. Dologi kiadások előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2. A központi költségvetést érintő címrendi módosításról, a Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, valamint egyes kormányhatározatok módosításáról szóló 1397/2020. (VII. 14.) Korm. határozat 1. pont e) alpontjában a „2021. december 31.” szövegrész helyébe a „2021. december 31., a Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára átcsoportosított 400 000 000 forint tekintetében 2022. október 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1569/2021. (VIII. 9.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
