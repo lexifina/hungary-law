@@ -12,34 +12,14 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat [a továbbiakban: 1037/2016. (II. 9.) Korm. határozat]
+## 3.[^1]
 
-## a) 1. melléklete a 2. melléklet,
+## 4.[^2]
 
-## b) 2. melléklete a 3. melléklet
-
-## szerint módosul.
-
-## 4. Az 1037/2016. (II. 9.) Korm. határozat 1. melléklet
-
-## a) 1. pontjában foglalt táblázat C:31c mezőjében a „35,76 (ebből VEKOP: 7,45; ebből indikatív önerő: 9,54)” szövegrész helyébe a „35,42 (ebből VEKOP: 7,45; ebből indikatív önerő: 9,20)” szöveg,
-
-## b) 3. pontjában foglalt táblázat
-
-## ba) C:6 mezőjében a „12,90” szövegrész helyébe a „12,12” szöveg,
-
-## bb) C:10 mezőjében a „4,97 (ebből VEKOP: 1,32; ebből indikatív önerő: 0,18)” szövegrész helyébe a „6,08 (ebből VEKOP: 1,31; indikatív önerő: 0,52)” szöveg
-
-## lép.
-
-## 5. Az 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:48 mezőjében a „12,90” szövegrész helyébe a „12,12” szöveg,
-
-## b) D:51 mezőjében a „4,79 (ebből VEKOP: 1,32)” szövegrész helyébe az „5,56 (ebből VEKOP: 1,31)” szöveg,
-
-## c) E:51 mezőjében a „0,18” szövegrész helyébe a „0,52” szöveg
-
-## lép.
+## 5.[^3]
 
 1. melléklet az 1571/2021. (VIII. 9.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
