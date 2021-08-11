@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-246-20-
 | --- | --- | --- |
 | 2021-06-13 | 2021-246-20-22.1 | 246/2021. (V. 13.) Korm. rendelet |
 | 2021-06-14 | 2021-246-20-22.2 | 2010: CXXX. törvény |
+| 2021-08-11 | 2021-246-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
