@@ -6,7 +6,7 @@
 
 |  | Ft |
 
-| 1. Általános rendszámtáblákért és a környezetkímélő gépkocsihoz, valamint a lassú járműhöz kiadott különleges rendszámtábláért fizetendő díj |  |
+| 1. Általános rendszámtáblákért és a környezetkímélő gépjárműhöz, valamint a lassú járműhöz kiadott különleges rendszámtábláért fizetendő díj |  |
 
 | 1.1. 1 pár rendszámtábla | 8 500 |
 
