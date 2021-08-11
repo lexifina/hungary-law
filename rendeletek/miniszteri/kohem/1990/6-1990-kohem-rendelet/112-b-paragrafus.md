@@ -1,6 +1,6 @@
-## Versenyjárműre vonatkozó üzemeltetési műszaki feltételek[^236]
+## Versenyjárműre vonatkozó üzemeltetési műszaki feltételek[^238]
 
-112/B. §[^237] (1) Az e rendeletben foglalt üzemeltetési műszaki feltételeket – az ER. megjelölt eljárásaiban – a versenyjárművek esetében a következő eltérésekkel kell alkalmazni:
+112/B. §[^239] (1) Az e rendeletben foglalt üzemeltetési műszaki feltételeket – az ER. megjelölt eljárásaiban – a versenyjárművek esetében a következő eltérésekkel kell alkalmazni:
 
 a) versenyjármű utasterének szilárdsága beépített bukócső kerettel megnövelhető,
 
@@ -20,10 +20,10 @@ h) a versenyjármű legnagyobb teljesítményét 30 napnál nem régebbi, erre v
 
 i) a versenyjármű kerekekre vonatkozó üzemeltetési műszaki feltételek megfelelőségét az adott jármű gépkönyvében kell igazolni,
 
-j)[^238] ha ez a rendelet vagy más jogszabály valamely járműtulajdonság, járműalkatrész vagy járműtartozék jóváhagyási jellel való ellátottságát követeli meg, versenyjármű esetében a jóváhagyások helyett elfogadhatóak az országos autóverseny rendszert működtető, országos sportági szövetség vagy a nemzetközi sportági szövetség által kiadott jóváhagyások (homologizációk).
+j)[^240] ha ez a rendelet vagy más jogszabály valamely járműtulajdonság, járműalkatrész vagy járműtartozék jóváhagyási jellel való ellátottságát követeli meg, versenyjármű esetében a jóváhagyások helyett elfogadhatóak az országos autóverseny rendszert működtető, országos sportági szövetség vagy a nemzetközi sportági szövetség által kiadott jóváhagyások (homologizációk).
 
 (2) Az (1) bekezdésben foglaltaknak való megfelelőséget a jármű üzembentartójának – az országos autóverseny rendszert működtető, országos sportági szövetség által – a járműhöz kiállított gépkönyvvel kell igazolni.
 
-[^236]: A 112/B. §-t megelőző alcímet a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
-[^237]: A 112/B. §-t a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
-[^238]: A 112/B. § (1) bekezdés j) pontját a 72/2013. (XII. 2.) NFM rendelet 9. §-a iktatta be.
+[^238]: A 112/B. §-t megelőző alcímet a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
+[^239]: A 112/B. §-t a 23/2012. (V. 8.) NFM rendelet 7. §-a iktatta be.
+[^240]: A 112/B. § (1) bekezdés j) pontját a 72/2013. (XII. 2.) NFM rendelet 9. §-a iktatta be.

@@ -12,11 +12,11 @@ b) oldalkocsi nélküli és oldalkocsis motorkerékpár, valamint a motorkerékp
 
 1 db
 
-(2)[^165] a) Az (1) bekezdés a) pontjában meghatározott féklámpákon kívül további egy darab, középső féklámpával szabad felszerelni a gépkocsit és pótkocsiját;
+(2)[^167] a) Az (1) bekezdés a) pontjában meghatározott féklámpákon kívül további egy darab, középső féklámpával szabad felszerelni a gépkocsit és pótkocsiját;
 
 b) egy vagy két féklámpával szabad felszerelni a lassú járművet és pótkocsiját.
 
-(3)[^166] A féklámpa fényének — anélkül, hogy a többi jármű vezetőjét zavarná — nappal, ráeső napfényben legalább 300 méterről — egyéb fényjelző berendezés bekapcsolt állapotában is — határozottan felismerhetőnek kell lennie. A féklámpa fényerejének jól érzékelhetően nagyobbnak kell lennie a hátsó helyzetjelző lámpa fényerejénél. A féklámpa csak piros fényt bocsáthat ki. A gépkocsi belső terében felszerelt középső féklámpát úgy kell kialakítani és elhelyezni, hogy annak fénye a vezetőt — közvetlenül vagy visszaverődés által — ne zavarja.
+(3)[^168] A féklámpa fényének — anélkül, hogy a többi jármű vezetőjét zavarná — nappal, ráeső napfényben legalább 300 méterről — egyéb fényjelző berendezés bekapcsolt állapotában is — határozottan felismerhetőnek kell lennie. A féklámpa fényerejének jól érzékelhetően nagyobbnak kell lennie a hátsó helyzetjelző lámpa fényerejénél. A féklámpa csak piros fényt bocsáthat ki. A gépkocsi belső terében felszerelt középső féklámpát úgy kell kialakítani és elhelyezni, hogy annak fénye a vezetőt — közvetlenül vagy visszaverődés által — ne zavarja.
 
-[^165]: A 64. § (1) bekezdése a 12/1995. (VII. 12. ) KHVM rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^166]: A 64. § (3) bekezdésének utolsó mondatát a 12/1995. (VII. 12.) KHVM rendelet 4. §-ának (2) bekezdése iktatta a szövegbe.
+[^167]: A 64. § (1) bekezdése a 12/1995. (VII. 12. ) KHVM rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^168]: A 64. § (3) bekezdésének utolsó mondatát a 12/1995. (VII. 12.) KHVM rendelet 4. §-ának (2) bekezdése iktatta a szövegbe.

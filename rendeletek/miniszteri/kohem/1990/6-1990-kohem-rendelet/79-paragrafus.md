@@ -16,9 +16,9 @@ A vezető szemhelyzetének meghatározását és a takarási szögek mérési m�
 
 (2) A menetrend szerinti helyi forgalmat lebonyolító autóbusz jobb oldali külső visszapillantó tükrének, valamint a tükrök tartószerkezetének legalsó pontja az úttest szintjéhez 2,10 méternél közelebb nem lehet.
 
-(3)[^195] A műszakilag megengedett legnagyobb össztömegig terhelt járműre szerelt, a 661/2009/EK európai parlamenti és tanácsi rendelet IV. MELLÉKLET 46. számú előírása szerinti V. osztályba tartozó tükör minden alkatrészének 2,0 méternél magasabban kell lennie.
+(3)[^197] A műszakilag megengedett legnagyobb össztömegig terhelt járműre szerelt, a 661/2009/EK európai parlamenti és tanácsi rendelet IV. MELLÉKLET 46. számú előírása szerinti V. osztályba tartozó tükör minden alkatrészének 2,0 méternél magasabban kell lennie.
 
-(4)[^196] A kiegészítő tükrök és a közvetett látást biztosító egyéb berendezések összes látóterének a 661/2009/EK európai parlamenti és tanácsi rendelet IV. MELLÉKLET 46. számú előírásnak megfelelően a IV. osztályba tartozó visszapillantó tükrök esetén a talajszinten mért teljes látótér legalább 95%-át, az V. osztályba tartozó tükrök esetén a talajszinten mért látótér 85%-át le kell fednie.
+(4)[^198] A kiegészítő tükrök és a közvetett látást biztosító egyéb berendezések összes látóterének a 661/2009/EK európai parlamenti és tanácsi rendelet IV. MELLÉKLET 46. számú előírásnak megfelelően a IV. osztályba tartozó visszapillantó tükrök esetén a talajszinten mért teljes látótér legalább 95%-át, az V. osztályba tartozó tükrök esetén a talajszinten mért látótér 85%-át le kell fednie.
 
-[^195]: A 79. § (3) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 9. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^196]: A 79. § (4) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 9. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^197]: A 79. § (3) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 9. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^198]: A 79. § (4) bekezdését a 19/2008. (VIII. 14.) KHEM rendelet 2. §-a iktatta be, szövege a 44/2014. (X. 31.) NFM rendelet 9. § (1) bekezdés g) pontja szerint módosított szöveg.

@@ -72,7 +72,7 @@
 
 ## II. A gépjárművek környezetvédelmi osztályba sorolása
 
-## A gépjármű kipufogógázának szennyezőanyag-tartalmát meghatározó konstrukciós jellemzők és a rendelet függelékeinek mellékleteiben meghatározott szennyezőanyag kibocsátási követelmények teljesítése alapján a gépjárművek környezetvédelmi osztályba sorolása a következő táblázat alapján történik.
+## A gépjármű(13) kipufogógázának szennyezőanyag-tartalmát meghatározó konstrukciós jellemzők és a rendelet függelékeinek mellékleteiben meghatározott szennyezőanyag kibocsátási követelmények teljesítése alapján a gépjárművek környezetvédelmi osztályba sorolása a következő táblázat alapján történik.
 
 | A környezetvédelmi osztály jelzés (kód) | A környezetvédelmi osztályt meghatározó jellemző |
 
@@ -148,6 +148,8 @@
 
 ## (12) Az Euro-VI. kibocsátási határértéket az 582/2011/EU bizottsági rendelet XV. mellékletével (2011.06.25. L167/163) módosított, a nehéz tehergépjárművek kibocsátásai (Euro-VI) tekintetében a gépjárművek és motorok típusjóváhagyásáról, a járművek javítására és karbantartására vonatkozó információkhoz való hozzáférésről szóló 595/2009/EK európai parlamenti és tanácsi rendelet I. melléklete határozza meg.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^385]
+## (13) A tisztán elektromos meghajtású motorkerékpárt az ügyfél kérelmére környezetkímélő motorkerékpárnak kell minősíteni, a nem környezetkímélő motorkerékpárok környezetvédelmi osztályba sorolását nem kell megállapítani.
 
-[^385]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^387]
+
+[^387]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

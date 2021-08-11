@@ -1,17 +1,17 @@
-## 15/A. §[^97] Az utólag beépített részecske kibocsátást csökkentő rendszerrel felszerelt jármű hajtómotorja által kibocsátott kipufogógáz szennyezőanyag-tartalma nem haladhatja meg a 16. számú mellékletben meghatározott határértékeket.
+## 15/A. §[^99] Az utólag beépített részecske kibocsátást csökkentő rendszerrel felszerelt jármű hajtómotorja által kibocsátott kipufogógáz szennyezőanyag-tartalma nem haladhatja meg a 16. számú mellékletben meghatározott határértékeket.
 
 ## Légszennyezésre vonatkozó további műszaki feltételek
 
-16. §[^98] (1)[^99] A gépjárműnek vagy a gépjármű hajtómotorjának a kipufogógáz szennyezőanyag-tartalmára vonatkozó jóváhagyási jellel kell rendelkeznie.
+16. §[^100] (1)[^101] A gépjárműnek vagy a gépjármű hajtómotorjának a kipufogógáz szennyezőanyag-tartalmára vonatkozó jóváhagyási jellel kell rendelkeznie.
 
 (2) Az Otto-rendszerű motorral meghajtott gépkocsinak az 5. számú mellékletben meghatározott kipufogógáz utókezelő berendezéssel (katalizátorral) kell rendelkeznie.
 
-(3)[^100] A lassú jármű hajtómotorja kipufogógázának szennyezőanyag-tartalma nem haladhatja meg a 7. számú mellékletben meghatározott határértéket.
+(3)[^102] A lassú jármű hajtómotorja kipufogógázának szennyezőanyag-tartalma nem haladhatja meg a 7. számú mellékletben meghatározott határértéket.
 
-(4)[^101]
+(4)[^103]
 
-[^97]: A 15/A. §-t a 23/2012. (V. 8.) NFM rendelet 5. §-a iktatta be.
-[^98]: A 16. § a 21/1995. (XII. 15.) KHVM rendelet 12. §-ával megállapított szöveg.
-[^99]: A 16. § (1) bekezdésének második mondatát a 12/2000. (V. 24.) KHVM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
-[^100]: A 16. § (3) bekezdése a 36/2019. (IX. 20.) ITM rendelet 4. §-ával megállapított szöveg.
-[^101]: A 16. § (4) bekezdését a 23/2012. (V. 8.) NFM rendelet 12. §-a hatályon kívül helyezte.
+[^99]: A 15/A. §-t a 23/2012. (V. 8.) NFM rendelet 5. §-a iktatta be.
+[^100]: A 16. § a 21/1995. (XII. 15.) KHVM rendelet 12. §-ával megállapított szöveg.
+[^101]: A 16. § (1) bekezdésének második mondatát a 12/2000. (V. 24.) KHVM rendelet 18. § (1) bekezdése hatályon kívül helyezte.
+[^102]: A 16. § (3) bekezdése a 36/2019. (IX. 20.) ITM rendelet 4. §-ával megállapított szöveg.
+[^103]: A 16. § (4) bekezdését a 23/2012. (V. 8.) NFM rendelet 12. §-a hatályon kívül helyezte.
