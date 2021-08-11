@@ -2,4 +2,6 @@
 
 2. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2) A 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
+(2) A 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^1]
+
+[^1]: Lásd a 34/2021. (IV. 30.) KKM közleményt.
