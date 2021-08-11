@@ -30,7 +30,8 @@
 
 ## 3.[^2]
 
-1. melléklet az 1085/2021. (III. 1.) Korm. határozathoz
+1. melléklet az 1085/2021. (III. 1.) Korm. határozathoz[^3]
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. mellékletet az 1584/2021. (VIII. 11.) Korm. határozat 1. pontja visszavonta.
