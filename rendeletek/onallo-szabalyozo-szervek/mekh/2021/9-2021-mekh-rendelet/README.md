@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-9-20-5Z
 | --- | --- | --- |
 | 2021-07-29 | 2021-9-20-5Z.1 | 9/2021. (VII. 26.) MEKH rendelet |
 | 2021-07-30 | 2021-9-20-5Z.2 | 2010: CXXX. törvény |
+| 2021-08-11 | 2021-9-20-5Z.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
