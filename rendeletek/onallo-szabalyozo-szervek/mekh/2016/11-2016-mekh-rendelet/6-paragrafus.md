@@ -1,3 +1,3 @@
-## 5. §[^38]
+## 5. §[^39]
 
-[^38]: Az 5. §-t a 4/2019. (IV. 12.) MEKH rendelet 9. § b) pontja hatályon kívül helyezte.
+[^39]: Az 5. §-t a 4/2019. (IV. 12.) MEKH rendelet 9. § b) pontja hatályon kívül helyezte.

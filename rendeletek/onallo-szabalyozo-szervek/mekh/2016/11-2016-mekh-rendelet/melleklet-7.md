@@ -8,7 +8,7 @@
 
 | … | … | … | … | … | … | … | … | … | … | … | … | … |
 
-7. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^153]
+7. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^154]
 
 Megszakítható kapacitás lekötése esetén a kapacitásdíjból adandó kedvezmény mértéke
 
@@ -24,4 +24,4 @@ Megszakítható kapacitás lekötése esetén a kapacitásdíjból adandó kedve
 
 | 5. | 1. § (1) bekezdés a) pont aa) alpont aaa), aab), aad)–aaf), aai)–aal), aan)–aao) alpontja szerinti, és az ac) alpont szerinti átadási-átvételi pontok | 0% | 0% | 0% | 0% | 0% |
 
-[^153]: A 7. mellékletet a 3/2020. (III. 25.) MEKH rendelet 7. §-a iktatta be, szövege az 5/2020. (VI. 2.) MEKH rendelet 6. §-ával megállapított szöveg.
+[^154]: A 7. mellékletet a 3/2020. (III. 25.) MEKH rendelet 7. §-a iktatta be, szövege az 5/2020. (VI. 2.) MEKH rendelet 6. §-ával megállapított szöveg.
