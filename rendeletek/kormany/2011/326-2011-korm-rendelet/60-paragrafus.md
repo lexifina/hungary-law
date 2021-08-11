@@ -20,7 +20,7 @@ fa) E típusú, vagy
 
 fb) amennyiben a jármű műszaki kialakítása azt indokolja, kérelemre az A típusú rendszámtábla méretének megfelelő,
 
-g)[^264] a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépkocsira világoszöld alapszínű,
+g)[^264] a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépjárműre világoszöld alapszínű,
 
 h)[^265] a gépkocsi kerékpárszállító eszközére a gépkocsi rendszámtáblájának karaktereivel megegyező
 
@@ -56,7 +56,7 @@ b) a sárga vagy világoszöld alapszínű különleges rendszámtábla az 53. �
 [^261]: A 60. § (2) bekezdés a) pontja a 468/2016. (XII. 23.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^262]: A 60. § (2) bekezdés b) pontját a 468/2016. (XII. 23.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.
 [^263]: A 60. § (2) bekezdés d) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § n) pontja szerint módosított szöveg.
-[^264]: A 60. § (2) bekezdés g) pontját a 228/2012. (VIII. 23.) Korm. rendelet 7. § (22) bekezdése hatályon kívül helyezte, újonnan a 90/2015. (IV. 9.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 467/2015. (XII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^264]: A 60. § (2) bekezdés g) pontját újonnan a 90/2015. (IV. 9.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 467/2015. (XII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 246/2021. (V. 13.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^265]: A 60. § (2) bekezdés h) pontját a 468/2016. (XII. 23.) Korm. rendelet 15. § (3) bekezdése iktatta be.
 [^266]: A 60. § (2a) bekezdését a 90/2015. (IV. 9.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 467/2015. (XII. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
 [^267]: A 60. § (2b) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 17. § (2) bekezdése iktatta be.

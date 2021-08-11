@@ -30,7 +30,7 @@
 
 13. A négykerekű segédmotoros kerékpárra kiadott S, vagy R kezdő betűjelű „E” típusú rendszámtábla összesen 4 betűjelet és 2 számjegyet tartalmaz, alapszíne fehér, a karakterei és a keret színe fekete.
 
-14.[^505] A környezetkímélő gépkocsira kiadott rendszámtábla alapszíne világoszöld, karakterei és a keret színe fekete, három betűjelből és három számjegyből, egyedileg előállított rendszámtábla használatának engedélyezése esetén, legalább 4, legfeljebb 5 folyamatos betűjelből és legalább 1, legfeljebb 2 folyamatos számjegyből, együttesen 6 jelből áll.
+14.[^505] A környezetkímélő gépjárműre kiadott rendszámtábla alapszíne világoszöld, karakterei és a keret színe fekete, három betűjelből és három számjegyből, egyedileg előállított rendszámtábla használatának engedélyezése esetén, legalább 4, legfeljebb 5 folyamatos betűjelből és legalább 1, legfeljebb 2 folyamatos számjegyből, együttesen 6 jelből áll.
 
 15.[^506] A gépkocsi kerékpárszállító eszközére kiadott rendszámtábla alapszíne szürke, karakterei és a keret színe fehér, három betűjelből és három számjegyből, egyedileg előállított rendszámtáblával rendelkező gépkocsihoz történő kiadása esetén, legalább 4, legfeljebb 5 folyamatos betűjelből és legalább 1, legfeljebb 2 folyamatos számjegyből, együttesen 6 jelből áll. A CD, az OT, az RR, az R és a H betűjelű különleges rendszámtáblával ellátott gépkocsi kerékpárszállító eszközére kiadott rendszámtábla alapszíne szürke, karakterei és a keret színe fehér, további jellemzői megegyeznek az e mellékletben meghatározott adott különleges rendszámtábla leírásával.
 
@@ -42,5 +42,5 @@
 [^502]: A 13. melléklet 9a. pontját a 468/2016. (XII. 23.) Korm. rendelet 30. § (2) bekezdése iktatta be.
 [^503]: A 13. melléklet 10. pontja a 467/2015. (XII.29.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
 [^504]: A 13. melléklet 11. pontja a 467/2015. (XII.29.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^505]: A 13. melléklet 14. pontját a 467/2015. (XII.29.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^505]: A 13. melléklet 14. pontját a 467/2015. (XII.29.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 246/2021. (V. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^506]: A 13. melléklet 15. pontját a 468/2016. (XII. 23.) Korm. rendelet 30. § (3) bekezdése iktatta be.
