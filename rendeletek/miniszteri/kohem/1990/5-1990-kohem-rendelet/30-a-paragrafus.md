@@ -1,4 +1,4 @@
-## 30/A. §[^342] Az egyes közlekedési tárgyú miniszteri rendeletek módosításáról szóló 28/2018. (XI. 15.) ITM rendelet 3. mellékletével megállapított 11. számú melléklet
+## 30/A. §[^341] Az egyes közlekedési tárgyú miniszteri rendeletek módosításáról szóló 28/2018. (XI. 15.) ITM rendelet 3. mellékletével megállapított 11. számú melléklet
 
 a) I. fejezet 2.3.1. és 3.2.3. pontjában meghatározott feltételeket legkésőbb 2022. május 20-ig kell biztosítani,
 
@@ -8,4 +8,4 @@ c) I. fejezete szerinti, a légfékes pótkocsik vizsgálatát is végző vizsg�
 
 d) I. fejezet 3.2.3. pontjában meghatározott feltételekhez alkalmas próbapadok biztosításáig az elektromos működtetésű kézifékkel rendelkező járművek rögzítő fék vizsgálatát a járműgyártó előírása szerint, a konstrukciós kialakításnak megfelelően kell végezni.
 
-[^342]: A 30/A. §-t a 28/2018. (XI. 15.) ITM rendelet 5. §-a iktatta be.
+[^341]: A 30/A. §-t a 28/2018. (XI. 15.) ITM rendelet 5. §-a iktatta be.
