@@ -1,1 +1,0 @@
-## 1. § A Minisztertanács, a Nemzetközi Tudományos és Műszaki Tájékoztatási Központ jogállásáról és kiváltságairól szóló, Moszkvában, 1973. év június hó 26. napján aláírt Egyezményt e rendelettel kihirdeti.
