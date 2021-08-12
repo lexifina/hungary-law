@@ -1,3 +1,5 @@
-## 5. § A közúti közlekedési igazgatási hatósági eljárások díjairól szóló 29/2004. (VI. 16.) BM rendelet 2. számú melléklet 1. pontjában a „környezetkímélő gépkocsihoz” szövegrész helyébe a „környezetkímélő gépjárműhöz” szöveg lép.
+## 5. §[^6]
 
 ## 4. Záró rendelkezések
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
