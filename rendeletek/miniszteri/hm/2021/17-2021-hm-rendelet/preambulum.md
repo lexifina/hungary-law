@@ -1,0 +1,1 @@
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. § (3) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 107. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
