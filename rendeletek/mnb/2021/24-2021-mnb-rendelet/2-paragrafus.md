@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz, 4% nikkel és 21% cink ötvözetéből készült, súlya 16 gramm, átmérője 34 mm, széle finomrecés, a recéken a kétszer ismétlődő „MAGYAR NÉPMESÉK RAJZFILMSOROZAT ⋅⋅⋅” szélfelirattal.
+
+(2) Az emlékérme előlapján a Magyar népmesék című rajzfilmsorozat főcíme alapján készült, körbefutó, stilizált népművészeti virágmotívum ábrázolása látható, bal oldalon egy galambbal. A virágmotívum ábrázolásán belül, egymás alatti két sorban a „Magyarország” felirat, valamint a „2000” értékjelzés és a „forint” felirat, a virágmotívum ábrázolása alatt, középen a „BP.” verdejel és a „2021” verési évszám olvasható, kézírásos betűkkel. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján egy táltos lovon ülő mesebeli főhős, a kanászból lett királyfi félalakos ábrázolása látható, háttérben az égig érő fával. Az égig érő fa ábrázolásától jobbra, fent, egymás alatti két sorban, kézírásos betűkkel „Az égig” és az „érő fa” felirat olvasható. Az emlékérme szélén, bal oldalon, lent Imrei Boglárka tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
