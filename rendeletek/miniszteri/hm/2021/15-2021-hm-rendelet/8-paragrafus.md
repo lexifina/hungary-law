@@ -1,0 +1,1 @@
+## 7. § Ha a csapatzászló megsemmisül, illetve olyan mértékben sérül vagy rongálódik, hogy rendeltetésének már nem felel meg, a pótlása, illetve cseréje iránti kérelmet az MH PK-hoz kell előterjeszteni.
