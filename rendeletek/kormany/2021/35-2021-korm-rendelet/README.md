@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-35-20-2
 | --- | --- | --- |
 | 2021-02-03 | 2021-35-20-22.1 | 35/2021. (II. 2.) Korm. rendelet |
 | 2021-08-11 | 2021-35-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-08-12 | 2021-35-20-22.3 | 2010: CXXX. törvény |

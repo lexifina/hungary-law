@@ -1,3 +1,5 @@
-## 3. § Hatályát veszti a Nemzetközi Tudományos és Műszaki Tájékoztatási Központ jogállásáról és kiváltságairól szóló, Moszkvában, 1973. június hó 26. napján aláírt egyezmény kihirdetéséről szóló 17/1979. (V. 9.) MT rendelet.
+## 3. §[^2]
 
 4. § Az e rendelet végrehajtásához szükséges intézkedésekről a külpolitikáért felelős miniszter gondoskodik.
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
