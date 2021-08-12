@@ -10,19 +10,19 @@
 
 ## e)[^2] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 3. prioritása 219,79 milliárd forint összegű meghirdethető keretét, amely 82,08 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 3. prioritásának keretét,
 
-## f)[^3] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 4. prioritása 68,98 milliárd forint összegű meghirdethető keretét, amely 34,68 milliárd forinttal [ebből a Versenyképes Közép-Magyarország Operatív Programból (a továbbiakban: VEKOP) finanszírozott összeg: 0,37 milliárd forint] haladja meg a Környezeti és Energiahatékonysági Operatív Program 4. prioritásának keretét,
+## f)[^3] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 4. prioritása 39,03 milliárd forint összegű meghirdethető keretét, amely 4,69 milliárd forinttal [ebből a Versenyképes Közép-Magyarország Operatív Programból (a továbbiakban: VEKOP) finanszírozott összeg: 0,37 milliárd forint] haladja meg a Környezeti és Energiahatékonysági Operatív Program 4. prioritásának keretét,
 
-## g)[^4] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 5. prioritása 466,50 milliárd forint összegű meghirdethető keretét, amely 154,70 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 5. prioritásának keretét,
+## g)[^4] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 5. prioritása 512,13 milliárd forint összegű meghirdethető keretét, amely 217,73 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 5. prioritásának keretét,
 
-## h)[^5] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 2. prioritása 556,20 milliárd forint összegű meghirdethető keretét, amely 131,41 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 2. prioritásának keretét,
+## h)[^5] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 2. prioritása 605,01 milliárd forint összegű meghirdethető keretét, amely 191,22 milliárd forinttal haladja meg a Környezeti és Energiahatékonysági Operatív Program 2. prioritásának keretét,
 
-## i)[^6] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 1., 2. és 4. prioritása terhére kötelezettségvállalás a prioritások operatív programban rögzített keretének 110,0%-áig tehető,
+## i)[^6] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 1–5. prioritásainak terhére kötelezettségvállalás a prioritásoknak a Kormány által meghatározott indikatív támogatási keretösszegéig vagy ha a Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig tehető,
 
 ## j)[^7] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 5. prioritása esetén – az i) alponttal összhangban – kizárólag az európai uniós támogatás és a hazai társfinanszírozás összegének önerővel csökkentett mértékéig vállalható kötelezettség,
 
 ## k)[^8]
 
-## l)[^9] egyetért azzal, hogy a Környezeti és Energiahatékonysági Operatív Program 3. prioritásának terhére kötelezettségvállalás a prioritás operatív programban rögzített keretének legfeljebb 123,91%-áig tehető, és a felszabaduló források terhére újabb kötelezettség csak a Kormány jóváhagyását követően vállalható.
+## l)[^9]
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -42,11 +42,11 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 3. | KEHOP- 1.2.0. | Klímastratégiák kidolgozásához kapcsolódó módszertan- és kapacitásfejlesztés, valamint szemléletformálás | 1,28 | kiemelt | Meghirdetve 2015. október 12-én |
 
-| 4. | KEHOP- 1.2.1. | Helyi klímastratégiák kidolgozása, valamint a klímatudatosságot erősítő szemléletformálás | 3,19 | egyszerűsített | Meghirdetve 2018. február 9-én |
+| 4. | KEHOP- 1.2.1. | Helyi klímastratégiák kidolgozása, valamint a klímatudatosságot erősítő szemléletformálás | 2,07 | egyszerűsített | Meghirdetve 2018. február 9-én |
 
-| 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 144,65 | kiemelt | Meghirdetve 2015. október 12-én |
+| 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 151,57 | kiemelt | Meghirdetve 2015. október 12-én |
 
-| 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 16,40 | kiemelt | Meghirdetve 2015. július 30-án |
+| 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 10,40 | kiemelt | Meghirdetve 2015. július 30-án |
 
 | 7. | KEHOP- 1.4.0. | Árvízvédelmi fejlesztések | 172,14 | kiemelt | Meghirdetve 2015. október 6-án |
 
@@ -66,11 +66,11 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 3. | KEHOP- 2.1.2. | Felhívás a derogációval érintett, valamint ammónium-ionra vonatkozó ivóvízminőség-javító projektek megvalósítására | 5,89 | kiemelt | Meghirdetve 2015. október 8-án |
 
-| 4. | KEHOP- 2.1.3. | Felhívás a derogációval érintett, valamint ammónium-ionra vonatkozó ivóvízminőség-javító projektek megvalósítására | 41,65 | kiemelt | Meghirdetve 2015. december 28-án |
+| 4. | KEHOP- 2.1.3. | Felhívás a derogációval érintett, valamint ammónium-ionra vonatkozó ivóvízminőség-javító projektek megvalósítására | 51,70 | kiemelt | Meghirdetve 2015. december 28-án |
 
-| 5. | KEHOP- 2.1.4. | Felhívás az egyedi, illetve térségi ivóvízminőség-javító rendszerek kiépítésével és a lakosság egészséges ivóvízzel való ellátásához kapcsolódó projektek megvalósítására – szakaszolt projektek | 6,16 | kiemelt | Meghirdetve 2015. július 28-án |
+| 5. | KEHOP- 2.1.4. | Felhívás az egyedi, illetve térségi ivóvízminőség-javító rendszerek kiépítésével és a lakosság egészséges ivóvízzel való ellátásához kapcsolódó projektek megvalósítására – szakaszolt projektek | 4,94 | kiemelt | Meghirdetve 2015. július 28-án |
 
-| 6. | KEHOP- 2.1.5. | Felhívás ivóvízellátó hálózatok átalakítására, fejlesztésére | 13,51 | kiemelt | Meghirdetve 2016. december 20-án |
+| 6. | KEHOP- 2.1.5. | Felhívás ivóvízellátó hálózatok átalakítására, fejlesztésére | 16,83 | kiemelt | Meghirdetve 2016. december 20-án |
 
 | 6a. |  |  |  |  |  |
 
@@ -82,17 +82,19 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 6e. |  |  |  |  |  |
 
-| 6f. | KEHOP- 2.1.11. | Felhívás víziközmű hálózatok átalakítására, hatékonyságnövelő fejlesztésére, víziközmű rendszerek műszaki állapotának felmérésére, problémák feltárására | 85,00 | standard | 2021. február |
+| 6f. | KEHOP- 2.1.11. | Felhívás víziközmű hálózatok átalakítására, hatékonyságnövelő fejlesztésére, víziközmű rendszerek műszaki állapotának felmérésére, problémák feltárására | 77,00 | standard | Meghirdetve 2021. június 18-án |
 
 | 7. | KEHOP- 2.2.1. | Felhívás szennyvízelvezetés és -tisztítás, szennyvízkezelés megvalósítására | 31,24 | kiemelt | Meghirdetve 2015. július 28-án |
 
-| 8. | KEHOP- 2.2.2. | Felhívás a fejlesztési kötelezettséggel rendelkező települések számára szennyvízelvezetéssel és -kezeléssel kapcsolatos fejlesztések megvalósítására | 322,49 | kiemelt | Meghirdetve 2015. augusztus 31-én |
+| 8. | KEHOP- 2.2.2. | Felhívás a fejlesztési kötelezettséggel rendelkező települések számára szennyvízelvezetéssel és -kezeléssel kapcsolatos fejlesztések megvalósítására | 367,05 | kiemelt | Meghirdetve 2015. augusztus 31-én |
 
 | 9. | KEHOP- 2.2.4. | Felhívás szennyvízelvezetés és -tisztítás, szennyvízkezelés megvalósítására – szakaszolt projektek | 24,05 | kiemelt | Meghirdetve 2015. július 28-án |
 
 | 10. |  |  |  |  |  |
 
-| 10a. | KEHOP- 2.2.7. | Felhívás a 2000 lakosnál kisebb települések szennyvíz mintaprojektjeinek megvalósítására | 5,00 | kiemelt | 2021. január |
+| 10a. | KEHOP- 2.2.7. | Felhívás a 2000 lakosnál kisebb települések szennyvíz mintaprojektjeinek megvalósítására | 5,00 | kiemelt | 2021. július |
+
+| 10b. | KEHOP- 2.2.8. | Víziközmű rendszerekhez kapcsolódó fejlesztések előkészítése a 2021–2027 időszakra | 0,10 | egyszerűsített | 2021. augusztus |
 
 | 11. | KEHOP- 2.4.0. | Felhívás víziközmű rendszerek fejlesztési koncepciójának és költség-haszon elemzésének támogatására | 14,14 | egyszerűsített | Meghirdetve 2017. szeptember 25-én |
 
@@ -106,13 +108,13 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 1b. | KEHOP- 3.1.2. | A biológiailag lebomló hulladék eltérítése a hulladéklerakóktól | 0,89 | egyszerűsített | Meghirdetve 2017. március 30-án |
 
-| 2. | KEHOP- 3.1.4. | A hulladékgazdálkodás állami szintjének hatékonysági fejlesztése | 8,80 | kiemelt | 2021. április |
+| 2. | KEHOP- 3.1.4. | A hulladékgazdálkodás állami szintjének hatékonysági fejlesztése | 8,80 | kiemelt | 2021. augusztus |
 
-| 2a. | KEHOP- 3.1.5. | Szemléletformálás a hulladékgazdálkodás és a körforgásos gazdaság területén | 2,00 | kiemelt | 2021. január |
+| 2a. | KEHOP- 3.1.5. | Szemléletformálás a hulladékgazdálkodás és a körforgásos gazdaság területén | 2,00 | kiemelt | Meghirdetve 2021. január 14-én |
 
-| 3. | KEHOP- 3.2.1. | Az előkezelés, a hasznosítás és az ártalmatlanítás alrendszereinek fejlesztése a települési hulladék vonatkozásában | 105,63 | kiemelt | Meghirdetve 2015. október 1-jén |
+| 3. | KEHOP- 3.2.1. | Az előkezelés, a hasznosítás és az ártalmatlanítás alrendszereinek fejlesztése a települési hulladék vonatkozásában | 131,94 | kiemelt | Meghirdetve 2015. október 1-jén |
 
-| 4. | KEHOP- 3.2.2. | Települési hulladékkezelő létesítmények hálózatának rendszerszerű fejlesztése – szakaszolt projektek | 14,18 | kiemelt | Meghirdetve 2015. július 28-án |
+| 4. | KEHOP- 3.2.2. | Települési hulladékkezelő létesítmények hálózatának rendszerszerű fejlesztése – szakaszolt projektek | 14,77 Meghirdetve 2021. január 14-én | kiemelt | Meghirdetve 2015. július 28-án |
 
 | 5. |  |  |  |  |  |
 
@@ -128,7 +130,9 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 5f. |  |  |  |  |  |
 
-| 5g. | KEHOP- 3.2.11. | A települési hulladékok gyűjtési és válogatási rendszerének fejlesztése, illetve az illegális hulladéklerakással kapcsolatos felszámolási, megelőzési és ingatlanvédelmi feladatok | 37,00 | egyszerűsített | 2021. február |
+| 5g. | KEHOP- 3.2.11. | A települési hulladékok gyűjtési és válogatási rendszerének fejlesztése | 10,00 | egyszerűsített | 2021. augusztus |
+
+| 5h. | KEHOP- 3.2.12. | Hulladékgazdálkodáshoz kapcsolódó fejlesztések előkészítése a 2021–2027 időszakra | 0,10 | egyszerűsített | 2021. augusztus |
 
 | 6. | KEHOP- 3.3.0. | Szennyezett területek kármentesítése | 41,26 | kiemelt | Meghirdetve 2015. október 22-én |
 
@@ -140,13 +144,13 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | KEHOP- 4.1.0. | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi kezelés és bemutatás infrastruktúrájának fejlesztése | 63,51 | kiemelt | Meghirdetve 2015. október 22-én |
+| 2. | KEHOP- 4.1.0. | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi kezelés és bemutatás infrastruktúrájának fejlesztése | 33,53 | kiemelt | Meghirdetve 2015. október 22-én |
 
 | 3. | KEHOP- 4.1.1. | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi kezelés és bemutatás infrastruktúrájának fejlesztése – szakaszolt projektek | 2,51 | kiemelt | Meghirdetve 2015. július 30-án |
 
-| 4. | KEHOP- 4.2.0. | A természetvédelmi őrszolgálat és monitorozó rendszer fejlesztése | 1,74 | kiemelt | Meghirdetve 2015. december 23-án |
+| 4. | KEHOP- 4.2.0. | A természetvédelmi őrszolgálat és monitorozó rendszer fejlesztése | 1,76 | kiemelt | Meghirdetve 2015. december 23-án |
 
-| 5. | KEHOP- 4.3.0- VEKOP-15 | A közösségi jelentőségű természeti értékek hosszú távú megőrzését és fejlesztését, valamint az EU Biológiai Sokféleség Stratégia 2020 célkitűzéseinek hazai szintű megvalósítását megalapozó stratégiai vizsgálatok | 1,22 (ebből VEKOP: 0,37 | kiemelt | Meghirdetve 2015. december 23-án |
+| 5. | KEHOP- 4.3.0- VEKOP-15 | A közösségi jelentőségű természeti értékek hosszú távú megőrzését és fejlesztését, valamint az EU Biológiai Sokféleség Stratégia 2020 célkitűzéseinek hazai szintű megvalósítását megalapozó stratégiai vizsgálatok | 1,23 (ebből VEKOP: 0,37) | kiemelt | Meghirdetve 2015. december 23-án |
 
 5. Az energiahatékonyság növeléséről, megújuló energiaforrások alkalmazásáról szóló 5. prioritás
 
@@ -154,9 +158,9 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | KEHOP-5.1.1. | Megújuló alapú zöldáram-termelés elősegítése 4 MW beépített teljesítményt meghaladó villamosenergia-termelő rendszerek telepítésével | 6,40 | standard | Meghirdetve 2017. március 16-án |
+| 2. | KEHOP-5.1.1. | Megújuló alapú zöldáram-termelés elősegítése 4 MW beépített teljesítményt meghaladó villamosenergia-termelő rendszerek telepítésével | 26,40 | standard | Meghirdetve 2017. március 16-án |
 
-| 3. | KEHOP-5.1.2. | Megújuló alapú zöldáram-termelés elősegítése 0,5 MW beépített teljesítményt nem meghaladó villamosenergia-termelő rendszerek telepítésével | 10,80 | standard | Meghirdetve 2017. március 16-án |
+| 3. | KEHOP-5.1.2. | Megújuló alapú zöldáram-termelés elősegítése 0,5 MW beépített teljesítményt nem meghaladó villamosenergia-termelő rendszerek telepítésével | 12,80 | standard | Meghirdetve 2017. március 16-án |
 
 | 4. | KEHOP-5.1.3. | Megújuló alapú zöldáram-termelés elősegítése a KEOP-7.9.0. konstrukcióban előkészített villamosenergia-termelő rendszerek telepítésével | 1,47 | standard | Meghirdetve 2017. március 22-én |
 
@@ -170,9 +174,9 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 5. | KEHOP-5.2.1. | Egyházi fenntartású kórházak, valamint a Magyar Honvédség Egészségügyi Központ épületenergetikai fejlesztése | 3,88 | kiemelt | Meghirdetve 2015. július 6-án |
 
-| 6. | KEHOP-5.2.2. | Középületek kiemelt épületenergetikai fejlesztései | 180,51 | kiemelt | Meghirdetve 2016. március 10-én |
+| 6. | KEHOP-5.2.2. | Középületek kiemelt épületenergetikai fejlesztései | 177,02 | kiemelt | Meghirdetve 2016. március 10-én |
 
-| 7. | KEHOP-5.2.3. | Egyházak épületenergetikai fejlesztései megújuló energiaforrás hasznosításának lehetőségével | 14,48 | kiemelt | Meghirdetve 2016. szeptember 9-én |
+| 7. | KEHOP-5.2.3. | Egyházak épületenergetikai fejlesztései megújuló energiaforrás hasznosításának lehetőségével | 15,38 | kiemelt | Meghirdetve 2016. szeptember 9-én |
 
 | 8. | KEHOP-5.2.4. | Központi költségvetési szervek energiahatékonysági beruházásai – szakaszolt projektek | 14,59 | kiemelt | Meghirdetve 2016. március 9-én |
 
@@ -190,11 +194,13 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 15. | KEHOP- 5.2.11. | Fotovoltaikus rendszerek kialakítása központi költségvetési szervek részére | 43,19 | standard | Meghirdetve 2016. szeptember 16-án |
 
-| 16. | KEHOP- 5.2.12. | Állami tulajdonú sportlétesítmények energetikai fejlesztése | 4,81 | standard | Meghirdetve 2017. március 27-én |
+| 16. | KEHOP- 5.2.12. | Állami tulajdonú sportlétesítmények energetikai fejlesztése | 5,43 | standard | Meghirdetve 2017. március 27-én |
 
 | 16a. | KEHOP- 5.2.13. | Pályázatos épületenergetikai felhívás egyházak számára | 15,00 | standard | 2019. június |
 
 | 16b. | KEHOP- 5.2.14. | Energiahatékonysági kötelezettségi rendszer beindításának ösztönzése | 4,00 | kiemelt | 2021. január |
+
+| 16c. | KEHOP- 5.2.15. | Középületek energetikai fejlesztéseinek előkészítése | 6,00 | standard | 2021. augusztus |
 
 | 17. | KEHOP-5.3.1. | Távhő-szektor energetikai korszerűsítése | 22,96 | standard | Meghirdetve 2017. március 22-én |
 
@@ -202,18 +208,20 @@ A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési ker
 
 | 18a. | KEHOP-5.3.3. | Közép- Duna menti Kiemelt térség komplex energetika fejlesztésének előkészítése | 1,50 | kiemelt | 2021. január |
 
+| 18b. | KEHOP-5.3.4. | Távhőszolgáltatók megújuló alapú helyi hőigény fejlesztéseinek kielégítése | 19,60 | kiemelt | 2021. augusztus |
+
 | 19. | KEHOP-5.4.1. | Szemléletformálási programok | 0,80 | standard | Meghirdetve 2016. április 1-jén |
 
 | 20. |  |  |  |  |  |
 
 [^1]: Az 1. pont d) alpontja az 1651/2017. (IX. 12.) Korm. határozat 1. pontjával megállapított, az 1476/2020. (VIII. 7.) Korm. határozat 2. pont 2.1. alpontja szerint módosított szöveg.
 [^2]: Az 1. pont e) alpontja az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított, a 2062/2020. (XII. 31.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
-[^3]: Az 1. pont f) alpontját újonnan az 1463/2016. (VIII. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított, az 1476/2020. (VIII. 7.) Korm. határozat 2. pont 2.3. alpontja, a 2062/2020. (XII. 31.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^4]: Az 1. pont g) alpontját az 1625/2017. (IX. 11.) Korm. határozat 3. pontja iktatta be, szövege az 1651/2017. (IX. 12.) Korm. határozat 2. pontjával megállapított, a 2062/2020. (XII. 31.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
-[^5]: Az 1. pont h) alpontját az 1651/2017. (IX. 12.) Korm. határozat 3. pontja iktatta be, szövege az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított, a 2062/2020. (XII. 31.) Korm. határozat 4. pont d) alpontja szerint módosított szöveg.
-[^6]: Az 1. pont i) alpontját az 1905/2017. (XII. 6.) Korm. határozat 1. pontja iktatta be, szövege az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.1. alpontja szerint módosított szöveg.
+[^3]: Az 1. pont f) alpontját újonnan az 1463/2016. (VIII. 24.) Korm. határozat 2. pontja iktatta be, szövege az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított, az 1476/2020. (VIII. 7.) Korm. határozat 2. pont 2.3. alpontja, a 2062/2020. (XII. 31.) Korm. határozat 4. pont b) alpontja, az 1588/2021. (VIII. 11.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont g) alpontját az 1625/2017. (IX. 11.) Korm. határozat 3. pontja iktatta be, szövege az 1651/2017. (IX. 12.) Korm. határozat 2. pontjával megállapított, a 2062/2020. (XII. 31.) Korm. határozat 4. pont c) alpontja, az 1588/2021. (VIII. 11.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^5]: Az 1. pont h) alpontját az 1651/2017. (IX. 12.) Korm. határozat 3. pontja iktatta be, szövege az 1660/2017. (IX. 13.) Korm. határozat 1. pontjával megállapított, a 2062/2020. (XII. 31.) Korm. határozat 4. pont d) alpontja, az 1588/2021. (VIII. 11.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
+[^6]: Az 1. pont i) alpontját az 1905/2017. (XII. 6.) Korm. határozat 1. pontja iktatta be, szövege az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.1. alpontja, az 1588/2021. (VIII. 11.) Korm. határozat 5. pont d) alpontja szerint módosított szöveg.
 [^7]: Az 1. pont j) alpontját az 1636/2018. (XII. 5.) Korm. határozat 5. pontja iktatta be.
 [^8]: Az 1. pont k) alpontját az 1237/2019. (V. 14.) Korm. határozat 4. pontja iktatta be, hatályon kívül helyezte az 1476/2020. (VIII. 7.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^9]: Az 1. pont l) alpontját az 1141/2020. (IV. 8.) Korm. határozat 3. pontja iktatta be.
+[^9]: Az 1. pont l) alpontját az 1141/2020. (IV. 8.) Korm. határozat 3. pontja iktatta be, hatályon kívül helyezte az 1588/2021. (VIII. 11.) Korm. határozat 8. pontja.
 [^10]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja, az 1229/2019. (IV. 23.) Korm. határozat 3. pont a)–c) pontja, az 1237/2019. (V. 14.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.2. alpontja, az 1476/2020. (VIII. 7.) Korm. határozat 1. pont a) alpontja és 2. pont 2.6. alpontja, az 1789/2020. (XI. 11.) Korm. határozat 3. pontja, az 1943/2020. (XII. 17.) Korm. határozat 2. pont b) alpontja, a 2062/2020. (XII. 31.) Korm. határozat 3. pont a) alpontja és 5. pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja, az 1463/2016. (VIII. 24.) Korm. határozat 3. és 5. pontja, az 1717/2016. (XII. 5.) Korm. határozat 3. pontja, az 1208/2017. (IV. 10.) Korm. határozat 3. pont c) alpontja, az 1372/2017. (VI. 12.) Korm. határozat 3. pont c) alpontja, az 1432/2017. (VI. 29.) Korm. határozat 3. pont c) alpontja, az 1581/2017. (VIII. 28.) Korm. határozat 3. pont c) alpontja, az 1599/2017. (VIII. 31.) Korm. határozat 3. pont c) alpontja, az 1651/2017. (IX. 12.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3.–5.7. alpontja, az 1660/2017. (IX. 13.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1905/2017. (XII. 6.) Korm. határozat 2. pont a) alpontja és a 3. pont 3.2.–3.4. alpontja, az 1055/2018. (II. 20.) Korm. határozat 3. pont a) alpontja, az 1268/2018. (VI. 11.) Korm. határozat 1. pont a) alpontja és 2. pont 2.2–2.4. alpontja, az 1636/2018. (XII. 5.) Korm. határozat 6. pont a) alpontja, 8. pontja, az 1229/2019. (IV. 23.) Korm. határozat 3. pont a)–c) pontja, az 1237/2019. (V. 14.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1141/2020. (IV. 8.) Korm. határozat 4. pont 4.2. alpontja, az 1476/2020. (VIII. 7.) Korm. határozat 1. pont a) alpontja és 2. pont 2.6. alpontja, az 1789/2020. (XI. 11.) Korm. határozat 3. pontja, az 1943/2020. (XII. 17.) Korm. határozat 2. pont b) alpontja, a 2062/2020. (XII. 31.) Korm. határozat 3. pont a) alpontja és 5. pontja, az 1588/2021. (VIII. 11.) Korm. határozat 4. pont a) alpontja és 6. pontja szerint módosított szöveg.
