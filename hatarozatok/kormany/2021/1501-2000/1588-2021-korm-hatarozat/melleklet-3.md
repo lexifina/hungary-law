@@ -8,36 +8,6 @@
 
 | 4. | KEHOP- 2.2.2-15- 2016-00095 | Északkelet- Magyarországi szennyvíz- elvezetési és -kezelési fejlesztés 2. (ÉKMO 2) | Gávavencsellő Nagyközség Önkormányzata, Jánd Község Önkormányzata, Vásárosnamény Város Önkormányzata, Aranyosapáti Község Önkormányzata, Mándok Város Önkormányzata, Cigánd Város Önkormányzata, Tiszakarád Község Önkormányzata, Nagyhalász Város Önkormányzata, Beszterec Község Önkormányzata, Tiszatelek Község Önkormányzata és Újdombrád Község Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvíz- elvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 90,566349 | 7 525 192 350 | 783 845 645 | 2 223 518 511 | 0 | – | +751 638 694 | +78 292 845 | +222 091 669 | – | 90,566349 | 8 276 831 044 | 862 138 490 | 2 445 610 180 | 0 | 11 584 579 714 | A beruházás keretében az érintett 2000 lakos egyenérték terhelést meghaladó kibocsátású szennyvízelvezetési agglomeráció megfelelő szennyvízkezelésének feltételei teljesülnek, annak érdekében, hogy a szennyvízközművel való lefedettség megközelítse a közműves ivóvízzel ellátott fogyasztók csaknem 100%-át. A projekttel szembeni szakmai elvárás, hogy Magyarország megfeleljen az uniós jogi követelményeknek a kijelölt határidőig. A beruházás keretében megvalósítják Gávavencsellő község szennyvízcsatornázásának II. ütemét, és megépítik a település szennyvíztisztító telepét, továbbá bővítik és korszerűsítik Vásárosnamény–Gergelyiugornya szennyvíztisztító rendszereit. Jánd településen szennyvízelvezető hálózatot építenek, Aranyosapátiban szennyvízcsatorna-hálózatot építenek ki, és megépítik a település szennyvíztisztító telepét, bővítik és korszerűsítik Mándok város szennyvízelvezető és -tisztító rendszereit, korszerűsítik a Cigánd központú agglomeráció szennyvíztisztító rendszereit, valamint kiépítik a Tiszatelek központú agglomeráció szennyvízelvezető és -tisztító rendszereit. |
 
-3. melléklet az 1588/2021. (VIII. 11.) Korm. határozathoz
+3. melléklet az 1588/2021. (VIII. 11.) Korm. határozathoz[^6]
 
-1. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 2. pontjában foglalt táblázat a következő 10b. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje] |
-
-| 10b. | KEHOP-2.2.8. | Víziközmű rendszerekhez kapcsolódó fejlesztések előkészítése a 2021–2027 időszakra | 0,10 | egyszerűsített | 2021. augusztus |
-
-2. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 3. pontjában foglalt táblázat a következő 5h. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje] |
-
-| 5h. | KEHOP-3.2.12. | Hulladékgazdálkodáshoz kapcsolódó fejlesztések előkészítése a 2021–2027 időszakra | 0,10 | egyszerűsített | 2021. augusztus |
-
-3. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 5. pontjában foglalt táblázat a következő 16c. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje] |
-
-| 16c. | KEHOP-5.2.15. | Középületek energetikai fejlesztéseinek előkészítése | 6,00 | standard | 2021. augusztus |
-
-4. Az 1084/2016. (II. 29.) Korm. határozat 1. melléklet 5. pontjában foglalt táblázat a következő 18b. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje] |
-
-| 18b. | KEHOP-5.3.4. | Távhőszolgáltatók megújuló alapú helyi hőigény fejlesztéseinek kielégítése | 19,60 | kiemelt | 2021. augusztus |
+[^6]: A 3. melléklet a 2021: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
