@@ -1,4 +1,4 @@
-## 17. § Hatályát veszti a Magyar Honvédség jelképeiről és jelzéseiről szóló 3/1996. (IV. 12.) HM rendelet.
+## 17. §[^1]
 
 1. melléklet a 15/2021. (VIII. 11.) HM rendelethez
 
@@ -27,3 +27,5 @@
 1.3.1. 238 centiméter hosszú, henger alakú, skarlátszínűre lakkozott, alsó harmadánál szétcsavarható rúd. A szétcsavarás helyénél sárgaréz gyűrűk, alsó végén sárgaréz kupak zárja le.
 
 1.4. A csapatzászló grafikai megjelenítése
+
+[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
