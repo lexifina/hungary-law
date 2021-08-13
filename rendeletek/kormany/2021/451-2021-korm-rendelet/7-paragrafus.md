@@ -1,3 +1,3 @@
-7. §[^1]
+7. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztéséig meghosszabbítja.
 
-[^1]: A 7. § az 5. § (2) bekezdése alapján 2021. augsztus 13-án lép hatályba.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát veszti.
