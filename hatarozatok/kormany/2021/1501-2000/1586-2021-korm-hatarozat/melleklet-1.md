@@ -12,15 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „178,23%-áig” szövegrész helyébe a „179,49%-áig” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében a „892,366” szövegrész helyébe a „898,659” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:51 mezőjében a „99,55” szövegrész helyébe a „105,97” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1586/2021. (VIII. 11.) Korm. határozathoz
 
@@ -33,3 +25,5 @@
 | 3. | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA (forint) | Az EU felé el nem számolható költségek (forint) |
 
 | 4. | IKOP- 2.1.0-15- 2018-00051 | MÁV-START Zrt. gördülő- állomány fejlesztése 19 db nagykapacitású motorvonat beszerzésével | MÁV-START Zrt. | 100% | 99 550 000 000 | 0 | 0 | 0 | 0 | 6 416 272 846 | 0 | 0 | 0 | 100 % | 105 966 272 846 | 0 | 0 | 0 | 105 966 272 846 | Nagy kapacitású, 160 km/h sebességű elővárosi villamos motorvonatok beszerzése ETCS2 felszereltséggel. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
