@@ -1,4 +1,4 @@
-## 25. [^166] A zárt sugárforrásokra vonatkozó követelmények
+## 25. [^180] A zárt sugárforrásokra vonatkozó követelmények
 
 42. § (1) A Fizvr. 1. melléklete szerint 1., 2. és 3. kategóriába tartozó zárt radioaktív sugárforrás alkalmazása esetén az atomenergia alkalmazója köteles:
 
@@ -20,8 +20,9 @@ d) minden használaton kívüli zárt radioaktív sugárforrást az alkalmazás 
 
 e) mielőtt egy zárt radioaktív sugárforrást más személynek átad – a radioaktív anyag alkalmazására vonatkozó engedély másolatának bekérésével és annak átadás-átvételi jegyzőkönyvhöz történő csatolásával –, megbizonyosodni arról, hogy a zárt radioaktív sugárforrást átvevő rendelkezik-e a megfelelő engedéllyel.
 
-(2) Eszközökbe, berendezésbe szerelt vagy tárolóeszközben tartósan tárolt sugárforrás esetén a szabvány szerinti közvetett, egyéb esetben közvetett zártságvizsgálati módszert kell alkalmazni. Ha eszközből, berendezésből zárt sugárforrást kiszerelnek, vagy tartós tárolás esetén tárolóeszközből zárt sugárforrást kiemelnek, a zártságvizsgálatot haladéktalanul végre kell hajtani, melynek módszerét a kiszerelés körülményeitől függően, a sugárvédelmi optimálás alapelvét alkalmazva kell kiválasztani.
+(2)[^181] Eszközökbe, berendezésbe szerelt vagy tárolóeszközben tartósan tárolt sugárforrás esetén a szabvány szerinti közvetett, egyéb esetben közvetlen zártságvizsgálati módszert kell alkalmazni. Ha eszközből, berendezésből zárt sugárforrást kiszerelnek, vagy tartós tárolás esetén tárolóeszközből zárt sugárforrást kiemelnek, a zártságvizsgálatot haladéktalanul végre kell hajtani, melynek módszerét a kiszerelés körülményeitől függően, a sugárvédelmi optimálás alapelvét alkalmazva kell kiválasztani.
 
 (3) A zártságvizsgálatot sugárvédelmi szakértő vagy az 53. § (1) bekezdés 4. pontja szerinti engedéllyel rendelkező végezheti, vagy végrehajthatja az engedélyes is, ha a 8. melléklet szerinti MSSZ tartalmazza a zártságvizsgálat szakszerű és biztonságos elvégzésnek technológiai leírását.
 
-[^166]: A 25. alcím (42. §) a 27/2018. (II. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^180]: A 25. alcím (42. §) a 27/2018. (II. 28.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^181]: A 42. § (2) bekezdése a 423/2021. (VII. 15.) Korm. rendelet 6. § (13) bekezdés 11. pontja szerint módosított szöveg.

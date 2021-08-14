@@ -4,7 +4,7 @@ a) a kiértékelési periódusonként az engedélyesnek és a külső munkaváll
 
 b) kérelmére az érintett munkavállaló rendelkezésére bocsátja,
 
-c)[^123] folyamatosan rendelkezésre bocsátja az Elektronikus Egészségügyi Szolgáltatási Téren keresztül az illetékes foglalkozás-egészségügyi szolgálatnak, annak érdekében, hogy az az (5) bekezdésben foglaltaknak megfelelően értékelhesse az eredmények egészségügyi következményeit, valamint a sugársérültek ellátására a kijelölt kórházak, továbbá az illetékes hatóságok részére.
+c)[^135] folyamatosan rendelkezésre bocsátja az Elektronikus Egészségügyi Szolgáltatási Téren keresztül az illetékes foglalkozás-egészségügyi szolgálatnak, annak érdekében, hogy az az (5) bekezdésben foglaltaknak megfelelően értékelhesse az eredmények egészségügyi következményeit, valamint a sugársérültek ellátására a kijelölt kórházak, továbbá az illetékes hatóságok részére.
 
 (2) Az engedélyes – külső munkavállaló esetén a munkáltató – a munkavállaló kérésére biztosítja, hogy az érintett munkavállaló betekinthessen
 
@@ -14,11 +14,11 @@ b) a munkahelyek felügyelete során rá vonatkozóan végzett dózis-meghatáro
 
 (3) Veszélyhelyzet esetén az engedélyes köteles haladéktalanul közölni a személyi dozimetriai monitorozás és a dózis-meghatározás eredményeit az érintett személlyel és az Országos Személyi Dozimetriai Nyilvántartással, külső munkavállalók esetén a munkáltatóval is.
 
-(4)[^124] A sugárveszélyes munkakörben foglalkoztatásra, vagy az „A” kategóriájú munkakörbe átsorolásra való alkalmasságról előzetes foglalkozás-egészségügyi orvosi vizsgálat dönt. Az orvosi vizsgálat végrehajtásához és a munkavállaló további sugárterhelés ellenőrzés alatt tartásának támogatásához szükséges adatokat az engedélyes – külső munkavállaló esetében a munkáltató –, az OAH, a foglalkozás-egészségügyi szolgálat, a sugárvédelmi szakértő és az illetékes dozimetriai szolgálat egymás rendelkezésére bocsátják.
+(4)[^136] A sugárveszélyes munkakörben foglalkoztatásra, vagy az „A” kategóriájú munkakörbe átsorolásra való alkalmasságról előzetes foglalkozás-egészségügyi orvosi vizsgálat dönt. Az orvosi vizsgálat végrehajtásához és a munkavállaló további sugárterhelés ellenőrzés alatt tartásának támogatásához szükséges adatokat az engedélyes – külső munkavállaló esetében a munkáltató –, az OAH, a foglalkozás-egészségügyi szolgálat, a sugárvédelmi szakértő és az illetékes dozimetriai szolgálat egymás rendelkezésére bocsátják.
 
-(5)[^125] Több munkáltatónál munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló alkalmazott esetében valamennyi munkáltató köteles a munkavállaló számára hatósági személyi dózismérőt biztosítani, függetlenül a munkavállaló dozimetriai besorolásától. A munkavégzés szempontjából a főfoglalkozás melletti önfoglalkoztató is munkáltatónak minősül.
+(5)[^137] Több munkáltatónál munkaviszonyban vagy egyéb munkavégzésre irányuló jogviszonyban álló alkalmazott esetében valamennyi munkáltató köteles a munkavállaló számára hatósági személyi dózismérőt biztosítani, függetlenül a munkavállaló dozimetriai besorolásától. A munkavégzés szempontjából a főfoglalkozás melletti önfoglalkoztató is munkáltatónak minősül.
 
-(6)[^126] Az Országos Személyi Dozimetriai Nyilvántartás:
+(6)[^138] Az Országos Személyi Dozimetriai Nyilvántartás:
 
 a) az ionizáló sugárzást alkalmazó külföldi munkahelyeken munkát vállaló magyar állampolgárok számára – a munkavállaló kérésére – a munkavállaláshoz előzetesen szükséges dozimetriai igazolást állít ki,
 
@@ -26,7 +26,7 @@ b) az ionizáló sugárzást alkalmazó külföldi munkahelyeken munkát vállal
 
 c) az ionizáló sugárzást alkalmazó hazai munkahelyeken munkát vállaló külföldi állampolgárok külföldi sugárvédelmi hatóság által kiállított dozimetriai igazolásait nyilvántartásba veszi.
 
-[^123]: A 32. § (1) bekezdés c) pontja a 27/2018. (II. 28.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^124]: A 32. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 19. pontja szerint módosított szöveg.
-[^125]: A 32. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
-[^126]: A 32. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^135]: A 32. § (1) bekezdés c) pontja a 27/2018. (II. 28.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^136]: A 32. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 19. pontja szerint módosított szöveg.
+[^137]: A 32. § (5) bekezdése a 27/2018. (II. 28.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^138]: A 32. § (6) bekezdését a 27/2018. (II. 28.) Korm. rendelet 30. § (2) bekezdése iktatta be.

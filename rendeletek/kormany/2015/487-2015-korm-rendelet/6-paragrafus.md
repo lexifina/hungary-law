@@ -6,9 +6,9 @@
 
 (3) Tilos a (2) bekezdésben meghatározottak szerint megnövelt aktivitású termékek forgalomba hozatala, behozatala és kivitele.
 
-(4)[^50] Tilos olyan sugárvédelmi szempontból jelentőséggel bíró, a 2. § alapján nem mentesíthető fogyasztási cikkek gyártása, forgalomba hozatala vagy a lakosság rendelkezésre bocsátása, amelyek tervezett felhasználása nem indokolt.
+(4)[^53] Tilos olyan sugárvédelmi szempontból jelentőséggel bíró, a 2. § alapján nem mentesíthető fogyasztási cikkek gyártása, forgalomba hozatala vagy a lakosság rendelkezésre bocsátása, amelyek tervezett felhasználása nem indokolt.
 
-(5)[^51] Amennyiben egy termék kapcsán felmerül, hogy e rendelet 6. §-a hatálya alá tartozik, a forgalmazót az OAH felszólítja kockázat-elemzést tartalmazó szakvélemény készítésére, melynek ki kell térnie
+(5)[^54] Amennyiben egy termék kapcsán felmerül, hogy e rendelet 6. §-a hatálya alá tartozik, a forgalmazót az OAH felszólítja kockázat-elemzést tartalmazó szakvélemény készítésére, melynek ki kell térnie
 
 a) az aktivitás megnövelésével járó tevékenység szándékosságának megállapítása,
 
@@ -26,8 +26,8 @@ g) a végfelhasználó, fogyasztó tájékoztatását szolgáló címkéken tal�
 
 ## vizsgálatára.
 
-(6)[^52] A sugárvédelmi szakértő által készített szakvélemény alapján az OAH engedélyezheti, megtilthatja, vagy további feltételekhez kötheti a termék kereskedelmi forgalomba hozatalát, illetve mentesítheti azt a hatósági felügyelet alól.
+(6)[^55] A sugárvédelmi szakértő által készített szakvélemény alapján az OAH engedélyezheti, megtilthatja, vagy további feltételekhez kötheti a termék kereskedelmi forgalomba hozatalát, illetve mentesítheti azt a hatósági felügyelet alól.
 
-[^50]: A 6. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 13. pontja szerint módosított szöveg.
-[^51]: A 6. § (5) bekezdés nyitó szövegrésze a 27/2018. (II. 28.) Korm. rendelet 56. § 14. pontja szerint módosított szöveg.
-[^52]: A 6. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 15. pontja szerint módosított szöveg.
+[^53]: A 6. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 13. pontja szerint módosított szöveg.
+[^54]: A 6. § (5) bekezdés nyitó szövegrésze a 27/2018. (II. 28.) Korm. rendelet 56. § 14. pontja szerint módosított szöveg.
+[^55]: A 6. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 15. pontja szerint módosított szöveg.

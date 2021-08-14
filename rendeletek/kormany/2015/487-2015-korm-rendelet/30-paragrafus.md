@@ -6,15 +6,15 @@ a) „A” kategória: azok a sugárterhelésnek kitett munkavállalók, akiknek
 
 b) „B” kategória: azok a sugárterhelésnek kitett munkavállalók, akik nem tartoznak az „A” kategóriába.
 
-(2)[^112] Az engedélyes – külső munkavállalók esetében a munkáltató az engedélyessel egyetértésben – az egyes munkavállalók alkalmasságáról és besorolásáról azok munkába állását megelőzően dönt. E besorolást a munkahelyi feltételek és az orvosi felügyelet alapján az engedélyesek – külső munkavállalók esetében a munkáltató az engedélyessel egyetértésben – rendszeresen felülvizsgálják.
+(2)[^121] Az engedélyes – külső munkavállalók esetében a munkáltató az engedélyessel egyetértésben – az egyes munkavállalók alkalmasságáról és besorolásáról azok munkába állását megelőzően dönt. E besorolást a munkahelyi feltételek és az orvosi felügyelet alapján az engedélyesek – külső munkavállalók esetében a munkáltató az engedélyessel egyetértésben – rendszeresen felülvizsgálják.
 
-(3)[^113] Az „A” kategóriába sorolt munkavállalók kötelesek a röntgen- és gamma-sugárzásból származó külső sugárterhelés mérésére alkalmas, a munkáltatótól független dozimetriai szolgáltató által biztosított, hatósági személyi dózismérőt viselni.
+(3)[^122] Az „A” kategóriába sorolt munkavállalók kötelesek a röntgen- és gamma-sugárzásból származó külső sugárterhelés mérésére alkalmas, a munkáltatótól független dozimetriai szolgáltató által biztosított, hatósági személyi dózismérőt viselni.
 
-(4)[^114] Az engedélyes további célzott személyi dozimetriai ellenőrző intézkedéseket tesz, ha az „A” kategóriába tartozó munkavállalóknak a belső sugárterhelése, a tiszta-béta bomló izotópoktól vagy neutron-sugárzásból származó külső sugárterhelése vagy a szemlencsét vagy a végtagokat érő sugárterhelése meghaladhatja a vonatkozó dóziskorlát 1/10-ét.
+(4)[^123] Az engedélyes további célzott személyi dozimetriai ellenőrző intézkedéseket tesz, ha az „A” kategóriába tartozó munkavállalóknak a belső sugárterhelése, a tiszta-béta bomló izotópoktól vagy neutron-sugárzásból származó külső sugárterhelése vagy a szemlencsét vagy a végtagokat érő sugárterhelése meghaladhatja a vonatkozó dóziskorlát 1/10-ét.
 
 (5) A „B” kategóriába sorolt munkavállalók esetében az engedélyes felelőssége a besorolás helyességének monitorozással történő alátámasztása. A hatósági felügyeleti tevékenysége keretében az OAH a „B” kategóriába tartozó munkavállalók körében is előírhatja a személyi monitorozást és – szükség esetén – a személyi méréseket.
 
-(6)[^115] Azokban a sugárveszélyes munkakörökben, ahol fennáll annak a lehetősége, hogy a munkavállalók külső sugárterhelése a hatósági személyi dózismérő egy ellenőrzési periódusára vonatkoztatva a 6 mSv effektív dózist meghaladja, a független dozimetriai szolgáltató által biztosított hatósági személyi dózismérő mellett, az engedélyes által rendelkezésre bocsátott, folyamatos működésű és kijelzésű, a helyszínen leolvasható és – a munkavégzési feltételektől függően – hang-, rezgés-, illetve fényjelzést adó, rendszeresen kalibrált vagy hitelesített elektronikus személyi dózisegyenérték-mérőt is használni kell.
+(6)[^124] Azokban a sugárveszélyes munkakörökben, ahol fennáll annak a lehetősége, hogy a munkavállalók külső sugárterhelése a hatósági személyi dózismérő egy ellenőrzési periódusára vonatkoztatva a 6 mSv effektív dózist meghaladja, a független dozimetriai szolgáltató által biztosított hatósági személyi dózismérő mellett, az engedélyes által rendelkezésre bocsátott, folyamatos működésű és kijelzésű, a helyszínen leolvasható és – a munkavégzési feltételektől függően – hang-, rezgés-, illetve fényjelzést adó, rendszeresen kalibrált vagy hitelesített elektronikus személyi dózisegyenérték-mérőt is használni kell.
 
 (7) Ha a légi járművek személyzetét érő effektív dózis meghaladhatja az évi 1 mSv értéket, a munkáltató:
 
@@ -24,25 +24,25 @@ b) az értékelt sugárterhelést figyelembe veszi a munkarend megszervezésébe
 
 c) tájékoztatja az érintett munkavállalókat a munkájukkal összefüggő egészségi kockázatokról és a személyi dózis nagyságáról,
 
-d)[^116] az a) pont szerinti értékelést megküldi tájékoztatásul az OAH részére.
+d)[^125] az a) pont szerinti értékelést megküldi tájékoztatásul az OAH részére.
 
-(8)[^117] Ha a légi járművek személyzetét érő effektív dózis kozmikus sugárzás hatására meghaladhatja az évi 6 mSv értéket, a munkáltatónak a 22–39. §-ban meghatározott, az adott esetre vonatkozó követelményeit kell alkalmazni.
+(8)[^126] Ha a légi járművek személyzetét érő effektív dózis kozmikus sugárzás hatására meghaladhatja az évi 6 mSv értéket, a munkáltatónak a 22–39. §-ban meghatározott, az adott esetre vonatkozó követelményeit kell alkalmazni.
 
-(9)[^118] A röntgen-, gamma-, béta- vagy neutron-sugárzásból származó külső személyi sugárterhelés ellenőrzésére alkalmazott személyi dózismérőknek a mérésügyről szóló törvény szerinti hitelesítéssel kell rendelkezniük. Ha a személyi dózismérőkből a mérési adatok kinyeréséhez a helyszíni adatkiolvasáson túlmenően egyéb fizikai-kémiai művelet is szükséges, a műveletet végző, dózismérőt értékelő laboratóriumnak akkreditációval kell rendelkeznie.
+(9)[^127] A röntgen-, gamma-, béta- vagy neutron-sugárzásból származó külső személyi sugárterhelés ellenőrzésére alkalmazott személyi dózismérőknek a mérésügyről szóló törvény szerinti hitelesítéssel kell rendelkezniük. Ha a személyi dózismérőkből a mérési adatok kinyeréséhez a helyszíni adatkiolvasáson túlmenően egyéb fizikai-kémiai művelet is szükséges, a műveletet végző, dózismérőt értékelő laboratóriumnak akkreditációval kell rendelkeznie.
 
 (10) A belső sugárterhelésnek kitett személyek esetén a megfelelő dozimetriai mérésekről, az engedélyezés keretében jóváhagyott MSSZ-nek megfelelően az engedélyes gondoskodik.
 
 (11) A belső sugárterhelés vizsgálatát végző laboratóriumnak akkreditációval kell rendelkeznie.
 
-(12)[^119] Ha valamely személy esetén a személyi dozimetriai méréseket nem lehetséges végrehajtani, a személyi monitorozást a sugárterhelésnek kitett más munkavállalókon végzett személyi mérések, a munkahelyek 27. § és 28. § szerinti felügyeletének eredményei, nem akkreditált, de validált és verifikált vizsgálatok vagy számítási módszerek alapján kapott becsült értékek felhasználásával is meg lehet állapítani. Az erre vonatkozó módszertant és megfelelőségének értékelését, továbbá a (11) bekezdéstől való eltérés indoklását a 7. számú melléklet szerint elkészített Sugárvédelmi Leírásba kell foglalni.
+(12)[^128] Ha valamely személy esetén a személyi dozimetriai méréseket nem lehetséges végrehajtani, a személyi monitorozást a sugárterhelésnek kitett más munkavállalókon végzett személyi mérések, a munkahelyek 27. § és 28. § szerinti felügyeletének eredményei, nem akkreditált, de validált és verifikált vizsgálatok vagy számítási módszerek alapján kapott becsült értékek felhasználásával is meg lehet állapítani. Az erre vonatkozó módszertant és megfelelőségének értékelését, továbbá a (11) bekezdéstől való eltérés indoklását a 7. számú melléklet szerint elkészített Sugárvédelmi Leírásba kell foglalni.
 
 (13) Veszélyhelyzet esetén az engedélyes köteles gondoskodni az adott személy által elszenvedett dózisoknak és azok testen belüli eloszlásának meghatározásáról.
 
-[^112]: A 30. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^113]: A 30. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^114]: A 30. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^115]: A 30. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
-[^116]: A 30. § (7) bekezdés d) pontját a 27/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
-[^117]: A 30. § (8) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
-[^118]: A 30. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (4) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 13. § 23. pontja szerint módosított szöveg.
-[^119]: A 30. § (12) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (5) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 13. § 24. pontja szerint módosított szöveg.
+[^121]: A 30. § (2) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^122]: A 30. § (3) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^123]: A 30. § (4) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^124]: A 30. § (6) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^125]: A 30. § (7) bekezdés d) pontját a 27/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^126]: A 30. § (8) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (4) bekezdésével megállapított szöveg.
+[^127]: A 30. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (4) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 13. § 23. pontja szerint módosított szöveg.
+[^128]: A 30. § (12) bekezdése a 27/2018. (II. 28.) Korm. rendelet 29. § (5) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 13. § 24. pontja szerint módosított szöveg.

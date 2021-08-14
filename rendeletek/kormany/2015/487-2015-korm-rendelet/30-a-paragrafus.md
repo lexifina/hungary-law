@@ -1,8 +1,8 @@
-30/A. §[^120] (1) A röntgen- és gamma-sugárzásból származó külső sugárterhelés mérésére alkalmas hatósági személyi dózismérő biztosítása érdekében:
+30/A. §[^129] (1)[^130] A röntgen- és gamma-sugárzásból származó külső sugárterhelés mérésére alkalmas hatósági személyi dózismérő biztosítása érdekében:
 
-a)[^121] az OAH megbízásából az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata mint dozimetriai szolgáltató biztosítja a hatósági dózismérők rendelkezésre állását. Az OAH által így biztosított hatósági dózismérők kiértékeléséért, valamint pótlásáért az atomenergia alkalmazója igazgatási szolgáltatási díjat köteles fizetni,
+a)[^131] az OAH megbízásából az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata mint dozimetriai szolgáltató biztosítja a hatósági dózismérők rendelkezésre állását. Az OAH által így biztosított hatósági dózismérők kiértékeléséért, valamint pótlásáért az atomenergia alkalmazója igazgatási szolgáltatási díjat köteles fizetni,
 
-b) az atomenergia alkalmazója az a) pontban megjelölt dozimetriai szolgáltató helyett más, az OAH által a (2) bekezdés e) pontja szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltató szolgáltatását is igénybe veheti.
+b)[^132] az atomenergia alkalmazója az a) pontban megjelölt dozimetriai szolgáltató helyett más, az OAH által a 57. § (10) bekezdés szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltató szolgáltatását is igénybe veheti.
 
 (2) A hatósági személyi dózismérőt biztosító dozimetriai szolgáltatókkal szemben támasztott követelmények az alábbiak:
 
@@ -30,7 +30,7 @@ fe) rendkívüli esetekben a beérkezett dózismérő 3 órán belül kiértéke
 
 g) a dózismérők elvesztése, megrongálódása esetére a dozimetriai szolgáltató köteles tartalék kapacitás rendelkezésre állását biztosítani,
 
-h)[^122] a kiértékelő eszközök meghibásodása, anyagi, pénzügyi vagy személyi erőforráshiányok esetén a dozimetriai szolgáltatás biztosítására a dozimetriai szolgáltató – az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata kivételével – köteles más, az OAH által a (2) bekezdés e) pontja szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltatóval együttműködési megállapodást kötni.
+h)[^133] a kiértékelő eszközök meghibásodása, anyagi, pénzügyi vagy személyi erőforráshiányok esetén a dozimetriai szolgáltatás biztosítására a dozimetriai szolgáltató – az országos tisztifőorvos Országos Személyi Dozimetriai Szolgálata kivételével – köteles más, az OAH által a (2) bekezdés e) pontja szerint regisztrált, az atomenergia alkalmazójától független dozimetriai szolgáltatóval együttműködési megállapodást kötni.
 
 (3) A dozimetriai szolgáltatók a szolgáltatásaik igénybevételére az atomenergia alkalmazóival szerződést kötnek.
 
@@ -44,8 +44,11 @@ b) a 60. § (9) bekezdésében meghatározott feltételek teljesülését.
 
 (6) A dozimetriai szolgáltató az OAH vagy a megbízók kérésére haladéktalanul elvégzi a hatósági dózismérők rendkívüli kiértékelését, amennyiben a munkavállaló jelentős sugárterhelése következik be, vagy annak gyanúja merül fel.
 
-(7) A dozimetriai szolgáltatók működésük megkezdését az OAH részére bejelentik. A bejelentés tartalmazza az 54. § (14) bekezdés b)–e) pontjában, valamint a (2) bekezdés a) pontjában megjelölt információkat, igazolásokat és dokumentummintákat.
+(7)[^134] A dozimetriai szolgáltatók működésük megkezdését az OAH részére bejelentik. A bejelentés tartalmazza az 54. § (14) bekezdés b)–e) pontjában, valamint a (2) bekezdés a) pontjában megjelölt információkat, igazolásokat és dokumentummintákat.
 
-[^120]: A 30/A. §-t a 27/2018. (II. 28.) Korm. rendelet 29. § (6) bekezdése iktatta be.
-[^121]: A 30/A. § (1) bekezdés a) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
-[^122]: A 30/A. § (2) bekezdés h) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^129]: A 30/A. §-t a 27/2018. (II. 28.) Korm. rendelet 29. § (6) bekezdése iktatta be.
+[^130]: A 30/A. § (1) bekezdés h) pontjában a 423/2021. (VII. 15.) Korm. rendelet 6. § (13) bekezdés 7. pontjával elrendelt módosítás nem vezethető át.
+[^131]: A 30/A. § (1) bekezdés a) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^132]: A 30/A. § (1) bekezdés b) pontja a 423/2021. (VII. 15.) Korm. rendelet 6. § (13) bekezdés 6. pontja szerint módosított szöveg.
+[^133]: A 30/A. § (2) bekezdés h) pontja a 162/2018. (IX. 10.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^134]: A 30/A. § (1) bekezdés b) pontja a 423/2021. (VII. 15.) Korm. rendelet 6. § (13) bekezdés 6. pontja szerint módosított szöveg. [A 30/A. § (7) bekezdésében a 423/2021. (VII. 15.) Korm. rendelet 6. § (13) bekezdés 8. pontjával elrendelt módosítás, amely szerint az „54. § (14) bekezdés b)–e) pontjaiban” szövegrész helyébe a „30/A. § (2) bekezdés a)–e) pontjaiban” szöveg lép, nem vezethető át.]

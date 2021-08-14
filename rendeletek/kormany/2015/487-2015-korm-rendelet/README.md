@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-487-20-
 | 2020-03-21 | 2015-487-20-22.8 | 36/2020. (III. 5.) Korm. rendelet |
 | 2020-07-01 | 2015-487-20-22.9 | 36/2020. (III. 5.) Korm. rendelet |
 | 2020-08-07 | 2015-487-20-22.10 | 356/2020. (VII. 23.) Korm. rendelet |
+| 2021-08-14 | 2015-487-20-22.11 | 423/2021. (VII. 15.) Korm. rendelet |

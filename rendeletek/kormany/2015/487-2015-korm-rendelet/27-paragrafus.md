@@ -2,7 +2,7 @@
 
 a) ahol a tevékenységből adódóan az évi egyéni sugárterhelés meghaladhatja az 1 mSv effektív dózist, a szemlencse esetében a 15 mSv egyenértékdózist, a bőr és a végtagok esetében a 12. § (3) bekezdésben meghatározott egyenértékdózis-korlátok 10%-át, vagy
 
-b)[^109] ahol a radioaktív szennyeződés terjedését vagy az esetleges veszélyhelyzeti sugárterhelés valószínűségét korlátozni kell.
+b)[^115] ahol a radioaktív szennyeződés terjedését vagy az esetleges veszélyhelyzeti sugárterhelés valószínűségét korlátozni kell.
 
 (2) Az ellenőrzött területen a sugárterhelés korlátozásának és az esetleges veszélyhelyzeti sugárterhelés valószínűségének csökkentése érdekében, illetve radioaktív szennyeződés terjedésének megakadályozása céljából a következő sugárvédelmi intézkedéseket és biztonsági előírásokat kell betartani:
 
@@ -12,7 +12,7 @@ b) a páciens, a gondozó és a segítő kivételével az ellenőrzött terület
 
 c) különleges intézkedéseket kell alkalmazni azon a területen, ahol fennáll a radioaktív szennyeződés terjedésének jelentős kockázata; ezeknek a különleges intézkedéseknek ki kell terjedniük a személyek és az áruk be- és kiléptetésére, valamint az ellenőrzött terület és adott esetben a szomszédos terület szennyeződésének monitorozására,
 
-d) a radiológiai kockázatok jellegét és nagyságát figyelembe véve meg kell szervezni az ellenőrzött terület sugárvédelmi felügyeletét, hitelesített műszerekkel történő sugárvédelmi ellenőrzését,
+d)[^116] a radiológiai kockázatok jellegét és nagyságát figyelembe véve meg kell szervezni az ellenőrzött terület sugárvédelmi felügyeletét, a dózisteljesítmény, a radionuklidok légköri aktivitáskoncentrációjának, illetve a felületi szennyezettség mérésével,
 
 e) a radiológiai kockázatokhoz és az érintett műveletekhez igazodó, az MSSZ-ben rögzített munkahelyi utasításokat kell meghatározni,
 
@@ -28,4 +28,5 @@ b) az egészségügyi szolgáltató tevékenység.
 
 (4) A (2) bekezdésben felsorolt előírások bevezetése és végrehajtása során az atomenergia alkalmazója figyelembe veszi a sugárvédelmi szakértőtől kapott észrevételeket.
 
-[^109]: A 27. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 18. pontja szerint módosított szöveg.
+[^115]: A 27. § (1) bekezdés b) pontja a 27/2018. (II. 28.) Korm. rendelet 56. § 18. pontja szerint módosított szöveg.
+[^116]: A 27. § (2) bekezdés d) pontja a 423/2021. (VII. 15.) Korm. rendelet 6. § (13) bekezdés 3. pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 ## 1.1.2. Az ionizáló sugárzás veszélyével járó technológiai folyamatok leírása: A technológiai folyamatok részletes ismertetése a radioaktív anyag vagy ionizáló sugárzást létrehozó berendezés alkalmazási módja tekintetében
 
-## 1.1.3. Az ionizáló sugárzás alkalmazásához köthető kockázatok bemutatása az ionizáló sugárzásnak kitett csoportok, az ionizáló sugárzás típusai és a jellemző besugárzási útvonalak, vagy a várható sugárterhelések nagyságrendjének ismertetésével
+## 1.1.3. Az ionizáló sugárzás alkalmazásához köthető kockázatok bemutatása az ionizáló sugárzásnak kitett csoportok, az ionizáló sugárzás típusai és a jellemző besugárzási útvonalak, és a várható sugárterhelések nagyságrendjének ismertetésével
 
 ## 2. A sugárveszélyes munkahely kialakításának értékelése
 
@@ -102,7 +102,7 @@
 
 |  | 3 | □ Lejárt engedély megújítása | A meglévő engedély száma: |
 
-|  | 4 | □ Átalakítási engedély | A meglévő engedély száma: |
+|  | 4 |  |  |
 
 ## 2. A SUGÁRVESZÉLYES TEVÉKENYSÉGÉRT FELELŐS SZERVEZET
 
@@ -246,8 +246,6 @@
 
 |  | □ | Lejárt engedély megújítása | A meglévő engedély száma: |
 
-|  | □ | Átalakítási engedély | A meglévő engedély száma: |
-
 ## 2. A SUGÁRVESZÉLYES TEVÉKENYSÉGÉRT FELELŐS SZERVEZET
 
 | Intézmény/Vállalkozás/Cég neve |  |
@@ -370,8 +368,6 @@
 
 |  | □ | Lejárt engedély megújítása | A meglévő engedély száma: |
 
-|  | □ | Átalakítási engedély | A meglévő engedély száma: |
-
 ## 2. A SUGÁRVESZÉLYES TEVÉKENYSÉGET VÉGZŐ SZERVEZET
 
 | Intézmény/Vállalkozás/Cég neve |  |
@@ -442,14 +438,10 @@
 
 ## Kérelmet benyújtó cégszerű aláírása:
 
-8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^292]
+8. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^315]
 
 A Munkahelyi Sugárvédelmi Szabályzat tartalmi követelményei
 
 1. A sugárvédelem szervezeti rendszere
 
-1.1. A sugárvédelmi szervezet felépítése és feladatai, a sugárvédelmi megbízott(ak) feladatai
-
-1.1.1. A sugárvédelem szervezeti felépítése: az engedélyes, valamint a sugárveszélyes munkavégzésnek helyt adó létesítmény vezetői, a sugárvédelmi megbízott, a munkahelyi sugárvédelmi szervezet szervezeti, hierarchikus kapcsolata
-
-[^292]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (6) bekezdése szerint módosított szöveg.
+[^315]: A 8. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (4) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (6) bekezdése szerint módosított szöveg.

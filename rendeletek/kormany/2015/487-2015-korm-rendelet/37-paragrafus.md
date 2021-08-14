@@ -1,6 +1,6 @@
-## 36. §[^140] Az engedélyes a sugárvédelemmel kapcsolatos feladatainak ellátását sugárvédelmi szakértő és sugárvédelmi megbízott bevonásával végzi.
+## 36. §[^152] Az engedélyes a sugárvédelemmel kapcsolatos feladatainak ellátását sugárvédelmi szakértő és sugárvédelmi megbízott bevonásával végzi.
 
-37. §[^141] (1) Az atomenergia alkalmazójának a foglalkozási és a lakossági sugárterheléssel kapcsolatban alkalmazandó jogszabályi előírásoknak való megfeleléssel összefüggő kérdésekben történő tanácsadás érdekében sugárvédelmi szakértőt kell igénybe vennie.
+37. §[^153] (1) Az atomenergia alkalmazójának a foglalkozási és a lakossági sugárterheléssel kapcsolatban alkalmazandó jogszabályi előírásoknak való megfeleléssel összefüggő kérdésekben történő tanácsadás érdekében sugárvédelmi szakértőt kell igénybe vennie.
 
 (2) A sugárvédelmi szakértőt az atomenergia alkalmazója írásban bízza meg. A megbízást az atomenergia alkalmazójának vezető tisztségviselője és a sugárvédelmi szakértő aláírásával igazolja.
 
@@ -66,14 +66,13 @@ d) a 8. mellékletben meghatározott MSSZ elkészítéséhez.
 
 a) az 53. § (1) bekezdés 1., 2., 4., 7., 9–13. és 16–18. pontjaiban vagy
 
-b) az 53. § (2) bekezdésében
-
-foglalt engedélyek iránti kérelmet és azok mellékletekeit.
+b)[^154]
 
 (9) A sugárvédelmi szakértő szükség szerint egyeztet az orvosi fizikus szakértővel.
 
-(10)[^142] A sugárvédelmi szakértőnek a sugárveszélyes tevékenység jellegének megfelelő sugárvédelmi szakirányú képesítéssel kell rendelkeznie. A sugárvédelmi szakértői tevékenység ellátásához szükséges szakmai ismereteket, képesítési feltételeket és szakmai gyakorlatokat, valamint a kérelmezhető szakirányokat a 9. melléklet tartalmazza.
+(10)[^155] A sugárvédelmi szakértőnek a sugárveszélyes tevékenység jellegének megfelelő sugárvédelmi szakirányú képesítéssel kell rendelkeznie. A sugárvédelmi szakértői tevékenység ellátásához szükséges szakmai ismereteket, képesítési feltételeket és szakmai gyakorlatokat, valamint a kérelmezhető szakirányokat a 9. melléklet tartalmazza.
 
-[^140]: A 36. § a 27/2018. (II. 28.) Korm. rendelet 57. § f) pontja szerint módosított szöveg.
-[^141]: A 37. § a 27/2018. (II. 28.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^142]: A 37. § (10) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (9) bekezdésével megállapított szöveg.
+[^152]: A 36. § a 27/2018. (II. 28.) Korm. rendelet 57. § f) pontja szerint módosított szöveg.
+[^153]: A 37. § a 27/2018. (II. 28.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^154]: A 37. § (8) bekezdés b) pontját a 423/2021. (VII. 15.) Korm. rendelet 6. § (14) bekezdés e) pontja hatályon kívül helyezte.
+[^155]: A 37. § (10) bekezdése a 36/2020. (III. 5.) Korm. rendelet 11. § (9) bekezdésével megállapított szöveg.

@@ -86,6 +86,6 @@
 
 ## 17. timföldgyártás és -feldolgozás.
 
-7. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^291]
+7. melléklet a 487/2015. (XII. 30.) Korm. rendelethez[^314]
 
-[^291]: A 7. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (5) bekezdése szerint módosított szöveg.
+[^314]: A 7. melléklet a 27/2018. (II. 28.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 36/2020. (III. 5.) Korm. rendelet 12. § (5) bekezdése, a 423/2021. (VII. 15.) Korm. rendelet 6. § (13) bekezdés 17. pontja és (14) bekezdés j)–l) pontja szerint módosított szöveg.

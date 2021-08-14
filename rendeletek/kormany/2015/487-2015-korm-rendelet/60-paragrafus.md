@@ -8,7 +8,7 @@
 
 (4) Az OAH jogosult az engedélyesnél előzetesen bejelentett és – ha az ellenőrzés céljának eléréséhez szükséges – előzetesen be nem jelentett ellenőrzést végezni. Előzetesen be nem jelentett ellenőrzés esetén az ellenőrzés tényét az OAH képviselője a helyszínen közli az engedélyes erre meghatalmazott képviselőjével, majd az ellenőrzés végrehajtási feltételeinek kialakítása után haladéktalanul megkezdi az ellenőrzést.
 
-(5)[^260] Ellenőrzése során az OAH jogosult az engedélyes tevékenysége rendszeres végzését bemutattatni.
+(5)[^282] Ellenőrzése során az OAH jogosult az engedélyes tevékenysége rendszeres végzését bemutattatni, ha az nem jár az engedélyes munkavállalóinak indokolatlan sugárterhelésével.
 
 (6) Az OAH ellenőrzései során az engedélyes köteles az OAH-val együttműködni és az ellenőrzés eredményességét előmozdítani, a belső ellenőrzés eredményeit, dokumentumait az OAH rendelkezésére bocsátani.
 
@@ -16,7 +16,7 @@
 
 (8) Az OAH ellenőrzése nem mentesíti az engedélyest a belső ellenőrzési tevékenység végzésének kötelezettsége alól.
 
-(9)[^261] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, vagy a munkavállaló adott év során összegzett sugárterhelése az engedélyezett bármelyik szervdózis-korlát 30%-át túllépi, az OAH köteles ellenőrzést tartani.
+(9)[^283] Ha a munkavállaló nyilvántartott személyi dózisának a növekménye meghaladja a 6 mSv effektív dózist egy ellenőrzési időszakban, vagy az adott naptári év folyamán összegzett dózisa a 20 mSv effektív dózist, vagy a munkavállaló adott év során összegzett sugárterhelése az engedélyezett bármelyik szervdózis-korlát 30%-át túllépi, az OAH köteles ellenőrzést tartani.
 
-[^260]: A 60. § (5) bekezdése a 36/2020. (III. 5.) Korm. rendelet 13. § 49. pontja szerint módosított szöveg.
-[^261]: A 60. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 39. pontja szerint módosított szöveg.
+[^282]: A 60. § (5) bekezdése a 423/2021. (VII. 15.) Korm. rendelet 6. § (11) bekezdésével megállapított szöveg.
+[^283]: A 60. § (9) bekezdése a 27/2018. (II. 28.) Korm. rendelet 56. § 39. pontja szerint módosított szöveg.
