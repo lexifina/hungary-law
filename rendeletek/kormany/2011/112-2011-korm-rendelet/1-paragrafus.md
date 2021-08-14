@@ -46,11 +46,13 @@ o)[^10] koordinálja a 2014/87/Euratom irányelv szerinti, konkrét téma alapj�
 
 p)[^11] indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgálatot kér olyan balesetek esetében, amelyek a telephelyen kívüli veszélyhelyzeti intézkedéseket vagy a lakosságot érintő védelmi intézkedéseket tesznek szükségessé.
 
-(2)[^12] Az (1) bekezdés f) és m) pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről az atomenergia-felügyeleti szervet felügyelő miniszter gondoskodik.
+q)[^12] együttműködik a Nemzeti Akkreditáló Hatósággal a nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 118/2011. (VII. 11.) Korm. rendelet szerinti, az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet akkreditálási eljárásának értékelő csoportjába történő, a nukleáris területen szakértelemmel rendelkező szakértők kirendelése kapcsán.
 
-(3)[^13] A nukleáris létesítmények engedélyesei, a radioaktív hulladékot és a kiégett üzemanyagot kezelő létesítmények engedélyesei információt és adatokat szolgáltatnak az OAH-nak a hatáskörébe utalt, az (1) bekezdés e) és o) pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.
+(2)[^13] Az (1) bekezdés f) és m) pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről az atomenergia-felügyeleti szervet felügyelő miniszter gondoskodik.
 
-(4)[^14] Az OAH az atomenergia biztonságos alkalmazásával kapcsolatos kötelezettségek alapján hatékony irányítási rendszert hoz létre és tart fenn, amelynek keretében az Atv.-ben meghatározott alapvető biztonsági célkitűzés elérése érdekében olyan intézkedéseket hoz, amelyek a szervezet minden szintjén elősegítik a kérdésfelvető és tanuló magatartást.
+(3)[^14] A nukleáris létesítmények engedélyesei, a radioaktív hulladékot és a kiégett üzemanyagot kezelő létesítmények engedélyesei információt és adatokat szolgáltatnak az OAH-nak a hatáskörébe utalt, az (1) bekezdés e) és o) pontja szerinti nemzetközi kötelezettség alapján teljesítendő nemzeti jelentések előkészítéséhez, valamint az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 8. § (3) bekezdése szerint az atomenergia hazai alkalmazásának biztonságáról szóló, az Országgyűlésnek benyújtandó éves jelentéshez.
+
+(4)[^15] Az OAH az atomenergia biztonságos alkalmazásával kapcsolatos kötelezettségek alapján hatékony irányítási rendszert hoz létre és tart fenn, amelynek keretében az Atv.-ben meghatározott alapvető biztonsági célkitűzés elérése érdekében olyan intézkedéseket hoz, amelyek a szervezet minden szintjén elősegítik a kérdésfelvető és tanuló magatartást.
 
 [^1]: Az 1. § (1) bekezdés f) pontja a 216/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés g) pontja a 216/2013. (VI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -63,6 +65,7 @@ p)[^11] indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgála
 [^9]: Az 1. § (1) bekezdés n) pontját a 216/2013. (VI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: Az 1. § (1) bekezdés o) pontját a 225/2017. (VIII. 11.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^11]: Az 1. § (1) bekezdés p) pontját a 36/2020. (III. 5.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^12]: Az 1. § (2) bekezdése a 216/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^13]: Az 1. § (3) bekezdését a 225/2017. (VIII. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^14]: Az 1. § (4) bekezdését a 356/2020. (VII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az 1. § (1) bekezdés q) pontját a 423/2021. (VII. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^13]: Az 1. § (2) bekezdése a 216/2013. (VI. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^14]: Az 1. § (3) bekezdését a 225/2017. (VIII. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: Az 1. § (4) bekezdését a 356/2020. (VII. 23.) Korm. rendelet 1. §-a iktatta be.

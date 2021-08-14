@@ -1,4 +1,4 @@
-5/D. §[^35] (1) A nemzetközi szerződésekben vállalt, a nukleáris anyagok ellenőrzésére vonatkozó kötelezettségek teljesítése a nukleáris anyagok átfogó ellenőrzés alatt tartásával biztosított. Az átfogó ellenőrzés a hatékony biztosítéki rendszer megvalósításával, a biztosítéki ellenőrzés teljes eszközrendszerének folyamatos alkalmazásával valósul meg.
+5/D. §[^37] (1) A nemzetközi szerződésekben vállalt, a nukleáris anyagok ellenőrzésére vonatkozó kötelezettségek teljesítése a nukleáris anyagok átfogó ellenőrzés alatt tartásával biztosított. Az átfogó ellenőrzés a hatékony biztosítéki rendszer megvalósításával, a biztosítéki ellenőrzés teljes eszközrendszerének folyamatos alkalmazásával valósul meg.
 
 (2) A nukleáris anyagok hatékony biztosítéki ellenőrzési rendszerének kialakításához és folyamatos működtetéséhez az OAH által alkalmazott hatósági eszközrendszer a következő elemeket tartalmazza:
 
@@ -8,4 +8,4 @@ b) adatszolgáltatás előírásával és a beérkezett jelentések feldolgozás
 
 c) helyszíni ellenőrzéseken hitelesíti az adatszolgáltatás során szerzett információkat, és ellenőrzi a körülhatárolási és megfigyelési rendszer felszerelését és működtetését, az előírt biztosítéki intézkedések tényleges és hatékony végrehajtását.
 
-[^35]: Az 5/D. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^37]: Az 5/D. §-t a 457/2017. (XII. 28.) Korm. rendelet 329. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
