@@ -1,4 +1,4 @@
-9/A. §[^76] (1) Jogosulatlanul veszi igénybe a magyar légteret az a pilóta nélküli légijármű, amely a légtér igénybevételére a pilóta nélküli légijármű üzemeltetésére, használatára vonatkozó jogszabályi előírásokat nem tartja meg.
+9/A. §[^83] (1) Jogosulatlanul veszi igénybe a magyar légteret az a pilóta nélküli légijármű, amely a légtér igénybevételére a pilóta nélküli légijármű üzemeltetésére, használatára vonatkozó jogszabályi előírásokat nem tartja meg.
 
 (2) Feltartóztatható (elfogható), azonosítható, működése elektronikai úton zavarható, leszállásra felszólítható, valamint elektronikai vagy mechanikai úton földre kényszeríthető az a légiközlekedésben részt vevő pilóta nélküli légijármű,
 
@@ -18,4 +18,4 @@ e) amely jogosulatlanul veszi igénybe a magyar légteret.
 
 (5) A repülésbiztonság megfelelő szintjének fenntartása érdekében a léginavigációs szolgáltató az illetékességébe tartozó légtérben jogosult pilóta nélküli légijármű detektálására.
 
-[^76]: A 9/A. §-t a 39/2021. (II. 2.) Korm. rendelet 9. §-a iktatta be.
+[^83]: A 9/A. §-t a 39/2021. (II. 2.) Korm. rendelet 9. §-a iktatta be.

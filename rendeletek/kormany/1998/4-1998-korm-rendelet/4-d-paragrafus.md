@@ -18,4 +18,6 @@ UAS művelet lehet.
 
 (6) A katonai légügyi hatóság az eseti légtér kijelöléséről szóló határozatát a jóhiszeműen szerzett és gyakorolt jogokra tekintet nélkül módosítja vagy visszavonja, ha az eseti légtér kijelöléséről szóló határozat meghozatalát követően érkezett kérelem folytán a (4) vagy az (5) bekezdésnek megfelelően a határozatot nem lehetett volna kiadni.
 
-(7) A 8/C. § (5) és (6) bekezdése szerinti korlátozás a pilóta nélküli légijármű használatára vonatkozó eseti légtér kijelölést a korlátozás időtartamára felfüggeszti.
+(7)[^32] A 8/C. § (5), (6) és (6a) bekezdése szerinti korlátozás a pilóta nélküli légijármű használatára vonatkozó eseti légtér kijelölést a korlátozás időtartamára felfüggeszti.
+
+[^32]: A 4/D. § (7) bekezdése a 472/2021. (VIII. 6.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

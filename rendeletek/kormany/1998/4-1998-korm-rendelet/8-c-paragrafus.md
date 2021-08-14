@@ -1,4 +1,4 @@
-8/C. §[^74] (1) A Felületen a HungaroControl Zrt. biztosítja az általa nyilvántartott aktuális légtéradatok megjelenítését.
+8/C. §[^75] (1) A Felületen a HungaroControl Zrt. biztosítja az általa nyilvántartott aktuális légtéradatok megjelenítését.
 
 (2) A Felület az aktuális légtéradatokon kívül, az arra jogosult szervezetek adatfeltöltése alapján tartalmazza
 
@@ -6,7 +6,7 @@ a) a 4/A. § n) és o) pontja szerinti légtérkorlátozások,
 
 b) a földfelszíntől számított legfeljebb 150 méteres magasságon, pilóta nélküli állami légijárműtől eltérő állami légijárművel végrehajtott repülések védelme érdekében meghatározott légterek, valamint
 
-c) az (5) és (6) bekezdésben foglalt műveleti korlátozással érintett légtér
+c)[^76] az (5), (6) és (6a) bekezdésben foglalt műveleti korlátozással érintett légtér
 
 ## adatait.
 
@@ -46,6 +46,8 @@ l) az Információs Hivatal,
 
 m) a Büntetés-végrehajtás Országos Parancsnoksága.
 
+n)[^77] a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy.
+
 (4) A belügyminiszter által a (3) bekezdés a)–d), f) és m) pontjaiban meghatározott szervezetek közül kijelölt szervezetek, valamint az Országgyűlési Őrség a 4/A. § n) és o) pontjában foglalt adatokat, valamint a légiközlekedési hatóság a 4/A. § i)–l) pontjában foglalt adatokat feltöltik a pilóta nélküli légijárművek használatát támogató Felületre.
 
 (5) Az Országgyűlési Őrség, a Katonai Nemzetbiztonsági Szolgálat és a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (5) bekezdésében felsorolt szerv
@@ -66,9 +68,11 @@ f) közlekedési baleset helyszínén és annak környezetében a vonatkozó elj
 
 (6) A közlekedési baleset vagy egyéb közlekedési esemény kivizsgálása érdekében a közlekedésbiztonsági szerv az érintett légtérben a pilóta nélküli légijármű-műveletet a védelemhez arányosan szükséges mértékben korlátozza. A korlátozás az esemény kezdetétől számított 12 órára rendelhető el, és alkalmanként további 12 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény végéig.
 
-(7) A pilóta nélküli légijárműveknek az (5) és (6) bekezdésben meghatározott műveleti korlátozását az azt elrendelő szerv vagy szervezet a Felületen azonnal feltünteti.
+(6a)[^78] A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy a közfeladatai teljesítése során az érintett légtérben a (3) bekezdés a)–m) pontjában meghatározott szervek érdekeit nem sértve a pilóta nélküli légijármű-műveletet a közfeladat teljesítéséhez arányosan szükséges mértékben és a közfeladat teljesítéséhez szükséges, de legfeljebb 3 óra időtartamra korlátozhatja. A korlátozás egy alkalommal 3 órával meghosszabbítható, de legfeljebb a műveletre okot adó esemény végéig. A műveleti korlátozást, valamint annak meghosszabbítását a Felületen fel kell tüntetni.
 
-(8) Pilóta nélküli légijármű, pilóta nélküli állami légijármű az (5) és (6) bekezdésben meghatározott műveleti korlátozással érintett légtérben a korlátozást elrendelő szerv vagy szervezet egyedi engedélye vagy szóbeli intézkedése alapján, az abban meghatározott feltételekkel működtethető
+(7)[^79] A pilóta nélküli légijárműveknek az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozását az azt elrendelő szerv vagy szervezet a Felületen azonnal feltünteti.
+
+(8)[^80] Pilóta nélküli légijármű, pilóta nélküli állami légijármű az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozással érintett légtérben a korlátozást elrendelő szerv vagy szervezet egyedi engedélye vagy szóbeli intézkedése alapján, az abban meghatározott feltételekkel működtethető
 
 a) a 4/A. § n) és o) pontja szerinti helyszíneken,
 
@@ -88,7 +92,7 @@ h) a Rendőrségről szóló törvényben meghatározott rendőrséget alkotó s
 
 i) közveszély helyszínén
 
-## amennyiben az (5) és (6) bekezdésben meghatározott légtér nem lapol át a 4/A. § a)–m) pontjában meghatározott légterek valamelyikével.
+## amennyiben az (5), (6) és (6a) bekezdésben meghatározott légtér nem lapol át a 4/A. § a)–m) pontjában meghatározott légterek valamelyikével.
 
 (9) Az (5) bekezdésben meghatározott műveleti korlátozás a (8) bekezdés c)–g) pontjaiban, valamint i) pontjában meghatározott esetekben a korlátozásra okot adó esemény időtartamára, de legfeljebb az esemény kezdetétől számított 12 órára rendelhető el, amely alkalmanként további 12 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény végéig. A korlátozást elrendelő döntésben meg kell határozni a korlátozás pontos kezdő és befejező időpontját, amelyet a 4/C. § (1) bekezdésében meghatározott Felületen fel kell tüntetni.
 
@@ -106,6 +110,12 @@ d) a büntetés-végrehajtási szervezet szervei a büntetés-végrehajtási sze
 
 ## meghatározott feladatai teljesítése során az említett törvényekben meghatározott intézkedésekben és eljárásokban, a helyszínen meghatározott feladatok ellátásának időtartamára, de legfeljebb 12 órára írható elő, amely a korlátozást elrendelő szerv felettes szerve engedélyével alkalmanként további 12 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény végéig. A korlátozást elrendelő döntésben meg kell határozni a korlátozás pontos kezdő és befejező időpontját, amelyet a 4/C. § (1) bekezdésében meghatározott Felületen fel kell tüntetni.
 
-(12) Ha az (5) és (6) bekezdésben meghatározott műveleti korlátozás UAS művelet céljára kijelölt eseti légteret érint, a távoli pilóta vagy a pilóta nélküli állami légijármű kezelő a korlátozás feltüntetését követően haladéktalanul értesíti az 5. § (1) bekezdés e) pontjában, vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személyt vagy szervezetet az 5/A. § (2) bekezdésében meghatározott, az ATS Központ felé teljesítendő tájékoztatás érdekében.
+(12)[^81] Ha az (5), (6) és (6a) bekezdésben meghatározott műveleti korlátozás UAS művelet céljára kijelölt eseti légteret érint, a távoli pilóta vagy a pilóta nélküli állami légijármű kezelő a korlátozás feltüntetését követően haladéktalanul értesíti az 5. § (1) bekezdés e) pontjában, vagy ha ilyet megbíztak, akkor az f) pontjában meghatározott személyt vagy szervezetet az 5/A. § (2) bekezdésében meghatározott, az ATS Központ felé teljesítendő tájékoztatás érdekében.
 
-[^74]: A 8/C. §-t a 39/2021. (II. 2.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^75]: A 8/C. §-t a 39/2021. (II. 2.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^76]: A 8/C. § (2) bekezdés c) pontja a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^77]: A 8/C. § (3) bekezdés n) pontját a 472/2021. (VIII. 6.) Korm. rendelet 2. §-a iktatta be.
+[^78]: A 8/C. § (6a) bekezdését a 472/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be.
+[^79]: A 8/C. § (7) bekezdése a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^80]: A 8/C. § (8) bekezdés nyitó és záró szövegrésze a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^81]: A 8/C. § (12) bekezdése a 472/2021. (VIII. 6.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
