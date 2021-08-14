@@ -1,3 +1,0 @@
-## VII. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
