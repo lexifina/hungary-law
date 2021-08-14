@@ -1,0 +1,3 @@
+## 9. § A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet [a továbbiakban: 383/2016. (XII. 2.) Korm. rendelet] 43. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Kormány mezőgazdasági igazgatási szervként a Földforgalmi tv. szerinti mező- és erdőgazdasági hasznosítású föld (a továbbiakban: föld) fekvése szerint illetékes, földügyi igazgatási feladatkörében eljáró fővárosi és megyei kormányhivatalt jelöli ki a Földforgalmi tv.-ben meghatározott szerzési feltételek, korlátozások és tilalmak betartásának ellenőrzésére, továbbá az ezzel kapcsolatos jogkövetkezmények alkalmazására.”
