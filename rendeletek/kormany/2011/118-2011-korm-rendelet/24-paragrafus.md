@@ -6,14 +6,14 @@
 
 a) csekély biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén az engedélyes írásbeli figyelmeztetése, amelyben a nukleáris biztonsági hatóság azonosítja az előírássértés jellemzőit és jogi alapját, valamint rögzíti a javító intézkedés végrehajtására engedélyezett időtartamot;
 
-b)[^64] jelentősebb biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén kiegészítő feltételek előírása az engedélyezett tevékenység elvégzéséhez, vagy
+b)[^66] jelentősebb biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén kiegészítő feltételek előírása az engedélyezett tevékenység elvégzéséhez, vagy
 
 c) lényeges biztonsági jelentőséggel bíró jogszabálysértés vagy hatósági előírás megszegése esetén az engedélyezett tevékenység korlátozása, leállítása, az engedély visszavonása; vagy
 
-d)[^65]
+d)[^67]
 
-(3)[^66] A nukleáris biztonsági hatóság minden esetben kötelezi az engedélyest az azonosított eltérések kezelésére és a szükséges intézkedések megtételére, a feltárt eltérések felszámolására, hogy események bekövetkezését megelőzzék vagy az ismételt bekövetkezését megakadályozzák.
+(3)[^68] A nukleáris biztonsági hatóság minden esetben kötelezi az engedélyest az azonosított eltérések kezelésére és a szükséges intézkedések megtételére, a feltárt eltérések felszámolására, hogy események bekövetkezését megelőzzék vagy az ismételt bekövetkezését megakadályozzák.
 
-[^64]: A 24. § (2) bekezdés b) pontja a 70/2018. (IV. 9.) Korm. rendelet 2. § 11. pontja szerint módosított szöveg.
-[^65]: A 24. § (2) bekezdés d) pontját a 357/2014. (XII. 29.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
-[^66]: A 24. § (3) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^66]: A 24. § (2) bekezdés b) pontja a 70/2018. (IV. 9.) Korm. rendelet 2. § 11. pontja szerint módosított szöveg.
+[^67]: A 24. § (2) bekezdés d) pontját a 357/2014. (XII. 29.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.
+[^68]: A 24. § (3) bekezdése a 357/2014. (XII. 29.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
