@@ -1,6 +1,6 @@
-## 11–13. §[^23]
+## 11–13. §[^32]
 
-1. melléklet a 246/2011. (XI. 24.) Korm. rendelethez[^24]
+1. melléklet a 246/2011. (XI. 24.) Korm. rendelethez[^33]
 
-[^23]: A 11–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 11–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

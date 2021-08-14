@@ -16,6 +16,6 @@ c) kiégett üzemanyag átmeneti tárolója esetében legalább ötszáz méter.
 
 (6) A biztonsági övezet határán a folyamatosan ott tartózkodó személyt a nukleáris létesítmény, valamint a radioaktívhulladék-tároló szabályszerű működése során a környezetbe kibocsátott vagy kikerülő radioaktív anyagok sugárzása révén nem érheti nagyobb sugárterhelés 100 μSv/év-nél.
 
-(7)[^3] Egyes nukleáris létesítmények és radioaktívhulladék-tárolók esetén a biztonsági övezet kiterjedhet a felszín alatti nukleáris létesítménnyel vagy radioaktívhulladék-tárolóval összefüggő építmény legmélyebb pontjáig, amelynek síkbeli kiterjedése megegyezik a biztonsági övezet felszíni kiterjedésének vetületével.
+(7)[^6] Egyes nukleáris létesítmények és radioaktívhulladék-tárolók esetén a biztonsági övezet kiterjedhet a felszín alatti nukleáris létesítménnyel vagy radioaktívhulladék-tárolóval összefüggő építmény legmélyebb pontjáig, amelynek síkbeli kiterjedése megegyezik a biztonsági övezet felszíni kiterjedésének vetületével.
 
-[^3]: Az 5. § (7) bekezdését a 27/2018. (II. 28.) Korm. rendelet 5. §-a iktatta be.
+[^6]: Az 5. § (7) bekezdését a 27/2018. (II. 28.) Korm. rendelet 5. §-a iktatta be.
