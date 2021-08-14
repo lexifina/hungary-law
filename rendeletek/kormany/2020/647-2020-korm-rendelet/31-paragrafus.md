@@ -6,24 +6,35 @@
 
 a) a kezdeményező tulajdonostárs arra vonatkozó nyilatkozatát, hogy a tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának megszerzésére a Foktftv. 17. § (1) bekezdése alapján jogosult;
 
-b) az értékbecslési ajánlat szerinti értéket és a kezdeményező tulajdonostárs által ajánlott ellenértéket;
+b)[^5] az értékbecslési ajánlat szerinti értéket a földrészlet egésze vonatkozásában, továbbá a kezdeményező tulajdonostárs által ajánlott ellenértéknek a földrészlet egészére számított összegét;
 
 c) az arra vonatkozó figyelemfelhívást, hogy amennyiben az értesített tulajdonostárs a részére ajánlott ellenértékkel nem ért egyet, úgy értékbecslési szakvéleményt készíttethet;
 
 d) arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs 30 napon belül adja meg a kezdeményező tulajdonostárs számára az ellenérték megfizetésére vonatkozó teljesítéssel kapcsolatos feltételeit;
 
-e) arra vonatkozó figyelemfelhívást, hogy ha az ingatlanon az értesített tulajdonostárs tulajdonában álló, a földtől elválaszthatatlan vagyontárgy található, az értesített tulajdonostársnak nyilatkoznia kell annak tulajdonba adása és értékének megtérítése vagy további használata tekintetében.
+e)[^6] arra vonatkozó figyelemfelhívást, hogy ha az ingatlanon az értesített tulajdonostárs tulajdonában álló, a földtől elválaszthatatlan vagyontárgy található, az értesített tulajdonostársnak nyilatkoznia kell annak tulajdonba adása és értékének megtérítése vagy további használata tekintetében;
 
-(3) Ha a tulajdonba vételt a legnagyobb mértékben használó tulajdonostárs kezdeményezi, az értesítésben a (2) bekezdésben foglaltakon felül nyilatkoznia szükséges arról, hogy a tulajdonostársak közül a földrészletet ő használja legnagyobb mértékben, ezért a bekebelezésre a Foktftv. 16. § (3) bekezdése alapján más tulajdonostárs nem jogosult.
+f)[^7] arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs 30 napon belül nyilatkozhat az ingatlant érintő bekebelezési szándékáról a 32. § (2) bekezdésében foglaltak szerinti ellenérték megjelölésével, ha a tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának megszerzésére a Foktftv. 17. § (1) bekezdése alapján jogosult;
 
-(4) Ha a tulajdonba vételt nem a földrészletet legnagyobb mértékben használó tulajdonostárs kezdeményezi, a (2) bekezdésben foglaltakon felül az értesítésnek tartalmaznia kell
+g)[^8] arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs a 31/A. §-ban foglalt esetekben 30 napon belül teljes bizonyító erejű magánokiratban nyilatkozhat arról, hogy nem ért egyet az ingatlan egyetlen tulajdonostárs általi tulajdonba vételével;
 
-a) arra vonatkozó figyelemfelhívást, hogy az értesített tulajdonostárs 30 napon belül nyilatkozhat a földrészletet érintő bekebelezési szándékáról, ha a kezdeményező tulajdonostársat a Foktftv. 16. § (3) bekezdése szerinti sorrend alapján megelőzi;
+h)[^9] a kezdeményező tulajdonostárs nyilatkozatát arra vonatkozóan, hogy ha a Foktftv. 16. § (3) bekezdése alapján a földrészlet más tulajdonostárs által kerül bekebelezésre,
 
-b) a kezdeményező tulajdonostárs nyilatkozatát arra vonatkozóan, hogy a földrészletet milyen mértékben használja, illetve abban mekkora tulajdoni hányaddal rendelkezik;
+ha) és a földrészleten a tulajdonában álló és a földtől elválaszthatatlan vagyontárgy található, nyilatkozik annak tulajdonba adása és értékének megtérítése vagy további használata tekintetében, továbbá
 
-c) a kezdeményező tulajdonostárs nyilatkozatát arra vonatkozóan, hogy ha más tulajdonostárs is jelzi a bekebelezési szándékát, és a Foktftv. 16. § (3) bekezdése szerinti sorrend alapján a földrészlet más tulajdonostárs által kerül bekebelezésre, abban az esetben az általa megjelölt ellenértéket elfogadja, továbbá ha a földrészleten a tulajdonában álló és a földtől elválaszthatatlan vagyontárgy található, nyilatkozik annak tulajdonba adása és értékének megtérítése vagy további használata tekintetében, továbbá megjelöli az ellenérték megfizetésére vonatkozó teljesítéssel kapcsolatos feltételeit;
+hb) megjelöli az ellenérték megfizetésére vonatkozó teljesítéssel kapcsolatos feltételeit;
 
-d) a kezdeményező tulajdontárs nyilatkozatát, amelyben vállalja, hogy ha a földrészlet más tulajdonostárs által kerül bekebelezésre, az eljárás kezdeményezésére vonatkozó valamennyi okiratot – különösen a többi tulajdonostárs igazolt értesítését és a többi tulajdonostárs által adott visszajelzést – a földrészletet ténylegesen bekebelezni jogosult tulajdonostárs részére átadja;
+i)[^10] a kezdeményező tulajdontárs nyilatkozatát, amelyben vállalja, hogy ha a földrészlet más tulajdonostárs által kerül bekebelezésre, az eljárás kezdeményezésére vonatkozó valamennyi okiratot – különösen a többi tulajdonostárs igazolt értesítését és a többi tulajdonostárs által adott visszajelzést, valamint ha készült ilyen, akkor az értékbecslési szakvéleményt – a földrészletet ténylegesen bekebelezni jogosult tulajdonostárs, illetve a 32. § (7) bekezdése szerinti ellenajánlatot tevő tulajdonostárs részére átadja.
 
-e) figyelemfelhívást arra vonatkozóan, hogy a tulajdonostársaknak az értesítésre adott visszajelzést valamennyi tulajdonostárs részére meg kell küldeni.
+(3)[^11]
+
+(4)[^12]
+
+[^5]: A 31. § (2) bekezdés b) pontja a 454/2021. (VII. 30.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^6]: A 31. § (2) bekezdés e) pontja a 454/2021. (VII. 30.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^7]: A 31. § (2) bekezdés f) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^8]: A 31. § (2) bekezdés g) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^9]: A 31. § (2) bekezdés h) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^10]: A 31. § (2) bekezdés i) pontját a 454/2021. (VII. 30.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^11]: A 31. § (3) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^12]: A 31. § (4) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 21. §-a hatályon kívül helyezte.

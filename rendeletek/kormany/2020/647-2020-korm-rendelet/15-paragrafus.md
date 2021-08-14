@@ -9,3 +9,7 @@
 (4) Ha az ingatlanügyi hatóságnál nem állnak rendelkezésre az (1) bekezdés szerinti jogok, tények feljegyzésével kapcsolatos, az Ákr. 36. § (2) bekezdése szerinti közhiteles nyilvántartásban nem szereplő adatok, úgy azokat a tulajdonos a Foktftv. 9. § (5) bekezdésében foglaltak megvalósítása érdekében a jog, illetve tény jogosultjától, illetve a feladatköre által érintett hatóságtól köteles beszerezni.
 
 (5) Az (1) bekezdés szerinti jogok, tények ingatlan-nyilvántartási változásvezetéséhez szükséges térképvázlatot az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 8/2018. (VI. 29.) AM rendelet (a továbbiakban: AM rendelet) 31. és 32. §-a, valamint a felsorolt jogok és tények területszámítása tekintetében 22. § (3) és (6)–(9) bekezdése, valamint 23. §-a alapján kell előállítani azzal, hogy a változásokat az osztóprogrammal készített térképvázlaton és a hozzátartozó területkimutatásban kell dokumentálni.
+
+(6)[^4] A (4) bekezdés, valamint a Foktftv. 9. § (3) bekezdése szerinti megkeresést a megosztásra kerülő ingatlant érintő jogok és tények jogosultjainak a tulajdoni lapon szereplő címére kell megküldeni.
+
+[^4]: A 15. § (6) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 14. §-a iktatta be.

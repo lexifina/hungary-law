@@ -1,14 +1,48 @@
 ## A folyamatban lévő megosztás tényfeljegyzése iránti kérelem adattartalma
 
-## A kérelemnek a 109/1999. (XII. 29.) FVM rendelet 1. számú mellékletében foglaltakon túl az alábbiakat kell tartalmaznia:
+## 1. A kérelem első része az alábbi adatokat tartalmazza:
 
-## a) a megosztással érintett földrészlet vagy földrészletek fekvés szerinti elhelyezkedését;
+## 1.1. a kérelmező tulajdonos családi és utóneve, születési neve vagy megnevezése;
 
-## b) a kérelmező vagy a képviseletében eljáró személy kormányzati ügyfélkapujához tartozó felhasználónevet és a hozzá tartozó elektronikus levelezési címét;
+## 1.2. a kérelmező lakcíme vagy székhelye, értesítési címe, ügyintézőjének neve;
 
-## c) a kérelmező nyilatkozatát, melyben tudomásul veszi, hogy az osztatlan közös tulajdon megszüntetése nem terjed ki a földrészlet és annak alrészletei határvonalának természetbeni felmérésére, valamint a földrészlet természetbeni állapotának az ingatlan-nyilvántartásban szereplő adatokkal való összehasonlítására, ezért a felmérési, térképezési és területszámítási hibából, valamint a művelési ág tényállapotoktól történő eltéréséből eredő következményeket a tulajdonosok viselik;
+## 1.3. a kérelmező személyi azonosítója, vagy statisztikai számjele/belső egyedi azonosítója;
 
-## d) ha a kérelmező jogi képviselő útján jár el, a jogi képviselő nevét, kamarai azonosítóját és elérhetőségét.
+## 1.4. a kérelmező állampolgársága vagy cégjegyzékszáma;
+
+## 1.5. ha a kérelmező képviseletében más személy jár el, a képviselő neve/megnevezése, lakcíme/székhelye, jogi képviselő esetén kamarai azonosítója és elérhetősége;
+
+## 1.6. a kérelmező vagy a képviseletében eljáró személy kormányzati ügyfélkapujához tartozó felhasználóneve és a hozzátartozó elektronikus levelezési címe;
+
+## 1.7. a kérelemhez kapcsolódó ingatlan-nyilvántartási iktatószám (ha ismert);
+
+## 1.8. ha az eljárásban közreműködik ingatlanrendező földmérő minősítéssel rendelkező földmérő mérnök, a földmérő neve és ingatlanrendező földmérő minősítésének száma;
+
+## 1.9. az eljárásért fizetendő összes igazgatási szolgáltatási díj megjelölése;
+
+## 1.10. fizetés módjának megjelölése (készpénzbefizetés, készpénz-átutalási megbízás, átutalási megbízás);
+
+## 1.11. egyéb megjegyzés;
+
+## 1.12. mellékletek megjelölése;
+
+## 1.13. a kérelmező nyilatkozata, amelyben tudomásul veszi, hogy az osztatlan közös tulajdon megszüntetése nem terjed ki a földrészlet és annak alrészletei határvonalának természetbeni felmérésre, valamint a földrészlet természetbeni állapotának az ingatlan-nyilvántartásban szereplő adatokkal való összehasonlítására, ezért a felmérési, térképezési és területszámítási hibából, valamint a művelési ág tényállapotoktól történő eltéréséből eredő következményeket a tulajdonosok viselik;
+
+## 1.14. a kérelem keltének helye és ideje;
+
+## 1.15. a kérelmező vagy képviselő aláírása;
+
+## 1.16. készpénzbefizetés vagy bankkártyával történő fizetés esetén a díj megfizetését igazoló nyilatkozat.
+
+## 2. A kérelem második része a változással érintett földrészlet, vagy földrészletek tekintetében az alábbi adatokat tartalmazza:
+
+## 2.1. a Foktftv. 4. § (1) bekezdése szerinti eljárásban a változással érintett egy darab földrészlet tekintetében a település megnevezése, fekvése és helyrajzi száma; vagy
+
+## 2.2. a Foktftv. 7. § (2) bekezdése szerinti eljárásban a változással érintett kettő vagy több földrészlet tekintetében sorszámszerű megjelölés, a település megnevezése, fekvése és helyrajzi száma;
+
+## 2.3. a kérelem keltének helye és ideje;
+
+## 2.4. a kérelmező vagy képviselő aláírása.
 
 2. melléklet a 647/2020. (XII. 23.) Korm. rendelethez
 
