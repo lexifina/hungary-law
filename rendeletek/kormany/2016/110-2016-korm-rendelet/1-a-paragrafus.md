@@ -1,5 +1,3 @@
-## benyújtott támogatási kérelmek tartalmi értékelésére kell alkalmazni.
-
 1/A. §[^2] (1)[^3] Az Ápjt. 1. § (8) bekezdése szerinti mentesítést az adott felhívás kidolgozásáért felelős irányító hatóság kérelmezheti a miniszternél.
 
 (2) Az (1) bekezdés szerinti kérelemnek tartalmaznia kell különösen

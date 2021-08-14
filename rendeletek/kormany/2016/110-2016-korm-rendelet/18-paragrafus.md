@@ -1,3 +1,3 @@
-## 17. §[^27]
+## 17. §[^35]
 
-[^27]: A 17. §-t a 387/2017. (XII. 12.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^35]: A 17. §-t a 387/2017. (XII. 12.) Korm. rendelet 18. §-a hatályon kívül helyezte.

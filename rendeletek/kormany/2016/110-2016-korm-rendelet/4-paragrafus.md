@@ -10,7 +10,8 @@ d) a benyújtandó pályázatra és mellékleteire vonatkozó tartalmi és forma
 
 e) az e rendeletben meghatározott egyéb elemeket.
 
-(2) Az (1) bekezdésben foglaltak mellett a pályázati kiírásban – és a pályázói adatlapon – meg kell határozni mindazokat az irányító hatóságok által előzetesen bekért és megjelölt szakértői tématerületeket, amelyek közül a pályázó kiválaszthatja, hogy végzettsége, képzettsége és szakmai tapasztalata alapján milyen típusú támogatási kérelem értékelésére vállalkozik.
+(2)[^9] Az (1) bekezdésben foglaltak mellett a pályázati kiírásban – és a pályázói adatlapon – meg kell határozni mindazokat az irányító hatóságok által előzetesen bekért és megjelölt szakértői tématerületeket, amelyek közül a pályázó kiválaszthatja, hogy végzettsége, képzettsége és szakmai tapasztalata alapján tartalmi értékelésre vagy közbeszerzési értékelésre, továbbá ezek keretében milyen típusú feladat elvégzésére vállalkozik.
 
 [^7]: A 4. § (1) bekezdés a) pontja a 172/2019. (VII. 12.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^8]: A 4. § (1) bekezdés b) pontját a 172/2019. (VII. 12.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^9]: A 4. § (2) bekezdése a 489/2021. (VIII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
