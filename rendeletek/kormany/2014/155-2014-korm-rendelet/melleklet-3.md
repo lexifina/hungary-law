@@ -72,7 +72,7 @@
 
 ## 2.2.1.1000. A tároló létesítményt a normál üzemeltetési feltételek és korlátok, valamint a lehetséges üzemzavarok figyelembevételével kell megtervezni, szisztematikusan meghatározva az ehhez szükséges információkat. Azonosítani kell a tároló létesítmény és az egyes rendszerek és rendszerelemek azon tulajdonságait, amelyek szükségesek a biztonsági követelmények teljesítéséhez.
 
-## 2.2.1.1100. A radioaktív hulladék megfelelő mértékű elzárását és elszigetelését a kezelést biztosító vagy hulladékelhelyezési rendszert alkotó műszaki gátak alkalmazásával kell megtervezni, olyan módon, hogy az egyes elemek kombinációjából kialakított összetett rendszer együttesen tudja biztosítani a szükséges mértékű és idejű elzárást és elszigetelést és visszatartást.
+## 2.2.1.1100. A radioaktív hulladék megfelelő mértékű elzárását és elszigetelését a kezelést biztosító vagy hulladék-elhelyezési rendszert alkotó műszaki gátak alkalmazásával kell megtervezni, olyan módon, hogy az egyes elemek kombinációjából kialakított összetett rendszer együttesen tudjon hozzájárulni az alapvető biztonsági funkciók teljesítéséhez.
 
 ## 2.2.1.1200. A tároló létesítményben a radioaktív anyag vagy sugárzás környezetbe kerülését épített vagy természetes gátak, ezek szükség szerinti kombinációjával, valamint szükséges mértékű többszörözésével, különböző fizikai és kémiai eszközökkel kell megakadályozni.
 
@@ -608,29 +608,31 @@
 
 ## 2.3.4.1800. A biztonság szempontjából fontos munkaköröket betöltők képzéséről, az ismeretek számonkérésének eredményeiről, a munkakörök betöltéséhez szükséges vizsgákról az engedélyesnek személyre szóló nyilvántartást kell létrehoznia és azt naprakész állapotban tartania.
 
-## 2.3.4.1900. Az engedélyesnek ki kell dolgoznia a biztonság szempontjából fontos, a munkakör betöltéséhez szükséges jogosítvány megszerzésének és megújításának eljárását. Dokumentált kritériumokat kell alkalmazni annak megítélésére, hogy az adott munkavállaló szaktudása és alkalmassága alapján hatósági jogosító vizsgára bocsátható.
+## 2.3.4.1810. Az adott tároló létesítményre jellemző sajátosságok figyelembevételével a tervező meghatározza a biztonság szempontjából fontos munkakörök és ezen belül a biztonság szempontjából meghatározó munkakörök listáját, amelyet szerepeltetni kell a tároló létesítmény Létesítést Megalapozó Biztonsági Jelentésében, valamint az Üzemeltetést Megalapozó Biztonsági Jelentésében. A listákat az atomenergia-felügyeleti szerv a létesítési engedélyben hagyja jóvá, majd időszakosan, de legalább az időszakos biztonsági felülvizsgálat keretében felülvizsgálja, és szükség szerint aktualizálja.
 
-## 2.3.4.1910. A biztonság szempontjából fontos munkakörök betöltése hatósági jogosítványhoz kötött. A hatósági jogosítvány megszerzéséhez hatósági jogosító vizsgát kell tenni, amelynek az engedélyes által elkészített szabályozását az atomenergia-felügyeleti szerv a nukleáris biztonsági szempontokat figyelembe véve hagyja jóvá.
+## 2.3.4.1900. Az engedélyesnek ki kell dolgoznia a biztonság szempontjából meghatározó, a munkakör betöltéséhez szükséges hatósági jogosítvány megszerzésének és megújításának eljárását. Dokumentált kritériumokat kell alkalmazni annak megítélésére, hogy az adott munkavállaló szaktudása és alkalmassága alapján hatósági jogosító vizsgára bocsátható.
 
-## 2.3.4.1920. A jogosítvány megszerzésnek, megújításának feltétele, hogy a munkakört betöltő
+## 2.3.4.1910. A biztonság szempontjából meghatározó munkakörök betöltése hatósági jogosítványhoz kötött. A hatósági jogosítvány megszerzéséhez hatósági jogosító vizsgát kell tenni, amelynek az engedélyes által elkészített szabályozását az atomenergia-felügyeleti szerv a nukleáris biztonsági szempontokat figyelembe véve hagyja jóvá.
+
+## 2.3.4.1920. A hatósági jogosítvány megszerzésnek, megújításának feltétele, hogy a munkakört betöltő
 
 ## a) fizikai, pszichológiai alkalmasságát megfelelő orvosi vizsgálat igazolja,
 
 ## b) a munkakörre előírt elméleti és gyakorlati képzési programokat teljesíti, valamint
 
-## c) az adott munkakör betöltéséhez szükséges elméleti és gyakorlati ismeretei alkalmassá teszik a jogosítvány szerinti feladatok elvégzésére.
+## c) az adott munkakör betöltéséhez szükséges elméleti és gyakorlati ismeretei alkalmassá teszik a hatósági jogosítvány szerinti feladatok elvégzésére.
 
-## 2.3.4.1930. Az elméleti és gyakorlati ismeretek szükséges szintjének meglétéről a jogosítvány megszerzésekor írásbeli és szóbeli, a jogosítvány megújításakor szóbeli vizsga keretében kell meggyőződni. A szóbeli vizsga sikeres, ha az atomenergia-felügyeleti szerv képviselője a munkakör betöltéséhez megfelelőnek ítéli a vizsgázó teljesítményét. A vizsgán a munkakör betöltőjének bizonyítania kell, hogy a biztonságot figyelemmel kísérő és azt fenntartó képességgel rendelkezik, és beavatkozási jogosultságának megfelelően képes
+## 2.3.4.1930. Az elméleti és gyakorlati ismeretek szükséges szintjének meglétéről a hatósági jogosítvány megszerzésekor írásbeli és szóbeli, a hatósági jogosítvány megújításakor szóbeli vizsga keretében kell meggyőződni. A szóbeli vizsga sikeres, ha az atomenergia-felügyeleti szerv képviselője a munkakör betöltéséhez megfelelőnek ítéli a vizsgázó teljesítményét. A vizsgán a munkakör betöltőjének bizonyítania kell, hogy a biztonságot figyelemmel kísérő és azt fenntartó képességgel rendelkezik, és beavatkozási jogosultságának megfelelően képes
 
 ## a) a normál üzemi folyamatok végzéséhez, valamint a különböző, normáltól eltérő üzemállapotok elhárításához szükséges önálló és csoportmunkára,
 
 ## b) megítélni a tároló üzemállapotát, meghatározni a normál üzemtől való eltéréseket, felismerni és értékelni a helyzetet, elvégezni az előírások szerinti ellenőrzéseket és intézkedéseket, meghatározni a tároló biztonságos üzemi állapotba viteléhez és tartásához szükséges további teendőket.
 
-## 2.3.4.1940. Új tároló létesítmény esetén a jogosítványokat a létesítmény üzemeltetési engedélyének kiadásáig kell megszerezni.
+## 2.3.4.1940. Új tároló létesítmény esetén a hatósági jogosítványokat a létesítmény üzemeltetési engedélyének kiadásáig kell megszerezni.
 
-## 2.3.4.1950. A jogosítványok kiadását és megújítását az engedélyes kérelmezi. A kérelemhez 2 példányban mellékelni kell a jogosítvány kiadásának, megújításának feltételeként előírtak teljesülését igazoló dokumentumokat.
+## 2.3.4.1950. A hatósági jogosítványok kiadását és megújítását az engedélyes kérelmezi. A kérelemhez 2 példányban mellékelni kell a hatósági jogosítvány kiadásának, megújításának feltételeként előírtak teljesülését igazoló dokumentumokat.
 
-## 2.3.4.1960. A jogosítvány időbeli hatálya
+## 2.3.4.1960. A hatósági jogosítvány időbeli hatálya
 
 ## a) 3 év az első jogosító vizsgát követően;
 
@@ -640,23 +642,23 @@
 
 ## d) a megújító vizsgán elért eredmény alapján 4 vagy 3 évre korlátozható.
 
-## 2.3.4.1970. A jogosítvány hatálya megszűnik, ha
+## 2.3.4.1970. A hatósági jogosítvány hatálya megszűnik, ha
 
 ## a) a 2.3.4.1960. pontban meghatározott időn belül nem került megújításra,
 
-## b) tulajdonosa 6 hónapot meghaladóan nem végzett munkát a jogosítvány szerinti munkakörben,
+## b) tulajdonosa 6 hónapot meghaladóan nem végzett munkát a hatósági jogosítvány szerinti munkakörben,
 
 ## c) a szinten tartó képzésben való részvétel az előírásoknak nem felel meg, vagy
 
-## d) a jogosítvány megújítására irányuló vizsga sikertelen.
+## d) a hatósági jogosítvány megújítására irányuló vizsga sikertelen.
 
-## 2.3.4.1980. Az atomenergia-felügyeleti szerv a jogosítványt visszavonja
+## 2.3.4.1980. Az atomenergia-felügyeleti szerv a hatósági jogosítványt visszavonja
 
 ## a) a jogosítvány tulajdonosának vagy az engedélyesnek a kérésére vagy
 
 ## b) a tároló létesítmény nukleáris biztonságát veszélyeztető súlyos szabályszegés miatt.
 
-## 2.3.4.1990. Hatálytalan vagy visszavont jogosítvány megújításának feltételei megegyeznek az új jogosítvány megszerzésének feltételeivel.
+## 2.3.4.1990. Hatálytalan vagy visszavont hatósági jogosítvány megújításának feltételei megegyeznek az új hatósági jogosítvány megszerzésének feltételeivel.
 
 ## 2.3.4.2000. A tároló létesítmény üzemviteléért felelős személyzetnek rendelkeznie kell a munkaköri feladataik szakszerű, hatékony és biztonságos végrehajtásához kellő szintű biztonsági, sugárvédelmi, tűzvédelmi, telephelyi és telephelyen kívüli baleset-elhárítási és ipari biztonsági ismeretekkel.
 
@@ -698,7 +700,7 @@
 
 ## 2.3.7.0900. Az üzemzavar-elhárítási utasításoknak összhangban kell lenniük a többi üzemviteli utasítással és a baleset kezelésére vonatkozó útmutatókkal.
 
-## 2.3.7.1000. Az üzemzavar-elhárítási utasításoknak biztosítaniuk kell, hogy a személyzet gyorsan felismerje azokat a helyzeteket, amelyekre az utasítás vonatkozik. Ehhez az utasítások belépési és kilépési feltételeit meg kell határozni, amelyek alapján a személyzet képes kiválasztani a megfelelő utasítást, szükség esetén áttérni a balesetlehárításra vonatkozó útmutatókra.
+## 2.3.7.1000. Az üzemzavar-elhárítási utasításoknak biztosítaniuk kell, hogy a személyzet gyorsan felismerje azokat a helyzeteket, amelyekre az utasítás vonatkozik. Ehhez az utasítások belépési és kilépési feltételeit meg kell határozni, amelyek alapján a személyzet képes kiválasztani a megfelelő utasítást, szükség esetén áttérni a balesetek kezelésére vonatkozó útmutatókra.
 
 ## 2.3.7.1100. A tároló létesítmény biztonsági jelentésben meghatározott baleseti körülmények kezelésére balesetkezelési útmutatót kell összeállítani a balesetek következményeinek enyhítése céljából arra az esetre, ha az elvesztett biztonsági funkciók helyreállítását vagy pótlását célzó intézkedések nem voltak hatékonyak. A balesetek kezelésére vonatkozó útmutatót szisztematikus módon, létesítmény-specifikus megközelítést alkalmazva kell kidolgozni.
 
@@ -962,7 +964,7 @@
 
 ## 2.3.14.0600. Az 1. és 2. kategóriába besorolt átalakításnál az átalakítást megalapozó dokumentáció megalapozásához az átalakítás jellegéhez igazodó biztonsági értékelést is el kell készíteni. Valamennyi esetben az átalakítást megalapozó dokumentáció elkészítésénél figyelembe kell venni az átalakításnak az összes olyan biztonsági hatását, amelyek az átalakítás végrehajtása során, valamint azt követően jelentkeznek, a tároló létesítmény átalakítást követő bármely életciklus szakaszában. Az átalakítást megalapozó dokumentációnak igazolnia kell, hogy az átalakítás koncepciója megfelel a jogszabályokban meghatározott követelményeknek, továbbá a tároló létesítmény belső szabályozásainak maradéktalan betartása esetén az átalakítás végrehajtása és az átalakított rendszer, rendszerelem, szervezet és a megváltoztatott dokumentum, irányítási rendszer alkalmazása biztonságos. Ha a tároló létesítmény biztonsági jelentésének tartalmát is érinti az átalakítás, akkor azt ennek megfelelően aktualizálni kell, és az átalakítást megalapozó dokumentáció mellékleteként el kell készíteni.
 
-## 2.3.14.0700. Az átalakítást megalapozó dokumentációt, és a független felülvizsgálat dokumentumait az engedélyesnek az átalakítások felügyeletét ellátó szervezeti egységének is jóvá kell hagynia.
+## 2.3.14.0700. 2.3.14.0700. Az átalakítást megalapozó dokumentációt, és annak megalapozó dokumentációját az engedélyes átalakítások felügyeletét ellátó szervezeti egységének is jóvá kell hagynia.
 
 ## 2.3.14.0800. Valamennyi műszaki átalakítás kiviteli tervezésének befejezését követően, ha az előzetes biztonsági elemzésre és az átalakítás kategorizálására azt megelőzően kerül sor, az átalakítás előzetes kategorizálását dokumentáltan felül kell vizsgálni. Ha annak eredménye alapján az átalakítás alacsonyabb sorszámú kategóriába kerül átsorolásra, akkor az új kategóriára vonatkozó eljárási szabályok szerint kell eljárni.
 
@@ -1336,7 +1338,7 @@
 
 ## b) a terület hasznosításának bármilyen korlátozása, továbbá bármely más intézkedés, amely a lezárás utáni időszakban indokolt lehet, meghatározásra került.
 
-3. melléklet a 155/2014. (VI. 30.) Korm. rendelethez[^169]
+3. melléklet a 155/2014. (VI. 30.) Korm. rendelethez[^175]
 
 Biztonsági Szabályzat
 
@@ -1626,7 +1628,7 @@ d) széndioxid, szénhidrogén és más gázok geológiai tárolására igénybe
 
 3.3.7.0300. A tároló létesítmény telepítési engedélye iránti kérelem benyújtása előtt a telephely környezetében olyan mikroszeizmikus mérőhálózatot kell telepíteni és üzemeltetni, amely a telephely földrengés-veszélyeztetettségének megbízható jellemzéséhez szükséges, a mikroszeizmikus mérőhálózat adatainak, valamint a rendelkezésre álló archív és szakirodalmi adatok felhasználásával.
 
-3.3.7.0310. A földrengés-veszélyeztetettség és a földrengésekkel összefüggő jelenségek veszélyeztetettségi görbéjét a tároló élettartamára a 10-4/év bekövetkezési gyakoriságig, valamint a hosszú távú biztonság értékelésének teljes időtávlatában a 10-2/év bekövetkezési valószínűségi értékig kell meghatározni. A veszélyeztetettség meghatározásának bizonytalanságát értékelni kell.
+3.3.7.0310. A földrengés-veszélyeztetettség és a földrengésekkel összefüggő jelenségek veszélyeztetettségi görbéjét a tároló élettartamára a 10-4/év bekövetkezési gyakoriságig, valamint a hosszú távú biztonság értékelésének teljes időtávlatában a 10–2 bekövetkezési valószínűségi értékig kell meghatározni. A veszélyeztetettség meghatározásának bizonytalanságát értékelni kell.
 
 3.3.7.0400. A 3.2.3.1400. pont szerinti összefoglaló földtani jelentésben a földrengés-veszélyeztetettségi görbe alapján meg kell határozni a telephelyre jellemző, az értékelés időtávlata szempontjából mértékadó földrengést. A felszíni rétegek nemlineáris átvitelének figyelembevételével meg kell határozni azt a szabadfelszíni válaszspektrumot és a megfelelő gyorsulás-idő függvényt, amely a telephely megfelelőségének 3.3.3.0200. és 3.3.4.0200. pont szerinti értékelése, valamint a tároló létesítmény műszaki tervezésének bemeneti adatát képezi.
 
@@ -1686,4 +1688,4 @@ d) széndioxid, szénhidrogén és más gázok geológiai tárolására igénybe
 
 3.4.4.0600. Nagy aktivitású vagy hosszú élettartamú radioaktív hulladékok tárolójának telepítést megalapozó biztonsági jelentésében számításokkal kell igazolni, hogy sem a létesítmény üzemelése, sem a lezárás után nem fordulhat elő olyan esemény, nem alakulhat ki olyan helyzet, amely a tárolóban vagy földtani környezetében a nukleáris anyag veszélyes mértékű feldúsulásához vezetne.”
 
-[^169]: A 3. mellékletet a 70/2018. (IV. 9.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^175]: A 3. mellékletet a 70/2018. (IV. 9.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 423/2021. (VII. 15.) Korm. rendelet 5. § (8) bekezdés b) pontja szerint módosított szöveg.

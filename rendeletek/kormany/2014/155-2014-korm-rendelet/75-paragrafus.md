@@ -1,10 +1,10 @@
-75. § (1)[^132] Az építési engedélyt az elvégezni kívánt építési tevékenység egészére kell kérni.
+75. § (1)[^136] Az építési engedélyt az elvégezni kívánt építési tevékenység egészére kell kérni.
 
 (2) Több szakaszban megvalósítani tervezett építés esetén az egyes szakaszokban megépítendő építményekre, valamint a rendeltetésszerű és biztonságos használatra önmagukban is alkalmas építményrészekre külön-külön is meg lehet kérni az építési engedélyt.
 
 (3) Az engedély időbeli hatályát az építésügyi hatósági eljárásokról és az építésügyi hatósági ellenőrzésről szóló jogszabály szerint kell meghatározni.
 
-(4)[^133] Az építés iránti kérelemnek tartalmaznia kell
+(4)[^137] Az építés iránti kérelemnek tartalmaznia kell
 
 a) a biztonsági követelmények teljesülésének igazolását és műszaki megalapozását,
 
@@ -16,7 +16,7 @@ d) a dokumentáció felülvizsgálatáról és értékeléséről készített az
 
 e) a műszaki tervdokumentációt az (5) bekezdés szerinti tartalommal.
 
-(5)[^134] A (4) bekezdés e) pont szerinti dokumentáció elemei a tervezés tárgyától függően a következők:
+(5)[^138] A (4) bekezdés e) pont szerinti dokumentáció elemei a tervezés tárgyától függően a következők:
 
 a) műszaki leírás
 
@@ -82,7 +82,7 @@ e) geotechnikai tervdokumentáció, mely tartalmazza a talajvizsgálati jelenté
 
 f) geodéziai felmérés.
 
-(6)[^135] Az (5) bekezdés szerinti dokumentációra vonatkozó általános előírások:
+(6)[^139] Az (5) bekezdés szerinti dokumentációra vonatkozó általános előírások:
 
 a) az adott anyag vagy szerkezet jelölésére a vonatkozó hatályos szabványt, vagy annak hiányában a megrendelő által meghatározott, egyértelmű jelkulcsot kell alkalmazni,
 
@@ -94,7 +94,7 @@ d) az építészeti-műszaki dokumentumokat a tervező aláírásával vagy elek
 
 e) az építészeti-műszaki dokumentáció tartalmi követelménye tekintetében a dokumentáció egyes munkarészeinek kidolgozottságát, tartalmát és terjedelmét figyelembe kell venni.
 
-[^132]: A 75. § (1) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 10. § 12. pontja szerint módosított szöveg.
-[^133]: A 75. § (4) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
-[^134]: A 75. § (5) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (14) bekezdése iktatta be.
-[^135]: A 75. § (6) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (14) bekezdése iktatta be.
+[^136]: A 75. § (1) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 10. § 12. pontja szerint módosított szöveg.
+[^137]: A 75. § (4) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 6. § (13) bekezdésével megállapított szöveg.
+[^138]: A 75. § (5) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (14) bekezdése iktatta be.
+[^139]: A 75. § (6) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (14) bekezdése iktatta be.

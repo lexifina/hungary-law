@@ -12,12 +12,15 @@ b) az üzemeltetési feltételeket és korlátokat tartalmazó dokumentumot,
 
 c) a biztonság szempontjából fontos rendszerek és rendszerelemek állapot fenntartását biztosító eljárásokat ismertető dokumentumot,
 
-d)[^110] az üzemzavarok elhárítását szabályozó kezelési utasítást,
+d)[^113] az üzemzavar-elhárítási utasításokat,
 
-e)[^111] a baleset-elhárítási intézkedési tervet, és
+e)[^114] a baleset-elhárítási intézkedési tervet,
 
-f)[^112] az MSSZ-t.
+f)[^115] az MSSZ-t és
 
-[^110]: A 62. § d) pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 11. pontja szerint módosított szöveg.
-[^111]: A 62. § e) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 31. pontja szerint módosított szöveg.
-[^112]: A 62. § f) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (4) bekezdése iktatta be.
+g)[^116] a balesetek kezelésére vonatkozó útmutatókat.
+
+[^113]: A 62. § d) pontja a 423/2021. (VII. 15.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^114]: A 62. § e) pontja a 423/2021. (VII. 15.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^115]: A 62. § f) pontját a 28/2018. (II. 28.) Korm. rendelet 5. § (4) bekezdése iktatta be, szövege a 423/2021. (VII. 15.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^116]: A 62. § g) pontját a 423/2021. (VII. 15.) Korm. rendelet 5. § (7) bekezdése iktatta be.

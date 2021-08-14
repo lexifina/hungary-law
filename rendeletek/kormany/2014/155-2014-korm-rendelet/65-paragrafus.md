@@ -4,7 +4,7 @@ a) a tároló létesítmény állapotának és az elhelyezett hulladékok jellem
 
 b) a rendszerek, rendszerelemek leszerelésének és az építmények lebontásának a tervét,
 
-c)[^114] a hulladékelhelyezési rendszer lezárási tervét,
+c)[^118] a hulladékelhelyezési rendszer lezárási tervét,
 
 d) a környezet helyreállítására vonatkozó tervet,
 
@@ -14,4 +14,4 @@ f) a tervezett ellenőrzési tevékenységet, és
 
 g) az elhelyezett hulladékokra és a tároló létesítmény környezetére vonatkozó információk megőrzésére alkalmazni tervezett eljárásokat.
 
-[^114]: A 65. § c) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 32. pontja szerint módosított szöveg.
+[^118]: A 65. § c) pontja a 70/2018. (IV. 9.) Korm. rendelet 9. § 32. pontja szerint módosított szöveg.

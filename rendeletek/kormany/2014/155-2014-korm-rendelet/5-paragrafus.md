@@ -2,7 +2,7 @@
 
 5. § (1) Az engedélyes a biztonsági célok teljesítését szolgáló biztonsági politikát készít. A biztonsági politika olyan követelményeket tartalmaz, amelyek biztosítják, hogy a tároló létesítmény passzív intézményes ellenőrzésre való áttéréséig a biztonság fenntartása minden más szempontot megelőzzön a tároló létesítménnyel összefüggésben végrehajtott valamennyi tevékenység során.
 
-(2)[^40] A biztonsági politikát a létesítési engedélykérelemmel egyidejűleg kell az atomenergia-felügyeleti szervhez benyújtani. A biztonsági politikát az atomenergia-felügyeleti szerv a létesítési engedély kiadásával egyidejűleg a nukleáris biztonsági szempontokat figyelembe véve hagyja jóvá.
+(2)[^43] A biztonsági politikát a létesítési engedélykérelemmel egyidejűleg kell az atomenergia-felügyeleti szervhez benyújtani. A biztonsági politikát az atomenergia-felügyeleti szerv a létesítési engedély kiadásával egyidejűleg a nukleáris biztonsági szempontokat figyelembe véve hagyja jóvá.
 
 (3) A biztonsági politikát a biztonság szempontjából fontos munkakört betöltő munkavállalóval és a beszállítóval olyan módon kell ismertetni, hogy annak előírásait a tevékenységük során megfelelően alkalmazni tudják.
 
@@ -10,4 +10,4 @@
 
 (5) Az engedélyes a biztonsági politikát rendszeresen felülvizsgálja és annak megfelelőségét és érvényesülését értékeli. Az értékelés eredményét az éves jelentésben dokumentálja.
 
-[^40]: Az 5. § (2) bekezdése a 36/2020. (III. 5.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^43]: Az 5. § (2) bekezdése a 36/2020. (III. 5.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.

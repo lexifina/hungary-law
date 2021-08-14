@@ -8,15 +8,15 @@
 
 (4) A hatósági ellenőrzésről készített jegyzőkönyvet az atomenergia-felügyeleti szerv hatósági ellenőrzést végző képviselője és az ellenőrzés alá vont képviselője, a beszállítóknál végzett ellenőrzésnél az engedélyes képviselője is aláírja.
 
-(5)[^61] A beszállítók kiválasztására alkalmazott minősítő eljárás megindításának szándékáról az engedélyes legalább 20 nappal az eljárás megindítása előtt értesíti a hatóságot, ha azt helyszíni audit nélkül kívánja lefolytatni.
+(5)[^64] Az engedélyes a beszállítók alkalmasságának igazolására vonatkozó – helyszíni audit nélküli vagy helyszíni audittal történő – minősítő eljárás lefolytatásáról, illetve az érvényes minősítés meghosszabbításáról értesíti a nukleáris biztonsági hatóságot. Belföldi audit esetén az értesítést az auditot megelőzően legalább 10 munkanappal vagy külföldi audit esetén legalább 20 munkanappal korábban megküldi.
 
-(6)[^62] Ha az engedélyes helyszíni audittal kívánja lefolytatni a minősítő eljárást, a hatóságot hazai beszállító esetében 15 nappal, külföldi beszállító esetében 25 nappal korábban értesíti.
+(6)[^65] Ha a nukleáris biztonsági hatóság jelzi részvételi szándékát a helyszíni audit végrehajtásában, az engedélyes legkésőbb 5 munkanappal a helyszíni audit időpontja előtt megküldi a hatóság számára a beszállító releváns belső szabályozó dokumentumait.
 
-(7)[^63] Ha az (5) vagy (6) bekezdés szerinti értesítést követően a hatóság jelzi részvételi szándékát a helyszíni auditon, az engedélyes 10 nappal a helyszíni audit időpontja előtt megküldi a hatóság számára a vizsgálandó beszállító irányítási rendszerének releváns belső szabályozó dokumentumait.
+(7)[^66] A minősítő audit befejezését követően 15 munkanapon belül meg kell küldeni a nukleáris biztonsági hatóságnak a vizsgálati jelentést és annak mellékleteit (különösen a minősítő lap, a minősítő lap mellékletei, a minősítő tevékenységet részletező lap, az eltérések jegyzőkönyve, jelenléti ív és minden további, az eljárással összefüggésben keletkezett dokumentum), vagy azokhoz elektronikus hozzáférést kell biztosítani.
 
-(8)[^64] A minősítő eljárás befejezését követő 60 napon belül elektronikus hozzáférést kell biztosítani a vizsgálati jelentéshez és annak mellékleteihez, vagy meg kell küldeni a hatóságnak különösen a minősítő lapot, a minősítő lap mellékleteit, a minősítő tevékenységet részletező lapot, a felvett jegyzőkönyveket, jelenléti ívet és minden további, az eljárás során keletkezett dokumentumot.
+(8)[^67]
 
-[^61]: A 32. § (5) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^62]: A 32. § (6) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^63]: A 32. § (7) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^64]: A 32. § (8) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^64]: A 32. § (5) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 423/2021. (VII. 15.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^65]: A 32. § (6) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 423/2021. (VII. 15.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^66]: A 32. § (7) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 423/2021. (VII. 15.) Korm. rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^67]: A 32. § (8) bekezdését a 70/2018. (IV. 9.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 423/2021. (VII. 15.) Korm. rendelet 5. § (10) bekezdés a) pontja.

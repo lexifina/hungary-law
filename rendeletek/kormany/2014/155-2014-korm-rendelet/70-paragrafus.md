@@ -2,6 +2,6 @@
 
 (2) Az aktív intézményes ellenőrzésre vonatkozó kérelmet az aktualizált lezárást megalapozó biztonsági jelentéssel egyidejűleg kell az atomenergia-felügyeleti szervhez benyújtani. Az aktív intézményes ellenőrzésre vonatkozó engedélyt az atomenergia-felügyeleti szerv az aktualizált lezárást megalapozó biztonsági jelentés jóváhagyásával egyidejűleg adja meg.
 
-(3)[^116] Ha az atomenergia-felügyeleti szerv az aktív intézményes ellenőrzés ideje alatt radioaktív anyagnak a környezetbe való – baleset-elhárítási tevékenységet nem érintő – nem tervezett kikerüléséről vagy annak lehetőségéről értesül, a biztonság helyreállítása vagy növelése érdekében intézkedést rendel el.
+(3)[^120] Ha az atomenergia-felügyeleti szerv az aktív intézményes ellenőrzés ideje alatt radioaktív anyagnak a környezetbe való – baleset-elhárítási tevékenységet nem érintő – nem tervezett kikerüléséről vagy annak lehetőségéről értesül, a biztonság helyreállítása vagy növelése érdekében intézkedést rendel el.
 
-[^116]: A 70. § (3) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 33. pontja szerint módosított szöveg.
+[^120]: A 70. § (3) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 9. § 33. pontja szerint módosított szöveg.

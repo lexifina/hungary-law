@@ -1,6 +1,6 @@
 107. § (1) Az engedélyes az eseti jelentési kötelezettségét a következők szerint teljesíti:
 
-a)[^158] baleset-elhárítást nem érintő esemény esetén
+a)[^164] baleset-elhárítást nem érintő esemény esetén
 
 aa) azonnali bejelentési kötelezettség alá tartozó eseményt, a bekövetkezést vagy észlelést követő 2 órán belül hangkapcsolatot biztosító elektronikus úton, ideértve a telefont bejelenti,
 
@@ -12,4 +12,4 @@ b) valamennyi esemény esetében az esemény INES minősítés szerinti besorol�
 
 (2) Az (1) bekezdés d) pontja szerinti bejelentésnek tartalmaznia kell az esemény rövid leírását, a kialakult állapot leírását, a megtett és tervezett intézkedéseket, továbbá azok várható hatásának leírását, valamint az esemény előzetes biztonsági értékelését.
 
-[^158]: A 107. § (1) bekezdés a) pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 15. pontja szerint módosított szöveg.
+[^164]: A 107. § (1) bekezdés a) pontja a 70/2018. (IV. 9.) Korm. rendelet 10. § 15. pontja szerint módosított szöveg.

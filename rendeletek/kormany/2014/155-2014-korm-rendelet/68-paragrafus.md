@@ -2,6 +2,6 @@
 
 (2) A jelentés alapján az atomenergia-felügyeleti szerv az engedélyest a tároló létesítmény biztonságos lezárása érdekében további intézkedések megtételére kötelezheti. A határozat alapján végrehajtott intézkedésekről a felülvizsgált jelentés megküldésével tájékoztatni kell az atomenergia-felügyeleti szervet.
 
-(3)[^115] A lezárás befejezése a jelentést jóváhagyó határozat véglegessé válásának a napja.
+(3)[^119] A lezárás befejezése a jelentést jóváhagyó határozat véglegessé válásának a napja.
 
-[^115]: A 68. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 499. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^119]: A 68. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 499. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
