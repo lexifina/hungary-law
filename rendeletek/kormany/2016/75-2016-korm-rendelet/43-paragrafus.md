@@ -4,6 +4,6 @@
 
 (2) Az (1) bekezdés szerinti szervezet vezetője gondoskodik az intézkedési terv – különösen a szabálytalanságok kezelésével kapcsolatos intézkedések – megvalósításának folyamatos nyomon követéséről.
 
-(3)[^5]
+(3)[^6]
 
-[^5]: A 43. § (3) bekezdését a 199/2018. (X. 30.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^6]: A 43. § (3) bekezdését a 199/2018. (X. 30.) Korm. rendelet 3. §-a hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 31/A. §[^3] A pénzforgalmi számlák vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetésből történik.
+## 31/A. §[^4] A pénzforgalmi számlák vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetésből történik.
 
 ## 19. Közbeszerzés
 
@@ -16,4 +16,4 @@ cb) ha a nemzeti hatóság a számára előírt határidőn belül nem küldi me
 
 d) a 272/2014. (XI. 5.) Korm. rendelet 102. §-a nem alkalmazható.
 
-[^3]: A 31/A. §-t a 15/2020. (II. 12.) Korm. rendelet 6. §-a iktatta be.
+[^4]: A 31/A. §-t a 15/2020. (II. 12.) Korm. rendelet 6. §-a iktatta be.

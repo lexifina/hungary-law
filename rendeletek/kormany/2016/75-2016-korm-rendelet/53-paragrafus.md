@@ -2,6 +2,6 @@
 
 ## 31. Módosító rendelkezések
 
-53–58. §[^9]
+53–58. §[^10]
 
-[^9]: Az 53–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 53–58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
