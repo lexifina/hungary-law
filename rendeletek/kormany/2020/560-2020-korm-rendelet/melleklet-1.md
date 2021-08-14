@@ -1,4 +1,4 @@
-## 6. §[^2]
+## 6. §[^4]
 
 1. melléklet az 560/2020. (XII. 7.) Korm. rendelethez
 
@@ -50,4 +50,4 @@
 
 6. A kártalanítást igénylő aláírása és a kérelem kelte
 
-[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
