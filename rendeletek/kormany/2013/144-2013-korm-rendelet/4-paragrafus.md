@@ -1,5 +1,11 @@
-## 2. A Nemzeti Örökség Intézete feladatai
+## 2. [^6] Az Intézet feladata
 
-4. § (1)[^4] Az Intézet a múlt példáinak, a magyarság szellemi örökségének a jelen és az eljövendő nemzedékek számára történő megőrzése és átadása, a nemzeti emlékezet és emlékezés magyarságidentitásának megőrzése, a nemzeti összetartozás érzésének növelése és az egységes nemzet, nemzeti egység megteremtése céljából a következő feladatokat látja el:
+## 4. § Az Intézet a kezelésében lévő épített örökségi vagyonelemek, valamint a feladatellátással érintett, nemzeti emlékezethez kapcsolódó szellemi kulturális örökség megőrzése és bemutatása által
 
-[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 734. §-a szerint módosított szöveg.
+a) a múlt példáinak, a magyarság szellemi örökségének a jelen és az eljövendő nemzedékek számára történő átadása,
+
+b) a magyarság nemzeti identitásának megőrzése, különös tekintettel a fiatalok nemzettudatának erősítése,
+
+c) a nemzeti összetartozás érzésének növelése a történelmi nemzet fennmaradása, az egységes nemzet és nemzeti egység megteremtése
+
+[^6]: A 2. alcím (4–4/B. §) a 492/2021. (VIII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
