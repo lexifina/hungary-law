@@ -1,0 +1,1 @@
+## 5. § Az előirányzatok felhasználásával kapcsolatos kincstári és banki szolgáltatások díjait – ha jogszabály eltérően nem rendelkezik – az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat terhére kell elszámolni.
