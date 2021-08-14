@@ -50,17 +50,17 @@
 
 24. településüzemeltetésért, kéményseprő-ipari tevékenységért,
 
-25.[^40] a mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény engedélyezését kivéve a vízgazdálkodásért,
+25.[^41] a mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény engedélyezését kivéve a vízgazdálkodásért,
 
 26. vízügyi igazgatási szervek irányításáért,
 
-27.[^41] a mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény engedélyezését kivéve a vízvédelemért
+27.[^42] a mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény engedélyezését kivéve a vízvédelemért
 
-28.[^42] társadalmi felzárkózásért
+28.[^43] társadalmi felzárkózásért
 
 felelős tagja.
 
-(2)[^43] A miniszter
+(2)[^44] A miniszter
 
 a) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (4) bekezdése,
 
@@ -74,10 +74,10 @@ e) az államháztartásról szóló 2011. évi CXCV. törvény 83. § (6) bekezd
 
 tekintetében a roma nemzetiség vonatkozásában a Kormány nemzetiségpolitikáért felelős tagja.
 
-(3)[^44] A miniszter vezeti a Nemzetbiztonsági Kabinet üléseit.
+(3)[^45] A miniszter vezeti a Nemzetbiztonsági Kabinet üléseit.
 
-[^40]: A 40. § (1) bekezdés 25. pontja az 511/2020. (XI. 20.) Korm. rendelet 2. § (2) bekezdés a) pontjával megállapított szöveg.
-[^41]: A 40. § (1) bekezdés 27. pontja az 511/2020. (XI. 20.) Korm. rendelet 2. § (2) bekezdés b) pontjával megállapított szöveg.
-[^42]: A 40. § (1) bekezdés 28. pontját a 84/2019. (IV. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^43]: A 40. § (2) bekezdése a 84/2019. (IV. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^44]: A 40. § (3) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^41]: A 40. § (1) bekezdés 25. pontja az 511/2020. (XI. 20.) Korm. rendelet 2. § (2) bekezdés a) pontjával megállapított szöveg.
+[^42]: A 40. § (1) bekezdés 27. pontja az 511/2020. (XI. 20.) Korm. rendelet 2. § (2) bekezdés b) pontjával megállapított szöveg.
+[^43]: A 40. § (1) bekezdés 28. pontját a 84/2019. (IV. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^44]: A 40. § (2) bekezdése a 84/2019. (IV. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^45]: A 40. § (3) bekezdését a 84/2019. (IV. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.

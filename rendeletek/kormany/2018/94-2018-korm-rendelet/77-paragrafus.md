@@ -1,3 +1,3 @@
-77. §[^54]
+77. §[^55]
 
-[^54]: A 77. §-t a 341/2019. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^55]: A 77. §-t a 341/2019. (XII. 23.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.

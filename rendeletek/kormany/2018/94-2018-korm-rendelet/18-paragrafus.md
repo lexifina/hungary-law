@@ -1,4 +1,4 @@
-18. §[^28] (1) A miniszter az európai uniós források felhasználásáért való felelőssége keretében
+18. §[^29] (1) A miniszter az európai uniós források felhasználásáért való felelőssége keretében
 
 a) előkészíti az európai uniós források felhasználásához kapcsolódó kormányzati döntések végrehajtását szolgáló szabályozásokat, biztosítja az ágazati és területi szereplők közötti koordinációt,
 
@@ -28,7 +28,7 @@ m) ösztönzi a közvetlen európai uniós források magyarországi szereplők �
 
 n) működteti a közvetlen európai uniós források önerő és előkészítési költségének támogatási mechanizmusát,
 
-o)[^29] ellátja Magyarország Helyreállítási és Ellenállóképességi Tervének (RRF Terv) végrehajtásához kapcsolódó tagállami hatósági feladatokat.
+o)[^30] ellátja Magyarország Helyreállítási és Ellenállóképességi Tervének (RRF Terv) végrehajtásához kapcsolódó tagállami hatósági feladatokat.
 
 (2) A miniszter az európai uniós források felhasználásáért való felelőssége keretében az európai uniós források felhasználásához kapcsolódó fejlesztéspolitikai adatbázis és információs rendszer működtetésével folyamatosan figyelemmel kíséri az európai uniós forrásból finanszírozott fejlesztési folyamatokat, összehangolja az európai uniós források felhasználását, nyomon követi és értékeli az európai uniós források felhasználásához kapcsolódó fejlesztéspolitikai programok végrehajtására javasolt intézkedések hatásait és azokról a Kormányt tájékoztatja.
 
@@ -38,5 +38,5 @@ a) a kohéziós politika tekintetében összehangolja a 2020 utáni európai uni
 
 b) gondoskodik a 2020 utáni európai uniós programozási időszak legmagasabb szintű nemzeti tervezési dokumentumának (Partnerségi Megállapodás) kidolgozásáról.
 
-[^28]: A 18. §-t a 157/2019. (VI. 28.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte, újonnan az 536/2020. (XII. 1.) Korm. rendelet 2. §-a iktatta be.
-[^29]: A 18. § (1) bekezdés o) pontját a 674/2020. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 18. §-t a 157/2019. (VI. 28.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte, újonnan az 536/2020. (XII. 1.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 18. § (1) bekezdés o) pontját a 674/2020. (XII. 28.) Korm. rendelet 1. §-a iktatta be.

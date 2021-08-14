@@ -1,4 +1,4 @@
-## 158/A. §[^129] A Nemzetbiztonsági Kabinet elnöke ügydöntő jogkörrel gyakorolja a Kormány részére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. § (8) bekezdésében meghatározott hatáskört.
+## 158/A. §[^132] A Nemzetbiztonsági Kabinet elnöke ügydöntő jogkörrel gyakorolja a Kormány részére a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8. § (8) bekezdésében meghatározott hatáskört.
 
 ## 19. Nemzetpolitikai Kabinet
 
@@ -14,4 +14,4 @@
 
 való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
-[^129]: A 158/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 104. §-a iktatta be.
+[^132]: A 158/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 104. §-a iktatta be.

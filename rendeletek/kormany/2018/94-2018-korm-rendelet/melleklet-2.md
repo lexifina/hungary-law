@@ -18,7 +18,7 @@
 
 | 3 | Nemzetstratégiai Kutatóintézet | irányítás |
 
-| 4 | Nemzeti Örökség Intézete | irányítás |
+| 4 |  |  |
 
 ## C) Miniszterelnök kabinetfőnöke
 
@@ -168,6 +168,6 @@
 
 | 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^132]
+2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^135]
 
-[^132]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^135]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.

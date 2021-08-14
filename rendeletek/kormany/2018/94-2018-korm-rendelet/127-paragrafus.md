@@ -1,6 +1,6 @@
 ## 126. § A miniszter a gazdaságfejlesztésért való felelősségi keretében előkészíti a mikro-, kis- és középvállalkozásokra, fejlődésük támogatására, a gazdasági kamarákra és a beruházások ösztönzésére vonatkozó jogszabályokat.
 
-127. §[^94] (1) A miniszter a hulladékgazdálkodásért és a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért való felelőssége keretében előkészíti
+127. §[^95] (1) A miniszter a hulladékgazdálkodásért és a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért való felelőssége keretében előkészíti
 
 a) a hulladékgazdálkodásra és körforgásos gazdaságra vonatkozó jogszabályokat,
 
@@ -40,4 +40,4 @@ b) összehangolja a fenntartható fejlődési célok érvényesülését szolgá
 
 c) képviseli a Kormányt a nemzetközi fenntartható fejlődési szervezetekben.
 
-[^94]: A 127. § a 312/2021. (VI. 7.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^95]: A 127. § a 312/2021. (VI. 7.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.

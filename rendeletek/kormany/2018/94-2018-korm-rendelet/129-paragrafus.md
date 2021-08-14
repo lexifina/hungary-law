@@ -15,3 +15,7 @@ da) az Európai Unió kibocsátáskereskedelmi rendszerének vonatkozásában az
 db) az uniós jogszabályok és a Kiotói Jegyzőkönyv szerinti kibocsátási jogosultságok értékesítését, értékesítési bevételeinek felhasználását, szervezi a felhasználás végrehajtását,
 
 e) felel a fenntartható fejlődésre és a fenntartható fejlesztésekre vonatkozó stratégiaalkotásért és annak végrehajtásáért.
+
+(3)[^98] A miniszter az iparügyekért való felelőssége keretében működteti a védelmi ipari beszállító-fejlesztési program végrehajtásának rendszerét, és a Széchenyi Alapok Kockázati Tőkealap-kezelő Zártkörűen Működő Részvénytársaság útján gondoskodik annak fenntartásáról és finanszírozásáról, valamint a forráskezelési és közvetítői feladatok ellátásáról.
+
+[^98]: A 129. § (3) bekezdését a 483/2021. (VIII. 13.) Korm. rendelet 2. §-a iktatta be.

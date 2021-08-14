@@ -4,7 +4,7 @@
 
 ## 144. § A nemzeti vagyon kezeléséért felelős tárca nélküli miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-1.[^120] – a Kormány 8. § e) pontja szerinti rendeletében meghatározott kivétellel – állami vagyon felügyeletéért,
+1.[^123] – a Kormány 8. § e) pontja szerinti rendeletében meghatározott kivétellel – állami vagyon felügyeletéért,
 
 2. állami vagyonnal való gazdálkodás szabályozásáért,
 
@@ -18,4 +18,4 @@
 
 felelős tagja.
 
-[^120]: A 144. § 1. pontja a 423/2020. (IX. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^123]: A 144. § 1. pontja a 423/2020. (IX. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.

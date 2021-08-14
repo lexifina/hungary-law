@@ -16,7 +16,7 @@ f) együttműködik az egészségügyért felelős miniszterrel a Kormány medd�
 
 g) közreműködik a Kormány otthonteremtési programjának alakításában, a lakásgazdálkodásért és lakáspolitikáért, valamint a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszterrel együttműködve,
 
-h)[^116] közreműködik az emberkereskedelem elleni küzdelemről szóló stratégia végrehajtásában,
+h)[^119] közreműködik az emberkereskedelem elleni küzdelemről szóló stratégia végrehajtásában,
 
 i) felel – az egészségügyért felelős miniszterrel együttműködve – a családbarát szülészetek kialakításáért,
 
@@ -26,12 +26,12 @@ k) koordinálja a nők és férfiak társadalmi egyenlőségének előmozdítás
 
 l) az egészségbiztosításért felelős miniszterrel együttműködve feladatkörében ellátja a szociális biztonsági tárgyú uniós és nemzetközi feladatokat.
 
-m)[^117] együttműködik az egészségügyért felelős miniszterrel a védőnői ellátással és a családvédelmi szolgálattal kapcsolatos szakmai feladatok, valamint a családdal kapcsolatos gondozási és tájékoztatási feladatok ellátásában.
+m)[^120] együttműködik az egészségügyért felelős miniszterrel a védőnői ellátással és a családvédelmi szolgálattal kapcsolatos szakmai feladatok, valamint a családdal kapcsolatos gondozási és tájékoztatási feladatok ellátásában.
 
-(3)[^118] A miniszter a 143/B. §-ban meghatározott feladatainak ellátásába bevonja a Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaságot az állampolgárok számára aktív, kétirányú kommunikációt biztosító ügyfélpont működtetése, továbbá a (2) bekezdés a), b), d), e) és j) pontjában meghatározott feladatok támogatása érdekében közreműködői szolgáltatások nyújtása, a család- és idősügyi, illetve nőpolitikai döntések megalapozása és azok hatásainak vizsgálata körében tudományos kutatási tevékenység végzése, képzések és továbbképzések szervezése, szakmai kiadványok kiadása, valamint ezekhez kapcsolódóan fejlesztési feladatok ellátása tekintetében.
+(3)[^121] A miniszter a 143/B. §-ban meghatározott feladatainak ellátásába bevonja a Családbarát Magyarország Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaságot az állampolgárok számára aktív, kétirányú kommunikációt biztosító ügyfélpont működtetése, továbbá a (2) bekezdés a), b), d), e) és j) pontjában meghatározott feladatok támogatása érdekében közreműködői szolgáltatások nyújtása, a család- és idősügyi, illetve nőpolitikai döntések megalapozása és azok hatásainak vizsgálata körében tudományos kutatási tevékenység végzése, képzések és továbbképzések szervezése, szakmai kiadványok kiadása, valamint ezekhez kapcsolódóan fejlesztési feladatok ellátása tekintetében.
 
 (4) A miniszter irányítása alatt álló Kopp Mária Intézet a Népesedésért és Családokért – kutatási és elemzési tevékenység ellátásával – részt vesz a miniszter (2) bekezdés a), b), valamint d)–i) és k) pontjában meghatározott feladatainak ellátásában.
 
-[^116]: A 143/C. § (2) beekzdés h) pontja a 94/2021. (II. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^117]: A 143/C. § (2) bekezdés m) pontját a 355/2021. (VI. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^118]: A 143/C. § (3) bekezdése a 355/2021. (VI. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^119]: A 143/C. § (2) beekzdés h) pontja a 94/2021. (II. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^120]: A 143/C. § (2) bekezdés m) pontját a 355/2021. (VI. 24.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^121]: A 143/C. § (3) bekezdése a 355/2021. (VI. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
