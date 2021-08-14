@@ -16,7 +16,7 @@
 
 | 7. | Kohéziós Alap projektek | Környezet és Energia Operatív Programok Irányító Hatósága | Nemzeti Fejlesztési Minisztérium |
 
-3. melléklet a 475/2013. (XII. 17.) Korm. rendelethez[^9]
+3. melléklet a 475/2013. (XII. 17.) Korm. rendelethez[^21]
 
 1. A 2007–2013 programozási időszakban az európai területi együttműködési programból, az előcsatlakozási támogatási eszközből és az európai szomszédsági és partnerségi eszközből finanszírozott együttműködések
 
@@ -80,4 +80,4 @@
 
 | 6. | Europe Direct program | Nemzetközi Együttműködési Programok Irányító Hatósága | Miniszterelnökség |
 
-[^9]: 3. mellékletet a 27/2014. (II. 7.) Korm. rendelet 14. §-a iktatta be.
+[^21]: 3. mellékletet a 27/2014. (II. 7.) Korm. rendelet 14. §-a iktatta be.

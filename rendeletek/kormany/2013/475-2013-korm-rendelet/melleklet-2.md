@@ -6,13 +6,13 @@
 
 | 2. | Közigazgatási Reform Programok Irányító Hatósága | Miniszterelnökség |
 
-| 3. | Gazdaságfejlesztési Operatív Programok Irányító Hatósága | Nemzetgazdasági Minisztérium |
+| 3. | Gazdaságfejlesztési Operatív Programok Irányító Hatósága | Pénzügyminisztérium |
 
 | 4. | Környezet és Energia Operatív Programok Irányító Hatósága | Nemzeti Fejlesztési Minisztérium |
 
 | 5. | Közlekedés Operatív Programok Irányító Hatósága | Nemzeti Fejlesztési Minisztérium |
 
-| 6. | Regionális Fejlesztési Programok Irányító Hatósága | Nemzetgazdasági Minisztérium |
+| 6. | Regionális Fejlesztési Programok Irányító Hatósága | Pénzügyminisztérium |
 
 | 7. | Humán Erőforrás Programok Irányító Hatósága | Emberi Erőforrások Minisztériuma |
 
