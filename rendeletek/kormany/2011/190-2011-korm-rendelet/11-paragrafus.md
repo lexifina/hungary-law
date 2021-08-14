@@ -2,7 +2,7 @@
 
 11. § (1) A késleltetést úgy kell megvalósítani, hogy az az elkövetőt a cselekmény kivitelezésében akadályozza, ezáltal biztosítsa az elhárító erők beavatkozásához szükséges időtartamot.
 
-(2)[^32] A késleltetést:
+(2)[^33] A késleltetést:
 
 a) passzív mechanikai gátak, építmények,
 
@@ -12,4 +12,4 @@ c) biztonsági tárolók, lemezszekrények, jármű-karosszériák, és
 
 d) aktiválódó eszközök
 
-[^32]: A 11. § (2) bekezdés záró szövegrésze a 217/2013. (VI. 21.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
+[^33]: A 11. § (2) bekezdés záró szövegrésze a 217/2013. (VI. 21.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.

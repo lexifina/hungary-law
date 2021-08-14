@@ -1,3 +1,5 @@
+## 32/C. §[^69] Ha a jóváhagyott fizikai védelmi tervében közölt adatokhoz képest olyan változás történik, amelyek nem igénylik a fizikai védelmi rendszer módosítását, erről a kötelezett írásban értesíti az OAH-t.
+
 ## 27. Adatszolgáltatás, jelentési rendszer
 
 33. § (1) A kötelezett a detektálást követően azonnal, de legfeljebb két órán belül köteles jelenteni az OAH-nak és a rendőrségnek a nukleáris védettséggel összefüggő vagy a fizikai védelmi rendszert érintő bármilyen szabotázsra vagy jogtalan eltulajdonításra irányuló magatartást és tevékenységet.
@@ -20,6 +22,9 @@ e) jelentésköteles események összefoglaló értékelése;
 
 f) elhatározott javítóintézkedések végrehajtásának állapota; továbbá
 
-g) azon kiinduló események elemzése, amelyek ésszerűen feltételezhető szándékos emberi tevékenység eredményeként a nukleáris védettség, a nukleáris biztonság vagy a sugárvédelem szintjének csökkenéséhez, továbbá rendkívüli esemény kialakulásához vezethetnek.
+g)[^70]
 
 (5) Az OAH és a rendőrség a fizikai védelmi rendszer működőképességének és hatékonyágának ellenőrzése érdekében további adatszolgáltatást írhat elő a kötelezett számára.
+
+[^69]: A 32/C. §-t a 423/2021. (VII. 15.) Korm. rendelet 3. § (5) bekezdése iktatta be.
+[^70]: A 33. § (4) bekezdé g) pontját a 423/2021. (VII. 15.) Korm. rendelet 3. § (7) bekezdése hatályon kívül helyezte.

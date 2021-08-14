@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-190-20-
 | 2018-03-01 | 2011-190-20-22.11 | 27/2018. (II. 28.) Korm. rendelet |
 | 2020-03-21 | 2011-190-20-22.12 | 36/2020. (III. 5.) Korm. rendelet |
 | 2020-09-01 | 2011-190-20-22.13 | 36/2020. (III. 5.) Korm. rendelet |
+| 2021-08-14 | 2011-190-20-22.14 | 423/2021. (VII. 15.) Korm. rendelet |

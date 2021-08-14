@@ -4,6 +4,6 @@
 
 a) a 23. §-ban meghatározott fizikai felmérésen értékelhető eredményt ért el, és
 
-b)[^51] az Országos Képzési Jegyzékről szóló kormányrendeletben szereplő fegyveres biztonsági őr szakképesítés-ráépüléssel vagy azzal egyenértékű szakképesítéssel rendelkezik.
+b)[^52] legalább érettségi végzettséggel rendelkezik.
 
-[^51]: A 22. § b) pontja a 217/2013. (VI. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^52]: A 22. § b) pontja a 423/2021. (VII. 15.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

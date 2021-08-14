@@ -1,9 +1,9 @@
 ## 41. § A rendelet hatálybalépésekor biztonsági őrként foglalkoztatott személyek esetében a fizikai állóképességre vonatkozó követelmények teljesítésének első felmérését a rendelet hatálybalépését követő kilencedik hónap első és utolsó napja között kell elvégezni.
 
-41/A. §[^85] (1) Az egyes atomenergetikai tárgyú kormányrendeletek módosításáról szóló 139/2014. (IV. 30.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított 3. § (5) bekezdését, 32. § (1a) bekezdését a Mód. Kr. hatálybalépésekor[^86] folyamatban lévő eljárásokban is alkalmazni kell.
+41/A. §[^92] (1) Az egyes atomenergetikai tárgyú kormányrendeletek módosításáról szóló 139/2014. (IV. 30.) Korm. rendelettel (a továbbiakban: Mód. Kr.) megállapított 3. § (5) bekezdését, 32. § (1a) bekezdését a Mód. Kr. hatálybalépésekor[^93] folyamatban lévő eljárásokban is alkalmazni kell.
 
-(2) Az OAH a Mód. Kr. hatálybalépését[^87] követő nyolc napon belül írásban tájékoztatja az (1) bekezdés szerinti eljárások ügyfeleit az eljárási határidők változásáról, valamint az eljárás várható időtartamáról.
+(2) Az OAH a Mód. Kr. hatálybalépését[^94] követő nyolc napon belül írásban tájékoztatja az (1) bekezdés szerinti eljárások ügyfeleit az eljárási határidők változásáról, valamint az eljárás várható időtartamáról.
 
-[^85]: A 41/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^86]: A hatálybalépés napja: 2014. május 1.
-[^87]: A hatálybalépés napja: 2014. május 1.
+[^92]: A 41/A. §-t a 139/2014. (IV. 30.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^93]: A hatálybalépés napja: 2014. május 1.
+[^94]: A hatálybalépés napja: 2014. május 1.

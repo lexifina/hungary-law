@@ -414,7 +414,7 @@
 
 ## *Tárgyévben betöltött
 
-6. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^163]
+6. melléklet a 190/2011. (IX. 19.) Korm. rendelethez[^170]
 
 Nukleáris létesítményben alkalmazott programozható rendszerek tervezésére, létesítésére, módosítására vonatkozó védelmi követelmények
 
@@ -492,4 +492,4 @@ Nukleáris létesítményben alkalmazott programozható rendszerek tervezésére
 
 18. A programozható rendszerek működőképességét és funkcionalitását hatékonyan meg kell védeni a nagyon gyors elektromágneses impulzusok ellen. Az engedélyesnek be kell mutatni, hogy milyen kiegészítő intézkedésekkel elégíti ki ezt a követelményt.
 
-[^163]: A 6. mellékletet újonnan a 357/2014. (XII. 29.) Korm. rendelet 4. § (13) bekezdése iktatta be.
+[^170]: A 6. mellékletet újonnan a 357/2014. (XII. 29.) Korm. rendelet 4. § (13) bekezdése iktatta be.
