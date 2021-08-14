@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2021-04-01 | 2016-383-20-22.28 | 110/2021. (III. 5.) Korm. rendelet |
 | 2021-07-09 | 2016-383-20-22.29 | 398/2021. (VII. 6.) Korm. rendelet |
 | 2021-08-01 | 2016-383-20-22.30 | 435/2021. (VII. 16.) Korm. rendelet |
+| 2021-08-14 | 2016-383-20-22.31 | 454/2021. (VII. 30.) Korm. rendelet |

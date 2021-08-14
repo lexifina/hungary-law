@@ -24,9 +24,9 @@ foglaltak tekintetében.
 
 (4)[^152] A Kormány mezőgazdasági igazgatási szervként a földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatalt jelöli ki
 
-a) a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló 1992. évi II. törvény 25/A. §-ában,
+a)[^153]
 
-b) a 9/C. § (3) bekezdése kivételével az Fkbt.-ben,
+b)[^154]
 
 c) a termőföld védelméről szóló 2007. évi CXXIX. törvény (a továbbiakban: Tfvt.) 64. §-ában,
 
@@ -34,15 +34,15 @@ d) a hegyközségi törvény 34. § (4) bekezdésében, 51. § (2) és (3) bekez
 
 e) a Bit. 138. § (1) bekezdés t) pontjában és 145. § (1) bekezdés h) pontjában,
 
-f)[^153] a Földforgalmi tv. 35. § (1) bekezdésében, (4) bekezdésében és (5) bekezdés második mondatában
+f)[^155] a Földforgalmi tv. 35. § (1) bekezdésében, (4) bekezdésében és (5) bekezdés második mondatában
 
-g)[^154] a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 5. § (1) bekezdésében
+g)[^156] a kábítószer előállítására alkalmas növények termesztésének, forgalmazásának és felhasználásának rendjéről szóló 162/2003. (X. 16.) Korm. rendelet 5. § (1) bekezdésében
 
-g)[^155] az Éltv. 57/B. §-ában
+g)[^157] az Éltv. 57/B. §-ában
 
 foglaltak tekintetében.
 
-(5)[^156] A Kormány mezőgazdasági igazgatási szervként a támogatást igénylő székhelye vagy lakóhelye szerint illetékes földművelésügyi igazgatási jogkörben eljáró megyei kormányhivatalt jelöli ki a Széchenyi 2020 pályázati felhívásokban a mezőgazdasági termelők részére előírt igazolások kiállítása tekintetében.
+(5)[^158] A Kormány mezőgazdasági igazgatási szervként a támogatást igénylő székhelye vagy lakóhelye szerint illetékes földművelésügyi igazgatási jogkörben eljáró megyei kormányhivatalt jelöli ki a Széchenyi 2020 pályázati felhívásokban a mezőgazdasági termelők részére előírt igazolások kiállítása tekintetében.
 
 (6) A Kormány mezőgazdasági igazgatási szervként a Tfvt. 5. § (6) bekezdése és a 61. § (1) bekezdése tekintetében a Magyar Államkincstárt jelöli ki.
 
@@ -51,7 +51,9 @@ foglaltak tekintetében.
 [^150]: A 42. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés c) pontja, a 665/2020. (XII. 28.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
 [^151]: A 42 § (2a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (6) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (37) bekezdésével megállapított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^152]: A 42. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^153]: A 42. § (4) bekezdés f) pontját a 457/2017. (XII. 28.) Korm. rendelet 589. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
-[^154]: A 42. § (4) bekezdés g) pontját a 668/2020. (XII. 28.) Korm. rendelet 43. § (1) bekezdése iktatta be.
-[^155]: A 42. § (4) bekezdés újabb g) pontját a 713/2020. (XII. 30.) Korm. rendelet 44. § (5) bekezdése iktatta be.
-[^156]: A 42. § (5) bekezdését a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés d) pontja hatályon kívül helyezte, újonnan a 668/2020. (XII. 28.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^153]: A 42. § (4) bekezdés a) pontját a 454/2021. (VII. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^154]: A 42. § (4) bekezdés b) pontját a 454/2021. (VII. 30.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^155]: A 42. § (4) bekezdés f) pontját a 457/2017. (XII. 28.) Korm. rendelet 589. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^156]: A 42. § (4) bekezdés g) pontját a 668/2020. (XII. 28.) Korm. rendelet 43. § (1) bekezdése iktatta be.
+[^157]: A 42. § (4) bekezdés újabb g) pontját a 713/2020. (XII. 30.) Korm. rendelet 44. § (5) bekezdése iktatta be.
+[^158]: A 42. § (5) bekezdését a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés d) pontja hatályon kívül helyezte, újonnan a 668/2020. (XII. 28.) Korm. rendelet 43. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-## 33. [^222] Az újrahasznosítási eljárásban és a földvédelmi hatósági eljárásokban vizsgálandó szakkérdések
+## 33. [^224] Az újrahasznosítási eljárásban és a földvédelmi hatósági eljárásokban vizsgálandó szakkérdések
 
-79/A. § (1)[^223] A kormányhivatal az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet (a továbbiakban: R.) 1. melléklete szerinti, a Tfvt. hatálya alá tartozó hatósági eljárásokban a bevonás és a közreműködés e mellékletben meghatározott feltételeinek fennállása esetén, az e mellékletben megjelölt szakkérdések tekintetében, az e mellékletben meghatározott hatóságokat mint kijelölt szakhatóságokat köteles megkeresni.
+79/A. § (1)[^225] A kormányhivatal az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet (a továbbiakban: R.) 1. melléklete szerinti, a Tfvt. hatálya alá tartozó hatósági eljárásokban a bevonás és a közreműködés e mellékletben meghatározott feltételeinek fennállása esetén, az e mellékletben megjelölt szakkérdések tekintetében, az e mellékletben meghatározott hatóságokat mint kijelölt szakhatóságokat köteles megkeresni.
 
 (2) A Tfvt. hatálya alá tartozó eljárásokban az ingatlanügyi hatóságnak a 79/B–79/D. §-ban meghatározott szakkérdéseket is vizsgálnia kell.
 
@@ -12,8 +12,8 @@ b) az indokolási részben a vizsgált szakkérdések és a vizsgálat során te
 
 c) a rendelkező részbe foglalt előírások és feltételek indokainak részletes bemutatását.
 
-(4)[^224]
+(4)[^226]
 
-[^222]: A 33. alcímet (79/A–79/D. §-t) a 457/2017. (XII. 28.) Korm. rendelet 589. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
-[^223]: A 79/A. § (1) bekezdése a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés g) pontja szerint módosított szöveg.
-[^224]: A 79/A. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 24. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^224]: A 33. alcímet (79/A–79/D. §-t) a 457/2017. (XII. 28.) Korm. rendelet 589. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^225]: A 79/A. § (1) bekezdése a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^226]: A 79/A. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 24. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
