@@ -1,5 +1,3 @@
-## „(4) A (3) bekezdés b) pontja szerinti esetben az (1) bekezdés szerinti okirat elválaszthatatlan mellékletét képezi a végleges ellenérték kialakulásának folyamatát bemutató, 4. melléklet szerinti dokumentum.”
+## 19. §[^20]
 
-20. § (1) A 647/2020. (XII. 23.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
-
-(2) A 647/2020. (XII. 23.) Korm. rendelet a 2. melléklet szerinti 4. melléklettel egészül ki.
+[^20]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

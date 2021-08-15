@@ -1,3 +1,5 @@
-## 21. § Hatályát veszti a 647/2020. (XII. 23.) Korm. rendelet 31. § (3) és (4) bekezdése.
+## 21. §[^22]
 
 ## 6. Záró rendelkezések
+
+[^22]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
