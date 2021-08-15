@@ -1,3 +1,3 @@
-## 1. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet (a továbbiakban: Rendelet) 8/C. §-a az alábbi (6a) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(6a) A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 136. §-a szerinti jogi személy a közfeladatai teljesítése során az érintett légtérben a (3) bekezdés a)–m) pontjában meghatározott szervek érdekeit nem sértve a pilóta nélküli légijármű-műveletet a közfeladat teljesítéséhez arányosan szükséges mértékben és a közfeladat teljesítéséhez szükséges, de legfeljebb 3 óra időtartamra korlátozhatja. A korlátozás egy alkalommal 3 órával meghosszabbítható, de legfeljebb a műveletre okot adó esemény végéig. A műveleti korlátozást, valamint annak meghosszabbítását a Felületen fel kell tüntetni.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
