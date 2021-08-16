@@ -1,3 +1,3 @@
-32. §[^34]
+## 21–31. §[^10]
 
-[^34]: A 32. § a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^10]: A 21–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

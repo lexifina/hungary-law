@@ -1,3 +1,3 @@
-6. §[^8]
+## 2–5. §[^4]
 
-[^8]: A 6. § a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^4]: A 2–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

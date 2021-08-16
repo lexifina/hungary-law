@@ -1,5 +1,8 @@
+## 32. §[^11]
+
 33. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2013. november 1-jén lép hatályba.
 
-(2)[^35] Az 1. § (2) bekezdése, a 6. §, a 14. §, a 20. § és a 32. § 2022. január 1-jén lép hatályba.
+(2)[^12] Az 1. § (2) bekezdése, a 6. §, a 14. §, a 20. § és a 32. § 2024. január 1-jén lép hatályba.
 
-[^35]: A 33. § (2) bekezdése a 323/2018. (XII. 28.) Korm. rendelet 33. §-ával megállapított, a 317/2020. (VII. 1.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^11]: A 32. § a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^12]: A 33. § (2) bekezdése a 323/2018. (XII. 28.) Korm. rendelet 33. §-ával megállapított, a 482/2021. (VIII. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
