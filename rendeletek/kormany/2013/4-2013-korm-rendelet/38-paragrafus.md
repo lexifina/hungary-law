@@ -16,7 +16,7 @@ d) a társulási részesedések konszolidálását.
 
 a) az (1) és (2) bekezdésben foglaltakat az államháztartás központi alrendszere egészében,
 
-b) az államháztartáson belüli megelőlegezések folyósításának és törlesztésének, az ezek visszafizetésére vonatkozó követelések és kötelezettségek konszolidálását, és
+b)[^200] az államháztartás központi alrendszerén belüli megelőlegezések folyósításának és törlesztésének, az ezek visszafizetésére vonatkozó követelések és kötelezettségek konszolidálását, és
 
 c) a kincstári számlavezetéssel kapcsolatos elszámolások konszolidálását.
 
@@ -31,3 +31,5 @@ c) az elvonások és befizetések bevételei és kiadásai konszolidálását, �
 d) a garancia- és kezességvállalásból származó kifizetések és megtérülések, az ezekre vonatkozó követelések és kötelezettségek konszolidálását.
 
 (5) A konszolidálás során elvégzendő műveletek részletes leírását a 12. melléklet tartalmazza.
+
+[^200]: A 38. § (3) bekezdés b) pontja a 482/2021. (VIII. 13.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.

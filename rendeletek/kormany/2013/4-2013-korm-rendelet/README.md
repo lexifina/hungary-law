@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-22
 | 2020-12-29 | 2013-4-20-22.31 | 678/2020. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2013-4-20-22.32 | 678/2020. (XII. 28.) Korm. rendelet |
 | 2021-07-01 | 2013-4-20-22.33 | 380/2021. (VI. 30.) Korm. rendelet |
+| 2021-08-16 | 2013-4-20-22.34 | 482/2021. (VIII. 13.) Korm. rendelet |

@@ -10,9 +10,9 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^329]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^331]
 
-## Adatszolgáltatás a társadalombiztosítás pénzügyi alapjaiból folyósított egyes ellátások és támogatások tervezett összegeiről és teljesítéséről
+## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
 1. A LXXI. Nyugdíjbiztosítási Alap 2. Nyugdíjbiztosítási ellátásokhoz kapcsolódó kiadások cím, 1. Nyugellátások alcím, 1. Öregségi nyugdíj jogcímcsoport tekintetében a kifizetett ellátások közül:
 
@@ -84,15 +84,21 @@
 
 – praxisfinanszírozás,
 
+– háziorvosi, szakdolgozói bértámogatás,
+
 – indikátorrendszer finanszírozása,
 
 – eseti ellátás díjazása,
 
-– ügyeleti szolgálat.
+– ügyeleti szolgálat,
+
+– háziorvosi szolgáltató számára az egészségügyi államigazgatási szerv által szabad- vagy munkaszüneti napra elrendelt alapellátási tevékenység támogatása.
 
 8. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 2. Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem jogcím tekintetében a kifizetett támogatások közül:
 
 – iskolaegészségügyi ellátás,
+
+– iskolaegészségügyi ellátás bértámogatása,
 
 – védőnői ellátás,
 
@@ -102,7 +108,13 @@
 
 – MSZSZ: nőgyógyászat.
 
-9. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 7. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
+9. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 3. Fogászati ellátás jogcím tekintetében a kifizetett támogatások közül:
+
+– praxisfinanszírozás,
+
+– fogorvosi, szakdolgozói bértámogatás.
+
+10. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 7. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
 
 – méltányossági alapon történő térítések,
 
@@ -116,11 +128,11 @@
 
 – egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete,
 
-– az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése,
+– az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése,
 
 – fiatal szakorvosok támogatása.
 
-10. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 10. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
+11. A LXXII. fejezet 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 10. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
 
 – járóbeteg-szakellátás,
 
@@ -138,10 +150,10 @@
 
 – fogvatartottak egészségügyi ellátása,
 
-– várólista csökkentés,
+– várólista-csökkentés,
 
 – extrafinanszírozás,
 
 – speciális finanszírozású szakellátás.
 
-[^329]: A 4. melléklet a 678/2020. (XII. 28.) Korm. rendelet 9. § (1) bekezdés 5. pontjával megállapított szöveg.
+[^331]: A 4. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 4. pontjával megállapított szöveg.
