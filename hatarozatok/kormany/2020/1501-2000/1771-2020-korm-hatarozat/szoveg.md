@@ -1,12 +1,12 @@
 A Kormány
 
-1. egyetért a lajosmizsei sportcsarnok megvalósítására irányuló beruházás (a továbbiakban: Beruházás) koncepciójával, és annak az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével az ingatlan-nyilvántartás szerinti Lajosmizse belterület 700/2 helyrajzi számú ingatlanon;
+1.[^1] egyetért a lajosmizsei sportcsarnok megvalósítására irányuló beruházás (a továbbiakban: Beruházás) koncepciójával, és annak az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével az ingatlan-nyilvántartás szerinti Lajosmizse belterület 700/2 és 23 helyrajzi számú ingatlanokon;
 
 2. a Beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
 3. egyetért azzal, hogy a Beruházás előkészítője Lajosmizse Város Önkormányzata (a továbbiakban: Önkormányzat), megvalósítója a Beruházási Ügynökség legyen;
 
-4.[^1] a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § p) pontja szerinti előkészítési fázisára, továbbá egyéb, a Beruházáshoz kapcsolódó előkészítési feladatokra 17 508 750 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. október 31. napjáig kell megvalósítani;
+4.[^2] a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § p) pontja szerinti előkészítési fázisára, továbbá egyéb, a Beruházáshoz kapcsolódó előkészítési feladatokra 17 508 750 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. október 31. napjáig kell megvalósítani;
 
 5. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a 4. pontban meghatározott cél szerinti forrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 40. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport javára;
 
@@ -30,4 +30,5 @@ emberi erőforrások minisztere
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
 
-[^1]: A 4. pont az 1469/2021. (VII. 15.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1599/2021. (VIII. 16.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1469/2021. (VII. 15.) Korm. határozat 6. pontja szerint módosított szöveg.
