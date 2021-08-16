@@ -1,0 +1,3 @@
+## „c) átmeneti támogatásként”
+
+## (nyújtható.)

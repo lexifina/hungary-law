@@ -1,0 +1,3 @@
+## 5. § A Korm. rendelet 45. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A támogatásról szóló értesítésben a támogatási szerződés megkötésére meghatározandó időpont – a támogatói okirat kivételével – nem haladhatja meg a támogatási döntésről szóló értesítés kedvezményezett általi kézhezvételét követő harminc napot. A határidőbe a végső kedvezményezett hiánypótlási és tisztázó kérdésre adott válaszadási ideje, valamint a kifogás elbírálásának időtartama nem számít bele. Ha a feltételek teljesítésére a támogatási szerződés megkötését követő harminc napon belül nem kerül sor, a támogatói döntés hatályát veszti.”
