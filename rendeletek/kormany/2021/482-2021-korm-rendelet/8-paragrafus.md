@@ -1,0 +1,1 @@
+## „e) a pótlólagos igénylés során jelentkező finanszírozási különbözetet a 103. § szerinti tájékoztatóban vagy a 104. § szerinti értesítőben meghatározottak szerinti hónaptól kezdődően a (6) bekezdés b) pontja szerinti módon.”
