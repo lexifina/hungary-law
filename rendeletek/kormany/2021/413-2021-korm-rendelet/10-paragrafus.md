@@ -4,4 +4,6 @@
 
 (2) A lebonyolító szerv feladatainak ellátásához közreműködőt kizárólag átmeneti jelleggel vagy speciális szakterületen, a nemzeti hatóság által meghatározott érték felett, a nemzeti hatóság előzetes egyetértésével vonhat be. A közreműködők teljesítéséért a lebonyolító szerv felel.
 
-(3) A lebonyolító szerv feladatait az 1. mellékletben meghatározott szervezet látja el.
+(3)[^2] Lebonyolító szerv bevonása esetén a lebonyolító szerv feladatait az 1. mellékletben meghatározott szervezet látja el.
+
+[^2]: A 10. § (3) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
