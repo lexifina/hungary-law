@@ -14,10 +14,12 @@
 
 ## Határidő: a forrás rendelkezésre állását követő 45 napon belül
 
-1. melléklet az 1756/2020. (XI. 11.) Korm. határozathoz
+1. melléklet az 1756/2020. (XI. 11.) Korm. határozathoz[^1]
 
 | Sorszám | Kedvezményezett | A támogatás célja | A támogatás összege (forint) |
 
 | 1. | Balmazújvárosi Football Club | A Balmazújvárosi FC utánpótlás csapatai számára sportlétesítmény beruházás támogatása | 150 000 000 |
 
-| 2. | Kalmár Zoltán Általános Iskola Diáksportjáért Egyesület | A Kalmár DSE (kézilabda sportág) utánpótlás csapatai számára edzőterem és rehabilitációs központ építése | 100 000 000 |
+| 2. | Kalmár Zoltán Általános Iskola Diáksportjáért Egyesület | rehabilitációs eszközök beszerzése | 100 000 000 |
+
+[^1]: Az 1. melléklet az 1599/2021. (VIII. 16.) Korm. határozat 4. pontja szerint módosított szöveg.
