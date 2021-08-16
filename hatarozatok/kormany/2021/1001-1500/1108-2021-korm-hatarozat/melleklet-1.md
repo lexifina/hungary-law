@@ -76,13 +76,13 @@
 
 ## Határidő: 2021. március 31.
 
-## 9. felhívja az emberi erőforrások miniszterét, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával, a Petőfi Irodalmi Múzeum útján dolgozza ki az egyes ingatlanok lehetséges hasznosításáról szóló részletes szakmai koncepciót, különös tekintettel a fenntartás és üzemeltetés feladataira, költségeire, és készítsen arról előterjesztést a Kormány részére;
+## 9.[^1] felhívja az emberi erőforrások miniszterét, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával, a Petőfi Irodalmi Múzeum útján dolgozza ki az egyes ingatlanok lehetséges hasznosításáról szóló részletes szakmai koncepciót, különös tekintettel a fenntartás és üzemeltetés feladataira, költségeire, és készítsen arról előterjesztést a Kormány részére;
 
 ## Felelős: emberi erőforrások minisztere
 
 ## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-## Határidő: 2021. április 30.
+## Határidő: 2022. május 31.
 
 ## 10. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket a Társaság tulajdonosi joggyakorlóként történő kijelöléséről a MANK Magyar Alkotóművészeti Közhasznú Nonprofit Korlátolt Felelősségű Társaság vonatkozásában.
 
@@ -101,3 +101,5 @@
 | 3. | Szegedi Irodalmi Rezidensház | 6726 Szeged, Fő fasor 81-2. | 1302/2 |
 
 | 4. | Magyar Írók Háza | 1062 Budapest, Bajza utca 18. | 29610/0/A/2 |
+
+[^1]: A 9. pont az 1600/2021. (VIII. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
