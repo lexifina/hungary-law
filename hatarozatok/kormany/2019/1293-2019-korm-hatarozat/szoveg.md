@@ -22,7 +22,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: a 2020. évi központi költségvetés tervezése során
 
-4.[^1] felhívja az emberi erőforrások miniszterét, a miniszterelnök kabinetfőnökét és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság bevonásával – készítsenek előterjesztést a Kormány részére a Beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és a felelősök bemutatásával,
+4.[^1] felhívja az emberi erőforrások miniszterét, a miniszterelnök kabinetfőnökét és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság bevonásával – a Beruházás európai uniós forrásból nem finanszírozható elemeire vonatkozóan készítsenek előterjesztést a Kormány részére a megvalósítás kérdésében, a kivitelezéshez, az eszközbeszerzéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és a felelősök bemutatásával;
 
 Felelős: emberi erőforrások minisztere
 
@@ -30,7 +30,7 @@ a miniszterelnök kabinetfőnöke
 
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
-Határidő: 2021. december 31.
+Határidő: a feltételes közbeszerzési eljárások lezárását követően azonnal
 
 5. felhívja a Miniszterelnökséget vezető minisztert, hogy a Beruházás tekintetében a Beruházást finanszírozó támogatás nyújtása során gondoskodjon arról, hogy az Önkormányzat kötelezettséget vállaljon az állami beruházások központi nyilvántartásáról és ellenőrzéséről szóló 1830/2016. (XII. 23.) Korm. határozat 3. pontjában foglaltak teljesítésére.
 
@@ -38,4 +38,4 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a támogatói okirat kiadásakor
 
-[^1]: A 4. pont az 1939/2020. (XII. 17.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 4. pont az 1600/2021. (VIII. 16.) Korm. határozat 1. pontjával megállapított szöveg.
