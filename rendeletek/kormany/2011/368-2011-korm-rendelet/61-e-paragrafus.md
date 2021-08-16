@@ -2,9 +2,9 @@
 
 ## A GAZDÁLKODÁS SAJÁTOS SZABÁLYAI
 
-## [Az Áht. 42. §-ához][^287]
+## [Az Áht. 42. §-ához][^289]
 
-61/E. §[^288] A központosított bevételt beszedő költségvetési szerv rendelkezési joga a központosított beszedési számla tekintetében a tévesen befizetett összegnek a befizető részére történő visszafizetésére vagy más központosított beszedési számlára történő átutalására, illetve a befizetőnek más okból visszajáró összeg visszautalására terjed ki.
+61/E. §[^290] A központosított bevételt beszedő költségvetési szerv rendelkezési joga a központosított beszedési számla tekintetében a tévesen befizetett összegnek a befizető részére történő visszafizetésére vagy más központosított beszedési számlára történő átutalására, illetve a befizetőnek más okból visszajáró összeg visszautalására terjed ki.
 
-[^287]: Az Ávr. 61/E. §-át megelőző alcímet a 499/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
-[^288]: Az Ávr. 61/E. §-át a 499/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^289]: Az Ávr. 61/E. §-át megelőző alcímet a 499/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^290]: Az Ávr. 61/E. §-át a 499/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.

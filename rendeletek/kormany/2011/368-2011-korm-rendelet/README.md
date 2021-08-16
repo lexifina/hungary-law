@@ -93,3 +93,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2021-01-15 | 2011-368-20-22.85 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2021-03-11 | 2011-368-20-22.86 | 116/2021. (III. 10.) Korm. rendelet |
 | 2021-07-01 | 2011-368-20-22.87 | 356/2021. (VI. 24.) Korm. rendelet |
+| 2021-08-16 | 2011-368-20-22.88 | 482/2021. (VIII. 13.) Korm. rendelet |
