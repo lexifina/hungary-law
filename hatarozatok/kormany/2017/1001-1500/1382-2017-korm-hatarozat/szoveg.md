@@ -82,7 +82,7 @@ b) figyelemmel kíséri a köznevelés színvonalának alakulását, a köznevel
 
 21. A Köznevelés-stratégiai Kerekasztal képviseleti oldalai
 
-a) a kormányzati képviselet, amely a miniszter nevében eljáró, a miniszter által vezetett minisztérium állami vezetőjéből, illetve képviselőjéből és a Nemzetgazdasági Minisztérium, Földművelésügyi Minisztérium, Honvédelmi Minisztérium, Belügyminisztérium egy-egy képviselőjéből áll,
+a)[^1] a kormányzati képviselet, amely a miniszter nevében eljáró, a miniszter által vezetett minisztérium állami vezetőjéből, illetve képviselőjéből és az Innovációs és Technológiai Minisztérium, Agrárminisztérium, Honvédelmi Minisztérium, Belügyminisztérium egy-egy képviselőjéből áll,
 
 b) a szakmai képviselet, amely kilenc főből áll az alábbiak szerint:
 
@@ -94,13 +94,13 @@ bc) a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia és a Rektori
 
 bd) a felsőoktatási intézmények által fenntartott gyakorlóiskolák részéről egy fő,
 
-c) az intézményfenntartói képviselet, amely tizenegy főből áll az alábbiak szerint:
+c)[^2] az intézményfenntartói képviselet, amely tíz főből áll az alábbiak szerint:
 
-ca) az állami köznevelési intézményfenntartói képviseletet ellátó három fő,
+ca)[^3] az állami köznevelési intézményfenntartói képviseletet ellátó kettő fő,
 
 caa) a Klebelsberg Központ koordinálásával két fő a tankerületek képviseletében,
 
-cab) a Nemzeti Szakképzési és Felnőttképzési Hivatal koordinálásával egy fő a szakképzési centrumok képviseletében,
+cab)[^4]
 
 cb) az önkormányzati és nemzetiségi önkormányzati képviseletet ellátó három fő,
 
@@ -166,6 +166,10 @@ d) a tag halálával.
 
 39. Az Országos Köznevelési Tanács és az Országos Nemzetiségi Tanács az Országos Köznevelési Tanácsról és az Országos Nemzetiségi Tanácsról szóló 1855/2013. (XI. 19.) Korm. határozatban meghatározott feladatát az e határozat szerint létrehozott szakmai testületek megalakulásig ellátja.
 
-40.[^1]
+40.[^5]
 
-[^1]: A 40. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 21. pont a) alpontja az 1602/2021. (VIII. 16.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: A 21. pont c) alpont nyitó szövegrésze az 1602/2021. (VIII. 16.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^3]: A 21. pont c) alpont ca) pontja az 1602/2021. (VIII. 16.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
+[^4]: A 21. pont c) alpont ca) pont cab) alpontját az 1602/2021. (VIII. 16.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^5]: A 40. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
