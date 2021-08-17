@@ -1,4 +1,4 @@
-## 8. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^2] E rendeletnek az egyes kulturális beruházásokkal kapcsolatos kormányrendeletek módosításáról szóló 495/2021. (VIII. 16.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5. § (2) bekezdés d) pontját a Módr. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 103/2021. (III. 3.) Korm. rendelethez
 
@@ -41,3 +41,6 @@
 18. azok az 1–17. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 9. §-t a 495/2021. (VIII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2021. augusztus 17.
