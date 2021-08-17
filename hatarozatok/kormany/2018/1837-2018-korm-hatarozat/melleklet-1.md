@@ -54,7 +54,7 @@
 
 ## c) c) alpontja szerinti beruházásnak a Rendelet 2. § (2) bekezdés a)–c) pontja szerinti előkészítési fázisaira 95 250 000 forint,
 
-## – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 454 474 500 forint forrást biztosít azzal, hogy az a) alpont szerinti előkészítési fázisokat legkésőbb 2020. december 31-ig, a b) és c) alpont szerinti előkészítési fázisokat legkésőbb 2020. június 30-ig kell megvalósítani;
+## – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 454 474 500 forint forrást biztosít azzal, hogy az a) és b) alpont szerinti előkészítési fázisokat legkésőbb 2021. december 31-ig, a c) alpont szerinti előkészítési fázisokat legkésőbb 2020. június 30-ig kell megvalósítani;
 
 ## 1.9. az 1.7. pont szerinti beruházások előkészítésének kormányzati felelőseként a miniszterelnök kabinetfőnökét jelöli ki;
 
@@ -72,7 +72,7 @@
 
 ## Felelős: a miniszterelnök kabinetfőnöke
 
-## Határidő: az 1.12. pont a) alpontja szerinti beszámoló tudomásulvételét követő 15 napon belül
+## Határidő: az 1.12. pont a) alpontja szerint
 
 ## 1.11. egyetért azzal, hogy az 1.7. pont szerinti előkészítési fázisokat az Önkormányzat valósítsa meg, és felkéri a kormányzati felelőst, hogy az Önkormányzat részére az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújtson;
 
@@ -86,7 +86,7 @@
 
 ## Felelős: a miniszterelnök kabinetfőnöke
 
-## Határidő: az 1.8. pont a) alpontja tekintetében 2021. január 30., az 1.8. pont b) és c) alpontja tekintetében 2020. július 30.
+## Határidő: az 1.8. pont a) és b) alpontja tekintetében 2022. április 30., az 1.8. pont c) alpontja tekintetében 2020. július 30.
 
 ## b) az 1.7. pont a)–c) alpontja szerinti előkészítési fázisok végrehajtásának eredménye alapján készítsen előterjesztést – az 1.7. pont c) alpontjában meghatározott feladattal összefüggésben jelentkező sportszakmai kérdésben az emberi erőforrások minisztere bevonásával – a Kormány részére, és tegyen javaslatot a Kormány részére a megvalósításának kérdésében a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával;
 
@@ -177,7 +177,7 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 [^1]: Az 1.6. pont az 1290/2019. (V. 17.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^2]: Az 1.8. pont az 1290/2019. (V. 17.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 1.10. pont az 1016/2019. (I. 28.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: Az 1.8. pont az 1290/2019. (V. 17.) Korm. határozat 1. pontjával megállapított, záró szövegrésze az 1603/2021. (VIII. 16.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1.10. pont az 1016/2019. (I. 28.) Korm. határozat 7. pontja, az 1603/2021. (VIII. 16.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
 [^4]: Az 1.12. pont nyitó szövegrésze az 1290/2019. (V. 17.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^5]: Az 1.12. pont a) pontja az 1290/2019. (V. 17.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^5]: Az 1.12. pont a) pontja az 1290/2019. (V. 17.) Korm. határozat 2. pont c) alpontja, az 1603/2021. (VIII. 16.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
