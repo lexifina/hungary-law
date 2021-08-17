@@ -22,19 +22,19 @@
 
 | II. | Az orvostechnikai eszközök nyilvántartásba vételével és megfelelőségértékelési eljárásaival, azokkal kapcsolatos szakvélemények kialakításával kapcsolatos igazgatási szolgáltatások |  |
 
-| II.1. | Orvostechnikai eszközök és az in vitro diagnosztikai orvostechnikai eszközök közül a készülék, berendezés, gép, rendszer nyilvántartásba vétele, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 71 900 Ft/regisztráció |
+| II.1. | Az orvostechnikai eszközökről szóló 4/2009. EüM rendelet (a továbbiakban: 4/2009. EüM rendelet) 17. § (1) és – a II.2. sorban nevesített esetet ide nem értve – (2) bekezdése szerinti bejelentések, a 17. § (2) bekezdése szerinti bejelentés esetében a teljes gyártási folyamatot végrehajtó gyártóhelyenként és tevékenységi körönként, valamint az in vitro diagnosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet (a továbbiakban: 8/2003. ESzCsM rendelet) az in vitro diagnosztikai orvostechnikai eszközök 7. § (1) és (2) bekezdése szerint a készülék, berendezés, gép, rendszer nyilvántartásba vétele, a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével, valamint a 8/2003. ESzCsM rendelet 7/A. § (1) bekezdése szerinti bejelentés | 71 900 Ft/regisztráció |
 
-| II.2. | Rendelésre készített gyógyászati segédeszközök gyártóinak nyilvántartásba vétele, ha azt a gyártó az egyedi méretvétel alapján készült gyógyászati segédeszközök gyártására és kiszolgálására előírt követelmények meglétéről szóló igazolás kiállításával egyidőben kéri | 6 000 Ft/regisztráció |
+| II.2. | Rendelésre készített orvostechnikai eszköz gyártók és az eszközök nyilvántartásba vétele, ha azt a gyártó a II.4. sorban előírt igazolás kiállításával egy időben kéri | 6 000 Ft/regisztráció |
 
-| II.3. | Megfelelőségértékelő szervezetek kijelölése, felülvizsgálat végzésére jogosult szervezetek kijelölése | 124 000 Ft/eset |
+| II.3. | Megfelelőség értékelő szervezetek kijelölése kérelmenként, a kijelölések felügyelete és az időszakos felülvizsgálat végzésére jogosult szervezetek kijelölése a 4/2009. EüM rendelet 13. melléklete szerinti eszköztípusonként | 124 000 Ft/eset |
 
 | II.4. | Az egyedi méretvétel alapján készült gyógyászati segédeszközök gyártására és kiszolgálására előírt követelmények meglétének igazolása |  |
 
 | 1–5 fős telephely esetén 6–10 fős telephely esetén 10 fő feletti telephely esetén | 140 000 Ft 205 000 Ft 377 000 Ft |
 
-| II.5. | A nyilvántartásban, valamint a határozatban szereplő adatokban bekövetkező változások átvezetése | 16 000 Ft |
+| II.5. | A II.1–2., II.6. és II.12. sorok szerinti bejelentésekben, valamint a II.4. sor szerinti határozatban szereplő adatokban bekövetkező változások átvezetése (kivéve eszközök törlése) | 16 000 Ft |
 
-| II.6. | Az in vitro diagnosztikai orvostechnikai eszközök közül a reagensek, reagens származékok, kalibráló és kontroll anyagok, reagens készletek nyilvántartásba vétele eszközcsoportonként, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 17 000 Ft |
+| II.6. | Az in vitro diagnosztikai orvostechnikai eszközök közül a reagensek, reagens származékok, kalibráló és kontroll anyagok, reagens készletek in vitro diagsznosztikai orvostechnikai eszközökről szóló 8/2003. (III. 13.) ESzCsM rendelet 7. § (1) és (2) bekezdése szerinti nyilvántartásba vétele eszközcsoportonként, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 17 000 Ft |
 
 | II.7. | Igazolás kiállítása hazai gyártású orvostechnikai eszköz EU-n kívül történő forgalmazásához angol nyelven, az igazolásban maximum 60 termék (maximum 60 sorban) feltüntetésével | 35 000 Ft |
 
@@ -44,7 +44,7 @@
 
 | II.10. | Eseti használatba vételi engedély kiállítása | 60 600 Ft |
 
-| II.11. | Orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv lényeges módosítása | 500 000 Ft (ebből a szakhatósági eljárás díja: 320 000 Ft) |
+| II.11. | Orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 180 000 Ft/kérelem |
 
 | III. | Európai Egészségbiztosítási Kártya, illetve TAJ-számot igazoló okmány kiadással kapcsolatos igazgatási szolgáltatás |  |
 
@@ -60,6 +60,6 @@
 
 | VI. 1. | A tevékenységi engedély kiadás | 168 000 Ft (ebből a szakhatósági eljárás díja: 84 000 Ft) |
 
-2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^24]
+2. számú melléklet az 50/1996. (XII. 27.) NM rendelethez[^27]
 
-[^24]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.
+[^27]: A 2. számú mellékletet a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 20. pontja hatályon kívül helyezte.

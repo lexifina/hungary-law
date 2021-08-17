@@ -1,4 +1,4 @@
-## 1. §[^1] E rendelet hatálya kiterjed az egészségügyért felelős miniszter által vezetett minisztériumnál, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél, az Állami Egészségügyi Ellátó Központnál, a Nemzeti Egészségbiztosítási Alapkezelőnél, valamint az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivataloknál és járási hivataloknál (a továbbiakban együtt: intézmény) az 1. számú melléklet szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
+## 1. §[^1] E rendelet hatálya kiterjed az egészségügyért felelős miniszter által vezetett minisztériumnál, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél, az Országos Kórházi Főigazgatóságnál, a Nemzeti Egészségbiztosítási Alapkezelőnél, valamint az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivataloknál és járási hivataloknál (a továbbiakban együtt: intézmény) az 1. számú melléklet szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
 
 2. § (1)[^2] A díjfizetésre kötelezett az igazgatási szolgáltatásokért az 1. számú mellékletben meghatározott mértékű igazgatási szolgáltatási díjat köteles megfizetni.
 
@@ -12,24 +12,24 @@
 
 (6)[^6] Díjmentes az új eljárás, ha a jogorvoslati eljárásban a másodfokon eljáró intézmény az első fokon eljárt intézmény részben vagy egészben jogszabálysértő határozatát megsemmisíti és az első fokon eljáró intézményt új eljárás lefolytatására utasítja.
 
-(7)[^7] Az 1. számú melléklet II. 11. alpontja szerinti orvostechnikai eszköz klinikai vizsgálati engedélyének módosítása során minden egyes önálló, külön jogszabály szerinti, egymással össze nem függő lényeges módosítás iránti kérelem külön díj köteles, függetlenül attól, hogy a kérelmet egyedileg vagy több vizsgálatra vonatkozóan csoportosítva egyidejűleg nyújtják be.
+(7)[^7] Az 1. számú melléklet II. 11. alpontja szerinti orvostechnikai eszköz klinikai vizsgálati engedélyének módosítása során minden egyes önálló, külön jogszabály szerinti, egymással össze nem függő lényeges módosítás iránti kérelem díjköteles, függetlenül attól, hogy a kérelmet egyedileg vagy több vizsgálatra vonatkozóan csoportosítva egyidejűleg nyújtják be.
 
-(8)[^8] Az intézmény a hozzá befizetett, az 1. számú melléklet II. 11. pontja szerinti díjból az orvostechnikai eszköz klinikai vizsgálatának engedélyezése, illetve az engedély lényeges módosítása esetén – a szakhatósági állásfoglalásért – a díjtétel ott meghatározott részét az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) részére átutalja.
+(8)[^8]
 
-(9)[^9] Az 1. számú melléklet II. 11. alpontja szerinti orvostechnikai eszköz klinikai vizsgálati engedélyének előzetes szakhatósági állásfoglalására irányuló kérelem esetén a kérelmező a (8) bekezdés szerinti díjtétel részt az előzetes szakhatósági eljárás megindításakor köteles az ÁEEK 10032000-01490576-00000000 számú számlájára átutalással, készpénzátutalási megbízással, belföldi postautalvány útján megfizetni vagy a házipénztárba befizetni.
+(9)[^9]
 
 (10)[^10] Mentesül az 1. számú melléklet I. pont I.6. és I.7. alpontjában meghatározott díjfizetési kötelezettség alól az illetékekről szóló törvény alapján személyes illetékmentességre jogosult kérelmező, valamint a személyes illetékmentességre jogosult végfelhasználó részére történő beszerzést végző.
 
 (11)[^11]
 
-[^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított, a 35/2021. (VIII. 16.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése az 5/2001. (II. 22.) EüM rendelet 2. §-ával megállapított és a 71/2004. (VIII. 11.) ESZCSM rendelet 4. § a) pontja, a 2/2009. (I. 30.) EüM rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (4) bekezdése a 2/2009. (I. 30.) EüM rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.
 [^5]: A 2. § (5) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^6]: A 2. § (6) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. § (7) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be.
-[^8]: A 2. § (8) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 10. § b) pontja szerint módosított szöveg.
-[^9]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 10. § c) pontja szerint módosított szöveg.
+[^7]: A 2. § (7) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, szövege a 35/2021. (VIII. 16.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
+[^8]: A 2. § (8) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 4. §-a.
+[^9]: A 2. § (9) bekezdését a 34/2009. (X. 20.) EüM rendelet 2. § (1) bekezdése iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 4. §-a.
 [^10]: A 2. § (10) bekezdését a 29/2012. (IX. 25.) EMMI rendelet 1. §-a iktatta be.
 [^11]: A 2. § (11) bekezdését a 42/2015. (IX. 18.) EMMI rendelet 7. §-a iktatta be, hatályon kívül helyezte az 54/2016. (XII. 30.) EMMI rendelet 5. § (3) bekezdése.
