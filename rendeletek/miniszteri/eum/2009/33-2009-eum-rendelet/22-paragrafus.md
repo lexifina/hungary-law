@@ -1,4 +1,4 @@
-## 21. § A vizsgáló minden váratlan eseményről, balesetről haladéktalanul értesíti a vizsgálatvezetőt és a megbízót. A vizsgáló a haladéktalan értesítést követően az eseményről részletes írásos jelentést is küld a megbízónak.
+## 21. §[^24] A vizsgáló minden nemkívánatos eseményről haladéktalanul értesíti a vizsgálatvezetőt és a megbízót. A vizsgáló a haladéktalan értesítést követően az eseményről részletes írásos jelentést is küld a megbízónak.
 
 22. § (1) A megbízó gondoskodik minden súlyos mellékhatás, nem várt mellékhatás és minden arra vonatkozó lényeges információ haladéktalan – de legkésőbb a tudomására jutását követő három napon belüli – jelentéséről.
 
@@ -13,3 +13,5 @@
 (6) A megbízó a vizsgálat teljes időtartama alatt a vizsgálati eszközzel kapcsolatban előfordult minden súlyos mellékhatásról, valamint a vizsgálati alanyok biztonságáról szóló jelentést csatolja a vizsgálati dokumentációhoz.
 
 (7) A 20–21. §-ban foglalt rendelkezéseken túlmenően a vizsgálati alanyok biztonságát veszélyeztető, a vizsgálat folytatásával vagy a vizsgálati eszköz fejlesztésével kapcsolatosan felmerülő új esemény bekövetkezése után a megbízónak és a vizsgálónak meg kell tennie a megfelelő sürgős biztonsági intézkedéseket annak érdekében, hogy a vizsgálati alanyokat és minden más személyt megvédjen minden közvetlen veszéllyel szemben. A megbízónak az ilyen eseményekről és a megtett intézkedésekről azonnal tájékoztatnia kell az engedélyezőt.
+
+[^24]: A 21. § a 35/2021. (VIII. 16.) EMMI rendelet 42. §-ával megállapított szöveg.

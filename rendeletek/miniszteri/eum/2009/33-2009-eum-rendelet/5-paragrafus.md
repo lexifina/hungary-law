@@ -1,9 +1,3 @@
-## 5. § A vizsgálatot úgy kell megtervezni és végrehajtani, hogy a vizsgálat során nyert klinikai adatok
+## 4. §[^5]
 
-a) objektív,
-
-b) hiteles,
-
-c) reprodukálható
-
-eredményre vezessenek a vizsgálat céljainak kritikai elemzéséhez.
+[^5]: A 4. §-t a 35/2021. (VIII. 16.) EMMI rendelet 48. § b) pontja hatályon kívül helyezte.

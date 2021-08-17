@@ -1,11 +1,10 @@
-## 19. § Minden váratlan eseményt és balesetet teljes egészében rögzíteni kell az orvostechnikai eszközökről szóló külön jogszabály szerinti adatlapon.
+## 19. §[^22] A klinikai vizsgálatokkal kapcsolatos nemkívánatos eseményeket, súlyos nemkívánatos eseményeket és eszközhibákat a megbízónak az orvostechnikai eszközökről szóló miniszteri rendeletben, illetve az MDR 80. cikkében meghatározott módon be kell jelentenie az engedélyezőnek.
 
-20. § (1) A megbízó, vagy a meghatalmazott képviselő, vagy a vizsgálatvezető (illetve az egészségügyi szolgáltatást nyújtó szerv vezetője), vagy az IKEB haladéktalanul, de legfeljebb három napon belül köteles bejelenteni az engedélyező részére a klinikai vizsgálatra szánt eszközzel összefüggésben bekövetkezett váratlan eseménnyel, balesettel kapcsolatos adatot.
+20. §[^23] (1) A klinikai vizsgálatra szánt eszközzel összefüggésben bekövetkezett nemkívánatos eseménnyel kapcsolatos adatot a megbízó, a meghatalmazott képviselő vagy a vizsgáló (illetve az egészségügyi szolgáltatást nyújtó szerv vezetője), valamint az IKEB az engedélyező, illetve a bejelentés tárgyában eljáró hatóság részére legfeljebb három napon belül köteles bejelenteni.
 
-(2) A váratlan esemény jelentésére minden, a vizsgálatban érintett személy jogosult.
+(2) A nemkívánatos esemény engedélyező, illetve a bejelentés tárgyában eljáró hatóság részére történő jelentésére minden, a vizsgálatban érintett személy jogosult.
 
-(3) A megbízó a jelentési kötelezettség alól nem mentesül azáltal, hogy más a jelentést megtette.
+(3) Ha a megbízó a 19. § és az (1) bekezdés előírásainak nem tesz eleget, a vizsgálatot az engedélyező felfüggeszti, és elvégzi az esemény kivizsgálását.
 
-(4) A megbízó a jelentés megküldésével egy időben az esemény kivizsgálásának időtartamára felfüggeszti a vizsgálatot. A kivizsgálás eredményét és a további hasonló esemény megtörténtét megakadályozó intézkedését a megbízó az esemény lezáró jelentésében megküldi az engedélyezőnek és a vizsgálatban érintetteknek.
-
-(5) Amennyiben a megbízó a (3)–(4) bekezdés előírásainak nem tesz eleget, a vizsgálatot az engedélyező felfüggeszti, és elvégzi az esemény kivizsgálását.
+[^22]: A 19. § a 35/2021. (VIII. 16.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^23]: A 20. § a 35/2021. (VIII. 16.) EMMI rendelet 42. §-ával megállapított szöveg.

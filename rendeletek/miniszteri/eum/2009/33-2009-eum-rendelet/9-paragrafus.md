@@ -1,16 +1,16 @@
-## 8. §[^5] Ha a megbízó a vizsgálattal kapcsolatos egyes feladatának vagy feladatainak teljesítésével megbíz más természetes vagy jogi személyt, ebben az esetben is a megbízó felel az e rendeletben és a külön jogszabályokban foglalt, klinikai vizsgálatokra vonatkozó rendelkezések betartásáért.
+## 8. §[^10] Ha a megbízó a vizsgálattal kapcsolatos egyes feladatának vagy feladatainak teljesítésével megbíz más természetes vagy jogi személyt, ebben az esetben is a megbízó felel az e rendeletben és a külön jogszabályokban foglalt, klinikai vizsgálatokra vonatkozó rendelkezések betartásáért.
 
 ## A vizsgálati alanyok védelme
 
-9. § (1) A vizsgálati alany jogai, biztonsága, illetve fizikai és pszichikai egészsége elsőbbséget élveznek a tudomány és a társadalom érdekeivel szemben, ezért a vizsgálat alanyát érintő kockázatot a lehető legkisebb mértékűre kell korlátozni.
+9. § (1)[^11]
 
-(2) A vizsgálatba cselekvőképes személyt akkor lehet bevonni, ha biztosítottak az Eütv. 159. § (1)–(3) bekezdésében meghatározott feltételek, illetve az e rendeletben előírt követelmények teljesítése.
+(2)[^12]
 
 (3) A vizsgálat a vizsgálati alany számára nem helyettesítheti az állapotának megfelelő egyéb vizsgálatokat és gyógykezeléseket.
 
 (4) Placebo tervezett alkalmazása esetén a hatósági engedélyezés iránti kérelemhez benyújtott kutatási dokumentációnak tartalmaznia kell a vizsgálatban alkalmazandó placebo kontrollcsoport szükségességének egyedi indokolását. Placebo alkalmazása nem jelenthet a vizsgálati alany számára jelentős további kockázatot, illetve nem idézheti elő visszafordíthatatlan egészségkárosodás veszélyét. Placebot a szükséges legrövidebb ideig szabad csak alkalmazni, a vizsgálati alany állapotát a vizsgálat során folyamatosan ellenőrizni kell. A vizsgálati alanyt jelentős állapotromlására utaló tünetek esetén haladéktalanul a tudományosan elfogadott, rendelkezésre álló legjobb terápiában kell részesíteni.
 
-(5) A vizsgálatot úgy kell tervezni és lefolytatni, hogy minimalizálja a vizsgálati alany esetleges károsodását, fájdalmát, pszichikai károsodását. A vizsgálati alany életkorához, egészségi állapotához kapcsolódó minden előre látható kockázatot figyelembe kell venni a vizsgálat tervezésénél és ellenőrzésénél.
+(5)[^13]
 
 (6) A vizsgálati alany egészségi állapotát a vizsgálat megkezdése előtt, a vizsgálat során folyamatosan és a vizsgálatot követően gondosan ellenőrizni és dokumentálni kell.
 
@@ -24,4 +24,7 @@
 
 (11) A vizsgálati eszközöket és az esetlegesen az azok alkalmazására használt eszközöket a megbízónak térítésmentesen kell rendelkezésre bocsátania.
 
-[^5]: A 8. § a 16/2014. (III. 12.) EMMI rendelet 17. §-a szerint módosított szöveg.
+[^10]: A 8. § a 16/2014. (III. 12.) EMMI rendelet 17. §-a szerint módosított szöveg.
+[^11]: A 9. § (1) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 48. § d) pontja hatályon kívül helyezte.
+[^12]: A 9. § (2) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 48. § d) pontja hatályon kívül helyezte.
+[^13]: A 9. § (5) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 48. § d) pontja hatályon kívül helyezte.

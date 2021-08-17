@@ -1,1 +1,3 @@
-## 14. § Egészséges önkéntesként vizsgálatba csak cselekvőképes személy vonható be.
+## 14. §[^18]
+
+[^18]: A 14. §-t a 35/2021. (VIII. 16.) EMMI rendelet 48. § e) pontja hatályon kívül helyezte.
