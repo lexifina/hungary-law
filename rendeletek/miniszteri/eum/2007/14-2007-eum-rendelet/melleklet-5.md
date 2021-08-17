@@ -68,7 +68,7 @@
 
 ## 4.6. Áfa kulcsa
 
-## 4.7. Az eszköz besorolása az R. 9. számú melléklete szerinti osztályba sorolási szabályok alapján
+## 4.7. Az eszköz besorolása az orvostechnikai eszközökre vonatkozó osztályba sorolási szabályok alapján
 
 ## 4.8. Az eszköz nettó beszerzési ára forintban
 
@@ -76,7 +76,7 @@
 
 ## 5.1. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó- és színezőanyagok pontos leírását is) (vagy az idevonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
 
-## 5.2. Az eszköz egyszerű leírása és alkalmazási célja: a címkén és a használati útmutatóban is megadott, az R. 4. § (1) bekezdés 15. pontja szerinti alkalmazási célja, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata)
+## 5.2. Az eszköz egyszerű leírása és rendeltetése: a címkén és a használati útmutatóban is megadott, az R. 4. § (1) bekezdés 15. pontja szerinti rendeltetése, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata)
 
 ## 5.3. Tartozékok, kiegészítők
 
@@ -182,6 +182,6 @@
 
 ## 11.12. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^162]
+5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^164]
 
-[^162]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja szerint módosított szöveg.
+[^164]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 21. § g) pontja szerint módosított szöveg.

@@ -54,7 +54,7 @@
 
 ## 5.2. Az eszköz (és tartozékai) anyagának, több anyag esetén az összetevők nevének és százalékos összetételének leírása (beleértve a bevonó és színező anyagok pontos leírását is) (vagy az ide vonatkozó adatok helyének megjelölése a beadott műszaki dokumentációban)
 
-## 5.3. Az eszköz egyszerű leírása és az R. 4. § (1) bekezdés 15. pontja szerinti alkalmazási célja, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata, ha a nevéből és a leírásból nem egyértelmű)
+## 5.3. Az eszköz egyszerű leírása és az R. 4. § (1) bekezdés 15. pontja szerinti rendeltetése, hatásmódja, ismertető fénykép, rajz, prospektus (működésének a leírása, magyarázata, ha a nevéből és a leírásból nem egyértelmű)
 
 ## 5.4. Javaslat az eszköz kihordási idejére
 
@@ -120,7 +120,7 @@
 
 ## 10.13. A véleményező neve, szakképzettségei, beosztása, munkahelye, a vélemény kiadásának kelte
 
-6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^163]
+6. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^165]
 
 A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem támogatja:
 
@@ -148,4 +148,4 @@ A járóbeteg gyógyászati segédeszköz költségvetési keretből a NEAK nem 
 
 12. a kizárólag kozmetikai célt szolgáló gyógyászati segédeszközöket.
 
-[^163]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^165]: A 6. számú melléklet a 7/2016. (III. 30.) EMMI rendelet 15. § (6) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés j) pontja, a 16/2020. (IV. 30.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
