@@ -26,7 +26,7 @@
 
 12. kulturális javak: a Kötv. 7. § 10. pontjában ekként meghatározott fogalom,
 
-13. orvostechnikai eszköz: az Eütv. 3. § h) pontjában ekként meghatározott fogalom,
+13.[^2] orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában ekként meghatározott fogalom;
 
 14. sportlétesítmény: a sportról szóló 2004. évi I. törvény 77. § s) pontjában ekként meghatározott fogalom,
 
@@ -37,3 +37,4 @@
 (2) Az e rendeletben foglaltakat a honvédelmi miniszter irányítása és felügyelete alatt álló egészségügyi szolgáltatók tekintetében nem kell alkalmazni.
 
 [^1]: Az 1. § (1) bekezdése a 43/2020. (XI. 26.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 13. pontja a 35/2021. (VIII. 16.) EMMI rendelet 55. §-ával megállapított szöveg.
