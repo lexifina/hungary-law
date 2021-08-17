@@ -888,13 +888,13 @@
 
 ## 9 Legalább két szivattyús, orvostechnikai eszközök tisztítására-fertőtlenítésére engedélyezett, validálható [(EN ISO 15883) szabvány alapján] készülékek. Új egység kialakításánál a kétajtós átadórendszerű berendezések beépítése engedélyezett.
 
-## 10 Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek megfelelő, validálható és megfelelőségi tanúsítvánnyal rendelkező (CE és négyjegyű Notified Body azonosító), kétajtós átadórendszerű berendezések beépítése engedélyezett.
+## 10 Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet, illetve az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet követelményeinek megfelelő, validálható és megfelelőségi tanúsítvánnyal rendelkező (CE és négyjegyű Notified Body azonosító), kétajtós átadórendszerű berendezések beépítése engedélyezett.
 
 ## 11 A 10. pontban leírtaknak megfelelő, de nem kétajtós autokláv.
 
-## 12 Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek megfelelő, vákuum alatt üzemelő, validálható és gázmegsemmisítő berendezéssel felszerelt etilénoxidos gázsterilizáló berendezés beépítése engedélyezett.
+## 12 Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet, illetve az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet követelményeinek megfelelő, vákuum alatt üzemelő, validálható és gázmegsemmisítő berendezéssel felszerelt etilénoxidos gázsterilizáló berendezés beépítése engedélyezett.
 
-## 13 Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet követelményeinek megfelelő, validálható és megfelelőségi tanúsítvánnyal rendelkező (CE és négyjegyű Notified Body azonosító) formalinos autokláv és plazma sterilizátor beépítése engedélyezett. Ajánlott a kétajtós átadórendszerű berendezés telepítése.
+## 13 Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet, illetve az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet követelményeinek megfelelő, validálható és megfelelőségi tanúsítvánnyal rendelkező (CE és négyjegyű Notified Body azonosító) formalinos autokláv és plazma sterilizátor beépítése engedélyezett. Ajánlott a kétajtós átadórendszerű berendezés telepítése.
 
 ## 14Csak abban az esetben, ha a fertőtlenítő takarítást a sterilizáló egység saját személyzete végzi.
 
@@ -5197,51 +5197,5 @@ Ezt az egységet kell rendelni minden szülőszobához, szülészeti műtőhöz,
 | Speciális katéter készlet valamennyi szükséges méretben, a hozzá tartozó introducer szettel, összekötő, mannifoldok, fecskendők, izoláló anyagokkal együtt | X |
 
 | Betegszállító kocsi | X |
-
-| Csecsemő- és gyermekkardiológiai járóbeteg szakrendelés/szakambulancia |
-
-|  | EKG vizsgálatok (Holter) | Ambuláns EKG monitorozás (Holter) | Terheléses kardiológiai vizsgáló módszerek | Echocardiographiás vizsgálatok |
-
-| Személyi feltételek: |  |  |  |  |
-
-| Csecsemő- és gyermekkardiológia szakorvos | 1 | 1 | 1 |  |
-
-| Csecsemő- és gyermekkardiológia szakorvos (licensz vizsgával rendelkező) |  |  |  | 1 |
-
-| Asszisztens/szakasszisztens | 1 | 1 |  |  |
-
-| Kardiológiai és angiológiai szakasszisztens |  |  | 1 | 1 |
-
-| Tárgyi feltételek: a rendelő általános feltételei + |  |  |  |  |
-
-| Pulzoxymeter | X | X | X | X |
-
-| 12 elvezetéses EKG | X | X | X | X |
-
-| Szakambulanciánként orvosonként 1 kiértékelő |  | X |  |  |
-
-| Kerékpár ergométer |  |  | EK |  |
-
-| Futószalag ergométer |  |  | EK |  |
-
-| Hordozható defibrillátor |  |  | EL |  |
-
-| Megfelelő Dopplerrel is rendelkező echocardiográf (2D, M-Mode, színes és folyamatos Dopplerrel felszerelve) |  |  |  | X |
-
-| Video vagy digitális dokumentáció |  |  |  | X |
-
-| 3612E: transzoesophageális transzducer |  |  |  | EK |
-
-| 3612M: infúziós pumpa, resuscitációs gyógyszerek és eszközök, külső pacemaker, defibrillátor |  |  |  | X |
-
-| Csecsemő- és gyermekszívsebészet | Szakmakód: | 0215 |
-
-A csecsemő- és gyermekszívsebészeti osztály (III. progresszivitási szint), szívsebészeti intenzív osztály és szívsebészeti műtő szakmai minimumfeltételei megegyeznek a szívsebészetnél leírtakkal, azzal a kiegészítéssel, hogy az ott dolgozó szívsebész és aneszteziológus szakorvosoknak legalább 2 éves speciális csecsemő- és gyermekszívsebészeti gyakorlattal kell rendelkezniük.
-
-| Gyermek-tüdőgyógyászat | Szakmakód: | 0504 |
-
-II. szint: csecsemő- és gyermekosztály gyermek-tüdőgyógyászati ellátással.
-
-III. szint: csecsemő- és gyermekosztály gyermek-tüdőgyógyászati ellátással/gyermek-tüdőgyógyászati osztály, speciális feladatokkal.
 
 [^66]: A 2. melléklet a 73/2013. (XII. 2.) EMMI rendelet 3. § (2) bekezdésével megállapított, a 11/2014. (II. 24.) EMMI rendelet 36. §-a, a 41/2014. (VI. 30.) EMMI rendelet 1. § (1) bekezdése, az 52/2014. (XII. 19.) EMMI rendelet 2. § (2) bekezdése, a 16/2015. (III. 30.) EMMI rendelet 19. §-a, a 23/2015. (IV. 28.) EMMI rendelet 50. § c)–g) pontja, a 42/2015. (IX. 18.) EMMI rendelet 12. §-a, az 54/2015. (XI. 24. EMMI rendelet 21. § (1) bekezdése, a 2/2016. (I. 15.) EMMI rendelet 4. §-a, a 7/2016. (III. 30.) EMMI rendelet 5. §-a, az 54/2016. (XII. 30.) EMMI rendelet 32. § (1) bekezdés b)–d) pontja és (2) bekezdése, a 44/2016. (XII. 28.) EMMI rendelet 25. § (1) bekezdése, a 28/2017. (X. 25.) EMMI rendelet 21. §-a, a 38/2017. (XII. 29.) EMMI rendelet 4. § b)–d) pontja, a 44/2018. (XII. 19.) EMMI rendelet 2. §-a, a 10/2019. (VI. 19.) EMMI rendelet 3. §-a, a 24/2019. (X. 31.) EMMI rendelet 2. § (1) bekezdése, a 26/2020. (VIII. 4.) EMMI rendelet 13. §-a, a 33/2020. (IX. 16.) EMMI rendelet 3. §-a szerint módosított szöveg.
