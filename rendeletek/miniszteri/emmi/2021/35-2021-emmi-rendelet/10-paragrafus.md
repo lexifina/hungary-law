@@ -1,0 +1,1 @@
+## „(5) A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pont aa) alpontjában foglalt díj 46%-a az OGYÉI, 54%-a az ETT TUKEB bevétele. A (3) bekezdés a) pont aa) alpontjában említett módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg.”

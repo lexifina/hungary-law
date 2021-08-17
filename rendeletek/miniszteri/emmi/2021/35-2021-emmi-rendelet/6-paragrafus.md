@@ -1,0 +1,5 @@
+## 5. § Az emberen végzett orvostudományi kutatásokról szóló 23/2002. (V. 9.) EüM rendelet (a továbbiakban: R2.) 2. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+## (E rendelet alkalmazásában)
+
+## „a) beleegyező nyilatkozat: a vizsgálatban részt vevő cselekvőképes személynek az Eütv. 159. § (1) bekezdés e) pontja szerinti nyilatkozata, illetve korlátozottan cselekvőképes kiskorú és cselekvőképességében az egészségügyi ellátással összefüggő jogok gyakorlása tekintetében, valamint valamely vagyoni jellegű ügycsoport tekintetében részlegesen korlátozott vagy cselekvőképtelen személy esetén az Eütv. 159. § (4) bekezdés d) pontja szerinti nyilatkozat, orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR) 63. cikke szerinti tájékoztatáson alapuló beleegyező nyilatkozat;”
