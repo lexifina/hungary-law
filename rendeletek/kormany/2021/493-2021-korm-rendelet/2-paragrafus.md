@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Kirgiz Köztársaság Kormánya között a Magyar–Kirgiz Fejlesztési Alapról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
