@@ -1,3 +1,3 @@
-## 4. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 65/C. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^4]
 
-## „(1) Az Áht. 49. §-a szerinti lebonyolító szervvel a fejezetet irányító szerv megállapodást köt. A megállapodásban rögzíteni kell az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, így különösen a számára rendelkezésre bocsátott összeg felhasználásának határidejét, valamint az elszámolással kapcsolatos szabályokat, továbbá a lebonyolító szerv adminisztratív jellegű feladatait, így különösen a költségvetési támogatásokkal kapcsolatos technikai jellegű feladatokat, a beszámolók, részbeszámolók összesítését, a támogató döntéseit előkészítő, illetve végrehajtó jellegű feladatokat.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

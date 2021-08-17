@@ -1,26 +1,32 @@
-## szerint módosul.
-
 ## 11. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet
 
-1. 53/A. § (1) bekezdésében és (2) bekezdés b) pontjában a „több év” szövegrész helyébe a „költségvetési évet követő év vagy évek” szöveg,
+1.[^12]
 
-2. 53/A. § (2) bekezdés b) pontjában a „költségvetési évet követő éveket” szövegrész helyébe a „költségvetési évet követő évet vagy éveket” szöveg,
+2.[^13]
 
-3. 61. § (3) bekezdés nyitó szövegrészében a „gazdasági társaságnál (ezen alcím alkalmazásában a továbbiakban: állami tulajdonú gazdasági társaság)” szövegrész helyébe a „gazdasági társaságnál, valamint az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaságnál (ezen alcím alkalmazásában a továbbiakban együtt: állami tulajdonú gazdasági társaság)” szöveg,
+3.[^14]
 
-4. 61/A. § (5) bekezdésében a „vezető tisztségviselőjének haladéktalanul” szövegrész helyébe a „vezető tisztségviselőjének, valamint a tulajdonosi joggyakorló képviseletében eljáró személynek haladéktalanul” szöveg,
+4.[^15]
 
-5. 61/C. § (1) bekezdésében a „tulajdonosi joggyakorlójának” szövegrész helyébe a „tulajdonosi joggyakorlójának, továbbá az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság esetén a többségi állami tulajdonban álló gazdasági társaságnak és annak a tulajdonosi joggyakorlójának” szöveg,
+5.[^16]
 
-6. 62/A. § (2) bekezdés záró szövegrészében az „elektronikusan rendelkezésre nem álló dokumentumokat papír alapon vagy digitalizálva” szövegrész helyébe az „elektronikusan rendelkezésre nem álló dokumentumokat – az Igazolvány a biztosítási jogviszonyról és az egészségbiztosítási ellátásokról elnevezésű nyomtatvány kivételével, amely papír alapon kerül benyújtásra – digitalizálva” szöveg,
+6.[^17]
 
-7. 76. § (1) bekezdés i) pontjában a „közreműködők” szövegrész helyébe a „részt vevő egyéb szerv vagy szervezet” szöveg,
+7.[^18]
 
-8. 167/M. § (1) bekezdésében az „(1)” szövegrész helyébe az „(1)–(1c)” szöveg,
+8.[^19]
 
-9.[^4]
+9.[^20]
 
-10.[^5]
+10.[^21]
 
-[^4]: A 11. § 9. pontja a 22. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^5]: A 11. § 10. pontja a 22. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^12]: A 11. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 11. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 11. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 11. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 11. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 11. § 9. pontja a 22. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^21]: A 11. § 10. pontja a 22. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
