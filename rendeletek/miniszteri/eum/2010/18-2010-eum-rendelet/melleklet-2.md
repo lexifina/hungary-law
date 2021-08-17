@@ -1,8 +1,8 @@
-2. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^17]
+2. melléklet a 18/2010. (IV. 20.) EüM rendelethez[^20]
 
 ## Szakmai követelmények
 
-1. A kijelölt szervezet megfelelőségértékelési tevékenyégében résztvevő, az 5. § (1) bekezdése szerinti munkavállalóknak a következő szakmai követelményeknek kell megfelelniük:
+1. A kijelölt szervezet megfelelőségértékelési tevékenyégében résztvevő munkavállalóknak a következő szakmai követelményeknek kell megfelelniük:
 
 1.1. Általános követelmények:
 
@@ -26,4 +26,4 @@
 
 1.2.2. igazolt részvétel legalább 2 sterilizálás validálási eljárásban.
 
-[^17]: A 2. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 2. melléklet a 67/2011. (XII. 13.) NEFMI rendelet 20. § (1) bekezdése, a 35/2021. (VIII. 16.) EMMI rendelet 53. §-a szerint módosított szöveg.
