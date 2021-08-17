@@ -8,18 +8,15 @@ b) 3. pontjában foglaltaktól eltérően a 2021–2023 közötti időszakra von
 
 3. A Kormány egyetért azzal, hogy a „Kalmár Zoltán Általános Iskola Diáksportjáért” Egyesület támogatásához szükséges forrás biztosításáról szóló 1262/2019. (V. 7.) Korm. határozat 3. pontjában meghatározott elszámolási határidőtől eltérően az elszámolási határidő 2022. január 31. napja legyen.
 
-4. Az egyes települések sportcélú infrastruktúra-fejlesztésének támogatásáról szóló 1756/2020. (XI. 11.) Korm. határozat 1. mellékletének 2. sorában az „A Kalmár DSE (kézilabda sportág) utánpótlás csapatai számára edzőterem és rehabilitációs központ építése” szövegrész helyébe a „rehabilitációs eszközök beszerzése” szöveg lép.
+4.[^1]
 
-5. A baktalórántházai sportkomplexum beruházás előkészítésének támogatásáról szóló 1757/2020. (XI. 11.) Korm. határozat 1. pontja helyébe a következő rendelkezés lép:
+5.[^2]
 
-(A Kormány)
+6.[^3]
 
-„1. egyetért a baktalórántházai sportkomplexum megvalósítására irányuló, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházás (a továbbiakban: Beruházás) koncepciójával és a Beruházás ennek megfelelő előkészítésével az ingatlan-nyilvántartás szerinti Baktalórántháza belterület 544/5 helyrajzi számú ingatlanon;”
+7.[^4]
 
-6. A baktalórántházai sportkomplexum beruházás előkészítésének támogatásáról szóló 1757/2020. (XI. 11.) Korm. határozat 4. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a)–p) pontja szerinti előkészítési fázisaira 180 090 000 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell teljesíteni;”
-
-7. A lajosmizsei sportcsarnok beruházás előkészítésének támogatásáról szóló 1771/2020. (XI. 11.) Korm. határozat 1. pontjában a „Lajosmizse belterület 700/2 helyrajzi számú ingatlanon” szövegrész helyébe a „Lajosmizse belterület 700/2 és 23 helyrajzi számú ingatlanokon” szöveg lép.
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
