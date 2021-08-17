@@ -1,8 +1,8 @@
 ## Iktatás
 
-39. § (1)[^103] Iktatás céljára az iratkezelési szabályzatban meghatározott feltételek alapján megnyitott, hitelesített iktatókönyvet kell használni.
+39. § (1)[^104] Iktatás céljára az iratkezelési szabályzatban meghatározott feltételek alapján megnyitott, hitelesített iktatókönyvet kell használni.
 
-(2)[^104] Az iktatókönyv tartalmazza minimálisan az alábbi, az iktatókönyvben nyilvántartott iratokra vonatkozó adatokat, azok rendelkezésre állása esetén:
+(2)[^105] Az iktatókönyv tartalmazza minimálisan az alábbi, az iktatókönyvben nyilvántartott iratokra vonatkozó adatokat, azok rendelkezésre állása esetén:
 
 a) iktatószám,
 
@@ -12,7 +12,7 @@ c) beérkezés időpontja, módja, érkeztetési azonosítója,
 
 d) adathordozó típusa (papír alapú, elektronikus), adathordozó fajtája,
 
-e)[^105] küldés időpontja, módja,
+e)[^106] küldés időpontja, módja,
 
 f) küldő adatai (név, cím),
 
@@ -22,7 +22,7 @@ h) hivatkozási szám (idegen szám),
 
 i) mellékletek száma, típusa (papír alapú, elektronikus),
 
-j)[^106] ügyintéző neve és a szervezeti egység megnevezése,
+j)[^107] ügyintéző neve és a szervezeti egység megnevezése,
 
 k) irat tárgya,
 
@@ -36,10 +36,10 @@ o) irattári tételszám,
 
 p) irattárba helyezés.
 
-(3)[^107] Az iraton és az előadói íven fel kell tüntetni az irat egyértelmű azonosítást lehetővé tevő egyedi azonosító adatát.
+(3)[^108] Az iraton és az előadói íven fel kell tüntetni az irat egyértelmű azonosítást lehetővé tevő egyedi azonosító adatát.
 
-[^103]: A 39. § (1) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^104]: A 39. § (2) bekezdése a 64/2010. (III. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^105]: A 39. § (2) bekezdés e) pontja a 196/2013. (VI. 13.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^106]: A 39. § (2) bekezdés j) pontja a 196/2013. (VI. 13.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^107]: A 39. § (3) bekezdése a 64/2010. (III. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^104]: A 39. § (1) bekezdése a 196/2013. (VI. 13.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^105]: A 39. § (2) bekezdése a 64/2010. (III. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^106]: A 39. § (2) bekezdés e) pontja a 196/2013. (VI. 13.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^107]: A 39. § (2) bekezdés j) pontja a 196/2013. (VI. 13.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^108]: A 39. § (3) bekezdése a 64/2010. (III. 18.) Korm. rendelet 14. §-ával megállapított szöveg.

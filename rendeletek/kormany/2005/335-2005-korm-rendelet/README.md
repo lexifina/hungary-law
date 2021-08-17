@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2020-12-12 | 2005-335-20-22.37 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-01-01 | 2005-335-20-22.38 | 95/2018. (V. 22.) Korm. rendelet |
 | 2021-02-20 | 2005-335-20-22.39 | 70/2021. (II. 19.) Korm. rendelet |
+| 2021-08-17 | 2005-335-20-22.40 | 477/2021. (VIII. 9.) Korm. rendelet |
