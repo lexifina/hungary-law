@@ -1,25 +1,18 @@
 ## Értelmező rendelkezések
 
-2. §[^5] (1) E rendelet alkalmazásában orvostechnikai eszköz (a továbbiakban: eszköz) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § h) pont ha)–hd) alpontjában meghatározott eszköz.
+2. §[^3] (1)[^4]
 
-(2) Orvostechnikai eszköznek kell tekinteni
-
-a) az élettelen állati eredetű szövet vagy sejt felhasználásával készült eszközt;
-
-b) a gyógyszernek minősülő készítmény beadására szolgáló eszközt;
-
-c) azt az eszközt, melynek szerves része olyan, önmagában alkalmazva gyógyszernek minősülő anyag, amely az eszközt kiegészítve hat az emberi testre;
-
-d) azt az eszközt, melynek szerves része olyan humán vérből vagy humán plazmából származó, önmagában alkalmazva gyógyszer alkotóelemnek vagy gyógyszernek minősülő anyag, amely az eszközt kiegészítve hat az emberi testre (a továbbiakban: humán vérszármazék),
-
-## amennyiben annak rendeltetési célja megfelel az Eütv. 3. § h) pont ha)–hd) alpontjában foglaltaknak.
+(2)[^5]
 
 (3)[^6]
 
-(4) A (2) bekezdés c)–d) pontja szerinti eszközök esetében e rendelet mellett a Gytv. rendelkezéseit kell alkalmazni a gyógyszerek vonatkozásában.
+(4)[^7]
 
-(5)[^7] Egy adott termék eszköznek minősülése kérdésében – kétség esetén – az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) határozatban dönt.
+(5)[^8] Az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR) 4. cikke szerinti, az Európai Bizottságnak (a továbbiakban: Bizottság) címzendő megkeresések megtételére az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) jogosult.
 
-[^5]: A 2. § a 10/2012. (VII. 19.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^3]: A 2. § a 10/2012. (VII. 19.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^4]: A 2. § (1) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 36. § b) pontja hatályon kívül helyezte.
+[^5]: A 2. § (2) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 36. § b) pontja hatályon kívül helyezte.
 [^6]: A 2. § (3) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 43. § a) pontja hatályon kívül helyezte.
-[^7]: A 2. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 2. § (4) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 36. § b) pontja hatályon kívül helyezte.
+[^8]: A 2. § (5) bekezdése a 35/2021. (VIII. 16.) EMMI rendelet 24. §-ával megállapított szöveg.

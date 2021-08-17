@@ -2,7 +2,7 @@
 
 ## Nemzeti Népegészségügyi Központ számára
 
-## a II.a osztályba tartozó, kifejezetten orvostechnikai eszközök fertőtlenítésére szánt eszközök
+## a kifejezetten orvostechnikai eszközök fertőtlenítésére szánt orvostechnikai eszközök
 
 ## magyarországi forgalomba hozataláról
 
@@ -34,6 +34,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum:
 
-15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^112]
+15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^91]
 
-[^112]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.
+[^91]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.

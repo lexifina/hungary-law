@@ -1,4 +1,4 @@
-## 26/A. §[^76] Az OGYÉI a kijelölt szervezet által a 14. § (7) bekezdése alapján megküldött adatokat, a 17. § (1)–(2) bekezdése szerint nyilvántartásba vett adatokat, a 21/A. § (4) bekezdése szerinti bejelentéseket és a vizsgálatok eredményét továbbítja az Európai Adatbankba.
+## 26/A. §[^53] Az OGYÉI a kijelölt szervezet által a 2021. május 26. előtt kiállított megfelelőségi tanúsítványok felfüggesztésével, illetve visszavonásával kapcsolatos adatokat, a 29. § (5) bekezdése szerinti bejelentéseket és a vizsgálatok eredményét továbbítja az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló, 2010. április 19-i 2010/227/EU bizottsági határozat szerinti Európai Adatbankba.
 
 ## Időszakos felülvizsgálat
 
@@ -6,7 +6,7 @@
 
 (2) A felülvizsgálat gyakoriságát és a felülvizsgálattal kapcsolatos egyéb előírásokat a 13. melléklet határozza meg.
 
-(3)[^77] A felülvizsgálatot az OGYÉI által erre feljogosított szerv az OGYÉI által meghatározott és közzétett követelményrendszer alapján végezheti el.
+(3)[^54] A felülvizsgálatot az OGYÉI által erre feljogosított szerv az OGYÉI által meghatározott és közzétett követelményrendszer alapján végezheti el.
 
-[^76]: A 26/A. §-t a 29/2011. (VI. 7.) NEFMI rendelet 20. §-a iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja, a 8/2018. (II. 13.) EMMI rendelet 62. § b) pontja szerint módosított szöveg.
-[^77]: A 27. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^53]: A 26/A. §-t a 29/2011. (VI. 7.) NEFMI rendelet 20. §-a iktatta be, szövege a 35/2021. (VIII. 16.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^54]: A 27. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés d) pontja szerint módosított szöveg.

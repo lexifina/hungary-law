@@ -1,19 +1,34 @@
+## 16. §[^35]
+
 ## Nyilvántartásba vétel
 
-17. § (1)[^42] Az a Magyarország területén székhellyel rendelkező gyártó, amely a 13. § (1) és (8) bekezdése szerinti eljárást követően eszközöket saját jogon gyárt, és az a Magyarorország területén székhellyel rendelkező személy, aki a 15. § (2)–(3) bekezdése szerinti tevékenységet végez, nevét, székhelyét és telephelyét, az érintett eszközök leírását legkésőbb az eszköz első forgalomba hozatalakor, továbbá az ezen adatokban bekövetkezett változást haladéktalanul, nyilvántartásba vétel céljából a 16. mellékletben foglaltaknak megfelelő formanyomtatványon vagy annak elektronikus változata útján az OGYÉI részére bejelenti.
+17. §[^36] (1) A Magyarország területén székhellyel rendelkező, illetve a Magyarország területén székhellyel rendelkező meghatalmazott képviselővel rendelkező gyártó, a Magyarország területén székhellyel rendelkező meghatalmazott képviselő, valamint a Magyarország területén székhellyel rendelkező importőr részére az OGYÉI az MDR 31. cikk (1) és (4) bekezdése szerinti bejelentéseik megtörténtéről igazolást állít ki. E bekezdést alkalmazni kell a Magyarország területén székhellyel rendelkező, az MDR 22. cikk (1) és (3) bekezdése szerinti tevékenységet végző gazdasági szereplőkre is.
 
-(2)[^43] Ha az EGT területén székhellyel nem rendelkező, az (1) bekezdésben említett eszközöket saját neve alatt forgalmazó gyártó meghatalmazott képviselőjének székhelye nem az EGT más államában, hanem Magyarország területén van, nevét, székhelyét és az érintett eszközök leírását legkésőbb az első forgalomba hozatalkor, továbbá az ezen adatokban bekövetkezett változást 5 napon belül nyilvántartásba vétel céljából a 16. mellékletben foglaltaknak megfelelő formanyomtatványon vagy annak elektronikus változata útján az OGYÉI részére bejelenti.
+(2) Az MDR 21. cikk (2) bekezdésére figyelemmel a Magyarország területén székhellyel rendelkező, rendelésre készült eszközt gyártó gazdasági szereplő az eszköz forgalomba hozatalát megelőzően az OGYÉI részére nyilvántartásba vétel céljából bejelenti a nevét, székhelyét, telephelyeit, kapcsolattartási adatait, a szabályozásnak való megfelelésért felelős személy nevét, lakóhelyét, illetve tartózkodási helyét, kapcsolattartási adatait, valamint – az OGYÉI honlapján közzétett útmutató szerint – az érintett eszközök típusát. A gazdasági szereplő az ezen adatokban bekövetkezett változást – ideértve az új eszközök bevezetését is – annak bekövetkeztétől számított hét napon belül az OGYÉI részére bejelenti.
 
-(3)[^44] Az (1)–(2) bekezdésben említett, gyártó vagy meghatalmazott képviselője által rendelkezésre bocsátott adatokról az OGYÉI kérésre tájékoztatja a társhatóságokat és a Bizottságot.
+(3) Az MDR 30. cikk (2) bekezdésére figyelemmel a Magyarország területén székhellyel rendelkező, orvostechnikai eszközt forgalmazó gazdasági szereplő az eszköz forgalmazásának megkezdését megelőzően az OGYÉI részére nyilvántartásba vétel céljából bejelenti
 
-(4)[^45] Az OGYÉI az (1)–(2) bekezdés szerinti nyilvántartásba vételről igazolást ad ki.
+a) a nevét, székhelyét, kapcsolattartási adatait,
 
-(5) A gyártó, illetve a meghatalmazott képviselő nevét, lakóhelyét vagy székhelyét az eszköz csomagolásán, illetve gyűjtőcsomagolásán és a használati útmutatón – az 1. melléklet 13.1. alpontjával összhangban – fel kell tüntetni.
+b) az általa forgalmazott orvostechnikai eszköznek az MDR VI. Melléklet C rész 1. pontja szerinti alapvető UDI-DI-ját,
 
-(6)[^46] Valamennyi II.a, II.b és III. besorolású eszköznek és aktív beültethető eszköznek Magyarország területén történő használatbavételekor az OGYÉI tájékoztatást kérhet a forgalmazó és az eszköz azonosíthatóságát biztosító adatairól, valamint a címkéről és a használati útmutatóról.
+c) az eszközre kiadott megfelelőségi tanúsítvány típusát, számát, lejáratának dátumát, az azt kiadó bejelentett szervezet azonosító számát,
 
-[^42]: A 17. § (1) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 14. § (1) bekezdésével megállapított, a 3/2012. (I. 3.) NEFMI rendelet 8. § (9) bekezdése, a 33/2012. (X. 11.) EMMI rendelet 9. § (2) bekezdés a) pontja, a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^43]: A 17. § (2) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 14. § (1) bekezdésével megállapított, a 3/2012. (I. 3.) NEFMI rendelet 8. § (9) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 105. § c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^44]: A 17. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^45]: A 17. § (4) bekezdése a 29/2011. (VI. 7.) NEFMI rendelet 14. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^46]: A 17. § (6) bekezdése a 3/2012. (I. 3.) NEFMI rendelet 8. § (9) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 63. § (1) bekezdés c) pontja szerint módosított szöveg.
+d) az eszköz kockázati osztályát,
+
+e) a meghatalmazott képviselőjének nevét és székhelyét,
+
+f) – ha az eszközt Magyarországon forgalmazzák – az eszköz márkanevét vagy kereskedelmi nevét,
+
+g) annak tényét, hogy az orvostechnikai eszköz egyben gyógyászati segédeszköznek is minősül-e.
+
+(4) A (3) bekezdés szerinti gazdasági szereplő a (3) bekezdés a)–f) pontjában foglalt adatokban bekövetkezett változást – ideértve az új eszköz bevezetését is – az OGYÉI részére annak bekövetkeztétől számított hét napon belül bejelenti.
+
+(5) A Magyarország területén székhellyel rendelkező, ápolási technikai eszközt forgalmazó gazdasági szereplő az ápolási technikai eszköz forgalmazásának megkezdését megelőzően az OGYÉI részére nyilvántartásba vétel céljából bejelenti a nevét, székhelyét, kapcsolattartási adatait, valamint – ha az eszközt Magyarországon forgalmazzák – az ápolási technikai eszköz márkanevét vagy kereskedelmi nevét. A gazdasági szereplő az ezen adatokban bekövetkezett változást – ideértve az új eszköz bevezetését is – az annak bekövetkeztétől számított hét napon belül az OGYÉI részére bejelenti.
+
+(6) Az OGYÉI a (2)–(5) bekezdés szerinti bejelentések megtörténtéről igazolást állít ki.
+
+(7) Az (5) bekezdés alkalmazásában ápolási technikai eszköznek minősül az olyan, orvostechnikai eszköznek nem minősülő eszköz, amelynek célja az egészségkárosodás, sérülés vagy fogyatékosság kapcsán hiányzó vagy kiesett funkciók pótlása és az önellátó, illetve -fenntartó képesség, az életminőség elősegítése, javítása.
+
+[^35]: A „Klinikai értékelés” alcímet (16. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § j) pontja hatályon kívül helyezte.
+[^36]: A 17. § a 35/2021. (VIII. 16.) EMMI rendelet 27. §-ával megállapított szöveg.
