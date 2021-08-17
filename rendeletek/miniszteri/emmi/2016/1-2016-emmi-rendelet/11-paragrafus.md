@@ -8,7 +8,7 @@ c) a tartalék fejlesztéséhez szükséges kiadások,
 
 d) a tartalék felhasználásra alkalmas állapotának biztosításához szükséges kiadások
 
-e)[^23] a szükséggyógyintézetek és modulok telepítésével és technikai üzemeltetésével kapcsolatos kiadások
+e)[^24] a szükséggyógyintézetek és modulok telepítésével és technikai üzemeltetésével kapcsolatos kiadások
 
 ## fedezetét.
 
@@ -16,4 +16,4 @@ e)[^23] a szükséggyógyintézetek és modulok telepítésével és technikai �
 
 (3) A tartalék egyes elemeinek értékesítéséből, hasznosításából származó bevételt a tartalék visszapótlására, beszerzésére, fejlesztésére kell fordítani.
 
-[^23]: A 11. § (1) bekezdés e) pontját a 43/2020. (XI. 26.) EMMI rendelet 8. §-a iktatta be.
+[^24]: A 11. § (1) bekezdés e) pontját a 43/2020. (XI. 26.) EMMI rendelet 8. §-a iktatta be.

@@ -10,6 +10,6 @@ c) az a) és b) pont alá nem tartozó egészségügyi feladatok ellátásához 
 
 (2) Az (1) bekezdés c) pontja alapján a tartalékból biztosíthatóak a katasztrófa-elhárítási feladatok ellátását szolgáló csapat-egészségügyi többletigények (a továbbiakban: katasztrófa-elhárítási igénybevétel) is.
 
-(3)[^2] A tartalékkal való gazdálkodás feladatait az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) látja el.
+(3)[^3] A tartalékkal való gazdálkodás feladatait az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) látja el.
 
-[^2]: A 2. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 102. § a) pontja szerint módosított szöveg.

@@ -12,8 +12,9 @@
 
 6. modul: olyan egység, amely egy adott sérülés- vagy megbetegedéstípus tömeges bekövetkezésével járó egészségügyi válsághelyzetek esetére tartalmaz olyan tartalékelemeket, amelyekre az adott esemény egészségügyi felszámolása során az adott sérülés- vagy megbetegedéstípusok sérültjeinek ellátásához az átlagosnál nagyobb mennyiségben van szükség;
 
-7. orvostechnikai eszköz: az Eütv. 3. § h) pontjában meghatározott eszköz;
+7.[^2] orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott eszköz;
 
 8. szükséggyógyintézet: az emberi erőforrások miniszterének feladatkörét érintő ágazati honvédelmi feladatokról szóló 49/2016. (XII. 28.) EMMI rendelet 1. § (1) bekezdés 15. pontjában meghatározott létesítmény.
 
 [^1]: Az 1. § a 43/2020. (XI. 26.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § 7. pontja a 35/2021. (VIII. 16.) EMMI rendelet 54. §-ával megállapított szöveg.

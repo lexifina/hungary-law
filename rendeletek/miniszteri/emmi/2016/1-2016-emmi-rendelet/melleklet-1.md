@@ -1,6 +1,6 @@
-## 13. §[^24]
+## 13. §[^25]
 
-1. melléklet az 1/2016. (I. 13.) EMMI rendelethez[^25]
+1. melléklet az 1/2016. (I. 13.) EMMI rendelethez[^26]
 
 A tartalék szükséggyógyintézetei és moduljai
 
@@ -38,5 +38,5 @@ A tartalék szükséggyógyintézetei és moduljai
 
 * Önálló normaelemet nem alkotnak.
 
-[^24]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: Az 1. melléklet a 43/2020. (XI. 26.) EMMI rendelet 9. § e) és f) pontja szerint módosított szöveg.
+[^25]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: Az 1. melléklet a 43/2020. (XI. 26.) EMMI rendelet 9. § e) és f) pontja szerint módosított szöveg.

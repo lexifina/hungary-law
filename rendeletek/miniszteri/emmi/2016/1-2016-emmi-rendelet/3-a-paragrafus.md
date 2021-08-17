@@ -1,4 +1,4 @@
-3/A. §[^8] (1) A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató és az OMSZ
+3/A. §[^9] (1) A fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató és az OMSZ
 
 a) köteles részt venni az állami egészségügyi tartalék kezeléséért felelős szervvel a tartalék minőségmegóvó cseréjében, és
 
@@ -22,4 +22,4 @@ b) megküldi a beszerzendő gyógyszerek, valamint – figyelemmel a fekvőbeteg
 
 (10) A (8) és (9) bekezdésben előírt minőségmegóvó csere céljából elismervénnyel átadott tételek után a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató az állami egészségügyi tartalék kezeléséért felelős szerv részére az adott gyógyszerkönyv szerinti értékének megfelelő térítési díjat fizet.
 
-[^8]: A 3/A. §-t a 43/2020. (XI. 26.) EMMI rendelet 5. §-a iktatta be.
+[^9]: A 3/A. §-t a 43/2020. (XI. 26.) EMMI rendelet 5. §-a iktatta be.
