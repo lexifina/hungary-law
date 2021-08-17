@@ -60,7 +60,7 @@ c) a minőségügyi rendszer gyártásra vonatkozó részében számításba vet
 
 5.2. A gyártó a terméket forgalomba hozhatja, hacsak a kijelölt szervezet a megegyezés szerinti határidőn – de legfeljebb a minták kézhezvételét követő 30 napon – belül nem közöl a gyártóval ettől eltérő értékelést, különös tekintettel a kiadott tanúsítvány érvényességére vonatkozóan.
 
-6.[^46] Adminisztratív előírások
+6.[^48] Adminisztratív előírások
 
 A gyártó az utolsó termék gyártását követően legalább 5 évig – kérésre – az OGYÉI rendelkezésére bocsátja a következőket:
 
@@ -76,4 +76,4 @@ e) a kijelölt szervezetnek a 4.3. és 4.4. alpontokban hivatkozott döntéseit 
 
 f) ahol az indokolt, az 5. számú mellékletben hivatkozott típusvizsgálati tanúsítványt.
 
-[^46]: A 7. számú melléklet 6. pontja az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.
+[^48]: A 7. számú melléklet 6. pontja az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.

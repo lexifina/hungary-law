@@ -1,4 +1,4 @@
-## 18. §[^41] Ez a rendelet az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló 2010. április 19-i 2010/227/EU bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+## 18. §[^43] Ez a rendelet az orvostechnikai eszközök európai adatbankjáról (EUDAMED) szóló 2010. április 19-i 2010/227/EU bizottsági határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
 1. számú melléklet a 8/2003. (III. 13.) ESZCSM rendelethez
 
@@ -40,11 +40,11 @@ B. Tervezési és gyártási követelmények
 
 7.4. Azokat az eszközöket, amelyeken fel van tüntetve a ,,STERILE'' felirat, vagy a speciális mikrobiológiai állapotra utaló jelölés, megfelelő validált módszerrel kell gyártani.
 
-7.5.[^42] A 7.3. alpontban hivatkozott eszközök kivételével az eszközök csomagolására alkalmazott csomagolási rendszer károsodás nélkül biztosítsa a gyártó által előírt tisztaságot, és – amennyiben az eszközt felhasználás előtt sterilizálni kell – a mikroorganizmusok okozta szennyeződés veszélyét a lehető legkisebbre csökkentse. Az alapanyagokat úgy kell megválasztani és kezelni, hogy a gyártásuk, a tárolásuk és a forgalmazásuk során a mikrobiológiai szennyeződés kockázata a lehető legkisebb legyen, amennyiben az eszköz teljesítőképességét az ilyen szennyeződés károsan befolyásolhatja.
+7.5.[^44] A 7.3. alpontban hivatkozott eszközök kivételével az eszközök csomagolására alkalmazott csomagolási rendszer károsodás nélkül biztosítsa a gyártó által előírt tisztaságot, és – amennyiben az eszközt felhasználás előtt sterilizálni kell – a mikroorganizmusok okozta szennyeződés veszélyét a lehető legkisebbre csökkentse. Az alapanyagokat úgy kell megválasztani és kezelni, hogy a gyártásuk, a tárolásuk és a forgalmazásuk során a mikrobiológiai szennyeződés kockázata a lehető legkisebb legyen, amennyiben az eszköz teljesítőképességét az ilyen szennyeződés károsan befolyásolhatja.
 
 7.6. A sterilizálásra szánt eszközt megfelelően ellenőrzött környezeti stb. körülmények között kell gyártani.
 
-7.7.[^43] Nem steril eszközök csomagolási rendszereinek károsodás nélkül, az előírt tisztasági szinten kell tartaniuk az eszközt, és amennyiben az eszközt sterilizálni kell a használat előtt, akkor a legkisebbre kell csökkenteniük a mikroorganizmusok okozta szennyeződés veszélyét. A csomagolási rendszernek figyelembe kell vennie a gyártó által javasolt sterilizálási módszert.
+7.7.[^45] Nem steril eszközök csomagolási rendszereinek károsodás nélkül, az előírt tisztasági szinten kell tartaniuk az eszközt, és amennyiben az eszközt sterilizálni kell a használat előtt, akkor a legkisebbre kell csökkenteniük a mikroorganizmusok okozta szennyeződés veszélyét. A csomagolási rendszernek figyelembe kell vennie a gyártó által javasolt sterilizálási módszert.
 
 8. Gyártási és környezeti tulajdonságok
 
@@ -216,6 +216,6 @@ t) az önellenőrzésre szolgáló eszközök specifikációit:
 
 u) a használati útmutató kiadásának vagy utolsó felülvizsgálatának keltét.
 
-[^41]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 91. pontja hatályon kívül helyezte, újonnan a 29/2011. (VI. 7.) NEFMI rendelet 8. §-a iktatta be.
-[^42]: Az 1. számú melléklet B. Tervezési és gyártási követelmények cím 7.5. pontja a 29/2011. (VI. 7.) NEFMI rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^43]: Az 1. számú melléklet B. Tervezési és gyártási követelmények cím 7.7. pontját a 29/2011. (VI. 7.) NEFMI rendelet 9. § (1) bekezdése iktatta be.
+[^43]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 91. pontja hatályon kívül helyezte, újonnan a 29/2011. (VI. 7.) NEFMI rendelet 8. §-a iktatta be.
+[^44]: Az 1. számú melléklet B. Tervezési és gyártási követelmények cím 7.5. pontja a 29/2011. (VI. 7.) NEFMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^45]: Az 1. számú melléklet B. Tervezési és gyártási követelmények cím 7.7. pontját a 29/2011. (VI. 7.) NEFMI rendelet 9. § (1) bekezdése iktatta be.

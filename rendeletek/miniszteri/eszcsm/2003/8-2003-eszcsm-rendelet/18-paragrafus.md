@@ -1,3 +1,3 @@
-## 17. §[^40]
+## 17. §[^42] Ez a rendelet az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet végrehajtásárhoz szükséges rendelkezéseket állapít meg.
 
-[^40]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 4. § 91. pontja hatályon kívül helyezte, újonnan a 29/2011. (VI. 7.) NEFMI rendelet 8. §-a iktatta be, újból hatályon kívül helyezte a 23/2015. (IV. 28.) EMMI rendelet 43. §-a.
+[^42]: A 17. §-t újonnan a 35/2021. (VIII. 16.) EMMI rendelet 16. §-a iktatta be.

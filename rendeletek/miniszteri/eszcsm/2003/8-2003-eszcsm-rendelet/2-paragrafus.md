@@ -18,7 +18,7 @@ ba) az invazív mintavevő, valamint
 
 bb) az emberi szervezethez mintavétel céljából csatlakoztatott orvostechnikai eszköz;
 
-c)[^2] orvostechnikai eszköz: az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendeletben (a továbbiakban: R.) meghatározott eszköz;
+c)[^2] orvostechnikai eszköz: az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet 2. cikk 1. pontjában meghatározott eszköz;
 
 d) kalibráló és kontrol anyagok: azok az anyagok vagy termékek, amelyeknek a gyártó meghatározása szerinti célja
 
@@ -86,7 +86,7 @@ b) külső minőségértékelési programnál alkalmazott anyag.
 
 (5) Az emberi eredetű szövet, sejt és anyag vételére, gyűjtésére és felhasználására vonatkozó követelményeket külön jogszabály tartalmazza.
 
-[^2]: A 2. § (1) bekezdés c) pontja a 29/2011. (VI. 7.) NEFMI rendelet 30. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontja a 35/2021. (VIII. 16.) EMMI rendelet 14. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdés g) pont nyitó szövegrésze a 16/2014. (III. 12.) EMMI rendelet 18. §-a szerint módosított szöveg. [A 2. § (1) bekezdés g) pontjának a 3/2012. (I. 3.) NEFMI rendelet 8. § (5) bekezdésével elrendelt módosítása, amely szerint a „Magyar Köztársaságban” szövegrész helyébe a „Magyarországon” szöveg lép, nem vezethető át.]
 [^4]: A 2. § (1) bekezdésének n) pontját az 51/2004. (V. 21.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
 [^5]: A 2. § (1) bekezdés o) pontját a 29/2011. (VI. 7.) NEFMI rendelet 1. §-a iktatta be.

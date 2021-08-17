@@ -30,7 +30,7 @@
 
 6.4. Ha a tétel elfogadásra került, a kijelölt szervezet minden egyes terméken feltünteti vagy feltüntetteti azonosítási számát, és írásbeli megfelelőségi tanúsítványt állít ki az elvégzett vizsgálatokra vonatkozóan. A tételben szereplő összes termék forgalomba hozható, kivéve a mintában nem megfelelőnek bizonyult termékeket. Ha a tétel visszautasításra került, a kijelölt szervezetnek kellő intézkedéseket kell tennie annak megakadályozására, hogy a tétel forgalomba kerüljön. Gyakori visszautasítások esetén a kijelölt szervezet felfüggesztheti a statisztikai ellenőrzést. A gyártó – a kijelölt szervezet felelősségére – a gyártás során felhelyezheti a kijelölt szervezet azonosítási számát.
 
-7.[^45] Adminisztratív előírások
+7.[^47] Adminisztratív előírások
 
 A gyártó vagy meghatalmazott képviselője az utolsó termék gyártását követően legalább 5 évig – kérésre – az OGYÉI rendelkezésére bocsátja a következőket:
 
@@ -42,4 +42,4 @@ c) az 5.2. és 6.4. alpontokban hivatkozott tanúsítványokat;
 
 d) ahol az indokolt, az 5. számú mellékletben hivatkozott típusvizsgálati tanúsítványt.
 
-[^45]: A 6. számú melléklet 7. pontja az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.
+[^47]: A 6. számú melléklet 7. pontja az 54/2016. (XII. 30.) EMMI rendelet 29. § b) pontja szerint módosított szöveg.
