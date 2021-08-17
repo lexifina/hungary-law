@@ -60,7 +60,7 @@
 
 | 29. | Dévaványai sportcsarnok beruházás | Dévaványa belterület 897/10 helyrajzi számú ingatlan | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 30. | Dombóvári Szabadidő- és Sportcentrum beruházás | Dombóvár belterület 85, 1356/3, 1357, 1358/2, 1359, 1414/35 és 1414/37 helyrajzi számú ingatlanok | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
+| 30. | Dombóvári Szabadidő- és Sportcentrum beruházás | Dombóvár belterület 85, 1356/3, 1357, 1358/2, 1359, 1414/35 és 1414/37 helyrajzi számú ingatlanok | Tolna Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 31. | Gödöllői jégcsarnok beruházás | Gödöllő belterület 5880 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -68,13 +68,13 @@
 
 | 33. | Körmendi sportcsarnok bővítése | Körmend belterület 610 helyrajzi számú ingatlan | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 34. | Körösladányi sportcsarnok és uszoda beruházás | Körösladány belterület 1847 helyrajzi számú ingatlan | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető kormánymegbízott |
+| 34. | Körösladányi sportcsarnok és uszoda beruházás | Körösladány belterület 1847 helyrajzi számú ingatlan | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 35. | Ladánybenei Bene Vitéz Általános Iskola tornaszoba-beruházás | Ladánybene belterület 3/3 helyrajzi számú ingatlan | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető kormánymegbízott |
+| 35. | Ladánybenei Bene Vitéz Általános Iskola tornaszoba-beruházás | Ladánybene belterület 3/3 helyrajzi számú ingatlan | Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 36. | Lajosmizsei sportcsarnok beruházás | Lajosmizse belterület 700/2 helyrajzi számú ingatlan | Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 37. | Mélykúti Kulturális és Sportközpont beruházás | Mélykút belterület 57/10 helyrajzi számú ingatlan | Tolna Megyei Kormányhivatalt vezető kormánymegbízott |
+| 37. | Mélykúti Kulturális és Sportközpont beruházás | Mélykút belterület 57/10 helyrajzi számú ingatlan | Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 38. | Nagyvarsányi tanuszoda-beruházás | Nagyvarsány belterület 208 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -82,12 +82,12 @@
 
 | 40. | Sárbogárdi sportcsarnok beruházás | Sárbogárd belterület 1083/1 helyrajzi számú ingatlan | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 41. | Szalkszentmártoni Petőfi Sándor Általános Iskola tornaterem beruházása | Szalkszentmárton belterület 104 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+| 41. | Szalkszentmártoni Petőfi Sándor Általános Iskola tornaterem beruházása | Szalkszentmárton belterület 104 helyrajzi számú ingatlan | Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 42. | Vajszlói Sportkomplexum beruházás | Vajszló belterület 31, 33, 34, 35/2, 36, 37/1, 37/2, 47/1, 48, 49, 50, 52/1, 921/1 és 922 helyrajzi számú ingatlanok | Baranya Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 43. | MotoGP versenypálya és sportkomplexum megvalósítására irányuló beruházás | Hajdúnánás külterület 0543/4, 0543/8, 0543/9, 0543/14, 0543/15, 0543/16, 0545, 0554/2, 0552/3, 0554/10, 0554/11, 0554/12, 0554/13, 0554/14, 0554/18, 0554/19, 0554/20, 0554/21, 0555, 0556, 0557/12, 0557/60, 0557/62, 0557/64, 0557/71, 0557/72, 0557/73, 0557/74, 0557/75, 0557/76, 0557/77, 0557/78, 0557/79, 0557/80, 0557/81, 0557/83, 0557/84, 0557/85, 0557/86, 0557/87, 0558/2, 0558/11, 0558/17, 0558/20, 0559, 0560, 0563, 0564, 0565/8, 0565/33, 0565/34, 0565/35, 0565/36, 0565/46, 0565/47, 0565/48, 0566, 0569/1, 0569/3, 0569/4, 0569/5, 0570, 0571, 0573, 0572/2, 0572/3, 0572/4, 0572/5, 0572/6, 0572/8, 0572/10, 0572/12, 0572/14, 0572/15, 0572/16, 0572/17, 0572/18, 0572/19, 0572/20, 0572/21, 0572/22, 0572/23, 0572/24, 0572/25, 0572/26, 0572/27, 0572/28, 0572/29, 0572/30, 0572/31, 0572/32, 0572/33, 0572/34, 0572/35, 0572/36, 0572/37, 0572/38, 0572/39, 0572/40, 0572/41, 0574/5, 0574/6, 0574/13, 0574/15, 0574/16, 0574/17, 0574/18, 0574/19, 0574/20, 0574/21, 0574/22, 0574/23, 0574/24, 0574/25, 0574/26, 0574/27, 0574/28, 0576/10, 0576/18, 0576/19, 0576/20, 0576/21, 0576/22, 0576/23, 0576/29, 0578/3, 0612 és 0614 helyrajzi számú ingatlanok | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^71]
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^73]
 
-[^71]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^73]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
