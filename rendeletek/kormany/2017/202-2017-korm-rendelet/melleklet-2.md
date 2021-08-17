@@ -26,9 +26,9 @@
 
 | 13. | Városközpont és Dózsakert közösségi tereinek megújítása, Tatabánya Megyei Jogú Város József Attila Megyei és Városi Könyvtárának fejlesztése | Tatabánya, közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 8024, 8117, 8204/14, 11198/3, 1119911200, 11201, 11203, 11204/39, 11204/40, 11204/42, 11204/43, 11204/44, 11204/45 és 11204/46 helyrajzi számú ingatlanok | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 14. | Sóstó fejlesztési program (Nyíregyháza) | Nyíregyháza-Sóstógyógyfürdő, Sóstói út, az ingatlan-nyilvántartás szerinti 15094/3 helyrajzi számú ingatlan; Nyíregyháza-Sóstógyógyfürdő, Berenát u., az ingatlan-nyilvántartás szerinti 15087/3, 15087/4, 15094/3, 15099 és 15108 helyrajzi számú ingatlanok | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
+| 14. | Sóstó fejlesztési program, a Sóstói Múzeumfalu fejlesztése – Mesekert projekt (Nyíregyháza) | Nyíregyháza-Sóstógyógyfürdő, Sóstói út, az ingatlan-nyilvántartás szerinti 15094/3 helyrajzi számú ingatlan; Nyíregyháza-Sóstógyógyfürdő, Berenát u., az ingatlan-nyilvántartás szerinti 15087/3, 15087/4, 15094/3, 15099 és 15108 helyrajzi számú ingatlanok, valamint az ingatlan-nyilvántartás szerinti külterület 0294/50 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 15. | Nyíregyházi Állatpark fejlesztése: Pangea Ökocentrum és Szálloda építése | Nyíregyháza közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 15010/5 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
+| 15. | Nyíregyházi Állatpark fejlesztése: Pangea Ökocentrum és Szálloda építése, Jégkorszak interaktív állatbemutató attrakció megvalósítása | Nyíregyháza közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 15010/2 és 15010/5 helyrajzi számú ingatlanok | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 16. | Komplex turisztikai fejlesztés keretében ökocentrum és kalandpark, erdei vasút és a kikötő felújítása (Gemenci-erdő fejlesztés) | Szekszárd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0154/3, 0154/6, 0154/7, 0154/8 és 0154/9 helyrajzi számú ingatlanok | Tolna Megyei Kormányhivatalt vezető kormánymegbízott |
 

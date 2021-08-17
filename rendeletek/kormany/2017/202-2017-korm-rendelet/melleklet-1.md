@@ -1,7 +1,7 @@
-## 9. §[^14] E rendeletnek a Modern Városok Program keretében egyes turisztikai és városfejlesztési célra irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 202/2017. (VII. 10.) Korm. rendelet módosításáról szóló 43/2020. (III. 12.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (3) bekezdését és 1. mellékletében foglalt táblázat 23. sorát a Módr3. hatálybalépésekor[^15] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^16] E rendeletnek az egyes kulturális beruházásokkal kapcsolatos kormányrendeletek módosításáról szóló 495/2021. (VIII. 16.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 1. mellékletében foglalt táblázat 14. és 15. sorát a Módr4. hatálybalépésekor[^17] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 202/2017. (VII. 10.) Korm. rendelethez[^16]
+1. melléklet a 202/2017. (VII. 10.) Korm. rendelethez[^18]
 
-[^14]: A 9. §-t a 43/2020. (III. 12.) Korm. rendelet 1. §-a iktatta be.
-[^15]: A hatálybalépés időpontja 2020. március 13.
-[^16]: Az 1. melléklet a 201/2018. (X. 30.) Korm. rendelet 9. §-a, a 18/2019. (II. 14.) Korm. rendelet 4. §-a, a 136/2019. (VI. 11.) Korm. rendelet 3. §-a, a 43/2020. (III. 12.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^16]: A 10. §-t a 495/2021. (VIII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2021. augusztus 17.
+[^18]: Az 1. melléklet a 201/2018. (X. 30.) Korm. rendelet 9. §-a, a 18/2019. (II. 14.) Korm. rendelet 4. §-a, a 136/2019. (VI. 11.) Korm. rendelet 3. §-a, a 43/2020. (III. 12.) Korm. rendelet 2. §-a, a 495/2021. (VIII. 16.) Korm. rendelet 2. §-a szerint módosított szöveg.
