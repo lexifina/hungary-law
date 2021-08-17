@@ -1,4 +1,4 @@
-20/H. §[^57] (1) A beavatkozással nem járó vizsgálat alanyát a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja
+20/H. §[^63] (1) A beavatkozással nem járó vizsgálat alanyát a vizsgálatba való beleegyezését megelőzően a vizsgálat vezetője vagy a vizsgáló szóban és írásban magyar nyelven – illetve a vizsgálati alany anyanyelvén vagy a vizsgálati alany által ismertként megjelölt más nyelven –, laikus számára is érthető módon szóban és írásban tájékoztatja
 
 a) a vizsgálatban való részvétel önkéntességéről, valamint arról, hogy a beleegyezés bármikor, a (2) bekezdésben foglaltak szerint szóban vagy írásban indokolás és hátrányos következmények nélkül visszavonható;
 
@@ -22,9 +22,9 @@ g) a kérelmező nevéről, székhelyéről.
 
 a) amennyiben a beavatkozással nem járó vizsgálat egészségügyi szolgáltatónál zajlik, annak az egészségügyi szolgáltatónak a megnevezését, ahol a vizsgálatot végezni kívánják;
 
-b)[^58] a vizsgálati alany azonosító adatait (nevét, születési helyét és idejét), cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy azonosító adatait is;
+b)[^64] a vizsgálati alany azonosító adatait (nevét, születési helyét és idejét), cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy azonosító adatait is;
 
-c)[^59] annak a kijelentését, hogy a vizsgálati alany – cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy – a vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
+c)[^65] annak a kijelentését, hogy a vizsgálati alany – cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy – a vizsgálatban történő részvételre vonatkozó beleegyezését az (1) bekezdésben foglalt tájékoztatást követően önként, befolyástól mentesen adja, annak tudatában, hogy az bármikor, szóban vagy írásban, indokolás nélkül visszavonható;
 
 d) a beleegyező nyilatkozat aláírásának dátumát;
 
@@ -32,14 +32,17 @@ e) a vizsgálat vezetőjének vagy a tájékoztatást adónak az aláírását;
 
 f) a beleegyező nyilatkozatot tevő aláírását.
 
-(5)[^60] A tájékoztatást adó személy és a vizsgálati alany – cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy – az (1) bekezdés szerinti írásos tájékoztatót is aláírja.
+(5)[^66] A tájékoztatást adó személy és a vizsgálati alany – cselekvőképtelen vagy 16 éven aluli korlátozottan cselekvőképes kiskorú vizsgálati alany esetén a nyilatkozattételre jogosult személy – az (1) bekezdés szerinti írásos tájékoztatót is aláírja.
 
 (6) A tájékoztatást és a beleegyezést külön íven kell írásba foglalni. A beleegyező nyilatkozat és az írásos tájékoztató egy-egy eredeti példányát a vizsgálati dokumentációban kell megőrizni, egy-egy eredeti példányát pedig a vizsgálati alanynak kell átadni.
 
-(7)[^61] Amennyiben a beavatkozással nem járó vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély módosítását kell kezdeményezni az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet 19. §-ában foglaltaknak megfelelően. A módosított írásos tájékoztatóban foglaltakról a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a vizsgálat folytatásához. Ennek hiányában a vizsgálatot az érintett személyen nem lehet folytatni.
+(6a)[^67] Orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az (1)–(6) bekezdésben foglaltak helyett az MDR 63–66. cikkében foglaltakat kell alkalmazni.
 
-[^57]: A 20/H. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
-[^58]: A 20/H. § (4) bekezdés b) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
-[^59]: A 20/H. § (4) bekezdés c) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
-[^60]: A 20/H. § (5) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
-[^61]: A 20/H. § (7) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 4. § d) pontja szerint módosított szöveg.
+(7)[^68] Amennyiben a beavatkozással nem járó vizsgálattal kapcsolatban olyan új, lényeges információ válik ismertté, amely érinti az írásos tájékoztatóban foglaltakat, az engedély, illetve a bejelentés módosítását kell kezdeményezni az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet 19. §-ában foglaltaknak megfelelően. A módosított írásos tájékoztatóban foglaltakról a vizsgálati alanyt ismételten tájékoztatni kell, és beleegyezését kell kérni a vizsgálat folytatásához. Ennek hiányában a vizsgálatot az érintett személyen nem lehet folytatni.
+
+[^63]: A 20/H. §-t az 1/2007. (I. 24.) EüM rendelet 1. §-a iktatta be.
+[^64]: A 20/H. § (4) bekezdés b) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
+[^65]: A 20/H. § (4) bekezdés c) pontja a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
+[^66]: A 20/H. § (5) bekezdése a 16/2014. (III. 12.) EMMI rendelet 4. § g) pontja szerint módosított szöveg.
+[^67]: A 20/H. § (6a) bekezdését a 35/2021. (VIII. 16.) EMMI rendelet 7. §-a iktatta be.
+[^68]: A 20/H. § (7) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 4. § d) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 12. § i) pontja szerint módosított szöveg.
