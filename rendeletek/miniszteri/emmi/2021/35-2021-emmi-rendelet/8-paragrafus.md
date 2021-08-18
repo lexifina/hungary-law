@@ -1,3 +1,3 @@
-## 7. § Az R2. 20/H. §-a a következő (6a) bekezdéssel egészül ki:
+## 7. §[^9]
 
-## „(6a) Orvostechnikai eszközzel végzett, beavatkozással nem járó vizsgálat esetén az (1)–(6) bekezdésben foglaltak helyett az MDR 63–66. cikkében foglaltakat kell alkalmazni.”
+[^9]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,13 +1,3 @@
-## lép.
+## 47. §[^49]
 
-## 48. § Hatályát veszti az R6.
-
-a) 3. § (1) bekezdése,
-
-b) 4. és 5. §-a,
-
-c) 7. § (1) és (2) bekezdése,
-
-d) 9. § (1), (2) és (5) bekezdése,
-
-e) 11–14. §-a.
+[^49]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

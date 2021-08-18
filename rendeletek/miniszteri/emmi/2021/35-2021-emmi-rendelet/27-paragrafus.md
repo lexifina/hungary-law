@@ -1,3 +1,3 @@
-## 26. § Az R5. 12. §-a helyébe a következő rendelkezés lép:
+## 26. §[^28]
 
-## „12. § Az MDR 51. cikk (3) bekezdése szerinti tagállami megkeresés megtételére az OGYÉI jogosult.”
+[^28]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 6. § Az R2. 20/F. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^8]
 
-## „(1) A megbízó, a vizsgálatvezető és a vizsgáló, amennyiben a vizsgálat célja toborzás nélkül nem vagy csak aránytalanul nagy nehézséggel érhető el, vizsgálati alanyokat toborozhat a sajtóban, illetve a saját honlapján közzétett felhívás útján. A részvételre való felhívás szövegének tartalmaznia kell a vizsgálat célját, módszereit, a beválasztandó vizsgálati alanyok körének megjelölését, a jelentkezőkkel történő kapcsolatfelvétel módját, a beválasztottaknak fizetendő esetleges költségtérítés mértékét, továbbá a jelentkezők adatainak kezelésére vonatkozó szabályokat. A felhívás nem lehet reklámcélú. A közzétett felhívásban a támogató szakmai-etikai engedély, illetve szakvélemény meglétére utalni kell. A toborzás engedélyezett, illetve bejelentett módszerétől és szövegétől való eltérés esetén az engedély, illetve a bejelentés módosítását kell kezdeményezni.”
+[^8]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

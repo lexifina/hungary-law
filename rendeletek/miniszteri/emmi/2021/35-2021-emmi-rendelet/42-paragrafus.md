@@ -1,3 +1,3 @@
-## 41. § Az R6. 18. §-a helyébe a következő rendelkezés lép:
+## 41. §[^43]
 
-## „18. § Az MDR 77. cikke szerinti értesítéseket, valamint a vizsgálati jelentést az OGYÉI számára elektronikus úton kell megküldeni.”
+[^43]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

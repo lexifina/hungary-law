@@ -1,3 +1,3 @@
-## 50. § Az R7. 3. §-a helyébe a következő rendelkezés lép:
+## 50. §[^52]
 
-## „3. § Az orvostechnikai eszközök megfelelőségének értékelésére szóló, az MDR szerinti kijelölés és az in vitro diagnosztikai orvostechnikai eszközök megfelelőségértékelő tevékenységére vonatkozó kijelölés határozatlan időre szól.”
+[^52]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

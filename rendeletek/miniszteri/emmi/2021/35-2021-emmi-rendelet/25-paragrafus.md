@@ -1,3 +1,3 @@
-## 24. § Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet (a továbbiakban: R5.) 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 24. §[^26]
 
-## „(5) Az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rendelet és az 1223/2009/EK rendelet módosításáról, valamint a 90/385/EGK és a 93/42/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/745 európai parlamenti és tanácsi rendelet (a továbbiakban: MDR) 4. cikke szerinti, az Európai Bizottságnak (a továbbiakban: Bizottság) címzendő megkeresések megtételére az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) jogosult.”
+[^26]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
