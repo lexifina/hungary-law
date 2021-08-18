@@ -1,0 +1,31 @@
+# A Kormány 1610/2021. (VIII. 18.) Korm. határozata
+
+Magyar Közlöny 2021. évi 155. szám, 2021. augusztus 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0OpKSWYKT5UDXZ5TNRA161116ba9f3322/dokumentumok/d3312d1954bace9aea9c00b670f72cf0fdccce29/letoltes)
+
+---
+
+A Kormány 1610/2021. (VIII. 18.) Korm. határozata
+az Erdélyi Református Egyházkerület intézményfejlesztésének és beruházásainak, valamint a Sapientia
+Alapítvány működésének támogatásához szükséges forrás biztosításáról
+A Kormány
+1. egyetért az Erdélyi Református Egyházkerület intézményfejlesztésével, valamint a Sapientia Alapítvány
+működésének központi költségvetési támogatásával;
+2. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával az 1. pontban meghatározott
+támogatási cél megvalósítása érdekében gondoskodjon
+a) 1 050 324 900 forint egyszeri forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló
+2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet LXV. Bethlen Gábor Alap fejezet, 4. Nemzetpolitikai
+célú támogatások cím javára 1 049 800 000 forint, valamint a Kvtv. 1. melléklet LXV. Bethlen Gábor Alap
+fejezet, 5. Működtetési célú kifizetések cím javára 524 900 forint összegben,
+b) 264 132 000 forint egyszeri forrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló
+2021. évi XC. törvény (a továbbiakban: Kvtv2.) 1. melléklet LXV. Bethlen Gábor Alap fejezet, 4. Nemzetpolitikai
+célú támogatások cím javára 264 000 000 forint, valamint a Kvtv2. 1. melléklet LXV. Bethlen Gábor Alap
+fejezet, 5. Működtetési célú kifizetések cím javára 132 000 forint összegben;
+Felelős: pénzügyminiszter
+a miniszterelnök általános helyettese
+Határidő: az a) alpont tekintetében 650 124 900 forint azonnal, 400 200 000 forint a felmerülés ütemében
+a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés
+ütemében
+3. felhívja a miniszterelnök általános helyettesét, hogy – a Bethlen Gábor Alap irányításáért felelős Bizottság útján –
+gondoskodjon az 1. pontban meghatározott támogatási cél megvalósításáról.
+ Orbán Viktor s. k.,
+ miniszterelnök
