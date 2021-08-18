@@ -1,3 +1,3 @@
-## 8. § Az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló 84/2012. (IV. 21.) Korm. rendelet (a továbbiakban: R2.) a következő 9. §-sal egészük ki:
+## 8. §[^11]
 
-## „9. § A NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. gondoskodik a Magyar Posta Zrt.-vel kötött – az egységes kormányzati ügyiratkezelő rendszerhez kapcsolódóan megvalósuló papíralapú irat hiteles elektronikus irattá történő átalakítására vonatkozó – szerződés 2021. december 31-ig történő megszüntetéséről.”
+[^11]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

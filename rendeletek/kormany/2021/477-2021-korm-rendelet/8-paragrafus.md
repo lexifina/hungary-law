@@ -1,3 +1,3 @@
-## 7. §[^8]
+## 7. §[^10]
 
-[^8]: A 7. § a 2. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^10]: A 7. § a 2. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
