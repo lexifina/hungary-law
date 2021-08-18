@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-457-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-08-04 | 2021-457-20-22.1 | 457/2021. (VIII. 3.) Korm. rendelet |
+| 2021-08-18 | 2021-457-20-22.2 | 2021. évi I. törvény |
