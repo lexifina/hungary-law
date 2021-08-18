@@ -22,17 +22,19 @@ ai) az Agrárminisztérium épület és az Igazságügyi Palota rekonstrukciój�
 
 aj) az Agrárminisztérium épület beruházás megvalósítása érdekében a Kozma Ferenc utcában közlekedő trolibusz-viszonylatok ideiglenesen, a beruházás lezárásáig áthelyezésre kerüljenek;
 
+ak)[^1] az Agrárminisztérium épület és az Igazságügyi Palota beruházás részeként, a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzatával egyeztetett módon és mértékben megújításra kerüljön a Kozma Ferenc utca és a Vajkay utca;
+
 b) felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Steindl Imre Program Nonprofit Zrt.) útján gondoskodjanak az Igazságügyi Palotában elhelyezésre kerülő, a magyar igazságszolgáltatás történetét, szervezetét és működését, valamint az Igazságügyi Palota épület történetét bemutató kiállítás koncepciójának kidolgozásáról;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2021. május 31.
 
-c) felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy az a) pont af) alpontjában foglaltakra figyelemmel a Steindl Imre Program Nonprofit Zrt. útján gondoskodjanak az Agrárminisztérium épület és az Igazságügyi Palota összehangolt vagy közös üzemeltetésére vonatkozó koncepció kidolgozásáról;
+c)[^2] felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy az a) pont af) alpontjában foglaltakra figyelemmel a Steindl Imre Program Nonprofit Zrt. útján gondoskodjanak az Agrárminisztérium épület és az Igazságügyi Palota összehangolt vagy közös üzemeltetésére vonatkozó koncepció kidolgozásáról;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
-Határidő: 2021. június 30.
+Határidő: 2022. december 31.
 
 d) felhívja a Miniszterelnökséget vezető minisztert és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy a Steindl Imre Program Nonprofit Zrt. útján, az a) pont ag) alpontjában meghatározott cél érdekében, a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával, az érintettekkel való konzultációval vizsgálják meg, hogy az Igazságügyi Palota rekonstrukcióját követően, az Igazságügyi Palotában el nem férő Kúria szervezeti egységei mely, az Igazságügyi Palota közelében lévő, állami tulajdonban álló épületben helyezhetők el, és készítsenek erről előterjesztést a Kormány részére;
 
@@ -68,6 +70,31 @@ emberi erőforrások minisztere
 
 Határidő: az fa) alpont tekintetében 2021. március 31. az fb) alpont tekintetében 2021. június 30.
 
-2.[^1]
+2.[^3]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3.[^4] A Kormány
+
+a) a Steindl Imre Program egyes elemei megvalósításának előkészítését végző állami tulajdonú nonprofit gazdasági társaság alapításáról szóló 1788/2016. (XII. 17.) Korm. határozat 6. pontjában, a Steindl Imre Program harmadik ütemével kapcsolatos egyes döntések meghozataláról szóló 2025/2017. (XII. 22.) Korm. határozat 1. pont 1.7. alpontjában és 2. pontjában, valamint a Steindl Imre Program harmadik ütemével kapcsolatos további döntések meghozataláról szóló 1372/2018. (VIII. 13.) Korm. határozat 1. pontjában foglaltakkal összhangban egyetért azzal, hogy az Igazságügyi Palotának és az Agrárminisztérium épületének rekonstrukciója, az Agrárminisztérium épülete alatt megvalósítandó mélygarázs-beruházás és egyéb csatlakozó beruházáselemek azok műszaki, gazdasági és lebonyolítási összefüggéseire tekintettel – az elkészült együttes kivitelezési dokumentáció alapján – a Steindl Imre Program Nonprofit Zrt. által együttesen, egy kivitelezési projekt keretében kerüljenek megvalósításra;
+
+b) egyetért azzal, hogy a Steindl Imre Program Nonprofit Zrt. a fővállalkozó kivitelező kiválasztását megelőzően további műszaki előkészítő és tervezési feladatokat hajtson végre, 2022. december 31. napjáig tartó határidővel;
+
+c) felhívja a pénzügyminisztert, hogy a b) alpont szerinti műszaki előkészítés és az ennek következtében szükség szerint felmerülő áttervezés finanszírozása érdekében gondoskodjon 5 500 000 000 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím javára;
+
+Felelős: pénzügyminiszter
+
+Határidő: a felmerülés ütemében
+
+d) felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy gondoskodjanak a b) alpont szerinti műszaki előkészítéshez szükséges finanszírozás biztosítása érdekében – a meglévő, az Igazságügyi Palota és az Agrárminisztérium épület beruházás tervezésével és előkészítésével kapcsolatos feladatok megvalósítása céljából kötött támogatási szerződés módosításával – a Steindl Imre Program Nonprofit Zrt. részére támogatás nyújtásáról;
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: a c) alpont szerinti forrás rendelkezésre állását követően azonnal
+
+e) egyetért azzal, hogy a rekonstrukció során az Agrárminisztérium épületében az Egységes Kormányzati Beléptetőrendszer kiépítésre kerüljön;
+
+f) egyetért azzal, hogy az Agrárminisztérium épület és az Igazságügyi Palota beruházás megvalósítása során ideiglenesen kieső parkolóhelyek részleges és ideiglenes visszapótlása érdekében a Steindl Imre Program Nonprofit Zrt., a Belváros-Lipótváros Budapest Főváros V. kerület Önkormányzatával kötött megállapodás szerint, a kieső parkolóhelyek környezetében élő kerületi lakosok számára, legfeljebb 500 méteren belül, legfeljebb 10 parkolóhelyet béreljen.
+
+[^1]: Az 1. pont a) alpont ak) pontját az 1615/2021. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
+[^2]: Az 1. pont c) alpontja az 1615/2021. (VIII. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pontot az 1615/2021. (VIII. 18.) Korm. határozat 2. pontja iktatta be.
