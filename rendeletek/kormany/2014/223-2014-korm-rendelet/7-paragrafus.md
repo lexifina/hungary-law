@@ -112,6 +112,21 @@ g) a többoldalú nemzetközi együttműködések vízgazdálkodási feladataina
 
 (8) A területi vízügyi igazgatóság együttműködik a helyi önkormányzatokkal és a vízitársulatokkal a vízgazdálkodási feladatok megoldásában.
 
+(9)[^10] A területi vízügyi igazgatóság feladata a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása mint közjóléti feladatellátás körében
+
+a) a vízitúrára alkalmas vízfolyásszakaszok kijelölése, járhatósági feltételeinek javítása,
+
+b) a vízügyi igazgatóság vagyonkezelésében lévő csónakcsúszda vízitúrázás lehetőségét is biztosító fenntartása,
+
+c) a vízitúra szempontból fontos víztereken a csak kézi erővel hajtott vízijárművek által igénybe vehető közforgalmú kikötők fenntartása,
+
+d) a folyó vagy tóparti vízitúra beszállóhelyek megközelítésének biztosítása,
+
+e) a töltéskoronán kialakított, közforgalom elől elzárt, de kerékpáros turisztikai útvonalként is kijelölt, a vízügyi igazgatóság vagyonkezelésében lévő üzemi út kerékpározás feltételeinek is megfelelő fenntartása, továbbá
+
+f) a vízügyi igazgatóság fenntartásában álló vizeken, vízilétesítményeken lévő vízitúra- és kerékpáros-útvonalak mentén kerékpárosútirány-jelző táblák, információs táblák, előrejelző táblák és jelzések, bóják kihelyezése, karbantartása.
+
 [^7]: A 7. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdésével megállapított szöveg.
 [^8]: A 7. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 253. § (1) bekezdése iktatta be.
 [^9]: A 7. § (4) bekezdés b) pontja a 195/2017. (VII. 10.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^10]: A 7. § (9) bekezdését a 460/2021. (VIII. 4.) Korm. rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 14. §[^28]
+## 14. §[^29]
 
 ## IV. Fejezet
 
@@ -10,4 +10,4 @@
 
 (2) Az I–III. Fejezet, a 16–18. §, a 21. §, az 1. melléklet és a 2. melléklet 2014. szeptember 10-én lép hatályba.
 
-[^28]: A 14. §-t a 457/2017. (XII. 28.) Korm. rendelet 505. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^29]: A 14. §-t a 457/2017. (XII. 28.) Korm. rendelet 505. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
