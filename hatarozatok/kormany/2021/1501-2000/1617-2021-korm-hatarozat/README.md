@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1617-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-08-18 | 2021-1617-30-22.1 | 1617/2021. (VIII. 18.) Korm. határozat |
+| 2021-08-19 | 2021-1617-30-22.2 | 2010: CXXX. törvény |
