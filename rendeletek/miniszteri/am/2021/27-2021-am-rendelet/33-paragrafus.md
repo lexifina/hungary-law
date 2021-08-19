@@ -1,0 +1,3 @@
+## „(4) Ha a forgalomba hozatali engedély jogosultja vagy a készítmény forgalmazója nem nyújtja be a (3) bekezdés szerinti, részletes gyártói minőségi bizonylatot vagy az állatgyógyászati készítmény minőségi bizonylata nem alkalmas a termék minőségének, ártalmatlanságának és hatékonyságának megítélésére, a NÉBIH a készítmény, illetve a készítmény adott tételének forgalmazását megtiltja, és erről értesíti az érintett tagállamokat és az EDQM-et.
+
+## (5) A gyártási tétel forgalmazását a NÉBIH engedélyével lehet megkezdeni. Az engedélyezés feltétele, hogy a kérelemben foglaltak megfeleljenek az (1)–(3) bekezdésben, valamint a 2., illetve 3. számú mellékletben foglalt követelményeknek.”

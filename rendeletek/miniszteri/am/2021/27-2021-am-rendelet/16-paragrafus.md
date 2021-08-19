@@ -1,0 +1,1 @@
+## „(4) Amennyiben valamely engedélyezett tevékenység szüneteltetésének ideje a két év időtartamot eléri, a további szüneteltetés tényét, valamint az engedélyezett tevékenység újbóli megkezdését a gyártó legalább 30 nappal korábban bejelenti a NÉBIH-nek.”

@@ -1,0 +1,1 @@
+## „b) biztosítja, hogy amennyiben az Európai Unió kipróbáláson lévő anyag vonatkozásában a 470/2009/EK rendeletben és a 37/2010/EU rendeletben már megállapította a maximális maradékanyag határértékét (Maximum Residue Limit; a továbbiakban: MRL érték), az élelmiszerben lévő maradékanyag nem haladja meg azt.”
