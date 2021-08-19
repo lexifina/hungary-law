@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-42-20-2
 | 2021-01-01 | 2020-42-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-04-01 | 2020-42-20-2C.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-06-01 | 2020-42-20-2C.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-08-19 | 2020-42-20-2C.6 | 26/2021. (VIII. 18.) MNB rendelet |

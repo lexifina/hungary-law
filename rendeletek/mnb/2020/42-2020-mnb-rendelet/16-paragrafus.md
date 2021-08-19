@@ -21,3 +21,7 @@ c) a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 21. sor�
 (3) Az adatszolgáltató a 10. melléklet I. pontjában foglalt „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 26. sora szerinti felügyeleti jelentést első alkalommal a 2021. február 1-jei állapotra vonatkozóan, 2021. január 31-ig teljesíti.
 
 (4) Az adatszolgáltató a 12. melléklet szerinti felügyeleti jelentést első alkalommal a 2020. évre mint tárgyidőszakra vonatkozóan teljesíti.
+
+(5)[^2] Az adatszolgáltató a 11. § szerinti felügyeleti jelentést a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 42/2020. (XI. 19.) MNB rendelet módosításáról szóló 26/2021. (VIII. 18.) MNB rendelet 1. és 2. mellékletével megállapított táblaszerkezetben és kitöltési előírások szerint első alkalommal 2021. I–III. negyedévre mint tárgyidőszakra vonatkozóan, 2021. október 20. munkanapjáig teljesíti.
+
+[^2]: A 16. § (5) bekezdését a 26/2021. (VIII. 18.) MNB rendelet 1. §-a iktatta be.

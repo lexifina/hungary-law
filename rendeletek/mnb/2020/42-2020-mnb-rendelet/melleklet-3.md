@@ -3163,13 +3163,3 @@ Az adatszolgáltatóknak az EBA iránymutatás elvárásaival összhangban kell 
 Az adatszolgáltatóknak a korábbi sorokban használt párhuzamos, rövid és hosszú sokktípusokat kell minden devizára megadnia, amelyeken az alkalmazott szcenáriók alapulnak az EBA iránymutatás III. melléklet 3. pontja szerint.
 
 9R221–9R224 sor: Opciókkal rendelkező termékek a banki mérlegben
-
-Az adatszolgáltatónak e sorokban meg kell adnia az automatikus és fogyasztói magatartás alapú opcionalitásnak kitett banki könyvi kamatozó eszközök és források arányát. Az arányt százalékos formában, két tizedesjegy pontossággal kell kimutatni (például 12,34%: 12,34). Az arányok kiszámításához az adatszolgáltatónak:
-
-- nominális összegeket kell használnia,
-
-- szerepeltetnie kell a banki könyvhöz kapcsolódó mérlegben szereplő és mérlegen kívüli kamatozó tételeket,
-
-- a 9R223 és 9R224 sorban szereplő mutatók számlálójában szerepeltetnie kell a lejárat nélküli tételeket (pl. lejárat nélküli betéteket a 9R224 sorban és hitelkártyákat a 9R223 sorban), a 9R221 és 9R222 sor számlálójában azonban nem.
-
-48. 10GA Legnagyobb betétesek
