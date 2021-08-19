@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-239-20-
 | 2020-07-22 | 2009-239-20-22.25 | 345/2020. (VII. 14.) Korm. rendelet |
 | 2020-08-08 | 2009-239-20-22.26 | 383/2020. (VIII. 7.) Korm. rendelet |
 | 2020-10-01 | 2009-239-20-22.27 | 383/2020. (VIII. 7.) Korm. rendelet |
+| 2021-08-19 | 2009-239-20-22.28 | 501/2021. (VIII. 18.) Korm. rendelet |
