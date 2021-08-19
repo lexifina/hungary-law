@@ -1,7 +1,9 @@
-## 8. § A szálláshely-szolgáltató és az 5. § (7) bekezdése szerinti felhasználó az adott szálláshely tevékenységére vonatkozó statisztikai adatokat, valamint az idegenforgalmi adó bevallásához szükséges – személyes adatot nem tartalmazó és az idegenforgalmi adó bevallásának tervezetének kialakításához felhasználható – adatokat az elektronikus felületen keresztül lekérdezheti.
+## 8/D. § A turisztikai attrakció üzemeltető és a 6/C. § (7) bekezdése szerinti felhasználó az adott adatszolgáltatásra kötelezett turisztikai attrakcióhoz kapcsolódó tevékenységére vonatkozó forgalmi adatokat, illetve egyéb, területi adatelemzésen alapuló forgalmi adatokra vonatkozó riportokat az elektronikus felületen keresztül megtekintheti és lekérdezheti.
 
 ## 6. A Nemzeti Turisztikai Adatszolgáltató Központból történő regisztráció megszüntetése
 
-9. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-regisztrációt megszünteti, ha a szálláshely-szolgáltató a tevékenység gyakorlására nem jogosult, vagy a szálláshely-szolgáltató megszűnt.
+9. §[^26] (1) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-regisztrációt, a vendéglátó üzlet regisztrációt, illetve az adatszolgáltatásra kötelezett turisztikai attrakció regisztrációt megszünteti, ha a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltető, illetve a turisztikai attrakció üzemeltető a tevékenység gyakorlására nem jogosult, vagy a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltető illetve a turisztikai attrakció üzemeltető megszűnt, vagy ha a szálláshely-szolgáltatáshoz, a vendéglátáshoz kapcsolódó kereskedelmi tevékenységet, illetve az adatszolgáltatásra kötelezett turisztikai attrakciókhoz kapcsolódó tevékenységet megszüntették.
 
-(2) Az (1) bekezdés szerinti esetben a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltató által az 5. § (5) bekezdésében foglalt adatok kezelésére az (1) bekezdés szerinti időponttól számított 10 évig jogosult.
+(2) Az (1) bekezdés szerinti esetben a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltató által az 5. § (5) bekezdésében, a vendéglátó üzlet üzemeltető által a 6/A. § (5) bekezdésében, a turisztikai attrakció üzemeltető által a 6/B. § (5) bekezdésében foglalt adatok kezelésére az (1) bekezdés szerinti időponttól számított 10 évig jogosult.
+
+[^26]: A 9. § az 501/2021. (VIII. 18.) Korm. rendelet 28. §-ával megállapított szöveg.

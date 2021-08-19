@@ -1,6 +1,6 @@
-## 8/C. [^16] A tárhely részére történő adatszolgáltatás rendje
+## 8/C. [^33] A tárhely részére történő adatszolgáltatás rendje
 
-14/C. §[^17] (1) A szálláshely-szolgáltató a Turizmus tv. 9/H. § (1) bekezdése szerinti adatokat a szálláshelykezelő szoftver alkalmazásával – az adatküldő modul közreműködésével – elektronikus formában és titkosítottan, szálláshelyenként továbbítja a tárhely részére.
+14/C. §[^34] (1) A szálláshely-szolgáltató a Turizmus tv. 9/H. § (1) bekezdése szerinti adatokat a szálláshelykezelő szoftver alkalmazásával – az adatküldő modul közreműködésével – elektronikus formában és titkosítottan, szálláshelyenként továbbítja a tárhely részére.
 
 (2) A szálláshely-szolgáltató a Turizmus tv. 9/H. § (1) bekezdés a) és b) pontja szerinti adatokat a szálláshelykezelő szoftverben az okmányolvasón keresztül rögzíti. Azokat az adatokat, amelyek rögzítése az okmányolvasón keresztül nem lehetséges, a szálláshely-szolgáltató manuális adatbevitel útján rögzíti a szálláshelykezelő szoftverben.
 
@@ -18,5 +18,8 @@
 
 (9) Ha az okmányolvasó a személyazonosság igazolására alkalmas okmány adatai mellett az okmányról képi adatot is rögzít, a szálláshelykezelő szoftver az okmány képi adatát – a (2) bekezdés szerinti adatoknak a szálláshelykezelő szoftverbe történő rögzítését követően – haladéktalanul törli.
 
-[^16]: A 8/C. alcímet (14/C. §) a 383/2020. (VIII. 7.) Korm. rendelet 7. §-a iktatta be.
-[^17]: A 14/C. § a 278/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+(10)[^35] Ha a szálláshely-szolgáltató a tárhelyhez való csatlakozási kötelezettségét nem teljesíti, a turisztikai tárhelyszolgáltató értesíti a jegyzőt a szálláshelyre vonatkozó jogszabályi előírások megsértéséről.
+
+[^33]: A 8/C. alcímet (14/C. §) a 383/2020. (VIII. 7.) Korm. rendelet 7. §-a iktatta be.
+[^34]: A 14/C. § a 278/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^35]: A 14/C. § (10) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 33. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 19. §[^24]
+20. §[^43]
 
-[^24]: A 19. § a 260/2020. (VI. 4.) Korm. rendelet 6. §-a alapján nem lép hatályba.
+[^43]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
