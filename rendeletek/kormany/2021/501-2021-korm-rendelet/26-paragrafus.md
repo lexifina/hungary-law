@@ -1,0 +1,1 @@
+## „(12) Az üzemeltető a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetésével és ehhez kapcsolódóan a turizmus szakmai feladatokkal összefüggésben értesítést küldhet a szálláshely-szolgáltató részére.”
