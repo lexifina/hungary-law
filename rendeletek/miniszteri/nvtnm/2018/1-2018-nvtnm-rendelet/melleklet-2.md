@@ -326,7 +326,7 @@
 
 | 1. | PM-TÉR6 Beruházásszervező és Lebonyolító Nonprofit Korlátolt Felelősségű Társaság | 01-09-295883 | 2022. december 31. |
 
-| 2. |  |  |  |
+| 2. | Start Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045508 | 2022. december 31. |
 
 | 3. | Széchenyi Tőkealap-kezelő Zártkörűen működő Részvénytársaság | 01-10-046411 | 2022. december 31. |
 
