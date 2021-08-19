@@ -1,4 +1,4 @@
-## 30. §[^65] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 498/2021. (VIII. 16.) Korm. rendelettel (a továbbiakban: Módr22.) megállapított 2. mellékletében foglalt táblázat 30., 34., 35., 37. és 41. sorát a Módr22. hatálybalépésekor[^66] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 31. §[^67] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 504/2021. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr23.) módosított 3. § (3) bekezdését, 7/F. §-át és 2. mellékletében foglalt táblázat 44. sorát a Módr23. hatálybalépésekor[^68] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -46,20 +46,20 @@
 
 21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-22.[^67] földvédelmi hatósági eljárások,
+22.[^69] földvédelmi hatósági eljárások,
 
-23.[^68] erdészeti hatósági eljárások,
+23.[^70] erdészeti hatósági eljárások,
 
-24.[^69] bányahatósági engedélyezési eljárások,
+24.[^71] bányahatósági engedélyezési eljárások,
 
-25.[^70] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+25.[^72] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-26.[^71] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+26.[^73] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^65]: A 30. §-t a 498/2021. (VIII. 16.) Korm. rendelet 1. §-a iktatta be.
-[^66]: A hatálybalépés időpontja 2021. augusztus 17.
-[^67]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^68]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^69]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^70]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^71]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^67]: A 31. §-t az 504/2021. (VIII. 18.) Korm. rendelet 3. §-a iktatta be.
+[^68]: A hatálybalépés időpontja 2021. augusztus 19.
+[^69]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^70]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^71]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^72]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^73]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
