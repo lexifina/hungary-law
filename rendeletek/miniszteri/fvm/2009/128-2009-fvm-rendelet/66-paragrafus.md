@@ -4,13 +4,9 @@
 
 ## ÉS BIRTOKLÁSA
 
-66. § (1)[^155] Állatgyógyászati készítményekkel, illetve azok hatóanyagával nagykereskedelmi tevékenységet folytatni csak azt követően lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban a megyei kormányhivatal szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárul.
+66. § (1)[^215] Állatgyógyászati készítményekkel, illetve azok hatóanyagával nagykereskedelmi tevékenységet folytatni csak működési engedéllyel lehet.
 
-(2)[^156] Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza. Azok a nagykereskedők, akiknek a tevékenysége kizárólag közvetítő kereskedelemre korlátozódik,
-
-a) mentesülnek a Helyes Nagykereskedelmi Gyakorlat által támasztott különleges követelmények teljesítése alól,
-
-b) az állatgyógyászati készítményeket kizárólag állatgyógyászati készítmény nagykereskedelmére jogosító működési engedéllyel rendelkezőnek adhatja ki.
+(2)[^216] Az állatgyógyászati készítmények, illetve azok hatóanyaga nagykereskedelmi forgalmazásának személyi és tárgyi feltételeit a 8. számú melléklet I. fejezete tartalmazza.
 
 (3) A működési engedély iránti kérelemnek tartalmaznia kell:
 
@@ -36,14 +32,15 @@ h) a forgalomból való kivonás végrehajtásának módját, és
 
 j) a minőségi kifogások és a feltételezett mellékhatások bejelentéseinek kezeléséért felelős személy nevét.
 
-(4)[^157] A megyei kormányhivatal szakhatósági állásfoglalását a forgalmazó helyen tartott helyszíni ellenőrzés és a dokumentáció értékelése alapján adja meg.
+(4)[^217]
 
 (5) Ha a nagykereskedő átcsomagolást is végez, illetve használati utasítást mellékel állatgyógyászati készítményhez, a gyártóhelyre vonatkozó megfelelő követelmények is vonatkoznak rá, és az adott tevékenységre gyógyszergyártási engedéllyel kell rendelkeznie.
 
 (6) Ha a nagykereskedő állatgyógyászati készítmények alapanyagát képező – anabolikus, fertőzés elleni, parazitaellenes, gyulladáscsökkentő, hormonhatású, pszichotróp – hatóanyagok forgalmazására is jogosult, a 66–68. §, a 71–75. §, illetve a 78. § nagykereskedelmi tevékenységre vonatkozó rendelkezéseit a 75. § előírásaival összhangban kell alkalmazni a hatóanyagokkal kapcsolatos tevékenységére is.
 
-(7) A szakhatósági állásfoglalásban foglaltaktól az engedély módosítását követően lehet eltérni.
+(7)[^218]
 
-[^155]: A 66. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 42/2017. (VIII. 17.) FM rendelet 134. § g) pontja szerint módosított szöveg.
-[^156]: A 66. § (2) bekezdése a 33/2010. (IV. 7.) FVM rendelet 7. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^157]: A 66. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 133. § (2) bekezdésével megállapított szöveg.
+[^215]: A 66. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 42/2017. (VIII. 17.) FM rendelet 134. § g) pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 16. pontja szerint módosított szöveg.
+[^216]: A 66. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 20. §-ával megállapított szöveg.
+[^217]: A 66. § (4) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^218]: A 66. § (7) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,8 +1,10 @@
+## 97. §[^326]
+
 98. § (1) A törzskönyvezett állatgyógyászati készítményt kizárólag a forgalomba hozatali engedélyben foglaltakkal összhangban szabad reklámozni.
 
-(2)[^251] A kábítószer R. és a prekurzor R. alapján kábítószerként kezelendő készítménynek, illetve kábítószer-prekurzornak minősülő hatóanyagokat tartalmazó állatgyógyászati készítményeket kizárólag csak állatorvos vagy gyógyszerész számára lehet reklámozni.
+(2)[^327] A kábítószer R. és a prekurzor R. alapján kábítószerként kezelendő készítménynek, illetve kábítószer-prekurzornak minősülő hatóanyagokat, továbbá antibiotikum-hatóanyagot tartalmazó állatgyógyászati készítményeket állatorvos vagy gyógyszerész számára lehet reklámozni.
 
-(3) Azokat az állatgyógyászati készítményeket, amelyek csak állatorvosi rendelvényre kaphatók:
+(3)[^328] Azokat az állatgyógyászati készítményeket, amelyek csak állatorvosi vényre kaphatók:
 
 a) tilos reklámozni TV-ben és rádióban,
 
@@ -12,23 +14,23 @@ ba) kizárólag állatorvos, gyógyszerész vagy agrármérnök számára hozzá
 
 bb) nyomtatott állategészségügyi és gyógyszerészeti szaksajtóban, valamint „Kérjen állatorvosától vagy gyógyszerészétől további felvilágosítást!” kiegészítő felirattal ellátva nyomtatott mezőgazdasági szaksajtóban.
 
-(4) Az állatorvosi rendelvényre kapható állatgyógyászati készítményekről szóló használati utasítások és fotók a forgalomba hozatali engedélyeseknek a honlapjára mindenki számára hozzáférhetően felhelyezhetőek.
+(4)[^329] Az állatorvosi vényre kapható állatgyógyászati készítményekről szóló használati utasítások és fotók a forgalomba hozatali engedélyeseknek a honlapjára mindenki számára hozzáférhetően felhelyezhetőek.
 
 (5) A reklámcélból átadott minta kiszerelése nem lehet nagyobb az állatgyógyászati készítmény legkisebb forgalmazott kiszerelési formájánál. A mintán – el nem távolítható módon – fel kell tüntetni: „Ingyenes állatorvosi minta, kereskedelmi forgalomba nem hozható!”
 
-(6) Kábítószert, kábítószer-prekurzort vagy pszichotróp anyagot tartalmazó állatgyógyászati készítményből minta nem adható.
+(6)[^330] Kábítószert, kábítószer-prekurzort vagy pszichotróp anyagot, továbbá antibiotikum-hatóanyagot tartalmazó állatgyógyászati készítményből minta nem adható.
 
-(7)[^252] Az (1)–(6) bekezdésben foglaltak betartását a járási hivatal, illetve a NÉBIH ellenőrzi. Amennyiben a járási hivatal az (1)–(6) bekezdésben foglalt rendelkezések sérelméről tudomást szerez, erről – a megyei kormányhivatal útján – haladéktalanul értesíti a NÉBIH-et.
+(7)[^331] Az (1)–(6) bekezdésben foglaltak betartását a járási hivatal, illetve a NÉBIH ellenőrzi. Amennyiben a járási hivatal az (1)–(6) bekezdésben foglalt rendelkezések sérelméről tudomást szerez, erről – a megyei kormányhivatal útján – haladéktalanul értesíti a NÉBIH-et.
 
-(8)[^253] Amennyiben a forgalmazó a (2), illetve (6) bekezdés szerinti tilalmat megszegi, a járási hivatal, illetve a NÉBIH haladéktalanul kezdeményezi a működési engedély visszavonását.
+(8)[^332]
 
-(9)[^254] Azt a természetes vagy jogi személyt, illetve jogi személyiséggel nem rendelkező szervezetet, aki az (1), illetve (3)–(5) bekezdés előírásait megszegi, a járási hivatal, illetve a NÉBIH:
+(9)[^333]
 
-a) első kötelezettségszegés esetén figyelmezteti,
-
-b) két éven belüli második, illetve két kötelezettségszegés egyidejű elkövetése esetén a működési engedély visszavonását kezdeményezi.
-
-[^251]: A 98. § (2) bekezdése a 77/2013. (IX. 10.) VM rendelet 13. § 3. pontja szerint módosított szöveg.
-[^252]: A 98. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. és 5. pontja szerint módosított szöveg.
-[^253]: A 98. § (8) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
-[^254]: A 98. § (9) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 22/2014. (III. 14.) VM rendelet 71. § (2) bekezdés b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^326]: A 97. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^327]: A 98. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^328]: A 98. § (3) bekezdés nyitó szövegrésze a 27/2021. (VIII. 11.) AM rendelet 37. § 25. pontja szerint módosított szöveg.
+[^329]: A 98. § (4) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 25. pontja szerint módosított szöveg.
+[^330]: A 98. § (6) bekezdése a 27/2021. (VIII. 11.) AM rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^331]: A 98. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. és 5. pontja szerint módosított szöveg.
+[^332]: A 98. § (8) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^333]: A 98. § (9) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.

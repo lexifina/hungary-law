@@ -1,4 +1,4 @@
-72. §[^169] (1) Törzskönyvezett állatgyógyászati készítmény csak a forgalomba hozatali engedélyben előírt kiszerelési egységben, illetve gyűjtőcsomagolásban, az engedély mellékletében található jóváhagyott címkével és jóváhagyott magyar nyelvű használati utasítással forgalmazható.
+72. §[^235] (1) Törzskönyvezett állatgyógyászati készítmény csak a forgalomba hozatali engedélyben előírt kiszerelési egységben, illetve gyűjtőcsomagolásban, az engedély mellékletében található jóváhagyott címkével és jóváhagyott magyar nyelvű használati utasítással forgalmazható.
 
 (2) Az állatgyógyászati készítmény kiszerelési egységeit a forgalmazás során megbontani tilos, kivéve, ha
 
@@ -10,4 +10,4 @@ c) az állatorvos a vényen vagy megrendelőn valamely vényköteles készítmé
 
 (3) A (2) bekezdés b) és c) pontjában szereplő gyógyszerkiadást kizárólag kiskereskedő végezhet, az elsődleges csomagolóanyag megbontása nélkül. A megbontott készítmény a jóváhagyott használati utasítás egy példányával a helyszínen nylon fóliában forrasztva adható ki.
 
-[^169]: A 72. § a 77/2013. (IX. 10.) VM rendelet 6. §-ával megállapított szöveg.
+[^235]: A 72. § a 77/2013. (IX. 10.) VM rendelet 6. §-ával megállapított szöveg.

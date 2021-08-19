@@ -2,7 +2,7 @@
 
 ## Az állategészségügyi biocid termékek hatósági ellenőrzése
 
-114/K. § (1)[^294] A járási hivatal ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
+114/K. § (1)[^375] A járási hivatal ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
 
 (2) A hatósági ellenőrzés a forgalmazás és a felhasználás során kiterjed:
 
@@ -18,54 +18,32 @@ e) a termék előírás szerinti felhasználására és a felhasználás helysz�
 
 f) szakképesítéshez kötött felhasználás esetén a felhasználó személyek szakképzettségének ellenőrzésére,
 
-g)[^295] a NÉBIH által kiadott forgalomba hozatali engedély számának helyességére,
+g)[^376] a NÉBIH által kiadott forgalomba hozatali engedély számának helyességére,
 
 h) a felhasználás megfelelőségére,
 
 i) jogszabálysértés gyanúja esetén mintavételre és az összetétel vizsgálatára.
 
-(3)[^296] A járási hivatal a hatósági ellenőrzés eredményétől függően
+(3)[^377]
 
-a) elrendeli a kifogásolt tétel zár alá vételét, a tétel forgalmazásának felfüggesztését, a tétel forgalomból való kivonását, illetve felügyelet mellett való ártalmatlanítását,
+(4)[^378]
 
-b)[^297] javaslatot tesz – a megyei kormányhivatal útján – a NÉBIH-nek a kifogásolt tétel országos forgalomból való kivonására,
+(5)[^379]
 
-c) lefoglalja azt a készítményt, amely nincs az e rendeletben foglaltak szerint engedélyezve.
+(6)[^380]
 
-(4)[^298] A járási hivatal – a megyei kormányhivatal útján tett – javaslatára a NÉBIH a készítmény forgalmazását megtiltja, illetve a készítmény forgalomból való országos kivonását rendeli el, amennyiben
+(7)[^381]
 
-a) megállapításra kerül, hogy a szabálytalanság súlyosan veszélyezteti a közegészségügy, a fogyasztók, az állategészségügy vagy a környezet érdekeit,
+(8)[^382]
 
-b) bebizonyosodik, hogy a forgalomba hozatal feltételei már nem teljesülnek,
+(9)[^383] Az állategészségügyi biocid termékek engedélyezésével és ellenőrzésével összefüggő határozatokat a NÉBIH közli az országos tisztifőorvossal, a járási hivatal pedig a székhelye szerint illetékes népegészségügyi hatáskörében eljáró járási (fővárosi kerületi) hivatallal.
 
-c) a termék mennyiségi, illetve minőségi összetétele nem felel meg a címkén leírtaknak,
-
-d) a készítményt olyan célra használják fel, amelyet hatályos rendelkezések tiltanak,
-
-e) a készítmény olyan hatóanyagot tartalmaz, amelynek felhasználását hatályos rendelkezések tiltják,
-
-f) a hatóság megállapítja, hogy a kérelmező hamis vagy megtévesztő adatokat szolgáltatott.
-
-(5)[^299] A forgalmazás tilalma vagy a forgalomból való kivonás egyes gyártási tételekre is korlátozható. A forgalmazás megtiltása esetén a NÉBIH a meglévő készlet ártalmatlanítására, raktározására, forgalmazására és felhasználására határidőt vagy határnapot állapít meg.
-
-(6)[^300] A (4) bekezdés szerinti esetekben a NÉBIH visszavonhatja a forgalomba hozatali engedélyt és a készítményt a nyilvántartásából törölheti.
-
-(7) A lejárt, illetve bármely ok miatt használhatatlanná vált készítményt a forgalmazó, illetve a felhasználó köteles saját költségén ártalmatlaníttatni.
-
-(8)[^301] A NÉBIH, illetve a járási hivatal a reklámozásra vonatkozó előírások
-
-a) első megszegése esetén figyelmezteti az érintettet,
-
-b) 2 éven belüli minden további megszegése esetén kezdeményezheti a tevékenység megtiltását.
-
-(9)[^302] Az állategészségügyi biocid termékek engedélyezésével és ellenőrzésével összefüggő határozatokat a NÉBIH közli az országos tisztifőorvossal, a járási hivatal pedig a székhelye szerint illetékes járási népegészségügyi intézettel.
-
-[^294]: A 114/K. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
-[^295]: A 114/K. § (2) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
-[^296]: A 114/K. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
-[^297]: A 114/K. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 5. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. pontja szerint módosított szöveg.
-[^298]: A 114/K. § (4) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 28. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. és 13. pontja szerint módosított szöveg.
-[^299]: A 114/K. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^300]: A 114/K. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^301]: A 114/K. § (8) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
-[^302]: A 114/K. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 33. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja, a 42/2017. (VIII. 17.) FM rendelet 135. § d) pontja szerint módosított szöveg.
+[^375]: A 114/K. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
+[^376]: A 114/K. § (2) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
+[^377]: A 114/K. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^378]: A 114/K. § (4) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^379]: A 114/K. § (5) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^380]: A 114/K. § (6) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^381]: A 114/K. § (7) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^382]: A 114/K. § (8) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^383]: A 114/K. § (9) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. és 33. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja, a 42/2017. (VIII. 17.) FM rendelet 135. § d) pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 28. pontja szerint módosított szöveg.

@@ -46,11 +46,11 @@ Személyzet
 
 Dokumentáció
 
-4.[^353] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
+4.[^437] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
 
 Megrendelés
 
-5.[^354] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
+5.[^438] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
 
 Eljárások
 
@@ -134,11 +134,11 @@ Kiadás
 
 a) Más nagykereskedőnek vagy kiskereskedőnek abban az esetben, ha a vevő pozíciójában álló nagykereskedő vagy a kiskereskedő hatályos működési engedélyének másolatát előzetesen beszerezte.
 
-b)[^355] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított, a 9. számú mellékletben található minta szerinti vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
+b)[^439] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
-c)[^356] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
+c)[^440] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
 
-d)[^357]
+d)[^441]
 
 18. Minden gyógyszerkiadásnál dokumentálni kell a kiadás idejét, a készítmény nevét, gyártási számát, lejárati idejét és mennyiségét, az eladó és a vevő nevét és a címét.
 
@@ -170,8 +170,49 @@ e) a szükségesnek tartott további vizsgálatok alapján a készítmény megfe
 
 Amennyiben szükséges, konzultálni kell a forgalomba hozatali engedélyessel vagy a készítmény gyártójának meghatalmazott személyével.
 
-[^353]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
-[^354]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^355]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^356]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^357]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.
+23. A visszavételt dokumentálni kell. Az újraforgalmazásra minden esetben a minőségügyi felelősnek kell felszabadítania a készítményt. A készítményt úgy kell a raktárban elhelyezni, illetve a készletnyilvántartásba venni, hogy a lejárati időbeli sorrendiség érvényesüljön a kiadáskor.
+
+Visszahívás
+
+24. A visszahívási rendszert írásban kell rögzíteni. Ki kell nevezni egy a visszahívásért felelős személyt a visszahívások végrehajtására és koordinálására.
+
+25. Az egyes visszahívási eseteket írásban kell rögzíteni a végrehajtásuk időpontjában, a visszahívási eljárásnak megfelelően, a feljegyzéseket pedig azon tagállam illetékes hatósága számára, amelyeknek a területén a készítményt forgalmazták, hozzáférhetővé kell tenni.
+
+26. A hatékony visszahívási rendszer működtetése érdekében, a nyilvántartási rendszernek képesnek kell lennie arra, hogy valamennyi vevőt azonnal meg tudja határozni és kapcsolatba tudjon lépni velük. Visszahívás esetén a nagykereskedők eldönthetik, hogy az összes vásárlójukat értesítik vagy csak azokat, amelyek a kérdéses gyártási számú tételből vásároltak.
+
+27. Ugyanazt a visszahívási rendszert kell alkalmazni, tekintet nélkül arra, hogy a készítményt abban az országban hozták-e forgalomba, amely a nagykereskedő számára kiadta a gyógyszerforgalmazói engedélyt vagy más tagállamokban.
+
+28. Visszahívás esetén minden vevőt haladéktalanul értesíteni kell. Az illető nagykereskedő számára gyógyszerforgalmazásra jogosító engedélyt kiadó tagállamban levő vevőkön túl a többi tagállam vevőit is értesíteni kell.
+
+29. Az üzenetnek tartalmaznia kell, hogy a visszahívott készítményeket azonnal távolítsák el a kiadható készítmények közül, és tárolják mindaddig biztonságos, jól láthatóan megjelölt helyen elkülönítve, amíg a forgalomba hozatali engedélyes utasításának megfelelően el nem szállítják azokat.
+
+Az ártalmatlanításra kerülő készítmények gyártási számát és lejárati idejét a nyilvántartásnak tartalmaznia kell.
+
+Hamisított készítmények
+
+30.[^442] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a megyei kormányhivatalt, illetve a NÉBIH-et, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
+
+Önellenőrzés
+
+31. E melléklet megfelelő alkalmazásának ellenőrzésére rendszeres önellenőrzést kell végezni, és azt dokumentálni kell.
+
+A tagállamok nagykereskedelmi tevékenységre vonatkozó információadási tevékenysége
+
+32. Azok a nagykereskedők, akik más tagállamok területén is forgalmaznak vagy forgalmazni kívánnak állatgyógyászati készítményeket, mint amely tagállamban a gyógyszerforgalmazásra jogosító engedélyt megszerezték, a többi tagállam hatóságai számára kérésükre hozzáférhetővé kell tenni az eredeti tagállamban kiadott engedéllyel kapcsolatos információkat: a nagykereskedelmi tevékenység jellegét, az egyes telephelyek címét, és szükség esetén az ellátott terület nagyságát.
+
+II. Fejezet
+
+A TÖRZSKÖNYVEZETT ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK KISKERESKEDELMI FORGALMAZÁSÁNAK
+
+FELTÉTELEI ÉS SZABÁLYAI
+
+Alapelvek
+
+Az állatgyógyászati készítmények megfelelő minőségét a kiskereskedelmi forgalmazás során is változatlanul meg kell őrizni: a kiskereskedőknek úgy kell a készítményekkel bánniuk, hogy azok tulajdonságaiban semmiféle változás ne következhessen be.
+
+[^437]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^438]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^439]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^440]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^441]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.
+[^442]: A 8. számú melléklet I. Fejezet 30. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 12. pontja szerint módosított szöveg.

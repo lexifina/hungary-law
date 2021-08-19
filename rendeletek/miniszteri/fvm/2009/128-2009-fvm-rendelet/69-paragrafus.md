@@ -1,10 +1,10 @@
-69. § (1)[^164] Állatgyógyászati készítményekkel kiskereskedelmi tevékenységet folytatni – az emberi felhasználásra kerülő gyógyszerek forgalmazására jogosult kivételével – csak akkor lehet, ha a forgalmazó hely működési engedélyezése iránti eljárásban a forgalmazás telephelye szerint illetékes járási hivatal szakhatóságként ahhoz az e rendeletben foglalt követelmények teljesítése esetén hozzájárult. A szakhatósági hozzájárulás másolatát a járási hivatal megküldi a NÉBIH-nek. A szakhatósági hozzájárulás másolatát elektronikus úton is meg lehet küldeni.
+69. § (1)[^227] Állatgyógyászati készítményekkel kiskereskedelmi tevékenységet folytatni – az emberi felhasználásra kerülő gyógyszerek forgalmazására jogosult kivételével – működési engedéllyel lehet.
 
 (2) Állatgyógyászati készítmény hatóanyagával kiskereskedelmi tevékenységet folytatni tilos.
 
 (3) Nem minősül kiskereskedelemnek, ha az állatorvos a hazai Helyes Állatorvosi Gyakorlatnak megfelelő, legfeljebb egy havi állatgyógyászati készítmény szükségletét kielégítő kézi gyógyszertári készletet tart az általa ellátott állatok kezeléséhez.
 
-(4) A személyi és tárgyi feltételek tekintetében a 8. számú melléklet II. fejezetének előírásait kell betartani. A szakhatósági hozzájárulásban foglaltaktól csak az engedély módosítását követően lehet eltérni.
+(4)[^228] A személyi és tárgyi feltételek tekintetében a 8. számú melléklet II. fejezetének előírásait kell betartani. Az engedélyben foglaltaktól csak az engedély módosítását követően lehet eltérni.
 
 (5) A kiskereskedő köteles folyamatosan részletes nyilvántartást vezetni, és minden egyes bevételezési vagy kiadási ügyletnél – a (7) bekezdésben megfogalmazott kivétellel – nyilvántartásba venni:
 
@@ -28,4 +28,5 @@ g) az állatorvosnak, orvosnak vagy gyógyszerésznek vény nélkül kiadott, eg
 
 (8) Amennyiben a bevételezés, illetve kiadás olyan számlára történt, amely tartalmazza az (5) bekezdés a)–e) pontjaiban előírt adatokat, úgy a nyilvántartásban elegendő csak a számla számát feltüntetni és az ellenőrzéskor a nyilvántartást a hozzá tartozó számla megőrzött példányával együtt bemutatni.
 
-[^164]: A 69. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 133. § (3) bekezdésével megállapított szöveg.
+[^227]: A 69. § (1) bekezdése a 27/2021. (VIII. 11.) AM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^228]: A 69. § (4) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 18. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 114/H. §[^293] A NÉBIH az engedélyezett állategészségügyi biocid termékek jóváhagyott címkéjét, használati utasítását és nyomdai végleg-mintáját nyilvánosan hozzáférhetővé teszi honlapján.
+## 114/H. §[^374] A NÉBIH az engedélyezett állategészségügyi biocid termékek jóváhagyott címkéjét, használati utasítását és nyomdai végleg-mintáját nyilvánosan hozzáférhetővé teszi honlapján.
 
 114/I. § (1) Az állategészségügyi biocid termék kereskedelmi neve nem lehet azonos állatgyógyászati készítmény, az állatgyógyászatban használatos gyógyhatású készítmény, ápolószer és segédanyag, illetőleg növényvédőszer nevével, továbbá a felsorolt készítményekkel azonos csomagolásban és feliratozással nem kerülhet kereskedelmi forgalomba.
 
@@ -10,4 +10,4 @@
 
 (5) A címkén és a használati utasításban vizsgálati eredményekkel nem igazolt állítás nem tüntethető fel.
 
-[^293]: A 114/H. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^374]: A 114/H. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

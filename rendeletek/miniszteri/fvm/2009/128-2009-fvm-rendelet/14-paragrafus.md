@@ -2,11 +2,11 @@
 
 14. § (1) A generikus állatgyógyászati készítmények engedélyezése során:
 
-a) a 12. § (5) bekezdésének j) pontjában foglaltaktól eltérően, a 4. számú melléklet szerint a kérelmezőnek nem kell benyújtania az ártalmatlansági és maradékanyag vizsgálatok, továbbá a preklinikai és klinikai kísérletek eredményeit, ha bizonyítani tudja, hogy a kérelem tárgyát képező készítmény olyan referencia készítmény generikuma, amelyet valamely tagállamban vagy az Európai Közösségben már legalább 8 éve engedélyeztek,
+a)[^73] a 12. § (5) bekezdésének j) pontjában foglaltaktól eltérően, a 4. számú melléklet szerint a kérelmezőnek nem kell benyújtania az ártalmatlansági és maradékanyag vizsgálatok, továbbá a preklinikai és klinikai kísérletek eredményeit, ha bizonyítani tudja, hogy a kérelem tárgyát képező készítmény olyan referencia készítmény generikuma, amelyet valamely tagállamban vagy az Európai Unióban már legalább 8 éve engedélyeztek,
 
 b) az e rendelkezés értelmében engedélyezett generikus állatgyógyászati készítmény mindaddig nem hozható forgalomba, amíg a referencia készítmény első forgalomba hozatali engedélyének kiadásától számítva 10 év vagy a d) pontban meghatározott időtartam el nem telik,
 
-c)[^51] a kérelmező a generikus készítményre vonatkozó kérelmét az esetben is benyújthatja a NÉBIH részére, ha a referencia készítményt nem Magyarországon engedélyezték. Ebben az esetben a kérelmezőnek meg kell jelölnie azt a tagállamot, amelyben a referencia készítmény már forgalomba hozatali engedélyt kapott. A NÉBIH egy hónapos határidővel megkéri az illetékes tagállam hatóságától a referencia készítmény engedélyezéséről szóló igazolást és a referencia készítmény pontos összetételét, valamint szükség esetén más fontos dokumentumokat. Amennyiben a NÉBIH az illetékes tagállam által megküldött dokumentumok és a generikus készítmény dokumentációja alapján nem látja biztosítottnak, hogy a generikus készítmény előny-kockázat viszonya megfelel a referencia készítményének, további adatokat kér a kérelmezőtől annak bizonyítására,
+c)[^74] a kérelmező a generikus készítményre vonatkozó kérelmét az esetben is benyújthatja a NÉBIH részére, ha a referencia készítményt nem Magyarországon engedélyezték. Ebben az esetben a kérelmezőnek meg kell jelölnie azt a tagállamot, amelyben a referencia készítmény már forgalomba hozatali engedélyt kapott. A NÉBIH egy hónapos határidővel megkéri az illetékes tagállam hatóságától a referencia készítmény engedélyezéséről szóló igazolást és a referencia készítmény pontos összetételét, valamint szükség esetén más fontos dokumentumokat. Amennyiben a NÉBIH az illetékes tagállam által megküldött dokumentumok és a generikus készítmény dokumentációja alapján nem látja biztosítottnak, hogy a generikus készítmény előny-kockázat viszonya megfelel a referencia készítményének, további adatokat kér a kérelmezőtől annak bizonyítására,
 
 d) a halak, a méhek, illetve az Európai Bizottság által meghatározott más állatfajok számára szánt állatgyógyászati készítmények esetében a generikus állatgyógyászati készítmény mindaddig nem hozható forgalomba, amíg a referencia készítmény első forgalomba hozatali engedélyének kiadásától számítva 13 év el nem telik.
 
@@ -36,7 +36,7 @@ c) a referencia készítményhez képest megváltoztatták a hatóanyagot, illet
 
 (5) Az (1) bekezdés szerinti védettségi időtartam a következők szerint hosszabbítható meg:
 
-a) egy vagy több élelmiszer-termelő állatfajnak szánt, olyan új hatóanyagot tartalmazó állatgyógyászati készítmény esetén, amelyet az Európai Közösség 2004. április 30-ig nem engedélyezett, a (1) bekezdés b) pontjában előírt, a referencia készítmény első forgalomba hozatali engedélyének kiadásától számított tízéves időtartamot a forgalomba hozatali engedélynek minden más élelmiszer-termelő állatfajra való kiterjesztése esetében egy évvel meg kell hosszabbítani, ha a kiterjesztést az első ízben kiadott forgalomba hozatali engedély megadásától számított 5 éven belül engedélyezik,
+a)[^75] egy vagy több élelmiszer-termelő állatfajnak szánt, olyan új hatóanyagot tartalmazó állatgyógyászati készítmény esetén, amelyet az Európai Unió 2004. április 30-ig nem engedélyezett, a (1) bekezdés b) pontjában előírt, a referencia készítmény első forgalomba hozatali engedélyének kiadásától számított tízéves időtartamot a forgalomba hozatali engedélynek minden más élelmiszer-termelő állatfajra való kiterjesztése esetében egy évvel meg kell hosszabbítani, ha a kiterjesztést az első ízben kiadott forgalomba hozatali engedély megadásától számított 5 éven belül engedélyezik,
 
 b) négy vagy annál több élelmiszer-termelő állatfajnak szánt állatgyógyászati készítményre vonatkozó forgalomba hozatali engedély esetében azonban ez az időtartam összességében nem haladhatja meg a 13 évet,
 
@@ -44,4 +44,6 @@ c) a tízéves időtartamnak 11, 12 vagy 13 évre való meghosszabbítása csak 
 
 (6) Nem tekinthető a szabadalmi jogokkal vagy a gyógyszerekre vonatkozó kiegészítő szabadalmi oltalommal ellentétesnek, ha a szükséges tanulmányokat, vizsgálatokat és kísérleteket abból a célból végzik el, hogy a későbbiekben az (1)–(5) bekezdésekben foglaltakat alkalmazzák.
 
-[^51]: A 14. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 3. pontja szerint módosított szöveg.
+[^73]: A 14. § (1) bekezdés a) pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 8. pontja szerint módosított szöveg.
+[^74]: A 14. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 3. pontja szerint módosított szöveg.
+[^75]: A 14. § (5) bekezdés a) pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 3. pontja szerint módosított szöveg.

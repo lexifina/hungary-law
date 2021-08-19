@@ -1,12 +1,12 @@
-## 7. §[^38] Ha az állategészségügyi helyzet indokolja, a NÉBIH forgalomba hozatali engedélyezési eljárás nélkül meghatározott feltételekkel engedélyezi olyan állatgyógyászati készítmény eseti forgalomba hozatalát, amelyet az Európai Közösségben már engedélyeztek. Eseti forgalomba hozatali engedélyt csak hazai nagykereskedelmi forgalmazásra feljogosító működési engedéllyel rendelkező kérelmező kaphat, legfeljebb a várható éves forgalmazási mennyiségre. A kérelemben igazolni kell a készítmény hiánypótló voltát és az Európai Közösségben történt törzskönyvezését, valamint a kérelemhez csatolni kell a készítmény jóváhagyott SPC-jét és használati utasítását eredeti és magyar nyelven. Az engedély tartalmazza a készítmény gyártójának nevét, az eseti jelleggel forgalomba hozható mennyiséget és a jóváhagyott használati utasítást. Az eseti forgalomba hozatali engedélyt a NÉBIH honlapján közzéteszi.
+## 7. §[^54] Ha az állategészségügyi helyzet indokolja, a NÉBIH engedélyezi olyan hiánypótló állatgyógyászati készítmény eseti forgalomba hozatalát, amelyet az Európai Unióban már engedélyeztek. Eseti forgalomba hozatali engedélyt csak hazai nagykereskedelmi forgalmazásra feljogosító működési engedéllyel rendelkező kérelmező kaphat, legfeljebb a várható éves forgalmazási mennyiségre.
 
-8. § (1)[^39] Ha súlyos járványos állatbetegség esetén nem áll rendelkezésre megfelelő állatgyógyászati készítmény, a NÉBIH forgalomba hozatali engedélyezési eljárás nélkül, meghatározott feltételekkel, ideiglenes jelleggel engedélyezheti immunológiai állatgyógyászati készítmény felhasználását.
+8. § (1)[^55] Ha súlyos járványos állatbetegség esetén nem áll rendelkezésre megfelelő állatgyógyászati készítmény, a NÉBIH ideiglenes jelleggel engedélyezi immunológiai állatgyógyászati készítmény felhasználását.
 
-(2)[^40] A NÉBIH az engedély kiadását megelőzően a felhasználás körülményeiről részletesen tájékoztatja az Európai Bizottságot.
+(2)[^56] A NÉBIH az engedély kiadását megelőzően a felhasználás körülményeiről részletesen tájékoztatja az Európai Bizottságot.
 
-(3)[^41] Ha valamely állatot harmadik országból hoznak be vagy harmadik országba visznek ki, és ezáltal arra különleges kötelező állategészségügyi szabályok vonatkoznak, a NÉBIH az állat tekintetében engedélyezheti olyan immunológiai állatgyógyászati készítmény felhasználását, amely Magyarországon nem rendelkezik forgalomba hozatali engedéllyel, de amelyet a harmadik országban engedélyeztek. Az állatgyógyászati készítmény behozataláról és a felhasználásáról a kezelő állatorvos haladéktalanul jelentést küld a NÉBIH részére.
+(3)[^57] Ha valamely állatot harmadik országból hoznak be vagy harmadik országba visznek ki, és ezáltal arra különleges kötelező állategészségügyi szabályok vonatkoznak, az állat tekintetében a NÉBIH engedélyezi olyan immunológiai állatgyógyászati készítmény felhasználását, amely Magyarországon nem rendelkezik forgalomba hozatali engedéllyel, de amelyet a harmadik országban engedélyeztek. Az állatgyógyászati készítmény behozataláról és a felhasználásáról a kezelő állatorvos haladéktalanul jelentést küld a NÉBIH részére.
 
-[^38]: A 7. § a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^39]: A 8. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^40]: A 8. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
-[^41]: A 8. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^54]: A 7. § a 27/2021. (VIII. 11.) AM rendelet 6. §-ával megállapított szöveg.
+[^55]: A 8. § (1) bekezdése a 27/2021. (VIII. 11.) AM rendelet 7. §-ával megállapított szöveg.
+[^56]: A 8. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^57]: A 8. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 5. pontja szerint módosított szöveg.

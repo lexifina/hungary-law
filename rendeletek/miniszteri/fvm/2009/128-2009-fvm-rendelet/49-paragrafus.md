@@ -1,3 +1,3 @@
-## 48. §[^133] A NÉBIH a gyógyszergyártási engedélyekről honlapján rendszeresen frissített nyilvántartást vezet.
+## 48. §[^168] A NÉBIH a gyógyszergyártási engedélyekről honlapján rendszeresen frissített nyilvántartást vezet.
 
-[^133]: A 48. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^168]: A 48. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.

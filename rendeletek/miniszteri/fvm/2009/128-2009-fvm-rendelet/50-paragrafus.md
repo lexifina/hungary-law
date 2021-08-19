@@ -1,20 +1,20 @@
-## 49. §[^134] A NÉBIH a 45. § (2) bekezdésében és az 52. §-ban foglaltakra vonatkozóan szükség esetén kiegészítő adatokat kér.
+## 49. §[^169]
 
 50. § (1) A gyógyszergyártási engedély jogosultjának rendelkeznie kell az állatgyógyászati készítmény gyártási jogával.
 
 (2) A gyógyszergyártási engedély jogosultja köteles:
 
-a)[^135] a gyártásban és a minőség-ellenőrzésben az e rendeletben előírtaknak megfelelő szakképzettségű személyzetet foglalkoztatni,
+a)[^170] a gyártásban és a minőség-ellenőrzésben az e rendeletben előírtaknak megfelelő szakképzettségű személyzetet foglalkoztatni,
 
 b) kizárólag a hatályos jogszabályok előírásainak megfelelő állatgyógyászati készítményeket birtokában tartani,
 
-c)[^136] a NÉBIH-et értesíteni
+c)[^171] a NÉBIH-et értesíteni
 
-ca)[^137]
+ca)[^172]
 
 cb) abban az esetben, ha az 52. § szerinti meghatalmazott személy személyében váratlan, előre nem látható változás áll be, haladéktalanul,
 
-d)[^138] a NÉBIH, illetve a járási hivatal képviselőjének a létesítménybe való belépést lehetővé tenni,
+d)[^173]
 
 e) lehetővé tenni, hogy az 52. § szerinti meghatalmazott személy feladatát ellássa, illetve munkavégzéséhez a szükséges feltételeket biztosítani,
 
@@ -32,17 +32,17 @@ gd) a címzett neve és címe,
 
 ge) gyártási szám,
 
-h)[^139] a nyilvántartást 3 évig megőrizni és helyszíni ellenőrzés esetén a NÉBIH rendelkezésére bocsátani,
+h)[^174] a g) pont szerinti nyilvántartást 5 évig, de legalább az adott állatgyógyászati készítmény lejárati idején túl 1 évig megőrizni,
 
-i)[^140] az aktualizált Gyártóhely Alapadatait („Site Master File”) évente a NÉBIH rendelkezésére bocsátani.
+i)[^175] az aktualizált Gyártóhely Alapadatait (”Site Master File”) háromévente, az adatokban bekövetkezett változás esetén egy éven belül a NÉBIH rendelkezésére bocsátani.
 
-(3)[^141] A törzskönyvezett állatgyógyászati készítmények előállításának feltételeit a 7. számú melléklet és az Európai Bizottság által kiadott közösségi útmutató – az Eudralex „Good Manufacturing Practice” című 4. kötete – rögzíti, amelynek mindenkori magyar változatát a NÉBIH a honlapján és a minisztérium hivatalos lapjában közzéteszi.
+(3)[^176] A törzskönyvezett állatgyógyászati készítmények előállításának feltételeit a 7. számú melléklet és az Eudralex ”Good Manufacturing Practice” című 4. kötete rögzíti.
 
-[^134]: A 49. § a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
-[^135]: Az 50. § (2) bekezdés a) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^136]: Az 50. § (2) bekezdés c) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 16. pontja szerint módosított szöveg.
-[^137]: Az 50. § (2) bekezdés c) pont ca) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § f) pontja hatályon kívül helyezte.
-[^138]: Az 50. § (2) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 2. pontja, a 42/2017. (VIII. 17.) FM rendelet 134. § b) pontja szerint módosított szöveg.
-[^139]: Az 50. § (2) bekezdés h) pontja a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
-[^140]: Az 50. § (2) bekezdés i) pontja a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
-[^141]: Az 50. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
+[^169]: A 49. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^170]: Az 50. § (2) bekezdés a) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^171]: Az 50. § (2) bekezdés c) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 16. pontja szerint módosított szöveg.
+[^172]: Az 50. § (2) bekezdés c) pont ca) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § f) pontja hatályon kívül helyezte.
+[^173]: Az 50. § (2) bekezdés d) pontját a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^174]: Az 50. § (2) bekezdés h) pontja a 27/2021. (VIII. 11.) AM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^175]: Az 50. § (2) bekezdés i) pontja a 27/2021. (VIII. 11.) AM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^176]: Az 50. § (3) bekezdése a 27/2021. (VIII. 11.) AM rendelet 14. § (2) bekezdésével megállapított szöveg.

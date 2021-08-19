@@ -4,7 +4,7 @@
 
 ## ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK GYÁRTÁSA ÉS BEHOZATALA
 
-43. § (1)[^122] Állatgyógyászati készítményeknek, illetve azok hatóanyagának gyártását vagy annak bármely szakaszát, beleértve a minőség-ellenőrzést is kizárólag az e tevékenységre jogosító, a NÉBIH által kiadott engedély alapján lehet végezni.
+43. § (1)[^155] Állatgyógyászati készítmények és azok hatóanyaga gyártásának bármely szakaszát és a késztermékek minőség-ellenőrzését kizárólag a NÉBIH által kiadott gyógyszergyártási engedély és GMP igazolás alapján lehet végezni.
 
 (2) A (3) bekezdésben foglaltak kivételével gyártásnak minősül:
 
@@ -12,14 +12,14 @@ a) a teljes és részleges előállítás,
 
 b) az elsődleges és másodlagos kiszerelés – beleértve a csomagolást, átcsomagolást, címkézést, szétosztást (dividálást), illetve más külső megjelenés létrehozását is.
 
-(3)[^123] Nem minősül gyártásnak,
+(3)[^156] Nem minősül gyártásnak,
 
 a) ha az elkészítést, szétosztást (dividálást), a csomagolás – az elsődleges csomagolóanyag kivételével – vagy kiszerelés változtatását kizárólag kiskereskedelmi ellátás céljából, állatorvosnak magáncélú felhasználásra közforgalmú gyógyszertárban gyógyszerész végzi;
 
 b) ha a csomagolás módosítását az elsődleges csomagolóanyag megbontása nélkül a kiskereskedelmi tevékenység során állatorvos vagy gyógyszerész végzi a 72. §-ban foglaltak szerint.
 
-(4)[^124] A NÉBIH az (1) bekezdés szerinti engedélyek adatait eljuttatja az Európai Gyógyszer Ügynökséghez az általa működtetett közösségi adatbázisban történő nyilvántartás céljából.
+(4)[^157] A NÉBIH az (1) bekezdés szerinti engedélyek adatait eljuttatja az Európai Gyógyszer Ügynökséghez az általa működtetett európai uniós adatbázisban történő nyilvántartás céljából.
 
-[^122]: A 43. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
-[^123]: A 43. § (3) bekezdése a 77/2013. (IX. 10.) VM rendelet 3. §-ával megállapított szöveg.
-[^124]: A 43. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja szerint módosított szöveg.
+[^155]: A 43. § (1) bekezdése a 27/2021. (VIII. 11.) AM rendelet 12. §-ával megállapított szöveg.
+[^156]: A 43. § (3) bekezdése a 77/2013. (IX. 10.) VM rendelet 3. §-ával megállapított szöveg.
+[^157]: A 43. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 2. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.

@@ -16,10 +16,11 @@ db) a rovarölő, atkaölő és más ízeltlábúak elleni szerek közül: a kü
 
 dc) a riasztó és csalogatószerek közül: a külön rendelet szerint egészségügyi kártevőnek nem minősülő károsítók, külső élősködők ellen riasztó, csalogató, illetve távoltartó hatású, ölő hatással nem rendelkező, az állatok testfelületén közvetlenül vagy közvetett módon alkalmazandó, vagy az állatok elhelyezési, tartási, szállítási környezetében felhasználandó készítmény.
 
-(3) E rendeletnek az állategészségügyi biocid termékekre vonatkozó előírásait kell alkalmazni az adott biocid termék egyes hatóanyagainak a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabályban szereplő, a biocid termékekben felhasználható hatóanyagok és a kis kockázattal járó biocid termékek hatóanyagainak jegyzékébe (a továbbiakban: közösségi jegyzék) történő felvételéig, mely időpont után a közösségi jegyzékbe felvett hatóanyagot tartalmazó készítményre kizárólag a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabály előírásait kell alkalmazni.
+(3)[^4] E rendeletnek az állategészségügyi biocid termékekre vonatkozó előírásait kell alkalmazni az adott biocid termék egyes hatóanyagainak a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabályban szereplő, a biocid termékekben felhasználható hatóanyagok és a kis kockázattal járó biocid termékek hatóanyagainak jegyzékébe (a továbbiakban: európai uniós jegyzék) történő felvételéig, mely időpont után az európai uniós jegyzékbe felvett hatóanyagot tartalmazó készítményre kizárólag a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabály előírásait kell alkalmazni.
 
 (4) Az állategészségügyi biocid termékek vonatkozásában e rendeletben nem szabályozott kérdésekben a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabályban foglaltakat kell alkalmazni.
 
 [^1]: Az 1/A. §-t a 33/2010. (IV. 7.) FVM rendelet 1. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^2]: Az 1/A. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 135. § a) pontja szerint módosított szöveg.
 [^3]: Az 1/A. § (2) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 135. § b) pontja szerint módosított szöveg.
+[^4]: Az 1/A. § (3) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 1. és 10. pontja szerint módosított szöveg.

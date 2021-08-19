@@ -1,4 +1,4 @@
-## 30. § A forgalomba hozatali engedély jogosultja az engedélyezési eljárásért a külön jogszabályban meghatározottak szerint a kérelem benyújtásával egyidejűleg igazgatási-szolgáltatási díjat köteles fizetni.
+## 30. §[^123]
 
 31. § (1) A forgalomba hozatali engedély iránti kérelmet el kell utasítani, ha a benyújtott dokumentáció nem felel meg a 12–15. §-ban előírt követelményeknek.
 
@@ -14,6 +14,9 @@ d) a kérelmező által javasolt élelmezés-egészségügyi várakozási idő n
 
 e) a kérelmező által javasolt címke vagy használati utasítás nem felel meg e rendeletnek, vagy
 
-f) az állatgyógyászati készítményt olyan célra kívánják értékesíteni, amelyet közösségi vagy hazai előírások tiltanak.
+f)[^124] az állatgyógyászati készítményt olyan célra kívánják értékesíteni, amelyet európai uniós vagy hazai előírások tiltanak.
 
 (3) A forgalomba hozatali engedély jogosultja felel a benyújtott dokumentumok és adatok helyességéért, beleértve a készítmény szabadalmi oltalmával kapcsolatos adatokat is.
+
+[^123]: A 30. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^124]: A 31. § (2) bekezdés f) pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.
