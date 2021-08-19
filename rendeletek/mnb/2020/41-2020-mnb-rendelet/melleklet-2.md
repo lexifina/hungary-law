@@ -202,15 +202,17 @@
 
 | 98 | P68 | Leginkább releváns pénznemek meghatározása | Tpt. 411. §-a alapján továbbműködő elszámolóház, központi értéktári tevékenységet végző szervezet, az ezen típusú EGT-fióktelep | éves | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | tárgyidőszakot követő év január 31. |
 
-| 99 | P69 | A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/A. § (2) bekezdése szerinti jelentés | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | éves | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | tárgyidőszakot követő év március 31. |
+| 99 | P69 | A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 55/A. § (2) bekezdése szerinti értékeléshez kapcsolódó jelentés | pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | éves | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | tárgyidőszakot követő év március 31. |
 
 | 100 | P70 | A célra rendelt interfész egyes követelményeinek nemteljesítésére vonatkozó eseti adatszolgáltatás | tartalékmechanizmus létrehozása alól mentesített számlavezető pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | az (EU) 2015/2366 európai parlamenti és tanácsi irányelvnek az erős ügyfél-hitelesítésre, valamint a közös és biztonságos nyílt kommunikációs standardokra vonatkozó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2017. november 27-i (EU) 2018/389 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: SCAr.) 33. cikk (6) bekezdés a) és d) pontjában meghatározott feltételek két egymást követő naptári héten át tartó nemteljesítését követő munkanap |
 
-| 101 | P71 | Műveletikockázat-elemzésen alapuló kivételek alkalmazásának megszüntetése , illetve újraalkalmazása | számlavezető pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | a műveletikockázat-elemzésen alapuló kivételek alkalmazásának megszüntetése tekintetében: az SCAr. 20. cikk (1) bekezdésében foglaltak szerint azonnal a műveletikockázat-elemzésen alapuló kivételek újraalkalmazása tekintetében: az újraalkalmazás tervezett időpontját megelőző 5. munkanap |
+| 101 | P71 | Műveletikockázat-elemzésen alapuló kivételek alkalmazásának megszüntetése, illetve újraalkalmazása | számlavezető pénzforgalmi szolgáltató, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | a műveletikockázat-elemzésen alapuló kivételek alkalmazásának megszüntetése tekintetében: az SCAr. 20. cikk (1) bekezdésében foglaltak szerint azonnal a műveletikockázat-elemzésen alapuló kivételek újraalkalmazása tekintetében: az újraalkalmazás tervezett időpontját megelőző 5. munkanap |
 
 | 102 | P72 | A célra rendelt interfésszel kapcsolatos, rendkívüli intézkedést igénylő problémák | pénzforgalmi szolgáltató, az ezen típusú EGT fióktelep | eseti | elektronikus úton (ERA rendszer, űrlap), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | az SCAr. 33. cikk (3) bekezdésében foglaltak szerint haladéktalanul |
 
 | 103 | P73 | Központi szerződő fél – kollektív garanciaalap- és tőkeadatok | központi szerződő fél, az ezen típusú EGT-fióktelep | havi | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 20. munkanap |
+
+| 103a | P74 | Pénzforgalmi díjkimutatások adatai | a fogyasztók részére vezetett fizetési számlákhoz kapcsolódó díjakról történő tájékoztatás egyes kérdéseiről szóló 144/2018. (VIII. 13.) Korm. rendelet hatálya alá tartozó pénzforgalmi szolgáltató | éves | elektronikus úton (ERA rendszer), fokozott biztonságú vagy minősített elektronikus aláírással ellátva | tárgyidőszakot követő év február 28. |
 
 | 104 | P75 | Azonnali elszámolás forgalmának napi adatai | fizetési rendszer működtetését végző szervezet | napi | elektronikus úton (GiroHálóMail) | Valós Idejű Bruttó Elszámolási Rendszer (a továbbiakban: VIBER) munkanap tekintetében: a tárgynapi VIBER-zárást követő 30 percen belül; VIBER munkaszüneti nap tekintetében: a tárgynapot követő első munkanapi VIBER-nyitást követő 30 percen belül |
 
@@ -276,6 +278,8 @@
 
 | 135 | R45 | Éven túli lejáratú hiteltartozások előtörlesztése – egyéb monetáris intézmények | az éven túli külföldi adóssággal rendelkező és a tárgyidőszakban előtörlesztést végrehajtó hitelintézet, az ezen típusú EGT-fióktelep | éves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő év 32. munkanap |
 
+| 135a | R46 | Kijelölt gazdasági és nonprofit szervezetek eseti eszközfelmérő kérdőíve | kijelölt – a 2. melléklet I. A. pontja szerinti A) Nem pénzügyi vállalatok szektorába sorolt – gazdasági szervezet | egyedi elrendelés alapján, eseti | papíron | a kijelölés kézhezvételétől számított 15 napon belül (a kijelölést megelőző negyedévre vonatkozóan) |
+
 | 136 | SL2 | Fogyasztási hitelezés | kijelölt bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | egyedi elrendelés alapján, negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 12. munkanap 12 óra |
 
 | 137 | SL3 | Vállalati hitelezés | kijelölt bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | egyedi elrendelés alapján, negyedéves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő hónap 12. munkanap 12 óra |
@@ -316,4 +320,6 @@
 
 | 6 | Z06 | Természetes személyek anonimizált egészségügyi adatai | Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet a 41/2020. (XI. 18.) MNB rendelethez
+2. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^6]
+
+[^6]: A 2. mellékelt a 25/2021. (VIII. 18.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
