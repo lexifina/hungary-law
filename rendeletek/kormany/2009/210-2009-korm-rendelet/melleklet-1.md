@@ -1,4 +1,4 @@
-1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^64]
+1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^72]
 
 A) A bejelentésköteles kereskedelmi tevékenység folytatásáról szóló bejelentés adattartalma
 
@@ -36,7 +36,7 @@ I. A kereskedő és a kereskedelmi tevékenység adatai
 
 6.6. alapterülete (m2),
 
-6.7. vendéglátó üzlet esetén befogadóképessége és a 4. melléklet szerinti vendéglátóhely üzlettípus megjelölése,
+6.7. vendéglátó üzlet esetén befogadóképessége és a 4. melléklet szerinti vendéglátóhely üzlettípus megjelölése, valamint azon vendéglátó üzletek esetén, amelyek kötelesek vendéglátó szoftver alkalmazására, nyilatkozat arról, hogy rendelkeznek a 28. § g) pontja szerinti vendéglátó szoftverrel,
 
 6.8. a 25. § (4) bekezdés szerinti esetben a vásárlók könyve nyomtatvány azonosító adatai és használatba vételének időpontja,
 
@@ -102,4 +102,4 @@ I. A kereskedő és az üzlet adatai
 
 II. Keltezés, a kérelmező (bejelentő) aláírása (bélyegzője).
 
-[^64]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 265. §-ával megállapított, a 634/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^72]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 265. §-ával megállapított, a 634/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdés a) pontja, az 501/2021. (VIII. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.

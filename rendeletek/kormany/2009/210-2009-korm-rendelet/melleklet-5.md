@@ -26,10 +26,10 @@ Közterületi értékesítés keretében forgalmazható termékek
 
 12. ásványvíz, üdítőital, kávéital, nyers tej;
 
-13.[^77] büfétermék;
+13.[^85] büfétermék;
 
 14. sütőipari termékek;
 
 15. előrecsomagolt sütemények, édességek.
 
-[^77]: Az 5. melléklet 13. pontja a 41/2010. (II. 26.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^85]: Az 5. melléklet 13. pontja a 41/2010. (II. 26.) Korm. rendelet 23. §-a szerint módosított szöveg.

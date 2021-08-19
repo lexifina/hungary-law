@@ -14,13 +14,16 @@ bc) meleg és hideg szendvicsfélék, valamint
 
 az ezek fogyasztásához közvetlenül kapcsolódó termékek, és gyárilag előre csomagolt élelmiszerek, valamint az italok;
 
-c)[^55]
+c)[^62]
 
 d) melegkonyhás vendéglátóhely: meleg- és hideg ételeket, cukrászati készítményeket, sütő- és édesipari termékeket, kávét, szeszesitalt és szeszmentes italokat forgalmazó üzlet, ahol az ételeket meghatározóan a helyszínen készítik;
 
-e)[^56]
+e)[^63]
 
 f) szexuális termék: az Fgytv. 2. § v) pontjában meghatározott termék.
 
-[^55]: A 28. § c) pontját a 8/2013. (I. 18.) Korm. rendelet 1. § b) pont ba) alpontja hatályon kívül helyezte.
-[^56]: A 28. § e) pontját a 8/2013. (I. 18.) Korm. rendelet 1. § b) pont bb) alpontja hatályon kívül helyezte.
+g)[^64] vendéglátó szoftver: az adatszolgáltatásra kötelezett vendéglátó üzlet üzemeltetője által kötelezően használt olyan informatikai program, amely a Nemzeti Turisztikai Adatszolgáltató Központ számára adatok továbbítására alkalmas.
+
+[^62]: A 28. § c) pontját a 8/2013. (I. 18.) Korm. rendelet 1. § b) pont ba) alpontja hatályon kívül helyezte.
+[^63]: A 28. § e) pontját a 8/2013. (I. 18.) Korm. rendelet 1. § b) pont bb) alpontja hatályon kívül helyezte.
+[^64]: A 28. § g) pontját az 501/2021. (VIII. 18.) Korm. rendelet 3. §-a iktatta be.
