@@ -1,0 +1,3 @@
+## 3. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet (a továbbiakban: R2.) a következő 31. §-sal egészül ki:
+
+## „31. § E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 504/2021. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr23.) módosított 3. § (3) bekezdését, 7/F. §-át és 2. mellékletében foglalt táblázat 44. sorát a Módr23. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”

@@ -1,0 +1,1 @@
+## 1. A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében megvalósuló iskolafejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 3/2018. (II. 1.) Korm. rendelet módosítása
