@@ -4,7 +4,7 @@
 
 35. §[^72] (1)[^73] Az áruk vámeljárás alá vonása, az áruk uniós státuszának igazolása és az exportszállításokhoz igényelt származási igazolás kiadása és utólagos megerősítése – a nem preferenciális származás és a közös agrárpolitika hatálya alá tartozó termékek kivételével – tekintetében, ha jogszabály eltérően nem rendelkezik, az a megyei igazgatóság, illetve a Repülőtéri Igazgatóság illetékes, amelynél az árukat vám elé állítják.
 
-(2)[^74] Vámellenőrzés – ideértve az áruátengedést követő ellenőrzést is – lefolytatására – a 62. §-ben meghatározott kivétellel – az a megyei igazgatóság vagy a Repülőtéri Igazgatóság az illetékes, amelynél az ellenőrzéssel érintett árunyilatkozatot vagy az értesítést benyújtották.
+(2)[^74] Vámellenőrzés – ideértve az áruátengedést követő ellenőrzést is – lefolytatására – a 62. §-ban meghatározott kivétellel – az a megyei igazgatóság vagy a Repülőtéri Igazgatóság az illetékes, amelynél az ellenőrzéssel érintett árunyilatkozatot vagy az értesítést benyújtották, azzal, hogy a 90. § (6) bekezdése szerinti vámellenőrzések tekintetében a Bevetési Igazgatóság is eljárhat.
 
 (3)[^75] Ha a vámellenőrzés – ideértve az áruátengedést követő ellenőrzést is – által érintett árunyilatkozatokat vagy értesítéseket több területi vámszervnél nyújtották be, a vámellenőrzés lefolytatására
 
@@ -60,7 +60,7 @@ f)[^81] Az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i, 952
 
 [^72]: A 35. § a 88/2016. (IV. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^73]: A 35. § (1) bekezdése a 214/2017. (VII. 25.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^74]: A 35. § (2) bekezdése a 481/2016. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^74]: A 35. § (2) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^75]: A 35. § (3) bekezdése a 214/2017. (VII. 25.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 670/2020. (XII. 28.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
 [^76]: A 35. § (3a) bekezdését a 481/2016. (XII. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be, hatályon kívül helyezte a 475/2017. (XII. 28.) Korm. rendelet 80. § 5. pontja.
 [^77]: A 35. § (3b) bekezdését a 481/2016. (XII. 28.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 475/2017. (XII. 28.) Korm. rendelet 71. § (1) bekezdésével megállapított szöveg.
