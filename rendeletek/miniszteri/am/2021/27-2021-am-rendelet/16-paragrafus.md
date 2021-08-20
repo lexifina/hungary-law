@@ -1,1 +1,3 @@
-## „(4) Amennyiben valamely engedélyezett tevékenység szüneteltetésének ideje a két év időtartamot eléri, a további szüneteltetés tényét, valamint az engedélyezett tevékenység újbóli megkezdését a gyártó legalább 30 nappal korábban bejelenti a NÉBIH-nek.”
+## 15. §[^15]
+
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

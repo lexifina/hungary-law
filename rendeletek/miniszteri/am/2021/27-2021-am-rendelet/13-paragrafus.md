@@ -1,3 +1,3 @@
-## 12. § A 128/2009. (X. 6.) FVM rendelet 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 12. §[^12]
 
-## „(1) Állatgyógyászati készítmények és azok hatóanyaga gyártásának bármely szakaszát és a késztermékek minőség-ellenőrzését kizárólag a NÉBIH által kiadott gyógyszergyártási engedély és GMP igazolás alapján lehet végezni.”
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## „(3) Az (1) bekezdés d) és h) pontjában felsoroltakat a külső csomagoláson és a közvetlen csomagoláson is magyar nyelven kell feltüntetni.”
+## 18. §[^18]
+
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

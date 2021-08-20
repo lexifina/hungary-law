@@ -1,5 +1,0 @@
-24. § (1) A 128/2009. (X. 6.) FVM rendelet 70. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A törzskönyvezett állatgyógyászati készítmények kiadását kiskereskedelmi forgalmazás során – a szabadon forgalmazható készítmények kivételével – kizárólag a működési engedélyben megnevezett állatorvos vagy gyógyszerész, illetve ezek állandó jelenléte mellett gyógyszertári asszisztens végezheti. Ha az állatorvos vagy gyógyszerész nincs jelen a teljes nyitvatartási időben, a forgalmazás helyén jól látható módon ki kell függeszteni az állatorvos, illetve a gyógyszerész jelenlétének pontos napi időszakát, valamint azt, hogy az ezen kívül eső időszakban a szabadon forgalmazható készítmények kivételével a törzskönyvezett állatgyógyászati készítmények kiadása szünetel, amelyeket ezen időszak alatt elkülönített helyen, zárva kell tartani. Önkiszolgáló rendszerben a szabadon forgalmazható készítmények árusíthatók.”
-
-(2) A 128/2009. (X. 6.) FVM rendelet 70. §-a a következő (5) bekezdéssel egészül ki:
