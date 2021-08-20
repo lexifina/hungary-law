@@ -1,3 +1,3 @@
-## 7. §[^4]
+## 7. §[^7]
 
-[^4]: A 7. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^7]: A 7. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.

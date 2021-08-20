@@ -1,1 +1,3 @@
-## „(12) Az üzemeltető a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetésével és ehhez kapcsolódóan a turizmus szakmai feladatokkal összefüggésben értesítést küldhet a szálláshely-szolgáltató részére.”
+## 25. §[^28]
+
+[^28]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

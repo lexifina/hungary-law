@@ -1,5 +1,3 @@
-## 28. § Az R4. 9. §-a helyébe a következő rendelkezés lép:
+## 28. §[^31]
 
-## „9. § (1) A Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-regisztrációt, a vendéglátó üzlet regisztrációt, illetve az adatszolgáltatásra kötelezett turisztikai attrakció regisztrációt megszünteti, ha a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltető, illetve a turisztikai attrakció üzemeltető a tevékenység gyakorlására nem jogosult, vagy a szálláshely-szolgáltató, a vendéglátó üzlet üzemeltető illetve a turisztikai attrakció üzemeltető megszűnt, vagy ha a szálláshely-szolgáltatáshoz, a vendéglátáshoz kapcsolódó kereskedelmi tevékenységet, illetve az adatszolgáltatásra kötelezett turisztikai attrakciókhoz kapcsolódó tevékenységet megszüntették.
-
-## (2) Az (1) bekezdés szerinti esetben a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a szálláshely-szolgáltató által az 5. § (5) bekezdésében, a vendéglátó üzlet üzemeltető által a 6/A. § (5) bekezdésében, a turisztikai attrakció üzemeltető által a 6/B. § (5) bekezdésében foglalt adatok kezelésére az (1) bekezdés szerinti időponttól számított 10 évig jogosult.”
+[^31]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

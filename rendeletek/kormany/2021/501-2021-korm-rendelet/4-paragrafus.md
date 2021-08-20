@@ -1,5 +1,3 @@
-## 3. § Az R2. 28. §-a a következő g) ponttal egészül ki:
+## 3. §[^3]
 
-## (E rendelet alkalmazása szempontjából:)
-
-## „g) vendéglátó szoftver: az adatszolgáltatásra kötelezett vendéglátó üzlet üzemeltetője által kötelezően használt olyan informatikai program, amely a Nemzeti Turisztikai Adatszolgáltató Központ számára adatok továbbítására alkalmas.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

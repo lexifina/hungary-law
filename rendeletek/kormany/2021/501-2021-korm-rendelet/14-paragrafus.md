@@ -1,3 +1,3 @@
-## 13. §[^11]
+## 13. §[^16]
 
-[^11]: A 13. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 13. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.

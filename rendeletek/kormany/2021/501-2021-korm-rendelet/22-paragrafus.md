@@ -1,3 +1,3 @@
-## 21. § Az R4. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 21. §[^24]
 
-## „(1) A szálláshely-szolgáltató köteles a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője által e célra működtetett elektronikus felületen (a továbbiakban: elektronikus felület) a regisztrációt elvégezni.”
+[^24]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
