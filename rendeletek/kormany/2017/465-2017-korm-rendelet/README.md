@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-465-20-
 | 2021-01-01 | 2017-465-20-22.10 | 670/2020. (XII. 28.) Korm. rendelet |
 | 2021-02-01 | 2017-465-20-22.11 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-07-01 | 2017-465-20-22.12 | 670/2020. (XII. 28.) Korm. rendelet |
+| 2021-08-20 | 2017-465-20-22.13 | 506/2021. (VIII. 19.) Korm. rendelet |

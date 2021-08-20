@@ -1,7 +1,7 @@
 ## 51. Díjfizetés
 
-110. § (1)[^72] A kérelem, illetve a személyes konzultáció díját a Pénzügyminisztérium Magyar Államkincstárnál vezetett 10032000-01460658 számú számlájára kell befizetni. A díj nem minősül a központi költségvetés központosított bevételének.
+110. § (1)[^74] A kérelem díját a Pénzügyminisztérium Magyar Államkincstárnál vezetett 10032000-01460658-00000000 számú számlájára kell befizetni. A díj az adópolitikáért felelős miniszter által vezetett minisztérium működési bevétele.
 
 (2) A díj megfizetésére részletfizetés vagy fizetési halasztás nem adható.
 
-[^72]: A 110. § (1) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 36. § 15. pontja szerint módosított szöveg.
+[^74]: A 110. § (1) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 12. §-ával megállapított szöveg.
