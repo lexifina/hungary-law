@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-460-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-08-19 | 2021-460-20-22.1 | 460/2021. (VIII. 4.) Korm. rendelet |
+| 2021-08-20 | 2021-460-20-22.2 | 2010: CXXX. törvény |
