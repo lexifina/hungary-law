@@ -2,7 +2,7 @@
 
 7. § (1) Az 1–3. célterület esetében
 
-a)[^1] a célterületekre vonatkozóan külön pályázati felhívások készülnek, amelyeket a miniszter jóváhagyását követően, a minisztérium a kormányzati portálon és a Herman Ottó Intézet Nonprofit Kft. (a továbbiakban: Herman Ottó Intézet) a saját honlapján e rendelet hatálybalépését követő kilencven naptári napon belül tesz közzé,
+a)[^5] a célterületekre vonatkozóan külön pályázati felhívások készülnek, amelyeket a miniszter jóváhagyását követően, a minisztérium a kormányzati portálon és a Herman Ottó Intézet Nonprofit Kft. (a továbbiakban: Herman Ottó Intézet) a saját honlapján e rendelet hatálybalépését követő kilencven naptári napon belül tesz közzé,
 
 b) a pályázatokat az elektronikus felületen kitöltött pályázati adatlapon a pályázati felhívásban megadott határidőig és módon – az abban előírt tartalommal és mellékletekkel – a Herman Ottó Intézethez egy eredeti és egy másolati példányban kell benyújtani,
 
@@ -22,10 +22,10 @@ c) egy településről önállóan vagy konzorciumi partnerként egy egyedi tám
 
 (3) Az 5. célterület esetében
 
-a)[^2] felhívás készül, amelyet a miniszter a kormányzati portálon e rendelet hatálybalépését követő kilencven naptári napon belül tesz közzé,
+a)[^6] felhívás készül, amelyet a miniszter a kormányzati portálon e rendelet hatálybalépését követő kilencven naptári napon belül tesz közzé,
 
-b)[^3] az egyedi támogatási kérelmet papíralapon egy eredeti példányban, postai úton, e rendelet hatálybalépését követő százhúsz napon belül kell benyújtani a minisztériumhoz – a benyújtás napjának a postai bélyegző dátuma szerinti nap minősül.
+b)[^7] az egyedi támogatási kérelmet papíralapon egy eredeti példányban, postai úton, e rendelet hatálybalépését követő százhúsz napon belül kell benyújtani a minisztériumhoz – a benyújtás napjának a postai bélyegző dátuma szerinti nap minősül.
 
-[^1]: A 7. § (1) bekezdés a) pontja a 39/2017. (VIII. 7.) FM rendelet 22. § a) pontja szerint módosított szöveg.
-[^2]: A 7. § (3) bekezdés a) pontja a 39/2017. (VIII. 7.) FM rendelet 22. § a) pontja szerint módosított szöveg.
-[^3]: A 7. § (3) bekezdés b) pontja a 39/2017. (VIII. 7.) FM rendelet 22. § b) pontja szerint módosított szöveg.
+[^5]: A 7. § (1) bekezdés a) pontja a 39/2017. (VIII. 7.) FM rendelet 22. § a) pontja szerint módosított szöveg.
+[^6]: A 7. § (3) bekezdés a) pontja a 39/2017. (VIII. 7.) FM rendelet 22. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § (3) bekezdés b) pontja a 39/2017. (VIII. 7.) FM rendelet 22. § b) pontja szerint módosított szöveg.

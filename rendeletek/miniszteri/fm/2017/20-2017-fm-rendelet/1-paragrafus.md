@@ -14,7 +14,7 @@
 
 6. civil szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 2. § 6. pontja szerinti civil szervezet;
 
-7. családi gazdaság: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: 2013. évi CXXII. törvény) 5. § 4. pontjában meghatározott üzem;
+7.[^1]
 
 8. csekély összegű támogatás:
 
@@ -84,6 +84,8 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 37. összes bevétel: a számviteli törvény 72–75. §-a és 77. §-a, továbbá az 1995. évi CXVII. törvény 16. § (1)–(4) bekezdése, a 17. § (1) és (2) bekezdése, a 2. számú melléklet I. fejezet 1., 2., 4., 5., 6., 9., 10. pontja, valamint az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 16. melléklet 1. fejezet 14. pontja szerint meghatározott bevételek;
 
+37a.[^2] őstermelők családi gazdasága: a családi gazdaságokról szóló 2020. évi CXXIII. törvény 6. § (1) bekezdésének megfelelő termelési közösség;
+
 38. saját forrás: a pályázó által a támogatott fejlesztéshez biztosított pénzbeli önrész, amelybe az államháztartás alrendszereiből pályázati úton nyújtott támogatás nem számít be, kivéve a támogatást igénylő költségvetési szervnek vagy irányító szervének költségvetésében az adott célra előirányzott összeget;
 
 39. Standard Termelési Érték: az ágazat kibocsátását termelői áron hektárra vagy állategységre vetítve kifejező mutató, amely a termelési érték és a közvetlen támogatások (továbbá az általános forgalmi adó és egyéb termékadó) különbsége, a tevékenységi irány meghatározásánál figyelembe veszi az egyéb jövedelemtermelő tevékenység értékét is, és az üzemméretet közvetlenül euróban fejezi ki;
@@ -115,3 +117,6 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 52. védett őshonos vagy veszélyeztetett mezőgazdasági állatfajta: a védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet 1. és 2. számú mellékletében szereplő mezőgazdasági állatfajták;
 
 53. végső kedvezményezett: az a természetes vagy jogi személy, akinél vagy amelynél a támogatásból származó gazdasági előny ténylegesen jelentkezik.
+
+[^1]: Az 1. § 7. pontját a 28/2021. (VIII. 18.) AM rendelet 24. § (3) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. § 37a. pontját a 28/2021. (VIII. 18.) AM rendelet 24. § (1) bekezdése iktatta be.

@@ -20,11 +20,11 @@ h) a 2. § (2) bekezdés f) pontjában meghatározott célra irányuló fejleszt
 
 (2) A 2. célterületre irányuló fejlesztés esetén pályázat benyújtására az a magánszemély, őstermelő vagy egyéni vállalkozó jogosult,
 
-a) aki a tanyás települések valamelyikén 2017. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy a családi gazdaság valamely tagjának tulajdonában lévő, illetve a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó, a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint tartózkodási helyén él;
+a)[^3] aki a tanyás települések valamelyikén 2017. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő, illetve a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó, a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint tartózkodási helyén él;
 
 b) akinek a 2. § (3) bekezdés c) pontjában meghatározott fejlesztés esetén az 2013., 2014. és 2015. évi összes bevételének, valamint a 2013., 2014. és 2015. évben nem önálló tevékenységből származó jövedelmének összegéből számított átlag legalább 50%-a mezőgazdasági tevékenységből származott és a 2013., 2014. és 2015. évben a mezőgazdasági tevékenységből származó bevételének átlaga nem haladta meg a nettó nyolcmillió forintot.
 
-(3) A 3. célterületre irányuló fejlesztés esetén pályázat benyújtására az a magánszemély jogosult, aki a tanyás térségben található települések valamelyikén 2017. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy a családi gazdaság valamely tagjának tulajdonában lévő, illetve a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó, a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint tartózkodási helyén él.
+(3)[^4] A 3. célterületre irányuló fejlesztés esetén pályázat benyújtására az a magánszemély jogosult, aki a tanyás térségben található települések valamelyikén 2017. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő, illetve a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó, a fejlesztés helyszínéül szolgáló tanyagazdaság részét képező tanyán mint tartózkodási helyén él.
 
 (4) A 2. és a 3. célterületre irányuló fejlesztés esetén a támogatás igénybevételének feltétele, hogy a fejlesztés tárgyát képező ingatlan tulajdoni lapján ne szerepeljen végrehajtási jog bejegyzés.
 
@@ -53,3 +53,6 @@ cb) – más vállalkozással egy és ugyanazon vállalkozás esetében – a v�
 cc) a naptári évtől eltérő üzleti év alkalmazása esetén az alkalmazott üzleti évről és
 
 cd) a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában foglaltakról.
+
+[^3]: A 3. § (2) bekezdés a) pontja a 28/2021. (VIII. 18.) AM rendelet 24. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése a 28/2021. (VIII. 18.) AM rendelet 24. § (2) bekezdése szerint módosított szöveg.
