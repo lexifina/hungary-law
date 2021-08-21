@@ -1,3 +1,3 @@
-## 12. § Az R2. 110. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 12. §[^15]
 
-## „(1) A kérelem díját a Pénzügyminisztérium Magyar Államkincstárnál vezetett 10032000-01460658-00000000 számú számlájára kell befizetni. A díj az adópolitikáért felelős miniszter által vezetett minisztérium működési bevétele.”
+[^15]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,15 +1,17 @@
-## 8. § Az R1. 65. § (3) bekezdésében az „az (1) bekezdés alapján” szövegrész helyébe az „az (1) bekezdés vagy a 63. § (1) bekezdés c) pontja alapján” szöveg lép.
+## 8. §[^8]
 
 ## 9. § Hatályát veszti az R1.
 
-a)[^2]
+a)[^9]
 
-b)[^3]
+b)[^10]
 
-c)[^4]
+c)[^11]
 
-d) 90. § (1) bekezdés a) pontjában az „és a Vtv. szerinti áruk ellenőrzése” szövegrész.
+d)[^12]
 
-[^2]: A 9. § a) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
-[^3]: A 9. § b) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
-[^4]: A 9. § c) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. § a) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^10]: A 9. § b) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^11]: A 9. § c) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^12]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

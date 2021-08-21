@@ -1,3 +1,3 @@
-## 5. § Az R1. 90. §-a a következő (6) bekezdéssel egészül ki:
+## 5. §[^5]
 
-## „(6) Az (1) bekezdés a) pontja alapján a Bevetési Igazgatóság vámellenőrzést kizárólag a vámfelügyelet alatt álló áruk tekintetében végez.”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

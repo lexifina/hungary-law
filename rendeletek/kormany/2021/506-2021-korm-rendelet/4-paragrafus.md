@@ -1,3 +1,3 @@
-## 3. § Az R1. 57. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „(1) A KAVIG első fokon eljár a hatáskörébe tartozó adózók – adó- és vámhatósági hatáskörébe tartozó – hatósági ügyeiben az illetékügyek és az Avt. 57. alcíme szerinti meghatározott cselekmények kivételével.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
