@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-38-20-8
 | 2014-09-16 | 2010-38-20-82.13 | 1/2014. (IX. 15.) MvM rendelet |
 | 2015-02-17 | 2010-38-20-82.14 | 7/2015. (II. 17.) MvM rendelet |
 | 2018-01-01 | 2010-38-20-82.15 | 37/2017. (XII. 27.) MvM rendelet |
+| 2021-08-21 | 2010-38-20-82.16 | 28/2021. (VIII. 18.) AM rendelet |

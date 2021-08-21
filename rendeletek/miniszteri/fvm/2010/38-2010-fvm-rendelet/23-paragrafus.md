@@ -1,8 +1,8 @@
 ## 12. A kifizetési kérelem
 
-23. § (1)[^42] A kifizetési kérelmeket elektronikus úton, ügyfélkapun keresztül évente március 1. és 31. között lehet benyújtani a Kincstárhoz.
+23. § (1)[^44] A kifizetési kérelmeket elektronikus úton, ügyfélkapun keresztül évente március 1. és 31. között lehet benyújtani a Kincstárhoz.
 
-(1a)[^43] A kifizetési kérelem elektronikus benyújtásának módjára, meghatalmazott eljárására, az elektronikus kapcsolattartásra
+(1a)[^45] A kifizetési kérelem elektronikus benyújtásának módjára, meghatalmazott eljárására, az elektronikus kapcsolattartásra
 
 a) az Európai Mezőgazdasági Garancia Alapból, az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló tárgyévi rendelet rendelkezéseit,
 
@@ -10,9 +10,9 @@ b) 2015. évben az Európai Mezőgazdasági Garancia Alapból, valamint a közpo
 
 az (1b) bekezdésben foglalt eltéréssel kell alkalmazni.
 
-(1b)[^44] A kifizetési kérelem elektronikus benyújtásával egyidejűleg annak egyes mellékleteit elektronikus úton kell benyújtani a Kincstárhoz.
+(1b)[^46] A kifizetési kérelem elektronikus benyújtásával egyidejűleg annak egyes mellékleteit elektronikus úton kell benyújtani a Kincstárhoz.
 
-(2)[^45] A tenyésztési hatóságtól a Kincstár megkéri a kifizetési kérelem elbírálásához szükséges, a tenyésztési hatóság célprogramonként kiállított, az előző naptári évre vonatkozó igazolását, amely tartalmazza
+(2)[^47] A tenyésztési hatóságtól a Kincstár megkéri a kifizetési kérelem elbírálásához szükséges, a tenyésztési hatóság célprogramonként kiállított, az előző naptári évre vonatkozó igazolását, amely tartalmazza
 
 a) a támogatható állatok egyedenkénti – baromfifélék esetén állományonkénti – azonosítóját, és
 
@@ -20,10 +20,10 @@ b) nukleusz, vagy fajtafenntartó minősítését.
 
 (3) A (2) bekezdés b) pont szerinti minősítésről szóló igazolást a tenyésztési hatóság a tenyésztőszervezetek által számára rendelkezésére bocsátott adatok alapján állítja ki.
 
-(4)[^46] A 2010-et követő években támogatási kérelmet benyújtó kérelmezők első alkalommal a támogatási kérelem benyújtását követő évben nyújthatnak be kifizetési kérelmet.
+(4)[^48] A 2010-et követő években támogatási kérelmet benyújtó kérelmezők első alkalommal a támogatási kérelem benyújtását követő évben nyújthatnak be kifizetési kérelmet.
 
-[^42]: A 23. § (1) bekezdése a 13/2014. (II. 24.) VM rendelet 3. § (1) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 20. § g) pontja szerint módosított szöveg.
-[^43]: A 23. § (1a) bekezdését a 7/2015. (II. 17.) MvM rendelet 33. § (3) bekezdése iktatta be.
-[^44]: A 23. § (1b) bekezdését a 13/2014. (II. 24.) VM rendelet 3. § (2) bekezdése iktatta be, szövege a 37/2017. (XII. 27.) MvM rendelet 20. § g) pontja szerint módosított szöveg.
-[^45]: A 23. § (2) bekezdése a 15/2011. (II. 28.) VM rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 37/2017. (XII. 27.) MvM rendelet 20. § h) pontja szerint módosított szöveg.
-[^46]: A 23. § (4) bekezdését a 15/2011. (II. 28.) VM rendelet 6. § f) pontja hatályon kívül helyezte, újonnan a 74/2011. (VII. 29.) VM rendelet 8. §-a iktatta be.
+[^44]: A 23. § (1) bekezdése a 13/2014. (II. 24.) VM rendelet 3. § (1) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 20. § g) pontja szerint módosított szöveg.
+[^45]: A 23. § (1a) bekezdését a 7/2015. (II. 17.) MvM rendelet 33. § (3) bekezdése iktatta be.
+[^46]: A 23. § (1b) bekezdését a 13/2014. (II. 24.) VM rendelet 3. § (2) bekezdése iktatta be, szövege a 37/2017. (XII. 27.) MvM rendelet 20. § g) pontja szerint módosított szöveg.
+[^47]: A 23. § (2) bekezdése a 15/2011. (II. 28.) VM rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 37/2017. (XII. 27.) MvM rendelet 20. § h) pontja szerint módosított szöveg.
+[^48]: A 23. § (4) bekezdését a 15/2011. (II. 28.) VM rendelet 6. § f) pontja hatályon kívül helyezte, újonnan a 74/2011. (VII. 29.) VM rendelet 8. §-a iktatta be.

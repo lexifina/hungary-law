@@ -6,7 +6,7 @@
 
 | 2 | Agrárvégzettség | Felsőfokú | Oklevél másolata Bizonyítvány másolat | 10 |
 
-| 3 | Középfokú szakképesítés | Családi gazdaság nyilvántartásba vételéről szóló határozat másolata* Munkáltatói igazolás Társasági szerződés másolata | 5 |
+| 3 | Középfokú szakképesítés | Őstermelők családi gazdaságának nyilvántartásba vételéről szóló határozat másolata* Munkáltatói igazolás Társasági szerződés másolata | 5 |
 
 | 4 | A támogatási kérelem beadását megelőző 3 év tenyésztői munka osztályozása | Kiváló | Az adott fajta elismert tenyésztőszervezetének igazolása | 25 |
 
@@ -34,7 +34,7 @@
 
 | 16 | Mindösszesen | max. 100 pont |  |  |
 
-## * A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001. (XII. 30.) Korm. rendelet 4. § (3) bekezdése szerinti határozat másolata
+## * A családi gazdaságokról szóló törvény végrehajtásáról szóló kormányrendelet szerinti határozat másolata
 
 ## ** csőd-, felszámolási és végelszámolási eljárás alatt nem álló termelői csoport, termelő szervezet
 

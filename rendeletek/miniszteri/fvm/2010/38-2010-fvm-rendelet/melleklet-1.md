@@ -1,4 +1,4 @@
-## 39. §[^70] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 16. § (3) és (5) bekezdést, 23. § (1a) bekezdést, 25. § (2) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^71] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 39. §[^72] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 16. § (3) és (5) bekezdést, 23. § (1a) bekezdést, 25. § (2) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^73] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 38/2010. (IV. 15.) FVM rendelethez
 
@@ -84,5 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^70]: A 39. §-t a 7/2015. (II. 17.) MvM rendelet 33. § (5) bekezdése iktatta be.
-[^71]: A hatálybalépés időpontja 2015. február 17.
+[^72]: A 39. §-t a 7/2015. (II. 17.) MvM rendelet 33. § (5) bekezdése iktatta be.
+[^73]: A hatálybalépés időpontja 2015. február 17.
