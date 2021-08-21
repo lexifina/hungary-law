@@ -10,17 +10,17 @@ c) a 2. § (3) bekezdés c) pont ca), cc) valamint cd) alpontjában meghatározo
 
 d) a 2. § (3) bekezdés c) pont cb) alpontjában meghatározott célra irányuló fejlesztés esetén a tanyás térségekben működő tanyagondnoki feladatokat ellátó, illetve tanyagondnokokat összefogó civil szervezetek.
 
-(2) A 2. § (4) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a mezőgazdasági tevékenységet végző őstermelő, egyéni vállalkozó vagy családi gazdálkodó jogosult, aki tanyás települések valamelyikén
+(2)[^5] A 2. § (4) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a mezőgazdasági őstermelő, egyéni vállalkozó vagy őstermelők családi gazdaságának tagja jogosult, aki tanyás települések valamelyikén
 
-a) 2015. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy a családi gazdaság valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él,
+a)[^6] 2015. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él,
 
 b) a tanyagazdaságban igazoltan mezőgazdasági tevékenységet folytat, és
 
 c) a 2012., 2013. és 2014. évi összes bevétele átlagának legalább 50%-a mezőgazdasági tevékenységből származott és a 2012., 2013. és 2014. évi mezőgazdasági tevékenységből származó bevételének átlaga nem haladta meg a nettó nyolcmillió forintot.
 
-(3) A 2. § (5) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a tanyán élő természetes személy vagy őstermelő jogosult, aki tanyás térségben található települések valamelyikén
+(3)[^7] A 2. § (5) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a tanyán élő természetes személy vagy mezőgazdasági őstermelő jogosult, aki tanyás térségben található települések valamelyikén
 
-a) 2015. január 1-je előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, házastársa, testvére, valamely egyeneságbeli rokona, vagy a családi gazdaság valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él, és
+a)[^8] 2015. január 1-je előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, házastársa, testvére, valamely egyeneságbeli rokona, vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él, és
 
 b) a 2012., 2013. és 2014. évi mezőgazdasági tevékenységből származó bevételének átlaga nem haladta meg a bruttó hatszázezer forintot.
 
@@ -36,7 +36,7 @@ b) akinek az ingatlan-nyilvántartásban feltüntetett tanyai lakhatás céljár
 
 (7) A támogatás igénybevételének további feltétele, hogy
 
-a)[^1] az 1–4. célterület esetében a pályázó legkésőbb a pályázat, az 5. célterület esetében az egyedi támogatási kérelmet benyújtó ügyfél legkésőbb a kérelem benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba-vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe,
+a)[^9] az 1–4. célterület esetében a pályázó legkésőbb a pályázat, az 5. célterület esetében az egyedi támogatási kérelmet benyújtó ügyfél legkésőbb a kérelem benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba-vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe,
 
 b) a pályázó, valamint az egyedi támogatási kérelmet benyújtó ügyfél megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában meghatározott feltételeknek,
 
@@ -44,4 +44,8 @@ c) a 2. és 3. célterület esetében a pályázó megfelel a 37/2011. (III. 22.
 
 d) a 2. és 3. célterület esetében a pályázó a pályázat benyújtását megelőző kettő és a folyamatban lévő üzleti évben kapott valamennyi, az általános csekély összegű rendelet, illetve a mezőgazdasági de minimis rendelet hatálya alá tartozó csekély összegű támogatás euróban kifejezett összegéről, a támogatóról, a támogatási, vagy egyéb szerződés számáról, és a támogatástartalomról szóló határozat számáról, továbbá aki más vállalkozással egy és ugyanazon vállalkozásnak tekinthető, úgy azon vállalkozások adatairól, valamint a naptári évtől eltérő üzleti év alkalmazása esetén az általa alkalmazott üzleti évről, illetve a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ban foglaltakról nyilatkozzon.
 
-[^1]: A 3. § (7) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 87. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 19. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdés a) pontja a 28/2021. (VIII. 18.) AM rendelet 19. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdés nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 19. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés a) pontja a 28/2021. (VIII. 18.) AM rendelet 19. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 3. § (7) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 87. § a) pontja szerint módosított szöveg.

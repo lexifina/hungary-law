@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-35-20-1
 | 2017-11-07 | 2015-35-20-11.7 | 55/2017. (XI. 6.) FM rendelet |
 | 2018-12-02 | 2015-35-20-11.8 | 55/2017. (XI. 6.) FM rendelet |
 | 2019-12-21 | 2015-35-20-11.9 | 55/2017. (XI. 6.) FM rendelet |
+| 2021-08-21 | 2015-35-20-11.10 | 28/2021. (VIII. 18.) AM rendelet |

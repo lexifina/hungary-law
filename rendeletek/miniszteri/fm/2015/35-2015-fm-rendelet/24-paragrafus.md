@@ -1,4 +1,4 @@
-## 23. §[^23] E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 32/2018. (XI. 29.) AM rendelettel [a továbbiakban: 32/2018. (XI. 29.) AM rendelet] megállapított 9. § (3) bekezdését a 32/2018. (XI. 29.) AM rendelet hatálybalépésekor[^24] folyamatban lévő támogatások esetében is alkalmazni kell.
+## 23. §[^31] E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 32/2018. (XI. 29.) AM rendelettel [a továbbiakban: 32/2018. (XI. 29.) AM rendelet] megállapított 9. § (3) bekezdését a 32/2018. (XI. 29.) AM rendelet hatálybalépésekor[^32] folyamatban lévő támogatások esetében is alkalmazni kell.
 
-[^23]: A 23. §-t a 32/2018. (XI. 29.) AM rendelet 5. §-a iktatta be.
-[^24]: A hatálybalépés időpontja 2018. december 2.
+[^31]: A 23. §-t a 32/2018. (XI. 29.) AM rendelet 5. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2018. december 2.
