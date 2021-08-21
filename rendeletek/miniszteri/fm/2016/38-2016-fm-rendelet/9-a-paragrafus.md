@@ -1,4 +1,4 @@
-## 9. §[^19] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel [a továbbiakban: 55/2017. (XI. 6.) FM rendelet] megállapított 3. § (1) bekezdést és 2. mellékletet az 55/2017. (XI. 6.) FM rendelet hatálybalépésekor[^20] folyamatban lévő eljárásokban is alkalmazni kell.
+## 9. §[^20] Az egyes közvetlen és nemzeti támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 55/2017. (XI. 6.) FM rendelettel [a továbbiakban: 55/2017. (XI. 6.) FM rendelet] megállapított 3. § (1) bekezdést és 2. mellékletet az 55/2017. (XI. 6.) FM rendelet hatálybalépésekor[^21] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^19]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 55/2017. (XI. 6.) FM rendelet 33. §-a iktatta be.
-[^20]: A hatálybalépés időpontja 2017. november 7.
+[^20]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 55/2017. (XI. 6.) FM rendelet 33. §-a iktatta be.
+[^21]: A hatálybalépés időpontja 2017. november 7.

@@ -2,7 +2,7 @@
 
 2. § (1) E rendeletben meghatározott feltételek teljesítése esetén az étkezési tojást termelő tyúk, valamint tenyészbaromfi tartása során az állománynak az egészségre nem ártalmas, a megadott értékhatárnál alacsonyabb mikotoxin tartalmú takarmány biztosításához vissza nem térítendő állami támogatás vehető igénybe.
 
-(2) Az (1) bekezdés szerinti támogatásra az a jogi személy, jogi személyiség nélküli gazdálkodó szervezet, egyéni vállalkozó, valamint a személyi jövedelemadóról szóló törvény szerint mezőgazdasági őstermelői igazolvánnyal rendelkező természetes személy – ideértve a törvényben meghatározott családi gazdálkodót is – (a továbbiakban: igénylő) jogosult, aki vagy amely
+(2)[^2] Az (1) bekezdés szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, egyéni vállalkozó, valamint a családi gazdaságokról szóló 2020. évi CXXIII. törvény szerint mezőgazdasági őstermelői nyilvántartási (FELIR) számmal rendelkező természetes személy – ideértve a törvényben meghatározott őstermelők családi gazdaságának képviselőjét is – (a továbbiakban: igénylő) jogosult, aki vagy amely
 
 a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Törvény alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben;
 
@@ -34,7 +34,7 @@ i) a 6. § (1) bekezdése szerinti kötelezettségének eleget tesz.
 
 (4) A támogatás egy állományra évente egy alkalommal, állategység alapján igényelhető. Az állategység számításának módját az 1. melléklet tartalmazza. A támogatási összeget a darabszám és az állategységnek az 1. melléklet szerinti táblázat alapján kiszámított – kerekítés nélküli – számának szorzataként kell megállapítani.
 
-(5)[^2] Az étkezési tojást termelő tyúkállomány állatlétszámát a kezelő állatorvos a járási hivatal igazolása, tenyészbaromfi esetében a NÉBIH vagy a járási hivatal által kiállított hatósági bizonyítvány alapján igazolja.
+(5)[^3] Az étkezési tojást termelő tyúkállomány állatlétszámát a kezelő állatorvos a járási hivatal igazolása, tenyészbaromfi esetében a NÉBIH vagy a járási hivatal által kiállított hatósági bizonyítvány alapján igazolja.
 
 (6) Étkezési tojást termelő tyúk vagy tenyészbaromfi tartása során az állomány részére legfeljebb 2,5 mg/kg deoxinivalenol tartalmú tojótápnak a támogatási kérelem benyújtását megelőzően történő biztosítása e rendelet alapján nem támogatható.
 
@@ -46,4 +46,5 @@ i) a 6. § (1) bekezdése szerinti kötelezettségének eleget tesz.
 
 (10) A támogatás ugyanazon elszámolható költségek tekintetében nem halmozható az 1305/2013/EU európai parlamenti és tanácsi rendelet 81. cikkének (2) bekezdésében és 82. cikkében meghatározott kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az Iránymutatásokban megállapított értékeket.
 
-[^2]: A 2. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 227. § b) pontja szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 23. §-ával megállapított szöveg.
+[^3]: A 2. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 227. § b) pontja szerint módosított szöveg.
