@@ -1,4 +1,4 @@
-7. § (1)[^48] Az 1. § (2) bekezdés a)–c) pontjai szerinti esélyteremtő ösztöndíjak esetében a mentor feladata, hogy segítse a tanulót a tanulásban és a pályaválasztásban. A mentor kötelessége, hogy
+7. § (1)[^50] Az 1. § (2) bekezdés a)–c) pontjai szerinti esélyteremtő ösztöndíjak esetében a mentor feladata, hogy segítse a tanulót a tanulásban és a pályaválasztásban. A mentor kötelessége, hogy
 
 a) egyéni fejlesztési tervet készítsen és legalább háromhavonta értékelje a tanuló haladását, fejlődését, illetve az ezeket hátráltató okokat,
 
@@ -12,10 +12,10 @@ e) részt vegyen azokon a rendezvényeken és képzéseken, amelyeket az Ösztö
 
 f) egyéni előrehaladási naplót vezessen.
 
-(2)[^49] Az Út a tudományhoz alprogramban a mentor feladata a tehetséggondozás. A mentor a pályázati űrlap aláírásával vállalja, hogy a kutatási program támogatása esetén összehangolja és irányítja a kutatócsoport munkáját. Ennek keretében szükség esetén kapcsolatot tart a kutatócsoportban részt vevő tanulók osztályfőnökével, illetve az iskolai szaktanárokkal, rendszeresen elemzi a kutatócsoportban részt vevő tanulókkal együtt a kutatási program teljesülését.
+(2)[^51] Az Út a tudományhoz alprogramban a mentor feladata a tehetséggondozás. A mentor a pályázati űrlap aláírásával vállalja, hogy a kutatási program támogatása esetén összehangolja és irányítja a kutatócsoport munkáját. Ennek keretében szükség esetén kapcsolatot tart a kutatócsoportban részt vevő tanulók osztályfőnökével, illetve az iskolai szaktanárokkal, rendszeresen elemzi a kutatócsoportban részt vevő tanulókkal együtt a kutatási program teljesülését.
 
-(3)[^50] A mentor az (1) és (2) bekezdésben meghatározott feladatait a munkaköri feladatain felül látja el.
+(3)[^52] A mentor az (1) és (2) bekezdésben meghatározott feladatait a munkaköri feladatain felül látja el.
 
-[^48]: A 7. § (1) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^49]: A 7. § (2) bekezdése a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének c) pontja szerint módosított szöveg.
-[^50]: A 7. § (3) bekezdését a 143/2011. (VII. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 222/2012. (VIII. 15.) Korm. rendelet 5. §-ával megállapított és a 207/2013. (VI. 17.) Korm. rendelet 13. § (2) bekezdés e) pontja, a 13/2020. (II. 7.) Korm. rendelet 26. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^50]: A 7. § (1) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^51]: A 7. § (2) bekezdése a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdésének c) pontja szerint módosított szöveg.
+[^52]: A 7. § (3) bekezdését a 143/2011. (VII. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 222/2012. (VIII. 15.) Korm. rendelet 5. §-ával megállapított és a 207/2013. (VI. 17.) Korm. rendelet 13. § (2) bekezdés e) pontja, a 13/2020. (II. 7.) Korm. rendelet 26. § (1) bekezdés 1. pontja szerint módosított szöveg.

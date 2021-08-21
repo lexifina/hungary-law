@@ -22,7 +22,7 @@ b) az Út a szakmához ösztöndíj esetében tanárképzésben vagy tanítói k
 
 (6)[^21] Az Út a tudományhoz alprogramban mentorként a pályázatot benyújtó köznevelési intézményben pedagógus vagy szakképző intézményben oktató munkakörben foglalkoztatott személy vehet részt.
 
-(7)[^22] Az esélyteremtő ösztöndíjakra nem pályázhat olyan tanuló vagy mentor, aki az Út a szakmaválasztáshoz programban ösztöndíjban részesül.
+(7)[^22]
 
 [^15]: A 3. § (1) bekezdése a 13/2020. (II. 7.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^16]: A 3. § (1) bekezdés c) pontja a 455/2020. (X. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
@@ -31,4 +31,4 @@ b) az Út a szakmához ösztöndíj esetében tanárképzésben vagy tanítói k
 [^19]: A 3. § (4) bekezdése a 38/2007. (III. 7.) Korm. rendelet 2. § (2) bekezdésével megállapított és a 207/2013. (VI. 17.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
 [^20]: A 3. § (5) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^21]: A 3. § (6) bekezdése a 155/2008. (VI. 6.) Korm. rendelet 9. § (2) bekezdés c) pontja, a 222/2012. (VIII. 15.) Korm. rendelet 12. § b) pontja, a 13/2020. (II. 7.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.
-[^22]: A 3. § (7) bekezdését a 207/2013. (VI. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^22]: A 3. § (7) bekezdését a 207/2013. (VI. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 496/2021. (VIII. 16.) Korm. rendelet 5. § a) pontja.
