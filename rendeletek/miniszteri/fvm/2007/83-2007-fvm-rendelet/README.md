@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-83-20-8
 | 2010-03-19 | 2007-83-20-82.6 | 23/2010. (III. 16.) FVM rendelet |
 | 2013-08-01 | 2007-83-20-82.7 | 23/2010. (III. 16.) FVM rendelet |
 | 2018-01-01 | 2007-83-20-82.8 | 23/2010. (III. 16.) FVM rendelet |
+| 2021-08-21 | 2007-83-20-82.9 | 28/2021. (VIII. 18.) AM rendelet |

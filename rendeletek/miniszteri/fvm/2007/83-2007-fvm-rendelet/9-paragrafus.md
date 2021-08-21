@@ -8,9 +8,9 @@
 
 a)[^31] az átadó gazdálkodó 30 napnál nem régebbi teljes földhasználati lapját,
 
-b)[^32] az átadóra vonatkozóan a kérelmező lakóhelye szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi igazgatósága (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi igazgatóság) által kiállított hatósági bizonyítvány hiteles másolatát arról, hogy a mezőgazdasági őstermelői igazolványról szóló 228/1996. (XII. 26.) Korm. rendelet 4. § (2) bekezdése alapján az őstermelői igazolvány visszavonásra került, vagy a NACE Rev. 2. szerinti 01.11–01.70 szakágazatba tartozó tevékenységnek az egyéni vállalkozói nyilvántartásból történő törléséről és a törlés időpontjáról az egyéni vállalkozók nyilvántartását vezető szerv által kiállított hatósági bizonyítványt,
+b)[^32] az átadóra vonatkozóan a NACE Rev. 2. szerinti 01.11–01.70 szakágazatba tartozó tevékenységnek az egyéni vállalkozói nyilvántartásból történő törléséről és a törlés időpontjáról az egyéni vállalkozók nyilvántartását vezető szerv által kiállított hatósági bizonyítványt,
 
-c)[^33] az átadó gazdálkodó munkavállalójára vonatkozóan a munkavállaló lakóhelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi igazgatósága által kiadott hatósági bizonyítványt arról, hogy a munkavállaló nem rendelkezik őstermelői igazolvánnyal,
+c)[^33]
 
 d)[^34] az átvevőre vonatkozóan az egyéni vállalkozói nyilvántartást vezető szerv által a kifizetési kérelem benyújtását megelőzően 30 napnál nem régebben kiadott a Kincstár által rendszeresített formanyomtatvánnyal megegyező tartalmú hatósági bizonyítványt vállalkozói tevékenységéről. Ezzel egyenértékű, ha az átadó ügyfél a megfelelően kitöltött, és az egyéni vállalkozói nyilvántartást vezető szerv által a kifizetési kérelem benyújtását megelőzően 30 napnál nem régebben záradékolt, Kincstár által rendszeresített formanyomtatványt mellékeli kifizetési kérelméhez,
 
@@ -28,8 +28,8 @@ f)[^36] az átvevő gazdálkodó 30 napnál nem régebbi teljes földhasználati
 [^29]: A 9. § (1) bekezdése a 23/2010. (III. 16.) FVM rendelet 8. § (2) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 7. § b) és c) pontja szerint módosított szöveg.
 [^30]: A 9. § (2) bekezdése a 125/2008. (IX. 23.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^31]: A 9. § (2) bekezdés a) pontja a 133/2009. (X. 14.) FVM rendelet 7. § (2) bekezdésével megállapított szöveg, e módosító rendelet 9. § (2) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmek esetében alkalmazható.
-[^32]: A 9. § (2) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 8. § (3) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 68. § a) pontja szerint módosított szöveg.
-[^33]: A 9. § (2) bekezdés c) pontja a 133/2009. (X. 14.) FVM rendelet 7. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 68. § b) pontja szerint módosított szöveg.
+[^32]: A 9. § (2) bekezdés b) pontja a 23/2010. (III. 16.) FVM rendelet 8. § (3) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 68. § a) pontja, a 28/2021. (VIII. 18.) AM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^33]: A 9. § (2) bekezdés c) pontját a 28/2021. (VIII. 18.) AM rendelet 4. § (2) bekezdés b) pontja hatályon kívül helyezte.
 [^34]: A 9. § (2) bekezdés d) pontja a 23/2010. (III. 16.) FVM rendelet 8. § (4) bekezdésével megállapított, a 37/2017. (XII. 27.) MvM rendelet 7. § d) és e) pontja szerint módosított szöveg.
 [^35]: A 9. § (2) bekezdés e) pontját a 133/2009. (X. 14.) FVM rendelet 7. § (3) bekezdése iktatta be, e módosító rendelet 9. § (2) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmek esetében alkalmazható.
 [^36]: A 9. § (2) bekezdés f) pontját a 133/2009. (X. 14.) FVM rendelet 7. § (3) bekezdése iktatta be, e módosító rendelet 9. § (2) bekezdése alapján a 2009. október 14-ét követően benyújtott kérelmek esetében alkalmazható.

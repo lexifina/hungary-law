@@ -38,9 +38,9 @@ A támogatás iránti kérelemhez szükséges igazolások listája
 
 1.1.1. a NACE Rev. 2. szerinti 01.11–01.50 szakágazatba tartozó tevékenység az egyéni vállalkozói nyilvántartás alapján,
 
-1.1.2. őstermelői igazolvány hiteles másolata az értékesítési betétlapokkal együtt,
+1.1.2.[^45]
 
-1.1.3.[^45] az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által a falugazdász a tevékenysége során szerzett információja alapján a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
+1.1.3.[^46] az élelmiszerlánc-biztonsági és állategészségügyi feladatkörben eljáró megyei kormányhivatal által a falugazdász a tevékenysége során szerzett információja alapján a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
 
 1.1.4. munkavállalóként végzett mezőgazdasági termelő tevékenység igazolása a munkakör megjelölését is tartalmazó munkaszerződés másolatával vagy egyéb dokumentummal,
 
@@ -57,4 +57,5 @@ A támogatás iránti kérelemhez szükséges igazolások listája
 3.1. Az 5. § (4) bekezdés c) pontjában meghatározott végzettséget igazoló dokumentum hiteles másolata.
 
 [^44]: A 3. számú melléklet a 23/2010. (III. 16.) FVM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^45]: A 3. számú melléklet 1.1.3. pontja a 70/2013. (VII. 31.) VM rendelet 68. § c) pontja szerint módosított szöveg.
+[^45]: A 3. számú melléklet 1.1.2. pontját a 28/2021. (VIII. 18.) AM rendelet 4. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^46]: A 3. számú melléklet 1.1.3. pontja a 70/2013. (VII. 31.) VM rendelet 68. § c) pontja, a 28/2021. (VIII. 18.) AM rendelet 4. § (1) bekezdése szerint módosított szöveg.
