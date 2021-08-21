@@ -2,6 +2,6 @@
 
 3. § (1) E rendelet alapján támogatás az adott támogatási évben legfeljebb 8,62 milliárd forint összegig nyújtható.
 
-(2)[^15]
+(2)[^16]
 
-[^15]: A 3. § (2) bekezdését a 66/2019. (XII. 30.) AM rendelet 4. §-a hatályon kívül helyezte.
+[^16]: A 3. § (2) bekezdését a 66/2019. (XII. 30.) AM rendelet 4. §-a hatályon kívül helyezte.

@@ -28,23 +28,23 @@
 
 5. Keltezés, ügyfél (cégszerű) aláírása.
 
-6.[^47] Keltezés, a sertéságazati területi felelős aláírása.
+6.[^48] Keltezés, a sertéságazati területi felelős aláírása.
 
 7. Mellékletek
 
-7.1.[^48] a sertéságazati területi felelős által kiállított dokumentum eredeti példánya arról, hogy a kérelemben megjelölt támogatási igény megalapozott, és az ügyfél eleget tett a Sertés-ENAR rendelet előírásainak,
+7.1.[^49] a sertéságazati területi felelős által kiállított dokumentum eredeti példánya arról, hogy a kérelemben megjelölt támogatási igény megalapozott, és az ügyfél eleget tett a Sertés-ENAR rendelet előírásainak,
 
-7.2.[^49] a járási hivatalnak az állategészségügyi nyilvántartási kötelezettségek, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló igazolásának eredeti példánya,
+7.2.[^50] a járási hivatalnak az állategészségügyi nyilvántartási kötelezettségek, valamint az állategészségügyi és állatvédelmi szabályok betartásáról szóló igazolásának eredeti példánya,
 
-7.3.[^50] a sertéságazati területi felelős által kiállított dokumentum eredeti példánya, amely tartalmazza az adott tárgynegyedév zárónapjára vonatkozóan megállapított, támogatható tenyészkoca létszámot,
+7.3.[^51] a sertéságazati területi felelős által kiállított dokumentum eredeti példánya, amely tartalmazza az adott tárgynegyedév zárónapjára vonatkozóan megállapított, támogatható tenyészkoca létszámot,
 
-7.4.[^51] a sertéságazati területi felelős által kiállított dokumentum eredeti példánya a támogatási igénnyel érintett tevékenységre vonatkozó, 6–9. §-ban foglalt feltételek teljesítéséről, adott tárgynegyedév vonatkozásában,
+7.4.[^52] a sertéságazati területi felelős által kiállított dokumentum eredeti példánya a támogatási igénnyel érintett tevékenységre vonatkozó, 6–9. §-ban foglalt feltételek teljesítéséről, adott tárgynegyedév vonatkozásában,
 
-7.5.[^52] az egyes, a rendelet 6–10. alcímei szerinti tevékenységeknél előírt dokumentumok.
+7.5.[^53] az egyes, a rendelet 6–10. alcímei szerinti tevékenységeknél előírt dokumentumok.
 
-[^47]: A 3. melléklet 6. pontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^48]: A 3. melléklet 7. pont 7.1. alpontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § f) pontja szerint módosított szöveg.
-[^49]: A 3. melléklet 7. pont 7.2. alpontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § g) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § c) pontja szerint módosított szöveg.
-[^50]: A 3. melléklet 7. pont 7.3. alpontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § f) pontja szerint módosított szöveg.
-[^51]: A 3. melléklet 7. pont 7.4. alpontját a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 39. § f) pontja szerint módosított szöveg.
-[^52]: A 3. melléklet 7. pont 7.5. alpontját a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdése iktatta be.
+[^48]: A 3. melléklet 6. pontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^49]: A 3. melléklet 7. pont 7.1. alpontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § f) pontja szerint módosított szöveg.
+[^50]: A 3. melléklet 7. pont 7.2. alpontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § g) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § c) pontja szerint módosított szöveg.
+[^51]: A 3. melléklet 7. pont 7.3. alpontja a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 39. § f) pontja szerint módosított szöveg.
+[^52]: A 3. melléklet 7. pont 7.4. alpontját a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 39. § f) pontja szerint módosított szöveg.
+[^53]: A 3. melléklet 7. pont 7.5. alpontját a 92/2015. (XII. 23.) FM rendelet 6. § (1) bekezdése iktatta be.
