@@ -10,7 +10,7 @@ a) a hegyközségi tanács vagy tanácsok együttesen, ennek hiányában a term�
 
 b) az oltalom iránti kérelmet benyújtó hegyközség vagy az érintett hegyközségek választmánya vagy hegyközségi tanács azon földrajzi árujelzők esetében, amelyek oltalom iránti kérelmét 2011. december 31-ét követően nyújtották be.
 
-(4)[^42]
+(4)[^43]
 
 (5) A szerkezetátalakítási terv a 4. mellékletben meghatározott adatokat tartalmazza.
 
@@ -26,4 +26,4 @@ c) a fajta az adott földrajzi árujelzővel jelölt borászati termékének min
 
 (8) A szerkezetátalakítási tervben meghatározott művelésmód csak az érintett földrajzi árujelző termékleírásában az újonnan létesített ültetvények esetén engedélyezett művelésmód lehet.
 
-[^42]: A 13. § (4) bekezdését az 57/2020. (XI. 13.) AM rendelet 23. § (2) bekezdése hatályon kívül helyezte.
+[^43]: A 13. § (4) bekezdését az 57/2020. (XI. 13.) AM rendelet 23. § (2) bekezdése hatályon kívül helyezte.

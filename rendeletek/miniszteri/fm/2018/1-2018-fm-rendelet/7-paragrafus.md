@@ -8,7 +8,7 @@ c)[^9] a 2. § a)–c) pontjai szerinti intézkedések esetén a 2019/2020. borp
 
 ## lehet.
 
-(2)[^10] Egyéni tervet nyújthat be az a természetes személy vagy gazdálkodó szervezet, aki vagy amely az egyéni tervben megjelölt terület használója vagy családi gazdaság tagja, és a terület a családi gazdaság valamely tagjának használatában van.
+(2)[^10] Egyéni tervet nyújthat be az a természetes személy vagy gazdálkodó szervezet, aki vagy amely az egyéni tervben megjelölt terület használója vagy őstermelők családi gazdasága tagja, és a terület a őstermelők családi gazdasága valamely tagjának használatában van.
 
 (3)[^11] Az egyéni terv a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglaltaknak megfelelőn, a Kincstár által az erre a célra rendszeresített elektronikus űrlapkitöltő felületen nyújtható be a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően. Egy benyújtási időszakban egy kérelmező kizárólag egy egyéni tervet nyújthat be.
 
@@ -63,7 +63,7 @@ j)[^19] a szőlőültetvény termesztéstechnológiai módszereinek javítása e
 (9)[^24] Az egyéni terv a benyújtására nyitva álló időszak utolsó napjáig elektronikus úton módosítható. Módosítás esetén az utolsó benyújtott egyéni terv kerül elbírálásra, az egyéni terv benyújtásának időpontját az utolsó módosító egyéni terv benyújtásának időpontja jelenti.
 
 [^9]: A 7. § (1) bekezdés c) pontját a 61/2019. (XII. 18.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^10]: A 7. § (2) bekezdése a 7/2018. (VI. 26.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 7. § (2) bekezdése a 7/2018. (VI. 26.) AM rendelet 4. § (1) bekezdésével megállapított, a 28/2021. (VIII. 18.) AM rendelet 25. §-a szerint módosított szöveg.
 [^11]: A 7. § (3) bekezdése a 61/2019. (XII. 18.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^12]: A 7. § (5) bekezdés a) pontja a 61/2019. (XII. 18.) AM rendelet 11. § b) pontja szerint módosított szöveg.
 [^13]: A 7. § (5) bekezdés b) pontja a 61/2019. (XII. 18.) AM rendelet 11. § b) pontja szerint módosított szöveg.
