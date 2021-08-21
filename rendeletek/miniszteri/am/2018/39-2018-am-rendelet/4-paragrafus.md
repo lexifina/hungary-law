@@ -1,6 +1,6 @@
 ## 3. § A támogatás forrása az agrárpolitikáért felelős miniszter által vezetett minisztérium 10032000-01220191-51200002 számú, Nemzeti agrártámogatások előirányzat-felhasználási keretszámla.
 
-## 4. § E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerint mezőgazdasági őstermelői igazolvánnyal rendelkező természetes személy – ideértve a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 5. pontjában meghatározott családi gazdálkodót is – (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
+## 4. §[^1] E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő és az őstermelők családi gazdaságának képviselője (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
 
 a) a Tv. 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Tv. alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben,
 
@@ -33,3 +33,5 @@ k) jogerős határozatban megállapított, jogosulatlanul igénybe vett agrár- 
 l) az 5. § (1) bekezdése és a 14. § (1) bekezdése szerinti kötelezettségvállalásokra vonatkozó állatjóléti előírások módosulása esetén az azon túlmutató, e rendelet szerinti állatjóléti kötelezettségvállalásnak a módosulás hatálybalépésének napjától megfelel, és
 
 m) a b)–l) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
+
+[^1]: A 4. § nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 28. §-a szerint módosított szöveg.

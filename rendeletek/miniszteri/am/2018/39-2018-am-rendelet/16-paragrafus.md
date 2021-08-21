@@ -4,7 +4,7 @@
 
 (3) Az igénylőnek az általa takarmányozáshoz használt víz (1) bekezdés szerinti feltételnek való megfelelését évente ellenőriztetnie kell ivóvízvizsgálatra akkreditált laboratóriummal, amennyiben a vízellátása saját víznyerőhelyről történik.
 
-(4)[^6] A takarmányozáshoz használt itatóvizet ivóvíz-minőségűnek kell tekinteni, ha az igénylő a mezőgazdasági csekély összegű támogatás iránti kérelemhez csatolja
+(4)[^7] A takarmányozáshoz használt itatóvizet ivóvíz-minőségűnek kell tekinteni, ha az igénylő a mezőgazdasági csekély összegű támogatás iránti kérelemhez csatolja
 
 a) az akkreditált laboratórium vizsgálati eredményét tartalmazó dokumentum másolatát arról, hogy az itatásra használt víz a 201/2001. (X. 25.) Korm. rendelet 1. számú mellékletében a víz nyerési módjától függően meghatározott határértékek tekintetében megfelel az ivóvíz-minőségi követelményeinek a következő paraméterek vonatkozásában:
 
@@ -16,4 +16,4 @@ b) az igénylő nyilatkozatának eredeti példányát arról, hogy a víznyerőh
 
 c) ha a telepen az állatok vízellátása vezetékes vízhálózatról történik, a vízszolgáltató írásos nyilatkozatának eredeti példányát arról, hogy az általa szolgáltatott víz ivóvíz-minőségű.
 
-[^6]: A 16. § (4) bekezdése a 4/2019. (III. 6.) AM rendelet 7. §-ával megállapított szöveg.
+[^7]: A 16. § (4) bekezdése a 4/2019. (III. 6.) AM rendelet 7. §-ával megállapított szöveg.
