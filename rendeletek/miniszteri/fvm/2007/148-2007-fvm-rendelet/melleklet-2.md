@@ -96,7 +96,7 @@
 
 1.3. adóazonosító jel,
 
-1.4. őstermelői igazolvány száma,
+1.4.[^102] őstermelői nyilvántartásban szereplő FELIR azonosítója,
 
 1.5. felelős vezető neve és telefonszáma,
 
@@ -136,36 +136,37 @@
 
 4.2. arról, hogy a kérelmezőnek lejárt köztartozása nem áll fenn;
 
-4.3.[^102] arról, hogy valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségnek eleget tett;
+4.3.[^103] arról, hogy valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségnek eleget tett;
 
-4.4.[^103] arról, hogy a mentesítési programok esetében az állatállományára a megyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
+4.4.[^104] arról, hogy a mentesítési programok esetében az állatállományára a megyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
 
 4.5. arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
-4.7.[^104] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
+4.7.[^105] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
 
-4.8.[^105]
+4.8.[^106]
 
-4.9.[^106] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
+4.9.[^107] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
 
 a) a kérelmező a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk b) pontja szerinti terméket előállító vállalkozásnak minősül, és
 
 b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módosított szervezetek tartására végezteti el.
 
-5.[^107] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
+5.[^108] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
 
-6.[^108] Keltezés, az ügyfél aláírása
+6.[^109] Keltezés, az ügyfél aláírása
 
-7.[^109]
+7.[^110]
 
 [^101]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
-[^102]: A 2. számú melléklet 4. pont 4.3. alpontja a 30/2018. (X. 11.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^103]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
-[^104]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^105]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 78/2016. (XII. 12.) FM rendelet 9. § d) pontja.
-[^106]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^107]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
-[^108]: A 2. számú melléklet 6. pontja a 30/2018. (X. 11.) AM rendelet 2. § e) pontja szerint módosított szöveg.
-[^109]: A 2. számú melléklet 7. pontját a 30/2018. (X. 11.) AM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^102]: A 2. számú melléklet 1.4. pontja a 28/2021. (VIII. 18.) AM rendelet 7. §-a szerint módosított szöveg.
+[^103]: A 2. számú melléklet 4. pont 4.3. alpontja a 30/2018. (X. 11.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^104]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
+[^105]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^106]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 78/2016. (XII. 12.) FM rendelet 9. § d) pontja.
+[^107]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^108]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
+[^109]: A 2. számú melléklet 6. pontja a 30/2018. (X. 11.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^110]: A 2. számú melléklet 7. pontját a 30/2018. (X. 11.) AM rendelet 3. § b) pontja hatályon kívül helyezte.
