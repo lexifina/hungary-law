@@ -16,7 +16,7 @@ meghatározott pontozási rendszer szerint a Herman Ottó Intézet végzi, amely
 
 e) a 4. célterület esetében az 5. mellékletben meghatározott pontozási rendszer szerint a minisztérium végzi, amely az értékeléséről tájékoztatja a Bíráló Bizottságot.
 
-(3)[^9] A Herman Ottó Intézet a 4. § (2) bekezdés a) pontjában foglalt feltétel ellenőrzéséhez szükséges adatok beszerzése érdekében a pályázatok beérkezését követő tizenöt naptári napon belül a Kincstár részére továbbítja a pályázó alábbi adatait:
+(3)[^14] A Herman Ottó Intézet a 4. § (2) bekezdés a) pontjában foglalt feltétel ellenőrzéséhez szükséges adatok beszerzése érdekében a pályázatok beérkezését követő tizenöt naptári napon belül a Kincstár részére továbbítja a pályázó alábbi adatait:
 
 a) a pályázó neve, születési neve,
 
@@ -28,7 +28,7 @@ d) a pályázó ügyfél-azonosítója, valamint
 
 e) a pályázó által tett, az egy és ugyanazon vállalkozás minőségre és az alkalmazott üzleti évre vonatkozó nyilatkozat adatait.
 
-(4)[^10] A Kincstár – a pályázó hozzájárulása alapján – a pályázó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás vagy vállalkozások részére rendelkezésre álló szabad csekély összegű támogatási keretről – a (3) bekezdés szerinti adatok kézhezvételétől számított öt naptári napon belül – tájékoztatja a Herman Ottó Intézetet.
+(4)[^15] A Kincstár – a pályázó hozzájárulása alapján – a pályázó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás vagy vállalkozások részére rendelkezésre álló szabad csekély összegű támogatási keretről – a (3) bekezdés szerinti adatok kézhezvételétől számított öt naptári napon belül – tájékoztatja a Herman Ottó Intézetet.
 
 (5) A Bíráló Bizottság – a Herman Ottó Intézet, illetve a minisztérium (2) bekezdés szerinti értékelése alapján – a pályázatok között rangsort állít fel, és támogatási javaslatot tesz a miniszter részére.
 
@@ -38,7 +38,7 @@ e) a pályázó által tett, az egy és ugyanazon vállalkozás minőségre és 
 
 (8) A támogatási döntésről – annak meghozatalát követő tíz naptári napon belül – pályázat esetében a Herman Ottó Intézet, egyedi támogatási kérelem esetében a miniszter írásban értesíti az érintett ügyfeleket.
 
-(9)[^11] A nyertes pályázók, valamint az egyedi támogatási kérelmet benyújtó, támogatásban részesülő ügyfelek névsorát, az elnyert támogatás összegét és célterületének megnevezését a miniszter a kormányzati portálon – pályázat esetében a Herman Ottó Intézet a saját honlapján is – a döntést követő tíz naptári napon belül közzéteszi, és ezzel egyidejűleg értesítést küld a Kincstár részére az alábbi adattartalommal:
+(9)[^16] A nyertes pályázók, valamint az egyedi támogatási kérelmet benyújtó, támogatásban részesülő ügyfelek névsorát, az elnyert támogatás összegét és célterületének megnevezését a miniszter a kormányzati portálon – pályázat esetében a Herman Ottó Intézet a saját honlapján is – a döntést követő tíz naptári napon belül közzéteszi, és ezzel egyidejűleg értesítést küld a Kincstár részére az alábbi adattartalommal:
 
 a) a támogatásban részesülő ügyfél neve, születési neve,
 
@@ -58,6 +58,6 @@ h) a támogatási döntés meghozatalának időpontja,
 
 i) a támogatásban részesülő ügyfél nyilatkozata szerint kapott valamennyi, az általános csekély összegű rendelet hatálya alá tartozó csekély összegű támogatás euróban kifejezett összege.
 
-[^9]: A 8. § (3) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 114. § b) pontja szerint módosított szöveg.
-[^10]: A 8. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 114. § c) pontja szerint módosított szöveg.
-[^11]: A 8. § (9) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 114. § b) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 114. § b) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 114. § c) pontja szerint módosított szöveg.
+[^16]: A 8. § (9) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 114. § b) pontja szerint módosított szöveg.

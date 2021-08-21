@@ -36,7 +36,7 @@ b) a 2. § (4) bekezdés c) pontjában meghatározott fejlesztés esetén a pál
 
 c) amennyiben az 1305/2013/EU európai parlamenti és tanácsi rendelet alapján az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott Vidékfejlesztési Programból egyösszegű átalánytámogatásban részesül, úgy a Tanyafejlesztési Program keretében olyan fejlesztéseket valósít meg, amelyek nem szerepelnek a Vidékfejlesztési Program pályázatához csatolt üzleti tervben, és erről a pályázatában nyilatkozik;
 
-d)[^5]
+d)[^10]
 
 (3) A 4. célterületre irányuló támogatásigénylés esetén a támogatás igénybevételére az a 3. § (5)–(7) bekezdésében foglalt feltételeknek megfelelő ügyfél jogosult,
 
@@ -68,4 +68,4 @@ m) aki nyilatkozik arról, hogy a támogató által előírt biztosítékokat a 
 
 n) aki az a)–m) pontban foglaltakról az egyedi támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
 
-[^5]: A 4. § (2) bekezdés d) pontját a 65/2016. (IX. 21.) FM rendelet 40. §-a hatályon kívül helyezte.
+[^10]: A 4. § (2) bekezdés d) pontját a 65/2016. (IX. 21.) FM rendelet 40. §-a hatályon kívül helyezte.

@@ -8,7 +8,7 @@
 
 3. civil szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 2. § 6. pontja szerinti civil szervezet;
 
-4. családi gazdaság: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: 2013. évi CXXII. törvény) 5. § 4. pontjában meghatározott üzem;
+4.[^1]
 
 5. egyház: a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény Mellékletében felsorolt magyarországi egyházak, vallásfelekezetek és vallási közösségek;
 
@@ -60,6 +60,8 @@
 
 29. összes bevétel: a számviteli törvény 72–75. §-a és 77. §-a, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 16. § (1)–(4) bekezdése, a 17. § (1) és (2) bekezdése, valamint a 2. számú melléklet I. fejezet 1., 2., 4., 5., 6., 9., 10. pontja, valamint az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 16. melléklet 1. fejezet 14. pontja szerint meghatározott bevételek;
 
+29a.[^2] őstermelők családi gazdasága: a családi gazdaságokról szóló 2020. évi CXXIII. törvény 6. § (1) bekezdésének megfelelő termelési közösség;
+
 30. saját forrás: a pályázó által a támogatott fejlesztéshez biztosított pénzbeli önrész, amelybe az államháztartás alrendszereiből pályázati úton nyújtott támogatás nem számít be, kivéve a támogatást igénylő költségvetési szervnek vagy irányító szervének költségvetésében az adott célra előirányzott összeget;
 
 31. Standard Termelési Érték: az ágazat kibocsátását termelői áron hektárra vagy számosállatra vetítve kifejező mutató, amely a termelési érték és a közvetlen támogatások (továbbá az általános forgalmi adó és egyéb termékadó) különbsége, a tevékenységi irány meghatározásánál figyelembe veszi az egyéb jövedelemtermelő tevékenység értékét is, és az üzemméretet közvetlenül euróban fejezi ki;
@@ -98,7 +100,7 @@
 
 48. végső kedvezményezett: az a természetes vagy jogi személy, akinél vagy amelynél a támogatásból származó gazdasági előny ténylegesen jelentkezik;
 
-49.[^1] csekély összegű támogatás:
+49.[^3] csekély összegű támogatás:
 
 a) a mezőgazdasági csekély összegű rendelet 3. cikke,
 
@@ -108,7 +110,9 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 ## alapján nyújtott támogatás;
 
-50.[^2] mezőgazdasági termék: az Európai Unió működéséről szóló szerződés I. mellékletében felsorolt termékek a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó halászati és akvakultúra-termékek kivételével.
+50.[^4] mezőgazdasági termék: az Európai Unió működéséről szóló szerződés I. mellékletében felsorolt termékek a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó halászati és akvakultúra-termékek kivételével.
 
-[^1]: Az 1. § 49. pontját a 65/2016. (IX. 21.) FM rendelet 35. §-a iktatta be.
-[^2]: Az 1. § 50. pontját a 65/2016. (IX. 21.) FM rendelet 35. §-a iktatta be.
+[^1]: Az 1. § 4. pontját a 28/2021. (VIII. 18.) AM rendelet 22. § (3) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. § 29a. pontját a 28/2021. (VIII. 18.) AM rendelet 22. § (1) bekezdése iktatta be.
+[^3]: Az 1. § 49. pontját a 65/2016. (IX. 21.) FM rendelet 35. §-a iktatta be.
+[^4]: Az 1. § 50. pontját a 65/2016. (IX. 21.) FM rendelet 35. §-a iktatta be.

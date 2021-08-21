@@ -14,13 +14,13 @@ e) a 2. § (3) bekezdés d) pontjában meghatározott célra irányuló fejleszt
 
 f) a 2. § (3) bekezdés e) pontjában meghatározott célra irányuló fejlesztés esetén a tanyás térségben található települési önkormányzatok.
 
-(2) A 2. célterületre irányuló fejlesztés esetén pályázat benyújtására az a magánszemély, őstermelő vagy egyéni vállalkozó jogosult,
+(2)[^5] A 2. célterületre irányuló fejlesztés esetén pályázat benyújtására az a magánszemély, mezőgazdasági őstermelő vagy egyéni vállalkozó jogosult,
 
-a) aki tanyás települések valamelyikén 2016. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy a családi gazdaság valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él,
+a)[^6] aki tanyás települések valamelyikén 2016. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él,
 
 b) akinek a 2. § (4) bekezdés c) pontjában meghatározott fejlesztés esetén a 2012., 2013. és 2014. évi összes bevételének, valamint a 2012., 2013. és 2014. évben nem önálló tevékenységből származó jövedelmének összegéből számított átlag legalább 50%-a mezőgazdasági tevékenységből származott és a 2012., 2013. és 2014. évi mezőgazdasági tevékenységből származó bevételének átlaga nem haladta meg a nettó nyolcmillió forintot.
 
-(3) A 3. célterületre irányuló fejlesztés esetén pályázat benyújtására az a magánszemély jogosult, aki a tanyás térségben található települések valamelyikén 2016. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy a családi gazdaság valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él.
+(3)[^7] A 3. célterületre irányuló fejlesztés esetén pályázat benyújtására az a magánszemély jogosult, aki a tanyás térségben található települések valamelyikén 2016. január 1. előtti időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, testvére, valamely egyeneságbeli rokona, vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő tanyán mint lakóhelyén, vagy a lakóhelyével azonos településhez tartozó tanyán mint tartózkodási helyén él.
 
 (4) A 2. és a 3. célterületre irányuló fejlesztés esetén a támogatás igénybevételének feltétele, hogy a fejlesztés tárgyát képező ingatlan tulajdoni lapján nem szerepelhet végrehajtási jog bejegyzés.
 
@@ -34,13 +34,16 @@ b) a támogatás eredményeként keletkező végtermékeket a végső kedvezmén
 
 (7) A támogatás igénybevételének további feltétele, hogy
 
-a)[^3] az 1–3. célterület esetében a pályázó legkésőbb a pályázat, a 4. célterület esetében az egyedi támogatási kérelmet benyújtó ügyfél legkésőbb a kérelem benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba-vételi kötelezettségének eleget tegyen vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe,
+a)[^8] az 1–3. célterület esetében a pályázó legkésőbb a pályázat, a 4. célterület esetében az egyedi támogatási kérelmet benyújtó ügyfél legkésőbb a kérelem benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba-vételi kötelezettségének eleget tegyen vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe,
 
 b) a pályázó, valamint az egyedi támogatási kérelmet benyújtó ügyfél megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdésében meghatározott feltételeknek,
 
-c)[^4]
+c)[^9]
 
 d) a 2. célterület esetében a pályázó a pályázat benyújtását megelőző kettő és a folyamatban lévő üzleti évben kapott valamennyi, az általános csekély összegű rendelet hatálya alá tartozó csekély összegű támogatás euróban kifejezett összegéről, a támogatóról, a támogatási vagy egyéb szerződés számáról és a támogatástartalomról szóló határozat számáról, továbbá aki más vállalkozással egy és ugyanazon vállalkozásnak tekinthető, úgy azon vállalkozások adatairól, valamint a naptári évtől eltérő üzleti év alkalmazása esetén az általa alkalmazott üzleti évről, illetve a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ban foglaltakról nyilatkozzon.
 
-[^3]: A 3. § (7) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 114. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § (7) bekezdés c) pontját a 65/2016. (IX. 21.) FM rendelet 40. §-a hatályon kívül helyezte.
+[^5]: A 3. § (2) bekezdés nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 22. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdés a) pontja a 28/2021. (VIII. 18.) AM rendelet 22. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 3. § (3) bekezdése a 28/2021. (VIII. 18.) AM rendelet 22. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 3. § (7) bekezdés a) pontja a 88/2016. (XII. 29.) FM rendelet 114. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (7) bekezdés c) pontját a 65/2016. (IX. 21.) FM rendelet 40. §-a hatályon kívül helyezte.
