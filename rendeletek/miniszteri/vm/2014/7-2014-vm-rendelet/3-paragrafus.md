@@ -1,10 +1,10 @@
 ## 3. A támogatás igénybevételének feltételei
 
-3. § (1) A 2. § (3) bekezdésében meghatározott célokra irányuló fejlesztés esetén pályázat benyújtására az a mezőgazdasági tevékenységet végző őstermelő, egyéni vállalkozó vagy családi gazdálkodó jogosult,
+3. § (1)[^7] A 2. § (3) bekezdésében meghatározott célokra irányuló fejlesztés esetén pályázat benyújtására az a mezőgazdasági őstermelő, egyéni vállalkozó vagy őstermelők családi gazdaságának tagja jogosult,
 
 a) aki a pályázat benyújtásának időpontjában nem minősül nehéz helyzetben lévő vállalkozásnak,
 
-b) aki a tanyás települések valamelyikén e rendelet hatálybalépését megelőző időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, a testvére, valamely egyenes ági leszármazottja, egyenes ági felmenője vagy a családi gazdaság valamely tagjának tulajdonában lévő tanyán mint lakóhelyén él,
+b)[^8] aki a tanyás települések valamelyikén e rendelet hatálybalépését megelőző időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, a házastársa, a testvére, valamely egyenes ági leszármazottja, egyenes ági felmenője vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő tanyán mint lakóhelyén él,
 
 c) aki a tanyagazdaságban igazoltan mezőgazdasági tevékenységet folytat, és
 
@@ -16,6 +16,8 @@ a) aki a tanyás települések valamelyikén e rendelet hatálybalépését mege
 
 b) akinek az ingatlan-nyilvántartásban feltüntetett tanyai lakás céljára használt épülete sem közcélú villamos hálózati csatlakozással, sem sziget üzemű villamosenergia-termelő berendezéssel nem rendelkezik.
 
-(3)[^1] A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
+(3)[^9] A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
 
-[^1]: A 3. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 65. § a) pontja szerint módosított szöveg.
+[^7]: A 3. § (1) bekezdés nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 14. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés b) pontja a 28/2021. (VIII. 18.) AM rendelet 14. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 65. § a) pontja szerint módosított szöveg.

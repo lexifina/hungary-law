@@ -4,9 +4,9 @@
 
 1. beruházás: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: számviteli törvény) 3. § (4) bekezdés 7. pontjában meghatározott tevékenység;
 
-2. családi gazdaság: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: 2013. évi CXXII. törvény) 5. § 4. pontjában meghatározott üzem;
+2.[^1]
 
-3. családi gazdálkodó: a 2013. évi CXXII. törvény 5. § 5. pontjában meghatározott személy;
+3.[^2]
 
 4. fejlesztés: a beruházás és a felújítás, valamint immateriális javak beszerzése;
 
@@ -20,7 +20,7 @@
 
 9. megújuló energiaforrás: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontja szerinti energiaforrás;
 
-10. mezőgazdasági őstermelő: érvényes őstermelői igazolvánnyal rendelkező személy;
+10.[^3] mezőgazdasági őstermelő: a családi gazdaságokról szóló 2020. évi CXXIII. törvény (a továbbiakban: Csgtv.) 3. § (2) bekezdésében meghatározott személy;
 
 11. mezőgazdasági tevékenység: a gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3037/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló, 2006. december 20-i 1893/2006/EK európai parlamenti és tanácsi rendelet I. melléklete szerinti – az adózás rendjéről szóló 2003. évi XCII. törvény 16. § (3) bekezdés d) pontja alapján az állami adóhatósághoz bejelentett – 01.1, 01.2, 01.3, 01.4, 01.5, 01.6 és 01.7 alágazatba tartozó tevékenység;
 
@@ -32,11 +32,15 @@
 
 15. összes bevétel: a számviteli törvény 72–75. §, és 77. §-a, továbbá a személyi jövedelemadóról szóló 1995. évi CXVII. törvény VI. fejezet 16. § (1)–(4), a 17. § (1)–(2) bekezdése, valamint a 2. számú melléklet I. fejezet 1., 2., 4., 5., 6., 9., 10. pontja szerint meghatározott bevételek;
 
+15a.[^4] őstermelők családi gazdasága: a Csgtv. 6. § (1) bekezdése szerinti termelési közösség;
+
+15b.[^5] őstermelők családi gazdaságának képviselője: a Csgtv. 8. § (1) bekezdésében meghatározott személy;
+
 16. saját forrás: a pályázó által a támogatott fejlesztéshez biztosított pénzbeli önrész, amelybe az államháztartás alrendszereiből pályázati úton nyújtott támogatás nem számít be, kivéve a támogatást igénylő költségvetési szervnek vagy irányító szervének költségvetésében az adott célra előirányzott összeget;
 
 17. számviteli bizonylat: a számviteli törvény 166. §-ában foglaltaknak megfelelően előállított bizonylat;
 
-18. tanya: a 2013. évi CXXII. törvény 5. § 25. pontjában meghatározott fogalom;
+18.[^6] tanya: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 25. pontjában meghatározott fogalom;
 
 19. tanyagazdaság: állandóan lakott külterületi fekvésű mezőgazdasági birtok, amelynek részei a lakó- és gazdasági épületekkel beépített tanyatelek és az ahhoz közvetlenül vagy közvetetten kapcsolódó (más helyrajzi számú földrészleten található), a település közigazgatási területén lévő, vagy – a közigazgatási egységtől függetlenül – a tanya 30 km-es körzetén belül található művelt termőföldterületek, valamint gazdálkodási funkcióit kiegészíthetik a termékfeldolgozás és a vendégfogadás létesítményei;
 
@@ -55,3 +59,10 @@
 26. társadalmi, gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott település: a társadalmi-gazdasági és infrastrukturális szempontból elmaradott, illetve az országos átlagot jelentősen meghaladó munkanélküliséggel sújtott települések jegyzékéről szóló 240/2006. (XI. 30.) Korm. rendeletben meghatározott település;
 
 27. védett őshonos és veszélyeztetett mezőgazdasági állatfajta: a védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet 1. és 2. számú mellékletében szereplő mezőgazdasági állatfajták.
+
+[^1]: Az 1. § 2. pontját a 28/2021. (VIII. 18.) AM rendelet 14. § (5) bekezdése hatályon kívül helyezte.
+[^2]: Az 1. § 3. pontját a 28/2021. (VIII. 18.) AM rendelet 14. § (5) bekezdése hatályon kívül helyezte.
+[^3]: Az 1. § 10. pontja a 28/2021. (VIII. 18.) AM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 15a. pontját a 28/2021. (VIII. 18.) AM rendelet 14. § (2) bekezdése iktatta be.
+[^5]: Az 1. § 15b. pontját a 28/2021. (VIII. 18.) AM rendelet 14. § (2) bekezdése iktatta be.
+[^6]: Az 1. § 18. pontja a 28/2021. (VIII. 18.) AM rendelet 14. § (3) bekezdésével megállapított szöveg.
