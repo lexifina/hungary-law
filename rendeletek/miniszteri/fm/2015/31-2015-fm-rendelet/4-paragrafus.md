@@ -12,4 +12,6 @@
 
 (7) A kezességvállaló intézmény a kedvezményes díjú kezességvállalás támogatástartalmával kapcsolatos adatokat a mezőgazdasági csoportmentességi rendelet 13. cikkében foglaltak alapján külön meghatározott ütemezésben az agrárpolitikáért felelős miniszter vagy az általa megjelölt szerv rendelkezésére bocsátja.
 
-(8) A kezességvállaló intézmény által csoportmentességi rendelet alapján vállalt kedvezményes díjú készfizető kezesség szabályairól szóló 70/2009. (VI. 19.) FVM rendelet alapján kezességvállalási kérelmet benyújtó kis- és középvállalkozás vagy őstermelő a kezességvállaló intézmény megkeresésére köteles a kezességvállaló intézmény részére a mezőgazdasági csoportmentességi rendelet 6. cikk (2) bekezdése szerinti adatokat szolgáltatni.
+(8)[^1] A kezességvállaló intézmény által csoportmentességi rendelet alapján vállalt kedvezményes díjú készfizető kezesség szabályairól szóló 70/2009. (VI. 19.) FVM rendelet alapján kezességvállalási kérelmet benyújtó kis- és középvállalkozás vagy mezőgazdasági őstermelő a kezességvállaló intézmény megkeresésére köteles a kezességvállaló intézmény részére a mezőgazdasági csoportmentességi rendelet 6. cikk (2) bekezdése szerinti adatokat szolgáltatni.
+
+[^1]: A 4. § (8) bekezdése a 28/2021. (VIII. 18.) AM rendelet 18. §-a szerint módosított szöveg.

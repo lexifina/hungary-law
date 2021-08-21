@@ -1,4 +1,4 @@
-6. § (1)[^1] A mezőgazdasági csoportmentességi rendelet 4. cikk (1) bekezdés a) pontja alapján a kedvezményezett részére nyújtott elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott kedvezményes díjú kezességvállalás támogatástartalma kedvezményezettenként és beruházásonként nem haladhatja meg az 500 ezer eurót.
+6. § (1)[^2] A mezőgazdasági csoportmentességi rendelet 4. cikk (1) bekezdés a) pontja alapján a kedvezményezett részére nyújtott elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott kedvezményes díjú kezességvállalás támogatástartalma kedvezményezettenként és beruházásonként nem haladhatja meg az 500 ezer eurót.
 
 (2) Az egy beruházáshoz nyújtható, államháztartási forrásból származó összes európai uniós versenyjogi értelemben vett állami támogatás támogatási intenzitása nem haladhatja meg a beruházás elszámolható költségének 50%-át, kivéve a közép-magyarországi régiót, ahol a támogatási intenzitás legfeljebb 40%.
 
@@ -20,4 +20,4 @@ e) a beruházás célja a természeti környezet minőségének, a higiéniai k�
 
 (6) A beruházás abban az esetben támogatható a (3)–(5) bekezdésben meghatározott, emelt mértékű támogatási intenzitáson, ha az megfelel a 3. § (8)–(11) bekezdése szerinti támogatáshalmozási szabályoknak.
 
-[^1]: A 6. § (1) bekezdése a 7/2018. (VI. 26.) AM rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 6. § (1) bekezdése a 7/2018. (VI. 26.) AM rendelet 3. §-a szerint módosított szöveg.
