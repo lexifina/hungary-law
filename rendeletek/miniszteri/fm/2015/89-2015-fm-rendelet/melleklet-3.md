@@ -1,4 +1,4 @@
-3. melléklet a 89/2015. (XII. 22.) FM rendelethez[^20]
+3. melléklet a 89/2015. (XII. 22.) FM rendelethez[^22]
 
 A haszonbérleti díj, valamint a vagyonkezelési díj mértéke
 
@@ -30,4 +30,4 @@ A haszonbérleti díj, valamint a vagyonkezelési díj mértéke
 
 | 13 | Balaton | 200 |
 
-[^20]: A 3. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^22]: A 3. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.

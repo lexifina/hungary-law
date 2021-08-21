@@ -6,7 +6,7 @@
 
 | 1. Pályázó gazdálkodási formája | 1. legalább középfokú mezőgazdasági vagy halászati szakirányú képesítéssel vagy végzettséggel rendelkező személy | 1 |
 
-| 2. őstermelő, családi gazdálkodó, mezőgazdasági egyéni vállalkozó | 2 |
+| 2. mezőgazdasági őstermelő, őstermelők családi gazdaságának tagja mezőgazdasági egyéni vállalkozó | 2 |
 
 | 3. jogi személy | 3 |
 
@@ -106,6 +106,6 @@
 
 | MINDÖSSZESEN |  | 1–100 |
 
-2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^19]
+2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^21]
 
-[^19]: A 2. mellékletet az 5/2021. (II. 23.) AM rendelet 19. § b) pontja hatályon kívül helyezte.
+[^21]: A 2. mellékletet az 5/2021. (II. 23.) AM rendelet 19. § b) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 11.[^16]
+## 11.[^18]
 
-[^16]: A 11. alcím címét az 5/2021. (II. 23.) AM rendelet 19. § a) pontja hatályon kívül helyezte.
+[^18]: A 11. alcím címét az 5/2021. (II. 23.) AM rendelet 19. § a) pontja hatályon kívül helyezte.

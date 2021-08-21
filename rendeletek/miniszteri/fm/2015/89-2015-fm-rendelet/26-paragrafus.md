@@ -1,4 +1,4 @@
-## 25. §[^17]
+## 25. §[^19]
 
 ## 12. A haszonbérleti díj és a vagyonkezelési díj
 
@@ -16,4 +16,4 @@
 
 (7) Ha a halgazdálkodási hatóság által kijelölt halgazdálkodási kíméleti terület, illetve területek kiterjedése a nyilvántartott halgazdálkodási vízterület teljes vízfelület méretének 20%-át meghaladja, a díj megállapításakor a 3. melléklet szerinti díj negatív korrekcióját kell elvégezni a halgazdálkodási kíméleti terület kiterjedésének arányában.
 
-[^17]: A 25. §-t az 5/2021. (II. 23.) AM rendelet 19. § a) pontja hatályon kívül helyezte.
+[^19]: A 25. §-t az 5/2021. (II. 23.) AM rendelet 19. § a) pontja hatályon kívül helyezte.

@@ -4,9 +4,9 @@
 
 a) legalább középfokú mezőgazdasági vagy halászati szakirányú képesítéssel vagy végzettséggel rendelkezik, és a pályázat benyújtását megelőző legalább két évben halgazdálkodási tevékenységet folytatott,
 
-b) családi gazdálkodó, amennyiben a pályázat benyújtását megelőző legalább két évben családi gazdálkodóként vagy családi gazdaság tagjaként halgazdálkodási tevékenységet folytatott,
+b)[^2] őstermelők családi gazdaságának tagja, amennyiben a pályázat benyújtását megelőző legalább két évben őstermelők családi gazdaságának tagjaként halgazdálkodási tevékenységet folytatott,
 
-c) a pályázat benyújtásának időpontjában érvényes őstermelői igazolvánnyal rendelkező őstermelő, amennyiben a pályázat benyújtását megelőző legalább két évben őstermelőként halgazdálkodási tevékenységet folytatott,
+c)[^3] a pályázat benyújtásának időpontjában őstermelői nyilvántartásban FELIR azonosítóval rendelkező őstermelő, amennyiben a pályázat benyújtását megelőző legalább két évben őstermelőként halgazdálkodási tevékenységet folytatott,
 
 d) egyéni mezőgazdasági vállalkozó, amennyiben a pályázat benyújtását megelőző legalább két évben halgazdálkodási tevékenységet folytatott vagy
 
@@ -14,7 +14,7 @@ e) ötéves halgazdálkodási gyakorlattal rendelkezik.
 
 (2) A halgazdálkodási gyakorlat a gazdálkodási tevékenység telephelye szerint illetékes halgazdálkodási hatóság által kiadott, 30 napnál nem régebbi okirattal igazolható.
 
-(3)[^2] A pályázaton a következő jogi személyek vehetnek részt:
+(3)[^4] A pályázaton a következő jogi személyek vehetnek részt:
 
 a) a helyi önkormányzat, a helyi önkormányzatok társulása,
 
@@ -36,4 +36,6 @@ cb) amely vállalja, hogy a pályázat benyújtásának évét követő 5 évben
 
 (6) A (4) bekezdés szerinti esetben a feleknek polgári jogi szerződést kell kötniük a közös hasznosítás részletes feltételeire, módjára, valamint a felek jogaira és kötelezettségeire vonatkozóan.
 
-[^2]: A 3. § (3) bekezdése a 75/2016. (XI. 30.) FM rendelet 2. §-ával megállapított szöveg.
+[^2]: A 3. § (1) bekezdés b) pontja a 28/2021. (VIII. 18.) AM rendelet 21. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés c) pontja a 28/2021. (VIII. 18.) AM rendelet 21. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdése a 75/2016. (XI. 30.) FM rendelet 2. §-ával megállapított szöveg.
