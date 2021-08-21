@@ -14,7 +14,7 @@ d)[^174] a 6. számú melléklet szerinti üzleti terv értékelése során lega
 
 a) az ügyfél adóazonosító jele vagy adószáma,
 
-b) az ügyfél egyéni vállalkozói igazolvány száma vagy egyéni vállalkozói nyilvántartási száma vagy őstermelői igazolvány száma,
+b)[^176] az ügyfél egyéni vállalkozói igazolvány száma vagy egyéni vállalkozói nyilvántartási száma vagy őstermelői nyilvántartásban szereplő FELIR azonosítója,
 
 c) az ügyfélnek az adatai felhasználásához való hozzájárulása,
 
@@ -22,13 +22,13 @@ d) az ügyfél aláírása.
 
 (4) A kérelemhez mellékelni kell:
 
-a)[^176] az érvényes őstermelői igazolvány másolatát, vagy az érvényes egyéni vállalkozásról szóló hatósági bizonyítványt, jegyzői igazolást, vagy az érvényes egyéni vállalkozói igazolvány másolatát,
+a)[^177] az őstermelői nyilvántartásba vételről szóló határozatot, az ügyfél nyilatkozatát arról, hogy szerepel az őstermelői nyilvántartásban, az egyéni vállalkozásról szóló hatósági bizonyítványt, jegyzői igazolást, vagy a nyilatkozatát arról, hogy az egyéni vállalkozói tevékenység megkezdésére irányuló szándékáról az egyéni vállalkozók nyilvántartását vezető szervhez az egyéni vállalkozóról és az egyéni cégről szóló törvény rendelkezéseinek megfelelő bejelentést nyújtott be,
 
 b) a végzettséget igazoló okirat másolatát,
 
-c)[^177] az üzleti tervet papír alapon és elektronikus adathordozón, amelynek mintája az ME honlapjáról letölthető.
+c)[^178] az üzleti tervet papír alapon és elektronikus adathordozón, amelynek mintája az ME honlapjáról letölthető.
 
-(5)[^178] A feltételeket teljesítő ügyfél esetében az IH határozatot hoz arról, hogy az ügyfél fiatal mezőgazdasági termelőnek minősül.
+(5)[^179] A feltételeket teljesítő ügyfél esetében az IH határozatot hoz arról, hogy az ügyfél fiatal mezőgazdasági termelőnek minősül.
 
 (6) A fiatal mezőgazdasági termelői jogosultság
 
@@ -38,13 +38,14 @@ b) a 3. § 30. pont b) alpontja szerinti esetben a határozat kiállításától
 
 ## érvényes.
 
-(7)[^179] A 3. § 30. pont a) vagy b) alpontjában meghatározott dokumentumnak legkésőbb azon – a támogatás részletes feltételeit megállapító – jogszabályban meghatározott, a támogatási kérelem benyújtására nyitva álló időszak utolsó napjától kell a (6) bekezdésnek megfelelően – érvényesnek lennie, amely időszakban az ügyfél fiatal mezőgazdasági termelői minőségét érvényesíteni kívánja.
+(7)[^180] A 3. § 30. pont a) vagy b) alpontjában meghatározott dokumentumnak legkésőbb azon – a támogatás részletes feltételeit megállapító – jogszabályban meghatározott, a támogatási kérelem benyújtására nyitva álló időszak utolsó napjától kell a (6) bekezdésnek megfelelően – érvényesnek lennie, amely időszakban az ügyfél fiatal mezőgazdasági termelői minőségét érvényesíteni kívánja.
 
 [^172]: A 28/A. §-t a 63/2007. (VII. 13.) FVM rendelet 4. §-a iktatta be, szövege az 51/2009. (IV. 16.) FVM rendelet 16. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 25. § (1) bekezdése alapján a rendelkezést a 2009. április 24. napját követően indult ügyekben kell alkalmazni.
 [^173]: A 28/A. § (1) bekezdése a 124/2011. (XII. 21.) VM rendelet 21. § (1) bekezdésével megállapított szöveg.
 [^174]: A 28/A. § (2) bekezdés d) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (2) bekezdésével megállapított szöveg.
 [^175]: A 28/A. § (3) bekezdése a 12/2014. (XII. 30.) MvM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^176]: A 28/A. § (4) bekezdés a) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (4) bekezdésével megállapított szöveg.
-[^177]: A 28/A. § (4) bekezdés c) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (5) bekezdésével megállapított, a 12/2014. (XII. 30.) MvM rendelet 2. § f) pontja szerint módosított szöveg.
-[^178]: A 28/A. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (2) bekezdésével megállapított, a 37/2016. (XII. 29.) MvM rendelet 1. § (6) bekezdés g) pontja szerint módosított szöveg.
-[^179]: A 28/A. § (7) bekezdését a 17/2011. (III. 4.) VM rendelet 5. §-a iktatta be.
+[^176]: A 28/A. § (3) bekezdés b) pontja a 28/2021. (VIII. 18.) AM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^177]: A 28/A. § (4) bekezdés a) pontja a 28/2021. (VIII. 18.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^178]: A 28/A. § (4) bekezdés c) pontja a 124/2011. (XII. 21.) VM rendelet 21. § (5) bekezdésével megállapított, a 12/2014. (XII. 30.) MvM rendelet 2. § f) pontja szerint módosított szöveg.
+[^179]: A 28/A. § (5) bekezdése a 23/2010. (III. 16.) FVM rendelet 3. § (2) bekezdésével megállapított, a 37/2016. (XII. 29.) MvM rendelet 1. § (6) bekezdés g) pontja szerint módosított szöveg.
+[^180]: A 28/A. § (7) bekezdését a 17/2011. (III. 4.) VM rendelet 5. §-a iktatta be.

@@ -38,7 +38,7 @@
 
 18.[^19] Zöldség-gyümölcs termelői csoportok és termelői szervezetek: a zöldség-gyümölcs termelői csoportok és termelői szervezetek nemzeti szabályozásáról szóló miniszteri rendeletnek megfelelően elismert zöldség-gyümölcs termelői értékesítő szervezet;
 
-19.[^20] induló vállalkozás: a jogi személy, ha a támogatási kérelem benyújtását megelőző 12 hónapon belül jegyezték be, az egyéni vállalkozó, valamint az őstermelő, ha egyéni vállalkozói nyilvántartásba vételére, vagy őstermelői igazolványának kiadására a támogatási kérelem benyújtását megelőző 12 hónapon belül került sor, valamint azon jogcímek esetében, ahol a támogatás igénybevételére jogosult mezőgazdasági üzeme méretének el kell érnie meghatározott mértékű európai mértékegységet, ott az induló vállalkozás fogalma kiterjed azokra a jogi személyekre, egyéni vállalkozókra, akik a mezőgazdasági tevékenységüket a támogatási kérelem benyújtását megelőző 12 hónapon belül kezdték meg;
+19.[^20] induló vállalkozás: a jogi személy, ha a támogatási kérelem benyújtását megelőző 12 hónapon belül jegyezték be, az egyéni vállalkozó, valamint az őstermelő, ha egyéni vállalkozói vagy az őstermelői nyilvántartásba vételére a támogatási kérelem benyújtását megelőző 12 hónapon belül került sor, valamint azon jogcímek esetében, ahol a támogatás igénybevételére jogosult mezőgazdasági üzeme méretének el kell érnie meghatározott mértékű európai mértékegységet, ott az induló vállalkozás fogalma kiterjed azokra a jogi személyekre, egyéni vállalkozókra, akik a mezőgazdasági tevékenységüket a támogatási kérelem benyújtását megelőző 12 hónapon belül kezdték meg;
 
 20. nitrátérzékeny terület: a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló 27/2006. (II. 7.) Korm. rendelet szerinti terület;
 
@@ -119,7 +119,7 @@ b) a 8/A. § szerint szervezett képzések tekintetében az Európai Mezőgazdas
 [^17]: A 3. § 15. pontja a 124/2011. (XII. 21.) VM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^18]: A 3. § 16. pontja az 53/2008. (IV. 24.) FVM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^19]: A 3. § 18. pontja a 124/2011. (XII. 21.) VM rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^20]: A 3. § 19. pontja a 22/2014. (III. 14.) VM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^20]: A 3. § 19. pontja a 22/2014. (III. 14.) VM rendelet 39. § (2) bekezdésével megállapított, a 28/2021. (VIII. 18.) AM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^21]: A 3. § 21. pontját a 39/2007. (V. 15.) FVM rendelet 1. §-a iktatta be, szövege a 97/2008. (VII. 25.) FVM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^22]: A 3. § 22. pontját a 39/2007. (V. 15.) FVM rendelet 1. §-a iktatta be, szövege a 124/2011. (XII. 21.) VM rendelet 3. § (5) bekezdésével megállapított szöveg.
 [^23]: A 3. § 23. pontját a 81/2007. (VIII. 3.) FVM rendelet 1. § (2) bekezdése iktatta be. E módosító rendelet 11. §-a alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
