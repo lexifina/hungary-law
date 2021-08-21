@@ -1,6 +1,6 @@
 ## 10. A csekély összegű támogatásokra vonatkozó egyéb rendelkezések
 
-14. § (1)[^4] A 2. célterület keretében nyújtott támogatás mezőgazdasági csekély összegű támogatásnak minősül. Az 1408/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozás részére bármely három pénzügyi év időszakában Magyarországon az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatás összege nem haladhatja meg a 25 000 eurós keretösszegből a vállalkozás rendelkezésére álló szabad csekély összegű támogatási keret bruttó támogatástartalmának megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltakat, illetve a II. mellékletében meghatározott felső határt.
+14. § (1)[^5] A 2. célterület keretében nyújtott támogatás mezőgazdasági csekély összegű támogatásnak minősül. Az 1408/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti egy és ugyanazon vállalkozás részére bármely három pénzügyi év időszakában Magyarországon az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatás összege nem haladhatja meg a 25 000 eurós keretösszegből a vállalkozás rendelkezésére álló szabad csekély összegű támogatási keret bruttó támogatástartalmának megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltakat, illetve a II. mellékletében meghatározott felső határt.
 
 (2) Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
@@ -12,4 +12,4 @@ b) harmadik országokba vagy tagállamokba irányuló exporttal kapcsolatos tev�
 
 c) importáruval szemben belföldi áru használatához kötött támogatás.
 
-[^4]: A 14. § (1) bekezdése a 14/2019. (IV. 10.) AM rendelet 43. §-ával megállapított szöveg.
+[^5]: A 14. § (1) bekezdése a 14/2019. (IV. 10.) AM rendelet 43. §-ával megállapított szöveg.

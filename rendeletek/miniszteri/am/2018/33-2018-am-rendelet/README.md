@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-33-20-7
 | 2019-04-11 | 2018-33-20-7R.3 | 14/2019. (IV. 10.) AM rendelet |
 | 2019-08-31 | 2018-33-20-7R.4 | 39/2019. (VIII. 23.) AM rendelet |
 | 2019-12-21 | 2018-33-20-7R.5 | 59/2019. (XII. 18.) AM rendelet |
+| 2021-08-21 | 2018-33-20-7R.6 | 2/2019. (I. 25.) AM rendelet |
