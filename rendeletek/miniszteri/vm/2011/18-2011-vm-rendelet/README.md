@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-18-20-2
 | 2014-02-25 | 2011-18-20-2Y.7 | 13/2014. (II. 24.) VM rendelet |
 | 2018-01-01 | 2011-18-20-2Y.8 | 37/2017. (XII. 27.) MvM rendelet |
 | 2018-10-06 | 2011-18-20-2Y.9 | 28/2018. (X. 5.) AM rendelet |
+| 2021-08-21 | 2011-18-20-2Y.10 | 28/2021. (VIII. 18.) AM rendelet |

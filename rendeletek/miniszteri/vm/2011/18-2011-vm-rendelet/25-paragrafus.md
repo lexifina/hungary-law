@@ -1,6 +1,6 @@
 ## 18. Ellenőrzés
 
-25. § (1)[^46] A jogosultsági feltételek, a kötelezettségvállalási előírások teljesítését a Kincstár évente jogosult ellenőrizni. A Kincstár az ellenőrzésbe külön megállapodás alapján a NÉBIH-t bevonhatja.
+25. § (1)[^48] A jogosultsági feltételek, a kötelezettségvállalási előírások teljesítését a Kincstár évente jogosult ellenőrizni. A Kincstár az ellenőrzésbe külön megállapodás alapján a NÉBIH-t bevonhatja.
 
 (2) Az (1) bekezdés szerinti ellenőrzés a támogatási kérelemre, valamint a kifizetési kérelemre vonatkozóan
 
@@ -16,7 +16,7 @@ a) a tenyészetre vonatkozóan a jogosultsági feltételek teljesülését igazo
 
 b) a takarmányozásra vonatkozó kötelezettség vállalása esetén a 2011. április 1. és 2011. április 30. közötti időszakra vonatkozó takarmányozási dokumentációnak.
 
-(4)[^47] Gazdaságátadási intézkedés esetén az átadó gazdálkodó által teljesített kötelezettségek az átvevő gazdálkodónál kerülnek ellenőrzésre.
+(4)[^49] Gazdaságátadási intézkedés esetén az átadó gazdálkodó által teljesített kötelezettségek az átvevő gazdálkodónál kerülnek ellenőrzésre.
 
-[^46]: A 25. § (1) bekezdése a 79/2012. (VII. 27.) VM rendelet 13. §-ával megállapított, a 37/2017. (XII. 27.) MvM rendelet 22. § e) és g) pontja szerint módosított szöveg.
-[^47]: A 25. § (4) bekezdését a 61/2013. (VII. 19.) VM rendelet 1. § (2) bekezdése iktatta be.
+[^48]: A 25. § (1) bekezdése a 79/2012. (VII. 27.) VM rendelet 13. §-ával megállapított, a 37/2017. (XII. 27.) MvM rendelet 22. § e) és g) pontja szerint módosított szöveg.
+[^49]: A 25. § (4) bekezdését a 61/2013. (VII. 19.) VM rendelet 1. § (2) bekezdése iktatta be.

@@ -4,7 +4,7 @@
 
 | 1 | Értékelési szakmai szempont megnevezése, értéke | Értékelés/ellenőrzés módja | Pontszám |
 
-| 2 | Agrár-végzettség | Felsőfokú | Oklevél másolata Bizonyítvány másolat Családi gazdaság nyilvántartásba vételéről szóló határozat másolata* Munkáltatói igazolás Társasági szerződés másolata | 10 |
+| 2 | Agrár-végzettség | Felsőfokú | Oklevél másolata Bizonyítvány másolat Őstermelők családi gazdaságának nyilvántartásba vételéről szóló határozat másolata* Munkáltatói igazolás Társasági szerződés másolata | 10 |
 
 | 3 |  | Középfokú szakképesítés | 5 |
 
@@ -32,7 +32,7 @@
 
 | 15 | Mindösszesen |  | max. 100 pont |
 
-## * A családi gazdaságok létrehozásáról, nyilvántartásba vételéről, működtetéséről, valamint kiemelt támogatásukról szóló 326/2001. (XII. 30.) Korm. rendelet 4. § (3) bekezdése szerinti határozat másolata.
+## * A családi gazdaságokról szóló törvény végrehajtásáról szóló kormányrendelet szerinti határozat másolata.
 
 ## ** Csőd-, felszámolási és végelszámolási eljárás alatt nem álló termelői csoport, termelő szervezet.
 

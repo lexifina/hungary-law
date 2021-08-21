@@ -1,16 +1,16 @@
 ## 19. Jogkövetkezmények
 
-26. § (1)[^48] Ha a támogatásra jogosult megszegi a 3. § (1) bekezdés a) pontjában meghatározottakat azáltal, hogy a támogatásba bevont szarvasmarha állományt
+26. § (1)[^50] Ha a támogatásra jogosult megszegi a 3. § (1) bekezdés a) pontjában meghatározottakat azáltal, hogy a támogatásba bevont szarvasmarha állományt
 
 a) nem tejtermelés céljából tartja, vagy
 
-b)[^49] nem a TIR-ben bejelentett, és a kifizetési kérelemben megjelölt tartási helyen tartja,
+b)[^51] nem a TIR-ben bejelentett, és a kifizetési kérelemben megjelölt tartási helyen tartja,
 
 ## akkor a támogatásból kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlanul igénybevett támogatásnak minősül.
 
 (2) Ha a támogatásra jogosult megszegi az 4. § (3) bekezdésében meghatározottakat, akkor a támogatásból kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlannak minősül.
 
-(3)[^50] Ha a támogatási időszak alatt a Megyei Kormányhivatal Állategészségügyi és Élelmiszerlánc-biztonsági Igazgatósága a 32/1999. (III. 31.) FVM rendelet alapján véglegesen megállapította, hogy a támogatásra jogosult megsértette a 32/1999. (III. 31.) FVM rendeletben foglalt előírásokat, akkor az intézkedésből a támogatási időszak lejártáig kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlannak minősül.
+(3)[^52] Ha a támogatási időszak alatt a Megyei Kormányhivatal Állategészségügyi és Élelmiszerlánc-biztonsági Igazgatósága a 32/1999. (III. 31.) FVM rendelet alapján véglegesen megállapította, hogy a támogatásra jogosult megsértette a 32/1999. (III. 31.) FVM rendeletben foglalt előírásokat, akkor az intézkedésből a támogatási időszak lejártáig kizárásra kerül, és a támogatási kérelemre vonatkozóan már igénybe vett teljes támogatás jogosulatlannak minősül.
 
 (4) Ha a támogatásra jogosult megszegi az egyes, e rendeletben meghatározott kötelezettségekre vonatkozó előírásokat, akkor a kötelezettségszegés gyakoriságának megfelelően a 6. mellékletben meghatározott jogkövetkezményt kell alkalmazni.
 
@@ -20,9 +20,9 @@ b)[^49] nem a TIR-ben bejelentett, és a kifizetési kérelemben megjelölt tart
 
 (7) Ha egy gazdálkodási éven belül több kötelezettség esetében is meg nem felelések kerülnek megállapításra, akkor a 6. melléklet alapján meghatározott jogkövetkezmények mindegyike alkalmazásra kerül.
 
-(8)[^51] Ha a 6. § (1) bekezdése szerinti állatsűrűségi feltételnek a kifizetési kérelemben igényelt tenyészet nem felel meg, akkor a 2. § (3) bekezdés a) pontja szerinti alaptámogatás elutasításra kerül az érintett gazdálkodási év tekintetében.
+(8)[^53] Ha a 6. § (1) bekezdése szerinti állatsűrűségi feltételnek a kifizetési kérelemben igényelt tenyészet nem felel meg, akkor a 2. § (3) bekezdés a) pontja szerinti alaptámogatás elutasításra kerül az érintett gazdálkodási év tekintetében.
 
-[^48]: A 26. § (1) bekezdése a 79/2012. (VII. 27.) VM rendelet 14. §-ával megállapított szöveg.
-[^49]: A 26. § (1) bekezdés b) pontja a 13/2014. (II. 24.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^50]: A 26. § (3) bekezdése a 37/2017. (XII. 27.) MvM rendelet 22. § h) pontja szerint módosított szöveg.
-[^51]: A 26. § (8) bekezdését a 13/2014. (II. 24.) VM rendelet 17. § (2) bekezdése iktatta be.
+[^50]: A 26. § (1) bekezdése a 79/2012. (VII. 27.) VM rendelet 14. §-ával megállapított szöveg.
+[^51]: A 26. § (1) bekezdés b) pontja a 13/2014. (II. 24.) VM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^52]: A 26. § (3) bekezdése a 37/2017. (XII. 27.) MvM rendelet 22. § h) pontja szerint módosított szöveg.
+[^53]: A 26. § (8) bekezdését a 13/2014. (II. 24.) VM rendelet 17. § (2) bekezdése iktatta be.
