@@ -14,27 +14,31 @@ c) praxisközösségi konzorcium, amely több, egy járáson belül működő h�
 
 (4)[^4] A (3) bekezdés szerinti praxisközösségben 5 háziorvosi és házi gyermekorvosi szolgálatonként, illetve 5 háziorvosi vagy házi gyermekorvosi szolgálatonként további egy fogorvosi szolgálat is részt vehet, ezzel a praxisközösség legfeljebb 12 szolgálatból is állhat.
 
-(5)[^5] Egy szolgálat egy (3) bekezdés szerinti praxisközösségben vehet részt.
+(4a)[^5] Járásonként legfeljebb egy a (3) bekezdés szerint létrejött praxisközösségben, legalább 5 szolgálat részvételével, a szolgálatok számának felső korlátja nélkül kizárólag fogorvosi szolgálatok is részt vehetnek, amely járási fogorvosi praxisközösség az illetékes kollegiális szakmai vezető fogorvos koordinációja mellett hozható létre.
 
-(6)[^6] A (3) bekezdés szerinti praxisközösségi szolgáltató tagja kizárólag a praxisközösséghez csatlakozó valamely szolgálat által ellátott alapellátási körzet tekintetében területi ellátási kötelezettséggel rendelkező
+(5)[^6] Egy szolgálat egy (3) bekezdés szerinti praxisközösségben vehet részt.
+
+(6)[^7] A (3)–(4) vagy (4a) bekezdés szerinti praxisközösség vagy praxisközösségi szolgáltató tagja kizárólag a praxisközösséghez csatlakozó valamely szolgálat által ellátott alapellátási körzet tekintetében területi ellátási kötelezettséggel rendelkező
 
 a) praxisjoggal rendelkező személy (illetve egyéni vállalkozó), vagy
 
-b) az a) pont szerinti személy – közeli hozzátartozóival egybeszámított – közvetlen vagy közvetett minősített többségi befolyásával működő egészségügyi szolgáltató, vagy
+b)[^8] az a) pont szerinti személy vagy személyek – közeli hozzátartozóival egybeszámított – közvetlen vagy közvetett minősített többségi befolyásával működő egészségügyi szolgáltató, vagy
 
 c) állami vagy önkormányzati fenntartású egészségügyi szolgáltató
 
 ## lehet.
 
-(7)[^7] A (3) bekezdés szerinti praxisközösség vagy – létrejöttét megelőzően – az ilyen praxisközösséget létrehozni szándékozó szolgálatok kérelmére indokolt esetben a (3) bekezdésben meghatározott feltételek alól a praxiskezelő határozott vagy határozatlan időre felmentést adhat. Az így kiadott felmentés időtartama alatt a (3) bekezdésben meghatározott praxisközösségi formák létrehozhatóak, nyilvántartásba vehetőek és működtethetőek. A határozott időre adott felmentés – indokolt esetben – meghosszabbítható.
+(7)[^9] A (3) bekezdés szerinti praxisközösség vagy – létrejöttét megelőzően – az ilyen praxisközösséget létrehozni szándékozó szolgálatok kérelmére indokolt esetben a (3) bekezdésben meghatározott feltételek alól a praxiskezelő határozott vagy határozatlan időre felmentést adhat. Az így kiadott felmentés időtartama alatt a (3) bekezdésben meghatározott praxisközösségi formák létrehozhatóak, nyilvántartásba vehetőek és működtethetőek. A határozott időre adott felmentés – indokolt esetben – meghosszabbítható.
 
-(8)[^8] A praxiskezelő a 4. § (1) bekezdés f) pontja szerinti előírások keretében, a (3) bekezdés szerinti praxisközösség alapító dokumentumának tartalmára vonatkozóan az érvényes létrehozás és működés feltételeként kötelező előírásokat tehet közzé.
+(8)[^10] A praxiskezelő a 4. § (1) bekezdés f) pontja szerinti előírások keretében, a (3) bekezdés szerinti praxisközösség alapító dokumentumának tartalmára vonatkozóan az érvényes létrehozás és működés feltételeként kötelező előírásokat tehet közzé.
 
 [^1]: Az 1. § a 277/2021. (V. 26.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^2]: A 2. § (2) bekezdése a 277/2021. (V. 26.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 277/2021. (V. 26.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (4) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^5]: A 2. § (5) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^6]: A 2. § (6) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^7]: A 2. § (7) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^8]: A 2. § (8) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^5]: A 2. § (4a) bekezdését az 502/2021. (VIII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § (5) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^7]: A 2. § (6) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be, nyitó szövegrésze az 502/2021. (VIII. 18.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (6) bekezdés b) pontja az 502/2021. (VIII. 18.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^9]: A 2. § (7) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^10]: A 2. § (8) bekezdését a 277/2021. (V. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be.

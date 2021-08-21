@@ -1,3 +1,3 @@
-## 6. §[^20]
+## 6. §[^24]
 
-[^20]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

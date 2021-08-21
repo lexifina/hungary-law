@@ -1,3 +1,3 @@
-## 12. §[^31]
+## 12. §[^35]
 
-[^31]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
