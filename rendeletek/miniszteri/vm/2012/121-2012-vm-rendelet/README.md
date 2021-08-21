@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-121-20-
 | 2012-11-30 | 2012-121-20-2Y.2 | 2010: CXXX. törvény |
 | 2013-02-05 | 2012-121-20-2Y.3 | 4/2013. (II. 4.) VM rendelet |
 | 2018-01-01 | 2012-121-20-2Y.4 | 37/2017. (XII. 27.) MvM rendelet |
+| 2021-08-21 | 2012-121-20-2Y.5 | 28/2021. (VIII. 18.) AM rendelet |

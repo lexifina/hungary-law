@@ -40,7 +40,7 @@
 
 1.1.1. a 01.11–01.50 szakágazatba tartozó tevékenység az egyéni vállalkozói nyilvántartás alapján, amit az átadó gazdálkodó az egyéni vállalkozói mezőgazdasági tevékenységről kiállított igazolás eredeti példányával vagy hiteles másolatával igazolhat,
 
-1.1.2. őstermelői igazolvány hiteles másolata az értékesítési betétlapokkal együtt,
+1.1.2.[^9] értékesítési betétlapok vagy az értékesítési betétlaptól eltérő alapnyilvántartás,
 
 1.1.3. a falugazdász tevékenysége során szerzett információja alapján a területileg illetékes kormányhivatal földművelésügyi igazgatóságának szerve által a kérelmező mezőgazdasági termelő tevékenység folytatásáról kiadott hatósági bizonyítványa,
 
@@ -59,3 +59,5 @@
 3. A gazdaságot átvevő természetes személyre vonatkozóan
 
 3.1. A 2. § (2) bekezdés c) pontjában meghatározott szakképesítést, végzettséget igazoló dokumentum hiteles másolata.
+
+[^9]: A 3. melléklet 1.1.2. pontja a 28/2021. (VIII. 18.) AM rendelet 12. §-ával megállapított szöveg.
