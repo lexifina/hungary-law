@@ -6,7 +6,7 @@
 
 (2) Az agrárpolitikáért és agrár-vidékfejlesztésért felelős miniszter a Tv. 14. § (1) bekezdés c) pont cg) alpontja alapján irányító hatósági jogkörében eljárva közleményben teszi közzé azt a minimális pontszámot, amelytől támogatás nyújtható.
 
-(3) A 4. melléklet szerinti felsőfokú vagy az 5. melléklet szerinti középfokú agrárvégzettség után a 3. melléklet alapján járó többletpont természetes személyeknek, gazdasági társaságoknak, társadalmi szervezeteknek, felsőfokú oktatási vagy kutatási intézményeknek és a tenyésztési hatóságnak kerül beszámításra. Családi gazdaságok esetében a felsőfokú agrárvégzettség után járó többletpont akkor kerül beszámításra, ha a családi gazdaság vezetője vagy a családi gazdaság tagja rendelkezik a szakirányú végzettséggel.
+(3)[^28] A 4. melléklet szerinti felsőfokú vagy az 5. melléklet szerinti középfokú agrárvégzettség után a 3. melléklet alapján járó többletpont természetes személyeknek, gazdasági társaságoknak, társadalmi szervezeteknek, felsőfokú oktatási vagy kutatási intézményeknek és a tenyésztési hatóságnak kerül beszámításra. Őstermelők családi gazdasága esetében a felsőfokú agrárvégzettség után járó többletpont akkor kerül beszámításra, ha az őstermelők családi gazdaságának bármely tagja rendelkezik a szakirányú végzettséggel.
 
 (4) Többletpont adható az 5. mellékletben nem szereplő, azonosító számmal rendelkező vagy nem rendelkező kísérleti képzés keretében szerzett szakképesítés esetén, ha a kérelmező a végzettséget igazoló dokumentumhoz csatolja a képző vagy szakmai vizsgát szervező intézmény által kiadott igazolást arra vonatkozóan, hogy a kísérleti képzés keretében szerzett végzettség egyértelműen megfeleltethető valamely, az 5. mellékletben szereplő végzettségnek.
 
@@ -26,9 +26,11 @@ cb) a gazdasági társaság vagy társadalmi szervezet vezető tisztségviselőj
 
 d) a szerződés másolatát, amely igazolja, hogy a szerződés alapján a megfelelő végzettséggel rendelkező személy látja el a szerződésben foglalt feladatokat;
 
-e) a családi gazdaság nyilvántartásba vételéről szóló határozat másolatát, amely tartalmazza, hogy a megfelelő végzettséggel rendelkező személy a családi gazdaság tagja.
+e)[^29] az őstermelők családi gazdaságának nyilvántartásba vételéről szóló határozat másolatát, amely tartalmazza, hogy a megfelelő végzettséggel rendelkező személy a családi gazdaság tagja.
 
 (6) A 4. melléklet szerinti felsőfokú végzettség többletpontjának beszámítása esetén az 5. melléklet szerinti középfokú végzettségért többletpont nem adható.
 
 [^26]: A 13. §-t a 37/2017. (XII. 27.) MvM rendelet 27. §-a hatályon kívül helyezte.
 [^27]: A 14. § (1) bekezdése a 37/2017. (XII. 27.) MvM rendelet 26. § c) pontja szerint módosított szöveg.
+[^28]: A 14. § (3) bekezdése a 28/2021. (VIII. 18.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^29]: A 14. § (5) bekezdés e) pontja a 28/2021. (VIII. 18.) AM rendelet 10. § b) pontja szerint módosított szöveg.

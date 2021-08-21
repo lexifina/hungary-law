@@ -4,9 +4,9 @@
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet 39. cikkének (5) bekezdése,
 
-b)[^77] a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2011. január 27-i 65/2011/EU bizottsági rendelet
+b)[^79] a vidékfejlesztési támogatási intézkedésekre vonatkozó ellenőrzési eljárások, valamint a kölcsönös megfeleltetés végrehajtása tekintetében az 1698/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2011. január 27-i 65/2011/EU bizottsági rendelet
 
-c)[^78]
+c)[^80]
 
-[^77]: A 26. § b) pontja a 61/2013. (VII. 19.) VM rendelet 8. §-ával megállapított szöveg.
-[^78]: A 26. § c) pontját a 61/2013. (VII. 19.) VM rendelet 11. §-a hatályon kívül helyezte.
+[^79]: A 26. § b) pontja a 61/2013. (VII. 19.) VM rendelet 8. §-ával megállapított szöveg.
+[^80]: A 26. § c) pontját a 61/2013. (VII. 19.) VM rendelet 11. §-a hatályon kívül helyezte.

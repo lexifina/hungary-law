@@ -1,4 +1,4 @@
-## 36. §[^96] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 19. § (1b) és (5a) bekezdést, 22. § (7) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^97] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
+## 36. §[^98] Az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásában megvalósuló egyes agrár-vidékfejlesztési támogatási rendeletek módosításáról szóló 7/2015. (II. 17.) MvM rendelettel [a továbbiakban: 7/2015. (II. 17.) MvM rendelet] megállapított 19. § (1b) és (5a) bekezdést, 22. § (7) bekezdést a 7/2015. (II. 17.) MvM rendelet hatálybalépésekor[^99] folyamatban lévő eljárásokban, valamint jogorvoslati eljárásokban is alkalmazni kell.
 
 1. melléklet a 17/2012. (II. 29.) VM rendelethez
 
@@ -84,5 +84,5 @@
 
 | 2 | Szarvasmarha | magyartarka szarvasmarha |
 
-[^96]: A 36. §-t a 7/2015. (II. 17.) MvM rendelet 48. § (4) bekezdése iktatta be.
-[^97]: A hatálybalépés időpontja 2015. február 17.
+[^98]: A 36. §-t a 7/2015. (II. 17.) MvM rendelet 48. § (4) bekezdése iktatta be.
+[^99]: A hatálybalépés időpontja 2015. február 17.
