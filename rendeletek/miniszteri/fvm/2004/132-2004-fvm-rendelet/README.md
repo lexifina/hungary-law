@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-132-20-
 | 2013-03-22 | 2004-132-20-82.11 | 18/2013. (III. 21.) VM rendelet |
 | 2013-08-01 | 2004-132-20-82.12 | 21/2007. (III. 30.) FVM rendelet |
 | 2013-12-17 | 2004-132-20-82.13 | 121/2013. (XII. 16.) VM rendelet |
+| 2021-08-21 | 2004-132-20-82.14 | 18/2013. (III. 21.) VM rendelet |

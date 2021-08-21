@@ -26,7 +26,7 @@ A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására é
 
 | 2. |  |  | Elfogadható igazolások |
 
-| 3. | Ha a támogatást igénylő természetes személy | nem rendelkezik bejelentett munkahellyel | Őstermelői igazolvány, amelyben „a várhatóan termelt termékek” között szerepel olyan, melyek előállítása, termesztése vagy tenyésztése a 2. § i) pontja szerinti mezőgazdasági tevékenység során történik. |
+| 3. | Ha a támogatást igénylő természetes személy | nem rendelkezik bejelentett munkahellyel | Az őstermelői nyilvántartásba vételről szóló határozat vagy a támogatást igénylő nyilatkozata arról, hogy a szerepel az őstermelői nyilvántartásban |
 
 | 4. | Egyéni vállalkozó esetében, a támogatási kérelem benyújtásának évében érvényes olyan vállalkozói igazolvány, amely a 2. § i) pontja szerinti mezőgazdasági tevékenységet tartalmaz. |
 
@@ -40,19 +40,19 @@ A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására é
 
 | 9. | A 25%-os arány ellenőrzésének alapja: |
 
-| 10. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője veszi fel a támogatást, a családi gazdaság teljes bevételét figyelembe kell venni, amely a családi gazdálkodó, valamint a tagok által a támogatási kérelem benyújtásának évéről készített személyi jövedelemadó bevallások „adóalapba beszámító bevételek” sorain szereplő értékek együttes összege. |
+| 10. | Ha az őstermelők családi gazdaságának tagja veszi fel a támogatást, az őstermelők családi gazdaságának teljes bevételét figyelembe kell venni, amely az őstermelők családi gazdaságának tagjai által a támogatási kérelem benyújtásának évéről készített személyi jövedelemadó bevallások „adóalapba beszámító bevételek” sorain szereplő értékek együttes összege. |
 
-| 11. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője veszi fel a támogatást, és egyúttal a családi gazdaságától elkülönült, mezőgazdasági tevékenységet is folytat, a családi gazdaság teljes bevételét, valamint az elkülönült tevékenységből származó bevételeit összevontan kell figyelembe venni, amely a támogatási kérelem benyújtásának évéről készített személyi jövedelemadó bevallás „adóalapba beszámító bevételek” során szereplő érték. |
+| 11. | Ha az őstermelők családi gazdaságának tagja veszi fel a támogatást, és egyúttal az őstermelők családi gazdaságától elkülönült, mezőgazdasági tevékenységet is folytat, a családi gazdaság teljes bevételét, valamint az elkülönült tevékenységből származó bevételeit összevontan kell figyelembe venni, amely a támogatási kérelem benyújtásának évéről készített személyi jövedelemadó bevallás „adóalapba beszámító bevételek” során szereplő érték. |
 
-| 12. | Ha a családi gazdálkodó, családi gazdaság esetén annak vezetője a családi gazdaságától elkülönülten, tehát nem családi gazdálkodói minőségében végzett mezőgazdasági tevékenységei után igényli a támogatást, akkor az adható támogatás megállapításánál a családi gazdaság bevételének azon része nem vehető figyelembe, amely nem mezőgazdasági tevékenységnek minősül. A családi gazdaságnak a mezőgazdasági tevékenysége utáni gazdasági bevétele és az elkülönült tevékenység utáni bevétel nem adható össze. |
+| 12. | Ha az őstermelők családi gazdaságának tagja a családi gazdaságától elkülönülten, tehát nem őstermelői minőségében végzett mezőgazdasági tevékenységei után igényli a támogatást, akkor az adható támogatás megállapításánál az őstermelők családi gazdasága bevételének azon része nem vehető figyelembe, amely nem mezőgazdasági tevékenységnek minősül. Az őstermelők családi gazdaságának a mezőgazdasági tevékenysége utáni gazdasági bevétele és az elkülönült tevékenység utáni bevétel nem adható össze. |
 
 | 13. | Ha az ügyfél egyéni vállalkozói tevékenységet és őstermelői tevékenységet is végez, a mezőgazdasági tevékenységei után bármely minőségében igényli a támogatást, az adható támogatás megállapításakor a két tevékenységből származó bevételt össze kell adni. |
 
-| 14. | Ha a mezőgazdasági őstermelőnek nem kell jövedelmet számolnia, és ezt a bevételét nem is kell bevallania, a figyelembe vehető bevétel összegét az őstermelői igazolvány elválaszthatatlan részét képező hitelesített értékesítési betétlap tartalmazza. |
+| 14. | Ha a mezőgazdasági őstermelőnek nem kell jövedelmet számolnia, és ezt a bevételét nem is kell bevallania, a figyelembe vehető bevétel összegét az értékesítési betétlap tartalmazza. |
 
-| 15. | Ha a közös őstermelői tevékenységet folytató személy veszi fel a támogatást, és egyúttal a közös mezőgazdasági őstermelő gazdaságától elkülönült, mezőgazdasági tevékenységet is folytat, az adható támogatási összeg megállapításakor a közös őstermelői tevékenységének teljes bevételét, valamint az elkülönült tevékenységből származó bevételeit összevontan is figyelembe lehet venni, amennyiben mezőgazdasági tevékenységeiből származó bevételei így érik el jövedelmének 25%-át. |
+| 15. |  |
 
-| 16. | Ha a közös őstermelői tevékenységet folytató személy a közös gazdaságától elkülönülten végzett, a támogatás szempontjából jogosult tevékenységei után igényli a támogatást (tehát nem közös mezőgazdasági őstermelői minőségében), akkor az adható támogatás megállapításánál a közös mezőgazdasági őstermelői bevételének azon része nem vehető figyelembe, amely a támogatás szempontjából nem jogosult tevékenységnek minősül. A közös mezőgazdasági őstermelő esetén a támogatási szempontból jogosult tevékenysége utáni gazdasági bevétel és az elkülönült tevékenység utáni bevétel nem adható össze. |
+| 16. |  |
 
 | 17. | Ha a gazdasági társaság igényli a támogatást, akkor az adható támogatás megállapításánál kizárólag a 2. § i) pontja szerinti mezőgazdasági tevékenységből származó bevételei vehetők figyelembe, amelyet a támogatási kérelem benyújtásának évéről készített társasági adóbevallásban, a társasági adóról szóló 1996. évi LXXXI. törvény 4. § 29. pontja alapján meghatározott „összes bevétel” során szereplő értékhez kell viszonyítani. |
 
@@ -62,6 +62,6 @@ A 2. § a) pontjában meghatározott gazdálkodói minősítés igazolására é
 
 | 20. |  |  | Elfogadható igazolások |
 
-| 21. |  |  | Minden olyan dokumentum, amely hitelt érdemlően alátámasztja az ügyfél támogatási kérelemben tett azon nyilatkozatát, miszerint jövedelmének a támogatási kérelem benyújtása évében több mint 25%-a a 2. § i) pontja szerinti mezőgazdasági tevékenységből származott. Ilyen dokumentum lehet egyéb dokumentum mellett a személyi jövedelemadó bevallás, a társasági adó bevallás, őstermelő esetében az értékesítési betétlap. |
+| 21. |  |  | Minden olyan dokumentum, amely hitelt érdemlően alátámasztja az ügyfél támogatási kérelemben tett azon nyilatkozatát, miszerint jövedelmének a támogatási kérelem benyújtása évében több mint 25%-a a 2. § i) pontja szerinti mezőgazdasági tevékenységből származott. Ilyen dokumentum lehet egyéb dokumentum mellett a személyi jövedelemadó bevallás, a társasági adó bevallás, őstermelő esetében az értékesítési betétlap vagy az értékesítési betétlaptól eltérő alapnyilvántartás. |
 
-[^41]: Az 5. számú mellékletet a 18/2013. (III. 21.) VM rendelet 2. § (5) bekezdése iktatta be, szövege a 121/2013. (XII. 16.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^41]: Az 5. számú mellékletet a 18/2013. (III. 21.) VM rendelet 2. § (5) bekezdése iktatta be, szövege a 121/2013. (XII. 16.) VM rendelet 1. § (2) bekezdése, a 28/2021. (VIII. 18.) AM rendelet 2. §-a szerint módosított szöveg.
