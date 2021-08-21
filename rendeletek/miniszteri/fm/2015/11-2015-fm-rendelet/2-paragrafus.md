@@ -20,12 +20,13 @@ c)[^2] a b) ponton kívüli jogi személy esetében az az ügyfél, akit vagy am
 
 (5) A (4) bekezdés c) pontjában meghatározott nyilatkozat benyújtásának feltétele, hogy a nyilatkozat megtételéig a nyilatkozatban meg nem jelölt összes igénylő visszavonja a támogatási kérelmét.
 
-(6) A családi gazdaságba bevitt mezőgazdasági terület után a támogatást – amennyiben az egységes kérelmet a fiatal mezőgazdasági termelő nyújtja be – a fiatal mezőgazdasági termelőnek minősülő családi gazdálkodó igényelheti.
+(6)[^3] Az őstermelők családi gazdaságába bevitt mezőgazdasági terület után a támogatást – amennyiben az egységes kérelmet a fiatal mezőgazdasági termelő nyújtja be – az őstermelők családi gazdasága fiatal mezőgazdasági termelőnek minősülő tagja igényelheti.
 
-(7)[^3] A fiatal mezőgazdasági termelő tényleges és hosszú távú ellenőrzésének a jogi személyben az egységes területalapú támogatási kérelem benyújtására nyitva álló időszak utolsó napján fenn kell állnia.
+(7)[^4] A fiatal mezőgazdasági termelő tényleges és hosszú távú ellenőrzésének a jogi személyben az egységes területalapú támogatási kérelem benyújtására nyitva álló időszak utolsó napján fenn kell állnia.
 
-(8)[^4] Ha a támogatási kérelmet jogi személy nyújtja be, akkor az e rendelet szerinti első támogatási kérelem benyújtására nyitva álló időszak utolsó napjától a jogi személyben a tényleges és hosszú távú ellenőrzést fiatal mezőgazdasági termelőnek kell gyakorolnia.
+(8)[^5] Ha a támogatási kérelmet jogi személy nyújtja be, akkor az e rendelet szerinti első támogatási kérelem benyújtására nyitva álló időszak utolsó napjától a jogi személyben a tényleges és hosszú távú ellenőrzést fiatal mezőgazdasági termelőnek kell gyakorolnia.
 
 [^2]: A 2. § (4) bekezdés c) pontja a 88/2016. (XII. 29.) FM rendelet 82. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (7) bekezdését a 25/2016. (IV. 11.) FM rendelet 62. §-a iktatta be.
-[^4]: A 2. § (8) bekezdését a 25/2016. (IV. 11.) FM rendelet 62. §-a iktatta be.
+[^3]: A 2. § (6) bekezdése a 28/2021. (VIII. 18.) AM rendelet 17. §-a szerint módosított szöveg.
+[^4]: A 2. § (7) bekezdését a 25/2016. (IV. 11.) FM rendelet 62. §-a iktatta be.
+[^5]: A 2. § (8) bekezdését a 25/2016. (IV. 11.) FM rendelet 62. §-a iktatta be.
