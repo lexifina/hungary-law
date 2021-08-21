@@ -1,4 +1,4 @@
-4. § (1)[^1] E rendelet alapján
+4. § (1)[^2] E rendelet alapján
 
 a) letelepített napos baromfi közül
 
@@ -42,4 +42,4 @@ e) levágott összes baromfifélére
 
 (8) A Tv. 45/B. §-a szerinti kötelezettség-átadásra jelen intézkedés vonatkozásában nincs lehetőség.
 
-[^1]: A 4. § (1) bekezdés nyitó szövegrésze a 39/2020. (VII. 30.) AM rendelet 6. §-a, záró szövegrésze a 39/2020. (VII. 30.) AM rendelet 5. §-a, a 64/2020. (XII. 16.) AM rendelet 12. § a) pontja, a 2/2021. (II. 15.) AM rendelet 11. §-a szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 39/2020. (VII. 30.) AM rendelet 6. §-a, záró szövegrésze a 39/2020. (VII. 30.) AM rendelet 5. §-a, a 64/2020. (XII. 16.) AM rendelet 12. § a) pontja, a 2/2021. (II. 15.) AM rendelet 11. §-a szerint módosított szöveg.

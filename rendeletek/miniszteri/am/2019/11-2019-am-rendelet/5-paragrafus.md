@@ -1,4 +1,4 @@
-5. § (1)[^2] A támogatási kérelmet a 3. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év március 20-ától a támogatási év április 15-éig a Kincstár által rendszeresített és a honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú nyomtatványon nyújthatja be a jogosult lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz.
+5. § (1)[^3] A támogatási kérelmet a 3. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év március 20-ától a támogatási év április 15-éig a Kincstár által rendszeresített és a honlapján közzétett, a (2) bekezdésben meghatározott adattartalmú nyomtatványon nyújthatja be a jogosult lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz.
 
 (2) Az igénylő támogatási kérelme az alábbi adatokat és dokumentumokat tartalmazza:
 
@@ -16,7 +16,7 @@ f) a tevékenység megvalósításához szükséges, tervezett támogatási öss
 
 g) nagyvállalkozás esetén a (6) bekezdés a) pontja szerinti élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal igazolását és
 
-h)[^3]
+h)[^4]
 
 (3) Egy támogatási évre baromfi megnevezés-csoportonként kizárólag egy támogatási kérelem nyújtható be.
 
@@ -28,17 +28,17 @@ h)[^3]
 
 a) nagyvállalkozás igénylő esetében a járási hivatal által a nagyvállalkozás támogatás igénybevételével előálló és a támogatás igénybevétele nélkül várható helyzetére vonatkozó, a 3. melléklet szerinti elemzés alapján kiállított igazolását arról, hogy részvétele a támogatási programban indokolt, és
 
-b)[^4]
+b)[^5]
 
 (7) A Kincstár a támogatási kérelemről az ott megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan – a 2. melléklet szerinti baromfi megnevezés-csoportonként – hoz döntést.
 
-(7a)[^5] A Baromfi Termék Tanács (a továbbiakban: BTT) az igénylő kérésére igazolást állít ki az adott tartási hely férőhely kapacitása alapján megállapított maximálisan tartható baromfilétszám darabszámáról, és azt legkésőbb tárgyév április 15-éig – az ügyfél tájékoztatásával egyidejűleg – elektronikus úton továbbítja a Kincstár részére.
+(7a)[^6] A Baromfi Termék Tanács (a továbbiakban: BTT) az igénylő kérésére igazolást állít ki az adott tartási hely férőhely kapacitása alapján megállapított maximálisan tartható baromfilétszám darabszámáról, és azt legkésőbb tárgyév április 15-éig – az ügyfél tájékoztatásával egyidejűleg – elektronikus úton továbbítja a Kincstár részére.
 
 (8) A támogatási kérelemben megjelölt állatok vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
 
 (9) A (6) bekezdés b) pontja szerinti igazolásban meghatározott létszámot meghaladó igény nem támogatható.
 
-[^2]: Az 5. § (1) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § b) pontja szerint módosított szöveg.
-[^3]: Az 5. § (2) bekezdés h) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
-[^4]: Az 5. § (6) bekezdés b) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
-[^5]: Az 5. § (7a) bekezdését a 18/2021. (IV. 14.) AM rendelet 21. §-a iktatta be.
+[^3]: Az 5. § (1) bekezdése a 26/2019. (VI. 7.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (2) bekezdés h) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
+[^5]: Az 5. § (6) bekezdés b) pontját a 18/2021. (IV. 14.) AM rendelet 24. §-a hatályon kívül helyezte.
+[^6]: Az 5. § (7a) bekezdését a 18/2021. (IV. 14.) AM rendelet 21. §-a iktatta be.
