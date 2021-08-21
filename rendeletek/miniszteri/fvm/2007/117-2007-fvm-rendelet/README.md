@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-117-20-
 | 2017-08-18 | 2007-117-20-82.9 | 46/2013. (VI. 3.) VM rendelet |
 | 2017-11-07 | 2007-117-20-82.10 | 46/2013. (VI. 3.) VM rendelet |
 | 2020-08-22 | 2007-117-20-82.11 | 42/2020. (VIII. 19.) AM rendelet |
+| 2021-08-21 | 2007-117-20-82.12 | 28/2021. (VIII. 18.) AM rendelet |
