@@ -16,7 +16,7 @@ e) a 2. § (6) bekezdés esetében az 5. mellékletben
 
 meghatározott pontozási rendszer szerint történik. Az értékelést a NAKVI végzi, amely az értékelésről tájékoztatja a Bíráló Bizottságot.
 
-(3)[^5] A NAKVI a 4. § (3) bekezdés a) pontjában, valamint a 4. § (4) bekezdés a) pontjában foglalt feltétel ellenőrzéséhez szükséges adatok beszerzése érdekében a pályázatok beérkezését követő tizenöt naptári napon belül a Kincstár részére továbbítja a pályázó alábbi adatait:
+(3)[^8] A NAKVI a 4. § (3) bekezdés a) pontjában, valamint a 4. § (4) bekezdés a) pontjában foglalt feltétel ellenőrzéséhez szükséges adatok beszerzése érdekében a pályázatok beérkezését követő tizenöt naptári napon belül a Kincstár részére továbbítja a pályázó alábbi adatait:
 
 a) pályázó neve, születési neve,
 
@@ -26,17 +26,17 @@ c) pályázó adószáma, vagy adóazonosító jele,
 
 d) pályázó ügyfél-azonosítója.
 
-(4)[^6] A Kincstár – a pályázó hozzájárulása alapján – a pályázó szabad mezőgazdasági de minimis támogatási keretéről – a (3) bekezdés szerinti adatok kézhezvételétől számított öt naptári napon belül – tájékoztatja a NAKVI-t.
+(4)[^9] A Kincstár – a pályázó hozzájárulása alapján – a pályázó szabad mezőgazdasági de minimis támogatási keretéről – a (3) bekezdés szerinti adatok kézhezvételétől számított öt naptári napon belül – tájékoztatja a NAKVI-t.
 
 (5) A Bíráló Bizottság – a NAKVI (2) bekezdés szerinti értékelése alapján – a pályázatok között rangsort állít fel, és támogatási javaslatot tesz a miniszter részére.
 
 (6) A támogatásra vonatkozó döntést a Bíráló Bizottság javaslata alapján és bevonásával a miniszter hozza meg, és döntéséről értesíti a NAKVI-t.
 
-(7)[^7] A pályázatokat a benyújtási határidő utolsó napját követő százhúsz naptári napon belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak lehetősége van a pályázati tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
+(7)[^10] A pályázatokat a benyújtási határidő utolsó napját követő százhúsz naptári napon belül kell elbírálni. A támogatási döntés az igényeltnél alacsonyabb mértékű támogatás megítélésére is vonatkozhat. Az igényeltnél alacsonyabb mértékű támogatás megítélése esetén – pályázati céltól függően – a pályázónak lehetősége van a pályázati tartalmat az igényelt és az odaítélt támogatás különbségének összegével csökkenteni.
 
 (8) A támogatási döntésről – annak meghozatalát követő tíz naptári napon belül – a NAKVI írásban értesíti a pályázót.
 
-(9)[^8] A nyertes pályázók névsorát, az elnyert támogatás összegét és jogcímének megnevezését a minisztérium a kormányzati portálon, a NAKVI a saját honlapján a döntést követő tíz naptári napon belül közzéteszi, és ezzel egyidejűleg értesítést küld a Kincstár részére az alábbi adattartalommal:
+(9)[^11] A nyertes pályázók névsorát, az elnyert támogatás összegét és jogcímének megnevezését a minisztérium a kormányzati portálon, a NAKVI a saját honlapján a döntést követő tíz naptári napon belül közzéteszi, és ezzel egyidejűleg értesítést küld a Kincstár részére az alábbi adattartalommal:
 
 a) nyertes pályázó neve, születési neve,
 
@@ -50,7 +50,7 @@ e) a támogatási cél vagy célok megnevezése,
 
 f) a nyertes pályázó részére támogatási célonként megítélt támogatás forintban és euróban meghatározott összege.
 
-[^5]: A 8. § (3) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 59. § b) pontja szerint módosított szöveg.
-[^6]: A 8. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 59. § c) pontja szerint módosított szöveg.
-[^7]: A 8. § (7) bekezdése a 113/2013. (XII. 10.) VM rendelet 19. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^8]: A 8. § (9) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 59. § b) pontja szerint módosított szöveg.
+[^8]: A 8. § (3) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 59. § b) pontja szerint módosított szöveg.
+[^9]: A 8. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 59. § c) pontja szerint módosított szöveg.
+[^10]: A 8. § (7) bekezdése a 113/2013. (XII. 10.) VM rendelet 19. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^11]: A 8. § (9) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 59. § b) pontja szerint módosított szöveg.

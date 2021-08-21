@@ -6,6 +6,6 @@
 
 (3) Az egyes célterületeken belül egy pályázó egy célra kizárólag egy pályázatot nyújthat be.
 
-(4)[^4] A NAKVI a formai vagy tartalmi szempontból hiányosan benyújtott pályázatok tekintetében, a pályázatok beérkezését követő negyvenöt naptári napon belül, egy alkalommal, tíz naptári napos határidő kitűzésével hiánypótlásra szólítja fel a pályázót.
+(4)[^7] A NAKVI a formai vagy tartalmi szempontból hiányosan benyújtott pályázatok tekintetében, a pályázatok beérkezését követő negyvenöt naptári napon belül, egy alkalommal, tíz naptári napos határidő kitűzésével hiánypótlásra szólítja fel a pályázót.
 
-[^4]: A 7. § (4) bekezdése a 113/2013. (XII. 10.) VM rendelet 19. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 7. § (4) bekezdése a 113/2013. (XII. 10.) VM rendelet 19. § (1) bekezdés a) pontja szerint módosított szöveg.

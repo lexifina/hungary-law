@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-56-20-2
 | 2017-11-07 | 2013-56-20-2Y.8 | 55/2017. (XI. 6.) FM rendelet |
 | 2018-12-02 | 2013-56-20-2Y.9 | 55/2017. (XI. 6.) FM rendelet |
 | 2019-12-21 | 2013-56-20-2Y.10 | 55/2017. (XI. 6.) FM rendelet |
+| 2021-08-21 | 2013-56-20-2Y.11 | 28/2021. (VIII. 18.) AM rendelet |

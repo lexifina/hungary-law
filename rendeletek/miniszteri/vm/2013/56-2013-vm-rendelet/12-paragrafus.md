@@ -4,7 +4,7 @@
 
 (3) A NAKVI a jogosultságot a nyertes pályázó által benyújtott számlák, bizonylatok és dokumentumok alapján ellenőrzi és dönt a kifizetésről, vagy, ha a nyertes pályázó a részére teljesített előleggel történő elszámolási kötelezettségének – a hiánypótlási felhívás ellenére – nem tett eleget, dönt az intézkedésben való jogosulatlan részvételről.
 
-(4)[^14] Jogosultság megállapítása esetén a NAKVI a hatósági szerződésre hivatkozva – a döntéshozatalt követő nyolc naptári napon belül – kifizetési utasítást küld a Kincstár és a minisztérium részére az alábbi adattartalommal:
+(4)[^17] Jogosultság megállapítása esetén a NAKVI a hatósági szerződésre hivatkozva – a döntéshozatalt követő nyolc naptári napon belül – kifizetési utasítást küld a Kincstár és a minisztérium részére az alábbi adattartalommal:
 
 a) nyertes pályázó neve, születési neve,
 
@@ -26,7 +26,7 @@ h) az összesen megállapított támogatás forintban és euróban meghatározot
 
 (6) A 2. § (4) és (5) bekezdésében meghatározott célra irányuló fejlesztés támogatása esetén a hatósági szerződésbe bele kell foglalni a támogatás összegéről és annak mezőgazdasági de minimis jellegéről szóló tájékoztatást. A hatósági szerződésben utalni kell a mezőgazdasági de minimis rendelet 2. § (8) bekezdésében feltüntetett címére, az Európai Unió Hivatalos Lapjában való kihirdetése napjára, továbbá meg kell határoznia a támogatás összegét támogatástartalomban (euróban) kifejezve.
 
-(7)[^15] A Kincstár a forrás rendelkezésre állása esetén – a Tv. 60. §-ában foglaltakra is figyelemmel – a kifizetési utasítás kézhezvételétől számított tizenöt naptári napon belül, de legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik a támogatásnak a nyertes pályázó Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő átutalásáról.
+(7)[^18] A Kincstár a forrás rendelkezésre állása esetén – a Tv. 60. §-ában foglaltakra is figyelemmel – a kifizetési utasítás kézhezvételétől számított tizenöt naptári napon belül, de legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik a támogatásnak a nyertes pályázó Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő átutalásáról.
 
-[^14]: A 12. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 59. § b) pontja szerint módosított szöveg.
-[^15]: A 12. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 59. § c) pontja szerint módosított szöveg.
+[^17]: A 12. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 59. § b) pontja szerint módosított szöveg.
+[^18]: A 12. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 59. § c) pontja szerint módosított szöveg.

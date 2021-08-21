@@ -16,15 +16,15 @@ f) a 2. § (3) bekezdés e) pont eb) alpontjában meghatározott célra irányul
 
 g) a 2. § (3) bekezdés f) pontjában meghatározott célra irányuló fejlesztés esetén a tanyás térségekben az adott megyében székhellyel, vagy telephellyel rendelkező agrár- és vidékfejlesztési felsőoktatási intézmények, mezőgazdasági és vidékfejlesztési intézetek, valamint kutatóintézetek.
 
-(2) A 2. § (4) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a mezőgazdasági tevékenységet végző őstermelő, egyéni vállalkozó vagy családi gazdálkodó jogosult, aki tanyás települések valamelyikén
+(2)[^3] A 2. § (4) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a mezőgazdasági őstermelő, egyéni vállalkozó vagy őstermelők családi gazdaságának képviselője jogosult, aki tanyás települések valamelyikén
 
-a) e rendelet hatálybalépését megelőző időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, vagy a házastársa, vagy testvére, vagy valamely egyenes ági leszármazottja, vagy egyenes ági felmenője, vagy a családi gazdaság valamely tagjának tulajdonában lévő tanyán, mint lakóhelyén él,
+a)[^4] e rendelet hatálybalépését megelőző időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, vagy a házastársa, vagy testvére, vagy valamely egyenes ági leszármazottja, vagy egyenes ági felmenője, vagy az őstermelők családi gazdasága valamely tagjának tulajdonában lévő tanyán, mint lakóhelyén él,
 
 b) a tanyagazdaságban igazoltan mezőgazdasági tevékenységet folytat, és
 
 c) a 2010., 2011. és 2012. évi összes bevétele átlagának legalább 50%-a mezőgazdasági tevékenységből származott és a 2010., 2011. és 2012. évi mezőgazdasági tevékenységből származó bevételének átlaga nem haladta meg a nettó nyolcmillió forintot.
 
-(3) A 2. § (5) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a tanyán élő magánszemély, őstermelő jogosult, aki tanyás települések valamelyikén
+(3)[^5] A 2. § (5) bekezdésében meghatározott célterületre irányuló fejlesztés esetén pályázat benyújtására az a tanyán élő magánszemély, mezőgazdasági őstermelő jogosult, aki tanyás települések valamelyikén
 
 a) e rendelet hatálybalépését megelőző időponttól kezdve életvitelszerűen – az ingatlan-nyilvántartás szerint – a saját, vagy a házastársa, vagy testvére, vagy valamely egyenes ági leszármazottja, vagy egyenes ági felmenője, vagy a családi gazdaság valamely tagjának tulajdonában lévő tanyán, mint lakóhelyén él, és
 
@@ -36,7 +36,10 @@ a) e rendelet hatálybalépését megelőző időponttól kezdve életvitelszer�
 
 b) az ingatlan-nyilvántartásban feltüntetett tanyai lakóépület villamosenergia-ellátással nem rendelkezik.
 
-(5)[^3] A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
+(5)[^6] A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
 
 [^2]: A 3. § (1) bekezdés e) pontja a 121/2013. (XII. 16.) VM rendelet 32. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 59. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdés nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 13. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés a) pontja a 28/2021. (VIII. 18.) AM rendelet 13. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 13. § c) pontja szerint módosított szöveg.
+[^6]: A 3. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 59. § a) pontja szerint módosított szöveg.
