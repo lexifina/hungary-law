@@ -18,7 +18,7 @@
 
 8. egy és ugyanazon vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 5a. pontja szerinti vállalkozás;
 
-9.[^2] együttműködő termelő: a dohánytermelő olyan közeli hozzátartozója, vagy a dohánytermelővel azonos családi gazdaságban tag természetes személy, akinek a 4. § (3) bekezdés szerinti kötelezettség-megosztásra vonatkozó bejelentését a Magyar Államkincstár (a továbbiakban: Kincstár) jóváhagyta, és az ügyfél-nyilvántartásba vételi kötelezettségének eleget tett;
+9.[^2] együttműködő termelő: a dohánytermelő olyan közeli hozzátartozója, vagy a dohánytermelővel azonos őstermelők családi gazdaságában tag természetes személy, akinek a 4. § (3) bekezdés szerinti kötelezettség-megosztásra vonatkozó bejelentését a Magyar Államkincstár (a továbbiakban: Kincstár) jóváhagyta, és az ügyfél-nyilvántartásba vételi kötelezettségének eleget tett;
 
 10. elismert élőmunka ráfordítás: természetes személy közteher fizetés melletti önfoglalkoztatása, valamint olyan munkavállaló alkalmazása, amely után a közterheket a termelő, munkaerő kölcsönzés vagy egyes munkafolyamatok vállalkozási szerződés keretében történő elvégzése esetében a termelővel kötött megállapodás alapján harmadik személy fizeti meg;
 
@@ -57,6 +57,6 @@ tevékenység végzése;
 24. Virginia dohány szerkezetátalakítási támogatási jogosultság: a dohány szerkezetátalakítási nemzeti programban történő részvétel alapján, a Virginia dohány referenciaterület figyelembevételével megállapított mezőgazdasági vagyoni értékű jog.
 
 [^1]: Az 1. § 7. pontja a 43/2017. (IX. 5.) FM rendelet 10. §-ával megállapított szöveg.
-[^2]: Az 1. § 9. pontja a 88/2016. (XII. 29.) FM rendelet 94. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 9. pontja a 88/2016. (XII. 29.) FM rendelet 94. § a) pontja, a 28/2021. (VIII. 18.) AM rendelet 20. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § 14. pontja a 4/2016. (I. 20.) FM rendelet 26. §-ával megállapított szöveg.
 [^4]: Az 1. § 18. pontja a 10/2020. (IV. 3.) AM rendelet 16. §-ával megállapított szöveg.
