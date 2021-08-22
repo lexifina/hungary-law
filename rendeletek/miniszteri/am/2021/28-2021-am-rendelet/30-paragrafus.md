@@ -1,3 +1,5 @@
-## 29. § A baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 11/2019. (IV. 1.) AM rendelet 3. § nyitó szövegrészében az „a személyi jövedelemadóról szóló 1995. évi CXVII. törvény szerint mezőgazdasági őstermelői igazolvánnyal rendelkező természetes személy – ideértve a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 5. § 5. pontjában meghatározott családi gazdálkodót is –” szövegrész helyébe az „a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő és az őstermelők családi gazdaságának képviselője,” szöveg lép.
+## 29. §[^30]
 
 ## 30. Záró rendelkezések
+
+[^30]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
