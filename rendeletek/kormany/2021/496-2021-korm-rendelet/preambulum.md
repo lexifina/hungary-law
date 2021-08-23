@@ -1,7 +1,0 @@
-A Kormány
-
-a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4a) bekezdésében kapott felhatalmazás alapján,
-
-a 2. § tekintetében a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 21. pontjában kapott felhatalmazás alapján,
-
-az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
