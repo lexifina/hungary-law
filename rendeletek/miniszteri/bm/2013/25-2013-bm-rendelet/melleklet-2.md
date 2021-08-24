@@ -20,11 +20,11 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 4.1. Btk. 175. § – Emberi test tiltott felhasználásának bűntette és vétsége
 
-5.[^61] Btk. XVII. Fejezet – az egészséget veszélyeztető bűncselekmények
+5.[^64] Btk. XVII. Fejezet – az egészséget veszélyeztető bűncselekmények
 
 5.1. Btk. 176. § (2) bekezdés c) pont és Btk. 176. § (4) bekezdés – A Magyar Honvédség, a rendvédelmi szervek vagy a Nemzeti Adó- és Vámhivatal létesítményében elkövetett kábítószer-kereskedelem bűntette, illetve e bűncselekmény elkövetéséhez szükséges anyagi eszközök szolgáltatásával megvalósított kábítószer-kereskedelem bűntette, ha azt jelentős mennyiségű kábítószerre követik el
 
-5.2.[^62]
+5.2.[^65]
 
 5.3. Btk. 178. § (2) bekezdés c) pont és Btk. 178. § (3) bekezdés – Különösen jelentős mennyiségű kábítószerre elkövetett kábítószer birtoklása bűntette, illetve e bűncselekmény elkövetéséhez szükséges anyagi eszközök szolgáltatásával megvalósított kábítószer birtoklása bűntette
 
@@ -70,9 +70,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 10.1. Btk. 282. § (1) és (2) bekezdés, valamint (3) bekezdés a) és b) pont – Bűnpártolás vétsége és bűntette, ha azt az e mellékletben felsorolt bűncselekményekkel összefüggésben követték el
 
-10.2.[^63]
+10.2.[^66]
 
-11.[^64] Btk. XXVII. fejezet – a korrupciós bűncselekmények
+11.[^67] Btk. XXVII. fejezet – a korrupciós bűncselekmények
 
 11.1. Btk. 290. § (2) bekezdés – Vesztegetés bűntette, ha az elkövető az (1) bekezdésben meghatározott bűncselekményt gazdálkodó szervezet részére vagy érdekében tevékenységet végző, önálló intézkedésre jogosult személlyel kapcsolatban követi el, amennyiben annak elkövetője a Btk. 459. § (1) bekezdés 1. pontjában meghatározott bűnszervezet vezetője vagy annak tagja
 
@@ -158,9 +158,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 20.1. Btk. 389. § (2) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű pénzre elkövetett pénzhamisítás bűntette
 
-20.2.[^65] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
+20.2.[^68] Btk. 389. § (3) bekezdés – Pénzhamisítás előkészülete, ha az a KR kizárólagos hatáskörébe tartozó bűncselekmény elkövetésére irányul
 
-20.3.[^66] Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
+20.3.[^69] Btk. 390. § (1) bekezdés – Pénzhamisítás elősegítésének vétsége, ha az a KR kizárólagos hatáskörébe tartozó bűncselekménnyel összefüggésben valósul meg
 
 20.4. Btk. 391. § (3) bekezdés a) pont – Különösen nagy vagy azt meghaladó értékű bélyegre elkövetett bélyeghamisítás bűntette
 
@@ -178,9 +178,9 @@ Az e fejezetben felsorolt valamennyi bűncselekmény nyomozása.
 
 22.3. Btk. 424. § – Közérdekű üzem ellen elkövetett információs rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége, kivéve az RRI hatáskörébe tartozó eseteket
 
-[^61]: A 2. melléklet 5. pontja a 32/2019. (VII. 31.) BM rendelet 4. §-ával megállapított szöveg.
-[^62]: A 2. melléklet 5.2. pontját a 11/2020. (IV. 27.) BM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^63]: A 2. melléklet 10.2. pontját a 21/2018. (VI. 29.) BM rendelet 14. §-a iktatta be, hatályon kívül helyezte a 11/2020. (IV. 27.) BM rendelet 3. § b) pontja.
-[^64]: A 2. melléklet 11. pontja a 21/2018. (VI. 29.) BM rendelet 14. §-ával megállapított szöveg.
-[^65]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
-[^66]: A 2. melléklet 20. pont 20.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^64]: A 2. melléklet 5. pontja a 32/2019. (VII. 31.) BM rendelet 4. §-ával megállapított szöveg.
+[^65]: A 2. melléklet 5.2. pontját a 11/2020. (IV. 27.) BM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^66]: A 2. melléklet 10.2. pontját a 21/2018. (VI. 29.) BM rendelet 14. §-a iktatta be, hatályon kívül helyezte a 11/2020. (IV. 27.) BM rendelet 3. § b) pontja.
+[^67]: A 2. melléklet 11. pontja a 21/2018. (VI. 29.) BM rendelet 14. §-ával megállapított szöveg.
+[^68]: A 2. melléklet 20. pont 20.2. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
+[^69]: A 2. melléklet 20. pont 20.3. alpontja az 52/2015. (IX. 24.) BM rendelet 4. § (2) bekezdés 15. pontja szerint módosított szöveg.
