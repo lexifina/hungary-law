@@ -1,6 +1,6 @@
 ## 13. Az eljárási bírság
 
-30. § (1)[^21] Az Áht. 65. § (2) bekezdés a) pontja szerinti eljárási bírság kiszabása tekintetében a kormányzati ellenőrzéshez kapcsolódó együttműködési, adatszolgáltatási vagy a kormányzati ellenőrzés végrehajtását elősegítő kötelezettség megszegésének minősül, ha a kötelezett
+30. § (1)[^21] Az Áht. 65. § (1) bekezdése szerinti eljárási bírság kiszabása tekintetében a kormányzati ellenőrzéshez kapcsolódó együttműködési, adatszolgáltatási vagy a kormányzati ellenőrzés végrehajtását elősegítő kötelezettség megszegésének minősül, ha a kötelezett
 
 a) az Áht. 64. §-ában és 66. § (2) bekezdésében, vagy
 
@@ -12,4 +12,4 @@ meghatározott kötelezettségének határidőben nem tesz eleget.
 
 (3) Ha a kötelezett a felhívásban foglaltakat a (2) bekezdés szerint meghatározott póthatáridőn belül sem teljesíti, a Hivatal elnöke hivatalból eljárást indíthat az eljárási bírság kiszabása tárgyában.
 
-[^21]: A 30. § (1) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 71. §-a szerint módosított szöveg.
+[^21]: A 30. § (1) bekezdés nyitó szövegrésze a 482/2021. (VIII. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.

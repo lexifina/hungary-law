@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-355-20-
 | 2019-08-02 | 2011-355-20-22.13 | 198/2019. (VIII. 1.) Korm. rendelet |
 | 2019-08-31 | 2011-355-20-22.14 | 214/2019. (VIII. 30.) Korm. rendelet |
 | 2021-01-01 | 2011-355-20-22.15 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2021-08-29 | 2011-355-20-22.16 | 482/2021. (VIII. 13.) Korm. rendelet |
