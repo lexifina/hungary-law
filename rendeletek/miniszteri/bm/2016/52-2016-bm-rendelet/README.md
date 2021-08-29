@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-52-20-0
 | --- | --- | --- |
 | 2017-01-01 | 2016-52-20-0A.1 | 52/2016. (XII. 16.) BM rendelet |
 | 2017-01-02 | 2016-52-20-0A.2 | 2010: CXXX. törvény |
+| 2021-08-29 | 2016-52-20-0A.3 | 29/2021. (VIII. 26.) BM rendelet |

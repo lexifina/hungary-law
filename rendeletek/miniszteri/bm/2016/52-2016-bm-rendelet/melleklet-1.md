@@ -1,5 +1,3 @@
-## 23. §[^1]
-
 1. melléklet az 52/2016. (XII. 16.) BM rendelethez
 
 I. Kegyeleti kiadásként elszámolható költségnormák
@@ -23,5 +21,3 @@ II. A kegyeleti költségnormát nem terhelő kiadások
 2. Gyászközlemény költsége: az igazságügyi szakértői intézmény halottja temetése esetén a sajtóban történő közzétételének számla szerinti összege.
 
 3. A tiszteletadás költségei (ideértve az igazságügyi szakértői intézmény temetéssel összefüggő utazási költségeit).
-
-[^1]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
