@@ -1,4 +1,4 @@
-## 19. §[^18]
+## 19. §[^17]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4. alcím és az 5. melléklet az e rendelet kihirdetését követő 31. napon lép hatályba.
 
-[^18]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
