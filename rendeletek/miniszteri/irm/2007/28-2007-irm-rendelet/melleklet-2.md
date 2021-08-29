@@ -1,4 +1,4 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^23]
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^24]
 
 ## Az egyes eljárások díja
 
@@ -122,13 +122,13 @@ V. A szabad mozgás és tartózkodás jogával rendelkező személyek részére
 
 | 5. Magyar állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
 
-| 6. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiadására irányuló eljárás díja | 1 500 Ft |
+| 6. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiadására irányuló eljárás díja | 15 000 Ft |
 
-| 7. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya meghosszabbítására irányuló eljárás díja | 1 500 Ft |
+| 7. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya meghosszabbítására irányuló eljárás díja | 15 000 Ft |
 
-| 8. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 1 500 Ft |
+| 8. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 15 000 Ft |
 
-| 9. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 1 500 Ft |
+| 9. EGT állampolgár harmadik országbeli családtagja részére tartózkodási kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 15 000 Ft |
 
 | 10. Állandó tartózkodási kártya kiadására irányuló eljárás díja | 1 500 Ft |
 
@@ -136,10 +136,16 @@ V. A szabad mozgás és tartózkodás jogával rendelkező személyek részére
 
 | 12. Állandó tartózkodási kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 1 500 Ft |
 
+| 13. Huzamos tartózkodási kártya kiadására irányuló eljárás díja | 15 000 Ft |
+
+| 14. Huzamos tartózkodási kártya kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 15 000 Ft |
+
+| 15. Huzamos tartózkodási kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 15 000 Ft |
+
 VI. Egyéb igazgatási szolgáltatási díjak
 
 | 1. Meghívólevél hatósági záradékkal történő ellátására irányuló eljárás díja | 4 000 Ft |
 
 | 2. Fellebbezési kérelem díja | 5 500 Ft |
 
-[^23]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a szerint módosított szöveg.
+[^24]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a, a 23/2021. (VII. 29.) BM rendelet 13. §-a szerint módosított szöveg.
