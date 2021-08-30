@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-23-20-0
 | 2021-08-01 | 2021-23-20-0A.1 | 23/2021. (VII. 29.) BM rendelet |
 | 2021-08-02 | 2021-23-20-0A.2 | 2010: CXXX. törvény |
 | 2021-08-29 | 2021-23-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-08-30 | 2021-23-20-0A.4 | 2010: CXXX. törvény |

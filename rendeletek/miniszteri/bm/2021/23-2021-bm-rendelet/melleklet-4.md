@@ -1,3 +1,3 @@
-4. melléklet a 23/2021. (VII. 29.) BM rendelethez[^21]
+4. melléklet a 23/2021. (VII. 29.) BM rendelethez[^24]
 
-[^21]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 12. § A szabad mozgás és tartózkodás jogával rendelkező személyek, valamint a harmadik országbeli állampolgárok beutazásával és tartózkodásával kapcsolatos eljárások díjáról szóló 28/2007. (V. 31.) IRM rendelet a következő 12. §-sal egészül ki:
+## 12. §[^13]
 
-## „12. § E rendelet 2. melléklete az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
