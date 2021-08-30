@@ -1,3 +1,3 @@
-7. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez[^48]
+7. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez[^50]
 
-[^48]: A 7. melléklet a 22. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^50]: A 7. melléklet a 22. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.

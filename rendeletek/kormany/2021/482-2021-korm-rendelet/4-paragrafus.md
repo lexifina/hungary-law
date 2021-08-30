@@ -1,3 +1,3 @@
-## 3. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 62/B. §-a a következő (2a) bekezdéssel egészül ki:
+## 3. §[^3]
 
-## „(2a) Az Áht. 44. § (4) bekezdése szerinti bírság mértéke – a valótlan vagy késedelmesen rögzített adat gyakoriságától és az ezzel okozott kár mértékétől függően – legfeljebb egymillió forint. A bírság összegének megállapításakor a kincstár a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott mérlegelési szempontok figyelembevétele mellett mérlegeli a kötelezettségszegő jogellenes magatartásának súlyát is. A bírság ugyanazon kötelezettség ismételt megszegése esetén ismételten is kiszabható.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
