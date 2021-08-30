@@ -1,4 +1,4 @@
-## 8. §[^7]
+## 8. §[^8]
 
 ## 8. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2–8. § 2021. szeptember 18-án lép hatályba.
 
-[^7]: A 8. § a 9. § (2) bekezdése alapján 2021. szeptember 18-án lép hatályba.
+[^8]: A 8. § a 9. § (2) bekezdése alapján 2021. szeptember 18-án lép hatályba.
