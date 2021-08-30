@@ -1,7 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
 
-1. melléklet a 36/2021. (VII. 29.) ITM rendelethez
+1. melléklet a 36/2021. (VII. 29.) ITM rendelethez[^3]
 
-A GKM rendelet 1. számú melléklet V. fejezet 1. pontja helyébe a következő rendelkezés lép:
-
-„1. Vizsgálóállomás engedélyezésére irányuló eljárás díja 46 900 Ft”
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
