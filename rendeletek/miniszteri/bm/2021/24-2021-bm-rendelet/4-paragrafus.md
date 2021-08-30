@@ -1,3 +1,1 @@
-## 3. §[^5]
-
-[^5]: A 3. § a 14. § (2) bekezdése alapján 2021. augusztus 30-án lép hatályba.
+## 3. § A 15/2001. (VII. 5.) BM rendelet Melléklete a 4. melléklet szerint módosul.
