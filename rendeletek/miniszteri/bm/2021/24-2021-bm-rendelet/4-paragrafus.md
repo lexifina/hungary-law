@@ -1,1 +1,3 @@
-## 3. § A 15/2001. (VII. 5.) BM rendelet Melléklete a 4. melléklet szerint módosul.
+## 3. §[^5]
+
+[^5]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
