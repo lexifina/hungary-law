@@ -144,7 +144,7 @@ c) a Becsületbíróságra és annak működésére, eljárására vonatkozó sz
 
 26. megállapítsa a szolgálati panasz elbírálásának rendjét,
 
-27. megállapítsa a tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, valamint a tisztjelölti szolgálatra vonatkozó rendelkezéseket, valamint a tisztjelölt járandóságra jogosultság feltételeit, fajtáit és mértékét, megállapításának rendjét, folyósításának szabályait,
+27. megállapítsa a tisztjelölti jogviszony létesítésére és megszüntetésére vonatkozó részletes eljárási szabályokat, a tisztjelölti szolgálatra vonatkozó rendelkezéseket, valamint a tisztjelölti ösztöndíjra és a tisztjelölt járandóságra jogosultság feltételeit, fajtáit és mértékét, megállapításának rendjét, folyósításának szabályait,
 
 28. meghatározza a szenior állományba vétel fizikai, pszichológiai és egészségi feltételeit, a szenior állomány tagját megillető ruházati ellátási normát és a felszerelést.
 

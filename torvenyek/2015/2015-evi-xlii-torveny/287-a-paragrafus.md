@@ -2,7 +2,7 @@
 
 287/A. § (1) A tisztjelöltet az e törvényben a hivatásos állomány tagját megillető járandóságok – a (2) bekezdésben megállapított korlátozások figyelembevételével – illetik meg.
 
-(2) Ha a törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a 11. mellékletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, a tanulmányi pótlékból, valamint egyéb pótlékokból áll.
+(2) Ha törvény eltérően nem rendelkezik, a tisztjelölt havonta ösztöndíjra jogosult. Az ösztöndíj a miniszteri rendeletben meghatározottak szerint alapösztöndíjból, alapösztöndíj-kiegészítésből, tanulmányi pótlékból, valamint egyéb pótlékokból áll.
 
 (3) Az ösztöndíj összegét az egyes ösztöndíjelemekre megállapított szorzószámok és a rendvédelmi illetményalap szorzataként kell kiszámolni. Tört időszak esetén az alapösztöndíj, az alapösztöndíj-kiegészítés, a tanulmányi pótlék összegét időarányosan, az adott hónap naptári napjainak figyelembevételével kell meghatározni. Az ösztöndíjra az illetményfolyósítás és a visszatartás szabályait kell megfelelően alkalmazni.
 
