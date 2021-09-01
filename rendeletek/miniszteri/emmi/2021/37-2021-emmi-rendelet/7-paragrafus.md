@@ -1,0 +1,3 @@
+## 6. § Az R1. 49. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Ha a tanuló tartós gyógykezelése az iskolába járást nem teszi lehetővé, a tanuló, kiskorú tanuló esetén a szülő kérelmére az intézmény vezetője engedélyezheti, hogy – tanulói jogviszonyának fenntartása mellett – tanulmányait a fekvőbeteg-ellátás keretében gyógykezelését biztosító egészségügyi intézményben vagy rehabilitációs intézményben biztosított nevelés-oktatás keretében folytassa. Az e bekezdésben foglalt esetekben a tanulóval vendégtanulói jogviszonyt létesítő iskola alatt az egészségügyi intézményben vagy rehabilitációs intézményben nevelést-oktatást biztosító nevelési-oktatási intézményt kell érteni.”

@@ -1,0 +1,3 @@
+## 15. § Az R1. 173. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) Az óvodai fejlesztő programot az intézmény a pedagógiai-szakmai szolgáltatásokról, a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló miniszteri rendeletben erre kijelölt szervezet szakmai támogatásával szervezi meg. E szakmai szolgáltatás kiterjed az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény 31. §-a szerinti helyi esélyegyenlőségi program és a köznevelési esélyegyenlőségi intézkedési terv céljai összhangjának támogatására is. A szervezet az óvodai fejlesztő program vonatkozásában a 172. § (2) bekezdésében foglaltak szerint nyújt szakmai támogatást.”
