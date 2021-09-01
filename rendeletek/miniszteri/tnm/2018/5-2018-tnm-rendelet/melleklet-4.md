@@ -1,6 +1,8 @@
-4. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^12]
+## P. H.
 
-## Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás beszámoló (zsidótemetők fenntartása, felújítása)
+4. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^13]
+
+Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás beszámoló (zsidótemetők fenntartása, felújítása)
 
 1. Az egyház megnevezése:
 
@@ -34,6 +36,4 @@ Kelt ....................................................................
 
 | az egyház neve | képviselő aláírása |
 
-P. H.
-
-[^12]: A 4. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés c) pontjával megállapított szöveg.
+[^13]: A 4. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés c) pontjával megállapított szöveg.

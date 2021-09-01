@@ -1,6 +1,8 @@
-5. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^14]
+## P. H.
 
-## Külhonban szolgálatot teljesítő egyházi személyek támogatása – támogatásra vonatkozó kérelem adattartalma
+5. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^15]
+
+Külhonban szolgálatot teljesítő egyházi személyek támogatása – támogatásra vonatkozó kérelem adattartalma
 
 1. Egyházmegye/egyházkerület megnevezése:
 
@@ -32,4 +34,4 @@ támogatást igénylő egyházi szervezet képviselőjének aláírása
 
 P. H.
 
-[^14]: Az 5. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés e) pontjával megállapított szöveg.
+[^15]: Az 5. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés e) pontjával megállapított szöveg.

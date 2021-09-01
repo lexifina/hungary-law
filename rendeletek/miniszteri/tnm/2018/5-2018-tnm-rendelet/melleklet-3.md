@@ -1,6 +1,6 @@
-3. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^11]
+3. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^12]
 
-## Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás beszámolója
+Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás beszámolója
 
 1. A kedvezményezett megnevezése:
 
@@ -50,6 +50,4 @@ Kelt ....................................................................
 
 | az egyház neve | képviselő aláírása |
 
-P. H.
-
-[^11]: A 3. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.
+[^12]: A 3. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés b) pontjával megállapított szöveg.

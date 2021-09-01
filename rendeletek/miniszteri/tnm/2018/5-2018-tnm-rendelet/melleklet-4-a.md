@@ -1,6 +1,8 @@
-4/A. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^13]
+## P. H.
 
-## Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás beszámoló (a jelentős zsidó múlttal rendelkező magyarországi vidéki és külhoni települések zsidó kulturális életének reorganizációja)
+4/A. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^14]
+
+Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka támogatás beszámoló (a jelentős zsidó múlttal rendelkező magyarországi vidéki és külhoni települések zsidó kulturális életének reorganizációja)
 
 1. Az egyház megnevezése:
 
@@ -34,6 +36,4 @@ Kelt ....................................................................
 
 | az egyház neve | képviselő aláírása |
 
-P. H.
-
-[^13]: A 4/A. mellékletet a 2/2020. (III. 25.) TNM rendelet 2. §-a iktatta be, szövege a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés d) pontjával megállapított szöveg.
+[^14]: A 4/A. mellékletet a 2/2020. (III. 25.) TNM rendelet 2. §-a iktatta be, szövege a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés d) pontjával megállapított szöveg.

@@ -1,6 +1,8 @@
-9. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^19]
+## P. H.
 
-## A külhoni és diaszpórában élő magyarság hitéleti tevékenységének támogatására vonatkozó kérelem adattartalma
+9. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^20]
+
+A külhoni és diaszpórában élő magyarság hitéleti tevékenységének támogatására vonatkozó kérelem adattartalma
 
 1. Az egyház megnevezése:
 
@@ -34,6 +36,4 @@ Kelt ....................................................................
 
 | az egyház neve | képviselő aláírása |
 
-P. H.
-
-[^19]: A 9. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés h) pontjával megállapított szöveg.
+[^20]: A 9. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés h) pontjával megállapított szöveg.

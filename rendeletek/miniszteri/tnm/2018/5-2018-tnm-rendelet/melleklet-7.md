@@ -66,7 +66,7 @@
 
 7. melléklet az 5/2018. (XII. 21.) TNM rendelethez
 
-## A kórházlelkészi szolgálat támogatására vonatkozó kérelem adattartalma
+A kórházlelkészi szolgálat támogatására vonatkozó kérelem adattartalma
 
 1. Az egyház megnevezése:
 

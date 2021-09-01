@@ -1,6 +1,6 @@
-2. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^10]
+2. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^11]
 
-## A hittanoktatás támogatásához kapcsolódó adatszolgáltatás és elszámolás adattartalma
+A fakultatív hittanoktatás támogatásához kapcsolódó adatszolgáltatás és elszámolás adattartalma
 
 1. Mely időszakra vonatkozik az adatszolgáltatás/beszámoló:
 
@@ -28,22 +28,52 @@ Ebből
 
 6.3.1. ebből egyházi személyek száma:
 
-7. Hittanoktatásban részt vevők száma (teljes létszám):
+7. Fakultatív hittanoktatásban részt vevők száma (teljes létszám):
 
-8. Hittancsoportok száma összesen:
+Ebből
 
-ebből a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet szerinti átlaglétszám alapján figyelembe vehető csoportszám (legfeljebb a 8. pontban megadott csoportszám):
+7.1. a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet (a továbbiakban: Vhr.) 28. § (1) bekezdés b) pont ba) alpontja szerint, amelyből
+
+7.1.1. óvodai fakultatív hittanoktatásban részt vevők száma:
+
+7.1.2. iskolán kívüli fakultatív hittanoktatásban részt vevők száma:
+
+7.1.3. iskolai fakultatív hittanoktatásban részt vevők száma:
+
+7.2. a Vhr. 28. § (1) bekezdés b) pont bb) alpontja szerint
+
+7.2.1. iskolai fakultatív hittanoktatásban részt vevők száma:
+
+(A 7.1. és a 7.2. alpontban megadott létszámok összege legfeljebb a 7. pontban megadott létszám lehet.)
+
+8. Fakultatív hittancsoportok száma összesen:
+
+Ebből
+
+8.1. a Vhr. 28. § (1) bekezdés b) pont ba) alpontja szerinti átlaglétszám alapján figyelembe vehető csoportszám, amelyből
+
+8.1.1. óvodai fakultatív hittancsoportok száma:
+
+8.1.2. iskolán kívüli fakultatív hittancsoportok száma:
+
+8.1.3. iskolai fakultatív hittancsoportok száma:
+
+8.2. a Vhr. 28. § (1) bekezdés b) pont bb) alpontja szerinti átlaglétszám alapján figyelembe vehető csoportszám:
+
+8.2.1. iskolai fakultatív hittancsoportok száma:
+
+(A 8.1. és a 8.2. alpontban megadott csoportszámok összege legfeljebb a 8. pontban megadott csoportszám lehet.)
 
 Kijelentem, hogy a fenti adatok a valóságnak megfelelnek.
 
 Tudomásul veszem, hogy a támogató a megvalósulást ellenőrizheti.
 
-Kelt ....................................................................
+Kelt: …………………………………
 
-| ................................................................... | .................................................................... |
+……………………………………… ………………………………………
 
-| az egyház neve | képviselő aláírása |
+az egyház neve képviselő aláírása
 
 P. H.
 
-[^10]: A 2. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés a) pontjával megállapított szöveg.
+[^11]: A 2. melléklet az 1/2021. (VIII. 31.) TNM rendelet 2. §-ával megállapított szöveg.

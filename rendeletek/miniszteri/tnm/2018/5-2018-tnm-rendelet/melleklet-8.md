@@ -1,6 +1,6 @@
-8. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^18]
+8. melléklet az 5/2018. (XII. 21.) TNM rendelethez[^19]
 
-## A kórházlelkész szolgálat támogatásának felhasználásáról szóló beszámoló adattartalma
+A kórházlelkész szolgálat támogatásának felhasználásáról szóló beszámoló adattartalma
 
 1. Az egyház megnevezése:
 
@@ -44,6 +44,4 @@ Kelt ....................................................................
 
 | az egyház neve | képviselő aláírása |
 
-P. H.
-
-[^18]: A 8. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés g) pontjával megállapított szöveg.
+[^19]: A 8. melléklet a 4/2020. (XII. 28.) TNM rendelet 6. § (1) bekezdés g) pontjával megállapított szöveg.
