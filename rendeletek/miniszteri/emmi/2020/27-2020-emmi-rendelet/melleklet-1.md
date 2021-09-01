@@ -1,6 +1,6 @@
 ## 14. § Ez a rendelet 2022. június 1-jén hatályát veszti.
 
-1. melléklet a 27/2020. (VIII. 11.) EMMI rendelethez[^2]
+1. melléklet a 27/2020. (VIII. 11.) EMMI rendelethez[^3]
 
 ## Érettségi vizsgaidőszakok, vizsganapok
 
@@ -122,4 +122,4 @@
 
 | 3. | – | szóbeli vizsgák | 2021. június 14–25. |
 
-[^2]: Az 1. melléklet a 13/2021. (III. 24.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 13/2021. (III. 24.) EMMI rendelet 1. §-a szerint módosított szöveg.
