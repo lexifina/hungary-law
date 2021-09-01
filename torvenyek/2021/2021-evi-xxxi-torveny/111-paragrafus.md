@@ -6,4 +6,4 @@ b)
 
 c)
 
-d)
+d) 11. melléklete.
