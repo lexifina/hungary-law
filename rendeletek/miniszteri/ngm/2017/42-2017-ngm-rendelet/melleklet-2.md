@@ -2,27 +2,27 @@
 
 |  | A | B | C | D |
 
-| 1. | Végezhető tevékenység | Végzettség | Szakképesítés | Gyakorlati idő |
+| 1. | Végezhető tevékenység | Végzettség, képesítés | Kiegészítő szakma, képesítés | Gyakorlati idő a kiegészítő szakma, képesítés tekintetében |
 
-| 2. | Csatlakozó- és fogyasztói vezetékek létesítése, felhagyása, üzembe helyezése, karbantartása, üzemzavar elhárítása, gázfogyasztó készülékek és gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok létesítése, felhagyása | – gázvezeték- és készülékszerelő mestervizsga, – gázfogyasztóberendezés- és csőhálózat-szerelő mestervizsga, – központifűtés- és gázhálózat rendszerszerelő mestervizsga, – épületgépész technikus szakképesítés vagy – gázipari technikus szakképesítés | – | – |
+| 2. | Csatlakozó- és fogyasztói vezetékek létesítése, felhagyása, üzembe helyezése, karbantartása, üzemzavar elhárítása, gázfogyasztó készülékek és gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok létesítése, felhagyása | – gázvezeték- és készülékszerelő mestervizsga, – gázfogyasztóberendezés- és csőhálózat szerelő mestervizsga, – központifűtés- és gázhálózat rendszerszerelő mestervizsga, – épületgépész technikus vagy – gázipari technikus | – | – |
 
-| 3. | – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök vagy – gázszolgáltatói szaküzemmérnök, | központifűtés- és gázhálózat- rendszerszerelő szakképesítés | 3 |
+| 3. | – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök vagy – gázszolgáltatói szaküzemmérnök | központifűtés- és gázhálózat- rendszerszerelő | a kiegészítő képesítés megszerzésétől számított 3 év |
 
-| 4. | Gázfogyasztó készülékek és gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok létesítése, felhagyása üzembe helyezése, karbantartása, üzemzavar elhárítása, | – gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga, – gáz- és tüzeléstechnikai műszerész mestervizsga, – gázvezeték- és készülékszerelő mestervizsga, – gázfogyasztóberendezés- és csőhálózat-szerelő mestervizsga, – épületgépész technikus szakképesítés vagy – gázipari technikus szakképesítés | – | – |
+| 4. | Gázfogyasztó készülékek és gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok létesítése, felhagyása üzembe helyezése, karbantartása, üzemzavar elhárítása | – gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga, – gáz- és tüzeléstechnikai műszerész mestervizsga, – gázvezeték- és készülékszerelő mestervizsga, – gázfogyasztóberendezés- és csőhálózat szerelő mestervizsga, – épületgépész technikus vagy – gázipari technikus | – | – |
 
-| 5. | – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök, – gázszolgáltatói szaküzemmérnök | gáz- és hőtermelő- berendezés szerelő szakképesítés | 3 |
+| 5. | – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök, – gázszolgáltatói szaküzemmérnök | gáz- és hőtermelő- berendezés szerelő vagy központifűtés- és gázhálózat- rendszerszerelő | a kiegészítő képesítés megszerzésétől számított 3 év |
 
-| 6. | Csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata (a felhasználói berendezés tartozékát képező gázfelhasználó technológia együttes hőterhelése legfeljebb 70 kW) | – gázvezeték- és készülékszerelő mestervizsga, – gázfogyasztóberendezés- és csőhálózat-szerelő mestervizsga, – gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga, – gáz- és tüzeléstechnikai műszerész mestervizsga | gázipari műszaki- biztonsági felülvizsgáló szakképesítés | – |
+| 6. | Csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata (a felhasználói berendezés tartozékát képező gázfelhasználó technológia együttes hőterhelése legfeljebb 70 kW) | – gázvezeték- és készülékszerelő mestervizsga, – gázfogyasztóberendezés- és csőhálózat szerelő mestervizsga, – gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga, – gáz- és tüzeléstechnikai műszerész mestervizsga | gázipari műszaki- biztonsági felülvizsgáló képesítés | – |
 
-| – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök, – gázipari szaküzemmérnök, – épületgépész technikus, – gázipari technikus | gázipari műszaki- biztonsági felülvizsgáló szakképesítés | – |
-
-| 7. |
+| 7. | – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök, – gázipari szaküzemmérnök, – épületgépész technikus, – gázipari technikus | gázipari műszaki- biztonsági felülvizsgáló képesítés | – |
 
 | 8. | a Magyar Mérnöki Kamara közhiteles nyilvántartásában szereplő – G-építmények gépészeti tervezése szakterület – tervező vagy – SZÉS 3 Szakági építésügyi műszaki szakértői szakterület építmények gépészeti szakértői részszakterület – szakértő | – |
 
-| 9. | Csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata (a felhasználói berendezés tartozékát képező gázfelhasználó technológia együttes hőterhelése nagyobb, mint 70 kW) | – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök, – gázipari szaküzemmérnök, – épületgépész technikus, – gázipari technikus | gázipari műszaki- biztonsági felülvizsgáló szakképesítés | 3 |
+| 9. | Csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata (a felhasználói berendezés tartozékát képező gázfelhasználó technológia együttes hőterhelése nagyobb, mint 70 kW) | – épületgépész mérnök, – gázipari mérnök, – gépészmérnök, – gázipari szakmérnök, – épületgépész üzemmérnök, – gázipari szaküzemmérnök, – épületgépész technikus, – gázipari technikus | gázipari műszaki- biztonsági felülvizsgáló képesítés | a kiegészítő képesítés megszerzésétől számított 3 év |
 
 | 10. | a Magyar Mérnöki Kamara közhiteles nyilvántartásában szereplő – G-építmények gépészeti tervezése szakterület – tervező vagy – SZÉS 3 Szakági építésügyi műszaki szakértői szakterület építmények gépészeti szakértői részszakterület – szakértő | – |
+
+| 11. | – gázvezeték- és készülékszerelő mestervizsga, – gázfogyasztóberendezés- és csőhálózat-szerelő mestervizsga, – gáz- és olajtüzelőberendezés-szerelő, üzembe helyező mestervizsga, – gáz- és tüzeléstechnikai műszerész mestervizsga | gázipari műszaki- biztonsági felülvizsgáló képesítés | a kiegészítő képesítés megszerzésétől számított 10 év |
 
 2. melléklet a 42/2017. (XII. 11.) NGM rendelethez
 
@@ -56,11 +56,11 @@
 
 6. A díjfizető adószáma vagy adóazonosító jele
 
-7.[^6] A bejelentő nyilatkozata arról, hogy az értesítési címének a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
+7.[^9] A bejelentő nyilatkozata arról, hogy az értesítési címének a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
 
-8.[^7] A bejelentő nyilatkozata arról, hogy a telefonszámának, elektronikus levélcímének, faxszámának a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
+8.[^10] A bejelentő nyilatkozata arról, hogy a telefonszámának, elektronikus levélcímének, faxszámának a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
 
-9. Csatlakozóvezeték és felhasználói berendezés műszaki biztonsági felülvizsgálata esetében a bejelentő nyilatkozata arról, hogy végzi-e olyan felhasználói berendezés tartozékát képező gázfelhasználó technológia [11/2013. (III. 21.) NGM rendelet 2. § 2. pont] műszaki biztonsági felülvizsgálatát, amelynek együttes hőterhelése nagyobb, mint 70 kW
+9.[^11]
 
 10. Képesítés megjelölése
 
@@ -136,5 +136,6 @@
 
 14. A legalább 10 óra személyes jelenléti továbbképzés teljesítését igazoló okirat
 
-[^6]: A 2. melléklet 7. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
-[^7]: A 2. melléklet 8. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet 7. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet 8. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet 9. pontját a 34/2021. (VII. 26.) ITM rendelet 12. § c) pontja hatályon kívül helyezte.

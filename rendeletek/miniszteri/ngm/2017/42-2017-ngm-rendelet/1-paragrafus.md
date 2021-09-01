@@ -2,6 +2,8 @@
 
 (2) Az 1. mellékletben meghatározott tevékenységet (a továbbiakban: gázszerelői tevékenység) az a személy (a továbbiakban: gázszerelő) végezheti, aki rendelkezik
 
-a) az 1. mellékletben meghatározott képesítéssel, vagy más azzal egyenértékű, a nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló 27/2012. (VIII. 27.) NGM rendeletben meghatározott képesítéssel, és
+a)[^1] az 1. mellékletben meghatározott képesítéssel, vagy más, a szakmai kompetenciák tekintetében azzal egyenértékű képesítéssel, és
 
 b) az 1. mellékletben meghatározott gyakorlati idővel.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 34/2021. (VII. 26.) ITM rendelet 10. § (1) bekezdése szerint módosított szöveg.
