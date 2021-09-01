@@ -2,7 +2,7 @@
 
 (2) Az önkéntes segítők, kortárssegítők közreműködésével vagy együttes részvételével működtetett ellátásokban az önkéntesek felkészítéséről, folyamatos szakmai segítéséről és szupervíziójáról a programot működtető felsőfokú szociális alapvégzettséggel vagy mentálhigiénés végzettséggel rendelkező szakember, szupervízió esetén szupervízor útján gondoskodik.
 
-(3)[^155] Az alternatív napközbeni ellátások közegészségügyi követelményei tekintetében a bölcsődei módszertani szervezet szakmai iránymutatásában foglaltakat kell alkalmazni. A bölcsődei módszertani szervezet a szakmai iránymutatást a honlapján közzéteszi, és gondoskodik annak folyamatos frissítéséről.
+(3)[^158] Az alternatív napközbeni ellátások közegészségügyi követelményei tekintetében a bölcsődei módszertani szervezet szakmai iránymutatásában foglaltakat kell alkalmazni. A bölcsődei módszertani szervezet a szakmai iránymutatást a honlapján közzéteszi, és gondoskodik annak folyamatos frissítéséről.
 
 (4) Nem tartozik az alternatív napközbeni ellátások közé
 
@@ -10,4 +10,4 @@ a) azon intézmények által biztosított ellátás, amelyeknek kötelező alapf
 
 b) elnevezésétől függetlenül az az időszakos gyermekfelügyelet, amelyhez nem kapcsolódik gyermekjóléti, gyermekvédelmi tevékenység, így különösen amelyet a kereskedelmi, vendéglátó-ipari üzletben vagy kulturális intézményben biztosítanak a szülő tehermentesítése érdekében.
 
-[^155]: Az 51/S. § (3) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^158]: Az 51/S. § (3) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.

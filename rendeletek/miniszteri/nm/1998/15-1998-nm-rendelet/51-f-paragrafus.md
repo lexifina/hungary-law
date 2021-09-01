@@ -4,21 +4,28 @@
 
 (2) A családi bölcsődében, ha
 
-a)[^142] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb négy gyermek,
+a)[^144] egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb négy gyermek,
 
-b)[^143] kizárólag sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb két gyermek
+b)[^145] kizárólag sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb két gyermek
 
 nevelhető, gondozható.
 
-(3) A családi bölcsődében, ha a bölcsődei szolgáltatást nyújtó személy mellett segítő személyt is alkalmaznak,
+(3)[^146] A családi bölcsődében, ha a bölcsődei szolgáltatást nyújtó személy mellett segítő személyt is alkalmaznak, és
 
-a) az (1) bekezdésben meghatározott létszámon felül még két gyermek,
+a) sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket nem látnak el, legfeljebb nyolc gyermek,
 
-b) a (2) bekezdésben meghatározott létszámokon felül még egy-egy gyermek
+b) egy sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb hét gyermek,
+
+c) két sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb hat gyermek,
+
+d) három sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb öt gyermek,
+
+e) kizárólag sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermeket látnak el, legfeljebb négy gyermek
 
 nevelhető, gondozható.
 
 (4) A bölcsődei szolgáltatást nyújtó személy melletti segítő tevékenységet szociális gondozói díjban részesülő személy, illetve munkaviszonyban vagy más foglalkoztatásra irányuló jogviszonyban foglalkoztatott személy is elláthatja általános teljes napi munkaidőben vagy részmunkaidőben.
 
-[^142]: Az 51/F. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § f) pontja szerint módosított szöveg.
-[^143]: Az 51/F. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^144]: Az 51/F. § (2) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § f) pontja szerint módosított szöveg.
+[^145]: Az 51/F. § (2) bekezdés b) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^146]: Az 51/F. § (3) bekezdése a 6/2021. (VII. 19.) CSTNM rendelet 2. §-ával megállapított szöveg.

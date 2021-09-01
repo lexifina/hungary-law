@@ -1,4 +1,4 @@
-## 39. § A bölcsődei ellátást nyújtó intézményben, szolgáltatónál a bölcsődei csoportszoba hasznos alapterülete gyermekenként legalább három négyzetméter.
+## 39. §[^122] A bölcsődei ellátást nyújtó intézményben, szolgáltatónál a bölcsődei csoportszoba bútorzat nélküli hasznos alapterülete gyermekenként legalább három négyzetméter.
 
 40. § (1) A Gyvt. 42. § (4) bekezdése szerinti szolgáltatások biztosítása nem veszélyeztetheti a bölcsődei ellátás keretében kötelezően nyújtandó, a Gyvt. 42. § (1) bekezdésében foglalt ellátás biztosítását. A Gyvt. 42. § (4) bekezdése szerinti szolgáltatásokért külön térítési díj kérhető.
 
@@ -11,3 +11,5 @@
 a) a bölcsődei ellátást nyújtó bölcsődei csoporton kívül önálló csoportban, vagy
 
 b) a bölcsődei ellátást nyújtó bölcsődei csoportban, de nem a bölcsődei ellátás nyújtásával azonos időben.
+
+[^122]: A 39. § a 6/2021. (VII. 19.) CSTNM rendelet 5. §-a szerint módosított szöveg.

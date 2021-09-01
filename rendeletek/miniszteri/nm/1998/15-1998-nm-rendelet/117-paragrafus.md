@@ -1,6 +1,6 @@
-117. §[^324] (1) A gyermekotthon legfeljebb 3 napra átmeneti gondozásra befogadja azt az ellátást kérő gyermeket, aki lakóhelyéről önkényesen eltávozott, vagy szülője, gondozója elhagyta, és emiatt ellátás és felügyelet nélkül maradt. A befogadott gyermek számára ideiglenes gondozást kell biztosítani.
+117. §[^327] (1) A gyermekotthon legfeljebb 3 napra átmeneti gondozásra befogadja azt az ellátást kérő gyermeket, aki lakóhelyéről önkényesen eltávozott, vagy szülője, gondozója elhagyta, és emiatt ellátás és felügyelet nélkül maradt. A befogadott gyermek számára ideiglenes gondozást kell biztosítani.
 
-(2)[^325] A gyermekotthon a befogadásról értesíti a gyermek szülőjének lakóhelye szerint illetékes család- és gyermekjóléti központot, valamint a gondozási napok nyilvántartása érdekében a szakszolgálatot.
+(2)[^328] A gyermekotthon a befogadásról értesíti a gyermek szülőjének lakóhelye szerint illetékes család- és gyermekjóléti központot, valamint a gondozási napok nyilvántartása érdekében a szakszolgálatot.
 
-[^324]: A 117. § a 46/2003. (VIII. 8.) ESZCSM rendelet 67. §-ával megállapított szöveg.
-[^325]: A 117. § (2) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.
+[^327]: A 117. § a 46/2003. (VIII. 8.) ESZCSM rendelet 67. §-ával megállapított szöveg.
+[^328]: A 117. § (2) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § i) pontja szerint módosított szöveg.

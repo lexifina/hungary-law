@@ -26,9 +26,20 @@ nevelhet, gondozhat.
 
 (6)[^117] Ha a bölcsődei nevelési év közben állapítják meg a gyermek sajátos nevelési igényét, illetve korai fejlesztésre és gondozásra jogosultságát, a bölcsődei ellátás egyes formáinál az e rendeletben meghatározott sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermekek ellátására vonatkozó csoportlétszám legfeljebb a bölcsődei nevelési év végéig túlléphető.
 
+(7)[^118] Több csoporttal működtetni kívánt bölcsőde, mini bölcsőde és munkahelyi bölcsőde esetén
+
+a) a működés szolgáltatói nyilvántartásba bejegyzett kezdő időpontjában az egy csoporttal működő szolgáltatóra, intézményre előírt létszámfeltételeket kell teljesíteni,
+
+b) az a) pontban foglaltakon túli létszámfeltételeket valamennyi munkakörre vonatkozóan – a működés szolgáltatói nyilvántartásba bejegyzett kezdő időpontját követő egy évig – a működő csoportok számától függően kell teljesíteni,
+
+c) az összes előírt létszámfeltételt – a működő csoportok számától függetlenül – a működés szolgáltatói nyilvántartásba bejegyzett kezdő időpontját követő egy év elteltével kell teljesíteni, és
+
+d) az összes előírt létszámfeltétel teljesítését öt napon belül be kell jelenteni a működést engedélyező szervnek.
+
 [^112]: A 35. § (1) bekezdés nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^113]: A 35. § (2) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) pontja és 7. §-a szerint módosított szöveg.
 [^114]: A 35. § (3) bekezdés nyitó szövegrésze a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
 [^115]: A 35. § (3) bekezdés a) pontja a 19/2017. (IX. 18.) EMMI rendelet 6. § d) pontja szerint módosított szöveg.
 [^116]: A 35. § (5) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § c) pontja szerint módosított szöveg.
 [^117]: A 35. § (6) bekezdése a 19/2017. (IX. 18.) EMMI rendelet 6. § b) és e) pontja szerint módosított szöveg.
+[^118]: A 35. § (7) bekezdését a 6/2021. (VII. 19.) CSTNM rendelet 1. §-a iktatta be.
