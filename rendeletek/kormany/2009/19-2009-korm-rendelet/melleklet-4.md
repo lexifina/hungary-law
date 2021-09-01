@@ -460,6 +460,10 @@ b) a fogyasztói kapcsolattartás szervezetének és működésének rendje.
 
 3. Az üzletszabályzattól – mint általános szerződési feltételrendszertől – történő eltérés lehetőségei, egyedi feltételek kialakításának lehetősége. Egyedi feltételek alkalmazása esetén az engedélyes köteles az egyedi feltételeket nyilvánosságra hozni, és azokat minden, a feltételeket teljesítő szerződő fél részére biztosítani. E rendelkezést az üzletszabályzatban fel kell tüntetni, a nyilvánosságra hozatal helyének megjelölésével együtt.
 
+4. Általános biztonsági előírások:
+
+a) fogyasztók és rendszerhasználók biztonságos ellátására vonatkozó garanciák és az ellátást biztosító rendelkezések,
+
 [^643]: A Vhr. 4. mellékletének „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
 [^644]: A Vhr. 4. számú melléklet „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” alcím 5. pontja a 401/2020. (VIII. 17.) Korm. rendelet 29. § 21. pontja szerint módosított szöveg.
 [^645]: A Vhr. 4. mellékletének „Az üzletszabályzatokkal kapcsolatos egyeztetések dokumentálása” alcíme a 275/2017. (IX. 21.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
