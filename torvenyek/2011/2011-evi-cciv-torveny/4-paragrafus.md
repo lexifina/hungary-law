@@ -20,7 +20,7 @@ alapíthat.
 
 (3) Költségvetési szervként működik a felsőoktatási intézmény, ha az (1) bekezdés a) pontjában meghatározottak tartják fenn. Az (1) bekezdés a) pontjában felsoroltak közösen, illetve az (1) bekezdés b–d) pontjában meghatározottak közösen is gyakorolhatják a fenntartói jogokat.
 
-(4) Az állam nevében a fenntartói jogokat – ha törvény másként nem rendelkezik – az oktatásért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter a fenntartói jogot megállapodással a tudománypolitika koordinációjáért felelős miniszterre ruházhatja.
+(4) Az állam nevében a fenntartói jogokat – ha törvény másként nem rendelkezik – a miniszter gyakorolja. A miniszter a fenntartói jogot megállapodással a tudománypolitika koordinációjáért felelős miniszterre ruházhatja.
 
 (5) A (2a) és (2b) bekezdés szerinti esetben
 

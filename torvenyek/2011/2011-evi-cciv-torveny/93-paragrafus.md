@@ -6,7 +6,7 @@
 
 (3) Ahol e törvény munkaviszonyt említ, azon egyházi felsőoktatási intézmények esetén az egyházi személy jogviszonyt is érteni kell.
 
-(4) A miniszter az alap- és mesterképzés, valamint a felsőoktatási szakképzés képzési és kimeneti követelményeinek szabályozásánál a hitéleti képzés tekintetében az egyházi fenntartó kezdeményezésére szabályoz. A hitéleti képzés szakjait, felsőoktatási szakképzéseit a képzési és kimeneti követelményekről szóló jogszabály tartalmazza.
+(4) Az alap- és mesterképzés, valamint a felsőoktatási szakképzés képzési és kimeneti követelményeinek közzétételére a hitéleti képzés tekintetében az egyházi fenntartó kezdeményezésére kerül sor.
 
 (5) Az egyházi fenntartó kezdeményezésére a MAB-on belül hittudományi kérdésekkel foglalkozó bizottságot kell működtetni.
 

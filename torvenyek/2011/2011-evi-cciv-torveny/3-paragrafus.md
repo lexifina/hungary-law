@@ -6,7 +6,7 @@ b) a mesterképzés,
 
 c) a doktori képzés.
 
-(2) Az alap- és mesterképzést egymásra épülő ciklusokban, osztott képzésként, vagy jogszabályban meghatározott esetben osztatlan képzésként lehet megszervezni. A ciklusokra bontott, osztott és az osztatlan képzések szerkezetét a Kormány határozza meg.
+(2) Az alap- és mesterképzést egymásra épülő ciklusokban, osztott képzésként, vagy jogszabályban meghatározott esetben osztatlan képzésként lehet megszervezni. A ciklusokra bontott, osztott és az osztatlan képzések szerkezetét az oktatásért felelős miniszter (a továbbiakban: miniszter) határozza meg.
 
 (3) A felsőoktatás keretében – az (1) bekezdésben foglaltak mellett – felsőfokú végzettségi szintet nem biztosító képzésként
 

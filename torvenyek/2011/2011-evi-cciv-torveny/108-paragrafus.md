@@ -56,7 +56,7 @@ b) a doktori képzés tervét
 
 tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, illetve az oktatási programmal és a tantárgyi programokkal, valamint az értékelési és ellenőrzési módszerekkel, eljárásokkal és szabályokkal együtt;
 
-20. képzési terület: azoknak a szakoknak kormányrendeletben meghatározott összessége, amelyek hasonló vagy részben megegyező képzési tartalommal rendelkeznek;
+20. képzési terület: azoknak a szakoknak miniszter rendeletében meghatározott összessége, amelyek hasonló vagy részben megegyező képzési tartalommal rendelkeznek;
 
 21. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, magyar állami (rész)ösztöndíjjal támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzetiségi képzés;
 

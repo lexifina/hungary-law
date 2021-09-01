@@ -4,21 +4,17 @@
 
 1. a szakirányú továbbképzés szervezésének általános feltételeit,
 
-2. a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét,
+2. a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait és szakirányait, választható egyenrangú szakpárjait és szakirányait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
 
 3. a felsőoktatási intézmény, valamint a közösségi felsőoktatási képzési központ minimális létesítési és működési feltételeit, az alapítással kapcsolatos eljárás rendjét, a gyakorló köznevelési intézmény, a nem Magyarország területén folytatott székhelyen kívüli képzés létesítésének feltételeit, a konzisztórium tagjaira való javaslattétel rendjét,
 
-4. a képesítési keretet, a doktori képzés szabályait,
-
-a) az alap- és mesterképzés képzési területeit, szakjait, valamint a létesítéssel és indítással összefüggő eljárási rendet,
-
-b) a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
+4. a doktori képzés szabályait, a doktori iskola létesítésének eljárási rendjét és feltételeit, a doktori iskola tagságára és szervezetére, a doktori tanács számára biztosított hatáskörre, a doktori tézisek, a doktori értekezés nyilvánosságára, a doktori fokozatszerzési eljárásra vonatkozó általános szabályokat, a doktori fokozat megszerzésének feltételeit,
 
 5. az államilag elismert nyelvvizsgáztatás rendszerét, ezen belül az Európa Tanács Közös Európai Referenciakeretében ajánlott hatfokozatú nyelvvizsgarendszer és az alap-, közép-, illetve felsőfokú államilag elismert vagy azzal egyenértékű nyelvvizsgák megfeleltetését, továbbá az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatás rendjét,
 
 6. a felsőoktatási információs rendszer működtetésével, az adattovábbítással, továbbá a diákigazolvánnyal kapcsolatos eljárási szabályokat, a felsőoktatási intézmények által kötelezően használt nyomtatványok tartalmi és formai követelményeit, jóváhagyási rendjét, a támogatási idő nyilvántartásának, a magyar állami (rész)ösztöndíjas és az önköltséges hallgatók közötti átsorolásnak, a hallgatói kompetenciamérésnek a rendjét, a hallgatói átvétel rendjét, a különböző végzettségi szintet eredményező szakok közötti hallgatói átvétel szabályait,
 
-7. a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, szakjait, valamint a létesítéssel és az indítással összefüggő eljárási rendet, továbbá a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói megállapodásra, továbbá a hallgatói munkaszerződésre vonatkozó szabályokat,
+7. a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói megállapodásra, továbbá a hallgatói munkaszerződésre vonatkozó szabályokat,
 
 8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a nyelvi követelményeket, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
 
@@ -114,10 +110,14 @@ b) határozza meg a 97. § (3) bekezdése szerinti egészségügyi szolgáltató
 
 a) az oktatási jogok biztosának a felsőoktatást érintő feladatait, eljárását, továbbá az e feladatok ellátásával összefüggésben az általa vezetett hivatal szervezetének és működésének szabályait,
 
-b) a felsőoktatási szakképzés, az alapképzés és a mesterképzés képzési és kimeneti követelményeit,
+b) a ciklusokra bontott, osztott és az osztatlan képzések szerkezetét, az alap- és mesterképzés képzési területeit, szakjait – a pedagógusképzés kivételével –, valamint a létesítés módját,
 
-c)
+c) a felsőoktatási szakképzés képzési területeit, szakjait, valamint a létesítés módját,
 
 d) az államilag elismert nyelvvizsgáztatáshoz, a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról kiállított hatósági bizonyítványokhoz, a felsőoktatási információs rendszer működtetéséhez kapcsolódó igazgatási szolgáltatási díjak mértékét, a felsőoktatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+
+e) az egyes tanári szakok képzési és kimeneti követelményeit,
+
+f) az oklevéllel tanúsított végzettség, szakképzettség Magyar Képesítési Keretrendszer szerinti besorolási rendjét.
 
 (4) A miniszter a (3) bekezdés d) pontjában kapott szabályozási jogkörét az adópolitikáért felelős miniszter egyetértésével gyakorolja.
