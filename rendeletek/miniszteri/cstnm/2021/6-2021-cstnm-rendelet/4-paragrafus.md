@@ -1,0 +1,5 @@
+## 3. § Az Nmr. a következő 183. §-sal egészül ki:
+
+## „183. § (1) A személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendeletnek a bölcsődei ellátással összefüggő módosításáról szóló 6/2021. (VII. 19.) CSTNM rendelettel (a továbbiakban: Módr3.) megállapított 35. § (7) bekezdését és 51/F. § (3) bekezdését a 2021. szeptember 1-jéig véglegessé vált határozattal le nem zárt hatósági eljárásokban is alkalmazni kell.
+
+## (2) A szolgáltatói nyilvántartásba 2021. augusztus 31-én hét férőhellyel bejegyzett családi bölcsődében – a 39. §-ban foglaltaktól eltérően, a Módr3.-mal módosított 51/F. § (3) bekezdés a) pontja alapján, a szolgáltatói nyilvántartásba bejegyzett adatmódosítást követően – akkor is nevelhető, gondozható nyolc gyermek, ha a csoportszoba bútorzat nélküli hasznos alapterülete nem éri el a 24 négyzetmétert, de meghaladja a 21 négyzetmétert. Ebben az esetben a férőhelyszám csökkentése nélkül a csoportszoba bútorzat nélküli hasznos alapterülete nem csökkenthető.”
