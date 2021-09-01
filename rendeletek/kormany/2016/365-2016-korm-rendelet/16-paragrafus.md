@@ -1,4 +1,4 @@
-16. §[^54] (1) A rendelet hatálya alá tartozó létesítmények, berendezések üzemeltetője az azok üzemeltetése, tárolása, szállítása során bekövetkezett rendkívüli eseményeket köteles bejelenteni a műszaki biztonsági hatóságnak, a b) és c) pont szerinti rendkívüli eseményeket a hivatásos katasztrófavédelmi szerv központi szervének is. A rendelet alkalmazásában rendkívüli esemény különösen a létesítmény, berendezés üzemeltetése során bekövetkezett
+16. §[^56] (1) A rendelet hatálya alá tartozó létesítmények, berendezések üzemeltetője az azok üzemeltetése, tárolása, szállítása során bekövetkezett rendkívüli eseményeket köteles bejelenteni a műszaki biztonsági hatóságnak, a b) és c) pont szerinti rendkívüli eseményeket a hivatásos katasztrófavédelmi szerv központi szervének is. A rendelet alkalmazásában rendkívüli esemény különösen a létesítmény, berendezés üzemeltetése során bekövetkezett
 
 a) a létesítmény, berendezés sérülése,
 
@@ -18,4 +18,4 @@ e) egyéb súlyos üzemzavar.
 
 (5) A hivatásos kataszrófavédelmi szerv központi szervének (4) bekezdés szerinti feladatai ellátásában a hivatásos katasztrófavédelmi szerv területi és helyi szerve közreműködik.
 
-[^54]: A 16. § a 360/2019. (XII. 30.) Korm. rendelet 157. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^56]: A 16. § a 360/2019. (XII. 30.) Korm. rendelet 157. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

@@ -1,17 +1,19 @@
-24/T. § (1) A továbbképzést lezáró vizsga megtartását – a (4) bekezdésben meghatározott eltéréssel – az országos illetékességgel eljáró Budapest Főváros Kormányhivatala által kijelölt szervezetek végezhetik.
+24/T. § (1)[^107] A képzést lezáró vizsga megtartását – a (4) bekezdésben meghatározott eltéréssel – az országos illetékességgel eljáró Budapest Főváros Kormányhivatala által kijelölt szervezetek végezhetik.
 
-(2) Az (1) bekezdés szerinti továbbképzést lezáró vizsga megtartását Budapest Főváros Kormányhivatala annak a szervezetnek engedélyezi adott továbbképzési területre, amely
+(2)[^108] Az (1) bekezdés szerinti képzést lezáró vizsga megtartását Budapest Főváros Kormányhivatala annak a felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezetnek engedélyezi, amely
 
-a)[^89] rendelkezik a felnőttképzésről szóló törvény szerinti szakterületi felnőttképzési tevékenység végzésére szóló bejelentéssel,
+a) a képzést megelőző legalább egy évben elektronika és elektrotechnika ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
 
-b) a továbbképzési terület tekintetében biztosítja olyan vizsgáztató személy közreműködését, aki szakirányú felsőfokú végzettséggel és a továbbképzés célja szerinti szakterületen legalább 5 év gyakorlattal rendelkezik,
+b) a képesítés tekintetében biztosítja olyan vizsgáztatószemély közreműködését, aki szakirányú felsőfokú végzettséggel és a képzés célja szerinti szakterületen legalább 5 év gyakorlattal rendelkezik,
 
-c) a továbbképzési terület tekintetében nem minősül képzésszervezőnek és
+c) a képesítés tekintetében nem minősül képzésszervezőnek, és
 
 d) nyilatkozik, hogy a képzésszervezővel együttműködik a vizsga megszervezésében és lebonyolításában.
 
 (3) A (2) bekezdés szerinti engedély időbeli hatálya 3 év.
 
-(4) A képzésszervezők a továbbképzést lezáró vizsga megtartását a (2) bekezdés szerint kijelölt szervezetektől kérhetik. Ha az adott továbbképzési területen a vizsga megtartására nincs kijelölt szervezet, akkor a továbbképzés szervezője látja el az általa szervezett továbbképzést követő vizsga megtartásával kapcsolatos feladatokat.
+(4)[^109] A képzésszervezők a képzést lezáró vizsga megtartását a (2) bekezdés szerint kijelölt szervezetektől kérhetik. Ha az adott képzési területen a vizsga megtartására nincs kijelölt szervezet, akkor a képzés szervezője látja el az általa szervezett képzést követő vizsga megtartásával kapcsolatos feladatokat.
 
-[^89]: A 24/T. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 112. § 2. pontja szerint módosított szöveg.
+[^107]: A 24/T. § (1) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^108]: A 24/T. § (2) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^109]: A 24/T. § (4) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e)–f) és h) pontja szerint módosított szöveg.

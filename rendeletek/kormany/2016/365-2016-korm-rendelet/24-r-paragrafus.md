@@ -1,33 +1,44 @@
-24/R. § (1) A 24/Q. § (1) bekezdése szerinti továbbképzés az országos illetékességgel eljáró Budapest Főváros Kormányhivatala által a (3) bekezdésben meghatározott feltételek teljesülése esetén kiadott engedély alapján tartható. Budapest Főváros Kormányhivatalának a továbbképzési program jóváhagyását tartalmazó engedélye az engedély megadásának napjától számított 3 évig hatályos.
+24/R. § (1)[^91] A 24/Q. § (1) bekezdése szerinti képzés és továbbképzés (a továbbiakban együtt: képzés) az országos illetékességgel eljáró Budapest Főváros Kormányhivatala által a (3) bekezdésben meghatározott feltételek teljesülése esetén kiadott engedély alapján tartható. Budapest Főváros Kormányhivatalának a képzési program jóváhagyását tartalmazó engedélye az engedély megadásának napjától számított 3 évig hatályos.
 
 (2) Budapest Főváros Kormányhivatala
 
-a) meghatározza és hivatalos honlapján közzéteszi a továbbképzési programmal szemben támasztott, az összekötő és felhasználói berendezésekről, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezésekről és védelmi rendszerekről szóló miniszteri rendelet szerinti alapkövetelmények alapján a továbbképzési program elkészítésének alapját képező, a szakterületnek megfelelő speciális szakmai követelményeket, a részletes vizsgakövetelményeket, valamint a 24/S. § (4) bekezdése szerinti továbbképzési igazolás tartalmát,
+a)[^92] meghatározza és hivatalos honlapján közzéteszi a képzési programmal szemben támasztott, az összekötő és felhasználói berendezésekről, valamint a potenciálisan robbanásveszélyes közegben működő villamos berendezésekről és védelmi rendszerekről szóló miniszteri rendelet szerinti alapkövetelmények alapján a képzési program elkészítésének alapját képező, a szakterületnek megfelelő speciális szakmai követelményeket, a részletes vizsgakövetelményeket, valamint a 24/S. § (4) bekezdése szerinti képzési igazolás, bizonyítvány tartalmát,
 
-b) elbírálja a továbbképzési program jóváhagyása iránti kérelmeket,
+b)[^93] elbírálja a képzési program jóváhagyása iránti kérelmeket,
 
-c) ellenőrzi a továbbképzést és a vizsgát szervezők működését, ideértve a (3) bekezdés c) pontja szerinti tananyag célra való alkalmasságának, tartalmának, jogszabályoknak való megfelelésének, valamint a tanulmányi szabályzat megfelelőségének ellenőrzését is.
+c)[^94] ellenőrzi a képzést és a vizsgát szervezők működését, ideértve a (3) bekezdés c) pontja szerinti tananyag célra való alkalmasságának, tartalmának, jogszabályoknak való megfelelésének, valamint a tanulmányi szabályzat megfelelőségének ellenőrzését is.
 
-(3) Továbbképzés jóváhagyására vonatkozó engedély annak a gazdálkodó szervezetnek adható, amely rendelkezik
+(3)[^95] A 24/Q. § (2) bekezdés szerinti képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
 
-a)[^88] a felnőttképzésről szóló törvény szerinti szakterületi felnőttképzési tevékenység végzésére szóló bejelentéssel,
+a) a képzést megelőző legalább egy évben elektronika és elektrotechnika ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
 
-b) a szakterületnek megfelelő továbbképzési programmal és
+b) rendelkezik a képzési területre vonatkozóan kidolgozott, a képzés felügyeletét ellátó hatóság által jóváhagyott képzési programmal, és
 
-c) a továbbképzési programnak megfelelő, naprakész tananyaggal.
+c) rendelkezik a képzési programhoz kidolgozott, a hatályos műszaki biztonsági követelményeket tükröző, korszerű tananyagegységgel.
 
-(4) A továbbképzés szervezője a továbbképzési program jóváhagyása iránti kérelmét a (6) bekezdésben meghatározott adattartalommal a Budapest Főváros Kormányhivatal honlapján közzétett formanyomtatványon készíti el.
+(4)[^96] A képzés szervezője a képzési program jóváhagyása iránti kérelmét a (6) bekezdésben meghatározott adattartalommal a Budapest Főváros Kormányhivatal honlapján közzétett formanyomtatványon készíti el.
 
-(5) Ha a hatósági jóváhagyásra vonatkozó engedély időbeli hatálya letelt és a továbbképzés szervezője a korábbi hatósági jóváhagyás időbeli hatálya alatt elmulasztotta a 24/S. § (1) bekezdésében foglalt kötelezettségét, a továbbképzés szervezője hatósági jóváhagyás iránti kérelmet nem nyújthat be a korábbi hatósági jóváhagyás időbeli hatályának leteltét követő egy évig.
+(5)[^97] Ha a hatósági jóváhagyásra vonatkozó engedély időbeli hatálya letelt és a képzés szervezője a korábbi hatósági jóváhagyás időbeli hatálya alatt elmulasztotta a 24/S. § (1) bekezdésében foglalt kötelezettségét, a képzés szervezője hatósági jóváhagyás iránti kérelmet nem nyújthat be a korábbi hatósági jóváhagyás időbeli hatályának leteltét követő egy évig.
 
-(6) A továbbképzési program jóváhagyása iránti kérelem tartalmazza
+(6)[^98] A képzési program jóváhagyása iránti kérelem tartalmazza
 
-a) a továbbképzés szervezőjének nyilatkozatát a vizsga megszervezéséhez és lebonyolításához szükséges adatok rendelkezésre bocsátásáról,
+a)[^99] a képzés szervezőjének nyilatkozatát a vizsga megszervezéséhez és lebonyolításához szükséges adatok rendelkezésre bocsátásáról,
 
-b) a továbbképzés szervezőjének nyilatkozatát arról, hogy rendelkezik a továbbképzéshez szükséges korszerű szakmai ismereteket tükröző tananyaggal,
+b)[^100] a képzés szervezőjének nyilatkozatát arról, hogy rendelkezik a képzéshez szükséges korszerű szakmai ismereteket tükröző tananyaggal,
 
-c) annak megjelölését, hogy a továbbképzés szervezője mely továbbképzés képzési programjának jóváhagyását kérelmezi,
+c)[^101] annak megjelölését, hogy a képzés szervezője mely képzés képzési programjának jóváhagyását kérelmezi,
 
-d) a továbbképzési programot.
+d)[^102] a képzési programot.
 
-[^88]: A 24/R. § (3) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 112. § 1. pontja szerint módosított szöveg.
+[^91]: A 24/R. § (1) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés c) és e) pontja szerint módosított szöveg.
+[^92]: A 24/R. § (2) bekezdés a) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés d)–e) pontja szerint módosított szöveg.
+[^93]: A 24/R. § (2) bekezdés b) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^94]: A 24/R. § (2) bekezdés c) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^95]: A 24/R. § (3) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^96]: A 24/R. § (4) bekezdése a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés g) pontja szerint módosított szöveg.
+[^97]: A 24/R. § (5) bekezdése a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^98]: A 24/R. § (6) bekezdés nyitó szövegrésze a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.
+[^99]: A 24/R. § (6) bekezdés a) pontja a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^100]: A 24/R. § (6) bekezdés b) pontja a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h)–i) pontja szerint módosított szöveg.
+[^101]: A 24/R. § (6) bekezdés c) pontja a 447/2021. (VII. 25.) Korm. rendelet 6. § (5) bekezdés h) pontja szerint módosított szöveg.
+[^102]: A 24/R. § (6) bekezdés d) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés e) pontja szerint módosított szöveg.

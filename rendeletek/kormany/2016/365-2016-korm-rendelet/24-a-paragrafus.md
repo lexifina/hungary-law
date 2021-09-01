@@ -1,8 +1,8 @@
-## 13/A. [^76] A termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó általános szabályok
+## 13/A. [^78] A termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos hatósági tevékenységre vonatkozó általános szabályok
 
 24/A. § (1) Az iparügyekért felelős miniszter szabályozási feladatkörébe tartozó forgalmazási követelmények tekintetében eljáró megfelelőségértékelő szervezetek kijelölése iránti kérelemben a kérelmező szervezet alkalmasságát, felkészültségét a megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény (a továbbiakban: Msztv.)
 
-a)[^77] 6. § (3) bekezdés a) pontja szerint a nemzeti akkreditáló szerv által a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontja szerint kiállított akkreditálási okirat számának megadásával, vagy
+a)[^79] 6. § (3) bekezdés a) pontja szerint a nemzeti akkreditáló szerv által a termékek forgalmazása tekintetében az akkreditálás előírásainak megállapításáról és a 339/93/EGK rendelet hatályon kívül helyezéséről szóló, 2008. július 9-i 765/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 765/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 10. pontja szerint kiállított akkreditálási okirat számának megadásával, vagy
 
 b) 6. § (3) bekezdés b) pontja szerint a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet [a továbbiakban: 315/2009. (XII. 28.) Korm. rendelet] 12. § (2) bekezdésében meghatározott okiratok csatolásával
 
@@ -22,5 +22,5 @@ c) az előző ellenőrzés óta a minőségirányítási kézikönyvben, valamin
 
 d) a gazdasági szereplők panaszainak kivizsgálása e rendeletnek és a panaszkezelési szabályzatnak megfelelő volt-e.
 
-[^76]: A 13/A. alcímet (24/A. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
-[^77]: A 24/A. § (1) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^78]: A 13/A. alcímet (24/A. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^79]: A 24/A. § (1) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.

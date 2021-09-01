@@ -1,13 +1,10 @@
-## 13/J. [^87] A villamos berendezésekhez kapcsolódó, egyes továbbképzési kötelezettségekkel kapcsolatos hatósági jellegű képzésekre vonatkozó eljárási szabályok
+## 13/J. [^89] A villamos berendezésekhez kapcsolódó, egyes továbbképzési kötelezettségekkel kapcsolatos hatósági jellegű képzésekre vonatkozó eljárási szabályok
 
-24/Q. § (1) A (2) bekezdésben meghatározott munkakörök betöltése továbbképzéshez kötött, melynek eredményes elvégzéséről a továbbképzést záró vizsga szervezője továbbképzési igazolást állít ki.
+24/Q. §[^90] (1) A villamos biztonsági felülvizsgáló az ezen alcímben meghatározott, jogszabály alapján szervezett képzés keretében megszerezhető, 5 évenkénti továbbképzéshez kötött, műszaki biztonsági szempontból jelentős ipari képesítés.
 
-(2) Az alábbiakban felsorolt, a műszaki biztonság szempontjából jelentős munkakörök betöltéséhez 5 évenként továbbképzést kell elvégezni:
+(2) Az (1) bekezdésben meghatározott munkakörben foglalkoztatottak képzésének eredményes elvégzéséről a képzést záró vizsga szervezője bizonyítványt, a továbbképzés eredményes elvégzéséről a továbbképzést záró vizsga szervezője továbbképzési igazolást állít ki.
 
-a) érintésvédelmi szabványossági felülvizsgáló,
+(3) Az érintésvédelmi szabványossági felülvizsgáló, az erősáramú berendezések felülvizsgálója 5 évenként továbbképzés elvégzésére köteles, mely kötelezettséget az (1) bekezdésben meghatározott továbbképzéssel teljesíti.
 
-b) erősáramú berendezések felülvizsgálója, és
-
-c) a villámvédelmi berendezések felülvizsgálója.
-
-[^87]: A 13/J. alcímet (24/Q–24/T. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^89]: A 13/J. alcímet (24/Q–24/T. §) a 198/2019. (VIII. 1.) Korm. rendelet 18. §-a iktatta be.
+[^90]: A 24/Q. § a 447/2021. (VII. 26.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

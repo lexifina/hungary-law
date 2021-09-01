@@ -44,19 +44,19 @@ f) a tartályok, tároló létesítmények és berendezéseik gyártását és a
 
 g) az üzemanyag töltőállomásokon szénhidrogén emisszió mérését, a pisztolygáz visszavezető és gázinga rendszerek beállítását végző szervezetek kijelölésével és felügyeletével,
 
-h) a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgálója és a nyomástartó edény gépész (ha a munkáltató nem elosztói, szállítói vagy tárolói engedélyes), a tartályvizsgáló, a tartálytisztító, az érintésvédelmi szabványossági felülvizsgáló, az erősáramú berendezések felülvizsgálója, a villámvédelmi berendezések felülvizsgálója, valamint a felvonó- és mozgólépcső ellenőr, továbbá a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök esetében szükséges felkészítő tanfolyam és továbbképzés képzési programjának jóváhagyásával,
+h)[^50] a nyomástartó berendezés kezelője, a nyomástartó berendezés vizsgálója és a nyomástartó edény gépész (ha a munkáltató nem elosztói, szállítói vagy tárolói engedélyes), a tartályvizsgáló, a tartálytisztító, a villamos biztonsági felülvizsgáló, valamint a felvonó- és mozgólépcső ellenőr, továbbá a földgázellátásban műszaki biztonsági szempontból jelentős munkakörök esetében szükséges felkészítő tanfolyam és továbbképzés képzési programjának jóváhagyásával,
 
 i) a felvonó- és mozgólépcső-ellenőrök nyilvántartásba vételével, a nyilvántartott szervezetekkel, valamint a felvonók, mozgólépcsők és mozgójárdák országos nyilvántartásának vezetésével,
 
 j) a műszaki-biztonsági hatósági felügyelet alatt álló, cseppfolyós propán-, butángázok és ezek elegyei tárolására szolgáló, legfeljebb 13 000 l össztérfogatú nyomástartó berendezések és kriogén tartályok létesítésének tervezésére, létesítésére, üzembe helyezésére, üzemeltetésére, átalakítására, javítására, időszakos ellenőrzésére és megszüntetésére vonatkozó műszaki-biztonsági irányítási rendszert működtető ellenőrző szervezet nyilvántartásba vételével és felügyeletével,
 
-k) a műszaki biztonsági szempontból jelentős ipari szakképesítés (nyomástartó berendezés kezelője, nyomástartó berendezés vizsgálója, tartálytisztító, tartályvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével,
+k)[^51] a műszaki biztonsági szempontból jelentős ipari szakképesítés (felvonó- és mozgólépcső ellenőr, nyomástartó berendezés kezelője, nyomástartó berendezés vizsgálója, nyomástartóedény-gépész, tartálytisztító, tartályvizsgáló, villamos biztonsági felülvizsgáló) megszerzéséhez szükséges vizsgakötelezettség teljesítéséhez igénybe vehető hatósági jellegű képzés programjának jóváhagyásával és a képzési tevékenység felügyeletével,
 
 l) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelményeiről szóló miniszteri rendeletben meghatározott vizsgálatok esetében a vizsgálati módszer jóváhagyásával,
 
-m)[^50] a villamos energiáról szóló törvény szerint a bejelentett és jogosult villanyszerelők nyilvántartásának vezetésével, valamint a víziközmű-szolgáltatásról szóló törvény szerint a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartásának vezetésével,
+m)[^52] a villamos energiáról szóló törvény szerint a bejelentett és jogosult villanyszerelők nyilvántartásának vezetésével, valamint a víziközmű-szolgáltatásról szóló törvény szerint a kivitelezői jogosultsággal rendelkező vízszerelők nyilvántartásának vezetésével,
 
-n)[^51] a mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó mutatványos berendezések biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
+n)[^53] a mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó mutatványos berendezések biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
 
 ## kapcsolatos eljárásokban.
 
@@ -81,5 +81,7 @@ n)[^51] a mutatványos berendezések biztonságosságáról szóló miniszteri r
 [^47]: A 13. § (3) bekezdés c) pontját a 327/2019. (XII. 20.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
 [^48]: A 13. § (3) bekezdés d) pontját a 327/2019. (XII. 20.) Korm. rendelet 19. § (2) bekezdése hatályon kívül helyezte.
 [^49]: A 13. § (3) bekezdés e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (12) bekezdésével megállapított szöveg.
-[^50]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^51]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be.
+[^50]: A 13. § (3) bekezdés h) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^51]: A 13. § (3) bekezdés k) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^52]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^53]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be.
