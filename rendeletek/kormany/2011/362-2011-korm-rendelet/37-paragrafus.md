@@ -1,6 +1,6 @@
-37. § (1)[^119] A tanköteles tanulók diákigazolványa érvényesítő matrica nélkül is érvényes azon tanévet követő október 31. napjáig, amely tanévben a tanuló a 16. életévét betölti.
+37. § (1)[^124] A tanköteles tanulók diákigazolványa érvényesítő matrica nélkül is érvényes azon tanévet követő október 31. napjáig, amely tanévben a tanuló a 16. életévét betölti.
 
-(2)[^120]
+(2)[^125]
 
-[^119]: A 37. § (1) bekezdése a 442/2016. (XII. 16.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
-[^120]: A 37. § (2) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^124]: A 37. § (1) bekezdése a 442/2016. (XII. 16.) Korm. rendelet 15. § i) pontja szerint módosított szöveg.
+[^125]: A 37. § (2) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.

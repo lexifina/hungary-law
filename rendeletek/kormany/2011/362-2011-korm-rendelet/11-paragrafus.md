@@ -4,9 +4,9 @@
 
 (3) Több oktatási intézménnyel való egyidejű hallgatói jogviszony esetén a közreműködő intézmények sorrendjét a képzés munkarendje (nappali, esti, levelező, távoktatás) határozza meg.
 
-(4)[^39] Egyidejűleg fennálló tanulói jogviszony, illetve hallgatói jogviszony esetén a közreműködő intézmények sorrendjét az oktatás, képzés munkarendje (nappali, esti, levelező, más sajátos, távoktatás) határozza meg.
+(4)[^40] Egyidejűleg fennálló tanulói jogviszony, felnőttképzési jogviszony, illetve hallgatói jogviszony esetén a közreműködő intézmények sorrendjét az oktatás, képzés munkarendje (nappali, esti, levelező, más sajátos, távoktatás) határozza meg.
 
-(5)[^40] A pedagógus, illetve az oktató egyidejűleg fennálló közalkalmazotti jogviszonya, illetve munkaviszonya esetén az az intézmény a közreműködő intézmény, amelyben a pedagógus a munkaideje nagyobb hányadát teljesíti. Ha ez nem állapítható meg, az az intézmény a közreműködő intézmény, amelyikkel a jogosult a foglalkoztatásra irányuló jogviszonyát korábban létesítette.
+(5)[^41] A pedagógus, illetve az oktató egyidejűleg fennálló közalkalmazotti jogviszonya, illetve munkaviszonya esetén az az intézmény a közreműködő intézmény, amelyben a pedagógus a munkaideje nagyobb hányadát teljesíti. Ha ez nem állapítható meg, az az intézmény a közreműködő intézmény, amelyikkel a jogosult a foglalkoztatásra irányuló jogviszonyát korábban létesítette.
 
-[^39]: A 11. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 62. § 4. pontja szerint módosított szöveg.
-[^40]: A 11. § (5) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított, a 13/2020. (II. 7.) Korm. rendelet 62. § 5. pontja szerint módosított szöveg.
+[^40]: A 11. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 62. § 4. pontja, a 380/2021. (VI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^41]: A 11. § (5) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított, a 13/2020. (II. 7.) Korm. rendelet 62. § 5. pontja szerint módosított szöveg.

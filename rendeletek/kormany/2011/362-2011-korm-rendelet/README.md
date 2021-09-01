@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-362-20-
 | 2020-01-01 | 2011-362-20-22.22 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-02-15 | 2011-362-20-22.23 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-03-01 | 2011-362-20-22.24 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-09-01 | 2011-362-20-22.25 | 13/2020. (II. 7.) Korm. rendelet |

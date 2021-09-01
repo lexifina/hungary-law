@@ -22,7 +22,7 @@ j) az oktatási igazolvány érvényességével vagy érvénytelenségével kapc
 
 k) a fenti feladatok ellátásához szükséges fejlesztések megvalósítása, különösen az ezekhez kapcsolódó elektronikus rendszerek kialakítása és üzemeltetése,
 
-l) az oktatási igazolványokhoz kapcsolódó, a közreműködő intézményt terhelő feladatok végrehajtásának és az oktatási igazolványok igénylésével kapcsolatos tanulói, hallgatói panaszok megalapozottságának vizsgálata, szabálytalanság észlelése esetén a vonatkozó jogszabályok alapján szükséges intézkedések megtétele,
+l)[^19] az oktatási igazolványokhoz kapcsolódó, a közreműködő intézményt terhelő feladatok végrehajtásának és az oktatási igazolványok igénylésével kapcsolatos panaszok megalapozottságának vizsgálata, szabálytalanság észlelése esetén a vonatkozó jogszabályok alapján szükséges intézkedések megtétele,
 
 m) az a)–l) pontba tartozó hatósági feladatok és szolgáltatások folyamatainak minőségfejlesztése, minőségbiztosítása.
 
@@ -32,7 +32,7 @@ a) az adatkezelő által meghatározott módon adatot közöl az oktatási igazo
 
 b) a fel nem használt érvényesítő matricát biztonságosan, elzárva tárolja,
 
-c)[^19] részt vesz az oktatási igazolványok igénylésében és jogosulthoz történő eljuttatásában,
+c)[^20] részt vesz az oktatási igazolványok igénylésében és jogosulthoz történő eljuttatásában,
 
 d) érvényesíti a használatban lévő és bevonja az érvénytelen oktatási igazolványokat,
 
@@ -48,4 +48,5 @@ h) kiadja a 12. §-ban meghatározott igazolást.
 [^16]: A 7. § (1) bekezdés b) pontja a 210/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés c) pontja, a 191/2019. (VII. 30.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
 [^17]: A 7. § (1) bekezdés c) pontja a 210/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 191. § (2) bekezdés e) pontja, a 442/2016. (XII. 16.) Korm. rendelet 15. § a) pontja, a 191/2019. (VII. 30.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
 [^18]: A 7. § (1) bekezdés g) pontját a 392/2015. (XII. 11.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
-[^19]: A 7. § (2) bekezdés c) pontja a 440/2016. (XII. 16.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^19]: A 7. § (1) bekezdés l) pontja a 380/2021. (VI. 30.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^20]: A 7. § (2) bekezdés c) pontja a 440/2016. (XII. 16.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
