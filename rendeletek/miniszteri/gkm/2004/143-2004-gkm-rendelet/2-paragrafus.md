@@ -218,13 +218,13 @@ A tömlő üzemi nyomáson néhány másodperc időtartamú átöblítése a tö
 
 4. SZEMÉLYI KÖVETELMÉNYEK
 
-4.1. Hegesztést önállóan végezhet, aki
+4.1.[^1] Hegesztést önállóan végezhet, aki
 
 – betöltötte a 18. életévét, és
 
 – a feladat elvégzésére a vonatkozó jogszabály szerint előzetes és időszakos munkaköri orvosi vizsgálat alapján alkalmas, és
 
-– államilag elismert hegesztői képesítéssel és tűzvédelmi szakvizsgával rendelkezik.
+– a tervező által előírt vagy az alkalmazandó hegesztési technológiára vonatkozó nemzeti vagy nemzetközi szabványban meghatározott hegesztő tanúsítvánnyal, bizonyítvánnyal vagy képesítéssel, ennek hiányában hegesztő szakmával rendelkezik.
 
 4.2. Hegesztő szakmunkás tanulók, illetve különféle hegesztő eljárások gyakorlati oktatásán résztvevők csak az eljárásnak megfelelő elméleti és gyakorlati képesítéssel rendelkező személy felügyelete mellett foglalkoztathatók.
 
@@ -1081,3 +1081,5 @@ Ez a követelmény havária vagy mentés esetére nem vonatkozik.
 – zivatar van,
 
 – villámlik!
+
+[^1]: A melléklet 4.1. pontja a 34/2021. (VII. 26.) ITM rendelet 7. §-ával megállapított szöveg.
