@@ -1,13 +1,3 @@
-13. § (1) A megrendelő szerv a 4. § (3) bekezdés b) pontja szerinti támogató tanúsítvány kiadását megelőző előkészítő szakaszban beszerzi az alkalmazásfejlesztés tárgya szerint kijelölt ágazati integrátor előzetes szakmai támogató nyilatkozatát.
+## 12/A. §[^31] Az alkalmazásfejlesztések ágazatban már működő, az alkalmazás tárgyával összefüggő informatikai szakrendszerekkel való összhangjáról és szükség szerint összeilleszthetőségéről, integrálhatóságáról, a támogatni kívánt közfeladathoz való illeszkedéséről, szakmai, funkcionális megfelelőségéről, a felmerülő fejlesztési igények vonatkozásában a megrendelő gondoskodik. A megrendelő ágazati igényeinek minőségbiztosítása érdekében saját minőségbiztosítót is bevonhat.
 
-(2) Az ágazati integrátor az előzetes szakmai támogató nyilatkozat kiadásával kapcsolatos eljárásában vizsgálja a fejlesztendő alkalmazás
-
-a) ágazati szakpolitikával való összeegyeztethetőségét,
-
-b) ágazatban már működő, az alkalmazás tárgyával összefüggő informatikai szakrendszerekkel való összhangját és szükség szerinti összeilleszthetőségét, integrálhatóságát,
-
-c) támogatni kívánt közfeladathoz való illeszkedését, szakmai és funkcionális megfelelőségét,
-
-d) szakmai támogathatóságát az ágazati szakpolitikáért felelős miniszter által meghatározott ágazati követelmények szempontjából.
-
-(3) Az ágazati integrátor feladata ellátásának rendjét a szakpolitikáért felelős miniszter határozza meg. A miniszter e feladatkörében rendelkezhet arról, hogy az ágazati integrátor közvetlen támogatást nyújt a megrendelő szerv 14. §-ban foglalt feladatának ellátása érdekében.
+[^31]: A 12/A. §-t a 476/2021. (VIII. 9.) Korm. rendelet 1. § (17) bekezdése iktatta be.

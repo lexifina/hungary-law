@@ -1,4 +1,4 @@
-## 14. § A megrendelő szerv – az ágazati integrátor előzetes támogató nyilatkozata birtokában – az ÁAK-ban műszaki szakmai és funkcionalitási szempontból előzetesen ellenőrzi, hogy rendelkezésre áll-e már olyan állami érdekű alkalmazás, amely közvetlenül alkalmas, vagy a rendelkezésre álló állami informatikai fejlesztői kapacitások igénybevételével alkalmassá tehető a felmerült fejlesztési igény kielégítésére.
+## 14. §[^33] A megrendelő szerv az ÁAK-ban műszaki szakmai és funkcionalitási szempontból előzetesen ellenőrzi, hogy rendelkezésre áll-e már olyan állami érdekű alkalmazás, amely közvetlenül alkalmas, vagy a rendelkezésre álló állami informatikai fejlesztői kapacitások igénybevételével alkalmassá tehető a felmerült fejlesztési igény kielégítésére.
 
 15. § (1) A megrendelő szerv az alkalmazásfejlesztés engedélyezését megelőző előkészítő szakaszban köteles beszerezni a központi alkalmazás-szolgáltató támogató igazolását.
 
@@ -6,9 +6,9 @@
 
 (3) A központi alkalmazás-szolgáltató az igazolás kiadása érdekében vizsgálja, hogy
 
-a) a megrendelő szerv a feladat kiírása során teljes körűen érvényre juttatta-e az egységes állami követelményrendszerben szereplő előírásokat,
+a)[^34] a központi termék minőségbiztosító előzetes szakmai véleménye szerint az alkalmazásfejlesztés vonatkozásában javasolt-e a termék minőségbiztosítás elvégzése, vagy az alkalmazásfejlesztés felmentést kaphat a termék minőségbiztosítás egésze vagy egyes részei alól,
 
-b) a megrendelő szerv beszerezte-e az ágazati integrátor előzetes szakmai szempontú támogató nyilatkozatát,
+b)[^35]
 
 c) a megrendelő szerv elvégezte-e a szükséges ellenőrzéseket az ÁAK-ban,
 
@@ -18,7 +18,9 @@ e) már meglévő alkalmazás állami fejlesztői kapacitások felhasználása m
 
 f) a fejlesztendő alkalmazás állami infrastruktúra környezetbe való illesztése – a központi infrastruktúra-szolgáltató szakmai véleménye alapján – nem ütközik-e a központi infrastruktúra-szolgáltató által felügyelt és működtetett, valamint a központi infrastruktúrákkal összekapcsolt, más által működtetett állami infrastruktúrákkal kapcsolatban meghatározott technológiai és kormányzati konszolidációs követelményekbe.
 
-(4) A központi alkalmazás-szolgáltató a kérelem kézhezvételét követő 10 napon belül állítja ki az (1) bekezdés szerinti támogató igazolást a megrendelő szerv részére.
+(3a)[^36] A központi alkalmazás-szolgáltató a támogató igazolásban feltünteti a központi termék minőségbiztosító előzetes szakmai véleményének eredményét.
+
+(4)[^37] A központi alkalmazás-szolgáltató a kérelem kézhezvételét követő 10 munkanapon belül állítja ki az (1) bekezdés szerinti támogató igazolást a megrendelő szerv részére, amely határidő a hiánypótlás határidejével meghosszabbodik. Ha a megrendelő szerv hiányosan bocsátotta a központi alkalmazás-szolgáltató rendelkezésére a 16. § (3) bekezdésében szereplő dokumentációt vagy a (3) bekezdés szerinti vizsgálat elvégzéséhez további információ szükséges, a központi alkalmazás-szolgáltató hiánypótlásra hívja fel a megrendelő szervet. A megrendelő szerv a hiánypótlást 8 munkanapon belül megküldi a központi alkalmazás-szolgáltató részére.
 
 (5) Ha a központi alkalmazás-szolgáltató az igazolás kiállítását a (3) bekezdés szerinti vizsgálat eredménye alapján megtagadja, a megrendelő szerv
 
@@ -35,3 +37,9 @@ c) ha az igazolás kiállításának megtagadásával nem ért egyet, a megtagad
 (8) Ha az alkalmazást működtető szervezet a (7) bekezdésben foglalt szakmai együttműködést nem biztosítja a megrendelő szerv számára, azt a megrendelő szerv haladéktalanul jelzi a Felügyelet felé.
 
 (9) A megrendelő szerv (8) bekezdés szerinti jelzése esetén a Felügyelet írásban, az együttműködés teljesítésére vonatkozó tájékoztató válaszlevél megküldésének kötelezettsége előírásával, az alkalmazást működtető szervezet felügyeleti szervének egyidejű értesítése mellett felszólítja az alkalmazást működtetőt, hogy működjön együtt a megrendelő szervvel a (7) bekezdésben foglaltak szerint.
+
+[^33]: A 14. § a 476/2021. (VIII. 9.) Korm. rendelet 1. § (18) bekezdésével megállapított szöveg.
+[^34]: A 15. § (3) bekezdés a) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (19) bekezdésével megállapított szöveg.
+[^35]: A 15. § (3) bekezdés b) pontját a 476/2021. (VIII. 9.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^36]: A 15. § (3a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (20) bekezdése iktatta be.
+[^37]: A 15. § (4) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 1. § (21) bekezdésével megállapított szöveg.

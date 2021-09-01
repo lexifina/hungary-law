@@ -1,9 +1,13 @@
 ## 5. Az ÁAFK létrehozása, működtetése és igénybevételének közös szabályai
 
-6. § (1) Az ÁAFK alkalmazás oldali fejlesztését és továbbfejlesztését a miniszterrel kötött fejlesztési típusú közszolgáltatási szerződés keretében a központi alkalmazás-szolgáltató végzi, a központi infrastruktúra-szolgáltató által a miniszterrel kötött fejlesztési típusú közszolgáltatási szerződés szerint létesített központi infrastruktúrán.
+6. § (1)[^24] Az ÁAFK alkalmazás oldali fejlesztését és továbbfejlesztését a miniszterrel kötött fejlesztési típusú közszolgáltatási szerződés keretében a központi alkalmazás-szolgáltató végzi, a központi infrastruktúra-szolgáltató által a miniszterrel kötött fejlesztési típusú közszolgáltatási szerződés szerint létesített központi infrastruktúrán.
 
 (2) Az ÁAFK működtetésére a központi alkalmazás-szolgáltató alkalmazás-üzemeltetési, a központi infrastruktúra-szolgáltató infrastruktúra-üzemeltetési célú közszolgáltatási szerződést köt a miniszterrel.
 
-(3) A miniszter, az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter bevonásával, az ÁAFK fejlesztési irányai meghatározása érdekében az ágazati integrátorok által delegált személyek, a Nemzeti Hírközlési és Informatikai Tanács képviselőjének részvételével, valamint a központi alkalmazás-szolgáltató és a központi infrastruktúra-szolgáltató bevonásával a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti munkacsoport keretében, albizottsági formában egyeztető fórumot működtet. Az albizottságba a miniszter más, az érintett szakmai kérdések megvitatására alkalmas személyt is meghívhat.
+(3)[^25]
 
-(4) Az ÁAFK folyamatos továbbfejlesztésének céljait az iparágban elérhető legjobb módszerek implementálásával, az ÁAFK-ban alkalmazható új fejlesztői eszközök, technológiai elemek, nyílt forráskódú szoftverkönyvtárak, megoldások megvizsgálásával és az ezekhez kapcsolódó állásfoglalásával, valamint az információbiztonság területén tett javaslatok kidolgozásával a (3) bekezdés szerinti albizottság állítja össze, és értékeli azok végrehajtását. A miniszter az ÁAFK fejlesztésére irányuló közszolgáltatási szerződés műszaki-szakmai tartalmának összeállítása során kikéri az albizottság véleményét.
+(4)[^26]
+
+[^24]: A 6. § (1) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^25]: A 6. § (3) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^26]: A 6. § (4) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

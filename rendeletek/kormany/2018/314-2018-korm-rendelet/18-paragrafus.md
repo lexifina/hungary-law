@@ -1,33 +1,47 @@
 ## 10. A műszaki-szakmai átadás-átvételi eljárás lefolytatásának szabályai
 
-18. § (1) A megrendelő szervnek a fejlesztő szervezet által készre jelentett alkalmazás műszaki-szakmai átadás-átvételére irányuló eljárásába – függetlenül attól, hogy a készre jelentett alkalmazást az ÁAFK-ban vagy azon kívül fejlesztették – a központi alkalmazás-szolgáltatót be kell vonnia.
+18. §[^49] (1) A megrendelő szervnek az alkalmazás végső műszaki-szakmai átadás-átvételére irányuló eljárásba – függetlenül attól, hogy az alkalmazást az ÁAFK-ban vagy azon kívül fejlesztik – a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót be kell vonnia.
 
-(2) A központi alkalmazás-szolgáltató az (1) bekezdés szerinti eljárásban
+(2) A megrendelő szerv az elkészült alkalmazás szakmai tartalmának és ágazati szakmapolitikai igényeknek való megfelelőségéről, az elkészült alkalmazásnak a 12/A. §-ban meghatározott szakmai szempontokkal való összeegyeztethetőségéről és a fejlesztéssel összefüggésben meghatározott szakmai követelményeknek való megfeleléséről megfelelőségi nyilatkozatot állít ki, amelyet – a végső műszaki-szakmai átadás-átvételre irányuló eljárásba történő bevonásra irányuló felhívással egyidejűleg – megküld a központi alkalmazás-szolgáltató részére.
 
-a) meggyőződik arról, hogy a megrendelő szerv az alkalmazás műszaki-szakmai átvétele során a szükséges szakmai megfelelőségi ellenőrzéseket, teszteléseket elvégezte-e,
+(3) A központi alkalmazás-szolgáltató – ha ez a (4) bekezdés szerinti szakmai véleményének kialakítása érdekében szükséges – szakmai véleményt köteles beszerezni a központi infrastruktúra-szolgáltatótól, aki a szakmai véleményét a megkereséstől számított 5 munkanapon belül megküldi a központi alkalmazás-szolgáltató részére.
 
-b) megvizsgálja, hogy a kifejlesztett rendszer megfelel-e az egységes állami követelményrendszerre épülő szakmapolitikai követelményekben, valamint az ez utóbbin alapuló fejlesztési-szakmai követelmény- és szabályrendszernek.
+(4) A központi alkalmazás-szolgáltató az (1) bekezdés szerinti bevonástól számított 15 munkanapon belül megfelelőségi szakmai véleményt bocsát ki a megrendelő szerv részére arról, hogy a kifejlesztett rendszer megfelel-e az egységes állami követelményrendszeren alapuló fejlesztési-szakmai követelmény- és szabályrendszernek, amelyet a megrendelő szerv megfelelőségi nyilatkozatával együtt megküld a központi termék minőségbiztosítónak.
 
-(3) Az elkészült alkalmazás szakmai tartalmának és szakmapolitikai igényeknek való megfelelőségét, a központi alkalmazás-szolgáltató felkérése alapján az ágazati integrátor vizsgálja, és az elkészült alkalmazásnak a 13. § (2) bekezdésében foglalt előzetes szakmai szempontokkal való összeegyeztethetőségéről és a fejlesztéssel összefüggésben meghatározott szakmai követelményeknek való megfeleléséről megfelelőségi nyilatkozatot állít ki, amelyet megküld – a központi alkalmazás-szolgáltató felkérését követő legkésőbb 8 napon belül – a központi alkalmazás-szolgáltató részére.
+(5) Ha a központi alkalmazás-szolgáltató által lefolytatott vizsgálat elvégzéséhez szükséges dokumentáció hiányos, vagy a vizsgálat elvégzéséhez további információ szükséges, a központi alkalmazás-szolgáltató hiánypótlásra hívja fel a megrendelő szervet. A megrendelő szerv a hiánypótlást 8 munkanapon belül megküldi a központi alkalmazás-szolgáltató részére. A megfelelőségi szakmai vélemény kiállításának határideje a hiánypótlás időtartamával meghosszabbodik.
 
-(4) A központi alkalmazás-szolgáltató – ha ez az (5) bekezdés szerinti szakmai véleményének kialakítása érdekében szükséges – szakmai véleményt köteles beszerezni a központi infrastruktúra-szolgáltatótól, aki a szakmai véleményét a megkereséstől számított 5 napon belül köteles a központi alkalmazás-szolgáltató részére megküldeni.
+(6) A végső műszaki-szakmai átadás-átvétel során a központi termék minőségbiztosító a 17. § (4) bekezdésében meghatározott minőségbiztosítói jelentése alapján az (1) bekezdés szerinti eljárásba vonásától számított legkésőbb 15 munkanapon belül záró termék minőségbiztosítói jelentést készít.
 
-(5) A központi alkalmazás-szolgáltató a lefolytatott vizsgálata eredményéről az (1) bekezdés szerinti eljárásba vonásától számított legkésőbb 15 napon belül – a Felügyelet részére történő egyidejű megküldés mellett – megfelelőségi szakmai véleményt bocsát ki a megrendelő szerv részére.
+(7) Ha a központi termék minőségbiztosító által készített jelentés kiállításához szükséges dokumentáció hiányos, vagy a jelentés kiállításához további információ szükséges, a központi termék minőségbiztosító hiánypótlásra hívja fel a megrendelő szervet. A megrendelő szerv a hiánypótlást 8 munkanapon belül megküldi a központi termék minőségbiztosító részére. A termék minőségbiztosítói jelentés kiállításának határideje a hiánypótlás időtartamával meghosszabbodik.
 
-(6) Ha a központi alkalmazás-szolgáltató a vizsgálata alapján „nem megfelelő” minősítést tartalmazó szakmai véleményt bocsát ki, a megrendelő szerv – ha nem él a (8) bekezdésben biztosított jogával – köteles a szakmai véleményben megjelölt hiányosságok pótlására észszerű póthatáridő tűzésével felszólítani a fejlesztést végző szervezetet.
+(8) A központi termék minőségbiztosító az alábbi feltételek teljesülése esetén kérheti a hiányosságok pótlását:
 
-(7) Ha a (6) bekezdés szerint nyitva álló póthatáridő alatt a fejlesztő szervezet által végrehajtott hiánypótlást követően megismételt vizsgálata alapján a központi alkalmazás-szolgáltató ismételten „nem megfelelő” minősítést tartalmazó szakmai véleményt bocsát ki, vagy a hiánypótlásra nyitva álló határidő eredménytelenül telik el, a fejlesztett alkalmazás átvételét a megrendelő szerv köteles megtagadni.
+a) a megrendelő szerv által feltöltött ÁAK űrlapadatok hiányosak vagy ellentmondásosak,
 
-(8) Ha a megrendelő szerv a központi alkalmazás-szolgáltató (6) bekezdés szerinti szakmai véleményével nem ért egyet, felülvizsgálatát kérheti a Felügyelettől a szakmai vélemény kézhezvételétől számított 15 napon belül.
+b) a forráskód nem megfelelően került feltöltésre,
 
-(9) A szakmai vélemény felülvizsgálatára irányuló kérelemhez a megrendelő szerv a Felügyelet részére köteles benyújtani
+c) a forráskódhoz tartozó tesztek futtatásának, futtatható állomány készítésének technikai leírása nem megfelelő,
 
-a) a központi alkalmazás-szolgáltató szakmai véleményét,
+d) a feltöltött tesztelési dokumentációk hiányosak,
 
-b) a szakmai vélemény felülvizsgálatára irányuló, részletes indokolással ellátott kérelmet, és az ezt alátámasztó dokumentumokat.
+e) a feltöltött tervdokumentációk alapján nem lehetséges teljesítménytesztek tervezése, implementálása, futtatása,
 
-(10) A Felügyelet szakmai vélemény felülvizsgálatára irányuló eljárásában hiánypótlásra nincs lehetőség.
+f) a megrendelő szerv nem végzett teljesítményteszteket.
 
-(11) Ha álláspontja kialakításához szükséges, a Felügyelet a szakmai vélemény felülvizsgálatára irányuló kérelem beérkezésétől számított 5 napon belül intézkedik a fejlesztéssel érintett területen működő ágazati integrátor állásfoglalásának beszerzése érdekében. Az ágazati integrátor írásbeli állásfoglalását a megkeresés kézhezvételétől számított 5 napon belül köteles megküldeni a Felügyeletnek.
+(9) A végső műszaki-szakmai átadás-átvétel során a záró termék minőségbiztosítói jelentés elkészítését követő 15 munkanapon belül a központi termék minőségbiztosító a saját, a megrendelő, valamint a központi alkalmazás-szolgáltató vizsgálati eredményeit összegző záró megfelelőségi nyilatkozatot készít, amelyet megküld a Felügyelet, a megrendelő szerv, továbbá a központi alkalmazás-szolgáltató részére.
 
-(12) A Felügyelet a szakmai vélemény felülvizsgálatával kapcsolatos döntését a felülvizsgálatra irányuló kérelem kézhezvételétől számított 15 napon belül hozza meg, és arról haladéktalanul tájékoztatja a megrendelőt és a központi alkalmazás-szolgáltatót.
+(10) Ha a központi termék minőségbiztosító „nem megfelelő” minősítést tartalmazó záró megfelelőségi nyilatkozatot bocsát ki, a megrendelő szerv – a (12) bekezdés szerinti kivétellel – köteles a nyilatkozatban megjelölt hiányosságok pótlására észszerű póthatáridő tűzésével felszólítani a fejlesztést végző szervezetet.
+
+(11) Ha a (10) bekezdés szerinti póthatáridő alatt a fejlesztő szervezet által végrehajtott hiánypótlást követően megismételt végső műszaki-szakmai átadás-átvételi eljárásban a központi alkalmazás-szolgáltató és a központi termék minőségbiztosító ismételten „nem megfelelő” minősítést tartalmazó záró megfelelőségi nyilatkozatot bocsát ki, vagy a póthatáridő eredménytelenül telik el, a fejlesztett alkalmazás átvételét a megrendelő szerv megtagadja.
+
+(12) Ha a megrendelő szerv a központi termék minőségbiztosító (9) bekezdés szerinti záró megfelelőségi nyilatkozatával nem ért egyet, annak felülvizsgálatát kérheti a Felügyelettől az nyilatkozat kézhezvételétől számított 15 napon belül.
+
+(13) A szakmai vélemény felülvizsgálatára irányuló kérelmet indokolással kell ellátni, és csatolni kell hozzá az ezt alátámasztó dokumentumokat.
+
+(14) A Felügyeletnek a záró megfelelőségi nyilatkozat felülvizsgálatára irányuló eljárásában hiánypótlásra nincs lehetőség.
+
+(15) A Felügyelet a záró megfelelőségi nyilatkozat felülvizsgálatával kapcsolatos döntését a felülvizsgálatra irányuló kérelem kézhezvételétől számított 15 napon belül hozza meg, és arról haladéktalanul tájékoztatja a megrendelőt, a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót.
+
+(16) A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 8 napon belül a Nemzetbiztonsági Kabinetnél, amely a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg döntését.
+
+[^49]: A 18. § a 476/2021. (VIII. 9.) Korm. rendelet 1. § (25) bekezdésével megállapított szöveg.

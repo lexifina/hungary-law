@@ -1,4 +1,4 @@
-## 3. A központi alkalmazás-szolgáltató, a központi infrastruktúra-szolgáltató, valamint a Felügyelet feladatai
+## 3. [^12] A központi alkalmazás-szolgáltató, a központi infrastruktúra-szolgáltató, a központi termék minőségbiztosító, valamint a Felügyelet feladatai
 
 4. § (1) A központi alkalmazás-szolgáltató
 
@@ -8,7 +8,7 @@ aa) végzi az ÁAFK alkalmazásplatform szolgáltatás (aPaaS) szintű fejleszt�
 
 ab) ellátja az alkalmazásfejlesztésekkel kapcsolatos technológiai-szakértői és alkalmazás-integrátori feladatokat,
 
-ac) végzi az ágazati integrátorok tevékenységének összehangolását, ennek keretében az ágazati integrátorokkal együttműködési megállapodást köt,
+ac)[^13]
 
 ad) kiadja a fejlesztési igények Felügyelet felé történő benyújtásához szükséges, 15. § (1) bekezdése szerinti igazolást,
 
@@ -42,9 +42,9 @@ a) virtualizációs szinten és az alatt biztosítja, fejleszti és továbbfejle
 
 b) nyújtja az ÁAFK és az ÁAK elérését biztosító hálózati infrastruktúra és egyéb hálózat üzemeltetési szolgáltatásokat,
 
-c) kialakítja és az ÁAFK felületen közzéteszi az ÁAFK-t használó fejlesztő szervezetek infrastruktúra szintű hozzáférésének szabályrendszerét és az igénybevételhez kapcsolódó módszertani útmutatókat,
+c)[^14] kialakítja a központi alkalmazás-szolgáltató és a központi termék minőségbiztosító bevonásával az ÁAFK-t használó fejlesztő szervezetek infrastruktúra szintű hozzáférésének szabályrendszerét és az igénybevételhez kapcsolódó módszertani útmutatókat, amelyeket a központi alkalmazás-szolgáltató az ÁAFK, valamint ÁAK rendszerfelületein közzétesz,
 
-d) a központi alkalmazás-szolgáltató bevonásával kialakítja és az ÁAFK, valamint az ÁAK rendszerfelületein közzéteszi az ÁAFK és az ÁAK használatával kapcsolatos technológiai és IT biztonsági követelményeket meghatározó módszertani ajánlásokat.
+d)[^15] kialakítja a központi alkalmazás-szolgáltató és a központi termék minőségbiztosító bevonásával az ÁAFK, valamint az ÁAK használatával kapcsolatos technológiai és IT biztonsági követelményeket meghatározó módszertani ajánlásokat, amelyeket a központi alkalmazás-szolgáltató az ÁAFK, valamint az ÁAK rendszerfelületein közzétesz.
 
 (3) A Felügyelet, a miniszter által meghatározott szakpolitikai irányelvek alapján
 
@@ -52,7 +52,7 @@ a) szakmai ajánlásként honlapján közzéteszi az alkalmazásfejlesztésekkel
 
 b) kiadja az alkalmazásfejlesztés megvalósítását támogató tanúsítványt,
 
-c) a fejlesztő szervezetek által készre jelentett alkalmazások átadás-átvételi eljárásában a központi alkalmazás-szolgáltató által kiállított szakmai vélemény felülvizsgálatával kapcsolatos kérelmeket elbírálja, a felülvizsgálati eljárásban hozott döntéséről a megrendelő szervet, valamint a központi alkalmazás-szolgáltatót tájékoztatja,
+c)[^16] a fejlesztő szervezetek által készre jelentett alkalmazások átadás-átvételi eljárásaiban a központi termék minőségbiztosító által kiállított záró megfelelőségi nyilatkozat felülvizsgálatával kapcsolatos kérelmeket elbírálja, a felülvizsgálati eljárásban hozott döntéséről a megrendelő szervet, valamint a központi alkalmazás-szolgáltatót, illetve a központi termék minőségbiztosítót tájékoztatja,
 
 d) szakmai ajánlásként honlapján közzéteszi az ÁAK-ba történő adatfeltöltést lehetővé tévő, a központi alkalmazás-szolgáltató által kidolgozott módszertani ajánlást,
 
@@ -69,3 +69,45 @@ ed) a (2) bekezdés d) pontjában
 ## felsorolt dokumentációkat,
 
 f) ellátja az e rendeletben meghatározott egyéb feladatait.
+
+(4)[^17] A központi termék minőségbiztosító kötelezően igénybe veendő szolgáltatásai:
+
+a) a fejlesztési dokumentáció műszaki vizsgálata az 1. mellékletben foglaltak érvényesítése szempontjából,
+
+b) a fejlesztési tevékenység ellenőrzése, a kódolási hibák feltárása, a kódminőség javítása, kódszintű sérülékenységek feltárása, a fejlesztői tesztek dokumentáltságának ellenőrzése az 1. mellékletben foglalt területeket érintően,
+
+c) a végleges átadás-átvételi eljárás során az ÁAK-ban történő elhelyezésre való alkalmasság vizsgálata, az állami szerver infrastruktúra környezetben elhelyezendő eredménytermékek esetén a teljesítménytesztelések lefolytatásának tényének ellenőrzése,
+
+d) a megrendelő döntése alapján a 12/A. § alapján bevont saját – az 1. mellékletben foglaltak teljesülésével kapcsolatosan tevékenységet végző – minőségbiztosító által ellátott feladatok elvégzésének és azok minőségének vizsgálata.
+
+(5)[^18] A kötelezően igénybe veendő szolgáltatásokat a központi termék minőségbiztosító közszolgáltatási szerződés alapján, az ott meghatározott feltételekkel nyújtja.
+
+(6)[^19] A központi termék minőségbiztosító által, egyedi megállapodás alapján nyújtott, igénybe vehető szolgáltatások:
+
+a) az egyes fejlesztési mérföldkövekhez kapcsolódó termék minőségbiztosítói értékelés elkészítése,
+
+b) minőségbiztosítási terv elkészítése,
+
+c) szoftverfejlesztési tanácsadás,
+
+d) megrendelői igények teljesülésének, jogszabályi megfelelőségének ellenőrzése,
+
+e) közreműködés felhasználói tesztek elvégzésében.
+
+(7)[^20] A központi termék minőségbiztosító tevékenysége
+
+a) nem minősül a megfelelőségértékelő szervezetek tevékenységéről szóló törvény szerinti megfelelőségértékelési tevékenységnek,
+
+b) nem vált ki jogszabályban előírt, az informatikai rendszerekre vonatkozó tanúsítási kötelezettséget, valamint
+
+c) nem váltja ki a megrendelő és a szállító között létrejött szerződésen alapuló polgárjogi kötelmeket és jótállási és szavatossági kötelezettségeket.
+
+[^12]: A 3. alcím címe a 476/2021. (VIII. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (1) bekezdés a) pont ac) alpontját a 476/2021. (VIII. 9.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^14]: A 4. § (2) bekezdés c) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^15]: A 4. § (2) bekezdés d) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^16]: A 4. § (3) bekezdés c) pontja a 476/2021. (VIII. 9.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.
+[^17]: A 4. § (4) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be.
+[^18]: A 4. § (5) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be.
+[^19]: A 4. § (6) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be.
+[^20]: A 4. § (7) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (10) bekezdése iktatta be.

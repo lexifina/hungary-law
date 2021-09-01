@@ -1,4 +1,4 @@
-## 31. §[^8]
+## 31. §[^60]
 
 1. melléklet a 314/2018. (XII. 27.) Korm. rendelethez
 
@@ -32,4 +32,13 @@
 
 14. Amennyiben az adott alkalmazás elektronikus dokumentumot állít elő, biztosítani kell, hogy a készített elektronikus dokumentum más szoftverrel is olvasható, illetve szerkeszthető legyen, legalább az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 1. mellékletében meghatározott és a szoftver felhasználása szempontjából értelmezhető, az elektronikus ügyintézést biztosító szervek által kötelezően elfogadott elektronikus dokumentumformátumok használatának a lehetővé tételével.
 
-[^8]: A 31. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+15.[^61] Az alkalmazás-fejlesztések során nem alkalmazható olyan technológiai megoldás vagy rendszer, amely az adatkezelő kifejezett hozzájárulása nélkül lehetővé teszi a harmadik fél általi hozzáférést, továbbá nem alkalmazható olyan technológiai elem vagy rendszer komponens, amelynek felhasználási feltételei egyoldalú szerződésmódosítást tesznek lehetővé, és ezáltal lehetségessé válhat a harmadik fél általi adathozzáférés.
+
+16.[^62] Az éles üzembe állításnál az adott alkalmazás rendelkezik az informatikai elektronikus információbiztonsági, illetve adatvédelmi, valamint a jogszabályokban vagy szerződésben meghatározott tanúsítvánnyal.
+
+17.[^63] Az állami érdekű alkalmazásfejlesztések tervezése, illetve a fejlesztési feladatok megvalósítása során figyelemmel kell lenni arra, hogy az elektronikus ügyintézés lehetőségét a megvalósult alkalmazás elősegítse, illetve biztosítsa.
+
+[^60]: A 31. a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: Az 1. melléklet 15. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^62]: Az 1. melléklet 16. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^63]: Az 1. melléklet 17. pontját a 476/2021. (VIII. 9.) Korm. rendelet 2. §-a iktatta be.
