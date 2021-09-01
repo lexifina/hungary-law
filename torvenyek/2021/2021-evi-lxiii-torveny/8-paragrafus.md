@@ -1,0 +1,5 @@
+## 8. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
+
+8. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 7. §-a a következő (2) bekezdéssel egészül ki:
+
+„(2) Az oktatási nyilvántartás működtetéséért felelős szerv a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából. Az adatszolgáltatás a középfokú nappali oktatás munkarendje szerint vagy felsőoktatási intézményben nappali oktatás munkarendje szerint tanulmányokat folytató gyermek nevére, az oktatási intézmény nevére és címére, valamint a tanulmányok kezdetének, illetve a tanulmányok befejezésének várható időpontjára terjed ki.”
