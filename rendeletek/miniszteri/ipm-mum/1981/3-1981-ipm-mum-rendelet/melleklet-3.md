@@ -2,7 +2,7 @@
 
 ## 2.1 Erőművek
 
-## I.[^4]
+## I.[^5]
 
 ## II. Kazánteljesítmény 2000 MW fölött, vagy az üzemim nyomás 150 bar fölött.
 
@@ -28,7 +28,7 @@
 
 ## VI. A betápláló feszültségszinteken 1 MVA-t meg nem haladó beépített villamos teljesítőképességgel és legfeljebb 35 kV feszültségű hálózattal.
 
-## 2.3[^5]
+## 2.3[^6]
 
 ## I. Egy összefüggő fogyasztói vezetékhálózatot ellátó, 5 MVA-t meghaladó teljesítőképességű tápponttal és legalább 10 kV-os nagyfeszültségű hálózattal.
 
@@ -198,5 +198,5 @@ Az egyes munkakörökre előírt képesítés és gyakorlati idő
 
 | 7. | Ügyeletes villanyszerelő | 16 | 16 | 16 |  |  |  |
 
-[^4]: A 2. számú melléklet 2.1. szakaszából„ Atomerőmű” szövegrészt a 49/1998. (VI. 25.) IKIM-MKM együttes rendelet 12. §-ának (1) bekezdése hatályon kívül helyezte.
-[^5]: A 2. számú melléklet 2.3. szakaszát a 49/1998. (VI. 25.) IKIM-MKM együttes rendelet 12. §-ának (1) bekezdése hatályon kívül helyezte.
+[^5]: A 2. számú melléklet 2.1. szakaszából„ Atomerőmű” szövegrészt a 49/1998. (VI. 25.) IKIM-MKM együttes rendelet 12. §-ának (1) bekezdése hatályon kívül helyezte.
+[^6]: A 2. számú melléklet 2.3. szakaszát a 49/1998. (VI. 25.) IKIM-MKM együttes rendelet 12. §-ának (1) bekezdése hatályon kívül helyezte.
