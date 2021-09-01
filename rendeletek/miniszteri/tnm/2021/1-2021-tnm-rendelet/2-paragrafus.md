@@ -1,0 +1,1 @@
+## 1. § Az egyházi költségvetési céltámogatások folyósításáról és elszámolásáról szóló 5/2018. (XII. 21.) TNM rendelet (a továbbiakban: TNM rendelet) 2. § (1) bekezdés nyitó szövegrészében az „a hittanoktatás támogatásához” szövegrész helyébe az „a fakultatív hittanoktatás támogatásához” szöveg lép.
