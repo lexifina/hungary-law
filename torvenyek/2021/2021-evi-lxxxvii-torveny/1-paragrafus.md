@@ -1,0 +1,3 @@
+1. § A sportról szóló 2004. évi I. törvény (a továbbiakban: Sporttv.) 11. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hivatásos sportoló igazolásával, illetve átigazolásával kapcsolatos közvetítői jutalék, a (3) bekezdés szerint a sportszövetségnek fizetendő hozzájárulások, a 37/D. § (2) bekezdés szerinti költségtérítés, valamint a 37/D. § (4) bekezdés szerinti nevelési hozzájárulás kivételével semmis minden olyan megállapodás, amely a hivatásos sportolón, illetve a használati jogot ideiglenesen vagy véglegesen átruházó sportszervezeten kívül másnak biztosít részesedést a játékjog használati jogának átruházásáért fizetett ellenértékből.”
