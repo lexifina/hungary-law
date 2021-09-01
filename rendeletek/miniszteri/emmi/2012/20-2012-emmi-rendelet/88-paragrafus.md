@@ -8,9 +8,9 @@ c) az óvodai csoportnapló,
 
 d) az óvodai törzskönyv,
 
-e)[^233]
+e)[^252]
 
-f)[^234] a gyermek fejlődését nyomon követő dokumentáció.
+f)[^253] a gyermek fejlődését nyomon követő dokumentáció.
 
-[^233]: A 88. § e) pontját a 34/2019. (XII. 30.) EMMI rendelet 14. § h) pontja hatályon kívül helyezte.
-[^234]: A 88. § f) pontját a 22/2013. (III. 22.) EMMI rendelet 15. §-a iktatta be.
+[^252]: A 88. § e) pontját a 34/2019. (XII. 30.) EMMI rendelet 14. § h) pontja hatályon kívül helyezte.
+[^253]: A 88. § f) pontját a 22/2013. (III. 22.) EMMI rendelet 15. §-a iktatta be.

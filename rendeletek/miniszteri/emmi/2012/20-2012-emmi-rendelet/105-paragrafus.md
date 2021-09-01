@@ -1,6 +1,6 @@
 105. § (1) Az iskola a pedagógiai munka tervezéséhez tantárgyfelosztást készít.
 
-(2)[^261] A tantárgyfelosztás
+(2)[^282] A tantárgyfelosztás
 
 a) a tanév évszámát,
 
@@ -22,12 +22,12 @@ i) a fenntartó által engedélyezett pedagógus-álláshelyek számát
 
 tartalmazza.
 
-(3)[^262] A tantárgyfelosztást jóváhagyás céljából minden év augusztus 15-ig meg kell küldeni a fenntartónak.
+(3)[^283] A tantárgyfelosztást jóváhagyás céljából minden év augusztus 15-ig meg kell küldeni a fenntartónak.
 
 (4) A tantárgyfelosztás alapján készített összesített iskolai órarend tartalmazza a tanórai és az egyéb foglalkozások időpontját, osztályonként és tanóránként az adott tantárgy és a tanár megnevezésével.
 
-(5)[^263] Az alapfokú művészeti iskolában és a művészeti szakgimnáziumban a tantárgyfelosztásban az egyéni órák és a csoportos tantárgyak óráit azzal az eltéréssel kell feltüntetni, hogy abból a (2) bekezdés tartalma megállapítható legyen.
+(5)[^284] Az alapfokú művészeti iskolában és a művészeti szakgimnáziumban a tantárgyfelosztásban az egyéni órák és a csoportos tantárgyak óráit azzal az eltéréssel kell feltüntetni, hogy abból a (2) bekezdés tartalma megállapítható legyen.
 
-[^261]: A 105. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
-[^262]: A 105. § (3) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 9. §-ával megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^263]: A 105. § (5) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont c) alpontja szerint módosított szöveg.
+[^282]: A 105. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^283]: A 105. § (3) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 9. §-ával megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^284]: A 105. § (5) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 8. pont c) alpontja szerint módosított szöveg.

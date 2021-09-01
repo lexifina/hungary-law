@@ -1,10 +1,10 @@
 ## 2. Az iskolai évfolyamok számozása
 
-2. § (1) Az iskolai évfolyamok számozása – a (2) bekezdésben meghatározott kivétellel – az általános iskola első évfolyamától kezdődően a középiskolai tanulmányok utolsó évfolyamáig, a kiegészítő nemzetiségi oktatás feladatait ellátó iskola első évfolyamától és az alapfokú művészeti iskolában az első alapfokú évfolyamtól folyamatos.
+2. § (1)[^4] Az iskolai évfolyamok számozása – a (2) bekezdésben meghatározott kivétellel – az általános iskola első évfolyamától kezdődően a középiskolai tanulmányok utolsó évfolyamáig, a kiegészítő nemzetiségi nyelvoktatás feladatait ellátó iskola első évfolyamától és az alapfokú művészeti iskolában az első alapfokú évfolyamtól folyamatos.
 
 (2) Az (1) bekezdéstől eltérően
 
-a)[^4]
+a)[^5]
 
 b) a nyelvi előkészítő évfolyammal szervezett nevelés-oktatás évfolyamának nyolc évfolyamos gimnázium esetében 5/Ny, hat évfolyamos gimnázium esetében 7/Ny, egyéb esetben 9/Ny,
 
@@ -12,21 +12,22 @@ c) a két tanítási nyelvű középiskola által szervezett nevelés-oktatás e
 
 d) a nemzetiségi nevelés-oktatást folytató középiskola nemzetiségi előkészítő évfolyamának nyolc évfolyamos gimnázium esetén 5/N, hat évfolyamos gimnázium esetén7/N, egyéb esetben 9/N
 
-e)[^5] az Arany János Tehetséggondozó Program előkészítő évfolyamának 9/AJTP,
+e)[^6] az Arany János Tehetséggondozó Program előkészítő évfolyamának 9/AJTP,
 
-f)[^6] az Arany János Kollégiumi Program előkészítő évfolyamának 9/AJKP,
+f)[^7] az Arany János Kollégiumi Program előkészítő évfolyamának 9/AJKP,
 
-g)[^7] az enyhén értelmi fogyatékos tanulók nevelő-oktató munkáját ellátó szakiskolák kötelező előkészítő évfolyamának 9/E,
+g)[^8] az enyhén értelmi fogyatékos tanulók nevelő-oktató munkáját ellátó szakiskolák kötelező előkészítő évfolyamának 9/E,
 
-h)[^8] a kizárólag érettségit követő szakmai nevelést-oktatást folytató szakgimnáziumi – kerettantervben foglalt követelmények szerinti – 13–14. évfolyamnak Ksz/13, Ksz/14
+h)[^9] a kizárólag érettségit követő szakmai nevelést-oktatást folytató szakgimnáziumi – kerettantervben foglalt követelmények szerinti – 13–14. évfolyamnak Ksz/13, Ksz/14
 
-i)[^9]
+i)[^10]
 
 az elnevezése.
 
-[^4]: A 2. § (2) bekezdés a) pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 1. pontja hatályon kívül helyezte.
-[^5]: A 2. § (2) bekezdés e) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (2) bekezdés f) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (2) bekezdés g) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 20/2016. (VIII. 24.) EMMI rendelet 28. § 2. pontja szerint módosított szöveg.
-[^8]: A 2. § (2) bekezdés h) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 31/2020. (VIII. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^9]: A 2. § (2) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 20/2016. (VIII. 24.) EMMI rendelet 28. § 1. pontja.
+[^4]: A 2. § (1) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdés a) pontját a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+[^6]: A 2. § (2) bekezdés e) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés f) pontját a 36/2012. (XI. 14.) EMMI rendelet 7. §-a iktatta be, szövege a 45/2014. (X. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdés g) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 20/2016. (VIII. 24.) EMMI rendelet 28. § 2. pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdés h) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 31/2020. (VIII. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. § (2) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 20/2016. (VIII. 24.) EMMI rendelet 28. § 1. pontja.

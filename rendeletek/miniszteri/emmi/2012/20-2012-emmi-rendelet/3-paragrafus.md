@@ -10,7 +10,7 @@
 
 a) az óvodai nevelés nélküli munkanapok, az iskolai tanítás nélküli munkanapok időpontját, felhasználását,
 
-b) a szünetek időtartamát,
+b)[^11] az iskolai szünetek időtartamát,
 
 c) az iskolában a nemzetünk szabadságtörekvéseit tükröző, továbbá nemzeti múltunk mártírjainak emlékét, példáját őrző, az aradi vértanúk (október 6.), a kommunista és egyéb diktatúrák áldozatai (február 25.), a holokauszt áldozatai (április 16.), a Nemzeti Összetartozás Napja (június 4.), a március 15-ei és az október 23-ai nemzeti ünnepek, valamint az iskola hagyományai ápolása érdekében meghonosított egyéb emléknapok, megemlékezések időpontját,
 
@@ -24,15 +24,27 @@ g) az alapfokú művészeti iskola és kollégium kivételével a tanulók fizik
 
 h) minden egyéb, a nevelőtestület által szükségesnek ítélt kérdést,
 
-i)[^10] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanórán kívüli tevékenység a kórustagok számára nem folytatható,
+i)[^12] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanórán kívüli tevékenység a kórustagok számára nem folytatható,
 
-j)[^11] az iskolai sportkör szakmai programját,
+j)[^13] az iskolai sportkör szakmai programját,
 
-k)[^12] az általános iskolák 1–8. évfolyamán, a tanítási év során tervezett színházi, tánc- és cirkuszi előadások, komolyzenei hangversenyek, valamint az őshonos állatok bemutatóhelyei látogatásának előre tervezhető időszakát.
+k)[^14] az általános iskolák 1–8. évfolyamán, a tanítási év során tervezett színházi, tánc- és cirkuszi előadások, komolyzenei hangversenyek, valamint az őshonos állatok bemutatóhelyei látogatásának előre tervezhető időszakát.
 
-(2a)[^13] Az iskola munkatervében kell meghatározni azoknak a tanulmányi versenyeknek az időpontját, amelyekben az iskola a tanulóival részt kíván venni. Ha a tanulmányi versenyt a munkaterv elfogadásakor még nem hirdették meg, az iskola a felkészítést a munkatervben való feltüntetés nélkül is elvégezheti. Ha a versenyek anyagi ráfordítást igényelnek, ahhoz a fenntartó egyetértése szükséges.
+(2a)[^15] Az iskola munkatervében kell meghatározni azoknak a tanulmányi versenyeknek az időpontját, amelyekben az iskola a tanulóival részt kíván venni. Ha a tanulmányi versenyt a munkaterv elfogadásakor még nem hirdették meg, az iskola a felkészítést a munkatervben való feltüntetés nélkül is elvégezheti. Ha a versenyek anyagi ráfordítást igényelnek, ahhoz a fenntartó egyetértése szükséges.
 
-(2b)[^14] Az iskolai nevelés-oktatás mellett a jogszabályban meghatározott vagy a pedagógiai-szakmai szolgáltatás keretében a hivatal által szervezett tanulmányi versenyek a kerettantervek végrehajtását szolgálják. A versenyek tartalmi követelményeinek alapja az adott évfolyamokra vonatkozó kerettantervi tartalom.
+(2b)[^16] Az iskolai nevelés-oktatás mellett
+
+a) az Nkt. 6. §-a szerinti érettségi vizsga,
+
+b) az Nkt. 19. § (2) bekezdés f) pontja szerinti országos pedagógiai-szakmai szolgáltatások keretében szervezett tanulmányi versenyek,
+
+c) az Nkt. 80. §-a szerinti országos mérés,
+
+d) a 29. § (1) bekezdése alapján a középfokú iskolába történő felvételi eljárás keretében a központilag kiadott egységes feladatlapokkal megszervezett írásbeli vizsga,
+
+e) a 183. § alapján szervezett országos tanulmányi versenyek
+
+a kerettantervek végrehajtását szolgálják. Az a)–e) pont szerinti események tartalmi követelményeinek alapja az adott évfolyamokra vonatkozó kerettantervi, közműveltségi tartalom.
 
 (3) Az iskolai tanítás nélküli munkanapok időpontjáról az iskola a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégiumot, a gyakorlati képzés folytatóját és szervezőjét, valamint a vele kapcsolatban álló alapfokú művészeti iskolát tájékoztatja. A kollégiumban az iskolai tanítás nélküli munkanapokkal összhangban az adott iskolával tanulói jogviszonyban álló tanulók vonatkozásában kollégiumi foglalkozás nélküli munkanap tartható.
 
@@ -44,11 +56,12 @@ k)[^12] az általános iskolák 1–8. évfolyamán, a tanítási év során ter
 
 (7) Az óvodában a napirendet úgy kell kialakítani, hogy a szülők – a házirendben meghatározottak szerint – gyermeküket az óvodai tevékenység zavarása nélkül behozhassák és hazavihessék. Az óvoda nyári zárva tartásáról legkésőbb február tizenötödikéig, a nevelés nélküli munkanapokról legalább hét nappal a zárva tartást megelőzően a szülőket tájékoztatni kell.
 
-(8)[^15]
+(8)[^17]
 
-[^10]: A 3. § (2) bekezdés i) pontját a 20/2016. (VIII. 24.) EMMI rendelet 2. §-a iktatta be.
-[^11]: A 3. § (2) bekezdés j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
-[^12]: A 3. § (2) bekezdés k) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
-[^13]: A 3. § (2a) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 4. § (2) bekezdése iktatta be.
-[^14]: A 3. § (2b) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 2. §-a iktatta be.
-[^15]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.
+[^11]: A 3. § (2) bekezdés b) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdés i) pontját a 20/2016. (VIII. 24.) EMMI rendelet 2. §-a iktatta be.
+[^13]: A 3. § (2) bekezdés j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^14]: A 3. § (2) bekezdés k) pontját a 20/2019. (VIII. 30.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^15]: A 3. § (2a) bekezdését a 20/2019. (VIII. 30.) EMMI rendelet 4. § (2) bekezdése iktatta be.
+[^16]: A 3. § (2b) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 2. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^17]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.

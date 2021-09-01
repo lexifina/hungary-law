@@ -12,15 +12,15 @@
 
 (7) Az ellenőrzésben érintett pedagógus, szakértő, valamint az érintett intézmény vezetője haladéktalanul köteles értesíteni a hivatalt minden olyan körülményről, amely az ellenőrzés lebonyolítását akadályozza vagy veszélyezteti. Az időpontot és a szakértők kijelölését az érintettek kezdeményezésére a hivatal módosíthatja, amelyről haladéktalanul értesíti az érintetteket. Ha a pedagógus, az intézményvezető neki fel nem róható okból nem tud részt venni a rá vonatkozó ellenőrzésben, a hivatal új időpontot jelöl ki a számára. E szabály alkalmazásában a pedagógusnak, az intézményvezetőnek fel nem róható ok minden olyan, a részvételt gátló esemény, körülmény, amelynek bekövetkezése nem vezethető vissza a pedagógus, az intézményvezető szándékos vagy gondatlan magatartására.
 
-(7a)[^384] Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.
+(7a)[^417] Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.
 
-(8)[^385] Az ellenőrzést vezető szakértő a látogatást követő szakértői egyeztetésnek megfelelően, az ellenőrzést követő tizenöt napon belül elkészíti az ellenőrzés tapasztalatait tartalmazó szakértői értékelést az informatikai támogató rendszerben.
+(8)[^418] Az ellenőrzést vezető szakértő a látogatást követő szakértői egyeztetésnek megfelelően, az ellenőrzést követő tizenöt napon belül elkészíti az ellenőrzés tapasztalatait tartalmazó szakértői értékelést az informatikai támogató rendszerben.
 
-(9)[^386] Az ellenőrzésben érintett személy, az intézményellenőrzés esetén az intézményvezető számára az ellenőrzés eredménye a (8) bekezdésben meghatározott határidő lejártától az informatikai támogató rendszer útján elérhető válik.
+(9)[^419] Az ellenőrzésben érintett személy, az intézményellenőrzés esetén az intézményvezető számára az ellenőrzés eredménye a (8) bekezdésben meghatározott határidő lejártától az informatikai támogató rendszer útján elérhető válik.
 
-(10)[^387] Az intézményi látogatást követően a (8) bekezdés szerinti szakértői értékelés rögzítésének határidejéig az ellenőrzésben részt vett személy, továbbá intézményellenőrzés esetén az intézmény vezetője a nevelőtestülettel egyeztetve értékelőlapot tölthet ki a szakértőkről a hivatal által működtetett informatikai támogató rendszerben. A hivatal az értékelőlapot a szakértői tevékenység egységes értékelési szempontjai alapján állítja össze. A hivatal a szakértőkről készült értékelőlapok tartalmáról minden év november 30-ig összesítő kimutatást készít, melyet az informatikai támogató rendszerben elérhetővé tesz a szakértő számára.
+(10)[^420] Az intézményi látogatást követően a (8) bekezdés szerinti szakértői értékelés rögzítésének határidejéig az ellenőrzésben részt vett személy, továbbá intézményellenőrzés esetén az intézmény vezetője a nevelőtestülettel egyeztetve értékelőlapot tölthet ki a szakértőkről a hivatal által működtetett informatikai támogató rendszerben. A hivatal az értékelőlapot a szakértői tevékenység egységes értékelési szempontjai alapján állítja össze. A hivatal a szakértőkről készült értékelőlapok tartalmáról minden év november 30-ig összesítő kimutatást készít, melyet az informatikai támogató rendszerben elérhetővé tesz a szakértő számára.
 
-[^384]: A 147. § (7a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 10. §-a iktatta be.
-[^385]: A 147. § (8) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.1. alpontja szerint módosított szöveg.
-[^386]: A 147. § (9) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.2. alpontja szerint módosított szöveg.
-[^387]: A 147. § (10) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 9. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.3. alpontja szerint módosított szöveg.
+[^417]: A 147. § (7a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 10. §-a iktatta be.
+[^418]: A 147. § (8) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.1. alpontja szerint módosított szöveg.
+[^419]: A 147. § (9) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.2. alpontja szerint módosított szöveg.
+[^420]: A 147. § (10) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 9. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.3. alpontja szerint módosított szöveg.

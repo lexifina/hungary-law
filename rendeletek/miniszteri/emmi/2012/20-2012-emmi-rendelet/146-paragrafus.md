@@ -6,9 +6,11 @@ b) az intézményvezető ellenőrzése,
 
 c) az intézményellenőrzés.
 
+d)[^411] a komplex ellenőrzés.
+
 (2) A pedagógus ellenőrzése általános pedagógiai szempontok szerint történik, célja az ellenőrzött pedagógus pedagógiai kompetenciáinak fejlesztése, módszere – ha a pedagógus munkakörének részét képezi – a foglalkozások, tanítási órák egységes szempontok szerinti megfigyelése, a pedagógus mindennapi nevelő-oktató munkáját megalapozó pedagógiai tervezés dokumentumainak vizsgálata, interjú felvétele, valamint az intézményi önértékelés pedagógusra vonatkozó eredményeinek elemzése.
 
-(2a)[^379] A pedagógus ellenőrzésére a minősítő vizsgán vagy a minősítési eljárásban való részvételét követő három évig nem kerül sor.
+(2a)[^412] A pedagógus ellenőrzésére a minősítő vizsgán vagy a minősítési eljárásban való részvételét követő három évig nem kerül sor.
 
 (3) A pedagógus ellenőrzése a pedagógus munkájának alábbi területeit vizsgálja:
 
@@ -20,7 +22,7 @@ c) a tanulás támogatása,
 
 d) a tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesülése, a hátrányos helyzetű, sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló többi gyermekkel, tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges megfelelő módszertani felkészültség,
 
-e)[^380] a tanulói csoportok, közösségek alakulásának segítése, fejlesztése, esélyteremtés, fenntarthatóság szempontjainak figyelembevétele, integrációs tevékenység, osztályfőnöki tevékenység,
+e)[^413] a tanulói csoportok, közösségek alakulásának segítése, fejlesztése, esélyteremtés, fenntarthatóság szempontjainak figyelembevétele, integrációs tevékenység, osztályfőnöki tevékenység,
 
 f) pedagógiai folyamatok és a tanulók személyiségfejlődésének folyamatos értékelése, elemzése,
 
@@ -28,11 +30,11 @@ g) kommunikáció és szakmai együttműködés, problémamegoldás, valamint
 
 h) elkötelezettség és szakmai felelősségvállalás a szakmai fejlődésért,
 
-i)[^381] a környezeti nevelésben mutatott jártasság, a fenntarthatóság értékrendjének hiteles képviselete és a környezettudatossághoz kapcsolódó attitűdök formálásának módja.
+i)[^414] a környezeti nevelésben mutatott jártasság, a fenntarthatóság értékrendjének hiteles képviselete és a környezettudatossághoz kapcsolódó attitűdök formálásának módja.
 
 (4) A pedagógiai szakszolgálati intézményben a szakértői bizottság és korai fejlesztés területen foglalkoztatottak vonatkozásában az értékelési elemek, kompetenciák a (3) bekezdés e) pontja kivételével kerülnek figyelembe vételre.
 
-(5)[^382] Az intézményvezető ellenőrzése a köznevelési intézmény és annak tagintézménye vezetőjére, valamint a többcélú köznevelési intézmény szervezeti és szakmai tekintetben önálló, köznevelési intézmény feladatát ellátó intézményegységének vezetőjére (a továbbiakban együtt: intézményvezető) terjed ki. Az ellenőrzés célja az intézményvezető pedagógiai és vezetői készségeinek fejlesztése az intézményvezető munkájának általános pedagógiai és vezetéselméleti szempontok, valamint az intézményvezető saját céljaihoz képest elért eredményei alapján. Módszere az interjúkészítés és a dokumentumelemzés, valamint az Nkt. 69. § (4) bekezdése által előírt és egyéb, az intézmény feladatellátásával összefüggő kérdőíves felmérések és az intézményi önértékelés intézményvezetőre vonatkozó dokumentumainak elemzése.
+(5)[^415] Az intézményvezető ellenőrzése a köznevelési intézmény és annak tagintézménye vezetőjére, valamint a többcélú köznevelési intézmény szervezeti és szakmai tekintetben önálló, köznevelési intézmény feladatát ellátó intézményegységének vezetőjére (a továbbiakban együtt: intézményvezető) terjed ki. Az ellenőrzés célja az intézményvezető pedagógiai és vezetői készségeinek fejlesztése az intézményvezető munkájának általános pedagógiai és vezetéselméleti szempontok, valamint az intézményvezető saját céljaihoz képest elért eredményei alapján. Módszere az interjúkészítés és a dokumentumelemzés, valamint az Nkt. 69. § (4) bekezdése által előírt és egyéb, az intézmény feladatellátásával összefüggő kérdőíves felmérések és az intézményi önértékelés intézményvezetőre vonatkozó dokumentumainak elemzése.
 
 (6) Az intézményvezető ellenőrzésére legkorábban az intézményvezetői megbízás második, legkésőbb negyedik évében kerülhet sor.
 
@@ -66,10 +68,11 @@ e) az intézmény külső kapcsolatai,
 
 f) a pedagógiai működés feltételei, valamint
 
-g)[^383] az intézménytípusra vonatkozó nevelési, nevelési-oktatási irányelvben meghatározott országos szakmai elvárásoknak és az intézményi céloknak való megfelelés.
+g)[^416] az intézménytípusra vonatkozó nevelési, nevelési-oktatási irányelvben meghatározott országos szakmai elvárásoknak és az intézményi céloknak való megfelelés.
 
-[^379]: A 146. § (2a) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 18. §-a iktatta be.
-[^380]: A 146. § (3) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^381]: A 146. § (3) bekezdés i) pontját a 20/2019. (VIII. 30.) EMMI rendelet 14. § (2) bekezdése iktatta be.
-[^382]: A 146. § (5) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 9. pontja szerint módosított szöveg.
-[^383]: A 146. § (10) bekezdés g) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 17. pontja szerint módosított szöveg.
+[^411]: A 146. § (1) bekezdés d) pontját a 37/2021. (VIII. 31.) EMMI rendelet 11. §-a iktatta be.
+[^412]: A 146. § (2a) bekezdését a 20/2016. (VIII. 24.) EMMI rendelet 18. §-a iktatta be.
+[^413]: A 146. § (3) bekezdés e) pontja a 20/2019. (VIII. 30.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^414]: A 146. § (3) bekezdés i) pontját a 20/2019. (VIII. 30.) EMMI rendelet 14. § (2) bekezdése iktatta be.
+[^415]: A 146. § (5) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 9. pontja szerint módosított szöveg.
+[^416]: A 146. § (10) bekezdés g) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 17. pontja szerint módosított szöveg.

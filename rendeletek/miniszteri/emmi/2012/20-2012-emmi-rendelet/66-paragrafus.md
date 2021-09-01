@@ -20,6 +20,6 @@ c) ellenőrzi a vizsgáztatás rendjének megtartását,
 
 d) minden szükséges intézkedést megtesz annak érdekében, hogy a vizsgát szabályosan, pontosan meg lehessen kezdeni és be lehessen fejezni.
 
-(4)[^206] A vizsga reggel nyolc óra előtt nem kezdhető el, és legfeljebb tizenhét óráig – alapfokú művészeti iskolában, művészeti szakgimnáziumban húsz óráig – tarthat.
+(4)[^219] A vizsga reggel nyolc óra előtt nem kezdhető el, és legfeljebb tizenhét óráig – alapfokú művészeti iskolában, művészeti szakgimnáziumban húsz óráig – tarthat.
 
-[^206]: A 66. § (4) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 23. pontja szerint módosított szöveg.
+[^219]: A 66. § (4) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 23. pontja szerint módosított szöveg.

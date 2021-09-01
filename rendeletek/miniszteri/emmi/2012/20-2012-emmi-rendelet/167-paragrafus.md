@@ -2,7 +2,7 @@
 
 (2) A köznevelési intézmény számára vásárolt dokumentumokat könyvtári nyilvántartásba kell venni. A könyvtáron kívül elhelyezett dokumentumokról lelőhely-nyilvántartást kell vezetni.
 
-(3)[^429] A könyvtár SZMSZ-ében kell meghatározni az iskolai, kollégiumi könyvtár
+(3)[^474] A könyvtár SZMSZ-ében kell meghatározni az iskolai, kollégiumi könyvtár
 
 a) könyvtárhasználóinak körét,
 
@@ -22,4 +22,4 @@ h) katalógusszerkesztési szabályzatát.
 
 (4) Az SZMSZ-nek a könyvtárhasználat kérdéseit meghatározó rendelkezéseit nyilvánosságra kell hozni.
 
-[^429]: A 167. § (3) bekezdése a 22/2013. (III. 22.) EMMI rendelet 32. §-ával megállapított szöveg.
+[^474]: A 167. § (3) bekezdése a 22/2013. (III. 22.) EMMI rendelet 32. §-ával megállapított szöveg.

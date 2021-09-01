@@ -1,12 +1,14 @@
 32. § (1) A hivatal szeptember 30-áig honlapján közlemény formájában nyilvánosságra hozza az adott tanévre vonatkozóan a középfokú iskolák tanulmányi területeinek meghatározási formáját.
 
-(2)[^119] A középfokú iskola a tanulmányi területek fő jellemzőit és belső kódjait az (1) bekezdés szerinti közlemény alapján állapítja meg, és október 20-áig rögzíti a KIFIR rendszerben.
+(2)[^123] A középfokú iskola a tanulmányi területek fő jellemzőit és belső kódjait az (1) bekezdés szerinti közlemény alapján állapítja meg, és október 20-áig rögzíti a KIFIR rendszerben.
 
-(3)[^120] A középfokú iskola felvételi tájékoztatót készít, és azt a honlapján nyilvánosságra hozza, valamint a KIFIR rendszerében október 20-áig elhelyezi.
+(2a)[^124] Az intézményvezető október 10-ig jóváhagyás céljából megküldi a fenntartónak a középfokú iskola által meghirdetendő tanulmányi területek tervezett létszámadatait. Ha a fenntartó öt munkanapon belül nem nyilatkozik, akkor hozzájárulását megadottnak kell tekinteni.
+
+(3)[^125] A középfokú iskola felvételi tájékoztatót készít, és azt a honlapján nyilvánosságra hozza, valamint a KIFIR rendszerében október 20-áig elhelyezi.
 
 (4) A felvételi tájékoztató tartalmazza
 
-a)[^121] a középfokú iskola OM azonosítóját, feladatellátási helyenként a meghirdetett tanulmányi területek leírását, az azokat jelölő belső kódokat,
+a)[^126] a középfokú iskola OM azonosítóját, feladatellátási helyenként a meghirdetett tanulmányi területek leírását, az azokat jelölő belső kódokat,
 
 b) a középfokú iskola felvételi eljárásának rendjét,
 
@@ -14,14 +16,15 @@ c) a felvételi kérelmek elbírálásának, rangsorolásának módját, szabál
 
 d) a sajátos nevelési igényű, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő jelentkezőre vonatkozó speciális elbírálási szabályokat,
 
-e)[^122] ha az iskola szóbeli vizsgát vagy a 27. § (5) bekezdése szerinti képesség-, készségfelmérést szervez, a vizsga vagy a felmérés követelményeit, időpontját és helyét,
+e)[^127] ha az iskola szóbeli vizsgát vagy a 27. § (5) bekezdése szerinti képesség-, készségfelmérést szervez, a vizsga vagy a felmérés követelményeit, időpontját és helyét,
 
 f) ha az adott középfokú iskola nem készít fel érettségi vizsgára, az arra vonatkozó tájékoztatást,
 
-g)[^123] ha a többcélú köznevelési intézmény az általános iskola feladatai mellett a középfokú iskolai feladatok közül legalább egyet ellát, annak szabályait, hogy az iskola tanulója milyen, a pedagógiai programban meghatározott feltételekkel léphet a középfokú iskolai évfolyamokra.
+g)[^128] ha a többcélú köznevelési intézmény az általános iskola feladatai mellett a középfokú iskolai feladatok közül legalább egyet ellát, annak szabályait, hogy az iskola tanulója milyen, a pedagógiai programban meghatározott feltételekkel léphet a középfokú iskolai évfolyamokra.
 
-[^119]: A 32. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 9. pontja szerint módosított szöveg.
-[^120]: A 32. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 10. pontja szerint módosított szöveg.
-[^121]: A 32. § (4) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 10. pontja szerint módosított szöveg.
-[^122]: A 32. § (4) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^123]: A 32. § (4) bekezdés g) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 11. pontja szerint módosított szöveg.
+[^123]: A 32. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 9. pontja szerint módosított szöveg.
+[^124]: A 32. § (2a) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 3. §-a iktatta be.
+[^125]: A 32. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 10. pontja szerint módosított szöveg.
+[^126]: A 32. § (4) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 10. pontja szerint módosított szöveg.
+[^127]: A 32. § (4) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^128]: A 32. § (4) bekezdés g) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 11. pontja szerint módosított szöveg.

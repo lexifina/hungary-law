@@ -1,4 +1,4 @@
-## 184/L. § A tankönyvvé nyilvánítási eljárás keretében kirendelt szakértő díjazását a 8. melléklet tartalmazza.
+## 184/T. § Az oktatásért felelős miniszter hatáskörébe tartozó szakképesítések megfeleltetését a 10. melléklet határozza meg.
 
 ## XXI. Fejezet
 

@@ -1,0 +1,1 @@
+## 152/J. § A 147. § (8) bekezdésétől eltérően a vezetőszakértő az ellenőrzést követő harminc napon belül készíti el a komplex szakértői értékelését az informatikai támogató rendszerben, és megküldi azt az intézmény fenntartó számára.

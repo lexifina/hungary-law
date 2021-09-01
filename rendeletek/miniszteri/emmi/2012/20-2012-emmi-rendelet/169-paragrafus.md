@@ -1,4 +1,4 @@
-169. § (1)[^430] A nevelési-oktatási intézmény kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
+169. § (1)[^475] A nevelési-oktatási intézmény kivizsgálja és nyilvántartja a tanuló- és gyermekbaleseteket, teljesíti az előírt bejelentési kötelezettséget.
 
 (2) A nyolc napon túl gyógyuló sérüléssel járó tanuló- és gyermekbaleseteket haladéktalanul ki kell vizsgálni. Ennek során fel kell tárni a kiváltó és a közreható személyi, tárgyi és szervezési okokat. Ezeket a baleseteket az oktatásért felelős miniszter által vezetett, a minisztérium üzemeltetésében lévő elektronikus jegyzőkönyvvezető rendszer segítségével kell nyilvántartani, vagy ha erre rendkívüli esemény miatt átmenetileg nincs lehetőség, jegyzőkönyvet kell felvenni. A jegyzőkönyvek egy-egy példányát – az elektronikus úton kitöltött jegyzőkönyvek kivételével – a kivizsgálás befejezésekor, de legkésőbb a tárgyhót követő hónap nyolcadik napjáig meg kell küldeni a fenntartónak. Az elektronikus úton kitöltött jegyzőkönyv kinyomtatott példányát, a papíralapú jegyzőkönyv egy példányát át kell adni a tanulónak, kiskorú gyermek, tanuló esetén a szülőnek. A jegyzőkönyv egy példányát a kiállító nevelési-oktatási intézményében meg kell őrizni.
 
@@ -22,14 +22,14 @@ okozza.
 
 (6) Amennyiben a baleset a pedagógiai szakszolgálat által tartott foglalkozás alatt következik be, a jelentési kötelezettség a foglalkozást tartó intézmény kötelessége.
 
-(7)[^431]
+(7)[^476]
 
-(8)[^432]
+(8)[^477]
 
 (9) A nevelési-oktatási intézménynek lehetővé kell tenni az óvodaszék, az iskolaszék, a kollégiumi szék, ezek hiányában a szülői szervezet, közösség és az iskolai diákönkormányzat képviselője részvételét a tanuló- és gyermekbaleset kivizsgálásában.
 
 (10) Minden tanuló- és gyermekbalesetet követően meg kell tenni a szükséges intézkedést a hasonló esetek megelőzésére.
 
-[^430]: A 169. § (1) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 13. §-ával megállapított szöveg.
-[^431]: A 169. § (7) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.
-[^432]: A 169. § (8) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.
+[^475]: A 169. § (1) bekezdése a 32/2015. (VI. 19.) EMMI rendelet 13. §-ával megállapított szöveg.
+[^476]: A 169. § (7) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.
+[^477]: A 169. § (8) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 2. § e) pontja hatályon kívül helyezte.

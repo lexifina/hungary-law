@@ -2,7 +2,7 @@
 
 ## A NEVELÉSI-OKTATÁSI INTÉZMÉNYEK KÖTELEZŐ FELSZERELÉSÉRE VONATKOZÓ SZABÁLYOK
 
-## 63. [^421] A helyiség- és eszköz-, valamint felszerelési jegyzék
+## 63. [^466] A helyiség- és eszköz-, valamint felszerelési jegyzék
 
 161. § (1) A gyermekek, tanulók részére kialakított helyiségek akkor megfelelőek, ha – rendeltetésüktől függően – alapterületük lehetővé teszi legalább egy óvodai csoport, iskolai osztály, kollégiumi csoport valamennyi tagjának egyidejű befogadását és egészséges, biztonságos körülmények közötti foglalkoztatását, tanítását, pihenését, öltözését, tisztálkodását, étkezését, továbbá megfelel az építésügyi jogszabályokban előírt követelményeknek, a közegészségügyi előírásoknak, a tűzvédelmi, egészségvédelmi, valamint munkavédelmi követelményeknek.
 
@@ -20,9 +20,9 @@ az oktatásért felelős miniszter által meghatározott kötelező (minimális)
 
 (4) Ha az óvoda, kollégium fokozatosan kezdi meg tevékenységét, az eszközöket és felszereléseket a ténylegesen ellátott feladatokhoz kell fokozatosan megteremteni. Ha az iskola nem valamennyi évfolyamon kezdi meg tevékenységét, az eszközöket és felszereléseket felmenő rendszerben lehet beszerezni oly módon, hogy – a nevelő és oktató munka megkezdésekor, ezt követően felmenő rendszerben – az adott évfolyam mellett legalább a következő évfolyam indításához szükséges eszközök és felszerelések rendelkezésre álljanak.
 
-(5)[^422]
+(5)[^467]
 
 (6) A szakképzési feladatok teljesítéséhez szükséges eszközök és felszerelések minimumát a szakképesítések szakmai és vizsgakövetelményének eszköz- és felszerelési jegyzéke tartalmazza.
 
-[^421]: A 63. alcím (A 161–162. §) a 20/2019. (VIII. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
-[^422]: A 161. § (5) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 31. pontja hatályon kívül helyezte.
+[^466]: A 63. alcím (A 161–162. §) a 20/2019. (VIII. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^467]: A 161. § (5) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 31. pontja hatályon kívül helyezte.

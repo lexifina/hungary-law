@@ -16,8 +16,8 @@ c) minden olyan kérdésről, amelyre vonatkozóan jogszabály a nyilatkozat bes
 
 (5) A jogorvoslati eljárásban a gyermeket, a kiskorú tanulót szülője képviselheti.
 
-(6)[^231] A nevelési-oktatási intézmény döntése végleges, ha az Nkt.-ben meghatározott határidőn belül nem nyújtottak be eljárást megindító kérelmet, vagy az eljárást megindító kérelem benyújtásáról lemondtak.
+(6)[^250] A nevelési-oktatási intézmény döntése végleges, ha az Nkt.-ben meghatározott határidőn belül nem nyújtottak be eljárást megindító kérelmet, vagy az eljárást megindító kérelem benyújtásáról lemondtak.
 
 (7) A tankönyvek, segédkönyvek beszerzésével összefüggő iskolai döntések előkészítésére a külön jogszabályban foglaltakat kell alkalmazni.
 
-[^231]: A 83. § (6) bekezdése a 12/2018. (III. 27.) EMMI rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^250]: A 83. § (6) bekezdése a 12/2018. (III. 27.) EMMI rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg.

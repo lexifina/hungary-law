@@ -2,8 +2,8 @@
 
 ## 51. A fejlesztési feladatok meghatározása és dokumentálása
 
-139. §[^353] (1) A nevelési-oktatási intézmény az együttnevelést segítő pedagógus közreműködésével a sajátos nevelési igényű gyermek, tanuló fejlesztéséhez, valamint a fejlesztő pedagógus közreműködésével a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló fejlesztéséhez egyéni fejlesztési tervet készít, és évente legalább két alkalommal rögzíti a fejlesztés eredményét. Az egyéni fejlesztési terv tartalmáról és a fejlesztés eredményéről a szülőt tájékoztatni kell.
+139. §[^384] (1) A nevelési-oktatási intézmény az együttnevelést segítő pedagógus közreműködésével a sajátos nevelési igényű gyermek, tanuló fejlesztéséhez, valamint a fejlesztő pedagógus közreműködésével a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló fejlesztéséhez egyéni fejlesztési tervet készít, és évente legalább két alkalommal rögzíti a fejlesztés eredményét. Az egyéni fejlesztési terv tartalmáról és a fejlesztés eredményéről a szülőt tájékoztatni kell.
 
 (2) A nevelési-oktatási intézmény a sajátos nevelési igényű gyermek, tanuló egészségügyi és pedagógiai célú habilitációs és rehabilitációs foglalkozásait, illetve a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló fejlesztését végző intézmény a gyermek, tanuló fejlesztő pedagógiai ellátását központilag kiadott egyéni fejlődési lapon vagy helyben szokásos módon dokumentálja.
 
-[^353]: A 139. § a 20/2019. (VIII. 30.) EMMI rendelet 12. §-ával megállapított szöveg.
+[^384]: A 139. § a 20/2019. (VIII. 30.) EMMI rendelet 12. §-ával megállapított szöveg.
