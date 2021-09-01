@@ -40,7 +40,11 @@ e) kizárás
 
 fegyelmi büntetés szabható ki.
 
-(8)–(10)
+(8)
+
+(9)
+
+(10)
 
 (11) A tanulóval szemben ugyanazért a kötelességszegésért csak egy fegyelmi büntetés állapítható meg. Ha a kötelességszegés miatt az iskolában és a kollégiumban is helye lenne fegyelmi büntetés megállapításának, a nevelési-oktatási intézmények eltérő megállapodásának hiányában a fegyelmi büntetést abban a nevelési-oktatási intézményben lehet megállapítani, amelyikben az eljárás előbb indult.
 

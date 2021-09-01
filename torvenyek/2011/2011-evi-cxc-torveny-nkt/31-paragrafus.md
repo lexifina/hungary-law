@@ -22,4 +22,8 @@ f) nem kell alkalmazni a 73. § (4) bekezdését.
 
 (4) A köznevelési szerződés keretei között a nevelés és oktatás a gyermekek, tanulók számára térítésmentessé válik, továbbá a gyermekek, tanulók felvételére alkalmazni kell azokat a szabályokat, amelyek az állami, települési önkormányzati nevelési-oktatási intézményekre vonatkoznak, és nem lehet alkalmazni a (2) bekezdés c) pontjában foglaltakat.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)

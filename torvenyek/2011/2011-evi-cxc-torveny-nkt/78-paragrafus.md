@@ -30,7 +30,13 @@ l) a kerettanterv, irányelv, alapprogram kiadása és közzététele.
 
 (3) Az oktatásért felelős miniszter, az egészségügyért felelős miniszter programok kiadásával, pályázatok kiírásával, továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó egészségfejlesztési feladatok végrehajtását.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)
 
 (8) Az oktatásért felelős miniszter kétévenként összehívja a diákparlamentet. A diákparlament a diákok közneveléssel kapcsolatos országos tájékoztató fóruma, amely az előterjesztésében áttekinti a tanulói jogok érvényesülését, és ajánlást fogadhat el, amelyben megfogalmazza véleményét, javaslatát.
 

@@ -32,6 +32,8 @@ g) az e törvényben vagy az Alapszabályban meghatározott más okból.
 
 (7) Az Elnökség és tagjainak feladat- és hatáskörét, annak átruházási módját, működésük rendjét és választásuk részletes szabályait az Alapszabály határozza meg.
 
-(8)–(9)
+(8)
+
+(9)
 
 (10) Az Elnökség és a Felügyelő Bizottság tagjai a munkájukért tiszteletdíjban részesülnek. Az Országos Etikai Bizottság és a Területi Etikai Bizottságok tagjainak eseti jelleggel felmerült, igazolt költségeit a Kar megtéríti. A tiszteletdíj mértékéről és a költségek elismerésének módjáról az Alapszabály rendelkezik.

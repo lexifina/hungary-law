@@ -20,6 +20,8 @@ c) mesterfokozat esetén kétszáz százaléka.
 
 (3) A Kormány rendeletben állapítja meg a 8. melléklet szerinti, az ágazati, szakmai sajátosságokra tekintettel meghatározott illetménypótlék megállapításának elveit, továbbá a munkavégzés sajátos körülményeire tekintettel az e törvényben meghatározott felső határnál magasabb mértékű pótlékot határozhat meg.
 
+(3a) A 62. § (1c) bekezdés a) pontja szerinti foglalkoztatott, aki a 62. § (1b) bekezdésében meghatározott feladatot látja el, a 8. mellékletben meghatározott diabétesz ellátási pótlékra jogosult. A diabétesz ellátási pótlék alapja – a feladatot ellátó foglalkoztatott besorolásától függetlenül – a mesterfokozathoz kapcsolódó illetményalap.
+
 (4) Az intézményvezetőt a fenntartó, az intézményben pedagógus-munkakörben foglalkoztatottakat az intézményvezető jutalomban részesítheti, amelynek éves összege vezető esetében nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tizenöt százalékát, beosztott esetében éves illetményének, munkabérének tizenöt százalékát.
 
 (5) Az intézményvezetőt a fenntartó, az intézmény többi vezetőjét az intézményvezető kereset-kiegészítésben részesítheti, amelynek éves összege nem haladhatja meg a vezető pótlékkal számított éves illetményének, munkabérének tíz százalékát.

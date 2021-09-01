@@ -8,7 +8,13 @@
 
 (5) A Központi Iroda munkaviszonyban foglalkoztatott munkavállalói felett a munkáltatói jogokat a főtitkár gyakorolja. A Központi Iroda és a főtitkár feladat- és hatáskörét, működésük rendjét az Alapszabály határozza meg.
 
-(6)–(9)
+(6)
+
+(7)
+
+(8)
+
+(9)
 
 (10) A Kar jogszabályokban, valamint az e törvényben meghatározott módon feladatok érvényesítése érdekében szakmai döntés-előkészítő, véleményező, javaslattevő országos szakértői bizottságot hozhat létre, melynek feladatait, működési feltételeit az Alapszabály határozza meg.
 

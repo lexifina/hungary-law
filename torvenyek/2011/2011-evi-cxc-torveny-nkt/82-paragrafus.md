@@ -46,4 +46,8 @@ d) vizsgaelnöki igazolásának száma és hatálya.
 
 (9) A hivatal – az (1) bekezdés b) pontja szerinti esetben az engedély visszavonásával egyidejűleg – eltiltja a köznevelési szakértői tevékenység végzésétől vagy a vizsgaelnöki feladatok végzésétől és törli az országos köznevelési szakértői névjegyzékből, az országos érettségi vizsgaelnöki névjegyzékből azt, aki a tevékenységére vonatkozó, e törvényben vagy a felhatalmazására kiadott jogszabályban meghatározott szabályokat súlyosan megszegi.
 
-(10)–(12)
+(10)
+
+(11)
+
+(12)

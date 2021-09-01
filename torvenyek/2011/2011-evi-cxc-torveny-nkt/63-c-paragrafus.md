@@ -4,4 +4,8 @@
 
 (3) Az Országos Küldöttgyűlést szükség szerint, de évente legalább egy alkalommal össze kell hívni. Az Országos Küldöttgyűlés kötelező összehívásának más eseteit, továbbá a működés rendjét az Alapszabály állapítja meg.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
