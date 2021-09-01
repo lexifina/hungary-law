@@ -1,13 +1,18 @@
-## 31. § Az ellenszolgáltatás kifizetésére csak az adott munkára, munkarészre vonatkozó teljesítésigazolás kiállítását követően kerülhet sor.
+## 31. §[^29]
 
-32. § (1) Hat hónapot meghaladó teljesítési időszakról rendelkező és egyben ötvenmillió forintot meghaladó összegű nettó ellenszolgáltatást tartalmazó szerződések esetén az ajánlatkérő az adott építési beruházás jellemzőinek megfelelő időszakonként vagy kivitelezési szakaszonként részszámlázási lehetőséget biztosít.
+32. §[^30] (1) Hat hónapot meghaladó teljesítési időszakról rendelkező és egyben ötvenmillió forintot meghaladó összegű nettó ellenszolgáltatást tartalmazó szerződések esetén az ajánlatkérő az adott építési beruházás jellemzőinek megfelelő időszakonként vagy kivitelezési szakaszonként részszámlázási lehetőséget biztosít.
 
-(2) Az (1) bekezdésben meghatározott esetben az általános forgalmi adó nélkül számítva egy milliárd forint alatti szerződéses értékű építési beruházásoknál az ajánlatkérő legalább négy részszámla (ideértve a végszámlát is) benyújtásának lehetőségét biztosítja.
+(2) Az (1) bekezdésben meghatározott esetben az általános forgalmi adó nélkül számítva egymilliárd forint alatti szerződéses értékű építési beruházásoknál az ajánlatkérő legalább öt részszámla (ideértve a végszámlát is) benyújtásának lehetőségét biztosítja.
 
-(3) Az (1) bekezdésben meghatározott esetben az általános forgalmi adó nélkül számítva egy milliárd forintot meghaladó szerződéses értékű építési beruházásoknál az ajánlatkérő legalább hat részszámla (ideértve a végszámlát is) benyújtásának lehetőségét biztosítja.
+(3) Az (1) bekezdésben meghatározott esetben az általános forgalmi adó nélkül számítva egymilliárd forintot elérő szerződéses értékű építési beruházásoknál az ajánlatkérő legalább hat, tizenkét hónapot meghaladó teljesítési időszak esetén legalább nyolc részszámla (mindkét esetben ideértve a végszámlát is) benyújtásának lehetőségét biztosítja.
 
-(4) Az első részszámla kibocsátásának lehetőségét minden esetben biztosítani kell legkésőbb az általános forgalmi adó nélküli szerződéses érték 25%-át elérő megvalósult teljesítés esetén.
+(4) A (2)–(3) bekezdés alkalmazásában a teljesítés időtartamának, illetve a szerződés értékének későbbi módosítása nem érinti a kötelezően biztosítandó részszámlák számát.
 
-(5) Az előleg és a részszámlák alapján történő kifizetések összértéke nem lehet kevesebb a szerződés általános forgalmi adó nélkül számított értékének 70%-ánál.
+(5) Az első részszámla kibocsátásának lehetőségét az (1) bekezdésben meghatározott esetben legkésőbb az általános forgalmi adó nélküli szerződéses érték 15%-át elérő megvalósult teljesítés esetén kell biztosítani.
 
-(6) A részszámla összegét az ajánlatkérő által teljesítésigazolással elismert szerződés szerinti teljesítés mértékének megfelelően kell meghatározni, úgy, hogy a részszámla szerinti nettó ellenszolgáltatás a szerződés megvalósult értékét nem haladhatja meg.
+(6) Az (1) bekezdésben meghatározott esetben a végszámlát megelőzően történő kifizetések összértéke nem lehet kevesebb a szerződés általános forgalmi adó nélkül számított értékének 80%-ánál.
+
+(7) A részszámla összegét a szerződés szerinti kötelezettségteljesítés megvalósulásának mértéke alapján kell meghatározni, úgy, hogy a részszámla szerinti nettó ellenszolgáltatás a szerződés dokumentáltan megvalósult értékét nem haladhatja meg.
+
+[^29]: A 31. §-t az 503/2021. (VIII. 18.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
+[^30]: A 32. § az 503/2021. (VIII. 18.) Korm. rendelet 7. §-ával megállapított szöveg.

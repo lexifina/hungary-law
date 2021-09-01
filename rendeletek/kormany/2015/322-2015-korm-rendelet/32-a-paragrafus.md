@@ -1,31 +1,26 @@
-32/A. §[^21] (1) Az ajánlatkérőként szerződő fél, valamint – európai uniós támogatás esetén szállítói kifizetés során – a kifizetésre köteles szervezet, ha az ajánlattevőként szerződő fél a teljesítéshez alvállalkozót vesz igénybe, a Ptk. 6:130. § (1)–(2) bekezdésétől eltérően a következő szabályok szerint köteles az ellenszolgáltatást teljesíteni:
+32/A. §[^31] (1)[^32] Az ajánlatkérőként szerződő fél, ha az ajánlattevőként szerződő fél a teljesítéshez alvállalkozót vesz igénybe, a Ptk. 6:130. § (1) és (2) bekezdésétől eltérően a következő szabályok szerint köteles az ellenszolgáltatást teljesíteni:
 
-a) az ajánlattevőként szerződő felek legkésőbb a teljesítés elismerésének időpontjáig kötelesek nyilatkozatot tenni az ajánlatkérőnek, hogy közülük melyik mekkora összegre jogosult az ellenszolgáltatásból;
+a) az ajánlattevőként szerződő felek annak megfelelően nyújtják be számlájukat az ajánlatkérőnek, hogy közülük melyik mekkora összegre jogosult az ellenszolgáltatásból. Az egyes ajánlattevőként szerződő felek a számla benyújtásával egyidejűleg nyilatkoznak arról, hogy az általuk a teljesítésbe bevont alvállalkozók egyenként mekkora összegre jogosultak az ellenszolgáltatásból;
 
-b) az összes ajánlattevőként szerződő fél legkésőbb a teljesítés elismerésének időpontjáig köteles nyilatkozatot tenni, hogy az általa a teljesítésbe bevont alvállalkozók egyenként mekkora összegre jogosultak az ellenszolgáltatásból, egyidejűleg felhívja az alvállalkozókat, hogy állítsák ki ezen számláikat;
+b) az ajánlattevőként szerződő felek mindegyike az általa kiállított számlában részletezi az alvállalkozói teljesítés, valamint az ajánlattevői teljesítés mértékét;
 
-c) az ajánlattevőként szerződő felek mindegyike a teljesítés elismerését követően állítja ki számláját, a számlában részletezve az alvállalkozói teljesítés, valamint az ajánlattevői teljesítés mértékét;
+c) a számlában feltüntetett alvállalkozói teljesítés ellenértékét az ajánlatkérőként szerződő fél a számla kézhezvételét követő tizenöt napon belül átutalja az ajánlattevőknek;
 
-d) a c) pont szerint a számlában feltüntetett alvállalkozói teljesítés ellenértékét az ajánlatkérőként szerződő fél – európai uniós támogatás esetén szállítói kifizetés során a kifizetésre köteles szervezet – tizenöt napon belül átutalja az ajánlattevőknek;
+d) az ajánlattevőként szerződő fél – amennyiben erre korábban még nem került sor – haladéktalanul kiegyenlíti az alvállalkozók számláit, vagy az alvállalkozóval kötött szerződésben foglaltak szerint az alvállalkozói díj egy részét visszatartja;
 
-e)[^22] az ajánlattevőként szerződő fél haladéktalanul kiegyenlíti az alvállalkozók számláit, vagy az alvállalkozóval kötött szerződésben foglaltak szerint az alvállalkozói díj egy részét visszatartja;
+e) az ajánlattevőként szerződő felek átadják az ajánlatkérőnek az alvállalkozói követelések kiegyenlítését igazoló átutalások igazolásainak másolatait;
 
-f)[^23] az ajánlattevőként szerződő felek átadják az e) pont szerinti átutalások igazolásainak másolatait;
+f) az ajánlattevőként szerződő felek által benyújtott számlában megjelölt, ajánlattevői teljesítés ellenértékét az ajánlatkérőként szerződő fél az e) pont szerinti dokumentumok beérkezését követő tizenöt napon belül átutalja az ajánlattevőként szerződő feleknek;
 
-g)[^24] az ajánlattevőként szerződő felek által benyújtott számlában megjelölt, fővállalkozói teljesítés ellenértékét az ajánlatkérőként szerződő fél – európai uniós támogatás esetén szállítói kifizetés során a kifizetésre köteles szervezet – tizenöt napon belül átutalja az ajánlattevőként szerződő feleknek;
+g) ha az ajánlattevőként szerződő felek valamelyike a d) vagy az e) pont szerinti kötelezettségét nem teljesíti, az ellenszolgáltatás fennmaradó részét az ajánlatkérő visszatartja, és az akkor illeti meg az ajánlattevőt, ha az ajánlatkérő részére igazolja, hogy a d) vagy az e) pont szerinti kötelezettségét teljesítette, vagy hitelt érdemlő irattal igazolja, hogy az alvállalkozó nem jogosult az ajánlattevő által az a) pont szerint bejelentett összegre vagy annak egy részére.
 
-h) ha az ajánlattevőként szerződő felek valamelyike az e) vagy az f) pont szerinti kötelezettségét nem teljesíti, az ellenszolgáltatás fennmaradó részét az ajánlatkérő (vagy a kifizetésre köteles szervezet) őrzi, és az akkor illeti meg az ajánlattevőt, ha az ajánlatkérő részére igazolja, hogy az e) vagy az f) pont szerinti kötelezettségét teljesítette, vagy hitelt érdemlő irattal igazolja, hogy az alvállalkozó vagy szakember nem jogosult az ajánlattevő által a b) pont szerint bejelentett összegre vagy annak egy részére;
+(2)[^33] A felek kizárólag az (1) bekezdés f) pontja szerinti ellenszolgáltatás halasztott teljesítésében állapodhatnak meg a Ptk. 6:130. § (3) bekezdésének megfelelően.
 
-i) részben vagy egészben európai uniós támogatásból megvalósított közbeszerzés esetén a d) pont szerinti határidő harminc nap.
-
-(2)[^25] A felek kizárólag az (1) bekezdés g) pontja szerinti ellenszolgáltatás halasztott teljesítésében állapodhatnak meg a Ptk. 6:130. § (3) bekezdésének megfelelően. A 32/B. § (2) bekezdését az ajánlattevőként szerződő féllel szemben csak az (1) bekezdés g) pontja szerinti összegre lehet alkalmazni.
-
-(3) Ha az ellenszolgáltatást több részletben teljesíti az ajánlatkérőként szerződést kötő fél vagy a kifizetésre köteles szervezet, minden részlettel kapcsolatban alkalmazni kell az (1) és (2) bekezdést.
+(3)[^34] Ha az ellenszolgáltatást több részletben teljesíti az ajánlatkérőként szerződést kötő fél, minden részlettel kapcsolatban alkalmazni kell az (1) és (2) bekezdést. Európai uniós támogatásból megvalósított közbeszerzés során alkalmazott szállítói kifizetés esetén az (1) bekezdés szerinti szabályokat az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló kormányrendeletben foglalt eltérésekkel kell alkalmazni.
 
 (4) Ha a közbeszerzési szerződés teljesítése érdekében a nyertes ajánlattevő (ajánlattevők) projekttársaságot hoztak létre, e § alkalmazásában a nyertes ajánlattevőként szerződő fél alatt a projekttársaságot kell érteni.
 
-[^21]: A 32/A. §-t a 487/2016. (XII. 28.) Korm. rendelet 8. § (7) bekezdése iktatta be.
-[^22]: A 32/A. § (1) bekezdés e) pontja a 475/2017. (XII. 28.) Korm. rendelet 62. §-ával megállapított szöveg.
-[^23]: A 32/A. § (1) bekezdés f) pontja a 475/2017. (XII. 28.) Korm. rendelet 62. §-ával megállapított szöveg.
-[^24]: A 32/A. § (1) bekezdés g) pontja a 475/2017. (XII. 28.) Korm. rendelet 62. §-ával megállapított szöveg.
-[^25]: A 32/A. § (2) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 63. §-ával megállapított szöveg.
+[^31]: A 32/A. §-t a 487/2016. (XII. 28.) Korm. rendelet 8. § (7) bekezdése iktatta be.
+[^32]: A 32/A. § (1) bekezdése az 503/2021. (VIII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^33]: A 32/A. § (2) bekezdése az 503/2021. (VIII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 32/A. § (3) bekezdése az 503/2021. (VIII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
