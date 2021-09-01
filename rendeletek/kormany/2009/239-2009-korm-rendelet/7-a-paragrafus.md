@@ -1,6 +1,4 @@
-## a tevékenység megkezdéséről a bejelentés megtörténtéről szóló igazolás megküldésével értesíti.
-
-7/A. §[^43] (1) A 7. § c) pontjában foglaltakat a magánszálláshely szálláshelytípus esetén is alkalmazni kell.
+7/A. §[^47] (1) A 7. § c) pontjában foglaltakat a magánszálláshely szálláshelytípus esetén is alkalmazni kell.
 
 (2) A jegyző a hatósági ellenőrzés elvégzése érdekében éves ellenőrzési tervet készít.
 
@@ -24,4 +22,4 @@ b) a szálláshely megfelel a bejelentésben foglalt szálláshely-üzemeltetés
 
 (10) A hatósági ellenőrzés eredményeként készült jegyzőkönyvet vagy feljegyzést a jegyző a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője részére a hatósági ellenőrzést követő 8 napon belül megküldi. A jegyzőkönyv és feljegyzés formátumát és beküldési módját a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője a honlapján teszi közzé.
 
-[^43]: A 7/A. §-t a 155/2019. (VI. 27.) Korm. rendelet 8. §-a iktatta be, szövege az 501/2021. (VIII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^47]: A 7/A. §-t a 155/2019. (VI. 27.) Korm. rendelet 8. §-a iktatta be, szövege az 501/2021. (VIII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.

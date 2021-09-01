@@ -1,3 +1,3 @@
-## 21. §[^78]
+## 21/B. §[^84] A szálláshely-minősítő szervezet a szálláshely-minősítési igények elbírálását 2022. január 1. napján kezdi meg.
 
-[^78]: A 21. § a (2) bekezdése alapján hatályát vesztette.
+[^84]: A 21/B. §-t az 501/2021. (VIII. 18.) Korm. rendelet 16. §-a iktatta be.
