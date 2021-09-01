@@ -10,4 +10,6 @@ c) a vizsgatevékenységek helyszínét és időpontját,
 
 d) a szakmai vizsga nyelvét.
 
-(3) Az elektronikus vizsgarendszer működtetéséről a szakképzési államigazgatási szerv gondoskodik és ahhoz egyedi hozzáférési jogosultságot biztosít az akkreditált vizsgaközpont részére.
+(3)[^187] Az elektronikus vizsgarendszer működtetéséről a szakképzési államigazgatási szerv gondoskodik és ahhoz egyedi hozzáférési jogosultságot biztosít az akkreditált vizsgaközpont és – a vizsgabizottság ellenőrzési feladatokat ellátó tagja delegálásával összefüggésben – a gazdasági kamara részére.
+
+[^187]: A 266. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 74. pontja szerint módosított szöveg.

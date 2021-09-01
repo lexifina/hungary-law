@@ -1,13 +1,25 @@
-173. § (1) Az Szkt. 59. § (1) bekezdés c) pontjában meghatározott támogatásra a nappali rendszerű szakmai oktatásban részt vevő olyan tanuló pályázhat, aki
+173. §[^130] (1) Az Szkt. 59. § (1) bekezdés c) pontjában meghatározott támogatásra a 171. § (3) bekezdésének megfelelő olyan tanuló pályázhat, aki
 
-a) hátrányos helyzetű vagy rendszeres gyermekvédelmi kedvezményben részesül, és
+a) a pályázat benyújtásakor vagy az azt megelőző öt évben hátrányos helyzetűnek minősül, vagy rendszeres gyermekvédelmi kedvezményre jogosult, és
 
 b) a pályázat benyújtását megelőző tanév év végi minősítésében kapott osztályzatok átlaga 3,50 fölött van.
 
-(2) A támogatás havonkénti mértéke a támogatás alapjának húsz százaléka.
+(2) A támogatás havonkénti mértéke, ha a tanuló a szakképzés keretében fennálló tanulói jogviszonyából a megelőző tanévre vonatkozóan figyelembe vehető év végi minősítéssel
 
-(3) A pályázati kiírást a Nemzeti Szakképzési és Felnőttképzési Hivatal a honlapján teszi közzé. A támogatásról a Nemzeti Szakképzési és Felnőttképzési Hivatal dönt.
+a) rendelkezik, a támogatás alapjának
+
+aa) tíz százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 3,50–3,99 között van,
+
+ab) tizenöt százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,00–4,49 között van,
+
+ac) húsz százaléka, ha a megelőző tanév év végi minősítésében kapott osztályzatok átlaga 4,49 fölött van,
+
+b) nem rendelkezik, a 171. § (1a) és (2) bekezdése szerinti mértékének a támogatás alapjára vetítve megállapított összege.
+
+(3) A pályázati kiírást a Nemzeti Szakképzési és Felnőttképzési Hivatal a szakképzési tájékoztatási és információs központ keretében működtetett honlapon teszi közzé. A támogatásról a Nemzeti Szakképzési és Felnőttképzési Hivatal dönt.
 
 (4) A támogatást a Nemzeti Szakképzési és Felnőttképzési Hivatal támogatói okirattal biztosítja.
 
-(5) A támogatásra a tanuló a tanulói jogviszonya fennállásáig jogosult, ha az (1) bekezdésben meghatározott feltételeknek megfelel.
+(5) A támogatásra a tanuló az adott szakmára vonatkozóan a szakmai oktatásnak a szakmajegyzékben meghatározott időtartamáig a (2) bekezdésben meghatározott mértékben jogosult, ha az (1) bekezdésben meghatározott feltételeknek megfelel.
+
+[^130]: A 173. § a 380/2021. (VI. 30.) Korm. rendelet – 461/2021. (VIII. 5.) Korm. rendelet 4. § b) pontja szerint módosított – 29. §-ával megállapított szöveg.

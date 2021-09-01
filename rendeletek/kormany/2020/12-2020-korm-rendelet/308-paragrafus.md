@@ -30,6 +30,8 @@
 
 áll.
 
-(2) A Szakképzési Innovációs Tanács elnökét – a tagok közül – és tagjait a szakképzésért felelős miniszter kéri fel. Az elnök és a tagok névsorát a szakképzésért felelős miniszter a honlapon teszi közzé.
+(2)[^209] A Szakképzési Innovációs Tanács elnökét – a tagok közül – és tagjait a szakképzésért felelős miniszter kéri fel. Az elnök és a tagok névsorát a szakképzésért felelős miniszter a szakképzési tájékoztatási és információs központ keretében működtetett honlapon teszi közzé.
 
 (3) A Szakképzési Innovációs Tanács tagjainak megbízatása hároméves időtartamra szól.
+
+[^209]: A 308. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 85. pontja szerint módosított szöveg.

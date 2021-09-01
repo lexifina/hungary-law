@@ -24,6 +24,6 @@ tömegközlekedési eszköz vagy saját gépjármű használata során felmerül
 
 (5) A napi háromszori ingyenes étkezés biztosításáról a szakképző intézmény igazgatója gondoskodik. Ha a szakmai oktatás helyszínén a természetben nyújtott térítésmentes étkezés nem biztosítható vagy a tanuló azt egészében vagy egyes étkezési alkalmanként indokoltan nem tudja igénybe venni vagy azt a gyakorló szolgálat vagy más rendezvény indokolja, a tanuló részére az igénybe nem vett napi vagy részétkezés megváltásaként az élelmezési norma teljes vagy részértékét a rendvédelmi szakképző intézmény utólag megtéríti. A tanulót távolléte esetén a térítésmentes étkezés, illetve annak megváltása nem illeti meg, kivéve, ha az egészségi állapota, képzési vagy azzal összefüggő egyéb feladat miatt a rendvédelmi szakképző intézményben, a gyakorló szolgálaton vagy a rendvédelmi szakképző intézmény tanulói szállásán tölti.
 
-(6)[^5] A rendvédelmi szakképző intézmény tanulója a hivatásos szolgálati jogviszonyban állókra vonatkozó szabályok szerint jogosult a rendvédelmi szervnél biztosított egészségügyi és pszichológiai alapellátás igénybevételére.
+(6)[^21] A rendvédelmi szakképző intézmény tanulója a hivatásos szolgálati jogviszonyban állókra vonatkozó szabályok szerint jogosult a rendvédelmi szervnél biztosított egészségügyi és pszichológiai alapellátás igénybevételére.
 
-[^5]: A 6. § (6) bekezdését a 95/2021. (II. 27.) Korm. rendelet 9. §-a iktatta be.
+[^21]: A 6. § (6) bekezdését a 95/2021. (II. 27.) Korm. rendelet 9. §-a iktatta be.

@@ -6,7 +6,7 @@
 
 ## A SZAKKÉPZÉSI HOZZÁJÁRULÁS
 
-## 109/A. [^87] Az Szkt. 107. § (2) bekezdéséhez
+## 109/A. [^213] Az Szkt. 107. § (2) bekezdéséhez
 
 332/A. § (1) A szakirányú oktatás arányosított önköltségének adott évfolyamra meghatározott összege a szakirányú oktatás központi költségvetésről szóló törvényben meghatározott önköltségének a szakmánként alkalmazandó súlyszorzó szorzataként számított mértéke. A szakmánként alkalmazandó súlyszorzót a (2) bekezdés szerinti szakmaszorzó és a (3) bekezdés szerinti évfolyami szorzó szorzataként kell meghatározni.
 
@@ -40,7 +40,7 @@ a) 2,85, ha a szakma Magyar Képesítési Keretrendszer szintje 5,
 
 b) 2,42, ha a szakma Magyar Képesítési Keretrendszer szintje 4,
 
-11. a honvédelem ágazatba tartozó szakmák esetében 2,20,
+11.[^214] a honvédelem ágazatba tartozó szakmák esetében 2,85
 
 12. az informatika és távközlés ágazatba tartozó szakmák esetében 2,20,
 
@@ -96,9 +96,11 @@ ca) az első évfolyamon 1,20,
 
 cb) a második évfolyamon 1,00,
 
-cc) a harmadik évfolyamon 0,80.
+cc)[^215] a harmadik évfolyamon 0,80,
 
-(4)[^88] Az (1)–(3) bekezdéstől eltérően az Szkt. 107. § (2) bekezdés a) pont ab) alpontja szerinti esetben figyelembe vehető súlyszorzó mértéke 1,50.
+d)[^216] legfeljebb 4 év
 
-[^87]: A 109/A. alcímet (332/A–332/C. §) a 319/2020. (VII. 1.) Korm. rendelet 17. §-a iktatta be.
-[^88]: A 332/A. § (4) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 48. §-a iktatta be.
+[^213]: A 109/A. alcímet (332/A–332/C. §) a 319/2020. (VII. 1.) Korm. rendelet 17. §-a iktatta be.
+[^214]: A 332/A. § (2) bekezdés 11. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 89. pontja szerint módosított szöveg.
+[^215]: A 332/A. § (3) bekezdés c) pont cc) alpontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 90. pontja szerint módosított szöveg.
+[^216]: A 332/A. § (3) bekezdés d) pontját a 380/2021. (VI. 30.) Korm. rendelet 49. §-a iktatta be.

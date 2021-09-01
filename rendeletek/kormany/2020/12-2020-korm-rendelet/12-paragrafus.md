@@ -2,7 +2,7 @@
 
 12. § A képzési és kimeneti követelményekben kell meghatározni
 
-a) a szakma szakmajegyzék szerinti azonosító számát, megnevezését és a hozzárendelt FEOR-számot és ISCED-F 2013 kódot,
+a)[^24] a szakma szakmajegyzék szerinti azonosító számát, megnevezését és a hozzárendelt FEOR-számot,
 
 b) a szakma jellegétől függően az iskolai előképzettséget, annak előírását, hogy a szakképzés megkezdéséhez szükséges-e egészségügyi alkalmassági követelmény vagy pályaalkalmassági követelmény teljesítése,
 
@@ -23,3 +23,5 @@ i) a vizsgatevékenységek alóli felmentés eseteit, módját és feltételeit,
 j) a vizsgatevékenységek megszervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra vonatkozó feltételeket és
 
 k) a vizsgatevékenységek és a szakmai vizsga értékelésének szempontjait.
+
+[^24]: A 12. § a) pontja a 380/2021. (VI. 30.) Korm. rendelet 59. § 6. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## V. Fejezet
 
-## A PROGRAMKÖVETELMÉNY ÉS A KÉPZÉSI PROGRAM
+## A PROGRAMKÖVETELMÉNY ÉS A SZAKMAI KÉPZÉS KÉPZÉSI PROGRAMJA[^31]
 
 ## 7. Az Szkt. 13. §-ához
 
@@ -15,3 +15,5 @@ c) a szakmai képzés elvégzéséhez szükséges minimális és maximális fogl
 d) a képesítő vizsga követelményeinek leírását és a megszervezéséhez szükséges személyi és tárgyi feltételeket, valamint
 
 e) a szakmai képzéshez kapcsolódóan megszerezhető szakképesítéssel ellátható legjellemzőbb tevékenység vagy munkaterület rövid leírását.
+
+[^31]: Az V. fejezet címe a 380/2021. (VI. 30.) Korm. rendelet 58. § 13. pontja szerint módosított szöveg.

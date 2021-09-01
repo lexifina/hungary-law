@@ -1,7 +1,17 @@
-303. § (1) Az e §-ban meghatározott eltéréssel a tankönyvjegyzékre történő felvételre és a tankönyvjegyzék vezetésére az 501/2013. (XII. 29.) Korm. rendelet 9/M–9/P. §-át kell alkalmazni azzal, hogy hivatal alatt a szakképzési államigazgatási szervet, miniszter alatt a szakképzésért felelős minisztert kell érteni.
+303. § (1) A szerzői mű szakképzési tankönyvvé nyilvánításának és meghosszabbításának időbeli hatálya annak a tanévnek az utolsó napjáig tart, amelyik a határozat véglegessé válását követő ötödik naptári évben fejeződik be. A szakképzési tankönyvvé nyilvánítás módosítása a szerzői mű szakképzési tankönyvvé nyilvánításának és meghosszabbításának időbeli hatályát nem érinti.
 
-(2) A szakképzési tankönyv esetében a tankönyvjegyzékre történő felvétele iránti kérelemhez csatolni kell kérelmező nyilatkozatát a tankönyv forgalmazni tervezett példányszámáról és az ez alapján meghatározott árat alátámasztó adatokról.
+(2) A szakképzési tankönyvvé nyilvánítást a szakképzésért felelős miniszter megszünteti, ha
 
-(3) Az eljárásban a szakképzési államigazgatási szerv – a Kormány adott ágazatért felelős tagjának egyetértésével – a Szakképzési Tankönyv és Taneszköz Tanácsot szakértőként jelöli ki. A tankönyvjegyzékre történő felvételre, illetve az abból való törlésről a Szakképzési Tankönyv és Taneszköz Tanács javaslata alapján a kerül sor.
+a) a kérelmező azt kéri,
 
-(4) A szakképzési tankönyv árának meg kell felelnie az 5. mellékletben meghatározott árkorlátnak.
+b) a szakképzési tankönyvvé nyilvánítás időbeli hatálya lejár,
+
+c) olyan tény merül fel, amely alapján a szakképzési tankönyvvé nyilvánítás iránti kérelmet korábban el kellett volna utasítani,
+
+d) a szakképzési tankönyvet a kérelmező a szakképzési tankönyvjegyzéken történő nyilvántartásának időbeli hatálya alatt a 302. § (2) bekezdésétől eltérő más módon megváltoztatja,
+
+e) a kérelmező felhasználási joga a szakképzési tankönyvre vonatkozóan megszűnik, vagy
+
+f) a kérelmező a szakképzési tankönyvvé nyilvánítást követően nem tesz eleget a szakképzési tankönyvvé nyilvánítás valamely feltételének.
+
+(3) A szakképzési tankönyvjegyzéket a szakképzési államigazgatási szerv vezeti, és azt a szakképzési tájékoztatási és információs központ keretében működtetett honlapon közzéteszi.

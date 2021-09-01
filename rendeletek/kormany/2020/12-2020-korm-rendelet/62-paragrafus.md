@@ -17,3 +17,7 @@ bb) a szakképző intézmény működéséhez szükséges pénzeszközökkel val
 a) szakmai programja jogszabálynak nem felel meg vagy
 
 b) nem rendelkezik a feladatai ellátásához szükséges feltételekkel.
+
+(5)[^68] A fenntartó a nem állami szakképző intézmény működési engedélyének módosítását kezdeményezi, ha az Szkt. 23. §-a szerinti döntést hoz, vagy az (1) bekezdés b) pontjában, illetve a (2) bekezdésben meghatározott körülmények változása esetén. A módosítás iránti kérelmet a döntést követő tizenöt napon belül, illetve legkésőbb a változást megelőző hatvanadik napig kell benyújtani.
+
+[^68]: A 62. § (5) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 23. §-a iktatta be.

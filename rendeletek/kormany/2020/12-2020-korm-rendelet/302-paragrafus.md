@@ -1,13 +1,27 @@
-302. § (1)[^80] Az e §-ban meghatározott eltéréssel a nemzeti köznevelés tankönyvellátásáról szóló 2013. évi CCXXXII. törvény egyes rendelkezéseinek végrehajtásáról, valamint a tankönyvellátásban közreműködők kijelöléséről szóló 501/2013. (XII. 29.) Korm. rendelet [a továbbiakban: 501/2013. (XII. 29.) Korm. rendelet]
+302. § (1) A szakképzési tankönyvvé nyilvánítás, annak – a szakképzési tankönyv (2) bekezdés szerinti javítása kivételével történő – módosítása vagy meghosszabbítása iránti kérelem tartalmazza, illetve ahhoz csatolni kell
 
-a) 9/A–9/L. §-át kell alkalmazni a tankönyvvé nyilvánításra és a tankönyvvé nyilvánítás meghosszabbítására,
+a) a kérelmező adatait,
 
-b) 9/Q. §-át kell alkalmazni a digitális tananyag jóváhagyására
+b) a szerzői mű adatait és jellemzőit, valamint – a digitális tananyag és a kiegészítő ismeretanyag kivételével – műpéldányát három példányban és elektronikus mintapéldányát,
 
-azzal, hogy a köznevelés információs rendszere alatt a szakképzés információs rendszerét, közismereti nyomtatott könyv alatt a szakképzési nyomtatott könyvet kell érteni. A szakképzési tankönyv tankönyvvé nyilvánításának meghosszabbítása öt évre szól.
+c) a felhasználási jog jogosultjának adatát,
 
-(2) A kérelmezőnek a tankönyvvé nyilvánítási kérelmet a szakképzési államigazgatási szervhez kell benyújtania. A tankönyvvé nyilvánítási kérelemhez csatolni kell a kiadó adatait, a könyv adatait és jellemzőit, valamint az oktatás típusát.
+d) a kérelmező nyilatkozatát arról, hogy a szerzői mű szakképzési tankönyvvé nyilvánításának időbeli hatálya alatt folyamatosan
 
-(3) Az eljárásban a tankönyvvé nyilvánításra a szakképzési államigazgatási szerv által felkért kettő szakértő, ilyen hiányában, eltérő szakértői vélemények vagy feltételt meghatározó szakértői vélemények esetében a Szakképzési Tankönyv és Taneszköz Tanács tesz javaslatot. Az eljárásba szakértőként az adott ágazatban kiemelkedő elméleti felkészültségű személy vagy az adott ágazatban legalább húszéves szakmai gyakorlattal és pedagógiai vagy oktatói tapasztalattal rendelkező személy vonható be. A szakmai gyakorlat szempontjából olyan munkakört lehet figyelembe venni, amely betöltésének feltétele az adott ágazathoz kapcsolódó szakképzettség vagy szakképesítés.
+da) vállalja a szakképzési tankönyv 5. mellékletben meghatározott árkorlátnak megfelelő, a szakképzési tankönyvjegyzéken történő nyilvántartás időbeli hatálya alatt változatlan áron történő értékesítését a szakképzés keretében,
 
-[^80]: A 302. § (1) bekezdés záró szövegrésze a 319/2020. (VII. 1.) Korm. rendelet 24. § 31. pontja szerint módosított szöveg.
+db) rendelkezni fog a szakképzési tankönyv teljes körű felhasználási jogaival, átvett szerzői mű vagy kapcsolódó jogi teljesítmény esetén, ideértve az ahhoz kapcsolódó felhasználási jogot is,
+
+e) a fizetendő igazgatási szolgáltatási díj megfizetését igazoló bizonylatot.
+
+(2) Az eljárás időtartama és a szakképzési tankönyvjegyzéken történő nyilvántartás időbeli hatálya alatt a szerzői mű sem tartalmában, sem kivitelében nem változtatható meg. Nem jelenti a szerzői mű tartalmi megváltoztatását
+
+a) a szerzői műben szereplő helyesírási és nyomdahibáknak,
+
+b) a megváltozott tényeknek és adatoknak, valamint
+
+c) az eljárás során a szakértő által feltárt hibáknak
+
+a szerzői műben történő javítása, feltéve, hogy az a) és b) pont szerinti javítás miatt – a zárt rendszerű távoktatási képzésmenedzsment-rendszerben elérhető digitális tananyag, kiegészítő ismeretanyag és egyéb tanulmányi segédlet kivételével – nem változik meg a lapok számozása, és a javításról készült jegyzéket a kérelmező – saját költségén – megküldi a szakképzési államigazgatási szervnek.
+
+(3) A szerzői mű szakképzési tankönyvvé nyilvánítására, annak módosítására és meghosszabbítására irányuló eljárásban a szakképzésért felelős miniszter a szakképzési államigazgatási szervet szakértőként vonja be. A szakképzési államigazgatási szerv a szakértői szakvéleményt – az általa foglalkoztatott vagy megbízási jogviszony keretében bevont és az adott ágazatban kiemelkedő elméleti felkészültségű vagy az adott ágazatban legalább tízéves szakmai gyakorlattal és pedagógiai vagy oktatói tapasztalattal rendelkező személyek véleménye alapján – módszertani, szakmai és technológiai szempontokra figyelemmel készíti el. Szakmai gyakorlatként olyan munkakört lehet figyelembe venni, amely betöltésének feltétele az adott ágazathoz kapcsolódó szakképzettség vagy szakképesítés. Ha a szerzői mű a nemzetiségi szakmai oktatás, illetve szakmai képzés céljaira készült, szakmai szakértőként az Országos Nemzetiségi Tanácsot kell felkérni. A szakképzési államigazgatási szerv a szakértői szakvélemény elkészítéséért a 4/B. melléklet szerinti szakértői díjra jogosult.

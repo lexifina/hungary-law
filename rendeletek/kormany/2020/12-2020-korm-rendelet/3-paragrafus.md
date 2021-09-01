@@ -1,3 +1,3 @@
-3. § (1) A javító- és pótlóvizsga ingyenessége a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnése után letett első javító- és pótlóvizsgára is irányadó.
+3. §[^11]
 
-(2) A szakképzési államigazgatási szerv hátrányos helyzet, tartós betegség vagy egyéb méltányolható körülmény esetén a tanuló, illetve a képzésben részt vevő személy – kiskorú esetében törvényes képviselője – kérelmére és a szakképző intézmény javaslatára méltányosságból engedélyezheti a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 3. § (1) bekezdésében meghatározott feltételtől eltérően a szakképzésben való részvételt.
+[^11]: A 3. §-t a 380/2021. (VI. 30.) Korm. rendelet 59. § 2. pontja hatályon kívül helyezte.

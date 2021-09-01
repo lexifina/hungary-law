@@ -1,15 +1,9 @@
-## XXXIV. Fejezet
-
-## A SZAKIRÁNYÚ OKTATÁS
-
-## 77. Az Szkt. 76. §-ához
-
-224. § (1) A szakirányú oktatást folytató szervezet a tanuló, illetve a képzésben részt vevő személy szakirányú oktatásáról a regisztrációs és tanulmányi rendszerben foglalkozási naplót vezet.
-
-(2) A foglalkozási napló tartalmazza
+224. §[^147] A szakirányú oktatást folytató szervezet a tanuló, illetve a képzésben részt vevő személy szakirányú oktatásával összefüggésben a regisztrációs és tanulmányi alaprendszerben rögzíti
 
 a) a szakmai tevékenységeket, annak helyszínét, ha az eltér a duális képzőhely nyilvántartásba vett székhelyétől vagy telephelyétől, a szakmai tevékenységre fordított időt,
 
 b) a tanuló, illetve a képzésben részt vevő személy értékelését és
 
 c) a tanuló, illetve a képzésben részt vevő személy részvételét és mulasztását a szakirányú oktatás során.
+
+[^147]: A 224. § a 380/2021. (VI. 30.) Korm. rendelet – 461/2021. (VIII. 5.) Korm. rendelet 4. § c) pontja szerint módosított – 34. §-ával megállapított szöveg.

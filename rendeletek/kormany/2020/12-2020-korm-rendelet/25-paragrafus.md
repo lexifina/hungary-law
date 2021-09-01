@@ -20,7 +20,9 @@
 
 7. a közösségi szolgálati lap,
 
-8. a tanulói jogviszony igazoló lapja.
+8.[^38] a tanulói jogviszony igazoló lapja,
+
+9.[^39] az Szkt. 19. § (4) bekezdés b) pont bb) alpontja szerinti előkészítő évfolyam, a műhelyiskola elvégzéséhez és az ágazati alapvizsgához kapcsolódóan kiállított igazolás.
 
 (2) Az akkreditált vizsgaközpont által használt nyomtatvány
 
@@ -42,10 +44,13 @@ d) elektronikus úton előállított és hitelesített papíralapú nyomtatvány
 
 lehet.
 
-(4) Az (1) bekezdés 3–5., 7. és 8. pontja szerinti nyomtatványt a szakképző intézmény a regisztrációs és tanulmányi alaprendszerben a (3) bekezdés d) pontja szerinti nyomtatványként állítja elő.
+(4)[^40] Az (1) bekezdés 3–5. és 7–9. pontja szerinti nyomtatványt a szakképző intézmény a regisztrációs és tanulmányi alaprendszerben a (3) bekezdés d) pontja szerinti nyomtatványként állítja elő.
 
 (5) Az (1) és (2) bekezdés szerinti nyomtatvány – a személyiségi, adatvédelmi és biztonságvédelmi követelmények megtartásával – a regisztrációs és tanulmányi alaprendszer alkalmazásával elektronikus aláírás alkalmazásával elektronikus iratként is elkészíthető és elektronikusan tárolható.
 
-(6)[^9] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelyét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
+(6)[^41] A nem elektronikus iratként előállított nyomtatványt körbélyegzővel kell hitelesíteni. Csak olyan körbélyegző használható, amely külső ívén a szakképző intézmény megnevezését és székhelyét, közepén állami szakképző intézmény esetén Magyarország címerét tartalmazza.
 
-[^9]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
+[^38]: A 25. § (1) bekezdés 8. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 18. pontja szerint módosított szöveg.
+[^39]: A 25. § (1) bekezdés 9. pontját a 380/2021. (VI. 30.) Korm. rendelet 17. §-a iktatta be.
+[^40]: A 25. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 19. pontja szerint módosított szöveg.
+[^41]: A 25. § (6) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.

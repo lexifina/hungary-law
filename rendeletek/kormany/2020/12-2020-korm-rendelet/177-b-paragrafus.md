@@ -1,4 +1,4 @@
-177/B. §[^62] (1) Az elhunyt hivatásos, szerződéses vagy nyugállományú katona árvája (a továbbiakban: pályázó) árvák ösztöndíjára pályázhat, ha
+177/B. §[^136] (1) Az elhunyt hivatásos, szerződéses vagy nyugállományú katona árvája (a továbbiakban: pályázó) árvák ösztöndíjára pályázhat, ha
 
 a) a társadalombiztosítási nyugdíjrendszer keretében megállapított árvaellátásra jogosult,
 
@@ -28,4 +28,4 @@ a félév megkezdését követő harminc napon belül az MHP részére megküldi
 
 (7) A külföldön nappali rendszerű szakmai oktatásban részt vevő pályázó tekintetében a (2) és (6) bekezdést a külföldi oktatási rendszer sajátosságaira figyelemmel kell alkalmazni.
 
-[^62]: A 177/B. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^136]: A 177/B. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.

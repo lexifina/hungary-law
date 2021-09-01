@@ -1,74 +1,58 @@
 14. § (1) A szakmai programot a szakképző intézmény, illetve az általa szervezett részszakmára történő felkészítés tekintetében a felnőttképző dolgozza ki, és a szakképző intézmény, illetve a felnőttképző honlapján teszi közzé.
 
-(2) A szakképző intézmény szakmai programja meghatározza
+(2)[^26] A szakképző intézmény szakmai programja meghatározza
 
-a) a szakképző intézmény nevelési programját, ennek keretén belül
+1. a szakképző intézmény nevelési programját, ennek keretén belül
 
-aa) a szakmai oktatás pedagógiai alapelveit, értékeit, céljait, feladatait, eszközeit, eljárásait,
+a) a szakmai oktatás pedagógiai alapelveit, értékeit, céljait, feladatait, eszközeit, eljárásait,
 
-ab) a személyiségfejlesztéssel kapcsolatos pedagógiai feladatokat,
+b) a személyiség- és közösségfejlesztéssel kapcsolatos pedagógiai feladatokat,
 
-ac) a teljes körű egészségfejlesztéssel összefüggő feladatokat,
+c) az oktatók feladatait, az osztályfőnöki munka tartalmát, az osztályfőnök feladatait,
 
-ad) a közösségfejlesztéssel, a szakképző intézmény szereplőinek együttműködésével kapcsolatos feladatokat,
+d) a kiemelt figyelmet igénylő tanulókkal kapcsolatos pedagógiai tevékenység helyi rendjét,
 
-ae) az oktatók feladatait, az osztályfőnöki munka tartalmát, az osztályfőnök feladatait,
+e) a tanulóknak a szakképző intézményi döntési folyamataiban való részvételi joga gyakorlásának rendjét,
 
-af) a kiemelt figyelmet igénylő tanulókkal kapcsolatos pedagógiai tevékenység helyi rendjét,
+f) a tanuló, a kiskorú tanuló törvényes képviselője, a képzésben részt vevő személy, az oktató, a szakképző intézmény és a szakképző intézmény partnerei együttműködésével kapcsolatos feladatokat és egymással való kapcsolattartásuk formáit,
 
-ag) a tanulóknak a szakképző intézményi döntési folyamataiban való részvételi joga gyakorlásának rendjét,
+g) a tanulmányok alatti vizsga szabályait,
 
-ah) a tanuló, a kiskorú tanuló törvényes képviselője, az oktató és a szakképző intézmény partnerei kapcsolattartásának formáit,
+h) a felvétel és az átvétel helyi szabályait, ehhez kapcsolódóan a szóbeli felvételi vizsga követelményeit,
 
-ai) a tanulmányok alatti vizsga szabályait, valamint a szóbeli felvételi vizsga követelményeit,
+2. a szakképző intézmény közismereti oktatásra és ágazati alapoktatásra vonatkozó oktatási programját, ennek keretén belül
 
-aj) a felvétel és az átvétel helyi szabályait és
+a) a kötelező és a nem kötelező foglalkozások megtanítandó és elsajátítandó tananyagát, az ehhez szükséges kötelező, kötelezően választandó vagy szabadon választható foglalkozások megnevezését, számát, valamint megszervezésének és választásának elveit,
 
-ak) az elsősegély-nyújtási alapismeretek elsajátításával kapcsolatos tervet,
+b) a közismereti kerettantervben meghatározott pedagógiai feladatok helyi megvalósításának részletes szabályait,
 
-b) a szakképző intézmény oktatási programját, ennek keretén belül
+c) az érettségi vizsgával összefüggésben az egyes érettségi vizsgatárgyakból a középszintű érettségi vizsga témaköreit, az emelt szintű érettségi vizsgára történő felkészítéshez – a közismereti kerettanterv és az érettségi vizsga általános és részletes követelményei alapján – az emelt szintű oktatásban alkalmazott fejlesztési feladatokat és követelményeket, továbbá annak meghatározását, hogy milyen követelmények teljesítése mellett melyik választható érettségi vizsgatárgyból tehető érettségi vizsga, ehhez kapcsolódóan pedig azon választható érettségi vizsgatárgyak megnevezését, amelyekből a közép- vagy emelt szintű érettségi vizsgára történő felkészítést a szakképző intézmény kötelezően vállalja,
 
-ba) a kötelező és a nem kötelező foglalkozások megtanítandó és elsajátítandó tananyagát, az ehhez szükséges kötelező, kötelezően választandó vagy szabadon választható foglalkozások megnevezését, számát,
+d) a tanuló teljesítményének írásban, szóban vagy gyakorlatban történő ellenőrzési és értékelési módját, diagnosztikus, szummatív, fejlesztő formáit,
 
-bb) a közismereti kerettantervben meghatározott pedagógiai feladatok helyi megvalósításának részletes szabályait,
+e) a nemzetiséghez nem tartozó tanulók részére a településen élő nemzetiség kultúrájának megismerését szolgáló tananyagot,
 
-bc) a mindennapos testnevelés, testmozgás megvalósításának módját,
+f) az egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket és ehhez kapcsolódóan a mindennapos testnevelés megvalósításának módját és az elsősegélynyújtási alapismeretek elsajátításával kapcsolatos tervet,
 
-bd) a választható tantárgyak, foglalkozások, továbbá ezek esetében az oktatóválasztás szabályait,
+g) a tanulók esélyegyenlőségét szolgáló intézkedéseket,
 
-be) azon választható érettségi vizsgatárgyak megnevezését, amelyekből a szakképző intézmény tanulóinak közép- vagy emelt szintű érettségi vizsgára való felkészítését a szakképző intézmény kötelezően vállalja, továbbá annak meghatározását, hogy a tanulók milyen követelmények teljesítése mellett melyik választható érettségi vizsgatárgyból tehetnek érettségi vizsgát,
+h) a tanuló jutalmazásával összefüggő szabályokat,
 
-bf) az egyes érettségi vizsgatárgyakból a középszintű érettségi vizsga témaköreit,
+i) az oktatói testület által szükségesnek tartott további elveket,
 
-bg) a tanuló tanulmányi munkájának írásban, szóban vagy gyakorlatban történő ellenőrzési és értékelési módját, diagnosztikus, szummatív, fejlesztő formáit,
+3. a szakirányú oktatásra vonatkozó képzési programot, ennek keretén belül
 
-bh) a csoportbontások és az egyéb foglalkozások szervezésének elveit,
+a) szakmánként a megtanítandó és elsajátítandó tananyagelemeket és
 
-bi) a nemzetiséghez nem tartozó tanulók részére a településen élő nemzetiség kultúrájának megismerését szolgáló tananyagot,
+b) a tanuló, illetve a képzésben részt vevő személy teljesítménye ellenőrzésének és értékelésének, illetve minősítésének módját, valamint
 
-bj) az egészségnevelési és környezeti nevelési elveket, programokat, tevékenységeket,
+4. az egészségfejlesztési programot a 102. § (4) bekezdése alapján.
 
-bk) a tanulók esélyegyenlőségét szolgáló intézkedéseket,
+(3)[^27]
 
-bl) a tanuló jutalmazásával összefüggő szabályokat,
+(4)[^28] A szakképző intézmény szakmai programjában meg kell határozni a tanuló magasabb évfolyamba lépésének feltételeit. A rendvédelmi szakképző intézmény, illetve a honvédségi szakképző intézmény szervezeti és működési szabályzata a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.
 
-bm) az oktatói testület által szükségesnek tartott további elveket és
-
-bn) az emelt szintű érettségi vizsgára történő felkészítéshez az emelt szintű oktatásban alkalmazott fejlesztési feladatokat és követelményeket a közismereti kerettanterv és az érettségi vizsga általános és részletes követelményei alapján,
-
-c) a képzési és kimeneti követelmények és a programtanterv alapján a szakképző intézményre konkretizált képzési programot és
-
-d) az egészségfejlesztési programot a 102. § (4) bekezdése alapján.
-
-(3) A szakképző intézmény szakmai programjában meg kell határozni
-
-a) az írásbeli, szóbeli, gyakorlati beszámoltatások, az ismeretek számonkérésének rendjét és
-
-b) a tanuló magasabb évfolyamba lépésének feltételeit.
-
-(4) A rendvédelmi szakképző intézmény, illetve a honvédségi szakképző intézmény szervezeti és működési szabályzata a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.
-
-(5) A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló, a sajátos nevelési igényű tanuló, illetve a képzésben részt vevő fogyatékkal élő személy tekintetében a szakképző intézmény szakmai programja
+(5)[^29] A beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló és a sajátos nevelési igényű vagy fogyatékkal élő személy tekintetében a szakképző intézmény szakmai programja
 
 a) a fogyatékosság típusához és fokához igazodó fejlesztő programot is tartalmazza és
 
@@ -77,3 +61,8 @@ b) az egyes évfolyamok követelményeinek teljesítéséhez egy tanítási évn
 (6) A szakképző intézmény szakmai programja tartalmazza a szakképző intézményben alkalmazott sajátos pedagógiai módszereket, ideértve a projektoktatást is. A projektoktatás során a témaegységek feldolgozása, a feladat megoldása a tanulók érdeklődésére, a tanulók és az oktatók közös tevékenységére, együttműködésére épül a probléma megoldása és az összefüggések feltárása útján.
 
 (7) A szakképző intézmény valamennyi évfolyamát átfogó szakmai programot használ.
+
+[^26]: A 14. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^27]: A 14. § (3) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 59. § 7. pontja hatályon kívül helyezte.
+[^28]: A 14. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 10. pontja szerint módosított szöveg.
+[^29]: A 14. § (5) bekezdés nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 11. pontja szerint módosított szöveg.

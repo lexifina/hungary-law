@@ -1,4 +1,4 @@
-177/A. §[^61] (1) A nappali rendszerű szakmai oktatásban kilencedik–tizenkettedik évfolyamon részt vevő, magyar állampolgársággal rendelkező tanuló Béri Balogh Ádám honvéd kadét ösztöndíjra (a továbbiakban: honvéd kadét ösztöndíj) jogosult, ha a honvéd kadét ösztöndíj kifizetésének félévében
+177/A. §[^135] (1) A nappali rendszerű szakmai oktatásban kilencedik–tizenkettedik évfolyamon részt vevő, magyar állampolgársággal rendelkező tanuló Béri Balogh Ádám honvéd kadét ösztöndíjra (a továbbiakban: honvéd kadét ösztöndíj) jogosult, ha a honvéd kadét ösztöndíj kifizetésének félévében
 
 a) részt vesz
 
@@ -52,4 +52,4 @@ cd) huszonkilenc százaléka, ha a tanulmányi átlageredmény 4,49 fölött van
 
 (7) A honvéd kadét ösztöndíj tervezését, elszámolását és kifizetését, valamint a honvéd kadét ösztöndíj kifizetéséhez szükséges adatoknak a honvédelemért felelős miniszter által biztosított informatikai rendszerbe történő rögzítését a Magyar Honvédség parancsnoka által kijelölt honvédségi szervezet látja el a HKP-hoz csatlakozott szakképző intézmény adatszolgáltatása alapján.
 
-[^61]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^135]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
