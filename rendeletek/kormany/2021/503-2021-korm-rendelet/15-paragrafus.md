@@ -1,0 +1,5 @@
+## 14. § A 217/2017. (VII. 31.) Korm. rendelet 5. alcíme a következő 8. §-sal egészül ki:
+
+## „8. § (1) Azok a személyek, akik e § hatálybalépését megelőzően e rendelet szerint nyilvántartott tanulmányi pontokat szereztek, amelyeket a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló 257/2018. (XII. 18.) Korm. rendelet szerinti névjegyzékbe történő bejegyzéshez, illetve annak megújításához még nem használtak fel, kötelesek 2021. október 1-jéig az EKR-ben felhasználóként regisztrálni, amennyiben még nem rendelkeznek EKR felhasználói regisztrációval.
+
+## (2) E rendeletnek az egyes közbeszerzési tárgyú kormányrendeletek, valamint az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet módosításáról szóló 503/2021. (VIII. 18.) Korm. rendelettel megállapított 2. § (2c) és 4. § (4) bekezdését azon közbeszerzési szakmai képzések tekintetében kell alkalmazni, amelyekre a résztvevők regisztrációja e rendelkezések hatálybalépését követően kezdődött meg.”

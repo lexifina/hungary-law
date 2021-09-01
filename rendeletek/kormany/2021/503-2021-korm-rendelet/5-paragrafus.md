@@ -1,0 +1,3 @@
+## 4. § A 322/2015. (X. 30.) Korm. rendelet 18. §-a helyébe a következő rendelkezés lép:
+
+## „18. § A Kbt. 25. § (3) bekezdése alkalmazásában nem összeférhetetlen a kivitelezésre vagy kivitelezésére és tervezésére együtt, illetve egy (elvi) engedélyezési tervet követően ugyanazon építmény tekintetében további tervek készítésére vonatkozó közbeszerzési eljárásban annak a tervezőnek a részvétele, aki ezen közbeszerzési eljárás Kbt. 57. §-a szerinti közbeszerzési dokumentumait megalapozó tervet készítette, ha egyéb módon nem vesz részt a közbeszerzési eljárás előkészítésében vagy a kivitelezés folyamatában a 10. § (3) bekezdése alapján, és előzetes részvétele nem eredményezi a verseny tisztaságának sérelmét.”

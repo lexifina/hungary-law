@@ -1,0 +1,1 @@
+## „(4) A Hatóság a kérelem elbírálása érdekében a (2) bekezdés f) és h) pontja szerinti adatot a nyilvántartásból történő adatigénylés, a (2) bekezdés g) pontja szerinti adatot a nyilvántartásból automatikus információátadás útján szerzi be.”
