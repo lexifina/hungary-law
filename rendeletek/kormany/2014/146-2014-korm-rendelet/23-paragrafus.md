@@ -2,7 +2,7 @@
 
 ## 12. A Hatóság által kiszabható bírság
 
-## 23. §[^72] Aki a berendezés létesítésére, üzembe helyezésére, üzemeltetésére, alkalmasságának ellenőriztetésére, – a berendezésnek a hatóság, a nyilvántartott szervezet, az ellenőr, a karbantartó dokumentált intézkedésének eredményeként történő leállításának esetkörét kivéve – biztonságtechnikai felülvizsgálatára vagy a 3. § (6) bekezdésben előírt bejelentésre vonatkozó kötelességét megszegi, azt a Hatóság a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 17/B. §-a alapján közigazgatási bírsággal sújtja, amelynek legkisebb összege esetenként 10 000 forint, legmagasabb összege:
+## 23. §[^76] Aki a berendezés létesítésére, üzembe helyezésére, üzemeltetésére, alkalmasságának ellenőriztetésére, – a berendezésnek a hatóság, a nyilvántartott szervezet, az ellenőr, a karbantartó dokumentált intézkedésének eredményeként történő leállításának esetkörét kivéve – biztonságtechnikai felülvizsgálatára vagy a 3. § (6) bekezdésben előírt bejelentésre vonatkozó kötelességét megszegi, azt a Hatóság a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 17/B. §-a alapján közigazgatási bírsággal sújtja, amelynek legkisebb összege esetenként 10 000 forint, legmagasabb összege:
 
 a) természetes személy esetén 300 000 forintig,
 
@@ -10,4 +10,4 @@ b) jogi személy vagy jogi személyiség nélküli szervezet esetén 500 000 for
 
 terjed.
 
-[^72]: A 23. § a 457/2017. (XII. 28.) Korm. rendelet 496. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^76]: A 23. § a 457/2017. (XII. 28.) Korm. rendelet 496. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

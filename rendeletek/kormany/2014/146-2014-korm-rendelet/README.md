@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-146-20-
 | 2021-01-01 | 2014-146-20-22.12 | 677/2020. (XII. 28.) Korm. rendelet |
 | 2021-02-17 | 2014-146-20-22.13 | 37/2021. (II. 2.) Korm. rendelet |
 | 2021-03-19 | 2014-146-20-22.14 | 37/2021. (II. 2.) Korm. rendelet |
+| 2021-09-01 | 2014-146-20-22.15 | 447/2021. (VII. 26.) Korm. rendelet |

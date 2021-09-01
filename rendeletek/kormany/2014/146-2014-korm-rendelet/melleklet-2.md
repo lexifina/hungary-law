@@ -1,8 +1,8 @@
-2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^84]
+2. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^88]
 
 I. A berendezések létesítésének műszaki-biztonsági dokumentációja
 
-Építmény építési engedélyezési tervdokumentációjához a berendezésekre vonatkozóan, továbbá ezen berendezések létesítésének, áthelyezésének, átalakításának műszaki-biztonsági dokumentációjához az alábbi dokumentumokat kell csatolni a kérelem, bejelentés részeként:[^85]
+Építmény építési engedélyezési tervdokumentációjához a berendezésekre vonatkozóan, továbbá ezen berendezések létesítésének, áthelyezésének, átalakításának műszaki-biztonsági dokumentációjához az alábbi dokumentumokat kell csatolni a kérelem, bejelentés részeként:[^89]
 
 1. Felvonók esetében:
 
@@ -32,7 +32,7 @@ I. A berendezések létesítésének műszaki-biztonsági dokumentációja
 
 2.4. a forgalomszámítást (valamennyi személyszállító berendezés figyelembevételével).
 
-3.[^86] A 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező nevét, a tervezési jogosultság számát, az elérhetőségét és a tervező sajátkezű aláírását, továbbá – a felvonókra és mozgólépcsőkre vonatkozó műszaki előírásoktól való eltérés esetén – az alkalmazott eltérés megfelelőségét és egyenértékűségét igazoló tanúsítvány megjelölését tartalmazó aláírólapot.
+3.[^90] A 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező nevét, a tervezési jogosultság számát, az elérhetőségét és a tervező sajátkezű aláírását, továbbá – a felvonókra és mozgólépcsőkre vonatkozó műszaki előírásoktól való eltérés esetén – az alkalmazott eltérés megfelelőségét és egyenértékűségét igazoló tanúsítvány megjelölését tartalmazó aláírólapot.
 
 II. A berendezések műszaki-biztonsági használatbavételi dokumentációja
 
@@ -60,6 +60,6 @@ III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 
 2.3. A bontáshoz tervezett technológiai leírást, amely tartalmazza a bontáshoz felhasználandó eszközöket, segédszerkezeteket, a műveletek sorrendjét, a közművezetékek leválasztási módját, a munkavédelmi és környezetvédelmi előírásokat, valamint az elbontásra kerülő szerkezetek, anyagok további sorsának meghatározását.
 
-[^84]: A 2. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^85]: A 2. melléklet I. fejezet nyitó szövegrésze a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^86]: A 2. melléklet I. fejezet 3. pontja a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^88]: A 2. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^89]: A 2. melléklet I. fejezet nyitó szövegrésze a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^90]: A 2. melléklet I. fejezet 3. pontja a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
