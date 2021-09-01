@@ -104,4 +104,6 @@ c) azon ügytípusokat, amelyek aláírópad, illetve kormányhivatali aláírá
 
 (rendeletben határozza meg.)
 
-(4) A Khtv. 20/J. § (8) bekezdésében a „ponton” szövegrész helyébe a „ponton vagy az Eüsztv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel” szöveg lép.
+(4)
+
+7. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
