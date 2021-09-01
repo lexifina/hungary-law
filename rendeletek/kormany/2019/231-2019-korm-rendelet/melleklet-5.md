@@ -32,7 +32,7 @@
 
 | 15 | Buddhista Misszió, Magyarországi Árya Maitreya Mandala Egyházközösség | 0,1% |
 
-5. melléklet a 231/2019. (X. 4.) Korm. rendelethez[^9]
+5. melléklet a 231/2019. (X. 4.) Korm. rendelethez[^11]
 
 Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka
 
@@ -66,4 +66,4 @@ Hitéleti szolgálatot teljesítő egyházi személyek jövedelempótléka
 
 | 13 | Magyarhoni Zsidó Imaegylet Egyesület | 0,9714 |
 
-[^9]: Az 5. melléklet a 653/2020. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^11]: Az 5. melléklet a 653/2020. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
