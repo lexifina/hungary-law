@@ -70,6 +70,8 @@ i) stratégiai jellegű feladatai körében meghatározza a versenyzők minősí
 
 (3a) A szakszövetség gazdálkodásával összefüggő, az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerinti közérdekű vagy közérdekből nyilvános adatok megismerésére vonatkozó igények a nem állami, nem önkormányzati támogatások tekintetében összesített adattartalom szolgáltatásával is teljesíthetőek.
 
+(3b) A látvány-csapatsportban működő országos sportági szakszövetség gondoskodik a sportágában a játékosügynökök és játékosügynökségek tekintetében az V/A. Fejezet szerinti feladatok ellátásáról.
+
 (4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
 (5) A (2) bekezdés f) pont fa) és fb) alpontja alapján végzett közigazgatási hatósági eljárásokért és igazgatási jellegű szolgáltatások igénybevételéért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.

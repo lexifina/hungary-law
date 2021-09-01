@@ -44,6 +44,10 @@ br) a kiemelt nemzetközi sport- és sportdiplomáciai események körét és r�
 
 bs) a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter által vezetett minisztérium fejezet kiemelt nemzetközi sport- és sportdiplomáciai események rendezésének támogatására szolgáló előirányzatából nyújtott támogatások felhasználásának, elosztásának és ellenőrzésének részletes szabályait.
 
+bt) a 37/D. § (2) bekezdés b) pontja szerinti sportszakmai teljesítményt, a 37/D. § (2) bekezdése szerinti költségtérítés igénylésével és mértékével kapcsolatos szabályokat, valamint a 37/D. § (4) bekezdése szerinti nevelési hozzájárulás mértékét,
+
+bu) a játékosügynöki tevékenység megkezdésére és folytatására, a játékosügynök és a játékosügynökség működésére vonatkozó részletes szabályokat, valamint a 37/C. § szerinti ellenőrzéssel és szankcionálással összefüggő szabályokat, a kiszabható bírság mértékét, a bírság megfizetése módjának részletes szabályait.
+
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
 a)
@@ -51,6 +55,8 @@ a)
 b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
 
 c)
+
+(2a) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a 37/B. § szerinti bejelentés esetén fizetendő igazgatási szolgáltatási díj mértékét, az igazgatási szolgáltatási díj fizetésével kapcsolatos részletes szabályokat.
 
 (3)
 
