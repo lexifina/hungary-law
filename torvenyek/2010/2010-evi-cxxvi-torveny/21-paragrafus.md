@@ -2,11 +2,11 @@
 
 21. § Felhatalmazást kap a Kormány, hogy
 
-a)
+a) a kormányhivatali aláírásminta-nyilvántartás vezetésére jogosult kormányhivatal kijelölését,
 
-b)
+b) az aláírásminta felvétele, az aláírások egyezősége vizsgálata, valamint az aláírások eltérése esetén alkalmazandó részletes szabályokat,
 
-c)
+c) azon ügytípusokat, amelyek aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhetőek,
 
 d)
 
