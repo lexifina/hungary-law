@@ -1,3 +1,3 @@
-## 14. §[^17]
+## 14. §[^16]
 
-[^17]: A 14. § a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^16]: A 14. § a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-506-20-
 | --- | --- | --- |
 | 2021-08-20 | 2021-506-20-22.1 | 506/2021. (VIII. 19.) Korm. rendelet |
 | 2021-08-21 | 2021-506-20-22.2 | 2010: CXXX. törvény |
+| 2021-09-01 | 2021-506-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
