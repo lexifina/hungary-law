@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-158-00-00
 | 2020-12-22 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-158-00-00.1 |
 | 2021-05-01 | 2021. évi VIII. törvény | 2020-158-00-00.2 |
 | 2021-06-29 | 2021. évi CI. törvény | 2020-158-00-00.3 |
+| 2021-09-01 | 2021. évi VIII. törvény | 2020-158-00-00.4 |
