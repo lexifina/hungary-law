@@ -10,4 +10,8 @@
 
 ## RPIt–1KSH: a Központi Statisztikai Hivatal által a tárgyév év január közepén közzétett, a tárgyévet megelőző évre kimutatott éves átlagos fogyasztói árindex-változás.
 
-2. melléklet a 67/2012. (XII. 15.) NFM rendelethez
+2. melléklet a 67/2012. (XII. 15.) NFM rendelethez[^6]
+
+A hatósági árformába tartozó postai szolgáltatások díjváltozása
+
+[^6]: A 2. melléklet a 15/2021. (VIII. 26.) NVTNM rendelet 2. §-ával megállapított szöveg.
