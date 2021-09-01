@@ -1,0 +1,3 @@
+10. § (1) A minősített foglalkoztató a nyilvántartásba vételről rendelkező határozat számát köteles a harmadik országbeli állampolgárok foglalkoztatásával kapcsolatos okirataiban feltüntetni.
+
+(2) A minősített foglalkoztató legkésőbb a foglalkoztatásra irányuló jogviszony létesítésére kötött szerződés megkötésével egyidejűleg Magyarország jogszabályairól – különösen a foglalkoztatással, a harmadik országbeli állampolgárok munkavállalásával, az idegenrendészeti eljárásokkal kapcsolatos szabályokról – köteles a harmadik országbeli állampolgárt írásban, annak anyanyelvén vagy az általa értett más nyelven tájékoztatni. A tájékoztatás elmulasztásával vagy a téves tájékoztatással okozott kárért a minősített foglalkoztató felelősséggel tartozik.
