@@ -8,7 +8,7 @@
 
 4.
 
-5.
+5. 51. § (7) bekezdése,
 
 6.
 
@@ -22,6 +22,6 @@
 
 11.
 
-12.
+12. 110. § (1) bekezdés 7. pontjában az „a felsőoktatási szakképzés rendjét, a felsőoktatási szakképzés képzési területeit, szakjait, valamint a létesítéssel és az indítással összefüggő eljárási rendet, továbbá” szövegrész,
 
 13.
