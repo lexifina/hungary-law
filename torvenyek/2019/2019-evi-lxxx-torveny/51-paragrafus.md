@@ -1,10 +1,10 @@
 ### 51. § [Az oktatói testület]
 
-(1) Az oktatói testület a szakképző intézmény legfontosabb tanácskozó és döntéshozó szerve. Az oktatói testület a szakmai oktatási kérdésekben, a szakképző intézmény működésével kapcsolatos, e törvényben és a Kormány rendeletében meghatározott ügyekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
+(1) Az oktatói testület a szakképző intézmény legfontosabb tanácskozó és döntéshozó szerve. Az oktatói testület a szakmai oktatási kérdésekben, a szakképző intézmény működésével kapcsolatos, e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott ügyekben döntési, egyebekben véleményező és javaslattevő jogkörrel rendelkezik.
 
 (2) Az oktatói testület dönt
 
-1. a szakképző intézmény szakmai programjának, illetve a szakmai képzés képzési programjának elfogadásáról,
+1. a szakképző intézmény szakmai programjának, illetve a szakképző intézmény által szervezett szakmai képzés képzési programjának elfogadásáról,
 
 2. a szakképző intézmény szervezeti és működési szabályzatának és házirendjének elfogadásáról,
 

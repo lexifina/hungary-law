@@ -16,4 +16,4 @@ bc) követeléseinek behajtásáért, a pénzügyi garanciák érvényesítésé
 
 c) ellátja az Alap képzési alaprészével kapcsolatos, jogszabályban meghatározott egyéb feladatokat.
 
-(3) Az Alap képzési alaprészének felhasználásával kapcsolatos feladatok ellátására a szakképzésért felelős miniszter a Kormány rendeletében meghatározott kezelő szervet vehet igénybe.
+(3)

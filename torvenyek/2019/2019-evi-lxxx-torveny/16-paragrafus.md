@@ -4,7 +4,7 @@
 
 ## III. Fejezet
 
-## A SZAKKÉPZŐ INTÉZMÉNY TÍPUSAI ÉS TEVÉKENYSÉGE
+## A SZAKKÉPZŐ INTÉZMÉNY TÍPUSAI, TEVÉKENYSÉGE ÉS GAZDÁLKODÁSA
 
 ## 1. A szakképző intézmény típusai
 

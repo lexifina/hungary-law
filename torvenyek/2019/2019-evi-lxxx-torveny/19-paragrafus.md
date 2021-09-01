@@ -10,11 +10,11 @@ b) szakirányú oktatásban
 
 történik. A szakmai oktatás keretében – ha e törvény vagy a Kormány rendelete eltérően nem rendelkezik – az ágazati alapoktatással és a szakirányú oktatással párhuzamosan vagy attól függetlenül a közismereti kerettanterv szerinti oktatás folyik.
 
-(2) A szakmai vizsgára történő felkészítés a szakképző intézmény feladata, amely a kötelező foglalkozások keretében történik. A szakmai vizsgára történő felkészülést a szakképző intézmény választható foglalkozások biztosításával is segíti. A szakmai vizsgára a képzési és kimeneti követelmények szerinti felkészítésért a szakképzési munkaszerződéssel rendelkező tanuló, illetve képzésben részt vevő személy tekintetében az e törvényben meghatározott feltételek szerint a duális képzőhely a szakképző intézménnyel közösen felel.
+(2) A szakmai vizsgára történő felkészítés a szakképző intézmény feladata, amely a kötelező foglalkozások keretében történik. A szakmai vizsgára történő felkészülést a szakképző intézmény választható foglalkozások biztosításával is segíti. A szakmai vizsgára a képzési és kimeneti követelmények szerinti felkészítésért a szakképzési munkaszerződéssel rendelkező tanuló, illetve képzésben részt vevő személy tekintetében az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételek szerint a duális képzőhely a szakképző intézménnyel közösen felel.
 
 (3) A szakképző intézmény a tevékenységét minőségirányítási rendszer alapján végzi.
 
-(4) A szakképző intézményben a szakmai oktatást előkészítő évfolyam előzheti meg. Az előkészítő évfolyamon
+(4) Az állami szakképző intézményben és az együttműködési megállapodással rendelkező fenntartó által fenntartott nem állami szakképző intézményben az együttműködési megállapodásban foglaltak alapján a szakmai oktatást előkészítő évfolyam előzheti meg. Az előkészítő évfolyamon
 
 a) a technikum nyelvi előkészítést,
 
@@ -24,6 +24,6 @@ ba) a szakma megszerzéséhez szükséges kompetenciák tekintetében történő
 
 bb) dobbantó program keretében alapkompetencia-fejlesztést
 
-folytathat.
+szervezhet.
 
-(5) A szakképző intézmény tizedik évfolyamán a nappali rendszerű szakmai oktatásban tanulói jogviszony keretében részt vevő tanuló szövegértési és matematikai eszköztudás fejlődését az Nkt. szerint kell mérni és értékelni.
+(5) A szakképző intézmény szakmai képzést az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott eltérésekkel az Fktv. szerint szervezhet.

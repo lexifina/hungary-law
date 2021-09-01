@@ -4,7 +4,7 @@
 
 ### 22. § [A szakképző intézmény alapítása]
 
-(1) Szakképző intézményt – az e törvényben és a Kormány rendeletében meghatározott feltételek szerint – önállóan vagy együttesen
+(1) Szakképző intézményt – az e törvényben és a Kormány e törvény végrehajtására kiadott rendeletében meghatározott feltételek szerint – önállóan vagy együttesen
 
 a) az állam,
 
@@ -19,6 +19,8 @@ e) alapítvány vagy
 f) egyesület
 
 alapíthat.
+
+(1a) Szakképző intézmény – a rendvédelmi szakképző intézmény kivételével – kizárólag szakmai vizsgára felkészítő szakmai oktatás folytatására nem alapítható.
 
 (2) A szakképző intézménynek a feladatai ellátásához szükséges feltételekkel rendelkeznie kell.
 

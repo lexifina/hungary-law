@@ -12,9 +12,11 @@ d) vezeti a szakmai képzéshez kapcsolódóan megszerezhető szakképesítések
 
 e) – a Kormány adott ágazatért felelős tagjának egyetértésével –
 
-ea) kidolgoztatja a szakképzési tankönyveket, digitális tananyagokat és egyéb tanulmányi segédleteket,
+ea) javaslatot tesz a Kormány számára a szakmajegyzék megállapítására,
 
-eb) gondoskodik a szakmai vizsga központi vizsgatevékenysége és interaktív vizsgatevékenysége tartalmának meghatározásáról, értékelési útmutatóinak és egyéb dokumentumainak kidolgozásáról és rendelkezésre állásáról,
+eb) kidolgoztatja a szakképzési tankönyveket,
+
+ec) gondoskodik a szakmai vizsga központi vizsgatevékenysége és interaktív vizsgatevékenysége tartalmának meghatározásáról, értékelési útmutatóinak és egyéb dokumentumainak kidolgozásáról és rendelkezésre állásáról,
 
 f) gondoskodik a Szakképzési Innovációs Tanács működéséhez szükséges feltételek biztosításáról,
 
@@ -26,4 +28,4 @@ i) gondoskodik a regisztrációs és tanulmányi alaprendszer és annak részek�
 
 j) végzi a jogszabályban meghatározott egyéb feladatokat.
 
-(2) A szakképzésért felelős miniszter a könyvkiadást folytató jogi személy, illetve egyházi jogi személy kérelme alapján – a Kormány adott ágazatért felelős tagjának egyetértésével – dönt a tankönyvvé nyilvánításról és a tankönyvvé nyilvánítás megszüntetéséről. A szakképzési államigazgatási szerv a szakképzésért felelős miniszter döntése alapján veszi fel a szakképzési tankönyvet a tankönyvjegyzékre. A tankönyvjegyzék szakképzési tantárgyanként legfeljebb kettő szakképzési tankönyvet tartalmazhat. A tankönyvellátásra egyebekben az Nkt.-t kell alkalmazni.
+(2) A szakképzésért felelős miniszter a könyvkiadást, illetve a digitális tananyagfejlesztést folytató személy kérelme alapján – a Kormány adott ágazatért felelős tagjának egyetértésével – dönt a szakképzési tankönyvvé nyilvánításról, annak módosításáról, meghosszabbításáról és megszüntetéséről. Az eljárásban az ügyintézési határidő három hónap. A szakképzési tankönyvvé nyilvánítással, annak módosításával és meghosszabbításával összefüggő eljárásban a Kormány e törvény végrehajtására kiadott rendeletében meghatározottak szerinti szakértő kirendelése kötelező. A szakképzési államigazgatási szerv a szakképzésért felelős miniszter döntése alapján hivatalbóli eljárás keretében veszi fel a szakképzési tankönyvjegyzékre, illetve törli a szakképzési tankönyvet a szakképzési tankönyvjegyzékről. A könyvkiadást, illetve a digitális tananyagfejlesztést folytató személy a szakképzési tankönyvvé nyilvánítás és annak módosítása és meghosszabbítása iránti eljárásért, valamint annak a könyvkiadást, illetve a digitális tananyagfejlesztést folytató személy kérelmére történő megszüntetéséért – a kérelem benyújtásával egyidejűleg – igazgatási szolgáltatási díjat fizet. Az igazgatási szolgáltatási díj a szakképzésért felelős miniszter által vezetett minisztérium bevétele.

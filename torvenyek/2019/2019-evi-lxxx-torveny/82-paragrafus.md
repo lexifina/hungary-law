@@ -2,7 +2,7 @@
 
 (1) Duális képzőhelyként az a képzőközpont vagy – a szakképző intézmény kivételével – más olyan gazdálkodó szervezet vehető nyilvántartásba,
 
-a) amelynél a szakirányú oktatás folytatásának feltételei biztosítottak,
+a) amelynél a szakirányú oktatás megszervezésének feltételei biztosítottak,
 
 b) amely a Kormány rendeletében meghatározott végzettséggel és szakképesítéssel vagy szakképzettséggel és gyakorlattal rendelkező személyt foglalkoztat,
 

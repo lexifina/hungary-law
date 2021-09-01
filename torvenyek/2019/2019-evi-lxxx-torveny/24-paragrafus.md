@@ -22,4 +22,4 @@ d) az alapító két tanítási évnél hosszabb ideig a szakképző intézmény
 
 e) a szakképzési államigazgatási szerv a szakképző intézmény hatósági ellenőrzése vagy minőségirányítási rendszerének külső értékelése keretében súlyos jogszabálysértést vagy szakmai jogszabálysértést tárt fel.
 
-(4) A szakképző intézmények nyilvántartásának fennálló és törölt adatai nyilvánosak, azokat a szakképzési államigazgatási szerv a honlapján bárki számára ingyenesen hozzáférhetővé teszi.
+(4) A szakképző intézmények nyilvántartásának fennálló és törölt adatai nyilvánosak, azokat a szakképzési államigazgatási szerv a honlapon bárki számára ingyenesen hozzáférhetővé teszi.

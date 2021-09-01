@@ -16,7 +16,7 @@ cc) elősegíti a szakképzési munkaszerződések megkötését, ennek érdeké
 
 cd) minősíti és ellenőrzi a duális képzőhelyek szakirányú oktatási tevékenységét,
 
-d) a szakmai vizsga helyszíne szerint illetékes területi gazdasági kamara útján delegálja az ágazati alapvizsga elnökét és a szakmai vizsga vizsgabizottság ellenőrzési feladatokat ellátó tagját,
+d) – a Kormány e törvény végrehajtására kiadott rendeletében meghatározott eltéréssel – a szakmai vizsga helyszíne szerint illetékes területi gazdasági kamara útján delegálja az ágazati alapvizsga elnökét és a szakmai vizsga vizsgabizottság ellenőrzési feladatokat ellátó tagját,
 
 e) – a szakképzésért felelős miniszter jóváhagyásával – kialakítja a kamarai gyakorlati oktatói képzés és vizsga képzési és vizsgakövetelményeit és szervezi a kamarai gyakorlati oktatói képzést és vizsgát,
 

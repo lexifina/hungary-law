@@ -6,14 +6,14 @@
 
 a) szakvéleményt ad a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben,
 
-b) kidolgozott javaslatot tesz
+b) kidolgozott javaslatot tehet
 
-ba) a szakmai oktatás időtartamára, a képzési és kimeneti követelményekre, a tankönyvek és egyéb tanulmányi segédletek tartalmára,
+ba) a szakmajegyzékre,
 
-bb) a szakképzés képzési rendszerének működtetésére,
+bb) a szakmai oktatás időtartamára, a képzési és kimeneti követelményekre és az ágazati alapoktatás szakmai tartalmára,
 
-bc) az ágazati alapoktatás szakmai tartalmának meghatározására és
+bc) új szakképzési tankönyv kidolgozására és tartalmára, és
 
-c) előrejelzést készít a szakképzés rövid és középtávú fejlesztése irányainak, céljainak tervezése, meghatározása érdekében.
+c) előrejelzést készít a szakképzés rövid és középtávú fejlesztési irányainak, céljainak tervezése, meghatározása érdekében.
 
-(3) Az ágazati készségtanács tesz javaslatot a szakmajegyzék meghatározására. Az ágazati készségtanács javaslata hiányában a szakmajegyzéket a Kormány a szakképzésért felelős miniszter – a Kormány adott ágazatért felelős tagjának egyetértésével tett – javaslatára állapítja meg.
+(3)

@@ -8,7 +8,7 @@ b) elektronikus felületet működtet a szakmai vizsgához kapcsolódóan és el
 
 c) vezeti a szakmai vizsgák adatainak, továbbá a kiadott oklevelek, szakmai bizonyítványok, képesítő bizonyítványok és a vizsgatörzslapok központi nyilvántartását és az annak részként kezelt személyes adatokat a keletkezésük évétől számított ötvenedik év utolsó napjáig őrzi,
 
-d) kezeli a szakképzési tankönyvjegyzéket és végzi a szakképzési tankönyvvé nyilvánítással és tankönyvjegyzékkel kapcsolatos döntés-előkészítő feladatokat,
+d) vezeti a szakképzési tankönyvjegyzéket és végzi a szakképzési tankönyvvé nyilvánítással, annak módosításával, meghosszabbításával és megszüntetésével kapcsolatos döntés-előkészítő feladatokat,
 
 e) működteti a pedagógiai-szakmai szolgáltatásnyújtási tevékenységet,
 

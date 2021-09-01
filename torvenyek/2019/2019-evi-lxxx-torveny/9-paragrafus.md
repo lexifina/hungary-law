@@ -1,6 +1,6 @@
 ### 9. § [A szakképzés megszervezése]
 
-(1) Szakképzés szakképző intézményben folytatható.
+(1) Szakképzés szakképző intézményben szervezhető.
 
 (2) A szakképzés szakképző intézményen kívül
 
@@ -8,7 +8,7 @@ a) részszakmára felkészítő szakmai oktatás és
 
 b) szakképesítésre felkészítő szakmai képzés
 
-keretében az Fktv. szerint a felnőttképzési tevékenység folytatására engedéllyel rendelkező felnőttképző által folytatható.
+keretében az Fktv. szerint a felnőttképzési tevékenység folytatására engedéllyel rendelkező felnőttképző által szervezhető.
 
 (3) A duális képzőhely a szakirányú oktatás keretében vesz részt a szakképzésben.
 

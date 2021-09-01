@@ -22,4 +22,4 @@ c) a Kormány rendeletében meghatározott további, személyes adatnak nem min�
 
 (4) A külföldi szakképző intézmény alapítására, az általa ellátott nevelő és oktató munkára, valamint annak ellenőrzésére, a tanulókkal összefüggő ügyekre és döntésekre annak az államnak az előírásait kell alkalmazni, amelyik a külföldi szakképző intézményt sajátjának elismerte.
 
-(5) A külföldi szakképző intézmény és a nemzetközi iskola fenntartójával a szakképzésért felelős miniszter fenntartói megállapodást köt.
+(5) A külföldi szakképző intézmény és a nemzetközi iskola fenntartójával a szakképzésért felelős miniszter együttműködési megállapodást köt.

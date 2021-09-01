@@ -58,6 +58,8 @@ d) a felnőttképzési jogviszonnyal kapcsolatos adatok keretében a c) pont cb)
 
 e) jogszabályban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükséges olyan adatokat, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 
+(1a) A szakképző intézmény a tanulmányi kötelezettség teljesítésének biztosítása és ellenőrzése céljából kezeli a tanuló, illetve a képzésben részt vevő személy szakképzési munkaszerződéssel összefüggésben keletkezett és az állami adó- és vámhatóság által számára átadott adatát. Ezzel összefüggésben az állami adó- és vámhatóság a szakképzési munkaszerződéshez kapcsolódóan az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 1., 3., 5., 9., 14. és 15. pontjában meghatározott adatokat a tanuló, illetve a képzésben részt vevő személy természetes személyazonosító adatainak összevetése útján – az e törvényben vagy a Kormány e törvény végrehajtására kiadott rendeletében a szakképzés irányításával és ellenőrzésével összefüggésben meghatározott feladatok ellátása céljából – a szakképzési államigazgatási szerv részére a szakképzés információs rendszerén keresztül átadja. Az állami adó- és vámhatóság az adatszolgáltatást havonta, a bejelentést követő tizenöt napon belül teljesíti.
+
 (2) A szakképző intézmény az alkalmazottja foglalkoztatása, számára a juttatások, kedvezmények, kötelezettségek megállapítása és teljesítése, továbbá az e törvényben meghatározott nyilvántartások vezetése céljából kezeli
 
 a) az alkalmazott

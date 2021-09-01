@@ -1,14 +1,16 @@
 ### 59. § [A tanuló juttatásai és az őt megillető további kedvezmények]
 
-(1) A tanuló a Kormány rendeletében meghatározottak szerint
+(1) A tanuló a Kormány rendeletében meghatározottak szerint ahhoz a szakképző intézményben szervezett szakmai oktatáshoz kapcsolódóan, amelyben ingyenesen vesz részt
 
-a) – a duális képzőhelyen folytatott szakirányú oktatás kivételével – ösztöndíjra,
+a) az első szakma megszerzésével összefüggésben
 
-b) az első szakma megszerzéséhez kapcsolódóan egyszeri pályakezdési juttatásra,
+aa) – a szakirányú oktatásban szakképzési munkaszerződéssel részt vevő tanuló kivételével – ösztöndíjra és
 
-c) rászorultsági helyzete és jó tanulmányi eredménye alapján pályázat útján támogatásra
+ab) egyszeri pályakezdési juttatásra,
 
-jogosult.
+b) rászorultsági helyzete és jó tanulmányi eredménye alapján pályázat útján támogatásra
+
+jogosult. Az e bekezdés szerinti juttatásra vonatkozó követelést hat hónapnál régebbi időre bírósági úton akkor lehet visszamenőlegesen érvényesíteni, ha a jogosult a követelés érvényesítésével alapos ok miatt késlekedett. Három évnél régebbi időre az e bekezdés szerinti juttatásra vonatkozó követelés bírósági úton nem érvényesíthető.
 
 (2) A tanuló a szakképző intézmény útján vagy közvetlenül kérheti kollégiumi felvételét, valamint externátusi elhelyezését az Nkt. szerint. A tanuló tanítási évben (ideértve az évközi szünetek idejét is) és a szorgalmi időszakon kívüli egybefüggő gyakorlat idejében hazautazásra – a rendkívüli eseteket kivéve – nem kötelezhető.
 

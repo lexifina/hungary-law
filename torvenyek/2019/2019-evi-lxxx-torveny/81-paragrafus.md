@@ -10,8 +10,10 @@ c) a gazdálkodó szervezet és a szakképzési centrum legfeljebb hatvanszázal
 
 létrehozott nonprofit gazdasági társaság ágazati képzőközpontként működhet.
 
-(2) A szakirányú oktatás és az Nftv. szerinti duális képzés egy képzőközpontban történő megvalósítása céljából a felsőoktatási intézmény és a szakképzési centrum együttesen legalább ötvenegy százalékos tulajdoni hányadával létrehozott nonprofit gazdasági társaság tudásközpontként működhet.
+(1a) Az (1) bekezdés a) pontja szerint létesített ágazati képzőközpontban a szakmai szervezet – ha jogszabály vagy létesítő okirat a társasági részesedésszerzés lehetőségét nem zárja ki – legfeljebb tízszázalékos tulajdoni hányadot szerezhet.
 
-(3) Önállóan vagy más gazdálkodó szerv megbízása alapján szakirányú oktatás folytatása céljából a saját tanműhellyel rendelkező, a Kkvtv. szerinti mikro-, kis- és középvállalkozásnál nagyobb gazdálkodó szervezet, ha utolsó éves nettó árbevételének legalább kilencven százaléka vállalkozási tevékenységből származik, saját szervezetén belül vállalati képzőközpontot működtethet.
+(2) A szakirányú oktatás és az Nftv. szerinti duális képzés egy képzőközpontban történő megvalósítása céljából a felsőoktatási intézmény és a szakképzési centrum együttesen legalább ötvenegy százalékos tulajdoni hányadával létrehozott ágazati képzőközpont tudásközpontként működhet.
+
+(3) Önállóan vagy más gazdálkodó szervezet megbízása alapján folytatandó szakirányú oktatás céljából a saját tanműhellyel rendelkező, a Kkvtv. hatálya alá nem tartozó gazdálkodó szervezet, ha utolsó éves nettó árbevételének legalább kilencven százaléka vállalkozási tevékenységből származik, saját szervezetén belül vállalati képzőközpontot működtethet.
 
 (4) Az ágazati képzőközpont és a tudásközpont szervezeti minőséget – a társaság alapításakor vagy később – a gazdasági társaság kérelmére a cégbíróság állapítja meg. A gazdasági társaság az ágazati képzőközponti és a tudásközponti szervezeti minőséget cégnevében feltüntetheti.

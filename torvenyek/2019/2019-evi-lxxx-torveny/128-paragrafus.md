@@ -1,12 +1,12 @@
 ### 128. § [Egyéb átmeneti rendelkezések]
 
-(1) Az állami szakképzési és felnőttképzési szerv e törvény hatálybalépését megelőző napon hatályos és e törvénnyel a szakképzésért felelős miniszter, illetve a szakképzési államigazgatási szerv feladatkörébe átkerülő feladatok átadását 2020. június 30-áig átadás-átvétel keretében kell végrehajtani a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 5/A. §-a és az annak végrehajtására kiadott kormányrendeletnek a központi államigazgatási szervek közötti átadás-átvétel általános rendjére vonatkozó szabályai szerint. A munkáltató személyében bekövetkező jogutódlásra a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. §-át kell alkalmazni.
+(1)
 
-(2) Az (1) bekezdés szerinti feladatok átadás-átvétele a feladatot átadó szervvel szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással a feladatot átvevő szervvel szemben szerződésszegésre alapított igényt nem lehet érvényesíteni. A feladatot átvevő szerv az átvett feladatokkal összefüggő jogviszonyok vonatkozásában jogosult belépni a fennálló jogviszonyokba és a folyamatban lévő hatósági és bírósági eljárásokba. Az átadás-átvétellel érintett feladatok ellátásával összefüggő, a feladatot átadó szerv javára kiadott hatósági engedélyek jogosultjának 2020. július 1-jétől a feladatot átvevő szerv minősül. A hatósági engedélyek ennek megfelelő módosítását a feladatot átvevő szerv kezdeményezi. Az átadás-átvétellel érintett feladatok ellátásához szükséges vagyonelemeket a feladatot átvevő szerv részére 2020. július 1-jével kell átadni és a könyvviteli, nyilvántartási számlák és részletező nyilvántartások lezárása nélkül, a folyamatos könyvelés keretében a feladatot átadó szerv könyveiből 2020. június 30-ával kivezetni és ugyanezen napi állapotnak megfelelő értéken a feladatot átvevő szerv könyveiben nyilvántartásba venni.
+(2)
 
 (3) Az a kedvezményezett, akit az e törvény hatálybalépését megelőzően létrejött támogatási jogviszonyból a kapott támogatásra tekintettel fenntartási kötelezettség, illetve elidegenítési és terhelési tilalom terhel, e kötelezettségét az e törvény szerinti feltételek alapján vagy a támogató jóváhagyásával más módon teljesíti.
 
-(4) A Szakképzési Innovációs Tanács és az ágazati készségtanács szervezetének és működésének e törvény szerinti feltételeit az e törvény hatálybalépését követő első ülés berekesztéséig kell megteremteni.
+(4)
 
 (5) A 2021. január 1-jét megelőző időszakra vonatkozó szakképzésihozzájárulás-fizetési kötelezettséget a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló 2011. évi CLV. törvény és az abban kapott felhatalmazás alapján kiadott jogszabály 2020. december 31-én hatályos rendelkezései szerint kell teljesíteni, megállapítani és bevallani. A szakképzési hozzájárulásra kötelezett e törvény szerinti szakképzésihozzájárulás-fizetési kötelezettségét 2021. január 1-jétől teljesíti akként, hogy
 
@@ -24,8 +24,10 @@ bb) a 104–108. § alkalmazásában szakirányú oktatás alatt a régi Szkt. s
 
 (6) A 109. § (3) bekezdése szerinti együttműködési megállapodásban meghatározott keretszám nem lehet kevesebb az egyházi jogi személy esetében a 2019/2020. tanévre beiskolázott tanulói létszám huszonöt százalékkal növelt mértékénél.
 
-(7) A nem állami szakképző intézmény fenntartója a 2020. költségvetési évre vonatkozóan a köznevelési intézményekre meghatározott szabályok szerint jogosult a központi költségvetésről szóló törvény alapján a köznevelési intézmény számára járó támogatásra azzal, hogy a bevett egyháznak a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény alapján biztosított működési támogatás megállapítása és felhasználása tekintetében nevelési-oktatási, illetve köznevelési intézmény alatt szakképző intézményt, köznevelési feladat alatt szakképzési alapfeladatot kell érteni.
+(7)
 
 (8) Szakképző intézmény alapítására az alapítvány általi alapításra vonatkozó szabályokat kell alkalmazni az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény alapján e törvény hatálybalépésekor működő közalapítványok tekintetében.
+
+(8a) A MódTv1.-gyel megállapított 22. § (1a) bekezdését a 2021. szeptember 1-jén és az azt követően alapított szakképző intézményre kell alkalmazni.
 
 (9) Regisztrációs és tanulmányi alaprendszerként a Köznevelési Regisztrációs és Tanulmányi Alaprendszer szakképzési és felnőttképzési modulját kell használni.

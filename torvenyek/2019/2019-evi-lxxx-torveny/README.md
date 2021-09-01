@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-80-00-00
 | 2020-07-31 | 2020. évi XXXIII. törvény | 2019-80-00-00.3 |
 | 2021-01-01 | 2020. évi CXLVIII. törvény | 2019-80-00-00.4 |
 | 2021-07-01 | 2021. évi LXXXIII. törvény | 2019-80-00-00.5 |
+| 2021-09-01 | 2021. évi LXXXIII. törvény | 2019-80-00-00.6 |

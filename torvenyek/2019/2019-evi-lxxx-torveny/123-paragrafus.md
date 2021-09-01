@@ -20,21 +20,23 @@
 
 1. a szakmajegyzéket,
 
+1a. a szakképzésben való részvétel feltételeit,
+
 2. a képzési és kimeneti követelmények, a programtanterv és a szakmai program meghatározásának szabályait,
 
-3. a programkövetelmény és a képzési program meghatározásának szabályait és nyilvántartásba vételének rendjét,
+3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét,
 
-4. a szakképző intézmény alapításának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény létesítő okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
+4. a szakképző intézmény alapításának, megszüntetésének, átszervezésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 
 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
 
-6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, az általa használt nyomtatványok körét, azok használatának részletes szabályait,
+6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
 
 7. a szakképzési minőségirányítási keretrendszert és a szakképző intézmény külső értékelésére, valamint a szakképző intézmény és a duális képzőhely ellenőrzésére vonatkozó részletes szabályokat,
 
 8. a szakképzés szakképző intézményben és duális képzőhelyen történő folytatásának rendjét,
 
-9. a fenntartói megállapodás tartalmát és megkötésének részletes szabályait,
+9. az együttműködési megállapodás tartalmát és megkötésének részletes szabályait,
 
 10. a szakképzés megkezdésének és folytatásának feltételeit, ideértve az előkészítő évfolyam, a két tanítási nyelvű oktatás és a műhelyiskola megszervezésének eseteit és feltételeit, valamint a térítési díj, illetve a tandíj ellenében nyújtható szolgáltatásokat,
 
@@ -48,11 +50,11 @@
 
 15. a szakképző intézmény alkalmazottjának végzettségi és szakképzettségi, illetve gyakorlati követelményeit, munkaidő-beosztásának és szabadsága kiadásának részletes szabályait,
 
-16. az oktató továbbképzési kötelezettsége teljesítésének rendjét,
+16. az oktató kötelességének részletes szabályait és továbbképzési kötelezettsége teljesítésének rendjét,
 
 17. az oktatói testület és a szakmai munkaközösség döntési jogköreit,
 
-18. a tanulói jogviszony létesítésének feltételeit,
+18. a tanulói jogviszony létesítésének, szünetelésének és megszüntetésének feltételeit,
 
 19. a tanuló és a kiskorú tanuló törvényes képviselője e törvényben foglalt jogainak és kötelességeinek részletes szabályait,
 
@@ -62,7 +64,7 @@
 
 22. a tanulók egészségügyi ellátására és egészségfejlesztésére vonatkozó részletes szabályokat,
 
-23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy szakmai oktatásával kapcsolatos részletes szabályokat,
+23. a tehetség kibontakoztatására, a hátrányos helyzetű tanuló, illetve képzésben részt vevő személyek felzárkóztatására, valamint a beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló számára biztosított differenciált fejlesztés részletes szabályait, a sajátos nevelési igényű vagy fogyatékkal élő személy szakmai oktatásával kapcsolatos részletes szabályokat,
 
 24. a tanuló heti kötelező foglalkozásainak számát,
 
@@ -70,7 +72,7 @@
 
 26. a tanuló értékelésének és minősítésének, valamint a tanulmányok alatti vizsga részletes szabályait,
 
-27. a szakképző intézmény tanulója számára járó ösztöndíj, az egyszeri pályakezdési juttatás és támogatás mértékére, feltételeire, folyósítására és az ezzel összefüggésben felmerült költségek térítésére vonatkozó szabályokat,
+27. a tanuló számára járó ösztöndíj, az egyszeri pályakezdési juttatás és támogatás mértékére, feltételeire, folyósítására és az ezzel összefüggésben felmerült költségek térítésére vonatkozó szabályokat,
 
 28. a tanuló- és gyermekbalesetek megelőzésével kapcsolatos feladatokat, továbbá a balesetek kivizsgálásával, nyilvántartásával és jelentésével összefüggő tevékenységet,
 
@@ -78,11 +80,13 @@
 
 30. a képzési hitel igénybevételének feltételeit,
 
+30a. a diákigazolvány kiadásával és használatával kapcsolatos szabályokat,
+
 31. a duális képzőhelyek nyilvántartásának – személyes adatnak nem minősülő – adattartalmát, a nyilvántartásba-vételi eljárás részletes szabályait, a szakirányú oktatási célt szolgáló tanműhelyként történő nyilvántartásba vétel feltételeit, a duális képzőhely felelősségbiztosításának mértékét és a duális képzőhelyek ellenőrzésének részletes szabályait,
 
 32. a szakirányú oktatásról való mulasztás igazolásának, pótlásának módját, az igazolatlan mulasztás következményeit, az igazolatlan mulasztások esetén követendő eljárás szabályait,
 
-33. a foglalkozási napló vezetése és ellenőrzése rendjének megszegéséért kiszabható bírság mértékét és a bírságkiszabás szempontjait,
+33.
 
 34. a szakképzési munkaszerződés tartalmi elemeit,
 
@@ -92,15 +96,17 @@
 
 37. az akkreditált vizsgaközpont akkreditálásának, működésének feltételeit,
 
-38. a szakmai vizsga rendjét, a szakmai vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a szakmai vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a szakmai vizsgával kapcsolatos adatszolgáltatásnak és a szakmai vizsga ellenőrzésének részletes szabályait, valamint a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
+38. a szakmai vizsga rendjét, a szakmai vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a szakmai vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a szakmai vizsgával kapcsolatos adatszolgáltatásnak és a szakmai vizsga ellenőrzésének részletes szabályait, a szakmai vizsgával összefüggésben az akkreditált vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait, valamint a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
 
 39. az oklevelek, a szakmai bizonyítványok és a képesítő bizonyítványok központi elektronikus nyilvántartásának részletes szabályait,
 
 39a. a szakképzés irányításának és a szakképzésért felelős miniszter e törvényben meghatározott feladatai végrehajtásának részletes szabályait,
 
-39b. a szakképzési tankönyv tekintetében a tankönyvvé nyilvánítás eljárási rendjét, valamint a tankönyvjegyzék elkészítését és kiadását, a tankönyvjegyzékre való felvétel eljárását, az eljárásban szakértőként eljáró szervet, az iskolai terjesztési árat, a tankönyvjegyzékből való törlés rendjét és eljárását,
+39b. a szakképzési tankönyvvé nyilvánítás, annak módosítása és megszüntetése rendjét, az eljárásba bevonásra kerülő szakértőket és a szakértői vélemény elkészítéséért fizetendő szakértői díj mértékét, a szakképzési tankönyvjegyzék elkészítését és kiadását, valamint a szakképzésben alkalmazott terjesztési árat,
 
-40. a Nemzeti Foglalkoztatási Alap képzési alaprészéből nyújtható támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
+40. az Alap képzési alaprészéből nyújtható támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
+
+40a. a felnőttképzési jogviszonyban szakmai oktatásban, illetve ingyenes szakmai képzésben részt vevők tekintetében a szakképző intézmény finanszírozására vonatkozó szabályokat,
 
 41. a Szakképzési Innovációs Tanács összetételét és működésének részletes szabályait,
 
@@ -117,3 +123,5 @@
 47. a korai iskolaelhagyás megelőzését támogató rendszer működtetésének szabályait és az abba történő adatszolgáltatás rendjét,
 
 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
+
+(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.

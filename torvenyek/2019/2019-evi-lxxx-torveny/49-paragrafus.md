@@ -1,6 +1,6 @@
 ### 49. § [Az oktató kötelességei]
 
-(1) Az oktató alapvető feladata a tanuló, illetve a képzésben részt vevő személy szakmai oktatása, illetve szakmai képzése, a képzési és kimeneti követelményekben és a programkövetelményben meghatározott törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű tanuló, illetve képzésben részt vevő kiskorú személy esetén az egyéni fejlesztési tervben foglaltak figyelembevételével.
+(1) Az oktató alapvető feladata a tanuló, illetve a képzésben részt vevő személy szakmai oktatása, illetve szakmai képzése, az ahhoz kapcsolódó törzsanyag átadása, elsajátításának ellenőrzése, sajátos nevelési igényű vagy fogyatékkal élő személy esetén az egyéni fejlesztési tervben foglaltak figyelembevételével.
 
 (2) Az (1) bekezdéssel összefüggésben az oktató kötelessége, hogy
 

@@ -1,4 +1,4 @@
-### 27. § [A Kormány más tagja, illetve az állami és nem állami felsőoktatási intézmény fenntartói joggyakorlása alá tartozó szakképző intézmény]
+### 27. § [A Kormány más tagja, illetve a felsőoktatási intézmény fenntartói irányítási hatásköre alá tartozó szakképző intézmény]
 
 (1) Az állam képviseletében eljárva szakképző intézményt
 
@@ -12,6 +12,6 @@ alapíthat és gyakorolhatja a fenntartót megillető jogokat. Az a) pont szerin
 
 (2) A Kormány rendeletben az állami szakképző intézmény állam nevében történő alapítására és a fenntartói irányítási hatáskörök gyakorlására az (1) bekezdésben meghatározott miniszter mellett más tagját is kijelölheti. A Kormány rendeletben a szakképzésért felelős miniszter mellett más tagja által alapított szakképző intézmény szakképzési centrum részeként történő működését írhatja elő.
 
-(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói jogait a szakképzésért felelős miniszter hozzájárulásával gyakorolhatja.
+(3) Állami felsőoktatási intézmény szakképző intézmény fenntartói irányítási hatásköreit a szakképzésért felelős miniszter hozzájárulásával, nem állami felsőoktatási intézmény a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdése szerinti megállapodás ilyen rendelkezése esetén gyakorolhatja.
 
-(4) A szakképző intézmény fenntartói jogát a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.) 84. § (3) bekezdésében foglalt megállapodást kötött nem állami felsőoktatási intézmény gyakorolhatja.
+(4)
