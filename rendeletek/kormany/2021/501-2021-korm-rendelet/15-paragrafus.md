@@ -1,3 +1,3 @@
-## 14. §[^17]
+## 14. §[^14]
 
-[^17]: A 14. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^14]: A 14. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.

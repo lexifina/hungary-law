@@ -1,3 +1,3 @@
-## 17. §[^20]
+## 17. §[^16]
 
-[^20]: A 17. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 17. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
