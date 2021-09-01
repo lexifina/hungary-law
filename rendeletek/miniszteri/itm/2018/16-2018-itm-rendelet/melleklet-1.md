@@ -1,4 +1,4 @@
-## 10. §[^2]
+## 10. §[^7]
 
 1. melléklet a 16/2018. (IX. 11.) ITM rendelethez
 
@@ -94,4 +94,4 @@
 
 | 11. | Korrózióvédelmi tevékenység irányítója | Villamosmérnök vagy üzemmérnök vagy korrózióvédelmi felsőfokú szakképzettség | 3 év | 5 évenként |
 
-[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
