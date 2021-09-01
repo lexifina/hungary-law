@@ -18,7 +18,7 @@ g)[^6]
 
 (2)–(3)[^7]
 
-(4)[^8] Az egyházi, a magán nevelési-oktatási intézmény, pedagógiai szakszolgálati intézmény a Hivatal által nyújtott pedagógiai-szakmai szolgáltatásokat térítési díj ellenében veheti igénybe, vagy fenntartója az egyházi, továbbá magán pedagógiai intézettel szolgáltatás nyújtására megállapodást köthet.
+(4)[^8] Az egyházi, a magán nevelési-oktatási intézmény, pedagógiai szakszolgálati intézmény a Hivatal által nyújtott pedagógiai-szakmai szolgáltatásokat térítésmentesen veheti igénybe a Hivatal e célra rendelkezésre álló erőforrásai és az éves munkatervében meghatározott feladatok erejéig.
 
 (5)[^9] A (4) bekezdés szerinti intézmények a pedagógiai-szakmai szolgáltatást nyújtó intézmény kiválasztásához beszerzik a fenntartójuk egyetértését.
 
@@ -29,5 +29,5 @@ g)[^6]
 [^5]: Az 1. § (1) bekezdés f) pontját a 26/2015. (V. 22.) EMMI rendelet 17. § a) pontja hatályon kívül helyezte.
 [^6]: Az 1. § (1) bekezdés g) pontját a 31/2020. (VIII. 31.) EMMI rendelet 25. § a) pontja hatályon kívül helyezte.
 [^7]: Az 1. § (2)–(3) bekezdését a 26/2015. (V. 22.) EMMI rendelet 17. § b) pontja hatályon kívül helyezte.
-[^8]: Az 1. § (4) bekezdése a 26/2015. (V. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^8]: Az 1. § (4) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 25. §-ával megállapított szöveg.
 [^9]: Az 1. § (5) bekezdése a 26/2015. (V. 22.) EMMI rendelet 17. § c) pontja szerint módosított szöveg.

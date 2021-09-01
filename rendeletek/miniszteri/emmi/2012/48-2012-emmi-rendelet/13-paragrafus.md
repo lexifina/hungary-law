@@ -1,7 +1,3 @@
-13. § (1) Országos pedagógiai-szakmai szolgáltatásként kell megszervezni az országos pedagógiai mérési-értékelési eredmények alapján az intézményértékeléshez kapcsolódó fejlesztési eszközök kidolgozását, országos terjesztését, ennek keretében
+## 12. §[^20]
 
-a) a pedagógiai értékelés köréből az országos pedagógiai mérési-értékelési és ellenőrzési feladatok megállapításainak elemzését segítő, a feltárt intézményi és gyermeki, tanulói lemaradások megszüntetését szolgáló intézkedések kidolgozásához szükséges pedagógiai és komplex intézményfejlesztési eszközök kidolgozását és módszerek megismertetését,
-
-b) a szaktanácsadás köréből a segítségnyújtáshoz szükséges országos fejlesztési eszközöket ahhoz, hogy az óvoda és az iskola fenntartója és az óvoda és az iskola vezetői, pedagógusai elkészítsék, bevezessék és végrehajtsák azt az intézkedési tervet, amely a pedagógiai tevékenység színvonalának az emeléséhez szükséges.
-
-(2) Az országos pedagógiai méréssel-értékeléssel kapcsolatos országos pedagógiai-szakmai szolgáltatások szakmai irányítását a Hivatal látja el.
+[^20]: A 12. §-t a 37/2021. (VIII. 31.) EMMI rendelet 29. § a) pontja hatályon kívül helyezte.

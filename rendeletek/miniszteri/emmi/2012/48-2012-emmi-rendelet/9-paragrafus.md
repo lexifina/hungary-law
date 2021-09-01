@@ -1,9 +1,7 @@
-## 8. § Az Nkt. 19. § (2) bekezdés f) pontja szerinti tanulmányi, sport- és tehetséggondozó versenyek szervezése és összehangolása keretében kell ellátni a versenykiírásban meghatározott feladatokat, a versenyszervezővel kötött megállapodás alapján.
+9. § (1) Az Nkt. 19. § (2) bekezdés e) pontja szerinti pedagógusok képzésének, továbbképzésének és önképzésének segítése, szervezésének feladatai:
 
-## 9. § Az Nkt. 19. § (2) bekezdés g) pontja szerinti tanulótájékoztató, tanácsadó szolgálat eszközei és módszerei:
+a) pedagógiai tárgyú tanácskozások, pedagógiai szakmai napok szervezése,
 
-a) a köznevelés rendszerét érintő kérdésekben információk közvetítése, azok értelmezésének segítése a tanulók és az iskolai diákönkormányzatok részére,
+b) bekapcsolódás az országos pedagógus-továbbképzés rendszerébe.
 
-b) fórumok, továbbképzések szervezése a tanulók, a diákönkormányzatok és a diákönkormányzatok munkáját segítő pedagógusok részére,
-
-c) a diákjogi tanácsadás megszervezése.
+(2) A Hivatal együttműködési megállapodás keretében bevonhatja az állami feladatellátás keretei között ellátott pedagógiai-szakmai szolgáltatásokba a pedagógusképző felsőoktatási intézmény által fenntartott pedagógiai intézetet, a pedagógiai tárgyú továbbképzések, pedagógiai kísérletek köznevelés-fejlesztéssel összefüggő megszervezésébe.

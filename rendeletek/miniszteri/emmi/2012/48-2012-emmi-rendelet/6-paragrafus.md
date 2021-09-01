@@ -1,9 +1,19 @@
-## 6. § Az Nkt. 19. § (2) bekezdés d) pontja szerinti tanügy-igazgatási szolgáltatás eszközei és módszerei:
+6. § (1) Szaktanácsadó az lehet, aki
 
-a) közreműködés a nevelési-oktatási intézmények pedagógiai programjainak elkészítésében és bevezetésében,
+a) az Nkt. 61. § (4) bekezdésében meghatározott feltételeknek megfelel, és
 
-b)[^18] a megyei, fővárosi köznevelés-fejlesztési tervben foglaltakkal összhangban, az egyházi és magán fenntartó fenntartásában működő köznevelési intézmények vonatkozásában az intézményszerkezetre vonatkozó tanácsadás,
+b) a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján akkreditált pedagógus-továbbképzés keretében elvégezte a Hivatal által szervezett, a szaktanácsadásban részt vevő személy szakterületéhez illeszkedő továbbképzést.
 
-c) a miniszter, vagy valamely fenntartó felkérésére – költségvetésének terhére és mértékéig – közgazdasági, jogi, pénzügyi és további tervezési információk gyűjtése, rendelkezésre bocsátása, szükség esetén e körből tájékoztatás nyújtása.
+(2) Tantárgygondozói szakterület esetén szaktanácsadó az lehet, aki
 
-[^18]: A 6. § b) pontja a 26/2015. (V. 22.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.
+a) az Nkt. 61. § (4) bekezdésében meghatározott feltételeknek megfelel, és
+
+b) a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján akkreditált pedagógus-továbbképzés keretében elvégezte a Hivatal által szervezett, a szaktanácsadásban részt vevő személy szakterületéhez illeszkedő tantárgygondozói továbbképzést.
+
+(3) Intézményfejlesztési szakterület esetén szaktanácsadó az lehet, aki megfelel az (1) bekezdésben meghatározott feltételeknek, továbbá köznevelési intézményben legalább három éves, a köznevelésben szerzett vezetői gyakorlattal rendelkezik, vagy szervezetfejlesztési szakképzettséggel és legalább három éves szervezetfejlesztéshez kapcsolódó szakmai gyakorlattal rendelkezik, vagy felsőfokú intézményben a szakterülethez kapcsolódó oktatói feladatot látott el.
+
+(4) Konfliktuskezelési szakterület esetén szaktanácsadó az lehet, aki megfelel az (1) bekezdésben meghatározott feltételeknek, továbbá szakirányú tanári szakképzettség megszerzésekor vagy szakirányú továbbképzés keretében részt vett konfliktuskezelés ismereteire történő felkészítésben, vagy pedagógiai szakpszichológus, tanácsadó szakpszichológus, klinikai szakpszichológus, szociálpedagógus szakképzettséggel vagy pszichológia mesterszakon klinikai és egészségpszichológia, tanácsadás és iskolapszichológia, fejlődés- és klinikai gyermekpszichológia, interperszonális és interkulturális pszichológia, pszichopedagógia szakirányon szerzett szakképzettséggel rendelkezik.
+
+(5) Pedagógiai mérés-értékelési szakterület esetén szaktanácsadó az lehet, aki megfelel az (1) bekezdésben meghatározott feltételeknek, és pedagógiai mérés, értékelés okleveles tanára vagy a mérés, értékelés területén szakvizsgával rendelkezik.
+
+(6) Digitális pedagógiai szakterület esetén szaktanácsadó lehet az is, aki megfelel az (1) bekezdésben meghatározott feltételeknek, és elvégezte az EFOP-3.2.15-VEKOP-17-2017-0001 pályázat keretében szervezett, „Felkészítés digitális szaktanácsadói feladatok ellátására I–II.” című, 60 órás pedagógus-továbbképzést.

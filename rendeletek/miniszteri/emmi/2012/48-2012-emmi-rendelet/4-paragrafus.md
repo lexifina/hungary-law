@@ -1,13 +1,29 @@
-## 4. § Az Nkt. 19. § (2) bekezdés a) pontja szerinti pedagógiai értékelés ellátásának eszközei és módszerei
+4. § (1) Az Nkt. 19. § (2) bekezdés b) pontja szerinti szaktanácsadás, tantárgygondozás keretében a pedagógiai-szakmai szolgáltató által ellátandó feladatok:
 
-a) pedagógiai mérési rendszer működtetéséhez kapcsolódó pedagógiai-szakmai szolgáltatás, a neveléssel összefüggő mérési eszközök fejlesztése és alkalmazásuk segítése, ajánlása a köznevelési intézmények részére,
+a) az illetékességi körébe tartozó intézmények igényei alapján a szaktanácsadók, tantárgygondozók munkájának megtervezése, koordinálása, feladatok delegálása, a szaktanácsadói tevékenységek összesítése, nyilvántartása,
 
-b) feladatbankok és mérőeszközök fejlesztése, hozzáférhetőségük biztosítása,
+b) pedagógiai, szakmódszertani fejlesztő beavatkozások tervezése, szervezése, végrehajtásuk ellenőrzése,
 
-c) a nevelési-oktatási intézmények belső pedagógiai értékelési rendszerének kialakítását segítő tanácsadás feladatainak ellátása,
+c) az intézményekben alkalmazott pedagógiai módszerek és fejlesztő tevékenységek elemzésének, értékelésének segítése az adott köznevelési intézménytípusnak megfelelően,
 
-d) a helyi tantervek végrehajtásával kapcsolatos pedagógiai mérések ellátása, e területen tanácsadás nyújtása,
+d) új tantárgypedagógiai módszerek, eszközök, eljárások megismertetése, terjesztése,
 
-e) a pedagógiai mérések eredményeinek feldolgozását követő, az intézményfejlesztést támogató szakmai szolgáltatások,
+e) konzultációs fórumok, területi tanácskozások, műhelymunkák szervezése pedagógusok számára,
 
-f) pedagógiai és komplex intézményértékelési eszközök és módszerek megismertetése és terjesztése.
+f) a különböző tantárgyak, szakterületek köznevelési feladataihoz kapcsolódó tudományos információk gyűjtése, feldolgozása és közvetítése a nevelési-oktatási intézmény és a pedagógusok részére.
+
+(2) Az Nkt. 19. § (2) bekezdés b) pontja szerinti szaktanácsadás, tantárgygondozás keretében a szaktanácsadók, tantárgygondozók által ellátandó feladatok:
+
+a) a pedagógusok munkájának fejlesztő célú támogatása érdekében: nevelési tevékenységek, tanórák és más pedagógiai célú foglalkozások látogatása; a látogatott órák, foglalkozások értékelése; óra és foglalkozáslátogatást követően a tapasztalatok közös feldolgozása az érintett pedagógussal, munkaközösség vezetővel, intézményvezetővel; a látogatott pedagógusok, intézményvezetők számára személyre szabott fejlesztési és továbbképzési javaslatok megfogalmazása,
+
+b) igény alapján egyéni segítségnyújtás pedagógusoknak a szakterületükkel, munkakörükkel összefüggő szakmai, módszertani kérdésekben,
+
+c) közreműködés új tantárgypedagógiai módszerek, eszközök, eljárások megismertetésében, terjesztésében, szakmai tanácskozások, konzultációk, műhelymunkák tartásában,
+
+d) közreműködés a szakterületének megfelelő tudományos információk gyűjtésében, feldolgozásában, szakmai tájékoztató anyagok, kiadványok készítésében,
+
+e) igény alapján segítségnyújtás az intézmények belső önértékelési rendszerének kialakításához, megvalósításához,
+
+f) az országos pedagógiai szakmai ellenőrzésben (tanfelügyelet) részt vett pedagógus, intézményvezető, intézmény összegző értékelésének eredményétől függően a fejlesztési feladatok megvalósításának támogatása,
+
+g) közreműködés a pedagógiai-szakmai szolgáltatási területek feladatainak megvalósításában.

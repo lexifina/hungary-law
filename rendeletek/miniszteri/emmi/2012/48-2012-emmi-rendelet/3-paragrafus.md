@@ -1,15 +1,23 @@
-## 2. A pedagógiai-szakmai szolgáltatások
+## 2. [^17] A pedagógiai-szakmai szolgáltatások
 
-## 3. § Az Nkt. 19. § (2) bekezdés b) pontja szerinti szaktanácsadás, tantárgygondozás ellátásának eszközei és módszerei:
+## 3. § Az Nkt. 19. § (2) bekezdés a) pontja szerinti pedagógiai értékelés ellátásának feladatai:
 
-a) nevelési és tantárgypedagógiai módszerek, eszközök, eljárások megismertetése, terjesztése,
+a) pedagógiai mérési-értékelési rendszer működtetéséhez kapcsolódó pedagógiai-szakmai szolgáltatás biztosítása,
 
-b) nevelési-oktatási intézményi pedagógiai programok, helyi tantervek, házirendek, intézményi pedagógiai dokumentumok elemzése, azok intézményi elkészítésének és alkalmazásának segítése,
+b) országos pedagógiai mérések intézményi eredményei értelmezésének, hasznosításának segítése,
 
-c) az alkalmazott pedagógiai módszerek és pedagógiai fejlesztő tevékenység elemzésének, értékelésének segítése adott köznevelési intézmény, intézménytípus esetében,
+c) a helyi tantervek végrehajtásával kapcsolatos pedagógiai mérésekhez kapcsolódó tanácsadás nyújtása,
 
-d) nevelési eszközök, tankönyvek, taneszközök, nevelési-oktatási programok kiválasztásának segítése a nevelési-oktatási intézmény, vagy az intézményrendszer egésze vonatkozásában,
+d) a neveléssel összefüggő mérési eszközök alkalmazásának segítése, ajánlása a köznevelési intézmények részére,
 
-e) egyéni szakmai tanácsadás,
+e) hagyományos és digitális feladatbankok és mérőeszközök alkalmazásának segítése,
 
-f) a köznevelés rendszerszintű fejlesztéseinek támogatása, a miniszter által indított országos tantárgyi és műveltségterületi pedagógiai feladatok segítése.
+f) a nevelési-oktatási intézmények belső pedagógiai értékelési rendszerének kialakítását segítő tanácsadás feladatainak ellátása,
+
+g) a gyermekek, tanulók tevékenységeinek értékelése során alkalmazott diagnosztikus és fejlesztő értékelés alkalmazásának támogatása,
+
+h) a pedagógiai mérések eredményeinek feldolgozását követő, az intézményfejlesztést támogató szakmai szolgáltatás nyújtása,
+
+i) pedagógiai és komplex intézményértékelési módszerek és eszközök megismertetése és terjesztése.
+
+[^17]: A 2. alcím (3–9/C. §) a 37/2021. (VIII. 31.) EMMI rendelet 26. §-ával megállapított szöveg.
