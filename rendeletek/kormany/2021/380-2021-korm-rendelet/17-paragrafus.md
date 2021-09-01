@@ -1,3 +1,3 @@
-## 16. §[^11]
+## 16. § Az R4. a következő 23/A. §-sal egészül ki:
 
-[^11]: A 16. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „23/A. § Az akkreditált vizsgaközpont az általa szervezett szakmai vizsga és képesítő vizsga megnevezését, időpontját és helyszínét – a szakmai vizsga és a képesítő vizsga meghirdetésével egyidejűleg – honlapján és a szakképzési tájékoztatási és információs központ keretében működtetett honlapon közzéteszi.”

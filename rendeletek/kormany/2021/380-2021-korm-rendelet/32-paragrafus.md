@@ -1,3 +1,3 @@
-## 31. §[^26]
+## 31. § Az R4. 180. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^26]: A 31. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „(2a) A tanuló értékelése és minősítése keretében a tanuló magatartása és szorgalma nem osztályozható.”

@@ -1,3 +1,3 @@
-## 30. §[^25]
+## 30. § Az R4. 174. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^25]: A 30. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „(1) Az ösztöndíj, az egyszeri pályakezdési juttatás és a támogatás tanuló részére történő folyósításáról a Nemzeti Szakképzési és Felnőttképzési Hivatal a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap képzési alaprésze terhére a tanuló által a szakképző intézménnyel közölt és a szakképzés információs rendszerében rögzített fizetési számlára történő átutalásra szóló fizetési megbízással gondoskodik.”

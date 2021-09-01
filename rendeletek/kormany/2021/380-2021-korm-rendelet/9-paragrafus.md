@@ -1,3 +1,3 @@
-## 8. §[^3]
+## 8. §[^1]
 
-[^3]: A 8. § a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^1]: A 8. § a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.

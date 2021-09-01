@@ -1,3 +1,3 @@
-## 35. §[^30]
+## 35. § Az R4. 77. alcíme a következő 228/A. §-sal egészül ki:
 
-[^30]: A 35. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „228/A. § A szakképző intézményben szervezett szakirányú oktatásban a tanuló, illetve a képzésben részt vevő személy a tanítási évben teljesítendő képzésen és a tanítási éven kívüli egybefüggő gyakorlaton kívül – a gyakorlat igazolatlan mulasztásának pótlása kivételével – a szakirányú oktatásban való részvételre nem kötelezhető.”

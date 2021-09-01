@@ -1,3 +1,5 @@
-## 46. §[^41]
+## 46. § Az R4. 304. § 1. pontja helyébe a következő rendelkezés lép:
 
-[^41]: A 46. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## (A szakképzési államigazgatási szerv)
+
+## „1. ellátja a 340. §-ban meghatározott előirányzatok tekintetében a kezelő szerv jogszabályban meghatározott feladatait,”

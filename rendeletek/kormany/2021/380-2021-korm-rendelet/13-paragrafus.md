@@ -1,3 +1,7 @@
-## 12. §[^7]
+## „f) a közismereti oktatás elsajátítására irányuló vagy a tartós gyógykezelés miatt létesített vendégtanulói jogviszonyban való részvételt.”
 
-[^7]: A 12. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+13. § (1) Az R4. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A szakképző intézmény és a duális képzőhely nem szedhet térítési díjat és tandíjat a szakirányú oktatás szakképzési munkaszerződés keretében folyó része után.”
+
+(2) Az R4. 5. §-a a következő (1a) bekezdéssel egészül ki:

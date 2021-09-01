@@ -1,3 +1,3 @@
-## 39. §[^34]
+## 39. § Az R4. 87. alcíme a következő 254/A. §-sal egészül ki:
 
-[^34]: A 39. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „254/A. § A tanuló, illetve a képzésben részt vevő személy ágazati alapvizsgára az ágazati alapoktatásban való részvétele alapján bocsátható.”

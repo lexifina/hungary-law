@@ -1,3 +1,3 @@
-## 41. §[^36]
+## 41. § Az R4. 256. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^36]: A 41. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „(1) A tanuló magasabb évfolyamba nem léphet, a tanuló és a képzésben részt vevő személy a szakirányú oktatásban szakképzési munkaszerződéssel nem vehet részt, ha sikertelen ágazati alapvizsgát tett.”

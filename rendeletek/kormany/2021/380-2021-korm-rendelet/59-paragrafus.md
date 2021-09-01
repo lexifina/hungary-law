@@ -2,96 +2,72 @@
 
 ## 59. § Hatályát veszti az R4.
 
-1.[^165]
+1. 2. § (3) bekezdése,
 
-2.[^166]
+2. 3. §-a,
 
-3.[^167]
+3. 4. § (1) bekezdésében az „A szakképző intézmény nem szedhet térítési díjat és tandíjat a szakirányú oktatás szakképzési munkaszerződés keretében folyó része után.” szövegrész,
 
-4.[^168]
+4. 4. § (2) bekezdés a) pontjában az „és 3.” szövegrész,
 
-5.[^169]
+5. 4. § (2a) bekezdése,
 
-6.[^170]
+6. 12. § a) pontjában az „és ISCED-F 2013 kódot” szövegrész,
 
-7.[^171]
+7. 14. § (3) bekezdése,
 
-8.[^172]
+8. XIV. Fejezete,
 
-9.[^173]
+9. 95. § (1) bekezdés 3. pontja,
 
-10.[^174]
+10. 95. § (1) bekezdés 13. pontja,
 
-11.[^175]
+11. 95. § (1) bekezdés 16. pontja,
 
-12.[^176]
+12. 95. § (2) bekezdés 6. pontja,
 
-13.[^177]
+13. 142. § (6) bekezdése,
 
-14.[^178]
+14. 147. § (3) bekezdés a) pontjában az „és a továbbképzési program” szövegrész,
 
-15.[^179]
+15. 79. alcíme,
 
-16.[^180]
+16. 241. §-a,
 
-17.[^181]
+17. 247. § (1) bekezdésében az „– a kis- és a középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás kivételével –” szövegrész,
 
-18.[^182]
+18. 251. §-ában a „duális képzőhely feltölti a regisztrációs és tanulmányi rendszerbe a szakképzési munkaszerződést. A” szövegrész,
 
-19.[^183]
+19. 306. § (2) bekezdésében az „ , aki az általa ellátott szakmai feladat tekintetében kizárólag a szakképzésért felelős miniszter által utasítható” szövegrész,
 
-20.[^184]
+20.[^18]
 
-21.[^185]
+21.[^19]
 
-22.[^186]
+22.[^20]
 
-23.[^187]
+23.[^21]
 
-24.[^188]
+24.[^22]
 
-25.[^189]
+25. 336. § (5) bekezdésében a „beruházási vagy fejlesztési” szövegrész,
 
-26.[^190]
+26. 341. §-a,
 
-27.[^191]
+27. 356. § (2) bekezdése,
 
-28.[^192]
+28. 357. §-a,
 
-29.[^193]
+29.[^23]
 
-30.[^194]
+30. 360. § (1)–(3) bekezdése,
 
-31.[^195]
+31.[^24]
 
-[^165]: Az 59. § 1. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^166]: Az 59. § 2. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^167]: Az 59. § 3. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^168]: Az 59. § 4. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^169]: Az 59. § 5. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^170]: Az 59. § 6. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^171]: Az 59. § 7. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^172]: Az 59. § 8. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^173]: Az 59. § 9. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^174]: Az 59. § 10. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^175]: Az 59. § 11. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^176]: Az 59. § 12. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^177]: Az 59. § 13. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^178]: Az 59. § 14. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^179]: Az 59. § 15. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^180]: Az 59. § 16. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^181]: Az 59. § 17. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^182]: Az 59. § 18. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^183]: Az 59. § 19. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^184]: Az 59. § 20. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^185]: Az 59. § 21. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^186]: Az 59. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^187]: Az 59. § 23. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^188]: Az 59. § 24. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^189]: Az 59. § 25. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^190]: Az 59. § 26. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^191]: Az 59. § 27. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^192]: Az 59. § 28. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^193]: Az 59. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^194]: Az 59. § 30. pontja a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
-[^195]: Az 59. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 59. § 20. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^19]: Az 59. § 21. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^20]: Az 59. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 59. § 23. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^22]: Az 59. § 24. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^23]: Az 59. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: Az 59. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

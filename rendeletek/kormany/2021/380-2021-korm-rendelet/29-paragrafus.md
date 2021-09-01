@@ -1,3 +1,5 @@
-## 28. §[^23]
+## 28. § Az R4. 165. §-a a következő d) ponttal egészül ki:
 
-[^23]: A 28. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## (A tanuló kötelessége, hogy)
+
+## „d) a szakirányú oktatásban szakképzési munkaszerződéssel való részvétel esetén betartsa a duális képzőhelyen a munkavállalóra vonatkozó előírásokat és kötelezettségeket.”

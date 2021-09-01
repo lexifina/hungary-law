@@ -1,3 +1,3 @@
-## 15. §[^10]
+## 15. § Az R4. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 15. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „(1) A szakmai képzés képzési programját az Fktv. 12. §-a szerint kell elkészíteni.”

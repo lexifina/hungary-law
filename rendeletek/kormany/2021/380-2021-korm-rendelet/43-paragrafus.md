@@ -1,3 +1,5 @@
-## 42. §[^37]
+## 42. § Az R4. 269. § (3) bekezdése a következő i) ponttal egészül ki:
 
-[^37]: A 42. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## (A vizsgatörzslap belíve tartalmazza)
+
+## „i) a szakmai vizsga alapját képező képzési és kimeneti követelmények alkalmazásának kezdő dátumát.”

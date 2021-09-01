@@ -1,3 +1,1 @@
-## 13. §[^8]
-
-[^8]: A 13. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „(1a) A szakirányú oktatással összefüggésben történő ellenszolgáltatás tilalmának megszegéséről tudomást szerző személy a tudomásra jutástól számított tizenöt napon belül a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamarát tájékoztatja. A jogsértés megállapítása esetén a duális képzőhelyet a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara legfeljebb az Szkt. 103. § (1) bekezdésében meghatározott időre tilthatja el a szakirányú oktatásban való részvételtől.”

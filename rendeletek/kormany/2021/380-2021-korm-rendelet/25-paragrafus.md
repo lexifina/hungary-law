@@ -1,3 +1,3 @@
-## 24. §[^19]
+## 24. § Az R4. 67. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^19]: A 24. § a 60. § (2) bekezdése alapján 2021. szeptember 1-jén lép hatályba.
+## „(2) A szakképző intézmény tekintetében a fenntartói irányítási hatáskör átadása, megszüntetése és átszervezése esetén az oktatói testület, a diákönkormányzat és a képzési tanács, a nemzetiségi nevelés-oktatásban részt vevő szakképző intézmény tekintetében pedig – az oktatói testület, a diákönkormányzat és a képzési tanács mellett – az érintett települési nemzetiségi önkormányzat, ennek hiányában az érintett országos nemzetiségi önkormányzat véleményét ki kell kérni. A vélemény kialakításához az alapító minden olyan információt hozzáférhetővé tesz a véleményezési joggal rendelkezők részére, amely számára a döntés meghozatalához rendelkezésére áll. A vélemény kialakításához – az információk hozzáférhetővé tételének napjától számítva – legalább tizenöt napot kell biztosítani a véleményezési joggal rendelkezők részére.”
