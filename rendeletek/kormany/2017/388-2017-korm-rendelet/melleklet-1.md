@@ -3,4 +3,4 @@
 1. melléklet a 388/2017. (XII. 13.) Korm. rendelethez[^6]
 
 [^5]: A 6. §-t a 360/2019. (XII. 30.) Korm. rendelet 178. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^6]: Az 1. melléklet az 515/2020. (XI. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. melléklet az 515/2020. (XI. 24.) Korm. rendelet 2. § (2) bekezdésével megállapított, az 503/2021. (VIII. 18.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
