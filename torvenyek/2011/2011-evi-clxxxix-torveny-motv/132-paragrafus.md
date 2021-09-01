@@ -22,9 +22,9 @@ h) pert indíthat a sorozatos törvénysértést elkövető polgármester tiszts
 
 i) fegyelmi eljárást kezdeményezhet a helyi önkormányzat polgármestere ellen és a polgármesternél a jegyző ellen;
 
-j) kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását az Állami Számvevőszéknél;
+j) kezdeményezheti az államháztartásról szóló 2011. évi CXCV. törvény 68/B. §-a szerinti kincstári ellenőrzést;
 
-k)
+k) a j) pont szerinti kincstári ellenőrzés eredményétől függően kezdeményezheti a helyi önkormányzat gazdálkodását érintő vizsgálat lefolytatását az Állami Számvevőszéknél;
 
 l) törvényességi felügyeleti bírságot szabhat ki a helyi önkormányzatra vagy a társulásra az e törvényben meghatározott esetekben.
 
