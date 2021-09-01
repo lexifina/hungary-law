@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-56-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2021-09-01 | 2021. évi LVI. törvény | 2021-56-00-00.0 (közlönyállapot) |
+| 2021-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-56-00-00.1 |
