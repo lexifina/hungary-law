@@ -1,4 +1,4 @@
-## 12. §
+## 12. § A pályázat eredménytelen, ha arra egyetlen érvényes pályázat sem érkezik. Eredménytelen pályázat esetében a honvédelemért felelős miniszter újabb pályázat kiírásáról dönthet.
 
 ## 3. Záró rendelkezések
 

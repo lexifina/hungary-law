@@ -1,1 +1,1 @@
-## 11. §
+## 11. § A pályázókat tanulmányi eredményük alapján sorrendbe állítva kell elbírálni. Ha a pályázatra a 8. § (2) bekezdésében megjelölt ösztöndíjban részesíthetők számánál több pályázat érkezik, az elbírálásnál előnyben kell részesíteni a halmozottan hátrányos helyzetű pályázókat.
