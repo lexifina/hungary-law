@@ -2,6 +2,6 @@
 
 (2) Az ingatlanok tekintetében az Alapítvány nyilvántartásba vételének hatályával a miniszter gyakorolja az államot megillető tulajdonosi jogokat és teljesíti a kötelezettségeket.
 
-(3) Az 1. melléklet szerinti ingatlanok Alapítvány által történő elidegenítése esetén az államot elővásárlási jog nem illeti meg.
+(3)
 
-(4) A (3) bekezdés szerinti elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítést követően fennmaradó részét az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatának ellátására, valamint közérdekű céljainak megvalósítására köteles fordítani.
+(4) Az (1) bekezdés szerinti ingatlanok elidegenítéséből származó bevételnek az elidegenítés költségeinek kiegyenlítést követően fennmaradó részét az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatának ellátására, valamint közérdekű céljainak megvalósítására köteles fordítani.
