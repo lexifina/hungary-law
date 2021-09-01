@@ -1,3 +1,5 @@
-## 6/A. § Az érintésvédelmi szabványossági felülvizsgáló, az erősáramú berendezések felülvizsgálója és a villámvédelmi berendezések felülvizsgálója mint műszaki biztonsági szempontból jelentős munkakörök betöltéséhez szükséges kötelező továbbképzések képzési programjára vonatkozó alapkövetelményeket a 3. melléklet tartalmazza.
+## 6/A. §[^6] A műszaki biztonsági szempontból jelentős munkakörök betöltésére képesítő, valamint a kapcsolódó továbbképzések képzési programjára vonatkozó alapkövetelményeket a 3. melléklet tartalmazza.
 
 ## 6. Záró rendelkezések
+
+[^6]: A 6/A. § a 34/2021. (VII. 26.) ITM rendelet 9. § (1) bekezdésével megállapított szöveg.

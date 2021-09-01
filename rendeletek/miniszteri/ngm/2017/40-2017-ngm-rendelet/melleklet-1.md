@@ -1,6 +1,6 @@
-## 10–11. §[^6]
+## 10–11. §[^7]
 
-1. melléklet a 40/2017. (XII. 4. ) NGM rendelethez[^7]
+1. melléklet a 40/2017. (XII. 4. ) NGM rendelethez[^8]
 
 ## Villamos Műszaki Biztonsági Szabályzat
 
@@ -320,5 +320,5 @@ c) szigetelésvizsgálatok (szigetelésiellenállás-mérés, villamosszilárds�
 
 d) működési próbák.
 
-[^6]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet a 27/2020. (VII. 16.) ITM rendelet 27. §-ával megállapított szöveg.
+[^7]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 27/2020. (VII. 16.) ITM rendelet 27. §-ával megállapított szöveg.
