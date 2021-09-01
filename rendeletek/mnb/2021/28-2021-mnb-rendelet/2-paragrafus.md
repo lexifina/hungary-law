@@ -1,0 +1,5 @@
+2. § (1) Az érme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 7,70 gramm, átmérője 27,4 mm, peremvastagsága 1,8 mm, széle sima.
+
+(2) Az érme előlapjának szélén található gyöngysorszegélyen belül, balra fent, körvonallal határolt félköriratban a „MAGYARORSZÁG” felirat, lent – egy-egy díszítő pont között – a „2021” verési évszám olvasható. A középmezőben a NEK logója részletének ábrázolása látható. A logó részletének ábrázolásától jobbra, egymás alatti két sorban a NEK eredetileg tervezett megrendezési évére és a NEK helyszínére utaló „2020” évszám és „BUDAPEST” felirat, a logó részletének ábrázolása alatti három sorban a „NEMZETKÖZI”, az „EUCHARISZTIKUS” és a „KONGRESSZUS” felirat olvasható. Az érme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az érme hátlapjának szélén található gyöngysorszegélyen belül, a középmezőben – kissé egymásra csúsztatott számjegyekből álló – „50” értékjelzés, az értékjelzés bal és jobb oldalán, alul díszítővonal látható. Az értékjelzés alatti két vízszintes sorban a „FORINT” felirat és a „BP.” verdejel olvasható. Az érme hátlapjának képét a 2. melléklet tartalmazza.
