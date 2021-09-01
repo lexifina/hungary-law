@@ -1,4 +1,4 @@
-## 23. [^42] A távolról is nyújtható szolgáltatásokat nyújtó, valamint távértékesítést teljesítő adózókra vonatkozó különös szabályok
+## 23. [^43] A távolról is nyújtható szolgáltatásokat nyújtó, valamint távértékesítést teljesítő adózókra vonatkozó különös szabályok
 
 54. § (1) E fejezet rendelkezéseit
 
@@ -10,4 +10,4 @@ c) az általános forgalmi adóról szóló törvény szerinti, harmadik államb
 
 (2) E rendeletnek a bevallási és adatszolgáltatási kötelezettség teljesítésére vonatkozó rendelkezéseit kell alkalmazni az Európai Unió más tagállamában és az általános forgalmi adóról szóló törvény szerint elismert harmadik államban letelepedett adóalanynak belföldön, az Art. 193. §-a szerinti elektronikus kapcsolattartás útján érvényesített általános forgalmiadó-visszatéríttetési kérelmével, kiigazítási nyilatkozatával kapcsolatos elsőfokú eljárásban.
 
-[^42]: A 23. alcím (54–56. §) a 670/2020. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^43]: A 23. alcím (54–56. §) a 670/2020. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -10,6 +10,6 @@
 
 (6) A jogkövetési vizsgálat során feltárt adatokat az adóhatóság jogosult az adózóval közvetlen vagy közvetett szerződéses kapcsolatban állt vagy álló más adózó, illetve adózónak nem minősülő természetes személy ellenőrzésénél a tényállás tisztázása céljából felhasználni.
 
-(7)[^66]
+(7)[^68]
 
-[^66]: A 91. § (7) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § i) pontja hatályon kívül helyezte.
+[^68]: A 91. § (7) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § i) pontja hatályon kívül helyezte.

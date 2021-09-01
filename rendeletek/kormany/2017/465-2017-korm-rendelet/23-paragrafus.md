@@ -14,7 +14,7 @@ veheti igénybe.
 
 (4) Az olyan igazolást, amelynek alapján az adózó a bevételét, az adóalapját vagy az adóját csökkentheti, a kedvezményre való jogosultság keletkezésének időpontjában, de legkésőbb az adóévet követő év február hónap 15. napjáig kell kiadni.
 
-(5) Ha a természetes személy munkaviszonya év közben megszűnik, a munkáltató az adóévben általa kifizetett jövedelemről és a levont adóelőlegekről szóló bizonylatot (igazolást, adatlapot) a munkaviszony megszűnésének időpontjában köteles a természetes személy részére kiadni. Az igazolásnak tartalmaznia kell az adóéven belüli előző munkáltató, munkáltatók által közölt adatokat is.
+(5)[^26] Ha a természetes személy munkaviszonya év közben megszűnik, a munkáltató az adóévben általa kifizetett jövedelemről és a levont adóelőlegekről szóló bizonylatot (igazolást, adatlapot) a munkaviszony megszűnésének időpontjától – a munkaviszony felmondással történő megszüntetése esetén legkésőbb az utolsó munkában töltött naptól – számított legkésőbb ötödik munkanapon adja ki a természetes személy részére. A bizonylatnak tartalmaznia kell az adóéven belüli előző munkáltató, munkáltatók által közölt adatokat is.
 
 (6) Az igazolást az (5) bekezdés szerint kell kiadni a természetes személy nyugdíjazása vagy halála esetén is. A természetes személy halála esetén az igazolást a vele közös háztartásban élt hozzátartozója, ennek hiányában örököse részére kell kiadni.
 
@@ -25,3 +25,4 @@ veheti igénybe.
 (9) A kifizető olyan bizonylatot (igazolást) állít ki az osztalékban részesülő személy részére, amely tartalmazza a kifizető és a bevételt, jövedelmet szerző nevét (elnevezését), adóazonosító számát, székhelyét (telephelyét), lakóhelyét, a kifizetés jogcímét, az osztalék kifizetésének évét, a bizonylat (igazolás) kiállításának időpontját, az adó alapját és a megállapított adó összegét. Osztalékelőleg fizetése esetén, illetve ha az osztalékadót a kifizető nem vonta le, adó-visszatérítésre jogosító igazolás nem állítható ki.
 
 [^25]: A 23. § (1) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^26]: A 23. § (5) bekezdése az 506/2021. (VIII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.

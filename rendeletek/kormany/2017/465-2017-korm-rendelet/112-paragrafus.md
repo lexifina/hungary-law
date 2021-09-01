@@ -6,8 +6,8 @@
 
 (4) Az (1)–(2) bekezdésnek megfelelően kell eljárni a döntés módosítása, illetve érvényességének meghosszabbítása iránti eljárásban is.
 
-(5)[^75] Az állami adó- és vámhatóság a döntés egy példányát – ideértve az azt meghosszabbító és módosító határozatot is – a véglegessé válástól számított harminc napon belül megküldi az adópolitikáért felelős miniszternek.
+(5)[^77] Az állami adó- és vámhatóság a döntés egy példányát – ideértve az azt meghosszabbító és módosító határozatot is – a véglegessé válástól számított harminc napon belül megküldi az adópolitikáért felelős miniszternek.
 
 (6) Az állami adó- és vámhatóság az (5) bekezdés szerinti tájékoztatással egyidejűleg tájékoztatást küld a határozatot érintő, az Aktv. 19/B. §-a és 43/T. §-a szerinti információcsere keretében közlésre kerülő információkról az Aktv. említett rendelkezéseinek hatálya alá tartozó ügyekben az adópolitikáért felelős miniszter részére.
 
-[^75]: A 112. § (5) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 36. § 16. pontja szerint módosított szöveg.
+[^77]: A 112. § (5) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 36. § 16. pontja szerint módosított szöveg.

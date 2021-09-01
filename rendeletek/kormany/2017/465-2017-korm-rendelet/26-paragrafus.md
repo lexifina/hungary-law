@@ -1,6 +1,6 @@
 ## 12. A hirdetményi közlés
 
-26. § (1)[^33]
+26. § (1)[^34]
 
 (2) A hirdetmény tartalmazza
 
@@ -16,4 +16,4 @@ e) azt a figyelemfelhívást, hogy az adóhatóság az ügyben döntést hozott,
 
 (3) A hirdetményt az adóhatóság hirdetőtábláján, valamint a honlapján helyezi el.
 
-[^33]: A 26. § (1) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § f) pontja hatályon kívül helyezte.
+[^34]: A 26. § (1) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § f) pontja hatályon kívül helyezte.
