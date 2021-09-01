@@ -1,3 +1,3 @@
-41. §[^165]
+41. §[^169]
 
-[^165]: A 41. §-t a 12/2018. (III. 27.) EMMI rendelet 5. § b) pontja hatályon kívül helyezte.
+[^169]: A 41. §-t a 12/2018. (III. 27.) EMMI rendelet 5. § b) pontja hatályon kívül helyezte.

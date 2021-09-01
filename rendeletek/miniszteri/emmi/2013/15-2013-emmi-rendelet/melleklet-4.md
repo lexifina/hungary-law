@@ -4,9 +4,9 @@
 
 | Adatgyűjtés, célirányos anamnézis | A szülő kikérdezése Az alap- és célzott szűrővizsgálatok eredményeinek értékelése A pedagógiai jellemzés elemzése Vizuális információ a szociális viselkedésről |
 
-| Korai tünetek, illetve a Wing-i triász és a diagnosztikus algoritmusokba (BNO–10, DSM-IV) foglalt tünetek feltárása: a szülő célirányos kikérdezése a gyermek fejlődéséről, különös tekintettel a 4–5 éves kor közötti életszakaszra, a gyermek szociális és kommunikációs készségeire, viselkedésére | Szülői kikérdezés |
+| Korai tünetek, illetve a Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek feltárása: a szülő célirányos kikérdezése a gyermek fejlődéséről, különös tekintettel a 4–5 éves kor közötti életszakaszra, a gyermek szociális és kommunikációs készségeire, viselkedésére | Szülői kikérdezés |
 
-| Wing-i triász és a diagnosztikus algoritmusokba (BNO–10, DSM-IV) foglalt tünetek vizsgálata: a naiv tudatelmélet, illetve a végrehajtó funkciók zavarán alapuló sérült szociális és kommunikációs készségek, sajátos gondolkodási stílus és viselkedés vizsgálata, megfigyelése | Fejlődési skála Standardizált teszt Ennek hiányában: Tervezett tevékenykedtetés a viselkedés célirányos megfigyelésére |
+| Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek vizsgálata: a naiv tudatelmélet, illetve a végrehajtó funkciók zavarán alapuló sérült szociális és kommunikációs készségek, sajátos gondolkodási stílus és viselkedés vizsgálata, megfigyelése | Fejlődési skála Standardizált teszt Ennek hiányában: Tervezett tevékenykedtetés a viselkedés célirányos megfigyelésére |
 
 | Általános értelmi képességek | Standardizált teszt |
 

@@ -22,9 +22,11 @@ b)[^4] egyetemi szintű, mesterfokozatú gyógypedagógus szakképzettség:
 
 ba)[^5] a speciális pedagógiai szakos tanár és szakpedagógus szakképzettség, valamint az a) pontban foglalt szakképzettség együttes megléte,
 
-bb) az okleveles gyógypedagógus és
+bb)[^6] az okleveles gyógypedagógus,
 
-bc) a gyógypedagógia-tanár
+bc)[^7] a gyógypedagógia-tanár és
+
+bd)[^8] az okleveles logopédus
 
 szakképzettség,
 
@@ -50,9 +52,9 @@ f) a gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia [a
 
 szakvizsga,
 
-8.[^6] konduktor szakképzettség:
+8.[^9] konduktor szakképzettség:
 
-a)[^7] főiskolai szintű, alapfokozatú konduktor szakképzettség:
+a)[^10] főiskolai szintű, alapfokozatú konduktor szakképzettség:
 
 aa) a konduktor,
 
@@ -66,7 +68,7 @@ ae) a konduktor (tanító)
 
 szakképzettség,
 
-b)[^8] egyetemi szintű, mesterfokozatú konduktor szakképzettség:
+b)[^11] egyetemi szintű, mesterfokozatú konduktor szakképzettség:
 
 ba) a speciális pedagógiai szakos tanár és szakpedagógus szakképzettség és konduktor, konduktor-óvodapedagógus vagy konduktor-tanító szakképzettség együttes megléte és
 
@@ -74,7 +76,7 @@ bb) az okleveles konduktortanár szakképzettség.
 
 9. megyei, fővárosi tagintézmény: olyan feladatellátási hely, amely a megyében, a fővárosban egyes pedagógiai szakszolgálati feladatokat több járásra kiterjedő működési körzettel lát el,
 
-10.[^9]
+10.[^12]
 
 11. óvoda- és iskola szakvizsga:
 
@@ -84,13 +86,13 @@ b) óvoda- és iskola-szakpszichológia
 
 szakvizsga,
 
-12.[^10] szakosított tagintézmény: olyan tagintézmény, amely a székhelyintézmény vagy más tagintézmény egyes feladatait látja el,
+12.[^13] szakosított tagintézmény: olyan tagintézmény, amely a székhelyintézmény vagy más tagintézmény egyes feladatait látja el,
 
 13. székhelyintézmény: az Intézmény szakmai irányítást és koordinálást végző, valamint megyei, fővárosi működési körzettel szakértői bizottsági feladatokat is ellátó feladatellátási helye, ahol az Intézmény képviseleti jogának gyakorlására jogosult vezető munkahelye található,
 
 14. tagintézmény: az Nkt. 4. § 28. pontja szerinti intézményegység,
 
-15.[^11] neuropszichológiai szakvizsga:
+15.[^14] neuropszichológiai szakvizsga:
 
 a) neuropszichológia,
 
@@ -103,9 +105,12 @@ szakvizsga.
 [^3]: Az 1. § 3. pont a) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^4]: Az 1. § 3. pont b) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^5]: Az 1. § 3. pont b) pont ba) alpontja a 14/2020. (IV. 16.) EMMI rendelet 12. § (2) bekezdése szerint módosított szöveg.
-[^6]: Az 1. § 8. pont nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^7]: Az 1. § 8. pont a) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^8]: Az 1. § 8. pont b) alpontja a 14/2020. (IV. 16.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^9]: Az 1. § 10. pontját a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^10]: Az 1. § 12. pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^11]: Az 1. § 15. pontját a 24/2017. (X. 3.) EMMI rendelet 24. §-a iktatta be.
+[^6]: Az 1. § 3. pont b) pont bb) alpontja a 37/2021. (VIII. 31.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^7]: Az 1. § 3. pont b) pont bc) alpontja a 37/2021. (VIII. 31.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^8]: Az 1. § 3. pont b) pont bd) alpontját a 37/2021. (VIII. 31.) EMMI rendelet 30. §-a iktatta be.
+[^9]: Az 1. § 8. pont nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: Az 1. § 8. pont a) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^11]: Az 1. § 8. pont b) alpontja a 14/2020. (IV. 16.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^12]: Az 1. § 10. pontját a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^13]: Az 1. § 12. pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^14]: Az 1. § 15. pontját a 24/2017. (X. 3.) EMMI rendelet 24. §-a iktatta be.

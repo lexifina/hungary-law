@@ -1,6 +1,6 @@
 ## 38. § Az Intézménynek az alapító okiratában meghatározott pedagógiai szakszolgálati feladatok ellátásához legalább a 9. mellékletben meghatározott eszközökkel és felszerelésekkel [a továbbiakban: kötelező (minimális) eszközök és felszerelések] rendelkeznie kell. A kötelező (minimális) eszközöket és felszereléseket telephelyenként, az alapító okiratban meghatározott és a telephelyen ténylegesen ellátott feladatokra kell biztosítani.
 
-## 15. [^162] A Gyakorló Szakszolgálatra vonatkozó eltérő szabályok
+## 15. [^166] A Gyakorló Szakszolgálatra vonatkozó eltérő szabályok
 
 39. § (1) A Gyakorló Szakszolgálat a (2)–(13) bekezdésében meghatározott esetekben szakértői bizottságként, egyéb, jogszabályban meghatározott esetekben szakértőként jár el.
 
@@ -48,4 +48,4 @@ e) a kérelmező tájékoztatását a jogorvoslat lehetőségéről.
 
 (13) A 7–23. § a szakértői bizottságként eljáró Gyakorló Szakszolgálat esetében nem alkalmazható.
 
-[^162]: A 15. alcímet (39. §) a 20/2019. (VIII. 30.) EMMI rendelet 40. § d) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet – 14/2020. (IV. 16.) EMMI rendelet 14. § -a szerint módosított – 37. §-a iktatta be.
+[^166]: A 15. alcímet (39. §) a 20/2019. (VIII. 30.) EMMI rendelet 40. § d) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet – 14/2020. (IV. 16.) EMMI rendelet 14. § -a szerint módosított – 37. §-a iktatta be.

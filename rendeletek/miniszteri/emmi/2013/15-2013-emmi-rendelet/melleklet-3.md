@@ -1,4 +1,4 @@
-3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^190]
+3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^194]
 
 A szakértői vélemény elkészítésének szakmai követelményei
 
@@ -100,7 +100,7 @@ A fogyatékosság típusának megfelelő szakorvosi vagy gyermek- és ifjúsági
 
 – az „alap” (a gyermek általános egészségi státuszával kapcsolatos) vizsgálatok, illetve az „alap” neurológiai-pszichiátriai státusz leírásához szükséges vizsgálatok elvégzése,
 
-– diagnózis felállítása, az orvosi státusz, vélemény leírása (a BNO, FNO, DSM-IV. figyelembevétele),
+– diagnózis felállítása, az orvosi státusz, vélemény leírása (a BNO, FNO, DSM. figyelembevétele),
 
 – további vizsgálatot, szakorvosi vizsgálatot javasol/kér,
 
@@ -254,7 +254,7 @@ A vizsgálati véleményben foglaltakkal kapcsolatban a szülő véleménye (elf
 
 Tájékoztatás a szülő, gondviselő számára a jogorvoslat lehetőségéről.
 
-6. A komplex diagnosztikus tevékenység feladatai
+6. A komplex diagnosztikus tevékenység feladatai a DSM, BNO és FNO tartalmainak alapvető figyelembevételével
 
 6.1. Értelmi fogyatékosság (átfogó intellektuális képességzavar) megállapítása
 
@@ -352,7 +352,7 @@ A vizsgálat tartalma
 
 | Az érzelmi élet, a pszichológiai tényezők vizsgálata | Pszichológiai vizsgálóeljárások: projektív és más pszichológiai tesztek, interjú, megfigyelés |
 
-6.2. Vizsgálati szempontok halmozottan sérült gyermekeknél, illetve a vizsgálat kivitelezését jelentősen nehezítő mozgáskorlátozottság, kommunikációs akadályozottság esetén
+6.2. Vizsgálati szempontok a mozgásszervi, látási, hallási és halmozott fogyatékosság, illetve a vizsgálat kivitelezését jelentősen nehezítő kommunikációs akadályozottság esetén
 
 Diagnosztikus kritériumok:
 
@@ -384,7 +384,7 @@ A rendelkezésre álló eszközök többsége fejlődésdiagnosztikai, folyamatd
 
 | Mentális és pszichomotoros fejlettség | fejlődési skálák, kérdőívek, felmérő lapok |
 
-6.3. Az autizmus spektrum zavar megállapítása
+6.3. Az autizmus spektrum zavar és az egyéb pszichés fejlődési zavar megállapítása
 
 A szakértői vélemény kialakítása a szakértői bizottságok által elvégezett vizsgálatok és az autizmus spektrum zavart diagnosztizáló egyéb központok által elvégzett vizsgálati eredmények felhasználása, beépítése alapján történik.
 
@@ -394,4 +394,4 @@ A vizsgálatok céljai:
 
 – kognitív képességek és készségek, adaptív készségek, viselkedésproblémák szintjének felmérése
 
-[^190]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja szerint módosított szöveg.
+[^194]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja, a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés c) pontja szerint módosított szöveg.
