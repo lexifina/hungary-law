@@ -4,6 +4,6 @@
 
 (3) A Hatóság a bejegyzést akkor módosítja, ha a felelős akkreditált közbeszerzési szaktanácsadó igazolja, hogy az e rendelet szerinti felelősségbiztosítással rendelkezik.
 
-(4)[^3] Ha felelős akkreditált közbeszerzési szaktanácsadóval szemben a 2. § (2) bekezdés h) pontjában említett eset a névjegyzékbe vételt követően következik be, ennek tényét köteles a Hatóság részére haladéktalanul bejelenteni.
+(4)[^5] Ha felelős akkreditált közbeszerzési szaktanácsadóval szemben a 2. § (2) bekezdés h) pontjában említett eset a névjegyzékbe vételt követően következik be, ennek tényét köteles a Hatóság részére haladéktalanul bejelenteni.
 
-[^3]: A 3. § (4) bekezdését a 40/2021. (II. 2.) Korm. rendelet 19. §-a iktatta be.
+[^5]: A 3. § (4) bekezdését a 40/2021. (II. 2.) Korm. rendelet 19. §-a iktatta be.

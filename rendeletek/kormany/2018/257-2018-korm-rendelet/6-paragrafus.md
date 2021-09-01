@@ -8,10 +8,12 @@
 
 (3) A kérelem benyújtását megelőzően korábban – a névjegyzékbe vétel vagy annak megújítása körében – felhasznált továbbképzési tanulmányi pontok nem vehetők figyelembe.
 
-(4) A Kbt. 195. § (6) bekezdésében meghatározott nyilvántartás alapján a közbeszerzésekért felelős miniszter a Hatóság megkeresésére öt napon belül információátadás útján közli a kérelmező által megszerzett továbbképzési tanulmányi pontok számát.
+(4)[^6]
 
 (5) A névjegyzékbe vételkor és a névjegyzékbe történő bejegyzés megújításakor egyszeri alkalommal 15 továbbképzési tanulmányi pont értékben számítható be a névjegyzékbe vételi vagy a névjegyzékbe történő bejegyzés megújítása iránti kérelem benyújtását megelőző hat éven belül megszerzett közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon szerzett végzettség.
 
 (6) Közbeszerzési tárgyú felsőfokú szakirányú továbbképzési szakon már megkezdett, de még be nem fejezett tanulmányok esetén a már lezárt félévvel teljesített, a nemzeti felsőoktatásról szóló törvény szerinti kreditek a névjegyzékbe vételkor és a névjegyzékbe történő bejegyzés megújításakor arányosan beszámítandóak.
 
 (7) Ha adott időszakban nem kerül meghirdetésre kellő számú, létszámú és tanulmányi pontszámú képzés, a közbeszerzésekért felelős miniszter közleményt tesz közzé arról, hogy a kérelmezők meghatározott időszakban beadott névjegyzékbe vételi (megújítási) kérelem esetében átmenetileg mentesülnek az (1) bekezdés szerinti kötelező közbeszerzési szakmai képzésre vonatkozó igazolási kötelezettség alól.
+
+[^6]: A 6. § (4) bekezdését az 503/2021. (VIII. 18.) Korm. rendelet 19. §-a hatályon kívül helyezte.
