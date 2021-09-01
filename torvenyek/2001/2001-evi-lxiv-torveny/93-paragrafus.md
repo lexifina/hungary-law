@@ -70,7 +70,19 @@ g) a kiemelt nemzeti emlékhely részét képező közterülettel szomszédos in
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
-a)–g)
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)
+
+g)
 
 h)
 
@@ -86,7 +98,9 @@ m)
 
 n) egyes nyilvántartott műemléki értékek műemlékké nyilvánítását és a műemléki védettség megszüntetését;
 
-o)–p)
+o)
+
+p)
 
 q) a kulturális javak nyilvántartásával összefüggésben – az adópolitikáért felelős miniszterrel egyetértésben – az igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
 
@@ -112,7 +126,9 @@ c)
 
 d) a könyvtárakban levő muzeális dokumentumok kezelésével és nyilvántartásával kapcsolatos külön szabályokat,
 
-e)–f)
+e)
+
+f)
 
 g) a miniszterrel egyetértésben az elsődleges leletfeldolgozásra, a leletanyag végleges befogadására vonatkozó szabályokat,
 

@@ -12,7 +12,7 @@ a) muzeális intézmény esetében az alapleltárban nyilvántartott kulturális
 
 b) könyvtár esetében az állomány-nyilvántartásban rögzített muzeális dokumentumot,
 
-c) levéltár esetében a levéltári anyagról vezetett törzskönyvben nyilvántartott állományt,
+c) levéltár esetében a levéltári anyagról vezetett törzskönyvben nyilvántartott állományt, továbbá az Ltv. 7/C. § (1) bekezdése szerinti nyilvántartásban szereplő köziratot,
 
 d) a közgyűjteményként működő kép- és hangarchívum esetében a közgyűjtemény nyilvántartásában rögzített kulturális javakat
 

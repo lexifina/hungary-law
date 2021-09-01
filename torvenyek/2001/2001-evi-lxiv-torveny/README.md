@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2001-64-00-00.57 |
 | 2021-06-29 | 2021. évi C. törvény | 2001-64-00-00.58 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2001-64-00-00.59 |
+| 2021-09-01 | 2017. évi L. törvény | 2001-64-00-00.60 |
