@@ -1,1 +1,13 @@
-15. §
+15. § A szakképzésről szóló 2019. évi LXXX. törvény III. Fejezete a következő 2/A. alcímmel egészül ki:
+
+„2/A. A szakképző intézmény gazdálkodása
+
+21/A. § [A szakképző intézmény költségvetése]
+
+A szakképző intézmény a fenntartójától elkülönült, önálló költségvetés alapján gazdálkodik. A szakképzési centrum részeként működő szakképző intézmény költségvetését a szakképzési centrum költségvetése tartalmazza. A szakképző intézmény költségvetését az általa ellátott szakképzési alapfeladat kiadási szükségletének átlagos költségeihez igazodóan a szakképző intézmény által elvárhatóan biztosítani szükséges közszolgáltatási szintnek megfelelően kell megtervezni.
+
+21/B. § [A szakképző intézmény vagyonnal való gazdálkodása]
+
+(1) Vagyonkezelési szerződés a szakképzésialapfeladat-ellátást és a szakképző intézmény által szervezett szakmai képzést szolgáló állami tulajdon vonatkozásában kizárólag önálló költségvetési szervként működő állami szakképző intézménnyel és szakképzési centrummal köthető. A szakképzési centrum – a szakképzésért felelős miniszter engedélyével – ágazati képzőközpontban, illetve tudásközpontban részesedést szerezhet, amely tekintetében a szakképzési centrum gyakorolja az államot megillető tulajdonosi jogokat.
+
+(2) Az állami szakképző intézmény szakképzési alapfeladatának ellátását szolgáló, a helyi önkormányzat tulajdonában álló ingatlanra és ingóra vonatkozóan az állami szakképző intézményt, a szakképzési centrum részeként működő szakképző intézmény esetén a szakképzési centrumot ingyenes vagyonkezelői jog illeti meg mindaddig, amíg a szakképzési alapfeladat ellátása az érintett ingatlanban meg nem szűnik. A helyi önkormányzat a vagyonkezelői jog fennállása alatt a szakképzésialapfeladat-ellátást szolgáló ingatlant és ingót nem idegenítheti el, nem terhelheti meg, biztosítékul nem adhatja, azon osztott tulajdont nem létesíthet és bérbe nem adhatja. A felek megállapodásának eltérő rendelkezése hiányában nem keletkezik állami tulajdon az e § szerinti ingatlanon vagy ingón végzett értéknövelő beruházással.”
