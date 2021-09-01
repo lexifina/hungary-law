@@ -10,7 +10,7 @@ c) irat: valamely szerv működése vagy személy tevékenysége során keletkez
 
 d) közirat: a keletkezés idejétől és az őrzés helyétől függetlenül minden olyan irat, amely a közfeladatot ellátó szerv irattári anyagába tartozik vagy tartozott;
 
-e) magánirat: a nem közfeladatot ellátó szerv irattári anyagába tartozó, valamint a természetes személyek tulajdonában lévő irat;
+e) magánirat: a köziratnak nem minősülő irat;
 
 f) irattári anyag: rendeltetésszerűen a szervnél maradó, tartalmuk miatt átmeneti vagy végleges megőrzést igénylő, szervesen összetartozó iratok összessége;
 
