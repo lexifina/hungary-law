@@ -1,4 +1,4 @@
-## III/A. Fejezet[^105]
+## III/A. Fejezet[^107]
 
 ## ELEKTRONIKUS BÉRLETI LICIT RENDSZER
 
@@ -14,4 +14,4 @@
 
 (5) Ha az elektronikus bérleti licit eljárásban a legmagasabb bérleti díjat felajánló licitáló az elektronikus bérleti licit hirdetményben előírt határidő alatt a szerződést neki felróható okból nem köti meg, vagy – ha az kikötésre került – a bérleti szerződésből eredő kötelezettségek biztosítására kikötött biztosíték teljes összegét nem adja át, úgy kell tekinteni, hogy a jogügylettől visszalépett; ilyen esetben a legmagasabb bérleti díjat felajánló licitáló – ha bérleti licit biztosíték előírásra került – a befizetett bérleti licit biztosítékot elveszti, és felel a szerződéskötés meghiúsulásából vagy a már megkötött bérleti szerződés nemteljesítéséből fakadóan az MNV Zrt.-t ért károkért, továbbá viselni köteles az MNV Zrt. ebből fakadó költségeit.
 
-[^105]: A III/A. fejezetet (12/B–12/N. §) az 592/2020. (XII. 17.) Korm. rendelet 4. §-a iktatta be.
+[^107]: A III/A. fejezetet (12/B–12/N. §) az 592/2020. (XII. 17.) Korm. rendelet 4. §-a iktatta be.
