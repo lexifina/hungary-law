@@ -16,7 +16,7 @@ f)[^5] a településrendezésért felelős miniszter és az építésügyért fe
 
 g)[^6] a településrendezésért felelős miniszter és az építésügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén, a külön jogszabályban meghatározott, a területi építész kamarák hatáskörébe tartozó településtervezési, településrendezési szakértői, építészeti-műszaki tervezési, építésügyi műszaki szakértői, építési műszaki ellenőri, felelős műszaki vezetői tevékenység, energetikai tanúsítói tevékenységeknél első fokon a Budapesti Építész Kamarát, másodfokon a Magyar Építész Kamarát,
 
-h)[^7] az iparügyért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében az építésügy területén a felvonó- és mozgólépcső karbantartó-szerelői, valamint felvonó- és mozgólépcső ellenőri tevékenység esetén első fokon a Budapesti és Pest Megyei Mérnöki Kamarát, másodfokon a Magyar Mérnöki Kamarát,
+h)[^7]
 
 i) a katasztrófák elleni védekezésért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében katasztrófavédelem, tűzvédelem, valamint polgári védelem szakterületen első fokon az Országos Katasztrófavédelmi Főigazgatóságot,
 
@@ -74,7 +74,7 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 [^4]: Az 1. § (2) bekezdés c) pontját a 30/2020. (II. 29.) Korm. rendelet 10. § (4) bekezdése hatályon kívül helyezte.
 [^5]: Az 1. § (2) bekezdés f) pontja a 314/2012. (XI. 8.) Korm. rendelet 59. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § c) pontja, a 345/2015. (XI. 19.) Korm. rendelet 5. § 1. pontja szerint módosított szöveg.
 [^6]: Az 1. § (2) bekezdés g) pontja a 395/2015. (XII. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^7]: Az 1. § (2) bekezdés h) pontja a 345/2015. (XI. 19.) Korm. rendelet 4. § 1. pontja szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdés h) pontját a 447/2021. (VII. 26.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
 [^8]: Az 1. § (2) bekezdés j) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § d) pontja szerint módosított szöveg.
 [^9]: Az 1. § (2) bekezdés l) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (2) bekezdésével megállapított, a 353/2021. (VI. 24.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^10]: Az 1. § (2) bekezdés m) pontja a 379/2016. (XII. 2.) Korm. rendelet 112. § (3) bekezdésével megállapított szöveg.
