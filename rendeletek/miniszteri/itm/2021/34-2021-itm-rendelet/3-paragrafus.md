@@ -1,0 +1,1 @@
+## 2. § A nem önálló tevékenység végzése esetében a tevékenységvégzés szakmai felügyeletét az önálló tevékenység végzésére jogosító szakmával, képesítéssel vagy végzettséggel rendelkező személy biztosítja.
