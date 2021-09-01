@@ -8,13 +8,13 @@ b) elbírálja a képzési program jóváhagyása iránti kérelmeket,
 
 c) ellenőrzi a képzést és a vizsgát szervezők működését, ideértve a (3) bekezdés c) pontja szerinti tananyag célra való alkalmasságának, tartalmának, jogszabályoknak való megfelelésének, valamint a tanulmányi szabályzat megfelelőségének ellenőrzését is.
 
-(3) Képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely rendelkezik
+(3)[^8] Képzést az a felnőttképzésről szóló törvény szerinti felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezet tarthat, amely
 
-a) jogosultsággal a nemzetgazdasági miniszter hatáskörébe tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló miniszteri rendelet szerinti „Gépészet” szakmacsoportba vagy a nemzeti fejlesztési miniszter ágazatába tartozó szakképesítések szakmai és vizsgakövetelményeiről szóló miniszteri rendelet szerinti „Gépészet” szakmacsoportba tartozó szakképesítések bármelyikének megszerzését biztosító képzés szervezésére,
+a) a képzést megelőző legalább egy évben gépészet ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
 
-b) a szakterületnek megfelelő képzési programmal és
+b) rendelkezik a képzési területre vonatkozóan kidolgozott, a képzés felügyeletét ellátó hatóság által jóváhagyott képzési programmal, és
 
-c) a képzési programnak megfelelő, korszerű tananyaggal.
+c) rendelkezik a képzési programhoz kidolgozott, a hatályos műszaki biztonsági követelményeket tükröző, korszerű tananyagegységgel.
 
 (4) A képzés szervezője a képzési program jóváhagyása iránti kérelmét az (5) bekezdésben meghatározott adattartalommal a Budapest Főváros Kormányhivatala által meghatározott és a honlapján közzétett formanyomtatványon készíti el.
 
@@ -27,3 +27,5 @@ b) a képzés szervezőjének nyilatkozatát arról, hogy rendelkezik a képzés
 c) annak megjelölését, hogy a képzés szervezője mely képzés képzési programjának jóváhagyását kérelmezi,
 
 d) a képzési programot.
+
+[^8]: A 24. § (3) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

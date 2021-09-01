@@ -4,10 +4,12 @@
 
 (2) Az egyéni vállalkozó vagy gazdasági társaság akkor vehető nyilvántartásba az (1) bekezdés szerinti tevékenység végzésére, ha
 
-a) legalább egy tagja vagy alkalmazottja rendelkezik az adott tevékenység végzéséhez szükséges szaktanfolyami végzettséggel,
+a)[^6]
 
 b) megfelel a 2. mellékletben meghatározott személyi, tárgyi és eljárási (technológiai) követelményeknek,
 
 c) az (1) bekezdés szerinti tevékenységre vonatkozóan minőségirányítási rendszert működtet.
 
 (3) A nyilvántartásba vett szervezet az időszakos ellenőrző vizsgálat megtartását a vizsgálat pontos időpontjának megjelölésével legalább 8 nappal a vizsgálat tervezett elvégzését megelőzően bejelenti a Hatóságnak.
+
+[^6]: A 18. § (2) bekezdés a) pontját a 447/2021. (VII. 26.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.

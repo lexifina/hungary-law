@@ -88,7 +88,7 @@ a) minőségügyi szakképzettség, minőségbiztosítási vagy minőségirány�
 
 b) műszaki tudományok területén szerzett tudományos fokozat.
 
-3.[^11] Legalább 5 év szakirányú gyakorlat, jártasság a veszélyes folyadékok vagy olvadékok tárolótartályai üzemeltetéséhez kapcsolódó tevékenységek területén, vagy az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerint a Magyar Mérnöki Kamara által kiadott tervezői jogosultság, amely lehet:
+3.[^14] Legalább 5 év szakirányú gyakorlat, jártasság a veszélyes folyadékok vagy olvadékok tárolótartályai üzemeltetéséhez kapcsolódó tevékenységek területén, vagy az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerint a Magyar Mérnöki Kamara által kiadott tervezői jogosultság, amely lehet:
 
 a) gépészmérnöki tervező vagy energetikai tervező,
 
@@ -106,4 +106,4 @@ b) belső szabályzattal a veszélyes folyadékok vagy olvadékok tárolótartá
 
 c) az irányítási rendszerek auditjára és tanúsítására vonatkozó szabvány szerint akkreditált rendszertanúsítással.
 
-[^11]: A 3. melléklet I. pont 3. alpont nyitó szövegrésze a 190/2020. (V. 7.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^14]: A 3. melléklet I. pont 3. alpont nyitó szövegrésze a 190/2020. (V. 7.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.

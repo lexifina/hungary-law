@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-216-20-
 | 2020-05-15 | 2019-216-20-22.3 | 190/2020. (V. 7.) Korm. rendelet |
 | 2021-01-01 | 2019-216-20-22.4 | 190/2020. (V. 7.) Korm. rendelet |
 | 2021-02-03 | 2019-216-20-22.5 | 37/2021. (II. 2.) Korm. rendelet |
+| 2021-09-01 | 2019-216-20-22.6 | 447/2021. (VII. 26.) Korm. rendelet |
