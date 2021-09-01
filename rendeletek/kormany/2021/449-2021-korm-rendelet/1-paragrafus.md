@@ -28,7 +28,7 @@ nyújtó egészségügyi szolgáltatónál (a továbbiakban együtt: egészség�
 
 (3) Az az (1) és (2) bekezdés szerinti foglalkoztatott (a továbbiakban együtt: foglalkoztatott), aki e rendelet hatálybalépése előtt nem vette fel a védőoltást, az állampolgárok egészségének és életének megóvása érdekében köteles – a (4) bekezdés szerinti mentesítés kivételével –
 
-a) egydózisú oltóanyag esetén a védőoltást, kétdózisú oltóanyag esetén a védőoltás első dózisát 2021. szeptember 1. napjáig,
+a)[^2] egydózisú oltóanyag esetén a védőoltást, kétdózisú oltóanyag esetén a védőoltás első dózisát 2021. szeptember 15. napjáig,
 
 b) kétdózisú oltóanyag esetén a védőoltás második dózisát az oltóorvos által meghatározott időpontban
 
@@ -67,3 +67,5 @@ b) a foglalkoztatott az (5) bekezdés szerinti orvosi szakvéleményt a (8) beke
 (13) Az a foglalkoztatott, aki az e rendelet szerinti oltási kötelezettség teljesítésének határidejét megelőzően mentesül a rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól, a rendelkezésre állási és munkavégzési kötelezettség teljesítés alóli mentesülés megszűnését követő harminc napon belül köteles egydózisú oltóanyag esetén a védőoltást, kétdózisú oltóanyag esetén a védőoltás első dózisát felvenni.
 
 (14) Az e rendeletben foglaltak végrehajtását a hatáskörrel rendelkező egészségügyi államigazgatási szerv hatósági jogkörében ellenőrzi, amelynek keretében az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvényben meghatározott intézkedéseket alkalmazhatja.
+
+[^2]: Az 1. § (3) bekezdés a) pontja az 507/2021. (VIII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
