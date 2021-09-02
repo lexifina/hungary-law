@@ -200,4 +200,6 @@
 
 | 99. | Vízvezeték- és vízkészülék-szerelés | Víz- és csatornarendszer-szerelő (Csőhálózat-szerelő) | végezhető | Víz-, csatorna- és közmű-rendszerszerelő | elfogadható |
 
-2. melléklet a 34/2021. (VII. 26.) ITM rendelethez
+2. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^8]
+
+[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

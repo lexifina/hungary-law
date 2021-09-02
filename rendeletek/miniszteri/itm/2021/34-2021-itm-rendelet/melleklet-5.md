@@ -1,31 +1,3 @@
-## „3. melléklet a 40/2017. (XII. 4.) NGM rendelethez
+5. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^11]
 
-## A képzési programmal szemben támasztott alapkövetelmények
-
-## 1. A képzési programnak a 2. és 3. pontban meghatározott szakmai követelményekkel összhangban tartalmaznia kell
-
-## a) a képzés megnevezését és célját,
-
-## b) a képesítés munkaterületét és a képzés során megszerezhető kompetenciát,
-
-## c) a képzésbe való bekapcsolódás és részvétel feltételeit,
-
-## d) a tervezett képzési időt,
-
-## e) a képzés formájának meghatározását (csoportos jelenléti képzés, egyéni felkészüléssel),
-
-## f) a tananyag egységeit, azok célját, tartalmát, terjedelmét és a tananyagegységekhez rendelt elméleti és gyakorlati óraszámot,
-
-## g) a maximális csoportlétszámot,
-
-## h) a képzésben részt vevő teljesítményét értékelő rendszernek a leírását,
-
-## i) a képzésről, a képzés egyes tananyagegységeinek elvégzéséről szóló bizonyítvány, igazolás kiadásának feltételeit,
-
-## j) a képzési program végrehajtásához szükséges személyi és tárgyi feltételeket.
-
-## 2. A villamos biztonsági felülvizsgáló képesítés esetében a teljes képzési idő legalább 64 óra, melynek részeként a gyakorlati képzése legalább 16 óra, ami két 8 órás részre oszlik.
-
-## 3. A villamos biztonsági felülvizsgáló képesítéssel rendelkezők – a továbbképzési kötelezettség tekintetében ideértve a más jogszabály alapján érintésvédelmi szabványossági felülvizsgáló képesítéssel, erősáramú berendezések felülvizsgálója képesítéssel rendelkezőket is – esetében a teljes képzési idő legalább 8 óra, amit egyben/egy időben szükséges oktatni.”
-
-5. melléklet a 34/2021. (VII. 26.) ITM rendelethez
+[^11]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

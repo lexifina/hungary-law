@@ -1,3 +1,3 @@
-## 6. § A villamosmű és fogyasztói vezetékhálózat irányító és kezelő dolgozóinak szakmai képesítéséről szóló 3/1981. (V. 6.) IpM–MüM együttes rendelet 1. §-a a következő (3) bekezdéssel egészül ki:
+## 6. §[^1]
 
-## „(3) Az e rendeletben meghatározott munkakörben végezhető tevékenységekre jellemző, a jogszabályokban foglalt követelmények figyelembevétele alapján a munkáltató által felmért egészségvédelmi, műszaki biztonsági és egyéb biztonságtechnikai kockázatok kezeléséhez elégséges szakmai kompetenciákat biztosító egyéb szakmai képesítés vagy végzettség megléte esetén nem szükséges az e rendelet 1. mellékletében megjelölt képesítéssel és gyakorlati idővel rendelkezni.”
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

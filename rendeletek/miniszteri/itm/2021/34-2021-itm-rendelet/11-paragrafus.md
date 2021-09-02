@@ -1,7 +1,3 @@
-11. § (1) A műszaki-biztonsági szempontból jelentős munkakörök betöltéséhez szükséges szakmai képesítésről és gyakorlatról, valamint az ilyen munkakörben foglalkoztatottak időszakos továbbképzésével kapcsolatos szabályokról szóló 16/2018. (IX. 11.) ITM rendelet [a továbbiakban: 16/2018. (IX. 11.) ITM rendelet] 2. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a) bekezdéssel egészül ki:
+## 10. §[^5]
 
-## „(1) Az 1. mellékletben meghatározott műszaki-biztonsági szempontból jelentős munkakört – az (1a) és a (3) bekezdésben foglalt kivétellel – csak az 1. mellékletben megjelölt szakképzettséggel és gyakorlati idővel rendelkező személy töltheti be. A 2. mellékletben meghatározott műszaki-biztonsági szempontból jelentős munkakört a 2. mellékletben megjelölt szakképzettséggel és gyakorlati idővel rendelkező személy töltheti be.
-
-## (1a) Az 1. mellékletben meghatározott műszaki-biztonsági szempontból jelentős munkakörben végezhető tevékenységekre jellemző, a jogszabályokban foglalt követelmények figyelembevétele alapján a munkáltató által felmért egészségügyi, műszaki biztonsági és egyéb biztonságtechnikai kockázatok kezeléséhez elégséges szakmai kompetenciákat biztosító egyéb szakmai képesítés vagy végzettség megléte esetén nem szükséges az 1. mellékletben megjelölt szakképzettséggel és gyakorlati idővel rendelkezni.”
-
-(2) A 16/2018. (IX. 11.) ITM rendelet 2. melléklete helyébe a 6. melléklet lép.
+[^5]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
