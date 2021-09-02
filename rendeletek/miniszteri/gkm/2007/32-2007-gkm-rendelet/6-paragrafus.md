@@ -1,4 +1,4 @@
-6. § (1)[^17] Az egyes termékfajták jelölésének legalább az 1. melléklet szerinti információkat kell tartalmaznia.
+6. § (1)[^21] Az egyes termékfajták jelölésének legalább az 1. melléklet szerinti információkat kell tartalmaznia.
 
 (2) A terméken, a termékre szerelt adathordozón vagy a csomagoláson, valamint a terméket kísérő okmányon fel kell tüntetni
 
@@ -12,4 +12,4 @@ d) a gyártás évét;
 
 e) a termék műszaki megbízhatóságának jelzését (átvételét).
 
-[^17]: A 6. § (1) bekezdése a 27/2015. (X. 15.) NGM rendelet 6. §-ával megállapított szöveg.
+[^21]: A 6. § (1) bekezdése a 27/2015. (X. 15.) NGM rendelet 6. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## Lőfegyver/lőszer gyártásának, hatástalanításának, megsemmisítésének értékesítésének nyilvántartási és adatszolgáltatási lapja
+## Tűzfegyver, illetve lőszer gyártásának, hatástalanításának, megsemmisítésének értékesítésének nyilvántartási és adatszolgáltatási lapja
 
-## [a Htkr. 1. melléklet I. fejezet a), b), c) pontja és III. fejezete szerinti termékekhez]
+## [a Htkr. 1. melléklet I. Fejezet a), b), c) pontja és III. Fejezete szerinti termékekhez]
 
 ## KITÖLTÉSI TÁJÉKOZTATÓ
 
@@ -10,71 +10,23 @@
 
 ## Engedély száma: a Hivatal által kiadott tevékenységi engedély száma.
 
-## Kategória: az adott lőfegyver/lőszer besorolása a lőfegyverekről és a lőszerekről szóló 2004. évi XXIV. törvény Mellékletében szereplő meghatározások alapján:
+## Kategória: az adott tűzfegyver/lőszer besorolása a lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 1. mellékletében szereplő kategóriák és alkategóriák.
 
-## Azonosító: a fegyver jelen rendelet I. Melléklete I. fejezetében meghatározott azonosítóval rendelkezik. Igen (I), nem (N).
-
-## „A” kategória
-
-## 1. Automata tűzfegyverek.
-
-## 2. Más tárgynak álcázott tűzfegyver.
-
-## 3. Páncéltörő (áthatoló), robbanó, fényjelző vagy gyújtólövedékeket tartalmazó lőszer, valamint az ilyen lőszerhez való lövedék.
-
-## 4. Expanzív (kiterjedő) lövedéket tartalmazó pisztoly- és revolverlőszer, valamint az ilyen lőszerhez való lövedék, kivéve a vadászati vagy sportlövészeti célokat szolgáló lőfegyverhez, a használatukra jogosult személyek számára.
-
-## ,,B” kategória
-
-## 1. Félautomata vagy ismétlő rövid tűzfegyverek.
-
-## 2. Központi gyújtású egylövetű rövid tűzfegyverek.
-
-## 3. Peremgyújtású egylövetű rövid tűzfegyverek, melyek teljes hossza 28 cm-nél rövidebb.
-
-## 4. Félautomata hosszú tűzfegyverek, melyek tölténytára és töltényűrje együttesen háromnál több lőszer befogadására alkalmas.
-
-## 5. Félautomata hosszú tűzfegyverek, amelyek tölténytára és töltényűrje együttesen háromnál több lőszer befogadására nem alkalmas, ha a töltőszerkezet eltávolítható, vagy ha nem biztos, hogy szokásos szerszámokkal a tűzfegyvert nem lehet olyan tűzfegyverré átalakítani, amelynek tölténytára és töltényűrje együttesen háromnál több lőszer befogadására alkalmas.
-
-## 6. Ismétlő és félautomata hosszú tűzfegyverek huzagolatlan, 60 cm-t meg nem haladó hosszúságú csővel.
-
-## 7. Külső formában automata szerkezetű tűzfegyverre hasonlító félautomata tűzfegyverek.
-
-## ,,C” kategória
-
-## 1. A ,,B” kategória 6. pontjában felsoroltakon kívüli egyéb ismétlő hosszú tűzfegyverek.
-
-## 2. Egylövetű hosszú tűzfegyverek huzagolt csővel.
-
-## 3. A ,,B” kategória 4–7. pontjaiban felsoroltakon kívüli félautomata hosszú tűzfegyverek.
-
-## 4. Peremgyújtású egylövetű rövid tűzfegyverek, amelyeknek teljes hossza legalább 28 cm.
-
-## ,,D” kategória
-
-## Egylövetű hosszú tűzfegyverek huzagolatlan csővel.
+## Azonosító: a fegyver rendelkezik-e az 1. melléklet I. pontjában meghatározott azonosítóval. Igen (I), nem (N).
 
 ## Darabszám:
 
-## Csak lőszer esetén kell kitölteni
+## Csak lőszer esetén kell kitölteni.
 
 ## Fajta:
 
 ## A fajtára utaló betűjel
 
-## – lőfegyver esetén:
+## – tűzfegyver esetén: T: tűzfegyver
 
-## T: tűzfegyver
+## – tűzfegyver fődarab esetén: F: fegyvercső
 
-## – lőfegyver fődarab esetén:
-
-## F: fegyvercső
-
-## V: váltócső
-
-## B: betétcső
-
-## Z: zár
+## V: váltócső B: betétcső Z: zár
 
 ## D: forgódob
 
@@ -84,25 +36,25 @@
 
 ## Jelleg:
 
-## A lőfegyver jellegére utaló betűjelek: G: golyós, S: sörétes, M: marok (rövid tűzfegyver).
+## A tűzfegyver jellegére utaló betűjelek: G: golyós, S: sörétes, M: marok (rövid tűzfegyver).
 
-## Kaliberjel: a lőfegyver hivatalos tanúsítványán (bevizsgálás, szemlézés) szereplő jel.
+## Kaliberjel: a tűzfegyver hivatalos tanúsítványán (bevizsgálás, szemlézés) szereplő jel, vagy az egyéb szabvány által, illetve nem szabványosított kaliber esetén a gyártó által megadott, a fegyverhez használható lőszerfajta megnevezése.
 
-## Gyártási szám: lőfegyver esetén a termék egyértelmű azonosítására szolgáló, a gyártó/kereskedő által adott, a lőfegyver fődarabjain lévő azonosító jel. Csak a különböző azonosító jeleket kell feltüntetni, egymástól „/”jellel elválasztva a következő sorrendben: tokszám/csőszám(ok)/zárszám/dobszám. Cirill betűs gyártási számmal, illetve azonosítóval ellátott fegyver esetén a betűsor elhagyásával, kizárólag a számsor kerüljön rögzítésre úgy, hogy a számsort minden esetben, folytatólagosan a C betűvel kell lezárni.
+## Gyártási szám: tűzfegyver esetén a termék egyértelmű azonosítására szolgáló, a gyártó/kereskedő által adott, a tűzfegyver fődarabjain lévő azonosító jel. Csak a különböző azonosító jeleket kell feltüntetni, egymástól „/” jellel elválasztva a következő sorrendben: tokszám/csőszám(ok)/zárszám/dobszám.
 
-## Ha a lőfegyver rendelkezik tanúsítvánnyal (bevizsgálás, szemlézés), akkor az abban szereplő gyártási számot kell megadni.
+## Ha a tűzfegyver rendelkezik tanúsítvánnyal (bevizsgálás, szemlézés), akkor az abban szereplő gyártási számot kell megadni.
 
 ## Lőszer esetén a gyártási tételszámot kell ebben a rovatban szerepeltetni.
 
-## Vevő: a hazai értékesítésekor a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) szerinti engedélyes, vagy a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a Katonai Nemzetbiztonsági Szolgálat, vagy kooperációs együttműködő; kiszállítás és kivitel esetén a külföldi fél neve.
+## Vevő: a hazai értékesítésekor a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) szerinti engedélyes, vagy a Magyar Honvédség, a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, a Katonai Nemzetbiztonsági Szolgálat vagy kooperációs együttműködő; kiszállítás és kivitel esetén a külföldi fél neve.
 
-## Esemény: a lőfegyveren végrehajtott művelet:
+## Esemény: a tűzfegyveren végrehajtott művelet:
 
 ## Gy: gyártás
 
 ## A: átalakítás
 
-## TB: fődarab beépítése tűzfegyverbe; ebben az esetben fel kell tüntetni annak a tűzfegyvernek gyártási számát, amelybe a fődarabot beépítették
+## TB: fődarab beépítése tűzfegyverbe; ebben az esetben fel kell tüntetni annak a tűzfegyvernek a gyártási számát, amelybe a fődarabot beépítették
 
 ## H: hatástalanítás
 
@@ -112,23 +64,27 @@
 
 ## P: polgári nyilvántartásba átvezetve (ebben az esetben fel kell tüntetni a polgári forgalmazást végző kereskedő rendőrségi engedélyének a számát)
 
-## Lőfegyver/lőszer gyártásának, hatástalanításának, megsemmisítésének értékesítésének nyilvántartási és adatszolgáltatási lapja
+## Tűzfegyver, illetve lőszer gyártásának, hatástalanításának, megsemmisítésének értékesítésének nyilvántartási és adatszolgáltatási lapja
 
-## [a Htkr. 1. melléklet I. fejezet a), b), c) pontja és III. fejezete szerinti termékekhez]
+## [a Htkr. 1. melléklet I. Fejezet a), b), c) pontja és III. Fejezete szerinti termékekhez]
 
-| Gyártó/kereskedő megnevezése: ............................................................................................... | Adószáma: ................................................................................................................... |
+| Gyártó/kereskedő megnevezése: ..................................................................................... | Adószáma: ........................................................................................... |
 
-| Működési helye: ................................................................................................................... | Engedély száma: ................................................................................................................ |
+| Működési helye: ........................................................ .................................................................................... | Engedély száma: ........................................................................................... |
 
-| LŐFEGYVER / LŐSZER TÖRZSADATAI Eredeti gyártó/típus (modell): .................................................................................................. Eredeti gyártási szám: .............................................................................................................. | Fajta betűjele: Azonosító: Jelleg betűjele: Eredeti kategória betűjele:: |
+| TŰZFEGYVER / LŐSZER TÖRZSADATAI | Fajta betűjele: | Azonosító: |
 
-| Darabszám | Gyártó | Eladó | Vevő | gyártási szám | kaliberjel | Kategória betűjele | Esemény betűjele | Esemény dátuma |
+| Eredeti gyártó/típus (modell): .............................….. .................................................................................... | Jelleg betűjele: |
+
+| Eredeti gyártási szám: ………................................... ..............................................................…………...... | Eredeti kategória betűjele: |
+
+| Darabszám | Gyártó | Eladó | Vevő | Gyártási szám | Kaliberjel | Kategória/alkategória jele | Esemény betűjele | Esemény dátuma |
 
 | Polgári nyilvántartásba kerülés esetén a kereskedő rendőrségi engedélyének száma: |
 
-## Kelt, .................................................................................................., .................... év ........................................................... hónap ............... nap aláírás: ...........................................
+| Kelt: ...................................................., ...................... év .............................................. hónap .................... nap aláírás: ................................................................................... |
 
-3. melléklet a 32/2007. (III. 19.) GKM rendelethez[^30]
+3. melléklet a 32/2007. (III. 19.) GKM rendelethez[^35]
 
 Haditechnikai termék gyártásának, értékesítésének nyilvántartási lapja
 
@@ -176,4 +132,4 @@ Kelt, ..........................................................................
 
 Aláírás
 
-[^30]: A 3. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^35]: A 3. melléklet a 27/2015. (X. 15.) NGM rendelet 11. § (3) bekezdésével megállapított szöveg.
