@@ -1,4 +1,4 @@
-## 17. §[^24]
+## 17. §[^26]
 
 ## 3. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 16. § a) pontja 2022. január 1-jén lép hatályba.
 
-[^24]: A 17. § a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+[^26]: A 17. § a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.

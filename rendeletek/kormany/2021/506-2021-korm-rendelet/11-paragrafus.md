@@ -1,3 +1,3 @@
-## 10. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet (a továbbiakban: R2.) 23. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 10. §[^13]
 
-## „(5) Ha a természetes személy munkaviszonya év közben megszűnik, a munkáltató az adóévben általa kifizetett jövedelemről és a levont adóelőlegekről szóló bizonylatot (igazolást, adatlapot) a munkaviszony megszűnésének időpontjától – a munkaviszony felmondással történő megszüntetése esetén legkésőbb az utolsó munkában töltött naptól – számított legkésőbb ötödik munkanapon adja ki a természetes személy részére. A bizonylatnak tartalmaznia kell az adóéven belüli előző munkáltató, munkáltatók által közölt adatokat is.”
+[^13]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
