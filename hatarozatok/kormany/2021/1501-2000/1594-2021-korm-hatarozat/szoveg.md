@@ -38,4 +38,6 @@ d) közreműködik a mozgóképszakmát érintő kormány-előterjesztések elő
 
 8. Ez a határozat 2021. szeptember 1-jén lép hatályba.
 
-9. Hatályát veszti a magyar nemzeti mozgóképipar fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1501/2019. (VIII. 23.) Korm. határozat.
+9.[^2]
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
