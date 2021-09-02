@@ -10,6 +10,6 @@ d)
 
 e)
 
-f)
+f) 1. mellékletében foglalt táblázat C:69 mezőjében az „Érseki Hittudományi” szövegrész helyébe az „Érseki” szöveg
 
 lép.
