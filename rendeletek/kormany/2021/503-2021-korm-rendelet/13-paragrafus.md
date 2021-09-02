@@ -1,1 +1,3 @@
-## „(2d) A közbeszerzésekért felelős miniszter a képző szervezetek által a (2c) bekezdés alapján megküldött regisztrációs adatlapok és jelenléti ívek alapulvételével vezeti az EKR-ben a közbeszerzésekről szóló 2015. évi CXLIII. törvény 195. § (6) bekezdése szerinti nyilvántartást, és összesíti a képzéseken részt vevők részvétele alapján megszerzett tanulmányi pontjait. A közbeszerzésekért felelős miniszter a képzésekről szóló regisztrációs adatlap és jelenléti ív megküldését követően huszonegy napon belül nyilvántartásba veszi a tanulmányi pontokat. A felelős akkreditált közbeszerzési szaktanácsadót a róla nyilvántartott adatok tekintetében az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Infotv.) 14. §-a szerinti jogosultságok illetik meg.”
+## 12. §[^12]
+
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

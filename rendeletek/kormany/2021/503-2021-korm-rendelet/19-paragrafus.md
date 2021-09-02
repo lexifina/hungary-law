@@ -1,1 +1,3 @@
-## „(4) A Hatóság a kérelem elbírálása érdekében a (2) bekezdés f) és h) pontja szerinti adatot a nyilvántartásból történő adatigénylés, a (2) bekezdés g) pontja szerinti adatot a nyilvántartásból automatikus információátadás útján szerzi be.”
+## 18. §[^19]
+
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

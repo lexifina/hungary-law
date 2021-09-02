@@ -1,1 +1,3 @@
-## 15. § A 217/2017. (VII. 31.) Korm. rendelet 2. § (2c) bekezdésében a „nevét, amennyiben az releváns, a lajstromszámát, valamint elektronikus levelezési címét” szövegrész helyébe a „nevét, EKR felhasználónevét, valamint amennyiben az releváns, a lajstromszámát” szöveg lép.
+## 15. §[^15]
+
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
