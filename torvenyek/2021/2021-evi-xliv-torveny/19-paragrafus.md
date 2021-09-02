@@ -1,6 +1,6 @@
 19. § (1)
 
-(2) A Kvtv. 2. melléklete a 2. melléklet szerint módosul.
+(2)
 
 (3)
 
