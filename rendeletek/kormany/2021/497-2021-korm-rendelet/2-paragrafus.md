@@ -1,5 +1,5 @@
-## „(3a) Az (1) bekezdés b) pont bb) alpontja szerinti támogatásra a bevett egyház az általa közvetlenül vagy belső egyházi jogi személyei által szervezett fakultatív hittanoktatás támogatásához a fakultatív hittanoktatásban részt vevő tanulók és csoportok száma alapján az Eftv. 7. § (3) bekezdése szerint jogosult. A támogatás mértékét a bevett egyház adatszolgáltatása alapján úgy kell meghatározni, hogy a központi költségvetésről szóló törvényben meghatározott, az (1) bekezdés b) pont bb) alpontja szerinti fakultatív hittanoktatás támogatására rendelkezésre álló keretösszeg 50%-át a fakultatív hittancsoportok száma, 50%-át a fakultatív hittanoktatásban részt vevők száma szerint kell felosztani, azzal, hogy egy csoport minimális létszáma a csoportszámalapú támogatás kiszámítása szempontjából átlagosan nem lehet kevesebb, mint 7 fő. A bejegyzett egyház és a nyilvántartásba vett egyház által végzett fakultatív hittanoktatás támogatásáról az Ehtv. 9/D. § (5) bekezdése vagy az Ehtv. 9/F. § (1) bekezdése szerinti, a Kormánnyal kötött megállapodás rendelkezik.
-
-## (3b) A fakultatív hittancsoportok támogatása az (1) bekezdés b) pont ba) vagy bb) alpontja szerint történik.”
+## 1. §[^2]
 
 2. § Ez a rendelet 2021. szeptember 1-jén lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
