@@ -1,7 +1,3 @@
-## 33. § Az R3. 19. § (2) bekezdése a következő b) ponttal egészül ki:
+## 33. §[^7]
 
-## (Ha a szülő nem élt a felülvizsgálat kezdeményezésének jogával, a szakértői véleményt a szakértői bizottság)
-
-## „b) a beilleszkedési, tanulási, magatartási nehézség megállapítása esetén a gyermeket, tanulót a vizsgálat időpontjában ellátó nevelési-oktatási vagy szakképző intézménynek,”
-
-## (megküldi.)
+[^7]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

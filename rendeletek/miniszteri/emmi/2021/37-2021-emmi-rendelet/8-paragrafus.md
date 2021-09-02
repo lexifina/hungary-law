@@ -1,7 +1,0 @@
-## 7. § Az R1. 75. §-a a következő (4)–(6) bekezdéssel egészül ki:
-
-## „(4) A tartós gyógykezelés miatt vendégtanulói jogviszonnyal rendelkező tanuló nevelése, oktatása, illetve a tartós gyógykezelés miatt egyéni munkarend keretében tanulmányokat folytató tanuló felkészítése az egészségügyi intézményben vagy a rehabilitációs intézményben, otthoni ellátás keretében vagy tantermen kívüli, digitális munkarendben szervezhető meg. A fentieken túl az iskola a szülő részére tanácsadást, konzultációt biztosít, továbbá terápiás vagy más kezelés szükségessége esetén továbbirányít a pedagógiai szakszolgálathoz vagy más szakellátást biztosító intézményhez.
-
-## (5) Ha a tartós gyógykezelés alatt álló gyermeket az Nkt. 8. § (2) bekezdésében meghatározottak szerint a felmentést engedélyező szerv az óvodai foglalkozáson való részvétel alól felmentette, az óvoda a szülő részére tanácsadást, konzultációt biztosít, továbbá terápiás vagy más kezelés szükségessége esetén továbbirányít a pedagógiai szakszolgálathoz vagy más szakellátást biztosító intézményhez.
-
-## (6) A tartós gyógykezelés alatt álló gyermek, tanuló nevelés-oktatásához szükséges eszközöket az iskola vagy az egészségügyi, illetve rehabilitációs intézmény, a speciális eszközöket az egészségügyi, illetve rehabilitációs intézmény vagy a gyógypedagógiai, konduktív pedagógiai eszközök és segédanyagok kölcsönzése tevékenység keretében az egységes gyógypedagógiai, konduktív pedagógiai módszertani intézmény biztosítja.”
