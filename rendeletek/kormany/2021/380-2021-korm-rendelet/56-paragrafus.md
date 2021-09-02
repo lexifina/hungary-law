@@ -1,5 +1,3 @@
-## 55. § Az R4. 358. §-a helyébe a következő rendelkezés lép:
+## 55. §[^55]
 
-## „358. § (1) E rendelet hatálybalépését megelőzően a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter egyedi döntésével nyújtható képzési, továbbá tanműhely-létesítési és -fejlesztési támogatások részletes szabályairól szóló 3/2015. (II. 13.) NGM rendelet (a továbbiakban: NGM rendelet) alapján benyújtott, de elbírálásra nem került kérelmek, valamint az NGM rendelet 13. § (3) bekezdése alapján a kérelem benyújthatóságára vonatkozóan megerősítő állásfoglalással rendelkező szándéknyilatkozat esetében az NGM rendeletet kell alkalmazni, kivéve, ha a kérelmező e rendelet hatálybalépésétől számított harminc napon belül e rendelet szerinti új támogatás iránti kérelmet nyújt be.
-
-## (2) A 247. § (1) bekezdésétől eltérően az a duális képzőhely, aki az e rendelet hatálybalépésekor képzési, tanműhely-létesítési vagy -fejlesztési támogatásra vonatkozó támogatási jogviszonyából fennálló és a 247. § (1) bekezdésében meghaladó mértékű létszám fenntartására kötelezett, a fenntartási időszakban a fenntartási kötelezettség részeként a támogatási szerződésben, illetve a támogatói okiratban meghatározott számú tanulóval és képzésben részt vevő személlyel köthet szakképzési munkaszerződést, illetve az Szkt. 125. § (3) bekezdése szerinti esetben tanulószerződést.”
+[^55]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

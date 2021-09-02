@@ -2,72 +2,96 @@
 
 ## 59. § Hatályát veszti az R4.
 
-1. 2. § (3) bekezdése,
+1.[^170]
 
-2. 3. §-a,
+2.[^171]
 
-3. 4. § (1) bekezdésében az „A szakképző intézmény nem szedhet térítési díjat és tandíjat a szakirányú oktatás szakképzési munkaszerződés keretében folyó része után.” szövegrész,
+3.[^172]
 
-4. 4. § (2) bekezdés a) pontjában az „és 3.” szövegrész,
+4.[^173]
 
-5. 4. § (2a) bekezdése,
+5.[^174]
 
-6. 12. § a) pontjában az „és ISCED-F 2013 kódot” szövegrész,
+6.[^175]
 
-7. 14. § (3) bekezdése,
+7.[^176]
 
-8. XIV. Fejezete,
+8.[^177]
 
-9. 95. § (1) bekezdés 3. pontja,
+9.[^178]
 
-10. 95. § (1) bekezdés 13. pontja,
+10.[^179]
 
-11. 95. § (1) bekezdés 16. pontja,
+11.[^180]
 
-12. 95. § (2) bekezdés 6. pontja,
+12.[^181]
 
-13. 142. § (6) bekezdése,
+13.[^182]
 
-14. 147. § (3) bekezdés a) pontjában az „és a továbbképzési program” szövegrész,
+14.[^183]
 
-15. 79. alcíme,
+15.[^184]
 
-16. 241. §-a,
+16.[^185]
 
-17. 247. § (1) bekezdésében az „– a kis- és a középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 4. § (2) bekezdése szerinti partnervállalkozások és a Kkvtv. 4. § (5) bekezdésének figyelmen kívül hagyásával kis- és középvállalkozásnak nem minősülő vállalkozás kivételével –” szövegrész,
+17.[^186]
 
-18. 251. §-ában a „duális képzőhely feltölti a regisztrációs és tanulmányi rendszerbe a szakképzési munkaszerződést. A” szövegrész,
+18.[^187]
 
-19. 306. § (2) bekezdésében az „ , aki az általa ellátott szakmai feladat tekintetében kizárólag a szakképzésért felelős miniszter által utasítható” szövegrész,
+19.[^188]
 
-20.[^18]
+20.[^189]
 
-21.[^19]
+21.[^190]
 
-22.[^20]
+22.[^191]
 
-23.[^21]
+23.[^192]
 
-24.[^22]
+24.[^193]
 
-25. 336. § (5) bekezdésében a „beruházási vagy fejlesztési” szövegrész,
+25.[^194]
 
-26. 341. §-a,
+26.[^195]
 
-27. 356. § (2) bekezdése,
+27.[^196]
 
-28. 357. §-a,
+28.[^197]
 
-29.[^23]
+29.[^198]
 
-30. 360. § (1)–(3) bekezdése,
+30.[^199]
 
-31.[^24]
+31.[^200]
 
-[^18]: Az 59. § 20. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^19]: Az 59. § 21. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^20]: Az 59. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: Az 59. § 23. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^22]: Az 59. § 24. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^23]: Az 59. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: Az 59. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^170]: Az 59. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^171]: Az 59. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^172]: Az 59. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^173]: Az 59. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^174]: Az 59. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^175]: Az 59. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^176]: Az 59. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^177]: Az 59. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^178]: Az 59. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^179]: Az 59. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^180]: Az 59. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^181]: Az 59. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^182]: Az 59. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^183]: Az 59. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^184]: Az 59. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^185]: Az 59. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^186]: Az 59. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^187]: Az 59. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^188]: Az 59. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^189]: Az 59. § 20. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^190]: Az 59. § 21. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^191]: Az 59. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^192]: Az 59. § 23. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^193]: Az 59. § 24. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^194]: Az 59. § 25. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^195]: Az 59. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^196]: Az 59. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^197]: Az 59. § 28. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^198]: Az 59. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^199]: Az 59. § 30. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^200]: Az 59. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

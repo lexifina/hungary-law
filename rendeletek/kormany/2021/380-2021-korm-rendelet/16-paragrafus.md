@@ -1,3 +1,3 @@
-## 15. § Az R4. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^15]
 
-## „(1) A szakmai képzés képzési programját az Fktv. 12. §-a szerint kell elkészíteni.”
+[^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 26. § Az R4. 142. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 26. §[^26]
 
-## „(2) Az oktatónak és a szakképző intézmény Szkt. 40. § (1) bekezdés d) pontja szerinti munkakörben foglalkoztatott alkalmazottjának olyan továbbképzésben kell részt vennie, amely hozzájárul a szakképzettségéhez kapcsolódó ismeretek és jártasság megújításához, illetve kiegészítéséhez. Az intézményvezető továbbképzésére az oktató továbbképzésére vonatkozó szabályokat kell alkalmazni, azzal, hogy olyan továbbképzésben kell részt vennie, amely hozzájárul az intézményvezetői ismeretek és jártasságok megújításához, illetve kiegészítéséhez.”
+[^26]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

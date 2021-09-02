@@ -1,231 +1,341 @@
+## 57. §[^57]
+
 ## 58. § Az R4.
 
-1. 2. § (1) bekezdés nyitó szövegrészében az „A szakképző intézmény annak” szövegrész helyébe az „Az állami szakképző intézmény és az együttműködési megállapodással rendelkező fenntartó által fenntartott nem állami szakképző intézmény annak” szöveg,
+1.[^58]
 
-2. 2. § (2) bekezdés nyitó szövegrészében az „A szakképző intézmény a” szövegrész helyébe az „Az állami szakképző intézmény és az együttműködési megállapodással rendelkező fenntartó által fenntartott nem állami szakképző intézmény a” szöveg,
+2.[^59]
 
-3. 2. § (2) bekezdés a) pontjában a „nyitvatartása” szövegrész helyébe a „nyitva tartása” szöveg,
+3.[^60]
 
-4. 2. § (2) bekezdés d) pontjában az „ellátást és” szövegrész helyébe az „ellátást,” szöveg,
+4.[^61]
 
-5. 4. § (2) bekezdés nyitó szövegrészében az „A szakképző intézmény térítési” szövegrész helyébe az „Az állami szakképző intézmény és az együttműködési megállapodással rendelkező fenntartó által fenntartott nem állami szakképző intézmény térítési” szöveg,
+5.[^62]
 
-6. 4. § (2) bekezdés b) pontjában az „évfolyam megismétlését” szövegrész helyébe az „érintett foglalkozásokon való ismételt részvételt” szöveg,
+6.[^63]
 
-7. 4. § (3) bekezdés nyitó szövegrészében az „A szakképző intézmény tandíj” szövegrész helyébe az „Az állami szakképző intézmény és az együttműködési megállapodással rendelkező fenntartó által fenntartott nem állami szakképző intézmény tandíj” szöveg,
+7.[^64]
 
-8. 5. § (3) bekezdésében a „honlapján” szövegrész helyébe a „szakképzési tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+8.[^65]
 
-9. 9. § (2) bekezdésében az „az informatika” szövegrész helyébe az „a digitális kultúra” szöveg,
+9.[^66]
 
-10. 14. § (4) bekezdésében az „A rendvédelmi” szövegrész helyébe az „A szakképző intézmény szakmai programjában meg kell határozni a tanuló magasabb évfolyamba lépésének feltételeit. A rendvédelmi” szöveg,
+10.[^67]
 
-11. 14. § (5) bekezdés nyitó szövegrészében az „ , a sajátos nevelési igényű tanuló, illetve a képzésben részt vevő” szövegrész helyébe az „és a sajátos nevelési igényű vagy” szöveg,
+11.[^68]
 
-12. 15. §-ában a „c) pontját, (3) bekezdés a)” szövegrész helyébe a „3.” szöveg,
+12.[^69]
 
-13. V. Fejezet címében a „KÉPZÉSI PROGRAM” szövegrész helyébe a „SZAKMAI KÉPZÉS KÉPZÉSI PROGRAMJA” szöveg,
+13.[^70]
 
-14. 18. § (3) bekezdésében a „harminc” szövegrész helyébe a „negyven” szöveg,
+14.[^71]
 
-15. 18. § (4) bekezdésében a „harminc” szövegrész helyébe a „negyven” szöveg,
+15.[^72]
 
-16. 19. §-ában a „miniszter hirdetményi” szövegrész helyébe a „miniszter a szakképzési tájékoztatási és információs központ keretében működtetett honlapon hirdetményi” szöveg,
+16.[^73]
 
-17. 22. § (1) bekezdés a) pontjában a „szerinti közzétett” szövegrész helyébe a „szerint közzétett” szöveg,
+17.[^74]
 
-18. 25. § (1) bekezdés 8. pontjában a „ .” szövegrész helyébe a „ ,” szöveg,
+18.[^75]
 
-19. 25. § (4) bekezdésében a „ , 7. és 8” szövegrész helyébe az „és 7–9” szöveg,
+19.[^76]
 
-20. 28. § (1) bekezdés záró szövegrészében a „tanévkezdést követő” szövegrész helyébe a „tanévkezdést, illetve a felnőttképzési jogviszony keletkezését követő” szöveg,
+20.[^77]
 
-21. 28. § (4) bekezdésében az „ , a sajátos nevelési igényű tanuló és a képzésben részt vevő” szövegrész helyébe az „és a sajátos nevelési igényű vagy” szöveg,
+21.[^78]
 
-22. 36. § (2) bekezdésében a „védelmi” szövegrész helyébe az „okmányvédelmi” szöveg,
+22.[^79]
 
-23. 36. § (4) bekezdés záró szövegrészében az „átadja” szövegrész helyébe az „átadhatja” szöveg,
+23.[^80]
 
-24. 40. § (1) bekezdésében a „33” szövegrész helyébe a „34” szöveg,
+24.[^81]
 
-25. 42. § (1) bekezdésében az „az e” szövegrész helyébe az „az Szkt.-ban és e” szöveg,
+25.[^82]
 
-26. 51. § (2) bekezdésében az „előkészítés a technikumban akkor szervezhető, ha” szövegrész helyébe az „előkészítő évfolyam kizárólag az állam által fenntartott olyan technikumban szervezhető, illetve az együttműködési megállapodás nyelvi előkészítő évfolyam megszervezését kizárólag olyan technikumban teheti lehetővé, amelyikben” szöveg,
+26.[^83]
 
-27. 53. § (2) bekezdés a) pontjában a „programját elvégezte” szövegrész helyébe a „programját – a szakképző iskola által kiadott igazolás alapján megállapíthatóan – elvégezte” szöveg,
+27.[^84]
 
-28. 54. §-ában a „jogának” szövegrész helyébe az „irányítási hatáskörének” szöveg,
+28.[^85]
 
-29. 65. § (3) bekezdés b) pontjában az „amelynek ellátása” szövegrész helyébe az „amely” szöveg és a „szakképzésialapfeladat-ellátás” szövegrész helyébe a „fenntartói irányítási hatáskör gyakorlásában vagy a szakképzésialapfeladat-ellátási tevékenység ellátásában” szöveg,
+29.[^86]
 
-30. XI. Fejezet címében a „JOGÁNAK” szövegrész helyébe az „IRÁNYÍTÁSI HATÁSKÖRÉNEK” szöveg,
+30.[^87]
 
-31. 66. § (2) bekezdés c) pontjában a „fenntartói joga” szövegrész helyébe a „tekintetében a fenntartói irányítási hatáskör” szöveg,
+31.[^88]
 
-32. 67. § (1) bekezdésében a „fenntartói jogának” szövegrész helyébe a „tekintetében a fenntartói irányítási hatáskör” szöveg,
+32.[^89]
 
-33. 117. § (4) bekezdésében a „tanulót, illetve képzésben részt vevő” szövegrész helyébe a „vagy” szöveg,
+33.[^90]
 
-34. 123/B. §-ában az „igazolványra” szövegrész helyébe az „utalványra” szöveg,
+34.[^91]
 
-35. 127. § (1) bekezdés nyitó szövegrészében az „Intézményvezetői” szövegrész helyébe az „Igazgatói” szöveg,
+35.[^92]
 
-36. 127. § (3) bekezdésében az „intézményvezetői megbízást” szövegrész helyébe az „igazgatói megbízást” szöveg,
+36.[^93]
 
-37. 131. §-ában az „időpontját akkor” szövegrész helyébe az „időpontját – a szervezési feladatok ellátására az Szkt. 46. § (3) bekezdése alapján adott megbízás kivételével – akkor” szöveg,
+37.[^94]
 
-38. 134. § (1) bekezdés a) pontjában a „vagy mesterfokozatú” szövegrész helyébe a „vagy – az általános iskolai tanár kivételével – mesterfokozatú” szöveg,
+38.[^95]
 
-39. 134. § (2) bekezdés b) pontjában a „megfelelő szakképesítéssel” szövegrész helyébe a „megfelelő szakképzettséggel vagy szakképesítéssel” szöveg,
+39.[^96]
 
-40. 134. § (3) bekezdésében a „megfelelő szakképesítéssel” szövegrész helyébe a „megfelelő szakképzettséggel vagy szakképesítéssel” szöveg,
+40.[^97]
 
-41. 142. § (4) bekezdésében a „szervezi meg és finanszírozza” szövegrész helyébe az „– az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság útján – szervezi” szöveg és a „honlapján” szövegrész helyébe a „szakképzési tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+41.[^98]
 
-42. 152. §-ában az „ágazati vizsga” szövegrész helyébe az „adott ágazathoz kapcsolódóan tett ágazati alapvizsga” szöveg és a „tanévben” szövegrész helyébe az „egy éven belül” szöveg,
+42.[^99]
 
-43. 165. § c) pontjában a „ .” szövegrész helyébe a „ ,” szöveg,
+43.[^100]
 
-44. 171. § (3) bekezdésében a „foglalkozást.” szövegrész helyébe a „foglalkozást. E bekezdést kell alkalmazni az előkészítő évfolyam és a műhelyiskola tanulójára is.” szöveg,
+44.[^101]
 
-45. 175. §-ában a „minimálbér” szövegrész helyébe a „tárgyév első hónapjának első napján érvényes kötelező legkisebb havi munkabér” szöveg,
+45.[^102]
 
-46. 181. §-ában a „programtanterv” szövegrész helyébe a „szakirányú oktatás 223/A. § (2) bekezdése szerint közösen elfogadott képzési programja” szöveg és az „öt évre eltilthatja” szövegrész helyébe az „az Szkt. 103. § (1) bekezdésében meghatározott időre tilthatja el” szöveg,
+46.[^103]
 
-47. 182. § (1) bekezdésében a „vizsgaidőszakát a” szövegrész helyébe a „vizsgaidőszakát legkésőbb a” szöveg és a „hónapon belül” szövegrész helyébe a „hónappal korábban” szöveg,
+47.[^104]
 
-48. 190. § (2) bekezdésében a „szerv.” szövegrész helyébe a „szerv számára.” szöveg,
+48.[^105]
 
-49. 222. § b) pontjában az „érettségi végzettséggel” szövegrész helyébe az „a” szöveg,
+49.[^106]
 
-50. 242. § (2) bekezdés a) pontjában a „mestervizsgával” szövegrész helyébe a „szakirányú mestervizsgával” szöveg,
+50.[^107]
 
-51. 244. § (1) bekezdés nyitó szövegrészében a „nyilvántartás” szövegrész helyébe a „duális képzőhelyek nyilvántartása” szöveg,
+51.[^108]
 
-52. 244. § (1) bekezdés f) pontjában a „nyilvántartás adataiban” szövegrész helyébe a „duális képzőhelyek nyilvántartásában szereplő adatokban” szöveg,
+52.[^109]
 
-53. 244. § (2) bekezdésében a „nyilvántartás” szövegrész helyébe a „duális képzőhelyek nyilvántartása” szöveg és a „saját honlapján” szövegrész helyébe a „szakképzési tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+53.[^110]
 
-54. 245. § (1) bekezdésében a „kamarának” szövegrész helyébe a „kamarához” szöveg,
+54.[^111]
 
-55. 245. § (2) bekezdésében a „nyilvántartásba” szövegrész helyébe a „duális képzőhelyek nyilvántartásába” szöveg és a „folytatására jogszabályban meghatározott” szövegrész helyébe a „folytatásához szükséges” szöveg,
+55.[^112]
 
-56. 245. § (3) bekezdésében a „nyilvántartásban” szövegrész helyébe a „duális képzőhelyek nyilvántartásában” szöveg,
+56.[^113]
 
-57. 245. § (4) bekezdésében a „nyilvántartásból” szövegrész helyébe a „duális képzőhelyek nyilvántartásából” szöveg,
+57.[^114]
 
-58. 247. § (1) bekezdésében a „húsz” szövegrész helyébe a „harminc” szöveg, a „képzőközpontban” szövegrész helyébe a „képzőközpont” szöveg és a „tudásközpontban részt vevő jogi személyek által külön-külön” szövegrész helyébe a „tudásközpont tagja által külön-külön és az ágazati képzőközpont, illetve a tudásközpont által” szöveg,
+58.[^115]
 
-59. 248. § (1) bekezdésében az „az által elkészített képzési program” szövegrész helyébe az „a szakirányú oktatás 223/A. § (2) bekezdése szerint közösen elfogadott képzési programja” szöveg,
+59.[^116]
 
-60. 250. § (1) bekezdés 1. pontjában a „törvényes” szövegrész helyébe a „valamint” szöveg,
+60.[^117]
 
-61. 250. § (4) bekezdés d) pontjában a „vett közreműködő” szövegrész helyébe a „vett vagy várhatóan igénybevételre kerülő közreműködő” szöveg és a „duális képzőhely által igénybe vett közreműködőhöz” szövegrész helyébe a „közreműködőhöz” szöveg,
+61.[^118]
 
-62. 84. alcím címében a „§ (1) bekezdéséhez” szövegrész helyébe a „§-ához” szöveg,
+62.[^119]
 
-63. 252. §-ában a „műszakbeosztást” szövegrész helyébe a „munkaidő-beosztást” szöveg,
+63.[^120]
 
-64. 253. § (1) bekezdésében a „ , tanulmányi eredményeit és az ágazati készségtanács által az adott szakmára vonatkozó javaslatában meghatározott mértéket” szövegrész helyébe az „és tanulmányi eredményeit” szöveg,
+64.[^121]
 
-65. 253. § (2) bekezdésében a „legfeljebb a” szövegrész helyébe a „legfeljebb évente a” szöveg,
+65.[^122]
 
-66. 257. § nyitó szövegrészében a „székhelye” szövegrész helyébe a „feladatellátási helye” szöveg,
+66.[^123]
 
-67. 257. § a) pontjában a „tizenkét” szövegrész helyébe a „huszonöt” szöveg,
+67.[^124]
 
-68. 257. § b) pontjában a „tizenkét és huszonnégy” szövegrész helyébe a „huszonöt és harmincöt” szöveg,
+68.[^125]
 
-69. 257. § c) pontjában a „huszonöt” szövegrész helyébe a „harmincöt” szöveg,
+69.[^126]
 
-70. 260. § (3) bekezdésében az „elkészítése vagy” szövegrész helyébe az „elkészítése” szöveg,
+70.[^127]
 
-71. 262. § (2) bekezdésében az „az általa vezetett minisztérium honlapján” szövegrész helyébe az „a szakképzési tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+71.[^128]
 
-72. 263. § (1) bekezdésében a „személyesen vagy meghatalmazott útján, írásban jelentkezik. A” szövegrész helyébe az „a” szöveg és a „kell benyújtani” szövegrész helyébe a „nyújtja be” szöveg,
+72.[^129]
 
-73. 265. §-ában a „szakmánként alakítja” szövegrész helyébe a „szakmánként vagy képzési területenként alakítja” szöveg,
+73.[^130]
 
-74. 266. § (3) bekezdésében a „vizsgaközpont részére” szövegrész helyébe a „vizsgaközpont és – a vizsgabizottság ellenőrzési feladatokat ellátó tagja delegálásával összefüggésben – a gazdasági kamara részére” szöveg,
+74.[^131]
 
-75. 269. § (3) bekezdés h) pontjában a „sorszámát.” szövegrész helyébe a „sorszámát,” szöveg,
+75.[^132]
 
-76. 286. §-ában a „delegáló kamarát” szövegrész helyébe a „delegáló gazdasági kamarát” szöveg és a „két évig” szövegrész helyébe az „a szakmai vizsga évét követő második év utolsó napjáig” szöveg,
+76.[^133]
 
-77. 288. §-ában a „huszonháromezer forintnak” szövegrész helyébe az „a szakmai vizsga évének első napján érvényes kötelező legkisebb munkabér tizenöt százalékának, részszakma megszerzésére irányuló szakmai vizsga esetén tíz százalékának és” szöveg és a „szakmaszorzóval számított összege” szövegrész helyébe az „– évfolyami szorzó nélkül figyelembe vett – súlyszorzó szorzata” szöveg,
+77.[^134]
 
-78. XXXVI. Fejezet címében az „ , A SAJÁTOS NEVELÉSI IGÉNYŰ TANULÓ, ILLETVE A KÉPZÉSBEN RÉSZT VEVŐ” szövegrész helyébe az „ÉS A SAJÁTOS NEVELÉSI IGÉNYŰ VAGY” szöveg,
+78.[^135]
 
-79. 293. § (2) bekezdés nyitó szövegrészében a „tanuló, illetve a képzésben részt vevő” szövegrész helyébe a „vagy” szöveg,
+79.[^136]
 
-80. 294. § (1) bekezdés b) pontjában a „tanuló, illetve a képzésben részt vevő” szövegrész helyébe a „vagy” szöveg,
+80.[^137]
 
-81. 294. § (2) bekezdés b) pontjában a „tanuló, illetve a képzésben részt vevő” szövegrész helyébe a „vagy” szöveg,
+81.[^138]
 
-82. 296. § (1) bekezdés nyitó szövegrészében a „tanuló és a képzésben részt vevő” szövegrész helyébe a „vagy” szöveg,
+82.[^139]
 
-83. 297. § (1) bekezdésében az „ , a sajátos nevelési igényű tanuló és a képzésben részt vevő” szövegrész helyébe az „és a sajátos nevelési igényű vagy” szöveg,
+83.[^140]
 
-84. 297. § (2) bekezdésében az „ , a sajátos nevelési igényű tanuló és a képzésben részt vevő” szövegrész helyébe az „és a sajátos nevelési igényű vagy” szöveg,
+84.[^141]
 
-85. 308. § (2) bekezdésében az „a honlapon” szövegrész helyébe az „a szakképzési tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+85.[^142]
 
-86. 329. § 10. pontjában az „a tankönyvek” szövegrész helyébe az „a szakképzési tankönyvek” szöveg és a „más” szövegrész helyébe az „a” szöveg,
+86.[^143]
 
-87.[^13]
+87.[^144]
 
-88.[^14]
+88.[^145]
 
-89. 332/A. § (2) bekezdés 11. pontjában a „2,20” szövegrész helyébe a „2,85” szöveg,
+89.[^146]
 
-90. 332/A. § (3) bekezdés c) pont cc) alpontjában a „ .” szövegrész helyébe a „ ,” szöveg,
+90.[^147]
 
-91.[^15]
+91.[^148]
 
-92.[^16]
+92.[^149]
 
-93.[^17]
+93.[^150]
 
-94. 336. § (2) bekezdésében a „szakképzésért felelős miniszter által vezetett minisztérium honlapján” szövegrész helyébe a „szakképzési tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+94.[^151]
 
-95. 336. § (3) bekezdés d) pontjában a „terjeszkedését” szövegrész helyébe a „kiterjesztését” szöveg,
+95.[^152]
 
-96. 336. § (3) bekezdés záró szövegrészében a „vevőnként” szövegrész helyébe a „vevő személyenként” szöveg,
+96.[^153]
 
-97. 336. § (5) bekezdésében a „szerződés megkötésének, illetve a támogatói okirat kiadásának” szövegrész helyébe a „döntés meghozatalának” szöveg,
+97.[^154]
 
-98. 113. alcím címében a „110. § (3) bekezdéséhez” szövegrész helyébe a „111/A. §-ához” szöveg,
+98.[^155]
 
-99. 342. § (1) bekezdés a) pont ag) alpontjában az „a tankönyvjegyzékkel” szövegrész helyébe az „a szakképzési tankönyvjegyzékkel” szöveg,
+99.[^156]
 
-100. 342. § (3) bekezdésében a „szakképzés információs rendszeréből” szövegrész helyébe a „regisztrációs és tanulmányi alaprendszer felnőttképzési moduljából” szöveg,
+100.[^157]
 
-101. 342. § (4) bekezdésében az „államigazgatási szerv honlapján” szövegrész helyébe a „tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+101.[^158]
 
-102. 343. § (3) bekezdés záró szövegrészében az „államigazgatási szerv honlapjáról” szövegrész helyébe a „tájékoztatási és információs központ keretében működtetett honlapon” szöveg,
+102.[^159]
 
-103. 351. § (3) bekezdésében a „szakképzés információs rendszerébe” szövegrész helyébe a „korai iskolaelhagyás megelőzését támogató rendszerbe” szöveg,
+103.[^160]
 
-104. 1. mellékletében foglalt táblázat E:106 mezőjében a „05” szövegrész helyébe a „08” szöveg,
+104.[^161]
 
-105. 1. mellékletében foglalt táblázat E:107 mezőjében a „06” szövegrész helyébe a „05” szöveg,
+105.[^162]
 
-106. 1. mellékletében foglalt táblázat E:108 mezőjében a „07” szövegrész helyébe a „06” szöveg,
+106.[^163]
 
-107. 1. mellékletében foglalt táblázat E:109 mezőjében a „08” szövegrész helyébe a „07” szöveg,
+107.[^164]
 
-108. 5. mellékletében foglalt táblázat C:1–C:2 mezőjében az „(A/5 ívben)” szövegrész helyébe az „A/5 ívben, illetve tanítási óraegysége” szöveg,
+108.[^165]
 
-109. 5. mellékletében foglalt táblázat D:2 mezőjében a „példány között” szövegrész helyébe a „példány, illetve felhasználó között” szöveg,
+109.[^166]
 
-110. 5. mellékletében foglalt táblázat E:2 mezőjében a „példány között” szövegrész helyébe a „példány, illetve felhasználó között” szöveg,
+110.[^167]
 
-111. 5. mellékletében foglalt táblázat F:2 mezőjében az „1001–2000 példány között” szövegrész helyébe az „1001 példány, illetve felhasználó felett” szöveg,
+111.[^168]
 
-112. 5. mellékletében foglalt táblázat A:3–A:20 mezőjében a „ragasztott” szövegrész helyébe a „ragasztott könyv (ideértve a szótárt, a szöveggyűjteményt, az atlaszt, a kislexikont, a munkatankönyvet, a munkafüzetet és a feladatgyűjteményt)” szöveg
+112.[^169]
 
-[^13]: Az 58. § 87. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^14]: Az 58. § 88. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^15]: Az 58. § 91. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: Az 58. § 92. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: Az 58. § 93. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^57]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: Az 58. § 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: Az 58. § 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: Az 58. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: Az 58. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: Az 58. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: Az 58. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: Az 58. § 7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: Az 58. § 8. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: Az 58. § 9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: Az 58. § 10. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: Az 58. § 11. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: Az 58. § 12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: Az 58. § 13. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: Az 58. § 14. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: Az 58. § 15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: Az 58. § 16. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: Az 58. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: Az 58. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: Az 58. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: Az 58. § 20. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: Az 58. § 21. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: Az 58. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: Az 58. § 23. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: Az 58. § 24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: Az 58. § 25. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: Az 58. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: Az 58. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: Az 58. § 28. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: Az 58. § 29. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: Az 58. § 30. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: Az 58. § 31. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: Az 58. § 32. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: Az 58. § 33. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: Az 58. § 34. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: Az 58. § 35. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: Az 58. § 36. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: Az 58. § 37. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: Az 58. § 38. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: Az 58. § 39. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: Az 58. § 40. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: Az 58. § 41. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: Az 58. § 42. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: Az 58. § 43. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: Az 58. § 44. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: Az 58. § 45. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: Az 58. § 46. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: Az 58. § 47. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: Az 58. § 48. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: Az 58. § 49. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: Az 58. § 50. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: Az 58. § 51. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: Az 58. § 52. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: Az 58. § 53. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: Az 58. § 54. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: Az 58. § 55. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: Az 58. § 56. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: Az 58. § 57. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: Az 58. § 58. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: Az 58. § 59. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: Az 58. § 60. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: Az 58. § 61. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: Az 58. § 62. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: Az 58. § 63. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^121]: Az 58. § 64. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: Az 58. § 65. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^123]: Az 58. § 66. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^124]: Az 58. § 67. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^125]: Az 58. § 68. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: Az 58. § 69. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: Az 58. § 70. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^128]: Az 58. § 71. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: Az 58. § 72. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^130]: Az 58. § 73. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^131]: Az 58. § 74. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^132]: Az 58. § 75. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: Az 58. § 76. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^134]: Az 58. § 77. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^135]: Az 58. § 78. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^136]: Az 58. § 79. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: Az 58. § 80. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^138]: Az 58. § 81. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^139]: Az 58. § 82. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^140]: Az 58. § 83. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^141]: Az 58. § 84. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: Az 58. § 85. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^143]: Az 58. § 86. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^144]: Az 58. § 87. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^145]: Az 58. § 88. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^146]: Az 58. § 89. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^147]: Az 58. § 90. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^148]: Az 58. § 91. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^149]: Az 58. § 92. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^150]: Az 58. § 93. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^151]: Az 58. § 94. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^152]: Az 58. § 95. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^153]: Az 58. § 96. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^154]: Az 58. § 97. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^155]: Az 58. § 98. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^156]: Az 58. § 99. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^157]: Az 58. § 100. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^158]: Az 58. § 101. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^159]: Az 58. § 102. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^160]: Az 58. § 103. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^161]: Az 58. § 104. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^162]: Az 58. § 105. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: Az 58. § 106. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: Az 58. § 107. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^165]: Az 58. § 108. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^166]: Az 58. § 109. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^167]: Az 58. § 110. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^168]: Az 58. § 111. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^169]: Az 58. § 112. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

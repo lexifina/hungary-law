@@ -1,3 +1,3 @@
-## 20. § Az R4. 51. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 20. §[^20]
 
-## „(1) Az előkészítő évfolyam szakmai tartalmát az annak megszervezésére jogosult szakképző intézmény a szakmai programjában határozza meg. A szakma megszerzéséhez szükséges kompetenciák tekintetében történő orientációs fejlesztésre irányuló előkészítő évfolyamra vonatkozó szakmai programot az állam által fenntartott szakképző iskola tekintetében a fenntartó, az együttműködési megállapodással rendelkező fenntartó által fenntartott nem állami szakképző iskola esetében a szakképzésért felelős miniszter az együttműködési megállapodásban hagyja jóvá.”
+[^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

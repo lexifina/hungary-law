@@ -1,17 +1,3 @@
-## 18. § Az R4. a következő 31/A. §-sal egészül ki:
+## 18. §[^18]
 
-## „31/A. § A 25. § (1) bekezdés 9. pontja szerinti igazolásra a 26. §-t kell alkalmazni, azzal, hogy
-
-## a) bizonyítvány alatt az igazolást kell érteni,
-
-## b) az igazolást év közben is ki lehet állítani,
-
-## c) az igazolás tartalmazza
-
-## ca) az Szkt. 19. § (4) bekezdés b) pont bb) alpontja szerinti előkészítő évfolyam, illetve a műhelyiskola követelményeinek teljesítésére,
-
-## cb) – műhelyiskola esetén – a szakmai vizsgára bocsáthatóságra
-
-## vonatkozó utalást,
-
-## d) az igazolásban nem kell a 26. § (3) bekezdés b), e), f) és g) pontja szerinti adatot feltüntetni.”
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

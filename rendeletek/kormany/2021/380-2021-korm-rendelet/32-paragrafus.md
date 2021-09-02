@@ -1,3 +1,3 @@
-## 31. § Az R4. 180. §-a a következő (2a) bekezdéssel egészül ki:
+## 31. §[^31]
 
-## „(2a) A tanuló értékelése és minősítése keretében a tanuló magatartása és szorgalma nem osztályozható.”
+[^31]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

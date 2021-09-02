@@ -1,1 +1,3 @@
-## 2. § Az R1. 2. § (1a) bekezdés e) pontjában a „történik.” szövegrész helyébe a „történik, vagy” szöveg lép.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

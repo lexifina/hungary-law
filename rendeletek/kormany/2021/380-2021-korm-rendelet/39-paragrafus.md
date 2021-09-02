@@ -1,3 +1,3 @@
-## 38. § Az R4. 253. §-a a következő (4) bekezdéssel egészül ki:
+## 38. §[^38]
 
-## „(4) Az Szkt. 107. § (3a) bekezdése szerinti esetben az (1)–(3) bekezdésben meghatározott juttatást a bruttó kötelezettség csökkentésére előírt százalékos mértékkel arányban kell alkalmazni.”
+[^38]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

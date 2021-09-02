@@ -1,5 +1,3 @@
-## 42. § Az R4. 269. § (3) bekezdése a következő i) ponttal egészül ki:
+## 42. §[^42]
 
-## (A vizsgatörzslap belíve tartalmazza)
-
-## „i) a szakmai vizsga alapját képező képzési és kimeneti követelmények alkalmazásának kezdő dátumát.”
+[^42]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

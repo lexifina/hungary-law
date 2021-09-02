@@ -1,5 +1,3 @@
-## 45. § Az R4. a következő 101/A. alcímmel egészül ki:
+## 45. §[^45]
 
-## „101/A. Az Szkt. 97. §g) pontjához
-
-## 303/B. § A szakképzési államigazgatási szerv a nemzeti referencia- és koordináló központ keretében működteti az Europass-kiegészítő országos rendszerét.”
+[^45]: A 45. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

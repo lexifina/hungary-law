@@ -1,1 +1,3 @@
-## „(1a) A szakirányú oktatással összefüggésben történő ellenszolgáltatás tilalmának megszegéséről tudomást szerző személy a tudomásra jutástól számított tizenöt napon belül a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamarát tájékoztatja. A jogsértés megállapítása esetén a duális képzőhelyet a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara legfeljebb az Szkt. 103. § (1) bekezdésében meghatározott időre tilthatja el a szakirányú oktatásban való részvételtől.”
+## 13. §[^13]
+
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

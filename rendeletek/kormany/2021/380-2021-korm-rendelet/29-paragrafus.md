@@ -1,5 +1,3 @@
-## 28. § Az R4. 165. §-a a következő d) ponttal egészül ki:
+## 28. §[^28]
 
-## (A tanuló kötelessége, hogy)
-
-## „d) a szakirányú oktatásban szakképzési munkaszerződéssel való részvétel esetén betartsa a duális képzőhelyen a munkavállalóra vonatkozó előírásokat és kötelezettségeket.”
+[^28]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

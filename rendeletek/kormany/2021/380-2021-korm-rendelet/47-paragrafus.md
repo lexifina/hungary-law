@@ -1,5 +1,3 @@
-## 46. § Az R4. 304. § 1. pontja helyébe a következő rendelkezés lép:
+## 46. §[^46]
 
-## (A szakképzési államigazgatási szerv)
-
-## „1. ellátja a 340. §-ban meghatározott előirányzatok tekintetében a kezelő szerv jogszabályban meghatározott feladatait,”
+[^46]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

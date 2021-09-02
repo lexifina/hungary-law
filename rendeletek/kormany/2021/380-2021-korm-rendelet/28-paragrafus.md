@@ -1,3 +1,3 @@
-## 27. § Az R4. 163. §-a a következő (4) bekezdéssel egészül ki:
+## 27. §[^27]
 
-## „(4) A (2) és (3) bekezdés szerinti esetben a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 91/F–91/J. §-át a nevelési-oktatási intézményre vonatkozó szabályait a szakképző intézményre is alkalmazni kell.”
+[^27]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
