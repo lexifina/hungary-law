@@ -1,1 +1,3 @@
-## 3. § Hatályát veszti a Rendelet 1. § (1) bekezdésében a „ , továbbá a hivatalos iratokra vonatkozó belföldi postai szolgáltatás” szövegrész.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
