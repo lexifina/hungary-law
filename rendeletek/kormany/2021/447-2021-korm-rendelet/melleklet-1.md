@@ -1,3 +1,5 @@
+## 10. §[^6]
+
 1. melléklet a 447/2021. (VII. 26.) Korm. rendelethez
 
 ## Felelősségbiztosítás mellett végezhető tevékenységek
@@ -11,3 +13,5 @@
 4. Nyomástartó berendezés javítása, karbantartása [TEÁOR'08 33.11]
 
 5. Veszélyes folyadékok és olvadékok tartályainak javítása és karbantartása [TEÁOR'08 33.11]
+
+[^6]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
