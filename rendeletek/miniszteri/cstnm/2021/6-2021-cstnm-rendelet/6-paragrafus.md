@@ -1,1 +1,3 @@
-## 5. § Az Nmr. 39. §-ában a „hasznos” szövegrész helyébe a „bútorzat nélküli hasznos” szöveg lép.
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
