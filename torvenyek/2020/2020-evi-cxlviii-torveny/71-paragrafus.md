@@ -1,8 +1,8 @@
-71. § Az Nftv.
+71. §
 
-1. 3. § (2) bekezdésében az „a Kormány” szövegrész helyébe az „az oktatásért felelős miniszter (a továbbiakban: miniszter)” szöveg,
+1.
 
-2. 4. § (4) bekezdésében az „az oktatásért felelős miniszter (a továbbiakban: miniszter)” szövegrész helyébe az „a miniszter” szöveg,
+2.
 
 3.
 
@@ -64,7 +64,7 @@
 
 32.
 
-33. 108. § 20. pontjában a „kormányrendeletben” szövegrész helyébe a „miniszter rendeletében” szöveg,
+33.
 
 34.
 
@@ -73,5 +73,3 @@
 36.
 
 37.
-
-lép.
