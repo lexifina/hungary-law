@@ -1,5 +1,3 @@
-## 5. § A szálláshely-szolgáltatási tevékenység folytatásának részletes feltételeiről és a szálláshely-üzemeltetési engedély kiadásának rendjéről szóló 239/2009. (X. 20.) Korm. rendelet (a továbbiakban: R3.) 2. §-a a következő 13a. ponttal egészül ki:
+## 5. §[^5]
 
-## (E rendelet alkalmazásában:)
-
-## „13a. szálláshely-minősítés: a Kertv. 2. § 41. pontjában meghatározott tevékenység;”
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
