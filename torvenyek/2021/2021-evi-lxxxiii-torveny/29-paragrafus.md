@@ -1,3 +1,1 @@
-29. § A szakképzésről szóló 2019. évi LXXX. törvény 109. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az együttműködési megállapodással rendelkező fenntartó jogszabályban meghatározott támogatásra jogosult az általa fenntartott szakképző intézményben ellátott szakképzési alapfeladatra vagy szakmai képzésre tekintettel. A támogatási rendszert úgy kell kialakítani, hogy az biztosítsa a fenntartó és az általa fenntartott szakképző intézmény bevételi érdekeltségének fenntartását. A támogatást az állami szakképző intézmény támogatásával azonos mértékben kell megállapítani a bevett egyház számára. A Magyar Katolikus Egyház az állami szakképző intézmény támogatásával azonos mértékű támogatásra a Magyarország és az Apostoli Szentszék között létrejött nemzetközi szerződés alapján jogosult.”
+29. §
