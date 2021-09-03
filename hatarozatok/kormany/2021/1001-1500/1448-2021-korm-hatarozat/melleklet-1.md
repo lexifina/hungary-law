@@ -6,7 +6,7 @@
 
 ## Határidő: 2021. július 31.
 
-1. melléklet az 1448/2021. (VII. 7.) Korm. határozathoz
+1. melléklet az 1448/2021. (VII. 7.) Korm. határozathoz[^1]
 
 | Sor- szám | Település | Fejlesztési projekt | Kedvezményezett | Támogatás összege (forint) | Szakpolitikai felelős |
 
@@ -100,7 +100,7 @@
 
 | 45. | Ráckeve | Ivóvíz tároló medence felújítása | Ráckeve Város Önkormányzata | 3 900 000 | belügyminiszter |
 
-| 46. | Romonya | Bölcsőde építése | Romonya Község Önkormányzata | 80 000 000 | belügyminiszter |
+| 46. | Romonya | Bölcsőde építése | Romonya Község Önkormányzata | 146 900 000 | belügyminiszter |
 
 | 47. | Sárvár | Sárvári gyógyfejlesztés előkészítése | Sárvár Város Önkormányzata | 605 000 000 | a miniszterelnök kabinetfőnöke, Magyar Turisztikai Ügynökség |
 
@@ -121,3 +121,5 @@
 | 55. | Várpalota | Idősek otthona építése | Várpalota Város Önkormányzata | 1 000 000 000 | emberi erőforrások minisztere |
 
 | 56. | Zalaegerszeg | A Zalaréti Kastély Rendezvényközpont felújításának előkészítési munkálatai | Zalaegerszeg Megyei Jogú Város Önkormányzata | 114 640 000 | Miniszterelnökséget vezető miniszter |
+
+[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja szerint módosított szöveg.
