@@ -1,6 +1,6 @@
 ## határozható meg.
 
-## 17/E. [^79] Az építésügyért, a településfejlesztésért és településrendezésért felelős miniszter előzetes véleményezési jogköre
+## 17/E. [^80] Az építésügyért, a településfejlesztésért és településrendezésért felelős miniszter előzetes véleményezési jogköre
 
 23/I. § (1) A Kormány a központi költségvetési szervek által tervezett, valamint a 23/L. § szerinti építési beruházások vázlatterveinek, építészeti-műszaki, illetve kivitelezési dokumentációnak országkép- és településképvédelmi szempontú előzetes véleményezésére (a továbbiakban: előzetes településképi vélemény kialakítása) a településfejlesztésért és településrendezésért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
 
@@ -50,4 +50,4 @@ b) helyszínrajz a telepítés, a településképbe és környezetbe illeszkedé
 
 c) az esztétikus megjelenést – tömegalakítást, színezést, anyaghasználatot, a rálátást – bemutató, továbbá a környezetbe illeszkedést és a településkép-védelmet alátámasztó valamennyi homlokzat, látványterv vagy fotómontázs.
 
-[^79]: A 17/E. alcímet (23/I–23/L. §) a 476/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^80]: A 17/E. alcímet (23/I–23/L. §) a 476/2017. (XII. 28.) Korm. rendelet 2. §-a iktatta be.

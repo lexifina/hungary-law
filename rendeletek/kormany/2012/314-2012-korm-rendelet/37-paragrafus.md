@@ -6,7 +6,7 @@
 
 (2) Az előzetes tájékoztatási szakaszt a polgármester kezdeményezi, amelyben az előzetes tájékoztatót megküldi
 
-a)[^138] a 29/A. § szerint az eljárásban érintett partnereknek,
+a)[^139] a 29/A. § szerint az eljárásban érintett partnereknek,
 
 b) a 9. mellékletben meghatározott államigazgatási szerveknek, és
 
@@ -18,7 +18,7 @@ d) a fővárosi településrendezési eszköz esetén az érintett kerületi ön
 
 (4) A tájékoztatási szakaszban, az előzetes tájékoztató átvételétől számított 21 napon (a főváros esetében 30 napon) belül, az abban foglalt elhatározással, és a rendezés alá vont területtel kapcsolatban:
 
-a)[^139] a partner a 29/A. § szerint javaslatokat, észrevételeket tesz, véleményt nyilvánít;
+a)[^140] a partner a 29/A. § szerint javaslatokat, észrevételeket tesz, véleményt nyilvánít;
 
 b) az államigazgatási szerv:
 
@@ -38,5 +38,5 @@ c) az érintett területi, települési önkormányzat tájékoztatást ad a von
 
 (7) Azt az eljárásban érintettet, aki az előzetes tájékoztatási szakaszban az (1)–(6) bekezdésnek megfelelően megküldött tájékoztatóhoz határidőn belül nem ad véleményt, nem tesz észrevételt, vagy nyilatkozik arról, hogy az eljárásban nem kíván részt venni, az eljárás további szakaszaiban nem kell értesíteni.
 
-[^138]: A 37. § (2) bekezdés a) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § g) pontja szerint módosított szöveg.
-[^139]: A 37. § (4) bekezdés a) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § h) pontja szerint módosított szöveg.
+[^139]: A 37. § (2) bekezdés a) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § g) pontja szerint módosított szöveg.
+[^140]: A 37. § (4) bekezdés a) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § h) pontja szerint módosított szöveg.

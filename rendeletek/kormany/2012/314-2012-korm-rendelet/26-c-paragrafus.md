@@ -1,4 +1,4 @@
-26/C. §[^102] (1) A polgármester a bejelentést követően, az Ákr. szerinti teljes eljárásban a településkép védelméről szóló 2016. évi LXXIV. törvényben (a továbbiakban: Tvtv.) meghatározott határidőn belül
+26/C. §[^103] (1) A polgármester a bejelentést követően, az Ákr. szerinti teljes eljárásban a településkép védelméről szóló 2016. évi LXXIV. törvényben (a továbbiakban: Tvtv.) meghatározott határidőn belül
 
 a) a tervezett építési tevékenységet, reklám és reklámhordozó elhelyezését vagy rendeltetésváltoztatást – feltétel meghatározásával vagy anélkül – tudomásul veszi, ha a bejelentés
 
@@ -18,10 +18,10 @@ bc) a tervezett rendeltetésváltozás nem felel meg a helyi építési szabály
 
 c) megszünteti az eljárást, ha a kérelem és melléklete nem felel meg a 26/B. § (2) és (3) bekezdésében meghatározott követelményeknek, vagy az eljárás okafogyottá válik.
 
-(2)[^103]
+(2)[^104]
 
-(3)[^104] Ha a rendeltetésváltozás megfelel a helyi építési szabályzatban foglalt követelményeknek, a polgármester kérelemre – az ingatlan-nyilvántartásban történő átvezetés céljából – 15 napon belül hatósági bizonyítványt állít ki az építmény, valamint az építményen belüli önálló rendeltetési egység rendeltetésének módosításáról és új rendeltetéséről, valamint az építmény rendeltetési egységei számának megváltozásáról és az új rendeltetésszámáról.
+(3)[^105] Ha a rendeltetésváltozás megfelel a helyi építési szabályzatban foglalt követelményeknek, a polgármester kérelemre – az ingatlan-nyilvántartásban történő átvezetés céljából – 15 napon belül hatósági bizonyítványt állít ki az építmény, valamint az építményen belüli önálló rendeltetési egység rendeltetésének módosításáról és új rendeltetéséről, valamint az építmény rendeltetési egységei számának megváltozásáról és az új rendeltetésszámáról.
 
-[^102]: A 26/C. § a 16/2018. (II. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^103]: A 26/C. § (2) bekezdését újonnan a 38/2020. (III. 10.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 677/2020. (XII. 28.) Korm. rendelet 33. § c) pontja.
-[^104]: A 26/C. § (3) bekezdését a 38/2020. (III. 10.) Korm. rendelet 12. §-a iktatta be, szövege a 677/2020. (XII. 28.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^103]: A 26/C. § a 16/2018. (II. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^104]: A 26/C. § (2) bekezdését újonnan a 38/2020. (III. 10.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 677/2020. (XII. 28.) Korm. rendelet 33. § c) pontja.
+[^105]: A 26/C. § (3) bekezdését a 38/2020. (III. 10.) Korm. rendelet 12. §-a iktatta be, szövege a 677/2020. (XII. 28.) Korm. rendelet 30. §-ával megállapított szöveg.

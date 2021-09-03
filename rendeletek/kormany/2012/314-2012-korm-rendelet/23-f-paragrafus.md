@@ -2,7 +2,7 @@
 
 23/F. § (1) Az egyedi építészeti követelmény a településképi rendeletben a kézikönyvben meghatározott településképi és arculati jellemzők, értékek, továbbá a településkép minőségi formálására és védelmére vonatkozó javaslatok alapján kerül meghatározásra.
 
-(2)[^74] Az egyedi építészeti követelmény a településképhez való illeszkedés biztosítására és a minőségi településkép kialakítása vagy védelme érdekében az építési tevékenységgel érintett
+(2)[^75] Az egyedi építészeti követelmény a településképhez való illeszkedés biztosítására és a minőségi településkép kialakítása vagy védelme érdekében az építési tevékenységgel érintett
 
 a) építmény
 
@@ -18,7 +18,7 @@ c) sajátos építményfajták elhelyezésének módjára
 
 ## határozható meg.
 
-(3)[^75] Az anyaghasználatra vonatkozó követelmény kiterjedhet az építmény, sajátos építményfajták építőanyagának településkaraktert befolyásoló anyagot, felületképzést vagy színt meghatározó valamely minőségi jellemzőjére.
+(3)[^76] Az anyaghasználatra vonatkozó követelmény kiterjedhet az építmény, sajátos építményfajták építőanyagának településkaraktert befolyásoló anyagot, felületképzést vagy színt meghatározó valamely minőségi jellemzőjére.
 
 (4) A tömegformálásra vonatkozó követelmény kiterjedhet az épület
 
@@ -28,7 +28,7 @@ b) tetőzet kialakítási módjának,
 
 c) tetőgerincének a telek homlokzatához képest meghatározott irányainak, és
 
-d)[^76] tetőfelépítményeivel, tetőzetet érintő nyílászáróival kapcsolatos követelmények
+d)[^77] tetőfelépítményeivel, tetőzetet érintő nyílászáróival kapcsolatos követelmények
 
 ## meghatározására.
 
@@ -40,7 +40,7 @@ b) a kiegészítő elemek, egyéb műszaki berendezések homlokzaton történő 
 
 ## meghatározására.
 
-(6)[^77] A zöldfelületek kialakítási módjára vonatkozó követelmény kiterjedhet a zöldfelületek településképet befolyásoló kialakítási módjával összefüggésben
+(6)[^78] A zöldfelületek kialakítási módjára vonatkozó követelmény kiterjedhet a zöldfelületek településképet befolyásoló kialakítási módjával összefüggésben
 
 a) a fás szárú növényfaj vagy növényfajok telepíthetőségének,
 
@@ -48,7 +48,7 @@ b) a fás szárú növényfajok településképi illeszkedési követelményeine
 
 c) a zöldfelületen elhelyezhető kerti építmények és burkolatok településképi illeszkedési követelményeinek
 
-[^74]: A 23/F. § (2) bekezdés nyitó szövegrésze a 16/2018. (II. 13.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
-[^75]: A 23/F. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
-[^76]: A 23/F. § (4) bekezdés d) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 8. pontja szerint módosított szöveg.
-[^77]: A 23/F. § (6) bekezdés nyitó szövegrésze a 16/2018. (II. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^75]: A 23/F. § (2) bekezdés nyitó szövegrésze a 16/2018. (II. 13.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^76]: A 23/F. § (3) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 7. pontja szerint módosított szöveg.
+[^77]: A 23/F. § (4) bekezdés d) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 8. pontja szerint módosított szöveg.
+[^78]: A 23/F. § (6) bekezdés nyitó szövegrésze a 16/2018. (II. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.

@@ -20,6 +20,6 @@ d) az a)–c) ponthoz kapcsolódóan az érintett földrészlet, telek egészér
 
 (6) A helyi védelem alatt álló építészeti örökségre az egyéb településképi követelmények hatálya akkor terjed ki, ha azok alkalmazási kötelezettségéről a településképi rendelet az építészeti örökség adott eleme vonatkozásában külön rendelkezik.
 
-(7)[^71] Ha a településképi rendelet a helyi egyedi védelmet megállapítja, a rendelet hatálybalépésétől számított tizenöt napon belül az önkormányzat jegyzője – a más jogszabály által fennálló egyedi védelem bejegyzése hiányában – az ingatlanügyi hatóságnál kezdeményezi a védelem jogi jellegként való feljegyzését.
+(7)[^72] Ha a településképi rendelet a helyi egyedi védelmet megállapítja, a rendelet hatálybalépésétől számított tizenöt napon belül az önkormányzat jegyzője – a más jogszabály által fennálló egyedi védelem bejegyzése hiányában – az ingatlanügyi hatóságnál kezdeményezi a védelem jogi jellegként való feljegyzését.
 
-[^71]: A 23/C. § (7) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 6. pontja szerint módosított szöveg.
+[^72]: A 23/C. § (7) bekezdése a 16/2018. (II. 13.) Korm. rendelet 14. § 6. pontja szerint módosított szöveg.

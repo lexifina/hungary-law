@@ -1,4 +1,4 @@
-## V. Fejezet[^60]
+## V. Fejezet[^61]
 
 ## A TELEPÜLÉSKÉPI KÖVETELMÉNYEK ÉS EGYES EGYÉB TELEPÜLÉSRENDEZÉSI SAJÁTOS JOGINTÉZMÉNYEK
 
@@ -16,4 +16,4 @@
 
 (6) A kézikönyv szerkeszthető – e rendeletben meghatározott egyeztetésre és külön jogszabályban meghatározottak szerinti nyilvántartásra alkalmas – digitális formátumban készül, papír formátumú dokumentálásra is alkalmas módon.
 
-[^60]: Az V. fejezet (21–27. §) a 400/2016. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^61]: Az V. fejezet (21–27. §) a 400/2016. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.

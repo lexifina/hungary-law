@@ -14,11 +14,11 @@ a) a fővárosi önkormányzat által közvetlenül igazgatott terület teljes t
 
 b) a főváros településképi szempontból meghatározó területeire
 
-ba)[^68] helyi egyedi védelmet, védelmi előírásokat és
+ba)[^69] helyi egyedi védelmet, védelmi előírásokat és
 
 bb) területi építészeti követelményt, valamint
 
-c)[^69] a főváros teljes közigazgatási területére helyi egyedi védelmet, védelmi előírásokat
+c)[^70] a főváros teljes közigazgatási területére helyi egyedi védelmet, védelmi előírásokat
 
 ## állapíthat meg.
 
@@ -28,7 +28,7 @@ c)[^69] a főváros teljes közigazgatási területére helyi egyedi védelmet, 
 
 a) a kerületi önkormányzat egyedi védelmet a főváros által megállapított helyi egyedi védelemmel érintett elemre nem,
 
-b)[^70] a fővárosi egyedi védelemmel érintett helyi építészeti örökségre a kerületi önkormányzat helyi területi védelmet, illetve településképi szempontból meghatározó területet,
+b)[^71] a fővárosi egyedi védelemmel érintett helyi építészeti örökségre a kerületi önkormányzat helyi területi védelmet, illetve településképi szempontból meghatározó területet,
 
 c) a fővárosi önkormányzat által meghatározott településképi szempontból meghatározó területre a kerületi önkormányzat az építészeti követelmények közül csak egyedi építészeti követelményt
 
@@ -36,6 +36,6 @@ c) a fővárosi önkormányzat által meghatározott településképi szempontb�
 
 (5) A kerületi településképi rendeletben meghatározott településképi követelmény a fővárosi településképi rendeletben foglalt területi építészeti követelménnyel összhangban kerülhet megállapításra.
 
-[^68]: A 23. § (2) bekezdés b) pont ba) alpontja a 16/2018. (II. 13.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
-[^69]: A 23. § (2) bekezdés c) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 5. pontja szerint módosított szöveg.
-[^70]: A 23. § (4) bekezdés b) pontja a 16/2018. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^69]: A 23. § (2) bekezdés b) pont ba) alpontja a 16/2018. (II. 13.) Korm. rendelet 14. § 4. pontja szerint módosított szöveg.
+[^70]: A 23. § (2) bekezdés c) pontja a 16/2018. (II. 13.) Korm. rendelet 14. § 5. pontja szerint módosított szöveg.
+[^71]: A 23. § (4) bekezdés b) pontja a 16/2018. (II. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
