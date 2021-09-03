@@ -24,4 +24,4 @@
 
 2. melléklet a 11/2019. (IV. 1.) AM rendelethez[^45]
 
-[^45]: A 2. melléklet a 2/2021. (II. 15.) AM rendelet 10. §-ával megállapított szöveg.
+[^45]: A 2. melléklet a 2/2021. (II. 15.) AM rendelet 10. §-ával megállapított, a 29/2021. (VIII. 31.) AM rendelet 6. § c) pontja szerint módosított szöveg.
