@@ -1,0 +1,1 @@
+A Kormány a Magyar Nemzeti Társadalmi Felzárkózási Stratégia 2030 című dokumentumban (a továbbiakban: MNTFS 2030) foglalt célkitűzések megvalósítása és a stratégiában megfogalmazott felzárkózáspolitikai elvek érvényesítése érdekében, összhangban az Európai Unió a roma népességet és a szegénység csökkentését, a társadalmi kohézió erősítését célzó szakpolitikai törekvéseivel
