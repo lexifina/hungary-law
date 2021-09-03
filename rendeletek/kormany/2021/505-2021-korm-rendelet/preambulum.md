@@ -1,0 +1,1 @@
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 25. pontjában és a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 53/A. § (1) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
