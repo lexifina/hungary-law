@@ -2,7 +2,7 @@
 
 | Projekt sorszáma | Beruházás megnevezése | A finanszírozni kívánt, a Rendelet 2. § (2) bekezdése szerinti előkészítési fázisok | Bruttó előkészítési költség (forint) | Az előkészítési fázisok megvalósításának határideje | Beruházás előkészítésének a megvalósítója | Beruházás tervezett helyszíne, a település és az utca megnevezésével | Beruházás megvalósítója és a beruházás során létrejövő építmény jövőbeni vagyonkezelője, üzemeltetője |
 
-| 1. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 31 100 000 | 2020. december 31. | Barabás Község Önkormányzata | Barabás Község, Rákóczi út, Esze Tamás utca | Barabás Község Önkormányzata |
+| 1. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 31 100 000 | 2020. december 31. | Barabás Község Önkormányzata | Barabás Község, Esze Tamás utca, Petőfi út | Barabás Község Önkormányzata |
 
 | 2. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 31 100 000 | 2020. december 31. | Tiszaadony Község Önkormányzata | Tiszaadony Község, Rákóczi Ferenc utca, Kossuth Lajos utca, Jókai Mór utca, Árpád utca, Petőfi Sándor utca, Dózsa György utca | Tiszaadony Község Önkormányzata |
 

@@ -54,4 +54,6 @@
 
 ## Határidő: 2021. január 31.
 
-1. melléklet az 1374/2019. (VI. 25.) Korm. határozathoz
+1. melléklet az 1374/2019. (VI. 25.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
