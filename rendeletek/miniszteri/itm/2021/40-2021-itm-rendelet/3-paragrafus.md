@@ -1,1 +1,3 @@
-## „(6) A Htkr. 1. melléklet 1. Fejezet a)–c) pontja szerinti tűzfegyver polgári célokra való átadása előtt biztosítani kell, hogy azon a jelölések megfeleljenek Kr.-ben és a fegyverek, lövőkészülékek, valamint ezek lőszereinek vizsgálatáról szóló 31/2006. (VI. 1.) GKM rendeletben meghatározott követelményeknek, valamint kormányzati készletekből átadott tűzfegyverek esetén az átadás pillanatában ellássák azokat az átadó szervezeti egység azonosítására alkalmas jelöléssel.”
+## 2. §[^3]
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
