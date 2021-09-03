@@ -1,4 +1,12 @@
-## Fogékony fajok esetében a koi herpesz-vírus betegség vagy egyéb betegség (…………………………….) kimutatására irányuló 1 éven belüli diagnosztikai vizsgálatok eredményközlőjének iktatószáma(i) és dátuma(i): (csatolandó a diagnosztikai vizsgálatok eredményét tartalmazó, NRL által kiállított eredményközlő másolata).
+## A halak betegségre mutató elváltozást nem mutatnak.
+
+## A gazdaságban ismeretlen eredetű megnövekedett arányú elhullás az utóbbi 30 napban nem volt.
+
+## Tudomásom szerint az állományban a koi herpesz-vírus betegség vírusát nem mutatták ki, és nem állapítottak meg e kórokozó által okozott betegséget.
+
+## Az állatokat a szállítást megelőző huszonnégy órán belül megvizsgáltam és állategészségügyi szempontból szállításra alkalmasnak találtam.
+
+## III.
 
 ## Kelt: ………………………. 20………………………………
 
@@ -10,7 +18,7 @@
 
 ## Készült: 3 példányban (eredeti példányt szállítmánnyal kell küldeni; másolati példány a származási gazdaságban marad; tőpéldány a kiállítónál marad)
 
-9. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^159]
+9. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^162]
 
 ## Állattartói nyilatkozat halak előkészítés nélkül, emberi fogyasztás céljából és emberi fogyasztást megelőző, előkészítés céljából történő belföldi forgalomba hozatalához (Élelmiszerláncra vonatkozó információ)
 
@@ -86,4 +94,4 @@ Dátum: .................................................. (érvényes: a kiáll
 
 gazdaság képviselője
 
-[^159]: A 9. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés c) pontja iktatta be, szövege a 46/2015. (VIII. 7.) FM rendelet 33. §-a szerint módosított szöveg.
+[^162]: A 9. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés c) pontja iktatta be, szövege a 46/2015. (VIII. 7.) FM rendelet 33. §-a szerint módosított szöveg.

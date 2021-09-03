@@ -108,6 +108,6 @@
 
 ## c) meghatározott betegségek vagy bármely megnövekedett mértékű pusztulás bekövetkeztének vagy gyanújának azonnali kötelező bejelentése.
 
-3. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^138]
+3. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^141]
 
-[^138]: A 3. számú melléklet az 51/2013. (VI. 17.) VM rendelet 16. §-ával megállapított, a 32/2014. (XII. 9.) FM rendelet 9. § c) pontja szerint módosított szöveg.
+[^141]: A 3. számú melléklet az 51/2013. (VI. 17.) VM rendelet 16. §-ával megállapított, a 32/2014. (XII. 9.) FM rendelet 9. § c) pontja szerint módosított szöveg.

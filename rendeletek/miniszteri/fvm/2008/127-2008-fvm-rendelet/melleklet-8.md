@@ -14,7 +14,7 @@
 
 ## A vizsgálatokat csak hiánytalanul kitöltött megrendelő esetén végezzük el. Aláírások és cégszerű megrendelés esetén bélyegzőlenyomat nélkül a vizsgálatokat az intézet nem végzi el. A megrendelést és a mellékletet kérjük 3 példányban megküldeni.
 
-8. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^158]
+8. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^161]
 
 ## Víziállat-egészségőri igazolás
 
@@ -56,14 +56,4 @@ I. A származási gazdaság
 
 II. Alulírott víziállat-egészségőr igazolom, hogy a fent megnevezett fajú halakat a 127/2008. (IX.29.) FVM rendelet alapján előzetes helyszíni szemle alapján megvizsgáltam.
 
-## A halak betegségre mutató elváltozást nem mutatnak.
-
-## A gazdaságban ismeretlen eredetű megnövekedett arányú elhullás az utóbbi 30 napban nem volt.
-
-## Tudomásom szerint az állományban a koi herpesz-vírus betegség vírusát nem mutatták ki, és nem állapítottak meg e kórokozó által okozott betegséget.
-
-## Az állatokat a szállítást megelőző huszonnégy órán belül megvizsgáltam és állategészségügyi szempontból szállításra alkalmasnak találtam.
-
-III. Csak a tenyésztett víziállatok tenyésztés, továbbtartás vagy állománypótlás céljából történő forgalomba hozatala esetén kell kitölteni!
-
-[^158]: A 8. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés b) pontja iktatta be, szövege a 46/2015. (VIII. 7.) FM rendelet 33. §-a és 35. §-a szerint módosított szöveg.
+[^161]: A 8. számú mellékletet a 32/2014. (XII. 9.) FM rendelet 8. § (31) bekezdés b) pontja iktatta be, szövege a 46/2015. (VIII. 7.) FM rendelet 33. §-a és 35. §-a, a 29/2021. (VIII. 31.) AM rendelet 2. § c) pontja szerint módosított szöveg.

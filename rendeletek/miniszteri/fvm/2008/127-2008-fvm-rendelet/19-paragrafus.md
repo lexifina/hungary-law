@@ -18,9 +18,9 @@ a) a kérdéses betegségtől mentesnek nyilvánított másik tagállamból, öv
 
 b) azokat ideiglenesen a kérdéses kórokozókat ártalmatlanító szennyvízkezelő rendszerrel felszerelt feladó központokban, tisztító központokban vagy hasonló vállalkozásoknál tárolják, vagy olyan helyen, ahol a szennyvizet a betegségeknek a természetes vizekbe történő átvitelének kockázatát elfogadható szintre csökkentő, egyéb kezelési típusoknak vetik alá.
 
-(3)[^48] A tenyésztett víziállatok emberi fogyasztást megelőző előkészítés céljából belföldön csak akkor hozhatók forgalomba, ha
+(3)[^51] A tenyésztett víziállatok emberi fogyasztást megelőző előkészítés céljából belföldön csak akkor hozhatók forgalomba, ha
 
-a)[^49] előzetes helyszíni szemle alapján a képesített víziállat-egészségőr a 8. számú melléklet szerinti víziállat-egészségőri igazolás I. és II. részének adattartalmával megegyező igazolást ad ki arról, hogy
+a)[^52] előzetes helyszíni szemle alapján a képesített víziállat-egészségőr a 8. számú melléklet szerinti víziállat-egészségőri igazolás I. és II. részének adattartalmával megegyező igazolást ad ki arról, hogy
 
 aa) az állatok betegségre mutató elváltozást nem mutatnak,
 
@@ -30,5 +30,5 @@ ac) állományában a KHV betegség vírusát nem mutatták ki, és nem állapí
 
 b) a szállítmányokat a 9. számú melléklet szerinti állattartói nyilatkozat is kíséri.
 
-[^48]: A 19. § (3) bekezdését a 32/2014. (XII. 9.) FM rendelet 8. § (19) bekezdése iktatta be.
-[^49]: A 19. § (3) bekezdés a) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 31. §-ával megállapított szöveg.
+[^51]: A 19. § (3) bekezdését a 32/2014. (XII. 9.) FM rendelet 8. § (19) bekezdése iktatta be.
+[^52]: A 19. § (3) bekezdés a) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 31. §-ával megállapított szöveg.
