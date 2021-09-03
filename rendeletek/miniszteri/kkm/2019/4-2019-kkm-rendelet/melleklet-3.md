@@ -24,7 +24,7 @@
 
 | 7 | 385517 |  |  | A koronavírus- járvány következtében szükségessé vált versenyképesség- növelő támogatás | Az előirányzat a koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatásról szóló 7/2020. (IV. 16.) KKM rendelet (a továbbiakban: VNT rendelet) alapján használható fel. | A VNT rendelet szerinti jogi személyek. | A VNT rendeletben foglaltak szerint. | A VNT rendeletben foglaltak szerint. | A VNT rendeletben foglaltak szerint. |  | A VNT rendeletben foglaltak szerint. |  | HIPA NZrt. |  |
 
-3. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^38]
+3. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^39]
 
 A XLVII. Gazdaságvédelmi Alap fejezet 2021. évi költségvetési kiadási előirányzatainak feladatterve a külügyi központi kezelésű előirányzatokra vonatkozóan
 
@@ -36,4 +36,4 @@ A XLVII. Gazdaságvédelmi Alap fejezet 2021. évi költségvetési kiadási el�
 
 | 3 | 019051 |  | Eximbank Zrt. kamatkiegyenlítése | A Magyar Export-Import Bank Részvénytársaság kamatkiegyenlítési rendszeréről szóló 85/1998. (V. 6.) Korm. rendelet alapján az előirányzat célja az Eximbank Zrt. hitelnyújtásait és követelésvásárlásait támogató kamatkiegyenlítési rendszerből eredő kifizetések teljesítése. | Eximbank Zrt. |  |  | A Magyar Államkincstár utalványa alapján a Nemzeti Adó- és Vámhivatal folyósítja. |  |  | Magyar Államkincstár |  |  |
 
-[^38]: A 3. mellékletet a 3/2021. (II. 5.) KKM rendelet 4. § c) pontja iktatta be.
+[^39]: A 3. mellékletet a 3/2021. (II. 5.) KKM rendelet 4. § c) pontja iktatta be.

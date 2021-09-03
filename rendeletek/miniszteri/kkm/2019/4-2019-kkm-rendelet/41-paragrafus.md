@@ -80,8 +80,7 @@
 
 40. a határon túli gazdaságfejlesztési programok lebonyolításában és ellenőrzésében való közreműködés,
 
-41. a miniszter által meghatározott egyéb feladatok végrehajtása
-
-a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság, valamint a közép-európai térség tekintetében a CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság útján, vagy annak közreműködésével látja el.
+41.[^33] külgazdasági támogatási programok, különösen a Külpiaci Növekedési Támogatási Program végrehajtásának szakmai támogató szervként történő segítése, valamint a miniszter által meghatározott egyéb feladatok végrehajtása
 
 [^32]: A 41. § záró szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
+[^33]: A 41. § 41. pontja a 31/2021. (VIII. 31.) KKM rendelet 33. §-ával megállapított szöveg.

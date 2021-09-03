@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-4-20-6Q
 | 2020-09-17 | 2019-4-20-6Q.5 | 14/2020. (IX. 16.) KKM rendelet |
 | 2020-12-18 | 2019-4-20-6Q.6 | 17/2020. (XII. 17.) KKM rendelet |
 | 2021-02-06 | 2019-4-20-6Q.7 | 3/2021. (II. 5.) KKM rendelet |
+| 2021-09-03 | 2019-4-20-6Q.8 | 31/2021. (VIII. 31.) KKM rendelet |

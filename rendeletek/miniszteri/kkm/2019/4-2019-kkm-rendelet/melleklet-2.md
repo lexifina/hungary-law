@@ -34,6 +34,6 @@
 
 | 12 | 386828 |  | Rendvédelmi szolgálati juttatás tartalék | Az előirányzat a rendvédelmi szolgálattal kapcsolatban nem tervezett feladatok végrehajtásának finanszírozására szolgál. |  |  |  | közvetlen kifizetéssel, előirányzat- átcsoportosítással |  |  |  |  |  |
 
-2. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^37]
+2. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^38]
 
-[^37]: A 2. melléklet a 3/2021. (II. 5.) KKM rendelet 4. § b) pontjával megállapított szöveg.
+[^38]: A 2. melléklet a 3/2021. (II. 5.) KKM rendelet 4. § b) pontjával megállapított szöveg.

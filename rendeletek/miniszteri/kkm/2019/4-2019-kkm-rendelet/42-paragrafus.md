@@ -1,0 +1,1 @@
+## a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság, valamint a közép-európai térség tekintetében a CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság útján, vagy annak közreműködésével látja el.
