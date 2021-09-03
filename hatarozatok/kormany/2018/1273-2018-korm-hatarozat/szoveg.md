@@ -34,7 +34,7 @@ Határidő: folyamatos
 
 4. A Kormány annak érdekében, hogy közvetítő szerepét kihasználva segíthesse a hazai piaci szereplők (beleértve az innovatív kis- és középvállalkozásokat is) hazai és nemzetközi szintű KFI tevékenységekben betölthető szerepének növekedését, az energiaipari és az energetikai KFI tevékenységek terén zajló hazai és nemzetközi folyamatok nyomon követése és értékelése céljából
 
-a) felhívja az innovációért és technológiáért felelős minisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Központi Statisztikai Hivatal és a Magyar Energetikai és Közmű-szabályozási Hivatal bevonásával gondoskodjon egy olyan, az állami és a privát szektorok energetikai KFI tevékenységét leíró rendszer kialakításáról és fenntartásáról, amely segíteni tudja a kormányzati szervek tájékozódását az energetikai kutatás-fejlesztési és innovációs tevékenységről, illetve az ezekre irányuló források elérhetőségéről;
+a)[^1] felhívja az innovációért és technológiáért felelős minisztert és a Miniszterelnökséget vezető minisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Központi Statisztikai Hivatal és a Magyar Energetikai és Közmű-szabályozási Hivatal bevonásával gondoskodjon egy olyan, az állami és a privát szektorok energetikai KFI tevékenységét leíró rendszer kialakításáról és fenntartásáról, amely segíteni tudja a kormányzati szervek tájékozódását az energetikai kutatás-fejlesztési és innovációs tevékenységről, illetve az ezekre irányuló források elérhetőségéről;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -42,7 +42,7 @@ Miniszterelnökséget vezető miniszter
 
 a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének felkérésével
 
-Határidő: a nyilvántartás kialakításának és – elsődleges – feltöltésének határideje 2019. május 31., majd ezt követően folyamatos aktualizálás szükséges
+Határidő: a nyilvántartás kialakításának és első feltöltésének határideje 2021. december 31., ezt követően folyamatos
 
 b) felhívja az innovációért és technológiáért felelős minisztert, a külgazdasági és külügyminisztert, valamint a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a szakpolitikai célkitűzések és az ágazat hazai szereplőinek – az 5. pont a) és b) alpontjai keretében azonosítható – nemzetközi érdekképviseletéről, valamint a nemzetközi, elsősorban az európai uniós és a Nemzetközi Energiaügynökség által megvalósításra kerülő projektekkel és együttműködési lehetőségekkel kapcsolatos információk hazai érdekeltek felé való terjesztéséről, továbbá a mindehhez szükséges munkafolyamatok és intézményi háttér hosszú távú biztosításáról.
 
@@ -56,15 +56,11 @@ Határidő: folyamatos
 
 5. Az energiaipar és energetikai KFI folyamatok hazai élénkítése érdekében a Kormány
 
-a) felhívja az innovációért és technológiáért felelős minisztert, hogy a pénzügyminiszter és az emberi erőforrások miniszterének bevonásával az energiapolitikai célkitűzésekkel összhangban lévő energiapiaci törekvések megfelelő szakemberállományának biztosítása, a szükséges szakemberképzések kialakítása érdekében vizsgálja meg az energiapiac várható szakképesítési igényeit és elvárásait, továbbá a szak- és felsőoktatás, valamint a felnőttképzés területén mindehhez szükséges átalakítások és a szükséges új képzések beazonosítását, valamint gondoskodjon az ipari szereplők és felsőoktatási intézmények együttműködését ösztönző lehetőségek feltérképezéséről és azok alkalmazásáról;
+a)[^2] felhívja az innovációért és technológiáért felelős minisztert, hogy az energiapolitikai célkitűzésekkel összhangban lévő energiapiaci törekvések megfelelő szakemberállományának biztosítása, a szükséges szakemberképzések kialakítása érdekében vizsgálja meg az energiapiac várható szakképesítési igényeit és elvárásait, továbbá a szak- és felsőoktatás, valamint a felnőttképzés területén mindehhez szükséges átalakítások és a szükséges új képzések beazonosítását, valamint gondoskodjon az ipari szereplők és felsőoktatási intézmények együttműködését ösztönző lehetőségek feltérképezéséről és azok alkalmazásáról;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
-pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: 2019. december 31., majd a szükséges átalakítások végrehajtására folyamatos
+Határidő: 2021. október 31., majd a szükséges átalakítások végrehajtására folyamatos
 
 b) felhívja a pénzügyminisztert, a Miniszterelnökséget vezető minisztert és az innovációért és technológiáért felelős minisztert, hogy háttérintézményeikkel együttműködve biztosítsák egyrészt az EKFICsT prioritásainak és a kapcsolódó KFI tevékenységeknek valamennyi releváns területen történő hangsúlyos kezelését a 2020 után várhatóan rendelkezésre álló uniós fejlesztési források tervezése során, másrészt gondoskodjanak az energiatechnológiai prioritásokat és a kapcsolódó KFI tevékenységeket figyelembe vevő hazai pénzügyi és egyéb támogató eszközök kialakításáról.
 
@@ -76,36 +72,11 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
-6. A Kormány az államnak az energiaiparban betöltött moderátori szerepének növelése érdekében az EKFICsT-ben foglalt intézkedések végrehajtásának (előkészítéstől a végső fázisig) és időszakos értékelésének biztosítása, valamint a szakterületi szereplők (államigazgatási szervek, állami intézetek és vállalatok, illetve egyéb iparági szereplők) közötti információtranszfer javítása, együttműködéseinek növelése, az európai uniós szakpolitikai érdekképviselet támogatása, továbbá az energiapolitikai célokat segítő központi finanszírozású uniós támogatások – mint például a Horizont 2020, a CEF, LIFE vagy a COSME források – és uniós társfinanszírozással megvalósuló programok magasabb szintű kiaknázása, illetve a szakterületi előrejelzésekkel, foresightokkal kapcsolatos információk hatékonyabb megszerzése és átadása céljából
+6.[^3]
 
-a) felhívja az innovációért és technológiáért felelős minisztert, hogy gondoskodjon az EKFICsT megvalósítását segítő munkacsoport (a továbbiakban: munkacsoport) létrehozásáról;
+7.[^4]
 
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2018. december 31.
-
-b) felhívja a Miniszterelnökséget vezető minisztert, a pénzügyminisztert, az emberi erőforrások miniszterét, valamint a külgazdasági és külügyminisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal és az energetikai kutatás-fejlesztésben kiemelten fontos további érintettek (felsőoktatási és kutatóintézetek, vállalatok) bevonásával rendszeresen gondoskodjon a munkacsoportban való állandó képviselet és aktivitás folyamatos biztosításáról.
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-pénzügyminiszter
-
-emberi erőforrások minisztere
-
-külgazdasági és külügyminiszter
-
-Határidő: folyamatos
-
-7. Az EKFICsT végrehajtásának és a szakpolitikai támogatások eredményeinek nyomon követése, továbbá a megfelelő szakpolitikai támogatás hosszú távú garantálása érdekében a Kormány felhívja az innovációért és technológiáért felelős minisztert, hogy
-
-a) kövesse nyomon az EKFICsT-ben foglaltak végrehajtását, arról rendszeresen, de legalább kétévente egyszer tájékoztassa a Kormányt, és szükség esetén kezdeményezze annak módosítását;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: folyamatos
-
-b) gondoskodjon az EKFICsT ötévente történő felülvizsgálatáról.
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2023. december 31., utána ötévente folyamatosan
+[^1]: A 4. pont a) alpontja az 1620/2021. (IX. 3.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: Az 5. pont a) alpontja az 1620/2021. (IX. 3.) Korm. határozat 5. pontjával megállapított szöveg.
+[^3]: A 6. pontot az 1620/2021. (IX. 3.) Korm. határozat 6. pontja visszavonta.
+[^4]: A 7. pontot az 1620/2021. (IX. 3.) Korm. határozat 6. pontja visszavonta.
