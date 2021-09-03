@@ -1,3 +1,5 @@
-## 1. § Az egyetemes elektronikus hírközlési szolgáltatás nyújtásával kapcsolatos részletes szabályokról szóló 19/2020. (XII. 18.) NMHH rendelet 45. § (1) bekezdésében a „2021. augusztus 31-ig” szövegrész helyébe a „2022. június 30-ig” szöveg lép.
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
