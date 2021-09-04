@@ -1,9 +1,3 @@
-## lép.
+## 1. §[^2]
 
-## 2. § Hatályát veszti a 127/2008. (IX. 29.) FVM rendelet
-
-a) 10. § (6) bekezdésében az „a koi herpesz-vírus betegség (a továbbiakban: KHV),” szövegrész,
-
-b) 16. § (1) bekezdésének b) pontja és
-
-c) 8. számú mellékletének III. pontja.
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

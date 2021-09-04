@@ -1,7 +1,3 @@
-## 3. § A pénzügyi fegyelem alkalmazásából eredő visszatérítésről szóló 51/2015. (IX. 7.) FM rendelet [a továbbiakban: 51/2015. (IX. 7.) FM rendelet] 6. §-a a következő i) ponttal egészül ki:
+## 3. §[^4]
 
-## (Ez a rendelet)
-
-## „i) az 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkének (5) bekezdése értelmében a 2020-as pénzügyi évről átvitt előirányzatok visszatérítéséről szóló, 2020. november 25-i (EU) 2020/1769 bizottsági végrehajtási rendelet”
-
-## (végrehajtásához szükséges rendelkezéseket állapít meg.)
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
