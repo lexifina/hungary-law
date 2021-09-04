@@ -24,8 +24,11 @@
 
 ## f) egyetért azzal, hogy a belügyminiszter az e) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett önkormányzatok számára.
 
-## 2. A belvízzel halmozottan sújtott Szabolcs-Szatmár-Bereg megyei települések csapadékvíz-gazdálkodását segítő beruházások előkészítési, tervezési feladataihoz szükséges forrás biztosításáról szóló 1374/2019. (VI. 25.) Korm. határozat 1. mellékletében foglalt táblázat „Beruházás tervezett helyszíne, a település és az utca megnevezésével” oszlop 1. sorában a „Barabás Község, Rákóczi út, Esze Tamás utca” szövegrész helyébe a „Barabás Község, Esze Tamás utca, Petőfi út” szöveg lép.
+## 2.[^1]
 
-## 3. A Korm. határozat 1. mellékletében foglalt táblázat „Támogatás összege (forint)” oszlop 46. sorában a „80 000 000” szövegrész helyébe a „146 900 000” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1625/2021. (IX. 3.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
