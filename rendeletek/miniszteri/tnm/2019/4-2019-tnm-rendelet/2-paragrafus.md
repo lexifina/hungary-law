@@ -1,4 +1,4 @@
-2. § (1) Az ösztöndíjra vonatkozó pályázati felhívást a miniszter – legkésőbb minden tanév utolsó napjáig – közzéteszi a honlapján.
+2. § (1)[^2] Az ösztöndíjra vonatkozó pályázati felhívást a miniszter – legkésőbb minden tanév utolsó napját megelőző 60 napon belül – közzéteszi a honlapján.
 
 (2) A pályázati felhívás tartalmazza a pályázaton részvételre jogosultak körét, az ösztöndíj megállapításának és folyósításának jelen rendeletben meghatározott feltételeit, a pályázat során benyújtandó dokumentumok körét, valamint a benyújtás és a szerződéskötés határidejét. A pályázat benyújtásának határideje a meghirdetést követő harmincadik nap.
 
@@ -36,4 +36,7 @@ b) az e rendeletben és a pályázati kiírásban meghatározott feltételeknek 
 
 (9) A tanuló a tanulói jogviszony alatt tett rendes érettségi vizsgát megelőző két tanévben részesül ösztöndíjban.
 
-(10) Ösztöndíjban középfokú iskolánként négy, ezen belül évfolyamonként két tanuló részesülhet.
+(10)[^3] Ösztöndíjban középfokú iskolánként legfeljebb tizenkettő, ezen belül évfolyamonként legfeljebb hat tanuló részesülhet.
+
+[^2]: A 2. § (1) bekezdése a 3/2021. (IX. 3.) TNM rendelet 3. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (10) bekezdése a 3/2021. (IX. 3.) TNM rendelet 1. §-ával megállapított szöveg.
