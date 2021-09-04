@@ -1,4 +1,4 @@
-44. § (1)[^19] Az országos telefonos ügyfélszolgálat az ügyfelek részére az alábbi szolgáltatásokat nyújtja:
+44. § (1)[^20] Az országos telefonos ügyfélszolgálat az ügyfelek részére az alábbi szolgáltatásokat nyújtja:
 
 a) elektronikus ügyintézés támogatása;
 
@@ -12,7 +12,7 @@ c) az Ügyfélkapu-regisztrációval már rendelkező felhasználó részére a 
 
 d) egyéb jogszabályban meghatározott szolgáltatások.
 
-(2)[^20] Az országos telefonos ügyfélszolgálat – a működtetője, és az ügyben feladat- és hatáskörrel rendelkező szerv által kötött megállapodása alapján – a következő szolgáltatásokat nyújthatja:
+(2)[^21] Az országos telefonos ügyfélszolgálat – a működtetője, és az ügyben feladat- és hatáskörrel rendelkező szerv által kötött megállapodása alapján – a következő szolgáltatásokat nyújthatja:
 
 a) központi időpontfoglalás biztosítása;
 
@@ -26,7 +26,7 @@ c) egyedi hatósági ügyekben a folyamatban lévő ügy aktuális állapotával
 
 (3) Az országos telefonos ügyfélszolgálat közigazgatási hatósági jogkör ellátására jogosult a (2) bekezdés b) és c) pontja vonatkozásában.
 
-(4)[^21] Ha az (1) és (2) bekezdésben meghatározott feladatok teljesítése során az ügyfél olyan bejelentést tesz, amely a panaszokról és közérdekű bejelentésekről szóló törvény szerinti panasznak minősül, az az országos telefonos ügyfélszolgálat rendszerében kerül rögzítésre, kezelése a törvény rendelkezései szerint történik, továbbítását az érintett szervhez és erről az ügyfél értesítését az országos telefonos ügyfélszolgálatot működtető szerv ügyintézője is elláthatja.
+(4)[^22] Ha az (1) és (2) bekezdésben meghatározott feladatok teljesítése során az ügyfél olyan bejelentést tesz, amely a panaszokról és közérdekű bejelentésekről szóló törvény szerinti panasznak minősül, az az országos telefonos ügyfélszolgálat rendszerében kerül rögzítésre, kezelése a törvény rendelkezései szerint történik, továbbítását az érintett szervhez és erről az ügyfél értesítését az országos telefonos ügyfélszolgálatot működtető szerv ügyintézője is elláthatja.
 
 (5) Az országos telefonos ügyfélszolgálat az (1) bekezdés b) pontja szerinti tájékoztatás keretében – ha a feladat- és határkörrel rendelkező szervvel erről megállapodott –
 
@@ -34,9 +34,9 @@ a) a hívást a feladat- és határkörrel rendelkező szerv telefonos ügyféls
 
 b) kezdeményezheti, hogy a feladat- és hatáskörrel rendelkező szerv az ügyfelet visszahívja.
 
-(6)[^22] A feladat- és hatáskörrel rendelkező szerv a működtetővel a (2) bekezdés szerinti megállapodást csak a feladat- és hatáskörrel rendelkező szerv felügyeletét vagy irányítását ellátó szerv jóváhagyásával kötheti meg.
+(6)[^23] A feladat- és hatáskörrel rendelkező szerv a működtetővel a (2) bekezdés szerinti megállapodást csak a feladat- és hatáskörrel rendelkező szerv felügyeletét vagy irányítását ellátó szerv jóváhagyásával kötheti meg.
 
-[^19]: A 44. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 87. §-ával megállapított szöveg.
-[^20]: A 44. § (2) bekezdés nyitó szövegrésze a 179/2018. (X. 2.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
-[^21]: A 44. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
-[^22]: A 44. § (6) bekezdése a 179/2018. (X. 2.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^20]: A 44. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 87. §-ával megállapított szöveg.
+[^21]: A 44. § (2) bekezdés nyitó szövegrésze a 179/2018. (X. 2.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^22]: A 44. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
+[^23]: A 44. § (6) bekezdése a 179/2018. (X. 2.) Korm. rendelet 8. §-ával megállapított szöveg.

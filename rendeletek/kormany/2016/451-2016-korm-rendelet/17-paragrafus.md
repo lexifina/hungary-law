@@ -1,5 +1,3 @@
-## 16. § A 12. § (3) bekezdésében foglalt eset kivételével, valamint ha jogszabály eltérően nem rendelkezik, több nyilatkozattevő nyilatkozatát tartalmazó dokumentum akkor tekinthető hitelesnek, ha a 12. és 13. § rendelkezéseinek alkalmazásával azt valamennyi nyilatkozattevő hitelesítette, vagy azt valamennyi nyilatkozattevő tekintetében hitelesítették.
-
 ## 8. Beadványok formátumai
 
 17. § (1) Az elektronikus ügyintézést biztosító szerv az ebben az alcímben foglalt rendelkezések és a rá vonatkozó jogszabályok alapján határozza meg, hogy – az 1. mellékletben meghatározott, kötelezően elfogadandó – formátumokon túlmenően az elektronikus kapcsolattartás keretében milyen formátumú elektronikus dokumentumokat fogad el.

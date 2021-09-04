@@ -1,4 +1,4 @@
-53. §[^30] (1) Az E-ügyintézési tv. 27. § (2) bekezdése szerinti előre tervezett – üzemszünetet vagy az elektronikus ügyintézés korlátozott működőképességét okozó – technikai tevékenységre vonatkozó tájékoztatást a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, vagy ha a technikai tevékenység kizárólag az elektronikus ügyintézést biztosító szerv működési körébe esik, az elektronikus ügyintézést biztosító szerv a személyre szabott ügyintézési felületen, valamint saját honlapján köteles a technikai tevékenység tervezett kezdő időpontja előtt 3 nappal közzétenni, továbbá arról értesíteni a felügyeletet. A tájékoztatásban fel kell tüntetni:
+53. §[^31] (1) Az E-ügyintézési tv. 27. § (2) bekezdése szerinti előre tervezett – üzemszünetet vagy az elektronikus ügyintézés korlátozott működőképességét okozó – technikai tevékenységre vonatkozó tájékoztatást a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, vagy ha a technikai tevékenység kizárólag az elektronikus ügyintézést biztosító szerv működési körébe esik, az elektronikus ügyintézést biztosító szerv a személyre szabott ügyintézési felületen, valamint saját honlapján köteles a technikai tevékenység tervezett kezdő időpontja előtt 3 nappal közzétenni, továbbá arról értesíteni a felügyeletet. A tájékoztatásban fel kell tüntetni:
 
 a) a technikai tevékenység tervezett kezdő és záró időpontját (nap, óra, perc pontossággal),
 
@@ -18,4 +18,4 @@ c) ha az elektronikus ügyintézés más elektronikus felületen is elérhető, 
 
 (3) A szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, valamint az elektronikus ügyintézést biztosító szerv az elvégzett (1) bekezdés szerinti tevékenységről, valamint a (2) bekezdés szerinti üzemzavarról szóló nyilvántartást a személyre szabott ügyintézési felületen és a saját honlapján is hozzáférhetővé teszi. A nyilvántartásnak tartalmaznia kell a technikai tevékenység, illetve az üzemzavar pontos időpontját és időtartamát, továbbá a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, valamint az elektronikus ügyintézést biztosító szerv által kiadott tájékoztatást.
 
-[^30]: Az 53. § a 179/2018. (X. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^31]: Az 53. § a 179/2018. (X. 2.) Korm. rendelet 9. §-ával megállapított szöveg.

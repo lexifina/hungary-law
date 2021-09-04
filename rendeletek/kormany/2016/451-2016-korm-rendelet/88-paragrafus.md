@@ -2,7 +2,7 @@
 
 88. § (1) Az E-ügyintézési tv. 35. § (3) bekezdése szerint a biztonságos kézbesítési szolgáltatási címnek minősülő, a KÜNY-regisztrációhoz kapcsolódó tárhely szolgáltatás kijelölt szolgáltatója az ügyfél részére a biztonságos kézbesítési szolgáltatáshoz kötődő tárhelyet biztosít. Vélelmezni kell, hogy a KÜNY-tárhelyről érkező küldemény feladója a KÜNY-ben szereplő, a tárhely használatára jogosult természetes személy.
 
-(1a)[^67] Ha a felhasználó a KASZ-ra történő regisztrációkor nem igényelt KÜNY-tárhelyet, azt utólagosan, KASZ-szal történő azonosítás útján, elektronikus levelezési címe megadásával elektronikusan is igényelheti.
+(1a)[^68] Ha a felhasználó a KASZ-ra történő regisztrációkor nem igényelt KÜNY-tárhelyet, azt utólagosan, KASZ-szal történő azonosítás útján, elektronikus levelezési címe megadásával elektronikusan is igényelheti.
 
 (2) Ha az ügyfél a Kormány által kötelezően biztosítandó azonosítási szolgáltatásokra vonatozó valamennyi regisztrációját megszünteti, a szolgáltató felfüggeszti a szolgáltatás nyújtását mindaddig, amíg az ügyfél ismételten regisztrál valamely Kormány által kötelezően biztosítandó azonosítási szolgáltatásra.
 
@@ -10,7 +10,7 @@
 
 a) ha megállapítja, hogy a tárhely üres, haladéktalanul megszünteti a tárhelyet, és erről a felhasználót tájékoztatja;
 
-b)[^68] ha a tárhely nem üres, a szolgáltató haladéktalanul figyelmeztető üzenetet küld a felhasználó hivatalos elérhetőségére, melyben 5 munkanapos határidővel kéri a tárhely kiürítését. E határidő leteltével megszünteti a tárhelyet.
+b)[^69] ha a tárhely nem üres, a szolgáltató haladéktalanul figyelmeztető üzenetet küld a felhasználó hivatalos elérhetőségére, melyben 5 munkanapos határidővel kéri a tárhely kiürítését. E határidő leteltével megszünteti a tárhelyet.
 
 (4) A megszüntetésre kerülő tárhelyen tárolt adatokat a szolgáltató helyreállíthatatlan módon törli.
 
@@ -24,5 +24,5 @@ b)[^68] ha a tárhely nem üres, a szolgáltató haladéktalanul figyelmeztető 
 
 (9) A szolgáltató a hagyatékátadás jogerőre emelkedésétől számított 1 évig őrzi meg a dokumentumokat, melyeket az örökös kérelmére, e jogosultságának igazolását követően bocsátja rendelkezésére. Ha a hagyatékátadó végzés jogerőre emelkedésétől számított 1 éven belül a szolgáltatóhoz nem érkezik ilyen kérelem, a szolgáltató gondoskodik a korábban a tárhelyről letárolt dokumentumok helyreállíthatatlan módon való törléséről.
 
-[^67]: A 88. § (1a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 96. §-a iktatta be.
-[^68]: A 88. § (3) bekezdés b) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^68]: A 88. § (1a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 96. §-a iktatta be.
+[^69]: A 88. § (3) bekezdés b) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.

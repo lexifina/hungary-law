@@ -4,7 +4,7 @@
 
 (2) A tájékoztatást a tájékoztatás tartalmától függően legalább az alábbi kormányzati honlapokon kell közzétenni:
 
-a)[^14] a magyarorszag.hu honlapon az elektronikusan intézhető ügyekhez kapcsolódó szolgáltatások összesített listáját, valamint az elektronikusan intézhető ügyekre vonatkozó tájékoztatást magyar és angol nyelven, az üzemszünetet vagy az elektronikus ügyintézés korlátozott működőképességét okozó technikai tevékenységre vonatkozó tájékoztatást, az elektronikus fizetési és elszámolási rendszerhez (a továbbiakban: EFER) csatlakozott fizetési megoldás szolgáltatók listáját, az általuk nyújtott szolgáltatásokat és az EFER csatlakozáshoz a fizetési megoldás szolgáltatók számára közzétett technikai feltételrendszert,
+a)[^15] a magyarorszag.hu honlapon az elektronikusan intézhető ügyekhez kapcsolódó szolgáltatások összesített listáját, valamint az elektronikusan intézhető ügyekre vonatkozó tájékoztatást magyar és angol nyelven, az üzemszünetet vagy az elektronikus ügyintézés korlátozott működőképességét okozó technikai tevékenységre vonatkozó tájékoztatást, az elektronikus fizetési és elszámolási rendszerhez (a továbbiakban: EFER) csatlakozott fizetési megoldás szolgáltatók listáját, az általuk nyújtott szolgáltatásokat és az EFER csatlakozáshoz a fizetési megoldás szolgáltatók számára közzétett technikai feltételrendszert,
 
 b) a kormany.hu honlapon a kormányzati szintű hivatali tájékoztatást, amely elsősorban nem ügyintézéshez kötődő információ,
 
@@ -16,4 +16,4 @@ c) a kormanyablak.hu honlapon az ott közvetlenül intézhető elektronikus ügy
 
 (5) A (2) bekezdés szerinti tájékoztatási felületen kívül elektronikus ügyintézésre vonatkozó tájékoztatás csak a (2) bekezdés szerinti tájékoztatási felületeken elérhető tájékoztatással azonos tartalom garantálása mellett tehető elérhetővé.
 
-[^14]: A 34. § (2) bekezdés a) pontja a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^15]: A 34. § (2) bekezdés a) pontja a 6/2020. (I. 31.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
