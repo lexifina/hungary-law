@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-86-20-2
 | 2021-01-01 | 2019-86-20-22.17 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2021-02-01 | 2019-86-20-22.18 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-07-01 | 2019-86-20-22.19 | 375/2021. (VI. 30.) Korm. rendelet |
+| 2021-09-04 | 2019-86-20-22.20 | 512/2021. (IX. 3.) Korm. rendelet |
