@@ -40,54 +40,18 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. október 31., azt követően évente
 
-2. Az új Nemzeti Energiastratégia megalapozását szolgáló döntésekről szóló 1772/2018. (XII. 21.) Korm. határozat [a továbbiakban: 1772/2018. (XII. 21.) Korm. határozat] 2. pont 2.3. alpontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány
+3.[^2]
 
-felhívja az innovációért és technológiáért felelős minisztert, hogy az új Nemzeti Energiastratégia megalapozását szolgáló intézkedések részeként)
+4.[^3]
 
-„2.3. a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával a gazdaságossági, környezetvédelmi, egészségmegőrzési, valamint az energia-hatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-ei 2012/27/EU európai parlamenti és tanácsi irányelv (a továbbiakban: EED irányelv) szerinti szempontokat is figyelembe véve tegye meg a szükséges intézkedéseket a hazai lakossági fűtés felmérésére és átalakítására annak érdekében, hogy a társadalmi összköltség alapján legkedvezőbb fűtési és infrastrukturális megoldások valósuljanak meg az egyedi kedvezőtlenebb párhuzamos infrastruktúrák fokozatos kivezetésével, valamint tegye meg a szükséges intézkedéseket az alacsony kihasználtságú és ellátásbiztonsági szempontból korlátozott hozzáadott értékű, párhuzamosan kiépített infrastruktúra elemek (távhő, földgáz és villamos energia) felmérésére és kivezetésére a magyarországi energetikai rendszerekből;
+5.[^4]
 
-Felelős: innovációért és technológiáért felelős miniszter
+6.[^5]
 
-nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-Határidő: 2024. december 31.”
-
-3. Az 1772/2018. (XII. 21.) Korm. határozat 2. pont 2.6. alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány
-
-felhívja az innovációért és technológiáért felelős minisztert, hogy az új Nemzeti Energiastratégia megalapozását szolgáló intézkedések részeként)
-
-„2.6. dolgozzon ki szakpolitikai programot az EED irányelv szerinti hatékony távhőről, amely a fogyasztók számára lehetővé teszi a hosszú távon is megfizethető, környezetbarát és magas ellátásbiztonsági szintet garantáló távhőszolgáltatás igénybevételét;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2022. szeptember 30.”
-
-4. Az Energetikai Iparfejlesztési és KFI Cselekvési Tervről szóló 1273/2018. (VI. 15.) Korm. határozat [a továbbiakban: 1273/2018. (VI. 15.) Korm. határozat] 4. pont a) alpontja helyébe a következő rendelkezés lép:
-
-[A Kormány annak érdekében, hogy közvetítő szerepét kihasználva segíthesse a hazai piaci szereplők (beleértve az innovatív kis- és középvállalkozásokat is) hazai és nemzetközi szintű KFI tevékenységekben betölthető szerepének növekedését, az energiaipari és az energetikai KFI tevékenységek terén zajló hazai és nemzetközi folyamatok nyomon követése és értékelése céljából]
-
-„a) felhívja az innovációért és technológiáért felelős minisztert és a Miniszterelnökséget vezető minisztert, hogy a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, a Központi Statisztikai Hivatal és a Magyar Energetikai és Közmű-szabályozási Hivatal bevonásával gondoskodjon egy olyan, az állami és a privát szektorok energetikai KFI tevékenységét leíró rendszer kialakításáról és fenntartásáról, amely segíteni tudja a kormányzati szervek tájékozódását az energetikai kutatás-fejlesztési és innovációs tevékenységről, illetve az ezekre irányuló források elérhetőségéről;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Miniszterelnökséget vezető miniszter
-
-a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének felkérésével
-
-Határidő: a nyilvántartás kialakításának és első feltöltésének határideje 2021. december 31., ezt követően folyamatos”
-
-5. Az 1273/2018. (VI. 15.) Korm. határozat 5. pont a) alpontja helyébe a következő rendelkezés lép:
-
-(Az energiaipar és energetikai KFI folyamatok hazai élénkítése érdekében a Kormány)
-
-„a) felhívja az innovációért és technológiáért felelős minisztert, hogy az energiapolitikai célkitűzésekkel összhangban lévő energiapiaci törekvések megfelelő szakemberállományának biztosítása, a szükséges szakemberképzések kialakítása érdekében vizsgálja meg az energiapiac várható szakképesítési igényeit és elvárásait, továbbá a szak- és felsőoktatás, valamint a felnőttképzés területén mindehhez szükséges átalakítások és a szükséges új képzések beazonosítását, valamint gondoskodjon az ipari szereplők és felsőoktatási intézmények együttműködését ösztönző lehetőségek feltérképezéséről és azok alkalmazásáról;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2021. október 31., majd a szükséges átalakítások végrehajtására folyamatos”
-
-6. A Kormány visszavonja az 1273/2018. (VI. 15.) Korm. határozat 6. és 7. pontját.
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
