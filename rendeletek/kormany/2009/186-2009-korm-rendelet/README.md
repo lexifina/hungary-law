@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-186-20-
 | --- | --- | --- |
 | 2009-10-01 | 2009-186-20-22.1 | 186/2009. (IX. 10.) Korm rendelet |
 | 2011-01-01 | 2009-186-20-22.2 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2021-09-05 | 2009-186-20-22.3 | 464/2021. (VIII. 5.) Korm. rendelet |
