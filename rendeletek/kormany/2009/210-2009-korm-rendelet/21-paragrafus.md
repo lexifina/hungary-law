@@ -2,6 +2,6 @@
 
 (2) A melegkonyhás vendéglátó üzlet kivételével tilos szeszes italt kimérni nevelési-oktatási, egészségügyi, gyermek- és ifjúságvédelmi intézmény bármely bejáratától számított 200 méteres közúti (közterületi) távolságon belül.
 
-(3)[^50] A (2) bekezdésben megjelölt intézmények napi működési idejének lejárta után történő szeszes ital kimérést a jegyző – a kimérés helye szerint illetékes rendőrkapitányság, valamint az állami adó- és vámhatóság előzetes írásbeli véleményének figyelembevételével – engedélyezheti.
+(3)[^51] A (2) bekezdésben megjelölt intézmények napi működési idejének lejárta után történő szeszes ital kimérést a jegyző – a kimérés helye szerint illetékes rendőrkapitányság, valamint az állami adó- és vámhatóság előzetes írásbeli véleményének figyelembevételével – engedélyezheti.
 
-[^50]: A 21. § (3) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^51]: A 21. § (3) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.

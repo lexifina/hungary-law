@@ -6,6 +6,6 @@
 
 (4) A (3) bekezdéstől eltérően a bejelentésköteles vagy külön engedélyhez kötött kereskedelmi tevékenység esetén a kereskedő ilyen irányú – a bejelentéssel egyidejűleg megtett – kérelmére a jegyző a kereskedő által használni kívánt első vásárlók könyvét az üzlet nyilvántartásba vételével a vásárlók könyve használatba vételének bejelentett időpontjától, mint használatba vételi időponttól hitelesíti. Ebben az esetben a használatba vétel időpontját az üzletet üzemeltető kereskedő cégszerű aláírásával és bélyegzőlenyomatával igazolja.
 
-(5)[^51] A kereskedelmi tevékenység ellenőrzésére jogosult hatóságok három évre visszamenőleg vizsgálhatják a vásárlók könyvébe tett bejegyzéseket, valamint az írásbeli vásárlói panaszra adott válasz másodpéldányát.
+(5)[^52] A kereskedelmi tevékenység ellenőrzésére jogosult hatóságok három évre visszamenőleg vizsgálhatják a vásárlók könyvébe tett bejegyzéseket, valamint az írásbeli vásárlói panaszra adott válasz másodpéldányát.
 
-[^51]: A 25. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^52]: A 25. § (5) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 24. §-a szerint módosított szöveg.
