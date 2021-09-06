@@ -1,5 +1,3 @@
-## Tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzéke, kódja, valamint az elszámolásra jogosult intézetek köre
-
 | 1. 01000 Gerinc belső fixációs implantátum |
 
 | Elszámolásra jogosult intézetek: |

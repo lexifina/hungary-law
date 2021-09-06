@@ -14,7 +14,7 @@ c) a szakmai kollégium, vagy
 
 d) a saját
 
-## kezdeményezésére a NEAK végzi.
+kezdeményezésére a NEAK végzi.
 
 (5) Az adott egészségügyi szolgáltatóra vonatkozó intézményi kvóta módosításánál figyelembe kell venni a már adott kezelésben részesülő betegek további folyamatos ellátásának biztosítását.
 

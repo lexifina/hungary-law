@@ -10,7 +10,7 @@ a) J0 ellátási szintű laboratóriumokból jelenthető eljárások jegyzékét
 
 b)[^52]
 
-## tartalmazza.
+tartalmazza.
 
 (5)[^53] Nem számolhatók el teljesítményként az adott rendelésen a havi összesített rendelési időt meghaladóan végzett tevékenységek abban az esetben, ha a rendelésen nyújtott – a járóbeteg-szakellátás egyes tevékenységeinek minimális ellátási idejéről szóló 17. számú melléklet szerint, illetve az ott meghatározottak hiányában legalább 2 perc ellátási idő alapján számított – összesített havi ellátási idő meghaladja a tárgyhavi rendelési időt.
 
