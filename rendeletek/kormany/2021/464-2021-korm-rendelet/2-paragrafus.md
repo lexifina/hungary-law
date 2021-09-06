@@ -1,3 +1,3 @@
-## 1. § A bejelentésköteles szolgáltatási tevékenységek tekintetében a bejelentés elmulasztása esetén fizetendő bírságról, továbbá a szolgáltatás felügyeletét ellátó hatóságok általános kijelöléséről szóló 186/2009. (IX. 10.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „(1) A bírság összege az adott szolgáltatási tevékenység bejelentésére előírt igazgatási szolgáltatási díj hússzorosának megfelelő összeg, de legfeljebb ötvenezer forint. Ha az adott szolgáltatási tevékenység bejelentése közteherfizetési kötelezettség alá nem eső eljárásnak vagy igazgatási jellegű szolgáltatásnak minősül, a bírság összegének számítása alapjául kétezer-ötszáz forint összeget kell figyelembe venni.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 3. § A Korm. rendelet a következő 6. §-sal egészül ki:
+## 3. §[^3]
 
-## „6. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
