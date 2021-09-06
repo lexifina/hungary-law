@@ -188,6 +188,8 @@
 
 | 6. | Pannon Reprodukciós Intézet Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság | 19-09-505155 | 2022. december 31. |
 
+| 7. | Róbert Károly Meddőségi Centrum Korlátolt Felelősségű Társaság | 01-09-381773 | 2022. december 31. |
+
 ## XXI. Tulajdonosi joggyakorló: a Nemzeti Szociálpolitikai Intézet
 
 |  | A | B | C |
