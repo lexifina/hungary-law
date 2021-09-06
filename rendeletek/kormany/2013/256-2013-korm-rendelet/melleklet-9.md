@@ -1,5 +1,3 @@
-## Egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése (Ft/hó, bruttó)
-
 | SZINT | ÉVEK | EGYÉB, NEM EGÉSZSÉGÜGYI FŐISKOLAI VÉGZETTSÉGGEL RENDELKEZŐ EGÉSZSÉGÜGYI DOLGOZÓK ILLETMÉNY- VAGY BÉRNÖVELÉS FIZETÉSI OSZTÁLYOK |
 
 | F | G | H |
@@ -38,9 +36,9 @@
 
 | 17 | 49–51 | 266 929 | 281 798 | 315 194 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^98]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^99]
 
-## Az egészségügyi szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
+Az egészségügyi szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
 
 1. Az Eszjtv. 8. § (3) bekezdés szerinti járóbeteg- és fekvőbeteg-szakellátásban részt vevő orvosok, a fogorvosok, gyógyszerészek nem egészségügyi egyetemi végzettségű egészségügyi dolgozók bértámogatása, a kifizetőt terhelő közterhek nélkül (Ft/hó)
 
@@ -90,4 +88,4 @@
 
 | 11. | 41– év | 651 248 Ft | 1 403 695 Ft |
 
-[^98]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 70/2021. (II. 19.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^99]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 70/2021. (II. 19.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

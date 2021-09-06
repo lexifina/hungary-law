@@ -1,3 +1,3 @@
-## 11/I. §[^57]
+11/J. §[^58]
 
-[^57]: A 11/I. §-t a 287/2018. (XII. 21.) Korm. rendelet 30. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
+[^58]: A 11/J. §-t a 328/2019. (XII. 20.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.

@@ -1,5 +1,3 @@
-## Egészségügyi szakdolgozók, egyes egészségügyben dolgozók, valamint védőnők illetmény-, illetve bértáblája (Ft/hó, bruttó)
-
 | SZINT | ÉVEK | EGÉSZSÉGÜGYI SZAKDOLGOZÓK, EGYES EGÉSZSÉGÜGYBEN DOLGOZÓK, VALAMINT VÉDŐNŐK BÉRTÁBLA FIZETÉSI OSZTÁLYOK |
 
 | A | B | C | D | E | F | G | H | I | J |
@@ -38,6 +36,8 @@
 
 | 17 | 49–51 | 241 275 | 276 961 | 303 486 | 329 437 | 405 016 | 526 439 | 555 960 | 617 571 | 644 175 | 707 360 |
 
-8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^97]
+8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^98]
 
-[^97]: A 8. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (4) bekezdés b) pontjával megállapított szöveg.
+Egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése (Ft/hó, bruttó)
+
+[^98]: A 8. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (4) bekezdés b) pontjával megállapított szöveg.

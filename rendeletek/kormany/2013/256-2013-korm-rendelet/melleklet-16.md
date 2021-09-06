@@ -1,4 +1,4 @@
-16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^105]
+16. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^106]
 
 Kompenzáció bérszámfejtéséhez szükséges összegek
 
@@ -40,4 +40,4 @@ Kompenzáció bérszámfejtéséhez szükséges összegek
 
 | 17 | 49–51 | 145 206 | 164 349 | 187 071 | 208 962 | 267 289 | 308 439 | 323 360 | 356 671 | 352 175 | 385 660 |
 
-[^105]: A 16. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be, szövege a 70/2021. (II. 19.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^106]: A 16. mellékletet a 139/2019. (VI. 14.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be, szövege a 70/2021. (II. 19.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.

@@ -1,3 +1,3 @@
-## 9. §[^45]
+10. §[^46]
 
-[^45]: A 9. §-t az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja újból hatályon kívül helyezte.
+[^46]: A 10. §-t az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja újból hatályon kívül helyezte.
