@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-32-20-0
 | 2020-11-25 | 2004-32-20-0M.74 | 42/2020. (XI. 24.) EMMI rendelet |
 | 2020-12-27 | 2004-32-20-0M.75 | 47/2020. (XII. 22.) EMMI rendelet |
 | 2021-03-06 | 2004-32-20-0M.76 | 47/2020. (XII. 22.) EMMI rendelet |
+| 2021-09-06 | 2004-32-20-0M.77 | 53/2006. (XII. 28.) EüM rendelet |
