@@ -4,6 +4,6 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^2] Ez a rendelet 2021. szeptember 7-én hatályát veszti.
+(2)[^2] Ez a rendelet 2022. március 7-én hatályát veszti.
 
-[^2]: Az 5. § (2) bekezdése a 93/2021. (II. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése az 509/2021. (IX. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
