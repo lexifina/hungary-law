@@ -1,6 +1,4 @@
-## Millió forint
-
-## 1X03845_0
+| Millió forint |
 
 | Megnevezés | 2021. évi előirányzat |
 
@@ -22,7 +20,9 @@
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
-|  | Iskolaegészségügyi ellátás Iskolaegészségügyi ellátás bértámogatás | 2 317,1 145,5 |
+|  | Iskolaegészségügyi ellátás | 2 317,1 |
+
+| Iskolaegészségügyi ellátás bértámogatás | 145,5 |
 
 | Védőnői ellátás | 24 009,8 |
 
@@ -40,7 +40,7 @@
 
 | Fogorvosi, szakdolgozói bértámogatás | 26 163,0 |
 
-| 3. | Fogászati ellátás összesen | 68 657, 1 |
+| 3. | Fogászati ellátás összesen | 68 657,1 |
 
 | 4. | Otthoni szakápolás | 6 480,8 |
 
@@ -76,7 +76,7 @@
 
 |  | Járóbeteg-szakellátás | 193 382,8 |
 
-| Népegészségügy fejlesztése | 2 717,5 |
+| Népegészségügy fejlesztése | 853,5 |
 
 | Működési költségelőleg | 2 000,0 |
 
@@ -84,9 +84,9 @@
 
 | Koronavírus járvánnyal kapcsolatos diagnosztika és ellátás | 4 800,0 |
 
-| Fekvőbeteg-szakellátás | 641 052,2 |
+| Fekvőbeteg-szakellátás | 643 107,4 |
 
-| aktív fekvőbeteg-szakellátás | 546 551,5 |
+| aktív fekvőbeteg-szakellátás | 548 606,7 |
 
 | krónikus fekvőbeteg-szakellátás | 87 573,1 |
 
@@ -98,7 +98,7 @@
 
 | Speciális finanszírozású szakellátás | 51 211,9 |
 
-| 10. | Összevont szakellátás összesen | 901 590,8 |
+| 10. | Összevont szakellátás összesen | 901 782,0 |
 
 | 12. | Gyógyító-megelőző ellátás céltartalék | 10 658,5 |
 
@@ -106,7 +106,7 @@
 
 | 14. | Nagyértékű gyógyszerfinanszírozás | 119 659,8 |
 
-| ÖSSZESEN | 1 871 567,0 |
+| ÖSSZESEN | 1 871 758,2 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^600]
 
@@ -194,15 +194,9 @@ Ambuláns adatlap
 
 ** Laboratóriumi munkahelynél kitöltése nem kötelező.
 
-Dátum: ................ év ............................................ hó ......... nap
-
-....................................................................
-
-az ellátásért felelős orvos
-
-pecsétszám
-
 Kitöltési útmutató
+
+Dátum: ................ év ............................................ hó ......... nap....................................................................az ellátásért felelős orvospecsétszám
 
 1. Javítás
 

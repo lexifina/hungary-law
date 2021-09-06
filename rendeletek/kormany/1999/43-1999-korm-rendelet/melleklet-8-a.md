@@ -92,10 +92,4 @@ A nem pszichiátriai rehabilitációs minősítési kritériumok
 
 ** FTE = teljes 40 órás munkaidőre számított heti munkaidő aránya
 
-*** 4/A. pont szerinti szakdolgozónak minősül: dietetikus, egészségtan tanár, ergoterapeuta, gyógytestnevelő, gyógytornász, humánkineziológus, konduktor, logopédus, mentálhigiénikus, pszichológus, okleveles rehabilitációs szakember, szociális munkás, szociálpedagógus, szomatopedagógus, egyéb gyógypedagógus, fizioterápiás szakasszisztens, kardiológiai szakasszisztens a kardiológiai és légzés rehabilitáció esetében.
-
-**** Az igazolt 5 éves szakmai gyakorlat a szakvizsga megszerzésétől számított idő, illetve rehabilitációs osztályon folytatott szakmai tevékenység alapján állapítható meg.
-
-Az egyes rehabilitációs osztályoknak a fenti feltételek teljesítése alapján történő minősítése a következők szerint alakul:
-
 [^606]: A 8/A. számú mellékletet a 291/2009. (XII. 18.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 365/2010. (XII. 30.) Korm. rendelet 13. § (5) bekezdésével megállapított, a 259/2012. (IX. 14.) Korm. rendelet 5. § (2) bekezdése, a 254/2013. (VII. 5.) Korm. rendelet 27. § k) pontja, a 364/2014. (XII. 30.) Korm. rendelet 40. § n) pontja szerint módosított szöveg.
