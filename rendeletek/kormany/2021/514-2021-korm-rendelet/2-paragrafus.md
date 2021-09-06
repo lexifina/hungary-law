@@ -1,0 +1,3 @@
+## 1. § A Kormány a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 24/A. §-a alapján a Róbert Károly Meddőségi Centrum Korlátolt Felelősségű Társaság (székhely: 1135 Budapest, Lehel utca 59. C. ép.; cégjegyzékszám: 01-09-381773; adószám: 29167258-1-41) feletti irányítás Magyar Állam általi megszerzését – tekintettel a népességfogyás hatékony megállításának és a meddőségi kezelések széles körben elérhetővé tételének szükségességére – közérdekből nemzetstratégiai jelentőségű összefonódásnak minősíti.
+
+2. § Ez a rendelet a kihirdetése napján 8 órakor lép hatályba.
