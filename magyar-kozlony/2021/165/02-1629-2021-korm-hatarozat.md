@@ -1,0 +1,168 @@
+# A Kormány 1629/2021. (IX. 7.) Korm. határozata
+
+Magyar Közlöny 2021. évi 165. szám, 2021. szeptember 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/4NERsJrhYqW7MOWe2syE612fc85c63d7b/dokumentumok/c5161f3fa9b2611b3980ad79326061b2ee23e2b5/letoltes)
+
+---
+
+A Kormány 1629/2021. (IX. 7.) Korm. határozata
+az ENSZ Közgyűlésének 76. ülésszakán való magyar részvételről
+A Kormány
+1. jóváhagyja – az 1. melléklet szerint – az ENSZ Közgyűlésének 76. ülésszakán részt vevő magyar küldöttség
+tevékenységének irányelveit;
+2. felhívja a külgazdasági és külügyminisztert, hogy az ENSZ Közgyűlésének 76. ülésszakán részt vevő magyar
+küldöttség vezetőjének és tagjainak megbízásáról készítsen előterjesztést Magyarország köztársasági elnökének.
+Felelős: külgazdasági és külügyminiszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1629/2021. (IX. 7.) Korm. határozathoz
+Irányelvek az ENSZ Közgyűlésének 76. ülésszakán részt vevő magyar küldöttség tevékenységéhez
+Az ENSZ Közgyűlésének 76. ülésszakán részt vevő magyar küldöttség feladata, hogy a Kormány céljaival
+összhangban, a magyar nemzeti érdekeket érvényesítve tevékenykedjen.
+1. A küldöttség az ENSZ szerepével kapcsolatban
+a) képviselje hazánk álláspontját, mely szerint a COVID–19 világjárvány idején az ENSZ nem volt képes hatékony
+megoldásokat nyújtani a pandémia elleni küzdelemben, és csak kiegészítő jellegű hozzájárulást tudott
+biztosítani a nemzetállamok által megtett, a járvány hatásainak enyhítését hatékonyan elősegítő lépésekhez
+és intézkedésekhez;
+b) képviselje hazánk álláspontját, miszerint a COVID–19 világjárvány vonatkozásában megvalósított
+multilaterális együttműködés kapcsán a világjárvány visszaszorítását követően szükséges felmérnünk
+a tanulságokat és kiértékelnünk a megtett lépések hasznosságát, annak érdekében, hogy a jövőben
+a nemzetközi közösség hatékonyabban tudjon fellépni a globális kihívásokkal szemben.
+2. A küldöttség a béke és biztonság területén
+a) támogassa az ENSZ vezető nemzetközi szerepét, valamint összehangolt, hatékony globális fellépését
+a nemzetközi terrorizmus elleni küzdelemben, továbbá az ENSZ Terrorizmus Ellenes Hivatalának az erre
+irányuló multilaterális erőfeszítések kifejtésében betöltött szerepének erősítését, az ENSZ Globális
+Terrorizmus Ellenes Stratégiájának hetedik felülvizsgálatáról elfogadott közgyűlési határozat, az ENSZ
+keretében elfogadott 19 terrorizmus-ellenes nemzetközi dokumentum, valamint az ENSZ Biztonsági Tanácsa
+(a továbbiakban: BT) által a nemzetközi terrorizmus elleni küzdelem terén elfogadott határozatai alapján;
+b) támogassa a világ számos térségében üldöztetésnek kitett keresztény közösségek megsegítésére irányuló
+kezdeményezéseket, mutassa be a Hungary Helps Programot;
+c) támogassa a fegyveres konfliktusok által érintett, sérülékeny helyzetben lévő személyek védelmét, különös
+tekintettel a nők és gyermekek elleni erőszak megelőzésére és felszámolására, a nők békefolyamatokban
+való érdemi és teljes körű részvételének előmozdítására, valamint a konfliktusok által érintett gyermekek és
+fogyatékossággal élő személyek jogainak biztosítására;
+
+d) fordítson kiemelt figyelmet a migrációra vonatkozó magyar kormányzati álláspont érvényesítésére az ENSZ
+keretein belül, beleértve a közös uniós álláspont egyeztetését, különös tekintettel a magyar szavazati
+magatartást meghatározó kormányhatározatokra, és képviselje a tagállamok határvédelemmel és
+a területükön való tartózkodás szabályainak meghatározásával kapcsolatosan meglevő nemzeti szabályozási
+hatáskörét és utaljon a migráció jelentette közvetlen biztonsági és közegészségügyi kockázatokra;
+e) képviselje határozottan Magyarország álláspontját, miszerint az ENSZ tartózkodjon az új közgyűlési
+határozatokban, illetve hivatalos állásfoglalásokban a Globális Migrációs Kompaktra, valamint a Globális
+Menekültügyi Kompaktra történő hivatkozások bármilyen, akár rejtett formában való megjelenítésétől,
+tekintve, hogy értelmezésünk szerint ezek célja a két dokumentum kötelező és általános érvényű
+elismertetése, annak ellenére, hogy azokat hazánk mellett több más tagállam sem írta alá, és azok
+végrehajtásában semmilyen módon nem kívánunk részt venni;
+f) támogassa, hogy a közel-keleti békefolyamattal (MEPP) kapcsolatos tárgyalások és közgyűlési határozatok
+szövegezése során a kiegyensúlyozottság érvényesüljön az Izrael állam egyoldalú felelősségre vonása helyett;
+g) támogassa az ENSZ leszerelési mechanizmusának megfelelő működését célzó törekvéseket, ezen belül
+az ENSZ BT 1540 (2004). sz. határozatának végrehajtását és átfogó felülvizsgálatát, a genfi Leszerelési
+Értekezlet érdemi munkájának újraindítását, az Atomsorompó Szerződés (NPT) végrehajtásának erősítését,
+az Átfogó Atomcsend Szerződés (CTBT) mielőbbi hatálybalépését, a fegyvercélú nukleáris hasadóanyagok
+termelésének tilalmáról szóló nemzetközi szerződés (FMCT) létrehozatalára irányuló tárgyalások mielőbbi
+megkezdését, a Biológiai és Toxinfegyver Tilalmi Egyezmény (BTWC) egyetemessé tétele érdekében végzett
+erőfeszítéseket és alkalmazásának megerősítését, a Fegyverkereskedelmi Szerződés (ATT) egyetemessé
+tételét, teljeskörű végrehajtását és részes államainak konferenciáin elért eredmények továbbfejlesztését,
+illetve a kézi- és könnyűfegyverek (SALW) tiltott kereskedelme elleni küzdelmet;
+h) a kiberdiplomáciai erőfeszítések keretében kísérje figyelemmel és támogassa a kibertér biztonságának
+növelését szolgáló konszenzusépítési erőfeszítéseket. Kövesse nyomon a 2019–2021-es évekre felállított,
+a nemzetközi biztonsággal összefüggő felelősségteljes kiber-magatartás előmozdításával foglalkozó
+kormányzati szakértői munkacsoport (6. UN GGE) keretében elfogadott ajánlások végrehajtását. Fordítson
+figyelmet az A/RES/75/240 sz. közgyűlési határozattal 2021–2025-ös évekre létrehozott újabb nyílt végű
+munkacsoportban (Cyber OEWG2) való konstruktív magyar szerepvállalás előmozdítására. Támogassa
+az Európa Tanács (ET) 2001. november 23-án kelt Számítástechnikai Bűnözésről szóló Egyezményének
+(Budapest Egyezmény) végrehajtását, valamint hívja fel a figyelmet az Egyezményhez történő csatlakozás
+lehetőségére. Ugyanakkor, a tárgyalások dinamikájától, irányától függően, valamint a közös uniós
+álláspont figyelembevételével kövesse nyomon a 2019. december 27-én elfogadott 74/247 sz. közgyűlési
+határozat alapján létrehozott ad hoc Bizottság (AHC) tevékenységét és szükség szerint fordítson figyelmet
+a kiberbűnözés elleni új, univerzális egyezmény elfogadását célzó tárgyalásokban való konstruktív magyar
+szerepvállalás előmozdítására (az érdemi tárgyalások megkezdése 2022-ben várható);
+i) támogassa az ENSZ képességeinek megerősítését a nemzetközi válságok megelőzését szolgáló preventív
+diplomácia és a mediáció területén, valamint az ENSZ békeépítési tevékenységének hatékonyabbá tételét,
+különös tekintettel a kiváltó okok kezelésére, továbbá törekedjen a békeépítéssel és konfliktus-megelőzéssel
+kapcsolatba hozható magyar kezdeményezések és tapasztalatok megismertetésére.
+3. A küldöttség a Fenntartható Fejlődési Keretrendszerrel (Agenda 2030 vagy Keretrendszer) kapcsolatban
+a) mind nemzeti szinten, mind pedig a fejlődő világ vonatkozásában járuljon hozzá a 2015-ben kialakított
+globális fenntartható fejlődési keretrendszer megvalósításához, amelynek részeként mutassa be a hazánk
+által megtett intézkedéseket;
+b) támogassa a Keretrendszer előmozdítását szolgáló azon ENSZ-en belüli reformlépéseket – különösen az ENSZ
+fejlesztési intézményi rendszer reformjának folyamatát –, amelyek az ENSZ-intézményeket alkalmassá teszik
+a Keretrendszer hatékony végrehajtására, valamint az ENSZ-en kívüli szereplőkkel való együttműködés
+erősítésére, illetve kiszélesítésére irányulnak;
+c) fordítson kiemelt figyelmet a vízzel és szanitációval kapcsolatos célok és alcélok végrehajtására irányuló
+nemzetközi folyamatokra, segítse elő a célkitűzések megvalósításához szükséges intézményrendszeri
+reformok meghozatalát, ennek megfelelően szükség esetén erősítse meg Magyarország elkötelezettségét
+egy, a vízügyi kérdések szakpolitikai irányítását nemzetközi szintre emelő kormányközi platform távlati
+megteremtésével kapcsolatban;
+
+d) ismertesse hazánk aktív vízdiplomáciai tevékenységét, különös tekintettel a 2013. évi, a 2016. évi, és
+a 2019. évi Budapesti Víz Világtalálkozókon elért eredményekre, valamint a 2021. november 29. és
+december 5. között megrendezésre kerülő Planet Budapest 2021 Fenntarthatósági Expó és Világtalálkozó fő
+célkitűzéseit;
+e) ismertesse hazánk elkötelezettségét a klímacélok és a klímaváltozás elleni fellépés mellett az Országgyűlés
+által 2018. október 30-án elfogadott, hazánk klímapolitikai kereteit adó második Nemzeti Éghajlatváltozási
+Stratégia, a Kormány által 2020. január 8-án elfogadott öt klíma- és energiastratégiai dokumentum és
+a miniszterelnök által 2020. február 16-án bejelentett Klíma- és Természetvédelmi Akcióterv mentén;
+f) mind nemzeti szinten, mind pedig a fejlődő világ vonatkozásában járuljon hozzá az éghajlatváltozás elleni
+küzdelemhez, amelynek részeként mutassa be a hazánk közép- és hosszú távú klímacéljai elérése érdekében
+megtett nemzeti intézkedéseket, így a Kormány 2020 júniusában törvényi szintre emelt klímacéljait, amelyek
+szerint 2050-re hazánk eléri a klímasemlegességet és 2030-ig 40%-kal csökken Magyarország üvegházgáz-
+kibocsátása 1990-hez képest;
+g) támogassa a Biológiai Sokféleség Egyezmény (Convention on Biological Diversity, CBD) munkáját és ennek
+keretében a 2020 utáni biológiai sokféleség megőrzési globális keretstratégia kidolgozását és jóváhagyását,
+valamint fordítson figyelmet az ENSZ által elindított Ökoszisztémák Helyreállításának Évtizede 2021–2030
+keretében zajló tevékenységekre;
+h) képviselje azt az álláspontot, hogy Magyarország energiaellátási diverzifikációjában fontos szerepe
+van az atomenergiának, amely egyúttal hozzájárul az ENSZ által megfogalmazott környezetvédelmi és
+fenntartható fejlődési célok megvalósításához.
+4. A küldöttség az emberi jogok területén
+a) Magyarország nemzetközi emberi jogi szerződéses kötelezettségeivel összhangban lépjen fel
+a Magyarország számára kiemelten fontos területeken, úgymint az emberi jogok és alapvető szabadságok
+tiszteletben tartása, a vallási és nemzeti kisebbségek valamint az őshonos népek, a nők és gyermekek,
+illetve a fogyatékossággal élő személyek jogainak védelme, a nők jogainak előmozdítása, a nők és férfiak
+közötti egyenlőség, a fiatalok helyzetbe hozása, és a hátrányos megkülönböztetés elleni küzdelem,
+különös tekintettel a többszörösen hátrányos helyzetű személyekre, továbbá hangsúlyozza a család fontos
+társadalomépítő szerepét és a hagyományos családmodell megerősítésének szükségességét a családok
+szükségleteihez hangolt szakpolitikák által;
+b) járuljon hozzá a vallásszabadság védelmét és előmozdítását célzó törekvésekhez, a konfliktusok által sújtott
+vallási kisebbségek, különösen az üldözött keresztények támogatásához, mutassa be a Hungary Helps
+Programot;
+c) képviselje határozottan azt az álláspontot, mely szerint az ENSZ Emberi Jogi Tanács azonnali, gyökeres
+reformjára van szükség, mivel a testületnek az elfogult, szakmai szempontból megalapozatlan határozatok és
+kezdeményezések túlbonyolított szövegezése és átpolitizálása helyett a konszenzusépítést és a párbeszédet
+kellene elősegítenie.
+5. A küldöttség az ENSZ reformjával és működésével kapcsolatban
+a) kísérje figyelemmel a BT kibővítésére és munkamódszereinek átalakítására vonatkozó javaslatok alakulását,
+a kormányközi tárgyalások folyamatát és eredményeit, folytassa a BT munkamódszereinek javítására és
+működésének átláthatóbbá tételére irányuló együttműködésben való aktív részvételt;
+b) képviselje, hogy a megújuló BT-nek meg kell felelnie a XXI. század új geopolitikai és gazdasági realitásainak,
+így taglétszámának és összetételének tükröznie kell a nemzetközi politikai és gazdasági erőviszonyokban
+bekövetkezett változásokat, egyszersmind figyelemmel kell lennie a hatékonyság követelményére is,
+amelyekre tekintettel indokolt egy további, nem állandó tagsági hely biztosítása a kelet-európai regionális
+csoport számára, mely növelné Magyarország BT-be való bekerülésének esélyeit;
+c) erősítse meg, hogy Magyarország támogatja az ENSZ főtitkár elképzeléseit a világszervezet irányításának
+reformját illetően, valamint a Közgyűlés szerepének megújítása és az ENSZ fejlesztési és környezetvédelmi
+rendszerének reformja tekintetében, mely folyamathoz Magyarország továbbra is hozzá kíván járulni;
+d) támogassa a továbbiakban is az ENSZ főtitkár javaslatát a Globális Szolgáltatásnyújtási Modell (Global Service
+Delivery Model, GSDM) projektre vonatkozóan, amelynek létrejötte javítani fogja a szolgáltatások minőségét,
+valamint jelentős megtakarításokat fog eredményezni mind a szervezet, mind pedig a tagállamok számára,
+így az ENSZ pénzügyi helyzete rendeződését is nagymértékben elősegítheti. Az ENSZ Titkárság feladatainak
+
+kiszervezése globális szolgáltató központok (GSSC) létrehozása révén a szolgáltatásnyújtás minőségének
+javítása és a költséghatékony működés megvalósítása érdekében is szükséges és időszerű;
+e) támogassa, hogy az ENSZ szakosított szervei szolgáltató központjuk otthonául Budapestet válasszák, mely
+egyedüli európai városként lett megjelölve a GSDM projektre vonatkozó főtitkári javaslatban.
+6. A küldöttség Magyarország jelöléseivel kapcsolatban
+a) használja fel az ENSZ Közgyűlés fórumait, valamint a Közgyűlés margóján létrejövő két- és többoldalú magas
+szintű találkozókat Magyarország ENSZ-szervekbe benyújtott jelölései támogatottságának felmérésére és
+növelésére, továbbá egyes ENSZ-szervezetek, intézmények vezetői posztjaira benyújtott magyar jelölések
+sikerének előmozdítására;
+b) fordítson megkülönböztetett figyelmet hazánk nemzetközi jelöléseire, különösen az ENSZ Közgyűlés
+77. ülésszaka elnöki posztra vonatkozó pályázatunkra, és mérje fel további pályázatok benyújtásának
+lehetőségét, ezzel is erősítve Magyarország ENSZ rendszeren belüli szerepvállalását a jövőben.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
