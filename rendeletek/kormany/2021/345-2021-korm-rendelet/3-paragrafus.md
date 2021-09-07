@@ -22,7 +22,7 @@ e) a reorganizáció elhatározásának időpontjában vele szemben végrehajtá
 
 f) a vagyonára vagy annak egy részére büntetőeljárásban zár alá vételt vagy vagyonelkobzás alá eső vagyon biztosítása érdekében lefoglalást rendeltek el, vagy a vagyonára elrendelt vagyonelkobzás végrehajtása van folyamatban,
 
-g) a vállalkozásnak a reorganizáció kezdő napját megelőzően a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Számv. tv.) szerinti bármelyik beszámolója a jogszabályban meghatározott határidőn belül nem került közzétételre és letétbe helyezésre, vagy
+g)[^2] a reorganizáció kezdő napját megelőző 3 üzleti évre vonatkozó, a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Számv. tv.) szerinti bármelyik beszámolója nem került közzétételre és letétbe helyezésre, vagy
 
 h) olyan hitelezői követelés bevonásával kezdeményezi a reorganizációs eljárás lefolytatását, amely követelés megfizetésére a Cstv. szerint csődegyezséget vagy felszámolási egyezséget kötött, és az egyezségben vállalt kötelezettségét még nem hajtotta végre.
 
@@ -41,3 +41,5 @@ c) reorganizációs eljárásban a bíróság moratóriumot rendelt el.
 (5) A (2) bekezdés nem érinti a vállalkozás partnerének a szerződésből eredő jogainak gyakorlását, ha a vállalkozás – az ezen alcím szerinti moratórium joghatásait leszámítva – egyéb szerződéses kötelezettségének nem tesz eleget.
 
 (6) A szerződéses partner szabadul a (2) bekezdése szerinti korlátozások alól, ha a vállalkozás vezető tisztségviselője a (4) bekezdés szerinti jognyilatkozatát visszavonja, vagy ha a vállalkozás a (4) bekezdésben meghatározott fizetési kötelezettségével a reorganizációs eljárás időtartama alatt 30 napot meghaladó késedelembe esik.
+
+[^2]: A 3. § (1) bekezdés g) pontja az 517/2021. (IX. 6.) Korm. rendelet 1. §-ával megállapított szöveg.
