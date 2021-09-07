@@ -1,4 +1,4 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^216]
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^218]
 
 A felsőoktatási felvételi eljárás során pontszámítás szempontjából figyelembe vehető szakmák és szakképesítések
 
@@ -286,4 +286,4 @@ A felsőoktatási felvételi eljárás során pontszámítás szempontjából fi
 
 | 9. | matematika | – | – |
 
-[^216]: A 3. melléketet újonnan a 661/2020. (XII. 24.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^218]: A 3. melléketet újonnan a 661/2020. (XII. 24.) Korm. rendelet 20. § (3) bekezdése iktatta be.

@@ -76,13 +76,21 @@ p)[^121] a Tudományos és Diákköri Tanács és az Országos Tudományos és D
 
 q)[^122] ha a felsőoktatási szakképzésben szerzett oklevélből nem számítottak érettségi pontot, az azonos képzési terület szakjára történő jelentkezés esetén a felsőoktatási szakképzésben szerzett oklevélért 32 többletpontra
 
+r)[^123] amennyiben a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 214. § (1a) bekezdése szerinti önkéntes tartalékos katonaként
+
+ra) szakkiképzés nélkül legalább hat hónapos szolgálatot teljesített, 16 többletpontra,
+
+rb) a hat hónapos szolgálati ideje alatt – az alapkiképzést követően – a Hjt. felhatalmazása alapján kiadott jogszabály szerinti szakkiképzést végrehajtotta, 32 többletpontra,
+
+rc) az rb) alpontot folytatólagosan követő hat hónapos szolgálati ideje alatt a Hjt. felhatalmazása alapján kiadott jogszabály szerinti szakkiképzést folytatta és végrehajtotta, további 32 többletpontra
+
 jogosult.
 
 (2) Az (1) bekezdés b)–e) pont alapján a többletpontot csak abban az esetben kaphatja meg a jelentkező, ha az arra jogosító eredményt legkésőbb a jelentkezés évét megelőző 8 éven belül szerezte.
 
 (3) Az (1) bekezdés ga) alpontja alkalmazása során a döntőbe jutott, de azon részt nem vevő jelentkezőt – a verseny szervezőjének igazolása alapján – a döntőben elvileg elérhető utolsó helyezést elérőnek kell tekinteni.
 
-(4)[^123] Az (1) bekezdés alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező. Az (1) bekezdés a)–e) pontjaiban meghatározott jogcímek közül csak a pontszámítás szempontjából legkedvezőbb jogcím után kaphat többletpontot a jelentkező.
+(4)[^124] Az (1) bekezdés alkalmazása során jogcímenként legfeljebb egy-egy többletpontra jogosító eredmény alapján jogosult többletpontra a jelentkező. Az (1) bekezdés a)–e) pontjaiban meghatározott jogcímek közül csak a pontszámítás szempontjából legkedvezőbb jogcím után kaphat többletpontot a jelentkező.
 
 [^105]: A 21. § (1) bekezdés nyitó szövegrésze az 59/2016. (III. 25.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
 [^106]: A 21. § (1) bekezdés a) pont nyitó szövegrésze a 661/2020. (XII. 24.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
@@ -102,4 +110,5 @@ jogosult.
 [^120]: A 21. § (1) bekezdés o) pontját a 661/2020. (XII. 24.) Korm. rendelet 15. § (3) bekezdése iktatta be.
 [^121]: A 21. § (1) bekezdés p) pontját a 661/2020. (XII. 24.) Korm. rendelet 15. § (3) bekezdése iktatta be.
 [^122]: A 21. § (1) bekezdés q) pontját a 661/2020. (XII. 24.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^123]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^123]: A 21. § (1) bekezdés r) pontját az 520/2021. (IX. 6.) Korm. rendelet 1. §-a iktatta be.
+[^124]: A 21. § (4) bekezdése a 47/2013. (II. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.

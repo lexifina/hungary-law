@@ -1,10 +1,10 @@
 ## 16. Felvételi eljárási díjak
 
-42. § (1)[^162] A felvételi eljárás során a jelentkezőnek kiegészítő díjat, valamint – amennyiben az intézmény szabályzata így rendelkezik – intézményi eljárási díjat, külön eljárási díjat kell fizetnie.
+42. § (1)[^163] A felvételi eljárás során a jelentkezőnek kiegészítő díjat, valamint – amennyiben az intézmény szabályzata így rendelkezik – intézményi eljárási díjat, külön eljárási díjat kell fizetnie.
 
-(2)[^163] Felsőoktatási szakképzésre, alapképzésre, osztatlan képzésre vagy mesterképzésre történő jelentkezés esetén a jelentkező díjmentesen egyidejűleg három képzésre irányuló jelentkezési kérelmet nyújthat be.
+(2)[^164] Felsőoktatási szakképzésre, alapképzésre, osztatlan képzésre vagy mesterképzésre történő jelentkezés esetén a jelentkező díjmentesen egyidejűleg három képzésre irányuló jelentkezési kérelmet nyújthat be.
 
-(3)[^164] A kiegészítő díj meg nem fizetése esetén a jelentkezési kérelem benyújtásakor megadott, eredeti jelentkezési sorrendnek megfelelő, kiegészítő díjat keletkeztető hely kizárásra kerül.
+(3)[^165] A kiegészítő díj meg nem fizetése esetén a jelentkezési kérelem benyújtásakor megadott, eredeti jelentkezési sorrendnek megfelelő, kiegészítő díjat keletkeztető hely kizárásra kerül.
 
 (4) A (2) bekezdésben meghatározott három képzésre irányuló jelentkezést követő minden újabb jelentkezésért további 2000-2000 forint kiegészítő díjat kell fizetni, amelyből képzésenként 1000-1000 forint az érintett felsőoktatási intézményt illeti.
 
@@ -14,6 +14,6 @@
 
 (7) A (2)–(6) bekezdés alkalmazása során ugyanazon képzés több finanszírozási formájára való egyidejű jelentkezés egy jelentkezésnek minősül.
 
-[^162]: A 42. § (1) bekezdése a 392/2015. (XII. 11.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^163]: A 42. § (2) bekezdése a 392/2015. (XII. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^164]: A 42. § (3) bekezdését újonnan a 661/2020. (XII. 24.) Korm. rendelet 18. §-a iktatta be.
+[^163]: A 42. § (1) bekezdése a 392/2015. (XII. 11.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^164]: A 42. § (2) bekezdése a 392/2015. (XII. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^165]: A 42. § (3) bekezdését újonnan a 661/2020. (XII. 24.) Korm. rendelet 18. §-a iktatta be.
