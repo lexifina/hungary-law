@@ -158,6 +158,8 @@
 
 | 72. | Gyártóüzem építésére irányuló beruházás Sárvár külterületén | Sárvár város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Sárvár külterület 064/36, 064/47, 065/2, 065/3, 065/4, 066 és 072/5 helyrajzi számú ingatlanok. | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^188]
+| 73. | Ingatlanfejlesztésre irányuló beruházás Budapest XIII. kerületében | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/3 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^188]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^191]
+
+[^191]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
