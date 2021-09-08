@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 68. §-sal egészül ki:
-
-## „68. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 523/2021. (IX. 6.) Korm. rendelettel (a továbbiakban: Módr60.) megállapított 3. § (4) bekezdését, 4. § (1) és (2) bekezdését, 6/S. §-át és a 2. mellékletben foglalt táblázat 73. sorát a Módr60. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
