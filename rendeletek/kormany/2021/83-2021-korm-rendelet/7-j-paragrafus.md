@@ -1,4 +1,4 @@
-7/J. §[^20] (1) A 2. mellékletben foglalt táblázat 16. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/J. §[^24] (1) A 2. mellékletben foglalt táblázat 16. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az OTÉK előírásait a (2) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -6,4 +6,4 @@ b) ha a hatályos településrendezési eszköz vagy az OTÉK a beépítés (2) 
 
 (2) A 2. mellékletben foglalt táblázat 16. sora szerinti beruházással érintett ingatlanra vonatkozóan a zöldfelület megengedett legkisebb mértéke 35%.
 
-[^20]: A 7/J. §-t a 338/2021. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 7/J. §-t a 338/2021. (VI. 11.) Korm. rendelet 1. §-a iktatta be.

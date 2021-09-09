@@ -1,4 +1,4 @@
-7/A. §[^14] (1) A 2. mellékletben foglalt táblázat 7. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2)–(3) bekezdés állapítja meg, azzal, hogy
+7/A. §[^18] (1) A 2. mellékletben foglalt táblázat 7. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait a (2)–(3) bekezdés állapítja meg, azzal, hogy
 
 a) az OTÉK előírásait a (2)–(3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -24,4 +24,4 @@ h) az ingatlan teljes területe építési helynek minősül.
 
 (3) A (2) bekezdés g) pontjának alkalmazása során az épületmagasságot az e rendelet hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-[^14]: A 7/A. §-t a 261/2021. (V. 20.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 7/A. §-t a 261/2021. (V. 20.) Korm. rendelet 2. §-a iktatta be.

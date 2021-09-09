@@ -90,6 +90,16 @@
 
 | 44. | Paksi II. Rákóczi Ferenc Általános Iskola infrastrukturális fejlesztését célzó beruházás | Paks belterület 5144 helyrajzi számú ingatlan | Tolna Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^75]
+| 45. | A körömi Szent II. János Pál Katolikus Általános Iskola új épületének és tornatermének építése, berendezése és meglévő épületének felújítása | Köröm belterület 59, 108/1, 108/2, 109, 110/1, 110/2 és 111 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^75]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+| 46. | A Szent Angéla Ferences Általános Iskola és Gimnázium fejlesztésének támogatása | Budapest belterület 13319 és 13323 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 47. | Az 1138/2020. (IV. 8.) Korm. határozat alapján a történelmi egyházak bázisán létrejövő, egészségügyi szakképzés szakmai és infrastrukturális alapjainak megteremtését célzó beruházás | Budapest belterület 11077 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+
+| 48. | Gyulai Római Katolikus Gimnázium, Általános Iskola, Óvoda és Kollégium ingatlanjainak bővítését és fejlesztését célzó beruházás | Gyula belterület 6184 és 6186 helyrajzi számú ingatlanok | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 49. | Gyulai Római Katolikus Gimnázium, Általános Iskola, Óvoda és Kollégium ingatlanjainak bővítését és fejlesztését célzó beruházás | Gyula belterület 4507 helyrajzi számú ingatlan | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^86]
+
+[^86]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
