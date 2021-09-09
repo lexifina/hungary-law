@@ -6,7 +6,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Felső-szabolcsi, Tokaji Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 15-10-040404 | 2022. december 31. |
+| 1. |  |  |  |
 
 | 2. | Hungarofest Nemzeti Rendezvényszervező Nonprofit Korlátolt Felelősségű Társaság | 01-09-921721 | 2022. december 31. |
 

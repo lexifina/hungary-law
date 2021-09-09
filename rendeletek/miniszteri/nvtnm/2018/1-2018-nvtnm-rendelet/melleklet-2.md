@@ -318,6 +318,8 @@
 
 | 18. | Magyar Fejlesztésösztönző Iroda Nonprofit Korlátolt Felelősségű Társaság | 01-09-380926 | 2022. december 31. |
 
+| 19. | BTTF Badacsony és térsége Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500364 | 2022. december 31. |
+
 ## XI. Tulajdonosi joggyakorló: a Pénzügyminisztérium
 
 |  | A | B | C |
