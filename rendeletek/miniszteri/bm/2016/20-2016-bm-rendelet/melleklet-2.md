@@ -44,7 +44,7 @@
 
 ## 7. Komplett légzőkészülék
 
-2. melléklet a 20/2016. (VI. 9.) BM rendelethez
+2. melléklet a 20/2016. (VI. 9.) BM rendelethez[^12]
 
 ## A tisztjelölt egyenruházati ellátásának összetétele
 
@@ -87,6 +87,8 @@
 | 17 | Málhazsák | db | 1 | Málhazsák | db | 1 |
 
 | 18 | Alsóruházati költségtérítés** | db | 1 | Alsóruházati költségtérítés** | db | 1 |
+
+| 19 | Hátizsák | db | 1 | – | – | – |
 
 2. A véglegesítését követően a tisztjelölti állomány ruházati kiegészítése
 
@@ -155,3 +157,5 @@ a) A *-gal megjelölt termékeket egységes „NKE Rendvédelmi Tagozat” felir
 b) A **-gal megjelölt alsóruházati költségtérítés téli ing, téli alsó és zokni beszerzésére biztosított, összege 10 000 Ft. A beszerzendő termékek színe sötétkék vagy fekete. A téli ing és a téli alsó alkalmasságát a funkciónak való megfelelés határozza meg. Az alsóruházati költségtérítés felhasználását igazoló számlával a tisztjelölt tárgyév november 15. napjáig köteles elszámolni.
 
 c) A ***-gal megjelölt terméket alegységkészletként kell biztosítani.
+
+[^12]: A 2. melléklet a 31/2021. (IX. 8.) BM rendelet 3. §-a szerint módosított szöveg.
