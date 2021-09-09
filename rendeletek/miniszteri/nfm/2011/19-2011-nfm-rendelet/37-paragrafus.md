@@ -30,6 +30,10 @@
 
 (15)[^203] A vasúti társasági vizsgára vonatkozó rendelkezéseket az időszakos vizsgáztatás vonatkozásában 2020. január 1-jétől kell alkalmazni, ha a vasúti társaság és a vizsgaközpont közötti megállapodás alapján a típusismeret, a vonal- és az állomásismeret modulok esetében a vizsgáztató szervezet 2019. december 31-ig a vizsgaközpont. A vasúti társaság a megállapodás tényét a vizsgáztatási utasításban szerepelteti, amelyet a megállapodás megkötéstől számított 15 napon belül megküld a hatóságnak.
 
+(16)[^204] A vasúti, légi- és víziközlekedéssel kapcsolatos képzésekről szóló miniszteri rendeletek módosításáról szóló 43/2021. (IX. 8.) ITM rendelettel (a továbbiakban: Módr2.) megállapított 3. melléklet I/A. és II.1/A. táblázatait az alapvizsgáztatás vonatkozásában a 35/D. § szerinti eltérés alapvizsgák kivételével 2021. november 1-jétől, az időszakos vizsgáztatás és a 35/D. § szerinti eltérés vizsgáztatás vonatkozásában 2022. július 1-jétől indult és a megismételt eljárásokban kell alkalmazni.
+
+(17)[^205] A Módr2.-vel megállapított 9. § (1) és (1a) bekezdéseit 2021. november 1. napjától indult és a megismételt eljárásokban kell alkalmazni.
+
 [^183]: A 37. § (1) bekezdése a 22/2015. (V. 6.) NFM rendelet 39. § p) pontja szerint módosított szöveg.
 [^184]: A 37. § (2) bekezdését az 5/2013. (II. 12.) NFM rendelet 24. § (2) bekezdése hatályon kívül helyezte, újonnan a 22/2015. (V. 6.) NFM rendelet 36. § (1) bekezdése iktatta be.
 [^185]: A hatálybalépés időpontja 2015. május 11.
@@ -51,3 +55,5 @@
 [^201]: A hatálybalépés időpontja 2016. augusztus 5.
 [^202]: A 37. § (14) bekezdését a 20/2017. (VI. 22.) NFM rendelet 13. §-a iktatta be, szövege a 7/2018. (VII. 26.) ITM rendelet 14. §-ával megállapított, a 3/2019. (II. 27.) ITM rendelet 6. § b) pontja szerint módosított szöveg.
 [^203]: A 37. § (15) bekezdését a 3/2019. (II. 27.) ITM rendelet 4. §-a iktatta be.
+[^204]: A 37. § (16) bekezdését a 43/2021. (IX. 8.) ITM rendelet 22. §-a iktatta be.
+[^205]: A 37. § (17) bekezdését a 43/2021. (IX. 8.) ITM rendelet 22. §-a iktatta be.

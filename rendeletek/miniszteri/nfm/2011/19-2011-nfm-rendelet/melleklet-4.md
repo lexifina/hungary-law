@@ -402,6 +402,6 @@
 
 | 2. | Munkamódszer-átadás | - Vezetési gyakorlat vizsga | Az alapvizsgának megfelelő járművön és infrastruktúrán más járművezető kísérete mellett végzett járművezetés | 50 |
 
-4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^213]
+4. melléklet a 19/2011. (V. 10.) NFM rendelethez[^217]
 
-[^213]: A 4. mellékletet a 45/2019. (XII. 20.) ITM rendelet 49. § b) pontja hatályon kívül helyezte.
+[^217]: A 4. mellékletet a 45/2019. (XII. 20.) ITM rendelet 49. § b) pontja hatályon kívül helyezte.

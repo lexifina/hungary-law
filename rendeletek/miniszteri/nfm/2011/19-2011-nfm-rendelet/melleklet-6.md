@@ -1,4 +1,4 @@
-6. melléklet a 19/2011. (V. 10.) NFM rendelethez[^215]
+6. melléklet a 19/2011. (V. 10.) NFM rendelethez[^219]
 
 ## Az országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezető képzés céljai, és követelményei
 
@@ -248,10 +248,10 @@ A mozdonyvezetőknek képesnek kell lenniük az alábbiakra:
 
 – annak eldöntésére, hogy a vasúti pálya járható-e, és ha igen, milyen feltételekkel.
 
-A képzési programok az előzőeken túl tartalmazhatják az a transzeurópai vasúti rendszerre vonatkozó átjárhatóságot biztosító műszaki előírásokról szóló miniszteri rendeletben meghatározott, az Európai Unió vasúti rendszerének forgalmi szolgálat és forgalomirányítás alrendszerére vonatkozó átjárhatósági műszaki előírásokról és a 2007/756/EK határozat módosításáról szóló, 2012. november 14-i 2012/757/EU bizottsági határozat szerinti képzési célokat, illetve követelményeket is, továbbá az Ügynökség által javasolt kritériumokat.
+A képzési programok az előzőeken túl tartalmazhatják az a transzeurópai vasúti rendszerre vonatkozó átjárhatóságot biztosító műszaki előírásokról szóló miniszteri rendeletben meghatározott, az Európai Unió vasúti rendszerének forgalomüzemeltetés és -irányítás alrendszerére vonatkozó átjárhatósági műszaki előírásokról és a 2012/757/EU határozat hatályon kívül helyezéséről szóló, 2019. május 16-i (EU) 2019/773 bizottsági végrehajtási rendeletszerinti képzési célokat, illetve követelményeket is, továbbá az Ügynökség által javasolt kritériumokat.
 
 3. A mozdonyvezetőkkel szemben támasztott nyelvi követelmények
 
 3.1. A mozdonyvezetők nyelvi követelményeit a közösségi vasúti rendszereken mozdonyokat és vonatokat működtető mozdonyvezetők minősítéséről szóló 2007/59/EK európai parlamenti és tanácsi irányelv VI. mellékletének módosításáról szóló, 2019. április 5-i (EU) 2019/554 bizottsági rendelet tartalmazza.
 
-[^215]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja, a 20/2020. (VI. 24.) ITM rendelet 9. §-a szerint módosított szöveg.
+[^219]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja, a 20/2020. (VI. 24.) ITM rendelet 9. §-a, a 43/2021. (IX. 8.) ITM rendelet 25. § (3) bekezdése szerint módosított szöveg.

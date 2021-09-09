@@ -1,3 +1,3 @@
-7. melléklet a 19/2011. (V. 10.) NFM rendelethez[^216]
+7. melléklet a 19/2011. (V. 10.) NFM rendelethez[^220]
 
-[^216]: A 7. mellékletet a 45/2019. (XII. 20.) ITM rendelet 49. § d) pontja hatályon kívül helyezte.
+[^220]: A 7. mellékletet a 45/2019. (XII. 20.) ITM rendelet 49. § d) pontja hatályon kívül helyezte.
