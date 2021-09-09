@@ -18,7 +18,7 @@
 
 ## ∗ Beleértve az alapanyagok sótartalmát is, nem csak az ételkészítés során felhasznált sómennyiséget.
 
-6. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^56]
+6. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^57]
 
 Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élelmezési napra, egy főre számítva*
 
@@ -78,4 +78,4 @@ Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élel
 
 3 Óvodás korosztályban nem adható.
 
-[^56]: A 6. melléklet az 54/2014. (XII. 29.) EMMI rendelet 11. §-a, a 36/2016. (XII. 8.) EMMI rendelet 13. § (5) bekezdése szerint módosított szöveg.
+[^57]: A 6. melléklet az 54/2014. (XII. 29.) EMMI rendelet 11. §-a, a 36/2016. (XII. 8.) EMMI rendelet 13. § (5) bekezdése szerint módosított szöveg.

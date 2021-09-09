@@ -1,6 +1,6 @@
 ## 6. Tájékoztatási kötelezettség
 
-6. § (1)[^16] A Közétkeztető minden, általa biztosított étkezéshez étlapot készít, és azt az Intézmény az étkezők – bölcsődékben, valamint nevelési-oktatási intézményekben a szülők – által is jól látható helyen kifüggeszti, és elektronikus formában is elérhetővé teszi, ha az ehhez szükséges feltételek az Intézménynél rendelkezésre állnak.
+6. § (1)[^16] A Közétkeztető minden, általa biztosított étkezéshez étlapot készít, és azt az Intézmény az étkezők – bölcsődékben, mini bölcsődékben, valamint nevelési-oktatási intézményekben a szülők – által is jól látható helyen kifüggeszti, és elektronikus formában is elérhetővé teszi, ha az ehhez szükséges feltételek az Intézménynél rendelkezésre állnak. Diétás étkeztetés esetén a diétás étrendet tartalmazó étlap kifüggesztésétől el lehet tekinteni, ha annak elektronikus formában történő közzététele biztosított. A diétás étrendet tartalmazó étlapon a közzétételt követően végrehajtott módosításokat minden esetben a közzététellel megegyező formában elérhetővé kell tenni azzal, hogy nevelési-oktatási intézmény házirendje a szülő, törvényes képviselő tájékoztatására további közvetlen értesítési formát is meghatározhat.
 
 (1a)[^17] A fekvőbeteg-gyógyintézeti normál étrend szolgáltatása esetén az étlap kifüggesztése kötelező, a speciális diétás étkeztetés esetén a diétás étrendet tartalmazó étlap kifüggesztésétől el lehet tekinteni, ha annak elektronikus formában történő közzététele biztosított.
 
@@ -18,6 +18,6 @@ b) számított sótartalmát, valamint az élelmiszerek jelöléséről szóló 
 
 (6) A 4. melléklet szerinti adagolási útmutatóban foglalt adagot minden fő számára biztosítani szükséges azokban a tálalási formákban is, ahol nem közvetlenül egy személynek kiszolgált adagban kapja meg az étkeztetett személy az ételt.
 
-[^16]: A 6. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^16]: A 6. § (1) bekezdése a 38/2021. (IX. 1.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^17]: A 6. § (1a) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 5. § (2) bekezdése iktatta be.
 [^18]: A 6. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § b) pontja szerint módosított szöveg.

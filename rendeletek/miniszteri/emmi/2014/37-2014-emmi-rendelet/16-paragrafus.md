@@ -1,14 +1,14 @@
 ## 10. Személyi feltételek
 
-16. § (1)[^40] Az étrend, az étlap és a nyersanyag-kiszabati ív összeállítását az élelmezésvezető végzi.
+16. § (1)[^41] Az étrend, az étlap és a nyersanyag-kiszabati ív összeállítását az élelmezésvezető végzi.
 
-(2)[^41] Az ételek elkészítését, az ételosztást a főzőkonyhán az élelmezésvezető felügyeli.
+(2)[^42] Az ételek elkészítését, az ételosztást a főzőkonyhán az élelmezésvezető felügyeli.
 
-(3)[^42] A fekvőbeteg-gyógyintézeti étkeztetés kivételével az élelmezésvezetőnek főiskolai szintű dietetikus képesítéssel, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló kormányrendelet szerinti élelmezésvezető szakképesítéssel vagy államilag elismert élelmezésvezető szakképesítéssel kell rendelkeznie.
+(3)[^43] A fekvőbeteg-gyógyintézeti étkeztetés kivételével az élelmezésvezetőnek főiskolai szintű dietetikus képesítéssel, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló kormányrendelet szerinti élelmezésvezető szakképesítéssel vagy államilag elismert élelmezésvezető szakképesítéssel kell rendelkeznie.
 
 (4) A fekvőbeteg-gyógyintézeti étkeztetés esetén az élelmezésvezetőnek dietetikus szakképesítéssel kell rendelkeznie.
 
-(5)[^43] Diétás étrendet és diétás étlapot kizárólag dietetikus szakképesítéssel rendelkező szakember tervezhet.
+(5)[^44] Diétás étrendet és diétás étlapot kizárólag dietetikus szakképesítéssel rendelkező szakember tervezhet.
 
 (6) A Közétkeztető gondoskodik arról, hogy a diétás étel készítését
 
@@ -16,10 +16,10 @@ a) diétás szakács szakmai képesítéssel rendelkező személy végezze, vagy
 
 b) dietetikus szakképesítéssel rendelkező szakember felügyelje.
 
-(7)[^44] A (3) bekezdés szerinti szakképesítéssel rendelkező személyeknek az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet táplálkozás-egészségügyi tárgyú képzésén ötévente részt kell venniük.
+(7)[^45] A (3) bekezdés szerinti szakképesítéssel rendelkező személyeknek az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet táplálkozás-egészségügyi tárgyú képzésén ötévente részt kell venniük.
 
-[^40]: A 16. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^41]: A 16. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^42]: A 16. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^43]: A 16. § (5) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^44]: A 16. § (7) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 8. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 163. § a) pontja szerint módosított szöveg.
+[^41]: A 16. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^42]: A 16. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^43]: A 16. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^44]: A 16. § (5) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^45]: A 16. § (7) bekezdése az 54/2014. (XII. 29.) EMMI rendelet 8. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 163. § a) pontja szerint módosított szöveg.
