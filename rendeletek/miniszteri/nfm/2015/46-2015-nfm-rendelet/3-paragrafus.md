@@ -1,3 +1,3 @@
-## 2. §[^1]
+3. §[^3]
 
-[^1]: A 2. §-t a 33/2016. (VIII. 2.) NFM rendelet 41. § a) pontja hatályon kívül helyezte.
+[^3]: A 3. §-t a 43/2021. (IX. 8.) ITM rendelet 29. § a) pontja hatályon kívül helyezte.
