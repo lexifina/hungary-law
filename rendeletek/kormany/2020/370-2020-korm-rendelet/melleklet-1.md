@@ -1,4 +1,4 @@
-## 8. §[^4] E rendeletnek az egyes gazdaságfejlesztési tárgyú kormányrendeletek módosításáról szóló 47/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (1) bekezdés k) pontját a Módr. hatálybalépésekor[^5] folyamatban lévő eljárásokban is alkalmazni kell.
+## 9. §[^16] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 525/2021. (IX. 8.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. § e)–h) pontját, 2/A. §-át, 3. § (1) bekezdés d) és e) pontját, 3. § (8) és (10) bekezdését, valamint 4. § (4) bekezdését a Módr2. hatálybalépésekor[^17] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 370/2020. (VII. 30.) Korm. rendelethez
 
@@ -62,5 +62,5 @@
 
 29. az 1–28. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 8. §-t a 47/2021. (II. 5.) Korm. rendelet 13. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2021. február 6.
+[^16]: A 9. §-t az 525/2021. (IX. 8.) Korm. rendelet 14. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2021. szeptember 9.
