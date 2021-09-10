@@ -1,5 +1,3 @@
-## A közalkalmazottak fizetési osztályba sorolása és a munkakörök elnevezése
-
 |  | A | B |
 
 | 1. | Munkakör megnevezése | Közalkalmazotti osztályok |

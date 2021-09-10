@@ -8,6 +8,6 @@ b) az adótanácsadói, valamint
 
 c) az okleveles könyvvizsgáló
 
-## képzés elvégzésének igazolását.
+képzés elvégzésének igazolását.
 
 (3) A Kjt. 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek kell elismerni a jogi szakvizsgát, mérlegképes könyvelő szakképesítést vagy ezzel egyenértékű képesítést, okleveles könyvvizsgálói képesítést, doktori fokozatot (PhD, DLA), a tudomány(ok) kandidátusa, a tudomány(ok) doktora, illetve külföldön szerzett és honosított vagy elismert tudományos fokozatot.

@@ -6,7 +6,7 @@ b) az elnökhelyettesi, valamint
 
 c) a gazdasági elnökhelyettesi
 
-## megbízás.
+megbízás.
 
 (2) Vezetői megbízásnak minősül a főosztályvezetői, főosztályvezető-helyettesi megbízás.
 
