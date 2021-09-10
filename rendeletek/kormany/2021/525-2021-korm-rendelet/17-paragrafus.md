@@ -1,1 +1,3 @@
-## 16. § Hatályát veszti az R2. 2. § c) pontjában a „valamint” szövegrész.
+## 1–16. §[^2]
+
+[^2]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
