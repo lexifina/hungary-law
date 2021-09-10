@@ -1,3 +1,5 @@
-## „(2a) A nevelési-oktatási intézményben, amennyiben a közétkeztetés keretében nem biztosítható a gyermek és a tanuló diétás étkezése, – a szülő, más törvényes képviselő írásbeli nyilatkozata alapján – a gyermek és a tanuló által az intézménybe bevitt, vagy a szülő, más törvényes képviselő által az intézménybe rendelt étel intézményben történő elfogyasztásának lehetővé tételével is biztosítható. Ennek érdekében a nevelési-oktatási intézmény vezetője köteles biztosítani a hűtés, a melegítés és a fogyasztás megfelelő feltételeit a hatályos jogszabályok és szakmai előírások betartásával.”
+## 2. §[^3]
 
 3. § Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

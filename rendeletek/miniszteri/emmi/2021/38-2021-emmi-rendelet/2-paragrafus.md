@@ -1,9 +1,3 @@
-## 1. § A közétkeztetésre vonatkozó táplálkozás-egészségügyi előírásokról szóló 37/2014. (IV. 30.) EMMI rendelet (a továbbiakban: R.) 6. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „(1) A Közétkeztető minden, általa biztosított étkezéshez étlapot készít, és azt az Intézmény az étkezők – bölcsődékben, mini bölcsődékben, valamint nevelési-oktatási intézményekben a szülők – által is jól látható helyen kifüggeszti, és elektronikus formában is elérhetővé teszi, ha az ehhez szükséges feltételek az Intézménynél rendelkezésre állnak. Diétás étkeztetés esetén a diétás étrendet tartalmazó étlap kifüggesztésétől el lehet tekinteni, ha annak elektronikus formában történő közzététele biztosított. A diétás étrendet tartalmazó étlapon a közzétételt követően végrehajtott módosításokat minden esetben a közzététellel megegyező formában elérhetővé kell tenni azzal, hogy nevelési-oktatási intézmény házirendje a szülő, törvényes képviselő tájékoztatására további közvetlen értesítési formát is meghatározhat.”
-
-2. § (1) Az R. 15. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A fekvőbeteg-ellátást nyújtó intézményben, személyes gondoskodást nyújtó gyermekjóléti alapellátást, gyermekvédelmi szakellátást, illetve szociális szakosított ellátást nyújtó intézményben, valamint a nevelési-oktatási intézményben minden, szakorvos által igazolt diétás étkezést igénylő személy számára az állapotának megfelelő diétás étrendet kell biztosítani a (2)–(5) bekezdésben, valamint a 16. § (5) és (6) bekezdésében foglaltak betartásával, figyelemmel az étkezések szakorvos által meghatározottak szerinti időzítésére és az étel dietetikus által meghatározott megfelelő adagolására, különös tekintettel a szénhidrátanyagcsere-rendellenességgel élő személyekre.”
-
-(2) Az R. 15. §-a a következő (2a) bekezdéssel egészül ki:
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
