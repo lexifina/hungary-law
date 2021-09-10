@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-11-00-00
 | 2018-01-01 | 2017. évi CXXX. törvény | 1997-11-00-00.35 |
 | 2019-01-01 | 2018. évi LXVII. törvény | 1997-11-00-00.36 |
 | 2021-05-25 | 2021. évi XXXVI. törvény | 1997-11-00-00.37 |
+| 2021-09-10 | 2021. évi XXVIII. törvény | 1997-11-00-00.38 |

@@ -1,21 +1,25 @@
 ## XVII/B. Fejezet
 
-## AZ EREDETMEGJELÖLÉSEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ SZABÁLYOK
+## AZ EREDETMEGJELÖLÉSEK ÉS FÖLDRAJZI JELZÉSEK NEMZETKÖZI LAJSTROMOZÁSÁRA VONATKOZÓ SZABÁLYOK
 
-## Általános szabályok
+## Értelmező rendelkezések
 
 116/D. § (1) E törvény alkalmazásában
 
-a) az eredetmegjelölés nemzetközi bejelentése (a továbbiakban: nemzetközi bejelentés): az 1958. évi október hó 31-én kelt, az eredetmegjelölések oltalmáról és nemzetközi lajstromozásáról szóló Lisszaboni Megállapodás (e rész alkalmazásában a továbbiakban: Megállapodás) alapján tett bejelentés;
+a) (EU) 2019/1753 rendelet: az Uniónak a Lisszaboni Megállapodás eredetmegjelölésekről és földrajzi jelzésekről szóló genfi szövegéhez történő csatlakozását követő fellépéséről szóló, 2019. október 23-i (EU) 2019/1753 európai parlamenti és tanácsi rendelet;
 
-b) Nemzetközi Iroda: a Szellemi Tulajdon Világszervezetének Nemzetközi Irodája;
+b) genfi szöveg: az eredetmegjelölések oltalmára és nemzetközi lajstromozására 1958. október 31-én létrehozott, és 1967. július 14-én Stockholmban felülvizsgált és 1979. szeptember 28-án módosított Lisszaboni Megállapodás (a továbbiakban: Lisszaboni Megállapodás) eredetmegjelölésekről és földrajzi jelzésekről szóló 2015. május 20-i genfi szövege;
 
-c) nemzetközi lajstrom: a Megállapodás alapján bejelentett eredetmegjelölésekről a Nemzetközi Iroda által vezetett nyilvántartás;
+c) genfi szöveg szerinti nemzetközi bejelentés: a genfi szöveg, valamint a Lisszaboni Megállapodáshoz és a genfi szöveghez kapcsolódó Közös Végrehajtási Szabályzat (a továbbiakban: Közös Végrehajtási Szabályzat) alapján tett, eredetmegjelölésre vagy földrajzi jelzésre vonatkozó bejelentés, ahol az érintett szerződő felek egymás közötti viszonyára a genfi szöveg az irányadó;
 
-d) származási ország hivatala: a Megállapodás 2. cikkének (2) bekezdése szerinti származási ország illetékes hivatala.
+d) illetékes hatóság: a genfi szöveg 3. cikke szerinti illetékes hatóság;
 
-(2) Ahol e törvény a Megállapodás alkalmazására utal, azon a Megállapodáshoz kapcsolódó Végrehajtási Szabályzat alkalmazását is érteni kell.
+e) Lisszaboni Megállapodás, valamint a Közös Végrehajtási Szabályzat szerinti nemzetközi bejelentés: a Lisszaboni Megállapodás alapján tett bejelentés, ahol az érintett szerződő felek egymás közötti viszonyára a Lisszaboni Megállapodás az irányadó;
 
-(3) A nemzetközi bejelentések tekintetében a Megállapodás eltérő rendelkezése hiányában – az e fejezetben foglalt eltérésekkel – e törvény rendelkezéseit kell megfelelően alkalmazni.
+f) Nemzetközi Iroda: a Szellemi Tulajdon Világszervezetének Nemzetközi Irodája;
 
-(4)
+g) nemzetközi lajstrom: a Lisszaboni Megállapodás alapján bejelentett eredetmegjelölésekről, valamint a genfi szöveg szerinti eredetmegjelölésekről és földrajzi jelzésekről a Nemzetközi Iroda által vezetett nyilvántartás;
+
+h) származási ország hivatala: a Lisszaboni Megállapodás 2. cikk (2) bekezdése szerinti származási ország illetékes hivatala.
+
+(2) A nemzetközi bejelentések tekintetében a Lisszaboni Megállapodás vagy a genfi szöveg eltérő rendelkezése hiányában e törvény rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
