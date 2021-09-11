@@ -69,3 +69,7 @@ q) a magánútlevél kiadásában közreműködő hatóság értesítése a term
 r) a születést anyakönyvező anyakönyvvezető által a 7. § (3) bekezdésében meghatározott újszülött hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.
 
 s) az anyakönyvvezető által a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő házassági nevet felvevő, Magyarországon házasságot kötő, érvényes állandó személyazonosító igazolvánnyal rendelkező és hivatalbóli kiállítást megakadályozó nyilatkozatot nem tevő magyar állampolgárok esetén a hivatalból kiadásra kerülő állandó személyazonosító igazolványa kiadásához szükséges adatok.
+
+t) az útiokmány-nyilvántartó szerv értesítése az útlevél okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokról;
+
+u) a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető szerv értesítése a kártyaformátumú vezetői engedély okmányazonosítója, érvényessége, illetve érvénytelensége ténye és oka adatokról.

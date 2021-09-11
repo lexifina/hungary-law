@@ -22,7 +22,11 @@ b) új lakcímét,
 
 c) jogszabályban meghatározott kivétellel a szállásadó nevét, szállásadói minőségét, lakcímét vagy székhelyét és hozzájárulását.
 
-(1b) A nyilvántartással összefüggő eljárásban informatikai rendszer igénybevételével előállított lakcímbejelentés iránti kérelem – jogszabályban meghatározott adatokon kívül – tartalmazza az eljáró polgár személyazonosság igazolására alkalmas hatósági igazolványának adatait és cselekvőképessége tényét az eljárás lefolytatása céljából.
+(1b) A jogszabályban meghatározott adatokon kívül a nyilvántartással összefüggő eljárásban informatikai rendszer igénybevételével előállított
+
+a) lakcímbejelentés iránti kérelem tartalmazza az eljáró polgár személyazonosság igazolására alkalmas hatósági igazolványának adatait és cselekvőképessége tényét az eljárás lefolytatása céljából,
+
+b) személyazonosító igazolvány iránti kérelem a polgár kérésére tartalmazza kapcsolattartási adatait (telefonszám, elektronikus levelezési cím) az okmány átadása, valamint értesítés küldése céljából.
 
 (2) A polgár a személyazonosító igazolvány, valamint az egységes arcképmás- és aláírás-felvételezés iránti kérelem előterjesztésekor rendelkezésre bocsátja – és a jogszabályban foglaltak szerint igazolja – a 29. § (2) bekezdés a)–g) pontjában megjelölt adatait, és – ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan – saját kezű aláírását. Ha a polgár írásképtelen vagy írástudatlan, a kérelem aláírás rovatában a kiállító hatóság az „írásképtelen” megjelölést tünteti fel. A polgár a személyazonosító igazolvány iránti kérelem előterjesztésekor – a 29. § (9) bekezdésében foglaltak kivételével –rendelkezésre bocsátja az ujjnyomatát is.
 

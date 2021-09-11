@@ -40,6 +40,12 @@ q) arcképmásához rendelt, az arcképelemzési nyilvántartásról és az arck
 
 r) személyazonosító igazolvány kérelem és adatlap ügyszámát.
 
+s) útlevelének okmányazonosítóját, érvényessége, illetve érvénytelensége tényét és ennek okát, valamint
+
+t) kártyaformátumú vezetői engedélye okmányazonosítóját, érvényessége, illetve érvénytelensége tényét és ennek okát.
+
+(1a) Az (1) bekezdés s) és t) pontja szerinti adatot a nyilvántartás az 1. § (2) bekezdése szerinti célból – a személyazonosításra alkalmas adatokkal együtt – a polgárok személyazonosság igazolására alkalmas hatósági igazolványai érvényességének egységes nyilvántartása és igazolása céljából tartalmazza.
+
 (2) A nyilvántartás a szabad mozgás és tartózkodás jogával rendelkező személynek az (1) bekezdés a)–j) és l) pontja szerinti adatait, valamint személyi azonosítójáról és lakcíméről kiadott hatósági igazolványának okmányazonosítóját tartalmazza.
 
 (3) Ha a menekült vagy oltalmazott jogállású személy letelepedett jogállást szerez, a nyilvántartás mind a menekült, illetve oltalmazott, mind a letelepedett jogállását tartalmazza.
