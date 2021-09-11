@@ -1,6 +1,6 @@
-## 3/C. §[^19] A konzuli tisztviselő munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy, továbbá a külpolitikáért felelős miniszter által vezetett minisztérium konzuli ügyekben feladatkörrel rendelkező kormánytisztviselője közreműködik a 3/B. §-ban meghatározott feladatok ellátásában.
+## 3/C. §[^21] A konzuli tisztviselő munkájában közreműködő, a külpolitikáért felelős miniszter által felhatalmazott, diplomáciai vagy hivatásos konzuli képviseleten igazgatási munkakörben konzuli feladatot ellátó személy, továbbá a külpolitikáért felelős miniszter által vezetett minisztérium konzuli ügyekben feladatkörrel rendelkező kormánytisztviselője közreműködik a 3/B. §-ban meghatározott feladatok ellátásában.
 
-## 4. §[^20] A nyilvántartást kezelő szerv
+## 4. §[^22] A nyilvántartást kezelő szerv
 
 a) dönt a személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról, ha a polgár nem rendelkezik személyazonosság igazolására alkalmas más érvényes hatósági igazolvánnyal, valamint ha első alkalommal igényel tároló elemmel rendelkező személyazonosító igazolványt, a nála előterjesztett kérelem esetén,
 
@@ -8,13 +8,13 @@ b) intézkedik a személyazonosító igazolvánnyal kapcsolatos ügyintézés so
 
 c) gondoskodik a személyazonosító igazolvány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása, érvénytelenítése, valamint leadása tényének a személyazonosító igazolvány nyilvántartáson történő átvezetéséről,
 
-d)[^21] a személyazonosító igazolvány nyilvántartásban rögzíti a személyazonosító igazolvány kitöltésének tényét, és kezeli – az Nytv. 9. § (3) bekezdése szerint – az eljárásban keletkezett alapiratokat,
+d)[^23] a személyazonosító igazolvány nyilvántartásban rögzíti a személyazonosító igazolvány kitöltésének tényét, és kezeli – az Nytv. 9. § (3) bekezdése szerint – az eljárásban keletkezett alapiratokat,
 
 e) ellátja a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos hatósági tevékenység szakmai felügyeletét,
 
 f) törvényben meghatározottak szerint adatszolgáltatást teljesít a személyazonosító igazolvány nyilvántartásból,
 
-g)[^22] teljesíti a 44. § szerint előterjesztett kérelmet,
+g)[^24] teljesíti a 44. § szerint előterjesztett kérelmet,
 
 h) a jogosult megkeresésére jelzést helyez el a személyazonosító igazolvány nyilvántartásban, és teljesíti az ezzel kapcsolatos, törvényen alapuló adatszolgáltatási kötelezettséget,
 
@@ -38,22 +38,22 @@ q) ellátja az országos aláíró hitelesítő hatósági (CSCA) és a dokument
 
 r) ellátja az országos ellenőrzőhitelesítő hatósági (CVCA), valamint a dokumentumellenőrző-hitelesítő hatósági (DV) feladatokat,
 
-s)[^23] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a szolgáltatásazonosító rögzítését,
+s)[^25] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a szolgáltatásazonosító rögzítését,
 
-t)[^24] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
+t)[^26] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
 
-u)[^25] dönt az állandó személyazonosító igazolvány az Nytv. 29. § (16a) bekezdésében foglalt kiadásáról, kiadásának megtagadásáról.
+u)[^27] dönt az állandó személyazonosító igazolvány az Nytv. 29. § (16a) bekezdésében foglalt kiadásáról, kiadásának megtagadásáról.
 
-v)[^26] hivatalból kiadja a személyazonosító igazolványt a 31/A. § (1) bekezdése szerinti esetben,
+v)[^28] hivatalból kiadja a személyazonosító igazolványt a 31/A. § (1) bekezdése szerinti esetben,
 
-w)[^27] hivatalból kiadja a személyazonosító igazolványt a 31/B. § (1) bekezdése szerinti esetben.
+w)[^29] hivatalból kiadja a személyazonosító igazolványt a 31/B. § (1) bekezdése szerinti esetben.
 
-[^19]: A 3/C. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
-[^20]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
-[^21]: A 4. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 555. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^22]: A 4. § g) pontja a 181/2019. (VII. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^23]: A 4. § s) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (5) bekezdése iktatta be.
-[^24]: A 4. § t) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (6) bekezdése iktatta be.
-[^25]: A 4. § u) pontját a 6/2020. (I. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^26]: A 4. § v) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.
-[^27]: A 4. § w) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.
+[^21]: A 3/C. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (7) bekezdése iktatta be.
+[^22]: A 4. § a 379/2016. (XII. 2.) Korm. rendelet 311. § (8) bekezdésével megállapított szöveg.
+[^23]: A 4. § d) pontja a 457/2017. (XII. 28.) Korm. rendelet 555. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^24]: A 4. § g) pontja a 181/2019. (VII. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^25]: A 4. § s) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (5) bekezdése iktatta be.
+[^26]: A 4. § t) pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (6) bekezdése iktatta be.
+[^27]: A 4. § u) pontját a 6/2020. (I. 31.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^28]: A 4. § v) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.
+[^29]: A 4. § w) pontját az 572/2020. (XII. 9.) Korm. rendelet 65. §-a iktatta be.

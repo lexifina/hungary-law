@@ -1,3 +1,3 @@
-13. §[^44]
+13. §[^46]
 
-[^44]: A 13. §-t az 572/2020. (XII. 9.) Korm. rendelet 83. § b) pontja hatályon kívül helyezte.
+[^46]: A 13. §-t az 572/2020. (XII. 9.) Korm. rendelet 83. § b) pontja hatályon kívül helyezte.

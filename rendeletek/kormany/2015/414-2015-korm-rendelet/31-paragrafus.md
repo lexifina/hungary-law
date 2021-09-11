@@ -1,12 +1,12 @@
-31. § (1)[^102] Az Utv. 16/D. § (1) és (3) bekezdése szerinti adatszolgáltatás kézhezvételét követően a kijelölt kormányhivatal haladéktalanul gondoskodik a személyazonosító igazolvány érvénytelensége tényének a személyazonosító igazolvány nyilvántartáson történő átvezetéséről.
+31. § (1)[^104] Az Utv. 16/D. § (1) és (3) bekezdése szerinti adatszolgáltatás kézhezvételét követően a kijelölt kormányhivatal haladéktalanul gondoskodik a személyazonosító igazolvány érvénytelensége tényének a személyazonosító igazolvány nyilvántartáson történő átvezetéséről.
 
-(2)[^103] Az elvett személyazonosító igazolványt a kijelölt kormányhivatal őrzi. Az elvett és érvényességi ideje miatt lejárt érvénytelen személyazonosító igazolványt selejtezi, és gondoskodik e ténynek a személyazonosító igazolvány nyilvántartáson történő átvezetéséről.
+(2)[^105] Az elvett személyazonosító igazolványt a kijelölt kormányhivatal őrzi. Az elvett és érvényességi ideje miatt lejárt érvénytelen személyazonosító igazolványt selejtezi, és gondoskodik e ténynek a személyazonosító igazolvány nyilvántartáson történő átvezetéséről.
 
-(3)[^104] Az Utv. 16/D. § (2) és (4) bekezdése szerinti adatszolgáltatás kézhezvételét követően a kijelölt kormányhivatal – ha a személyazonosító igazolvány érvényességi ideje még nem járt le – haladéktalanul gondoskodik az elvett személyazonosító igazolvány érvényessége tényének a személyazonosító igazolvány nyilvántartáson történő átvezetéséről.
+(3)[^106] Az Utv. 16/D. § (2) és (4) bekezdése szerinti adatszolgáltatás kézhezvételét követően a kijelölt kormányhivatal – ha a személyazonosító igazolvány érvényességi ideje még nem járt le – haladéktalanul gondoskodik az elvett személyazonosító igazolvány érvényessége tényének a személyazonosító igazolvány nyilvántartáson történő átvezetéséről.
 
-(4)[^105] A kijelölt kormányhivatal azt a személyazonosító igazolványt, amelynek érvényességi ideje még nem járt le, a jogosult kérelmére – a 29. § (2) és (3) bekezdése és a 30. § (2) bekezdése alapján kiállított személyazonosító igazolvány polgár általi leadását követően – visszaadja.
+(4)[^107] A kijelölt kormányhivatal azt a személyazonosító igazolványt, amelynek érvényességi ideje még nem járt le, a jogosult kérelmére – a 29. § (2) és (3) bekezdése és a 30. § (2) bekezdése alapján kiállított személyazonosító igazolvány polgár általi leadását követően – visszaadja.
 
-[^102]: A 31. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
-[^103]: A 31. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
-[^104]: A 31. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
-[^105]: A 31. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^104]: A 31. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^105]: A 31. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^106]: A 31. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
+[^107]: A 31. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja szerint módosított szöveg.
