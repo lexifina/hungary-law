@@ -52,6 +52,8 @@ b) a bevándorolt vagy a letelepedett külföldön bekövetkezett elhalálozás�
 
 (12)[^190] A jegyző, a járási hivatal, a kijelölt kormányhivatal, a konzuli tisztviselő, valamint a büntetés-végrehajtási intézet a polgár Nytv. 11. § (5) bekezdése szerinti kérelmét haladéktalanul továbbítja a nyilvántartást kezelő szerv részére.
 
+(13)[^191] Az útiokmány-nyilvántartó szerv az útlevél, valamint a közúti közlekedési nyilvántartás engedély-nyilvántartását vezető szerv a kártyaformátumú vezetői engedély okmányazonosítójáról, érvényessége, illetve érvénytelenné válása tényéről és okáról a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervet automatikus információátadással haladéktalanul értesíti.
+
 [^167]: Az R. 21. §-a a 13/1999. (II. 1.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^168]: Az R. 21. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított, a 440/2016. (XII. 16.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^169]: Az R. 21. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 14. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
@@ -76,3 +78,4 @@ b) a bevándorolt vagy a letelepedett külföldön bekövetkezett elhalálozás�
 [^188]: Az R. 21. § (9) – eredetileg (7) – bekezdése a 230/2000. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg, számozását (10) bekezdésre változtatta a 115/2007. (V. 24.) Korm. rendelet 1. § (9) bekezdése. Az R. 21. § (10) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § g) pontja, a 39. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 15. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^189]: Az R. 21. § (11) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 1. § (6) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^190]: Az R. 21. § (12) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^191]: Az R. 21. § (13) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.

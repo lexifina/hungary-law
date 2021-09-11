@@ -1,4 +1,4 @@
-34. § (1)[^244] A bejelentett lakcím valódiságát a címnyilvántartásban szereplő adatok – és ha az eset körülményei ezt indokolják, helyszíni szemle – alapján a jegyző, illetve a járási hivatal ellenőrzi. Ha
+34. § (1)[^246] A bejelentett lakcím valódiságát a címnyilvántartásban szereplő adatok – és ha az eset körülményei ezt indokolják, helyszíni szemle – alapján a jegyző, illetve a járási hivatal ellenőrzi. Ha
 
 a) a bejelentett lakcím nem valós,
 
@@ -12,11 +12,11 @@ e) a bejelentés egyéb okból nem felel meg a lakcímbejelentésre vonatkozó j
 
 a bejelentkezést el kell utasítani.
 
-(1a)[^245]
+(1a)[^247]
 
-(2)[^246] Ha a polgár által bejelentett lakcím nem szerepel a címnyilvántartásban, de a polgár a lakcím természetbeni létezését igazolja, a bejelentést – a jegyző által annak központi címregiszterbe bejegyzésével – el kell fogadni.
+(2)[^248] Ha a polgár által bejelentett lakcím nem szerepel a címnyilvántartásban, de a polgár a lakcím természetbeni létezését igazolja, a bejelentést – a jegyző által annak központi címregiszterbe bejegyzésével – el kell fogadni.
 
-(2a)[^247] Ha a szállásadó az Nytv. 27/B. §-a szerinti értesítés szolgáltatást igényelt, a szállásadó választásának megfelelő módon
+(2a)[^249] Ha a szállásadó az Nytv. 27/B. §-a szerinti értesítés szolgáltatást igényelt, a szállásadó választásának megfelelő módon
 
 a) levélben, telefax vagy e-mail útján a kijelölt kormányhivatal, vagy
 
@@ -24,19 +24,19 @@ b) szöveges üzenetközvetítési szolgáltatás igénybevételével a nyilván
 
 értesítést küld részére az elfogadott lakcímbejelentésről.
 
-(3)[^248] Ha az érvénytelenítéssel vagy „fiktív” jelzés szerepeltetésével érintett lakcím szerint illetékes jegyző, illetve járási hivatal a bejelentkezés elfogadása után állapítja meg, hogy a bejelentett lakcím nem valós, vagy a lakcímbejelentés nem felelt meg az (1) bekezdésben foglalt feltételeknek, akkor megállapítja a lakcím érvénytelenségét, és a döntés véglegessé válását követően az érvénytelen lakcímadatot a nyilvántartásban érvénytelen vagy fiktív jelzéssel szerepelteti mindaddig, amíg a polgár a valós lakcímét be nem jelenti.
+(3)[^250] Ha az érvénytelenítéssel vagy „fiktív” jelzés szerepeltetésével érintett lakcím szerint illetékes jegyző, illetve járási hivatal a bejelentkezés elfogadása után állapítja meg, hogy a bejelentett lakcím nem valós, vagy a lakcímbejelentés nem felelt meg az (1) bekezdésben foglalt feltételeknek, akkor megállapítja a lakcím érvénytelenségét, és a döntés véglegessé válását követően az érvénytelen lakcímadatot a nyilvántartásban érvénytelen vagy fiktív jelzéssel szerepelteti mindaddig, amíg a polgár a valós lakcímét be nem jelenti.
 
-(3a)[^249]
+(3a)[^251]
 
-(4)[^250] A lakcímbejelentés (1) bekezdés szerinti elutasításáról, illetve a lakcím érvénytelenségének megállapításáról a jegyző, illetve a járási hivatal a bevándorolt, illetve letelepedett jogállású polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy esetén haladéktalanul értesíti az illetékes területi idegenrendészeti hatóságot.
+(4)[^252] A lakcímbejelentés (1) bekezdés szerinti elutasításáról, illetve a lakcím érvénytelenségének megállapításáról a jegyző, illetve a járási hivatal a bevándorolt, illetve letelepedett jogállású polgár, valamint a szabad mozgás és tartózkodás jogával rendelkező személy esetén haladéktalanul értesíti az illetékes területi idegenrendészeti hatóságot.
 
-(5)[^251] A kiskorú gyermek lakóhelye érvénytelenségének megállapításáról vagy „fiktív” jelzéssel szerepeltetéséről, továbbá a 36. § (4) bekezdésében meghatározott lakóhelye nyilvántartásba vételéről a jegyző, illetve a járási hivatal haladéktalanul értesíti a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott illetékes család- és gyermekjóléti szolgálatot.
+(5)[^253] A kiskorú gyermek lakóhelye érvénytelenségének megállapításáról vagy „fiktív” jelzéssel szerepeltetéséről, továbbá a 36. § (4) bekezdésében meghatározott lakóhelye nyilvántartásba vételéről a jegyző, illetve a járási hivatal haladéktalanul értesíti a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott illetékes család- és gyermekjóléti szolgálatot.
 
-[^244]: Az R. 34. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^245]: Az R. 34. § (1a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 10. pontja.
-[^246]: Az R. 34. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^247]: Az R. 34. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (15) bekezdésével megállapított szöveg.
-[^248]: Az R. 34. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^249]: Az R. 34. § (3a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (5) bekezdése iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 10. pontja.
-[^250]: Az R. 34. §-ának (4) bekezdését a 9/2004. (I. 31.) Korm. rendelet 9. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 1. § (13) bekezdésével megállapított és a 417/2012. (XII. 29.) Korm. rendelet 40. § t) pontja, 41. § j) pontja szerint módosított szöveg.
-[^251]: Az R. 34. § (5) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 4. §-a iktatta be.
+[^246]: Az R. 34. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^247]: Az R. 34. § (1a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 10. pontja.
+[^248]: Az R. 34. § (2) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^249]: Az R. 34. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (15) bekezdésével megállapított szöveg.
+[^250]: Az R. 34. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^251]: Az R. 34. § (3a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 30. § (5) bekezdése iktatta be, hatályon kívül helyezte a 375/2021. (VI. 30.) Korm. rendelet 4. § 10. pontja.
+[^252]: Az R. 34. §-ának (4) bekezdését a 9/2004. (I. 31.) Korm. rendelet 9. §-a iktatta be, szövege a 115/2007. (V. 24.) Korm. rendelet 1. § (13) bekezdésével megállapított és a 417/2012. (XII. 29.) Korm. rendelet 40. § t) pontja, 41. § j) pontja szerint módosított szöveg.
+[^253]: Az R. 34. § (5) bekezdését a 235/2017. (VIII. 18.) Korm. rendelet 4. §-a iktatta be.
