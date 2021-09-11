@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-61-00-00
 | --- | --- | --- |
 | 2018-10-12 | 2018. évi LXI. törvény | 2018-61-00-00.0 (közlönyállapot) |
 | 2018-10-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-61-00-00.1 |
+| 2021-09-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2018-61-00-00.2 |
