@@ -1,3 +1,3 @@
-9. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^138]
+9. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^129]
 
-[^138]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

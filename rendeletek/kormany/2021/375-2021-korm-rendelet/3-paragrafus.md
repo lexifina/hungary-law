@@ -1,23 +1,22 @@
-## 2. §[^8]
+## 2. §[^6]
 
 ## 3. § A 146/1993. (X. 26.) Korm. r.
 
-1.[^9]
+1.[^7]
 
-2.[^10]
+2. 22. § (2) bekezdésében a „személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény” szövegrész helyébe a „személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaztv.)” szöveg,
 
-3.[^11]
+3.[^8]
 
-4.[^12]
+4.[^9]
 
-5.[^13]
+5.[^10]
 
-6.[^14]
+6.[^11]
 
-[^8]: A 2. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^9]: A 3. § 1. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^10]: A 3. § 2. pontja a 33. § (3) bekezdése alapján 2021. szeptember 11-én lép hatályba.
-[^11]: A 3. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 3. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 3. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 3. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^7]: A 3. § 1. pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^8]: A 3. § 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 3. § 4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3. § 6. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
