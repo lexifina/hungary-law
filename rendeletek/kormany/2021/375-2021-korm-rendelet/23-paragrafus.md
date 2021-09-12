@@ -1,1 +1,0 @@
-## „(5b) A konzuli tisztviselő a nála leadott ideiglenes személyazonosító igazolványt a leadástól számított 30 napon belül megsemmisíti, és gondoskodik e ténynek a személyazonosító igazolvány nyilvántartásban való feltüntetéséről.”

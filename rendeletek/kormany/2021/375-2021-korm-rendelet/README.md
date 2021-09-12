@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-375-20-
 | 2021-08-01 | 2021-375-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-08-02 | 2021-375-20-22.5 | 2010: CXXX. törvény |
 | 2021-09-11 | 2021-375-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-09-12 | 2021-375-20-22.7 | 2010: CXXX. törvény |
