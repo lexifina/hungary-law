@@ -16,9 +16,7 @@
 
 (8)
 
-(9) Az Utv. 27. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) Az adatkezelő szerv az útiokmány-nyilvántartásban szereplő útlevél okmányazonosítójáról, érvényessége, illetve érvénytelensége tényéről és ennek okáról értesíti a személyiadat- és lakcímnyilvántartást vezető szervet.”
+(9)
 
 (10)
 
