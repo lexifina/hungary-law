@@ -1,12 +1,26 @@
+## 5/A. §[^15] Ha a kötelezett az e rendeletben a felügyeleti díjjal kapcsolatban meghatározott előírásoknak határidőre nem vagy nem megfelelően tesz eleget, a Hivatal a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény, valamint a VET., a GET, a Tszt., a Ht., a Vksztv. és a közúti közlekedésről szóló 1988. évi I. törvény szerinti jogkövetkezményeket alkalmazhatja.
+
 ## 2. Az igazgatási szolgáltatási díjak
 
-6. § (1) A Hivatal hatáskörébe tartozó eljárásokért a kérelem benyújtójának az 1. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat kell megfizetni.
+6. §[^16] (1) A Hivatal feladat- és hatáskörébe tartozó, kérelemre induló eljárásokért – a felhasználói panaszeljárás kivételével – a kérelmező igazgatási szolgáltatási díjat fizet. A kérelmező a befizetésről szóló, hitelt érdemlő igazolást csatolja a kérelemhez.
 
-(2)[^14] Az igazgatási szolgáltatási díjakat – a (4) bekezdésben foglalt kivétellel – a kérelem benyújtását megelőzően kell befizetni a Hivatal Magyar Államkincstárnál vezetett 10032000-01714373-00000000 számú előirányzat-felhasználási keretszámlájára, az erről szóló hitelt érdemlő igazolást a kérelemhez csatolni kell. Az igazgatási szolgáltatási díjról a Hivatal elkülönített nyilvántartást vezet.
+(2) Az igazgatási szolgáltatási díj mértékét az 1. mellékletben meghatározott eljárások esetén az 1. melléklet tartalmazza. Az 1. mellékletben nem nevesített eljárások esetén fizetendő átalány igazgatási szolgáltatási díj mértéke tízezer forint.
 
-(3) Az igazgatási szolgáltatási díj teljesítése során az átutalási megbízás megjegyzés rovatában – azonosítás céljából – fel kell tüntetni az utalásra kerülő összeg 1. melléklet szerinti jogcímét a díjtételnek megfelelő táblázat betűjele és sorszáma megjelölésével.
+(3) Az igazgatási szolgáltatási díjat – a (7) bekezdésben foglalt kivétellel – a kérelem benyújtását megelőzően kell befizetni a Hivatal Magyar Államkincstárnál vezetett 10032000-01714373-00000000 számú előirányzat-felhasználási keretszámlájára.
 
-(4)[^15] A Nemzeti Víziközmű Nyilvántartásból történő adatszolgáltatással kapcsolatban felmerült igazgatási szolgáltatási díjak esetében a díjfizetési kötelezettség a kérelem benyújtását követő ötödik napig – a (2) bekezdésben meghatározott előirányzat-felhasználási keretszámla javára – átutalással teljesíthető.
+(4) A befizetést a kerekítési szabályoknak megfelelően száz forintra kerekített összegben oly módon kell teljesíteni, hogy az ötven forint alatti maradékot el kell hagyni, az ötven forintot és az azt meghaladó összeget száz forintnak kell számolni.
 
-[^14]: A 6. § (2) bekezdés a 10/2014. (XI. 6.) MEKH rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^15]: A 6. § (4) bekezdését a 10/2014. (XI. 6.) MEKH rendelet 5. § (2) bekezdése iktatta be, szövege az 1/2019. (III. 13.) MEKH rendelet 2. §-ával megállapított szöveg.
+(5) Az igazgatási szolgáltatási díjat forintban kell befizetni. A befizetés devizában történő kezdeményezése esetén a kérelmezőnek a pénzforgalmi szolgáltatójánál úgy kell rendelkeznie, hogy a Hivatal (3) bekezdés szerinti előirányzat-felhasználási keretszámláján az igazgatási szolgáltatási díjfizetési kötelezettségnek pontosan megfelelő összegű forint kerüljön jóváírásra.
+
+(6) Az igazgatási szolgáltatási díj teljesítése során az átutalási megbízás megjegyzés rovatában – azonosítás céljából – fel kell tüntetni az utalásra kerülő összeg 1. melléklet szerinti jogcímét a díjtételnek megfelelő táblázat betűjele és sorszáma megjelölésével, vagy utalni kell arra, hogy átalány igazgatási szolgáltatási díj került megfizetésre. Ha az igazgatási szolgáltatási díjat nem a kérelmező fizeti be, akkor az átutalási megbízás megjegyzés rovatában a kérelmező nevét is fel kell tüntetni.
+
+(7) A Nemzeti Víziközmű Nyilvántartásból történő adatszolgáltatással kapcsolatban felmerült igazgatási szolgáltatási díjak esetében a díjfizetési kötelezettség a kérelem benyújtását követő ötödik napig – a (3) bekezdésben meghatározott előirányzat-felhasználási keretszámla javára – átutalással vagy bankkártyás fizetéssel az ügyfélszolgálaton teljesíthető.
+
+(8) Az igazgatási szolgáltatási díjfizetési kötelezettségről a Hivatal elkülönített nyilvántartást vezet. A nyilvántartásnak tartalmaznia kell
+
+a) az igazgatási szolgáltatási díjfizetésre kötelezett nevét (megnevezését), adószámát, címét (székhelyét),
+
+b) a díjfizetés jogcímét és az igazgatási szolgáltatási díj összegét.
+
+[^15]: Az 5/A. §-t a 10/2021. (VIII. 13.) MEKH rendelet 2. §-a iktatta be.
+[^16]: A 6. § a 10/2021. (VIII. 13.) MEKH rendelet 3. §-ával megállapított szöveg.

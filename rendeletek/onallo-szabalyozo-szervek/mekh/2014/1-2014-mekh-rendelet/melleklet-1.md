@@ -1,4 +1,4 @@
-1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^27]
+1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^28]
 
 Igazgatási szolgáltatási díjak
 
@@ -90,7 +90,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 42. | b) módosítása iránti kérelem elbírálása | 200 |
 
-| 43. | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő hozzájárulás iránti kérelem elbírálása |  |
+| 43. | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
 
 | 44. | a) földgázszállító, szállítási rendszerüzemeltető esetében | 5 000 |
 
@@ -114,9 +114,11 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 54. | g) vezetékes PB-gáz szolgáltató esetében | 100 |
 
-| 55. | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 95 |
+| 54/A. | Engedélyesben történő közvetett befolyásszerzéshez előzetes hozzájárulás iránti kérelem elbírálása (engedélyenként) | 105 |
 
-| 55/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 100 |
+| 55. | Engedélyesben történő befolyásszerzés tudomásulvétele iránti kérelem elbírálása (engedélyenként) | 405 |
+
+| 55/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 200 |
 
 | 56. | Szállítási rendszerüzemeltetőben vagy annak irányító részvényesében irányítást biztosító részesedésszerzéshez vagy ezt eredményező jogügylet létrejöttéhez történő hozzájárulás iránti kérelem elbírálása | 5 000 |
 
@@ -348,7 +350,7 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 71 | b) módosítása iránti kérelem elbírálása | 1 000 |
 
-| 72 | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő hozzájárulás iránti kérelem elbírálása |  |
+| 72 | Engedélyes szétválásához, egyesüléséhez, jogutód nélküli megszűnéséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő közvetlen befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
 
 | 73 | a) termelő esetében |  |
 
@@ -368,9 +370,11 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 81 | g) közvilágítási üzemeltetési engedélyes esetében | 200 |
 
-| 82 | Engedélyesben történő befolyásszerzés bejelentésének tudomásulvétele iránti kérelem elbírálása | 95 |
+| 81/A | Engedélyesben történő közvetett befolyásszerzéshez előzetes hozzájárulás iránti kérelem elbírálása (engedélyenként) | 105 |
 
-| 82/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 100 |
+| 82 | Engedélyesben történő befolyásszerzés tudomásulvétele iránti kérelem elbírálása (engedélyenként) | 405 |
+
+| 82/A | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 200 |
 
 | 83 | Kábelcsere-ütemezési terv elbírálása | 1 000 |
 
@@ -626,7 +630,7 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 20 | b) egyéb esetben | az adott engedély kiadása díjának 20%-a, de legalább 100 |
 
-| 21 | Engedélyes szétválásához, egyesüléséhez; alaptőke, törzstőke leszállításához való hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő hozzájárulás iránti kérelem elbírálása |  |
+| 21 | Engedélyes szétválásához, egyesüléséhez; alaptőke, törzstőke leszállításához való előzetes hozzájárulás iránti kérelem elbírálása; engedélyesben történő befolyásszerzéshez és az ehhez fűződő jogok gyakorlásához történő előzetes hozzájárulás iránti kérelem elbírálása |  |
 
 | 22 | a) távhőtermelő esetében |  |
 
@@ -650,7 +654,7 @@ C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgálta
 
 | 32 | be) 50 000 lakásszám felett | 1500 |
 
-| 32/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 100 |
+| 32/A. | Előzetes hozzájáruló határozatban foglaltaknak való megfelelés ellenőrzése iránti kérelem elbírálása | 200 |
 
 | 33 |  |  |
 
@@ -788,6 +792,8 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 6 | költséghaszon-elemzés elbírálása | 200 |
 
+| 6/A | költséghaszon-elemzés készítése alóli felmentési kérelem elbírálása | 100 |
+
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^27]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a szerint módosított szöveg.
+[^28]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a szerint módosított szöveg.
