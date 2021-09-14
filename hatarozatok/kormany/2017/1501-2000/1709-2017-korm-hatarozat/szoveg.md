@@ -72,20 +72,12 @@ Határidő: a támogatás nyújtásakor
 
 8. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva jóváhagyja, hogy az emberi erőforrások minisztere a fejlesztési program megvalósítása érdekében a 2018–2019. költségvetési évek kiadási előirányzata terhére legfeljebb 2 696 000 000 forint összeg mértékéig éven túli kötelezettséget vállaljon az 1. pont szerinti ütemezés szerint.
 
-9.[^4] felhívja a miniszterelnök általános helyettesét, hogy készítsen jelentést a Kormány részére a fejlesztési program I. ütemének végrehajtásáról;
+9.[^4]
 
-Felelős: a miniszterelnök általános helyettese
-
-Határidő: az I. ütem megvalósítását követő 60 napon belül
-
-10.[^5] felhívja a miniszterelnök általános helyettesét, hogy készítsen előterjesztést a fejlesztési program II. és III. ütemének megvalósításához szükséges kormányzati intézkedésekről.
-
-Felelős: a miniszterelnök általános helyettese
-
-Határidő: a 9. pontban meghatározott jelentés elfogadását követően azonnal
+10.[^5]
 
 [^1]: Az 1. pont az 1581/2019. (X. 15.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 6a. pontot az 1581/2019. (X. 15.) Korm. határozat 2. pontja iktatta be.
 [^3]: A 6b. pontot az 1581/2019. (X. 15.) Korm. határozat 3. pontja iktatta be.
-[^4]: A 9. pontot az 1581/2019. (X. 15.) Korm. határozat 4. pontja iktatta be.
-[^5]: A 10. pontot az 1581/2019. (X. 15.) Korm. határozat 4. pontja iktatta be.
+[^4]: A 9. pontot az 1581/2019. (X. 15.) Korm. határozat 4. pontja iktatta be, visszavonta az 1636/2021. (IX. 14.) Korm. határozat 6. pontja.
+[^5]: A 10. pontot az 1581/2019. (X. 15.) Korm. határozat 4. pontja iktatta be, visszavonta az 1636/2021. (IX. 14.) Korm. határozat 6. pontja.
