@@ -74,7 +74,7 @@
 
 ## Határidő: azonnal
 
-## 1.8.[^9] egyetért azzal, hogy az 1.4. alpont a) és c) pontja szerinti villamos energia elosztó hálózati infrastruktúra-fejlesztési, az 1.4. alpont d) pontja szerinti az infrastruktúra-fejlesztéssel összefüggő igazgatási, valamint az 1.6. alpontja szerinti gázellátáshoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok megvalósítása érdekében az innovációért és technológiáért felelős miniszter Pest Megye Önkormányzata mint kedvezményezett javára támogatói okiratot bocsásson ki;
+## 1.8.[^9] egyetért azzal, hogy az innovációért és technológiáért felelős miniszter az 1.4. alpont a) és c) pontja szerinti villamos energia elosztó hálózati infrastruktúra-fejlesztési feladatok megvalósítása érdekében Pest Megye Önkormányzata helyett az ELMŰ Hálózati Kft.-vel mint kedvezményezettel hozzon létre támogatási jogviszonyt, valamint tegye meg a szükséges intézkedéseket a támogatási jogviszonyok rendezése érdekében; továbbá egyetért azzal, hogy az 1.4. alpont d) pontja szerinti infrastruktúra-fejlesztéssel összefüggő igazgatási, valamint az 1.6. alpont szerinti gázellátáshoz kapcsolódó infrastruktúra-fejlesztéssel összefüggő feladatok megvalósítása érdekében az innovációért és technológiáért felelős miniszter Pest Megye Önkormányzata mint kedvezményezett javára támogatói okiratot bocsásson ki;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -156,7 +156,7 @@
 [^6]: Az 1. pont 1.5. alpontja az 1111/2021. (III. 10.) Korm. határozat 3. pontjával megállapított szöveg.
 [^7]: Az 1. pont 1.6. alpontja az 1111/2021. (III. 10.) Korm. határozat 3. pontjával megállapított szöveg.
 [^8]: Az 1. pont 1.7. alpontja az 1111/2021. (III. 10.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^9]: Az 1. pont 1.8. alpontja az 1111/2021. (III. 10.) Korm. határozat 4. pontjával megállapított szöveg.
+[^9]: Az 1. pont 1.8. alpontja az 1633/2021. (IX. 14.) Korm. határozattal megállapított szöveg.
 [^10]: Az 1. pont 1.10. alpontja az 1080/2021. (II. 27.) Korm. határozat 4. pontjával megállapított szöveg.
 [^11]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1559/2021. (VIII. 5.) Korm. határozat 3. pontjával megállapított szöveg.
 [^12]: Az 1. pont 1.11. alpontja az 1080/2021. (II. 27.) Korm. határozat 6. pontjával megállapított szöveg.
