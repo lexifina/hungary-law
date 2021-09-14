@@ -1,3 +1,3 @@
-## 1. § A Magyar Energetikai és Közmű-szabályozási Hivatal igazgatási szolgáltatási díjainak mértékéről, valamint az igazgatási szolgáltatási, a felügyeleti díjak és egyéb bevételek beszedésére, kezelésére, nyilvántartására és visszatérítésére vonatkozó szabályokról szóló 1/2014. (III. 4.) MEKH rendelet (a továbbiakban: R.) 3. §-a a következő (2a) bekezdéssel egészül ki:
+2. §[^3]
 
-## „(2a) A felügyeleti díjat forintban kell befizetni. A befizetés devizában történő kezdeményezése esetén a kötelezettnek a pénzforgalmi szolgáltatójánál úgy kell rendelkeznie, hogy a Hivatal (2) bekezdés szerinti előirányzat-felhasználási keretszámláján a felügyeleti díjfizetési kötelezettségnek pontosan megfelelő összegű forint kerüljön jóváírásra.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
