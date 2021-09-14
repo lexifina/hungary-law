@@ -4,25 +4,15 @@
 
 ## b) a Gödöllő közigazgatási területén fekvő, 5880 helyrajzi számú ingatlanon valósul meg,
 
-## c) keretében fejlesztésre kerülő b) pont szerinti ingatlan vagyonkezelője az NSK legyen,
+## c)[^1]
 
-## d)[^1] összesen 6 684 923 317 forint keretösszegű központi költségvetési forrásból valósul meg;
+## d)[^2] összesen 6 684 923 317 forint keretösszegű központi költségvetési forrásból valósul meg;
 
-## 2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zrt. útján tegye meg a szükséges intézkedéseket a Gödöllő közigazgatási területén fekvő, 5880 helyrajzi számú ingatlan NSK vagyonkezelésébe kerülése érdekében;
+## 2.[^3]
 
-## Felelős: nemzeti fejlesztési miniszter
+## 3.[^4]
 
-## Határidő: 2014. november 30.
-
-## 3. felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy a fejlesztési területen elhelyezkedő tankertészet áttelepítésének forrásigényét határozza meg, valamint készítsen előterjesztést a Kormány részére a forrás biztosításának módjáról;
-
-## Felelős: emberi erőforrások minisztere
-
-## nemzetgazdasági miniszter
-
-## Határidő: 2014. szeptember 30.
-
-## 4.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Beruházáshoz kapcsolódó 2014. évben szükséges 90,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 4.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdésében biztosított jogkörében eljárva, a Beruházáshoz kapcsolódó 2014. évben szükséges 90,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 13. Sportintézmények cím, 2. Nemzeti Sportközpontok alcím javára, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 17. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -50,13 +40,13 @@
 
 ## Határidő: a 2015. évi központi költségvetés tervezése során
 
-## 7.[^3] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében engedélyezi, hogy a nemzeti fejlesztési miniszter az 1. pontban szereplő feladat végrehajtásához szükséges, a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 29. Gödöllői uszoda beruházás jogcímcsoport előirányzat terhére a 2018. év költségvetési keretösszegét meghaladóan a 2018. évben további, legfeljebb 1 100 546 791 forint összeg erejéig kötelezettséget vállaljon.
+## 7.[^6] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében engedélyezi, hogy a nemzeti fejlesztési miniszter az 1. pontban szereplő feladat végrehajtásához szükséges, a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 29. Gödöllői uszoda beruházás jogcímcsoport előirányzat terhére a 2018. év költségvetési keretösszegét meghaladóan a 2018. évben további, legfeljebb 1 100 546 791 forint összeg erejéig kötelezettséget vállaljon.
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## Határidő: azonnal
 
-## 8.[^4] felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a Beruházás megvalósításához szükséges, legfeljebb 1 719 076 526 forint többletforrás ütemezett rendelkezésre állásáról a 2019. és 2020. költségvetési években, az alábbi ütemezés szerint:
+## 8.[^7] felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a Beruházás megvalósításához szükséges, legfeljebb 1 719 076 526 forint többletforrás ütemezett rendelkezésre állásáról a 2019. és 2020. költségvetési években, az alábbi ütemezés szerint:
 
 ## a) a 2019. évben legfeljebb 833 347 170 forint,
 
@@ -70,7 +60,7 @@
 
 ## a b) alpont tekintetében a 2020. évi központi költségvetés tervezése során
 
-## 9.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Beruházással összefüggésben a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelési előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 34. Gödöllői uszoda beruházás jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek 2019–2020. évekre vonatkozó felső korlátját
+## 9.[^8] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Beruházással összefüggésben a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelési előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 34. Gödöllői uszoda beruházás jogcímcsoport kiadási előirányzatai terhére vállalható kötelezettségek 2019–2020. évekre vonatkozó felső korlátját
 
 ## a) a 2019. évben legfeljebb 833 347 170 forintban,
 
@@ -144,8 +134,11 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont d) alpontja az 1582/2018. (XI. 20.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^3]: A 7. pontot az 1375/2017. (VI. 14.) Korm. határozat 2. pontja iktatta be.
-[^4]: A 8. pontot az 1582/2018. (XI. 20.) Korm. határozat 2. pontja iktatta be.
-[^5]: A 9. pontot az 1582/2018. (XI. 20.) Korm. határozat 2. pontja iktatta be.
+[^1]: Az 1. pont c) alpontját az 1634/2021. (IX. 14.) Korm. határozat 9. pont a) alpontja visszavonta.
+[^2]: Az 1. pont d) alpontja az 1582/2018. (XI. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pontot az 1634/2021. (IX. 14.) Korm. határozat 9. pont b) alpontja visszavonta.
+[^4]: A 3. pontot az 1634/2021. (IX. 14.) Korm. határozat 9. pont b) alpontja visszavonta.
+[^5]: A 4. pont az 1104/2017. (III. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^6]: A 7. pontot az 1375/2017. (VI. 14.) Korm. határozat 2. pontja iktatta be.
+[^7]: A 8. pontot az 1582/2018. (XI. 20.) Korm. határozat 2. pontja iktatta be.
+[^8]: A 9. pontot az 1582/2018. (XI. 20.) Korm. határozat 2. pontja iktatta be.
