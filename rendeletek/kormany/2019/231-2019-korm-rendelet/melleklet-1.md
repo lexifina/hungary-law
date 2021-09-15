@@ -1,3 +1,5 @@
+## 48. §[^10] A Magyar Államkincstár Budapesti és Pest Megyei Igazgatósága a bevett egyház és annak belső egyházi jogi személye számára a Kvtv. alapján a 2021. évre megállapított, a hit- és erkölcstanoktatáshoz kapcsolódó átlagbéralapú támogatást szeptember–december hónapokra vonatkozóan a 31/A. §-ban meghatározottak alapján külön kérelem benyújtása nélkül hivatalból módosítja, és a többlettámogatást 2021. december 31-ig folyósítja.
+
 1. melléklet a 231/2019. (X. 4.) Korm. rendelethez
 
 ## A bejegyzett egyház, a nyilvántartásba vett egyház, a vallási egyesület (a továbbiakban: szervezet), ezek belső egyházi jogi személye, és a vallási egyesület jogi személyiségű szervezeti egységének nyilvántartásba vételére irányuló eljárás adattartalma
@@ -133,3 +135,5 @@
 11. Az űrlapon lévő tájékoztatások, figyelmeztetések
 
 11.1. A kérelemhez csatolandó iratok
+
+[^10]: A 48. §-t újból az 534/2021. (IX. 14.) Korm. rendelet 2. §-a iktatta be.
