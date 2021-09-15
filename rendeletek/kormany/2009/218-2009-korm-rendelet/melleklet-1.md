@@ -1,4 +1,4 @@
-1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^86]
+1. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^87]
 
 ## A kiemelt térségi és a megyei szintű területfejlesztési koncepció, valamint a kiemelt térségi és a megyei területrendezési terv közös feltáró-értékelő vizsgálatának tartalmi követelményei
 
@@ -22,7 +22,7 @@ ac) termőföld- és talajvédelem,
 
 ad) vízvédelem (felszíni és felszín alatti vízkészletek, vízminőség),
 
-ae)[^87] épített környezeti és a kulturális örökségi értékek (építészeti örökség, régészeti örökség, műemléki értékek, nemzeti és történelmi emlékhelyek),
+ae)[^88] épített környezeti és a kulturális örökségi értékek (építészeti örökség, régészeti örökség, műemléki értékek, nemzeti és történelmi emlékhelyek),
 
 af) világörökségi és világörökségi várományos területek,
 
@@ -98,7 +98,7 @@ i) a táj terhelésének és terhelhetőségének meghatározása.
 
 2.1. A térséget érintő ágazati koncepciók, területfejlesztési elképzelések és hatályos területi tervek áttekintése:
 
-a)[^88] az OFTK térséget érintő vonatkozásai,
+a)[^89] az OFTK térséget érintő vonatkozásai,
 
 b) a térséget érintő kiemelt térség területfejlesztési tervei,
 
@@ -110,7 +110,7 @@ e) a területrendezési tervek térséget érintő vonatkozásai,
 
 f) a térséget érintő környezetvédelmi, természetvédelmi és tájvédelmi szabályozások,
 
-g)[^89] a térség 20 ezer lakos feletti városainak gazdasági programjai és településtervei,
+g)[^90] a térség 20 ezer lakos feletti városainak gazdasági programjai és településtervei,
 
 h) a térség hatályban lévő ágazati tervei, programjai,
 
@@ -146,7 +146,7 @@ a) a térség erősségeinek, gyengeségeinek, lehetőségeinek és a térséget
 
 b) a térség lehetséges fejlesztési irányainak bemutatása, és ezek alapján a lehetséges cselekvési területek azonosítása.
 
-[^86]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^87]: Az 1. melléklet 1.2. pont a) alpont ae) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § o) pontja szerint módosított szöveg.
-[^88]: Az 1. melléklet 2.1. pont a) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
-[^89]: Az 1. melléklet 2. pont 2.1. alpont g) pontja a 420/2021. (VII. 15.) Korm. rendelet 52. § h) pontja szerint módosított szöveg.
+[^87]: Az 1. melléklet a 280/2017. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^88]: Az 1. melléklet 1.2. pont a) alpont ae) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § o) pontja szerint módosított szöveg.
+[^89]: Az 1. melléklet 2.1. pont a) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^90]: Az 1. melléklet 2. pont 2.1. alpont g) pontja a 420/2021. (VII. 15.) Korm. rendelet 52. § h) pontja szerint módosított szöveg.

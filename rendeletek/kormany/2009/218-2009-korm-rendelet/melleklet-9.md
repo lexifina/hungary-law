@@ -1,4 +1,4 @@
-9. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^102]
+9. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^103]
 
 ## A területi tervek megalapozását szolgáló területi (környezeti, társadalmi és gazdasági) hatásvizsgálat tartalmi követelményei
 
@@ -96,4 +96,4 @@ II. Részletes követelmények
 
 3.10. az energiaellátásra.
 
-[^102]: A 9. melléklet a 25/2014. (II. 7.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^103]: A 9. melléklet a 25/2014. (II. 7.) Korm. rendelet 14. §-ával megállapított szöveg.

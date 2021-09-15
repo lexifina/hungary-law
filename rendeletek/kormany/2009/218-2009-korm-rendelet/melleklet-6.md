@@ -12,7 +12,7 @@
 
 ## e) helyzetértékelés; a jövőkép, a fejlesztési elvek és az átfogó cél kapcsolata;
 
-## f)[^94] külső koherencia: a célrendszer kapcsolata más országos és megyei tervdokumentumokkal;
+## f)[^95] külső koherencia: a célrendszer kapcsolata más országos és megyei tervdokumentumokkal;
 
 ## g) a területfelhasználás alapelveit lefektető koncepció kidolgozása.
 
@@ -54,7 +54,7 @@
 
 ## b) amennyiben szükséges, az operatív programban rögzíteni kell a koncepció helyzetelemzésének és helyzetértékelésének operatív szintű kiegészítését, aktualizálását;
 
-## c)[^95] a kiemelt térség stratégiai programjából levezethető operatív célok és fejlesztési elvek (horizontális célok); a célok elérését mérő indikátorokat kell bevezetni, ha az érvényben lévő stratégiai program céljaihoz nem tartoznak a célok elérését mérő indikátorok, ha tartoznak, azok célértékeit kell az operatív program időtávjához igazítani; be kell mutatni az operatív program célrendszerének koherenciáját az operatív program prioritásaival, az OFTK területi céljaival, valamint a hatályos, a kiemelt térséget érintő uniós társfinanszírozású programok prioritásaival;
+## c)[^96] a kiemelt térség stratégiai programjából levezethető operatív célok és fejlesztési elvek (horizontális célok); a célok elérését mérő indikátorokat kell bevezetni, ha az érvényben lévő stratégiai program céljaihoz nem tartoznak a célok elérését mérő indikátorok, ha tartoznak, azok célértékeit kell az operatív program időtávjához igazítani; be kell mutatni az operatív program célrendszerének koherenciáját az operatív program prioritásaival, az OFTK területi céljaival, valamint a hatályos, a kiemelt térséget érintő uniós társfinanszírozású programok prioritásaival;
 
 ## d) a tervezéskísérő eljárások (különösen az előzetes programértékelés és a környezeti értékelés) dokumentációja, bemutatva a tervezéskísérő eljárások programozásra tett hatásait és a program várható környezeti, társadalmi és gazdasági hatásait;
 
@@ -98,7 +98,7 @@ d) a társadalmi folyamatok területi alakulása;
 
 e) a környezet állapotának és az infrastruktúra területi szerkezetének alakulása tekintetében.
 
-1.2.[^96] A hatályos OFTK érvényesülésének elemzése.
+1.2.[^97] A hatályos OFTK érvényesülésének elemzése.
 
 1.3. A területfejlesztés hazai eszköz- és intézményrendszerének bemutatása, ezen belül:
 
@@ -138,9 +138,9 @@ f) az egyes ágazati szakpolitikák számára területi preferenciák, ajánlás
 
 g) a területfejlesztés eszköz- és intézményrendszerére, a területi monitoring rendszerre vonatkozó javaslatok meghatározása;
 
-h)[^97] a megyék fejlesztési irányai.
+h)[^98] a megyék fejlesztési irányai.
 
-[^94]: Az 5. melléklet 1. pont f) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
-[^95]: Az 5. melléklet 2.2. pont c) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
-[^96]: A 6. melléklet 1.2. pontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
-[^97]: A 6. melléklet 2. pont h) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^95]: Az 5. melléklet 1. pont f) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
+[^96]: Az 5. melléklet 2.2. pont c) alpontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^97]: A 6. melléklet 1.2. pontja a 121/2019. (V. 27.) Korm. rendelet 18. § d) pontja szerint módosított szöveg.
+[^98]: A 6. melléklet 2. pont h) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.

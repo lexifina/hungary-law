@@ -4,7 +4,7 @@
 
 ## 1. Nagytérségi összefüggések és külső kapcsolatok vizsgálata.
 
-## 2.[^99] Előzmények feltárása (a térséget érintő területi tervek, ágazati koncepciók és programok, valamint a feladat szempontjából jelentős településtervek, a hatályos területrendezési terv hatásainak átfogó értékelése).
+## 2.[^100] Előzmények feltárása (a térséget érintő területi tervek, ágazati koncepciók és programok, valamint a feladat szempontjából jelentős településtervek, a hatályos területrendezési terv hatásainak átfogó értékelése).
 
 ## 3. Természeti, táji és épített környezet vizsgálata
 
@@ -184,7 +184,7 @@
 
 ## 1. A területrendezési tervet megalapozó szakági tervjavaslatok és azok műleírásai, különös tekintettel a fejlesztésipotenciál-alapú területfelhasználás-alakítási, a közlekedési és egyéb infrastruktúra-hálózati, a tájrendezési, a természetvédelmi, a környezetvédelmi, a mező- és erdőgazdálkodási és a vízgazdálkodási szakági javaslatokra.
 
-## 2.[^100] Területrendezési intézkedési javaslat, különös tekintettel a terv megvalósítását szolgáló közlekedési és egyéb infrastruktúra-hálózati, tájrendezési, természetvédelmi, környezetvédelmi intézkedésekre, valamint a tervben foglaltak településrendezési tervekbe való beépítését szolgáló koordinációs tevékenységre.
+## 2.[^101] Területrendezési intézkedési javaslat, különös tekintettel a terv megvalósítását szolgáló közlekedési és egyéb infrastruktúra-hálózati, tájrendezési, természetvédelmi, környezetvédelmi intézkedésekre, valamint a tervben foglaltak településrendezési tervekbe való beépítését szolgáló koordinációs tevékenységre.
 
 ## 3. A területrendezési tervek megalapozását szolgáló területi (környezeti, társadalmi és gazdasági) hatásvizsgálat (a 9. vagy 9/A. melléklet szerinti tartalommal).
 
@@ -212,8 +212,8 @@
 
 ## eb) régió, kiemelt térség, megye vagy megye egy térségének területrendezési terve: M = 1:50 000 – 1:100 000.
 
-8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^101]
+8. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^102]
 
-[^99]: A 7. melléklet I. pont 2. alpontja a 420/2021. (VII. 15.) Korm. rendelet 52. § i) pontja szerint módosított szöveg.
-[^100]: A 7. melléklet II. pont B) alpont 2. pontja a 420/2021. (VII. 15.) Korm. rendelet 52. § j) pontja szerint módosított szöveg.
-[^101]: A 8. mellékletet a 121/2019. (V. 27.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.
+[^100]: A 7. melléklet I. pont 2. alpontja a 420/2021. (VII. 15.) Korm. rendelet 52. § i) pontja szerint módosított szöveg.
+[^101]: A 7. melléklet II. pont B) alpont 2. pontja a 420/2021. (VII. 15.) Korm. rendelet 52. § j) pontja szerint módosított szöveg.
+[^102]: A 8. mellékletet a 121/2019. (V. 27.) Korm. rendelet 19. § f) pontja hatályon kívül helyezte.

@@ -48,6 +48,6 @@
 
 | 23. | f) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |  |
 
-15. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^119]
+15. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^120]
 
-[^119]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
+[^120]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.

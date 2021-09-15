@@ -20,6 +20,6 @@
 
 | 9. | MePAR | HMKÁ védett tájképi elemek | a) kiterjedéssel rendelkező HMKÁ védett tájelemek, b) pontszerű HMKÁ védett tájelemek | SHP shape |  |
 
-14. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^118]
+14. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^119]
 
-[^118]: A 14. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § b) pontja, a 29/2020. (II. 28.) Korm. rendelet 1. §-a, a 30/2020. (II. 28.) Korm. rendelet 13. § a)–b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
+[^119]: A 14. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § b) pontja, a 29/2020. (II. 28.) Korm. rendelet 1. §-a, a 30/2020. (II. 28.) Korm. rendelet 13. § a)–b) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
