@@ -46,8 +46,6 @@ Határidő: a forrás rendelkezésre állását követő 60 napon belül
 
 8. egyetért azzal, hogy a Beruházás előkészítése keretében létrejövő tervdokumentációk vonatkozásában az Egyetem számára a közfeladatainak ellátásához szükséges infrastruktúra-fejlesztés érdekében ingyenesen teljes körű felhasználási jog kerüljön biztosításra;
 
-9. visszavonja
+9.[^1]
 
-a) a gödöllői uszoda beruházási program megvalósításáról, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1525/2014. (IX. 18.) Korm. határozat 1. pont c) alpontját, valamint
-
-b) a Korm. határozat 2. és 3. pontját.
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
