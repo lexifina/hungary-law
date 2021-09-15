@@ -30,7 +30,7 @@
 
 ## Határidő: a 3. pontban meghatározott forrás rendelkezésre állását követően azonnal
 
-## 6. visszavonja a Modern Városok Program keretében a tatabányai egykori bányakórház katolikus gimnáziummá fejlesztéséhez szükséges támogatás biztosításáról szóló 1709/2017. (IX. 25.) Korm. határozat 9. és 10. pontját.
+## 6.[^1]
 
 1. melléklet az 1636/2021. (IX. 14.) Korm. határozathoz
 
@@ -95,3 +95,5 @@
 |  |  | egyéb: | azonnal |  |  | 1 084 550 001 |  |  |  |  |  |  |  |  |  |  | 1 084 550 001 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
