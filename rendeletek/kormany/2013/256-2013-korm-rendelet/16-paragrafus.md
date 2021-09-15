@@ -1,3 +1,3 @@
-16. §[^68]
+## 15. §[^68]
 
-[^68]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

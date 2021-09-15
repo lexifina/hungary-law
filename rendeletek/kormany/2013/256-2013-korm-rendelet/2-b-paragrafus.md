@@ -10,6 +10,4 @@ d) egészségügyi szakdolgozó, védőnő és egészségügyben dolgozó havi a
 
 e) az 1. melléklet szerinti munkakörben foglalkoztatott, egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozó havi alapbére (garantált illetménye) nem lehet kevesebb, mint az Eütev. 11/A. § (6) bekezdése szerinti és a 8. melléklet szerinti együttes
 
-összeg.
-
 [^12]: A 2/B. §-t a 359/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.

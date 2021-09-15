@@ -78,11 +78,11 @@
 
 | 39. | Csolnoky Ferenc Kórház | Veszprém |
 
-| 40. | Csongrád Megyei Dr. Bugyi István Kórház | Szentes |
+| 40. | Csongrád-Csanád Megyei Dr. Bugyi István Kórház | Szentes |
 
-| 41. | Csongrád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely–Makó | Hódmezővásárhely |
+| 41. | Csongrád-Csanád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely- Makó | Hódmezővásárhely |
 
-| 42. | Csongrád Megyei Mellkasi Betegségek Szakkórháza | Deszk |
+| 42. | Csongrád-Csanád Megyei Mellkasi Betegségek Szakkórháza | Deszk |
 
 | 43. | Csornai Margit Kórház | Csorna |
 
@@ -92,7 +92,7 @@
 
 | 46. | Debreceni Egyetem Klinikai Központ | Debrecen |
 
-| 47. | Debreceni Egyetem Orvos- és Egészségtudományi Centrum Kazincbarcikai Kórház Nonprofit Kft. | Kazincbarcika |
+| 47. | Kazincbarcikai Kórház | Kazincbarcika |
 
 | 48. | Dél-budai Egészségügyi Szolgálat Közhasznú Nonprofit Kft. | Budapest |
 
@@ -148,7 +148,7 @@
 
 | 74. | Fejér Megyei Szent György Egyetemi Oktató Kórház | Székesfehérvár |
 
-| 75. | Felső-Szabolcsi Kórház | Kisvárda |
+| 75. | Szent Damján Görögkatolikus Kórház | Kisvárda |
 
 | 76. | Ferencvárosi Egészségügyi Szolgáltató Kiemelkedően Közhasznú Nonprofit Kft. | Budapest |
 
@@ -554,9 +554,9 @@
 
 | 277. | Róbert Károly Meddőségi Centrum | Budapest |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^93]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^94]
 
-Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
+## Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
 Az egészségügyi tevékenység végzésére jogosító szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló egészségügyi szakdolgozók munkakörének az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerinti fizetési osztályba sorolásánál – az 1004/2011. (I. 14.) Korm. határozat a Magyar Képesítési Keretrendszer bevezetéséhez kapcsolódó feladatokról, valamint az Országos Képesítési Keretrendszer létrehozásáról és bevezetéséről szóló kormányhatározatnak megfelelően – az alábbi szintbesorolást kell alkalmazni:
 
@@ -634,4 +634,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^93]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^94]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
