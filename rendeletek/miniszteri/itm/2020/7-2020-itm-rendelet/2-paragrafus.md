@@ -76,7 +76,7 @@ e) Miniszteri Elismerő Oklevél.
 
 (7) Szakmai elismeréshez – a 2. § (3) bekezdés a) és b) pontja kivételével – adományozó okirat jár.
 
-(8) A Miniszteri Elismeréshez adományozó okirat, érem és bruttó 1 000 000 forint pénzjutalom jár.
+(8)[^5] A Miniszteri Elismeréshez adományozó okirat, érem és legfeljebb bruttó 1 000 000 forint pénzjutalom jár.
 
 (9) A Kiváló Bányász kitüntető címhez adományozó okirat és viselhető kitűző jár.
 
@@ -85,3 +85,4 @@ e) Miniszteri Elismerő Oklevél.
 [^2]: A 2. § (1) bekezdés p) pontját a 49/2020. (XII. 16.) ITM rendelet 1. §-a iktatta be.
 [^3]: A 2. § (4) bekezdése a 49/2020. (XII. 16.) ITM rendelet 6. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (5) bekezdése a 49/2020. (XII. 16.) ITM rendelet 6. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § (8) bekezdése a 47/2021. (IX. 14.) ITM rendelet 1. §-ával megállapított szöveg.
