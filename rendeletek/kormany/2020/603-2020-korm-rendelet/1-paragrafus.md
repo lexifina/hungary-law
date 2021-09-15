@@ -26,4 +26,7 @@ e) a képviselő-testület feladatkörébe tartozó közszolgáltatás ellátás
 
 (5)[^2] A (2) bekezdést a helyi önkormányzati tulajdonban, illetve vagyonkezelésben álló, 2020. november 4. napján vagy ezt követően létesített parkolókra vonatkozó parkolási díj tekintetében nem kell alkalmazni.
 
+(6)[^3] A (2) bekezdést a helyi önkormányzati tulajdonban vagy vagyonkezelésben álló temetőben költségvetési támogatásból létesített, 2020. december 18. napján vagy ezt követően első alkalommal megváltásra kínált új urnafülke megváltása után fizetett díj tekintetében nem kell alkalmazni.
+
 [^2]: Az 1. § (5) bekezdését a 284/2021. (V. 27.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § (6) bekezdését az 526/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
