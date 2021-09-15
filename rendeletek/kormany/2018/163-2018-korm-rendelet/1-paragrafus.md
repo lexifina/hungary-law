@@ -76,8 +76,11 @@ b) kezeli a kereskedelemfejlesztési pályázatokat: elvégzi a záró beszámol
 
 35.[^3] külgazdasági támogatási programok lebonyolítását szakmai támogató szervként segíti.
 
+36.[^4] a külkereskedelmi szakemberképzés kialakításával és a képzési program koordinálásával támogatja a hazai vállalatok exportpiaci sikerességét.
+
 (3) A HEPA NZrt. a (2) bekezdésben meghatározott feladatai mellett végrehajtja a miniszter által meghatározott egyéb feladatokat.
 
 [^1]: Az 1. § a 4. § (2) bekezdése alapján a HEPA NZrt. jogutódlással történő létrejötte cégbírósági bejegyzésének napján lép hatályba. Az 1/2018. (XI. 15.) KKM határozat alapján a hatálybalépés időpontja 2018. november 7.
 [^2]: Az 1. § (2) bekezdés 28. pontja a 319/2018. (XII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés 35. pontját a 433/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 1. § (2) bekezdése 36. pontját az 535/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.

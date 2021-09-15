@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-163-20-
 | 2019-01-01 | 2018-163-20-22.6 | 319/2018. (XII. 27.) Korm. rendelet |
 | 2019-03-12 | 2018-163-20-22.7 | 42/2019. (III. 11.) Korm. rendelet |
 | 2021-07-17 | 2018-163-20-22.8 | 433/2021. (VII. 16.) Korm. rendelet |
+| 2021-09-15 | 2018-163-20-22.9 | 535/2021. (IX. 14.) Korm. rendelet |

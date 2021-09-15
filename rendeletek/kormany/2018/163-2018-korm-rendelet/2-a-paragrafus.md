@@ -1,4 +1,4 @@
-2/A. §[^7] (1) A 2. § (2) bekezdés 23. pontjában meghatározott feladatok körében, az egyes, a minisztérium által évente meghatározott szakmastratégia keretében megjelölt programok tekintetében a KGH NKft. lebonyolító szervként jár el.
+2/A. §[^8] (1) A 2. § (2) bekezdés 23. pontjában meghatározott feladatok körében, az egyes, a minisztérium által évente meghatározott szakmastratégia keretében megjelölt programok tekintetében a KGH NKft. lebonyolító szervként jár el.
 
 (2) A lebonyolító szerv – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 65/C. § (1) bekezdése szerinti megállapodásban rögzítettek szerint – az alábbi feladatokat látja el:
 
@@ -42,4 +42,4 @@ c) a (4) bekezdésben foglalt együttműködés keretébe tartozó feladatok ell
 
 (6) A támogatások lebonyolító szerv általi kifizetése, továbbá a támogatáskezeléssel kapcsolatos egyéb feladatok forrásának a lebonyolító szerv részére történő rendelkezésre állása érdekében a minisztérium gondoskodik a Magyar Államkincstárnál vezetett kincstári számláján elkülönített alszámla megnyitásáról és fenntartásáról, továbbá a lebonyolító szerv részére az alszámla feletti rendelkezési jogosultság biztosításáról.
 
-[^7]: A 2/A. §-t a 319/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2/A. §-t a 319/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
