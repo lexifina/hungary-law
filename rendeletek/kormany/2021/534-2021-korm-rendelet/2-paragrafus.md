@@ -1,3 +1,3 @@
-## 1. § A lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet (a továbbiakban: R.) 18. alcíme a következő 31/A. §-sal egészül ki:
+## 1. §[^1]
 
-## „31/A. § A bevett egyház és annak belső egyházi jogi személye számára a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 41. § (1) bekezdés c) pont cb) alpontja szerint nyújtott támogatás szempontjából az elismert számított pedagóguslétszámot a hittanoktatás hozzáférhetőségének javítása érdekében 2021. szeptember 1-jétől oly módon kell megállapítani, hogy hit- és erkölcstanoktatásban részt vevő tanulók legalább 6 fős csoportját kell figyelembe venni.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
