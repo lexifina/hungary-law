@@ -46,6 +46,8 @@
 
 | II.11. | Orvostechnikai eszköz klinikai vizsgálatának engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 180 000 Ft/kérelem |
 
+| II.12. | A 4/2009. EüM rendelet 17. § (3) és (5) bekezdése szerinti bejelentés a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével, valamint a 8/2003. ESzCsM rendelet 7. § (5) bekezdése és 7/A. § (3) bekezdése szerinti bejelentés a bejelentésben legfeljebb 60 termék (legfeljebb 60 sorban) feltüntetésével. | 66 000 Ft/kérelem |
+
 | III. | Európai Egészségbiztosítási Kártya, illetve TAJ-számot igazoló okmány kiadással kapcsolatos igazgatási szolgáltatás |  |
 
 | III.1. | Európai Egészségbiztosítási Kártya kiadása a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 27. §-ának (12) bekezdése szerinti esetben | díj azonos az általános tételű eljárási illeték összegével |

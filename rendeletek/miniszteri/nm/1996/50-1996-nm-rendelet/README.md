@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-50-20-3
 | 2017-01-01 | 1996-50-20-3D.33 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-01-15 | 1996-50-20-3D.34 | 2/2009. (I. 30.) EüM rendelet |
 | 2021-08-17 | 1996-50-20-3D.35 | 34/2009. (X. 20.) EüM rendelet |
+| 2021-09-16 | 1996-50-20-3D.36 | 2/2009. (I. 30.) EüM rendelet |
