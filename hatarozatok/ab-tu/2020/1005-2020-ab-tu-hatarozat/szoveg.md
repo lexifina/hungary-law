@@ -2,7 +2,7 @@ Az Alkotmánybíróság teljes ülése az Alkotmánybíróságról szóló 2011.
 
 1. Az Alkotmánybíróságon három öttagú állandó tanács működik.
 
-2.[^1] Az öttagú állandó tanácsok tanácsvezetői és tagjai:
+2.[^1] Az öttagú állandó tanácsok tanácsvezetői és tagjai:[^2]
 
 Az 1. öttagú tanács tagjai:
 
@@ -42,9 +42,10 @@ Dr. Szabó Marcel alkotmánybíró.
 
 3. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
-4.[^2] E határozat a közzétételét követő napon lép hatályba,
+4.[^3] E határozat a közzétételét követő napon lép hatályba,
 
 Alkotmánybírósági ügyszám: XVIII/1542-1/2020.
 
 [^1]: A 2. pont az 1004/2021. (VI. 30.) AB Tü. határozat 1. pontja szerint módosított szöveg.
-[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^2]: Lásd az 1006/2021. (IX. 15.) AB Tü határozatot.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
