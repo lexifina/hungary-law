@@ -1,3 +1,3 @@
-## 51. §[^53]
+## 51. §[^52]
 
-[^53]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: Az 51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
