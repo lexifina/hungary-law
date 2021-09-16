@@ -1,0 +1,11 @@
+## 6. § A 283/2012. (X. 4.) Korm. rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A hallgató kérelmére – a tanulmányi és vizsgaszabályzatban meghatározottak szerint – a szakpár egyik tanárszakjának megváltoztatására lehetőséget kell adni.”
+
+7. § (1) A 283/2012. (X. 4.) Korm. rendelet 12. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(3) A felsőoktatási intézmény akkor jogosult az 1. melléklet 1. pontja szerinti osztatlan közismereti tanárszakok – a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló 8/2013. (I. 30.) EMMI rendelet [a továbbiakban: 8/2013. (I. 30.) EMMI rendelet] 1. § c) és d) pontja szerinti mesterképzésben, továbbá a 8/2013. (I. 30.) EMMI rendelet 1. melléklete szerinti újabb oklevelet adó tanárképzésben történő – indításának nyilvántartásba vételét újabb szakértői vélemény beszerzése nélkül kezdeményezni, ha az adott közismereti tanárszakok, szakirányok a 8/2013. (I. 30.) EMMI rendelet 1. § a) pontja szerinti osztatlan képzésben történő indítását az Oktatási Hivatal már nyilvántartásba vette. Ha az osztatlan képzés nyilvántartásba vételére korábban nem került sor, az újabb oklevelet adó tanárképzés nyilvántartásba vétele az osztatlan tanárképzés nyilvántartásba vételével egy eljárásban is kezdeményezhető.
+
+## (4) A felsőoktatási intézmény akkor jogosult az 1. melléklet 2. pontja szerinti szakmai tanárszakok, szakirányok vagy specializációk – a 8/2013. (I. 30.) EMMI rendelet 1. § a)–d) pontja szerinti tanárképzésben, továbbá a 8/2013. (I. 30.) EMMI rendelet 1. melléklete szerinti újabb oklevelet adó tanárképzésben történő – indításának nyilvántartásba vételét újabb szakértői vélemény beszerzése nélkül kezdeményezni, ha az adott tanárszak képzési és kimeneti követelményeiben meghatározottak szerint a tanárképzés valamelyik formáját az Oktatási Hivatal már nyilvántartásba vette. Ha a tanárképzés valamelyik formájának nyilvántartásba vételére korábban nem került sor, az újabb oklevelet adó tanárképzés nyilvántartásba vétele az osztatlan tanárképzés nyilvántartásba vételével egy eljárásban is kezdeményezhető.”
+
+(2) A 283/2012. (X. 4.) Korm. rendelet 12. §-a a következő (7) bekezdéssel egészül ki:
