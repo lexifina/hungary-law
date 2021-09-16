@@ -1,7 +1,9 @@
-## 10. § A tanárképző központ ellátja az Nftv. 103. §-ában meghatározott feladatait. A működésére vonatkozó részletes szabályokat a felsőoktatási intézmény Szervezeti és Működési Szabályzata határozza meg.
+## 10. §[^19]
 
 ## 3. Záró rendelkezések
 
 11. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba.
 
 (2) E rendelet rendelkezései alapján osztatlan képzésben tanárképzés, felmenő rendszerben, először 2013. szeptember 1. után indulhat.
+
+[^19]: A 10. §-t az 538/2021. (IX. 15.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.

@@ -1,20 +1,11 @@
-6. § (1) Az 5. § (1) bekezdés a) pontjában foglalt osztatlan, kétszakos tanárképzésben a képzési idő legalább 10 félév, az összegyűjtendő kreditek száma legalább 300 kredit. Ha mindkét szak középiskolai tanárszak vagy zeneművésztanár szak, a képzési idő 12 félév, az összegyűjtendő kreditek száma 360 kredit, ha csak az egyik szak, akkor a képzési idő 11 félév, az összegyűjtendő kreditek száma 330 kredit. A két tanárszakon a szakterületi ismeretek együttes kreditértéke legalább 200, legfeljebb 260 kredit. Az általános iskolai tanári szakképzettséghez – tanárszakonként – 100 kreditet, a középiskolai tanári szakképzettséghez 130 kreditet kell összegyűjteni. E rendelet szerint megszerzett általános iskolai tanári szakképzettséget követően ugyanazon a szakterületen a középiskolai tanári szakképzettség megszerzéséhez 60 kreditet kell összegyűjteni.
+## a tanulmányi idő – a tanulmányi és vizsgaszabályzatban meghatározottak szerint – legfeljebb 6 félév lehet.
 
-(2) Szakmai tanárszakon egyszakos, osztatlan képzésben a képzési idő 10 félév, az összegyűjtendő kreditek száma 300 kredit. Szakmai tanárszakon egyszakos képzésben a tanárszak szerinti szakterületi ismeretek kreditértéke, a szakterülettől függően, legalább 160 kredit.
+## 6. §[^14] A képzési idő:
 
-(3) A tanári felkészítés kreditértéke osztatlan kétszakos és egyszakos tanárképzésben, valamint osztott képzésben mesterszakon is legalább 100 kredit. Teljes idejű képzésben az összefüggő, egyéni iskolai gyakorlat 2 félév. Az összefüggő iskolai gyakorlaton a 3. § (1) bekezdés b)–c) pontja szerinti tanári felkészítés részeként 50 kreditet kell összegyűjteni. A tanári felkészítés közös követelményeit, elemeinek kreditértékét a képzési és kimeneti követelmények határozzák meg.
+a) az 5. § (1) bekezdés a) és b) pontja szerinti osztatlan képzésben 10 félév, a zeneművészeti kétszakos tanárképzésben 12 félév,
 
-(4)[^8] Szakmai tanárszakon osztott képzésben a képzési idő 4 félév, az összegyűjtendő kreditek száma 120 kredit. A képzésben összegyűjtendő kreditek száma 90 kredit és a képzési idő 3 félév, ha az előzetesen megszerzett köznevelési munkatapasztalat elismerése alapján az egyéni összefüggő iskolai gyakorlat időtartama 2 félév helyett lehet 1 félév.
+b) az 5. § (1) bekezdés b) pontja szerinti osztott képzésben, tanári mesterszakon szakmai tanárszakon és művészeti tanárszakon 2–4 félév,
 
-(5)[^9] Az 5. § (1) bekezdés c) pontja és az 5. § (2) bekezdése szerint felvett tanárszakokon a képzési idő 2 félév, az összegyűjtendő kreditek száma a képzési és kimeneti követelményekben meghatározottak szerint 60 kredit.
+c) az 5. § (1) bekezdés c) pontja szerinti – az adott tanárszak szakterülete szerinti nem tanári mesterszakkal, illetve osztatlan szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon – 2 félév
 
-(6)[^10] Az 5. § (3) bekezdése szerinti képzésben, főiskolai szintű tanári szakképzettség birtokában, ugyanazon a szakterületen, egy szakon a középiskolai tanárszak képzési ideje 2 félév, az összegyűjtendő kreditek száma 60 kredit, két tanárszakon a képzési idő 4 félév, az összegyűjtendő kreditek száma 120 kredit. Egyetemi szintű, mesterfokozatú vagy főiskolai szintű tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló mesterképzésben – a képzési és kimeneti követelményekben meghatározottak szerint – a képzési idő 4 félév, az összegyűjtendő kreditek száma 120 kredit. Tanító szakképzettség birtokában, ha a 3. § (1) bekezdés a) pontja szerinti szakterületi ismeret 100 kredit, akkor a képzési idő 4 félév és a megszerzendő kreditek száma 120 kredit. Ha a 3. § (1) bekezdés a) pontja szerinti szakterületi ismeret 130 kredit, akkor a képzési idő 5 félév és a megszerzendő kreditek száma 150 kredit. Szakoktató szakképzettség birtokában újabb, szakmai tanári szakképzettség megszerzésére irányuló mesterképzésben a képzési idő 4 félév, az összegyűjtendő kreditek száma 120 kredit.
-
-(7) A részidős képzés és az újabb végzettség, szakképzettség megszerzésére irányuló képzés tekintetében a 3. § (1) bekezdés elemeihez rendelhető krediteket, az összefüggő egyéni iskolai gyakorlat időtartamára és követelményeire vonatkozó speciális rendelkezéseket a képzési és kimeneti követelményekben kell meghatározni azzal, hogy részidős képzésben az előzetesen megszerzett munkatapasztalat elismerésével az egyéni összefüggő iskolai gyakorlat időtartama lehet 1 félév.
-
-(8)[^11] Osztatlan kétszakos képzésben a középiskolai tanári szakképzettséget és az általános iskolai tanári szakképzettséget adó tanárszakok az 1. melléklet szerint egymással is párosíthatók.
-
-[^8]: A 6. § (4) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^9]: A 6. § (5) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 14. § e) pont eb) alpontja szerint módosított szöveg.
-[^10]: A 6. § (6) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^11]: A 6. § (8) bekezdése a 139/2015. (VI. 9.) Korm. rendelet 12. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 6. § az 538/2021. (IX. 15.) Korm. rendelet 5. §-ával megállapított szöveg.

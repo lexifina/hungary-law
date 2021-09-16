@@ -1,8 +1,8 @@
 ## 1. A tanári szakképzettség
 
-3. § (1) A tanári szakképzettség elemei:
+3. § (1)[^4] A tanári szakképzettség elemei:
 
-a) a tanárszak szerinti szakterületi (szaktudományos, művészeti) tudás, valamint
+a) a tanárszak szerinti szakterületi (szaktudományos, művészeti) tudás,
 
 b) a tanári munkához szükséges
 
@@ -10,14 +10,19 @@ ba) pedagógiai, pszichológiai elméleti és gyakorlati,
 
 bb) szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai)
 
-tudás, készség, képesség, és
+## tudás, képesség, attitűd (viszonyulás), valamint
 
-bc) a képzéssel párhuzamosan megszerzett pedagógiai, pszichológiai és tanítási gyakorlat, továbbá
+c) a képzéssel párhuzamosan megszerzett pedagógiai, pszichológiai és tanítási gyakorlat részeként
 
-c)[^3] a köznevelési intézményben vagy felnőttképzési tevékenység keretében teljesített összefüggő egyéni iskolai gyakorlat [b)–c) pont együtt: tanári felkészítés].
+ca) a pályaismereti és pályaszocializációs gyakorlatok,
+
+cb) a tanítási gyakorlatok,
+
+cc) a köznevelési intézményben, szakképző intézményben teljesített összefüggő egyéni iskolai gyakorlat [a b) és c) pontban foglaltak a továbbiakban együtt: tanári felkészítés].
 
 (2) A szakterületi tudás csak a tanári felkészítés követelményeinek teljesítésével eredményez tanári szakképzettséget. A tanári felkészítés e rendelet szerinti tanárszakokon közös követelményekre épül.
 
-(3) Az összefüggő, egyéni iskolai gyakorlat a képzés része. A gyakorlat csak akkor kezdhető meg, ha a hallgató – az összefüggő egyéni iskolai gyakorlathoz kapcsolódó pedagógiai, pszichológiai, szakmódszertani feladatok kivételével – a tanári szakképzettség megszerzéséhez szükséges, az (1) bekezdés a)–b) pontja szerinti elemek tanulmányi és vizsgakövetelményeit, két szakos képzésben mind a két tanárszakján, eredményesen teljesítette.
+(3)[^5] Az összefüggő egyéni iskolai gyakorlat csak akkor kezdhető meg, ha a hallgató a tanári szakképzettség megszerzéséhez szükséges tanulmányi és vizsgakövetelményeket – kétszakos képzésben mind a két tanárszakján – eredményesen teljesítette. A gyakorlat a két tanárszakon egy időben, ugyanazon félévben, a felsőoktatási intézmény és a köznevelési vagy szakképző intézmény együttműködésében megvalósuló képzés.
 
-[^3]: A 3. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 77. § 3. pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdése az 538/2021. (IX. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

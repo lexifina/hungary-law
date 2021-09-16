@@ -4,133 +4,111 @@
 
 |  | A | B |
 
-| 1. | műveltségi terület | tanárszak |
+| 1. | tanulási terület | tanárszak |
 
-| 2. | magyar nyelv és irodalom | magyartanár1 (általános iskolai) |
+| 2. | magyar nyelv és irodalom | magyar nyelv és irodalom szakos tanár1 |
 
-| 3. |  | magyartanár1 (középiskolai) |
+| 3. | idegen nyelv | angol nyelv és kultúra tanára1 |
 
-| 4. |  | magyar mint idegen nyelv tanára3 |
+| 4. | német nyelv és kultúra tanára1 |
 
-| 5. | idegen nyelvek | angol nyelv és kultúra tanára1 (általános iskolai) |
+| 5. | német és nemzetiségi német nyelv és kultúra tanára1 |
 
-| 6. |  | angol nyelv és kultúra tanára1 (középiskolai) |
+| 6. | bolgár és nemzetiségi bolgár nyelv és kultúra tanára1 |
 
-| 7. |  | német nyelv és kultúra tanára1 (általános iskolai) |
+| 7. | finn nyelv és kultúra tanára3 |
 
-| 8. |  | német nyelv és kultúra tanára1 (középiskolai) |
+| 8. | francia nyelv és kultúra tanára2 |
 
-| 9. |  | német és nemzetiségi német nyelv és kultúra tanára1 (általános iskolai) |
+| 9. | holland nyelv és kultúra tanára2 |
 
-| 10. |  | német és nemzetiségi német nyelv és kultúra tanára1 (középiskolai) |
+| 10. | horvát és nemzetiségi horvát nyelv és kultúra tanára1 |
 
-| 11. |  | bolgár és nemzetiségi bolgár nyelv és kultúra tanára2 |
+| 11. | japán nyelv és kultúra tanára2 |
 
-| 12. |  | finn nyelv és kultúra tanára3 |
+| 12. | kínai nyelv és kultúra tanára2 |
 
-| 13. |  | francia nyelv és kultúra tanára2 |
+| 13. | latin nyelv és kultúra tanára2 |
 
-| 14. |  | holland nyelv és kultúra tanára2 |
+| 14. | lengyel és nemzetiségi lengyel nyelv és kultúra tanára1 |
 
-| 15. |  | horvát és nemzetiségi horvát nyelv és kultúra tanára2 |
+| 15 | magyar mint idegen nyelv tanára3 |
 
-| 16. |  | japán nyelv és kultúra tanára2 |
+| 16. | olasz nyelv és kultúra tanára2 |
 
-| 17. |  | latin nyelv és kultúra tanára2 |
+| 17. | orosz nyelv és kultúra tanára2 |
 
-| 18. |  | lengyel és nemzetiségi lengyel nyelv és kultúra tanára2 |
+| 18. | portugál nyelv és kultúra tanára2 |
 
-| 19. |  | kínai nyelv és kultúra tanára2 |
+| 19. | román és nemzetiségi román nyelv és kultúra tanára1 |
 
-| 20. |  | olasz nyelv és kultúra tanára2 |
+| 20. | romológiatanár (romani nyelv és kultúra vagy beás nyelv és kultúra tanára)1 |
 
-| 21. |  | orosz nyelv és kultúra tanára2 |
+| 21. | spanyol nyelv és kultúra tanára2 |
 
-| 22. |  | portugál nyelv és kultúra tanára2 |
+| 22. | szerb és nemzetiségi szerb nyelv és kultúra tanára1 |
 
-| 23. |  | román és nemzetiségi román nyelv és kultúra tanára2 |
+| 23. | szlovák és nemzetiségi szlovák nyelv és kultúra tanára1 |
 
-| 24. |  | romológiatanár (romani nyelv és kultúra vagy beás nyelv és kultúra tanára) 2 |
+| 24. | szlovén és nemzetiségi szlovén nyelv és kultúra tanára1 |
 
-| 25. |  | spanyol nyelv és kultúra tanára2 |
+| 25. | újgörög és nemzetiségi görög nyelv és kultúra tanára1 |
 
-| 26. |  | szerb és nemzetiségi szerb nyelv és kultúra tanára2 |
+| 26. | ukrán és nemzetiségi ukrán nyelv és kultúra tanára1 |
 
-| 27. |  | szlovák és nemzetiségi szlovák nyelv és kultúra tanára2 |
+| 27. | matematika | matematikatanár1 |
 
-| 28. |  | szlovén és nemzetiségi szlovén nyelv és kultúra tanára2 |
+| 28. | történelem és állampolgári ismeretek | történelemtanár1 |
 
-| 29. |  | újgörög és nemzetiségi görög nyelv és kultúra tanára2 |
+| 29. | filozófiatanár3 |
 
-| 30. |  | ukrán és nemzetiségi ukrán nyelv és kultúra tanára2 |
+| 30. | hon- és népismeret szakos tanár2 |
 
-| 31. | matematika | matematikatanár1 (általános iskolai) |
+| 31. | könyvtárostanár2 |
 
-| 32. |  | matematikatanár1 (középiskolai) |
+| 32. | etika | etikatanár2 |
 
-| 33. | ember és társadalom | történelemtanár és állampolgári ismeretek tanára1 (általános iskolai) |
+| 33. | természettudomány és földrajz | biológiatanár1 |
 
-| 34. |  | történelemtanár és állampolgári ismeretek tanára1 (középiskolai) |
+| 34. | kémiatanár1 |
 
-| 35. |  | filozófiatanár3 |
+| 35. | fizikatanár1 |
 
-| 36. |  | etikatanár2 |
+| 36. | természettudomány–környezettan szakos tanár4 |
 
-| 37. |  | hon- és népismerettanár2 |
+| 37. | földrajztanár1 |
 
-| 38. |  | könyvtárostanár2 |
+| 38. | technológia | informatikatanár (digitális kultúra tanára)1 |
 
-| 39. |  | közösségi művelődés tanár2 |
+| 39. | technika- és tervezés-tanár2 |
 
-| 40. | ember és természet | biológiatanár1 (egészségtan) (természettudományi gyakorlatok) (általános iskolai) |
+| 40. | művészetek | ének-zene tanár2 |
 
-| 41. |  | biológiatanár1 (egészségtan) (természettudományi gyakorlatok) (középiskolai) |
+| 41. | népzene- és népikultúra-tanár2 |
 
-| 42. |  | kémiatanár1 (természettudományi gyakorlatok) (általános iskolai) |
+| 42. | mozgóképkultúra és médiaismeret-tanár2 |
 
-| 43. |  | kémiatanár1 (természettudományi gyakorlatok) (középiskolai) |
+| 43. | vizuáliskultúra-tanár2 |
 
-| 44. |  | fizikatanár1 (természettudományi gyakorlatok) (általános iskolai) |
+| 44. | művészettörténet-tanár3 |
 
-| 45. |  | fizikatanár1 (természettudományi gyakorlatok) (középiskolai) |
+| 45. | dráma- és színházismeret-tanár2 |
 
-| 46. |  | természetismeret-környezettan tanár2(természettudományi gyakorlatok) |
+| 46. | testnevelés és egészségfejlesztés | testnevelő tanár1 |
 
-| 47. | földünk-környezetünk | földrajztanár1 (általános iskolai) |
+| 47. | gyógytestnevelő tanár2 |
 
-| 48. |  | földrajztanár1 (középiskolai) |
-
-| 49. | informatika | informatikatanár1 (általános iskolai) |
-
-| 50. |  | informatikatanár1 (középiskolai) |
-
-| 51. | művészetek | ének-zene tanár2 |
-
-| 52. |  | népzene- és népikultúra-tanár2 |
-
-| 53. |  | média-, mozgókép- és kommunikációtanár2 |
-
-| 54. |  | rajz- és vizuáliskultúra-tanár2 |
-
-| 55. |  | művészettörténet-tanár3 |
-
-| 56. |  | dráma- és színházismeret-tanár2 |
-
-| 57. | testnevelés és sport | testnevelő tanár1 (általános iskolai) |
-
-| 58. |  | testnevelő tanár1 (középiskolai) |
-
-| 59. |  | gyógytestnevelő-egészségfejlesztő tanár2 |
-
-| 60. | életvitel és gyakorlat | technika-, életvitel- és gyakorlat-tanár2 |
+| 48. |  | honvédelmi alapismeretek tanára3 |
 
 ## A közismereti tanárszakok párosítási feltételei
 
-## 1/ A tanárszakok egymással és a 2/ szakokkal is párosíthatók osztatlan, kétszakos képzésben. A tanárszak indítható a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó, tanári szakképzettség megszerzésére irányuló egyszakos képzésben.
+## 1. Az „1” jelzésű tanárszakok egymással és a „2” jelzésű szakokkal is párosíthatók osztatlan, kétszakos képzésben. A tanárszak indítható az adott tanárszak szakterülete szerinti nem tanári mesterszakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon.
 
-## 2/ A tanárszak csak az 1/ tanárszakokkal párosítható osztatlan, kétszakos képzésben. A tanárszak indítható a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló egyszakos képzésben. Az ének-zene tanár, a népzene- és népikultúra-tanár, a rajz- és vizuáliskultúra-tanár, a média-, mozgókép- és kommunikációtanár, a dráma- és színházismeret-tanár szakok egymással is párosíthatók. A gyógytestnevelő-egészségfejlesztő tanár szak csak a testnevelő tanár szakkal párosítható.
+## 2. A tanárszak csak az „1” jelzésű tanárszakokkal párosítható osztatlan, kétszakos képzésben. A tanárszak indítható az adott tanárszak szakterülete szerinti nem tanári mesterszakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon. Az ének-zene tanár, a népzene- és népikultúra-tanár, a vizuáliskultúra-tanár, a mozgóképkultúra és médiaismeret-tanár, a dráma- és színházismeret-tanár szakok egymással is párosíthatók. A gyógytestnevelő tanár szak csak a testnevelő tanár szakkal párosítható.
 
-## 3/ A tanárszak csak a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló képzésben és felsőfokú – főiskolai, egyetemi szintű vagy mesterfokozatú – végzettség és tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló képzésben szervezhető meg és egyszakos képzésben is felvehető.
+## 3. A „3” jelzésű tanárszak csak az adott tanárszak szakterülete szerinti, a képzési és kimeneti követelményekben meghatározott nem tanári mesterszakra párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon, egyszakos képzésben és felsőfokú – főiskolai, egyetemi szintű vagy mesterfokozatú – végzettség és tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló képzésben, egyszakos képzésben szervezhető meg.
+
+## 4. A „4” jelzésű tanárszak osztatlan tanárképzésben egy szakként indítható.
 
 ## 2. Szakmai tanárszakok
 
@@ -138,13 +116,13 @@
 
 | 1. | szakmai terület | tanárszak |
 
-| 2. | műszaki | mérnöktanár (specializációk: gépészet-mechatronika, elektrotechnika-elektronika, informatika, bio-vegyipar, építő-építészet, könnyűipar, faipar, nyomdaipar, közlekedés, környezetvédelem-vízgazdálkodás, polgári és biztonságvédelem, műszaki-gazdasági, katonai-műszaki) |
+| 2. | műszaki | mérnöktanár2 (specializációk: gépészet-mechatronika, elektrotechnika-elektronika, informatika, bio-vegyipar, építő-építészet, könnyű- és nyomdaipar, faipar, közlekedés, környezetvédelem-vízgazdálkodás, polgári és biztonságvédelem, műszaki-gazdasági, katonai-műszaki) |
 
-| 3. | közgazdasági | közgazdásztanár (specializációk: közgazdaságtan, pénzügy-számvitel, ügyvitel, vendéglátás-idegenforgalmi, kereskedelem-marketing, vállalkozási ismeretek) |
+| 3. | közgazdasági | közgazdásztanár2 (specializációk: közgazdaságtan, pénzügy-számvitel, ügyvitel, vendéglátás-idegenforgalmi, kereskedelem-marketing, vállalkozási ismeretek) |
 
-| 4. | agrár | agrármérnöktanár (specializációk: mezőgazdaság, mezőgazdasági gépész, élelmiszer, erdészet- és vadgazdálkodás, földmérés, kertészet- és parképítés) |
+| 4. | agrár | agrármérnöktanár2 (specializációk: mezőgazdaság, mezőgazdasági gépész, élelmiszer, erdészet- és vadgazdálkodás, földmérés, kertészet- és parképítés) |
 
-| 5. | gyógypedagógia | gyógypedagógia-tanár |
+| 5. | gyógypedagógia | gyógypedagógia-tanár2 |
 
 | 6. | konduktor | konduktortanár |
 
@@ -152,27 +130,33 @@
 
 | 8. | neveléstudomány | pedagógiatanár2 |
 
-| 9. | zeneművészet1 | zenetanár (szakirányok: zongoratanár, orgonatanár, csembalótanár, hárfatanár, gitártanár, lanttanár, harmonikatanár, cimbalomtanár, hegedűtanár, mélyhegedűtanár, gordonkatanár, gordontanár, fuvolatanár, furulyatanár, oboatanár, klarinéttanár, szaxofontanár, fagott-tanár, kürttanár, trombitatanár, harsonatanár, tubatanár, ütőhangszertanár, magánénektanár, jazz-zongoratanár, jazzgitártanár, jazzbasszusgitár-tanár, jazzbőgőtanár, jazzszaxofontanár, jazztrombitatanár, jazzharsonatanár, jazzdobtanár, jazzénektanár, jazz-zeneszerzéstanár, zeneismeret-tanár, egyházzenetanár, ének-zene tanár) |
+| 9. | zeneművészet | zenetanár1 (szakirányok: zongoratanár, orgonatanár, csembalótanár, hárfatanár, gitártanár, lanttanár, harmonikatanár, cimbalomtanár, hegedűtanár, mélyhegedűtanár, gordonkatanár, gordontanár, fuvolatanár, furulyatanár, oboatanár, klarinéttanár, szaxofontanár, fagott-tanár, kürttanár, trombitatanár, harsonatanár, tubatanár, ütőhangszertanár, magánénektanár, jazz-zongoratanár, jazzgitártanár, jazzbasszusgitár-tanár, jazzbőgőtanár, jazzszaxofontanár, jazztrombitatanár, jazzharsonatanár, jazzdobtanár, jazzénektanár, jazz-zeneszerzéstanár, zeneismeret-tanár, egyházzenetanár, ének-zene tanár) |
 
-| 10. |  | zeneművésztanár (szakirányok: zongoraművész-tanár, zongorakísérő-korrepetitor tanár, csembalóművész-tanár, orgonaművész-tanár, hárfaművész-tanár, gitárművész-tanár, cimbalomművész-tanár, harmonikaművész-tanár, hegedűművész-tanár, mélyhegedűművész-tanár, gordonkaművész-tanár, gordonművész-tanár, fuvolaművész-tanár, oboaművész-tanár, klarinétművész-tanár, szaxofonművész-tanár, fagottművész-tanár, kürtművész-tanár, trombitaművész-tanár, harsonaművész-tanár, tubaművész-tanár, ütőhangszerművész-tanár, énekművész-tanár, régi-zene csembalóművész-tanár, régi-zene blockflöteművész-tanár, népi hegedűművész-tanár, népi brácsaművész-tanár, népi bőgő-/cselló-/ütőgardon-/tamburabőgőművész-tanár, népi furulyaművész-tanár, népi klarinét-/tárogatóművész-tanár, népi dudaművész-tanár, népi cimbalomművész-tanár, tamburaművész-tanár, népi citera-koboz-tekerőművész-tanár, népi harmonikaművész-tanár, népi énekművész-tanár, népzeneelmélet-tanár, egyházzeneművész-tanár (egyházzene-kóruskarnagy), egyházzeneművész-tanár (egyházzene-orgonaművész), jazz-zongoraművész-tanár, jazzgitárművész-tanár, jazzbasszusgitárművész-tanár, jazzbőgőművész-tanár, jazzszaxofonművész-tanár, jazztrombitaművész-tanár, jazzharsonaművész-tanár, jazzdobművész-tanár, jazzénekművész-tanár, jazz-zeneszerző művésztanár, zeneszerzőtanár, muzikológus-tanár, zeneelmélet-tanár, kóruskarnagyművész-tanár, ének-zene művésztanár) |
+| 10. | zeneművésztanár1,2 (szakirányok: zongoraművész-tanár, zongorakísérő-korrepetitor tanár, csembalóművész-tanár, orgonaművész-tanár, hárfaművész-tanár, gitárművész-tanár, cimbalomművész-tanár, harmonikaművész-tanár, hegedűművész-tanár, mélyhegedűművész-tanár, gordonkaművész-tanár, gordonművész-tanár, fuvolaművész-tanár, oboaművész-tanár, klarinétművész-tanár, szaxofonművész-tanár, fagottművész-tanár, kürtművész-tanár, trombitaművész-tanár, harsonaművész-tanár, tubaművész-tanár, ütőhangszerművész-tanár, énekművész-tanár, régi-zene csembalóművész-tanár, régi-zene blockflöteművész-tanár, népi hegedűművész-tanár, népi brácsaművész-tanár, népi bőgő-/cselló-/ütőgardon-/tamburabőgőművész-tanár, népi furulyaművész-tanár, népi klarinét-/tárogatóművész-tanár, népi dudaművész-tanár, népi cimbalomművész-tanár, tamburaművész-tanár, népi citeraművész-tanár, népi kobozművész-tanár, népi tekerőművész-tanár, népi harmonikaművész-tanár, népi énekművész-tanár, népzeneelmélet-tanár, egyházzeneművész-tanár, jazz-zongoraművész-tanár, jazzgitárművész-tanár, jazzbasszusgitárművész-tanár, jazzbőgőművész-tanár, jazzszaxofonművész-tanár, jazztrombitaművész-tanár, jazzharsonaművész-tanár, jazzdobművész-tanár, jazzénekművész-tanár, jazz-zeneszerző művésztanár, zeneszerzőtanár, muzikológus-tanár, zeneelmélet-tanár, kóruskarnagyművész-tanár, ének-zene művésztanár) |
 
-| 11. | táncművészet | tánctanár (szakirányok: klasszikus balett, néptánc, moderntánc, kortárstánc, társastánc, tánctörténet és -elmélet) |
+| 11. | táncművészet | tánctanár2 (szakirányok: klasszikus balett, néptánc, divattánc, moderntánc, kortárstánc, társastánc, tánctörténet és -elmélet) |
 
-| 12. |  | táncművésztanár (szakirány: klasszikus balett, néptánc) |
+| 12. | táncművésztanár2 (szakirány: klasszikus balett, néptánc) |
 
-| 13. | ipar-, építő-, film- és videoművészet, multimédia | design- és vizuálisművészet-tanár |
+| 13. | ipar-, építő-, film- és videoművészet, multimédia | design- és vizuálisművészet-tanár2 |
 
-| 14. | képzőművészet | képzőművésztanár |
+| 14. | képzőművészet | képzőművésztanár2 |
 
-| 15. | színház- és filmművészet | színházművészeti tanár |
+| 15. | színház- és filmművészet | színházművészeti tanár2 |
 
-| 16. | filmművészeti tanár |
+| 16. | filmművészeti tanár2 |
+
+| 17. | cirkuszművészet | cirkuszművésztanár2 |
+
+| 18. | szociális | szociális ismeretek tanára2 |
 
 ## A szakmai, művészeti tanárszakok (szakirányok) párosítási feltételei
 
-## 1/ Zenetanár szakon osztatlan kétszakos képzésben a zeneismeret-tanár szakirány az ének-zene tanár szakiránnyal párosítható. Zeneművésztanár szakon kétszakos osztatlan képzésben a kóruskarnagyművész-tanár az ének-zene művésztanár vagy a zeneelmélet-tanár szakiránnyal, a zeneelmélet-tanár szakirány az ének-zene művésztanár vagy a kóruskarnagyművész-tanár szakiránnyal, az egyházzeneművész-tanár szakirányok az ének-zene művésztanár szakiránnyal, a népi hangszeres művésztanár szakirányok a népi énekművész-tanár szakiránnyal, a népi hangszeres művésztanár és a népi énekművész-tanár szakirányok a népzeneelmélet-tanár szakiránnyal, továbbá a népi hangszeres művésztanár szakirányok egymással párosíthatók.
+## 1. Az „1” jelzésű zenetanár osztatlan szakon az ének-zene tanár szakirány csak kétszakos képzésben, a zeneismeret-tanár, az egyházzenetanár szakiránnyal párosítva vehető fel. A zenetanár szakirányokon további kétszakos osztatlan tanárképzés a képzési és kimeneti követelményekben meghatározottak szerint indítható.
 
-## 2/ A tanárszak csak a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló képzésben szervezhető meg és egyszakos képzésben is felvehető.
+## Zeneművésztanár szakon kétszakos osztatlan képzésben a kóruskarnagyművész-tanár az ének-zene művésztanár vagy a zeneelmélet-tanár szakiránnyal, a zeneelmélet-tanár szakirány az ének-zene művésztanár vagy a kóruskarnagyművész-tanár szakiránnyal, az egyházzeneművész-tanár szakirány az ének-zene művésztanár szakiránnyal, a népi hangszeres művésztanár szakirányok a népi énekművész-tanár szakiránnyal, a népi hangszeres művésztanár és a népi énekművész-tanár szakirányok a népzeneelmélet-tanár szakiránnyal, továbbá a népi hangszeres művésztanár szakirányok egymással párosíthatók.
+
+## 2. A „2” jelzésű tanárszak az adott tanárszak szakterülete szerinti nem tanári mesterszakkal osztatlan szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon a képzési és kimeneti követelményekben meghatározottak szerint szervezhető meg.
 
 ## 3. Hitéleti tanárszak
 
@@ -180,110 +164,74 @@
 
 | 1. | szakmai terület | tanárszak |
 
-| 2. | hitoktatási terület | hittanár-nevelőtanár1 |
+| 2. | hitoktatási terület | hittanár–nevelőtanár |
 
 ## A hittanár-nevelőtanár szak párosítási feltételei
 
-## 1/ A hittanár-nevelőtanár szak párosítható közismereti tanárszakkal.
+## 1. A hittanár-nevelőtanár szak párosítható közismereti tanárszakkal.
 
-2. melléklet a 283/2012. (X. 4.) Korm. rendelethez
+2. melléklet a 283/2012. (X. 4.) Korm. rendelethez[^30]
 
-## A tanári felkészítés közös követelményei és az egyes tanárszakok képzési és kimeneti követelményei
+SZAKTANÁRI MESTERKÉPZÉSI SZAKOK JEGYZÉKE
 
-A képzési és kimeneti követelmények tartalmazzák:
+|  | A | B |
 
-1. a tanárszak megnevezését (magyar és angol nyelven);
+| 1. | tanulási terület | tanárszak |
 
-2. a tanári szakképzettség oklevélben történő megjelölését (magyar és angol nyelven);
+| 2. | magyar nyelv és irodalom | magyar nyelv és irodalom szakos szaktanár |
 
-3. a képzési területet;
+| 3. | idegen nyelv | angol nyelv és kultúra szaktanára |
 
-4. a tanárképzés általános követelményeit:
+| 4. | német nyelv és kultúra szaktanára |
 
-4.1. a tanárképzésben szerezhető végzettségi szintet, valamint az Nftv. 52. § (6) bekezdésben meghatározott címet;
+| 5. | bolgár és nemzetiségi bolgár nyelv és kultúra szaktanára |
 
-4.2. a képzési időt félévekben;
+| 6. | finn nyelv és kultúra szaktanára |
 
-4.3. a mesterfokozat megszerzéséhez összegyűjtendő kreditek számát;
+| 7. | francia nyelv és kultúra szaktanára |
 
-4.4. osztatlan képzésben, közismereti tanárszakon az általános iskolai és középiskolai tanárszak közös szakaszának kreditszámát;
+| 8. | holland nyelv és kultúra szaktanára |
 
-4.5. tanári szakképzettség elemeinek:
+| 9. | horvát és nemzetiségi horvát nyelv és kultúra szaktanára |
 
-4.5.1. a tanárszak szakterületi ismereteinek,
+| 10. | japán nyelv és kultúra szaktanára |
 
-4.5.2. a tanári felkészítés
+| 11. | kínai nyelv és kultúra szaktanára |
 
-4.5.2.1. pedagógiai, pszichológiai elméleti és gyakorlati,
+| 12. | latin nyelv és kultúra szaktanára |
 
-4.5.2.2. szakmódszertana (tantárgypedagógia),
+| 13. | lengyel és nemzetiségi lengyel nyelv és kultúra szaktanára |
 
-4.5.2.3. képzéssel párhuzamosan folyó iskolai gyakorlati képzése,
+| 14. | olasz nyelv és kultúra szaktanára |
 
-4.5.2.4. összefüggő, egyéni iskolai gyakorlata
+| 15. | orosz nyelv és kultúra szaktanára |
 
-minimális kreditértékét;
+| 16. | portugál nyelv és kultúra szaktanára |
 
-4.6. a szakdolgozathoz és portfólióhoz rendelhető kreditértéket;
+| 17. | román és nemzetiségi román nyelv és kultúra szaktanára |
 
-4.7. a szabadon választható tantárgyakhoz rendelhető kreditek minimális értékét;
+| 18. | spanyol nyelv és kultúra szaktanára |
 
-4.8. az idegennyelv-ismeretre vonatkozó követelményeket;
+| 19. | szerb és nemzetiségi szerb nyelv és kultúra szaktanára |
 
-5. a tanári felkészítés közös követelményeit:
+| 20. | szlovák és nemzetiségi szlovák nyelv és kultúra szaktanára |
 
-5.1. a tanári kompetenciákat, a tanári tevékenység gyakorlásához szükséges:
+| 21. | szlovén és nemzetiségi szlovén nyelv és kultúra szaktanára |
 
-5.1.1. szakmai tudást,
+| 22. | ukrán és nemzetiségi ukrán nyelv és kultúra szaktanára |
 
-5.1.2. szakmai képességeket,
+| 23. | matematika | matematika szaktanár |
 
-5.1.3. szakmai attitűdöt;
+| 24. | történelem és állampolgári ismeretek | történelem szaktanár |
 
-5.2. a tanári felkészítés ismereteit:
+| 25. | természettudomány és földrajz | biológia szaktanár |
 
-5.2.1. a pedagógiai, pszichológiai elméleti és gyakorlati képzés,
+| 26. | kémia szaktanár |
 
-5.2.2. a szakmódszertan (a diszciplináris és interdiszciplináris tantárgy-pedagógia)
+| 27. | fizika szaktanár |
 
-ismeretköreit;
+| 28. | földrajz szaktanár |
 
-5.3. a gyakorlati képzés elemeit
+| 29. | technológia | informatika-szaktanár (digitális kultúra szaktanára) |
 
-5.3.1. az elméleti képzéssel integráltan folyó iskolai gyakorlati képzés formáit,
-
-5.3.2. az összefüggő, egyéni iskolai gyakorlat területeit;
-
-6. a tanárszaknak megfeleltethető szaktárgy(ak) tanításához szükséges :
-
-6.1. tanári kompetenciákat:
-
-6.1.1. szakmai tudást,
-
-6.1.2. szakmai képességeket;
-
-6.2. az adott tanárszakhoz kapcsolódó, a tantárgya(ka)t, műveltségi területet alapozó szakterületi ismereteket;
-
-6.3. a Nemzeti alaptanterven alapuló kerettantervek szerinti szaktárgyi, műveltségterületi oktatási és fejlesztési célokhoz kapcsolódó szakterületi tudást, szaktudományos ismeretköröket; általános iskolai tanári szakképzettség és középiskolai tanári szakképzettség esetén
-
-6.3.1. a közös képzési szakasz és
-
-6.3.2. az önálló képzési szakaszok
-
-ismeretköreit;
-
-6.4. a rokon tantárgyak, illetve a műveltségi területek rendszerének átfogó, integráló ismeretköreit,
-
-6.5. az adott tanári szakképzettség gyakorlati képzéséhez kapcsolódó speciális tantervi egységek, (labor, projekt, szakképzési, művészetoktatási, stb.) gyakorlatok követelményeit,
-
-7. a tanári szakképzettség megszerzésére irányuló tanárképzés speciális képzési formáiban a követelményeket:
-
-7.1. osztatlan képzésben, ugyanazon a szakterületen, az általános iskolai közismereti tanárszak követelményeire épülő középiskolai tanárszak követelményeit, a szakképzettség elemei szerint összegyűjtendő kreditek számát,
-
-7.2. a tanárszak szakterülete szerinti nem tanári mesterfokozatot követő, a tanári szakképzettség megszerzésére irányuló képzés követelményeit, a szakképzettség elemei szerint összegyűjtendő kreditek számát,
-
-7.3. a mesterfokozat és tanári szakképzettség birtokában az újabb tanári szakképzettség megszerzésére irányuló képzés követelményeit, a tanári szakképzettség elemei szerint összegyűjtendő kreditek számát,
-
-7.4. a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti, főiskolai szintű tanári szakképzettségre épülően a mesterfokozat megszerzésére irányuló képzés követelményeit, a tanári szakképzettség elemei szerint összegyűjtendő kreditek számát,
-
-7.5. pedagógus, nem tanári szakképzettség birtokában a tanári szakképzettség megszerzésére irányuló képzés követelményeit, tanári szakképzettség elemei szerint összegyűjtendő kreditek számát, figyelembe véve az előzetesen megszerzett tudás, munkatapasztalat beszámításának lehetőségét.
+[^30]: A 2. melléklet az 538/2021. (IX. 15.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
