@@ -1,0 +1,1 @@
+A hiteltörlesztési moratórium veszélyhelyzettel kapcsolatos különös szabályainak bevezetéséről szóló 637/2020. (XII. 22.) Korm. rendelet 6. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 7. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

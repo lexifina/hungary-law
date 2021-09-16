@@ -1,0 +1,1 @@
+## szerinti nyilatkozatot kell alkalmazni.
