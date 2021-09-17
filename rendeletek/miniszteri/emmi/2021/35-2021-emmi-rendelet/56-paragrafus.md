@@ -1,4 +1,4 @@
-## 55. §[^56]
+## 55. §[^57]
 
 ## 13. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 31. §, a 34. §, valamint a 4. melléklet 2023. május 26-án lép hatályba.
 
-[^56]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
