@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-169-20-
 | 2019-03-13 | 2011-169-20-22.12 | 47/2019. (III. 12.) Korm. rendelet |
 | 2020-07-17 | 2011-169-20-22.13 | 337/2020. (VII. 9.) Korm. rendelet |
 | 2021-01-01 | 2011-169-20-22.14 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2021-09-18 | 2011-169-20-22.15 | 221/2014. (IX. 4.) Korm. rendelet |
