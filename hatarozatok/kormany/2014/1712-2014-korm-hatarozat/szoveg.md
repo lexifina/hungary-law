@@ -48,11 +48,11 @@ n) a Központi Statisztikai Hivatal vezetője,
 
 o) a Kopp Mária Intézet a Népesedésért és a Családokért vezetője és
 
-p) a Nemzeti Szociálpolitikai Intézet vezetője
+p)[^3] a Slachta Margit Nemzeti Szociálpolitikai Intézet vezetője
 
 egy-egy képviselője.
 
-8.[^3] A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Miniszterelnökség fejezetében kell biztosítani.
+8.[^4] A Tanács titkárát a Tanács alelnöke jelöli ki. A Tanács működésével és programjaival kapcsolatos költségek fedezetét a központi költségvetés Miniszterelnökség fejezetében kell biztosítani.
 
 9. A Tanács az ügyrendjét és a munkatervét maga határozza meg.
 
@@ -62,9 +62,10 @@ egy-egy képviselője.
 
 12. Azok a személyek, akik az e határozat hatálybalépését megelőző napon az Idősügyi Tanács tagjai voltak, a határozat hatálybalépésével a Tanács tagjaivá válnak. Az Idősügyi Tanács jogszabályban meghatározott hatásköreit az Idősek Tanácsa gyakorolja.
 
-13.[^4]
+13.[^5]
 
 [^1]: A 3. pont b) alpontja az 1011/2021. (I. 20.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 7. pont az 1011/2021. (I. 20.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 8. pont az 1011/2021. (I. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. pont p) alpontja az 1502/2021. (VII. 26.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: A 8. pont az 1011/2021. (I. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^5]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
