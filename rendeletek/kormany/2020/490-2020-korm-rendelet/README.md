@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-490-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-01-01 | 2020-490-20-22.1 | 490/2020. (XI. 11.) Korm. rendelet |
+| 2021-09-18 | 2020-490-20-22.2 | 610/2020. (XII. 18.) Korm. rendelet |
