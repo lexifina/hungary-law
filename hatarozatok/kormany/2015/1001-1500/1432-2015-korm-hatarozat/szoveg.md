@@ -88,7 +88,7 @@ ba) Központi Statisztikai Hivatal,
 
 bb) rehabilitációs és szociális hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala,
 
-bc)[^4] Nemzeti Szociálpolitikai Intézet,
+bc)[^4] Slachta Margit Nemzeti Szociálpolitikai Intézet,
 
 bd) Állami Egészségügyi Ellátó Központ,
 
@@ -145,6 +145,6 @@ jelölhető ki.
 [^1]: A 8. pont b) alpont záró szövegrésze az 1447/2021. (VII. 6.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 9. pont a) alpont ai) pontját az 1853/2016. (XII. 27.) Korm. határozat 51. pontja iktatta be.
 [^3]: A 9. pont b) alpontja az 1268/2017. (V. 29.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 9. pont b) alpont bc) alpontja az 1948/2020. (XII. 18.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A 9. pont b) alpont bc) alpontja az 1948/2020. (XII. 18.) Korm. határozat 3. pontjával megállapított, az 1502/2021. (VII. 26.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^5]: A 10. pont a) alpontját az 1853/2016. (XII. 27.) Korm. határozat 53. pontja hatályon kívül helyezte.
 [^6]: A 12. pont az 1268/2017. (V. 29.) Korm. határozat 2. pontjával megállapított szöveg.
