@@ -2,7 +2,7 @@
 
 (1a)[^33] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok kidolgozását, folyamatos tartalmi frissítését és háromévenkénti felülvizsgálatát a Gazdasági társaság vagy az egyházi módszertani intézmény – az 1/A. számú melléklet I. pont 16–18. alpontja szerinti munkakörök tekintetében a Magyar Bölcsődék Egyesületével együtt – végzi.
 
-(1b)[^34] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok kidolgozása, folyamatos tartalmi frissítése és háromévenkénti felülvizsgálata eredményeként létrejött továbbképzési programokat a Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI) szervezeti keretein belül működő Szociális Továbbképzési Minősítő Testület (a továbbiakban: Testület) fogadja el.
+(1b)[^34] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok kidolgozása, folyamatos tartalmi frissítése és háromévenkénti felülvizsgálata eredményeként létrejött továbbképzési programokat a Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI) szervezeti keretein belül működő Szociális Továbbképzési Minősítő Testület (a továbbiakban: Testület) fogadja el.
 
 (1c)[^35] A továbbképzési programok minősítését és pontértékeinek meghatározását a Testület az Ügyrendjében és e rendeletben meghatározottak szerint végzi. Az egyházi módszertani kijelöléssel rendelkező egyház, illetve képző intézménye a szociális továbbképzési programjába beépíti a vallási, világnézeti elkötelezettségének megfelelő ismereteket. A minősített továbbképzési programok pontértékét a vallási, világnézeti elkötelezettségnek megfelelő ismeretek jellegétől és mennyiségétől függetlenül kell megállapítani, a képzés e része tekintetében a Testület az eljárásában csak azt vizsgálja, hogy biztosítottak-e a képzés tárgyi feltételei.
 
@@ -66,7 +66,7 @@ c) a megszervezésre nem került továbbképzési programról a 4. számú mell�
 
 [^32]: A 4. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^33]: A 4. § (1a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^34]: A 4. § (1b) bekezdését a 7/2018. (II. 5.) EMMI rendelet 30. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^34]: A 4. § (1b) bekezdését a 7/2018. (II. 5.) EMMI rendelet 30. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított, a 36/2021. (VIII. 26.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
 [^35]: A 4. § (1c) bekezdését a 2/2021. (I. 18.) EMMI rendelet 8. § (2) bekezdése iktatta be.
 [^36]: A 4. § (2) bekezdése a 2/2021. (I. 18.) EMMI rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^37]: A 4. § (2a) bekezdését a 7/2018. (II. 5.) EMMI rendelet 31. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.

@@ -20,9 +20,9 @@
 
 ## A továbbképzés kezdő és záró időpontja:
 
-## A továbbképzés helyszíne: .............................................................................................................. (intézmény neve)
+## A továbbképzés helyszíne: ........................................................................................................…...... (intézmény neve)
 
-## ...................................................................... (megye) .................................................................................... (város)
+## ............................................................…...... (megye) .................................................................................... (város)
 
 ## ................................................................................................................. (út/utca/stb.) ............................. (házszám)
 
@@ -68,7 +68,7 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-## A beszámolót minden megszervezett, minősített továbbképzési programról a továbbképzés megszervezését követő hónap utolsó napjáig kell megküldeni a Nemzeti Szociálpolitikai Intézet címére: 1132 Budapest, Visegrádi u. 49.
+## A beszámolót minden megszervezett, minősített továbbképzési programról a továbbképzés megszervezését követő hónap utolsó napjáig kell megküldeni a Slachta Margit Nemzeti Szociálpolitikai Intézet címére: 1132 Budapest, Visegrádi u. 49.
 
 ## 1. számú melléklet: A továbbképzés elvégzéséről igazolást kapott résztvevők névsora, a kiadott igazolások sorszámával, a résztvevők működési nyilvántartási számával.
 

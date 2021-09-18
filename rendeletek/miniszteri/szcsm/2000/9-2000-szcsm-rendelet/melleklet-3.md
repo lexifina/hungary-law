@@ -28,4 +28,4 @@
 
 3. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^98]
 
-[^98]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 12. § (1) bekezdés c) pontja és 13. § p) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § l) pontja, a 43/2016. (XII. 27.) EMMI rendelet 11. § k) pontja, a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés b) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § p) pontja szerint módosított szöveg.
+[^98]: A 3. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 41/2012. (XI. 28.) EMMI rendelet 12. § (1) bekezdés c) pontja és 13. § p) pontja, a 39/2015. (VIII. 28.) EMMI rendelet 5. § l) pontja, a 43/2016. (XII. 27.) EMMI rendelet 11. § k) pontja, a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés b) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § p) pontja, a 36/2021. (VIII. 26.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
