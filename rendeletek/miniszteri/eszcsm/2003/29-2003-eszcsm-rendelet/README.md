@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-29-20-0
 | 2020-10-03 | 2003-29-20-0M.15 | 34/2020. (X. 2.) EMMI rendelet |
 | 2020-10-06 | 2003-29-20-0M.16 | 35/2020. (X. 5.) EMMI rendelet |
 | 2021-01-21 | 2003-29-20-0M.17 | 2/2021. (I. 18.) EMMI rendelet |
+| 2021-09-18 | 2003-29-20-0M.18 | 2/2021. (I. 18.) EMMI rendelet |
