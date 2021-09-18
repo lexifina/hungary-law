@@ -2,7 +2,7 @@
 
 a) a közhasznú szervezetet a bíróság nyilvántartásba vette;
 
-b)[^5] a szolgáltatásért felelős szakmai vezető és a szolgáltatást végző személy megfelel az 1. mellékletben meghatározott képesítési feltételeknek, valamint elvégezte a Nemzeti Szociálpolitikai Intézetnek a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyamát;
+b)[^5] a szolgáltatásért felelős szakmai vezető és a szolgáltatást végző személy megfelel az 1. mellékletben meghatározott képesítési feltételeknek, valamint elvégezte a Slachta Margit Nemzeti Szociálpolitikai Intézetnek a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyamát;
 
 c) a közhasznú szervezet rendelkezik
 
@@ -38,5 +38,5 @@ e) annak a területnek a megjelölését, ahol a szolgáltatás az engedély ala
 
 (5)[^6] A szolgáltatást engedélyező szerv a 6. §-ban meghatározottak szerint visszavont működési engedélyt a visszavonásról hozott határozat véglegessé válását követő öt év elteltével törli a nyilvántartásból.
 
-[^5]: A 4. § (1) bekezdés b) pontja a 610/2020. (XII. 18.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdés b) pontja a 610/2020. (XII. 18.) Korm. rendelet 24. § b) pontja, a 448/2021. (VII. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^6]: A 4. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 491. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
