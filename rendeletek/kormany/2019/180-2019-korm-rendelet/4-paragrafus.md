@@ -44,7 +44,7 @@ f) a területi felzárkózás elősegítése érdekében a Kormány által kijel
 
 g) határon túli magyarlakta területeken felzárkózási modellprogramok átvételét segíti.
 
-(2)[^1] A Főigazgatóság ellátja a Biztos Kezdet Gyerekházak és a Tanoda program pályáztatásával és finanszírozásával kapcsolatos feladatokat. A Főigazgatóság e feladatai ellátása tekintetében a Nemzeti Szociálpolitikai Intézet elektronikus pályázatkezelő rendszeréhez hozzáférési jogosultsággal rendelkezik.
+(2)[^1] A Főigazgatóság ellátja a Biztos Kezdet Gyerekházak és a Tanoda program pályáztatásával és finanszírozásával kapcsolatos feladatokat. A Főigazgatóság e feladatai ellátása tekintetében a Slachta Margit Nemzeti Szociálpolitikai Intézet elektronikus pályázatkezelő rendszeréhez hozzáférési jogosultsággal rendelkezik.
 
 (3) A Kormány a Főigazgatóság központi szervét jelöli ki a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 38/A. § (4)–(8) bekezdése szerinti „Biztos Kezdet Gyerekház Dokumentációs Rendszer” elnevezésű nyilvántartási rendszer vezetésére.
 
@@ -54,4 +54,4 @@ g) határon túli magyarlakta területeken felzárkózási modellprogramok átv�
 
 (6) A Főigazgatóság közreműködik a roma nemzetiséghez kapcsolódó feladatok ellátásában.
 
-[^1]: A 4. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.
+[^1]: A 4. § (2) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 26. § a) pontja, a 448/2021. (VII. 26.) Korm. rendelet 9. §-a szerint módosított szöveg.
