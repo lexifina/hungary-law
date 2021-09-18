@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2021-05-14 | 1998-15-20-3D.58 | 15/2021. (IV. 29.) EMMI rendelet |
 | 2021-08-29 | 1998-15-20-3D.59 | 36/2021. (VIII. 26.) EMMI rendelet |
 | 2021-09-01 | 1998-15-20-3D.60 | 6/2021. (VII. 19.) CSTNM rendelet |
+| 2021-09-18 | 1998-15-20-3D.61 | 22/2019. (IX. 30.) EMMI rendelet |
