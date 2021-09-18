@@ -56,7 +56,7 @@ i) a társadalmi felelősségvállalás területén aktív szerepet vállaló pi
 
 7. A Tanács elnöke, ha valamely napirendi pont tárgyalása kapcsán szükségesnek tartja, a tagokon túl tanácskozási joggal további személyeket hívhat meg.
 
-8.[^3] A Tanács működésével kapcsolatos titkársági teendőket a Nemzeti Szociálpolitikai Intézet (a továbbiakban: Intézet) látja el.
+8.[^3] A Tanács működésével kapcsolatos titkársági teendőket a Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: Intézet) látja el.
 
 9. A Tanács szükség szerint, de évente legalább kétszer ülésezik.
 
@@ -72,6 +72,6 @@ i) a társadalmi felelősségvállalás területén aktív szerepet vállaló pi
 
 [^1]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 27. pontja szerint módosított szöveg.
 [^2]: Az 5. pont f) alpontja az 1267/2019. (V. 8.) Korm. határozat 26. pontjával megállapított szöveg.
-[^3]: A 8. pont az 1853/2016. (XII. 27.) Korm. határozat 76. pontjával megállapított, az 1948/2020. (XII. 18.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.
+[^3]: A 8. pont az 1853/2016. (XII. 27.) Korm. határozat 76. pontjával megállapított, az 1948/2020. (XII. 18.) Korm. határozat 6. pont a) alpontja, az 1502/2021. (VII. 26.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^4]: A 10. pont az 1853/2016. (XII. 27.) Korm. határozat 77. pontja, az 1948/2020. (XII. 18.) Korm. határozat 6. pont b) alpontja szerint módosított szöveg.
 [^5]: A 12. pont az 1853/2016. (XII. 27.) Korm. határozat 77. pontja, az 1948/2020. (XII. 18.) Korm. határozat 6. pont c) alpontja szerint módosított szöveg.
