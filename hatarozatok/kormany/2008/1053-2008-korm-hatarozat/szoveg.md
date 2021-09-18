@@ -46,7 +46,7 @@ l)[^13] az Igazságügyi Minisztérium európai uniós ügyekért felelős álla
 
 m) a Központi Statisztikai Hivatal elnökét,
 
-n)[^14] a Nemzeti Szociálpolitikai Intézet főigazgatóját.
+n)[^14] a Slachta Margit Nemzeti Szociálpolitikai Intézet főigazgatóját.
 
 o)[^15] a Társadalmi Esélyteremtési Főigazgatóság főigazgatóját
 
@@ -129,7 +129,7 @@ h)[^25]
 [^11]: Az 5. pont j) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 2. pontjával megállapított szöveg.
 [^12]: Az 5. pont k) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 2. pontjával megállapított szöveg.
 [^13]: Az 5. pont l) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
-[^14]: Az 5. pont n) alpontj az 1948/2020. (XII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
+[^14]: Az 5. pont n) alpontja az 1948/2020. (XII. 18.) Korm. határozat 1. pontjával megállapított, az 1502/2021. (VII. 26.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^15]: Az 5. pont o) alpontját az 1545/2021. (VIII. 4.) Korm. határozat 3. pontja iktatta be.
 [^16]: A 6. pont az 1223/2015. (IV. 20.) Korm. határozat 1. pontjával megállapított szöveg.
 [^17]: A 6. pont a) alpontja az 1267/2019. (V. 8.) Korm. határozat 3. pontjával megállapított szöveg.
