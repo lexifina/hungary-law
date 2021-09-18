@@ -1,6 +1,6 @@
-## Hitelesítések nyilvántartása[^73]
+## Hitelesítések nyilvántartása[^86]
 
-29. §[^74]
+29. §[^87]
 
-[^73]: A Vhr. 29. §-át megelőző alcím a 40/2015. (XII. 22.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^74]: A Vhr. 29. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^86]: A Vhr. 29. §-át megelőző alcím a 40/2015. (XII. 22.) IM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^87]: A Vhr. 29. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-13-20-0
 | 2019-04-15 | 1991-13-20-06.31 | 10/2019. (IV. 5.) IM rendelet |
 | 2020-01-01 | 1991-13-20-06.32 | 29/2019. (XII. 20.) IM rendelet |
 | 2020-07-16 | 1991-13-20-06.33 | 10/2020. (VII. 15.) IM rendelet |
+| 2021-09-18 | 1991-13-20-06.34 | 8/2021. (IX. 17.) IM rendelet |

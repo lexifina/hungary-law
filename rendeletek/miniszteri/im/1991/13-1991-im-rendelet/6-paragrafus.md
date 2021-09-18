@@ -1,3 +1,9 @@
-6. §[^15] A miniszter a közjegyzői állást a területi elnökség által kinevezésre javasolt 3 jelölt egyikének kinevezésével tölti be. Ha e három jelölt közül valamelyik pályázó időközben már másik közjegyzői állásra kinevezést kapott, a kamarai értékelés során következő legmagasabb pontszámot kapott pályázó bekerül a kinevezhető jelöltek közé.
+6. §[^26] A miniszter a kinevezési javaslat kézhezvételét követő 30 napon belül megvizsgálja a pályázati eljárás jogszerűségét. Ha a pályázati eljárás érvényes, a miniszter a kinevezési javaslat kézhezvételét követő 60 napon belül dönt a kinevezésről.
 
-[^15]: A Vhr. 6. §-a a 20/2013. (VIII. 7.) KIM rendelet 1. § (4) bekezdésével megállapított szöveg.
+(2) A miniszter a közjegyzői állást a pályáztató területi elnökség által kinevezésre javasolt három pályázó egyikének kinevezésével tölti be. Ha a kinevezésre javasolt pályázók egyike időközben másik közjegyzői álláshelyre kinevezésre került, vagy egyéb okból nem nevezhető ki, a soron következő legmagasabb pontszámot kapott pályázót kell a kinevezés során jelöltként figyelembe venni.
+
+(3) A miniszter a döntését soron kívül közli a kinevezett közjegyzővel, valamint arról soron kívül tájékoztatja a pályáztató területi elnökséget és az országos kamarát.
+
+(4) A pályáztató területi elnökség a miniszter döntésének kézhezvételétől számított 8 napon belül értesíti a többi pályázót a pályázati eljárás eredményéről.
+
+[^26]: A Vhr. 6. §-a a 8/2021. (IX. 17.) IM rendelet 3. §-ával megállapított szöveg.

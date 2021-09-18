@@ -1,5 +1,5 @@
 ## Pénztárkönyv és pénztárnapló
 
-31. §[^78]
+31. §[^91]
 
-[^78]: A Vhr. 31. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.
+[^91]: A Vhr. 31. §-át a 29/2019. (XII. 20.) IM rendelet 100. § a) pontja hatályon kívül helyezte.

@@ -1,22 +1,23 @@
-7/A. §[^22] (1) Az országos kamara által elfogadott minősített hitelesítés-szolgáltató (a továbbiakban: Szolgáltató) által a közjegyző és a közjegyzőhelyettes (a továbbiakban e §-ban együtt: közjegyző) hivatalba lépését megelőzően a közjegyző hivatali elektronikus aláírása hitelesítése céljából kibocsátott tanúsítványt (a továbbiakban: minősített tanúsítvány) az országos kamara nyilvántartásba veszi és a területi kamara közreműködésével a közjegyzőnek átadja.
+7/A. §[^34] (1) Az országos kamara által elfogadott minősített hitelesítés-szolgáltató (a továbbiakban: Szolgáltató) által a közjegyző és a közjegyzőhelyettes (a továbbiakban e §-ban együtt: közjegyző) hivatalba lépését megelőzően a közjegyző hivatali elektronikus aláírása hitelesítése céljából kibocsátott tanúsítványt (a továbbiakban: minősített tanúsítvány) az országos kamara nyilvántartásba veszi és a területi kamara közreműködésével a közjegyzőnek átadja.
 
-(2) Az országos kamara a Ktv. 55. §-ában meghatározott jogkörében eljárva iránymutatást adhat ki a minősített tanúsítvány közjegyző általi alkalmazásának rendjéről és a minősített tanúsítvány kibocsátásának és bevonásának részletes eljárási szabályairól.
+(2)[^35] Az országos kamara a Ktv. 55. §-ában meghatározott jogkörében eljárva szabályzatot adhat ki a minősített tanúsítvány közjegyző általi alkalmazásának rendjéről és a minősített tanúsítvány kibocsátásának és bevonásának részletes eljárási szabályairól.
 
-(3)[^23] A Szolgáltató elfogadásáról szóló határozatot az országos kamara honlapján közzé kell tenni.
+(3)[^36] A Szolgáltató elfogadásáról szóló határozatot az országos kamara honlapján közzé kell tenni.
 
-(4)[^24] A területi elnökség a tanúsítvány alkalmazásához való hozzájárulás visszavonását a közjegyző felfüggesztése, szolgálatának megszűnése vagy a közjegyzői kinevezés érvénytelenségének megállapítása esetén az országos kamaránál kezdeményezi. A Szolgáltató köteles az országos kamara megkeresésére a hivatali elektronikus aláírást a minősített tanúsítvány visszavonásával együtt haladéktalanul érvényteleníteni.
+(4)[^37] A területi elnökség a tanúsítvány alkalmazásához való hozzájárulás visszavonását a közjegyző felfüggesztése, szolgálatának megszűnése vagy a közjegyzői kinevezés érvénytelenségének megállapítása esetén az országos kamaránál kezdeményezi. A Szolgáltató köteles az országos kamara megkeresésére a hivatali elektronikus aláírást a minősített tanúsítvány visszavonásával együtt haladéktalanul érvényteleníteni.
 
 (5) A közjegyző köteles a hivatali bélyegzőt és a hivatali elektronikus aláírást létrehozó eszközt oly módon őrizni, hogy rajta kívül ahhoz más személy ne férhessen hozzá.
 
-(6)[^25] A bélyegző és a hivatali elektronikus aláírást létrehozó eszköz elvesztését, eltulajdonítását vagy megrongálódását és megsemmisülését a közjegyző köteles a területi kamara elnökének haladéktalanul bejelenteni, aki arról értesíti az országos kamarát.
+(6)[^38] A bélyegző és a hivatali elektronikus aláírást létrehozó eszköz elvesztését, eltulajdonítását vagy megrongálódását és megsemmisülését a közjegyző köteles a területi kamara elnökének haladéktalanul bejelenteni, aki arról értesíti az országos kamarát.
 
-(7)[^26] A bélyegző és a hivatali elektronikus aláírásról kibocsátott tanúsítvány érvénytelenségének tényét és kezdő napját be kell jegyezni az országos kamara nyilvántartásába és azt közzé kell tenni az országos kamara honlapján. Az országos kamara a közjegyző költségére a bélyegző, a hivatali elektronikus aláírást létrehozó eszköz, valamint a hivatali elektronikus aláírásáról kibocsátott tanúsítvány érvénytelenségének tényét a Hivatalos Értesítőben közzéteszi. A hirdetményben fel kell tüntetni a bélyegző szövegét, sorszámát és a bélyegző, valamint a hivatali elektronikus aláírást létrehozó eszköz érvénytelenségének kezdő napját.
+(7)[^39] A bélyegző és a hivatali elektronikus aláírásról kibocsátott tanúsítvány érvénytelenségének tényét és kezdő napját be kell jegyezni az országos kamara nyilvántartásába és azt közzé kell tenni az országos kamara honlapján. Az országos kamara a közjegyző költségére a bélyegző, a hivatali elektronikus aláírást létrehozó eszköz, valamint a hivatali elektronikus aláírásáról kibocsátott tanúsítvány érvénytelenségének tényét a Hivatalos Értesítőben közzéteszi. A hirdetményben fel kell tüntetni a bélyegző szövegét, sorszámát és a bélyegző, valamint a hivatali elektronikus aláírást létrehozó eszköz érvénytelenségének kezdő napját.
 
-(8)[^27] Az érvénytelen bélyegzőt és a hivatali elektronikus aláírást létrehozó eszközt a közjegyzői levéltár 10 évig őrzi, majd megsemmisíti.
+(8)[^40] Az érvénytelen bélyegzőt és a hivatali elektronikus aláírást létrehozó eszközt a közjegyzői levéltár 10 évig őrzi, majd megsemmisíti.
 
-[^22]: A Vhr. 7/A. §-át a 26/2004. (VII. 26.) IM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe.
-[^23]: A Vhr. 7/A. § (3) bekezdése a 24/2015. (IX. 21.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^24]: A Vhr. 7/A. § (4) bekezdése a 6/2010. (III. 12.) IRM rendelet 2. § b) pontja szerint módosított szöveg.
-[^25]: A Vhr. 7/A. §-ának (6) bekezdése az 55/2007. (XII. 21.) IRM rendelet 1. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
-[^26]: A Vhr. 7/A. § (7) bekezdése a 24/2015. (IX. 21.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^27]: A Vhr. 7/A. §-ának (8) bekezdését az 55/2007. (XII. 21.) IRM rendelet 1. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
+[^34]: A Vhr. 7/A. §-át a 26/2004. (VII. 26.) IM rendelet 1. §-ának (1) bekezdése iktatta a szövegbe.
+[^35]: A Vhr. 7/A. § (2) bekezdése a 8/2021. (IX. 17.) IM rendelet 6. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^36]: A Vhr. 7/A. § (3) bekezdése a 24/2015. (IX. 21.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^37]: A Vhr. 7/A. § (4) bekezdése a 6/2010. (III. 12.) IRM rendelet 2. § b) pontja szerint módosított szöveg.
+[^38]: A Vhr. 7/A. §-ának (6) bekezdése az 55/2007. (XII. 21.) IRM rendelet 1. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
+[^39]: A Vhr. 7/A. § (7) bekezdése a 24/2015. (IX. 21.) IM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^40]: A Vhr. 7/A. §-ának (8) bekezdését az 55/2007. (XII. 21.) IRM rendelet 1. § (2) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 6. § (3) bekezdését és 7. §-át.
