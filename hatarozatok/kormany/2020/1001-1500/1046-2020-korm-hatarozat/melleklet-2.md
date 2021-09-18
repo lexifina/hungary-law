@@ -94,7 +94,7 @@ I. Megelőzés
 
 | A | Felelős: | EMMI |
 
-| B | Partner: | Nemzeti Szociálpolitikai Intézet |
+| B | Partner: | Slachta Margit Nemzeti Szociálpolitikai Intézet |
 
 | C | Eszköz: | továbbképzés |
 
@@ -892,4 +892,4 @@ IV.5. Az emberkereskedelemmel kapcsolatos nemzetközi együttműködés bővít�
 
 | F | Forrás: | hazai és uniós költségvetés terhére megvalósítandó |
 
-[^3]: A 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 8. pontja, az 1447/2021. (VII. 6.) Korm. határozat 6. pont b)–c) alpontja szerint módosított szöveg.
+[^3]: A 2. melléklet az 1948/2020. (XII. 18.) Korm. határozat 8. pontja, az 1447/2021. (VII. 6.) Korm. határozat 6. pont b)–c) alpontja, az 1502/2021. (VII. 26.) Korm. határozat 8. pontja szerint módosított szöveg.
