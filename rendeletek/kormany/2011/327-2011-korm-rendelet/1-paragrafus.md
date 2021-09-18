@@ -48,7 +48,7 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
 (12)[^11] A kormányhivatalok rehabilitációs hatósági, rehabilitációs szakértői szervi és orvosszakértői szervi feladatköreinek gyakorlásával összefüggésben a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 2. § (1) bekezdés e)–h) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a szociál- és nyugdíjpolitikáért felelős miniszter gyakorolja.
 
-(13)[^12] A Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI) közreműködik a szociál- és nyugdíjpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
+(13)[^12] A Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI) közreműködik a szociál- és nyugdíjpolitikáért felelős miniszter (12) bekezdésben meghatározott feladatainak ellátásában, az ezzel kapcsolatos intézkedéseinek és döntéseinek előkészítésében.
 
 (14)[^13] Az NSZI közreműködik azon eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésében, amelyek segítik a rehabilitációs hatósági és szolgáltató tevékenységet, valamint hatékonysági vizsgálatokat folytat, prognózisokat, elemzéseket készít, továbbá a képességvizsgálatokhoz kapcsolódó orvos-szakmai módszertani feladatokat lát el. E feladatai ellátásával összefüggésben az NSZI a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszerben kezelt adatokat statisztikai célra – személyazonosításra alkalmatlan módon – felhasználhatja.
 
@@ -65,6 +65,6 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 [^9]: Az 1. § (10) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^10]: Az 1. § (11) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^11]: Az 1. § (12) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^12]: Az 1. § (13) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
+[^12]: Az 1. § (13) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 13. § 1. pontja, a 448/2021. (VII. 26.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^13]: Az 1. § (14) bekezdése a 304/2018. (XII. 27.) Korm. rendelet 4. § a) pontja, a 610/2020. (XII. 18.) Korm. rendelet 13. § 2. pontja szerint módosított szöveg.
 [^14]: Az 1. § (15) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
