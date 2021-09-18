@@ -1,4 +1,4 @@
-## III. Fejezet[^65]
+## III. Fejezet[^66]
 
 ## AZ ALAP FELHASZNÁLÁSÁRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -8,14 +8,14 @@
 
 (2) A támogatási igény kizárólag az e célra rendszeresített számítógépes rendszeren keresztül, elektronikusan nyújtható be.
 
-(3)[^66] A kollégium a pályázati kiírásban legfeljebb tíz százalék mértékben határozhatja meg a saját forrás arányát. Ha a pályázati kiírásban a saját forrás meghatározásra került, a szükséges saját forrás biztosítása történhet természetben – különösen a közérdekű önkéntes tevékenység formájában – és pénzben, pénzforrásban vagy pénzeszközben, vagy mindkét formában önállóan is.
+(3)[^67] A kollégium a pályázati kiírásban legfeljebb tíz százalék mértékben határozhatja meg a saját forrás arányát. Ha a pályázati kiírásban a saját forrás meghatározásra került, a szükséges saját forrás biztosítása történhet természetben – különösen a közérdekű önkéntes tevékenység formájában – és pénzben, pénzforrásban vagy pénzeszközben, vagy mindkét formában önállóan is.
 
-(4)[^67] A Civil tv. 56. § (1) bekezdés c)–j) pontja szerinti támogatás nem lehet kisebb a civil szervezet által igényelt támogatási összeg egyharmadánál. Ha a kollégium a pályázatot csak kisebb arányban tudná támogatni, a pályázatot indokolás mellett el kell utasítani.
+(4)[^68] A Civil tv. 56. § (1) bekezdés c)–j) pontja szerinti támogatás nem lehet kisebb a civil szervezet által igényelt támogatási összeg egyharmadánál. Ha a kollégium a pályázatot csak kisebb arányban tudná támogatni, a pályázatot indokolás mellett el kell utasítani.
 
 (5) A támogatási igény bírálata során figyelembe kell venni a 13. § (3) bekezdés szerinti támogatást.
 
 (6) A kollégium az általa hozott támogatási döntések adatait az internetes támogatáskezelő rendszerben rögzíti.
 
-[^65]: A III. Fejezet (11–14. §) a 74/2013. (XII. 2.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^66]: A 11. § (3) bekezdése a 23/2017. (X. 3.) EMMI rendelet 6. §-ával megállapított szöveg.
-[^67]: A 11. § (4) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 12. § f) pontja és a 13. § e) pontja szerint módosított szöveg.
+[^66]: A III. Fejezet (11–14. §) a 74/2013. (XII. 2.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^67]: A 11. § (3) bekezdése a 23/2017. (X. 3.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^68]: A 11. § (4) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 12. § f) pontja és a 13. § e) pontja szerint módosított szöveg.

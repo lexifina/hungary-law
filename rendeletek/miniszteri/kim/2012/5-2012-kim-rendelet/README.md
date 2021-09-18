@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-2T
 | 2020-02-29 | 2012-5-20-2T.16 | 3/2020. (II. 28.) MvM rendelet |
 | 2020-07-01 | 2012-5-20-2T.17 | 11/2020. (VI. 30.) MvM rendelet |
 | 2020-09-01 | 2012-5-20-2T.18 | 18/2019. (XII. 17.) MvM rendelet |
+| 2021-09-18 | 2012-5-20-2T.19 | 11/2021. (IX. 17.) MvM rendelet |

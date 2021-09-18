@@ -14,6 +14,6 @@
 
 (5) Az Alappal kapcsolatos közérdekű vagy közérdekből nyilvános adat megismerésére irányuló igény teljesítésének rendjét rögzítő szabályzatokat – így különösen a miniszter által vezetett minisztérium, továbbá az Alapkezelő vonatkozó szabályzatait – a hivatalos honlapon kell közzé tenni.
 
-(6)[^88] Az adatok belső nyilvántartásokkal való egyezőségét az Alapkezelő biztosítja.
+(6)[^91] Az adatok belső nyilvántartásokkal való egyezőségét az Alapkezelő biztosítja.
 
-[^88]: A 15. § (6) bekezdése a 35/2016. (XI. 30.) EMMI rendelet a 13. § i) pontja szerint módosított szöveg.
+[^91]: A 15. § (6) bekezdése a 35/2016. (XI. 30.) EMMI rendelet a 13. § i) pontja szerint módosított szöveg.

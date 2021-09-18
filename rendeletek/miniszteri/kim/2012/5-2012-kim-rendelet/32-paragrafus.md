@@ -6,7 +6,7 @@ a) együttműködés a Tanáccsal, a kollégiumokkal;
 
 b) az Alap működésével összefüggő pénzügyi és számviteli feladatok ellátása;
 
-c)[^137] a tárgyévet megelőző évi költségvetési előirányzat felhasználása, az összes felhasznált támogatási forrás összege kollégiumi bontásban;
+c)[^140] a tárgyévet megelőző évi költségvetési előirányzat felhasználása, az összes felhasznált támogatási forrás összege kollégiumi bontásban;
 
 d) a pénzeszközök felhasználásra vonatkozó döntések előkészítése, adat- és információszolgáltatás;
 
@@ -30,4 +30,4 @@ m) a kifogásnak nem minősülő panaszok kezelése (beérkezett panaszok száma
 
 n) az ügyfélszolgálat működtetése, a pályázók tájékoztatása.
 
-[^137]: A 32. § c) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § l) pontja szerint módosított szöveg.
+[^140]: A 32. § c) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § l) pontja szerint módosított szöveg.
