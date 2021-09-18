@@ -14,12 +14,13 @@
 
 ## 3.[^1]
 
-1. melléklet az 1302/2021. (V. 21.) Korm. határozathoz
+1. melléklet az 1302/2021. (V. 21.) Korm. határozathoz[^2]
 
 |  | A | B | C | D | E | F | G |
 
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
-| 2. | EFOP-1.1.1-15- 2015-00001 | Megváltozott munkaképességű emberek támogatása | Nemzeti Szociálpolitikai Intézet (konzorciumvezető) Magyar Államkincstár | 13 965 294 850 | 3 000 000 000 | 16 965 294 850 | A projekt célja a megváltozott munkaképességű személyek nyílt munkaerőpiaci integrációjának elősegítése foglalkozási rehabilitációs szolgáltatások nyújtásával, foglalkoztatásuk ösztönzése, képzettségi szintjük növelése, valamint a megváltozott munkaképességű személyeket foglalkoztatni képes munkaadók szemléletének formálása. |
+| 2. | EFOP-1.1.1-15- 2015-00001 | Megváltozott munkaképességű emberek támogatása | Slachta Margit Nemzeti Szociálpolitikai Intézet (konzorciumvezető) Magyar Államkincstár | 13 965 294 850 | 3 000 000 000 | 16 965 294 850 | A projekt célja a megváltozott munkaképességű személyek nyílt munkaerőpiaci integrációjának elősegítése foglalkozási rehabilitációs szolgáltatások nyújtásával, foglalkoztatásuk ösztönzése, képzettségi szintjük növelése, valamint a megváltozott munkaképességű személyeket foglalkoztatni képes munkaadók szemléletének formálása. |
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1502/2021. (VII. 26.) Korm. határozat 10. pontja szerint módosított szöveg.
