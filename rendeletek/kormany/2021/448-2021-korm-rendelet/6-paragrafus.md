@@ -1,3 +1,5 @@
-## 5. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 17. § (3) bekezdés b) pontjában a „Nemzeti” szövegrész helyébe a „Slachta Margit Nemzeti” szöveg lép.
+## 5. §[^6]
 
 ## 6. A szociális és gyermekvédelmi ellátások országos nyilvántartásáról szóló 392/2013. (XI. 12.) Korm. rendelet módosítása
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

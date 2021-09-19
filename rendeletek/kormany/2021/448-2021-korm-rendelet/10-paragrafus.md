@@ -1,3 +1,5 @@
-## 9. § A Társadalmi Esélyteremtési Főigazgatóságról, valamint egyes kormányrendeleteknek a Szociális és Gyermekvédelmi Főigazgatóság egyes feladatainak átadásával kapcsolatos módosításáról szóló 180/2019. (VII. 26.) Korm. rendelet 4. § (2) bekezdésében a „Nemzeti” szövegrész helyébe a „Slachta Margit Nemzeti” szöveg lép.
+## 9. §[^10]
 
 ## 10. A látássérült személyek számára biztosított elemi rehabilitációs szolgáltatásról szóló 490/2020. (XI. 11.) Korm. rendelet módosítása
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
