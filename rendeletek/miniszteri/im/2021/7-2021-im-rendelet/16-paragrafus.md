@@ -2,4 +2,6 @@
 
 16. § (1) Ez a rendelet a kihirdetését követő 10. napon lép hatályba.
 
-(2) Hatályát veszti a külszolgálati pályázati rendszerről szóló 21/2017. (VII. 18.) MvM rendelet.
+(2)[^1]
+
+[^1]: A 16. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
