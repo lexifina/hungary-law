@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-36-20-5
 | 2021-08-29 | 2021-36-20-5H.1 | 36/2021. (VIII. 26.) EMMI rendelet |
 | 2021-08-30 | 2021-36-20-5H.2 | 2010: CXXX. törvény |
 | 2021-09-18 | 2021-36-20-5H.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-09-19 | 2021-36-20-5H.4 | 2010: CXXX. törvény |
