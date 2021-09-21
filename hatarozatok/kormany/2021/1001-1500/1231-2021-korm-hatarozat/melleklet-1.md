@@ -8,7 +8,7 @@
 
 ## b) az Áht. 33. § (1) bekezdésében meghatározott jogkörében eljárva elrendeli a Kvtv. 1. melléklet
 
-## ba) XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetnek az 5. A Nemzeti Vízművek Zrt. tulajdonosi joggyakorlásával kapcsolatos bevételek címmel és azon belül az 1. Vagyonkezelési és üzemeltetési díj alcímmel, valamint a 2. Egyéb bevételek alcímmel,
+## ba)[^1] XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetnek az 8. A Nemzeti Vízművek Zrt. tulajdonosi joggyakorlásával kapcsolatos bevételek címmel és azon belül az 1. Vagyonkezelési és üzemeltetési díj alcímmel, valamint a 2. Egyéb bevételek alcímmel,
 
 ## bb) XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímnek a 41. Egy fővárosi sportlétesítmény korszerűsítésének előkészítése és megvalósítása jogcímcsoporttal
 
@@ -52,11 +52,12 @@
 
 ## Határidő: azonnal
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
 1. melléklet az 1231/2021. (V. 5.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont b) alpont ba) pontja az 1640/2021. (IX. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
