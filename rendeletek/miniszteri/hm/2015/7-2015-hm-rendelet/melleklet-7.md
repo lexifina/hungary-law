@@ -40,6 +40,6 @@
 
 | 19 | dandártábornok | 20.000 | - | 41.435 | - |
 
-7. melléklet a 7/2015. (VI. 22.) HM rendelethez[^220]
+7. melléklet a 7/2015. (VI. 22.) HM rendelethez[^221]
 
-[^220]: A 7. mellékletet a 25/2016. (XII. 22.) HM rendelet 90. §-a iktatta be.
+[^221]: A 7. mellékletet a 25/2016. (XII. 22.) HM rendelet 90. §-a iktatta be.
