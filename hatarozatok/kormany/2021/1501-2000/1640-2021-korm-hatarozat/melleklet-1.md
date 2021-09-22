@@ -86,6 +86,8 @@
 
 ## k) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok előirányzatból történő, valamint fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról szóló 1128/2021. (III. 17.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 15. Magyarságkutató Intézet cím, K3. Dologi kiadások előirányzat javára átcsoportosított 1 000 000 000 forintból 174 000 000 forint a K1. Személyi juttatások előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2. A Központi Maradványelszámolási Alapból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, a központi költségvetést érintő címrendi módosításról, valamint egyes kormányhatározatok módosításáról szóló 1231/2021. (V. 5.) Korm. határozat 1. pont b) alpont ba) pontjában az „5. A Nemzeti Vízművek Zrt. tulajdonosi joggyakorlásával kapcsolatos bevételek címmel” szövegrész helyébe a „8. A Nemzeti Vízművek Zrt. tulajdonosi joggyakorlásával kapcsolatos bevételek címmel” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1640/2021. (IX. 21.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
