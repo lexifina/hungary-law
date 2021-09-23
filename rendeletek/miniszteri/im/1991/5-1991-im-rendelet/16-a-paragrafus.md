@@ -18,7 +18,7 @@
 
 (10) Ha a részvizsgát videókonferencia útján tartják meg, a vizsgabizottság zárt tanácskozásának a részvizsga eredményét megállapító részéről és az eredményhirdetésről felvétel készül, amelyet a jegyzőkönyv elektronikus példányához csatolni kell. Ebben az esetben a jegyzőkönyvet kizárólag a jegyzőkönyvvezető írja alá.
 
-(11) A személyes jelenlétet igénylő vizsgáztatásban vizsgáztatóként és jegyzőkönyvvezetőként nem vehet részt az, aki a vizsga időpontjában a 65. életévét betöltötte.
+(11)[^67]
 
 (12) A jelölt legkésőbb a vizsga időpontját megelőző harmadik napon 10 óráig elektronikus levélben a vizsgát lemondhatja. A jelöltet a veszélyhelyzet megszűnését követő vele egyeztetett vizsgaidőpontra soron kívül kell beosztani.
 
@@ -29,3 +29,4 @@
 (15) A (12)–(14) bekezdésben meghatározott esetekben a vizsga díját ismételten nem kell megfizetni.
 
 [^66]: A 16/A. §-t a 16/2020. (XII. 21.) IM rendelet 1. §-a iktatta be.
+[^67]: A 16/A. § (11) bekezdését a 9/2021. (IX. 22.) IM rendelet 1. §-a hatályon kívül helyezte.

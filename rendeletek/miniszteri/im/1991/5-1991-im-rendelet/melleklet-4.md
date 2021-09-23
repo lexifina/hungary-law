@@ -2,7 +2,7 @@
 
 | ………………………………. aláírás |
 
-4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^92]
+4. számú melléklet az 5/1991. (IV. 4.) IM rendelethez[^93]
 
 ## A jogi szakvizsga vizsgaszabályzata
 
@@ -100,4 +100,4 @@ IV. A jogi szakvizsga vizsgaszabályzatának a veszélyhelyzet ideje alatt érv�
 
 5. Miután a jelölt mindegyik vizsgatárgyból vizsgázott, a vizsgabizottság a videókonferenciát a jelölt kizárásával folytatja, ahol zárt tanácskozásban értékeli a jelölt részvizsgán nyújtott teljesítményét; a vizsga eredményét a jegyzőkönyvben fel kell tüntetni. A vizsgabizottság elnöke ezt követően a jelölttel a videókonferencia keretében szóban röviden ismerteti a részvizsga értékelését, valamint annak eredményét. Sikertelen vagy részben sikertelen részvizsga esetén a vizsgabizottság elnöke a jelöltet a vizsgaismétlésre irányadó rendelkezésekről tájékoztatja.
 
-[^92]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja, a 20/2017. (XII. 21.) IM rendelet 3. § (3) bekezdése, a 3/2020. (IV. 21.) IM rendelet 2. §-a, a 7/2020. (VI. 17.) IM rendelet 2–3. §-a, a 16/2020. (XII. 21.) IM rendelet 3. §-a szerint módosított szöveg.
+[^93]: A 4. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 2. § (9) bekezdés b) pontja iktatta be, szövege a 25/2015. (IX. 25.) IM rendelet 4. § d) pontja és 7. § c) pontja, a 20/2017. (XII. 21.) IM rendelet 3. § (3) bekezdése, a 3/2020. (IV. 21.) IM rendelet 2. §-a, a 7/2020. (VI. 17.) IM rendelet 2–3. §-a, a 16/2020. (XII. 21.) IM rendelet 3. §-a szerint módosított szöveg.

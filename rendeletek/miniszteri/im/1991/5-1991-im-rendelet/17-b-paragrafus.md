@@ -1,3 +1,3 @@
-## 17/A. §[^68]
+## 17/A. §[^69]
 
-[^68]: A 17/A. §-t a 37/2010. (V. 14.) IRM rendelet 2. § (4) bekezdése iktatta be, hatályon kívül helyezte a 25/2015. (IX. 25.) IM rendelet 7. § b) pontja.
+[^69]: A 17/A. §-t a 37/2010. (V. 14.) IRM rendelet 2. § (4) bekezdése iktatta be, hatályon kívül helyezte a 25/2015. (IX. 25.) IM rendelet 7. § b) pontja.
