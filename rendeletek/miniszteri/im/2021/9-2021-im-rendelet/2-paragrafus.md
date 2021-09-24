@@ -1,3 +1,5 @@
-## 1. § Hatályát veszti a jogi szakvizsgáról szóló 5/1991. (IV. 4.) IM rendelet 16/A. § (11) bekezdése.
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
