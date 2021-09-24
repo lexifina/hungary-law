@@ -1,0 +1,84 @@
+# A Kormány 1657/2021. (IX. 24.) Korm. határozata
+
+Magyar Közlöny 2021. évi 175. szám, 2021. szeptember 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/h7b8gJNgDz5rHD6tGoyZ6144cc632e50d/dokumentumok/ac51a3fede401a36c6a1b656b284a01c5af4465a/letoltes)
+
+---
+
+A Kormány 1657/2021. (IX. 24.) Korm. határozata
+a Magyar Műszaki és Közlekedési Múzeum új központi kiállítóhelye előkészítéséhez és a megvalósításához
+szükséges kormányzati intézkedésekről
+A Kormány a Magyar Műszaki és Közlekedési Múzeum elhelyezése érdekében szükséges intézkedésekről szóló 2011/2017.
+(XII. 22.) Korm. határozat 1. pontjában foglaltak megvalósítása és a Magyar Műszaki és Közlekedési Múzeum új központi
+kiállítóhelye előkészítésének további támogatásáról, valamint az átmeneti működéséhez szükséges többletforrás biztosításáról
+szóló 1198/2020. (V. 6.) Korm. határozat [a továbbiakban: 1198/2020. (V. 6.) Korm. határozat] 13. pont b) alpontja végrehajtása
+érdekében, figyelemmel az 1198/2020. (V. 6.) Korm. határozatban foglaltakra,
+1. egyetért azzal, hogy a Magyar Műszaki és Közlekedési Múzeum (a továbbiakban: Múzeum) egykori Északi
+Járműjavító Diesel-csarnokot és a Törekvés Művelődési Központ épületét is magában foglaló új telephelye és köztéri
+kapcsolatrendszere kialakításának (a továbbiakban: Beruházás)
+a) az ingatlan-nyilvántartás szerinti Budapest X. kerület, belterület 38920/12 helyrajzi számú ingatlanon
+(a továbbiakban: Ingatlan) történő előkészítésére,
+b) az ingatlan-nyilvántartás szerinti Budapest X. kerület, belterület 38920/3 helyrajzi számú ingatlant érintő
+lőszermentesítési munkái és az Ingatlant érintő műemlékvédelmi feladatai megvalósítására,
+c) az ingatlan-nyilvántartás szerinti Budapest X. kerület, belterület 38920/3, 38920/4, 38920/8 helyrajzi számú
+ingatlanokon, valamint a Budapest VIII. kerület, belterület 38818/28, 38818/46, 38820/5, 38818/35 helyrajzi
+számú ingatlanokon a Beruházás közlekedési kapcsolatainak kiépítését célzó fejlesztések előkészítésére
+összesen további 455 227 500 forint kerüljön biztosításra a Múzeum számára, a 2–3. pont szerinti ütemezéssel;
+2. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere kezdeményezése alapján – gondoskodjon
+a) a 2021. évben 61 030 500 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló
+2020. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím
+javára,
+b) a 2022. évben 369 184 500 forint biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló
+2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet,
+11. Közgyűjtemények cím javára;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: a felmerülés ütemében
+3. felhívja az emberi erőforrások miniszterét, hogy a pénzügyminiszter bevonásával gondoskodjon a 2023. évben
+25 012 500 forint rendelkezésre állásáról a központi költségvetés Emberi Erőforrások Minisztériuma fejezetében;
+Felelős: emberi erőforrások minisztere
+pénzügyminiszter
+Határidő: a 2023. évi központi költségvetés tervezése során
+4. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében
+eljárva, az 1. pont szerinti feladatok végrehajtása érdekében a Múzeum költségvetése terhére vállalható éven túli
+kötelezettségvállalás felső korlátját az alábbiak szerint állapítja meg:
+a) a 2022. évre 369 184 500 forint,
+b) a 2023. évre 25 012 500 forint;
+5. egyetért azzal, hogy az Ingatlan vagyonkezelési és üzemeltetési feladatai ellátása érdekében összesen
+374 000 000 forint kerüljön biztosításra a Múzeum számára, a 6–7. pont szerinti ütemezéssel;
+6. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere kezdeményezése alapján – gondoskodjon
+a 2022. évben 187 000 000 forint biztosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet,
+11. Közgyűjtemények cím javára;
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: a felmerülés ütemében
+7. felhívja az emberi erőforrások miniszterét, hogy a pénzügyminiszter bevonásával gondoskodjon a 2023. évtől
+187 000 000 forint beépülő jelleggel történő rendelkezésre állásáról a központi költségvetés XX. Emberi Erőforrások
+Minisztériuma fejezetében;
+Felelős: emberi erőforrások minisztere
+pénzügyminiszter
+Határidő: a központi költségvetés tervezése során
+
+8. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy
+a) a Beruházási Ügynökség útján
+aa) az Ingatlanon elhelyezkedő nem használható épületek és infrastruktúra-elemek bontásának,
+az Ingatlan területe közműépítésének, kármentesítésének és az ehhez kapcsolódó munkálatoknak,
+ab) az egykori mozdonymérlegház, hidegháborús óvóhely, vasúti földszintes épület, valamint vasúti
+raktárépület felújítása és a kapcsolódó környezetrendezés, valamint
+ac) a Beruházás közlekedési kapcsolatai és az ingatlan-nyilvántartás szerinti Budapest X. kerület,
+belterület 38920/3 helyrajzi számú ingatlanon létesítendő parkoló fejlesztése
+megvalósítását célzó kivitelezési dokumentáció elkészítését követően intézkedjen a megvalósításra irányuló
+feltételes közbeszerzési eljárás lefolytatása iránt,
+b) a lefolytatott feltételes közbeszerzési eljárás eredménye alapján, az emberi erőforrások minisztere
+bevonásával készítsen előterjesztést a Kormány részére az a) alpont szerinti projektelemek megvalósításáról,
+a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával.
+Felelős: az a) alpont tekintetében a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+a b) alpont tekintetében a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, az emberi
+erőforrások minisztere bevonásával
+Határidő: az a) alpont tekintetében a kivitelezési dokumentáció elkészítését követően azonnal
+a b) alpont tekintetében a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást
+követően azonnal, de legkésőbb 2022. június 30-ig;
+9. egyetért azzal, hogy az ingatlan-nyilvántartás szerinti Budapest X. kerület, belterület 38920/3, 38920/4 és a 38920/8
+helyrajzi számú ingatlanokat érintő tervezési feladatokat a Múzeum az érintett intézményekkel együttműködve
+lássa el.
+ Orbán Viktor s. k.,
+ miniszterelnök
