@@ -1,6 +1,6 @@
-## 10/A. [^19] A sportakadémiai módszertani központ
+## 10/A. [^23] A sportakadémiai módszertani központ
 
-15/A. § (1)[^20] Az e rendeletben meghatározott feladatok hatékony ellátása érdekében a labdarúgás, a kézilabda és a kosárlabda sportágban az adott sportághoz kapcsolódó sportakadémiák tevékenységét segítő, azok eredményességének előmozdítása érdekében szolgáltatást nyújtó sporttudományi oktató- és kutatóközpontként sportakadémiai módszertani központ működik (a továbbiakban: módszertani központ).
+15/A. § (1)[^24] Az e rendeletben meghatározott feladatok hatékony ellátása érdekében a 2. § (1) bekezdésében meghatározott sportágakban az adott sportághoz kapcsolódó sportakadémiák és a kiemelt régiós alközpontok tevékenységét segítő, azok eredményességének előmozdítása érdekében szolgáltatást nyújtó sporttudományi oktató- és kutatóközpontként sportakadémiai módszertani központ működik (a továbbiakban: módszertani központ).
 
 (2) A módszertani központ működésének célja, hogy a sportakadémiák részére nyújtott szolgáltatás eredményeként a sportakadémián a tehetséggondozás, a sportolói elitképzés és a nevelés a lehető legmagasabb sportszakmai színvonalon valósuljon meg. A módszertani központ hatósági hatáskörrel és irányítási jogkörrel a sportakadémiák vonatkozásában nem rendelkezik.
 
@@ -16,17 +16,21 @@ c) sportanalitikai, diagnosztikai bázisként az infrastrukturális lehetősége
 
 d) kiterjedt sportági nemzetközi kapcsolatrendszerrel rendelkezik.
 
-(5)[^21] A miniszter a (3) és (4) bekezdésben meghatározott feltételeknek megfelelő, a 15/B. §-ban foglalt feladatok ellátását vállaló szervezetek, illetve sportakadémiai szervezeti egységek közül javaslatot tesz a Kormánynak egy-egy módszertani központ kijelölésére a labdarúgás, a kézilabda és a kosárlabda sportágban.
+(5)[^25] A (3) és (4) bekezdésben meghatározott feltételeknek megfelelő, a 15/B. §-ban foglalt feladatok ellátását vállaló szervezetek, illetve sportakadémiai szervezeti egységek közül
 
-(6)[^22] A Kormány az 1. mellékletben jelöli ki a módszertani központokat.
+a) a Tao. tv. szerinti látvány-csapatsportágban a miniszter javaslatot tesz a Kormánynak egy-egy módszertani központ kijelölésére,
 
-(7)[^23] A miniszter a kijelölt módszertani központokkal – sportakadémia nem önálló jogi személy szervezeti egysége esetén a sportakadémiával – a feladatok ellátására legfeljebb 4 évre szóló keretmegállapodást köt.
+b) a kiemelt sportágban a sportakadémia egyben a sportágspecifikus módszertani központ feladatait is ellátja.
 
-(8)[^24] Ha a módszertani központként kijelölt szervezet a (3) és (4) bekezdésben meghatározott feltételeknek nem felel meg, vagy a keretmegállapodásban rögzített, a 15/B. §-ban foglalt feladatokat nem látja el, a miniszter a Kormánynál kezdeményezi a kijelölés megszüntetését.
+(6)[^26] A Kormány az 1. mellékletben jelöli ki a módszertani központokat.
 
-[^19]: A 10/A. alcímet (15/A–15/B. §) a 457/2020. (X. 20.) Korm. rendelet 3. §-a iktatta be.
-[^20]: A 15/A. § (1) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^21]: A 15/A. § (5) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^22]: A 15/A. § (6) bekezdését a 704/2020. (XII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^23]: A 15/A. § (7) bekezdését a 704/2020. (XII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^24]: A 15/A. § (8) bekezdését a 704/2020. (XII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+(7)[^27] A miniszter a kijelölt módszertani központokkal – sportakadémia nem önálló jogi személy szervezeti egysége esetén a sportakadémiával – a feladatok ellátására legfeljebb 4 évre szóló keretmegállapodást köt.
+
+(8)[^28] Ha a módszertani központként kijelölt szervezet a (3) és (4) bekezdésben meghatározott feltételeknek nem felel meg, vagy a keretmegállapodásban rögzített, a 15/B. §-ban foglalt feladatokat nem látja el, a miniszter a Kormánynál kezdeményezi a kijelölés megszüntetését.
+
+[^23]: A 10/A. alcímet (15/A–15/B. §) a 457/2020. (X. 20.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 15/A. § (1) bekezdése az 545/2021. (IX. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^25]: A 15/A. § (5) bekezdése az 545/2021. (IX. 24.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^26]: A 15/A. § (6) bekezdését a 704/2020. (XII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^27]: A 15/A. § (7) bekezdését a 704/2020. (XII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^28]: A 15/A. § (8) bekezdését a 704/2020. (XII. 29.) Korm. rendelet 5. § (3) bekezdése iktatta be.

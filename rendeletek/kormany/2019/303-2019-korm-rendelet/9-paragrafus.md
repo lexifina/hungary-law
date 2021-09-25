@@ -2,19 +2,21 @@
 
 ## 5. A keretmegállapodás
 
-9. § (1)[^9] A miniszter keretmegállapodást köthet azzal a sportszervezettel, amely vállalja a 3–7/B. §-ban megállapított követelmények teljesítését, feladatok ellátását és a miniszter által meghatározott sportakadémiai minőségbiztosítási rendszerben (a továbbiakban: minőségbiztosítási rendszer) foglalt követelményeknek való megfelelést.
+9. § (1)[^12] A miniszter keretmegállapodást köthet a 2. § (1) bekezdésében meghatározott sportágban működő azon sportszervezettel, amely vállalja a 3–7/A. §-ban megállapított követelmények teljesítését, feladatok ellátását és a miniszter által meghatározott sportakadémiai minőségbiztosítási rendszerben (a továbbiakban: minőségbiztosítási rendszer) foglalt követelményeknek való megfelelést.
 
-(2) A miniszter keretmegállapodást az alábbi sportágak valamelyikében működő sportszervezettel köthet:
+(2)[^13] A miniszter a Tao. tv. szerint látvány-csapatsportágnak minősülő
 
-a) kézilabda,
+a) kézilabda sportágban legfeljebb 6,
 
-b) kosárlabda,
+b) kosárlabda sportágban legfeljebb 4,
 
-c) labdarúgás.
+c) labdarúgás sportágban legfeljebb 10,
 
-d)[^10] jégkorong.
+d) jégkorong sportágban legfeljebb 4
 
-(3)[^11] A miniszter kézilabda sportágban legfeljebb 6, kosárlabda sportágban legfeljebb 4, labdarúgás sportágban legfeljebb 10, jégkorong sportágban legfeljebb 8 keretmegállapodást köthet.
+## sportakadémiával köthet keretmegállapodást.
+
+(3)[^14] A miniszter kiemelt sportáganként egy sportakadémiával köthet keretmegállapodást.
 
 (4) Az a sportszervezet, amellyel a miniszter keretmegállapodást köt, a keretmegállapodás hatályának időtartama alatt és a keretmegállapodás hatályának lejárta után a 14. § szerinti eljárás lefolytatásáig használhatja az „Államilag elismert sportakadémia” megnevezést.
 
@@ -22,6 +24,6 @@ d)[^10] jégkorong.
 
 (6) A miniszter az általa vezetett minisztérium honlapján közzéteszi a hatályos keretmegállapodással rendelkező sportszervezetek listáját.
 
-[^9]: A 9. § (1) bekezdése a 457/2020. (X. 20.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^10]: A 9. § (2) bekezdés d) pontját a 704/2020. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^11]: A 9. § (3) bekezdése a 704/2020. (XII. 29.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^12]: A 9. § (1) bekezdése az 545/2021. (IX. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: A 9. § (2) bekezdése az 545/2021. (IX. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^14]: A 9. § (3) bekezdése az 545/2021. (IX. 24.) Korm. rendelet 4. §-ával megállapított szöveg.

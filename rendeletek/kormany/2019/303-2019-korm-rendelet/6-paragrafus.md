@@ -14,6 +14,6 @@ d) egészségügyi intézménnyel.
 
 (3) A sportakadémia együttműködést alakíthat ki a sportágban működő más hazai és nemzetközi sportakadémiával vagy utánpótlás-nevelést végző sportszervezettel.
 
-(4)[^3] A sportakadémia az e rendeletben meghatározottak szerint együttműködik a 15/A. § szerinti sportakadémiai módszertani központtal.
+(4)[^6] A sportakadémia az e rendeletben meghatározottak szerint együttműködik a 15/A. § szerinti sportakadémiai módszertani központtal.
 
-[^3]: A 6. § (4) bekezdését a 457/2020. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 6. § (4) bekezdését a 457/2020. (X. 20.) Korm. rendelet 1. §-a iktatta be.
