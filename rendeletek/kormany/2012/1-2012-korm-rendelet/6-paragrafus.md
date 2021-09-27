@@ -18,14 +18,14 @@ c) a hallgatói hitelrendszer működési költségét és egyéb, bevételekkel
 
 (6) A Diákhitel szervezet a (4)–(5) bekezdésben foglalt felülvizsgálatok eredményeként a hallgatói hitelek kamatát a jövőre nézve megváltoztathatja, azonban a kamatmértéken belül a kockázati prémium és a működési költséget fedező prémium együttes összegét 4,5%-nál magasabbra nem növelheti.
 
-(7)[^33]
+(7)[^34]
 
 (8) A kamatszámítás kezdő napja a hallgatói hitelszerződés alapján történő hitel folyósításának első napja.
 
-(9)[^34] A tárgyévben meg nem fizetett kamat tőkésítésére – a (10) bekezdésben foglalt kivétellel – évente december 31-ei értéknappal kerül sor. A tőkésítésre kerülő kamatösszeg számítása napi kamatszámítással történik. A napi kamat az adott napon fennálló, a befizetésekkel módosított tőketartozás állományra számított egy napra vetített kamat összegével azonos.
+(9)[^35] A tárgyévben meg nem fizetett kamat tőkésítésére – a (10) bekezdésben foglalt kivétellel – évente december 31-ei értéknappal kerül sor. A tőkésítésre kerülő kamatösszeg számítása napi kamatszámítással történik. A napi kamat az adott napon fennálló, a befizetésekkel módosított tőketartozás állományra számított egy napra vetített kamat összegével azonos.
 
-(10)[^35] A 29/A. §-ban meghatározott hallgatói hitel esetében a kamat tőkésítésére nem kerül sor.
+(10)[^36] A 29/A. §-ban meghatározott hallgatói hitel esetében a kamat tőkésítésére nem kerül sor.
 
-[^33]: A 6. § (7) bekezdését a 290/2017. (IX. 28.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
-[^34]: A 6. § (9) bekezdése a 156/2021. (III. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^35]: A 6. § (10) bekezdését a 156/2021. (III. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^34]: A 6. § (7) bekezdését a 290/2017. (IX. 28.) Korm. rendelet 9. § (1) bekezdése hatályon kívül helyezte.
+[^35]: A 6. § (9) bekezdése a 156/2021. (III. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^36]: A 6. § (10) bekezdését a 156/2021. (III. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -1,5 +1,5 @@
-16/B. §[^75] (1) Ha a hitelfelvevő nő élt a 16/A. §-ban meghatározott szüneteltetés lehetőségével, de a várandósság 24. betöltött hetét megelőzően a várandósság megszakadt vagy megszakították, a szülés orvosi igazolásban meghatározott várható időpontjától folytatnia kell a hallgatói hitel törlesztését. A várandósság megszakadását vagy megszakítását a Diákhitel szervezet részére be kell jelenteni.
+16/B. §[^76] (1) Ha a hitelfelvevő nő élt a 16/A. §-ban meghatározott szüneteltetés lehetőségével, de a várandósság 24. betöltött hetét megelőzően a várandósság megszakadt vagy megszakították, a szülés orvosi igazolásban meghatározott várható időpontjától folytatnia kell a hallgatói hitel törlesztését. A várandósság megszakadását vagy megszakítását a Diákhitel szervezet részére be kell jelenteni.
 
 (2) Ha a Diákhitel szervezet a gyermek megszületéséről a szülés orvosi igazolásban meghatározott várható időpontját követő második hónap végéig a 16/A. § (4) bekezdésben rögzített módok valamelyike szerint nem értesül, akkor felszólítja a hitelfelvevő nőt a gyermeket érintő megfelelő dokumentum egy hónapon belül történő pótlására vagy a törlesztés folytatására, és tájékoztatja a szülés orvosi igazolásban meghatározott várható időpontjától esedékessé vált és meg nem fizetett hallgatói hiteltartozás ügyleti kamattal és késedelmi kamattal növelt összegéről, továbbá a tárgyévre előírt törlesztő részlet összegéről.
 
-[^75]: A 16/B. §-t a 291/2017. (X. 3.) Korm. rendelet 3. §-a iktatta be.
+[^76]: A 16/B. §-t a 291/2017. (X. 3.) Korm. rendelet 3. §-a iktatta be.

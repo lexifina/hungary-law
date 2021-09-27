@@ -4,9 +4,9 @@
 
 (2) 2012. szeptember 1-jén lép hatályba az 1–4. §, az 5. § (1) és (3)–(5) bekezdés, a 6–10. §, a 11. § (1) bekezdés, 12–29. §; 30. § (3)–(4) bekezdés, valamint a 31–35. §.
 
-(3)[^124]
+(3)[^125]
 
-(4)[^125]
+(4)[^126]
 
-[^124]: A 30. § (3) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 26. § d) pontja hatályon kívül helyezte.
-[^125]: A 30. § (4) bekezdését a 156/2021. (III. 29.) Korm. rendelet 13. § g) pontja hatályon kívül helyezte.
+[^125]: A 30. § (3) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 26. § d) pontja hatályon kívül helyezte.
+[^126]: A 30. § (4) bekezdését a 156/2021. (III. 29.) Korm. rendelet 13. § g) pontja hatályon kívül helyezte.
