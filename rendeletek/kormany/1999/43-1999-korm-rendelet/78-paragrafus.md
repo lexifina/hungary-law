@@ -1,3 +1,3 @@
-## 77/A. §[^591] E rendeletnek az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 277/2021. (V. 26.) Korm. rendelettel (a továbbiakban: Módr.12.) megállapított 20/A. §-a szerinti iskolaorvosi bértámogatásra az érintett egészségügyi szolgáltatók – a 20/A. § (1) bekezdésében foglaltakra figyelemmel – először a 2021. január havi munkabérek kifizetéséhez igényelt, a tárgyhót követő hónap 5. napjáig utalandó bértámogatásra jogosult azzal, hogy azt a NEAK 2021 júniusától utalványozza.
+## 77/B. §[^595] E rendeletnek az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 542/2021. (IX. 24.) Korm. rendelettel megállapított 26/B. § (1)–(3) bekezdésében és 29/B. § (1)–(6) bekezdésében foglaltakat a 2021. szeptember 1-jét követően a Kiemelt várólista csökkentési program keretében elvégzett ellátások tekintetében kell alkalmazni.
 
-[^591]: A 77/A. §-t a 277/2021. V. 26.) Korm. rendelet 15. §-a iktatta be.
+[^595]: A 77/B. §-t az 542/2021. (IX. 24.) Korm. rendelet 3. §-a iktatta be.

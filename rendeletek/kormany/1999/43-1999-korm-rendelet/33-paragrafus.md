@@ -1,10 +1,10 @@
-## Betegszállítás[^364]
+## Betegszállítás[^367]
 
-33. §[^365] (1) A betegszállítás finanszírozása a Vhr.-ben meghatározottak szerint kötött szerződés alapján, az 5. számú melléklet Betegszállítás és orvosi rendelvényű halottszállítás kiadási előirányzata terhére történik. A betegszállítás finanszírozására irányuló szerződésben meg kell határozni – az egészségügyért felelős miniszter és a NEAK főigazgatója által együtt kijelölt szakértői bizottság javaslata alapján – a területi ellátási kötelezettséget, illetve a folyamatos ellátás biztosítását. A betegszállító szolgáltatók saját maguk vagy megbízottjuk útján napi 24, heti 168 órában kötelesek a biztosítottak számára rendelkezésre állni.
+33. §[^368] (1) A betegszállítás finanszírozása a Vhr.-ben meghatározottak szerint kötött szerződés alapján, az 5. számú melléklet Betegszállítás és orvosi rendelvényű halottszállítás kiadási előirányzata terhére történik. A betegszállítás finanszírozására irányuló szerződésben meg kell határozni – az egészségügyért felelős miniszter és a NEAK főigazgatója által együtt kijelölt szakértői bizottság javaslata alapján – a területi ellátási kötelezettséget, illetve a folyamatos ellátás biztosítását. A betegszállító szolgáltatók saját maguk vagy megbízottjuk útján napi 24, heti 168 órában kötelesek a biztosítottak számára rendelkezésre állni.
 
 (2) A finanszírozást igénylő szolgáltatók erre irányuló igényüket a NEAK-hoz nyújthatják be, amelyet az (1) bekezdésben megjelölt szakértői bizottság bírál el, és tesz javaslatot új szolgáltatók, illetve új kapacitások bevonására, valamint a meglévő kapacitások módosítására és az ellátási területre. A bizottság javaslatát a NEAK főigazgatója hagyja jóvá és egyetértés céljából megküldi az egészségügyért felelős miniszternek.
 
-(3)[^366] A betegszállításra finanszírozási szerződés az adott évi központi költségvetési törvényben az 5. számú melléklet szerinti Betegszállítás és orvosi rendelvényű halottszállítás jogcímen rendelkezésre álló előirányzat mértékéig
+(3)[^369] A betegszállításra finanszírozási szerződés az adott évi központi költségvetési törvényben az 5. számú melléklet szerinti Betegszállítás és orvosi rendelvényű halottszállítás jogcímen rendelkezésre álló előirányzat mértékéig
 
 a) új szolgáltatóval,
 
@@ -64,6 +64,6 @@ c) ha a beteg felvételi helye és a betegszállítási utalványon megjelölt �
 
 (23) Ha a NEAK tudomására jut, hogy a szolgáltató az elszámolható teljesítményt nem a (7)–(9) bekezdésben foglaltaknak megfelelően jelentette, illetve a szállítás során a betegszállítási utalványon jelölt felvételi, vagy átadási címtől való eltérést nem tudja a betegszállításról szóló miniszteri rendeletben előírt módon igazolni, és a NEAK ellenőrzése során megállapítja, hogy a jogellenes magatartásra, a magasabb finanszírozási díj jogosulatlan megszerzése céljából került sor, a NEAK az érintett szolgáltató betegszállítási feladatok ellátására kötött finanszírozási szerződését felmondhatja.
 
-[^364]: A „Betegszállítás” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 16. §-a iktatta be.
-[^365]: A 33. § a 287/2018. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^366]: A 33. § (3) bekezdés nyitó szövegrésze a 277/2021. (V. 26.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^367]: A „Betegszállítás” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 16. §-a iktatta be.
+[^368]: A 33. § a 287/2018. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^369]: A 33. § (3) bekezdés nyitó szövegrésze a 277/2021. (V. 26.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
