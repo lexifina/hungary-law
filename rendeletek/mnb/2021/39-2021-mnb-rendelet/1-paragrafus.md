@@ -1,0 +1,3 @@
+1. § (1) A Magyar Nemzeti Bank – a 2021-ben Magyarországon megrendezésre kerülő „Egy a Természettel” Vadászati és Természeti Világkiállítás (a továbbiakban: Világkiállítás) alkalmából – „Egy a Természettel – Vadászati és Természeti Világkiállítás” megnevezéssel 2000 forintos címletű rézötvözetű emlékérmét bocsát ki.
+
+(2) A kibocsátás időpontja: 2021. szeptember 27.
