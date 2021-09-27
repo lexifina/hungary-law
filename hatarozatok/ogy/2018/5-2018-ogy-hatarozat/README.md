@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-5-30-41
 | 2020-09-21 | 2018-5-30-41.33 | 28/2020. (IX. 22.) OGY határozat |
 | 2020-11-02 | 2018-5-30-41.34 | 31/2020. (XI. 2.) OGY határozat |
 | 2021-09-20 | 2018-5-30-41.35 | 18/2021. (IX. 21.) OGY határozat |
+| 2021-09-27 | 2018-5-30-41.36 | 23/2021. (IX. 28.) OGY határozat |
