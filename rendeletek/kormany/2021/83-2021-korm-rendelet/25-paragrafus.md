@@ -1,4 +1,4 @@
-## 24. §[^62] Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 395/2021. (VII. 2.) Korm. rendelettel (a továbbiakban: Módr16.) megállapított 1. § (2a), (3), (6) és (7) bekezdését, 3. § (3) és (5) bekezdését, 7/N. §-át, 1. mellékletét és a 2. mellékletben foglalt táblázat 22. és 23. sorát a Módr16. hatálybalépésekor[^63] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 24. §[^63] Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 395/2021. (VII. 2.) Korm. rendelettel (a továbbiakban: Módr16.) megállapított 1. § (2a), (3), (6) és (7) bekezdését, 3. § (3) és (5) bekezdését, 7/N. §-át, 1. mellékletét és a 2. mellékletben foglalt táblázat 22. és 23. sorát a Módr16. hatálybalépésekor[^64] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^62]: A 24. §-t a 395/2021. (VII. 2.) Korm. rendelet 4. §-a iktatta be.
-[^63]: A hatálybalépés időpontja 2021. július 4.
+[^63]: A 24. §-t a 395/2021. (VII. 2.) Korm. rendelet 4. §-a iktatta be.
+[^64]: A hatálybalépés időpontja 2021. július 4.
