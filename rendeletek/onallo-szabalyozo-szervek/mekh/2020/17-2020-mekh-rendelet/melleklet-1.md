@@ -2,4 +2,4 @@
 
 1. melléklet a 17/2020. (XII. 21.) MEKH rendelethez[^12]
 
-[^12]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 11/2021. (IX. 20.) MEKH rendelet 4. §-a iktatta be.

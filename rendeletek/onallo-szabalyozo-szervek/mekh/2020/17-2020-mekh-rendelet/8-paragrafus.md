@@ -1,3 +1,3 @@
-## 7. §[^9]
+8. §[^10]
 
-[^9]: A 7. §-t az 5/2021. (V. 12.) MEKH rendelet 5. § c) pontja hatályon kívül helyezte.
+[^10]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
