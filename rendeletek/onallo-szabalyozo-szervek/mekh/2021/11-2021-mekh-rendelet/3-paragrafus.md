@@ -1,0 +1,1 @@
+## 2. § A végfelhasználási energiamegtakarítással kapcsolatos adatszolgáltatásról szóló 17/2020. (XII. 21.) MEKH rendelet (a továbbiakban: R.) 1. § (1) bekezdésében az „EKR adatgyűjtő rendszere” szövegrész helyébe az „energiahatékonysági kötelezettségi rendszer működését támogató adatgyűjtő rendszere (a továbbiakban: EKR adatgyűjtő rendszer)” szöveg lép.

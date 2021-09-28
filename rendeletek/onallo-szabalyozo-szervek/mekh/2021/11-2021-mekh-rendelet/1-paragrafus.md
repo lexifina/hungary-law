@@ -1,0 +1,1 @@
+## 1. Az energetikai auditorok és az energetikai auditáló szervezetek adatszolgáltatásáról, valamint a közreműködő szervezetek éves jelentéstételi kötelezettségéről szóló 1/2017. (II. 16.) MEKH rendelet módosítása
