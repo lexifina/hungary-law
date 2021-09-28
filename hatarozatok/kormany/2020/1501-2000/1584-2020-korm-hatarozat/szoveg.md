@@ -6,7 +6,7 @@ a) Budapest Főváros Önkormányzata, valamint Budapest Főváros III. Kerület
 
 b) az utánpótlás-nevelés fontosságát és társadalmi értékét szem előtt tartva továbbra is elkötelezett a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia létrehozása iránt, az érintett önkormányzatok álláspontjára figyelemmel ugyanakkor a létesítmény a fővárosban nem tud megvalósulni;
 
-2. egyetért a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia Velencei-tónál történő létrehozására irányuló beruházás (a továbbiakban: Beruházás) részére bemutatott koncepció szerinti előkészítésével, az ingatlan-nyilvántartás szerinti, Sukoró külterület 019/1, 019/16 és 019/17 helyrajzi számú, valamint Velence belterület 4514, 4515 és 4516 helyrajzi számú ingatlanokon (a továbbiakban együtt: Ingatlanok);
+2.[^1] egyetért a Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia Velencei-tónál történő létrehozására irányuló beruházás (a továbbiakban: Beruházás) részére bemutatott koncepció szerinti előkészítésével, az ingatlan-nyilvántartás szerinti, Sukoró külterület 019/1, 019/16, 019/17 és 019/18 helyrajzi számú, valamint Velence belterület 4514, 4515 és 4516 helyrajzi számú ingatlanokon (a továbbiakban együtt: Ingatlanok);
 
 3. a Beruházás előkészítésének kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki, az emberi erőforrások minisztere bevonásával;
 
@@ -78,6 +78,7 @@ emberi erőforrások minisztere
 
 Határidő: a feltételes közbeszerzési eljárást követő 60 napon belül
 
-16.[^1]
+16.[^2]
 
-[^1]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1671/2021. (IX. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
