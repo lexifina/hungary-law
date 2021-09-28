@@ -1,0 +1,1 @@
+A Kormány a területi gyermekvédelmi szakszolgálatok örökbefogadással kapcsolatos tevékenységeinek megerősítése érdekében
