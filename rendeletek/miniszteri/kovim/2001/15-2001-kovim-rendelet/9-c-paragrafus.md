@@ -1,0 +1,12 @@
+## 9/C. §[^65] Kedvtelési céllal közlekedő kishajó vezetéséhez az ENSZ Európai Gazdasági Bizottsága Belvízi Közlekedési Munkacsoportja 40. számú határozatában foglaltaknak megfelelően külföldön kibocsátott nemzetközi kedvtelési célú hajóvezetői bizonyítvány az abban foglalt korlátozások figyelembevételével akkor fogadható el, ha a bizonyítvány tulajdonosa igazolja, hogy érvényes egészségi alkalmasságról szóló orvosi igazolással rendelkezik, továbbá
+
+a) a bizonyítványt kiállító állam állampolgára,
+
+b) valamelyik észak-amerikai állam állampolgára,
+
+c)[^66] olyan állam állampolgára, amely tagja az ENSZ Európai Gazdasági Bizottságának, és a bizonyítványt kiállító államban lakóhellyel rendelkezik, vagy
+
+d) olyan állam állampolgára, amely nem tagja az ENSZ Európai Gazdasági Bizottságának.
+
+[^65]: A 9/C. §-t a 46/2021. (IX. 13.) ITM rendelet 10. §-a iktatta be.
+[^66]: A 9/C. § c) pontjának „és a bizonyítványt kiállító államban lakóhellyel rendelkezik” szövegrész alaptörvény-ellenességét a 14/2022. (VII. 7.) AB határozat 2. pontja megállapította.

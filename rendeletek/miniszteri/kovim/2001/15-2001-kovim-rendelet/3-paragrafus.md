@@ -14,7 +14,10 @@
 
 (6)[^23] A belvízi hivatásos és szolgálati célú képesítések megszerzéséhez érvényes hajós szolgálati könyvvel, a tengeri hivatásos képesítések megszerzéséhez érvényes tengerész szolgálati könyvvel kell rendelkezni.
 
+(7)[^24] Katasztrófavédelmi beavatkozás során, katasztrófaveszély vagy veszélyhelyzet idején a hivatásos katasztrófavédelmi szerv hivatásos állománya tagjának, az önkormányzati és létesítményi tűzoltóság állománya tagjának és az önkéntes tűzoltó egyesület szaktevékenységet ellátó tagjának hajóvezetői jogosultsága a hajózási képesítő okmányban meghatározott vízterületektől eltérő területre is érvényes, amely kiterjed a beavatkozás helyszínétől a visszaútra is.
+
 [^20]: A 3. § (1a) bekezdését a 13/2020. (V. 8.) ITM rendelet 3. §-a iktatta be.
 [^21]: A 3. § (2) bekezdése a 3/2008. (VI. 3.) KHEM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^22]: A 3. § (5) bekezdése a 15/2021. (IV. 9.) ITM rendelet 4. §-ával megállapított szöveg.
 [^23]: A 3. § (6) bekezdését a 29/2014. (V. 5.) NFM rendelet 14. §-a iktatta be.
+[^24]: A 3. § (7) bekezdését a 46/2021. (IX. 13.) ITM rendelet 3. §-a iktatta be.

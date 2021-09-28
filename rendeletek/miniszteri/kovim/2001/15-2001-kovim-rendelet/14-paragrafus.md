@@ -1,22 +1,25 @@
-## Az Európai Unió jogának való megfelelés[^100]
+## Az Európai Unió jogának való megfelelés[^99]
 
-## 14. §[^101] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+## 14. §[^100] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 96/50/EK irányelve (1996. július 23.) a Közösségen belüli belvízi árufuvarozásra és személyszállításra vonatkozó nemzeti hajóvezetői bizonyítvány megszerzési feltételeinek összehangolásáról [a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelettel együtt],
 
 b) a Tanács 91/672/EGK irányelve (1991. december 16.) a belvízi áru- és személyszállításra vonatkozó nemzeti hajóvezetői bizonyítványok kölcsönös elismeréséről,
 
-c)[^102] a tengerészek képzésének minimumszintjéről szóló, 2008. november 19-i 2008/106/EK európai parlamenti és tanácsi irányelv [a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi módosításaival egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2012. évi XIX. törvénnyel és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelettel együtt],
+c)[^101] a tengerészek képzésének minimumszintjéről szóló, 2008. november 19-i 2008/106/EK európai parlamenti és tanácsi irányelv [a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi módosításaival egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2012. évi XIX. törvénnyel és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelettel együtt],
 
-d)[^103] a tengerészek képzésének minimumszintjéről szóló, 2008/106/EK irányelv módosításáról szóló 2012. november 21-i 2012/35/EU európai parlamenti és a tanácsi irányelv [a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi módosításaival egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2012. évi XIX. törvénnyel és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelettel együtt].
+d)[^102] a tengerészek képzésének minimumszintjéről szóló, 2008/106/EK irányelv módosításáról szóló 2012. november 21-i 2012/35/EU európai parlamenti és a tanácsi irányelv [a tengerészek képzéséről, képesítéséről és az őrszolgálat ellátásáról szóló 1978. évi nemzetközi egyezmény 2010. évi módosításaival egységes szerkezetbe foglalt szövegének kihirdetéséről szóló 2012. évi XIX. törvénnyel és a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelettel együtt].
 
-e)[^104] a tengerészek képzésének minimumszintjéről szóló 2001/25/EK irányelv módosításáról szóló, 2005. szeptember 7-i 2005/45/EK európai parlamenti és a tanácsi irányelv, 2. cikk i) pont; 3. cikk (1) bekezdés; és az 5. cikk (1) bekezdés,
+e)[^103]
 
-f)[^105] az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi irányelv.
+f)[^104] az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi irányelv.
 
-[^100]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
-[^101]: A 14. § a 74/2005. (IX. 28.) GKM rendelet 5. §-ával megállapított szöveg.
-[^102]: A 14. § c) pontja a 23/2015. (V. 8.) NFM rendelet 4. §-ával megállapított szöveg.
-[^103]: A 14. § d) pontja a 23/2015. (V. 8.) NFM rendelet 4. §-ával megállapított szöveg.
-[^104]: A 14. § e) pontját a 93/2006. (XII. 27.) GKM rendelet 4. §-a iktatta be, szövege a 23/2015. (V. 8.) NFM rendelet 7. § b) pontja szerint módosított szöveg.
-[^105]: A 14. § f) pontját a 66/2015. (XI. 18.) NFM rendelet 10. §-a iktatta be.
+g)[^105] a tengerészek képzésének minimumszintjéről szóló 2008/106/EK irányelv módosításáról és a tagállamok által kiállított tengerészképesítési bizonyítványok kölcsönös elismeréséről szóló 2005/45/EK irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1159 európai parlamenti és tanácsi irányelv.
+
+[^99]: A 14. §-t megelőző alcím a 9/2009. (III. 6.) KHEM rendelet 10. § (17) bekezdésének b) pontjával megállapított szöveg.
+[^100]: A 14. § a 74/2005. (IX. 28.) GKM rendelet 5. §-ával megállapított szöveg.
+[^101]: A 14. § c) pontja a 23/2015. (V. 8.) NFM rendelet 4. §-ával megállapított szöveg.
+[^102]: A 14. § d) pontja a 23/2015. (V. 8.) NFM rendelet 4. §-ával megállapított szöveg.
+[^103]: A 14. § e) pontját a 93/2006. (XII. 27.) GKM rendelet 4. §-a iktatta be, hatályon kívül helyezte a 46/2021. (IX. 13.) ITM rendelet 17. § b) pontja.
+[^104]: A 14. § f) pontját a 66/2015. (XI. 18.) NFM rendelet 10. §-a iktatta be.
+[^105]: A 14. § g) pontját a 46/2021. (IX. 13.) ITM rendelet 14. §-a iktatta be.
