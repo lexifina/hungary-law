@@ -40,13 +40,13 @@ a) a hajós szolgálati könyvbe az orvosi igazolás vagy a „Belvízi nagyhaj�
 
 b) a tengerész szolgálati könyvbe a vizsgálatot végző orvos,
 
-c) kedvtelési célú vízijármű vezetőjének nem kártyaformátumú képesítő okmányába a vizsgálatot végző orvos
+c)[^25]
 
 ## jegyzi be.
 
-(5)[^25] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
+(5)[^26] Azon személy esetében, aki még nem rendelkezik szolgálati könyvvel vagy képesítő okmánnyal, az orvosi igazolások alapján a szolgálati könyvet kiállító hajózási hatóság végzi el a bejegyzést.
 
-(6)[^26] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
+(6)[^27] A kedvtelési célú vízijármű vezetésére jogosító kártyaformátumú képesítő okmány érvényessége az egészségi alkalmassági időtartamtól függ.
 
 [^19]: A 6/C. §-t a 23/2015. (V. 8.) NFM rendelet 12. § (3) bekezdése iktatta be, hatályon kívül helyezte a 12/2021. (III. 5.) ITM rendelet 9. § b) pontja.
 [^20]: A 7. § (1) bekezdés h) pontját a 23/2015. (V. 8.) NFM rendelet 13. §-a iktatta be.
@@ -54,5 +54,6 @@ c) kedvtelési célú vízijármű vezetőjének nem kártyaformátumú képesí
 [^22]: A 7. § (3) bekezdés b) pontja a 29/2014. (V. 5.) NFM rendelet 21. § a) pontja szerint módosított szöveg.
 [^23]: A 7. § (3) bekezdés c) pontja a 29/2014. (V. 5.) NFM rendelet 21. § b) pontja, a 23/2015. (V. 8.) NFM rendelet 17. § a) pontja szerint módosított szöveg.
 [^24]: A 7. § (4) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^25]: A 7. § (5) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^26]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.
+[^25]: A 7. § (4) bekezdés c) pontját a 46/2021. (IX. 13.) ITM rendelet 18. §-a hatályon kívül helyezte.
+[^26]: A 7. § (5) bekezdése a 94/2011. (XII. 30.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^27]: A 7. § (6) bekezdését a 94/2011. (XII. 30.) NFM rendelet 13. § (2) bekezdése iktatta be.

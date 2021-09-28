@@ -18,7 +18,7 @@
 
 ## A hajó típusa: személyszállító, teherszállító
 
-## 2. A munkaköri alkalmasság vizsgálata:[^39]
+## 2. A munkaköri alkalmasság vizsgálata:[^40]
 
 ## _ előzetes _ időszakos _ soron kívüli _ záró
 
@@ -268,4 +268,4 @@ Tanú neve: ................................................................. Ta
 
 (A név gépírással vagy nyomtatott betűvel.)
 
-[^39]: Alkalmassági vizsgálatonként (előzetes, időszakos, soron kívüli) külön lap töltendő ki.
+[^40]: Alkalmassági vizsgálatonként (előzetes, időszakos, soron kívüli) külön lap töltendő ki.

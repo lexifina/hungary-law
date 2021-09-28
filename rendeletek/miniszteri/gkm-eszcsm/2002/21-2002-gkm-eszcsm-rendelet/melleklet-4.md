@@ -52,6 +52,6 @@
 
 4. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
-együttes rendelethez[^36]
+együttes rendelethez[^37]
 
-[^36]: A 4. számú melléklet a 94/2011. (XII. 30.) NFM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^37]: A 4. számú melléklet a 94/2011. (XII. 30.) NFM rendelet 15. § (2) bekezdésével megállapított szöveg.

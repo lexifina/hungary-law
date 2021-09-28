@@ -74,6 +74,6 @@
 
 6. számú melléklet a 21/2002. (XI. 8.) GKM–ESZCSM
 
-együttes rendelethez[^38]
+együttes rendelethez[^39]
 
-[^38]: A 6. számú melléklet a 23/2015. (V. 8.) NFM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^39]: A 6. számú melléklet a 23/2015. (V. 8.) NFM rendelet 16. § (4) bekezdésével megállapított szöveg.
