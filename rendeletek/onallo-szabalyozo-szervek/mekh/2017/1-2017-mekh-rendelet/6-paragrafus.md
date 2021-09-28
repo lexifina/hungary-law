@@ -1,4 +1,4 @@
-## 5. §[^9] A közreműködő szervezet az éves tevékenységéről szóló jelentést (a továbbiakban: jelentés) az adatszolgáltatással érintett évet követő év január 31-ig a Hivatal Központi Adatbekérő Rendszerén keresztül nyújtja be elektronikusan.
+## 5. §[^12] A közreműködő szervezet az éves tevékenységéről szóló jelentést (a továbbiakban: jelentés) az adatszolgáltatással érintett évet követő év január 31-ig a Hivatal Központi Adatbekérő Rendszerén keresztül nyújtja be elektronikusan.
 
 ## 6. § A jelentés tartalmazza
 
@@ -16,4 +16,4 @@ f) a résztvevők név szerinti feltüntetését oly módon, hogy a szakmai vizs
 
 g) a megújító szakmai vizsgán és a továbbképzésen részt vevők név szerinti feltüntetését oly módon, hogy a vizsgán energetikai auditorként vagy energetikai szakreferensként vettek részt.
 
-[^9]: Az 5. § a 10/2017. (VIII. 10.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^12]: Az 5. § a 10/2017. (VIII. 10.) MEKH rendelet 2. §-ával megállapított szöveg.

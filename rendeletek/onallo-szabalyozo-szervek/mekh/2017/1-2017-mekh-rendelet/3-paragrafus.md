@@ -46,11 +46,11 @@ g)[^5] az auditált műszaki rendszer energiafelhasználásáról és az energia
 
 ga) az épület, tevékenység és szállítás területeire vonatkozóan (a továbbiakban: részterületek) az auditált műszaki rendszer éves energiafelhasználásának mennyisége energiahordozónként a mért mértékegységekben és a teljes energiafelhasználás kWh/év mértékegységben is megadva,
 
-gb) részterületenként az auditált műszaki rendszer működésével összefüggésben felmerült teljes éves üvegházhatású gázkibocsátás az előző naptári évről ezer tonna CO2/év mértékegységben megadva,
+gb)[^6]
 
 gc) részterületenként az auditált műszaki rendszer működésével összefüggésben felmerült teljes éves energiafelhasználás költsége az előző naptári évről ezer Ft/év mértékegységben megadva;
 
-h)[^6] az auditált műszaki rendszerrel kapcsolatban javasolt energiahatékonysági beavatkozásokról az alábbi adatok:
+h)[^7] az auditált műszaki rendszerrel kapcsolatban javasolt energiahatékonysági beavatkozásokról az alábbi adatok:
 
 ha) az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 13. § (6) bekezdésében meghatározott egyes beavatkozási módokkal elérhető energiamegtakarítás mértéke és az összes elérhető energiamegtakarítás mértéke kWh/év mértékegységben megadva,
 
@@ -60,7 +60,7 @@ hc) a javasolt intézkedés részterület szerinti azonosítása (épület, foly
 
 hd) a javasolt energiahatékonyságot növelő intézkedés megvalósításával elérhető energiamegtakarítás mértéke energiahordozónként a mért mértékegységekben és kWh/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
-he) a javasolt energiahatékonysági intézkedésekkel összefüggésben elérhető üvegházhatású gázkibocsátás-megtakarítás mértéke ezer tonna CO2/év mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
+he)[^8]
 
 hf) a javasolt energiahatékonysági intézkedések becsült költsége ezer Ft mértékegységben intézkedésenként és valamennyi intézkedésre nézve összesítetten megadva,
 
@@ -72,7 +72,7 @@ hi) a javasolt energiahatékonyságot növelő egyes intézkedések megtérülé
 
 hj) a javasolt energiahatékonyságot növelő egyes intézkedések megvalósítása esetén létrejövő műszaki rendszer tervezett műszaki élettartama.
 
-i)[^7] az energiahatékonysági adókedvezmény igénybevétele, valamint az energiamegtakarítási kötelezettség teljesítéseként elszámolni kívánt energiamegtakarítás mértékének megállapítása céljából készített energetikai audit esetén az üzembe helyezett beruházásról az alábbi adatok:
+i)[^9] az energiahatékonysági adókedvezmény igénybevétele, valamint az energiamegtakarítási kötelezettség teljesítéseként elszámolni kívánt energiamegtakarítás mértékének megállapítása céljából készített energetikai audit esetén az üzembe helyezett beruházásról az alábbi adatok:
 
 ia) az energiahatékonysági célt szolgáló beruházás megnevezése, leírása,
 
@@ -80,7 +80,7 @@ ib) az energiahatékonysági célt szolgáló beruházás részterület szerinti
 
 ic) az energiahatékonysági célt szolgáló beruházás üzembe helyezésével elért energiamegtakarítás mértéke energiahordozónként a mért mértékegységekben és kWh/év mértékegységben megadva,
 
-id) az energiahatékonysági célt szolgáló beruházás üzembe helyezésével elért üvegházhatású gázkibocsátás-megtakarítás mértéke ezer tonna CO2/év mértékegységben megadva,
+id)[^10]
 
 ie) az energiahatékonysági célt szolgáló beruházás költsége ezer Ft mértékegységben megadva,
 
@@ -99,5 +99,8 @@ ii) az energiahatékonysági célt szolgáló beruházással létrejött műszak
 [^3]: A 3. § (2) bekezdés e) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
 [^4]: A 3. § (2) bekezdés f) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
 [^5]: A 3. § (2) bekezdés g) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított, nyitó szövegrésze a 17/2020. (XII. 21.) MEKH rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 3. § (2) bekezdés h) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
-[^7]: A 3. § (2) bekezdés i) pontját a 10/2017. (VIII. 10.) MEKH rendelet 1. §-a iktatta be, nyitó szövegrésze a 17/2020. (XII. 21.) MEKH rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdés g) pont gb) alpontját a 11/2021. (IX. 20.) MEKH rendelet 1. §-a hatályon kívül helyezte.
+[^7]: A 3. § (2) bekezdés h) pontja a 10/2017. (VIII. 10.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^8]: A 3. § (2) bekezdés h) pont he) alpontját a 11/2021. (IX. 20.) MEKH rendelet 1. §-a hatályon kívül helyezte.
+[^9]: A 3. § (2) bekezdés i) pontját a 10/2017. (VIII. 10.) MEKH rendelet 1. §-a iktatta be, nyitó szövegrésze a 17/2020. (XII. 21.) MEKH rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 3. § (2) bekezdés i) pont id) alpontját a 11/2021. (IX. 20.) MEKH rendelet 1. §-a hatályon kívül helyezte.
