@@ -1,0 +1,9 @@
+# 46/2021. (IX. 13.) ITM rendelet
+
+az úszólétesítmények egészségügyi felszereléseivel és a hajózási képesítésekkel összefüggő egyes miniszteri rendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-46-20-7Q
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-09-28 | 2021-46-20-7Q.1 | 46/2021. (IX. 13.) ITM rendelet |

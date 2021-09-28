@@ -1,0 +1,3 @@
+## 3. § A hajózási képesítésekről szóló 15/2001. (IV. 27.) KöViM rendelet (a továbbiakban: R2.) 3. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) Katasztrófavédelmi beavatkozás során, katasztrófaveszély vagy veszélyhelyzet idején a hivatásos katasztrófavédelmi szerv hivatásos állománya tagjának, az önkormányzati és létesítményi tűzoltóság állománya tagjának és az önkéntes tűzoltó egyesület szaktevékenységet ellátó tagjának hajóvezetői jogosultsága a hajózási képesítő okmányban meghatározott vízterületektől eltérő területre is érvényes, amely kiterjed a beavatkozás helyszínétől a visszaútra is.”
