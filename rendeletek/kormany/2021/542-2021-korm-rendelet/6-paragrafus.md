@@ -1,1 +1,3 @@
-## 5. § Az R. a 2. melléklet szerinti 39. számú melléklettel egészül ki.
+## 5. §[^6]
+
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

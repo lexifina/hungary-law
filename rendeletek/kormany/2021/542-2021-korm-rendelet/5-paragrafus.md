@@ -1,1 +1,3 @@
-## 4. § Az R. 5. számú melléklete helyébe az 1. melléklet lép.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
