@@ -1,1 +1,3 @@
-## 5. § Hatályát veszti a Magyar Nemzeti Bank központi épülete felújítására, fejlesztésére irányuló építési beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2013. (XI. 28.) Korm. rendelet.
+## 1–5. §[^2]
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
