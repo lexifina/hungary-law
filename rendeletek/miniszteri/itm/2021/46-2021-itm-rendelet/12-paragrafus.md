@@ -1,3 +1,3 @@
-## 11. § Az R2. 10. §-a a következő (4a) bekezdéssel egészül ki:
+## 11. §[^10]
 
-## „(4a) Ha a hajózási hatóság valamely harmadik államban szerzett tengerész képesítés elismerésének visszavonását kezdeményezi, erről tájékoztatja a vizsgaközpontot, amely az érintett harmadik államban kiadott képesítő okmányok érvényesítését mindaddig szünetelteti, amíg az Európai Bizottság döntéséről a hatóságtól hivatalos tájékoztatás útján nem értesül.”
+[^10]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

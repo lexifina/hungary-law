@@ -1,7 +1,9 @@
-## 18. § Hatályát veszti a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESzCsM együttes rendelet 7. § (4) bekezdés c) pontja.
+## 18. §[^17]
 
 ## 4. Záró rendelkezések
 
 19. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő tizenötödik napon lép hatályba.
 
 (2) Az 1. alcím 2021. november 20-án lép hatályba.
+
+[^17]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
