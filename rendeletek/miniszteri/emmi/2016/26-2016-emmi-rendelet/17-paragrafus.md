@@ -1,3 +1,3 @@
-## 16. §[^38] A Bessenyei György-díj adományozására javaslatot tevő bizottságot 2019. május 20-áig kell megalakítani.
+## 16/A. §[^39] Az ÉRTÉK VAGY! díj alapításának évében a 4. § (1) bekezdésében az adományozás kezdeményezésére meghatározott határidőtől el lehet térni.
 
-[^38]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1/2019. (I. 9.) EMMI rendelet 6. §-a iktatta be.
+[^39]: A 16/A. §-t a 43/2021. (IX. 28.) EMMI rendelet 2. §-a iktatta be.

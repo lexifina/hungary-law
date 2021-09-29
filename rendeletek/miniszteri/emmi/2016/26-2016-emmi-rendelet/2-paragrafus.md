@@ -122,7 +122,7 @@
 
 2. Idősekért díj,
 
-3.[^14]
+3.[^14] ÉRTÉK VAGY! díj,
 
 4. Szent Kristóf a Gyermekekért díj,
 
@@ -155,7 +155,7 @@
 [^11]: A 2. § (8) bekezdését a 38/2020. (X. 30.) EMMI rendelet 5. § a) pontja hatályon kívül helyezte.
 [^12]: A 2. § (9) bekezdését a 7/2020. (II. 17.) ITM rendelet 39. § (3) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 38. §-át.
 [^13]: A 2. § (11) bekezdése az 1/2019. (I. 9.) EMMI rendelet 2. § (3) bekezdésével megállapított, nyitó szövegrésze a 23/2021. (VI. 14.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
-[^14]: A 2. § (11) bekezdés 3. pontját a 23/2021. (VI. 14.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
+[^14]: A 2. § (11) bekezdés 3. pontját újonnan a 43/2021. (IX. 28.) EMMI rendelet 1. §-a iktatta be.
 [^15]: A 2. § (11) bekezdés 5. pontját a 23/2021. (VI. 14.) EMMI rendelet 3. § c) pontja hatályon kívül helyezte.
 [^16]: A 2. § (11) bekezdés 8. pontját a 23/2021. (VI. 14.) EMMI rendelet 3. § d) pontja hatályon kívül helyezte.
 [^17]: A 2. § (11) bekezdés 10. pontját a 25/2019. (VI. 18.) BM rendelet 2. § a) pontja hatályon kívül helyezte.
