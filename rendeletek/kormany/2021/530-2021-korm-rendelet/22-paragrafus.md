@@ -1,0 +1,3 @@
+## 21. § Az R3. 5. §-a helyébe a következő rendelkezés lép:
+
+## „5. § A támogatás elsősorban az igénylő jelzáloghitel-szerződéséből eredő tőketartozása csökkentésére használható fel, amennyiben pedig a tőketartozás összege nem éri el a támogatás összegét, úgy a támogatás a tőketartozás járulékai – ide nem értve a késedelmi kamatot – csökkentésére használható fel. Lakáscélú pénzügyi lízingszerződés esetében az igénylés feltétele, hogy a támogatás igénybevétele által a teljes lízingdíj, valamint – amennyiben van – a maradványérték, azaz a pénzügyi lízingszerződés alapján fennálló teljes tartozás megfizetése megtörténjen, és ezzel a lakóház vagy a lakás tulajdonjogát az igénylő – legalább a 4. § (2) vagy (3) bekezdésében foglaltaknak megfelelő mértékben – megszerezze.”
