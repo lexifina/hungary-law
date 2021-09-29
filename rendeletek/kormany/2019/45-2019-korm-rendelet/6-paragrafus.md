@@ -24,10 +24,11 @@ b) a 3. § d) pont db) alpontja szerinti esetben a várandósság 12. hetének b
 
 (5) A szerzési támogatás iránti kérelmet a Kincstár honlapján közzétett formanyomtatványon a Kincstárnál vagy a kormányablaknál lehet benyújtani.
 
-(6) A szerzési támogatás igénylésekor a nagycsaládos és a támogatással érintett személy teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a Kincstár a jogosultság megállapításának és ellenőrzésének céljából és időtartamára az illetékes hatóságtól a szükséges adatokat és okiratokat beszerezze, és az azokban foglalt személyes adatokat kezelje.
+(6)[^5] A szerzési támogatás igénylésekor a nagycsaládos és a támogatással érintett személy teljes bizonyító erejű magánokiratba foglalt nyilatkozatban hozzájárul ahhoz, hogy a Kincstár az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 36. § (2) bekezdésére tekintettel a jogosultság megállapításának és ellenőrzésének céljából és időtartamára az illetékes hatóságtól a szükséges – így különösen az 5. § (1) bekezdése szerinti – adatokat és okiratokat az Ákr. 25. § (1) bekezdés b) pontja szerinti megkeresés keretében beszerezze, és az azokban foglalt személyes adatokat kezelje.
 
 (7) Ha a szerzési támogatást magzatra tekintettel állapítják meg, a határozat tartalmazza a szülés várható időpontját.
 
-(8)[^4] A szerzési támogatás fedezetéül szolgáló előirányzat kezelő szerve a Kincstár. A szerzési támogatás fedezetét és a kezelésével összefüggő működési költségeket a családpolitikáért felelős miniszter irányítása alá tartozó költségvetési fejezetből kell biztosítani.
+(8)[^6] A szerzési támogatás fedezetéül szolgáló előirányzat kezelő szerve a Kincstár. A szerzési támogatás fedezetét és a kezelésével összefüggő működési költségeket a családpolitikáért felelős miniszter irányítása alá tartozó költségvetési fejezetből kell biztosítani.
 
-[^4]: A 6. § (8) bekezdését a 151/2019. (VI. 26.) Korm. rendelet 8. §-a iktatta be.
+[^5]: A 6. § (6) bekezdése az 530/2021. (IX. 14.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^6]: A 6. § (8) bekezdését a 151/2019. (VI. 26.) Korm. rendelet 8. §-a iktatta be.
