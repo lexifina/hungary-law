@@ -14,17 +14,17 @@ d) csapatsportágban
 
 (2)[^3] Állami jutalom a sport világesemény versenykiírásában szereplő hivatalos, állandó versenyprogramjában szereplő versenyszámban szerzett (1) bekezdés szerinti helyezés után akkor nyújtható, ha a sport világeseményen legalább három földrész államainak versenyzői vettek részt, és
 
-a) ha a sport világeseményt nemzetközi kvalifikációs versenyrendszer alapján rendezték, a kvalifikációs versenyeken részt vett államok száma az állami jutalomra jogosító versenyeredmény szerinti sportági versenyszámban legalább 15 volt; vagy
+a) ha a sport világeseményt nemzetközi kvalifikációs versenyrendszer alapján rendezték, a kvalifikációs versenyeken részt vett államok száma az állami jutalomra jogosító versenyeredmény szerinti sportági versenyszámban legalább 15, nyári és téli paralimpiai játékok esetében legalább 10 volt; vagy
 
 b) ha a sport világeseményt nem nemzetközi kvalifikációs versenyrendszer alapján rendezték, a sport világeseményen részt vett államok száma legalább 40 volt, és
 
-ba) egyéni versenyszámban legalább 12 állam;
+ba) egyéni versenyszámban legalább 12 állam, a nyári és téli paralimpiai játékok esetében legalább 10 állam,
 
-bb) páros versenyszámban legalább 12 állam;
+bb) páros versenyszámban legalább 12 állam, a nyári és téli paralimpiai játékok esetében legalább 10 állam,
 
-bc) egyéni sportágak 3–8 fős csapatversenyszámában legalább 10 állam;
+bc) egyéni sportágak 3–8 fős csapatversenyszámában legalább 10 állam,
 
-bd) csapatsportágban legalább 12 állam
+bd) csapatsportágban legalább 12 állam, a nyári és téli paralimpiai játékok esetében legalább 10 állam
 
 ## versenyzői szerepeltek.
 
@@ -59,7 +59,7 @@ i) a Nemzetközi Speciális Olimpia Szövetség (a továbbiakban: SOI) által sz
 (7)[^8] A Speciális Olimpia esetében az edzők, nevelőedzők és sportszakemberek részére kifizethető jutalom keretösszege megegyezik a versenyzők részére az elért eredményeik alapján nyújtható állami jutalom összegével, azzal, hogy esetükben a 3. § (1)–(2) bekezdése nem alkalmazható.
 
 [^2]: A 2. § (1) bekezdés c) pontja a 294/2015. (X. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (2) bekezdése a 294/2015. (X. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (2) bekezdése az 551/2021. (IX. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (2a) bekezdését a 294/2015. (X. 8.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^5]: A 2. § (4) bekezdése a 79/2021. (II. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: A 2. § (5) bekezdése a 234/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.

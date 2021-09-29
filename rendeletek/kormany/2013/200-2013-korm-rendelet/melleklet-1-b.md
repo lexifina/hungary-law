@@ -20,6 +20,6 @@
 
 | 9. | VIII. helyezés | 1 400 000 |
 
-1b. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^42]
+1b. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^43]
 
-[^42]: Az 1b. mellékletet a 79/2021. (II. 22.) Korm. rendelet 3. §-a iktatta be.
+[^43]: Az 1b. mellékletet a 79/2021. (II. 22.) Korm. rendelet 3. §-a iktatta be.
