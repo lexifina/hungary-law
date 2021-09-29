@@ -1,0 +1,1 @@
+A Kormány az Úszónemzet Programmal összehangolt, a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program III. ütemében javasolt tanuszoda-fejlesztések előkészítéséhez szükséges intézkedésekről szóló 1662/2020. (X. 15.) Korm. határozatban foglaltakra tekintettel
