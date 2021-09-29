@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-402-20-
 | 2021-07-23 | 2021-402-20-22.2 | 2021. évi I. törvény |
 | 2021-07-24 | 2021-402-20-22.3 | 441/2021. (VII. 23.) Korm. rendelet |
 | 2021-08-07 | 2021-402-20-22.4 | 441/2021. (VII. 23.) Korm. rendelet |
+| 2021-09-29 | 2021-402-20-22.5 | 442/2021. (VII. 23.) Korm. rendelet |
