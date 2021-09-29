@@ -4,7 +4,7 @@
 
 (2a)[^24] Ha az igénylő számára kedvezőbb, a (2) bekezdésben meghatározott számítási mód helyett a családi otthonteremtési kedvezmény összegét azon gyermekek figyelmen kívül hagyásával kell megállapítani, akik után az igénylő korábban a (2) bekezdés szerinti támogatást vagy kölcsönt vett igénybe.
 
-(2b)[^25] A (2) és (2a) bekezdésben foglaltaktól eltérően a családi otthonteremtési kedvezmény összegének megállapításánál nem kell figyelembe venni a 2011. december 31. napját követően igényelt és az újabb támogatási kérelem benyújtásának időpontjáig már visszafizetett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön összegét.
+(2b)[^25] A (2) és (2a) bekezdésben foglaltaktól eltérően a családi otthonteremtési kedvezmény összegének megállapításánál nem kell figyelembe venni az újabb támogatási kérelem benyújtásának időpontjáig – a (4) bekezdés szerinti nyilvántartás alapján vagy a 2011. december 31. napját megelőzően benyújtott igénylések esetében közokirattal vagy hitelintézet által teljes bizonyító erejű magánokiratként kiállított dokumentummal igazolt módon – már visszafizetett vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön összegét.
 
 (2c)[^26] A 15/A. §-ban meghatározott esetben a családi otthonteremtési kedvezménynek a 9. §, valamint a (2)–(2b) bekezdés szerint az igénylő részére megállapítható összege csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet) alapján nyújtható. Ha a családi otthonteremtési kedvezménynek a 9. §, valamint a (2)–(2b) bekezdés szerint az igénylő részére megállapítható összege az igénylő 43. § (1) bekezdés e) pontja szerinti nyilatkozata alapján meghaladná az 1407/2013/EU bizottsági rendelet szerint a csekély összegű (de minimis) támogatásokra megállapított összeghatárt, akkor az igénylő legfeljebb ezen összeghatárig terjedő mértékű családi otthonteremtési kedvezményre jogosult.
 
@@ -19,7 +19,7 @@
 [^22]: A 12. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés b) pont ba) alpontja szerint módosított szöveg.
 [^23]: A 12. § (2) bekezdése a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés b) pont bb) alpontja szerint módosított szöveg.
 [^24]: A 12. § (2a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^25]: A 12. § (2b) bekezdését a 46/2019. (III. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés b) pont bc) alpontja szerint módosított szöveg.
+[^25]: A 12. § (2b) bekezdését a 46/2019. (III. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés b) pont bc) alpontja, az 530/2021. (IX. 14.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^26]: A 12. § (2c) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 3. §-a iktatta be.
 [^27]: A 12. § (3) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
 [^28]: A 12. § (4) bekezdése a 26/2018. (II. 28.) Korm. rendelet 22. § 3. pontja, a 183/2021. (IV. 16.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

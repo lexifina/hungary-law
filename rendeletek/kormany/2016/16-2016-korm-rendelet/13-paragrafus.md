@@ -50,6 +50,26 @@ b) az általa folytatott egyéni vállalkozói tevékenység
 
 (9)[^39] Az igénylő a (8) bekezdés szerinti nyilatkozatot akkor teheti meg, ha a családi otthonteremtési kedvezményből vásárolt vagy épített új lakás megszerzésének költségeihez nem vett korábban igénybe az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis), illetve ezen jogcímtől eltérő jogcímen az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami támogatást.
 
+(10)[^40] A családi otthonteremtési kedvezmény iránti kérelemben az igénylő teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelőssége mellett nyilatkozik arról, ha az állam javára bejegyzett jelzálogjog fennállása alatt a családi otthonteremtési kedvezményből vásárolt vagy épített új lakáshoz tartozó földrészletet, illetve az azon álló melléképítményt saját gazdasági tevékenysége céljára kívánja hasznosítani, ide nem értve annak bérbe vagy haszonbérbe adását.
+
+(11)[^41] A (10) bekezdés szerinti nyilatkozat megtétele esetén
+
+a) új lakás
+
+aa) építésénél a 21. § szerinti építési költségvetést,
+
+ab) vásárlásánál az adásvételi szerződésben és a 44. § (1) bekezdése szerinti számlában a vételárat
+
+## meg kell osztani az aa) alpont esetében a lakóépületre és a melléképítményre jutó bekerülési költségekre, illetve az ab) alpont esetében a lakóépületre, a földrészletre, illetve a melléképítményre jutó vételárhányadokra,
+
+b) a családi otthonteremtési kedvezmény összege nem haladhatja meg új lakás
+
+ba) építésénél a lakóépületre jutó bekerülési költséget,
+
+bb) vásárlásánál a lakóépületre jutó vételárhányadot, és
+
+c) az (1) bekezdés c) pontját, a (9) bekezdést, a 12. § (2c) bekezdését, a 15/A. §-t, valamint a 43. § (1) bekezdés e) pontját is alkalmazni kell.
+
 [^31]: A 13. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^32]: A 13. § (1) bekezdés c) pontját a 152/2019. (VI. 26.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^33]: A 13. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 321. § (3) bekezdés 4. és 5. pontja, a 360/2019. (XII. 30.) Korm. rendelet 150. § (2) bekezdés c) és d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
@@ -59,3 +79,5 @@ b) az általa folytatott egyéni vállalkozói tevékenység
 [^37]: A 13. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
 [^38]: A 13. § (8) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^39]: A 13. § (9) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^40]: A 13. § (10) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
+[^41]: A 13. § (11) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.

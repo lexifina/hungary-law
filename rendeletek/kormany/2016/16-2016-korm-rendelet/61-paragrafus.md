@@ -1,6 +1,6 @@
-## de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybe vett családi otthonteremtési kedvezmény összegének kétszeresét.
+## a kormányhivatal ennek tényéről a tárgyhónapot követő hónap 20. napjáig elektronikus úton értesíti az állami adóhatóságot és a hitelintézetet.
 
-## 9. [^188] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
+## 9. [^201] A családi otthonteremtési kedvezmény központi költségvetéssel való elszámolásának szabályai
 
 61. § (1) A családi otthonteremtési kedvezményt az állam nevében a Kincstár nyújtja.
 
@@ -26,4 +26,4 @@
 
 (12) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^188]: A 9. alcím (61–62. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^201]: A 9. alcím (61–62. §) a 101/2019. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
