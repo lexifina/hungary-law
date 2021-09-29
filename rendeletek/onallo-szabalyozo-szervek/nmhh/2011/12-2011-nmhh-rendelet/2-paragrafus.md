@@ -1,28 +1,27 @@
-## 2. A nem polgári célú frekvenciagazdálkodás körébe tartozó szervezetek
+## 2. [^4] A nem polgári célú rádióspektrum-gazdálkodás körébe tartozó szervezetek
 
-## 2. § A nem polgári célú frekvenciagazdálkodás körébe tartozik
+## 2. § A nem polgári célú rádióspektrum-gazdálkodás körébe az alábbi szervezetek tartoznak:
 
-a) a honvédség,
+a) honvédség,
 
-b) a nemzetbiztonsági szolgálatok,
+b) nemzetbiztonsági szolgálatok,
 
-c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
+c) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve,
 
-d) a terrorizmust elhárító szerv,
+d) terrorizmust elhárító szerv,
 
-e) az általános rendőrségi feladatokat ellátó szerv,
+e) általános rendőrségi feladatokat ellátó szerv,
 
-f) a hivatásos katasztrófavédelmi szerv,
+f) hivatásos katasztrófavédelmi szerv,
 
-g) a büntetés-végrehajtási szervezet,
+g) büntetés-végrehajtási szervezet,
 
-h) a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szerve,
+h) Nemzeti Adó- és Vámhivatal vám- és nyomozóhatósági feladatokat ellátó szervei,
 
-i)[^2] a zártcélú rendészeti hálózat, a K-600/KTIR Hírközlési és Informatikai Rendszer és az egységes digitális rádiótávközlő rendszer vonatkozásában a kormányzati célú hírközlési szolgáltató
+i) zártcélú rendészeti hálózat, a K-600/KTIR Hírközlési és Informatikai Rendszer és az egységes digitális rádiótávközlő rendszer vonatkozásában a kormányzati célú hírközlési szolgáltató,
 
-j)–k)[^3]
+j) fővárosi és megyei védelmi bizottságok,
 
-(a továbbiakban együtt: felhasználók).
+k) Országgyűlési Őrség
 
-[^2]: A 2. § i) pontja az 1/2013. (I. 7.) NMHH rendelet 11. § (20) bekezdésével megállapított szöveg.
-[^3]: A 2. § j)–k) pontját az 1/2013. (I. 7.) NMHH rendelet 11. § (23) bekezdése hatályon kívül helyezte.
+[^4]: A 2. alcím a 8/2021. (IX. 24.) NMHH rendelet 1. §-ával megállapított szöveg.
