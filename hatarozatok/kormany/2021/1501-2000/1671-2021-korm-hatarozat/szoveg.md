@@ -16,4 +16,6 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: az a) alpont szerinti ingatlanok megosztásának és a kivett beruházási célterület megnevezés ingatlan-nyilvántartási átvezetését követő 30 napon belül
 
-2. A Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia új helyszínen történő megvalósításáról, valamint a beruházás előkészítésével kapcsolatos intézkedésekről szóló 1584/2020. (IX. 11.) Korm. határozat 2. pontjában a „Sukoró külterület 019/1, 019/16 és 019/17 helyrajzi számú” szövegrész helyébe a „Sukoró külterület 019/1, 019/16, 019/17 és 019/18 helyrajzi számú” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
