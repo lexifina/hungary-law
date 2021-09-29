@@ -4,15 +4,15 @@
 
 ## 6. § A támogatás a következő építési tevékenységekhez igényelhető:
 
-a) víz-, csatorna-, elektromos-, gáz-közműszolgáltatás bevezetése, illetve belső hálózatának kiépítése vagy cseréje,
+a)[^18] víz-, csatorna-, elektromos-, gáz-közműszolgáltatás bevezetése, illetve belső, illetve külső hálózatának kiépítése vagy cseréje,
 
 b) fürdőhelyiség, illetve WC létesítése olyan lakásban, amely nem rendelkezik ilyen helyiséggel,
 
 c) fűtési rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, ideértve a megújuló energiaforrások alkalmazását is,
 
-d)[^10] az épület külső festése, színezése, valamint szigetelése, utóbbinál, ideértve a lábazatszigetelést, a hő-, hang-, illetve vízszigetelési munkálatokat,
+d)[^19] az épület külső festése, színezése, valamint szigetelése, utóbbinál, ideértve a lábazatszigetelést, a hő-, hang-, illetve vízszigetelési munkálatokat,
 
-e) a külső nyílászáró cseréje, redőny, árnyékoló, spaletta, rovarháló, biztonsági rács felszerelése vagy cseréje, párkányok, küszöbök cseréje vagy felújítása,
+e)[^20] a külső nyílászáró beépítése, cseréje, redőny, árnyékoló, spaletta, rovarháló, biztonsági rács felszerelése vagy cseréje, párkány, küszöb létesítése, cseréje vagy felújítása,
 
 f) tető cseréje, felújítása, szigetelése,
 
@@ -24,7 +24,7 @@ i) napkollektor, napelemes rendszer telepítése, cseréje,
 
 j) belső tér felújítása, ideértve
 
-ja) a lakás helyiségeinek belső fali, padló-, födém- vagy álmennyezeti burkolat cseréjét, felújítását, festését, tapétázását,
+ja)[^21] a lakás helyiségeinek belső fali, padló-, födém- vagy álmennyezeti burkolat készítését, cseréjét, felújítását, festését, tapétázását,
 
 jb) a galériaépítést,
 
@@ -36,7 +36,7 @@ je) a villanykapcsolók és -dugaljak kialakítását és cseréjét,
 
 jf) a belső nyílászárók, belső párkányok, küszöbök beépítését, cseréjét vagy felújítását,
 
-jg)[^11] a lámpák vagy világítótestek beépítését vagy cseréjét,
+jg)[^22] a lámpák vagy világítótestek beépítését vagy cseréjét,
 
 k) a lakással azonos ingatlan-nyilvántartási helyrajzi számon található épület, nem lakás céljára szolgáló helyiség (így különösen: nyári konyha, mosókonyha, tároló) felújítása,
 
@@ -46,25 +46,30 @@ m) gépjárműtároló építése vagy nyitott gépkocsibeálló kialakítása,
 
 n) terasz, loggia, erkély, előtető építése,
 
-o) térburkolat készítése, cseréje,
+o)[^23] térburkolat, illetve külső lépcső készítése, cseréje,
 
 p) télikert kialakítása,
 
-q) – amennyiben az igénylő vagy gyermeke mozgáskorlátozott személynek minősül – a 12/2001. (I. 31.) Korm. rendelet 9. § (10) bekezdésében meghatározott akadálymentesítési munkák,
+q)[^24] akadálymentesítési munka;
 
-r)[^12] alapozási szerkezet megerősítése,
+r)[^25] alapozási szerkezet megerősítése,
 
 s) beépíthető bútor vagy konyhai gép beépítése, cseréje.
 
-t)[^13] használati melegvíz rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, ideértve a megújuló energiaforrások alkalmazását is.
+t)[^26] használati melegvíz rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, ideértve a megújuló energiaforrások alkalmazását is.
 
-u)[^14] szabályozott szellőzési rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, valamint
+u)[^27] szabályozott szellőzési rendszer kialakítása, korszerűsítése vagy elemeinek cseréje, valamint
 
-v)[^15] szennyvíz tisztítására és elhelyezésére szolgáló egyedi szennyvízkezelő berendezés vagy tisztítómezővel ellátott oldómedencés műtárgy telepítése vagy cseréje.
+v)[^28] szennyvíz tisztítására és elhelyezésére szolgáló egyedi szennyvízkezelő berendezés vagy tisztítómezővel ellátott oldómedencés műtárgy telepítése vagy cseréje.
 
-[^10]: A 6. § d) pontja a 641/2020. (XII. 22.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^11]: A 6. § j) pont jg) alpontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^12]: A 6. § r) pontja a 183/2021. (IV. 16.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
-[^13]: A 6. § t) pontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^14]: A 6. § u) pontját a 183/2021. (IV. 16.) Korm. rendelet 25. §-a iktatta be.
-[^15]: A 6. § v) pontját a 183/2021. (IV. 16.) Korm. rendelet 25. §-a iktatta be.
+[^18]: A 6. § a) pontja az 530/2021. (IX. 14.) Korm. rendelet 38. § f) pontja szerint módosított szöveg.
+[^19]: A 6. § d) pontja a 641/2020. (XII. 22.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^20]: A 6. § e) pontja az 530/2021. (IX. 14.) Korm. rendelet 38. § g) pontja szerint módosított szöveg.
+[^21]: A 6. § j) pont ja) alpontja az 530/2021. (IX. 14.) Korm. rendelet 38. § h) pontja szerint módosított szöveg.
+[^22]: A 6. § j) pont jg) alpontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^23]: A 6. § o) pontja az 530/2021. (IX. 14.) Korm. rendelet 38. § i) pontja szerint módosított szöveg.
+[^24]: A 6. § q) pontja az 530/2021. (IX. 14.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^25]: A 6. § r) pontja a 183/2021. (IV. 16.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
+[^26]: A 6. § t) pontját a 641/2020. (XII. 22.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^27]: A 6. § u) pontját a 183/2021. (IV. 16.) Korm. rendelet 25. §-a iktatta be.
+[^28]: A 6. § v) pontját a 183/2021. (IV. 16.) Korm. rendelet 25. §-a iktatta be.

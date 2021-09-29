@@ -10,7 +10,7 @@ c) személyesen a kormányablaknál
 
 (2) A támogatás a jelen rendelet hatálybalépését követően megkötött vállalkozási szerződés alapján megkezdett, a lakáson végzett felújítás befejezését és a számlák kifizetését követően igényelhető.
 
-(3) A kérelemhez mellékelni kell a következő dokumentumokat vagy – az (1) bekezdés b) vagy c) pontja szerinti esetben a j)–l) pontban foglalt dokumentumok kivételével – azok másolatát:
+(3)[^34] A kérelemhez mellékelni kell a következő dokumentumokat vagy – az (1) bekezdés b) vagy c) pontja szerinti esetben a j)–l), valamint u) és v) pontban foglalt dokumentumok kivételével – azok másolatát:
 
 a) egy vagy több kivitelezővel 2021. január 1-jén vagy azt követően kötött vállalkozási szerződés vagy szerződések, amelyek részletesen meghatározzák a felújítással kapcsolatos tervezési, építési, szerelési munkálatokat és azok díját – amennyiben a szükséges anyagokat is a vállalkozó biztosítja az igénylő részére, akkor anyagköltség és vállalkozói díj szerinti bontásban –, valamint tartalmazza a 7. § (1) bekezdésében foglalt feltételek vállalkozó általi teljesítésének vállalását,
 
@@ -38,21 +38,19 @@ f) 25. életévét betöltött gyermek esetén
 
 fa) a 2. § (1) bekezdés 5. pontja szerinti megváltozott munkaképességű személlyé válásról szóló, orvosszakértői szerv által kiállított igazolás,
 
-fb) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet szerinti fogyatékossági támogatásra való jogosultság fennállásáról szóló nyilatkozat,
+fb)[^35]
 
-fc) a vakok személyi járadékának folyósításáról szóló nyilatkozat vagy
+fc)[^36]
 
 fd) a gyermekek otthongondozási díjának megállapításáról szóló, a járási vagy fővárosi (kerületi) hivatal által kiállított határozat,
+
+fe)[^37] a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet 2/A. §-a vagy 7. § (3) bekezdés a) pontja szerinti iratok,
 
 g) több lakásból álló közös tulajdonú ingatlan esetében a közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt használati megállapodás vagy bírósági ítélet,
 
 h) a Kincstár által készített és az igénylő által kitöltött számlaösszesítő formanyomtatvány,
 
-i) mozgáskorlátozott személy esetén
-
-ia) a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet 2/A. §-a vagy 7. § (3) bekezdés a) pontja szerinti iratok vagy
-
-ib) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet szerinti súlyos fogyatékosság minősítésére vonatkozó nyilatkozat arról, hogy az igénylő vagy gyermeke mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott,
+i)[^38]
 
 j) szükség szerint a 4. § (4) bekezdése esetén a szülő nyilatkozata,
 
@@ -66,27 +64,33 @@ lb) a 7. § (4) bekezdése szerinti összeférhetetlenségi ok nem áll fenn,
 
 lc) a felújítással érintett lakásra korábban a 17/2016. (II. 10.) Korm. rendelet 6. § c) pontja szerinti családi otthonteremtési kedvezményt használt lakás vásárlásához és korszerűsítéséhez vagy korszerűsítéséhez és bővítéséhez, vagy meglévő lakás korszerűsítéséhez vagy korszerűsítéséhez és bővítéséhez igénybe vette-e, és amennyiben igen, akkor az ahhoz kapcsolódóan a hitelintézet által elfogadott költségvetést, valamint a családi otthonteremtési kedvezmény tekintetében elszámolt vagy elszámolni tervezett számlák másolatát benyújtja,
 
-ld) a 3. § (3) bekezdés a) pontjában – ide nem értve a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató igénylő esetét –, valamint b) pont ba), bd) és be) alpontjában foglalt feltételek fennállnak,
+ld)[^39] a 3. § (3) bekezdés a) pontjában – ide nem értve a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató igénylő esetét –, valamint b) pont ba), bd) és be) alpontjában – ide nem értve az o) pont szerinti esetet – foglalt feltételek fennállnak,
 
 le) a 3. § (5) bekezdés b) pontjában meghatározott ellátásban részesül,
 
-lf)[^20] ha részben vagy egészben otthonfelújítási kölcsöntartozására nézve érvényesítette a jelzáloghitel-csökkentési támogatást, akkor ennek tényéről, továbbá hogy a jelzáloghitel-csökkentési támogatást mely hitelintézetnél fennálló milyen kölcsöntartozására, valamint – több érintett kölcsöntartozás esetén melyikre nézve – mekkora összegben vette igénybe,
+lf)[^40] ha részben vagy egészben otthonfelújítási kölcsöntartozására jelzáloghitel-csökkentési támogatást vett igénybe,
 
 m) a 2. § (1) bekezdés 2. pont c) alpontja esetén a gyámrendelésről szóló végleges és hatályban lévő gyámhatósági határozat,
 
 n) a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenység folytatásáról a foglalkoztató által teljes bizonyító erejű magánokiratként kiállított igazolás vagy egyéni vállalkozó esetén a Tbj. 4. § 2. pontja szerinti hatósági nyilvántartásból kiállított hatósági bizonyítvány, illetve igazolvány, engedély vagy kamara, kar által kiállított igazolás,
 
-o) a 3. § (3) bekezdés b) pont bb) alpontjában foglaltakról az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolás hiteles magyar nyelvű fordítása,
+o)[^41] a 3. § (3) bekezdés b) pont bb) alpontjában foglaltakról az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolás hiteles magyar nyelvű fordítása, a 3. § (3) bekezdés b) pont bd) alpontjában foglalt külföldi tanulmányokról az annak időtartamára vonatkozó, a külföldi felsőoktatási intézmény által kiadott igazolás és annak hiteles magyar nyelvű fordítása, valamint a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság egyenértékűségről szóló állásfoglalása,,
 
-p) a személyazonosság igazolására személyazonosító igazolvány, útlevél vagy kártyaformátumú vezetői engedély,
+p)[^42] az igénylő, együttes igénylés esetén az igénylők személyazonosságának igazolására személyazonosító igazolvány, útlevél vagy kártyaformátumú vezetői engedély,
 
 q) a három hónapot meghaladó tartózkodás jogát tanúsító, a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolás, érvényes tartózkodási kártya vagy állandó tartózkodási kártya és
 
 r) a 3. § (5) bekezdése szerinti esetben a gyermekek otthongondozási díja vagy az ápolási díj megállapításáról szóló, a járási vagy fővárosi (kerületi) hivatal által kiállított határozat.
 
-s)[^21] a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (5a) bekezdésben foglaltak teljesüléséről,
+s)[^43] a napelemes rendszer telepítését vagy cseréjét végző vállalkozó nyilatkozata a 7. § (5a) bekezdésben foglaltak teljesüléséről,
 
-t)[^22] otthonfelújítási kölcsön igénybevétele esetén a kölcsönszerződés,
+t)[^44] otthonfelújítási kölcsön igénybevétele esetén a kölcsönszerződés,
+
+u)[^45] az otthonfelújítási kölcsöntartozását érintő jelzáloghitel-csökkentési támogatás, valamint a fennálló otthonfelújítási kölcsön tőke- és járulékai összegéről szóló, 30 napnál nem régebbi hitelintézeti igazolás,
+
+v)[^46] a köztartozás-mentesség vagy a fennálló köztartozásnak a 4. § (2) bekezdés c) pontja szerinti mértéket meg nem haladó összegének ténye tekintetében – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó adótartozásról szóló adóigazolás,
+
+w)[^47] a nagykorú gyermek adatkezelésre vonatkozó nyilatkozata.
 
 (4) Az igénylő az elektronikus úton benyújtott kérelmét és mellékleteit – így különösen a szükséges mellékletek másolatait – saját maga is hitelesítheti.
 
@@ -104,6 +108,17 @@ c) a kormányablak általi átvételének
 
 (7) Amennyiben az a szülő, akinek a nevére a számlát kiállították, a kérelem benyújtását megelőzően elhalálozik, és a számlát a másik szülő csatolja a kérelméhez, ez a tény a számla elfogadhatóságát nem akadályozza.
 
-[^20]: A 9. § (3) bekezdés l) pont lf) alpontját a 183/2021. (IV. 16.) Korm. rendelet 27. § (1) bekezdése iktatta be.
-[^21]: A 9. § (3) bekezdés s) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^22]: A 9. § (3) bekezdés t) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^34]: A 9. § (3) bekezdés nyitó szövegrésze az 530/2021. (IX. 14.) Korm. rendelet 38. § k) pontja szerint módosított szöveg.
+[^35]: A 9. § (3) bekezdés f) pont fb) alpontját az 530/2021. (IX. 14.) Korm. rendelet 39. § b) pontja hatályon kívül helyezte.
+[^36]: A 9. § (3) bekezdés f) pont fc) alpontját az 530/2021. (IX. 14.) Korm. rendelet 39. § b) pontja hatályon kívül helyezte.
+[^37]: A 9. § (3) bekezdés d) pont fe) alpontját az 530/2021. (IX. 14.) Korm. rendelet 36. § (1) bekezdése iktatta be.
+[^38]: A 9. § (3) bekezdés i) pontját az 530/2021. (IX. 14.) Korm. rendelet 39. § c) pontja hatályon kívül helyezte.
+[^39]: A 9. § (3) bekezdés l) pont ld) alpontja az 530/2021. (IX. 14.) Korm. rendelet 38. § l) pontja szerint módosított szöveg.
+[^40]: A 9. § (3) bekezdés l) pont lf) alpontját a 183/2021. (IV. 16.) Korm. rendelet 27. § (1) bekezdése iktatta be, szövege az 530/2021. (IX. 14.) Korm. rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^41]: A 9. § (3) bekezdés o) pontja az 530/2021. (IX. 14.) Korm. rendelet 38. § m) pontja szerint módosított szöveg.
+[^42]: A 9. § (3) bekezdés p) pontja az 530/2021. (IX. 14.) Korm. rendelet 38. § n) pontja szerint módosított szöveg.
+[^43]: A 9. § (3) bekezdés s) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^44]: A 9. § (3) bekezdés t) pontját a 641/2020. (XII. 22.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^45]: A 9. § (3) bekezdés u) pontját az 530/2021. (IX. 14.) Korm. rendelet 36. § (3) bekezdése iktatta be.
+[^46]: A 9. § (3) bekezdés v) pontját az 530/2021. (IX. 14.) Korm. rendelet 36. § (3) bekezdése iktatta be.
+[^47]: A 9. § (3) bekezdés w) pontját az 530/2021. (IX. 14.) Korm. rendelet 36. § (3) bekezdése iktatta be.
