@@ -8,7 +8,7 @@
 
 a) állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 1. pontja szerinti támogatás,
 
-b)[^1] bölcsődei szolgáltató: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) alapján szolgáltatói nyilvántartásba bejegyzett családi bölcsőde vagy munkahelyi bölcsőde, nem önkormányzati fenntartású bölcsőde vagy nem önkormányzati fenntartású mini bölcsőde,
+b)[^1] bölcsődei szolgáltató: a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) alapján szolgáltatói nyilvántartásba bejegyzett családi bölcsőde vagy munkahelyi bölcsőde, nem önkormányzati fenntartású bölcsőde vagy nem önkormányzati fenntartású mini bölcsőde, valamint a napközbeni gyermekfelügyeletet nyújtó szolgáltató,
 
 c) egy és ugyanazon vállalkozás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
@@ -52,5 +52,5 @@ q) Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer: a mezőgazdasá
 
 r)[^2] kkv: a 6. célterület esetében a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU bizottsági rendelet (a továbbiakban: 651/2014/EU bizottsági rendelet) I. Melléklete szerinti mikro-, kis- és középvállalkozás.
 
-[^1]: Az 1. § b) pontja a 385/2020. (VIII. 7.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
+[^1]: Az 1. § b) pontja a 385/2020. (VIII. 7.) Korm. rendelet 7. § 1. pontja, az 549/2021. (IX. 28.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § r) pontját a 434/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
