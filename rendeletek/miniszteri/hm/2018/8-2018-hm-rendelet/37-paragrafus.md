@@ -1,10 +1,5 @@
-37. § (1)[^73] Az állomány tagja részére egyszeri alkalommal 2000 EUR vagy annak megfelelő összegű USD vagy angol font (a továbbiakban: GBP) utazási kölcsönt kell folyósítani a kiutazás előtti 10 napon belül.
+37. §[^78] (1) Az állomány tagja részére – kérelmére – egyszeri alkalommal legfeljebb 2000 EUR vagy annak megfelelő összegű USD vagy angol font (a továbbiakban: GBP) utazási kölcsönt kell a kiküldött által az illetékes pénzügyi ellátó szerv felé meghatalmazáson megjelölt devizaszámlára folyósítani a külföldi szolgálat vezénylési okmányban megállapított első napját megelőző 10 napon belül.
 
-(2)[^74] Az utazási kölcsönt
+(2) Az utazási kölcsönt legkésőbb a folyósítást követő 6 hónapon belül kell a Honvédség részére átutalással visszatéríteni.
 
-a) legkésőbb a folyósítást követő 6 hónapon belül vagy
-
-b) 1 évet meg nem haladó külföldi szolgálat esetén legkésőbb a végleges hazautazás utáni 10 napon belül
-
-[^73]: A 37. § (1) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 6. pontja szerint módosított szöveg.
-[^74]: A 37. § (2) bekezdés nyitó szövegrésze a 3/2021. (I. 14.) HM rendelet 12. § 6. pontja szerint módosított szöveg.
+[^78]: A 37. § a 19/2021. (IX. 21.) HM rendelet 5. §-ával megállapított szöveg.

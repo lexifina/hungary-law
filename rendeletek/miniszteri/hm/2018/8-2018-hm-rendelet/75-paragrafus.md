@@ -1,3 +1,3 @@
-## 43. [^123] Kölcsön
+## 43. [^127] Kölcsön
 
-[^123]: A 43. alcím címe a 3/2021. (I. 14.) HM rendelet 12. § 21. pontjával megállapított szöveg.
+[^127]: A 43. alcím címe a 3/2021. (I. 14.) HM rendelet 12. § 21. pontjával megállapított szöveg.

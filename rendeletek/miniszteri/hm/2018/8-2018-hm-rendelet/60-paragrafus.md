@@ -1,6 +1,6 @@
 ## 33. Külföldi napidíj
 
-60. §[^109] (1) Az állomány ideiglenes külföldi szolgálatot teljesítő tagja megkezdett naptári naponként az állomáshely szerinti, 8. mellékletben meghatározott
+60. §[^112] (1) Az állomány ideiglenes külföldi szolgálatot teljesítő tagja megkezdett naptári naponként az állomáshely szerinti, 8. mellékletben meghatározott
 
 a) I. kategóriába tartozó országban teljesített külföldi szolgálat esetén naponta 50 EUR,
 
@@ -10,7 +10,7 @@ c) III. kategóriába tartozó országban teljesített külföldi szolgálat ese
 
 összegű külföldi napidíjra jogosult.
 
-(1a)[^110] Az állomány tagja a 8. mellékletben nem szereplő országokban, illetve térségekben teljesített ideiglenes külföldi szolgálata esetén megkezdett naptári naponként 50 EUR összegű külföldi napidíjra jogosult.
+(1a)[^113] Az állomány tagja a 8. mellékletben nem szereplő országokban, illetve térségekben teljesített ideiglenes külföldi szolgálata esetén megkezdett naptári naponként 50 EUR összegű külföldi napidíjra jogosult.
 
 (2) Az ideiglenes külföldi szolgálat kezdő és befejező időpontja Magyarország államhatárának átlépése azzal, hogy légi és vízi út esetén az országhatár átlépésének időpontja az állomány tagja
 
@@ -28,5 +28,5 @@ b) fél naptári napként kell figyelembe venni azt a napot, amelynek során az 
 
 (5) A külföldi napidíj összege után felmerülő közteher az állomány ideiglenes külföldi szolgálatot teljesítő tagját terheli.
 
-[^109]: A 60. § a 2/2019. (I. 31.) HM rendelet 23. §-ával megállapított szöveg.
-[^110]: A 60. § (1a) bekezdését a 17/2020. (XII. 12.) HM rendelet 43. §-a iktatta be.
+[^112]: A 60. § a 2/2019. (I. 31.) HM rendelet 23. §-ával megállapított szöveg.
+[^113]: A 60. § (1a) bekezdését a 17/2020. (XII. 12.) HM rendelet 43. §-a iktatta be.

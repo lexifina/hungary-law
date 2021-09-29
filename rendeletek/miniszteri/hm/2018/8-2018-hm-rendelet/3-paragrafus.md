@@ -22,7 +22,10 @@
 
 (10) A pénzbeli juttatások állomány tagja részére történő átutalásának – az MNB vagy a Magyar Államkincstár üzletszabályzata, illetve üzleti feltételei szerint – az átutalási megbízás megadása során az indító banknál felmerülő, valamint az állomány tagja számlavezető bankjának üzletszabályzatában, illetve kondíciós listáiban nem szereplő, bankközi műveletekből adódó költségeit a Honvédség viseli. Az esetlegesen az állomány tagjától levont bankközi, levelezőbanki költségek megtérítését az állomány tagjának a Honvédség pénzügyi feladatokat ellátó központi szervezete felé benyújtott írásbeli kérelmére, a bankközi költséglevonást bizonyító folyószámla-kivonatok csatolásával lehet végrehajtani. A devizában történő folyósítás miatt felmerülő esetleges átváltási és egyéb pénzintézeti költségek az állomány tagját terhelik.
 
+(11)[^17] Az ideiglenes külföldi szolgálatot teljesítők kivételével az állomány tagja köteles az állomáshely szerinti országra meghatározott külszolgálati ellátmány devizanemének megfelelő devizaszámlát vagy ennek fogadására alkalmas forint fizetési számlát (a továbbiakban együtt: devizaszámla) nyitni, ha részére a Honvédség devizában pénzbeli juttatást biztosít.
+
 [^13]: A 3. § (1) bekezdése a 2/2019. (I. 31.) HM rendelet 39. § b) pontja szerint módosított szöveg.
 [^14]: A 3. § (3) bekezdése a 3/2021. (I. 14.) HM rendelet 12. § 2. pontja szerint módosított szöveg.
 [^15]: A 3. § (9) bekezdése a 2/2019. (I. 31.) HM rendelet 39. § c) pontja szerint módosított szöveg.
 [^16]: A 3. § (9a) bekezdését a 2/2019. (I. 31.) HM rendelet 5. §-a iktatta be.
+[^17]: A 3. § (11) bekezdését a 19/2021. (IX. 21.) HM rendelet 1. §-a iktatta be.

@@ -6,11 +6,11 @@
 
 a) a 6. melléklet szerinti külföldi napidíj-kiegészítésre jogosult abban az esetben, ha külföldi pénzbeli ellátását közvetlenül a műveletet irányító nemzetközi szervezet biztosítja, vagy
 
-b)[^107] az állomáshely szerinti országra a 8. mellékletben meghatározott teljes összegű napidíj 150%-ával megegyező összegű külföldi napidíjra jogosult abban az esetben, ha részére a műveletet irányító nemzetközi szervezet nem biztosít közvetlen pénzbeli ellátást.
+b)[^110] az állomáshely szerinti országra a 8. mellékletben meghatározott teljes összegű napidíj 150%-ával megegyező összegű külföldi napidíjra jogosult abban az esetben, ha részére a műveletet irányító nemzetközi szervezet nem biztosít közvetlen pénzbeli ellátást.
 
 (2) A külföldi napidíj-kiegészítés összegének megállapítása során az állomány tagja által külföldön ellátott beosztáshoz állományjegyzékben rendszeresített rendfokozatot kell figyelembe venni. Ha a külföldön ellátott beosztáshoz rendszeresített rendfokozat nem egyértelműen beazonosítható, a külföldi napidíj-kiegészítés összegének megállapítása során az állomány tagja által legutóbb betöltött hazai beosztáshoz állománytáblában rendszeresített rendfokozatot kell figyelembe venni.
 
-(3)[^108] Az adó- és járulékfizetési kötelezettség teljesítése érdekében a külföldi napidíj-kiegészítésre a 13. §-t, a külföldi napidíjra 60. § (5) bekezdését kell alkalmazni.
+(3)[^111] Az adó- és járulékfizetési kötelezettség teljesítése érdekében a külföldi napidíj-kiegészítésre a 13. §-t, a külföldi napidíjra 60. § (5) bekezdését kell alkalmazni.
 
 (4) A külföldi napidíj-kiegészítés és a külföldi napidíj tárgyhónapra járó összegét az állomány tagja részére havonta utólag, legkésőbb a tárgyhót követő hónap 5. napjáig kell kifizetni.
 
@@ -26,5 +26,5 @@ c) a szállítással kapcsolatos költségeket, az 51. § a) pontja szerint, és
 
 d) a polgári egészségügyi intézmény igénybevételével kapcsolatos költségeket.
 
-[^107]: Az 58. § (1) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 22. §-ával megállapított szöveg.
-[^108]: Az 58. § (3) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 17. pontja szerint módosított szöveg.
+[^110]: Az 58. § (1) bekezdés b) pontja a 2/2019. (I. 31.) HM rendelet 22. §-ával megállapított szöveg.
+[^111]: Az 58. § (3) bekezdése a 2/2019. (I. 31.) HM rendelet 37. § 17. pontja szerint módosított szöveg.

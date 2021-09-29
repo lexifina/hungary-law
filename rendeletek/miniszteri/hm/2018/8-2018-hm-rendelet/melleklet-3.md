@@ -74,7 +74,7 @@
 
 | 36. | Indonézia | 967 | EUR | 20% |
 
-| 37. | Irak | 1017 | EUR | 40% |
+| 37. | Irak | 1213 | USD | 40% |
 
 | 38. | Irán | 1025 | EUR | 30% |
 
@@ -92,9 +92,9 @@
 
 | 45. | Dél-Korea | 1059 | EUR | 20% |
 
-| 46. | Kuvait | 1011 | EUR | 5% |
+| 46. | Kuvait | 1206 | USD | 5% |
 
-| 47. | Libanon | 1084 | EUR | 20% |
+| 47. | Libanon | 1311 | USD | 20% |
 
 | 48. | Malajzia | 918 | EUR | 10% |
 
