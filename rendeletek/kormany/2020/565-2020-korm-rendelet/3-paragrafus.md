@@ -1,4 +1,4 @@
-## 2. § A kiemelt nemzetközi sport- és sportdiplomáciai események kormányzati felelőse és az ezen eseményekkel kapcsolatos kormányzati tevékenység irányítója a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos (a továbbiakban: kormánybiztos). Az e rendelet szerinti állami feladatokat a kormánybiztos közreműködésével a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter (a továbbiakban: miniszter) és a Nemzeti Sportügynökség Nonprofit Kft. (a továbbiakban: sportügynökség) látja el.
+## 2. §[^2] A kiemelt nemzetközi sport- és sportdiplomáciai események kormányzati felelőse és az ezen eseményekkel kapcsolatos kormányzati tevékenység irányítója a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos (a továbbiakban: kormánybiztos). Az e rendelet szerinti állami feladatokat a kormánybiztos közreműködésével a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter (a továbbiakban: miniszter) és a Nemzeti Sportügynökség Nonprofit Kft. (a továbbiakban: sportügynökség) a Nemzeti Kommunikációs Hivatal bevonásával látja el.
 
 ## 3. § Az esemény szervezése során az előkészítés időszakában és az esemény megrendezésével a szervezőknek azt kell elősegíteniük, hogy az eseményre való felkészülés és maga az esemény segítse elő
 
@@ -15,3 +15,5 @@ e) Magyarország és kiemelten Budapest kulturális, gazdasági előnyöket ered
 f) Magyarország nemzetközi sportdiplomáciai kapcsolatainak szélesítését és mélyítését,
 
 g) a járulékos pozitív gazdasági, kulturális és turisztikai hatások érvényesülését.
+
+[^2]: A 2. § az 553/2021. (IX. 28.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

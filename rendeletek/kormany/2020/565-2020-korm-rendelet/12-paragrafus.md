@@ -4,11 +4,11 @@ a) az elérni kívánt sportszakmai, sportágfejlesztési célok és előnyök m
 
 b) a sportdiplomáciai és kommunikációs célok részletes, konkrét és ellenőrizhető rögzítését és az ezek elérésére kidolgozott cselekvési tervet,
 
-c) az adott esemény és az arra való felkészülés részletes költségtervét és részletes beszerzési tervét, az engedélyeztetési eljárások bemutatását,
+c)[^10] az adott esemény és az arra való felkészülés részletes, a Nemzeti Kommunikációs Hivatallal egyeztetett költségtervét és részletes beszerzési tervét, az engedélyeztetési eljárások bemutatását,
 
 d) az esemény megszervezésének és lebonyolításának organigramját, a vezetői pozíciók és hatáskörök bemutatását,
 
-e) az esemény szponzorációs tervét, a szponzoráció formáit és céljait, a lehetséges legfontosabb szponzorok gazdasági ágazatait, az együttműködésre felkérendő szponzorok listáját, szponzori szándéknyilatkozatokat,
+e)[^11] az esemény Nemzeti Kommunikációs Hivatallal egyeztetett szponzorációs tervét, a szponzoráció formáit és céljait, a lehetséges legfontosabb szponzorok gazdasági ágazatait, az együttműködésre felkérendő szponzorok listáját, szponzori szándéknyilatkozatokat,
 
 f) a sportesemény megrendezése tekintetében alkalmazni kívánt biztosítási koncepció és a megkötendő biztosítások bemutatását.
 
@@ -18,6 +18,10 @@ f) a sportesemény megrendezése tekintetében alkalmazni kívánt biztosítási
 
 (4) Ha a kormánybiztos – a 6. § (2) bekezdése szerint – előírta a sportügynökség részvételét a pályázat folyamatában, a kérelmező a sportesemény stratégia kidolgozásába a sportügynökséget köteles bevonni.
 
-(5) A kérelmező személyétől függetlenül a sportesemény stratégia az érintett sportszövetség és a sportügynökség által elfogadott tartalommal nyújtható be. A támogatási kérelemhez mellékelt sportesemény stratégiát ennek megfelelően a kérelmező, az érintett sportszövetség és a sportügynökség köteles aláírni. Ha a sportügynökség nem vesz részt a sportesemény stratégia kidolgozásában, annak a sportügynökség általi véleményezésére és jóváhagyására legalább tizenöt napot kell biztosítani.
+(5)[^12] A kérelmező személyétől függetlenül a sportesemény stratégia az érintett sportszövetség, a sportügynökség és a Nemzeti Kommunikációs Hivatal által elfogadott tartalommal nyújtható be. A támogatási kérelemhez mellékelt sportesemény stratégiát ennek megfelelően a kérelmező, az érintett sportszövetség és a sportügynökség köteles aláírni. Ha a sportügynökség nem vesz részt a sportesemény stratégia kidolgozásában, annak a sportügynökség általi véleményezésére és jóváhagyására legalább tizenöt napot kell biztosítani.
 
 (6) A benyújtott sportesemény stratégiát a kormánybiztos véleményezés céljából megküldi a sportpolitikáért felelős miniszter részére. A benyújtott sportesemény stratégiát a kormánybiztos megvizsgálja, és ha azt nem tartja megfelelőnek, annak kiegészítését, illetve átdolgozását írja elő. A támogatási szerződés csak azt követően köthető meg, hogy a sportesemény stratégiát a kormánybiztos jóváhagyta.
+
+[^10]: A 12. § (1) bekezdés c) pontja az 553/2021. (IX. 28.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^11]: A 12. § (1) bekezdés e) pontja az 553/2021. (IX. 28.) Korm. rendelet 3. § h) pontja szerint módosított szöveg.
+[^12]: A 12. § (5) bekezdése az 553/2021. (IX. 28.) Korm. rendelet 3. § i) pontja szerint módosított szöveg.

@@ -30,7 +30,7 @@ i) külföldön megrendezendő magyar sportdiplomáciai esemény; valamint
 
 j) olyan egyéb jelentős esemény, amelynek megpályázása, illetve megrendezése tekintetében a Kormány egyedi határozattal e rendelet szabályait rendeli alkalmazni
 
-## kiemelt nemzetközi sport- és sportdiplomáciai eseménynek (a továbbiakban: esemény) minősül.
+kiemelt nemzetközi sport- és sportdiplomáciai eseménynek (a továbbiakban: esemény) minősül.
 
 (2) E rendelet hatálya a költségvetési támogatással (a továbbiakban: támogatás) megrendezendő esemény megrendezésének megpályázására és megrendezésére, valamint az ilyen eseményhez nyújtott támogatásra terjed ki.
 
