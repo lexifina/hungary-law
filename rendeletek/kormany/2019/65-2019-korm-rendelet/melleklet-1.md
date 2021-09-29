@@ -1,4 +1,4 @@
-## 9. §[^11] E rendeletnek a sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2019. (III. 27.) Korm. rendelet módosításáról szóló 227/2021. (V. 4.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1/B. §-át, 2. §-át, 3. §-át és 2. mellékletében foglalt táblázat 6. sorát a Módr3. hatálybalépésekor[^12] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^15] E rendeletnek a sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2019. (III. 27.) Korm. rendelet módosításáról szóló 552/2021. (IX. 28.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 3/B. §-át, 3/C. §-át és 2. mellékletében foglalt táblázat 5. sorát a Módr4. hatálybalépésekor[^16] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 65/2019. (III. 27.) Korm. rendelethez
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^11]: A 9. §-t a 227/2021. (V. 4.) Korm. rendelet 2. §-a iktatta be.
-[^12]: A hatálybalépés időpontja 2021. május 5.
+[^15]: A 10. §-t az 552/2021. (IX. 28.) Korm. rendelet 2. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2021. szeptember 29.
