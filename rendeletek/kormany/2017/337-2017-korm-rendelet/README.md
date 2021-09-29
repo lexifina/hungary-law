@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-337-20-
 | 2020-07-01 | 2017-337-20-22.7 | 252/2020. (V. 29.) Korm. rendelet |
 | 2021-01-01 | 2017-337-20-22.8 | 686/2020. (XII. 29.) Korm. rendelet |
 | 2021-04-21 | 2017-337-20-22.9 | 183/2021. (IV. 16.) Korm. rendelet |
+| 2021-09-29 | 2017-337-20-22.10 | 530/2021. (IX. 14.) Korm. rendelet |
