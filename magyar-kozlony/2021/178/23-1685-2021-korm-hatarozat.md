@@ -1,0 +1,39 @@
+# A Kormány 1685/2021. (IX. 29.) Korm. határozata
+
+Magyar Közlöny 2021. évi 178. szám, 2021. szeptember 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/fbwUWgwp38hmhGErkgwa614b8d3e3d14d/dokumentumok/aa62fda03c5212248232365a0b4a087e46533968/letoltes)
+
+---
+
+A Kormány 1685/2021. (IX. 29.) Korm. határozata
+a csepeli Jedlik Ányos Gimnázium fejlesztésével kapcsolatos intézkedésekről
+A Kormány az egyes csepeli és soroksári fejlesztések megvalósításához szükséges források biztosításáról szóló 2057/2017.
+(XII. 27.) Korm. határozatban foglaltak végrehajtása érdekében
+1. egyetért a csepeli Jedlik Ányos Gimnázium teljes körű felújításának (a továbbiakban: Felújítás) az állami
+magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja
+és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő további előkészítésével és
+megvalósításával, az ingatlan-nyilvántartás szerinti Budapest belterület, 208395 helyrajzi számú ingatlanon;
+2. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert és az emberi erőforrások miniszterét, hogy
+az 1. pontban foglaltak végrehajtása érdekében Budapest XXI. Kerület Csepel Önkormányzatával (a továbbiakban:
+Önkormányzat) együttműködve gondoskodjanak a Felújítás előkészítése és megvalósítása folyamatban lévő
+feladatainak az Önkormányzat és a Beruházási Ügynökség közötti átadás-átvételéről;
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+emberi erőforrások minisztere
+Határidő: folyamatos
+3. a 2. pontban foglaltakkal összhangban felkéri az Önkormányzatot a Felújítás további előkészítésére és
+megvalósítására irányuló vállalkozási szerződés aláírására, majd ezt követően az átadás-átvételi eljárás
+megkezdésére;
+4. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az Önkormányzat részére a Felújítás céljára
+biztosított központi költségvetési forrásokkal való, az Önkormányzat részéről történő elszámolásról és a fel nem
+használt, valamint a nem rendeltetésszerűen felhasznált források visszafizettetéséről;
+Felelős: emberi erőforrások minisztere
+Határidő: 2021. október 31.
+5. egyetért a Dél-Pesti Tankerületi Központ új székhelyen történő elhelyezéséhez szükséges ingatlan-felújítási
+munkák elvégzésével, és annak finanszírozása érdekében felhívja a pénzügyminisztert, hogy az emberi erőforrások
+minisztere kezdeményezése alapján gondoskodjon 228 600 000 forint forrás biztosításáról a Magyarország 2021. évi
+központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet,
+18. Klebelsberg Központ cím javára.
+Felelős: pénzügyminiszter
+emberi erőforrások minisztere
+Határidő: a felmerülés ütemében
+ Orbán Viktor s. k.,
+ miniszterelnök
