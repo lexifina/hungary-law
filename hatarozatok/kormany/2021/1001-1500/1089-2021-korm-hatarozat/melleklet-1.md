@@ -2,7 +2,7 @@
 
 ## a) a nyíregyházi stadion beruházás (a továbbiakban: Beruházás) előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Nyíregyháza belterület 1391/2 és 1391/2/A helyrajzi számú ingatlanokon azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek,
 
-## b) a Beruházáshoz kapcsolódó egyéb szabadidős és sportcélú fejlesztések (a továbbiakban: Fejlesztések) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Nyíregyháza belterület 1391/1 és 1391/4 helyrajzi számú ingatlanokon;
+## b)[^1] a Beruházáshoz kapcsolódó egyéb szabadidős és sportcélú, valamint közműfejlesztéseknek (a továbbiakban együtt: Fejlesztések) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével és megvalósításával az ingatlan-nyilvántartás szerinti Nyíregyháza belterület 1390/1, 1391/1, 1391/3 és 1391/4 helyrajzi számú ingatlanokon;
 
 ## 2. a Beruházás és a Fejlesztések előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 19 194 668 659 forintban határozza meg;
 
@@ -77,3 +77,5 @@
 | 607 695 000 | 607 695 000 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont b) alpontja az 1688/2021. (IX. 29.) Korm. határozattal megállapított szöveg.
