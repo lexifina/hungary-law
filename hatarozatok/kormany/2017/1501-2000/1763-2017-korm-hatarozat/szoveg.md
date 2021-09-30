@@ -8,7 +8,7 @@ Felelős: a miniszterelnök általános helyettese
 
 külgazdasági és külügyminiszter
 
-Határidő: 2021. december 31.
+Határidő: 2022. december 31.
 
 3. felhívja a nemzetgazdasági minisztert, hogy a Program második üteme római katolikus és görögkatolikus óvodafejlesztési terveinek megvalósítása érdekében gondoskodjon a 2017. évben szükséges 6 075 073 000 forint költségvetési forrás biztosításáról a Magyarország 2017. évi központi költségvetésről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet LXV. Bethlen Gábor Alap fejezetben;
 
@@ -42,4 +42,4 @@ Határidő: a 2017. év vonatkozásában 2017. november 15.
 
 a 2018. év vonatkozásában 2018. január 31.
 
-[^1]: A 2. pont az 1602/2019. (X. 16.) Korm. határozat 7. pontjával megállapított, az 1176/2020. (IV. 23.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1602/2019. (X. 16.) Korm. határozat 7. pontjával megállapított, az 1692/2021. (IX. 30.) Korm. határozat 4. pontja szerint módosított szöveg.
