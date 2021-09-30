@@ -1,0 +1,1 @@
+## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a baráti kapcsolatokról és a stratégiai partnerségi együttműködésről szóló szerződés (a továbbiakban: Szerződés) kötelező hatályának elismerésére.
