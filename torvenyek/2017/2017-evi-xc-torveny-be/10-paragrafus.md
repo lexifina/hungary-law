@@ -50,7 +50,9 @@ c) a tanú segítőjeként,
 
 d) pártfogó ügyvédként,
 
-e) ügygondnokként
+e) ügygondnokként,
+
+f) a magánvádló képviseletében
 
 jár el;
 

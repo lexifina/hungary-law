@@ -14,7 +14,7 @@ szabadságvesztéssel büntetendő bűncselekmény miatt van folyamatban eljár�
 
 (2) Az (1) bekezdés nem alkalmazható,
 
-a) ha a terhelttel szemben életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt van folyamatban eljárás,
+a)
 
 b) az ügydöntő határozat kihirdetése után elrendelt vagy fenntartott letartóztatás esetén,
 

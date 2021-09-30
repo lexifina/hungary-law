@@ -1,6 +1,6 @@
 ## A bíróság feladatai az elsőfokú bírósági eljárás előtt
 
-768. § (1) Ha a 766–767. §-ban felsorolt intézkedések megtétele nem indokolt, vagy azokat a bíróság vagy az ügyészség elvégezte, a bíróság az érintett személyek személyes meghallgatása érdekében ülést (a továbbiakban: személyes meghallgatás) tart, amelyen a sértett és a feljelentett, valamint ha az ügyészség a vád képviseletét átvette, az ügyész jelenléte kötelező. Ha az ügyben több sértett van, a személyes meghallgatáson valamennyi sértett jelenléte kötelező. A személyes meghallgatáson a sértett képviselője jelen lehet.
+768. § (1) Ha a 766–767. §-ban felsorolt intézkedések megtétele nem indokolt, vagy azokat a bíróság vagy az ügyészség elvégezte, a bíróság az érintett személyek személyes meghallgatása érdekében ülést (a továbbiakban: személyes meghallgatás) tart, amelyen törvény eltérő rendelkezése hiányában a sértett és a feljelentett, valamint ha az ügyészség a vád képviseletét átvette, az ügyész jelenléte kötelező. Ha az ügyben több sértett van, a személyes meghallgatáson valamennyi sértett jelenléte kötelező. A személyes meghallgatáson a sértett képviselője jelen lehet.
 
 (1a) A feljelentettre a bűncselekmény elkövetésével megalapozottan gyanúsítható személy jogaira és kötelezettségeire vonatkozó szabályokat kell megfelelően alkalmazni. A személyes meghallgatáson a védő jelenléte nem kötelező.
 
