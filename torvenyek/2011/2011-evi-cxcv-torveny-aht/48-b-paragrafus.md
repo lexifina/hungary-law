@@ -21,3 +21,5 @@ c) a családtámogatásokra, és
 d) a természetes személyeknek a méltánylást igénylő élethelyzetükre figyelemmel, továbbá jövedelmük pótlása, illetve kiegészítése érdekében rászorultsági alapon nyújtott egyéb szociális pénzbeli, természetbeni és személyes jellegű ellátásokra.
 
 (3) Az (1) bekezdés e) pontja alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
+
+(4) Az (1) bekezdés b)–e) pontját nem kell alkalmazni a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.

@@ -50,6 +50,8 @@ d) ha törvény vagy kormányrendelet meghatározott pénzeszközök kezelését
 
 e) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány megbízása esetén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány számára, valamint ha a közfeladatot ellátó közérdekű vagyonkezelő alapítvány közfeladatként felsőoktatási tevékenységet végez, megbízása esetén az általa fenntartott felsőoktatási intézménye számára is.
 
+f) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság megbízása esetén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány tulajdonában álló, illetve a közfeladatot ellátó vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény tulajdonában álló nonprofit gazdasági társaság számára.
+
 (4b) A kincstár a 4/A. § (5) bekezdése szerinti pénzeszközök elkülönítésére letéti és más sajátos elszámolási, lebonyolítási számlákat vezethet.
 
 (4c) Ha a helyi önkormányzat, helyi nemzetiségi önkormányzat, társulás 84. § (1) bekezdése szerinti fizetési számláját nem a kincstár vezeti, a 84. § (1) bekezdése szerinti fizetési számlája mellett az 51. § (4) bekezdése szerinti költségvetési támogatások fogadására a kincstárnál fizetési számlát vezethet.

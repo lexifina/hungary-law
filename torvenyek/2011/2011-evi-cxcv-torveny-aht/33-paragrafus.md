@@ -30,7 +30,7 @@ b) fejezetek közötti előirányzat-átcsoportosításra az érintett fejezetet
 
 kerülhet sor.
 
-(4a) A (3) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
+(4a) A (3) bekezdés szerinti előirányzat-átcsoportosítás – a közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával, költségvetési szervek alapításával, átalakításával vagy megszüntetésével, valamint a költségvetési szervek részére biztosított, a Kormány rendeletében meghatározott mérték szerinti költségvetési támogatásokkal kapcsolatos előirányzat-átcsoportosítás kivételével – nem irányulhat a személyi juttatások költségvetési kiadási előirányzatai növelésére.
 
 (4b) Az államháztartásért felelős miniszter előzetes hozzájárulására van szükség a Kormány irányítása alá tartozó fejezeten belüli, (3) bekezdés szerinti előirányzat-átcsoportosításhoz, ha az a központi költségvetés előirányzat-módosítási kötelezettség nélkül túlteljesíthető előirányzatai terhére történik.
 
