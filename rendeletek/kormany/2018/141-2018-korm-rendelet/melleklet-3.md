@@ -160,6 +160,8 @@
 
 | 73. | Ingatlanfejlesztésre irányuló beruházás Budapest XIII. kerületében | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25872/3 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^191]
+| 74. | Logisztikai és szolgáltató központ létrehozására irányuló beruházás Dunaharaszti külterületén | Dunaharaszti külterület 0170/2, 0170/3, 0170/4, 0170/5, 0172/3, 0172/4 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^191]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^193]
+
+[^193]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

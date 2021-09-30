@@ -1,4 +1,4 @@
-## 68. §[^187] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 523/2021. (IX. 6.) Korm. rendelettel (a továbbiakban: Módr60.) megállapított 3. § (4) bekezdését, 4. § (1) és (2) bekezdését, 6/S. §-át és a 2. mellékletben foglalt táblázat 73. sorát a Módr60. hatálybalépésekor[^188] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 69. §[^189] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 557/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr61.) megállapított 2. mellékletben foglalt táblázat 74. sorát a Módr61. hatálybalépésekor[^190] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^189] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^191] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^187]: A 68. §-t az 523/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
-[^188]: A hatálybalépés időpontja 2021. szeptember 9.
-[^189]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^189]: A 69. §-t az 557/2021. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
+[^190]: A hatálybalépés időpontja 2021. szeptember 30.
+[^191]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
