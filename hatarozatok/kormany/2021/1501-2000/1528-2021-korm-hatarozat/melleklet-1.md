@@ -18,7 +18,7 @@
 
 ## Határidő: azonnal
 
-## 5. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 6 301 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
+## 5.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 6 301 000 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 3. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -34,7 +34,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2021. december 31., a Bethlen Gábor Alap fejezet részére átcsoportosított 5 000 000 000 forint tekintetében 2022. december 31.
 
 ## 6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 1 786 054 000 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint.
 
@@ -57,3 +57,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1528/2021. (VIII. 2.) Korm. határozathoz
+
+[^1]: Az 5. pont az 1692/2021. (IX. 30.) Korm. határozat 12. pontja szerint módosított szöveg.
