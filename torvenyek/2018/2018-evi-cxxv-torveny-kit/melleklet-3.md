@@ -135,13 +135,3 @@
 ## 23. versenytilalmi korlátozásra vonatkozó információk
 
 ## 24. kötelező és önkéntes elhatározás alapján teljesített képzésre vonatkozó információk
-
-## 25. kártérítés, fegyelmi felelősségre vonatkozó adatok
-
-## 26.
-
-## 27. vagyonnyilatkozat tételi kötelezettségre vonatkozó adatok
-
-## 28. nemzetbiztonsági ellenőrzés előírása, eredménye
-
-## 29. tárgyi ellátmány adatai (gépkocsi, számítógép stb.)
