@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1178-30
 | --- | --- | --- |
 | 2021-04-14 | 2021-1178-30-22.1 | 1178/2021. (IV. 14.) Korm. határozat |
 | 2021-04-15 | 2021-1178-30-22.2 | 2010: CXXX. törvény |
+| 2021-09-30 | 2021-1178-30-22.3 | 1692/2021. (IX. 30.) Korm. határozat |

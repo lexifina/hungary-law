@@ -8,7 +8,7 @@
 
 ## jogcímmel történő kiegészítését;
 
-## 1.2. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 8 158 085 143 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
+## 1.2.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 8 158 085 143 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -26,7 +26,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2021. december 31., a Bethlen Gábor Alap fejezet részére átcsoportosított 2 520 245 143 forint tekintetében 2022. december 31.
 
 ## 1.3. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 74 394 060 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 2. melléklet szerint;
 
@@ -62,8 +62,9 @@
 
 ## 1.8. egyetért azzal, hogy a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő előirányzat-átcsoportosításról szóló 1028/2021. (II. 5.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 16. Nemzeti Népegészségügyi Központ cím javára átcsoportosított 80 732 870 000 forintból 803 000 000 forint a XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külképviseletek igazgatása címen, a K3 Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 2.[^1]
+## 2.[^2]
 
 1. melléklet az 1178/2021. (IV. 14.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. alpontja az 1692/2021. (IX. 30.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
