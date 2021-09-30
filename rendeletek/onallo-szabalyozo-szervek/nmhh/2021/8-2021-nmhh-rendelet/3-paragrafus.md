@@ -1,5 +1,3 @@
-## 2. § Az R. 5. § c) pontja helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## (A Hivatal)
-
-## „c) lefolytatja a nem polgári célú rádióspektrum-gazdálkodás körébe tartozó rádiótávközlő rendszer működésének, rádióspektrum-használatának, a rádióberendezés belföldi forgalomba hozatalának hatósági ellenőrzési eljárásait,”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
