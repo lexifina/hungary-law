@@ -1,0 +1,3 @@
+20. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/I. §-sal egészül ki:
+
+„111/I. § E törvénynek a felsőoktatási intézmények versenyképes működését elősegítő szabályokról, valamint egyes vagyongazdálkodási, kormányzati igazgatási és büntetőjogi tárgyú törvények módosításáról szóló 2021. évi CIII. törvénnyel (a továbbiakban: Módtv2.) megállapított 48/B. § (4) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
