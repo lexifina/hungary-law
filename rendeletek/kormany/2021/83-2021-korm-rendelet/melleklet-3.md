@@ -102,6 +102,8 @@
 
 | 50. | A Magyar Nemzeti Bank székházának felújítása, átalakítása és bővítése | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 24746 helyrajzi számú ingatlan és az ingatlanhoz kapcsolódó, Budapest V. kerület, belterület 24780, 24745, 24747/1, 24747/2 és 24625 helyrajzi szám alatti közterületek. | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^89]
+| 51. | Nitril orvosi vizsgálókesztyű gyártására alkalmas gépsorok befogadására alkalmas ipari üzemcsarnok kialakítása | Mátészalka belterület 544/83 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^89]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^91]
+
+[^91]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
