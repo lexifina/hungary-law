@@ -1,0 +1,197 @@
+# A Kormány 560/2021. (IX. 30.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 179. szám, 2021. szeptember 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/mRErsYJDBjs1wnPoIqqN614dfd63e9c32/dokumentumok/ef51ecbcab57685aecf68ab3eda3300b52113a58/letoltes)
+
+---
+
+A Kormány 560/2021. (IX. 30.) Korm. rendelete
+a veszélyhelyzetre tekintettel a gyermeket nevelő magánszemélyek adóvisszatérítéséről
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+a 10. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A családi kedvezményre jogosult magánszemélyek többlet személyi jövedelemadó kedvezménye
+1. § (1) Ha a magánszemély a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 29/A. §
+(3) bekezdése szerint – figyelemmel az Szja tv. 29/B. § (5) bekezdésére is – a 2021. év bármely napján családi
+kedvezményre jogosult, akkor is, ha a családi kedvezményt nem veszi igénybe, vagy nem ő veszi igénybe
+(a továbbiakban: magánszemély), az Szja tv. szerinti összevont (az adóalap-kedvezmények levonása után
+megállapított) adóalapja 2021. évi adójának az adókedvezmények levonása utáni részét a (2) bekezdés szerinti
+értékhatárig nem köteles megfizetni (a továbbiakban: kedvezmény).
+(2) A kedvezmény összege legfeljebb a 2020. év december hónapjára a Központi Statisztikai Hivatal által a teljes
+munkaidőben alkalmazásban állók tekintetében közzétett nemzetgazdasági szintű bruttó havi átlagkereset
+tizenkétszeresének az adó Szja tv. 8. § (1) bekezdése szerinti százaléka, ezer forintra kerekítve.
+(3) A kedvezmény összege ezer forint, ha a magánszemély összevont (az adóalap-kedvezmények levonása után
+megállapított) adóalapja 2021. évi adójának az adókedvezmények levonása utáni része legalább egy forint,
+de az ezer forintot nem éri el.
+(4) A kedvezményt az állami adó- és vámhatóság az Szja tv. 12/B. §-a szerinti, az adóhatóság által elkészített bevallási
+tervezetben (a továbbiakban: bevallási tervezet) érvényesíti, ha a rendelkezésére álló adatokból [ideértve
+a magánszemély (6) bekezdés szerinti nyilatkozatát és a 2. § (1) bekezdés a) pontja szerinti adatszolgáltatás adatait is]
+a magánszemély jogosultsága megállapítható.
+(5) Ha a magánszemély a kedvezményt az adóhatóság közreműködése nélkül elkészített bevallásában (a továbbiakban:
+bevallás) veszi igénybe, vagy azt a bevallási tervezet nem tartalmazza, a bevallásban, a bevallási tervezet
+kiegészítésében feltünteti
+a) valamennyi olyan – az Szja tv. 29/A. § (4) bekezdése szerinti kedvezményezett eltartottnak minősülő –
+eltartott nevét és adóazonosító jelét, akire tekintettel a családi kedvezményre jogosult,
+b) ha a jogosultság magzatra tekintettel illeti meg, jogosultságának e jogcímét,
+c) a kedvezmény összegét és az annak kiutalásához szükséges adatokat (belföldi fizetési számlaszámát vagy
+postai utalási címét) és
+d) annak a magánszemélynek a nevét és adóazonosító jelét, aki ugyanarra a kedvezményezett eltartottra
+tekintettel jogosult családi kedvezményre.
+(6) A magánszemély a családi kedvezményre való jogosultságáról és az (1) bekezdés szerinti kedvezmény alapján
+az őt megillető adóvisszatérítés kiutalásának teljesítéséhez szükséges adatokról (belföldi fizetési számlaszám,
+postai utalási cím) 2021. december 31-ig elektronikus úton vagy papír alapon nyilatkozatot tehet az állami adó- és
+vámhatóságnak. A magánszemély a nyilatkozatban feltünteti
+a) nevét, adóazonosító számát,
+b) valamennyi olyan – az Szja tv. 29/A. § (4) bekezdése szerint kedvezményezett eltartottnak minősülő –
+eltartott nevét és adóazonosító jelét, akire tekintettel a családi kedvezményre jogosult,
+c) ha a jogosultság magzatra tekintettel illeti meg, jogosultságának e jogcímét és
+d) annak a magánszemélynek a nevét, adóazonosító jelét, aki ugyanarra a kedvezményezett eltartottra
+tekintettel jogosult családi kedvezményre.
+
+(7) A (6) bekezdés szerinti nyilatkozat megtételére előírt határidő elmulasztása a nyilatkozat megtétele tekintetében
+jogvesztő, azonban az (1) bekezdés szerinti kedvezményre való jogosultságot nem érinti.
+2. § (1) A kedvezményre az állami adó- és vámhatóság 2022. február 15-ig előleget utal ki abban az esetben, ha
+a) a magánszemély kedvezményre való jogosultsága az állami adó- és vámhatóság rendelkezésére álló
+adatok alapján megállapítható [ideértve a magánszemély 1. § (6) bekezdése szerinti nyilatkozatát
+és a veszélyhelyzetre tekintettel, a nemzetgazdaság stabilitásának fenntartása érdekében
+a személyijövedelemadó-bevallási tervezet összeállításához és a hatékony ellenőrzéshez szükséges adatokról
+szóló 470/2021. (VIII. 6.) Korm. rendelet (a továbbiakban: kormányrendelet) szerint az állami adó- és
+vámhatóság részére teljesített adatszolgáltatásokat is],
+b) a kiutalás teljesítéséhez szükséges adatok (belföldi fizetési számlaszám vagy postai utalási cím)
+a magánszemély 1. § (6) bekezdése szerinti nyilatkozata vagy a kormányrendelet szerinti adatszolgáltatás
+alapján rendelkezésre állnak, és
+c) a magánszemély az előleg kiutalásáig nem nyújtott be a 2021. évre vonatkozóan bevallást.
+(2) Ha a magánszemély 1. § (6) bekezdése szerinti nyilatkozata és a kormányrendelet szerinti adatszolgáltatások alapján
+a kiutaláshoz szükséges adatok (belföldi fizetési számlaszám, postai utalási cím) ellentmondanak egymásnak,
+az állami adó- és vámhatóság az 1. § (6) bekezdése szerinti nyilatkozat szerint teljesíti a kiutalást.
+(3) Az (1) bekezdés szerinti előleg összege a magánszemélytől a 2021. év tekintetében a kifizetők által levont
+személyi jövedelemadó előleg (a továbbiakban: szja előleg), de legfeljebb az 1. § (2) bekezdése és legalább az 1. §
+(3) bekezdése szerinti összeg.
+(4) Az (1) és (3) bekezdés szerint megállapított előleggel szemben az állami adó- és vámhatóság az adózás rendjéről
+szóló 2017. évi CL. törvény (a továbbiakban: Art.) 76. §-a szerinti visszatartási jogot nem gyakorolja. A kiutalt
+összeget az állami adó- és vámhatóság a bevallási tervezetben, a magánszemély a bevallásában a kifizetők által
+levont adóévi adóelőleget csökkentő tételként veszi figyelembe. Ha a kiutalt összeget a magánszemély bevallása
+a kifizetők által levont adóévi adóelőleget csökkentő tételként nem tartalmazza, a bevallást az állami adó- és
+vámhatóság az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 18. §-a szerint
+kijavítja.
+(5) Ha a magánszemély a kedvezményre jogosult, és bármely okból az állami adó- és vámhatóság a kedvezményre
+előleget nem utalt ki, a kedvezmény kiutalását az állami adó- és vámhatóság
+a) a bevallás benyújtását,
+b) ha a bevallás kijavítása szükséges, a bevallás kijavítását vagy
+c) a bevallási tervezet javítását, kiegészítését
+követően az Art.-nak a visszatérítendő adóra vonatkozó szabályai szerint teljesíti, ha a magánszemély ezt
+bevallásában, bevallási tervezetében kéri.
+3. §
+Az állami adó- és vámhatóság 2021. október 31-ig honlapján közzéteszi az 1. § (6) bekezdése és a 6. § (7) bekezdése
+szerinti nyilatkozat megtételének rendjére vonatkozó tájékoztatását.
+2. Rendelkezés a személyi jövedelemadó meghatározott részéről
+4. §
+A magánszemély az Szja tv. 45. §-a szerinti rendelkezési jogosultságát az 1. § (1) bekezdése szerint őt megillető
+kedvezmény figyelembevétele nélkül megállapított összeg tekintetében gyakorolhatja. Az 1. § (1) bekezdése szerinti
+kedvezmény után a rendelkezési jogosultság mértékével megállapított összeg költségvetési támogatásként illeti
+meg a kedvezményezettet.
+3. Az egyszerűsített közteherviselési hozzájárulás szabályai szerint közterhet fizető, gyermeket nevelő
+magánszemélyek kedvezménye
+5. § (1) Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény (a továbbiakban: Ekho tv.) szabályai
+szerint közterhet fizető, az Szja tv. 29/A. § (3) bekezdése szerint – figyelemmel az Szja tv. 29/B. § (5) bekezdésére is –
+a 2021. év bármely napján családi kedvezményre jogosult magánszemély, akkor is, ha a családi kedvezményt
+nem veszi igénybe, vagy nem ő veszi igénybe, a 2021. év tekintetében tőle levont egyszerűsített közteherviselési
+hozzájárulásnak (a továbbiakban: ekho) az Ekho tv. 9. §-a szerint személyi jövedelemadónak minősülő része
+(a továbbiakban: szja rész) tekintetében ekho-kedvezményre jogosult.
+
+(2) Az ekho-kedvezmény a magánszemélyt az 1. § (1) bekezdése szerinti kedvezményt követő sorrendben
+– a (3) bekezdés szerint – személyi jövedelemadó kedvezményként illeti meg, azzal, hogy ezek együttes összege
+nem haladhatja meg az 1. § (2) bekezdése szerinti értékhatárt.
+(3) A (2) bekezdés alapján megállapított ekho-kedvezmény összegét a 2021. év tekintetében a bevallásban,
+a bevallási tervezetben a kifizetők által levont szja előleget növelő tételként kell figyelembe venni.
+(4) A 2. § (1) bekezdése szerinti előleg részét képezi – a magánszemélytől a 2021. év tekintetében levont szja
+előleget követő sorrendben – a 2021. évben a magánszemélytől levont ekho szja-része, de összesen legfeljebb
+az 1. § (2) bekezdése szerinti összeg. Az előleg tekintetében a 2. § (3)–(5) bekezdése rendelkezéseit alkalmazni kell.
+(5) A magánszemély az 1. § (6) bekezdése szerinti nyilatkozatát abban az esetben is megteheti, ha kizárólag
+ekho-kedvezményre jogosult.
+4. A kisadózó vállalkozások tételes adója szerint közterhet fizető, gyermeket nevelő kisadózók
+kedvezménye
+6. § (1) A kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló 2012. évi CXLVII. törvény (a továbbiakban:
+Katv.) 7. §-a szerinti bejelentett kisadózó, ha a 2021. év bármely napján az Szja tv. 29/A. § (3) bekezdése
+– figyelemmel az Szja tv. 29/B. § (5) bekezdésére is – szerint családi kedvezményre lett volna jogosult, akkor
+a 2021. évre a rá tekintettel a kisadózó vállalkozást a Katv. 8. §-a szerinti összegben terhelő tételes adó 25 százalékának
+visszatérítésére jogosult a (3) bekezdés rendelkezése szerint (a továbbiakban: visszatérítés). A visszatérítés összegének
+kiszámításakor a veszélyhelyzet ideje alatt egyes gazdaságvédelmi intézkedésekről szóló 485/2020. (XI. 10.)
+Korm. rendelet szerint meg nem fizetett tételes adó összege nem vehető figyelembe.
+(2) Ha a kisadózó a 2021. évre az 1. § szerinti kedvezményre és az 5. § szerinti ekho-kedvezményre is jogosult,
+az e § szerinti visszatérítésre olyan összegben jogosult, hogy az e § szerinti visszatérítés, valamint az 1. § szerinti
+kedvezmény és az 5. § szerinti ekho-kedvezmény összege az 1. § (2) bekezdése szerinti értékhatárt ne haladja meg.
+Az e § szerinti visszatérítés az 1. § szerinti kedvezményt és az 5. § szerinti ekho-kedvezményt követő sorrendben
+vehető figyelembe.
+(3) A kisadózót az e § alapján megillető visszatérítés – az (5) bekezdés szerint – személyi jövedelemadó
+kedvezményként illeti meg.
+(4) A visszatérítés a kisadózó Katv. 10. § (1) bekezdése szerinti ellátásra való jogosultságát nem érinti.
+(5) Az (1) és (2) bekezdés alapján megállapított visszatérítés összegét a 2021. év tekintetében a bevallásban, a bevallási
+tervezetben a kifizetők által levont szja előleget növelő tételként kell figyelembe venni.
+(6) A 2. § (1) bekezdése szerinti előleg részét képezi – a magánszemélytől a 2021. év tekintetében levont szja előleget és
+a 2021. évben a magánszemélytől levont ekho szja-részét követő sorrendben – az (1) bekezdés szerinti visszatérítés,
+de összesen legfeljebb az 1. § (2) bekezdése szerinti összeg. Az előleg tekintetében a 2. § (3)–(5) bekezdése
+rendelkezéseit alkalmazni kell.
+(7) A kisadózó az őt megillető adóvisszatérítés kiutalásának teljesítéséhez 2021. december 31-ig elektronikus úton vagy
+papír alapon nyilatkozatot tehet az állami adó- és vámhatóságnak.
+A kisadózó a nyilatkozatban feltünteti
+a) nevét, adóazonosító számát,
+b) a kiutalás teljesítéséhez szükséges belföldi fizetési számlaszámát vagy postai utalási címét,
+c) valamennyi olyan – az Szja tv. 29/A. § (4) bekezdése szerint kedvezményezett eltartottnak minősülő –
+eltartott nevét és adóazonosító jelét, akire tekintettel a családi kedvezményre jogosult lett volna, valamint,
+ha a jogosultság magzatra tekintettel illette volna meg, akkor jogosultságának e jogcímét és
+d) annak a magánszemélynek a nevét, adóazonosító jelét, aki ugyanarra a kedvezményezett eltartottra
+tekintettel jogosult, vagy jogosult lenne a családi kedvezményre vagy az (1) bekezdés szerinti visszatérítésre.
+(8) Az állami adó- és vámhatóság a (7) bekezdés szerinti nyilatkozat alapján abban az esetben is elkészíti a kisadózó
+bevallási tervezetét, amely tartalmazza az e § szerinti visszatérítés összegét, ha a kisadózó egyébként személyi
+jövedelemadó bevallásra nem lenne köteles.
+(9) Ha a kisadózó a (7) bekezdés szerinti nyilatkozatot nem vagy késedelmesen nyújtja be, a visszatérítést
+– figyelemmel a (2), (3) és (5) bekezdés rendelkezéseire – bevallásában veheti igénybe abban az esetben is,
+ha személyi jövedelemadó bevallás benyújtására egyébként nem köteles. A bevallásban a kisadózó feltünteti
+a) a saját és az őt bejelentő kisadózó vállalkozás nevét (elnevezését), adóazonosító számát,
+b) a rá tekintettel a kisadózó vállalkozást a 2021. évre terhelő tételes adó összegét,
+c) a kiutalás teljesítéséhez szükséges belföldi fizetési számlaszámot vagy postai utalási címet,
+
+d) valamennyi olyan – az Szja tv. 29/A. § (4) bekezdése szerint kedvezményezett eltartottnak minősülő –
+eltartott nevét és adóazonosító jelét, akire tekintettel a családi kedvezményre jogosult lett volna,
+ha a jogosultság magzatra tekintettel illette volna meg, jogosultságának e jogcímét és
+e) annak a magánszemélynek a nevét, adóazonosító jelét, aki ugyanarra a kedvezményezett eltartottra
+tekintettel jogosult családi kedvezményre vagy az (1) bekezdés szerinti visszatérítésre.
+(10) A nyilatkozat megtételére előírt határidő elmulasztása a nyilatkozat megtétele tekintetében jogvesztő,
+az (1) bekezdés szerinti visszatérítésre való jogosultságot azonban nem érinti.
+5. Az elhunyt magánszemélyre tekintettel érvényesíthető kedvezmény, visszatérítés
+7. § (1) Az elhunyt magánszemély házastársa vagy örököse az adózó családi kedvezményre való jogosultságára tekintettel
+járó, az elhunyt magánszemélyt az 1. § szerint megillető kedvezmény és az 5. § szerint megillető ekho-kedvezmény,
+valamint a 6. § szerint megillető visszatérítés érvényesítését kérheti az adóhatóságtól, feltéve, hogy az elhunyt
+magánszemély az Szja tv. 29/A. § (3) bekezdése szerint a 2021. év bármely napján családi kedvezményre volt
+jogosult, vagy a 6. § szerinti visszatérítésre jogosultságot szerezhetett volna. A kérelemben foglaltakról az állami
+adó- és vámhatóság az Art. szerinti soron kívüli adómegállapítási eljárásban dönt, ideértve azt az esetet is,
+ha a kedvezmény, visszatérítés iránti kérelem benyújtására a soron kívüli adómegállapítási eljárás lezárását követően
+kerül sor.
+(2) Az (1) bekezdést a 2021. január 1-jén vagy ezt követően elhunyt magánszemélyt érintően indult soron kívüli
+adómegállapítási eljárásban kell alkalmazni. Ha e rendelet hatálybalépésekor folyamatban lévő eljárásokban
+az adó- és vámhatóság rendelkezésére álló adatok alapján az elhunyt magánszemélynek az 1. § szerinti
+kedvezményre és az 5. § szerinti ekho-kedvezményre, valamint a 6. § szerinti visszatérítésre való jogosultsága
+megállapítható, a kedvezményt, visszatérítést az adó- és vámhatóság a soron kívüli adómegállapítási eljárásban
+hivatalból figyelembe veszi.
+6. A kifizetők, adatszolgáltatásra kötelezettek feladataival kapcsolatos rendelkezések
+8. §
+A kifizető, az adatszolgáltatásra kötelezett személy
+a) az Szja tv. 44/B. § (8) bekezdésében, 65. § (2) bekezdésében, 65/B. § (3) bekezdés a) pontjában, 67/A. §
+(4) bekezdésében, 67/B. § (6) bekezdés b) pontjában, 74/A. § (3) bekezdés c) pontjában, 77/A. § (2) bekezdés
+i) és l) pontjában, (4) bekezdésében és (8) bekezdés a) pontjában, 77/B. § (7) és (9) bekezdésében és
+az 1. számú melléklet 8. pont 8.31. alpontjában és 9. pont 9.9. alpont 9.9.2. pontjában,
+b) az Ekho tv. 13. § (6) bekezdésében,
+c) az Art. 85. §-ában, 92. § (1) bekezdésében, 96. §-ában és 100. §-ában
+előírt adatszolgáltatási kötelezettségét a 2021. adóév tekintetében 2022. január 20-áig teljesíti.
+7. Záró rendelkezések
+9. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 10. § az e rendelet kihirdetését követő 15. napon lép hatályba.
+10. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát
+veszti.
+ Orbán Viktor s. k.,
+ miniszterelnök
