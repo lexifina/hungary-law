@@ -1,3 +1,3 @@
-## 18. § A három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló 337/2017. (XI. 14.) Korm. rendelet (a továbbiakban: R3.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 18. §[^19]
 
-## „(1) A második vagy további gyermek születésére vagy örökbefogadására tekintettel az e rendeletben meghatározott feltételekkel a központi költségvetésből vissza nem térítendő állami támogatás (a továbbiakban: támogatás) vehető igénybe a Magyarország területén lévő lakást, lakóházat, tanyát, birtokközpontot vagy építési tevékenység megvalósításának helyszínéül szolgáló telket, illetve annak tulajdoni hányadát (a továbbiakban együtt: ingatlan) terhelő lakáscélú jelzáloghitel-tartozás, illetve ilyen ingatlanhoz kapcsolódó lakáscélú pénzügyi lízingszerződés alapján fennálló tartozás csökkentése érdekében.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

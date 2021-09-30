@@ -1,3 +1,3 @@
-## „i) a 4. § (1a), illetve (2b) bekezdése szerinti feltételek fennállását házassági anyakönyvi kivonattal, valamint halotti anyakönyvi kivonattal”
+## 26. §[^27]
 
-## (kell igazolni.)
+[^27]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

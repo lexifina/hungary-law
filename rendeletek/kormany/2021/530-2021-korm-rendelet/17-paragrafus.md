@@ -1,11 +1,3 @@
-## lép.
+## 16. §[^17]
 
-## 17. § Hatályát veszti az R2.
-
-a) 7. § (3) bekezdésében a „vagy a támogatott személy” szövegrész,
-
-b) 39. § (1a) és (1b) bekezdése,
-
-c) 51/J. § (3) bekezdés f) pont fb) alpontja,
-
-d) 64. § (1) bekezdésében a „3. § (4) bekezdését,” szövegrész.
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

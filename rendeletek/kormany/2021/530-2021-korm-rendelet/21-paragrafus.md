@@ -1,5 +1,3 @@
-## 20. § Az R3. 4. § (1a) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+## 20. §[^21]
 
-## „(1a) Az olyan lakáscélú jelzáloghitel-szerződés vonatkozásában is igényelhető a támogatás, amelynél a szerződéses cél lakóépület építése vagy lakás vásárlása, azonban a támogatási kérelem benyújtásáig a lakóépület, a közös tulajdonban álló telken külön tulajdoni lapon nyilvántartott lakás, illetve a tulajdoni különlapon nyilvántartott társasházi vagy szövetkezeti házi lakás ingatlan-nyilvántartásba való bejegyzése még nem történt meg.
-
-## (2) A lakáscélú jelzáloghitel fedezetét képező ingatlanban az igénylőnek – együttes igénylés esetén az igénylőknek összesen – legalább 50%-os mértékű, az ingatlan-nyilvántartásban bejegyzett tulajdoni hányaddal kell rendelkeznie. Az (1a) bekezdés szerinti lakáscélú jelzáloghitel-szerződés esetén e feltételt teljesítettnek kell tekinteni, ha annak fedezetét közös tulajdonban álló telek képezi, amelyen az igénylőnek – vagy az együttes igénylőknek közösen – a tulajdoni hányada nem éri el az 50%-ot, de a támogatás megállapítását követő egy éven belül a telken olyan lakás vagy lakóház tulajdonjogát szerzi meg, amelyre vonatkozóan kizárólagos használati jogát igazolni tudja.”
+[^21]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

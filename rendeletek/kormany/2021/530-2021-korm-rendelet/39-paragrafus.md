@@ -1,9 +1,3 @@
-## lép.
+## 38. §[^39]
 
-## 39. § Hatályát veszti az R6.
-
-a) 2. § (1) bekezdés 6. pontja,
-
-b) 9. § (3) bekezdés f) pont fb) és fc) alpontja,
-
-c) 9. § (3) bekezdés i) pontja.
+[^39]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

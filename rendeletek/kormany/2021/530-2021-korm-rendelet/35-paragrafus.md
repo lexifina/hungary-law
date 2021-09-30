@@ -1,3 +1,3 @@
-## 34. § Az R6. 3. §-a a következő (6) bekezdéssel egészül ki:
+## 34. §[^35]
 
-## „(6) Ha az egyik szülő halála esetén a túlélő másik szülőnél a (3) vagy az (5) bekezdés szerinti feltételek nem állnak fenn, a túlélő szülő a támogatást egyedülállóként igénybe veheti akkor is, ha az elhunyt szülő halála a támogatási kérelem benyújtását megelőző egy éven belül következett be, és a (3) vagy az (5) bekezdés szerinti feltétel az elhunyt szülő tekintetében a halála napján vagy az azt megelőző három hónapos időszakon belül bármely időpontban teljesült, és a halál napján az együttes igénylés feltétele fennállt, amelyre nézve a túlélő szülő – a 9. § (3) bekezdés c) pontja szerinti okirat benyújtása helyett – teljes bizonyító erejű magánokiratba foglalt nyilatkozatot tehet.”
+[^35]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
