@@ -1,40 +1,38 @@
-## A Beruházások helyszínei
-
 |  | A |
 
-|  | Ingatlan helyrajzi száma |
+| 1. | Ingatlan |
 
-| 1. | Baja közigazgatási területén fekvő, 015/32, 015/33, 015/43 és 015/44 helyrajzi számú ingatlanok |
+| 2. | Baja közigazgatási területén fekvő külterület 015/44 helyrajzi számú ingatlan |
 
-| 2. | Balassagyarmat közigazgatási területén fekvő, 709/10 helyrajzi számú ingatlan |
+| 3. | Balassagyarmat közigazgatási területén fekvő belterület 709/14 helyrajzi számú ingatlan |
 
-| 3. | Berettyóújfalu közigazgatási területén fekvő, 72/1 helyrajzi számú ingatlan |
+| 4. | Berettyóújfalu közigazgatási területén fekvő belterület 72/5 helyrajzi számú ingatlan |
 
-| 4. | Hódmezővásárhely közigazgatási területén fekvő, 02050/11 helyrajzi számú ingatlan |
+| 5. | Makó közigazgatási területén fekvő, belterület 10405/16 és 10405/57 helyrajzi számú ingatlanok |
 
-| 5. | Kecskemét közigazgatási területén fekvő, 10208/5 helyrajzi számú ingatlan |
+| 6. | Kecskemét közigazgatási területén fekvő belterület 10208/21 helyrajzi számú ingatlan |
 
-| 6. | Kisvárda közigazgatási területén fekvő, 0306/52 helyrajzi számú ingatlan |
+| 7. | Kisvárda közigazgatási területén fekvő külterület 0306/52 helyrajzi számú ingatlan |
 
-| 7. | Körmend közigazgatási területén fekvő, 0286/52 és 0286/53 helyrajzi számú ingatlanok |
+| 8. | Körmend közigazgatási területén fekvő külterület 0286/52 és 0286/53 helyrajzi számú ingatlanok |
 
-| 8. | Nagykanizsa közigazgatási területén fekvő, 3795/7 helyrajzi számú ingatlan |
+| 9. | Nagykanizsa közigazgatási területén fekvő belterület 3795/7 helyrajzi számú ingatlan |
 
-| 9. | Újfehértó közigazgatási területén fekvő, 0174/24 helyrajzi számú ingatlan |
+| 10. | Újfehértó közigazgatási területén fekvő külterület 0174/174 helyrajzi számú ingatlan |
 
-| 10. | Pécs közigazgatási területén fekvő, 5291/4 helyrajzi számú ingatlan |
+| 11. | Pécs közigazgatási területén fekvő belterület 35551/6 helyrajzi számú ingatlan |
 
-| 11. | Sárospatak közigazgatási területén fekvő, 4087/13 helyrajzi számú ingatlan |
+| 12. | Sárospatak közigazgatási területén fekvő belterület 4087/13 helyrajzi számú ingatlan |
 
-| 12. | Szarvas közigazgatási területén fekvő, 4609 helyrajzi számú ingatlan |
+| 13. | Szarvas közigazgatási területén fekvő belterület 4609/1 helyrajzi számú ingatlan |
 
-| 13. | Szekszárd közigazgatási területén fekvő, 3787, 3786, valamint 3785 helyrajzi számú ingatlanok |
+| 14. | Szekszárd közigazgatási területén fekvő külterület 01650/15 helyrajzi számú ingatlan |
 
-| 14. | Székesfehérvár közigazgatási területén fekvő, 3901/2 számú ingatlan |
+| 15. | Székesfehérvár közigazgatási területén fekvő belterület 3521/25 helyrajzi számú ingatlan |
 
-| 15. | Szigetvár közigazgatási területén fekvő, 2099/1 és 2099/3 helyrajzi számú ingatlanok |
+| 16. | Szigetvár közigazgatási területén fekvő belterület 2099/8 és 2099/9 helyrajzi számú ingatlanok |
 
-| 16. | Zalaegerszeg közigazgatási területén fekvő, 2899/15 helyrajzi számú ingatlan |
+| 17. | Zalaegerszeg közigazgatási területén fekvő belterület 5028 helyrajzi számú ingatlan |
 
 2. melléklet a 479/2017. (XII. 28.) Korm. rendelethez
 

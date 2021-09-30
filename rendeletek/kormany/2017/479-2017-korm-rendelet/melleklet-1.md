@@ -1,6 +1,7 @@
-## 7. §[^5] E rendeletnek a sportcélú beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 223/2018. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át a Módr. hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^9] E rendeletnek a Honvédelmi Sportközpontok fejlesztése keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 479/2017. (XII. 28.) Korm. rendelet módosításáról szóló 556/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2/A. §-át, 2/B. §-át és 1. mellékletét a Módr2. hatálybalépésekor[^10] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 479/2017. (XII. 28.) Korm. rendelethez
+1. melléklet a 479/2017. (XII. 28.) Korm. rendelethez[^11]
 
-[^5]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 223/2018. (XI. 29.) Korm. rendelet 18. §-a iktatta be.
-[^6]: A hatálybalépés időpontja 2018. november 30.
+[^9]: A 8. §-t az 556/2021. (IX. 29.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2021. szeptember 30.
+[^11]: Az 1. melléklet az 556/2021. (IX. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
