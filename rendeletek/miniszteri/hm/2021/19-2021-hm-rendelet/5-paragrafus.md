@@ -1,3 +1,3 @@
-## 4. § Az R. 34. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „(3) Az illetményelőleg folyósítását a központi keret terhére az állományilletékes parancsnok engedélyezheti. Az illetményelőleget a külföldi szolgálat időtartama alatt, de legkésőbb a tárgyév december 5-ig kell visszafizetni.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

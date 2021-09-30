@@ -1,5 +1,3 @@
-## 2. § Az R. 30. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## (A tárgyhavi külszolgálati ellátmányt és átalány-költségtérítést)
-
-## „b) a külföldi szolgálat megszűnése vagy megszüntetése esetén a külföldi szolgálat vezénylési okmányban megállapított utolsó napját követő 7. napig kell az állomány tagja devizaszámlájára átutalni.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

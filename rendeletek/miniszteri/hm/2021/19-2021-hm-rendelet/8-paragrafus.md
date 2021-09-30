@@ -1,3 +1,3 @@
-## 7. § Az R. 53. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 7. §[^8]
 
-## „(1) Az állomány tagja kérelmére az illetékes pénzügyi ellátó szerv legfeljebb 500 EUR vagy annak megfelelő összegű USD ellátmányelőleget folyósít, legkorábban a külföldi szolgálat vezénylési okmányban megállapított első napját megelőző 30. napon, legkésőbb a kiutazást követő 5. napon.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 6. § Az R. 40. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^7]
 
-## „(3) Az (1) bekezdés szerinti külszolgálati ellátmány és családi átalány-költségtérítés előleg- és kölcsönlevonással nem terhelhető.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 8. § Az R. 29. alcím címe helyébe a következő alcím cím lép:
+## 8. §[^9]
 
-## „29. Előleg és kölcsön”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
