@@ -1,3 +1,1 @@
-13. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény 43. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. A kiskorút súlyosan veszélyeztető ok fennállása esetén az áldozatsegítő szolgálat a jelzéssel egyidejűleg hatósági eljárást kezdeményez. Ha az áldozatsegítő szolgálat hozzátartozók közötti erőszak veszélyét észleli, köteles jelzést tenni a családvédelmi koordinációért felelős szervnek.”
+13. §

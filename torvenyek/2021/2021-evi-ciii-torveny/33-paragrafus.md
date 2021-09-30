@@ -13,11 +13,3 @@ d) 53/A. § (5) bekezdésében a „készfizető kezesi” szövegrész helyébe
 e) 53/A. § (6) bekezdésében a „készfizető kezesség” szövegrész helyébe a „kezesség” szöveg
 
 lép.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
