@@ -2,7 +2,7 @@
 
 77. § (1) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg a belső szabályzat kötelező tartalmi elemeit, valamint a vagyon forrására vonatkozó nyilatkozat kötelező tartalmi elemeit.
 
-(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f), h–k) és n–r) pontjában meghatározott szolgáltatók tekintetében
+(2) Felhatalmazást kap a miniszter arra, hogy rendeletben állapítsa meg az 1. § (1) bekezdés f), h), j), k) és n)–r) pontjában meghatározott szolgáltatók tekintetében
 
 a) a belső kockázatértékelés elkészítésének szabályrendszerére,
 
@@ -43,6 +43,26 @@ g) a képzési programra,
 h) az ügylet felfüggesztésére
 
 i) i) a tényleges tulajdonos személyazonosságának megállapítása érdekében megteendő intézkedésekre
+
+vonatkozó részletszabályokat.
+
+(3a) Felhatalmazást kap a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke, hogy rendeletben állapítsa meg az 1. § (1) bekezdés i) pontjában meghatározott szolgáltatók tekintetében
+
+a) a belső kockázatértékelés elkészítésének szabályrendszerére,
+
+b) a belső ellenőrző és információs rendszer működtetésére,
+
+c) az egyszerűsített és a fokozott ügyfél-átvilágítás esetköreire és azok felügyeleti jóváhagyásának szabályaira,
+
+d) az auditált elektronikus hírközlő eszköz és működtetésének minimumkövetelményeire, auditálásának módjára, valamint az ilyen eszköz útján végzett ügyfél-átvilágítás végrehajtására,
+
+e) a megerősített eljárás esetköreire és feltételrendszerére,
+
+f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+
+g) a képzési programra,
+
+h) az ügylet felfüggesztésére
 
 vonatkozó részletszabályokat.
 
