@@ -38,8 +38,9 @@ k) a gyártástól az első kiskereskedelmi egységig valamennyi vásárló szá
 
 (9) A (8) bekezdés szerinti harmadik személy tevékenységét a dohánytermék gyártója által ajánlott és fizetett, az Európai Bizottság által jóváhagyott külső ellenőr ellenőrzi. A külső ellenőrnek éves jelentést kell benyújtania a vámhatóság és az Európai Bizottság részére, amelyben különösen a hozzáféréssel kapcsolatos szabálytalanságokat értékeli.
 
-(10) Az adattároló rendszerhez teljes hozzáférhetőségre jogosult a vámhatóság, az ND Nemzeti Dohánykereskedelmi Nonprofit Zrt., az Európai Bizottság és a külső ellenőr. Kellően indokolt esetben a vámhatóság a gyártók vagy importőrök számára hozzáférést biztosít ezekhez a tárolt adatokhoz, feltéve, hogy a kereskedelmi szempontból érzékeny információk továbbra is a vonatkozó jogszabályok által előírt megfelelő védelemben részesülnek.
+(10)[^37] Az adattároló rendszerhez teljes hozzáférhetőségre jogosult a vámhatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, az Európai Bizottság és a külső ellenőr. Kellően indokolt esetben a vámhatóság a gyártók vagy importőrök számára hozzáférést biztosít ezekhez a tárolt adatokhoz, feltéve, hogy a kereskedelmi szempontból érzékeny információk továbbra is a vonatkozó jogszabályok által előírt megfelelő védelemben részesülnek.
 
 (11) A rögzített adatokat a dohánytermékek kereskedelmében részt vevő gazdasági szereplő nem módosíthatja vagy törölheti.
 
 [^36]: A 6/G. §-t a 72/2018. (IV. 16.) Korm. rendelet 12. §-a iktatta be.
+[^37]: A 6/G. § (10) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.

@@ -106,10 +106,10 @@
 
 | 52 | Theobromin |
 
-5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^115]
+5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^116]
 
 Kombinált figyelmeztetések
 
 I. csoport
 
-[^115]: Az 5. melléklet az 507/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^116]: Az 5. melléklet az 507/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
