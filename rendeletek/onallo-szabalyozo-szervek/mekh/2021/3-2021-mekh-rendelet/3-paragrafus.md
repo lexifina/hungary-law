@@ -1,3 +1,1 @@
-3. §[^4]
-
-[^4]: A 3. § a 16. § (2) bekezdése alapján 2021. október 1-jén lép hatályba 6 órakor.
+## „11/B. § A földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak meghatározásának a 2021-ben induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 8/2020. (VIII. 14.) MEKH rendelet (a továbbiakban: Árszabályozási keretrendelet) szerinti feltételes kapacitásra a 12. § (2) bekezdésében, a 13. § (2) bekezdésében, a 14. § (2) bekezdésében, a 15. § (2) bekezdésében és a 16. § (2) bekezdésében foglaltak megfelelően alkalmazandók.”
