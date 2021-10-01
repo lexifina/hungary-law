@@ -1,4 +1,4 @@
-## 21. §[^43]
+## 21. §[^40]
 
 ## 6. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 11. § 9. pontja, a 15. § (1) bekezdés 2. és 5–7. pontja, valamint (2) bekezdés 2. pontja, a 4. melléklet, a 7–9. melléklet és a 11. melléklet 2022. január 1-jén lép hatályba.
 
-[^43]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

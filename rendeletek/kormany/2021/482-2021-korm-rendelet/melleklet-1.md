@@ -1,3 +1,1 @@
-1. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez[^44]
-
-[^44]: Az 1. melléklet a 22. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+1. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez
