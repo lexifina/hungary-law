@@ -24,7 +24,7 @@
 
 | 9. | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság | 01-10-042272 | 2022. december 31. |
 
-| 10. | ND Nemzeti Dohánykereskedelmi Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-047581 | 2022. december 31. |
+| 10. |  |  |  |
 
 | 11. | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság | 01-09-170224 | 2022. december 31. |
 
