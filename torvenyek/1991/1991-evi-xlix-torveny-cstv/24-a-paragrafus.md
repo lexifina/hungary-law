@@ -1,4 +1,4 @@
-24/A. § (1) A hitelező a felszámolási eljárás iránti kérelem benyújtásával egyidejűleg vagy azt követően a felszámolás kezdő időpontjáig kezdeményezheti, hogy a bíróság az adós gazdálkodásának felügyeletére a felszámolói névjegyzékből ideiglenes vagyonfelügyelőt rendeljen ki. A bíróság a kérelem elbírálása előtt az adóst meghallgathatja. Az ideiglenes vagyonfelügyelő kirendelésére a 27/A. § (1) bekezdésében foglaltakat kell alkalmazni.
+24/A. § (1) A hitelező a felszámolási eljárás iránti kérelem benyújtásával egyidejűleg vagy azt követően a felszámolás kezdő időpontjáig kezdeményezheti, hogy a bíróság a 27/A. § (1) bekezdésében foglaltak alkalmazásával az adós gazdálkodásának felügyeletére a felszámolói névjegyzékből ideiglenes vagyonfelügyelőt rendeljen ki. A bíróság a kérelem elbírálása előtt az adóst meghallgathatja. Az ideiglenes vagyonfelügyelő kirendelésére a 27/A. § (1) bekezdésében foglaltakat kell alkalmazni.
 
 (2) A bíróság haladéktalanul kirendeli az ideiglenes vagyonfelügyelőt – és erről a feleket rövid úton értesíti –, feltéve, hogy a kérelmet előterjesztő hitelező
 

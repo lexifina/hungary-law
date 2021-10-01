@@ -1,4 +1,4 @@
-24. § (1) Ha a felszámolási eljárás megindítását a hitelező kéri, a kérelemben meg kell nevezni az adós tartozásának jogcímét, a lejárat (esedékesség) időpontját és annak rövid ismertetését, hogy az adóst miért tartja fizetésképtelennek. A kérelemben foglaltak bizonyítására a szükséges iratokat – a 27. § (2) bekezdés a) pontja esetén az adós írásbeli felszólításának igazolását is – csatolni kell.
+24. § (1) Ha a felszámolási eljárás megindítását a hitelező kéri, a kérelemhez – ha ez rendelkezésre áll – csatolni kell az adós utoljára közzétett éves (egyszerűsített éves) beszámolóját, valamint a kérelemben meg kell nevezni az adós tartozásának jogcímét, a lejárat (esedékesség) időpontját és annak rövid ismertetését, hogy az adóst miért tartja fizetésképtelennek. A kérelemben foglaltak bizonyítására a szükséges iratokat – a 27. § (2) bekezdés a) pontja esetén az adós írásbeli felszólításának igazolását is – csatolni kell.
 
 (2) Ha a felszámolási eljárás lefolytatását a hitelező kérte, és a bíróság a kérelmet érdemi vizsgálat nélkül nem utasította el, a bíróság a kérelem benyújtásáról — a kérelem egy példányának megküldésével — haladéktalanul értesíti az adóst.
 

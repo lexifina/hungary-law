@@ -4,7 +4,7 @@
 
 a) a csődeljárás iránti kérelem benyújtására vonatkozó formanyomtatvány, továbbá az ahhoz csatolandó, az adós vagyoni helyzetét bemutató adatlap formáját, tartalmi elemeit,
 
-b) a csődeljárásban a vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének, valamint az elektronikus rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
+b)
 
 c) a Cégközlöny honlapján közzétételre kerülő végzések kivonatának kötelező tartalmi elemeit,
 
@@ -16,13 +16,7 @@ db) 54. cikke által előírt, az ismert hitelezők értesítésének kiegészí
 
 dc) 41–43. cikkében, 51. cikk (2) bekezdésében, 56–58. cikkében meghatározott együttműködés, kapcsolattartás és tájékoztatás részletes szabályait, a 2015/848 EU rendelet (48) preambulumbekezdésében hivatkozott szakmai ajánlások alapján,
 
-(6) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg
-
-a) a felszámolót a zálogtárgy értékesítésekor és a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait,
-
-b) a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus rendszer működésének, üzemeltetésének és ellenőrzésének szabályait,
-
-c) a felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat.
+(6)
 
 (7)
 

@@ -4,4 +4,4 @@
 
 (3) Az (1) és (2) bekezdés szerinti végzettséggel rendelkező személyek 2015. október 1-jétől legfeljebb három felszámolói tevékenységet folytató gazdasági társaságnál foglalkoztathatók.
 
-(4) A felszámolók névjegyzékét vezető szerv az (1) és (2) bekezdésben meghatározott jogszabályok szerinti felsőfokú végzettségre vonatkozó szakhatósági állásfoglalást szerezhet be.
+(4) A Hatóság az (1) és (2) bekezdésben meghatározott jogszabályok szerinti felsőfokú végzettségre vonatkozó szakhatósági állásfoglalást szerezhet be.

@@ -2,7 +2,7 @@
 
 (2) A felszámolási eljárásban a követelések bejelentésének a 46. § (5) bekezdés c) pontjában és 37. § (1)–(3) bekezdésében meghatározott jogvesztő határideje 120 nap.
 
-(3) A felszámolási eljárásban bejelentett követelések 46. § (6) bekezdése szerinti megvizsgálásának határideje 40 nap, és a vitatható követelések bíróság számára történő megküldésének határideje 10 nap. A bíróság a vitatható igények elbírálása tárgyában soron kívül dönt.
+(3) A felszámolási eljárásban bejelentett követelések 46. § (6) bekezdése szerinti megvizsgálásának határideje 40 nap, a vitatható követelések bíróság számára történő megküldésének határideje 10 nap. A bíróság a vitatható igények elbírálása tárgyában soron kívül dönt.
 
 (4) A stratégiailag kiemelt jelentőségű gazdálkodó szervezet felszámolása esetén a 38. § (5) bekezdést azzal az eltéréssel kell alkalmazni, hogy az óvadék jogosultjának közvetlen kielégítési joga érvényesítésére nyitva álló határidő két hónap.
 

@@ -36,4 +36,4 @@ d) amely nagy összegű állami szerkezetátalakítási támogatásban, hitelgar
 
 e) amely hulladékkezelési tevékenységet végez, vagy
 
-f) amely az a)–e) pont hatálya alá nem tartozó, de nemzetgazdasági stratégiai szempontból kiemelt jelentőségű tevékenységet folytat.
+f) amely az a)–e) pont hatálya alá nem tartozik, de nemzetgazdasági stratégiai szempontból kiemelt jelentőségű tevékenységet folytat.
