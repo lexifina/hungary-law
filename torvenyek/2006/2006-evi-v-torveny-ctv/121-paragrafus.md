@@ -1,4 +1,4 @@
-121. § (1) A vagyonrendezési eljárás lefolytatását elrendelő, a Cégközlönyben közzétett végzésben a bíróság – az eljárás tárgyát képező vagyontárgy megjelölésével – vagyonrendezőt rendel ki a felszámolók névjegyzékében szereplő felszámolók közül. A vagyonrendezőre vonatkozóan a Cstv.-ben a felszámoló szervezetre, illetve a felszámolóbiztosra irányadó összeférhetetlenségi szabályokat megfelelően alkalmazni kell.
+121. § (1) A vagyonrendezési eljárás lefolytatását elrendelő, a Cégközlönyben közzétett végzésben a bíróság – az eljárás tárgyát képező vagyontárgy megjelölésével vagyonrendezőt rendel ki a felszámolók névjegyzékében szereplő felszámolók közül, a Cstv. 27/A. § (1) bekezdésében foglaltak alkalmazásával. A vagyonrendezőre vonatkozóan a Cstv.-ben a felszámoló szervezetre, illetve a felszámolóbiztosra irányadó összeférhetetlenségi szabályokat alkalmazni kell.
 
 (2) A bíróság a végzésben felhívja a törölt cég volt hitelezőit, illetve tagjait, hogy a vagyontárgyra vonatkozó igényeiket a közzétételtől számított harminc napon belül a vagyonrendezőnek jelentsék be, illetve csatolják az igényt megalapozó okiratokat.
 
