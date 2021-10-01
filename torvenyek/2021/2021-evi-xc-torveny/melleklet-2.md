@@ -1,5 +1,3 @@
-## 1X05126.PDF
-
 2. melléklet a 2021. évi XC. törvényhez
 
 A települési önkormányzatok általános működésének és ágazati feladatainak támogatása
@@ -7,8 +5,6 @@ A települési önkormányzatok általános működésének és ágazati feladat
 I. Előirányzatok és támogatások
 
 |
-
-1a
 
 |
 
@@ -2834,8 +2830,6 @@ II. Támogatások megállapításának, felhasználásának és elszámolásána
 
 |
 
-1a
-
 |
 
 A
@@ -2854,8 +2848,6 @@ D
 
 |
 
-1b
-
 |
 
 Kategóriák az önkormányzat egy
@@ -2871,8 +2863,6 @@ Támogatáskiegészítés mértéke
 (%)
 
 |
-
-1c
 
 |
 
@@ -2956,8 +2946,6 @@ A-D = a kiegészítés mértékének számításakor alkalmazandó 2.2.2.1. pont
 
 |
 
-1a
-
 |
 
 A
@@ -2976,8 +2964,6 @@ D
 
 |
 
-1b
-
 |
 
 Lakosságszám
@@ -2987,8 +2973,6 @@ Lakosságszám
 Elismert köztisztviselői létszám
 
 |
-
-1c
 
 |
 
@@ -3350,8 +3334,6 @@ Kc = amennyiben a közös hivatal székhelye járási székhely önkormányzat, 
 
 |
 
-1a
-
 |
 
 A
@@ -3366,8 +3348,6 @@ C
 
 |
 
-1b
-
 |
 
 Közös önkormányzati hivatalt fenntartó
@@ -3381,8 +3361,6 @@ Ka korrekciós
 tényező
 
 |
-
-1c
 
 |
 
@@ -3732,23 +3710,23 @@ Op1; Op2 = az Nkt. 61. § (3) bekezdése alapján az intézmény alapító okira
 
 2021/2022. nevelési évre:
 
-## 2022/2023. nevelési évre:
+2022/2023. nevelési évre:
 
-## ahol:
+ahol:
 
-## Vk1; Vk2 = a 2021/2022., illetve a 2022/2023. nevelési évben a vezetői órakedvezményből adódó létszámtöbblet,
+Vk1; Vk2 = a 2021/2022., illetve a 2022/2023. nevelési évben a vezetői órakedvezményből adódó létszámtöbblet,
 
-## V1; V2 = az Nkt. 1. melléklete szerinti vezetők kötelező és a többcélú intézmény óvodai intézményegység-vezető létszáma, de legfeljebb
+V1; V2 = az Nkt. 1. melléklete szerinti vezetők kötelező és a többcélú intézmény óvodai intézményegység-vezető létszáma, de legfeljebb
 
-## - 2022. év első 8 hónapjában a 2021/2022. nevelési évi nyitó (októberi 1-jei) köznevelési statisztika szerint ténylegesen foglalkoztatott,
+- 2022. év első 8 hónapjában a 2021/2022. nevelési évi nyitó (októberi 1-jei) köznevelési statisztika szerint ténylegesen foglalkoztatott,
 
-## - 2022. év utolsó 4 hónapjában a 2022/2023. nevelési évi nyitó (októberi 1-jei) köznevelési statisztikai állapotra becsült
+- 2022. év utolsó 4 hónapjában a 2022/2023. nevelési évi nyitó (októberi 1-jei) köznevelési statisztikai állapotra becsült
 
-## vezetői létszám.
+vezetői létszám.
 
-## Az év végi elszámolás mindkét nevelési év tekintetében a köznevelési statisztikában szerepeltetett vezetői létszám alapján történik.
+Az év végi elszámolás mindkét nevelési év tekintetében a köznevelési statisztikában szerepeltetett vezetői létszám alapján történik.
 
-## Vi1; Vi2 = a V1 és V2 vezetői létszámra - az Nkt. 5. mellékletében - megállapított kötelező nevelési óraszámának, óvodai foglalkozásai számának összege.
+Vi1; Vi2 = a V1 és V2 vezetői létszámra - az Nkt. 5. mellékletében - megállapított kötelező nevelési óraszámának, óvodai foglalkozásai számának összege.
 
 15.3.3. Többcélú intézmény óvodai intézményegység-vezető intézményenként legfeljebb 1 fő létszámként vehető figyelembe, feltéve, hogy az intézménynek nem magasabb vezetője, vagy más az Nkt. 1. melléklet szerinti vezetője.
 
@@ -3958,8 +3936,6 @@ d) 30%-a a településen élő 60 év feletti lakosoknak az állandó lakosokon 
 
 |
 
-1a
-
 |
 
 A
@@ -3978,8 +3954,6 @@ D
 
 |
 
-1b
-
 |
 
 Kategóriák az önkormányzat egy lakosra
@@ -3993,8 +3967,6 @@ jutó iparűzési adóerő-képessége szerint
 Támogatási mérték (%)
 
 |
-
-1c
 
 |
 
@@ -4246,8 +4218,6 @@ JKLsz = adott évre elismert foglalkoztatottak számított kiegészítő létsz�
 
 |
 
-1a
-
 |
 
 A
@@ -4265,8 +4235,6 @@ C
 D
 
 |
-
-1b
 
 |
 
@@ -4346,11 +4314,11 @@ Komplex programmal fejlesztendő járás
 
 3 + [(Lj-35 000)/35 000]
 
-## EM = család- és gyermekjóléti központonként 1 fő szociális diagnózis felvételét végző esetmenedzser,
+EM = család- és gyermekjóléti központonként 1 fő szociális diagnózis felvételét végző esetmenedzser,
 
-## JFÖ = 1.3.2.2. Család- és gyermekjóléti központ jogcím szerinti fajlagos összeg,
+JFÖ = 1.3.2.2. Család- és gyermekjóléti központ jogcím szerinti fajlagos összeg,
 
-## FT = a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt intézmény esetében 10 460 000 Ft/engedélyes.
+FT = a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt intézmény esetében 10 460 000 Ft/engedélyes.
 
 26. 1.3.2.3. Szociális étkeztetés jogcím
 
@@ -4680,8 +4648,6 @@ Kszl = az alábbi táblázat szerinti szolgáltatásbiztosításához kapcsolód
 
 |
 
-1a
-
 |
 
 A
@@ -4691,8 +4657,6 @@ A
 B
 
 |
-
-1b
 
 |
 
@@ -5028,8 +4992,6 @@ Szt = személyi térítési díjakból származó bevétel elvárt éves összeg
 
 |
 
-1a
-
 |
 
 A
@@ -5039,8 +5001,6 @@ A
 B
 
 |
-
-1b
 
 |
 
@@ -5312,8 +5272,6 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 |
 
-1a
-
 |
 
 A
@@ -5332,8 +5290,6 @@ D
 
 |
 
-1b
-
 |
 
 Kategóriák az önkormányzat egy
@@ -5349,8 +5305,6 @@ Hozzájárulás mértéke a szolidaritási
 hozzájárulás alapjának százalékában
 
 |
-
-1c
 
 |
 

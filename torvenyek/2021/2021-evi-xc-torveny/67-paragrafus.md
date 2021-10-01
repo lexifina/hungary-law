@@ -1,1 +1,1 @@
-67. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 23. § (7) bekezdése szerinti deviza-illetményalap összege 2022. évben 440 000 forint, a 25. § (4) bekezdése szerinti lakhatási és vegyes költségtérítés-alap 325 000 forint, a gyermeknevelési költségtérítés-alap 250 000 forint.
+67. §

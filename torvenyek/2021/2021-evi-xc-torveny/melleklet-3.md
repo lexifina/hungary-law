@@ -6,8 +6,6 @@ I. Előirányzatok és támogatások
 
 |
 
-1a
-
 |
 
 Jogcímszám
