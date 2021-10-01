@@ -30,22 +30,12 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat]
+## 3.[^1]
 
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „179,49%-áig” szövegrész helyébe a „252,24%-áig” szöveg,
+## 4.[^2]
 
-## b) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében a „898,659” szövegrész helyébe az „1262,962” szöveg
+1. melléklet az 1677/2021. (IX. 29.) Korm. határozathoz[^3]
 
-## lép.
-
-## 4. Az 1247/2016. (V. 18.) Korm. határozat 2. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1677/2021. (IX. 29.) Korm. határozathoz
-
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 65.r sorral egészül ki:
-
-|  | (A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások) |
-
-| 65.r | IKOP-2.1.0-15 | Budapest-Kelenföld és Ferencváros vasútvonalszakasz kapacitásbővítésének építési munkái (Déli körvasút II. ütem) | NIF Zrt. (konzorciumvezető) és BFK Nonprofit Zrt. konzorciuma | 364,31 | Budapest-Kelenföld és Ferencváros vasútvonalszakasz 3 (egyes szakaszokon 4) vágányúsítása és rekonstrukciója Közvágóhíd és Nádorkert megállóhelyek létesítésével. |
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
