@@ -32,11 +32,11 @@ b) a rendészetért felelős miniszter képviselője,
 
 c) az igazságügyért felelős miniszter képviselője,
 
-d) a szerencsejáték-szervezés állami felügyeletéért felelős miniszter képviselője,
+d)[^1] a szerencsejáték szabályozásért felelős miniszter képviselője,
 
 e) a Szerencsejáték Zártkörűen Működő Részvénytársaság vezérigazgatójának képviselője,
 
-f) a Szerencsejáték Felügyelet elnökének képviselője,
+f)[^2] a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének képviselője,
 
 g) az általános rendőrségi feladatok ellátására létrehozott szerv vezetőjének képviselője.
 
@@ -65,3 +65,6 @@ emberi erőforrások minisztere
 Határidő: folyamatos
 
 12. Ez a határozat 2019. január 1-jén lép hatályba.
+
+[^1]: Az 5. pont d) alpontja az 1607/2021. (VII. 18.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont f) alpontja az 1607/2021. (VII. 18.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
