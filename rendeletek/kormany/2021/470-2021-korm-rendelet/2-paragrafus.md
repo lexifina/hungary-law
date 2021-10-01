@@ -1,10 +1,10 @@
 ## 1. § Az állami adó- és vámhatóság részére a személyijövedelemadó-bevallási tervezetek összeállítása, valamint az összevont adóalapot csökkentő, az összevont adóalap adójából igénybe vehető kedvezmények érvényesítésének ellenőrzése, a jogosulatlan igénybevétel visszaszorítása érdekében a 2. és 3. § szerinti szervek automatikus adatszolgáltatást teljesítenek.
 
-## 2. § Az adózás rendjéről szóló 2017. évi CL. törvényben (a továbbiakban: Art.) meghatározott adatszolgáltatásokon kívül a kincstár elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig azoknak a magánszemélyeknek az adatairól, akiknek a tárgyhónapban családi pótlékot folyósított. Az adatszolgáltatás tartalmazza
+2. §[^2] (1) Az adózás rendjéről szóló 2017. évi CL. törvényben (a továbbiakban: Art.) meghatározott adatszolgáltatásokon kívül a kincstár elektronikus úton adatot szolgáltat az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig azoknak a magánszemélyeknek az adatairól, akiknek a tárgyhónapban családi pótlékot folyósított. Az adatszolgáltatás tartalmazza
 
-a) a jogosult, az ellátásra jogosító gyermek természetes személyazonosító adatait, és ha rendelkezésre áll, az adóazonosító jelét;
+a) a jogosult, az ellátásra jogosító gyermek természetes személyazonosító adatait, Társadalombiztosítási Azonosító Jelét, és – ha az rendelkezésre áll – adóazonosító jelét;
 
-b) a jogosult házastársának, bejegyzett élettársának, élettársának természetes személyazonosító adatait és adóazonosító jelét, ha az rendelkezésre áll;
+b) a jogosult házastársának, bejegyzett élettársának vagy élettársának természetes személyazonosító adatait, Társadalombiztosítási Azonosító Jelét és – ha az rendelkezésre áll – adóazonosító jelét;
 
 c) a jogosult családi állapotára, élettársi kapcsolatára vonatkozó adatot;
 
@@ -12,4 +12,10 @@ d) az ellátásra jogosító gyermek tanulói, hallgatói jogviszonyának fenná
 
 e) a jogosult és az ellátásra jogosító gyermek lakó-, illetve tartózkodási helyére vonatkozó adatot;
 
-f) a jogosult házastársa, bejegyzett élettársa, élettársa lakó-, illetve tartózkodási helyére vonatkozóan rendelkezésre álló adatot.
+f) a jogosult házastársa, bejegyzett élettársa, élettársa lakó-, illetve tartózkodási helyére vonatkozóan rendelkezésre álló adatot;
+
+g) az ellátás kifizetésével összefüggő adatot (fizetési számlaszám vagy postai utalási cím).
+
+(2) Az (1) bekezdés szerinti adatokról a honvédelemért felelős miniszter által vezetett minisztérium, mint családtámogatási kifizetőhely is adatszolgáltatást teljesít elektronikus úton az állami adó- és vámhatóság részére havonta, a tárgyhónapot követő hónap 5. napjáig.
+
+[^2]: A 2. § az 561/2021. (IX. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
