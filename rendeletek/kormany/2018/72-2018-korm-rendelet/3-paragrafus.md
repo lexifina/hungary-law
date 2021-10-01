@@ -1,4 +1,4 @@
-3. § (1) A Végrehajtási Rendelet 3. cikk (1) bekezdése alapján – figyelemmel a Végrehajtási Rendelet 35. cikk (8) bekezdésére – a Kormány azonosítókibocsátóként az ND Nemzeti Dohánykereskedelmi Nonprofit Zártkörűen Működő Részvénytársaságot jelöli ki.
+3. § (1)[^3] A Végrehajtási Rendelet 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság).
 
 (2) A Végrehajtási Rendelet 4. cikk (1) bekezdés második albekezdése alapján – a Végrehajtási Rendelet 4. cikk (1) bekezdés első albekezdésétől eltérően – a Magyarországon forgalomba hozatalra kerülő dohánytermékek vonatkozásában illetékes azonosítókibocsátó az (1) bekezdésben kijelölt azonosítókibocsátó. Az azonosítókibocsátó e tevékenységéhez alvállalkozókat igénybe vehet azzal, hogy az összes általa igénybe vett alvállalkozó azonosító adatairól köteles tájékoztatni a minisztert.
 
@@ -11,3 +11,5 @@
 a) csomagolási egység szintű egyedi azonosító esetén darabonként legalább nettó 2 forint, legfeljebb nettó 5 forint,
 
 b) gyűjtőcsomagolás szintű egyedi azonosító esetén darabonként legalább nettó 5 forint, legfeljebb nettó 10 forint.
+
+[^3]: A 3. § (1) bekezdése az 500/2021. (VIII. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
