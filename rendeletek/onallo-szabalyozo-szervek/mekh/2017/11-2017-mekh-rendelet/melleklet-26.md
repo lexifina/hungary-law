@@ -2,4 +2,4 @@
 
 26. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^48]
 
-[^48]: A 26. melléklet a 9/2020. (IX. 28.) MEKH rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^48]: A 26. melléklet a 12/2021. (IX. 20.) MEKH rendelet 1. § (6) bekezdésével megállapított szöveg.
