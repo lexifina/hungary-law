@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-467-20-
 | 2021-01-02 | 2017-467-20-22.12 | 112/2018. (VI. 25.) Korm. rendelet |
 | 2021-02-20 | 2017-467-20-22.13 | 260/2020. (VI. 4.) Korm. rendelet |
 | 2021-07-01 | 2017-467-20-22.14 | 260/2020. (VI. 4.) Korm. rendelet |
+| 2021-10-01 | 2017-467-20-22.15 | 112/2018. (VI. 25.) Korm. rendelet |
