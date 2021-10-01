@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-536-20-
 | --- | --- | --- |
 | 2021-09-16 | 2021-536-20-22.1 | 536/2021. (IX. 15.) Korm. rendelet |
 | 2021-09-17 | 2021-536-20-22.2 | 2010: CXXX. törvény |
+| 2021-10-01 | 2021-536-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
