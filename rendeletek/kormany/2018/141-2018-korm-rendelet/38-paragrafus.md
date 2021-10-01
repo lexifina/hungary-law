@@ -1,4 +1,4 @@
-## 37. §[^124] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr29.) módosított 6/C. §-át a Módr29. hatálybalépésekor[^125] folyamatban lévő ügyekben is alkalmazni kell.
+## 37. §[^125] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr29.) módosított 6/C. §-át a Módr29. hatálybalépésekor[^126] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^124]: A 37. §-t a 196/2020. (V. 12.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^125]: A hatálybalépés időpontja 2020. május 13.
+[^125]: A 37. §-t a 196/2020. (V. 12.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^126]: A hatálybalépés időpontja 2020. május 13.

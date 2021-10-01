@@ -1,4 +1,4 @@
-## 16. §[^82] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 3/2019. (I. 24.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 2. mellékletben foglalt táblázat 17. sorát a Módr8. hatálybalépésekor[^83] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 16. §[^83] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 3/2019. (I. 24.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 2. mellékletben foglalt táblázat 17. sorát a Módr8. hatálybalépésekor[^84] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^82]: A 16. §-t a 3/2019. (I. 24.) Korm. rendelet 1. §-a iktatta be.
-[^83]: A hatálybalépés időpontja 2019. január 25.
+[^83]: A 16. §-t a 3/2019. (I. 24.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A hatálybalépés időpontja 2019. január 25.
