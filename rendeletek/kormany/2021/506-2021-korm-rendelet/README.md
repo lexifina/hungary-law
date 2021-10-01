@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-506-20-
 | 2021-08-21 | 2021-506-20-22.2 | 2010: CXXX. törvény |
 | 2021-09-01 | 2021-506-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-09-02 | 2021-506-20-22.4 | 2010: CXXX. törvény |
+| 2021-10-01 | 2021-506-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |

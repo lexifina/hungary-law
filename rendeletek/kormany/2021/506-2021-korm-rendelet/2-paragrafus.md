@@ -1,3 +1,3 @@
-## 1. §[^1]
+## 1. § A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet (a továbbiakban: R1.) 16. alcíme a következő 28/A. §-sal egészül ki:
 
-[^1]: Az 1. § a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+## „28/A. § Ha a szokásos piaci ármegállapításra irányuló eljárásban, az Aktv. III/A. Fejezetében szabályozott európai uniós kölcsönös egyeztető eljárásban, az Aktv. IV. Fejezetében szabályozott Választottbírósági Egyezmény szerinti eljárásban vagy az Aktv. IV/A. Fejezetében szabályozott adóegyezmények szerinti kölcsönös egyeztető eljárásban szükséges, az adópolitikáért felelős miniszter megkeresése alapján a jogkövetési vizsgálatot a KAVIG vagy az adózó tekintetében az általános szabályok szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóság folytatja le. Az ellenőrzést követő hatósági eljárást az ellenőrzést végző szerv folytatja le.”

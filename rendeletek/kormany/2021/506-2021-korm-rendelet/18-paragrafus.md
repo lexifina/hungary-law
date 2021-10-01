@@ -1,4 +1,4 @@
-## 17. §[^26]
+## 17. § Hatályát veszti az R2. IX. Fejezet címében az „AZ ÉVES JELENTÉSTÉTELI KÖTELEZETTSÉGNEK,” szövegrész.
 
 ## 3. Záró rendelkezések
 
@@ -9,5 +9,3 @@
 (3) Az 1. §, a 9. § a)–c) pontja, a 13–15. §, a 16. § d)–g) pontja és a 17. § 2021. október 1-jén lép hatályba.
 
 (4) A 16. § a) pontja 2022. január 1-jén lép hatályba.
-
-[^26]: A 17. § a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.

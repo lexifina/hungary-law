@@ -1,17 +1,14 @@
-## 8. §[^8]
+## 8. §[^7]
 
 ## 9. § Hatályát veszti az R1.
 
-a)[^9]
+a) 7. § f) pontja,
 
-b)[^10]
+b) 7/A. alcíme,
 
-c)[^11]
+c) 58. §-a,
 
-d)[^12]
+d)[^8]
 
-[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 9. § a) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
-[^10]: A 9. § b) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
-[^11]: A 9. § c) pontja a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
-[^12]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

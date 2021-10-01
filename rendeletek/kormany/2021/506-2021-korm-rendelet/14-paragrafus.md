@@ -1,3 +1,1 @@
-## 13. §[^16]
-
-[^16]: A 13. § a 18. § (3) bekezdése alapján 2021. október 1-jén lép hatályba.
+## „(5) Az adópolitikáért felelős miniszter a kérelmekről külön nyilvántartást vezet, amely tartalmazza az adózó azonosító adatait, a kérelem érkezésének időpontját, iktatószámát, a befizetett díj összegét, az eljárás lefolytatásának időtartamát, valamint az eljárás lefolytatásához és az információcseréhez szükséges további adatokat.”
