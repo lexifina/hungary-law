@@ -54,7 +54,7 @@ c) ellátja az adók módjára behajtandó köztartozás végrehajtásával kapc
 
 d) ellátja az állami garancia (kezesség) kiutalásával, visszakövetelésével, a garancia beváltásához kapcsolódó ellenőrzéssel kapcsolatos, az állami adó- és vámhatóság hatáskörébe utalt feladatokat,
 
-e) lefolytatja a szokásos piaci ár megállapítása iránti eljárást, vezeti az ezzel kapcsolatos nyilvántartást, végzi az eljárás díjának beszedését és visszatérítését, megküldi az adópolitikáért felelős miniszternek a szokásos piaci ár megállapítása iránti eljárások eredményeképpen kiadmányozott végleges határozatok másolatát, illetve a szokásos piaci ár megállapítása iránti eljárásért beszedett díjakról és az eljárás során szerzett tapasztalatokról évente beszámolót készít az adópolitikáért felelős miniszternek,
+e)
 
 f)
 
