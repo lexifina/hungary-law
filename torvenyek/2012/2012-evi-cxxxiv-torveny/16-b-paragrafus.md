@@ -1,1 +1,1 @@
-16/B. § E törvény III. Fejezete 3–6. címében foglalt rendelkezéseket a dohánytermékek árusítására e törvény alapján jogosult részvénytársaságra, valamint az általa feljogosított személyre is megfelelően alkalmazni kell.
+16/B. § E törvény III. Fejezete 3–6. címében foglalt rendelkezéseket a dohánytermékek árusítására kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által feljogosított személyre is megfelelően alkalmazni kell.

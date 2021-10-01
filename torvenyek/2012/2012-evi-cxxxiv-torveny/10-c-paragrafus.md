@@ -1,4 +1,4 @@
-10/C. § A részvénytársaság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
+10/C. § A Hatóság közreműködik a dohányzás visszaszorítását és az egészségvédelmet érintő feladatokban
 
 a) médiakampány szervezése, lebonyolítása, szakmai támogatása,
 

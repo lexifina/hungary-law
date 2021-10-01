@@ -22,4 +22,4 @@
 
 (12) E törvénynek a Módtv.3.-mal megállapított 23. §-át a Módtv.3. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a részvénytársaság felhívására teljesíteni.
+(13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv felhívására teljesíteni.

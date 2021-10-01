@@ -1,1 +1,13 @@
-26. § Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a vámhatóság által lefolytatott eljárásokért fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+26. § Felhatalmazást kap a Hatóság elnöke, hogy
+
+a) a dohánytermék-kiskereskedőkkel, a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlásának ellenőrzésére,
+
+b) a dohánytermék-kiskereskedelemi jogosultság gyakorlására külön feljogosított személyek kötelezettségeinek ellenőrzésére,
+
+c) a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogsító engedéllyel rendelkező személyek közhiteles nyilvántartására,
+
+d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére, és
+
+e) a dohánytermék-nagykereskedő e törvény szerinti kötelezettségeinek ellenőrzésére
+
+vonatkozó részletes szabályokat rendeletben megállapítsa.

@@ -1,31 +1,37 @@
 4. § (1) Az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter (a továbbiakban: miniszter) ellátja a dohánytermék-kiskereskedelmi tevékenység szervezésének szakmai irányítását, melynek során mindenkor – e törvény alapvető céljának – a fiatalkorúak védelmének elsődlegessége alapján kell tevékenykednie.
 
-(2) Az (1) bekezdésben foglaltak teljesülése érdekében a miniszter 100%-os állami tulajdonban lévő zártkörűen működő nonprofit részvénytársaságot (a továbbiakban: részvénytársaság) alapít
+(2) A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
 
-a) a dohánytermék-kiskereskedelem szervezett működésének előmozdítására, szakmai állásfoglalások kibocsátására,
+a) előkészíti a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírását, elbírálását, a koncessziós szerződések megkötését (módosítását, megszüntetését),
 
-b) a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírásának, elbírálásának, a koncessziós szerződések megkötésének (módosításának, megszüntetésének) előkészítésére,
+b) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
 
-c) a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződésekben foglaltak betartásának ellenőrzésére; a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében való közreműködésre,
+c) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat, ide nem értve az azonnali beszedési megbízást.
 
-d) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszer működtetésére és oktatási feladatok ellátására,
+(3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
 
-e) a dohányipari ágazati konzultációs fórum létrehozására és folyamatos működtetésére,
+a) előmozdítja a dohánytermék-kiskereskedelem szervezett működését, szakmai állásfoglalásokat bocsát ki,
 
-f) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozó mediációs tevékenységre,
+b) ellenőrzi a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlását; közreműködik a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében,
 
-g) a külön jogszabályban meghatározottak szerint a dohányboltban forgalmazható termékek regisztrációs adatainak fogadására, és ezeknek a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére történő publikálására; készletnyilvántartó minősítési rendszer működtetésére, a dohánytermék-kiskereskedők készlet és forgalmi adatainak kezelésére, feldolgozására,
+c) ellátja a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartásával kapcsolatos feladatokat,
 
-h) a Jöt. alapján a dohánytermékek árainak közzététele érdekében a külön jogszabályban meghatározottak szerint a szolgáltatott árbejelentések rendszerezésére, feldolgozására és továbbítására,
+d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésével kapcsolatos feladatokat,
 
-i) a koncessziós szerződésekből eredő számlázási feladatok ellátására,
+e) gyakorolja a dohánytermék-kiskereskedelem és a dohány-kiskereskedelmi ellátási jogosultság átengedéséről szóló pályázat kiírásához, elbírálásához, továbbá a dohánytermék-kiskereskedelmi, dohány-kiskereskedelmi ellátási tevékenység gyakorlására jogosító koncessziós szerződés megkötéséhez, módosításához, megszüntetéséhez előzetes hozzájárulási megadásához kapcsolódó jogkört,
 
-j) a koncessziós szerződésekkel összefüggő követeléskezelési feladatok – ide nem értve az azonnali beszedési megbízást – ellátására,
+f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
 
-k) a dohánytermék-kiskereskedelmi jogosultság gyakorlására a részvénytársaság által külön feljogosított személyek kötelezettségeinek ellenőrzésére, a feljogosításról szóló okiratból eredő jogok és kötelezettségek érvényesítésére, valamint az ezzel összefüggő intézkedések és tájékoztatások megtételére, valamint
+g) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
 
-l) e törvényben vagy jogszabályban meghatározott egyéb feladat ellátására.
+h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
 
-(3) A részvénytársaság e törvényben meghatározott tevékenységével összefüggő költségeihez a miniszter a központi költségvetésről szóló törvényben e célra meghatározott fejezeti kezelésű előirányzat terhére támogatást nyújt.
+i) a dohánytermék-nagykereskedők, a dohánytermék-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó közötti vitás kérdések rendezésére vonatkozóan mediációs tevékenységet lát el,
 
-(4) A részvénytársaságnak a (2) bekezdésben és a 10/C. §-ban meghatározott feladatai közfeladatnak minősülnek.
+j) jogszabályban meghatározottak szerint fogadja a dohányboltban forgalmazható termékek regisztrációs adatait, és ezeket a dohány-kiskereskedők, valamint a dohány-kiskereskedelmi ellátó részére publikálja; készletnyilvántartó minősítési rendszert működtet, a dohánytermék-kiskereskedők készlet- és forgalmi adatait kezeli, feldolgozza,
+
+k) a Jöt. alapján a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és továbbítja, és
+
+l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyek kötelezettségeit ellenőrzi.
+
+(4)
