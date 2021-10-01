@@ -1,3 +1,0 @@
-## 1. § A termékek eladási ára és egységára, továbbá a szolgáltatások díja feltüntetésének részletes szabályairól szóló 4/2009. (I. 30.) NFGM–SZMM együttes rendelet (a továbbiakban: NFGM–SZMM együttes rendelet) a következő 1/A. §-sal egészül ki:
-
-## „1/A. § E rendelet alkalmazásában alternatív üzemanyag: a közlekedés energiaellátásában a kőolajforrásokat legalább részben helyettesítő üzemanyag vagy energiaforrás, amely hozzájárul a közlekedési ágazat dekarbonizációjához, és javítja annak környezeti teljesítményét, ideértve különösen a villamos energiát, valamint a cseppfolyósított propán-bután gázt (LPG).”
