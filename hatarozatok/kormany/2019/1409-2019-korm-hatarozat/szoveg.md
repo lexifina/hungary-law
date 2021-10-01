@@ -46,7 +46,7 @@ d) az igazságügyért felelős miniszter,
 
 e) a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter,
 
-f) a szerencsejáték-szervezés állami felügyeletéért felelős miniszter,
+f)[^1] a szerencsejáték szabályozásért felelős miniszter,
 
 g) a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter,
 
@@ -64,7 +64,7 @@ m) az Információs Hivatal főigazgatója,
 
 n) a Nemzeti Védelmi Szolgálat főigazgatója,
 
-o) a Szerencsejáték Felügyelet elnöke,
+o)[^2] a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke,
 
 p) a kereskedelmi hatóságként eljáró Budapest Főváros Kormányhivatalát vezető kormánymegbízott,
 
@@ -111,3 +111,6 @@ hogy delegáljon képviselőt a Tanácsba. A delegáltak állandó meghívottké
 15. Ez a határozat a közzétételét követő nyolcadik napon lép hatályba.
 
 16. A Kormány felhívja a 4. pontban meghatározott személyeket, és felkéri az 5. pontban meghatározott személyeket, hogy 2019. augusztus 31. napjáig gondoskodjanak a Tanács tagjainak, illetve állandó meghívottjainak kijelöléséről.
+
+[^1]: A 4. pont f) alpontja az 1607/2021. (VIII. 18.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4. pont o) alpontja az 1607/2021. (VIII. 18.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
