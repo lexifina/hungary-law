@@ -8,7 +8,7 @@ b) az olyan kitettséget, amely esetében az adós pénzügyi helyzetének vizsg
 
 c) azon kitettséget, amely a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: CRR) 178. cikke szerint nem teljesítő követelésnek (defaulted) minősül, vagy
 
-d)[^2] azon kitettséget, amellyel kapcsolatban az alkalmazott számviteli szabályozás szerint értékvesztés került elszámolásra, kivéve
+d)[^3] azon kitettséget, amellyel kapcsolatban az alkalmazott számviteli szabályozás szerint értékvesztés került elszámolásra, kivéve
 
 da) a magyar számviteli szabályozást alkalmazó intézmény által képzett azon értékvesztést, amelynek elszámolására az óvatosság elve alapján, és nem a megnövekedett kockázatra tekintettel került sor, valamint
 
@@ -18,10 +18,10 @@ db) a nemzetközi pénzügyi beszámolási standardokat alkalmazó intézmény �
 
 (3) Amennyiben a nem teljesítő kitettségként történő kezelés (1) bekezdés szerinti valamely feltétele teljesül, az intézmény a kitettség teljes összegét nem teljesítőként kezeli.
 
-(4)[^3] Amennyiben fennáll annak a kockázata, hogy az ügyfél (a garantált fél) a pénzügyi garanciát lehívja, az intézmény a mérlegen kívüli kitettségként kimutatott garanciavállalást is nem teljesítő kitettségként kezeli, ideértve különösen azt az esetet, amikor az a kitettség, amellyel összefüggésben a garanciát nyújtották, megfelel az (1) bekezdésben foglalt valamely feltételnek.
+(4)[^4] Amennyiben fennáll annak a kockázata, hogy az ügyfél (a garantált fél) a pénzügyi garanciát lehívja, az intézmény a mérlegen kívüli kitettségként kimutatott garanciavállalást is nem teljesítő kitettségként kezeli, ideértve különösen azt az esetet, amikor az a kitettség, amellyel összefüggésben a garanciát nyújtották, megfelel az (1) bekezdésben foglalt valamely feltételnek.
 
-(5)[^4] Az intézmény nem teljesítő kitettségként kezeli a 2. § c) pontja szerinti, a (4) bekezdés hatálya alá nem tartozó mérlegen kívüli kötelezettséget, ha annak lehívása vagy egyéb felhasználása olyan kitettséghez vezetne, amely esetében fennáll annak kockázata, hogy a biztosíték érvényesítése nélkül az nem kerül teljes egészében visszafizetésre.
+(5)[^5] Az intézmény nem teljesítő kitettségként kezeli a 2. § c) pontja szerinti, a (4) bekezdés hatálya alá nem tartozó mérlegen kívüli kötelezettséget, ha annak lehívása vagy egyéb felhasználása olyan kitettséghez vezetne, amely esetében fennáll annak kockázata, hogy a biztosíték érvényesítése nélkül az nem kerül teljes egészében visszafizetésre.
 
-[^2]: Az 5. § (1) bekezdés d) pontja a 33/2017. (XI. 30.) MNB rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 5. § (4) bekezdését a 33/2017. (XI. 30.) MNB rendelet 1. § (3) bekezdése iktatta be.
-[^4]: Az 5. § (5) bekezdését a 33/2017. (XI. 30.) MNB rendelet 1. § (3) bekezdése iktatta be.
+[^3]: Az 5. § (1) bekezdés d) pontja a 33/2017. (XI. 30.) MNB rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (4) bekezdését a 33/2017. (XI. 30.) MNB rendelet 1. § (3) bekezdése iktatta be.
+[^5]: Az 5. § (5) bekezdését a 33/2017. (XI. 30.) MNB rendelet 1. § (3) bekezdése iktatta be.

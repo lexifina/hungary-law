@@ -1,4 +1,4 @@
-9. § (1)[^5] Az átstrukturált követelésként történő nyilvántartás szempontjából az intézmény engedménynek tekinti:
+9. § (1)[^6] Az átstrukturált követelésként történő nyilvántartás szempontjából az intézmény engedménynek tekinti:
 
 a) a szerződés korábbi feltételeinek módosítását annak érdekében, hogy a pénzügyi nehézségekkel küzdő kötelezett az adósságszolgálati kötelezettségének eleget tudjon tenni, és amelyet az intézmény nem biztosított volna, ha a kötelezettnek nincsenek pénzügyi nehézségei,
 
@@ -14,4 +14,4 @@ a) vonatkozhat többek között a visszafizetések (kamat-, illetve a tőketörl
 
 b) alapján sor kerülhet a felek vagy a kötelezett és az eredeti hitelező kapcsolt vállalkozása között olyan kiegészítő megállapodásra vagy új szerződés megkötésére, amely a felmondott vagy a fel nem mondott eredeti szerződés miatt fennálló tartozás (tőke-, illetve kamattartozás) törlesztése céljára nyújtott új hitelre, illetve a kockázat növekedésének elkerülését és a veszteség mérséklését szolgáló további kötelezettségvállalásra vonatkozik, amely esetben ezen kiegészítő megállapodás, illetve kapcsolódó új szerződés miatt az intézménynél (beleértve az eredeti hitelező kapcsolt vállalkozásának minősülő intézményt is) keletkezett követelések is átstrukturált követelésnek minősülnek.
 
-[^5]: A 9. § (1) bekezdés záró szövegrésze a 43/2019. (XII. 17.) MNB rendelet 1. §-a szerint módosított szöveg.
+[^6]: A 9. § (1) bekezdés záró szövegrésze a 43/2019. (XII. 17.) MNB rendelet 1. §-a szerint módosított szöveg.

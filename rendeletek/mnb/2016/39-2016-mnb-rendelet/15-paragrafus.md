@@ -2,9 +2,9 @@
 
 a) a kitettség nem minősül értékvesztettnek vagy a CRR 178. cikke szerinti nem teljesítő kitettségnek (defaulted),
 
-b)[^7] az átstrukturálás és a kitettség nem teljesítőként történő besorolásának időpontja közül a későbbitől számítva legalább háromszázhatvanöt nap eltelt, és
+b)[^10] az átstrukturálás és a kitettség nem teljesítőként történő besorolásának időpontja közül a későbbitől számítva legalább háromszázhatvanöt nap eltelt, és
 
-c) az átstrukturálást követően nem áll fenn késedelem és az átstrukturálást követően nem merült fel a kötelezett pénzügyi helyzetének vizsgálata alapján olyan aggály, amely a követelés teljes összegének visszafizetését kétségessé tenné.
+c)[^11] a minősítés időpontjában nem áll fenn késedelem és az átstrukturálást követően nem merült fel a kötelezett pénzügyi helyzetének vizsgálata alapján olyan aggály, amely a követelés teljes összegének visszafizetését kétségessé tenné.
 
 (2) A követelés teljes összegének visszafizetése feltételezhető, ha
 
@@ -14,4 +14,5 @@ b) a kötelezett egyéb módon bizonyítani tudja, hogy meg tud felelni az átst
 
 (3) Nem teljesítő kitettségnek minősülő átstrukturált követelésnek tekintendő az átstrukturálás időpontjában nem teljesítőnek minősülő kitettség mellett az a kitettség is, amely az átstrukturálással vagy azt követően vált nem teljesítővé.
 
-[^7]: A 15. § (1) bekezdés b) pontja a 33/2017. (XI. 30.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
+[^10]: A 15. § (1) bekezdés b) pontja a 33/2017. (XI. 30.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
+[^11]: A 15. § (1) bekezdés c) pontja a 31/2021. (IX. 3.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

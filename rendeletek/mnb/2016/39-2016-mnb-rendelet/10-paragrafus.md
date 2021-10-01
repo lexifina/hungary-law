@@ -1,6 +1,6 @@
 ## 10. § Az intézmény átstrukturálásként kezeli a következő eseteket:
 
-a)[^6] a módosított szerződés a módosítást megelőzően nem teljesítőnek minősült, vagy a módosítás hiányában az eredeti annak minősülne,
+a)[^7] a módosított szerződés a módosítást megelőzően nem teljesítőnek minősült, vagy a módosítás hiányában az eredeti annak minősülne,
 
 b) a szerződésmódosítás részleges vagy teljes adósság elengedést tartalmaz,
 
@@ -10,4 +10,4 @@ d) más adósság tekintetében nyújtott engedménnyel egy időben vagy ahhoz k
 
 e) a fedezet érvényesítésével teljesített visszafizetést magában foglaló szerződésmódosítás, ha a módosítás engedményt is magában foglal.
 
-[^6]: A 10. § a) pontja a 33/2017. (XI. 30.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: A 10. § a) pontja a 33/2017. (XI. 30.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
