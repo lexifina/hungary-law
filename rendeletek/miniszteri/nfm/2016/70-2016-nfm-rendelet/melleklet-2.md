@@ -1,53 +1,63 @@
-2. melléklet a 70/2016. (XII. 29.) NFM rendelethez
+2. melléklet a 70/2016. (XII. 29.) NFM rendelethez[^14]
 
-## Az egyetemes szolgáltatói és nagykereskedői árrések induló értékének megállapítására vonatkozó keretszabályok
+## Az egyetemes szolgáltatói és nagykereskedői árrések megállapítására vonatkozó keretszabályok
 
-1. Az árrések megállapításánál figyelembe kell venni:
+1. Az indulóárrések megállapításánál figyelembe kell venni:
 
-a) a nagykereskedő és a GET szerinti egyetemes szolgáltatók (a továbbiakban együtt: engedélyesek) 2015. évi auditált mérlegeit és eredménykimutatásait, valamint az azok elkészítésénél alapul vett adatokat, számításokat, statisztikákat,
+a) a nagykereskedő és a GET szerinti egyetemes szolgáltatók (a továbbiakban együtt: engedélyesek) 2019. évi auditált mérlegeit és eredménykimutatásait, valamint az azok elkészítésénél alapul vett adatokat, számításokat, statisztikákat,
 
 b) az a) pont szerinti engedélyesek és kapcsolt vállalkozásai közti szerződéseket, az ebben foglalt szolgáltatásokról rendelkezésre álló piaci információkat,
 
-c) az a) pont szerinti engedélyeseknél, illetve jogutódjaiknál 2015-ben bekövetkezett és 2016-ban és 2017-ben várható lényegesebb változásokat [infláció, árfolyam, jogszabályváltozások, egyedileg értékelendő eszköz- és költségváltozások, mennyiségi-, ár- és naturália-változások (fogyasztói létszám, gázmérők névleges összteljesítménye)], figyelembe véve a GET 3. § 48. pontja szerinti legkisebb költség elvét, az egymáshoz viszonyított működési hatékonyságot és a működési hatékonyság elvárt javulását,
+c) az a) pont szerinti engedélyeseknél, illetve jogutódjaiknál 2019-ben és 2020-ban bekövetkezett, valamint a 2021-ben várható lényegesebb változásokat [infláció, árfolyam, jogszabályváltozások, egyedileg értékelendő eszköz- és költségváltozások, mennyiségi, ár- és naturália-változások (fogyasztói létszám, gázmérők névleges összteljesítménye)], figyelembe véve a GET 3. § 48. pontja szerinti legkisebb költség elvét, az egymáshoz viszonyított működési hatékonyságot és a működési hatékonyság elvárt javulását,
 
-d) a Hivatal által 2016-ban – az a)-c) pontok figyelembevételével – végzett eszköz- és költség-felülvizsgálatok eredményeit.
+d) a Hivatal által a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőzően – az a)–c) pontok figyelembevételével – végzett eszköz- és költség-felülvizsgálatok eredményeit.
 
-2. A Hivatal az egyes költségelemeket – az egyetemes szolgáltatói engedélyeseknél – a következő módon veszi figyelembe:
+2. A Hivatal az egyes költségelemeket a következő módon veszi figyelembe:
 
-a) Tőkeköltség az egyetemes szolgáltatói árrésben:
+a) Tőkeköltség az egyetemes szolgáltatói és a nagykereskedői árrésben:
 
 A tőkeköltségelem kiszámításának módja:
 
-TKk = Á x H
+tőkeköltség = [rE * saját tőke arány * finanszírozási igény * 1 / (1 – t)]+( hkráfordítás * kamatráfordítás) + (hkbevétel * kamatbevétel) + (hklenemhívott * kamatráfordítás * 0,25)
+
+rE = rf + CR + β * rp
 
 ahol:
 
-TKk: a legalább 100 000 felhasználót ellátó egyetemes szolgáltatók adott tevékenységére kalkulált tőkeköltségelem,
+aa) β: értéke az egyetemes szolgáltatói tevékenység tényleges működési környezetében felmerülő kockázatainak figyelembevételével kerül megállapításra, megegyezik a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel;
 
-Á: a legalább 100 000 felhasználót ellátó egyetemes szolgáltatók földgázbeszerzésének 3. § (1) bekezdés szerinti áron elismert értéke, figyelembe véve a hazai termelésből, valamint a GET 141/A. § és 141/J. § szerinti földgáz árát is.
+ab) CR: országkockázati prémium, értéke a Bloomberg adatai alapján a magyar (Bloomberg: YCCD1967 Index) és az USA (Bloomberg: YCCD2637 Index) CDS árfolyamai alapján GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során négy évre visszamenőleg a havi középárfolyamok (Mid Trade) átlagaiból számtani átlagolással kerül meghatározásra, százalék;
 
-H: a tőkeköltség hozamtényezője: 1%.
+ac) finanszírozási igény: a napi készpénzforgalmi kumulált egyenleg minimuma és az egyetemes szolgáltatás érdekében felmerült, indokolt bankgarancia költségek összege, értéke magában foglalja az engedélyesnél felmerült mobilgáz-finanszírozási költséget; a finanszírozási igény értéke évente felülvizsgálatra kerül, beleértve az indexálást is, kivéve a mobilgáz-finanszírozási költséget, amely csak indokolt esetben kerül indexálásra, Ft;
+
+ad) hkbevétel: megállapítása a készpénzforgalmi egyenleg kumulált értékéből számított, működéshez szükséges hitelkeretből ténylegesen rendelkezésre álló összeg napi szintű alakulása alapján történik, évente felülvizsgálatra kerül, Ft;
+
+ae) hklenemhívott: megállapítása a készpénzforgalmi egyenleg kumulált értékéből számított, a működéshez szükséges hitelkeretből ténylegesen le nem hívott összeg napi szintű alakulása alapján történik, évente felülvizsgálatra kerül, Ft;
+
+af) hkráfordítás: megállapítása a készpénzforgalmi egyenleg kumulált értékéből számított, a működéshez szükséges hitelkeretből ténylegesen lehívott összeg napi szintű alakulása alapján történik, évente felülvizsgálatra kerül, Ft;
+
+ag) kamatbevétel: a bevételek kiszámításához használt kamat a Magyar Nemzeti Bank által napi szinten publikált overnight BUBOR érték, megegyezik a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
+
+ah) kamatráfordítás: a Magyar Nemzeti Bank által kiadott „A nem pénzügyi vállalati szektorral kötött piaci forinthitel és forintbetét szerződések átlagkamata” című publikációnak az 5. táblájában közölt „Egyéb rövid hitelek” (9-es sorszámú mutató) kamata, értéke megegyezik a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
+
+ai) rE: saját tőke elvárt hozamtényezője, százalék;
+
+aj) rf: kockázatmentes hozam tényező, a Bloomberg adatbázisa (GTII10 GOVT, BYTM oldalak) alapján közvetlenül kerül meghatározásra; értéke megegyezik a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
+
+ak) rp: az elismert részvénypiaci kockázat mértéke a Credit Suisse által a Global Investment Returns Yearbook című kiadványában közzétett, az elmúlt 120 év átlagában meghatározott, az USA globális részvénypiaci kockázati prémiuma, értéke megegyezik a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
+
+al) saját tőke arány: a Hivatal által benchmark keretében meghatározott saját tőke arány mértéke, értéke megegyezik a GET 146/P. § (1) bekezdés a) pontja szerinti árszabályozási ciklust megelőző eszköz- és költség-felülvizsgálat során meghatározott értékkel, százalék;
+
+am) t: a társasági adó hatályos adókulcsa, százalék;
 
 b) Külön metodika alapján számított költségek az egyetemes szolgáltatói árrésben:
 
-ba) a szolgáltatás finanszírozás,
+ba) a kintlévőség finanszírozás,
 
-bb) a kintlévőség finanszírozás.
+bb) a szagosítás finanszírozás.
 
-c) Tőkeköltség a nagykereskedői árrésben:
-
-A tőkeköltségelem kiszámításának módja:
-
-TKknk = Ánk x Hnk
-
-ahol:
-
-TKknk: a nagykereskedői árrésben elismert tőkeköltségelem,
-
-Ánk: a volt közüzemi nagykereskedő földgázbeszerzésének értéke a rendszerhasználati költségelemek nélkül, az éves mennyiség azon részének finanszírozására, melynek finanszírozása nem kerül megtérítésre az árszabályozás során.
-
-Hnk: a tőkeköltség hozamtényezője: 0,5%.
-
-3. Az árképzésnél figyelembe veendő költségek számításához és árakká történő alakításához a Hivatal által alkalmazott napfok módszerrel korrigált, az egyetemes szolgáltatók által megadott 2015. évi értékesítést bemutató tény mennyiségi adatok kerülnek felhasználásra.
+3. Az árképzésnél figyelembe veendő költségek számításához és árakká történő alakításához a Hivatal által alkalmazott napfok módszerrel korrigált, az egyetemes szolgáltatók által megadott 2020. évi értékesítést bemutató tény mennyiségi adatok kerülnek felhasználásra.
 
 A korrigált mennyiségi adatok megállapítása során a fogyasztást befolyásoló más tényezők – mint pl. világgazdasági reálfolyamatok, illetve a fogyasztói szokások változásának – hatását a Hivatal indokolt esetben figyelembe veszi.
+
+[^14]: A 2. melléklet a 48/2021. (IX. 30.) ITM rendelet 7. § (2) bekezdésével megállapított szöveg.

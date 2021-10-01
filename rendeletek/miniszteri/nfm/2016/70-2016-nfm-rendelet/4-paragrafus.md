@@ -4,14 +4,30 @@
 
 (3) A 3. § (1) bekezdés b) pontja szerinti nagykereskedői árrés induló értékének megállapítására vonatkozó keretszabályokat a 2. melléklet tartalmazza.
 
-(4) A nagykereskedői árrés árszabályozási cikluson belüli megállapítása az 1. melléklet 2. pontja szerint történik. A nagykereskedői árrés megállapítását megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni, ha az egyetemes szolgáltatás keretében vételező felhasználók számára értékesített, napfok módszerrel korrigált mennyiség legalább 1,5%-kal változik, egyéb esetekben a nagykereskedői árrés előző időszaki megállapítása során figyelembe vett (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni.
+(4)[^9] A nagykereskedői árrés árszabályozási cikluson belüli megállapítása az 1. melléklet 2. pontja alapján kerül megállapításra, amely során a mennyiségi adatok figyelembevétele az alábbiak szerint történik:
+
+a) a nagykereskedői árrés megállapítását megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni, ha az egyetemes szolgáltatás keretében vételező felhasználók számára értékesített, napfok módszerrel korrigált mennyiség a megelőző gázévben alkalmazott mennyiséghez képest legalább 1,5%-kal változik,
+
+b) ha az a) pontban meghatározott mennyiségi adatok kiugró, trendbe nem illeszkedő értékeket eredményeznek, a tárgyévet megelőző legfeljebb öt teljes naptári évre vonatkozó tény mennyiségi adatok súlyozatlan számtani átlagát kell figyelembe venni,
+
+c) ha a napfok módszerrel korrigált mennyiség a megelőző gázévben alkalmazott mennyiséghez képest kevesebb, mint 1,5%-kal változik, a nagykereskedői árrés előző időszaki megállapítása során figyelembe vett (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni.
 
 (5) A 3. § (1) bekezdés c) és e) pontja szerinti árelemek a Hivatal által megállapított rendszerhasználati díjak alapján kerülnek megállapításra.
 
-(6) A 3. § (1) bekezdés d) pontja szerinti mobilgáz-finanszírozási költség negyedévente kerül meghatározásra, az aktuális negyedévet megelőző negyedév második hónapjának 1. és 15. napja közötti időszak banki napjain jegyzett hat havi BUBOR bankközi kamatláb átlaga + 75 bázisponton számítva. A Hivatal honlapján közzéteszi a mobilgáz-finanszírozási költség meghatározásához használt módszertant, valamint negyedévente az adott negyedévben alkalmazandó mobilgáz-finanszírozási költséget.
+(6)[^10] A mobilgáz-finanszírozás költsége az 1. melléklet 5.9. és 5.16. pontja szerinti tőkeköltség elemben kerül figyelembevételre a 2. melléklet szerinti nagykereskedői vagy egyetemes szolgáltatói árrésben, annál az engedélyesnél, amelynél a költség felmerül.
 
 (7) Az egyetemes szolgáltatói árrés induló értékének megállapítására vonatkozó keretszabályokat e rendelet 2. melléklete tartalmazza.
 
-(8) Az egyetemes szolgáltatói árrés árszabályozási cikluson belüli megállapítása az 1. melléklet 3. pontja szerint történik. Az egyetemes szolgáltatói árrés megállapítását megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni, ha a legalább 100 000 felhasználót ellátó egyetemes szolgáltatók által az egyetemes szolgáltatás keretében vételező felhasználók számára értékesített, napfok módszerrel korrigált mennyiség legalább 1,5%-kal változik, egyéb esetekben az egyetemes szolgáltatói árrés előző időszaki megállapítása során figyelembe vett (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni.
+(8)[^11] Az egyetemes szolgáltatói árrés árszabályozási cikluson belüli megállapítása az 1. melléklet 3. pontja alapján kerül megállapításra, amely során a mennyiségi adatok figyelembevétele az alábbiak szerint történik:
+
+a) az egyetemes szolgáltatói árrés megállapítását megelőző naptári évre vonatkozó (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni, ha az egyetemes szolgáltatás keretében vételező felhasználók számára értékesített, napfok módszerrel korrigált mennyiség a megelőző gázévben alkalmazott mennyiséghez képest legalább 1,5%-kal változik,
+
+b) ha az a) pontban meghatározott mennyiségi adatok kiugró, trendbe nem illeszkedő értékeket eredményeznek, a tárgyévet megelőző legfeljebb öt teljes naptári évre vonatkozó tény mennyiségi adatok súlyozatlan számtani átlagát kell figyelembe venni,
+
+c) ha a napfok módszerrel korrigált mennyiség a megelőző gázévben alkalmazott mennyiséghez képest kevesebb, mint 1,5%-kal változik, az egyetemes szolgáltatói árrés előző időszaki megállapítása során figyelembe vett (napfok módszerrel korrigált) mennyiségi adatokat kell alapul venni.
 
 (9) Amennyiben az egyetemes szolgáltató a saját forrásaival kapcsolatban a 3. § (1) bekezdésének c) pontja szerinti árelemre vonatkozóan a tényadatok szerint az indokolt költségekhez képest többletbevételre tesz szert, vagy veszteséget szenved el, az az árszabályozás során a negyedévet követő nyolcadik negyedév végéig figyelembevételre kerül.
+
+[^9]: A 4. § (4) bekezedése a 48/2021. (IX. 30.) ITM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^10]: A 4. § (6) bekezedése a 48/2021. (IX. 30.) ITM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^11]: A 4. § (8) bekezedése a 48/2021. (IX. 30.) ITM rendelet 6. § (5) bekezdésével megállapított szöveg.
