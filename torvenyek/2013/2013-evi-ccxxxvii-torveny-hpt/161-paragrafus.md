@@ -48,6 +48,8 @@ r) a szociális rászorultságtól függő pénzbeli és természetbeni ellátá
 
 s) a csődeljárásról és a felszámolási eljárásról szóló törvényben meghatározott felszámoló szervezetek nyilvántartásával és hatósági ellenőrzésével összefüggő feladatai során eljáró, a felszámoló szervezeteket nyilvántartó hatósággal
 
+t) a feladatkörében eljáró Szabályozott Tevékenységek Felügyeleti Hatóságával
+
 szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve írásbeli megkeresése esetén.
 
 (3) A banktitok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha
