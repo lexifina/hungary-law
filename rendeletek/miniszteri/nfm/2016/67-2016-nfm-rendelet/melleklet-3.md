@@ -1,4 +1,4 @@
-3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^29]
+3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^31]
 
 ## A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mértékének meghatározásakor figyelembe vett elismert fajlagos földgázár
 
@@ -192,15 +192,15 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.23. CEGY: a volt közüzemi nagykereskedő által végzett kiegyensúlyozó tevékenység indokolt havi költsége;
 
-6.24. QNOM: a Get. 141/A. § és 141/J. § keretében földgázt vételező egyetemes szolgáltató gáznapi igénybejelentésére az volt közüzemi nagykereskedő által visszaigazolt mennyiség [kWh];
+6.24. QNOM: a Get. 141/A. § és 141/J. § keretében földgázt vételező egyetemes szolgáltató számára (gáznapi igénybejelentésére) a volt közüzemi nagykereskedő által meghatározott napi nominált mennyiség [kWh];
 
 6.25. QALL: a Get. 141/A. § és 141/J. § keretében földgázt vételező egyetemes szolgáltató adott gáznapi – a korrigált havi földgáz-forgalmi mérleg szerint – vételezett mennyisége [kWh];
 
-6.26. Pelszámoló forgalmi díja a kiegyensúlyozó földgáz-forgalmat elszámoló fél által felszámított forgalmi díj [Ft/kWh];
+6.26. Pelszámoló forgalmi díja: a kiegyensúlyozó földgáz-forgalmat elszámoló fél által felszámított forgalmi díj [Ft/kWh];
 
 6.27. Pme: a szállítási rendszerüzemeltető által publikált gáznapi marginális eladási ár [Ft/kWh];
 
-6.28. Pmv:a szállítási rendszerüzemeltető által publikált gáznapi marginális vételi ár [Ft/kWh];
+6.28. Pmv: a szállítási rendszerüzemeltető által publikált gáznapi marginális vételi ár [Ft/kWh];
 
 6.29. n: az adott hónap napjainak száma.
 
@@ -214,4 +214,4 @@ PFedezett tárolói ár = (ΣQTárolói fedezés * (fgSFedezett tároló + sp) *
 
 6.34. ΣQTárolói fedezés: a havi tárolói fedezett mennyiségek összege;
 
-[^29]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése, a 3/2018. (VI. 29.) ITM rendelet 2. § (3) bekezdése, a 19/2018. (IX. 27.) ITM rendelet 7. § (3) bekezdése, a 36/2018. (XII. 21.) ITM rendelet 5. § a)–b) pontja szerint módosított szöveg.
+[^31]: A 3. melléklet a 38/2017. (IX. 29.) NFM rendelet 11. § (3) bekezdésével megállapított, a 8/2018. (III. 28.) NFM rendelet 7. § (3) bekezdése, a 3/2018. (VI. 29.) ITM rendelet 2. § (3) bekezdése, a 19/2018. (IX. 27.) ITM rendelet 7. § (3) bekezdése, a 36/2018. (XII. 21.) ITM rendelet 5. § a)–b) pontja, a 48/2021. (IX. 30.) ITM rendelet 4. § (3) bekezdése szerint módosított szöveg.

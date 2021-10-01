@@ -8,13 +8,13 @@
 
 (5) A naptári év IV. negyedévében 1069 negyedéves napfok számot, a naptári év I. negyedévében 1414 negyedéves napfok számot meghaladó hideg esetén az egyetemes szolgáltató mentesül a (3) bekezdés szerinti felár megfizetése alól. Az adott negyedévre vonatkozó napfok szám meghatározása – jelen § vonatkozásában – az Országos Meteorológiai Szolgálat Budapest-Lőrinc ponton mért gáznapi középhőmérsékletek számtani átlaga alapján történik 16 °C-os küszöbhőmérsékletre.
 
-(6)[^21] Amennyiben a volt közüzemi nagykereskedő részére a GET 141/A. § és 141/J. § alapján földgázt vételező egyetemes szolgáltató által adott, és a volt közüzemi nagykereskedő által visszaigazolt gáznapi fogyasztási előrejelzés, valamint a szállítási rendszerüzemeltető által publikált napi végleges földgázforgalmi mérleg szerint vételezett mennyiség közötti különbség meghaladja a földgázbeszerzési költség indokolt mértékének meghatározásakor figyelembe vett kiegyensúlyozási gázmennyiséget, az egyetemes szolgáltató – a felek eltérő megállapodásának hiányában – köteles a túllépéshez kötődő kiegyensúlyozási többletköltséget a volt közüzemi nagykereskedőnek havonta utólag, számla ellenében, a volt közüzemi nagykereskedő üzletszabályzatában meghatározottak szerint megfizetni.
+(6)[^23] Amennyiben a volt közüzemi nagykereskedő részére a GET 141/A. § és 141/J. § alapján földgázt vételező egyetemes szolgáltató által adott, és a volt közüzemi nagykereskedő által visszaigazolt gáznapi fogyasztási előrejelzés, valamint a szállítási rendszerüzemeltető által publikált napi végleges földgázforgalmi mérleg szerint vételezett mennyiség közötti különbség meghaladja a földgázbeszerzési költség indokolt mértékének meghatározásakor figyelembe vett kiegyensúlyozási gázmennyiséget, az egyetemes szolgáltató – a felek eltérő megállapodásának hiányában – köteles a túllépéshez kötődő kiegyensúlyozási többletköltséget a volt közüzemi nagykereskedőnek havonta utólag, számla ellenében, a volt közüzemi nagykereskedő üzletszabályzatában meghatározottak szerint megfizetni.
 
-(7)[^22] A (6) bekezdés szerinti kiegyensúlyozási többletköltség a túllépéssel érintett mennyiségre vonatkozóan
+(7)[^24] A (6) bekezdés szerinti kiegyensúlyozási többletköltség a túllépéssel érintett mennyiségre vonatkozóan
 
 a) a 3. melléklet 1–4. pontja szerinti – kiegyensúlyozási költséggel csökkentett – elismert ár és a kiegyensúlyozó gáz eladási vagy vételi árának különbsége, valamint
 
 b) a kiegyensúlyozó földgáz-forgalmat elszámoló fél által felszámított forgalmi díj.
 
-[^21]: A 6. § (6) bekezdését a 38/2017. (IX. 29.) NFM rendelet 9. §-a iktatta be.
-[^22]: A 6. § (7) bekezdését a 38/2017. (IX. 29.) NFM rendelet 9. §-a iktatta be.
+[^23]: A 6. § (6) bekezdését a 38/2017. (IX. 29.) NFM rendelet 9. §-a iktatta be.
+[^24]: A 6. § (7) bekezdését a 38/2017. (IX. 29.) NFM rendelet 9. §-a iktatta be.
