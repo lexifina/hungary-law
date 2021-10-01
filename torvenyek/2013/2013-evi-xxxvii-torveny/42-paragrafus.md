@@ -2,7 +2,7 @@
 
 ## A VÁLASZTOTTBÍRÓSÁGI EGYEZMÉNY ALKALMAZÁSÁHOZ KAPCSOLÓDÓ RENDELKEZÉSEK
 
-42. § (1) E fejezet rendelkezéseit – a Választottbírósági Egyezmény eltérő rendelkezése hiányában – az érintett személy választása alapján a Választottbírósági Egyezmény szerinti eljárásokra kell alkalmazni. A Választottbírósági Egyezmény szerinti eljárásban az állami adó- és vámhatóság (a továbbiakban: illetékes hatóság) jár el.
+42. § (1) E fejezet rendelkezéseit – a Választottbírósági Egyezmény eltérő rendelkezése hiányában – az érintett személy választása alapján a Választottbírósági Egyezmény szerinti eljárásokra kell alkalmazni. A Választottbírósági Egyezmény szerinti eljárásban az adópolitikáért felelős miniszter (a továbbiakban: illetékes hatóság) jár el.
 
 (2) Vitás kérdés rendezésére irányuló kérelmet (a továbbiakban: panasz) terjeszthet elő a magyar illetékes hatóság részére a magyar belföldi adóügyi illetőségű érintett személy, illetve a külföldi illetékes hatóság a külföldi adóügyi illetőségű érintett személy kérelme alapján.
 

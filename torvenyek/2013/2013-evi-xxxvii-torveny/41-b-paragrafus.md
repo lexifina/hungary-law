@@ -1,6 +1,6 @@
 ## 14/B. A panasz benyújtása, tartalma, visszavonása
 
-41/B. § (1) Az európai uniós kölcsönös egyeztető eljárásban a kapcsolt vállalkozásokat érintő, szokásos piaci ár megállapításával kapcsolatos kölcsönös egyeztető eljárásban az állami adó- és vámhatóság; minden más esetben – ideértve az állandó telephely fennállta és az annak betudható jövedelem megállapításával összefüggő vitás kérdést – az adópolitikáért felelős miniszter jár el (a továbbiakban együtt: magyar illetékes hatóság).
+41/B. § (1) Az európai uniós kölcsönös egyeztető eljárásban az adópolitikáért felelős miniszter jár el (a továbbiakban: magyar illetékes hatóság).
 
 (2) Az érintett személy – az (5) bekezdésben meghatározott érintett személyeket kivéve – az illetékes hatósághoz benyújtott, vitás kérdés rendezésére irányuló kérelem (a továbbiakban: panasz) alapján kérelmezheti annak rendezését, feltéve, hogy a panasz minden egyes érintett tagállam illetékes hatóságához benyújtásra került.
 
