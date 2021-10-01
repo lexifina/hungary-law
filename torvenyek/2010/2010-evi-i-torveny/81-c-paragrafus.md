@@ -1,6 +1,6 @@
 81/C. § (1) Az elektronikus anyakönyvben kezelt adatok teljes körét, valamint az elektronikus anyakönyvi alapiratot közvetlen hozzáféréssel jogosult átvenni, továbbá a papír alapú anyakönyvben nyilvántartott és e törvény szerint az elektronikus anyakönyv adattartalmát képező adatot jogosult megtekinteni és átvenni, és az anyakönyvi alapiratot jogosult megtekinteni és arról másolatot kérni a 84. § (2) bekezdés a) pontjában foglalt adatok megadásával
 
-a) az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv az állampolgársági eljárásban az érintett anyakönyvezett adatainak, névviselésének, valamint a családi kapcsolatok fennállásának megállapítása céljából,
+a)
 
 b) a személyiadat- és lakcímnyilvántartás szerve a személyiadat- és lakcímnyilvántartás vezetése céljából,
 

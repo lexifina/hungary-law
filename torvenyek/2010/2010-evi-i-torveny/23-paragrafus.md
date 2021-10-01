@@ -4,4 +4,4 @@
 
 (2) A házasságkötést megelőző eljárásban az anyakönyvi szerv harminc napon belül nyilatkozik a külföldi okiratok elfogadhatóságáról.
 
-(3) Azonos állampolgárságú nem magyar állampolgár házasulók az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is köthetnek házasságot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.
+(3) Azonos külföldi állampolgárságú házasulók – ideértve azt is, ha a házasulók valamelyike magyar állampolgársággal is rendelkezik – az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is köthetnek házasságot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.

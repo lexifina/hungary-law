@@ -8,4 +8,4 @@ b) a nemzetközi magánjogról szóló 2017. évi XXVIII. törvény (a továbbia
 
 (2) A bejegyzett élettársi kapcsolat létesítését megelőző eljárásban az anyakönyvi szerv harminc napon belül nyilatkozik a külföldi okiratok elfogadhatóságáról.
 
-(3) Azonos állampolgárságú nem magyar állampolgár felek az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is létesíthetnek bejegyzett élettársi kapcsolatot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.
+(3) Azonos külföldi állampolgárságú felek – ideértve azt is, ha a felek legalább egyike magyar állampolgársággal is rendelkezik – az állampolgárságuk szerint illetékes, Magyarország területén található külképviseleti hatóságnál is létesíthetnek bejegyzett élettársi kapcsolatot, feltéve, hogy nemzetközi szerződés és a külföldi állam joga ezt lehetővé teszi.
