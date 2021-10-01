@@ -1,3 +1,3 @@
-## 4.[^7]
+## 4.[^8]
 
-[^7]: A 4. alcímet (13–20. §) az 52/2017. (XII. 22.) NFM rendelet 39. § d) pontja hatályon kívül helyezte.
+[^8]: A 4. alcímet (13–20. §) az 52/2017. (XII. 22.) NFM rendelet 39. § d) pontja hatályon kívül helyezte.

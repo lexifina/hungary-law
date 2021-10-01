@@ -20,6 +20,8 @@ f) a gázmérővel nem rendelkező felhasználók árszabása.
 
 a) tartalmazza a rendszerhasználati díjakat,
 
-b) nem tartalmazza az általános forgalmi adó, az energiaadó és a felhasználót terhelő egyéb adók, valamint – a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 8. § (8) bekezdésének a) pontjára tekintettel az egyetemes szolgáltató által kizárólag a nem lakossági fogyasztóra továbbhárítható – tagi hozzájárulás összegét.
+b)[^4] nem tartalmazza az általános forgalmi adó, az energiaadó és a felhasználót terhelő egyéb adók, valamint – a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 8. § (8) bekezdésére tekintettel az egyetemes szolgáltató által kizárólag a nem lakossági fogyasztóra továbbhárítható – tagi hozzájárulás összegét.
 
 (4) Az egyetemes szolgáltató által alkalmazandó díjakat – elosztói működési területenkénti bontásban, az éves fogyasztott mennyiség alapján I. és II. árkategóriában – az 1. melléklet tartalmazza.
+
+[^4]: A 3. § (3) bekezdés b) pontja a 48/2021. (IX. 30.) ITM rendelet 5. § a) pontja szerint módosított szöveg.
