@@ -1,12 +1,12 @@
-## 8. §[^12] A Kar a felhasználók számára az informatikai alkalmazás használatának elősegítésére az elektronikus árverési rendszer felületén folyamatosan működtet elektronikus úton elérhető szakmai és technikai segítségnyújtó szolgáltatást.
+## 8. §[^14] A Kar a felhasználók számára az informatikai alkalmazás használatának elősegítésére az elektronikus árverési rendszer felületén folyamatosan működtet elektronikus úton elérhető szakmai és technikai segítségnyújtó szolgáltatást.
 
-## Felhasználási szabályzat[^13]
+## Felhasználási szabályzat[^15]
 
-9. § (1)[^14] A Kar az elektronikus árverési rendszer működésének és árverezőként történő használatának feltételeit szabályzatban (a továbbiakban: felhasználási szabályzat) állapítja meg.
+9. § (1)[^16] A Kar az elektronikus árverési rendszer működésének és árverezőként történő használatának feltételeit szabályzatban (a továbbiakban: felhasználási szabályzat) állapítja meg.
 
-(2)[^15] A felhasználási szabályzat kötelező tartalmi elemei a következők:
+(2)[^17] A felhasználási szabályzat kötelező tartalmi elemei a következők:
 
-a)[^16] a felhasználási szabályzat és a módosítása felhasználó által történő elfogadásának módja;
+a)[^18] a felhasználási szabályzat és a módosítása felhasználó által történő elfogadásának módja;
 
 b) az oldalfrissítés beállításának módja;
 
@@ -38,8 +38,8 @@ i) tájékoztatás az árverező adatainak kezeléséről (adatok köre, kezelé
 
 j) az elektronikus árverési rendszerhez tartozó, a felhasználók rendelkezésére álló szakmai és technikai segítségnyújtó szolgáltatás tartalma.
 
-[^12]: A 8. § az 5/2016. (III. 8.) IM rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^13]: A 9. §-t megelőző alcím a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^14]: A 9. § (1) bekezdése a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja, az 5/2016. (III. 8.) IM rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^15]: A 9. § (2) bekezdésének bevezető szövegrésze a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
-[^16]: A 9. § (2) bekezdésének a) pontja a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
+[^14]: A 8. § az 5/2016. (III. 8.) IM rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^15]: A 9. §-t megelőző alcím a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^16]: A 9. § (1) bekezdése a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja, az 5/2016. (III. 8.) IM rendelet 17. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^17]: A 9. § (2) bekezdésének bevezető szövegrésze a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.
+[^18]: A 9. § (2) bekezdésének a) pontja a 31/2009. (VIII. 14.) IRM rendelet 6. § (3) bekezdésének b) pontja szerint módosított szöveg. E módosító rendelet 6. § (2) bekezdése alapján az új informatikai alkalmazást azokon az árveréseken kell alkalmazni, amelyek árverési hirdetményét 2009. augusztus 21. napját követően tették közzé az elektronikus árverési hirdetmények nyilvántartásában.

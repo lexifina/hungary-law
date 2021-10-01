@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-27-20-1
 | 2014-03-15 | 2008-27-20-1U.9 | 21/2014. (III. 13.) KIM rendelet |
 | 2016-03-09 | 2008-27-20-1U.10 | 5/2016. (III. 8.) IM rendelet |
 | 2019-08-12 | 2008-27-20-1U.11 | 18/2019. (VI. 28.) IM rendelet |
+| 2021-10-01 | 2008-27-20-1U.12 | 10/2021. (IX. 30.) IM rendelet |
