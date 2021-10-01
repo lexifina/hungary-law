@@ -18,9 +18,11 @@ d) a rendvédelmi szerv és a Katonai Nemzetbiztonsági Szolgálat.
 
 (3) Önálló szabályozó szerv
 
-a) a Nemzeti Média- és Hírközlési Hatóság, és
+a) a Nemzeti Média- és Hírközlési Hatóság,
 
-b) a Magyar Energetikai és Közmű-szabályozási Hivatal.
+b) a Magyar Energetikai és Közmű-szabályozási Hivatal és
+
+c) a Szabályozott Tevékenységek Felügyeleti Hatósága.
 
 (4) Autonóm államigazgatási szerv
 
