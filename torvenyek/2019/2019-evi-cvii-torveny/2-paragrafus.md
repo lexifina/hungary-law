@@ -22,7 +22,7 @@ i) a Magyar Művészeti Akadémia Titkársága,
 
 j) az Állambiztonsági Szolgálatok Történeti Levéltára,
 
-k)
+k) a Szabályozott Tevékenységek Felügyeleti Hatósága,
 
 l) a Közbeszerzési Hatóság,
 
