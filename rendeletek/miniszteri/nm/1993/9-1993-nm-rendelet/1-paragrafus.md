@@ -84,7 +84,7 @@ f)[^16] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (20)[^28] A műszívkezelés alkalmazásának finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg- szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,75-szorosa.
 
-(21)[^29]
+(21)[^29] A gümőkor multidrog- és kiterjedten rezisztens eseteinek finanszírozása annak időtartama alatt napidíjjal történik a fekvőbeteg-szakellátásban, amelynek értéke a HBCs súlyszám aktuális forintértékének 0,09-szerese.
 
 [^2]: Az 1. § (1) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. §-t megelőző alcímet ugyanezen rendelet 7. §-a (2) bekezdésének a) pontja hatályon kívül helyezte. Az 1. § (1) bekezdése a 48/2005. (XI. 8.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdése a 29/2010. (XII. 30.) NEFMI rendelet 6. § a) pontja, a 9/2012. (II. 28.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
@@ -113,4 +113,4 @@ f)[^16] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 [^26]: Az 1. § (18) bekezdését a 26/2006. (VI. 26.) EüM rendelet 1. § (2) bekezdése iktatta be, szövege a 29/2010. (XII. 30.) NEFMI rendelet 7. §-a, a 70/2011. (XII. 23.) NEFMI rendelet 1. § a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 2. § a)–b) pontja szerint módosított szöveg.
 [^27]: Az 1. § (19) bekezdését a 28/2009. (VIII. 7.) EüM rendelet 2. §-a iktatta be, szövege a 9/2012. (II. 28.) NEFMI rendelet 8. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.
 [^28]: Az 1. § (20) bekezdését a 35/2010. (V. 14.) EüM rendelet 1. §-a iktatta be.
-[^29]: Az 1. § (21) bekezdését a 29/2010. (XII. 30.) NEFMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 9/2013. (I. 31.) EMMI rendelet 3. § a) pontja.
+[^29]: Az 1. § (21) bekezdését újonnan a 39/2021. (IX. 6.) EMMI rendelet 1. §-a iktatta be.

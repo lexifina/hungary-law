@@ -22,7 +22,7 @@
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2903 Országos Klinikai Idegtudományi Intézet |
+| Országos Klinikai Idegtudományi Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -40,7 +40,7 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
+| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
 
 | 2. 01001 HALO készülék |
 
@@ -60,7 +60,7 @@
 
 | 2425 Tolna Megyei Balassa János Kórház |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2747 Kanizsai Dorottya Kórház, Nagykanizsa |
 
@@ -72,7 +72,7 @@
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2903 Országos Klinikai Idegtudományi Intézet |
+| Országos Klinikai Idegtudományi Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -88,7 +88,7 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
+| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
 
 | 3. 01010 Scoliosis implantátum |
 
@@ -116,7 +116,7 @@
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| 5. 01062 Érprotézisek gyűrűs vagy külső spirál erősítéssel (egyenes protézis, Y protézis) |
+| 5. 01062 Egyenes érprotézis gyűrűs vagy spirál, külső vagy belső erősítéssel, valamint Dacron alaplanyagú Y protézis |
 
 | Elszámolásra jogosult intézetek: |
 
@@ -138,7 +138,7 @@
 
 | 2425 Tolna Megyei Balassa János Kórház |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
@@ -154,7 +154,7 @@
 
 | 2891 Uzsoki utcai Kórház |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
@@ -190,9 +190,9 @@
 
 | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2915 Semmelweis Egyetem |
 
@@ -210,11 +210,11 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -228,7 +228,7 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -246,7 +246,7 @@
 
 | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
@@ -256,7 +256,7 @@
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -278,13 +278,13 @@
 
 | Elszámolásra jogosult intézetek: |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet 2915 Semmelweis Egyetem |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet 2915 Semmelweis Egyetem |
 
 | 7/e. 01523 Középtávú keringéstámogató eszközök és tartozékai (ECMO) |
 
 | Elszámolásra jogosult intézetek: |
 
-| 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2896 Gottsegen György Országos Kardiológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2896 Gottsegen György Országos Kardiovaszkuláris Intézet 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
@@ -302,13 +302,13 @@
 
 | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2893 Állami Szívkórház, Balatonfüred |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -328,15 +328,15 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| 9. 01110 Szívbillentyűk (mű, biológiai) |
+| 9. 01110 Szívbillentyűk (mű, biológiai, homograft, saját pericardiumból képzett) |
 
 | Elszámolásra jogosult intézetek: |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -354,13 +354,13 @@
 
 | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2893 Állami Szívkórház, Balatonfüred |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -380,13 +380,13 @@
 
 | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2893 Állami Szívkórház, Balatonfüred |
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -426,7 +426,7 @@
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2903 Országos Klinikai Idegtudományi Intézet |
+| Országos Klinikai Idegtudományi Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -442,6 +442,8 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
+| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+
 | 12. 01140 Peritoneo-venosus shunt |
 
 | Elszámolásra jogosult intézetek: |
@@ -450,6 +452,8 @@
 
 | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
+| 2894 Debreceni Egyetem Klinikai Központ |
+
 | 2912 Pécsi Tudományegyetem |
 
 | 2915 Semmelweis Egyetem |
@@ -457,8 +461,6 @@
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
-
-| R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
 
 | 13. 01150 Transjuguláris, intrahepatikus porto-cavalis shunt (TIPS) |
 
@@ -484,13 +486,15 @@
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2903 Országos Klinikai Idegtudományi Intézet |
+| Országos Klinikai Idegtudományi Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+
+| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
 
 | 15. 01204 Orbitális implantátum |
 
@@ -538,7 +542,7 @@
 
 | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
@@ -562,21 +566,21 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
-
 | 18/b. 01340 CAD-CAM eljárással tervezett koponya- és arccsontpótló eszközök |
 
 | Elszámolásra jogosult intézetek: |
 
 | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-| 2903 Országos Klinikai Idegtudományi Intézet |
+| Országos Klinikai Idegtudományi Intézet |
 
 | 2915 Semmelweis Egyetem |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | K403 Magyar Honvédség Egészségügyi Központ |
+
+| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
 
 | 18/c. 01343 Maxillo-faciális helyreállító protézisek |
 
@@ -606,7 +610,7 @@
 
 | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
@@ -614,7 +618,7 @@
 
 | 2894 Debreceni Egyetem Klinikai Központ |
 
-| 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
 | 2912 Pécsi Tudományegyetem |
 
@@ -650,7 +654,7 @@
 
 | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-| 2734 Zala Megyei Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
 | 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
 
@@ -676,754 +680,814 @@
 
 | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | R464 Békés Megyei Központi Kórház, Gyula |
+| R464 Békés Megyei Központi Kórház, Gyula |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | 21. 01349 Mamma protézis |
+| 21. 01349 Mamma protézis |
 
-|  | Elszámolásra jogosult intézetek: |
+| Elszámolásra jogosult intézetek: |
 
-|  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
+| 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
 
-|  | 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+| 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-|  | 2425 Tolna Megyei Balassa János Kórház |
+| 2425 Tolna Megyei Balassa János Kórház |
 
-|  | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
-|  | 2889 Szent Imre Kórház |
+| 2889 Szent Imre Kórház |
 
-|  | 2891 Uzsoki utcai Kórház |
+| 2891 Uzsoki utcai Kórház |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2906 Országos Onkológiai Intézet |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2915 Semmelweis Egyetem |
+| 2915 Semmelweis Egyetem |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | N511 Szent Margit Kórház |
+| N511 Szent Margit Kórház |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
+| 22. 01350 Tissue expander, extender |
 
-|  | 22. 01350 Tissue expander, extender |
+| Elszámolásra jogosult intézetek: |
 
-|  | Elszámolásra jogosult intézetek: |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-|  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+| 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-|  | 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2425 Tolna Megyei Balassa János Kórház |
 
-|  | 2425 Tolna Megyei Balassa János Kórház |
+| 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
 
-|  | 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
-|  | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-|  | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
+| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
-|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2889 Szent Imre Kórház |
 
-|  | 2889 Szent Imre Kórház |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2906 Országos Onkológiai Intézet |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| N511 Szent Margit Kórház, Budapest |
 
-|  | N511 Szent Margit Kórház, Budapest |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 23. 01351 Mély-rectum és nyelőcső műtétek során használt anastomosis-varrógépek és tárak |
 
-|  | 23. 01351 Mély-rectum és nyelőcső műtétek során használt anastomosis-varrógépek és tárak |
+| Elszámolásra jogosult intézetek: |
 
-|  | Elszámolásra jogosult intézetek: |
+| 1084 Bajai Szent Rókus Kórház |
 
-|  | 1084 Bajai Szent Rókus Kórház |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-|  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+| 1243 Orosházi Kórház |
 
-|  | 1243 Orosházi Kórház |
+| 1454 Csongrád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely - Makó |
 
-|  | 1454 Csongrád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely - Makó |
+| 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
-|  | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
 
-|  | 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
+| 1865 Vaszary Kolos Kórház, Esztergom |
 
-|  | 1865 Vaszary Kolos Kórház, Esztergom |
+| 1876 Szent Borbála Kórház, Tatabánya |
 
-|  | 1876 Szent Borbála Kórház, Tatabánya |
+| 1903 Dr. Kenessey Albert Kórház-Rendelőintézet, Balassagyarmat |
 
-|  | 1903 Dr. Kenessey Albert Kórház-Rendelőintézet, Balassagyarmat |
+| 1928 Szent Lázár Megyei Kórház, Salgótarján |
 
-|  | 1928 Szent Lázár Megyei Kórház, Salgótarján |
+| 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-|  | 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+| 2095 Jávorszky Ödön Kórház, Vác |
 
-|  | 2095 Jávorszky Ödön Kórház, Vác |
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2162 Siófoki Kórház-Rendelőintézet |
 
-|  | 2162 Siófoki Kórház-Rendelőintézet |
+| 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-|  | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| 2425 Tolna Megyei Balassa János Kórház |
 
-|  | 2425 Tolna Megyei Balassa János Kórház |
+| 2535 Magyar Imre Kórház, Ajka |
 
-|  | 2535 Magyar Imre Kórház, Ajka |
+| 2586 Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő, Pápa |
 
-|  | 2586 Gróf Esterházy Kórház és Rendelőintézeti Szakrendelő, Pápa |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
-|  | 2734 Zala Megyei Kórház |
+| 2747 Kanizsai Dorottya Kórház, Nagykanizsa |
 
-|  | 2747 Kanizsai Dorottya Kórház, Nagykanizsa |
+| 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-|  | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
-|  | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-|  | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
+| 2879 Jahn Ferenc Dél-pesti Kórház |
 
-|  | 2879 Jahn Ferenc Dél-pesti Kórház |
+| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
-|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2889 Szent Imre Kórház |
 
-|  | 2889 Szent Imre Kórház |
+| 2891 Uzsoki utcai Kórház |
 
-|  | 2891 Uzsoki utcai Kórház |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2906 Országos Onkológiai Intézet |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 2915 Semmelweis Egyetem |
 
-|  | 2915 Semmelweis Egyetem |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| M915 Betegápoló Irgalmas Rend |
 
-|  | M915 Betegápoló Irgalmas Rend |
+| M934 Szent Pantaleon Kórház-Rendelőintézet Dunaújváros |
 
-|  | M934 Szent Pantaleon Kórház-Rendelőintézet Dunaújváros |
+| N511 Szent Margit Kórház, Budapest |
 
-|  | N511 Szent Margit Kórház, Budapest |
+| N582 Dombóvári Szent Lukács Kórház |
 
-|  | N582 Dombóvári Szent Lukács Kórház |
+| N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
 
-|  | N585 Markhot Ferenc Oktatókórház és Rendelőintézet, Eger |
+| N590 Kiskunhalasi Semmelweis Kórház |
 
-|  | N590 Kiskunhalasi Semmelweis Kórház |
+| N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
 
-|  | N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
+| N594 Csolnoky Ferenc Kórház, Veszprém |
 
-|  | N594 Csolnoky Ferenc Kórház, Veszprém |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| R464 Békés Megyei Központi Kórház, Gyula |
 
-|  | R464 Békés Megyei Központi Kórház, Gyula |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 24. 0135C Nyílt tüdőműtét során használt varrógépek és tárak |
 
-|  | R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | 24. 0135C Nyílt tüdőműtét során használt varrógépek és tárak |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-|  | Elszámolásra jogosult intézetek: |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-|  | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
-|  | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+| 2897 Országos Korányi Pulmonológiai Intézet |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2897 Országos Korányi Pulmonológiai Intézet |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2906 Országos Onkológiai Intézet |
+| 2915 Semmelweis Egyetem |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2915 Semmelweis Egyetem |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| 25. 0135E Egyszer használatos eszköz vacuum core biopszia (VCB) Mammotome-hoz |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | 25. 0135E Egyszer használatos eszköz vacuum core biopszia (VCB) Mammotome-hoz |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | Elszámolásra jogosult intézetek: |
+| 26. Video-thoracoscopos mellkasi (VATS) reszekció során felhasznált bizonyos egyszerhasználatos eszközök 26/a. 0135F Video-thoracoscopos mellkasi (VATS) anatómiai reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak, lágyrészeltartó gyűrű, lebenykiemelő zsák, elektromos vagy ultrahangos egyszerhasználatos videothoracoscopos vágóeszköz) Elszámolásra jogosult intézetek: 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2915 Semmelweis Egyetem 2912 Pécsi Tudományegyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely 26/b. 0135L Video-thoracoscopos mellkasi (VATS) atípusos reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak) Elszámolásra jogosult intézetek: 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1640 Petz Aladár Megyei Oktató Kórház, Győr 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| 27. 0135G Kolorectalis laparoszkopós bélműtétek során használt varrógépek, tárak és kiegészítő eszközök |
 
-|  | 26. Video-thoracoscopos mellkasi (VATS) reszekció során felhasznált bizonyos egyszerhasználatos eszközök 26/a. 0135F Video-thoracoscopos mellkasi (VATS) anatómiai reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak, lágyrészeltartó gyűrű, lebenykiemelő zsák, elektromos vagy ultrahangos egyszerhasználatos videothoracoscopos vágóeszköz) Elszámolásra jogosult intézetek: 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2915 Semmelweis Egyetem 2912 Pécsi Tudományegyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely 26/b. 0135L Video-thoracoscopos mellkasi (VATS) atípusos reszekció során felhasznált bizonyos egyszerhasználatos eszközök (ideértve: varrógépek és tárak) Elszámolásra jogosult intézetek: 1122 Bács-Kiskun Megyei Kórház, Kecskemét 1640 Petz Aladár Megyei Oktató Kórház, Győr 2137 Somogy Megyei Kaposi Mór Oktató Kórház 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet 2877 Heim Pál Országos Gyermekgyógyászati Intézet 2894 Debreceni Egyetem Klinikai Központ 2897 Országos Korányi Pulmonológiai Intézet 2906 Országos Onkológiai Intézet 2912 Pécsi Tudományegyetem 2915 Semmelweis Egyetem 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ K403 Magyar Honvédség Egészségügyi Központ N595 Markusovszky Egyetemi Oktatókórház, Szombathely R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | 27. 0135G Kolorectalis laparoszkopós bélműtétek során használt varrógépek, tárak és kiegészítő eszközök |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-|  | Elszámolásra jogosult intézetek: |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+| 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 1876 Szent Borbála Kórház, Tatabánya |
 
-|  | 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
+| 1903 Dr. Kenessey Albert Kórház-Rendelőintézet, Balassagyarmat |
 
-|  | 1876 Szent Borbála Kórház, Tatabánya |
+| 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
 
-|  | 1903 Dr. Kenessey Albert Kórház-Rendelőintézet, Balassagyarmat |
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-|  | 2010 Pest Megyei Flór Ferenc Kórház, Kistarcsa |
+| 2425 Tolna Megyei Balassa János Kórház |
 
-|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
-|  | 2425 Tolna Megyei Balassa János Kórház |
+| 2747 Kanizsai Dorottya Kórház, Nagykanizsa |
 
-|  | 2734 Zala Megyei Kórház |
+| 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-|  | 2747 Kanizsai Dorottya Kórház, Nagykanizsa |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-|  | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| 2879 Jahn Ferenc Dél-pesti Kórház |
 
-|  | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
+| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
-|  | 2879 Jahn Ferenc Dél-pesti Kórház |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2889 Szent Imre Kórház |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2891 Uzsoki utcai Kórház |
 
-|  | 2889 Szent Imre Kórház |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2891 Uzsoki utcai Kórház |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2906 Országos Onkológiai Intézet |
+| 2915 Semmelweis Egyetem |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2915 Semmelweis Egyetem |
+| N590 Kiskunhalasi Semmelweis Kórház |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| N591 Szigetvári Kórház |
 
-|  | N590 Kiskunhalasi Semmelweis Kórház |
+| N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
 
-|  | N591 Szigetvári Kórház |
+| N594 Csolnoky Ferenc Kórház, Veszprém |
 
-|  | N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | N594 Csolnoky Ferenc Kórház, Veszprém |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| R464 Békés Megyei Központi Kórház, Gyula |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | R464 Békés Megyei Központi Kórház, Gyula |
+| 28. 0135K Húgyhólyag laparoszkopós műtétek során használt varrógépek, tárak és kiegészítő eszközök |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | R787 Debreceni Egyetem Kenézy Gyula Egyetemi Kórház |
+| 2879 Jahn Ferenc Dél-pesti Kórház |
 
-|  | 28. 0135K Húgyhólyag laparoszkopós műtétek során használt varrógépek, tárak és kiegészítő eszközök |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2879 Jahn Ferenc Dél-pesti Kórház |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | 2915 Semmelweis Egyetem |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 29. 01360 Injektálható implantátum a vesico-ureterális reflux és az inkontinencia kezeléséhez |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| Elszámolásra jogosult intézetek: |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 29. 01360 Injektálható implantátum a vesico-ureterális reflux és az inkontinencia kezeléséhez |
+| 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2915 Semmelweis Egyetem |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 30. 01370 Végtagmegőrző endoprotézis (rosszindulatú alapbetegség kezelésében) |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| Elszámolásra jogosult intézetek: |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 30. 01370 Végtagmegőrző endoprotézis (rosszindulatú alapbetegség kezelésében) |
+| 2912 Pécsi Tudományegyetem |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 31. Biológiai implantátum (konzerv csont, porc, ín, szaruhártya, keratinocyta, egyéb) |
 
-|  | 2915 Semmelweis Egyetem |
+| 31/a. 01401 Biológiai implantátum (konzerv csont) |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| Elszámolásra jogosult intézetek: |
 
-|  | 31. Biológiai implantátum (konzerv csont, porc, ín, szaruhártya, keratinocyta, egyéb) |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 31/a. 01401 Biológiai implantátum (konzerv csont) |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2915 Semmelweis Egyetem |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 31/b. 01402 Biológiai implantátum (porc) |
 
-|  | 2912 Pécsi Tudományegyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2915 Semmelweis Egyetem |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 31/b. 01402 Biológiai implantátum (porc) |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2915 Semmelweis Egyetem |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 31/c. 01403 Biológiai implantátum (ín) |
 
-|  | 2912 Pécsi Tudományegyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2915 Semmelweis Egyetem |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 31/c. 01403 Biológiai implantátum (ín) |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2915 Semmelweis Egyetem |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 31/d. 01404 Biológiai implantátum (szaruhártya) |
 
-|  | 2912 Pécsi Tudományegyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2915 Semmelweis Egyetem |
+| 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-|  | 31/d. 01404 Biológiai implantátum (szaruhártya) |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | 2915 Semmelweis Egyetem |
+| 31/e. 01405 Biológiai implantátum (keratinocyta) |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| Elszámolásra jogosult intézetek: |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 31/e. 01405 Biológiai implantátum (keratinocyta) |
+| 31/f. 01407 Biológiai implantátum (konzervált amnion) |
 
-|  | Elszámolásra jogosult intézetek: |
+| Elszámolásra jogosult intézetek: |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
 
-|  | 31/f. 01407 Biológiai implantátum (konzervált amnion) |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2873 Bajcsy-Zsilinszky Kórház és Rendelőintézet |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 31/g. 01409 Biológiai implantátum, egyéb (kivétel: csont, porc, ín szaruhártya, keratinocyta) |
 
-|  | 2915 Semmelweis Egyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 31/g. 01409 Biológiai implantátum, egyéb (kivétel: csont, porc, ín szaruhártya, keratinocyta) |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2915 Semmelweis Egyetem |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 32. 01501 Stent-graftok (aorta, artéria iliaca) |
 
-|  | 2912 Pécsi Tudományegyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2915 Semmelweis Egyetem |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 32. 01501 Stent-graftok (aorta, artéria iliaca) |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2915 Semmelweis Egyetem |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 33. |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| 34. 01503 Műanyag keratoprotézis |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | 33. 01502 Szembetegségek kezeléséhez szükséges Ruthenium applikátor |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 35. 01505 Percután rádiófrekvenciás máj-tumor ablációs eszköz |
 
-|  | 34. 01503 Műanyag keratoprotézis |
+| Elszámolásra jogosult intézetek: |
 
-|  | Elszámolásra jogosult intézetek: |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-|  | 2915 Semmelweis Egyetem |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
-|  | 35. 01505 Percután rádiófrekvenciás máj-tumor ablációs eszköz |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2889 Szent Imre Kórház |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2734 Zala Megyei Kórház |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2915 Semmelweis Egyetem |
 
-|  | 2889 Szent Imre Kórház |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2906 Országos Onkológiai Intézet |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | 2912 Pécsi Tudományegyetem |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | 2915 Semmelweis Egyetem |
+| 36. 01506 Baclofen-pumpa |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| Elszámolásra jogosult intézetek: |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| Országos Klinikai Idegtudományi Intézet |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 36. 01506 Baclofen-pumpa |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | Elszámolásra jogosult intézetek: |
+| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 37. 01507 Légúti stentek |
 
-|  | 2903 Országos Klinikai Idegtudományi Intézet |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 2897 Országos Korányi Pulmonológiai Intézet |
 
-|  | 37. 01507 Légúti stentek |
+| 2906 Országos Onkológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2915 Semmelweis Egyetem |
 
-|  | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
+| 38. Neuropacemaker |
 
-|  | 2897 Országos Korányi Pulmonológiai Intézet |
+| 38/a. 01508 Mély agyi stimulátor (pacemaker) |
 
-|  | 2906 Országos Onkológiai Intézet |
+| 38/b. 01520 Gerincvelői stimulátor (pacemaker) |
 
-|  | 2915 Semmelweis Egyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 38. Neuropacemaker |
+| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
-|  | 38/a. 01508 Mély agyi stimulátor (pacemaker) |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 38/b. 01520 Gerincvelői stimulátor (pacemaker) |
+| Országos Klinikai Idegtudományi Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
 
-|  | 2903 Országos Klinikai Idegtudományi Intézet |
+| 39. Urethra stent, ureter stent |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 39/a. 01509 Urethra stent |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| Elszámolásra jogosult intézetek: |
 
-|  | 39. Urethra stent, ureter stent |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | 39/a. 01509 Urethra stent |
+| 2912 Pécsi Tudományegyetem |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 39/b. 01514 Ureter stent |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| Elszámolásra jogosult intézetek: |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| 2879 Jahn Ferenc Dél-pesti Kórház |
 
-|  | 39/b. 01514 Ureter stent |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2879 Jahn Ferenc Dél-pesti Kórház |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 40. 01510 Hereprotézis |
 
-|  | 2915 Semmelweis Egyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 40. 01510 Hereprotézis |
+| 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2879 Jahn Ferenc Dél-pesti Kórház |
 
-|  | 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
+| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
-|  | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2879 Jahn Ferenc Dél-pesti Kórház |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2915 Semmelweis Egyetem |
 
-|  | 2906 Országos Onkológiai Intézet |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2915 Semmelweis Egyetem |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 41. 01524 Égési sérültek ellátásához használt bőrpótló készítmény |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| Elszámolásra jogosult intézetek: |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
 
-|  | 41. 01524 Égési sérültek ellátásához használt bőrpótló készítmény |
+| 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
 
-|  | Elszámolásra jogosult intézetek: |
+| 42. 01517 Vékonybél endoszkópos kapszula |
 
-|  | 2872 Magyarországi Református Egyház Bethesda Gyermekkórháza |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2878 Dél-pesti Centrumkórház-Országos Hematológiai és Infektológiai Intézet |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-|  | 42. 01517 Vékonybél endoszkópos kapszula |
+| 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
-|  | Elszámolásra jogosult intézetek: |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+| 1865 Vaszary Kolos Kórház, Esztergom |
 
-|  | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
+| 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
-|  | 1865 Vaszary Kolos Kórház, Esztergom |
+| 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
 
-|  | 2137 Somogy Megyei Kaposi Mór Oktató Kórház |
+| 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
 
-|  | 2734 Zala Megyei Kórház |
+| 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
 
-|  | 2877 Heim Pál Országos Gyermekgyógyászati Intézet |
+| 2889 Szent Imre Kórház |
 
-|  | 2880 Szent János Kórház és Észak-budai Egyesített Kórházak |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2886 Péterfy Kórház-Rendelőintézet Országos Traumatológiai Intézet |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2889 Szent Imre Kórház |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2915 Semmelweis Egyetem |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| R464 Békés Megyei Központi Kórház, Gyula |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| 43. Antiglaucoma implantátum |
 
-|  | R464 Békés Megyei Központi Kórház, Gyula |
+| 43/a. 01518 Antiglaucoma shunt implantátum |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | 43. Antiglaucoma implantátum |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 43/a. 01518 Antiglaucoma shunt implantátum |
+| 2912 Pécsi Tudományegyetem |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 43/b. 01519 Antiglaucoma fascia lata implantátum |
 
-|  | 2915 Semmelweis Egyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 43/b. 01519 Antiglaucoma fascia lata implantátum |
+| 2912 Pécsi Tudományegyetem |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2915 Semmelweis Egyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| 44. 01600 Beültethető szívmonitor |
 
-|  | 2915 Semmelweis Egyetem |
+| Elszámolásra jogosult intézetek: |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
 
-|  | 44. 01600 Beültethető szívmonitor |
+| 1640 Petz Aladár Megyei Oktató Kórház, Győr |
 
-|  | Elszámolásra jogosult intézetek: |
+| 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
 
-|  | 1568 Fejér Megyei Szent György Egyetemi Oktató Kórház, Székesfehérvár |
+| 1876 Szent Borbála Kórház, Tatabánya |
 
-|  | 1640 Petz Aladár Megyei Oktató Kórház, Győr |
+| 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
 
-|  | 1663 Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet |
+| 2734 Zala Megyei Szent Rafael Kórház |
 
-|  | 1876 Szent Borbála Kórház, Tatabánya |
+| 2893 Állami Szívkórház, Balatonfüred |
 
-|  | 2324 Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 2734 Zala Megyei Kórház |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
-|  | 2893 Állami Szívkórház, Balatonfüred |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2915 Semmelweis Egyetem |
 
-|  | 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2912 Pécsi Tudományegyetem |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2915 Semmelweis Egyetem |
+| M915 Betegápoló Irgalmas Rend |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | M915 Betegápoló Irgalmas Rend |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | N593 Toldy Ferenc Kórház és Rendelőintézet, Cegléd |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| 45. 01700 Radioterápia során fellépő orális mucositis gyógyítására és megelőzésére alkalmas bevonószer |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
 
-|  | 45. 01700 Radioterápia során fellépő orális mucositis gyógyítására és megelőzésére alkalmas bevonószer |
+| 2891 Uzsoki utcai Kórház |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2894 Debreceni Egyetem Klinikai Központ |
 
-|  | 1122 Bács-Kiskun Megyei Kórház, Kecskemét |
+| 2906 Országos Onkológiai Intézet |
 
-|  | 2891 Uzsoki utcai Kórház |
+| 2912 Pécsi Tudományegyetem |
 
-|  | 2894 Debreceni Egyetem Klinikai Központ |
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-|  | 2906 Országos Onkológiai Intézet |
+| N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
 
-|  | 2912 Pécsi Tudományegyetem |
+| N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
 
-|  | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+| R464 Békés Megyei Központi Kórház, Gyula |
 
-|  | N595 Markusovszky Egyetemi Oktatókórház, Szombathely |
+| R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-|  | N599 Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház |
+| 46. Aorta érprotézisek |
 
-|  | R464 Békés Megyei Központi Kórház, Gyula |
+| 46/a. 01111 Aortaív, nyaki nagyerek és leszálló aorta ereit kombináltan érintő dissectio, aneurysma, intramuralis haematoma műtéti ellátása során használt hibrid graft |
 
-|  | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
+| Elszámolásra jogosult intézetek: |
 
-|  | 46. 01111 Mellkasi aorta aneurysma/dissectio műtéti ellátása során használt hibrid graft |
+| 2915 Semmelweis Egyetem |
 
-|  | Elszámolásra jogosult intézetek: |
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
 
-|  | 2915 Semmelweis Egyetem |
+| K403 Magyar Honvédség Egészségügyi Központ |
 
-|  | 2896 Gottsegen György Országos Kardiológiai Intézet |
+| 46/b. 01112 Felszálló aorta dissectio, aneurysma, intramuralis haematoma műtéti ellátása során használt érprotézis |
 
-|  | K403 Magyar Honvédség Egészségügyi Központ |
+| Elszámolásra jogosult intézetek: |
+
+| 2734 Zala Megyei Kórház |
+
+| 2894 Debreceni Egyetem Klinikai Központ |
+
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
+
+| 2912 Pécsi Tudományegyetem |
+
+| 2915 Semmelweis Egyetem |
+
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| K403 Magyar Honvédség Egészségügyi Központ |
+
+| 46/c. 01113 Aortaív dissectio, aneurysma, intramuralis haematoma műtéti ellátása során használt érprotézis |
+
+| Elszámolásra jogosult intézetek: |
+
+| 2734 Zala Megyei Kórház |
+
+| 2894 Debreceni Egyetem Klinikai Központ |
+
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
+
+| 2912 Pécsi Tudományegyetem |
+
+| 2915 Semmelweis Egyetem |
+
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| K403 Magyar Honvédség Egészségügyi Központ |
+
+| 47. 01114 Szívsebészeti ablációs eszköz |
+
+| Elszámolásra jogosult intézetek: |
+
+| 2734 Zala Megyei Kórház |
+
+| 2894 Debreceni Egyetem Klinikai Központ |
+
+| 2896 Gottsegen György Országos Kardiovaszkuláris Intézet |
+
+| 2912 Pécsi Tudományegyetem |
+
+| 2915 Semmelweis Egyetem |
+
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
+
+| K403 Magyar Honvédség Egészségügyi Központ |
+
+| 48. 01525 Műsphincter |
+
+| 2894 Debreceni Egyetem Klinikai Központ |
+
+| 2912 Pécsi Tudományegyetem |
+
+| 2915 Semmelweis Egyetem |
+
+| 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 1/A. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^111]
 
-[^111]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja szerint módosított szöveg.
+[^111]: Az 1/A. számú mellékletet a 62/2007. (XII. 29.) EüM rendelet 2. § (2) bekezdése iktatta be, szövege a 32/2016. (X. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, a 15/2017. (VI. 22.) EMMI rendelet 1. § (2) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 3. § (2) bekezdése, a 35/2018. (X. 12.) EMMI rendelet 1. §-a, a 15/2019. (VII. 26.) EMMI rendelet 1. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 1. § (1) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 2. § (2) bekezdése és 3. § a) pontja, a 39/2021. (IX. 6.) EMMI rendelet 2. § (2) bekezdése szerint módosított szöveg.
