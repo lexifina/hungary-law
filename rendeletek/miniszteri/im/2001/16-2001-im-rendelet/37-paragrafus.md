@@ -1,6 +1,6 @@
 ## Jegyzőkönyv
 
-37. § (1)[^97] A végrehajtói szakvizsgáról jelöltenként külön jegyzőkönyvet kell készíteni, és ebben fel kell tüntetni
+37. § (1)[^98] A végrehajtói szakvizsgáról jelöltenként külön jegyzőkönyvet kell készíteni, és ebben fel kell tüntetni
 
 a) a jelölt személyes adatait,
 
@@ -14,4 +14,4 @@ e) azt, hogy a jelölt a végrehajtói szakvizsgán megfelelt vagy nem felelt me
 
 (2) A jegyzőkönyvet a vizsgabizottság elnöke és tagjai aláírják.
 
-[^97]: A 37. § (1) bekezdése a 21/2016. (X. 11.) IM rendelet 9. §-ával megállapított szöveg.
+[^98]: A 37. § (1) bekezdése a 21/2016. (X. 11.) IM rendelet 9. §-ával megállapított szöveg.

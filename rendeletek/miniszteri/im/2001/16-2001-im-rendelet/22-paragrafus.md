@@ -1,18 +1,18 @@
 ## Jelentkezés a végrehajtói szakvizsgára
 
-22. § (1)[^81] Bírósági végrehajtói szakvizsgára (a továbbiakban: végrehajtói szakvizsga) az jelentkezhet, aki
+22. § (1)[^82] Bírósági végrehajtói szakvizsgára (a továbbiakban: végrehajtói szakvizsga) az jelentkezhet, aki
 
 a) egyéves végrehajtójelölti szakmai gyakorlatot szerzett és – a törvényszéki végrehajtójelöltek kivételével – a végrehajtójelölti képzésen való részvételét tanúsítvánnyal igazolja, vagy
 
 b) jogi szakvizsgával rendelkezik.
 
-(2)[^82] A szakmai gyakorlat idejébe azt az időt lehet beszámítani, amelyet a jelölt a középfokú iskolai végzettség megszerzése után önálló bírósági vagy törvényszéki végrehajtójelöltként töltött el.
+(2)[^83] A szakmai gyakorlat idejébe azt az időt lehet beszámítani, amelyet a jelölt a középfokú iskolai végzettség megszerzése után önálló bírósági vagy törvényszéki végrehajtójelöltként töltött el.
 
 (3) A különböző munkakörökben szerzett szakmai gyakorlatok idejét össze kell adni, és együttesen kell figyelembe venni.
 
 (4) A szakmai gyakorlat megkezdése után a végrehajtói szakvizsgára való jelentkezés szempontjából – a jelölt kérelmére – legfeljebb 1 hónap tartamáig be kell számítani a szakmai gyakorlat idejébe azt az időt, amely alatt a jelölt ténylegesen nem végzett végrehajtási tevékenységet az alábbi ok miatt:
 
-a)[^83]
+a)[^84]
 
 b) táppénzes állomány,
 
@@ -22,6 +22,6 @@ c) szülési szabadság, gyermekgondozási díj (segély) igénybevétele.
 
 (6) Nincs helye a beszámításnak, ha a jelölt a sikertelenség miatt megismételt végrehajtói szakvizsgára jelentkezett.
 
-[^81]: A 22. § (1) bekezdése a 43/2015. (XII. 30.) IM rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^82]: A 22. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^83]: A 22. § (4) bekezdésének a) pontját a 6/2008. (III. 1.) IRM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^82]: A 22. § (1) bekezdése a 43/2015. (XII. 30.) IM rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^83]: A 22. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^84]: A 22. § (4) bekezdésének a) pontját a 6/2008. (III. 1.) IRM rendelet 8. § c) pontja hatályon kívül helyezte.

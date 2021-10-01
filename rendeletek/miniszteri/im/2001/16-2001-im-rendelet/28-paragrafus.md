@@ -1,8 +1,8 @@
-## 27. §[^90] A Jogakadémia félévente egy alkalommal tűz ki szakvizsgát, kivéve ha a szakvizsgára bocsátásukat kérő jelöltek nagyobb száma további szakvizsga kitűzését indokolja.
+## 27. §[^91] A Jogakadémia félévente egy alkalommal tűz ki szakvizsgát, kivéve ha a szakvizsgára bocsátásukat kérő jelöltek nagyobb száma további szakvizsga kitűzését indokolja.
 
 ## A végrehajtói szakvizsga tárgyai
 
-## 28. §[^91] A végrehajtói szakvizsga tárgyai a következők:
+## 28. §[^92] A végrehajtói szakvizsga tárgyai a következők:
 
 a) a bírósági végrehajtásról szóló törvény és a bírósági végrehajtásra vonatkozó egyéb jogszabályok,
 
@@ -18,5 +18,5 @@ f) az Alaptörvény főbb rendelkezései, továbbá az igazságügyi szervezetre
 
 g) a bírósági végrehajtói tevékenység ellátásához szükséges jogi alapismeretek (a Polgári Törvénykönyvről szóló törvény, a polgári perrendtartásról szóló törvény, a Büntető Törvénykönyvről szóló törvény, a büntetőeljárásról szóló törvény, a csődeljárásról és a felszámolási eljárásról szóló törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény).
 
-[^90]: A 27. § a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés d) pontja szerint módosított szöveg.
-[^91]: A 28. § a 21/2016. (X. 11.) IM rendelet 7. §-ával megállapított szöveg.
+[^91]: A 27. § a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés d) pontja szerint módosított szöveg.
+[^92]: A 28. § a 21/2016. (X. 11.) IM rendelet 7. §-ával megállapított szöveg.

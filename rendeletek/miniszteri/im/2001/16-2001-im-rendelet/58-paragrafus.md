@@ -1,12 +1,12 @@
 ## Bírósági végrehajtói igazolvány
 
-58. § (1)[^116] A Bírósági végrehajtói igazolvány előoldalán a ,,BÍRÓSÁGI VÉGREHAJTÓI IGAZOLVÁNY'' felirat, Magyarország címere, a bírósági végrehajtó színes arcképe, a bírósági végrehajtó neve, az önálló bírósági vagy törvényszéki, megyei bírósági végrehajtói minőség megjelölése, a végrehajtó szolgálati helye, az igazolvány sorszáma és az érvényesség lejártának időpontja van feltüntetve.
+58. § (1)[^117] A Bírósági végrehajtói igazolvány előoldalán a ,,BÍRÓSÁGI VÉGREHAJTÓI IGAZOLVÁNY'' felirat, Magyarország címere, a bírósági végrehajtó színes arcképe, a bírósági végrehajtó neve, az önálló bírósági vagy törvényszéki, megyei bírósági végrehajtói minőség megjelölése, a végrehajtó szolgálati helye, az igazolvány sorszáma és az érvényesség lejártának időpontja van feltüntetve.
 
-(2)[^117] Az igazolvány hátoldala a „BÍRÓSÁGI VÉGREHAJTÓI IGAZOLVÁNY” feliratot és a következő szöveget tartalmazza:
+(2)[^118] Az igazolvány hátoldala a „BÍRÓSÁGI VÉGREHAJTÓI IGAZOLVÁNY” feliratot és a következő szöveget tartalmazza:
 
 A bírósági végrehajtó eljárása – mint polgári nemperes eljárás – a bíróság eljárásával azonos, a hatáskörében tett intézkedése mindenkire kötelező. [A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 162. §, a bírósági végrehajtásról szóló 1994. évi LIII. törvény 225. § (2) bek.]
 
 A végrehajtás során a bírósági végrehajtó – szükség esetén – az adós lezárt lakását, tartózkodási helyéül szolgáló vagy egyéb helyiségét, a hozzájuk vezető bejáratot, továbbá az adós bútorát vagy más ingóságát felnyithatja; az adós lakását és egyéb helyiségét, bármely vagyontárgyát és a gazdasági tevékenységével kapcsolatos iratait megtekintheti és átvizsgálhatja. Ellenszegülés esetén a végrehajtó közvetlenül a legközelebbi helyi rendőri szervhez fordul, amely köteles a végrehajtási eljárásban haladéktalanul közreműködni az ellenszegülés megszüntetése végett a végrehajtó intézkedésének befejezéséig. (A bírósági végrehajtásról szóló 1994. évi LIII. törvény 43–45. §.)
 
-[^116]: Az 58. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 26. pontja, a 47/2012. (XI. 28.) KIM rendelet 7. §-a szerint módosított szöveg.
-[^117]: Az 58. § (2) bekezdése a 47/2012. (XI. 28.) KIM rendelet 4. §-ával megállapított szöveg.
+[^117]: Az 58. § (1) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 26. pontja, a 47/2012. (XI. 28.) KIM rendelet 7. §-a szerint módosított szöveg.
+[^118]: Az 58. § (2) bekezdése a 47/2012. (XI. 28.) KIM rendelet 4. §-ával megállapított szöveg.
