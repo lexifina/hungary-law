@@ -4,7 +4,7 @@ a) párt, politikai mozgalom,
 
 b) olyan vállalkozás, amelynek elsődleges tevékenysége cigaretta, egyéb dohánytermék, elektronikus cigaretta, utántöltő flakon gyártása vagy értékesítése,
 
-c) a szerencsejáték-felügyeleti hatóság engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
+c) a Szabályozott Tevékenységek Felügyeleti Hatóságának engedélye nélkül szerencsejáték-szervezői tevékenységet végző vállalkozás.
 
 (2) Az (1) bekezdés b) pontban foglaltakon túli azon vállalkozás, amely – főtevékenysége szerint – e törvény, illetve más jogszabályok alapján nem reklámozható terméket állít elő, illetőleg ilyen termékekkel kapcsolatos szolgáltatást nyújt, e terméke, illetve szolgáltatása megjelenítésével, népszerűsítésével médiaszolgáltatást vagy műsorszámot nem támogathat.
 

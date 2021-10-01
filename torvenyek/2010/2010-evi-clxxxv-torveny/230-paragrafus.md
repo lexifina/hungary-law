@@ -13,5 +13,3 @@ c) az Európai Parlament és a Tanács 2002/21/EK irányelve (2002. március 7.)
 d) az Európai Parlament és a Tanács 2009/140/EK irányelve (2009. november 25.) az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások közös keretszabályozásáról szóló 2002/21/EK irányelv, az elektronikus hírközlő hálózatokhoz és kapcsolódó eszközökhöz való hozzáférésről, valamint azok összekapcsolásáról szóló 2002/19/EK irányelv és az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások engedélyezéséről szóló 2002/20/EK irányelv módosításáról,
 
 e) az Európai Parlament és a Tanács 98/27/EK irányelve (1998. május 19.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról, 2. cikk (1) bekezdés és 4. cikk (1) bekezdés,
-
-f) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló, 2018. november 14-i (EU) 2018/1808 irányelv.
