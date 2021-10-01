@@ -1,3 +1,0 @@
-## 3. § Az R. a következő 11. §-sal egészül ki:
-
-## „11. § E rendeletnek a Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet módosításáról szóló 555/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 1. § (2) bekezdését, 3/B. §-át és az 1. mellékletében foglalt táblázat 16. sorát a Módr6. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
