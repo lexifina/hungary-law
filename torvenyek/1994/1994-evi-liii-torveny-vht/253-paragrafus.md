@@ -2,7 +2,7 @@
 
 (2) A Kar hivatali szerve a hatáskörébe tartozó ügyekben a szervezeti és működési szabályzatban meghatározott rendben dönt. A Kar hivatali szervének vezetője gyakorolja a munkáltatói jogokat a Kar alkalmazottai felett. A Kar hivatali szervének vezetője a gazdálkodással összefüggő feladatok körében jóváhagyja a Kar pénzügyi kötelezettségvállalásait és kifizetéseit, dönt a teljesítésigazolások elfogadhatóságáról.
 
-(3) A Kar hivatali szervének vezetőjét a miniszter nevezi ki 7 évre egyetemi jogi végzettséggel és legalább 5 éves vezetői gyakorlattal rendelkező személyek közül. A vezető felett a munkáltatói jogokat a miniszter gyakorolja.
+(3) A Kar hivatali szervének vezetőjét a Hatóság elnöke nevezi ki 7 évre egyetemi jogi végzettséggel és legalább 5 éves vezetői gyakorlattal rendelkező személyek közül. A vezető felett a munkáltatói jogokat a Hatóság elnöke gyakorolja.
 
 (4) A Kar hivatali szervének vezetője
 
@@ -18,7 +18,7 @@ e) beléphet a Kar és szervei által használt bármely helyiségbe,
 
 f) tájékoztatást nyújt a sajtó, a rádió és a televízió részére a végrehajtási ügyekről,
 
-g) tevékenységéről félévente beszámol a miniszternek.
+g) tevékenységéről félévente beszámol a Hatóság elnökének.
 
 (5) A Kar hivatali szervének vezetője más keresőtevékenységet nem folytathat, és egyéb tevékenységéért – a tudományos, oktatói, művészeti, szerzői jogi védelem alá eső, lektori, szerkesztői tevékenységet és a nevelőszülői foglalkoztatási jogviszonyt kivéve – díjazást nem fogadhat el.
 
@@ -38,6 +38,6 @@ d) lemondással,
 
 e) a kinevezés visszavonásával.
 
-(9) Összeférhetetlenség esetén a miniszter írásban felszólítja a Kar hivatali szervének vezetőjét, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén a miniszter megállapítja az összeférhetetlenség fennállását.
+(9) Összeférhetetlenség esetén a Hatóság elnöke írásban felszólítja a Kar hivatali szervének vezetőjét, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén a Hatóság elnöke megállapítja az összeférhetetlenség fennállását.
 
 (10) A Kar hivatali szerve vezetőjének jogviszonyára az e törvényben nem szabályozott kérdésekben a munka törvénykönyvéről szóló 2012. évi I. törvény 1–31. §-át; 46. §-át; 51–52. §-át; 54–55. §-át; 80–81. §-át; 86–91. §-át; 103–106. §-át; 115–134. §-át; 154–164. §-át; 166–177. §-át; 179–180. §-át; 190. §-át megfelelően alkalmazni kell.

@@ -38,7 +38,7 @@ c) akivel szemben a bíróság kényszergyógykezelést alkalmazott, a kényszer
 
 d) aki a jogi képesítéshez kötött foglalkozástól vagy a végrehajtói foglalkozástól eltiltás hatálya alatt áll,
 
-e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy akinek a végrehajtói szolgálatát a miniszter a 239. § (4a) bekezdése alapján szüntette meg, a fegyelmi bíróság határozata jogerőre emelkedésétől vagy a miniszter határozata véglegessé válásától számított 10 évig
+e) akit a végrehajtói fegyelmi bíróság jogerős határozattal hivatalvesztés fegyelmi büntetéssel sújtott vagy akinek a végrehajtói szolgálatát 2021. október 1. napját megelőzően a miniszter, 2021. október 1. napját követően a Hatóság elnöke a 239. § (4a) bekezdése alapján szüntette meg, a fegyelmi bíróság határozata jogerőre emelkedésétől vagy a miniszter, illetve a Hatóság elnöke határozata véglegessé válásától számított 10 évig,
 
 f) aki egészségi állapota miatt vagy más okból a szolgálat ellátására alkalmatlan, vagy
 

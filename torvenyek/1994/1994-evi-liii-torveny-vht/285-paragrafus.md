@@ -10,4 +10,4 @@
 
 (4) A fegyelmi határozatot a fegyelmi tanács elnöke és tagjai írják alá.
 
-(5) A fegyelmi határozatot a kihirdetésétől számított 15 napon belül kézbesíteni kell az eljárás alá vont személy és képviselője, valamint a miniszternek és a Kar hivatali szervének a képviselője részére.
+(5) A fegyelmi határozatot a kihirdetésétől számított 15 napon belül kézbesíteni kell az eljárás alá vont személy és képviselője, valamint a Hatóság elnökének és a Kar hivatali szervének a képviselője részére.

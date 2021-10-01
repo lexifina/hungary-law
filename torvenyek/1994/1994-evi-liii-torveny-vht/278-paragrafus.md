@@ -1,6 +1,6 @@
 ## A fegyelmi eljárás megindítása
 
-278. § (1) Fegyelmi vétség alapos gyanúja esetén a miniszter, a törvényszék elnöke vagy a Kar hivatali szervének vezetője feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
+278. § (1) Fegyelmi vétség alapos gyanúja esetén a Hatóság elnöke, a törvényszék elnöke vagy a Kar hivatali szervének vezetője feljelentést tesz az elsőfokú fegyelmi bíróság elnökénél, aki a feljelentést haladéktalanul közli a gyanúsított személlyel.
 
 (2)
 

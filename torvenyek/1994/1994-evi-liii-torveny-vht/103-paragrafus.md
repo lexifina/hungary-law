@@ -8,7 +8,7 @@
 
 (5) A természetes személy adós foglalkozásának gyakorlásához nélkülözhetetlen gépjármű lefoglalásakor – a zár alá vétel alkalmazásának kivételével – csak a törzskönyvet kell lefoglalni és a foglalási jegyzőkönyv másolatával együtt megküldeni az illetékes közlekedési igazgatási hatóságnak, ha pedig ez nem állapítható meg, a gépjárművet nyilvántartó hatóságnak; az adós a gépjármű értékesítéséig – a zár alá vétel esetét kivéve – a gépjárművet használhatja. Ha az adós a végrehajtási eljárás tartama alatt a foglalkozásával felhagyott, vagy a foglalkozás végzéséhez szükséges engedélyét visszavonták, az (1)–(4) bekezdés szerint kell eljárni.
 
-(6) Ha az (5) bekezdésben említett gépjármű becsértéke nem éri el a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében foglalt összeget, a gépjármű mentes a végrehajtás alól.
+(6) Ha az (5) bekezdésben említett gépjármű becsértéke nem éri el az igazságügyért felelős miniszternek (a továbbiakban: miniszter) az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében foglalt összeget, a gépjármű mentes a végrehajtás alól.
 
 (7) A végrehajtó a járműnyilvántartásból a következő adatokat igényelheti:
 

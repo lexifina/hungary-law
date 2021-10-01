@@ -6,7 +6,7 @@ a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a v�
 
 b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha az olyan közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt, amely 5 évnél súlyosabb szabadságvesztés büntetéssel fenyegetett.
 
-(3) A Kar hivatali szervének vezetője a szolgálatból történő felfüggesztés feltételei bekövetkeztének megállapításáról, valamint a felfüggesztésről soron kívül, de legkésőbb 15 napon belül tájékoztatja a minisztert.
+(3) A Kar hivatali szervének vezetője a szolgálatból történő felfüggesztés feltételei bekövetkeztének megállapításáról, valamint a felfüggesztésről soron kívül, de legkésőbb 15 napon belül tájékoztatja a Hatóság elnökét.
 
 (4) A felfüggesztés a (2) bekezdés szerinti büntetőeljárás jogerős befejezéséig tart.
 

@@ -4,7 +4,7 @@
 
 1. vezeti a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek, végrehajtói kézbesítésre felhatalmazott végrehajtójelöltek névjegyzékét;
 
-2. havi rendszerességgel tájékoztatja a minisztert a végrehajtói névjegyzék adatairól és az adatváltozásokról;
+2. havi rendszerességgel tájékoztatja a Hatóság elnökét a végrehajtói névjegyzék adatairól és az adatváltozásokról;
 
 3. ellenőrzi az általa vezetett névjegyzékekbe való felvétel feltételeinek folyamatos fennállását;
 
@@ -12,7 +12,7 @@
 
 5. vezeti a távollévő végrehajtók nyilvántartását, és felhívja a helyettesként eljáró személyt a helyettesítésre;
 
-6. a végrehajtói szolgálat megszűnésével kapcsolatos körülményekről haladéktalanul tájékoztatja a minisztert;
+6. a végrehajtói szolgálat megszűnésével kapcsolatos körülményekről haladéktalanul tájékoztatja a Hatóság elnökét;
 
 7. engedélyezi végrehajtói iroda alapítását, alapító okiratának, illetve cégadatának módosítását;
 
@@ -44,7 +44,7 @@
 
 21. a végrehajtói álláshelyre pályázatot ír ki és a pályázati eljárást lebonyolítja;
 
-22. javaslatot tesz a miniszter számára az egyes ellátási területek meghatározásához, összevonásához;
+22. javaslatot tesz a Hatóság elnöke számára az egyes ellátási területek meghatározásához, összevonásához;
 
 23. ellátja az ügykiosztással kapcsolatban jogszabályban meghatározott feladatokat;
 
@@ -90,6 +90,6 @@ d) a végrehajtók nemzetközi szervezeteivel kapcsolatot tarthat fenn.
 
 (5) A Kar érdek-képviseleti tevékenységével összefüggésben felmerülő kiadásokat elsősorban a tagdíjak fedezik. A Kar közfeladataival összefüggésben felmerülő kiadásokat az általános költségátalány és a Kar egyéb bevételei fedezik. A Kar hivatali szerve a szervezeti és működési szabályzatban meghatározott módon engedélyezheti az érdek-képviseleti feladatok ellátásának általános költségátalányból történő finanszírozását.
 
-(6) A minisztérium az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
+(6) A Hatóság az igazolvány előállítását megelőzően lefolytatja a Nemzetbiztonsági Szakszolgálatnál a szükséges engedélyeztetési eljárást.
 
 (7) A Kar hivatali szerve e törvényben meghatározott feladatai ellátása céljából adatot kezel, ideértve az e törvényben meghatározott körben kezelt személyes adatokat is. A Kar hivatali szerve az általa kezelt adatokat az eljárás befejezésétől számított 10 évig kezeli, ezt követően gondoskodik az adatok törléséről.

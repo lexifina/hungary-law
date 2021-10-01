@@ -1,4 +1,4 @@
-234/A. § (1) A miniszter a végrehajtó által előterjesztett kérelem alapján határozatlan időre megállapítja a szolgálat folyamatosságát,
+234/A. § (1) A Hatóság elnöke a végrehajtó által előterjesztett kérelem alapján határozatlan időre megállapítja a szolgálat folyamatosságát,
 
 a) ha a kinevezését követően a végrehajtót nem sújtották jogerősen fegyelmi büntetéssel, vagy
 

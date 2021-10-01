@@ -1,8 +1,8 @@
 ## A végrehajtási szervezet felügyelete
 
-230. § (1) A végrehajtási szervezet feletti általános felügyeletet a miniszter látja el.
+230. § (1) A végrehajtási szervezet feletti általános felügyeletet a Hatóság látja el.
 
-(1a) A miniszter felügyeli a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyek intézését, a bíróság hatáskörébe tartozó ügyek kivételével.
+(1a) A Hatóság felügyeli a végrehajtókkal, végrehajtó-helyettesekkel és végrehajtójelöltekkel kapcsolatos panaszügyek intézését, a bíróság hatáskörébe tartozó ügyek kivételével.
 
 (2) Az önálló bírósági végrehajtó eljárásának törvényességével kapcsolatban a végrehajtó székhelye szerinti törvényszék elnöke fegyelmi eljárást kezdeményezhet, és a végrehajtó tevékenységének vizsgálatát kezdeményezheti.
 
@@ -12,4 +12,4 @@
 
 (5)
 
-(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a minisztert soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.
+(6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a Hatóság elnökét soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.

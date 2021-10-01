@@ -8,4 +8,4 @@
 
 (5)
 
-(6) A minisztérium képviselője jogosult a végrehajtó vizsgálatán részt venni, a vizsgálat tárgyát képező adatokat megismerni.
+(6) A Hatóság képviselője jogosult a végrehajtó vizsgálatán részt venni, a vizsgálat tárgyát képező adatokat megismerni.

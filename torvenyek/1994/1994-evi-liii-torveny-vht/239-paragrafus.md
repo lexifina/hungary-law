@@ -16,9 +16,9 @@ f) a szolgálat folyamatosságának megállapítása hiányában a határozott i
 
 napján.
 
-(2) A miniszter a végrehajtót felmenti, ha a végrehajtó a szolgálatáról a miniszterhez intézett írásbeli nyilatkozatában lemondott.
+(2) A Hatóság elnöke a végrehajtót felmenti, ha a végrehajtó a szolgálatáról a Hatóság elnökéhez intézett írásbeli nyilatkozatában lemondott.
 
-(3) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha
+(3) A Hatóság elnöke a végrehajtói szolgálat megszűnését állapítja meg, ha
 
 a) a végrehajtó magyar állampolgárságát elvesztette, vagy az országgyűlési képviselők választásán már nem választható,
 
@@ -26,7 +26,7 @@ b) a végrehajtóval szemben a 233. § (2) bekezdés b) pont ba)–bd), bg) alpo
 
 c) a végrehajtó a 238. §-ban meghatározott esküt nem tette le,
 
-d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot, kivéve a 240/B. § (2)–(2a) bekezdésében foglalt esetet,
+d) a távolléttel érintett napok száma meghaladja egy naptári évben a 275 napot, vagy három egymást követő naptári év mindegyikében a 270 napot, kivéve a 240/B. § (2) bekezdésében foglalt esetet,
 
 e) a végrehajtó a kinevezését megelőzően vagy azt követően keletkezett összeférhetetlenséget felszólításra nem szüntette meg,
 
@@ -36,10 +36,10 @@ g) a végrehajtó a kinevezését követő 3 hónapon belül nem alapít végreh
 
 h) a végrehajtót helyi önkormányzati képviselőnek, illetve polgármesternek megválasztották.
 
-(4) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
+(4) A Hatóság elnöke a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtó kinevezését követően jut tudomására, hogy a kinevezés 233. § (1) bekezdésében meghatározott feltételei a kinevezés időpontjában nem álltak fenn, vagy a végrehajtóval szemben a kinevezés időpontjában a 233. § (2) bekezdés a)–d) vagy i) pontjában meghatározott körülmény állt fenn.
 
-(4a) A miniszter a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtói vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
+(4a) A Hatóság elnöke a végrehajtói szolgálat megszűnését állapítja meg, ha a végrehajtói vizsgálat eredménye alapján megállapítható, hogy a végrehajtó jogszabályban meghatározott kötelezettségeit súlyosan vagy rendszeresen ismétlődően megszegte.
 
-(5) Ha a Kar bármely tagja vagy hivatali szervének alkalmazottja a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a Kar hivatali szerve vezetőjének haladéktalanul bejelenteni, aki köteles erről haladéktalanul tájékoztatni a minisztert. Összeférhetetlenség esetén a Kar hivatali szervének vezetője írásban felszólítja a végrehajtót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén jelenti be a miniszternek az összeférhetetlenség fennállását.
+(5) Ha a Kar bármely tagja vagy hivatali szervének alkalmazottja a szolgálat megszűnésére okot adó körülményről szerzett tudomást, köteles azt a Kar hivatali szerve vezetőjének haladéktalanul bejelenteni, aki köteles erről haladéktalanul tájékoztatni a Hatóság elnökét. Összeférhetetlenség esetén a Kar hivatali szervének vezetője írásban felszólítja a végrehajtót, hogy az összeférhetetlenséget 30 napon belül szüntesse meg; e határidő eredménytelen eltelte esetén jelenti be a Hatóság elnökének az összeférhetetlenség fennállását.
 
-(6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének megállapításáról a miniszter a Kar hivatali szervének vezetője véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a Kar hivatali szervét.
+(6) A végrehajtó felmentéséről, a végrehajtói szolgálat megszűnésének megállapításáról a Hatóság elnöke a Kar hivatali szervének vezetője véleményének beszerzését követően dönt, és e döntéséről – a határozat megküldésével – értesíti a Kar hivatali szervét.

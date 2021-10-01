@@ -8,6 +8,6 @@
 
 (4) Ha az eljárás alá vont személy (3) bekezdésben foglalt kötelezettségének nem tett eleget, a meghallgatáson nem jelent meg vagy nem nyilatkozott, ez az eljárás lefolytatását nem gátolja, azonban a fegyelmi eljárás során e körülményt szintén értékelni kell. Erre a vizsgálóbiztos figyelmezteti az eljárás alá vont személyt.
 
-(5) A vizsgálóbiztos a kirendelését tartalmazó határozat kézhezvételét követő 30 napon belül a fegyelmi vizsgálat eredményéről a fegyelmi tanácsnak írásban jelentést tesz, és a jelentést megküldi a feljelentőnek, valamint ha a feljelentést nem ő tette, a miniszternek és a Kar hivatali szerve vezetőjének is. A vizsgálóbiztos indokolt kérelmére a fegyelmi tanács a jelentéstételre nyitva álló határidőt egy alkalommal 30 nappal meghosszabbíthatja.
+(5) A vizsgálóbiztos a kirendelését tartalmazó határozat kézhezvételét követő 30 napon belül a fegyelmi vizsgálat eredményéről a fegyelmi tanácsnak írásban jelentést tesz, és a jelentést megküldi a feljelentőnek, valamint ha a feljelentést nem ő tette, a Hatóság elnökének és a Kar hivatali szerve vezetőjének is. A vizsgálóbiztos indokolt kérelmére a fegyelmi tanács a jelentéstételre nyitva álló határidőt egy alkalommal 30 nappal meghosszabbíthatja.
 
 (6) A vizsgálóbiztos a jelentésében a kötelességszegés súlyáról nem nyilváníthat véleményt, fegyelmi büntetés kiszabására nem tehet javaslatot.
