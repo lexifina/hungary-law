@@ -132,7 +132,7 @@ k) a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (
 
 (4b)[^28] A Kormány a légi személyszállítás szabályairól szóló 25/1999. (II. 12.) Korm. rendelet 27. § (3)–(4) bekezdésében foglaltak tekintetében fogyasztóvédelmi hatóságként a nemzetközi kereskedelmi repülőtér székhelye szerint illetékes kormányhivatalt jelöli ki.
 
-(4c)[^29] A Kormány a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésében és 21. §-ában foglaltak tekintetében fogyasztóvédelmi hatóságként a Felügyeletet jelöli ki.
+(4c)[^29]
 
 (4d)[^30] A Kormány fogyasztóvédelmi hatóságként a polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 14–15. §-ában, 72. §-ában foglaltak tekintetében a katasztrófavédelmi főigazgatóságot, a 104. § (2) bekezdésében, a 108. § (3) bekezdésében és a 109. § (8) bekezdésében foglaltak tekintetében a kormányhivatalt jelöli ki.
 
@@ -188,7 +188,7 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 [^26]: A 3. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 27. § (4) bekezdése iktatta be, záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^27]: A 3. § újabb (4a) bekezdését a 213/2017. (VII. 25.) Korm. rendelet 2. § (6) bekezdése iktatta be, hatályon kívül helyezte az 522/017. (XII. 29.) Korm. rendelet 2. §-a.
 [^28]: A 3. § (4b) bekezdését az 522/017. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^29]: A 3. § (4c) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, szövege a 246/2020. (V. 28.) Korm. rendelet 9. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 3. § (4c) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, hatályon kívül helyezte az 500/2021. (VIII. 18.) Korm. rendelet 11. § b) pontja.
 [^30]: A 3. § (4d) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, szövege ugyanezen módosító rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^31]: A 3. § (4e) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^32]: A 3. § (4f) bekezdését a 712/2020. (XII. 30.) Korm. rendelet 18. § (1) bekezdése iktatta be.

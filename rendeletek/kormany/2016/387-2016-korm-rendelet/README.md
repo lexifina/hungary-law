@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-387-20-
 | 2020-12-31 | 2016-387-20-22.15 | 712/2020. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2016-387-20-22.16 | 712/2020. (XII. 30.) Korm. rendelet |
 | 2021-07-16 | 2016-387-20-22.17 | 246/2020. (V. 28.) Korm. rendelet |
+| 2021-10-01 | 2016-387-20-22.18 | 500/2021. (VIII. 18.) Korm. rendelet |
