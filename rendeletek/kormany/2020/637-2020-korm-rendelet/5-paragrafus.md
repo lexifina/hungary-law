@@ -1,6 +1,6 @@
-## 4. §[^9]
+## 4. §[^10]
 
-5. §[^10] (1) Az adós az 1/B. § (1) bekezdése szerinti kérelem benyújtására akkor jogosult, ha
+5. §[^11] (1) Az adós az 1/B. § (1) bekezdése szerinti kérelem benyújtására akkor jogosult, ha
 
 a) 2020. március 18-át követően
 
@@ -26,8 +26,8 @@ c) a vállalkozás tevékenységéből származó nettó árbevétele a kérelem
 
 (3) Az adós az 1/B. § (1) bekezdése szerinti kérelmet a miniszterelnök kabinetfőnöke rendeletében meghatározott formában és tartalommal, 2021. október 1. és 31. között nyújtja be a hitelezőhöz. A határidő jogvesztő.
 
-(4) A hitelező az 1/B. § (1) bekezdése szerinti fizetési haladék részletszabályairól a hiteltörlesztési moratórium veszélyhelyzettel kapcsolatos különös szabályainak bevezetéséről szóló 637/2020. (XII. 22.) Korm. rendelet módosításáról szóló 536/2021. (IX. 15.) Korm. rendelet hatálybalépését[^11] követő 5 napon belül tájékoztatja az adóst.
+(4) A hitelező az 1/B. § (1) bekezdése szerinti fizetési haladék részletszabályairól a hiteltörlesztési moratórium veszélyhelyzettel kapcsolatos különös szabályainak bevezetéséről szóló 637/2020. (XII. 22.) Korm. rendelet módosításáról szóló 536/2021. (IX. 15.) Korm. rendelet hatálybalépését[^12] követő 5 napon belül tájékoztatja az adóst.
 
-[^9]: A 4. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 44. pontja alapján hatályát vesztette.
-[^10]: Az 5. §-t az 536/2021. (IX. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^11]: A hatálybalépés időpontja 2021. szeptember 16.
+[^10]: A 4. § a 27/2021. (I. 29.) Korm. rendelet 4. § (1) bekezdés 44. pontja alapján hatályát vesztette.
+[^11]: Az 5. §-t az 536/2021. (IX. 15.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^12]: A hatálybalépés időpontja 2021. szeptember 16.
