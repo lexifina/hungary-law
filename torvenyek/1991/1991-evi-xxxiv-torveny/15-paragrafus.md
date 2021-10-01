@@ -8,7 +8,7 @@ esetén.
 
 A nyerés vagy vesztés kizárólag a szám nyilvános húzásának, vagy a sorsjegy azonosítására alkalmas más módszernek (a továbbiakban: sorsolás) az eredményétől függ.
 
-(2) A szerencsejáték-szervezés állami felügyeletéért felelős miniszter a sorsolások lebonyolítását, ellenőrzését, közhitelű tanúsítását, a nyereményekre vonatkozó rendelkezéseket, valamint a végelszámolás rendszerét külön szabályozza.
+(2) A Hatóság elnöke a sorsolások lebonyolítását, ellenőrzését, közhitelű tanúsítását, a nyereményekre vonatkozó rendelkezéseket, valamint a végelszámolás rendszerét külön szabályozza.
 
 (3) A sorsolásos játék szervezésére irányuló kérelemhez játéktervet, részvételi szabályzatot, költségvetést és a jogszabály által előírt okiratokat kell mellékelni.
 

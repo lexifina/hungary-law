@@ -20,7 +20,7 @@ g) a lóversenyfogadás és az a)–f) pontok alá nem tartozó, e törvényben 
 
 (4) Magyarország területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
 
-(5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez a szerencsejáték-felügyeleti hatóság engedélye szükséges.
+(5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez a szerencsejáték-felügyeleti hatósági jogkörben eljáró Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) engedélye szükséges.
 
 (5a) A szerencsejáték-szervező az e törvény hatálya alá tartozó tevékenysége során a felelős játékszervezés elvének megfelelően köteles eljárni. A felelős játékszervezés elvének megfelelő szervezői tevékenységnek minősül különösen
 
@@ -60,7 +60,7 @@ c) a megszűnés időpontját (az adatkezelés határozott vagy határozatlan id
 
 (7b) Az (5a) bekezdés b) pontjához kapcsolódó jelentős önkorlátozó nyilatkozat tételével és annak hatósági nyilvántartásával kapcsolatban a sérülékeny személyt igazgatási szolgáltatási díjfizetési kötelezettség nem terheli.
 
-(7c) A felelős játékszervezés részletes szabályairól szóló 329/2015. (XI. 10.) Korm. rendelet 22. § (1) bekezdés b) pont bb) alpontja szerinti feltételt a szerencsejáték szervező a törvény 29/J. § (1) bekezdés b) pontja szerinti szervezet támogatásával is teljesítheti.
+(7c) A felelős játékszervezés részletes szabályairól szóló jogszabály szerinti, az ajánlott felelős játékszervezői minősítés megállapításához szükséges, ezen jogszabály szerinti szervezet tevékenységének támogatására vonatkozó feltételt a szerencsejáték szervező a 29/J. § (1) bekezdés b) pontja szerinti szervezet támogatásával is teljesítheti.
 
 (8) A nyereményre jogosult játékos kérésére a szerencsejáték-szervező köteles a 2 millió forintot, illetve ennek megfelelő valutaösszeget meghaladó nyereményről annak jogcímét és értékét (forint/deviza) tanúsító igazolást adni. A valutaösszeg átváltása tekintetében a nyeremény kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamot kell alkalmazni. A nyereményigazolásnak tartalmaznia kell a szerencsejáték-szervező és a játékos azonosító adatait, a nyerés és a nyeremény átvételének helyét és időpontját, a szerencsejáték-szervező által a nyereményből levont személyi jövedelemadó összegét. A nyereményigazolás a szerencsejáték-felügyeleti hatóság által rendszeresített és hitelesített bizonylaton, vagy a szerencsejáték-felügyeleti hatóság jóváhagyásával – amennyiben a szerencsejáték-szervező a játékos személyes adatai, valamint egyéb, személyiségi jogai védelmét biztosítja – zárt számítástechnikai rendszeren keresztül is kiállítható. A szerencsejáték-szervező köteles valamennyi kérelmet a nyereményigazolás kiállításának általa választott módján egységesen teljesíteni.
 

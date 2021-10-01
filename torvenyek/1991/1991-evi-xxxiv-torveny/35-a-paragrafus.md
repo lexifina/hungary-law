@@ -20,7 +20,7 @@ g) az online kaszinójáték engedélyezéséért a játékkaszinó engedélyez�
 
 h) a távszerencsejáték játéktervétől való, a Vhr. 43. § (2) bekezdése szerinti ideiglenes eltérésre vonatkozó kérelem esetén 200 ezer forint,
 
-i) a szerencsejáték-szervezői tevékenységi engedélynek kizárólag az 1. § (5a)–(6d) bekezdésével, 29/I. § (2) és (2a) bekezdésével, 37. § 32. pontjával, és a felelős játékszervezés részletes szabályairól szóló kormányrendelettel összefüggő módosítása iránti eljárásért kérelmenként 5000 forint,
+i) a szerencsejáték-szervezői tevékenységi engedélynek kizárólag az 1. § (5a)–(6d) bekezdésével, 29/I. § (2) és (2a) bekezdésével, 37. § 32. pontjával, és a Hatóság elnökének a felelős játékszervezés részletes szabályairól szóló rendeletével összefüggő módosítása iránti eljárásért kérelmenként 5000 forint,
 
 j) a kizárólag a távszerencsejáték és online kaszinójáték játékterve 29/F. § (5) bekezdése szerinti módosításának jóváhagyására vonatkozó eljárás esetén kérelmenként 21 000 forint,
 

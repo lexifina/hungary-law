@@ -1,1 +1,1 @@
-13/C. § A szerencsejáték-szervezés állami felügyeletéért felelős miniszter évente – a tárgyévet követő március 31. napjáig – beszámol a Kormánynak a szerencsejáték-felügyeleti hatóság e törvényben meghatározott felügyeleti tevékenységéről.
+13/C. §

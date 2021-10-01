@@ -6,4 +6,4 @@
 
 (4) A (3) bekezdésben felsoroltak nem vehetnek részt olyan ügy elbírálásában, amelyben ők vagy a Polgári Törvénykönyv szerinti közeli hozzátartozójuk érdekelve van.
 
-(5) A (3) bekezdésben felsoroltak munkaviszonyának a szerencsejáték-felügyeleti hatóságnál történő megszűnését követő 2 évig szerencsejáték szervező tevékenységet nem folytathatnak.
+(5) A (3) bekezdésben felsoroltak munkavégzésre irányuló jogviszonyának a Hatóságnál történő megszűnését követő 1 évig szerencsejáték szervező társaságnál vezető tisztségviselők, felügyelőbizottsági tagok, illetve korlátlanul felelős vagy többségi befolyással rendelkező tagok nem lehetnek.

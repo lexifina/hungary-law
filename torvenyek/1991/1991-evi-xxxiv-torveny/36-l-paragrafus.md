@@ -2,7 +2,7 @@
 
 36/L. § (1) Az EGT államok szerencsejáték szabályozó és felügyeleti hatóságai közötti, az online szerencsejátékkal összefüggő Együttműködési Megállapodás (a továbbiakban: Megállapodás) végrehajtása során az általános közigazgatási rendtartásról szóló törvény megkeresésre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(2) A Megállapodás végrehajtása során hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) a szerencsejáték-szervezés állami felügyeletéért felelős miniszter. A magyar hatóság a Megállapodás végrehajtásával kapcsolatos eljárási cselekményeket a szerencsejáték-felügyeleti hatóság útján is teljesítheti. A szerencsejáték-szervezés állami felügyeletéért felelős miniszter e hatásköre gyakorlásához kapcsolódóan az adópolitikáért felelős minisztertől adatszolgáltatást, tájékoztatást kérhet.
+(2) A Megállapodás végrehajtása során hatáskörrel rendelkező hatóság (a továbbiakban: magyar hatóság) a Hatóság, amely e hatásköre gyakorlásához kapcsolódóan az adópolitikáért felelős minisztertől és a szerencsejáték-szabályozásért felelős minisztertől adatszolgáltatást, tájékoztatást kérhet.
 
 (3) A másik EGT állam hatáskörrel rendelkező hatósága (a továbbiakban: EGT társhatóság) megkeresésének teljesítését a magyar hatóság megtagadhatja abban az esetben is, ha a megkeresés teljesítése
 

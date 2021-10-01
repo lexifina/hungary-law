@@ -14,8 +14,10 @@ e) a bevezetni kívánt értékzsetonok és érmék valamennyi fajtájából egy
 
 f) az igazgatási-szolgáltatási díj megfizetését igazoló okiratot,
 
-g) a 3. § (1) bekezdésének a) pontja szerinti kérelmező esetén a szerencsejáték-szervezés állami felügyeletéért felelős miniszter nyilatkozatát arról, hogy a játékkaszinó üzemeltetéséhez – az abban meghatározott időszakra, helyszínre, valamint egyéb feltételekkel – hozzájárul,
+g)
 
 h) a 3. § (1) bekezdés b) pontja szerinti kérelmező esetén a koncessziós szerződés egy eredeti példányát és az esedékes koncessziós díj befizetéséről szóló igazolást,
 
 i) a számítógépes elszámolási rendszer leírását (amennyiben a szervező elszámolásai elkészítése során használ ilyen rendszert).
+
+(3) A 3. § (1) bekezdés a) pontja szerinti kérelmező kérelmét a Hatóság elnökének a játékkaszinó üzemeltetéséhez – meghatározott időszakra, helyszínre, valamint egyéb feltételekkel – való előzetes hozzájárulásának birtokában nyújthatja be.
