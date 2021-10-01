@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-34-20-2
 | --- | --- | --- |
 | 2017-10-29 | 2017-34-20-2X.1 | 34/2017. (X. 26.) NGM rendelet |
 | 2021-03-19 | 2017-34-20-2X.2 | 3/2021. (II. 2.) PM rendelet |
+| 2021-10-01 | 2017-34-20-2X.3 | 11/2021. (IX. 30.) PM rendelet |
