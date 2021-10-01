@@ -1,4 +1,4 @@
-33/A. §[^110] (1) A rendszerhasználó gázéven belüli nem téli fogyasztási időszaki kapacitásterméket köthet le az általa ellátott azon felhasználási helyre – az 1. § (1) bekezdés a) pont ab) alpont aba) alpontjában meghatározott átadási-átvételi pontra vonatkozóan –, amelyre teljesülnek az alábbi feltételek:
+33/A. §[^117] (1) A rendszerhasználó gázéven belüli nem téli fogyasztási időszaki kapacitásterméket köthet le az általa ellátott azon felhasználási helyre – az 1. § (1) bekezdés a) pont ab) alpont aba) alpontjában meghatározott átadási-átvételi pontra vonatkozóan –, amelyre teljesülnek az alábbi feltételek:
 
 a) a felhasználási helyhez kapcsolódóan a rendszerhasználó elosztási kapacitásdíjat fizet, továbbá
 
@@ -6,17 +6,17 @@ b) a felhasználási hely tekintetében az érintett átadási-átvételi ponton
 
 (2) A gázéven belüli nem téli fogyasztási időszaki lekötött kapacitás mértékét kereskedőváltás esetén a korábbi földgázkereskedő köteles az új földgázkereskedőnek megadni.
 
-(3) A rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitás után kiszámított éves elosztási kapacitásdíj 5%-át köteles megfizetni a földgázelosztó által kiszámlázott, a szerződésben meghatározott vagy – erre vonatkozó megállapodás hiányában – havi ütemezésben.
+(3)[^118] A rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitás után kiszámított éves elosztási kapacitásdíjnak a Hivatal elosztási díjat megállapító határozatában a nem téli fogyasztási időszaki kapacitáslekötés esetében meghatározott százalékát fizeti meg a földgázelosztó által kiszámlázott, a szerződésben meghatározott vagy – erre vonatkozó megállapodás hiányában – havi ütemezésben.
 
 (4) Ha az elosztási kapacitásdíj fizetésére kötelezett rendszerhasználó esetén az (1) bekezdés szerinti elszámolás alá vont átadási-átvételi ponton október, november és december hónapokban is sor kerül a nem téli fogyasztási időszakra vonatkozó kapacitás – ÜKSZ szerinti – igénybevételére, akkor a rendszerhasználó a nem téli fogyasztási időszakra lekötött kapacitásnak és az éves elosztási kapacitásdíj (5) bekezdés szerinti részének szorzatát is köteles megfizetni – a (3) bekezdés szerinti összegen felül – azokra az októberi, novemberi és decemberi napokra, amelyeken az átadási-átvételi ponton földgázt vételez, és a gáznapon mért óracsúcs meghaladja a gáznapra lekötött kapacitást.
 
-(5) A (4) bekezdés szerinti szorzatnál
+(5)[^119] A (4) bekezdés szerinti szorzatnál
 
-a) október havi igénybevétel esetén az éves elosztási kapacitásdíj 2/365 részét,
+a) október havi igénybevétel esetén az éves elosztási kapacitásdíjnak a Hivatal elosztási díjat megállapító határozatában a nem téli fogyasztási időszaki kapacitáslekötés október havi használata esetében meghatározott százalékát,
 
-b) november havi igénybevétel esetén az éves elosztási kapacitásdíj 3/365 részét,
+b) november havi igénybevétel esetén az éves elosztási kapacitásdíjnak a Hivatal elosztási díjat megállapító határozatában a nem téli fogyasztási időszaki kapacitáslekötés november havi használata esetében meghatározott százalékát,
 
-c) december havi igénybevétel esetén az éves elosztási kapacitásdíj 5/365 részét
+c) december havi igénybevétel esetén az éves elosztási kapacitásdíjnak a Hivatal elosztási díjat megállapító határozatában a nem téli fogyasztási időszaki kapacitáslekötés december havi használata esetében meghatározott százalékát
 
 ## kell alapul venni.
 
@@ -32,4 +32,6 @@ b) pótdíjként a (3) bekezdésben meghatározott, számlázás alapját képez
 
 (9) Átadási-átvételi pontonként a kapacitások lekötését a Vhr.-ben és az ÜKSZ-ben meghatározottak szerint kell megtenni.
 
-[^110]: A 33/A. § a 4/2019. (IV. 12.) MEKH rendelet 5. §-ával megállapított szöveg.
+[^117]: A 33/A. § a 4/2019. (IV. 12.) MEKH rendelet 5. §-ával megállapított szöveg.
+[^118]: A 33/A. § (3) bekezdése a 3/2021. (IV. 14.) MEKH rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^119]: A 33/A. § (5) bekezdése a 3/2021. (IV. 14.) MEKH rendelet 11. § (2) bekezdésével megállapított szöveg.

@@ -4,7 +4,7 @@
 
 43. § (1) A Hivatal a GET 127. § l) pontja alapján kiadott határozatában állapítja meg az engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, a felhasználók ellátási színvonalának mérésére szolgáló, valamint a minőség ösztönzése kapcsán figyelembe veendő legfeljebb négy minőségi mutatószámot, azok kiszámításának módszerét és elvárt szintjét.
 
-(2)[^122] Ha az adott naptári évben a földgázelosztó – (1) bekezdés szerinti – bármely minőségi mutatószáma esetén a minimális minőségi követelménytől való elmaradás a (3) bekezdésben meghatározott mértékű, a következő naptári év október 1-jétől egy éven keresztül minőségi árengedményt köteles adni a rendszerhasználati díjakból a rendszerhasználó számára.
+(2)[^131] Ha az adott naptári évben a földgázelosztó – (1) bekezdés szerinti – bármely minőségi mutatószáma esetén a minimális minőségi követelménytől való elmaradás a (3) bekezdésben meghatározott mértékű, a következő naptári év október 1-jétől egy éven keresztül minőségi árengedményt köteles adni a rendszerhasználati díjakból a rendszerhasználó számára.
 
 (3) A kötelezően alkalmazandó minőségi árengedmény mértéke
 
@@ -20,4 +20,4 @@ b) 1%, ha az adott minőségi mutatószám aktuális értéke legalább 10%-kal
 
 (6) Ha a Hivatal megállapítja, hogy a földgázelosztónál a felhasználók ellátási színvonalának mérésére szolgáló minőségi mutatószámokban bekövetkezett csökkenés nem róható fel a földgázelosztónak, a Hivatal hozzájárulhat korrekció alkalmazásához a (2)–(4) bekezdésben szabályozott minőségi árengedmény adása szempontjából figyelembe veendő mutatók értékeinél. Ennek részletes szabályait a Hivatal az (1) bekezdés szerinti határozatában rögzíti.
 
-[^122]: A 43. § (2) bekezdése a 14/2016. (XII. 20.) MEKH rendelet 12. § d) pontja, a 7/2017. (VII. 13.) MEKH rendelet 19. § s) pontja szerint módosított szöveg.
+[^131]: A 43. § (2) bekezdése a 14/2016. (XII. 20.) MEKH rendelet 12. § d) pontja, a 7/2017. (VII. 13.) MEKH rendelet 19. § s) pontja szerint módosított szöveg.
