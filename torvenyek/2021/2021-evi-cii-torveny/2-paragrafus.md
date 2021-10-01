@@ -1,1 +1,1 @@
-2. § A koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény 4/A. §-ában az „a 2021. évi őszi országgyűlési ülésszak első ülésnapját követő 15. napot megelőzően” szövegrész helyébe az „e törvény hatályvesztését megelőzően” szöveg lép.
+2. §
