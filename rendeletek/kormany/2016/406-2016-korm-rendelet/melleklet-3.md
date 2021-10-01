@@ -4,19 +4,19 @@
 
 ## a) dohánytermék-kiskereskedelmi tevékenység végzésére jogosult gazdasági társaság vagy egyéni vállalkozó adószáma,
 
-## b) dohánytermék-értékesítési hely (dohánybolt, elkülönített hely) olyan azonosító száma, amelyet a részvénytársaság bocsát ki, ennek hiányában annak pontos, a vámhatósági engedélyben feltüntetett címe.
+## b)[^34] dohánytermék-értékesítési hely (dohánybolt, elkülönített hely) olyan azonosító száma, amelyet a Hatóság bocsát ki, ennek hiányában annak pontos, a vámhatósági engedélyben feltüntetett címe.
 
 ## 2. Az árukészlettel kapcsolatos összesített adatok:
 
-## a) beszerzett érintett termékek [az érintett termékek részvénytársasági azonosítója (ND cikkszám) alapján történő bontásban],
+## a)[^35] beszerzett érintett termékek [az érintett termékek hatósági azonosítója (SZTFH cikkszám) alapján történő bontásban],
 
-## b) értékesített érintett termékek [az érintett termékek részvénytársasági azonosítója (ND cikkszám) alapján történő bontásban],
+## b)[^36] értékesített érintett termékek [az érintett termékek hatósági azonosítója (SZTFH cikkszám) alapján történő bontásban],
 
 ## c) leltárkészlet változásának egyéb okai (így különösen: készletmozgatással, sérüléssel, leltárhiánnyal érintett termékek).
 
 ## 3. Az árukészlettel kapcsolatos specifikus adatok (a 2. pont szerinti adatszolgáltatás részletezéseként):
 
-## a) az érintett termék részvénytársasági azonosítója (ND cikkszám),
+## a)[^37] az érintett termék hatósági azonosítója (SZTFH cikkszám),
 
 ## b) az érintett termék megnevezése,
 
@@ -34,6 +34,10 @@
 
 ## i) a termékkiszerelés információi.
 
-3. melléklet a 406/2016. (XII. 10.) Korm. rendelethez[^16]
+3. melléklet a 406/2016. (XII. 10.) Korm. rendelethez[^38]
 
-[^16]: A 3. melléklet a 300/2020. (VI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^34]: A 2. melléklet 1. pont b) alpontja az 500/2021. (VIII. 18.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^35]: A 2. melléklet 2. pont a) alpontja az 500/2021. (VIII. 18.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^36]: A 2. melléklet 2. pont b) alpontja az 500/2021. (VIII. 18.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^37]: A 2. melléklet 3. pont a) alpontja az 500/2021. (VIII. 18.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^38]: A 3. melléklet a 300/2020. (VI. 24.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

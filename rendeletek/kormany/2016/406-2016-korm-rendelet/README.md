@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-406-20-
 | 2017-04-01 | 2016-406-20-22.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-04-02 | 2016-406-20-22.5 | 2010: CXXX. törvény |
 | 2020-06-25 | 2016-406-20-22.6 | 300/2020. (VI. 24.) Korm. rendelet |
+| 2021-10-01 | 2016-406-20-22.7 | 500/2021. (VIII. 18.) Korm. rendelet |

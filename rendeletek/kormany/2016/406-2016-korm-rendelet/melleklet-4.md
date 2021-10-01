@@ -66,7 +66,7 @@
 
 ## g) finomra vágott fogyasztási dohány esetében annak meghatározása, hogy egy szál cigaretta töltéséhez hány gramm dohányra van szükség.
 
-4. melléklet a 406/2016. (XII. 10.) Korm. rendelethez[^17]
+4. melléklet a 406/2016. (XII. 10.) Korm. rendelethez[^39]
 
 A Jöt. szerinti árközzétételi kötelezettséggel érintett dohánygyártmány regisztrációs lapjának tartalmi elemei árváltozás esetén
 
@@ -74,7 +74,7 @@ A Jöt. szerinti árközzétételi kötelezettséggel érintett dohánygyártmá
 
 2. A korábban regisztrált, az árváltozásban aktuálisan érintett termék azonosításához szükséges információk:
 
-a) részvénytársasági azonosítója (ND cikkszám),
+a)[^40] hatósági azonosítója (SZTFH cikkszám),
 
 b) gyártói/forgalomba hozói rendszerben definiált egyedi azonosítója.
 
@@ -86,4 +86,5 @@ b) kiskereskedelmi eladási ár,
 
 c) ártípus.
 
-[^17]: A 4. melléklet a 300/2020. (VI. 24.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^39]: A 4. melléklet a 300/2020. (VI. 24.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^40]: A 4. melléklet 2. pont a) alpontja az 500/2021. (VIII. 18.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
