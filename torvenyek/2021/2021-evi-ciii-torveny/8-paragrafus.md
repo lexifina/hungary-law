@@ -1,7 +1,3 @@
 ## 4. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-8. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény a következő 25/B. §-sal egészül ki:
-
-„25/B. § (1) A 24. §-tól eltérően, nem kell bejelenteni a Gazdasági Versenyhivatalnak azt az összefonódást, amely révén közvetlenül vagy közvetetten többségi állami tulajdonban lévő kockázati tőkealap az Európai Bizottság által a belső piaccal összeegyeztethetőnek nyilvánított állami támogatással megvalósuló tőkebefektetése következtében közös irányítási jogokat szerez egy vállalkozásban, amelynek előző évi nettó árbevétele nem érte el az egymilliárd forintot.
-
-(2) Az (1) bekezdés szerinti összefonódás végrehajtásáról az irányításszerző tőkealap a végrehajtás időpontját követő 30 napon belül tájékoztatja a Gazdasági Versenyhivatalt.”
+8. §

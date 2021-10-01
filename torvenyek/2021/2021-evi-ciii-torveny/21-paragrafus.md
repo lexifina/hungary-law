@@ -1,1 +1,1 @@
-21. § Az államháztartásról szóló 2011. évi CXCV. törvény 33. § (4a) bekezdésében a „közfeladatok változásával” szövegrész helyébe a „közfeladatok változásával, illetve a közfeladat ellátásának módjával, annak helyével, vagy a közfeladatot ellátó személyében bekövetkező változásával” szöveg lép.
+21. §
