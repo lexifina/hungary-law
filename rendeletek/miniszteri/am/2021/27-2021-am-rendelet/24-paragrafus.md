@@ -1,0 +1,1 @@
+## „A kiskereskedő folyamatosan részletes elektronikus nyilvántartást vezet, és minden egyes bevételezési vagy kiadási ügyletnél – a (7) bekezdésben megfogalmazott kivétellel – köteles nyilvántartásba venni:”
