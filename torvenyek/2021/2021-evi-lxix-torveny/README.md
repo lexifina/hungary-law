@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-69-00-00
 | 2021-07-11 | 2010. évi CXXX. törvény | 2021-69-00-00.8 |
 | 2021-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-69-00-00.9 |
 | 2021-08-02 | 2010. évi CXXX. törvény | 2021-69-00-00.10 |
+| 2021-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-69-00-00.11 |
