@@ -44,6 +44,8 @@ p) az eltűnt vagy az elfogatóparancs, európai elfogatóparancs, nemzetközi e
 
 q) a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatával összefüggő feladatkörében eljáró, szociális hatáskört gyakorló szervvel
 
+r) a feladatkörében eljáró Szabályozott Tevékenységek Felügyeleti Hatóságával
+
 szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsátó intézményhez intézett adatkérése, illetve írásbeli megkeresése esetén.
 
 (3) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben sem, ha az adóhatóság és a Magyar Nemzeti Bank nemzetközi szerződés, illetve együttműködési megállapodás alapján, külföldi hatóság írásbeli megkeresésének teljesítése érdekében írásban kér adatot a pénzforgalmi intézménytől, elektronikuspénz-kibocsátó intézménytől, ha a megkeresés tartalmazza a külföldi hatóság által aláírt titoktartási záradékot.
