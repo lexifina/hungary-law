@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-250-20-
 | 2019-04-05 | 2014-250-20-22.13 | 72/2019. (IV. 4.) Korm. rendelet |
 | 2020-08-15 | 2014-250-20-22.14 | 384/2020. (VIII. 7.) Korm. rendelet |
 | 2020-12-30 | 2014-250-20-22.15 | 703/2020. (XII. 29.) Korm. rendelet |
+| 2021-10-01 | 2014-250-20-22.16 | 500/2021. (VIII. 18.) Korm. rendelet |
