@@ -241,7 +241,3 @@
 ## 4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
 
 ## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
-
-## 4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
-
-## fizeti meg.
