@@ -4,6 +4,9 @@
 
 (2) A 29/A. § (1) bekezdés a) pontja szerinti hitelre a 2019/2020-as tanév második félév zárását követően a 2020/2021-es tanév kezdetéig kizárólag az a hallgató jogosult, aki a 2019/2020-as tanév második félévének utolsó napján aktív hallgatói jogviszonnyal rendelkezett, azonban végbizonyítványt nem szerzett, és a hiteligénylés időpontjában a hallgatói jogviszonya nem szűnt meg.
 
+(3)[^144] A 29/A. § (1) bekezdés a) pontja szerinti hitelre a 2021/2022-es tanév második félév zárását követően a 2022/2023-as tanév kezdetéig kizárólag az a hallgató jogosult, aki a 2021/2022-es tanév második félévének utolsó napján aktív hallgatói jogviszonnyal rendelkezett, azonban végbizonyítványt nem szerzett, és a hiteligénylés időpontjában a hallgatói jogviszonya nem szűnt meg.
+
 [^141]: A 34/E. §-t a 408/2017. (XII. 15.) Korm. rendelet 3. §-a iktatta be, szövege a 108/2018. (VI. 25.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^142]: A hatálybalépés időpontja 2017. december 16.
 [^143]: A 34/F. §-t újonnan a 284/2020. (VI. 17.) Korm. rendelet 57. §-a iktatta be.
+[^144]: A 34/F. § (3) bekezdését az 550/2021. (IX. 28.) Korm. rendelet 1. §-a iktatta be.
