@@ -26,6 +26,6 @@ g) a rész és
 
 h) a könyv.
 
-(3)[^30] A jogszabály alapegysége a szakasz. A jogszabály tervezetének tagolása során szakasznál magasabb szintű szerkezeti egység akkor alakítható ki, ha az alacsonyabb szintű szerkezeti egységek alkalmazásával a jogszabály áttekinthetősége nem biztosítható.
+(3)[^29] A jogszabály alapegysége a szakasz. A jogszabály tervezetének tagolása során szakasznál magasabb szintű szerkezeti egység akkor alakítható ki, ha az alacsonyabb szintű szerkezeti egységek alkalmazásával a jogszabály áttekinthetősége nem biztosítható.
 
-[^30]: A 36. § (3) bekezdése a 11/2010. (X. 25.) KIM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^29]: A 36. § (3) bekezdése a 11/2010. (X. 25.) KIM rendelet 3. § (2) bekezdésével megállapított szöveg.

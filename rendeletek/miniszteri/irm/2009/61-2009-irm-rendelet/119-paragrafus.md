@@ -30,9 +30,9 @@ foglalja magában.
 
 (4) Kizárólag a jogszabály tervezetének az önmaga vagy szerkezeti egysége hatályon kívül helyezéséről szóló rendelkezése tartalmazhatja a hatályvesztés időpontját.
 
-(4a)[^91] Ha jogszabály vagy jogszabályi rendelkezés hatályvesztése valamely jövőbeli feltétel bekövetkeztéhez kötődik, a jogszabály tervezetében – az önkormányzati rendelet kivételével – a hatályba léptető rendelkezés után önálló bekezdésben kell rendelkezni arról, hogy a feltétel bekövetkeztéről szóló határozat Magyar Közlönyben történő közzétételére mely feladatkörrel rendelkező miniszter köteles.
+(4a)[^89] Ha jogszabály vagy jogszabályi rendelkezés hatályvesztése valamely jövőbeli feltétel bekövetkeztéhez kötődik, a jogszabály tervezetében – az önkormányzati rendelet kivételével – a hatályba léptető rendelkezés után önálló bekezdésben kell rendelkezni arról, hogy a feltétel bekövetkeztéről szóló határozat Magyar Közlönyben történő közzétételére mely feladatkörrel rendelkező miniszter köteles.
 
-(5)[^92] A (4) és (4a) bekezdésben foglalt kivétellel a hatályvesztés időpontja a hatályon kívül helyező rendelkezés hatálybalépésének az időpontja.
+(5)[^90] A (4) és (4a) bekezdésben foglalt kivétellel a hatályvesztés időpontja a hatályon kívül helyező rendelkezés hatálybalépésének az időpontja.
 
-[^91]: A 119. § (4a) bekezdését a 19/2010. (XII. 21.) KIM rendelet 14. §-a iktatta be.
-[^92]: A 119. § (5) bekezdése a 19/2010. (XII. 21.) KIM rendelet 18. § (12) bekezdése szerint módosított szöveg.
+[^89]: A 119. § (4a) bekezdését a 19/2010. (XII. 21.) KIM rendelet 14. §-a iktatta be.
+[^90]: A 119. § (5) bekezdése a 19/2010. (XII. 21.) KIM rendelet 18. § (12) bekezdése szerint módosított szöveg.

@@ -12,6 +12,6 @@ b) a jogszabály szakaszaiban meghatározható
 
 szabályt.
 
-(4)[^97] Táblázatot és a 132. § szerinti idézetet a jogszabály melléklete tartalmazhat.
+(4)[^95] Táblázatot és a 132. § szerinti idézetet a jogszabály melléklete tartalmazhat.
 
-[^97]: A 127. § (4) bekezdését a 11/2010. (X. 25.) KIM rendelet 3. § (6) bekezdése iktatta be.
+[^95]: A 127. § (4) bekezdését a 11/2010. (X. 25.) KIM rendelet 3. § (6) bekezdése iktatta be.

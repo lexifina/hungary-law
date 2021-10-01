@@ -2,9 +2,9 @@
 
 ## 44. A jogszabály tartalmának megváltozása a hatálybalépést megelőzően
 
-111. § (1)[^86] Jogszabály tervezetében még hatályba nem lépett jogszabály vagy szerkezeti egység kizárólag az ebben az alcímben szabályozott módon, a felkészülési idő és a bizalomvédelem követelményére is figyelemmel meghatározott időpontban, legkésőbb az eredeti hatálybalépéssel egyidejűleg hatályba lépő rendelkezéssel változtatható meg.
+111. § (1)[^84] Jogszabály tervezetében még hatályba nem lépett jogszabály vagy szerkezeti egység kizárólag az ebben az alcímben szabályozott módon, a felkészülési idő és a bizalomvédelem követelményére is figyelemmel meghatározott időpontban, legkésőbb az eredeti hatálybalépéssel egyidejűleg hatályba lépő rendelkezéssel változtatható meg.
 
-(2)[^87]
+(2)[^85]
 
 (3) Módosító rendelkezést nem lehet eltérő szöveggel hatályba léptetni, ehelyett
 
@@ -14,5 +14,5 @@ b) – ha a módosító rendelkezés által megállapított szerkezeti egységne
 
 (4) A (2) bekezdés és a (3) bekezdés b) pontja alkalmazásával megállapított rendelkezés nem módosítható, a jogszabály tervezete azonban rendelkezhet úgy, hogy a rendelkezés nem lép hatályba.
 
-[^86]: A 111. § (1) bekezdése a 19/2010. (XII. 21.) KIM rendelet 18. § (11) bekezdése szerint módosított szöveg.
-[^87]: A 111. § (2) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^84]: A 111. § (1) bekezdése a 19/2010. (XII. 21.) KIM rendelet 18. § (11) bekezdése szerint módosított szöveg.
+[^85]: A 111. § (2) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.

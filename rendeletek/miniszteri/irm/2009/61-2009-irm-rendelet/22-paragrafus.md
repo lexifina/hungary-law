@@ -22,15 +22,17 @@ d) miniszteri rendeletre a miniszter megjelölését követően a „rendelete�
 
 e) előre meg nem határozható miniszterek rendeleteire a „miniszteri rendelet” megjelöléssel,
 
-f)[^25] a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének rendeletére az „a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének rendelete” megjelöléssel,
+f) a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének rendeletére az „a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének rendelete” megjelöléssel,
 
 g) a Nemzeti Média- és Hírközlési Hatóság elnökének rendeletére az „a Nemzeti Média- és Hírközlési Hatóság elnökének rendelete” megjelöléssel,
 
-h) önkormányzati rendeletre a megalkotó önkormányzat egyértelmű megjelölését követően a „rendelete” megjelöléssel,
+h) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendeletére az „a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendelete” megjelöléssel,
 
-i) előre meg nem határozható önkormányzatok rendeleteire az „önkormányzati rendelet” megjelöléssel,
+i) önkormányzati rendeletre a megalkotó önkormányzat egyértelmű megjelölését követően a „rendelete” megjelöléssel,
 
-j) valamennyi jogszabályra a „jogszabály” megjelöléssel
+j) előre meg nem határozható önkormányzatok rendeleteire az „önkormányzati rendelet” megjelöléssel,
+
+k) valamennyi jogszabályra a „jogszabály” megjelöléssel
 
 kell hivatkozni.
 
@@ -38,5 +40,4 @@ kell hivatkozni.
 
 (4) A jogszabály tervezete nem tartalmazhat olyan rendelkezést, amely kizárólag általános hivatkozást tartalmaz.
 
-[^24]: A 22. § (2) bekezdése a 13/2011. (IV. 22.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^25]: A 22. § (2) bekezdés f) pontja a 25/2013. (X. 14.) KIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^24]: A 22. § (2) bekezdése a 10/2021. (IX. 30.) IM rendelet 6. § (1) bekezdésével megállapított szöveg.

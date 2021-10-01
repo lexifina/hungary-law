@@ -1,6 +1,6 @@
-## 146. §[^104] E rendeletnek a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet módosításáról szóló 10/2014. (II. 25.) KIM rendelettel megállapított rendelkezéseit a 2014. február 25-én, illetve az ezt követően hatályba lépett jogszabályok tekintetében kell alkalmazni.
+## 146. §[^102] E rendeletnek a jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet módosításáról szóló 10/2014. (II. 25.) KIM rendelettel megállapított rendelkezéseit a 2014. február 25-én, illetve az ezt követően hatályba lépett jogszabályok tekintetében kell alkalmazni.
 
-1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^105]
+1. melléklet a 61/2009. (XII. 14.) IRM rendelethez[^103]
 
 A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szövegezési minták
 
@@ -55,6 +55,10 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 2.3.10. A Nemzeti Média- és Hírközlési Hatóság elnöke rendelete tervezetének a megjelölése
 
 | A Nemzeti Média- és Hírközlési Hatóság elnökének .../... . (... . ... .) NMHH rendelete{a rendelet címe} |
+
+2.3.11. A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendelete tervezetének a megjelölése
+
+| A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének .../... . (... . ... .) SZTFH rendelete{a rendelet címe} |
 
 2.4.
 
@@ -170,9 +174,9 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály kihirdetése évének a száma}. évi {a jogszabály száma}. [törvény (VAGY) törvényerejű rendelet] |
 
-4.1.4. A kormányrendeletre, a Magyar Nemzeti Bank elnökének a rendeletére, a miniszterelnök rendeletére, a miniszteri rendeletre, a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének rendeletére vagy a Nemzeti Média és Hírközlési Hatóság elnökének rendeletére vonatkozó merev hivatkozás
+4.1.4. A kormányrendeletre, a Magyar Nemzeti Bank elnökének rendeletére, a miniszterelnök rendeletére, a miniszteri rendeletre, a Magyar Energetikai és Közmű-szabályozási Hivatal elnökének rendeletére, a Nemzeti Média és Hírközlési Hatóság elnökének rendeletére vagy a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendeletére vonatkozó merev hivatkozás
 
-| {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály száma}/{a jogszabály kihirdetése évének a száma}. ({a jogszabály kihirdetése hónapjának a száma}. {a jogszabály kihirdetése napjának a száma}.) [Korm. (VAGY) MNB (VAGY) ME (VAGY) {a miniszteri rendelet megalkotójának a rövid megjelölése} (VAGY) MEKH (VAGY) NMHH] rendelet |
+| {a jogszabály címére vonatkozó merev hivatkozás} {a jogszabály száma}/{a jogszabály kihirdetése évének a száma}. ({a jogszabály kihirdetése hónapjának a száma}. {a jogszabály kihirdetése napjának a száma}.) [Korm. (VAGY) MNB (VAGY) ME (VAGY) {a miniszteri rendelet megalkotójának a rövid megjelölése} (VAGY) MEKH (VAGY) NMHH (VAGY) SZTFH] rendelet |
 
 4.1.5. Az együttes miniszteri rendeletre vonatkozó merev hivatkozás
 
@@ -662,15 +666,13 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 | a miniszterelnök | (VAGY) |
 
-| [a (VAGY) az] {a Kormány egy vagy több tagjának megjelölése a rövidítése szerinti ábécésorrendben} |
+| [a (VAGY) az] {a Kormány egy vagy több tagjának megjelölése a rövidítése szerinti ábécésorrendben} | (VAGY) |
 
-|  | (VAGY) |
-
-| a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke |
-
-|  | (VAGY) |
+| a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke | (VAGY) |
 
 | a Nemzeti Média- és Hírközlési Hatóság elnöke | (VAGY) |
+
+| a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke | (VAGY) |
 
 | {helyi önkormányzat megnevezése} | (VAGY) |
 
@@ -1574,5 +1576,5 @@ A jogszabály tervezete megszövegezésénél alkalmazandó kodifikációs szöv
 
 19.
 
-[^104]: A 146. §-t a 10/2014. (II. 25.) KIM rendelet 3. §-a iktatta be.
-[^105]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a, a 25/2013. (X. 14.) KIM rendelet 1. § (3) bekezdés b)–e) pontja és (4) bekezdése szerint módosított szöveg.
+[^102]: A 146. §-t a 10/2014. (II. 25.) KIM rendelet 3. §-a iktatta be.
+[^103]: Az 1. melléklet a 11/2010. (X. 25.) KIM rendelet 4. §-a, a 19/2010. (XII. 21.) 17. §-a, 18. § (13) bekezdése, 19. § (3) bekezdése, 20. § f) pontja, a 13/2011. (IV. 22.) KIM rendelet 4. § (5)–(6) bekezdése, a 43/2011. (XII. 31.) KIM rendelet 13. §-a, 14. § (10) bekezdése, 15. §-a, a 25/2013. (X. 14.) KIM rendelet 1. § (3) bekezdés b)–e) pontja és (4) bekezdése, a 10/2021. (IX. 30.) IM rendelet 6. § (3) bekezdése szerint módosított szöveg.

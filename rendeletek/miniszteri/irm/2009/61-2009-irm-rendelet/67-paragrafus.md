@@ -6,10 +6,10 @@
 
 (3) Az értelmezett fogalom a jogszabály más szerkezeti egységeiben kizárólag az értelmező rendelkezésben meghatározott kifejezés megfelelően toldalékolt alakjában alkalmazható.
 
-(4)[^51] A magától értetődő jelentésű fogalmak nem értelmezhetőek értelmező rendelkezésben.
+(4)[^50] A magától értetődő jelentésű fogalmak nem értelmezhetőek értelmező rendelkezésben.
 
 (5) Szakkifejezések kivételével a fogalmat a köznapi jelentésétől alapvetően különböző tartalommal nem lehet értelmezni.
 
 (6) A mérésügyről szóló törvény felhatalmazása alapján kormányrendeletben szabályozott mértékegységekre vonatkozóan a jogszabály tervezete értelmező rendelkezést nem vezethet be.
 
-[^51]: A 67. § (4) bekezdése a 19/2010. (XII. 21.) KIM rendelet 20. § c) pontja szerint módosított szöveg.
+[^50]: A 67. § (4) bekezdése a 19/2010. (XII. 21.) KIM rendelet 20. § c) pontja szerint módosított szöveg.

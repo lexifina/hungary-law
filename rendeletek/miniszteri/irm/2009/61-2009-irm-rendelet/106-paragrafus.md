@@ -10,7 +10,7 @@ b) azt a szerkezeti egységet, amelynek terjedelméhez képest nagy terjedelmű 
 
 c) azt a tovább már nem tagolt szerkezeti egységet, amelynek tagolása vagy szerkezeti egységgel való kiegészítése vált szükségessé.
 
-(3)[^84] Hatálytalan szerkezeti egység nem szabályozható újra, ehelyett a 108. § (4) bekezdése szerint kell eljárni.
+(3)[^82] Hatálytalan szerkezeti egység nem szabályozható újra, ehelyett a 108. § (4) bekezdése szerint kell eljárni.
 
 (4) Egyazon módosító rendelkezéssel kell az egymást közvetlenül követő, azonos időpontban módosuló,
 
@@ -24,4 +24,4 @@ azonos szintű szerkezeti egységeket újraszabályozni.
 
 (6) A magasabb szintű szerkezeti egység újraszabályozása kivételével, ha az újraszabályozandó azonos szintű szerkezeti egységeknél több azonos szintű szerkezeti egységet kellene megállapítani, a hatályos szerkezeti egységek újraszabályozása mellett a jogszabályt új szakaszokkal kell kiegészíteni.
 
-[^84]: A 106. § (3) bekezdése a 11/2010. (X. 25.) KIM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^82]: A 106. § (3) bekezdése a 11/2010. (X. 25.) KIM rendelet 3. § (4) bekezdésével megállapított szöveg.

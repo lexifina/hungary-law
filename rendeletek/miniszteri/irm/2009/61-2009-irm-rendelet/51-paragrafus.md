@@ -4,7 +4,7 @@
 
 ## 22. A preambulum
 
-51. §[^38] (1) Preambulum
+51. §[^37] (1) Preambulum
 
 a) az Alaptörvény módosításának tervezetében, és
 
@@ -32,4 +32,4 @@ b) annak megállapítása, hogy a törvény valamely uniós jogi aktusnak való 
 
 (7) Az Alaptörvény módosítása tervezetének preambulumában utalni kell arra, hogy az akaratkijelentés során az Országgyűlés az Alaptörvény 1. cikk (2) bekezdés a) pontja szerinti hatáskörében eljárva mint alkotmányozó hatalom jár el.
 
-[^38]: Az 51. § a 43/2011. (XII. 31.) KIM rendelet 5. §-ával megállapított szöveg.
+[^37]: Az 51. § a 43/2011. (XII. 31.) KIM rendelet 5. §-ával megállapított szöveg.
