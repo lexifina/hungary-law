@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-36-20-1
 | 2015-11-14 | 2010-36-20-1U.8 | 64/2015. (XI. 13.) NFM rendelet |
 | 2015-11-15 | 2010-36-20-1U.9 | 64/2015. (XI. 13.) NFM rendelet |
 | 2018-01-01 | 2010-36-20-1U.10 | 64/2015. (XI. 13.) NFM rendelet |
+| 2021-10-01 | 2010-36-20-1U.11 | 10/2021. (IX. 30.) IM rendelet |
