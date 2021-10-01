@@ -16,7 +16,7 @@ g)
 
 h)
 
-i)
+i) 81/C. § (1) bekezdés a) pontja,
 
 j)
 
