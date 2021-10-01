@@ -14,8 +14,9 @@
 
 5. postaügyért,
 
-6. szerencsejáték-szervezés állami felügyeletéért
+6.[^124] szerencsejáték szabályozásért
 
 felelős tagja.
 
 [^123]: A 144. § 1. pontja a 423/2020. (IX. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^124]: A 144. § 6. pontja az 500/2021. (VIII. 18.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.

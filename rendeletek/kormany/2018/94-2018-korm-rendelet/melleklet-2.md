@@ -152,13 +152,7 @@
 
 | 7 | Nemzeti Akkreditáló Hatóság | irányítás |
 
-## L) Nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-|  | A | B |
-
-| 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
-
-| 2 | Szerencsejáték Felügyelet | irányítás |
+## L)
 
 ## M) Igazságügyi miniszter
 
@@ -168,6 +162,6 @@
 
 | 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^135]
+2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^139]
 
-[^135]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^139]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.
