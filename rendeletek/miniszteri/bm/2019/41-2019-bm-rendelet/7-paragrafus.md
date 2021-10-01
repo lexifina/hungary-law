@@ -8,7 +8,7 @@ a) az 5. § (1) bekezdés a) pontja szerinti közszolgáltatási szerződés ker
 
 b) az 5. § (1) bekezdés b) pontja szerint a központi szolgáltatóval közvetlenül megkötött direktfinanszírozási szerződés esetén az abban foglalt pénzügyi kötelezettségek központi szolgáltató felé történő teljesítésével
 
-## biztosítja.
+biztosítja.
 
 (3) A Kormánytól független szerv a közszolgáltatások (2) bekezdés szerinti ellentételezéseként, a közszolgáltatás nyújtására kötelezett központi szolgáltatónál a közszolgáltatás nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költség (a továbbiakban: nettó költség), az állam javára jogszabály alapján fizetendő pénzbeli kötelezettség, valamint az e rendeletben meghatározott mértékű észszerű nyereség összegét téríti meg.
 

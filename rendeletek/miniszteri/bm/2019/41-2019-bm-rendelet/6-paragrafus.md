@@ -6,6 +6,6 @@ a) a 4. § (2) bekezdés a) pontja esetében – a miniszter jóváhagyásával 
 
 b) a 4. § (2) bekezdés b) pontja esetén a Kormánytól független szerv vezetője által a miniszternek címzett egyoldalú nyilatkozatban megjelölt időpontban, de legkésőbb a 4. § (3) bekezdése szerinti jogszabály- módosítás hatálybalépésekor
 
-## megszünteti.
+megszünteti.
 
 (3) A központi szolgáltató a Kormánytól független szerv vonatkozásában az 1. mellékletben felsorolt közszolgáltatásokat az 5. § (2) bekezdése szerinti feltételekkel köteles nyújtani.
