@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-48-00-00
 | 2020-01-01 | 2019. évi CIII. törvény | 2008-48-00-00.27 |
 | 2021-01-01 | 2020. évi CLXIV. törvény | 2008-48-00-00.28 |
 | 2021-07-08 | 2021. évi LXXIX. törvény | 2008-48-00-00.29 |
+| 2021-10-01 | 2021. évi XXXII. törvény | 2008-48-00-00.30 |

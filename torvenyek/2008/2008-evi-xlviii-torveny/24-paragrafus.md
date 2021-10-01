@@ -2,7 +2,7 @@
 
 24. § (1) A gazdasági reklámtevékenységre, továbbá a tiltott szponzorálásra vonatkozó rendelkezések megsértése esetén – a (4) bekezdésben foglalt kivétellel – a fogyasztóvédelmi hatóság vagy – a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) által felügyelt tevékenység reklámja és az erre vonatkozó magatartási kódex tekintetében – a Felügyelet jár el.
 
-(2) Az 5. § (1) bekezdésében és a 21. §-ban foglalt rendelkezések megsértése esetén fogyasztóvédelmi hatóságként a Szerencsejáték Felügyelet jár el.
+(2) Az 5. § (1) bekezdésében és a 21. §-ban foglalt rendelkezések megsértése esetén fogyasztóvédelmi hatóságként a Szabályozott Tevékenységek Felügyeleti Hatósága jár el.
 
 (3)
 
