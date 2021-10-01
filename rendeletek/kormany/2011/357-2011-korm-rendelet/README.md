@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-357-20-
 | 2012-01-01 | 2011-357-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2012-01-02 | 2011-357-20-22.4 | 2010: CXXX. törvény |
 | 2012-12-06 | 2011-357-20-22.5 | 341/2012. (XII. 5.) Korm. rendelet |
+| 2021-10-01 | 2011-357-20-22.6 | 321/2022. (VIII. 18.) Korm. rendelet |
