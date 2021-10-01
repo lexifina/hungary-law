@@ -1,3 +1,1 @@
-20. §[^12]
-
-[^12]: A 20. § a 18. § (2) bekezdése alapján 2021. október 1-jén lép hatályba.
+20. § Hatályát veszti a földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak meghatározásának keretszabályairól szóló 8/2016. (X. 13.) MEKH rendelet.
