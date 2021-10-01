@@ -1,3 +1,3 @@
-## 58. §[^125] Ha a 7. § f) pontja és a 10/A. § szerinti eljárásokban szükséges, a jogkövetési vizsgálatot a Központi Irányítás megkeresése alapján a KAVIG vagy az adózó tekintetében az általános szabályok szerint hatáskörrel és illetékességgel rendelkező megyei igazgatóság folytatja le. Az ellenőrzést követő hatósági eljárást az ellenőrzést végző szerv folytatja le.
+## 58. §[^129]
 
-[^125]: Az 58. § a 214/2017. (VII. 25.) Korm. rendelet 9. §-ával megállapított, a 475/2017. (XII. 28.) Korm. rendelet 79. § 19. pontja szerint módosított szöveg.
+[^129]: Az 58. §-t az 506/2021. (VIII. 19.) korm. rendelet 9. § c) pontja hatályon kívül helyezte.

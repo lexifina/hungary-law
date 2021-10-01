@@ -1,4 +1,4 @@
-## 10/A. § A szokásos piaci ár megállapítása iránti kérelmek ügyében kizárólag a Központi Irányítás jár el.
+## 10/A. §
 
 ## 7/B.[^31]
 
