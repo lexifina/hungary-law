@@ -1,6 +1,6 @@
-## 20122V20000010_10
+## 20122V20000010_11
 
-2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^13]
+2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^14]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
 
@@ -1628,7 +1628,41 @@ BEAVATKOZÁSOK "C"
 
 06042 Alteplase
 
-"A" DIAGN. ÉS "B" BEAV. ÉS "F" TÍPUSKÉNT "C" BEAV.
+BEAVATKOZÁSOK "D"
+
+34410 Agykoponya natív CT vizsgálata
+
+34411 Agykoponya CT vizsgálat iv. kontrasztanyag adását követőleg
+
+34412 Agykoponya CT vizsgálat natív plusz iv. kontrasztanyag adását követőleg
+
+34914 Agykoponya natív MR vizsgálat
+
+34915 Agykoponya MR vizsgálat natív plusz iv. kontrasztanyag adását követőleg
+
+BEAVATKOZÁSOK "E"
+
+34490 CT angiográfia koponya
+
+34948 MR angiográfia iv. kontrasztanyag adása nélkül
+
+34949 MR angiográfia, iv. kontrasztanyag adásával
+
+3616C Transcraniális Doppler vizsgálat
+
+BEAVATKOZÁSOK "F"
+
+3617A Duplex UH, nyaki erek
+
+BEAVATKOZÁSOK "G"
+
+28610 Thrombin idő meghatározása
+
+28621 Aktivált parciális thromboplasztin idő
+
+28620 Prothrombin meghatározása
+
+"A" DIAGN. ÉS "B" BEAV. ÉS "F" TÍPUSKÉNT "C" BEAV.ÉS (BEAVATKOZÁS “D” ÉS BEAVATKOZÁS “E” ÉS BEAVATKOZÁS “F” ÉS BEAVATKOZÁS “G” CSOPORTOK MINDEGYIKÉBŐL LEGALÁBB EGY-EGY VIZSGÁLAT A FELVÉTELTŐL SZÁMÍTOTT 4,5 ÓRÁN BELÜL ÉS A NEUROLÓGIAI SZAKMASPECIFIKUS ŐRZŐN VALÓ ELLÁTÁS AZ ELSŐ 24 ÓRÁBAN)
 
 **** 01 015E Cerebrovascularis betegségek (kivéve: TIA), praecerebralis érelzáródással, speciális kezelés nélkül 18 év alatt
 
@@ -1873,6 +1907,164 @@ I6716 Arteréria beasiláris nem rupturált aneurismája
 I6760 A koponyaűri vénás rendszer nem suppurativ rögösödése
 
 Q2881 A közp. idegrendsz. ereinek veleszületett aneurysmája
+
+**** 01 015H Cerebrovascularis betegségek (kivéve: TIA) praecerebralis elzáródással, speciális diagnosztikával
+
+BETEGSÉGEK "A"
+
+I6000 Subarachnoidealis vérzés a carotis szifonból és bifurcatióból
+
+I6010 Subarachnoidealis vérzés az arteria cerebri mediából
+
+I6020 Subarachnoidealis vérzés az arteria communicans anteriorból
+
+I6030 Subarachnoidealis vérzés az arteria communicans posteriorból
+
+I6040 Subarachnoidealis vérzés az arteria basilarisból
+
+I6050 Subarachnoidealis vérzés az arteria vertebralisból
+
+I6060 Subarachnoidealis vérzés egyéb koponyaűri artériákból
+
+I6070 Subarachnoidealis vérzés k.m.n. koponyaűri artériából
+
+I6080 Egyéb subarachnoidealis vérzés
+
+I6081 Agyi erek vérzett arteriovenosus rendellenessége - hemispheriális
+
+I6082 Agyi erek vérzett arteriovenosus rendellenessége - axiális supratentoriális
+
+I6083 Agyi erek vérzett arteriovenosus rendellenessége - infratentoriális
+
+I6084 A gerinc ereinek vérzett arteriovenosus rendellenessége - cervicalis
+
+I6085 A gerinc ereinek vérzett arteriovenosus rendellenessége - thoracalis
+
+I6086 A gerinc ereinek vérzett arteriovenosus rendellenessége - lumbosacralis
+
+I6090 Subarachnoidealis vérzés, k.m.n.
+
+I6100 Agyállományi vérzés féltekében, subcorticalis
+
+I6110 Agyállományi vérzés féltekében, corticalis
+
+I6120 Agyállományi vérzés féltekében, k.m.n.
+
+I6130 Agyállományi vérzés agytörzsben
+
+I6140 Agyállományi vérzés kisagyban
+
+I6150 Agyállományi vérzés agykamrában
+
+I6160 Agyállományi vérzés több lokalizációban
+
+I6180 Agyállományi vérzés, egyéb
+
+I6190 Agyállományi vérzés, k.m.n.
+
+I6200 Keményburok alatti (subduralis) vérzés (heveny) (nem-traumás)
+
+I6210 Extraduralis vérzés
+
+I6290 Koponyaűri vérzés (nem-traumás), k.m.n.
+
+I6300 Agyi infarctus a praecerebralis ütőerek rögösödése miatt
+
+I6310 Agyi infarctus a praecerebralis ütőerek emboliája miatt
+
+I6320 Agyi infarctus a praecerebralis art. k.m.n. elzáródása-szűkülete miatt
+
+I6330 Agyi infarctus a cerebralis ütőerek rögösödése miatt
+
+I6340 Agyi infarctus a cerebralis ütőerek emboliája miatt
+
+I6350 Agyi infarctus a cerebralis art. k.m.n .elzáródása-szűkülete miatt
+
+I6360 Agyi infarctus az agyi visszerek nem suppurativ rögösödése miatt
+
+I6380 Agyi infarctus, egyéb
+
+I6500 Az arteria vertebralis elzáródása vagy szűkülete
+
+I6510 Az arteria basilaris elzáródása vagy szűkülete
+
+I6520 Az arteria carotis elzáródása vagy szűkülete
+
+I6530 A praecerebralis art. többszörös vagy kétoldali elzáródása-szűkülete
+
+I6580 Egyéb praecerebralis ütőerek elzáródása vagy szűkülete
+
+I6590 Egyéb, k.m.n. praecerebralis ütőerek elzáródása és szűkülete
+
+I6600 Az arteria cerebri media elzáródása és szűkülete
+
+I6610 Az arteria cerebri anterior elzáródása és szűkülete
+
+I6620 Az arteria cerebri posterior elzáródása és szűkülete
+
+I6630 Az arteriae cerebellares elzáródása és szűkülete
+
+I6640 Több, ill. bilaterális agyi arteria elzáródása és szűkülete
+
+I6680 Egyéb agyi artériák elzáródása és szűkülete
+
+I6690 Nem-meghatározott agyi arteria elzáródása és szűkülete
+
+I6700 Agyi ütőerek nem-rupturált dissectiója
+
+I6710 Agyi aneurysma, nem-rupturált
+
+I6711 Artéria carotis interna nem rupturált aneurysmája
+
+I6712 Artéria communicans anterior nem rupturált aneurismája
+
+I6713 Artéria cerebri anterior nem rupturált aneurysmája
+
+I6714 Artéria cerebri media nem rupturált aneurysmája
+
+I6715 Artéria vertebráis és ágai nem rupturált aneurysmája
+
+I6716 Arteréria beasiláris nem rupturált aneurismája
+
+16760 A koponyaűri vénás rendszer nem suppurativ rögösödése
+
+Q2881 A közp. idegrendsz. ereinek veleszületett aneurysmája
+
+BEAVATKOZÁSOK "B"
+
+34410 Agykoponya natív CT vizsgálata
+
+34411 Agykoponya CT vizsgálat iv. kontrasztanyag adását követőleg
+
+34412 Agykoponya CT vizsgálat natív plusz iv. kontrasztanyag adását követőleg
+
+34914 Agykoponya natív MR vizsgálat
+
+34915 Agykoponya MR vizsgálat natív plusz iv. kontrasztanyag adását követőleg
+
+BEAVATKOZÁSOK "C"
+
+34490 CT angiográfia koponya
+
+34948 MR angiográfia iv. kontrasztanyag adása nélkül
+
+34949 MR angiográfia iv. kontrasztanyag adásával
+
+3616C Transcraniális Doppler vizsgálat
+
+BEAVATKOZÁSOK "D"
+
+3617A Duplex UH, nyaki erek
+
+BEAVATKOZÁSOK "E"
+
+28610 Thrombin idő meghatározása
+
+28621 Aktivált parciális thromboplasztin idő
+
+28620 Prothrombin meghatározása
+
+MINDEGYIK BEAVATKOZÁS KÖRBŐL LEGALÁBB EGY-EGY VIZSGÁLAT A FELVÉTELTŐL SZÁMÍTOTT 4,5 ÓRÁN BELÜL ÉS A NEUROLÓGIAI SZAKMASPECIFIKUS ŐRZŐN VALÓ ELLÁTÁS AZ ELSŐ 24 ÓRÁBAN
 
 **** 01 0160 Átmeneti ischemiás agyi keringészavar (TIA)
 
@@ -3562,7 +3754,7 @@ Q2882 A gerinc ereinek nem vérzett arteriovenosus rendellenessége - cervicalis
 
 Q2883 A gerinc ereinek nem vérzett arteriovenosus rendellenessége - thoracalis
 
-Q2884 A gerinc ereinek nem vérzett arteriovenosus rendellenessége – lumbosacralis
+Q2884 A gerinc ereinek nem vérzett arteriovenosus rendellenessége - lumbosacralis
 
 Q8580 Egyéb, m.n.o. phakomatosisok
 
@@ -3646,7 +3838,7 @@ ESZKÖZÖK "F"
 
 01180 Oszt.méretű embolizációs részecskék intracran.intraspin.ér embolis.hoz
 
-(„A” DIAGN. ÉS „C” BEAV. ÉS „D” BEAV. ÉS „F” ESZKÖZ) VAGY („B” DIAGN. ÉS „C” BEAV. ÉS „F” ESZKÖZ)
+(“A” DIAGN. ÉS “C” BEAV. ÉS “D” BEAV. ÉS “F” ESZKÖZ) VAGY (“B” DIAGN. ÉS “C” BEAV. ÉS “F” ESZKÖZ)
 
 **** 01 029E Endovascularis aneurysma műtétek áramlásmódosítással a központi idegrendszer erein
 
@@ -5618,6 +5810,20 @@ BETEGSÉGEK
 
 A főcsoportba tartozó bármely betegség
 
+ÉS BEAVATKOZÁS
+
+51650 Szemgödri implant. behelyezés
+
+ÉS ESZKÖZ
+
+01202 Szemgödri implantátum
+
+**** 02 0620 Szem speciális műtétei
+
+BETEGSÉGEK
+
+A főcsoportba tartozó bármely betegség
+
 BEAVATKOZÁSOK "A"
 
 37671 Intraocularis kontakt sugárkezelés
@@ -7344,208 +7550,4 @@ C1204 A sinus pyriformis rosszindulatú daganata IV. stádium
 
 C1303 Gyűrűporc mögötti terület rosszindulatú daganata III. stádium
 
-C1304 Gyűrűporc mögötti terület rosszindulatú daganata IV. stádium
-
-C1313 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. III. stád.
-
-C1314 Aryepiglotticus redő hypopharynx felőli old. rosszind. dag. IV. stád.
-
-C1323 A hypopharynx hátsó falának rosszindulatú daganata III. stádium
-
-C1324 A hypopharynx hátsó falának rosszindulatú daganata IV. stádium
-
-C1383 A hypopharynx átfedő elváltozása, rosszindulatú dag. III. stádium
-
-C1384 A hypopharynx átfedő elváltozása, rosszindulatú dag. IV. stádium
-
-C1393 Hypopharynx rosszindulatú daganata, k.m.n. III. stádium
-
-C1394 Hypopharynx rosszindulatú daganata, k.m.n. IV. stádium
-
-C1403 Garat rosszindulatú daganata, k.m.n. III. stádium
-
-C1404 Garat rosszindulatú daganata, k.m.n. IV. stádium
-
-C1413 Laryngopharynx rosszindulatú daganata III. stádium
-
-C1414 Laryngopharynx rosszindulatú daganata IV. stádium
-
-C1423 Waldeyer-gyűrű rosszindulatú daganata III. stádium
-
-C1424 Waldeyer-gyűrű rosszindulatú daganata IV. stádium
-
-C1483 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. III.st.
-
-C1484 Az ajak, a szájüreg és a garat átfedő elvált., rossz. dag. IV.st.
-
-C3003 Orrüreg rosszindulatú daganata III. stádium
-
-C3004 Orrüreg rosszindulatú daganata IV. stádium
-
-C3013 Középfül rosszindulatú daganata III. stádium
-
-C3014 Középfül rosszindulatú daganata IV. stádium
-
-C3103 Arcüreg rosszindulatú daganata III. stádium
-
-C3104 Arcüreg rosszindulatú daganata IV. stádium
-
-C3113 Rostacsonti üreg rosszindulatú daganata III. stádium
-
-C3114 Rostacsonti üreg rosszindulatú daganata IV. stádium
-
-C3123 Homloküreg rosszindulatú daganata III. stádium
-
-C3124 Homloküreg rosszindulatú daganata IV. stádium
-
-C3133 Ékcsonti üreg rosszindulatú daganata III. stádium
-
-C3134 Ékcsonti üreg rosszindulatú daganata IV. stádium
-
-C3183 A melléküregek átfedő elváltozása, rosszind. dag. III. stádium
-
-C3184 A melléküregek átfedő elváltozása, rosszind. dag. IV. stádium
-
-C3193 Melléküreg rosszindulatú daganata, k.m.n. III. stádium
-
-C3194 Melléküreg rosszindulatú daganata, k.m.n. IV. stádium
-
-C3203 Glottis rosszindulatú daganata III.stádium
-
-C3204 Glottis rosszindulatú daganata IV. stádium
-
-C3213 Supraglotticus rész rosszindulatú daganata III. stádium
-
-C3214 Supraglotticus rész rosszindulatú daganata IV. stádium
-
-C3223 Subglotticus rész rosszindulatú daganata III. stádium
-
-C3224 Subglotticus rész rosszindulatú daganata IV. stádium
-
-C3233 Gégeporc rosszindulatú daganata III. stádium
-
-C3234 Gégeporc rosszindulatú daganata IV. stádium
-
-C3283 A gége átfedő elváltozása, rosszindulatú daganata III. stádium
-
-C3284 A gége átfedő elváltozása, rosszindulatú daganata IV. stádium
-
-C3293 Gége rosszindulatú daganata, k.m.n. III. stádium
-
-C3294 Gége rosszindulatú daganata, k.m.n. IV. stádium
-
-ÉS BEAVATKOZÁSOK
-
-54030 Lymphadenektomia collaris radicalis (PrRND,SRND)
-
-54034 Korlátozott kiterjesztésű nyaki blockdissectio
-
-ÉS BEAVATKOZÁSOK
-
-58935 Érnyeles bőr-izom lebeny
-
-58936 Érnyeles izomlebeny
-
-58937 Távoli nyeleslebeny
-
-58938 Kettős nyeleslebeny
-
-5893F Latissimus dorsi érnyeles bőr, izomlebeny
-
-58960 Lebeny vagy nyeles lebeny más helyhez erősítése
-
-**** 03 086D Fej-, nyaktájék egyéb nagyobb műtétei rosszindulatú daganat miatt
-
-BETEGSÉGEK
-
-C0000 Felső ajak, külső felszín rosszindulatú daganata
-
-C0010 Alsó ajak külső felszín rosszindulatú daganata
-
-C0020 Ajak, k.m.n. rosszindulatú daganata
-
-C0030 Felső ajak, belső felszín rosszindulatú daganata
-
-C0040 Alsó ajak, belső felszín rosszindulatú daganata
-
-C0050 Ajak, nem meghatározott belső felszín rosszindulatú daganata
-
-C0060 Ajakzug rosszindulatú daganata
-
-C0080 Az ajak átfedő elváltozása, rosszindulatú daganata
-
-C0090 Ajak rosszindulatú daganata, k.m.n.
-
-C0101 A nyelvgyök rosszindulatú daganata I. stádium
-
-C0102 A nyelvgyök rosszindulatú daganata II. stádium
-
-C0103 A nyelvgyök rosszindulatú daganata III. stádium
-
-C0104 A nyelvgyök rosszindulatú daganata IV. stádium
-
-C01H0 A nyelvgyök rosszindulatú daganata
-
-C0200 A nyelv háti felszínének rosszindulatú daganata
-
-C0201 A nyelv háti felszínének rosszindulatú daganata I. stádium
-
-C0202 A nyelv háti felszínének rosszindulatú daganata II. stádium
-
-C0203 A nyelv háti felszínének rosszindulatú daganata III. stádium
-
-C0204 A nyelv háti felszínének rosszindulatú daganata IV. stádium
-
-C0210 A nyelv szélének rosszindulatú daganata
-
-C0211 A nyelv szélének rosszindulatú daganata I. stádium
-
-C0212 A nyelv szélének rosszindulatú daganata II. stádium
-
-C0213 A nyelv szélének rosszindulatú daganata III. stádium
-
-C0214 A nyelv szélének rosszindulatú daganata IV. stádium
-
-C0220 A nyelv alsó felszínének rosszindulatú daganata
-
-C0221 A nyelv alsó felszínének rosszindulatú daganata I. stádium
-
-C0222 A nyelv alsó felszínének rosszindulatú daganata II. stádium
-
-C0223 A nyelv alsó felszínének rosszindulatú daganata III. stádium
-
-C0224 A nyelv alsó felszínének rosszindulatú daganata IV. stádium
-
-C0230 A nyelv első kétharmadának rosszindulatú daganata, k.m.n. része
-
-C0231 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része I. stád.
-
-C0232 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része II. stád.
-
-C0233 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része III. stád.
-
-C0234 A nyelv első kétharmadának rosszindulatú dag., k.m.n. része IV. stád.
-
-C0240 Nyelvmandula rosszindulatú daganata
-
-C0241 Nyelvmandula rosszindulatú daganata I. stádium
-
-C0242 Nyelvmandula rosszindulatú daganata II. stádium
-
-C0243 Nyelvmandula rosszindulatú daganata III. stádium
-
-C0244 Nyelvmandula rosszindulatú daganata IV. stádium
-
-C0280 A nyelv átfedő elváltozása, rosszindulatú daganata
-
-C0281 A nyelv átfedő elváltozása, rosszindulatú daganata I. stádium
-
-C0282 A nyelv átfedő elváltozása, rosszindulatú daganata II. stádium
-
-C0283 A nyelv átfedő elváltozása, rosszindulatú daganata III. stádium
-
-C0284 A nyelv átfedő elváltozása, rosszindulatú daganata IV. stádium
-
-C0290 Nyelv rosszindulatú daganata, k.m.n.
-
-[^13]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 5. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 4. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 5. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 6. § (1)–(2) bekezdése szerint módosított szöveg.
+[^14]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése, a 15/2017. (VI. 22.) EMMI rendelet 3. § (3)–(4) bekezdése, a 15/2018. (VI. 28.) EMMI rendelet 7. § (2) bekezdése, a 37/2018. (X. 30.) EMMI rendelet 3. § (2) bekezdése, a 15/2019. (VII. 26.) EMMI rendelet 5. § (2) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 4. § (1) bekezdése, a 2/2020. (I. 30.) EMMI rendelet 5. § (2) bekezdése, a 22/2020. (VI. 26.) EMMI rendelet 6. § (1)–(2) bekezdése, a 39/2021. (IX. 6.) EMMI rendelet 5. § (2) bekezdése szerint módosított szöveg.
