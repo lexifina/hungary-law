@@ -26,10 +26,10 @@ k) elektronikus levelezési cím.
 
 a) a felhasználó elektronikus aláírói tanúsítványát, titkosító tanúsítványát és hitelesítési tanúsítványát,
 
-b)–c)[^38]
+b)–c)[^39]
 
 d) kézbesítési megbízottal rendelkező fél esetében a kézbesítési megbízottal kötött megbízási szerződés elektronikus másolatát,
 
 e) a kérelem előterjesztése során meghatalmazottal eljáró fél esetében a képviseletre adott meghatalmazás elektronikus másolatát.
 
-[^38]: A 21. § (2) bekezdés b)–c) pontját a 20/2014. (XII. 23.) IM rendelet 16. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^39]: A 21. § (2) bekezdés b)–c) pontját a 20/2014. (XII. 23.) IM rendelet 16. § (2) bekezdés c) pontja hatályon kívül helyezte.

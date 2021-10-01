@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-40-20-2
 | 2015-01-10 | 2012-40-20-2T.4 | 20/2014. (XII. 23.) IM rendelet |
 | 2016-03-09 | 2012-40-20-2T.5 | 5/2016. (III. 8.) IM rendelet |
 | 2018-01-01 | 2012-40-20-2T.6 | 20/2017. (XII. 21.) IM rendelet |
+| 2021-10-01 | 2012-40-20-2T.7 | 10/2021. (IX. 30.) IM rendelet |
