@@ -1,25 +1,33 @@
 ## 4. A fedezetértékelés prudenciális követelményei
 
-## 15. § Az intézmény a fedezetértékeléssel összefüggésben – az általa végzett tevékenységekben és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos módon – belső szabályzatban rögzíti:
+## 15. §[^1] Az intézmény a fedezetértékeléssel összefüggésben – az általa végzett tevékenységekben és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos módon – belső szabályzatban rögzíti:
 
 a) a fedezetértékelés – beleértve a kockázatvállalás során, a biztosíték elfogadása előtt történő értékelést (elfogadhatóság és érték meghatározása), valamint a fedezetek rendszeres, utólagos értékelését – eljárásrendjét, felelősségi és hatásköri szabályait,
 
-b) az elfogadható fedezettípusokat, elkülönítve a tőkekövetelmény számítás során figyelembe nem vehető, de a hitelkockázat mérséklése érdekében alkalmazható biztosítéktípusokat (ingó és ingatlan vagyontárgyak, követelések), valamint jogi kikötéseket és szerződéseket,
+b) az elfogadható fedezettípusokat, elkülönítve a tőkekövetelmény-számítás során figyelembe nem vehető, de a hitelkockázat mérséklése érdekében alkalmazható biztosítéktípusokat (ingó és ingatlan vagyontárgyak, követelések), valamint jogi kikötéseket és szerződéseket,
 
-c) a fedezetek elfogadhatóságának értékelésénél alapul veendő tényezőket és szempontokat (például jogi érvényesíthetőség, illetve az azt korlátozó tényezők, hozzáférhetőség, likviditás, mobilizálhatóság), fedezet típusonkénti bontásban,
+c) a fedezetek elfogadhatóságának értékelésénél alapul veendő tényezőket és szempontokat (például jogi érvényesíthetőség, illetve az azt korlátozó tényezők, hozzáférhetőség, likviditás, mobilizálhatóság), fedezettípusonkénti bontásban,
 
-d) a különféle fedezetek együttes alkalmazásának gyakorlatát, a fedezetek bevonásának sorrendjét,
+d) az alkalmazott ügyfél- és partner-, valamint ügyletkockázati kategóriák fedezettségi követelményeit,
 
-e) a fedezetek értékének meghatározására alkalmazott módszereket, fedezet típusonkénti bontásban,
+e) a fedezetek értékének meghatározására alkalmazott módszereket, fedezettípusonkénti bontásban, beleértve a kockázatvállalási és -kezelési folyamat egyes fázisai tekintetében a statisztikai alapú értékelés alkalmazásának feltételeit is,
 
-f) az alkalmazott ügyfél- és partner, valamint ügylet kockázati kategóriák fedezettségi követelményeit,
+f) a különféle fedezetek együttes alkalmazásának gyakorlatát, a fedezetek bevonásának sorrendjét,
 
-g) amennyiben a fedezetek értékelésével az intézmény harmadik felet bíz meg, az értékeléssel megbízott féllel és az értékeléssel szemben támasztott általános, minimális elvárásokat,
+g) az értékelési szakvélemény, értékbecslés, értékelési jelentés tartalmi és formai követelményeit,
 
-h) a fedezetek utólagos értékelésének gyakoriságát, fedezet típusonkénti bontásban,
+h) az értékelő által adott értékelés felülvizsgálatának és esetleges korrekciójának folyamatát és eljárásrendjét,
 
-i) a fedezetek értékében, meglétében, hozzáférhetőségében és érvényesíthetőségében bekövetkező változások esetén alkalmazandó eljárásokat,
+i) azon eseteket, amikor a fedezet értékelését csak külső értékelő bevonásával lehet lefolytatni (például összeférhetetlenség miatt vagy kockázatkezelési megfontolásból),
 
-j) a fedezetek érvényesítésére, értékesítésére vonatkozó előírásokat (feltételek, időpontok, felelősök),
+j) amennyiben a fedezetek értékelésével az intézmény harmadik felet bíz meg, az értékeléssel megbízott féllel és az értékeléssel szemben támasztott általános, minimális elvárásokat,
 
-k) a fedezetekre vonatkozó nyilvántartási és dokumentációs követelményeket.
+k) a fedezetek utólagos értékelésének gyakoriságát, fedezettípusonkénti bontásban,
+
+l) a fedezetek értékében, meglétében, hozzáférhetőségében és érvényesíthetőségében bekövetkező változások esetén alkalmazandó eljárásokat,
+
+m) a fedezetek érvényesítésére, értékesítésére vonatkozó előírásokat (feltételek, időpontok, felelősök),
+
+n) a fedezetekre vonatkozó nyilvántartási és dokumentációs követelményeket.
+
+[^1]: A 15. § a 32/2021. (IX. 3.) MNB rendelet 1. §-ával megállapított szöveg.
