@@ -1,1 +1,1 @@
-46. §
+46. § A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 27. § (1) bekezdés c) pontjában és 30. § (4) bekezdés e) pontjában a „szerencsejáték-felügyeleti hatóság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatóságának” szöveg lép.

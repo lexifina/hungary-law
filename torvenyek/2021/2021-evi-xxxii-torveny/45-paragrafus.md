@@ -1,1 +1,1 @@
-45. §
+45. § A sajtószabadságról és a médiatartalmak alapvető szabályairól szóló 2010. évi CIV. törvény 20. § (7) bekezdésében a „szerencsejáték-felügyeleti hatóság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatóságának” szöveg lép.
