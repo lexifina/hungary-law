@@ -6,7 +6,7 @@
 
 (3)[^3] A pályázati felhívásban – az értékesítésre kerülő vagyon megjelölésekor – ingatlan esetén fel kell sorolni az ingatlan-nyilvántartási adatok közül a tulajdoni lap I. részében feltüntetett adatokat és utalni kell arra, hogy a tulajdoni lap III. részében milyen jogok vannak bejegyezve, milyen tények vannak feljegyezve. Tájékoztatást kell adni az ingatlanra jellemző egyéb sajátosságokról is (így különösen: ipari célú ingatlan, mezőgazdasági célú ingatlan, üzlethelyiség, lakóépület esetében az a tény, hogy lakott-e). Az egyéb vagyoni elemek esetén fel kell tüntetni a tárgyi eszköz (így különösen: műszaki berendezés, gép, jármű, egyéb berendezés, felszerelés, tenyészállatok), a készlet (így különösen: anyagok, félkész termékek, késztermékek, állatállomány), az egyéb vagyoni elemek (így különösen: vagyoni értékű jogok, követelések, részesedések, értékpapírok) jellegét és főbb adatait, jellemzőit.
 
-(4)[^4] A pályázati felhívásban – az értékesítési feltételek között – meg kell határozni az egyes vagyoni elemek (így különösen: tárgyi eszközök, készletek) becsértékét, valamint a vételár megfizetésének módjait és határidejét, az ajánlati biztosíték kikötését és annak formáját, összegét, továbbá a szerződéskötésre meghatározott határidőt is.
+(4)[^4] A pályázati felhívásban – az értékesítési feltételek között – meg kell határozni az egyes vagyoni elemek (így különösen: tárgyi eszközök, készletek) becsértékét, valamint a vételár megfizetésének módjait és határidejét, az ajánlati biztosíték kikötését és annak formáját, összegét, megfizetésének módjait és határidejét, továbbá a szerződéskötésre meghatározott határidőt is.
 
 (4a)[^5] Az értékesítési hirdetményben a felszámolónak nyilatkoznia kell arról, hogy
 
@@ -41,7 +41,7 @@ az ajánlati biztosítékot elveszíti, a felszámoló ezt az összeget az ért�
 [^1]: A 2. § (1) bekezdése a 300/2017. (X. 17.) Korm. rendelet 4. § a)–b) pontja szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdése a 300/2017. (X. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (3) bekezdése a 40/2012. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § (4) bekezdése a 40/2012. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 300/2017. (X. 17.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § (4) bekezdése a 40/2012. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 300/2017. (X. 17.) Korm. rendelet 4. § c) pontja, az 500/2021. (VIII. 18.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^5]: A 2. § (4a) bekezdését a 300/2017. (X. 17.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^6]: A 2. § (5) bekezdése a 40/2012. (III. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (5) bekezdés a) pontja a 300/2017. (X. 17.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

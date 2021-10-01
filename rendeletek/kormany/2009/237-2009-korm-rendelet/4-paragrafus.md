@@ -24,7 +24,7 @@ a) a minimálár (2a) és (2b) bekezdés szerinti csökkentésénél, valamint
 
 b) a Cstv. 49/A. § (5) bekezdése és 49/B. § (7) bekezdése szerinti értékesítésnél
 
-## az újabb becsértéket kell figyelembe venni.
+az újabb becsértéket kell figyelembe venni.
 
 (2f)[^23] Eredménytelennek kell nyilvánítani az értékesítést, ha nem adtak be az értékesítési hirdetményben meghatározott feltételeknek megfelelő érvényes ajánlatot. Az értékesítés eredménytelenségének okát indoklással a jegyzőkönyvben rögzíteni kell.
 
