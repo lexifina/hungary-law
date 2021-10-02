@@ -36,8 +36,8 @@ b) az értékelés alá vont egyéb eszközök esetében a könyv szerinti ért�
 
 (6) A (3) és (4) bekezdésben foglaltakat a szállítási rendszerüzemeltetési díj esetében, ahol e rendelet 2019. évet ír, ott a 2018. évi adatok alapján, ahol 2020. évet ír, ott a 2019. évi adatok alapján kell meghatározni.
 
-(7)[^5] A súlyozott átlagos tőkeköltség adózás előtti reálértékének mértékét – a GET 104/A. § (5) bekezdése szerinti eszköz- és költség-felülvizsgálat eredményeként – a Hivatal elnöke az induló rendszerhasználati díjakat tartalmazó határozatában állapítja meg. A súlyozott átlagos tőkeköltség megállapított mértékétől az árszabályozási ciklus során a 6. § (4) és (5) bekezdésében foglalt esetben lehet eltérni.
+(7)[^7] A súlyozott átlagos tőkeköltség adózás előtti reálértékének mértékét – a GET 104/A. § (5) bekezdése szerinti eszköz- és költség-felülvizsgálat eredményeként – a Hivatal elnöke az induló rendszerhasználati díjakat tartalmazó határozatában állapítja meg. A súlyozott átlagos tőkeköltség megállapított mértékétől az árszabályozási ciklus során a 6. § (4) és (5) bekezdésében foglalt esetben lehet eltérni.
 
 (8) Ha a földgáz elosztói engedélyes az eszköz- és költség-felülvizsgálat megkezdésekor nem rendelkezik auditált éves beszámolóval, a Hivatal az eszköz- és költség-felülvizsgálatot az adott engedélyesre vonatkozóan az előzetes mérleg- és eredménykimutatás alapján is megkezdheti.
 
-[^5]: A 11. § (7) bekezdése a 15/2020. (XII. 15.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^7]: A 11. § (7) bekezdése a 15/2020. (XII. 15.) MEKH rendelet 3. §-ával megállapított szöveg.

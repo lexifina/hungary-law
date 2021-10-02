@@ -26,9 +26,9 @@ ai) a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról s
 
 aj) földgázminőség ellenőrzésével kapcsolatos szolgáltatás, ha az ellenőrzés alapján a földgáz minősége megfelelő, valamint
 
-b)[^11] a felhasználó szerződésszegése esetén a földgázelosztó által kezdeményezett szabálytalan vételezés vagy egyéb szerződésszegés megszüntetése kapcsán a földgázellátásból való jogszerű kikapcsolás, a szerződésszegés megszüntetésével kapcsolatban felmerült további műszaki és egyéb szolgáltatások, ideértve a nem a földgázelosztó tulajdonában lévő csatlakozóvezetéken, fogyasztói vezetéken vagy felhasználói berendezésben észlelt gázszivárgás vagy egyéb veszélyhelyzet feltárását és elhárítását, valamint a nem könyvelt küldeményként küldött fizetési felszólítást és a tértivevényes küldeményként küldött kikapcsolási értesítőt.
+b)[^13] a felhasználó szerződésszegése esetén a földgázelosztó által kezdeményezett szabálytalan vételezés vagy egyéb szerződésszegés megszüntetése kapcsán a földgázellátásból való jogszerű kikapcsolás, a szerződésszegés megszüntetésével kapcsolatban felmerült további műszaki és egyéb szolgáltatások, ideértve a nem a földgázelosztó tulajdonában lévő csatlakozóvezetéken, fogyasztói vezetéken vagy felhasználói berendezésben észlelt gázszivárgás vagy egyéb veszélyhelyzet feltárását és elhárítását, valamint a nem könyvelt küldeményként küldött fizetési felszólítást és a tértivevényes küldeményként küldött kikapcsolási értesítőt.
 
-(1a)[^12] A rendszerhasználó igénylése alapján a felhasználónak a földgázellátásból való jogszerű kikapcsolása esetén a kikapcsolás díját a rendszerhasználó fizeti meg a földgázelosztó részére.
+(1a)[^14] A rendszerhasználó igénylése alapján a felhasználónak a földgázellátásból való jogszerű kikapcsolása esetén a kikapcsolás díját a rendszerhasználó fizeti meg a földgázelosztó részére.
 
 (2) A rendszerhasználó igénye alapján a szállítási rendszerüzemeltető az alábbi külön szolgáltatásokért szedhet külön díjat a rendszerhasználótól:
 
@@ -40,7 +40,7 @@ b) az alapszolgáltatásokhoz kapcsolódó adatforgalmon felül igényelt adatsz
 
 (4) A (2) bekezdés szerinti, nem szállítási szolgáltatások körébe tartozó szolgáltatások díját meghatározó módszertant a referenciaár-módszertan tartalmazza.
 
-(5)[^13] A külön díjak megállapítása során – a 3. § (3) bekezdésével összhangban – a következő alapelveket is érvényesíteni kell:
+(5)[^15] A külön díjak megállapítása során – a 3. § (3) bekezdésével összhangban – a következő alapelveket is érvényesíteni kell:
 
 a) a rendszerüzemeltetőkkel szemben felmerülő, túlzott rendszerhasználói igények korlátozása,
 
@@ -54,6 +54,6 @@ e) csak azon igénybe vett szolgáltatások költségei vehetők figyelembe, ame
 
 (6) A külön díjak mértéke az árszabályozási cikluson belül – a rendszerhasználati díjakkal összehangoltan – módosítható.
 
-[^11]: A 16. § (1) bekezdés b) pontja a 9/2021. (VII. 26.) MEKH rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^12]: A 16. § (1a) bekezdését a 9/2021. (VII. 26.) MEKH rendelet 7. § (2) bekezdése iktatta be.
-[^13]: A 16. § (5) bekezdése a 9/2021. (VII. 26.) MEKH rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^13]: A 16. § (1) bekezdés b) pontja a 9/2021. (VII. 26.) MEKH rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^14]: A 16. § (1a) bekezdését a 9/2021. (VII. 26.) MEKH rendelet 7. § (2) bekezdése iktatta be.
+[^15]: A 16. § (5) bekezdése a 9/2021. (VII. 26.) MEKH rendelet 7. § (3) bekezdésével megállapított szöveg.
