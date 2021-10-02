@@ -26,11 +26,15 @@ c)[^51] igazolja, hogy részt vett az adott nyelvvizsgarendszer vizsgáztatásra
 
 (4)[^52] Szaknyelvi vizsgák esetében az (1) és (3) bekezdésben foglaltaktól eltérően vizsgáztató lehet az is, aki
 
-a) rendelkezik az adott nyelvet hivatalos nyelvként használó országban és az adott nyelven folyó képzésben szerzett és Magyarországon elismert, vagy Magyarországon szerzett, a szaknyelvi vizsgarendszernek megfelelő szakirányú oklevéllel,
+a)[^53] rendelkezik
+
+aa) az adott nyelvet hivatalos nyelvként használó országban és az adott nyelven folyó képzésben szerzett és Magyarországon elismert, vagy Magyarországon szerzett, a szaknyelvi vizsgarendszernek megfelelő szakirányú oklevéllel, vagy
+
+ab) az aa) alponttól eltérően diplomáciai szaknyelvi vizsgák esetében Magyarországon elismert, vagy Magyarországon szerzett osztatlan, alap- vagy mesterképzésben szerzett szakképzettséggel,
 
 b) rendelkezik államilag elismert vagy azzal egyenértékű felsőfokú általános vagy szaknyelvi nyelvvizsga-bizonyítvánnyal, vagy igazolja magas szintű szaknyelvi ismereteit, valamint
 
-c)[^53] igazolja, hogy részt vett az adott nyelvvizsgarendszer vizsgáztatásra felkészítő képzésén és évenkénti továbbképzésén, amelynek a KER megismerése kötelezően része.
+c)[^54] igazolja, hogy részt vett az adott nyelvvizsgarendszer vizsgáztatásra felkészítő képzésén és évenkénti továbbképzésén, amelynek a KER megismerése kötelezően része.
 
 [^47]: A 10. § (1) bekezdése a 33/2014. (II. 18.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^48]: A 10. § (1) bekezdés c) pontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 9. pontja szerint módosított szöveg.
@@ -38,4 +42,5 @@ c)[^53] igazolja, hogy részt vett az adott nyelvvizsgarendszer vizsgáztatásra
 [^50]: A 10. § (3) bekezdése a 33/2014. (II. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^51]: A 10. § (3) bekezdés c) pontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 9. pontja szerint módosított szöveg.
 [^52]: A 10. § (4) bekezdése a 33/2014. (II. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^53]: A 10. § (4) bekezdés c) pontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 9. pontja szerint módosított szöveg.
+[^53]: A 10. § (4) bekezdés a) pontja az 563/2021. (X. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^54]: A 10. § (4) bekezdés c) pontja a 346/2019. (XII. 23.) Korm. rendelet 9. § 9. pontja szerint módosított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-137-20-
 | 2020-02-15 | 2008-137-20-22.13 | 260/2012. (IX. 14.) Korm. rendelet |
 | 2020-09-01 | 2008-137-20-22.14 | 403/2020. (VIII. 17.) Korm. rendelet |
 | 2020-12-25 | 2008-137-20-22.15 | 661/2020. (XII. 24.) Korm. rendelet |
+| 2021-10-02 | 2008-137-20-22.16 | 563/2021. (X. 1.) Korm. rendelet |
