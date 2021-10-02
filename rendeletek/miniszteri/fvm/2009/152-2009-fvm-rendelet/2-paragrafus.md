@@ -34,6 +34,8 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 
 (16)[^38] A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 8/2020. (III. 25.) AM rendelettel (a továbbiakban: MódR6.) megállapított 41. melléklet rendelkezéseinek nem megfelelő termékek a MódR6. hatálybalépésétől[^39] számított két évig előállíthatóak, és a minőségmegőrzési idejük lejártáig forgalomba hozhatóak.
 
+(17)[^40] A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 33/2021. (IX. 29.) AM rendelettel (a továbbiakban: MódR7.) megállapított 13. melléklet rendelkezéseinek nem megfelelő, de a MódR7. hatálybalépésének[^41] napját megelőző napon hatályos előírásoknak megfelelő termékek a MódR7. hatálybalépésének napjától számított 12. hónap utolsó napjáig előállíthatóak, és a minőségmegőrzési idejük vagy fogyaszthatósági idejük lejártáig forgalomba hozhatóak.
+
 [^22]: A 2. § (2) bekezdését a (9) bekezdés a) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (1) bekezdése iktatta be.
 [^23]: A 2. § (5) bekezdését a (9) bekezdés b) pontja hatályon kívül helyezte, újonnan a 26/2011. (IV. 7.) VM rendelet 2. §-a iktatta be.
 [^24]: A 2. § (7) bekezdését a (9) bekezdés c) pontja hatályon kívül helyezte, újonnan a 37/2010. (IV. 13.) FVM rendelet 2. § (2) bekezdése iktatta be.
@@ -52,3 +54,5 @@ b) csomagolóeszközök és címkék a MódR. hatálybalépésétől számított
 [^37]: A hatálybalépés időpontja 2017. április 1.
 [^38]: A 2. § (16) bekezdését a 8/2020. (III. 25.) AM rendelet 2. §-a iktatta be.
 [^39]: A hatálybalépés napja 2020. március 28.
+[^40]: A 2. § (17) bekezdését a 33/2021. (IX. 29.) AM rendelet 1. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2021. október 2.

@@ -1,4 +1,4 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^91]
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^75]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -244,4 +244,86 @@ A szárítószekrény olyan felépítésű legyen, hogy a hő gyorsan átjárja 
 
 6. A vizsgálat módja
 
-[^91]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+6.1. Körülbelül 30 g kovaföldet (4.1.) helyezzünk az üvegbottal (5.5.) ellátott bemérőedénybe (5.4.). Az egészet 70 ±1 °C-os szárítószekrénybe (5.1.) tesszük, és a nyomást 3,3 kPa (34 mbar) vagy annál kisebb értékig csökkentjük. Legalább 5 óráig szárítjuk, mialatt a szárítóoszlopon keresztül lassú levegőáramlást biztosítunk a szárítószekrényben. A nyomást időnként ellenőrizzük és korrigáljuk, ha szükséges.
+
+6.2. Óvatosan növeljük a száraz levegő mennyiségét a külső légnyomás értékéig. Ekkor a bemérőedényt – az üvegbottal együtt – az exszikkátorba (5.6.) helyezzük. Lehűlés után megmérjük.
+
+6.3. Gondosan bemérünk – 1 mg pontossággal – kb. 10 g vizsgálandó mintát egy 100 cm3-es főzőpohárba.
+
+6.4. 10 cm3 meleg vízzel hígítjuk a mintát, és átmossuk az egész mennyiséget az üvegbot segítségével a bemérőedénybe.
+
+6.5. A vizsgálati mintát tartalmazó bemérőedényt az üvegbottal együtt helyezzük a szárítószekrénybe, és csökkentsük a nyomást 3,3 kPa (34 mbar)-ig vagy annál kisebbre. Szárítsuk 70 ±1 °C-on, a száraz levegő lassú áramlását biztosítva a szárítószekrényen keresztül. A szárítási műveletet 20 órán át kell folytatni. A vákuumszivattyút egész éjszaka üzemeltetni kell, hogy a kb. 3,3 kPa (34 mbar) nyomást biztosítsuk, és a száraz levegő lassú áramlással keringjen.
+
+6.6. Óvatosan növeljük a száraz levegő mennyiségét a külső légnyomás értékéig. Ezután a bemérőedényt tartalmával együtt gyorsan exszikkátorba helyezzük. Lehűtjük és megmérjük 1 mg pontossággal.
+
+6.7. A 6.5. műveletet ismételjük további 4 órán át. Majd újra visszaállítjuk a légnyomást a szárítószekrényben, a bemérőedényt azonnal exszikkátorba téve lehűlni hagyjuk és megmérjük. A szárítást tömegállandóságig folytatjuk. Ez azt jelenti, hogy az azonos bemérőedény két egymást követő mérésénél a különbség nem haladhatja meg a 2 mg-ot. Ha a különbség nagyobb, a 6.7. műveletet meg kell ismételni.
+
+6.8. A vízmentes dextróz vagy dextróz monohidrát szárazanyagtartalmának meghatározásánál a kovaföld és a víz használata nem szükséges.
+
+7. Az eredmények kiszámítása
+
+A szárazanyagtartalmat – a minta tömegszázalékában – a következő képlettel számítjuk ki:
+
+|  | Szárazanyagtartalom % = |  |
+
+ahol
+
+m0 = a vizsgált minta kezdeti tömege, g-ban
+
+m1 = a bemérőedény tömege kovafölddel, üvegbottal és a vizsgált minta maradékával szárítás után, g-ban
+
+m2 = a bemérőedény, kovaföld és üvegbot tömege, g-ban
+
+8. Ismételhetőség
+
+Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények között, egyidőben vagy közvetlenül egymás után végzett két meghatározás eredménye közötti különbség legfeljebb 0,12 g/100 g minta lehet.
+
+3. MÓDSZER
+
+Szárazanyagtartalom meghatározása
+
+(Refraktometriás módszer)
+
+1. Alkalmazási terület
+
+A módszerrel szárazanyagtartalmat határozunk meg:
+
+–  cukoroldatban vagy fehér cukoroldatban
+
+–  invertcukoroldatban vagy fehér invertcukoroldatban
+
+–  invertcukorszirupban vagy fehér invertcukorszirupban
+
+2. Fogalommeghatározás
+
+„Szárazanyagtartalom”: a minta szárazanyagtartalma a következőkben részletezett módszerrel meghatározva.
+
+3. A módszer elve
+
+Meghatározzuk a vizsgált minta törésmutatóját 20 °C hőmérsékleten, és átszámítjuk szárazanyagtartalomra a táblázat segítségével, ami a törésmutató és szacharóztartalom közötti összefüggést adja meg.
+
+4. Eszközök
+
+4.1. Refraktométer, amellyel a törésmutató értéke négy tizedes pontossággal olvasható le, hőmérővel és vízkeringtető szivattyúval, 20 ±0,5 °C-ra beállított termosztáttal.
+
+4.2. Fényforrás (Nátriumgőz lámpa)
+
+5. A vizsgálat módja
+
+5.1. Ha a minta kristályokat tartalmaz, oldjuk azokat 1:1 (m/m) arányú hígítással.
+
+5.2. Olvassuk le a minta törésmutatóját 20 ° C-on refraktométeren.
+
+6. Az eredmények kiszámítása
+
+6.1. A szárazanyagtartalmat a szacharózoldatok 20 °C-ra megadott törésmutatóiból állapítjuk meg (lásd: a táblázatban), és az invertcukortartalomtól függően korrigáljuk úgy, hogy a táblázatból kapott eredményhez minden 1% invertcukor esetén hozzáadunk 0,022 értéket.
+
+6.2. Az 1:1 (m/m) arányú hígítás esetén a kapott értéket 2-vel szorozzuk.
+
+7. Ismételhetőség
+
+Ugyanabból a mintából, azonos vizsgáló által, azonos körülmények között, egy időben vagy közvetlenül egymás után végzett két meghatározás eredménye közötti különbség 100 g mintára vonatkoztatva 0,2 g-nál nagyobb nem lehet.
+
+Törésmutató-cukortartalom táblázat 20 °C-on
+
+[^75]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.

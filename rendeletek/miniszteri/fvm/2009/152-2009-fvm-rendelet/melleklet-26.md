@@ -162,6 +162,6 @@
 
 | – Butil-acetát – Etil-acetát – Izobutil-acetát – Izopropil-acetát – Propil-acetát – Aceton – 1-Butanol – Etil-akohol – 2-Butanol – 2-Propanol – 1-Propanol – Ciklohexán – Etilénglikol-monobutil-éter – Etilénglikol-monobutil-éter-acetát – Metil-etil-keton – Metil-izobutil-keton – Tetrahidrofurán – Toluol | Nem több, mint 0,06 mg/dm2 a bevonatra vonatkoztatva az élelmiszerrel érintkező oldalon. |
 
-26. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^86]
+26. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^70]
 
-[^86]: A 26. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be.
+[^70]: A 26. mellékletet a 65/2010. (V. 12.) FVM rendelet 3. § (1) bekezdése iktatta be, hatályon kívül helyezte a 33/2021. (IX. 29.) AM rendelet 5. §-a.
