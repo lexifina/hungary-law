@@ -1,3 +1,3 @@
-9. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez[^48]
+9. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez[^53]
 
-[^48]: A 9. melléklet a 22. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^53]: A 9. melléklet a 22. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.

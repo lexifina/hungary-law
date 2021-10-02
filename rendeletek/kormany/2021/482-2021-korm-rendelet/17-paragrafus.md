@@ -1,8 +1,9 @@
-## 16. §[^35]
+## 16. §[^38]
 
-17. § (1)[^36]
+17. § (1)[^39]
 
-(2) Hatályát veszti az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 32. § (5) bekezdésében az „a Szerencsejáték Felügyelet és” szövegrész.
+(2)[^40]
 
-[^35]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 17. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 17. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
