@@ -1,3 +1,0 @@
-## 2. § Az R. a következő 70. §-sal egészül ki:
-
-## „70. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 558/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr62.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/T. §-át és 2. mellékletében foglalt táblázat 75. sorát a Módr62. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
