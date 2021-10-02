@@ -1,1 +1,3 @@
-## 6. § A 17/2014. (II. 3.) Korm. rendelet 13. § (1) bekezdésében a „lejártát követően” szövegrész helyébe a „megnyíltát megelőzően” szöveg lép.
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

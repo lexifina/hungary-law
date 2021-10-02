@@ -1,3 +1,5 @@
-## 7. § Hatályát veszti a 17/2014. (II. 3.) Korm. rendelet 2. §-a.
+## 7. §[^7]
 
 ## 6. A Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet módosítása
+
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

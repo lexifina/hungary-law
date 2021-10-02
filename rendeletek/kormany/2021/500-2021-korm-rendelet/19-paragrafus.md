@@ -1,3 +1,3 @@
-## „51. a szerencsejáték szabályozásért,”
+## 18. §[^18]
 
-## (való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.)
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

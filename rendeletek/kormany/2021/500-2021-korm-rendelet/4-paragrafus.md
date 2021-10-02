@@ -1,3 +1,5 @@
-## 3. § A stratégiailag kiemelt jelentőségű gazdálkodó szervezetek csődeljárásában és felszámolási eljárásában közreműködő állami felszámoló adatainak nyilvántartásba vételével és közigazgatási hatósági ellenőrzésével összefüggő eljárási szabályokról szóló 357/2011. (XII. 30.) Korm. rendelet 1. §-ában a „közigazgatási szervnek” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatóságának” szöveg lép.
+## 3. §[^3]
 
 ## 4. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet módosítása
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

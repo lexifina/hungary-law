@@ -1,1 +1,3 @@
-## „(5) E rendeletnek az egyes kormányrendeleteknek a Szabályozott Tevékenységek Felügyeleti Hatóságának létrehozásával kapcsolatos módosításáról szóló 500/2021. (VIII. 18.) Korm. rendelettel módosított 13. § (2) bekezdését és megállapított 13. § (3) bekezdését, valamint módosított 22. § (5) bekezdését a 2021. október 1. napját követően megkezdett értékesítésekre kell alkalmazni.”
+## 5. §[^5]
+
+[^5]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
