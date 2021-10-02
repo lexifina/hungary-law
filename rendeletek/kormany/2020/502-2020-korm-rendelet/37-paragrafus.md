@@ -1,13 +1,10 @@
-37. §[^27] (1) A veszélyhelyzet során a személy- és vagyonegyesítő szervezetek működésére vonatkozó eltérő rendelkezések újbóli bevezetéséről szóló 502/2020. (XI. 16.) Korm. rendelet módosításáról szóló 608/2020. (XII. 18.)Korm. rendelettel (a továbbiakban: Módr.) megállapított 23. §-t
+37. §[^27] (1)[^28]
 
-a) a veszélyhelyzet kihirdetésekor már megüresedett, valamint
+(2) A Módr.-rel[^29] megállapított 33/B. § (1) bekezdését azon közvetítők esetében is alkalmazni kell, akik a közvetítői névjegyzékben már szerepelnek, de a közvetítői igazolványukat még nem vették át.
 
-b) a veszélyhelyzet kihirdetését követően megüresedő vagy megüresedett
-
-közjegyzői állások esetében is alkalmazni kell.
-
-(2) A Módr.-rel megállapított 33/B. § (1) bekezdését azon közvetítők esetében is alkalmazni kell, akik a közvetítői névjegyzékben már szerepelnek, de a közvetítői igazolványukat még nem vették át.
-
-(3) A Módr.-rel megállapított 33/B. § (2) bekezdését a veszélyhelyzet kihirdetését követően lejárt továbbképzési időszak esetében is alkalmazni kell.
+(3) A Módr.-rel[^30] megállapított 33/B. § (2) bekezdését a veszélyhelyzet kihirdetését követően lejárt továbbképzési időszak esetében is alkalmazni kell.
 
 [^27]: A 37. §–t a 608/2020. (XII. 18.) Korm. rendelet 8. §-a iktatta be.
+[^28]: A 37. § (1) bekezdését az 540/2021. (IX. 24.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^29]: A 608/2020. (XII. 18.) Korm. rendelet.
+[^30]: A 608/2020. (XII. 18.) Korm. rendelet.
