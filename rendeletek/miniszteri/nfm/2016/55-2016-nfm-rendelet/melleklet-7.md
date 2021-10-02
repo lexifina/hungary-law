@@ -1,27 +1,21 @@
-7. melléklet az 55/2016. (XII. 21.) NFM rendelethez
+7. melléklet az 55/2016. (XII. 21.) NFM rendelethez[^5]
 
-## Biomassza, valamint biogáz tüzelésű energiatermelő berendezésre vonatkozó műszaki követelmények
+## A biomasszából előállított tüzelőanyagokból termelt villamos energia megfelelési követelmények
 
-1. Hatásfok követelmények
+1. A biomasszából előállított tüzelőanyagokból termelt villamos energiának meg kell felelnie az alább felsorolt egy vagy több követelménynek:
 
-1.1. A villamosenergia-termelés hatásfoka minimum:
+1.1. 50 MW-nál alacsonyabb teljes névleges bemenő hőteljesítményű létesítményben állítják elő;
 
-|  | A | B |
+1.2. ha 50 és 100 MW közötti teljes névleges bemenő hőteljesítményű létesítményben állítják elő, akkor az előállítás nagy hatásfokú kapcsolt energiatermeléssel történik, vagy ha pedig csak villamos energiára épülő létesítményben, akkor az megfelel az (EU) 2017/1442 bizottsági végrehajtási határozatban meghatározott elérhető legjobb technikákhoz (BAT-AEEL-ek) kapcsolódó energiahatékonysági szintnek;
 
-| 1. | Tüzelőanyag típusa | Hatásfok |
+1.3. ha 100 MW feletti teljes névleges bemenő hőteljesítményű létesítményben állítják elő, akkor az előállítás nagy hatásfokú kapcsolt energiatermeléssel történik, vagy ha pedig csak villamos energiára épülő létesítményben, akkor az legalább 36%-os nettó elektromos hatásfokot ér el;
 
-| 2. | Száraz biomassza, beleértve a fát és más szilárd biomasszát, így a pelletet és a brikettet, a szárított fanyesedéket, a tiszta száraz fahulladékot, a diófélék héját, valamint az olajbogyó és más gyümölcsök magját | 37 % |
+1.4. biomassza-szén-dioxid-leválasztás és -tárolás mellett állítják elő.
 
-| 3. | Települési és ipari hulladék és megújuló/biológiailag lebontható hulladék | 25 % |
+2. Csak villamos energiára épülő létesítmények csak akkor támogathatók, ha fő tüzelőanyagként nem fosszilis tüzelőanyagokat használnak, és ha a 2012/27/EU irányelv 14. cikke szerinti értékelés azt állapítja meg, hogy nem áll rendelkezésre költséghatékony lehetőség a nagy hatásfokú kapcsolt energiatermelési technológia alkalmazására.
 
-| 4. | Biogáz anaerob rothasztásból, hulladéklerakókból vagy szennyvízkezelésből | 42 % |
+3. Az e melléklet szerinti követelmények nem alkalmazandók az Európai Bizottság által 2021. december 25-ig jóváhagyott támogatási rendszerek keretében nyújtott támogatások esetében, ha az erőműegység üzembehelyezése vagy biomasszából előállított tüzelőanyag felhasználására való átalakítása 2021. december 25-ig megtörténik.
 
-1.2. Az 1.1. pontban meghatározott hatásfok-érték az erőműegység névleges hő- és villamosenergia-termelése esetén értendő az alábbi körülmények mellett:
+4. Az 1. pont nem alkalmazandó az olyan létesítményekből származó villamos energiára, amelyek tekintetében a tagállamok külön értesítést tesznek a Bizottság felé azon az alapon, hogy bizonyíthatóan kockázatok állnak fenn a villamosenergia-ellátás biztonságára nézve. A Bizottság az értesítés vizsgálatát követően, az abban szereplő elemek figyelembevételével határozatot hoz.
 
-1.2.1. 15 °C környezeti hőmérséklet;
-
-1.2.2. 1,013 bar környezeti nyomás;
-
-1.2.3. 60% relatív páratartalom.
-
-1.3. A biogázból vagy biomasszából villamos energiát előállító nagy hatásfokú kapcsolt energiatermelésre alkalmas erőműegység hatásfok követelményeire a nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló 110/2007. (XII. 23.) GKM rendelet szerinti értékek irányadók.
+[^5]: A 7. melléklet a 49/2021. (X. 1.) ITM rendelet 12. §-ával megállapított szöveg.

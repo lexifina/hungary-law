@@ -1,3 +1,3 @@
-## 5. §[^1] Ezt a rendeletet a hatálybalépését követően meghirdetett pályázati kiírások és nem pályázati kiírás keretében benyújtásra kerülő, új beruházásra irányuló támogatási kérelmek vonatkozásában kell alkalmazni.
+## 5. §[^1]
 
-[^1]: Az 5. § a 43/2017. (XI. 8.) NFM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 5. §-t a 49/2021. (X. 1.) ITM rendelet 13. §-a hatályon kívül helyezte.
