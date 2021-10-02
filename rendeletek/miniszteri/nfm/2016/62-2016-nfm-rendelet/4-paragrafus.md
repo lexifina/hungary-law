@@ -16,7 +16,17 @@ e)[^19] az egészben megegyező tényleges tulajdonosú pályázók által egyes
 
 f)[^20] a tervezett telephely földrajzi elhelyezkedése, földhasználati jellege, művelési ága, minőségi osztályba sorolása, aranykorona értéke szerinti pályázati kategóriája.
 
-(3)[^21] Az induló támogatott ár nem lehet magasabb a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet (a továbbiakban: Metár kormányrendelet) 1. melléklet 3. pont b) alpontja szerinti árnak a Metár kormányrendelet 2. melléklete szerint indexált aktuális értékénél.
+g)[^21] benyújtható legmagasabb Ajánlati ár;
+
+h)[^22] a villamosenergia-rendszer üzembiztonságát elősegítő részvételi követelmények;
+
+i)[^23] a projektek előkészítettségével kapcsolatos követelmények;
+
+j)[^24] a pályázóknak nyújtott támogatás időtartama; valamint
+
+k)[^25] a támogatás igénybevételével összeegyeztethető egyéb támogatási típusok.
+
+(3)[^26]
 
 (4) A (2) és (3) bekezdésben felsoroltakon túlmenően más korlátok nem érvényesíthetőek a pályázaton beszerzendő mennyiségek, a kiosztható éves új támogatások, a benyújtott ajánlati árak vonatkozásában.
 
@@ -28,12 +38,17 @@ f)[^20] a tervezett telephely földrajzi elhelyezkedése, földhasználati jelle
 
 (8) A pályázati eljárás nyertesei az ajánlati árukkal azonos induló támogatott ár alapján jogosultak támogatásra.
 
-(9)[^22] Az ajánlati biztosítékot és a teljesítési biztosítékot azonos elv alapján, megkülönböztetéstől mentesen kell megállapítani az egyes technológiákra és pályázókra. A biztosíték mértéke a megvalósítani tervezett beruházás értékétől függően különböző lehet. A biztosítékok meghatározásának módját és mértékét a kiírási dokumentáció tartalmazza.
+(9)[^27] Az ajánlati biztosítékot és a teljesítési biztosítékot azonos elv alapján, megkülönböztetéstől mentesen kell megállapítani az egyes technológiákra és pályázókra. A biztosíték mértéke a megvalósítani tervezett beruházás értékétől függően különböző lehet. A biztosítékok meghatározásának módját és mértékét a kiírási dokumentáció tartalmazza.
 
 [^16]: A 4. § a 43/2017. (XI. 8.) NFM rendelet 9. §-ával megállapított szöveg.
 [^17]: A 4. § (2) bekezdés a) pontja a 22/2019. (VIII. 10.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^18]: A 4. § (2) bekezdés d) pontját a 22/2019. (VIII. 10.) ITM rendelet 3. § (2) bekezdése iktatta be, szövege a 11/2021. (III. 3.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^19]: A 4. § (2) bekezdés e) pontját a 22/2019. (VIII. 10.) ITM rendelet 3. § (2) bekezdése iktatta be.
 [^20]: A 4. § (2) bekezdés f) pontját a 11/2021. (III. 3.) ITM rendelet 1. § (2) bekezdése iktatta be.
-[^21]: A 4. § (3) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^22]: A 4. § (9) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^21]: A 4. § (2) bekezdés g) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
+[^22]: A 4. § (2) bekezdés h) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
+[^23]: A 4. § (2) bekezdés i) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
+[^24]: A 4. § (2) bekezdés j) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
+[^25]: A 4. § (2) bekezdés k) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
+[^26]: A 4. § (3) bekezdését a 49/2021. (X. 1.) ITM rendelet 20. § a) pontja hatályon kívül helyezte.
+[^27]: A 4. § (9) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (4) bekezdésével megállapított szöveg.

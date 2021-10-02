@@ -1,6 +1,6 @@
-16. §[^70] (1) A Hivatal – az Értékelő Bizottság 12. § (5) bekezdésében meghatározott összefoglaló értékelésének elkészítését követő 5 munkanapon belül – megállapítja a pályázati eljárás eredményes vagy eredménytelen voltát, és erről a honlapján közleményt tesz közzé.
+16. §[^80] (1)[^81] A Hivatal – az Értékelő Bizottság 12. § (5) bekezdésében meghatározott, adott pályázati kategóriára vonatkozó összefoglaló értékelésének elkészítését követő 5 munkanapon belül – pályázati kategóriánként megállapítja a pályázati eljárás eredményességét, és erről a honlapján közleményt tesz közzé.
 
-(2) Ha a Hivatal a pályázati eljárás eredményességét vagy a 15. § (1) bekezdés b) pontja szerinti eredménytelenségét állapítja meg, az (1) bekezdés szerinti közlemény közzétételét követő 15 munkanapon belül – a Hivatal eljárása során kibocsátott hiánypótlási felhívás esetén a hiányok pótlására biztosított határidők lejártát követő 15 munkanapon belül –, hivatalból indított hatósági eljárás keretében meghozott határozatokban a benyújtott pályázatokat
+(2)[^82] Ha a Hivatal az adott pályázati kategóriában a pályázati eljárás eredményességét vagy a 15. § (1) bekezdés b) pontja szerinti eredménytelenségét állapítja meg, az (1) bekezdés szerinti közlemény közzétételét követő 15 munkanapon belül – a Hivatal eljárása során kibocsátott hiánypótlási felhívás esetén a hiányok pótlására biztosított határidők lejártát követő 15 munkanapon belül –, hivatalból indított hatósági eljárás keretében meghozott határozatokban az adott pályázati kategóriában benyújtott pályázatokat
 
 a) a 13. § (2) bekezdésével összhangban, egészében vagy – a 4. § (7) bekezdésében meghatározott esetben – részben nyertesnek nyilvánítja,
 
@@ -26,4 +26,6 @@ e) a kiírási dokumentáció alapján a teljesítési biztosíték benyújtás�
 
 (6) A Hivatal az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 18/A–18/D. §-ának megfelelő adatszolgáltatás során a támogatástartalmat a megújuló energiaforrásból termelt villamos energia működési támogatásának mértékéről szóló rendelet szerinti, vonatkozó képletnek megfelelően állapítja meg.
 
-[^70]: A 16. § a 11/2021. (III. 3.) ITM rendelet 8. §-ával megállapított szöveg.
+[^80]: A 16. § a 11/2021. (III. 3.) ITM rendelet 8. §-ával megállapított szöveg.
+[^81]: A 16. § (1) bekezdése a 49/2021. (X. 1.) ITM rendelet 18. §-ával megállapított szöveg.
+[^82]: A 16. § (2) bekezdése a 49/2021. (X. 1.) ITM rendelet 18. §-ával megállapított szöveg.

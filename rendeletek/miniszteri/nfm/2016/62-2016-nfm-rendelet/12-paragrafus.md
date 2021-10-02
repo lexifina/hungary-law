@@ -1,10 +1,12 @@
-12. §[^61] (1) Az Értékelő Bizottság a következő feladatokat látja el:
+12. §[^68] (1) Az Értékelő Bizottság a következő feladatokat látja el:
 
 a) elvégzi a pályázatok teljeskörűségének vizsgálatát, hiánypótoltatását, és ezt jegyzőkönyvben rögzíti,
 
 b) értékeli a pályázatokat, és ennek eredményéről jegyzőkönyvet készít,
 
 c) összefoglaló értékelést készít, amelyben pályázati kategóriánként megállapítja az érvényes pályázatok sorrendjét az ajánlati ár szerint.
+
+(1a)[^69] Az Értékelő Bizottság az összefoglaló értékelést pályázati kategóriánként is elkészítheti.
 
 (2) Az Értékelő Bizottság a pályázati eljárás során folyamatosan jogosult ellenőrizni az e rendeletben és a kiírási dokumentációban előírtak betartását.
 
@@ -20,4 +22,5 @@ b) a benyújtott pályázat megfelel-e az e rendeletben, egyéb vonatkozó jogsz
 
 (6) Ha az Értékelő Bizottság megállapítja, hogy a pályázóval vagy a pályázattal szemben valamely kizáró ok áll fenn, a pályázót az érintett pályázatai vonatkozásában a Hivatal – összhangban a 7. § (4) bekezdésével és a 14. § (1) bekezdésével – kizárja az eljárásból, és a pályázat érvénytelenségéről a 16. § szerint határozatot hoz.
 
-[^61]: A 12. § a 11/2021. (III. 3.) ITM rendelet 5. §-ával megállapított szöveg.
+[^68]: A 12. § a 11/2021. (III. 3.) ITM rendelet 5. §-ával megállapított szöveg.
+[^69]: A 12. § (1a) bekezdését a 49/2021. (X. 1.) ITM rendelet 17. §-a iktatta be.

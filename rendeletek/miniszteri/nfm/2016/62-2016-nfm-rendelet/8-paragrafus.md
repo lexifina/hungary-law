@@ -6,11 +6,11 @@ b) a pályázathoz tartozó erőműegység műszaki adatai a kiírási dokument�
 
 c) a tervezett erőműegység telephelyének adatai, különösen a helyrajzi száma, a címe, valamint a tervezett szélerőművek esetében a létesítési jogosultság igazolása,
 
-d)[^41] az ajánlati ár megjelölése a kiírási dokumentációban meghatározottak szerint,
+d)[^47] az ajánlati ár megjelölése a kiírási dokumentációban meghatározottak szerint,
 
 e) az igénybe vett egyéb állami támogatásokra vonatkozó nyilatkozat és a kapcsolódó hiteles dokumentumok,
 
-f)[^42] a pályázó tényleges tulajdonosairól szóló nyilatkozat.
+f)[^48] a pályázó tényleges tulajdonosairól szóló nyilatkozat.
 
 (2) A pályázathoz csatolni kell
 
@@ -20,41 +20,42 @@ b) a pályázó arra vonatkozó kötelezettségvállalását, hogy a pályázati
 
 c) a nem a cégjegyzékben nyilvántartott pályázó esetén a nyilvántartásba vételről szóló határozatot, valamint a módosításokkal egységes szerkezetbe foglalt, hatályos alapító okiratot (egyéb létesítő okiratot) vagy annak közjegyző által hitelesített másolatát,
 
-d)[^43]
+d)[^49]
 
-e)[^44]
+e)[^50]
 
 f) a pályázónak a pályázati eljárásban történő teljes körű képviseletére jogosultak nevét, valamint a képviseleti jog igazolására alkalmas dokumentumot,
 
 g) az ajánlati biztosíték kiírási dokumentációban meghatározott módon rendelkezésre állását igazoló dokumentumot,
 
-h) biomasszából vagy biogázból előállítani tervezett villamos energia esetén annak kiírási dokumentáció szerinti igazolását, hogy az erőműegység alkalmas nagy hatásfokú kapcsolt termelésre,
+h)[^51]
 
 i) jelentős felújítás vagy fejlesztés esetén ennek igazolása a kiírási dokumentációban részletezettek szerint,
 
-j)[^45] a tervezett telephely szerinti hálózati engedélyes ajánlatát (műszaki gazdasági tájékoztató) a hálózati csatlakozásra vonatkozóan, amely ajánlat a pályázat benyújtásakor érvényes; vagy a hálózati csatlakozási folyamat ennél előrehaladottabb állapotát hitelt érdemlő módon bizonyító, a tervezett telephely szerinti hálózati engedélyes által kiállított dokumentumot; valamint a tervezett telephely szerinti hálózati engedélyes nyilatkozatát a tervezett csatlakozási pont EOV koordinátáira vonatkozóan.
+j)[^52] a tervezett telephely szerinti hálózati engedélyes ajánlatát (műszaki gazdasági tájékoztató) a hálózati csatlakozásra vonatkozóan, amely ajánlat a pályázat benyújtásakor érvényes; vagy a hálózati csatlakozási folyamat ennél előrehaladottabb állapotát hitelt érdemlő módon bizonyító, a tervezett telephely szerinti hálózati engedélyes által kiállított dokumentumot; valamint a tervezett telephely szerinti hálózati engedélyes nyilatkozatát a tervezett csatlakozási pont EOV koordinátáira vonatkozóan.
 
 (3) A pályázatot a kiírási dokumentációban meghatározott módon, helyen és határidőben kell benyújtani.
 
 (4) Az e rendelet szerinti pályázati eljárás nyelve a magyar. Ha a pályázó nem magyar nyelven nyújt be dokumentumot, csatolni kell annak hiteles magyar nyelvű fordítását is. Vitatott esetben a magyar nyelvű változat az irányadó.
 
-(5)[^46] A pályázati feltételeknek a pályázati eljárás teljes tartama, illetve az elnyert támogatási jogosultság teljes időtartama alatt meg kell felelni.
+(5)[^53] A pályázati feltételeknek a pályázati eljárás teljes tartama, illetve az elnyert támogatási jogosultság teljes időtartama alatt meg kell felelni.
 
-(6)[^47] Ha a pályázó az elnyert támogatási jogosultság időtartama alatt nem felel meg a pályázati feltételeknek, akkor a meg nem felelés időtartamára támogatási jogosultságát a Hivatal – hatósági eljárást lezáró – határozatában felfüggeszti. A feltételeknek való meg nem felelés utólagos megállapítása esetén a pályázó a támogatási jogosultságát elveszíti azon időszakra, amelyre a feltételek nem teljesülnek, és az általa ezen időszakra kapott támogatás jogosulatlannak minősül. Erről a Hivatal a hatósági eljárást lezáró határozatában dönt.
+(6)[^54] Ha a pályázó az elnyert támogatási jogosultság időtartama alatt nem felel meg a pályázati feltételeknek, akkor a meg nem felelés időtartamára támogatási jogosultságát a Hivatal – hatósági eljárást lezáró – határozatában felfüggeszti. A feltételeknek való meg nem felelés utólagos megállapítása esetén a pályázó a támogatási jogosultságát elveszíti azon időszakra, amelyre a feltételek nem teljesülnek, és az általa ezen időszakra kapott támogatás jogosulatlannak minősül. Erről a Hivatal a hatósági eljárást lezáró határozatában dönt.
 
-(7)[^48] A pályázó pályázati feltételeknek való megfelelésben bekövetkezett változásról a Hivatalt 8 napon belül értesíti.
+(7)[^55] A pályázó pályázati feltételeknek való megfelelésben bekövetkezett változásról a Hivatalt 8 napon belül értesíti.
 
-(8)[^49] A pályázó köteles a kiírási dokumentációban foglalt eljárási szabályokat és határidőket betartani.
+(8)[^56] A pályázó köteles a kiírási dokumentációban foglalt eljárási szabályokat és határidőket betartani.
 
-(9)[^50]
+(9)[^57]
 
-[^41]: A 8. § (1) bekezdés d) pontja a 22/2019. (VIII. 10.) ITM rendelet 14. § 8. pontja szerint módosított szöveg.
-[^42]: A 8. § (1) bekezdés f) pontját a 22/2019. (VIII. 10.) ITM rendelet 5. § (1) bekezdése iktatta be.
-[^43]: A 8. § (2) bekezdés d) pontját a 22/2019. (VIII. 10.) ITM rendelet 16. § d) pontja hatályon kívül helyezte.
-[^44]: A 8. § (2) bekezdés e) pontját a 22/2019. (VIII. 10.) ITM rendelet 16. § d) pontja hatályon kívül helyezte.
-[^45]: A 8. § (2) bekezdés j) pontja a 22/2019. (VIII. 10.) ITM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^46]: A 8. § (5) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 14. § 9. pontja szerint módosított szöveg.
-[^47]: A 8. § (6) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^48]: A 8. § (7) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 14. § 10. pontja szerint módosított szöveg.
-[^49]: A 8. § (8) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 14. § 11. pontja szerint módosított szöveg.
-[^50]: A 8. § (9) bekezdését a 43/2017. (XI. 8.) NFM rendelet 14. §-a iktatta be, hatályon kívül helyezte a 22/2019. (VIII. 10.) ITM rendelet 16. § e) pontja.
+[^47]: A 8. § (1) bekezdés d) pontja a 22/2019. (VIII. 10.) ITM rendelet 14. § 8. pontja szerint módosított szöveg.
+[^48]: A 8. § (1) bekezdés f) pontját a 22/2019. (VIII. 10.) ITM rendelet 5. § (1) bekezdése iktatta be.
+[^49]: A 8. § (2) bekezdés d) pontját a 22/2019. (VIII. 10.) ITM rendelet 16. § d) pontja hatályon kívül helyezte.
+[^50]: A 8. § (2) bekezdés e) pontját a 22/2019. (VIII. 10.) ITM rendelet 16. § d) pontja hatályon kívül helyezte.
+[^51]: A 8. § (2) bekezdés h) pontját a 49/2021. (X. 1.) ITM rendelet 20. § b) pontja hatályon kívül helyezte.
+[^52]: A 8. § (2) bekezdés j) pontja a 22/2019. (VIII. 10.) ITM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^53]: A 8. § (5) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 14. § 9. pontja szerint módosított szöveg.
+[^54]: A 8. § (6) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^55]: A 8. § (7) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 14. § 10. pontja szerint módosított szöveg.
+[^56]: A 8. § (8) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 14. § 11. pontja szerint módosított szöveg.
+[^57]: A 8. § (9) bekezdését a 43/2017. (XI. 8.) NFM rendelet 14. §-a iktatta be, hatályon kívül helyezte a 22/2019. (VIII. 10.) ITM rendelet 16. § e) pontja.

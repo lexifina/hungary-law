@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-62-20-2
 | 2019-08-18 | 2016-62-20-2W.7 | 22/2019. (VIII. 10.) ITM rendelet |
 | 2019-12-24 | 2016-62-20-2W.8 | 48/2019. (XII. 23.) ITM rendelet |
 | 2021-03-06 | 2016-62-20-2W.9 | 11/2021. (III. 3.) ITM rendelet |
+| 2021-10-02 | 2016-62-20-2W.10 | 49/2021. (X. 1.) ITM rendelet |
