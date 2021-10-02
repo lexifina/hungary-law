@@ -1,0 +1,3 @@
+## 1. § A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: R.) 2. §-a a következő (17) bekezdéssel egészül ki:
+
+## „(17) A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet módosításáról szóló 33/2021. (IX. 29.) AM rendelettel (a továbbiakban: MódR7.) megállapított 13. melléklet rendelkezéseinek nem megfelelő, de a MódR7. hatálybalépésének napját megelőző napon hatályos előírásoknak megfelelő termékek a MódR7. hatálybalépésének napjától számított 12. hónap utolsó napjáig előállíthatóak, és a minőségmegőrzési idejük vagy fogyaszthatósági idejük lejártáig forgalomba hozhatóak.”
