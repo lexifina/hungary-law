@@ -1,1 +1,1 @@
-47. § A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 29. § (3) bekezdésében az „és a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke rendeletben” szövegrész helyébe az „ , a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke és a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke rendeletben” szöveg lép.
+47. §
