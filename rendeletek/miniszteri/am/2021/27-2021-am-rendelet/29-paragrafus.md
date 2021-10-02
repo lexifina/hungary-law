@@ -1,3 +1,3 @@
-## 28. §[^35]
+## 28. §[^37]
 
-[^35]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

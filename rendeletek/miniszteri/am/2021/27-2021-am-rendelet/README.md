@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-27-20-7
 | 2021-08-19 | 2021-27-20-7R.1 | 27/2021. (VIII. 11.) AM rendelet |
 | 2021-08-20 | 2021-27-20-7R.2 | 2010: CXXX. törvény |
 | 2021-10-01 | 2021-27-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-10-02 | 2021-27-20-7R.4 | 2010: CXXX. törvény |
