@@ -84,31 +84,11 @@
 
 | 1. | Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság | 13-09-140414 | 2022. december 31. |
 
-## X. Tulajdonosi joggyakorló: a Pécsi Tudományegyetem
+## X.
 
-|  | A | B | C |
+## XI.
 
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | PTE Politechnika Kutató, Fejlesztő és Tervező Korlátolt Felelősségű Társaság | 02-09-010197 | 2022. december 31. |
-
-## XI. Tulajdonosi joggyakorló: a Pannon Egyetem
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Egyetemi Centrum Szolgáltató Korlátolt Felelősségű Társaság | 19-09-501215 | 2022. december 31. |
-
-| 2. | Nereus Park Hotel Idegenforgalmi Korlátolt Felelősségű Társaság | 19-09-000731 | 2022. december 31. |
-
-## XII. Tulajdonosi joggyakorló: a Debreceni Egyetem
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Debreceni Nyári Egyetem Oktatási Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 09-09-015201 | 2022. december 31. |
+## XII.
 
 ## XIII. Tulajdonosi joggyakorló: a Nemzeti Közszolgálati Egyetem
 
@@ -160,15 +140,7 @@
 
 | 1. | Szakképző Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 13-09-121779 | 2022. december 31. |
 
-## XIX. Tulajdonosi joggyakorló: Petőfi Irodalmi Múzeum
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Nemzeti Tehetséggondozó Nonprofit Korlátolt Felelősségű Társaság | 01-09-308718 | 2022. december 31. |
-
-| 2. | Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság | 01-09-348527 | 2022. december 31. |
+## XIX.
 
 ## XX. Országos Kórházi Főigazgatóság
 
@@ -216,4 +188,4 @@
 
 3. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^5]
 
-[^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése, a 7/2018. (XII. 21.) NVTNM rendelet 2. § (2) bekezdése, a 2/2019. (III. 6.) NVTNM rendelet 1. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 1. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 4. § (2) bekezdése, a 23/2019. (XII. 23.) NVTNM rendelet 3. §-a, a 7/2020. (VII. 14.) NVTNM rendelet 2. §-a és 3. § b) pontja, a 9/2020. (VIII. 7.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 1. §-a, a 15/2020. (XI. 11.) NVTNM rendelet 1. §-a, a 16/2020. (XI. 30.) NVTNM rendelet 2. §-a, a 20/2020. (XII. 29.) NVTNM rendelet 2. § c) pontja, a 2/2021. (II. 9.) NVTNM rendelet 1. §-a, a 6/2021. (IV. 16.) NVTNM rendelet 1–2. §-a, a 7/2021. (VI. 3.) NVTNM rendelet 2–3. § és 4. §-a, a 13/2021. (VIII. 2.) NVTNM rendelet 2. § c) pontja, a 17/2021. (IX. 8.) NVTNM rendelet 2. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (3) bekezdése, a 7/2018. (XII. 21.) NVTNM rendelet 2. § (2) bekezdése, a 2/2019. (III. 6.) NVTNM rendelet 1. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 1. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 4. § (2) bekezdése, a 23/2019. (XII. 23.) NVTNM rendelet 3. §-a, a 7/2020. (VII. 14.) NVTNM rendelet 2. §-a és 3. § b) pontja, a 9/2020. (VIII. 7.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 1. §-a, a 15/2020. (XI. 11.) NVTNM rendelet 1. §-a, a 16/2020. (XI. 30.) NVTNM rendelet 2. §-a, a 20/2020. (XII. 29.) NVTNM rendelet 2. § c) pontja, a 2/2021. (II. 9.) NVTNM rendelet 1. §-a, a 6/2021. (IV. 16.) NVTNM rendelet 1–2. §-a, a 7/2021. (VI. 3.) NVTNM rendelet 2–3. § és 4. §-a, a 13/2021. (VIII. 2.) NVTNM rendelet 2. § c) pontja, a 17/2021. (IX. 8.) NVTNM rendelet 2. §-a, a 20/2021. (X. 1.) NVTNM rendelet 1. §-a szerint módosított szöveg.

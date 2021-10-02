@@ -136,15 +136,15 @@
 
 | 15. | Nemzeti Artista- Előadó- és Cirkuszművészeti Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-912823 | 2022. december 31. |
 
-| 16. | MANK Magyar Alkotóművészeti Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 13-09-151770 | 2022. december 31. |
+| 16. |  |  |  |
 
 | 17. | MNF Magyar Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Nonprofit Korlátolt Felelősségű Társaság | 01-09-921743 | 2022. december 31. |
 
 | 18. | Müpa Budapest – Művészetek Palotája Nonprofit Korlátolt Felelősségű Társaság | 01-09-699056 | 2022. december 31. |
 
-| 19. | Nagyerdei Stadion Rekonstrukciós Korlátolt Felelősségű Társaság | 09-09-021268 | 2022. december 31. |
+| 19. |  |  |  |
 
-| 20. | Nemzeti Filmszínház Nonprofit Korlátolt Felelősségű Társaság | 01-09-920431 | 2022. december 31. |
+| 20. |  |  |  |
 
 | 21. | Nemzeti Színház Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-044426 | 2022. december 31. |
 
@@ -224,15 +224,15 @@
 
 | 11. |  |  |  |
 
-| 12. | ÓAM ÓZDI ACÉLMÜVEK Korlátolt Felelősségű Társaság | 05-09-002456 | 2022. december 31. |
+| 12. |  |  |  |
 
 | 13. | Egy a Természettel Nonprofit Korlátolt Felelősségű Társaság | 01-09-337636 | 2022. december 31. |
 
 | 14. | Nyugat-Balkáni Zöld Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343437 | 2022. december 31. |
 
-| 15. | Molekuláris-Ujjlenyomat Kutató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-344208 | 2022. december 31. |
+| 15. | Molekuláris-Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-344208 | 2022. december 31. |
 
-| 16. | ELI-HU Kutatási és Fejlesztési Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 06-09-015211 | 2024. december 31. |
+| 16. |  |  |  |
 
 | 17. | NFFKÜ - Nemzetközi Fejlesztési és Forráskoordinációs Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-047549 | 2022. december 31. |
 
@@ -346,4 +346,4 @@
 
 2. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^4]
 
-[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a, a 11/2019. (VIII. 15.) NVTNM rendelet 2. §-a, a 15/2019. (IX. 26.) NVTNM rendelet 1. §-a, a 18/2019. (XI. 29.) NVTNM rendelet 2. §-a, a 20/2019. (XII. 18.) NVTNM rendelet 1. §-a, a 21/2019. (XII. 19.) NVTNM rendelet 1. §-a, a 23/2019. (XII. 23.) NVTNM rendelet 2. §-a, a 6/2020. (VI. 29.) NVTNM rendelet 2. §-a, a 11/2020. (VIII. 31.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 3. §-a, az 1/2021. (II. 2.) NVTNM rendelet 1. §-a, a 7/2021. (VI. 3.) NVTNM rendelet 5. § a) pontja, a 10/2021. (VI. 28.) NVTNM rendelet 1. §-a, a 11/2021. (VII. 21.) NVTNM rendelet 1–2. §-a, a 13/2021. (VIII. 2.) NVTNM rendelet 1. §-a és 2. § b) pontja, a 16/2021. (IX. 6.) NVTNM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 3/2018. (VIII. 1.) NVTNM rendelet 1. § (2) bekezdése, az 1/2019. (III. 1.) NVTNM rendelet 2. §-a, a 7/2019. (VI. 3.) NVTNM rendelet 2. §-a, a 8/2019. (VI. 18.) NVTNM rendelet 2. §-a, a 9/2019. (VII. 5.) NVTNM rendelet 2. §-a, a 11/2019. (VIII. 15.) NVTNM rendelet 2. §-a, a 15/2019. (IX. 26.) NVTNM rendelet 1. §-a, a 18/2019. (XI. 29.) NVTNM rendelet 2. §-a, a 20/2019. (XII. 18.) NVTNM rendelet 1. §-a, a 21/2019. (XII. 19.) NVTNM rendelet 1. §-a, a 23/2019. (XII. 23.) NVTNM rendelet 2. §-a, a 6/2020. (VI. 29.) NVTNM rendelet 2. §-a, a 11/2020. (VIII. 31.) NVTNM rendelet 1. §-a, a 13/2020. (XI. 4.) NVTNM rendelet 3. §-a, az 1/2021. (II. 2.) NVTNM rendelet 1. §-a, a 7/2021. (VI. 3.) NVTNM rendelet 5. § a) pontja, a 10/2021. (VI. 28.) NVTNM rendelet 1. §-a, a 11/2021. (VII. 21.) NVTNM rendelet 1–2. §-a, a 13/2021. (VIII. 2.) NVTNM rendelet 1. §-a és 2. § b) pontja, a 16/2021. (IX. 6.) NVTNM rendelet 1. §-a, a 19/2021. (X. 1.) NVTNM rendelet 2. § c)–d) pontja szerint módosított szöveg.
