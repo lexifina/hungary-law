@@ -1,43 +1,48 @@
-## 13. § Az R. 58. § (1) bekezdése helyébe a következő rendelkezés lép:
+14. §[^16]
 
-## „(1) A rendszerüzemeltető az Árszabályozási keretrendelet 16. § (1) és (2) bekezdésében felsorolt szolgáltatásokon túl egyéb nem piaci alapú szolgáltatásokat a Hivatal határozatában megállapított külön díj ellenében nem végezhet.”
+a) [^17]
 
-## 14. § Az R.
+b) [^18]
 
-a) 8. § (4) bekezdésében az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete” szövegrész helyébe a „határozata” szöveg,
+c) [^19]
 
-b) 12. § (2) bekezdésében az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete szerinti” szövegrész helyébe a „szállítási rendszerüzemeltetési díjat megállapító határozatában foglalt” szöveg,
+d) [^20]
 
-c)[^12]
+e) [^21]
 
-d) 22. § (9) bekezdésében az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete” szövegrész helyébe a „földgázelosztási díjakat megállapító határozata” szöveg,
+f) [^22]
 
-e)[^13]
+g) [^23]
 
-f)[^14]
+h) [^24]
 
-g) 27. §-ában az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete” szövegrész helyébe a „földgázelosztási díjakat tartalmazó határozata” szöveg,
+i) [^25]
 
-h)[^15]
+j) [^26]
 
-i) 47. § (1) bekezdésében, 55. § (1) bekezdésében és 57. § (1) bekezdésében az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete” szövegrész helyébe a „csatlakozási díjakat megállapító határozata” szöveg,
+k) [^27]
 
-j) 58. § (2) bekezdésében az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendeletében” szövegrész helyébe a „határozatában” szöveg,
+l) [^28]
 
-k) 64. § (1) bekezdésében a „14. § a) pont ab) alpontjában” szövegrész helyébe a „16. § (1) bekezdés a) pont ab) alpontjában” szöveg,
+m) [^29]
 
-l) 64. § (2) bekezdésében a „14. § a) pont ac) alpontjában” szövegrész helyébe a „16. § (1) bekezdés a) pont ac) alpontjában” szöveg,
+n) [^30]
 
-m) 65. §-ában az „elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete” szövegrész helyébe a „külön díjat megállapító határozata” szöveg,
+o) [^31]
 
-n) 66. § (1) bekezdésében a „14. § (2) bekezdés” szövegrész helyébe a „16. § (2) bekezdés” szöveg,
-
-o)[^16]
-
-lép.
-
-[^12]: A 14. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 14. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 14. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 14. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 14. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 14. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 14. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 14. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 14. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 14. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 14. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 14. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 14. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 14. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 14. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 14. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 14. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 14. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

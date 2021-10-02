@@ -1,5 +1,3 @@
-## 8. §[^8] Az R. 31. §-a a következő (2) bekezdéssel egészül ki:
+9. §[^11]
 
-## „(2) A negyedéves elosztási kapacitásdíj mértéke az éves elosztási kapacitásdíjnak a Hivatal elosztási díjat megállapító határozatában a negyedéves kapacitáslekötés esetében meghatározott százaléka.”
-
-[^8]: A 8. § az 5/2021. (V. 12.) MEKH rendelet 6. § e) pontja szerint módosított szöveg.
+[^11]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

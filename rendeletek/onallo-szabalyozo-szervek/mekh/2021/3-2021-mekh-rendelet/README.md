@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-3-20-5Z
 | 2021-04-30 | 2021-3-20-5Z.1 | 3/2021. (IV. 14.) MEKH rendelet |
 | 2021-05-01 | 2021-3-20-5Z.2 | 2010: CXXX. törvény |
 | 2021-10-01 | 2021-3-20-5Z.3 | 5/2021. (V. 12.) MEKH rendelet |
+| 2021-10-02 | 2021-3-20-5Z.4 | 2010: CXXX. törvény |
