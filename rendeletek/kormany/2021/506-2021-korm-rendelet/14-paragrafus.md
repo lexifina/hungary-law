@@ -1,1 +1,3 @@
-## „(5) Az adópolitikáért felelős miniszter a kérelmekről külön nyilvántartást vezet, amely tartalmazza az adózó azonosító adatait, a kérelem érkezésének időpontját, iktatószámát, a befizetett díj összegét, az eljárás lefolytatásának időtartamát, valamint az eljárás lefolytatásához és az információcseréhez szükséges további adatokat.”
+## 13. §[^13]
+
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
