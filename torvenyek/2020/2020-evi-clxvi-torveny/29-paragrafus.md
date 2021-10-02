@@ -18,9 +18,9 @@
 
 9.
 
-10. 21. § (1) bekezdésében a „családi nevéről” szövegrész helyébe a „névviseléséről” szöveg,
+10.
 
-11. 23. § (3) bekezdésében az „állampolgárságú nem magyar állampolgár házasulók” szövegrész helyébe a „külföldi állampolgárságú házasulók – ideértve azt is, ha a házasulók valamelyike magyar állampolgársággal is rendelkezik –” szöveg,
+11.
 
 12.
 
@@ -28,7 +28,7 @@
 
 14.
 
-15. 35. § (3) bekezdésében az „állampolgárságú nem magyar állampolgár felek” szövegrész helyébe a „külföldi állampolgárságú felek – ideértve azt is, ha a felek legalább egyike magyar állampolgársággal is rendelkezik –” szöveg,
+15.
 
 16.
 
