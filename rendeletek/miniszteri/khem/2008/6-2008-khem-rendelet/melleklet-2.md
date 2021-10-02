@@ -18,4 +18,6 @@
 
 ## h) a szállítási szerződés érvényességének ideje.
 
-2. számú melléklet a 6/2008. (VI. 18.) KHEM rendelethez
+2. számú melléklet a 6/2008. (VI. 18.) KHEM rendelethez[^16]
+
+[^16]: A 2. számú mellékletet a 49/2021. (X. 1.) ITM rendelet 5. § c) pontja hatályon kívül helyezte.

@@ -4,9 +4,9 @@
 
 (2) E rendelet 7. §-a és 3. számú melléklete 2008. július 1-jén lép hatályba.
 
-(3)–(4)[^7]
+(3)–(4)[^10]
 
-(5)[^8]
+(5)[^11]
 
-[^7]: A 10. § (3)–(4) bekezdését a 10. § (5) bekezdése hatályon kívül helyezte.
-[^8]: A 10. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^10]: A 10. § (3)–(4) bekezdését a 10. § (5) bekezdése hatályon kívül helyezte.
+[^11]: A 10. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
