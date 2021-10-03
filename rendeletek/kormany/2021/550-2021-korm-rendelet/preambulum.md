@@ -1,1 +1,0 @@
-A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 27. pontjában, valamint a felnőttképzésről szóló 2013. évi LXXVII. törvény 28. § (2) bekezdés e) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
