@@ -3,4 +3,4 @@
 1. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^66]
 
 [^65]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 107/2013. (IV. 5.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 207. § (2) bekezdése szerint módosított szöveg.
-[^66]: Az 1. mellékletet a 62/2014. (III. 6.) Korm. rendelet 23. §-a iktatta be.
+[^66]: Az 1. mellékletet a 62/2014. (III. 6.) Korm. rendelet 23. §-a iktatta be, szövege az 510/2021. (IX. 3.) Korm. rendelet 13. §-ával megállapított szöveg.

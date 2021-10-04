@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-313-20-
 | 2020-03-18 | 2012-313-20-22.18 | 38/2020. (III. 10.) Korm. rendelet |
 | 2021-01-01 | 2012-313-20-22.19 | 62/2014. (III. 6.) Korm. rendelet |
 | 2021-07-16 | 2012-313-20-22.20 | 420/2021. (VII. 15.) Korm. rendelet |
+| 2021-10-04 | 2012-313-20-22.21 | 62/2014. (III. 6.) Korm. rendelet |
