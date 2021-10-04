@@ -1,6 +1,6 @@
-## 24. §[^45] Az operatív programok megvalósításáért felelős irányító hatóságok kijelölik az operatív program szintű monitoring tevékenységért felelős szervezeti egységeket vagy személyeket, amelyek, illetve akik kötelesek együttműködni a monitoring felelőssel.
+## 24. §[^49] Az operatív programok megvalósításáért felelős irányító hatóságok kijelölik az operatív program szintű monitoring tevékenységért felelős szervezeti egységeket vagy személyeket, amelyek, illetve akik kötelesek együttműködni a monitoring felelőssel.
 
-25. § (1)[^46] A monitoring felelős összehangolja az egyes operatív programok éves végrehajtási jelentéseinek elkészítését, amelynek keretében módszertani és adatszolgáltatási támogatást nyújt az irányító hatóságok operatív program szintű monitoring tevékenységet ellátó egységei számára, kiemelten
+25. § (1)[^50] A monitoring felelős összehangolja az egyes operatív programok éves végrehajtási jelentéseinek elkészítését, amelynek keretében módszertani és adatszolgáltatási támogatást nyújt az irányító hatóságok operatív program szintű monitoring tevékenységet ellátó egységei számára, kiemelten
 
 a) az adatbeszerzés,
 
@@ -12,7 +12,7 @@ d) a módszertani minőségbiztosítás
 
 ## területén.
 
-(2)[^47] A monitoring felelős
+(2)[^51] A monitoring felelős
 
 a) módszertani és adatszolgáltatási támogatást nyújt az éves áttekintő értekezletekhez, összehangolja az operatív program szintű értekezletek tartalmát és biztosítja a Partnerségi Megállapodás szintű értekezlet szakmai lebonyolítását,
 
@@ -30,7 +30,7 @@ g) véglegesíti a Partnerségi Megállapodás szinten készülő munkaterveket,
 
 1. figyelemmel kíséri a támogatási konstrukciók meghirdetésének ütemét,
 
-2.[^48] a prioritásszintű kifizetési tervektől és indikátor célértékektől történő esetleges elmaradások esetén tájékoztatja az érintett irányító hatóságok vezetését és a Kormányt,
+2.[^52] a prioritásszintű kifizetési tervektől és indikátor célértékektől történő esetleges elmaradások esetén tájékoztatja az érintett irányító hatóságok vezetését és a Kormányt,
 
 3. operatív program és fejlesztési alap szintjén nyomon követi az éves kötelezettségvállalások telesülését,
 
@@ -44,7 +44,7 @@ g) véglegesíti a Partnerségi Megállapodás szinten készülő munkaterveket,
 
 h) részt vesz az Európai Bizottság által elkészített kohéziós jelentés véleményezésében,
 
-i)[^49] közreműködik a monitoring és információs rendszer fejlesztési igényeinek specifikálásában, érvényesíti a monitoring rendszer működtetésével kapcsolatos szempontokat,
+i)[^53] közreműködik a monitoring és információs rendszer fejlesztési igényeinek specifikálásában, érvényesíti a monitoring rendszer működtetésével kapcsolatos szempontokat,
 
 j) nyomon követi és elemzi a programok végrehajtásának területi kereteit, valamint a területi kohézió elvének érvényesülését,
 
@@ -58,8 +58,8 @@ n) módszertani kérdésekben képviseli az irányító hatóságok és a nemzet
 
 o) együttműködik a hazai, külföldi és nemzetközi, monitoringgal foglalkozó intézményekkel és szervezetekkel.
 
-[^45]: A 24. § a 163/2017. (VI. 28.) Korm. rendelet 8. § 20. pontja szerint módosított szöveg.
-[^46]: A 25. § (1) bekezdés nyitó szövegrésze a 163/2017. (VI. 28.) Korm. rendelet 8. § 21. pontja szerint módosított szöveg.
-[^47]: A 25. § (2) bekezdés nyitó szövegrésze a 163/2017. (VI. 28.) Korm. rendelet 8. § 22. pontja szerint módosított szöveg.
-[^48]: A 25. § (2) bekezdés g) pont 2. alpontja a 4/2016. (I. 20.) Korm. rendelet 12. § g) pontja, a 163/2017. (VI. 28.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^49]: A 25. § (2) bekezdés i) pontja a 163/2017. (VI. 28.) Korm. rendelet 8. § 23. pontja szerint módosított szöveg.
+[^49]: A 24. § a 163/2017. (VI. 28.) Korm. rendelet 8. § 20. pontja szerint módosított szöveg.
+[^50]: A 25. § (1) bekezdés nyitó szövegrésze a 163/2017. (VI. 28.) Korm. rendelet 8. § 21. pontja szerint módosított szöveg.
+[^51]: A 25. § (2) bekezdés nyitó szövegrésze a 163/2017. (VI. 28.) Korm. rendelet 8. § 22. pontja szerint módosított szöveg.
+[^52]: A 25. § (2) bekezdés g) pont 2. alpontja a 4/2016. (I. 20.) Korm. rendelet 12. § g) pontja, a 163/2017. (VI. 28.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^53]: A 25. § (2) bekezdés i) pontja a 163/2017. (VI. 28.) Korm. rendelet 8. § 23. pontja szerint módosított szöveg.

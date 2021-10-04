@@ -1,9 +1,18 @@
-## 9. § A FAIR számára történő adatszolgáltatással az adatszolgáltató hozzájárul, hogy az adatgazda a szolgáltatott adatokat kezelje. Származtatott adatok esetében az adatszolgáltató köteles biztosítani valamennyi származtatott adat adatgazdájának azonos tartalmú hozzájárulását.
+## 9. §[^23] Az adatszolgáltató felelős a FAIR számára történő adatszolgáltatása jogszerű voltáért és helyességéért.
 
-9/A. §[^22] (1) Az egyes támogatási jogviszonyok tekintetében a támogató az adatkezelő.
+9/A. §[^24] (1) Az egyes támogatási jogviszonyok tekintetében a támogató az adatkezelő.
 
-(2) A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 6. alcíme szerinti feladatok tekintetében a 272/2014. (XI. 5.) Korm. rendelet 8. § (1) bekezdése szerinti koordináló szervezet az adatkezelő.
+(2)[^25] Az adatkezelő
 
-(3) A FAIR-ban rögzített adatok tekintetében az 5. § (1) bekezdése szerinti feladatok vonatkozásában az adatgazda az adatkezelő.
+a) a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 6. alcíme szerinti feladatok tekintetében a 272/2014. (XI. 5.) Korm. rendelet 8. § (1) bekezdése szerinti, valamint
 
-[^22]: A 9/A. §-t a 228/2018. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+b) a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet [a továbbiakban: 256/2021. (V. 18.) Korm. rendelet] 5. alcíme szerinti feladatok tekintetében a 256/2021. (V. 18.) Korm. rendelet 6. § (1) bekezdése szerinti
+
+## koordináló szervezet.
+
+(3)[^26] Az (1) bekezdéstől eltérően a monitoring felelős feladatkörébe tartoznak a FAIR-ral összefüggő, Ibtv. szerinti feladatok.
+
+[^23]: A 9. § az 562/2021. (X. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^24]: A 9/A. §-t a 228/2018. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 9/A. § (2) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A 9/A. § (3) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.

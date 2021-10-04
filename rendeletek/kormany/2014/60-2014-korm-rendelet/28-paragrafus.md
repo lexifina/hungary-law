@@ -1,3 +1,3 @@
-## 17. [^58] Az Európai Unió jogának való megfelelés
+## 17. [^64] Az Európai Unió jogának való megfelelés
 
-[^58]: A 17. alcím címe a 183/2015. (VII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^64]: A 17. alcím címe a 183/2015. (VII. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
