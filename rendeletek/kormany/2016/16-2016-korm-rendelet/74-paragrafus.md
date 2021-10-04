@@ -1,0 +1,1 @@
+## alapján állapítja meg.
