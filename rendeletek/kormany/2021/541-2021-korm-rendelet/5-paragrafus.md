@@ -1,3 +1,1 @@
-## 4. §[^4]
-
-[^4]: A 4. § a 6. § (2) bekezdése alapján 2021. október 4-én lép hatályba.
+## 4. § Az R. 78. § (1) bekezdésében az „– a 61. § (2) bekezdésében foglaltak kivételével – a 46–67. §-ban,” szövegrész helyébe az „– a 72. § (2) bekezdés a) pontja szerinti kölcsön esetében a 61. § (2) bekezdésében foglaltak kivételével – a 46–67. §-ban,” szöveg lép.

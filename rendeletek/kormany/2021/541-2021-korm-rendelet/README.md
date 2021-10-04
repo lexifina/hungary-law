@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-541-20-
 | --- | --- | --- |
 | 2021-09-29 | 2021-541-20-22.1 | 541/2021. (IX. 24.) Korm. rendelet |
 | 2021-09-30 | 2021-541-20-22.2 | 2010: CXXX. törvény |
+| 2021-10-04 | 2021-541-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
