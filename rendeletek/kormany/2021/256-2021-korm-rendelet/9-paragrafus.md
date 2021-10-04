@@ -1,6 +1,6 @@
 ## 9. § A minisztérium monitoring és értékelési feladatai keretében
 
-a) nyomon követi az általános rendeletben meghatározott feljogosító feltételek teljesülését,
+a)[^6] nyomon követi az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 2. pontjában meghatározott feljogosító feltételek teljesülését,
 
 b) működteti és fejleszti a programok végrehajtását támogató monitoring és információs rendszert,
 
@@ -20,7 +20,7 @@ gb) módszertani támogatást nyújt az indikátorok előállításához szüks�
 
 gc) az irányító hatóság által szakmai szempontból véleményezett rendszeres jelentést készít a Kormány részére a forrásvesztés elkerülése érdekében,
 
-h) az irányító hatósággal együttműködve ellátja az általános rendelet szerinti értékelési tervvel összefüggő feladatokat a Partnerségi Megállapodás minden programjára vonatkozóan, amely keretében
+h)[^7] az irányító hatósággal együttműködve ellátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 44. cikk (5) bekezdése szerinti értékelési tervvel összefüggő feladatokat a Partnerségi Megállapodás minden programjára vonatkozóan, amely keretében
 
 ha) koordinálja az értékelési terv végrehajtását és – indokolt esetben – aktualizálását,
 
@@ -31,3 +31,6 @@ hc) módszertani támogatást nyújt az értékelési terven kívüli egyéb ér
 hd) koordinálja a tagállami jelentéstételi kötelezettséget,
 
 i) az irányító hatósággal együttműködve monitoring és értékelési munkacsoportot működtet a programok előrehaladásának nyomon követése és értékelése érdekében.
+
+[^6]: A 9. § a) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 4. pontja szerint módosított szöveg.
+[^7]: A 9. § h) pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 5. pontja szerint módosított szöveg.

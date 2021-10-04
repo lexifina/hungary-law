@@ -2,7 +2,7 @@
 
 ## 5. Az európai uniós források felhasználásáért felelős miniszter feladatai
 
-6. § (1) Az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) az általános rendelet szerinti koordináló szervezet.
+6. § (1)[^5] Az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 71. cikk (6) bekezdése szerinti koordináló szervezet.
 
 (2) A minisztérium koordináló szervezeti feladatkörében
 
@@ -19,3 +19,5 @@ bc) a horizontális elvek és politikák érvényesítését,
 bd) az energiapolitikáért felelős miniszterrel együttműködve a klímaváltozás hatásaihoz való alkalmazkodás, valamint a klímaváltozás hatásai mérséklésének érvényesítését,
 
 be) a programok összehangolt, a Partnerségi Megállapodásnak megfelelő végrehajtását.
+
+[^5]: A 6. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 36. § 3. pontja szerint módosított szöveg.

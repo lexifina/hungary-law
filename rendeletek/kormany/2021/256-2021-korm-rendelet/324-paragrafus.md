@@ -1,7 +1,7 @@
 ## 75. A támogatás kifizetése alvállalkozó igénybevétele esetén
 
-324. § (1) A kedvezményezettel szerződött szállító (ezen alcím alkalmazásában a továbbiakban: fővállalkozó) nem jogosult saját teljesítésének ellenértékére, amíg az általa a teljesítésbe bevont alvállalkozókat az ellenszolgáltatásból nem fizette ki.
+324. §[^38] (1) Szállítói finanszírozás alkalmazásakor a kedvezményezettel szerződött szállító által a teljesítésbe bevont alvállalkozó esetén az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 32/A. §-a szerint kell eljárni azzal az eltéréssel, hogy az irányító hatóság számára irányadó fizetési határidő a bizonylat beérkezésétől számított harminc nap.
 
-(2) A fővállalkozó legkésőbb a teljesítés elismerése időpontjáig nyilatkozik arról, hogy az alvállalkozók egyenként mekkora összegre jogosultak az ellenszolgáltatásból, egyidejűleg felhívja az alvállalkozókat, hogy állítsák ki bizonylataikat.
+(2) Utófinanszírozás alkalmazásakor alvállalkozói teljesítést is tartalmazó bizonylat esetén az irányító hatóság számára irányadó fizetési határidő a bizonylat beérkezésétől számított negyvenöt nap.
 
-(3) A fővállalkozó a teljesítés elismerését követően állítja ki bizonylatát, részletezve abban az alvállalkozói teljesítés, valamint a fővállalkozói teljesítés mértékét.
+[^38]: A 324. § az 562/2021. (X. 1.) Korm. rendelet 24. §-ával megállapított szöveg.

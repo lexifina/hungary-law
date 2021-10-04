@@ -26,4 +26,8 @@ b) a projekt közfeladat vagy általános közérdekű feladat ellátására ir�
 
 (5) Területi kiválasztási eljárásrendet kell meghatározni területi program esetén.
 
+(5a)[^21] Az (5) bekezdéstől eltérően az aktív turisztikai célú felhívás esetén a kiválasztási eljárásrend a (2) bekezdés szerint határozható meg.
+
 (6) A kutatás-fejlesztésre és innovációra irányuló felhívás esetén az irányító hatóság a (3) bekezdés b) pontja szerinti feltételek fennállása esetén is alkalmazhat standard kiválasztási eljárásrendet.
+
+[^21]: A 74. § (5a) bekezdését az 562/2021. (X. 1.) Korm. rendelet 16. §-a iktatta be.

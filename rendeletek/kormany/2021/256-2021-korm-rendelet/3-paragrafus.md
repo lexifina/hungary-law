@@ -12,9 +12,9 @@
 
 4. ellenőrzési nyomvonal: a támogatástervezési, pénzügyi irányítási és kontrollrendszer leírása szövegesen, táblázatba foglalva vagy folyamatábrával szemléltetve, amely tartalmazza különösen a felelősségi és információs szinteket, kapcsolatokat, az irányítási és kontrollfolyamatokat, valamint az e kontrollokat alátámasztó dokumentumokat, lehetővé téve azok nyomon követését és utólagos ellenőrzését a támogatások felhasználása során,
 
-5. horizontális elvek és politikák: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alap Pluszra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra, az Igazságos Átmenet Alapra, valamint az Európai Tengerügyi, Halászati és Akvakultúra Alapra vonatkozó általános és pénzügyi rendelkezések megállapításáról, továbbá a Menekültügyi, Migrációs és Integrációs Alapra, a Határigazgatási és Vízumpolitikai Eszközre, valamint a Belső Biztonsági Alapra vonatkozó pénzügyi rendelkezések megállapításáról szóló európai parlamenti és tanácsi rendelet (a továbbiakban: általános rendelet) szerinti elvek és politikák,
+5.[^1] horizontális elvek és politikák: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 9. cikke szerinti elvek és politikák,
 
-6. horizontális követelmények: az általános rendelet szerinti horizontális elvekkel összhangban a támogatási szerződésben a kedvezményezett részére a horizontális elvek és politikák teljesülése érdekében meghatározott követelmények,
+6.[^2] horizontális követelmények: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 9. cikke szerinti horizontális elvekkel összhangban a támogatási szerződésben a kedvezményezett részére a horizontális elvek és politikák teljesülése érdekében meghatározott követelmények,
 
 7. indikátor: közösségi jogszabályban vagy a programban nevesített, eredményt vagy teljesülést mérő mutató,
 
@@ -24,7 +24,7 @@
 
 10. konzorcium: több kedvezményezett támogatásával megvalósuló projekt esetén a tagok polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködése a projekt közös megvalósítása, valamint ennek érdekében közös gazdasági érdekeik előmozdítása és erre irányuló tevékenységük összehangolása céljából,
 
-11. közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) és (3) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet, a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy, továbbá a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 38/A. §-a szerinti szervezet,
+11.[^3] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet, a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy, továbbá a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 38/A. §-a szerinti szervezet,
 
 12. négy szem elve: valamely személy munkájának egy másik személy általi, ugyanazon szempontok szerint történő, teljes körű ellenőrzése,
 
@@ -38,7 +38,7 @@
 
 17. projekt pénzügyi befejezése: a projekt fizikai befejezését követően a projekt végrehajtása során keletkezett bizonylatok kiegyenlítése,
 
-18. szabálytalanság: az általános rendeletben ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés alapján a kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
+18.[^4] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
 
 19. szabálytalansági gyanú: szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására,
 
@@ -47,3 +47,8 @@
 21. teljesítmény-keretrendszer: indikátorokon alapuló, prioritásszintű mérési rendszer, amelynek célja, hogy az egyes prioritásokban kitűzött célok megvalósuljanak,
 
 22. várostérség: a Fenntartható városfejlesztési eszköz végrehajtása érdekében a területi szereplő által egy közös stratégia megvalósítására kijelölt településcsoport.
+
+[^1]: A 3. § 5. pontja az 562/2021. (X. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^2]: A 3. § 6. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
+[^3]: A 3. § 11. pontja az 562/2021. (X. 1.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § 18. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.

@@ -12,10 +12,12 @@ d) a szabálytalanság még azelőtt derült ki, hogy a kedvezményezett részé
 
 e) az audit hatóság vagy más ellenőrző szervezet által tett szabálytalansági gyanúbejelentés megállapításait elfogadja,
 
-f) a kedvezményezett nem teljesíti az általános rendelet szerinti előírásokat,
+f)[^51]
 
 g) a kedvezményezett nem teljesíti a biztosíték meghosszabbítására vagy cseréjére vonatkozó kötelezettségét,
 
 h) rendszerszintű szabálytalanság történt, vagy
 
 i) a jogkövetkezményt uniós jogszabály határozza meg.
+
+[^51]: A 389. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 37. § g) pontja hatályon kívül helyezte.

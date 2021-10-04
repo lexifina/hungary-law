@@ -1,4 +1,4 @@
-## érintett felhívásra benyújtott támogatási kérelem tartalmi értékelését törvényben meghatározott szakértői névsorból sorsolással kiválasztott értékelő (a továbbiakban: állami értékelő) végzi.
+## érintett felhívásra benyújtott támogatási kérelem tartalmi értékelését törvényben meghatározott szakértői névsorból sorsolással kiválasztott állami értékelő végzi.
 
 108. § (1) A támogatási kérelem tartalmi értékelését végző értékelők számát az irányító hatóság határozza meg.
 

@@ -9,3 +9,7 @@ c) az államháztartás központi alrendszerébe tartozó költségvetési szerv
 d) az állam által alapított vagyonkezelő alapítvány és az ilyen alapítvány által fenntartott jogi személy kedvezményezett esetén,
 
 e) az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 5. § (3) bekezdése szerinti esetben.
+
+f)[^52] az 506. § (4) bekezdése szerinti esetben.
+
+[^52]: A 421. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 26. §-a iktatta be.

@@ -1,4 +1,4 @@
-235. § (1) A projekt keretében
+235. § (1)[^30] A projekt keretében valós költség alapon
 
 a) projekt-előkészítésre, tervezésre az összes elszámolható költség legfeljebb 7%-a,
 
@@ -29,3 +29,5 @@ i) általános költségekre az összes elszámolható költség legfeljebb 1%-a
 (5) Ha a projekt fő célja az (1) bekezdés szerinti költségtípusok valamelyikének elszámolása, az adott költségtípus elszámolhatósága vonatkozásában megállapított százalékos korlátot nem kell alkalmazni.
 
 (6) Tőkebefektetés esetén a céltársaságba befektetett összegre az (1) és (2) bekezdés szerinti százalékos korlátokat nem kell alkalmazni.
+
+[^30]: A 235. § (1) bekezdés nyitó szövegrésze az 562/2021. (X. 1.) Korm. rendelet 36. § 18. pontja szerint módosított szöveg.

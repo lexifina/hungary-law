@@ -1,4 +1,4 @@
-## 327. § Ha az irányító hatóság az ellenszolgáltatást több részletben fizeti ki, minden részlettel összefüggésben alkalmazni kell a 324. §–326. § szerinti rendelkezéseket.
+## 327. §[^41]
 
 ## 76. A pénzügyi zárás
 
@@ -11,3 +11,5 @@
 (4) Az irányító hatóság csoportos pénzügyi zárást végezhet azon projektek esetén, amelyek nem érik el a (3) bekezdés szerinti értékhatárt, mintavétel alapján nem kerültek kiválasztásra és megfelelnek a csoportos zárás feltételeinek.
 
 (5) A mintavétel módszertanát, az értékhatárt és a csoportos zárás feltételeit az irányító hatóságnak alá kell támasztania.
+
+[^41]: A 327. §-t az 562/2021. (X. 1.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
