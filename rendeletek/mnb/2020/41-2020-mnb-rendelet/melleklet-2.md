@@ -10,6 +10,8 @@
 
 | 2 | AL8 | Az egyes NHP-szakaszok és -konstrukciók keretében a kis- és középvállalkozásoknak nyújtott hitelek adatai | a Növekedési Hitelprogramban (a továbbiakban: NHP), a Növekedési Hitelprogram Pluszban (a továbbiakban: NHP+), a Növekedési Hitelprogram Fixben (a továbbiakban: NHP fix), illetve a Növekedési Hitelprogram Hajrában (a továbbiakban: NHP Hajrá) (a továbbiakban együtt: NHP-szakaszok és -konstrukciók) részt vevő hitelintézet, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (GiroHálóMail) | az NHP harmadik szakaszának II. pillére kivételével az egyes NHP-szakaszok és -konstrukciók keretében az MNB-től refinanszírozni kért KKV-hitelek adatai tekintetében: - a refinanszírozási hitel kívánt folyósítási napját megelőző munkanap 15 óra (szombati munkanap esetén 12 óra); - a jelentett adatokban beállt változás esetén: a kitöltési előírások eltérő rendelkezése hiányában a változás adatszolgáltató által előre ismert napján 15 óra, szombati munkanap esetén 12 óra; az NHP harmadik szakaszának II. pillére keretében az MNB-től refinanszírozni kért KKV-hitelek adatai tekintetében: a KKV hitelszerződés megkötését, illetve a jelentett adatokban beállt változást követő, az NHP harmadik szakaszának I. és II. pillére keretében folyósított refinanszírozási hitelek igénybevételének módjáról és feltételeiről szóló Terméktájékoztatóban meghatározott adatszolgáltatási nap 15 óra; |
 
+| 2a | AL12 | Az NHP Zöld Otthon Program keretében a lakossági ügyfeleknek nyújtott hitelek adatai | az NHP Zöld Otthon Programban (a továbbiakban: NHP ZOP) részt vevő hitelintézet, az ezen típusú EGT-fióktelep | eseti | elektronikus úton (GiroHálóMail) | az NHP ZOP keretében az MNB-től refinanszírozni kért lakossági hitelek adatai tekintetében: – a refinanszírozási hitel kívánt folyósítási napját megelőző munkanap 15 óra (szombati munkanap esetén 12 óra); – a jelentett adatokban beállt változás esetén: a kitöltési előírások eltérő rendelkezése hiányában a változás adatszolgáltató által előre ismert napján 15 óra, szombati munkanap esetén 12 óra; |
+
 | 3 | BSI | Banki konjunktúrafelmérés | bank, ideértve a részvénytársasági formában működő szövetkezeti hitelintézetet is (a továbbiakban együtt: bank), szakosított hitelintézet, az ezen típusú EGT-fióktelep | a 01. tábla tekintetében negyedéves, a 02-06. tábla tekintetében féléves | elektronikus úton (ERA rendszer) | tárgyidőszakot követő 20. munkanap |
 
 | 4 | D01 | Operatív napi jelentés a hitelintézetek devizahelyzetének változásáról | bank, szakosított hitelintézet, az ezen típusú EGT-fióktelep | napi | elektronikus úton (ERA rendszer) | tárgynapot követő munkanap 12 óra |
@@ -320,6 +322,6 @@
 
 | 6 | Z06 | Természetes személyek anonimizált egészségügyi adatai | Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^6]
+2. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^7]
 
-[^6]: A 2. mellékelt a 25/2021. (VIII. 18.) MNB rendelet 2. § b) pontja szerint módosított szöveg.
+[^7]: A 2. mellékelt a 25/2021. (VIII. 18.) MNB rendelet 2. § b) pontja, a 41/2021. (X. 1.) MNB rendelet 1. § b) pontja szerint módosított szöveg.

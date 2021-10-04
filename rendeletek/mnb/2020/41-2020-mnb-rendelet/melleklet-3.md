@@ -1,10 +1,10 @@
-## 20202C20000041_4
+## 20202C20000041_6
 
-3. melléklet a 41/2020. (XI. 18.) MNB rendelethez
+3. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^8]
 
 ## Az információk szolgáltatásához szükséges technikai segédletek
 
-1. A 2. melléklet I. A. 4. pontjában és 5.2. alpontjában hivatkozott, az ügyfelek szektormeghatározását segítő listák
+1. A 2. melléklet I. A. 4. pontjában és 5.2. alpontjában hivatkozott, az ügyfelek szektormeghatározás átsegítő listák
 
 2. Árfolyamok elérhetősége
 
@@ -18,7 +18,7 @@
 
 4.3. Pénzügyi vállalatok fő tevékenység szerinti besorolása (NACE/TEAOR) az R29 MNB azonosító kódú adatszolgáltatás kitöltéséhez
 
-4.4. Kódlista az operatív napi jelentés a hite lintézetek devizahelyzetének változásairól (MNB azonosító kód: D01) adatszolgáltatáshoz
+4.4. Kódlista az operatív napi jelentés a hitelintézetek devizahelyzetének változásairól (MNB azonosító kód: D01) adatszolgáltatáshoz
 
 4.5. Kódlisták az értékpapír-adatszolgáltatásokhoz (E jelű adatszolgáltatások)
 
@@ -31,6 +31,8 @@
 4.9. Kódlisták a fizetési mérleg statisztikai (R jelű) adatszolgáltatásokhoz
 
 4.10. Kódlista az AL8 MNB azonosító kódú adatszolgáltatáshoz
+
+4.10a. Kódlista az AL12 MNB azonosító kódú adatszolgáltatáshoz
 
 4.11. Kódlista a BSI MNB azonosító kódú adatszolgáltatáshoz
 
@@ -51,3 +53,5 @@
 8. A jelentő letétkezelők (értékpapír-statisztikai adatszolgáltatások teljesítésére kötelezettek) listája
 
 9. Módszertani segédletek az egyes adatszolgáltatásokhoz; Példatárak
+
+[^8]: A 3. melléklet a 41/2021. (X. 1.) MNB rendelet 1. § c) pontja szerint módosított szöveg.
