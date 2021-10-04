@@ -68,6 +68,8 @@
 
 34.[^96] 1–6. pontja alapján a koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás
 
+35.[^97] 17. és 18. pontja alapján személyszállítási közszolgáltatásért járó ellentételezés
+
 [^81]: A 7. § 1. pontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
 [^82]: A 7. § 2. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
 [^83]: A 7. § 3. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
@@ -84,3 +86,4 @@
 [^94]: A 7. § 32. pontját a 365/2017. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
 [^95]: A 7. § 33. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.
 [^96]: A 7. § 34. pontját a 491/2020. (XI. 11.) Korm. rendelet 4. §-a iktatta be.
+[^97]: A 7. § 35. pontját az 562/2021. (X. 1.) Korm. rendelet 7. §-a iktatta be.

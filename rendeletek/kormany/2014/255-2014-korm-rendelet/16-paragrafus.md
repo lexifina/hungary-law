@@ -2,7 +2,7 @@
 
 ## 10. Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program
 
-## 16. §[^152] A Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
+## 16. §[^153] A Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
 1. szervezet- és folyamatfejlesztés,
 
@@ -24,4 +24,4 @@
 
 10. innovatív közszolgáltatás optimalizációs mintaprojektek.
 
-[^152]: A 16. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.
+[^153]: A 16. § nyitó szövegrésze a 271/2015. (IX. 18.) Korm. rendelet 22. § 13. pontja szerint módosított szöveg.

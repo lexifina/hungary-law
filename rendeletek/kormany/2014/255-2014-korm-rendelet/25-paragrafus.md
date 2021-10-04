@@ -18,9 +18,9 @@ b) olyan új gazdasági tevékenység végzésére irányuló induló beruházá
 
 ## valósít meg.
 
-(2)[^191] Nagyvállalkozás esetén a termelési folyamat alapvető megváltozását eredményező beruházás esetén a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
+(2)[^192] Nagyvállalkozás esetén a termelési folyamat alapvető megváltozását eredményező beruházás esetén a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja az alapvetően megváltoztatandó eredeti termelési folyamathoz kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
 
-(3)[^192] Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás, valamint meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
+(3)[^193] Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás, valamint meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
 
-[^191]: A 25. § (2) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 20. § 7. pontja szerint módosított szöveg.
-[^192]: A 25. § (3) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^192]: A 25. § (2) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 20. § 7. pontja szerint módosított szöveg.
+[^193]: A 25. § (3) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 13. §-ával megállapított szöveg.

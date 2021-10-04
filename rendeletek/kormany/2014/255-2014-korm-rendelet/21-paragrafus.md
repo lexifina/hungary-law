@@ -6,12 +6,12 @@
 
 (3) Az egy projekthez igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
 
-(4)[^175] A 16., 17., 46., 47., 50. és 66. alcím szerinti, azonosítható elszámolható költségekkel nem rendelkező támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.
+(4)[^176] A 16., 17., 46., 47., 50. és 66. alcím szerinti, azonosítható elszámolható költségekkel nem rendelkező támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.
 
-(5)[^176] Az 50–54. alcím szerinti támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható az 1305/2013/EU európai parlamenti és tanácsi rendelet 81. cikk (2) bekezdése és 82. cikke szerinti kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az 50–54. alcím szerinti értékeket.
+(5)[^177] Az 50–54. alcím szerinti támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható az 1305/2013/EU európai parlamenti és tanácsi rendelet 81. cikk (2) bekezdése és 82. cikke szerinti kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az 50–54. alcím szerinti értékeket.
 
-(6)[^177] Azonos elszámolható költségek esetén a 41/A. alcím szerinti támogatás abban az esetben halmozható csekély összegű támogatással, ha a támogatáshalmozás nem vezet a 85/C. § (1)–(3) bekezdése szerinti maximális támogatási összeg túllépéséhez.
+(6)[^178] Azonos elszámolható költségek esetén a 41/A. alcím szerinti támogatás abban az esetben halmozható csekély összegű támogatással, ha a támogatáshalmozás nem vezet a 85/C. § (1)–(3) bekezdése szerinti maximális támogatási összeg túllépéséhez.
 
-[^175]: A 21. § (4) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 21. § 60. pontja, a 305/2016. (X. 13.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
-[^176]: A 21. § (5) bekezdését a 271/2015. (IX. 18.) Korm. rendelet 10. §-a iktatta be.
-[^177]: A 21. § (6) bekezdését a 662/2020. (XII. 24.) Korm. rendelet 5. §-a iktatta be.
+[^176]: A 21. § (4) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 21. § 60. pontja, a 305/2016. (X. 13.) Korm. rendelet 18. § 6. pontja szerint módosított szöveg.
+[^177]: A 21. § (5) bekezdését a 271/2015. (IX. 18.) Korm. rendelet 10. §-a iktatta be.
+[^178]: A 21. § (6) bekezdését a 662/2020. (XII. 24.) Korm. rendelet 5. §-a iktatta be.
