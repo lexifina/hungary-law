@@ -22,6 +22,8 @@ b)[^783] szakmai beszámoló keretében be kell számolni a projekt szakmai megv
 
 (9)[^786] Visszatérítendő támogatás esetén a záró kifizetési igénylés jóváhagyásakor az irányító hatóság a támogatási szerződésben rögzített végrehajtási feltételek teljesülésének figyelembevételével meghatározza a visszatérítéssel érintett támogatás arányát.
 
+(10)[^787] Visszatérítendő támogatás esetén a záró kifizetési igénylés jóváhagyását követően ki kell vezetni a tízezer forint alatti el nem számolt előleg összegét. Erre az összegre követelést nem kell előírni.
+
 [^779]: A 46. alcím címe a 144/2015. (VI. 12.) Korm. rendelet 100. § 155. pontja szerint módosított szöveg.
 [^780]: A 127. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 24. pontja szerint módosított szöveg.
 [^781]: A 127. § (2) bekezdés nyitó szövegrésze a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés l) pontja szerint módosított szöveg.
@@ -30,3 +32,4 @@ b)[^783] szakmai beszámoló keretében be kell számolni a projekt szakmai megv
 [^784]: A 127. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 157. pontja szerint módosított szöveg.
 [^785]: A 127. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 158. pontja szerint módosított szöveg.
 [^786]: A 127. § (9) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^787]: A 127. § (10) bekezdését az 562/2021. (X. 1.) Korm. rendelet 8. §-a iktatta be.
