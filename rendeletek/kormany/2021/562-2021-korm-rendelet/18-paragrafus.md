@@ -1,0 +1,5 @@
+## 17. § A 256/2021. (V. 18.) Korm. rendelet 93. § (4) bekezdése helyébe a következő rendelkezés lép, és a § a következő (4a) bekezdéssel egészül ki:
+
+## „(4) Egyszerűsített kiválasztási eljárásrend esetén, ha a támogatási kérelmek benyújtására nyitva álló határidő kezdetétől számított huszonnegyedik óra végén a benyújtott támogatási kérelmekben igényelt támogatások összege eléri a felhívásban rögzített szakasz keretösszegének 130%-át, az irányító hatóság a benyújtás lehetőségét azonnal felfüggeszti vagy a felhívást azonnal lezárja, azzal, hogy az addig beérkezett támogatási kérelmek értékelését el kell végezni.
+
+## (4a) Ha a (4) bekezdés szerinti azonnali felfüggesztésre vagy azonnali lezárásra okot adó esemény a támogatási kérelmek benyújtására nyitva álló határidő kezdetétől számított huszonnegyedik órát követően, de a támogatási kérelmek benyújtására nyitva álló határidő lejártát megelőzően következik be, az irányító hatóság a benyújtás lehetőségét azonnal felfüggesztheti vagy a felhívást azonnal lezárhatja.”
