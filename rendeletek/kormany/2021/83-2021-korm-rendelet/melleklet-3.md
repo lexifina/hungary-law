@@ -104,6 +104,8 @@
 
 | 51. | Nitril orvosi vizsgálókesztyű gyártására alkalmas gépsorok befogadására alkalmas ipari üzemcsarnok kialakítása | Mátészalka belterület 544/83 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^91]
+| 52. | Az egykori szlovák ajkú evangélikus gyülekezet templomának és toldalék épületrészeinek felújítása, átalakítása | Budapest VIII. kerület, belterület 34637/0/A/107 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^91]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^93]
+
+[^93]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

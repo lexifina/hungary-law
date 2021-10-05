@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-83-20-2
 | 2021-09-09 | 2021-83-20-22.22 | 525/2021. (IX. 8.) Korm. rendelet |
 | 2021-09-27 | 2021-83-20-22.23 | 2010: CXXX. törvény |
 | 2021-09-30 | 2021-83-20-22.24 | 261/2021. (V. 20.) Korm. rendelet |
+| 2021-10-05 | 2021-83-20-22.25 | 411/2021. (VII. 12.) Korm. rendelet |
