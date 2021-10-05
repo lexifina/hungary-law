@@ -1,3 +1,3 @@
-16. §[^14]
+16. §[^15]
 
-[^14]: A 16. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^15]: A 16. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
