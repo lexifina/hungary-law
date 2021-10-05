@@ -1,5 +1,3 @@
-## 26. § A 256/2021. (V. 18.) Korm. rendelet 421. §-a a következő f) ponttal egészül ki:
+## 26. §[^27]
 
-## (Nem kell kamatot fizetni)
-
-## „f) az 506. § (4) bekezdése szerinti esetben.”
+[^27]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

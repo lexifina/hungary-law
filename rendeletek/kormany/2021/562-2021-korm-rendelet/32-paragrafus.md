@@ -1,3 +1,3 @@
-## 31. § A 256/2021. (V. 18.) Korm. rendelet 507. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 31. §[^32]
 
-## „(2) A holdingalapot végrehajtó szervezet e rendelet szerinti források szabályos felhasználásának helyszíni ellenőrzéséről az irányító hatóság által jóváhagyott szabályzat szerint gondoskodik.”
+[^32]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

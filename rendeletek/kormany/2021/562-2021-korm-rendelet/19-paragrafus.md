@@ -1,3 +1,3 @@
-## 18. § A 256/2021. (V. 18.) Korm. rendelet 125. §-a a következő (3a) bekezdéssel egészül ki:
+## 18. §[^19]
 
-## „(3a) Ha a 93. § (4) bekezdése szerinti esetben a benyújtott támogatási kérelmekben igényelt támogatások összege eléri a felhívásban rögzített szakasz keretösszegének háromszorosát, az irányító hatóság az (1) bekezdés szerinti határidőtől eltérhet.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

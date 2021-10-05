@@ -1,3 +1,3 @@
-## 20. § A 256/2021. (V. 18.) Korm. rendelet 279. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 20. §[^21]
 
-## „(3) Az irányító hatóság felhívásonként gondoskodik a kockázatelemzési szempontrendszer monitoring és információs rendszerben történő kialakításáról.”
+[^21]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

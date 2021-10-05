@@ -1,3 +1,3 @@
-## 3. § A 60/2014. (III. 6.) Korm. rendelet 9. §-a helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## „9. § Az adatszolgáltató felelős a FAIR számára történő adatszolgáltatása jogszerű voltáért és helyességéért.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
