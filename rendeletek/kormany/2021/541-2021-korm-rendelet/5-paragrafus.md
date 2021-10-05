@@ -1,1 +1,3 @@
-## 4. § Az R. 78. § (1) bekezdésében az „– a 61. § (2) bekezdésében foglaltak kivételével – a 46–67. §-ban,” szövegrész helyébe az „– a 72. § (2) bekezdés a) pontja szerinti kölcsön esetében a 61. § (2) bekezdésében foglaltak kivételével – a 46–67. §-ban,” szöveg lép.
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
