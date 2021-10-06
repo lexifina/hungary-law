@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-7-20-8H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-10-05 | 2021-7-20-8H.1 | 7/2021. (X. 4.) CSTNM rendelet |
+| 2021-10-06 | 2021-7-20-8H.2 | 2010: CXXX. törvény |
