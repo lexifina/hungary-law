@@ -1,4 +1,4 @@
-## V/A. Fejezet[^51]
+## V/A. Fejezet[^52]
 
 ## A KÜLÖNLEGES KÖTÖTTPÁLYÁS KÖZLEKEDÉSI RENDSZERRE VONATKOZÓ RENDELKEZÉSEK
 
@@ -28,4 +28,4 @@ meghatározott adatokat kell közölni és iratokat kell csatolni.
 
 (6) A 27. §-t azzal az eltéréssel kell alkalmazni, hogy fennmaradási engedély a különleges kötöttpályás közlekedési rendszer egy-egy szakaszára, alrendszerére is megadható.
 
-[^51]: Az V/A. fejezetet (37/A–37/O. §) a 431/2017. (XII. 20.) Korm. rendelet 52. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
+[^52]: Az V/A. fejezetet (37/A–37/O. §) a 431/2017. (XII. 20.) Korm. rendelet 52. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
