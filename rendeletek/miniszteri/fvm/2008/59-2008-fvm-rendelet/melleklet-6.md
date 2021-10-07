@@ -170,6 +170,6 @@
 
 ## Azon trágyatárolóra, melyek típustervek alapján, különböző méretekben készülő ipari gyártmányok, a gyártóknak a teljes hígtrágya tárolóra, mint késztermékre kell Megfelelőségi Nyilatkozatot biztosítania. Ehhez a gyártónak rendelkeznie kell az összes, szabványokban foglalt tulajdonságoknak való megfelelőséget igazoló dokumentumokkal, a megfelelőséget igazoló akkreditált vizsgálati eredményekkel.
 
-6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^30]
+6. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^34]
 
-[^30]: A 6. számú mellékletet a 48/2020. (X. 7.) AM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^34]: A 6. számú mellékletet a 48/2020. (X. 7.) AM rendelet 3. § b) pontja hatályon kívül helyezte.
