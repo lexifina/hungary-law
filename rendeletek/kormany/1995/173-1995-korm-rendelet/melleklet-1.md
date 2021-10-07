@@ -1,4 +1,4 @@
-## 10. §[^33] A 2021. január 1-je és a nyugellátások és egyes más ellátások 2021. június havi kiegészítő emeléséről szóló 254/2021. (V. 18.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépése közötti kezdő időponttól megállapított pótlékot a Módr.-rel megállapított összeghatárok alapulvételével – 2021. június 1-jétől, hivatalból, a pótlék kezdő időpontjára visszamenőleges hatállyal – meg kell emelni.
+## 10. §[^33] A 2021. január 1-je és a nyugellátások és egyes más ellátások 2021. november havi kiegészítő emeléséről szóló 567/2021. (X. 6.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépése közötti kezdő időponttól megállapított pótlékot a Módr.-rel megállapított összeghatárok alapulvételével – 2021. november 1-jétől, hivatalból, a pótlék kezdő időpontjára visszamenőleges hatállyal – meg kell emelni.
 
 1. számú melléklet a 173/1995. (XII. 27.) Korm. rendelethez
 
@@ -46,7 +46,7 @@ E rendelet alkalmazásában nyugellátásnak minősül:
 
 21.[^43]
 
-[^33]: A 10. §-t a újonnan a 461/2020. (X. 21.) Korm. rendelet 7. §-a iktatta be, szövege a 254/2021. (V. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^33]: A 10. §-t a újonnan a 461/2020. (X. 21.) Korm. rendelet 7. §-a iktatta be, szövege az 567/2021. (X. 6.) korm. rendelet 8. §-ával megállapított szöveg.
 [^34]: Az 1. számú melléklet 2. pontját a 333/2011. (XII. 29.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
 [^35]: Az 1. számú melléklet 3. pontja a 247/2000. (XII. 24.) Korm. rendelet 8. § (3) bekezdése f) pontjának fa) alpontja szerint módosított szöveg.
 [^36]: Az 1. számú melléklet 4. pontja a 247/2000. (XII. 24.) Korm. rendelet 8. § (3) bekezdése f) pontjának fb) alpontja szerint módosított szöveg.
