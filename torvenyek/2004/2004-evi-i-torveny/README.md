@@ -65,3 +65,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2021-06-04 | 2021. évi L. törvény | 2004-1-00-00.72 |
 | 2021-07-08 | 2021. évi CI. törvény | 2004-1-00-00.73 |
 | 2021-09-01 | 2021. évi LXXXVII. törvény | 2004-1-00-00.74 |
+| 2021-10-07 | 2021. évi CI. törvény | 2004-1-00-00.75 |
