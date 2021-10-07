@@ -90,6 +90,6 @@
 
 | 42. | 374873 | Központi Maradványelszámolási Alap | Kormányzati döntésekből következő, illetve évközben jelentkező finanszírozási problémák kezelése. | Költségvetési szervek, fejezeti kezelésű előirányzatok, központi kezelésű előirányzatok. |  |  | Átcsoportosítással a Kormány egyedi határozata alapján. |  |  |  |  |  |
 
-10. melléklet a 22/2020. (XII. 30.) PM rendelethez[^4]
+10. melléklet a 22/2020. (XII. 30.) PM rendelethez[^6]
 
-[^4]: A 10. melléklet a 10/2021. (VIII. 26.) PM rendelet 1. § (3) bekezdése és 2. §-a szerint módosított szöveg.
+[^6]: A 10. melléklet a 10/2021. (VIII. 26.) PM rendelet 1. § (3) bekezdése és 2. §-a szerint módosított szöveg.

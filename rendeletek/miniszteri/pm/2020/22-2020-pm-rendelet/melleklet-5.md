@@ -12,6 +12,8 @@
 
 | 1b. | 355851 |  |  | Tőkeemelések | Az előirányzat célja a pénzügyminiszter tulajdonosi joggyakorlása alá tartozó gazdasági társaságok részére tőkeemelés nyújtása. | Gazdasági társaságok |  |  | Egy összegben történő kifizetéssel |  |  |  |  |  |
 
+| 1c. | 393339 |  |  | Egyéb tulajdonosi részesedésekkel kapcsolatos kiadások | Az előirányzat fedezetet biztosít tőkealapok saját tőkéjének befizetésére. | A Kormány döntése alapján |  |  | Egy összegben történő kifizetéssel |  |  |  |  |  |
+
 | 2. |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |
 
 | 3. | 001360 |  |  | Céltartalékok | A Kvtv. 4. § (1) bekezdése szerinti célok. | Költségvetési szervek, egyházi jogi személyek, önkormányzatok, fejezeti kezelésű előirányzatok, valamint a Kvtv. 4. § (1) bekezdés d) pontja szerinti szervek. | Az államháztartásért felelős miniszter intézkedése. |  | Előirányzat átcsoportosítás | Előirány- zat módosí- tással, az intézke- désben meghatá- rozottak szerint. |  |  |  |  |

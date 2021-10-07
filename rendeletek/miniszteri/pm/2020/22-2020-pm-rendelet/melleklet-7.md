@@ -42,4 +42,6 @@
 
 | 18. | 387895 |  |  |  | Egyéb térítések | Az egészségügyről szóló 1997. évi CLIV. törvényben és a magzati élet védelméről szóló 1992. évi LXXIX. törvényben meghatározott cél. Az előirányzat emellett a jövedelempótló és jövedelemkiegészítő szociális támogatásokkal összefüggő igazgatási feladatok elvégzésével kapcsolatos költségek fedezetéül szolgál. | Egészségbiztosítási Alap, a folyósított ellátások utáni térítés esetén az ellátást folyósító szerv. |  |  | Az egészségügyi feladatok ellátásával kapcsolatos hozzájárulás vonatkozásában az előirányzat folyósítása az államháztartásért felelős miniszter által jóváhagyott finanszírozási terv alapján havonta végzi a Kincstár az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 82. § (1) bekezdése alapján. A folyósított ellátások utáni térítés folyósítás havonta, egyenlő részletekben történik. |  |  | Kincstár |  |  |
 
-7. melléklet a 22/2020. (XII. 30.) PM rendelethez
+7. melléklet a 22/2020. (XII. 30.) PM rendelethez[^4]
+
+[^4]: A 7. melléklet a 12/2021. (X. 6.) PM rendelet 1. § (2) bekezdése szerint módosított szöveg.

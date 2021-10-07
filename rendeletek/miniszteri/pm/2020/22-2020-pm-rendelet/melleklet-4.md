@@ -10,6 +10,6 @@
 
 | 2. | 375773 |  | Roma települési és területi nemzetiségi önkormányzatok támogatása | Helyi nemzetiségi önkormányzatok működésének és feladatainak támogatása. | Helyi nemzetiségi önkormányzatok | A Kvtv. 10. melléklete szerint. | Igen | Vissza nem térítendő támogatás formájában. |  |  | Emberi Erőforrás Támogatáskezelő |  |  |
 
-4. melléklet a 22/2020. (XII. 30.) PM rendelethez[^2]
+4. melléklet a 22/2020. (XII. 30.) PM rendelethez[^3]
 
-[^2]: A 4. melléklet a 10/2021. (VIII. 26.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^3]: A 4. melléklet a 10/2021. (VIII. 26.) PM rendelet 1. § (1) bekezdése, a 12/2021. (X. 6.) PM rendelet 1. § (1) bekezdése szerint módosított szöveg.
