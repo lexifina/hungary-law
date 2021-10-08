@@ -28,30 +28,12 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete az 1. melléklet szerint módosul.
+## 3.[^1]
 
-## 4. Az 1247/2016. (V. 18.) Korm. határozat
+## 4.[^2]
 
-## a) 1. pont f) alpont fa) pont fac) alpontjában a „159,17%-áig” szövegrész helyébe a „159,98%-áig” szöveg,
+1. melléklet az 1706/2021. (X. 6.) Korm. határozathoz[^3]
 
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „200,556” szövegrész helyébe a „201,576” szöveg
-
-## lép.
-
-1. melléklet az 1706/2021. (X. 6.) Korm. határozathoz
-
-1. Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 94. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 94. | IKOP-3.2.0-15 | Közösségi közlekedés fejlesztése Kaposvár II. ütem, elektromos buszok beszerzése előkészítése | Kaposvári Közlekedési Zrt. | 0,51 (becsült támogatási intenzitás: 100%) | Elektromos autóbuszok és a hozzájuk tartozó töltőoszlopok, valamint az ehhez kapcsolódó beruházások beszerzésének előkészítése |
-
-2. Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 102f. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 102f. | IKOP-3.2.0-15 | Közösségi közlekedés fejlesztése elektromos autóbuszok beszerzésével Pakson és gazdasági övezetében előkészítése | Paksi Közlekedési Kft. | 0,51 (becsült támogatási intenzitás: 100%) | Elektromos autóbuszok és a hozzájuk tartozó töltőoszlopok, valamint az ehhez kapcsolódó beruházások beszerzésének előkészítése |
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
