@@ -1,3 +1,3 @@
-## 3. § Az 59/2008. (IV. 29.) FVM rendelet 6. §-a a következő (10) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(10) Tilos könnyen oldódó nitrogéntrágyát kijuttatni a betakarítás után, ha ősszel nem kerül sor újabb kultúra vetésére.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
