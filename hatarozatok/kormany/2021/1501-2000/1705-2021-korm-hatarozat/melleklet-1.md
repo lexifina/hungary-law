@@ -22,22 +22,12 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete az 1. melléklet szerint módosul.
+## 3.[^2]
 
-## 4. Az 1247/2016. (V. 18.) Korm. határozat
+## 4.[^3]
 
-## a) 1. pont f) alpont fa) pont fab) alpontjában a „126,69%-áig” szövegrész helyébe a „127,11%-áig” szöveg,
+1. melléklet az 1705/2021. (X. 6.) Korm. határozathoz[^4]
 
-## b) 1. melléklet 3. pontjában foglalt táblázat C:2 mezőjében a „293,395” szövegrész helyébe a „294,371” szöveg
-
-## lép.
-
-1. melléklet az 1705/2021. (X. 6.) Korm. határozathoz
-
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 76e. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 76e. | IKOP-3.1.0-15 | A Hiányzó vasúti megállóhelyek, átszállási csomópontok kiépítése a budapesti agglomerációs vasúti hálózaton fejlesztés előkészítése | BFK Nonprofit Zrt. | 0,98 (becsült támogatási intenzitás: 100%) | Albertfalva megállóhely, továbbá Külső Körvasút új megállóhelyeinek utasforgalmi létesítményei engedélyezési és kiviteli terveinek és tenderdokumentációjának elkészítése, Budapest, XIV. kerület Füredi utca – Budapest XVI. kerület Rákosi út vonalában létesítendő – külön szintű közúti átvezetés engedélyezési terv szintű előkészítése. |
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
