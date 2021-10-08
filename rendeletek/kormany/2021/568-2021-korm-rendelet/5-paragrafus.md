@@ -4,7 +4,7 @@ a) a Magyar Államkincstárnak a társadalombiztosítás pénzügyi alapjaiból 
 
 b) a Hadigondozottak Közalapítványának a 3. § 19. pontja szerinti ellátások után járó
 
-## egyszeri juttatás fedezetét és azok végrehajtási költségeit.
+egyszeri juttatás fedezetét és azok végrehajtási költségeit.
 
 (2) A Hadigondozottak Közalapítványa megtéríti a Magyar Államkincstárnak a 3. § 19. pontja szerinti ellátások után járó egyszeri juttatás fedezetét és a végrehajtás költségeit.
 
