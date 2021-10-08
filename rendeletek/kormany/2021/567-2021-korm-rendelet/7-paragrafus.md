@@ -1,1 +1,3 @@
-## 6. § A rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet 2. § (3) bekezdésében a „40 555” szövegrész helyébe a „41 045” szöveg lép.
+7. §[^4]
+
+[^4]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
