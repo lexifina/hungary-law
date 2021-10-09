@@ -2,7 +2,7 @@
 
 ## A minősítő jel négyzetbe írt, nyomtatott, álló nagy H betű. A négyzet és a betű mérete arányos a jelzéssel ellátott pótalkatrész, illetőleg tartozék méretével, de a négyzet oldalhosszúsága 6 mm-nél kevesebb nem lehet. A minősítő jel mellett feltüntetendő a minősítő vizsgálatot végző intézmény megfelelőséget tanúsító vizsgálati jelentésének száma.
 
-5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^409]
+5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^413]
 
 A forgalomba helyezés előtti és az időszakos vizsgálat tárgyi feltételei, technológiája és ügyrendje
 
@@ -18,7 +18,7 @@ A forgalomba helyezés előtti és az időszakos vizsgálat tárgyi feltételei,
 
 1.0.4. A létesítményeknek és a berendezéseknek az 1.1–1.19. pontban meghatározott követelményeknek kell megfelelniük.
 
-1.0.5. Átmeneti rendelkezések: Az 1.2-1.19. pontban meghatározott létesítményekre és berendezésekre vonatkozó adott követelményt 2022. május 20-ig nem kell alkalmazni az esetben, ha teljesül az 1.0.5.1-1.0.5.20. pontban meghatározott minimum feltétel:
+1.0.5. Átmeneti rendelkezések: Az 1.2-1.19. pontban meghatározott létesítményekre és berendezésekre vonatkozó adott követelményt 2022. december 31-ig nem kell alkalmazni az esetben, ha teljesül az 1.0.5.1-1.0.5.20. pontban meghatározott minimum feltétel:
 
 1.0.5.1. Vizsgálóakna, amely rendelkezik:
 
@@ -442,4 +442,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^409]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) szerint módosított szöveg.
+[^413]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja szerint módosított szöveg.

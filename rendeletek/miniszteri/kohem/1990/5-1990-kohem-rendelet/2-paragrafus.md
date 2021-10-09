@@ -198,6 +198,8 @@ m) „rakomány”: teherszállításra tervezett járműben vagy annak részén
 
 n) „összehangolt közúti műszaki ellenőrzés”: két vagy több tagállam illetékes hatósága által együttesen végzett közúti műszaki ellenőrzés.
 
+(16)[^51] E rendelet alkalmazásában országos lefedettséget biztosító műszaki vizsgálóállomás a vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló kormányrendelet szerinti országos lefedettséget biztosító műszaki vizsgálóállomás.
+
 [^5]: A 2. § (1) bekezdése a 83/2005. (X. 11.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés a) pontja a 66/2009. (XI. 27.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdése a 12/1998. (V. 22.) KHVM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
@@ -244,3 +246,4 @@ n) „összehangolt közúti műszaki ellenőrzés”: két vagy több tagállam
 [^48]: A 2. § (14) bekezdését a 18/2013. (V. 9.) NFM rendelet 1. §-a iktatta be.
 [^49]: A 2. § (15) bekezdését a 2/2018. (II. 5.) NFM rendelet 2. § (2) bekezdése iktatta be.
 [^50]: A 2. § (15) bekezdés i) pontját a 15/2020. (VI. 4.) ITM rendelet 7. § a) pontja szerint módosított szöveg.
+[^51]: A 2. § (16) bekezdését a 42/2021. (IX. 8.) ITM rendelet 1. §-a iktatta be.
