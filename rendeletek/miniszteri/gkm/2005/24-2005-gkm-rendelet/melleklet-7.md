@@ -28,15 +28,7 @@
 
 ## 1.[^305] Az oktatójárművek minősítő vizsgálata
 
-## A közúti járművezető-képzésben a vezetési gyakorlat tantárgy oktatására használt „B”, „C”, „D”, „T” kategóriás, a „B1”, „C1”, „D1” kategóriás, valamint a „BE”, „C1E”, „CE”, „D1E”, „DE” kombinált kategóriás oktatójármű járművekhez tartozó oktatójármű-igazolás kiadásához szükséges minősítő vizsgálatot a közlekedési hatóság végzi.
-
-## Az oktatójárművek minősítő vizsgálatát az üzemben tartó kérelmére a közlekedési hatóság végzi el.
-
-## A „C1”, „D1” kategóriás, „C”, „D” kategóriás, „C1E”, „CE”, „D1E” és „DE” kombinált kategóriás oktatójárművet a járműműszaki vizsgabiztos indokolt esetben (pl. rendeletben meghatározott sebesség elérésére való alkalmasság) a képzésfelügyelővel együtt minősíti. A minősítő vizsgálat részét képező közúti vizsgálatot a képzésfelügyelő egyedül is végezheti.
-
-## A szakoktató lakóhely változása, valamint az oktatójármű tulajdonosának változása esetén, az oktatójármű-igazolás a korábban bejegyzett időpontig hatályos.
-
-## A vizsgálat költségeit – amelyet a kérelmező visel – a közúti járművek forgalomba helyezésével és forgalomban tartásával, környezetvédelmi felülvizsgálatával és ellenőrzésével, továbbá a gépjárműfenntartó tevékenységgel kapcsolatos egyes közlekedési hatósági eljárások díjáról szóló miniszteri rendelet alapján kell meghatározni és befizetni.
+## A közúti járművezető-képzésben a vezetési gyakorlat tantárgy oktatására használt „B”, „C”, „D”, „T” kategóriás, a „B1”, „C1”, „D1” kategóriás, valamint a „BE”, „C1E”, „CE”, „D1E”, „DE” kombinált kategóriás oktatójármű járművekhez tartozó oktatójármű-igazolás kiadásához szükséges minősítő vizsgálatot a közlekedési hatóság által üzemeltetett vizsgáló állomáson forgalomba helyezés előtti vagy időszakos vizsgálatra kell bemutatni. Az oktatójármű-igazolás kiadásához szükséges minősítő vizsgálat az időszakos vizsgálat során a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott országos lefedettséget biztosító műszaki vizsgáló állomáson is elvégezhető.
 
 ## 2.[^306] Az oktatójármű-igazolás kiadása, érvényesítése
 
@@ -180,7 +172,7 @@
 [^302]: A 6. melléklet I. pont 5. alpontja a 85/2009. (XII. 30.) KHEM rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^303]: A vizsgálat időpontjától számított legfeljebb 2 év időtartam.
 [^304]: A 6. melléklet I. pont 10. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdése iktatta be, hatályon kívül helyezte a 45/2013. (VIII. 7.) NFM rendelet 21. § k) pontja.
-[^305]: A 6. melléklet II. pont 1. alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^305]: A 6. melléklet II. pont 1. alpontja a 42/2021. (IX. 8.) ITM rendelet 7. §-ával megállapított szöveg.
 [^306]: A 6. számú melléklet II. 2. pontja a 14/2015. (III. 31.) NFM rendelet 11. § k) pontja szerint módosított szöveg.
 [^307]: A 6. melléklet III. alcímének megjelölése a 45/2013. (VIII. 7.) NFM rendelet 19. § (5) bekezdésével megállapított szöveg.
 [^308]: A 6. számú melléklet „Az oktatásban használt járművek követelményei és vizsgálata” alcímének 2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (6) bekezdésével megállapított, a 14/2015. (III. 31.) NFM rendelet 10. § j) pontja szerint módosított szöveg.
