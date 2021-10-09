@@ -1,0 +1,7 @@
+## 23/E. § A Diákhitel szervezet negyedévente, a negyedévet követő hónap 10. napjáig elektronikus úton személyes adatokat nem tartalmazó adatszolgáltatást teljesít az államháztartásért felelős miniszternek a szabad és kötött felhasználású képzési hitelek tárgyévi állományáról és a szerződések számáról, továbbá a tárgyévben igénybe vett és a következő három naptári évben, várható kamattámogatás összegéről.
+
+23/F. §[^114] (1) A Diákhitel szervezet a képzési hitel igény elbírálását vagy a képzési hitel folyósítását legfeljebb 30 napra felfüggeszti, ha a képzési hitel igénylésével vagy felvételével kapcsolatban felmerül a jóhiszeműség és tisztesség elve sérelmének gyanúja. A felfüggesztésről a Diákhitel szervezet a képzésben részt vevőt tájékoztatja.
+
+(2) Az (1) bekezdés szerinti felfüggesztés időtartama alatt a Diákhitel szervezet tájékoztatást, adatot kérhet a képzésben részt vevőtől, a szakképző intézménytől, a felnőttképzőtől a jogosultsági feltételek fennállásával, a képzéssel és a hitelfelvevő képzésben való részvételével összefüggésben, vagy megkeresi a szakképző intézmény, felnőttképző felügyeletét ellátó szervet. Ha a felügyeleti szerv a megkeresést követően eljárást indít, az (1) bekezdés szerinti felfüggesztés időtartama meghosszabbítható az eljárás lefolytatásának időtartamával. A meghosszabbításról a Diákhitel szervezet a képzésben részt vevőt tájékoztatja.
+
+[^114]: A 23/F. §-t az 573/2021. (X. 8.) Korm. rendelet 4. §-a iktatta be.
