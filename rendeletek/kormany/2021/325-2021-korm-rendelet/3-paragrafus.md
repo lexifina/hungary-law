@@ -1,3 +1,0 @@
-3. § (1) Az Operatív Törzs szükség szerint ülésezik, az ülés összehívását bármely tag kezdeményezheti, az ülés összehívásáról az Operatív Törzs vezetője dönt.
-
-(2) Az Operatív Törzs elsősorban a tagok személyes részvételével ülésezik. Az Operatív Törzs vezetőjének kezdeményezésére az Operatív Törzs úgy is ülésezhet és alakíthat ki véleményt, hogy az adott ügyben a tagok elektronikus hírközlő eszköz használatával, vagy más, a személyazonosítást az Operatív Törzs vezetője számára elfogadható módon biztosító elektronikus eszköz igénybevételével közlik álláspontjukat vagy szavazatukat.
