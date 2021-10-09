@@ -4,7 +4,7 @@
 
 a) a légiközlekedés biztonságának javításával összefüggő intézkedések és projektek támogatásának szervezése és koordinációja, valamint a közlekedésbiztonsági intézkedésekhez, projektekhez kapcsolódó közérdekű és közcélú tájékoztatás, kommunikáció;
 
-b) a légiközlekedés biztonságának és a közlekedés környezeti hatásai szakterületen nemzetközi szerződésekben, európai uniós jogi aktusokban, valamint kormányrendeletekben és miniszteri rendeletekben előírt adatgyűjtések, a jogi szabályozást megalapozó mérések és vizsgálatok, kutatások végzése; a jogi szabályozást megalapozó szakmai tevékenységgel összefüggő konferenciák, tudományos szakértői fórumok, testületek működtetése, szakmai képzések, továbbképzések szervezése, szakmai előkészítése, ahhoz kapcsolódóan képzési anyagok biztosítása;
+b)[^1] a légiközlekedés biztonságának és a közlekedés környezeti hatásai szakterületen nemzetközi szerződésekben, európai uniós jogi aktusokban, valamint kormányrendeletekben és miniszteri rendeletekben előírt adatgyűjtések, a jogi szabályozást megalapozó mérések és vizsgálatok, kutatások végzése; a jogi szabályozást megalapozó szakmai tevékenységgel összefüggő konferenciák, tudományos szakértői fórumok, testületek működtetése, szakmai képzések, továbbképzések szervezése, légiközlekedési hatósági belső képzések szakmai előkészítése, fejlesztése, lefolytatása;
 
 c) a légiközlekedés biztonságának növelése és a légiközlekedés fejlesztése érdekében szakmai támogatás nyújtása, elemzések, tanulmányok készítése, kutatások, vizsgálatok végzése, a légiközlekedési hatósági feladatokhoz kapcsolódóan;
 
@@ -14,4 +14,7 @@ e) a légiközlekedés okozta levegő-, zaj- és talajszennyezés csökkentésé
 
 f) a légiközlekedés biztonságának javításával összefüggésben, a légiközlekedés fejlesztésével, kiépítésével, fenntartásával kapcsolatos tudományos kutatási előkészítő tevékenység ellátása, a fejlesztéseket megalapozó szakmai javaslatok, döntés-előkészítő hatáselemzések készítése;
 
-g) a légiközlekedéssel összefüggő informatikai fejlesztések előkészítése, koordinálása, megvalósítása.
+g)[^2] a légiközlekedéssel összefüggő informatikai rendszerek üzemeltetése, informatikai fejlesztések előkészítése, koordinálása, megvalósítása, az ahhoz szükséges informatikai környezet biztosítása.
+
+[^1]: Az 1. § (2) bekezdés b) pontja a 43/2021. (IX. 8.) ITM rendelet 30. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés g) pontja a 43/2021. (IX. 8.) ITM rendelet 30. § (2) bekezdésével megállapított szöveg.
