@@ -8,6 +8,9 @@ b) a képzésben, a képzés témakörének megfelelően egyaránt alkalmazható
 
 c) az üzemeltetési szabályok, jelzési szituációk oktatásánál a szóbeli közlés mellett törekedni kell a téma bemutatására, a képzés során az ismeretek elsajátításának folyamatos mérésére elfogadott az interaktív számítógépes ellenőrzés;
 
-d)[^39] a járművezetők képzése során ajánlott, de nem kötelező szimulációs berendezések használata, különösen a szokatlan munkakörülmények és ritkán alkalmazott szabályok oktatásánál, valamint olyan eseményekkel (így különösen rendkívüli események, vészhelyzet) kapcsolatos gyakorlati oktatás során, amelyeket munkavégzés közben nem lehet bemutatni; az útvonalismeret elsajátítását illetően, a 3. melléklet Járművezető alapképzés táblázataiban meghatározott, más járművezető felügyelete mellett történő vezetési gyakorlaton felül vagy mellett képzési módszerként felhasználhatók az útvonalat a vezetőfülkében tartózkodó járművezető szemszögéből bemutató videófelvételek, szimulációk.
+d)[^46] a járművezetők képzése során ajánlott, de nem kötelező szimulációs berendezések használata, különösen a szokatlan munkakörülmények és ritkán alkalmazott szabályok oktatásánál, valamint olyan eseményekkel (így különösen rendkívüli események, vészhelyzet) kapcsolatos gyakorlati oktatás során, amelyeket munkavégzés közben nem lehet bemutatni; az útvonalismeret elsajátítását illetően, a 3. melléklet Járművezető alapképzés táblázataiban meghatározott, más járművezető felügyelete mellett történő vezetési gyakorlaton felül vagy mellett képzési módszerként felhasználhatók az útvonalat a vezetőfülkében tartózkodó járművezető szemszögéből bemutató videófelvételek, szimulációk.
 
-[^39]: A 7. § d) pontja a 3/2019. (II. 27.) ITM rendelet 2. §-ával megállapított szöveg.
+e)[^47] a képzési módszertani központ által a honlapján Útmutató formájában közzétett, a 3. melléklet szerinti képzések esetében a bemeneti feltételeket, az egyes témakörökben, tantárgyakban a zárt rendszerű elektronikus távoktatás alkalmazhatóságát, valamint az elméleti és gyakorlati óraszámokat tartalmazó feltételrendszernek megfelelően az alapképzésben a zárt rendszerű elektronikus távoktatás is alkalmazható.
+
+[^46]: A 7. § d) pontja a 3/2019. (II. 27.) ITM rendelet 2. §-ával megállapított szöveg.
+[^47]: A 7. § e) pontját a 43/2021. (IX. 8.) ITM rendelet 7. §-a iktatta be.

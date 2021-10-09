@@ -1,6 +1,6 @@
 ## 15. A képzésben részt vevő alapvizsgára bocsátásának feltételei
 
-18. §[^99] (1) A képzésben részt vevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgáztató szervezetnek vizsgára bejelentette és a vizsgadíja megfizetésre került.
+18. §[^110] (1) A képzésben részt vevő akkor bocsátható alapvizsgára, ha a képzőszervezet őt a vizsgáztató szervezetnek vizsgára bejelentette és a vizsgadíja megfizetésre került.
 
 (2) A vizsgabejelentésnek a vizsga tervezett időpontja előtt legkésőbb a 10. munkanapig kell beérkeznie a vizsgaközpontba, a vizsgabejelentés beérkezését követő 9 munkanapon belüli időpontra vizsgaidőpont nem jelölhető ki. A vizsgabejelentéssel kapcsolatos módosítások a vizsga tervezett időpontját megelőző 5. munkanapig kérhetők, amelyeket a vizsgaközpont új bejelentésként kezel. A vizsga törlése a vizsga tervezett időpontját megelőző 5. munkanapig – az eltérés alapvizsga kivételével az alapképzést követő első alapvizsga esetén a vizsga tervezett időpontját megelőző 2. munkanapig – kérhető.
 
@@ -20,4 +20,4 @@ b) megfelelt a 12. §-ban meghatározott képzésben való részvétel feltétel
 
 (8) A képzésben részt vevő indokolt esetben az alapvizsga halasztását kérheti. A halasztás iránti kérelmet a vizsgaközpont akkor fogadja el, ha a képzésben részt vevő rajta kívülálló okból vagy egyéb méltányolható körülmény alapján kéri a halasztást. Az engedélyezett halasztás időtartama az egy évet nem haladhatja meg.
 
-[^99]: A 18. § a 7/2018. (VII. 26.) ITM rendelet 6. §-ával megállapított szöveg.
+[^110]: A 18. § a 7/2018. (VII. 26.) ITM rendelet 6. §-ával megállapított szöveg.

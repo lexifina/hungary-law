@@ -4,9 +4,9 @@
 
 1.[^4] alapképzés: az 1. mellékletben meghatározott, a vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő feladatkör ellátására irányuló munkakör betöltésére alkalmas személyt önálló munkavégzésre felkészítő, elméleti és gyakorlati ismereteket nyújtó, szervezett, a rendeletben meghatározott vizsgával záruló képzés;
 
-2.[^5] időszakos oktatás: az 1. mellékletben meghatározott munkakör betöltéséhez, feladatkör ellátásához szükséges, a vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő ismeretek szinten tartása, és új ismeretek elsajátítása céljából, a 2. mellékletben meghatározott időtartamban és gyakorisággal szervezett elméleti és gyakorlati oktatás;
+2.[^5] időszakos oktatás: az 1. mellékletben meghatározott munkakör betöltéséhez, feladatkör ellátásához szükséges, a vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő ismeretek szinten tartása céljából, a 2. mellékletben meghatározott időtartamban és gyakorisággal szervezett kontaktórás, illetve zárt rendszerű elektronikus távoktatási formában történő elméleti, valamint gyakorlati oktatás;
 
-3.[^6] üzemvezetői munkakörök: vasúti társaságoknál az 1. mellékletben meghatározott feladatkört ellátó vasútüzem-vezető, mozgólépcső üzemvezető, különleges kötöttpályás üzemvezető, turisztikai hajtány üzemvezető munkakörben foglalkoztatott munkavállalók;
+3.[^6] üzemvezetői munkakör: az 1. mellékletben meghatározott feladatkörök ellátására irányuló vasútüzem-vezető, mozgólépcső üzemvezető, különleges kötöttpályás üzemvezető, turisztikai hajtány üzemvezető munkakör;
 
 4. vasúti járművezetői gyakorlat: a vasúti járművezetői tevékenység önálló végzéséhez szükséges, a sikeres alapvizsga után a 3. mellékletben meghatározott gyakorlat teljesítése más vasúti járművezető kísérete mellett;
 
@@ -38,13 +38,25 @@
 
 18.[^18] különleges kötöttpályás közlekedési szakmai oktató: az alapképzésben vagy az időszakos oktatáson a különleges kötöttpályás közlekedés biztonságával összefüggő témaköröket oktató személy;
 
-19.[^19] vizsgáztató szervezet: a vasúti vizsgaközpont, valamint a típusismeret, a vonal- és az állomásismeret modulok esetében a vasúti társaság, a különleges kötöttpályás közlekedési rendszerek esetében – a különleges kötöttpályás üzemvezető, a turisztikai hajtány üzemvezető, a különleges kötöttpályás közlekedési szakmai oktató, a vasúti járművezető, a forgalmi szolgálattevő munkakörök, valamint az általános forgalmi és az önállósító forgalmi vizsga kivételével – a különleges kötöttpályás közlekedési rendszer üzemvezetője;
+19.[^19] vizsgáztató szervezet: a Kormány rendeletében kijelölt vasúti vizsgaközpont, a vasúti társaság és a különleges kötöttpályás közlekedési rendszer üzemeltetését végző társaság;
 
-20.[^20] vasúti társasági vizsga: a vasúti társaság vagy különleges kötöttpályás közlekedési rendszer üzemvezetője mint vizsgáztató szervezet által lebonyolított vizsga.
+20.[^20] vasúti társasági vizsga: a vasúti társaság által a hatóságnak bejelentett, a 3. melléklet I/A., II.1/A., V.2.2., V.3.2. pontja szerinti – a vasúti társaság biztonságirányítási rendszerében megjelenített – vizsga;
+
+21.[^21] alapképesítés: az alapképzés és az ahhoz kapcsolódó vizsgakötelezettség sikeres teljesítésével megszerzett kompetencia;
+
+22.[^22] digitális oktatási anyag: kontaktórás képzés során alkalmazott – zárt rendszerű elektronikus távoktatásban alkalmazott digitális tananyagnak nem minősülő – digitális formában közölhető tananyag;
+
+23.[^23] e-learning képzés: e rendelet vagy más jogszabály alapján a hatóság által jóváhagyott zárt rendszerű elektronikus távoktatási formában, zárt rendszerű elektronikus képzésmenedzsment rendszer alkalmazása mellett tartott online tanfolyam;
+
+24.[^24] Közlekedési Szakértői Testület: a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló kormányrendeletben meghatározott Közlekedési Szakértői Testület;
+
+25.[^25] zárt rendszerű elektronikus távoktatás: a felnőttképzésről szóló törvényben (a továbbiakban: Fktv.) ekként meghatározott fogalom;
+
+26.[^26] zárt rendszerű távoktatási képzésmenedzsment rendszer: az Fktv.-ben ekként meghatározott fogalom.
 
 [^4]: A 2. § 1. pontja a 7/2018. (VII. 26.) ITM rendelet 16. § 1. pontja szerint módosított szöveg.
-[^5]: A 2. § 2. pontja a 7/2018. (VII. 26.) ITM rendelet 16. § 1. pontja szerint módosított szöveg.
-[^6]: A 2. § 3. pontja a 10/2012. (II. 15.) NFM rendelet 1. § (1) bekezdésével megállapított, a 33/2016. (VIII. 2.) NFM rendelet 33. § a) pontja, a 7/2018. (VII. 26.) ITM rendelet 16. § 3. pontja szerint módosított szöveg.
+[^5]: A 2. § 2. pontja a 43/2021. (IX. 8.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § 3. pontja a 43/2021. (IX. 8.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § 7. pontja a 7/2018. (VII. 26.) ITM rendelet 16. § 4. pontja szerint módosított szöveg.
 [^8]: A 2. § 8. pontja a 22/2015. (V. 6.) NFM rendelet 39. § a) pontja, a 20/2017. (VI. 22.) NFM rendelet 15. § a) pontja, a 7/2018. (VII. 26.) ITM rendelet 16. § 4. pontja szerint módosított szöveg.
 [^9]: A 2. § 9. pontját a 10/2012. (II. 15.) NFM rendelet 1. § (2) bekezdése iktatta be, szövege a 7/2018. (VII. 26.) ITM rendelet 16. § 5. pontja szerint módosított szöveg.
@@ -57,5 +69,11 @@
 [^16]: A 2. § 16. pontját a 20/2017. (VI. 22.) NFM rendelet 7. §-a iktatta be.
 [^17]: A 2. § 17. pontját a 20/2017. (VI. 22.) NFM rendelet 7. §-a iktatta be.
 [^18]: A 2. § 18. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be.
-[^19]: A 2. § 19. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be, szövege a 45/2019. (XII. 20.) ITM rendelet 39. §-ával megállapított szöveg.
-[^20]: A 2. § 20. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be.
+[^19]: A 2. § 19. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. § 20. pontját a 7/2018. (VII. 26.) ITM rendelet 1. §-a iktatta be, szövege a 43/2021. (IX. 8.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^21]: A 2. § (2) bekezdés 21. pontját a 43/2021. (IX. 8.) ITM rendelet 2. § (3) bekezdése iktatta be.
+[^22]: A 2. § (2) bekezdés 22. pontját a 43/2021. (IX. 8.) ITM rendelet 2. § (3) bekezdése iktatta be.
+[^23]: A 2. § (2) bekezdés 23. pontját a 43/2021. (IX. 8.) ITM rendelet 2. § (3) bekezdése iktatta be.
+[^24]: A 2. § (2) bekezdés 24. pontját a 43/2021. (IX. 8.) ITM rendelet 2. § (3) bekezdése iktatta be.
+[^25]: A 2. § (2) bekezdés 25. pontját a 43/2021. (IX. 8.) ITM rendelet 2. § (3) bekezdése iktatta be.
+[^26]: A 2. § (2) bekezdés 26. pontját a 43/2021. (IX. 8.) ITM rendelet 2. § (3) bekezdése iktatta be.

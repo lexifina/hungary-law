@@ -1,4 +1,4 @@
-6. melléklet a 19/2011. (V. 10.) NFM rendelethez[^219]
+6. melléklet a 19/2011. (V. 10.) NFM rendelethez[^234]
 
 ## Az országos jelentőségű vasútvonalakon vonatokat közlekedtető vasúti járművezető képzés céljai, és követelményei
 
@@ -254,4 +254,4 @@ A képzési programok az előzőeken túl tartalmazhatják az a transzeurópai v
 
 3.1. A mozdonyvezetők nyelvi követelményeit a közösségi vasúti rendszereken mozdonyokat és vonatokat működtető mozdonyvezetők minősítéséről szóló 2007/59/EK európai parlamenti és tanácsi irányelv VI. mellékletének módosításáról szóló, 2019. április 5-i (EU) 2019/554 bizottsági rendelet tartalmazza.
 
-[^219]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja, a 20/2020. (VI. 24.) ITM rendelet 9. §-a, a 43/2021. (IX. 8.) ITM rendelet 25. § (3) bekezdése szerint módosított szöveg.
+[^234]: A 6. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (5) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés b) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (4) bekezdése és 32. § a) pontja, a 20/2020. (VI. 24.) ITM rendelet 9. §-a, a 43/2021. (IX. 8.) ITM rendelet 25. § (3) bekezdése szerint módosított szöveg.
