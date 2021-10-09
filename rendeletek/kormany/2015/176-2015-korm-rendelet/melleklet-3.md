@@ -1,4 +1,4 @@
-3. melléklet a 176/2015. (VII. 7.) Korm. rendelethez[^22]
+3. melléklet a 176/2015. (VII. 7.) Korm. rendelethez[^23]
 
 ## A személyszállító szolgáltatáshoz használt személygépkocsira vonatkozó követelmények
 
@@ -38,4 +38,4 @@
 
 2.5. a személygépkocsi tetején rögzített, TAXI szót tartalmazó „taxi szabadjelző” berendezés, amelynek megvilágítása – eltérő színű vészvillogtatást kivéve – a viteldíjjelző készülék „foglalt” állásában nem működtethető.
 
-[^22]: A 3. melléklet a 8/2016. (II. 9.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^23]: A 3. melléklet a 8/2016. (II. 9.) Korm. rendelet 16. §-a szerint módosított szöveg.
