@@ -1,3 +1,3 @@
-## 17. §[^17]
+## 17. § Az R1. 33. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^17]: A 17. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(5) A vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő munkakör vonatkozásában létesített új munkaviszony esetén az új foglalkoztató vasúti társaság jogosult a munkavállaló képzettségének, képesítéseinek, tapasztalatának és szakmai alkalmasságának bizonyítékául szolgáló összes okmány megismerésére, adattartalmának kezelésére, tárolására. Az új foglalkoztató vasúti társaság a vasúti társasági vizsgák esetében, a vizsgaszabályzatában rögzített eljárásrend szerint figyelembe veheti a más társaságnál a társasági vizsgákon megszerzett képesítéseket. A vizsgaközpont a munkavállaló vasúti társasági vizsgáinak elismeréséről a vizsgaközpont vizsgaszabályzatában rögzítettek alapján dönt.”

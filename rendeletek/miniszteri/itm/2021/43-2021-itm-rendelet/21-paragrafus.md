@@ -1,3 +1,3 @@
-## 20. §[^20]
+## 20. § Az R1. 35/C. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^20]: A 20. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(2) A vasúti jármű üzembentartója az előzetes képzési program alapján megszervezi a vizsgabiztosok, vasútszakmai oktatók, különleges kötöttpályás közlekedési szakmai oktatók és más vasúti járművön gyakorlatot szerzett vasúti járművezetők részére a vasúti járműismeretre vonatkozó elméleti képzést. Kontaktórás képzés során digitális tananyag, valamint oktatófilm abban az esetben alkalmazható, ha a képzési módszertani központ jóváhagyta, amelynek során a képzési módszertani központ a digitális tananyagnak, valamint az oktatófilmnek az adott képzés vasútszakmai tartalmának való megfelelőségét vizsgálja. Ezen a képzésen a résztvevők száma a hatóság engedélye nélkül a 30 főt nem haladhatja meg. A képzés megtartásához nem szükséges vasútszakmai oktató, különleges kötöttpályás közlekedési szakmai oktató.”

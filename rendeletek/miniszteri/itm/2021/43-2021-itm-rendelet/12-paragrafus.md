@@ -1,3 +1,1 @@
-## 11. §[^11]
-
-[^11]: A 11. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(6) A rendelet 3. mellékletében meghatározott alapképzéseken részt vevők vizsgáztatásához a vizsgatételek, vizsgakérdések, vizsgafeladatok összeállításához a szükséges utasításokat, kiegészítő utasításokat, végrehajtási utasításokat, segédkönyveket, valamint a kapcsolódó szabályozásokat, rendelkezéseket, kezelési szabályzatokat (távközlő-, biztosítóberendezés) és azok módosításait a jóváhagyást követő 30 napon belül az utasítás kezelője, felelőse köteles a képzési módszertani központ és a vasúti vizsgaközpont részére megküldeni. A vasúti járművek üzemeltetési leírásait és azok módosításait a jármű üzemeltetője a járművet érintő típusismereti képzéseket megelőző legkésőbb 30. napig elkészíti, és a képzési és módszertani központnak, valamint a vizsgaközpontnak megküldi.”

@@ -1,3 +1,3 @@
-## 19. §[^19]
+## 19. § Az R1. 35/B. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^19]: A 19. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(2) A vasúti társaság, amelynek munkavállalói számára az átalakított vasúti pályahálózat-ismeret a munkavégzésnek feltétele, az előképzési program alapján megszervezi a vizsgabiztosok, vasútszakmai oktatók, különleges kötöttpályás közlekedési szakmai oktatók és a munkavállalók részére a vasúti pályahálózat-ismeretre vonatkozó elméleti képzést, az Fktv.-ben foglaltakra is figyelemmel. Kontaktórás képzés során digitális tananyag, valamint oktatófilm abban az esetben alkalmazható, ha a képzési módszertani központ jóváhagyta, amelynek során a képzési módszertani központ a digitális tananyagnak, valamint az oktatófilmnek az adott képzés vasútszakmai tartalmának való megfelelőségét vizsgálja. Az elméleti képzést az előképzési program alapján bármely vasútszakmai oktató vagy különleges kötöttpályás közlekedési szakmai oktató is megtarthatja, akinek általános vasúti pályahálózat-ismereti vagy forgalmi képesítése van.”

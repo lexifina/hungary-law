@@ -1,3 +1,3 @@
-## 13. §[^13]
+## 13. § Az R1. 20. §-a a következő (4) bekezdéssel egészül ki:
 
-[^13]: A 13. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(4) A felfüggesztéshez kapcsolódó eltiltás időtartama a 21. § (4) bekezdésében, valamint a 31. § (5) bekezdésében meghatározott határidőbe nem számít bele.”

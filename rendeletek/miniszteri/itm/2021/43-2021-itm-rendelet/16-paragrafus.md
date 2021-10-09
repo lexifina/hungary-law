@@ -1,3 +1,3 @@
-## 15. §[^15]
+## 15. § Az R1. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^15]: A 15. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(3) A 2. mellékletben meghatározott óraszámú oktatás elméleti ismeretei zárt rendszerű elektronikus távoktatás keretében, vasútszakmai oktató és a különleges kötöttpályás közlekedési szakmai oktató jelenléte nélkül is megtarthatóak.”

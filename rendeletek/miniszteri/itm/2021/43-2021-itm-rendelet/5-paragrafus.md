@@ -1,3 +1,3 @@
-## 4. §[^4]
+## 4. § Az R1. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^4]: A 4. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(1) Alapképzés végzésére az e rendeletben meghatározott személyi és tárgyi feltételeket teljesítő, a hatóság által az alapképzést végző szolgáltatók nyilvántartásába vett gazdálkodó szervezet (a továbbiakban: képzőszervezet) jogosult.”

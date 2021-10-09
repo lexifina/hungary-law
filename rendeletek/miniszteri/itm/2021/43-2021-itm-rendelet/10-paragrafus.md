@@ -1,3 +1,1 @@
-## 9. §[^9]
-
-[^9]: A 9. § a 31. § (2) bekezdése alapján 2021. október 9-én lép hatályba.
+## „(1a) A gyakorlati vasútszakmai, valamint különleges kötöttpályás közlekedési szakmai oktatók képzését a 4. § szerinti képzőszervezet, a képzés szakmai irányítását a képzési módszertani központ végzi.”
