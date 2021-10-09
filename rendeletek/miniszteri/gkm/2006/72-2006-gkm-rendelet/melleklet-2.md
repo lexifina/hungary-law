@@ -326,4 +326,10 @@ Ft/db
 
 | 30. Vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek tanúsítása, engedélyezése | 1 248 000 |
 
-[^13]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a, a 81/2013. (XII. 23.) NFM rendelet 5. §-a, a 23/2016. (VII. 18.) NFM rendelet 1. §-a és 3. §-a, a 33/2016. (VIII. 2.) NFM rendelet 6. §-a szerint módosított szöveg.
+| 31. Pályázati díj |  |
+
+| a) e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment rendszer és az e-learning rendszerű képzéshez szükséges digitális tananyagok akkreditálása esetén, tananyagonként | 500 000 Ft |
+
+| b) tantárgy témakörök ismeretanyagok akkreditálása | 50 000 Ft |
+
+[^13]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a, a 81/2013. (XII. 23.) NFM rendelet 5. §-a, a 23/2016. (VII. 18.) NFM rendelet 1. §-a és 3. §-a, a 33/2016. (VIII. 2.) NFM rendelet 6. §-a, a 43/2021. (IX. 8.) ITM rendelet 1. §-a szerint módosított szöveg.
