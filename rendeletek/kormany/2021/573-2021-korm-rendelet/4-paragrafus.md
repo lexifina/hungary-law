@@ -1,0 +1,3 @@
+## 3. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 23/C. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+## „(9) A képzési hitel tekintetében a tanulói jogviszony, illetve a felnőttképzési jogviszony fennállását a Diákhitel szervezet a szakképzés információs rendszerén, illetve a felnőttképzés adatszolgáltatási rendszerén keresztül ellenőrzi. A jogviszony fennálltának ellenőrzéséhez a Diákhitel szervezet a képzésben részt vevőtől, a szakképző intézménytől és a felnőttképzőtől adatokat kérhet be a jogosultsági feltételek fennállásával, a képzéssel és a hitelfelvevő képzésben való részvételével összefüggésben.”
