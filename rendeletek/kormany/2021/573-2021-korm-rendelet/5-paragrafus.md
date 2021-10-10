@@ -1,5 +1,0 @@
-## 4. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 13/A. Képzési hitel alcíme a következő 23/F. §-sal egészül ki:
-
-## „23/F. § (1) A Diákhitel szervezet a képzési hitel igény elbírálását vagy a képzési hitel folyósítását legfeljebb 30 napra felfüggeszti, ha a képzési hitel igénylésével vagy felvételével kapcsolatban felmerül a jóhiszeműség és tisztesség elve sérelmének gyanúja. A felfüggesztésről a Diákhitel szervezet a képzésben részt vevőt tájékoztatja.
-
-## (2) Az (1) bekezdés szerinti felfüggesztés időtartama alatt a Diákhitel szervezet tájékoztatást, adatot kérhet a képzésben részt vevőtől, a szakképző intézménytől, a felnőttképzőtől a jogosultsági feltételek fennállásával, a képzéssel és a hitelfelvevő képzésben való részvételével összefüggésben, vagy megkeresi a szakképző intézmény, felnőttképző felügyeletét ellátó szervet. Ha a felügyeleti szerv a megkeresést követően eljárást indít, az (1) bekezdés szerinti felfüggesztés időtartama meghosszabbítható az eljárás lefolytatásának időtartamával. A meghosszabbításról a Diákhitel szervezet a képzésben részt vevőt tájékoztatja.”
