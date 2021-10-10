@@ -1,4 +1,4 @@
-## 9. §[^8]
+## 9. §[^9]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–4. §, a 6–9. § 2022. január 1. napján lép hatályba.
 
-[^8]: A 9. § a 10. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^9]: A 9. § a 10. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
