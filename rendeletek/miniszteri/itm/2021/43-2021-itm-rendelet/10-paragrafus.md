@@ -1,1 +1,3 @@
-## „(1a) A gyakorlati vasútszakmai, valamint különleges kötöttpályás közlekedési szakmai oktatók képzését a 4. § szerinti képzőszervezet, a képzés szakmai irányítását a képzési módszertani központ végzi.”
+## 9. §[^10]
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

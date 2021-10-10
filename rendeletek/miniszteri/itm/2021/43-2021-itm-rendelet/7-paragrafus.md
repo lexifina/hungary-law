@@ -1,3 +1,3 @@
-## 6. § Az R1. 6. §-a a következő (7) bekezdéssel egészül ki:
+## 6. §[^7]
 
-## „(7) A kategória modulok közötti átképző képzéseknél a modulra vonatkozó, a 3. mellékletben meghatározott minimális képzési időnél kevesebb is alkalmazható. Az átképző képzések óraszámát a vasúti képzési módszertani központ a hatóság által jóváhagyott Útmutató formájában határozza meg, és a honlapján közzéteszi. Az átképző képzés óraszámának megállapításánál a vasúti képzési módszertani központ figyelembe veszi, hogy a képzésben részt vevők milyen ismeretekkel rendelkeznek. Az így megállapított képzési idő a 3. mellékletben meghatározott minimális képzési idő 50 százalékánál kevesebb nem lehet. A hatóság a jóváhagyás során vizsgálja a jogszabályi előírásoknak, valamint a vasúti közlekedés biztonságának való megfelelést”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

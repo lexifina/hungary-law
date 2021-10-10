@@ -1,3 +1,3 @@
-## 13. § Az R1. 20. §-a a következő (4) bekezdéssel egészül ki:
+## 13. §[^14]
 
-## „(4) A felfüggesztéshez kapcsolódó eltiltás időtartama a 21. § (4) bekezdésében, valamint a 31. § (5) bekezdésében meghatározott határidőbe nem számít bele.”
+[^14]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

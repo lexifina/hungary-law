@@ -1,5 +1,3 @@
-## 7. § Az R1. 7. §-a a következő e) ponttal egészül ki:
+## 7. §[^8]
 
-## (A képzési program kialakítására a következő elvek figyelembevételével kerül sor:)
-
-## „e) a képzési módszertani központ által a honlapján Útmutató formájában közzétett, a 3. melléklet szerinti képzések esetében a bemeneti feltételeket, az egyes témakörökben, tantárgyakban a zárt rendszerű elektronikus távoktatás alkalmazhatóságát, valamint az elméleti és gyakorlati óraszámokat tartalmazó feltételrendszernek megfelelően az alapképzésben a zárt rendszerű elektronikus távoktatás is alkalmazható.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

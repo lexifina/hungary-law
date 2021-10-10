@@ -1,3 +1,3 @@
-## 15. § Az R1. 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 15. §[^16]
 
-## „(3) A 2. mellékletben meghatározott óraszámú oktatás elméleti ismeretei zárt rendszerű elektronikus távoktatás keretében, vasútszakmai oktató és a különleges kötöttpályás közlekedési szakmai oktató jelenléte nélkül is megtarthatóak.”
+[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

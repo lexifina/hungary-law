@@ -1,3 +1,3 @@
-## 18. § Az R1. 35/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 18. §[^19]
 
-## „(2) A vasúti társaság, amelynek munkavállalói számára az új vasúti pályahálózat-ismeret a munkavégzésnek feltétele, az előképzési program alapján megszervezi a vizsgabiztosok, a vasútszakmai oktatók, a különleges kötöttpályás közlekedési szakmai oktatók és a munkavállalók részére a vasúti pályahálózat-ismeretre vonatkozó elméleti képzést, az Fktv.-ben foglaltakra is figyelemmel. Kontaktórás képzés során digitális tananyag, valamint oktatófilm abban az esetben alkalmazható, ha a képzési módszertani központ jóváhagyta, amelynek során a képzési módszertani központ a digitális tananyagnak, valamint az oktatófilmnek az adott képzés vasútszakmai tartalmának való megfelelőségét vizsgálja. Az elméleti képzést az előképzési program alapján bármely vasútszakmai oktató vagy különleges kötöttpályás közlekedési szakmai oktató is megtarthatja, akinek általános vasúti pályahálózat-ismereti vagy forgalmi képesítése van.”
+[^19]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

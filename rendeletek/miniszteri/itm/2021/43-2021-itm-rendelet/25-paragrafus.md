@@ -1,13 +1,18 @@
-## lép.
+## 24. §[^26]
 
-25. § (1) Az R1. 1. melléklete helyébe a 2. melléklet lép.
+25. § (1)[^27]
 
-(2) Az R1. 3. melléklete helyébe a 3. melléklet lép.
+(2)[^28]
 
-(3)[^3]
+(3)[^29]
 
-(4) Az R1. 9. melléklete helyébe az 5. melléklet lép.
+(4)[^30]
 
-(5) Az R1. 10. melléklete helyébe a 6. melléklet lép.
+(5)[^31]
 
-[^3]: A 25. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 25. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 25. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 25. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 25. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 25. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
