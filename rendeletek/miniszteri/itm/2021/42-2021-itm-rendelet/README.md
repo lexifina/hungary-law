@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-42-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-10-09 | 2021-42-20-7Q.1 | 42/2021. (IX. 8.) ITM rendelet |
+| 2021-10-10 | 2021-42-20-7Q.2 | 2010: CXXX. törvény |

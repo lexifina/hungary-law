@@ -1,13 +1,17 @@
-## „(9c) A személygépkocsival végzett személyszállító szolgáltatást végző jármű alkalmassági vizsgálatával és oktató jármű minősítéssel egy eljárásban végzett időszakos műszaki vizsgálatok az országos lefedettséget biztosító műszaki vizsgálóállomásokon is elvégezhetőek.”
+## 3. §[^3]
 
 ## 4. § Az R1.
 
-a)[^1]
+a)[^4]
 
-b) 12. § (9a) bekezdésében a „(9) bekezdés e) pontja” szövegrész helyébe a „(9) bekezdés d) pontja” szöveg,
+b)[^5]
 
-c) 30/A. § a) és c) pontjában a „2022. május 20-ig” szövegrész helyébe a „2022. december 31-ig” szöveg,
+c)[^6]
 
-d) 5. számú melléklet 1.0.5. pontjában a „2022. május 20-ig” szövegrész helyébe a „2022. december 31-ig” szöveg
+d)[^7]
 
-[^1]: A 4. § a) pontja a 8. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § a) pontja a 8. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^5]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
