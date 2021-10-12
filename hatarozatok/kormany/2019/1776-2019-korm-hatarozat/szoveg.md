@@ -8,7 +8,7 @@ a) az állami magasépítési beruházások megvalósításáról szóló 2018. 
 
 b) az Érdi Tankerületi Központ vagyonkezelésébe kerüljenek;
 
-3. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 783 653 862 forintban határozza meg;
+3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 860 333 351 forintban határozza meg;
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2020. évi részének rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások cím, 2. Tanterem fejlesztések előkészítése és megvalósítása alcím javára;
 
@@ -31,3 +31,14 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
+
+7.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2022. évi részének rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt kormányzati magasépítési beruházások címen belül.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+pénzügyminiszter
+
+Határidő: a felmerülés ütemében
+
+[^1]: A 3. pont az 1729/2021. (X. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 7. pontot az 1729/2021. (X. 12.) Korm. határozat 1. pontja iktatta be.
