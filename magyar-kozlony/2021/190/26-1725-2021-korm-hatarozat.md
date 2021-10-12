@@ -1,0 +1,40 @@
+# A Kormány 1725/2021. (X. 12.) Korm. határozata
+
+Magyar Közlöny 2021. évi 190. szám, 2021. október 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/uSalL8W4BaVbCsYIgzG36160a848843ea/dokumentumok/d396f8d5e0a56a7e25b37ed4e221c78552304846/letoltes)
+
+---
+
+A Kormány 1725/2021. (X. 12.) Korm. határozata
+a makói kézilabda munkacsarnok építéséről
+A Kormány a Kézilabda Munkacsarnok-fejlesztési Programmal kapcsolatos intézkedésekről szóló 1278/2017. (VI. 2.)
+Korm. határozatban foglaltak végrehajtása érdekében
+1. egyetért a makói kézilabda munkacsarnok (a továbbiakban: Beruházás) programszerű kormányzati magasépítési
+beruházásként történő megvalósításával az ingatlan-nyilvántartás szerinti Makó belterület 8054/2 helyrajzi
+számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok
+vagyonkezelésébe kerüljenek;
+2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló
+1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség
+által vállalható kötelezettség összegét 1 383 594 261 forintban határozza meg;
+3. felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezése
+alapján gondoskodjon a 2. pont szerinti összeg 2021. évi részének finanszírozása érdekében 127 677 423 forint
+rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet
+XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési
+Beruházások cím, 2. Programszerű magasépítési beruházások alcím, 5. Kézilabda Munkacsarnok fejlesztések
+megvalósítása jogcímcsoport javára;
+Felelős: pénzügyminiszter
+nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+Határidő: a felmerülés ütemében
+4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával
+gondoskodjon a 2. pont szerinti összeg 2022–2023. évi részeinek rendelkezésre állásáról, az alábbiak szerint:
+a) a 2022. évben a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet
+XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési
+Beruházások címen belül,
+
+b) a 2023. év tekintetében a 2023. évi központi költségvetés kiemelt kormányzati magasépítési beruházásokat
+finanszírozó fejezetében.
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+pénzügyminiszter
+Határidő: az a) alpont tekintetében a felmerülés ütemében
+a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során
+ Orbán Viktor s. k.,
+ miniszterelnök
