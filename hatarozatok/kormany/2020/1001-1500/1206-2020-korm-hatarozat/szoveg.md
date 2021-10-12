@@ -17,3 +17,16 @@ Határidő: azonnal
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2020. május 31.
+
+5.[^1] egyetért a Program keretében az 1. pont szerinti energiahatékonysági beruházásnak az Országos Kórházi Főigazgatóság által fenntartott állami egészségügyi közszolgáltatást kiszolgáló ingatlanokra történő kiterjesztésével;
+
+6.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával tegye meg a szükséges intézkedéseket az 5. pontban meghatározott cél elérése érdekében.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+emberi erőforrások minisztere
+
+Határidő: a felmerülés ütemében
+
+[^1]: Az 5. pontot az 1718/2021. (X. 12.) Korm. határozat iktatta be.
+[^2]: A 6. pontot az 1718/2021. (X. 12.) Korm. határozat iktatta be.
