@@ -1,6 +1,6 @@
 A Kormány a hazai sertéságazat genetikai hátterének megőrzése, kutatása és fejlesztése, ezáltal az ágazat hosszú távú versenyképességének elősegítése érdekében
 
-1.[^1] egyetért a Keszthelyi magyar nagyfehér hússertés génmegőrzése című projektnek a 2018–2021 közötti időszakban, 1 827 589 140 forint költségvetési támogatással történő megvalósításával;
+1.[^1] egyetért a Keszthelyi magyar nagyfehér hússertés génmegőrzése című projektnek a 2018–2021 közötti időszakban, 2 327 589 140 forint költségvetési támogatással történő megvalósításával;
 
 2. felhívja az agrárminisztert, hogy a pénzügyminiszter egyetértésével gondoskodjon a projekt megkezdéséhez szükséges 154 500 000 forint támogatás forrásának a Magyarország 2018. évi központi költségvetéséről szóló 2017. évi C. törvény (a továbbiakban: 2018. évi Kvtv.) 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 2. Agrárkutatás támogatása jogcímcsoport javára történő átcsoportosításáról;
 
@@ -36,7 +36,7 @@ Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-6a.[^3] felhívja a pénzügyminisztert, hogy gondoskodjon a projekt 2021. évi befejezéséhez szükséges 322 370 000 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Mezőgazdasági feladatok alcím, 2. Mezőgazdasági szakmai feladatok jogcímcsoport javára;
+6a.[^3] felhívja a pénzügyminisztert, hogy gondoskodjon a projekt 2021. évi befejezéséhez szükséges 822 370 000 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Mezőgazdasági feladatok alcím, 2. Mezőgazdasági szakmai feladatok jogcímcsoport javára;
 
 Felelős: pénzügyminiszter
 
@@ -54,7 +54,7 @@ Felelős: agrárminiszter
 
 Határidő: a Korm. határozat 6. pontjának végrehajtását követően azonnal
 
-[^1]: Az 1. pont az 1903/2020. (XII. 14.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1903/2020. (XII. 14.) Korm. határozat 2. pont a) alpontja, az 1730/2021. (X. 12.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^2]: A 6. pont az 1903/2020. (XII. 14.) Korm. határozat 2. pont b) alpontjával megállapított szöveg.
-[^3]: A 6a. pontot az 1903/2020. (XII. 14.) Korm. határozat 2. pont c) alpontja iktatta be.
+[^3]: A 6a. pontot az 1903/2020. (XII. 14.) Korm. határozat 2. pont c) alpontja iktatta be, szövege az 1730/2021. (X. 12.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^4]: A 8. pontot az 1903/2020. (XII. 14.) Korm. határozat 2. pont d) alpontja iktatta be.
