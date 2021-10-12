@@ -1,6 +1,6 @@
 ## 1. egyetért a pannonhalmi tanuszoda programszerű kormányzati magasépítési beruházásként történő megvalósításával (a továbbiakban: Beruházás) az ingatlan-nyilvántartás szerinti Pannonhalma belterület 473/5 helyrajzi számú ingatlanon, azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Nemzeti Sportközpontok vagyonkezelésébe kerüljenek;
 
-## 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 108 839 274 forintban határozza meg;
+## 2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 127 747 631 forintban határozza meg;
 
 ## 3. a 2. pont szerinti összeg 2020. évi részének finanszírozása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 542 542 824 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
 
@@ -29,6 +29,14 @@
 ## Felelős: emberi erőforrások minisztere
 
 ## Határidő: 2020. április 30.
+
+## 7.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a pannonhalmi tanuszoda építéséről szóló 1082/2020. (III. 5.) Korm. határozat módosításáról szóló 1726/2021. (X. 12.) Korm. határozattal módosított 2. pont szerinti összeg 2021. évi részének részbeni finanszírozása érdekében 18 908 357 forint rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 2. Programszerű magasépítési beruházások alcím, 4. Tanuszoda fejlesztések megvalósítása jogcímcsoport javára.
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## pénzügyminiszter
+
+## Határidő: a felmerülés ütemében
 
 1. melléklet az 1082/2020. (III. 5.) Korm. határozathoz
 
@@ -86,4 +94,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 2. pont az 1978/2020. (XII. 22.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1978/2020. (XII. 22.) Korm. határozat 4. pontja, az 1726/2021. (X. 12.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 7. pontot az 1726/2021. (X. 12.) Korm. határozat 1. pontja iktatta be.
