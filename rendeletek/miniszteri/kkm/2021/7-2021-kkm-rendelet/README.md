@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-7-20-6Q
 | 2021-07-13 | 2021-7-20-6Q.15 | 27/2021. (VII. 12.) KKM rendelet |
 | 2021-07-24 | 2021-7-20-6Q.16 | 29/2021. (VII. 23.) KKM rendelet |
 | 2021-08-01 | 2021-7-20-6Q.17 | 29/2021. (VII. 23.) KKM rendelet |
+| 2021-10-12 | 2021-7-20-6Q.18 | 34/2021. (X. 11.) KKM rendelet |
