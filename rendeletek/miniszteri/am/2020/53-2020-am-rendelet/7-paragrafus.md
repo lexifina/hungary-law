@@ -42,7 +42,7 @@ af) a borászati gép, technológiai berendezés műszaki adatait tartalmazó, a
 
 ## másolatát;
 
-b)[^12] a kérelmező nyilatkozatát a borászati üzem – beruházást megelőző, valamint a borászati gép, technológiai berendezés üzembe helyezését követő – erjesztő- és tárolókapacitásáról;
+b)[^14] a kérelmező nyilatkozatát a borászati üzem – beruházást megelőző, valamint a borászati gép, technológiai berendezés üzembe helyezését követő – erjesztő- és tárolókapacitásáról;
 
 c) a gazdasági aktát vezető hegybíró igazolását arról, hogy a kérelmező a 127/2009. (IX. 29.) FVM rendeletben meghatározott szüreti, termelési vagy készletjelentési kötelezettségének a kifizetési kérelem benyújtását megelőző borpiaci évben határidőben eleget tett;
 
@@ -68,7 +68,7 @@ m) a kérelmező 3. § (1) bekezdés f) pontja szerinti nyilatkozatait és
 
 n) a kérelmező nyilatkozata szerinti energiahatékonysági célokat szolgáló beruházás esetén a 8. § szerinti igazolást.
 
-(4)[^13] Az (1) bekezdés szerint benyújtott kifizetési kérelmek vonatkozásában a 3. §-ban, a 4. § (4)–(6) és (9)–(10) bekezdésében, valamint az 5. § (1)–(4) bekezdésében foglalt, a támogatási kérelemre vonatkozó rendelkezéseket a kifizetési kérelemre is alkalmazni kell.
+(4)[^15] Az (1) bekezdés szerint benyújtott kifizetési kérelmek vonatkozásában a 3. §-ban, a 4. § (4)–(6) és (9)–(10) bekezdésében, valamint az 5. § (1)–(4) bekezdésében foglalt, a támogatási kérelemre vonatkozó rendelkezéseket a kifizetési kérelemre is alkalmazni kell.
 
-[^12]: A 7. § (3) bekezdés b) pontja a 18/2021. (IV. 14.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^13]: A 7. § (4) bekezdése a 18/2021. (IV. 14.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.
+[^14]: A 7. § (3) bekezdés b) pontja a 18/2021. (IV. 14.) AM rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^15]: A 7. § (4) bekezdése a 18/2021. (IV. 14.) AM rendelet 39. § (2) bekezdésével megállapított szöveg.

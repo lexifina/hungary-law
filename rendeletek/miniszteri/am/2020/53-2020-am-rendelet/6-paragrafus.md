@@ -76,14 +76,16 @@ c) a beszerzett borászati gép, technológiai berendezés nem kerül a kérelme
 
 d) legkésőbb a kifizetési kérelem benyújtásának napjáig nem történik meg az üzemeltetési helyen az üzembe helyezés,
 
-e) borászati gép, technológiai berendezés vagy annak bármely, egy ajánlattevőtől származó eleme esetében a gyártástól a kifizetési kérelem benyújtásáig két évnél több idő telt el, illetve
+e)[^11] borászati gép, technológiai berendezés vagy annak bármely, egy ajánlattevőtől származó eleme esetében a gyártás éve és a kifizetési kérelem benyújtásának éve között két évnél több idő telt el,
 
-f) a borászati gép, technológiai berendezés nem tartalmaz egyedi azonosításra alkalmas jelölést.
+f)[^12] a borászati gép, technológiai berendezés nem tartalmaz egyedi azonosításra alkalmas jelölést, vagy
 
-g)[^11] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
+g)[^13] a támogatási kérelemmel jóváhagyott beruházást teljes egészében nem hajtották végre.
 
 [^7]: A 6. § (1) bekezdés a) pontja a 22/2021. (VI. 3.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^8]: A 6. § (1a) bekezdését a 22/2021. (VI. 3.) AM rendelet 5. § (2) bekezdése iktatta be.
 [^9]: A 6. § (3) bekezdése a 22/2021. (VI. 3.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^10]: A 6. § (5) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 38. § (1) bekezdésével megállapított szöveg.
-[^11]: A 6. § (11) bekezdés g) pontját a 18/2021. (IV. 14.) AM rendelet 38. § (2) bekezdése iktatta be.
+[^11]: A 6. § (11) bekezdés e) pontja a 35/2021. (X. 23.) AM rendelet 8. §-ával megállapított szöveg.
+[^12]: A 6. § (11) bekezdés f) pontja a 35/2021. (X. 23.) AM rendelet 8. §-ával megállapított szöveg.
+[^13]: A 6. § (11) bekezdés g) pontját a 18/2021. (IV. 14.) AM rendelet 38. § (2) bekezdése iktatta be.
