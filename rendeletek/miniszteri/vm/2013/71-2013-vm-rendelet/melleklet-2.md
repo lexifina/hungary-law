@@ -1,4 +1,4 @@
-## Az igazgatási szolgáltatási díjak összege
+## 3K88770M_0
 
 |  | A | B |
 
@@ -20,7 +20,7 @@
 
 2. melléklet a 71/2013. (VIII. 15.) VM rendelethez
 
-## A konzultációért fizetendő díj és számítási módja
+A konzultációért fizetendő díj és számítási módja
 
 1. A konzultációs óradíj: 18 000 forint/óra.
 

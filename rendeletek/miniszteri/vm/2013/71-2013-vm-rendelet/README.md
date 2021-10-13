@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-71-20-2
 | 2014-01-29 | 2013-71-20-2Y.2 | 135/2013. (XII. 29.) VM rendelet |
 | 2015-01-01 | 2013-71-20-2Y.3 | 42/2014. (XII. 29.) FM rendelet |
 | 2017-01-01 | 2013-71-20-2Y.4 | 89/2016. (XII. 29.) FM rendelet |
+| 2021-10-13 | 2013-71-20-2Y.5 | 89/2016. (XII. 29.) FM rendelet |
