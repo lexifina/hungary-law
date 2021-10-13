@@ -1,3 +1,3 @@
-4. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^10]
+4. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^12]
 
-[^10]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

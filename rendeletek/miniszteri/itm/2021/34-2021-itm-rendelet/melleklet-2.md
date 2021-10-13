@@ -4,23 +4,23 @@
 
 | 1. | Tevékenység | Választható szakma (részszakma), szakképesítés vagy jogszabály alapján szervezett képzésben szerzett képesítés önálló tevékenység esetén | Nem önálló tevékenység a B., D. vagy E. oszlopban szereplő követelmény nélkül végezhető | Korábbi jogszabályban előírt szakma, szakképesítés, egyéb képesítés | Szakma (részszakma), szakképesítés, egyéb képesítés helyett a szakiránynak megfelelő más szakma, szakképesítés vagy magasabb szintű szakirányú végzettség, képesítés elfogadhatósága |
 
-| 2. | 21 MW-nál, illetve 30 t/h tömegáramúnál nagyobb kazán (töltettől, tüzelési módtól, nyomástól függetlenül) és segédberendezéseinek kezelése | Erőművi kazángépész | nem végezhető | Erőművi kazángépész | elfogadható |
+| 2. | 21 MW-nál, illetve 30 t/h tömegáramúnál nagyobb kazán (töltettől, tüzelési módtól, nyomástól függetlenül) és segédberendezéseinek kezelése | Erőművi kazángépész | Nem végezhető | Erőművi kazángépész | elfogadható |
 
-| 3. | 290 kW és az ezt meghaladó teljesítményű gáz- és olajtüzelő-berendezések kezelése | Ipari olaj- és gáztüzelő- berendezés kezelő | nem végezhető | Ipari olaj- és gáztüzelő-berendezés kezelő | elfogadható |
+| 3. | 290 kW és az ezt meghaladó teljesítményű gáz- és olajtüzelő-berendezések kezelése | Ipari olaj- és gáztüzelő- berendezés kezelő | Nem végezhető | Ipari olaj- és gáztüzelő-berendezés kezelő | elfogadható |
 
-| 4. | A III. és IV. kategóriába sorolt nyomástartó edények, edénycsoportok üzemben tartása, kezelése (mérettől, töltettől, nyomástól függetlenül) | Nyomástartóedény-gépész (jogszabály alapján szervezett képzés) | nem végezhető | Nyomástartóedény- gépész | nem fogadható el |
+| 4. | A III. és IV. kategóriába sorolt nyomástartó edények, edénycsoportok üzemben tartása, kezelése (mérettől, töltettől, nyomástól függetlenül) | Nyomástartóedény-gépész (jogszabály alapján szervezett képzés) | Nem végezhető | Nyomástartóedény- gépész | nem fogadható el |
 
-| 5. | A kőműves szerkezetek megvalósítása a rendelkezésre bocsátott tervek alapján. A kőműves munkák végzéséhez szükséges építő- és segédanyagok szakszerű használata | Kőműves (Falazó kőműves, Gépi vakoló) | végezhető | Kőműves | elfogadható |
+| 5. | A kőműves szerkezetek megvalósítása a rendelkezésre bocsátott tervek alapján. A kőműves munkák végzéséhez szükséges építő- és segédanyagok szakszerű használata | Kőműves (Falazó kőműves, Gépi vakoló) | Végezhető | Kőműves | elfogadható |
 
-| 6. | A legfeljebb II. kategóriába sorolt nyomástartó edények és az egyszerű nyomástartó edények kezelése (töltettől, nyomástól függetlenül), szakirányú végzettség esetén | Nyomástartó berendezés kezelő (jogszabály alapján szervezett képzés) | nem végezhető | Nyomástartó-berendezés- kezelő szaktanfolyami képzettség Kőolaji vegyipari rendszer üzemeltetője szaktanfolyami képzettség Pébégáz töltetű nyomástartó berendezés kezelője szaktanfolyami végzettség Nyomástartó edény- gépész Vegyipari technikus | elfogadható |
+| 6. | A legfeljebb II. kategóriába sorolt nyomástartó edények és az egyszerű nyomástartó edények kezelése (töltettől, nyomástól függetlenül), szakirányú végzettség esetén | Nyomástartó berendezés kezelő (jogszabály alapján szervezett képzés) | Nem végezhető | Nyomástartó-berendezés- kezelő szaktanfolyami képzettség Kőolaji vegyipari rendszer üzemeltetője szaktanfolyami képzettség Pébégáz töltetű nyomástartó berendezés kezelője szaktanfolyami végzettség Nyomástartó edény- gépész Vegyipari technikus | elfogadható |
 
-| 7. | Aktuális divatirányzatnak, alkalomnak megfelelő frizura és hajszín készítése | Fodrász | végezhető | Fodrász | elfogadható |
+| 7. | Aktuális divatirányzatnak, alkalomnak megfelelő frizura és hajszín készítése | Fodrász | Végezhető | Fodrász | elfogadható |
 
-| 8. | Az egészséges test és bőr kozmetikai célú kezelése, ápolása, masszírozása, szépséghibáinak megszüntetése. Elektrokozmetikai kezelések, szőrtelenítés, tartós make-up (kozmetikai tetoválás) | Kozmetikus technikus | nem végezhető | Kozmetikus | elfogadható |
+| 8. | Az egészséges test és bőr kozmetikai célú kezelése, ápolása, masszírozása, szépséghibáinak megszüntetése. Elektrokozmetikai kezelések, szőrtelenítés, tartós make-up (kozmetikai tetoválás) | Kozmetikus technikus | Nem végezhető | Kozmetikus | elfogadható |
 
-| 9. | Biológiai termékek előállítása | Gyógyszer-készítmény- gyártó Gyógyszeripari szaktechnikus | végezhető | Biotechnikus technológus | elfogadható |
+| 9. | Biológiai termékek előállítása | Gyógyszer-készítmény- gyártó Gyógyszeripari szaktechnikus | Végezhető | Biotechnikus technológus | elfogadható |
 
-| 10. | Cukrászati készítmények, sütemények, fagylalt készítése | Édességkészítő (Csokoládétermék gyártó, Keksz- és ostyagyártó) Pék-cukrász (Süteménykészítő) Sütő- és cukrászipari technikus Cukrász (Cukrászsegéd) Cukrász szaktechnikus Diétás cukrász | nem végezhető | Édesipari termékgyártó Mézeskalács-készítő Pék Cukrász | elfogadható |
+| 10. | Cukrászati készítmények, sütemények, fagylalt készítése | Édességkészítő (Csokoládétermék gyártó, Keksz- és ostyagyártó) Pék-cukrász (Süteménykészítő) Sütő- és cukrászipari technikus Cukrász (Cukrászsegéd) Cukrász szaktechnikus Diétás cukrász | Végezhető | Édesipari termékgyártó Mézeskalács-készítő Pék Cukrász | elfogadható |
 
 | 11. | Drogok és toxikus anyagok előállítása, vizsgálata. Gyógynövényipari termékek előállítása | Drog- és toxikológiai szaktechnikus | végezhető | Drog- és toxikológiai technikus | elfogadható |
 
@@ -130,9 +130,9 @@
 
 | 64. | Max. 7200 kW teljesítményű, illetve 12 t/h tömegáramú kazán (töltettől, tüzelési módtól, nyomástól függetlenül) kezelése | Erőművi kazángépész Kazángépész (12 t/h felett) Kazánkezelő (max. 12 t/h) | nem végezhető | Kazánkezelő (2–12 tonna között) | elfogadható |
 
-| 65. | Meleg és hideg ételek, cukrászati készítmények, sütemények, fagylalt, italok kiszolgálása | Pincér – vendégtéri szakember (Pincérsegéd) Vendégtéri szaktechnikus | végezhető | Pincér Vendéglátó eladó Vendéglátás-szervező, vendéglős | elfogadható |
+| 65. | Meleg és hideg ételek, cukrászati készítmények, sütemények, fagylalt, italok kiszolgálása [ide nem értve a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 28. § b) pontjában meghatározott büfétermékek forgalmazását] | Pincér – vendégtéri szakember (Pincérsegéd) Vendégtéri szaktechnikus | végezhető | Pincér Vendéglátó eladó Vendéglátás-szervező, vendéglős | elfogadható |
 
-| 66. | Meleg és hideg ételek, italok készítése | Szakács (Szakácssegéd) Szakács szaktechnikus Diétás szakács Vendégtéri szaktechnikus | nem végezhető | Szakács Vendéglátás-szervező, vendéglős | elfogadható |
+| 66. | Meleg és hideg ételek, italok készítése [ide nem értve a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 28. § b) pontjában meghatározott büfétermékek elkészítését] | Szakács (Szakácssegéd) Szakács szaktechnikus Diétás szakács Vendégtéri szaktechnikus | Végezhető | Szakács Vendéglátás-szervező, vendéglős | elfogadható |
 
 | 67. | Mobil és beépített bútorok, mozgó alkatrészek, falburkolatok, válaszfalak, nyílászáró szerkezetek szerelése, javítása, cseréje | Asztalos (Asztalosipari szerelő, Famegmunkáló) Bútorműves, műbútorasztalos | végezhető | Asztalos Műbútorasztalos Asztalosipari szerelő | elfogadható |
 
@@ -200,6 +200,6 @@
 
 | 99. | Vízvezeték- és vízkészülék-szerelés | Víz- és csatornarendszer-szerelő (Csőhálózat-szerelő) | végezhető | Víz-, csatorna- és közmű-rendszerszerelő | elfogadható |
 
-2. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^8]
+2. melléklet a 34/2021. (VII. 26.) ITM rendelethez[^10]
 
-[^8]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
