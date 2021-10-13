@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-387-20-
 | 2016-12-17 | 2012-387-20-22.6 | 442/2016. (XII. 16.) Korm. rendelet |
 | 2017-12-23 | 2012-387-20-22.7 | 407/2017. (XII. 15.) Korm. rendelet |
 | 2020-01-01 | 2012-387-20-22.8 | 191/2019. (VII. 30.) Korm. rendelet |
+| 2021-10-13 | 2012-387-20-22.9 | 577/2021. (X. 12.) Korm. rendelet |
