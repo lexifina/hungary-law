@@ -1,4 +1,4 @@
-3. §[^10] (1)[^11] A Közalapítvány kuratóriuma
+3. §[^13] (1)[^14] A Közalapítvány kuratóriuma
 
 a) dönt az ösztöndíj odaítéléséhez szükséges hallgatói és az ösztöndíjasok fogadásához szükséges intézményi pályázat eredményéről,
 
@@ -12,5 +12,5 @@ a) az ösztöndíjprogram működési szabályzatát,
 
 b) az ösztöndíjprogram végrehajtásával kapcsolatos éves beszámolót.
 
-[^10]: A 3. § a 282/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^11]: A 3. § (1) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^13]: A 3. § a 282/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 3. § (1) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.

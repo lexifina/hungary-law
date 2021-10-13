@@ -1,4 +1,4 @@
-## 4. §[^12] Az ösztöndíjprogrammal kapcsolatos koordinációs, kapcsolattartási, információs feladatokat a Közalapítvány látja el, amely során
+## 4. §[^15] Az ösztöndíjprogrammal kapcsolatos koordinációs, kapcsolattartási, információs feladatokat a Közalapítvány látja el, amely során
 
 a) a miniszterrel előzetesen egyeztetett iránymutatások alapján kidolgozza a hallgatói és intézményi pályázati felhívást, az ösztöndíjprogram működési szabályzatát, valamint a program végrehajtási útmutatóját,
 
@@ -12,4 +12,4 @@ e) lefolytatja az intézményi pályázati eljárást, amely során a felsőokta
 
 f) kapcsolatot tart az ösztöndíjprogramban részt vevő intézményekkel.
 
-[^12]: A 4. § a 351/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^15]: A 4. § a 351/2019. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

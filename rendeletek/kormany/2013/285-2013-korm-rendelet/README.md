@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-285-20-
 | 2019-06-14 | 2013-285-20-22.11 | 138/2019. (VI. 13.) Korm. rendelet |
 | 2019-12-24 | 2013-285-20-22.12 | 351/2019. (XII. 23.) Korm. rendelet |
 | 2020-05-15 | 2013-285-20-22.13 | 203/2020. (V. 14.) Korm. rendelet |
+| 2021-10-13 | 2013-285-20-22.14 | 581/2021. (X. 12.) Korm. rendelet |
