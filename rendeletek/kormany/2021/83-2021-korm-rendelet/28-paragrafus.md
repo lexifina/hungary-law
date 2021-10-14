@@ -1,4 +1,4 @@
-## 27. §[^70] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 426/2021. (VII. 15.) Korm. rendelettel (a továbbiakban: Módr19.) megállapított 3. § (3) és (4) bekezdését, 7/Q. §-át és a 2. mellékletében foglalt táblázat 9. sorát a Módr19. hatálybalépésekor[^71] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 27. §[^71] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 426/2021. (VII. 15.) Korm. rendelettel (a továbbiakban: Módr19.) megállapított 3. § (3) és (4) bekezdését, 7/Q. §-át és a 2. mellékletében foglalt táblázat 9. sorát a Módr19. hatálybalépésekor[^72] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^70]: A 27. §-t a 426/2021. (VII. 15.) Korm. rendelet 2. §-a iktatta be.
-[^71]: A hatálybalépés időpontja 2021. július 16.
+[^71]: A 27. §-t a 426/2021. (VII. 15.) Korm. rendelet 2. §-a iktatta be.
+[^72]: A hatálybalépés időpontja 2021. július 16.

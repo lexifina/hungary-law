@@ -12,6 +12,6 @@
 
 | 5. | A Csongrád-Csanád Megyei Egészségügyi Ellátó Központ honvéd egészségügyi ellátás rendszeréhez történő csatlakozása érdekében szükséges, továbbá a kórházfejlesztési pályázat keretében megvalósuló beruházások | Hódmezővásárhely belterület 1371/4 helyrajzi számú ingatlan | 2021. október 5. – 2022. május 15. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^97]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^100]
 
-[^97]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
