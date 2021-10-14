@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-4-20-0A
 | 2019-07-01 | 2019-4-20-0A.3 | 20/2019. (V. 15.) BM rendelet |
 | 2020-11-01 | 2019-4-20-0A.4 | 21/2020. (VII. 9.) BM rendelet |
 | 2021-08-01 | 2019-4-20-0A.5 | 20/2021. (VII. 14.) BM rendelet |
+| 2021-10-14 | 2019-4-20-0A.6 | 34/2021. (X. 6.) BM rendelet |
