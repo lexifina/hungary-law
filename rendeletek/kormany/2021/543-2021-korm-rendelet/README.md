@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-543-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-09-30 | 2021-543-20-22.1 | 543/2021. (IX. 24.) Korm. rendelet |
+| 2021-10-14 | 2021-543-20-22.2 | 2021. évi I. törvény |
