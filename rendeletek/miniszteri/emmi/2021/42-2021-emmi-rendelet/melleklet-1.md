@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti az emberi erőforrások minisztere feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 20/2015. (IV. 10.) EMMI rendelet.
+## 8. §[^2]
 
 1. melléklet a 42/2021. (IX. 28.) EMMI rendelethez
 
@@ -173,3 +173,5 @@
 3.5.1. a főigazgató, a főigazgató-helyettes,
 
 3.5.2. az elektronikus információs rendszer biztonságáért felelős álláshely.
+
+[^2]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
