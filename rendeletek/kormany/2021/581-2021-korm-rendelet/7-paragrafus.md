@@ -1,28 +1,35 @@
-## 6. §[^4]
+## 6. §[^6]
 
 ## 7. § A Rendelet1
 
-a) 1. § (1) bekezdésében az „a külföldi partner illetékes minisztériumával” szövegrész helyébe az „a külföldi partner illetékes szervével” szöveg,
+a)[^7]
 
-b) 2. § (3) bekezdésében a „valamint a (4) bekezdés f) pontja szerinti költségek” szövegrész helyébe az „az egészségügyi hozzájárulás” szöveg,
+b)[^8]
 
-c) 2. § (3c) bekezdésében az „A nem állami intézmények” szövegrész helyébe az „Az intézmények” szöveg,
+c)[^9]
 
-d) 2. § (3c) bekezdésében, valamint a 2. § (3d) bekezdésében az „a támogatói okiratban vagy támogatási szerződésben” szövegrész helyébe az „a támogatói okiratban, támogatási szerződésben vagy fejezetek közötti megállapodásban” szöveg,
+d)[^10]
 
-e)[^5]
+e)[^11]
 
-f)[^6]
+f)[^12]
 
-g) 6. § (4) bekezdésében a „csatolnia kell az 1. melléklet szerinti nyilatkozatát” szövegrész helyébe a „csatolnia kell nyilatkozatát” szöveg,
+g)[^13]
 
-h) 7. § (4) bekezdés b) pontjában az „időszak végén – az 1. mellékletben foglaltakra figyelemmel – adatszolgáltatást” szövegrész helyébe az „időszak végén adatszolgáltatást” szöveg,
+h)[^14]
 
-i)[^7]
+i)[^15]
 
-j) 8. § (2a) bekezdésében az „ösztöndíjas szerződése és hallgatói jogviszonya” szövegrész helyébe az „ösztöndíjas szerződése és jogviszonya” szöveg
+j)[^16]
 
-[^4]: A 6. § a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
-[^5]: A 7. § e) pontja a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
-[^6]: A 7. § f) pontja a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
-[^7]: A 7. § i) pontja a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
+[^6]: A 6. § a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
+[^7]: A 7. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 7. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 7. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. § e) pontja a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
+[^12]: A 7. § f) pontja a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
+[^13]: A 7. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 7. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 7. § i) pontja a 16. § (2) bekezdése alapján a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 265. §-a hatálybalépését követő napon lép hatályba.
+[^16]: A 7. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

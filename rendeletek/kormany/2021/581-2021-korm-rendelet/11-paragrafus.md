@@ -1,7 +1,3 @@
-## 10. § A Rendelet2 2. § (5) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+## 10. §[^19]
 
-## (Az ösztöndíjast az ösztöndíjszerződés időtartamára a következő juttatások illetik meg:)
-
-## „c) egészségügyi szolgáltatás a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 22. § (1) bekezdés i) pont id) alpontja alapján, valamint
-
-## d) egészségügyi hozzájárulás.”
+[^19]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
