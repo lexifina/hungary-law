@@ -34,6 +34,8 @@
 
 ## Határidő: azonnal
 
-## 2. A Pannónia Szíve Program keretében a Váli Örökség turisztikai célú fejlesztéséről szóló 1740/2019. (XII. 19.) Korm. határozat 5. pontjában a „2021. november 30-ig” szövegrész helyébe a „2022. október 30-ig” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1736/2021. (X. 14.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
