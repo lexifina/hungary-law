@@ -1,3 +1,3 @@
-10. §[^1]
+10. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztéséig meghosszabbítja.
 
-[^1]: A 10. § a 9. § (2) bekezdése alapján 2021. október 15-én lép hatályba.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát veszti.

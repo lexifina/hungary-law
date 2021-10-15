@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-560-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-10-01 | 2021-560-20-22.1 | 560/2021. (IX. 30.) Korm. rendelet |
+| 2021-10-15 | 2021-560-20-22.2 | 813/2021. (XII. 28.) Korm. rendelet |
