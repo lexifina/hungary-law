@@ -1,3 +1,5 @@
-## 4. § Az 502/2020. (XI. 16.) Korm. rendelet 40. § (2) bekezdésében a „Módr.” szövegrész helyébe a „Módr3.” szöveg lép.
+## 4. §[^5]
 
 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
