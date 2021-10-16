@@ -1,3 +1,5 @@
-## 1. § A földgáz biztonsági készlet mértékéről szóló 13/2015. (III. 31.) NFM rendelet 2. § (1) bekezdésében a „15 374 000 MWh” szövegrész helyébe a „12 723 644 MWh” szöveg lép.
+## 1. §[^2]
 
 2. § Ez a rendelet 2021. október 15-én lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
