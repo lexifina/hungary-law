@@ -58,7 +58,7 @@ a legkedvezőtlenebb helyzetben és esetben sem közelítheti meg és a használ
 
 i) acélra, alumíniumra, betonra agresszív vegyi anyagokat, károsodást okozó koncentrációban a szerkezetre kijuttatni nem szabad, a fúvás, permetezés során az eszköz az áramvezetőket a h) pontban meghatározott távolságok 1 méterrel megnövelt értékénél jobban a legkedvezőtlenebb helyzetben és esetben sem közelítheti meg,
 
-j) fa vagy más növény akkor telepíthető, hagyható meg, ha véglegesen kifejlett állapotában fa vagy növényzet esetében
+j)[^5] fa vagy más növény akkor telepíthető, hagyható meg, ha véglegesen kifejlett állapotában
 
 ja) 500 kV névleges feszültségszint felett 6 méternél, gyümölcsfa esetében 9,5 méternél,
 
@@ -73,6 +73,12 @@ je) 1 kV felett 35 kV névleges feszültségszintig 2 méternél,
 jf) 1 kV-nál nem nagyobb névleges feszültségszintnél 1 méternél
 
 jobban annak legkedvezőtlenebb helyzetében sem közelíti meg az áramvezetőt.
+
+k)[^6] fa vagy más növény akkor telepíthető, hagyható meg, ha véglegesen kifejlett állapotában
+
+ka) a gyökérzet a földben elhelyezett vezetéket vagy a föld feletti vezeték tartószerkezetét nem károsítja, és
+
+kb) az üzemeltetést, az üzemzavar-elhárítást nem akadályozza.
 
 (3) A biztonsági övezetben csak a villamos berendezés üzemben tartójának előzetes hozzájárulásával végezhetőek az alábbi tevékenységek:
 
@@ -115,3 +121,6 @@ bc) az árnyékolást és a földelést (a továbbiakban együtt: védelmek) az 
 (7) Nem szükséges a (6) bekezdés b) pontja szerinti védelmek kialakítása azokon a 16 m2-nél kisebb alapterületű járműveken, amelyeknek magassága üzemi állapotban – beleértve a magasságba a járművön levő személyek, szerszámok legmagasabbra kinyúló részeit is – a 2,5 métert nem haladja meg.
 
 (8) A mozgásképtelenné vált járművet vagy vontatójáról leakasztott vontatmányt (a továbbiakban együtt: mozgásképtelen jármű) a biztonsági övezetből mielőbb el kell vontatni. A kivontatás megkezdéséig a mozgásképtelen járművet letűző-földelő berendezéssel le kell földelni. Ha erre azonnal nincs mód, a mozgásképtelen járművet a földelés elkészítéséig őrizni kell, hogy azt kívülről senki ne érinthesse meg. A mozgásképtelen jármű elvontatásának műveleti sorrendjét az 1. melléklet 8. pontja tartalmazza.
+
+[^5]: A 13. § (2) bekezdés j) pont nyitó szövegrésze a 49/2021. (X. 1.) ITM rendelet 10. §-a szerint módosított szöveg.
+[^6]: A 13. § (2) bekezdés k) pontját a 49/2021. (X. 1.) ITM rendelet 6. §-a iktatta be.
