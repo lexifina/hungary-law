@@ -1,3 +1,3 @@
-## 21. §[^17]
+## 21. §[^16]
 
-[^17]: A 21. § a 29. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 21. § a 29. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.

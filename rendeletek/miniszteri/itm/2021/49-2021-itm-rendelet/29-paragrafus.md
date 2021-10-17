@@ -1,4 +1,4 @@
-## 28. §[^24]
+## 28. §[^23]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 2. § és a 21–28. § 2022. január 1-jén lép hatályba.
 
-[^24]: A 28. § a 29. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^23]: A 28. § a 29. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
