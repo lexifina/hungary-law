@@ -1,6 +1,6 @@
 ## 10. A díjszedésben résztvevő szervezetek nyilvántartása
 
-21. § (1) Magyarországon útdíjszedői, útdíjszolgáltató vagy EETS szolgáltatói tevékenységet kizárólag a felügyeleti szerv által nyilvántartásba vett szervezetek végezhetnek. Az útdíjszedőt és a vele szerződéses viszonyban álló útdíjszolgáltatót a felügyeleti szerv köteles a Bizottság az európai elektronikus útdíjszedési szolgáltatás és műszaki elemei meghatározásáról szóló, 2009. október 6-i 2009/750/EK határozatának 19. cikke szerinti célból nyilvántartásba venni, ha az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételeket teljesíti.
+21. § (1) Magyarországon útdíjszolgáltató vagy EETS szolgáltatói tevékenységet kizárólag az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvben foglaltak szerint nyilvántartásba vett szervezetek végezhetnek. Az EETS szolgáltatót a felügyeleti szerv nyilvántartásba veszi, ha az e törvény felhatalmazása alapján kiadott rendeletben meghatározott feltételeket teljesíti.
 
 (2) Az (1) bekezdés szerinti nyilvántartás vezetése érdekében a felügyeleti szerv az alábbi adatokat kezeli:
 
@@ -8,17 +8,17 @@ a) egyéni vállalkozó esetén annak nevét, lakóhelyét, anyja nevét, szüle
 
 b) jogi személy és jogi személy nélküli gazdasági társaság (alábbiakban együttesen: szervezet) esetén a szervezet nevét, székhelyét, cégjegyzékszámát vagy a bejegyző hatóság által kiadott azonosítóját, adószámát vagy a bejegyzése szerinti ország adóhatósága által kiadott más hasonló azonosítóját, fizetési számlája számát, a képviseletére jogosultak nevét, beosztásukat, a szervezet elektronikus levélcímét és telefonszámát.
 
-(3) A felügyeleti szerv a (2) bekezdésben foglaltakon túl az (1) bekezdésben meghatározott céllal nyilvántartást vezet az alábbiakról:
+(3) A felügyeleti szerv a (2) bekezdésben foglaltakon túl az (1) bekezdésben meghatározott céllal elektronikus nyilvántartást vezet
 
-a) az útdíjköteles elemi útszakaszok, továbbá annak megjelölése, hogy ezek közül melyek tartoznak az EETS körébe,
+a) a Magyarországon nyilvántartásba vett EETS szolgáltatókról,
 
-b) az útdíjköteles elemi útszakaszokon díjszedői feladatokat ellátó szervezet(ek) megnevezése,
+b) az útdíjköteles elemi útszakaszokon útdíjszedői feladatokat ellátó szervezet(ek) megnevezéséről,
 
-c) az útdíjköteles elemi útszakaszokon alkalmazott díjszedési technológia,
+c) az útdíjköteles elemi útszakaszokon alkalmazott díjszedési technológiáról,
 
-d) az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj megállapításával összefüggő adatok (így különösen a díjkategóriák és más, a díjfizetést befolyásoló jellemzők, valamint az alkalmazott díjtételek),
+d) az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj megállapításával összefüggő adatokról – így különösen a díjkategóriák és más, a díjfizetést befolyásoló jellemzőkről, valamint az alkalmazott díjtételekről –,
 
-e) az útdíjszedő által külön jogszabályban meghatározott területi nyilatkozat teljes szövege.
+e) az útdíjszedő által az e törvény végrehajtására kiadott rendeletben meghatározott területi nyilatkozat teljes szövegéről.
 
 (4) Amennyiben a nyilvántartott adataiban változás áll be, a nyilvántartásban szereplő személy vagy szervezet köteles a változást 15 napon belül a felügyeleti szervnek bejelenteni. A bejelentett változást a felügyeleti szerv a változások idejének megjelölésével vezeti át. Amennyiben a felügyeleti szerv a változásról hivatalból szerez tudomást, úgy a változás átvezetéséről is hivatalból gondoskodik, az adatváltoztatásról a nyilvántartott személyt, szervezetet 15 napon belül értesíti. Amennyiben a bejelentés megtételére köteles személy bejelentési kötelezettségének nem tesz eleget és a felügyeleti szerv hivatalból sem szerez tudomást a változásról annak bekövetkezésétől számított 15 napon belül, úgy a felügyeleti szerv a 20. § (1) bekezdés a) és b) pontjában meghatározott jogkövetkezményeket alkalmazhatja.
 

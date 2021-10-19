@@ -28,7 +28,7 @@ j) a Magyarországgal szomszédos állam közúthálózatának kezelői feladata
 
 k) az államhatárról szóló törvényben meghatározott tömeges bevándorlás okozta válsághelyzetben elrendelt szállítási feladatok végrehajtásában részt vevők által üzemben tartott gépjárművet az ezen feladat ellátása során.
 
-(2)
+(2) Az (1) bekezdés szerinti mentesség – e törvény eltérő rendelkezése hiányában – az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába (a továbbiakban: mentességi nyilvántartás) történő bejegyzése alapján áll fenn. A mentesség hatálya a bejelentésben megjelölt, legfeljebb egyéves időszakra terjed ki.
 
 (3) A miniszter a közúti forgalom biztonságát veszélyeztető módon vesztegelő gépjárművek elszállításának szabályairól szóló miniszteri rendeletben a közlekedés biztonsága érdekében pihenőhelyre szállított autók vonatkozásában az (1) bekezdéstől eltérő szabályokat állapíthat meg az útdíjköteles gépjárművek vonatkozásában.
 

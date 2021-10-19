@@ -4,17 +4,17 @@
 
 1. bevallás: útdíjköteles elemi útszakasz útdíjköteles gépjárművel történő használatára vonatkozó, az útdíjfizetési kötelezettség megállapítása alapjául szolgáló adatszolgáltatás;
 
-2. bevallási közreműködő: jelen törvényben előírt bevallási kötelezettség teljesítése érdekében igénybevett szolgáltató;
+2. bevallási közreműködő: az e törvényben előírt úthasználat során a bevallási kötelezettség teljesítése érdekében igénybevett szolgáltató;
 
-3. díjkategória: a díj mértékének meghatározása során alkalmazott csoportosítás a gépjárművek egyes jellemzői alapján;
+3. díjkategória: a díj mértékének meghatározása során az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon alkalmazott csoportosítás a gépjárművek egyes jellemzői alapján;
 
-4. EETS: európai elektronikus útdíjszedési szolgáltatás, amely lehetővé teszi, hogy a díjfizetésre kötelezettek egyetlen fedélzeti eszköz segítségével, az útdíjszolgáltató közreműködésével megfizessék a szolgáltatásba bevont útdíjköteles elemi útszakaszok használatának ellenértékét;
+4. EETS: európai elektronikus útdíjszedési szolgáltatás, amely lehetővé teszi, hogy a díjfizetésre kötelezettek gépjárművenként egyetlen fedélzeti eszköz segítségével, az útdíjszolgáltató közreműködésével megfizessék a szolgáltatásba bevont gépjárművek után az útdíjköteles elemi útszakaszok használatának ellenértékét;
 
 5. EETS felhasználó: az az úthasználó, aki szerződést köt egy EETS szolgáltatóval az EETS-hez való hozzáférése érdekében;
 
-6. EETS szolgáltató: a székhelye szerinti EU tagállamban nyilvántartásba vett, jogi személyiséggel rendelkező útdíjszolgáltató, amely az EETS felhasználók számára hozzáférést biztosít az EETS-hez, és ennek keretében az UD rendszerhez;
+6. EETS szolgáltató: a székhelye szerinti EU tagállamban nyilvántartásba vett, jogi személyiséggel rendelkező útdíjszolgáltató, amely az EETS felhasználók számára hozzáférést biztosít az EETS-hez, és továbbítja az útdíjakat a megfelelő útdíjszedőnek;
 
-7. egyetemes útdíjszolgáltató: olyan útdíjszolgáltató, amely köteles valamennyi díjfizetésre kötelezett számára biztosítani az úthasználati jogosultság megszerzésének lehetőségét az UD rendszer keretében;
+7. egyetemes útdíjszolgáltató: olyan útdíjszolgáltató, amely köteles valamennyi díjfizetésre kötelezett számára biztosítani az úthasználati jogosultság megszerzésének lehetőségét az UD rendszerben;
 
 8. fedélzeti eszköz: az elektronikus útdíjszedési tevékenység támogatására alkalmas eszköz, olyan hardver- és szoftverelemek összessége, amely alkalmas az elektronikus útdíjszedési műveletek elvégzéséhez szükséges adatok összegyűjtésére, tárolására, feldolgozására, valamint távolból történő fogadására és továbbítására;
 
@@ -30,7 +30,7 @@
 
 14. súlyozott átlagos infrastruktúra díj: egy adott díjkategória vonatkozásában az infrastruktúra díjból egy adott időszakban befolyó teljes bevétel és az ezen időszakban az útdíjköteles elemi útszakaszokon megtett járműkilométerek számának hányadosa;
 
-15. szerződött díjfizető: az a természetes személy, jogi személy vagy jogi személyiség nélküli gazdasági társaság, aki az útdíjköteles elemi útszakasz használata érdekében, szerződésben vállalta egy vagy több gépjárműre vonatkozó díj megfizetését;
+15. szerződött díjfizető: aki az útdíjköteles elemi útszakasz használata érdekében, szerződésben vállalta egy vagy több útdíjköteles gépjárműre vonatkozó útdíj megfizetését;
 
 16. tanúsító szerv: az elektronikus díjszedési rendszer átjárhatósági rendszerelemeinek alkalmasságát tanúsító, a 12. alcímben meghatározott feladatokat ellátó szerv;
 
@@ -54,11 +54,11 @@
 
 26. úthasználó: az úthasználat során gépjárművet vezető személy;
 
-27. útszakasz: a közútnak olyan, a közlekedés szempontjából folyamatos része, amelynek kezdetét és végét kilométerszelvényekkel határozzák meg;
+27.
 
-28. üzembentartó: a jármű tulajdonosa, valamint akit a jármű jogszerű üzemeltetésére a közúti közlekedési nyilvántartásról szóló törvény alapján vezetett nyilvántartásba bejegyeztek, vagy a telephely szerinti ország hatósága által kibocsátott okiratba (forgalmi engedély) bejegyzett tulajdonosa, illetve üzemben tartója;
+28. üzemben tartó: a gépjármű – magyar forgalmi rendszámmal rendelkező gépjármű esetében a közúti közlekedési nyilvántartási szerv nyilvántartása szerint az úthasználat időpontjában nyilvántartott – nem tulajdonos üzemben tartója, ennek hiányában a gépjármű tulajdonosa, vagy a telephely szerinti ország hatósága által kibocsátott okiratba bejegyzett üzemben tartója, ennek hiányában a gépjármű tulajdonosa;
 
-29. viszonteladó: az egyetemes útdíjszolgáltató által az útdíjszedési feladatainak teljesítéséhez egységes feltételek szerint bevont, szerződött közreműködő;
+29. viszonteladó: az útdíjszolgáltató által az útdíjszedési feladatainak teljesítéséhez bevont, szerződött közreműködő;
 
 30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság;
 

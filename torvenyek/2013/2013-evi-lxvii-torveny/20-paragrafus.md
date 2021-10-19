@@ -12,6 +12,6 @@ a) a jogszabálysértés súlyát,
 
 b) korábbi jogszabálysértés súlyát és gyakoriságát,
 
-c) az útdíjszedő vagy útdíjszolgáltató éves árbevételének nagyságát,
+c) az útdíjszedő vagy útdíjszolgáltató éves magyarországi árbevételének nagyságát,
 
 d) a jogszabálysértéssel okozott kár nagyságát és a károsultak számát.

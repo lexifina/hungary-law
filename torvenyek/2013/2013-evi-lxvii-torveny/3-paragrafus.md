@@ -12,8 +12,8 @@
 
 (4) Az útdíjat az úthasználó által használt útdíjköteles elemi útszakaszok alapján kell megfizetni.
 
-(5) Ugyanazon útszakasz használatáért ugyanazon gépjármű után nem keletkezhet egyszerre használati díj és útdíj fizetési kötelezettség.
+(5) Ugyanazon útszakasz használatáért ugyanazon gépjármű után nem keletkezhet egyszerre használatidíj- és útdíjfizetési kötelezettség. Ha a gépjárműre az adott naptári napon az egyébként irányadó díjkategóriában megállapított legrövidebb érvényességi idejű használati díj értékét meghaladó összegű útdíj került megfizetésre, az adott naptári napon a használati díj megfizetésének elmulasztásából eredő jogkövetkezmények alkalmazásának nincs helye.
 
-(6) A gépjármű üzemben tartója – a (7) bekezdésben foglaltak kivételével – felel azért, hogy az általa üzemeltetett gépjárművel az (1) bekezdésben meghatározott előírások betartásra kerüljenek.
+(6) A gépjármű üzemben tartója – a (7) bekezdésben foglaltak kivételével – felel azért, hogy az általa üzemeltetett gépjárművel az e törvényben meghatározott előírások betartásra kerüljenek.
 
-(7) Amennyiben a közúti forgalomban történő ellenőrzés során a járművezető személye a helyszínen megállapítást nyer, az (1) bekezdésben meghatározott előírások betartásáért a járművezető felelős.
+(7) Amennyiben a közúti forgalomban történő ellenőrzés során a úthasználó személye a helyszínen megállapítást nyer, az (1) bekezdésben meghatározott előírások betartásáért a úthasználó felelős.

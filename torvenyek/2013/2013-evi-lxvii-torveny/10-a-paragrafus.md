@@ -1,1 +1,1 @@
-10/A. § A 9. § (1) bekezdés k) pontjában meghatározott járművek a szállítási feladat elrendelésére jogosult szerv – közúti közlekedési nyilvántartásról szóló törvényben meghatározott módon – mentességi nyilvántartásba történő bejegyzését követően mentesülnek a bevallási kötelezettség alól és válnak jogosulttá a díjmentesség igénybevételére.
+### 10/A. §
