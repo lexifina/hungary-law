@@ -1,0 +1,5 @@
+## 4. § Az 50/2004. (IV. 22.) FVM rendelet Záró rendelkezések alcíme a következő 40. §-sal egészül ki:
+
+## „40. § (1) E rendelet 2. § 10/a., 20/a., 24/a. és 52/a. pontja, 28/A. §-a, 30. § (12) bekezdése és 9. számú melléklete tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
+
+## (2) Az e rendelet 2. § 10/a., 20/a., 24/a. és 52/a. pontjában, 28/A. §-ában, 30. § (12) bekezdésében és 9. számú mellékletében meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan terméknek, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő vagy hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a kényszerítő követelmény tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.”
