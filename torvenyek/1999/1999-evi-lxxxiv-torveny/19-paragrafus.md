@@ -88,4 +88,6 @@ a) a külpolitikáért felelős miniszter által vezetett minisztérium konzuli 
 
 b) az Európai Gazdasági Térségről szóló megállapodásban részes állam vezetői engedély kiadására, lecserélésére, pótlására, megújítására vagy visszavonására hatáskörrel rendelkező hatósága az erre irányuló eljárásához a 8. § (1) bekezdés a) pont aa), ae), ah), ai) alpontjában és b) pontjában meghatározott adatok tekintetében.
 
+c) az Európai Gazdasági Térségről szóló megállapodásban részes állam járművek ismételt nyilvántartásba vételére hatáskörrel rendelkező hatósága az erre irányuló eljárásához a 9. § (2) bekezdés a), b), d), e), g) meghatározott adatok tekintetében.
+
 (4) A szerencsejáték szervezéséről szóló törvény szerinti szervező adatszolgáltatást igényelhet a természetes személy személyazonosságának igazoló ellenőrzése céljából a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségéről és a vezetői engedély érvényességének tényéről.

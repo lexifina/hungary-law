@@ -14,7 +14,9 @@ c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti köz
 
 d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének,
 
-e) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelv módosításáról szóló, 2014. április 3-i 2014/46/EU európai parlamenti és tanácsi irányelvnek
+e) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelvnek, valamint a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelv módosításáról szóló, 2014. április 3-i 2014/46/EU európai parlamenti és tanácsi irányelvnek
+
+f) 27/F. §-a az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 
@@ -27,5 +29,9 @@ a) a járművek forgalmi engedélyének kiadására hatáskörrel rendelkező ta
 b) a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 1987/2006/EK parlamenti és tanácsi rendelet 31–34. cikkének,
 
 c) a 904/2010/EU és az (EU) 2017/2454 rendeletnek a hozzáadottérték-adó területén történő közigazgatási együttműködés megerősítésére irányuló intézkedések tekintetében történő módosításáról szóló, 2018. október 2-i (EU) 2018/1541 tanácsi rendelet
+
+d) a gépjárművek osztályozásáról, az európai elektronikus útdíjszedési szolgáltatás felhasználóinak kötelezettségeiről, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a bejelentett szervekre vonatkozó minimális alkalmassági feltételekről szóló, 2019. november 28-i (EU) 2020/203 felhatalmazáson alapuló bizottsági rendelet
+
+e) az európai elektronikus útdíjszedési szolgáltatást nyújtó szolgáltatók részletes kötelezettségeiről, az EETS területi nyilatkozatok minimális tartalmáról, az elektronikus kapcsolódási pontokról, az átjárhatósági rendszerelemekre vonatkozó követelményekről és a 2009/750/EK határozat hatályon kívül helyezéséről szóló, 2019. november 28-i (EU) 2020/204 bizottsági végrehajtási rendelet
 
 végrehajtását szolgálja.
