@@ -20,21 +20,21 @@ b) elit vetőmagként az olyan vetőmagot,
 
 3. amely eleget tesz a 3–5. számú mellékletben az elit vetőmagra megállapított követelményeknek,
 
-4.[^30] amely hatósági vizsgálat vagy hatósági felügyelet mellett végzett vizsgálat által bizonyítottan tesz eleget a 1–3. pont szerinti feltételeknek;
+4.[^34] amely hatósági vizsgálat vagy hatósági felügyelet mellett végzett vizsgálat által bizonyítottan tesz eleget a 1–3. pont szerinti feltételeknek;
 
 c) certifikált vetőmagként az olyan vetőmagot,
 
 1. amelyet közvetlenül elit vetőmagból, vagy – ha a nemesítő kéri – szuperelit vetőmagból állítanak elő,
 
-2.[^31] amely hatósági vizsgálat által bizonyítottan eleget tesz a 3–5. számú mellékletben a certifikált vetőmagra előírt feltételeknek,
+2.[^35] amely hatósági vizsgálat által bizonyítottan eleget tesz a 3–5. számú mellékletben a certifikált vetőmagra előírt feltételeknek,
 
-3.[^32] amelyet elsősorban árutermelésre és standard vetőmag-előállításra szánnak,
+3.[^36] amelyet elsősorban árutermelésre és standard vetőmag-előállításra szánnak,
 
-4.[^33] amely hatósági vizsgálat vagy hatósági felügyelet mellett végzett vizsgálat által bizonyítottan tesz eleget az 1–3. pont szerinti feltételeknek,
+4.[^37] amely hatósági vizsgálat vagy hatósági felügyelet mellett végzett vizsgálat által bizonyítottan tesz eleget az 1–3. pont szerinti feltételeknek,
 
-5.[^34] amelyet utóellenőrzésnek vethetnek alá fajtaazonosságának és fajtatisztaságának igazolása érdekében.
+5.[^38] amelyet utóellenőrzésnek vethetnek alá fajtaazonosságának és fajtatisztaságának igazolása érdekében.
 
-d)[^35] standard vetőmagként az olyan vetőmagot,
+d)[^39] standard vetőmagként az olyan vetőmagot,
 
 1. amely kellően fajtaazonos és fajtatiszta,
 
@@ -50,18 +50,18 @@ d)[^35] standard vetőmagként az olyan vetőmagot,
 
 (3) Az egyéb – az 1. számú mellékletben és a Nemzeti Fajtajegyzék B. részében fel nem sorolt – zöldségfajok vetőmagja abban az esetben forgalmazható, ha annak minősége megfelel az MSZ 7145 számú szabvány előírásainak és a rendeltetésszerű felhasználás feltételeinek, azaz kellő tisztaságú és csírázóképessége révén alkalmas ép, egészséges növény felnevelésére.
 
-(4)[^36] Egyedi szaporítási és forgalmazási engedély adható a bejelentőnek vagy az ország területén működő képviselőnek azon fajta forgalmazására, amelyet legalább egy tagállamban nemzeti fajtajegyzékre történő vétel céljából bejelentettek, és amelyre vonatkozóan a technikai kérdőívet benyújtották (egyedi engedélyes vetőmag). Az engedélyt az agrárpolitikáért felelős miniszter meghatározott mennyiségre és időtartamra adja meg. Az engedélyes vetőmag csak Magyarország területén, az e rendeletben foglalt feltételek mellett forgalmazható.
+(4)[^40] Egyedi szaporítási és forgalmazási engedély adható a bejelentőnek vagy az ország területén működő képviselőnek azon fajta forgalmazására, amelyet legalább egy tagállamban nemzeti fajtajegyzékre történő vétel céljából bejelentettek, és amelyre vonatkozóan a technikai kérdőívet benyújtották (egyedi engedélyes vetőmag). Az engedélyt az agrárpolitikáért felelős miniszter meghatározott mennyiségre és időtartamra adja meg. Az engedélyes vetőmag csak Magyarország területén, az e rendeletben foglalt feltételek mellett forgalmazható.
 
-(5)[^37] Amennyiben az Európai Unióban elit, certifikált vagy standard minősítésű vetőmagból hiány lép fel, a NÉBIH engedélyével olyan vetőmag is forgalmazható, amely a 3. és 4. számú mellékletben előírt minőségi követelményeknek nem felel meg, vagy az 1. számú mellékletben felsorolt fajok esetében nem szerepel sem a Nemzeti Fajtajegyzékben, sem a Közösségi Fajtajegyzékben. A NÉBIH az engedélyt a forgalmazó kérelmére a fajtabejelentő vagy hazai képviselőjének előzetes írásbeli hozzájárulásával és a termékpálya szerinti terméktanács egyetértésével – az Európai Bizottság felhatalmazása esetén – adja meg. Az engedély csak az adott tételre és meghatározott időtartamra vonatkozhat. Az adott fajta vetőmagjának egyes kategóriái esetében a megfelelő kategóriára előírt hatósági vagy szállítói címkét kell használni. A Nemzeti Fajtajegyzékben és a Közösségi Fajtajegyzékben nem szereplő fajták esetében a címke barna színű. A címkén minden esetben fel kell tüntetni, hogy a vetőmag kevésbé szigorú követelményeknek felel meg.
+(5)[^41] Amennyiben az Európai Unióban elit, certifikált vagy standard minősítésű vetőmagból hiány lép fel, a NÉBIH engedélyével olyan vetőmag is forgalmazható, amely a 3. és 4. számú mellékletben előírt minőségi követelményeknek nem felel meg, vagy az 1. számú mellékletben felsorolt fajok esetében nem szerepel sem a Nemzeti Fajtajegyzékben, sem a Közösségi Fajtajegyzékben. A NÉBIH az engedélyt a forgalmazó kérelmére a fajtabejelentő vagy hazai képviselőjének előzetes írásbeli hozzájárulásával és a termékpálya szerinti terméktanács egyetértésével – az Európai Bizottság felhatalmazása esetén – adja meg. Az engedély csak az adott tételre és meghatározott időtartamra vonatkozhat. Az adott fajta vetőmagjának egyes kategóriái esetében a megfelelő kategóriára előírt hatósági vagy szállítói címkét kell használni. A Nemzeti Fajtajegyzékben és a Közösségi Fajtajegyzékben nem szereplő fajták esetében a címke barna színű. A címkén minden esetben fel kell tüntetni, hogy a vetőmag kevésbé szigorú követelményeknek felel meg.
 
-(6)[^38] A keverék az ugyanazon faj különféle fajtáihoz tartozó certifikált, illetve standard szaporítási fokú vetőmagjából állhat. A keveréket a Nemzeti Fajtajegyzékben vagy a Közösségi Fajtajegyzékben szereplő fajtákból, csak fajtaazonos és fajtatiszta fémzárolt vetőmagtételekből lehet előállítani, és csak kis kiszerelésben, a benne levő fajták megnevezésével, vagy termék-, illetve márkanévvel lehet forgalomba hozni. A fajta megjelöléssel ellátott keverék esetében a fajták arányát százalékban is fel kell tüntetni, termékmegnevezés esetén az aránynak állandónak kell lennie.
+(6)[^42] A keverék az ugyanazon faj különféle fajtáihoz tartozó certifikált, illetve standard szaporítási fokú vetőmagjából állhat. A keveréket a Nemzeti Fajtajegyzékben vagy a Közösségi Fajtajegyzékben szereplő fajtákból, csak fajtaazonos és fajtatiszta fémzárolt vetőmagtételekből lehet előállítani, és csak kis kiszerelésben, a benne levő fajták megnevezésével, vagy termék-, illetve márkanévvel lehet forgalomba hozni. A fajta megjelöléssel ellátott keverék esetében a fajták arányát százalékban is fel kell tüntetni, termékmegnevezés esetén az aránynak állandónak kell lennie.
 
-[^30]: A 6. § (1) bekezdése b) pontjának 4. alpontja a 18/2006. (II. 28.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^31]: A 6. § (1) bekezdése c) pontjának 2. pontja a 124/2007. (X. 20.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^32]: A 6. § (1) bekezdése c) pontjának 3. pontja a 124/2007. (X. 20.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^33]: A 6. § (1) bekezdése c) pontjának 4. alpontja a 18/2006. (II. 28.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^34]: A 6. § (1) bekezdése c) pontjának 5. pontja a 124/2007. (X. 20.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^35]: A 6. § (1) bekezdés d) pontja a 14/2011. (II. 24.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^36]: A 6. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 5. § (2) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 10. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 2. pontja szerint módosított szöveg.
-[^37]: A 6. § (5) bekezdése a 14/2011. (II. 24.) VM rendelet 3. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c)–d) pontja szerint módosított szöveg.
-[^38]: A 6. § (6) bekezdése a 14/2011. (II. 24.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^34]: A 6. § (1) bekezdése b) pontjának 4. alpontja a 18/2006. (II. 28.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^35]: A 6. § (1) bekezdése c) pontjának 2. pontja a 124/2007. (X. 20.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^36]: A 6. § (1) bekezdése c) pontjának 3. pontja a 124/2007. (X. 20.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^37]: A 6. § (1) bekezdése c) pontjának 4. alpontja a 18/2006. (II. 28.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^38]: A 6. § (1) bekezdése c) pontjának 5. pontja a 124/2007. (X. 20.) FVM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^39]: A 6. § (1) bekezdés d) pontja a 14/2011. (II. 24.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^40]: A 6. § (4) bekezdése a 124/2007. (X. 20.) FVM rendelet 5. § (2) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 10. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 2. pontja szerint módosított szöveg.
+[^41]: A 6. § (5) bekezdése a 14/2011. (II. 24.) VM rendelet 3. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § c)–d) pontja szerint módosított szöveg.
+[^42]: A 6. § (6) bekezdése a 14/2011. (II. 24.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.

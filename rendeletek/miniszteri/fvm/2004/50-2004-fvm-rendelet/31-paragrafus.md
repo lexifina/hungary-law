@@ -1,12 +1,12 @@
 ## A zöldségpalánta forgalmazó üzem engedélyezése
 
-31. § (1)[^175] A megyei kormányhivatal engedélyezi annak a belföldi illetékességű üzemnek a működését, amely az 1. § (1) bekezdésének e) pont 5–8. alpontja szerinti tevékenységek legalább egyikét folytatja.
+31. § (1)[^181] A megyei kormányhivatal engedélyezi annak a belföldi illetékességű üzemnek a működését, amely az 1. § (1) bekezdésének e) pont 5–8. alpontja szerinti tevékenységek legalább egyikét folytatja.
 
 (2) Az 1. § (2) bekezdése szerinti tevékenység folytatása nem engedélyköteles.
 
-(3)[^176] Az engedélyezés iránti kérelmet a tevékenység megkezdése előtt, a NÉBIH által erre rendszeresített és honlapján közzétett űrlapon kell a megyei kormányhivatalhoz benyújtani.
+(3)[^182] Az engedélyezés iránti kérelmet a tevékenység megkezdése előtt, a NÉBIH által erre rendszeresített és honlapján közzétett űrlapon kell a megyei kormányhivatalhoz benyújtani.
 
-(4)[^177] A kérelemnek tartalmaznia kell
+(4)[^183] A kérelemnek tartalmaznia kell
 
 a) természetes személy kérelmező esetén a természetesszemély-azonosító adatokat, a lakcímet és az adóazonosító jelet;
 
@@ -26,43 +26,43 @@ e) az előállítás és a forgalmazás helyének azonosító adatait (cím, hel
 
 f) a tevékenységben érintett szaporítóanyag-csoportokat.
 
-(5)[^178] A megyei kormányhivatal a működési engedélyt kiadja, ha
+(5)[^184] A megyei kormányhivatal a működési engedélyt kiadja, ha
 
-a)[^179]
+a)[^185]
 
 b) a kapcsolattartó személy szakirányú végzettségét igazoló okirat másolatát, és
 
-c)[^180] a kérelmező termékpálya szerinti terméktanácsi tagsága egy évnél nem korábbi igazolását a kérelemhez mellékelik, valamint
+c)[^186] a kérelmező termékpálya szerinti terméktanácsi tagsága egy évnél nem korábbi igazolását a kérelemhez mellékelik, valamint
 
 d) az üzem a mellékelt helyszínrajz alapján beazonosítható, és
 
 e) a terület jogszerű használatát igazolják, továbbá
 
-f)[^181] a kérelemben megjelölt terület növényegészségügyi alkalmasságát a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal hat hónapnál nem régebbi jegyzőkönyvével tanúsítja.
+f)[^187] a kérelemben megjelölt terület növényegészségügyi alkalmasságát a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal hat hónapnál nem régebbi jegyzőkönyvével tanúsítja.
 
-(6)[^182]
+(6)[^188]
 
-(7)[^183] Az e rendelet előírásait teljesítő, illetve a megfelelő feltételekkel rendelkező üzemet a NÉBIH nyilvántartásba veszi.
+(7)[^189] Az e rendelet előírásait teljesítő, illetve a megfelelő feltételekkel rendelkező üzemet a NÉBIH nyilvántartásba veszi.
 
 (8) A nyilvántartásba vett üzem azonosításra alkalmas egyedi engedélyszámot kap, és egyúttal jogosultságot szerez az általa bejelentett tevékenység végzésére.
 
 (9) Az engedély megszerzése a forgalmazási tevékenységhez szükséges egyéb feltételek teljesítése alól nem mentesít.
 
-(10)[^184] Az üzem 30 napon belül köteles – a (3) bekezdés szerinti űrlapon, az (5) bekezdésben foglaltak egyidejű igazolásával – értesíteni a megyei kormányhivatalt, ha az engedélyezett tevékenységén kívül egyéb tevékenységet folytat, vagy ha bejelentett adata megváltozik.
+(10)[^190] Az üzem 30 napon belül köteles – a (3) bekezdés szerinti űrlapon, az (5) bekezdésben foglaltak egyidejű igazolásával – értesíteni a megyei kormányhivatalt, ha az engedélyezett tevékenységén kívül egyéb tevékenységet folytat, vagy ha bejelentett adata megváltozik.
 
-(11)[^185] Az engedélyes dughagyma- és fiókhagyma-termesztők a területükben bekövetkező változásokat tárgyév április 30-ig jelenthetik be a NÉBIH által rendszeresített és honlapján közzétett űrlapon.
+(11)[^191] Az engedélyes dughagyma- és fiókhagyma-termesztők a területükben bekövetkező változásokat tárgyév április 30-ig jelenthetik be a NÉBIH által rendszeresített és honlapján közzétett űrlapon.
 
-(12)[^186] A NÉBIH-nél történő nyilvántartásba vétel a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalnál történő nyilvántartásba vételt nem pótolja.
+(12)[^192] A NÉBIH-nél történő nyilvántartásba vétel a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalnál történő nyilvántartásba vételt nem pótolja.
 
-[^175]: A 31. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja, a 23/2021. (VI. 18.) AM rendelet 11. § j) pontja szerint módosított szöveg.
-[^176]: A 31. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 4. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 10. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés e) pontja, a 23/2021. (VI. 18.) AM rendelet 12. § f) pontja szerint módosított szöveg.
-[^177]: A 31. § (4) bekezdése a 23/2021. (VI. 18.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^178]: A 31. § (5) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^179]: A 31. § (5) bekezdés a) pontját a 23/2021. (VI. 18.) AM rendelet 12. § g) pontja hatályon kívül helyezte.
-[^180]: A 31. § (5) bekezdés c) pontja a 23/2021. (VI. 18.) AM rendelet 11. § k) pontja szerint módosított szöveg.
-[^181]: A 31. § (5) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 64. § 11. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^182]: A 31. § (6) bekezdését a 23/2021. (VI. 18.) AM rendelet 12. § h) pontja hatályon kívül helyezte.
-[^183]: A 31. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^184]: A 31. § (10) bekezdése a 23/2021. (VI. 18.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^185]: A 31. § új (11) bekezdését a 124/2007. (X. 20.) FVM rendelet 14. § (2) bekezdése iktatta be, egyidejűleg az eredeti (11) bekezdésének számozását (12) bekezdésre változtatta, szövege a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 23/2021. (VI. 18.) AM rendelet 11. § l) pontja szerint módosított szöveg.
-[^186]: A 31. § eredeti (11) bekezdésének számozását (12) bekezdésre változtatta a 124/2007. (X. 20.) FVM rendelet 14. § (2) bekezdése, szövege a 42/2017. (VIII. 17.) FM rendelet 64. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^181]: A 31. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja, a 23/2021. (VI. 18.) AM rendelet 11. § j) pontja szerint módosított szöveg.
+[^182]: A 31. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 4. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 10. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés e) pontja, a 23/2021. (VI. 18.) AM rendelet 12. § f) pontja szerint módosított szöveg.
+[^183]: A 31. § (4) bekezdése a 23/2021. (VI. 18.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^184]: A 31. § (5) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^185]: A 31. § (5) bekezdés a) pontját a 23/2021. (VI. 18.) AM rendelet 12. § g) pontja hatályon kívül helyezte.
+[^186]: A 31. § (5) bekezdés c) pontja a 23/2021. (VI. 18.) AM rendelet 11. § k) pontja szerint módosított szöveg.
+[^187]: A 31. § (5) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 64. § 11. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^188]: A 31. § (6) bekezdését a 23/2021. (VI. 18.) AM rendelet 12. § h) pontja hatályon kívül helyezte.
+[^189]: A 31. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^190]: A 31. § (10) bekezdése a 23/2021. (VI. 18.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^191]: A 31. § új (11) bekezdését a 124/2007. (X. 20.) FVM rendelet 14. § (2) bekezdése iktatta be, egyidejűleg az eredeti (11) bekezdésének számozását (12) bekezdésre változtatta, szövege a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja, a 23/2021. (VI. 18.) AM rendelet 11. § l) pontja szerint módosított szöveg.
+[^192]: A 31. § eredeti (11) bekezdésének számozását (12) bekezdésre változtatta a 124/2007. (X. 20.) FVM rendelet 14. § (2) bekezdése, szövege a 42/2017. (VIII. 17.) FM rendelet 64. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés g) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## A zöldségpalánta exportja[^160]
+## A zöldségpalánta exportja[^164]
 
 25/A. § (1) Nem elkülönítetten kezelt zöldségpalánta harmadik országba történő kivitele esetén, az üzem kérelmére a megyei kormányhivatal magyar és angol nyelven tanúsítványt állít ki a zöldségpalánta európai uniós jogszabályoknak való megfelelőségéről.
 
@@ -16,4 +16,4 @@ cb) darabszámát vagy tömegét; valamint
 
 d) a tervezett kiszállítás hetét.
 
-[^160]: Az „A zöldségpalánta exportja” alcímet (25/A. §) a 23/2021. (VI. 18.) AM rendelet 8. §-a iktatta be.
+[^164]: Az „A zöldségpalánta exportja” alcímet (25/A. §) a 23/2021. (VI. 18.) AM rendelet 8. §-a iktatta be.

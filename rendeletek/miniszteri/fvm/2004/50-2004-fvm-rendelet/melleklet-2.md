@@ -1,4 +1,4 @@
-2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^242]
+2. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^249]
 
 ## A rendelet hatálya alá tartozó palánták
 
@@ -146,4 +146,4 @@
 
 36.2. pattogató kukorica csoport
 
-[^242]: A 2. számú melléklet a 36/2020. (VI. 29.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^249]: A 2. számú melléklet a 36/2020. (VI. 29.) AM rendelet 5. § (2) bekezdésével megállapított szöveg.

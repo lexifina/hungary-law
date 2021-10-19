@@ -1,3 +1,3 @@
-9. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^249]
+9. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^256]
 
-[^249]: A 9. számú mellékletet a 35/2020. (VI. 29.) AM rendelet 8. §-a hatályon kívül helyezte.
+[^256]: A 9. számú mellékletet a 35/2020. (VI. 29.) AM rendelet 8. §-a hatályon kívül helyezte. [A 37/2021. (X. 14.) AM rendelet 5. §-ával elrendelt módosítás, amely szerint a 9. számú melléklet helyébe az 1. melléklet lép, nem vezethető át.]

@@ -1,6 +1,4 @@
-## végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-1. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^241]
+1. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^248]
 
 ## A rendelet hatálya alá tartozó zöldség vetőmagvak
 
@@ -148,4 +146,4 @@
 
 36.2. pattogató kukorica csoport
 
-[^241]: Az 1. számú melléklet a 36/2020. (VI. 29.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^248]: Az 1. számú melléklet a 36/2020. (VI. 29.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.

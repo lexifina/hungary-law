@@ -20,6 +20,8 @@
 
 10. drazsírozott vetőmag: olyan vetőmag, amelynek felületét speciális összetételű anyaggal vonták be,
 
+10/a.[^14] dughagyma: magról szaporított, kis méretű, de 8 mm átmérőnél nem kisebb vöröshagyma, amelyet a következő évben vöröshagyma szaporítására használnak,
+
 11. elit (bázis) vetőmag: a forgalomba hozatalt megelőző hatósági ellenőrzés mellett előállított és minősített vetőmag, amely eleget tesz a 6. § (1) bekezdésének b) pontjában foglaltaknak,
 
 12. ellenőrzési minta: a forgalomba hozott vetőmagtétel minőségének ellenőrzése, valamint a kisparcellás utóellenőrzés céljából az illetékes állami szerv által a mintavétel előírásainak megfelelően hatósági jogkörben vett minta,
@@ -36,9 +38,11 @@
 
 18. fejlettség: a növények vegetatív és generatív részeinek – a szaporított fajtára jellemző kedvező fejlettséghez viszonyított – átlagos fejlettségi állapota az állományon belül az ellenőrzés időpontjában,
 
-19.[^14] gyomnövények: a vetőmag-szaporító táblán kultúrnövényként nem termesztett növények és azok magvai, termései, hagymái vagy gumói,
+19.[^15] gyomnövények: a vetőmag-szaporító táblán kultúrnövényként nem termesztett növények és azok magvai, termései, hagymái vagy gumói,
 
 20. harmadik ország: az Európai Unió tagállamain (a továbbiakban: tagállam) kívüli ország,
+
+20/a.[^16] héj nélküli dughagyma: olyan dughagyma, amelynek leváltak a száraz héjlevelei, és az ezüsthártyája is megsérült,
 
 21. hibrid: két vagy több szülői komponens meghatározott kereszteződésével létrejött fajta,
 
@@ -48,11 +52,13 @@
 
 24. hivatalos minta: az illetékes állami szerv által a külön jogszabály szerint vett minta, amely a mintavétel célja szerint minősítő vagy ellenőrzési minta lehet,
 
+24/a.[^17] hőkezelt dughagyma: olyan dughagyma, amelyet a dughagyma romlása, valamint a korai magszárképződés megakadályozása céljából 30–35 °C hőmérsékletű tárolótérben legalább 20 napon át tároltak,
+
 25. idegen fajú magvak: a vizsgált fajhoz nem tartozó magvak,
 
 26. idegen növény: a vetőmag-előállítás célját szolgáló növényállományban (fajták, vonalak) előforduló, a hivatalos vagy ezzel egyenértékű fajtaleírástól morfológiai és egyéb bélyegek tekintetében eltérő növény,
 
-26/a.[^15] import vetőmag: az a Magyarország területére beszállított vetőmag, melyet nem az Európai Unióban minősítettek és az Európai Unión belül első forgalomba hozatalára Magyarország területén kerül sor,
+26/a.[^18] import vetőmag: az a Magyarország területére beszállított vetőmag, melyet nem az Európai Unióban minősítettek és az Európai Unión belül első forgalomba hozatalára Magyarország területén kerül sor,
 
 27. ISTA (International Seed Testing Association): a Vetőmagvizsgálók Nemzetközi Szövetsége,
 
@@ -64,7 +70,7 @@
 
 31. kiskerti felhasználás: kis mennyiségben, nem árutermelő részéről történő zöldségpalánta vásárlás,
 
-32.[^16] kis mennyiség: az egy üzem által hajtatási telephelyenként hajtatási fajtákból történő előállítás, illetve forgalomba hozatal esetén legfeljebb évi 10 000 db, dughagyma esetében 200 kg, valamint fiókhagyma esetében 100 kg, mindösszesen 50 000 db palánta,
+32.[^19] kis mennyiség: az egy üzem által hajtatási telephelyenként hajtatási fajtákból történő előállítás, illetve forgalomba hozatal esetén legfeljebb évi 10 000 db, dughagyma esetében 200 kg, valamint fiókhagyma esetében 100 kg, mindösszesen 50 000 db palánta,
 
 33. kiszerelés: a minősített vetőmagvak fajonként meghatározott tömeghatárig történő kicsomagolása,
 
@@ -100,15 +106,17 @@
 
 49. palánta: árutermő növény termesztéséhez alapanyagul szolgáló magról nevelt fiatal növény, beleértve az oltott növényt, valamint a dughagymát, a fiókhagymát és a gyökértörzset,
 
-50.[^17] palántatétel: meghatározott számú egyedből álló, homogén összetételű és azonos származású árut jelölő palánta mennyiség,
+50.[^20] palántatétel: meghatározott számú egyedből álló, homogén összetételű és azonos származású árut jelölő palánta mennyiség,
 
 51. palánta vizsgáló laboratórium: olyan hatóság által megbízott vizsgálatokat végző és eredményeket kibocsátó létesítmény, amelynek közreműködésével a zöldségpalánta minőségi követelményeknek való megfelelése megállapítható,
 
 52. regisztrált fajta: a tagállamok nemzeti fajtajegyzékébe bejegyzett, illetve a Közösségi Fajtajegyzékben közzétett fajta,
 
+52/a.[^21] rövid csírás (búvócsírás) dughagyma: olyan dughagyma, amelynek a hajtása a hagymában már növekedésnek indult vagy kibújt a hagymából,
+
 53. saját felhasználás: az üzem által előállított zöldségpalánta nem forgalomba hozatal, hanem saját termesztés céljára való felhasználása,
 
-54.[^18] saját jogú minősítés: a standard vetőmag előállításának és forgalomba hozatalának alapjául szolgáló, a NÉBIH-nél nyilvántartott személy által végzett minősítés,
+54.[^22] saját jogú minősítés: a standard vetőmag előállításának és forgalomba hozatalának alapjául szolgáló, a NÉBIH-nél nyilvántartott személy által végzett minősítés,
 
 55. standard vetőmag: forgalomba hozatala előtt hatósági ellenőrzésben nem részesített, saját jogú minősítéssel minősített vetőmag, amely eleget tesz a 6. § (1) bekezdésének d) pontjában foglaltaknak,
 
@@ -116,7 +124,7 @@
 
 57. szántóföldi ellenőrzés: a vetőmag-szaporító tábla növényállományának a tenyészidő meghatározott szakaszaiban végzett vizsgálata előírt érték-meghatározó tényezők és a fajtaleírás alapján, amelynek során elbírálják, hogy a növényállomány megfelel-e a vetőmag-szaporításra vonatkozó határértékeknek,
 
-58.[^19] szántóföldi ellenőrzési jegyzőkönyv: a szántóföldi ellenőrzések eredményéről a NÉBIH által készített, az elit és a certifikált vetőmag fémzárolásának és minősítésének alapját képező közokirat,
+58.[^23] szántóföldi ellenőrzési jegyzőkönyv: a szántóföldi ellenőrzések eredményéről a NÉBIH által készített, az elit és a certifikált vetőmag fémzárolásának és minősítésének alapját képező közokirat,
 
 59. származási bizonylat: a certifikált vetőmag előállításához használt, az anyamag származását, faját, fajtáját, szaporítási fokát és minőségét igazoló okirat,
 
@@ -126,15 +134,15 @@
 
 62. tárolás: a vetőmag, illetve az ültetésre kész fejlettségű zöldségpalánta forgalomba hozatalig történő szakszerű megőrzése,
 
-63.[^20] utóellenőrzés: a fajtaazonosság és a fajtatisztaság ellenőrzése céljából a NÉBIH által a letéti mintából, illetve a hivatalos palánta mintából végzett kisparcellás fajtakitermesztés,
+63.[^24] utóellenőrzés: a fajtaazonosság és a fajtatisztaság ellenőrzése céljából a NÉBIH által a letéti mintából, illetve a hivatalos palánta mintából végzett kisparcellás fajtakitermesztés,
 
-64.[^21] üzem: természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely zöldségpalántát hivatásszerűen előállít, tárol, kezel vagy forgalomba hoz,
+64.[^25] üzem: természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely zöldségpalántát hivatásszerűen előállít, tárol, kezel vagy forgalomba hoz,
 
 65. vetőmag tisztaság: a fajazonos tiszta mag aránya, amelyet adott magtömegből tömegszázalékban határoznak meg,
 
 66. vetőmag-feldolgozás: a betakarított nyers magtermés átvétele, szükség szerinti szállítása, tisztítása, esetleges csávázása vagy egyéb kezelése (osztályozása, drazsírozása stb.), csomagolása, a feldolgozott kész vetőmag tárolása, fémzárolásra való előkészítése és a végtermék kiadása,
 
-67.[^22] vetőmag-feldolgozó: az a megfelelő személyi és tárgyi feltételekkel rendelkező – a 6. §-ban foglaltaknak eleget tevő – természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely a betakarított nyers magtermést tisztítótelepi feldolgozással fémzárolásra előkészíti,
+67.[^26] vetőmag-feldolgozó: az a megfelelő személyi és tárgyi feltételekkel rendelkező – a 6. §-ban foglaltaknak eleget tevő – természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, amely a betakarított nyers magtermést tisztítótelepi feldolgozással fémzárolásra előkészíti,
 
 68. vetőmag-minősítő bizonyítvány: a fémzárolt vetőmagtételre vonatkozó, a tétel adatait és a forgalmazás feltételeinek való megfelelést tartalmazó okirat,
 
@@ -150,12 +158,16 @@
 
 [^12]: A 2. § 3. pontja az 5/2012. (II.10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § 5. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja, a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.
-[^14]: A 2. § 19. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított szöveg.
-[^15]: A 2. § 26/a. pontját a 14/2011. (II. 24.) VM rendelet 2. § (1) bekezdése iktatta be, szövege az 5/2012. (II.10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
-[^16]: A 2. § 32. pontja a 14/2011. (II. 24.) VM rendelet 2. § (2) bekezdésével megállapított, a 23/2021. (VI. 18.) AM rendelet 11. § b) pontja szerint módosított szöveg.
-[^17]: A 2. § 50. pontja a 23/2021. (VI. 18.) AM rendelet 11. § c) pontja szerint módosított szöveg.
-[^18]: A 2. § 54. pontja a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja szerint módosított szöveg.
-[^19]: A 2. § 58. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^20]: A 2. § 63. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^21]: A 2. § 64. pontja a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.
-[^22]: A 2. § 67. pontja a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.
+[^14]: A 2. § 10/a. pontját a 37/2021. (X. 14.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^15]: A 2. § 19. pontja a 124/2007. (X. 20.) FVM rendelet 2. §-ával megállapított szöveg.
+[^16]: A 2. § 20/a. pontját a 37/2021. (X. 14.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^17]: A 2. § 24/a. pontját a 37/2021. (X. 14.) AM rendelet 1. § (3) bekezdése iktatta be.
+[^18]: A 2. § 26/a. pontját a 14/2011. (II. 24.) VM rendelet 2. § (1) bekezdése iktatta be, szövege az 5/2012. (II.10.) VM rendelet 10. § a) pontja szerint módosított szöveg.
+[^19]: A 2. § 32. pontja a 14/2011. (II. 24.) VM rendelet 2. § (2) bekezdésével megállapított, a 23/2021. (VI. 18.) AM rendelet 11. § b) pontja szerint módosított szöveg.
+[^20]: A 2. § 50. pontja a 23/2021. (VI. 18.) AM rendelet 11. § c) pontja szerint módosított szöveg.
+[^21]: A 2. § 52/a. pontját a 37/2021. (X. 14.) AM rendelet 1. § (4) bekezdése iktatta be.
+[^22]: A 2. § 54. pontja a 70/2013. (VII. 31.) VM rendelet 32. § b) pontja szerint módosított szöveg.
+[^23]: A 2. § 58. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^24]: A 2. § 63. pontja a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
+[^25]: A 2. § 64. pontja a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.
+[^26]: A 2. § 67. pontja a 22/2014. (III. 14.) VM rendelet 22. § b) pontja szerint módosított szöveg.
