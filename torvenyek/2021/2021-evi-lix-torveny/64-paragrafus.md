@@ -1,1 +1,3 @@
-64. §
+64. § Az Útdíjtv. 19. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Amennyiben a felügyeleti szerv megállapítja, hogy az útdíjszedő gyakorlata, vagy más körülmény miatt az UD rendszer nem felel meg a meghatározott átjárhatósági műszaki és eljárási feltételeknek, felhívja az útdíjszedőt, hogy legfeljebb hat hónapon belül tegye alkalmassá a rendszert az EETS irányelvben meghatározott átjárhatósági műszaki és eljárási követelmények teljesítésére. Amennyiben az útdíjszedő a határidőt elmulasztja, a 20. § (2) bekezdés b) pontja szerinti bírság kiszabása mellett a felügyeleti szerv kötelezi az irányelv szerinti kötelezettségei teljesítésére.”
