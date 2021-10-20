@@ -1,1 +1,0 @@
-A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés a) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bank Monetáris Tanácsának döntésére tekintettel a következőket rendelem el:
