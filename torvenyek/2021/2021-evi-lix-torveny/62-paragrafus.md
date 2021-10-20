@@ -1,3 +1,1 @@
-62. § Az Útdíjtv. 9. §-a a következő (2) bekezdéssel egészül ki:
-
-„(2) Az (1) bekezdés szerinti mentesség – e törvény eltérő rendelkezése hiányában – az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára, valamint közútkezelői hozzájárulás hiányában a megengedett össztömeget, illetve a megengedett legnagyobb tengelyterhelést meghaladó járművekkel közlekedésre jogosultak nyilvántartásába (a továbbiakban: mentességi nyilvántartás) történő bejegyzése alapján áll fenn. A mentesség hatálya a bejelentésben megjelölt, legfeljebb egyéves időszakra terjed ki.”
+62. §
