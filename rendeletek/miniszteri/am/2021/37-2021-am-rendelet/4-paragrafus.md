@@ -1,3 +1,3 @@
-## 3. § Az 50/2004. (IV. 22.) FVM rendelet 30. §-a a következő (12) bekezdéssel egészül ki:
+## 3. §[^4]
 
-## „(12) Dughagyma és fokhagyma esetén az (1)–(11) bekezdés rendelkezéseit a 9. számú mellékletben foglaltakra figyelemmel kell alkalmazni.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-## 6. § Az 50/2004. (IV. 22.) FVM rendelet 25. § (5) bekezdésében az „5. számú mellékletében” szövegrész helyébe az „5. és 9. számú mellékletében” szöveg lép.
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
