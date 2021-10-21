@@ -116,6 +116,8 @@
 
 43.[^19] a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet szerinti beruházás.
 
+44.[^20] az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet 2. mellékletében foglalt táblázat 8. sora szerinti beruházás.
+
 [^11]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^12]: A 3. melléklet 37. pontját a 42/2018. (III. 13.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
 [^13]: A 3. melléklet 38. pontját a 64/2019. (III. 27.) Korm. rendelet 17. §-a iktatta be.
@@ -125,3 +127,4 @@
 [^17]: A 3. melléklet 41. pontját a 196/2020. (V. 12.) Korm. rendelet 11. §-a iktatta be.
 [^18]: A 3. melléklet 42. pontját az 545/2020. (XII. 2.) Korm. rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
 [^19]: A 3. melléklet 43. pontját a 262/2021. (V. 20.) Korm. rendelet 11. §-a iktatta be.
+[^20]: A 3. melléklet 44. pontját az 590/2021. (X. 20.) Korm. rendelet 1. §-a iktatta be.
