@@ -56,6 +56,8 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (17)[^48] E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 201/2021. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 1. melléklet 1.2.140., 1.3.130–1.3.132. alpontját és 1.8.271–1.8.272. alpontját a Módr9. hatálybalépésekor[^49] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
+(18)[^50] E rendeletnek a Tokaj-Zemplén Térség Fejlesztési Program keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 589/2021. (X. 20.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított 1. melléklet 1.2.141–1.2.143. alpontját a Módr10. hatálybalépésekor[^51] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
 [^18]: A 7. § (2) bekezdés d) pontját a 441/2015. (XII. 28.) Korm. rendelet 185. § a) pontja hatályon kívül helyezte.
 [^19]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^20]: A hatálybalépés időpontja 2013. október 26.
@@ -88,3 +90,5 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^47]: A hatálybalépés időpontja 2021. áprilsi 30.
 [^48]: A 7. § (17) bekezdését a 201/2021. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
 [^49]: A hatálybalépés időpontja 2021. április 29.
+[^50]: A 7. § (18) bekezdését az 589/2021. (X. 20.) Korm. rendelet 8. §-a iktatta be.
+[^51]: A hatálybalépés időpontja 2021. október 21.

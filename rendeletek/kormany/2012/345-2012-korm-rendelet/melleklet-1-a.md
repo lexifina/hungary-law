@@ -448,6 +448,12 @@
 
 ## 1.2.140. Az 1. számú főút, Tatabánya, 48+995 km szelvényben lévő csomópont fejlesztése.
 
+## 1.2.141. A 37. számú főút Szerencs–Sátoraljaújhely szakasz teljes rekonstrukciója,
+
+## 1.2.142. A 39. számú főút Mezőzombor–Abaújkér szakasz felújítása,
+
+## 1.2.143. A 38. számú főút Tarcal–Tokaj közötti szakasz felújítása.
+
 ## 1.3. Mellékutak
 
 ## 1.3.1. A 74176. jelű út (Kercaszomor–országhatár) fejlesztése.
@@ -2036,6 +2042,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^52]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^54]
 
-[^52]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^54]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
