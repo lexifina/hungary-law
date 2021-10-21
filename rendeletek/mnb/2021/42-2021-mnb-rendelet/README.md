@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-42-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-10-20 | 2021-42-20-2C.1 | 42/2021. (X. 19.) MNB rendelet |
+| 2021-10-21 | 2021-42-20-2C.2 | 50/2021. (XI. 16.) MNB rendelet |

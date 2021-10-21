@@ -2,4 +2,6 @@
 
 2. § (1) Ez a rendelet 2021. október 20-án lép hatályba.
 
-(2) Hatályát veszti a jegybanki alapkamat mértékéről szóló 37/2021. (IX. 21.) MNB rendelet.
+(2)[^2]
+
+[^2]: A 2. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
