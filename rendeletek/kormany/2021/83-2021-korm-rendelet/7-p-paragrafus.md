@@ -1,5 +1,3 @@
-## 7/O. §[^30] A Kormány a 2. melléklet 8. sora tekintetében az 1. melléklet 1–12., 14–17., 20. és 25–26. pontjai szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
-
 7/P. §[^31] (1) A 2. mellékletben foglalt táblázat 24. sora szerinti beruházással (e § alkalmazásában a továbbiakban: beruházás) érintett ingatlanon intézményi, rekreációs, kulturális, művelődési, kereskedelmi, vendéglátó, szolgáltató-, oktatási, igazgatási és egyéb közösségi szórakoztató funkciójú épület, irodaépület, kutatás-fejlesztés építménye, sportépítmény, valamint parkoló, parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló-építményei helyezhetőek el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési eszközök és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
@@ -30,5 +28,4 @@ j) a helyi településrendezési eszközben előírt infrastruktúra-fejlesztés
 
 (3) A beruházás tárgyát képező eredeti épület megvalósításához szükséges építési telek kialakítása, telekalakítás az övezeti határokra tekintet nélkül elvégezhető.
 
-[^30]: A 7/O. §-t a 401/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
 [^31]: A 7/P. §-t a 411/2021. (VII. 12.) Korm. rendelet 6. §-a iktatta be.

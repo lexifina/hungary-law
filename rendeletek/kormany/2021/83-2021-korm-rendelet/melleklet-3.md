@@ -112,6 +112,6 @@
 
 | 55. | „Kovács Sándor – Törőcsik Mari Ház (Pély)” beruházás | Pély belterület 108/1 és 108/2 helyrajzi számú ingatlanok | Heves Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^102]
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^104]
 
-[^102]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^104]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
