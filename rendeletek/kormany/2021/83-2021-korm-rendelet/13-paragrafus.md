@@ -1,3 +1,3 @@
-## 12. §[^45]
+## 12. §[^46]
 
-[^45]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

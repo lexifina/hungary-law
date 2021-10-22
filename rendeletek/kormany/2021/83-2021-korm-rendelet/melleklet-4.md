@@ -12,6 +12,8 @@
 
 | 5. | A Csongrád-Csanád Megyei Egészségügyi Ellátó Központ honvéd egészségügyi ellátás rendszeréhez történő csatlakozása érdekében szükséges, továbbá a kórházfejlesztési pályázat keretében megvalósuló beruházások | Hódmezővásárhely belterület 1371/4 helyrajzi számú ingatlan | 2021. október 5. – 2022. május 15. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^105]
+| 6. | A Károlyi-palota részleges belső felújítása és udvarának felújítása | Budapest V. kerület belterület, 24166/1, 24166/2, 24167, 24164, 24016 helyrajzi számú ingatlanok | a kivitelezés megkezdésétől – 2023. március 31. |
 
-[^105]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^108]
+
+[^108]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.

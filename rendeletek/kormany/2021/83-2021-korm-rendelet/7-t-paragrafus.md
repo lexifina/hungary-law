@@ -1,4 +1,4 @@
-7/T. §[^35] (1) A 2. mellékletben foglalt táblázat 46. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/T. §[^36] (1) A 2. mellékletben foglalt táblázat 46. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -40,4 +40,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és
 
 (3) A 2. mellékletben foglalt táblázat 46. sorában meghatározott beruházással kapcsolatban a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-a szerint meghatározott személygépkocsik számának legalább 35%-a elhelyezését kell biztosítani.
 
-[^35]: A 7/T. §-t az 525/2021. (IX. 8.) Korm. rendelet 3. §-a iktatta be.
+[^36]: A 7/T. §-t az 525/2021. (IX. 8.) Korm. rendelet 3. §-a iktatta be.

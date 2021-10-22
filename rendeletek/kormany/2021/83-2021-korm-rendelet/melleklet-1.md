@@ -1,4 +1,4 @@
-## 39. §[^96] E rendeletnek az egyes kormányrendeletek módosításáról szóló 590/2021. (X. 20.) Korm. rendelettel (a továbbiakban: Módr31.) megállapított 3. § (4) bekezdését, 7/O. §-át és 4. mellékletét a Módr31. hatálybalépésekor[^97] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 40. §[^99] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 591/2021. (X. 20.) Korm. rendelettel (a továbbiakban: Módr32.) módosított 1. § (2) bekezdés b) pontját, (2a), (3) és (4) bekezdését, 5. § (2) bekezdését, valamint 2. mellékletében foglalt táblázat 56. sorát és 3. mellékletében foglalt táblázat 6. sorát a Módr32. hatálybalépésekor[^100] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -46,20 +46,20 @@
 
 21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-22.[^98] földvédelmi hatósági eljárások,
+22.[^101] földvédelmi hatósági eljárások,
 
-23.[^99] erdészeti hatósági eljárások,
+23.[^102] erdészeti hatósági eljárások,
 
-24.[^100] bányahatósági engedélyezési eljárások,
+24.[^103] bányahatósági engedélyezési eljárások,
 
-25.[^101] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+25.[^104] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-26.[^102] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+26.[^105] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^96]: A 39. §-t az 590/2021. (X. 20.) Korm. rendelet 4. §-a iktatta be.
-[^97]: A hatálybalépés időpontja 2021. október 21.
-[^98]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^99]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^100]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^101]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^102]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^99]: A 40. §-t az 591/2021. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+[^100]: A hatálybalépés időpontja 2021. október 22.
+[^101]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^102]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^103]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^104]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^105]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
