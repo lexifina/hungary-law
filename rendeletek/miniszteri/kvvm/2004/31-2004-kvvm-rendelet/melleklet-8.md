@@ -68,4 +68,4 @@
 
 8. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^28]
 
-[^28]: A 8. mellékletet a 49/2015. (IX. 8.) BM rendelet 8. §-a iktatta be, szövege a 36/2018. (XII. 21.) BM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^28]: A 8. mellékletet a 49/2015. (IX. 8.) BM rendelet 8. §-a iktatta be, szövege a 35/2021. (X. 14.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.

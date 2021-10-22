@@ -1,26 +1,28 @@
-## A megfigyelési lista keretében monitorozandó anyagok a második megfigyelési időszakban
+## A megfigyelési lista keretében monitorozandó anyagok a harmadik megfigyelési időszakban
 
 |  | A | B | C | D | E |
 
-| 1. | Az anyag vagy anyagcsoport neve | CAS szám1 | EU szám2 | Indikatív elemzési módszer3, 4 | A módszer legnagyobb elfogadható kimutatási határa (ng/l) |
+| 1. | Az anyag vagy anyagcsoport neve | CAS szám1 | EU szám2 | Indikatív elemzési módszer3,4 | A módszer legnagyobb elfogadható kimutatási határa (ng/l) |
 
-| 2. | 17-alfa-etinil-ösztradiol (EE2) | 57-63-6 | 200-342-2 | SPE nagy mennyiségen – LC-MS-MS | 0,035 |
+| 2. | Metaflumizon | 139968-49-3 | 604-167-6 | LLE - LC-MS-MS vagy SPE – LC-MS-MS | 65 |
 
-| 3. | 17-béta-ösztradiol (E2), ösztron (E1) | 50-28-2, 53-16-7 | 200-023-8 | SPE – LC-MS-MS | 0,4 |
+| 3. | Amoxicillin | 26787-78-0 | 248-003-8 | SPE – LC-MS-MS | 78 |
 
-| 4. | Makrolid antibiotikumok5 |  |  | SPE – LC-MS-MS | 19 |
+| 4. | Ciprofloxacin | 85721-33-1 | 617-751-0 | SPE – LC-MS-MS | 89 |
 
-| 5. | Metiokarb | 2032-65-7 | 217-991-2 | SPE – LC-MS-MS vagy GC-MS | 2 |
+| 5. | Szulfametoxazol5 | 723-46-6 | 211-963-3 | SPE – LC-MS-MS | 100 |
 
-| 6. | Neonikotinoidok6 |  |  | SPE – LC-MS-MS | 8,3 |
+| 6. | Trimetoprim5 | 738-70-5 | 212-006-2 | SPE – LC-MS-MS | 100 |
 
-| 7. | Metaflumizon | 139968-49-3 | 604-167-6 | LLE–LC-MS-MS vagy SPE – LC-MS-MS | 65 |
+| 7. | Venlafaxin és O-dezmetil- venlafaxin6 | 93413-69-5 93413-62-8 | 618-944-2 700-516-2 | SPE – LC-MS-MS | 6 |
 
-| 8. | Amoxicillin | 26787-78-0 | 248-003-8 | SPE – LC-MS-MS | 78 |
+| 8. | Azolvegyületek7 Klotrimazol Flukonazol Imazalil Ipkonazol Metkonazol Mikonazol Penkonazol Prokloráz Tebukonazol Tetrakonazol | 23593-75-1 86386-73-4 35554-44-0 125225-28-7 125116-23-6 22916-47-8 66246-88-6 67747-09-5 107534-96-3 112281-77-3 | 245-764-8 627-806-0 252-615-0 603-038-1 603-031-3 245-324-5 266-275-6 266-994-5 403-640-2 407-760-6 | SPE – LC-MS-MS | 20 250 800 44 29 200 1700 161 240 1900 |
 
-| 9. | Ciprofloxacin | 85721-33-1 | 617-751-0 | SPE – LC-MS-MS | 89 |
+| 9. | Dimoxistrobin | 149961-52-4 | 604-712-8 | SPE – LC-MS-MS | 32 |
 
-## 1 CAS=Chemical Abstracts Service (Vegyianyag Nyilvántartási Szolgálat)
+| 10. | Famoxadon | 131807-57-3 | 603-520-1 | SPE – LC-MS-MS | 8,5 |
+
+## 1 CAS = Chemical Abstracts Service (Vegyianyag Nyilvántartási Szolgálat)
 
 ## 2 Európai uniós szám – nem minden anyag esetében áll rendelkezésre
 
@@ -28,25 +30,21 @@
 
 ## 4 Kivonási módszerek:
 
-## LLE–liquid liquid extraction: folyadék/folyadék extrakció;
+## LLE – liquid liquid extraction: folyadék/folyadék extrakció;
 
-## SPE–solid-phase extraction: szilárd fázisú extrakció.
+## SPE – solid-phase extraction: szilárd fázisú extrakció.
 
 ## Elemzési módszerek:
 
-## GC-MS–Gas chromatography-mass spectrometry: gáz kromatográfia/tömeg spektrometria;
-
-## LC-MS-MS–Liquid chromatography (tandem) triple quadrupole mass spectrometry: folyadék-kromatográffal kapcsolt tandem tripla kvadrupól
+## LC-MS-MS – Liquid chromatography (tandem) triple quadrupole mass spectrometry: folyadék-kromatográffal kapcsolt tandem tripla kvadrupól
 
 ## tömegspektrométer.
 
-## 5 Eritromicin (CAS-szám: 114-07-8, EU-szám: 204-040-1), klaritromicin (CAS-szám: 81103-11-9), azitromicin (CAS-szám: 83905-01-5, EU-szám:
+## 5 A szulfametoxazolt és a trimetoprimet azonos mintában együtt kell elemezni, de koncentrációjuk külön-külön jelentendő.
 
-## 617-500-5).
+## 6 A venlafaxint és az O-dezmetil-venlafaxint azonos mintában együtt kell elemezni, de koncentrációjuk külön-külön jelentendő.
 
-## 6 Imidakloprid (CAS-szám: 105827-78-9/ 138261-41-3, EU-szám: 428-040-8), tiakloprid (CAS-szám: 111988-49-9), tiametoxam (CAS-szám:
-
-## 153719-23-4, EU-szám: 428-650-4), klotianidin (CAS-szám: 210880-92-5, EU-szám: 433-460-1), acetamiprid (CAS-szám: 135410-20-7/ 160430-64-8).
+## 7 Az azolvegyületeket azonos mintában együtt kell elemezni, de koncentrációjuk külön-külön jelentendő.
 
 9. melléklet 31/2004. (XII. 30.) KvVM rendelethez[^29]
 
