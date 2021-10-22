@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2019-04-14 | 2004-79-20-82.36 | 5/2019. (III. 14.) AM rendelet |
 | 2020-11-01 | 2004-79-20-82.37 | 52/2020. (X. 27.) AM rendelet |
 | 2021-02-16 | 2004-79-20-82.38 | 2/2021. (II. 15.) AM rendelet |
+| 2021-10-22 | 2004-79-20-82.39 | 38/2021. (X. 21.) AM rendelet |

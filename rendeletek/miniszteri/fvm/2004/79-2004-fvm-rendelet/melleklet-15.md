@@ -18,6 +18,6 @@
 
 ## Szigorú számadású nyomtatvány
 
-15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^262]
+15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^263]
 
-[^262]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
+[^263]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.

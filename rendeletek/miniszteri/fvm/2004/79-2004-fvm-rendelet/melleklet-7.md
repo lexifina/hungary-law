@@ -50,7 +50,7 @@
 
 ## 5.3. A tervben felhasznált adatok és szakirodalom forrásai
 
-7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^254]
+7. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^255]
 
 I. A VADÁLLOMÁNYBECSLÉS ÉS AZ ÉVES VADGAZDÁLKODÁSI TERV TARTALMI KÖVETELMÉNYEI
 
@@ -136,4 +136,4 @@ tájegységi fővadász
 
 * A megfelelő rész aláhúzandó.
 
-[^254]: A Vhr. 7. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (3) bekezdésével megállapított, az 52/2020. (X. 27.) AM rendelet 12. § d) pontja szerint módosított szöveg.
+[^255]: A Vhr. 7. számú melléklete a 24/2017. (V. 17.) FM rendelet 33. § (3) bekezdésével megállapított, az 52/2020. (X. 27.) AM rendelet 12. § d) pontja szerint módosított szöveg.

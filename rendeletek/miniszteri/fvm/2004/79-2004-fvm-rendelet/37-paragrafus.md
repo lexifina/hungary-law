@@ -4,9 +4,9 @@
 
 (2) Ha a szolgálati lőfegyver használata következtében személyi sérülés történt, a hivatásos vadász köteles a sérültet a helyszínen elsősegélyben részesíteni, és sürgős orvosi ellátásáról gondoskodni.
 
-(3)[^83] A szolgálati lőfegyver, valamint a vegyi eszköz személy elleni használatát a hivatásos vadász a rendőrhatóságnak és a vadászatra jogosultnak azonnal, a vadászati hatóságnak legkésőbb a használatot követő napon jelenti.
+(3)[^84] A szolgálati lőfegyver, valamint a vegyi eszköz személy elleni használatát a hivatásos vadász a rendőrhatóságnak és a vadászatra jogosultnak azonnal, a vadászati hatóságnak legkésőbb a használatot követő napon jelenti.
 
-(4)[^84] A hivatásos vadász köteles az őt ért támadásról, fenyegetésről vagy jogszerű tevékenysége akadályoztatásáról a vadászatra jogosultat tájékoztatni, valamint indokolt esetben a rendelkezésre álló bizonyítékok megjelölésével a rendőrhatóságnál feljelentést tenni.
+(4)[^85] A hivatásos vadász köteles az őt ért támadásról, fenyegetésről vagy jogszerű tevékenysége akadályoztatásáról a vadászatra jogosultat tájékoztatni, valamint indokolt esetben a rendelkezésre álló bizonyítékok megjelölésével a rendőrhatóságnál feljelentést tenni.
 
-[^83]: A Vhr. 37. § (3) bekezdése az 52/2020. (X. 27.) AM rendelet 5. §-ával megállapított szöveg.
-[^84]: A Vhr. 37. § (4) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (1) bekezdés b) pontja, a 24/2017. (V. 17.) FM rendelet 34. § 4. pontja szerint módosított szöveg.
+[^84]: A Vhr. 37. § (3) bekezdése az 52/2020. (X. 27.) AM rendelet 5. §-ával megállapított szöveg.
+[^85]: A Vhr. 37. § (4) bekezdése a 7/2010. (II. 2.) FVM rendelet 48. § (1) bekezdés b) pontja, a 24/2017. (V. 17.) FM rendelet 34. § 4. pontja szerint módosított szöveg.

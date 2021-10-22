@@ -28,7 +28,7 @@
 
 | 13 | vörös fogoly | egész évben |
 
-| 14 | nyári lúd | október 1. – december 31. |
+| 14 | nyári lúd | október 1. – január 31. |
 
 | 15 | vetési lúd, nagy lilik, kanadai lúd, nílusi lúd | október 1. – január 31. |
 
@@ -218,8 +218,8 @@
 
 6. számú melléklet
 
-79/2004. (V. 4.) FVM rendelethez[^253]
+79/2004. (V. 4.) FVM rendelethez[^254]
 
 A VADGAZDÁLKODÁSI ÜZEMTERV TARTALMI KÖVETELMÉNYEI
 
-[^253]: A Vhr. 6. számú melléklete a 13/2018. (VII. 3.) AM rendelet 4. §-ával megállapított szöveg.
+[^254]: A Vhr. 6. számú melléklete a 13/2018. (VII. 3.) AM rendelet 4. §-ával megállapított szöveg.

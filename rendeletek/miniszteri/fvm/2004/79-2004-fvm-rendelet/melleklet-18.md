@@ -30,6 +30,6 @@
 
 | kiadmányozó |
 
-18. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^266]
+18. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^267]
 
-[^266]: A Vhr. 18. mellékletét a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés i) pontja hatályon kívül helyezte.
+[^267]: A Vhr. 18. mellékletét a 70/2017. (XII. 29.) FM rendelet 4. § (2) bekezdés i) pontja hatályon kívül helyezte.
