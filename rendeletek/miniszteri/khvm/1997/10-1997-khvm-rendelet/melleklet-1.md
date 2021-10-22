@@ -1,3 +1,3 @@
-1. számú melléklet a 10/1997. (VII. 17.) KHVM rendelethez[^66]
+1. melléklet a 10/1997. (VII. 17.) KHVM rendelethez[^77]
 
-[^66]: Az 1. számú melléklet a 42/2017. (XII. 29.) BM rendelet 1. § a) pontjával megállapított, a 36/2018. (XII. 21.) BM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^77]: Az 1. melléklet a 35/2021. (X. 14.) BM rendelet 1. § (14) bekezdésével megállapított szöveg.

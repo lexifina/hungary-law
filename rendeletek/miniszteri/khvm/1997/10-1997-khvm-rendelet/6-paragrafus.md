@@ -8,8 +8,8 @@
 
 (4) A védekezésre kötelezett szerv vezetőjének a védelmi helyzetről a felülvizsgálati jegyzőkönyvek alapján értékelő jelentést kell készítenie, és azt az intézkedési tervvel együtt december 10-ig jóváhagyásra meg kell küldenie a felülvizsgálatra jogosult szervnek.
 
-(5)[^20] Ha az előrejelzések szerint védekezési készültség elrendelése várható, a védművek felülvizsgálata alapján készült intézkedési tervben szereplő és a védelmi biztonságot közvetlenül befolyásoló hiányosságokat haladéktalanul meg kell szüntetni, vagy a védelmi képesség átmeneti helyreállításáról kell gondoskodni.
+(5)[^23] Ha az előrejelzések szerint védekezési készültség elrendelése várható, a védművek felülvizsgálata alapján készült intézkedési tervben szereplő és a védelmi biztonságot közvetlenül befolyásoló hiányosságokat haladéktalanul meg kell szüntetni, vagy a védelmi képesség átmeneti helyreállításáról kell gondoskodni.
 
 (6) Az érintett védelmi szakaszokon a felülvizsgálatot rendkívüli védekezési készültséget, valamint a védművek megrongálódásával járó jelentősebb III. fokú védekezést követően is végre kell hajtani.
 
-[^20]: A 6. § (5) bekezdése a 49/2016. (XII. 14.) BM rendelet 3. §-ával megállapított szöveg.
+[^23]: A 6. § (5) bekezdése a 49/2016. (XII. 14.) BM rendelet 3. §-ával megállapított szöveg.

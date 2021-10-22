@@ -2,10 +2,10 @@
 
 ## A védelmi szakaszok
 
-2. § (1) A védekezésre kötelezetteknek védelmi tevékenységüket árvízvédelmi védvonalakon és belvízrendszerekben kell ellátniuk.
+2. §[^1] (1) Az árvíz, belvíz, helyi vízkár, a vízhiányos helyzet és a tartósan vízhiányos időszak során védekezésre kötelezetteknek a védelmi tevékenységüket árvízvédelmi védvonalakon, belvízvédelmi szakaszokon, vízhiánykezelő körzetekben, a helyi vízkárelhárítási területen, adott vízfolyás vízgyűjtőjén és létesítményein, tározón vagy az adott önkormányzat közigazgatási területén helyi vízkárelhárítás keretében kell ellátniuk.
 
-(2) Az árvízvédelmi védvonalak és a belvízrendszerek a védekezés ellátása szempontjából védelmi szakaszokra oszlanak.
+(2) Az árvízvédelmi védvonalakon és a belvízrendszerekben a védekezés védelmi szakaszokon, a vízhiányos helyzet elleni védekezés vízhiánykezelő körzetekben, a helyi vízkár elleni védekezés helyi vízkárelhárítás keretében történik.
 
-(3)[^1] A vízügyi igazgatási szervek vagyonkezelésébe tartozó árvízvédelmi vonalak és a belvízrendszerek védelmi szakaszait, továbbá az árvízvédekezés készültségi fokozatainak elrendelésére mértékadó vízállásokat az 1. és a 2. számú melléklet tartalmazza. A belvízrendszerek műszaki adatait a vízügyi igazgatási szervek irányításáért felelős miniszter normatív utasítása tartalmazza.
+(3) A vízügyi igazgatási szervek vagyonkezelésébe tartozó árvízvédelmi vonalakat, valamint az árvízvédekezés készültségi fokozatainak elrendelésére és megszüntetésére mértékadó vízállásokat az 1. melléklet, a belvízrendszereket és belvízvédelmi szakaszokat a 2. melléklet, a vízhiánykezelő körzeteket a 3. melléklet határozza meg. A helyi vízkárelhárítási tevékenységre vonatkozó műszaki adatokat a települések vízkárelhárítási tervei tartalmazzák.
 
-[^1]: A 2. § (3) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (1) bekezdése, a 49/2016. (XII. 14.) BM rendelet 12. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § a 35/2021. (X. 14.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
