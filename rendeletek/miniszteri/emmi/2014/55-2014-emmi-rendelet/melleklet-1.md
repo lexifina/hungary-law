@@ -372,7 +372,7 @@ tartalmazhat.
 
 | 108. | Methoxpropamine | 2-(3-methoxyphenyl)-2-(propylamino)cyclohexan-1-one |
 
-| 109. | Etizolam | 4-(2-chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4] triazolo[4,3-a][1,4]diazepine |
+| 109. |  |  |
 
 | 110. | Pyrazolam | 8-bromo-1-methyl-6-(pyridin-2-yl)-4H-[1,2,4]triazolo[4,3-a][1,4] benzodiazepine |
 
@@ -774,7 +774,7 @@ tartalmazhat.
 
 | 309. | 3-Methoxyphenmetrazine | 2-(3-methoxyphenyl)-3-methylmorpholine |
 
-| 310. | 4F-EPH | Ethyl 2-(4-fluorophenyl)-2-(piperidin-2-yl)acetate |
+| 310. |  |  |
 
 | 311. | butonitazene | 2-(2-(4-butoxybenzyl)-5-nitro-1H-benzimidazol-1-yl)-N,N-diethylethan-1-amine |
 
@@ -806,9 +806,19 @@ tartalmazhat.
 
 | 325. | CHM-MDMB-CHMINACA | cyclohexylmethyl 2-(1-(cyclohexylmethyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate |
 
+| 326. | protonitazene | N,N-diethyl-5-nitro-2-[(4-propoxyphenyl)methyl]- 1H-benzimidazole-1-ethanamine |
+
+| 327. | 4Br-MAR | 5-(4-bromophenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine |
+
+| 328. | 4Cl-MAR | 5-(4-chlorophenyl)-4-methyl-4,5-dihydro-1,3-oxazol-2-amine |
+
+| 329. | 2C-T-21 | 2-[4-(2-fluoroethylsulfanyl)–2,5-dimethoxy-phenyl]ethanamine |
+
+| 330. | 5-chloro-alpha MT | 1-(5-chloro-1H-indol-3-yl)propan-2-amine |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 [^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1–2. §-a, a 19/2021. (VI. 2.) EMMI rendelet 1. §-a, a 22/2021. (VI. 8.) EMMI rendelet 1. §-a, a 33/2021. (VII. 29.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1–2. §-a, a 19/2021. (VI. 2.) EMMI rendelet 1. §-a, a 22/2021. (VI. 8.) EMMI rendelet 1. §-a, a 33/2021. (VII. 29.) EMMI rendelet 1. §-a, a 45/2021. (X. 19.) EMMI rendelet 1. §-a szerint módosított szöveg.
