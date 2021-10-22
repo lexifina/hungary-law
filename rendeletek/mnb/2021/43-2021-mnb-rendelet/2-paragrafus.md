@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 12,5 gramm, átmérője 30 mm, széle recézett.
+
+(2) Az emlékérme előlapja Cziffra Györgyöt ábrázolja a franciaországi Senlisben található Saint-Frambourg-kápolnában – a zongoraművész által alapított „Fondation Cziffra” központjának Liszt Ferenc Auditóriumában –, miközben koncertet ad. Az előlap alsó részén, két egymás alatti sorban a „MAGYARORSZÁG” felirat, valamint a „7500” értékjelzés és az „Ft” felirat, az előlap jobb oldalán – a kápolna ábrázolásába illesztve –, két egymás alatti sorban a „BP.” verdejel és a „2021” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Cziffra György portréja látható. A portrétól jobbra, három egymás alatti sorban a „CZIFFRA”, a „GYÖRGY”, valamint Cziffra György születésének és halálának évét jelölő „1921–1994” felirat olvasható. A hátlap szélén, a feliratok alatt az emlékérmét tervező Fritz Mihály mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
