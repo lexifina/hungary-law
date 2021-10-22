@@ -1,4 +1,4 @@
-## 9. § A Rendelet 1. melléklete a 3. melléklet szerint módosul.
+## 9. §[^2]
 
 1. melléklet az 589/2021. (X. 20.) Korm. rendelethez
 
@@ -51,3 +51,5 @@
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

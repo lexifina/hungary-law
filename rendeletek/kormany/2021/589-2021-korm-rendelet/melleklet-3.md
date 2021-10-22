@@ -10,12 +10,6 @@
 
 | 4. | Sátoraljaújhely, Nemzeti Összetartozás hídja, Szárhegy és Várhegy közötti függőhíd építése | Sátoraljaújhely külterület 0177/22, 0177/21 helyrajzi számú ingatlanok |
 
-3. melléklet az 589/2021. (X. 20.) Korm. rendelethez
+3. melléklet az 589/2021. (X. 20.) Korm. rendelethez[^3]
 
-A Rendelet 1. melléklet 1. pont 1.2. alpontja a következő 1.2.141–1.2.143. ponttal egészül ki:
-
-„1.2.141. A 37. számú főút Szerencs–Sátoraljaújhely szakasz teljes rekonstrukciója,
-
-1.2.142. A 39. számú főút Mezőzombor–Abaújkér szakasz felújítása,
-
-1.2.143. A 38. számú főút Tarcal–Tokaj közötti szakasz felújítása.”
+[^3]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
