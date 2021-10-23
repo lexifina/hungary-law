@@ -1,3 +1,5 @@
-## 6. § Hatályát veszti az R. 5. § (1) bekezdés 2. és 23. pontja.
+## 6. §[^7]
 
 7. § Ez a rendelet a kihirdetését követő 10. napon lép hatályba.
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

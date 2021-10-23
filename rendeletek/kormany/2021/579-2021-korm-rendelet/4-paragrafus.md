@@ -1,5 +1,3 @@
-## „43. létrehozza a desztinációmenedzsment-szervezet rendszerét, részt vesz a desztinációmenedzsment-szervezet szakmai koordinációjában, irányítja a szakmai munkát,
+## 3. §[^4]
 
-## 44. fenntartja a Tourinform névhasználati rendszert,
-
-## 45. ellátja a vallásturizmussal kapcsolatos feladatokat.”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
