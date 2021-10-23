@@ -1,3 +1,5 @@
-## 1. § Hatályát veszti a természetes személy adósságrendezési eljárásában az adósra, adóstársra vonatkozó környezettanulmány elvégzésével összefüggő szabályokról szóló 21/2015. (IX. 2.) IM rendelet.
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
