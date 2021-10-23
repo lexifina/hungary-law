@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-35-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-10-22 | 2021-35-20-0A.1 | 35/2021. (X. 14.) BM rendelet |
+| 2021-10-23 | 2021-35-20-0A.2 | 2010: CXXX. törvény |
