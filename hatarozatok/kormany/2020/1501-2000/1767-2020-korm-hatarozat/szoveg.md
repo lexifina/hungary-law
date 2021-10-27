@@ -2,9 +2,9 @@ A Kormány
 
 1. egyetért a körmendi sportcsarnok bővítésére irányuló, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházás (a továbbiakban: Beruházás) koncepciójával és a Beruházás ennek megfelelő előkészítésével az ingatlan-nyilvántartás szerinti Körmend, belterület 610 helyrajzi számú ingatlanon;
 
-2. a Beruházás előkészítésének kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
+2.[^1]
 
-3. egyetért azzal, hogy a Beruházás előkészítője Körmend Város Önkormányzata (a továbbiakban: Önkormányzat), megvalósítója a Beruházási Ügynökség legyen;
+3.[^2]
 
 4. a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § p) pontja szerinti előkészítési fázisára, illetve egyéb, a Beruházáshoz kapcsolódó előkészítési feladatokra 69 287 926 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. július 31. napjáig kell teljesíteni;
 
@@ -22,10 +22,8 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: a forrás rendelkezésre állását követő 45 napon belül
 
-7. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az emberi erőforrások minisztere bevonásával a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének, valamint a Beruházás során létrejövő vagyonelemek tulajdoni viszonyaira és vagyonkezelőjére vonatkozó javaslatának bemutatásával.
+7.[^3]
 
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
+[^1]: A 2. pontot az 1763/2021. (X. 27.) Korm. határozat 9. pontja visszavonta.
+[^2]: A 3. pontot az 1763/2021. (X. 27.) Korm. határozat 9. pontja visszavonta.
+[^3]: A 7. pontot az 1763/2021. (X. 27.) Korm. határozat 9. pontja visszavonta.
