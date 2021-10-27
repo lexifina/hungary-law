@@ -8,11 +8,11 @@
 
 | 4. | Budapest Főváros XVII. kerület Rákosmente Önkormányzata | Rákoshegyi Közösségi Ház fejlesztése; útfelújítás; földút szilárd burkolattal történő ellátása | 3 281 181 434 |
 
-| 5. | Budapest Főváros XX. kerület Pesterzsébet Önkormányzata | Kossuth Bölcsőde fejlesztése; Pesterzsébeti Duna-parti sétány fejlesztése; útfelújítás | 911 220 081 |
+| 5. | Budapest Főváros XX. kerület Pesterzsébet Önkormányzata | önkormányzati ingatlanok felújítása, út- és járdafelújítás | 911 220 081 |
 
 | 6. | Budapest XXI. kerület Csepel Önkormányzata | Útfelújítás; földút szilárd burkolattal történő ellátása | 2 314 000 000 |
 
-| 7. | Budapest Főváros XXII. kerület Budafok-Tétény Önkormányzata | Elágazás park fejlesztése; útfelújítás | 600 000 000 |
+| 7. | Budapest Főváros XXII. kerület Budafok-Tétény Önkormányzata | Görpark kialakítása; útfelújítás | 600 000 000 |
 
 | 8. | Budapest Főváros XXIII. kerület Soroksár Önkormányzata | Informatikai fejlesztés; játszótér kialakítása | 230 540 027 |
 

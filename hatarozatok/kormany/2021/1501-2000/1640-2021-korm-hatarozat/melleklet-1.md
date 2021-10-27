@@ -88,6 +88,7 @@
 
 ## 2.[^1]
 
-1. melléklet az 1640/2021. (IX. 21.) Korm. határozathoz
+1. melléklet az 1640/2021. (IX. 21.) Korm. határozathoz[^2]
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1755/2021. (X. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
