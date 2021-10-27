@@ -2,6 +2,8 @@ A Kormány
 
 1. egyetért a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus (a továbbiakban: Kedvezményezett) Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája kialakításához szükséges kiviteli tervek előkészítésével (a továbbiakban: Előkészítés) és azok megvalósításával (a továbbiakban: Beruházás);
 
+1/A.[^1] egyetért azzal, hogy a Beruházást a Kedvezményezettel együttműködésben 2021. október 28-ától a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos (a továbbiakban: kormánybiztos) – a BFK Budapest Fejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság közreműködésével – irányítsa;
+
 2. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával gondoskodjon az Előkészítés megvalósításához – a kifizetésekhez kapcsolódó kincstári díjjal együtt – a 2020. évben szükséges 224 971 073 forint költségvetési forrásnak a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 7. Egyházi épített örökség védelme és egyéb beruházások jogcím javára történő biztosításáról;
 
 Felelős: pénzügyminiszter
@@ -51,3 +53,14 @@ Felelős: a miniszterelnök általános helyettese
 Határidő: a forrás rendelkezésre állását követően azonnal
 
 6. egyetért azzal, hogy a 4–5. pont szerinti költségvetési támogatásra az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § rendelkezéseit nem kell alkalmazni.
+
+7.[^2] felhívja a kormánybiztost, hogy – a miniszterelnök általános helyettese bevonásával – a Beruházás megvalósításához kapcsolódó, a Kedvezményezett által a közbeszerzési szabályok figyelembevételével lefolytatott beszerzési eljárások eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításához szükséges többletforrásigény bemutatásával.
+
+Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
+
+a miniszterelnök általános helyettese
+
+Határidő: a beszerzési eljárások lefolytatását követően azonnal
+
+[^1]: Az 1/A. pontot az 1760/2021. (X. 27.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 7. pontot az 1760/2021. (X. 27.) Korm. határozat 2. pontja iktatta be.
