@@ -1,4 +1,4 @@
-## 70. §[^192] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 558/2021. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr62.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/T. §-át és 2. mellékletében foglalt táblázat 75. sorát a Módr62. hatálybalépésekor[^193] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 71. §[^194] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 594/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr63.) megállapított 2. mellékletben foglalt táblázat 76. sorát a Módr63. hatálybalépésekor[^195] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^194] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^196] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^192]: A 70. §-t az 558/2021. (IX. 29.) Korm. rendelet 2. §-a iktatta be.
-[^193]: A hatálybalépés időpontja 2021. október 1.
-[^194]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^194]: A 71. §-t az 594/2021. (X. 27.) Korm. rendelet 4. §-a iktatta be.
+[^195]: A hatálybalépés időpontja 2021. október 28.
+[^196]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

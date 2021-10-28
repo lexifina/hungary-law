@@ -176,6 +176,6 @@
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^197]
+4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^199]
 
-[^197]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^199]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be.

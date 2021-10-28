@@ -164,6 +164,8 @@
 
 | 75. | Raktározás, valamint ahhoz kapcsolódó építmények, infrastrukturális fejlesztések és kapcsolódó ingatlanfejlesztés megvalósítására irányuló beruházás | Vác belterület 5770/1, 5770/2, 5770/4, 5770/8, 5770/9, 5770/10, 5770/15, 5770/17, 5770/18, 5770/19, 5782/1 és 5782/2 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^196]
+| 76. | Gyáregység létrehozására irányuló beruházás Alsónémedi területén | Alsónémedi közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 2583 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^196]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^198]
+
+[^198]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
