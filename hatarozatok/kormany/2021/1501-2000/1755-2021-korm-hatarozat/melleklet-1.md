@@ -64,14 +64,10 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Beruházás Előkészítési Alapból, a Központi Maradványelszámolási Alapból, a Gazdaságvédelmi programok előirányzatból történő, valamint fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1021/2021. (II. 2.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 1. Külgazdasági és Külügyminisztérium központi igazgatása cím javára átcsoportosított 292 082 000 forintból legfeljebb 20 000 000 forint a Kvtv. 1. melléklet X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása címen a K3. Dologi kiadások előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 3. A címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről, valamint kormányhatározat módosításáról szóló 1640/2021. (IX. 21.) Korm. határozat 1. mellékletében foglalt táblázat
-
-## a) 5. sorában a „Kossuth Bölcsőde fejlesztése; Pesterzsébeti Duna-parti sétány fejlesztése; útfelújítás” szövegrész helyébe az „önkormányzati ingatlanok felújítása, út- és járdafelújítás” szöveg,
-
-## b) 7. sorában az „Elágazás park fejlesztése” szövegrész helyébe a „Görpark kialakítása” szöveg
-
-## lép.
+## 3.[^1]
 
 ## 4. A Kormány a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1736/2021. (X. 14.) Korm. határozat 1. mellékletében meghatározottaktól eltérően a Kvtv. 1. melléklet I. Országgyűlés fejezet, 26. Szabályozott Tevékenységek Felügyeleti Hatósága cím, 1. Szabályozott Tevékenységek Felügyeleti Hatósága alcím támogatási előirányzata helyett a B4. Működési bevételek előirányzatának 91 245 893 forinttal történő növelését rendeli el.
 
 1. melléklet az 1755/2021. (X. 27.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
