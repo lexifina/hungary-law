@@ -32,4 +32,6 @@ emberi erőforrások minisztere
 
 Határidő: a Beruházás további előkészítését és megvalósítását célzó feltételes közbeszerzési eljárást követő 90 napon belül
 
-9. visszavonja a Korm. határozat 2., 3. és 7. pontját.
+9.[^1]
+
+[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
