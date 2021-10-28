@@ -88,6 +88,8 @@
 
 ## a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 11. visszavonja a Magyarország közúti határátkelőhelyeinek átfogó fejlesztéséről szóló 1429/2019. (VII. 26.) Korm. határozatot.
+## 11.[^1]
 
 1. melléklet az 1750/2021. (X. 27.) Korm. határozathoz
+
+[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
