@@ -1,7 +1,5 @@
 1. A Kormány egyetért azzal, hogy a katonai hagyományok az ezeréves magyar kultúra részét képezik, őrzésük és a jövő nemzedékeivel való megismertetésük Magyarország kulturális fennmaradása szempontjából az állam kiemelt felelőssége, valamint azzal, hogy az Országháznak mint a törvényhozás otthonának, a Szent Korona őrzési helyének, a nemzeti összetartozás szimbólumának a fiatal nemzedékkel történő megismertetése szintén kiemelt fontossággal bír.
 
-2. A nemzeti identitás erősítését célzó programokról szóló 1042/2019. (II. 18.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
-
-„2. az 1. pontban meghatározott kultúrstratégiai célhoz kapcsolódóan létrehozza a Lázár Ervin Programot, amely szociális helyzettől és lakóhelytől függetlenül minden, az 1–8. évfolyamon tanuló általános iskolai diák részére tanévenként egyszeri alkalommal ingyenesen biztosítja a színházi, tánc- és cirkuszi előadások, komolyzenei hangversenyek, muzeális intézmények, az őshonos állatok bemutatóhelyei, a katonai hagyományőrző bemutatók, illetve az Országház látogatásának élményét.”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
