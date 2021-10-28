@@ -4,4 +4,6 @@ a) Dr. Boros Anitát, a Környezeti és Energiahatékonysági Operatív Program 
 
 b) Steiner Attilát, az Innovációs és Technológiai Minisztérium államtitkárát a Környezeti és Energiahatékonysági Operatív Program monitoring bizottsága elnökévé – 2021. október 1-jei hatállyal – kinevezem.
 
-2. Visszavonom a Környezeti és Energiahatékonysági Operatív Program monitoring bizottsága elnökének felmentéséről és a monitoring bizottság elnökének kinevezéséről szóló 129/2019. (XI. 19.) ME határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
