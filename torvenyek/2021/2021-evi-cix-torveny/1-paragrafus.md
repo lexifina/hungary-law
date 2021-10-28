@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Ukrajna Miniszteri Kabinetje között a végzettséget és tudományos fokozatokat tanúsító okiratok kölcsönös elismeréséről szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
