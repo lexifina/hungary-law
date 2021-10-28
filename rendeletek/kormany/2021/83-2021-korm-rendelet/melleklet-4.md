@@ -14,6 +14,6 @@
 
 | 6. | A Károlyi-palota részleges belső felújítása és udvarának felújítása | Budapest V. kerület belterület, 24166/1, 24166/2, 24167, 24164, 24016 helyrajzi számú ingatlanok | a kivitelezés megkezdésétől – 2023. március 31. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^108]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^113]
 
-[^108]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+[^113]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.

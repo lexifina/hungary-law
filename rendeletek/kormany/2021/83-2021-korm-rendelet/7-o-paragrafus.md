@@ -1,4 +1,4 @@
-7/O. §[^31] (1) A Kormány a 2. mellékletben foglalt táblázat 8. sora szerinti beruházás tekintetében az 1. melléklet 7. pontja szerinti közigazgatási hatósági ügyekben a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
+7/O. §[^32] (1) A Kormány a 2. mellékletben foglalt táblázat 8. sora szerinti beruházás tekintetében az 1. melléklet 7. pontja szerinti közigazgatási hatósági ügyekben a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
 
 (2) A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan 4. mellékletben megjelölt, Egységes Országos Vetületi Rendszerben megadott koordináták (a továbbiakban: EOV koordináták) által lehatárolt részén megvalósuló beruházás telkére a beépítés szabályait a (3) és (4) bekezdés állapítja meg, azzal, hogy
 
@@ -26,4 +26,4 @@ b) a kerékpártárolók kialakításánál az építmények, illetve önálló 
 
 (5) A 2. mellékletben foglalt táblázat 8. sora szerinti beruházással érintett ingatlan 4. mellékletben megjelölt, EOV koordináták által lehatárolt építési területen bontási tevékenység bontási engedély nélkül végezhető, azzal, hogy a tevékenység végzéséről elektronikus építési naplót kell vezetni.
 
-[^31]: A 7/O. §-t a 401/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be, szövege az 590/2021. (X. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^32]: A 7/O. §-t a 401/2021. (VII. 7.) Korm. rendelet 1. §-a iktatta be, szövege az 590/2021. (X. 20.) Korm. rendelet 3. §-ával megállapított szöveg.

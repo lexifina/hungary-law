@@ -22,6 +22,8 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 
 (8)[^8] A 2. mellékletben foglalt táblázat 3. és 24. sora szerinti beruházás időtartama alatt a beruházás helyszínéül szolgáló ingatlanok vagyonkezelője által a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
 
+(9)[^9] A 2. melléklet 57. sora szerinti beruházás tekintetében a beruházás építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
+
 [^1]: Az 1. § (2) bekezdés b) pontja az 591/2021. (X. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2a) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege az 591/2021. (X. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 458/2021. (VIII. 3.) Korm. rendelet 3. § a) pontja, az 525/2021. (IX. 8.) Korm. rendelet 9. § a) pontja, az 546/2021. (IX. 24.) Korm. rendelet 4. § a) pontja, az 566/2021. (X. 4.) Korm. rendelet 3. § a) pontja, az 583/2021. (X. 12.) Korm. rendelet 4. § a) pontja, az 587/2021. (X. 14.) Korm. rendelet 4. § a) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
@@ -30,3 +32,4 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 [^6]: Az 1. § (6) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^7]: Az 1. § (7) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése, az 525/2021. (IX. 8.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^8]: Az 1. § (8) bekezdését a 411/2021. (VII. 12.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (9) bekezdését az 595/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be.

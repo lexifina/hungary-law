@@ -66,7 +66,7 @@
 
 | 32. | Kisújszállási sportcélú beruházás | Kisújszállás belterület 31, 32, 38/2, 39, 40/1, 40/2 és 2213 helyrajzi számú ingatlan | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 33. | Körmendi sportcsarnok bővítése | Körmend belterület 610 helyrajzi számú ingatlan | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
+| 33. | Új körmendi sportcsarnok építése | Körmend belterület 1566/3 és 1567/2 helyrajzi számú ingatlanok | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 34. | Körösladányi sportcsarnok és uszoda beruházás | Körösladány belterület 1847 helyrajzi számú ingatlan | Békés Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -114,6 +114,8 @@
 
 | 56. | A Károlyi-palota részleges belső felújítása és udvarának felújítása | Budapest V. kerület belterület, 24166/1 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^107]
+| 57. | Központi államigazgatási szerv központi létesítményén főépület fejlesztése | Budapest belterület 10900 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^107]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^112]
+
+[^112]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
