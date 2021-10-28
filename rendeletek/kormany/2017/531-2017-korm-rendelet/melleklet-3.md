@@ -82,7 +82,7 @@
 
 27. a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet szerinti beruházás,
 
-28.[^11] a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 225/2018. (XI. 29.) Korm. rendelet szerinti beruházás.
+28.[^13] a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 225/2018. (XI. 29.) Korm. rendelet szerinti beruházás.
 
 29. a Vasas Sport Club létesítményfejlesztési programjának megvalósítását szolgáló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a Nemzeti Stadionfejlesztési Program keretében megvalósítandó egyes labdarúgó sportlétesítmény-fejlesztési beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 15/2014. (I. 30.) Korm. rendelet módosításáról szóló 198/2016. (VII. 13.) Korm. rendelet szerinti beruházás,
 
@@ -100,31 +100,34 @@
 
 36. a Szegedi Olimpiai Központ fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 131/2017. (VI. 8.) Korm. rendelet szerinti beruházás.
 
-37.[^12] A Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet szerinti beruházások.
+37.[^14] A Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet szerinti beruházások.
 
-38.[^13] a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet szerinti beruházás.
+38.[^15] a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet szerinti beruházás.
 
-38.[^14] a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet szerinti beruházás.
+38.[^16] a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet szerinti beruházás.
 
-39.[^15] a sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2019. (III. 27.) Korm. rendelet szerinti beruházás.
+39.[^17] a sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2019. (III. 27.) Korm. rendelet szerinti beruházás.
 
-40.[^16] a Magyar Tudományos Akadémia Székház és Könyvtár épületegyüttese felújításával és bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 22/2020. (II. 19.) Korm. rendelet szerinti beruházás.
+40.[^18] a Magyar Tudományos Akadémia Székház és Könyvtár épületegyüttese felújításával és bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 22/2020. (II. 19.) Korm. rendelet szerinti beruházás.
 
-41.[^17] A Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet szerinti beruházás.
+41.[^19] A Budavári Palota területén, valamint a De la Motte-palotát érintően a Nemzeti Hauszmann-terv keretében megvalósuló beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 210/2016. (VII. 21.) Korm. rendelet szerinti beruházás.
 
-42.[^18] A paksi Integrált Központ létrehozására irányuló beruházás, valamint a kapcsolódó bontási és kármentesítési munkák előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 545/2020. (XII. 2.) Korm. rendelet szerinti beruházás.
+42.[^20] A paksi Integrált Központ létrehozására irányuló beruházás, valamint a kapcsolódó bontási és kármentesítési munkák előkészítésével és megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 545/2020. (XII. 2.) Korm. rendelet szerinti beruházás.
 
-43.[^19] a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet szerinti beruházás.
+43.[^21] a Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet szerinti beruházás.
 
-44.[^20] az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet 2. mellékletében foglalt táblázat 8. sora szerinti beruházás.
+44.[^22] az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet 2. mellékletében foglalt táblázat 8. sora szerinti beruházás.
 
-[^11]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^12]: A 3. melléklet 37. pontját a 42/2018. (III. 13.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^13]: A 3. melléklet 38. pontját a 64/2019. (III. 27.) Korm. rendelet 17. §-a iktatta be.
-[^14]: A 3. melléklet újabb 38. pontját a 150/2019. (VI. 25.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd a módosító rendelet 8. §-át.
-[^15]: A 3. melléklet 39. pontját a 176/2019. (VII. 18.) Korm. rendelet 15. §-a iktatta be.
-[^16]: A 3. melléklet 40. pontját a 22/2020. (II. 19.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^17]: A 3. melléklet 41. pontját a 196/2020. (V. 12.) Korm. rendelet 11. §-a iktatta be.
-[^18]: A 3. melléklet 42. pontját az 545/2020. (XII. 2.) Korm. rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
-[^19]: A 3. melléklet 43. pontját a 262/2021. (V. 20.) Korm. rendelet 11. §-a iktatta be.
-[^20]: A 3. melléklet 44. pontját az 590/2021. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+45.[^23] a debreceni velodrom beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 77/2021. (II. 19.) Korm. rendelet szerinti beruházás.
+
+[^13]: A 3. melléklet 28. pontja a 225/2018. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^14]: A 3. melléklet 37. pontját a 42/2018. (III. 13.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^15]: A 3. melléklet 38. pontját a 64/2019. (III. 27.) Korm. rendelet 17. §-a iktatta be.
+[^16]: A 3. melléklet újabb 38. pontját a 150/2019. (VI. 25.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd a módosító rendelet 8. §-át.
+[^17]: A 3. melléklet 39. pontját a 176/2019. (VII. 18.) Korm. rendelet 15. §-a iktatta be.
+[^18]: A 3. melléklet 40. pontját a 22/2020. (II. 19.) Korm. rendelet 9. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^19]: A 3. melléklet 41. pontját a 196/2020. (V. 12.) Korm. rendelet 11. §-a iktatta be.
+[^20]: A 3. melléklet 42. pontját az 545/2020. (XII. 2.) Korm. rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^21]: A 3. melléklet 43. pontját a 262/2021. (V. 20.) Korm. rendelet 11. §-a iktatta be.
+[^22]: A 3. melléklet 44. pontját az 590/2021. (X. 20.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 3. melléklet 45. pontját az 594/2021. (X. 27.) Korm. rendelet 3. §-a iktatta be.
