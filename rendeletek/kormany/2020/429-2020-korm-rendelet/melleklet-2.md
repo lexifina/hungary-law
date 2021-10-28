@@ -38,8 +38,10 @@
 
 | 6. | Fenyves allé | Keszthely külterület 0227, 0239, 0250/1, 0250/2 helyrajzi számú ingatlanok, 0254/7 helyrajzi számú ingatlan „d” és „j” alrészletei kapcsolódó vagyonelemekkel |
 
-| 7. | Majorsági épületegyüttes | Szántód belterület 936, 937, 938, 939, 944, 945, 949 és 950 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
+| 7. | Majorsági épületegyüttes | Szántód belterület 936, 937, 938, 939, 944, 945, 948, 949 és 950 helyrajzi számú ingatlanok kapcsolódó vagyonelemekkel |
+
+| 8. | Huray villák | Balatonfüred 134 és Balatonfüred 135 helyrajzi számú ingatlan |
 
 3.
 
-[^3]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 424/2021. (VII. 15.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 424/2021. (VII. 15.) Korm. rendelet 2. §-a, az 593/2021. (X. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
