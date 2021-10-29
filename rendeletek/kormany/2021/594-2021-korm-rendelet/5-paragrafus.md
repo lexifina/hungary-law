@@ -1,3 +1,0 @@
-## 4. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R2.) a következő 71. §-sal egészül ki:
-
-## „71. § E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 594/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr63.) megállapított 2. mellékletben foglalt táblázat 76. sorát a Módr63. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
