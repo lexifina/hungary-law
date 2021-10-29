@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1837-30
 | 2016-04-21 | 2015-1837-30-22.2 | 1208/2016. (IV. 21.) Korm. határozat |
 | 2017-01-01 | 2015-1837-30-22.3 | 1853/2016. (XII. 27.) Korm. határozat |
 | 2017-03-02 | 2015-1837-30-22.4 | 1097/2017. (III. 2.) Korm. határozat |
+| 2021-10-29 | 2015-1837-30-22.5 | 1771/2021. (X. 29.) Korm. határozat |

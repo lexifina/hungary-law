@@ -44,7 +44,11 @@ nemzetgazdasági miniszter
 
 Határidő: folyamatos, a szükséges beruházás befejezése tekintetében 2017. december 31.
 
-e) egyetért azzal, hogy a d) alpont szerinti beruházás lebonyolítója a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság legyen,
+e)[^2] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdésében foglalt jogkörében eljárva egyetért azzal, hogy a d) alpont szerinti beruházás lebonyolítója a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság legyen, azzal, hogy
+
+ea) az állami tulajdonban levő ÉMI Nonprofit Kft. állami építési beruházásokkal kapcsolatos egyes műszaki szolgáltatási feladatok elvégzésére vonatkozó kijelöléséről szóló 51/2016. (III. 17.) Korm. rendelet 5. § (1) bekezdés a), b) és d) pontja szerinti tevékenységet az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság bevonásával lássa el, valamint
+
+eb) a d) alpont szerinti beruházás vonatkozásában az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 17. §-a alapján felmentést ad a kormányzati magasépítési beruházások kormányzati döntés-előkészítési eljárásrendjének alkalmazása alól;
 
 f) felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1. pont a) alpontja szerinti ingatlanokat érintő, a Belügyminisztérium elhelyezését biztosító beruházás előkészítési feladataira 180,0 millió forint egyszeri jelleggel történő biztosításáról a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 1. Belügyminisztérium igazgatása cím javára;
 
@@ -52,7 +56,8 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-3.[^2]
+3.[^3]
 
 [^1]: A 2. pont a) alpontja az 1208/2016. (IV. 21.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^2]: A 3. pontot az 1097/2017. (III. 2.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 2. pont e) alpontja az 1771/2021. (X. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 3. pontot az 1097/2017. (III. 2.) Korm. határozat 3. pontja visszavonta.
