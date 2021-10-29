@@ -1,0 +1,1944 @@
+# A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 20/2021. (X. 29.) SZTFH rendelete
+
+Magyar Közlöny 2021. évi 198. szám, 2021. október 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/eGdKYqk8tChyHPXuFpBZ6171a9a4b1ed2/dokumentumok/3195c4a7018717155e212a8681e42f1dee9ecf89/letoltes)
+
+---
+
+A Szabályozott Tevékenységek Felügyeleti Hatósága elnökének 20/2021. (X. 29.) SZTFH rendelete
+az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok
+végrehajtásáról
+A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 38. § (2) bekezdésében, valamint a Szabályozott Tevékenységek
+Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 29. § d) és e) pontjában kapott felhatalmazás alapján, a Szabályozott
+Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § i) és n) pontjában foglalt feladatkörömben eljárva
+a következőket rendelem el:
+I. Fejezet
+Általános rendelkezések
+1. § (1) A szerencsejátékokban – a távszerencsejáték és az online kaszinójáték kivételével – kizárólag a mérésügyi szerv
+által szerencsejáték céljára – a mérésügyi jogszabályok alapján – hitelesített és egyedi azonosításra alkalmas
+jelzéssel ellátott, a szerencsejáték nyerési esélyeit befolyásoló eszköz és a mérésügyi szerv által hitelesített és egyedi
+azonosításra alkalmas jelzéssel ellátott egyéb eszköz használható.
+(2) Az (1) bekezdés szerinti eszköz előállítója és a mérésügyi szerv, valamint a műszaki vizsgálat elvégzésére mérésügyi
+szerv által hitelesítő laboratóriummá nyilvánított gazdálkodó szervezet (a továbbiakban: hitelesítő laboratórium)
+szerencsejáték-szervező tevékenységet nem folytathat.
+(3) A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény (a továbbiakban: Szjtv.) 9. § (1) bekezdésében
+meghatározott tájékoztató hirdetménynek jól láthatóan tartalmaznia kell, hogy a túlzásba vitt szerencsejáték
+mentálhigiéniás problémákat okozhat, illetve szenvedélybetegség kialakulásához vezethet.
+
+(4) Az Szjtv. 16. §-a szerinti tombolajáték kivételével szerencsejátékban 18 éven aluliak nem vehetnek részt, az erről
+szóló tájékoztatót jól láthatóan kell a szerencsejáték értékesítő helyeken elhelyezni.
+(5) A szerencsejáték-szervezővel (a továbbiakban: szervező) szerződéses kapcsolatban álló, a szervező nevében és
+javára szerencsejáték értékesítését végző vállalkozásoknak a számvitelről szóló törvény szerinti napi készpénz záró
+állomány megállapítása során nem kell figyelembe venniük a szervező javára beszedett és elkülönített nyilvántartás
+alapján a szervezővel szemben elszámolási kötelezettségként kimutatott összeget.
+(6) A szervező az e rendeletben előírt nyomtatványok esetén csak a Szabályozott Tevékenységek Felügyeleti
+Hatósága (a továbbiakban: szerencsejáték-felügyeleti hatóság) által hitelesített nyomtatványokat használhatja
+fel, és köteles azokat szigorú számadású nyomtatványként kezelni. A szervező köteles a szigorú számadású
+nyomtatványokat szabályszerűen, naprakészen vezetni. A szerencsejáték-felügyeleti hatóság az eljárásaiban
+használt formanyomtatványokat honlapján is elérhetővé teszi.
+(7) A szerencsejáték-felügyeleti hatóság kérelemre hatósági bizonyítványt állít ki az Szjtv. 37. § 30. pont
+c)–d) alpontjában meghatározott megbízható szerencsejáték-szervezői feltételek teljesítéséről.
+(8) Ha megállapítást nyer, hogy az (1) bekezdés szerinti eszköz befolyásolását az abba beépített hardver vagy
+szoftver elemek teszik lehetővé, és az eszközt gyártója ebben az állapotban mutatta be típusvizsgálatra, akkor
+az (1) bekezdés szerinti eszközökre a gyártó számára új hitelesítési engedély 5 évig nem adható.
+(9) A hitelesítő laboratórium, továbbá ezek tagja, részvényese, tagjának vagy részvényesének közeli hozzátartozója
+szerencsejáték-szervező tevékenységet nem folytathat, valamint nem lehet tagja, részvényese szerencsejáték-
+szervezőnek, vagy ezen társaságok tagjának, részvényesének. A szerencsejáték eszköz előállítójának, a hitelesítő
+laboratóriumnak, továbbá ezek jogi személyiségű tagjának vezető tisztségviselője, vezető tisztségviselőjének
+közeli hozzátartozója nem lehet vezető tisztségviselője szerencsejáték-szervezőnek vagy ezen társaságok tagjának,
+részvényesének. Az e bekezdésben foglalt rendelkezéseket a nyilvánosan működő részvénytársaság részvényesére
+nem kell alkalmazni.
+2. § (1) Zárt számítástechnikai rendszer útján előállított és kinyomtatott nyereményigazolás abban az esetben
+alkalmas szerencsejáték-felügyeleti azonosításra, ha szigorú számadás alá vonása úgy valósul meg, hogy
+a nyereményigazolás kibocsátására szolgáló számítástechnikai program kihagyás és ismétlés nélkül, folyamatosan
+biztosítja a sorszámozást, továbbá a nyereményigazolás-példányok hiánytalan elszámolása biztosított.
+(2) A szervezőnek a nyereményigazolás kiállítására szolgáló program olyan dokumentációjával kell rendelkeznie, amely
+biztosítja a program működésének ellenőrizhetőségét. A dokumentációnak tartalmaznia kell a program működésére,
+használatára vonatkozó részletes leírást, valamint a program készítője által a nyereményigazolás kibocsátójának
+címzett írásos nyilatkozatát arról, hogy az maradéktalanul megfelel a vonatkozó jogszabályi előírásoknak.
+(3) A zárt számítástechnikai rendszernek a hiányos, hibás, megsemmisült vagy elveszett nyereményigazolásokat is
+rögzítenie és nem törölhető módon tárolnia kell.
+(4) Ha a nyereményigazolás előállítása az egyes példányok egymás utáni nyomtatásával történik, akkor az összes
+példánynak tartalmaznia kell az egyedi sorszámot. Ha a nyereményigazolás kinyomtatása több példányos,
+összeszerelt és előnyomás nélküli papírra történik, akkor az összes példánynak tartalmaznia kell az arra való utalást,
+hogy a nyereményigazolás hány példányban készült.
+(5) A zárt számítástechnikai rendszeren keresztül kiállított nyereményigazolást legalább annyi példányban kell
+kinyomtatni, hogy a játékos részére átadható, illetve szükség szerint a szerencsejáték-felügyeleti hatóság
+részére megküldhető legyen. A nyereményigazolás átvételét a szervező köteles dokumentálni a nyertes
+nyereményigazolásra vezetett aláírásával vagy a postán megküldött nyereményigazolás átvételét tartalmazó
+tértivevénnyel.
+II. Fejezet
+Engedélyezés és hatósági ellenőrzés
+1. Engedélyezési eljárás
+3. § (1) A szerencsejáték céljára szolgáló eszköz kizárólag gyártó által kezdeményezett típusvizsgálatát, valamint a szervező
+által kezdeményezett hitelesítési eljárását a mérésügyi szerv végzi a mérésügyi jogszabályok figyelembevételével.
+A szerencsejáték-felügyeleti hatóság a mérésügyi szerv által hitelesített pénznyerő automatára hagyhatja jóvá
+a játékkaszinó játéktervét.
+
+(2) A típusvizsgálat alapján kiadott hitelesítési engedélyben a mérésügyi szerv az Szjtv.-ben és e rendeletben
+előírtak alapján meghatározza, hogy a berendezés műszaki tulajdonságai alapján pénznyerő automatának vagy
+játékautomatának minősül.
+(3) A típusvizsgálaton a szervező, illetve megbízottja nem lehet jelen.
+(4) A mérésügyi szerv azokat a pénznyerő automatákat hitelesíti, illetve újrahitelesíti, amelyek
+a) üzemeltetője rendelkezik a szerencsejáték-felügyeleti hatóság által a szervező személyi megfelelőségének
+megállapításáról kiállított hatósági bizonyítvánnyal, vagy érvényes, szerencsejáték szervezésére jogosító
+engedéllyel,
+b) olyan, külön-külön legalább hét helyértékes beépített mechanikus vagy elektromechanikus számlálóval
+rendelkeznek, amelyek a befizetett és kifizetett érmék (érmehelyettesítő eszközök) darabszámát vagy
+értékét, a befizetett és kifizetett forintok és valuták mennyiségét, továbbá az eljátszott tét, a ki nem fizetett
+nyeremény és a befizetett készpénz összegét nem törölhető módon tárolják, és
+c) típusvizsgálata megtörtént és érvényes hitelesítési engedéllyel rendelkeznek.
+(5) A pénznyerő automata újrahitelesítésével egyidejűleg műszaki felülvizsgálatot kell végezni.
+4. § (1) A pénznyerő automaták típusvizsgálata és hitelesítési vizsgálata az 1. mellékletben meghatározott követelményekre
+terjed ki.
+(2) A hitelesítési vizsgálat eredménye alapján kiállított jegyzőkönyv a következőket tartalmazza:
+a) a hitelesíttető megnevezését,
+b) a pénznyerő automata gyártási számát,
+c) a pénznyerő automata gyártási időpontját,
+d) a gyártó megnevezését,
+e) a pénznyerő automata megnevezésére vagy azonosítására alkalmas jelzést,
+f) a pénznyerő automatával játszható játék (játékok) nevét,
+g) a pénznyerő automata üzemeltetésére vonatkozó adatokat,
+h) a legmagasabb tét megjelölését,
+i) a nyeremény kifizetésének módját,
+j) a legnagyobb nyeremény összegét alapesetben és halmozottan,
+k) a gép mechanikus vagy elektromechanikus számlálóinak hitelesítésekor leolvasott állását,
+l) a nyerési esélyeket 0 és 1 közötti valószínűségi értékekkel vagy százalékban,
+m) a pénznyerő automata játékhelyeinek számát,
+n) a pénznyerő automata hitelesítési vizsgálatának összegzését.
+(3) A hitelesítési kártyát a hitelesítéssel egyidejűleg a pénznyerő automatán jól láthatóan és oly módon kell elhelyezni,
+hogy azt kizárólag roncsolásos eljárással vagy a törvényes tanúsító jel megsértésével lehessen eltávolítani.
+5. §
+A szerencsejáték-felügyeleti hatóság indokolt esetben a pénznyerő automata újrahitelesítését, mérésügyi
+ellenőrzését rendeli el. Az újrahitelesítésre a hitelesítés szabályait kell megfelelően alkalmazni.
+2. A szerencsejátékok hatósági ellenőrzése
+6. § (1) Az ellenőrzött szervezet vagy személy a szerencsejáték-szervező tevékenységre, illetve az Szjtv. 16. és 23. §-a szerinti
+bejelentésköteles játékokra (a továbbiakban: bejelentésköteles játékok) vonatkozó, az ellenőrzéshez szükséges
+engedélyt, adatot, beszámolót, bizonylatot és egyéb okiratot köteles a szerencsejáték-felügyeleti hatóságnak átadni.
+(2) Az ellenőrzött szervezet vagy személy az ellenőrzés során készített jegyzőkönyv megállapításaira a közlést követő
+nyolc napon belül a szerencsejáték-felügyeleti hatóságnál írásban észrevételt tehet.
+
+III. Fejezet
+Sorsolásos játékok
+3. A sorsolásos játék engedélyezésének feltételei
+7. § (1) A sorsolásos játék keretében kibocsátott sorsjegyen jól látható módon fel kell tüntetni
+a) a szervező nevét, székhelyét,
+b) a sorsjegy árát,
+c) a nyereményre való jogosultság megállapításának módját,
+d) a nyeremény kifizetésének helyét és idejét,
+e) az arra való utalást, hogy a kilátásba helyezett nyereményt a hatályos jogszabályok alapján személyi
+jövedelemadó nem terheli, vagy az személyi jövedelemadóval csökkentett formában kerül kifizetésre,
+átadásra, valamint
+f) a sorsolásos játékban történő részvételre vonatkozó, az 1. § (4) bekezdése szerinti tilalmat.
+(2) A hírközlő eszköz és rendszer útján, valamint a nem hírközlő eszköz és rendszer útján szervezett sorsolásos játék
+esetén a szervezőnek az internetes oldalán – sorsolásos játékonként – a játékos számára a játékban való részvételt
+megelőzően megismerhetővé kell tenni a részvételi szabályzatot. Az értékesítőhelyen nyújtott sorsolásos játék
+esetében a játékos kérésére három munkanapon belül rendelkezésre kell bocsátani a teljes terjedelmű részvételi
+szabályzatot nyomtatott formában.
+(3) A hírközlő eszközök és rendszerek igénybevételével szervezett sorsolásos játék engedélyezési eljárása során
+a szervezőnek az Szjtv. 2. § (6) bekezdésében előírt követelmények teljesítését az Európai Gazdasági Térség területén
+bejegyzett, hírközlő eszközök és rendszerek auditálására jogosult cég által kiadott okirattal kell igazolnia.
+4. A játékterv, részvételi szabályzat és a költségvetés
+8. §
+A sorsolásos játék játéktervében rögzíteni kell
+a) a sorsolásos játékban kibocsátásra kerülő sorsjegyek árát, darabszámát, a sorsjegyek egyedi azonosítására
+alkalmas jelzését (különösen a sorozat, sorszám megjelölését), a sorsolásos játék nyereményalapját vagy
+annak kiszámítási módját (Szjtv. 30. §),
+b) a sorsolásos játék nyerőosztályait vagy ezek képzésének elveit, a nyeremények leírását és értékét,
+c) a nyeremény azonosításának, érvényesítésének és kifizetésének módját,
+d) a sorsolásos játék lebonyolításának időtartamát, a sorsjegyek elszámolási rendszerét,
+e) a sorsolás(ok) helyét, idejét és lebonyolításának szabályait,
+f) a részvételre jogosító sorsjegyek meghatározását,
+g) bingójátéknál a jutalomjátékok, ajándéksorsjegyek tervezett mennyiségét, megkülönböztetésük és
+elszámolásuk módját.
+9. §
+A részvételi szabályzatban rögzíteni kell
+a) a játékosnak (Szjtv. 37. § 6. pont) a sorsolásos játékban való részvétellel összefüggő jogait és kötelezettségeit,
+b) a nyereményre való jogosultságot és a nyeremény kifizetésének feltételeit,
+c) a sorsolásos játék nyerőosztályait, a nyeremények meghatározását és felosztását,
+d) a játékosok érdekeit védő garanciális szabályokat,
+e) az igényérvényesítés rendjét,
+f) a nyereményigazolás kiadásának feltételeit.
+10. §
+A költségvetésnek tartalmaznia kell
+a) a játékterv szerint tervezett árbevétel és nyereményalap összegét;
+b) a tervezett költségeket az alábbiak szerinti bontásban:
+1. a sorsolásos játék eszközeivel kapcsolatos költségeket (pl. sorsjegyek, bizonylatok),
+2. a sorsjegyek terjesztésében és értékesítésében részt vevők jutalékát,
+3. a sorsolásos játék lebonyolításával összefüggő reklámköltséget,
+4. a lebonyolítás során keletkező egyéb költséget,
+5. a játékadó összegét,
+6. a sorsjáték és kenó esetén a tervezett tiszta játékbevételt,
+
+7. a játékosok számára kifizethető nyereményből levonásra kerülő személyi jövedelemadót,
+8. a játékosok számára – a személyi jövedelemadóval csökkentett – kifizethető nyeremény összegét;
+c) a vállalkozás tervezett bevételei és tervezett költségei számbavétele után a sorsolásos játék eredményes
+lebonyolításakor elérhető eredményt és a társasági adót.
+5. A végelszámolás, elszámolás
+11. § (1) A sorsolásos játékok nyertes, valamint el nem adott sorsjegyeit szigorú számadású nyomtatványként kell megőrizni,
+és – a szerencsejáték-felügyeleti hatóság eltérő rendelkezésének hiányában – a sorsjegyeket a végelszámolásra
+vonatkozó szerencsejáték-felügyeleti hatóság által hozott határozat véglegessé válásától számított harminc napon
+belül meg kell semmisíteni. A megsemmisítést a szervező, illetve képviseletére jogosult személy által létrehozott
+háromtagú bizottság hajtja végre. A megsemmisítés helyéről és időpontjáról a szerencsejáték-felügyeleti hatóságot
+tizenöt nappal a kitűzött időpont előtt értesíteni kell. A megsemmisítésről jegyzőkönyvet kell készíteni, amelyet
+meg kell küldeni a szerencsejáték-felügyeleti hatóságnak. A jegyzőkönyvet a szervező köteles öt évig megőrizni.
+A megsemmisítési jegyzőkönyvnek tartalmaznia kell:
+a) a megsemmisítés helyét, idejét,
+b) a jelenlevők nevét, lakcímét, beosztását,
+c) a sorsjegyek megnevezését, darabszámát,
+d) a nyertes és el nem adott sorsjegyeket,
+e) a megsemmisítési technológiát.
+(2) Ha a szervezőnek egyidejűleg több szerencsejáték szervezésére van engedélye, az egyes szerencsejátékok
+bevételének és tényleges költségének elszámolását egymástól és más, általa folytatott tevékenységektől
+elkülönítetten, ellenőrizhető módon kell nyilvántartania és vezetnie.
+(3) Az időközi és végelszámolásban szerepeltetni kell
+a) a kibocsátott, játékra jogosított és az eladott sorsjegyek számát,
+b) a sorsolásos játék nyereményalapját, sorsjáték és kenó játék esetén a tiszta játékbevételt,
+c) a szervezőnek az állammal szembeni – a szervező tevékenységgel összefüggésben keletkezett – befizetési
+kötelezettségeinek jogcímenkénti teljesített összegeit,
+d) a játékosok részére – a jogszabályok szerinti levonások után – átadott nyeremények összegét vagy értékét.
+(4) A bejelentésköteles játékok, valamint azon sorsolásos játékok esetén, amelyek sorsolási eseményén közjegyző jelen
+van, a sorsolásról készült közjegyzői okirat egy hiteles példánya a végelszámolás része, kivéve, ha az már az időközi
+elszámolás részét képezte. Ha az Szjtv. 16. §-a szerinti tombolajáték sorsolási eseményéről nem kerül kiállításra
+közjegyzői okirat, a végelszámolás része a sorsolási bizottság által felvett jegyzőkönyv.
+(5) A szerencsejáték-felügyeleti hatóság nem hagyja jóvá a végelszámolást és a (6) bekezdésben meghatározott
+cselekmények elvégzésére kötelezheti a szervezőt, ha eltérést tapasztal a jóváhagyott játéktervben vagy
+a jogszabályi rendelkezésekben foglaltaktól.
+(6) A szerencsejáték-felügyeleti hatóság a szervezőt – határidő tűzésével – kötelezheti
+a) pótlólagos sorsolás megtartására, ha a megnyert nyeremények alapján számítható nyereményekre
+fordítandó összeg nem éri el a jóváhagyott játéktervben, illetve a jogszabályban meghatározott mértéket,
+b) ha az a) pont szerinti esetben nincs lehetőség pótlólagos sorsolás megtartására, akkor a nyereményekre
+fordítandó összeg és a tényleges nyeremények céljára felhasznált összeg különbségét az Szjtv. 11. §
+(8)–(10) bekezdésének megfelelően fizesse be,
+c) arra, hogy nyilvántartási rendjét, illetve végelszámolását a jogszabályi rendelkezéseknek megfelelően állítsa
+helyre, illetve készítse el,
+d) az Szjtv.-ben foglalt egyéb kötelezettségek teljesítésére.
+(7) Az Szjtv. 30. § (2) bekezdése alapján nyereményre fordítandó összegek – folyamatosan szervezett játékok esetén
+történő – halmozódását a szerencsejáték-felügyeleti hatóság legfeljebb egy évig engedélyezheti. Ezen összegeket
+elkülönítetten kell nyilvántartani, és a halmozódási időszakot követően a teljes halmozott összeget nyeremények
+céljára kell felhasználni.
+(8) A folyamatosan szervezett sorsolásos játékok át nem vett nyereményeit a nyeremény igénylésére nyitva álló
+határidőt követő száznyolcvan, az ajándéksorsolás át nem vett nyereményeit a nyeremény átvételére nyitva
+álló határidőt követő harminc napon belül kell nyeremények céljára fordítani. Az át nem vett nyereményekből
+elkülönített alapot kell képezni, amelynek nyeremények céljára történő felhasználását a szerencsejáték-felügyeleti
+hatóságnak be kell jelenteni, és tényleges felhasználásáról elszámolást kell készíteni.
+
+(9) A (7) és (8) bekezdés szerinti elkülönített alapokról a szerencsejáték-felügyeleti hatóság külön felhívására, de évente
+legalább egy alkalommal a szervező részletes információkat köteles adni a szerencsejáték-felügyeleti hatóság
+részére.
+6. A bingójátékra vonatkozó további szabályok
+12. § (1) Bingójátéknak minősül különösen az a számsorsjáték, amelyben
+a) az általában 75 számot véletlenszerűen csoportosítva tartalmazó játékszelvények közül az a nyertes, amelyen
+számítógépes program szerint kisorsolt számok meghatározott rend szerint helyezkednek el (finn bingó),
+vagy
+b) az általában 90 számból 15 számot előre meghatározott program szerint tartalmazó játékszelvények közül
+az a nyertes, amelyen a véletlenszerűen kisorsolt számok meghatározott rend szerint helyezkednek el
+(spanyol bingó), vagy
+c) az a) és b) pontokban meghatározott elvek vagy azok kombinált változatai szerint, de eltérő számok,
+számsorok vagy számcsoportok felhasználásán alapul a nyerési lehetőség.
+(2) A bingójáték tekintetében mérésügyi hitelesítésre szoruló eszköznek a sorsolóeszközt és annak a forgalom
+ellenőrzésére és nyilvántartására szolgáló tartozékait kell tekinteni.
+(3) Bingóteremnek a kizárólag erre a célra létrehozott vagy kialakított, más helyiségektől biztonságosan elkülönített
+helyiség minősíthető, amely alkalmas arra, hogy a sorsolás minden jelenlévő játékos számára jól látható legyen,
+és egyidejűleg biztosítható a játékosok számára a nyerés időbeni jelzésének lehetősége. A bingóterem 50 m2-nél
+kisebb nem lehet.
+(4) Bingóteremben a bingójátékon és a vendéglátáson kívül más tevékenység nem folytatható. A bingóteremben
+égetett szeszesitalt árusítani nem lehet.
+(5) A bingóterembe nem léphet be 18 éven aluli személy.
+7. A kaparós sorsjegyekre vonatkozó további szabályok
+13. § (1) A bejelentésköteles játékok kaparós sorsjeggyel nem szervezhetők.
+(2) A kaparós sorsjegyek mennyisége az engedély iránti kérelemben egyenlő darabszámú sorozatokra bontható.
+(3) A sorsjegyek kizárólag olyan számítógéppel vezérelt zárt nyomdai technológiával nyomtathatók, amely biztosítja
+a) a nyeremények összegének az Szjtv.-ben meghatározott nagyságát,
+b) a nyerőosztályonkénti nyertes sorsjegyeknek az engedélyezett mennyiségen, illetve a sorozaton belüli
+egyenletes, játékterv szerinti megoszlását, továbbá
+c) azt, hogy a sorsjegyek egy teljes sorozata olyan zárt gyártási folyamatban készül, amely csak a fedőréteg
+eltávolítása után teszi lehetővé a nyertes sorsjegyek azonosítását.
+(4) A gyártás számítógépes programját az Európai Gazdasági Térség területén bejegyzett, nemzetközileg elismert
+könyvvizsgáló céggel auditáltatni kell.
+(5) A szervező köteles
+a) a sorsjegyek gyártójával kötött gyártási szerződés, valamint a (4) bekezdés szerinti könyvvizsgálói jelentés
+egy eredeti példányát legkésőbb az engedélyezett tevékenység megkezdését megelőző tizenötödik napig
+a szerencsejáték-felügyeleti hatóságnak benyújtani,
+b) az engedélyezett tevékenység megkezdéséig a sorsjegyek teljes – sorozatokra bontás esetén legalább egy
+sorozatnak megfelelő – mennyiségét egyszerre legyártatni, és erről, valamint a legyártott, de még értékesítési
+forgalomba nem bocsátott sorsjegyek tárolásának helyéről a szerencsejáték-felügyeleti hatóságot értesíteni,
+c) a tevékenységének megkezdésétől sorsolásos játékonként nyilvántartani a terjesztőkkel kötött, valamint
+a terjesztők egymás közötti megállapodásait, amelyeknek tartalmazniuk kell a terjesztésre átadott sorsjegyek
+mennyiségét (sorozatszám, sorszám és darabszám szerint).
+(6) A szerencsejáték-szervező a játéktervben a kaparós sorsjegy nyeremény kifizetését kizárhatja olyan értékesítőhelyre,
+értékesítési formára vonatkozóan, ahol egyik nyerőosztály nyereményének kifizetése sem biztosított.
+(7) A 7. § (1) bekezdés d) pontjában foglaltaktól eltérően a szerencsejáték-szervező a játéktervben rendelkezhet
+úgy, hogy a nyeremény-kifizetés helyének és idejének feltüntetését a kaparós sorsjegy hátoldalán mellőzi azon
+értékesítőhelyre, értékesítési formára vonatkozóan, ahol egyik nyerőosztály nyereményének kifizetése sem
+biztosított, és azokat csak a játéktervben és a részvételi szabályzatban tünteti fel. A játékosok nyeremény kifizetéssel
+
+kapcsolatos, megfelelő tájékoztatása ezen sorsjegy értékesítő helyeken a sorsjegy értékesítése során jól látható
+hirdetményben és a szerencsejáték-szervező honlapján elérhető részvételi szabályzatban is kötelező.
+(8) A szerencsejáték-felügyeleti hatóság a játéktervet a (6) és (7) bekezdés szerinti tartalommal kizárólag abban
+az esetben hagyja jóvá, ha a nyeremény kifizetést nem biztosító sorsjegyforgalmazó 2000 méteres körzetében van
+olyan értékesítési helyszín, ahol a kaparós sorsjegyen elért nyeremények kifizetése biztosított.
+(9) A (8) bekezdésben foglalt 2000 méteres körzeten azon legrövidebb útvonalat kell érteni, amelyen a nyeremény
+kifizetését biztosító értékesítési helyszín a közúti közlekedés szabályairól szóló rendelet szabályait figyelembe
+véve közterületen gyalogosan megközelíthető. A 2000 méteres távolság mérése során a 61. § (8) bekezdését kell
+alkalmazni, azzal, hogy védett intézményen a kaparós sorsjegyen elért nyeremény kifizetését biztosító értékesítési
+helyet, kártyatermen a nyeremény kifizetést nem biztosító sorsjegyforgalmazót kell érteni.
+IV. Fejezet
+Távszerencsejáték és online kaszinójáték
+8. Engedélyezés
+14. § (1) A szerencsejáték-felügyeleti hatóság távszerencsejáték és az online kaszinójáték szervezést engedélyező
+határozatának mellékletét képezi a működési engedély. A működési engedélyt a szerencsejáték-felügyeleti hatóság
+honlapján közzéteszi.
+(2) A működési engedély (1) bekezdés szerinti közzétételének helyét a játékosok részére a szervező az Szjtv. 29/I. §
+(1) bekezdése szerinti honlapjáról közvetlen hivatkozással hozzáférhetővé teszi.
+9. Auditálásra vonatkozó előírások
+15. § (1) Az Szjtv. 29/F. § (1a) bekezdés a) pontja alkalmazásában auditálásra jogosult szervezet az Európai Gazdasági
+Térség területén letelepedett, az Európai Gazdasági Térség valamely államának joga szerint a (2) bekezdésben
+meghatározottak auditálására jogosult szervezet.
+(2) A kérelmező
+a) az Szjtv. 37. § 28. pontja szerinti szervert (a továbbiakban: szerver) informatikai biztonsági és zártsági
+szempontból, valamint
+b) a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszerben a szerver által futtatott
+játékfunkciókat a (3) bekezdés és a 4. melléklet szerinti szempontok alapján
+az auditálásra jogosult szervezettel a kérelem benyújtását megelőzően auditáltatja.
+(3) A (2) bekezdés b) pontja esetén az auditnak ki kell terjednie
+a) a játékfunkciók körében különösen a véletlenszám-generátorra (a játékkaszinóban vagy a szerencsejáték-
+felügyeleti hatóság által eseti vagy állandó jelleggel engedélyezett más helyen folyó kaszinójátékban hírközlő
+eszköz vagy rendszer útján történő játék kivételével), a játékszabályokra, a részvételi feltételekre, a játékos
+nyilvántartásba vételére, a játékosi egyenleg kezelésére, az adatszolgáltatásra, a távoli hozzáférésre, valamint
+b) a játékfunkcióknak a játékeseményekkel összhangban álló, manipulációmentes, valós és a játéktervnek
+megfelelő működésére.
+16. § (1) A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer auditálási okiratnak megfelelő állapotát
+az engedély időtartama alatt folyamatosan biztosítani kell.
+(2) A szervező a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer auditálási okiratban
+foglaltakhoz képest tervezett változása esetén az auditáló szervezet írásbeli nyilatkozatát kéri arról, hogy a tervezett
+változás a (3) bekezdés szerinti jelentős változást eredményez-e.
+(3) A technikai eszközökben, a technológiában, az informatikai vagy biztonsági környezetben, a játékfunkciókban vagy
+alkalmazásban bekövetkező jelentős változás esetén az auditálást ismételten el kell végezni.
+(4) Nem jelentős változás esetén a szervező az auditáló szervezet (2) bekezdés szerinti írásbeli nyilatkozatát a változás
+alkalmazása előtt a szerencsejáték-felügyeleti hatóság részére megküldi.
+(5) A szervező az auditáló szervezet által kiállított auditálási okirathoz, illetve a (2) bekezdés szerinti nyilatkozathoz
+kapcsolódó teljes dokumentációt a szerencsejáték-felügyeleti hatóság rendelkezésére bocsátja.
+
+(6) Az auditáló szervezet az auditálási okiratban, a technikai eszközökben, a technológiában, az informatikai vagy
+biztonsági környezetben, játékfunkciókban vagy alkalmazásban bekövetkező előreláthatóan nem jelentős változás
+körét meghatározhatja. Ebben az esetben a (2) és (4) bekezdésben foglaltaktól eltérően, az auditáló szervezet
+írásbeli nyilatkozatát nem kell beszerezni. A szervező a változás alkalmazása előtt a szerencsejáték-felügyeleti
+hatóságot a változás nem jelentős jellegéről és az auditálási okirat szerinti besorolásáról értesíti.
+10. A távszerencsejáték és az online kaszinójáték szervezés részletes műszaki-informatikai feltételei
+17. §
+A távszerencsejáték és az online kaszinójáték üzemeltetés részletes műszaki-informatikai feltételeit a 2. melléklet
+tartalmazza.
+11. Játékterv, részvételi szabályzat, költségvetés
+18. § (1) A játéktervben kell meghatározni különösen
+a) a játékok megnevezését, szabályait, a játékleírást (játékszimulációt és a játékgrafikákat),
+b) játékonként a tét legnagyobb és legkisebb összegét, a tétek és nyeremények arányát, a tétek, nyeremények
+és a szervezői jutalék meghatározásának szabályait,
+c) a játékos nyilvántartásba vételének szabályait,
+d) a játékosi egyenleg vezetésének szabályait, különösen a befizetések, kifizetések kezelésének rendjét,
+valamint a tét- és nyereményfizetéssel kapcsolatos szabályokat és
+e) a játékesemények törlésének, felfüggesztésének szabályait.
+(2) A részvételi szabályzatban kell meghatározni különösen
+a) az egyes játékokban való részvétel feltételeit,
+b) a játékkal kapcsolatban felmerült viták kezelésének rendjét,
+c) az Szjtv. 1. § (8) bekezdése szerinti nyereményigazolás kiállításának rendjét,
+d) a felelős játékszervezés részletes szabályairól szóló SZTFH rendeletben meghatározott eszközök és
+intézkedések alkalmazásának részletes szabályait,
+e) a távszerencsejátékból és az online kaszinójátékból való átmeneti vagy végleges kizárás feltételeit és
+eljárásrendjét.
+(3) A részvételi szabályzatban fel kell tüntetni
+a) a szervező elnevezését és székhelyét,
+b) a távszerencsejáték és az online szerencsejáték szervezésére vonatkozó engedély adatai közül
+a szerencsejáték-felügyeleti hatóság megnevezését, az engedélyezett játéktípusokat és az engedély
+időtartamát,
+c) a sérülékeny személyek játékban való részvételének korlátozását és
+d) a játéktervnek a játékos részvételét érintő egyéb szabályait.
+(4) A szervező a részvételi szabályzat változásait a módosítással egyidejűleg köteles benyújtani a szerencsejáték-
+felügyeleti hatósághoz.
+(5) A részvételi szabályzatot a szervező honlapján a játékosok részére magyar nyelven hozzáférhetővé teszi.
+(6) A szervező a játéktervben és a részvételi szabályzatban – e feltételek alkalmazása esetén – meghatározza
+a 19. §-ban, 21. § (3) bekezdésében, 23. § (2) bekezdésében, 26. § (2) bekezdésében, illetve 29. § (8) bekezdésében
+foglalt feltételek szabályait.
+(7) A költségvetésnek tartalmaznia kell a tervezett árbevétel, a tervezett költségek és a tervezett játékadó összegét,
+valamint az összesített játékosi egyenlegek becsült éves átlagos értékét. Közös játékosi egyenleg vezetése
+esetén az összesített játékosi egyenlegek becsült éves átlagos értékét valamennyi játékra, illetve kizárólag
+távszerencsejátékra figyelemmel is meg kell becsülni.
+(8) A szervező az engedély véglegessé válását követő 30 napon belül tájékoztatásul megküldi a szerencsejáték-
+felügyeleti hatóság részére az adatkezelési szabályzatát. Az adatkezelési szabályzat változásáról a szervező
+a változást követő 30 napon belül írásban tájékoztatja a szerencsejáték-felügyeleti hatóságot.
+
+12. A játékos nyilvántartásba vétele
+19. §
+A szervező – a játékos 20. § (1) bekezdése szerinti nyilatkozatainak rendelkezésre állása esetén – az Szjtv.
+29/H. §-ában meghatározott adatok mellett a nyilvántartásban rögzíti
+a) játékos elektronikus levelezési címét,
+b) a játékos egyedi és nem módosítható felhasználónevét,
+c) az önkizárás tényét és időszakát,
+d) az önkorlátozó intézkedés tárgyát és időtartamát,
+e) a felelős játékszervezés részletes szabályairól szóló SZTFH rendeletben meghatározott, a c)–d) pontban
+foglaltaktól eltérő eszközökkel és intézkedésekkel kapcsolatban előírt adatokat,
+f) a szervező által a játéktervben és a részvételi szabályzatban meghatározott további adatokat.
+20. § (1) A nyilvántartásba vétel során a játékos nyilatkozik arról, hogy
+a) a nyilvántartásba vételhez az adatokat saját nevében szolgáltatja,
+b) a 19. §-ban meghatározott adatai kezeléséhez hozzájárul, és
+c) a távszerencsejátékban vagy az online kaszinójátékban kizárólag saját nevében kíván részt venni.
+(2) A játékos részére a távszerencsejáték szervezőnél, illetve egy online kaszinóban kizárólag egy felhasználónév és
+egyidejűleg egy jelszó biztosítható.
+21. § (1) A játékos a nyilvántartásba vett adatok változásáról haladéktalanul tájékoztatja a szervezőt, valamint kérheti az elírás
+és más hasonló hiba javítását a szervezőtől.
+(2) A szervező az adatváltozást és az elírás, más hasonló hiba javítását haladéktalanul, de legfeljebb az adat
+rendelkezésre állásától számított 24 órán belül átvezeti a nyilvántartáson.
+(3) A szervező a játékos részére biztosíthatja a játéktervben és a részvételi szabályzatban meghatározott adatokra
+a szervező közreműködése nélküli adatjavítás lehetőségét.
+(4) Az adatváltozás átvezetésére az (1)–(3) bekezdésben foglaltakon túl ennek az alcímnek a nyilvántartásba vételre
+vonatkozó szabályait kell alkalmazni.
+22. § (1) Ha a szervező a nyilvántartásba vételt követően tárja fel, hogy a nyilvántartás adattartalma azért szabálytalan, mert
+a) a játékos sérülékeny személynek minősül a nyilvántartásba vételkor,
+b) a játékos fiktív vagy halott személy,
+c) ugyanazon játékos többször szerepel a nyilvántartásban,
+d) a jogszabályban meghatározott, kötelező adatkör nem került rögzítésre, vagy
+e) egyéb visszaélés gyanúja merül fel,
+a játékosi egyenleget haladéktalanul felfüggeszti.
+(2) Többszörös nyilvántartásba vétel esetén a játékosi egyenleg végleges lezárására, elszámolására és a játékos játékból
+való kizárására irányuló intézkedéseket valamennyi érintett játékosra és játékosi egyenlegre alkalmazni kell,
+biztosítva, hogy egy játékoshoz csak egy játékosi egyenleg tartozzon.
+(3) A szervező a (2) bekezdés szerinti kizárásról statisztikai nyilvántartást vezet, melyhez a szerencsejáték-felügyeleti
+hatóság részére távoli hozzáférést biztosít. A statisztikai nyilvántartás a kizárás okát és időpontját tartalmazza.
+(4) Ha a szervező tudomására jut, hogy a nyilvántartásba vétel vagy a nyilvántartás az (1) bekezdésben
+meghatározottakon kívüli, egyéb okból – különösen az adatváltozás késedelmes bejelentése miatt –
+szabálytalan, a szervező a szabálytalanság kiküszöbölése iránt intézkedik. A szervező szükség esetén a játékost
+felhívja a szabálytalanság kiküszöbölésében való közreműködésre, és a játékosi egyenleget a szabálytalanság
+kiküszöböléséig felfüggesztheti. Ha a szabálytalanság 30 napon belül sem kiküszöbölhető, és emiatt
+a jogszabálynak megfelelő játék nem biztosítható, a szervező a játékosi számla lezárása és a játékos kizárása iránt
+intézkedik.
+
+13. Játékosi egyenleg
+23. § (1) A játékosi egyenlegen a játékügyletekkel kapcsolatos jóváírás vagy terhelés a játékos nyilvántartásba vételét
+követően hajtható végre.
+(2) A játékosi egyenleg feltöltése során a játéktervben és a részvételi szabályzatban meghatározott feltöltési mód
+alkalmazható. A játékosi egyenleg befizetési vagy kifizetési módjaként változó költséget a szervező a játékosra
+háríthatja, ha azt a játéktervben és a részvételi szabályzatban előzetesen rögzíti.
+(3) A különböző játékosok játékosi egyenlegei közötti átvezetés tilos.
+(4) A szervező köteles olyan informatikai megoldásokat alkalmazni, melyek alkalmasak a játékosi egyenleg
+eseményeinek teljes körű és ellenőrizhető nyilvántartására.
+24. § (1) A játékosi egyenlegen belül a szervezőnek legalább az alábbi tételeket tartalmazó nyilvántartást kell vezetnie:
+a) befizetés,
+b) kifizetés,
+c) nyeremény.
+(2) A játékosi egyenleg eseményeit – különösen a befizetés és a kifizetés teljesítését – a szervező a játékosi egyenlegen
+haladéktalanul átvezeti. Az 1 munkanapot meghaladó átvezetési akadály esetén a szervező a játékost elektronikus
+levélben vagy internetes honlapján keresztül értesíti, és ha az indokolt, az akadály elhárításáig a játékosi egyenleget
+felfüggeszti, vagy a hibával érintett szolgáltatást letiltja.
+(3) A szervező a játékosi egyenleg adataihoz a játékos részére a folyamatos hozzáférés lehetőségét legalább az alábbi
+adatkörben biztosítja:
+a) a játékosi egyenleg összesített egyenlege,
+b) az (1) bekezdés szerinti és önként alkalmazott további tétel összesített adatai,
+c) érvényes önkizárás esetén ennek ténye és időtartama,
+d) érvényes önkorlátozó intézkedések esetén ezek köre és alkalmazási időszaka.
+(4) A szervező a játékos kérésére a játékosi számla eseményeinek kivonatos adatait – a távszerencsejátékban
+és az online kaszinójátékban való részvételt biztosító jogviszony időtartama alatt – a játékos által megjelölt
+részletezésben és módon legalább 30 napra visszamenőleg legfeljebb 5 napon belül a játékos rendelkezésére
+bocsátja. A kivonatos adatok körét és rendelkezésre bocsátásának módját a játéktervben és a részvételi
+szabályzatban kell meghatározni.
+25. § (1) Ha a szervező távszerencsejátéknak minősülő játék mellett más szerencsejáték szervezésére is engedéllyel
+rendelkezik, a közös játékosi egyenlegen a játékos részére valamennyi játékkal összefüggésben vezethető
+a szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb ügyletek elszámolása és nyilvántartása. Közös játékosi
+egyenleg alkalmazása esetén egy játékosnak egy játékosi egyenlege lehet a szervezőnél.
+(2) A szervező a közös játékosi egyenleget a távszerencsejáték szervezésére jogosító engedély érvényességének
+kezdetekor, a játékos szervezőnél már meglévő játékosi egyenlegének felhasználásával is kialakíthatja.
+(3) A közös játékosi egyenleg (2) bekezdés szerinti kialakítása esetén a játékosnak a távszerencsejátékban való
+részvételére a távszerencsejátékra irányadó rendelkezések teljesülését követően kerülhet sor.
+(4) A közös játékosi egyenlegek Szjtv. 29/H. § (5) bekezdése szerinti kifizetésre alkalmas fedezetét úgy kell
+megállapítani, hogy az valamennyi játékban történő kifizetést biztosítsa.
+(5) Az Szjtv. 29/I. § (2) bekezdés a)–b) és e)–f) pontja szerinti önkorlátozó intézkedések a közös játékosi egyenlegre
+alkalmazandóak.
+(6) A távszerencsejáték-engedély felfüggesztésének időtartama alatt a közös játékosi egyenlegen a szervező
+a távszerencsejátékon kívüli játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat átvezeti, valamint
+az ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíti. A távszerencsejátékkal összefüggésben a szervező
+a felfüggesztés napját megelőző játékügyletek elszámolásával kapcsolatos terheléseket, jóváírásokat vezetheti át,
+valamint csak ilyen játékügyletekkel kapcsolatos kifizetéseket teljesíthet.
+(7) A közös játékosi egyenlegnek a szervező általi felfüggesztése vagy megszüntetése valamennyi játékot érintő
+intézkedésnek minősül. A felelős játékszervezés részletes szabályairól szóló SZTFH rendelet szerinti kitiltás esetén
+a szervező a játéktervben és a részvételi szabályzatban határozza meg, hogy súlyos szerződésszegés esetén
+valamennyi játékot érintően megszűnik-e a játékosi egyenleg és a játékokhoz történő hozzáférés lehetősége.
+(8) A játékosi egyenlegre vonatkozó rendelkezéseket a közös játékosi egyenlegre megfelelően alkalmazni kell.
+
+14. Eljárás a játékosi egyenleg felfüggesztése és megszüntetése esetén
+26. § (1) A szervező a játékosi egyenleget felfüggeszti
+a) a 22. § szerinti esetekben, vagy
+b) a játékosi egyenleg szabályos vezetését súlyosan veszélyeztető körülmény felmerülése esetén.
+(2) A szervező a játéktervben és a részvételi szabályzatban meghatározott egyéb okokból és eljárásrend szerint
+– különösen a játékban való részvételi szabályok megsértése esetén – a játékosi egyenleget felfüggesztheti.
+(3) A felfüggesztés tényéről, időpontjáról, okáról, illetve a felfüggesztés megszüntetésének tényéről és időpontjáról
+a szervező a játékost haladéktalanul elektronikus levélben értesíti.
+(4) A felfüggesztés időtartama alatt a játékosi egyenleg nem szüntethető meg.
+(5) A felfüggesztés időtartama a 180 napot nem haladhatja meg.
+27. § (1) A szervező a játékosi egyenleget megszünteti
+a) a 26. § szerinti esetekben akkor, ha a felfüggesztés hatálya alatt a hiba nem volt orvosolható,
+b) a 28. § szerinti esetben, vagy
+c) a távszerencsejátékban és az online kaszinójátékban való részvétel tárgyában létrejött szerződés
+megszüntetése esetén.
+(2) A játékosi egyenleg megszüntetése esetén a szervező a játékost a játékban való további részvételből kizárja,
+a játéktervben foglaltak szerint a játékossal előre közölt módon elszámol, valamint a játékosi egyenleg és a játékos
+nyilvántartási adatainak játékos általi közvetlen elérhetőségét megszünteti.
+(3) A szervező a (2) bekezdés szerinti intézkedésekről a játékost haladéktalanul, de legfeljebb 1 munkanapon belül
+elektronikus levélben értesíti.
+28. § (1) Ha a játékos a szerencsejáték szervezésre használt honlapra történő utolsó bejelentkezése óta két év eltelt, és
+a játékos nem áll önkizárás hatálya alatt, a szervező a játékos előzetes, elektronikus levélben közölt értesítésével és
+tiltakozásának elmaradása esetén játékost a játékban való további részvételből kizárhatja. Kizárás esetén a szervező
+a játékossal a 27. § (2) bekezdésében meghatározottak szerint számol el és szünteti meg a játékos nyilvántartási
+adatainak játékos általi közvetlen elérhetőségét.
+(2) A szervező az előzetes, elektronikus levélben közölt értesítésben legalább 10 napos határidőt biztosít a játékosnak
+a nyilatkozattételre.
+15. Ajándék bónuszok és speciális bónusz ajánlatok
+29. § (1) A szervező az előzetesen meghatározott feltételeket teljesítő játékos részére, ellenérték fizetése nélkül, előre
+meghatározott promóciós összeget biztosíthat, amelyet a játékos távszerencsejáték vagy online szerencsejáték
+céljára tétként használhat fel (a továbbiakban: ajándék bónusz).
+(2) A szervező az előzetesen meghatározott feltételeket teljesítő játékos részére előre meghatározott mértékkel
+csökkentheti a játékos által fizetendő tét összegét vagy meghatározott mértékkel növelheti a megnyert bónusz
+nyeremény összegét (a továbbiakban: speciális bónusz ajánlat).
+(3) Közös játékosi egyenleg esetén az ajándék bónuszt és a speciális bónusz ajánlatot a játékos távszerencsejáték és
+más szerencsejáték céljára tétként felhasználhatja.
+(4) A szervező jogosult az ajándék bónuszokat és speciális bónusz ajánlatokat széles körben, a játékosok üzletpolitikai
+elvek mentén meghatározott köre számára vagy személyre szabva meghirdetni és alkalmazni. A szervező az ajándék
+bónusz vagy speciális bónusz ajánlat kiírásában naptári napban előírt, határozott időtartamot biztosít a játékosnak
+arra, hogy az ajándék bónusz vagy speciális bónusz ajánlat jóváírásával kapcsolatos valamennyi feltételt teljesítse és
+azt a játékos egyenlegén jóváírja.
+(5) Az ajándék bónusz, speciális bónusz ajánlat nyújtásához kapcsolódó valamennyi feltételt előzetesen és
+egyértelműen kell ismertetni a kiírásban a játékossal.
+(6) A szervező az ajándék bónuszt és a speciális bónusz ajánlatot és az abból származó bónusz nyereményt csak
+a kiírásban meghatározott feltételek teljesülésekor írja jóvá a játékosi egyenlegen.
+(7) A távszerencsejáték és az online kaszinójáték céljára tétként fel nem használt vagy a bónusz feltételeket nem
+teljesített ajándék bónusz vagy speciális bónusz ajánlat összege vagy abból származó bónusz nyereménye
+a nyilvántartásba vétel időtartama alatt és a nyilvántartásba vétel megszüntetésével összefüggő elszámolás során
+sem fizethető ki a játékos részére.
+
+(8) A szervező az ajándék bónusz és speciális bónusz ajánlat általános szabályait – különösen azok nyilvántartásának
+módját – a játéktervben és a részvételi szabályzatban határozza meg.
+16. Játékesemény törlése és rendkívüli bejelentési kötelezettség
+30. § (1) A szervező a játékeseményt törölheti, ha a játékesemény kimenetele nem állapítható meg. A játékesemény törlését
+nyilvánosságra kell hozni, és a befizetett tétet a játékosnak vissza kell fizetni.
+(2) A szervező a szerencsejáték-felügyeleti hatóságot haladéktalanul tájékoztatja a távszerencsejáték szervezési
+tevékenységet érintő olyan rendkívüli eseményről (különösen vis maior), amelyre jogszabály vagy a jóváhagyott
+játékterv előírást nem tartalmaz.
+17. Végelszámolás, elszámolás
+31. § (1) A távszerencsejáték és az online kaszinójáték megszűnését követő hatvan napon belül végelszámolást kell készíteni.
+(2) A végelszámolást az Szjtv. 29/K. § (1) és (2) bekezdésében és a 3. melléklet szerinti adattartalommal kell teljesíteni
+a szerencsejáték-felügyeleti hatósághoz.
+18. Adatszolgáltatás
+32. § (1) A távszerencsejáték és az online kaszinójáték szervező az Szjtv.-ben előírt rendszeres adatszolgáltatás keretében
+a 3. mellékletben foglalt adatokat köteles a szerencsejáték-felügyeleti hatóság rendelkezésére bocsátani.
+(2) A 25. § (1) bekezdése szerinti közös játékosi egyenleg esetén a 3. melléklet I. pont a)–d), i)–l) és n) alpontjában
+megjelölt adatokat a közös játékosi egyenlegre vonatkoztatva kell megadni.
+(3) Az adatszolgáltatás részletes formai és technikai feltételeit a szerencsejáték-felügyeleti hatóság által kiadott
+feltételrendszer tartalmazza.
+19. Távszerencsejátékhoz és az online kaszinójátékhoz való hozzáférés
+33. § (1) A szervező a (2)–(3) bekezdésben foglaltak és az engedélyezett játékkaszinó kivételével – sem közvetve sem
+közvetlen módon – nem biztosíthat helyszínt vagy műszaki eszközt a játékosok részére. A távszerencsejáték és
+az online kaszinójáték keretében nyújtott szerencsejáték szervezés közterületen, illetve a közönség számára nyitva
+álló épületben vagy helyiségben – a (2)–(3) bekezdésben foglaltak és az engedélyezett játékkaszinó kivételével –
+nem közvetíthető. Kizárólag internethez való hozzáférés biztosítása nem minősül szerencsejáték-közvetítésnek.
+(2) A szerencsejáték-felügyeleti hatóság a távszerencsejáték szervezésére engedéllyel rendelkező szervező
+kérelmére naptári évenként legfeljebb 5 alkalommal, esetenként legfeljebb 30 napos időtartamra engedélyezheti
+a távszerencsejáték szervezőnek jóváhagyott fogadás közterületen, a közönség számára nyitva álló épületben vagy
+a szervező által biztosított helyszínen történő szervezését, közvetítését. Ebben az esetben a szervező a játékosok
+részére a távszerencsejátékban való részvételhez biztosíthat műszaki eszközt.
+(3) A (2) bekezdés szerinti esetben a szervező a szerencsejáték-felügyeleti hatóság jóváhagyásával legfeljebb
+folyamatosan alkalmanként 15 napra, időlegesen térhet el a jóváhagyott játéktervtől. Az időleges eltérés időtartama
+alatt az eredeti játékterv nem módosítható.
+V. Fejezet
+Játékkaszinók
+20. Engedélyezés
+34. §
+A szerencsejáték-felügyeleti hatóság játékkaszinó üzemeltetésére vonatkozó engedélyező határozatának
+mellékletét képezi az 5. melléklet szerinti tartalmi és formai elemeket tartalmazó működési engedély, amelyet
+a játékkaszinó bejáratánál jól látható módon ki kell függeszteni. A működési engedélyt, annak bármely okból
+történő megszűnésétől számított 8 napon belül a szerencsejáték-felügyeleti hatóság részére le kell adni.
+
+35. §
+A játékkaszinó kitelepülése tekintetében alkalmazni kell a 36–37. §-t, a 38. § (1)–(2) bekezdését, a 39. §
+(1)–(2) bekezdését, a 40–41. §-t, a 44–48. §-t, az 50. § (4), (5) és (7) bekezdését, valamint az 51. §-t.
+21. A játékkaszinó működtetésének személyi feltételei
+36. § (1) Az alkalmazott képesítésére, szakmai gyakorlatára vonatkozó feltételeket tanúsító okiratok hiteles másolatát
+a szervező köteles a foglalkoztatás megkezdésétől a munkaviszony fennállásáig a munkaszerződések mellékleteként
+megőrizni.
+(2) A szervező köteles alkalmazottjának munkaviszonyát haladéktalanul megszüntetni abban az esetben, ha
+a munkaviszony fennállása alatt e rendeletben meghatározott alkalmazási feltételek bármelyike nem áll fenn.
+(3) A játékkaszinóban a következő szakmai képesítési feltételek szükségesek:
+a) igazgatóként, igazgatóhelyettesként felsőfokú iskolai végzettség vagy legalább ötéves, játékkaszinóban
+szerzett szakmai gyakorlat,
+b) főkönyvelőként a munkakör betöltéséhez szükséges felsőfokú iskolai végzettség és legalább hároméves
+szakmai gyakorlat,
+c) főpénztárosként középfokú iskolai végzettség, valutapénztárosi tanfolyam elvégzése és legalább kétéves,
+pénztárosi munkakörben szerzett szakmai gyakorlat,
+d) teremfelügyelőként középfokú iskolai végzettség és legalább kétéves, játékkaszinóban szerzett szakmai
+gyakorlat,
+e) játékvezetőként (dealer) és asztalfelügyelőként középfokú iskolai végzettség és a munkakör ellátásához
+szükséges tanfolyam elvégzése, továbbá asztalfelügyelőként legalább egyéves, játékkaszinóban szerzett
+szakmai gyakorlat,
+f) a d) és e) pontokban nem nevesített egyéb játéktechnikai alkalmazottként középfokú iskolai végzettség és
+a munkakör ellátásához szükséges tanfolyam elvégzése,
+g) biztonsági szolgálat vezetőként középfokú iskolai végzettség, továbbá biztonságszervezői tanfolyam
+elvégzése,
+h) pénztárosként középfokú iskolai végzettség és legalább kétéves, pénztárosi munkakörben eltöltött szakmai
+gyakorlat vagy megfelelő pénzügyi ismeretek és ténylegesen megkezdett valutapénztárosi tanfolyam,
+i) videó-személyzetként középfokú iskolai végzettség.
+22. A játékkaszinó működtetésének tárgyi feltételei
+37. § (1) A játékkaszinó kizárólag e célt szolgáló épületben vagy erre a célra egyéb tevékenységtől biztonságosan
+elkülöníthető, zárt egységet alkotó épületrészben működhet.
+(2) A beléptetőrendszerrel ellátott bejáratokon kívül a játékkaszinó céljára szolgáló helyiség-együttes kizárólag
+a szükséges vészkijáratokkal, személyzeti és szervizbejáratokkal rendelkezhet, amelyek forgalmát (vészhelyzetet
+nem számítva) a szervező előre meghatározott és körülírt módon köteles ellenőrizni. Az építmény kialakításánál
+olyan megoldást kell alkalmazni, amely biztosítja, hogy a játék a közterületről, illetve a játékkaszinótól elkülönült
+más helyiségből ne legyen látható.
+(3) A játékkaszinónak központi riasztórendszerrel kell rendelkeznie. A pénztárhelyiséget a központi riasztórendszeren
+túl, külön riasztóberendezéssel kell ellátni.
+(4) A játékkaszinó elektromos hálózatát szünetmentes áramforrással kell ellátni annak érdekében, hogy a megkezdett
+játékok befejezéséhez, illetve a működés átmeneti felfüggesztéséhez szükséges időszakra szóló áramellátás
+biztosítva legyen.
+(5) Megfelelő helyiséget kell biztosítani a személyzet (pihenő, öltöző, mosdó, személyzeti büfé stb.) és a látogatók
+részére (ruhatár, mellékhelyiségek stb.). Külön helyiséget kell fenntartani a biztonsági személyzet, valamint
+a technikai karbantartást végző személyzet részére.
+(6) A játékasztalok között a játék kényelmes és biztonságos lebonyolításához szükséges szabad helyet kell biztosítani.
+(7) A játékkaszinónak a játék tisztasága, a biztonságos lebonyolítása, a rend és a vagyonvédelem, továbbá a pénzmosás
+és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben előírt
+feladatok végrehajtása érdekében a következő feltételeknek megfelelő videorendszerrel kell rendelkeznie:
+a) a videorendszerrel valamennyi, a játékkaszinóban folyó játéknak megfigyelhetőnek kell lennie. A kamerákat
+úgy kell beállítani, típusát úgy kell kiválasztani, hogy a tétek (zsetonok színei és olvashatósága),
+
+a játékeszközök és kiegészítő játékeszközök (különösen a kocka, kártya, golyó), valamint a játék menete
+a képernyőn egyaránt jól látható és követhető legyen,
+b) a videorendszernek biztosítania kell a pénznyerő automaták feltöltésének, ürítésének, jackpot kifizetésének
+megfigyelhetőségét. Ha a játékeszközök elszámolása külön helyiségben történik, úgy ezt a helyiséget
+is kamerával kell ellátni. A videorendszernek biztosítania kell az elszámolás helyéig tartó útvonal
+ellenőrizhetőségét,
+c) az épület valamennyi játékterében szükséges olyan kamerákat is elhelyezni, amelyekkel az esetleges
+rendbontás, valamint az alkalmazott biztonsági intézkedések megfigyelhetősége és rögzíthetősége az egész
+játéktérben és valamennyi játékhelyen (különösen a játékasztal, pénznyerő automata) áttekinthető,
+d) kamerákkal ellenőrizhetővé kell tenni a játékkaszinó látogatóinak belépését és a személyazonosítás
+folyamatát,
+e) valamennyi kamerának alkalmasnak kell lennie arra, hogy a közvetített kép másodperc részletezettséggel és
+pontossággal tartalmazza a dátumot, az időpontot, továbbá elhelyezésének megfelelően a megtett téteket,
+a készpénz és a borravaló átvételét úgy, hogy a játékeszközökön történt események mindvégig láthatóak
+legyenek. A képpel együtt a hangot is továbbítani kell. Közeli képpel (zoomos kamerával) kell rögzíteni
+a kötelezően bizonylatolandó, valamint a pénztárban folyó eseményeket,
+f) a kamerák képeit a kaszinó játéktervében rögzített ellenőrzési rendszerében foglaltak szerint állandóan
+figyelni kell. A kamerák által nyújtott képanyagot egyidejűleg rögzíteni kell, és azt az 51. § (4) bekezdésében
+meghatározott időtartamig meg kell őrizni.
+23. A játékkaszinó működtetésének egyéb feltételei
+38. § (1) A játékkaszinóban játék legfeljebb két pénznemben folytatható.
+(2) A játékkaszinó a hét minden napján 0 és 24 óra között tarthat nyitva.
+39. § (1) A játékosok beléptetése során a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról
+szóló 2017. évi LIII. törvényben előírtak szerinti azonosítást köteles a szervező elvégezni, melynek keretében
+a törvényben előírtakon túl a játékos belépésének időpontját is köteles rögzíteni és nyilvántartani.
+(2) A játékkaszinóba belépőket részletesen tájékoztatni kell
+a) a videorendszer működésének tényéről, annak céljáról, az így szerzett adatok megőrzési idejéről,
+b) a játékkaszinónak és a játékosoknak a pénzmosás és a terrorizmus finanszírozása megelőzéséről és
+megakadályozásáról szóló 2017. évi LIII. törvényben a játékosok azonosításával kapcsolatosan előírt
+kötelezettségeiről,
+c) arról, hogy a szerencsejáték-felügyeleti hatóság törvényben előírt hatósági feladatainak ellátása érdekében
+a videorendszer által rögzített adatokba betekinthet,
+d) arról, hogy a szervező a belépő törvényben előírt személyes adatait, képmását rögzíti, valamint
+a játékkaszinóban végzett tevékenységéről törvényi előírás alapján videofelvételt készít.
+(3) A szervező belépődíjat állapíthat meg a látogatók részére.
+40. § (1) A játékkaszinóba nem léphet be
+a) 18 éven aluli és a játékkaszinó látogatásából kizárt sérülékeny vagy egyéb személy,
+b) ittas vagy bódult állapotban lévő személy, továbbá akiről a körülmények alapján nyilvánvaló, hogy ezért vagy
+más okból jelenlétével megzavarhatja a rendet, nyugalmat és a játékok menetét,
+c) akit a játékkaszinóból a szervező kitiltott, a kitiltás időtartamának lejártáig vagy a kitiltás visszavonásáig,
+d) a Magyar Honvédség, a rendvédelmi szervek egyenruhát viselő tagja, ha nem hatósági feladatainak tesz
+eleget.
+(2) A játékkaszinóban folytatott játékokban nem vehet részt
+a) az Szjtv. 28. § (1) bekezdésében felsorolt személy,
+b) a játékkaszinóban hatósági feladatokat ellátó személy,
+c) akit a játékkaszinó igazgatója vagy helyettese nem a játékban való részvétel céljából személyesen vezet be.
+41. § (1) A szervező a látogatókat – a játékkaszinó igazgatója vagy helyettese által személyesen bevezetett, valamint
+a hatósági feladatokat ellátó személyek kivételével – a játékkaszinóba való első belépéskor, illetve az érvényesség
+
+lejártakor legfeljebb kettő évig érvényes belépőkártyával köteles ellátni. A belépőkártya kiállításához a játékos
+azonosítása során szerzett adatok felhasználhatók.
+(2) A belépőkártyáknak legalább az alábbi adatokat kell tartalmaznia:
+a) a belépőkártya sorszámát,
+b) a belépő személy teljes nevét,
+c) a kiállítás keltét,
+d) a kártya érvényességi idejét,
+e) a játékkaszinó bélyegzőlenyomatát vagy egyéb megkülönböztető jelét.
+(3) A (2) bekezdés b), c) és d) pontokban megjelölt adatok a belépőkártya leolvasásakor a beléptető nyilvántartási
+rendszerből is megjeleníthetők.
+42. § (1) Az Szjtv. 27/A. § (1) bekezdése alkalmazásában a játékosok vendéglátásához szorosan tartozó tevékenységnek
+minősülnek a forgalom növelése érdekében szervezett akciók és rendezvények is.
+(2) Az (1) bekezdés szerinti akciók, rendezvények a szerencsejáték szervezéséhez közvetlenül nem kapcsolódhatnak,
+a játéktervi szabályokat nem érinthetik, a szerencsejátékok szervezését nem zavarhatják.
+(3) Az (1) bekezdés szerinti akciót, rendezvényt annak kezdetét megelőző öt nappal a szerencsejáték-felügyeleti
+hatósághoz írásban be kell jelenteni az akció, illetve rendezvény helyének, időpontjának és lényeges tartalmának
+leírásával.
+43. §
+A játékkaszinónak lehetősége van a játékkaszinóban folyó játék zavarása nélkül a játékkaszinóban használatostól
+eltérő, érték nélküli zsetonkészlettel az alkalmazottak játéktechnikai, valamint a játékosok játékszabály-ismertető
+oktatására irányuló tevékenységet folytatni.
+24. A gazdátlan zsetonok (árvák)
+44. § (1) Árváknak minősülnek a játékkaszinó területén talált (pl. játékasztalon maradt vagy játék közben ott felejtett) olyan
+zsetonok, amelyek tulajdonosai nem ismertek.
+(2) Az árvákat haladéktalanul be kell fizetni a játékkaszinó főpénztárába, és bejegyezni az árvák nyilvántartásába.
+(3) Azon személy részére, aki az árvák feletti tulajdonjogát bizonyítja, ezt a pénzösszeget – zseton esetén az értékének
+megfelelő összeget – vissza kell fizetni.
+(4) A visszafizetett pénzösszeget fel kell jegyezni az árvák nyilvántartásába. Ennek tartalmaznia kell a visszafizetés
+időpontját, a tulajdonos nevét, lakóhelyét, valamint ahhoz csatolni kell az eseménnyel kapcsolatos vizsgálat
+eredményét tartalmazó jegyzőkönyvet.
+(5) A visszafizetésre nem került árvákat – ide nem értve a kis értékű árvákat – a megtalálásuk időpontját követő egy év
+elteltével a játékkaszinó egyéb bevételei között kell szerepeltetni. E szabály alkalmazása szempontjából kis értékű
+árvának minősül a 100 forint értéket el nem érő gazdátlan zseton.
+(6) A kis értékű árvákat a megtalálásuk időpontját követő záráskor a játékkaszinó egyéb bevételei között kell
+nyilvántartani.
+25. Borravalók
+45. § (1) Játékkaszinóban borravaló elfogadása kizárólag a játékasztalnál, pénznyerő automatánál, teremjátéknál,
+zsetonpénztárnál és a belépőpénztárnál történhet.
+(2) A játékkaszinó egyetlen alkalmazottja sem kérhet borravalót, illetve erre utaló magatartást sem tanúsíthat.
+(3) Az alkalmazottak a játékosok által felajánlott borravalót kizárólag az erre a célra fenntartott közös tartókban
+helyezhetik el. A tartókat olyan biztonsági zárrendszerrel kell ellátni, amely biztosítja, hogy azokat csak ellenőrzött
+módon lehessen kinyitni.
+(4) A játékasztalnál és zsetonpénztárnál kizárólag zsetonként, a belépőpénztárnál készpénzként fogadható el
+a borravaló. A belépőzseton borravalóként nem fogadható el.
+(5) A játékasztalnál adott borravalót a borravalótartó mellett fel kell fektetni úgy, hogy az a videokamera által is
+ellenőrizhető legyen.
+(6) A borravalótartóban csak az a zseton helyezhető el, amelyet a játékos adott, vagyis a címlete, darabszáma nem
+változtatható meg. Ettől a szervező a játéktervben biztonsági okokból a szerencsejáték-felügyeleti hatóság
+jóváhagyásával eltérhet.
+
+(7) Ha a játékos a borravalót színzsetonban is adhatja, az adott színzsetont a borravalótartó mellett fel kell fektetni,
+majd mellé kell helyezni a megfelelő értékzsetont. A kettőt hangosan leszámolva meg kell feleltetni egymásnak, és
+ezután kell az értékzsetont a borravalótartóba dobni.
+(8) A borravalót a fenti szabályok szerint eljárva azonnal, a játékkaszinó intézkedésre jogosult alkalmazottjának
+akadályoztatása esetén pedig legkésőbb a következő játék megkezdéséig a borravalótartóba kell helyezni.
+(9) A borravalótartók kinyitására a játékidő végén az igazgató vagy helyettese által erre kijelölt személy, valamint
+a borravalóval érintett helyszínre beosztott egy dolgozó jelenlétében kerülhet sor. A bizonylaton a borravaló teljes
+összegét rögzíteni kell.
+26. A játékokban való részvételhez kapcsolódó közös rendelkezések
+46. § (1) A szervező a játékkaszinó részvételi szabályzatában megtilthatja a játékokban technikai segédeszközök használatát.
+Erről köteles tájékoztatni a játékosokat.
+(2) A szervező napi készpénz záró állományának havi szintű átlaga nem haladhatja meg a játékosok számára
+teljesítendő kifizetésekhez szükséges, a játéktervben meghatározott mértéket. Ha a nyeremény kifizetése
+a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 63. § (1) bekezdése szerinti fizetési módok
+szerint történik, a fizetési megbízás közlemény rovatában a„Nyereményigazolás céljára nem alkalmas” szöveget kell
+feltüntetni.
+(3) A szervező, valamint azok, akik a játékkaszinóban folyó játékban nem vehetnek részt, a játékosok részére kölcsönt
+(hitelt) nem nyújthatnak.
+(4) Tétek megtételére – ide nem értve a pénznyerő automatákat – zsetonon kívül más eszköz (pl. pénz, egyéb
+értéktárgy) nem alkalmazható. A játékasztalnál vásárolt zseton ellenértékét – annak leszámolását követően –
+a készpénztartó dobozba azonnal be kell dobni.
+(5) A szervező a játékkaszinóban az általa rendszeresített zsetonokat vagy azok bizonyos típusait bármikor bevonhatja.
+A zsetonok bevonásának a nyitvatartási idő alatt történő elrendelése esetén lehetővé kell tenni a játékkaszinóban
+tartózkodó játékosok számára a birtokukban lévő zsetonok visszaváltását.
+(6) A szervező köteles tájékoztatni a játékosokat arról, hogy a játékkaszinóból zsetonokat tilos kivinni.
+27. Egyes játékeszközökre vonatkozó különös rendelkezések
+47. § (1) A kaszinójáték tekintetében játékeszköznek minősül a mérésügyi szerv által szerencsejáték céljára – a mérésügyi
+jogszabályok alapján – hitelesített és egyedi azonosításra alkalmas jelzéssel ellátott, a szerencsejáték nyerési esélyeit
+befolyásoló eszköz, valamint a játékasztal és a teremjáték céljára szolgáló eszköz.
+(2) Egy játékasztalon, illetve teremjáték céljára szolgáló eszközön egyidejűleg csak egy játékfajta és ugyanazon
+játékszabállyal játszható.
+(3) Egy játékeszközön egyidejűleg csak egy pénznemben, illetve minimum és maximum téttel folyhat a játék.
+28. Egyes kiegészítő játékeszközökre vonatkozó különös rendelkezések
+48. § (1) A kaszinójátékok tekintetében kiegészítő játékeszköznek minősül minden, a játékkaszinóban alkalmazott – az 1. §
+(1) bekezdésében nem szereplő – játékeszköz (pl. kártya, kocka, golyó).
+(2) A játékkaszinóban kizárólag a játék biztonságos lebonyolítását garantáló kiegészítő játékeszközöket lehet
+alkalmazni.
+(3) A játékkaszinóban lévő kiegészítő játékeszközökről típusonként nyilvántartást kell vezetni, azokat olyan helyen kell
+tárolni, amelyhez a kaszinó erre feljogosított alkalmazottján kívül más nem férhet hozzá.
+(4) Az újonnan használatba vett kiegészítő játékeszközöket a játék megkezdése előtt ellenőrizni kell arra vonatkozóan,
+hogy azok hiánytalanok és sérülésmentesek-e, illetve rajtuk azonosító jel nem található. E körülmények vizsgálatát
+a játék alkalmával a játékos is kérheti. Ez esetben a játékeszközök további használatáról a játékkaszinó igazgatója
+(helyettese) dönt.
+(5) A hiányos, sérült vagy megjelölt kártyacsomagokat a játékból azonnal ki kell vonni, és a többiektől elkülönítetten
+kell tárolni. Ugyanígy kell eljárni az egyéb sérült vagy megjelölt kiegészítő játékeszközökkel is. Az elhasználódott
+kártyákat hiánytalanul sorrendbe állítva, míg a sérült és megjelölt kártyákat a tartalék csomagban, sorrend szerint
+a kicserélt kártyák helyén kell tartani. A szervező a sérült, megjelölt kiegészítő játékeszközök – legalább félévenként
+történő – selejtezéséről jegyzőkönyv felvétele mellett köteles gondoskodni.
+
+29. Pénznyerő automaták működtetésének szabályai
+49. § (1) A szervezőnek a nyitvatartási idő alatt gondoskodnia kell a pénznyerő automaták állandó felügyeletéről,
+nyitvatartási időn kívül pedig arról, hogy azokon játékot senki ne folytathasson.
+(2) A szervező játéktervében szabályozhatja, hogy a játékban használt egyes érmékhez vagy tokenekhez milyen értéket
+rendel. Kifizetés token, pénzérme vagy elektronikus zseton formájában a pénznyerő automatából, készpénzben
+a pénztáron keresztül a pénztárnál vagy a pénznyerő automatánál történhet.
+(3) A pénznyerő automaták eredményeinek megállapítását havonta, a tárgyhó utolsó napját követő zárás után, de
+még a következő havi nyitás előtt el kell végezni. Az ennél rövidebb időszakonként végrehajtott zárás időpontjáról
+a szerencsejáték-felügyeleti hatóságot legalább három nappal előtte, írásban értesíteni kell.
+(4) Az eredmény megállapításakor a készpénztartókban lévő tokent és készpénzt le kell számolni, amelyet a pénztárból
+történt kifizetésekkel és az elektronikus zsetonok forgalmával korrigálni kell, és alapdotációval fel kell tölteni. Az így
+megállapított eredményt a számlálók alapján megállapított eredménnyel össze kell vetni. Ha az összevetés 1%-nál
+nagyobb eltérést mutat, ennek okáról jegyzőkönyvet kell felvenni.
+(5) A pénznyerő automata kinyitásánál minden esetben két alkalmazott jelenléte kötelező. Az elektromechanikus
+számlálók meghibásodása esetén az üzemeltetést a hiba kijavításáig szüneteltetni kell.
+30. Játékterv és részvételi szabályzat, gazdasági számítások
+50. § (1) A játéktervben rögzíteni kell különösen:
+a) a tervezett játékfajták megnevezését, játékszabályait, valamint játékonként a minimális és maximális tét
+nagyságát, illetve a tétek és nyeremények arányát,
+b) a játékeszközök darabszámát, a pénznyerő automaták kivételével,
+c) a borravaló elszámolási rendjének leírását,
+d) a játékkal összefüggő, pénzmozgással járó műveletek leírását és bizonylatolását,
+e) a játékkaszinóban üzemelő pénztárak működési rendjének szabályait,
+f) a játékkaszinó biztonsági rendszerének leírását,
+g) a játékkaszinó számítógépes beléptetőrendszerének leírását,
+h) az alkalmazott számítógépes nyilvántartási rendszerek leírását,
+i) a napi készpénz záró állomány havi szintű átlagának maximumát és az összeg megállapításának indokait.
+(2) A részvételi szabályzatban rögzíteni kell különösen:
+a) a játéktervnek a játékosokat is érintő szabályait,
+b) a nyitvatartási időt,
+c) részletes tájékoztatást a 39. § (2) bekezdésében foglaltakról,
+d) a beléptetés és a látogatók nyilvántartásának rendjét,
+e) a 18 éven aluliak látogatási tilalmát,
+f) a privát termek látogatásának szabályait,
+g) az egyes játékokban való részvétel feltételeit, a játék egyes asztaloknál történő befejezésének, illetve
+szüneteltetésének szabályait,
+h) a borravaló elfogadásának szabályait,
+i) a játékkaszinó által használt értékzsetonok és érmék leírását, a zsetonok kezelésének rendjét,
+j) a nyeremények átvételének rendjét,
+k) a játék során felmerült viták rendezésével kapcsolatos eljárásokat,
+l) a játékkaszinóból történő kitiltásra okot adó súlyos szerződésszegés esetköreit és a kitiltás részletes
+eljárásrendjét,
+m) a játékkaszinóba történő belépés (pl. zsúfoltság miatti) ideiglenes felfüggesztésének (átmeneti szüneteltetés)
+rendjét,
+n) az igényérvényesítés rendjét,
+o) a belépőkártya más személyre történő átruházásának tilalmát,
+p) a nyereményigazolás kiadásának feltételeit.
+(3) A gazdasági számítások tervezetének tartalmaznia kell
+a) a tervezett árbevételt,
+b) a tervezett költségeket,
+c) a tervezett játékadó összegét.
+
+(4) A szervező az Szjtv. 27/F. § (1) bekezdésének megfelelően a szerencsejáték-felügyeleti hatóság jóváhagyásával,
+legfeljebb folyamatosan harminc játéknapra, időlegesen is eltérhet a jóváhagyott játéktervtől. Ezt követően
+az eredeti játékterve szerint kell folytatnia a szervezői tevékenységét. Az időleges eltérés időtartama alatt az eredeti
+játékterv nem módosítható. Az időleges eltérés tartalmi követelményeire az (1) bekezdés előírásait kell alkalmazni.
+(5) A szervező a mérésügyi szerv által kiállított hitelesítési bizonyítvány eredeti példányát köteles a játékkaszinóban
+tartani. A pénznyerő automata üzemeltetésből történő kivonását a szervező – a pénznyerő automata azonosító
+adatainak és a kivonás időpontjának megjelölésével – köteles öt nappal előtte írásban bejelenteni a szerencsejáték-
+felügyeleti hatósághoz.
+(6) A játékkaszinó a részvételi szabályzat változásait a módosítással egyidejűleg köteles benyújtani a szerencsejáték-
+felügyeleti hatósághoz.
+(7) A játékkaszinóban működő játékok szabályait tartalmazó – a részvételi szabályzat mellékletét képező – ismertetőt
+a játékeszközök közelében jól látható módon kell elhelyezni.
+31. Elszámolás, nyilvántartás, adatszolgáltatás
+51. § (1) A szervezőnek a játékbevételekről folyamatos elszámolást kell készíteni.
+(2) Az elszámolást játékhelyenként, azon belül pénznemenként kell elvégezni és bizonylatolni. A több játékhelyes
+pénznyerő automata az elszámolás szempontjából egy játékhelynek minősül. Részletesen szabályozni kell
+a) az asztalnyitás,
+b) az asztalzárás,
+c) a zsetonváltás,
+d) a dotálás (pót-, plusz- és mínuszdotáció),
+e) a pénznyerőautomata-feltöltés, -ürítés és
+f) a jackpotkifizetés
+rendjét.
+(3) A szervező az elszámolás alátámasztására auditált számítógépes elszámolási rendszert üzemeltethet.
+(4) A videofelvételek megőrzésének és az elszámolási bizonylatok beküldésének idejét a szervezőnek úgy kell
+kialakítania, hogy az elszámolási bizonylatok beküldését követően legalább öt munkanap a szerencsejáték-
+felügyeleti hatóság rendelkezésére álljon a beküldött bármely bizonylat tartalmának alátámasztására szolgáló
+videofelvétel megtekintésére. A játékkaszinóban történt rendkívüli eseményeket, illetve a játékosokkal szemben
+alkalmazott intézkedéseket tartalmazó videofelvételeket és egyéb okiratokat a szervező legalább harminc napig
+köteles megőrizni.
+(5) A játékkaszinóban folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá
+a naptári év végén a szervező köteles nyitó-, illetve zárózseton- és tokenleltárt készíteni. A szervező köteles a leltár
+időpontjáról tíz nappal előtte a szerencsejáték-felügyeleti hatóságot értesíteni, továbbá a leltári ív egy példányát
+nyolc napon belül megküldeni.
+A leltárívnek a következő adatokat kell tartalmaznia:
+a) a leltárfelvétel idejét, helyét,
+b) a pénznyerő automata gyártási számát,
+c) a feltöltött, illetve kivett tokenek darabszámát és összesítését,
+d) a zsetonok címletenkénti darabszámát,
+e) a zsetonok értékét,
+f) a pénztáros és teremfelügyelő aláírását.
+(6) A szervező köteles betartani az 50. § (1) bekezdése alapján a játéktervben meghatározott bizonylatok vezetésére,
+kitöltésére és megküldésére vonatkozó következő előírásokat:
+a) a bizonylatoknak előre sorszámozottaknak és szigorú számadásúaknak kell lenniük,
+b) a szervezőnek gondoskodnia kell a bizonylatok biztonságos tárolásáról és a bizonylattömbök
+nyilvántartásáról,
+c) a bizonylatokat úgy kell tárolni, hogy a kaszinó nyitvatartási ideje alatt a szerencsejáték-felügyeleti hatóság
+ellenőrei azokat megtekinthessék,
+d) a bizonylatokat a rögzítendő eseményekkel egyidejűleg kell kitölteni, e tekintetben a bizonylat dátuma
+az adott játéknap,
+e) a bizonylatokon aláíróként szereplő alkalmazottak számát a szervező nem csökkentheti,
+
+f) kitöltési hiba a hibás adat egyszeri áthúzásával és a helyes adat melléírásával javítható, amely hiba javítását
+a hiba javítója aláírásával igazolja,
+g) nem javítható adatoknak minősülnek a bizonylat dátuma és a játékasztal száma. Nem javítható adat esetén
+a bizonylatot érvényteleníteni kell, és új bizonylatot kell kiállítani. Az érvénytelenítésről és annak okáról
+egyidejűleg, minden esetben jegyzőkönyvet kell felvenni, és azt a rontott bizonylattal együtt az i) pontban
+foglalt határidőben kell megküldeni a szerencsejáték-felügyeleti hatósághoz,
+h) a bizonylatok első példányát ellenőrzés után, bizonylattípusonként, emelkedő sorszám szerint kell
+összeállítani és kísérő jegyzékkel ellátni,
+i) a bizonylatokat a tárgyhót követő hónap ötödik munkanapjáig a szerencsejáték-felügyeleti hatósághoz meg
+kell küldeni. Az adatszolgáltatásnak tartalmaznia kell a látogatók naponkénti létszámát hazai és külföldi
+látogatói bontásban, valamint az adott hónap dropját.
+(7) Minden olyan rendkívüli eseményről (pl. vis maior), amelyre nézve jogszabály vagy a játékkaszinó jóváhagyott
+játékterve előírásokat nem tartalmaz, a szervező köteles a szerencsejáték-felügyeleti hatóságot haladéktalanul
+telekommunikációs eszköz útján tájékoztatni.
+VI. Fejezet
+Fogadás
+32. A fogadásszervezés általános szabályai
+52. § (1) A fogadási hálózatban történő változtatást a szervező a szerencsejáték-felügyeleti hatóságnak
+a) a fogadóiroda megnyitása esetén a megnyitást megelőző nyolcadik napig,
+b) bezárás esetén legkésőbb a bezárás napjáig,
+c) a fogadóiroda rendkívüli esemény miatti zárva tartását haladéktalanul
+bejelenti.
+(2) A szervezőt megilleti a fogadási ajánlat törlésének joga
+a) a fogadási esemény megkezdése előtt vagy
+b) a fogadási esemény megkezdése után, ha a fogadási esemény a lebonyolítására irányadó szabályok szerint
+nem fejeződik be, és ezért vagy más okból kimenetele nem állapítható meg.
+(3) A (2) bekezdésben meghatározott esetekben a befizetett téteket a fogadóknak vissza kell fizetni.
+(4) A fogadási ajánlat törlését az ajánlat megtételével azonos módon nyilvánosságra kell hozni.
+(5) Az egyes fogadások esetén a legmagasabb tét értéke a 100 ezer forintot nem haladhatja meg.
+(6) Nem köthető fogadás
+a) kizárólag 18 év alattiak részvételével rendezett sporteseményre és
+b) bármely, a fogadáson, illetve távszerencsejátékon kívüli szerencsejátékkal, valamint az Szjtv. hatálya alá
+tartozó, szerencsejátéknak nem minősülő játékkal, tevékenységgel összefüggő eseményre.
+(7) Nem köthet fogadást a szerencsejáték-szervező fogadás szervezésében közvetlenül érintett alkalmazottja. Nem
+fogadhat továbbá olyan sporteseményre, amelyben érintett
+a) a sportoló,
+b) az edző, a tréner, a menedzser, az ügynök, a csapat személyzete, a csapat tisztviselője,
+c) a sportrendezvényeken részt vevő vagy arra készülő versenyzőkkel dolgozó vagy őket kezelő orvosi vagy
+paramedikális személyzet, valamint a versenyzők felkészítésében részt vevő egyéb személy,
+d) a sportrendezvényeket szervező és népszerűsítő szervezetek tulajdonosa, részvényese, vezető
+tisztségviselője vagy személyzetének tagja,
+e) a bíró, a zsűritag és más akkreditált személy, a nemzetközi sportszervezet, illetve adott esetben a versenyt
+elismerő más illetékes sportszervezet vezető tisztségviselője és munkatársa, továbbá
+f) az a)–e) pont szerinti személyek közeli hozzátartozója.
+(8) A fogadásszervező nem rendelkezhet tulajdoni részesedéssel olyan sportklubban vagy sportrendezvény-
+szervezőben, amelynek a sportrendezvényére fogadást kínál.
+(9) A szerencsejáték-felügyeleti hatóság megtagadja a fogadás játéktervének jóváhagyását, ha a rendelkezésére álló
+adatok alapján a játékterv szerinti fogadási ajánlat veszélyezteti a sportrendezvények tisztaságát.
+(10) Az engedélyezett fogadásszervezés során a szerencsejáték-felügyeleti hatóság haladéktalanul tájékoztatja
+a fogadásszervezőt, ha olyan információ kerül a birtokába, amely a sportrendezvény tiltott befolyásolására utal.
+
+Az információ alapján a szerencsejáték-szervező az információ súlyára és megalapozottságára is figyelemmel
+jogosult az érintett fogadási esemény felfüggesztésére vagy törlésére, amely tényről és annak részletes indokairól
+a szerencsejáték-felügyeleti hatóságot köteles haladéktalanul tájékoztatni.
+(11) A fogadásszervező félévente – a tárgyfélévet követő félévben február 28., illetve augusztus 31. napjáig – jelentést
+tesz a tárgyfélév tiltott befolyásolással érintettnek vélt azon sportrendezvényeiről, amelyekre fogadást tettek,
+valamint amelyekkel kapcsolatban a szerencsejáték-szervező a fogadási eseményt törölte vagy felfüggesztette.
+A jelentés személyes adatokat nem tartalmaz.
+(12) A sportversenyen felmerülő szabályszegések miatt meghozott egyes játékvezetői döntésekre fogadási ajánlatot
+abban az esetben tehet a szervező, ha ugyanannak a sportversenynek a kimeneteleire is közölt fogadási ajánlatot.
+Nem kínálhat ilyen típusú fogadási lehetőségeket olyan versenysorozatok, bajnokságok, sportesemények vagy
+találkozók kapcsán, amelyek esetében fennáll a sporteredmény tiltott befolyásolásának kockázata, illetve amelyek
+potenciálisan nyilvánvaló módon befolyásolhatóak, vagy nem képviselnek jelentős sportértéket. A szervező
+a fogadással összefüggő visszaélések megelőzése és megakadályozása érdekében alkalmazandó intézkedéseket
+köteles a játéktervében rögzíteni.
+33. A bukmékeri fogadás szervezésének különös szabályai
+53. § (1) Az egy fogadáson elérhető nyeremény legfeljebb 2 millió forint. Az ezt meghaladó összegű nyereményt lehetővé
+tevő téttel, illetve nyereményszorzóval fogadás nem köthető.
+(2) A fogadási ajánlat megtételekor a szervezőnek
+a) a fogadási eseményeket a rájuk jellemző minden olyan adat, illetve körülmény – szükség szerinti –
+felsorolásával kell meghatároznia, amelyek lehetővé teszik a fogadási események megkülönböztetését
+minden más eseménytől,
+b) a fogadási esemény lefogadható kimeneteleit az azokra jellemző minden olyan adat, illetve körülmény
+– szükség szerinti – felsorolásával kell meghatároznia, amelyek lehetővé teszik az egyes kimenetelek
+egymástól való megkülönböztetését, továbbá utalnia kell az esetleges le nem fogadható kimenetelekre,
+c) meg kell határoznia a fogadási ajánlatok halmozási és kombinálási lehetőségeit, továbbá fogadási
+ajánlatonként a fogadási ajánlatok halmozásával, illetve kombinálásával létrejött halmozott, illetve kombinált
+fogadásokat.
+(3) A szervezőnek fogadási ajánlatonként meg kell határoznia
+a) az egységnyi fogadást,
+b) az egységnyi fogadáshoz tartozó legkisebb tétet,
+c) az egy fogadással elnyerhető nyeremény legnagyobb értékét,
+d) a fogadási ajánlatok, illetve az ezekben eszközölt változtatások közzétételének módját és időpontját, illetve
+határidejét,
+e) a fogadások megkötésére nyitva álló legkorábbi és legkésőbbi időpontot,
+f) a fogadásra jogosított fogadószelvényeket,
+g) a fogadási ajánlatokban szereplő, egyes fogadási események bekövetkezett kimenetelének megállapítási,
+valamint közzétételi módját és időpontját,
+h) a nyertes fogadási ajánlat nyereményének képzési módját,
+i) az egyes nyertes fogadások nyereményeinek megállapítása során alkalmazott kerekítési szabályokat.
+(4) Bukmékeri rendszerű fogadásban nem vehetnek részt a szervező alkalmazottai közül a fogadási események
+nyereményszorzóinak meghatározására befolyással bíró személyek és ezek közeli hozzátartozói.
+(5) A szervező a játékosok részére kölcsönt (hitelt) nem nyújthat.
+(6) Távszerencsejátéknak nem minősülő bukmékeri fogadás esetén, ha olyan megoldást vagy eljárást alkalmaz
+a szervező, amelyhez más szerencsejáték fajtában történő alkalmazás esetén auditálási kötelezettség alá eső
+rendszert vagy eszközt vesz igénybe, a szervezőnek rendelkeznie kell az igénybe vett rendszer vagy eszköz
+auditálására vonatkozó okiratokkal is.
+(7) A játékosok számára meghirdetett nyereményszorzót tilos megváltoztatni véletlenszám-generátor igénybevételével
+szervezett fogadás esetén.
+
+34. A lóversenyfogadás szervezésének különös szabályai
+54. § (1) A ló- és agárversenyeken nem köthetnek fogadást
+a) a szervező alkalmazottai,
+b) a versenyben részt vevők (zsoké, hajtó, idomár),
+c) a verseny lebonyolításában közvetlenül részt vevő személyek,
+d) a Ló- és Agárversenyzést Felügyelő Bizottság és a versenyzsűri (versenyintézőség) tagjai, valamint
+e) az a)–d) pontokban meghatározott személyek közeli hozzátartozói.
+(2) A lóversenyfogadás akkor tekinthető érvényesen megkötöttnek, ha a fogadó megjelöli az általa kívánt fogadási
+formát és az általa kiválasztott versenyzőket, a szervező rendelkezésére bocsátja a fogadásra szánt pénzösszeget, és
+ennek ellenében bizonylatot (fogadószelvényt) kap.
+(3) A szervező a játékosok részére kölcsönt (hitelt) nem nyújthat.
+55. §
+A totalizatőri rendszerű lóversenyfogadás esetén a szervező a jóváhagyott játéktervben szereplő fogadási formákat
+üzemeltetheti.
+56. § (1) Bukmékeri rendszerű lóversenyfogadásnál a szervezőnek joga van arra, hogy a versenyekre előzetesen
+nyereményszorzót állapítson meg.
+(2) Bukmékeri rendszerű lóversenyfogadásnál a szervező a totalizatőri rendszerű lóversenyfogadási formákat is
+alkalmazhatja.
+57. §
+A szervező kombinált lóversenyfogadási formákat is üzemeltethet, melyek esetében a totalizatőri és a bukmékeri
+rendszerű lóversenyfogadási formák egymással összefüggésben vannak.
+58. §
+A totalizatőri rendszerű lóversenyfogadás fogadási formáinak és a bukmékeri rendszerű lóversenyfogadás részletes
+szabályait a részvételi szabályzatok (totalizatőri és bukmékeri szabályzatok) tartalmazzák.
+35. Játékterv, részvételi szabályzat, költségvetés
+59. § (1) A játéktervnek tartalmaznia kell
+a) a totalizatőri rendszerű fogadás esetén
+ 1. az 53. § (2) bekezdésében foglaltakat,
+ 2. az 53. § (3) bekezdés a) és d)–g) pontjában foglaltakat,
+ 3. a tervezett fogadási ajánlatokat,
+ 4. az egységnyi fogadáshoz tartozó egységnyi tétet,
+ 5. az egységnyi fogadások legkisebb, illetve – szükség esetén – legnagyobb és valamennyi számát,
+amelyekre fogadás köthető,
+ 6. a fogadószelvény tartalmi elemeit és formáját,
+ 7. a fogadási ajánlat törlésének részletes szabályait,
+ 8. a tervezett fogadási ajánlatok nyereményalapjának képzési módját,
+ 9. a tervezett fogadási ajánlatok nyerőosztályait,
+10. a nyereményalap nyeremények céljára fordítandó részének képzési módját és ennek – szükség
+szerinti – felosztását az egyes nyerőosztályok között,
+11. szükség szerint az egyes fogadási ajánlatok nyereményalapja teljes egészének vagy bizonyos
+részének másik fogadási ajánlatok nyereményalapjához –, illetve ugyanazon fogadási ajánlatokon
+belül egy másik nyerőosztályra jutó nyereményhez – való csatolásának feltételeit és módját, ideértve
+az el nem nyert nyeremények halmozására nyitva álló időtartamot is,
+12. a nyerőosztályok nyereményének felosztási módját – nyerőosztályonként – a nyertessé vált
+fogadások között,
+13. az egyes nyertes fogadások nyereményeinek megállapítása során alkalmazott kerekítési
+szabályokat, továbbá az ezek alkalmazása következtében a nyereményekből megmaradó
+pénzeszközök felhasználási módját, illetve a szükségessé váló nyereménykiegészítések forrását,
+14. a nyereményigény érvényesítésének feltételeit, módját és idejét,
+15. az át nem vett nyeremények kezelésének és felhasználásának módját,
+
+16. a napi készpénz záró állomány havi szintű átlagának maximumát és az összeg megállapításának
+indokait, ha a számvitelről szóló törvényben meghatározott értékhatártól való eltérés
+a nyeremények kifizetése miatt szükséges,
+17. lóversenyfogadás esetén a fogadási formákat;
+b) bukmékeri rendszerű fogadás esetén
+1. a fogadási ajánlatok közzétételének módját,
+2. az alkalmazott nyereményszorzó megállapításának elveit, különös tekintettel az eseményenként
+lefogadható kimenetelek számára, a halmozott fogadás nyereményszorzóinak kiszámítására,
+valamint a nyereményszorzó változtatásának lehetőségére vagy kizárására, illetve annak kihatására
+a már megkötött fogadásokra,
+3. a fogadási ajánlat törlésének, illetve a tétek visszafizetésének rendjét,
+4. a fogadás megkötésének és nyilvántartásának módszerét,
+5. az a) pont 14., 15. és 16. alpontjában foglaltakat.
+(2) A részvételi szabályzatnak tartalmaznia kell
+a) a fogadásban való részvétel részletes szabályait,
+b) a nyeremények átvételének szabályait,
+c) az igényérvényesítés rendjét,
+d) a fogadás eredményének bizonyítási módját,
+e) a szervező és a játékos közötti megállapodás módját,
+f) a nyereményigazolás kiadásának feltételeit.
+(3) A költségvetésnek tartalmaznia kell
+a) a játékterv szerinti tervezett árbevételt, illetve nyereményalapot és bukmékeri fogadás esetén a tervezett
+tiszta játékbevételt;
+b) a tervezett költségeket az alábbiak szerinti bontásban:
+1. a fogadásszervezéssel kapcsolatos költségeket (fogadószelvények, technikai eszközök, bizonylatok
+stb.),
+2. a játékadó összegét,
+3. a játékosok számára kifizethető nyereményből levonásra kerülő személyi jövedelemadót,
+4. a játékosok számára – a személyi jövedelemadóval csökkentett – kifizethető nyeremény összegét;
+c) a vállalkozás tervezett bevételei és tervezett költségei számbavétele után a fogadás lebonyolításakor elérhető
+eredményt és a társasági adót.
+(4) A fogadószelvénynek tartalmaznia kell
+a) az azonosításra alkalmas jelzést, számot,
+b) a fogadás megkötésének időpontját,
+c) a fogadás tárgyát, a fogadással érintett esemény meghatározását,
+d) a fogadásban szereplő időben utolsó fogadási esemény várható időpontját,
+e) a megtett tét összegét és bukmékeri fogadás esetén a nyereményszorzót,
+f) a nyeremények kifizetésének helyét, idejét, a szervező nevét, székhelyét, valamint
+g) a fogadásban történő részvételre vonatkozó, az 1. § (4) bekezdése szerinti tilalmat.
+(5) A játékos számára a szervező internetes oldalán fogadási formánként megismerhetővé kell tenni a részvételi
+szabályzatot. Az értékesítőhelyen nyújtott fogadás esetében a játékos kérésére három munkanapon belül
+rendelkezésére kell bocsátani a teljes terjedelmű részvételi szabályzatot nyomtatott formában.
+36. Elszámolás, nyilvántartás
+60. § (1) A fogadás szervezője az Szjtv.-ben meghatározottak szerint időközi elszámolást vagy végelszámolást készít, amelyet
+a szerencsejáték-felügyeleti hatósághoz kell benyújtania. A fogadás szervezőjére a 11. § (1)–(2) és (5)–(6) bekezdését
+alkalmazni kell, azzal, hogy a sorsolásos játékon fogadást, sorsjegyen fogadószelvényt kell érteni.
+(2) Az időszaki és végelszámolásnak legalább a következő adatokat kell tartalmaznia:
+a) totalizatőri rendszerű fogadás esetén
+1. a fogadásra jogosított feltett tétek összegét,
+2. a visszafizetett téteket,
+3. a nyereményalapot,
+4. a játékadót és más jogszabályon alapuló befizetési kötelezettséget,
+
+5. a fogadóknak kifizetett nettó nyereményeket,
+6. a meg nem nyert és az át nem vett nyereményeket, különös tekintettel az ezekből képződő
+elkülönített alapok és a halmozódás egyenlegére;
+b) bukmékeri rendszerű fogadás esetén
+1. a fogadásra jogosított feltett téteket,
+2. az alkalmazott nyereményszorzókat,
+3. a fogadóknak kifizetett nettó nyereményeket és az egyes nyereményekhez tartozó téteket,
+4. a visszafizetett téteket,
+5. a tiszta játékbevételt,
+6. a tiszta játékbevétel után fizetendő játékadót,
+7. az át nem vett nyereményeket és az emiatt fizetendő játékadót.
+(3) Számítógépes rendszer alkalmazásával történő elszámolás esetén az alkalmazásra kerülő számítógépes programok
+és az ehhez kapcsolódó nyilvántartási rendszerek leírását meg kell küldeni a szerencsejáték-felügyeleti hatóságnak.
+(4) A totalizatőri rendszerű fogadások esetén a meg nem nyert és az át nem vett nyeremények elkülönített alapjaira,
+valamint a nyeremények halmozódására a 11. § (7)–(9) bekezdését megfelelően alkalmazni kell.
+VII. Fejezet
+Kártyatermek
+37. Engedélyezés
+61. § (1) A szerencsejáték-felügyeleti hatóság kártyaterem üzemeltetésére vonatkozó engedélyező határozatának
+mellékletét képezi a 7. melléklet szerinti tartalmi és formai elemeket tartalmazó működési engedély, amelyet
+a kártyaterem bejáratánál jól látható módon ki kell függeszteni. A kártyaterem működésének felfüggesztése vagy
+bármely okból történő megszűnése esetén a működési engedélyt a felfüggesztéstől vagy a megszűnés időpontjától
+számított nyolc napon belül a szerencsejáték-felügyeleti hatóság részére le kell adni.
+(2) A szerencsejáték-felügyeleti hatóság a kártyatermet az engedélykérelemben foglalt időtartamra, de legfeljebb
+15 évre engedélyezi.
+(3) Az Szjtv. 29/B. § (6) bekezdésében foglalt gyermek- és ifjúsági intézmény minden ifjúságpolitikai célból működtetett,
+illetve fenntartott intézmény.
+(4) Az Szjtv. 29/B. § (6) bekezdésében foglalt oktatási vagy nevelési intézmény
+a) az óvoda,
+b) az általános iskola,
+c) a szakiskola,
+d) a gimnázium, a szakközépiskola,
+e) az alapfokú művészetoktatási intézmény,
+f) a gyógypedagógiai, a konduktív pedagógiai nevelési-oktatási intézmény,
+g) a diákotthon és a kollégium.
+(5) Az Szjtv. 29/B. § (6) bekezdésében foglalt egyházi intézmény minden egyházi kezelésben, illetve üzemeltetésben
+lévő, vallásgyakorlás célját szolgáló létesítmény, kivéve a kizárólag műemléki célú egyházi építmények, illetve
+egyházi személyek lakhatását szolgáló épületek.
+(6) Az Szjtv. 29/B. § (6) bekezdésében foglalt egészségügyi intézmény a fekvőbeteg-szakellátást nyújtó egészségügyi
+szolgáltató.
+(7) Az Szjtv. 29/B. § (6) bekezdésében meghatározott 200 m-es körzeten a kártyaterem és az ifjúsági, gyermek-,
+oktatási vagy nevelési intézmény, ifjúsági klub, továbbá egyházi, egészségügyi intézmény, valamint játékkaszinó
+(a továbbiakban együtt: védett intézmény) közterületről nyíló bejárata közötti azon legrövidebb útvonalat kell
+érteni, amelyen a közúti közlekedés szabályairól szóló rendelet szabályait figyelembe véve közterületen gyalogosan
+a védett intézmény megközelíthető.
+(8) Ha a védett intézmény épületét kizárólag az annak használatára rendelt elkerített ingatlan (udvar) veszi körül,
+a 200 méter távolságot az ingatlant határoló kerítésen létesített azon bejárattól kell mérni, amelyet a védett
+intézmény látogatására jogosult valamennyi személy igénybe vehet. Ha a védett intézmény több bejárattal
+rendelkezik, akkor – a gazdasági bejárat figyelmen kívül hagyásával – az épület, illetve az elkerített ingatlan azon
+bejáratától kell a mérést elvégezni, amely a kártyaterem közvetlen bejáratához közelebb esik, és amelyet a védett
+
+intézmény látogatására jogosult valamennyi személy igénybe vehet. Ha a kártyaterem épületét kizárólag az annak
+használatára rendelt (elkerített) udvar veszi körül, a 200 méter távolságot a kártyateremnek helyet adó épület
+bejáratától kell mérni. Abban az esetben, ha a védett intézmény, illetve a kártyaterem többfunkciójú épületben
+működik, a 200 méter távolságot – e rendelkezésnek megfelelő módon – a kártyaterem, illetve a védett intézmény
+azon közvetlen bejáratától kell mérni, amelyet a védett intézmény, illetve a kártyaterem látogatására jogosult
+valamennyi személy igénybe vehet. Ha a védett intézménynek, illetve a kártyateremnek több bejárata van, akkor
+a kártyateremhez, illetve a védett intézményhez legközelebb eső bejáratot kell figyelembe venni a mérés során.
+38. A kártyaterem működtetésének személyi feltételei
+62. § (1) A szervező legalább egy teremvezetőt, egy pénztárost, valamint egy játékvezetőt köteles alkalmazni, akik (vagy
+helyetteseik) nyitvatartási időben folyamatosan kötelesek a kártyateremben rendelkezésre állni.
+(2) Kártyateremben a teremvezetőnek és legalább egy játékvezetőnek rendelkeznie kell kártyateremben vagy
+játékkaszinóban szerzett legalább egyéves szakmai gyakorlattal.
+(3) A kártyaterem tekintetében alkalmazni kell a 36. § (1)–(2) bekezdésében foglaltakat.
+39. A kártyaterem működtetésének tárgyi feltételei
+63. § (1) Kártyaterem kizárólag olyan épületben vagy helyiségben működhet, melynek kialakítása biztosítja, hogy a játék
+a közterületről, továbbá a kártyateremtől elkülönült más helyiségből ne legyen látható.
+(2) A kártyaterem videorendszerének meg kell felelnie a (3)–(6) bekezdésben foglaltaknak.
+(3) A videorendszerrel valamennyi, a kártyateremben folyó játéknak és a pénztárban folyó tevékenységnek, továbbá
+a kártyaasztalok nyitásának és zárásának, valamint az elszámolás folyamatának megfigyelhetőnek kell lennie.
+A kamerákat úgy kell beállítani, típusukat úgy kell kiválasztani, hogy a tétek (zsetonok színei és olvashatósága),
+a játékeszközök és kiegészítő játékeszközök (kártya stb.), valamint a játék menete a képernyőn egyaránt jól látható
+és követhető legyen. A képpel együtt a hangot is továbbítani kell.
+(4) Olyan kamerákat is el kell helyezni, amelyekkel a rendkívüli események (pl. rendbontás), valamint az alkalmazott
+biztonsági intézkedések megfigyelhetősége az egész játéktérben és valamennyi játékhelyen áttekinthető.
+(5) Kamerákkal ellenőrizhetővé kell tenni a kártyaterem látogatóinak belépését és a személyazonosítás folyamatát.
+(6) Valamennyi kamerának alkalmasnak kell lennie arra, hogy a közvetített kép másodperc részletezettséggel és
+pontossággal tartalmazza a dátumot, az időpontot, továbbá elhelyezésének megfelelően a megtett téteket,
+a készpénz és a borravaló átvételét úgy, hogy a játékeszközökön történt események mindvégig láthatóak legyenek.
+(7) A kártyatermekre alkalmazni kell a 37. § (4) és (7) bekezdésében foglaltakat.
+40. A kártyaterem működtetésének egyéb feltételei
+64. § (1) A kártyateremben játék kizárólag zsetonnal folytatható. Zseton kizárólag forintért váltható.
+(2) A szervező belépődíjat nem állapíthat meg a látogatók részére.
+(3) A kártyaterembe nem léphet be a 40. § (1) bekezdés a)–b) és d) pontja szerinti személy.
+(4) A kártyaterem tekintetében alkalmazni kell a 39. § (1)–(2) bekezdését, 41. és 43. §-át, azzal, hogy játékkaszinón
+kártyatermet kell érteni.
+41. Tiszta játékbevétel
+65. § (1) A szervező a tiszta játékbevételt készpénzes lebonyolítás esetén minden játék után, legkésőbb a következő játék
+megkezdéséig köteles a kártyaasztalban kizárólag erre a célra fenntartott tartóban elhelyezni.
+(2) A tartókat olyan biztonsági zárrendszerrel kell ellátni, amely biztosítja, hogy azokat csak ellenőrzött módon lehessen
+kinyitni. A tartók kinyitására a játékidő végén a pénztáros, a kártyaterem vezetője vagy helyettese, valamint
+az érintett asztal játékvezetőjének jelenlétében kerülhet sor.
+42. Borravalók
+66. § (1) Kártyateremben borravaló elfogadása kizárólag a kártyaasztalnál és a pénztárnál történhet.
+(2) A kártyaterem egyetlen alkalmazottja sem kérhet borravalót, vagy tanúsíthat erre utaló magatartást.
+
+(3) A kártyaasztalnál kizárólag zsetonként, a pénztárnál készpénzként és zsetonként fogadható el a borravaló.
+(4) A kártyaasztalnál adott borravalót a borravalótartó mellett fel kell fektetni úgy, hogy az a videokamera által is
+ellenőrizhető legyen, majd haladéktalanul a borravalótartókba kell helyezni.
+(5) A borravalótartók biztonságos kezelésére a 65. § (2) bekezdésének szabályait kell alkalmazni.
+43. A játékokban való részvételhez kapcsolódó közös rendelkezések
+67. § (1) Tétek megtételére zsetonon kívül más eszköz (pl. pénz, egyéb értéktárgy) nem alkalmazható. Zseton csak
+a pénztárban vásárolható.
+(2) A nevezési díj több részletben történő teljesítésének minősül a további zsetonvásárlás lehetősége (rebuy, add on).
+A nevezési díj ez esetben sem haladhatja meg az Szjtv.-ben meghatározott összeget.
+(3) A kártyaterem tekintetében alkalmazni kell a 46. § (1)–(3) és (5)–(6) bekezdését, azzal, hogy játékkaszinón
+kártyatermet kell érteni.
+44. Egyes játékeszközökre vonatkozó különös rendelkezések
+68. § (1) A kártyajáték tekintetében játékeszköznek minősül a mérésügyi szerv által szerencsejáték céljára a mérésügyi
+jogszabályok alapján hitelesített és egyedi azonosításra alkalmas jelzéssel ellátott, a szerencsejáték nyerési esélyeit
+befolyásoló eszköz (pl. kártyakeverő), valamint a kártyaasztal.
+(2) Egy kártyaasztalon egyidejűleg csak egy játékfajta és ugyanazon játékszabállyal játszható, továbbá játék egyidejűleg
+csak egy minimum és maximum téttel folyhat.
+45. Egyes kiegészítő játékeszközre vonatkozó különös rendelkezések
+69. § (1) A kártyajáték tekintetében kiegészítő játékeszköznek minősül minden, a kártyateremben alkalmazott – az 1. §
+(1) bekezdésében nem szereplő – játékeszköz (pl. kártya, zseton).
+(2) A kártyateremben kizárólag a játék biztonságos lebonyolítását garantáló kiegészítő játékeszközöket lehet
+alkalmazni.
+(3) Eltérő zsetonokat kell alkalmazni a készpénzes és verseny rendszerű lebonyolítás esetén.
+(4) A szervező az ellenőrök felszólítására bármely, a nyilvántartásában lévő kártyát köteles helyszíni vagy további
+ellenőrzés céljából átadni.
+(5) Kártyaterem tekintetében alkalmazni kell a 48. § (1) és (3)–(5) bekezdését.
+46. Játékterv és részvételi szabályzat
+70. § (1) A játéktervben rögzíteni kell különösen:
+a) a tervezett pókerjátékfajták és -típusok megnevezését, játékszabályait, valamint játékonként a minimális és
+maximális tét nagyságát, továbbá a nyeremény és a szervezői jutalék kiszámításának módját,
+b) a kártyaasztalok darabszámát, valamint
+c) az 50. § (1) bekezdés c)–i) pontjában foglaltakat, azzal, hogy játékkaszinón kártyatermet kell érteni.
+(2) A részvételi szabályzatban rögzíteni kell különösen:
+a) részletes tájékoztatást az Szjtv. 29/B. § (7)–(8) bekezdésében foglaltakról,
+b) a kártyaterem által használt értékzsetonok leírását, a zsetonok kezelésének rendjét és
+c) az 50. § (2) bekezdés a)–b), d)–e), g)–h), j)–k) és m)–p) pontjában foglaltakat, azzal, hogy játékkaszinón
+kártyatermet kell érteni.
+(3) A szervező a mérésügyi szerv által kiállított hitelesítési bizonyítvány eredeti példányát köteles a kártyateremben
+tartani.
+(4) A kártyaterem köteles a részvételi szabályzat változásait a módosítással egyidejűleg a szerencsejáték-felügyeleti
+hatósághoz benyújtani.
+(5) A kártyaterem a kártyajátékok szabályait tartalmazó – a részvételi szabályzat mellékletét képező – ismertetőt
+a kártyaasztalok közelében jól látható módon köteles elhelyezni. A kártyaasztalokon elhelyezett táblán kell
+feltüntetni továbbá az aktuális játék főbb jellemzőit (különösen a fajtát és típust, minimális és maximális téteket,
+nyereményfelosztás rendjét).
+
+47. Elszámolás, nyilvántartás, adatszolgáltatás
+71. § (1) A szervezőnek a játékbevételekről folyamatos elszámolást kell készíteni. Az elszámolásokat a szervező köteles
+a szerencsejáték-felügyeleti hatóság által rendszeresített bizonylatokon teljesíteni. A szervező a bizonylatok kitöltésére
+és kezelésére vonatkozó, a (2)–(4) bekezdésben, továbbá a 8–13. mellékletben foglalt előírásokat köteles betartani.
+(2) Az elszámolást kártyaasztalonként, verseny rendszerű lebonyolítás esetén versenyenként kell elvégezni és
+bizonylatolni. Részletesen szabályozni kell az asztalnyitás és az asztalzárás rendjét.
+(3) A kártyateremben folyó szerencsejáték-szervező tevékenység meg- vagy újrakezdésekor, megszűnésekor, továbbá
+a naptári év végén a szervező köteles nyitó- és záró zsetonleltárt készíteni. A szervező köteles a leltár időpontjáról
+tíz nappal előtte a szerencsejáték-felügyeleti hatóságot értesíteni, továbbá a leltári ív egy példányát a leltárfelvételt
+követő nyolc napon belül megküldeni. A leltárívnek a következő adatokat kell tartalmaznia:
+a) a leltárfelvétel idejét, helyét,
+b) a zsetonok címletenkénti darabszámát,
+c) a zsetonok értékét, továbbá
+d) a pénztáros és teremvezető aláírását.
+(4) A szervező köteles betartani a játékkal összefüggő, pénzmozgással járó műveletekkel kapcsolatos, mellékletként
+benyújtott bizonylatok vezetésére, kitöltésére és megküldésére vonatkozó következő előírásokat:
+a) a bizonylatokat szigorú számadás alá kell vonni,
+b) a szervezőnek gondoskodnia kell a bizonylatok biztonságos tárolásáról és a bizonylattömbök nyilvántartásáról,
+c) a bizonylatokat úgy kell tárolni, hogy a kártyaterem nyitvatartási ideje alatt a szerencsejáték-felügyeleti
+hatóság ellenőrei azokat megtekinthessék,
+d) a bizonylatokat a rögzítendő eseményekkel egyidejűleg kell kitölteni, e tekintetben a bizonylat dátuma
+az adott játéknap,
+e) hiba esetén a bizonylatot érvényteleníteni kell, és új bizonylatot kell kiállítani,
+f) a bizonylattömbben kihagyott, fel nem használt lapokat áthúzással érvényteleníteni kell,
+g) a bizonylat érvénytelenítésének okáról minden esetben jegyzőkönyvet kell felvenni, és azt a rontott
+bizonylattal együtt a kialakított elszámolási bizonylatok beküldési rendje szerint kell megküldeni
+a szerencsejáték-felügyeleti hatósághoz,
+h) a bizonylatok első példányát ellenőrzés után, bizonylattípusonként, emelkedő sorszám szerint kell
+összeállítani és kísérő jegyzékkel ellátni,
+i) az elszámolási bizonylatok első példányát havonta kétszer, legkésőbb a hónap tizenötödik, valamint
+adatszolgáltatással együtt a hónap utolsó napját követő ötödik munkanapig kell benyújtani a szerencsejáték-
+felügyeleti hatósághoz.
+(5) A (4) bekezdés i) pontja szerinti adatszolgáltatásnak tartalmaznia kell a látogatók naponkénti létszámát, valamint
+a kártyaterem havi tiszta játékbevételét, játékadóalapját és játékadó-fizetési kötelezettségét.
+(6) A szervező köteles a rendkívüli eseményekről a szerencsejáték-felügyeleti hatóságot haladéktalanul
+telekommunikációs eszköz útján tájékoztatni, egyúttal az eseményeket és az alkalmazott intézkedéseket tartalmazó
+okiratokat a videofelvételek megőrzésére vonatkozóan meghatározott ideig megőrizni.
+(7) A szervező az elszámolás alátámasztására auditált számítógépes elszámolási rendszert üzemeltethet. A szervező
+nem köteles az elszámolást a szerencsejáték-felügyeleti hatóság által rendszeresített bizonylatokon teljesíteni, ha
+az elszámolás alátámasztására auditált számítógépes elszámolási rendszert üzemeltet.
+VIII. Fejezet
+Bejelentésköteles játékok és játékautomaták
+72. § (1) A szerencsejáték-felügyeleti hatóság a játékautomata nyilvántartásba vételéről a 6. melléklet szerinti tartalmi és
+formai elemeket tartalmazó nyilvántartásbavételi igazolást állít ki a kérelmező részére.
+(2) A nyilvántartásbavételi igazolást a játékautomata üzemeltetője köteles a játékautomatán jól látható helyre
+felragasztani. Nyilvántartásbavételi igazolás nélkül a játékautomata nem üzemeltethető, illetve nem helyezhető el
+közterületen, vagy a közönség számára nyitva álló épületben vagy helyiségben.
+(3) Az Szjtv. szerinti hitelesítési bizonyítványra és a játékautomata típusvizsgálatára, valamint hitelesítésére a 3. §
+(2)–(3) bekezdését, (4) bekezdés c) pontját, valamint a 4. § (1) és (3) bekezdését és az 1. melléklet III. fejezetét,
+továbbá az Szjtv. 1/B. § (2)–(4) bekezdését alkalmazni kell.
+
+(4) A mérésügyi szerv hitelesíti vagy újrahitelesíti azt a játékautomatát, amely
+a) olyan, a befizetett készpénz vagy érmehelyettesítő eszköz összegét nem törölhető módon tároló
+elektromechanikus vagy mechanikus számlálóval rendelkezik, amely a befizetett készpénz vagy
+érmehelyettesítő eszköz összegét nem törölhető módon tárolja, valamint
+b) típusvizsgálata megtörtént, és érvényes hitelesítési engedéllyel rendelkezik.
+(5) A hitelesítési vizsgálat eredménye alapján kiállított hitelesítési bizonyítvány tartalmazza
+a) a hitelesítést kérelmező megnevezését,
+b) a játékautomata gyártási számát,
+c) a játékautomata gyártási időpontját,
+d) a játékautomata gyártójának megnevezését,
+e) a játékautomata megnevezésére vagy azonosítására alkalmas jelzését,
+f) a játékautomatával játszható játék nevét,
+g) a játékautomata üzemeltetésére vonatkozó adatokat,
+h) a játékautomata mechanikus vagy elektromechanikus számlálóinak hitelesítésükkor leolvasott állását,
+i) a játékautomata játékhelyeinek számát,
+j) a függőhuzalos biztosítások darabszámát és
+k) a játékautomata hitelesítési vizsgálatának összegzését.
+(6) A mérésügyi szerv a hitelesítési kártyán a hitelesítési bizonyítvány adatai közül megjelöli
+a) a játékautomata mérésügyi szerv által adott azonosító számát,
+b) a játékautomata típusát,
+c) a játékautomata gyártási évét,
+d) a játékautomata gyártási számát,
+e) a játékautomatával játszható játék nevét,
+f) a játékhelyek számát,
+g) egy számlálólépés forintértékét,
+h) a levonóképes bélyegek sorszámát,
+i) a hitelesítési bizonyítvány érvényességi idejét,
+j) a játékjog szerzésének módját és
+k) a tanúsító jelek számát.
+(7) A szervező az általa üzemeltetett, közterületen vagy a közönség számára nyitva álló épületben vagy helyiségben
+meghibásodott, üzemképtelen játékautomatát 3 munkanapon belül köteles megjavíttatni, vagy gondoskodnia kell
+annak közterületről vagy a közönség számára nyitva álló épületből vagy helyiségből történő elszállításáról.
+IX. Fejezet
+A szerencsejáték szervezéssel összefüggő igazgatási-szolgáltatási díjakról
+73. § (1) Az igazgatási-szolgáltatási díj megfizetését fizetési számlára történő készpénzbefizetés esetén a befizetés tényét
+igazoló szelvény másolatával, átutalási megbízás esetén a pénzforgalmi szolgáltató által kiállított, az átutalás
+megindításának megtörténtét tanúsító igazolás (számlakivonat) másolatával kell igazolni. Az igazoláskor a szervező
+köteles a szerencsejáték-felügyeleti hatóságnak bemutatni a készpénzbefizetés tényét igazoló szelvény eredeti
+példányát, valamint az átutalás megindításának megtörténtét tanúsító eredeti igazolást (számlakivonatot).
+(2) Az Szjtv. 35/A. § (3) bekezdésében foglalt igazgatási-szolgáltatási díjat kérelmenként külön-külön kell fizetési
+számlára történő készpénzbefizetés vagy átutalás útján megfizetni.
+74. §
+A szerencsejáték-felügyeleti díj megfizetésekor a fizetési számlára történő készpénzbefizetés esetén a befizetés
+tényét igazoló szelvény vagy az átutalási megbízás esetén a pénzforgalmi szolgáltató által kiállított, az átutalás
+megindításának megtörténtét tanúsító igazolás (számlakivonat) közlemény rovatában fel kell tüntetni
+az érintett elszámolási időszakot, a szervező szerencsejáték-felügyeleti azonosítóját, ajándéksorsolás esetén
+a formanyomtatvány benyújtásáról a szerencsejáték-felügyeleti hatóság által rendelkezésre bocsátott iktatószámot.
+75. §
+A szerencsejáték-felügyeleti hatóság a szerencsejáték felügyeleti díjat szervezőnként és elszámolási időszakonként
+tartja nyilván.
+
+X. Fejezet
+Értelmező rendelkezések
+76. §
+E rendelet alkalmazásában
+1. kaparós sorsjegy: az a sorsjegy, amelynek a nyerésre jogosító jelzései olyan különlegesen biztonságos fedési
+módszerrel vannak letakarva, amelyek különleges eljárásokkal fedhetők fel;
+2. sorozat: a kaparós sorsjegy vonatkozásában az a – megkülönböztető jelzéssel ellátott – legkisebb
+sorsjegymennyiség, amely biztosítja, hogy a nyertes sorsjegyek mennyiségének és az általuk nyerhető
+nyeremények összértékének aránya megegyezik az engedélyezett sorsjegyek darabszámának megfelelően
+biztosítandó nyertes sorsjegyek darabszámának és az általuk nyerhető nyeremények összértékének
+arányával;
+3. halmozott fogadás: több fogadási ajánlatra megköthető, egyetlen fogadás, amely csak akkor válik nyertessé,
+ha valamennyi ebben szereplő fogadás nyertes fogadássá vált;
+4. kombinált fogadás: több fogadási ajánlatra megköthető, egyetlen fogadás, amely akkor is nyertessé válik, ha
+az ebben szereplő fogadási ajánlatok közül egyesek nyertessé válnak. A kombinált fogadás annyi megkötött
+fogadásnak minősül, ahány fogadást a fogadónak annak érdekében kellene megtennie, hogy a teljes
+kombináció minden egyes elemére érvényes fogadással rendelkezzen;
+5. közös játékosi egyenleg: többfajta szerencsejáték szervezésére engedéllyel rendelkező szervező által vezetett,
+a játékos részére többfajta szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek
+elszámolása és nyilvántartása céljából vezetett játékosi egyenleg;
+6. nyilvános húzás: az Szjtv. 23. § (1) bekezdése alkalmazásában nyilvános húzás az a sorsolási esemény,
+amelynek helyszínét és időpontját az akció lebonyolítója előzetesen olyan módon hozza nyilvánosságra,
+hogy a termékvásárlás, illetve szolgáltatás igénybevétele folytán részt vevő játékosok azon részt tudjanak
+venni, és az akció keretében kapott sorsjegyek kihúzását a helyszínen lévő közjegyző tanúsítja;
+7. pénznyeremény: az Szjtv. 23. § (2) bekezdése tekintetében a forgalomban lévő bankjegy és pénzérme;
+8. játéknap: a játékkaszinó-egység nyitásától a zárásig terjedő, a naptári naptól eltérően meghatározott időszak;
+9. drop: a kaszinóban készpénzért vagy készpénzzsetonért vásárolt értékzsetonok értékeinek összege;
+10. játékasztal: az a különböző kártya-, kocka- és rulett-típusú játékok lebonyolítására alkalmas játékeszköz, ahol
+a játék menetét a kaszinó személyzete irányítja. Két asztalnak minősül a dupla (pillangós) rulett, továbbá
+fordítós asztal. Az asztal részét képezi az asztalhoz közvetlenül kapcsolódó játékhelybővítő rendszer (touch
+bet rulett);
+11. teremjáték: játékasztal és pénznyerő automata üzemelésének nem minősülő kaszinójáték;
+12. alapdotáció: a játékkaszinó zsetonpénztára által az egyes játékasztalok kinyitásához biztosított
+zsetonállomány címletek, darabszám és érték szerinti meghatározása;
+13. próbajáték: a helyszíni ellenőrzés azon formája, amelynek keretében a szerencsejáték-felügyeleti hatóság
+jogszabályban előírt feladatainak ellátása érdekében vesz részt a szerencsejátékban, továbbá a mérésügyi
+szerv által a hitelesítési engedélyezés során lefolytatott vizsgálat és a pénznyerő automata szervizelése,
+javítása során a mérésügyi szerv jelenlétében lefolytatott vizsgálat;
+14. hiteles naplózás: távszerencsejáték és az online kaszinójáték szervezése esetén az adatok olyan rögzítése,
+amely alapján minden kétséget kizáróan megállapítható annak előállítója, az előállító és az adat közötti
+kapcsolat, és az a tény, hogy az adat az előállítás óta változatlan maradt;
+15. zseton: értékzseton, színzseton, valamint az elektronikus zseton (ticket).
+16. auditálási okirat: megfelelőségértékelésre jogosult személy által készített, teljes bizonyító erejű magánokirati
+formában kiállított tanúsítvány, amelynek tartalmáért a kiállítója szakmai és anyagi felelősséget vállal,
+és amely tartalmazza, hogy a kiállítója által, előre meghatározott módszertan alapján végzett vizsgálat
+és értékelés szerint a szerencsejáték-szervező által a szerencsejáték-szervezéshez alkalmazni kívánt
+műszaki-informatikai rendszer vagy műszaki megoldás, és azok működésének szabályozása mennyiben
+biztosítja a szerencsejáték biztonságos és szakszerű lebonyolításához szükséges feltételeket, továbbá
+amelynek mellékletét képezik a vonatkozó jogszabályi és szakmai követelményeknek való megfelelőségről
+készített jelentések, a vizsgálatot igazoló informatikai tesztelési dokumentumok, az informatikai rendszer
+rendszerdokumentációja és felhasználói leírása, a vizsgálat során felhasznált hitelesítési, vagy más szervezet
+által kiállított auditálási okiratok, amelyek alapján az auditálási okirat készült.
+
+XI. Fejezet
+Záró rendelkezések
+77. §
+Ez a rendelet 2021. november 1-jén lép hatályba.
+78. § (1) Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok
+végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 12/2021. (VII. 30.) NVTNM rendelet
+hatálybalépését megelőzően már engedélyezett sorsjegysorozat tekintetében a szerencsejáték-felügyeleti
+hatóság a játékterv-módosítás jóváhagyásával engedélyezheti, hogy a szervező a nyeremény kifizetés helyét
+és idejét a részvételi szabályzatban a sorsjegyen feltüntetett tájékoztatástól eltérően szabályozza, ha egyes
+értékesítőhelyeken a nyeremény kifizetése kizárt vagy nem biztosított. A játékosok nyeremény-kifizetéssel
+kapcsolatos megfelelő tájékoztatása ezeken a sorsjegyértékesítő-helyszíneken a sorsjegy értékesítése során jól
+látható hirdetményben és a szerencsejáték-szervező honlapján elérhető részvételi szabályzatban is kötelező.
+(2) Az (1) bekezdés szerinti játékterv-módosítás iránti kérelem elbírálása során a 13. § (8) és (9) bekezdésében foglaltak
+is alkalmazandóak.
+ Dr. Biró Marcell s. k.,
+ elnök
+1. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+A pénznyerő automata és a játékautomata típus- és hitelesítési vizsgálatának és a pénznyerő automata
+mérésügyi szerv általi kiolvasásának szempontjai
+I. A pénznyerő automata típusvizsgálata esetén:
+1. Azonosítás:
+a) a pénznyerő automata megnevezése,
+b) a gyártó megnevezése, telephelye, azonosító adatai,
+c) gyártási év, hó, nap,
+d) gyártási szám,
+e) kezelési utasítás,
+f) az automata műszaki leírása.
+2. Üzemképesség ellenőrzése:
+A pénznyerő automata rendeltetésszerű működésének ellenőrzése a kezelési útmutató és a működési leírás
+alapján.
+3. Nyerési százalék (kifizetési hányad) meghatározása (I. kategóriába sorolt pénznyerő automatánál):
+a) a gyártó által közölt játékstatisztikai adatok elemzése és ellenőrzése,
+b) a nyerési százalék beállíthatósága és annak korlátozásai,
+c) a nyerési százalék ellenőrzése próbajáték (úgynevezett vakjáték) alapján.
+4. A pénznyerő automata típusvizsgálatánál – a gyártó által biztosított berendezéssel – a játékprogram
+vizsgálata.
+5. Könyvelési mechanizmusok vizsgálata:
+a) az elektromechanikus számlálók vizsgálata,
+b) a könyvelési elektronika üzemszerű ellenőrzése,
+c) a beépített akkumulátorok és a tárolt program vizsgálata,
+d) a számlálók manipulálhatóságának vizsgálata.
+6. Az érmeazonosító szerkezet és a kifizető egység ellenőrzése:
+a) az elfogadható érmetípusok,
+b) a pénzosztályozás módja,
+c) a kifizető egység működőképességének ellenőrzése,
+d) a bedobott érmék és az elektromechanikus számlálók együttfutásának ellenőrzése.
+
+7. Kezelő és kijelző egységek, a játékos informálása:
+a) nyomógombok, kapcsolók vizsgálata,
+b) feliratok vizsgálata,
+c) a pénznyerő automata kezelésére vonatkozó információk,
+d) esztétikai vizsgálatok.
+8. A hitelesítés tanúsíthatóságának vizsgálata:
+A pénznyerő automatán elhelyezhető tanúsító jelek (a pénznyerő automatán folytatott játékot befolyásoló
+szerkezeti elemen elhelyezett tanúsító jel, mint az öntapadó matrica, plomba, egyéb) más tanúsító jelek
+megbontása nélküli ellenőrizhetőségének biztosítása.
+9. Egyéb részegységek (adatgyűjtő, jackpot vezérlőegység stb.) típusvizsgálata:
+a) a részegység működésének vizsgálata,
+b) a pénznyerő automata működésére gyakorolt hatás vizsgálata.
+10. Vezérlőegység (a játékprogramot tartalmazó elektronikai egység) vizsgálata:
+a) manipulálhatóság elleni védelem (pl. csatlakozófelületek, lezárhatóság),
+b) program(ok) megfelelő ellenőrizhetősége, programhordozó(k) írásvédettsége,
+c) a vezérlőegység nyomtatott áramköri lapjában (a továbbiakban: alaplap) az átkötések nem
+megengedhetőek, ezek vizsgálata.
+II. A pénznyerő automata hitelesítése esetén:
+1. A pénznyerő automata engedélyezett típusával való azonosság ellenőrzése.
+2. Üzemképesség ellenőrzése.
+3. A játékprogramot tartalmazó elektronikus egység (pl. EPROM) ellenőrzése.
+4. Könyvelési mechanizmusok ellenőrzése.
+5. Az érmeazonosító szerkezet és a kifizető egység ellenőrzése.
+6. Kezelő és kijelző egységek a játékos informálása.
+7. A részegységek típusazonossága és megfelelősége.
+8. A vezérlőegység alaplapján az átkötési tilalom ellenőrzése.
+III. A játékautomata típusvizsgálata és hitelesítése
+A típusvizsgálat a készülék energiaellátásához kapcsolódó és a biztonságtechnikai vizsgálatokra, az üzemképesség
+ellenőrzésére és a játékprogramot tartalmazó vezérlőegység ellenőrzésére terjed ki. A hitelesítés az automata
+engedélyezett típusával való azonosság ellenőrzésére terjed ki.
+2. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+A távszerencsejáték és az online kaszinójáték szervezés részletes műszaki-informatikai feltételei
+A) Általános és biztonsági követelmények
+1. A szervezőnek az általános és biztonsági követelmények körében az alábbi szabályzatokkal és
+dokumentációval kell rendelkeznie:
+a) a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszerre vonatkozó teljes
+körű – minden egyes elemre kiterjedő – rendszerleírással, üzemeltetési dokumentációval, valamint
+informatikai biztonsági szabályzattal és kapcsolódó szabályozásokkal,
+b) üzletmenet-folytonossági és katasztrófaelhárítási tervvel,
+c) üzleti szabályzattal, amelyben meg kell határozni műszaki-informatikai rendszer, illetve egyes
+elemei működéséért felelős adatgazda, adatfeldolgozó, üzemeltető személyét, továbbá
+a távszerencsejátékban és az online kaszinójátékban résztvevők jogait és kötelezettségeit, valamint
+az adatkezelés, adattovábbítás és adatszolgáltatás eljárásrendjét,
+d) a távszerencsejáték és az online kaszinójáték részletes specifikációjával és teljes körű
+dokumentációjával az engedélyezett valamennyi játéktípusra vonatkozóan,
+e) a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszerhez való helyszíni és
+távoli hozzáféréssel kapcsolatosan a hozzáférésre jogosult személyekről vezetett nyilvántartással,
+
+f) változáskezelési szabályzattal,
+g) mentési eljárásrenddel.
+2. A szervezőnek rendelkeznie kell a távszerencsejáték és az online kaszinójáték műszaki-informatikai
+rendszerben tárolt adatokról olyan biztonsági másolattal, amely nem várt esemény esetén lehetővé teszi
+az adatok teljes körű helyreállítását. A biztonsági mentést automatikusan, naponta legalább egyszer el kell
+végezni. A szervező köteles a biztonsági másolattal kapcsolatos olyan módszert kialakítani, mely a biztonsági
+másolat utólagos észrevehetetlen módosításának lehetőségét kizárja.
+3. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszerhez és a biztonsági másolatokhoz
+való hozzáférésről készített nyilvántartást hat évig meg kell őrizni.
+4. A szervezőnek a rendkívüli helyzetekben folyamatos üzemelést biztosító tartalékberendezésekkel kell
+rendelkezni.
+5. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszert úgy kell kialakítani, hogy
+a kezelt adatokhoz kapcsolódó valamennyi folyamat során az adatok biztonsága, illetéktelen beavatkozással
+szembeni védelme, sértetlensége, teljessége és tárolása biztosítva legyen. A rendszernek alkalmasnak kell
+lennie arra, hogy hiba esetén megvédje a kapcsolódó adatok integritását.
+6. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszerben kezelt adatok tárolására
+olyan rendszert kell kialakítani – különösen biztonsági napló, illetve rendszer adatbázis alkalmazásával –
+amely egyértelmű információt szolgáltat az események, valamint azok rögzítésének pontos dátumáról és
+időpontjáról olyan módon, hogy az események, illetve azok rögzítésének időrendi sorrendje meghatározható
+legyen.
+7. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek biztosítania kell a naplók
+biztonságos, adatvesztés nélküli archiválását. Az archiválás során ki kell zárni az utólagos módosítás
+lehetőségét.
+8. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer részét képező távszerencsejáték
+és az online kaszinójáték tervezésére, beszerzésére, megvalósítására (fejlesztésére, testre szabására,
+paraméterezésére, telepítésére) és felülvizsgálatára kiterjedő minőségirányítási- és biztonságirányítási
+rendszerrel kell alátámasztani az eljárási és biztonsági követelmények teljesülését.
+9. A szervező köteles a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer megfelelő és
+biztonságos működése érdekében belső ellenőrzési rendszert kialakítani (különösen CobIT, ISO/IEC 13335,
+ISO 27001). A belső ellenőrzési rendszernek különösen az alábbiakat kell tartalmaznia:
+a) a szervező, annak vezetői és az arra kijelölt alkalmazottai által végzett ellenőrzések menetét,
+b) a szúrópróbaszerű belső ellenőrzések kialakításának rendszerét,
+c) a belső ellenőrzések dokumentálásának módját,
+d) a belső ellenőrzés során észlelt hibák, esetleges jogsértések kezelését, jegyzőkönyvbe vételét,
+valamint azonnali jelentését a szerencsejáték-felügyeleti hatóság részére,
+e) az alkalmazottak megfelelő képzési, oktatási rendszerét.
+10. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek biztosítania kell, hogy
+a) a rendszerben kezelt adatotokat csak az arra jogosultak és csak a jogosultságuk szerint ismerhessék
+meg,
+b) a rendszerben kezelt adatok tartalma és tulajdonságai a jogszabályban foglaltaknak és az audit
+során dokumentált tartalomnak és tulajdonságoknak megfeleljenek,
+c) a biztonságos, sérthetetlen és titkos kommunikáció előírása a játékos által használt informatikai
+rendszer és a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer
+közötti, illetve a biztonsági másolat és a távszerencsejáték vagy az online kaszinójáték műszaki-
+informatikai rendszer közötti kommunikációra, valamint a küldő és a fogadó hitelesítő algoritmusok
+használatával küldött információkra is érvényesüljön.
+11. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek alkalmasnak kell lennie
+a rendszer működése szempontjából meghatározó folyamatok valamennyi kritikus eseményének hiteles
+naplózására, és biztosítania kell az illetéktelen módosításokkal, hálózatalapú támadásokkal (különösen
+vírusok, programférgek, betörési kísérletek) szembeni védelmet.
+
+B) A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer egyes elemeire vonatkozó
+követelmények
+1. Az Szjtv. 37. § 28. pontja szerinti, Magyarország területén található szervert korlátozott hozzáférésű,
+biztonságos területen kell elhelyezni (a továbbiakban: szerverterem) és a szerver kialakítása során 24 órás
+épületfelügyeleti rendszert kell biztosítani.
+2. Az Szjtv. 37. § 28. pontja szerinti szerver (a továbbiakban: szerver) kialakítása során szünetmentes
+tápellátást, működésfolytonosságot, rendelkezésre állást biztosító, és az illetéktelen személyek hozzáférését
+megakadályozó felépítést kell kialakítani.
+3. A szerverterembe kizárólag az engedélyezés során előzetesen írásban bejelentett személyek léphetnek be.
+A belépésről nyilvántartást kell vezetni, amely tartalmazza a belépő személyazonosító adatait, a belépés és
+távozás idejét és a belépés célját.
+4. A szerencsejáték-felügyeleti hatóság ellenőrzés céljából a szerverterembe felügyelettel és naplózott módon
+bármikor beléphet, a szerver működtetőjének biztosítania kell, hogy a szerver és a szerverterem ellenőrzése
+bármikor akadálymentesen megtörténhessen a géptermi beléptetés szabályainak megfelelően.
+5. A szervert tartalék szerverrel kell ellátni, amely a szerver szoftver, vagy hardveregységeinek meghibásodása
+esetén azonnal rendelkezésre áll és automatikusan, adatvesztés nélkül folytatja a szerver működését.
+A szerverre alkalmazandó előírások a tartalék szerverre is megfelelően irányadóak.
+6. A szervert úgy kell kialakítani, hogy az hiba esetén megvédje a kapcsolódó adatok integritását. Az ellenőrzési
+naplókat, a rendszer adatbázisokat és minden más kapcsolódó adatot védett módon, a rendszer biztonságára
+vagy felhasználóira illetéktelen beavatkozás esetén kockázatot jelentő adatokat – különösen a felhasználói
+jelszót – titkosítva kell tárolni. A biztonsági mentést legalább naponta egyszer automatikusan el kell végezni.
+7. A szerver különösen az alábbi tételeket naplózza, vagy naprakész adatokkal dokumentálja:
+a) a kezdeti beállításokat és a változásokat,
+b) a távszerencsejáték műszaki-informatikai rendszer működésével kapcsolatos, rendszerszintű
+eseményeket (különösen: archiválások, mentések, rendszer szintű frissítések, játék szintű frissítések),
+c) a lejátszott játékokkal kapcsolatos összes lényeges információt, ideértve a befizetéseket, tét és
+nyeremény adatokat, bónusz játékokat, a nyerőkombinációt, a nyeremény-kifizetést, pénzügyi
+tranzakciókat,
+d) a küldő és a cél állomás egyedi azonosíthatóságához szükséges adatokat (különösen IP címet,
+MAC címet, Port számát),
+e) az elvégzett lekérdezéseket, ellenőrzéseket, adatszolgáltatásokat,
+f) felhasználói belépéseket és kilépéseket,
+g) az összes sikeres és sikertelen kapcsolódási kísérletet és eseményt,
+h) távoli hozzáféréseket,
+i) biztonsági incidenseket,
+j) minden olyan eseményt, amely indokoltan azt jelzi, hogy a rendszer nem az elvárásoknak
+megfelelően működik (különösen memóriahiba, öndiagnosztikai probléma esetén).
+8. A tartalék szervernek a 7. pont b) és c) alpontjában felsorolt adatokat teljes körűen tartalmaznia kell.
+9. A naplónak tartalmaznia kell az esemény megnevezését, dátumát, idejét másodperc pontossággal és
+az eseményt egyértelműen azonosító minden egyéb információt. A naplóban minden egyes eseményt
+másodpercalapú hiteles digitális aláírással kell tárolni. A távszerencsejáték és az online kaszinójáték műszaki-
+informatikai rendszer működtetőjének biztosítania kell az ellenőrző hatóságok számára a naplókhoz történő
+hozzáférést.
+10. Az eredményként kapott naplók utólagos módosításának lehetőségét ki kell zárni. A távszerencsejáték és
+az online kaszinójáték műszaki-informatikai rendszernek biztosítania kell a naplók biztonságos, adatvesztés
+nélküli archiválását. Az archiválás során ki kell zárni az utólagos módosítás lehetőségét.
+11. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszerben helyi redundáns
+időszervernek kell működnie, amelynek két független szabványos időforráshoz kell szinkronizálnia.
+A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek a két független időforrás
+legalább egyikével internetkapcsolat nélkül is tudnia kell szinkronizálni. A távszerencsejáték és az online
+kaszinójáték műszaki-informatikai rendszer minden elemének a helyi időszerverhez szinkronizált idővel kell
+rendelkeznie.
+
+12. A szerveren az alábbi célokból lehet hozzáférési jogosultságokat kialakítani:
+a) a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer működtetője jogosult
+távoli hozzáféréssel, jelszavas védelemmel és naplózással az adatbázisból a pénzügyi adatok és
+játékprogramok konfigurációs adatainak lekérdezésére,
+b) a szerver működtetője jogosult a szerveren elhelyezett öndiagnosztikai programok futtatására,
+a szerver állapotára vonatkozó adatok lekérdezésre, tűzfal és vírusvédelem más jogosultsági
+szinthez nem tartozó beállításainak elvégzésére.
+13. A szerencsejáték-felügyeleti hatóság akadálymentes hozzáférését és az adatok biztonságát garantáló
+szoftvert a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer működtetőjének kell
+biztosítania.
+14. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer részét képező valamennyi
+szervert olyan folyamatos üzemű felügyeleti rendszerrel kell monitorozni, amely képes minden kritikus
+interfész elem monitorozására. A felügyeleti rendszernek képesnek kell lennie eredményesen értesíteni
+a rendszeradminisztrátort az adott állapotról, illetve riasztást kell küldenie a működtetőnek a normális
+értékektől való eltérés esetén.
+15. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek bármilyen kommunikációs
+hiba esetén azonnal értesítenie kell a működtetőt a hibásan működő részegységről, a rendszer minden egyes
+kritikus interfész eleméről jelentenie kell az öndiagnosztikai eljárás eredményeit.
+16. A szervernek a játékfunkciókat futtató vezérlőprogramjait hiteles digitális időbélyeggel kell ellátni, amely
+integritása naponta legalább egy alkalommal automatikus öndiagnosztikai eljárással ellenőrzésre kerül.
+Integritási hiba észlelése esetén az adott program, vagy programrészlet nem futtatható. A rendszernek
+automatikusan naplóznia kell a sikertelen hitelesítés dátumát, idejét és eredményét.
+17. A szerver és a tartalék szerver között a biztonságos kommunikáció érdekében a használt protokollnak
+titkosítással, hibaérzékelő és helyreállító mechanizmusokkal kell rendelkezniük, ami kellő védettséget biztosít
+a manipulálás ellen. A kapcsolat megszakadása és újrafelvétele nem járhat adatvesztéssel.
+18. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek a hálózati kapcsolat
+bármilyen okból – különösen áramszünet miatt – történő megszakadását követően biztosítania kell a játékos
+és a szervező közötti elszámolás lehetőségét.
+19. A szervert megfelelő fizikai és logikai behatolás elleni védelemmel – különösen vírusvédelemmel és
+tűzfallal – kell ellátni a jogosulatlan hozzáférések megakadályozása céljából.
+20. A tűzfal alkalmazásnak eseménynaplót kell vezetnie, és az eseménynapló tárolására szolgáló háttértároló
+eszköz telítődését követően le kell tiltania minden kommunikációt, és hibaeseményt kell generálnia.
+21. A szerencsejáték-felügyeleti hatóság kivételével távoli hozzáférés kizárólag a távszerencsejáték és az online
+kaszinójáték műszaki-informatikai rendszer távszerencsejáték vagy az online kaszinójáték szolgáltatást
+a játékosok felé biztosító részével valósítható meg olyan módszerrel, amely biztonságos kliensoldali,
+minősített hardveregységben tárolt kulcs segítségével, zárt csatornán összekapcsolja a rendszert és
+a hozzáférést kérőt. Nem számít távoli hozzáférésnek a zárt, dedikált kommunikációs csatornán keresztül
+megvalósuló hozzáférés. Ennek a biztonságos kapcsolatnak egyedileg be kell azonosítania a hozzáférést kérő
+távoli felhasználót és annak munkaállomását.
+22. A távoli hozzáférés és a működtetői operátori tevékenység munkafolyamatát automatikusan kell rögzíteni,
+amelyről megváltoztathatatlan eseménynaplót kell vezetnie, amely leírja az összes távoli hozzáférési
+információt, így különösen a belépési azonosítót, dátumot és időpontot, a végzett tevékenységet és
+a kapcsolat időtartamát. Lehetőséget kell biztosítani az elvégzett tevékenységek utólagos ellenőrzésére
+a megfelelő hardverkulccsal vagy azzal egyenértékű biztonsági szintű technológiával azonosított kiemelt
+felhasználók és a szerencsejáték-felügyeleti hatóság részére. Az auditáló berendezésnek biztosítania kell
+az egyes események gyors kikereshetőségét. Ha jogosulatlan hozzáférési kísérlet érkezik, a távszerencsejáték
+és az online kaszinójáték műszaki-informatikai rendszernek automatikus értesítést kell küldenie a rendszer
+működtetőjének.
+23. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer részét képező valamennyi
+engedélyezett játékprogramban a véletlenszerűség teljesülését a játék során biztosítani kell.
+A véletlenszerűen létrehozott adatoknak az algoritmus, illetve a generátor aktuális állapotának ismerete
+hiányában előre nem láthatónak és előre meg nem határozhatónak kell lenni. A létrehozott, illetve
+kiválasztott adatok nem lehetnek rekonstruálhatók. Az adatok kiválasztási, létrehozási módszerének
+lineárisnak kell lennie, a kiszámíthatóságot ki kell zárni. A játék kimenetelét, illetve az eredmények
+
+értelmezési módszerét a véletlenszám-generátor által létrehozott numerikus értéken kívüli egyéb tényező
+vagy körülmény nem befolyásolhatja.
+C) A távoli hozzáférés biztosítása
+1. Távoli hozzáférés keretében a szerencsejáték-felügyeleti hatóság részére legalább a 4. mellékletben felsorolt
+adatokhoz való hozzáférést kell biztosítani. Közös játékosi egyenleg vezetése esetén a 4. melléklet I. pont
+b)–f) alpontjában megjelölt adatokhoz való hozzáférést a közös játékosi egyenlegre vonatkoztatva kell
+biztosítani.
+2. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszernek olyan szolgáltatást kell
+nyújtania, amely a szerencsejáték-felügyeleti hatóság részére naplózott távoli hozzáférésen keresztül
+lehetőséget biztosít a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer auditált
+elemei változatlanságának ellenőrzésére.
+3. A távoli hozzáférés keretében lehetővé kell tenni az adatok olvasását, kimásolását, az adatok egészéről vagy
+egy részéről elektronikus másolat készítését és ezek biztonságos továbbítását a szerencsejáték-felügyeleti
+hatóság részére.
+4. A szerveren az alábbi célokból hozzáférési jogosultságokat kell kialakítani:
+a) A szerencsejáték-felügyeleti hatóság jogosult bármikor a helyszínen, vagy távoli hozzáféréssel
+a szerveren található adat, ellenőrzési napló, megtekintésére, lekérdezésére, ellenőrzésére.
+A hozzáférésnek lehetővé kell tennie az adatok, ellenőrzési naplók, olvasását, másolását és
+a kimásolt adatok feldolgozását.
+b) A szerencsejáték-felügyeleti hatóság jogosult a távoli hozzáféréssel megtekintett adatokat
+a szervező által biztosított adatexportálási megoldással ellenőrzési célból felhasználni.
+c) A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer működtetője jogosult
+távoli hozzáféréssel, jelszavas védelemmel és naplózással a kialakított távszerencsejáték és az online
+kaszinójáték műszaki-informatikai rendszer üzemeltetésére.
+D) Hibaesemény a pénzügyi tranzakció teljesítésében vagy a távszerencsejáték és az online kaszinójáték műszaki-
+informatikai rendszer működésében
+1. Ha a játékügyletet vagy a játékosi egyenleget érintő jelentős hibaesemény következik be, a szervező
+köteles a tudomásszerzést követően haladéktalanul a hiba elhárítását megtenni. A hiba megszűnéséig
+a szervező köteles megakadályozni, hogy a játékosok játékügyleteket, valamint a játékosi egyenleget érintő
+tranzakciókat kezdeményezzenek, illetve teljesítsenek.
+2. A szervező az 1. pont szerinti hibaeseményről köteles a szerencsejáték-felügyeleti hatóságot a hibaesemény
+észlelését és megszüntetését követően is haladéktalanul értesíteni.
+3. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+A távszerencsejáték szervező és az online kaszinójáték szervező havi gyakoriságú adatszolgáltatási
+kötelezettsége
+I. Valamennyi játéktípus tekintetében az alábbi összesített adatok:
+a) az adatszolgáltatással érintett időszak utolsó napján a játékosi egyenlegek kumulált összege,
+b) az adatszolgáltatással érintett időszakban a játékosi befizetések összege,
+c) az adatszolgáltatással érintett időszakban a játékosi egyenlegen jóváírt egyéb összegek (kézi
+korrekció),
+d) az adatszolgáltatással érintett időszakban a játékosi egyenleget terhelő egyéb összegek (kézi
+korrekció),
+e) az adatszolgáltatással érintett időszakban a játékosok által felhelyezett tétek összege, beleértve
+azon téteket, amelyeket a szervező utóbb visszafizetett a játékos részére,
+f) az adatszolgáltatással érintett időszakban a játékosi egyenlegre visszafizetett tétek összege,
+g) az adatszolgáltatással érintett időszakban a játékosok által elért nyeremények összege,
+h) online kaszinójáték esetén a bónuszból átkonvertált, kifizetésre alkalmas jóváírások összege,
+
+i) a szervező által a játékosoknak nyújtott bónuszok összege,
+j) az adatszolgáltatással érintett időszakban a játékosok igényelt kifizetésének összege,
+k) az adatszolgáltatással érintett időszak utolsó napján regisztrált játékosok száma,
+l) az adatszolgáltatással érintett időszakban az új regisztrációk száma,
+m) az adatszolgáltatással érintett időszakban az igazoló ellenőrzés alapján elutasított regisztrációk
+száma,
+n) az adatszolgáltatással érintett időszakban megszüntetett játékosi egyenlegek száma.
+II. Minden játéktípus tekintetében, játéktípusonként kimutatva és az alábbi megosztás szerint elkülönítve szükséges
+adatok:
+A) Adott játéktípuson belül azon játékfajták esetében, amelyeknél a tiszta játékbevételt a felhelyezett tétek és
+az elért nyeremények különbözete által kell meghatározni:
+a) az adatszolgáltatási időszakban a játékosok által felhelyezett tétek összege,
+b) az adatszolgáltatási időszakban a játékosok által elért nyeremények összege,
+c) az adatszolgáltatási időszakban elért tiszta játékbevétel összege.
+B) Adott játéktípuson belül azon játékfajták esetében, amelyeknél a tiszta játékbevételt a szervező által
+felszámított díjak vagy azokkal egy tekintet alá eső jutalékok által kell meghatározni:
+a) az adatszolgáltatási időszakban a játékosok által felhelyezett tétek összege,
+b) az adatszolgáltatási időszakban a játékosok által elért nyeremények összege,
+c) az adatszolgáltatási időszakban elért tiszta játékbevétel értéke.
+III. Fogadás esetén szükséges adatok:
+a) az adatszolgáltatási időszakban a játékosok által felhelyezett tétek összege, melynél külön kell
+kimutatni a szervező kockázat viselése nélkül szervezett játékban (totalizatőri) és szervező kockázat
+viselése mellett szervezett játékban (bukmékeri) felhelyezett tétek összegét,
+b) az adatszolgáltatási időszakban a játékosok által elért nyeremények összege, melynél külön kell
+kimutatni a totalizatőri és bukmékeri rendszerű fogadás körében elért nyeremények összegét,
+c) az adatszolgáltatási időszakban a játékban részt vevő játékosok száma.
+IV. Kártyajáték esetén szükséges adatok:
+a) az adatszolgáltatási időszakban a játékosok által felhelyezett tétek összege, melynél külön kell
+kimutatni a totalizatőri és bukmékeri rendszerű kártyajátékok körében felhelyezett tétek összegét,
+b) az adatszolgáltatási időszakban a játékosok által elért nyeremények összege, melynél külön kell
+kimutatni a totalizatőri és bukmékeri rendszerű kártyajátékok körében elért nyeremények összege,
+c) a kártyajáték játéktípus alá tartozó adott kártyajátékban a játékosok által felhelyezett tétek összege,
+d) a kártyajáték játéktípus alá tartozó adott kártyajátékban a játékosok által elért nyeremények
+összege,
+e) az adatszolgáltatási időszakban a játékban részt vevő játékosok száma.
+V. Kaszinójáték esetén szükséges adatok
+a) az adatszolgáltatási időszakban a játékosok által felhelyezett tétek összege, melynél külön kell
+kimutatni a totalizatőri és bukmékeri rendszerű kaszinójáték körében felhelyezett tétek összegét,
+b) az adatszolgáltatási időszakban a játékosok által elért nyeremények összege, melynél külön kell
+kimutatni a totalizatőri és bukmékeri rendszerű kaszinójáték körében elért nyeremények összege,
+c) a kaszinójáték játéktípus alá tartozó adott kaszinójátékban a játékosok által felhelyezett tétek
+összege,
+d) a kaszinójáték játéktípus alá tartozó adott kaszinójátékban a játékosok által elért nyeremények
+összege,
+e) az adatszolgáltatási időszakban a játékban részt vevő játékosok száma.
+
+4. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+Távoli hozzáféréssel biztosított adatok köre távszerencsejáték és az online kaszinójáték szervezése
+esetén
+I. Játékosi egyenleggel kapcsolatos adatok a játéktípustól függetlenül:
+a) játékosi azonosító adat (pl. felhasználói név, alkalmazott azonosító),
+b) a játékosi egyenleget növelő tételek, valamint ezek jogcíme és mértéke óra, perc és másodperc
+pontossággal,
+c) a játékosi egyenleget csökkentő tételek, valamint ezek jogcíme és mértéke óra, perc és másodperc
+pontossággal,
+d) a játékosi egyenleg összege adott időpontra vonatkozóan,
+e) az összes játékosi egyenleget növelő tételek összege jogcímfajtánként adott időszakra vonatkozóan,
+f) az összes játékosi egyenleget csökkentő tételek összege jogcímfajtánként adott időszakra
+vonatkozóan,
+g) a játékosok által távszerencsejátékban összes felhelyezett tétek összege adott időszakra
+vonatkozóan,
+h) a játékosok által távszerencsejátékban elért összes nyeremény összege adott időszakra
+vonatkozóan.
+II. Fogadás esetén:
+1. Fogadási eseménnyel kapcsolatosan
+a) annak megnevezése, azonosítója,
+b) a fogadási esemény kezdő időpontja óra és perc pontossággal,
+c) a fogadás lezárásának időpontja (a tétek felhelyezésére rendelkezésre álló időtartam vége óra, perc
+és másodperc pontossággal),
+d) bukmékeri rendszerű fogadás esetén a fogadási esemény meghirdetése és lezárása között
+alkalmazott nyereményszorzó,
+e) bukmékeri rendszerű fogadás esetén a fogadási ajánlat kombinálási lehetősége,
+f) a felhelyezett tétek összege,
+g) a bekövetkezett kimeneteleinek végeredménye,
+h) az elért nyeremények értéke.
+2. A fogadási eseményben részt vevő játékossal kapcsolatosan
+a) a játékos azonosítója,
+b) a fogadási esemény kimenetelére felhelyezett tét összege, óra, perc és másodperc pontossággal,
+c) a játékos által elért nyeremény összege, a játékosi egyenlegen való jóváírás időpontja óra, perc és
+másodperc pontossággal.
+III. Kártyajáték esetén
+1. Leosztásokkal kapcsolatban:
+a) a kártyajáték elnevezése, típusa, azonosítója, verziószáma,
+b) a leosztás azonosítója,
+c) a leosztás lebonyolításának időtartama,
+d) a leosztás során felhelyezett tétek összege,
+e) a nyerés feltételei (nyertes kombináció, lap stb.),
+f) a leosztásban elért nyeremények összege.
+2. A leosztásokban résztvevőkkel kapcsolatban:
+a) a leosztásban részvevő játékos azonosítója,
+b) a leosztásban az adott játékos által felhelyezett tétek összege, időpontja óra, perc és másodperc
+pontossággal,
+c) a leosztásban az adott játékos által elért nyeremény összege, a játékosi egyenlegen való jóváírás
+időpontja óra, perc és másodperc pontossággal.
+
+IV. Kaszinójáték esetén
+1. Játék típusával kapcsolatban:
+a) a kaszinójáték típusának megnevezése, azonosítója, verziószáma,
+b) adott típusú kaszinójáték játékeseményének azonosítója,
+c) adott típusú kaszinójáték játékesemény lebonyolításának időpontja óra, perc és másodperc
+pontossággal,
+d) adott típusú kaszinójáték játékeseményben felhelyezett tétek összege,
+e) a nyerés feltételei (nyertes kombináció, lap stb.),
+f) adott típusú kaszinójáték játékeseményben elért nyeremények összege.
+2. Adott típusú kaszinó játékban résztvevőkkel kapcsolatosan
+a) adott típusú kaszinójáték játékeseményében résztvevő játékos azonosítója,
+b) adott típusú kaszinójáték játékeseményében az adott játékos által a felhelyezett tétek összege,
+időpontja óra, perc, másodperc pontossággal,
+c) adott típusú kaszinójáték játékeseményében adott játékos által elért nyeremények összege,
+a játékosi egyenlegen való jóváírás időpontja óra, perc és másodperc pontossággal.
+V. A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer működésének változatlanságát érintő
+adatok
+A távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer lényeges elemeinek változatlanságát
+igazoló adatok (különösen a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszer lényeges
+elemeihez tartozó ellenőrző számok, hash kódok).
+VI. Statisztikai nyilvántartás
+A 22. § (3) bekezdésében meghatározott statisztikai nyilvántartás.
+5. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+A játékkaszinó üzemeltetésére szóló működési engedély tartalmi és formai elemei
+A játékkaszinó üzemeltetésére szóló működési engedélyben a tartalmi és formai elemként szerepeltetni kell
+a) a játékkaszinó működésére szóló engedély megnevezését,
+b) Magyarország címerét,
+c) a működési engedély szerencsejáték-felügyeleti hatóság által generált egyedi sorszámát,
+d) a játékkaszinó I. vagy II. kategória szerinti besorolását,
+e) a játékkaszinó közigazgatási címét,
+f) a játékkaszinót üzemeltető szerencsejáték-szervező nevét (cégnevét), székhelyét,
+g) a működési engedély érvényességének időtartamát,
+h) a működési engedély kiállításának helyét és dátumát,
+i) az engedélyező hatóság elnevezését, bélyegzőlenyomatát, valamint az engedélyező hatóság vezetőjének
+aláírását és
+j) szövegszerű utalást arra, hogy
+ja) a működési engedély szigorú számadású nyomtatvány,
+jb) a működési engedélyt, annak bármely okból történő megszűnésétől számított 8 napon belül,
+a szerencsejáték-felügyeleti hatóság részére le kell adni,
+jc) a működési engedélyt a játékkaszinó bejáratánál jól látható helyre kell kifüggeszteni, és
+jd) a működési engedély másra nem ruházható át.
+
+6. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+A játékautomata nyilvántartásba vételéről kiállított igazolás tartalmi és formai elemei
+A játékautomata nyilvántartásba vételi igazolásban tartalmi és formai elemként szerepeltetni kell
+a) az igazolás sorszámát,
+b) Magyarország címerét és az igazolást kiállító hatóság elnevezését,
+c) a játékautomata mint az igazolás tárgyának megnevezését,
+d) a játékautomata gyártási számát,
+e) a játékautomata mérésügyi azonosító számát,
+f) az igazolás érvényességének időtartamát,
+g) az igazolás kiadásának dátumát,
+h) az igazolást kiállító hatóság elnevezését, bélyegzőlenyomatát, valamint a kiadmányozásra jogosult aláírását,
+i) az e) és f) pontok szerinti adatok védelme érdekében az ezen adattartalmat letakaró fóliát.
+7. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+A kártyaterem üzemeltetésére szóló működési engedély tartalmi és formai elemei
+A kártyaterem üzemeltetésére szóló működési engedélyben a tartalmi és formai elemként szerepeltetni kell
+a) a kártyaterem működésére szóló engedély megnevezését,
+b) Magyarország címerét,
+c) a működési engedély szerencsejáték-felügyeleti hatóság által generált egyedi sorszámát,
+d) a kártyaterem közigazgatási címét,
+e) a kártyatermet üzemeltető szerencsejáték-szervező nevét (cégnevét), székhelyét,
+f) a működési engedély érvényességének időtartamát,
+g) a működési engedély kiállításának helyét és dátumát,
+h) az engedélyező hatóság elnevezését, bélyegzőlenyomatát, valamint az engedélyező hatóság vezetőjének
+aláírását és
+i) szövegszerű utalást arra, hogy
+ia) a működési engedély szigorú számadású nyomtatvány,
+ib) a működési engedélyt, annak bármely okból történő megszűnésétől számított 8 napon belül,
+a szerencsejáték-felügyeleti hatóság részére le kell adni,
+ic) a működési engedélyt a kártyaterem bejáratánál jól látható helyre kell kifüggeszteni, és
+id) a működési engedély másra nem ruházható át.
+8. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+Pókerverseny nevezési díj, rebuy és add-on befizetési bizonylat kitöltése és kezelése
+A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. A kártyateremben egyidejűleg csak
+egy tömb lehet használatban, utolsó lapjának felhasználása után kezdhető új tömb. A kihagyott, fel nem használt
+lapokat áthúzással érvényteleníteni kell. A bizonylatot a pénztáros tölti ki.
+A „Kártyaterem neve” és „Kártyaterem címe” rovat kitöltése történhet a kártyaterem bélyegzőjével is. Téves adat
+beírása esetén a bizonylatot érvényteleníteni kell és jegyzőkönyv felvétele mellett új bizonylatot kell kiállítani.
+Az„Összesítő bizonylat sorszáma”-hoz az aznapi„Napi eredményösszesítő bizonylat” sorszámát kell beírni. A játékos
+nevét olvashatóan (nyomtatott betűvel) kell kitölteni. A befizetett összeghez a ténylegesen befizetett készpénz
+összegét kell beírni. A befizetés módja lehet: Nevezési díj (induló), Rebuy, Add-on. Az eseményt a megfelelő helyre
+elhelyezett „X” jellel a pénztáros befizetésenként tölti ki. A befizetéssel egyidejűleg a bizonylatot a pénztáros és
+a játékos is aláírja.
+
+A bizonylat első példánya a játékosé, második példánya a pénztárosé, harmadik pedig a tömbben marad. A játékos
+a bizonylat ellenében kapja meg a versenyhez szükséges zsetonkészletet. A játékvezető a játékostól átvett
+bizonylatot az asztalban lévő jutaléktartó dobozba dobja.
+9. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+Pókerverseny nyeremény kifizetési utalvány kitöltése és kezelése
+A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. A kártyateremben egyidejűleg csak
+egy tömb lehet használatban, utolsó lapjának felhasználása után kezdhető új tömb. A kihagyott, fel nem használt
+lapokat áthúzással érvényteleníteni kell. A bizonylatot a játékvezető tölti ki.
+A „Kártyaterem neve” és „Kártyaterem címe” rovat kitöltése történhet a kártyaterem bélyegzőjével is. A játékos
+versenyen elért helyezését és a nevét olvashatóan (nyomtatott betűvel) kell kitölteni. Játéknap: a kártyaterem
+nyitásától a zárásig terjedő, a naptári naptól eltérően meghatározott időszak. Az „időpont” rovatban a nyeremény
+kifizetésének időpontját óra és perc pontossággal kell feltüntetni. Az „asztalszám” annak az asztalnak a száma, ahol
+a játékos a nyereményjogosultságot szerezte. Az „összesítő bizonylat sorszáma”-hoz a játéknaphoz tartozó „Napi
+eredményösszesítő bizonylat”sorszámát kell beírni. Az utalványt a játékvezető és a játékos írja alá.
+Az utalvány első példánya a játékosé, a második példány az asztalban lévő jutaléktartó dobozba kerül, a harmadik
+példány a tömbben marad. A játékos az utalvány alapján a pénztárban kapja meg a nyereményét.
+10. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+Pókerverseny összesítő bizonylat kitöltése és kezelése
+A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. A kártyateremben egyidejűleg csak
+egy tömb lehet használatban, utolsó lapjának felhasználása után kezdhető új tömb. A kihagyott, fel nem használt
+lapokat áthúzással érvényteleníteni kell. A bizonylatot a teremvezető és a pénztáros vezeti.
+Versenyhez egy összesítő bizonylatot kell kitölteni. A „Kártyaterem neve” és a „Kártyaterem címe” rovat kitöltése
+történhet a kártyaterem bélyegzőjével is. „A lebonyolításban érintett kártyaasztalok” rovatban a verseny
+lebonyolításához igénybe vett asztalok azonosító jelét kell feltüntetni. „Játéknap” a kártyaterem nyitásától a zárásig
+terjedő, a naptári naptól eltérően meghatározott időszak. A „verseny megnevezése” rovatnál szerepeltetni kell
+a pókerjáték fajtáját, típusát, főbb szabályait és minden egyéb jellemzőjét, amelyek egyértelműen azonosíthatóvá
+teszik, hogy mely játéktervi szabályok szerint zajlik a játék. Az„alkalmazott felosztási szabály” rovatnál rögzíteni kell,
+hogy hány játékos lesz díjazva és játékosonként meg kell határozni a díjazás mértékét.
+A verseny megkezdéséig a bizonylaton minden rendelkezésre álló adatot ki kell tölteni. A játék menete során, ha
+Add-on vagy Rebuy már nem igényelhető, akkor a bizonylaton ezek összesített adatát tartalmazó rovatát is ki kell
+tölteni. A verseny végén a „nyereményalap összesen” rovatba a játék során keletkezett összes befizetést kell beírni.
+A „felosztott nyeremény /min. 80%/” rovatba a nyertesek száma, és az az összeg kerül, ami a játékosok között
+felosztásra került. A „verseny eredménye /szervezői jutalék/” rovat a „nyereményalap összesen” és a „felosztott
+nyeremény”rovatokban feltüntetett összegek különbözete. A bizonylatot a teremvezető és a pénztáros írja alá.
+11. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+Asztalonkénti elszámolás bizonylat kitöltése és kezelése
+A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. Nyitvatartási időben
+az asztalonkénti elszámolás bizonylatokat az adott játékasztalnál kell tartani. A bizonylattömb borítóján fel kell
+tüntetni az adott asztal számát, azonosító jelét. Asztalonként egyidejűleg csak egy tömb lehet használatban, utolsó
+lapjának felhasználása után kezdhető új tömb. A kihagyott, fel nem használt lapokat áthúzással érvényteleníteni kell.
+
+A bizonylatot a játékvezető nyitja meg, vezeti és zárja le a játéknap végén. A „Kártyaterem neve” és „Kártyaterem
+címe” rovat kitöltése történhet a kártyaterem bélyegzőjével is. Téves adat beírása esetén a bizonylatot
+érvényteleníteni kell és jegyzőkönyv felvétele mellett új bizonylatot kell kiállítani. A „Játéknap” a kártyaterem
+nyitásától a zárásig terjedő, a naptári naptól eltérően meghatározott időszak, a „Nyitás időpontja” a játékasztal
+tényleges nyitásának időpontja. Az asztalnyitás tényét és valódiságtartalmát a teremvezető, a pénztáros és
+a játékvezető aláírásával igazolja.
+A „játékok nyilvántartása” mezőt időrendi sorrendben, az eseményekkel egyidejűleg a játékvezetőnek kell vezetni.
+Az „időpont” a játék kezdetének ideje, a „V/CG” arra történő utalás, hogy verseny vagy készpénzes (cash game)
+a játék. A„Típus/limit” rovatba kell beírni a játék főbb jellemzőit, amelyek egyértelműen azonosíthatóvá teszik, hogy
+mely játéktervi szabályok szerint zajlik a játék pl. THP pot limit, Omaha hold’em 1 rebuy, 1 add-on, 32 lapos Omaha
+Hold’em. A játékok nyilvántartását a teremvezető – játékonként külön-külön – aláírásával igazolja.
+A „zseton elszámolás” mezőben kell nyilvántartani az adott játékasztalnál tárolt zsetonokat. Az asztal nyitásakor
+a játék bonyolításához szükséges zsetonellátmány címlet szerinti darabszámát az „alapdotáció db” és „címlet Ft”
+továbbá az„alapdotáció összesen”rovatát kell szerepeltetni. Az asztal zárásakor a címlet szerinti darabszámot a leltár
+oszlopban, annak értékét az „összeg” rovatban kell szerepeltetni. Az asztal nyitás és az asztal zárás egyenlegének
+nullának kell lennie. Ha az egyenleg nem nulla, akkor az esetről jegyzőkönyvet kell készíteni és abban az eltérés okát
+meg kell nevezni.
+Az„Eredmény (szervezői jutalék)” mező kitöltésére a játéknap végén, az asztal zárása és a jutaléktartó doboz ürítése
+során kerül sor. A jutaléktartó dobozban összegyűlt és megszámolt zsetonokat darabszám, címlet és összeg szerint
+kell feltüntetni, majd összesíteni.
+A „Borravaló elszámolás” mező kitöltése az asztal zárásakor történik. A játéknap során a borravalótartóban
+összegyűlt és megszámolt zsetonokat darabszám, címlet és összeg szerint kell feltüntetni, majd összesíteni.
+Az asztalzárás időpontja az az időpont, amikor az adott játékasztal zárása elkezdődik. Az asztalzárás tényét és
+valódiságtartalmát a teremvezető, a pénztáros és a játékvezető aláírásával igazolja.
+12. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+Napi eredményösszesítő bizonylat kitöltése és kezelése
+A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. A kártyateremben egyidejűleg csak
+egy ilyen tömb lehet használatban, annak utolsó lapjának felhasználása után kezdhető új tömb. A kihagyott, fel nem
+használt lapokat áthúzással érvényteleníteni kell. A bizonylatot a pénztáros tölti ki.
+A „Kártyaterem neve” és „Kártyaterem címe” rovat kitöltése történhet a kártyaterem bélyegzőjével is. „Játéknap”
+a kártyaterem nyitásától a zárásig terjedő, a naptári naptól eltérően meghatározott időszak.
+A bizonylat első tíz sorába a pókerasztalok /1-10/ aznapi összesített adatait kell beírni. Az „asztal/verseny bizonylat
+sorszáma” rovatba az azon sorszámú asztalhoz tartozó „Asztalonkénti elszámolás bizonylat” sorszámát kell beírni.
+Az„eredmény /szervezői jutalék/” rovatba az„asztalonkénti elszámolás bizonylat”-on elszámolt jutalék összegét kell
+feltüntetni. A „borravaló (Ft) /50%/” rovatba az „asztalonkénti elszámolás bizonylat”-on elszámolt borravaló 50%-át
+kell rögzíteni. A „pénztár” sor „borravaló (Ft) /50%/” rovatába a „Pénztár borravaló bizonylat” az „adóalapot növelő
+összeg (50%)”rovatának tartalmát kell beírni.
+A nyomtatvány további nem számozott soraiban a „asztalszám/verseny neve” rovatban kell feltüntetni a verseny
+megnevezését. Az „asztal/verseny bizonylat sorszáma” rovatba a „Pókerverseny összesítő bizonylat” bizonylat
+sorszámát kell beírni. Az „eredmény /szervezői jutalék/” rovatba „Pókerverseny összesítő bizonylat” „verseny
+eredménye /szervezői jutalék/”rovatban szereplő összeget kell beírni.
+A „napi összesen” sorban kell összesíteni a játéknap „eredmény/szervezői jutalék” és a szervező adóalapjába
+beszámítandó „borravaló /50%/” rovatokat. Az „előző napig” sorába a kártyaterem előző játéknapjának záró
+eredménye és borravalója göngyölített összegét kell beírni. A „göngyölített” sorában kell feltüntetni a „napi
+összesen”és az„előző napig”elszámolt eredmény és borravaló összegét.
+A bizonylatot a pénztáros és a teremvezető írja alá.
+
+13. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+Pénztár borravaló bizonylat kitöltése és kezelése
+A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. A kártyateremben egyidejűleg csak
+egy ilyen tömb lehet használatban, annak utolsó lapjának felhasználása után kezdhető új tömb. A kihagyott, fel
+nem használt lapokat áthúzással érvényteleníteni kell. A borravaló leltározása az utolsó asztal zárásakor, az utolsó
+asztalon történik. A bizonylatot a játékvezető tölti ki.
+A „Kártyaterem neve” és „Kártyaterem címe” rovat kitöltése történhet a kártyaterem bélyegzőjével is. „Játéknap”
+a kártyaterem nyitásától a zárásig terjedő, a naptári naptól eltérően meghatározott időszak. Az „elszámolás helye”
+rovatban azt az asztalszámot kell megadni, amelyik asztalon a pénztári borravaló leltározása és a bizonylat kitöltése
+történik.
+A játéknap során a borravaló tartóban összegyűlt és megszámolt zsetonokat darabszám, címlet és összeg szerint kell
+a bizonylaton feltüntetni, majd összesíteni. A bizonylatot a teremvezető, a pénztáros és a játékvezető írja alá.
+
+V. A Kormány tagjainak rendeletei

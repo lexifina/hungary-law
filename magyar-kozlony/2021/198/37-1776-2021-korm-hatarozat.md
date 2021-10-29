@@ -1,0 +1,84 @@
+# A Kormány 1776/2021. (X. 29.) Korm. határozata
+
+Magyar Közlöny 2021. évi 198. szám, 2021. október 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/eGdKYqk8tChyHPXuFpBZ6171a9a4b1ed2/dokumentumok/3195c4a7018717155e212a8681e42f1dee9ecf89/letoltes)
+
+---
+
+A Kormány 1776/2021. (X. 29.) Korm. határozata
+az RSZTOP-2.1.1-16-2017-00001 azonosító számú („Alapvető fogyasztási cikkek biztosítása szegény
+gyermekes családok számára”című) kiemelt projekt összköltségének növeléséről, valamint
+a Rászoruló Személyeket Támogató Operatív Program éves fejlesztési keretének megállapításáról szóló
+1347/2016. (VII. 6.) Korm. határozat módosításáról
+1. A Kormány a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés f) pontjában meghatározott
+jogkörében eljárva
+a) egyetért az RSZTOP-2.1.1-16-2017-00001 azonosító számú, „Alapvető fogyasztási cikkek biztosítása szegény
+gyermekes családok számára”című kiemelt projekt (a továbbiakban: projekt) összköltségének, az 1. melléklet
+szerinti növelésével;
+b) egyetért a projekt a) alpont szerinti többlettámogatásának a Rászoruló Személyeket Támogató Operatív
+Program 4. prioritásáról történő forrásátcsoportosítással való finanszírozásával;
+c) egyetért a projekt támogatási szerződésének 1. melléklet szerinti módosításával.
+Felelős: emberi erőforrások minisztere
+Határidő: 2021. november 30.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. A Rászoruló Személyeket Támogató Operatív Program éves fejlesztési keretének megállapításáról szóló
+1347/2016. (VII. 6.) Korm. határozat
+a) 1. mellékletében foglalt táblázat
+aa) C:3 mezőjében az„5,920”szövegrész helyébe a„6,141”szöveg,
+ab) C:5 mezőjében a„9,841”szövegrész helyébe a„9,620”szöveg,
+b) 2. mellékletében foglalt táblázat
+ba) D:4 mezőjében az„5,120”szövegrész helyébe az„5,341”szöveg,
+bb) D:6 mezőjében a„9,841”szövegrész helyébe a„9,620”szöveg
+lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1776/2021. (X. 29.) Korm. határozathoz
+A B C D E F G H
+1.
+Projekt azonosító
+száma
+Projekt megnevezése Kedvezményezett neve
+Eredeti támogatás
+(forint)
+Hatályos támogatási
+szerződés
+szerinti
+támogatás
+(forint)
+Az RSZTOP-4 prioritás
+keretösszegéből
+történő
+átcsoportosítás
+(forint)
+Megnövelt
+összköltség
+(forint)
+Projekt rövid bemutatása
+2.
+RSZTOP-2.1.1-16-
+2017-00001
+Alapvető
+fogyasztási
+cikkek biztosítása
+szegény
+gyermekes
+családok számára
+Szociális és
+Gyermekvédelmi
+Főigazgatóság
+(konzorciumi
+partner: Klebelsberg
+Központ)
+2 020 000 000 5 119 158 525 220 958 501 5 340 117 026
+Alapvető fogyasztási cikkek
+és taneszközök eljuttatása
+a program szerint
+beazonosított leginkább
+rászoruló személyek részére.
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
