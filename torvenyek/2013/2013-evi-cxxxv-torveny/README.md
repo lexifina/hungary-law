@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-135-00-00
 | 2020-07-15 | 2020. évi LXXX. törvény | 2013-135-00-00.27 |
 | 2020-12-25 | 2020. évi CLXXIII. törvény | 2013-135-00-00.28 |
 | 2021-07-02 | 2021. évi LXXXIV. törvény | 2013-135-00-00.29 |
+| 2021-10-29 | 2021. évi CIV. törvény | 2013-135-00-00.30 |

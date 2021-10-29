@@ -16,7 +16,7 @@ b) a kilépni kívánó tag az Integrációs Szervezettel és annak tagjaival el
 
 c) teljesültek a kilépés vonatkozásában az Integrációs Szervezet kilépéskor hatályos alapszabályában meghatározott feltételek,
 
-d) teljesült a 20/A. § (7) bekezdésében írt feltétel.
+d)
 
 (6)
 

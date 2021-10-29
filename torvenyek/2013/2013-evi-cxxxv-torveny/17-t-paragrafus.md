@@ -10,10 +10,8 @@ a) annak tevékenységi engedélyét a Felügyelet visszavonta és az átalakít
 
 b) a tevékenységi engedély visszavonásának más okból nincs helye,
 
-c) a felszámolási eljárás kezdeményezésének feltételei nem állnak fenn,
+c) a felszámolási eljárás kezdeményezésének feltételei nem állnak fenn, valamint
 
-d) az átalakítás nem sérti a hitelintézetek integrációja gazdasági érdekeit, valamint
-
-e) a kérelmező a 20/A. § (7) bekezdésében foglalt követelményeknek megfelel.
+d) az átalakítás nem sérti a hitelintézetek integrációja gazdasági érdekeit.
 
 (4) Az Integrációs Szervezet tagja végelszámolására, az integrált hitelintézet átalakítására az Integrációs Szervezetből kilépni kívánó integrált hitelintézetre irányadó rendelkezéseket kell megfelelően alkalmazni.
