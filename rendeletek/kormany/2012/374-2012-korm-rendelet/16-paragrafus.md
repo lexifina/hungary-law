@@ -124,7 +124,7 @@
 
 62.[^61] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítása céljából, a vér és más testfolyadékok és testgázok elemzésére szolgáló in vitro diagnosztikai orvostechnikai eszközökben használt polivinilkloridban (PVC) hőstabilizátorként alkalmazott ólomra vonatkozó mentesség tekintetében történő módosításáról szóló, 2019. december 17-ei (EU) 2020/366 felhatalmazáson alapuló bizottsági irányelvnek
 
-való megfelelést szolgálja.
+63.[^62] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a tudományos és a műszaki fejlődéshez történő hozzáigazítása céljából, egyes ólom- és hat vegyértékű krómvegyületeknek a (szakmai célú) polgári felhasználású robbanóanyagok elektromos és elektronikus gyújtószerkezeteiben való használatára megadott mentesség tekintetében történő módosításáról szóló, 2021. január 15-i (EU) 2021/647 felhatalmazáson alapuló bizottsági irányelvnek
 
 [^26]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^27]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
@@ -162,3 +162,4 @@ való megfelelést szolgálja.
 [^59]: A 16. § 60. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^60]: A 16. § 61. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^61]: A 16. § 62. pontját az 596/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^62]: A 16. § 63. pontját az 592/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be.

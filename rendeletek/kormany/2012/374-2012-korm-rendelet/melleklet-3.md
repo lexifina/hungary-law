@@ -318,6 +318,8 @@
 
 | 78c. | Az (EU) 2016/1628 európai parlamenti és tanácsi rendelet hatálya alá tartozó belső égésű motorok érzékelői, működtetői és motorvezérlő egységei forrasztásaiban használt ólom a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközök estében, amennyiben ezeket működés közben statikus helyzetű, szakemberek általi használatra tervezett, de nem szakmai felhasználók által is használt berendezésekbe építik be. |
 
+| 78d. | A (szakmai célú) polgári felhasználású robbanóanyagok elektromos és elektronikus gyújtószerkezeteiben használt ólom-diazid, ólomstifnát, ólom-dipikramát, narancssárga ólom (ólom-tetraoxid), ólom-dioxid. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik. | nincs korlátozás | 2026. április 20. |
+
 | 79. | III. KADMIUM ÉS KADMIUMVEGYÜLETTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
 | 80. | Egyszerhasználatos, szemcsés töltetű hőkioldókban lévő kadmium és vegyületei | nincs korlátozás | mentesség ideje nincs korlátozva |
@@ -362,13 +364,15 @@
 
 | 88b. | Abszorpciós hűtőgépek szénacél hűtőrendszerének hűtőközegében korróziógátló szerként használt króm, a 7. melléklet 1–7. és a 10. termékcsoportba tartozó eszközök esetében: – ha a hűtőgép teljesen vagy részben elektromos fűtőberendezéssel működik, és állandó üzemi feltételek mellett felvett teljesítménye legalább 75 W; – ha a hűtőgép teljes mértékben nem elektromos fűtőberendezéssel működik. | ≤ 0,75 m/m% hat vegyértékű króm | 2021. július 21-ig |
 
+| 88c. | A (szakmai célú) polgári felhasználású robbanóanyagok elektromos gyújtószerkezeteinek hosszú időzítésű pirotechnikai késleltető tölteteiben használt bárium-kromát. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik. | nincs korlátozás | 2026. április 20. |
+
 | 89. | V. BISZ(2-ETIL-HEXIL)-FTALÁTRA (DEHP) VONATKOZÓ MENTESSÉGEK |
 
 | 90. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó alábbi eszközök esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával, vagy tartósan emberi bőrrel: 1. tömítések bevonatai, 2. tömörgumiból készült tömítések, 3. a motorhoz csatlakoztatott, elektromos, mechanikus vagy hidraulikus energiával működő, legalább három összetevőből álló szerelvények gumialkatrészei. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 30 m% | 2024. július 21-ig |
 
 | 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^65]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^66]
 
 ## A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -552,4 +556,4 @@ lejár.
 
 48. A 100 Gy/órát meghaladó és a 100 kGy-t meghaladó teljes dózisú ionizáló sugárzásnak kitett környezetben használt, középen 450 TV sornál nagyobb felbontású kamerákhoz tervezett sugárzástűrő videókamera-csövekben lévő kadmium. A mentesség a 9. kategóriára vonatkozik és 2027. március 31-én lejár.
 
-[^65]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^66]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
