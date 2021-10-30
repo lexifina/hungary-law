@@ -1,3 +1,3 @@
-## 39. §[^106] A víziközmű-szolgáltatói engedély módosítására irányuló eljárásra a víziközmű-szolgáltatói engedélyezés szabályait kell alkalmazni.
+## 39. §[^107] A víziközmű-szolgáltatói engedély módosítására irányuló eljárásra a víziközmű-szolgáltatói engedélyezés szabályait kell alkalmazni.
 
-[^106]: A 39. § a 342/2016. (XI. 17.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^107]: A 39. § a 342/2016. (XI. 17.) Korm. rendelet 13. §-ával megállapított szöveg.

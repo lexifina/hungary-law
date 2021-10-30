@@ -14,7 +14,7 @@ igazolhatja.
 
 (2) Az (1) bekezdés szerint benyújtott iratokat és a bemutatott iratok másolatát a víziközmű-szolgáltató a jogosultság megszűnését követő 5 évig köteles megőrizni.
 
-(3)[^282] A fogyatékosság jellegét, amely a fogyatékkal élő felhasználót alkalmatlanná teszi a fogyasztásmérő leolvasására, a mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére, továbbá az (1) bekezdés b) pont bc) alpontjának esetleges fennállását a kezelőorvos, ennek hiányában a háziorvos igazolja a 10. melléklet C) része szerinti nyomtatvány kitöltésével. Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos és a háziorvos a 10. melléklet C) része szerinti nyomtatványt e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján tölti ki.
+(3)[^283] A fogyatékosság jellegét, amely a fogyatékkal élő felhasználót alkalmatlanná teszi a fogyasztásmérő leolvasására, a mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére, továbbá az (1) bekezdés b) pont bc) alpontjának esetleges fennállását a kezelőorvos, ennek hiányában a háziorvos igazolja a 10. melléklet C) része szerinti nyomtatvány kitöltésével. Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos és a háziorvos a 10. melléklet C) része szerinti nyomtatványt e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján tölti ki.
 
 (4) A víziközmű-szolgáltató a fogyatékkal élő felhasználót a rászorultság igazolását követő 8 napon belül nyilvántartásba veszi, és a nyilvántartásba vételről a felhasználót a Vksztv. 61/A. § (3) bekezdése szerint tájékoztatja.
 
@@ -42,4 +42,4 @@ d) az érintett víziközmű-szolgáltató üzletszabályzatában meghatározott
 
 (12) A fogyatékkal élő felhasználók nyilvántartásában szereplő felhasználó az (1) bekezdés szerinti nyilatkozatát évente legfeljebb két alkalommal módosíthatja. Az így igénybe venni kívánt szolgáltatást a módosítási igény beérkezését követően, a (8) bekezdésben meghatározott időtartam szerint kell biztosítani a felhasználó számára.
 
-[^282]: A 88/D. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 223. § (1) bekezdésével megállapított szöveg.
+[^283]: A 88/D. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 223. § (1) bekezdésével megállapított szöveg.

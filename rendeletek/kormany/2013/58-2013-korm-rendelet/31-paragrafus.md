@@ -30,13 +30,13 @@ a) a kérelmezőnek a munka törvénykönyvéről szóló törvény szerinti vez
 
 aa) rendelkeznek-e a c) pont – ennek hiányában – a (4) bekezdés szerinti végzettséggel, vagy
 
-ab) rendelkeznek-e gazdasági, vagy jogi szakirányú felsőfokú szakképesítéssel, továbbá
+ab)[^96] rendelkeznek-e gazdasági, vagy jogi szakirányú felsőfokú szakképesítéssel vagy felsőfokú végzettséggel, továbbá
 
 ac) a víziközmű-szolgáltatásban szerzett szakmai tapasztalatuk időtartama eléri-e az öt évet,
 
 b) az üzemeltetés műszaki irányítását, felügyeletét végző, jogszabályban rögzített képesítési követelménnyel és legalább kétéves szakmai gyakorlattal rendelkező szakemberek főállású munkaviszonyban vannak-e foglalkoztatva,
 
-c)[^96] hogy a kérelmező rendelkezik-e főállású munkaviszonyban álló, osztatlan képzésben, vagy mesterképzésben oklevelet szerzett, a szakterületének megfelelő munkakörben foglalkoztatott:
+c)[^97] hogy a kérelmező rendelkezik-e főállású munkaviszonyban álló, osztatlan képzésben, vagy mesterképzésben oklevelet szerzett, a szakterületének megfelelő munkakörben foglalkoztatott:
 
 ca) vízépítő mérnökkel,
 
@@ -61,4 +61,5 @@ ch) ivóvíz-szolgáltatás esetén hidrogeológussal.
 [^93]: A 31. § (1) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 11. pontja szerint módosított szöveg.
 [^94]: A 31. § (2) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 12. pontja szerint módosított szöveg.
 [^95]: A 31. § (3) bekezdés nyitó szövegrésze a 342/2016. (XI. 17.) Korm. rendelet 39. § 13. pontja szerint módosított szöveg.
-[^96]: A 31. § (3) bekezdés c) pontja a 367/2015. (XII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^96]: A 31. § (3) bekezdés a) pont ab) alpontja a 602/2021. (X. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^97]: A 31. § (3) bekezdés c) pontja a 367/2015. (XII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
