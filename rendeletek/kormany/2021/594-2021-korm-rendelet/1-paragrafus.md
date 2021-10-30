@@ -1,1 +1,0 @@
-## 1. A Honvédelmi Sportközpontok fejlesztése keretében megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 479/2017. (XII. 28.) Korm. rendelet módosítása
