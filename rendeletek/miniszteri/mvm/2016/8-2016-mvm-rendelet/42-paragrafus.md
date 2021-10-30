@@ -46,6 +46,8 @@
 
 (22)[^47] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a közfeladatot ellátó közérdekű vagyonkezelő alapítványokkal kapcsolatos módosításáról szóló 9/2021. (VI. 22.) MvM rendelettel (a továbbiakban: Módr20.) megállapított rendelkezéseit a Módr20. hatálybalépése[^48] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(23)[^49] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet módosításáról szóló 12/2021. (X. 29.) MvM rendelettel (a továbbiakban: Módr21.) megállapított rendelkezéseit a Módr21. hatálybalépése[^50] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^14]: A 42. § a 3/2019. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
 [^15]: A hatálybalépés időpontja 2018. február 16.
 [^16]: A hatálybalépés időpontja 2018. március 29.
@@ -81,3 +83,5 @@
 [^46]: A hatálybalépés időpontja 2021. április 24.
 [^47]: A 42. § (22) bekezdését a 9/2021. (VI. 22.) MvM rendelet 1. §-a iktatta be.
 [^48]: A hatálybalépés időpontja 2021. június 23.
+[^49]: A 42. § (23) bekezdését a 12/2021. (X. 29.) MvM rendelet 1. §-a iktatta be.
+[^50]: A hatálybalépés időpontja 2021. október 30.
