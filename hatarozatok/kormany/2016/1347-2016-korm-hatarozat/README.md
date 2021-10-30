@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1347-30
 | 2020-06-04 | 2016-1347-30-22.8 | 1718/2016. (XII. 5.) Korm. határozat |
 | 2020-12-18 | 2016-1347-30-22.9 | 1718/2016. (XII. 5.) Korm. határozat |
 | 2021-03-11 | 2016-1347-30-22.10 | 1718/2016. (XII. 5.) Korm. határozat |
+| 2021-10-30 | 2016-1347-30-22.11 | 1718/2016. (XII. 5.) Korm. határozat |
