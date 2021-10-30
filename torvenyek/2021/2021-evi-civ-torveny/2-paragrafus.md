@@ -1,9 +1,1 @@
-2. § (1) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 20/H. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Integrációs Szervezet – a hitelintézetek integrációja céljainak megvalósulása érdekében – köteles vagyonát az Integrációs Szervezet tagja felett ellenőrző befolyást gyakorló, tagállami pénzügyi holding társaság anyavállalat által kibocsátásra kerülő, húszéves lejáratú és az Államadósság Kezelő Központ Zártkörűen Működő Részvénytársaság honlapján közzétett állampapír-átlaghozamnak megfelelő kamatozású kötvényekbe fektetni 2022. január 31. napjáig azzal, hogy a tagállami pénzügyi holding társaság anyavállalat az Integrációs Szervezet e rendelkezésen alapuló megkeresésében meghatározott értéken köteles a kötvények kibocsátására.”
-
-(2) A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 20/H. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) Az Integrációs Szervezet tagja, illetve az Integrációs Szervezet tagjában közvetlen vagy közvetett befolyásoló részesedéssel rendelkező személyek – a hitelintézetek integrációja piacszerű működésének előmozdítása céljából – kötelesek a (1) bekezdés szerinti ügylet megvalósulása érdekében szükséges döntések, illetve intézkedések meghozatalára.
-
-(4) Az (1) bekezdésben meghatározott tagállami pénzügyi holding társaság anyavállalat az (1) bekezdés szerinti kötvényjegyzésből származó pénzeszközt köteles az (1) bekezdés szerinti ügylet megvalósulásától számított egy éven belül az Integrációs Szervezet hitelintézet tagjai vagy a velük együtt összevont alapú felügyelet alatt álló további hitelintézetek saját tőkéjének növelésére fordítani az Integrációs Szervezet hitelintézet tagjainak és a velük együtt összevont alapú felügyelet alatt álló további hitelintézeteknek az Európai Parlament és a Tanács 575/2013/EU rendelete és a Hpt. szavatoló tőkére vonatkozó rendelkezéseinek való megfelelése biztosítása érdekében.”
+2. §

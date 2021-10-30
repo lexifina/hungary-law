@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-104-00-00
 | --- | --- | --- |
 | 2021-10-29 | 2021. évi CIV. törvény | 2021-104-00-00.0 (közlönyállapot) |
 | 2021-10-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-104-00-00.1 |
+| 2021-10-30 | 2010. évi CXXX. törvény | 2021-104-00-00.2 |
