@@ -1,5 +1,3 @@
-## 1. § A belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet a következő 8. §-sal egészül ki:
+## 1. §[^1]
 
-## „8. § (1) Az Országos Kórházi Főigazgatóság nemzetbiztonsági ellenőrzés alá eső munkaköreinek meghatározásával, valamint a Készenléti Rendőrség objektumvédelmi tevékenységével összefüggésben a belügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 15/2015. (IV. 10.) BM rendelet módosításáról szóló 36/2021. (X. 27.) BM rendelet (a továbbiakban: 2. Módr.) hatálybalépésekor a Készenléti Rendőrség Objektumvédelmi Főosztály I. Őrségi Osztály Külgazdasági és Külügyminisztérium Őrségi Alosztályán szolgálatot teljesítő, kockázatmentes biztonsági szakvéleménnyel nem rendelkező rendőr nemzetbiztonsági ellenőrzésének megindítása érdekében a munkáltatói jogkör gyakorlója a biztonsági kérdőív kitöltésének megkezdhetőségéhez szükséges intézkedéseket legkésőbb a 2. Módr. hatálybalépését követő 30 napon belül köteles megtenni.
-
-## (2) A 2. Módr. hatálybalépését megelőzően nemzetbiztonsági ellenőrzés alá eső személynek nem minősülő rendőr jogviszonya a nemzetbiztonsági ellenőrzés lefolytatásához szükséges időtartam alatt – a biztonsági szakvélemény elkészültének és vele való közlésének időtartamáig – érvényes szakvélemény hiányában is fenntartható, a szolgálati feladatait elláthatja.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
