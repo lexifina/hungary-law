@@ -10,4 +10,6 @@ Határidő: 2021. november 30.
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat C:14a. mezőjében a „Nemzeti Népegészségügyi Központ (konzorciumvezető), Állami Egészségügyi Ellátó Központ, Semmelweis Egyetem, Nemzeti Egészségbiztosítási Alapkezelő, NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „Nemzeti Népegészségügyi Központ (konzorciumvezető), Országos Kórházi Főigazgatóság, Semmelweis Egyetem, Nemzeti Egészségbiztosítási Alapkezelő, NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, IdomSoft Informatikai Zártkörűen Működő Részvénytársaság” szöveg lép.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
