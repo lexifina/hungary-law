@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-592-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-10-30 | 2021-592-20-22.1 | 592/2021. (X. 27.) Korm. rendelet |
+| 2021-10-31 | 2021-592-20-22.2 | 2010: CXXX. törvény |
