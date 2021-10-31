@@ -1,5 +1,0 @@
-## 4. § A 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet (a továbbiakban: R2.) 1. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-## [Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek]
-
-## „b) a Beruházáshoz közvetlenül kapcsolódó – az (1) bekezdés szerinti létesítmény megközelítését és működését segítő – magasépítési, mélyépítési, aluljáró- és állomásépítési, közterület- és zöldfelület-rendezési, útépítési, parkolóépítési, műtárgyépítési, járdaépítési közműcsatlakozási, közmű-átalakítási és -fejlesztési, valamint azokkal közvetlenül összefüggő munkákra vonatkoznak.”
