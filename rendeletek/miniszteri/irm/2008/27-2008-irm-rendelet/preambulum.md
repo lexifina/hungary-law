@@ -1,1 +1,0 @@
-A bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (2) bekezdés o) pontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § h) pontjában kapott feladatkörömben eljárva a következőket rendelem el:
