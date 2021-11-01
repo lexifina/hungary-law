@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-101-00-00
 | --- | --- | --- |
 | 2020-10-15 | 2020. évi CI. törvény | 2020-101-00-00.0 (közlönyállapot) |
 | 2020-10-15 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-101-00-00.1 |
+| 2021-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-101-00-00.2 |
