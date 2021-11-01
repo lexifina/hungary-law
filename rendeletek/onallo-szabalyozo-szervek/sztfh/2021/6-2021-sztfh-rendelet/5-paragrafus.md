@@ -1,0 +1,1 @@
+## 4. § Az adóvégrehajtási ügyek és a közigazgatási végrehajtási ügyek foganatosítására az állami és önkormányzati adóhatóság a Vht. szerinti illetékességi szabályok alapján érintett járásbíróság mellé kinevezett bármely önálló végrehajtóval szerződést köthet.
