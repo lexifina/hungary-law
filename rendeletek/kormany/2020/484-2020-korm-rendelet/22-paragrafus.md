@@ -2,7 +2,7 @@
 
 22. §[^90] (1) Az e rendeletben meghatározott védelmi intézkedések betartását a rendőrség a 20. § (2) bekezdés b) pontjára figyelemmel a Magyar Honvédség közreműködésével ellenőrzi.
 
-(2)[^91] Ha a rendőrség az ellenőrzés során, vagy a rendőrség a katona értesítése alapján a 6. § (2b) bekezdése, a 6/A. § (4) bekezdése, a 6/C. § (5) és (7) bekezdése, a 6/E. § (5) bekezdése, illetve a 7. § szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
+(2)[^91] Ha a rendőrség az ellenőrzés során, vagy a rendőrség a katona értesítése alapján a 2. § (4)–(7) bekezdése, a 6. § (2b) bekezdése, a 6/A. § (4) bekezdése, a 6/C. § (5) és (7) bekezdése, a 6/E. § (5) bekezdése, illetve a 7. § szerinti kötelezettség megszegéséről szerez tudomást, a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 38/B. §-ától eltérően
 
 a) 100 000 forinttól 1 000 000 forintig terjedő bírságot szabhat ki,
 
@@ -42,7 +42,7 @@ b) a Budapest Liszt Ferenc Nemzetközi Repülőtéren a Repülőtéri Rendőr Ig
 
 [^89]: A 13. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
 [^90]: A 22. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja.
-[^91]: A 22. § (2) bekezdése a 365/2021. (VI. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^91]: A 22. § (2) bekezdése a 365/2021. (VI. 30.) Korm. rendelet 3. §-ával megállapított, nyitó szövegrésze az 597/2021. (X. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^92]: A 22. § (2a) bekezdését újonnan a 215/2021. (IV. 30.) Korm. rendelet 2. §-a iktatta be, szövege a 365/2021. (VI. 30.) Korm. rendelet 3. §-ával megálalpított szöveg.
 [^93]: A 22. § (2b) bekezdését a 28/2021. (I. 29.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § c) pontja.
 [^94]: A 22. § (3) bekezdése a 215/2021. (IV. 30.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.

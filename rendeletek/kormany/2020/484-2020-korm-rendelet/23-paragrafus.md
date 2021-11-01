@@ -2,7 +2,7 @@
 
 23. §[^101] (1) A Szabstv. 1. § (1) bekezdésétől eltérően szabálysértést követ el, aki
 
-a)[^102] a 6/B. § (3) és (4) bekezdésében, a 6/C. § (2) bekezdés b) pontjában, illetve a 6/C. § (3) bekezdésében
+a)[^102] a 2. § (1) bekezdése, a 6/B. § (3) és (4) bekezdésében, a 6/C. § (2) bekezdés b) pontjában, illetve a 6/C. § (3) bekezdésében
 
 b)[^103]
 
@@ -20,7 +20,7 @@ b)[^104]
 
 [^100]: A 22/B. §-t a 28/2021. (I. 29.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 175/2021. (IV. 15.) Korm. rendelet 5. § g) pontja.
 [^101]: A 23. § hatályát az 505/2020. (XI. 17.) Korm. rendelet 1. § c) pontja a koronavírus-világjárvány második hulláma elleni védekezésről szóló 2020. évi CIX. törvény hatályvesztéséig meghosszabbítja. A 23. § a 28/2021. (I. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^102]: A 23. § (1) bekezdés a) pontja a 365/2021. (VI. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^102]: A 23. § (1) bekezdés a) pontja a 365/2021. (VI. 30.) Korm. rendelet 4. §-ával megállapított, az 597/2021. (X. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^103]: A 23. § (1) bekezdés b) pontját a 175/2021. (IV. 15.) Korm. rendelet 5. § h) pontja hatályon kívül helyezte.
 [^104]: A 23. § (2) bekezdés b) pontját a 175/2021. (IV. 15.) Korm. rendelet 5. § i) pontja hatályon kívül helyezte.
 [^105]: A 23. § (4) bekezdését a 175/2021. (IV. 15.) Korm. rendelet 5. § j) pontja hatályon kívül helyezte.

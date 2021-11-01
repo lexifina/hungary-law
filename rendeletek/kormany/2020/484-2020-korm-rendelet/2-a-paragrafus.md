@@ -1,5 +1,3 @@
-## 2. §[^5]
-
 ## 1/A. [^6] A védettségi igazolvány használatának és a jogosultság igazolásának általános szabályai
 
 2/A. § (1) E rendelet alkalmazásában koronavírus ellen védett személy az, aki ezt a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet szerinti hatósági igazolvány (a továbbiakban: védettségi igazolvány) bemutatásával igazolja.
@@ -40,7 +38,6 @@ b) a koronavírus által okozott megbetegedésen (a továbbiakban: fertőzés) �
 
 (13)[^13] A koronavírus elleni védettség (11) bekezdés szerinti igazolása során az érintett személyazonosság igazolására alkalmas hatósági igazolvány bemutatására külön is felhívható, a digitális Covid-igazolványt ellenőrző szerv vagy személy jogosult az érintett személyazonosság igazolására alkalmas hatósági igazolványán és a digitális Covid-igazolványában jelzett adatok megismerésére, azzal, hogy az adatokat – ha törvény vagy a veszélyhelyzetben az Alaptörvény 53. cikk (2) bekezdése alapján alkotott kormányrendelet eltérően nem rendelkezik – semmilyen módon nem rögzítheti.
 
-[^5]: A 2. §-t a 365/2021. (VI. 30.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
 [^6]: Az 1/A. alcímet (2/A. §) a 194/2021. (IV. 26.) Korm. rendelet 1. §-a iktatta be. [E módosító rendelet 17. § (1) bekezdése alapján a négymilliomodik COVID-19 elleni oltóanyaggal történő védőoltás első dózisa beadásának napját követő napon lép hatályba. A 3/2021. (IV. 30.) BM határozat alapján a hatálybalépés napja 2021. május 1.] Az 1/A. alcím hatályát a 271/2021. (V. 21.) Korm. rendelet 1. § 2. pontja meghosszabbította a 2021. évi őszi országgyűlési időszak első ülésnapját követő 15. napig.
 [^7]: A 2/A. § (7) bekezdése a 266/2021. (V. 21.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^8]: A 2/A. § (8) bekezdését a 266/2021. (V. 21.) Korm. rendelet 2. §-a iktatta be.
