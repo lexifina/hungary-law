@@ -1,0 +1,1 @@
+## 2. § Ha a végrehajtási eljárást ugyanazon végrehajtható okirat alapján több végrehajtást kérő javára kell lefolytatni, a munkadíjat és a költségtérítést a végrehajtást kérők az érdekeltségük arányában – ha ez nem állapítható meg, egyetemlegesen – kötelesek az eljárás kezdetén a 18–22. § szerint megfizetni.

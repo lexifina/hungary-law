@@ -1,0 +1,1 @@
+## 25. § A végrehajtó részére megfizetendő másolati költségtérítés összege – ha a másolatot nem bíróság vagy bírósági végrehajtó részére kell készíteni – oldalanként 50 forint, az adatok törlésével készült másolat esetében oldalanként 200 forint.

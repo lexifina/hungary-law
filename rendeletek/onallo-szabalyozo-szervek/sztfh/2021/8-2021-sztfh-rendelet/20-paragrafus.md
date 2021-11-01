@@ -1,0 +1,3 @@
+20. § (1) A végrehajtói kézbesítés munkadíját és költségátalányát a kérelmezőnek külön költségfelhívás nélkül, a kézbesítés iránti kérelem előterjesztésével együtt kell megfizetnie.
+
+(2) Ha a kézbesítendő fizetési meghagyást a végrehajtó a Kar hivatali szerve által működtetett, a kézbesítendő okiratok végrehajtók részére történő megküldésére szolgáló informatikai alkalmazása útján kézhez vette, a kézbesítés foganatosításának megkezdése szempontjából úgy kell tekintenie, hogy a kézbesítés díja megfizetésre került. A kézbesítések díját a Magyar Országos Közjegyzői Kamara – havonta összesítetten – átutalja a Kar hivatali szerve részére, amely gondoskodik az eljáró végrehajtó elszámolási számlájára való átutalásáról.
