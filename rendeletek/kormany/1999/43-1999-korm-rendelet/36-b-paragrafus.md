@@ -1,4 +1,4 @@
-36/B. §[^410] (1) Az aktív fekvőbeteg-szakellátás területén
+36/B. §[^411] (1) Az aktív fekvőbeteg-szakellátás területén
 
 a) a 4000 kardiológia szakma II. és III. progresszivitási szintjén,
 
@@ -14,4 +14,4 @@ szakmaspecifikus őrzőt működtető egészségügyi szolgáltató 600 000 Ft h
 
 (3) Az (1) bekezdés szerinti díjazás fedezetére az 5. számú melléklet szerinti összevont szakellátás előirányzata szolgál.
 
-[^410]: A 36/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^411]: A 36/B. §-t a 697/2020. (XII. 29.) Korm. rendelet 19. §-a iktatta be.

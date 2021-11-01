@@ -1,3 +1,3 @@
-28/B. §[^318]
+28/B. §[^319]
 
-[^318]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § c) pontja.
+[^319]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § c) pontja.

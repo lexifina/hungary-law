@@ -1,3 +1,3 @@
-65. §[^540]
+65. §[^541]
 
-[^540]: A 65. §-t a 259/2012. (IX. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § h) pontja.
+[^541]: A 65. §-t a 259/2012. (IX. 14.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § h) pontja.

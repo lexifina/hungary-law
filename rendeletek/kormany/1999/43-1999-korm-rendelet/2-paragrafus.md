@@ -46,6 +46,8 @@ s)[^19]
 
 t)[^20] tervezett éves keret: önálló elszámolási tételként elszámolható, jogszabályban meghatározott szolgáltatási egységek teljesítményértékeinek mennyisége, amelyre a szakellátást nyújtó egészségügyi szolgáltató a jelen rendeletben foglalt szabályok szerint jogosult.
 
+u)[^21] krónikus obstruktív tüdőbetegség esetfinanszírozási program: a krónikus obstruktív tüdőbetegségben szenvedő betegek ellátásának finanszírozási eljárásrendjét megalapozó ellátási program.
+
 [^2]: Az 1. § a 365/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 34. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § b) pontja a 293/2002. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^4]: A 2. § c) pontja a 137/2012. (VI. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
@@ -65,3 +67,4 @@ t)[^20] tervezett éves keret: önálló elszámolási tételként elszámolhat�
 [^18]: A 2. § r) pontját a 227/2011. (X. 28.) Korm. rendelet 1. §-a iktatta be.
 [^19]: A 2. § s) pontját az 507/2017. (XII. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § a) pontja.
 [^20]: A 2. § t) pontját a 697/2020. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^21]: A 2. § u) pontját a 601/2021. (X. 29.) Korm. rendelet 1. §-a iktatta be.

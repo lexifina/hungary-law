@@ -1,6 +1,6 @@
-## Tervezett éves keret módosítása[^298]
+## Tervezett éves keret módosítása[^299]
 
-27/A. §[^299] (1) A 27. § szerinti tervezett éves keretet módosítani kell:
+27/A. §[^300] (1) A 27. § szerinti tervezett éves keretet módosítani kell:
 
 a) az Eftv. és az Eftv. vhr. alapján engedélyezett, ellátási forma megváltozásával járó kapacitásátcsoportosítás esetén a kapacitásegységre jutó szakma szerinti országos átlag figyelembevételével,
 
@@ -44,5 +44,5 @@ b) az átcsoportosítással az adott egészségügyi szolgáltató érvényes fi
 
 (13) Ha a (12) bekezdés szerinti átcsoportosítással érintett, állami tulajdonban lévő egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, az állami tulajdonban lévő szolgáltatók közötti tervezett éves keret átcsoportosítást az egészségügyért felelős miniszter kezdeményezheti. Ha az átcsoportosítással érintett egészségügyi szolgáltatók valamelyikének tekintetében a fenntartói jogokat más gyakorolja, az állami tulajdonban lévő szolgáltatók közötti átcsoportosítást az egészségügyért felelős miniszter és a fenntartó közösen kezdeményezheti.
 
-[^298]: A „Tervezett éves keret módosítása” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
-[^299]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 697/2020. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^299]: A „Tervezett éves keret módosítása” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^300]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 697/2020. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
