@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-4-20-0B
 | 2021-02-24 | 2000-4-20-0B.36 | 9/2021. (II. 23.) EMMI rendelet |
 | 2021-03-06 | 2000-4-20-0B.37 | 10/2021. (III. 5.) EMMI rendelet |
 | 2021-07-02 | 2000-4-20-0B.38 | 27/2021. (VI. 29.) EMMI rendelet |
+| 2021-11-01 | 2000-4-20-0B.39 | 46/2021. (X. 29.) EMMI rendelet |
