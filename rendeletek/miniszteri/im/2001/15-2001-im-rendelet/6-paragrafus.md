@@ -1,1 +1,0 @@
-## 5. § A közreműködő részére nem jár költségtérítés, ha az a szerv, amelynek a közreműködő a tagja, illetőleg alkalmazottja vagy megbízottja, költségét kiküldetési költségként vagy más módon megtéríti.
