@@ -1,0 +1,1 @@
+## 5. § Az elektronikus kijelölést segítő program a 3. és 4. § szerinti műveleteket, azok minden adatát és a kijelölési művelet pontos időpontját is naplózza, és naplózás adatait 3 évig megőrzi. A naplózás adatairól jogi érdek igazolása esetén lehet tájékoztatást kérni az üzemeltetőtől.

@@ -1,0 +1,1 @@
+## 4. § A 3. §-ban foglaltaktól eltérően, ha egy adós gazdálkodó szervezet ellen több felszámolási eljárást kezdeményeznek, azt a felszámolót ajánlja fel az elektronikus kijelölést segítő program a többi felszámolási eljárásban is, amelyet a legkorábbi időpontban jelölt ki a bíróság, kivéve, ha ez a felszámoló gazdasági társaság már nem szerepel a felszámolók névjegyzékében.
