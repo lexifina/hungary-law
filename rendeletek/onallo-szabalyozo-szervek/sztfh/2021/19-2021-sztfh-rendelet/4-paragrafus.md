@@ -1,0 +1,1 @@
+## 3. § A szerencsejáték-felügyeleti hatóság a szerencsejáték-szervező tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi, hogy a szerencsejáték-szervezővel, a szerencsejáték-szervező tényleges tulajdonosával, vezető tisztségviselőjével, illetve tagjával szemben fennáll-e az Szjtv.-ben meghatározott kizáró ok.
