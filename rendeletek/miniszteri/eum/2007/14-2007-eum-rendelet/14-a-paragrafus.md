@@ -1,9 +1,7 @@
 ## kell alkalmazni.
 
-14/A. §[^117] (1) A NEAK közleményében meghatározott gyógyászati segédeszköz az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet szerinti elektronikus vényen is rendelhető a beteg kérésére.
+14/A. §[^129] (1) Ha az orvos a 13. § (1) bekezdése szerinti gyógyászati segédeszközt a 13. § (1b) bekezdés a) pontja alapján papíralapú vényen rendelte, a gyógyászati segédeszközt kiadó forgalmazó a gyógyászati segédeszköz kiadásakor az EESZT vénynyilvántartásában a papíralapú vény 13. § (3) bekezdése szerinti adatai közül a beteg születési dátumát, TAJ számát, vagy ennek hiányában más, személyazonosság igazolására alkalmas hatósági igazolványa okmányazonosítóját, a felíró orvos alapnyilvántartási számát, a vény NEAK által előre nyomtatott vonalkódjának számát, az egészségügyi szolgáltató 9 jegyű azonosítóját, valamint a vény tartalmát köteles rögzíteni.
 
-(2) A gyógyászati segédeszköznek az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény szerinti Elektronikus Egészségügyi Szolgáltatási Térhez csatlakozásra kötelezett kiszolgálója az (1) bekezdés szerinti elektronikus vényre a gyógyászati segédeszközt kiadja. A kiadás során a gyógyszerek elektronikus vényen történő kiadására vonatkozó jogszabályi előírásokat megfelelően alkalmazni kell.
+(2) Az adatok rögzítésére vonatkozó kötelezettségeket az EESZT bármilyen okból történő elérhetetlensége esetén a hozzáférés helyreállítását követően, soron kívül kell teljesíteni.
 
-(3) A NEAK az (1) bekezdés szerinti közleményét a honlapján és az egészségügyért felelős miniszter által vezetett minisztérium hivatalos lapjában közzéteszi.
-
-[^117]: A 14/A. §-t a 15/2020. (IV. 28.) EMMI rendelet 1. §-a iktatta be.
+[^129]: A 14/A. §-t a 15/2020. (IV. 28.) EMMI rendelet 1. §-a iktatta be, szövege a 32/2021. (VII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.

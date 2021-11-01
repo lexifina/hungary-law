@@ -18,7 +18,7 @@ a) a beteg egészségi, illetve testi állapotában bekövetkezett változás �
 
 b)[^64]
 
-(6a)[^65] A (6) bekezdés a) pontja szerinti állapotváltozás, illetve méretváltozás tényét, okát és mértékét rögzíteni kell a beteg egészségügyi dokumentációjában és a vény hátoldalán.
+(6a)[^65] A (6) bekezdés a) pontja szerinti állapotváltozás és méretváltozás tényét, okát és mértékét rögzíteni kell a beteg egészségügyi dokumentációjában és az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény szerinti Elektronikus Egészségügyi Szolgáltatási Tér (a továbbiakban: EESZT) útján rendelt vény esetén az EESZT-ben, papíralapú vény esetén pedig a vény hátoldalán.
 
 (6b)[^66] A (6) bekezdés a) pontjában foglaltaktól eltérően nem rendelhető a gyógyászati segédeszköz kihordási idejének letelte előtt társadalombiztosítási támogatással ismét az azonos rendeltetésű gyógyászati segédeszköz csoportba tartozó gyógyászati segédeszköz, ha az állapot változásának megfelelően az egyedi méretvétel alapján gyártott eszköz eredeti funkciója alkatrész cserével helyreállítható és ahhoz a biztosított az Ebtv. 26. § (1) bekezdés e) pontja alapján méltányosságból támogatásban részesült vagy méltányossági kérelmet nem nyújtott be.
 
@@ -38,7 +38,7 @@ b)[^64]
 [^62]: A 12. § (5a) bekezdését a 37/2016. (XII. 15.) EMMI rendelet 5. § (1) bekezdése iktatta be.
 [^63]: A 12. § (6) bekezdése a 74/2011. (XII. 29.) NEFMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^64]: A 12. § (6) bekezdés b) pontját a 31/2012. (X. 8.) EMMI rendelet 10. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^65]: A 12. § (6a) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 1. § (2) bekezdése iktatta be.
+[^65]: A 12. § (6a) bekezdését a 74/2011. (XII. 29.) NEFMI rendelet 1. § (2) bekezdése iktatta be, szövege a 32/2021. (VII. 29.) EMMI rendelet 2. §-ával megállapított szöveg.
 [^66]: A 12. § (6b) bekezdését az 57/2012. (XII. 29.) EMMI rendelet 7. § (1) bekezdése iktatta be, szövege az 53/2013. (VII. 19.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^67]: A 12. § (7) bekezdését a 7/2016. (III. 30.) EMMI rendelet 16. § a) pontja hatályon kívül helyezte.
 [^68]: A 12. § (8) bekezdését a 47/2015. (X. 19.) EMMI rendelet 32. § c) pontja hatályon kívül helyezte.

@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2020-11-25 | 2007-14-20-0B.51 | 23/2020. (VI. 26.) EMMI rendelet |
 | 2021-08-01 | 2007-14-20-0B.52 | 34/2010. (V. 14.) EüM rendelet |
 | 2021-08-17 | 2007-14-20-0B.53 | 34/2010. (V. 14.) EüM rendelet |
+| 2021-11-01 | 2007-14-20-0B.54 | 32/2021. (VII. 29.) EMMI rendelet |
