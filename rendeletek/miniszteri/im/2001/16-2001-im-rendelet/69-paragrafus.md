@@ -1,1 +1,0 @@
-## 68. § Az árverési csarnok vezetője köteles megfelelő intézkedést tenni annak érdekében, hogy az árverésre kerülő ingóságokat az árverezni kívánók megtekinthessék, és becsértékükről (a kikiáltási árról) tájékozódhassanak.

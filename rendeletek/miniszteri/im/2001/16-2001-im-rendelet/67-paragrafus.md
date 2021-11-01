@@ -1,1 +1,0 @@
-## Az árverési csarnok működése

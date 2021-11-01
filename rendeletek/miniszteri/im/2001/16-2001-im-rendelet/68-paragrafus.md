@@ -1,1 +1,0 @@
-## 67. § A lefoglalt ingóságoknak az árverési csarnokba való szállítását – az ügyben eljáró végrehajtó irányítása és felelőssége mellett – az árverési csarnok alkalmazottai, illetőleg más szervek és személyek is elvégezhetik.

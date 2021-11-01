@@ -1,9 +1,0 @@
-## 19. § A bírósági végrehajtói szakvizsga és a bírósági végrehajtási ügyintézői vizsga (a továbbiakban együtt: szakvizsga) célja, hogy a szakvizsgára jelentkező személy (a továbbiakban: jelölt) számot adjon a bírósági végrehajtói, illetőleg a bírósági végrehajtási ügyintézői feladatkör ellátásához szükséges elméleti ismereteiről, gyakorlati szaktudásáról és jogalkalmazási készségéről.
-
-## Felkészülés a szakvizsgára
-
-20. § (1) A jelöltnek a szakvizsgára való felkészülését segíteni kötelesek azok a személyek és szervek, akiknél, illetőleg amelyeknél a jelölt a végrehajtási szakmai gyakorlat (a továbbiakban: szakmai gyakorlat) megszerzése céljából tevékenykedik.
-
-(2)[^76] A szakvizsgára való felkészülést elősegítő rendszeres oktatásról az igazságügyi alkalmazottak esetén a törvényszék elnöke, az önálló végrehajtójelöltek esetén az Igazságügyi Szolgálatok Jogakadémiája (a továbbiakban: Jogakadémia) gondoskodik.
-
-[^76]: A 20. § (2) bekezdése a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 17. pontja, a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés a) pontja szerint módosított szöveg.
