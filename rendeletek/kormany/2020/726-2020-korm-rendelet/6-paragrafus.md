@@ -4,4 +4,6 @@
 
 (3) A járási hivatal az átadott címkék sorszámához rögzíti a kereskedő azonosító adatait.
 
-(4) A kereskedő az átvett címkéket legfeljebb 3 hónapig használhatja fel.
+(4)[^13]
+
+[^13]: A 6. § (4) bekezdését a 490/2021. (VIII. 13.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.

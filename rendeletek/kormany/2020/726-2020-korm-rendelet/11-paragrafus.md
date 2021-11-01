@@ -1,4 +1,4 @@
-## 10. § A fogyasztóvédelemről szóló 1997. évi CLV. törvény 45/A. § (2) bekezdésével összhangban a fogyasztóvédelmi hatóság ellenőrzi a 8. §-ban meghatározott rendelkezések betartását, és eljár azok megsértése esetén, valamint a törvényben meghatározott szankciókat alkalmazhatja.
+## 10/A. §[^26] A BFKH az e rendeletben meghatározott feladatokkal összefüggésben – a 2. alcímben foglaltak kivételével – ellenőrzést végezhet.
 
 ## 6. Tanúsító szervezet és a tanúsítási eljárás
 
@@ -61,3 +61,5 @@ q) megfelelő szintű fizikailag védett környezetet biztosítanak a rendszer s
 r) a szervezet detektálja és kezeli az egyes biztonsági eseményeket;
 
 s) a rendszer üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
+
+[^26]: A 10/A. §-t a 490/2021. (VIII. 13.) Korm. rendelet 12. §-a iktatta be.
