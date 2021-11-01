@@ -1,4 +1,4 @@
-## A védőnői dokumentumok jegyzéke[^40]
+## A védőnői dokumentumok jegyzéke[^41]
 
 ## – Védőnői családgondozási törzslap
 
@@ -52,53 +52,7 @@
 
 ## * A 2009. szeptember 1-je után született gyermekek esetében.
 
-8. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^41]
+8. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^42]
 
-A védőnői családgondozási törzslap tartalmi követelményei
-
-A családgondozási törzslap tartalmazza:
-
-– a családi adatlapot,
-
-– a nővédelemi,
-
-– a várandós anya,
-
-– a gyermekágyas,
-
-– a gyermek (újszülött kortól a tanulói jogviszony megkezdéséig) gondozási lapját.
-
-A családi adatlap tartalmi követelményei: családtagok személyi adatai, családi anamnézis.
-
-A védőnői gondozási lapok tartalmi követelményei:
-
-– személyi adatok,
-
-– anamnézis,
-
-– szűrővizsgálatok/státus vizsgálatok,
-
-– védőoltások adatai,
-
-– fokozott gondozásba vétel adatai,
-
-– védőnői látogatások, tanácsadások, intézkedések dokumentációja,
-
-– a gondozott háziorvosának/házi gyermekorvosának neve, elérhetősége.
-
-A védőnő a családgondozási törzslap helyett eseti nyilvántartást vezet azokról a gondozottakról, akik nála eseti ellátást igényelnek.
-
-A védőnői eseti nyilvántartás tartalmazza:
-
-– a gondozott és az eltartója személyi adatait (név, születési hely, idő),
-
-– a gondozott
-
-= lakóhelyét és az ellátás idején tartózkodási helyét,
-
-= állampolgárságát,
-
-= a védőnői ellátás okát, időpontját, ellátás módját és a védőnő további intézkedését.
-
-[^40]: A nyomtatványok számítógépen is vezethetők. A 7. számú melléklet címe a 28/2013. (IV. 5.) EMMI rendelet 4. §-a szerint módosított szöveg.
-[^41]: A 8. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (6) bekezdése szerint módosított szöveg.
+[^41]: A nyomtatványok számítógépen is vezethetők. A 7. számú melléklet címe a 28/2013. (IV. 5.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^42]: A 8. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (6) bekezdése szerint módosított szöveg.

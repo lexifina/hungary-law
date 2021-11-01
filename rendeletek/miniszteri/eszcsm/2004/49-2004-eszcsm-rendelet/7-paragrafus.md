@@ -1,3 +1,3 @@
-## 6/A. §[^25] A védőnői tevékenység szakmai irányításának támogatását a területileg illetékes kórházakban foglalkoztatott kollegiális védőnői mentorok végzik.
+## 6/B. §[^26] A kollegiális védőnői mentorrendszer működésével összefüggő rendelkezéseket a 9. számú melléklet tartalmazza.
 
-[^25]: A 6/A. §-t a 14/2021. (III. 24.) EMMI rendelet 2. §-a iktatta be.
+[^26]: A 6/B. §-t a 46/2021. (X. 29.) EMMI rendelet 3. §-a iktatta be.
