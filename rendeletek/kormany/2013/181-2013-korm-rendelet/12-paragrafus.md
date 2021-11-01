@@ -1,1 +1,0 @@
-## 10. Egyéb rendelkezések
