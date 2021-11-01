@@ -1,3 +1,7 @@
-## 14. §[^14]
+## lép.
 
-[^14]: A 14. § a 16. § (2) bekezdése alapján 2021. november 1-jén lép hatályba.
+## 15. § Hatályát veszti az R.
+
+a) 1. § 8. pontja,
+
+b) 6. § (4) bekezdése.

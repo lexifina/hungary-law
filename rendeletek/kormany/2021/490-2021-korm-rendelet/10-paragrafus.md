@@ -1,3 +1,3 @@
-## 9. §[^9]
+## 9. § Az R. 8. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^9]: A 9. § a 16. § (2) bekezdése alapján 2021. november 1-jén lép hatályba.
+## „(5) A jótállási vagy szavatossági jogok gyakorlása esetén a kereskedő a fogyasztótól csak a sértetlen fedőréteggel ellátott címkét veheti át.”

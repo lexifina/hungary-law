@@ -1,3 +1,3 @@
-## 6. §[^6]
+## 6. § Az R. 5. §-a a következő (3) bekezdéssel egészül ki:
 
-[^6]: A 6. § a 16. § (2) bekezdése alapján 2021. november 1-jén lép hatályba.
+## „(3) A Kormány a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 134. § (18) bekezdésében meghatározott közszolgáltatási szerződés NMHH-val történő megkötésére a BFKH-t jelöli ki.”
