@@ -1,1 +1,0 @@
-## 26. § Az árverezők elektronikus nyilvántartásába történő bejegyzés díja 6000 forint, a nyilvántartásban szereplő adatok módosításának díja 3000 forint, a nyilvántartásból történő törlés és a nyilvántartásba tévesen bejegyzett adatok módosítása díjmentes.

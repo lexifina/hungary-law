@@ -1,1 +1,0 @@
-## 24. § Közös tulajdonban lévő ingatlan végrehajtási értékesítése esetén a nem adós tulajdonostárs részére járó vételárból a nem adós tulajdonostárs tulajdoni hányadának értékesítéséért járó végrehajtási költségként a vételárrész 2%-ának megfelelő összeg vonható le.
