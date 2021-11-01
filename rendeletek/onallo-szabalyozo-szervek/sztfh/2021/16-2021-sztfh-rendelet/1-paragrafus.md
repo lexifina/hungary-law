@@ -1,0 +1,7 @@
+1. § (1) A felszámolót – a csődeljárásról és felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 49/D. §-a szerinti értékesítésből, továbbá a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből – megillető díjat (megnövelve a díjat terhelő általános forgalmi adó összegével megegyező összeggel) az adós pénzügyi intézménynél vezetett számláján elkülönítve kell vezetni, és azt a felszámolónak a felszámolási eljárás során a Cstv. 50. §-ában meghatározott közbenső mérlegben, illetve a felszámolási eljárás befejezésekor a Cstv. 52. §-ában meghatározott felszámolási zárómérlegben – a Cstv. 50. § (1) bekezdésében foglaltak figyelembevételével – külön is ki kell mutatnia.
+
+(2) A közbenső mérlegnek és a felszámolási zárómérlegnek tartalmaznia kell a befolyt vételárnak a zálogjogosult hitelező részére – a zálogjoggal biztosított követelésének kielégítésére – még ki nem fizetett összegét.
+
+(3) A bíróság – a Cstv. 49/D. § (2) bekezdése szerinti díjelőleg figyelembevételével – a közbenső mérlegről (felszámolási zárómérlegről) hozott végzésében rendelkezik arról is, hogy a díjat – kiegészítve az azt terhelő általános forgalmi adó összegével megegyező összeggel – a felszámoló jogosult közvetlenül az adós pénzügyi intézménynél vezetett számlájával szemben érvényesíteni.
+
+(4) A felszámoló számára a Cstv. 59–60. §-a alapján ténylegesen kifizethető díjat a Cstv. 49/D. §-a szerint már érvényesített díjelőleggel csökkentett összegben kell megállapítani.
