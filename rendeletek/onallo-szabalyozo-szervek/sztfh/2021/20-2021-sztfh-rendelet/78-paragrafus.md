@@ -1,0 +1,5 @@
+## 77. § Ez a rendelet 2021. november 1-jén lép hatályba.
+
+78. § (1) Az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló 32/2005. (X. 21.) PM rendelet módosításáról szóló 12/2021. (VII. 30.) NVTNM rendelet hatálybalépését megelőzően már engedélyezett sorsjegysorozat tekintetében a szerencsejáték-felügyeleti hatóság a játékterv-módosítás jóváhagyásával engedélyezheti, hogy a szervező a nyeremény kifizetés helyét és idejét a részvételi szabályzatban a sorsjegyen feltüntetett tájékoztatástól eltérően szabályozza, ha egyes értékesítőhelyeken a nyeremény kifizetése kizárt vagy nem biztosított. A játékosok nyeremény-kifizetéssel kapcsolatos megfelelő tájékoztatása ezeken a sorsjegyértékesítő-helyszíneken a sorsjegy értékesítése során jól látható hirdetményben és a szerencsejáték-szervező honlapján elérhető részvételi szabályzatban is kötelező.
+
+(2) Az (1) bekezdés szerinti játékterv-módosítás iránti kérelem elbírálása során a 13. § (8) és (9) bekezdésében foglaltak is alkalmazandóak.

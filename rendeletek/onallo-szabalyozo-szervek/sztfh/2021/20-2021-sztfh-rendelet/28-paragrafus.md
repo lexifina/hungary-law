@@ -1,0 +1,3 @@
+28. § (1) Ha a játékos a szerencsejáték szervezésre használt honlapra történő utolsó bejelentkezése óta két év eltelt, és a játékos nem áll önkizárás hatálya alatt, a szervező a játékos előzetes, elektronikus levélben közölt értesítésével és tiltakozásának elmaradása esetén játékost a játékban való további részvételből kizárhatja. Kizárás esetén a szervező a játékossal a 27. § (2) bekezdésében meghatározottak szerint számol el és szünteti meg a játékos nyilvántartási adatainak játékos általi közvetlen elérhetőségét.
+
+(2) A szervező az előzetes, elektronikus levélben közölt értesítésben legalább 10 napos határidőt biztosít a játékosnak a nyilatkozattételre.

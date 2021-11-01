@@ -1,0 +1,7 @@
+## 18. Adatszolgáltatás
+
+32. § (1) A távszerencsejáték és az online kaszinójáték szervező az Szjtv.-ben előírt rendszeres adatszolgáltatás keretében a 3. mellékletben foglalt adatokat köteles a szerencsejáték-felügyeleti hatóság rendelkezésére bocsátani.
+
+(2) A 25. § (1) bekezdése szerinti közös játékosi egyenleg esetén a 3. melléklet I. pont a)–d), i)–l) és n) alpontjában megjelölt adatokat a közös játékosi egyenlegre vonatkoztatva kell megadni.
+
+(3) Az adatszolgáltatás részletes formai és technikai feltételeit a szerencsejáték-felügyeleti hatóság által kiadott feltételrendszer tartalmazza.
