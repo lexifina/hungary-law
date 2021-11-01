@@ -4,8 +4,17 @@
 
 21. § (1)[^21]
 
-(2)[^22]
+(2) Hatályát veszti
+
+a) a felszámolók névjegyzékéről szóló 114/2006. (V. 12.) Korm. rendelet,
+
+b) a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezési eljárás egyes szabályairól szóló 181/2013. (VI. 7.) Korm. rendelet,
+
+c) az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatásának részletes szabályairól szóló 25/2015. (II. 25.) Korm. rendelet,
+
+d) a felelős játékszervezés részletes szabályairól szóló 329/2015. (XI. 10.) Korm. rendelet és
+
+e) a személyi megfelelőség megállapítására és meghosszabbítására vonatkozó eljárási szabályokról szóló 364/2020. (VII. 23.) Korm. rendelet.
 
 [^20]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^21]: A 21. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 21. § (2) bekezdése a 22. § (2) bekezdése alapján 2021. november 1-jén lép hatályba.
