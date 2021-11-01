@@ -1,5 +1,0 @@
-## V. Fejezet
-
-## BEJELENTÉSKÖTELES JÁTÉKOK
-
-## ÉS JÁTÉKAUTOMATÁK
