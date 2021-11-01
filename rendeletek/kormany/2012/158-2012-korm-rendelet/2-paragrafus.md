@@ -1,1 +1,0 @@
-## 1. § A Kormány e rendelettel felhatalmazást ad a Közép- és Kelet-Európai Regionális Környezetvédelmi Központ jogállásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
