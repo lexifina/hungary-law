@@ -1,0 +1,7 @@
+4. § (1) E rendelet alkalmazása során munkáltató alatt a Kit. személyi állományába tartozók esetén a Kit. 80. § (3) bekezdése szerinti kormányzati igazgatási szervet, a NAV szj.tv. személyi állományában tartozók esetén a Nemzeti Adó- és Vámhivatalt kell érteni.
+
+(2) Abban az esetben, ha a polgármester vagy a főpolgármester az 1. § (2) bekezdése alapján az e rendelet alkalmazását elrendeli,
+
+a) a 2. § (1) bekezdés a) pontjától eltérően a munkáltató határozza meg a védőoltás felvételének határidejét, ami egydózisú oltóanyag esetén a védőoltás, kétdózisú oltóanyag esetén a védőoltás első dózisa tekintetében legalább 45 nap kell, hogy legyen,
+
+b) a 2. § (7) bekezdésének alkalmazásakor a munkáltató által meghatározott határidőt kell figyelembe venni a 2. § (1) bekezdés a) pontja szerinti határidő helyett.
