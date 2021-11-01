@@ -1,5 +1,3 @@
-## 233. §
-
 ## 58. Az elszámolható költségek
 
 234. § (1) Az irányító hatóság a támogatás kifizetését – az előleg kivételével – a kedvezményezettnél a valósköltség-alapú elszámolás elve alapján, a felhívásban meghatározott elszámolható költségek vonatkozásában teljesíti.
