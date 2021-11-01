@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Közép- és Kelet-Európai Regionális Környezetvédelmi Központ közötti Székhely-megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
