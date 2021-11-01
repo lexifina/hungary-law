@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-26-20-3
 | 2013-02-08 | 1997-26-20-3D.12 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2014-04-19 | 1997-26-20-3D.13 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2015-04-29 | 1997-26-20-3D.14 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2021-11-01 | 1997-26-20-3D.15 | 46/2021. (X. 29.) EMMI rendelet |
