@@ -1,5 +1,5 @@
 ## A döntő hatóság intézkedése a kérelem beérkezését követően
 
-35. § (1) A döntő hatóság a kérelem beérkezését követő naptól számított nyolc napon belül dönt arról, hogy a kérelem érdemi elbírálásához szükség van-e arra, hogy a támogató hatóság a kérelmezőt vagy más személyt meghallgasson.
+35. § (1) A döntő hatóság az igazolás beérkezését követő naptól számított nyolc napon belül dönt arról, hogy a kérelem érdemi elbírálásához szükség van-e arra, hogy a támogató hatóság a kérelmezőt vagy más személyt meghallgasson.
 
 (2)
