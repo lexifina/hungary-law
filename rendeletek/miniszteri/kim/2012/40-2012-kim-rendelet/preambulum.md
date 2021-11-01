@@ -1,5 +1,0 @@
-A bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (2) bekezdés o) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva,
-
-a 45. § vonatkozásában a bírósági végrehajtásról szóló 1994. évi LIII. törvény 307. § (2) bekezdés g) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 12. § a) pontjában meghatározott feladatkörömben eljárva
-
-a következőket rendelem el:
