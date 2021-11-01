@@ -1,0 +1,3 @@
+1. § (1) E rendelet célja annak biztosítása, hogy a munkaadók szervezeteinek javaslatára a cégek és vállalkozások jogot kapjanak arra, hogy a munkavégzés feltételeként előírják a SARS-CoV-2 koronavírus elleni védőoltás (a továbbiakban: védőoltás) felvételét a foglalkoztatottak számára, ha ezt szükségesnek látják az ott dolgozók biztonsága érdekében.
+
+(2) Az e rendeletben foglaltakat arra a foglalkoztatottra kell alkalmazni, aki nem tartozik a koronavírus elleni védőoltásnak az állami és önkormányzati intézményeknél foglalkoztatottak által történő kötelező igénybevételéről szóló 599/2021. (X. 28.) Korm. rendelet hatálya alá (a továbbiakban: foglalkoztatott).
