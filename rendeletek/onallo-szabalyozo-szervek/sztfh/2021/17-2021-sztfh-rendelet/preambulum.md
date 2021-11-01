@@ -1,0 +1,1 @@
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 85/A. § f) pontjában kapott felhatalmazás alapján, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § j) és n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
