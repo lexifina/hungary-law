@@ -1,3 +1,3 @@
-## 6. § Az R. 5. §-a a következő (3) bekezdéssel egészül ki:
+## 6. §[^7]
 
-## „(3) A Kormány a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 134. § (18) bekezdésében meghatározott közszolgáltatási szerződés NMHH-val történő megkötésére a BFKH-t jelöli ki.”
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

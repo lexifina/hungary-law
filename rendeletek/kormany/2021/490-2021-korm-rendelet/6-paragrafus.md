@@ -1,3 +1,3 @@
-## 5. § Az R. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^6]
 
-## „(2) Az NMHH sorszám szerint nyilvántartja a BFKH-nak átadott címkéket, illetve az átadott címkékkel kapcsolatban a 7. § (2) bekezdése alapján szolgáltatott adatokat.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

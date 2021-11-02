@@ -1,3 +1,3 @@
-## 12. § Az R. 5. alcíme a következő 10/A. §-sal egészül ki:
+## 12. §[^13]
 
-## „10/A. § A BFKH az e rendeletben meghatározott feladatokkal összefüggésben – a 2. alcímben foglaltak kivételével – ellenőrzést végezhet.”
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

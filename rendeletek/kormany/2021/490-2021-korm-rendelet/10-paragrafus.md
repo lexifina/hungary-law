@@ -1,3 +1,3 @@
-## 9. § Az R. 8. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 9. §[^10]
 
-## „(5) A jótállási vagy szavatossági jogok gyakorlása esetén a kereskedő a fogyasztótól csak a sértetlen fedőréteggel ellátott címkét veheti át.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

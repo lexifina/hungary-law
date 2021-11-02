@@ -1,3 +1,3 @@
-## 1. § Az adatok végleges hozzáférhetetlenné tételét lehetővé tevő alkalmazás biztosításával kapcsolatos eljárási szabályok meghatározásáról szóló 726/2020. (XII. 31.) Korm. rendelet (a továbbiakban: R.) 1. § 1. pontja helyébe a következő rendelkezés lép:
+## 1. §[^2]
 
-## „1. címke: olyan, a fogyasztó számára térítésmentesen biztosított, egyedi sorszámú vonalkóddal és fedőréteggel ellátott adattörlő kódot, valamint a szolgáltatás internetes elérésének helyét megjelölő feliratot tartalmazó matrica, amelynek segítségével a fogyasztó a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) által térítésmentes szolgáltatásnyújtás keretében biztosított adattörlő alkalmazás használatával, egy alkalommal képes a tartós adathordozón teljes körű, visszaállíthatatlan adattörlést végezni;”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

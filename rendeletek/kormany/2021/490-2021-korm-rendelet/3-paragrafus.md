@@ -1,3 +1,3 @@
-## 2. § Az R. 1. § 9. pontja helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „9. adattörlő kód: a címkén található, kriptográfiai úton generált alfanumerikus karaktersorozat, amely az adattörlő alkalmazás fogyasztó által letölthető szoftver komponensének az egyszeri aktiválásához szükséges;”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
