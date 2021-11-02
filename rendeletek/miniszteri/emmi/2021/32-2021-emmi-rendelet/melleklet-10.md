@@ -1,3 +1,3 @@
-10. melléklet a 32/2021. (VII. 29.) EMMI rendelethez[^15]
+10. melléklet a 32/2021. (VII. 29.) EMMI rendelethez[^22]
 
-[^15]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 10. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

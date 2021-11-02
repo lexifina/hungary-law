@@ -1,3 +1,3 @@
-7. melléklet a 32/2021. (VII. 29.) EMMI rendelethez[^12]
+7. melléklet a 32/2021. (VII. 29.) EMMI rendelethez[^19]
 
-[^12]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

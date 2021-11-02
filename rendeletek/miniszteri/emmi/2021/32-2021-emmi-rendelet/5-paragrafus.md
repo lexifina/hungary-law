@@ -1,5 +1,3 @@
-## „(7) Az ellenjegyzés megadását vagy elutasítását az ellenőrző főorvos elektronikus vény esetén az EESZT-ben rögzíti. Papíralapú vény esetén az ellenjegyzés megadását vagy elutasítását a vény hátoldalán fel kell tüntetni a döntést hozó ellenőrző főorvos aláírásával, bélyegzőlenyomatával és dátummal ellátva.
+## 4. §[^5]
 
-## (8) Az ellenjegyzés megadásáról az eszközt rendelő orvost és a beteget tájékoztatni kell, valamint a (7) bekezdésben foglaltaknak megfelelően ellenjegyzett papíralapú vényt az ellenjegyzést követő 3 napon belül a beteg részére meg kell küldeni.
-
-## (9) Az ellenjegyzés elutasítása esetén a vényt érvényteleníteni kell. Az elutasításról 3 napon belül írásbeli indokolást kell küldeni a betegnek az érvénytelenített papíralapú vény egyidejű megküldésével. Az eszközt rendelő orvost írásban tájékoztatni kell az elutasítás tényéről és okáról. Mind az indokolásnak, mind az eszközt rendelő orvosnak küldött tájékoztatásnak tartalmaznia kell a (10) bekezdés szerinti jogorvoslati lehetőség ismertetését.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
