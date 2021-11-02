@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-10-20-0
 | 2021-10-01 | 2021-10-20-06.1 | 10/2021. (IX. 30.) IM rendelet |
 | 2021-10-02 | 2021-10-20-06.2 | 2010: CXXX. törvény |
 | 2021-11-01 | 2021-10-20-06.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-11-02 | 2021-10-20-06.4 | 2010: CXXX. törvény |
