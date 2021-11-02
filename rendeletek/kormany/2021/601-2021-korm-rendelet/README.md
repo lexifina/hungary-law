@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-601-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-11-01 | 2021-601-20-22.1 | 601/2021. (X. 29.) Korm. rendelet |
+| 2021-11-02 | 2021-601-20-22.2 | 2010: CXXX. törvény |
