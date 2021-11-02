@@ -1,3 +1,5 @@
-## 4. § A 49/2004. (V. 21.) ESzCsM rendelet az 1. melléklet szerinti 9. számú melléklettel egészül ki.
+## 3–4. §[^4]
 
 ## 4. Záró rendelkezések
+
+[^4]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

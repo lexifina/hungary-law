@@ -1,3 +1,5 @@
-## 2. § A háziorvosi, házi gyermekorvosi és fogorvosi tevékenységről szóló 4/2000. (II. 25.) EüM rendelet 6. § (1) és (2) bekezdésében a „közreműködésével” szövegrész helyébe az „együttműködésével” szöveg lép.
+## 2. §[^3]
 
 ## 3. A területi védőnői ellátásról szóló 49/2004. (V. 21.) ESzCsM rendelet módosítása
+
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
