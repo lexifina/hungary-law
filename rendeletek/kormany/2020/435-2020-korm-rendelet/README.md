@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-435-20-
 | --- | --- | --- |
 | 2020-09-22 | 2020-435-20-22.1 | 435/2020. (IX. 21.) Korm. rendelet |
 | 2021-11-01 | 2020-435-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-11-02 | 2020-435-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
