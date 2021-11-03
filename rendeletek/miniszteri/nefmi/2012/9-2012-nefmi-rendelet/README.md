@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-9-20-2V
 | 2020-11-02 | 2012-9-20-2V.27 | 55/2012. (XII. 28.) EMMI rendelet |
 | 2021-06-09 | 2012-9-20-2V.28 | 55/2012. (XII. 28.) EMMI rendelet |
 | 2021-10-01 | 2012-9-20-2V.29 | 55/2012. (XII. 28.) EMMI rendelet |
+| 2021-11-03 | 2012-9-20-2V.30 | 55/2012. (XII. 28.) EMMI rendelet |
