@@ -1,3 +1,3 @@
-48/F. §[^502]
+48/F. §[^503]
 
-[^502]: A 48/F. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § f) pontja.
+[^503]: A 48/F. §-t az 507/2017. (XII. 29.) Korm. rendelet 21. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § f) pontja.

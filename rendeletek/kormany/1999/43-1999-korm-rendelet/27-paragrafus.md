@@ -32,7 +32,7 @@ d) a 29/A. § (1) és (2) bekezdése szerinti vizsgálatok,
 
 e) a 12611 kódszámú transztelefonikus EKG alkalmazása akut kardiális kórképekben mentési feladatok ellátása során tevékenység,
 
-f) országosan szervezett, népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó 11045, 11303, 11050, 29001, 29003, 29004, 29005, 29006, 42151, 42750 kódszámú beavatkozások,
+f)[^299] országosan szervezett, népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó 11045, 11303, 11050, 29001, 29003, 29004, 29005, 29006, 42151, 42750, 54524, 54694, 54823 kódszámú beavatkozások,
 
 g) meddőségkezelési ellátásokhoz kapcsolódó 16640, 16641, 16642, 16643, 16644 kódszámú beavatkozások
 
@@ -66,3 +66,4 @@ kivételével történik.
 
 [^297]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
 [^298]: A 27. § a 697/2020. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^299]: A 27. § (11) bekezdés f) pontja a 605/2021. (XI. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
