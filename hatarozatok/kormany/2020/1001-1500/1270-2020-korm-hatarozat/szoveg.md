@@ -77,3 +77,11 @@ Felelős: külgazdasági és külügyminiszter
 Határidő: a felmerülés ütemében
 
 10. úgy határoz, hogy a 9. pont szerinti beszerzések mentesülnek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól.
+
+11.[^2] felhívja az innovációért és technológiáért felelős minisztert, hogy a szakmai irányítása alatt álló Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság bevonásával tegye meg a szükséges intézkedéseket az Expó ökológiai lábnyomának csökkentését célzó faültetési program végrehajtása érdekében.
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: folyamatos
+
+[^2]: A 11. pontot az 1785/2021. (XI. 5.) Korm. határozat iktatta be.
