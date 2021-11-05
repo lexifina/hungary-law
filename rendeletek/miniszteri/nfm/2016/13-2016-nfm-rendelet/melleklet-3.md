@@ -1,4 +1,4 @@
-3. melléklet a 13/2016. (V. 24.) NFM rendelethez[^27]
+3. melléklet a 13/2016. (V. 24.) NFM rendelethez[^28]
 
 1. A málusz megállapításának szempontjai
 
@@ -244,4 +244,4 @@ p11,4 = 2 • 1,206
 
 5.11.6. Ha a közszolgáltató elvégezte a szabványnak megfelelő vizsgálatot, és az RDF minőségi besorolási osztálya nem csökkent, akkor a málusz értéke 0.
 
-[^27]: A 3. melléklet a 27/2021. (VI. 29.) ITM rendelet 5. § b) pontjával megállapított szöveg.
+[^28]: A 3. melléklet a 27/2021. (VI. 29.) ITM rendelet 5. § b) pontjával megállapított szöveg.
