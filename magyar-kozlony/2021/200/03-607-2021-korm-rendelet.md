@@ -1,0 +1,660 @@
+# A Kormány 607/2021. (XI. 5.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 200. szám, 2021. november 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/004JHDdNPpzCgiZxwg2R6179b39812cee/dokumentumok/481a5a98e9b8c48ce4263c4c7efb6c98f1a76f4a/letoltes)
+
+---
+
+A Kormány 607/2021. (XI. 5.) Korm. rendelete
+a nemzeti adatvagyon hasznosításával összefüggő egyes részletszabályokról
+A Kormány
+a nemzeti adatvagyonról szóló 2021. évi XCI. törvény 15. § (1) bekezdés a) és b) pontjában, valamint a 15. § (2) bekezdés a)–d) és
+f) pontjában kapott felhatalmazás alapján,
+a 19. alcím tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+I. FEJEZET
+A NEMZETI ADATVAGYONRÓL SZÓLÓ TÖRVÉNY VÉGREHAJTÁSÁÉRT FELELŐS EGYES SZERVEZETEK
+KIJELÖLÉSE
+1. A Nemzeti Adatvagyon Ügynökség feladatait ellátó szervezet
+1. §
+A nemzeti adatvagyonról szóló 2021. évi XCI. törvény (a továbbiakban: Natv.) szerinti Nemzeti Adatvagyon
+Ügynökség feladatait a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság tulajdonosi
+joggyakorlása alatt álló, állami tulajdonú Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság
+(a továbbiakban: NAVÜ) látja el.
+2. §
+Az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter (a továbbiakban: miniszter)
+az e rendeletben foglaltak alkalmazásán keresztül, a NAVÜ bevonásával gondoskodik a Kormány tagjainak feladat-
+és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet (a továbbiakban: Statútum) 13. § h) és k) pontjából fakadó
+feladatai ellátásáról.
+3. §
+A NAVÜ
+a) ellátja mindazon feladatokat, amelyeket e rendelet, törvény, kormányrendelet vagy a Kormány egyedi
+döntése részére meghatároz,
+b) a feladatai ellátása érdekében együttműködik bármely, a feladat- és hatáskörébe tartozó kérdésben érintett
+szervvel, szervezettel vagy személlyel, tőlük a feladat- és hatáskörébe tartozó kérdésben információt,
+felvilágosítást kérhet és szolgáltathat.
+4. § (1) A NAVÜ az e rendeletben foglalt feladatai ellátása érdekében, kapcsolattartás céljából, az e rendelet szerinti
+adatszolgáltatási kötelezettség teljesítésére és tájékoztatási szolgáltatási feladatok kiszolgálására is alkalmas
+informatikai rendszert és nyílt vagy zárt hálózaton működő webes felületet alakít ki és működtet.
+(2) A NAVÜ rendelkezhet úgy, hogy elsődlegesen az (1) bekezdés szerinti informatikai rendszeren, illetve nyílt vagy zárt
+hálózaton működő webes felületen keresztül biztosítja a kapcsolattartást.
+5. § (1) A NAVÜ a Natv. szerinti, e rendeletben szabályozott nemzeti adatvagyon-hasznosítással kapcsolatos állami feladatait
+közfeladatként látja el.
+(2) A NAVÜ a Natv. szerint elektronikus ügyintézés biztosítására kötelezett szerv.
+(3) A NAVÜ a Natv. hatálya alá tartozó, a III. fejezet 6–8. alcíme szerinti adatelemzési és tájékoztatási szolgáltatási
+feladatait kizárólagos joggal látja el.
+(4) A NAVÜ a Natv. 1. § (2) bekezdés d) pontja szerinti, a közfeladatot ellátó szerv által alaptevékenysége
+keretében végzett adatszolgáltatási, adatelemzési tevékenység ellátásában, a közfeladatot ellátó szervvel vagy
+az együttműködő szervvel kötött együttműködési megállapodás alapján részt vehet.
+6. §
+Az e rendeletben foglaltak megkerülésével vagy megsértésével megkötött, a Natv. hatálya alá tartozó, e rendelet
+szerinti adatelemzési feladatok ellátását, valamint tájékoztatási szolgáltatási igény kielégítését szolgáló
+megállapodás semmis.
+
+2. A kulcsszolgáltató szervezet feladatait ellátó szervezet
+7. § (1) A Natv. szerinti kulcsszolgáltató szervezet feladatait a DATRAK Digitális Adattranzakciós Központ Korlátolt
+Felelősségű Társaság (a továbbiakban: kulcsszolgáltató szervezet) látja el.
+(2) A kulcsszolgáltató szervezet a Natv. szerinti, e rendeletben szabályozott kulcsszolgáltatói feladatait közfeladatként
+látja el.
+(3) A kulcsszolgáltató szervezet a III. fejezet 10. alcíme szerinti kulcsszolgáltatói feladatait kizárólagos joggal látja el.
+(4) A kulcsszolgáltató szervezet az e rendelet szerinti tevékenységét a miniszter külön rendeletében meghatározott
+igazgatási szolgáltatási díj ellenében látja el.
+II. FEJEZET
+A NEMZETI ADATVAGYON ÜGYNÖKSÉG KÖZADATOK ÚJRAHASZNOSÍTÁSÁVAL ÖSSZEFÜGGŐ
+FELADATAIRA VONATKOZÓ RÉSZLETES SZABÁLYOK
+3. A közadatok újrahasznosításának támogatása
+8. § (1) A NAVÜ a közadatok újrahasznosításáról szóló 2012. évi LXIII. törvény (a továbbiakban: Közadat tv.) szerinti,
+közadatok újrahasznosításának elősegítése és támogatása érdekében nyílt hálózaton működő webes felületet
+(a továbbiakban: közadatok újrahasznosítását támogató felület) alakít ki és működtet.
+(2) A NAVÜ a közadatok újrahasznosítását támogató felületen közzéteszi
+a) a Közadat tv. szerint újrahasznosítás céljából rendelkezésre bocsátható közadatokat tartalmazó
+nyilvántartások és adatbázisok jegyzékét, valamint
+b) a közfeladatot ellátó szerveket és a Közadat tv. szerinti igénylőket megillető jogokkal és az őket terhelő
+kötelezettségekkel kapcsolatos alapvető információkat.
+(3) A NAVÜ a közadatok újrahasznosítását támogató felületen közzéteheti különösen
+a) a Közadat tv. szerinti újrahasznosítás céljából történő rendelkezésre bocsátás menetének leírását,
+b) a Közadat tv. szerint újrahasznosítás céljából történő rendelkezésre bocsátásért felszámítható díj képzésének
+elveit, a díj mértéke meghatározására irányadó módszereket és ajánlásokat,
+c) a Közadat tv. szerint újrahasznosítás céljából történő rendelkezésre bocsátásra vonatkozó újrahasznosítási
+megállapodás tartalmával kapcsolatos elveket, irányadó módszereket és ajánlásokat,
+d) a Közadat tv. szerint újrahasznosítás céljából történő rendelkezésre bocsátással összefüggő egyéb
+információkat,
+e) a Közadat tv. szerint újrahasznosítási célokra, az újrahasznosítók körére vonatkozó adatelemzések
+eredményeit, kimutatásokat és egyéb információkat,
+f) a Natv. szerinti tájékoztatási szolgáltatás keretében nyújtott azon adatelemzések eredményeit, az elemzett
+adatokból származtatott azon információkat, amelyek újrahasznosítás céljából rendelkezésre bocsáthatóak.
+(4) A (3) bekezdés f) pontja szerinti eredmények, információk újrahasznosítható közadatként történő közzétételének
+lehetőségét a közadatok újrahasznosítását támogató felületen törvény, kormányrendelet, továbbá, ha az nem
+ütközik törvény vagy kormányrendelet előírásába, a Nemzeti Adatvagyon Tanács (a továbbiakban: NVT) vagy
+a Natv. szerinti tájékoztatási szolgáltatás igénybe vevője kizárhatja vagy korlátozhatja.
+4. Közadatkataszter
+9. § (1) A NAVÜ elkészíti a Közadat tv. szerint újrahasznosítás céljából rendelkezésre bocsátható közadatokat tartalmazó
+nyilvántartások és adatbázisok jegyzékét (a továbbiakban: közadatkataszter), és gondoskodik annak naprakészen
+tartásáról.
+(2) A közadatkataszter magában foglalja
+a) a Közadat tv. szerint újrahasznosítás céljából rendelkezésre bocsátható közadatokat tartalmazó
+nyilvántartások és adatbázisok elnevezését, vagy más, a beazonosítást szolgáló információ megjelölését,
+b) az a) pont szerinti nyilvántartásban vagy adatbázisban megtalálható adatok, adatkörök leírását,
+c) az a) pont szerinti nyilvántartás vagy adatbázis technikai jellemzőire, az adatbázisban tárolt adatok
+formátumára és más leíró adatokra vonatkozó információkat,
+d) az a) pont szerinti nyilvántartás vagy adatbázis létét előíró vagy lehetővé tevő jogszabály megjelölését,
+
+e) az a) pont szerinti nyilvántartást vagy adatbázist, valamint az abban tárolt adatokat kezelő, a Közadat tv.
+szerinti közfeladatot ellátó szerv (a továbbiakban: közfeladatot ellátó szerv) megjelölését, elérhetőségét,
+f) az a) pont szerinti nyilvántartást vagy adatbázist, valamint az abban tárolt adatokat kezelő közfeladatot ellátó
+szerv kapcsolattartójának adatait, elérhetőségét, illetve
+g) a Közadat tv. szerinti újrahasznosítás körében releváns egyéb információkat.
+10. § (1) A NAVÜ a közadatkataszter létrehozásával és naprakészen tartásával összefüggésben bármilyen közfeladatot ellátó
+szervet közvetlenül megkereshet, tőle tájékoztatást, adatszolgáltatást – ideértve a közadatok újrahasznosítási
+gyakorlatára és az újrahasznosítási gyakorlat jogszabályoknak való megfelelőségre vonatkozó adatszolgáltatást
+is – kérhet.
+(2) A közfeladatot ellátó szerv a kért tájékoztatást, adatszolgáltatást soron kívül, de
+a) a közadatkataszter létrehozásával összefüggésben legfeljebb az (1) bekezdés szerinti megkeresés
+kézhezvételétől számított 20 munkanapon belül,
+b) a közadatkataszter naprakészen tartásával összefüggésben legfeljebb az (1) bekezdés szerinti megkeresés
+kézhezvételétől számított 5 munkanapon belül
+megadni, továbbá a NAVÜ-vel együttműködni köteles.
+(3) A közfeladatot ellátó szerv a (2) bekezdés szerinti tájékoztatási, adatszolgáltatási, együttműködési kötelezettsége
+alól kizárólag abban az esetben mentesül, ha a megkeresésben kért információk megismerését törvény vagy
+kormányrendelet kizárja vagy olyan mértékben korlátozza, hogy az az e rendelet szerinti feladatok végrehajtása
+szempontjából az együttműködést kizárja. Az együttműködést kizáró körülmény fennállását a közfeladatot ellátó
+szervnek kell igazolnia.
+(4) A közfeladatot ellátó szerv a (2) bekezdés szerinti tájékoztatási, adatszolgáltatási, együttműködési kötelezettségét
+térítésmentesen teljesíti.
+(5) A NAVÜ kezdeményezésére a közadatkataszter létrehozásával és naprakészen tartásával összefüggésben
+az általános együttműködés részletes feltételei a közfeladatot ellátó szervvel kötendő megállapodásban kerülnek
+rögzítésre.
+5. Közreműködés a közadatok újrahasznosítására irányuló igények teljesítésében
+11. § (1) A NAVÜ – az igénylő vagy a közfeladatot ellátó szerv erre vonatkozó megkeresése esetén – részt vesz a Közadat tv.
+szerinti újrahasznosítás céljából történő rendelkezésre bocsátás megvalósításában, és az általa nyújtott szolgáltatás
+keretében közreműködhet
+a) az igénnyel érintett adatokat kezelő közfeladatot ellátó szerv vagy az igénnyel érintett adatok kezelésére
+jogosult más szervezetek, személyek beazonosításában,
+b) az igénylő, a közfeladatot ellátó szerv vagy az igénnyel érintett adatok kezelésére jogosult más szervezetek,
+személyek közötti kapcsolatfelvételben,
+c) a kérelem elkészítésében, a kérelem benyújtásában és más cselekmények elvégzésében,
+d) az újrahasznosítás céljából történő rendelkezésre bocsátható közadatok körének meghatározásában,
+e) a rendelkezésre bocsátás módjának meghatározásában,
+f) a közfeladatot ellátó szerv által az újrahasznosítás céljából történő rendelkezésre bocsátásért fizetendő díj
+meghatározásában,
+g) az újrahasznosítási megállapodás előkészítésében,
+h) a vitás kérdések jogi eljáráson kívüli rendezésében.
+(2) A NAVÜ – általa nyújtott szolgáltatás keretében – a Közadat tv. szerinti adatszolgáltatást, újrahasznosítást végezhet.
+(3) A NAVÜ az általa nyújtott (1) és (2) bekezdés szerinti szolgáltatás nyújtásáért – az általa alkalmazott számviteli
+politika alapulvételével – díjat állapíthat meg.
+(4) A NAVÜ az (1) és (2) bekezdés szerinti tevékenységéhez kapcsolódó szolgáltatási politikáját – figyelemmel
+a jogszabály vagy megállapodás alapján fennálló adatszolgáltatási, újrahasznosítási korlátozásokra is – maga
+alakítja ki. Ennek keretében a NAVÜ
+a) a közfeladatot ellátó szervvel vagy az igénnyel érintett adatok kezelésére jogosult más szervezetekkel,
+személyekkel együttműködve közreműködhet az újrahasznosítás céljából történő rendelkezésre bocsátás
+megvalósításában, vagy végezhet adatszolgáltatást, újrahasznosítást,
+b) ha az nem ütközik törvény előírásába, igénybe veheti az a) pontban foglaltakon kívüli más szerv, szervezet
+vagy személy adatszolgáltatási, újrahasznosítási szolgáltatásait,
+
+c) kialakíthatja az általa nyújtott szolgáltatás általános szerződési feltételeit, beleértve a szolgáltatás nyújtásáért
+járó díj mértékét is.
+(5) A (4) bekezdés a) pontja alkalmazása esetén az együttműködés szabályait együttműködési megállapodásban kell
+rögzíteni, amely tartalmazza különösen
+a) az adatok adatszolgáltatás, újrahasznosítás céljára történő rendelkezésre bocsátásának módját és feltételeit,
+b) az adatszolgáltatásban, újrahasznosításban együttműködő felek feladat- és felelősségi körét,
+c) az adatszolgáltatás, újrahasznosítás megvalósításának módját,
+d) az adatszolgáltatási, újrahasznosítási igények kiszolgálási körülményeit és
+e) az egymás közötti költségelszámolás, illetve a díjbevételből való részesedés elszámolásának módját.
+(6) Az (5) bekezdés szerinti együttműködés létrehozható egy vagy több szolgáltatástípus megvalósítására, egy vagy
+több közfeladatot ellátó szerv bevonásával, meghatározott adat-, illetve igénytípusra, határozott vagy határozatlan
+időre.
+(7) A NAVÜ a közfeladatot ellátó szervvel kötött, (5) bekezdés szerinti megállapodása szerint
+a) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény
+11. § (1) bekezdése szerinti automatikus döntéshozatali eljárást alkalmazhat a hozzá benyújtott
+újrahasznosítási igények elbírálásánál, és
+b) a közfeladatot ellátó szerv előzetes, a megállapodásban rögzített döntése szerint az igénylő azonosítása
+nélkül, vagy az a) pont alkalmazásával, ha annak jogszabályi feltételei fennállnak, közvetlen hozzáférést is
+biztosíthat a közfeladatot ellátó szerv által kezelt, újrahasznosítható közadatokhoz.
+(8) Ha az (5) bekezdés szerinti együttműködés a közfeladatot ellátó szerv részéről kizárólag az adatok újrahasznosítás
+céljából történő rendelkezésre bocsátására terjed ki, a közfeladatot ellátó szerv a NAVÜ részéről legfeljebb olyan
+mértékű ellentételezésben részesülhet, amely nem haladja meg azt a mértéket, amelyet a közfeladatot ellátó szerv
+az adatok Közadat tv. szerint újrahasznosítás céljából történő rendelkezésre bocsátásáért a Közadat tv. szerinti díj
+formájában – a (10) bekezdésben foglalt eltéréssel – megállapíthatna.
+(9) Ha az (5) bekezdés szerinti együttműködés a közfeladatot ellátó szerv részéről nem csak a (8) bekezdésbe sorolt
+tevékenységre terjed ki, a NAVÜ és a közfeladatot ellátó szerv a (8) bekezdés szerinti díjon túl más ellentételezésben
+is megállapodhat.
+(10) A közfeladatot ellátó szerv a (8) bekezdés szerinti díj meghatározásánál a más forrásból megtérített vagy
+finanszírozható költségeit nem számolhatja el.
+(11) A közfeladatot ellátó szerv a (8) bekezdés szerinti díj mértéke meghatározásakor objektív, átlátható és ellenőrizhető
+módon köteles eljárni.
+(12) A közfeladatot ellátó szerv a NAVÜ (1) és (2) bekezdés szerinti szolgáltatása igénybevételének elmaradására,
+valamint az (5) bekezdés szerinti megállapodás hiányára hivatkozva nem utasíthatja el a Közadat tv. szerinti
+újrahasznosítás céljából történő rendelkezésre bocsátásra irányuló, hozzá közvetlenül beérkező igény teljesítését,
+azt köteles a Közadat tv. szerinti rendelkezéseknek megfelelően teljesíteni.
+III. FEJEZET
+A NEMZETI ADATVAGYON ÜGYNÖKSÉG NEMZETI ADATVAGYONNAL ÖSSZEFÜGGŐ FELADATAIRA
+VONATKOZÓ RÉSZLETES SZABÁLYOK
+6. Az adatelemzési feladatok és tájékoztatási szolgáltatások előkészítése
+12. § (1) A NAVÜ a nemzeti adatvagyon felmérése és az adatelemzés lehetőségének megteremtése céljából elkészíti
+a Natv. szerint adatelemzési célra használható közérdekű adatokat, közérdekből nyilvános adatokat és a személyes
+adatokat tartalmazó nyilvántartások és adatbázisok jegyzékét (a továbbiakban: nemzeti adatvagyon leltár), és
+gondoskodik annak naprakészen tartásáról.
+(2) A NAVÜ az (1) bekezdés szerinti feladatait a 9. § (1) bekezdése szerinti közadatkataszter létrehozásához
+és naprakészen tartásához kapcsolódó tevékenységével összehangoltan is végezheti.
+(3) A nemzeti adatvagyon leltár magában foglalja
+a) a Natv. szerint adatelemzési célra rendelkezésre bocsátható közérdekű adatokat, közérdekből nyilvános
+adatokat és a személyes adatokat tartalmazó nyilvántartások és adatbázisok elnevezését, vagy más,
+a beazonosítást szolgáló információ megjelölését,
+b) az a) pont szerinti nyilvántartásban vagy adatbázisban megtalálható adatok, adatkörök leírását,
+
+c) az a) pont szerinti nyilvántartás vagy adatbázis technikai jellemzőire, az adatbázisban tárolt adatok
+formátumára és más leíró adatokra vonatkozó információkat,
+d) az a) pont szerinti nyilvántartás vagy adatbázis létét előíró vagy lehetővé tevő jogszabály megjelölését,
+e) az a) pont szerinti nyilvántartást vagy adatbázist, valamint az abban tárolt adatokat kezelő, a Natv. szerinti
+együttműködő szerv (a továbbiakban: együttműködő szerv) megjelölését, elérhetőségét,
+f) az a) pont szerinti nyilvántartást vagy adatbázist, valamint az abban tárolt adatokat kezelő együttműködő
+szerv kapcsolattartójának adatait, elérhetőségét, illetve
+g) a Natv. szerinti adatelemzés körében releváns egyéb információkat.
+13. § (1) A NAVÜ a nemzeti adatvagyon leltár létrehozásával és naprakészen tartásával összefüggésben bármilyen
+együttműködő szervet közvetlenül megkereshet, tőle tájékoztatást, adatszolgáltatást kérhet.
+(2) Az együttműködő szerv a kért tájékoztatást, adatszolgáltatást soron kívül, de
+a) a nemzeti adatvagyon leltár létrehozásával összefüggésben legfeljebb az (1) bekezdés szerinti megkeresés
+kézhezvételétől számított 20 munkanapon belül,
+b) a nemzeti adatvagyon leltár naprakészen tartásával összefüggésben legfeljebb az (1) bekezdés szerinti
+megkeresés kézhezvételétől számított 5 munkanapon belül
+megadni, továbbá a NAVÜ-vel együttműködni köteles.
+(3) Az együttműködő szerv a (2) bekezdés szerinti tájékoztatási, adatszolgáltatási, együttműködési kötelezettsége
+alól kizárólag abban az esetben mentesül, ha a megkeresésben kért információk megismerését törvény vagy
+kormányrendelet kizárja, illetve olyan mértékben korlátozza, hogy az e rendelet szerinti feladatok végrehajtása
+szempontjából az együttműködést kizárja. Az együttműködést kizáró körülmény fennállását az együttműködő
+szervnek kell igazolnia.
+(4) Az együttműködő szerv a (2) bekezdés szerinti tájékoztatási, adatszolgáltatási, együttműködési kötelezettségét
+térítésmentesen teljesíti.
+(5) A NAVÜ kezdeményezésére a nemzeti adatvagyon leltár létrehozásával és naprakészen tartásával összefüggésben
+az általános együttműködés részletes feltételei az együttműködő szervvel kötendő megállapodásban kerülnek
+rögzítésre.
+7. Az adatelemzési feladatok és tájékoztatási szolgáltatások teljesítése
+14. § (1) A Natv. hatálya alá tartozó, e rendelet szerinti tájékoztatási szolgáltatásra irányuló igényt kizárólag a NAVÜ-nél lehet
+előterjeszteni.
+(2) A tájékoztatási szolgáltatásra irányuló igényt a NAVÜ megvizsgálja, ennek során
+a) beazonosítja, hogy az igény teljesítéséhez mely nyilvántartások és adatbázisok, illetve abban tárolt adatok
+elemzése szükséges,
+b) beazonosítja az igénnyel érintett nyilvántartásokat és adatbázisokat, illetve abban tárolt adatokat kezelő
+együttműködő szervet vagy az igénnyel érintett adatok kezelésére jogosult más szervezeteket, személyeket,
+c) vizsgálja, hogy az igénnyel érintett adatok adatelemzésének, valamint a tájékoztatási szolgáltatási igény
+kielégítésének van-e akadálya.
+(3) A NAVÜ a vizsgálatot az igény kézhezvételétől számított 15 munkanapon belül folytatja le, és e határidőn belül
+az eredményről az igénylőt tájékoztatja.
+(4) Ha a NAVÜ vizsgálatához szükséges, az igény kézhezvételétől számított 3 munkanapon belül az együttműködő
+szervtől tájékoztatást, adatszolgáltatást, az igény előterjesztőjétől felvilágosítást, valamint hiánypótlást kérhet.
+(5) Ha a tájékoztatási szolgáltatás teljesítése érdekében szükséges, a (4) bekezdés szerinti tájékoztatás-,
+adatszolgáltatás-kérés az adatok adatelemzés céljára való rendelkezésre bocsáthatóságának együttműködő szerv
+általi vizsgálatára is kiterjed.
+(6) Az együttműködő szerv a kért tájékoztatást, adatszolgáltatást soron kívül, de legfeljebb a (4) bekezdés szerinti kérés
+kézhezvételétől számított 10 munkanapon belül megadni, valamint a NAVÜ-vel együttműködni köteles.
+(7) Az igény előterjesztője a felvilágosítást, valamint hiánypótlást soron kívül, de legfeljebb a (4) bekezdés szerinti kérés
+kézhezvételétől számított 10 munkanapon belül megadni köteles.
+(8) A NAVÜ a tájékoztatási szolgáltatásra irányuló igény teljesítését részben vagy egészben elutasítja, ha
+a) az igény nem az arra jogosulttól származik,
+b) az igény nem a Natv. szerinti tájékoztatási szolgáltatás teljesítésére irányul,
+c) az igény teljesítéséhez szükséges nyilvántartás, adatbázis vagy adat nem beazonosítható,
+
+d) az igény teljesítése a Natv. rendelkezései szerint nem lehetséges,
+e) egyéb olyan körülmény áll fenn, amely az igény teljesítését kizárja.
+(9) A NAVÜ a (8) bekezdés szerinti elutasítás tekintetében a nemzeti adatvagyon-gazdálkodással kapcsolatos
+kormányzati szempontokat, illetve más szakmai szempontokat is figyelembe vehet, és az álláspontját
+a rendelkezésre álló információk alapján alakítja ki. A NAVÜ az elutasítás okát indokolni köteles.
+15. § (1) A NAVÜ – a 14. § (3) bekezdése szerinti tájékoztatással összhangban – az elutasítással nem érintett adatkörök
+tekintetében teljesíti a tájékoztatási szolgáltatást az igénylő részére.
+(2) Az (1) bekezdésben foglaltakra is figyelemmel, az adatelemzés várható időtartamáról, valamint a tájékoztatási
+szolgáltatási igény kielégítésének várható időpontjáról és a díj várható mértékéről a NAVÜ a 14. § (3) bekezdése
+szerinti tájékoztatással egy időben tájékoztatja az igénylőt. Ha az igénylő a tájékoztatás alapján az igényét
+5 munkanapon belül nem vonja vissza, a NAVÜ megkezdi a szolgáltatás teljesítését.
+16. § (1) A NAVÜ az általa nyújtott, a Natv. hatálya alá tartozó, e rendelet szerinti adatelemzési és tájékoztatási szolgáltatás
+nyújtásáért – az általa alkalmazott számviteli politika alapulvételével – díjat állapíthat meg.
+(2) A NAVÜ a Natv. hatálya alá tartozó, e rendelet szerinti adatelemzési és tájékoztatási szolgáltatásra vonatkozó
+szolgáltatási politikáját – figyelemmel a jogszabály vagy megállapodás alapján fennálló adatszolgáltatási,
+adatelemzési korlátozásokra is – maga alakítja ki. Ennek keretében a NAVÜ
+a) az együttműködő szervvel vagy az igénnyel érintett adatok kezelésére jogosult más szervezetekkel,
+személyekkel együttműködve is végezhet adatszolgáltatást, adatelemzést,
+b) ha az nem ütközik törvény előírásába, igénybe veheti az a) pontban foglaltakon kívüli más szerv, szervezet
+vagy személy adatszolgáltatási, adatelemzési szolgáltatásait,
+c) kialakíthatja az általa nyújtott szolgáltatás általános szerződési feltételeit, beleértve a szolgáltatás nyújtásáért
+járó díj mértékét is.
+(3) A kormányzati tájékoztatási szolgáltatási igény teljesítésére vonatkozó díj mértéke nem haladhatja meg az elemzett
+adatok gyűjtésének, feldolgozásának, elemzésének, az elemzett adatokból származtatott információk előállításának
+és rendelkezésre bocsátásának legfeljebb öt százalékos nyereséghányaddal megnövelt költségét. A díj megfizetését
+a NAVÜ által meghatározott módon kell teljesíteni.
+(4) A (3) bekezdés szerinti költség meghatározásakor az együttműködő szerv, az adatszolgáltatási, adatelemzési
+szolgáltatásba bevont más szerv, szervezet vagy személy, a kulcsszolgáltató szervezet, valamint az elektronikus
+ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerinti szabályozott vagy a központi
+elektronikus ügyintézési szolgáltatás igénybevételéhez kapcsolódó díjak és költségek különösen figyelembe
+veendőek.
+(5) A (3) és (4) bekezdés szerinti díjak és költségek meghatározásakor a más forrásból megtérített vagy finanszírozható
+költségek nem számolhatóak el.
+(6) A (3) és (4) bekezdés szerinti díjak és költségek meghatározásakor objektív, átlátható és ellenőrizhető módon kell
+eljárni.
+(7) Ha az igényt a kormányzati tájékoztatási szolgáltatás teljesítése előtt az igénylő visszavonja, a NAVÜ a visszavonásig
+felmerült, (3) bekezdés szerinti költség megtérítésére jogosult, kivéve, ha a visszavonás olyan okból következett be,
+amelyért a NAVÜ felelős.
+(8) A díj megfizetésére az igénylő nem köteles, továbbá részére a már megfizetett díj visszajár, ha a kormányzati
+tájékoztatási szolgáltatás olyan okból nem teljesül, amelyért a NAVÜ felelős.
+(9) A NAVÜ kormányzati tájékoztatási szolgáltatás teljesítésére vonatkozó megállapodást köthet az igénylővel.
+A megállapodás létrehozható egy vagy több tájékoztatási szolgáltatás megvalósítására, meghatározott
+igénytípusra, valamint határozott vagy határozatlan időre.
+(10) A NAVÜ a kormányzati tájékoztatási szolgáltatási igény teljesítését – a 14. § (8) bekezdés a) pontjában foglaltak
+megállapíthatósága céljából – előzetes regisztrációhoz kötheti.
+17. § (1) A kormányzati tájékoztatási szolgáltatási igény teljesítésére vonatkozó 14. § (3) bekezdése szerinti tájékoztatás
+megadása előtt a NAVÜ jogosult az NVT előzetes eseti véleményét is kikérni. Ha az NVT a NAVÜ megkeresésének
+kézhezvételétől számított 10 munkanapon belül az álláspontját nem közölte, azt akként kell tekinteni, hogy
+a tájékoztatási szolgáltatásra irányuló igény teljesítéséhez hozzájárult.
+(2) A 14. § (4) bekezdése szerinti, együttműködő szervtől kért tájékoztatás, adatszolgáltatás, illetve az igény
+előterjesztőjétől kért felvilágosítás, valamint hiánypótlás teljesítéséig, valamint – ha az (1) bekezdés szerinti
+
+véleménykérésre sor került – az (1) bekezdés szerinti álláspont NAVÜ-vel való közléséig, ennek hiányában
+az (1) bekezdés szerinti határidő lejártáig a NAVÜ részére megállapított, 14. § (3) bekezdése szerinti határidő
+nyugszik.
+8. Együttműködés az együttműködő szervvel
+18. § (1) A NAVÜ és az együttműködő szerv közötti együttműködés szabályait együttműködési megállapodásban kell
+rögzíteni, amely tartalmazza
+a) az adatok adatelemzés céljára való rendelkezésre bocsátásának módját és feltételeit, valamint
+b) az adatok rendelkezésre bocsátásával közvetlen összefüggésben felmerült többletköltségek megtérítésének
+módját.
+(2) A 16. § (2) bekezdés a) pontja alkalmazása esetén az (1) bekezdés szerinti együttműködési megállapodásban
+a) az adatszolgáltatásban, adatelemzésben együttműködő felek feladat- és felelősségi körét,
+b) az adatszolgáltatás, adatelemzés megvalósításának módját,
+c) az adatszolgáltatási, adatelemzési igények kiszolgálási körülményeit, valamint
+d) az egymás közötti költségelszámolás, illetve a díjbevételekből való részesedés elszámolása módját
+rögzíteni kell.
+(3) Az (1) és (2) bekezdés szerinti együttműködés létrehozható egy vagy több tájékoztatási szolgáltatás
+megvalósítására, egy vagy több együttműködő szerv bevonásával, meghatározott adat-, illetve igénytípusra,
+valamint határozott vagy határozatlan időre.
+(4) Ha az (1) bekezdés szerinti együttműködés az együttműködő szerv részéről kizárólag az adatok Natv. szerint
+adatelemzés céljából történő rendelkezésre bocsátására terjed ki, az együttműködő szerv a NAVÜ részéről legfeljebb
+olyan mértékű ellentételezésben részesülhet, amely nem haladja meg azt a mértéket, amelyet az együttműködő
+szerv az adatok Natv. szerinti elemzés céljából történő rendelkezésre bocsátásáért a Natv. szerinti többletköltség
+formájában megállapíthatna.
+(5) Ha a (2) bekezdés szerinti együttműködés az együttműködő szerv részéről nem csak a (4) bekezdés szerinti
+tevékenységre terjed ki, a NAVÜ és az együttműködő szerv a (4) bekezdés szerinti költségtérítésen túl más
+ellentételezésben is megállapodhat.
+(6) A (4) bekezdés szerinti többletköltség mértéke meghatározásakor a Natv. szerinti nemzeti adatvagyonba tartozó
+közérdekű, közérdekből nyilvános, személyes vagy más adatok rendelkezésre bocsátása a Közadat tv. szerinti
+közadatok körébe eső közérdekű, közérdekből nyilvános vagy más adatok rendelkezésre bocsátásával egyező
+megítélés alá esik, és úgy kell eljárni, mintha az adatok Közadat tv. szerint újrahasznosítás céljából történő
+rendelkezésre bocsátásáról lenne szó, és a többletköltséget – a (7) bekezdésben foglalt eltéréssel – a Közadat tv.
+szerinti díjmegállapítással azonos módon kell megállapítani.
+(7) Az együttműködő szerv a (4) bekezdés szerinti többletköltség meghatározásánál a más forrásból megtérített vagy
+finanszírozható költségeit nem számolhatja el.
+(8) Az együttműködő szerv a (4) bekezdés szerinti többletköltség mértéke meghatározásakor objektív, átlátható és
+ellenőrizhető módon köteles eljárni.
+19. § (1) Az együttműködő szerv az adatok adatelemzés céljára való rendelkezésre bocsátását nem tagadhatja meg, kivéve,
+ha a Natv. szerinti megtagadási ok áll fenn. Az adatok adatelemzés céljára való rendelkezésre bocsátására vonatkozó
+megtagadási ok fennállását az együttműködő szervnek kell igazolnia.
+(2) Az együttműködő szerv köteles megtagadni az adatok adatelemzés céljára való rendelkezésre bocsátását,
+valamint a Natv. szerinti tájékoztatási szolgáltatásra irányuló igény teljesítését, ha arra a NAVÜ általi adatelemzési
+vagy tájékoztatási szolgáltatás igénybevétele nélkül kerülne sor, kivéve, ha az kizárólag Natv. 1. § (2) bekezdés
+d) pontja szerinti, közfeladatot ellátó szerv által alaptevékenysége keretében végzett adatszolgáltatás, adatelemzés
+elvégzésére irányul.
+9. A piaci tájékoztatási szolgáltatásokra vonatkozó különös szabályok
+20. § (1) A 7. alcímben foglaltakat a piaci tájékoztatási szolgáltatás teljesítése kapcsán ezen alcímben foglalt eltérésekkel kell
+alkalmazni.
+(2) A NAVÜ a 14. § (2) bekezdése szerinti vizsgálatot az igény kézhezvételétől számított 20 munkanapon belül
+folytatja le, és e határidőn belül az eredményről az igénylőt tájékoztatja.
+
+(3) A Natv. szerinti esetekben, a 14. § (3) bekezdése szerinti tájékoztatás megadása előtt, a NAVÜ köteles az NVT egyedi
+döntését kérni. Ha az NVT a NAVÜ megkeresésének kézhezvételétől számított 15 munkanapon belül a döntését nem
+közölte, azt akként kell tekinteni, hogy a tájékoztatási szolgáltatásra irányuló igény teljesítéséhez hozzájárult.
+(4) A NAVÜ a 14. § (8) bekezdése szerinti elutasítás tekintetében a nemzeti adatvagyon-gazdálkodással kapcsolatos
+kormányzati szempontokat, illetve más szakmai szempontokat is figyelembe vehet, és az álláspontját
+a rendelkezésre álló információk, valamint az NVT Natv. 9. § (1) bekezdése szerinti előzetes, általános érvényű
+döntési álláspontja vagy az e rendelet szerinti egyedi döntése alapján alakítja ki.
+(5) A 14. § (4) bekezdése szerinti, együttműködő szervtől kért tájékoztatás, adatszolgáltatás, illetve az igény
+előterjesztőjétől kért felvilágosítás-nyújtás, valamint hiánypótlás teljesítéséig, valamint a (3) bekezdés szerinti
+döntés NAVÜ-vel való közléséig, ennek hiányában a (3) bekezdés szerinti határidő lejártáig a NAVÜ részére
+megállapított, (2) bekezdés szerinti határidő nyugszik.
+21. § (1) Az adatelemzés várható időtartamáról, valamint a tájékoztatási szolgáltatási igény kielégítésének várható
+időpontjáról és a díj várható mértékéről a NAVÜ a 14. § (3) bekezdése szerinti tájékoztatással egy időben tájékoztatja
+az igénylőt. Ha az igénylő a tájékoztatás alapján az igényét fenntartja, a NAVÜ a piaci tájékoztatási szolgáltatási
+igény teljesítésére vonatkozó, Natv. szerinti megállapodást köt az igénylővel. A megállapodás létrehozható egy vagy
+több tájékoztatási szolgáltatás megvalósítására, meghatározott igénytípusra, valamint határozott vagy határozatlan
+időre.
+(2) A NAVÜ az általa nyújtott piaci tájékoztatási szolgáltatásért az (1) bekezdés szerinti megállapodásban
+meghatározottak szerinti díjazásra jogosult.
+(3) Ha az igénylő az (1) bekezdés szerinti megállapodástól eláll, vagy azt felmondja, a 16. § (7) és (8) bekezdésétől
+eltérően a felek közötti elszámolás tekintetében a megállapodásban foglaltak az irányadóak.
+10. A személyes adatokra vonatkozó különös szabályok
+22. § (1) A 7–9. alcímben foglaltakat a személyes adatok kapcsán az ezen alcímben foglalt eltérésekkel kell alkalmazni.
+(2) A NAVÜ az igény 14. § (2) bekezdése szerinti vizsgálata során azt is vizsgálja, hogy az igény teljesítéséhez
+az együttműködő szerv által kezelt személyes adatot tartalmazó nyilvántartásból származó adatok
+a kulcsszolgáltató szervezet által biztosított eszközökkel való anonimizálást követően adatelemzés céljából
+rendelkezésére bocsáthatók-e.
+(3) Ha a Natv. szerinti megtagadási ok nem áll fenn, az együttműködő szerv köteles az általa kezelt személyes adatot
+tartalmazó nyilvántartásból származó, a kulcsszolgáltató szervezet által biztosított eszközzel anonimizált adatokat
+a NAVÜ számára hozzáférhetővé, elemezhetővé tenni.
+(4) A NAVÜ megkeresésére az együttműködő szerv és a kulcsszolgáltató szervezet a Natv. szerinti technológiai
+megoldás biztosítása érdekében a szükséges egyeztetéseket soron kívül, de legkésőbb a NAVÜ általi megkeresés
+kézhezvételétől számított 5 munkanapon belül lefolytatni kötelesek. Az ilyen egyeztetés a NAVÜ vezetésével is
+lefolytatható, amelyen az együttműködő szerv és a kulcsszolgáltató szervezet rész venni köteles.
+(5) A kulcsszolgáltató szervezet a (4) bekezdés szerinti egyeztetés lefolytatását követő 5 munkanapon belül
+az együttműködő szerv részére olyan technológiai megoldást dolgoz ki, amely a NAVÜ részére rendelkezésre
+bocsátandó személyes adatot visszafordíthatatlan módon úgy módosítja, hogy az az érintettel ne legyen
+kapcsolatba hozható.
+(6) Ha a tájékoztatási szolgáltatásra irányuló igény teljesítéséhez több együttműködő szerv által kezelt személyes
+adatot tartalmazó nyilvántartás személyes adaton alapuló összekapcsolása szükséges, a kulcsszolgáltató szervezet
+az érintett együttműködő szervek részére olyan technológiai megoldást dolgoz ki, amely az (5) bekezdésben
+foglaltak megtartása mellett az összekapcsolást lehetővé teszi.
+(7) Az anonimizálást a kulcsszolgáltató szervezet által biztosított eszköz átadását követő 5 munkanapon belül
+az együttműködő szerv elvégzi, és a NAVÜ rendelkezésére bocsátja a személyes adatokat helyettesítő adatokat.
+(8) A személyes adatokat helyettesítő adatok NAVÜ részére való rendelkezésre bocsátását követő haladéktalan,
+de legfeljebb 3 munkanapon belüli, a Natv. szerinti törléséről az együttműködő szerv gondoskodik.
+(9) A rendelkezésére bocsátott személyes adatokat helyettesítő adatok tájékoztatási szolgáltatás teljesítését követő
+haladéktalan, de legfeljebb 3 munkanapon belüli, a Natv. szerinti törléséről a NAVÜ gondoskodik.
+(10) A kulcsszolgáltató szervezet által biztosított eszköz alkalmazásával keletkezett egyedi elemek, azonosítók és kódok
+tájékoztatási szolgáltatás teljesítését követő haladéktalan, de legfeljebb 3 munkanapon belüli, a Natv. szerinti
+törléséről a kulcsszolgáltató szervezet gondoskodik.
+
+(11) Ha a rendelkezésre bocsátás vagy a tájékoztatási szolgáltatás teljesítése elmarad, a (8)–(10) bekezdésben
+foglalt törlésről az erről való tudomásszerzést követően haladéktalanul, de legfeljebb 3 munkanapon belül kell
+gondoskodni.
+23. § (1) A 22. § (5) bekezdése szerinti technológiai megoldás a személyes adatokat helyettesítő adatok képzéséről, azok
+NAVÜ részére való továbbításáról és azt követő törléséhez szükséges lépésekről való tájékoztatást is magába kell,
+hogy foglalja.
+(2) A 22. § (5) bekezdése szerinti technológiai megoldás esetében követelmény, hogy
+a) kizárja annak lehetőségét, hogy abból következtetni lehessen más együttműködő szervnél kezelt személyes
+adatra,
+b) biztosítsa a személyes adat visszafejthetetlenségét, és
+c) kizárólag célhoz kötötten lehessen alkalmazni.
+(3) A kulcsszolgáltató szervezet által nyújtott szolgáltatásért a kulcsszolgáltató szervezetnek járó igazgatási szolgáltatási
+díjat a NAVÜ fizeti meg.
+(4) Ha a NAVÜ és az együttműködő szerv vagy szervek között a 18. § (1) és (2) bekezdése szerinti együttműködés jön
+létre, az együttműködési megállapodásba a kulcsszolgáltató szervezet is bevonható.
+IV. FEJEZET
+A NEMZETI ADATVAGYON TANÁCS FELADATAIVAL, MŰKÖDÉSÉVEL ÉS ELJÁRÁSÁVAL ÖSSZEFÜGGŐ
+RÉSZLETES SZABÁLYOK
+11. A Nemzeti Adatvagyon Tanács célja, feladat- és hatásköre
+24. § (1) Az NVT célja a nemzeti adatvagyonnal összefüggő kormányzati politika végrehajtásának, valamint a nemzeti
+adatvagyon-gazdálkodással, adatgazdasággal összefüggő, illetve a nemzeti adatvagyon hasznosításához
+kapcsolódó, mesterséges intelligencián alapuló adatelemzési technológiák alkalmazásának ösztönzése, valamint
+ezek megvalósításának felügyelete és ezáltal
+a) a nemzeti adatvagyonnal, adatgazdasággal összefüggő, adatalapú, adatelemzésen alapuló, hatékony
+kormányzás és gazdaság megvalósítása,
+b) az állam nemzeti adatvagyon hasznosításához kapcsolódó, mesterséges intelligencián alapuló adatelemző
+képességének megteremtése,
+c) a nemzeti adatvagyon széles körű hasznosítása,
+d) a központi kormányzati igazgatási szervek döntéstámogatása,
+e) a gazdasági szereplők döntéstámogatása,
+f) a nemzeti adatszuverenitás biztosítása.
+(2) Az NVT az (1) bekezdésben meghatározott célok elérése érdekében, a NAVÜ tevékenységével összefüggésben
+a) érvényre juttatja a nemzeti adatvagyon-gazdálkodással kapcsolatos kormányzati szempontokat,
+b) meghatározza az alkalmazandó alapelveket,
+c) a tájékoztatási szolgáltatás teljesítésével összefüggésben előzetes, a Natv. 9. § (1) bekezdése szerinti általános
+érvényű döntési álláspontot ad ki, illetve az e rendelet szerinti előzetes eseti véleményt ad, vagy egyedi
+döntést hoz.
+12. A Nemzeti Adatvagyon Tanács támogató tevékenysége
+25. § (1) Az NVT működésével közreműködik a miniszter Statútum 13. § h) és k) pontja szerinti feladatai végrehajtásában.
+(2) Az NVT – a NAVÜ minden év március 1. napjáig megküldött adatszolgáltatása alapján – minden évben értékeli
+a nemzeti adatvagyon-gazdálkodás megvalósításának helyzetét.
+(3) Az NVT – a NAVÜ (2) bekezdés szerinti adatszolgáltatásának kézhezvételétől számított 60 napon belül – a Kormány
+részére jelentést készít. A jelentés részét képezi
+a) a nemzeti adatvagyonnal összefüggő kormányzati politika kialakítására,
+b) a nemzeti adatvagyon-gazdálkodással összefüggő, adatalapú, adatelemzésen alapuló, hatékony
+kormányzás és gazdaság megvalósításával összefüggő fejlesztési irányok – ideértve a nemzeti adatvagyon-
+gazdálkodással, adatgazdasággal összefüggő és a nemzeti adatvagyon hasznosításához kapcsolódó,
+
+mesterséges intelligencián alapuló adatelemzési technológiák fejlesztésének kérdését is – rövid (legfeljebb
+1 éves), közép- (legfeljebb 3 éves) és hosszú (3 évnél hosszabb) távú meghatározására, valamint
+c) a b) pontban foglalt fejlesztési irányok megvalósítására vonatkozó hazai és európai uniós fejlesztési források
+biztosítására
+vonatkozó javaslattétel.
+13. A Nemzeti Adatvagyon Tanács működése
+26. § (1) Az NVT az ügyrendjét maga határozza meg, de havonta legalább kettő alkalommal rendes ülést tart.
+(2) Az NVT ülését a miniszter hívja össze.
+27. § (1) Az NVT az ülésén az e rendelet szerinti tevékenysége körébe sorolt, valamint bármely, a Kormány vagy
+a miniszterelnök által meghatározott ügyet megvitathat.
+(2) Az NVT rendes vagy rendkívüli ülésének napirendjére, az ülésen eseti meghívottként részt vevő más személyekre
+javaslatot tehet
+a) az NVT bármely tagja és
+b) az NVT munkájában tanácskozási joggal részt vevő személy.
+(3) Az NVT ülésének napirendjét – a miniszter által vezetett munkaszervezetnek a miniszter által kijelölt szervezeti
+egysége útján – a miniszter állítja össze.
+(4) Az NVT ülése nem nyilvános, azon a tagokon kívül, eseti meghívottként kizárólag a miniszter által jóváhagyott
+személy vehet részt.
+(5) Az NVT akkor határozatképes, ha legalább egy tag, továbbá a miniszter is jelen van. Az NVT a határozatait
+szótöbbséggel hozza, szavazategyenlőség esetében a miniszter szavazata dönt.
+(6) A miniszter rendkívüli ülést hív össze, ha azt az NVT e rendelet szerinti tevékenysége ellátása érdekében
+szükségesnek tartja.
+(7) Sürgős esetben, így különösen, ha az ülés előkészítése nem lehetséges, vagy az ülés előkészítése nem szükséges,
+az NVT ülés tartása nélkül is hozhat döntést.
+(8) Az ülés tartása nélküli döntéshozatal esetén az NVT tagjai az előterjesztést telekommunikációs, informatikai eszköz
+útján egyeztetik, valamint tárgyalják meg.
+(9) Az ülés tartása nélküli döntéshozatal esetén – az egyes napirendi pontok tekintetében – a határozatképességre
+vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a döntéshozatali eljárás akkor eredményes,
+ha – telekommunikációs vagy informatikai eszköz útján – írásban legalább annyi szavazatot megküldenek
+a miniszter részére, amennyi tag jelenléte a határozatképességhez szükséges lett volna az ülés megtartása esetén.
+Ha valamely tag a miniszter által megjelölt határidőn belül írásban nem szavazott az előterjesztésről, azt úgy kell
+tekinteni, mintha a nem szavazó tag – az adott napirendi pont tekintetében – az ülésen nem jelent volna meg.
+28. § (1) A minisztert távollétében vagy akadályoztatása esetén az NVT vezetése tekintetében teljes jogkörben az általa
+kijelölt személy helyettesíti. Az NVT más tagját távollétében vagy akadályoztatása esetén az NVT ülésen való
+részvétel tekintetében teljes jogkörben a tag által kijelölt személy helyettesíti. Az így kijelölt személy maga helyett
+helyettesítő személyt nem jelölhet ki.
+(2) Az NVT tagja a 24. § (2) bekezdés c) pontja szerinti előzetes eseti vélemény vagy egyedi döntés tekintetében az őt
+megillető szavazati jogának gyakorlására állandó vagy eseti jelleggel döntésre jogosult helyettesítő személyt
+jelölhet ki maga helyett. Az így kijelölt személy maga helyett helyettesítő személyt nem jelölhet ki.
+14. A Nemzeti Adatvagyon Tanáccsal kapcsolatos összeférhetetlenségi szabályok
+29. § (1) Az NVT tagja vagy az őt helyettesítő személy nem lehet tagja vagy részvényese, továbbá nem állhat
+munkaviszonyban vagy munkavégzéssel járó egyéb jogviszonyban, vezető tisztségviselői jogviszonyban vagy
+felügyelőbizottsági tagsági jogviszonyban olyan gazdasági társasággal, amelynek tevékenységi köre a Natv. szerinti
+nemzeti adatvagyon hasznosításával kapcsolatos, vagy az e rendeletben meghatározott tevékenységnek és célnak
+megfeleltethető adatelemzési feladatok ellátását vagy tájékoztatási szolgáltatási igény kielégítését szolgáló,
+a NAVÜ e rendelet szerinti tevékenységétől függő vagy azzal konkuráló tevékenységre kiterjed.
+
+(2) Az NVT tagja vagy az őt helyettesítő személy haladéktalanul bejelenti a miniszter által vezetett minisztérium
+közigazgatási államtitkára részére, ha vele szemben az (1) bekezdésben meghatározott összeférhetetlenségi ok
+merült fel, vagy összeférhetetlen helyzetbe került.
+(3) Ha az NVT tagja, illetve az őt helyettesítő személy az összeférhetetlenséget a felszólítástól számított harminc napon
+belül nem szüntette meg, a tagsága, illetve a kijelölése megszűnik.
+15. A Nemzeti Adatvagyon Tanács eljárása
+30. § (1) A NAVÜ által előzetes eseti vélemény kialakítása vagy egyedi döntés meghozatala céljából előterjesztett
+tájékoztatási szolgáltatási igény vonatkozásában az NVT
+a) a kormányzati tájékoztatási szolgáltatásra irányuló igény esetében a 17. § (1) bekezdése szerinti határidőn
+belül alakítja ki az álláspontját, és az álláspontjáról a NAVÜ-t tájékoztatja,
+b) a piaci tájékoztatási szolgáltatásra irányuló igény esetében a 20. § (3) bekezdése szerinti határidőn belül dönt,
+és a döntéséről a NAVÜ-t tájékoztatja.
+(2) Az NVT a megalapozott döntés érdekében, ha az szükséges, az (1) bekezdés szerinti határidőn belül, vezetője útján
+a) bármely központi államigazgatási szervet, érintett minisztert vagy állami vezetőt megkereshet,
+b) a NAVÜ-vel egyeztethet, valamint az igény előterjesztőjétől a NAVÜ útján felvilágosítást, valamint
+hiánypótlást kérhet, valamint
+c) a Kormány döntését kérheti.
+(3) Az NVT vezetője (2) bekezdés a) pontja szerinti megkeresésére a megkeresett szerv vagy személy a kért
+tájékoztatást soron kívül, de legfeljebb a megkeresés kézhezvételétől számított 5 munkanapon belül megadni,
+valamint együttműködni köteles.
+(4) Az NVT az (1) bekezdés szerint előzetes eseti vélemény kialakítása vagy egyedi döntés meghozatala céljából
+előterjesztett tájékoztatási szolgáltatási igény teljesítését
+a) jóváhagyja,
+b) feltételekkel jóváhagyja, vagy
+c) elutasítja.
+(5) Ha az NVT a jóváhagyását feltételekhez kötötte, a feltételek teljesülésével a tájékoztatási szolgáltatási igény
+teljesítését az NVT által jóváhagyottnak kell tekinteni. A NAVÜ a feltételek teljesüléséről – a feltételek teljesülését
+követő 15 munkanapon belül – az NVT részére beszámol.
+(6) Az NVT a döntésekor az e rendeletben meghatározott hatáskörében eljárva szabadon mérlegelhet, a döntését
+a rendelkezésre álló információk alapján hozza meg. Az NVT-nek az elutasító döntést nem kell indokolnia, azonban
+meghatározhatja azokat a szempontokat, amelyek alapján az igény ismételten előterjeszthető.
+(7) A (2) bekezdés a) és b) pontja szerinti esetben a tájékoztatás megadásáig, a (2) bekezdés c) pontja szerinti esetben
+a Kormány döntéséig az NVT részére megállapított, (1) bekezdés szerinti határidő nyugszik. A (2) bekezdés
+a)–c) pontja alkalmazásáról, határidő nyugvásáról és a határidő újraindulásáról az NVT – a miniszter által vezetett
+munkaszervezetnek a miniszter által kijelölt szervezeti egysége útján – a NAVÜ-t tájékoztatja.
+16. A mesterséges intelligencián alapuló adatelemzési kapacitások igénybevétele
+31. § (1) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv vagy az ilyen költségvetési szerv irányítása
+vagy felügyelete alá tartozó központi, területi és helyi költségvetési szerv vagy intézmény vagy azon gazdasági
+társaság, amelyben az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti többségi befolyást
+gyakorol, ha ilyen technológiával rendelkezik, köteles a mesterséges intelligencián alapuló adatelemzési szabad
+kapacitásainak Natv. szerinti adatelemzési célokra történő rendelkezésre bocsátása tekintetében a NAVÜ-vel
+együttműködni.
+(2) A NAVÜ és az (1) bekezdés szerinti szerv, intézmény vagy gazdasági társaság közötti együttműködés szabályait
+együttműködési megállapodásban kell rögzíteni, amely tartalmazza
+a) a mesterséges intelligencián alapuló adatelemzési szabad kapacitások adatelemzés céljára való
+rendelkezésre bocsátásának módját, feltételeit és a törlési feladatokat,
+b) az adatelemzésben együttműködő felek feladat- és felelősségi körét,
+c) az adatelemzés megvalósításának módját,
+d) az adatelemzési igények kiszolgálási körülményeit, valamint
+
+e) a mesterséges intelligencián alapuló adatelemzési szabad kapacitások adatelemzés céljára való
+rendelkezésre bocsátásával közvetlen összefüggésben felmerült többletköltségekkel kapcsolatos egymás
+közötti elszámolás, illetve a díjbevételekből való részesedés elszámolásának módját.
+(3) Az (1) és (2) bekezdés szerinti együttműködés létrehozható egy vagy több adatelemzés megvalósítására, egy vagy
+több, az (1) bekezdés szerinti szerv, intézmény vagy gazdasági társaság bevonásával, meghatározott adat-, illetve
+igénytípusra, valamint határozott vagy határozatlan időre.
+(4) Az (1) bekezdés szerinti szerv, intézmény vagy gazdasági társaság a (2) bekezdés szerinti többletköltség
+meghatározásánál a más forrásból megtérített vagy finanszírozható költségeit nem számolhatja el.
+(5) Az (1) bekezdés szerinti szerv, intézmény vagy gazdasági társaság a (2) bekezdés szerinti többletköltség mértéke
+meghatározásakor objektív, átlátható és ellenőrizhető módon köteles eljárni.
+(6) Az (1) bekezdés szerinti szerv, intézmény vagy gazdasági társaság a mesterséges intelligencián alapuló adatelemzési
+szabad kapacitások adatelemzés céljára való rendelkezésre bocsátását alapos ok nélkül nem tagadhatja meg.
+Az alapos megtagadási ok fennállását az (1) bekezdés szerinti szervnek, intézménynek vagy gazdasági társaságnak
+igazolnia kell.
+V. FEJEZET
+ZÁRÓ RENDELKEZÉSEK
+17. Hatályba léptető rendelkezések
+32. §
+Ez a rendelet a kihirdetését követő napon (a továbbiakban: kezdő nap) lép hatályba.
+18. Átmeneti rendelkezések
+33. § (1) Az e rendeletben foglaltak teljesítése érdekében, az ahhoz szükséges mértékben, a NAVÜ – a (2) bekezdésben
+foglaltakra is figyelemmel – jogosult meghatározni az együttműködő szerv részére az adatok adatelemzés
+céljára való rendelkezésre bocsátásához, a személyes adatok anonimizálásához szükséges alapvető informatikai
+feltételeket.
+(2) A NAVÜ az (1) bekezdés szerinti feltételek megteremtésével összefüggésben olyan műszaki megoldás előírására
+köteles, amely lehetővé teszi az adatok géppel olvasható, elektronikusan feldolgozható formában, elektronikus
+úton, alkalmazásprogramozási interfészeken keresztül és – szükség szerint – az adatot tartalmazó adatbázishoz való
+közvetlen hozzáféréssel és csoportos letöltésre alkalmas módon történő adatelemzés céljára való rendelkezésre
+bocsátását, kivéve, ha annak biztosítása
+a) az együttműködő szerv számára jelentős hátránnyal vagy a költségei megsokszorozódásával járna, és
+b) az együttműködő szerv részéről olyan mértékű erőfeszítést jelentene, amely már nem áll arányban azzal
+az előnnyel, amivel az adatok elemzése – különösen a társadalomra, a környezetre vagy a gazdaságra
+nézve – jár.
+(3) A NAVÜ az (1) bekezdés szerinti feltételek megteremtésével összefüggésben – a (2) bekezdésben foglaltakra is
+figyelemmel – olyan műszaki megoldás előírására köteles, amely lehetővé teszi az e rendelet szerinti érintett adatok
+automatikus információátadás útján történő átvételét, ha azt az együttműködő szerv a Központi Kormányzati
+Szolgáltatási Busz útján átadni képes.
+(4) Az együttműködő szerv az (1) bekezdés szerinti feltételeknek soron kívül, de legkésőbb az azokról való
+tudomásszerzést követő 60 napon belül köteles megfelelni. Önmagában az a körülmény, hogy az együttműködő
+szerv nem felel meg az (1) bekezdés szerinti feltételeknek, vagy a feltételeknek való megfelelés költségét részére
+a NAVÜ vagy a kulcsszolgáltató szervezet nem téríti meg, az együttműködő szervet nem mentesíti az e rendeletben
+foglalt kötelezettségei teljesítése alól.
+(5) A (2) bekezdés a) és b) pontja szerinti feltételek fennállását az együttműködő szervnek kell igazolnia.
+(6) Ha az együttműködő szerv és a NAVÜ a Natv. 7. § (5) bekezdés c) pontjában foglaltak fennállását eltérően ítéli meg,
+a NAVÜ megkeresésére a Nemzetbiztonsági Kabinet dönt arról, hogy fennáll-e a Natv. 7. § (5) bekezdés c) pontja
+szerinti körülmény. A Nemzetbiztonsági Kabinet a döntése kialakítása előtt bevonhatja a feladatköre szerinti érintett
+állami szervet is.
+
+(7) Ha a Natv. 7. § (8) bekezdés c) pontjában foglaltak megállapíthatósága kérdéses, a NAVÜ megkeresésére
+a Nemzetbiztonsági Kabinet dönt arról, hogy fennáll-e a Natv. 7. § (8) bekezdés c) pontja szerinti körülmény.
+A Nemzetbiztonsági Kabinet a döntése kialakítása előtt bevonhatja a feladatköre szerinti érintett állami szervet is.
+(8) A NAVÜ jogosult és köteles a 14. § (3) bekezdése, illetve a 20. § (2) bekezdése szerinti tájékoztatását visszavonni,
+továbbá a szolgáltatás teljesítését megtagadni, a tájékoztatási szolgáltatás igénylőjével megkötött megállapodástól
+elállni, illetve, ha az eredeti állapot nem állítható helyre, a megállapodást azonnali hatállyal felmondani, ha utólag
+jut tudomására, hogy a Natv. 7. § (8) bekezdés a)–c) pontjában foglaltak vagy a 14. § (8) bekezdés a)–e) pontjában
+foglaltak szerinti teljesítést kizáró ok áll fenn.
+(9) Ha az e rendelet szerinti érintett adatokat nem a közfeladatot ellátó szerv vagy nem az együttműködő szerv maga
+kezeli, de az adatok kezelésére jogosult szervezet azonosítható, az e rendeletben foglaltak az érintett adatok
+kezelésére jogosult más szervezetek, személyek vonatkozásában is megfelelően értendők és alkalmazandók.
+(10) Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) és (3) bekezdésére figyelemmel, a NAVÜ az e rendelet
+szerinti, általa nyújtott szolgáltatásért neki járó díjbevételeket az e rendeletben meghatározott közfeladata
+ellátásának pénzügyi fedezetére használhatja fel.
+(11) A NAVÜ és az NVT e rendeletben foglalt eljárása és döntése nem minősül az általános közigazgatási rendtartásról
+szóló 2016. évi CL. törvény szerinti hatósági eljárásnak, valamint döntésnek.
+(12) A kulcsszolgáltató szervezet az e rendeletben meghatározott közfeladata elősegítése érdekében a szolgáltatását
+az együttműködő szervek irányába a Központi Kormányzati Szolgáltatási Busz útján szolgáltatja, ha a szolgáltatás
+ilyen módon történő igénybevételére az együttműködő szerv alkalmas.
+(13) A NAVÜ és a kulcsszolgáltató szervezet az Elektronikus Fizetési és Elszámolás Rendszer tranzakciós díjak és a Magyar
+Államkincstár által alkalmazott, átutalási műveletekhez kapcsolódó díjak, a kormányzati hitelesítésszolgáltató
+tanúsítvány szolgáltatásaihoz kapcsolódó díjak, valamint a dokumentumtárolási szolgáltatáshoz kapcsolódó
+tárhelyszolgáltatás kapacitásdíja kivételével nem köteles díj fizetésére, és jogosult az elektronikus ügyintézés
+részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerinti szabályozott és központi elektronikus ügyintézési
+szolgáltatás igénybevételére, ha azt az e rendeletben meghatározott közfeladata elősegítése érdekében teszi.
+34. § (1) E rendelet alkalmazásában a nemzeti adatvagyon-gazdálkodás a nemzeti adatvagyonnal való gazdálkodást jelenti.
+(2) 2022. december 31-éig e rendelet szerinti piaci tájékoztatási szolgáltatás – összhangban a Natv. 16. §
+(1) bekezdésében foglaltakkal – kizárólag kormányrendeletben meghatározott nyilvántartások tekintetében
+nyújtható.
+(3) A 9. § (1) bekezdése, illetve a 12. § (1) bekezdése szerinti közadatkataszter és nemzeti adatvagyon leltár elkészítésére
+a NAVÜ a kezdő naptól számított 150 napon belül köteles. E határidő lejártáig a NAVÜ e rendelet szerinti
+tájékoztatási szolgáltatás nyújtására nem köteles.
+(4) A 4. § (1) bekezdése szerinti informatikai rendszer és nyílt vagy zárt hálózaton működő webes felület és a 8. §
+(1) bekezdése szerinti, a közadatok újrahasznosítását támogató felület működtetéséhez, valamint az 5. §
+(2) bekezdése szerinti elektronikus ügyintézés biztosításához szükséges feltételek megteremtésére a NAVÜ a kezdő
+naptól számított 150 napon belül köteles. E feltételek megteremtéséig a NAVÜ e rendelet szerinti, közadatok
+újrahasznosításával összefüggő szolgáltatási feladatai, valamint a tájékoztatási szolgáltatási feladatai ellátására nem
+köteles.
+(5) A NAVÜ a 8. § (1) bekezdése szerinti, a közadatok újrahasznosítását támogató felület kialakítása során a Nemzeti
+Közadatportál vagy más, törvényben vagy kormányrendeletben meghatározott, a közérdekű adatok elektronikus
+közzétételére vagy a közadatok keresésére alkalmas nyílt hálózaton működő webes felület és az azt működtető
+rendszer egyes funkcióit és informatikai megoldását részben vagy egészben átvenni és azt működtetni jogosult.
+(6) A NAVÜ a 11. § (7) bekezdése szerinti automatikus döntéshozatali eljárás alkalmazása érdekében az Automatikus
+Közigazgatási Döntéshozatali rendszer vagy más, törvényben vagy kormányrendeletben meghatározott,
+automatikus döntéshozatalra alkalmas elektronikus alkalmazás, és az azt működtető rendszer egyes funkcióit és
+informatikai megoldását részben vagy egészben átvenni és azt működtetni jogosult.
+(7) A NAVÜ felállításával, tevékenységének megkezdésével összefüggésben álló közbeszerzési eljárások tekintetében
+az ajánlatkérő a kezdő naptól számított 120. napig minden beszerzés esetében jogosult a közbeszerzésekről
+szóló 2015. évi CXLIII. törvény szerinti rendkívüli sürgősségre alapított hirdetmény nélküli tárgyalásos eljárás
+alkalmazására és megindítására.
+
+19. Hatályon kívül helyező rendelkezések
+35. §
+Hatályát veszti a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati
+Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.)
+Korm. rendelet 3. § (1) bekezdés a) pontja.
+ Orbán Viktor s. k.,
+ miniszterelnök
