@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti a mezőőrök és a hegyőrök szolgálati viszonyáról szóló 29/1998. (IV. 30.) FM rendelet.
+## 12. §[^1]
 
 1. melléklet a 40/2021. (X. 27.) AM rendelethez
 
@@ -103,3 +103,5 @@
 2.4.1. Problémamegoldás, hibaelhárítás.
 
 2.4.2. Helyzetfelismerés.
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
