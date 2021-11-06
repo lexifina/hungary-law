@@ -48,46 +48,17 @@
 
 ## h) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, címrendi kiegészítésről és egyes kormányhatározatok módosításáról szóló 1692/2021. (IX. 30.) Korm. határozat 2. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 28. Hungary Helps Programhoz kapcsolódó támogatások jogcímcsoport, K5 Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 5 410 748 573 forintból 162 000 000 forint a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 83. Hungary Helps Ügynökség Nonprofit Zrt. szakmai feladatainak ellátása jogcím, K5 Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2. A magyar kutatóűrhajós misszióját előkészítő szerződés és a misszió megvalósításához kapcsolódó iparfejlesztő intézkedések és forrásigények elfogadásáról szóló 1518/2021. (VII. 30.) Korm. határozat (a továbbiakban: Korm. határozat) 3. pontja a következő c) alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány
+## 3.[^2]
 
-## felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pontban meghatározott cél megvalósítása érdekében a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet)
+## 4.[^3]
 
-## „c) XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külgazdasági és Külügyminisztérium Külképviseletek igazgatása cím javára 6 575 000 amerikai dollárnak megfelelő forint összegű többletforrás”
-
-## (biztosításáról;)
-
-## 3. A Korm. határozat 4. pontja a következő c) alponttal egészül ki:
-
-## (A Kormány
-
-## felhívja a pénzügyminisztert, hogy gondoskodjon az 1. pontban meghatározott cél megvalósítása érdekében a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet)
-
-## „c) XVIII. Külgazdasági és Külügyminisztérium fejezet, 2. Külgazdasági és Külügyminisztérium Külképviseletek igazgatása cím javára 31 500 000 amerikai dollárnak megfelelő forint összegű többletforrás”
-
-## (biztosításáról.)
-
-## 4. A Korm. határozat a következő 6. ponttal egészül ki:
-
-## (A Kormány)
-
-## „6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi a külgazdasági és külügyminiszter számára, hogy az 1. pontban foglalt feladat megvalósítása érdekében
-
-## a) a 2022. évi központi költségvetés terhére legfeljebb 44 500 000 amerikai dollárnak megfelelő forint összeg,
-
-## b) a 2023. évi központi költségvetés terhére legfeljebb 27 500 000 amerikai dollárnak megfelelő forint összeg,
-
-## c) a 2024. évi központi költségvetés terhére legfeljebb 13 500 000 amerikai dollárnak megfelelő forint összeg mértékéig éven túli kötelezettséget vállaljon.”
-
-## 5. A Korm. határozat
-
-## a) 3. pont a) alpontjában az „500 000” szövegrész helyébe a „40 000” szöveg,
-
-## b) 3. pont b) alpontjában a „13 000 000” szövegrész helyébe a „6 885 000” szöveg,
-
-## c) 4. pont b) alpontjában a „44 000 000” szövegrész helyébe a „12 500 000” szöveg
-
-## lép.
+## 5.[^4]
 
 1. melléklet az 1784/2021. (XI. 5.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
