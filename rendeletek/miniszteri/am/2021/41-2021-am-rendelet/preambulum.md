@@ -1,0 +1,7 @@
+A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (15) bekezdés a) pontjában,
+
+a 2. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8) bekezdés g) pontjában és (8a) bekezdés a) pontjában
+
+foglalt felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 79. § 9. pontjában meghatározott feladatkörömben eljárva – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8a) bekezdés a) pontjában foglalt felhatalmazás tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 92. § (1) bekezdés 3. pontjában meghatározott feladatkörében eljáró emberi erőforrások miniszterével egyetértésben –
+
+a következőket rendelem el:
