@@ -36,7 +36,7 @@
 
 ## 3.4. Az ÁEM-t kell alkalmazni annak vizsgálatára, hogy teljesülnek-e az expozíciókoncentrációra vonatkozó kötelezettségek.
 
-11. melléklet a 6/2011. (I. 14.) VM rendelethez[^37]
+11. melléklet a 6/2011. (I. 14.) VM rendelethez[^39]
 
 ## Adatminőségi célkitűzések és a levegőminőségi modell követelményei a levegő arzén, kadmium, nikkel, benz(a)pirén tartalmának meghatározásához
 
@@ -74,4 +74,4 @@
 
 3. Az objektív becslési módszerek alkalmazása esetén a bizonytalanság nem érheti el a ±100%-ot.
 
-[^37]: A 11. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § f) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § d) pontja szerint módosított szöveg.
+[^39]: A 11. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § f) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § d) pontja szerint módosított szöveg.

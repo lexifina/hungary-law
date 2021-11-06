@@ -1,4 +1,4 @@
-13. melléklet a 6/2011. (I. 14.) VM rendelethez[^39]
+13. melléklet a 6/2011. (I. 14.) VM rendelethez[^41]
 
 1. Folyamatos kibocsátásmérésre kötelezett légszennyező technológiák és a mérendő légszennyező anyagok
 
@@ -14,4 +14,4 @@
 
 2. A folyamatos mérési kötelezettség az 1. pontban foglalt táblázat 3. sorában szereplő titán-dioxid gyártás szulfát eljárás esetében a hulladéksav-sűrítést végző berendezésekből a feltárás és kalcinálás során kibocsátott gáz-halmazállapotú kén-dioxid és kén-trioxid kibocsátásokra vonatkozik.
 
-[^39]: A 13. melléklet a 84/2016. (XII. 16.) FM rendelet 14. §-ával megállapított szöveg.
+[^41]: A 13. melléklet a 84/2016. (XII. 16.) FM rendelet 14. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-15. melléklet a 6/2011. (I. 14.) VM rendelethez[^41]
+15. melléklet a 6/2011. (I. 14.) VM rendelethez[^43]
 
 ## Az időszakos kibocsátás mérés szükséges időtartama
 
@@ -16,4 +16,4 @@
 
 1.3. Az időszakos mérés szükséges időtartama időben rendszertelenül változó kibocsátások esetén legalább 6 óra.
 
-[^41]: A 15. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § f) pontja szerint módosított szöveg.
+[^43]: A 15. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § f) pontja szerint módosított szöveg.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-6-20-2Y
 | 2015-07-03 | 2011-6-20-2Y.5 | 33/2015. (VI. 25.) FM rendelet |
 | 2016-12-24 | 2011-6-20-2Y.6 | 84/2016. (XII. 16.) FM rendelet |
 | 2017-01-01 | 2011-6-20-2Y.7 | 89/2016. (XII. 29.) FM rendelet |
+| 2021-11-06 | 2011-6-20-2Y.8 | 41/2021. (X. 29.) AM rendelet |

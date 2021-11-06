@@ -1,4 +1,4 @@
-2. melléklet a 6/2011. (I. 14.) VM rendelethez[^27]
+2. melléklet a 6/2011. (I. 14.) VM rendelethez[^29]
 
 ## A levegőterheltségi szintet vizsgáló mérőpontok elhelyezésének követelményei
 
@@ -78,4 +78,4 @@ A növényzet és a természetes ökológiai rendszerek védelmét szolgáló mi
 
 4.1. A 4. pontban leírt folyamatot a Levegőtisztaság-védelmi Referencia Központ felügyeli.
 
-[^27]: A 2. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § a) pontja szerint módosított szöveg.
+[^29]: A 2. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § a) pontja szerint módosított szöveg.

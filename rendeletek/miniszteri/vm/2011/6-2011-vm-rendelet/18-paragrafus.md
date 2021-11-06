@@ -2,7 +2,7 @@
 
 ## 10. A helyhez kötött légszennyező források ellenőrzésének dokumentálása
 
-18. § (1)[^17] A létesítmény üzemeltetője köteles a környezetvédelmi hatóság által az engedélyben meghatározott légszennyező forrásokról és az ezekhez tartozó technológiai berendezések üzemviteléről folyamatosan üzemnaplót vezetni, amelyben fel kell tüntetni:
+18. § (1)[^19] A létesítmény üzemeltetője köteles a környezetvédelmi hatóság által az engedélyben meghatározott légszennyező forrásokról és az ezekhez tartozó technológiai berendezések üzemviteléről folyamatosan üzemnaplót vezetni, amelyben fel kell tüntetni:
 
 a) a technológiai berendezések, valamint az elszívó és légszennyezőanyag-leválasztó berendezések üzemidejét;
 
@@ -16,11 +16,11 @@ e) a kibocsátások ellenőrzésének formáját, a mérés időpontját, gyakor
 
 f) a kibocsátás ellenőrzését végző szervezet megnevezését, a mérési vagy vizsgálati jegyzőkönyv számát vagy jelét;
 
-g)[^18] a légszennyezőforrás üzemeltetési engedélyében előírt kibocsátási határértékeknek, valamint üzemeltetési paramétereknek való megfelelést.
+g)[^20] a légszennyezőforrás üzemeltetési engedélyében előírt kibocsátási határértékeknek, valamint üzemeltetési paramétereknek való megfelelést.
 
 (2) Az üzemnaplót minden naptári év végén le kell zárni, és a 19. § (1) bekezdés szerinti éves jelentéshez előírt összesítést el kell végezni.
 
 (3) Az üzemnaplót a környezetvédelmi hatóság jogosult ellenőrizni, és az üzemeltetőt a tapasztalt hiányosságok megszüntetésére vagy pótlására kötelezni.
 
-[^17]: A 18. § (1) bekezdés nyitó szövegrésze a 84/2016. (XII. 16.) FM rendelet 16. § c) pontja szerint módosított szöveg.
-[^18]: A 18. § (1) bekezdés g) pontját a 84/2016. (XII. 16.) FM rendelet 9. §-a iktatta be.
+[^19]: A 18. § (1) bekezdés nyitó szövegrésze a 84/2016. (XII. 16.) FM rendelet 16. § c) pontja szerint módosított szöveg.
+[^20]: A 18. § (1) bekezdés g) pontját a 84/2016. (XII. 16.) FM rendelet 9. §-a iktatta be.
