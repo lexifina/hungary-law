@@ -1,0 +1,3 @@
+28. § (1) A minisztert távollétében vagy akadályoztatása esetén az NVT vezetése tekintetében teljes jogkörben az általa kijelölt személy helyettesíti. Az NVT más tagját távollétében vagy akadályoztatása esetén az NVT ülésen való részvétel tekintetében teljes jogkörben a tag által kijelölt személy helyettesíti. Az így kijelölt személy maga helyett helyettesítő személyt nem jelölhet ki.
+
+(2) Az NVT tagja a 24. § (2) bekezdés c) pontja szerinti előzetes eseti vélemény vagy egyedi döntés tekintetében az őt megillető szavazati jogának gyakorlására állandó vagy eseti jelleggel döntésre jogosult helyettesítő személyt jelölhet ki maga helyett. Az így kijelölt személy maga helyett helyettesítő személyt nem jelölhet ki.
