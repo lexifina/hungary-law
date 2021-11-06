@@ -1,5 +1,5 @@
-## 1. § A Koordináló szerv által fizetendő hulladékgazdálkodási szolgáltatási díjról szóló 13/2016. (V. 24.) NFM rendelet 9. §-a a következő (7) bekezdéssel egészül ki:
-
-## „(7) A Koordináló szerv azon közszolgáltatók részére, amelyek szolgáltatási területének népsűrűsége 2020. január 1. napi állapot szerint nem haladja meg az országos átlag népsűrűség tízszeresét, szolgáltatási díjként kifizeti az e rendelet 2021. július 1-jén hatályos 6/A. §-a és 6. melléklete szerinti, 2020. évre vonatkozó költség-felülvizsgálat keretében számított, de a közszolgáltató részére ki nem fizetett közvetlen költségeket, maximum a közszolgáltatónak – a 2021. szeptember 30. napjáig közzétett, 2020. évre vonatkozó beszámolója alapján – a hulladékgazdálkodási közszolgáltatásra eső üzemi tevékenységén keletkezett veszteség mértékéig. A Koordináló szerv a szolgáltatási díj e bekezdés szerinti fizetésére vonatkozó kötelezettségét a Koordináló szerv által fizetendő hulladékgazdálkodási szolgáltatási díjról szóló 13/2016. (VI. 24.) NFM rendelet módosításáról szóló 53/2021. (XI. 2.) ITM rendelet hatálybalépését követő 60 napon belül teljesíti. A Koordináló szerv megkeresésére a Központi Statisztikai Hivatal 5 napon belül megadja a szolgáltatási területre vetített népsűrűségi adatokat a Koordináló szerv részére.”
+## 1. §[^2]
 
 2. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
