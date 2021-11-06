@@ -1,4 +1,4 @@
-## 9. §[^3] E rendeletnek az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet módosításáról szóló 467/2021. (VIII. 5.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. mellékletében foglalt táblázat 6. és 7. sorát a Módr2. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^5] E rendelet 2. mellékletében foglalt táblázat az egyes víziközmű beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet módosításáról szóló 610/2021. (XI. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 8–10. sorát a Módr3. hatálybalépésekor[^6] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 323/2020. (VII. 1.) Korm. rendelethez
 
@@ -48,20 +48,20 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-23.[^5] katasztrófavédelmi hatósági engedélyezési eljárások,
+23.[^7] katasztrófavédelmi hatósági engedélyezési eljárások,
 
-24.[^6] művelési ág megváltoztatására vonatkozó hatósági eljárások,
+24.[^8] művelési ág megváltoztatására vonatkozó hatósági eljárások,
 
-25.[^7] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
+25.[^9] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
 
-26.[^8] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+26.[^10] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-27.[^9] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+27.[^11] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 9. §-t a 467/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2021. augusztus 6.
-[^5]: Az 1. melléklet 23. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
-[^6]: Az 1. melléklet 24. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
-[^7]: Az 1. melléklet 25. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
-[^8]: Az 1. melléklet 26. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
-[^9]: Az 1. melléklet 27. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^5]: A 10. §-t a 610/2021. (XI. 5.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2021. november 6.
+[^7]: Az 1. melléklet 23. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^8]: Az 1. melléklet 24. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 25. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^10]: Az 1. melléklet 26. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^11]: Az 1. melléklet 27. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
