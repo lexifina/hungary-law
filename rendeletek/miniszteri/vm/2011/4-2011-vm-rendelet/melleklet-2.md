@@ -410,10 +410,10 @@
 
 | 23. | Szennyvíz kezelése | 1,5 |
 
-| 24. | Téglagyártás | 3 |
+| 24. | Téglagyártás gumihulladék égetése esetén | 1,5 |
 
 | 25. | Tejfeldolgozás | 1,5 |
 
 | 26. | Nem élelmiszeripari zsírfeldolgozás | 1,5 |
 
-[^15]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a, a 63/2019. (XII. 19.) AM rendelet 3. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet a 71/2012. (VII. 16.) VM rendelet 4. §-a, a 63/2019. (XII. 19.) AM rendelet 3. §-a szerint módosított, a 41/2021. (X. 29.) AM rendelet 2. § a) pontja szerint módosított szöveg.

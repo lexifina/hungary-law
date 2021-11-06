@@ -12,9 +12,9 @@ c) termikus technológia: technológiai célú hőenergia-előállí tás, ahol 
 
 d)[^1] integrált kibocsátás-kezelés az ásványolaj és gázfinomító tevékenységeknél: az egységes környezethasználati engedéllyel működő az ipari kibocsátásokról szóló európai parlamenti és tanácsi irányelv szerinti elérhető legjobb technikákkal (BAT) kapcsolatos következtetéseknek az ásványolaj- és gázfinomítás tekintetében történő meghatározásáról szóló bizottsági végrehajtási határozat hatálya alá tartozó létesítményben működő több vagy az összes tüzelőberendezés, fluid katalitikus krakkoló egység, valamint kénkinyerő egység nitrogén-oxid és kén-dioxid kibocsátásának integrált kezelése a végrehajtási határozatban meghatározott részletes szabályok szerint;
 
-e)[^2] tervezési irányérték: környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységek esetén a vizsgálandó terület légszennyezettségének megítéléséhez, a tevékenység hatásterületének lehatárolásához, terjedési modellek készítéséhez alkalmazandó levegőterheltségi szint.
+e)[^2] tervezési irányérték: a tevékenység tervezése során a vizsgálandó terület levegőterheltségének megítéléséhez, a tevékenység hatásterületének lehatárolásához, terjedési modellek készítéséhez környezeti hatásvizsgálat köteles vagy egységes környezethasználati engedély köteles tevékenységek esetén alkalmazandó, egyéb esetben javasolt levegőterheltségi szint.
 
 (2) E rendeletben a levegő védelméről szóló jogszabály (a továbbiakban: Lvr.) értelmező rendelkezései alkalmazandóak.
 
 [^1]: A 2. § (1) bekezdés d) pontját a 12/2016. (II. 29.) FM rendelet 1. §-a iktatta be.
-[^2]: A 2. § (1) bekezdés e) pontját a 63/2019. (XII. 19.) AM rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés e) pontját a 63/2019. (XII. 19.) AM rendelet 1. §-a iktatta be, szövege a 41/2021. (X. 29.) AM rendelet 1. §-ával megállapított szöveg.

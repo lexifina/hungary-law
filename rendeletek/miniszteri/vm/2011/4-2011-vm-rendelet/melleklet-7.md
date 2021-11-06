@@ -1264,7 +1264,7 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.51.1. Összes szerves anyag kibocsátási határértéke, C-ként megadva 20 mg/m3
 
-2.52.2. A kibocsátási határérték 11 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkozik.
+2.51.2. A kibocsátási határérték 11 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkozik.
 
 2.52.1. Hegesztés, plazmavágás
 
@@ -1310,4 +1310,4 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.56.
 
-[^19]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a, az 53/2017. (X. 18.) FM rendelet 14. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a, az 53/2017. (X. 18.) FM rendelet 14. § (2) bekezdése, a 41/2021. (X. 29.) AM rendelet 2. § b) pontja szerint módosított szöveg.
