@@ -29,3 +29,10 @@ e) az intézkedésre jogosult közeli hozzátartozó nevét, elérhetőségét �
 f) ha ismert, a temetés tervezett helyét és idejét.
 
 (3) A „Katonai szolgálat halottjává” nyilvánítás a Hjt. 139. § (3) bekezdése alapján az elhunyt életútja, érdemei, a szolgálatteljesítésének jellege és halálának körülményei figyelembe vételével történik.
+
+(4)[^8] Azt az elhunytat, aki politikai vagy szakmai felsővezetőként – korábban állami vezetőként – honvédelmi területen vagy a honvédelem érdekében tevékenykedett, a miniszter egyedi döntése alapján a „Honvédelmi Minisztérium saját halottjává” nyilváníthatja.
+
+(5)[^9] Nem minősíthető az a nyugállományú katona, akinek szolgálati viszonya lefokozás vagy szolgálati viszony megszüntetése fenyítés kiszabásával, büntetőeljárás keretében szolgálati viszony megszüntetése, lefokozás, szolgálati viszony keretében betöltött munkakör ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás vagy közügyektől eltiltás alkalmazásával, vagy méltatlanná válás, nemzetbiztonsági szempontból katonai szolgálatra alkalmatlanság miatt szűnt meg, továbbá akinek a fegyelmi vagy becsületbírósági eljárás alapján – a lefokozás mellőzésével – a hivatásos szolgálatból nyugállományba helyezését rendelték el.
+
+[^8]: A 2. § (4) bekezdését a 22/2021. (XI. 5.) HM rendelet 2. §-a iktatta be.
+[^9]: A 2. § (5) bekezdését a 22/2021. (XI. 5.) HM rendelet 2. §-a iktatta be.

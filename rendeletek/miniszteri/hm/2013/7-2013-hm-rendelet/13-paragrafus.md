@@ -1,22 +1,20 @@
-## 8. A kormánytisztviselőkre és a közalkalmazottakra vonatkozó kegyeleti gondoskodás
+## 12. §[^29]
 
-13. § (1) A közalkalmazottakat a „munkáltatói jogkört gyakorló vezető” a „Honvédelmi szervezet saját halottjává” nyilváníthatja.
+## 8. [^30] A kormánytisztviselőkre, közalkalmazottakra és honvédelmi alkalmazottakra vonatkozó kegyeleti gondoskodás
 
-(2) A nyugdíjas közalkalmazottat a Honvédség központi katonai igazgatási és adatfeldolgozó szervezetének vezetője a „Honvédelmi szervezet saját halottjává” nyilváníthatja, ha a Honvédségnél legalább 20 év munkaviszonnyal, vagy közalkalmazotti jogviszonnyal rendelkezett, és ezt a volt munkáltató személyügyi szerve, vagy az elhunyttal közös háztartásban élt házastársa, élettársa, vagy egyenes ágbeli rokona hitelt érdemlően igazolja.
+13. § (1) Az elhunyt közalkalmazottat, honvédelmi alkalmazottat a munkáltatói jogkört gyakorló vezető a „Honvédelmi szervezet saját halottjává” nyilváníthatja. A közszolgálat halottjává nyilvánított elhunyt kormánytisztviselőre a HM közszolgálati szabályzatában foglaltakat kell alkalmazni.
 
-(3) A nyugdíjas kormánytisztviselő a „Közszolgálat halottjává” akkor nyilvánítható, ha a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 152. § (5)–(7) bekezdésében meghatározott feltételeken túl a közszolgálatban legalább 20 év munkaviszonnyal, közalkalmazotti vagy közszolgálati jogviszonnyal rendelkezett, és ezt a volt munkáltató személyügyi szerve, vagy az elhunyttal közös háztartásban élt házastársa, élettársa, vagy egyenes ágbeli rokona hitelt érdemlően igazolja.
+(2) Az elhunyt honvédségi nyugdíjast a Honvédség központi katonai igazgatási és adatfeldolgozó szervének vezetője a „Honvédelmi szervezet saját halottjává” nyilváníthatja, ha honvédelmi szervezetnél legalább 20 év munkaviszonnyal, közalkalmazotti, honvédelmi alkalmazotti vagy kormányzati szolgálati jogviszonnyal – ideértve a politikai szolgálati jogviszonyt és a biztosi jogviszonyt is – rendelkezett, és ezt a volt munkáltató személyügyi szerve vagy az elhunyttal közös háztartásban élt házastársa, élettársa, vagy egyenesági rokona hitelt érdemlően igazolja.
 
-(4) A (2) és (3) bekezdéstől a miniszter kérelem alapján eltérhet, ha az elhunyt a honvédelem érdekében kifejtett tevékenységével kiemelkedően szolgálta a honvédelem ügyét, valamint a honvédelmi hagyományok ápolása területén kiemelkedő tevékenységet végzett.
+(3) A (2) bekezdésben foglaltaktól a miniszter kérelem alapján eltérhet, ha az elhunyt a honvédelem érdekében kifejtett tevékenységével kiemelkedően szolgálta a honvédelem ügyét, valamint a honvédelmi hagyományok ápolása területén kiemelkedő tevékenységet végzett.
 
-(5)[^18] A „Közszolgálat halottjává”, illetve a „Honvédelmi szervezet saját halottjává” történő nyilvánítás esetén a 8. § (2) bekezdés a)–e) és j) pontjában meghatározott kegyeleti költségek és a 9. § (1) bekezdés f) pontja szerinti költségek vállalhatók át. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezések az irányadóak, a (7) és (8) bekezdés szerinti eltérésekkel.
+(4) A „Honvédelmi szervezet saját halottjává” történő nyilvánítás esetén a 8. § (2) bekezdés a)–e) és j) pontjában meghatározott kegyeleti költségek és a 9. § (1) bekezdés f) pontja szerinti költségek vállalhatók át. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezések az irányadóak, a (6) és (7) bekezdésben foglalt eltérésekkel.
 
-(6)[^19] A kormánytisztviselőkre és közalkalmazottakra a 4. § (3) bekezdését és a 10–12. §-t, a nyugdíjas közalkalmazottakra és nyugdíjas kormánytisztviselőkre a 4. § (3) bekezdését alkalmazni kell.
+(5) A kormánytisztviselőre, közalkalmazottra és honvédelmi alkalmazottra a 4. § (3) bekezdését, a 10. és a 11. §-t, a honvédségi nyugdíjasra és a nyugdíjas kormánytisztviselőre a 4. § (3) bekezdését megfelelően alkalmazni kell.
 
-(7)[^20] Az a közalkalmazott vagy kormánytisztviselő, aki a halálát szándékosan maga okozta, vagy a halála önhibájából eredő ittas vagy bódult állapota következménye, csak különös méltánylást érdemlő esetben – figyelemmel az elhunyt pályafutása során kifejtett érdemeire, valamint a haláleset körülményeire – nyilvánítható a „Honvédelmi szervezet saját halottjává”, illetve a „Közszolgálat halottjává”.
+(6) Az a közalkalmazott, honvédelmi alkalmazott vagy honvédségi nyugdíjas, aki a halálát szándékosan maga okozta, vagy a halála önhibájából eredő ittas vagy bódult állapota következménye, csak különös méltánylást érdemlő esetben – figyelemmel az elhunyt pályafutása során kifejtett érdemeire, valamint a haláleset körülményeire – nyilvánítható a „Honvédelmi szervezet saját halottjává”.
 
-(8)[^21] A (7) bekezdés alapján minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a munkáltatói jogkört gyakorló munkáltatói döntésben engedélyezi. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezéseket kell alkalmazni.
+(7) A (6) bekezdés alapján minősítettek eltemetésével összefüggő költségekhez való hozzájárulást a munkáltatói jogkört gyakorló munkáltatói döntésben engedélyezi. A költségek megtérítésére és elszámolására a „Katonai szolgálat halottjára” vonatkozó rendelkezéseket kell alkalmazni.
 
-[^18]: A 13. § (5) bekezdése a 11/2015. (IX. 28.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^19]: A 13. § (6) bekezdése a 11/2015. (IX. 28.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^20]: A 13. § (7) bekezdését a 11/2015. (IX. 28.) HM rendelet 5. § (2) bekezdése iktatta be.
-[^21]: A 13. § (8) bekezdését a 11/2015. (IX. 28.) HM rendelet 5. § (2) bekezdése iktatta be, szövege a 25/2016. (XII. 22.) HM rendelet 15. §-ával megállapított szöveg.
+[^29]: A 12. §-t a 22/2021. (XI. 5.) HM rendelet 12. §-a hatályon kívül helyezte.
+[^30]: A 8. alcím (13. §) a 22/2021. (XI. 5.) HM rendelet 10. §-ával megállapított szöveg.

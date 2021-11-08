@@ -10,13 +10,13 @@ c) a minősítésre jogosult parancsnok engedélyével lehetővé teszi szolgál
 
 d) a „Hősi halottá” nyilvánított elhunytak esetén emlékük megőrzésére sírjelet, síremléket állít, gondoskodik annak állagmegóvásáról, a temetési hely feletti rendelkezési jog meghosszabbításáról, és szükség esetén a maradványok másik temetési helyre történő áthelyezéséről,
 
-e) a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén emlékük megőrzésére sírjelet, síremléket állít, és a síremlékállításig, de legfeljebb a temetést követő 1 évig hozzájárul a temetési hely gondozásának költségeihez,
+e)[^12] a „Honvédelmi Minisztérium saját halottjává” vagy a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén emlékük megőrzésére sírjelet, síremléket állít, és a síremlékállításig, de legfeljebb a temetést követő 1 évig hozzájárul a temetési hely gondozásának költségeihez,
 
-f)[^2] a „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytak esetén sírjel-, síremlékavatást és koszorúzást rendez, illetve az elhunyt érdemei alapján emléktáblát, emlékhelyet létesíthet,
+f)[^13] a „Hősi halottá”, a „Honvédelmi Minisztérium saját halottjává” és a „Magyar Honvédség halottjává” nyilvánított elhunyt esetén sírjel-, síremlékavatást és koszorúzást rendez, illetve az elhunyt érdemei alapján emléktáblát, emlékhelyet létesíthet,
 
-g)[^3] külföldi szolgálatteljesítés közben történő elhalálozás esetén megszervezi az elhunyt Magyarországra történő szállítását, fogadását és
+g)[^14] külföldi szolgálatteljesítés közben történő elhalálozás esetén megszervezi az elhunyt Magyarországra történő szállítását, fogadását és
 
-h)[^4] végrehajtja a nemzeti és állami ünnepek, katonatörténeti eseményekhez kapcsolódó ünnepi megemlékezést szolgáló kegyeleti koszorúzásokat.
+h)[^15] végrehajtja a nemzeti és állami ünnepek, katonatörténeti eseményekhez kapcsolódó ünnepi megemlékezést szolgáló kegyeleti koszorúzásokat.
 
 (2) Az (1) bekezdés e) pontja szerinti határidő leteltét követően
 
@@ -26,19 +26,22 @@ b) a Honvédséget a sírhely karbantartásával, gondozásával kapcsolatos kö
 
 (3) Kegyeleti minősítés esetén a honvéd temetésén az állományilletékes parancsnok, nyugállományú katona temetésén pedig a Honvédség katonai igazgatási és központi adatfeldolgozó szervezetének vezetője a Honvédség képviseletében a sírnál koszorút vagy sírcsokrot (a továbbiakban együtt: koszorú) helyez el.
 
-(4) A „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytakról való megemlékezésként sírjel, síremlékavatáskor, Halottak Napján, a Magyar Hősök Emlékünnepén, vagy kerek évfordulók alkalmából az állományilletékes parancsnok, illetve a Honvédség központi katonai igazgatási és adatfeldolgozó szervezete a sírjelnél, síremléknél koszorút helyezhet el.
+(4)[^16] A „Hősi halottá”, a „Honvédelmi Minisztérium saját halottjává” vagy a „Magyar Honvédség halottjává” nyilvánított elhunytról való megemlékezésként sírjel-, síremlékavatáskor, Halottak Napján, a Magyar Hősök Emlékünnepén vagy születésének kerek – azaz minden 10. – évfordulója alkalmából az állományilletékes parancsnok, illetve a Honvédség központi katonai igazgatási és adatfeldolgozó szerve a sírjelnél, síremléknél koszorút helyezhet el.
 
 (5) A „Hősi halottá” és a „Magyar Honvédség halottjává” nyilvánított elhunytak emlékének megőrzésére a laktanyában, vagy az elhalálozás helyén emléktábla, kopjafa állítható.
 
 (6) A honvédelmi szervezet költségére váltott temetési helyen az elhunyt házastársának vagy élettársának és más közeli hozzátartozójának koporsója vagy urnája a Honvédség katonai igazgatási és központi adatfeldolgozó szervezete vezetőjének hozzájárulásával helyezhető el. Az ebből származó többletköltség a közeli hozzátartozókat terheli.
 
-(7) A Hjt. 139. §-a alapján nem minősített elhunyt temetési helyének gondozási költségeihez történő hozzájárulásról, vagy a költségek teljes átvállalásáról a honvédelemért felelős miniszter (a továbbiakban: miniszter) egyedileg dönt.
+(7)[^17] A Hjt. 139. §-a alapján nem minősített elhunyt temetési helyének gondozási költségeihez történő hozzájárulásról, vagy a költségek teljes átvállalásáról a miniszter egyedileg dönt.
 
 (8) A „Katonai szolgálat halottjává” nyilvánított elhunyt esetén a temetési hely feletti rendelkezési jog a temetést követően átszáll az intézkedésre jogosult közeli hozzátartozóra.
 
-(9)[^5] A minősítésre jogosult parancsnok és a honvédelmi szervezet vezetője honvéd, közalkalmazott és kormánytisztviselő, valamint nyugállományú katona, nyugdíjas kormánytisztviselő és nyugdíjas közalkalmazott elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat, illetve az intézkedésre jogosult közeli hozzátartozó részére gyásztáviratot küldhet.
+(9)[^18] A minősítésre jogosult parancsnok és a honvédelmi szervezet vezetője a honvéd, közalkalmazott, honvédelmi alkalmazott és kormánytisztviselő, honvédelmi területen vagy a honvédelem érdekében politikai vagy szakmai felsővezetőként – korábban állami vezetőként – tevékenykedő személy, valamint nyugállományú katona, nyugdíjas kormánytisztviselő és honvédségi nyugdíjas elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat.
 
-[^2]: A 4. § (1) bekezdés f) pontja a 16/2018. (IX. 27.) 2. § (1) bekezdésével megállapított szöveg.
-[^3]: A 4. § (1) bekezdés g) pontja a 16/2018. (IX. 27.) 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. § (1) bekezdés h) pontját a 16/2018. (IX. 27.) 2. § (2) bekezdése iktatta be.
-[^5]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be, szövege a 16/2018. (IX. 27.) 2. § (3) bekezdésével megállapított szöveg.
+[^12]: A 4. § (1) bekezdés e) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés f) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdés g) pontja a 16/2018. (IX. 27.) 2. § (1) bekezdésével megállapított szöveg.
+[^15]: A 4. § (1) bekezdés h) pontját a 16/2018. (IX. 27.) 2. § (2) bekezdése iktatta be.
+[^16]: A 4. § (4) bekezdése a 22/2021. (XI. 5.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. § (7) bekezdése a 22/2021. (XI. 5.) HM rendelet 11. § c) pontja szerint módosított szöveg.
+[^18]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.

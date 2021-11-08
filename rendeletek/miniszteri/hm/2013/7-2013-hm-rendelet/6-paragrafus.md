@@ -16,6 +16,9 @@ e) legénységi állománycsoportba tartozó honvéd, a honvéd tisztjelölt, va
 
 (4) A KKM elnöke engedélyezheti a „Hősi halottá”, illetve a „Magyar Honvédség halottjává” nyilvánított hivatásos állományú tábornok elhunyt végső nyughelyére ágyútalpon való kísérését.
 
-(5)[^7] A Honvéd Vezérkar főnöke engedélyével, annak az 5. § (1) bekezdése hatálya alá nem tartozó elhunytnak, aki tevékenységével kiemelkedően szolgálta a honvédelem ügyét, a (3) bekezdés e) pontja szerinti díszkíséret és gyászzene biztosítható.
+(5)[^20] Az MH PK engedélyével annak az 5. § (1) bekezdése hatálya alá nem tartozó elhunytnak, aki tevékenységével kiemelkedően szolgálta a honvédelem ügyét, a (3) bekezdés e) pontja szerinti díszkíséret és gyászzene biztosítható.
 
-[^7]: A 6. § (5) bekezdését a 16/2018. (IX. 27.) 3. §-a iktatta be.
+(6)[^21] A „Honvédelmi Minisztérium saját halottjává” nyilvánított elhunyt esetén a díszkíséretet szakasz, vagy a miniszter egyedi döntése alapján századszintű alegység, a gyászzenét katonazenekar biztosíthatja.
+
+[^20]: A 6. § (5) bekezdését a 16/2018. (IX. 27.) 3. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^21]: A 6. § (6) bekezdését a 22/2021. (XI. 5.) HM rendelet 6. § (2) bekezdése iktatta be.
