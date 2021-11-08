@@ -40,15 +40,13 @@
 
 ## 10.[^7]
 
-## 11.[^8] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az innovációért és technológiáért felelős miniszter és a Társaság bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti beruházás megvalósításához szükséges ingatlanok független értékbecslés szerinti értéken történő megszerzéséről és annak beruházásra alkalmas területté nyilvánításáról legfeljebb 800 000 000 forint összeghatáron belül.
+## 11.[^8] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a fejlesztéshez szükséges, az innovációért és technológiáért felelős miniszter által megjelölt ingatlanok legfeljebb a független ingatlanforgalmi szakértő által megállapított forgalmi értéken, adásvétel vagy annak sikertelensége esetén kisajátítás útján a magyar állam javára – a tulajdoni lapra bejegyzett közérdekű használati és szolgalmi jogokon túl – per-, teher- és igénymentesen történő megszerzéséről legfeljebb 800 000 000 forint összeghatáron belül, és az ingatlanok beruházásra alkalmas területté nyilvánításáról.
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 ## innovációért és technológiáért felelős miniszter
 
-## Határidő: az ingatlanok megszerzése vonatkozásában az innovációért és technológiáért felelős miniszter által a megszerezni szükséges ingatlanok megjelölését tartalmazó megkeresés nemzeti vagyon kezeléséért felelős tárca nélküli miniszter általi átvételét követő 90 napon belül;
-
-## az ingatlanok Társaság részére történő átadása vonatkozásában az ingatlanok állami tulajdonba kerülését követő 90 napon belül
+## Határidő: 2022. április 30.
 
 1. melléklet az 1399/2020. (VII. 15.) Korm. határozathoz
 
@@ -125,4 +123,4 @@
 [^5]: A 8. pontot az 1535/2021. (VIII. 3.) Korm. határozat 3. pont b) pontja visszavonta.
 [^6]: A 9. pontot az 1535/2021. (VIII. 3.) Korm. határozat 3. pont b) pontja visszavonta.
 [^7]: A 10. pontot az 1535/2021. (VIII. 3.) Korm. határozat 3. pont b) pontja visszavonta.
-[^8]: A 11. pontot az 1690/2020. (X. 23.) Korm. határozat 2. pontja iktatta be, szövege az 1535/2021. (VIII. 3.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
+[^8]: A 11. pontot az 1690/2020. (X. 23.) Korm. határozat 2. pontja iktatta be, szövege az 1791/2021. (XI. 8.) Korm. határozat 12. pontjával megállapított szöveg.
