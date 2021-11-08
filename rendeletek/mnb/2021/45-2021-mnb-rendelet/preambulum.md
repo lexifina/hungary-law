@@ -1,1 +1,0 @@
-A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 24. § (7) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 41. cikk (5) bekezdésében meghatározott eredeti jogalkotói hatáskörömben eljárva a következőket rendelem el:
