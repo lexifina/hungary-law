@@ -1,4 +1,4 @@
-15/A. §[^5] (1) A veszélyhelyzet ideje alatt
+15/A. §[^7] (1) A veszélyhelyzet ideje alatt
 
 a) a szociális alapszolgáltatások igénybevételéhez szükséges ellátotti jogosultság vizsgálatát nem kell elvégezni,
 
@@ -10,4 +10,4 @@ d) házi segítségnyújtás esetében az újonnan felvételre kerülő személl
 
 (2) Az (1) bekezdés szerinti működés a központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságot nem érinti.
 
-[^5]: A 15/A. §-t a 659/2020. (XII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 15/A. §-t a 659/2020. (XII. 24.) Korm. rendelet 1. §-a iktatta be.
