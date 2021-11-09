@@ -1,4 +1,4 @@
-6/R. §[^66] (1) A 2. mellékletben foglalt táblázat 32. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:32 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a sajátos beépítési szabályokat és az egyedi építési követelményeket a (2)–(10) bekezdés állapítja meg azzal, hogy
+6/R. §[^66] (1)[^67] A 2. mellékletben foglalt táblázat 32. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:32 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre a sajátos beépítési szabályokat és az egyedi építési követelményeket a (2)–(11) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -49,6 +49,24 @@ b) az önálló rendeltetési egységek számától függetlenül, egy személyg
 19. zártsorú beépítés esetén egy vagy több épületrész magassága tetszőleges mértékben meghaladhatja a párkánymagasságot az előírt épületmagasság megtartása mellett,
 
 20. közhasználat céljára szolgáló területet nem kell kialakítani.
+
+21.[^68] az épület legmagasabb pontja legfeljebb 39 méter lehet,
+
+22.[^69] építési határvonalon túlnyúló épületrész kiugrása közterület fölé kinyúlhat, azzal, hogy
+
+a) a kinyúlás alsó síkja rendezett terepszint felett legalább 4,0 méter, és
+
+b) kiugrást legfeljebb az egyes homlokzat-felületek 60%-án lehet kialakítani,
+
+23.[^70] több lépcsőben visszahúzott tetőemeletek kialakíthatók,
+
+24.[^71] amennyiben a WC-, vizelde szerelvénnyel felszerelt helyiség gépi elszívással rendelkezik, úgy az OTÉK 99. § (9) bekezdése előírásait nem kell alkalmazni,
+
+25.[^72] magánút zsákutcaként kialakítható útszakaszának legnagyobb hossza meghaladhatja a 30 métert, ha
+
+a) a végén tehergépjárművek számára a megfelelő forduló kialakításra kerül, vagy
+
+b) csak személygépjárművek számára létesített terepszint alatti parkolók megközelítésére szolgál, és a hulladékszállítás, katasztrófavédelmi feladatok ellátása egyéb közterület vagy közhasználatra átadott terület felől megoldott.
 
 (3) Az 5. mellékletben foglalt 1. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -178,4 +196,13 @@ f) az épületmagasság megengedett legkisebb mértéke 2 m,
 
 g) az épületmagasság megengedett legnagyobb mértéke 21 m.
 
+(11)[^73] A Budapest XIV. kerület belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek területén a magánutak területi lehatárolását az 5. mellékletben foglalt 9–11. táblázat tartalmazza.
+
 [^66]: A 6/R. §-t a 436/2021. (VII. 16.) Korm. rendelet 1. §-a iktatta be.
+[^67]: A 6/R. § (1) bekezdés nyitó szövegrésze a 620/2021. (XI. 8.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^68]: A 6/R. § (2) bekezdés 21. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^69]: A 6/R. § (2) bekezdés 22. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^70]: A 6/R. § (2) bekezdés 23. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^71]: A 6/R. § (2) bekezdés 24. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^72]: A 6/R. § (2) bekezdés 25. pontját a 620/2021. (XI. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^73]: A 6/R. § (11) bekezdését a 620/2021. (XI. 8.) Korm. rendelet 3. § (2) bekezdése iktatta be.

@@ -8,5 +8,12 @@
 
 (4)[^4] A 2. mellékletben foglalt táblázat 32., 49., 58., 59., 62., 68. és 73. sora szerinti beruházás esetében településképi véleményezési eljárást nem kell lefolytatni.
 
+(5)[^5] A 2. mellékletben foglalt táblázat 33. sora szerinti beruházás esetében
+
+a) a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet 27. §-a szerinti közterület alakítási terv készítésének és alkalmazásának nincs helye,
+
+b) az épület magassága és megjelenése vonatkozásában szakmai konzultációt nem kell lefolytatni.
+
 [^3]: A 3. § (3) bekezdése a 176/2018. (IX. 27.) Korm. rendelet 2. §-a, a 160/2019. (VI. 28.) Korm. rendelet 4. § a) pontja, a 299/2019. (XII. 10.) Korm. rendelet 4. §-a, a 371/2019. (XII. 30.) Korm. rendelet 4. § a) pontja, a 23/2020. (II. 20.) Korm. rendelet 4. §-a, a 117/2020. (IV. 15.) Korm. rendelet 4. §-a, a 161/2020. (IV. 29.) Korm. rendelet 4. §-a, a 388/2020. (VIII. 7.) Korm. rendelet 4. § a) pontja, a 139/2021. (III. 23.) Korm. rendelet 7. § a) pontja, a 193/2021. (IV. 23.) Korm. rendelet 4. § a) pontja, a 340/2021. (VI. 14.) Korm. rendelet 4. § a) pontja, a 400/2021. (VII. 7.) Korm. rendelet 4. § a) pontja, az 558/2021. (IX. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^4]: A 3. § (4) bekezdését a 725/2020. (XII. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 139/2021. (III. 23.) Korm. rendelet 7. § b) pontja, a 174/2021. (IV. 9.) Korm. rendelet 6. § (1) bekezdés a) pontja, a 340/2021. (VI. 14.) Korm. rendelet 4. § b) pontja, a 436/2021. (VII. 16.) Korm. rendelet 4. § a) pontja, az 523/2021. (IX. 6.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (5) bekezdését a 620/2021. (XI. 8.) Korm. rendelet 1. §-a iktatta be.

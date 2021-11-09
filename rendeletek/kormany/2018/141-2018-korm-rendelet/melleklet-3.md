@@ -66,9 +66,9 @@
 
 | 31. | Záhony térség fejlesztésére irányuló logisztikai és ipari beruházások | Záhony közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/14, 048/19, 048/21, 048/22, 048/26, 048/30, 048/35, valamint belterület 600/9 helyrajzi számú ingatlanok; Fényeslitke közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 027/13 és 027/22 helyrajzi számú ingatlanok; Komoró közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 248/4 helyrajzi számú ingatlan; Tiszabezdéd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 078 helyrajzi számú ingatlan; Tuzsér közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 072 és 0141/2 helyrajzi számú ingatlanok. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 32. | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás a Budapest XIV. kerületben | Budapest közigazgatási területén elhelyezkedő, természetben Budapest, XIV. kerület, Csömöri út 13–19., Bosnyák utca 48–56., Bosnyák utca 54–56., Rákospatak utca 12–28., a Budapest, XIV. kerület belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számokon nyilvántartott földrészletek | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 32. | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás a Budapest XIV. kerületben | Budapest közigazgatási területén elhelyezkedő, természetben Budapest, XIV. kerület, Csömöri út 13–19., Bosnyák utca 48–56., Bosnyák utca 54–56., Rákospatak utca 12–28., a Budapest, XIV. kerület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számokon nyilvántartott földrészletek | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-| 33. | Ingatlanfejlesztés Budapest XIV. kerületében | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XIV. kerület belterület 32707/1, 32707/2, 32707/3, 32707/4, 32707/5, 32707/6 és 32707/7 helyrajzi számú ingatlanok. | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 33. | Ingatlanfejlesztés Budapest XIV. kerületében | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Budapest XIV. kerület belterület 32707/1, 32707/2, 32707/4, 32707/5, 32707/6, 32707/7, 32707/8 és 32707/9 helyrajzi számú ingatlanok. | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
 | 34. | Járműipari beruházás Iváncsa külterületén | Iváncsa közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 099/49 helyrajzi számú ingatlan | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -166,6 +166,6 @@
 
 | 76. | Gyáregység létrehozására irányuló beruházás Alsónémedi területén | Alsónémedi közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 2583 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^198]
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^207]
 
-[^198]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^207]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
