@@ -1,4 +1,4 @@
-## 8. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+## 9. §[^10] E rendeletnek az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet, továbbá a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 621/2021. (XI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését, 1/A. §-át, 2. §-át, 5. § (2) és (4)–(6) bekezdését, 5/A. §-át a Módr. hatálybalépésekor[^11] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 239/2020. (V. 26.) Korm. rendelethez
 
@@ -49,3 +49,6 @@
 22. azok az 1–21. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^10]: A 9. §-t a 621/2021. (XI. 8.) Korm. rendelet 6. §-a ikktatta be.
+[^11]: A hatálybalépés időpontja 2021. november 9.
