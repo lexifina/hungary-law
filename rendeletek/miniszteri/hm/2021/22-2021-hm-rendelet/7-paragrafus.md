@@ -1,1 +1,0 @@
-## „(6) A „Honvédelmi Minisztérium saját halottjává” nyilvánított elhunyt esetén a díszkíséretet szakasz, vagy a miniszter egyedi döntése alapján századszintű alegység, a gyászzenét katonazenekar biztosíthatja.”
