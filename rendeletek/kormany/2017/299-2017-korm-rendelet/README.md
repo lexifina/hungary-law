@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-299-20-
 | 2020-01-01 | 2017-299-20-22.7 | 370/2019. (XII. 30.) Korm. rendelet |
 | 2020-04-01 | 2017-299-20-22.8 | 370/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2017-299-20-22.9 | 721/2020. (XII. 31.) Korm. rendelet |
+| 2021-11-09 | 2017-299-20-22.10 | 621/2021. (XI. 8.) Korm. rendelet |

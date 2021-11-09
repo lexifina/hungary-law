@@ -8,9 +8,10 @@
 
 (2c)[^13] A (2)–(2b) bekezdés vonatkozásában ügyfélnek minősülnek mindazon személyek, akik a kötelező átvételi jogosultság vagy prémium típusú támogatási jogosultság megállapítására irányuló kérelem alapjául szolgáló jogügyletben érintettek. Az üggyel érintett további – kérelmezőn kívüli – ügyfelek (2a) bekezdésben meghatározottaknak való megfelelését a Hivatal hatósági ellenőrzés keretében vizsgálja.
 
-(3) A biomasszából vagy biogázból nyert villamos energia termelője a kötelező átvétel keretében történő értékesítésre vagy a zöld prémium típusú támogatásra akkor jogosult, ha az erőműegység alkalmas nagy hatásfokú kapcsolt energiatermelésre.
+(3)[^14]
 
 [^10]: A 6. § (1) bekezdése a 370/2019. (XII. 30.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^11]: A 6. § (2a) bekezdését a 370/2019. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
 [^12]: A 6. § (2b) bekezdését a 370/2019. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
 [^13]: A 6. § (2c) bekezdését a 370/2019. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^14]: A 6. § (3) bekezdését a 621/2021. (XI. 8.) Korm. rendelet 7. §-a hatályon kívül helyezte.
