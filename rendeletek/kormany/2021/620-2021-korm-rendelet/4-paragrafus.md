@@ -1,0 +1,1 @@
+## „(11) A Budapest XIV. kerület belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek területén a magánutak területi lehatárolását az 5. mellékletben foglalt 9–11. táblázat tartalmazza.”
