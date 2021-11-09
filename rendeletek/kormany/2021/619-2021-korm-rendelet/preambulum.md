@@ -1,0 +1,7 @@
+A Kormány
+
+az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1g) bekezdésében,
+
+a 2. § és 3. § tekintetében a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (4) bekezdés a)–c) pontjában, valamint 12. § (5) bekezdés a), d) és f) pontjában
+
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

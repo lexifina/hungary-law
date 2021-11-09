@@ -1,0 +1,3 @@
+3. § (1) Az 1. melléklet szerinti ingatlanon megvalósuló Beruházás esetében a 2. § (1) bekezdése szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – az előzetes vizsgálati eljárás, a környezeti hatásvizsgálati eljárás, a kármentesítési eljárás, a természetvédelmi eljárások kivételével, valamint ha jogszabály rövidebbet nem állapít meg – tizenöt nap.
+
+(2) Az 1. melléklet szerinti ingatlanon megvalósuló Beruházás esetében a 2. § (1) bekezdése szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – a környezetvédelmi és természetvédelmi szakhatóság eljárása kivételével, valamint ha jogszabály rövidebbet nem állapít meg – nyolc nap.
