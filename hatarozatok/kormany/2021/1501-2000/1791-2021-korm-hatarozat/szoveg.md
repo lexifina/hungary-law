@@ -72,14 +72,6 @@ Felelős: agrárminiszter
 
 Határidő: 2022. január 31.
 
-12. Az 1399/2020. (VII. 15.) Korm. határozat 11. pontja helyébe a következő rendelkezés lép:
+12.[^1]
 
-(A Kormány)
-
-„11. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a fejlesztéshez szükséges, az innovációért és technológiáért felelős miniszter által megjelölt ingatlanok legfeljebb a független ingatlanforgalmi szakértő által megállapított forgalmi értéken, adásvétel vagy annak sikertelensége esetén kisajátítás útján a magyar állam javára – a tulajdoni lapra bejegyzett közérdekű használati és szolgalmi jogokon túl – per-, teher- és igénymentesen történő megszerzéséről legfeljebb 800 000 000 forint összeghatáron belül, és az ingatlanok beruházásra alkalmas területté nyilvánításáról.
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: 2022. április 30.”
+[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
