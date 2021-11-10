@@ -81,9 +81,3 @@
 ## 12. tájékoztató vagy alaptájékoztató kiegészítése közzétételének engedélyezésére,
 
 ## 13. nyilvános, nyílt végű, harmonizációja szerint ÁÉKBV esetében a letétkezelői szerződés módosítása hatálybalépésének jóváhagyására,
-
-## b) a letétkezelő között azon befektetési alap tekintetében, amellyel kapcsolatos letétkezelői feladatok ellátására megbízással rendelkezik a
-
-## ba) befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert a befektetési alapkezelő befektetési alapkezelési tevékenység végzésére jogosító engedélyét az MNB visszavonta,
-
-## bb) befektetési alap nyilvántartásból való törlésére, ha arra azért kerül sor, mert az MNB kötelezte a befektetési alapkezelőt a befektetési alap kezelésének átadására, azonban a befektetési alap kezelését egyetlen befektetési alapkezelő sem veszi át,
