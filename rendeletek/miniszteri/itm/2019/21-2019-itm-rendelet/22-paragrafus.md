@@ -1,3 +1,5 @@
+## 21. §[^51]
+
 ## 22. § Az AIS a látvarepülési szabályok szerinti repülésről szóló kiadványban legalább a következő adatokat és tájékoztatásokat teszi közzé:
 
 1. repülőtér helységneve és ICAO azonosítója;
@@ -41,3 +43,5 @@
 20. zajcsökkentő intézkedések leírása;
 
 21. a repülőtér térkép előállításához szükséges további, az 1–19. pontban nem szereplő adatok.
+
+[^51]: A 21. §-t az 55/2021. (XI. 5.) ITM rendelet 40. § j) pontja hatályon kívül helyezte.

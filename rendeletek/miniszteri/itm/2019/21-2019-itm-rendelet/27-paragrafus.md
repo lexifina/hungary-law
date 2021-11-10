@@ -1,12 +1,8 @@
-## 26. §[^2]
+## 26. §[^58] Az AIS gondoskodik a légiforgalmi adatok és tájékoztatások naprakészen tartásáról.
 
 ## 12. Az AIS ellátásának általános követelményei
 
-27. § (1) Az AIS biztosítja, hogy a légiforgalom biztonságos, rendszeres és hatékony áramlása szempontjából szükséges légiforgalmi tájékoztatások vagy adatok rendelkezésre álljanak
-
-a) a repülés üzemeltetésében részt vevő személyzet számára, beleértve a hajózó személyzetet, a repülés tervezését végző és a repülési szimulátorokat üzemeltető személyzetet is, és
-
-b) a légiforgalmi szolgálat, valamint a repülés előtti tájékoztatásért felelős szolgálat számára.
+27. § (1)[^59]
 
 (2) Az AIS a repülés előtti tájékoztatás ellátása, valamint a repülés közbeni tájékoztatás nyújtása céljából beszerzi a szükséges légiforgalmi adatokat és tájékoztatásokat
 
@@ -20,12 +16,27 @@ b) egyéb rendelkezésre álló forrásokból, így különösen az érintett l�
 
 (5) Más állam AIS-ének kérésére a légiforgalom biztonságos, rendszeres és hatékony áramlása szempontjából szükséges légiforgalmi adatokat és tájékoztatásokat az AIS megadja.
 
-(6) Az AIS fogadja az IAIP más államoktól származó valamennyi elemét, és más államok kérésére, a kérésben meghatározott formában megadja az illetékességi területén keletkezett légiforgalmi adatokat és tájékoztatásokat. Ennek érdekében az AIS minden szükséges intézkedést megtesz, beleértve megállapodások kötését is.
+(6)[^60] Az AIS fogadja a légiforgalmi tájékoztató termék más államoktól származó valamennyi elemét, és más államok kérésére, a kérésben meghatározott formában megadja az illetékességi területén keletkezett légiforgalmi adatokat és tájékoztatásokat. Ennek érdekében az AIS minden szükséges intézkedést megtesz, beleértve megállapodások kötését, valamint közvetlen kapcsolat létrehozását is.
 
-(7) Az AIS az ICAO tagállamok AIS-ei részére az IAIP elemeinek egy példányát térítésmentesen biztosítja.
+(7)[^61] Az AIS az ICAO tagállamok AIS-ei részére a következő légiforgalmi tájékoztató termék egy példányát térítésmentesen biztosítja:
 
-(8) Az AIS biztosítja az AIP, az AIP módosítások és az AIP kiegészítések lehető leggyorsabb, leghatékonyabb módon történő szétosztását.
+a) az AIP, AIP módosítása és kiegészítése;
+
+b) légiforgalmi tájékoztató körlevél;
+
+c) NOTAM és
+
+d) légiforgalmi térképek.
+
+(8)[^62] Az AIS az adatkészletek más államok AIS-e részére történő rendelkezésre bocsátásához átjárható légiforgalmi adat- és légiforgalmi tájékoztatáscsere-modelleket használ.
 
 (9) Az AIS folyamatos 24 órás tájékoztatásnyújtást biztosít.
 
-[^2]: A 26. §-t a 33/2020. (X. 5.) ITM rendelet 66. §-a hatályon kívül helyezte.
+(10)[^63] A légiforgalmi tájékoztató termék digitális adatkészletek formában történő szolgáltatásához az AIS-nek együttműködési megállapodást kell kötnie.
+
+[^58]: A 26. §-t a 33/2020. (X. 5.) ITM rendelet 66. §-a hatályon kívül helyezte, újonnan az 55/2021. (XI. 5.) ITM rendelet 27. §-a iktatta be.
+[^59]: A 27. § (1) bekezdését az 55/2021. (XI. 5.) ITM rendelet 40. § l) pontja hatályon kívül helyezte.
+[^60]: A 27. § (6) bekezdése az 55/2021. (XI. 5.) ITM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^61]: A 27. § (7) bekezdése az 55/2021. (XI. 5.) ITM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^62]: A 27. § (8) bekezdése az 55/2021. (XI. 5.) ITM rendelet 28. § (1) bekezdésével megállapított szöveg.
+[^63]: A 27. § (10) bekezdését az 55/2021. (XI. 5.) ITM rendelet 28. § (2) bekezdése iktatta be.

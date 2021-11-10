@@ -4,14 +4,15 @@ a) a legalább három hónapig hatályos ideiglenes változásokról szóló tá
 
 b) a terjedelmes szöveges részt vagy ábrát tartalmazó, rövid ideig hatályos tájékoztatást.
 
-(2) Az AIP kiegészítés addig szerepel az AIP-ben, amíg az AIS a tárgyi tájékoztatás vonatkozásában érintett adatszolgáltató kezdeményezésére azt nem törli az AIP-ből.
+(2)[^23]
 
-(3) Az AIS új AIP kiegészítést ad ki, ha
+(3)[^24]
 
-a) egy AIP kiegészítés hibás, vagy
+(4)[^25]
 
-b) egy határozott idejű AIP kiegészítés időbeli hatálya megváltozik.
+(5)[^26] Az AIS az érvényes AIP kiegészítésekről legalább havi gyakorisággal ellenőrző jegyzéket ad ki.
 
-(4) Ha az AIS az AIP kiegészítést nem tudja a tervezett kiadási időpontban kiadni, NOTAM-ot ad ki. Amikor a NOTAM helyett az AIS már közzé tudja tenni az AIP kiegészítést, az AIP kiegészítés tartalmazza a NOTAM sorszámára vonatkozó utalást.
-
-(5) Az AIS az érvényes AIP kiegészítésekről legalább havi gyakorisággal ellenőrző jegyzéket ad ki. Az AIS az ellenőrző jegyzéket a 13. § (4) bekezdésének előírásai szerint, az érvényes NOTAM-okról készülő, nyílt szövegű, havi NOTAM összesítő útján teszi közzé.
+[^23]: A 7. § (2) bekezdését az 55/2021. (XI. 5.) ITM rendelet 40. § d) pontja hatályon kívül helyezte.
+[^24]: A 7. § (3) bekezdését az 55/2021. (XI. 5.) ITM rendelet 40. § d) pontja hatályon kívül helyezte.
+[^25]: A 7. § (4) bekezdését az 55/2021. (XI. 5.) ITM rendelet 40. § d) pontja hatályon kívül helyezte.
+[^26]: A 7. § (5) bekezdése az 55/2021. (XI. 5.) ITM rendelet 40. § e) pontja szerint módosított szöveg.

@@ -1,7 +1,6 @@
-## 6. A NOTAM-mal szemben támasztott követelmények
+## 13. §[^45] A hatályos NOTAM-okról az AIS legalább évente ellenőrző jegyzéket ad ki.
 
-14. § (1) Az AIS a NOTAM-ot angol nyelven, – a (2) és (3) bekezdésben foglalt eltéréssel – a légiközlekedési hatóság honlapján közzétett kitöltési útmutató szerint kitöltött formátumban teszi közzé.
+## 6.[^46]
 
-(2) Az AIS a repülőtéri burkolatot borító hóval, latyakkal, jéggel vagy vízzel kapcsolatos tájékoztatást SNOWTAM formájában teszi közzé. Az AIS a SNOWTAM tájékoztatást angol nyelven, a légiközlekedési hatóság honlapján közzétett kitöltési útmutató szerint kitöltött formátumban teszi közzé.
-
-(3) Az AIS a vulkanikus aktivitás üzemeltetést jelentősen érintő változásáról szóló tájékoztatást – az ICAO döntése szerint – ASHTAM-ban vagy NOTAM-ban teszi közzé. Az AIS az ASHTAM tájékoztatást angol nyelven, a légiközlekedési hatóság honlapján közzétett kitöltési útmutató szerint kitöltött formátumban teszi közzé.
+[^45]: A 13. § az 55/2021. (XI. 5.) ITM rendelet 23. §-ával megállapított szöveg.
+[^46]: A 6. alcímet (14–18. §) az 55/2021. (XI. 5.) ITM rendelet 40. § h) pontja hatályon kívül helyezte.

@@ -1,3 +1,5 @@
+## 28/D. §[^67] Az AIS szervezésében, valamint a légiforgalmi adatok és tájékoztatások tervezése, tartalmának kialakítása, feldolgozása és terjesztése során a légiforgalmi adatok és tájékoztatások optimális felhasználása érdekében figyelembe kell venni az emberi tényezők alapelveit. Emberi beavatkozást igénylő folyamatoknál megfelelő figyelmet kell fordítani az információk integritására, és kockázatmérséklő intézkedéseket kell hozni.
+
 ## 14. A légiforgalmi tájékoztatás automatizálása
 
 29. § (1) A légiforgalmi tájékoztatás területén az e rendelet hatálya alá tartozó felek a feldolgozási sebesség, a pontosság, a minőség, a hatékonyság és a költség-hatékonyság javítása érdekében automatizálást alkalmaznak az alábbi rendszer követelményekre figyelemmel.
@@ -10,22 +12,13 @@ a) lehetővé kell tennie a légiforgalmi adatok digitális cseréjét az adatke
 
 b) biztosítania kell az átjárható légiforgalmi információ- és adatcsere rendszerek alkalmazását.
 
-(4) Az alkalmazott légiforgalmi információ- és adatcsere rendszereknek biztosítaniuk kell az adatcserében résztvevő valamennyi légiforgalmi adat és tájékoztatás rendszerek közti átadhatóságát, cseréjét.
+(4)[^68] Az automatizált folyamatok végrehajtásakor biztosítani kell az adatok és tájékoztatások integritását, és a kockázatok azonosítása esetén meg kell tenni a kockázatmérséklő lépéseket.
 
-(5) A légiforgalmi információcsere rendszernek
+(5)[^69]
 
-a) az egységes modellező nyelvet kell használnia a légiforgalmi tájékoztatások jellemzőinek, tulajdonságainak, kapcsolódásainak és adattípusainak leírására,
+(6)[^70]
 
-b) tartalmaznia kell adatérték korlátokat és adatellenőrzési szabályokat,
-
-c) tartalmaznia kell a metaadatokra vonatkozó rendelkezéseket, és
-
-d) tartalmaznia kell egy időmodellt, amely lehetővé teszi a légiforgalmi tájékoztatás tulajdonságai alakulásának rögzítését a teljes életciklus során.
-
-(6) A légiforgalmi adatcsere rendszernek
-
-a) általánosan használt adatkódolási formátumot kell alkalmaznia,
-
-b) le kell fednie minden osztályt, jellegzetességet, adattípust és kapcsolódást az (5) bekezdésben meghatározott légiforgalmi információcsere rendszerrel,
-
-c) kiterjesztő mechanizmussal kell rendelkeznie, amelynek révén felhasználók csoportjai kiterjeszthetik a létező jellemzők tulajdonságait, és új jellemzőket adhatnak meg, amennyiben azok nem hatnak hátrányosan a világszintű egységesítési folyamatokra.
+[^67]: A 28/D. §-t az 55/2021. (XI. 5.) ITM rendelet 29. §-a iktatta be.
+[^68]: A 29. § (4) bekezdése az 55/2021. (XI. 5.) ITM rendelet 30. §-ával megállapított szöveg.
+[^69]: A 29. § (5) bekezdését az 55/2021. (XI. 5.) ITM rendelet 40. § m) pontja hatályon kívül helyezte.
+[^70]: A 29. § (6) bekezdését az 55/2021. (XI. 5.) ITM rendelet 40. § m) pontja hatályon kívül helyezte.

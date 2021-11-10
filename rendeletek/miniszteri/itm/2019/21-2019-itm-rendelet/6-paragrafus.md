@@ -1,5 +1,3 @@
-## 5. § Az AIP-ben minden légiforgalmi adat és tájékoztatás csak egyszer jelenhet meg, továbbá a légiforgalmi tájékoztatás rendszerében már más módon közzétett tájékoztatás az AIP-ben nem ismételhető meg.
-
 ## 4. Az AIP módosításai és az AIP kiegészítései
 
 6. § (1) Az AIP változásait az AIS – a 7. § (1) bekezdésében meghatározott eseteket kivéve – AIP módosítások formájában teszi közzé.

@@ -1,5 +1,3 @@
-## 20. § A hatályos AIC-kről az AIS évente legalább egyszer ellenőrzőjegyzéket ad ki, amelyet ugyanazokra a címekre juttatja el, amelyekre az AIC-ket is továbbították.
+## 20. §[^50] A hatályos AIC-kről – amelyek érvényességét az AIS felülvizsgálja – az AIS évente legalább egyszer ellenőrző jegyzéket ad ki, amelyet ugyanazokra a címekre juttatja el, amelyekre az AIC-ket is továbbították.
 
-21. § (1) Az AIS meghatározza, hogy az AIC-k közül melyek kerülnek nemzetközi szétosztásra.
-
-(2) Az AIS a nemzetközi szétosztásra szánt AIC-ket az AIP-vel azonos módon osztja szét.
+[^50]: A 20. § az 55/2021. (XI. 5.) ITM rendelet 25. §-ával megállapított szöveg.
