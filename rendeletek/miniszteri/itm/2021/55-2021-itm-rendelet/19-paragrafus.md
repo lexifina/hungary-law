@@ -1,0 +1,1 @@
+## „(4) A 2. § (3) bekezdés a)–d) pontjában meghatározott légiforgalmi tájékoztató terméket a közzétételt követően a lehető leggyorsabban – lehetőség szerint internet alkalmazásával – elérhetővé kell tenni.”
