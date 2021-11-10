@@ -29,5 +29,3 @@ d) azon munkavállalóira, akiknek a tevékenysége lényeges hatást gyakorol a
 8. A befektetési vállalkozás az alapjavadalmazás legfeljebb 200 százalékát elérő teljesítményjavadalmazást alkalmazhat, ha
 
 a) a befektetési vállalkozás közgyűlése arra felhatalmazást ad,
-
-b) a közgyűlésen megtárgyalt előterjesztés részletesen feltünteti a magasabb teljesítményjavadalmazás indoklását,

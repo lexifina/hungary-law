@@ -24,6 +24,8 @@ j) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrume
 
 k) a befektetési vállalkozások prudenciális felügyeletéről, valamint a 2002/87/EK, a 2009/65/EK, a 2011/61/EU, a 2013/36/EU, a 2014/59/EU és a 2014/65/EU irányelv módosításáról szóló, 2019. november 27-i (EU) 2019/2034 európai parlamenti és tanácsi irányelv.
 
+l) a pénzügyi eszközök piacairól szóló 2014/65/EU irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1504 európai parlamenti és tanácsi irányelv.
+
 (2) Ez a törvény
 
 a) a pénzügyi eszközök piacairól és a 648/2012/EU rendelet módosításáról szóló, 2014. május 15-i 600/2014/EU európai parlamenti és tanácsi rendelet
