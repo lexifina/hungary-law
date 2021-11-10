@@ -1,3 +1,0 @@
-## 1. § A veszélyhelyzet ideje alatt teendő, egyes szociális és gyermekvédelmi ellátásokkal kapcsolatos intézkedésekről, valamint a szociális és gyermekvédelmi szolgáltatásoknak a veszélyhelyzet ideje alatt elrendelt működési rendjéről szóló 556/2020. (XII. 4.) Korm. rendelet (a továbbiakban: R.) 12. §-a helyébe a következő rendelkezés lép:
-
-## „12. § A veszélyhelyzet megszűnéséig az egészségi állapottól, személyiségállapottól vagy fogyatékosságtól függő ellátások – ide nem értve a megváltozott munkaképességű személyek ellátásait – felülvizsgálata nem végezhető el, a felülvizsgálathoz irat megküldése nem kérhető, erre hivatkozva az ellátás, kedvezmény, mentesség a veszélyhelyzet megszűnését követő második hónap utolsó napjáig nem szüntethető meg.”
