@@ -116,6 +116,8 @@
 
 | 57. | Központi államigazgatási szerv központi létesítményén főépület fejlesztése | Budapest belterület 10900 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^112]
+| 58. | Budapesti Műszaki és Gazdaságtudományi Egyetem Innovációs és Fejlesztési Központ megvalósítása | Budapest belterület 4107/24 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^112]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^115]
+
+[^115]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
