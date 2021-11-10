@@ -1,4 +1,4 @@
-1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^78]
+1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^81]
 
 Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és közigazgatási szervek, valamint az egyes szervezetek által nyújtandó tájékoztatások
 
@@ -158,7 +158,7 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 10. | AD 2.9 | A felszíni mozgást támogató és ellenőrző rendszerek, valamint a jelölések | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
-| 11. | AD 2.10 | Repülőtéri akadályok a 3-as számú és a 4-es számú Területen | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+| 11. |  |  |  |  |
 
 | 12. | AD 2.11 | A biztosított meteorológiai tájékoztatás | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
@@ -184,7 +184,7 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 23. | AD 2.23 | Kiegészítő tájékoztatások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
-| 24. | AD 2.24 | Adatok a következő ICAO térképek előállításához: Repülőtér Térkép, Légijármű Parkolási vagy Beállítási Térkép, Repülőtéri Földi Mozgások Térképe, Repülőtéri Akadály Térkép (minden egyes futópályára), Precíziós Megközelítési Domborzati Térkép (II-es és III-as kategóriás precíziós megközelítésű futópályákra), A repülőtér közvetlen környezetében található madárkolóniákat és élőhelyeket bemutató térkép | nem |  |
+| 24. | AD 2.24 | Adatok a következő ICAO térképek előállításához: repülőtér és helikopter-leszállóhely térképe, légijárművek parkolási térképe, repülőtéri földi mozgások térképe, repülőtéri akadályok A típusú térképe (minden egyes futópályára), precíziós megközelítés domborzati térképe (II-es és III-as kategóriás precíziós megközelítésű futópályákra), a repülőtér közvetlen környezetében található madárkolóniákat és élőhelyeket bemutató térkép | nem |  |
 
 7. A légiközlekedési balesetek kivizsgálását végző szervezet által megadandó tájékoztatások
 
@@ -316,7 +316,7 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 2. | AD 2.18 | A légiforgalmi szolgálatok távközlési berendezései | nem |  |
 
-| 3. | AD 2.24 | Adatok a következő ICAO térképek előállításához: Körzeti Térkép – indulási és tranzit útvonalakhoz, Standard Indulási Útvonalak Térképe – Műszeres, Körzeti Térkép – érkezési és tranzit útvonalakhoz, Standard Érkezési Útvonalak Térképe – Műszeres, Radarvektorálásnál használható minimális tengerszint feletti magasságok térképe, Műszeres Megközelítési (minden egyes futópályára és eljárástípusra), Látvarepülési Megközelítési Térkép. | nem |  |
+| 3. | AD 2.24 | Adatok a következő ICAO térképek előállításához: területi térkép, szabvány műszeres indulási eljárások térképe, szabvány műszeres érkezési eljárások térképe, radarvektorálásnál használható minimális tengerszint feletti magasságok térképe, műszeres megközelítési eljárások térképe (minden egyes futópályára és eljárástípusra), látással történő megközelítés térképe | nem |  |
 
 19. Magyarország légiközlekedési terep és akadály adatbázisának kezelője
 
@@ -326,7 +326,7 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 2. | ENR 5.4 | Légiközlekedési akadályok | nem |  |
 
-| 3. | AD 2.10 | Légiközlekedési akadályok adatai, valamint az adatkészletre vonatkozó tájékoztatások a 2-es számú Területen | nem |  |
+| 3. | AD 2.10 | Légiközlekedési akadályok adatai, valamint az adatkészletre vonatkozó tájékoztatások a 2-es, 3-as és 4-es számú Területen | nem |  |
 
 20. Az AIS által közvetlenül közzéteendő információk
 
@@ -378,4 +378,4 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 23. | AD 2.24 | A repülőtérrel kapcsolatos navigációs térképek | nem |  |
 
-[^78]: Az 1. mellékletet a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be.
+[^81]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a szerint módosított szöveg.

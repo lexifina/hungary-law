@@ -1,4 +1,4 @@
-21/D. §[^36] (1) Nem létesíthető olyan építmény – beleértve a meglévő építmények bővítését is –, amely a repülőtér akadálykorlátozási felületei vagy akadályvédelmi felülete fölé nyúlik, kivéve, ha egy már meglévő, nem mozdítható tereptárgy (a továbbiakban: árnyékoló tereptárgy) léte miatt az új építmény nem okoz repülésbiztonsági kockázatot, és a (2) bekezdés szerint árnyékoltnak tekinthető.
+21/D. §[^38] (1) Nem létesíthető olyan építmény – beleértve a meglévő építmények bővítését is –, amely a repülőtér akadálykorlátozási felületei vagy akadályvédelmi felülete fölé nyúlik, kivéve, ha egy már meglévő, nem mozdítható tereptárgy (a továbbiakban: árnyékoló tereptárgy) léte miatt az új építmény nem okoz repülésbiztonsági kockázatot, és a (2) bekezdés szerint árnyékoltnak tekinthető.
 
 (2) Egy új építmény akkor tekinthető árnyékoltnak, ha az árnyékoló tereptárgytól legfeljebb 150 m távolságra található és
 
@@ -20,4 +20,4 @@ b) a repülőtérrel ellentétes oldali legmagasabb pontjának tengerszint felet
 
 (9) Azokat a tereptárgyakat, amelyek a belső vízszintes felület és a kúpos felület határain belül találhatóak, és veszélyeztethetik a légijárműveket a mozgási területen vagy a levegőben, az Lt. 51. § (1) bekezdése szerinti kötelezett eltávolítja. Ha a tereptárgy jellege vagy funkciója miatt nem távolítható el, akkor az Lt. 51. § (1) bekezdése szerinti kötelezett az e rendelet szerinti akadályjelöléssel látja el.
 
-[^36]: A Vhr. 21/D. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^38]: A Vhr. 21/D. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.

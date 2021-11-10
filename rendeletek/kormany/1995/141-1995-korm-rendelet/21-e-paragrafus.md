@@ -1,4 +1,4 @@
-21/E. §[^37] (1) Ha egy meglévő, az akadályvédelmi felület fölé nyúló tereptárgy veszélyeztetheti a légijárművek biztonságos üzemelését, az illetékes repülőtér üzembentartója végrehajtja a látás utáni megközelítési siklópálya jelző rendszerrel kapcsolatban a következő intézkedések valamelyikét:
+21/E. §[^39] (1) Ha egy meglévő, az akadályvédelmi felület fölé nyúló tereptárgy veszélyeztetheti a légijárművek biztonságos üzemelését, az illetékes repülőtér üzembentartója végrehajtja a látás utáni megközelítési siklópálya jelző rendszerrel kapcsolatban a következő intézkedések valamelyikét:
 
 a) a rendszer által biztosított siklópálya lejtésének repülésbiztonsági szempontból megfelelő növelése,
 
@@ -32,4 +32,4 @@ j) ajánlás a tereptárgy eltávolítására vagy a tereptárgy e rendelet szer
 
 (3) A (2) bekezdésben meghatározott repülésbiztonsági tanulmányt az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendeletben meghatározott SZÉM1 szakmagyakorlási jogosultsággal rendelkező személy készíti el.
 
-[^37]: A Vhr. 21/E. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A Vhr. 21/E. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.

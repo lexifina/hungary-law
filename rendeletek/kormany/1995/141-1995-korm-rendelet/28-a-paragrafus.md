@@ -1,16 +1,16 @@
-28/A. §[^61] (1) Az e rendelet hatálya alá tartozó, a légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet módosításáról szóló 167/2019. (VII. 9.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor[^62] már meglévő építményeket az Lt. 51. § (1) bekezdése szerinti kötelezettek legkésőbb 2020. december 31. napjáig az e rendelet szerinti akadályjelöléssel látják el.
+28/A. §[^64] (1) Az e rendelet hatálya alá tartozó, a légiközlekedésről szóló 1995. évi XCVII. törvény végrehajtásáról szóló 141/1995. (XI. 30.) Korm. rendelet módosításáról szóló 167/2019. (VII. 9.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor[^65] már meglévő építményeket az Lt. 51. § (1) bekezdése szerinti kötelezettek legkésőbb 2020. december 31. napjáig az e rendelet szerinti akadályjelöléssel látják el.
 
 (2) A Módr. által megállapított 21. § (2) bekezdésében foglaltakat azon repülőterek esetében,
 
-a) amelyeken a Módr. hatálybalépésekor[^63] már közzétett műszeres repülési vagy különleges látvarepülési eljárásokat alkalmaznak, a Módr. hatálybalépését[^64] követő 6 hónapon belül,
+a) amelyeken a Módr. hatálybalépésekor[^66] már közzétett műszeres repülési vagy különleges látvarepülési eljárásokat alkalmaznak, a Módr. hatálybalépését[^67] követő 6 hónapon belül,
 
-b) amelyeken a Módr. hatálybalépését[^65] követően terveznek műszeres repülési vagy különleges látvarepülési eljárásokat alkalmazni, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet [a továbbiakban: 159/2010. (V. 6.) Korm. rendelet] szerinti fejlesztési engedélyezés keretében,
+b) amelyeken a Módr. hatálybalépését[^68] követően terveznek műszeres repülési vagy különleges látvarepülési eljárásokat alkalmazni, a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet [a továbbiakban: 159/2010. (V. 6.) Korm. rendelet] szerinti fejlesztési engedélyezés keretében,
 
-c) amelyek létesítését a Módr. hatálybalépését[^66] követően kezdeményezik, és amelyeken a létesítést követően műszeres repülési vagy különleges látvarepülési eljárást terveznek alkalmazni, a 159/2010. (V. 6.) Korm. rendelet szerinti létesítési engedélyezés keretében
+c) amelyek létesítését a Módr. hatálybalépését[^69] követően kezdeményezik, és amelyeken a létesítést követően műszeres repülési vagy különleges látvarepülési eljárást terveznek alkalmazni, a 159/2010. (V. 6.) Korm. rendelet szerinti létesítési engedélyezés keretében
 
 kell teljesíteni.
 
-(3) Az e rendelet hatálya alá tartozó, a Módr. hatálybalépésekor[^67]
+(3) Az e rendelet hatálya alá tartozó, a Módr. hatálybalépésekor[^70]
 
 a) már meglévő építményeket az Lt. 51. § (1) bekezdése szerinti kötelezett legkésőbb 2019. december 1. napjáig,
 
@@ -18,16 +18,16 @@ b) kivitelezés alatt álló építményt az építési engedély jogosultja az 
 
 bejelenti az adatbázis-kezelőnek.
 
-(4) A Módr. hatálybalépésekor[^68] meglévő, az akadálykorlátozási felületek fölé nyúló, nem törhető tereptárgyakat legkésőbb 2021. december 1. napjáig az Lt. 51. § (1) bekezdése szerinti kötelezett eltávolítja, kivéve, ha azok árnyékoltnak tekinthetők a 21/B. § (2) bekezdésében meghatározottak szerint, vagy nem befolyásolják hátrányosan a légiközlekedés biztonságát vagy a légijárművek műveleteinek szabályszerűségét. Ha a meglévő építmény jellege vagy funkciója miatt nem távolítható el, akkor az Lt. 51. § (1) bekezdése szerinti kötelezett e rendelet szerinti akadályjelöléssel látja el.
+(4) A Módr. hatálybalépésekor[^71] meglévő, az akadálykorlátozási felületek fölé nyúló, nem törhető tereptárgyakat legkésőbb 2021. december 1. napjáig az Lt. 51. § (1) bekezdése szerinti kötelezett eltávolítja, kivéve, ha azok árnyékoltnak tekinthetők a 21/B. § (2) bekezdésében meghatározottak szerint, vagy nem befolyásolják hátrányosan a légiközlekedés biztonságát vagy a légijárművek műveleteinek szabályszerűségét. Ha a meglévő építmény jellege vagy funkciója miatt nem távolítható el, akkor az Lt. 51. § (1) bekezdése szerinti kötelezett e rendelet szerinti akadályjelöléssel látja el.
 
-(5) A légiközlekedési terep és akadály adatbázis a Módr. hatálybalépésekor[^69] még létre nem hozott részadatbázisait az adatbázis-kezelő 2020. december 31-éig hozza létre.
+(5) A légiközlekedési terep és akadály adatbázis a Módr. hatálybalépésekor[^72] még létre nem hozott részadatbázisait az adatbázis-kezelő 2020. december 31-éig hozza létre.
 
-[^61]: A Vhr. 28/A. §-át a 167/2019. (VII. 9.) Korm. rendelet 6. §-a iktatta be.
-[^62]: A kihirdetés napja 2019. július 25.
-[^63]: A kihirdetés napja 2019. július 25.
-[^64]: A kihirdetés napja 2019. július 25.
+[^64]: A Vhr. 28/A. §-át a 167/2019. (VII. 9.) Korm. rendelet 6. §-a iktatta be.
 [^65]: A kihirdetés napja 2019. július 25.
 [^66]: A kihirdetés napja 2019. július 25.
 [^67]: A kihirdetés napja 2019. július 25.
 [^68]: A kihirdetés napja 2019. július 25.
 [^69]: A kihirdetés napja 2019. július 25.
+[^70]: A kihirdetés napja 2019. július 25.
+[^71]: A kihirdetés napja 2019. július 25.
+[^72]: A kihirdetés napja 2019. július 25.
