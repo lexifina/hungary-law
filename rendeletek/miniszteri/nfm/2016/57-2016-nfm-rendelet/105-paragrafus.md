@@ -2,7 +2,7 @@
 
 ## 52. Magasságmérő-beállítási eljárások
 
-105. § (1)[^117]
+105. § (1)[^121]
 
 (2) Budapest FIR-ben az átváltási magasságon vagy ez alatt végrehajtott útvonalrepülések során a légijárművek függőleges helyzetét a területi QNH értékhez viszonyítva kell kifejezni.
 
@@ -22,4 +22,4 @@ b) olyan futópályánál, amelyre precíziós megközelítést hajtanak végre.
 
 (8) Budapest FIR-en belül a CTR-ekben, a TIZ-ekben és a TMA-kban – ahol az átváltási magasság alacsonyabb, mint a légtér felső határa és a magasságkülönbség a 106. § (1) bekezdés szerint szükségessé teszi – átváltási szintet kell meghatározni az érintett légtérben működő légijárművek számára.
 
-[^117]: A 105. § (1) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § h) pontja hatályon kívül helyezte.
+[^121]: A 105. § (1) bekezdését a 33/2020. (X. 5.) ITM rendelet 62. § h) pontja hatályon kívül helyezte.

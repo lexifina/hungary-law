@@ -4,15 +4,15 @@
 
 a) az ellenőrzött légtérben üzemelő légijárművek számára az illetékes légiforgalmi irányító egységnek,
 
-b)[^89] közepes tengerszint felett (a továbbiakban: AMSL) mért 9500 láb (2900 m) magasság alatti nem ellenőrzött légterekben üzemelő légijárművek számára a c) alpontban foglaltak kivételével a körzeti repüléstájékoztató szolgálatot ellátó egységnek,
+b)[^91] közepes tengerszint felett (a továbbiakban: AMSL) mért 9500 láb (2900 m) magasság alatti nem ellenőrzött légterekben üzemelő légijárművek számára a c) alpontban foglaltak kivételével a körzeti repüléstájékoztató szolgálatot ellátó egységnek,
 
 c) ha az adott nem ellenőrzött repülőtéren AFIS üzemel, a repülőtér forgalmában részt vevő légijárművek számára az AFIS-nak
 
 kell ellátnia.
 
-(2)[^90] Ellenőrzött polgári repülőtéren a helyi kényszerhelyzeti szolgálatok riasztási rendjét Repülőtéri Kényszerhelyzeti Tervben, egyéb repülőtereken helyi előírásban kell szabályozni.
+(2)[^92] Ellenőrzött polgári repülőtéren a helyi kényszerhelyzeti szolgálatok riasztási rendjét Repülőtéri Kényszerhelyzeti Tervben, egyéb repülőtereken helyi előírásban kell szabályozni.
 
 (3) Légiközlekedési baleset észlelése vagy légijármű kényszerhelyzetbe kerülésének észlelése esetén a bajba jutott légi járművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetéről, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének rendjéről, e tevékenységek engedélyezésére vonatkozó szabályokról szóló kormányrendeletben meghatározott szervezetet kell riasztani.
 
-[^89]: A 45. § (1) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 43. §-ával megállapított szöveg.
-[^90]: A 45. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 106. §-ával megállapított szöveg.
+[^91]: A 45. § (1) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 43. §-ával megállapított szöveg.
+[^92]: A 45. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 106. §-ával megállapított szöveg.

@@ -20,6 +20,6 @@ a) azokon a repülőtereken, ahol légiforgalmi irányító szolgálatot nyújta
 
 b) légiforgalmi irányító szolgálat vagy központilag vezérelt fények nélküli repülőtereken a futópályafényeknek mindaddig bekapcsolva kell maradniuk, amíg rendes körülmények között szükség van a fények újra bekapcsolásához abban az esetben, ha a felszálló légijármű kényszerleszállás céljából visszafordul, azonban minden esetben bekapcsolva kell hagyni legalább 15 percig a felszállás után.
 
-(4)[^145] Ha a 225. § (2) bekezdésében meghatározottak szerint akadályfényeket egyidejűleg üzemeltetnek futópályafényekkel, azokat nem lehet kikapcsolni, amíg a légijárműnek szüksége van rájuk.
+(4)[^152] Ha a 225. § (2) bekezdésében meghatározottak szerint akadályfényeket egyidejűleg üzemeltetnek futópályafényekkel, azokat nem lehet kikapcsolni, amíg a légijárműnek szüksége van rájuk.
 
-[^145]: A 221. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés h) pontja szerint módosított szöveg.
+[^152]: A 221. § (4) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés h) pontja szerint módosított szöveg.

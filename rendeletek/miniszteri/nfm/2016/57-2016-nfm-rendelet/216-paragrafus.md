@@ -8,7 +8,7 @@ a) a bevezető irányító egység vagy az illetékes ACC,
 
 b) a repülőtéri irányító torony vagy
 
-c)[^142] a légiközlekedési hatóság vagy katonai légügyi hatóság.
+c)[^149] a légiközlekedési hatóság vagy katonai légügyi hatóság.
 
 (2) A VFR szerinti repülések felfüggesztését a repülőtéri irányító tornyon keresztül kell elrendelni, illetve arról azt tájékoztatni kell.
 
@@ -22,4 +22,4 @@ c) értesítenie kell a bevezető irányító egység vagy az illetékes ACC kö
 
 d) értesítenie kell a légijármű üzemben tartókat vagy kijelölt képviselőiket a foganatosított intézkedések okáról, ha szükséges, vagy ha ezt kérik.
 
-[^142]: A 216. § (1) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^149]: A 216. § (1) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés k) pontja szerint módosított szöveg.

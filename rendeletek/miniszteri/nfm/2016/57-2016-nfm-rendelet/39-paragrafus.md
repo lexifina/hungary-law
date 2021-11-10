@@ -1,10 +1,10 @@
 39. § (1) Ha több légiforgalmi irányító szolgálat feladatát egy légiforgalmi irányító egység látja el, a 38. §-ban meghatározottakat nem kell alkalmazni.
 
-(2)[^86] A légijármű irányítási felelősségének átadásához az átvevő irányító egység vagy szektor előzetes beleegyezése szükséges, amely a (3)–(5) bekezdésekben meghatározottak szerint szerezhető be.
+(2)[^87] A légijármű irányítási felelősségének átadásához az átvevő irányító egység vagy szektor előzetes beleegyezése szükséges, amely a (3)–(5) bekezdésekben meghatározottak szerint szerezhető be.
 
 (3) Az átadó irányító egységnek vagy szektornak tájékoztatnia kell az átvevő irányító egységet vagy szektort az érvényes repülési terv vonatkozó részeiről, és meg kell adnia minden kért, az átadásra vonatkozó irányítói tájékoztatást.
 
-(4) Ha az irányítás átadását radar-adatok felhasználásával hajtják végre, az átadásra vonatkozó irányítói tájékoztatásnak tartalmaznia kell a légijármű közvetlenül az átadás előtt radaron megfigyelt helyzetét, valamint szükség szerint annak repülési útirányát és sebességét is.
+(4)[^88] Ha az irányítás átadását ATS felderítő rendszeren alapuló adatok felhasználásával hajtják végre, az átadásra vonatkozó irányítói tájékoztatásnak tartalmaznia kell a légijármű közvetlenül az átadás előtt ATS felderítő rendszeren megfigyelt helyzetét, valamint szükség szerint annak repülési útirányát és sebességét is.
 
 (5) Az átvevő irányító egységnek vagy szektornak
 
@@ -16,4 +16,5 @@ b) közölnie kell bármely egyéb, a repülés következő szakaszára vonatkoz
 
 (7) Az alkalmazandó koordinálási eljárásokat, beleértve az irányítás átadásának pontjait is, együttműködési megállapodásokban vagy munkahelyi előírásokban kell szabályozni.
 
-[^86]: A 39. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^87]: A 39. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^88]: A 39. § (4) bekezdése az 55/2021. (XI. 5.) ITM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.

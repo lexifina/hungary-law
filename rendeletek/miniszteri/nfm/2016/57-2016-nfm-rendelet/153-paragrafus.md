@@ -16,6 +16,8 @@ d) a légiforgalmi irányító a légijármű helyzetét ATS felderítő rendsze
 
 (3) Ha egy repülőtéren STAR-okat tettek közzé, az illetékes ATS az érkező légijármű részére, rendes körülmények között, a megfelelő STAR követésére ad engedélyt. A légijárművet a lehető leghamarabb tájékoztatni kell a bevezetés várható típusáról és a használatos futópályáról.
 
-(4) Ha egy repülőtéren átmenet a végső megközelítéshez eljárást tettek közzé, az illetékes ATS az érkező légijármű részére, rendes körülmények között, a megfelelő átmenet a végső megközelítéshez eljárás követésére ad engedélyt. A légijárművet a követendő átmeneti eljárásról a lehető leghamarabb tájékoztatni kell. Az illetékes ATS-nek legkésőbb az átmenet a végső megközelítéshez eljárás végén a végső megközelítés útvonalponton hagyományos navigáción alapuló műszer szerinti vagy látással történő végső megközelítésre szóló engedélyt kell kiadnia.
+(4)[^144]
 
 (5) A bevezető irányító egységgel való koordinálást követően az ACC az első érkező légijárműnek a várakozási pont helyett a közvetlen megközelítést engedélyezheti.
+
+[^144]: A 153. § (4) bekezdését az 55/2021. (XI. 5.) ITM rendelet 14. § b) pontja hatályon kívül helyezte.

@@ -26,8 +26,8 @@ d) ha szélnyírást jelentettek vagy azt előre jelezték, vagy ha várható, h
 
 e) ha az oldalszél összetevő, beleértve a széllökéseket is, meghaladja a 15 kt (28 km/h) értéket, vagy ha a hátszél összetevő, beleértve a széllökéseket is, meghaladja az 5 kt (9 km/h) értéket.
 
-(5a)[^140] A Budapest Liszt Ferenc Nemzetközi Repülőtér esetében az (5) bekezdés e) pontjában meghatározott hátszél összetevő érték 00.00 és 05.00 óra között 10 kt (18 km/h), azzal, hogy az 5 kt (9 km/h) és 10 kt (18 km/h) közötti hátszél összetevő érték esetén a megjelölt időszakban a repülőtéri irányító torony a futópálya kiválasztásánál a repülőtéri kézikönyvben meghatározottak szerint veheti figyelembe a zajcsökkentést mint szempontot.
+(5a)[^147] A Budapest Liszt Ferenc Nemzetközi Repülőtér esetében az (5) bekezdés e) pontjában meghatározott hátszél összetevő érték 00.00 és 05.00 óra között 10 kt (18 km/h), azzal, hogy az 5 kt (9 km/h) és 10 kt (18 km/h) közötti hátszél összetevő érték esetén a megjelölt időszakban a repülőtéri irányító torony a futópálya kiválasztásánál a repülőtéri kézikönyvben meghatározottak szerint veheti figyelembe a zajcsökkentést mint szempontot.
 
 (6) A légijármű parancsnoka repülésbiztonsági okra hivatkozva a zajcsökkentés mint szempont figyelembevételével felajánlott futópálya használatát visszautasíthatja.
 
-[^140]: A 177. § (5a) bekezdését a 19/2019. (VII. 31.) ITM rendelet 1. §-a iktatta be.
+[^147]: A 177. § (5a) bekezdését a 19/2019. (VII. 31.) ITM rendelet 1. §-a iktatta be.

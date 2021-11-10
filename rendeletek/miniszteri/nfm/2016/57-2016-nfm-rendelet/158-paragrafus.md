@@ -2,7 +2,7 @@
 
 158. § (1) A (3) bekezdésben meghatározott körülmények fennállása esetén, az IFR szerint működő légijárműnek kérésére vagy a légiforgalmi irányító kezdeményezésére engedélyezhető a látással történő megközelítés. A légiforgalmi irányító kezdeményezése esetén a légijármű hozzájárulása is szükséges.
 
-(2)[^138] Ha a légijármű látással történő megközelítést kezdeményez, a légiforgalmi irányítónak körültekintően kell eljárnia, ha feltételezi, hogy az érintett hajózó személyzet nem ismeri a repülőteret és a repülőtér környezeti terepviszonyait. Ha a légiforgalmi irányítólátással történő megközelítést kezdeményez, az aktuális forgalmi és meteorológiai körülményeket is figyelembe kell vennie.
+(2)[^145] Ha a légijármű látással történő megközelítést kezdeményez, a légiforgalmi irányítónak körültekintően kell eljárnia, ha feltételezi, hogy az érintett hajózó személyzet nem ismeri a repülőteret és a repülőtér környezeti terepviszonyait. Ha a légiforgalmi irányítólátással történő megközelítést kezdeményez, az aktuális forgalmi és meteorológiai körülményeket is figyelembe kell vennie.
 
 (3) IFR szerinti működő légijárműnek engedélyezhető látással történő megközelítés végrehajtása, feltéve hogy a légijármű hajózó személyzete folyamatos talajlátással tud közeledni és
 
@@ -22,4 +22,4 @@ b) ha a hajózó személyzet jelenti a kezdeti megközelítési szakasz kezdeti 
 
 (9) Az összeköttetést a repülőtéri légiforgalmi irányító részére olyan földrajzi helyen vagy időpontban kell átadni, hogy a légijárműnek a lényeges helyi forgalomról szóló tájékoztatások és a leszállási vagy egyéb feltételes engedély még kellő időben kiadható legyen.
 
-[^138]: A 158. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^145]: A 158. § (2) bekezdése a 33/2020. (X. 5.) ITM rendelet 60. § (3) bekezdés e) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@ a) a repülőtér közelében van, és
 
 aa) úgy ítéli meg, hogy a megközelítést és a leszállást földlátással végre tudja hajtani, vagy
 
-ab)[^99] folyamatosan VMC-ben van,
+ab)[^103] folyamatosan VMC-ben van,
 
 b) elér egy meghatározott pontot vagy magasságot, vagy
 
@@ -34,4 +34,4 @@ bb) ha a légijármű elér valamely meghatározott pontot vagy magasságot.
 
 (6) Az induló légijárművek irányítását a repülőtéri irányító torony közvetlenül is átadhatja az ACC-nek az érintett egységek előzetes megállapodása vagy munkahelyi előírás alapján.
 
-[^99]: A 82. § (2) bekezdés a) pont ab) alpontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés t) pontja szerint módosított szöveg.
+[^103]: A 82. § (2) bekezdés a) pont ab) alpontja a 33/2020. (X. 5.) ITM rendelet 60. § (2) bekezdés t) pontja szerint módosított szöveg.
