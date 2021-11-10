@@ -1,4 +1,4 @@
-11. §[^19] (1) Az ETT a munkáját a RKEB-ek közreműködésével végzi.
+11. §[^22] (1) Az ETT a munkáját a RKEB-ek közreműködésével végzi.
 
 (2) Az ETT az ETT REKEBET útján segíti és koordinálja a RKEB-ek egységes működését. Ennek keretében az ETT REKEBET:
 
@@ -14,4 +14,4 @@ c) nyilvántartásba veszi a RKEB-eket, valamint a hozzájuk tartozó IKEB-eket 
 
 (5) Az ETT REKEBET a RKEB-ek egységes működése érdekében jóváhagyja a RKEB-ek ügyrendjét.
 
-[^19]: A 11. § a 17/2019. (VIII. 5.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^22]: A 11. § a 17/2019. (VIII. 5.) EMMI rendelet 6. §-ával megállapított szöveg.
