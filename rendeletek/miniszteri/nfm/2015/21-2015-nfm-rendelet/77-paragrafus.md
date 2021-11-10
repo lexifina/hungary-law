@@ -1,4 +1,4 @@
-77. § (1)[^62] A 76. § (2) bekezdésben meghatározott kérelem mellékletét képző karbantartási kézikönyvnek legalább a következőket kell tartalmaznia:
+77. § (1)[^63] A 76. § (2) bekezdésben meghatározott kérelem mellékletét képző karbantartási kézikönyvnek legalább a következőket kell tartalmaznia:
 
 a) a felelős vezető által aláírt nyilatkozatot, amely megerősíti, hogy a karbantartó szervezet folyamatosan, a jelen rendeletben meghatározottak szerint működik,
 
@@ -26,7 +26,7 @@ h) a karbantartó szervezet kézikönyve módosításának eljárásait.
 
 (6) A minta karbantartási kézikönyvnek – a konkrét szervezetre vonatkozó adatok kivételével – az (1) bekezdésben meghatározottakat kell tartalmaznia.
 
-(7)[^63]
+(7)[^64]
 
-[^62]: A 77. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 85. §-ával megállapított szöveg.
-[^63]: A 77. § (7) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 21. pontja hatályon kívül helyezte.
+[^63]: A 77. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 85. §-ával megállapított szöveg.
+[^64]: A 77. § (7) bekezdését az 55/2017. (XII. 27.) NFM rendelet 90. § 21. pontja hatályon kívül helyezte.

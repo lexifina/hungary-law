@@ -1,3 +1,3 @@
-## 103. §[^75]
+## 103. §[^76]
 
-[^75]: A 103. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 28. pontja hatályon kívül helyezte.
+[^76]: A 103. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 28. pontja hatályon kívül helyezte.

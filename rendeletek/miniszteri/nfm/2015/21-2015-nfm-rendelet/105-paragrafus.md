@@ -1,4 +1,4 @@
-## 104. §[^76]
+## 104. §[^77]
 
 ## VII. Fejezet
 
@@ -12,4 +12,4 @@ b) a légijárművet az egyedi repülési engedély alapjául szolgáló üzemel
 
 c) ahol a rendelet típusalkalmassági tanúsítványt vagy légialkalmassági tanúsítványt említ, ott egyedi repülési engedélyt, ahol típusalkalmassági tanúsítvány alapjául szolgáló típustervet említ, ott az egyedi repülési engedély alapjául szolgáló tervet kell érteni.
 
-[^76]: A 104. §-t a 12/2021. (III. 5.) ITM rendelet 20. § d) pontja hatályon kívül helyezte.
+[^77]: A 104. §-t a 12/2021. (III. 5.) ITM rendelet 20. § d) pontja hatályon kívül helyezte.

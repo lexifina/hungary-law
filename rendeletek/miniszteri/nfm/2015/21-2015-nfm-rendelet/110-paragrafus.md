@@ -1,4 +1,4 @@
-## 109. §[^84]
+## 109. §[^85]
 
 ## 35. Tanúsító szervezettel szemben támasztott követelmények
 
@@ -22,4 +22,4 @@ h) a tevékenység során alkalmazott szervezeti formanyomtatványok (pl. vizsg�
 
 i) a törzskönyv formáját és számozásának rendjét.
 
-[^84]: A 109. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 32. pontja hatályon kívül helyezte.
+[^85]: A 109. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 32. pontja hatályon kívül helyezte.

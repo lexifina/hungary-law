@@ -1,4 +1,4 @@
-## 57. §[^58]
+## 57. §[^59]
 
 58. § (1) A katonai múltú légijármű kizárólag hatástalanított fegyverzettel repülhet. A légijárműre a fegyverzetet imitáló tárgy felszerelhető.
 
@@ -12,4 +12,4 @@
 
 (4) A katonai múltú légijárműre, a légijármű törzsének mindkét oldalára el kell helyezni legalább 50 mm magasságú, nagybetűvel írt ”EXPERIMENTAL” feliratot.
 
-[^58]: Az 57. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 19. pontja hatályon kívül helyezte.
+[^59]: Az 57. §-t az 55/2017. (XII. 27.) NFM rendelet 90. § 19. pontja hatályon kívül helyezte.
