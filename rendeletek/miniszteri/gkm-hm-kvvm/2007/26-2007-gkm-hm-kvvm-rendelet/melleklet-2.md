@@ -20,7 +20,7 @@
 
 | 10 | 4000 láb (1200 m) AMSL alatti nem ellenőrzött légterek, a vitorlázó- és siklórepülések céljára kijelölt légterek, valamint a műrepülő légterek | Csak VFR | Nem biztosítanak | Kérés esetén repüléstájékoztató | 3000 láb (900 m) AMSL fölött vagy több mint 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Felhőktől való távolság: 1500 m vízszintesen, 300 m függőlegesen | Max. 250 kt (460 km/h) IAS | Nincs, kivéve az éjszakai VFR repüléseket3 | Nincs, kivéve az éjszakai VFR repüléseket | Nincs |
 
-| 11 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: – 1500 m legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén, vagy ha más forgalommal való találkozás valószínűsége csekély, – helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését, – helikopterek számára korlát nélkül, állami célú repülés, kutató-mentő repülés, légijárművel végzett egészségügyi mentőrepülés és légi tűzoltás esetén. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett |
+| 11 | Legfeljebb 3000 láb (900 m) AMSL-en vagy 1000 lábbal (300 m) a terep felett, amelyik magasabb Vízszintes látás: 5 km Eltérés: – 1500 m legfeljebb 140 kt műszer szerinti sebességgel (IAS) végrehajtott repülések esetén, vagy ha más forgalommal való találkozás valószínűsége csekély, – helikopterek számára 800 m, amennyiben a repülést olyan sebességgel hajtják végre, amely lehetővé teszi az egyéb forgalom vagy akadályok időbeni észlelését és az összeütközés elkerülését, – helikopterek számára korlát nélkül, állami célú repülés, kutató-mentő repülés, légijárművel végzett egészségügyi mentőrepülés és légi tűzoltás esetén. Felhőktől való távolság: Felhőkön kívül, a föld vagy a vízfelszín látása mellett | Nincs, kivéve az éjszakai VFR repüléseket, ha azok elhagyják a repülőtér közvetlen környezetét. |
 
 ## További szabályok, eltérések:
 
@@ -36,7 +36,7 @@
 
 2. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^97]
+együttes rendelethez[^98]
 
 ELLENŐRZÖTT, NEM ELLENŐRZÖTT ÉS IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK
 
@@ -432,7 +432,7 @@ I. ELLENŐRZÖTT LÉGTEREK
 
 4. Katonai körzetek
 
-## 1X00241M_3
+## 1X09134N_3
 
 |  | A | B | C |
 
@@ -740,7 +740,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 1X00241M_4
+## 1X09134N_4
 
 |  | A | B | C | D |
 
@@ -1108,7 +1108,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 3. Vitorlázó- és siklórepülések céljára kijelölt légterek
 
-## 1X00241M_6
+## 1X09134N_6
 
 |  | A | B | C |
 
@@ -1240,13 +1240,15 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 480519N | 0192017E |
 
+| Országhatár |
+
 | 480328N | 0190338E |
 
 | 475312N | 0192011E |
 
 | 475644N | 0193408E |
 
-| 480519N | 0192017e |
+| 480519N | 0192017E |
 
 | 11. | LHSG120 | Koordinált: 4500’ (1350 m) AMSL / 3500’ (1050 m) AMSL | Koordinált légtér: Napnyugtáig igényelhető. Elsősorban vitorlázórepülés céljára. A kezdés, befejezés időpontját és az igénybe vehető magasságot a Budapest ATS Központ határozza meg. |
 
@@ -1770,4 +1772,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^97]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a szerint módosított szöveg.
+[^98]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 5. §-a szerint módosított szöveg.

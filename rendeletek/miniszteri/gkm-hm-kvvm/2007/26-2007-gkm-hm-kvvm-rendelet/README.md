@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-0
 | 2021-01-28 | 2007-26-20-0L.29 | 45/2017. (XII. 4.) NFM rendelet |
 | 2021-02-10 | 2007-26-20-0L.30 | 7/2021. (II. 5.) ITM rendelet |
 | 2021-03-06 | 2007-26-20-0L.31 | 12/2021. (III. 5.) ITM rendelet |
+| 2021-11-10 | 2007-26-20-0L.32 | 55/2017. (XII. 27.) NFM rendelet |

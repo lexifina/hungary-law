@@ -1,4 +1,4 @@
-## 1X00241M_8
+## 1X09134N_8
 
 |  | A | B | C | D |
 
@@ -490,11 +490,11 @@
 
 | 470004N | 0195835E |
 
-|  | 2. További szabályok: 2.1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2.2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 2.3. Az LHTRA 13 légtér kivételével valamennyi időszakosan korlátozott légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13 légtér a szolnoki katonai légiforgalmi irányító szolgálat illetékességi körzete. |
+|  | 2. További szabályok: 2.1. A polgári légiforgalom a jelzett magasságtartományon kívüli első iránymagasságot használhatja. 2.2. Az időszakosan korlátozott légterek (TRA-k) munkanapokon legkorábban napkelte előtt 30 perccel, legkésőbb pedig helyi idő szerint 24.00 óráig, a munkaszüneti napot, illetve ünnepnapot megelőző munkanapokon legkésőbb helyi idő szerint 17.00 óráig vehetőek igénybe. 2.3. Az LHTRA 13, 14A, 14B és 14C légterek kivételével valamennyi időszakosan korlátozott légtérben a Magyar Honvédség vagy más szövetséges fegyveres erő kijelölt katonai szervezete légvédelmi irányító szolgálatot biztosít. Az LHTRA 13, 14A, 14B és 14C légtér a szolnoki katonai légiforgalmi irányító szolgálat illetékességi körzete. |
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^98]
+együttes rendelethez[^99]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -1286,7 +1286,7 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 465951N 465427N 465130N 465654N 465951N | 0194049E 0195302E 0195017E 0193802E 0194049E |
 
-| 7. | Kecskemét MCTR NDZ | K MCTR No Drone Zone | 4000’ (1200 m) AMSL / 40 m AGL |
+| 7. | Kecskemét MCTR NDZ | Kecskemét MCTR NO Drone Zone | 4000’ (1200 m) AMSL / 40 m AGL |
 
 | A repülőtér vonatkozási pont (ARP 465504N 0194503E) körüli 10 km (5 NM) sugarú kör, valamint az alábbi koordináták által megadott terület |
 
@@ -1306,4 +1306,4 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 10. | BACS NDZ | Bácsbokod No Drone Zone 2 km sugarú kör a 460630N 0190926E középpont körül | 2500’ (750 m) AMSL/GND |
 
-[^98]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
+[^99]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 7. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
