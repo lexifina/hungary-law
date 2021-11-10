@@ -208,6 +208,10 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 
 78. közeli hozzátartozó: a Ptk.-ban meghatározott személy és az élettárs,
 
+78a. közösségi finanszírozási szolgáltatás: az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról szóló, 2020. október 7-i (EU) 2020/1503 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2020/1503 európai parlamenti és tanácsi rendelet] ekként meghatározott fogalom,
+
+78b. közösségi finanszírozási szolgáltató: az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom,
+
 79. központi értékpapír-nyilvántartás: a központi értéktár által vezetett, a belföldön kibocsátott értékpapírok adatait visszakereshető módon tartalmazó nyilvántartás,
 
 80. központi értékpapírszámla: a központi értéktár által a dematerializált értékpapírról sorozatonként vezetett összesített nyilvántartás,
@@ -273,6 +277,8 @@ c) éves árbevétele nem haladja meg az ötvenmillió eurót, illetve a mérleg
 106. portfóliókezelés: a Bszt.-ben meghatározott tevékenység,
 
 107. pozíciólezáró nettósítás: a felek megállapodása alapján a szerződés nemteljesítésekor vagy a felek által meghatározott egyéb felmondási esemény bekövetkeztekor az azonnali deviza- és értékpapírügyletből, származtatott ügyletből, repó- vagy fordított repóügyletből, értékpapír-kölcsönzésre irányuló megállapodásból, óvadéki, illetve biztosítéki célt szolgáló egyéb szerződésből, vagy más hasonló tőzsdén, tőzsdén kívül árura, illetve pénzügyi eszközre kötött ügyletből eredő tartozásoknak és követeléseknek az adott ügylet piacán elfogadott elszámolásaként egyetlen nettó tartozássá vagy követeléssé történő átalakítása, amelynek eredményeként a tartozás vagy a követelés kizárólag az ekként megállapított nettó összegre korlátozódik,
+
+107a. projektgazda: az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom,
 
 108. referenciaadat: a központi hitelinformációs rendszerről szóló törvényben meghatározott fogalom,
 
