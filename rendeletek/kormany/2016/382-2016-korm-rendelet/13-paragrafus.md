@@ -8,8 +8,8 @@
 
 a) a Kkt. 16/A. §-a szerinti szakértői tevékenységgel,
 
-b)[^109]
+b)[^112]
 
 c) a Kkt. 16/B. § (5) bekezdése szerinti auditori tevékenységgel
 
-[^109]: A 13. § (2) bekezdés b) pontját a 722/2020. (XII. 31.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^112]: A 13. § (2) bekezdés b) pontját a 722/2020. (XII. 31.) Korm. rendelet 34. §-a hatályon kívül helyezte.

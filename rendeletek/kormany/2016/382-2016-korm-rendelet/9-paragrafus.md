@@ -142,7 +142,7 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 58. az 598/2014/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik az 598/2014/EU európai parlamenti és tanácsi rendeletben meghatározott, a légijárművek zajának kezelésére, az egyes repülőterek zajhelyzetének értékelésére, az üzemeltetési korlátozások bevezetésére és a bizottság értesítésére vonatkozó feladatok végrehajtásáról,
 
-59.[^88]
+59.[^88] kijelölt illetékes hatóságként ellátja a közös repülési szabályok és a léginavigációs szolgáltatásokra és eljárásokra vonatkozó működési rendelkezések meghatározásáról, valamint az 1035/2011/EU végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 1033/2006/EK és a 255/2010/EU rendelet módosításáról szóló, 2012. szeptember 26-i 923/2012/EU bizottsági végrehajtási rendeletben meghatározott hatósági feladatokat, gondoskodik a 923/2012/EU bizottsági végrehajtási rendeletben meghatározott követelményeknek való megfelelés biztosításáról;
 
 60. a 139/2014/EU bizottsági rendelet 10. cikk (1) bekezdés a) pontjának megfelelően a vadon élő állatok és a légijárművek közötti ütközésekre vonatkozó nemzeti nyilvántartási és bejelentési eljárást dolgoz ki és működtet,
 
@@ -192,6 +192,12 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 83.[^99] ellátja a távoli pilóták képzését végző képzőszervek felügyeletét.
 
+84.[^100] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat és a koordinált légtér koordinációs feladatait ellátó szervezet közötti együttműködési megállapodást,
+
+85.[^101] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, Drop Zone légtér koordinációs feladatait ellátó szervezet és az ejtőernyős ugrást vagy műrepülést végrehajtó szervezet vagy szervezetek közötti együttműködési megállapodást,
+
+86.[^102] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat és a Drop Zone légtérben koordinációs feladatokat ellátó szervezet közötti együttműködési megállapodást,
+
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
 (6) Ha
@@ -212,7 +218,7 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 [^85]: A 9. § (4) bekezdés 36. pontja a 348/2019. (XII. 23.) Korm. rendelet 10. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^86]: A 9. § (4) bekezdés 56. pontja a 402/2020. (VIII. 17.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^87]: A 9. § (4) bekezdés 57. pontja a 9/2021. (I. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^88]: A 9. § (4) bekezdés 59. pontját a 348/2019. (XII. 23.) Korm. rendelet 10. § (3) bekezdése hatályon kívül helyezte.
+[^88]: A 9. § (4) bekezdés 59. pontját újonnan a 609/2021. (XI. 5.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^89]: A 9. § (4) bekezdés 70. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
 [^90]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
 [^91]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
@@ -224,3 +230,6 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 [^97]: A 9. § (4) bekezdés 81. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
 [^98]: A 9. § (4) bekezdés 82. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
 [^99]: A 9. § (4) bekezdés 83. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^100]: A 9. § (4) bekezdés 84. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^101]: A 9. § (4) bekezdés 85. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^102]: A 9. § (4) bekezdés 86. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
