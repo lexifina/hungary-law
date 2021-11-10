@@ -1,6 +1,6 @@
 ## 48. Rádióberendezésre és transzponderre vonatkozó felszereltségi követelmények
 
-65. §[^138] (1) A 117,975–137,000 MHz frekvenciasávban működő, az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságra vonatkozó követelmények megállapításáról szóló, 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendelet szerinti csatornaosztású rádiótávbeszélő üzemmódú rádióberendezéssel kell felszerelni
+65. §[^139] (1) A 117,975–137,000 MHz frekvenciasávban működő, az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságra vonatkozó követelmények megállapításáról szóló, 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendelet szerinti csatornaosztású rádiótávbeszélő üzemmódú rádióberendezéssel kell felszerelni
 
 a) az ellenőrzött légtérben üzemeltetett,
 
@@ -30,4 +30,4 @@ f) a TIZ-t el nem hagyó, rádióberendezéssel fel nem szerelt, hajtómű nélk
 
 (8) A transzpondereket a SERA rendelet melléklet 13. szakaszában és az 5. mellékletben meghatározottak szerint kell működtetni.
 
-[^138]: A 65. § a 33/2020. (X. 5.) ITM rendelet 28. §-ával megállapított szöveg.
+[^139]: A 65. § a 33/2020. (X. 5.) ITM rendelet 28. §-ával megállapított szöveg.

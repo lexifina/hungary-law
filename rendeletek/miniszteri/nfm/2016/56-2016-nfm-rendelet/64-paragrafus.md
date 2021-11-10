@@ -1,4 +1,4 @@
-## 63. §[^135] A SERA rendelet melléklet 5. szakasz SERA.5005 pont f) pontjában foglaltakat nem kell alkalmazni légijárművel folytatott munkavégzés, légijárművel végzett egészségügyi mentőrepülés, kutató-mentő repülés, állami légijárművel OAT szabályok szerint végrehajtott repülés, légi tűzoltás céljából végrehajtott repülés, valamint vámhatósági, rendőrségi vagy határőrizeti célú repülés esetén.
+## 63. §[^135] A SERA rendelet melléklet 5. szakasz SERA.5005 pont f) pontjában foglaltakat nem kell alkalmazni kutató-mentő repülés, állami légijárművel OAT szabályok szerint végrehajtott repülés, valamint vámhatósági, rendőrségi vagy határőrizeti célú repülés esetén.
 
 ## 47. Ellenőrzött légtérben végrehajtott VFR repülésekre vonatkozó rendelkezések
 
@@ -10,8 +10,9 @@ b) ha egy légijármű elveszti a kétoldalú rádióösszeköttetést az illet�
 
 c)[^137] ha FL195 (5950 m STD) felett, ellenőrzött légtérben VFR szerint működő légijármű a meteorológiai körülmények romlása miatt nem képes VMC között tovább működni, akkor a SERA rendelet melléklet 8. szakasz SERA.8020 pontjának d) alpontjában meghatározottak szerint kell eljárnia.
 
-(2) A SERA rendelet melléklet 5. szakasz SERA.5010. pontjában meghatározott különleges VFR repülés éjszaka is végrehajtható.
+(2)[^138]
 
-[^135]: A 63. § a 33/2020. (X. 5.) ITM rendelet 27. §-ával megállapított szöveg.
+[^135]: A 63. § a 33/2020. (X. 5.) ITM rendelet 27. §-ával megállapított, az 55/2021. (XI. 5.) ITM rendelet 12. § a) pontja szerint módosított szöveg.
 [^136]: A 64. § (1) bekezdés a) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^137]: A 64. § (1) bekezdés c) pontja a 33/2020. (X. 5.) ITM rendelet 32. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^138]: A 64. § (2) bekezdését az 55/2021. (XI. 5.) ITM rendelet 12. § b) pontja hatályon kívül helyezte.

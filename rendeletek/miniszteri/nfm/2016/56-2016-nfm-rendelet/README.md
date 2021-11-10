@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-56-20-2
 | 2020-01-30 | 2016-56-20-2W.4 | 34/2019. (IX. 13.) ITM rendelet |
 | 2020-10-10 | 2016-56-20-2W.5 | 33/2020. (X. 5.) ITM rendelet |
 | 2021-02-10 | 2016-56-20-2W.6 | 7/2021. (II. 5.) ITM rendelet |
+| 2021-11-10 | 2016-56-20-2W.7 | 55/2021. (XI. 5.) ITM rendelet |

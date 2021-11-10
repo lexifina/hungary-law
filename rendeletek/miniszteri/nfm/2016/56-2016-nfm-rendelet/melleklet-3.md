@@ -1,4 +1,4 @@
-3. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^166]
+3. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^167]
 
 ## LÉGIFORGALMI ESEMÉNY JELENTÉS ŰRLAP
 
@@ -50,4 +50,4 @@ AIRPROX jelentés esetén a rendelet 51. § (3) bekezdése szerint kell eljárni
 
 3.6. A mellékelt ábrát kell használni a légijárművek helyzetének jelzésére és szükség szerint csatolhatók további lapok az esemény leírásához.
 
-[^166]: A 3. melléklet a 33/2020. (X. 5.) ITM rendelet 32. § (6) bekezdés a) pontja, 33. § (2) bekezdése szerint módosított szöveg.
+[^167]: A 3. melléklet a 33/2020. (X. 5.) ITM rendelet 32. § (6) bekezdés a) pontja, 33. § (2) bekezdése szerint módosított szöveg.

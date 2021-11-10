@@ -1,4 +1,4 @@
-## 66. [^153] Az induló és érkező légijármű számára adott tájékoztatások
+## 66. [^154] Az induló és érkező légijármű számára adott tájékoztatások
 
 84. § (1) A rádióösszeköttetés első ízben történő felvételekor meg kell adni a következőket:
 
@@ -18,4 +18,4 @@ d) futópálya állapot.
 
 (5) Az AFIS egység begurulás közben parkolásra vonatkozó információkat adhat meg.
 
-[^153]: A 66. alcím címe a 33/2020. (X. 5.) ITM rendelet 32. § (4) bekezdés g) pontja szerint módosított szöveg.
+[^154]: A 66. alcím címe a 33/2020. (X. 5.) ITM rendelet 32. § (4) bekezdés g) pontja szerint módosított szöveg.
