@@ -114,7 +114,7 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum |
 
-3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^131]
+3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^132]
 
 ## SZAKSZOLGÁLATI ENGEDÉLY KÉRŐ LAP
 
@@ -240,4 +240,4 @@
 
 | Oldal 2/2 |
 
-[^131]: A 3. melléklet a 34/2019. (IX. 13.) ITM rendelet 12. §-ával megállapított szöveg.
+[^132]: A 3. melléklet a 34/2019. (IX. 13.) ITM rendelet 12. §-ával megállapított szöveg.
