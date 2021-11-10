@@ -488,6 +488,8 @@ e) az önkormányzat által adott lakáscélú vagy szociális kölcsön.
 
 (6) Nem minősül pénzügyi lízingnek az anyavállalat és a leányvállalata közötti lízing, ide nem értve a pénzügyi intézmény által kötött ilyen ügyletet.
 
+(6a) Nem minősül pénzügyi szolgáltatás közvetítésének az (EU) 2020/1503 európai parlamenti és tanácsi rendeletben meghatározott közösségi finanszírozási szolgáltatás.
+
 (7) Az e törvényben vagy az 575/2013/EU rendeletben megállapított követelmények vagy felügyeleti hatáskörök összevont vagy szubkonszolidált alapon, e törvénnyel és az 575/2013/EU rendelettel összhangban történő alkalmazásának biztosítása érdekében a „hitelintézet”, a „tagállami anyavállalat”, az „EU-szintű anyavállalat” és az „anyavállalat” fogalmába bele kell érteni a következőket is:
 
 a) azok a pénzügyi holding társaságok és vegyes pénzügyi holding társaságok, amelyek a 15/A. §-nak megfelelően megkapták a Felügyelettől a külön jóváhagyást,

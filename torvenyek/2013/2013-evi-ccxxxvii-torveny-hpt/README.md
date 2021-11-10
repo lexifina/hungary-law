@@ -66,3 +66,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2021-07-02 | 2021. évi LXXXIV. törvény | 2013-237-00-00.59 |
 | 2021-08-02 | 2021. évi LVIII. törvény | 2013-237-00-00.60 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 2013-237-00-00.61 |
+| 2021-11-10 | 2021. évi LVIII. törvény | 2013-237-00-00.62 |
