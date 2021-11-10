@@ -4,4 +4,6 @@
 
 (2) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és a tanácsi irányelvnek való megfelelést szolgálja.
 
-(3) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és a tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+(3)[^1]
+
+[^1]: A 9. § (3) bekezdését az 55/2021. (XI. 5.) ITM rendelet 41. §-a hatályon kívül helyezte.
