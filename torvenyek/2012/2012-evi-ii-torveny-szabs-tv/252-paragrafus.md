@@ -7,5 +7,3 @@
 (3) Az e törvény hatálybalépése előtt elkövetett szabálysértéseket nem lehet figyelembe venni a törvény hatálybalépése után elkövetett és a visszaesés szabályai alá tartozó szabálysértések esetén.
 
 (3a) Az egyes büntetőjogi tárgyú és ehhez kapcsolódó más törvények módosításáról szóló 2013. évi CLXXXVI. törvénnyel (a továbbiakban: Módtv.) megállapított 67. § (3) és (5)–(13) bekezdését, valamint 91. § (5) bekezdését a Módtv. hatálybalépésekor folyamatban lévő szabálysértési eljárásokban is alkalmazni kell.
-
-(4) A közúti közlekedésről szóló 1988. évi I. törvény 2012. április 15-én hatályba lépő, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartásról szóló 2012. évi II. törvény 253. § (3) bekezdése szerinti módosítása miatt azon szabálysértéseket, amelyek 2012. április 15-től közigazgatási bírsággal sújtandó szabályszegés hatálya alá esnek, de 2012. április 15. előtt követték el, a szabálysértésekről szóló törvény szerint kell elbírálni.
