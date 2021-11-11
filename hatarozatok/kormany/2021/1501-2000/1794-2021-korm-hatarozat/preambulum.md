@@ -1,0 +1,1 @@
+A Kormány Magyarország Helyreállítási és Ellenállóképességi Tervében szereplő, XXI. századi egészségügy feltételeinek kialakítása című intézkedés keretében megvalósuló beruházások mielőbbi végrehajtása érdekében
