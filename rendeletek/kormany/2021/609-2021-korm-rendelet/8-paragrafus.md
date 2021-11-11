@@ -1,4 +1,4 @@
-## 7. §[^3]
+## 7. §[^9]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 5. § (3) bekezdése, a 6. § és a 7. § 2022. január 27-én lép hatályba.
 
-[^3]: A 7. § a 8. § (2) bekezdése alapján 2022. január 27-én lép hatályba.
+[^9]: A 7. § a 8. § (2) bekezdése alapján 2022. január 27-én lép hatályba.

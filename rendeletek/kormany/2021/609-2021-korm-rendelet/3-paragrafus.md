@@ -1,1 +1,3 @@
-## 2. § A Vhr. 27/A. § (1) bekezdés 7. pontjában a „felszállási terület:” szövegrész helyébe a „felszállási repülési útvonal terület:” szöveg lép.
+## 2. §[^2]
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
