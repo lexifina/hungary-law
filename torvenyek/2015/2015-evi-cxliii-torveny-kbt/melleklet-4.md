@@ -11,9 +11,3 @@ A 73. § (4) bekezdésében hivatkozott környezetvédelmi, szociális és munka
 – 105. számú ILO-egyezmény a kényszermunka felszámolásáról
 
 – 138. számú ILO-egyezmény a foglalkoztatás alsó korhatáráról
-
-– 111. számú ILO-egyezmény a foglalkoztatásból és a foglalkozásból eredő hátrányos megkülönböztetésről
-
-– 100. számú ILO-egyezmény a férfi és a női munkaerőnek egyenlő értékű munka esetén járó egyenlő díjazásáról
-
-– 182. számú ILO-egyezmény a gyermekmunka legrosszabb formáinak betiltásáról és felszámolására irányuló azonnali lépésekről

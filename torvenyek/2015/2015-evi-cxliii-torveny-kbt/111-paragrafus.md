@@ -28,7 +28,7 @@ l) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 
 m) a postai szolgáltatást vagy a postai szolgáltató által nyújtott postai szolgáltatásoktól eltérő szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
 
-n) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére, valamint hangszerek, hangszertartozékok és hangszeralkatrészek beszerzésére;
+n) nyomtatott és elektronikus könyvek, újságok, folyóiratok, időszakos kiadványok, valamint az elsődlegesen az előbbieket tartalmazó, kutatási, közművelődési vagy oktatási célt szolgáló elektronikus adatbázisok, illetve azok felhasználására vonatkozó jogok, a kulturális javak körébe tartozó tárgyak és rájuk vonatkozó jogok megszerzésére, hangszerek, hangszertartozékok és hangszeralkatrészek beszerzésére;
 
 o) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
 

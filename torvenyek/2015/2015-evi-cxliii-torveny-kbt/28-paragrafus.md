@@ -23,3 +23,5 @@ g) az ajánlatkérő korábbi, hasonló tárgyra irányuló szerződéseinek ele
 (4) A közbeszerzési eljárás megindítása előtt az ajánlatkérő független szakértőkkel, hatóságokkal, illetve piaci résztvevőkkel előzetes piaci konzultációkat folytathat a közbeszerzési eljárás előkészítése, valamint a gazdasági szereplők – tervezett beszerzésre és annak követelményeire vonatkozó – tájékoztatása érdekében. Az ajánlatkérő köteles minden szükséges intézkedést – különösen a releváns információk közlését a közbeszerzési dokumentumokban, valamint a megfelelő ajánlattételi határidő meghatározását – megtenni a verseny tisztaságára, a gazdasági szereplők esélyegyenlőségére és egyenlő elbánására vonatkozó alapelvek érvényesülése érdekében.
 
 (5) Előzetes piaci konzultációt az ajánlatkérő – más módszerek mellett – úgy is megvalósíthat, hogy a műszaki leírás tervezetét és a szerződéstervezetet az EKR-ben előzetesen közzéteszi, amelynek véleményezésére az érdeklődő gazdasági szereplők számára lehetőséget biztosít.
+
+(6) Az előzetes piaci konzultáció kötelező alkalmazásának eseteit és feltételeit kormányrendelet állapítja meg.

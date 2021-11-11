@@ -9,3 +9,5 @@
 (4) Az ajánlatkérő köteles a Közbeszerzési Hatóság vagy a jogszabályban az ajánlatkérő ellenőrzésére feljogosított szerv kérésére a közbeszerzési tervét megküldeni.
 
 (5) A közbeszerzési terv minimális adattartalmát e törvény felhatalmazása alapján alkotott jogszabály határozza meg.
+
+(6) Kormányrendeletben meghatározott feltételek teljesülése esetén az ajánlatkérő a közbeszerzési tervével egyidejűleg – vagy ha közbeszerzési terv készítésére nem köteles, az adott év március 31. napjáig – intézkedési tervet tesz közzé, amelyben bemutatja azokat az intézkedéseket, amelyekkel az általa lefolytatandó közbeszerzési eljárásokban a verseny szintjének növelését segíti elő.

@@ -42,7 +42,7 @@
 
 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
 
-20.
+20. az előzetes piaci konzultáció kötelező alkalmazásának eseteit és feltételeit, a közbeszerzési eljárásokban a verseny szintjének növelése érdekében hozandó intézkedési terv közzétételére irányuló kötelezettség feltételeit, valamint a közbeszerzésekben a verseny javítása érdekében szükséges monitoring és szervezeti intézkedések szabályait;
 
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 
