@@ -1,9 +1,3 @@
-## lép.
+## 13. §[^13]
 
-## 14. § Hatályát veszti az R3.
-
-a) 112. §-a,
-
-b) 153. § (4) bekezdése,
-
-c) 365. §-a.
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

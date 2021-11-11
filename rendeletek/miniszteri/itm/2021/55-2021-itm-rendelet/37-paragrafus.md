@@ -1,3 +1,3 @@
-## 36. § Az R4. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 36. §[^36]
 
-## „(1) Azoknál a földrajzi helyzetet megadó adatoknál, amelyeknél a Földi Gravitációs Modell–1996 (a továbbiakban: EGM-96) pontossága nincs összhangban a közepes tengerszinthez viszonyított magasságra és a geoidundulációra vonatkozóan a PANS AIM Doc 10066 dokumentumban meghatározott pontossági követelményekkel, az e rendelet hatálya alá tartozó felek regionális vagy helyi nagy felbontású gravitációs mező adatokat tartalmazó modellt alkalmaznak. Ebben az esetben az alkalmazott modell leírását és a magassági értékeknek az alkalmazott modell és az EGM-96 rendszer közötti átváltására vonatkozó szabályokat az AIS az AIP-ben teszi közzé.”
+[^36]: A 36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

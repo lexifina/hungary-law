@@ -1,7 +1,3 @@
-## 35. § Az R4. 38. § (1)–(3) bekezdése helyébe a következő rendelkezés lép:
+## 35. §[^35]
 
-## „(1) A 73/2010/EU bizottsági rendelet 6. cikk (1) bekezdésében és IV. melléklet A. részében meghatározott adatminőségi követelmények teljesítése érdekében a légiforgalmi tájékoztató termék AIC-n kívüli elemeiben közzétett légiforgalmi adatok és tájékoztatások, Magyarország légiközlekedési terep és akadály adatbázisának elektronikus terep és akadály adatai, valamint a repülőtéri térképészeti adatok minősége megfelel a PANS AIM Doc 10066 dokumentumban foglalt követelményeknek. A PANS AIM Doc 10066 dokumentumot a közlekedésért felelős miniszter közlemény formájában közzéteszi a Hivatalos Értesítőben.
-
-## (2) Az adat létrehozásától a várható következő felhasználó részére történő továbbításig tartó teljes folyamat során a légiforgalmi adatok és a légiforgalmi tájékoztatások létrehozásában, előállításában, tárolásában, kezelésében, feldolgozásában, továbbításában és elosztásában részt vevő, e rendelet hatálya alá tartozó valamennyi kötelezett gondoskodik arról, hogy a légiforgalmi tájékoztató termék AIC-n kívüli elemeiben közzétett légiforgalmi adatok és tájékoztatások, Magyarország légiközlekedési terep és akadály adatbázisának elektronikus terep és akadály adatai, valamint a repülőtéri térképészeti adatok megfelelnek a PANS AIM Doc 10066 dokumentum a pontosságra, felbontóképességre és integritásra vonatkozóan meghatározott adatminőségi követelményeknek.
-
-## (3) Azokat a földrajzi koordinátákat, amelyeket WGS-84 rendszerű koordinátákká alakítottak át, de a felmérésük pontossága nem felel meg a PANS AIM Doc 10066 dokumentumban meghatározott követelményeknek, az AIS közzétételkor csillaggal jelöli meg.”
+[^35]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

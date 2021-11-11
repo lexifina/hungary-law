@@ -1,3 +1,3 @@
-## 30. § Az R4. 29. § (4) bekezdése helyébe a következő rendelkezés lép:
+## 30. §[^30]
 
-## „(4) Az automatizált folyamatok végrehajtásakor biztosítani kell az adatok és tájékoztatások integritását, és a kockázatok azonosítása esetén meg kell tenni a kockázatmérséklő lépéseket.”
+[^30]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

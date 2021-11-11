@@ -1,3 +1,3 @@
-## 33. § Az R4. 37. §-a helyébe a következő rendelkezés lép:
+## 33. §[^33]
 
-## „37. § Az AIS gondoskodik az AFS-en továbbított NOTAM kiadásához és átvételéhez szükséges üzemelési feltételekről.”
+[^33]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

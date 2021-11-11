@@ -1,1 +1,3 @@
-## „(4) A 2. § (3) bekezdés a)–d) pontjában meghatározott légiforgalmi tájékoztató terméket a közzétételt követően a lehető leggyorsabban – lehetőség szerint internet alkalmazásával – elérhetővé kell tenni.”
+## 18. §[^18]
+
+[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

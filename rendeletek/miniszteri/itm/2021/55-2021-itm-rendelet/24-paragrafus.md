@@ -1,3 +1,3 @@
-## 23. § Az R4. 13. §-a helyébe a következő rendelkezés lép:
+## 23. §[^23]
 
-## „13. § A hatályos NOTAM-okról az AIS legalább évente ellenőrző jegyzéket ad ki.”
+[^23]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
