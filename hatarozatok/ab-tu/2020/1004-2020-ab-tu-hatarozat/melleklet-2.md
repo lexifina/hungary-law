@@ -22,13 +22,11 @@
 
 | Kommunikációs vezető | 1 |
 
-| Volt elnök titkársága | Munkatársak | 2 |
-
 | Főtitkárság | Főtitkár | 1 |
 
 | Főtitkársági titkárság | Főtitkársági titkárságvezető | 1 |
 
-| Indítványelemzés | Indítványelemzők | 6 |
+| Indítványelemzés | Indítványelemzők | 7 |
 
 | Informatika | Informatikus | 2 |
 
@@ -42,7 +40,7 @@
 
 | Gazdálkodás és pénzügy | Pénzügyi és számviteli vezető | 1 |
 
-| Pénzügyi és számviteli ügyintéző | 3 |
+| Pénzügyi és számviteli ügyintéző | 4 |
 
 | Bérszámfejtési és társadalombiztosítási ügyintéző | 1 |
 
@@ -62,4 +60,4 @@
 
 Alkotmánybírósági ügyszám: XVIII/549/2020.
 
-[^4]: A 2. melléklet az 1002/2021. (II. 10.) AB Tü. határozat 3. pontjával megállapított szöveg.
+[^4]: A 2. melléklet az 1007/2021. (XI. 10.) AB Tü. határozat 1. pontjával megállapított szöveg.
