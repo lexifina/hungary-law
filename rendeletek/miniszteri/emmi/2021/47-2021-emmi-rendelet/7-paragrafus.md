@@ -1,3 +1,5 @@
-## 6. § Az ETT rendelet 7. § (3) bekezdésében az „elismert orvosait” szövegrész helyébe az „elismert szakembereit” szöveg lép.
+## 6. §[^7]
 
 7. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

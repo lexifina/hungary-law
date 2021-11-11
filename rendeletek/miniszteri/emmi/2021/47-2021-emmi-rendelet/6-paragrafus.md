@@ -1,3 +1,3 @@
-## 5. § Az ETT rendelet 12. §-a a következő (3a) bekezdéssel egészül ki:
+## 5. §[^6]
 
-## „(3a) A testület elnöke szükség esetén személyes jelenlét nélküli ülés tartását rendelheti el.”
+[^6]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
