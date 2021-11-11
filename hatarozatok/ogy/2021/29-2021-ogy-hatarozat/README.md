@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-29-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-11-10 | 2021-29-30-41.1 | 29/2021. (XI. 9.) OGY határozat |
+| 2021-11-11 | 2021-29-30-41.2 | 25/2023. (XII. 14.) OGY határozat |
