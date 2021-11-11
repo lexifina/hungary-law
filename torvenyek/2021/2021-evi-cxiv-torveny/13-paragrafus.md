@@ -1,27 +1,27 @@
 13. § Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény
 
-a) 8. § (5) bekezdés d) pontja,
+a)
 
-b) 17. § (2b) bekezdésében a „ , kormányrendeletben meghatározott” szövegrész,
+b)
 
-c) 18/C. §-a,
+c)
 
-d) 67. § a) pontjában az „az atomenergia-felügyeleti szerv nukleáris energiával kapcsolatos európai uniós, valamint nemzetközi kötelezettségekkel összefüggő feladatkörét, egyes európai uniós kötelezettségek teljesítésének alanyát,” szövegrész,
+d)
 
-e) 67. § b)–d) pontja,
+e)
 
-f) 67. § m) pontjában a „valamint a radioaktív anyagok nyilvántartásával és ellenőrzésével, továbbá a nukleáris anyagok nyilvántartásával és ellenőrzésének szabályaival összefüggő eljárási szabályokat,” szövegrész,
+f)
 
-g) 67. § n) pontja,
+g)
 
-h) 67. § s) pontja,
+h)
 
-i) 67. § v) pont ve) alpontja,
+i)
 
-j) 67. § w)–y) pontja,
+j)
 
-k) 68. § (1) bekezdés a) és b) pontja,
+k)
 
-l) 68. § (1) bekezdés d) pontja,
+l)
 
-m) 68. § (1) bekezdés f) és g) pontja.
+m)
