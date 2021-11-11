@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-116-00-00
 | 2020-07-29 | 2020. évi LXXXIII. törvény | 1996-116-00-00.60 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 1996-116-00-00.61 |
 | 2021-06-29 | 2021. évi CI. törvény | 1996-116-00-00.62 |
+| 2021-11-11 | 2021. évi CXIV. törvény | 1996-116-00-00.63 |
