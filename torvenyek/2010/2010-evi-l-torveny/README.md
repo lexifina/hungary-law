@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-50-00-00
 | 2014-07-24 | 26/2014. (VII. 23.) AB határozat | 2010-50-00-00.8 |
 | 2014-11-26 | 2011. évi CLXXXIX. törvény | 2010-50-00-00.9 |
 | 2021-01-21 | 2020. évi CLXVII. törvény | 2010-50-00-00.10 |
+| 2021-11-11 | 2021. évi CXIII. törvény | 2010-50-00-00.11 |

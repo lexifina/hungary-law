@@ -12,7 +12,7 @@ a) a fővároson kívül legfeljebb egy egyéni választókerületi, egy kompenz
 
 b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi kompenzációs listás jelöltséget fogadhat el,
 
-c) ha Budapesten a jelölt fővárosi kerületi kompenzációs listáról és fővárosi kompenzációs listáról egyaránt mandátumot szerez, a szavazást követő 3 napon belül nyilatkoznia kell, hogy melyiket fogadja el. Amelyik listáról nem fogadta el a mandátumot, arról a listáról a jelöltet törölni kell.
+c)
 
 (4) A vegyes választási rendszerben a polgármesterjelölt egyidejűleg:
 
