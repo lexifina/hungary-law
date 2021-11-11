@@ -213,3 +213,81 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 89. Műsorterjesztés: a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 50. pontjában meghatározott fogalom.
 
 90. Nagyfrekvenciás jel: nem rádiótávközlési célra használt rádiófrekvenciás jel.
+
+91. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (többek között készülékekben, eszközökben, járművekben) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
+
+92. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
+
+93. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, szélessávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat, ideértve a kis hatótávú vezeték nélküli hozzáférési pontot.
+
+94. Nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúra: nagy sebességű elektronikus hírközlő hálózatok elemeinek fogadására szánt vagy ilyen hálózat működését lehetővé tevő, épületen belüli fizikai infrastruktúra.
+
+95. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
+
+96. Nemföldrajzi szám: a nemzeti számozási tervben meghatározott olyan szám, amely nem földrajzi szám, különösen a mobilszámok, a díjmentes és az emelt díjas szolgáltatás hívószámai, továbbá a gépek közötti szolgáltatások hívószámai.
+
+97. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
+
+98. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
+
+99. Nyilvános adatkicserélő szolgáltatás: természetes vagy jogi személy nyilvános adatkicserélő szolgáltató által nyilvános adatkicserélő központ útján nyújtott olyan elektronikus hírközlési szolgáltatás, amelyet nyilvánosan hozzáférhető feltételrendszer szerint, megkülönböztetéstől mentesen vehetnek igénybe az elektronikus hírközlési szolgáltatók, médiaszolgáltatók és az információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók, adatforgalmaik egymásnak történő átadása céljából.
+
+100. Nyilvános adatkicserélő központ: a nyilvános adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
+
+101. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban nyilvános elektronikus hírközlési szolgáltatások nyújtására használt hálózati végpontok közötti információátvitelt támogató elektronikus hírközlő hálózat.
+
+102. Nyilvános elektronikus hírközlő hálózat üzemeltetője: nyilvános elektronikus hírközlő hálózat, illetve kapcsolódó eszközök feletti rendelkezési vagy használati jogot gyakorló természetes személy, jogi személy vagy egyéb szervezet.
+
+103. Nyilvánosan elérhető telefonszolgáltatás (telefonszolgáltatás vagy hangszolgáltatás): nyilvános elektronikus hírközlési szolgáltatás, amely nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi hívások kezdeményezését és fogadását.
+
+104. Nyilvános telefonállomás: bármely felhasználó számára nyilvánosan elérhető telefonszolgáltatás igénybevétele céljából hozzáférhetővé tett elektronikus hírközlő végberendezés. A szolgáltatás díjának kiegyenlítése történhez pénzérmével, bankkártyával, illetve egyéb készpénzt helyettesítő fizetési eszközzel.
+
+105. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlő hálózat vezetékes összeköttetésének burkoló, tartó, védő, jelző műtárgyai képeznek.
+
+106. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják.
+
+107. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
+
+108. Rádióberendezés: rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat kibocsátó, vevő vagy kibocsátó és vevő villamos vagy elektronikus termék, vagy olyan villamos vagy elektronikus termék, amelyet tartozékokkal, például antennával kell kiegészíteni ahhoz, hogy rádiótávközlés – beleértve a rádiómeghatározást – céljából rendeltetésszerűen rádióhullámokat tudjon kibocsátani, venni vagy kibocsátani és venni.
+
+109. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája kisebb, mint 3000 GHz.
+
+110. Rádióinterfész: a rádióspektrum szabályozott használatának specifikációja.
+
+111. Rádiós helyi hálózat: kis teljesítményű, harmonizált rádióspektrumot nem kizárólagosan használó vezeték nélküli hozzáférési rendszer, amelynek kis hatótávolsága miatt a más rádióspektrum-használók által a közelben működtetett hasonló rendszerekkel való zavarásának kockázata csekély.
+
+112. Rádióspektrum: a rádióhullámok frekvenciatartománya.
+
+113. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálat, továbbá a rádiócsillagászati szolgálat.
+
+114. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben vagy jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
+
+115. Referenciaajánlat: a Hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, valamint azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
+
+116. Rendkívül nagy kapacitású hálózat: olyan elektronikus hírközlő hálózat, amely legalább a szolgáltatás igénybevételének helyén található elosztási pontig teljes mértékben optikai szálas elemekből áll, vagy olyan elektronikus hírközlő hálózat, amely a szokásos csúcsidei körülmények mellett hasonló hálózati teljesítményre képes a rendelkezésre álló le- és feltöltési sávszélesség, az ellenálló képesség, a hibával kapcsolatos paraméterek, valamint a késleltetés és a késleltetés változása tekintetében. A hálózati teljesítmény akkor is hasonlónak tekinthető, ha a hálózati végponthoz csatlakozó átviteli közeg különböző tulajdonságainak köszönhetően, a végfelhasználói élmény eltérő.
+
+117. Segélyhívás: személyközi hírközlési szolgáltatások segítségével egy végfelhasználó és a segélyszolgálati állomás között a készenléti segélyszolgálatoktól veszélyhelyzeti segítség kérése és igénybevétele céljából folytatott kommunikáció, ideértve az e-segélyhívást is.
+
+118. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetve hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
+
+119. SMS: rövid, szöveges üzenetszolgáltatás.
+
+120. Segélyszolgálati állomás (közbiztonsági válaszpont): konkrét helyszín, ahol segélyhívási célú közlések hatóság vagy valamely, a tagállam által elismert magánszervezet felelősségi körébe tartozó első fogadása történik.
+
+121. SIM-kártya: az előfizető mobil rádiótelefon-hálózaton belüli azonosítását szolgáló adatokat, illetve a mobil rádiótelefon-szolgáltatás igénybevételéhez szükséges információkat tartalmazó kártya vagy beépített modul. A beépített modul tartalma távolról beállítható és módosítható is lehet (eSIM).
+
+122. Számfüggő személyközi hírközlési szolgáltatás: olyan személyközi hírközlési szolgáltatás, amelynél a kapcsolat kiosztott számozási erőforrások, nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok igénybevételével valósul meg, vagy amely kommunikációt tesz lehetővé nemzeti, illetve nemzetközi számozási tervben szereplő hívószámra vagy hívószámokra.
+
+123. Számfüggetlen személyközi hírközlési szolgáltatás: olyan személyközi hírközlési szolgáltatás, amelynél a kapcsolat nem kiosztott számozási erőforrások, nem a nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok igénybevételével valósul meg és amely nem tesz lehetővé kommunikációt nemzeti, illetve nemzetközi számozási tervben szereplő hívószámra vagy hívószámokra.
+
+124. Személyközi hírközlési szolgáltatás: olyan, más részére általában díjazás ellenében elektronikus hírközlő hálózatokon nyújtott szolgáltatás, amely véges számú személy közötti közvetlen, interaktív információcserét tesz lehetővé, és amelyben a kommunikációt kezdeményező vagy az abban részt vevő személyek határozzák meg az információcserében résztvevő fogadót, illetve fogadókat. Nem minősülnek személyközi hírközlési szolgáltatásnak azok a szolgáltatások, amelyek a személyközi, interaktív kommunikációt egy másik szolgáltatáshoz szorosan kapcsolódó, csekély jelentőségű, csupán kiegészítő funkcióként teszik lehetővé.
+
+125. Transznacionális piac: az Európai Unióra vagy annak jelentős részére kiterjedő, a Kódex 65. cikke szerinti eljárásban meghatározott, egynél több tagállamban elhelyezkedő piac.
+
+126. Tartós adathordozó: a technológia adott fejlettségi szintjén elérhető olyan eszköz, illetve platform, amely lehetővé teszi az adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB-kulcs, a CD-ROM, a DVD-ROM, a memóriakártya, a számítógép merevlemeze, az elektronikus levél, illetve az elektronikus tárhely.
+
+127. Titkos információgyűjtés, illetve leplezett eszközök alkalmazása: az elektronikus hírközlő hálózaton és elektronikus hírközlő eszközökkel az elektronikus hírközlési tevékenység során, illetve azzal összefüggésben keletkezett, továbbított információk, adatok kiválasztása, kicsatolása, technikai eszközzel történő rögzítése és megismerése az arra jogosult szervek által.
+
+128. Továbbfejlesztett digitális vevődekóder: a digitális interaktív televíziós szolgáltatások vételére képes, televíziókészülékhez való csatlakoztatásra szánt vagy a televíziókészülékbe integrált kiegészítő egység.
+
+129. Űrszegmens: műholdas távközlési rendszer része, amely magában foglalja a műholdat és a műholdkövetési, távmérési és távvezérlési funkciókat, valamint a műholdak részére logisztikai támogatást nyújtó földi berendezéseket.
