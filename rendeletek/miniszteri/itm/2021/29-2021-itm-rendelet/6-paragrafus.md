@@ -2,9 +2,9 @@
 
 (2) Ez a rendelet a 2009/48/EK európai parlamenti és tanácsi irányelv II. melléklete C. függelékének az egyes játékokban használt vegyi anyagokra vonatkozó egyedi határértékek elfogadása céljából a formaldehid tekintetében történő módosításáról szóló, 2019. november 19-i (EU) 2019/1929 bizottsági irányelvnek való megfelelést szolgálja.
 
-(3)[^10]
+(3)[^8]
 
-(4)[^11]
+(4)[^9]
 
-[^10]: A 6. § (3) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.
-[^11]: A 6. § (4) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.
+[^8]: A 6. § (3) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.
+[^9]: A 6. § (4) bekezdése az 5. § (3) bekezdése alapján 2022. július 5-én lép hatályba.

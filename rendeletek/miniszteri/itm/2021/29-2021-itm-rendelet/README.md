@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-29-20-7
 | --- | --- | --- |
 | 2021-07-01 | 2021-29-20-7Q.1 | 29/2021. (VI. 30.) ITM rendelet |
 | 2021-07-02 | 2021-29-20-7Q.2 | 2010: CXXX. törvény |
+| 2021-11-12 | 2021-29-20-7Q.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

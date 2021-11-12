@@ -1,3 +1,3 @@
-## 3. §[^8]
+## 3. § A nyomástartó berendezések, a töltő berendezések, a kisteljesítményű sűrített gáztöltő berendezések műszaki-biztonsági hatósági felügyeletéről és az autógáz tartályok időszakos ellenőrzéséről szóló 2/2016. (I. 5.) NGM rendelet [a továbbiakban: 2/2016. (I. 5.) NGM rendelet] 37. §-a a következő (4) bekezdéssel egészül ki:
 
-[^8]: A 3. § az 5. § (2) bekezdése alapján 2021. november 12-én lép hatályba.
+## „(4) Ez a rendelet a 2014/94/EU európai parlamenti és tanácsi irányelvnek az L kategóriájú gépjárművek töltőállomásai, a belvízi hajók part menti villamosenergia-ellátása, a közúti közlekedés hidrogénellátása, valamint a közúti és a vízi közlekedés földgázellátása tekintetében történő kiegészítéséről és módosításáról, továbbá az (EU) 2018/674 felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. augusztus 13-i (EU) 2019/1745 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
