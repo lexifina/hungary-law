@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-106-00-00
 | --- | --- | --- |
 | 2021-10-28 | 2021. évi CVI. törvény | 2021-106-00-00.0 (közlönyállapot) |
 | 2021-10-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-106-00-00.1 |
+| 2021-11-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-106-00-00.2 |
