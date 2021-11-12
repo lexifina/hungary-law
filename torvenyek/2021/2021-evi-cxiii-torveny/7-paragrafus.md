@@ -1,3 +1,1 @@
-7. § Az Mötv. 146/G. §-a helyébe a következő rendelkezés lép:
-
-„146/G. § E törvénynek az egyes közjogi tárgyú törvények módosításáról szóló 2021. évi CXIII. törvénnyel módosított 28. § (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. október 13-i választásán listáról mandátumot szerzett önkormányzati képviselők esetén is alkalmazni kell.”
+7. §
