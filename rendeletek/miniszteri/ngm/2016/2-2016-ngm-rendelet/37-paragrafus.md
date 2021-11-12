@@ -4,5 +4,8 @@
 
 (3)[^51] Ez a rendelet a 2014/94/EU európai parlamenti és tanácsi irányelvnek az L kategóriájú gépjárművek töltőállomásai, a belvízi hajók part menti villamosenergia-ellátása és a vízi közlekedést szolgáló LNG-töltőállomások tekintetében történő kiegészítéséről, valamint az irányelvnek a gépjárművek gáz-halmazállapotú hidrogénnel való töltésére szolgáló csatlakozók tekintetében történő módosításáról szóló, 2017. november 17-i (EU) 2018/674 felhatalmazáson alapuló európai bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(4)[^52] Ez a rendelet a 2014/94/EU európai parlamenti és tanácsi irányelvnek az L kategóriájú gépjárművek töltőállomásai, a belvízi hajók part menti villamosenergia-ellátása, a közúti közlekedés hidrogénellátása, valamint a közúti és a vízi közlekedés földgázellátása tekintetében történő kiegészítéséről és módosításáról, továbbá az (EU) 2018/674 felhatalmazáson alapuló bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. augusztus 13-i (EU) 2019/1745 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^50]: A 37. § (2) bekezdése a 19/2017. (VII. 12.) NGM rendelet 15. §-ával megállapított szöveg.
 [^51]: A 37. § (3) bekezdését a 27/2020. (VII. 16.) ITM rendelet 21. § iktatta be.
+[^52]: A 37. § (4) bekezdését a 29/2021. (VI. 30.) ITM rendelet 3. §-a iktatta be.

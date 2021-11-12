@@ -1,4 +1,4 @@
-2. melléklet a 2/2016. (I. 5.) NGM rendelethez[^54]
+2. melléklet a 2/2016. (I. 5.) NGM rendelethez[^55]
 
 ## A nyomástartó berendezések, a töltő berendezések, a kisteljesítményű sűrített gáztöltő berendezések műszaki biztonsági szabályzata
 
@@ -276,7 +276,7 @@ f) az észlelt rendellenességekről és a megtett intézkedésekről szóló t�
 
 4.10. A rendeltetésszerűen feltölthető gépjárművekre vonatkozóan – a műszaki biztonság érdekében – megfelelő tájékoztatást kell nyújtani a töltőállomáson a „Gépjármű-hajtóanyagok. A jármű-kompatibilitás azonosítása. A fogyasztói tájékoztatást szolgáló grafikai jelzések” című, MSZ EN 16942:2017 szabvány szerinti vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldások alkalmazásával kell nyújtani.
 
-4.11. A CNG-csatlakozóknak, -érzékelőknek meg kell felelniük az ENSZ-EGB 110. számú Előírásának.
+4.11.[^56] A CNG-csatlakozó profiljának meg kell felelnie az üzemanyagtöltő-csatlakozás sűrített földgázhoz tárgyú, MSZ EN ISO 14469 szabvány vonatkozó műszaki előírásainak vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeinek. Az Európai Unió kötelező jogi aktusának eltérő rendelkezése hiányában a CNG-csatlakozóknak, -érzékelőknek egyebekben meg kell felelniük az ENSZ-EGB 110. számú Előírásának.
 
 4.12. LPG és LNG esetében a tárolótartályba autógázt lefejteni csak a lefejtő helyre beállt tartályos szállító járműről szabad.
 
@@ -312,13 +312,13 @@ d) a töltőfej járműről történő leválasztása esetén a légtérbe legfe
 
 4.24. Autógáz-töltőállomáson autógázt palackos PB-gáz töltésére szolgáló gázpalackba tölteni tilos.
 
-4.25. A gépjárművek üzemanyagaként használt gáz halmazállapotú hidrogén töltésére szolgáló kültéri hidrogén-töltőállomásnak ki kell elégítenie a gáz-halmazállapotú hidrogén töltési előírásaira vonatkozó ISO/TS 19880 szabvány műszaki előírásait vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeit.
+4.25.[^57] A gépjárművek üzemanyagaként használt, gáz-halmazállapotú hidrogén töltésére szolgáló kültéri hidrogéntöltő állomásnak ki kell elégítenie a kültéri hidrogén-töltőállomások hidrogéngáz-üzemanyag tankolására a művelet leírására vonatkozó MSZ EN 17127 szabvány interoperabilitási követelményekre vonatkozó műszaki előírásait vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeit.
 
-4.26. A hidrogén-töltőállomásokon töltött hidrogén tisztaságának meg kell felelnie az ISO 14687-2 szabványban foglalt műszaki előírásoknak vagy az azzal egyenértékű biztonságot nyújtó termékjellemzőknek.
+4.26.[^58] A hidrogén-töltőállomásokon töltött hidrogén minőségi jellemzőinek meg kell felelniük a közúti járművek protoncsere-membrános (PEM-) üzemanyagcelláira vonatkozó MSZ EN 17124 szabványban foglalt műszaki előírásoknak vagy az azzal egyenértékű biztonságot nyújtó termékjellemzőknek.
 
-4.27. A hidrogén-töltőállomásokon a gáz-halmazállapotú hidrogén töltési előírásaira vonatkozó ISO/TS 19880 szabványnak vagy azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeinek megfelelő töltési algoritmusokat és berendezéseket kell alkalmazni.
+4.27.[^59] A hidrogén-töltőállomásokon a kültéri hidrogén-töltőállomások hidrogéngáz-üzemanyag tankolására a művelet leírására vonatkozó MSZ EN 17127 szabványnak vagy azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeinek megfelelő töltési algoritmusokat kell alkalmazni.
 
-4.28. A gépjárművek gáz-halmazállapotú hidrogénnel való töltésére szolgáló csatlakozóknak ki kell elégíteniük a hidrogéngáz-üzemű szárazföldi járművek feltöltővezetékeire vonatkozó MSZ EN ISO 17268 szabvány műszaki előírásait vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeit.
+4.28.[^60] A gépjárművek gáz-halmazállapotú hidrogénnel való töltésére szolgáló csatlakozóknak ki kell elégíteniük a hidrogéngáz-üzemű szárazföldi járművek feltöltővezetékeire vonatkozó MSZ EN ISO 17268 szabvány szerinti tanúsítási eljárás befejezését követően e szabvány műszaki előírásait vagy az azzal egyenértékű biztonságot nyújtó műszaki megoldás követelményeit.
 
 5. A kisteljesítményű lassú üzemű sűrített gáztöltő berendezésekre vonatkozó sajátos követelmények
 
@@ -438,4 +438,9 @@ p) a kitöltés kelte hatóságnál;
 
 q) a műszaki biztonsági hatóság ügyintézőjének aláírása (papíralapú irat esetén).
 
-[^54]: A 2. melléklet a 27/2020. (VII. 16.) ITM rendelet 22. §-ával megállapított szöveg.
+[^55]: A 2. melléklet a 27/2020. (VII. 16.) ITM rendelet 22. §-ával megállapított szöveg.
+[^56]: A 2. melléklet 4.11. pontja a 29/2021. (VI. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^57]: A 2. melléklet 4.25. pontja a 29/2021. (VI. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^58]: A 2. melléklet 4.26. pontja a 29/2021. (VI. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^59]: A 2. melléklet 4.27. pontja a 29/2021. (VI. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^60]: A 2. melléklet 4.28. pontja a 29/2021. (VI. 30.) ITM rendelet 4. §-ával megállapított szöveg.
