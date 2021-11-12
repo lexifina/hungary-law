@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján a Szegedi Tudományegyetem Rektori Hivatala épületének homlokzati ábrázolása látható, előtérben a Dugonics téren álló szökőkúttal. Az épület ábrázolása fölött, bal oldalon a „2021” verési évszám, jobb oldalon a „BP.” verdejel, középen a „10 000” értékjelzés és az „Ft” felirat olvasható. Az előlap szélén, fent, félköriratban a „100 ÉVES A SZEGEDI FELSŐOKTATÁS”, lent, a szökőkút kávája ívét követve a „MAGYARORSZÁG” felirat olvasható, jobb oldalon – a tér ábrázolásába illesztve – Kereszthury Gábor tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Szent-Györgyi Albert Nobel-díjas magyar tudós fiatalkori portréja látható, a portrétól balra a tudós kézjegye olvasható. A hátlap szélén, köriratban, fent a „SZEGEDI TUDOMÁNYEGYETEM”, lent a „SZENT-GYÖRGYI ALBERT EGYETEME” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
