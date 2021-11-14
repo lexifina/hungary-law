@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2021-07-16 | 2013-256-20-22.45 | 421/2021. (VII. 15.) Krom. rendelet |
 | 2021-09-06 | 2013-256-20-22.46 | 518/2021. (IX. 6.) Korm. rendelet |
 | 2021-09-15 | 2013-256-20-22.47 | 532/2021. (IX. 14.) Korm. rendelet |
+| 2021-11-14 | 2013-256-20-22.48 | 625/2021. (XI. 11.) Korm. rendelet |

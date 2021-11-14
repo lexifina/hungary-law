@@ -72,4 +72,11 @@ b) kettő vagy több további szakképesítés esetén legalább 8%-kal növeksz
 
 Az illetménynövekedés feltétele, hogy az egészségügyi szolgálati jogviszonyban álló egészségügyi szakdolgozó a további szakképesítését munkaidejének legalább 10%-ában hasznosítja.
 
+(11)[^17] A kollegiális védőnői mentorrendszer keretében foglalkoztatott védőnő mentort az illetményén felül védőnői mentor díj illeti meg. A védőnői mentor díj mértéke
+
+a) megyei védőnő mentor esetén havi bruttó 100 000 forint,
+
+b) városi védőnő mentor esetén havi bruttó 50 000 forint.
+
 [^16]: A 2/D. §-t az 529/2020. (XI. 28.) Korm. rendelet 9. §-a iktatta be.
+[^17]: A 2/D. § (11) bekezdését a 625/2021. (XI. 11.) Korm. rendelet 1. §-a iktatta be.

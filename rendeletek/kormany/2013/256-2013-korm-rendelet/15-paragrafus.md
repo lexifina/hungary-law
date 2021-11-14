@@ -1,3 +1,3 @@
-## 14. §[^67]
+## 14. §[^69]
 
-[^67]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
