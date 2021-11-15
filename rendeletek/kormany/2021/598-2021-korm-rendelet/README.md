@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-598-20-
 | --- | --- | --- |
 | 2021-11-01 | 2021-598-20-22.1 | 598/2021. (X. 28.) Korm. rendelet |
 | 2021-11-09 | 2021-598-20-22.2 | 612/2021. (XI. 8.) Korm. rendelet |
+| 2021-11-15 | 2021-598-20-22.3 | 77/2022. (III. 4.) Korm. rendelet |
