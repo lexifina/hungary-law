@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-625-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-11-14 | 2021-625-20-22.1 | 625/2021. (XI. 11.) Korm. rendelet |
+| 2021-11-15 | 2021-625-20-22.2 | 2010: CXXX. törvény |
