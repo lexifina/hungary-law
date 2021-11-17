@@ -70,3 +70,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2021-10-01 | 2018-141-20-22.62 | 3/2019. (I. 24.) Korm. rendelet |
 | 2021-10-28 | 2018-141-20-22.63 | 594/2021. (X. 27.) Korm. rendelet |
 | 2021-11-09 | 2018-141-20-22.64 | 620/2021. (XI. 8.) Korm. rendelet |
+| 2021-11-17 | 2018-141-20-22.65 | 630/2021. (XI. 16.) Korm. rendelet |

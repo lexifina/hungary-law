@@ -166,6 +166,10 @@
 
 | 76. | Gyáregység létrehozására irányuló beruházás Alsónémedi területén | Alsónémedi közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 2583 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^207]
+| 77. | Élelmiszeripari üzem létrehozására irányuló beruházás Szeged területén | Szeged I. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 2318, 2377 helyrajzi számú ingatlanok; Szeged III. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 21005, 21013/25, 21013/26, 21013/27 és 21013/29 helyrajzi számú ingatlanok | Csongrád-Csanád Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^207]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+| 78. | Nyíregyházi Ipari Park bővítése | Nyíregyháza külterület 01468/15, 01475/1, 01476/1, 01476/24, 01476/28, 01476/31, 01476/32, 01476/33, 01478/1, 01478/2, 01490/1, 01490/2, 01490/11, 01490/13, 01490/14, 01490/16, 01490/18, 01490/20, 01490/22, 01491, 01492/1, 01492/2, 01493/2, 01494/2, 01494/3, 01494/4, 01494/6, 01494/7, 01494/9, 01494/10, 01494/11, 01494/12, 01494/13, 01494/14, 01494/15, 01495, 01496, 01497/2, 01497/3, 01497/4, 01497/5, 01497/6, 01497/7, 01497/8, 01497/9, 01497/11, 01497/12, 01497/13, 01497/14, 01497/15, 01497/16, 01497/17, 01498, 01499/2, 01499/3, 01499/4, 01499/5, 01500, 01502, 01503, 01504, 01505/1, 01505/2, 01505/3, 01505/4, 01505/5, 01505/6, 01505/7, 01505/8, 01505/9, 01505/10, 01505/11, 01506, 01509/3, 01509/4, 01509/5, 01509/6, 01509/7, 01509/8, 01509/9, 01509/10, 01509/11, 01509/12, 01509/13, 01509/14, 01509/15, 01509/16, 01509/17, 01509/18, 01509/19, 01509/20, 01509/21, 01512/1, 01512/2, 01512/3, 01512/4, 01512/5, 01512/6, 01515, 01516/1, 01516/2, 01516/3, 01516/4, 01516/5, 01516/6, 01526/2, 01546, 02408, 02410, 02411 és 02412 helyrajzi számú ingatlanok. | Szabolcs-Szatmár-Bereg megye Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^211]
+
+[^211]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
