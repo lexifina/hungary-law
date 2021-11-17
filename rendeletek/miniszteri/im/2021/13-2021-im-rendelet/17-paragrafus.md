@@ -1,0 +1,1 @@
+## 16. § A vizsgabizottság a végrehajtói szakvizsgát az írásbeli és a szóbeli vizsga eredményének együttes mérlegelése alapján, zárt tanácskozásban értékeli, és a végrehajtói szakvizsga eredményét nyilvánosan hirdeti ki.
