@@ -110,6 +110,8 @@
 
 ## Határidő: az e határozat közzétételét követő két hónapon belül
 
-## 17. visszavonja az egyes állami vagyonba tartozó ingatlanok ingyenes önkormányzati tulajdonba adásáról szóló 1357/2013. (VI. 24.) Korm. határozatban meghatározott hasznosítási cél módosításáról szóló 1545/2020. (VIII. 17.) Korm. határozatot.
+## 17.[^1]
 
 1. melléklet az 1802/2021. (XI. 16.) Korm. határozathoz
+
+[^1]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
