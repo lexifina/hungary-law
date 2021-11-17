@@ -30,15 +30,9 @@
 
 ## Határidő: a felmerülés ütemében
 
-## 2. A térségi közúti beruházásokhoz szükséges kötelezettségvállalásokról szóló 1668/2021. (IX. 28.) Korm. határozat [a továbbiakban: 1668/2021. (IX. 28.) Korm. határozat] 1. pontja a következő c) alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány – tekintettel)
-
-## „c) a kiemelt társadalmi igényeken alapuló közútfejlesztések keretében megvalósuló Gyöngyös nyugati elkerülő út I. részének megvalósításához szükséges intézkedésekről szóló 1803/2021. (XI. 16.) Korm. határozatra –”
-
-## [(a továbbiakban együtt: kormányhatározatok) a következőkről dönt.]
-
-## 3. Az 1668/2021. (IX. 28.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 3.[^2]
 
 1. melléklet az 1803/2021. (XI. 16.) Korm. határozathoz
 
@@ -49,3 +43,6 @@ Az 1668/2021. (IX. 28.) Korm. határozat 1. mellékletében foglalt táblázat a
 | 1. | Kapcsolódó kormányhatározat száma | 2021. évi költségvetési év | 2022. évi költségvetési év | 2023. évi költségvetési év | 2024. évi költségvetési év | 2025. évi költségvetési év | 2026. évi költségvetési év | 2027. évi költségvetési év | Összesen) |
 
 | 4. | 1803/2021. (XI. 16.) Korm. határozat | 90 000 000 | 474 067 280 | 0 | 0 | 0 | 0 | 0 | 564 067 280 |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
