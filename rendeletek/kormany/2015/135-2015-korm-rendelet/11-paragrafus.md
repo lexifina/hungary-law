@@ -10,20 +10,21 @@
 
 a) a kedvezményezett észrevételezésére biztosított,
 
-b) a szabálytalansági gyanúról történő tájékoztatás és a személyes meghallgatás időpontja között eltelt, és
+b)[^22] a szabálytalansági gyanúról történő tájékoztatás és a kedvezményezett meghallgatásának időpontja között eltelt, és
 
 c) a tényállás tisztázásához szükséges további helyszíni vizsgálat lefolytatására vagy írásbeli adatszolgáltatás teljesítésére meghatározott
 
 ## időtartam.
 
-(5)[^22] Ha a szabálytalanság megállapításához valamely hatóság előzetes döntése szükséges, a szabálytalansági eljárást mindaddig fel kell függeszteni, amíg a hatáskörrel rendelkező hatóság a döntését meg nem hozta. A felfüggesztés időtartama az elintézési határidőbe nem számít bele.
+(5)[^23] Ha a szabálytalanság megállapításához valamely hatóság előzetes döntése szükséges, a szabálytalansági eljárást mindaddig fel kell függeszteni, amíg a hatáskörrel rendelkező hatóság a döntését meg nem hozta. A felfüggesztés időtartama az elintézési határidőbe nem számít bele.
 
-(6)[^23] A Felelős Hatóság a szabálytalansági gyanú észlelésével egyidejűleg a támogatás kifizetését, vagy az előleg terhére elszámolásra benyújtott, szabálytalansággal érintett költségtételek jóváhagyását felfüggeszti. A kifizetés, valamint a jóváhagyás felfüggesztéséről és a felfüggesztés megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.
+(6)[^24] A Felelős Hatóság a szabálytalansági gyanú észlelésével egyidejűleg a támogatás kifizetését, vagy az előleg terhére elszámolásra benyújtott, szabálytalansággal érintett költségtételek jóváhagyását felfüggeszti. A kifizetés, valamint a jóváhagyás felfüggesztéséről és a felfüggesztés megszüntetéséről a kedvezményezettet haladéktalanul tájékoztatni kell.
 
 [^17]: A 10. § a 306/2017. (X. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^18]: A 11. § (1) bekezdése a 306/2017. (X. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 252/2019. (X. 24.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^19]: A 11. § (2) bekezdése a 252/2019. (X. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^20]: A 11. § (3) bekezdése a 252/2019. (X. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^21]: A 11. § (4) bekezdése a 252/2019. (X. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^22]: A 11. § (5) bekezdése a 252/2019. (X. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^23]: A 11. § (6) bekezdését a 252/2019. (X. 24.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^22]: A 11. § (4) bekezdés b) pontja a 629/2021. (XI. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^23]: A 11. § (5) bekezdése a 252/2019. (X. 24.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^24]: A 11. § (6) bekezdését a 252/2019. (X. 24.) Korm. rendelet 2. § (2) bekezdése iktatta be.
