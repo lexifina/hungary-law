@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-5
 | 2020-03-26 | 2012-22-20-5H.14 | 2010: CXXX. törvény |
 | 2020-07-24 | 2012-22-20-5H.15 | 24/2020. (VII. 23.) EMMI rendelet |
 | 2021-02-10 | 2012-22-20-5H.16 | 6/2021. (II. 9.) EMMI rendelet |
+| 2021-11-18 | 2012-22-20-5H.17 | 49/2021. (XI. 15.) EMMI rendelet |

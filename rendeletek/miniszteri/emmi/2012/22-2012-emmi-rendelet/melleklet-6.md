@@ -1,4 +1,4 @@
-6. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^36]
+6. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^37]
 
 ## Szakgyógyszerészi ráépített képzési programok
 
@@ -156,4 +156,4 @@ a) a szakmai gyakorlat teljesítése akkreditált képzőhelyen
 
 b) részvétel az illetékes szakképzési grémium által meghirdetett speciális szakvizsgára felkészítő tanfolyamokon (izotóp alaptanfolyam, átfogó sugárvédelmi tanfolyam)
 
-[^36]: A 6. melléklet a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^37]: A 6. melléklet a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés d) pontja szerint módosított szöveg.
