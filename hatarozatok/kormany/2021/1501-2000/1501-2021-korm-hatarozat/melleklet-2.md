@@ -40,7 +40,7 @@
 
 | ÖSSZESEN | 13 500 000 | 17 600 000 | 17 050 000 |  |
 
-2. melléklet az 1501/2021. (VII. 26.) Korm. határozathoz
+2. melléklet az 1501/2021. (VII. 26.) Korm. határozathoz[^1]
 
 adatok e Ft -ban
 
@@ -50,4 +50,6 @@ adatok e Ft -ban
 
 | 2. | egyszeri | beépülő | egyszeri | beépülő | egyszeri | beépülő |
 
-| 3. | Magyar Művészeti Akadémia | 209 000 | 1 901 500 | 85 000 | 534 000 | 80 000 | 295 000 | 80 000 | 295 000 |
+| 3. | Magyar Művészeti Akadémia | 209 000 | 2 030 500 | 85 000 | 2 479 500 | 80 000 | 295 000 | 80 000 | 295 000 |
+
+[^1]: A 2. melléklet az 1808/2021. (XI. 18.) Korm. határozat 5. pont a) és b) alpontja szerint módosított szöveg.
