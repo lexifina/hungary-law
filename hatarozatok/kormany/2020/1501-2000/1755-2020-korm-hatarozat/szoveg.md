@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért a Szterényi József Technikum és Szakképző Iskola felújításával (a továbbiakban: Beruházás) a Monor 4913/2, 4915/6, 4915/9, 4915/12, 4915/13 helyrajzi számú, természetben a Monor, Ipar utca 2. szám alatti ingatlanokon;
+1.[^1] egyetért a Ceglédi SZC Szterényi József Technikum és Szakképző Iskola bővítésével (a továbbiakban: Beruházás) a Monor belterület 4913/21 helyrajzi számú, természetben a 2200 Monor, Ipar utca 2. szám alatti ingatlanon;
 
 2. a Beruházás előkészítésének kormányzati felelőseként az innovációért és technológiáért felelős minisztert jelöli ki;
 
@@ -29,3 +29,5 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 innovációért és technológiáért felelős miniszter
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
+
+[^1]: Az 1. pont az 1808/2021. (XI. 18.) Korm. határozat 2. pontjával megállapított szöveg.
