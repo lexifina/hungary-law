@@ -1,0 +1,7 @@
+95. § (1) A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 85. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A bíróság által jóváhagyott adósságrendezési egyezségben meghatározott törlesztési időszak, a 74. § szerinti ötéves és a 74/A. § szerinti hároméves adósságtörlesztési időszak leteltét követően – ha az adósságtörlesztés időszakát a bíróság meghosszabbította, annak lejártát követően – az adósságtörlesztési végzés végrehajtásáról a családi vagyonfelügyelő az adós, adóstárs bevonásával záró elszámolást készít, és ebben minden hitelező tekintetében számot ad a törlesztések teljesítéséről, a vagyonértékesítésről, az eljárásba bevont bevételekről és azok hitelezők közötti felosztásáról. A záró elszámolást a családi vagyonfelügyelő kézbesíti az adósnak, adóstársnak és a hitelezőknek, az egyéb kötelezetteknek pedig megküldi.”
+
+(2) A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 85. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Bíróságon kívüli adósságrendezési eljárásban a záró elszámolást az adós készíti el a hitelezők – továbbá ha az eljárásban adóstárs vagy egyéb kötelezett is részt vett, az adóstárs, illetve az egyéb kötelezett bevonásával. Az adós a mentesítési határozat meghozatala iránti kérelméhez csatolja az adósságrendezési megállapodást – ha a felek a megállapodást módosították a módosított megállapodást –, a záró elszámolást, valamint az adóstárs, az egyéb kötelezett és a hitelezők záró elszámolással egyetértő nyilatkozatát.”

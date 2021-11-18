@@ -1,0 +1,3 @@
+76. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 79. §-a helyébe a következő rendelkezés lép:
+
+„79. § Ha az értékelés eredményét vagy az annak írásbeli indokolásában kifejtetteket a bíró, a bíró beosztási helye és szakterülete szerint illetékes kollégiumvezető, a bíró beosztási helye és szakterülete szerint illetékes fellebbviteli (felülvizsgálati ügyekben eljáró) bíróság kollégiumvezetője, illetve a járásbírósági bíró esetén az ítélőtábla bíró szakterülete szerinti kollégiumvezetője vitatja – a 81. §-ban foglalt eset kivételével –, az értékelés eredményének kézhezvételét követő 30 napon belül jogorvoslatért az elsőfokú szolgálati bírósághoz fordulhat.”
