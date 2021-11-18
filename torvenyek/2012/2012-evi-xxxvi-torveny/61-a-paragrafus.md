@@ -20,6 +20,12 @@ g) az Állami Számvevőszék elnöke kizárásához az Állami Számvevőszékr
 
 h) a 37. § alapján az Országgyűlés ülésének az Országház épületétől eltérő helyen történő megtartásához.
 
+i) a legfőbb ügyész megbízatása – a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 22. § (1) bekezdés b) pontja szerinti – megszűnésének kimondásához a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 23. § (2) bekezdésében foglalt esetben, illetve a legfőbb ügyész megbízatása – a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 22. § (1) bekezdés g) pontja szerinti – megszűnésének kimondásához a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény 23. § (7) bekezdésében foglalt esetben,
+
+j) az alapvető jogok biztosa megbízatása – az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 16. § (1) bekezdés d)–g) pontja szerinti – megszűnésének kimondásához az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 16. § (2) bekezdésében foglalt esetben,
+
+k) az alapvető jogok biztosa helyettesének megbízatása – az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 17. § (1) bekezdés d)–g) pontja szerinti – megszűnésének kimondásához az alapvető jogok biztosáról szóló 2011. évi CXI. törvény 17. § (2) bekezdésében foglalt esetben.
+
 (2) A jelen lévő képviselők kétharmadának szavazata szükséges
 
 a) a 77. § (3) bekezdése alapján az országgyűlési képviselő mentelmi jogának felfüggesztéséhez,
