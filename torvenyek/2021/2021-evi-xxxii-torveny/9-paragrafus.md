@@ -8,13 +8,13 @@ c) halálával,
 
 d) lemondásával,
 
-e) felmentésével.
+e) a (4) bekezdés szerinti felmentésével.
 
-(2) A Hatóság elnöke jogviszonyának megszűnését az (1) bekezdés a)–d) pontja esetén a miniszterelnök állapítja meg.
+(2) A Hatóság elnöke jogviszonyának megszűnését az (1) bekezdés a)–d) pontja esetén a köztársasági elnök állapítja meg.
 
-(3) A Hatóság elnöke a miniszterelnökhöz intézett írásos nyilatkozattal tisztségéről bármikor lemondhat. Lemondás esetén a lemondási idő 60 nap. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni.
+(3) A Hatóság elnöke a köztársasági elnökhöz intézett írásos nyilatkozattal tisztségéről bármikor lemondhat. Lemondás esetén a lemondási idő 60 nap. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni.
 
-(4) A miniszterelnök felmenti a Hatóság elnökét,
+(4) A köztársasági elnök felmenti a Hatóság elnökét,
 
 a) ha a 12. § (1) bekezdése szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő 30 napon belül nem szünteti meg,
 
@@ -24,4 +24,4 @@ c) az ítélet jogerőre emelkedésének napjával, ha a Hatóság elnökével s
 
 d) ha cselekvőképességet érintő gondnokság alá helyezték, vagy
 
-e) ha neki felróható okból, több mint 90 napon át nem tesz eleget megbízatásából eredő kötelezettségeinek.
+e) ha neki felróható okból, több mint hat hónapon át nem tesz eleget megbízatásából eredő kötelezettségeinek.
