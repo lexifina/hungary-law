@@ -4,7 +4,7 @@
 
 ## 4. A Hivatal elnöke és elnökhelyettesei
 
-6. § (1) A Hivatal elnökét a miniszterelnök hét évre nevezi ki. Az elnök egy alkalommal ismételten kinevezhető.
+6. § (1) A Hivatal elnökét a miniszterelnök javaslatára a köztársasági elnök hét évre nevezi ki. Az elnök egy alkalommal ismételten kinevezhető.
 
 (2) A Hivatal legfeljebb öt elnökhelyettesét a Hivatal elnöke hét évre nevezi ki. Az elnökhelyettes ismételten kinevezhető.
 

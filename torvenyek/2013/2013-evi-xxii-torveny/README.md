@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-22-00-00
 | 2020-11-28 | 2020. évi CXIII. törvény | 2013-22-00-00.17 |
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2013-22-00-00.18 |
 | 2021-06-13 | 2021. évi LXVIII. törvény | 2013-22-00-00.19 |
+| 2021-11-18 | 2021. évi CXXII. törvény | 2013-22-00-00.20 |
