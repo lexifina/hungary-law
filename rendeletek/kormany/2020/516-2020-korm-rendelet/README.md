@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-516-20-
 | 2021-01-01 | 2020-516-20-22.2 | 588/2020. (XII. 17.) Korm. rendelet |
 | 2021-01-02 | 2020-516-20-22.3 | 2010: CXXX. törvény |
 | 2021-02-20 | 2020-516-20-22.4 | 70/2021. (II. 19.) Korm. rendelet |
+| 2021-11-18 | 2020-516-20-22.5 | 632/2021. (XI. 17.) Korm. rendelet |
