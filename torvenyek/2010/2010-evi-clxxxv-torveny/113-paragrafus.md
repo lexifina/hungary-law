@@ -10,13 +10,13 @@ d) a köztársasági elnök a (2) bekezdés szerint felmenti,
 
 e) az Országgyűlés a kinevezésétől számítva 30 napon belül – amennyiben olyan időpontban történik a kinevezés, amely az Országgyűlés ülésszakán kívül esik, úgy a következő ülésszak kezdetétől számított 15 napon belül – nem választja meg a Médiatanács elnökévé.
 
-(2) A köztársasági elnök felmenti az Elnököt, ha
+(2) A köztársasági elnök felmenti az Elnököt,
 
-a) a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
+a) ha a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
 
-b) ha az Elnökkel szemben lefolytatott büntetőeljárás eredményeként az Elnök bűnösségét a bíróság – szabadságvesztés vagy az Elnök tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
+b) az ítélet jogerőre emelkedésének napjával, ha az Elnökkel szemben lefolytatott büntetőeljárás eredményeként az Elnök bűnösségét a bíróság – szabadságvesztés vagy az Elnök tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
 
-c) cselekvőképességet érintő gondnokság alá helyezték,
+c) ha cselekvőképességet érintő gondnokság alá helyezték vagy
 
 d) ha neki felróható okból több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak.
 
@@ -36,11 +36,15 @@ d) az Elnök általi, (6) bekezdés szerinti visszahívással,
 
 e) az Elnök és az elnökhelyettes közös megegyezésével.
 
-(5) Az Elnök felmenti az elnökhelyettest, ha
+(5) Az Elnök felmenti az elnökhelyettest,
 
-a) a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
+a) ha a 118. § (1) bekezdés szerinti összeférhetetlenséget a kinevezését, illetve az összeférhetetlenség okának felmerülését követő harminc napon belül nem szünteti meg,
 
-b) ha az elnökhelyettessel szemben lefolytatott büntetőeljárás eredményeként az elnökhelyettes bűnösségét a bíróság – szabadságvesztés vagy az elnökhelyettes tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg.
+b) az ítélet jogerőre emelkedésének napjával, ha az elnökhelyettessel szemben lefolytatott büntetőeljárás eredményeként az elnökhelyettes bűnösségét a bíróság – szabadságvesztés vagy az elnökhelyettes tevékenységének megfelelő foglalkozástól eltiltás büntetést tartalmazó – jogerős ítélete állapította meg,
+
+c) ha cselekvőképességet érintő gondnokság alá helyezték, vagy
+
+d) ha neki felróható okból, több mint hat hónapon át nem tesz eleget megbízatásából eredő feladatainak.
 
 (6) Az Elnök visszahívással is megszüntetheti az elnökhelyettes megbízását. A visszahívást nem kell indokolni.
 
