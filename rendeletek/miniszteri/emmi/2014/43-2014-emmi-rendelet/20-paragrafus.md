@@ -1,3 +1,3 @@
-## 19. §[^22]
+## 19. §[^23]
 
-[^22]: A 19. § a 16. § alapján hatályát vesztette.
+[^23]: A 19. § a 16. § alapján hatályát vesztette.

@@ -20,9 +20,16 @@
 
 (11)[^8] A megyei kormányhivatal a jóváhagyott terveket az egészségügyi válsághelyzeti ellátásról szóló Korm. rendeletben meghatározott megyei részterv mellékleteként, illetve a (3) bekezdés szerinti igényeket a megyei résztervekkel egyidejűleg az országos tisztifőorvos útján megküldi az egészségügyért felelős miniszternek.
 
+(12)[^9] Az egészségügyi szolgáltató – az e rendelet szerinti feladatai ellátása során – a Tervet
+
+a) az annak előkészítésében, valamint jóváhagyásában a feladatkörében résztvevő személy számára megismerhetővé teszi, valamint
+
+b) az annak végrehajtásában résztvevőkkel közli.
+
 [^3]: A 2. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § c)–d) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § e) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 165. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § f) pontja szerint módosított szöveg.
 [^7]: A 2. § (10) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 166. § d) pontja szerint módosított szöveg.
 [^8]: A 2. § (11) bekezdését a 23/2015. (IV. 28.) EMMI rendelet 165. § (2) bekezdése iktatta be, szövege a 43/2020. (XI. 26.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. § (12) bekezdését a 49/2021. (XI. 15.) EMMI rendelet 1. §-a iktatta be.
