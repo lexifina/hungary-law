@@ -10,6 +10,8 @@ b) törvény vagy a helyi önkormányzat rendelete nemzetgazdasági szempontból
 
 c) törvény vagy a helyi önkormányzat rendelete korlátozottan forgalomképes vagyonelemként állapít meg.
 
+(2a) Helyi önkormányzat rendelete lakáscélú épületet forgalomképtelen törzsvagyonnak nem minősíthet, a korábbi ilyen minősítés pedig e rendelkezés hatályba lépésével megszűnik.
+
 (3) A helyi önkormányzat kizárólagos tulajdonát képező nemzeti vagyonba tartoznak
 
 a) a helyi közutak és műtárgyaik,
