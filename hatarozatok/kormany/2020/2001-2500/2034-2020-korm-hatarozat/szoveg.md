@@ -6,42 +6,27 @@ A Kormány
 
 3. egyetért azzal, hogy az egyes innovációs és iparjogvédelmi igazgatási tevékenységet végző kormányzati szervezetek székhelye a BME Innovációs és Fejlesztési Központba kerüljön, melynek kapcsán felmerülő feladatokat a BME koordinációs feladatok ellátásával támogassa;
 
-4. a Beruházás előkészítésének és megvalósításának kormányzati felelőseként a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert jelöli ki, az innovációért és technológiáért felelős miniszter együttműködésével;
+4.[^1]
 
-5. a Beruházás előkészítésére és megvalósítására a Beruházási Ügynökséget jelöli ki, azzal, hogy a Beruházási Ügynökség a megvalósítás során – az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet 29. § (2) bekezdése szerint – együttműködik az ÉMI Nonprofit Korlátolt Felelősségű Társasággal;
+5.[^2]
 
-6. a Beruházás előkészítése érdekében az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § c)–i) és k)–p) pontja szerinti előkészítési fázisai 2023. június 30. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 760 000 000 forintban határozza meg;
+6.[^3]
 
-7. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 6. pont szerinti összeg 2021. évi részének rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 3. Gazdaságvédelmi Alap – Kiemelt Kormányzati Magasépítési Beruházások címen belül;
+7.[^4]
 
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+8.[^5]
 
-pénzügyminiszter
+9.[^6]
 
-Határidő: a felmerülés ütemében
+10.[^7] egyetért azzal, hogy a Beruházás során létrejövő vagyonelemek vagyonkezelője a BME legyen;
 
-8. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 6. pont szerinti összeg 2022. évi részének rendelkezésre állásáról a 2022. évi központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében;
+11.[^8]
 
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-pénzügyminiszter
-
-Határidő: a 2022. évi központi költségvetés tervezése során
-
-9. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 6. pont szerinti összeg 2023. évi részének rendelkezésre állásáról a 2023. évi központi költségvetés kiemelt kormányzati magasépítési beruházásokat finanszírozó fejezetében;
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-pénzügyminiszter
-
-Határidő: a 2023. évi központi költségvetés tervezése során
-
-10. egyetért azzal, hogy a Beruházás során létrejövő vagyonelem vagyonkezelője és üzemeltetője a BME legyen;
-
-11. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján – az innovációért és technológiáért felelős miniszterrel együttműködésben – készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, minőségbiztosításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával.
-
-Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-innovációért és technológiáért felelős miniszter
-
-Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárás lefolytatását követően azonnal
+[^1]: A 4. pontot a Kormány az 1808/2021. (XI. 18.) Korm. határozat 4. pontjával visszavonta.
+[^2]: Az 5. pontot a Kormány az 1808/2021. (XI. 18.) Korm. határozat 4. pontjával visszavonta.
+[^3]: A 6. pontot a Kormány az 1808/2021. (XI. 18.) Korm. határozat 4. pontjával visszavonta.
+[^4]: A 7. pontot a Kormány az 1808/2021. (XI. 18.) Korm. határozat 4. pontjával visszavonta.
+[^5]: A 8. pontot a Kormány az 1808/2021. (XI. 18.) Korm. határozat 4. pontjával visszavonta.
+[^6]: A 9. pontot a Kormány az 1808/2021. (XI. 18.) Korm. határozat 4. pontjával visszavonta.
+[^7]: A 10. pont az 1808/2021. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^8]: A 11. pontot a Kormány az 1808/2021. (XI. 18.) Korm. határozat 4. pontjával visszavonta.
