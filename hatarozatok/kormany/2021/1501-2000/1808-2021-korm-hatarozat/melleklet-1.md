@@ -62,22 +62,17 @@
 
 ## Határidő: azonnal
 
-## 2. A monori Szterényi József Technikum és Szakképző Iskola bővítésének támogatásáról szóló 1755/2020. (XI. 11.) Korm. határozat 1. pontja helyébe a következő rendelkezés lép:
+## 2.[^1]
 
-## (A Kormány)
+## 3.[^2]
 
-## „1. egyetért a Ceglédi SZC Szterényi József Technikum és Szakképző Iskola bővítésével (a továbbiakban: Beruházás) a Monor belterület 4913/21 helyrajzi számú, természetben a 2200 Monor, Ipar utca 2. szám alatti ingatlanon;”
+## 4.[^3]
 
-## 3. A Budapesti Műszaki és Gazdaságtudományi Egyetem Innovációs és Fejlesztési Központ előkészítéséről szóló 2034/2020. (XII. 29.) Korm. határozat (a továbbiakban: Határozat) 10. pontjában a „vagyonelem vagyonkezelője és üzemeltetője” szövegrész helyébe a „vagyonelemek vagyonkezelője” szöveg lép.
-
-## 4. A Kormány visszavonja a Határozat 4–9. és 11. pontját.
-
-## 5. A kultúrstratégiai, valamint egyes kulturális intézmények működéséhez szükséges források hosszú távú biztosításáról, továbbá az Eszterháza Turisztikai Beruházással kapcsolatos egyes intézkedésekről szóló 1501/2021. (VII. 26.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) C:3 mezőjében az „1 901 500” szövegrész helyébe a „2 030 500” szöveg,
-
-## b) D:3 mezőjében az „534 000” szövegrész helyébe a „2 479 500” szöveg
-
-## lép.
+## 5.[^4]
 
 1. melléklet az 1808/2021. (XI. 18.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
