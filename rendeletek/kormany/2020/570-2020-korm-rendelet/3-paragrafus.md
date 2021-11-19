@@ -1,4 +1,4 @@
-## 2. §[^2]
+## 2. §[^2] A rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja – a Hszt. 84. §-ában foglaltaktól eltérően – a hivatásos szolgálati jogviszonyáról nem mondhat le.
 
 3. § (1) A rendvédelmi feladatokat ellátó szerv
 
@@ -12,4 +12,4 @@ a) a 2021. évben esedékes vizsgálatokra úgy kell intézkedni, hogy a veszél
 
 b) ha a 2021. évben nem esedékes az időszakos alkalmasságvizsgálata vagy időszakos vizsgálata, akkor azt a veszélyhelyzet megszűnésétől számított hat hónapon belül pótolni kell.
 
-[^2]: A 2. §-t a 308/2021. (VI. 7.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^2]: A 2. §-t újonnan a 636/2021. (XI. 18.) Korm. rendelet 4. §-a iktatta be.

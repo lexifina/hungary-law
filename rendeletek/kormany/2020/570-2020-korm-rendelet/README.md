@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-570-20-
 | 2021-05-27 | 2020-570-20-22.8 | 274/2021. (V. 26.) Korm. rendelet |
 | 2021-05-28 | 2020-570-20-22.9 | 285/2021. (V. 27.) Korm. rendelet |
 | 2021-06-15 | 2020-570-20-22.10 | 308/2021. (VI. 7.) Korm. rendelet |
+| 2021-11-19 | 2020-570-20-22.11 | 636/2021. (XI. 18.) Korm. rendelet |
