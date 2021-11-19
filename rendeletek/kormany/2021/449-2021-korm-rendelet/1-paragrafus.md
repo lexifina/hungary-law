@@ -1,4 +1,4 @@
-1. § (1) A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt – a (4) bekezdés szerinti mentesítés kivételével –
+1. § (1)[^2] A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt – a (4) bekezdés szerinti mentesítés kivételével –
 
 a) az egészségügyi szolgáltatók és működési engedélyük nyilvántartásáról, valamint az egészségügyi szakmai jegyzékről szóló 2/2004. (XI. 17.) EüM rendelet 2. számú melléklete szerinti ellátási formák közül
 
@@ -22,15 +22,17 @@ ai) fegyveres és rendvédelmi szervek egészségügyi ellátását (dolgozók �
 
 b) a közvetlen lakossági gyógyszerellátást
 
-nyújtó egészségügyi szolgáltatónál (a továbbiakban együtt: egészségügyi szolgáltató) nem hozható létre olyan jogviszony, amelynek keretében az egészségügyi tevékenységet olyan az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó, illetve az Eütev. 4. § c) pontja szerinti rezidens végezné, aki a SARS-CoV-2 koronavírus elleni védőoltást (a továbbiakban: védőoltás) nem vette fel.
+nyújtó egészségügyi szolgáltatónál (a továbbiakban együtt: egészségügyi szolgáltató) nem hozható létre olyan jogviszony, amelynek keretében az egészségügyi tevékenységet olyan az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó, illetve az Eütev. 4. § c) pontja szerinti rezidens végezné, aki a SARS-CoV-2 koronavírus elleni védőoltást és a (3) bekezdés c) pontja szerinti emlékeztető védőoltást (a továbbiakban együtt: védőoltás) nem vette fel.
 
 (2) A veszélyhelyzet ideje alatt az egészségügyi szolgáltató – a (4) bekezdés szerinti mentesítés kivételével – nem hozhat létre az Eütev. 4. § b) pontjában meghatározott tevékenységnek az egészségügyi szolgáltató székhelyén és telephelyén történő végzésére irányuló jogviszonyt olyan személlyel, aki a védőoltást nem vette fel.
 
 (3) Az az (1) és (2) bekezdés szerinti foglalkoztatott (a továbbiakban együtt: foglalkoztatott), aki e rendelet hatálybalépése előtt nem vette fel a védőoltást, az állampolgárok egészségének és életének megóvása érdekében köteles – a (4) bekezdés szerinti mentesítés kivételével –
 
-a)[^2] egydózisú oltóanyag esetén a védőoltást, kétdózisú oltóanyag esetén a védőoltás első dózisát 2021. szeptember 15. napjáig,
+a)[^3] egydózisú oltóanyag esetén a védőoltást, kétdózisú oltóanyag esetén a védőoltás első dózisát 2021. szeptember 15. napjáig,
 
 b) kétdózisú oltóanyag esetén a védőoltás második dózisát az oltóorvos által meghatározott időpontban
+
+c)[^4] az emlékeztető védőoltást egydózisú oltóanyag esetén az első dózis felvételét, kétdózisú oltóanyag esetén a második dózis felvételét követő 180 napon belül
 
 felvenni.
 
@@ -50,7 +52,7 @@ d) az Egészségügyi Világszervezet által kiadott nemzetközi oltási bizony�
 
 (7) Az (1)–(6) bekezdés vonatkozásában kizárólag a 60/2021. (II. 12.) Korm. rendelet 1. § (1) bekezdés b) pontja szerinti oltóanyag vehető figyelembe.
 
-(8) Azt a foglalkoztatottat, aki a (3) bekezdés a), illetve b) pontja szerinti védőoltást nem vette fel a (3) bekezdés a), illetve b) pontjában meghatározott határidőig, a munkáltató felhívja, hogy a védőoltást a felhívástól számított 15 napon belül vegye fel, és annak felvételét a (6) bekezdés a)–d) pontjában meghatározott módon igazolja, vagy az (5) bekezdés szerinti orvosi szakvéleményt mutassa be.
+(8)[^5] Azt a foglalkoztatottat, aki a (3) bekezdés a)–c) pontja szerinti védőoltást nem vette fel a (3) bekezdés a)–c) pontjában meghatározott határidőig, a munkáltató felhívja, hogy a védőoltást a felhívástól számított 15 napon belül vegye fel, és annak felvételét a (6) bekezdés a)–d) pontjában meghatározott módon igazolja, vagy az (5) bekezdés szerinti orvosi szakvéleményt mutassa be.
 
 (9) A foglalkoztatott jogviszonyát felmentéssel, illetve felmondással azonnali hatállyal meg kell szüntetni, ha
 
@@ -68,4 +70,7 @@ b) a foglalkoztatott az (5) bekezdés szerinti orvosi szakvéleményt a (8) beke
 
 (14) Az e rendeletben foglaltak végrehajtását a hatáskörrel rendelkező egészségügyi államigazgatási szerv hatósági jogkörében ellenőrzi, amelynek keretében az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvényben meghatározott intézkedéseket alkalmazhatja.
 
-[^2]: Az 1. § (3) bekezdés a) pontja az 507/2021. (VIII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés záró szövegrésze a 637/2021. (XI. 18.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdés a) pontja az 507/2021. (VIII. 31.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés c) pontját a 637/2021. (XI. 18.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (8) bekezdése a 637/2021. (XI. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
