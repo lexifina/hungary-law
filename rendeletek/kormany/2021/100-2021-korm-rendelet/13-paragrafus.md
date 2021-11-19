@@ -4,7 +4,7 @@
 
 a) a szolgáltatás vagy szolgáltatások folyamatos igénybevételének időtartama legalább az öt napot eléri,
 
-b) a szolgáltatást az állami foglalkoztatási szerv vagy az állami foglalkoztatási szerv a foglalkoztatást elősegítő szolgáltatást nyújtó szervezetként nyilvántartásba vett, miniszter által alapított közhasznú szervezeten keresztül nyújtja,
+b)[^4] a szolgáltatást az állami foglalkoztatási szerv vagy az állami foglalkoztatási szerv az OFA-n keresztül nyújtja,
 
 c) a szolgáltatást kérő álláskeresési ellátásban nem részesül, vagy keresőtevékenységet nem folytat.
 
@@ -13,3 +13,5 @@ c) a szolgáltatást kérő álláskeresési ellátásban nem részesül, vagy k
 (3) A pénzbeli juttatás napi összege megegyezik a megállapítás napján hatályos napi kötelező legkisebb munkabér 70%-ával.
 
 (4) A pénzbeli juttatás a szolgáltatást kérő részére a szolgáltatás igénybevételének igazolását követően folyósítható.
+
+[^4]: A 13. § (1) bekezdés b) pontja a 628/2021. (XI. 16.) Korm. rendelet 1. § d) pontja szerint módosított szöveg.
