@@ -14,4 +14,6 @@ e) egészségügyi szolgáltató helyiségében,
 
 f) felsőoktatási és köznevelési intézményben.
 
+g) a tulajdonos előzetes, írásbeli hozzájárulásának hiányában közforgalom számára nyitva álló magánterületen.
+
 (3) Az aláírásért az aláíró választópolgár részére előnyt adni vagy ígérni tilos. Az aláíró választópolgár az aláírásért nem kérhet előnyt, illetve nem fogadhat el előnyt vagy annak ígéretét.

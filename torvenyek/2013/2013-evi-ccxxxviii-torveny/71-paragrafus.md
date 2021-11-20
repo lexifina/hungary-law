@@ -1,6 +1,6 @@
 ## 25. A szavazólap adattartalma
 
-71. § (1) Egy szavazólapon csak egy kérdés szerepelhet.
+71. § (1) Egy szavazólapon csak egy kérdés szerepelhet, kivéve, ha a népszavazás kezdeményezője – választópolgári kezdeményezés esetén szervezője – azonos.
 
 (2) Az országos népszavazás szavazólapja tartalmazza
 
@@ -12,13 +12,13 @@ c) az országos népszavazás megnevezést,
 
 d) az országos népszavazás napját,
 
-e) annak megjelölését, hogy érvényesen szavazni csak egy válaszra lehet,
+e) annak megjelölését, hogy érvényesen szavazni – kérdésenként – csak egy válaszra lehet,
 
-f) az országos népszavazásra feltett kérdést,
+f) az országos népszavazásra feltett kérdést, több kérdés esetén az elrendelés sorrendjében, a kérdés sorszámának feltüntetésével,
 
-g) az igen és nem válaszlehetőséget,
+g) kérdésenként az igen és nem válaszlehetőséget,
 
-h) a szavazásra szolgáló kört,
+h) kérdésenként a szavazásra szolgáló köröket,
 
 i) az érvényes szavazat formájára vonatkozó tájékoztatást.
 
