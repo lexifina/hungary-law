@@ -2,9 +2,9 @@
 
 4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2) Az 1. § és a 6. § a HEPA NZrt. jogutódlással történő létrejötte cégbírósági bejegyzésének napján lép hatályba.[^10]
+(2) Az 1. § és a 6. § a HEPA NZrt. jogutódlással történő létrejötte cégbírósági bejegyzésének napján lép hatályba.[^11]
 
-(3) Az 1. § és a 6. § hatálybalépésének naptári napját a miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett határozatával állapítja meg.[^11]
+(3) Az 1. § és a 6. § hatálybalépésének naptári napját a miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett határozatával állapítja meg.[^12]
 
-[^10]: Az 1/2018. (XI. 15.) KKM határozat alapján a hatálybalépés időpontja 2018. november 7.
-[^11]: Lásd az 1/2018. (XI. 15.) KKM határozatot.
+[^11]: Az 1/2018. (XI. 15.) KKM határozat alapján a hatálybalépés időpontja 2018. november 7.
+[^12]: Lásd az 1/2018. (XI. 15.) KKM határozatot.

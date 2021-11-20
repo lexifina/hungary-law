@@ -1,4 +1,4 @@
-## 1/B. §[^6] Az államháztartásról szóló 2011. évi CXCV. törvény 49. §-ában foglaltak alapján a Magyarország és a Szerb Köztársaság között a 2018. február 9-i kormányzati csúcs alkalmával aláírásra került és a Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti gazdasági és technikai együttműködési megállapodás kihirdetéséről szóló 40/2018. (III. 13.) Korm. rendelettel kihirdetésre került kétoldalú megállapodás végrehajtásával kapcsolatban létrehozásra kerülő támogatás lebonyolító szerveként a külgazdasági és külügyminiszter a HEPA NZrt.-t megbízhatja.
+## 1/B. §[^7] Az államháztartásról szóló 2011. évi CXCV. törvény 49. §-ában foglaltak alapján a Magyarország és a Szerb Köztársaság között a 2018. február 9-i kormányzati csúcs alkalmával aláírásra került és a Magyarország Kormánya és a Szerb Köztársaság Kormánya közötti gazdasági és technikai együttműködési megállapodás kihirdetéséről szóló 40/2018. (III. 13.) Korm. rendelettel kihirdetésre került kétoldalú megállapodás végrehajtásával kapcsolatban létrehozásra kerülő támogatás lebonyolító szerveként a külgazdasági és külügyminiszter a HEPA NZrt.-t megbízhatja.
 
 2. § (1) A miniszter a Statútum rendelet 140. § b), k) és o) pontjában meghatározott feladatainak körében a (2) bekezdés szerinti feladatokat a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KGH NKft.) útján, illetve annak közreműködésével látja el a (2) bekezdésben foglaltak szerint.
 
@@ -54,7 +54,7 @@
 
 25. végrehajtja a miniszter által meghatározott egyéb feladatokat.
 
-26.[^7] külgazdasági támogatási programok lebonyolítását szakmai támogató szervként segíti.
+26.[^8] külgazdasági támogatási programok lebonyolítását szakmai támogató szervként segíti.
 
-[^6]: Az 1/B. §-t a 42/2019. (III. 11.) Korm. rendelet 1. §-a iktatta be.
-[^7]: A 2. § (2) bekezdés 26. pontját a 433/2021. (VII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^7]: Az 1/B. §-t a 42/2019. (III. 11.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 2. § (2) bekezdés 26. pontját a 433/2021. (VII. 16.) Korm. rendelet 2. §-a iktatta be.
