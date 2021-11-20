@@ -16,13 +16,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:45 mezőjében a „11,22” szövegrész helyébe a „12,95” szöveg,
-
-## b) E:45 mezőjében a „2,20” szövegrész helyébe a „2,28” szöveg
-
-## lép.
+## 4.[^1]
 
 1. melléklet az 1809/2021. (XI. 18.) Korm. határozathoz
 
@@ -33,3 +27,5 @@
 | 2. | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó forint) | Magyarország központi költségvetése keretében finanszírozott támogatás (bruttó forint) | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó forint) | Magyarország központi költségvetése keretében finanszírozott támogatás (bruttó forint) | A KEHOP keretében uniós forrás terhére finanszírozott támogatás (bruttó forint) | Magyarország központi költségvetése keretében finanszírozott támogatás (bruttó forint) |
 
 | 3. | KEHOP-1.3.0- 15-2016-00014 | Vízvisszatartás és tájhasználat-váltás tervezése az Ős-Dráva Programban | Országos Vízügyi Főigazgatóság (konzorciumvezető) Dél-dunántúli Vízügyi Igazgatóság | 11 220 000 000 | 2 200 000 000 | 1 724 297 597 | 76 357 757 | 12 944 297 597 | 2 276 357 757 | 15 220 655 354 | A projekttel szembeni szakmai elvárás a vízvisszatartással, illetve tájhasználat-váltással kapcsolatos infrastruktúra kiépítése az Ormánság területén. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
