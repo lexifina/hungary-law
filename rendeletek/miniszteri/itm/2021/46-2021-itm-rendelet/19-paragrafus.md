@@ -1,4 +1,4 @@
-## 18. §[^17]
+## 18. §[^16]
 
 ## 4. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. alcím 2021. november 20-án lép hatályba.
 
-[^17]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

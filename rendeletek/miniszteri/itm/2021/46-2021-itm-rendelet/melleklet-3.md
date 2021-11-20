@@ -588,6 +588,6 @@
 
 ## ”
 
-3. melléklet a 46/2021. (IX. 13.) ITM rendelethez[^18]
+3. melléklet a 46/2021. (IX. 13.) ITM rendelethez[^17]
 
-[^18]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
