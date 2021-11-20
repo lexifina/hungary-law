@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2020-04-11 | 2020. évi XIX. törvény | 2013-36-00-00.21 |
 | 2021-01-21 | 2020. évi CLXVII. törvény | 2013-36-00-00.22 |
 | 2021-07-01 | 2020. évi CLXVII. törvény | 2013-36-00-00.23 |
+| 2021-11-20 | 2021. évi CXVII. törvény | 2013-36-00-00.24 |

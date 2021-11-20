@@ -25,3 +25,5 @@ b) az átjelentkező választópolgár olyan címre kér mozgóurnát, amely nem
 a kérelmét egyben átjelentkezésre, illetve az átjelentkezés módosítására irányuló kérelemnek is kell tekinteni. Ebben az esetben – attól függően, hogy a kérelmet hova nyújtották be – a választópolgár lakcíme szerint illetékes helyi választási iroda vagy a mozgóurna kivitelére illetékes szavazatszámláló bizottság illetékességi területén működő helyi választási iroda dönt az átjelentkezés és a mozgóurna iránti kérelemről is.
 
 (7) Azt a választópolgárt, aki átjelentkezési és mozgóurna iránti kérelmet is benyújtott, a mozgóurna iránti kérelmének visszavonása esetén – eltérő nyilatkozata hiányában – az átjelentkezés helye szerinti szavazókör névjegyzékébe kell felvenni. A (6) bekezdés szerinti mozgóurna iránti kérelem visszavonása esetén a választópolgárt – eltérő nyilatkozata hiányában – a lakcíme szerinti szavazókör névjegyzékébe kell felvenni.
+
+(8) Közös eljárás esetén az átjelentkezésre irányuló kérelem a közös eljárás minden választására vonatkozik.
