@@ -4,4 +4,7 @@ a) a hajók fedélzetén emelt szintű egészségügyi ellátás biztosítását
 
 b) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között létrejött, a 2006. évi tengerészeti munkaügyi egyezmény alapján kötött megállapodás végrehajtásáról, valamint az 1999/63/EK irányelv módosításáról szóló 2009. február 16-i 2009/13/EK tanácsi irányelvnek
 
+c)[^13] a 92/29/EGK tanácsi irányelv II. és IV. mellékletének a tisztán technikai kiigazítások tekintetében történő módosításáról szóló, 2019. október 24-i (EU) 2019/1834 bizottsági irányelvnek
+
 [^12]: A 7. § a 66/2015. (XI. 18.) NFM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 7. § c) pontját a 46/2021. (IX. 13.) ITM rendelet 1. §-a iktatta be.

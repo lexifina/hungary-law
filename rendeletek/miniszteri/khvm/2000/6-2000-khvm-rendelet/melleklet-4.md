@@ -1,4 +1,80 @@
-4. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez[^16]
+|  | Szükséges mennyiségek | A fedélzeten ténylegesen szállított mennyiségek | Megjegyzések (különösen bármely lejárati időpont) |
+
+| 1. GYÓGYSZEREK |
+
+| 1.1. Kardiovaszkuláris rendszer |  |
+
+| a) Angina elleni készítmények | 0 | 0 | 0 |
+
+| 1.2. Gasztrointesztinális rendszer |  |  |  |
+
+| a) Hasmenésgátlók | 0 | 0 | 0 |
+
+| 1.3. Fájdalomcsillapítók és görcsoldók |  |  |  |
+
+| a) Fájdalomcsillapítók, lázcsillapítók és gyulladáscsökkentő készítmények | 0 | 0 | 0 |
+
+| 1.4. Idegrendszer |  |  |  |
+
+| c) Tengeri betegség elleni szerek | 0 | 0 | 0 |
+
+| 1.5. Külsőleg alkalmazandó gyógyszerek |  |  |  |
+
+| a) Bőrgyógyászati készítmények | 0 | 0 | 0 |
+
+| – Fertőtlenítő oldatok | 0 | 0 | 0 |
+
+| – Égési sérülések kezelésére szolgáló szerek | 0 | 0 | 0 |
+
+| b) Szemészeti készítmények | 0 | 0 | 0 |
+
+| – Fiziológiás sóoldat szemöblítéshez | 0 | 0 | 0 |
+
+| 2. ORVOSI ESZKÖZÖK |
+
+| 2.1. Kötöző- és sebvarró felszerelés |
+
+| – Érszorítók | 0 | 0 | 0 |
+
+| – Öntapadó rugalmas mullpólya | 0 | 0 | 0 |
+
+| – Steril géz nyomókötésekhez | 0 | 0 | 0 |
+
+| – Eldobható gumikesztyűk | 0 | 0 | 0 |
+
+| – Öntapadó sebtapaszok | 0 | 0 | 0 |
+
+| – Steril nyomókötések | 0 | 0 | 0 |
+
+| – Öntapadó varratok vagy cinkoxid kötések | 0 | 0 | 0 |
+
+| 3. ELLENANYAGOK |
+
+| 3.1. Általános | 0 | 0 | 0 |
+
+| 3.2. Kardiovaszkuláris rendszer | 0 | 0 | 0 |
+
+| 3.3. Gasztrointesztinális rendszer | 0 | 0 | 0 |
+
+| 3.4. Idegrendszer | 0 | 0 | 0 |
+
+| 3.5. Légzőrendszer | 0 | 0 | 0 |
+
+| 3.6. Fertőzés elleni szerek | 0 | 0 | 0 |
+
+| 3.7. Külsőleges alkalmazásra | 0 | 0 | 0 |
+
+| 3.8. Egyéb | 0 | 0 | 0 |
+
+| 3.9. Oxigénlélegeztetéshez szükséges felszerelés (ideértve a karbantartási tartozékokat is) | 0 | 0 | 0 |
+
+## Hely és dátum: ....................................................................................................................
+
+## A parancsnok aláírása: .......................................................................................................
+
+## Illetékes személy vagy hatóság általi jóváhagyás: .............................................................
+
+4. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez[^18]
 
 „MEDICAL REPORT FORM FOR SEAFARERS SERVING ON SHIPS UNDER
 
@@ -102,4 +178,4 @@ Place/Hely ____________________________________ Date/Kelt: _____________________
 
 Signature of doctor/aláírása __________________________”
 
-[^16]: A 4. számú mellékletet a 66/2015. (XI. 18.) NFM rendelet 4. §-a iktatta be.
+[^18]: A 4. számú mellékletet a 66/2015. (XI. 18.) NFM rendelet 4. §-a iktatta be.

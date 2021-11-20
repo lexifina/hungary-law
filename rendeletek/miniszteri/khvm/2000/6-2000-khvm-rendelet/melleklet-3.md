@@ -1,397 +1,783 @@
-## Általános szempontok a tengeri hajók gyógyszer, gyógyászati
+## Általános szempontok a tengeri hajók gyógyszer, gyógyászati segédeszköz és egészségügyi felszerelés készletének összeállításához
 
-## segédeszköz és egészségügyi felszerelés készletének összeállításához
+## A kategória – korlátlan hajózási körzetű tengeri kereskedelmi és halászhajók;
 
-## Általános szempontok a tengeri hajók gyógyszer, gyógyászati
+## B kategória – a legközelebbi kikötőtől legfeljebb 150 tengeri mérföldre eltávolodó tengeri kereskedelmi és halászhajók;
 
-## segédeszköz és egészségügyi felszerelés készletének összeállításához
+## C kategória – kikötői hajók, tengeri kishajók és olyan vízi járművek, amelyek a kormányálláson kívül nem rendelkeznek személyek tartózkodására alkalmas zárt térrel.
 
-| A kategória | – | korlátlan hajózási körzetű tengeri kereskedelmi és halászhajók; |
+## EGÉSZSÉGÜGYI FELSZERELÉSEK (NEM KIMERÍTŐ FELSOROLÁS)
 
-| B kategória | – | a legközelebbi kikötőtől legfeljebb 150 tengeri mérföldre eltávolodó tengeri kereskedelmi és halászhajók; |
+## I. GYÓGYSZEREK
 
-| C kategória | – | kikötői hajók, tengeri kishajók és olyan vízijárművek, amelyek a kormányálláson kívül nem rendelkeznek személyek tartózkodására alkalmas zárt térrel. |
+|  | Hajókategóriák |
 
-|  | K a t e g ó r i a |
+|  | A | B | C |
 
-| A | B | C |
+| 1. Kardiovaszkuláris rendszer |  |  |  |
 
-| I. Gyógyszerek |
+| a) Szív- és érrendszeri szimpatomimetikumok | x | x |  |
 
-| 1. | Cardiovascularis rendszer |  |  |  |
+| b) Angina elleni készítmények | x | x | x |
 
-|  | a) Szív- és érrendszeri analepticumok – sympathomimeticumok | x | x |  |
+| c) Vizelethajtók | x | x |  |
 
-|  | b) Angina ellenes készítmények | x | x | x |
+| d) Vérzéscsillapítók, ideértve az uterotonicumokat, amennyiben nők is tartózkodnak a fedélzeten | x | x |  |
 
-|  | c) Vizelethajtók | x | x |  |
+| e) Vérnyomáscsökkentők | x | x |  |
 
-|  | d) Vérzéscsillapítók, ideértve az uterotonicumokat, amennyiben nők is tartózkodnak a fedélzeten | x | x | x |
+| 2. Gasztrointesztinális rendszer |  |  |  |
 
-|  | Vérnyomáscsökkentők | x |  |  |
+| a) Gyógyszerek gyomor- és nyombélpanaszokra |  |  |  |
 
-| 2. | Gastro-intestinalis rendszer |  |  |  |
+| – Gyógyszer gyomorfekélyre és gyomorhurutra | x | x |  |
 
-|  | a) Gyógyszerek gyomor- és nyombélpanaszokra |  |  |  |
+| – Nyálkahártya-bevonatképző savlekötők | x | x |  |
 
-|  | – Histamin H2-receptor fekély ellenes antagonisták | x |  |  |
+| b) Hányáscsillapítók | x | x |  |
 
-|  | – Nyálkahártya-bevonatképző antacidumok | x | x |  |
+| c) Hashajtók | x |  |  |
 
-|  | b) Hányáscsillapítók | x | x | x |
+| d) Hasmenésgátlók | x | x | x |
 
-|  | c) Lubrikáns hashajtók | x |  |  |
+| e) Aranyér elleni készítmények | x | x |  |
 
-|  | d) Hasmenésgátlók | x | x | x |
+| 3. Fájdalomcsillapítók és görcsoldók |  |  |  |
 
-|  | e) Bélfertőtlenítő antisepticumok | x | x |  |
+| a) Fájdalomcsillapítók, lázcsillapítók és gyulladáscsökkentő készítmények | x | x | x |
 
-|  | f) Aranyér ellenes készítmények | x | x |  |
+| b) Erős fájdalomcsillapítók | x | x |  |
 
-|  | g) Vasat, vitaminokat és ásványi anyagokat tartalmazó készítmények | x |  |  |
+| c) Görcsoldók | x | x |  |
 
-| 3. | Fájdalomcsillapítók és görcsoldók |  |  |  |
+| 4. Idegrendszer |  |  |  |
 
-|  | a) Fájdalomcsillapítók, lázcsillapítók és gyulladáscsökkentő készítmények | x | x | x |
+| a) Feszültségoldó szerek | x | x |  |
 
-|  | b) Erős fájdalomcsillapítók | x | x |  |
+| b) Neuroleptikumok | x | x |  |
 
-|  | c) Görcsoldók | x | x |  |
+| c) Tengeri betegség elleni szerek | x | x | x |
 
-| 4. | Idegrendszer |  |  |  |
+| d) Epilepszia elleni szerek | x | x |  |
 
-|  | a) Anxiolyticumok | x | x |  |
+| 5. Allergiaellenes szerek és anafilaxia ellenes szerek |  |  |  |
 
-|  | b) Neurolepticumok | x | x |  |
+| a) Antihisztaminikumok | x | x |  |
 
-|  | c) Tengeri betegség ellenes szerek | x | x | x |
+| b) Glükokortikoidok | x | x |  |
 
-|  | d) Antiepilepticumok | x |  |  |
+| 6. Légzőrendszer |  |  |  |
 
-| 5. | Antiallergiás szerek és anti-anaphilaxiás szerek |  |  |  |
+| a) Hörgőgörcs elleni készítmények | x | x |  |
 
-|  | a) H1 antihistaminicumok | x | x |  |
+| b) Köhögéscsillapítók | x | x |  |
 
-|  | b) Injektálható glucocorticoidok | x | x |  |
+| c) Meghűlés és arcüreggyulladás elleni szerek | x | x |  |
 
-| 6. | Légzőrendszer |  |  |  |
+| 7. Fertőzés elleni szerek |  |  |  |
 
-|  | a) Hörgőgörcs ellenes készítmények | x | x |  |
+| a) Antibiotikumok (legalább két család) | x | x |  |
 
-|  | b) Köhögéscsillapítók | x | x |  |
+| b) Parazitaellenes készítmények | x | x |  |
 
-|  | c) Meghűlés és arcüreggyulladás kezelésére szolgáló készítmények | x | x |  |
+| c) Tetanusz elleni vakcinák és immunglobulinok | x | x |  |
 
-| 7. | Fertőzésellenes szerek |  |  |  |
+| d) Malária elleni gyógyszerek a működési területtől függően | x | x |  |
 
-|  | a) Antibiotikumok (legalább két család) | x | x |  |
+| 8. Rehidratációt, kalóriafelvételt elősegítő és plazmapótló szerek | x | x |  |
 
-|  | b) Antibakteriális szulfamid | x | x |  |
+| 9. Külsőleg alkalmazandó gyógyszerek |  |  |  |
 
-|  | c) Húgyutak fertőtlenítőszerei | x |  |  |
+| a) Bőrgyógyászati készítmények |  |  |  |
 
-|  | d) Parazitaellenes készítmények | x | x |  |
+| – Fertőtlenítő oldatok | x | x | x |
 
-|  | e) Bélfertőtlenítők | x | x |  |
+| – Antibiotikum-tartalmú kenőcsök | x | x |  |
 
-|  | f) Tetanusz elleni vakcinák és immunglobulinok | x | x |  |
+| – Gyulladásgátló és fájdalomcsillapító kenőcsök | x | x |  |
 
-| 8. | Rehidratációt, kalóriafelvételt elősegítő és plazmapótló készítmények | x | x |  |
+| – Gombásodás elleni krémek | x |  |  |
 
-| 9. | Külsőleg alkalmazandó gyógyszerek |  |  |  |
+| – Égési sérülések kezelésére szolgáló szerek | x | x | x |
 
-|  | a) Bőrgyógyászati készítmények |  |  |  |
+| b) Szemészeti készítmények |  |  |  |
 
-|  | – Fertőtlenítő oldatok | x | x | x |
+| – Antibiotikumos és gyulladáscsökkentő szerek | x | x |  |
 
-|  | – Antibiotikum-tartalmú kenőcsök | x | x |  |
+| – Érzéstelenítő cseppek | x | x |  |
 
-|  | – Gyulladásgátló és fájdalomcsillapító kenőcsök | x | x |  |
+| – Fiziológiás sóoldat szemöblítéshez | x | x | x |
 
-|  | – Gombásodás ellenes krémek | x |  |  |
+| – Szemnyomáscsökkentő cseppek | x | x |  |
 
-|  | – Égési sérülések kezelésére szolgáló szerek | x | x | x |
+| c) Fülészeti készítmények |  |  |  |
 
-|  | b) Szemészeti készítmények |  |  |  |
+| – Érzéstelenítő és gyulladáscsökkentő oldatok | x | x |  |
 
-|  | – Antibiotikumcseppek | x | x |  |
+| d) Száj- és torokfertőtlenítő szerek |  |  |  |
 
-|  | – Antibiotikumos és gyulladásgátló cseppek | x | x |  |
+| – Fertőtlenítő szájöblítők | x | x |  |
 
-|  | – Érzéstelenítő cseppek | x | x |  |
+| e) Helyi érzéstelenítők |  |  |  |
 
-|  | – Szemnyomáscsökkentő cseppek | x | x |  |
+| – Fagyasztás útján ható helyi érzéstelenítők | x |  |  |
 
-|  | c) Fülészeti készítmények |  |  |  |
+| – Bőr alatti injekcióval bejuttatott helyi érzéstelenítők | x | x |  |
 
-|  | – Antibiotikumoldatok | x | x |  |
+## II. ORVOSI ESZKÖZÖK
 
-|  | – Érzéstelenítő és gyulladásgátló oldatok | x | x |  |
+|  | Hajókategóriák |
 
-|  | d) Száj- és torokfertőtlenítő szerek |  |  |  |
+|  | A | B | C |
 
-|  | – Antibiotikum vagy fertőtlenítő szájöblítők | x | x |  |
+| 1. Újraélesztő felszerelés |  |  |  |
 
-|  | e) Helyi érzéstelenítők |  |  |  |
+| – Ambu zsák (vagy azzal egyenértékű eszköz); nagy, közepes és kis méretű maszkkal | x | x |  |
 
-|  | – Fagyasztás útján ható helyi érzéstelenítők | x |  |  |
+| – Oxigénlélegeztető készülék, nyomáscsökkentő szeleppel úgy, hogy a hajó üzemi oxigénellátása, illetve oxigéntartálya legyen használható (1) | x | x |  |
 
-|  | – Bőr alatti injekcióval bejuttatott helyi érzéstelenítők | x | x |  |
+| – Mechanikus szívókészülék a felső légutak tisztítására | x | x |  |
 
-|  | – Fogászati érzéstelenítők és fertőtlenítő keverékek | x | x |  |
+| 2. Kötöző- és sebvarró felszerelés |  |  |  |
 
-| 10. | Antidiabetikus készítmények | x |  |  |
+| – Érszorítók | x | x | x |
 
-| 11. | Diagnosztikumok | x |  |  |
+| – Egyszer használatos sebkapcsoló vagy sebvarró készlet tűkkel | x | x |  |
 
-| II. Orvosi felszerelések |
+| – Öntapadó rugalmas mullpólya | x | x | x |
 
-| 1. | Újraélesztő felszerelés |  |  |  |
+| – Gézcsíkok | x | x |  |
 
-|  | a) Kézi újraélesztő készülék | x | x |  |
+| – Csőgéz ujj kötözéshez | x |  |  |
 
-|  | b) Oxigénlélegeztető készülék, nyomáscsökkentő szeleppel úgy, hogy a hajó üzemi oxigénellátása, illetve oxigéntartálya legyen használható | x | x |  |
+| – Steril géz nyomókötésekhez | x | x | x |
 
-|  | c) Mechanikus szívókészülék a felső légutak tisztítására | x | x |  |
+| – Steril lap égési sérültek számára | x | x |  |
 
-|  | d) Kanül a szájból szájba történő újraélesztéshez | x | x | x |
+| – Háromszögletű felkötőkendő | x | x |  |
 
-| 2. | Kötöző- és sebvarró felszerelés |  |  |  |
+| – Eldobható gumikesztyűk | x | x | x |
 
-|  | a) Egyszerhasználatos sebkapcsoló vagy sebvarró készlet tűkkel | x | x |  |
+| – Öntapadó sebtapaszok | x | x | x |
 
-|  | b) Öntapadó rugalmas mullpólya | x | x | x |
+| – Steril nyomókötések | x | x | x |
 
-|  | c) Vágott géz | x |  |  |
+| – Öntapadó varratok vagy cinkoxid kötések | x | x | x |
 
-|  | d) Csőgéz ujj kötözéshez | x |  |  |
+| – Nem felszívódó varratok tűvel | x |  |  |
 
-|  | e) Steril géz nyomókötésekhez | x | x | x |
+| – Vazelines géz | x | x |  |
 
-|  | f) Gyapotvatta | x | x |  |
+| 3. Műszerek |  |  |  |
 
-|  | g) Steril lap égési sérültek számára | x | x |  |
+| – Egyszer használatos szikék | x |  |  |
 
-|  | h) Háromszögletű felkötőkendő | x | x |  |
+| – Megfelelő anyagból készült műszerdoboz | x | x |  |
 
-|  | i) Egyszerhasználatos polietilénkesztyűk | x | x | x |
+| – Olló | x | x |  |
 
-|  | j) Öntapadó sebkötözők | x | x | x |
+| – Terpesztő-csipeszek | x | x |  |
 
-|  | k) Steril nyomókötések | x | x | x |
+| – Vérzéscsillapító csipeszek | x | x |  |
 
-|  | l) Öntapadó varratok vagy cinkoxid kötések | x | x | x |
+| – Tűfogók | x |  |  |
 
-|  | m) Nem felszívódó varratok tűvel | x |  |  |
+| – Egyszer használatos borotvák | x |  |  |
 
-|  | n) Vazelines géz | x | x |  |
+| 4. Vizsgáló és ellenőrző felszerelés |  |  |  |
 
-| 3. | Műtéti eszközök |  |  |  |
+| – Egyszer használatos nyelvlapoc | x | x |  |
 
-|  | a) Egyszerhasználatos szikék | x |  |  |
+| – Tesztcsíkok vizeletvizsgálathoz | x |  |  |
 
-|  | b) Rozsdamentes eszközdoboz | x | x |  |
+| – Hőmérsékletgrafikonok | x |  |  |
 
-|  | c) Terpesztő-csipeszek | x | x |  |
+| – Hordágyak | x | x |  |
 
-|  | d) Vérzéscsillapító csipeszek | x | x |  |
+| – Sztetoszkóp | x | x |  |
 
-|  | e) Tűfogók | x | x |  |
+| – Vérnyomásmérő | x | x |  |
 
-|  | f) Egyszerhasználatos borotvák | x |  |  |
+| – Orvosi hőmérő | x | x |  |
 
-|  | g) Egyenes olló | x | x | x |
+| – Alacsony hőmérsékleti hőmérő | x | x |  |
 
-| 4. | Vizsgáló és monitorozóeszközök |  |  |  |
+| – Malária-gyorsteszt, a működési területtől függően | x | x |  |
 
-|  | a) Egyszerhasználatos nyelvlapoc | x | x |  |
+| 5. Injekciós, perfúziós, szúró és katéterező felszerelés |  |  |  |
 
-|  | b) Tesztcsíkok vizeletvizsgálathoz | x |  |  |
+| – Hólyagürítő felszerelés (férfiak és nők számára) | x |  |  |
 
-|  | c) Hőmérsékletgrafikonok | x |  |  |
+| – Intravénás infúziós készlet | x | x |  |
 
-|  | d) Orvosi evakuálólapok | x | x |  |
+| – Egyszer használatos fecskendők és tűk | x | x |  |
 
-|  | e) Fonendoszkóp | x | x |  |
+| 6. Általános orvosi eszközök |  |  |  |
 
-|  | f) Aneroid vérnyomásmérő | x | x |  |
+| – Személyi védőeszköz és ápolási felszerelés | x | x |  |
 
-|  | g) Normál orvosi hőmérő | x | x |  |
+| – Ágytál | x |  |  |
 
-|  | h) Alacsony hőmérsékleti hőmérő | x | x |  |
+| – Melegvizes palack | x |  |  |
 
-| 5. | Injekciós, perfúziós, lyukasztó és katéterező felszerelés |  |  |  |
+| – Vizeletgyűjtő palack | x |  |  |
 
-|  | a) Hólyagürítő készülékek | x |  |  |
+| – Jégzsák | x |  |  |
 
-|  | b) Beöntéskészülék | x |  |  |
+| 7. Rögzítő- és beállító eszközök |  |  |  |
 
-|  | c) Egyszerhasználatos szűrős infúziós készülék | x |  |  |
+| – Különböző méretű síneket tartalmazó készlet végtagokhoz | x | x |  |
 
-|  | d) Vizeletgyűjtő zsák | x |  |  |
+| – Nyakrögzítő gallér | x | x |  |
 
-|  | e) Egyszerhasználatos fecskendők és tűk | x | x |  |
+| 8. Fertőtlenítés, féregtelenítés és megelőzés |  |  |  |
 
-|  | f) Katéter | x |  |  |
+| – Vízfertőtlenítő szer | x |  |  |
 
-| 6. | Általános orvosi felszerelés |  |  |  |
+| – Folyékony rovarirtó | x |  |  |
 
-|  | a) Ágytál | x |  |  |
+| – Rovarirtó por | x |  |  |
 
-|  | b) Melegvizes palack | x |  |  |
+| (1) A nemzeti jogszabályokban és/vagy gyakorlatban előírt használati feltételek mellett. |
 
-|  | c) Vizeletgyűjtő palack | x |  |  |
+## III. ELLENANYAGOK
 
-|  | d) Jégzsák | x |  |  |
+| 1. Gyógyszerek |
 
-|  | e) Izolációs takaró | x | x | x |
+| – Általános |
 
-| 7. | Rögzítő- és beállító eszközök |  |  |  |
+| – Kardiovaszkuláris rendszer |
 
-|  | a) Hajlítható ujjsín | x | x |  |
+| – Gasztrointesztinális rendszer |
 
-|  | b) Hajlítható alkar- és kézsín | x | x |  |
+| – Idegrendszer |
 
-|  | c) Felfújható sín | x | x |  |
+| – Légzőrendszer |
 
-|  | d) Combsín | x | x |  |
+| – Fertőzés elleni szerek |
 
-|  | e) Nyakrögzítő gallér | x | x |  |
+| – Külsőleges alkalmazásra |
 
-|  | f) Thomas-sín vagy rögzítő matrac | x |  |  |
+| 2. Orvosi eszközök |
 
-| 8. | Fertőtlenítés, féregtelenítés és megelőzés |  |  |  |
+| – Oxigénlélegeztetéshez szükséges felszerelés (ideértve a karbantartási tartozékokat is) |
 
-|  | a) Vizes fertőtlenítőoldat | x |  |  |
+## Megjegyzés:
 
-|  | b) Folyékony rovarirtó | x |  |  |
+## A III. fejezet részletes teljesítésével kapcsolatban a tagállamok a veszélyes árukkal kapcsolatos balesetekre vonatkozó IMO Orvosi Elsősegélynyújtási Útmutatót vehetik figyelembe (MFAG), amint az IMO Veszélyes Áruk Nemzetközi Tengerészeti Kódexének (IMDG) egységes szerkezetbe foglalt 1990. évi kiadásában szerepel.
 
-|  | c) Rovarirtó por | x |  |  |
+## A 8. cikk alkalmazásában a III. fejezet bármely kiigazítása figyelembe veheti egyebek között az MFAG esetleges újabb kiadásait.
 
-| 9. | Fogászati vizsgálati és elsősegélynyújtó felszerelés (csak abban az esetben, ha orvost alkalmaznak) | x |  |  |
+3. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez[^17]
 
-| III. Mentőcsónakok, mentőtutajok felszerelése |
+## A HAJÓK EGÉSZSÉGÜGYI FELSZERELÉSE ELLENŐRZÉSÉNEK ÁLTALÁNOS KERETRENDSZERE
 
-| 1. | Fájdalomcsillapítók és görcsoldók |  |  |  |
+## A. SZAKASZ
 
-|  | a) Fájdalomcsillapítók | x | x | x |
+## A. KATEGÓRIÁJÚ HAJÓK
 
-|  | b) Erős fájdalomcsillapítók | x | x |  |
+I. A hajó adatai
 
-|  | c) Görcsoldók | x |  |  |
+## Név: ...................................................................................................................................................
 
-| 2. | Cardiovascularis rendszer |  |  |  |
+## Lobogó: .............................................................................................................................................
 
-|  | a) Szív- és érrendszeri analepticumok – sympathomimeticumok | x | x |  |
+## Anyakikötő: .......................................................................................................................................
 
-|  | b) Vérzéscsillapítók | x | x | x |
+II. Egészségügyi felszerelések
 
-|  | c) Angina ellenes készítmények | x | x | x |
+|  | Szükséges mennyiségek | A fedélzeten ténylegesen szállított mennyiségek | Megjegyzések (különösen bármely lejárati időpont) |
 
-|  | d) Vérzéscsillapítók | x | x | x |
+| 1. GYÓGYSZEREK |
 
-| 3. | Gastro-intestinalis rendszer |  |  |  |
+| 1.1. Kardiovaszkuláris rendszer |  |
 
-|  | a) Hányáscsillapítók | x | x | x |
+| a) Szív- és érrendszeri szimpatomimetikumok | 0 | 0 | 0 |
 
-|  | b) Hasmenésgátlók | x |  |  |
+| b) Angina elleni készítmények | 0 | 0 | 0 |
 
-| 4. | Idegrendszer |  |  |  |
+| c) Vizelethajtók | 0 | 0 | 0 |
 
-|  | Tengeri betegség ellenes szerek | x |  |  |
+| d) Vérzéscsillapítók, ideértve az uterotonicumokat, amennyiben nők is tartózkodnak a fedélzeten | 0 | 0 | 0 |
 
-| 5. | Külsőleg alkalmazandó gyógyszerek |  |  |  |
+| e) Vérnyomáscsökkentők | 0 | 0 | 0 |
 
-|  | a) Antibiotikum-tartalmú kenőcsök | x | x | x |
+| 1.2. Gasztrointesztinális rendszer |  |  |  |
 
-|  | b) Égési sérülések kezelésére szolgáló szerek | x | x | x |
+| a) Gyógyszerek gyomor- és nyombélpanaszokra | 0 | 0 | 0 |
 
-| 6. | Orvosi felszerelések |  |  |  |
+| – Gyógyszer gyomorfekélyre és gyomorhurutra | 0 | 0 | 0 |
 
-|  | a) Steril nyomókötések | x | x | x |
+| – Nyálkahártya-bevonatképző savlekötők | 0 | 0 | 0 |
 
-|  | b) Rugalmas pólya | x | x | x |
+| b) Hányáscsillapítók | 0 | 0 | 0 |
 
-|  | c) Steril lap égési sérültek számára | x | x | x |
+| c) Hashajtók | 0 | 0 | 0 |
 
-|  | d) Háromszögletű felkötőkendő | x |  |  |
+| d) Hasmenésgátlók | 0 | 0 | 0 |
 
-|  | e) Öntapadó varratok vagy cinkoxid kötések | x | x | x |
+| e) Aranyér elleni készítmények | 0 | 0 | 0 |
 
-|  | f) Steril géz nyomókötésekhez | x | x | x |
+| 1.3. Fájdalomcsillapítók és görcsoldók |  |  |  |
 
-|  | g) Egyenes olló | x | x | x |
+| a) Fájdalomcsillapítók, lázcsillapítók és gyulladáscsökkentő készítmények | 0 | 0 | 0 |
 
-|  | h) Biztosítótű | x | x |  |
+| b) Erős fájdalomcsillapítók | 0 | 0 | 0 |
 
-|  | i) Egyszerhasználatos fecskendő | x |  |  |
+| c) Görcsoldók | 0 | 0 | 0 |
 
-|  | j) Egyszerhasználatos injekcióstű | x |  |  |
+| 1.4. Idegrendszer |  |  |  |
 
-|  | k) Kanül a szájból szájba történő újraélesztéshez | x | x | x |
+| a) Feszültségoldó szerek | 0 | 0 | 0 |
 
-|  | l) Izolációs takaró | x | x | x |
+| b) Neuroleptikumok | 0 | 0 | 0 |
 
-| IV. Veszélyes árut szállító hajók kiegészítő felszerelése |
+| c) Tengeri betegség elleni szerek | 0 | 0 | 0 |
 
-| 1. | Gyógyszerek |  |  |  |
+| d) Epilepszia elleni szerek | 0 | 0 | 0 |
 
-|  | a) Cardiovascularis rendszeri | x | x |  |
+| 1.5. Allergiaellenes szerek és anafilaxia ellenes szerek |  |  |  |
 
-|  | b) Gyomor és bélrendszeri | x | x |  |
+| a) Antihisztaminikumok | 0 | 0 | 0 |
 
-|  | c) Idegrendszeri | x | x |  |
+| b) Glükokortikoidok | 0 | 0 | 0 |
 
-|  | d) Légzőrendszeri | x | x |  |
+| 1.6. Légzőrendszer |  |  |  |
 
-|  | e) Fertőzés elleni | x | x |  |
+| a) Hörgőgörcs elleni készítmények | 0 | 0 | 0 |
 
-|  | f) Külsőleges alkalmazásra | x | x |  |
+| b) Köhögéscsillapítók | 0 | 0 | 0 |
 
-|  | g) A rakomány mérgező hatásának megfelelő antidotum | x | x |  |
+| c) Meghűlés és arcüreggyulladás elleni szerek | 0 | 0 | 0 |
 
-| 2. | Orvosi felszerelés |  |  |  |
+| 1.7. Fertőzés elleni szerek |  |  |  |
 
-|  | Az oxigénlélegeztetéshez szükséges felszerelés | x | x | x |
+| a) Antibiotikumok (legalább két család) | 0 | 0 | 0 |
 
-3. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez
+| b) Parazitaellenes készítmények | 0 | 0 | 0 |
 
-## Tengeri hajók egészségügyi felszerelésének ellenőrző jegyzéke
+| c) Tetanusz elleni vakcinák és immunglobulinok | 0 | 0 | 0 |
 
-Tengeri hajók egészségügyi felszerelésének ellenőrző jegyzéke
+| d) Malária elleni gyógyszerek a működési területtől függően | 0 | 0 | 0 |
 
-1. A hajó adatai
+| 1.8. Rehidratációt, kalóriafelvételt elősegítő és plazmapótló szerek | 0 | 0 | 0 |
 
-Név:
+| 1.9. Külsőleg alkalmazandó gyógyszerek |  |  |  |
 
-Lobogó:
+| a) Bőrgyógyászati készítmények | 0 | 0 | 0 |
 
-Lajstromozási kikötő:
+| – Fertőtlenítő oldatok | 0 | 0 | 0 |
 
-2. Egészségügyi felszerelés:
+| – Antibiotikum-tartalmú kenőcsök | 0 | 0 | 0 |
 
-|  | Előírt mennyiség | Tényleges mennyiség | Megjegyzés (lejárat stb.) |
+| – Gyulladásgátló és fájdalomcsillapító kenőcsök | 0 | 0 | 0 |
 
-| I. Gyógyszerek 1. Cardiovascularis rendszer a) Szív- és érrendszeri analepticumok – sympathomimeticumok b) Angina ellenes készítmények c) Vizelethajtók d) Vérzéscsillapítók, ideértve az uterotonicumokat, amennyiben nők is tartózkodnak a fedélzeten e) Vérnyomáscsökkentők 2. Gastro-intestinalis rendszer a) Gyógyszerek gyomor- és nyombélpanaszokra – Histamin H2-receptor fekély ellenes antagonisták – Nyálkahártya-bevonatképző antacidumok b) Hányáscsillapítók c) Lubrikáns hashajtók d) Hasmenésgátlók e) Bélfertőtlenítő antisepticumok f) Aranyér ellenes készítmények g) Vasat, vitaminokat és ásványi anyagokat tartalmazó készítmények 3. Fájdalomcsillapítók és görcsoldók a) Fájdalomcsillapítók, lázcsillapítók és gyulladáscsökkentő készítmények b) Erős fájdalomcsillapítók c) Görcsoldók |
+| – Gombásodás elleni krémek | 0 | 0 | 0 |
 
-| 4. Idegrendszer a) Anxiolyticumok b) Neurolepticumok c) Tengeri betegség ellenes szerek d) Antiepilepticumok 5. Antiallergiás szerek és anti-anaphilaxiás szerek a) H1 antihistaminicumok b) Injektálható glucocorticoidok |
+| – Égési sérülések kezelésére szolgáló szerek | 0 | 0 | 0 |
 
-| 6. Légzőrendszer a) Hörgőgörcs ellenes készítmények b) Köhögéscsillapítók c) Meghűlés és arcüreggyulladás kezelésére szolgáló készítmények |
+| b) Szemészeti készítmények | 0 | 0 | 0 |
 
-| 7. Fertőzésellenes szerek a) Antibiotikumok (legalább két család) b) Antibakteriális szulfamid c) Húgyutak fertőtlenítőszerei d) Parazitaellenes készítmények e) Bélfertőtlenítők f) Tetanusz elleni vakcinák és immunglobulinok |
+| – Antibiotikumos és gyulladáscsökkentő szerek | 0 | 0 | 0 |
 
-| 8. Rehidratációt, kalóriafelvételt elősegítő és plazmapótló készítmények 9. Külsőleg alkalmazandó gyógyszerek a) Bőrgyógyászati készítmények – Fertőtlenítő oldatok – Antibiotikum-tartalmú kenőcsök – Gyulladásgátló és fájdalomcsillapító kenőcsök – Gombásodás ellenes krémek – Égési sérülések kezelésére szolgáló szerek b) Szemészeti készítmények – Antibiotikumcseppek – Antibiotikumos és gyulladásgátló cseppek – Érzéstelenítő cseppek – Szemnyomáscsökkentő cseppek c) Fülészeti készítmények – Antibiotikumoldatok – Érzéstelenítő és gyulladásgátló oldatok d) Száj- és torokfertőtlenítő szerek – Antibiotikum vagy fertőtlenítő szájöblítők e) Helyi érzéstelenítők – Fagyasztás útján ható helyi érzéstelenítők – Bőr alatti injekcióval bejuttatott helyi érzéstelenítők – Fogászati érzéstelenítők és fertőtlenítő keverékek 10. Antidiabetikus készítmények 11. Diagnosztikumok II. Orvosi felszerelések 1. Újraélesztő felszerelés a) Kézi újraélesztő készülék b) Oxigénlélegeztető készülék, nyomáscsökkentő szeleppel úgy, hogy a hajó üzemi oxigénellátása, illetve oxigéntartálya legyen használható c) Mechanikus szívókészülék a felső légutak tisztítására d) Kanül a szájból szájba történő újraélesztéshez |
+| – Érzéstelenítő cseppek | 0 | 0 | 0 |
 
-| 2. Kötöző- és sebvarró felszerelés a) Egyszerhasználatos sebkapcsoló vagy sebvarró készlet tűkkel b) Öntapadó rugalmas mullpólya c) Vágott géz d) Csőgéz ujj kötözéshez e) Steril géz nyomókötésekhez f) Gyapotvatta g) Steril lap égési sérültek számára h) Háromszögletű felkötőkendő i) Egyszerhasználatos polietilénkesztyűk j) Öntapadó sebkötözők k) Steril nyomókötések l) Öntapadó varratok vagy cinkoxid kötések m) Nem felszívódó varratok tűvel n) Vazelines géz |
+| – Fiziológiás sóoldat szemöblítéshez | 0 | 0 | 0 |
 
-| 3. Műtéti eszközök a) Egyszerhasználatos szikék b) Rozsdamentes műszerdoboz c) Terpesztő-csipeszek d) Vérzéscsillapító csipeszek e) Tűfogók f) Egyszerhasználatos borotvák g) Egyenes olló 4. Vizsgáló és monitorozóeszközök a) Egyszerhasználatos nyelvlapoc b) Tesztcsíkok vizeletvizsgálathoz c) Hőmérsékletgrafikonok d) Orvosi evakuálólapok e) Fonendoszkóp f) Aneroid vérnyomásmérő g) Normál orvosi hőmérő h) Alacsony hőmérsékleti hőmérő 5. Injekciós, perfúziós, lyukasztó és katéterező felszerelés a) Hólyagürítő készülékek b) Beöntéskészülék c) Egyszerhasználatos szűrős infúziós készülék d) Vizeletgyűjtő zsák e) Egyszerhasználatos fecskendők és tűk f) Katéter 6. Általános orvosi felszerelés a) Ágytál b) Melegvizes palack c) Vizeletgyűjtő palack d) Jégzsák e) Izolációs takaró |
+| – Szemnyomáscsökkentő cseppek | 0 | 0 | 0 |
 
-| 7. Rögzítő- és beállító eszközök a) Hajlítható ujjsín b) Hajlítható alkar- és kézsín c) Felfújható sín d) Combsín e) Nyakrögzítő gallér f) Thomas-sín vagy rögzítő matrac |
+| c) Fülészeti készítmények | 0 | 0 | 0 |
 
-| 8. Fertőtlenítés, féregtelenítés és megelőzés a) Vizes fertőtlenítőoldat b) Folyékony rovarirtó c) Rovarirtó por |
+| – Érzéstelenítő és gyulladáscsökkentő oldatok | 0 | 0 | 0 |
 
-Hely és dátum:
+| d) Száj- és torokfertőtlenítő szerek | 0 | 0 | 0 |
 
-A hajó parancsnokának aláírása:
+| – Fertőtlenítő szájöblítők | 0 | 0 | 0 |
 
-Az illetékes személy vagy hatóság hitelesítése:
+| e) Helyi érzéstelenítők | 0 | 0 | 0 |
+
+| – Fagyasztás útján ható helyi érzéstelenítők | 0 | 0 | 0 |
+
+| – Bőr alatti injekcióval bejuttatott helyi érzéstelenítők | 0 | 0 | 0 |
+
+| 2. ORVOSI ESZKÖZÖK |
+
+| 2.1. Újraélesztő felszerelés |  |
+
+| – Ambu zsák (vagy azzal egyenértékű eszköz); nagy, közepes és kis méretű maszkkal | 0 | 0 | 0 |
+
+| – Oxigénlélegeztető készülék, nyomáscsökkentő szeleppel úgy, hogy a hajó üzemi oxigénellátása, illetve oxigéntartálya legyen használható (1) | 0 | 0 | 0 |
+
+| – Mechanikus szívókészülék a felső légutak tisztítására | 0 | 0 | 0 |
+
+| 2.2. Kötöző- és sebvarró felszerelés |
+
+| – Érszorítók | 0 | 0 | 0 |
+
+| – Egyszer használatos sebkapcsoló vagy sebvarró készlet tűkkel | 0 | 0 | 0 |
+
+| – Öntapadó rugalmas mullpólya | 0 | 0 | 0 |
+
+| – Gézcsíkok | 0 | 0 | 0 |
+
+| – Csőgéz ujj kötözéshez | 0 | 0 | 0 |
+
+| – Steril géz nyomókötésekhez | 0 | 0 | 0 |
+
+| – Steril lap égési sérültek számára | 0 | 0 | 0 |
+
+| – Háromszögletű felkötőkendő | 0 | 0 | 0 |
+
+| – Eldobható gumikesztyűk | 0 | 0 | 0 |
+
+| – Öntapadó sebtapaszok | 0 | 0 | 0 |
+
+| – Steril nyomókötések | 0 | 0 | 0 |
+
+| – Öntapadó varratok vagy cinkoxid kötések | 0 | 0 | 0 |
+
+| – Nem felszívódó varratok tűvel | 0 | 0 | 0 |
+
+| – Vazelines géz | 0 | 0 | 0 |
+
+| 2.3. Műszerek |
+
+| – Egyszer használatos szikék | 0 | 0 | 0 |
+
+| – Megfelelő anyagból készült műszerdoboz | 0 | 0 | 0 |
+
+| – Olló | 0 | 0 | 0 |
+
+| – Terpesztő-csipeszek | 0 | 0 | 0 |
+
+| – Vérzéscsillapító csipeszek | 0 | 0 | 0 |
+
+| – Tűfogók | 0 | 0 | 0 |
+
+| – Egyszer használatos borotvák | 0 | 0 | 0 |
+
+| 2.4. Vizsgáló és ellenőrző felszerelés | 0 | 0 | 0 |
+
+| – Egyszer használatos nyelvlapoc | 0 | 0 | 0 |
+
+| – Tesztcsíkok vizeletvizsgálathoz | 0 | 0 | 0 |
+
+| – Hőmérsékletgrafikonok | 0 | 0 | 0 |
+
+| – Hordágyak | 0 | 0 | 0 |
+
+| – Sztetoszkóp | 0 | 0 | 0 |
+
+| – Vérnyomásmérő | 0 | 0 | 0 |
+
+| – Orvosi hőmérő | 0 | 0 | 0 |
+
+| – Alacsony hőmérsékleti hőmérő | 0 | 0 | 0 |
+
+| – Malária-gyorsteszt, a működési területtől függően | 0 | 0 | 0 |
+
+| 2.5. Injekciós, perfúziós, szúró és katéterező felszerelés | 0 | 0 | 0 |
+
+| – Hólyagürítő felszerelés (férfiak és nők számára) | 0 | 0 | 0 |
+
+| – Intravénás infúziós készlet | 0 | 0 | 0 |
+
+| – Egyszer használatos fecskendők és tűk | 0 | 0 | 0 |
+
+| 2.6. Általános orvosi eszközök | 0 | 0 | 0 |
+
+| – Személyi védőeszköz és ápolási felszerelés | 0 | 0 | 0 |
+
+| – Ágytál | 0 | 0 | 0 |
+
+| – Melegvizes palack | 0 | 0 | 0 |
+
+| – Vizeletgyűjtő palack | 0 | 0 | 0 |
+
+| – Jégzsák | 0 | 0 | 0 |
+
+| 2.7. Rögzítő- és beállító eszközök | 0 | 0 | 0 |
+
+| – Különböző méretű síneket tartalmazó készlet végtagokhoz | 0 | 0 | 0 |
+
+| – Nyakrögzítő gallér | 0 | 0 | 0 |
+
+| 2.8. Fertőtlenítés, féregtelenítés és megelőzés | 0 | 0 | 0 |
+
+| – Vízfertőtlenítő szer | 0 | 0 | 0 |
+
+| – Folyékony rovarirtó | 0 | 0 | 0 |
+
+| – Rovarirtó por | 0 | 0 | 0 |
+
+| 3. ELLENANYAGOK |
+
+| 3.1. Általános | 0 | 0 | 0 |
+
+| 3.2. Kardiovaszkuláris rendszer | 0 | 0 | 0 |
+
+| 3.3. Gasztrointesztinális rendszer | 0 | 0 | 0 |
+
+| 3.4. Idegrendszer | 0 | 0 | 0 |
+
+| 3.5. Légzőrendszer | 0 | 0 | 0 |
+
+| 3.6. Fertőzés elleni szerek | 0 | 0 | 0 |
+
+| 3.7. Külsőleges alkalmazásra | 0 | 0 | 0 |
+
+| 3.8. Egyéb | 0 | 0 | 0 |
+
+| 3.9. Oxigénlélegeztetéshez szükséges felszerelés (ideértve a karbantartási tartozékokat is) | 0 | 0 | 0 |
+
+| (1) A nemzeti jogszabályokban és/vagy gyakorlatban előírt használati feltételek mellett. |
+
+## Hely és dátum: ................................................................................................................................
+
+## A parancsnok aláírása: ...............................................................................................................….
+
+## Illetékes személy vagy hatóság általi jóváhagyás: ...........................................................………...
+
+## B. SZAKASZ
+
+## B. KATEGÓRIÁJÚ HAJÓK
+
+I. A hajó adatai
+
+## Név: .................................................................................................................................................
+
+## Lobogó: ............................................................................................................................................
+
+## Anyakikötő: ......................................................................................................................................
+
+II. Egészségügyi felszerelések
+
+|  | Szükséges mennyiségek | A fedélzeten ténylegesen szállított mennyiségek | Megjegyzések (különösen bármely lejárati időpont) |
+
+| 1. GYÓGYSZEREK |
+
+| 1.1. Kardiovaszkuláris rendszer |  |
+
+| a) Szív- és érrendszeri szimpatomimetikumok | 0 | 0 | 0 |
+
+| b) Angina elleni készítmények | 0 | 0 | 0 |
+
+| c) Vizelethajtók | 0 | 0 | 0 |
+
+| d) Vérzéscsillapítók, ideértve az uterotonicumokat, amennyiben nők is tartózkodnak a fedélzeten | 0 | 0 | 0 |
+
+| e) Vérnyomáscsökkentők | 0 | 0 | 0 |
+
+| 1.2. Gasztrointesztinális rendszer |  |  |  |
+
+| a) Gyógyszerek gyomor- és nyombélpanaszokra | 0 | 0 | 0 |
+
+| – Gyógyszer gyomorfekélyre és gyomorhurutra | 0 | 0 | 0 |
+
+| – Nyálkahártya-bevonatképző savlekötők | 0 | 0 | 0 |
+
+| b) Hányáscsillapítók | 0 | 0 | 0 |
+
+| c) Hasmenésgátlók | 0 | 0 | 0 |
+
+| d) Aranyér elleni készítmények | 0 | 0 | 0 |
+
+| 1.3. Fájdalomcsillapítók és görcsoldók |  |  |  |
+
+| a) Fájdalomcsillapítók, lázcsillapítók és gyulladáscsökkentő készítmények | 0 | 0 | 0 |
+
+| b) Erős fájdalomcsillapítók | 0 | 0 | 0 |
+
+| c) Görcsoldók | 0 | 0 | 0 |
+
+| 1.4. Idegrendszer |  |  |  |
+
+| a) Feszültségoldó szerek | 0 | 0 | 0 |
+
+| b) Neuroleptikumok | 0 | 0 | 0 |
+
+| c) Tengeri betegség elleni szerek | 0 | 0 | 0 |
+
+| d) Epilepszia elleni szerek | 0 | 0 | 0 |
+
+| 1.5. Allergiaellenes szerek és anafilaxia ellenes szerek |  |  |  |
+
+| a) Antihisztaminikumok | 0 | 0 | 0 |
+
+| b) Glükokortikoidok | 0 | 0 | 0 |
+
+| 1.6. Légzőrendszer |  |  |  |
+
+| a) Hörgőgörcs elleni készítmények | 0 | 0 | 0 |
+
+| b) Köhögéscsillapítók | 0 | 0 | 0 |
+
+| c) Meghűlés és arcüreggyulladás elleni szerek | 0 | 0 | 0 |
+
+| 1.7. Fertőzés elleni szerek |  |  |  |
+
+| a) Antibiotikumok (legalább két család) | 0 | 0 | 0 |
+
+| b) Parazitaellenes készítmények | 0 | 0 | 0 |
+
+| c) Tetanusz elleni vakcinák és immunglobulinok | 0 | 0 | 0 |
+
+| d) Malária elleni gyógyszerek a működési területtől függően | 0 | 0 | 0 |
+
+| 1.8. Rehidratációt, kalóriafelvételt elősegítő és plazmapótló szerek | 0 | 0 | 0 |
+
+| 1.9. Külsőleg alkalmazandó gyógyszerek |  |  |  |
+
+| a) Bőrgyógyászati készítmények | 0 | 0 | 0 |
+
+| – Fertőtlenítő oldatok | 0 | 0 | 0 |
+
+| – Antibiotikum-tartalmú kenőcsök | 0 | 0 | 0 |
+
+| – Gyulladásgátló és fájdalomcsillapító kenőcsök | 0 | 0 | 0 |
+
+| – Égési sérülések kezelésére szolgáló szerek | 0 | 0 | 0 |
+
+| b) Szemészeti készítmények | 0 | 0 | 0 |
+
+| – Antibiotikumos és gyulladáscsökkentő szerek | 0 | 0 | 0 |
+
+| – Érzéstelenítő cseppek | 0 | 0 | 0 |
+
+| – Fiziológiás sóoldat szemöblítéshez | 0 | 0 | 0 |
+
+| – Szemnyomáscsökkentő cseppek | 0 | 0 | 0 |
+
+| c) Fülészeti készítmények | 0 | 0 | 0 |
+
+| – Érzéstelenítő és gyulladáscsökkentő oldatok | 0 | 0 | 0 |
+
+| d) Száj- és torokfertőtlenítő szerek | 0 | 0 | 0 |
+
+| – Fertőtlenítő szájöblítők | 0 | 0 | 0 |
+
+| e) Helyi érzéstelenítők | 0 | 0 | 0 |
+
+| – Bőr alatti injekcióval bejuttatott helyi érzéstelenítők | 0 | 0 | 0 |
+
+| 2. ORVOSI ESZKÖZÖK |
+
+| 2.1. Újraélesztő felszerelés |
+
+| – Ambu zsák (vagy azzal egyenértékű eszköz); nagy, közepes és kis méretű maszkkal | 0 | 0 | 0 |
+
+| – Oxigénlélegeztető készülék, nyomáscsökkentő szeleppel úgy, hogy a hajó üzemi oxigénellátása, illetve oxigéntartálya legyen használható (1) | 0 | 0 | 0 |
+
+| – Mechanikus szívókészülék a felső légutak tisztítására | 0 | 0 | 0 |
+
+| 2.2. Kötöző- és sebvarró felszerelés |
+
+| – Érszorítók | 0 | 0 | 0 |
+
+| – Egyszer használatos sebkapcsoló vagy sebvarró készlet tűkkel | 0 | 0 | 0 |
+
+| – Öntapadó rugalmas mullpólya | 0 | 0 | 0 |
+
+| – Gézcsíkok | 0 | 0 | 0 |
+
+| – Steril géz nyomókötésekhez | 0 | 0 | 0 |
+
+| – Steril lap égési sérültek számára | 0 | 0 | 0 |
+
+| – Háromszögletű felkötőkendő | 0 | 0 | 0 |
+
+| – Eldobható gumikesztyűk | 0 | 0 | 0 |
+
+| – Öntapadó sebtapaszok | 0 | 0 | 0 |
+
+| – Steril nyomókötések | 0 | 0 | 0 |
+
+| – Öntapadó varratok vagy cinkoxid kötések | 0 | 0 | 0 |
+
+| – Vazelines géz | 0 | 0 | 0 |
+
+| 2.3. Műszerek |
+
+| – Megfelelő anyagból készült műszerdoboz | 0 | 0 | 0 |
+
+| – Olló | 0 | 0 | 0 |
+
+| – Terpesztő-csipeszek | 0 | 0 | 0 |
+
+| – Vérzéscsillapító csipeszek | 0 | 0 | 0 |
+
+| 2.4. Vizsgáló és ellenőrző felszerelés | 0 | 0 | 0 |
+
+| – Egyszer használatos nyelvlapoc | 0 | 0 | 0 |
+
+| – Hordágyak | 0 | 0 | 0 |
+
+| – Sztetoszkóp | 0 | 0 | 0 |
+
+| – Vérnyomásmérő | 0 | 0 | 0 |
+
+| – Orvosi hőmérő | 0 | 0 | 0 |
+
+| – Alacsony hőmérsékleti hőmérő | 0 | 0 | 0 |
+
+| – Malária-gyorsteszt, a működési területtől függően | 0 | 0 | 0 |
+
+| 2.5. Injekciós, perfúziós, szúró és katéterező felszerelés | 0 | 0 | 0 |
+
+| – Intravénás infúziós készlet | 0 | 0 | 0 |
+
+| – Egyszer használatos fecskendők és tűk | 0 | 0 | 0 |
+
+| 2.6. Általános orvosi eszközök | 0 | 0 | 0 |
+
+| – Személyi védőeszköz és ápolási felszerelés | 0 | 0 | 0 |
+
+| 2.7. Rögzítő- és beállító eszközök | 0 | 0 | 0 |
+
+| – Különböző méretű síneket tartalmazó készlet végtagokhoz | 0 | 0 | 0 |
+
+| – Nyakrögzítő gallér | 0 | 0 | 0 |
+
+| 3. ELLENANYAGOK |
+
+| 3.1. Általános | 0 | 0 | 0 |
+
+| 3.2. Kardiovaszkuláris rendszer | 0 | 0 | 0 |
+
+| 3.3. Gasztrointesztinális rendszer | 0 | 0 | 0 |
+
+| 3.4. Idegrendszer | 0 | 0 | 0 |
+
+| 3.5. Légzőrendszer | 0 | 0 | 0 |
+
+| 3.6. Fertőzés elleni szerek | 0 | 0 | 0 |
+
+| 3.7. Külsőleges alkalmazásra | 0 | 0 | 0 |
+
+| 3.8. Egyéb | 0 | 0 | 0 |
+
+| 3.9. Oxigénlélegeztetéshez szükséges felszerelés (ideértve a karbantartási tartozékokat is) | 0 | 0 | 0 |
+
+| (1) A nemzeti jogszabályokban és/vagy gyakorlatban előírt használati feltételek mellett. |
+
+## Hely és dátum: ....................................................................................................................
+
+## A parancsnok aláírása: .......................................................................................................
+
+## Illetékes személy vagy hatóság általi jóváhagyás: .............................................................
+
+## C. SZAKASZ
+
+## C. KATEGÓRIÁJÚ HAJÓK
+
+I. A hajó adatai
+
+## Név: ......................................................................................................................................
+
+## Lobogó: ................................................................................................................................
+
+## Anyakikötő: ..........................................................................................................................
+
+II. Egészségügyi felszerelések
+
+[^17]: A 3. számú melléklet a 46/2021. (IX. 13.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.

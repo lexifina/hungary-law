@@ -88,6 +88,6 @@
 
 |  | Az oxigénlélegeztetéshez szükséges felszerelés |  | x | x |
 
-2. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez[^15]
+2. számú melléklet a 6/2000. (III. 17.) KHVM rendelethez[^16]
 
-[^15]: A 2. számú melléklet a 66/2015. (XI. 18.) NFM rendelet 5. § b) pontja szerint módosított szöveg.
+[^16]: A 2. számú melléklet a 46/2021. (IX. 13.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
