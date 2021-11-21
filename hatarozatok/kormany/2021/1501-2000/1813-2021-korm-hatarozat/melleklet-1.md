@@ -22,15 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont fab) alpontjában a „127,11%-áig” szövegrész helyébe a „128,12%-áig” szöveg,
-
-## b) 1. melléklet 3. pontjában foglalt táblázat C:2 mezőjében a „294,371” szövegrész helyébe a „296,717” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:76a mezőjében a „13,7” szövegrész helyébe a „14,43” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1813/2021. (XI. 19.) Korm. határozathoz
 
@@ -43,3 +35,5 @@
 | 3. | Projekt le nem vonható, az Európai Unió (a továbbiakban: EU) felé el nem számolható általános forgalmi adó (a továbbiakban: ÁFA) IKOP hazai társfinanszírozás terhére (milliárd forint) | Az EU felé nem elszámolható egyéb költségek IKOP hazai társfinanszírozás terhére (forint) | Projekt le nem vonható, az EU felé el nem számolható ÁFA IKOP hazai társfinanszírozás terhére (milliárd forint) | Az EU felé nem elszámolható egyéb költségek IKOP hazai társfinanszírozás terhére (milliárd forint) | Projekt le nem vonható, az EU felé el nem számolható általános forgalmi adó (a továbbiakban: ÁFA) IKOP hazai társfinanszírozás terhére (milliárd forint) | Az EU felé nem elszámolható egyéb költségek (XIX. Uniós fejlesztések fejezet IKOP hazai társfinanszírozás terhére) (milliárd forint) |
 
 | 4. | IKOP-3.10-15- 2019-00019 | H5–H6/H7 vonalak összekötése – az észak-déli városi-elővárosi gyorsvasút fejlesztésének előkészítése | Budapest Fejlesztési Központ Zrt. (konzorcium- vezető) és a MÁV-HÉV Helyiérdekű Vasút Zártkörűen Működő Részvénytársaság konzorciuma | 100% | 10,908 | 0 | 2,685 | 0 | 3,518 | 0 | 0,929 | 0 | 14,426 | 0 | 3,614 | 0 | 14,426 | H5 HÉV-vonal Békásmegyer–Szentendre szakasza, valamint a H6/H7 HÉV-vonalak rekonstrukciójának és utóbbiak Kálvin térig történő meghosszabbításának teljes körű előkészítése, a kivitelezésre irányuló közbeszerzési eljárás megindításához szükséges tartalmú és részletezettségű terveinek, tenderdokumentációjának elkészítése, továbbá az északi és déli HÉV-vonalak összekötésének Részletes Megvalósíthatósági Tanulmány szintű előkészítése. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
