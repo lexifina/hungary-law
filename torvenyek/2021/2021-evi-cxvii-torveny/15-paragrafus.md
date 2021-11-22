@@ -1,3 +1,0 @@
-## 3. Záró rendelkezések
-
-15. § Ez a törvény a kihirdetését követő harmadik napon lép hatályba.
