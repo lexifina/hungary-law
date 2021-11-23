@@ -1,6 +1,6 @@
-## 14. §[^36]
+## 14. §[^40]
 
-1. melléklet a 479/2020. (XI. 3.) Korm. rendelethez[^37]
+1. melléklet a 479/2020. (XI. 3.) Korm. rendelethez[^41]
 
 |  | A | B |
 
@@ -42,5 +42,5 @@
 
 | 19. | Záhonyi Járási Hivatal | Záhony |
 
-[^36]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: Az 1. mellékletet a 337/2021. (VI. 11.) Korm. rendelet 2. §-a iktatta be.
+[^40]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: Az 1. mellékletet a 337/2021. (VI. 11.) Korm. rendelet 2. §-a iktatta be.

@@ -26,6 +26,14 @@ b) a tartózkodási engedéllyel rendelkező személyek esetében az útlevél o
 
 (10)[^16] A Belügyminisztérium az (5) bekezdés szerinti kérelmező esetében az összerendelési nyilvántartás útján vizsgálja, hogy az érintett Társadalombiztosítási Azonosító Jellel rendelkezik-e. Amennyiben az érintett rendelkezik Társadalombiztosítási Azonosító Jellel, erről az EESZT működtetőjét az adatok átadása során tájékoztatja. Az EESZT működtetője a Társadalombiztosítási Azonosító Jellel rendelkező részére nem hoz létre technikai azonosítót.
 
+(11)[^17] Ha az érintett Társadalombiztosítási Azonosító Jellel rendelkezik, az oltási regisztráció véglegezése érdekében az EESZT működtetője az érintett Társadalombiztosítási Azonosító Jelét, valamint a (7) bekezdés szerinti adatait átadja a NEAK részére.
+
+(12)[^18] Azt a (11) bekezdés szerinti érintettet, aki a regisztráció során Társadalombiztosítási Azonosító Jeléről nem nyilatkozott, az EESZT működtetője
+
+a) tájékoztatja arról, hogy a regisztrációja sikeres volt, ugyanakkor az oltás beadásának időpontjára az időpontfoglaló felületen a Társadalombiztosítási Azonosító Jele megadásával jelentkezhet, valamint
+
+b) a regisztráció során megadott elektronikus levélcímén a Társadalombiztosítási Azonosító Jeléről tájékoztatja.
+
 [^9]: A 6/B. alcímet (9/B. §) a 42/2021. (II. 2.) Korm. rendelet 1. §-a iktatta be.
 [^10]: A 9/B. § (1) bekezdése a 132/2021. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 146/2021. (III. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^11]: A 9/B. § (5) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
@@ -34,3 +42,5 @@ b) a tartózkodási engedéllyel rendelkező személyek esetében az útlevél o
 [^14]: A 9/B. § (8) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
 [^15]: A 9/B. § (9) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
 [^16]: A 9/B. § (10) bekezdését a 221/2021. (V. 3.) Korm. rendelet 1. §-a iktatta be.
+[^17]: A 9/B. § (11) bekezdését a 616/2021. (XI. 8.) Korm. rendelet 1. §-a iktatta be.
+[^18]: A 9/B. § (12) bekezdését a 616/2021. (XI. 8.) Korm. rendelet 1. §-a iktatta be.
