@@ -6,19 +6,29 @@
 
 ## c)[^2] a kiemelt társadalmi igényeken alapuló közútfejlesztések keretében megvalósuló Gyöngyös nyugati elkerülő út I. részének megvalósításához szükséges intézkedésekről szóló 1803/2021. (XI. 16.) Korm. határozatra –
 
+## d)[^3] a komplex közútfelújítási és -fejlesztési feladatok megvalósítása érdekében szükséges intézkedésekről szóló 1820/2021. (XI. 25.) Korm. határozat 3. pontjában foglalt közútfejlesztésekre
+
 ## (a továbbiakban együtt: kormányhatározatok) a következőkről dönt.
 
-## 2.[^3] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, Fejezeti kezelésű előirányzatok cím, Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, Közlekedési fejlesztések jogcímcsoport, Térségi közúti beruházások jogcím terhére vállalható kötelezettségek mértékét az 1. melléklet szerint állapítja meg.:
+## 2.[^4] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, Fejezeti kezelésű előirányzatok cím, Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, Közlekedési fejlesztések jogcímcsoport, Térségi közúti beruházások jogcím terhére vállalható kötelezettségek mértékét
 
-## a)[^4]
+## a) 2022-ben az 1. melléklet szerinti táblázat C oszlopában,
 
-## b)[^5]
+## b) 2023-ban az 1. melléklet szerinti táblázat D oszlopában,
 
-## c)[^6]
+## c) 2024-ben az 1. melléklet szerinti táblázat E oszlopában,
 
-## 3.[^7] A Kormány az Áht. 36. § (4b) pontjában biztosított jogkörében eljárva előzetesen jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a kormányhatározatokban szereplő fejlesztések végrehajtása érdekében legfeljebb az 1. melléklet szerinti táblázat I oszlopának összegében kötelezettséget vállaljon.
+## d) 2025-ben az 1. melléklet szerinti táblázat F oszlopában,
 
-1. melléklet az 1668/2021. (IX. 28.) Korm. határozathoz[^8]
+## e) 2026-ban az 1. melléklet szerinti táblázat G oszlopában,
+
+## f) 2027-ben az 1. melléklet szerinti táblázat H oszlopában
+
+## szereplő soronkénti részösszegek összegében állapítja meg.
+
+## 3.[^5] A Kormány az Áht. 36. § (4b) pontjában biztosított jogkörében eljárva előzetesen jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a kormányhatározatokban szereplő fejlesztések végrehajtása érdekében legfeljebb az 1. melléklet szerinti táblázat I oszlopának összegében kötelezettséget vállaljon.
+
+1. melléklet az 1668/2021. (IX. 28.) Korm. határozathoz[^6]
 
 A kötelezettségvállalás mértéke a Térségi közúti beruházások előirányzaton
 
@@ -34,11 +44,11 @@ adatok forintban
 
 | 4. | 1803/2021. (XI. 16.) Korm. határozat | 90 000 000 | 474 067 280 | 0 | 0 | 0 | 0 | 0 | 564 067 280 |
 
+| 5. | 1820/2021. (XI. 25.) Korm. határozat 3. pontja | 5 700 000 000 | 18 000 000 000 | 24 765 082 329 | 12 287 799 701 | 0 | 0 | 0 | 60 752 882 030 |
+
 [^1]: Az 1. pont az 1779/2021. (XI. 2.) Korm. határozat 4. pont a) alpontjával megállapított szöveg.
 [^2]: Az 1. pont c) alpontját az 1803/2021. (XI. 16.) Korm. határozat 2. pontja iktatta be.
-[^3]: A 2. pont az 1779/2021. (XI. 2.) Korm. határozat 4. pont b)–c) alpontja szerint módosított szöveg.
-[^4]: A határozat a) pontját az 1779/2021. (XI. 2.) Korm. határozat 6. pont a) alpontja hatályon kívül helyezte.
-[^5]: A határozat b) pontját az 1779/2021. (XI. 2.) Korm. határozat 6. pont a) alpontja hatályon kívül helyezte.
-[^6]: A határozat c) pontját az 1779/2021. (XI. 2.) Korm. határozat 6. pont a) alpontja hatályon kívül helyezte.
-[^7]: A 3. pontot az 1779/2021. (XI. 2.) Korm. határozat 2. pontja iktatta be.
-[^8]: Az 1. mellékletet az 1779/2021. (XI. 2.) Korm. határozat 3. pontja iktatta be, szövege az 1803/2021. (XI. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: Az 1. pont d) alpontját az 1820/2021. (XI. 25.) Korm. határozat 7. pontja iktatta be.
+[^4]: A 2. pont az 1820/2021. (XI. 25.) Korm. határozat 6. pontjával megállapított szöveg.
+[^5]: A 3. pontot az 1779/2021. (XI. 2.) Korm. határozat 2. pontja iktatta be.
+[^6]: Az 1. mellékletet az 1779/2021. (XI. 2.) Korm. határozat 3. pontja iktatta be, szövege az 1803/2021. (XI. 16.) Korm. határozat 3. pontja, az 1820/2021. (XI. 25.) Korm. határozat 8. pontja szerint módosított szöveg.
