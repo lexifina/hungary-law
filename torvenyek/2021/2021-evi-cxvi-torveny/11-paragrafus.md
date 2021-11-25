@@ -1,0 +1,1 @@
+11. § Az Országgyűlés megállapítja, hogy a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény végrehajtásáról szóló 2020. évi CXVII. törvény 12–13. §-ában előírt megtérítési, visszautalási és elszámolási kötelezettségek teljesítése megtörtént.
