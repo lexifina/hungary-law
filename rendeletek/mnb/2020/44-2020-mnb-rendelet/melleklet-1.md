@@ -1,8 +1,6 @@
-## 15. §[^1]
-
 1. melléklet a 44/2020. (XI. 20.) MNB rendelethez
 
-## A biztosítási piaci szervezetek felügyeleti jelentéseire vonatkozó általános kitöltési előírások
+A biztosítási piaci szervezetek felügyeleti jelentéseire vonatkozó általános kitöltési előírások
 
 1. Kapcsolódó jogszabályok
 
@@ -121,5 +119,3 @@ A táblák szöveges mezőibe történő adatbevitelkor vessző karakter nem has
 4.4. A felügyeleti jelentés egyes tábláiban használt eszközalap azonosító kód egy, az adatszolgáltató által kialakított, az egyes eszközalapokat azonosító hatjegyű kód. Ugyanazt az eszközalapot mindig azonos kódszámmal kell jelölni, új eszközalapba történő befektetéskor a biztosítónak új azonosító kódot kell alkalmaznia. Megszűnt eszközalap kódja ismételten nem használható fel.
 
 A hatjegyű kódot az adatszolgáltatónak úgy kell megképeznie, hogy annak első 2 karaktere egyértelműen utaljon a biztosító nevére, amit közvetlenül követ egy négy számjegyből álló kombináció. Amennyiben több biztosító nevének azonos a két kezdőbetűje, úgy javasolt az első kezdőbetűt követően egy jellegzetes további betű alkalmazása.
-
-[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

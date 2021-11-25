@@ -1,5 +1,3 @@
-## Kisbiztosító-egyesületnek nem minősülő kisbiztosító aktuáriusi jelentése kitöltésére vonatkozó részletes előírások
-
 ## I.
 
 ## A felügyeleti jelentésre vonatkozó általános szabályok
@@ -330,4 +328,6 @@
 
 ## Amennyiben a biztosító a szükséges adatok hiánya miatt az aktuáriusi jelentésben szereplő bármelyik értéket közelítő eljárás alkalmazásával határozta meg, a szöveges jelentésben részletezni kell a hiányzó adatok körét, az adathiány megszüntetésére tett intézkedéseket és az alkalmazott közelítő eljárást.
 
-6. melléklet a 44/2020. (XI. 20.) MNB rendelethez
+6. melléklet a 44/2020. (XI. 20.) MNB rendelethez[^5]
+
+[^5]: A 6. melléklet az 58/2021. (XI. 24.) MNB rendelet 4. § (2) bekezdésével megállapított szöveg.

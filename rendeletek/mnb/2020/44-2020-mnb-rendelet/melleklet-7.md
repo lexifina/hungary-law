@@ -1,6 +1,4 @@
-## 20202C20000044_3
-
-7. melléklet a 44/2020. (XI. 20.) MNB rendelethez
+7. melléklet a 44/2020. (XI. 20.) MNB rendelethez[^6]
 
 A kisbiztosítónak nem minősülő biztosító felügyeleti jelentése kitöltésére vonatkozó részletes előírások
 
@@ -26,7 +24,7 @@ A 42Y1E1, 42Y1E2, 42Y1E3, 42Y14B, 42Y24, 42Q1E1, 42Q1E2, 42Q1E3 és 42Q14A1 kód
 
 A biztosítási termékcsoportok meghatározása a Bit. 4. § (1) bekezdés 10. pontjának figyelembevételével történt.
 
-A termékcsoportos táblákban egy biztosítási szerződést csak egy termékcsoportba, illetve a Bit. 4. § (1) bekezdés 47. pontjában meghatározott jellemző kockázat szerint kell besorolni. A biztosító teljes szerződésállományát be kell sorolni a táblákban szereplő termékcsoportok valamelyikébe és ezt a besorolást következetesen kell alkalmazni az érintett szerződésre vonatkozó minden további információra vonatkozóan és a különböző jelentési időszakokban.
+A termékcsoportos táblákban egy biztosítási szerződést csak egy termékcsoportba, illetve a Bit. 4. § (1) bekezdés 47. pontjában meghatározott jellemző kockázat szerint kell besorolni. A biztosító teljes szerződésállományát be kell sorolni a táblákban szereplő termékcsoportok valamelyikébe, és ezt a besorolást következetesen kell alkalmazni az érintett szerződésre vonatkozó minden további információra vonatkozóan és a különböző jelentési időszakokban.
 
 Amennyiben egy biztosítási szerződés több termékcsoportba is besorolható, úgy elsősorban nem a jellemző kockázat szerint kell bemutatni, hanem a meghatározó termék jellege alapján, pl. nyugdíjbiztosítás, hitelbiztosítás, egészségbiztosítás. Például, ha egy indexhez- vagy befektetési egységekhez kötött életbiztosítás hitelfedezeti záradékkal rendelkezik, ezt a szerződést a Hitelfedezeti záradékkal ellátott életbiztosítások között kell jelenteni. Továbbá, ha egy lakossági vagyonbiztosítás (lakásbiztosítás) hitelfedezeti záradékkal van ellátva, azt a szerződést és a szerződéshez kapcsolódó információkat nem a lakásbiztosításnál, hanem a hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás soron kell bemutatni mindaddig, amíg a záradék a szerződésen szerepel. Ha a nyugdíjbiztosítás vagy hitelfedezeti záradékkal ellátott életbiztosítási szerződés mögött hagyományos életbiztosítás jellegű termékek, illetve indexhez vagy befektetési egységekhez kötött életbiztosítás áll, úgy ezt a szerződést és a kapcsolódó információkat csak a nyugdíj vagy hitelfedezeti termék soron lehet bemutatni.
 
@@ -58,13 +56,13 @@ Egyéb felelősségbiztosítás: itt a tevékenységi felelősségbiztosítások
 
 Szakmai felelősségbiztosítás: olyan felelősségbiztosítási szerződés, amely alapján a biztosító azokat a károkat téríti meg, amelyek a szerződésben nevesített szakma vagy hivatás (pl. orvos, gyógyszerész, könyvvizsgáló, bróker) folytatóját terhelik olyan károkozás kapcsán, ahol a felelősségük megállapítható. Idesorolható biztosítás a vezető tisztségviselők felelősségbiztosítása is.
 
-Hitelfedezeti biztosítás nem-életbiztosítási szerződésekből: itt kell bemutatni mindazokat a hitelfedezeti biztosításokat, melyek jellemzően nem-életbiztosítási kockázatokat fedeznek és nem sorolhatók be a lakossági vagyonbiztosítások közé.
+Hitelfedezeti biztosítás nem-életbiztosítási szerződésekből: itt kell bemutatni mindazokat a hitelfedezeti biztosításokat, melyek jellemzően nem-életbiztosítási kockázatokat fedeznek, és nem sorolhatók be a lakossági vagyonbiztosítások közé.
 
 Szállítmány és fuvarozói biztosítás: itt azokat a szállítmányozásra vonatkozó szerződéseket és ahhoz kapcsolódó információkat kell bemutatni, amelyek a légi-, szárazföldi-, a közúti-, vasúti- és vízi szállítmányozásra, áruszállításra terjednek ki. A szerződéssel lefedett kockázat kiterjedhet az áru megromlása, megsérülése, balesetre, szállítás közbeni bűncselekményre stb. hazánkban és a nemzetközi árufuvarozásban egyaránt.
 
 Utasbiztosítás: ide kell besorolni az önálló utasbiztosításokat, melyek egyaránt tartalmazhatnak baleset, betegség, pénzügyi veszteség (csomag kár), segítségnyújtási stb. elemeket.
 
-Balesetbiztosítás: olyan biztosítási szerződés, amely a baleset bekövetkezése esetén nyújt szolgáltatást a biztosított vagy annak halála esetén a kedvezményezett részére. Ide az önálló, jellemzően baleseti kockázatra kötött szerződés sorolandó, amely fő biztosításként baleseti kockázatra (baleseti halál, baleseti rokkantság, balesetből eredő kórházi kezelés térítésére stb.) került megkötésre és nem sorolható sem az utasbiztosítás-, sem a munkáltatói felelősségbiztosítási termékcsoportba.
+Balesetbiztosítás: olyan biztosítási szerződés, amely a baleset bekövetkezése esetén nyújt szolgáltatást a biztosított vagy annak halála esetén a kedvezményezett részére. Ide az önálló, jellemzően baleseti kockázatra kötött szerződés sorolandó, amely fő biztosításként baleseti kockázatra (baleseti halál, baleseti rokkantság, balesetből eredő kórházi kezelés térítésére stb.) került megkötésre, és nem sorolható sem az utasbiztosítás-, sem a munkáltatói felelősségbiztosítási termékcsoportba.
 
 Itt kell bemutatni a közlekedési vállalatokkal kötött csoportos balesetbiztosításokat is.
 
@@ -80,7 +78,7 @@ Különböző pénzügyi veszteségek elleni biztosítás: itt kell bemutatni a 
 
 Életbiztosítási termékcsoportok
 
-A hagyományos, indexhez vagy befektetési egységekhez kötött életbiztosítási termékcsoportok besorolása alapvetően nem változik a korábbi gyakorlathoz képest. Fő eltérést jelent, hogy azokat az életbiztosításokat, melyek hitelekhez kapcsolódnak, hitelfedezeti záradékkal vannak ellátva, azokat a hitelfedezeti életbiztosítások között kell kimutatni. Azon életbiztosítások, melyek megfelelnek a nyugdíj célú megtakarítás feltételeinek és nyugdíjbiztosításként kerültek megkötésre, azokat a nyugdíjbiztosítások között kell szerepeltetni. A hagyományos (haláleseti, elérési, vegyes) életbiztosítási szerződésben meghatározott összegen felüli szolgáltatás mellett egészségügyi szolgáltatásfinanszírozás is megjelenik, melynek keretében a biztosítóval szerződött - pl. magán, állami vagy önkormányzati - kórházakban a biztosító átvállalja a biztosított ténylegesen felmerülő, meghatározott költségeit, úgy ezeket a szerződéseket az egészségbiztosítás soron kell bemutatni.
+A hagyományos, indexhez vagy befektetési egységekhez kötött életbiztosítási termékcsoportok besorolása alapvetően nem változik a korábbi gyakorlathoz képest. Fő eltérést jelent, hogy azokat az életbiztosításokat, melyek hitelekhez kapcsolódnak, hitelfedezeti záradékkal vannak ellátva, azokat a hitelfedezeti életbiztosítások között kell kimutatni. Azon életbiztosítások, melyek megfelelnek a nyugdíj célú megtakarítás feltételeinek, és nyugdíjbiztosításként kerültek megkötésre, azokat a nyugdíjbiztosítások között kell szerepeltetni. A hagyományos (haláleseti, elérési, vegyes) életbiztosítási szerződésben meghatározott összegen felüli szolgáltatás mellett egészségügyi szolgáltatásfinanszírozás is megjelenik, melynek keretében a biztosítóval szerződött - pl. magán, állami vagy önkormányzati - kórházakban a biztosító átvállalja a biztosított ténylegesen felmerülő, meghatározott költségeit, úgy ezeket a szerződéseket az egészségbiztosítás soron kell bemutatni.
 
 Egészségbiztosítás: olyan biztosítási szerződések, melyben a biztosító azt a kötelezettséget vállalja, hogy az ügyfélnek egészségbiztosítási szolgáltatások finanszírozását nyújtja.
 
@@ -90,7 +88,7 @@ Hitelfedezeti záradékkal ellátott életbiztosítás: itt kell mindazokat a ha
 
 A csoportos hitelfedezeti életbiztosítás külön soron kerül bemutatásra. A csoportos hitelfedezeti biztosítás esetében a jelzálog-, lakáshitelt nyújtó, illetve hitelkártya kibocsátó hitelintézet közvetlenül a biztosítóval köt szerződést, ezekben a szerződésekben többnyire a rokkantság és a haláleseti kockázat szerepel.
 
-Csoportos életbiztosítás: ezen a soron mindazon csoportos élet-, baleset- és betegség biztosításokat kell megjeleníteni, melyek a hitelfedezeti célú csoportos életbiztosításba nem tartoznak, vagyis melyek nem hitelintézettel mint szerződővel kerültek megkötésre.
+Csoportos életbiztosítás: ezen a soron mindazon csoportos élet-, baleset- és betegség biztosításokat kell megjeleníteni, melyek a hitelfedezeti célú csoportos életbiztosításba nem tartoznak, vagyis melyek nem hitelintézettel, mint szerződővel kerültek megkötésre.
 
 Életbiztosításokhoz kapcsolódó baleset és betegség kiegészítő biztosítás: Az ezen biztosításokra vonatkozó információkat tájékoztató jelleggel, önállóan, külön soron kell bemutatni úgy, hogy a szerződés darabszámához hasonlóan a kiegészítő biztosításhoz kapcsolódó további adatok e soron történő bemutatása nem befolyásolja a fő biztosítási terméknél jelentett adatokat, vagyis a fő termékről a kiegészítő biztosítási részt pl. a díjadatokat nem kell leválasztani. Mivel a termékcsoportok hierarchiájában ez a sor függetlenül, önállóan szerepel, a beírt értékek nem okoznak halmozódást.
 
@@ -116,7 +114,7 @@ A nyitóállománynak meg kell egyeznie az előző év december 31-ei záróáll
 
 Az egy szerződővel (például egy munkaadóval) kötött csoportos biztosítás egy darabnak számít.
 
-Külön sorokon kell bemutatni a folyamatos, illetve az egyszeri díjas szerződéseket. A tárgyidőszakon belül kötött és még ugyanazon évben megszűnt szerződéseket egyrészt szaporulatként, másrészt állományvesztésként (megszűnés oka szerinti megbontásban) is be kell mutatni. A szaporulat részeként külön is szükséges bemutatni a reaktivált szerződések darabszámát (6. oszlop) a törlések figyelembevételével nettósított szaporulatot (7.oszlop) és a módosított, átdolgozott, átsorolt szerződések darabszámát (8.oszlop). Azon szerződéseket, amelyekre egyúttal értékkövetést is alkalmaztak, az értékkövetés bemutatására szolgáló oszlopok egyikében is fel kell tüntetni.
+Külön sorokon kell bemutatni a folyamatos, illetve az egyszeri díjas szerződéseket. A tárgyidőszakon belül kötött és még ugyanazon évben megszűnt szerződéseket egyrészt szaporulatként, másrészt állományvesztésként (megszűnés oka szerinti megbontásban) is be kell mutatni. A szaporulat részeként külön is szükséges bemutatni a reaktivált szerződések darabszámát (6. oszlop) a törlések figyelembevételével nettósított szaporulatot (7.oszlop), és a módosított, átdolgozott, átsorolt szerződések darabszámát (8.oszlop). Azon szerződéseket, amelyekre egyúttal értékkövetést is alkalmaztak, az értékkövetés bemutatására szolgáló oszlopok egyikében is fel kell tüntetni.
 
 Az adatszolgáltatásban az értékkövetés alatt a Bit. 4. § (1) bekezdés 27. pontjában foglaltak értendők.
 
@@ -130,7 +128,7 @@ Az oszlop tartalmazza a tárgyévet megelőző év december 31-én hatályban l�
 
 2. oszlop Élő szerződések értékkövetéséből eredő díjnövekedéssel érintett szerződések száma
 
-Az oszlopban az értékkövetésből eredő díjnövekedéssel érintett állomány darabszámát kell szerepeltetni és a január 1-jei növekedéssel érintett állományokat is a 2. oszlop tartalmazza.
+Az oszlopban az értékkövetésből eredő díjnövekedéssel érintett állomány darabszámát kell szerepeltetni, és a január 1-jei növekedéssel érintett állományokat is a 2. oszlop tartalmazza.
 
 3. oszlop Élő szerződések értékkövetéséből eredő díjcsökkenéssel érintett szerződések száma
 
@@ -138,11 +136,11 @@ Az oszlopban az értékkövetésből eredő díjcsökkenéssel érintett állom�
 
 5. oszlop 4. oszlopból: Új szerződés
 
-Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 6. oszlop 4. oszlopból: Visszakötött szerződés (MFO) / Reaktivált szerződések (É)
 
-Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 Életbiztosítási üzletágak esetében ebben az oszlopban kell bemutatni a tárgyévben reaktivált szerződések számát.
 
@@ -188,7 +186,11 @@ Lakossági vagyonbiztosítás = lakásbiztosítások (egyéni) + társasházbizt
 
 42Y1E1110111 és 42Y1E1120111 sor ebből Minősített Fogyasztóbarát Otthonbiztosítás
 
-Itt kell jelenteni a Minősített Fogyasztóbarát Otthonbiztosítás darabszámát.
+Itt kell jelenteni az egyéni lakásbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítás darabszámát.
+
+42Y1E1110131 és 42Y1E1120131 sor ebből Minősített Fogyasztóbarát Otthonbiztosítás
+
+Itt kell jelenteni a hitelfedezeti záradékkal ellátott lakossági vagyonbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítások darabszámát.
 
 42Y1E11103 és 42Y1E11203 sor Vállalati vagyonbiztosítás (kivéve KKV-k)
 
@@ -206,7 +208,7 @@ Szakmai felelősségbiztosítás = vezető tisztségviselők felelősségbiztos�
 
 42Y1E11108 és 42Y1E11208 sor Hitelfedezeti biztosítás nem-életbiztosítási szerződésekből (kivéve hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás)
 
-Itt kell bemutatni mindazokat a nem-életbiztosítási szerződéseket, melyek – függetlenül a szerződésben vállalt egyéb kockázatoktól – hitelfedezeti célokat is szolgálnak és nem hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítások.
+Itt kell bemutatni mindazokat a nem-életbiztosítási szerződéseket, melyek – függetlenül a szerződésben vállalt egyéb kockázatoktól – hitelfedezeti célokat is szolgálnak, és nem hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítások.
 
 42Y1E11109 és 42Y1E11209 sor Szállítmány és fuvarozói biztosítás
 
@@ -222,7 +224,7 @@ Ezeken a sorokon csak azokat az életbiztosításokat kell feltüntetni, melyek 
 
 42Y1E12106 és 42Y1E12206 sor Nyugdíjbiztosítás Szja tv. szerint és 42Y1E12107 és 42Y1E12207 sor Egyéb nyugdíjbiztosítás
 
-Külön soron kell bemutatni az Szja tv. szerinti nyugdíjbiztosításokat és külön soron az ide nem sorolható egyéb nyugdíjbiztosításokat, függetlenül attól, hogy milyen élet termék áll mögötte.
+Külön soron kell bemutatni az Szja tv. szerinti nyugdíjbiztosításokat, és külön soron az ide nem sorolható egyéb nyugdíjbiztosításokat, függetlenül attól, hogy milyen élet termék áll mögötte.
 
 Nyugdíjbiztosítás Szja tv. szerint = az Szja tv. 44/C. §-a szerinti adókedvezmény érvényesíthető + az Szja. tv. 44/C. §-a szerint adókedvezmény nem érvényesíthető.
 
@@ -294,11 +296,11 @@ Ebben az oszlopban a tárgyidőszaki végi tényleges (törlés figyelembevétel
 
 3. oszlop 2. oszlopból: Új szerződés állománydíj
 
-Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 4. oszlop 2. oszlopból: Visszakötött szerződés állománydíj (MFO)/ Reaktivált szerződések állománydíja (É)
 
-Minősített Fogyasztóbarát Otthonbiztosítás esetén ebben az oszlopban kell jelenteni azon szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Minősített Fogyasztóbarát Otthonbiztosítás esetén ebben az oszlopban kell jelenteni azon szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 Életbiztosítási üzletágak esetében ebben az oszlopban kell bemutatni a tárgyidőszakban reaktivált szerződések állománydíját.
 
@@ -368,7 +370,11 @@ Lakossági vagyonbiztosítás = lakásbiztosítások (egyéni) + társasházbizt
 
 42Y1E210111 sor ebből: Minősített Fogyasztóbarát Otthonbiztosítás
 
-Itt kell jelenteni a Minősített Fogyasztóbarát Otthonbiztosítás adatait.
+Itt kell jelenteni az egyéni lakásbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítás adatait.
+
+42Y1E210131 sor ebből: Minősített Fogyasztóbarát Otthonbiztosítás
+
+Itt kell jelenteni a hitelfedezeti záradékkal ellátott lakossági vagyonbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítások adatait.
 
 42Y1E2103 sor Vállalati vagyonbiztosítás (kivéve KKV-k)
 
@@ -498,7 +504,7 @@ A tábla oszlopai
 
 1. oszlop Eszközalapok nevei
 
-Az indexhez vagy befektetési egységekhez kötött életbiztosításokhoz kapcsolódó eszközalapok elnevezéseit ebbe az oszlopba kell beírni. A használt elnevezésnek meg kell egyeznie a biztosító honlapján közzétett elnevezéssel és egységesen kell alkalmazni a 42Y9F, a 42Q9F, a 42Q25 és a 42BP táblák esetében.
+Az indexhez vagy befektetési egységekhez kötött életbiztosításokhoz kapcsolódó eszközalapok elnevezéseit ebbe az oszlopba kell beírni. A használt elnevezésnek meg kell egyeznie a biztosító honlapján közzétett elnevezéssel, és egységesen kell alkalmazni a 42Y9F, a 42Q9F, a 42Q25 és a 42BP táblák esetében.
 
 2. oszlop Eszközalap azonosító kódja
 
@@ -522,7 +528,7 @@ A nettó állományváltozás megegyezik a portfolió bevételeivel mínusz kiad
 
 9. oszlop A befektetési állomány változásának idővel súlyozott összege (nettó) (ezer Ft)
 
-| Idővel súlyozott ÁV= |  |
+Idővel súlyozott ÁV=
 
 ahol
 
@@ -570,7 +576,7 @@ A tárgyév december 31-e, illetve az „alap” megszüntetésének tárgyévi 
 
 18. oszlop Referencia hozam (%)
 
-A portfoliókezelési vagy befektetési politikában rögzített, az adott portfolióra vonatkozó hozamelvárás.
+A portfoliókezelési, vagy befektetési politikában rögzített, az adott portfolióra vonatkozó hozamelvárás.
 
 19. oszlop Ügyfeleknek garantált hozam (%)
 
@@ -612,7 +618,7 @@ Idesorolandók a belső ellenőrzési feladatkört betöltő munkavállalók, be
 
 42Y13A116 sor: Értékesítési tevékenységért felelős vezető(k)
 
-Idesorolandó a biztosító azon értékesítési tevékenységért felelős vezetője (vezetői), akiről (akikről) a Bit. 48/A. § alapján nyilvántartást vezet.
+Idesorolandó a biztosító azon értékesítési tevékenységért felelős vezetője (vezetői), akiről (akikről) a Bit. 48/A.§ alapján nyilvántartást vezet.
 
 42Y13A117 sor Biztosító közreműködői
 
@@ -622,7 +628,13 @@ Idesorolandók a saját kockázatvállalásával összefüggő, saját jogú ér
 
 A 42Y13111-42Y13A117 sorban nem szerepeltetett, a biztosítónál munkaviszonyban foglalkoztatott természetes személyek számát kell itt jelenteni.
 
-42Y13A12 Biztosításközvetítő (ügynök) természetes személyek száma Idesorolandók a biztosító megbízásából eljáró gazdálkodó szervezeten vagy egyéni vállalkozón keresztül munkaviszony vagy egyéb jogviszony keretében biztosításközvetítői tevékenységet végző ügynöknek [Bit. 4. § (1) bekezdés 34. pont a) alpontja] minősülő természetes személyek.
+42Y13A12 Biztosításközvetítő (ügynök) természetes személyek száma
+
+Idesorolandók a biztosító megbízásából eljáró gazdálkodó szervezeten vagy egyéni vállalkozón keresztül munkaviszony vagy egyéb jogviszony keretében biztosításközvetítői tevékenységet végző ügynöknek [Bit. 4. § (1) bekezdés 34. pont a) alpontja] minősülő természetes személyek.
+
+42Y13A13 Biztosításközvetítő (ügynök) jogi személyek száma
+
+Idesorolandók a biztosítóval megbízási vagy egyéb jogviszonyban álló biztosításközvetítői tevékenységet végző gazdálkodó szervezetek.
 
 A tábla oszlopai
 
@@ -652,8 +664,6 @@ A tábla kitöltése
 
 A táblában a biztosító tulajdonosi szerkezetéről, ügyfeleiről, valamint az általa a Pmt. szerinti belső szabályzata alapján lefolytatott eljárások keretében összegyűjtött információkról kell adatot szolgáltatni.
 
-A biztosítónak a 42Y190511, 42Y190512, 42Y190513, 42Y190514, 42Y19061, 42Y19062, 42Y19072, 42Y1913, 42Y1914 sorok szerinti adatokat első alkalommal 2021-re mint tárgyévre vonatkozóan kell teljesítenie.
-
 A táblában használt fogalmak
 
 - az adózási szempontból nem együttműködő országok és területek európai uniós jegyzéke: https://www.consilium.europa.eu/hu/policies/eu-list-of-non-cooperative-jurisdictions/;
@@ -670,11 +680,11 @@ A táblában használt fogalmak
 
 - kiemelt közszereplővel közeli kapcsolatban álló személy: a Pmt. 4. § (4) bekezdése szerinti természetes személy;
 
-- kockázatra vonatkozó tényezők: a pénzügyi intézmények pénzmosási és terrorizmus finanszírozási kockázatainak értékeléséről és a kapcsolódó intézkedések meghatározásáról szóló 7/2019. (IV. 1.) MNB ajánlás [a továbbiakban: 7/2019. (IV. 1.) MNB ajánlás] Mellékletében foglalt kockázati tényezők;
+- kockázatra vonatkozó tényezők: a pénzügyi intézmények pénzmosási és terrorizmus finanszírozási kockázatainak értékeléséről, és a kapcsolódó intézkedések meghatározásáról szóló 7/2019. (IV. 1.) MNB ajánlás [a továbbiakban: 7/2019. (IV. 1.) MNB ajánlás] Mellékletében foglalt kockázati tényezők;
 
 - magas kockázatúnak minősített ország, térség: a 21/2017. (VIII. 3.) NGM rendelet 2. mellékletének 3. pontjában foglaltak alapján, a biztosító által magas kockázatúnak minősített ország, térség;
 
-- összetett tulajdonosi struktúra: olyan társaság, amelynek tulajdonosi szerkezete a társaság üzleti tevékenységének jellegéhez képest szokatlannak vagy túlzottan összetettnek tűnik; a tulajdonosi szerkezet a társaság üzleti tevékenységének jellegéhez képest túlzottan összetett, ha a társaság tulajdonosi struktúrájában háromnál több társaság érintettségével egymásba fonódások (hurkok) révén a társaságok kölcsönösen egymás tulajdonosai vagy a tulajdonosi szerkezetben több, mint három szinten, közvetett részesedéssel rendelkező tulajdonosok találhatók vagy a tulajdonosi szerkezetben több mint négy jogi személy vagy jogi személyiséggel nem rendelkező társaság rendelkezik tulajdoni hányaddal;
+- összetett tulajdonosi struktúra: olyan társaság, amelynek tulajdonosi szerkezete a társaság üzleti tevékenységének jellegéhez képest szokatlannak vagy túlzottan összetettnek tűnik; a tulajdonosi szerkezet a társaság üzleti tevékenységének jellegéhez képest túlzottan összetett, ha a társaság tulajdonosi struktúrájában háromnál több társaság érintettségével egymásba fonódások (hurkok) révén a társaságok kölcsönösen egymás tulajdonosai, vagy a tulajdonosi szerkezetben több, mint három szinten, közvetett részesedéssel rendelkező tulajdonosok találhatók, vagy a tulajdonosi szerkezetben több mint négy jogi személy vagy jogi személyiséggel nem rendelkező társaság rendelkezik tulajdoni hányaddal;
 
 - származás: az ügyfél bármilyen kimutatható, a biztosító által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel. Pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat(ok) (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
 
@@ -684,7 +694,7 @@ A táblában használt fogalmak
 
 - tulajdonos: azon természetes vagy jogi személy, illetve szervezet, amely a biztosítóban közvetlenül vagy közvetve a szavazati jogok vagy a tulajdoni hányad legalább tíz százalékát birtokolja;
 
-- ügyfél: akit a Pmt. rendelkezéseinek megfelelően a biztosítónak kockázatba kell sorolnia és aki a biztosító tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozóan a biztosítóval szerződés megkötésével tartós jogviszonyt létesít;
+- ügyfél: akit a Pmt. rendelkezéseinek megfelelően a biztosítónak kockázatba kell sorolnia, és aki a biztosító tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozóan a biztosítóval szerződés megkötésével tartós jogviszonyt létesít;
 
 - ügylet: jelenti mind az üzleti kapcsolat, mind pedig az ügyleti megbízás során teljesített ügyletet;
 
@@ -742,7 +752,7 @@ A 42Y1903 sorból az Erőforrás képzésre, oktatásra csoportosított része.
 
 A 42Y1903 sorból rendelkezésre álló Erőforrás egyéb feladatra csoportosított része.
 
-A 42Y031 - 42Y037 sorok összege megegyezik a biztosító által a 42Y03 sorban megadott Erőforrás adatával.
+A 42Y19031 - 42Y19037 sorok összege megegyezik a biztosító által a 42Y1903 sorban megadott Erőforrás összegével, az adatokat egy tizedesjegy pontossággal kell megadni.
 
 42Y1904 Ügyfelek száma
 
@@ -766,7 +776,7 @@ A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására
 
 42Y1904117 Saját kockázatértékelésen alapuló belső szabályzatban rögzített esetek
 
-A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító saját kockázatértékelésében megállapított, belső szabályzatában rögzítettek alapján, magas ügyfélkockázati kategóriába tartoznak és a 42Y1904111-42Y1904116 sorokban meghatározott kritériumok egyikének sem feleltethetőek meg.
+A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító saját kockázatértékelésében megállapított, belső szabályzatában rögzítettek alapján, magas ügyfélkockázati kategóriába tartoznak, és a 42Y1904111-42Y1904116 sorokban meghatározott kritériumok egyikének sem feleltethetőek meg.
 
 42Y190412 Ügyfelek kockázati szintje átlagos
 
@@ -778,11 +788,11 @@ A 42Y1904 sorból a biztosító által alacsony kockázati kategóriába sorolt 
 
 42Y19051 Nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek
 
-A tárgyév végi állapot szerint azon ügyfelek száma, akiket a biztosító saját kockázatértékelése alapján nem minősített magas kockázatúnak, de az ügyfél megerősített eljárás alá tartozik. Amennyiben a biztosító saját kockázatértékelése alapján, magas kockázati kategóriába sorolta az ügyfelet és ez alapján tartozik az ügyfél megerősített eljárás alá, úgy a biztosítónak ezen ügyfeleket a tábla 42Y1904117 sorában szükséges feltüntetnie és ezen ügyfelek vonatkozásában nem töltendők ki a tábla 42Y190511-42Y190514 sorai.
+A tárgyév végi állapot szerint azon ügyfelek száma, akiket a biztosító saját kockázatértékelése alapján nem minősített magas kockázatúnak, de az ügyfél megerősített eljárás alá tartozik. Amennyiben a biztosító saját kockázatértékelése alapján, magas kockázati kategóriába sorolta az ügyfelet, és ez alapján tartozik az ügyfél megerősített eljárás alá, úgy a biztosítónak ezen ügyfeleket a tábla 42Y1904117 sorában szükséges feltüntetnie és ezen ügyfelek vonatkozásában nem töltendők ki a tábla 42Y190511-42Y190514 sorai.
 
 42Y190511 Havi százmillió forintot elérő vagy meghaladó készpénzforgalmat lebonyolító ügyfelek
 
-A 42Y19051 sorból azon ügyfelek száma, akik által a biztosító hitelintézet(ek)nél vezetett gyűjtőszámlájára teljesített készpénzbefizetések teljes forintösszegének értéke elérte vagy meghaladta a százmillió forintot egy naptári hónapban, illetve ezen készpénzbefizetések (jóváírások) éves összesített értékösszege. Egy ügyfelet az adott tárgyévben csak egyszer szükséges a biztosítónak feltüntetnie, annak ellenére is, ha ugyanazon ügyfélnek egynél több hónapban is elérte vagy meghaladta a készpénzbefizetései teljes forintösszegének értéke a százmillió forintot.
+A 42Y19051 sorból azon ügyfelek száma, akik által a biztosító hitelintézet(ek)nél vezetett gyűjtőszámlájára teljesített készpénzbefizetések teljes forintösszegének értéke elérte, vagy meghaladta a százmillió forintot egy naptári hónapban, illetve ezen készpénzbefizetések (jóváírások) éves összesített értékösszege. Egy ügyfelet az adott tárgyévben csak egyszer szükséges a biztosítónak feltüntetnie, annak ellenére is, ha ugyanazon ügyfélnek egynél több hónapban is elérte vagy meghaladta a készpénzbefizetései teljes forintösszegének értéke a százmillió forintot.
 
 42Y190512 Bejelentett ügyfelek
 
@@ -790,7 +800,7 @@ A 42Y19051 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására 
 
 42Y190514 Saját kockázatértékelésen alapuló belső szabályzatban rögzített esetek
 
-A 42Y19051 sorból a biztosító saját kockázatértékelése, illetve belső szabályzatában rögzítettek alapján, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (Terhelések) éves összesített értékösszege, akik nem magas kockázatú kategóriában szerepelnek, de megerősített eljárás alá tartoznak és a 42Y190511-42Y190513 sorokban meghatározott kritériumok egyikének sem feleltethető meg.
+A 42Y19051 sorból a biztosító saját kockázatértékelése, illetve belső szabályzatában rögzítettek alapján, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (Terhelések) éves összesített értékösszege, akik nem magas kockázatú kategóriában szerepelnek, de megerősített eljárás alá tartoznak, és a 42Y190511-42Y190513 sorokban meghatározott kritériumok egyikének sem feleltethető meg.
 
 42Y19063 Fegyverkereskedelemmel vagy kettős felhasználású termékkel foglalkozó ügyfelek
 
@@ -812,7 +822,7 @@ A tárgyév végi állapot szerint az Európai Unió Tanácsa következtetései 
 
 A tárgyévben a pénzmosás és terrorizmus finanszírozás megelőzési tevékenységgel kapcsolatban a biztosító által bevezetett új üzleti gyakorlat száma, például: új teljesítési megoldás, új vagy fejlődő technológia.
 
-42Y1911 Egyedileg a tízmillió forintot elérő vagy meghaladó készpénzbefizetések
+42Y1911 Egyedileg a tízmillió forintot elérő, vagy meghaladó készpénzbefizetések
 
 A biztosítónak a tárgyévben a készpénzbefizetések darabszámát, illetve a biztosító hitelintézet(ek)nél vezetett gyűjtőszámlájára történő készpénzbefizetések (jóváírások) teljes forintösszegét szükséges megadnia, amelyek értéke egyedileg elérte vagy meghaladta a tízmillió forintot.
 
@@ -848,7 +858,7 @@ A táblában az IFRS-eket alkalmazó biztosítók egyes, a felügyelési feladat
 
 A táblát a legfőbb szerv által elfogadott éves beszámolóval egyezően kell kitölteni.
 
-A biztosítástechnikai tartalékok bemutatásakor, amennyiben a biztosító él az IFRS 4 nyújtotta lehetőséggel és az átállást követően a biztosítási szerződéseit a korábban alkalmazott számviteli politikája szerint számolja el pénzügyi kimutatásaiban, a biztosítási szerződések kapcsán képzett biztosítástechnikai tartalékokat a Számv. tv.-vel, a 43/2015. (III. 12.) Korm. rendelettel és a saját tartalékolási politikájával összhangban szükséges a táblában bemutatnia.
+A biztosítástechnikai tartalékok bemutatásakor, amennyiben a biztosító él az IFRS 4 nyújtotta lehetőséggel, és az átállást követően a biztosítási szerződéseit a korábban alkalmazott számviteli politikája szerint számolja el pénzügyi kimutatásaiban, a biztosítási szerződések kapcsán képzett biztosítástechnikai tartalékokat a Számv. tv.-vel, a 43/2015. (III. 12.) Korm. rendelettel és a saját tartalékolási politikájával összhangban szükséges a táblában bemutatnia.
 
 A tábla sorai
 
@@ -922,7 +932,7 @@ Többes ügynök: a Bit. 4. § (1) bekezdés 34. pont b) alpontja szerinti bizto
 
 Hitelintézet, egyetemes postai szolgáltató: ebben az oszlopban kell feltüntetni minden, a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 8. §-a szerinti hitelintézet, valamint más EGT-államban székhellyel rendelkező hitelintézet magyarországi fióktelepe (a továbbiakban együtt: hitelintézet, ezen típusú EGT-fióktelep) vagy a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 14. §-a szerinti egyetemes postai szolgáltató által értékesített biztosítást.
 
-Direkt: a biztosító által közvetlenül értékesített biztosítási szerződések.
+Direkt: a biztosító által közvetlenül értékesített biztosítási szerződések. A biztosító által online vagy elektronikus úton értékesített szerződések is ide tartoznak.
 
 Egyéb: a fenti értékesítési csatornák közül egyikbe sem sorolható értékesítési csatorna.
 
@@ -972,7 +982,7 @@ A tartalék hozama alatt a tartalék fedezeti portfólióján kimutatott számvi
 
 A tábla oszlopai
 
-A tábla első blokkja a 2016. január 1. előtti kezdetű szerződésekre vonatkozóan három elkülönített oszlopban kezeli az 1996. január 1. előtt engedélyezett, az 1995. december 31. után bevezetett termékeket és külön választva azokat a szerződéseket, melyeket az 1. és 2. oszlopban nem jelentettek.
+A tábla első blokkja a 2016. január 1. előtti kezdetű szerződésekre vonatkozóan három elkülönített oszlopban kezeli az 1996. január 1. előtt engedélyezett, az 1995. december 31. után bevezetett termékeket, és külön választva azokat a szerződéseket, melyeket az 1. és 2. oszlopban nem jelentettek.
 
 A tábla sorai
 
@@ -1082,7 +1092,7 @@ Az egy szerződővel (például egy munkaadóval) kötött csoportos biztosítá
 
 Külön sorokon kell bemutatni a folyamatos, illetve az egyszeri díjas szerződéseket. A tárgyidőszakon belül kötött és még azon évben megszűnt szerződéseket egyrészt szaporulatként, másrészt állományvesztésként (megszűnés oka szerinti megbontásban) is be kell mutatni.
 
-A szaporulat részeként külön is szükséges bemutatni a reaktivált szerződések darabszámát (6. oszlop), a törlések figyelembevételével nettósított szaporulatot (7. oszlop) és a módosított, átdolgozott, átsorolt szerződések darabszámát (8. oszlop). Azon szerződéseket, amelyekre egyúttal értékkövetést is alkalmaztak, az értékkövetés bemutatására szolgáló oszlopok egyikében is fel kell tüntetni.
+A szaporulat részeként külön is szükséges bemutatni a reaktivált szerződések darabszámát (6. oszlop), a törlések figyelembevételével nettósított szaporulatot (7. oszlop), és a módosított, átdolgozott, átsorolt szerződések darabszámát (8. oszlop). Azon szerződéseket, amelyekre egyúttal értékkövetést is alkalmaztak, az értékkövetés bemutatására szolgáló oszlopok egyikében is fel kell tüntetni.
 
 Az adatszolgáltatásban az értékkövetés alatt a Bit. 4. § (1) bekezdés 27. pontjában foglaltak értendők.
 
@@ -1096,7 +1106,7 @@ Az oszlop tartalmazza a tárgyidőszakot megelőző év december 31-énhatályba
 
 2. oszlop Élő szerződések értékkövetéséből eredő díjnövekedéssel érintett szerződések száma
 
-Az oszlopban az értékkövetésből eredő díjnövekedéssel érintett állomány darabszámát kell szerepeltetni és a január 1-jei növekedéssel érintett állományokat is a 2. oszlop tartalmazza.
+Az oszlopban az értékkövetésből eredő díjnövekedéssel érintett állomány darabszámát kell szerepeltetni, és a január 1-jei növekedéssel érintett állományokat is a 2. oszlop tartalmazza.
 
 3. oszlop Élő szerződések értékkövetéséből eredő díjcsökkenéssel érintett szerződések száma
 
@@ -1104,11 +1114,11 @@ Az oszlopban az értékkövetésből eredő díjcsökkenéssel érintett állom�
 
 5. oszlop 4. oszlopból: Új szerződés
 
-Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 6. oszlop 4. oszlopból: Visszakötött szerződés (MFO) / Reaktivált szerződések (É)
 
-Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 Életbiztosítási üzletágak esetében ebben az oszlopban kell bemutatni a tárgyidőszakban reaktivált szerződések számát.
 
@@ -1146,13 +1156,17 @@ Lakossági vagyonbiztosítás = lakásbiztosítások (egyéni) + társasházbizt
 
 42Q1E1110111 és 42Q1E1120111 sor ebből Minősített Fogyasztóbarát Otthonbiztosítás
 
-Itt kell jelenteni a Minősített Fogyasztóbarát Otthonbiztosítás darabszámát.
+Itt kell jelenteni az egyéni lakásbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítás darabszámát.
 
 42Q1E11103 és 42Q1E11203 sor Vállalati vagyonbiztosítás (kivéve KKV-k)
 
 Vállalati vagyonbiztosítás (kivéve KKV-k) = ipari kockázatok + mezőgazdasági kockázatok + további vállalati vagyonbiztosítás
 
 A vállalati vagyonbiztosításokból az ipari és mezőgazdasági vállalatok szerződéseit külön-külön soron kell szerepeltetni. Az említett két kategóriába nem tartozó szerződéseket a további vállalati vagyonbiztosítás soron kell feltüntetni.
+
+42Q1E1110131 és 42Q1E1120131 sor ebből Minősített Fogyasztóbarát Otthonbiztosítás
+
+Itt kell jelenteni a hitelfedezeti záradékkal ellátott lakossági vagyonbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítások darabszámát.
 
 42Q1E11106 és 42Q1E11206 sor Általános felelősségbiztosítás
 
@@ -1180,7 +1194,7 @@ Ezeken a sorokon csak azokat az életbiztosításokat kell feltüntetni, melyek 
 
 42Q1E12106 és 42Q1E12206 sor Nyugdíjbiztosítás Szja tv. szerint és 42Q1E12107 és 42Q1E12207 Egyéb nyugdíjbiztosítás
 
-Külön soron kell bemutatni az Szja tv. szerinti nyugdíjbiztosításokat és külön soron az ide nem sorolható egyéb nyugdíjbiztosításokat, függetlenül attól, hogy milyen élet termék áll mögötte.
+Külön soron kell bemutatni az Szja tv. szerinti nyugdíjbiztosításokat, és külön soron az ide nem sorolható egyéb nyugdíjbiztosításokat, függetlenül attól, hogy milyen élet termék áll mögötte.
 
 Nyugdíjbiztosítás Szja tv. szerint = az Szja tv. 44/C. §-a szerinti adókedvezmény érvényesíthető + az Szja. tv. 44/C. §-a szerint adókedvezmény nem érvényesíthető.
 
@@ -1216,11 +1230,11 @@ Ebben az oszlopban a tárgyidőszak végi tényleges (törlés figyelembevétel�
 
 3. oszlop 2. oszlopból: Új szerződés állománydíj
 
-Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 4. oszlop 2. oszlopból: Visszakötött szerződés állománydíj (MFO) / Reaktivált szerződések állománydíja (É)
 
-Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
+Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
 
 Életbiztosítási üzletágak esetében ebben az oszlopban kell bemutatni a reaktivált szerződések állománydíját.
 
@@ -1271,3 +1285,199 @@ A Számviteli biztosítástechnikai tartalékok növekedése és csökkenése os
 Az IBNR tartalékot a tartalék oszlopokban a következőképpen kell jelenteni: A besorolást nem szerződés szinten, hanem termék, termékcsoport szinten kell elvégezni. A megképzett IBNR tartalékot az adott termékek, termékcsoportok kifutási sajátosságait figyelembe véve, az egyes adatszolgáltatások tekintetében konzisztens módon szükséges megbontani a táblában felsorolt termékek, termékcsoportok között. Azon termékek, termékcsoportok között, melyek kifutási mintái közel azonosak, arányos megbontás történhet az egyes kárévek vonatkozásában az IBNR nélküli bruttó kárráfordítás arányában, esetleg a bruttó megszolgált díj arányában. Az így megbontott IBNR tartalékok összege megegyezik a teljes megképzett IBNR tartalékkal. Ezt a megbontott IBNR tartalékot kell a tartalékváltozás meghatározásához alapul venni.
 
 20-22. oszlop Tárgyidőszakban kifizetett károk darabszáma
+
+Itt kell bemutatni azon káresemények darabszámát egyrészt termékenkénti, termékcsoportonkénti, másrészt a károk bekövetkezése óta eltel idő szerinti bontásban, melyekre a tárgyidőszakban történt kárkifizetés.
+
+20. oszlop Előző időszakban bekövetkezett károk
+
+Itt kell jelenteni azon károk darabszámát, melyek a tárgyév január 1. előtt következtek be, és a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) kerültek kifizetésre.
+
+21. oszlop Tárgyidőszakban bekövetkezett károk
+
+Itt kell jelenteni azon károk darabszámát, melyek a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) következtek be, és a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) kifizetésre is kerültek.
+
+23-25. oszlop Tárgyidőszakot követően várhatóan kifizetésre kerülő, a tárgyidőszak végéig bejelentett károk darabszáma
+
+Itt kell bemutatni azon káresemények darabszámát egyrészt termékenkénti, termékcsoportonkénti, másrészt a károk bekövetkezése óta eltel idő szerinti bontásban, melyekre részben vagy egészében a jövőben várható kifizetés.
+
+23. oszlop Előző időszakban bekövetkezett károk
+
+Itt kell jelenteni azon károk darabszámát, melyek a tárgyév január 1. előtt következtek be és várhatóan a tárgyidőszakot (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakot, kumulált adat) követően kerülnek kifizetésre.
+
+24. oszlop Tárgyidőszakban bekövetkezett károk
+
+Itt kell jelenteni azon károk darabszámát, melyek a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) következtek be, és várhatóan a tárgyidőszakot (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakot, kumulált adat) követően kerülnek kifizetésre.
+
+26. oszlop Adóhatóság által adóról való rendelkezés keretében átutalt összeg
+
+Ebben az oszlopban kell kimutatni az Szja. tv. 44/C. §-a szerinti adókedvezményből eredően a biztosítónak átutalt összeget.
+
+27. oszlop Adóról való rendelkezés keretében átutalt összegből az adóhatóság részére visszautalt összeg
+
+Ebben az oszlopban kell kimutatni az adóhatóságtól korábban az Szja. tv. 44/C. §-a szerinti adókedvezményből az adóhatóság részére a vonatkozási időszakban visszautalt összeget.
+
+A tábla sorai
+
+42Q1E2101 sor Lakossági vagyonbiztosítás
+
+Lakossági vagyonbiztosítás = lakásbiztosítások (egyéni) + társasházbiztosítások + hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás + egyéb lakossági vagyonbiztosítás
+
+42Q1E210111 sor ebből: Minősített Fogyasztóbarát Otthonbiztosítás
+
+Itt kell jelenteni az egyéni lakásbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítás adatait.
+
+42Q1E210131 sor ebből: Minősített Fogyasztóbarát Otthonbiztosítás
+
+Itt kell jelenteni a hitelfedezeti záradékkal ellátott lakossági vagyonbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítások adatait.
+
+42Q1E2103 sor Vállalati vagyonbiztosítás (kivéve KKV-k)
+
+Vállalati vagyonbiztosítás (kivéve KKV-k) = ipari kockázatok + mezőgazdasági kockázatok + további vállalati vagyonbiztosítás
+
+42Q1E2106 sor Általános felelősségbiztosítás
+
+Általános felelősségbiztosítás = környezetvédelmi, környezetszennyezési felelősségbiztosítás + munkáltatói felelősségbiztosítás + egyéb felelősség
+
+42Q1E2107 sor Szakmai felelősségbiztosítás
+
+Szakmai felelősségbiztosítás = vezető tisztségviselők felelősségbiztosítása + egyéb szakmai felelősségbiztosítás
+
+42Q1E2109 sor Szállítmány és fuvarozói biztosítás
+
+Szállítmány és fuvarozói biztosítás = közúti árufuvarozók kezesi biztosítása + nemzetközi fuvarozói felelősségbiztosítás (CMR) + belföldi árufuvarozási (BÁF) biztosítás + egyéb szállítmány és fuvarozói biztosítás
+
+42Q1E2114 sor Casco
+
+Casco = Szárazföldijármű-casco + Egyéb jármű casco
+
+42Q1E2206 sor Nyugdíjbiztosítás Szja tv. szerint
+
+Nyugdíjbiztosítás Szja tv. szerint = az Szja tv. 44/C. §-a szerinti adókedvezmény érvényesíthető + az Szja. tv. 44/C. §-a szerint adókedvezmény nem érvényesíthető
+
+42Q1E22131 sor Életbiztosításokhoz kapcsolódó baleset és betegség kiegészítő biztosítás
+
+A baleset és betegség kiegészítő biztosítások állománydíj-, díj- és kárrészeit a termékcsoport szerint besorolt főbiztosításról ténylegesen nem kell leválasztani, az adatok ebben a sorban tájékoztató jelleggel, részletező soron kerülnek bemutatásra.
+
+42Q1E23 sor CSÉB
+
+Az 1986. július 1. előtt bevezetett termékek állományát külön fősoron kell jelenteni, vagyis az állományt nem kell felosztani az egyes ágazatok között.
+
+4. 42Q1E3 A biztosító állománydíjának, illetve díjbevételének Szolvencia II kockázatonkénti felosztása
+
+A tábla kitöltése
+
+A táblában a folyamatos díjas biztosítási szerződések termékenként, termékcsoportonként besorolt záró állománydíját, illetve az egyszeri díjas biztosítási szerződések bruttó egyszeri díjbevételét kell bemutatni a Szolvencia II szerinti üzletágankénti bontásban. Amennyiben pl. valamely nem-élet termékcsoportba sorolt szerződés állománydíja élet kockázatra is kiterjed, úgy a Szolvencia II szerinti üzletági bontásban az állománydíjat kockázat arányosan az élet oszlopban is meg kell jeleníteni.
+
+Az első oszlopban jelentett állománydíjak termékcsoportonkénti értékének meg kell egyeznie a 42Q1E2 tábla 10. oszlopában, míg az egyszeri díjak értékének a 42Q1E2 tábla 12. oszlopában feltüntetett termékcsoportonkénti értékével.
+
+A tábla sorai
+
+42Q1E31101 és 42Q1E32101 sorok Lakossági vagyonbiztosítás
+
+Lakossági vagyonbiztosítás = lakásbiztosítások (egyéni) + társasházbiztosítások + hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás + egyéb lakossági vagyonbiztosítás
+
+42Q1E31114 és 42Q1E32114 sorok Casco
+
+Casco = Szárazföldijármű-casco + Egyéb jármű casco
+
+5. 42Q1G A biztosító hitelfedezeti termékcsoportjának főbb adatai a tárgyidőszak végén
+
+A tábla kitöltése
+
+A táblában a biztosító hitelekhez köthető termékcsoportjára vonatkozó szerződésszám záró állományát, a díjbevételt, az aktuális biztosítási összeg nagyságát, a biztosítottak számát, valamint a kárkifizetés és szolgáltatás darabszámát és bruttó összegét kell bemutatni. A kért adatokat a csoportos hitelfedezeti biztosítások, az egyéni hitelfedezeti biztosítások, valamint az ingatlanhitellel kombinált életbiztosítások vonatkozásában kell megjeleníteni. A tábla a direkt szerződésekre és az aktív viszontbiztosításokra egyaránt vonatkozik.
+
+A tábla oszlopai
+
+6. oszlop Kárkifizetés és szolgáltatás (ezer Ft)
+
+Az engedményes, illetve a szerződő részére történt bruttó kárkifizetés értékének bemutatásakor a kért adatokban mind a hitelfedezeti biztosítások, mind a hitelfedezeti záradékolásnál megjelölt értéket meg kell jeleníteni. (A hitelfedezeti biztosítás esetén a biztosítási esemény bekövetkeztekor a ki nem fizetett hitelösszeget fizeti ki a biztosító. A hitelfedezeti záradékolás esetén a biztosító a kártérítés, illetve a szolgáltatás mértékéig vállalja a fedezetet.)
+
+A tábla sorai
+
+42Q1G1 sor Csoportos hitelfedezeti biztosítások
+
+Ezen a soron azon biztosítások vonatkozó adatait kell feltüntetni, amelyek esetében a biztosítóval szerződő fél a hitelt nyújtó hitelintézet, illetve egyéb jogi személy.
+
+Az alábontó sorokban (42Q1G11-42Q1G16 sor) az adatokat – amennyiben egy kötvényszámon több hiteltípus is szerepel – minden oszlop esetében hiteltípusonként megbontva kell megadni. Ennek értelmében a darabszámos oszlopok vonatkozásában [biztosítási szerződések darabszáma, biztosítottak száma, kárkifizetés és szolgáltatás (db)] az adott hiteltípushoz tartozó darabszámot kell jelenteni, függetlenül attól, hogy a biztosító nyilvántartásában ezek egy kötvényszámon szerepelnek-e. Ennek következtében a darabszámos oszlopok esetében az alábontások összege nem feltétlenül egyezik majd meg a 42Q1G1 soron jelentett adatokkal.
+
+42Q1G2 sor Egyéni hitelfedezeti biztosítások
+
+Ezen a soron kell feltüntetni azon szerződéseket, amelyek esetében a biztosítóval szerződő fél a hitelintézettel hitelszerződést kötő ügyfél. Azon egyéni hitelfedezeti szerződéseket, amelyek esetében nem áll rendelkezésre a hitel típusa (a biztosítást utólag engedményezték), az egyéb sorban kell feltüntetni.
+
+42Q1G3 sor Ingatlanhitellel kombinált életbiztosítások
+
+Ezen a soron a halasztott tőketörlesztéses konstrukcióba bekapcsolt életbiztosítási szerződések adatait kell bemutatni. Ha a biztosítási termék hitelfedezeti és megtakarítási elemmel is rendelkezik, úgy azt az ingatlanhitellel kombinált életbiztosítások között kell feltüntetni.
+
+42Q1G34 Egyéb életbiztosítások
+
+Azon egyéni hitelfedezeti szerződéseket, amelyek esetében nem áll rendelkezésre a hitel típusa (például a biztosítást utólag engedményezték), az egyéb sorban kell feltüntetni.
+
+6. 42Q3A3 Kárkifizetés és szolgáltatás az életbiztosítási üzletágban, károkok szerinti részletezésben a tárgyidőszak végén
+
+A tábla kitöltése
+
+Ebben a táblában az életbiztosítási ági kárkifizetéseket és szolgáltatásokat a Szolvencia II szerinti LoB-onkénti megbontásban kell bemutatni. Ez azt jelenti, hogy egyrészt szolgáltatási (kárkifizetési) okonként, másrészt, azon belül a folyamatos díjas, egyszeri díjas szerződések és a díjmentes állomány megbontásában kell bemutatni az értékeket.
+
+A tábla oszlopai
+
+4. és 10. oszlop Ebből: részleges visszavásárlás
+
+Itt azoknak a – megelőző oszlopban is bemutatandó – visszavásárlásoknak a számát és a kifizetések értékét kell megjeleníteni, amelyek következtében a szerződés nem szűnt meg, kizárólag a biztosítási szolgáltatás értéke csökkent.
+
+A tábla sorai
+
+42Q3A311 Folyamatos díjas szerződések 1-6. és 7-12. oszlop
+
+Folyamatos díjas szerződések részösszesen = Egészségbiztosítás + Nyereségrészesedéssel járó biztosítás + Indexhez vagy befektetési egységekhez kötött életbiztosítás + Egyéb életbiztosítások + Nem-életbiztosítási szerződésekből eredő és egészségbiztosítási kötelezettségekhez kapcsolódó járadékok + Nem-életbiztosítási szerződésekből eredő és egészségbiztosítási kötelezettségektől eltérő biztosítási kötelezettségekhez kapcsolódó járadékok
+
+42Q3A3115 Nem-életbiztosítási szerződésekből eredő és egészségbiztosítási kötelezettségekhez kapcsolódó járadékok
+
+42Q3A3116 Nem-életbiztosítási szerződésekből eredő és egészségbiztosítási kötelezettségektől eltérő biztosítási kötelezettségekhez kapcsolódó járadékok
+
+A járadékbiztosítások esetében a szolgáltatást a „lejárat miatt" oszlopba kell írni. Ezeknél a szolgáltatás darabszáma 1, ha abban az évben egyáltalán már volt a járadékbiztosítás szerint szolgáltatás, függetlenül attól, hogy ez havi, negyedéves, féléves vagy éves gyakorisággal történt.
+
+7. 42Q9F Indexhez vagy befektetési egységekhez kötött életbiztosításokhoz kapcsolódó eszközalapok hozamai a tárgyidőszak végén
+
+A tábla kitöltése
+
+Ez a tábla a biztosító főbb portfolióinak hozamát mutatja be. A táblában a teljes piaci értéket, azaz az eszközalap összes eszközének piaci értékét kell jelenteni, tehát nemcsak a biztosítottakat megillető eszközöket, hanem a biztosító saját eszközeit is.
+
+A tábla sorai
+
+42Q9F1 sor Indexhez vagy befektetési egységekhez kötött életbiztosításokhoz kapcsolódó alapok összesen
+
+Indexhez vagy befektetési egységekhez kötött életbiztosítások alapjai esetében alaponként is el kell a számítást végezni.
+
+A tábla oszlopai
+
+1. oszlop Az eszközalapok nevei
+
+Indexhez vagy befektetési egységekhez kötött életbiztosításokhoz kapcsolódó alapok elnevezéseit ebbe az oszlopba kell beírni. A használt elnevezésnek meg kell egyeznie a biztosító honlapján közzétett elnevezéssel, és egységesen kell alkalmazni a 42Y9F, a 42Q9F, a 42Q25 és a 42BP táblák esetében.
+
+2. oszlop Eszközalap azonosító kódja
+
+A kód az adatszolgáltató által kialakított, az egyes eszközalapokat azonosító hatjegyű kód, melyet az 1. melléklet 4.4. pontjában foglaltaknak megfelelően kell megképezni.
+
+Az így megképzett kódot egységesen kell alkalmazni a 42Y9F, a 42Q9F, a 42Q25 és a 42BP táblák esetében.
+
+A biztosító kötelezettsége az egyedi portfólió azonosítókat tartalmazó lista letétkezelő felé való továbbítása.
+
+4. oszlop Befektetési egység árfolyama
+
+Az oszlopban a tárgyidőszak utolsó munkanapján érvényes eszközalaponkénti unit árfolyamot kell feltüntetni.
+
+5. oszlop Eszközalap referenciaindexe
+
+A portfóliókezelési (vagyonkezelési) vagy befektetési politikában előre rögzített, az adott portfólióra vonatkozó, annak jellemző összetételét tükröző pénz- és tőkepiaci index vagy több pénz- és tőkepiaci index kombinációja.
+
+6. oszlop A portfólió értéke az időszak elején (ezer Ft) és 7. oszlop A portfólió értéke az időszak végén (ezer Ft)
+
+Az eszközök állományát piaci értéken kell szerepeltetni. Portfolió alatt az eszközalap összes eszközének piaci értékét kell érteni.
+
+8. oszlop A befektetési állomány változása (nettó) (ezer Ft)
+
+= Nettó állományváltozás = a portfolió bevételei mínusz kiadásai az értékelési időszakban.
+
+9. oszlop A befektetési állomány változásának idővel súlyozott összege (nettó) (ezer Ft)
+
+[^6]: A 7. melléklet az 58/2021. (XI. 24.) MNB rendelet 4. § (2) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## A kisbiztosító felügyeleti jelentése kitöltésére vonatkozó részletes előírások
-
 ## I.
 
 ## A felügyeleti jelentésre vonatkozó általános szabályok
@@ -1590,7 +1588,7 @@
 
 ## 42C15A106 sor Első eredmény (bevételi index)
 
-## Az első számú eredmény képlete: E1 = 0,18˙a˙c, ahol „a” a 42C15A107 sor szerinti érték, „c” pedig a 42C15A110 sorban kiszámolt saját megtartási arányszám.
+## Az első számú eredmény képlete: E1= 0,18˙a˙c, ahol „a” a 42C15A107 sor szerinti érték, „c” pedig a 42C15A110 sorban kiszámolt saját megtartási arányszám.
 
 ## 42C15A108 sor Aggregált tárgyévi bruttó díjelőírás
 
@@ -3068,7 +3066,7 @@
 
 ## 42B19131 Kötelező, a 26/2020. (VIII. 25.) MNB rendelet szerinti szűrési feltételek által generált riasztások
 
-## A 42B1913 sorból a 26/2020. (VIII. 25.) MNB rendelet 36. §-a szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma.
+## A 42B1913 sorból a 26/2020. (VIII. 25.) MNB rendelet 36. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma.
 
 ## 42B19132 A biztosító által definiált szűrési feltételek által generált riasztások
 
@@ -3080,11 +3078,11 @@
 
 ## 42B19141 Kötelező, a 26/2020. (VIII. 25.) MNB rendelet szerinti szűrési feltételek által generált riasztások
 
-## A 42B1914 sorból a 26/2020. (VIII. 25.) MNB rendelet 36. §-a szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma, amelynek az elemzését és értékelését a biztosító a 26/2020. (VIII. 25.) MNB rendelet szerinti határidőben nem végezte el.
+## A 42B1914 sorból a 26/2020. (VIII. 25.) MNB rendelet 36. § (1) bekezdése szerinti szűrési feltételek által generált riasztások tárgynegyedévi darabszáma, amelynek az elemzését és értékelését a biztosító a 26/2020. (VIII. 25.) MNB rendelet szerinti határidőben nem végezte el.
 
 ## 42B19142 Biztosító által definiált szűrési feltételek által generált riasztások
 
-## A 42B1914 sorból azon riasztások darabszáma, amelyek szűrési feltételei a biztosító által kerültek meghatározásra és a feltételek nem esnek a 26/2020. (VIII. 25.) MNB rendelet 36. §-a szerinti szűrési feltételek alá és amely riasztásoknak az elemzését és értékelését a biztosító a 26/2020. (VIII. 25.) MNB rendelet szerinti határidőben nem végezte el.
+## A 42B1914 sorból azon riasztások darabszáma, amelyek szűrési feltételei a biztosító által kerültek meghatározásra és a feltételek nem esnek a 26/2020. (VIII. 25.) MNB rendelet 36. § (1) bekezdése szerinti szűrési feltételek alá és amely riasztásoknak az elemzését és értékelését a biztosító a 26/2020. (VIII. 25.) MNB rendelet szerinti határidőben nem végezte el.
 
 ## 42B1915 Saját bejelentések
 
@@ -3128,19 +3126,19 @@
 
 ## 42B1920 AML Bizottság által megtárgyalt ügyfélkapcsolatok
 
-## A pénzügyi intézmények és azok közvetítői által megkövetelt, a pénzeszközök forrására vonatkozó információkról, valamint ezen információk igazoló ellenőrzése érdekében a pénzeszközök forrására vonatkozó dokumentumok bemutatásáról, a bejelentések alapjául szolgáló adat, tény, körülmény felismerésének elősegítéséről és a magas kockázattal járó ügyletek bejelentéséhez kapcsolódó intézkedésekről szóló 6/2019. (IV. 1.) MNB ajánlás [a továbbiakban: 6/2019. (IV. 1.) MNB ajánlás] IV. fejezetében meghatározott és felállított bizottság által, a tárgynegyedévben megtárgyalt ügyfélkapcsolatok számát szükséges megadnia a biztosítónak. Amennyiben egy ügyfélkapcsolat miatt kétszer hívták össze a bizottságot a tárgynegyedévben, az egynek jelentendő.
+## A pénzügyi intézmények és azok közvetítői által megkövetelt, a pénzeszközök forrására vonatkozó információkról, valamint ezen információk igazoló ellenőrzése érdekében a pénzeszközök forrására vonatkozó dokumentumok bemutatásáról, a bejelentések alapjául szolgáló adat, tény, körülmény felismerésének elősegítéséről és a magas kockázattal járó ügyletek bejelentéséhez kapcsolódó intézkedésekről szóló 14/2020. (XII. 17.) MNB ajánlás [a továbbiakban: 14/2020. (XII. 17.) MNB ajánlás] IV. fejezetében meghatározott és felállított bizottság által, a tárgynegyedévben megtárgyalt ügyfélkapcsolatok számát szükséges megadnia a biztosítónak. Amennyiben egy ügyfélkapcsolat miatt kétszer hívták össze a bizottságot a tárgynegyedévben, az egynek jelentendő.
 
 ## 42B19201 Bejelentések száma miatt
 
-## A 42B1920 sorból azon ügyfélkapcsolatok számát szükséges megadnia a biztosítónak, amelyekhez kapcsolódóan a 6/2019. (IV. 1.) MNB ajánlás 15. pontja szerinti, a Pmt. 30. §-ában meghatározott bejelentések számossága indokolta a bizottság összehívását és az eset megtárgyalását.
+## A 42B1920 sorból azon ügyfélkapcsolatok számát szükséges megadnia a biztosítónak, amelyekhez kapcsolódóan a 14/2020. (XII. 17.) MNB ajánlás 14. pontja szerinti, a Pmt. 30. §-ában meghatározott bejelentések számossága indokolta a bizottság összehívását és az eset megtárgyalását.
 
 ## 42B19202 Bejelentések összege miatt
 
-## A 42B1920 sorból azon ügyfélkapcsolatok számát szükséges megadnia a biztosítónak, amelyekhez kapcsolódóan a 6/2019. (IV. 1.) MNB ajánlás 15. pontja szerinti, a Pmt. 30. §-ában meghatározott bejelentések összege indokolta a bizottság összehívását és az eset megtárgyalását.
+## A 42B1920 sorból azon ügyfélkapcsolatok számát szükséges megadnia a biztosítónak, amelyekhez kapcsolódóan a 14/2020. (XII. 17.) MNB ajánlás 14. pontja szerinti, a Pmt. 30. §-ában meghatározott bejelentések összege indokolta a bizottság összehívását és az eset megtárgyalását.
 
 ## 42B19203 Pénzügyi információs egység tájékoztatása alapján
 
-## A 42B1920 sorból azon ügyfélkapcsolatok számát szükséges megadnia a biztosítónak, amelyekhez kapcsolódóan a 6/2019. (IV. 1.) MNB ajánlás 15. pontja szerinti, a pénzügyi információs egységtől érkező tájékoztatás eredményezte a bizottság összehívását és az eset megtárgyalását.
+## A 42B1920 sorból azon ügyfélkapcsolatok számát szükséges megadnia a biztosítónak, amelyekhez kapcsolódóan a 14/2020. (XII. 17.) MNB ajánlás 14. pontja szerinti, a pénzügyi információs egységtől érkező tájékoztatás eredményezte a bizottság összehívását és az eset megtárgyalását.
 
 ## 42B1921 Társhatósági megkeresések
 
