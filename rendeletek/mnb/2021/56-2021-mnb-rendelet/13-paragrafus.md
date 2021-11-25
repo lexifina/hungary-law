@@ -1,0 +1,3 @@
+13. § (1) Az adatszolgáltató a tőkepiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 43/2020. (XI. 19.) MNB rendelet [a továbbiakban: 43/2020. (XI. 19.) MNB rendelet] szerinti, 2022. január 1-jét megelőző tárgyidőszakra vonatkozó felügyeleti jelentés, adatszolgáltatás – a 43/2020. (XI. 19.) MNB rendelet 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 12–15. sorában meghatározott felügyeleti jelentések kivételével – teljesítése során a 43/2020. (XI. 19.) MNB rendelet szabályait alkalmazza.
+
+(2) Az adatszolgáltató a PEPP szöveges jelentést első alkalommal a PEPP regisztrációja évére mint tárgyidőszakra vonatkozóan teljesíti.
