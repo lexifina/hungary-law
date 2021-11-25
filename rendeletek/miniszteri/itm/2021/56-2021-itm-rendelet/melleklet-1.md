@@ -1,5 +1,3 @@
-## 6. § Hatályát veszti a minimális építőipari rezsióradíj 2020. évi mértékéről szóló 17/2020. (VI. 12.) ITM rendelet.
-
 1. melléklet az 56/2021. (XI. 19.) ITM rendelethez
 
 A minimális építőipari rezsióradíj költségnemei és értékei
