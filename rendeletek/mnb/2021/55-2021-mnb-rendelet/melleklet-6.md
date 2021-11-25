@@ -106,6 +106,6 @@
 
 ## Éves jelentés
 
-6. melléklet az 55/2021. (XI. 23.) MNB rendelethez[^6]
+6. melléklet az 55/2021. (XI. 23.) MNB rendelethez[^7]
 
-[^6]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–9. és 14–29. sora, az ott meghatározott felügyeleti jelentések táblái a 16. § (2) bekezdése alapján 2022. január 1-jén lépnek hatályba.
+[^7]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–9. és 14–29. sora, az ott meghatározott felügyeleti jelentések táblái a 16. § (2) bekezdése alapján 2022. január 1-jén lépnek hatályba.

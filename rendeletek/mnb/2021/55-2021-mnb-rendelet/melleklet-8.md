@@ -52,6 +52,6 @@
 
 ## Az alkalmazott számviteli szabályozástól függetlenül teljesítendő táblák
 
-8–20. melléklet az 55/2021. (XI. 23.) MNB rendelethez[^8]
+8–20. melléklet az 55/2021. (XI. 23.) MNB rendelethez[^9]
 
-[^8]: A 8–20. melléklet a 16. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^9]: A 8–20. melléklet a 16. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
