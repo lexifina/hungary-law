@@ -132,7 +132,7 @@
 
 ## aláírás (Authority's signature)
 
-12. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^155]
+12. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^158]
 
 Jelentés a kábítószer előállítására alkalmas növények termesztetésére és a kinyerhető alapanyagokra vonatkozó statisztikai adatokról
 
@@ -294,4 +294,4 @@ Jelentés a kábítószer előállítására alkalmas növények termesztetésé
 
 | ANA (kg) |  |  |  |  |  |  |
 
-[^155]: A 12. mellékletet a 250/2017. (IX. 5.) Korm. rendelet 44. § (8) bekezdése iktatta be.
+[^158]: A 12. mellékletet a 250/2017. (IX. 5.) Korm. rendelet 44. § (8) bekezdése iktatta be.

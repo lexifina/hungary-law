@@ -1,4 +1,4 @@
-34. §[^139] (1) Ez a rendelet
+34. §[^141] (1) Ez a rendelet
 
 a) az új pszichoaktív anyagokra vonatkozó információcseréről, kockázatértékelésről és ellenőrzésről szóló, 2005. május 10-i 2005/387/IB tanácsi határozatnak,
 
@@ -12,7 +12,9 @@ e) a 2004/757/IB tanácsi kerethatározatnak a kábítószer fogalommeghatároz�
 
 f) a 2004/757/IB tanácsi kerethatározat mellékletének a kábítószer fogalommeghatározása új pszichoaktív anyagokkal való kiegészítése céljából történő módosításáról szóló, 2018. december 31-i (EU) 2019/369 felhatalmazáson alapuló bizottsági irányelvnek,
 
-g)[^140] a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2-[[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek
+g)[^142] a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását az N,N-dietil-2-[[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazol-1-etánamin (izotonitazén) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2020. szeptember 2-i (EU) 2020/1687 felhatalmazáson alapuló bizottsági irányelvnek
+
+h)[^143] a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását a metil-3,3-dimetil-2- {[1-(pent-4-én-1-il)–1H-indazol-3-karbonil]amino}butanoát (MDMB-4en-PINACA) és a metil-2-{[1-(4-fluorbutil)-1H-indol-3-karbonil]amino}-3,3-dimetilbutanoát (4F-MDMB-BICA) új pszichoaktív anyaggal kiegészítő módosításáról szóló, 2021. március 12-i (EU) 2021/802 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -26,5 +28,6 @@ c) az N-fenil-N-[1-(2-fenil-etil)piperidin-4-il]ciklopropán-karboxamid (ciklopr
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^139]: A 34. § a 347/2019. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^140]: A 34. § (1) bekezdés g) pontját a 232/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be.
+[^141]: A 34. § a 347/2019. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^142]: A 34. § (1) bekezdés g) pontját a 232/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be.
+[^143]: A 34. § (1) bekezdés h) pontját a 623/2021. (XI. 10.) Korm. rendelet 2. §-a iktatta be.

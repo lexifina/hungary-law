@@ -594,7 +594,7 @@
 
 | 116 | alpha-PBT; alfa-PBT; a-PBT; α-Pyrrolidinobutiothiophenone | 2-(Pyrrolidin-1-yl)-1-(thiophen-2-yl)butan-1-one |
 
-| 117 | Diclazepam, 2-Chlorodiazepam, Ro5-3448 | 7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H- 1,4-benzodiazepin-2-one |
+| 117 |  |  |
 
 | 118 | Diphenidine, 1,2-diphenylethylpiperidine; DPD; 1,2-DEP; DIPH | 1-(1,2-Diphenylethyl)piperidine |
 
@@ -611,6 +611,8 @@
 | 124 |  |  |
 
 | 125 |  |  |
+
+| 126. | 4F-MDMB-BICA | methyl2-({[1-(4-fluorobutyl)-1H-indol-3-yl]carbonyl}amino)-3,3-dimethylbutanoate |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
@@ -733,6 +735,10 @@
 | 49. | N-ethylnorpentylone (ephylone) | 1-(2H-1,3-Benzodioxol-5-yl)-2-(ethylamino)pentan-1-one |
 
 | 50. | AB-FUBINACA | N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H- indazole-3-carboxamide |
+
+| 51. | CUMYL-PeGaClone | 2-(1-methyl-1-phenyl-ethyl)–5-pentyl-pyrido [4,3-b]indol-1-one (IUPAC), 5-pentyl-2-(2-phenylpropan-2-yl)–2,5-dihydro-1H-pyrido [4,3-b]indol-1-one, 2-cumyl-5-pentyl-gamma-carbolin-1-one |
+
+| 52. | MDMB-4en-PINACA | methyl 3,3-dimethyl-2-{[1-(pent-4-en-1-yl)–1H-indazole-3-carbonyl]amino}butanoate |
 
 ## – és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha azok a feltüntetett kémiai névnek megfelelnek, kémiai szerkezetük alapján léteznek, és nem esnek kifejezetten kivételes rendelkezés alá;
 
@@ -908,6 +914,12 @@
 
 | 64. | etizolam | 4-(2-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno[3,2-f][1,2,4] triazolo[4,3-a][1,4]diazepine |
 
+| 65. | clonazolam | 6-(2-chlorophenyl)–1-methyl-8-nitro-4H-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepine |
+
+| 66. | flubromazolam | 8-bromo-6-(2-fluorophenyl)–1-methyl-4H-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepine |
+
+| 67. | diclazepam, 2-chlorodiazepam, Ro5-3448 | 7-chloro-5-(2-chlorophenyl)–1-methyl-1,3-dihydro-2H-1,4-benzodiazepin-2-one |
+
 ## Megjegyzés:
 
 ## A P4 jegyzék a Pszichotróp Egyezmény aktualizált IV. listája alapján készült.
@@ -916,7 +928,7 @@
 
 ## D) AZ ÚJ PSZICHOAKTÍV ANYAGGÁ MINŐSÍTETT ANYAGOKRÓL VAGY VEGYÜLETCSOPORTOKRÓL SZÓLÓ MINISZTERI RENDELETBŐL ÁTHELYEZETT ANYAGOK JEGYZÉKE
 
-2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^144]
+2. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^147]
 
 Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
@@ -938,4 +950,4 @@ Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet
 
 3. Statisztikai szempontból nem minősül gyártásnak a csomagolás, átcsomagolás.
 
-[^144]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.
+[^147]: A 2. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § k) pontja, a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés m) pontja, a 250/2017. (IX. 5.) Korm. rendelet 44. § (1) bekezdése szerint módosított szöveg.

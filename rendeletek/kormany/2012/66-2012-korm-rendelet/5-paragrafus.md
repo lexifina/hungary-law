@@ -1,3 +1,3 @@
-5. §[^37]
+5. §[^38]
 
-[^37]: Az 5. §-t a 413/2015. (XII. 23.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
+[^38]: Az 5. §-t a 413/2015. (XII. 23.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
