@@ -116,7 +116,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a 2023. évi központi költségvetés tervezése során
 
-11. felhívja az innovációért és technológiáért felelős minisztert, hogy a 9. pont szerinti közlekedésfejlesztési szakági forrásokat támogatási jogviszony keretében biztosítsa elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel a NIF Nemzeti Infrastruktúra Fejlesztő Zártkörűen Működő Részvénytársaság, valamint a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság számára;
+11.[^10] felhívja az innovációért és technológiáért felelős minisztert, hogy a 9. pont szerinti közlekedésfejlesztési szakági forrásokat támogatási jogviszony keretében biztosítsa elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, valamint a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság számára;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -126,13 +126,13 @@ Az elszámolási és visszafizetési kötelezettség tekintetében
 
 Felelős: innovációért és technológiáért felelős miniszter
 
-Határidő: a 9. pont 9.1. és 9.2. alpontja tekintetében 2021. december 31.
+Határidő: a 9. pont 9.1. és 9.2. alpontja tekintetében az elszámolási és visszafizetési kötelezettség a támogatási jogviszony keretében rögzített felhasználási időszakot követően
 
-a 9. pont 9.3. alpontja tekintetében az elszámolási kötelezettség 2022. december 31.
+a 9. pont 9.3. alpontja tekintetében az elszámolási kötelezettség 2023. szeptember 30.
 
 a 9. pont 9.4. alpontja tekintetében az elszámolási kötelezettség 2023. december 31.
 
-a 9. pont 9.1–9.4. alpontja tekintetében a visszafizetési kötelezettség 2023. december 31.
+a 9. pont 9.3 és 9.4. alpontja tekintetében a visszafizetési kötelezettség 2023. december 31.
 
 12. egyetért azzal, hogy a Debreceni Egyetem részére az alábbi szakági bontás szerinti projektek 2020–2023. évi előkészítése és megvalósítása céljára összesen 14 765 490 000 forint központi költségvetési támogatás kerüljön biztosításra, az alábbiak szerint:
 
@@ -219,3 +219,4 @@ Határidő: 2022. december 31.
 [^7]: A 10. pont 10.1. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
 [^8]: A 10. pont 10.2. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
 [^9]: A 10.3. pont az 1696/2021. (X. 1.) Korm. határozat 4. pont b) pontja szerint módosított szöveg.
+[^10]: A 11. pont az 1820/2021. (XI. 25.) Korm. határozat 9. pontjával megállapított szöveg.
