@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletét módosító, az Egyesült Nemzetek Kábítószer Bizottsága 2021. április 14-én elfogadott 64/1. számú határozatban foglalt módosítás (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
