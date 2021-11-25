@@ -848,11 +848,7 @@ TFMPP
 
 |
 
-3-MeO-PCP
-
 |
-
-1-[1-(3-methoxyphenyl)cyclohexyl]-piperidine
 
 |
 
@@ -1122,11 +1118,7 @@ alpha-PBT; alfa-PBT; a-PBT;
 
 |
 
-Diclazepam, 2-Chlorodiazepam, Ro5-3448
-
 |
-
-7-chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2H- 1,4-benzodiazepin-2-one
 
 |
 
@@ -1134,15 +1126,7 @@ Diclazepam, 2-Chlorodiazepam, Ro5-3448
 
 |
 
-Diphenidine, 1,2-
-
-diphenylethylpiperidine; DPD;
-
-1,2-DEP; DIPH
-
 |
-
-1-(1,2-Diphenylethyl)piperidine
 
 |
 
@@ -1186,11 +1170,7 @@ EG-018
 
 |
 
-isotonitazene
-
 |
-
-N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-ethanamine”
 
 |
 
@@ -1215,6 +1195,18 @@ N,N-diethyl-2-[[4-(1-methylethoxy)phenyl]methyl]-5-nitro-1H-benzimidazole-1-etha
 |
 
 |
+
+|
+
+96.
+
+|
+
+4F-MDMB-BICA
+
+|
+
+metil-2-{[1-(4-fluorbutil)-1H-indol-3-karbonil]amino}-3,3-dimetilbutanoát
 
 − és az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, amennyiben kémiai szerkezetük alapján azok léteznek, és nem esnek kifejezett kivételes rendelkezés alá;
 
