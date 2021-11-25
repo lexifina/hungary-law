@@ -1,0 +1,1 @@
+A Kormány elkötelezett szándéka az Európai Unióba irányuló illegális migráció megakadályozása, valamint a külső határok hatékony eszközökkel való védelme. A külső szárazföldi határokkal rendelkező tagállamokkal való közös szolidaritás jegyében, a litván–belarusz határon kialakult migrációs helyzetre tekintettel a Kormány
