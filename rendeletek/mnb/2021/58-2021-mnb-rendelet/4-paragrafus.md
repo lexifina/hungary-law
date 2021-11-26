@@ -1,11 +1,15 @@
-4. § (1)[^4]
+## 3. §[^4]
 
-(2) A 44/2020. (XI. 20.) MNB rendelet 6. és 7. melléklete helyébe a 2. és 3. melléklet lép.
+4. § (1)[^5]
 
-(3)[^5]
+(2)[^6]
 
-(4)[^6]
+(3)[^7]
 
-[^4]: A 4. § (1) bekezdése a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^5]: A 4. § (3) bekezdése a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^6]: A 4. § (4) bekezdése a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+(4)[^8]
+
+[^4]: A 3. § a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^5]: A 4. § (1) bekezdése a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^6]: A 4. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 4. § (3) bekezdése a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^8]: A 4. § (4) bekezdése a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
