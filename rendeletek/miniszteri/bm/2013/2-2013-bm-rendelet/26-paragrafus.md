@@ -1,22 +1,22 @@
-## 25. §[^104] A belügyi szerv vezetője által jóváhagyott éves továbbképzési tervet a belügyi szerv a tárgyév március 31-ig megküldi a miniszter részére.
+## 25. §[^107] A belügyi szerv vezetője által jóváhagyott éves továbbképzési tervet a belügyi szerv a tárgyév március 31-ig megküldi a miniszter részére.
 
-## III. Fejezet[^105]
+## III. Fejezet[^108]
 
 ## A RENDÉSZETI VEZETŐKIVÁLASZTÁS ÉS VEZETŐKÉPZÉS
 
-26. § (1)[^106] A vezetőkiválasztási eljárásban való részvételre
+26. § (1)[^109] A vezetőkiválasztási eljárásban való részvételre
 
 a) a hivatásos állomány tagját az állományilletékes parancsnok javasolhatja, a hivatásos állomány tagjának beleegyezésével, vagy
 
-b)[^107] a hivatásos állomány tagja önként jelentkezhet.
+b)[^110] a hivatásos állomány tagja önként jelentkezhet.
 
-(2)[^108]
+(2)[^111]
 
-(3)[^109] A vezetőkiválasztási eljárásban való részvételre a hivatásos állomány azon tagja jelölhető, illetve jelentkezhet, aki legalább négy év szolgálati viszonnyal rendelkezik és a legutolsó éves teljesítményértékelése „kivételes” vagy „jó” teljesítményfokozatú.
+(3)[^112] A vezetőkiválasztási eljárásban való részvételre a hivatásos állomány azon tagja jelölhető, illetve jelentkezhet, aki legalább négy év szolgálati viszonnyal rendelkezik és a legutolsó éves teljesítményértékelése „kivételes” vagy „jó” teljesítményfokozatú.
 
-[^104]: A 25. § a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja, a 35/2017. (XII. 21.) BM rendelet 27. § 21. pontja szerint módosított szöveg.
-[^105]: A III. fejezet címe a 35/2017. (XII. 21.) BM rendelet 27. § 22. pontja szerint módosított szöveg.
-[^106]: A 26. § (1) bekezdés nyitó szövegrésze a 35/2017. (XII. 21.) BM rendelet 27. § 23. pontjával megállapított szöveg.
-[^107]: A 26. § (1) bekezdés b) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § a) pontja szerint módosított szöveg.
-[^108]: A 26. § (2) bekezdését a 45/2013. (VIII. 15.) BM rendelet 13. § b) pontja hatályon kívül helyezte.
-[^109]: A 26. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 12. § (1) bekezdésével megállapított, a 35/2017. (XII. 21.) BM rendelet 27. § 23. pontja szerint módosított szöveg.
+[^107]: A 25. § a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja, a 35/2017. (XII. 21.) BM rendelet 27. § 21. pontja szerint módosított szöveg.
+[^108]: A III. fejezet címe a 35/2017. (XII. 21.) BM rendelet 27. § 22. pontja szerint módosított szöveg.
+[^109]: A 26. § (1) bekezdés nyitó szövegrésze a 35/2017. (XII. 21.) BM rendelet 27. § 23. pontjával megállapított szöveg.
+[^110]: A 26. § (1) bekezdés b) pontja a 45/2013. (VIII. 15.) BM rendelet 13. § a) pontja szerint módosított szöveg.
+[^111]: A 26. § (2) bekezdését a 45/2013. (VIII. 15.) BM rendelet 13. § b) pontja hatályon kívül helyezte.
+[^112]: A 26. § (3) bekezdése a 45/2013. (VIII. 15.) BM rendelet 12. § (1) bekezdésével megállapított, a 35/2017. (XII. 21.) BM rendelet 27. § 23. pontja szerint módosított szöveg.

@@ -8,13 +8,13 @@
 
 a) az egyéni továbbképzési tervek alapján meghirdeti és megszervezi a saját szervezetén belül megtartásra tervezett továbbképzéseket,
 
-b)[^33] az a) pontban meghatározott továbbképzésen résztvevők számára tanúsítványt ad ki a megszerzett továbbképzési pontokról,
+b)[^33]
 
 c)[^34] a továbbképzések megvalósításáról statisztikai célú adatszolgáltatást végez a miniszter részére, valamint
 
 d)[^35] az általa megvalósított továbbképzésekről éves összefoglaló jelentést készít, amelyet a miniszter részére a tárgyévet követő év március 1-jéig megküld.
 
 [^32]: A 6. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés d) pontja szerint módosított szöveg.
-[^33]: A 6. § (4) bekezdés b) pontja a 35/2017. (XII. 21.) BM rendelet 27. § 6. pontja szerint módosított szöveg.
+[^33]: A 6. § (4) bekezdés b) pontját a 37/2021. (X. 27.) BM rendelet 13. §-a hatályon kívül helyezte.
 [^34]: A 6. § (4) bekezdés c) pontja a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
 [^35]: A 6. § (4) bekezdés d) pontja a 35/2017. (XII. 21.) BM rendelet 5. §-ával megállapított szöveg.

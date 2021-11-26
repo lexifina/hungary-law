@@ -1,4 +1,4 @@
-## 3/B. [^53] Irányítói továbbképzés
+## 3/B. [^55] Irányítói továbbképzés
 
 8/B. § (1) A belügyminiszter irányítása alatt álló egyes rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos állomány és rendvédelmi igazgatási alkalmazotti állomány alkalmasságvizsgálatáról szóló miniszteri rendeletben meghatározott V–VIII. alkalmasságvizsgálati kategóriába tartozó szolgálati beosztást (a továbbiakban: irányítói szolgálati beosztás) betöltő tagja irányítói továbbképzésen köteles részt venni.
 
@@ -10,4 +10,4 @@
 
 (5) Az irányítói továbbképzés beszámít a 7. § (3) bekezdése szerinti továbbképzési kötelezettség teljesítésébe.
 
-[^53]: A 3/B. alcímet (8/B–8/C. §) a 45/2020. (XII. 16.) BM rendelet 114. §-a iktatta be.
+[^55]: A 3/B. alcímet (8/B–8/C. §) a 45/2020. (XII. 16.) BM rendelet 114. §-a iktatta be.
