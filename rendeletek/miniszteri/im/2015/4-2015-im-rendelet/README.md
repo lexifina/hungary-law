@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-4-20-06
 | 2016-05-26 | 2015-4-20-06.4 | 7/2016. (V. 25.) IM rendelet |
 | 2018-01-19 | 2015-4-20-06.5 | 4/2018. (I. 18.) IM rendelet |
 | 2018-07-01 | 2015-4-20-06.6 | 16/2018. (VI. 22.) IM rendelet |
+| 2021-11-26 | 2015-4-20-06.7 | 14/2021. (XI. 25.) IM rendelet |
