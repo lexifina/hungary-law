@@ -34,7 +34,7 @@ b)[^2] a családokért felelős tárca nélküli miniszter részéről delegált
 
 c)[^3] az innovációért és technológiáért felelős miniszter által delegált, az általa vezetett minisztérium felsőoktatásért felelős területéről 1 fő,
 
-d)[^4]
+d)[^4] a roma kapcsolatokért felelős kormánybiztos,
 
 e) a miniszterelnöki biztos kinevezéséről szóló 3/2019. (IV. 18.) ME utasítással kinevezett miniszerelnöki biztos,
 
@@ -83,7 +83,7 @@ d)[^6]
 [^1]: A 3. pont az 1267/2019. (V. 8.) Korm. határozat 30. pontjával megállapított szöveg.
 [^2]: A 3. pont b) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 7. pontjával megállapított szöveg.
 [^3]: A 3. pont c) alpontja az 1545/2021. (VIII. 4.) Korm. határozat 7. pontjával megállapított szöveg.
-[^4]: A 3. pont d) alpontját az 1545/2021. (VIII. 4.) Korm. határozat 11. pont a) alpontja hatályon kívül helyezte.
+[^4]: A 3. pont d) alpontját újonnan az 1821/2021. (XI. 25.) Korm. határozat 8. pontja iktatta be.
 [^5]: A 4. pont az 1545/2021. (VIII. 4.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^6]: A 6. pont d) alpontját az 1545/2021. (VIII. 4.) Korm. határozat 11. pont b) alpontja hatályon kívül helyezte.
 [^7]: A 6.2. pont az 1545/2021. (VIII. 4.) Korm. határozat 9. pontjával megállapított szöveg.
