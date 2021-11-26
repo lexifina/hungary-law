@@ -72,62 +72,18 @@
 
 ## 5. A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a Komplex közútfelújítási feladatok végrehajtása érdekében az innovációért és technológiáért felelős miniszter összesen legfeljebb 8 001 142 094 forint összegben kötelezettséget vállaljon.
 
-## 6. A térségi közúti beruházásokhoz szükséges kötelezettségvállalásokról szóló 1668/2021. (IX. 28.) Korm. határozat (a továbbiakban: Korm. határozat) 2. pontja helyébe a következő rendelkezés lép:
+## 6.[^1]
 
-## „2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, Fejezeti kezelésű előirányzatok cím, Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, Közlekedési fejlesztések jogcímcsoport, Térségi közúti beruházások jogcím terhére vállalható kötelezettségek mértékét
+## 7.[^2]
 
-## a) 2022-ben az 1. melléklet szerinti táblázat C oszlopában,
+## 8.[^3]
 
-## b) 2023-ban az 1. melléklet szerinti táblázat D oszlopában,
+## 9.[^4]
 
-## c) 2024-ben az 1. melléklet szerinti táblázat E oszlopában,
+1. melléklet az 1820/2021. (XI. 25.) Korm. határozathoz[^5]
 
-## d) 2025-ben az 1. melléklet szerinti táblázat F oszlopában,
-
-## e) 2026-ban az 1. melléklet szerinti táblázat G oszlopában,
-
-## f) 2027-ben az 1. melléklet szerinti táblázat H oszlopában
-
-## szereplő soronkénti részösszegek összegében állapítja meg.”
-
-## 7. A Korm. határozat 1. pontja a következő d) alponttal egészül ki:
-
-## (A Kormány – tekintettel)
-
-## „d) a komplex közútfelújítási és -fejlesztési feladatok megvalósítása érdekében szükséges intézkedésekről szóló 1820/2021. (XI. 25.) Korm. határozat 3. pontjában foglalt közútfejlesztésekre”
-
-## [(a továbbiakban együtt: kormányhatározatok) a következőkről dönt.]
-
-## 8. A Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-## 9. A Debrecen 2030-ig szóló fejlesztési koncepciója 2020–2023. évi pénzügyi támogatásának megvalósításáról szóló 1292/2020. (VI. 10.) Korm. határozat 11. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „11. felhívja az innovációért és technológiáért felelős minisztert, hogy a 9. pont szerinti közlekedésfejlesztési szakági forrásokat támogatási jogviszony keretében biztosítsa elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság, valamint a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság számára;
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: a források rendelkezésre állását követő 60 napon belül
-
-## Az elszámolási és visszafizetési kötelezettség tekintetében
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: a 9. pont 9.1. és 9.2. alpontja tekintetében az elszámolási és visszafizetési kötelezettség a támogatási jogviszony keretében rögzített felhasználási időszakot követően
-
-## a 9. pont 9.3. alpontja tekintetében az elszámolási kötelezettség 2023. szeptember 30.
-
-## a 9. pont 9.4. alpontja tekintetében az elszámolási kötelezettség 2023. december 31.
-
-## a 9. pont 9.3 és 9.4. alpontja tekintetében a visszafizetési kötelezettség 2023. december 31.”
-
-1. melléklet az 1820/2021. (XI. 25.) Korm. határozathoz
-
-A Korm. határozat 1. mellékletében foglalt táblázat a következő 5. sorral egészül ki:
-
-|  | (A | B | C | D | E | F | G | H | I |
-
-| 1. | Kapcsolódó kormányhatározat száma | 2021. évi költségvetési év | 2022. évi költségvetési év | 2023. évi költségvetési év | 2024. évi költségvetési év | 2025. évi költségvetési év | 2026. évi költségvetési év | 2027. évi költségvetési év | Összesen) |
-
-| 5. | 1820/2021. (XI. 25.) Korm. határozat 3. pontja | 5 700 000 000 | 18 000 000 000 | 24 765 082 329 | 12 287 799 701 | 0 | 0 | 0 | 60 752 882 030 |
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
