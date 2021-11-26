@@ -1,0 +1,1 @@
+## „(7) A rendészeti vezetővé képző tanfolyamot vezető tréner a KOMP-rendszer tréneri felületén ismeri meg azt, hogy a hivatásos állomány tagja vonatkozásában mely kompetenciák fejlesztése szükséges a vezetővé képző tanfolyamon. A tréner kizárólag a fejlesztendő kompetenciák felsorolását kapja meg, a kompetenciafelmérés eredményéhez nem fér hozzá.”
