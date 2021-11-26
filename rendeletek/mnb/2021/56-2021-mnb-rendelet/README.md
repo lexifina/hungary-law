@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-56-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-11-25 | 2021-56-20-2C.1 | 56/2021. (XI. 24.) MNB rendelet |
+| 2021-11-26 | 2021-56-20-2C.2 | 2010: CXXX. törvény |

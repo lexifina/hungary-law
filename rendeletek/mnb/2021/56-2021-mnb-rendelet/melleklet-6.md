@@ -222,6 +222,6 @@
 
 ## A táblák kitöltésére a 3. melléklet II. 1.5-1.7. és II.1.9. pontjában foglaltakat kell alkalmazni.
 
-6. melléklet az 56/2021. (XI. 24.) MNB rendelethez[^10]
+6. melléklet az 56/2021. (XI. 24.) MNB rendelethez[^11]
 
-[^10]: A 6. melléklet a 12. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^11]: A 6. melléklet a 12. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
