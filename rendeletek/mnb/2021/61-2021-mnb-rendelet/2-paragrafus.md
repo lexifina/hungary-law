@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 30,8 gramm, átmérője 38,61 mm, széle recézett.
+
+(2) Az emlékérme előlapján szélfútta, füves tájon álló kopár fa ábrázolása látható, háttérben a felkelő nappal, amely egy tágra nyílt szem kinagyított szivárványhártyájára és pupillájára emlékeztet. Az előlap szélén, fent, köriratban a „MAGYARORSZÁG” felirat, mellette – egy díszítő ponttal elválasztva – a „2000” értékjelzés és a „FORINT” felirat, bal oldalon a „BP.” verdejel, jobb oldalon a „2021” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Pilinszky János oldalnézeti portréja látható, amely Szebeni András emblematikus fotója alapján készült. A hátlap jobb oldalán Pilinszky János kézjegye, alatta a születésének és halálának évét jelölő „1921–1981” felirat olvasható. A hátlap szélén, lent, jobb oldalon – a portréba illesztve – Pelcz Balázs tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
