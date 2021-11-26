@@ -1,4 +1,4 @@
-1. melléklet a 39/2016. (X. 6.) BM rendelethez[^4]
+1. melléklet a 39/2016. (X. 6.) BM rendelethez[^5]
 
 A rendfokozati vizsga követelményrendszere
 
@@ -78,4 +78,4 @@ c) együttműködés a társ-rendvédelmi feladatokat ellátó szervekkel, közi
 
 3. Szolgálati jog és etika: a hivatásos szolgálati jogviszony alapvető szabályai, jogok és kötelezettségek rendszere, valamint a hivatásos állomány tagjával szemben – rendfokozatához és szolgálati beosztásához igazodó – magatartási és etikai szabályok, ideértve az integritás és korrupció kérdéskörét is
 
-[^4]: Az 1. melléklet a 27/2019. (VI. 28.) BM rendelet 54. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 27/2019. (VI. 28.) BM rendelet 54. §-a szerint módosított szöveg.
