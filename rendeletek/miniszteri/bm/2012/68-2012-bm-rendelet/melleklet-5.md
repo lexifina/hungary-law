@@ -1,4 +1,4 @@
-5. melléklet a 68/2012. (XII. 14.) BM rendelethez[^18]
+5. melléklet a 68/2012. (XII. 14.) BM rendelethez[^20]
 
 Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény szerinti képzés és vizsga helyett elfogadható szakirányú képesítések és képzettségek a következők:
 
@@ -10,13 +10,13 @@ Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 4. a rendészeti szakközépiskolákban szerzett szakképesítés,
 
-5.[^19] a Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központjában középfokú büntetés-végrehajtási szaktanfolyami képzésben szerzett szakképesítés,
+5.[^21] a Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központjában középfokú büntetés-végrehajtási szaktanfolyami képzésben szerzett szakképesítés,
 
 6. a középfokú büntetés-végrehajtási szakképesítés,
 
-7.[^20] a Nemzeti Adó- és Vámhivatalnál, valamint jogelődjénél, a Vám- és Pénzügyőrségnél középfokú szaktanfolyamon szerzett képesítés,
+7.[^22] a Nemzeti Adó- és Vámhivatalnál, valamint jogelődjénél, a Vám- és Pénzügyőrségnél középfokú szaktanfolyamon szerzett képesítés,
 
-8.[^21] a rendőri szakközépiskolában, a határrendész képző szakközépiskolában, a büntetés-végrehajtás tiszthelyettes képző iskolában szerzett szakképesítés, a Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központjában szerzett szakképesítés,
+8.[^23] a rendőri szakközépiskolában, a határrendész képző szakközépiskolában, a büntetés-végrehajtás tiszthelyettes képző iskolában szerzett szakképesítés, a Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központjában szerzett szakképesítés,
 
 9. az alap- és középfokú szaktanfolyamon szerzett büntetés-végrehajtási szakképesítés, a kutyavezető szakképesítés, vagy
 
@@ -24,16 +24,16 @@ Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 Az 5., valamint a 8. pontban meghatározott képesítésekkel, szakképesítésekkel, szakképzettségekkel egyenértékűnek kell tekinteni az 5., illetve a 8. pontban említett intézmények jogelődjeinél szerzett képesítéseket, szakképesítéseket és a Rendőrtiszti Főiskolán szerzett olyan oklevelet, amelyben szak megnevezése még nem szerepel.
 
-11.[^22] a katonai biztonsági és általános felderítő szakon vagy az igazgatásszervező szakon szerzett oklevél,
+11.[^24] a katonai biztonsági és általános felderítő szakon vagy az igazgatásszervező szakon szerzett oklevél,
 
-12.[^23] a katonai felsőfokú oktatási intézményben szerzett oklevél,
+12.[^25] a katonai felsőfokú oktatási intézményben szerzett oklevél,
 
-13.[^24] a középfokú katonai szakképzési intézményben szerzett képesítés.
+13.[^26] a középfokú katonai szakképzési intézményben szerzett képesítés.
 
-[^18]: Az 5. melléklet a 20/2013. (V. 28.) BM rendelet 3. §-ával megállapított szöveg.
-[^19]: Az 5. melléklet 5. pontja a 40/2016. (X. 12.) BM rendelet 5. § a) pontja szerint módosított szöveg.
-[^20]: Az 5. melléklet 7. pontja a 40/2016. (X. 12.) BM rendelet 5. § b) pontja szerint módosított szöveg.
-[^21]: Az 5. melléklet 8. pontja a 40/2016. (X. 12.) BM rendelet 5. § c) pontja szerint módosított szöveg.
-[^22]: Az 5. melléklet 11. pontját a 20/2015. (VI. 12.) BM rendelet 3. §-a iktatta be.
-[^23]: Az 5. melléklet 12. pontját a 20/2015. (VI. 12.) BM rendelet 3. §-a iktatta be.
-[^24]: Az 5. melléklet 13. pontját a 20/2015. (VI. 12.) BM rendelet 3. §-a iktatta be.
+[^20]: Az 5. melléklet a 20/2013. (V. 28.) BM rendelet 3. §-ával megállapított szöveg.
+[^21]: Az 5. melléklet 5. pontja a 40/2016. (X. 12.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^22]: Az 5. melléklet 7. pontja a 40/2016. (X. 12.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^23]: Az 5. melléklet 8. pontja a 40/2016. (X. 12.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^24]: Az 5. melléklet 11. pontját a 20/2015. (VI. 12.) BM rendelet 3. §-a iktatta be.
+[^25]: Az 5. melléklet 12. pontját a 20/2015. (VI. 12.) BM rendelet 3. §-a iktatta be.
+[^26]: Az 5. melléklet 13. pontját a 20/2015. (VI. 12.) BM rendelet 3. §-a iktatta be.

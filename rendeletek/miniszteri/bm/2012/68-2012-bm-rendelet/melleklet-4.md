@@ -56,92 +56,75 @@
 
 ## f) a vizsgán elért eredményeket.
 
-## 4.[^17] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi a rendészetért felelős miniszter részére. A vizsgajegyzőkönyv nem selejtezhető.
+## 4.[^18] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi a rendészetért felelős miniszter részére. A vizsgajegyzőkönyv nem selejtezhető.
 
-4. melléklet a 68/2012. (XII. 14.) BM rendelethez
+4. melléklet a 68/2012. (XII. 14.) BM rendelethez[^19]
 
-1. Tanúsítvány a rendészeti feladatokat ellátó személyek és a személy- és vagyonőrök képzéséről
+1. A rendészeti feladatokat ellátó személyek és a személy- és vagyonőrök képzéséről kiállított tanúsítvány adattartalma
 
-Szám:
+1.1. a tanúsítvány száma
 
-(Magyarország címere többszínnyomással)
+1.2. Magyarország címere többszínnyomással
 
-TANÚSÍTVÁNY
+1.3. a „TANÚSÍTVÁNY” megjelölés
 
-Családi és utónév:
+1.4. a vizsgázó családi és utóneve
 
-Születési hely, idő:
+1.5. a vizsgázó születési helye és ideje
 
-Anyja születési családi és utóneve:
+1.6. a vizsgázó anyja születési családi és utóneve
 
-.......................... (vizsgaszervező neve) ................................, mint vizsgaszervező előtt az egyes rendészeti feladatok ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 23. §-ában meghatározottak alapján a rendészeti feladatokat ellátó személyek és a személy- és vagyonőrök képzését követően megfelelt minősítéssel
+1.7. a vizsgaszervező megnevezése
 
-VIZSGÁT
+1.8. a „vizsgaszervező előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 23. §-ában meghatározottak alapján a rendészeti feladatokat ellátó személyek és a személy- és vagyonőrök képzését követően megfelelt minősítéssel VIZSGÁT tett” szövegrész
 
-tett.
+1.9. a tanúsítvány kiállításának helye és kelte
 
-Kelt: ............................, .................. év .................... hónap ............. nap
+1.10. a vizsgaszervező vezetőjének és a vizsgabizottság elnökének aláírása
 
-P. H.
+2. A kiegészítő képzésről kiállított tanúsítvány adattartalma
 
-| .................................................................. | .................................................................. |
+2.1. a tanúsítvány száma
 
-| vizsgaszervező vezetője | vizsgabizottság elnöke |
+2.2. Magyarország címere többszínnyomással
 
-2. Tanúsítvány kiegészítő képzésről
+2.3. a „TANÚSÍTVÁNY” megjelölés
 
-Szám:
+2.4. a vizsgázó családi és utóneve
 
-(Magyarország címere többszínnyomással)
+2.5. a vizsgázó születési helye és ideje
 
-TANÚSÍTVÁNY
+2.6. a vizsgázó anyja születési családi és utóneve
 
-Családi és utónév:
+2.7. a vizsgaszervező megnevezése
 
-Születési hely, idő:
+2.8. a „vizsgaszervező előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 23. §-ában meghatározottak alapján a kiegészítő képzést követően megfelelt minősítéssel VIZSGÁT tett” szövegrész
 
-Anyja születési családi és utóneve:
+2.9. a tanúsítvány kiállításának helye és kelte
 
-.......................... (vizsgaszervező neve) ................................, mint vizsgaszervező előtt az egyes rendészeti feladatok ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 23. §-ában meghatározottak alapján a kiegészítő képzést követően megfelelt minősítéssel
+2.10. a vizsgaszervező vezetőjének és a vizsgabizottság elnökének aláírása
 
-VIZSGÁT
+3. A segédfelügyelői képzésről kiállított tanúsítvány adattartalma
 
-tett.
+3.1. a tanúsítvány száma
 
-Kelt: ............................, .................. év .................... hónap ............. nap
+3.2. Magyarország címere többszínnyomással
 
-P. H.
+3.3. a „TANÚSÍTVÁNY” megjelölés
 
-| .................................................................. | .................................................................. |
+3.4. a vizsgázó családi és utóneve
 
-| vizsgaszervező vezetője | vizsgabizottság elnöke |
+3.5. a vizsgázó születési helye és ideje
 
-3. Tanúsítvány segédfelügyelői képzésről
+3.6. a vizsgázó anyja születési családi és utóneve
 
-Szám:
+3.7. a vizsgaszervező megnevezése
 
-(Magyarország címere többszínnyomással)
+3.8. a „vizsgaszervező előtt az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 23. §-ában meghatározottak alapján a segédfelügyelői képzését követően megfelelt minősítéssel VIZSGÁT tett” szövegrész
 
-TANÚSÍTVÁNY
+3.9. a tanúsítvány kiállításának helye és kelte
 
-Családi és utónév:
+3.10. a vizsgaszervező vezetőjének és a vizsgabizottság elnökének aláírása
 
-Születési hely, idő:
-
-Anyja születési családi és utóneve:
-
-.......................... (vizsgaszervező neve) ................................, mint vizsgaszervező előtt az egyes rendészeti feladatok ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 23. §-ában meghatározottak alapján a segédfelügyelői képzését követően megfelelt minősítéssel
-
-VIZSGÁT
-
-tett.
-
-Kelt: ............................, .................. év .................... hónap ............. nap
-
-P. H.
-
-| .................................................................. | .................................................................. |
-
-| vizsgaszervező vezetője | vizsgabizottság elnöke |
-
-[^17]: A 3. melléklet III. pont 4. alpontja a 37/2016. (IX. 1.) BM rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^18]: A 3. melléklet III. pont 4. alpontja a 37/2016. (IX. 1.) BM rendelet 10. § (8) bekezdésével megállapított szöveg.
+[^19]: A 4. melléklet a 37/2021. (X. 27.) BM rendelet 2. §-ával megállapított szöveg.

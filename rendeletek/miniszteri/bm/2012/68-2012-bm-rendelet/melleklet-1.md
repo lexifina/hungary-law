@@ -1,4 +1,4 @@
-## 15. §[^16]
+## 15. §[^17]
 
 1. melléklet a 68/2012. (XII. 14.) BM rendelethez
 
@@ -42,4 +42,4 @@ Kelt: ............................................, ............... év ........
 
 olvasható aláírása
 
-[^16]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
