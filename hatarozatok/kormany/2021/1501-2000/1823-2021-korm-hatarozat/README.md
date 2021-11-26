@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1823-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-11-25 | 2021-1823-30-22.1 | 1823/2021. (XI. 25.) Korm. határozat |
+| 2021-11-26 | 2021-1823-30-22.2 | 2010: CXXX. törvény |
