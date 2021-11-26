@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1373-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-06-25 | 2019-1373-30-22.1 | 1373/2019. (VI. 25.) Korm. határozat |
+| 2021-11-26 | 2019-1373-30-22.2 | 1821/2021. (XI. 25.) Korm. határozat |

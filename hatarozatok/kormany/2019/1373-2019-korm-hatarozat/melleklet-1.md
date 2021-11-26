@@ -28,16 +28,19 @@
 
 ## 8. felhívja a belügyminisztert, hogy
 
-## a) készítsen jelentést a Rendelet 8. § (1) bekezdése szerint a Kormány részére az előkészítési fázisok végrehajtásáról, valamint az átcsoportosított forrás felhasznált összegéről,
+## a)[^1] készítsen jelentést a Rendelet 8. § (1) bekezdése szerint a Kormány részére az előkészítési fázisok végrehajtásáról, valamint az átcsoportosított forrás felhasznált összegéről,
 
 ## Felelős: belügyminiszter
 
-## Határidő: 2021. április 30.
+## Határidő: 2023. június 30.
 
-## b) az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés, a felelősök, valamint a hazai és európai uniós források bevonása lehetőségének bemutatásával.
+## b)[^2] az előkészítési fázisok eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításának kérdésében, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés, a felelősök, valamint a hazai és európai uniós források bevonása lehetőségének bemutatásával.
 
 ## Felelős: belügyminiszter
 
-## Határidő: 2021. április 30.
+## Határidő: 2023. július 31.
 
 1. melléklet az 1373/2019. (VI. 25.) Korm. határozathoz
+
+[^1]: A 8. pont a) alpontja az 1821/2021. (XI. 25.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 8. pont b) alpontja az 1821/2021. (XI. 25.) Korm. határozat 10. pontja szerint módosított szöveg.
