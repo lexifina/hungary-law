@@ -38,22 +38,25 @@ h) a Magyar Rektori Konferencia elnöke és
 
 i) a belügyminiszter által felkért azon vállalatok, amelyekkel a Kormány stratégiai együttműködési megállapodást kötött, valamint azok, amelyek a felzárkózás területén szakmai tapasztalattal rendelkeznek (a továbbiakban együtt: vállalatok).
 
-5.[^2] A Fórum elnöke a belügyminiszter. A Fórum alelnöke a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára, társelnöke a vállalatok által megjelölt tag.
+j)[^2] a roma kapcsolatokért felelős kormánybiztos.
+
+5.[^3] A Fórum elnöke a belügyminiszter. A Fórum alelnöke a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára és a roma kapcsolatokért felelős kormánybiztos, társelnöke a vállalatok által megjelölt tag.
 
 6. A Fórum ülésein meghívottként, a Fórum elnökének felkérésére, tanácskozási joggal vesznek részt a Fórum tagjai által javasolt kormánytagok.
 
-7.[^3] A Fórum titkársági feladatainak ellátásáról a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára gondoskodik.
+7.[^4] A Fórum titkársági feladatainak ellátásáról a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára gondoskodik.
 
 8. A Fórum szükség szerint, de legalább évente kétszer ülésezik.
 
-9.[^4] A Fórum működésének részletes szabályait az ügyrend tartalmazza. A Fórum ügyrendjét – a tagok véleményének kikérését követően – belügyminiszter állapítja meg.
+9.[^5] A Fórum működésének részletes szabályait az ügyrend tartalmazza. A Fórum ügyrendjét – a tagok véleményének kikérését követően – belügyminiszter állapítja meg.
 
-9a.[^5] A Fórum a feladatkörébe tartozó egyes szakkérdések megvitatását, illetve javaslatok kidolgozását az ügyrendben meghatározottak szerint – a Fórum egyes tagjai, valamint a meghívottak részvételével működő – munkacsoportok keretében is elláthatja.
+9a.[^6] A Fórum a feladatkörébe tartozó egyes szakkérdések megvitatását, illetve javaslatok kidolgozását az ügyrendben meghatározottak szerint – a Fórum egyes tagjai, valamint a meghívottak részvételével működő – munkacsoportok keretében is elláthatja.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 22. pontjával megállapított szöveg.
-[^2]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 22. pontjával megállapított szöveg.
-[^3]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 23. pontja szerint módosított szöveg.
-[^4]: A 9. pont az 1267/2019. (V. 8.) Korm. határozat 24. pontja szerint módosított szöveg.
-[^5]: A 9a. pontot az 1267/2019. (V. 8.) Korm. határozat 25. pontja iktatta be.
+[^2]: A 4. pont j) alpontját az 1821/2021. (XI. 25.) Korm. határozat 6. pontja iktatta be.
+[^3]: Az 5. pont az 1821/2021. (XI. 25.) Korm. határozat 7. pontjával megállapított szöveg.
+[^4]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 23. pontja szerint módosított szöveg.
+[^5]: A 9. pont az 1267/2019. (V. 8.) Korm. határozat 24. pontja szerint módosított szöveg.
+[^6]: A 9a. pontot az 1267/2019. (V. 8.) Korm. határozat 25. pontja iktatta be.
