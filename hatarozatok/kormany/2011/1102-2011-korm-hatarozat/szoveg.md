@@ -14,7 +14,7 @@ d) részt vesz a cigányság társadalmi helyzetének javításával, valamint t
 
 e) közreműködik a felzárkózást elősegítő szakmai hálózatok kialakításában, fejlesztésében.
 
-4.[^1] A Tanács 33 tagú testület, amelynek tagjai:
+4.[^1] A Tanács 34 tagú testület, amelynek tagjai:
 
 a) a belügyminiszter;
 
@@ -58,7 +58,9 @@ t) az Országgyűlés Magyarországi nemzetiségek bizottsága roma nemzetiségi
 
 u) a Roma Szakkollégiumok Egyesület elnöke.
 
-5.[^2] A Tanács ülésein
+v)[^2] a belügyminiszter által felkért, a roma kapcsolatok koordinációjában jártas személy.
+
+5.[^3] A Tanács ülésein
 
 a) állandó meghívottként, tanácskozási joggal vesznek részt:
 
@@ -78,52 +80,53 @@ ba) a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság tagjai
 
 bb) további meghívott személyek.
 
-6.[^3] A Tanács elnöke a belügyminiszter. A Tanács társelnökei a 4. pont c) és d) alpontjában meghatározott személyek. A Tanács elnökét akadályoztatása esetén a 4. pont c) alpontjában meghatározott személy helyettesíti.
+6.[^4] A Tanács elnöke a belügyminiszter. A Tanács társelnökei a 4. pont c) és d) alpontjában meghatározott személyek. A Tanács elnökét akadályoztatása esetén a 4. pont c) alpontjában meghatározott személy helyettesíti.
 
-6a.[^4] A Tanács összehangolt működése érdekében elnökséget működtet, amelynek tagjai a 4. pont a)–f), i) és t) alpontjaiban meghatározott személyek. Az elnökség javaslatot tesz a Tanács ülésének napirendjére és éves munkatervére.
+6a.[^5] A Tanács összehangolt működése érdekében elnökséget működtet, amelynek tagjai a 4. pont a)–f), i), t) és v) alpontjában meghatározott személyek. Az elnökség javaslatot tesz a Tanács ülésének napirendjére és éves munkatervére.
 
-6b.[^5]
+6b.[^6]
 
-7.[^6] A Tanács szükség szerint, de legalább évente kétszer ülésezik. A Tanács ülését a Tanács elnöke, az elnök akadályoztatása esetén a 4. pont c) alpontjában meghatározott személy – a Tanács Titkársága útján – hívja össze. A Tanács rendkívüli ülésének összehívását bármely tag az indok és napirend egyidejű megjelölésével kezdeményezheti a Tanács elnökénél.
+7.[^7] A Tanács szükség szerint, de legalább évente kétszer ülésezik. A Tanács ülését a Tanács elnöke, az elnök akadályoztatása esetén a 4. pont c) alpontjában meghatározott személy – a Tanács Titkársága útján – hívja össze. A Tanács rendkívüli ülésének összehívását bármely tag az indok és napirend egyidejű megjelölésével kezdeményezheti a Tanács elnökénél.
 
 8. A Tanács ülésének napirendjét – a tagok javaslatainak figyelembevételével és a Tanács elnökének jóváhagyásával – a Tanács Titkársága készíti elő.
 
-9.[^7] A Tanács titkársági feladatainak ellátásáról a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára gondoskodik.
+9.[^8] A Tanács titkársági feladatainak ellátásáról a Belügyminisztérium társadalmi felzárkózásért felelős helyettes államtitkára gondoskodik.
 
 10. A Tanács Titkársága gondoskodik a Tanács ülése napirendjének, valamint a napirendi pontokhoz kapcsolódó dokumentumoknak a Tanács tagjai részére történő megküldéséről, legkésőbb a tervezett ülés előtt öt munkanappal.
 
-11.[^8] A Tanács üléseiről a Tanács Titkársága emlékeztetőt készít. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a tagok részére történő megküldéséről – az ülést követő 15 munkanapon belül – a Tanács Titkársága gondoskodik.
+11.[^9] A Tanács üléseiről a Tanács Titkársága emlékeztetőt készít. Vitás kérdés esetén az emlékeztető tartalmazza a kisebbségi véleményt. Az emlékeztető elkészítéséről és a tagok részére történő megküldéséről – az ülést követő 15 munkanapon belül – a Tanács Titkársága gondoskodik.
 
-11a.[^9] A Tanács és a szakpolitikai testületek működésének részletes szabályait a Tanács az ügyrendjében állapítja meg.
+11a.[^10] A Tanács és a szakpolitikai testületek működésének részletes szabályait a Tanács az ügyrendjében állapítja meg.
 
-12.[^10] A Tanács és a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság közötti kapcsolattartás azok Titkárságain keresztül történik.
+12.[^11] A Tanács és a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság közötti kapcsolattartás azok Titkárságain keresztül történik.
 
-13.[^11] A Kormány felkéri
+13.[^12] A Kormány felkéri
 
 a) annak az 5 megyének a területén működő roma/cigány területi nemzetiségi önkormányzatnak a vezetőjét, amely megyék területén a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendeletben meghatározott, komplex programmal fejlesztendő járások jelentős számban találhatók, illetve amelyekben a Központi Statisztikai Hivatal 2011. évi népszámlálási adatai alapján a roma nemzetiségűek aránya szempontjából leginkább érintettek, hogy állandó tagként vegyenek részt a Tanács munkájában,
 
-b)[^12] a 4. pont h)–u) alpontjában szereplő szervezetek képviselőit a Tanácsban tagként való részvételre,
+b)[^13] a 4. pont h)–u) alpontjában szereplő szervezetek képviselőit a Tanácsban tagként való részvételre,
 
-c)[^13]
+c)[^14]
 
-14.[^14] A Kormány felhívja az emberi erőforrások miniszterét, hogy 2015. június 30-ig írjon ki pályázatot olyan roma közösségeket képviselő civil szervezeteknek a Roma Koordinációs Tanácsban való részvétele érdekében, amelyek szociális oktatási, egészségügyi, kulturális, foglalkoztatási vagy más a közösség érdekében végzett szakmai tevékenységet fejtenek ki, hátrányos helyzetű társadalmi csoportokkal vagy nemzetiségekkel, kiemelten romákkal kapcsolatos tevékenységet végeznek.
+14.[^15] A Kormány felhívja az emberi erőforrások miniszterét, hogy 2015. június 30-ig írjon ki pályázatot olyan roma közösségeket képviselő civil szervezeteknek a Roma Koordinációs Tanácsban való részvétele érdekében, amelyek szociális oktatási, egészségügyi, kulturális, foglalkoztatási vagy más a közösség érdekében végzett szakmai tevékenységet fejtenek ki, hátrányos helyzetű társadalmi csoportokkal vagy nemzetiségekkel, kiemelten romákkal kapcsolatos tevékenységet végeznek.
 
 15. A Kormány felhívja a minisztereket és az egyéb központi államigazgatási szervek vezetőit, hogy a Kormány jogalkotási tervében szereplő, a romák társadalmi felzárkózását érintő jogszabályok esetén a Tanács tagjai számára biztosítsa a közigazgatási egyeztetés keretein belül a véleménynyilvánítás lehetőségét.
 
-16.[^15] Ez a határozat a közzétételét követő napon lép hatályba,
+16.[^16] Ez a határozat a közzétételét követő napon lép hatályba,
 
-[^1]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
-[^2]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
-[^3]: A 6. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
-[^4]: A 6a. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, szövege az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
-[^5]: A 6b. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, az 1267/2019. (V. 8.) Korm. határozat 13. pontja alapján hatályát vesztette.
-[^6]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
-[^7]: A 9. pont az 1683/2012. (XII. 29.) Korm. határozat 10. pont a) alpontja, az 1223/2015. (IV. 20.) Korm. határozat 3. pontja, az 1267/2019. (V. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
-[^8]: A 11. pont az 1223/2015. (IV. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^9]: A 11a. pontot az 1405/2017. (VI. 28.) Korm. határozat 4. pontja iktatta be.
-[^10]: A 12. pont az 1405/2017. (VI. 28.) Korm. határozat 5. pontjával megállapított szöveg.
-[^11]: A 13. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
-[^12]: A 13. § b) pontja az 1267/2019. (V. 8.) Korm. határozat 15. pontja szerint módosított szöveg.
-[^13]: A 13. pont c) alpontját az 1405/2017. (VI. 28.) Korm. határozat 6. pontja hatályon kívül helyezte.
-[^14]: A 14. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
-[^15]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^1]: A 4. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított, nyitó szövegrésze az 1821/2021. (XI. 25.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: A 4. pont v) alpontját az 1821/2021. (XI. 25.) Korm. határozat 3. pontja iktatta be.
+[^3]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
+[^5]: A 6a. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, szövege az 1821/2021. (XI. 25.) Korm. határozat 4. pontjával megállapított szöveg.
+[^6]: A 6b. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, az 1267/2019. (V. 8.) Korm. határozat 13. pontja alapján hatályát vesztette.
+[^7]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
+[^8]: A 9. pont az 1683/2012. (XII. 29.) Korm. határozat 10. pont a) alpontja, az 1223/2015. (IV. 20.) Korm. határozat 3. pontja, az 1267/2019. (V. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
+[^9]: A 11. pont az 1223/2015. (IV. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^10]: A 11a. pontot az 1405/2017. (VI. 28.) Korm. határozat 4. pontja iktatta be.
+[^11]: A 12. pont az 1405/2017. (VI. 28.) Korm. határozat 5. pontjával megállapított szöveg.
+[^12]: A 13. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^13]: A 13. § b) pontja az 1267/2019. (V. 8.) Korm. határozat 15. pontja szerint módosított szöveg.
+[^14]: A 13. pont c) alpontját az 1405/2017. (VI. 28.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^15]: A 14. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^16]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
