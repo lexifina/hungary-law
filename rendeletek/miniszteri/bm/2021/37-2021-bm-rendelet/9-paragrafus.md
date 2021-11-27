@@ -1,3 +1,3 @@
-## 8. § A belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet 38. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^8]
 
-## „(3) A rendészeti vezetővé képző tanfolyam eredményes teljesítéséről a minisztérium tanúsítványt állít ki. A tanúsítvány legalább fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel történő hitelesítéssel állítható ki. A kiállított tanúsítványok nyilvántartását a minisztérium végzi.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

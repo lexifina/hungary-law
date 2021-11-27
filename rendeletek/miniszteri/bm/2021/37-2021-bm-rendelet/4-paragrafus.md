@@ -1,3 +1,3 @@
-## 3. § A belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet 7. §-a a következő (1d) bekezdéssel egészül ki:
+## 3. §[^3]
 
-## „(1d) Ha a hivatásos állomány tagja oktatói, tananyagfejlesztői feladatot lát el, e tevékenység a továbbképzési kötelezettség teljesítésébe a hivatásos állomány tagjának kérelmére, legfeljebb 8 továbbképzési pontértékig beszámításra kerül. Ebben az esetben a hivatásos állomány tagja a belügyi szerv humánigazgatási szakszolgálatán keresztül benyújtott kérelemben köteles szerepeltetni az oktatói, tananyagfejlesztői feladatokra vonatkozó adatokat. A beszámítással teljesített továbbképzési pontok az RVTV-n kerülnek rögzítésre.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 16. §[^1]
+## 16. §[^16]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 16. § 2022. január 1-jén lép hatályba.
 
-[^1]: A 16. § a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 16. § a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.

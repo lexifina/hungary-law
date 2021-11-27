@@ -1,3 +1,5 @@
-## 13. § Hatályát veszti a belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet 6. § (4) bekezdés b) pontja.
+## 13. §[^13]
 
 ## 3. A rendfokozati vizsgáról szóló 39/2016. (X. 6.) BM rendelet módosítása
+
+[^13]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

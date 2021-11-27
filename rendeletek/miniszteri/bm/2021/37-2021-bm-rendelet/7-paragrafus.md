@@ -1,1 +1,3 @@
-## „(7) A rendészeti vezetővé képző tanfolyamot vezető tréner a KOMP-rendszer tréneri felületén ismeri meg azt, hogy a hivatásos állomány tagja vonatkozásában mely kompetenciák fejlesztése szükséges a vezetővé képző tanfolyamon. A tréner kizárólag a fejlesztendő kompetenciák felsorolását kapja meg, a kompetenciafelmérés eredményéhez nem fér hozzá.”
+## 6. §[^6]
+
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

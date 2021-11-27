@@ -1,3 +1,3 @@
-## 4. § A belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^4]
 
-## „(1) A hivatásos állomány tagja által teljesített továbbképzésről a minisztérium tanúsítványt állít ki. A tanúsítvány az RVTV-ről letölthető elektronikus formában kerül kiállításra. A tanúsítvány legalább fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel történő hitelesítéssel állítható ki.”
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
