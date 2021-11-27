@@ -1,3 +1,5 @@
-## 5. § A Rendelet 12. § (2) bekezdésében a „március 15-i nemzeti ünnep és az augusztus 20-i állami ünnep” szövegrész helyébe a „március 15-i és az október 23-i nemzeti ünnep, valamint az augusztus 20-i állami ünnep” szöveg lép.
+## 1–5. §[^2]
 
 6. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
