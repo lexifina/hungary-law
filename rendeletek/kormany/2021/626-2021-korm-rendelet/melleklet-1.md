@@ -1,5 +1,3 @@
-## 8. §[^1]
-
 1. melléklet a 626/2021. (XI. 13.) Korm. rendelethez
 
 A miniszter részére történő bejelentés adattartalma
@@ -19,5 +17,3 @@ A miniszter részére történő bejelentés adattartalma
 7. az 1. § (1) bekezdés b) pontja szerinti kritériumokat alátámasztó adatok;
 
 8. más üzemanyagtöltő állomás legfeljebb a veszélyhelyzet végéig történő üzemeltetésére vonatkozó nyilatkozat.
-
-[^1]: A 8. § a 7. § (2) bekezdése alapján 2021. november 29-én lép hatályba.
