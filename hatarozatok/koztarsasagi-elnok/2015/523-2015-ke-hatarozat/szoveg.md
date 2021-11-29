@@ -2,4 +2,4 @@ Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállás�
 
 KEH ügyszám: IV-4/06429-6/2015.
 
-[^1]: Az 510/2018. (XI. 28.) KE határozat alapján a köztársasági elnök dr. Kovács-Pálvölgyi Tímea bírói kinevezését a 2018. december 1. napjától 2021. november 30. napjáig terjedő időtartamra meghosszabbította.
+[^1]: A 602/2021. (XI. 29.) KE határozat alapján a köztársasági elnök dr. Kovács-Pálvölgyi Tímea bírói kinevezését a 2021. december 1. napjától 2024. november 30. napjáig terjedő időtartamra meghosszabbította.
