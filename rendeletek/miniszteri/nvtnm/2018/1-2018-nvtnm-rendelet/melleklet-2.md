@@ -176,6 +176,8 @@
 
 | 35. | Magyar Házak Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 06-09-014103 | 2022. december 31. |
 
+| 36. | Nemzeti Egészségügyi Kutatási Ügynökség Nonprofit Korlátolt Felelősségű Társaság | 01-09-389952 | 2022. december 31. |
+
 ## V. Tulajdonosi joggyakorló: a Honvédelmi Minisztérium
 
 |  | A | B | C |
@@ -206,7 +208,7 @@
 
 | 2. | Digitális Jólét Nonprofit Korlátolt Felelősségű Társaság | 01-09-986454 | 2022. december 31. |
 
-| 3. | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság | 13-09-176128 | 2022. december 31. |
+| 3. |  |  |  |
 
 | 4. | IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 01-09-980439 | 2022. december 31. |
 
@@ -294,7 +296,7 @@
 
 | 6. |  |  |  |
 
-| 7. | NEKSZT Nemzeti Elektronikus Közbeszerzési Szolgáltató és Tanácsadó Korlátolt Felelősségű Társaság | 01-09-297946 | 2022. december 31. |
+| 7. |  |  |  |
 
 | 8. | NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság | 01-09-324951 | 2022. december 31. |
 

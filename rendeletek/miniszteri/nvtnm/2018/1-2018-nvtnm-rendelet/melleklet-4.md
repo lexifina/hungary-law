@@ -8,7 +8,7 @@
 
 | 1. |  |  |  |
 
-| 2. | Hungarofest Nemzeti Rendezvényszervező Nonprofit Korlátolt Felelősségű Társaság | 01-09-921721 | 2022. december 31. |
+| 2. | Turisztikai Vagyonkezelő és Ingatlanüzemeltető Nonprofit Korlátolt Felelősségű Társaság | 01-09-921721 | 2022. december 31. |
 
 | 3. | Kisfaludy2030 Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500327 | 2022. december 31. |
 
