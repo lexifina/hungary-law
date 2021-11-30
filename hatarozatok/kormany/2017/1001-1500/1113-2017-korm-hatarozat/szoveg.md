@@ -2,22 +2,12 @@ A Kormány
 
 1. egyetért a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma beruházás útépítési munkálataihoz kapcsolódóan tervezett eredeti csomópont bővítésével és a Kismartoni úton újabb csomópont létesítésével;
 
-2. felhívja a nemzeti fejlesztési minisztert, hogy – a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság útján – gondoskodjon az 1. pont szerinti munkálatok elvégzéséről;
+2.[^1]
 
-Felelős: nemzeti fejlesztési miniszter
+3.[^2]
 
-Határidő: 2018. június 30.
+4.[^3]
 
-3. felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter bevonásával gondoskodjon a 2017. év tekintetében az 1. pont szerinti munkálatok elvégzéséhez szükséges forrásnak a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások alcím, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 1. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím javára történő biztosításáról;
-
-Felelős: nemzetgazdasági miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: a kiadások felmerülésének ütemében
-
-4. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az 1. pont szerinti munkálatok elvégzéséhez szükséges 2018. évi forrás rendelkezésre állásáról a központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetében.
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: a 2018. évi központi költségvetés tervezése során
+[^1]: A 2. pontot az 1834/2021. (XI. 30.) Korm. határozat 5. pontja visszavonta.
+[^2]: A 3. pontot az 1834/2021. (XI. 30.) Korm. határozat 5. pontja visszavonta.
+[^3]: A 4. pontot az 1834/2021. (XI. 30.) Korm. határozat 5. pontja visszavonta.
