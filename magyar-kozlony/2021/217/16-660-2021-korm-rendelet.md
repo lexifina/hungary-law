@@ -1,0 +1,212 @@
+# A Kormány 660/2021. (XI. 30.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 217. szám, 2021. november 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bkl9RSK8NpSow94ODAxp619e398829e5f/dokumentumok/b3f57cffe2dc687adfd611995609afff2a422a35/letoltes)
+
+---
+
+A Kormány 660/2021. (XI. 30.) Korm. rendelete
+a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek
+nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok
+kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról
+A Kormány
+a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló
+2006. évi LIII. törvény 12. § (5) bekezdés a) pontjában,
+a 2. § és a 3. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 5., 6.,
+24. és 27. pontjában és a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 27. § (1) bekezdés g) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+A Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek
+nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló
+75/2015. (III. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben
+felsorolt közigazgatási hatósági ügyeket, amelyek a 2. mellékletben szereplő helyrajzi számú földrészleteken,
+valamint az ezen földrészletekből a telekalakítási eljárások végleges befejezését követően kialakított földrészleteken
+megvalósításra kerülő ipari telephely kialakításával, útépítési, vasútépítési, közműfejlesztési és -csatlakozási,
+valamint egyéb infrastruktúra-fejlesztések megvalósítására irányuló beruházással (a továbbiakban: beruházás)
+függenek össze.
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási
+hatósági eljárásokat, amelyek az (1) bekezdés szerinti beruházás megvalósításához, engedélyezéséhez,
+használatbavételéhez és üzemeltetésének beindításához szükségesek.”
+2. §
+A Korm. rendelet a következő 3. §-sal egészül ki:
+„3. § (1) A beruházással érintett, 3. mellékletben meghatározott ingatlanok esetében a beépítés szabályait
+a (2)–(4) bekezdés állapítja meg azzal, hogy
+a) a hatályos településrendezési tervek és az országos településrendezési és építési követelményekről szóló
+253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell
+alkalmazni, és
+b) ha a hatályos településrendezési tervek vagy az OTÉK a beépítés (2)–(4) bekezdésben meghatározott sajátos
+szabályaival ellentétes vagy azzal nem összeegyeztethető előírást tartalmaz, akkor a településrendezési tervet és
+az OTÉK-ot nem lehet alkalmazni.
+(2) A 3. mellékletben foglalt táblázat 2. sora szerinti földrészlet ipari tevékenységhez köthető általános gazdasági
+terület, amelyen az ipari tevékenységhez kapcsolódó épületek, közmű, hírközlési, raktározási és gazdasági
+rendeltetésű építmények, közműpótló műtárgyak és azok kiszolgálóépítményei helyezhetők el, az alábbi sajátos
+beépítési szabályok és egyedi építési követelmények alkalmazásával:
+a) a telek beépítési módja szabadon álló,
+b) a kialakítható telek legkisebb területe 100 000 m2,
+c) a beépítettség legnagyobb megengedett mértéke 60%,
+d) az épületmagasság megengedett legnagyobb mértéke 25 méter,
+e) a zöldfelület legkisebb mértéke 20%,
+f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2.
+(3) A 3. mellékletben foglalt táblázat 3., 4. és 5. sora szerinti földrészlet ipari tevékenységhez köthető általános
+gazdasági terület, amelyen az ipari tevékenységhez kapcsolódó épületek, közmű, hírközlési, raktározási és gazdasági
+rendeltetésű építmények, közműpótló műtárgyak és azok kiszolgálóépítményei helyezhetők el, az alábbi sajátos
+beépítési szabályok és egyedi építési követelmények alkalmazásával:
+a) a telek beépítési módja szabadon álló,
+b) a kialakítható telek legkisebb területe 40 000 m2,
+c) a beépítettség legnagyobb megengedett mértéke 50%,
+d) az épületmagasság megengedett legnagyobb mértéke 25 méter,
+e) a zöldfelület legkisebb mértéke 30%,
+
+f) a terepszint felett szintterületi mutató megengedett legnagyobb értéke 2,0 m2/m2.
+(4) A 3. mellékletben meghatározott földrészletek közötti területen a közlekedéshez, közműelhelyezéshez
+kapcsolódó épületek, közmű, hírközlési, raktározási és gazdasági rendeltetésű építmények, közműpótló műtárgyak
+és azok kiszolgálóépítményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények
+alkalmazásával:
+a) a telek beépítési módja szabadon álló,
+b) a kialakítható telek legkisebb területe 3000 m2.”
+3. §
+A Korm. rendelet a következő 3/A. §-sal egészül ki:
+„3/A. § (1) A beruházással érintett, 3. mellékletben meghatározott ingatlanok esetében a tereprendezést és
+mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti
+engedélyezési eljárásban az eljáró hatóság.
+(2) Az (1) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi
+és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló
+312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+(3) Az (1) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak
+elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.”
+4. §
+A Korm. rendelet a következő 8. §-sal egészül ki:
+„8. § E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági
+ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről
+szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 660/2021. (XI. 30.) Korm. rendelettel (a továbbiakban:
+Módr2.) módosított 1. §-át, 3. §-át, 3/A. §-át, továbbá 1–3. mellékletét a Módr2. hatálybalépésekor folyamatban lévő
+közigazgatási hatósági ügyekben is alkalmazni kell.”
+5. § (1) A Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+(2) A Korm. rendelet 2. melléklete helyébe a 2. melléklet lép.
+(3) A Korm. rendelet a 3. melléklet szerinti 3. melléklettel egészül ki.
+6. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 660/2021. (XI. 30.) Korm. rendelethez
+„1. melléklet a 75/2015. (III. 30.) Korm. rendelethez
+A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított
+eljárások
+ 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
+ 2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások és régészeti feltárásokkal kapcsolatos
+hatósági eljárások,
+ 3. környezetvédelmi hatósági eljárások,
+ 4. természetvédelmi hatósági eljárások,
+ 5. útügyi hatósági eljárások,
+ 6. vasúti és szalagpálya hatósági engedélyezési eljárás,
+ 7. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
+ 8. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
+ 9. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági
+engedélyezési eljárások,
+10. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
+
+11. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+12. telekalakításra irányuló hatósági eljárások,
+13. területrendezési hatósági eljárások,
+14. földmérési hatósági eljárások,
+15. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+16. hírközlési hatósági eljárások,
+17. bányahatósági engedélyezési eljárások,
+18. tűzvédelmi hatósági eljárások,
+19. élelmiszerlánc-felügyeleti eljárás,
+20. közegészségügyi hatósági eljárások,
+21. erdészeti hatósági eljárások,
+22. földvédelmi hatósági eljárás,
+23. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi
+engedélyezési eljárások,
+24. hulladékgazdálkodási hatósági eljárások,
+25. közműkezeléssel kapcsolatos hatósági eljárások,
+26. azok az 1–25. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a beruházás
+megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.”
+2. melléklet a 660/2021. (XI. 30.) Korm. rendelethez
+„2. melléklet a 75/2015. (III. 30.) Korm. rendelethez
+Az 1. § (1) bekezdése szerinti beruházással érintett földrészletek
+1. Debrecen megyei jogú város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0463/1, 0492/74, 0495/136,
+0495/196, 0495/71, 0504, 0507/13, 0513/14, 0463/2, 0492/76, 0495/137, 0495/197, 0495/72, 0505/12, 0507/14,
+0513/15, 0489/14, 0492/77, 0495/138, 0495/198, 0495/73, 0505/14, 0507/15, 0513/16, 0489/17, 0492/79, 0495/139,
+0495/199, 0495/74, 0505/18, 0507/2, 0513/17, 0489/3, 0492/87, 0495/140, 0495/203, 0495/75, 0505/19, 0507/4,
+0513/18, 0489/7, 0492/90, 0495/141, 0495/204, 0495/76, 0505/2, 0507/48, 0513/19, 0490/10, 0492/93, 0495/142,
+0495/205, 0495/78, 0505/20, 0507/49, 0513/20, 0490/11, 0492/95, 0495/143, 0495/206, 0495/8, 0505/22, 0507/50,
+0513/21, 0490/12, 0492/99, 0495/144, 0495/208, 0495/9, 0505/23, 0507/51, 0513/22, 0490/13, 0493/12, 0495/145,
+0495/209, 0495/97, 0505/24, 0507/52, 0513/26, 0490/14, 0493/2, 0495/146, 0495/210, 0495/98, 0505/25, 0507/53,
+0513/27, 0490/15, 0493/20, 0495/147, 0495/211, 0495/99, 0505/26, 0507/6, 0513/28, 0490/4, 0493/32, 0495/148,
+0495/212, 0496, 0505/27, 0507/71, 0513/32, 0490/6, 0493/33, 0495/149, 0495/29, 0497, 0505/28, 0507/73, 0513/35,
+0490/8, 0493/58, 0495/152, 0495/30, 0498/10, 0505/29, 0507/74, 0513/37, 0490/9, 0493/59, 0495/153, 0495/32,
+0498/11, 0505/30, 0507/75, 0513/41, 0491, 0493/65, 0495/154, 0495/34, 0498/2, 0505/31, 0507/76, 0513/44,
+0492/10, 0493/78, 0495/155, 0495/35, 0498/32, 0505/32, 0507/77, 14910, 0492/11, 0493/79, 0495/156, 0495/36,
+0498/35, 0505/33, 0507/78, 0492/13, 0493/9, 0495/157, 0495/37, 0498/36, 0505/34, 0507/79, 0492/14, 0494/1,
+0495/158, 0495/38, 0498/38, 0505/35, 0507/8, 0492/15, 0494/2, 0495/159, 0495/39, 0498/45, 0505/36, 0507/80,
+0492/16, 0495/100, 0495/160, 0495/4, 0498/48, 0505/37, 0507/81, 0492/17, 0495/101, 0495/161, 0495/40, 0498/49,
+0505/38, 0507/82, 0492/18, 0495/102, 0495/162, 0495/41, 0498/50, 0505/39, 0507/83, 0492/19, 0495/103, 0495/163,
+0495/42, 0498/51, 0505/40, 0507/84, 0492/20, 0495/104, 0495/166, 0495/43, 0498/52, 0505/41, 0507/85, 0492/21,
+0495/105, 0495/167, 0495/44, 0498/53, 0505/42, 0507/86, 0492/22, 0495/106, 0495/168, 0495/45, 0498/6, 0505/43,
+0507/87, 0492/23, 0495/107, 0495/169, 0495/46, 0498/7, 0505/44, 0507/88, 0492/24, 0495/108, 0495/170, 0495/47,
+0498/8, 0505/45, 0507/89, 0492/25, 0495/109, 0495/171, 0495/48, 0498/9, 0505/46, 0507/9, 0492/26, 0495/110,
+0495/172, 0495/49, 0499, 0505/47, 0507/90, 0492/27, 0495/111, 0495/173, 0495/5, 0500/2, 0505/49, 0507/91,
+0492/28, 0495/112, 0495/174, 0495/50, 0500/4, 0505/50, 0507/92, 0492/29, 0495/113, 0495/175, 0495/51, 0500/5,
+0505/51, 0507/93, 0492/30, 0495/114, 0495/176, 0500/6, 0505/52, 0508, 0492/31, 0495/115, 0495/177, 0500/7,
+0505/53, 0509/2, 0492/32, 0495/116, 0495/178, 0500/8, 0505/54, 0509/3, 0492/48, 0495/117, 0495/179, 0500/9,
+0505/55, 0509/4, 0492/49, 0495/118, 0495/180, 0501, 0505/56, 0509/5, 0492/50, 0495/119, 0495/181, 0502/2,
+0505/57, 0509/6, 0492/51, 0495/120, 0495/182, 0502/3, 0505/58, 0510, 0492/52, 0495/121, 0495/183, 0502/4,
+
+0505/59, 0511/41, 0492/53, 0495/122, 0495/184, 0502/6, 0505/6, 0511/43, 0492/54, 0495/123, 0495/185, 0502/7,
+0505/60, 0511/46, 0492/55, 0495/126, 0495/186, 0502/8, 0505/61, 0511/48, 0492/56, 0495/127, 0495/187, 0502/9,
+0505/62, 0511/50, 0492/57, 0495/128, 0495/188, 0495/64, 0503/2, 0505/70, 0511/52, 0492/58, 0495/129, 0495/189,
+0495/65, 0503/30, 0505/71, 0511/54, 0492/59, 0495/130, 0495/190, 0495/66, 0503/31, 0505/74, 0511/56, 0492/60,
+0495/131, 0495/191, 0495/67, 0503/32, 0505/75, 0512/1, 0492/61, 0495/132, 0495/192, 0495/68, 0503/6, 0505/76,
+0513/10, 0492/69, 0495/133, 0495/193, 0495/69, 0503/7, 0505/77, 0513/11, 0492/70, 0495/134, 0495/194, 0495/7,
+0503/8, 0506, 0513/12, 0492/71, 0495/135, 0495/195, 0495/70, 0503/9, 0507/10, 0513/13, 0431/4, 0454/2, 0475/2,
+0475/5, 0476/2, 0476/3, 0479/10, 0479/11, 0479/12, 0479/13, 0479/18, 0479/19, 0479/20, 0479/21, 0479/22,
+0479/23, 0479/24, 0479/46, 0479/48, 0480, 0481/24, 0481/26, 0481/33, 0481/40, 0481/41, 0481/42, 0481/43,
+0481/44, 0481/45, 0481/46, 0481/47, 0481/50, 0482, 0483/2, 0483/5, 0483/8, 0483/9, 0492/101, 0495/150, 0495/151,
+0495/164, 0495/165, 0498/47, 0498/66, 0498/67, 0522/30, 0522/31, 0522/32, 0522/33, 0522/34, 0522/35, 0522/39,
+0522/40, 0522/41, 0522/42, 0522/45, 0522/71, 0522/72, 0522/73, 0522/74, 0522/76, 0522/77, 0523, 0524/64,
+0526/24, 0526/25, 0528/13 helyrajzi számú földrészletek.
+2. Mikepércs község külterületén fekvő, az ingatlan-nyilvántartás szerinti 036, 037, 040/3, 042/3, 042/4, 042/105,
+042/106, 042/107, 042/108 helyrajzi számú földrészletek.
+3. Sáránd község külterületén fekvő, az ingatlan-nyilvántartás szerinti 094/5, 099 helyrajzi számú földrészletek.”
+3. melléklet a 660/2021. (XI. 30.) Korm. rendelethez
+„3. melléklet a 75/2015. (III. 30.) Korm. rendelethez
+A beruházás megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása
+a terület határpontjainak Egységes Országos Vetületi Rendszerben (EOV) megadott koordinátáival
+A B C D
+1. Telekpont
+EOV
+X Y
+2.
+X1 238465.85 843337.48
+X2 238465.85 842988.88
+X3 239535.60 843373.44
+X4 239535.60 842501.20
+X5 238465.85 842465.45
+X6 238277.32 842513.30
+X7 238138.42 842603.67
+X8 238138.08 842610.83
+X9 238404.39 842988.88
+3.
+X1 238719.98 842445.76
+X2 238728.96 842296.70
+X3 239858.76 842481.81
+X4 239901.84 842455.02
+X5 239960.83 842324.74
+4.
+X1 239565.60 843373.24
+X2 239565.60 842502.17
+X3 240025.42 842609.71
+X4 239946.35 842551.66
+X5 239828.44 842510.80
+
+5.
+X1 239937.55 842507.98
+X2 239927.75 842470.55
+X3 240035.30 842579.74
+X4 240259.34 842249.22
+X5 240029.50 842245.89
+”

@@ -1,0 +1,83 @@
+# A Kormány 646/2021. (XI. 30.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 217. szám, 2021. november 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bkl9RSK8NpSow94ODAxp619e398829e5f/dokumentumok/b3f57cffe2dc687adfd611995609afff2a422a35/letoltes)
+
+---
+
+A Kormány 646/2021. (XI. 30.) Korm. rendelete
+a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és
+gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet bölcsődében
+foglalkoztatottak béremelésével összefüggő módosításáról
+A Kormány a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (2) bekezdés g) pontjában foglalt felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és
+gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet [a továbbiakban:
+257/2000. (XII. 26.) Korm. rendelet] 6. számú melléklete helyébe az 1. melléklet lép.
+(2) A 257/2000. (XII. 26.) Korm. rendelet 6/a. számú melléklete helyébe a 2. melléklet lép.
+2. §
+Ez a rendelet 2022. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 646/2021. (XI. 30.) Korm. rendelethez
+„6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
+Bölcsődei pótlék összege (Ft) a bölcsődében, mini bölcsődében foglalkoztatott kisgyermeknevelők, szaktanácsadók vonatkozásában
+A B C D E F G H I J K L
+1.
+Fizetési
+fokozat
+Közalkalmazotti
+jogviszonyban
+töltött idő
+Fizetési osztály Pedagógus életpálya
+2. C D E Gyakornok alapfokozat Ped. I. alapfokozat
+Gyakornok
+mesterfokozat
+Ped. I. mesterfokozat Ped. II. alapfokozat Ped. II. mesterfokozat Mesterpedagógus
+3. 1 0–3 év között 77 592 80 280 97 068 100 000 (0–2 év) 110 000 (0–2 év)
+4. 2 3–6 év között 79 704 82 392 105 960 110 000 (3–5 év) 117 040 (3–5 év)
+5. 3 6–9 év között 81 816 89 700 115 800 115 000 (6–8 év) 115 000 (6–8 év)
+6. 4 9–12 év között 84 888 91 812 121 572 117 000 (9–11 év) 107 366 (9–11 év) 107 366 (9–11 év) 110 495 (9–11 év)
+7. 5 12–15 év között 87 960 100 704 135 264 119 000 (12–14 év) 108 482 (12–14 év) 108 480 (12–14 év) 111 612 (12–14 év)
+8. 6 15–18 év között 91 416 109 596 149 916 119 000 (15–17 év) 109 599 (15–17 év) 109 485 (15–17 év) 112 728 (15–17 év) 44 660 (15–17 év)
+9. 7 18–21 év között 99 000 118 488 165 528 109 610 (18–20 év) 110 715 (18–20 év) 110 490 (18–20 év) 113 845 (18–20 év) 45 777 (18–20 év)
+10. 8 21–24 év között 101 880 126 168 175 128 110 614 (21–23 év) 111 832 (21–23 év) 111 495 (21–23 év) 114 961 (21–23 év) 46 893 (21–23 év)
+11. 9 24–27 év között 109 452 140 460 189 420 111 619 (24–26 év) 112 948 (24–26 év) 112 500 (24–26 év) 116 078 (24–26 év) 48 010 (24–26 év)
+12. 10 27–30 év között 122 832 156 552 221 124 122 000 (27–29 év) 114 065 (27–29 év) 113 505 (27–29 év) 117 194 (27–29 év) 49 126 (27–29 év)
+13. 11 30–33 év között 138 132 173 244 229 884 124 629 (30–32 év) 115 181 (30–32 év) 113 409 (30–32 év) 118 311 (30–32 év) 50 243 (30–32 év)
+14. 12 33–36 év között 145 812 182 844 245 244 125 634 (33–35 év) 116 298 (33–35 év) 115 184 (33–35 év) 119 427 (33–35 év) 51 359 (33–35 év)
+15. 13 36–39 év között 163 608 203 388 263 352 137 639 (36–38 év) 117 414 (36–38 év) 116 552 (36–38 év) 120 544 (36–38 év) 52 476 (36–38 év)
+16. 14 39–42 év között 181 416 222 000 280 783 149 643 (39–41 év) 130 631 (39–41 év) 129 679 (39–41 év) 121 660 (39–41 év) 53 592 (39–41 év)
+17. 15 42–45 év között 199 212 242 544 308 040 161 648 (42–44 év) 131 747 (42–44 év) 130 541 (42–44 év) 122 777 (42–44 év) 54 709 (42–44 év)
+18. 16 45–48 év között 214 572 261 744 329 160
+19. 17 48 év felett 268 860 318 756 373 698
+”
+
+2. melléklet a 646/2021. (XI. 30.) Korm. rendelethez
+„6/a. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez
+Bölcsődei pótlék összege (Ft) a bölcsődében, mini bölcsődében foglalkoztatott bölcsődei dajkák vonatkozásában
+A B C D E F
+1. Fizetési
+fokozat
+Közalkalmazotti jogviszonyban
+töltött idő
+Fizetési osztály
+2. A B C D
+3. 1 0–3 év között 55 080 65 760 69 204 72 528
+4. 2 3–6 év között 56 520 67 200 70 824 74 328
+5. 3 6–9 év között 57 960 68 640 72 432 80 520
+6. 4 9–12 év között 59 400 70 080 74 040 87 420
+7. 5 12–15 év között 60 840 71 520 75 660 100 500
+8. 6 15–18 év között 62 280 72 960 77 268 114 552
+9. 7 18–21 év között 63 720 82 500 87 144 128 604
+10. 8 21–24 év között 65 160 86 376 89 208 132 456
+11. 9 24–27 év között 74 124 91 296 96 996 144 060
+12. 10 27–30 év között 81 684 105 576 112 992 163 728
+13. 11 30–33 év között 90 180 119 856 128 988 184 812
+14. 12 33–36 év között 95 856 125 568 133 044 191 220
+15. 13 36–39 év között 98 688 135 240 146 208 205 884
+16. 14 39–42 év között 107 196 150 624 163 440 220 620
+17. 15 42–45 év között 115 704 165 996 180 660 257 328
+18. 16 45–48 év között 119 808 175 164 190 440 275 892
+19. 17 48 év felett 124 200 181 380 205 224 289 608
+ ”
