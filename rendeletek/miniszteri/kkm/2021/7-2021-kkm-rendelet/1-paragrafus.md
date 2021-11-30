@@ -8,40 +8,42 @@
 
 4. Cseh Köztársaság,
 
-5. Észak-macedón Köztársaság,
+5. Egyiptomi Arab Köztársaság,
 
-6. Georgia,
+6. Észak-macedón Köztársaság,
 
-7. Horvát Köztársaság,
+7. Georgia,
 
-8. Indiai Köztársaság,
+8. Horvát Köztársaság,
 
-9. Kazah Köztársaság,
+9. Indiai Köztársaság,
 
-10. Kirgiz Köztársaság,
+10. Kazah Köztársaság,
 
-11. Marokkói Királyság,
+11. Kirgiz Köztársaság,
 
-12. Moldovai Köztársaság,
+12. Marokkói Királyság,
 
-13. Mongólia,
+13. Moldovai Köztársaság,
 
-14. Montenegrói Köztársaság,
+14. Mongólia,
 
-15. San Marino Köztársaság,
+15. Montenegrói Köztársaság,
 
-16. Szerb Köztársaság,
+16. San Marino Köztársaság,
 
-17. Szlovák Köztársaság,
+17. Szerb Köztársaság,
 
-18. Szlovén Köztársaság,
+18. Szlovák Köztársaság,
 
-19. Török Köztársaság,
+19. Szlovén Köztársaság,
 
-20. Ukrajna,
+20. Török Köztársaság,
 
-21. Üzbég Köztársaság,
+21. Ukrajna,
 
-22. Zöld-foki Köztársaság.
+22. Üzbég Köztársaság,
 
-[^1]: Az 1. § a 35/2021. (XI. 5.) KKM rendelet 1. §-ával megállapított szöveg.
+23. Zöld-foki Köztársaság.
+
+[^1]: Az 1. § a 38/2121. (XI. 29.) KKM rendelet 1. §-ával megállapított szöveg.
