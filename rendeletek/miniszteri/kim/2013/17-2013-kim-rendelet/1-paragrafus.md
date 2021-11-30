@@ -2,16 +2,36 @@
 
 ## ÁLTALÁNOS RENDELKEZÉSEK
 
-1. §[^1] (1) A központi névjegyzék, a választójoggal nem rendelkező polgárok nyilvántartása (a továbbiakban: NESZA), a szavazókörök és választókerületek nyilvántartása, a jelölő szervezetek, jelöltek és listák nyilvántartása, valamint a képviselők nyilvántartása a nemzeti adatvagyon körébe tartozó, a belügyminiszter által kezelt állami nyilvántartások informatikai infrastruktúrájának működését biztosító számítóközpontja és az azzal biztonságos hálózati kapcsolatban lévő számítógépes munkaállomásokra épülő választási informatikai rendszer (a továbbiakban: informatikai rendszer) része.
+1. §[^1] (1) A Nemzeti Választási Iroda (a továbbiakban: NVI) a választási eljárásról szóló 2013. évi XXXVI. törvény (a továbbiakban: Ve.) 76. § (1) bekezdés a) és c)–g) pontjában foglalt feladatainak végrehajtása érdekében biztosítja
 
-(2) Az informatikai rendszer részeként a Nemzeti Választási Iroda (a továbbiakban: NVI) működteti a választási kommunikációs és információs rendszert, valamint a választási pénzügyi-logisztikai rendszert.
+a) a nemzeti adatvagyon körébe tartozó, a Ve. 76. § (3) bekezdése szerinti nyilvántartások elektronikus adatfeldolgozását végző,
 
-(3) A belügyminiszter a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság útján biztosítja az informatikai rendszer működtetési környezetének infrastrukturális hátterét és annak elérhetőségét a választási iroda részére a választási eljárásról szóló 2013. évi XXXVI. törvényben (a továbbiakban: Ve.) foglalt feladatok végrehajtásához.
+b) a választási szervek közötti kommunikációt, valamint a választási pénzügyi, logisztikai feladatokat támogató,
 
-(4)[^2] A Ve. 76. § (3) bekezdésében felsorolt nyilvántartások üzemeltetéséről és fejlesztéséről a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet mellékletében meghatározott adatfeldolgozó gondoskodik.
+c) a választópolgárok számára a központi névjegyzékkel, valamint a szavazóköri névjegyzékkel kapcsolatos kérelmek elektronikus benyújtását és elbírálását biztosító,
 
-(5)[^3] Az informatikai rendszer működtetője és az infrastruktúra üzemeltetője a választási informatikai biztonsági ellenőrzések elvégzéséhez a választásban érintett infrastruktúrák és rendszerek vonatkozásában rendelkezésre bocsátja a szükséges naplóállományokat és egyéb információkat, vagy az NVI kérésére – az NVI által megadott szempontok alapján – elvégzi ezen naplóállományok vizsgálatát.
+d) a választások hivatalos honlapjának – beleértve a választási tájékoztató rendszert – működését biztosító,
 
-[^1]: Az 1. § a 28/2016. (XII. 27.) IM rendelet 5. §-ával megállapított szöveg.
-[^2]: Az 1. § (4) bekezdését a 26/2018. (IX. 7.) IM rendelet 1. §-a iktatta be.
-[^3]: Az 1. § (5) bekezdését a 26/2018. (IX. 7.) IM rendelet 1. §-a iktatta be.
+e) egyes választási iratok digitalizálását, a választási eredmények, előzetes adatok konzisztenciáját, adatmonitorozását, valamint a katasztrófahelyzet elhárítása érdekében üzemeltetett,
+
+f) az a) és b) pont szerinti informatikai rendszerek központi felhasználókezelését és a felhasználók központi azonosítását végző
+
+## informatikai rendszert, ideértve ezen informatikai rendszerek biztonságos kommunikációját biztosító informatikai hálózatot, továbbá az a)–f) pont szerinti informatikai rendszerekkel biztonságos hálózati kapcsolatban lévő számítógépes munkaállomásokat (a továbbiakban együtt: választási informatikai rendszer).
+
+(2) A választási informatikai rendszer része
+
+a) az e-közigazgatásért felelős miniszter (a továbbiakban: miniszter) által kezelt állami nyilvántartások informatikai infrastruktúrájának működését biztosító számítóközpontnak,
+
+b) a Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet szerinti Kormányzati Adatközpontnak és
+
+c) az ezekkel biztonságos hálózati kapcsolatban lévő számítógépes munkaállomásokra épülő informatikai rendszernek.
+
+(3) A miniszter a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ) útján üzemelteti a választási informatikai rendszer működtetési környezetének infrastrukturális hátterét és biztosítja annak elérhetőségét a választási iroda részére a Ve.-ben foglalt feladatok végrehajtásához.
+
+(4) A (3) bekezdés szerinti közszolgáltatások ellentételezését a miniszter az általa vezetett minisztérium költségvetéséből közszolgáltatási megállapodás útján biztosítja.
+
+(5) Az NVI és a NISZ szolgáltatási szerződésben állapodnak meg a választási informatikai rendszer infrastrukturális üzemeltetésének feltételeiről és a szolgáltatási szintekről.
+
+(6) A választási informatikai rendszer fejlesztője és üzemeltetője a választási informatikai biztonsági ellenőrzések elvégzéséhez a választásban érintett rendszerek és infrastruktúrák vonatkozásában rendelkezésre bocsátja a szükséges naplóállományokat és egyéb információkat, vagy az NVI kérésére – az NVI által megadott szempontok alapján – elvégzi ezen naplóállományok vizsgálatát.
+
+[^1]: Az 1. § a 15/2021. (XI. 29.) IM rendelet 1. §-ával megállapított szöveg.

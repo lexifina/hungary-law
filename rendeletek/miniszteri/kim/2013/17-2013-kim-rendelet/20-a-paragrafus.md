@@ -1,8 +1,8 @@
-## IV/A. Fejezet[^20]
+## IV/A. Fejezet[^22]
 
 ## A BÍRSÁG MEGFIZETÉSE, A MÉDIATARTALOM-SZOLGÁLTATÓ KÉPVISELETÉBEN ELJÁRÓ SZEMÉLY E MINŐSÉGÉNEK IGAZOLÁSA, VALAMINT A NEMZETI VÁLASZTÁSI BIZOTTSÁG VÁLASZTOTT TAGJAINAK KÖLTSÉGTÉRÍTÉSE
 
-20/A. §[^21] (1) A bírságot az NVI fizetési számlaszámára, átutalással kell megfizetni.
+20/A. §[^23] (1) A bírságot az NVI fizetési számlaszámára, átutalással kell megfizetni.
 
 (2) A választási bizottság a bírság kiszabásáról szóló határozatban, a bírságot befizető pedig az átutalás közlemény rovatában feltünteti az egyedi bírságazonosítót.
 
@@ -12,5 +12,5 @@
 
 (5) A bírság kiszabásáról szóló határozatot a bírságot kiszabó választási bizottság mellett működő választási iroda elektronikus úton továbbítja az NVI részére.
 
-[^20]: A IV/A. fejezetet (20/A–20/C. §) a 2/2014. (I. 16.) KIM rendelet 2. §-a iktatta be.
-[^21]: A 20/A. § a 4/2014. (VII. 24.) IM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^22]: A IV/A. fejezetet (20/A–20/C. §) a 2/2014. (I. 16.) KIM rendelet 2. §-a iktatta be.
+[^23]: A 20/A. § a 4/2014. (VII. 24.) IM rendelet 22. § (1) bekezdésével megállapított szöveg.

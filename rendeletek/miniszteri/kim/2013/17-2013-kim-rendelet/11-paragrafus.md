@@ -10,6 +10,6 @@ b) az SZL,
 
 c) a NESZA,
 
-d)[^14] ha a magyarországi lakcímmel nem rendelkező kérelmező az útlevele vagy a vezetői engedélye számát adja meg a kérelemben, az útiokmány-nyilvántartás vagy a közúti közlekedési nyilvántartás engedély-nyilvántartásának
+d)[^15] ha a magyarországi lakcímmel nem rendelkező kérelmező az útlevele vagy a vezetői engedélye számát adja meg a kérelemben, az útiokmány-nyilvántartás vagy a közúti közlekedési nyilvántartás engedély-nyilvántartásának
 
-[^14]: A 11. § (2) bekezdés d) pontja a 26/2018. (IX. 7.) IM rendelet 7. §-ával megállapított szöveg.
+[^15]: A 11. § (2) bekezdés d) pontja a 26/2018. (IX. 7.) IM rendelet 7. §-ával megállapított szöveg.

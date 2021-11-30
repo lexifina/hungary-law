@@ -4,7 +4,7 @@
 
 ## A KÉPVISELŐK NYILVÁNTARTÁSA
 
-19. §[^19] (1) A képviselők nyilvántartása tartalmazza annak megjelölését, hogy a képviselő, illetve a polgármester
+19. §[^21] (1) A képviselők nyilvántartása tartalmazza annak megjelölését, hogy a képviselő, illetve a polgármester
 
 a) melyik választáson, melyik választókerületben,
 
@@ -16,4 +16,4 @@ c) melyik nemzetiség jelöltjeként
 
 (2) Ha a képviselő a mandátum megüresedése miatt listáról szerez mandátumot, a nyilvántartás a választási bizottságnak a mandátum betöltéséről szóló határozatának számát is tartalmazza.
 
-[^19]: A 19. § a 26/2018. (IX. 7.) IM rendelet 10. §-ával megállapított szöveg.
+[^21]: A 19. § a 26/2018. (IX. 7.) IM rendelet 10. §-ával megállapított szöveg.
