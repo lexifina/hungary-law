@@ -34,7 +34,7 @@ h)[^35] a 2. § 1. pontjában felsorolt állatfajokat fogadó vágóhidakat és 
 
 i)[^36] a vadászható nagyvadfaj tartási helyeket.
 
-(2)[^37] Az állattartó a NÉBIH honlapján közzétett módon, formanyomtatványon vagy elektronikus felületen benyújtott kérelemben jelenti be az Országos Adatbázishoz új tenyészetét és tartási helyét, valamint a tenyészet vagy a tartási hely bármely adatában bekövetkezett változást, annak megtörténtét követő 14 napon belül. A bejelentésnek tartalmaznia kell az ENAR-koordinátor, illetve a hatósági állatorvos ellenjegyzését különösen az alábbi esetekben:
+(2)[^37] Az állattartó a NÉBIH honlapján közzétett módon, formanyomtatványon vagy elektronikus felületen benyújtott kérelemben jelenti be az Országos Adatbázishoz az új tenyészetét és tartási helyét, valamint – az adatváltozást követő 14 napon belül – a tenyészet vagy a tartási hely adataiban bekövetkezett változást, ide nem értve a méhcsaládok számában bekövetezett változást, amit kizárólag a méhállományok védelméről és a mézelő méhek egyes betegségeinek megelőzéséről és leküzdéséről szóló rendelet szerinti monitoring vizsgálat időszakában kell bejelenteni. A bejelentés tartalmazza az ENAR-koordinátor, illetve a hatósági állatorvos ellenjegyzését az alábbi esetekben:
 
 a) tenyészet bejelentésekor,
 
@@ -122,7 +122,7 @@ f)[^52] árutermelő sertés- és baromfiállomány esetén a betelepíteni kív
 [^34]: A 4. § (1) bekezdés g) pontja a 95/2008. (VII. 25.) FVM rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^35]: A 4. § (1) bekezdés h) pontja a 40/2018. (XII. 15.) AM rendelet 4. § (10) bekezdésével megállapított szöveg.
 [^36]: A 4. § (1) bekezdés i) pontját a 4/2009. (I. 16.) FVM rendelet 31. §-a iktatta be, szövege a 40/2018. (XII. 15.) AM rendelet 4. § (11) bekezdésével megállapított szöveg.
-[^37]: A 4. § (2) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (12) bekezdésével megállapított, nyitó szövegrésze a 40/2018. (XII. 15.) AM rendelet 5. § f) pontja szerint módosított szöveg.
+[^37]: A 4. § (2) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (12) bekezdésével megállapított, nyitó szövegrésze a 43/2021. (XI. 29.) AM rendelet 1. §-ával megállapított szöveg.
 [^38]: A 4. § (3) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (13) bekezdésével megállapított szöveg.
 [^39]: A 4. § (4) bekezdés a) pontja a 40/2018. (XII. 15.) AM rendelet 5. § g) pontja szerint módosított szöveg.
 [^40]: A 4. § (4) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 98. § b) pontja szerint módosított szöveg.
