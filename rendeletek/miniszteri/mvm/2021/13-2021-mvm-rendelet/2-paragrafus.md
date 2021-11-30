@@ -1,0 +1,1 @@
+## 1. § A közbeszerzésekért felelős miniszter vezetése alatt álló hivatali szervezet által működtetett elektronikus közbeszerzési rendszer üzemeltetésére és fenntartására az Új Világ Nonprofit Szolgáltató Kft.-t jelölöm ki.
