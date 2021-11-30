@@ -10,7 +10,7 @@ ab) Hegedűs Barbara Szilvia, Veszprém Megyei Jogú Város Önkormányzatának 
 
 ac) Horváth Jácint, Nagykanizsa Megyei Jogú Város Önkormányzatának képviselője,
 
-ad) Karácsony János Ádám, Tahitótfalu Község Önkormányzatának képviselője,
+ad)[^2] Karácsony János Ádám, a Pest Megyei Közgyűlés tagja,
 
 ae) dr. Kóbor József, Pécs Megyei Jogú Város Önkormányzatának képviselője,
 
@@ -54,6 +54,7 @@ bk) Temerini Ferenc, Soltvadkert Város polgármestere,
 
 bl) dr. Vántsa Botond, Szigetszentmiklós Város Önkormányzatának képviselője.
 
-2.[^1]
+2.[^3]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont a) alpont ad) pontja az 1830/2021. (XI. 30.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

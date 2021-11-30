@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1791-30
 | --- | --- | --- |
 | 2019-12-23 | 2019-1791-30-22.1 | 1791/2019. (XII. 23.) Korm. határozat |
 | 2019-12-24 | 2019-1791-30-22.2 | 2010: CXXX. törvény |
+| 2021-11-30 | 2019-1791-30-22.3 | 1332/2024. (XI. 6.) Korm. határozat |
