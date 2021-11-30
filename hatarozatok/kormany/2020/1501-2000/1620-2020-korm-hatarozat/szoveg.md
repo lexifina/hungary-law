@@ -18,21 +18,15 @@ a miniszterelnök általános helyettese
 
 Határidő: a 2021. évi költségvetés végrehajtása során, a felmerülés ütemében
 
-4. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 2 000 000 000 forint rendelkezésre állásáról a 2022. évi központi költségvetés XI. Miniszterelnökség fejezetben;
+4.[^1] felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 3 338 809 291 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 1. Gazdaság újraindítását szolgáló miniszterelnökségi fejezeti kezelésű előirányzatok alcím, 3. Egyházi működési, program és fejlesztési támogatások jogcímcsoport javára;
 
 Felelős: pénzügyminiszter
 
 a miniszterelnök általános helyettese
 
-Határidő: a 2022. évi központi költségvetés tervezése során
+Határidő: a felmerülés ütemében
 
-5. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 933 512 974 forint rendelkezésre állásáról a 2023. évi központi költségvetés XI. Miniszterelnökség fejezetben;
-
-Felelős: pénzügyminiszter
-
-a miniszterelnök általános helyettese
-
-Határidő: a 2023. évi központi költségvetés tervezése során
+5.[^2]
 
 6. felhívja a miniszterelnök általános helyettesét, hogy az 1. pontban foglalt cél megvalósítása érdekében, a 2. pontban meghatározott forrás terhére 58 039 000 forint támogatási összegben adjon ki támogatói okiratot a Szeged-Csanádi Egyházmegye mint kedvezményezett részére elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
 
@@ -46,16 +40,18 @@ Felelős: a miniszterelnök általános helyettese
 
 Határidő: a 3. pontban meghatározott forrás rendelkezésre állását követően azonnal
 
-8. felhívja a miniszterelnök általános helyettesét, hogy módosítsa a 6. pont alapján kiadott támogatói okiratot a 2022. évben a 4. pont szerinti forrás terhére az 1. pontban foglalt cél megvalósítása érdekében további 1 999 000 500 forint összegben a Szeged-Csanádi Egyházmegye mint kedvezményezett részére elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
+8.[^3] felhívja a miniszterelnök általános helyettesét, hogy az 1. pontban foglalt cél megvalósítása érdekében, a 4. pontban meghatározott forrás terhére további 3 337 140 721 forint támogatási összegben módosítsa a 6. pont alapján kiadott támogatói okiratot a Szeged-Csanádi Egyházmegye mint kedvezményezett részére elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
 
 Felelős: a miniszterelnök általános helyettese
 
 Határidő: a 4. pontban meghatározott forrás rendelkezésre állását követően azonnal
 
-9. felhívja a miniszterelnök általános helyettesét, hogy módosítsa a 6. pont alapján kiadott támogatói okiratot a 2023. évben az 5. pont szerinti forrás terhére az 1. pontban foglalt cél megvalósítása érdekében további 933 046 450 forint összegben a Szeged-Csanádi Egyházmegye mint kedvezményezett részére elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
+9.[^4]
 
-Felelős: a miniszterelnök általános helyettese
+10.[^5] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 101/A. §-ában meghatározott jogkörében eljárva úgy határoz, hogy a 6–8. pont szerinti költségvetési támogatásra az Ávr. 101/A. §-a rendelkezéseit nem kell alkalmazni.
 
-Határidő: az 5. pontban meghatározott forrás rendelkezésre állását követően azonnal
-
-10. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 101/A. §-ában meghatározott jogkörében eljárva úgy határoz, hogy a 6–9. pont szerinti költségvetési támogatásra az Ávr. 101/A. §-a rendelkezéseit nem kell alkalmazni.
+[^1]: A 4. pont az 1840/2021. (XI. 30.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pontot az 1840/2021. (XI. 30.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^3]: A 8. pont az 1840/2021. (XI. 30.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 9. pontot az 1840/2021. (XI. 30.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^5]: A 10. pont az 1840/2021. (XI. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
