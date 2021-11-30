@@ -158,19 +158,39 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. december 31.
 
-5. A Kormány
+5.[^3] A Kormány a győri Spartacus csónakház helyreállítása és környezetének fejlesztése érdekében felhívja a Miniszterelnökséget vezető minisztert, hogy az Önkormányzattal egyeztetve tegye meg a szükséges intézkedéseket a beruházás előkészítéséhez és megvalósításához szükséges források biztosítása érdekében.
 
-a) felhívja a Miniszterelnökséget vezető minisztert, hogy – a kormányzati tevékenység összehangolásáért való feladat- és hatáskörében – gondoskodjon a Megállapodásban, illetve a jelen kormányhatározatban meghatározott feladatok végrehajtásának koordinálásáról;
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: azonnal
+
+6.[^4] A Kormány
+
+a) felhívja a Miniszterelnökséget vezető minisztert, hogy – a településfejlesztésért és településrendezésért való feladat- és hatáskörében – gondoskodjon a Megállapodásban, illetve a jelen kormányhatározatban meghatározott feladatok végrehajtásának koordinálásáról;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
-b) felhívja az 1–4. pontban felelősként megjelölt minisztereket, hogy – szükség szerint az Önkormányzattal egyeztetve – határozzák meg a Megállapodásban foglaltak ütemezett megvalósításához szükséges 2017., 2018. és 2019. évi indikatív forrásigényeket, és tájékoztassák ezen forrásigényekről a Miniszterelnökséget vezető minisztert.
+b) felhívja az 1–5. pontban felelősként megjelölt minisztereket, hogy – szükség szerint az Önkormányzattal egyeztetve – határozzák meg a Megállapodásban foglaltak ütemezett megvalósításához szükséges indikatív forrásigényeket összességében, évenkénti bontásban;
 
-Felelős: az 1–4. pontban felelősként megjelölt miniszterek
+Felelős: az 1–5. pontban felelősként megjelölt miniszterek
+
+Határidő: a felmerülés ütemében
+
+c) felhívja az innovációért és technológiáért felelős minisztert, az emberi erőforrások miniszterét, a belügyminisztert és a külgazdasági és külügyminisztert, hogy a b) alpontban megjelölt forrásigényekről tájékoztassák a Miniszterelnökséget vezető minisztert.
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+emberi erőforrások minisztere
+
+belügyminiszter
+
+külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
 [^1]: A 4. pont a) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
 [^2]: A 4. pont b) alpontja az 1126/2020. (III. 25.) Korm. határozattal megállapított szöveg.
+[^3]: Az 5. pont az 1836/2021. (XI. 30.) Korm. határozattal megállapított szöveg.
+[^4]: A 6. pontot az 1836/2021. (XI. 30.) Korm. határozat iktatta be.
