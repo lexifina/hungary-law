@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2-20-06
 | 2016-08-03 | 2015-2-20-06.4 | 17/2016. (VIII. 2.) IM rendelet |
 | 2017-01-01 | 2015-2-20-06.5 | 23/2016. (XII. 21.) IM rendelet |
 | 2018-09-08 | 2015-2-20-06.6 | 26/2018. (IX. 7.) IM rendelet |
+| 2021-11-30 | 2015-2-20-06.7 | 2010: CXXX. törvény |
