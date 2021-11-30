@@ -2,34 +2,34 @@
 
 9. § (1) A mezőgazdasági termelő a kárenyhítő juttatás iránti kérelmet az erre a célra kialakított elektronikus kérelembenyújtó felületen – a 11. §-ban meghatározottak szerint –, a 2. mellékletben szereplő adatok megadásával, az Mkk. tv. 11. § (1) bekezdés f) pontjában meghatározottaknak megfelelően, tárgyév november 30-áig nyújthatja be az agrárkár-enyhítési szervhez.
 
-(1a)[^56] Az (1) bekezdésben meghatározott benyújtási határidőt követően kizárólag a kárenyhítő juttatás összegének a csökkentésére irányuló módosítási kérelem nyújtható be.
+(1a)[^60] Az (1) bekezdésben meghatározott benyújtási határidőt követően kizárólag a kárenyhítő juttatás összegének a csökkentésére irányuló módosítási kérelem nyújtható be.
 
 (2) Az agrárkár-enyhítési szerv a hozamérték-csökkenés 10. § (1) bekezdés szerinti határozatban történő megállapítása céljából – az Mkk. tv. 13. § (3) bekezdése szerint érdemi vizsgálat nélkül elutasított kérelmek kivételével – a kérelmeket továbbítja az agrárkár-megállapító szerv részére. A kérelembenyújtó felületen megadott adatok és az ahhoz feltöltött dokumentumok – ideértve a (4) és (5) bekezdésben meghatározott igazolásokat is – együttesen alkotják a kárenyhítő juttatás iránti kérelmet.
 
-(3)[^57] Kárenyhítő juttatásra vonatkozó jogosultság csak abban az esetben állapítható meg, ha a kárenyhítő juttatás iránti kérelem adatai alapján az adott kárenyhítési évben a mezőgazdasági termelő adott növénykultúra tekintetében
+(3)[^61] Kárenyhítő juttatásra vonatkozó jogosultság csak abban az esetben állapítható meg, ha a kárenyhítő juttatás iránti kérelem adatai alapján az adott kárenyhítési évben a mezőgazdasági termelő adott növénykultúra tekintetében
 
 a) elemi káreseményt és
 
 b) a 7. § (1) bekezdés szerinti számítási módszerrel megállapított, 15%-ot meghaladó mértékű hozamérték-csökkenést
 
-## szenved el, és ezekről az agrárkár-megállapító szerv által a 10. § (1) bekezdés szerint kiállított határozattal rendelkezik.
+szenved el, és ezekről az agrárkár-megállapító szerv által a 10. § (1) bekezdés szerint kiállított határozattal rendelkezik.
 
 (4) Ha a mezőgazdasági termelő rendelkezik az Mkk. tv. 11. § (5) bekezdése szerinti vagy egyéb, a kárenyhítő juttatás iránti kérelemben szereplő káreseményre megkötött mezőgazdasági biztosítási szerződéssel, akkor azt a 2. melléklet I. pontja szerinti adatok megadásával és a biztosítóval kötött szerződés ajánlati nyomtatványai és kötvénye elektronikus példányának kérelembenyújtó felületre történő feltöltésével igazolja. A biztosító által már kifizetett kártérítés összegét az Mkk. tv. 12. § (1) bekezdésében foglaltakkal összhangban figyelembe kell venni a kárenyhítő juttatás összegének kiszámításánál.
 
-(4a)[^58] Az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosításnak kell tekinteni az egységes kérelem, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamérték legalább felére kiterjedően megkötött mezőgazdasági biztosítási szerződést.
+(4a)[^62] Az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosításnak kell tekinteni az egységes kérelem, valamint a kárenyhítő juttatás iránti kérelem adatai alapján számított üzemi szintű referencia hozamérték legalább felére kiterjedően megkötött mezőgazdasági biztosítási szerződést.
 
 (5) Ha a mezőgazdasági biztosítási szerződésben a szerződő fél nem a mezőgazdasági termelő, akkor teljes mértékű kárenyhítő juttatásra az a mezőgazdasági termelő jogosult, akinek részére a szerződő fél vagy a biztosító a biztosított területet, a biztosítással fedezett káreseményt és a biztosított hozamértéket is feltüntető igazolást állít ki. Az igazolás elektronikus másolatát a mezőgazdasági termelőnek az (1) bekezdésben meghatározott határidőig fel kell töltenie a kérelembenyújtó felületre.
 
-(6)[^59] Ha a mezőgazdasági termelő olyan mezőgazdasági biztosítási szerződéssel rendelkezik, amelyről a biztosító az Mkk. tv.-ben, illetve a mezőgazdasági biztosítás díjához nyújtott támogatásról szóló pályázati felhívásban foglalt eljárása során adatszolgáltatási kötelezettség keretében adatokat szolgáltatott az agrárkár-enyhítési szerv részére, akkor a kárenyhítő juttatás kiszámítása során a biztosító által szolgáltatott adatokat is figyelembe kell venni.
+(6)[^63] Ha a mezőgazdasági termelő olyan mezőgazdasági biztosítási szerződéssel rendelkezik, amelyről a biztosító az Mkk. tv.-ben, illetve a mezőgazdasági biztosítás díjához nyújtott támogatásról szóló pályázati felhívásban foglalt eljárása során adatszolgáltatási kötelezettség keretében adatokat szolgáltatott az agrárkár-enyhítési szerv részére, akkor a kárenyhítő juttatás kiszámítása során a biztosító által szolgáltatott adatokat is figyelembe kell venni.
 
 (7) Ha a hozamérték-csökkenést több elemi káresemény okozta, akkor az igényelhető kárenyhítő juttatás növénykultúránkénti összegének meghatározásánál mezőgazdasági kárt kiváltó okként azt a kárfajtát kell megadni, amely az adott növénykultúra esetében a legnagyobb mértékű károsodást okozta.
 
-(8)[^60] Ha a mezőgazdasági termelő a kárenyhítő juttatás iránti kérelmét nem az (1) bekezdésben meghatározottak szerint nyújtja be, akkor a kérelmet az agrárkár-enyhítési szerv elutasítja.
+(8)[^64] Ha a mezőgazdasági termelő a kárenyhítő juttatás iránti kérelmét nem az (1) bekezdésben meghatározottak szerint nyújtja be, akkor a kérelmet az agrárkár-enyhítési szerv elutasítja.
 
 (9) Adott kárenyhítési évhez kapcsolódóan kárenyhítő juttatásra vonatkozó jogosultság akkor sem állapítható meg, ha a mezőgazdasági termelővel szemben valamely korábbi támogatás visszafizetésére kötelező olyan európai uniós jogszabály van érvényben, amely a támogatást jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította.
 
-[^56]: A 9. § (1a) bekezdését a 60/2020. (XII. 9.) AM rendelet 5. § (1) bekezdése iktatta be.
-[^57]: A 9. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 13. §-ával megállapított szöveg.
-[^58]: A 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet 5. § (2) bekezdése iktatta be.
-[^59]: A 9. § (6) bekezdése a 65/2016. (IX. 21.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^60]: A 9. § (8) bekezdése a 60/2020. (XII. 9.) AM rendelet 8. § i) pontja szerint módosított szöveg.
+[^60]: A 9. § (1a) bekezdését a 60/2020. (XII. 9.) AM rendelet 5. § (1) bekezdése iktatta be.
+[^61]: A 9. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 13. §-ával megállapított szöveg.
+[^62]: A 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet 5. § (2) bekezdése iktatta be.
+[^63]: A 9. § (6) bekezdése a 65/2016. (IX. 21.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^64]: A 9. § (8) bekezdése a 60/2020. (XII. 9.) AM rendelet 8. § i) pontja szerint módosított szöveg.
