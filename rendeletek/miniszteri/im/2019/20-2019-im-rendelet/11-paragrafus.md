@@ -28,4 +28,9 @@ h) előkészíti a megyei önkormányzati választáson, a területi nemzetiség
 
 i) tájékoztatást ad az erre irányuló kérelmet benyújtó választópolgár számára arról, hogy az adatai szerepelnek-e az általa ellenőrzött ajánlások között,
 
-j) a választási iratokat – beleértve az ajánlóíveket – a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy jogerős lezárása után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+j)[^17] gondoskodik a választási iratok biztonságos tárolásáról; a szavazást követő kilencvenedik napot követő munkanapon megsemmisíti az ajánlóíveket,
+
+k)[^18] az informatikai rendszerben rögzíti a megyei listán, a fővárosi kompenzációs listán és a területi nemzetiségi listán szereplő jelölt lemondását a jelöltségről.
+
+[^17]: A 11. § j) pontja a 15/2021. (XI. 29.) IM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^18]: A 11. § k) pontját a 15/2021. (XI. 29.) IM rendelet 14. § (2) bekezdése iktatta be.

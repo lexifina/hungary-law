@@ -38,4 +38,9 @@ h) előkészíti az egyéni listás, illetve az egyéni választókerületi vagy
 
 i) tájékoztatást ad az erre irányuló kérelmet benyújtó választópolgár számára arról, hogy az adatai szerepelnek-e az általa ellenőrzött ajánlások között, továbbá
 
-j) a választási iratokat – beleértve az ajánlóíveket – a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy jogerős lezárása után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+j)[^10] gondoskodik a választási iratok biztonságos tárolásáról; a szavazást követő kilencvenedik napot követő munkanapon megsemmisíti a szavazóköri névjegyzékkel kapcsolatos kérelmeket, valamint az azok elbírálása során keletkezett döntéseket, a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének kinyomtatott példányát, a nemzetiségi megfigyelők nyilvántartott személyes adatait, az ajánlóíveket, a visszautasítottak jegyzékét és az ellenőrző lapokat, valamint – a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezése, illetve az ügyészségnek vagy a nyomozó hatóságnak további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatala után – a szavazólapokat,
+
+k)[^11] az informatikai rendszerben rögzíti a kompenzációs listán szereplő jelölt lemondását a jelöltségről.
+
+[^10]: A 7. § j) pontja a 15/2021. (XI. 29.) IM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^11]: A 7. § k) pontját a 15/2021. (XI. 29.) IM rendelet 11. § (2) bekezdése iktatta be.

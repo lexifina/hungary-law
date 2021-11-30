@@ -2,7 +2,7 @@
 
 ## 2. A választási informatikai rendszer
 
-2. § (1) A választási informatikai rendszer (a továbbiakban: informatikai rendszer) e rendelet vonatkozásában a választási eljárásról szóló 2013. évi XXXVI. törvényben (a továbbiakban: Ve.) meghatározott választási feladatok végrehajtásában részt vevő és azokat kiszolgáló szervezetek által működtetett informatikai infrastruktúra és választási alkalmazói rendszerelemek összessége.
+2. § (1)[^1] E rendelet alkalmazásában választási informatikai rendszer (a továbbiakban: informatikai rendszer) a központi névjegyzék, valamint egyéb választási nyilvántartások vezetéséről szóló 17/2013. (VII. 17.) KIM rendelet 1. § (1) bekezdése szerinti választási informatikai rendszer.
 
 (2) Az informatikai rendszert kell használni
 
@@ -20,7 +20,7 @@ f) a szavazóköri névjegyzék, valamint a mozgóurnát igénylő választópol
 
 g) a szavazóköri névjegyzék megtekintésének biztosításához,
 
-h) a szavazóköri névjegyzékből történő – a választási eljárásról szóló 2013. évi XXXVI. törvény 153. §-a és 317. § (2) bekezdése szerinti – adatszolgáltatás elkészítéséhez,
+h)[^2] a szavazóköri névjegyzékből történő – a választási eljárásról szóló 2013. évi XXXVI. törvény (a továbbiakban: Ve.) 153. §-a és 317. § (2) bekezdése szerinti – adatszolgáltatás elkészítéséhez,
 
 i) a névjegyzékek vezetéséhez kapcsolódó értesítők, határozatok és egyéb döntések elkészítéséhez,
 
@@ -47,3 +47,6 @@ s) a választási eredmény megállapításának támogatásához,
 t) a bírságokkal kapcsolatos egyes feladatok ellátásához,
 
 u) a választási bizottság megbízott tagja összeférhetetlenségére vonatkozó egyes szabályok teljesülésének ellenőrzéséhez.
+
+[^1]: A 2. § (1) bekezdése a 15/2021. (XI. 29.) IM rendelet 8. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdés h) pontja a 15/2021. (XI. 29.) IM rendelet 17. § a) pontja szerint módosított szöveg.

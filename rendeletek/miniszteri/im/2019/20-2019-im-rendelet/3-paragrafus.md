@@ -22,8 +22,10 @@ b) a választási informatikai hálózat eléréséhez szükséges eszközöket,
 
 c) az a) és b) pontban foglaltak igénybevételéhez szükséges kiemelt rendelkezésre állást.
 
-(4) A (3) bekezdésben foglaltak különösen az ajánlás-ellenőrzés és a szavazóköri jegyzőkönyvek adatainak rögzítési feladataira terjedhetnek ki.
+(4)[^3] A (3) bekezdésben foglaltak különösen az ajánlóív-nyomtatás, az ajánlás-ellenőrzés, a szavazásnapi napközbeni részvételi adatok és a szavazóköri jegyzőkönyvek adatainak rögzítési feladataira terjedhetnek ki.
 
 (5) A választási iroda és a kormányhivatal együttműködik a választási feladatok határidőre történő elvégzése érdekében. A választási feladatok határidőre történő elvégzése elsőbbséget élvez a kormányhivatal egyéb feladataival szemben.
 
 (6) A választási iroda tagjává történő megbízása esetén a kormányhivatallal kormányzati szolgálati jogviszonyban álló személy is a választási iroda tagjával megegyező díjazásra jogosult.
+
+[^3]: A 3. § (4) bekezdése a 15/2021. (XI. 29.) IM rendelet 9. §-ával megállapított szöveg.

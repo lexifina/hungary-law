@@ -18,9 +18,9 @@ e) átveszi a jelölő szervezet bejelentését tartalmazó nyomtatványokat, az
 
 f) az informatikai rendszerben rögzíti a jelölő szervezet képviseletében nyilatkozattételre jogosultak adatait,
 
-g) a bíróság megkeresése útján ellenőrzi a jelölő szervezet létezését, bejelentett adatait és azt, hogy a választás kitűzésekor a bírósági nyilvántartásban jogerősen szerepelt-e, továbbá a Nektv. 2. § 14. pontjában foglalt feltétel teljesülését,
+g)[^19] a civil szervezetek országos névjegyzékében ellenőrzi a jelölő szervezet létezését, bejelentett adatait és azt, hogy a választás kitűzésekor a bírósági nyilvántartásban jogerősen szerepelt-e, továbbá nemzetiségi jelölő szervezet esetén a bíróság megkeresése útján ellenőrzi a Nektv. 2. § 14. pontjában foglalt feltétel teljesülését,
 
-h) átveszi az ajánlóív iránti igényt tartalmazó nyomtatványt, azt ellenőrzi, és az igénylő figyelmét felhívja az ajánlóív kiadásának esetleges akadályára; a nyomtatvány benyújtásáról átvételi elismervényt ad ki, továbbá az igénybejelentő nyomtatványt az informatikai rendszerben regisztrálja,
+h)[^20] átveszi az ajánlóív iránti igényt tartalmazó nyomtatványt, azt ellenőrzi, a nyomtatvány benyújtásáról átvételi elismervényt ad ki, továbbá az igénybejelentő nyomtatványt az informatikai rendszerben regisztrálja; ha az ajánlóív iránti igény nem teljesíthető, haladéktalanul határozatot hoz az ajánlóív kiadásának megtagadásáról, és azt átadja vagy megküldi az igénylőnek,
 
 i) az informatikai rendszerből kinyomtatja és átadás-átvételi jegyzőkönyvvel átadja az igénylő részére az ajánlóíveket,
 
@@ -40,7 +40,7 @@ m) az ajánlóíveken adott ajánlásokat – az NVB döntésének előkészít�
 
 ma) az ajánlóíven az ajánlást gyűjtő polgár és a választópolgár valamennyi szükséges adata fel van-e tüntetve,
 
-mb) az ajánlást gyűjtő polgár adatai – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – megegyeznek-e a nyilvántartásban szereplő adataival,
+mb)[^21] az ajánlást gyűjtő polgár adatai – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – megegyeznek-e a polgárok személyi és lakcímadatait tartalmazó nyilvántartásban, az útiokmány-nyilvántartásban vagy a vezetőiengedély-nyilvántartásban szereplő adataival,
 
 mc) létezik-e – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – választópolgár az adott személyi azonosítóval,
 
@@ -93,3 +93,7 @@ zb) az NVB és az NVI hivatali helyiségének címét, telefonszámát, elektron
 a) az igazgatási és informatikai próbák időpontjait, feladatait, résztvevőit,
 
 b) a szavazóköri és az eredményt megállapító jegyzőkönyvek továbbításának rendjét.
+
+[^19]: A 12. § (1) bekezdés g) pontja a 15/2021. (XI. 29.) IM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^20]: A 12. § (1) bekezdés h) pontja a 15/2021. (XI. 29.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^21]: A 12. § (1) bekezdés m) pont mb) alpontja a 15/2021. (XI. 29.) IM rendelet 15. § (3) bekezdésével megállapított szöveg.
