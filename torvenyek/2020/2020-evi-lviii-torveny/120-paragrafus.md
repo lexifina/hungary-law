@@ -1,11 +1,11 @@
-120. § (1) A köztestület testületi szerveinek a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint, a veszélyhelyzet megszűnését követő 60 napon belüli időpontra kiírt ülése a kiíráskor hatályos rendelkezéseknek megfelelően is megtartható. Az írásbeli egyeztetés és döntéshozatal a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint is történhet. Az ülésezésre és a döntéshozatalra a köztestület elnöke által meghatározott és a köztestület honlapján az érintettek számára hozzáférhetővé tett szabályokat a veszélyhelyzet megszűnését követő 60 napig lehet alkalmazni.
+120. § (1)
 
-(2) A köztestület testületi szervének ülése különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz vagy más elektronikus eszköz útján is megtartható. Ha az elektronikus hírközlő eszköz vagy más elektronikus eszköz útján való tanácskozás és döntéshozatal szabályaira nincs elfogadott eljárásrend, az ülésezésre és a döntéshozatalra a köztestület elnöke által meghatározott és a köztestület honlapján az érintettek számára hozzáférhetővé tett szabályokat kell alkalmazni. E bekezdés alkalmazható akkor is, ha a köztestület testületi szervének ülésén egyes tagok személyesen megjelennek.
+(2)
 
-(3) Többszintű köztestületi szervezet esetén az (1) és (2) bekezdésben meghatározott szabályozási jogkört az országos elnök gyakorolhatja, és a szabályokat a köztestület országos honlapján kell az érintettek számára hozzáférhetővé tenni.
+(3)
 
-(4) Ha a köztestület határozott időre kinevezett vagy megválasztott tisztségviselője megbízatásának időtartama a veszélyhelyzet idején járt le, a határozott idő meghosszabbodik mindaddig, amíg a veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson az új tisztségviselőt nem választják meg, vagy az új tisztségviselőt ki nem nevezik.
+(4)
 
-(5) Ha a köztestületi ügy intézésével kapcsolatos eljárási cselekmény lefolytatását a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint elhalasztották, az eljárási cselekmény elhalasztásáról szóló döntés meghozatalától a veszélyhelyzet megszűnéséig terjedő időszak a köztestületi ügy elintézésére nyitva álló határidőbe nem számít bele. Az elhalasztott eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a veszélyhelyzet megszűnését követő nap.
+(5)
 
 (6) A fegyelmi vagy etikai felelősségre vonás elévülése a veszélyhelyzet megszűnését követő napon folytatódik.

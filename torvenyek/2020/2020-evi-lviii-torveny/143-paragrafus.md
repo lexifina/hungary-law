@@ -1,5 +1,1 @@
-143. § (1) A fellebbezési és felülvizsgálati eljárásban eljáró bíróság a továbbiakban is tárgyaláson kívül jár el, ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban értesítette a feleket a tárgyaláson kívüli elbírálásról.
-
-(2) Ha a 2020. március 31. napja és 2020. június 1. napja közötti időszakban a bíróság által kiadott, a tárgyaláson kívüli elbírálásról szóló értesítését követően a felek az értesítés kiadásakor hatályos jogszabályi rendelkezések szerinti határidő alatt közös kérelemben kérték a tárgyalás megtartását, a bíróság kitűzi a tárgyalást.
-
-(3) Ha a 2020. június 1. napja előtt előterjesztett fellebbezés és felülvizsgálati kérelem alapján indult fellebbezési és felülvizsgálati eljárásban az (1) és (2) bekezdésben foglaltak alkalmazásának nincs helye, bármelyik félnek a veszélyhelyzet megszűnését követő 15 napon belül előterjesztett, tárgyalás tartása iránti kérelme esetén a bíróság tárgyalást tart. Erre irányuló kérelem hiányában a bíróság a továbbiakban is tárgyaláson kívül jár el.
+### 143. §

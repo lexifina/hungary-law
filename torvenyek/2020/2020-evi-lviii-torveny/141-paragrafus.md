@@ -1,1 +1,1 @@
-141. § Ha a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint az eljárásban hirdetményi kézbesítésnek lett volna helye, és ezért a bíróság az eljárás félbeszakadását állapította meg – és a hirdetményi kézbesítés oka korábban nem szűnt meg – a veszélyhelyzet megszűnésekor a félbeszakadás megszűnik, a bíróság az eljárást hivatalból folytatja.
+### 141. §

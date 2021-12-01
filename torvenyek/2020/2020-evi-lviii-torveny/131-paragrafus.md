@@ -1,1 +1,1 @@
-131. § A veszélyhelyzet megszűnését követő 60 napon belüli időpontra kiírt, a Szaktv. 15. § (1) bekezdésében meghatározott jogi ismeretek oktatását és a jogi vizsgát, valamint a rendszeres jogi oktatást a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint is le lehet bonyolítani.
+### 131. §

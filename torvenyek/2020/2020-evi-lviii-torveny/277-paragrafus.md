@@ -1,4 +1,4 @@
-277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés szükséges a 2021. június 30-ig létrejött jogügyletekkel összefüggésben:
+277. § (1) Stratégiai társaság esetén – ha a szerződés megkötése, az egyoldalú jognyilatkozat megtétele vagy a társaság határozata (a továbbiakban együtt: jogügylet) a (2)–(4) bekezdésben foglaltakat eredményezi – a belgazdaságért felelős miniszterhez (ezen alcím alkalmazásában a továbbiakban: miniszter) tett bejelentés szükséges a létrejött jogügyletekkel összefüggésben:
 
 a) stratégiai társaságban fennálló tulajdoni részesedés részben, vagy egészben, bármilyen tulajdonjog átruházási jogcímen – ideértve az apportálást is –, ingyenesen vagy visszterhesen történő átruházása,
 

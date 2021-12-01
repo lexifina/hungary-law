@@ -1,3 +1,3 @@
-## 83. Az adatvédelmi jogok gyakorlása érdekében benyújtott kérelmek és a folyamatban levő adatigénylések átmeneti szabályai
+## 83.
 
-265. § A veszélyhelyzet idején az egyes adatvédelmi és adatigénylési rendelkezésektől való eltérésről szóló 179/2020. (V. 4.) Korm. rendelet [a továbbiakban: 179/2020. (V. 4.) Korm. rendelet] 1. § (2) bekezdése alapján felfüggesztett kérelem tekintetében az érintett kérelme alapján teendő minden intézkedés felfüggesztéséről szóló tájékoztatást – ha arra a veszélyhelyzet időtartama alatt nem került sor – az e törvény hatálybalépését követően haladéktalanul teljesíteni kell. A 179/2020. (V. 4.) Korm. rendelet 1. § (2) bekezdése szerint felfüggesztett kérelmeket az e törvény hatálybalépését követően akként kell teljesíteni, hogy az intézkedésekre irányadó határidők kezdő napja az e törvény hatálybalépésének napja.
+### 265. §

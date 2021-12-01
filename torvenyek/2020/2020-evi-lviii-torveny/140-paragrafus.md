@@ -1,3 +1,1 @@
-140. § (1) A keresetlevelet, a keresetet tartalmazó iratot, a viszontkereset-levelet, a beszámítást tartalmazó iratot és az írásbeli ellenkérelmet a jogi képviselő nélkül eljáró fél a jogszabályban meghatározott, erre rendszeresített nyomtatvány alkalmazása nélkül is előterjesztheti.
-
-(2) Ha a jogi képviselő nélkül eljáró fél által előterjesztett keresetlevél nem tartalmazza a kötelező tartalmi elemeket vagy alaki kellékeket, a bíróságnak a hiánypótlásra felhívó végzésben a keresetlevél valamennyi hiányosságát fel kell tüntetnie, és a bíróságnak részletes, a fél jogban való járatlanságához igazodó teljes körű tájékoztatást kell adnia a hiányok pótlására vonatkozóan. Ennek eredménytelensége esetén van csak helye visszautasításnak.
+### 140. §

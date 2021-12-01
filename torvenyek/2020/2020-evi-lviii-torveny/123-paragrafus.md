@@ -1,1 +1,1 @@
-123. § Ha a veszélyhelyzet ideje alatt a közjegyzői eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdte a közjegyzői vagy közjegyzőhelyettesi tevékenységet, az esküt a veszélyhelyzet megszűnését követő 30 napon belül le kell tennie, és erről aláírt esküokmányt kell készíteni.
+### 123. §
