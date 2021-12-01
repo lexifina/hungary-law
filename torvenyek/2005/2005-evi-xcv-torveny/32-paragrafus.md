@@ -36,6 +36,8 @@ h) a gyógyszerekkel folytatott nagykereskedelmi és párhuzamos importtevékeny
 
 i) a gyógyszerek biztonságos alkalmazhatóságát vizsgáló laboratóriumok felügyeletére vonatkozó részletes szabályokat
 
+j) a 25. § (2b) és (2h) bekezdése alapján engedélyezett gyógyszer alkalmazásának további feltételeit
+
 rendeletben szabályozza.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy

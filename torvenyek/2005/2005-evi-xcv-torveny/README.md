@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-95-00-00
 | 2021-06-03 | 2021. évi XXXVIII. törvény | 2005-95-00-00.44 |
 | 2021-06-29 | 2021. évi CI. törvény | 2005-95-00-00.45 |
 | 2021-11-25 | 2021. évi CXII. törvény | 2005-95-00-00.46 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 2005-95-00-00.47 |

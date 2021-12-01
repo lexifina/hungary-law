@@ -66,7 +66,13 @@ e) az összegyűjtött adatok elemzésére kizárólag epidemiológiai módszere
 
 22. Szabványos Vényminta Gyűjtemény (FoNo): a magisztrális gyógyszerkészítés szabályait, valamint az egyes gyógyszerek minőségét és összetételét tartalmazó, a gyógyszerészeti államigazgatási szerv által kiadott, illetve módosított, a gyógyszergyártókra, forgalmazókra, orvosokra és gyógyszerészekre kötelező hivatalos kiadvány;
 
-23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalomba hozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és ez a Magyarországon már forgalomban lévő gyógyszertől nem várható; valamint ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagy mértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet.
+23. különös méltánylást érdemlő betegellátási érdek: akkor áll fenn, ha a Magyarországon érvényes forgalombahozatali engedéllyel nem rendelkező gyógyszer orvosi kezelés során történő alkalmazásával esélye lehet a kezelés sikerességének, és
+
+a) ez a Magyarországon már forgalomban lévő gyógyszertől nem várható,
+
+b) ha a kezelés sikerességét biztosító, Magyarországon vagy az EGT-ben részes államban már forgalomban lévő gyógyszer Magyarországon kellő mennyiségben nem elérhető, vagy
+
+c) ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez a beteg hozzájutása olyan aránytalanul nagymértékben akadályozott, ami a gyógyszeres kezelés megkezdésének késlekedése miatt visszafordíthatatlan egészségkárosodáshoz vezethet;
 
 24. Európai Gyógyszerügynökség: az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszerügynökség létrehozásáról szóló 726/2004/EK európai parlamenti és tanácsi rendelettel létrehozott Európai Gyógyszerügynökség;
 
