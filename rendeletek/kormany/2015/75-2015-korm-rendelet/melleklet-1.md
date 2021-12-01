@@ -1,12 +1,12 @@
-## 7. §[^3] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 174/2021. (IV. 9.) Korm. rendelettel (a továbbiakban: Módr.) módosított 2. mellékletét a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^6] E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 660/2021. (XI. 30.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 1. §-át, 3. §-át, 3/A. §-át, továbbá 1–3. mellékletét a Módr2. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 75/2015. (III. 30.) Korm. rendelethez
+1. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^8]
 
-## Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+## A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
-1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
+1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2. örökségvédelmi hatósági engedélyezési eljárások és régészeti feltárásokkal kapcsolatos hatósági eljárások,
+2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások és régészeti feltárásokkal kapcsolatos hatósági eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -20,31 +20,44 @@
 
 8. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
 
-9. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+9. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
-10. telekalakításra irányuló hatósági eljárások,
+10. termőfölddel összefüggő engedélyezésre irányuló hatósági eljárások,
 
-11. földmérési hatósági eljárások,
+11. ingatlan-nyilvántartással összefüggő hatósági eljárások,
 
-12. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+12. telekalakításra irányuló hatósági eljárások,
 
-13. hírközlési hatósági eljárások,
+13. területrendezési hatósági eljárások,
 
-14. bányahatósági engedélyezési eljárások,
+14. földmérési hatósági eljárások,
 
-15. tűzvédelmi hatósági eljárások,
+15. talajvédelmi engedélyezésre irányuló hatósági eljárások,
 
-16. élelmiszerlánc-felügyeleti eljárás,
+16. hírközlési hatósági eljárások,
 
-17. közegészségügyi hatósági eljárások,
+17. bányahatósági engedélyezési eljárások,
 
-18. területrendezési hatósági eljárások,
+18. tűzvédelmi hatósági eljárások,
 
-19. erdővédelmi hatósági eljárások,
+19. élelmiszerlánc-felügyeleti eljárás,
 
-20. földvédelmi hatósági eljárások,
+20. közegészségügyi hatósági eljárások,
 
-21. azok, az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek.
+21. erdészeti hatósági eljárások,
 
-[^3]: A 7. §-t a 174/2021. (IV. 9.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2021. április 10.
+22. földvédelmi hatósági eljárás,
+
+23. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+
+24. hulladékgazdálkodási hatósági eljárások,
+
+25. közműkezeléssel kapcsolatos hatósági eljárások,
+
+26. azok az 1–25. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^6]: A 8. §-t a 660/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2021. december 1.
+[^8]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
