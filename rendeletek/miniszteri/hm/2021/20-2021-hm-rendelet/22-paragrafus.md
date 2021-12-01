@@ -1,0 +1,1 @@
+## 21. § E rendelet nem érinti az állami célú légiközlekedésben folytatott szakszolgálati tevékenység repülőegészségi feltételeiről szóló 22/2005. (VI. 14.) HM–EüM együttes rendelet alapján kiadott orvosi minősítéseket, amelyek a lejárat dátumáig hatályosak.
