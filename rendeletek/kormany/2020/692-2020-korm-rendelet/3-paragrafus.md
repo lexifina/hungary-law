@@ -1,3 +1,5 @@
+## 2. §
+
 ## 3. A veszélyhelyzet ideje alatt az állami fenntartású egészségügyi intézmények kötelezettségvállalásának egyes szabályai
 
 3. § (1) A veszélyhelyzet ideje alatt az egészségügyi intézmény saját hatáskörben jogosult olyan kötelezettséget vállalni, amely
