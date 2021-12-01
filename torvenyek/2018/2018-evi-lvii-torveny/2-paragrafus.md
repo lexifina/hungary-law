@@ -36,6 +36,8 @@ h) az elektronikus hírközlésről szóló törvény hatálya alá tartozó szo
 
 i) az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó elektronikus információs rendszerek kialakítása, fejlesztése vagy működtetése
 
+j) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek
+
 tevékenységi körökön belül a Kormány rendeletében meghatározott egyes tevékenységek.
 
 (5) A (4) bekezdés e)–h) pontja alapján a Kormány az e törvény felhatalmazása alapján kiadott rendeletében azon tevékenységet határozhatja meg, amelyet a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló törvény alapján meghatározott valamely nemzeti létfontosságú rendszerelem vagy európai létfontosságú rendszerelem közvetlen igénybevétele útján végeznek.
