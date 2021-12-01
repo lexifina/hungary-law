@@ -1,0 +1,3 @@
+89/E. § (1) A 89/D. § (1) bekezdés hatálya alá nem tartozó egészségügyi honvédelmi alkalmazott az egészségügyi ágazati előmeneteli szabályok szerinti – az Eütev.-ben, e törvényben, a Kormány rendeletében és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – illetményre, illetménykiegészítésre, illetménypótlékra, valamint keresetkiegészítésre jogosult.
+
+(2) A miniszter – az Eszjtv. hatálya alá tartozó foglalkoztatottakra vonatkozó feltételekre és mértékre tekintettel – az (1) bekezdés szerinti egészségügyi honvédelmi alkalmazott részére további illetményen felüli díjazást, egyéb juttatást, támogatást állapíthat meg.

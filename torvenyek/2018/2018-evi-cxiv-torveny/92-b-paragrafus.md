@@ -6,7 +6,7 @@
 
 (4) Az Mt. 97. § (4) és (5) bekezdésétől és az Mt. 110. § (6) bekezdésétől eltérően a munkaidő-beosztás és a rendelkezésre állás tartama öt napon belül és egy hétnél rövidebb időtartamra is közölhető.
 
-(5) A honvédelmi alkalmazott részére az Mt. 110. §-a szerint elrendelt készenlét idejére illetménypótlék nem jár, ide nem értve az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 4. § a)–c) pontjának hatálya alá tartozó honvédelmi alkalmazottat.
+(5) A honvédelmi alkalmazott részére az Mt. 110. §-a szerint elrendelt készenlét idejére illetménypótlék nem jár, ide nem értve az Eütev. 4. § a)–c) pontjának hatálya alá tartozó honvédelmi alkalmazottat.
 
 (6) A munkáltató a honvédelmi alkalmazottat az Mt. 53. § (2) bekezdésében meghatározott mértéknél hosszabb időtartamban is a kinevezéstől eltérően foglalkoztathatja.
 

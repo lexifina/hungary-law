@@ -67,3 +67,5 @@
 33. a lakhatási támogatási formákat, az egyes lakhatási támogatásokra való jogosultság feltételeit, az igényjogosultság elbírálásának és teljesítésének módját,
 
 34. a helyettesítési díjra való jogosultság eseteit, annak mértékét.
+
+35. a 89/D. § (1) bekezdés b) pontja szerinti munkaköröket.
