@@ -6,6 +6,6 @@
 
 (4) A pályázatot az állományilletékes parancsnok írja ki.
 
-(5)[^137]
+(5)[^138]
 
-[^137]: A 29. § (5) bekezdését a 13/2020. (X. 14.) HM rendelet 32. § 6. pontja hatályon kívül helyezte.
+[^138]: A 29. § (5) bekezdését a 13/2020. (X. 14.) HM rendelet 32. § 6. pontja hatályon kívül helyezte.

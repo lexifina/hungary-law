@@ -1,4 +1,4 @@
-115. §[^285] (1) A tanulmányi támogatás visszakövetelése érdekében az állományilletékes parancsnok az esedékessé válástól számított 30 napon belül fizetési felszólításban hívja fel az állomány megtérítésre kötelezett tagját.
+115. §[^286] (1) A tanulmányi támogatás visszakövetelése érdekében az állományilletékes parancsnok az esedékessé válástól számított 30 napon belül fizetési felszólításban hívja fel az állomány megtérítésre kötelezett tagját.
 
 (2) Ha az állomány tagja a fizetési felszólítás kézhezvételétől számított 30 napon belül nem teljesíti fizetési kötelezettségét, igényét a honvédelmi szervezet fizetési meghagyás vagy bíróság útján érvényesíti.
 
@@ -12,4 +12,4 @@ c) a (2) bekezdés szerinti következményről.
 
 (4) A Hjt. 88. § (4a) bekezdése alapján a követelés egészének elengedése esetén a (2) bekezdés nem alkalmazható.
 
-[^285]: A 115. § a 20/2018. (XII. 28) HM rendelet 42. §-ával megállapított szöveg.
+[^286]: A 115. § a 20/2018. (XII. 28) HM rendelet 42. §-ával megállapított szöveg.

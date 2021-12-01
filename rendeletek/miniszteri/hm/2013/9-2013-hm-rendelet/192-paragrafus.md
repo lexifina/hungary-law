@@ -14,11 +14,11 @@ f) az igénybe vehető utazási eszközöket, valamint azok komfortfokozatát,
 
 g) az utólagos elszámolás mellett kiadható egyéb költségelőlegek jogcímét, összegét, és
 
-h)[^396] az illetékes pénzügyi ellátó szerv megnevezését.
+h)[^397] az illetékes pénzügyi ellátó szerv megnevezését.
 
 (2) A KNBSZ költségvetése terhére elrendelt ideiglenes külföldi szolgálat esetén a vezénylés tartalmi elemeit a KNBSZ főigazgatója határozza meg.
 
-(3)[^397] Az ideiglenes külföldi szolgálatra vezénylésről szóló munkáltatói döntést a változás tudomásra jutásának napjától számított nyolc napon belül módosítani kell, ha az utazás során a munkáltatói döntésben foglaltakhoz képest változás következik be.
+(3)[^398] Az ideiglenes külföldi szolgálatra vezénylésről szóló munkáltatói döntést a változás tudomásra jutásának napjától számított nyolc napon belül módosítani kell, ha az utazás során a munkáltatói döntésben foglaltakhoz képest változás következik be.
 
-[^396]: A 192. § (1) bekezdés h) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 21. pontja szerint módosított szöveg.
-[^397]: A 192. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 55. §-a iktatta be.
+[^397]: A 192. § (1) bekezdés h) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 21. pontja szerint módosított szöveg.
+[^398]: A 192. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 55. §-a iktatta be.

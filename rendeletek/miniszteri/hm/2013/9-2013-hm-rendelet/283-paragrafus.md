@@ -1,3 +1,3 @@
-283. §[^483]
+283. §[^484]
 
-[^483]: A 283. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 14. pontja hatályon kívül helyezte.
+[^484]: A 283. §-t a 20/2018. (XII. 28.) HM rendelet 72. § 14. pontja hatályon kívül helyezte.

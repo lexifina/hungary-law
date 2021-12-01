@@ -30,6 +30,12 @@ b) hatósági döntés előkészítését végző vagy jogi képviselet ellátá
 
 (12)[^125] A miniszter a sajtó, tájékoztatás, fegyvernemi szakági alcsoporton belül legfeljebb ezredes rendfokozattal rendszeresített beosztásban történő foglalkoztatást engedélyezheti, ha az érintett legalább főiskolai vagy felsőfokú alapképzésben szerzett alapfokozatú végzettséggel rendelkezik és a szolgálati beosztás folyamatos betöltése a Honvédség kiemelt stratégiai érdeke, továbbá ha a beosztás a Honvédség szempontjából kiemelt felkészültség, nehezen pótolható szakmai tapasztalat meglétét követeli meg.
 
+(13)[^126] A Hjt. 237/L. § (1) bekezdés b) pontjában meghatározott munkakörnek minősülnek a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet 7. mellékletében foglalt táblázat 3. és 5. pontjában meghatározott egészségügyi katonai szolgálati beosztások akkor, ha a beosztás
+
+a) alezredes vagy ennél magasabb rendfokozattal rendszeresített, vagy
+
+b) főhadnagy, százados vagy őrnagy rendfokozattal rendszeresített, és a beosztás betöltésének a feltétele a szakirányú egyetemi végzettség.
+
 [^117]: A 26. § (1) bekezdése a 13/2020. (X. 14.) HM rendelet 7. §-ával megállapított szöveg.
 [^118]: A 26. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 19. pontja szerint módosított szöveg.
 [^119]: A 26. § (5) bekezdése a 4/2015. (VI. 22.) HM rendelet 9. § (2) bekezdésével megállapított szöveg.
@@ -39,3 +45,4 @@ b) hatósági döntés előkészítését végző vagy jogi képviselet ellátá
 [^123]: A 26. § (11) bekezdését az 5/2017. (V. 17.) HM rendelet 1. § (3) bekezdése iktatta be.
 [^124]: A 26. § (11a) bekezdését a 12/2018. (VII. 27.) HM rendelet 4. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 71. § 7. pontja szerint módosított szöveg.
 [^125]: A 26. § (12) bekezdését a 10/2017. (VIII. 31.) HM rendelet 7. §-a iktatta be.
+[^126]: A 26. § (13) bekezdését a 23/2021. (XI. 29.) HM rendelet 1. §-a iktatta be.
