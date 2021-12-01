@@ -6,6 +6,6 @@
 
 (3) A holdingalapot végrehajtó szervezet a (2) bekezdés szerinti szempontok alapján a szabályzat tervezetét átdolgozza, és újból benyújtja jóváhagyásra az (1) bekezdés szerint.
 
-(4)[^59] A pénzügyi eszközzel összefüggő követelés részletfizetés útján is visszafizethető. A részletfizetés futamideje nem haladhatja meg a harminchat hónapot. A futamidő alatt kamat nem számítható fel.
+(4)[^61] A pénzügyi eszközzel összefüggő követelés részletfizetés útján is visszafizethető. A részletfizetés futamideje nem haladhatja meg a harminchat hónapot. A futamidő alatt kamat nem számítható fel.
 
-[^59]: Az 506. § (4) bekezdését az 562/2021. (X. 1.) Korm. rendelet 30. §-a iktatta be.
+[^61]: Az 506. § (4) bekezdését az 562/2021. (X. 1.) Korm. rendelet 30. §-a iktatta be.

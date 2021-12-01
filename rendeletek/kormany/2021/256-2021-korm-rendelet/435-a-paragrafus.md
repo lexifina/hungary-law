@@ -1,4 +1,4 @@
-## 107/A. [^52] A biztosíték érvényesítése
+## 107/A. [^54] A biztosíték érvényesítése
 
 ## 435/A. § Ezt az alcímet kell alkalmazni akkor, ha
 
@@ -8,4 +8,4 @@ b) a beszámítás nem vezetett eredményre, és
 
 c) nem jött létre részletfizetési megállapodás.
 
-[^52]: A 107/A. alcímet (435/A–435/E. §) az 562/2021. (X. 1.) Korm. rendelet 27. §-a iktatta be.
+[^54]: A 107/A. alcímet (435/A–435/E. §) az 562/2021. (X. 1.) Korm. rendelet 27. §-a iktatta be.
