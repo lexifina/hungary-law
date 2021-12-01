@@ -1,47 +1,55 @@
-## 7. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^4] E rendeletnek az emelt szintű könnyűzenei képzési központ létrehozását biztosító beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 705/2020. (XII. 29.) Korm. rendelet módosításáról szóló 661/2021. (XI. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §-át, 2/A. §-át és 4/A. §-át, valamint 1. mellékletét a Módr. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 705/2020. (XII. 29.) Korm. rendelethez
+1. melléklet a 705/2020. (XII. 29.) Korm. rendelethez[^6]
 
 ## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
-1. építésügyi hatósági engedélyezési és bejelentési eljárások,
+1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
 
-3. környezetvédelmi hatósági eljárások,
+3. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
 
-4. természetvédelmi hatósági eljárások,
+4. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-5. útügyi hatósági eljárások,
+5. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
-6. vízügyi és vízvédelmi hatósági eljárások,
+6. mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások,
 
-7. a műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+7. tűzvédelmi hatósági eljárások,
 
-8. műszaki biztonsági hatósági engedélyezési eljárások,
+8. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
 
-9. ingatlan-nyilvántartással összefüggő hatósági eljárások,
+9. hírközlési hatósági eljárások,
 
-10. telekalakításra irányuló hatósági eljárások,
+10. környezetvédelmi hatósági eljárások,
 
-11. földmérési hatósági eljárások,
+11. természetvédelmi hatósági eljárások,
 
-12. talajvédelmi engedélyezésre irányuló hatósági eljárások,
+12. útügyi hatósági eljárások,
 
-13. hírközlési hatósági eljárások,
+13. vasúti és szalagpálya hatósági engedélyezési eljárás,
 
-14. bányahatósági engedélyezési eljárások,
+14. ingatlan-nyilvántartással összefüggő hatósági eljárások,
 
-15. tűzvédelmi hatósági eljárások,
+15. telekalakításra irányuló hatósági eljárások,
 
-16. élelmiszerlánc-felügyeleti eljárás,
+16. földmérési hatósági eljárások,
 
-17. közegészségügyi hatósági eljárások,
+17. talajvédelmi engedélyezésre irányuló hatósági eljárások,
 
-18. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
+18. élelmiszerlánc-felügyeleti eljárás,
 
-19. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
+19. közegészségügyi hatósági eljárások,
 
-20. azok az 1–19. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
+20. területrendezési hatósági eljárások,
 
-21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+
+22. azok az 1–21. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^4]: A 8. §-t a 661/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2021. december 1.
+[^6]: Az 1. melléklet a 661/2021. (XI. 30.) Korm. rendelet 5. §-ával megállapított szöveg.

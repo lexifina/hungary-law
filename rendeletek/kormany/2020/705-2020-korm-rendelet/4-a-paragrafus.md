@@ -1,0 +1,5 @@
+4/A. §[^3] (1) A Budapest belterület 38920/5 helyrajzi számú ingatlan területén a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 42. §-a szerint meghatározott személygépkocsik számának legalább 35%-a elhelyezését kell biztosítani.
+
+(2) A Beruházás megvalósításának helyszíne és annak közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett, a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell alkalmazni azzal, hogy amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Pest Megyei Kormányhivatal által kijelölt, beruházó tulajdonában álló, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
+
+[^3]: A 4/A. §-t a 661/2021. (XI. 30.) Korm. rendelet 3. §-a iktatta be.
