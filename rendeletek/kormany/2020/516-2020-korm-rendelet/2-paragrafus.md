@@ -20,6 +20,9 @@ b) az a) pont szerinti szolgáltató irányítása alá tartozó egészségügyi
 
 (5) Az OKFŐ – az (1)–(5) bekezdésben foglaltakon túl – középirányító szervként közreműködik az egészségügyért felelős miniszternek (a továbbiakban: miniszter) az egészségügyi intézmények fenntartásával és irányításával kapcsolatos feladatai, valamint – a miniszter erre irányuló utasítása esetén – az ágazati szakmai irányítási feladatok ellátásában.
 
+(5a)[^2] Az OKFŐ gyakorolja a 2. § (1) bekezdés a) és b) pontja szerinti egészségügyi szolgáltatók felett az államháztartásról szóló 2011. évi CXCV. törvény 9. § b) és g)–i) pontja szerinti irányítási hatásköröket.
+
 (6) Az OKFŐ – az (1)–(6) bekezdésben foglaltakon túl – ellátja az OKFŐ, illetve az országos kórház-főigazgató számára jogszabályban meghatározott egyéb feladatokat.
 
 [^1]: A 2. § (1) bekezdés nyitó szövegrésze az 588/2020. (XII. 17.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^2]: A 2. § (5a) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be.

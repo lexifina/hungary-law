@@ -1,4 +1,4 @@
-## 18. §[^13]
+## 18. §[^15]
 
 1. melléklet az 516/2020. (XI. 25.) Korm. rendelethez
 
@@ -118,4 +118,4 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^13]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -26,6 +26,6 @@ a) a központosított közbeszerzési rendszerről, valamint a központi beszerz
 
 b) ellátja az egészségpolitika kialakításához és a döntés-előkészítéshez szükséges, valamint a hazai és egyéb támogatási forrásokból megvalósuló fejlesztések, egyes európai uniós alapokból, az EGT, a Norvég Alap és a Svájci–Magyar Együttműködési Program kezdeményezések és programok tervezésével és lebonyolításával kapcsolatos feladatokat, kiemelten ezek projektmenedzsment feladatait. Részt vesz továbbá az egészségügyi ellátórendszer és az ellátó kapacitások fejlesztését célzó innovációs projektek, valamint társulási és együttműködési programok kialakításában és végrehajtásában.
 
-(3)[^2] A 2. § (1) bekezdése szerinti egészségügyi intézmény és a beteg, a beteg halála esetén annak közeli hozzátartozója vagy örököse közötti, a szolgáltatás nyújtásával összefüggő peres és nemperes eljárásban (ideértve a peren kívüli megállapodással kapcsolatos eljárást is) az intézmény jogi képviseletét olyan személy láthatja el, akihez az OKFŐ hozzájárult.
+(3)[^3] A 2. § (1) bekezdése szerinti egészségügyi intézmény és a beteg, a beteg halála esetén annak közeli hozzátartozója vagy örököse közötti, a szolgáltatás nyújtásával összefüggő peres és nemperes eljárásban (ideértve a peren kívüli megállapodással kapcsolatos eljárást is) az intézmény jogi képviseletét olyan személy láthatja el, akihez az OKFŐ hozzájárult.
 
-[^2]: A 3. § (3) bekezdését a 632/2021. (XI. 17.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 3. § (3) bekezdését a 632/2021. (XI. 17.) Korm. rendelet 1. §-a iktatta be.

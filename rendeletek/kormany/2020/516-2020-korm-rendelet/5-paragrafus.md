@@ -1,4 +1,8 @@
-5. § (1) Az OKFŐ ellátja a 2. § (1)–(3) bekezdése szerinti, illetve erre irányuló megállapodás alapján más egészségügyi intézmények vonatkozásában is az informatikai, infrastrukturális és elemzési kapacitásokhoz szükséges fejlesztésekhez kapcsolódó koordinációs és végrehajtási feladatokat.
+5. § (1)[^5] Az OKFŐ ellátja a 2. § (1)–(3) bekezdése szerinti egészségügyi intézmények, illetve erre irányuló megállapodás alapján más egészségügyi intézmények vonatkozásában is
+
+a) az informatikai, infrastrukturális és elemzési kapacitásokhoz szükséges fejlesztésekhez kapcsolódó koordinációs és végrehajtási feladatokat és
+
+b) az egészségügyi intézmények belső minőségügyi rendszerének összehangolását, egységes szakmai minőségértékelési rendszer működtetését.
 
 (2) Az OKFŐ jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez.
 
@@ -29,3 +33,5 @@ c) jogszabályban meghatározott esetekben a határon átnyúló szolgáltatásn
 (12) Az OKFŐ gondoskodik arról, hogy a kezelésében lévő, illetve általa feldolgozott dokumentáció olvashatósága a törvényben előírtak szerint fennmaradjon.
 
 (13) Az OKFŐ közreműködik a belső piaci információs rendszer hazai működésének és az abban való részvételnek a szabályairól szóló kormányrendeletben meghatározott feladatok ellátásában.
+
+[^5]: Az 5. § (1) bekezdése a 653/2021. (XI. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

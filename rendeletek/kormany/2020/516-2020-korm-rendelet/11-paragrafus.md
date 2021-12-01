@@ -1,3 +1,3 @@
-## 10. §[^4] A 9. § szerinti beolvadást megelőzően az Állami Egészségügyi Ellátó Központnál kezdeményezett működési nyilvántartás iránti eljárásokban a működési nyilvántartási igazolvány az Állami Egészségügyi Ellátó Központnál rendszeresített okmány megszemélyesítésével is kibocsátható.
+## 10. §[^6] A 9. § szerinti beolvadást megelőzően az Állami Egészségügyi Ellátó Központnál kezdeményezett működési nyilvántartás iránti eljárásokban a működési nyilvántartási igazolvány az Állami Egészségügyi Ellátó Központnál rendszeresített okmány megszemélyesítésével is kibocsátható.
 
-[^4]: A 10. §-t újonnan a 70/2021. (II. 19.) Korm. rendelet 17. §-a iktatta be.
+[^6]: A 10. §-t újonnan a 70/2021. (II. 19.) Korm. rendelet 17. §-a iktatta be.
