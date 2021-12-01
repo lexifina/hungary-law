@@ -1,0 +1,3 @@
+## 43. A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzésével összefüggő átmeneti szabályok
+
+114. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény alkalmazásában a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésétől számított tizenkét hónapig a Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény 1. § 1. pontjában meghatározottakon túl külföldi befektető az Európai Unióhoz, az Európai Gazdasági Térséghez tartozó más állam, valamint a Svájci Államszövetség állampolgára vagy ilyen államban bejegyzett jogi személy vagy egyéb szervezet.

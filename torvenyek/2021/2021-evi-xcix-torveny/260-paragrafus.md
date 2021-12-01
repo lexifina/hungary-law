@@ -1,0 +1,5 @@
+## „(6) A beruházások megvalósítását, továbbá az ingatlanszerzés teljes vagy részbeni fedezetének biztosítására Beruházási Alap megjelöléssel – központi kezelésű előirányzatként – létrehozott tartalék (a továbbiakban: Beruházási Alap) szolgál, aminek a terhére az államháztartásért felelős miniszter a Kormány irányítása alá tartozó bármely fejezet kiadási előirányzata javára előirányzat-átcsoportosítást hajthat végre a 36. § (4h) bekezdésen kívüli előkészítéshez szükséges kötelezettségvállalás, a beruházás vagy támogatás, továbbá az ingatlanszerzés érdekében vállalt pénzügyi kötelezettség teljesítése érdekében.
+
+## (7) A Beruházási Alap terhére történő forrásbiztosítási folyamat részletes szabályait, így különösen a forrás igénylésének rendjét, a forrásigény indokoltságának megalapozására irányuló követelményeket, a forrásbiztosítási folyamat lépéseit és határidőit az államháztartásért felelős miniszter által meghatározott eljárásrend tartalmazza, amelyről elektronikus úton tájékoztatja az érintett szervezeteket.”
+
+260. § Az államháztartásról szóló 2011. évi CXCV. törvény 36. §-a a következő (4f)–(4i) bekezdéssel egészül ki:

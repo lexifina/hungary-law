@@ -1,0 +1,1 @@
+79. § A cég a Ctv. 24. § (1) bekezdés m) pontja szerinti adatának változását illeték és közzétételi költségtérítés nélkül jelentheti be, ha más adatának változását egyidejűleg nem jelenti be és a cégadat változtatására a cégtől független külső ok miatt kerül sor, amely körülményt a cég hitelt érdemlően igazol a változásbejegyzési kérelmében.

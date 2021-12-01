@@ -1,0 +1,1 @@
+49. § Ezen alcím alkalmazásában fenyegető fizetésképtelenség az olyan helyzet, amelyben a vállalkozás vezetői előre látják vagy az ilyen tisztséget betöltő személytől elvárható gondosság mellett látniuk kell, hogy a vállalkozás nem lesz képes esedékességkor kielégíteni a vele szemben fennálló követeléseket.

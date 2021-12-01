@@ -1,0 +1,3 @@
+132. § (1) Az adózás rendjéről szóló 2017. évi CL. törvény 198. §-a és 199. §-a szerinti kedvezményeken túl, az adóhatóság az adózónak és az adó megfizetésére kötelezett személynek a 2021. december 31-ig előterjesztett kérelmére az adóhatóságnál nyilvántartott, legfeljebb ötmillió Ft összegű adóra, egy alkalommal, legfeljebb hat havi pótlékmentes fizetési halasztást vagy legfeljebb tizenkét havi pótlékmentes részletfizetést engedélyez, ha a kérelmező a kérelem benyújtásával egyidejűleg valószínűsíti, hogy a fizetési nehézség a veszélyhelyzetre vezethető vissza.
+
+(2) Az (1) bekezdés szerinti eljárás ügyintézési határideje tizenöt nap.

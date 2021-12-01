@@ -1,0 +1,3 @@
+## „(10) Az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó az egészségügyi szolgálati jogviszonyban töltött idő alapján az 1. melléklet, valamint az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerint eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától.”
+
+316. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 19. §-a a következő (19) bekezdéssel egészül ki:

@@ -1,0 +1,5 @@
+## 58. A honvédek jogállásával és a honvédelmi alkalmazottak jogállásával kapcsolatos átmeneti rendelkezések
+
+136. § (1) Ha a honvédek jogállásról szóló 2012. évi CCV. törvény 237/J. § (1) bekezdés a) pontja szerinti egészségügyi munkakörű katona e törvény hatálybalépésének napján érvényes, a honvédek jogállásáról szóló 2012. évi CCV. törvény 237/L. § (10) bekezdés b) pontja szerinti illetménye kevesebb, mint a honvédek jogállásáról szóló 2012. évi CCV. törvény szerinti 2020. december 31-én érvényes illetmény távolléti díjba tartozó elemeinek összege, akkor részére a honvédek jogállásáról szóló 2012. évi CCV. törvény 237/L. § (2) bekezdése szerinti illetményt a különbözettel megnövelt összegben kell megállapítani.
+
+(2) Ha a honvédek jogállásáról szóló 2012. évi CCV. törvény 1. § (1) bekezdésének hatálya alá tartozó harctéri életmentő katona egészségügyi szakkiképzés elvégzéséről szóló igazolásának érvényessége a veszélyhelyzet ideje alatt jár le, az igazolás érvényessége a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 180. napig meghosszabbodik.

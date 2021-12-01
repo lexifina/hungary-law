@@ -1,0 +1,3 @@
+## „(4) Ha az egészségügyi válsághelyzet felszámolásában vagy a védekezésben részt vevő, közfeladatot ellátó szerv vagy személy a védekezést elősegítő orvostechnikai eszközt, egyéni védőeszközt vagy más eszközt saját hatáskörben igazoltan nem vagy csak aránytalanul költségesen tud beszerezni, kezdeményezheti az érintett eszköz az Állami Egészségügyi Tartalék kezelője általi beszerzését. A kezdeményezés Operatív Törzs vezetőjének jóváhagyása esetén az Állami Egészségügyi Tartalék kezelője a kezdeményező szerv vagy személy képviselőjeként jár el a kezdeményezéssel érintett eszköz beszerzése során.”
+
+214. § Az egészségügyről szóló 1997. évi CLIV. törvény 232/B. §-a a következő (9)–(13) bekezdéssel egészül ki:

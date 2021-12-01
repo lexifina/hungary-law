@@ -1,0 +1,3 @@
+37. § (1) Ha a veszélyhelyzet ideje alatt a szakértői eskü tételére kötelezett az esküokmány elektronikus aláírásával megkezdte a szakértői vagy szakértői testületi tagi tevékenységet, az esküt a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napon belül kell letennie, és erről aláírt esküokmányt kell készíteni. Ha az eskütételre kötelezett az eskütételben akadályozva van, a határidőt az akadály megszűnésétől kell számítani.
+
+(2) A 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő hat hónapban az igazságügyi szakértői igazolvány kizárólag postai úton, hivatalos iratként küldhető meg az igazságügyi szakértő részére.

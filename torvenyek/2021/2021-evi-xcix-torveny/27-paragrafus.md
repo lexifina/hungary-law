@@ -1,0 +1,5 @@
+27. § (1) A köztestület határozott időre kinevezett vagy megválasztott tisztségviselőjének a veszélyhelyzet idejére meghosszabbított megbízatása meghosszabbodik mindaddig, amíg a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követően haladéktalanul megtartott választáson az új tisztségviselőt nem választják meg, vagy az új tisztségviselőt ki nem nevezik.
+
+(2) Ha a köztestületi szerv hatáskörébe tartozó ügy intézésével kapcsolatos eljárási cselekmény lefolytatását a veszélyhelyzet ideje alatt hatályos rendelkezések előírásai szerint elhalasztották, az eljárási cselekmény elhalasztásáról szóló döntés meghozatalától a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnéséig terjedő időszak a köztestületi szerv hatáskörébe tartozó ügy elintézésére nyitva álló határidőbe nem számít bele. Az elhalasztott eljárási cselekmény elvégzésére meghatározott határidő kezdőnapja a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő nap.
+
+(3) A fegyelmi vagy etikai felelősségre vonás elévülése a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő napon folytatódik.

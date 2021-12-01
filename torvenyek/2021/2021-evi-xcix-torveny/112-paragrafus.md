@@ -1,0 +1,5 @@
+112. § (1) A Közbiztonsági rendőrjárőr szakképesítésre, valamint a Határrendész és útlevélkezelő rendőrjárőr szakképesítésre felkészítő szakmai képzés programkövetelményében a képesítő vizsgára bocsátás feltételeként előírt „B” kategóriás gépjárművezetői engedély bemutatása 2021. szeptember 30-ig lebonyolításra kerülő képesítő vizsgán nem kötelező, sikeres képesítő vizsga esetén a képesítő bizonyítványt a „B” kategóriás gépjárművezetői engedély bemutatását követően kell kiállítani.
+
+(2) Ha a gépjárművezetői engedély bemutatására az (1) bekezdésben foglaltak szerint nem kerül sor a képesítő vizsgát megelőzően, akkor az okirat bemutatásának elmaradását a vizsgatörzslapon az „A képesítő vizsgán nem került bemutatásra a programkövetelményben meghatározott „B” kategóriás gépjárművezetői engedély.” záradékkal kell ellátni.
+
+(3) A képesítő bizonyítvány kiállítására a „B” kategóriás gépjárművezetői engedélynek a sikeresen teljesített képesítő vizsgától számított 1 éven belül történő bemutatása esetén van lehetőség. Ezen határidő elmulasztása esetén a képesítő vizsgát ismételten le kell tenni.

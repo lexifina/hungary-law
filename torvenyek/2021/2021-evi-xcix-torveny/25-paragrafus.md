@@ -1,0 +1,1 @@
+25. § Az ülésezésre és a döntéshozatalra a köztestület országos elnöke által meghatározott és a köztestület országos honlapján az érintettek számára hozzáférhetővé tett szabályokat a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 60 napig lehet alkalmazni.

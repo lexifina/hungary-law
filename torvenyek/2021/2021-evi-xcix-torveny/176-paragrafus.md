@@ -1,0 +1,3 @@
+## „(4a) A bányatelek módosítására a bányatelek megállapítására vonatkozó szabályokat kell megfelelően alkalmazni. Nem kell alkalmazni a 26/A. § (3) bekezdés b) pontjában és (3a) bekezdésében foglaltakat abban az esetben, ha a módosítás a bányatelek megosztására vagy bányatelkek egyesítésére irányul, és a módosítással megállapított bányatelek nem érint új térrészt a megosztott, illetve egyesített bányatelkek EOV rendszer szerinti koordinátái, alap- és fedőlapja által körülhatárolt térrészhez képest.”
+
+176. § A bányászatról szóló 1993. évi XLVIII. törvény a 28. §-át követően a következő „Bányászati jog hasznosításba adása” alcím címmel és 28/A–28/E. §-sal egészül ki:

@@ -1,0 +1,3 @@
+121. § (1) 2020. november 4. napjától e törvény hatálybalépéséig a központi költségvetés terhére nem uniós forrásból nyújtott költségvetési támogatásból létrejött támogatási jogviszonyok esetében a támogató által kikötött biztosíték rendelkezésre állását legkésőbb e törvény hatálybalépését követő 30 napon belül kell biztosítani azzal, hogy ha azt a kedvezményezett nem a támogató által, az államháztartásról szóló 2011. évi CXCV. törvény és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben előírtaknak megfelelően biztosítja, a támogató a támogatást jogosult azonnali hatállyal visszavonni.
+
+(2) Az (1) bekezdésben meghatározottakat a határon túli kedvezményezettnek nyújtott támogatásra is alkalmazni kell.

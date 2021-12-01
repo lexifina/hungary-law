@@ -1,0 +1,5 @@
+## 53. A szociális hozzájárulási adó kötelezettséggel összefüggő szabályok
+
+129. § (1) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (4) bekezdés b) pontjától eltérően nem kell szociális hozzájárulási adót fizetni a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 70. § (4) és (5) bekezdése szerinti reprezentáció és üzleti ajándék juttatása után, ha a juttatás e törvény hatálybalépésének napja és 2021. december 31. közötti időszakban történik.
+
+(2) A szociális hozzájárulási adóról szóló 2018. évi LII. törvény 11. § (2) bekezdésétől eltérően e törvény hatálybalépésének napja és 2021. december 31. között létrejött munkaviszony esetében munkaerőpiacra lépő az is, aki az állami adó- és vámhatóság rendelkezésére álló adatok szerint a kedvezményezett foglalkoztatás kezdetének hónapját megelőző 183 napon belül legfeljebb 92 napig rendelkezett a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti biztosítási kötelezettséggel járó munkaviszonnyal, egyéni-, társas vállalkozói jogviszonnyal.

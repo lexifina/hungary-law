@@ -1,0 +1,1 @@
+146. § A 2021. január 1. napja és 2021. június 30. napja közötti időszakban eltöltött vendégéjszaka utáni idegenforgalmi adót az adó alanyának nem kell megfizetnie, az adó beszedésére kötelezettnek nem kell beszednie, befizetnie, a megállapított, de be nem szedett adót azonban – kivéve, ha annak összege nulla – be kell vallania az adóhatósághoz.
