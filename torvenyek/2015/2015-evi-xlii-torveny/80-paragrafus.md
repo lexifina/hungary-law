@@ -30,7 +30,7 @@ c) azonnali hatályú lemondással,
 
 d) felmentéssel,
 
-e) kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
+e) kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba, vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
 
 f) más rendvédelmi szervhez történő áthelyezéssel,
 

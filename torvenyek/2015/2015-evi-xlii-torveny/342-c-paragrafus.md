@@ -1,0 +1,1 @@
+342/C. § Felhatalmazást kap a miniszter, hogy rendeletben határozza meg az egészségügyi feladatot ellátó szakdolgozói pótlékra jogosító szolgálati beosztásokat és munkaköröket, a pótlék mértékét és megállapításának részletes feltételeit.

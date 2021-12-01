@@ -14,7 +14,7 @@ c) a fogvatartottak kötelező foglalkoztatására létrehozott gazdálkodó sze
 
 d) a miniszter vagy a miniszter irányítása alá tartozó személy, szervezet tulajdonosi joggyakorlása alatt álló gazdasági társaságnál vagy annak leányvállalatánál
 
-meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, a d) pont szerinti esetben továbbá munkavállalói munkakörben.
+meghatározott munkakör, álláshely vagy feladat ellátásával, szolgálati beosztásban, kormánytisztviselői, közalkalmazotti, egészségügyi szolgálati jogviszonyban betölthető, rendvédelmi igazgatási alkalmazotti, a d) pont szerinti esetben továbbá munkavállalói munkakörben.
 
 (3) Hivatásos szolgálat kormányzati, rendvédelmi érdekből a rendvédelmi szerven kívül a következő szerveknél is teljesíthető:
 

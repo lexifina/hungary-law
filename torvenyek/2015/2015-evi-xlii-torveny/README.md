@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2021-07-02 | 2021. évi LXXXIX. törvény | 2015-42-00-00.32 |
 | 2021-08-01 | 2021. évi XXXI. törvény | 2015-42-00-00.33 |
 | 2021-09-01 | 2021. évi XXXI. törvény | 2015-42-00-00.34 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 2015-42-00-00.35 |

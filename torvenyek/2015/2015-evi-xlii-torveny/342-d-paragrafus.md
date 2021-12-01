@@ -1,0 +1,1 @@
+342/D. § Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
