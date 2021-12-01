@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-691-20-
 | 2021-03-25 | 2020-691-20-22.4 | 137/2021. (III. 23.) Korm. rendelet |
 | 2021-04-22 | 2020-691-20-22.5 | 186/2021. (IV. 21.) Korm. rendelet |
 | 2021-07-13 | 2020-691-20-22.6 | 27/2021. (I. 29.) Korm. rendelet |
+| 2021-12-01 | 2020-691-20-22.7 | 653/2021. (XI. 30.) Korm. rendelet |

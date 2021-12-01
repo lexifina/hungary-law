@@ -1,16 +1,3 @@
-## 2. § A honvédelmi egészségügyi szolgáltató irányítására vonatkozó szabályokat a Hvt. és a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet határozza meg.
+## 2. §[^3]
 
-3. § (1) A honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője az 1. § b) pontja szerinti egészségügyi szolgáltató vonatkozásában gyakorolja az irányítási jogköröket, aki e jogköreit – a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzatában rögzített módon – az 1. § b) pontja szerinti egészségügyi szolgáltatóval való kapcsolattartás, valamint egyes irányítási és szakmai fenntartói feladatok koordinálása céljából a honvédelmi egészségügyi szolgáltató szervezeti egységen belül erre létrehozott, önálló, magasabb vezetői munkakört, vagy ennek megfelelő szolgálati beosztást betöltő személy részére átruházhatja.
-
-(2)[^2] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét az egészségügyért felelős miniszter egyetértésével a honvédelemért felelős miniszter bízza meg és vonja vissza magasabb vezetői megbízását.
-
-(3)[^3] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének az 1. § b) pontja szerinti egészségügyi szolgáltató irányításáért felelős helyettesét az országos kórház-főigazgató és a honvédelemért felelős miniszter együttesen bízza meg és vonja vissza magasabb vezetői megbízását.
-
-(4)[^4] A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője a veszélyhelyzet időszakában a pandémiával összefüggésben felmerülő egészségügyi kockázatok mérséklése érdekében huszonnégy órás vezetői ügyeletet működtet. A vezetői ügyelet kapcsolatot tart az Operatív Törzs Ügyeleti Központjával, az Országos Kórházi Főigazgatósággal, valamint az illetékes védelmi bizottsággal. A vezetői ügyelet működésének rendjét a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője határozza meg azzal, hogy a vezetői ügyeletben a munkaidő-szervezésre vonatkozó jogszabályok keretei között, annak feltételei megléte esetén egyszerre legalább három fő vezető részvételét kell biztosítani.
-
-(5)[^5] Az egyes, az egészségügyi szolgáltatók irányításával összefüggő veszélyhelyzeti szabályokról és a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató, valamint az ennek irányítása alá tartozó egyéb egészségügyi szolgáltató irányításának veszélyhelyzeti rendjéről szóló 691/2020. (XII. 29.) Korm. rendelet módosításáról szóló 137/2021. (III. 23.) Korm. rendelet 2. és 3. §-ában foglaltakat megfelelően alkalmazni kell, azzal az eltéréssel, hogy ahol egészségügyi szolgáltató vezetője szerepel, azon a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjét kell érteni.
-
-[^2]: A 3. § (2) bekezdése a 186/2021. (IV. 21.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^3]: A 3. § (3) bekezdése a 186/2021. (IV. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^4]: A 3. § (4) bekezdését a 137/2021. (III. 23.) Korm. rendelet 9. §-a iktatta be.
-[^5]: A 3. § (5) bekezdését a 137/2021. (III. 23.) Korm. rendelet 9. §-a iktatta be.
+[^3]: A 2. §-t a 653/2021. (XI. 30.) Korm. rendelet 15. § (1) bekezdés 6. pontja hatályon kívül helyezte.

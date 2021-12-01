@@ -1,3 +1,6 @@
-## 7. § Az 1. melléklet 1. pontja szerinti egészségügyi szolgáltató a Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézetből történő kiválással jön létre azzal, hogy e rendelet hatálybalépését követően is ellátja a jogelődje számára e rendelet hatálybalépése előtt jogszabályban meghatározott traumatológiai gyógyintézeti szakfeladatokat.
+## 7. §[^18]
 
-1. melléklet a 691/2020. (XII. 29.) Korm. rendelethez
+1. melléklet a 691/2020. (XII. 29.) Korm. rendelethez[^19]
+
+[^18]: A 7. §-t a 653/2021. (XI. 30.) Korm. rendelet 15. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^19]: Az 1. mellékletet a 653/2021. (XI. 30.) Korm. rendelet 15. § (1) bekezdés 6. pontja hatályon kívül helyezte.
