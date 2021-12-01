@@ -716,6 +716,8 @@ c) tehetséggondozó programok működésének támogatása.
 
 4. a magyar és az európai filmértékek, a kortárs és a klasszikus filmművészet kincseinek megőrzése és bemutatása.
 
+5. a kortárs színművészet támogatása a magyar színjátszás múltjának megismertetésével és bemutatásával, valamint értékeinek és örökségének megőrzésével és hozzáférhetővé tételével.
+
 |
 
 28
