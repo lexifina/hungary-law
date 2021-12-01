@@ -1,10 +1,10 @@
-## 28. §[^137]
+## 28. §[^138]
 
-28/A. §[^138] (1)[^139]
+28/A. §[^139] (1)[^140]
 
-(2) Az (1) bekezdés nem érinti a védett vásárlási idősáv felfüggesztéséről szóló 576/2020. (XII. 11.) Korm. rendelet hatálybalépését[^140] megelőzően a 22. § alapján indított eljárásokat, azokat az eljárást megalapozó kötelezettségszegés időpontjában alkalmazandó szabályok szerint kell elbírálni.
+(2) Az (1) bekezdés nem érinti a védett vásárlási idősáv felfüggesztéséről szóló 576/2020. (XII. 11.) Korm. rendelet hatálybalépését[^141] megelőzően a 22. § alapján indított eljárásokat, azokat az eljárást megalapozó kötelezettségszegés időpontjában alkalmazandó szabályok szerint kell elbírálni.
 
-[^137]: A 28. §-t a 365/2021. (VI. 30.) Korm. rendelet 8. § o) pontja hatályon kívül helyezte.
-[^138]: A 28/A. §-t az 576/2020. (XII. 11.) Korm. rendelet 2. §-a iktatta be.
-[^139]: A 28/A. § (1) bekezdését a 264/2021. (V. 21.) Korm. rendelet 6. § s) pontja hatályon kívül helyezte.
-[^140]: A hatálybalépés időpontja 2020. december 12.
+[^138]: A 28. §-t a 365/2021. (VI. 30.) Korm. rendelet 8. § o) pontja hatályon kívül helyezte.
+[^139]: A 28/A. §-t az 576/2020. (XII. 11.) Korm. rendelet 2. §-a iktatta be.
+[^140]: A 28/A. § (1) bekezdését a 264/2021. (V. 21.) Korm. rendelet 6. § s) pontja hatályon kívül helyezte.
+[^141]: A hatálybalépés időpontja 2020. december 12.
