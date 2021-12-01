@@ -1,0 +1,63 @@
+23. melléklet a 2013. évi XCVII. törvényhez
+
+Az alapnyilvántartás adatköre
+
+1. Az egészségügyi katona és az egészségügyi honvédelmi alkalmazott
+
+1.1. neve (születési neve),
+
+1.2. születési helye, ideje,
+
+1.3. anyja neve (születési neve),
+
+1.4. állampolgársága,
+
+1.5. Társadalombiztosítási Azonosító Jele, adóazonosító jele,
+
+1.6. lakóhelye, tartózkodási helye, telefonszáma,
+
+1.7. családi állapota,
+
+1.8. gyermekeinek születési ideje,
+
+1.9. egyéb eltartottjainak száma, az eltartás kezdete,
+
+1.10. legmagasabb iskolai végzettsége (több végzettség esetén valamennyi),
+
+1.11. szakképzettsége,
+
+1.12. iskolarendszeren kívüli oktatás keretében szerzett szakképesítése, valamint meghatározott munkakör betöltésére jogosító okiratok adatai,
+
+1.13. tudományos fokozata,
+
+1.14. idegennyelv-ismerete,
+
+1.15. a korábbi jogviszonyaiban töltött időtartamok megnevezése,
+
+1.16. a korábbi munkahelyei megnevezése,
+
+1.17. a korábbi jogviszonya megszűnése módja, időpontja,
+
+1.18. a Hjt. szerinti szolgálati viszonya vagy a honvédelmi alkalmazotti jogviszonya kezdete,
+
+1.19. a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványa száma, kelte,
+
+1.20. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok,
+
+1.21. a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személyt foglalkoztató szerv neve, székhelye, statisztikai számjele, e szervnél a jogviszony kezdete,
+
+1.22. jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, FEOR-száma, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+
+1.23. címadományozása, jutalmazása, kitüntetése adatai,
+
+1.24. a teljesítményértékelése vagy minősítése időpontja és tartalma,
+
+1.25. személyi juttatásai,
+
+1.26. munkából való távollétének jogcíme és időtartama, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+
+1.27. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésének időpontja, módja, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+
+1.28. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésével együtt jár a szolgálati viszonyának, honvédelmi alkalmazotti jogviszonyának a megszűnése, úgy ennek időpontja, módja, a végkielégítés adatai, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy,
+
+1.29. munkavégzésére irányuló egyéb jogviszonyával összefüggő adatai, ha a Hjt. szerinti szolgálati viszonyban vagy a honvédelmi alkalmazotti jogviszonyban álló személy.

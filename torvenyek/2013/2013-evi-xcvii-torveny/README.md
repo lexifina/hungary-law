@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-97-00-00
 | 2020-06-10 | 2020. évi XLVII. törvény | 2013-97-00-00.13 |
 | 2020-07-01 | 2020. évi XLVII. törvény | 2013-97-00-00.14 |
 | 2021-01-01 | 2020. évi CLXIX. törvény | 2013-97-00-00.15 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 2013-97-00-00.16 |
