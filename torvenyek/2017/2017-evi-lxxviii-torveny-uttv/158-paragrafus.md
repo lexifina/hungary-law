@@ -72,6 +72,8 @@
 
 36. minden olyan kérdésben, amelyre az Alapszabály feljogosítja.
 
+37. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról
+
 (2) Az Alapszabály, valamint az (1) bekezdés 8., 11., 14., 20. és 21. pontban felsorolt szabályzatok a Magyar Ügyvédi Kamara kiemelt szabályzatai.
 
 (3) Az Alapszabály a Magyar Ügyvédi Kamara tagjaira, a Magyar Ügyvédi Kamara szabályzata a területi kamarákra, a területi kamara tagjaira, és a területi kamara által az ügyvédi kamarai nyilvántartásba vett személyekre kötelező.

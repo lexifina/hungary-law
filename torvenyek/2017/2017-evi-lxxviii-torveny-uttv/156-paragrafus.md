@@ -21,3 +21,5 @@ e) országos fegyelmi bizottság.
 (6) A Magyar Ügyvédi Kamara szerveinek ülésén – tagjain kívül – a kamarai szerv elnöke által meghívottak és azok vehetnek részt, akiket az Alapszabály felsorol.
 
 (7) A Magyar Ügyvédi Kamarát feladatai teljesítésének fedezetére a kamarai tagdíj összegének szabályzatban meghatározott legalább negyede, legfeljebb fele illeti meg.
+
+(8) A Magyar Ügyvédi Kamara szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.

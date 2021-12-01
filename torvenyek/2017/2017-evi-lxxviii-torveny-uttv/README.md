@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-78-00-00
 | 2020-07-01 | 2020. évi XXX. törvény | 2017-78-00-00.16 |
 | 2021-01-01 | 2020. évi CLXV. törvény | 2017-78-00-00.17 |
 | 2021-07-01 | 2021. évi LI. törvény | 2017-78-00-00.18 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 2017-78-00-00.19 |
