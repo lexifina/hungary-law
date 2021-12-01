@@ -1,1 +1,3 @@
-## 16. § A szakosított ellátást nyújtó szociális szolgáltatások nyújtása során a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendeletben meghatározott személyi és tárgyi feltételektől ellátási érdekből, a fenntartó döntése alapján ideiglenesen el lehet térni.
+## 16. §[^22]
+
+[^22]: A 16. §-t a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.

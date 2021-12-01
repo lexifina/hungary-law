@@ -1,1 +1,3 @@
-## 2. § A veszélyhelyzet ideje alatt lejáró közgyógyellátásra való jogosultság a veszélyhelyzet megszűnésének napjától számított további 90 nappal meghosszabbodik.
+## 2. §[^3]
+
+[^3]: A 2. §-t a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.

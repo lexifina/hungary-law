@@ -1,13 +1,18 @@
+## 14. §[^17]
+
 ## 2. A szociális szolgáltatásoknak a veszélyhelyzet ideje alatt elrendelt működési rendje
 
-15. § (1) A veszélyhelyzet ideje alatt az Szt. szerinti nappali ellátást nyújtó intézmények – ide nem értve a nappali melegedőt – épületében nyújtott szolgáltatásokat a fenntartó szüneteltetheti, azzal, hogy ebben az esetben a szükséges ellátást az ellátottak lakókörnyezetében vagy infokommunikációs eszközökön keresztül kell nyújtani.
+15. § (1)[^18]
 
 (2) A nappali ellátást nyújtó intézmények – ide nem értve a nappali melegedőt – 2020. augusztus 1-jétől e rendelet hatálybalépéséig a 2020. augusztus 1-jén engedélyezett és befogadott férőhely szám alapján jogosultak a központi költségvetésről szóló törvényben biztosított támogatásra, ha az a fenntartóra nézve kedvezőbb.
 
-(3)[^6] Étkeztetés esetében – a népkonyha kivételével – a napi egyszeri meleg étel elvitellel, kiszállítással vagy a koronavírus ellen jogszabály rendelkezése szerint védettnek minősülő igénybevevő részére helyben fogyasztással is biztosítható.
+(3)[^19]
 
 (4) Alapszolgáltatások esetén a napi igénybevételt igazoló ellátotti aláírástól el kell tekinteni.
 
-(5) Az (1), a (3) és a (4) bekezdés szerinti működés a központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságot nem érinti.
+(5)[^20]
 
-[^6]: A 15. § (3) bekezdése a 331/2021. (VI. 10.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^17]: A 14. §-t a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.
+[^18]: A 15. § (1) bekezdését a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.
+[^19]: A 15. § (3) bekezdését a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.
+[^20]: A 15. § (5) bekezdését a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.

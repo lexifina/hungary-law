@@ -1,9 +1,11 @@
-7. § (1)[^3]
+7. § (1)[^9]
 
 (2) A gyámhatósági eljárásban a veszélyhelyzet ideje alatt Magyarországon tartózkodó ügyfelek esetében is személyesen megtett jognyilatkozatnak kell tekinteni a kép- és hangkapcsolatot egyidejűleg biztosító elektronikus úton előterjesztett nyilatkozatot.
 
-(3) A gyámhatóság a veszélyhelyzet ideje alatt a gyermekek és a gondnokság alatt álló személyek érdekében a hatáskörébe tartozó azonnali és soronkívüliséget igénylő, így különösen az ideiglenes hatályú elhelyezés, a nevelésbe vétel, a gyám- és gondnokrendelés tárgyában a döntések meghozatalát folyamatosan biztosítja. Az örökbefogadható gyermekek érdekében folyamatosan biztosítani kell az örökbefogadás iránti kérelem felvételét, valamint a kötelező gondozásba történő kihelyezésről és az örökbefogadásról való döntés meghozatalát.
+(3)[^10]
 
-(4) A gyámhatóság a veszélyhelyzet ideje alatt indokolt esetben eltekinthet a tényállás tisztázásához szükséges környezettanulmány beszerzésétől vagy elvégzésétől.
+(4)[^11]
 
-[^3]: A 7. § (1) bekezdését a 611/2021. (XI. 8.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^9]: A 7. § (1) bekezdését a 611/2021. (XI. 8.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^10]: A 7. § (3) bekezdését a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.
+[^11]: A 7. § (4) bekezdését a 647/2021. (XI. 30.) Korm. rendelet 13. § 12. pontja hatályon kívül helyezte.
