@@ -20,4 +20,4 @@
 
 3. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^14]
 
-[^14]: A 3. melléklet a 706/2020. (XII. 30.) Korm. rendelet 16. §-ával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^14]: A 3. melléklet a 706/2020. (XII. 30.) Korm. rendelet 16. §-ával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 46. §-a, a 648/2021. (XI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.

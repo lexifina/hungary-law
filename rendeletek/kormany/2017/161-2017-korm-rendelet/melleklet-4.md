@@ -2,7 +2,7 @@
 
 |  | A | B | C | D | E | F | G | H |
 
-| 1. | Szakkérdés vizsgálatának feltétele | Szakkérdés | Kutatásra vonatkozó műszaki üzemterv jóváhagyása (kivett hely esetében a hatáskörrel kivett helyre vonatkozó állásfoglalása is) | Bányatelek megállapítása | Feltárásra és kitermelésre készített műszaki üzemterv jóváhagyása, módosítása, szüneteltetési műszaki üzemi terv jóváhagyása | Védőpillér kijelölése, módosítása, meggyengítése és lefejtése | Bányabezárási műszaki üzemi terv jóváhagyása (módosítása); bányabezárás, tájrendezés végrehajtása elfogadása | Föld alatti bányatérségek és egyéb bányászati létesítmények más célú hasznosítása jóváhagyása |
+| 1. | Szakkérdés vizsgálatának feltétele | Szakkérdés | Kutatásra vonatkozó műszaki üzemterv jóváhagyása (kivett hely esetében a hatáskörrel kivett helyre vonatkozó állásfoglalása is) | Bányatelek megállapítása, kivéve, ha a bányatelek módosítása a bányatelek megosztására vagy bányatelkek egyesítésére irányul, és a módosítással megállapított bányatelek nem érint új térrészt a megosztott, illetve egyesített bányatelkek EOV rendszer szerinti koordinátái, alap- és fedőlapja által körülhatárolt térrészhez képest | Feltárásra és kitermelésre készített műszaki üzemterv jóváhagyása, módosítása, szüneteltetési műszaki üzemi terv jóváhagyása | Védőpillér kijelölése, módosítása, meggyengítése és lefejtése | Bányabezárási műszaki üzemi terv jóváhagyása (módosítása); bányabezárás, tájrendezés végrehajtása elfogadása | Föld alatti bányatérségek és egyéb bányászati létesítmények más célú hasznosítása jóváhagyása |
 
 | 2. | Ha ugyanezt a szakkérdést korábban önálló eljárásban nem vizsgálták, és a bányászati tevékenység termőföldet érint. | A termőföld mennyiségi védelme. | IGEN | IGEN | NEM | NEM | IGEN | NEM |
 
