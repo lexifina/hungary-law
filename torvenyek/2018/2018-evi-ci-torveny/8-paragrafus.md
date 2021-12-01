@@ -1,6 +1,6 @@
 8. § Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-a) a 2021. évi népszámlálás megszervezésével kapcsolatos feladatokat,
+a) a népszámlálás megszervezésével kapcsolatos feladatokat,
 
 b) a népszámlálás helyi előkészítésében és végrehajtásában részt vevők feladatait,
 

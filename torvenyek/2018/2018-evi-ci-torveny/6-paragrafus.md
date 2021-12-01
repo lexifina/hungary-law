@@ -1,4 +1,4 @@
-6. § (1) A 2021. évi népszámlálás céljából az adatfeldolgozás lezárásáig a KSH egyedi azonosításra alkalmas módon és térítésmentesen átveheti és kezelheti, valamint a 2021. évi népszámlálás adatainak előkészítésekor és feldolgozásakor – az Stt. rendelkezéseivel összhangban, a hiányzó adatok pótlása érdekében – összekapcsolhatja egymással és a 2. § (2)–(4) bekezdései szerint a népszámlálás során felvett adatokkal a következő adminisztratív nyilvántartások adatait:
+6. § (1) A népszámlálás céljából az adatfeldolgozás lezárásáig a KSH egyedi azonosításra alkalmas módon és térítésmentesen átveheti és kezelheti, valamint a népszámlálás adatainak előkészítésekor és feldolgozásakor – az Stt. rendelkezéseivel összhangban, a hiányzó adatok pótlása érdekében – összekapcsolhatja egymással és a 2. § (2)–(4) bekezdései szerint a népszámlálás során felvett adatokkal a következő adminisztratív nyilvántartások adatait:
 
 a) a Központi Címregiszter vonatkozásában a lakás címére;
 
