@@ -1,3 +1,0 @@
-3. § (1) Az önfoglalkoztatók kompenzációs támogatása az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény [módosította: C(2020) 2215 számú közlemény, 2020. április 3., C(2020) 3156 számú közlemény, 2020. május 8., C(2020) 4509 számú közlemény, 2020. június 29., C(2020) 7127 számú közlemény, 2020. október 13., C(2021) 564 számú közlemény, 2021. január 28.] 3. 10. szakasza szerinti támogatást tartalmaz.
-
-(2) Az önfoglalkoztatók kompenzációs támogatásával kapcsolatban keletkezett minden iratot a támogatási döntés meghozatalát követő tíz évig kell megőrizni.
