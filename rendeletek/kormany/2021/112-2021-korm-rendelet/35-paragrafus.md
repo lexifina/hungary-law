@@ -1,1 +1,0 @@
-## 34. § Ha a szigorított védekezés ideje alatt az eljárásban hirdetményi kézbesítésnek van helye, az eljárás félbeszakad a hirdetményi kézbesítés okának megszűnéséig vagy a szigorított védekezés megszűnéséig.

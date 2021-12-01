@@ -1,5 +1,0 @@
-8. § (1) Meghatározott cselekmény végrehajtása iránt, azzal összefüggésben intézkedni, valamint eljárási cselekményt foganatosítani – a (2) bekezdésben foglalt kivétellel – a szigorított védekezés megszűnését követően lehet, azzal, hogy a vonatkozó határidők a szigorított védekezés megszűnését követő 15. napon újrakezdődnek.
-
-(2) Olyan meghatározott cselekmény végrehajtása iránt intézkedni lehet, amelyet az elrendelő hatóságok maguk hajtanak végre, és amelynek egyúttal célja az emberi élet vagy egészség megóvása, illetve az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány következményeinek elhárítása, azonban eljárási cselekmény, intézkedés nem foganatosítható, ha azt olyan helyen kellene foganatosítani, amely járványügyi intézkedés hatálya alatt áll.
-
-(3) A (2) bekezdés szerinti eljárási cselekményt, intézkedést a járványügyi intézkedés megszűnését követően lehet lefolytatni, azzal, hogy a vonatkozó határidő a járványügyi intézkedés megszűnését követő napon újrakezdődik.
