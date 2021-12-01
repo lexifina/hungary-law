@@ -1444,7 +1444,7 @@ n) követeléskezelés.
 
 141.2. A kötelezettségvállalás pénzügyi ellenjegyzésével az IH pénzügyi ellenjegyzésre írásban kijelölt munkatársa meggyőződik a szükséges forrás rendelkezésre állásáról.
 
-141.3. Ha a saját forrás kiegészítése más – a XIX. Uniós fejlesztések költségvetési fejezetből származó – forrásból történik, a kötelezettségvállaláshoz a központi koordinációs szerv pénzügyi ellenjegyzése is szükséges.
+141.3. Ha a saját forrás kiegészítése más – a XIX. Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezetből származó – forrásból történik, a kötelezettségvállaláshoz a központi koordinációs szerv pénzügyi ellenjegyzése is szükséges.
 
 67. A kötelezettségvállalás típusai
 
@@ -1478,15 +1478,15 @@ b) a kiemelt projektek kedvezményezettjeivel megkötött támogatási szerződ�
 
 146.4. A 146.3. pont szerinti módosított keret alapján a pénzügyi ellenjegyzésre kijelölt IH munkatárs megadja a pénzügyi ellenjegyzést azokra a pályázatokra, amelyek összegigényére a döntési javaslat szerinti sorrendben van fedezet a pályázati kiírás kerete alapján.
 
-147.1. A pénzügyi ellenjegyzést követően az ellenjegyző átadja a támogatásra javasolt pályázatokat tartalmazó döntési javaslatot az IH kötelezettségvállalásra jogosult vezetőjének, aki az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 7. §-a értelmében a fejlesztéspolitikai célokkal és az átfogó kormányzati stratégiákkal való összhang biztosítása érdekében a központi koordinációs szerv részére szakmai ellenjegyzésre megküldi a támogatásra nem, illetve tartaléklistára javasolt projektek listájával együtt.
+147.1. A pénzügyi ellenjegyzést követően az ellenjegyző átadja a támogatásra javasolt pályázatokat tartalmazó döntési javaslatot az IH kötelezettségvállalásra jogosult vezetőjének.
 
-147.2. Ha a döntési javaslat nem biztosítja a 147.1. pont szerinti összhangot, a központi koordinációs szerv a javaslatot 3 munkanapon belül visszaküldi az IH-nak.
+147.2.
 
-147.3. Ha az IH egyetért a központi koordinációs szerv javaslatával, akkor a módosított döntési javaslatot 2 munkanapon belül megküldi a központi koordinációs szerv részére ellenjegyzésre.
+147.3.
 
-147.4. Ha az IH nem ért egyet a központi koordinációs szerv javaslatával, akkor egyeztetést kezdeményez 2 munkanapon belül a központi koordinációs szervvel. Az egyeztetés eredményeképpen kidolgozott döntési javaslatot a központi koordinációs szerv ellenjegyzi.
+147.4.
 
-147.5. A központi koordinációs szerv ellenjegyzését követően az IH-vezető a döntési javaslatot jóváhagyja, majd megküldi a KSZ-nek.
+147.5. Az IH-vezető a döntési javaslatot jóváhagyja, majd megküldi a KSZ-nek.
 
 147.6. A KSZ gondoskodik a korábban kiállított döntési javaslat módosításáról és a 146.1., 146.2., 147.1., 147.5. pontban foglaltak figyelembevételével jár el, ha
 
@@ -3136,7 +3136,7 @@ b) a lebonyolítási forint bankszámla egyenlegének év végi visszautalásáb
 
 137. A tartalék kezelése
 
-300. Az „Európai uniós programokhoz kapcsolódó tartalék” előirányzat felhasználására az 549/2013. (XII. 30.) Korm. rendeletet kell alkalmazni.
+300. A „Fejezeti általános tartalék” előirányzat felhasználására a 481/2021. (VIII. 13.) Korm. rendeletet kell alkalmazni.
 
 138. Egyéb előre nem látható kifizetések
 
@@ -3250,7 +3250,7 @@ d) késedelmes támogatás kifizetését vállalva késedelmi kamatot fizet.
 
 310.1. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem a KSZ hibájából történt, a központi koordinációs szerv átutalja az érintett késedelmi kamat összeget a KSZ bankszámlájára.
 
-310.2. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem az IH, illetve a központi koordinációs szerv hibájából történt, a KSZ átutalja az érintett késedelmi kamat összegét a XIX. Uniós fejlesztések költségvetési fejezetet irányító szerv bankszámlájára.
+310.2. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem az IH, illetve a központi koordinációs szerv hibájából történt, a KSZ átutalja az érintett késedelmi kamat összegét a XIX. a „Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezetet irányító szerv bankszámlájára.
 
 310.3. Támogatási szerződéstől való elállás esetén a visszakövetelt késedelmi kamat összege azt illeti, akinek a kapcsolódó késedelmes támogatás kifizetés felróható volt.
 
@@ -3260,11 +3260,11 @@ d) késedelmes támogatás kifizetését vállalva késedelmi kamatot fizet.
 
 311.2. Ha a KSZ a fedezetet nem tudja biztosítani, az irányító, illetve tulajdonos szervezetnek kell a KSZ-nek felróható késedelem kapcsán jelentkező késedelmi kamatfizetés szempontjából helyt állni.
 
-311.3. A 311.2. pontot követően a XIX. Uniós fejlesztések költségvetési fejezet „Európai uniós programokhoz kapcsolódó tartalék” előirányzat, ezt követően a központi költségvetés tartaléka terhére kell biztosítani a késedelmi kamat megfizetését.
+311.3. A 311.2. pontot követően a XIX. Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezet „Fejezeti általános tartalék” előirányzat, ezt követően a központi költségvetés tartaléka terhére kell biztosítani a késedelmi kamat megfizetését.
 
-311.4. Az „Európai uniós programokhoz kapcsolódó tartalék” előirányzat és a központi költségvetés egyéb tartalékai terhére a KSZ-nek felróható kamatfizetési kötelezettséget csak rendkívül indokolt esetben, a vonatkozó jogszabályok feltételei mellett lehet érvényesíteni.
+311.4. Az „Fejezeti általános tartalék” előirányzat és a központi költségvetés egyéb tartalékai terhére a KSZ-nek felróható kamatfizetési kötelezettséget csak rendkívül indokolt esetben, a vonatkozó jogszabályok feltételei mellett lehet érvényesíteni.
 
-311.5. Ha a támogatás késedelmes kifizetése az IH-nak, illetve a központi koordinációs szervnek felróható okból történt, a késedelmi kamatfizetés fedezete a XIX. Uniós fejlesztések költségvetési fejezet „Európai uniós programokhoz kapcsolódó tartalék” előirányzata.
+311.5. Ha a támogatás késedelmes kifizetése az IH-nak, illetve a központi koordinációs szervnek felróható okból történt, a késedelmi kamatfizetés fedezete a XIX. Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezet „Fejezeti általános tartalék” előirányzata.
 
 146. A kiegyenlítés és a továbbutalás
 
@@ -4868,5 +4868,17 @@ g) az IH döntése vagy intézkedése elleni kifogás esetén annak megjelölés
 
 469.3. A kifogás elbírálásának határidejét a felterjesztést követően a Rendelet 82. § (2) bekezdése szerint a központi koordinációs szerv meghosszabbíthatja.
 
+469.4. A központi koordinációs szerv döntését a monitoring és információs rendszerben 3 napon belül rögzíti és a kifogás kezelését lezárja.
+
+XIV. Fejezet
+
+Szabálytalanságkezelés
+
+209. Értelmező rendelkezések
+
+470. E fejezet alkalmazásában szabálytalansági gyanú: szabálytalanság elkövetésére megalapozottan utaló tények, körülmények, vagy dokumentumok, amelyből alappal lehet következtetni a szabálytalanság tényállási elemeinek fennállására.
+
+210. A szabálytalansági gyanú észlelése
+
 [^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1–2. §-a szerint módosított szöveg.
