@@ -64,6 +64,12 @@
 
 ## 3. Az Ibtv. 1. § (1) bekezdés 41. pontjában meghatározott sérülékenységvizsgálatnak az Ibtv. 18. § (3) bekezdése szerinti elvégzése.
 
+## 10.[^1] A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek
+
+## 1. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) szerinti biztosítási és viszontbiztosítási tevékenység.
+
+## 2. A Bit. 40. § (3) bekezdés a) és e) pontja szerinti biztosítással közvetlenül összefüggő tevékenységek.
+
 2. melléklet a 246/2018. (XII. 17.) Korm. rendelethez
 
 A TÖRVÉNY 7. § (2) BEKEZDÉSÉVEL ÉRINTETT TEVÉKENYSÉGEK ENGEDÉLYEZÉSÉRE IRÁNYULÓ ELJÁRÁSOK
@@ -91,3 +97,5 @@ A TÖRVÉNY 7. § (2) BEKEZDÉSÉVEL ÉRINTETT TEVÉKENYSÉGEK ENGEDÉLYEZÉSÉR
 2. A víziközmű-szolgáltatóban a szavazatok huszonöt vagy ötven százalékát meghaladó, illetve hetvenöt százalékát elérő befolyás szerzéséhez, és az ehhez fűződő jogok gyakorlásához történő hozzájárulás.
 
 3. A kiszervezés előzetes engedélyezése.
+
+[^1]: Az 1. melléklet 10. alcímét a 648/2021. (XI. 30.) Korm. rendelet 6. §-a iktatta be.

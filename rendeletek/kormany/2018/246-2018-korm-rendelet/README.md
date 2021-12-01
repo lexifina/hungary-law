@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-246-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-01-01 | 2018-246-20-22.1 | 246/2018. (XII. 17.) Korm. rendelet |
+| 2021-12-01 | 2018-246-20-22.2 | 648/2021. (XI. 30.) Korm. rendelet |
