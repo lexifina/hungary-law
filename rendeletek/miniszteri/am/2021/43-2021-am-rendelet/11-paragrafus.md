@@ -1,3 +1,5 @@
-## 10. § A 20/2019. (V. 27.) AM rendelet 5. § (2) bekezdésében a „november 15-éig” szövegrész helyébe a „december 31-éig” szöveg lép.
+## 10. §[^11]
 
 ## 7. A komlóültetvény létesítéséhez igénybe vehető mezőgazdasági csekély összegű támogatásról szóló 37/2019. (VII. 26.) AM rendelet módosítása
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

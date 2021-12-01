@@ -1,3 +1,5 @@
-## 12. § A mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet 17. §-ában az „egyedi azonosításra nem alkalmas” szövegrész helyébe az „egyedi azonosításra alkalmas” szöveg lép.
+## 12. §[^13]
 
 ## 9. Záró rendelkezések
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
