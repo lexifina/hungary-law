@@ -1,0 +1,7 @@
+6. § (1) Az egészségügyi szabadság méltányosságból történő meghosszabbításáról szóló határozat rendelkező része tartalmazza az egészségügyi szabadság méltányosságból történő meghosszabbításának időtartamát a meghosszabbítás időtartamának vagy azon naptári nap megjelölésével, ameddig a meghosszabbított egészségügyi szabadság tart. Az időtartamot vagy időpontot az egészségügyi ellátás elhalasztásának időtartama figyelembevételével kell megállapítani.
+
+(2) Ha az egészségügyi szabadság méltányosságból történő meghosszabbítására okot adó körülmény fennállásának várható időtartama nem állapítható meg, a méltányosságból meghosszabbított egészségügyi szabadság időtartamaként a hivatásos állomány tagjának felgyógyulásáig, de legfeljebb a veszélyhelyzet megszűnését követő hatodik hónapig tartó időtartamot kell szerepeltetni.
+
+(3) Az egészségügyi szabadság méltányosságból történő meghosszabbításáról szóló határozat rendelkező részében a hivatásos állomány tagját tájékoztatni kell arról, hogy a határozatban foglaltakkal szemben szolgálati panasz benyújtásának van helye.
+
+(4) Az egészségügyi szabadság méltányosságból történő meghosszabbításáról szóló határozatot a határozat meghozatalától számított három munkanapon belül közölni kell a hivatásos állomány tagjával. A közléssel egyidejűleg tájékoztatni kell a rendvédelmi alapellátó orvost az egészségügyi szabadság méltányosságból történő meghosszabbításáról szóló döntésről.
