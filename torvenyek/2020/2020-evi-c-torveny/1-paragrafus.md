@@ -1,6 +1,6 @@
 ### 1. § [A törvény hatálya]
 
-(1) E törvény hatálya az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
+(1) E törvény hatálya kizárólag – ide nem értve a munkavállalói résztulajdont – az állami és az önkormányzati fenntartású egészségügyi szolgáltatóra, annak fenntartójára, valamint az állami vagy önkormányzati fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személy (a továbbiakban: egészségügyi szolgálati jogviszonyban álló személy) jogállására terjed ki.
 
 (2) Ha jogszabály rendelkezése folytán valamely egészségügyi szolgáltató az e törvény hatálya alá tartozó egészségügyi szolgáltatóvá alakul át, az egészségügyi szolgáltatóra és annak foglalkoztatottjára – törvény vagy kormányrendelet eltérő rendelkezése hiányában – e törvény rendelkezéseit az egészségügyi szolgáltató átalakulását követő harmadik hónap első napjától kell alkalmazni.
 
@@ -18,9 +18,15 @@ a jogszabályban meghatározott esetekben.
 
 (5) A (4) bekezdés nem zárja ki – a Kormány rendeletében meghatározott személyes közreműködő kivételével – a közreműködő, valamint az önkéntes segítő egészségügyi szolgáltató általi igénybevételének lehetőségét.
 
-(6) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott egészségügyi szolgáltatónál, illetve működtetett klinikai központnál és egyetemi kórháznál foglalkoztatott (3) bekezdés a) pontja szerinti egészségügyi dolgozó tekintetében e törvény rendelkezéseit kell alkalmazni.
+(5a) A kormányzati igazgatási szervként működő egészségügyi szolgáltatónál kormányzati szolgálati jogviszonyban is lehet egészségügyi tevékenységet végezni.
+
+(5b) Nem terjed ki e törvény hatálya a szociális intézményként működő egészségügyi szolgáltatókra, valamint a szociális intézményként működő egészségügyi szolgáltatónál foglalkoztatott személyekre.
+
+(6) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott klinikai központban foglalkoztatott (3) bekezdés a) pontja szerinti egészségügyi dolgozó tekintetében e törvény rendelkezéseit kell alkalmazni.
 
 (7) A honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató és foglalkoztatottjai a jogviszony sajátossága okán törvényben meghatározottak szerint tartoznak e törvény hatálya alá.
+
+(7a) A rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatók és foglalkoztatottjaik a jogviszony sajátossága okán nem tartoznak e törvény hatálya alá.
 
 (8) Ha az e törvény hatálya alá nem tartozó egészségügyi szolgáltató fenntartója vagy tulajdonosa egyházi jogi személy, a fenntartó vagy a tulajdonos erre irányuló döntése esetén az egészségügyi szolgáltató (3) bekezdés szerinti foglalkoztatottainak jogviszonyára e törvény rendelkezéseit kell alkalmazni.
 
@@ -30,4 +36,4 @@ a jogszabályban meghatározott esetekben.
 
 (11) Az Mt. XIII. és XIV. fejezetét az Eütev.-ben meghatározott eltérésekkel kell alkalmazni.
 
-(12) Az Mt. XVI. fejezetét azzal az eltéréssel kell alkalmazni, hogy munkaerő-kölcsönzés keretében a munkavállaló a munkáltató alaptevékenysége körében nem foglalkoztatható, kivéve, ha az alaptevékenység szerinti feladat ellátása más módon nem biztosítható.
+(12) Az Mt. XVI. Fejezetét azzal az eltéréssel kell alkalmazni, hogy egészségügyi szolgáltató alaptevékenysége körében nem foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló. Ha az egészségügyi szolgáltató alaptevékenysége szerinti feladat ellátása más módon nem biztosítható, az országos kórház-főigazgató előzetes engedélyével foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló az egészségügyi szolgáltatónál. Az engedélyezés eljárásrendjét az országos kórház-főigazgató állapítja meg.

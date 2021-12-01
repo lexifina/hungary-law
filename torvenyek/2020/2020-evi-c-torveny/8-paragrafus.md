@@ -10,17 +10,19 @@ b) középfokú vagy magasabb iskolai végzettséget, illetve középfokú vagy 
 
 megfelelő összeget.
 
-(3) Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott, továbbá egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló személy illetménye el kell hogy érje az 1. mellékletben az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatához meghatározott összeget, és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában a fizetési fokozathoz az 1. mellékletben meghatározott összeg százhúsz százalékát. Az egészségügyi szolgáltató vezetőjének illetménye el kell, hogy érje az 1. melléklet szerinti legmagasabb fizetési fokozathoz meghatározott összeget és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában a legmagasabb fizetési fokozathoz az 1. mellékletben meghatározott összeg százhúsz százalékát.
+(3) Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott, egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló személy illetménye el kell hogy érje az 1. mellékletben az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatához meghatározott összeget, és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában a fizetési fokozathoz az 1. mellékletben meghatározott összeg százhúsz százalékát. Az egészségügyi szolgáltató vezetőjének illetménye el kell, hogy érje az 1. melléklet szerinti legmagasabb fizetési fokozathoz meghatározott összeget és nem haladhatja meg a Kormány rendeletében meghatározott összeget, ennek hiányában a legmagasabb fizetési fokozathoz az 1. mellékletben meghatározott összeg százhúsz százalékát.
 
 (4) Az Eütv. szerinti egészségügyi felsőfokú szakirányú szakmai képzést lezáró szakvizsga megszerzését megelőzően – az ilyen szakvizsga megszerzése feltételeként előírt felsőfokú szakképesítéssel rendelkező és ezen szakképesítéshez kötött munkakörben foglalkoztatott – egészségügyi szolgálati jogviszonyban álló személy illetménye az 1. melléklet szerinti 4. fizetési fokozatot akkor sem érheti el, ha a számára előirt várakozási idő eltelt.
 
 (5) A Kormány a (3) bekezdés alá nem tartozó vezetői kategóriát és ahhoz kapcsolódó – az 1. melléklet szerinti illetménytáblában foglaltnál magasabb – illetményt állapíthat meg.
 
-(6) Az egészségügyi szakdolgozó az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben és a Kormány rendeletében meghatározott – illetményre, valamint illetménypótlékra jogosult.
+(6) Az egészségügyi szakdolgozó az egészségügyi ágazati előmeneteli szabályok szerinti – törvényben és a Kormány rendeletében meghatározott – illetményre, illetménypótlékra, valamint alapilletményen felül járó munkáltatói döntésen alapuló juttatásra jogosult.
 
 (7) Az 1. § (3) bekezdés b) pontja szerinti egészségügyben dolgozó személyek illetményét – a (2) bekezdés keretein belül – a felek szabad megállapodása határozza meg az Mt. munkabérre vonatkozó rendelkezéseinek figyelembevételével.
 
-(8) Az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatát az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell megállapítani.
+(8) A (3) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatát az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell megállapítani. A (6) bekezdés szerinti egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatát a munkakör betöltéséhez szükséges iskolai végzettsége, szakképzettsége és az egészségügyi szolgálati jogviszonyban töltött ideje alapján kell megállapítani.
+
+(8a) Ha az egészségügyi szolgálati jogviszonyban töltött idő számításánál az azonos naptári időszakra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
 (9) A (8) bekezdés alkalmazásában egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni
 
@@ -52,7 +54,21 @@ m) e törvény hatálya alá nem tartozó magyarországi vagy külföldi egészs
 
 töltött időt.
 
-(10) Az egészségügyi szolgálati jogviszonyban álló személy az egészségügyi szolgálati jogviszonyban töltött idő alapján háromévenként eggyel magasabb fizetési fokozatba lép. Az egészségügyi szolgálati jogviszonyban álló személyt a tárgyév első napjával kell a magasabb fizetési fokozatba besorolni. A magasabb fizetési fokozat elérésével a hároméves várakozási idő újra kezdődik. A várakozási idővel kapcsolatos szabályokat a Kormány rendeletben állapítja meg.
+(9a) A (9) bekezdésben foglaltakon túl egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni
+
+a) a munkaviszonynak azt az időtartamát, amely alatt a közalkalmazott a közalkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel rendelkezett,
+
+b) az 1992. július 1-jét megelőzően fennállt munkaviszony teljes időtartamát,
+
+c) a hadkötelezettség alapján teljesített sor- vagy tartalékos katonai szolgálatnak, illetve a polgári szolgálatnak az időtartamát,
+
+d) a (9) bekezdés h) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban eltöltött időt, és
+
+e) a PhD-fokozat megszerzése esetén a doktori képzésben töltött időt,
+
+ha ezen időtartamok korábban nem kerültek beszámításra a közalkalmazotti jogviszonyba.
+
+(10) Az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó az egészségügyi szolgálati jogviszonyban töltött idő alapján az 1. melléklet, valamint az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerint eggyel magasabb fizetési fokozatba lép a várakozási idő elteltét követő hónap első napjától.
 
 (11) Az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatának (10) bekezdés szerinti változása az egészségügyi szolgálati munkaszerződés módosításának minősül, amiről a munkáltató a Kormány rendeletében foglaltak szerint értesíti az egészségügyi szolgálati jogviszonyban álló személyt.
 
@@ -62,4 +78,4 @@ töltött időt.
 
 (14) Ha az egészségügyi szolgálati jogviszonyban álló személy – az 1. § (3) bekezdés b) pontja szerinti egészségügyben dolgozó személyek kivételével – a munkaköre ellátása mellett a munkáltató rendelkezése alapján átmenetileg más munkakörébe tartozó feladatokat is ellát és ezáltal jelentős többletmunkát végez, illetményén felül a végzett munkával arányos külön díjazás (helyettesítési díj) is megilleti. A helyettesítési díj mértékét a Kormány rendeletben állapítja meg.
 
-(15) Ha az egészségügyi szolgálati jogviszonyának általa kezdeményezett megszüntetését követően az érintett személy 12 hónapon belül újabb egészségügyi szolgálati jogviszonyt létesít, akkor az új egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor irányadó illetményét, függetlenül az utóbbi jogviszony létesítése érdekében kötött egészségügyi szolgálati munkaszerződésében szereplő heti munkaidejétől. Ebben az esetben az 1. melléklet szerint irányadó illetménytől eltérő összegű illetmény is megállapítható.
+(15) Ha az egészségügyi szolgálati jogviszonyának általa kezdeményezett megszüntetését követően az érintett személy 12 hónapon belül újabb egészségügyi szolgálati jogviszonyt létesít, akkor az új egészségügyi szolgálati jogviszonyban megállapított illetménye egy évig nem haladhatja meg a korábbi jogviszony megszűnésekor irányadó illetményét. Ebben az esetben az 1. melléklet szerint irányadó illetménytől eltérő összegű illetmény is megállapítható.

@@ -2,7 +2,7 @@
 
 (1) Az egészségügyi szolgáltatások minőségének biztosítása érdekében az egészségügyi szolgálati jogviszonyban álló személy munkateljesítményét a munkáltató írásban értékeli (minősítés).
 
-(2) A 8. § (3) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy minősítését a munkáltató évente legalább egyszer elvégzi.
+(2) A 8. § (3) és (6) bekezdése szerinti egészségügyi szolgálati jogviszonyban álló személy minősítését a munkáltató évente legalább egyszer elvégzi.
 
 (3) A (2) bekezdés szerinti minősítés alapján az egészségügyi szolgálati jogviszonyban álló személy illetménye az adott fizetési fokozathoz tartozó összeghez képest legfeljebb 20%-kal növelhető.
 

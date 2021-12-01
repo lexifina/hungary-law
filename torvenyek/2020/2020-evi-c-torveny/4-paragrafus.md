@@ -22,4 +22,4 @@ b) a munkáltatóéval azonos, vagy ahhoz hasonló tevékenységet is végző, i
 
 (9) Ha az egészségügyi szolgálati jogviszonyban álló személy az összeférhetetlenséget a felszólítástól számított harminc napon belül nem szüntette meg, az egészségügyi szolgálati jogviszonya e törvény erejénél fogva megszűnik.
 
-(10) Az egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet nem folytathat azzal, hogy ezen tevékenység végzési ideje a gyakorlati időbe, illetve a kötelező továbbképzésbe beszámít.
+(10) Az egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet az Eütev. 15/F. §-ban foglalt kivétellel nem folytathat azzal, hogy ezen tevékenység végzési ideje a gyakorlati időbe, illetve a kötelező továbbképzésbe beszámít.

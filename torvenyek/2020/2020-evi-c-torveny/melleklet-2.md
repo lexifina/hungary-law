@@ -1,6 +1,6 @@
 2. melléklet a 2020. évi C. törvényhez
 
-Az alapnyilvántartás adatköre
+A személyi nyilvántartás adatköre
 
 Az egészségügyi szolgálati jogviszonyban álló személy
 

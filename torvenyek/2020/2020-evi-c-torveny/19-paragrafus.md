@@ -6,7 +6,7 @@
 
 (3) A jogviszony átalakulásáról és az egészségügyi szolgálati munkaszerződés tervezett tartalmáról az érintettet 2020. november 30. napjáig írásban tájékoztatni kell. Az egészségügyi szolgálati munkaszerződést 2020. december 31-ig kell megkötni azzal, hogy azt 2021. január 1. napjától kell alkalmazni.
 
-(4) Ha az egészségügyi szolgálati munkaszerződés a (3) bekezdés szerinti határidőben nem kerül megkötésre, az érintett közalkalmazotti jogviszonya 2021. január 1-jével megszűnik. Ebben az esetben
+(4) Ha az egészségügyi szolgálati munkaszerződés a (3) bekezdés szerinti határidőben nem kerül megkötésre, az egészségügyi szolgáltatónál foglalkoztatott közalkalmazott közalkalmazotti jogviszonya 2021. március 1-jével megszűnik. Ebben az esetben
 
 a) ha az érintett kevesebb mint 20 év figyelembe vehető szolgálati idővel rendelkezik, 1 havi,
 
@@ -20,7 +20,7 @@ a jogviszony megszűnésekor érvényes illetményének megfelelő összegű vé
 
 (6) Az egészségügyi szolgálati jogviszonyban álló személy a 2020. december 31-én meglévő szabadságát 2023. december 31-ig kiveheti.
 
-(7) A 2021. január 1. napján fennálló és e törvény alapján engedélykötelessé váló tevékenység, illetve jogviszony engedélyeztetése iránti kérelmet 2021. március 1. napjáig kell az egészségügyi szolgálati jogviszonyban álló személynek a Kormány rendeletében meghatározottak szerint előterjesztenie.
+(7) A 2021. március 1. napján fennálló és e törvény alapján engedélykötelessé váló tevékenység, illetve jogviszony engedélyeztetése iránti kérelmet az egészségügyi szolgálati jogviszony létrejöttét követő 60 napon belül kell az egészségügyi szolgálati jogviszonyban álló személynek a Kormány rendeletében meghatározottak szerint előterjesztenie.
 
 (8) Az e törvény hatálya alá tartozó egészségügyi szolgáltató vezetője dönthet arról, hogy az általa vezetett egészségügyi szolgáltatónál e törvény egy, a 2021. január 1. napjától későbbi naptól alkalmazandó azzal, hogy e törvény alkalmazásának kezdőnapja nem lehet 2021. április 1. napjától későbbi időpont. A döntésről és annak tartalmáról az egészségügyi szolgáltató vezetője haladéktalanul tájékoztatja az egészségügyért felelős minisztert, a munkáltatót (ha az nem a szolgáltató vezetője) és az érintetteket, valamint a Magyar Államkincstárt.
 
@@ -54,4 +54,12 @@ c) a 2021. január 1. utáni vezetői munkakörbe vagy vezetői munkakörből ne
 
 (17) E törvény hatálybalépése nem érinti az e törvény hatálybalépése előtt megkötött kollektív szerződés hatályát.
 
-(18) A 4. § (6) bekezdését nem kell alkalmazni abban az esetben, ha az egészségügyi szolgálati jogviszonyban álló személy e törvény hatálybalépését megelőzően már megkezdte a beteg ugyanazon betegségének kezelését, amivel a beteget az e törvény hatálya alá tartozó egészségügyi szolgáltatónál e törvény hatálybalépését követően kezeli.
+(18) A 4. § (5) bekezdését nem kell alkalmazni abban az esetben, ha az egészségügyi szolgálati jogviszonyban álló személy e törvény hatálybalépését megelőzően már megkezdte a beteg ugyanazon betegségének kezelését, amivel a beteget az e törvény hatálya alá tartozó egészségügyi szolgáltatónál e törvény hatálybalépését követően kezeli.
+
+(19) A 4. § (10) bekezdésétől eltérően
+
+a) a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vezetője 2023. március 1. napjáig,
+
+b) a klinikai központ vezetője
+
+gyógyító-megelőző tevékenységet végezhet.

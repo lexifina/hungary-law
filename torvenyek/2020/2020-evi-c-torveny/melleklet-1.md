@@ -1,6 +1,6 @@
 1. melléklet a 2020. évi C. törvényhez
 
-Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott, továbbá egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló személy illetmény-, illetve bértáblája
+Az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá a Kormány rendeletében meghatározott munkakörben foglalkoztatott, egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló személy illetmény-, illetve bértáblája
 
 (Ft/hó, bruttó)
 
