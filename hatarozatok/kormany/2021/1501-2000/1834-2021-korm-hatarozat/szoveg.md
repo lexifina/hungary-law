@@ -20,4 +20,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2021. december 31.
 
-5. visszavonja az 1113/2017. (III. 7.) Korm. határozat 2–4. pontját.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
