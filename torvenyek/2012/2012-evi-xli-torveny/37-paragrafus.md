@@ -6,7 +6,7 @@
 
 (3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
 
-(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnését követő 5 évig kezeli.
+(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnését követő 5 évig kezeli.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 
@@ -14,7 +14,7 @@ a) a jogosult természetes személyazonosító adatai (családi és utónév, sz
 
 b) a jogosult lakhelye vagy tartózkodási helye, valamint levelezési címe,
 
-c) a munkaviszony, kormányzati szolgálati, közszolgálati, közalkalmazotti, kormánytisztviselői, politikai szolgálati, ösztöndíjas foglalkoztatási, ösztöndíjas jogviszony, szakmai gyakorlat kezdete, illetve vége,
+c) a munkaviszony, kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati kormánytisztviselői, politikai szolgálati, ösztöndíjas foglalkoztatási, ösztöndíjas jogviszony, szakmai gyakorlat kezdete, illetve vége,
 
 d) nyugdíjas esetén a saját jogú vagy hozzátartozói nyugellátás, valamint egyéb nyugdíjszerű társadalombiztosítási ellátás ténye és megállapításának kezdő időpontja, illetve megszűnésének időpontja,
 
