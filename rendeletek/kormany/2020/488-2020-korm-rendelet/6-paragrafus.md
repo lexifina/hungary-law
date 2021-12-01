@@ -1,1 +1,0 @@
-## 5. § A kereskedelmi forgalomba nem kerülő készítmény esetében az emberi felhasználásra kerülő gyógyszerek forgalomba hozatalának és gyártásának engedélyezéséről szóló 450/2017. (XII. 27.) Korm. rendelet 15. § (2) bekezdését kell alkalmazni, ha az immunológiai gyógyszer alkalmazására ezen kormányrendelet alapján kerül sor.
