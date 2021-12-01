@@ -1,3 +1,0 @@
-A Kormány a koronavírus világjárvány egészségügyi és nemzetgazdasági hatásainak egyidejű kezelése, az emberi életek védelme és a munkahelyek megőrzése érdekében egyetért adókedvezmények biztosításával, a szálláshely-szolgáltatók foglalásaik kieséséből származó költségeinek megtérítésével és bértámogatások nyújtásával.
-
-A Kormány az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
