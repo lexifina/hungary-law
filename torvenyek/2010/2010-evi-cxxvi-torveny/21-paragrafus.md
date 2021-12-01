@@ -8,11 +8,11 @@ b) az aláírásminta felvétele, az aláírások egyezősége vizsgálata, vala
 
 c) azon ügytípusokat, amelyek aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhetőek,
 
-d)
+d) az adatváltozás-kezelési szolgáltatót,
 
-e)
+e) az adatváltozás-kezelési szolgáltatás igénybevételének részletes szabályait és az adatváltozás-kezelési szolgáltató feladataira vonatkozó szabályokat,
 
-f)
+f) az adatváltozás-kezelési szolgáltatáshoz való csatlakozás feltételeit, az adatváltozás-kezelési szolgáltató és a csatlakozott szolgáltató, valamint a felhasználó közötti jogviszony tartalmi elemeit, továbbá az érintettek jogait és kötelezettségeit
 
 g) a fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi eljárásrendjének, az automatikus döntéshozatalnak, a kapcsolódó nyilvántartási és ügyfélkapcsolati szolgáltatásoknak a részletes szabályait,
 
