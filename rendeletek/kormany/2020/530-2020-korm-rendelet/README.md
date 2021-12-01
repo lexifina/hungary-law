@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-530-20-
 | 2021-02-08 | 2020-530-20-22.3 | 27/2021. (I. 29.) Korm. rendelet |
 | 2021-02-20 | 2020-530-20-22.4 | 72/2021. (II. 19.) Korm. rendelet |
 | 2021-06-15 | 2020-530-20-22.5 | 308/2021. (VI. 7.) Korm. rendelet |
+| 2021-12-01 | 2020-530-20-22.6 | 647/2021. (XI. 30.) Korm. rendelet |

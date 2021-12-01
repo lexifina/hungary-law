@@ -1,3 +1,3 @@
-## 5/A. §[^7] A veszélyhelyzet ideje alatt az állami vagy önkormányzati fenntartású, járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vezetőjének vezetői megbízásához és annak visszavonásához az országos kórház-főigazgató egyetértése szükséges.
+## 5/A. §[^19]
 
-[^7]: Az 5/A. §-t a 72/2021. (II. 19.) Korm. rendelet 2. §-a iktatta be.
+[^19]: Az 5/A. §-t a 72/2021. (II. 19.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 647/2021. (XI. 30.) Korm. rendelet 13. § 7. pontja.
