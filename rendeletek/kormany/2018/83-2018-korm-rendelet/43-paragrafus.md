@@ -1,4 +1,4 @@
-## 42. §[^58] A kincstár által kiállított számlakivonatok adatait a pénzügyi átutalási egység a NAHU 2014–2020 rendszerben a kézhezvételt követő öt munkanapon belül rögzíti és hagyja jóvá.
+## 42. §[^59] A kincstár által kiállított számlakivonatok adatait a pénzügyi átutalási egység a NAHU 2014–2020 rendszerben a kézhezvételt követő öt munkanapon belül rögzíti és hagyja jóvá.
 
 ## 12. Szabálytalanságok kezelése
 
@@ -6,4 +6,4 @@
 
 (2) A szabálytalansági vizsgálatot lefolytató szervezet és az irányító hatóság a szabálytalanságok jelentése érdekében együttműködik az Európai Csalás Elleni Hivatal Koordinációs Irodával.
 
-[^58]: A 42. § a 218/2018. (XI. 27.) Korm. rendelet 17. § 17. pontja szerint módosított szöveg.
+[^59]: A 42. § a 218/2018. (XI. 27.) Korm. rendelet 17. § 17. pontja szerint módosított szöveg.

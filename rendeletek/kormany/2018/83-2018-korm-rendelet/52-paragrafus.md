@@ -6,8 +6,8 @@
 
 a) a költségellenőrzési tevékenységre kijelölt szervezetet legfeljebb két alkalommal új eljárás lefolytatására kötelezheti,
 
-b)[^61] a javasolt intézkedést megváltoztathatja, vagy
+b)[^62] a javasolt intézkedést megváltoztathatja, vagy
 
 c) saját hatáskörben új eljárást folytathat le.
 
-[^61]: Az 52. § (3) bekezdés b) pontja a 426/2020. (IX. 10.) Korm. rendelet 16. § 10. pontja szerint módosított szöveg.
+[^62]: Az 52. § (3) bekezdés b) pontja a 426/2020. (IX. 10.) Korm. rendelet 16. § 10. pontja szerint módosított szöveg.

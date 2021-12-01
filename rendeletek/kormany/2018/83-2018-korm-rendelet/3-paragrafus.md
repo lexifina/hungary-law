@@ -1,4 +1,4 @@
-## 2. §[^1] A hazai társfinanszírozás felhasználásának lebonyolítása és ellenőrzése során – e rendelet eltérő rendelkezése hiányában – az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) rendelkezéseit kell alkalmazni.
+## 2. §[^1] A hazai társfinanszírozás felhasználásának lebonyolítása és ellenőrzése során – e rendelet eltérő rendelkezése hiányában – a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) rendelkezéseit kell alkalmazni.
 
 ## 2. Értelmező rendelkezések
 
@@ -56,7 +56,7 @@
 
 (2)[^10] Az (1) bekezdésben nem értelmezett fogalmakat a 232/2014/EU európai parlamenti és tanácsi rendelet, a 897/2014/EU bizottsági végrehajtási rendelet, valamint az (EU) 2020/879 bizottsági végrehajtási rendelet szerint kell értelmezni.
 
-[^1]: A 2. § a 426/2020. (IX. 10.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
+[^1]: A 2. § a 658/2021. (XI. 30.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: A 3. § (1) bekezdés 6. pontja a 426/2020. (IX. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § (1) bekezdés 6a. pontját a 426/2020. (IX. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^4]: A 3. § (1) bekezdés 10a. pontját a 218/2018. (XI. 27.) Korm. rendelet 13. § (2) bekezdése iktatta be.

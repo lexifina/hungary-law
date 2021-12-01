@@ -1,6 +1,6 @@
 ## 31. § A Program keretében a hazai kedvezményezettek számára megítélt uniós támogatás és a hazai társfinanszírozás felhasznált költségeinek ellenőrzése a költségellenőrzési tevékenységre jogszabály által kijelölt szervezet feladata.
 
-32. § (1)[^49] A költségek ellenőrzése során a költségellenőrzési tevékenységre kijelölt szervezetnek gondoskodnia kell a hazai kedvezményezett által benyújtott, felmerült és a hazai kedvezményezett által kifizetett költséget alátámasztó valamennyi dokumentum formai és tartalmi ellenőrzésének lefolytatásáról. Az INTERREG+ rendszerbe elektronikusan feltöltött dokumentum – ide nem értve az eredeti számlát – egy tekintet alá esik a papír alapon benyújtott dokumentummal.
+32. § (1)[^50] A költségek ellenőrzése során a költségellenőrzési tevékenységre kijelölt szervezetnek gondoskodnia kell a hazai kedvezményezett által benyújtott, felmerült és a hazai kedvezményezett által kifizetett költséget alátámasztó valamennyi dokumentum formai és tartalmi ellenőrzésének lefolytatásáról. Az INTERREG+ rendszerbe elektronikusan feltöltött dokumentum – ide nem értve az eredeti számlát – egy tekintet alá esik a papír alapon benyújtott dokumentummal.
 
 (2) A dokumentumok (1) bekezdés szerinti ellenőrzése keretében ellenőrizni kell különösen azt, hogy
 
@@ -34,11 +34,11 @@
 
 (3) A költségellenőrzési tevékenységre kijelölt szervezet a költségek ellenőrzésének a részeként ellenőrzi a közbeszerzésekről szóló törvény és a közbeszerzésekre vonatkozó uniós szabályok betartását. A hazai kedvezményezett köteles az általa lefolytatott valamennyi közbeszerzési eljárás teljes dokumentációját a költségellenőrzési tevékenységre kijelölt szervezet számára benyújtani. A közbeszerzési eljárás hazai és uniós jogszabályok szerinti lebonyolítása a hazai kedvezményezett felelőssége.
 
-(4)[^50] A költségellenőrzési tevékenységre kijelölt szervezet az ellenőrzött közbeszerzési eljárás lefolytatása során megállapított, sorozatos vagy ismétlődő, valamint a támogatási összeg korrekciójával járó jogsértések esetén jogosult a közbeszerzési eljárás lebonyolításával összefüggésben elszámolni kívánt költség arányos csökkentésére. Sorozatos vagy ismétlődő jogsértésnek minősül
+(4)[^51] A költségellenőrzési tevékenységre kijelölt szervezet az ellenőrzött közbeszerzési eljárás lefolytatása során megállapított, sorozatos vagy ismétlődő, valamint a támogatási összeg korrekciójával járó jogsértések esetén jogosult a közbeszerzési eljárás lebonyolításával összefüggésben elszámolni kívánt költség arányos csökkentésére. Sorozatos vagy ismétlődő jogsértésnek minősül
 
 a) az ugyanazon közbeszerzési eljárásban előforduló legalább három ugyanolyan vagy különböző típusú eljárási jellegű, de a támogatási összeg korrekcióját nem eredményező jogsértés,
 
 b) ha a projekt keretében az adott kedvezményezett által több közbeszerzési eljárás lefolytatásával megbízott személy vagy szervezet az általa lefolytatott eljárásokban eljárásonként legalább kettő eljárási jellegű, de a támogatási összeg korrekcióját nem eredményező jogsértést követ el.
 
-[^49]: A 32. § (1) bekezdése a 426/2020. (IX. 10.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
-[^50]: A 32. § (4) bekezdését a 218/2018. (XI. 27.) Korm. rendelet 14. §-a iktatta be.
+[^50]: A 32. § (1) bekezdése a 426/2020. (IX. 10.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
+[^51]: A 32. § (4) bekezdését a 218/2018. (XI. 27.) Korm. rendelet 14. §-a iktatta be.
