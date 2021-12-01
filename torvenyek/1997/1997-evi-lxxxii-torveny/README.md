@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-82-00-00
 | 2020-01-18 | 2019. évi CXVIII. törvény | 1997-82-00-00.75 |
 | 2020-07-01 | 2019. évi CXXII. törvény | 1997-82-00-00.76 |
 | 2021-01-01 | 2020. évi CLII. törvény | 1997-82-00-00.77 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 1997-82-00-00.78 |
