@@ -1,3 +1,5 @@
+## 11/A. §[^5] A Gytv. 25. § (2b) bekezdése szerinti engedély kiadása iránti eljárásban a 11. § (3)–(6) bekezdését megfelelően alkalmazni kell. A kereskedelmi forgalomba nem kerülő, a Gytv. 25. § (2b) bekezdése alapján alkalmazásra kerülő immunológiai gyógyszer esetében a 15. § (2) bekezdését is alkalmazni kell.
+
 ## 6. A forgalomba hozatali engedély nyilvántartása
 
 12. § (1) A gyógyszer nyilvántartási számot kap. A nyilvántartási szám
@@ -31,3 +33,5 @@ a) OGYI-TN jelzésből,
 b) sorszámból,
 
 c) „/” (per) jelzésből, gyógyszerformánként, hatáserősségenként, csomagolási egységenként, illetve csomagolási módonként 01-essel kezdődő sorszámból
+
+[^5]: A 11/A. §-t a 648/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
