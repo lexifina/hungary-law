@@ -1,3 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-3. § Hatályát veszti az elektronikus közbeszerzési rendszer üzemeltetését és fenntartását végző gazdasági társaság kijelöléséről szóló 27/2017. (XI. 6.) MvM rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
