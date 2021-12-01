@@ -4,6 +4,8 @@ a) a 36. § (3) bekezdése szerinti kötelezettségvállalás összege, a költs
 
 b) a költségvetési évet követő év vagy évek kiadási előirányzatai terhére vállalt kötelezettség esetén a Kormány rendeletében foglaltak szerint a kötelezettségvállalás értékeként meghatározott összegből a költségvetési évet követő éveket terhelő összegek egyik évben sem haladják meg a 36. § (4), (4a) vagy (4c) bekezdése szerinti összegeknek a korábban vállalt kötelezettségek és más fizetési kötelezettségek adott évi mértékével csökkentett összegét.
 
+(1a) A 36. § (4f)–(4i) bekezdése szerinti kötelezettségvállalás esetén a pénzügyi ellenjegyzőnek kizárólag arról kell meggyőződnie, hogy a kötelezettségvállalás nem sérti a gazdálkodásra vonatkozó szabályokat.
+
 (2) A pénzügyi ellenjegyzésre jogosult személyek körét, a pénzügyi ellenjegyző feladatait, összeférhetetlenségének eseteit, képesítési követelményeit a Kormány rendeletben határozza meg.
 
 (3) Ha egy gazdasági esemény során a szerződő fél és a kötelezettségvállalást, a pénzügyi ellenjegyzést, a teljesítésigazolást, az érvényesítést, illetve az utalványozást végző személyek egymástól eltérő országban tartózkodnak, elegendő, ha a szükséges aláírások szkennelt formában állnak rendelkezésre, illetve az eredeti aláírások külön dokumentumokon kerülnek megtételre.

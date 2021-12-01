@@ -10,4 +10,6 @@
 
 (5) Ha a központi költségvetésről szóló törvény – ide nem értve a fejezeti általános tartalékot – az (1)–(4) bekezdésben foglaltakon kívül más tartalék létrehozásáról rendelkezik, a központi költségvetésről szóló törvényben meg kell határozni a tartalék célját, felhasználásának módját és feltételeit.
 
-(6)
+(6) A beruházások megvalósítását, továbbá az ingatlanszerzés teljes vagy részbeni fedezetének biztosítására Beruházási Alap megjelöléssel – központi kezelésű előirányzatként – létrehozott tartalék (a továbbiakban: Beruházási Alap) szolgál, aminek a terhére az államháztartásért felelős miniszter a Kormány irányítása alá tartozó bármely fejezet kiadási előirányzata javára előirányzat-átcsoportosítást hajthat végre a 36. § (4h) bekezdésen kívüli előkészítéshez szükséges kötelezettségvállalás, a beruházás vagy támogatás, továbbá az ingatlanszerzés érdekében vállalt pénzügyi kötelezettség teljesítése érdekében.
+
+(7) A Beruházási Alap terhére történő forrásbiztosítási folyamat részletes szabályait, így különösen a forrás igénylésének rendjét, a forrásigény indokoltságának megalapozására irányuló követelményeket, a forrásbiztosítási folyamat lépéseit és határidőit az államháztartásért felelős miniszter által meghatározott eljárásrend tartalmazza, amelyről elektronikus úton tájékoztatja az érintett szervezeteket.
