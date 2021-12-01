@@ -4,9 +4,11 @@
 
 (2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
 
-(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető.
+(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a tevékenységgel érintett területet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánította.
 
-(4) A (3) bekezdésben foglalt feltétel fennállása esetén sem engedélyezhető a termőföld végleges más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.
+(4) A (3) bekezdésben foglalt feltétel fennállása esetén – a (4a) bekezdésben foglalt kivételtől eltekintve – sem engedélyezhető a termőföld végleges más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a kérelemmel érintett település külterületén lévő földrészletek összterületének 25%-át meghaladja az ilyen célból már igénybevett és az ilyen célra felhasználni engedélyezett, de még igénybe nem vett termőföldek együttes területe.
+
+(4a) A (4) bekezdés szerinti esetben akkor engedélyezhető a termőföld más célú hasznosítása cél-kitermelőhely létesítése céljára, ha a tevékenységgel érintett területet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánította.
 
 (5) Ha a végleges más célú hasznosítással érintett területet a jogosult a cél-kitermelőhely megszüntetése esetére irányadó szabályok alapján kiadott véglegessé vált határozat előírásainak megfelelően úgy állítja helyre, hogy ennek eredményeként a végleges más célú hasznosítással érintett terület egésze vagy annak egy része e törvény szerinti újrahasznosítása valósul meg, a jogosult köteles az újrahasznosítást az ingatlanügyi hatóságnak bejelenteni.
 
