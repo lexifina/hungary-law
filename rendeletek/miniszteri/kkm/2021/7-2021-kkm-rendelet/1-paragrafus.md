@@ -22,28 +22,30 @@
 
 11. Kirgiz Köztársaság,
 
-12. Marokkói Királyság,
+12. Maldív Köztársaság,
 
-13. Moldovai Köztársaság,
+13. Marokkói Királyság,
 
-14. Mongólia,
+14. Moldovai Köztársaság,
 
-15. Montenegrói Köztársaság,
+15. Mongólia,
 
-16. San Marino Köztársaság,
+16. Montenegrói Köztársaság,
 
-17. Szerb Köztársaság,
+17. San Marino Köztársaság,
 
-18. Szlovák Köztársaság,
+18. Szerb Köztársaság,
 
-19. Szlovén Köztársaság,
+19. Szlovák Köztársaság,
 
-20. Török Köztársaság,
+20. Szlovén Köztársaság,
 
-21. Ukrajna,
+21. Török Köztársaság,
 
-22. Üzbég Köztársaság,
+22. Ukrajna,
 
-23. Zöld-foki Köztársaság.
+23. Üzbég Köztársaság,
 
-[^1]: Az 1. § a 38/2121. (XI. 29.) KKM rendelet 1. §-ával megállapított szöveg.
+24. Zöld-foki Köztársaság.
+
+[^1]: Az 1. § a 39/2121. (XI. 30.) KKM rendelet 1. §-ával megállapított szöveg.
