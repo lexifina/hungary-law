@@ -1,7 +1,1 @@
 ## 1. § A veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet) ideje alatt az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni.
-
-2. § (1)[^2] Ha az államháztartás önkormányzati alrendszerébe tartozó adatszolgáltatásra kötelezett az Áht. 108. § (1) bekezdése szerinti adatszolgáltatási kötelezettségét a veszélyhelyzet ideje alatt el nem hárítható ok vagy körülmény (a továbbiakban: veszélyhelyzeti ok) miatt nem vagy késedelmesen teljesíti, a Magyar Államkincstár (a továbbiakban: Kincstár) a veszélyhelyzet megszűnéséig az Áht. 108. § (3) bekezdés b) pontja szerinti bírság kiszabásától eltekinthet. A bírság mellőzése során a Kincstár azt mérlegeli, hogy a veszélyhelyzeti ok a koronavírus-világjárvánnyal összefüggésben merült-e fel.
-
-(2) Az államháztartás önkormányzati alrendszerébe tartozó adatszolgáltatásra kötelezett a veszélyhelyzeti ok megszűnését követően az Áht. 108. § (1) bekezdés b) pontja szerinti adatszolgáltatási kötelezettségét legkésőbb a veszélyhelyzeti ok megszűnését követő hónap 20. napjáig teljesíti.
-
-[^2]: A 2. § (1) bekezdése a 161/2021. (IV. 2.) Korm. rendelet 5. §-a szerint módosított szöveg.
