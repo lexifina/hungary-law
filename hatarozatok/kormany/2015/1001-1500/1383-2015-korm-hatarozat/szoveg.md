@@ -8,13 +8,19 @@ nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-2. támogatja a város oktatási célú fejlesztési terveit, ennek keretében a középfokú oktatási intézmények megfelelő elhelyezését, korszerű képzési körülményeket biztosító, a művészeti és sport funkciókat is integráló campus kialakítását, és felhívja az emberi erőforrások miniszterét és a nemzetgazdasági minisztert, hogy a Székesfehérvár Megyei Jogú Város Önkormányzata által előkészített fejlesztési koncepciót terjesszék a Kormány elé;
+2.[^1] támogatja a város oktatási célú fejlesztési terveit, ennek keretében
+
+a) a Középiskolai Campus kialakítását, valamint
+
+b) a komplex oktatási célú fejlesztések megvalósítását, melynek
+
+érdekében felhívja az emberi erőforrások miniszterét és a pénzügyminisztert, hogy a Székesfehérvár Megyei Jogú Város Önkormányzata által előkészített fejlesztési koncepciót terjesszék a Kormány elé;
 
 Felelős: emberi erőforrások minisztere
 
-nemzetgazdasági miniszter
+pénzügyminiszter
 
-Határidő: a fejlesztési koncepció önkormányzat általi elkészítését követően azonnal
+Határidő: a fejlesztési igény ütemében
 
 3. támogatja a város kulturális és turisztikai vonzerejének növelése érdekében a város idegenforgalmi és infrastrukturális fejlesztéseinek megvalósulását, ennek keretében
 
@@ -75,3 +81,5 @@ Felelős: nemzeti fejlesztési miniszter
 nemzetgazdasági miniszter
 
 Határidő: azonnal
+
+[^1]: A 2. pont az 1853/2021. (XII. 1.) Korm. határozat 2. pontjával megállapított szöveg.
