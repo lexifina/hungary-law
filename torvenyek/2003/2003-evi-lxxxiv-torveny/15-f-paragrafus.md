@@ -1,0 +1,1 @@
+15/F. § Az Eszjtv. hatálya alá tartozó egészségügyi szolgáltató vezetője kizárólag a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezheti az 1. § szerinti gyógyító-megelőző tevékenységet.

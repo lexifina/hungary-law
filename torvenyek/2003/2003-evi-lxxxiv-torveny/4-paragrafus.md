@@ -14,6 +14,6 @@ c) rezidens: az első egészségügyi felsőfokú szakirányú szakképesítés�
 
 d) ügyeleti feladatellátás: az Eütv. 93. §-ában meghatározott ügyeleti ellátás keretében végzett tényleges egészségügyi tevékenység, valamint a tényleges egészségügyi tevékenység végzése nélküli rendelkezésre állás az egészségügyi szolgáltató által meghatározott helyen és időben,
 
-e) egészségügyi ügyelet: a d) pontban meghatározott ügyeleti feladatellátás munkaviszonyban vagy közalkalmazotti jogviszonyban,
+e) egészségügyi ügyelet: a d) pontban meghatározott ügyeleti feladatellátás egészségügyi szolgálati jogviszonyban vagy honvédelmi alkalmazotti jogviszonyban,
 
 f) az a)–e) pontokban foglaltakon túl az Eütv. 3. §-ában foglalt fogalommeghatározásokat kell figyelembe venni.

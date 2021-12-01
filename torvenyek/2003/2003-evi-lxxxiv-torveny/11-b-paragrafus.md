@@ -1,13 +1,13 @@
-11/B. § (1) A rezidens az egészségügyi felsőfokú szakirányú szakképzése ideje alatt a kormányrendeletben meghatározott szakorvosképzésért felelős egészségügyi államigazgatási szervvel létesített közalkalmazotti jogviszonyban áll.
+11/B. § (1) A rezidens az egészségügyi felsőfokú szakirányú szakképzése ideje alatt az elsődleges képzőhelyével egészségügyi szolgálati jogviszonyban, a nem az Eszjtv. hatálya alá tartozó képzőhely esetében a 7. § (2) bekezdés d)–g) pontja szerinti jogviszonyban áll.
 
-(2) Az (1) bekezdés szerinti rezidens felett a közalkalmazotti jogviszony létesítésére és megszüntetésére, az illetmény és a munkakör megállapítására, valamint a munkarend meghatározására irányuló munkáltatói jogköröket a szakorvosképzésért felelős egészségügyi államigazgatási szerv vezetője gyakorolja. A rezidens felett az egyéb munkáltatói jogokat – e törvény vagy a felek eltérő rendelkezése hiányában – a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a rezidens részére a munkavégzés helyeként kijelölt egészségügyi szolgáltató vezetője gyakorolja a (3) bekezdésben foglaltakra figyelemmel.
+(2)
 
-(3) Ahol jogszabály munkáltatóról rendelkezik, azon a (2) bekezdés szerinti egészségügyi szolgáltatót is érteni kell, figyelembe véve az intézményvezető munkáltatói jogainak e törvény szerinti korlátozását.
+(3)
 
 (4) A Kormány a rezidensek foglalkoztatása tekintetében a III. Fejezetben foglaltaktól a rezidensek számára kedvezőbb szabályokat rendeletben megállapíthat. Ebben az esetben e törvénytől eltérően a Kormány rendeletében megállapított kedvezőbb rendelkezést kell alkalmazni.
 
-(5) A 12/B. §-ban foglaltaktól eltérően a rezidenssel önként vállalt többletmunkáról megállapodás nem köthető. A rezidens egészségügyi ügyelet ellátására a 12/D. § (3) bekezdése szerinti keret terhére nem osztható be.
+(5)
 
-(6) Ügyeleti feladatokat a rezidens a 12/D. § (2) bekezdése szerinti beosztás alapján is csak a képzési tervben foglaltakkal összhangban láthat el, vagy ezen túlmenően arra a rezidens és a képzés helye szerinti egészségügyi szolgáltató a 8. § (1)–(3) bekezdése szerint szabadfoglalkozású jogviszonyt létesít. Az e szabadfoglalkozású jogviszony alapján teljesítendő egészségügyi tevékenységet a 13. § (1) bekezdésében foglaltak megfelelő alkalmazásával, az 5. § (5) bekezdésében foglaltakra figyelemmel kell beosztani. A rezidens a 14/B. § szerinti műszakpótlékra jogosító munkaidő-beosztásba csak a szakorvosképzésért felelős egészségügyi államigazgatási szerv előzetes jóváhagyásával osztható be.
+(6) Ügyeleti feladatokat a rezidens a 12/D. § (2) bekezdése szerinti beosztás alapján is csak a képzési tervben foglaltakkal összhangban láthat el.
 
-(7) A (6) bekezdés szerinti, kizárólag ügyeleti feladatellátás céljából létesíthető szabadfoglalkozású jogviszonyban teljesített ügyelet tartama nem haladhatja meg a munkaidőkeret átlagában a heti 32 órát, amelynek a 8 óra feletti tartamára legalább az önként vállalt többletmunkára irányadó díjazást kell a szabadfoglalkozású megbízási szerződésben megállapítani.
+(7)

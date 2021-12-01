@@ -10,7 +10,7 @@
 
 (5) A 11/A. § alkalmazásában a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) hatálya alá tartozók esetében, ahol e törvény „alapbért (garantált illetményt)” említ, ott a 11/A. § (4) és (5) bekezdése alkalmazásában „a távolléti díjba tartozó illetményelemek együttes összegét” kell érteni.
 
-(6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához a 11/A. § (5) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
+(6) A Hjt. hatálya alá tartozók esetében a 11/A. § (5) bekezdésében foglaltak végrehajtásához a 11/A. § (5) bekezdése szerinti személyek esetében meg kell állapítani, hogy amennyiben egészségügyi szolgálati jogviszonyban állnának, akkor iskolai végzettségüknek és egészségügyi szolgálati jogviszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
 (7) A Hjt. hatálya alá tartozók esetében a (3) bekezdésben foglaltak végrehajtásához szükséges esetleges illetménykülönbözetet egészségügyi dolgozók kiegészítő illetményeként kell megállapítani és folyósítani.
 

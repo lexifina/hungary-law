@@ -16,7 +16,7 @@ a) meg kell határozni egész órában kifejezve, a törvényes maximális óras
 
 b) meg lehet határozni az e törvényben foglaltaknál magasabb díjazást.
 
-(5) Az önként vállalt többletmunkára irányuló megállapodást – a felek vagy kollektív szerződés eltérő rendelkezése hiányában – a felmondás közlésének időpontját követő hónap utolsó napjával felmondhatja
+(5) Az önként vállalt többletmunkára irányuló megállapodást – a felek eltérő rendelkezése hiányában – a felmondás közlésének időpontját követő hónap utolsó napjával felmondhatja
 
 a) a határozatlan időre szóló megállapodás esetében bármelyik fél indokolás nélkül,
 
