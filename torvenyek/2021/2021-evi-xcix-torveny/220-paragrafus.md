@@ -16,4 +16,4 @@
 
 ## n) határozza meg a Hvt. 80. § 11a. pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.”
 
-220. § Az egészségügyről szóló 1997. évi CLIV. törvény 247. §-a a következő (1c) bekezdéssel egészül ki:
+### 220. §

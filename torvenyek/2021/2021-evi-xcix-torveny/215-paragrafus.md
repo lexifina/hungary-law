@@ -26,6 +26,6 @@
 
 ## „l) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti közterület használatára a közterülethez közvetlenül csatlakozó, a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség tekintetében közterület-használati hozzájárulás megfizetésével kapcsolatos rendelkezéseket állapíthat meg,
 
-## m) a 232/P. § szerinti, a távmunkavégzésre vonatkozó különös szabályok alkalmazását rendelheti el.”
+## m) a 232/G. § szerinti, a távmunkavégzésre vonatkozó különös szabályok alkalmazását rendelheti el.”
 
 (2) Az egészségügyről szóló 1997. évi CLIV. törvény 232/D. §-a a következő (4)–(7) bekezdéssel egészül ki:

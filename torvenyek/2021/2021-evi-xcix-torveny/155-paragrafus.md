@@ -18,6 +18,6 @@ b) – az új előírás helyett – jogszerűen alkalmazhatja az a) pont aa)–
 
 (2) Az (1) bekezdés a 2021. március 11-én folyamatban lévő közigazgatási hatósági eljárásban, valamint a megkezdett építőipari kivitelezési tevékenységgel összefüggésben is alkalmazható.
 
-(3) Az (1) bekezdés b) pontja szerinti szabályok alkalmazhatóságát nem érinti, ha az (1) bekezdés szerinti alkalmazhatósági határidő folyamatban lévő közigazgatási hatóságban, vagy megkezdett építőipari kivitelezési tevékenység során jár le.
+(3) Az (1) bekezdés b) pontja szerinti szabályok alkalmazhatóságát nem érinti, ha az (1) bekezdés szerinti alkalmazhatósági határidő folyamatban lévő közigazgatási hatósági eljárásban, vagy megkezdett építőipari kivitelezési tevékenység során jár le.
 
 (4) Az (1) bekezdés nem alkalmazható azokra a közbeszerzésieljárás-köteles vagy a védelmi és biztonsági célú beszerzésekről szóló törvény hatálya alá tartozó építési beruházásokra, amelyek becsült értéke eléri vagy meghaladja a 700 000 000 Ft-ot.

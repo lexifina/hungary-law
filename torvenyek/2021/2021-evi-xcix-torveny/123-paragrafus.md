@@ -1,5 +1,3 @@
-## 50. Helyi adókönnyítésekkel összefüggő rendelkezések
+## 50.
 
-123. § (1) A 2021. évben végződő adóévben azon, a helyi adókról szóló 1990. évi C. törvény 52. § 26. pontja szerinti vállalkozó (a továbbiakban: vállalkozó) esetén, amely azzal felel meg a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: KKV törvény) szerinti mikro-, kis- és középvállalkozássá minősítés feltételeinek, hogy esetében a KKV törvény 3. § (1) bekezdés b) pontjában meghatározott nettó árbevétel vagy mérlegfőösszeg értékhatár legfeljebb 4 milliárd Ft (a továbbiakban: mikro-, kis- és középvállalkozás), a helyi iparűzési adó mértéke 1 százalék, ha a 2021. évben végződő adóévben alkalmazandó önkormányzati rendeletben megállapított helyi iparűzési adómérték több, mint 1 százalék.
-
-(2) A tevékenységét 2021. január 1-jét követően kezdő, naptári évtől eltérő üzleti évet választó mikro-, kis- és középvállalkozásnak az (1) bekezdést a 2021. évben kezdődő adóévében kell alkalmaznia.
+### 123. §

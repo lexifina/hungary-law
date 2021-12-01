@@ -1,4 +1,4 @@
-149. § (1) A közterület e törvény szerinti használatára 2021. december 31. napjáig a közterülethez közvetlenül csatlakozó vendéglátó üzletnek az üzemeltetője, bérlője vagy tulajdonosa (a továbbiakban együtt: használó) közterület-használati hozzájárulás megfizetése nélkül ingyenesen jogosult.
+149. § (1) A közterület e törvény szerinti használatára 2022. szeptember 30. napjáig a közterülethez közvetlenül csatlakozó vendéglátó üzletnek az üzemeltetője, bérlője vagy tulajdonosa (a továbbiakban együtt: használó) közterület-használati hozzájárulás megfizetése nélkül ingyenesen jogosult.
 
 (2) A használó a közterületnek a közterülethez közvetlenül csatlakozó vendéglátó üzlet előtti részét – a vendéglátó üzlet közterületen működő terasza működtetése céljából – a vendéglátó üzlet közterülethez csatlakozó épülethatára szélességében használhatja.
 

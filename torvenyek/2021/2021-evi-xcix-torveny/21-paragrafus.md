@@ -1,3 +1,3 @@
-## 11. A társasházakra vonatkozó átmeneti szabályok
+## 11.
 
-21. § A társasházak – a társasházakról szóló jogszabályoktól eltérően – az ebben az alcímben foglaltak szerint működhetnek.
+### 21. §

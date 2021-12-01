@@ -1,3 +1,1 @@
-108. § (1) 2021. szeptember 30-ától a büntetőeljárásról szóló 2017. évi XC. törvény 298. § (1) bekezdését a (2) bekezdés szerinti eltéréssel kell alkalmazni.
-
-(2) A büntetőeljárásról szóló 2017. évi XC. törvény 298. § (1) bekezdésétől eltérően, ha életfogytig tartó szabadságvesztéssel is büntethető bűncselekmény miatt van folyamatban büntetőeljárás és a veszélyhelyzet tartama alatt a koronavírus-világjárvány akadályozta az előkészítő ülés, illetve a tárgyalás megtartását, a négy évet meghaladó tartamú letartóztatás legfeljebb a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésétől számított egy évig tarthat.
+### 108. §

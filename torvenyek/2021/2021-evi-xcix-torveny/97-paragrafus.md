@@ -1,4 +1,4 @@
-97. § (1) A veszélyhelyzet ideje alatt lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnésének hónapját követő második hónap utolsó napján szűnik meg.
+97. § (1) A veszélyhelyzet ideje alatt lejáró rehabilitációs ellátás a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 10. § (1) bekezdés a) pontjában foglaltaktól eltérően az e törvény hatálybalépésének hónapját követő második hónap utolsó napján szűnik meg.
 
 (2) A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény
 

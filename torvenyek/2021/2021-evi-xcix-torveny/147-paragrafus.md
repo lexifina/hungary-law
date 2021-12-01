@@ -1,6 +1,6 @@
 ## 62. Helyi díjak mértékének rögzítése
 
-147. § (1) A koronavírus-világjárvány nemzetgazdaságot érintő hatásának enyhítése érdekében szükséges gazdasági intézkedésről szóló 603/2020. (XII. 18.) Korm. rendelet [a továbbiakban: 603/2020. (XII. 18.) Korm. rendelet] hatálybalépésének napjától 2021. december 31. napjáig – a (3) és (4) bekezdésben foglalt kivétellel –
+147. § (1) A koronavírus-világjárvány nemzetgazdaságot érintő hatásának enyhítése érdekében szükséges gazdasági intézkedésről szóló 603/2020. (XII. 18.) Korm. rendelet [a továbbiakban: 603/2020. (XII. 18.) Korm. rendelet] hatálybalépésének napjától 2022. június 30. napjáig – a (3) és (4) bekezdésben foglalt kivétellel –
 
 a) a helyi önkormányzat,
 
@@ -20,7 +20,7 @@ e) a képviselő-testület feladatkörébe tartozó közszolgáltatás ellátás
 
 által nyújtott szolgáltatásért, végzett tevékenységéért megállapított díj, az önkormányzati vagyonnal való gazdálkodás keretében felmerülő díj, illetve egyéb díjfizetési kötelezettség (a továbbiakban együtt: díj) mértéke nem lehet magasabb, mint az ugyanazon díjnak a 603/2020. (XII. 18.) Korm. rendelet hatálybalépését megelőző napon hatályos és alkalmazandó mértéke.
 
-(2) Az (1) bekezdés szerinti szervezet a 603/2020. (XII. 18.) Korm. rendelet hatálybalépésének napjától már megállapított új díjat nem vezethet be, 2021. december 31. napjáig új díjat nem állapíthat meg, meglévő díjat új kötelezetti körre nem terjeszthet ki.
+(2) Az (1) bekezdés szerinti szervezet a 603/2020. (XII. 18.) Korm. rendelet hatálybalépésének napjától már megállapított új díjat nem vezethet be, 2022. június 30. napjáig új díjat nem állapíthat meg, meglévő díjat új kötelezetti körre nem terjeszthet ki.
 
 (3) Nem kell alkalmazni az (1) bekezdésben foglaltakat abban az esetben, ha a felek a 603/2020. (XII. 18.) Korm. rendelet hatálybalépése előtt – legalább kétéves időtartamra vagy határozatlan időre – megkötött szerződésükben számszerűsíthető módon meghatározták a díjemelés mértékét az (1) bekezdés szerinti időszak vonatkozásában.
 

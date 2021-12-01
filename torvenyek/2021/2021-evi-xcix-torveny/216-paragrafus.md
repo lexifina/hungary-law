@@ -6,4 +6,4 @@
 
 ## (7) Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltatót a jogszabályok és a (6) bekezdés szerinti szerződés alapján járó díjazás abban az időtartamban is megilleti, amíg helyette az állami mentőszolgálat látja el az ügyeleti ellátást. Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltató díjazásának havi mértéke megegyezik azzal az összeggel, amely arra a teljes hónapra jár számára, amikor utoljára ügyeleti ellátást nyújtott vagy érvényes szerződés alapján először nyújtott volna.”
 
-216. § Az egészségügyről szóló 1997. évi CLIV. törvény XIV. Fejezete a következő 232/F–232/P. §-sal egészül ki:
+### 216. §

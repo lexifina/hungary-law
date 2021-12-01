@@ -1,1 +1,1 @@
-100. § A 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet megszűnését követő 15. napig a gyámhatósági eljárásban a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 128. § (3) bekezdése szerinti személyes jognyilatkozatok felvétele helyett – a gyámhatóság eltérő rendelkezése hiányában – az ügyfelek írásban nyilatkoznak, a gyámhatóság a tárgyalás megtartását mellőzheti.
+### 100. §

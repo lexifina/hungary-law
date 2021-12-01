@@ -86,4 +86,4 @@
 
 ## (22) A Budapesten és Pest megyében működő önkormányzati fenntartású járóbeteg-szakellátást nyújtó egészségügyi intézményekre a (21) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a Kormány rendeletben határozza meg az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket.”
 
-211. § Az egészségügyről szóló 1997. évi CLIV. törvény VII. Fejezete a következő 156/A. §-sal egészül ki:
+### 211. §

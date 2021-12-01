@@ -1,13 +1,3 @@
-## 51. A helyi iparűzésiadó-könnyítésnek az állami támogatások uniós jogával való összeegyeztethetősége
+## 51.
 
-126. § (1) A 123. § (1) bekezdése szerinti intézkedés az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése szerinti állami támogatásnak minősül. E támogatás az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából” című, 2020. március 19-i, 2020/C 91 I/01 számú európai bizottsági közlemény (ezen alcím alkalmazásában a továbbiakban: közlemény) 3.1. szakasza szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) nyújtható.
-
-(2) Az átmeneti támogatás támogatástartalma a 2021. évben végződő adóévben – a 123. § (2) bekezdése szerinti vállalkozó esetében a 2021. évben kezdődő adóévben – alkalmazandó önkormányzati rendeletben megállapított adómérték (a továbbiakban: általános adómérték) és az 1%-os adómérték (a továbbiakban: csökkentett adómérték) különbözetének szorzatával egyező összeg.
-
-(3) A (2) bekezdés szerinti támogatástartalmat a vállalkozó számára a helyi adókról szóló 1990. évi C. törvény 52. § 41. pontja szerinti székhelye és a helyi adókról szóló 1990. évi C. törvény 52. § 31. pontja szerinti telephelye szerinti önkormányzati adóhatóság a 2021. évben végződő – a 123. § (2) bekezdése szerinti vállalkozó esetében a 2021. évben kezdődő – adóévről szóló adóbevallás benyújtását követő hónap utolsó napjáig visszaigazolja.
-
-(4) Ha a vállalkozó az elsődleges mezőgazdasági termelési ágazatban vagy a halászati és akvakultúra-ágazatban is folytat tevékenységet, az egyes ágazatokra eső átmeneti támogatás arányát annak alapján kell megállapítani, hogy az adott ágazatban folytatott tevékenységből származó árbevétel milyen arányt képviselt a vállalkozó 2021. évi árbevételén belül.
-
-(5) Ha az átmeneti támogatásként nyújtott egyedi támogatás támogatástartalma meghaladja a 100 000 eurónak megfelelő forintösszeget, vagy a (4) bekezdés szerinti tevékenységre eső átmeneti támogatás támogatástartalma meghaladja a 10 000 eurónak megfelelő forintösszeget, az önkormányzati adóhatóság a (3) bekezdésben meghatározott határnapot követő második hónap utolsó napjáig megküldi az állami adó- és vámhatóság részére az egyedi támogatásnak az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 6. melléklete szerinti adatait.
-
-(6) Az állami adó- és vámhatóság a (3) bekezdésben meghatározott határnapot követő harmadik hónap utolsó napjáig továbbítja az (5) bekezdés szerinti adatokat az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a közlemény 4. szakasza szerinti közzététel céljából.
+### 126. §
