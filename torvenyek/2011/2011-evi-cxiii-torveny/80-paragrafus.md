@@ -24,6 +24,10 @@
 
 11. honvédelem területi igazgatási szerve: a megyei, fővárosi védelmi bizottság, valamint a katonai igazgatás területi szerve,
 
+11a. honvédelmi egészségügyi szolgáltató: a honvédelemért felelős miniszter irányítása alá tartozó, az egészségügyről szóló 1997. évi CLIV. törvény szerint egészségügyi szolgáltatónak minősülő honvédelmi szervezet, amely a Kormány rendeletében meghatározott megyei intézmény kategóriával azonos besorolású egészségügyi intézmény,
+
+11b. honvédelmi egészségügyi szolgáltató szervezeti egység: a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység,
+
 12. honvédelmi igazgatás: a védelmi igazgatás részét képező feladat- és szervezetrendszer, amelynek keretében az ország védelmére létrehozott, valamint e feladatra kijelölt közigazgatási szervek, továbbá a honvédelemben közreműködő más szervek ellátják az 1. § (3) bekezdésében meghatározottak honvédelemre való felkészítésével, az országvédelemmel és a honvédelmi kötelezettségek teljesítésével kapcsolatos feladatokat,
 
 12a. honvédelmi összekötő: a honvédelemben közreműködő szerv honvédelmi felkészülési és védekezési szakmai feladatait támogató, e feladat ellátására a honvédelemért felelős miniszter által – a katasztrófák elleni védekezésért felelős miniszter tájékoztatása mellett – kijelölt, a honvédelemért felelő miniszter által az e törvény végrehajtására kiadott rendeletben meghatározott végzettséggel rendelkező személy,
