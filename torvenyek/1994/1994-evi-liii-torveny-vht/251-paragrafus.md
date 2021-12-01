@@ -23,3 +23,5 @@ d) az önálló bírósági végrehajtók ügyvitelének, hivatali működésén
 (5) A Kar végrehajtó tagja jogosult vizsgálóbiztosnak jelentkezni.
 
 (6) Az elnökség a tagjai közül megválasztja a Kar elnökét és alelnökét.
+
+(7) A Kar testületi szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.

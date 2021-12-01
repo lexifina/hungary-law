@@ -97,3 +97,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-53-00-00
 | 2021-01-01 | 2020. évi XCII. törvény | 1994-53-00-00.149 |
 | 2021-07-01 | 2021. évi LI. törvény | 1994-53-00-00.150 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 1994-53-00-00.151 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 1994-53-00-00.152 |
