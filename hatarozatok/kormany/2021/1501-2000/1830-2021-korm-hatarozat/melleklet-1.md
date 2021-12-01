@@ -88,6 +88,8 @@
 
 ## m) az Isztambulban és Rómában levéltári szakdiplomata álláshelyek létesítéséről szóló 1577/2020. (IX. 10.) Korm. határozatban foglalt célok megvalósítása érdekében az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi a külgazdasági és külügyminiszter számára, hogy a 2022. évi központi költségvetés terhére legfeljebb 94 709 000 forint összegben éven túli kötelezettséget vállaljon.
 
-## 2. Az Európai Unió Régiók Bizottsága Nemzeti Delegáció tagjainak és póttagjainak jelöléséről szóló 1791/2019. (XII. 23.) Korm. határozat 1. pont a) alpont ad) pontjában a „Tahitótfalu Község Önkormányzatának képviselője” szövegrész helyébe az „a Pest Megyei Közgyűlés tagja” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1830/2021. (XI. 30.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
