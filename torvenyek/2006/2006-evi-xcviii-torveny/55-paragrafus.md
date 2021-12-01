@@ -1,6 +1,6 @@
 ## Gyógyszerellátási garanciák
 
-55. § (1)
+55. § (1) A közforgalmú gyógyszertár szaktevékenysége keretében biztosíthatja a 2000 fő állandó lakosságszám alatti kistelepülésen működő napi fogyasztási cikkek kiskereskedelmi forgalmazásával foglalkozó olyan üzletek gyógyszerellátását, amelyek gyógyszertáron kívüli gyógyszer forgalmazására engedéllyel rendelkeznek, és e szolgáltatást állami támogatással nyújtják.
 
 (2) A gyógyszertár – a kézigyógyszertár, valamint a heti 30 órát meg nem haladó nyitva tartású fiókgyógyszertár kivételével – a betegforgalom számára nyitva álló helyiségében, illetve – amennyiben ilyennel rendelkezik – honlapján köteles tájékoztató rendszert működtetni vagy már működő elektronikus tájékoztató rendszerhez a díjmentes hozzáférést biztosítani. A tájékoztatónak alkalmasnak kell lennie az egymással helyettesíthető gyógyszerek, illetve gyógyászati segédeszközök esetében a gyógyszertárban forgalmazott azonos funkcionális csoportba tartozó termékek árainak összehasonlítására, valamint arra, hogy a vásárló, beteg – a vény nélküli gyógyszerek esetében – a gyógyszer alkalmazásával kapcsolatos információkhoz a vásárlásról szóló döntését megelőzően is hozzájuthasson. Fogyatékos személyek, illetve segítségre szorulók számára az alkalmazáshoz szükséges információk megszerzéséhez a gyógyszer kiszolgáltatója segítséget nyújt.
 
