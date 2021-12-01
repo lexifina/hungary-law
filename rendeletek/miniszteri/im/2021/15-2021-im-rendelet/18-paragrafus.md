@@ -1,9 +1,3 @@
-18. § (1) Az Önk. vhr.
+18. §[^19]
 
-a) 13. melléklete helyébe a 2. melléklet,
-
-b) 15. melléklete helyébe a 3. melléklet
-
-lép.
-
-(2) Az Önk. vhr. a 4. melléklet szerinti 47. melléklettel egészül ki.
+[^19]: A 8–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

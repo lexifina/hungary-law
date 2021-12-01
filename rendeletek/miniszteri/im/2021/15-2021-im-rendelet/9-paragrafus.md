@@ -1,3 +1,3 @@
-## 8. § A helyi önkormányzati képviselők és polgármesterek választásán, valamint a nemzetiségi önkormányzati képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól és a választási eljárásban használandó nyomtatványokról szóló 20/2019. (VII. 30.) IM rendelet (a továbbiakban: Önk. vhr.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-## „(1) E rendelet alkalmazásában választási informatikai rendszer (a továbbiakban: informatikai rendszer) a központi névjegyzék, valamint egyéb választási nyilvántartások vezetéséről szóló 17/2013. (VII. 17.) KIM rendelet 1. § (1) bekezdése szerinti választási informatikai rendszer.”
+[^10]: A 8–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

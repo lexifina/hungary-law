@@ -1,5 +1,3 @@
-## 19. § Hatályát veszti az Önk. vhr.
+19. §[^20]
 
-a) 5. § (2) bekezdés g) és h) pontjában az „elektronikus adathordozón” szövegrész,
-
-b) 9. § (2) bekezdés a) pontjában az „oktatási terv alapján történő” szövegrész.
+[^20]: A 8–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

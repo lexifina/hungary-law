@@ -1,1 +1,3 @@
-## „k) az informatikai rendszerben rögzíti a kompenzációs listán szereplő jelölt lemondását a jelöltségről.”
+12. §[^13]
+
+[^13]: A 8–19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
