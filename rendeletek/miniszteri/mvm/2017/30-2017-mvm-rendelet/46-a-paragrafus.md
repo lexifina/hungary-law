@@ -1,4 +1,4 @@
-## 15. [^6] Helyi közlekedési ellátás
+## 15. [^7] Helyi közlekedési ellátás
 
 46/A. § (1) A hivatásos állomány tagja szolgálatteljesítési helyén történő utazása közlekedési költségeinek megtérítésére (a továbbiakban: helyi közlekedési ellátás) jogosult.
 
@@ -14,4 +14,4 @@
 
 (7) A pénzügyi szerv legkésőbb az elszámolás céljából benyújtott számla leadását követő hónapra járó illetménnyel egyidejűleg utalja át az elszámolt összeget. A jogosultság (2) bekezdésben foglalt évközi megszűnése esetén a pénzügyi szerv a helyi közlekedési ellátást a jogviszony megszűnésére tekintettel elszámolt járandóságokkal együtt folyósítja.
 
-[^6]: A 15. alcímet (46/A. §) a 2/2019. (V. 17.) KKM rendelet 35. §-a iktatta be.
+[^7]: A 15. alcímet (46/A. §) a 2/2019. (V. 17.) KKM rendelet 35. §-a iktatta be.
