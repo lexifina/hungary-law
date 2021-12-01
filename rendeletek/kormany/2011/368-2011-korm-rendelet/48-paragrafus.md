@@ -1,3 +1,3 @@
-48. §[^186]
+48. §[^187]
 
-[^186]: Az Ávr. 48. §-át a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 2. pontja hatályon kívül helyezte.
+[^187]: Az Ávr. 48. §-át a 499/2016. (XII. 28.) Korm. rendelet 23. § (1) bekezdés 2. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-61/A. §[^270] (1)[^271] A költségvetési felügyelő a kijelölt szerv tekintetében
+61/A. §[^271] (1)[^272] A költségvetési felügyelő a kijelölt szerv tekintetében
 
 a) előzetesen véleményezi
 
@@ -18,9 +18,9 @@ d) ellenőrzi a kijelölt szerv részére egyedi kormánydöntés alapján bizto
 
 a) a bevétel beszedésére irányuló intézkedés,
 
-b)[^272] a kijelölt szerv elemi költségvetése, maradvány-elszámolása,
+b)[^273] a kijelölt szerv elemi költségvetése, maradvány-elszámolása,
 
-c)[^273] a költségvetési felügyelő által előre meghatározott körben az előirányzatok módosítására, átcsoportosítására irányuló intézkedés,
+c)[^274] a költségvetési felügyelő által előre meghatározott körben az előirányzatok módosítására, átcsoportosítására irányuló intézkedés,
 
 d) az elrendelt zárolás végrehajtására irányuló intézkedés,
 
@@ -30,22 +30,22 @@ f) a 130. § (3) bekezdése szerinti előrehozásra irányuló kérelem, és
 
 g) az eszközök értékesítésére és selejtezésére irányuló intézkedés.
 
-(3)[^274] A költségvetési felügyelő az állami tulajdonú gazdasági társaság tekintetében előzetesen véleményezi a társaságnak nyújtott költségvetési támogatások felhasználásával összefüggő intézkedéseket.
+(3)[^275] A költségvetési felügyelő az állami tulajdonú gazdasági társaság tekintetében előzetesen véleményezi a társaságnak nyújtott költségvetési támogatások felhasználásával összefüggő intézkedéseket.
 
-(4)[^275] A költségvetési felügyelő jogosult a kijelölt szerv, illetve az állami tulajdonú gazdasági társaság tekintetében érvényes titoktartási követelmények szerinti nyilatkozatok megtételét követően a kijelölt szerv kezelésében lévő, közpénz felhasználásával összefüggő adatot, illetve az állami tulajdonú gazdasági társaság számára nyújtott költségvetési támogatások felhasználásával összefüggő adatot – ideértve az üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni. A költségvetési felügyelő minősített adatot kizárólag a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági feltételek teljesülése esetén ismerhet meg. A nemzetbiztonsági szolgálatoknál folytatott tevékenysége során a költségvetési felügyelő nem ismerheti meg azokat az adatokat, amelyek a titkos információgyűjtés során keletkezett információra, forrására vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére utalnak.
+(4)[^276] A költségvetési felügyelő jogosult a kijelölt szerv, illetve az állami tulajdonú gazdasági társaság tekintetében érvényes titoktartási követelmények szerinti nyilatkozatok megtételét követően a kijelölt szerv kezelésében lévő, közpénz felhasználásával összefüggő adatot, illetve az állami tulajdonú gazdasági társaság számára nyújtott költségvetési támogatások felhasználásával összefüggő adatot – ideértve az üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni. A költségvetési felügyelő minősített adatot kizárólag a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági feltételek teljesülése esetén ismerhet meg. A nemzetbiztonsági szolgálatoknál folytatott tevékenysége során a költségvetési felügyelő nem ismerheti meg azokat az adatokat, amelyek a titkos információgyűjtés során keletkezett információra, forrására vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére utalnak.
 
-(5)[^276] A költségvetési felügyelő az (1) bekezdés a) pont ab) és ac) alpontjában és a (3) bekezdésben meghatározott intézkedések tekintetében a kijelölt szerv vezetőjénél, illetve az állami tulajdonú gazdasági társaság vezető tisztségviselőjénél kifogással élhet. A kifogással egyidejűleg a költségvetési felügyelő indokolt javaslatot készít, amit a kijelölt szerv esetén annak vezetőjének, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság vezető tisztségviselőjének, valamint a tulajdonosi joggyakorló képviseletében eljáró személynek haladéktalanul megküld. A kifogásolt intézkedés az államháztartásért felelős miniszter (6) bekezdés szerinti jóváhagyásáig vagy a kifogásnak a költségvetési felügyelő általi visszavonásáig nem hajtható végre.
+(5)[^277] A költségvetési felügyelő az (1) bekezdés a) pont ab) és ac) alpontjában és a (3) bekezdésben meghatározott intézkedések tekintetében a kijelölt szerv vezetőjénél, illetve az állami tulajdonú gazdasági társaság vezető tisztségviselőjénél kifogással élhet. A kifogással egyidejűleg a költségvetési felügyelő indokolt javaslatot készít, amit a kijelölt szerv esetén annak vezetőjének, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság vezető tisztségviselőjének, valamint a tulajdonosi joggyakorló képviseletében eljáró személynek haladéktalanul megküld. A kifogásolt intézkedés az államháztartásért felelős miniszter (6) bekezdés szerinti jóváhagyásáig vagy a kifogásnak a költségvetési felügyelő általi visszavonásáig nem hajtható végre.
 
-(6)[^277] A kifogás eredménytelensége esetén a költségvetési felügyelő az indokolt javaslatot megküldi a kijelölt szerv esetén a fejezetet irányító szerv vezetőjének és az államháztartásért felelős miniszternek, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság tekintetében tulajdonosi joggyakorlóként eljáró szerv vezetőjének. A kifogásolt intézkedés az államháztartásért felelős miniszter jóváhagyása esetén hajtható végre.
+(6)[^278] A kifogás eredménytelensége esetén a költségvetési felügyelő az indokolt javaslatot megküldi a kijelölt szerv esetén a fejezetet irányító szerv vezetőjének és az államháztartásért felelős miniszternek, állami tulajdonú gazdasági társaság esetén az állami tulajdonú gazdasági társaság tekintetében tulajdonosi joggyakorlóként eljáró szerv vezetőjének. A kifogásolt intézkedés az államháztartásért felelős miniszter jóváhagyása esetén hajtható végre.
 
-(7)[^278] Az 56/A. § (1) bekezdése szerinti esetben az intézkedési tervet a fejezetet irányító szerv vezetőjének történő továbbítás előtt a költségvetési felügyelőnek kell megküldeni. A költségvetési felügyelő az intézkedési terv kézhezvételét követő 3 napon belül jelzi a kijelölt szerv vezetőjének az intézkedési tervvel kapcsolatos javaslatait. Ha a kijelölt szerv vezetője a költségvetési felügyelő javaslataival nem ért egyet, a kijelölt szerv vezetője az intézkedési tervet a költségvetési felügyelő észrevételeivel együtt továbbítja a fejezetet irányító szerv vezetőjének.
+(7)[^279] Az 56/A. § (1) bekezdése szerinti esetben az intézkedési tervet a fejezetet irányító szerv vezetőjének történő továbbítás előtt a költségvetési felügyelőnek kell megküldeni. A költségvetési felügyelő az intézkedési terv kézhezvételét követő 3 napon belül jelzi a kijelölt szerv vezetőjének az intézkedési tervvel kapcsolatos javaslatait. Ha a kijelölt szerv vezetője a költségvetési felügyelő javaslataival nem ért egyet, a kijelölt szerv vezetője az intézkedési tervet a költségvetési felügyelő észrevételeivel együtt továbbítja a fejezetet irányító szerv vezetőjének.
 
-[^270]: Az Ávr. 61/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 6. §-a iktatta be.
-[^271]: Az Ávr. 61/A. § (1) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^272]: Az Ávr. 61/A. § (2) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 26. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^273]: Az Ávr. 61/A. § (2) bekezdés c) pontja a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
-[^274]: Az Ávr. 61/A. § (3) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 9. pontja, a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
-[^275]: Az Ávr. 61/A. § (4) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 10. pontja, a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.
-[^276]: Az Ávr. 61/A. § (5) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. pontja, a 482/2021. (VIII. 13.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
-[^277]: Az Ávr. 61/A. § (6) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
-[^278]: Az Ávr. 61/A. § (7) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. és 5. pontja szerint módosított szöveg.
+[^271]: Az Ávr. 61/A. §-át a 175/2015. (VII. 7.) Korm. rendelet 6. §-a iktatta be.
+[^272]: Az Ávr. 61/A. § (1) bekezdése a 175/2018. (IX. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^273]: Az Ávr. 61/A. § (2) bekezdés b) pontja a 264/2016. (VIII. 31.) Korm. rendelet 26. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^274]: Az Ávr. 61/A. § (2) bekezdés c) pontja a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^275]: Az Ávr. 61/A. § (3) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 9. pontja, a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^276]: Az Ávr. 61/A. § (4) bekezdése a 264/2016. (VIII. 31.) Korm. rendelet 25. § 10. pontja, a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.
+[^277]: Az Ávr. 61/A. § (5) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. pontja, a 482/2021. (VIII. 13.) Korm. rendelet 11. § 4. pontja szerint módosított szöveg.
+[^278]: Az Ávr. 61/A. § (6) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 175/2018. (IX. 27.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^279]: Az Ávr. 61/A. § (7) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 175/2018. (IX. 27.) Korm. rendelet 8. § 1. és 5. pontja szerint módosított szöveg.

@@ -16,9 +16,9 @@ e) az ellenőrök nevét, aláírását és
 
 f) ha a helyszíni ellenőrzés befejezésével nem kerül sor a jegyzőkönyv átadására, a Kincstár illetékes vezetőjének aláírását.
 
-(3)[^465]
+(3)[^466]
 
-(4)[^466] Az Áht. 57. § (3) bekezdése szerinti határozatot a Kincstár az utolsó adatszolgáltatás-módosítási határidő leteltét megelőző ötödik napig hozza meg.
+(4)[^467] Az Áht. 57. § (3) bekezdése szerinti határozatot a Kincstár az utolsó adatszolgáltatás-módosítási határidő leteltét megelőző ötödik napig hozza meg.
 
-[^465]: Az Ávr. 106. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 381. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^466]: Az Ávr. 106. § (4) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 18. §-a iktatta be.
+[^466]: Az Ávr. 106. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 381. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^467]: Az Ávr. 106. § (4) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 18. §-a iktatta be.
