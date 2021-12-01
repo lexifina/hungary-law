@@ -16,7 +16,7 @@
 
 | 7. | Z6 – Század vezénylő zászlós | 40 140 |
 
-12. melléklet a 7/2015. (VI. 22.) HM rendelethez[^226]
+12. melléklet a 7/2015. (VI. 22.) HM rendelethez[^230]
 
 ## Eltérő illetménymegállapításra jogosító szolgálati beosztások
 
@@ -26,4 +26,4 @@
 
 3. Rendezvényszervezési, valamint sajtó, tájékoztatás, kommunikáció fegyvernemi, szakági alcsoportokba tartozó szolgálati beosztás
 
-[^226]: A 12. mellékletet a 13/2021. (VII. 15.) HM rendelet 29. §-a iktatta be.
+[^230]: A 12. mellékletet a 13/2021. (VII. 15.) HM rendelet 29. §-a iktatta be.

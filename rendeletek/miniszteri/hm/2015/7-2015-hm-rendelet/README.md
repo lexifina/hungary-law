@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-7-20-15
 | 2021-05-07 | 2015-7-20-15.23 | 12/2021. (IV. 29.) HM rendelet |
 | 2021-07-16 | 2015-7-20-15.24 | 13/2021. (VII. 15.) HM rendelet |
 | 2021-09-22 | 2015-7-20-15.25 | 18/2021. (IX. 21.) HM rendelet |
+| 2021-12-01 | 2015-7-20-15.26 | 23/2021. (XI. 29.) HM rendelet |
