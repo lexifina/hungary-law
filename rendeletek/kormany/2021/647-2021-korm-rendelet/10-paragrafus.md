@@ -1,0 +1,1 @@
+## 9. § Az Átmeneti törvény 147. § (2) bekezdését nem kell alkalmazni a helyi önkormányzati tulajdonban vagy vagyonkezelésben álló temetőben költségvetési támogatásból létesített, 2020. december 18. napján vagy ezt követően első alkalommal megváltásra kínált új urnafülke megváltása után fizetett díj tekintetében.
