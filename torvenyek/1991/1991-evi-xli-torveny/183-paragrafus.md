@@ -25,3 +25,5 @@ j) a közjegyzői pályázati eljárás részletes szabályait, és a közjegyz�
 k) a közjegyző okirat-szerkesztési eljárására irányuló kérelem tartalmi és formai követelményeit,
 
 l) a közjegyzői vizsga részletes szabályait.
+
+m) az állami kamattámogatással érintett lakáscélú fogyasztói hitel-, illetve kölcsönszerződés és az azt biztosító jelzálogszerződés alapján tett egyoldalú kötelezettségvállaló nyilatkozat közokiratba foglalása esetén alkalmazandó okiratmintát.

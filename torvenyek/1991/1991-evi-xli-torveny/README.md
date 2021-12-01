@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-41-00-00
 | 2020-09-01 | 2020. évi XCII. törvény | 1991-41-00-00.55 |
 | 2021-01-01 | 2020. évi CLXV. törvény | 1991-41-00-00.56 |
 | 2021-05-28 | 2021. évi LI. törvény | 1991-41-00-00.57 |
+| 2021-12-01 | 27/2021. (I. 29.) Korm. rendelet | 1991-41-00-00.58 |

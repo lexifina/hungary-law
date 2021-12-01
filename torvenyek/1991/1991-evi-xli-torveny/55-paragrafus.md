@@ -52,6 +52,8 @@
 
 26. minden olyan kérdésről, amelyre jogszabály vagy a szervezeti és működési szabályzata feljogosítja.
 
+27. az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályairól, továbbá a titkos szavazás lebonyolításának módjáról.
+
 (2) Az országos kamara szervezeti és működési szabályzatot készít, amelyben rögzíti saját szervezetét, működési és gazdálkodási rendjét, a területi kamarákkal és a területi elnökségekkel összefüggő jogait, valamint kapcsolattartásuk rendjét.
 
 (3) A területi és az országos kamara szervezeti és működési szabályzata, valamint az (1) bekezdés 1., 6., 9., 10., 11., 20., 21. és 23. pontjában felsorolt szabályzatok kiemelt szabályzatok.

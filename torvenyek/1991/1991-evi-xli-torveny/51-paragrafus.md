@@ -3,3 +3,5 @@
 (2) A területi elnökség a határozatait szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 (3) A közjegyző elleni fegyelmi eljárás kezdeményezése vagy a közjegyző tevékenységének vizsgálata tárgyában a határozathozatalhoz az elnökön kívül 5 közjegyző részvétele szükséges. A területi elnökség közjegyzőhelyettes tagjai jelen lehetnek, de a határozathozatalban nem vesznek részt.
+
+(4) A területi kamara testületi szerveinek ülése elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható, vagy írásbeli egyeztetésre és döntéshozatalra is sor kerülhet. Az írásbeli egyeztetés és döntéshozatal elektronikus üzenetváltással (e-mail) is történhet.
