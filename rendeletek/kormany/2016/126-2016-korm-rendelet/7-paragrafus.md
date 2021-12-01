@@ -42,23 +42,23 @@ c)[^53] költségvetés csökkentése esetén a korábban kifizetett hazai társ
 
 (7a)[^61] Ha a visszafizetési kötelezettséggel érintett (2) bekezdés b) és c) pontja szerinti összeg az annak visszafizetésére szóló fizetési felszólításában megjelölt határidőt követően kerül visszafizetésre, akkor az Ávr. szerinti ügyletikamat-fizetési kötelezettség mellett késedelmikamat-fizetési kötelezettség is keletkezik.
 
-(7b)[^62] A (7) és (7a) bekezdés szerinti ügyletikamat-fizetési kötelezettség nem áll fenn az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 5. § (3) bekezdése szerinti szervezeti formák esetén, ha az alábbi feltételek valamelyike teljesül:
+(7b)[^62] A (7) és (7a) bekezdés szerinti ügyletikamat-fizetési kötelezettség nem áll fenn a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] 8. §-a szerinti szervezeti formák esetén, ha az alábbi feltételek valamelyike teljesül:
 
-a) az 549/2013. (XII. 30.) Korm. rendelet 5. § (3) bekezdés a) pontja szerinti eset fennáll,
+a)[^63] a 481/2021. (VIII. 13.) Korm. rendelet 8. § a) pontja szerinti eset fennáll,
 
 b) a kedvezményezett hazai társfinanszírozás kezelésére a kincstárnál külön fizetési számlával rendelkezik,
 
 c) a hazai társfinanszírozás összege nem éri el a százötvenezer eurót.
 
-(8)[^63] Ha a hazai kedvezményezettet, a hazai TA kedvezményezettet, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezettet vagy az 1. § f) pontja szerinti együttműködési program irányító hatóságát érintő szabálytalanságból vagy pénzügyi hibából fakadó összeget az együttműködési program zárásáig nem lehet behajtani, akkor a behajtásra tett kísérlet és intézkedés valamennyi dokumentációját a hazai kedvezményezett, a hazai TA kedvezményezett, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezett, illetve az 1. § f) pontja szerinti együttműködési program irányító hatósága zárójelentésének jóváhagyásától számított tíz évig meg kell őrizni.
+(8)[^64] Ha a hazai kedvezményezettet, a hazai TA kedvezményezettet, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezettet vagy az 1. § f) pontja szerinti együttműködési program irányító hatóságát érintő szabálytalanságból vagy pénzügyi hibából fakadó összeget az együttműködési program zárásáig nem lehet behajtani, akkor a behajtásra tett kísérlet és intézkedés valamennyi dokumentációját a hazai kedvezményezett, a hazai TA kedvezményezett, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezett, illetve az 1. § f) pontja szerinti együttműködési program irányító hatósága zárójelentésének jóváhagyásától számított tíz évig meg kell őrizni.
 
 (9) Az igazoló hatóság a 4. § (9) bekezdés d) pontja szerint megelőlegezett összeget a külföldi partnerországi TA társfinanszírozás ismételt rendelkezésre állását követő tizenöt napon belül köteles visszafizetni a nemzeti hatóság részére.
 
-(10)[^64] Elállás esetén – ideértve a (2) bekezdés a) pontja szerinti esetet is – a hazai kedvezményezett, a hazai TA kedvezményezett, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezett, illetve az 1. § f) pontja szerinti együttműködési program irányító hatósága köteles a kifizetett hazai társfinanszírozás teljes összegét az Ávr. szerinti ügyleti és késedelmi kamattal növelten visszafizetni, függetlenül attól, hogy az elállást a támogató vagy a támogatott kezdeményezte.
+(10)[^65] Elállás esetén – ideértve a (2) bekezdés a) pontja szerinti esetet is – a hazai kedvezményezett, a hazai TA kedvezményezett, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezett, illetve az 1. § f) pontja szerinti együttműködési program irányító hatósága köteles a kifizetett hazai társfinanszírozás teljes összegét az Ávr. szerinti ügyleti és késedelmi kamattal növelten visszafizetni, függetlenül attól, hogy az elállást a támogató vagy a támogatott kezdeményezte.
 
-(11)[^65] A hazai kedvezményezettel, hazai TA kedvezményezettel, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezettel, illetve az 1. § f) pontja szerinti együttműködési program irányító hatóságával szemben megállapított kis értékű követelések behajtását nem kell kezdeményezni.
+(11)[^66] A hazai kedvezményezettel, hazai TA kedvezményezettel, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezettel, illetve az 1. § f) pontja szerinti együttműködési program irányító hatóságával szemben megállapított kis értékű követelések behajtását nem kell kezdeményezni.
 
-(12)[^66] A kis értékű követeléseket követelés-jogcímenként, projektrészenként kell érteni, valamint tőkére és a kamatokra külön-külön kell vizsgálni.
+(12)[^67] A kis értékű követeléseket követelés-jogcímenként, projektrészenként kell érteni, valamint tőkére és a kamatokra külön-külön kell vizsgálni.
 
 [^44]: A 7. § a 223/2016. (VII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^45]: A 7. § (1a) bekezdését a 268/2017. (IX. 12.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -78,8 +78,9 @@ c) a hazai társfinanszírozás összege nem éri el a százötvenezer eurót.
 [^59]: A 7. § (6a) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^60]: A 7. § (7) bekezdése a 377/2020. (VII. 30.) Korm. rendelet 2. § (5) bekezdésével megállapított, az 598/2020. (XII. 17.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^61]: A 7. § (7a) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege az 598/2020. (XII. 17.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^62]: A 7. § (7b) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (5) bekezdése iktatta be.
-[^63]: A 7. § (8) bekezdése a 116/2017. (V. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 377/2020. (VII. 30.) Korm. rendelet 19. § 11. és 12. pontja szerint módosított szöveg.
-[^64]: A 7. § (10) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (6) bekezdése iktatta be, szövege az 598/2020. (XII. 17.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^65]: A 7. § (11) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (6) bekezdése iktatta be.
-[^66]: A 7. § (12) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (6) bekezdése iktatta be.
+[^62]: A 7. § (7b) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (5) bekezdése iktatta be, nyitó szövegrésze a 658/2021. (XI. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^63]: A 7. § (7b) bekezdés a) pontja a 658/2021. (XI. 30.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^64]: A 7. § (8) bekezdése a 116/2017. (V. 19.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 377/2020. (VII. 30.) Korm. rendelet 19. § 11. és 12. pontja szerint módosított szöveg.
+[^65]: A 7. § (10) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (6) bekezdése iktatta be, szövege az 598/2020. (XII. 17.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^66]: A 7. § (11) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (6) bekezdése iktatta be.
+[^67]: A 7. § (12) bekezdését a 377/2020. (VII. 30.) Korm. rendelet 2. § (6) bekezdése iktatta be.
