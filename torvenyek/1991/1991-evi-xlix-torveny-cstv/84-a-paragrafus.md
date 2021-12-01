@@ -14,7 +14,7 @@ e)
 
 (1a)
 
-(1b) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a 67. § (9i) bekezdése szerinti állami elővásárlási jog gyakorlására jogosult szervezetet.
+(1b)
 
 (1c) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a gazdálkodó szervezetek reorganizációjára, működőképességének fenntartására, illetve helyreállítására, tartozásaik rendezésére vonatkozó sajátos szabályokat.
 

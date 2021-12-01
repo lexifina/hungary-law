@@ -66,3 +66,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-49-00-00
 | 2021-05-14 | 2021. évi XXXIII. törvény | 1991-49-00-00.114 |
 | 2021-07-01 | 2021. évi LXX. törvény | 1991-49-00-00.115 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 1991-49-00-00.116 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 1991-49-00-00.117 |
