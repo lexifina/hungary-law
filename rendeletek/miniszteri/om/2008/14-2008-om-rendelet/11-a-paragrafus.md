@@ -1,4 +1,4 @@
-11/A. §[^25] (1) A lovasterápia szolgáltatás nyújtásakor jelen kell lennie olyan lovas terapeutának, aki
+11/A. §[^26] (1) A lovasterápia szolgáltatás nyújtásakor jelen kell lennie olyan lovas terapeutának, aki
 
 a) rendelkezik
 
@@ -30,4 +30,4 @@ b) a felnőttképzési törvény szerinti felnőttképzési szakmai programköve
 
 (4) Fogyatékos személynek csak a (3) bekezdés szerinti képzettséggel rendelkező lovas oktató vagy edző nyújthat lovas szolgáltatást, aki e feladatát nem adhatja át más személynek.
 
-[^25]: A 11/A. §-t a 31/2013. (VIII. 9.) NGM rendelet 6. §-a iktatta be.
+[^26]: A 11/A. §-t a 31/2013. (VIII. 9.) NGM rendelet 6. §-a iktatta be.

@@ -8,7 +8,7 @@
 
 (4) A szakmai tevékenységért felelős személy vagy az általa kijelölt személy köteles ellenőrizni a vendég megfelelő lovas tudását (gyakorlottságát), továbbá köteles az ennek megfelelő vérmérsékletű lovat, jármódot és tempót megválasztani.
 
-(5)[^23] Lovagoltatás, lovas oktatás, terep vagy túralovagoltatás, fogathajtás, fogathajtás oktatás, fogatoztatás, lovasbemutató esetében a szakmai tevékenységért felelős személy által kijelölt személynek
+(5)[^24] Lovagoltatás, lovas oktatás, terep vagy túralovagoltatás, fogathajtás, fogathajtás oktatás, fogatoztatás, lovasbemutató esetében a szakmai tevékenységért felelős személy által kijelölt személynek
 
 a) középfokú lovastúra-vezetői,
 
@@ -30,7 +30,7 @@ d) lovas sportágban nemzetközi sportszövetség által akkreditált edzőképz
 
 ## kell rendelkeznie.
 
-(6)[^24]
+(6)[^25]
 
-[^23]: A 11. § (5) bekezdése a 31/2013. (VIII. 9.) NGM rendelet 5. §-ával megállapított szöveg.
-[^24]: A 11. § (6) bekezdését a 31/2013. (VIII. 9.) NGM rendelet 13. §-a hatályon kívül helyezte.
+[^24]: A 11. § (5) bekezdése a 31/2013. (VIII. 9.) NGM rendelet 5. §-ával megállapított szöveg.
+[^25]: A 11. § (6) bekezdését a 31/2013. (VIII. 9.) NGM rendelet 13. §-a hatályon kívül helyezte.

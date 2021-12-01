@@ -1,6 +1,6 @@
-13. §[^27] (1) A lovas szolgáltató tevékenységet végző szolgáltató telephelyének (fióktelepének) meg kell felelnie az alábbi követelményeknek:
+13. §[^28] (1) A lovas szolgáltató tevékenységet végző szolgáltató telephelyének (fióktelepének) meg kell felelnie az alábbi követelményeknek:
 
-a)[^28] a szolgáltatásba bevont ló:
+a)[^29] a szolgáltatásba bevont ló:
 
 aa) a lófélék egyedeinek azonosításáról szóló jogszabály szerint azonosított és lóútlevéllel rendelkezik,
 
@@ -22,10 +22,10 @@ f) a telephely (fióktelep) rendelkezik a lólétszámnak megfelelő számú, al
 
 g) szabad lótartás esetén a lovak számára lovanként legalább 1000 m2 területű bekerített terület (karám), valamint legalább három oldalról borítással határolt, legalább 2,5 méter belmagasságú, lovanként legalább 8 m2 alapterületű fedeles építmény kialakítása szükséges, úgy, hogy az építmény oldalfalainak egyike az uralkodó szél iránya felé nézzen.
 
-(2)[^29] A telephelyen (fióktelepen) a vendégek számára jól látható helyen ki kell függeszteni a Hivatal által történt nyilvántartásba vételt igazoló hivatalos iratot vagy annak másolatát, valamint a szolgáltatásban részt vevő lovak azonosító számának vagy életszámának és nevének felsorolását.
+(2)[^30] A telephelyen (fióktelepen) a vendégek számára jól látható helyen ki kell függeszteni a Hivatal által történt nyilvántartásba vételt igazoló hivatalos iratot vagy annak másolatát, valamint a szolgáltatásban részt vevő lovak azonosító számának vagy életszámának és nevének felsorolását.
 
 (3) A fejvédőt (kobak) a szolgáltatás igénybe vevőjének kérésére kell rendelkezésre bocsátani. Kötelező fejvédőt (kobakot) használnia a szolgáltatás igénybevételének teljes időtartama alatt annak, aki a 14. életévét még nem töltötte be, valamint a lovasterápia vagy a fogyatékos személynek nyújtott lovas szolgáltatás igénybevevőjének. Lovasterápia és a fogyatékos személynek nyújtott lovas szolgáltatás esetén – a lovasterapeuta, vagy a lovasoktató, vagy lovasedző, aki rendelkezik a 11 A. § (3) bekezdése szerinti képzettséggel döntése alapján – életkortól függetlenül a fejvédő (kobak) viselése mellőzhető.
 
-[^27]: A 13. § a 31/2013. (VIII. 9.) NGM rendelet 8. §-ával megállapított szöveg.
-[^28]: A 13. § (1) bekezdés a) pontja a 22/2014. (VI. 27.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^29]: A 13. § (2) bekezdése a 22/2014. (VI. 27.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^28]: A 13. § a 31/2013. (VIII. 9.) NGM rendelet 8. §-ával megállapított szöveg.
+[^29]: A 13. § (1) bekezdés a) pontja a 22/2014. (VI. 27.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^30]: A 13. § (2) bekezdése a 22/2014. (VI. 27.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
