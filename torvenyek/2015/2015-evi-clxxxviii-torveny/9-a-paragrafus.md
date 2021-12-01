@@ -3,3 +3,5 @@
 (2) A 3. § (3) bekezdés q) pontjában meghatározott célból jogosult az elektronikus azonosítási szolgáltatást végző szerv az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával az elektronikus ügyintézést igénybe vevő személy személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
 
 (3) A 3. § (3) bekezdés r) pontjában meghatározott célból jogosult a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárások esetén az eljáró szerv, az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával, az ügyfél személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
+
+(4) A 3. § (3) bekezdés s) pontjában meghatározott célból jogosult az e-közigazgatásért felelős miniszter az általa rögzített arcképmás felhasználásával a beteg személyazonossága ellenőrzésének támogatása érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.

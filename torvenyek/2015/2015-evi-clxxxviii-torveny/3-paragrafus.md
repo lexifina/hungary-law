@@ -46,4 +46,6 @@ q) az elektronikus ügyintézést igénybe vevő személyek személyazonosság-e
 
 r) az elektronikus ügyintézés során a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárásokban a személyazonosság ellenőrzésének támogatása.
 
+s) az egészségügyről szóló 1997. évi CLIV. törvény szerinti arcképes azonosításra épülő telemedicina szolgáltatás esetében a beteg azonosítása.
+
 (4) A jogosultsági nyilvántartás vezetésének a célja az igénybevételre jogosult szerv, a hozzáférésre felhatalmazott személy, valamint a központi szervnek az arcképelemző rendszer működtetésére jogosult tagja arckép profil nyilvántartáshoz való hozzáféréséhez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
