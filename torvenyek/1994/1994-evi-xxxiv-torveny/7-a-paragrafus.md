@@ -15,3 +15,5 @@
 (5) Ha az (1) bekezdésben meghatározott mesterséges élethelyzet kialakítása objektív körülmények miatt meg sem kezdődött, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv eljárást megszüntető határozatot hoz, azonban a megbízhatósági vizsgálat évenkénti elrendelésére vonatkozóan a (4) bekezdésben meghatározott korlátozást figyelmen kívül kell hagyni.
 
 (6) A megbízhatósági vizsgálat időtartama alkalmanként legfeljebb tizenöt nap, amelyet a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője egy alkalommal tizenöt nappal meghosszabbíthat. A megbízhatósági vizsgálat során végzett tevékenységeket dokumentálni kell.
+
+(7) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állománya megbízhatósági vizsgálatát érintően végzett tevékenységéről folyamatosan tájékoztatja a Katonai Nemzetbiztonsági Szolgálat vezetőjét.

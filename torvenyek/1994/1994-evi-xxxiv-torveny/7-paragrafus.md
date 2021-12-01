@@ -12,7 +12,7 @@ b) elvégzi
 
 ba) az (1c) bekezdésben foglalt kivétellel a Kormány vagy a Kormány tagjának irányítása vagy felügyelete alá tartozó költségvetési szerv, valamint a Nemzeti Közszolgálati Egyetem valamennyi foglalkoztatottjának,
 
-bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók,
+bb) az egészségügyi tevékenység végzésében tanulói jogviszony alapján közreműködő személyek, valamint az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltatónál foglalkoztatottak kivételével az egészségügyi szolgálati jogviszonyban állók, valamint a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományának,
 
 bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és munkavállalói
 
@@ -48,7 +48,7 @@ foglalkoztatott.
 
 a) az Információs Hivatal foglalkoztatottja,
 
-b) a honvédelmi szervezetek foglalkoztatottja azzal a kivétellel, hogy az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató egészségügyi szolgálati jogviszonyban álló foglalkoztatottja, továbbá
+b) a honvédelmi szervezetek foglalkoztatottja, ez a kivétel azonban nem terjed ki az (1) bekezdés b) pont bb) alpontja szerint megbízhatósági vizsgálat alá vonható, a honvédelemért felelős miniszter irányítása alá tartozó honvédelmi egészségügyi szolgáltató személyi állományára, továbbá
 
 c) a Kormány rendeletében a feladat- és tevekénységi kör mérlegelése alapján a megbízhatósági vizsgálat elvégzésének lehetősége alól mentesített szerv foglalkoztatottja.
 
