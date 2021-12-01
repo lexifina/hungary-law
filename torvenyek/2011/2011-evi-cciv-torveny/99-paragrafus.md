@@ -1,19 +1,23 @@
-99. § (1) A betegellátási feladatok koordinálására az egészségügyi felsőoktatási intézmény klinikai központot hozhat létre a 97. § (1) bekezdés a) pontja szerint. A klinikai központ a felsőoktatási intézmény egészségügyi szolgáltatást végző és a felsőoktatási képzési programban részt vevő klinikákat, diagnosztikai egységeket és – a 97. § (1) bekezdés c) pontja szerinti egyetemi kórházat ide nem értve – az egészségügyi szolgáltatás szervezéséhez kapcsolódó egyéb szervezeti egységeket foglalhatja magában.
+99. § (1) A klinikai központ által nyújtott egészségügyi szolgáltatások tekintetében az egészségügyi szolgáltatás irányításáért felelős szerv vezetője gyakorolja az alábbi szakmai irányítási jogköröket:
 
-(2) Az egészségügyi felsőoktatási intézményben az egészségügyi szolgáltatás irányításáért felelős magasabb vezetői megbízással rendelkező vezetőt a szervezeti és működési szabályzatban kell meghatározni (a továbbiakban: egészségügyi szolgáltatásért felelős vezető). A klinikai központot irányító egészségügyi szolgáltatásért felelős vezetőnek felsőfokú végzettséggel, orvos- és egészségtudomány képzési területen szerzett mesterfokozattal, illetve tudományos fokozattal kell rendelkeznie; e rendelkezéstől eltérni vagy szigorúbb feltételt előírni a pályázatban nem lehet. A klinikai központ egészségügyi szolgáltatásért felelős vezetője megbízásához az egészségügyért felelős miniszter előzetes egyetértését be kell szerezni. Az egészségügyi szolgáltatásért felelős vezető önállóan irányítja az egészségügyi szolgáltatás megszervezését. A klinikai központ egészségügyi szolgáltatásért felelős vezetője e feladatok tekintetében a klinikai központ dolgozói felett – a kancellár hatáskörébe tartozó feladatokat ellátó alkalmazottak kivételével – gyakorolja a munkáltatói jogokat a bérgazdálkodást érintő, a kancellár egyetértésével hozott döntések kivételével.
+a) a klinikai központ által kötendő egészségügyi ellátási szerződés jóváhagyása,
 
-(3) Ha az egészségügyi felsőoktatási intézmény klinikai központot és egyetemi kórházat is működtet, az egészségügyi szolgáltatások egységes szakmai irányítását Egészségügyi Irányító Testület (a továbbiakban: EIT) látja el.
+b) az egészségügyi közfeladat-ellátást érintő változásra irányuló megállapodás megkötése és a megállapodás alapján a döntés kezdeményezése, illetve ha az egészségügyi közfeladat módosításának nem feltétele a megállapodás megkötése, akkor a döntés kezdeményezése a jogszabályban meghatározott feltételek esetén,
 
-(4) Az EIT az egészségügyi felsőoktatási intézmény testületi szerve, amelynek tagjai:
+c) a klinikai központ kapacitása és ellátási területe módosításának kezdeményezése a jogszabályban meghatározott feltételek esetén,
 
-a) az egészségügyért felelős miniszter által delegált 4 fő,
+d) a klinikai központnak az Egészségbiztosítási Alapból származó bevételeit tartalmazó számla megterheléséhez való hozzájárulás a kötelező egészségbiztosítás ellátásairól szóló törvény, valamint az ennek végrehajtására kiadott kormányrendelet szerint meghatározott esetben,
 
-b) az egészségügyi felsőoktatási intézmény rektora és kancellára által delegált 2-2 fő.
+e) a klinikai központ működési engedélyének módosítása iránti kérelem előzetes jóváhagyása a klinikai központ által végezhető szakmák, az ellátás progresszivitási szintje és formája, az ágyszám és a heti óraszám tekintetében,
 
-(5) Az EIT a tagjai közül – az EIT képviseletére jogosult – elnököt választ. Az elnök megválasztásához, az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatának az EIT-t egészségügyi szolgáltatásra vonatkozó feladataira, kötelezettségeire, jogosultságaira vonatkozó szabályainak meghatározásához és módosításához az egészségügyért felelős miniszter egyetértése szükséges.
+f) a klinikai központ működési engedélyében szereplő egészségügyi szolgáltatás szüneteltetéséhez és annak meghosszabbításához való hozzájárulás, valamint
 
-(6) Az EIT ülésén a klinikai központ és az egyetemi kórház vezetője tanácskozási joggal részt vehet.
+g) az egészségügyi intézmények irányítására vonatkozó jogszabályban foglaltakat nem érintve a Kormány által kijelölt miniszter által meghatározott szakmai irányítási feladatok ellátása.
 
-(7) Az EIT a klinikai központ és az egyetemi kórház vonatkozásában az egészségügyi felsőoktatási intézmény szervezeti és működési szabályzatában rögzített feladatok mellett az Eütv. 155. § (5) bekezdése szerinti fenntartói jogkörök gyakorlásához kapcsolódó előkészítő tevékenységet végez, amelynek keretében az egészségügyi felsőoktatási intézményen belül döntési jogkörrel rendelkezik. Az EIT működésének rendjét az általa elfogadott ügyrend határozza meg.
+(2) A szakellátási kapacitással és ellátási területtel kapcsolatos döntéshozatal során az egészségügyi államigazgatási szervnek az (1) bekezdés b) és c) pontja szerinti kezdeményezésnek megfelelően kell eljárnia.
 
-(8) A felsőoktatási intézmény által biztosított egészségügyi szolgáltatáshoz – jogszabályban meghatározott feltételekkel – az egészségügyért felelős miniszter költségvetési finanszírozást nyújt, illetve támogatást nyújthat. Az egészségügyi felsőoktatási intézmény által végzett egészségügyi tevékenységre, továbbá az egészségügyi kutatásra, egészségügyi fejlesztésekre, egészségügyi szak- és továbbképzésre is alkalmazni kell az egészségügy szakmai irányítására és szervezésére, az egészségügyért felelős miniszter szakmai irányítási jogkörére vonatkozó rendelkezéseket, továbbá mindazokat a jogszabályokat, amelyek meghatározzák az egészségügyi szolgáltatás megszervezését, a feladatellátásban közreműködők szakképzettségét, az egészségügyi szolgáltatás finanszírozását.
+(3) A 97. § (2) bekezdés a) pontja szerinti esetben az egészségügyi szolgáltatás irányításáért felelős szerv az e törvényben foglaltak szerint gyakorolja a működtetéssel és gazdálkodással kapcsolatos irányítási jogköröket.
+
+(4) A 97. § (2) bekezdés a) pontja szerinti esetben a klinikai központ gazdálkodásának ellenőrzése érdekében a kancellár egészségügyikancellár-helyettest – ha kancellár nem kerül megbízásra, a gazdasági vezető egészségügyi gazdaságivezető-helyettest – nevez ki és tevékenységét irányítja. Feladatkörében eljárva az egészségügyikancellár-helyettes – ha egészségügyikancellár-helyettes nem kerül megbízásra az egészségügyi gazdaságivezető-helyettes – minden, a klinikai központ gazdálkodásával kapcsolatos iratba betekinthet.
+
+(5) Az egészségügyi szolgáltatás irányításáért felelős szerv e törvényben megállapított jogköre nem vonható el, és a jogkör gyakorlása során nem utasítható.

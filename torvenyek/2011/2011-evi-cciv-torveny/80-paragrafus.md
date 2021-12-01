@@ -14,7 +14,23 @@ d) a felsőfokú tanulmányok megkezdése előtt legfeljebb két féléven keres
 
 e) az államközi megállapodás alapján, a miniszter által működtetett ösztöndíjprogram keretében ösztöndíjjal támogatott hallgató az ösztöndíjjal támogatott időszakra vonatkozóan nem köteles a magyar állami (rész)ösztöndíjhoz kapcsolódó, e törvényben meghatározott sajátos feltételek teljesítésére.
 
+f) ha a hallgatóval hallgatói jogviszonyban álló felsőoktatási intézmény rektora a képzési időszakra való bejelentkezéshez eseti egészségügyi alkalmassági vizsgálatot ír elő, és a hallgató az eseti egészségügyi alkalmassági vizsgálat alapján egészségügyi szempontból alkalmatlan a tanulmányok folytatására, szünetel a hallgató hallgatói jogviszonya abban a félévben, amelyben az egészségügyi alkalmatlanságot megállapították,
+
+g) a felsőoktatási intézmény megszünteti a hallgató hallgatói jogviszonyát, ha az f) pont szerinti vizsgálat szerint a hallgató a tanulmányok további folytatására és befejezésére egészségügyi szempontból alkalmatlan,
+
+h) a miniszter vagy a külpolitikáért felelős miniszter által működtetett ösztöndíjprogram keretében támogatott hallgató ösztöndíjprogramban történő részvételéhez
+
+ha) az ösztöndíjprogram alapítója,
+
+hb) a miniszter és
+
+hc) – kizárólag az általa működtetett ösztöndíjprogram tekintetében – a külpolitikáért felelős miniszter
+
+egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szinten.
+
 (2a) Ha a nem magyar állampolgár magyarországi tanulmányait távolléti oktatás keretében kezdi meg vagy tanulmányait távolléti oktatás keretében folytatja, hallgatói jogviszonyt létesíthet a (2) bekezdés a) pontja szerinti engedély nélkül is. A hallgatónak a távolléti oktatás keretében megkezdett képzésének nem távolléti oktatás keretében történő folytatását megelőzően be kell szereznie a (2) bekezdés a) pontja szerinti engedélyt és a felsőoktatási intézmény részére be kell mutatnia a felvételi eljárás és a beiratkozás során elektronikusan bemutatott iratai közül azokat, amelyeket a felsőoktatási intézmény előír.
+
+(2a) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.
 
 (3) A 39. § (1) bekezdés f) pontja szerinti – a miniszter által kiírt pályázatot elnyert – személyek a miniszter által meghatározott létszámban jogosultak magyar állami (rész)ösztöndíjjal támogatott képzésben részt venni.
 
