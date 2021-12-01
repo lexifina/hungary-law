@@ -1,0 +1,3 @@
+## 5. § A veszélyhelyzet ideje alatt alkalmazandó egyes belügyi és közigazgatási tárgyú szabályokról, valamint a veszélyhelyzettel összefüggő egyes intézkedésekről szóló 570/2020. (XII. 9.) Korm. rendelet 7. §-ában az „A veszélyhelyzet” szövegrész helyébe az „A veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban: veszélyhelyzet)” szöveg lép.
+
+## 6. Az egyes, a honvédelmi egészségügyi szolgáltatónál foglalkoztatott rezidensek közalkalmazotti jogviszonya átalakulásának veszélyhelyzeti szabályairól szóló 585/2020. (XII. 15.) Korm. rendelet módosítása
