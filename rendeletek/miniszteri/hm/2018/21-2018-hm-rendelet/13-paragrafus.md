@@ -1,3 +1,5 @@
+## 12/L. § A Haj.tv. 89/D. § (1) bekezdés b) pontjában meghatározott munkakörnek minősülnek az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 1. melléklet 3. és 5. pontjában meghatározott egészségügyi honvédelmi alkalmazotti munkakörök akkor, ha a munkakör betöltésének feltétele a szakirányú egyetemi végzettség.
+
 ## 4. A minősítés
 
 13. § (1) A Haj.tv. 45. § (4) bekezdése szerinti célokra figyelemmel a munkáltatói jogkört gyakorló a honvédelmi alkalmazottat a Haj.tv.-ben meghatározott esetekben a 2. mellékletben meghatározott szempontok szerint minősíti.
