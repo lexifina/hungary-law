@@ -1,3 +1,5 @@
+## 9/C. §
+
 ## 6/D. [^20] A köznevelési intézményekben, a szakképző intézményekben és a bölcsődei ellátásban foglalkoztatottak önkéntes koronavírus elleni védőoltással kapcsolatos tájékoztatása
 
 9/D. § (1) A köznevelési intézményekben, a szakképző intézményekben és a bölcsődei ellátásban munkavégzésre irányuló jogviszonyban foglalkoztatott személyek (a továbbiakban: foglalkoztatottak) koronavírus-fertőzésnek való kitettségének csökkentése érdekében a védőoltás igénybevétele és az ahhoz szükséges regisztráció céljából tájékoztatást küld
