@@ -214,7 +214,7 @@ c) a támogatás időtartamát és a támogatás alá eső villamos energia menn
 
 d) az igénylés részletes szabályait,
 
-e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a villamosenergia-termelés, a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidő meghosszabbított időszakát és a meghosszabbítás feltételeit,
+e)
 
 7. a biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló prémium típusú támogatás igénylésének részletes szabályait, továbbá mértékének kiszámítási módszereit és biogáz felhasználásával történő villamosenergia-termelésre vonatkozóan annak eredményeit,
 
