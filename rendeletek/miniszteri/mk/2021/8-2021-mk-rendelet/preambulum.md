@@ -1,0 +1,1 @@
+A kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (4) bekezdés c) pontjában foglalt felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 7. § (1) bekezdés 3. pontjában meghatározott hatáskörömben eljárva a következőket rendelem el:

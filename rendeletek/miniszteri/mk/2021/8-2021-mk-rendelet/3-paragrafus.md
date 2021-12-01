@@ -1,0 +1,1 @@
+3. § A Szövetség honlapján a képzésekkel kapcsolatban minden év első félévében közleményt tesz közzé, amely tartalmazza a jelentkezéssel és a képzéssel kapcsolatos tudnivalókat, így különösen a felvételi eljárás menetét és – ha a képzési program meghatároz ilyet – a felvételi vizsga követelményeit, a képzéssel kapcsolatban fizetendő díjakat.
