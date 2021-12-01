@@ -1,4 +1,4 @@
-4. §[^4] (1) Ha a jogi személy létesítő okirata az elektronikus hírközlő eszközök használatának, illetve az ülés tartása nélküli döntéshozatalnak a szabályairól nem rendelkezik, ezeknek a szabályoknak a megállapítására és a tagokkal való közlésére a jogi személy ügyvezetése – több önállóan eljáró vezető tisztségviselő esetén a munkáltatói jogok gyakorlására feljogosított vezető tisztségviselő – jogosult a következő rendelkezések betartása mellett:
+4. §[^5] (1) Ha a jogi személy létesítő okirata az elektronikus hírközlő eszközök használatának, illetve az ülés tartása nélküli döntéshozatalnak a szabályairól nem rendelkezik, ezeknek a szabályoknak a megállapítására és a tagokkal való közlésére a jogi személy ügyvezetése – több önállóan eljáró vezető tisztségviselő esetén a munkáltatói jogok gyakorlására feljogosított vezető tisztségviselő – jogosult a következő rendelkezések betartása mellett:
 
 a) a napirendre vonatkozó részletes tájékoztatás nem mellőzhető [a Ptk. 3:17. § (3) bekezdése], és a határozat tervezetét a taggal közölni kell,
 
@@ -24,4 +24,4 @@ cd) a tag a szavazatát a 7. §-ban meghatározott módon is megküldheti.
 
 (4) A jogi személy ügyvezetése köteles – ideértve a rendelkezésére álló elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz segítésével történő tájékoztatást is – megtenni mindent annak érdekében, hogy a tagok a döntéshozatallal összefüggő, az (1) bekezdés szerinti tájékoztatást és okiratokat megkapják, valamint, hogy a meghozott döntésekről tájékoztatást kapjanak.
 
-[^4]: A 4. § a 289/2021. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § a 289/2021. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

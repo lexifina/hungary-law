@@ -1,3 +1,3 @@
-## 9/A. §[^10] Ha jogszabály az állammal történő szerződés megkötésére határidőt állapít meg, a veszélyhelyzet ideje alatt, a felek az előírt határidőt közös megállapodás útján egy alkalommal legfeljebb a veszélyhelyzet megszűnését követő 15. napig tartó időtartamra meghosszabbíthatják.
+## 9/A. §[^11]
 
-[^10]: A 9/A. §-t a 82/2021. (II. 23.) Korm. rendelet 10. §-a iktatta be.
+[^11]: A 9/A. §-t a 82/2021. (II. 23.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 654/2021. (XI. 30.) Korm. rendelet 3. §-a.

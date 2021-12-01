@@ -1,6 +1,6 @@
-## 2. §[^2]
+## 2. §[^3]
 
-3. §[^3] (1) A jogi személy döntéshozó szervének ülése – ideértve küldöttgyűlést és a részközgyűlést is – megtartható a tagok személyes részvétele mellett.
+3. §[^4] (1) A jogi személy döntéshozó szervének ülése – ideértve küldöttgyűlést és a részközgyűlést is – megtartható a tagok személyes részvétele mellett.
 
 (2) A jogi személy döntéshozó szervének
 
@@ -14,5 +14,5 @@ b) határozathozatalára – ha a jogi személyre vonatkozó törvényi előír�
 
 (4) Ha jogszabály a jogi személy döntéshozó szerve ülésének nyilvánosságát írja elő, a döntéshozó szerv határozathozatalára a (2) bekezdés b) pontja szerinti módon nem kerülhet sor.
 
-[^2]: A 2. §-t a 289/2021. (V. 31.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^3]: A 3. § a 289/2021. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. §-t a 289/2021. (V. 31.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^4]: A 3. § a 289/2021. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.

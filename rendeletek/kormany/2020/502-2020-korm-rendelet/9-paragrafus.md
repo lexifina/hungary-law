@@ -1,4 +1,4 @@
-9. §[^9] (1) Nyilvánosan működő részvénytársaság esetén az 5. § (1) bekezdésének a döntéshozó szerv kötelező összehívására vonatkozó rendelkezése nem alkalmazható.
+9. §[^10] (1) Nyilvánosan működő részvénytársaság esetén az 5. § (1) bekezdésének a döntéshozó szerv kötelező összehívására vonatkozó rendelkezése nem alkalmazható.
 
 (2) Ha a közgyűlés a nyilvánosan működő részvénytársaság ügyvezetését döntések meghozatalára felhatalmazta – ideértve a saját részvény megszerzésére vonatkozó döntést is –, és a felhatalmazás időtartama a veszélyhelyzet ideje alatt 2021. június 1. előtt járt le, a felhatalmazás időtartama a 2021. június 1. napját követő soron következő közgyűlés időpontjáig meghosszabbodik, kivéve, ha az ügyvezetés a felhatalmazás tárgyában a veszélyhelyzetben alkalmazandó jogszabályi rendezések alkalmazásával döntést hozott.
 
@@ -14,4 +14,4 @@
 
 (8) Ha 2021. június 1. napja és – ha a nyilvánosan működő részvénytársaság üzleti éve a naptári évtől eltér – az üzleti év mérlegfordulónapját követő negyedik hónap első napja közötti időtartam kevesebb, mint 180 nap, a közgyűlés összehívása az (5), illetve a (6) bekezdés szerinti módon nem szükséges, azonban a soron következő közgyűlésen a társaság ügyvezetése által a veszélyhelyzet ideje alatt meghozott közgyűlési határozatok jóváhagyását napirendre kell tűzni, ha a (4) és a (6) bekezdés szerinti módon a részvényesek kezdeményezték a közgyűlés összehívását.
 
-[^9]: A 9. § a 289/2021. (V. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 9. § a 289/2021. (V. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
