@@ -16,6 +16,10 @@ dc) potenciális recipiens biztonságának és kompatibilitásának megítélés
 
 dd) terápiás beavatkozás monitorozásáról.
 
+e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
+
+f) egyéb munkáltatói jog: mindazon munkáltatói jogkörök, amelyek nem minősülnek alapvető munkáltatói jognak.
+
 4. CÍM
 
 A törvény hatálya

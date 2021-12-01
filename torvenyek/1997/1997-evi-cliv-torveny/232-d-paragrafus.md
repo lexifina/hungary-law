@@ -40,6 +40,18 @@ j) elrendelhet törvény alapján meghozható járványügyi intézkedéseket,
 
 k) törvényben meghatározott egyéb rendelkezéseket hozhat.
 
+l) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 13. pontja szerinti közterület használatára a közterülethez közvetlenül csatlakozó, a kereskedelemről szóló 2005. évi CLXIV. törvény 2. § 30. pontja szerinti tevékenységek folytatására alkalmas helyiség tekintetében közterület-használati hozzájárulás megfizetésével kapcsolatos rendelkezéseket állapíthat meg,
+
+m) a 232/G. § szerinti, a távmunkavégzésre vonatkozó különös szabályok alkalmazását rendelheti el.
+
 (2) A Kormány az (1) bekezdés szerinti jogkörét – a szükséges mértékben, az elérni kívánt céllal arányosan – a 228. § (2) bekezdése szerinti körülmény megelőzése, kezelése, felszámolása, továbbá káros hatásainak megelőzése, illetve elhárítása céljából gyakorolhatja, és kijárási korlátozást nem vezethet be.
 
 (3) Egészségügyi válsághelyzetben – a kereskedelemről szóló törvény és a végrehajtására kiadott kormányrendelet rendelkezéseitől eltérően – a települési önkormányzat képviselő-testülete eredeti jogalkotói hatáskörben kiadott rendeletével szabályozhatja a települési önkormányzat területén működő piac, vásár, illetve a piac, vásár területén működő üzletek nyitva tartásának szabályait.
+
+(4) Egészségügyi válsághelyzetben vagy járványügyi készültség esetén a települési önkormányzat az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti, az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi és fogorvosi ügyeleti ellátásról (a továbbiakban: ügyeleti ellátás) – az (5) bekezdésben foglaltak figyelembe vételével – az állami mentőszolgálat útján is gondoskodhat.
+
+(5) A települési önkormányzat az ügyeleti ellátásra megállapodást köt az állami mentőszolgálattal, ha az erre irányuló kezdeményezését az állami mentőszolgálat elfogadja.
+
+(6) Az (5) bekezdés szerinti megállapodás az ügyeleti ellátásra irányuló – már megkötött – szerződések hatályát nem érinti azzal, hogy az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltató a (4) bekezdés szerinti időszakban ügyeleti ellátást nem nyújt.
+
+(7) Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltatót a jogszabályok és a (6) bekezdés szerinti szerződés alapján járó díjazás abban az időtartamban is megilleti, amíg helyette az állami mentőszolgálat látja el az ügyeleti ellátást. Az ügyeleti ellátásra irányuló szerződésben meghatározott szolgáltató díjazásának havi mértéke megegyezik azzal az összeggel, amely arra a teljes hónapra jár számára, amikor utoljára ügyeleti ellátást nyújtott vagy érvényes szerződés alapján először nyújtott volna.

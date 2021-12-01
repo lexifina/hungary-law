@@ -7,3 +7,5 @@
 (4) A működéshez szükséges feltételek meglétét az egészségügyi államigazgatási szerv rendszeresen ellenőrzi.
 
 (5) Az egészségügyi államigazgatási szerv által e törvény alapján az egészségügyi szolgáltatók működési engedélyezése körében kérelemre lefolytatott eljárásért vagy igazgatási szolgáltatásért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
+
+(6) Az egészségügyi szolgáltatók jogszabályban meghatározott szempontok szerinti elnevezés használatára jogosultak.

@@ -1,16 +1,22 @@
 110. § (1) Egészségügyi tevékenység – folytatásának formájától és módjától függetlenül – e törvény és külön törvény rendelkezéseire figyelemmel önállóan vagy felügyelet mellett végezhető.
 
-(2) Egészségügyi tevékenységet önállóan – külön törvényben foglaltakra is figyelemmel – az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező és az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesített vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült, a működési nyilvántartásba bejegyzett személy végezhet. Az önállóan végzett egészségügyi tevékenység – a (4), (4a), (10) és (10a) bekezdésben foglalt kivételekkel – az arra feljogosító szakképesítésnek a működési nyilvántartásba történő bejegyzésétől kezdhető meg.
+(2) Egészségügyi tevékenységet önállóan az a működési nyilvántartásba bejegyzett személy végezhet, aki
 
-(3) A (2) bekezdés szerinti feltételekkel rendelkező személy felügyelete mellett – a (25) bekezdésben foglalt eltéréssel – végezhet egészségügyi tevékenységet az a személy,
+a) az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkezik, vagy egészségügyi felsőfokú szakirányú szakképzésének teljesítése során, miniszteri rendeletben foglaltak alapján az adott egészségügyi tevékenység önálló végzésére feljogosító kompetenciát szerzett, és
 
-a) aki a szakképesítése megszerzéséhez szükséges képzésben vesz részt,
+b) az adott szakképesítés tekintetében a kötelező továbbképzési kötelezettségét teljesítette vagy a továbbképzési kötelezettség teljesítése alól e törvény szerint mentesült. A (4), (4a), (10) és (10a) bekezdésében szereplő személyek működési nyilvántartásba történő bejegyzés hiányában is jogosultak önálló egészségügyi tevékenység végzésére.
 
-b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig,
+(3) Az adott tevékenység folytatására jogosító egészségügyi szakképesítéssel rendelkező, a (2) bekezdés b) pontja szerinti feltételekkel rendelkező személy felügyelete mellett – a (25) bekezdésben foglalt eltéréssel – végezhet egészségügyi tevékenységet az a személy,
 
-c) aki működési nyilvántartását e törvényben és jogszabályokban foglalt módon határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét véglegesen elutasították.
+a) aki a szakképesítése megszerzéséhez szükséges képzésben vesz részt – a (3a) bekezdésben foglaltak kivételével –,
+
+b) akit a működési nyilvántartásból a 113/A. § (1) bekezdése alapján töröltek, a törlés okának megszűnését vagy megszüntetését követően, a működési nyilvántartásba történő visszakerülése érdekében, az ahhoz szükséges ideig, de legfeljebb három évig,
+
+c) aki működési nyilvántartását e törvényben és jogszabályokban foglalt módon határidőben nem újította meg, vagy működési nyilvántartása lejárt és meghosszabbítási kérelmét véglegesen elutasították, legfeljebb három évig,
 
 d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egészségügyi tevékenység végzésében közreműködik.
+
+(3a) A (3) bekezdés a) pontjától eltérően az egészségügyi felsőfokú szakirányú szakképzésben részt vevő személy önállóan végezhet egészségügyi tevékenységet mindazon kompetenciák tekintetében, amelynek gyakorlására miniszteri rendelet alapján a szakképzése részét képező vizsga során felhatalmazást szerzett.
 
 (4) A működési nyilvántartásban nem szereplő, Magyarországon elismerhető egészségügyi szakképesítéssel rendelkező személy részére – betegellátási érdekből vagy a kérelmező megfelelő szakmai ismeretének megszerzése érdekében, indokolt esetben – a kormányrendeletben meghatározott hatóság a szakképesítésnek megfelelő tevékenységre, meghatározott időtartamra és helyszínre (munkahelyre) szóló tevékenységre jogosító engedélyt adhat ki, a kormányrendeletben foglalt eljárási rend szerint. A tevékenységre jogosító engedély kiadásának feltétele, hogy a kérelmező hitelt érdemlő módon igazolja, hogy a korábbi, rendszeresen végzett egészségügyi tevékenységének helye szerinti utolsó, ennek hiányában az állampolgársága szerint illetékes állam jogszabályai alapján nem áll az egészségügyi tevékenység gyakorlását kizáró vagy korlátozó intézkedés, büntetés, illetőleg büntetőjogi intézkedés hatálya alatt, és megfelel a tevékenység végzéséhez külön jogszabály szerint előírt egészségügyi alkalmassági feltételeknek. Az engedélyezett egészségügyi tevékenység végzéséhez a szakképesítést igazoló bizonyítvány vagy oklevél tényleges elismerése nem szükséges.
 
@@ -22,9 +28,9 @@ d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egész
 
 (4d) A (4) és (4a) bekezdés szerinti engedélyezési eljárásban a hiányzó bizonyíték az ügyfél nyilatkozatával nem pótolható.
 
-(5) Egészségügyi tevékenységben a (3) bekezdés a)–d) pontjában említett személy a (2) bekezdésben foglalt feltételeknek megfelelő személy felügyelete mellett, annak utasítása szerint működhet közre. A felügyeletet gyakorló személy utasítási joga – ide nem értve a munkáltatói utasítási joggyakorlást – csak a szakképesítésének megfelelő körben gyakorolható.
+(5) Egészségügyi tevékenységben a (3) bekezdés alapján felügyelet mellett közreműködő személy csak a szakmai felügyeletet ellátó személy utasítása szerint működhet közre. A felügyeletet gyakorló személy utasítási joga – ide nem értve a munkáltatói utasítási joggyakorlást – csak a szakképesítésének megfelelő körben gyakorolható.
 
-(6) Az az (5) bekezdésben meghatározott személy, aki az egészségügyi tevékenységben nem a szakképesítésének megfelelő körben működik közre, tevékenységét csak előzetes és megfelelő oktatását követően kezdheti meg, illetve folytathatja.
+(6) Az az (5) bekezdésben meghatározott személy, aki az egészségügyi tevékenységben nem a szakképesítésének, vagy megszerzett, önállóan is gyakorolható kompetenciáinak megfelelő körben működik közre, tevékenységét csak előzetes és megfelelő oktatását követően kezdheti meg, illetve folytathatja.
 
 (7) A (5)–(6) bekezdésekben foglalt rendelkezések nem vonatkoznak az egészségügyi szakképesítés nélkül megszerezhető, egészségügyi tevékenység végzésére jogosító szakirányú szakképesítéssel rendelkező személyekre.
 
