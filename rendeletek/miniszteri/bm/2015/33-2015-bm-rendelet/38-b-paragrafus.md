@@ -18,9 +18,11 @@ f) címpótlék
 
 a) aki illetményre, illetve távolléti díjra nem jogosult,
 
-b) akinek a Hszt. 165. § (1) bekezdése alapján távolléti díjának 50%-át vagy teljes illetményét vissza kell tartani, feltéve, hogy vele szemben a Hszt. 165. § (2) bekezdése alkalmazásának nincs helye, vagy
+b)[^11] akinek a Hszt. 165. § (1) bekezdése alapján távolléti díjának 50%-át vagy teljes illetményét vissza kell tartani, feltéve, hogy vele szemben a Hszt. 165. § (2) bekezdése alkalmazásának nincs helye,
 
-c) aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha az illetményét a Belügyminisztérium vagy a belügyminiszter irányítása alatt álló szervezet állapította meg a Hszt. illetményre vonatkozó szabályai alapján.
+c)[^12] aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha az illetményét a Belügyminisztérium vagy a belügyminiszter irányítása alatt álló szervezet állapította meg a Hszt. illetményre vonatkozó szabályai alapján, vagy
+
+d)[^13] aki a Hszt. XXX/A. Fejezet szerinti egészségügyi feladatokat ellátó dolgozónak minősül.
 
 (3) A kiegészítő juttatást havonta utólag, az illetménnyel együtt kell folyósítani.
 
@@ -29,3 +31,6 @@ c) aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha az il
 (5) A kiegészítő juttatásra jogosultságról és annak mértékéről az állományilletékes parancsnok munkáltatói intézkedésben rendelkezik. A munkáltatói intézkedés kiadmányozását követően az 5. § és a 6. § (1) bekezdése szerint kell eljárni.
 
 [^10]: A 38/B. §-t a 2/2020. (I. 17.) BM rendelet 3. §-a iktatta be.
+[^11]: A 38/B. § (2) bekezdés b) pontja a 27/2021. (VIII. 9.) BM rendelet 8. § a) pontja szerint módosított szöveg.
+[^12]: A 38/B. § (2) bekezdés c) pontja a 27/2021. (VIII. 9.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^13]: A 38/B. § (2) bekezdés d) pontját a 27/2021. (VIII. 9.) BM rendelet 7. §-a iktatta be.
