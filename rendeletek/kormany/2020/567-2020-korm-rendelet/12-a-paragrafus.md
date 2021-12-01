@@ -1,6 +1,6 @@
 ## 12. § Ha a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló 45/2019. (III. 12.) Korm. rendelet 7. § (2) bekezdése szerinti határidő a veszélyhelyzet ideje alatt jár le, akkor a határidő a veszélyhelyzet megszűnését követő 60. napig meghosszabbodik.
 
-## 11/A. [^18] A gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelethez kapcsolódó rendelkezések
+## 11/A. [^21] A gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelethez kapcsolódó rendelkezések
 
 12/A. § (1) Ha az R7.
 
@@ -18,4 +18,4 @@ c) 10. § (3) bekezdésében
 
 (4) Ha a (3) bekezdés szerinti megszakítást követően az igénylő a veszélyhelyzet ideje alatt vagy a veszélyhelyzet megszűnését követő 90 napon belül újabb, a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti biztosítási jogviszonyt létesít – ideértve a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személlyé válást is –, akkor a veszélyhelyzet időtartamát, de legfeljebb 180 napot az R7. 3. §-a alkalmazása során a Tbj. 6. § (1) bekezdés a), b) vagy d)–i) pontja szerinti biztosítási jogviszonyban töltött időnek kell tekinteni, továbbá abban az esetben is, ha a veszélyhelyzet időtartama alatt az R7. 3. § (3) bekezdés b) pont ba), bc) vagy bd) alpontjában szereplő jogviszony nem szakadt meg, csak szünetelt, és a veszélyhelyzet ideje alatt vagy a veszélyhelyzet megszűnését követő 90 napon belül a szünetelés véget ér.
 
-[^18]: A 11/A. alcímet (12/A. §) a 82/2021. (II. 23.) Korm. rendelet 6. §-a iktatta be.
+[^21]: A 11/A. alcímet (12/A. §) a 82/2021. (II. 23.) Korm. rendelet 6. §-a iktatta be.
