@@ -78,3 +78,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-31-00-00
 | 2021-03-01 | 2020. évi CXLVII. törvény | 1997-31-00-00.110 |
 | 2021-07-01 | 2020. évi CXLVII. törvény | 1997-31-00-00.111 |
 | 2021-07-08 | 2021. évi LXXIX. törvény | 1997-31-00-00.112 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 1997-31-00-00.113 |
