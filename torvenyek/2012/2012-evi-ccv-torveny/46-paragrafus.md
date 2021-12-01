@@ -34,7 +34,7 @@ o) az állomány azon tagja, akivel szemben méltatlansági eljárást rendeltek
 
 p) az állomány azon tagja, akinek a szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, szolgálati viszonyban történő továbbfoglalkoztatásra tervezett, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb 1 évig,
 
-q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára,
+q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára, ha nem tölt be szolgálati beosztást,
 
 r) a hivatásos tiszti állomány legalább főhadnagy és a hivatásos altiszti állomány legalább törzsőrmester rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy akivel szemben az e) pont szerinti ok megszűnt és továbbfoglalkoztatására nincs lehetőség, a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati, a közszolgálati, honvédelmi alkalmazotti, a közalkalmazotti vagy rendvédelmi igazgatási szolgálati jogviszonyba vagy a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyba (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) történő áthelyezéséig, illetve a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti kormányzati szolgálati jogviszony létesítéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 

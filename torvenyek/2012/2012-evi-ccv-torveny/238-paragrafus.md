@@ -108,6 +108,10 @@ h) a XXI/B. Fejezet szerinti különös szabályok alkalmazásának bevezetésé
 
 42. azon beosztások körét, amelyekben az állomány tagjának illetménye szolgálati érdekből, az érintett személy speciális végzettségére, képzettségére, az általa ellátandó feladat kiemelt fontosságára vagy speciális jellegére tekintettel eltérően is meghatározható.
 
+43. a 237/L. § (1) bekezdés b) pontja szerinti munkaköröket,
+
+44. a SARS-CoV2 járványhelyzethez kapcsolódóan, méltányosságból meghosszabbított egészségügyi szabadság megállapításának eljárásrendjét.
+
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
 a) azon fertőző betegségek körét, amelyek esetén kötelező védőoltás elrendelésének van helye a megbetegedési veszély miatt, a szolgálati beosztáshoz, illetve a szolgálati feladatokhoz kapcsolódóan, és

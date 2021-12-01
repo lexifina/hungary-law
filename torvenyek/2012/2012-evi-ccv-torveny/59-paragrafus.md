@@ -40,4 +40,6 @@ a) ha a felek a szerződésben vállalt szolgálati időt a szerződés módosí
 
 b) különleges jogrend ideje alatt.
 
+(4b) A 2. § 33. pontja szerinti szerződéses állomány azon tagjának, akinek a jogviszonya az (1) bekezdés d) pontja alapján szűnt volna meg, de erre a (4) bekezdés b) pontja alapján nem került sor, annak a szerződéses szolgálati viszonya a különleges jogrend megszűnését követő 15. napon szűnik meg.
+
 (5) A (3) bekezdés, a (3a) bekezdés, valamint a (4) bekezdés b) pontja esetén a vállalt szolgálati idő lejártakor a szerződéses állomány tagjának szolgálati viszonya e törvény erejénél fogva meghosszabbodik. E rendelkezés nem alkalmazható, ha a munkáltatói jogkört gyakorló a szerződéses állomány tagjának kérelmére, különös méltánylást érdemlő egyéni érdekre tekintettel, a szolgálati viszony szerződésben megállapított határozott idő letelte szerinti megszűnését megállapítja.

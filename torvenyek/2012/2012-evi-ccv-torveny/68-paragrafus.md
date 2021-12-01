@@ -2,7 +2,7 @@
 
 68. § (1) E törvény erejénél fogva szűnik meg az állomány tagjának szolgálati viszonya
 
-a) a szolgálat felső korhatárának elérésekor,
+a) a szolgálat felső korhatárának elérésekor azzal, hogy a katonai bíró a Magyar Honvédséggel fennálló szolgálati viszonya a hivatásos szolgálat felső korhatárának elérése miatt csak akkor szűnik meg, ha a bírói szolgálati viszonya megszűnik,
 
 b) a jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése esetén,
 

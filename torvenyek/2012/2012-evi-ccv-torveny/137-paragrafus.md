@@ -18,7 +18,7 @@ f) a miniszter által vezetett minisztérium vagyonkezelésébe nem tartozó lak
 
 g) a magántulajdonú lakás építéséhez, vásárlásához, valamint a pénzintézeti lakáscélú kölcsön kiváltásához nyújtható visszatérítendő és vissza nem térítendő támogatással,
 
-valósul meg. A legénységi állomány tagja, továbbá az állomány próbaidős tagja kizárólag laktanyai elhelyezésre vagy helyőrségi szálló férőhely juttatására jogosult.
+valósul meg.
 
 (3) A lakhatási támogatások formáját és mértékét, az igényjogosultság feltételeit, a miniszter által vezetett minisztérium által bérbe adott lakások és szállóférőhelyek bérleti díját miniszteri rendelet a szolgálati viszony jellegére, az állománycsoportra, a rendfokozati csoportra, a szolgálati beosztásra, valamint a szociális és családi körülményekre tekintettel differenciáltan határozhatja meg.
 
