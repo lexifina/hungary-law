@@ -92,7 +92,7 @@
 
 36. program: az operatív programok és a Vidékfejlesztési Program,
 
-37.[^45] programszámla: a központi költségvetésről szóló törvény uniós fejlesztések költségvetési fejezetének irányító szerve (a továbbiakban: fejezetet irányító szerv), mint számlajogosult javára az operatív programonként és pénzügyi termékenként a Magyar Államkincstárnál (a továbbiakban: kincstár) megnyitott és vezetett, a pénzügyi termékek finanszírozására szolgáló elkülönített fizetési számla, amely felett az alapok alapját végrehajtó szervezetnek rendelkezési joga van,
+37.[^45] programszámla: a központi költségvetésről szóló törvény Gazdaság-újraindítási Alap uniós fejlesztései költségvetési fejezetének irányító szerve (a továbbiakban: fejezetet irányító szerv), mint számlajogosult javára az operatív programonként és pénzügyi termékenként a Magyar Államkincstárnál (a továbbiakban: kincstár) megnyitott és vezetett, a pénzügyi termékek finanszírozására szolgáló elkülönített fizetési számla, amely felett az alapok alapját végrehajtó szervezetnek rendelkezési joga van,
 
 38. programterületen kívüli művelet: az 1303/2013/EU európai parlamenti és tanácsi rendelet 70. cikkében meghatározott művelet,
 
@@ -226,7 +226,7 @@ f)[^71] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása 
 [^42]: A 3. § (1) bekezdés 33. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (7) bekezdésével megállapított szöveg.
 [^43]: A 3. § (1) bekezdés 34. pontja a 98/2016. (V. 13.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^44]: A 3. § (1) bekezdés 35. pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^45]: A 3. § (1) bekezdés 37. pontja a 91/2016. (IV. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg. [E módosító rendelet 46. § 1. pontjával elrendelt módosítás, amely szerint a „pénzügyi konstrukciónként” szövegrész hatályát veszti, nem vezethető át.]
+[^45]: A 3. § (1) bekezdés 37. pontja a 91/2016. (IV. 29.) Korm. rendelet 8. § a) pontja, a 658/2021. (XI. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^46]: A 3. § (1) bekezdés 39. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 4. pontja szerint módosított szöveg.
 [^47]: A 3. § (1) bekezdés 40. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
 [^48]: A 3. § (1) bekezdés 41. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 9. pontja szerint módosított szöveg.

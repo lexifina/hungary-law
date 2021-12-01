@@ -4,7 +4,7 @@
 
 116. § (1)[^703] Támogatási előleg indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben a támogatási szerződésben meghatározott összegben és mértékben nyújtható a kedvezményezett részére, a (2) bekezdés c) pontja kivételével. Az előleget hazai és európai uniós forrásból, az ESB-alapokból támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
 
-(1a)[^704] Központi, helyi önkormányzati vagy köztestületi költségvetési szerv, közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság, helyi önkormányzat, önkormányzati társulás, köztestület vagy közalapítvány kedvezményezett esetén támogatási előleg abban az esetben nyújtható, ha a kedvezményezett
+(1a)[^704] Központi, helyi önkormányzati vagy köztestületi költségvetési szerv, közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság, helyi önkormányzat, önkormányzati társulás, köztestület, közalapítvány, az állam által alapított vagyonkezelő alapítvány vagy az ilyen alapítvány által fenntartott jogi személy kedvezményezett esetén támogatási előleg abban az esetben nyújtható, ha a kedvezményezett
 
 a)[^705] a fizetési számláit az Áht. alapján a kincstárban köteles vezetni, vagy az európai uniós forrásból nyújtott költségvetési támogatások kezelésére a kincstárnál külön fizetési számlával rendelkezik, vagy
 
@@ -36,7 +36,7 @@ e)[^712] – az a)–d) ponttól eltérően – 100%-a a 67. § (2) bekezdése s
 
 [^702]: A 115/B. §-t a 153/2019. (VI. 26.) Korm. rendelet 21. §-a iktatta be.
 [^703]: A 116. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 50. § 19. pontja, a 145/2016. (VI. 13.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^704]: A 116. § (1a) bekezdését a 397/2017. (XII. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^704]: A 116. § (1a) bekezdését a 397/2017. (XII. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, nyitó szövegrésze a 658/2021. (XI. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^705]: A 116. § (1a) bekezdés a) pontja a 160/2018. (IX. 7.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^706]: A 116. § (1a) bekezdés b) pontja a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 18. pontja szerint módosított szöveg.
 [^707]: A 116. § (2) bekezdése a 145/2016. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
