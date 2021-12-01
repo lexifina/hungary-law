@@ -1,4 +1,4 @@
-13. § (1) A köztársasági elnök a külpolitikáért felelős miniszter javaslatára a kormánytisztviselőnek rendkívüli követ és meghatalmazott miniszteri, valamint rendkívüli és meghatalmazott nagyköveti rangot adományozhat.
+13. § (1) A köztársasági elnök a külpolitikáért felelős miniszter javaslatára rendkívüli követ és meghatalmazott miniszteri, valamint rendkívüli és meghatalmazott nagyköveti rangot adományozhat.
 
 (2) A külpolitikáért felelős miniszter a kormánytisztviselő részére
 

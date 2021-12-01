@@ -39,3 +39,5 @@
 (16) A (15) bekezdés szerinti megszüntetés esetén felmentési idő a foglalkoztatottat nem illeti meg. A felmentésre egyebekben a kormányzati igazgatásról szóló törvény rendelkezései alkalmazandók.
 
 (17) A külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult foglalkoztatott jogviszonyának közös megegyezéssel történő megszüntetése esetén a felek legfeljebb a foglalkoztatottat a megállapodás megkötésének időpontjában a jogviszonyának felmentéssel, illetve felmondással történő megszüntetés esetén őt megillető végkielégítés összegével megegyező összegű egyszeri kifizetésben állapodhatnak meg.
+
+(18) A kihelyező vezető mérlegelési jogkörében eljárva a kormányzati igazgatásról szóló törvény szerinti együttalkalmazási tilalom és összeférhetetlenség alól a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló személy részére legfeljebb négy év időtartamra felmentést adhat.

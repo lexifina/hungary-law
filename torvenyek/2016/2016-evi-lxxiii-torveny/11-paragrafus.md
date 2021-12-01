@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdés szerinti felkészülés idejére a kihelyező vezető a kormánytisztviselőt kinevezésének módosításával a kihelyező szerv tartós külszolgálati felkészülést támogató szervezeti egységébe, külföldi felkészülési állományba a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre helyezheti. Ha a külföldi felkészülési állományba helyezett felkészülő a (2) bekezdés szerinti hat hónapos határidő lejártát követően nem kerül tartós külszolgálatra kihelyezésre, jogviszonyára a 21. § (3) bekezdésében foglaltakat kell alkalmazni. A tartós külszolgálati felkészülés ideje alatt a felkészülőt a kihelyező szerv az e törvényben foglalt eltérésekkel a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati jogviszonyban kormánytisztviselőként foglalkoztathatja.
 
-(3a) A (3) bekezdés alapján tartós külszolgálati kihelyezést megelőző felkészülés céljából a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre helyezett kormánytisztviselő kormányzati szolgálati jogviszonya
+(3a) A (3) bekezdés alapján tartós külszolgálati kihelyezést megelőző felkészülés céljából a kormányzati igazgatásról szóló törvény 56. § (4) bekezdése szerinti álláshelyre helyezett kormánytisztviselő kormányzati szolgálati jogviszonya, ide nem értve, ha az a) vagy a b) pont a kormánytisztviselőnek fel nem róható módon, önhibáján kívül következik be,
 
 a) a tartós külszolgálati munkakör betöltésére szóló pályázati döntés vagy kijelölési döntés kihelyező vezető általi visszavonása, vagy
 
