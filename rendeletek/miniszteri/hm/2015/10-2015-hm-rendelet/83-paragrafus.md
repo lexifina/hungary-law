@@ -1,5 +1,5 @@
-## 82. §[^63]
+## 82. §[^73]
 
 ## 38. Hatályon kívül helyező rendelkezések
 
-[^63]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 82. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

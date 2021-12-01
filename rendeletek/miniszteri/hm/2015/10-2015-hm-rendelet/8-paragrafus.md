@@ -24,7 +24,7 @@ e) honvéd tisztjelölti és honvéd altiszt-jelölti katonai szolgálatra jelen
 
 f) honvédségi ösztöndíjasnak jelentkezettek esetében a tanulmányok időtartamára,
 
-g)[^18] önkéntes területvédelmi tartalékos katonák esetében a 4. § (1) bekezdésben meghatározott alkalmassági vélemény érvényességi idejéig
+g)[^19] önkéntes területvédelmi tartalékos katonák esetében a 4. § (1) bekezdésben meghatározott alkalmassági vélemény érvényességi idejéig
 
 ## adható.
 
@@ -32,4 +32,4 @@ g)[^18] önkéntes területvédelmi tartalékos katonák esetében a 4. § (1) b
 
 (3) A minősítés érvényességének letelte után az alkalmasságot ismételten minősíteni kell.
 
-[^18]: A 8. § (1) bekezdés g) pontját a 25/2016. (XII. 22.) HM rendelet 98. §-a iktatta be.
+[^19]: A 8. § (1) bekezdés g) pontját a 25/2016. (XII. 22.) HM rendelet 98. §-a iktatta be.

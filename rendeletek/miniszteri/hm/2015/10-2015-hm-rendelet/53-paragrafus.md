@@ -2,7 +2,7 @@
 
 ## AZ ÖNKÉNTES TARTALÉKOS KATONAI ÁLLOMÁNYBA JELENTKEZŐ ALKALMASSÁG-VIZSGÁLATA ÉS MINŐSÍTÉSE
 
-53. §[^45] (1) Önkéntes védelmi tartalékos és önkéntes műveleti tartalékos katonai szolgálatra alkalmas az a honvéd, aki megfelel
+53. §[^51] (1) Önkéntes védelmi tartalékos és önkéntes műveleti tartalékos katonai szolgálatra alkalmas az a honvéd, aki megfelel
 
 a) a 14. §-ban meghatározott egészségi követelményeknek,
 
@@ -12,4 +12,4 @@ c) a 15. mellékletben meghatározott fizikai kondicionális követelményeknek.
 
 (2) Önkéntes területvédelmi tartalékos katonai szolgálatra az alkalmas, aki a 4. § (1) bekezdése szerinti alkalmassági vélemény szerinti „alkalmas” minősítést kapott.
 
-[^45]: Az 53. § a 25/2016. (XII. 22.) HM rendelet 103. §-ával megállapított szöveg.
+[^51]: Az 53. § a 25/2016. (XII. 22.) HM rendelet 103. §-ával megállapított szöveg.

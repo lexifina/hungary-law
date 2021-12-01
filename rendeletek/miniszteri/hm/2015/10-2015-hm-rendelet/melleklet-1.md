@@ -1,4 +1,4 @@
-## 83. §[^64] E rendeletnek a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 7/2020. (IV. 30.) HM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^65] folyamatban lévő ügyekre is alkalmazni kell.
+## 83. §[^74] E rendeletnek a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosításáról szóló 7/2020. (IV. 30.) HM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^75] folyamatban lévő ügyekre is alkalmazni kell.
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2466,11 +2466,5 @@ a)Atrophia renis, törpevese ismeretlen ok miatt. (Vesefejlődési rendelleness�
 
 b) We, teljes vérkép és vizelet, Se kreatinin, UN, koncentrálási próba, vizelet bact. és Koch tenyésztés, izotóp renographia, UH, CT, kontrasztanyagos CT vizsgálat.
 
-c) A minősítést döntően a folyamat (elváltozás) oldalisága és a vesefunctio károsodása határozza meg. Jó vesefunkció esetében a 128.1 „A” minősítés is lehetséges. Hivatásos és szerződéses állományba vételkor a minősítés a 128.1 „E”. Katonai oktatási intézményben jelentkezők esetében a felvételkor 128.1 „E”.
-
-d) E szakasz szerinti minősítésnél korlátozások nem alkalmazhatók.
-
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
-
-[^64]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2020. (IV. 30.) HM rendelet 2. §-a iktatta be.
-[^65]: A hatálybalépés időpontja 2020. május 1.
+[^74]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2020. (IV. 30.) HM rendelet 2. §-a iktatta be.
+[^75]: A hatálybalépés időpontja 2020. május 1.
