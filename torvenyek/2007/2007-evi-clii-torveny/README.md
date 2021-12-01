@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-152-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2007-152-00-00.17 |
 | 2019-02-01 | 2018. évi CXV. törvény | 2007-152-00-00.18 |
 | 2021-01-01 | 2020. évi CLII. törvény | 2007-152-00-00.19 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 2007-152-00-00.20 |
