@@ -64,12 +64,12 @@ v) a 43. § (1) bekezdése szerinti egészségügyi szolgáltatási járulékfiz
 
 (6) Az (1) bekezdés i) pontjában említett tanuló, képzésben részt vevő személy és hallgató a tanulói jogviszony vagy a hallgatói jogviszony kezdetétől a diákigazolványra való jogosultság megszűnéséig jogosult egészségügyi szolgáltatásra, ideértve a tanulói, hallgatói jogviszony szünetelésének időtartamát is.
 
-(7) A (3) bekezdés és a 43. § (1) bekezdés a) pontja alkalmazásában belföldi az a Magyarországon élő magyar állampolgár is, aki
+(7) Belföldi
 
-a) a jogviszony vizsgálat időpontjában társadalombiztosítási, szociális, családtámogatási ellátásban részesül, és
+a) – a (3) bekezdés alkalmazásában – az a Magyarországon élő magyar állampolgár is,
 
-b) a jogviszony vizsgálatot megelőző öt éven belül
+b) – a 43. § (1) bekezdés a) pontja alkalmazásában – az a legalább egy éve Magyarországon élő magyar állampolgár is,
 
-ba) rendelkezett belföldön legalább tizenkét hónap biztosítási jogviszonnyal, vagy
+aki a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 80. § (5) bekezdése szerinti – a külföldön, illetve a nemzetközi szervezet szociális biztonsági rendszerében létrejött biztosításra vonatkozó – bejelentést nem teljesített.
 
-bb) legalább tizenkét hónapig egészségügyi szolgáltatásra volt jogosult az (1) bekezdés alapján.
+(8) A (7) bekezdés szerint belföldinek minősülő magyar állampolgár esetében a (3) bekezdés és a 43. § (2) bekezdése szerinti feltételt teljesítettnek kell tekinteni.
