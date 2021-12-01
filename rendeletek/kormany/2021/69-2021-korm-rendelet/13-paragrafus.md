@@ -1,1 +1,0 @@
-## 12. § A devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény (a továbbiakban: 2011. évi LXXV. törvény) alkalmazásában a 2011. évi LXXV. törvény 1. § 7a. pontjában foglaltakon túl közszférában dolgozón az egészségügyi szolgálati jogviszonyban álló személyt is érteni kell.

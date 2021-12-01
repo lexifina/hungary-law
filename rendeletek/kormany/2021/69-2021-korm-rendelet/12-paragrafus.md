@@ -1,1 +1,0 @@
-## 11. § Az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnytv.) alkalmazásában a Vnytv. 2. § a) pontjában foglaltakon túl közszolgálatban álló személyen az egészségügyi szolgálati jogviszonyban álló személyt is érteni kell.

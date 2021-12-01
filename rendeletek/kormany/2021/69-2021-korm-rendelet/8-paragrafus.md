@@ -1,1 +1,0 @@
-## 7. § Az Eütev. 14/E. § (3) bekezdésének alkalmazásában a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 57. § (3) bekezdése szerinti pótszabadságra jogosító munkakört betöltő személyeken az Eszjtv. 6. § (4)–(7) bekezdésében meghatározott pótszabadságra jogosító munkakört betöltő személyeket kell érteni.
