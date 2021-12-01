@@ -8,7 +8,7 @@
 
 a) a füstködriadó terv,
 
-b)
+b) a háztartási tevékenységgel okozott légszennyezésre vonatkozó egyes sajátos, valamint az avar és kerti hulladék égetésére vonatkozó szabályok rendelettel történő megállapítása,
 
 c) a légszennyezettség szempontjából ökológiailag sérülékeny területek kijelölésével kapcsolatos eljárásban való közreműködés,
 
