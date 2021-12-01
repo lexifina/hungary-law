@@ -6,15 +6,16 @@
 
 ## 3. a Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 14. § (1) bekezdés a) pontja
 
-## 4. az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 1. mellékletében foglalt táblázat 12., 13., 24., 32., 33., 42. sora
+## 4.[^10] a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet 1. mellékletében foglalt táblázat 10. és 11. sora
 
 ## 5. a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 5. §-a, 15. § (1) bekezdése, 19/A. § (1) és (3)–(4) bekezdése, 36. § (3) bekezdése
 
 ## 6. a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet 10/A. § (2) bekezdése
 
-## 7.[^9] a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendelet 4. § (1) és (7) bekezdése, 6. § (3) bekezdés a) pontja, 7. § (1) bekezdése, 8. § (5) bekezdése, 9/A. § (2) bekezdése, 15. § (1) és (2) bekezdése
+## 7.[^11] a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendelet 4. § (1) és (7) bekezdése, 6. § (3) bekezdés a) pontja, 7. § (1) bekezdése, 8. § (5) bekezdése, 9/A. § (2) bekezdése, 15. § (1) és (2) bekezdése
 
-3. melléklet a 444/2020. (IX. 30.) Korm. rendelethez[^10]
+3. melléklet a 444/2020. (IX. 30.) Korm. rendelethez[^12]
 
-[^9]: A 2. melléklet 7. pontját a 610/2020. (XII. 18.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 94/2021. (II. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^10]: A 3. melléklet a 94/2021. (II. 27.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. melléklet 4. pontja a 658/2021. (XI. 30.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: A 2. melléklet 7. pontját a 610/2020. (XII. 18.) Korm. rendelet 28. §-a hatályon kívül helyezte, újonnan a 94/2021. (II. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^12]: A 3. melléklet a 94/2021. (II. 27.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
