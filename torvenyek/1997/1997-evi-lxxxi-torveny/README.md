@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2021-01-07 | 2020. évi CLXVIII. törvény | 1997-81-00-00.83 |
 | 2021-02-01 | 2020. évi CXXXV. törvény | 1997-81-00-00.84 |
 | 2021-07-01 | 2021. évi LIII. törvény | 1997-81-00-00.85 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 1997-81-00-00.86 |
