@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-97-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2006-97-00-00.21 |
 | 2019-01-01 | 2017. évi L. törvény | 2006-97-00-00.22 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2006-97-00-00.23 |
+| 2021-12-01 | 2021. évi XCIX. törvény | 2006-97-00-00.24 |
