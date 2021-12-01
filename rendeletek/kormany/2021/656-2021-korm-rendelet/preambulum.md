@@ -1,0 +1,1 @@
+A Kormány az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat sikeres megrendezéséhez és megszervezéséhez kapcsolódó rendelkezésekről szóló 2020. évi CXLIV. törvény 13. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
