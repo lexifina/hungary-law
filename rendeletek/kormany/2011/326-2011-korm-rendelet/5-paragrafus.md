@@ -18,7 +18,7 @@ bc)[^43] a „D” kategóriánál 24. életév.
 
 A nemzeti kategóriára érvényesített vezetői engedély csak belföldön történő járművezetésre jogosít.
 
-(3a)[^44] A 2. mellékletben a „B” kategória meghatározásától eltérően, belföldön a 3500 kg-ot meghaladó, de 4250 kg-ot meg nem haladó megengedett legnagyobb össztömegű, pótkocsi nélküli olyan jármű is vezethető, amely az Országos Mentőszolgálat sürgősségi betegellátást végző mentőjárműve.
+(3a)[^44] A 2. mellékletben a „B” kategória meghatározásától eltérően, belföldön a 3500 kg-ot meghaladó, de 4250 kg-ot meg nem haladó megengedett legnagyobb össztömegű, pótkocsi nélküli olyan jármű is vezethető, amely az Országos Mentőszolgálat és a Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság sürgősségi betegellátást végző mentőjárműve.
 
 (3b)[^45] Legalább két éve érvényes „B” kategóriájú vezetői engedéllyel – amely nem kezdő vezetői engedély – a 2. mellékletben a „B” kategória meghatározásától eltérően, belföldön a 3500 kg-ot meghaladó, de 4250 kg-ot meg nem haladó megengedett legnagyobb össztömegű, pótkocsi nélküli, alternatív üzemanyaggal működő jármű is vezethető, feltéve, hogy
 
@@ -42,7 +42,7 @@ b)[^47] az egészségi alkalmassági vizsgálat nélkül is vezethető kategóri
 [^41]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^42]: Az 5. § (3) bekezdés b) pont bb) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
 [^43]: Az 5. § (3) bekezdés b) pont bc) alpontja a 468/2016. (XII. 23.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
-[^44]: Az 5. § (3a) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^44]: Az 5. § (3a) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 659/2021. (XI. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^45]: Az 5. § (3b) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^46]: Az 5. § (4) bekezdése az 516/2017. (XII. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^47]: Az 5. § (5) bekezdés b) pontja a 375/2021. (VI. 30.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
