@@ -10,6 +10,8 @@ b) a bányatelek megállapítására indított eljárás során 60 nap,
 
 c) a kutatás engedélyezésére vonatkozó eljárás során 25 nap.
 
+d) a magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén 55 nap.
+
 (2) A bányafelügyelet
 
 a)

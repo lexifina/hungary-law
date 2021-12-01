@@ -1,0 +1,1 @@
+28/E. § A hasznosítóra az e törvény bányavállalkozóra vonatkozó rendelkezéseit megfelelően alkalmazni kell. A hasznosítóra a 41. § (2) bekezdésében és 41. § (7b) bekezdésében foglalt, a bányavállalkozóra vonatkozó rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a bányászati jog törlése helyett a bányafelügyelet a hasznosítási szerződés megszüntetését kezdeményezheti.

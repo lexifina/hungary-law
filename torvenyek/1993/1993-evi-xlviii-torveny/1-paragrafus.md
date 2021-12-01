@@ -34,6 +34,8 @@ m) a vizek kártételei elleni védelem és védekezés célját szolgáló köz
 
 n) az a)–m) pontokban felsorolt tevékenységek gyakorlásához szükséges létesítmények és berendezések, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló és a radioaktív hulladék átmeneti tárolója telephelyének vizsgálatához, értékeléséhez, telepítéséhez szükséges földtani kutatást szolgáló sajátos építmények.
 
+o) a magyar állam tulajdonosi jogait gyakorló szerv útján a magyar állam javára megszerzett bányászati jog gyakorlása az e törvényben meghatározott eltérésekkel.
+
 (2) Az (1) bekezdés a) pontjában meghatározott tevékenységnek minősül a torlatban, hordalékban előforduló ásványi nyersanyagok kutatása és kitermelése is.
 
 (3)

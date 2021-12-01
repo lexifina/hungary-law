@@ -90,6 +90,8 @@ m) az Európai Bizottság számára megküldendő jelentés előkészítésére 
 
 32. az állami elővásárlási jog szempontjából védettnek minősülő ingatlanok esetében az állami elővásárlási jog gyakorlására
 
+33. a bányászati jog hasznosításba adására vonatkozó pályázati eljárásra, hasznosítási szerződés tartalmi követelményeire;
+
 vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 (2) Felhatalmazást kap a miniszter

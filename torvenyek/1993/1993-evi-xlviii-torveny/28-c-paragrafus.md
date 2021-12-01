@@ -1,0 +1,1 @@
+28/C. § A bányászati tevékenység gyakorlásához szükséges valamennyi engedély megszerzése során a hasznosító jár el saját nevében és költségére azzal, hogy ha az engedélyek hasznosító által történő megszerzését követően a hasznosítási szerződés bármely okból megszűnik, úgy a hasznosító jogutódja a magyar állam.
