@@ -1,14 +1,18 @@
 ## 14. Végrehajtás Operatív Program Plusz előirányzat speciális felhasználási szabályai
 
-29. § (1) A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszer és ellátói – a Közbeszerzési és Ellátási Főigazgatóság, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság, valamint az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság – részére
+29. § (1)[^13] A Végrehajtás Operatív Program Plusz (a továbbiakban: VOP Plusz) keretében SCO módszerrel a központi költségvetésbe elszámolt uniós bevétel terhére az uniós intézményrendszerrel és ellátóival – a Közbeszerzési és Ellátási Főigazgatósággal, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társasággal, a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársasággal, a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársasággal és az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társasággal –, továbbá az e) pont esetében a Külgazdasági és Külügyminisztériummal
 
 a) a programok sikeres végrehajtása érdekében szükséges hatékony adminisztratív kapacitás és feltételrendszer biztosításához elengedhetetlen költségek,
 
-b) a Nemzeti Távközlési Gerinchálózat és a központi szolgáltató által nyújtott infokommunikációs szolgáltatások használatával és üzemeltetésével kapcsolatban felmerülő költségek vagy
+b) a Nemzeti Távközlési Gerinchálózat és a központi szolgáltató által nyújtott infokommunikációs szolgáltatások használatával és üzemeltetésével kapcsolatban felmerülő költségek,
 
-c) a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti monitoring, és információs rendszer működtetéséhez és fejlesztéséhez kapcsolódó költségek
+c) a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet szerinti monitoring és információs rendszer működtetéséhez és fejlesztéséhez kapcsolódó költségek,
 
-## finanszírozására a VOP Plusz irányító hatósága támogatási szerződést köthet vagy támogatási okiratot bocsáthat ki.
+d) a 2007–2013 programozási időszak, valamint a 2014–2020 programozási időszak európai uniós fejlesztési programjaihoz kapcsolódó iratanyag kezelésével, tárolásával, őrzésével, digitalizálásával, hitelesítésével és az ellenőrzésre jogosult szervek számára a hozzáférés biztosításával kapcsolatos költségek vagy
+
+e) az Európai Unió Duna Régió Stratégia magyarországi koordinációja és szakmai tevékenysége kapcsán az Európai Unió Duna Régió Stratégia hazai koordinációjáról és a koordinációhoz szükséges források biztosításáról szóló 1444/2020. (VII. 28.) Korm. határozat szerinti feladatok költségeinek
+
+## finanszírozására a VOP Plusz irányító hatósága támogatási szerződést köthet vagy részükre támogatási okiratot bocsáthat ki.
 
 (2) A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatói szerződés vagy támogatói okirat határozza meg.
 
@@ -37,3 +41,5 @@ j) a jogviszony megszüntetésének egyes eseteit, valamint
 k) a korrupcióellenes záradékot, amely szerint: „A kedvezményezett nem követhet el, nem engedélyezhet, vagy harmadik személyt nem jogosíthat fel olyan cselekményekre, amely a közélet tisztaságára vonatkozó, valamint a korrupcióellenes jogszabályok megsértését eredményezi. A kedvezményezett nem fogadhat el, nem ajánlhat fel és nem adhat az eljáró harmadik személynek ajándékot, pénzbeli vagy nem pénzbeli juttatást.”.
 
 (4) A támogatások kifizetésére, elszámoltatására a monitoring- és információs rendszert kell alkalmazni.
+
+[^13]: A 29. § (1) bekezdése a 658/2021. (XI. 30.) Korm. rendelet 12. §-ával megállapított szöveg.

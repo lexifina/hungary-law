@@ -4,6 +4,8 @@
 
 (3) A támogatás rendelkezésre bocsátása egy összegben előlegként vagy részletekben történik.
 
-(4) A támogatás vonatkozásában biztosítékot kell nyújtani.
+(4)[^11]
 
 (5) Ha az előkészítési támogatás összege vagy annak egy része a kedvezményezett közvetlen irányítású uniós program támogatási szerződése alapján elszámolhatóvá válik, ezen összegeket a támogatott a támogató részére – ügyletikamat-mentesen – köteles visszafizetni.
+
+[^11]: A 20. § (4) bekezdését a 658/2021. (XI. 30.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.

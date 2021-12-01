@@ -1,4 +1,4 @@
-## 6. A Fejezeti általános tartalék előirányzat-felhasználási szabályai
+## 6. [^8] A Fejezeti általános tartalék előirányzat felhasználási szabályai
 
 14. § (1) A Fejezeti általános tartalék előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) a részben európai uniós forrásból finanszírozott programokkal, projektekkel kapcsolatosan az előre nem látható kiadások finanszírozására használható fel, különösen
 
@@ -19,3 +19,5 @@ g) a közlekedési tárgyú projekteket megvalósító, 100%-ban állami tulajdo
 h) ha a 2007–2013 programozási időszakban európai uniós forrásra benyújtott kérelem szerinti agrár-vidékfejlesztési tevékenység támogatása már nem finanszírozható európai uniós forrásból, de jogorvoslati eljárás alapján a támogatásra való jogosultságot megállapítják, feltéve, hogy az az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikkével összhangban nyújtható állami támogatásnak minősül.
 
 (2) Nem finanszírozható az előirányzat terhére az (1) bekezdés e) pontja szerinti igény egyéni vállalkozó, egyéni cég vagy – 100%-os állami vagy önkormányzati tulajdonban lévő nonprofit gazdasági társaság kivételével – gazdasági társaság esetében.
+
+[^8]: A 6. alcím címe a 658/2021. (XI. 30.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## AZ EGYES FEJEZETI KEZELÉSŰ ELŐIRÁNYZATOKBÓL NYÚJTHATÓ KÖLTSÉGVETÉSI TÁMOGATÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-## 4. Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat-felhasználási szabályai
+## 4. [^6] Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat felhasználási szabályai
 
 11. § (1) Az EU támogatások felhasználásához szükséges technikai segítségnyújtás előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja a közösségi támogatások koordinálásával összefüggő, a közösségi és európai uniós forrásból nem fedezett, el nem számolható, azonban a programok lebonyolításához és a programok fenntartási időszakához kötődő kötelezettségek teljesítéséhez elengedhetetlen tevékenységek kiadásai fedezetének biztosítása, így különösen
 
@@ -37,3 +37,5 @@ bi) a közvetlen irányítású uniós programokhoz kapcsolódóan.
 (5) Az időarányostól eltérő felhasználást – a szerződés módosításával – a támogató abban az esetben engedélyezi, ha a kedvezményezett a pénzforgalmi terve benyújtásával igazolja, hogy a költségvetési támogatás időarányos folyósítása a folyamatos működését veszélyeztetné.
 
 (6) A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható.
+
+[^6]: A 4. alcím címe a 658/2021. (XI. 30.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 8. Közvetlen uniós programok támogatása előirányzat-felhasználási szabályai
+## 8. [^9] Közvetlen uniós programok támogatása előirányzat felhasználási szabályai
 
 17. § (1) A Közvetlen uniós programok támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja támogatás biztosítása
 
@@ -40,7 +40,7 @@
 
 ## programok keretében megvalósuló projektek előkészítési és önerőköltségeinek finanszírozására.
 
-(2) Az előirányzat keretében lehetőség van a 2014–2020 programozási időszak közvetlen uniós programjaihoz tartozó pályázatok támogatására is. Ebben az esetben a már benyújtott, de még el nem bírált pályázatok önerőköltségeinek finanszírozására nyújtható be kérelem.
+(2)[^10] Az előirányzat keretében lehetőség van a 2014–2020 programozási időszak közvetlen uniós programjai kapcsán már benyújtott pályázatok támogatására is.
 
 (3) Az előirányzat – legfeljebb 4%-ának erejéig – fedezetet biztosít továbbá lebonyolítói díj kifizetésére az arra kötött megállapodásban foglaltak szerint.
 
@@ -51,3 +51,6 @@
 (6) A fejezetet irányító szerv vezetője az előirányzat kezelésére elkülönített előirányzat-felhasználási keretszámlát nyit a Kincstárnál.
 
 (7) Lebonyolító szerv igénybevétele esetén a fejezetet irányító szerv vezetője az előirányzat-felhasználási keretszámlához kapcsolódó alszámlára rendelkezési jogot biztosít a lebonyolító szervezet részére.
+
+[^9]: A 8. alcím címe a 658/2021. (XI. 30.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^10]: A 17. § (2) bekezdése a 658/2021. (XI. 30.) Korm. rendelet 11. §-ával megállapított szöveg.

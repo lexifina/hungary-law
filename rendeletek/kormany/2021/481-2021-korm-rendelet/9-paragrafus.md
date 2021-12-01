@@ -28,7 +28,7 @@ l) ha a kedvezményezettnek fel nem róható okból a támogatási szerződés v
 
 m) ha a kedvezményezett által nem befolyásolható olyan körülmény merül fel, amely az európai uniós forrásból finanszírozott projekt végrehajtásához nélkülözhetetlen, a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja vagy a 256/2021. (V. 18.) Korm. rendelet 168. §-a szerinti költségnövekménynek nem minősülő kiadást keletkeztet.
 
-(2) Az előirányzatoknak az (1) bekezdés f)–k) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés f)–k) pontja szerinti esetben projektenként eléri az ötvenmillió forintot, a 126/2016. (VI. 7.) Korm. rendelet 1. §-a szerinti program vagy a 83/2018. (IV. 20.) Korm. rendelet 1. §-a szerinti program esetében a százötvenezer eurót, azok felhasználásához az államháztartásért felelős miniszter jóváhagyása szükséges.
+(2)[^4] Az előirányzatoknak az (1) bekezdés f)–k) pontja szerinti felhasználásáról a fejezetet irányító szerv vezetője dönt. Ha az előirányzat-felhasználás összege az (1) bekezdés f)–k) pontja szerinti esetben projektenként eléri az ötvenmillió forintot, a 126/2016. (VI. 7.) Korm. rendelet 1. §-a szerinti program vagy a 83/2018. (IV. 20.) Korm. rendelet 1. §-a szerinti program esetében a százötvenezer eurót, annak felhasználásához – az (5) bekezdés szerinti eset kivételével – az államháztartásért felelős miniszter jóváhagyása szükséges.
 
 (3) Az előirányzatoknak az (1) bekezdés l) és m) pontja szerinti felhasználásáról a Kormány egyedi ügyben hozott határozatban dönt.
 
@@ -37,3 +37,10 @@ m) ha a kedvezményezett által nem befolyásolható olyan körülmény merül f
 a) a 272/2014. (XI. 5.) Korm. rendelet 87. § (1) bekezdés c) pontja vagy
 
 b) a 256/2021. (V. 18.) Korm. rendelet 168. § (1) bekezdése
+
+## szerinti költségnövekménynek minősülő kiadás finanszírozásához szükséges, az előirányzat-felhasználásról az a) pont szerinti esetben az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendelet 3–6. §-a szerint, a b) pont szerinti esetben a 256/2021. (V. 18.) Korm. rendelet 171–173. §-a szerint a Kormány egyedi ügyben hozott nyilvános határozatban dönt.
+
+(5)[^5] A Nemzeti Helyreállítási Alap előirányzat terhére megvalósuló projektek esetében az Európai Bizottság felé el nem számolható, a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 413/2021. (VII. 13.) Korm. rendelet [a továbbiakban: 413/2021. (VII. 13.) Korm. rendelet] 2. § 5. pontjában meghatározott Helyreállítási és Ellenállóképességi Terv Európai Bizottság felé elszámolható összköltségének legfeljebb 5%-át kitevő kiadások erejéig az (1) bekezdés f) pontja szerinti előirányzat-felhasználáshoz az államháztartásért felelős miniszter jóváhagyása nem szükséges.
+
+[^4]: A 9. § (2) bekezdése a 658/2021. (XI. 30.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^5]: A 9. § (5) bekezdését a 658/2021. (XI. 30.) Korm. rendelet 10. §-a iktatta be.
