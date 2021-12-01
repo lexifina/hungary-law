@@ -1,0 +1,1 @@
+44/A. § Az a biztosított, aki részére magánútlevéllel, valamint egyéb úti okmánnyal végrehajtott, nem hivatalos célú külföldről Magyarország területére történő beutazáskor az egészségügyről szóló 1997. évi CLIV. törvény 67/A. § (1) bekezdés a) pontja alapján hatósági házi karantént rendeltek el, nem minősül keresőképtelennek.

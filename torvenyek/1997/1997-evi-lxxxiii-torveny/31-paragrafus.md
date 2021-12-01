@@ -14,9 +14,9 @@ f) a külön jogszabályban meghatározott esetben az elszámolható szolgáltat
 
 g)
 
-h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket, a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is,
+h) a szerződés hatályát, a módosítására és felmondására vonatkozó rendelkezéseket,
 
-i)
+i) a szerződés megszegése esetén követendő eljárást, ideértve a szerződésszegésen alapuló igények érvényesítési rendjét is.
 
 (2) Az egészségügyi szolgáltató gyógyszert, gyógyászati segédeszközt, valamint gyógyászati ellátást árhoz nyújtott támogatással az egészségbiztosító által minősített, a minőségi és hatékony gyógyszer- és gyógyászatisegédeszköz-rendelést elősegítő számítógépes rendszer alkalmazásával rendelhet.
 
@@ -72,6 +72,6 @@ vonatkozó – az üzleti titok védelméről szóló 2018. évi LIV. törvény 
 
 (10) Amennyiben az egészségügyi szolgáltató a (9) és a (9a) bekezdés szerinti kötelezettségét határidőn belül nem teljesíti, az egészségbiztosító új határidő kitűzésével felszólítja az egészségügyi szolgáltatót a (9) és a (9a) bekezdés szerinti kötelezettsége teljesítésére. A felszólítással egyidejűleg – annak tényéről – értesíteni kell az egészségügyi szolgáltató fenntartóját is.
 
-(11)
+(11) Járványügyi készültség idején az egészségbiztosító a határozott időre kötött finanszírozási szerződést – egyoldalúan – a határozott idő lejárta előtt is felmondhatja.
 
 (12)

@@ -14,4 +14,6 @@ b) gyermekgondozási díj esetén a 42/D. § (1) bekezdése szerinti összeget,
 
 c) az (1) bekezdés szerinti táppénz esetén – a biztosítási idő figyelembevételével – a 48. § (7) bekezdése szerinti összeget.
 
+(4a) Ha a keresőképtelenség igazolhatóan az egészségügyi ellátás SARS-CoV2 járványhelyzethez kapcsolódó felfüggesztése okán egy éven túl is fennáll, a táppénz méltányosságból a veszélyhelyzet megszűnését követő legfeljebb hatodik hónap végéig folyósítható.
+
 (5) Az egészségbiztosító méltányosságból a biztosítottat és a kizárólag egészségügyi szolgáltatásra jogosult személyt indokolt esetben segélyben részesítheti.
