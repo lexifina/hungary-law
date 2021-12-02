@@ -1,3 +1,1 @@
-## „44/A. § Szűrővizsgálat elvégzésében – egészségügyi tevékenység végzésére való jogosultság nélkül – az orvos-, egészségtudományi képzésben részt vevő hallgató önkéntesen közreműködhet. Az igazolt önkéntes munkavégzésre a hallgató és a felsőoktatási intézmény között a 44. § (1) bekezdés b) pontja szerinti hallgatói munkaszerződés jön létre. A hallgatói munkaszerződés során szerzett munkatapasztalat kreditértékét a 49. § (6) bekezdése szerint a kreditátviteli bizottság állapítja meg. Az önkéntes munkát végző hallgató tanulmányi kötelezettségeinek teljesítését a felsőoktatási intézmény a hallgatói munkaszerződésre tekintettel szervezi meg. A hallgatói munkaszerződésből származó jövedelem a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 4.13. pontja szerinti jövedelemnek minősül.”
-
-264. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény a következő 73/A. §-sal egészül ki:
+### 264. §

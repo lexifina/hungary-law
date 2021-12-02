@@ -1,5 +1,3 @@
-## „105/B. § Ha a magánszemély az egészségügyi szolgáltatások veszélyhelyzeti igénybevételével kapcsolatos egyes szabályokról és a koronavírus elleni védettség igazolásáról szóló 60/2021. (II. 12.) Korm. rendelet módosításáról szóló 222/2021. (V. 3.) Korm. rendelet (e § alkalmazásában a továbbiakban: kormányrendelet) 1. § (1) bekezdése alapján minősült belföldinek és a kormányrendelet hatálybalépését megelőzően az egészségügyi szolgáltatásra való jogosultsága vagy az egészségügyi szolgáltatási járulékfizetési kötelezettsége a belföldiség hiányában nem volt megállapítható, az egészségügyi szolgáltatásra való jogosultság és az egészségügyi szolgáltatási járulékfizetési kötelezettség kezdő időpontjára a kormányrendelet 1. § (3) bekezdése rendelkezését kell alkalmazni.”
-
 ## 128. A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény módosítása
 
-307. § A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény 2. §-a helyébe a következő rendelkezés lép:
+### 307. §

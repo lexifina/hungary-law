@@ -1,29 +1,3 @@
-## „2. § E törvény alkalmazásában
-
-## 1. közszolgálatban álló személy:
-
-## a) a rendvédelmi feladatokat ellátó szerv hivatásos állományának tagja,
-
-## b) a Magyar Honvédség hivatásos és szerződéses állományú katonája és a honvédelmi alkalmazott,
-
-## c) aki közalkalmazotti jogviszonyban áll,
-
-## d) aki rendvédelmi igazgatási szolgálati jogviszonyban áll,
-
-## e) aki egészségügyi szolgálati jogviszonyban áll,
-
-## f) aki közszolgálati jogviszonyban, kormányzati szolgálati jogviszonyban áll,
-
-## g) aki adó- és vámhatósági szolgálati jogviszonyban áll,
-
-## h) aki ügyészségi szolgálati viszonyban áll,
-
-## i) az igazságügyi alkalmazott, valamint
-
-## j) a Magyar Nemzeti Bank Monetáris Tanácsának tagjai kivételével a Magyar Nemzeti Bank alkalmazottja (a továbbiakban: a Magyar Nemzeti Bank alkalmazottai);
-
-## 2. hozzátartozó: a házastárs, az élettárs, valamint a közös háztartásban élő szülő, gyermek, a házastárs gyermeke, ideértve az örökbefogadott és a nevelt gyermeket is.”
-
 ## 104. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-251. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 56. § (1) bekezdésében a „közalkalmazotti” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati,” szöveg lép.
+### 251. §

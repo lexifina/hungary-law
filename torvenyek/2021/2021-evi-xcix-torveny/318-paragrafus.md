@@ -1,1 +1,1 @@
-318. § Hatályát veszti az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 8. § (15) bekezdésében a „ , függetlenül az utóbbi jogviszony létesítése érdekében kötött egészségügyi szolgálati munkaszerződésében szereplő heti munkaidejétől” szövegrész.
+### 318. §

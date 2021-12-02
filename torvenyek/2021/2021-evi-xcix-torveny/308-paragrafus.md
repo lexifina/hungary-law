@@ -1,3 +1,1 @@
-## „2. § A Beruházás, valamint a Projekt megvalósítása, a Világkiállításon történő magyar megjelenés, a rendezvények lebonyolítása és szervezése, továbbá a Kelet-Magyarországi Versenypálya Korlátolt Felelősségű Társaság által a Magyarországi MotoGP megrendezésére irányuló vagyoni értékű jog megszerzése kiemelkedően fontos közérdek, amelyek érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekintendőek, teljesítésükhöz kiemelkedően fontos közérdek fűződik.”
-
-308. § A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+### 308. §

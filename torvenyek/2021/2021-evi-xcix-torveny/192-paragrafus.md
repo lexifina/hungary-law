@@ -1,5 +1,1 @@
-## „(7) A tantermen kívüli, digitális munkarendben megszervezett nevelés-oktatás, óvoda esetében a nevelési évben munkanapra az Nkt. 30. § (5) bekezdése alapján elrendelt rendkívüli szünet, valamint bölcsőde és mini bölcsőde esetében a nevelési évben munkanapra elrendelt rendkívüli zárvatartás időtartama alatt, kivéve ha az adott időtartamban a 21/C. §-ban foglaltak szerint szünidei gyermekétkeztetést kell biztosítani, az intézményi gyermekétkeztetést a szülő, más törvényes képviselő kérelmére – elvitel vagy kiszállítás formájában – az (1)–(6) bekezdés szerint kell biztosítani.
-
-## (8) Ha a gyermek, tanuló a lakóhelyétől, tartózkodási helyétől eltérő településen jár bölcsődébe, mini bölcsődébe, köznevelési vagy szakképző intézménybe, és a szülő, más törvényes képviselő a gyermek számára az intézményi gyermekétkeztetést igényli, akkor azt a (7) bekezdés szerinti időtartam alatt a feladatellátásra kötelezett szerv helyett a gyermek, tanuló lakóhelye, tartózkodási helye szerinti települési önkormányzat biztosíthatja.”
-
-192. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény „Bölcsődei ellátás” alcíme a következő 42/B. §-sal egészül ki:
+### 192. §
