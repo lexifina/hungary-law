@@ -1,3 +1,5 @@
-## 6. § Az R1. 62/A. § (1) bekezdés b) pontjában a „Kormány rendeletében” szövegrész helyébe a „miniszter rendeletében” szöveg lép.
+## 6. §[^7]
 
 ## 3. A katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet módosítása
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
