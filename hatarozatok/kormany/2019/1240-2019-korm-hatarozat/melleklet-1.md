@@ -1,12 +1,12 @@
-## 1.[^1] egyetért azzal, hogy a kommunista diktatúra áldozatai ellen elkövetett törvénytelenségek kiemelt helyszínén, a Recski Kényszermunkatábor egykori területén található történelmi emlékhelyen a méltó megemlékezés, a közös nemzeti emlékezetpolitika formálása és a jövő nemzedék oktatásának-nevelésének céljával látogatóközpont, továbbá egy interaktív és a modern technológiát felhasználó kiállítás (a továbbiakban: Beruházás) létesüljön a 2023. év végéig;
+## 1.[^2] egyetért azzal, hogy a kommunista diktatúra áldozatai ellen elkövetett törvénytelenségek kiemelt helyszínén, a Recski Kényszermunkatábor egykori területén található történelmi emlékhelyen a méltó megemlékezés, a közös nemzeti emlékezetpolitika formálása és a jövő nemzedék oktatásának-nevelésének céljával látogatóközpont, továbbá egy interaktív és a modern technológiát felhasználó kiállítás (a továbbiakban: Beruházás) létesüljön;
 
-## 2.[^2] egyetértve a Beruházás koncepciójával, a Beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), c), e), g), j), n) és p) pontja szerinti előkészítési fázisaira összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 558 000 000 forint forrást biztosít a Magyarország 2019. évi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy a támogatott előkészítési fázisokat legkésőbb 2021. december 31-ig kell megvalósítani;
+## 2.[^3] egyetértve a Beruházás koncepciójával, a Beruházásnak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), c), e), g), j), n) és p) pontja szerinti előkészítési fázisaira összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 558 000 000 forint forrást biztosít a Magyarország 2019. évi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy a támogatott előkészítési fázisokat legkésőbb 2022. december 31-ig kell megvalósítani;
 
 ## 3. a Beruházás előkészítésének kormányzati felelőseként a kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztost (a továbbiakban: kormánybiztos) jelöli ki;
 
 ## 4. egyetért azzal, hogy a 2. pont szerinti előkészítési fázisokat a kormánybiztos a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.) bevonásával valósítsa meg;
 
-## 5.[^3] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva – a 2. pontban foglaltak megvalósítása érdekében – elrendeli a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 43. Kulturális örökségvédelmi szakmai feladatok jogcímcsoport javára 558 000 000 forint egyszeri átcsoportosítását, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszatérítési kötelezettséggel, az 1. melléklet szerint;
+## 5.[^4] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva – a 2. pontban foglaltak megvalósítása érdekében – elrendeli a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 43. Kulturális örökségvédelmi szakmai feladatok jogcímcsoport javára 558 000 000 forint egyszeri átcsoportosítását, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszatérítési kötelezettséggel, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -22,13 +22,13 @@
 
 ## Határidő: a 2. pont szerinti határidőt követő 120 napon belül
 
-## 6.[^4] egyetért azzal, hogy a Beruházás tervezőjének kiválasztása céljából a tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet szerinti tervpályázat és az alapján a továbbtervezésre irányuló közbeszerzési eljárás kerüljön lefolytatásra, amely érdekében felhívja a kormánybiztost, hogy gondoskodjon a tervpályázati eljárás lefolytatásáról;
+## 6.[^5] egyetért azzal, hogy a Beruházás tervezőjének kiválasztása céljából a tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet szerinti tervpályázat és az alapján a továbbtervezésre irányuló közbeszerzési eljárás kerüljön lefolytatásra, amely érdekében felhívja a kormánybiztost, hogy gondoskodjon a tervpályázati eljárás lefolytatásáról;
 
 ## Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sportpályázatokért felelős kormánybiztos
 
 ## Határidő: a tervezési program rendelkezésre állását követően azonnal
 
-## 7.[^5]
+## 7.[^6]
 
 ## 8. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Beruházás előkészítésének megvalósításához szükséges – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – legfeljebb 49 000 000 forint forrás biztosításáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 43. Kulturális örökségvédelmi szakmai feladatok jogcímcsoport javára, a KKBK Nonprofit Zrt. működési támogatásával egységesen felhasználható módon;
 
@@ -42,7 +42,7 @@
 
 ## Határidő: a költségvetési támogatás biztosítását követően azonnal
 
-## 10.[^6] felhívja
+## 10.[^7] felhívja
 
 ## a) a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Miniszterelnökséget vezető miniszter és a kormánybiztos bevonásával a Beruházás megvalósításához szükséges ingatlanok jogi vizsgálatát követően készítsen előterjesztést a jelenleg nem állami tulajdonú ingatlanok tulajdonjogának az állam javára történő megszerzéséhez, valamint az 1. pontban meghatározott célok elérését lehetővé tevő, egységes tulajdoni viszonyok biztosításához szükséges intézkedésekről;
 
@@ -64,9 +64,9 @@
 
 ## Határidő: az üzemeltetési koncepció rendelkezésre állását követően azonnal
 
-## 11.[^7] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése alapján a Beruházás megvalósítójának a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaságot jelöli ki;
+## 11.[^8] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése alapján a Beruházás megvalósítójának a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaságot jelöli ki;
 
-## 12.[^8] felhívja a Miniszterelnökséget vezető minisztert, hogy a kormánybiztos bevonásával, a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával.
+## 12.[^9] felhívja a Miniszterelnökséget vezető minisztert, hogy a kormánybiztos bevonásával és a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaság közreműködésével, a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával.
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
@@ -75,6 +75,8 @@
 ## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
 
 1. melléklet az 1240/2019. (IV. 30.) Korm. határozathoz
+
+9K02584_0
 
 | XI. Miniszterelnökség |
 
@@ -146,11 +148,11 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: Az 1. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^2]: A 2. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont b) és c) alpontja szerint módosított szöveg.
-[^3]: Az 5. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
-[^4]: A 6. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont e) alpontja szerint módosított szöveg.
-[^5]: A 7. pontot az 1999/2020. (XII. 23.) Korm. határozat 4. pontja visszavonta.
-[^6]: A 10. pont az 1999/2020. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
-[^7]: A 11. ponot az 1999/2020. (XII. 23.) Korm. határozat 2. pontja iktatta be.
-[^8]: A 12. ponot az 1999/2020. (XII. 23.) Korm. határozat 2. pontja iktatta be.
+[^2]: Az 1. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont a) alpontja, az 1863/2021. (XII. 2.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^3]: A 2. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont b) és c) alpontja, az 1863/2021. (XII. 2.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont d) alpontja szerint módosított szöveg.
+[^5]: A 6. pont az 1999/2020. (XII. 23.) Korm. határozat 3. pont e) alpontja szerint módosított szöveg.
+[^6]: A 7. pontot az 1999/2020. (XII. 23.) Korm. határozat 4. pontja visszavonta.
+[^7]: A 10. pont az 1999/2020. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: A 11. ponot az 1999/2020. (XII. 23.) Korm. határozat 2. pontja iktatta be.
+[^9]: A 12. ponot az 1999/2020. (XII. 23.) Korm. határozat 2. pontja iktatta be, szövege az 1863/2021. (XII. 2.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
