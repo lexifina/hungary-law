@@ -1,28 +1,35 @@
-6. § (1)[^17] A Közalapítvány az ösztöndíjra a Stipendium Hungaricum ösztöndíjak felajánlását megalapozó megállapodások alapján hallgatói pályázatot hirdet meg magyar felsőoktatási intézményben folytatandó tanulmányokra önköltséges helyre.
+6. § (1)[^19] A Közalapítvány az ösztöndíjra a Stipendium Hungaricum ösztöndíjak felajánlását megalapozó megállapodások alapján hallgatói pályázatot hirdet meg magyar felsőoktatási intézményben folytatandó tanulmányokra önköltséges helyre.
 
-(2)[^18] A hallgatói pályázati felhívás tartalmazza a pályázati feltételeket, a pályázat benyújtásának határidejét, az értékelés szempontrendszerét, a hallgatóknak biztosított ösztöndíj aktuális mértékét és a tanulmányi előmenetellel összefüggő követelményeket.
+(2)[^20] A hallgatói pályázati felhívás tartalmazza a pályázati feltételeket, a pályázat benyújtásának határidejét, az értékelés szempontrendszerét, a hallgatóknak biztosított ösztöndíj aktuális mértékét és a tanulmányi előmenetellel összefüggő követelményeket.
 
-(3)[^19] Érvényes hallgatói pályázatot az a pályázó nyújthat be:
+(3)[^21] Érvényes hallgatói pályázatot az a pályázó nyújthat be:
 
-a)[^20] akit a Stipendium Hungaricum ösztöndíjak felajánlását megalapozó megállapodások alapján a küldő fél vagy az arra felhatalmazott szervezet arra jelöl, vagy aki a miniszter – az ösztöndíjprogram működési szabályzatában meghatározott eljárás szerint a Közalapítvány kuratóriuma részére megadott – egyedi hozzájárulása esetén az ösztöndíjprogramban részt vevő intézmény támogatott képzésére felvételt nyer,
+a)[^22] akit a Stipendium Hungaricum ösztöndíjak felajánlását megalapozó megállapodások alapján a küldő fél vagy az arra felhatalmazott szervezet arra jelöl, vagy aki a miniszter – az ösztöndíjprogram működési szabályzatában meghatározott eljárás szerint a Közalapítvány kuratóriuma részére megadott – egyedi hozzájárulása esetén az ösztöndíjprogramban részt vevő intézmény támogatott képzésére felvételt nyer,
 
 b) aki vállalja, hogy az ösztöndíj elnyerését követően ösztöndíjszerződést köt, és
 
-c) aki korábban ugyanazon a képzési szinten nem vett részt az ösztöndíjprogramban.
+c)[^23] aki korábban ugyanazon a képzési szinten nem vett részt az ösztöndíjprogramban.
 
-(4)[^21] A pályázat benyújtásakor a pályázónak csatolnia kell nyilatkozatát arra vonatkozóan, hogy hozzájárul személyes adatainak a pályázati eljárás során és az ösztöndíjprogramban való részvételének és a pályakövetés időtartama alatt, azzal összefüggésben történő kezeléséhez.
+d)[^24] aki vállalja az 5. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségek teljesítését.
 
-(5)[^22] A hallgatói pályázati felhívást, valamint az ösztöndíjprogram működési szabályzatát és a végrehajtási útmutatót a Közalapítvány hivatalos honlapján kell közzétenni.
+(4)[^25] A pályázat benyújtásakor a pályázónak csatolnia kell nyilatkozatát arra vonatkozóan, hogy hozzájárul személyes adatainak a pályázati eljárás során és az ösztöndíjprogramban való részvételének és a pályakövetés időtartama alatt, azzal összefüggésben történő kezeléséhez.
 
-(6)[^23] Az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket. Az ösztöndíjat a miniszter megbízásából a Közalapítvány adományozza azzal a feltétellel, hogy az ösztöndíjasnak hallgatói jogviszonyt kell létesítenie.
+(5)[^26] A hallgatói pályázati felhívást, valamint az ösztöndíjprogram működési szabályzatát és a végrehajtási útmutatót a Közalapítvány hivatalos honlapján kell közzétenni.
 
-(7)[^24] Az ösztöndíjassal a fogadó intézmény (a továbbiakban: felek) ösztöndíjas szerződést köt, amely meghatározza az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket.
+(6)[^27] Az ösztöndíjasnak teljesítenie kell a fogadó felsőoktatási intézmény által meghatározott felvételi követelményeket. Az ösztöndíjat a miniszter megbízásából a Közalapítvány adományozza azzal a feltétellel, hogy az ösztöndíjasnak hallgatói jogviszonyt kell létesítenie.
 
-[^17]: A 6. § (1) bekezdése a 81/2015. (III. 31.) Korm. rendelet 9. § d) pontja, a 282/2017. (IX. 22.) Korm. rendelet 10. § c) pontja, a 351/2019. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^18]: A 6. § (2) bekezdése a 282/2017. (IX. 22.) Korm. rendelet 10. § d) pontja, a 351/2019. (XII. 23.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^19]: A 6. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 27. § (1) bekezdésével megállapított, nyitó szövegrésze a 282/2017. (IX. 22.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
-[^20]: A 6. § (3) bekezdés a) pontja a 282/2017. (IX. 22.) Korm. rendelet 6. §-ával megállapított, a 351/2019. (XII. 23.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^21]: A 6. § (4) bekezdése a 81/2015. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 282/2017. (IX. 22.) Korm. rendelet 10. § e) pontja, az 581/2021. (X. 12.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
-[^22]: A 6. § (5) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^23]: A 6. § (6) bekezdése a 81/2015. (III. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^24]: A 6. § (7) bekezdése a 81/2015. (III. 31.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+(7)[^28] Az ösztöndíjassal a fogadó intézmény (a továbbiakban: felek) ösztöndíjas szerződést köt, amely meghatározza az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket.
+
+(8)[^29] Az Nftv. 80. § (2) bekezdés h) pont hc) alpontja alapján a miniszter az általa működtetett ösztöndíjprogram keretében támogatott hallgató ösztöndíjprogramban történő részvételéhez a kötelező egészségügyi protokoll szerinti egészségügyi alkalmassági vizsgálatot ír elő.
+
+[^19]: A 6. § (1) bekezdése a 81/2015. (III. 31.) Korm. rendelet 9. § d) pontja, a 282/2017. (IX. 22.) Korm. rendelet 10. § c) pontja, a 351/2019. (XII. 23.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^20]: A 6. § (2) bekezdése a 282/2017. (IX. 22.) Korm. rendelet 10. § d) pontja, a 351/2019. (XII. 23.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 27. § (1) bekezdésével megállapított, nyitó szövegrésze a 282/2017. (IX. 22.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^22]: A 6. § (3) bekezdés a) pontja a 282/2017. (IX. 22.) Korm. rendelet 6. §-ával megállapított, a 351/2019. (XII. 23.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^23]: [A 6. § (3) bekezdés c) pontjának az 581/2021. (X. 12.) Korm. rendelet 7. § f) pontjával elrendelt módosítása, amely szerint az „ösztöndíjprogramban,” szövegrész helyébe az „ösztöndíjprogramban, és” szöveg lép, nem vezethető át.]
+[^24]: A 6. § (3) bekezdés d) pontját az 581/2021. (X. 12.) Korm. rendelet 3. §-a iktatta be.
+[^25]: A 6. § (4) bekezdése a 81/2015. (III. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 282/2017. (IX. 22.) Korm. rendelet 10. § e) pontja, az 581/2021. (X. 12.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
+[^26]: A 6. § (5) bekezdése a 351/2019. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^27]: A 6. § (6) bekezdése a 81/2015. (III. 31.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^28]: A 6. § (7) bekezdése a 81/2015. (III. 31.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
+[^29]: A 6. § (8) bekezdését az 581/2021. (X. 12.) Korm. rendelet 4. §-a iktatta be.
