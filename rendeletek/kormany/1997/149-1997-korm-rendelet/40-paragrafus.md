@@ -2,7 +2,7 @@
 
 ## eljárás
 
-40. §[^250] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbe fogadni szándékozó személy és a gyermek törvényes képviselőjének személyesen előterjesztett, egyező kérelmére indul. A gyermekvédelmi gyám a kérelmet írásban is előterjesztheti.
+40. §[^251] (1) Az örökbefogadás engedélyezése iránti eljárás az örökbe fogadni szándékozó személy és a gyermek törvényes képviselőjének személyesen előterjesztett, egyező kérelmére indul. A gyermekvédelmi gyám a kérelmet írásban is előterjesztheti.
 
 (2) Ha az örökbefogadandó gyermek szülője
 
@@ -16,13 +16,13 @@ d) cselekvőképtelen nagykorú személy vagy tekintetében a Ptk. 4:127. § (1)
 
 (3) Ha a (2) bekezdésben foglaltak miatt vagy más okból az örökbefogadandó gyermeknek nincs törvényes képviselője, a kijelölt gyámhivatal eseti gyám kirendelésével gondoskodik a törvényes képviselet ellátásáról.
 
-(4)[^251]
+(4)[^252]
 
 (5) A kijelölt gyámhivatal eljárása során a Ptk. 4:121. § (1) és (2) bekezdése alapján vizsgálja az örökbefogadás engedélyezése iránti kérelem benyújtásakor az örökbefogadó életkorát, valamint az örökbefogadó és az örökbefogadandó gyermek életkora közötti különbséget.
 
-(6)[^252] A rokon vagy nevelőszülő és a házastársa általi közös gyermekké történő örökbefogadás esetén a gyámhatóság a házastárs alkalmasságát is – a Ptk. 4:122. § (2) bekezdése alapján – az örökbefogadás engedélyezése iránti eljárás során állapítja meg.
+(6)[^253] A rokon vagy nevelőszülő és a házastársa általi közös gyermekké történő örökbefogadás esetén a gyámhatóság a házastárs alkalmasságát is – a Ptk. 4:122. § (2) bekezdése alapján – az örökbefogadás engedélyezése iránti eljárás során állapítja meg.
 
-(7)[^253] Ha a kijelölt gyámhivatal álláspontja szerint az egyéb feltételei fennállnak annak, hogy a Ptk. 4:121. § (4) bekezdése alapján egyedül örökbe fogadni szándékozó
+(7)[^254] Ha a kijelölt gyámhivatal álláspontja szerint az egyéb feltételei fennállnak annak, hogy a Ptk. 4:121. § (4) bekezdése alapján egyedül örökbe fogadni szándékozó
 
 a) nevelőszülő vagy
 
@@ -30,7 +30,7 @@ b) a gyermeket a szülő hozzájárulásával legalább egy éve saját háztart
 
 örökbefogadásra való alkalmasságát – az örökbefogadás engedélyezésére irányuló eljárás során – megállapítsa, az iratokat a javaslatával együtt megküldi a családpolitikáért felelős miniszternek, aki a 39. § (2d) bekezdésében foglaltak szerint jár el. A kijelölt gyámhivatal akkor engedélyezheti az örökbefogadást, ha a családpolitikáért felelős miniszter hozzájárult az örökbefogadásra való alkalmasság megállapításához.
 
-[^250]: A 40. § a 70/2014. (III. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^251]: A 40. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^252]: A 40. § (6) bekezdését a 325/2020. (VII. 1.) Korm. rendelet 7. §-a iktatta be.
-[^253]: A 40. § (7) bekezdését a 94/2021. (II. 27.) Korm. rendelet 3. §-a iktatta be.
+[^251]: A 40. § a 70/2014. (III. 13.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^252]: A 40. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § e) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^253]: A 40. § (6) bekezdését a 325/2020. (VII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^254]: A 40. § (7) bekezdését a 94/2021. (II. 27.) Korm. rendelet 3. §-a iktatta be.

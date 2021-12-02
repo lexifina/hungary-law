@@ -1,4 +1,4 @@
-91/B. §[^680] (1)[^681] A pénzfelhasználási terv figyelembevételével a gyámhivatal egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gyám kirendeléséről és ezzel egyidejűleg a természetben nyújtott családi pótlék fővárosi és megyei kormányhivatal részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) történő utalásának szükségességéről. A családi pótlék természetbeni formában történő nyújtásáról szóló határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza
+91/B. §[^681] (1)[^682] A pénzfelhasználási terv figyelembevételével a gyámhivatal egy határozatban dönt a családi pótlék természetbeni formában történő nyújtásáról, időtartamáról és módjáról, védelembe nem vett gyermek esetén a védelembe vétel elrendeléséről, az eseti gyám kirendeléséről és ezzel egyidejűleg a természetben nyújtott családi pótlék fővárosi és megyei kormányhivatal részére a kincstárban megnyitott családtámogatási folyószámlára (a továbbiakban: családtámogatási folyószámla) történő utalásának szükségességéről. A családi pótlék természetbeni formában történő nyújtásáról szóló határozat rendelkező része a 14. §-ban, valamint – ha a határozattal a védelembe vétel elrendelésére is sor kerül – a 87. §-ban foglaltakon kívül tartalmazza
 
 a) a családi pótlékban részesülő szülő személyazonosító adatait, a családi pótlékot folyósító szerv megnevezését,
 
@@ -12,9 +12,9 @@ e) a szülő vagy más törvényes képviselő kötelezését az eseti gyámmal 
 
 f) a védelembe vétel elrendelését, ha erre korábban nem került sor,
 
-g)[^682] fennálló védelembe vétel esetén a család- és gyermekjóléti központ felhívását az egyéni gondozási-nevelési tervnek a felülvizsgálatára és annak a határozat véglegessé válását követő harminc napon belül történő megküldésére,
+g)[^683] fennálló védelembe vétel esetén a család- és gyermekjóléti központ felhívását az egyéni gondozási-nevelési tervnek a felülvizsgálatára és annak a határozat véglegessé válását követő harminc napon belül történő megküldésére,
 
-h)[^683] a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a család helyzetét érintő lényeges körülmények megváltozása miatt bármikor kezdeményezheti a családi pótlék természetbeni formában történő nyújtásának felülvizsgálatát, felhívva a figyelmet a kérelem visszautasításának az Ákr. 46. § (1) bekezdés b) pontjában foglalt esetére,
+h)[^684] a szülő vagy más törvényes képviselő tájékoztatását arról, hogy a család helyzetét érintő lényeges körülmények megváltozása miatt bármikor kezdeményezheti a családi pótlék természetbeni formában történő nyújtásának felülvizsgálatát, felhívva a figyelmet a kérelem visszautasításának az Ákr. 46. § (1) bekezdés b) pontjában foglalt esetére,
 
 i) a szülő vagy más törvényes képviselő tájékoztatását az igénybe vehető szociális és gyermekvédelmi ellátásokról, támogatásokról, valamint azok igénybevételének módjáról,
 
@@ -26,17 +26,17 @@ jb) ha a családi pótlék természetbeni formában történő nyújtása a hat�
 
 jc) a családi pótlék természetbeni formában történő nyújtásának megszüntetése esetén a megszüntetést követő második hónapra járó családi pótlék kerül ismételten teljes egészében pénzben folyósításra.
 
-(2)[^684] A határozatban a családi pótlék természetbeni formában történő nyújtásának kezdő időpontjaként a döntést követő második hónap első napját, befejező időpontjaként a határozatban szereplő időtartamnak megfelelő hónap utolsó napját kell megjelölni. Az így meghatározott időtartam a Gyvt. 68/B. § (2) bekezdésében foglaltakra tekintettel a 6 hónapot nem haladhatja meg.
+(2)[^685] A határozatban a családi pótlék természetbeni formában történő nyújtásának kezdő időpontjaként a döntést követő második hónap első napját, befejező időpontjaként a határozatban szereplő időtartamnak megfelelő hónap utolsó napját kell megjelölni. Az így meghatározott időtartam a Gyvt. 68/B. § (2) bekezdésében foglaltakra tekintettel a 6 hónapot nem haladhatja meg.
 
-(3)[^685]
+(3)[^686]
 
-(4)[^686] A gyámhivatal a családi pótlék természetbeni formában történő nyújtásáról szóló, véglegesítő záradékkal ellátott határozatot a véglegessé válást követően közli a családtámogatási feladatkörében eljáró fővárosi és megyei kormányhivatallal (a továbbiakban: családtámogatási feladatkörében eljáró kormányhivatal).
+(4)[^687] A gyámhivatal a családi pótlék természetbeni formában történő nyújtásáról szóló, véglegesítő záradékkal ellátott határozatot a véglegessé válást követően közli a családtámogatási feladatkörében eljáró fővárosi és megyei kormányhivatallal (a továbbiakban: családtámogatási feladatkörében eljáró kormányhivatal).
 
-(5)[^687] A családi pótlék természetbeni formában történő nyújtása során a gyámhivatal és a családtámogatási feladatkörében eljáró kormányhivatal között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
+(5)[^688] A családi pótlék természetbeni formában történő nyújtása során a gyámhivatal és a családtámogatási feladatkörében eljáró kormányhivatal között elektronikus úton történik az adategyeztetés, különösen a folyósított családi pótlék összegéről és a családi pótlékot folyósító szervről.
 
-(6)[^688] A fővárosi és megyei kormányhivatal az átutalást követően gondoskodik a családtámogatási folyószámlára utalt családi pótléknak az eseti gyám felé történő kifizetéséről.
+(6)[^689] A fővárosi és megyei kormányhivatal az átutalást követően gondoskodik a családtámogatási folyószámlára utalt családi pótléknak az eseti gyám felé történő kifizetéséről.
 
-(7)[^689] A kirendelt eseti gyám folyamatosan gondoskodik a családtámogatási folyószámlára átutalt családi pótléknak a gyermek szükségleteire történő felhasználásáról. A családi pótlék felhasználható különösen
+(7)[^690] A kirendelt eseti gyám folyamatosan gondoskodik a családtámogatási folyószámlára átutalt családi pótléknak a gyermek szükségleteire történő felhasználásáról. A családi pótlék felhasználható különösen
 
 a) ruházat, tanszer, élelmiszer, tápszer, gyógyszer, gyógyászati segédeszköz, tanulóbérlet, a gyermek korának megfelelő készségfejlesztő eszközök természetbeni biztosítására,
 
@@ -46,13 +46,13 @@ c) gyermekétkeztetés térítési díjának befizetésére,
 
 d) a gyermek szabadideje hasznos eltöltésére.
 
-[^680]: A 91/B. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^681]: A 91/B. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^682]: A 91/B. § (1) bekezdés g) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 9. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^683]: A 91/B. § (1) bekezdés h) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 18. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^684]: A 91/B. § (2) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
-[^685]: A 91/B. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 10. § (11) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^686]: A 91/B. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 10. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^687]: A 91/B. § (5) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § h) pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^688]: A 91/B. § (6) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja, a 457/2017. (XII. 28.) Korm. rendelet 42. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^689]: A 91/B. § (7) bekezdését a 237/2010. (IX. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be, nyitó szövegrésze a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja szerint módosított szöveg.
+[^681]: A 91/B. §-t a 173/2009. (VIII. 29.) Korm. rendelet 32. §-a iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^682]: A 91/B. § (1) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^683]: A 91/B. § (1) bekezdés g) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 9. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^684]: A 91/B. § (1) bekezdés h) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 18. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^685]: A 91/B. § (2) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^686]: A 91/B. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 10. § (11) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^687]: A 91/B. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 10. § (7) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^688]: A 91/B. § (5) bekezdése a 237/2010. (IX. 13.) Korm. rendelet 15. § h) pontja, a 113/2011. (VII. 7.) Korm. rendelet 7. §-a, a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja, a 352/2012. (XII. 13.) Korm. rendelet 1. § (6) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 10. § (10) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^689]: A 91/B. § (6) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (7) bekezdésével megállapított, a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja, a 457/2017. (XII. 28.) Korm. rendelet 42. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^690]: A 91/B. § (7) bekezdését a 237/2010. (IX. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be, nyitó szövegrésze a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 62. pontja szerint módosított szöveg.
