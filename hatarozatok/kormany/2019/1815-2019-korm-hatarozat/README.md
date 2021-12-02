@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1815-30
 | 2020-08-17 | 2019-1815-30-22.3 | 1541/2020. (VIII. 17.) Korm. határozat |
 | 2021-06-30 | 2019-1815-30-22.4 | 1415/2021. (VI. 30.) Korm. határozat |
 | 2021-07-16 | 2019-1815-30-22.5 | 1415/2021. (VI. 30.) Korm. határozat |
+| 2021-12-02 | 2019-1815-30-22.6 | 1865/2021. (XII. 2.) Korm. határozat |
