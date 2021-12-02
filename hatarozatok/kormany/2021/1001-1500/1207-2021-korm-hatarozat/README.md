@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1207-30
 | --- | --- | --- |
 | 2021-04-29 | 2021-1207-30-22.1 | 1207/2021. (IV. 29.) Korm. határozat |
 | 2021-04-30 | 2021-1207-30-22.2 | 2010: CXXX. törvény |
+| 2021-12-02 | 2021-1207-30-22.3 | 1867/2021. (XII. 2.) Korm határozat |
