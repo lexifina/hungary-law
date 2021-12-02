@@ -24,4 +24,6 @@ b) részt vesz a feladatához kapcsolódó kormányzati egyeztetéseken.
 
 7. Ez a határozat 2021. december 1-jén lép hatályba.
 
-8. Hatályát veszti az Európa Kulturális Fővárosa 2023 Veszprém nyertes pályázati programja megvalósításának koordinálásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1669/2019. (XI. 29.) Korm. határozat.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

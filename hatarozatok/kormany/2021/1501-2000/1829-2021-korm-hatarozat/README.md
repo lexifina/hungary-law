@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1829-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-01 | 2021-1829-30-22.1 | 1829/2021. (XI. 30.) Korm. határozat |
+| 2021-12-02 | 2021-1829-30-22.2 | 2010: CXXX. törvény |
