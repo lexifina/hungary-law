@@ -16,6 +16,8 @@ a) az egészségügyi hatósági és igazgatási tevékenységről szóló 1991.
 
 6. 4/C. § (2) bekezdése,
 
+7.[^2] 6. § (1) bekezdés e) pontja,
+
 b) az Eütv.
 
 1. 47. § (4) bekezdése,
@@ -57,3 +59,5 @@ d) a Kbtv.
 e) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 23. §-a és
 
 f) a Legionella által okozott fertőzési kockázatot jelentő közegekre, illetve létesítményekre vonatkozó közegészségügyi előírásokról szóló 49/2015. (XI. 6.) EMMI rendelet 9. § (1) bekezdése
+
+[^2]: A 4. § a) pont 7. alpontját a 666/2021. (XII. 1.) Korm. rendelet 2. §-a iktatta be.
