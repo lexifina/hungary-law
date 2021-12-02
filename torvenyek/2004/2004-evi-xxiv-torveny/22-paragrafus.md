@@ -33,3 +33,5 @@ a) meghatározza a fegyver és lőszer forgalomba hozatalához, forgalmazásáho
 b) meghatározza az a) pontban felsorolt eszközök vizsgálatára vonatkozó mérési eljárásokat és eszközöket, a vizsgálat módját és követelményeit, a kiadandó tanúsítványra, szakvéleményre vonatkozó előírásokat, kijelölje a vizsgálatra, tanúsítvány, szakvélemény kiadására jogosult szervezetet, valamint meghatározza az (1a) bekezdés szerinti nemzeti kapcsolattartó pontként kijelölt szervezet által ellátandó feladatokat;
 
 c) kijelölje a lőfegyverek hatástalanításának végrehajtására jogosult szervezetet.
+
+(6) Felhatalmazást kap a természetvédelemért felelős miniszter, hogy rendeletben állapítsa meg a 18/J. § (2) bekezdése szerinti állatvédelmi tájékoztató szövegét.

@@ -12,7 +12,7 @@
 
 6. félautomata lőfegyver: olyan lőfegyver, amely minden lövés után automatikusan újratölt, és az elsütőbillentyű egyszeri működtetésével csak egy lövést képes leadni;
 
-7. flóbert rövid lőfegyver: olyan peremgyújtású egylövetű rövid tűzfegyver, melynek teljes hossza 28 cm-nél rövidebb, kizárólag flóberttöltény működtetésére alkalmas és az Európai Közösségek Tanácsának a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK irányelve szerint a ,,B'' engedélyköteles kategóriába tartozik;
+7. flóbert rövid lőfegyver: olyan peremgyújtású egylövetű rövid tűzfegyver, melynek teljes hossza 28 cm-nél rövidebb, kizárólag flóberttöltény működtetésére alkalmas és a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelve szerint a ,,B'' engedélyköteles kategóriába tartozik;
 
 8. flóberttöltény: olyan egybeszerelt töltény, melyet gyúelegyes töltényhüvelyből és lövedékből szereltek össze, lőport nem tartalmaz és hüvelyhossza nem haladja meg a 10,5 millimétert;
 

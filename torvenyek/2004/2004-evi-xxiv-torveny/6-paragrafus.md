@@ -20,6 +20,6 @@ a) a polgári felhasználású robbanóanyagok forgalmazására és ellenőrzés
 
 b) a 91/477/EGK tanácsi irányelv értelmében a tűzfegyverek Unión belüli transzferére vonatkozó információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2019. január 16-i (EU) 2019/686 bizottsági rendeletben,
 
-c) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelv 13. cikk (4) bekezdésében
+c) az (EU) 2021/555 európai parlamenti és tanácsi irányelvnek megfelelően a bizonyos tűzfegyverek megszerzésére és tartására vonatkozó engedélyek megtagadásával kapcsolatos információk elektronikus eszközökkel történő szisztematikus cseréjére vonatkozó részletes szabályok meghatározásáról szóló, 2021. május 21-i (EU) 2021/1423 bizottsági rendeletben előírtak szerint a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelv 18. cikk (4) bekezdésében
 
 meghatározott hatósági feladatokat.
