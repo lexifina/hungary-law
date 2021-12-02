@@ -1,0 +1,1 @@
+99. § Az 52. § a nemzetközi védelem megadására és visszavonására vonatkozó közös eljárásokról (átdolgozás) szóló, 2013. június 26-i 2013/32/EU európai parlamenti és tanácsi irányelv 46. cikk (11) bekezdésének való megfelelést szolgálja.

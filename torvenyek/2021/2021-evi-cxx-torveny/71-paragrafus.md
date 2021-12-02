@@ -1,0 +1,3 @@
+71. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény a következő 361/A. §-sal egészül ki:
+
+„361/A. § A 45. § (4) bekezdése, valamint a 287/P. § (4a) bekezdése szerinti tájékoztatási kötelezettség a rendvédelmi szervet a 2022. július 31-én szolgálati viszonyban vagy rendvédelmi igazgatási szolgálati jogviszonyban állók vonatkozásában csak a hivatásos állomány tagja vagy a rendvédelmi igazgatási alkalmazott erre irányuló kérelme esetén terheli. A kérelem előterjesztése esetén a rendvédelmi szerv az írásbeli tájékoztatási kötelezettségét hatvan napon belül teljesíti.”

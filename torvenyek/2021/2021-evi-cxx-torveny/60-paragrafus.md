@@ -1,0 +1,1 @@
+60. § Az államháztartásról szóló 2011. évi CXCV. törvény 48/B. § (1) bekezdés b) pontjában a „polgármester,” szövegrész helyébe a „polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – ,” szöveg lép.
