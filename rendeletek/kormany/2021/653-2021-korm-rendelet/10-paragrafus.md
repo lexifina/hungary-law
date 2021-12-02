@@ -1,3 +1,3 @@
-## 9. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: R1.) [Az Áht. 9/A. §-ához] alcíme a következő 6/A. §-sal egészül ki:
+## 9. §[^1]
 
-## „6/A. § Ha a Kormány rendelete a járványügyi okból kihirdetett veszélyhelyzet vagy az egészségügyi válsághelyzettel bevezetett járványügyi készültség (a továbbiakban: járványügyi készültség) idejére az egészségügyi szolgáltatás irányításáért felelős szerv feletti irányítást gyakorló miniszterként nem az egészségügyért felelős minisztert jelöli ki, az 1. melléklet I. pont 19. alpontját azzal az eltéréssel kell alkalmazni, hogy a központi költségvetés XX. fejezet 10. cím 1. alcíme tekintetében a fejezetet irányító szerv, valamint annak vezetője a Kormány rendeletében kijelölt miniszter és az általa vezetett minisztérium.”
+[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
