@@ -2,7 +2,7 @@
 
 a) az, aki a támogatási döntést meghozta vagy aki a támogatási döntés meghozatalában döntés-előkészítőként részt vett,
 
-b) az, aki a támogatási döntés időpontjában a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester, regionális fejlesztési ügynökség vezető tisztségviselője,
+b) az, aki a támogatási döntés időpontjában a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
 
 c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
 
@@ -22,4 +22,4 @@ d) a természetes személyeknek a méltánylást igénylő élethelyzetükre fig
 
 (3) Az (1) bekezdés e) pontja alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány vagyonellenőre.
 
-(4) Az (1) bekezdés b)–e) pontját nem kell alkalmazni a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.
+(4)

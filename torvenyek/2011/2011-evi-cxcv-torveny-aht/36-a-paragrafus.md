@@ -1,0 +1,1 @@
+36/A. § Az egészségügyről szóló törvény szerinti városi intézmények egyes tárgyévi vagy költségvetési éven túli kötelezettségvállalásainak megtételéhez az irányító megyei intézmény előzetes jóváhagyása szükséges. Az előzetes jóváhagyás alá tartozó kötelezettségvállalások körét és a jóváhagyás feltételeit a Kormány rendeletben határozza meg.
