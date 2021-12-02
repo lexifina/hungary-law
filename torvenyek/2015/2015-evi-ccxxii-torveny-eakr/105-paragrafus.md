@@ -10,7 +10,7 @@ a) az elektronikus ügyintézés és az elektronikus kapcsolattartás részletes
 
 b) az elektronikus ügyintézési szolgáltatásnak és a központi elektronikus ügyintézési szolgáltatásnak az elektronikus ügyintézést nem biztosító szerv által történő felhasználása feltételeit, a felhasználás során a Felügyelet feladatát és eljárását, valamint a szolgáltatás használatáért számítható díj megállapításának módját,
 
-c) a szabályozott elektronikus ügyintézési szolgáltatások és a központi elektronikus ügyintézési szolgáltatások részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,
+c) e törvényben nem meghatározott szabályozott és központi elektronikus ügyintézési szolgáltatásokat, ezek részletes követelményeit, a szolgáltatásnyújtás részletes eljárási rendjét, a szolgáltatás igénybevételének részletes szabályait, a szabályozott elektronikus ügyintézési szolgáltatásnyújtásra vonatkozó szervezési és a szolgáltató által teljesítendő személyi és pénzügyi feltételeket, a szabályozott elektronikus ügyintézési szolgáltatás bejelentésével, valamint a Felügyelet általi bírság kiszabásával kapcsolatos rendelkezéseket és a bírság mértékét,
 
 d) az elektronikus ügyintézést biztosító szerv azonosításával kapcsolatos részletes követelményeket,
 

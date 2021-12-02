@@ -13,3 +13,5 @@
 (5) Nincs helye elektronikus ügyintézésnek olyan eljárás vagy eljárási cselekmény esetében, ahol ezt nemzetközi szerződés vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa kizárja.
 
 (6) Nincs helye elektronikus ügyintézésnek olyan irat, okirat vagy más beadvány esetében, amely minősített adatot tartalmaz.
+
+(7) Diplomáciai ügyekben – ideértve a sportdiplomáciai ügyeket – az e törvény szerinti elektronikus ügyintézés szabályai – ha törvény eltérően nem rendelkezik – nem alkalmazandóak.
