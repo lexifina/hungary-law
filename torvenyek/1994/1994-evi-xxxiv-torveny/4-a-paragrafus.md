@@ -22,4 +22,4 @@ e) tisztjelöltekből
 
 (5) A terrorizmust elhárító szerv személyi állománya hivatásos állományú rendőrökből, vezényelt hivatásos állományúakból, valamint rendvédelmi igazgatási alkalmazottakból és munkavállalókból állhat.
 
-(6) Az idegenrendészeti szerv személyi állománya hivatásos állományú rendőrökből, rendvédelmi igazgatási alkalmazottakból, valamint munkavállalókból állhat.
+(6) Az idegenrendészeti szerv személyi állománya hivatásos állományú rendőrökből, rendvédelmi igazgatási alkalmazottakból, munkavállalókból, valamint tisztjelöltekből állhat.
