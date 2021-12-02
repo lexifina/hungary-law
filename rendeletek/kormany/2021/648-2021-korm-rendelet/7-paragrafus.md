@@ -1,3 +1,5 @@
-## 6. § A Magyarország biztonsági érdekét sértő külföldi befektetések ellenőrzéséről szóló 2018. évi LVII. törvény végrehajtásáról szóló 246/2018. (XII. 17.) Korm. rendelet 1. melléklete a 3. melléklet szerint módosul.
+## 6. §[^5]
 
 ## 3. Záró rendelkezések
+
+[^5]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

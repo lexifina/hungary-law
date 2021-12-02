@@ -1,1 +1,3 @@
-## 3. § A Magyar Bányászati és Földtani Szolgálatról szóló 161/2017. (VI. 28.) Korm. rendelet 3. melléklete az 1. melléklet szerint módosul.
+## 3. §[^2]
+
+[^2]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
