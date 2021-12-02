@@ -1,4 +1,4 @@
-95/B. §[^426] (1) A támogatási szerződés 95. § (1) bekezdése szerinti módosítását a támogató vagy a kedvezményezett egyoldalúan, a támogató és a kedvezményezett közösen is kezdeményezhetik.
+95/B. §[^427] (1) A támogatási szerződés 95. § (1) bekezdése szerinti módosítását a támogató vagy a kedvezményezett egyoldalúan, a támogató és a kedvezményezett közösen is kezdeményezhetik.
 
 (2) A támogató a támogatási szerződésben meghatározott támogatási célt – ha az a kedvezményezett hátrányára történik – csak akkor módosíthatja, ha erről a felek a támogatási szerződésben megállapodtak, vagy a támogató általános szerződési feltételt alkalmaz, és az általános szerződési feltételben a támogató ezt kikötötte. A támogatói okiratban meghatározott támogatási cél támogató részéről történő módosítására az általános szerződési feltételekre történő kikötés szabálya irányadó.
 
@@ -10,4 +10,4 @@
 
 (6) A támogatási szerződés (2)–(4) bekezdés szerinti módosítása esetén a fel nem használt költségvetési támogatás összege az Áht. 53/A. §-ában és a 96. §-ában foglaltaktól eltérően nem minősül a támogatás jogosulatlan igénybevételének, ha azt a kedvezményezett – a támogató döntése alapján – egy összegben vagy részletekben visszatéríti.
 
-[^426]: Az Ávr. 95/B. §-át a 445/2020. (X. 1.) Korm. rendelet 11. §-a iktatta be.
+[^427]: Az Ávr. 95/B. §-át a 445/2020. (X. 1.) Korm. rendelet 11. §-a iktatta be.
