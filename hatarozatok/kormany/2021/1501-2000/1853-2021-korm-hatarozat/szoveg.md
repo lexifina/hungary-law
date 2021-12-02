@@ -56,20 +56,6 @@ Határidő: a támogatói okirat kiadásakor
 
 1.9. az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdésében biztosított jogkörében eljárva úgy határoz, hogy a Fejlesztés előkészítése és megvalósítása során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.
 
-2. Az 1383/2015. (VI. 12.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-[A Kormány 2015. május 26. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Székesfehérvár Megyei Jogú Város Önkormányzatával. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtása érdekében]
-
-„2. támogatja a város oktatási célú fejlesztési terveit, ennek keretében
-
-a) a Középiskolai Campus kialakítását, valamint
-
-b) a komplex oktatási célú fejlesztések megvalósítását, melynek
-
-érdekében felhívja az emberi erőforrások miniszterét és a pénzügyminisztert, hogy a Székesfehérvár Megyei Jogú Város Önkormányzata által előkészített fejlesztési koncepciót terjesszék a Kormány elé;
-
-Felelős: emberi erőforrások minisztere
-
-pénzügyminiszter
-
-Határidő: a fejlesztési igény ütemében”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
