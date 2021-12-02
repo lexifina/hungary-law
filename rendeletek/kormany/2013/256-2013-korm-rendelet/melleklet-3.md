@@ -558,7 +558,7 @@
 
 | 279. | Szent Erzsébet Mórahalmi Fürdőgyógyászati Nonprofit Korlátolt Felelősségű Társaság | Mórahalom |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^98]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^99]
 
 ## Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
@@ -638,4 +638,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^98]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^99]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
