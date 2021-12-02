@@ -32,9 +32,9 @@ m) a (4) bekezdés szerinti tényt vagy a 29/G. § (1) bekezdésében foglalt es
 
 (2a) A magyar állampolgár részére kiállított állandó személyazonosító igazolvány – a polgár kérelmére – vizuálisan észlelhető módon tartalmazza a polgár származási helyét.
 
-(2b) A nyilvántartást kezelő szerv a (2a) bekezdés szerinti kérelmet a személyazonosító igazolvány kiadására irányuló eljárás megindításával egyidejűleg továbbítja az illetékes anyakönyvvezetőhöz vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szervhez.
+(2b) Ha az elektronikus anyakönyv nem tartalmazza a polgár származási helyét, az állandó személyazonosító igazolványra a polgár kérelmében megjelölt származási hely kerül feltüntetésre és a nyilvántartást kezelő szerv a kérelmet a személyazonosító igazolvány kiadására irányuló eljárás megindításával egyidejűleg az elektronikus anyakönyvi nyilvántartás informatikai rendszere útján továbbítja az illetékes anyakönyvvezetőhöz vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szervhez.
 
-(2c) Ha az anyakönyv nem tartalmazza a polgár származási helyét, az állandó személyazonosító igazolványra a polgár kérelmében megjelölt származási hely kerül feltüntetésre.
+(2c)
 
 (3) A 29/G. § (1) bekezdésében foglalt eset kivételével a magyar állampolgár részére kiállított állandó személyazonosító igazolvány tartalmazza a (2) bekezdés a), c), d), f), i) és j) pontjában meghatározott adatokból képzett, a polgár és a személyazonosító igazolvány azonosítását lehetővé tevő, gépi olvasásra alkalmas adatsort.
 
@@ -111,6 +111,8 @@ e) a kiadásának okát.
 (16) A polgár az elektronikus azonosítást követően elektronikus kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye, illetve magánútlevele, második magánútlevele, szolgálati útlevele, hajós szolgálati útlevele pótlását, ha az adataiban nem következett be változás, ideiglenes okmány kiadására nincs szükség, és a magánútlevél, a második magánútlevél, illetve hajós szolgálati útlevél esetében az érintett hozzájárulása alapján az útiokmány-nyilvántartás tartalmazza az érintett azonosítását valamely fizikai tulajdonságának rögzítésével lehetővé tevő módon előállított személyes adatát.
 
 (16a) A polgár elektronikus azonosítást követően elektronikus kapcsolattartás útján kezdeményezheti az elvesztett, eltulajdonított vagy megsemmisült állandó személyazonosító igazolványának pótlását annak érvényességi idején belül azzal – az okmányazonosító, a kiállításának ideje, a 29. § (3) bekezdés szerinti gépi olvasásra alkalmas adatsor, a 29. § (5) bekezdés szerinti kódszám, a 29. § (6) bekezdés szerinti adattároló kód, a személyazonosító igazolvány elektronikus egyedi azonosítója és a vészhelyzet esetén értesítendő telefonszám kivételével – megegyező adattartalommal.
+
+(16b) Az állandó személyazonosító igazolvány (16a) bekezdés szerinti pótlása esetén az igazolványon az a származási hely kerül feltüntetésre, amely az elvesztett, eltulajdonított vagy megsemmisült állandó személyazonosító igazolványon szerepelt.
 
 (17) A (18)–(20) bekezdésben meghatározottak szerint a szolgáltatásazonosító kezelésére jogosult szerv vagy személy valamely jogosultság fennállását elektronikus úton a tároló elem olvasásával, felhasználói közreműködés – további kódok megadása – nélkül a szolgáltatásazonosítóhoz kötötten rögzítheti, a jogosultság fennállását ellenőrizheti, a szolgáltatásazonosítót kizárólag e célból megismerheti.
 
