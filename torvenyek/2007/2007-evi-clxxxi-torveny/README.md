@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-181-00-00
 | 2019-07-10 | 2019. évi LXVI. törvény | 2007-181-00-00.12 |
 | 2021-01-01 | 2020. évi LXXVI. törvény | 2007-181-00-00.13 |
 | 2021-09-30 | 2021. évi CIII. törvény | 2007-181-00-00.14 |
+| 2021-12-02 | 2021. évi CXX. törvény | 2007-181-00-00.15 |

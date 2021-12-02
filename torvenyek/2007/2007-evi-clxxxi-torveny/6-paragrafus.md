@@ -18,7 +18,7 @@ fb) amely a pályázat kiírását megelőző öt évben párttal közös jelöl
 
 g) akinek a részvételből való kizártságának tényét a 13. § alapján a honlapon közzétették.
 
-(1a) Nem kell alkalmazni az (1) bekezdés b)–e) pontját a 2000 fő vagy ez alatti lakosságszámú települések polgármestere tekintetében a Magyar Falu Program keretében nyújtott támogatás esetén.
+(1a)
 
 (2) Az (1) bekezdés e) pontját nem kell alkalmazni a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökségre, ha a támogatás célja a fejlesztési támogatások elosztása intézményrendszere működésének támogatása, továbbá olyan támogatás, amelynek előkészítésében, lebonyolításában a regionális fejlesztési ügynökség nem vesz részt, illetve a támogatással kapcsolatos döntésre befolyással nem rendelkezik.
 
