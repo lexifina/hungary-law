@@ -1,4 +1,4 @@
-## 22. § Hatályát veszti az állami célú légiközlekedésben folytatott szakszolgálati tevékenység repülőegészségi feltételeiről szóló 22/2005. (VI. 14.) HM–EüM együttes rendelet.
+## 22. §[^1]
 
 1. melléklet a 20/2021. (X. 6.) HM rendelethez
 
@@ -1569,3 +1569,5 @@ J. NŐGYÓGYÁSZATI BETEGSÉGEK
 | 15. |  | E | E | E | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS | KLGS |
 
 | 16. | Dysmenorrhoea esetében a gyógykezelés eredményétől függően nőgyógyászati vélemény alapján különleges elbírálással véleményezhető az alkalmasság. Abban az esetben, ha panasz- és tünetmentességhez rendszeres gyógyszerszedés szükséges, meg kell vizsgálni, hogy a készítmény szedése okoz-e olyan mellékhatást, mely káros befolyást gyakorol a feladat ellátásában. |
+
+[^1]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
