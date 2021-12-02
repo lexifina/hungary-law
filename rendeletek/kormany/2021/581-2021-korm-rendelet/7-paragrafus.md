@@ -1,4 +1,8 @@
-## 6. §[^6]
+## 6. §[^6] A Rendelet1 8. § (1) bekezdése a következő g) ponttal egészül ki:
+
+## (Az ösztöndíjas szerződésnek tartalmaznia kell:)
+
+## „g) az 5. § l) pontja szerinti kötelező egészségügyi protokollban foglalt kötelezettségeket.”
 
 ## 7. § A Rendelet1
 
@@ -10,15 +14,15 @@ c)[^9]
 
 d)[^10]
 
-e)[^11]
+e)[^11] 5. § k) pontjában az „eseteit,” szövegrész helyébe az „eseteit, valamint” szöveg,
 
-f)[^12]
+f)[^12] 6. § (3) bekezdés c) pontjában az „ösztöndíjprogramban,” szövegrész helyébe az „ösztöndíjprogramban, és” szöveg,
 
 g)[^13]
 
 h)[^14]
 
-i)[^15]
+i)[^15] 8. § (1) bekezdés f) pontjában a „rendjét.” szövegrész helyébe a „rendjét, valamint” szöveg,
 
 j)[^16]
 
