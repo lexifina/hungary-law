@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1001-30
 | 2018-03-09 | 2013-1001-30-29.9 | 1001/2018. (III. 8.) AB Tü. határozat |
 | 2020-12-03 | 2013-1001-30-29.10 | 1009/2020. (XII. 2.) AB Tü. határozat |
 | 2021-05-01 | 2013-1001-30-29.11 | 1003/2021. (IV. 7.) AB Tü. határozat |
+| 2021-12-02 | 2013-1001-30-29.12 | 1001/2014. (III. 20.) AB Tü. határozat |
