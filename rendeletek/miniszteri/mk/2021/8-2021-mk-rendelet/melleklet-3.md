@@ -66,16 +66,6 @@
 
 | 2. | Lovasterapeuta pszichológiai lovasterápia szakágon – Lovasterapeuta képzés pszichológiai lovasterápia szakágon | E-000793/2014 | 2014. 10. 15. | E-00793/2014/B002 | 2014. 10. 06. | NSZFH – Nemzeti Szakképzési és Felnőttképzési Hivatal |
 
-3. melléklet a 8/2021. (XI. 30.) MK rendelethez
+3. melléklet a 8/2021. (XI. 30.) MK rendelethez[^3]
 
-1. Az R. 1. Melléklet A) alcím 1. pont 1.3. alpontja helyébe a következő rendelkezés lép:
-
-(Általános elvárások a lovakkal szemben)
-
-## „1.3. A szolgáltatásban újonnan részt vevő lovak esetében ismert származás”
-
-2. Az R. 1. Melléklet B) alcím 1. pont 1.5. alpontja helyébe a következő rendelkezés lép:
-
-(Általános elvárások a lovakkal szemben)
-
-„1.5. A szolgáltatásban újonnan részt vevő lovak esetében ismert származás”
+[^3]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

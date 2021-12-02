@@ -1,1 +1,3 @@
-28. § Az R. 1. Melléklete a 3. melléklet szerint módosul.
+28. §[^2]
+
+[^2]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

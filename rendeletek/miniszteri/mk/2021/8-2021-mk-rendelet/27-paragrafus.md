@@ -1,1 +1,3 @@
-27. § Az R. 2. § (1) bekezdésében a „Magyar Kereskedelmi Engedélyezési Hivatalnak” szövegrész helyébe a „Budapest Főváros Kormányhivatalának” szöveg lép.
+27. §[^1]
+
+[^1]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
