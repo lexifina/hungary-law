@@ -1,5 +1,3 @@
-## Az egészségügyi szakdolgozói pótlék mértéke
-
 |  | A | B | C | D |
 
 | 1. | Gyakorlati idő (év) | Középfokú végzettséghez kötött beosztás vagy munkakör | Emeltszintű szakmai végzettséghez kötött beosztás vagy munkakör | Felsőfokú végzettséghez kötött beosztás vagy munkakör |
@@ -14,7 +12,7 @@
 
 3. melléklet a 37/2021. (XI. 25.) KKM rendelethez
 
-## Az egészségügyi szakdolgozói végzettség szintjei
+Az egészségügyi szakdolgozói végzettség szintjei
 
 1. Középfokú végzettséghez kötött szolgálati beosztás vagy munkakör
 
