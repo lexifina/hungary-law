@@ -1,4 +1,4 @@
-## lép.
+## 8. §[^3]
 
 1. melléklet a 27/2021. (VIII. 9.) BM rendelethez
 
@@ -89,3 +89,5 @@
 2.18. egészségügyi operátor
 
 2.19. gyógymasszőr
+
+[^3]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
