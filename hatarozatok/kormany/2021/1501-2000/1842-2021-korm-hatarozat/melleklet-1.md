@@ -18,7 +18,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 1. melléklet 4. pontjában foglalt táblázat C:10 mezőjében a „29,83” szövegrész helyébe a „31,21” szöveg lép.
+## 4.[^1]
 
 1. melléklet az 1842/2021. (XI. 30.) Korm. határozathoz
 
@@ -27,3 +27,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos összköltség (forint) | Az EFOP-4. prioritás keretösszegéből történő többlettámogatás legfeljebb (forint) | A 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján a XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet EFOP hazai társfinanszírozás terhére finanszírozandó összeg (forint) | Megnövelt összköltség legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-4.2.1-16- 2017-00015 | A Debreceni Egyetem felsőoktatási infrastruktúra fejlesztése a gyakorlati és szakmai képzés megújítása érdekében | Debreceni Egyetem | 6 225 997 224 | 1 374 002 776 | 717 964 252 | 8 317 964 252 | A Debreceni Egyetemen elsősorban a Klinikai Központ, továbbá az Általános Orvosi, Fogorvostudományi, Egészségügyi, Népegészségügyi, Gyógyszerésztudományi, Mezőgazdaság, Élelmiszertudományi és Környezetgazdálkodási, Műszaki, Természettudományi, Gyermeknevelési és Felnőttképzési, Bölcsészettudományi karok infrastruktúrájának és eszközállományának fejlesztése. |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
