@@ -20,4 +20,9 @@ i) az ösztöndíjas jogviszony megszűnésének és megszüntetésének eseteit
 
 j) a kiválasztási eljárásban közreműködő testület működési rendjét,
 
-k) a pályázók személyes adatainak kezelésére vonatkozó hozzájáruláshoz szükséges mintanyilatkozat szövegét.
+k)[^5] a pályázók személyes adatainak kezelésére vonatkozó hozzájáruláshoz szükséges mintanyilatkozat szövegét és
+
+l)[^6] a kötelező egészségügyi protokollt.
+
+[^5]: A 6. § k) pontja az 581/2021. (X. 12.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^6]: A 6. § l) pontját az 581/2021. (X. 12.) Korm. rendelet 11. §-a iktatta be.
