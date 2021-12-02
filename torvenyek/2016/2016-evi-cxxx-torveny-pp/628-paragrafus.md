@@ -35,5 +35,3 @@ l) – az adópolitikáért felelős miniszterrel egyetértésben – az ítéle
 m) – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben – a munkavállalói költségkedvezmény vonatkozásában az 525. §-ban meghatározott mértékre, valamint a költségkedvezmény érvényesítésének eljárási szabályaira,
 
 n) az eljárás anyagát rögzítő felvétel hitelesítésére, megtekintésére, illetve meghallgatására, az arról történő másolat készítésére és kiadására, valamint a felvétel tárolására, őrzésére és törlésére
-
-vonatkozó részletes szabályokat rendeletben állapítsa meg.
