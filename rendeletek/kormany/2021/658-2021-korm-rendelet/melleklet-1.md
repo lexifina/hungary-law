@@ -1,7 +1,5 @@
 ## 15. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 658/2021. (XI. 30.) Korm. rendelethez
+1. melléklet a 658/2021. (XI. 30.) Korm. rendelethez[^9]
 
-A 444/2020. (IX. 30.) Korm. rendelet 2. melléklet 4. pontja helyébe a következő rendelkezés lép:
-
-„4. a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet 1. mellékletében foglalt táblázat 10. és 11. sora”
+[^9]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
