@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-101-00-00
 | 2021-10-07 | 3/2021. (XI. 8.) EMMI határozat | 2021-101-00-00.19 |
 | 2021-10-08 | 2010. évi CXXX. törvény | 2021-101-00-00.20 |
 | 2021-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-101-00-00.21 |
+| 2021-12-02 | 2010. évi CXXX. törvény | 2021-101-00-00.22 |
