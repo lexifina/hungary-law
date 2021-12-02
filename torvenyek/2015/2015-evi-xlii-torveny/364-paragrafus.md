@@ -1,4 +1,4 @@
-364. § (1) Ez a törvény a 340. és 341. §-ban foglalt felhatalmazások alapján kiadott rendeletekkel együtt
+364. § (1) Ez a törvény a felhatalmazása alapján kiadott rendeletekkel együtt
 
 1. a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
 

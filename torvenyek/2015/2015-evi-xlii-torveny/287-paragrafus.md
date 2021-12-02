@@ -6,6 +6,8 @@
 
 (3) A tisztjelölt szolgálatteljesítése során – a 285. § (4) bekezdésében meghatározott képzettségi szintet meghaladó – intézkedésre önállóan nem jogosult. Az alapképzést követően – az eskütétel után – szakmai gyakorlaton vagy elrendelt szolgálati tevékenység során szolgálati fegyvert, felszerelést a rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
 
+(3a) A (3) bekezdésben foglaltaktól eltérően a rendőrség tisztjelöltje az őt ösztöndíj szerződéssel foglalkoztató rendvédelmi szerven kívül más rendőrségi szervnél is teljesítheti a szakmai gyakorlatát. Ebben az esetben a szakmai gyakorlat során a tisztjelölt szolgálati fegyvert, felszerelést a szakmai gyakorlatot biztosító rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.
+
 (4) A tisztjelölt szolgálatteljesítése képzési időnek minősül, amelyet úgy kell megállapítani, hogy az a tanulmányi kötelezettségeinek teljesítését ne veszélyeztesse.
 
 (5) A tisztjelölt kizárólag a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló törvényben meghatározott szolgálati feladat ellátására vezényelhető, továbbá a Rendvédelmi Tagozat állományában rajparancsnoki vagy szakaszparancsnoki gyakorló feladatok ellátására jelölhető ki.

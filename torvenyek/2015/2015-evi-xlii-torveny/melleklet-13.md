@@ -87,5 +87,3 @@ IV. A jelenlegi igazgatási jogviszony adatai
 ## – a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
 
 ## – a foglalkoztató szerv neve, székhelye, statisztikai számjele
-
-## – e szervnél az igazgatási jogviszony kezdete
