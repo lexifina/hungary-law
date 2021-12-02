@@ -2,4 +2,4 @@
 
 a) 29. § (2c) bekezdése,
 
-b) 29/E. § (3b) bekezdése.
+b)
