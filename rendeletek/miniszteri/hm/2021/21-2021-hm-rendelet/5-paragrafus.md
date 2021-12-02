@@ -1,3 +1,3 @@
-## 4. § A Rendelet 28. §-a a következő (9) bekezdéssel egészül ki:
+## 4. §[^5]
 
-## „(9) A mélységi és speciális felderítő, különleges műveleti, és légialkalmazású katona jelöltnél nem kell repülőorvosi bizottságnak (a továbbiakban: ROB) vizsgálatot (gerincröntgen) végeznie. Az egészségügyi vizsgálat során nyilatkoznia kell az érintett személynek, hogy megértette és elfogadta annak kockázatát, hogy rosszul kivitelezett ejtőernyős ugrást követően olyan baleseti jellegű sérülést szenvedhet, amely maradandó egészségkárosodást okozhat, és akár a beosztás elvesztését is maga után vonhatja. Nyilatkozat hiányában a beosztás csak alkalmas minősítéssel záruló ROB-vizsgálatot követően tölthető be.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 2. § A Rendelet 20. § (3) bekezdése a következő d) ponttal egészül ki:
+## 2. §[^3]
 
-## (Az egészségi alkalmasság minősítéséhez a következő leleteket, valamint okmányokat kell benyújtani:)
-
-## „d) nyilatkozat a mélységi és speciális felderítő, különleges műveleti, légialkalmazású katona által betölthető beosztásra jelentkező esetén, a 20. melléklet szerint.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

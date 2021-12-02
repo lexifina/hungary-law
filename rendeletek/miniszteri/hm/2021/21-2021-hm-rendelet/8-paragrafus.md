@@ -1,1 +1,3 @@
-## 7. § Hatályát veszti a Rendelet 65. § (3) bekezdésében és 66. § (3) bekezdésében az „az MROB” szövegrész.
+## 7. §[^8]
+
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
