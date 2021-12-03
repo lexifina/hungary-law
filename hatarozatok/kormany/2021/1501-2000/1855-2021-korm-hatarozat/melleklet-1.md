@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Rászoruló Személyeket Támogató Operatív Program éves fejlesztési keretének megállapításáról szóló 1347/2016. (VII. 6.) Korm. határozat
-
-## a) 1. mellékletében foglalt táblázat C:3 mezőjében a „6,141” szövegrész helyébe a „6,300” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:4a mezőjében a „0,800” szövegrész helyébe a „0,960” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1855/2021. (XII. 1.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Hatályos támogatási szerződés szerinti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt összköltség (forint) | Projekt rövid bemutatása |
 
 | 2. | RSZTOP-2.1.2-21- 2021-00001 | Hátrányos helyzetben élő óvodáskorú gyermekek támogatása az RSZTOP keretében | Magyar Máltai Szeretetszolgálat Egyesület | 800 000 000 | 800 000 000 | 159 718 527 | 959 718 527 | Alapvető fogyasztási cikkek (óvodai felszereléseket tartalmazó csomagok) eljuttatása a program szerint beazonosított leginkább rászoruló személyek részére. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
