@@ -4,6 +4,6 @@ a)
 
 b)
 
-c) 364. § (1) bekezdés nyitó szövegrészében a „340. és 341. §-ban foglalt felhatalmazások” szövegrész helyébe a „felhatalmazása” szöveg
+c)
 
 lép.

@@ -1,3 +1,1 @@
-67. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 287. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A (3) bekezdésben foglaltaktól eltérően a rendőrség tisztjelöltje az őt ösztöndíj szerződéssel foglalkoztató rendvédelmi szerven kívül más rendőrségi szervnél is teljesítheti a szakmai gyakorlatát. Ebben az esetben a szakmai gyakorlat során a tisztjelölt szolgálati fegyvert, felszerelést a szakmai gyakorlatot biztosító rendvédelmi szerv számára meghatározott szabályok szerint viselhet és a jogszabályok előírásainak megfelelően használhat.”
+67. §

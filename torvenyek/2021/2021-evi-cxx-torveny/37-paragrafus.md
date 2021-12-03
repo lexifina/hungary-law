@@ -1,1 +1,1 @@
-37. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 2. § 7. pontjában az „az Európai Közösségek Tanácsának a fegyverek megszerzésének és tartásának ellenőrzéséről szóló 91/477/EGK irányelve” szövegrész helyébe az „a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelve” szöveg lép.
+37. §
