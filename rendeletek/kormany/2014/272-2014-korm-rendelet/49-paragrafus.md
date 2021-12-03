@@ -1,8 +1,8 @@
-49. § (1)[^293] Az európai uniós források felhasználásáért felelős miniszter az egységes formai és tartalmi követelmények – ennek részeként horizontális követelmények –, a felhívások közötti összhang biztosítása, valamint az állami támogatási szabályoknak való megfelelés céljából minőségbiztosítás keretében megvizsgálja a felhívást. Ha az irányító hatóság a felhívást és az ahhoz tartozó mellékleteket nem
+49. § (1)[^294] Az európai uniós források felhasználásáért felelős miniszter az egységes formai és tartalmi követelmények – ennek részeként horizontális követelmények –, a felhívások közötti összhang biztosítása, valamint az állami támogatási szabályoknak való megfelelés céljából minőségbiztosítás keretében megvizsgálja a felhívást. Ha az irányító hatóság a felhívást és az ahhoz tartozó mellékleteket nem
 
 a) e rendelettel,
 
-b)[^294]
+b)[^295]
 
 c) az állami támogatási szabályokkal,
 
@@ -10,18 +10,18 @@ d) az európai uniós források felhasználásáért felelős miniszter által k
 
 e) az adott program, illetve más program valamely felhívásával,
 
-f)[^295] vonatkozó egyéb jogszabályokkal, valamint kötelezően alkalmazandó európai uniós jogi aktussal
+f)[^296] vonatkozó egyéb jogszabályokkal, valamint kötelezően alkalmazandó európai uniós jogi aktussal
 
 összhangban készíti el, az európai uniós források felhasználásáért felelős miniszter a felhívást tíz napon belül visszaküldi átdolgozás céljából az irányító hatóság részére.
 
-(2)[^296] Az európai uniós források felhasználásáért felelős miniszter egyetértése esetén, illetve a felhívás átdolgozását követően az irányító hatóságot tájékoztatja, és a megküldött felhívást – kivéve a technikai segítségnyújtási projektek felhívását – az éves fejlesztési keretben foglalt meghirdetési időpontban közzéteszi a www.palyazat.gov.hu oldalon.
+(2)[^297] Az európai uniós források felhasználásáért felelős miniszter egyetértése esetén, illetve a felhívás átdolgozását követően az irányító hatóságot tájékoztatja, és a megküldött felhívást – kivéve a technikai segítségnyújtási projektek felhívását – az éves fejlesztési keretben foglalt meghirdetési időpontban közzéteszi a www.palyazat.gov.hu oldalon.
 
 (3) A végleges dokumentáció megjelentetése előtt az irányító hatóság köteles az európai uniós források felhasználásáért felelős miniszter ügyfélszolgálati feladatait ellátó szervezeti egységét a megjelenő felhívással kapcsolatban felmerülő lehetséges kérdések megválaszolására felkészíteni.
 
-(4)[^297] Pénzügyi eszköz esetén, az (1) és (2) bekezdés alkalmazásában felhívás helyett termékleírást kell érteni.
+(4)[^298] Pénzügyi eszköz esetén, az (1) és (2) bekezdés alkalmazásában felhívás helyett termékleírást kell érteni.
 
-[^293]: A 49. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 59. pontja szerint módosított szöveg.
-[^294]: A 49. § (1) bekezdés b) pontját a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 8. pontja hatályon kívül helyezte.
-[^295]: A 49. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 60. pontja szerint módosított szöveg.
-[^296]: A 49. § (2) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^297]: A 49. § (4) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 6. §-a iktatta be.
+[^294]: A 49. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 59. pontja szerint módosított szöveg.
+[^295]: A 49. § (1) bekezdés b) pontját a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 8. pontja hatályon kívül helyezte.
+[^296]: A 49. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 60. pontja szerint módosított szöveg.
+[^297]: A 49. § (2) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^298]: A 49. § (4) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 6. §-a iktatta be.

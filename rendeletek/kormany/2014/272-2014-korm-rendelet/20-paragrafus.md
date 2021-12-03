@@ -1,40 +1,40 @@
-## 12. [^134] Az irányító hatóság, a közreműködő szervezet és az alapok alapját végrehajtó szervezet feladatai
+## 12. [^135] Az irányító hatóság, a közreműködő szervezet és az alapok alapját végrehajtó szervezet feladatai
 
 ## 20. § Az irányító hatóság
 
-1.[^135] a szakpolitikai felelőssel és a feladatkörrel rendelkező más felelőssel egyeztetett javaslatot tesz a program tartalmára és módosítására,
+1.[^136] a szakpolitikai felelőssel és a feladatkörrel rendelkező más felelőssel egyeztetett javaslatot tesz a program tartalmára és módosítására,
 
-2.[^136] a szakpolitikai felelőssel együttműködve
+2.[^137] a szakpolitikai felelőssel együttműködve
 
-a)[^137]
+a)[^138]
 
 b) elkészíti az éves fejlesztési keret tervezetét, valamint
 
-c)[^138] – szükség esetén – javaslatot tesz az éves fejlesztési keret módosítására,
+c)[^139] – szükség esetén – javaslatot tesz az éves fejlesztési keret módosítására,
 
 3. a szakpolitikai felelős bevonásával elkészíti az éves fejlesztési keret alapján a felhívást, amelynek során vizsgálja a felhívásnak a programhoz való illeszkedését, az európai uniós és nemzeti elszámolhatósági, továbbá költséghatékonysági adminisztratív terhek, szabályozási kötöttségek, végrehajtási költségek csökkentésére, szinergia biztosítására vonatkozó szempontokat,
 
-3a.[^139] gondoskodik – a feladatkörében érintett monitoring bizottsággal és az európai uniós források felhasználásáért felelős miniszterrel együttműködve – a program végrehajtása során a horizontális elveknek és politikáknak a támogatási szerződésben és a szakmai beszámolóban történő érvényesítéséről, valamint gondoskodik a horizontális követelmények teljesülésének előrehaladásával kapcsolatos adatok gyűjtéséről,
+3a.[^140] gondoskodik – a feladatkörében érintett monitoring bizottsággal és az európai uniós források felhasználásáért felelős miniszterrel együttműködve – a program végrehajtása során a horizontális elveknek és politikáknak a támogatási szerződésben és a szakmai beszámolóban történő érvényesítéséről, valamint gondoskodik a horizontális követelmények teljesülésének előrehaladásával kapcsolatos adatok gyűjtéséről,
 
 4. a szakpolitikai felelős bevonásával előkészíti a felhívás módosítását vagy visszavonását, ha a felhívás keretének forrásfelhasználása nem megfelelően halad,
 
-4a.[^140] területi program esetén a szakpolitikai felelős mellett a feladatkörrel rendelkező minisztert és a területi szereplőket a szakpolitikai felelőshöz hasonlóan bevonja,
+4a.[^141] területi program esetén a szakpolitikai felelős mellett a feladatkörrel rendelkező minisztert és a területi szereplőket a szakpolitikai felelőshöz hasonlóan bevonja,
 
-4b.[^141] területi kiválasztási rendszer eljárásrend esetében dönt a szakpolitikai felelős és a területi szereplő közötti vitás kérdésekben,
+4b.[^142] területi kiválasztási rendszer eljárásrend esetében dönt a szakpolitikai felelős és a területi szereplő közötti vitás kérdésekben,
 
 5. gondoskodik a felhívások monitoring rendszerbe történő rögzítéséről,
 
-6.[^142] a szakpolitikai felelősök és az európai uniós források felhasználásáért felelős miniszter számára adatot, információt biztosít a felhívások végrehajtásáról, a programok szakmai előrehaladásáról, különös tekintettel az indikátorok, szakpolitikai mutatók és horizontális követelmények teljesülésére,
+6.[^143] a szakpolitikai felelősök és az európai uniós források felhasználásáért felelős miniszter számára adatot, információt biztosít a felhívások végrehajtásáról, a programok szakmai előrehaladásáról, különös tekintettel az indikátorok, szakpolitikai mutatók és horizontális követelmények teljesülésére,
 
-6a.[^143] területi kiválasztási rendszer eljárásrend esetében adatot szolgáltat a területi szereplőnek a támogatást nyert projektekről,
+6a.[^144] területi kiválasztási rendszer eljárásrend esetében adatot szolgáltat a területi szereplőnek a támogatást nyert projektekről,
 
 7. elkészíti a nagyprojekt javaslatokat,
 
 8. feladatkörében kapcsolatot tart az Európai Bizottság illetékes főigazgatóságával, erről egyidejűleg tájékoztatja az európai uniós források felhasználásáért felelős minisztert, annak feladat- és hatáskörébe tartozó kérdésekben,
 
-9.[^144] kialakítja a program irányítási és kontroll rendszerét, melynek megfelelően elkészíti és aktualizálja – az európai uniós források felhasználásáért felelős miniszter által meghatározott szempontrendszer alapján – a program irányítási és kontrollrendszereinek leírását, melyet az európai uniós források felhasználásáért felelős miniszter egyidejű tájékoztatása mellett az audit hatóság részére megküld,
+9.[^145] kialakítja a program irányítási és kontroll rendszerét, melynek megfelelően elkészíti és aktualizálja – az európai uniós források felhasználásáért felelős miniszter által meghatározott szempontrendszer alapján – a program irányítási és kontrollrendszereinek leírását, melyet az európai uniós források felhasználásáért felelős miniszter egyidejű tájékoztatása mellett az audit hatóság részére megküld,
 
-10.[^145] az európai uniós források felhasználásáért felelős miniszterrel egyetértésben javaslatot tesz a közreműködő szervezet kijelölésére a Kormány részére,
+10.[^146] az európai uniós források felhasználásáért felelős miniszterrel egyetértésben javaslatot tesz a közreműködő szervezet kijelölésére a Kormány részére,
 
 11. a pénzügyi eszközök indítását megalapozó ex ante elemzés alapján javaslatot tesz az európai uniós források felhasználásáért felelős miniszternél alapok alapját végrehajtó szervezet kijelölésére,
 
@@ -50,7 +50,7 @@ c)[^138] – szükség esetén – javaslatot tesz az éves fejlesztési keret m
 
 17. közreműködik az értékelési terv előkészítésében és a programot érintő értékelési tevékenységben,
 
-18.[^146] működteti a monitoring bizottságot, és közreműködik a Partnerségi Megállapodás monitoring bizottság tevékenységében,
+18.[^147] működteti a monitoring bizottságot, és közreműködik a Partnerségi Megállapodás monitoring bizottság tevékenységében,
 
 19. közreműködik az egységes kommunikációs stratégia kidolgozásában és módosításában,
 
@@ -68,41 +68,41 @@ c) az európai uniós támogatásokkal kapcsolatos büntető feljelentések és 
 
 d) részt vesz az európai uniós források felhasználásáért felelős miniszter által szervezett csalás és korrupció elleni képzéseken,
 
-23.[^147] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikk (5) bekezdés a) és b) pontjában szereplő vezetői nyilatkozatot és éves összefoglalót,
+23.[^148] elkészíti a 966/2012/EU, Euratom európai parlamenti és tanácsi rendelet 59. cikk (5) bekezdés a) és b) pontjában szereplő vezetői nyilatkozatot és éves összefoglalót,
 
-24.[^148] a területi szereplők által kezdeményezett ITP-módosítást jóváhagyja, ha a módosítás nem érinti az ITP elfogadását rögzítő kormányhatározatban foglaltakat,
+24.[^149] a területi szereplők által kezdeményezett ITP-módosítást jóváhagyja, ha a módosítás nem érinti az ITP elfogadását rögzítő kormányhatározatban foglaltakat,
 
-25.[^149] 2017. október 31-ig, az 1303/2013/EU európai parlamenti és tanácsi rendelet 52. cikkben említett előrehaladási jelentés megállapításaival összhangban, és – ha indokolt – a források átcsoportosítására vonatkozó javaslatot tesz a Kormány részére,
+25.[^150] 2017. október 31-ig, az 1303/2013/EU európai parlamenti és tanácsi rendelet 52. cikkben említett előrehaladási jelentés megállapításaival összhangban, és – ha indokolt – a források átcsoportosítására vonatkozó javaslatot tesz a Kormány részére,
 
-26.[^150] biztosítja az igazoló hatóság részére a központosított számviteli nyilvántartás vezetéséhez az igazoló hatóság által készített elszámolások és kimutatások, valamint az egységes informatikai rendszerben rögzített adatok megfelelőségének, hitelességének alátámasztása érdekében bekért bizonylatok és dokumentumok (kivéve fizetésiszámla-kivonatok) rendelkezésre bocsátását,
+26.[^151] biztosítja az igazoló hatóság részére a központosított számviteli nyilvántartás vezetéséhez az igazoló hatóság által készített elszámolások és kimutatások, valamint az egységes informatikai rendszerben rögzített adatok megfelelőségének, hitelességének alátámasztása érdekében bekért bizonylatok és dokumentumok (kivéve fizetésiszámla-kivonatok) rendelkezésre bocsátását,
 
 27. együttműködik más irányító hatóságokkal a programok közötti szinergiák biztosítása és az adminisztratív terhek minimalizálása érdekében,
 
 28. megteszi a szükséges intézkedéseket a hatáskörébe tartozó rendszerszintű szabálytalanságok megelőzése, illetve kezelése – beleértve az ismétlődés kockázatának csökkentésére irányuló intézkedéseket is – tekintetében,
 
-29.[^151] szükség esetén az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott nemzeti hatósággal egyetértésben javaslatot tesz az Európai Hálózatfinanszírozási Eszközből finanszírozott projektek megfelelő operatív programból történő finanszírozására és a projekt Európai Hálózatfinanszírozási Eszközből történő finanszírozásának egyidejű megszüntetésére, valamint ennek a Kormány általi jóváhagyására való felterjesztésére,
+29.[^152] szükség esetén az Európai Hálózatfinanszírozási Eszközből származó források felhasználásáról szóló kormányrendeletben meghatározott nemzeti hatósággal egyetértésben javaslatot tesz az Európai Hálózatfinanszírozási Eszközből finanszírozott projektek megfelelő operatív programból történő finanszírozására és a projekt Európai Hálózatfinanszírozási Eszközből történő finanszírozásának egyidejű megszüntetésére, valamint ennek a Kormány általi jóváhagyására való felterjesztésére,
 
-30.[^152] megküldi az európai uniós források felhasználásáért felelős miniszter részére az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 21 nappal,
+30.[^153] megküldi az európai uniós források felhasználásáért felelős miniszter részére az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 21 nappal,
 
-31.[^153] elvégzi a megfelelőségi és hitelességi vizsgálatokat az Európai Bizottság információs rendszerébe feltölteni kívánt összesített indikátoradatok tekintetében a koordinációs szerv által nyújtott informatikai támogatással és az eredendő adatminőségi hibakockázat figyelembevételével.
+31.[^154] elvégzi a megfelelőségi és hitelességi vizsgálatokat az Európai Bizottság információs rendszerébe feltölteni kívánt összesített indikátoradatok tekintetében a koordinációs szerv által nyújtott informatikai támogatással és az eredendő adatminőségi hibakockázat figyelembevételével.
 
-[^134]: A 12. alcím címe a 98/2016. (V. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^135]: A 20. § 1. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 106/2018. (VI. 15.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^136]: A 20. § 2. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^137]: A 20. § 2. pont a) alpontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 8. pontja hatályon kívül helyezte.
-[^138]: A 20. § 2. pont c) alpontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 9. pontja szerint módosított szöveg.
-[^139]: A 20. § 3a. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^140]: A 20. § 4a. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^141]: A 20. § 4b. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (3) bekezdése iktatta be.
-[^142]: A 20. § 6. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^143]: A 20. § 6a. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (4) bekezdése iktatta be.
-[^144]: A 20. § 9. pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 5. pontja szerint módosított szöveg.
-[^145]: A 20. § 10. pontja a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^146]: A 20. § 18. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.
-[^147]: A 20. § 23. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 34. pontja szerint módosított szöveg.
-[^148]: A 20. § 24. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
-[^149]: A 20. § 25. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 35. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^150]: A 20. § 26. pontja a 98/2016. (V. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^151]: A 20. § 29. pontját a 75/2016. (IV. 5.) Korm. rendelet 55. §-a iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
-[^152]: A 20. § 30. pontját a 98/2016. (V. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^153]: A 20. § 31. pontját a 366/2019. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^135]: A 12. alcím címe a 98/2016. (V. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^136]: A 20. § 1. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 106/2018. (VI. 15.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^137]: A 20. § 2. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^138]: A 20. § 2. pont a) alpontját a 347/2015. (XI. 20.) Korm. rendelet 50. § 8. pontja hatályon kívül helyezte.
+[^139]: A 20. § 2. pont c) alpontja a 347/2015. (XI. 20.) Korm. rendelet 50. § 9. pontja szerint módosított szöveg.
+[^140]: A 20. § 3a. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^141]: A 20. § 4a. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^142]: A 20. § 4b. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (3) bekezdése iktatta be.
+[^143]: A 20. § 6. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^144]: A 20. § 6a. pontját a 144/2015. (VI. 12.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^145]: A 20. § 9. pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 5. pontja szerint módosított szöveg.
+[^146]: A 20. § 10. pontja a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^147]: A 20. § 18. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^148]: A 20. § 23. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 34. pontja szerint módosított szöveg.
+[^149]: A 20. § 24. pontja a 144/2015. (VI. 12.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^150]: A 20. § 25. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 35. pontja, a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^151]: A 20. § 26. pontja a 98/2016. (V. 13.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^152]: A 20. § 29. pontját a 75/2016. (IV. 5.) Korm. rendelet 55. §-a iktatta be. E módosító rendelet 51. §-a alapján a folyamatban levő projektekre is alkalmazni kell.
+[^153]: A 20. § 30. pontját a 98/2016. (V. 13.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^154]: A 20. § 31. pontját a 366/2019. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

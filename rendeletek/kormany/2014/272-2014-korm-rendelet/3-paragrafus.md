@@ -116,17 +116,17 @@
 
 48.[^52] szabálytalanságfelelős: az irányító hatóság, a kifizető ügynökség vagy az alapok alapját végrehajtó szervezet alkalmazásában álló, a szabálytalansági eljárással kapcsolatos feladatok ellátására kijelölt személy,
 
-49. szakaszolt projekt: fizikai és pénzügyi szempontból két egyértelműen elhatárolható szakaszból álló projekt, amelynek első szakasza a 2007–2013 programozási időszakban, második szakasza a 2014–2020 programozási időszakban valósul meg,
+49.[^53] szakaszolt projekt: több programozási időszak forrásaiból finanszírozott projekt,
 
-50.[^53] szakpolitikai mutató: uniós jogszabályban nem nevesített, a szakpolitikai felelős vagy irányító hatóság által a felhívásban, adatforrással együtt meghatározott mutató, amelynek forrása nem a kedvezményezett,
+50.[^54] szakpolitikai mutató: uniós jogszabályban nem nevesített, a szakpolitikai felelős vagy irányító hatóság által a felhívásban, adatforrással együtt meghatározott mutató, amelynek forrása nem a kedvezményezett,
 
-51.[^54] szállítói finanszírozás: a kedvezményezettet vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában résztvevőt megillető támogatás összegének kifizetése közvetlenül a szállító, engedményes vagy zálogjogosult fizetési számlájára történő utalással,
+51.[^55] szállítói finanszírozás: a kedvezményezettet vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában résztvevőt megillető támogatás összegének kifizetése közvetlenül a szállító, engedményes vagy zálogjogosult fizetési számlájára történő utalással,
 
 52. támogatás folyósításának időpontja: a kincstár által az előirányzat felhasználási keretszámla (a továbbiakban: EFK) terheléséről küldött bankszámlakivonaton közölt értéknap (terhelés dátuma),
 
 53. támogatási kérelem: a felhívásban meghatározott alaki és formai követelményeknek megfelelő dokumentum, amely egy projekt támogatásban részesítésére irányul, és amelynek részei a projektadatlap és a mellékletek,
 
-54.[^55] támogatási szerződés: a támogatások kedvezményezettjei és az irányító hatóság között létrejött, a támogatás felhasználását szabályozó polgári jogi szerződés,
+54.[^56] támogatási szerződés: a támogatások kedvezményezettjei és az irányító hatóság között létrejött, a támogatás felhasználását szabályozó polgári jogi szerződés,
 
 55. támogatói okirat: az irányító hatóság támogatási jogviszony létrehozására irányuló akaratnyilatkozatát tartalmazó okirat,
 
@@ -142,39 +142,39 @@
 
 61. tényfeltáró vizsgálat: a költségigazoló nyilatkozat alátámasztása érdekében az igazoló hatóság által a támogatások lebonyolításában érintett szervezeteknél végzett, számlákra és egyéb, kifizetési kérelmet alátámasztó dokumentumokra kiterjedő ellenőrzés,
 
-61a.[^56] termékleírás: pénzügyi eszköz keretében nyújtandó támogatás igénybevételéhez szükséges információkat tartalmazó dokumentum,
+61a.[^57] termékleírás: pénzügyi eszköz keretében nyújtandó támogatás igénybevételéhez szükséges információkat tartalmazó dokumentum,
 
 62. területi program: a Terület- és Településfejlesztési Operatív Program (a továbbiakban: TOP) és a Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP),
 
-63.[^57] területi szereplő: megyei önkormányzat, megyei jogú város önkormányzata és a fővárosi önkormányzat, amely az integrált területi program (a továbbiakban: ITP) összeállításáért felelős,
+63.[^58] területi szereplő: megyei önkormányzat, megyei jogú város önkormányzata és a fővárosi önkormányzat, amely az integrált területi program (a továbbiakban: ITP) összeállításáért felelős,
 
-64.[^58] transznacionális együttműködés: az 1304/2013/EU európai parlamenti és tanácsi rendelet 10. cikkében meghatározott együttműködési forma,
+64.[^59] transznacionális együttműködés: az 1304/2013/EU európai parlamenti és tanácsi rendelet 10. cikkében meghatározott együttműködési forma,
 
 65. utófinanszírozás: a kedvezményezett vagy a támogatási szerződésben megnevezett, a projekt végrehajtásában részt vevő által kifizetett számlák vagy egyéb, az 1. mellékletben meghatározott, az elszámolást alátámasztó dokumentumok támogatási összegének utólagos megtérítése közvetlenül a kedvezményezett, vagy az engedményes pénzforgalmi számlájára,
 
 66. végső kedvezményezett: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 12. pont szerinti fogalom,
 
-67.[^59] visszatérítendő támogatás: az 1303/2013/EU európai parlamenti és tanácsi rendelet 67–69. cikke szerinti támogatási forma.
+67.[^60] visszatérítendő támogatás: az 1303/2013/EU európai parlamenti és tanácsi rendelet 67–69. cikke szerinti támogatási forma.
 
-(1a)[^60] Az EMVA és ETHA végrehajtása során e rendelet alkalmazásában
+(1a)[^61] Az EMVA és ETHA végrehajtása során e rendelet alkalmazásában
 
 1. egységes kérelem: a KAP rendelet 67. cikk (2) bekezdésében és 72. cikk (1) bekezdésében meghatározott területalapú, illetve állatlétszámra vonatkozó támogatások (a továbbiakban: terület-, illetve állatlétszám alapú támogatások) igénybevételére benyújtott közvetlen kifizetésre irányuló támogatási kérelem vagy kifizetési igénylés, ideértve a mezőgazdasági kockázatkezelési támogatások igénybevételére benyújtott támogatási kérelmet vagy kifizetési igénylést is,
 
-2.[^61] gondatlan: a támogatást igénylő, kedvezményezett, illetve az általa igénybevett közreműködője, képviselője magatartása, ha az a 4. pont szerint nem minősíthető szándékos magatartásnak,
+2.[^62] gondatlan: a támogatást igénylő, kedvezményezett, illetve az általa igénybevett közreműködője, képviselője magatartása, ha az a 4. pont szerint nem minősíthető szándékos magatartásnak,
 
-2a.[^62] illetékes hatóság: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 9. § (1) bekezdés 10. pontja szerinti hatóság,
+2a.[^63] illetékes hatóság: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 9. § (1) bekezdés 10. pontja szerinti hatóság,
 
 3. mezőgazdasági kockázatkezelési támogatások: az 1305/2013/EU európai parlamenti és tanácsi rendelet 36., 37. és 39. cikkében meghatározott intézkedések,
 
-4.[^63] szándékos: a támogatást igénylő, kedvezményezett, illetve az általa igénybevett közreműködő, képviselő magatartása, ha a támogatást igénylő, kedvezményezett vagy az általa igénybevett közreműködő, képviselő tudatában van annak, hogy a tanúsított tevőleges magatartás vagy mulasztás a támogatásokkal összefüggésben a támogatást igénylő, kedvezményezett számára a jogosultság jogosulatlan megszerzése, annak fenntartása, illetve a támogatásokkal összefüggésben jogosultságának bármely eleme vonatkozásában kedvezőbb elbírálást biztosít, mint a tanúsított tevőleges magatartás vagy mulasztás nélkül,
+4.[^64] szándékos: a támogatást igénylő, kedvezményezett, illetve az általa igénybevett közreműködő, képviselő magatartása, ha a támogatást igénylő, kedvezményezett vagy az általa igénybevett közreműködő, képviselő tudatában van annak, hogy a tanúsított tevőleges magatartás vagy mulasztás a támogatásokkal összefüggésben a támogatást igénylő, kedvezményezett számára a jogosultság jogosulatlan megszerzése, annak fenntartása, illetve a támogatásokkal összefüggésben jogosultságának bármely eleme vonatkozásában kedvezőbb elbírálást biztosít, mint a tanúsított tevőleges magatartás vagy mulasztás nélkül,
 
-5.[^64] terület-, illetve állatlétszám alapú támogatások: a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések,
+5.[^65] terület-, illetve állatlétszám alapú támogatások: a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések,
 
-6.[^65] adategyeztetés: az EMVA forrásból nyújtott támogatások esetén a támogatási kérelem tárgyában történő döntéshozatalt megelőzően az adatok, a támogatási, illetve kifizetési kérelemmel érintett terület-, illetve állatlétszám megállapítása, valamint a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges írásbeli egyeztetés,
+6.[^66] adategyeztetés: az EMVA forrásból nyújtott támogatások esetén a támogatási kérelem tárgyában történő döntéshozatalt megelőzően az adatok, a támogatási, illetve kifizetési kérelemmel érintett terület-, illetve állatlétszám megállapítása, valamint a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges írásbeli egyeztetés,
 
-7.[^66] támogatási alap: adott intézkedés vonatkozásában a támogatási összeg megállapítására meghatározott feltételek közül a felhívásban ekként meghatározott szempont,
+7.[^67] támogatási alap: adott intézkedés vonatkozásában a támogatási összeg megállapítására meghatározott feltételek közül a felhívásban ekként meghatározott szempont,
 
-8.[^67] kamarai meghatalmazott: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) munkavállalója, aki a NAK nevében segítséget nyújt az EMVA-ból nyújtott támogatások igénybevételével összefüggő elektronikus ügyintézésben.
+8.[^68] kamarai meghatalmazott: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) munkavállalója, aki a NAK nevében segítséget nyújt az EMVA-ból nyújtott támogatások igénybevételével összefüggő elektronikus ügyintézésben.
 
 (2) Az (1) bekezdésben nem értelmezett fogalmakat
 
@@ -182,17 +182,17 @@ a) a támogatásból megvalósuló fejlesztések központi monitoringjáról és
 
 b) az 1303/2013/EU európai parlamenti és tanácsi rendelet,
 
-c)[^68] az 1303/2013/EU európai parlamenti és tanácsi rendelet 1. cikk 1–3., 5. és 6. pontjában meghatározott közösségi jogszabályok,
+c)[^69] az 1303/2013/EU európai parlamenti és tanácsi rendelet 1. cikk 1–3., 5. és 6. pontjában meghatározott közösségi jogszabályok,
 
-d)[^69] a KAP rendelet,
+d)[^70] a KAP rendelet,
 
-e)[^70] a 223/2014/EU európai parlamenti és tanácsi rendelet,
+e)[^71] a 223/2014/EU európai parlamenti és tanácsi rendelet,
 
-f)[^71] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
+f)[^72] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
 
 ## szerint kell értelmezni.
 
-(3)[^72] E rendeletet az e rendelet hatálya alá tartozó programok támogatásokra vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre, továbbá egyéb iránymutatásokra figyelemmel kell alkalmazni és értelmezni.
+(3)[^73] E rendeletet az e rendelet hatálya alá tartozó programok támogatásokra vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre, továbbá egyéb iránymutatásokra figyelemmel kell alkalmazni és értelmezni.
 
 [^13]: A 2/A. §-t a 98/2016. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^14]: A 3. § (1) bekezdés 1. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -234,23 +234,24 @@ f)[^71] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása 
 [^50]: A 3. § (1) bekezdés 45. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
 [^51]: A 3. § (1) bekezdés 47. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
 [^52]: A 3. § (1) bekezdés 48. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^53]: A 3. § (1) bekezdés 50. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (10) bekezdésével megállapított szöveg.
-[^54]: A 3. § (1) bekezdés 51. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^55]: A 3. § (1) bekezdés 54. pontja a 98/2016. (V. 13.) Korm. rendelet 46. § 2. pontja szerint módosított szöveg.
-[^56]: A 3. § (1) bekezdés 61a. pontját a 153/2019. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
-[^57]: A 3. § (1) bekezdés 63. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 11. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^58]: A 3. § (1) bekezdés 64. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^59]: A 3. § (1) bekezdés 67. pontját a 466/2015. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
-[^60]: A 3. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 5. § (11) bekezdése iktatta be.
-[^61]: A 3. § (1a) bekezdés 2. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^62]: A 3. § (1a) bekezdés 2a. pontját a 98/2016. (V. 13.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 2. pontja, a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^63]: A 3. § (1a) bekezdés 4. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^64]: A 3. § (1a) bekezdés 5. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^65]: A 3. § (1a) bekezdés 6. pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^66]: A 3. § (1a) bekezdés 7. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^67]: A 3. § (1a) bekezdés 8. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 46. § 3. pontja szerint módosított szöveg.
-[^68]: A 3. § (2) bekezdés c) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^69]: A 3. § (2) bekezdés d) pontja a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^70]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^71]: A 3. § (2) bekezdés f) pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^72]: A 3. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^53]: A 3. § (1) bekezdés 49. pontja a 657/2021. (XI. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^54]: A 3. § (1) bekezdés 50. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (10) bekezdésével megállapított szöveg.
+[^55]: A 3. § (1) bekezdés 51. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^56]: A 3. § (1) bekezdés 54. pontja a 98/2016. (V. 13.) Korm. rendelet 46. § 2. pontja szerint módosított szöveg.
+[^57]: A 3. § (1) bekezdés 61a. pontját a 153/2019. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
+[^58]: A 3. § (1) bekezdés 63. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 11. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^59]: A 3. § (1) bekezdés 64. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^60]: A 3. § (1) bekezdés 67. pontját a 466/2015. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^61]: A 3. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 5. § (11) bekezdése iktatta be.
+[^62]: A 3. § (1a) bekezdés 2. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^63]: A 3. § (1a) bekezdés 2a. pontját a 98/2016. (V. 13.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 2. pontja, a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^64]: A 3. § (1a) bekezdés 4. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^65]: A 3. § (1a) bekezdés 5. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^66]: A 3. § (1a) bekezdés 6. pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^67]: A 3. § (1a) bekezdés 7. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^68]: A 3. § (1a) bekezdés 8. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 46. § 3. pontja szerint módosított szöveg.
+[^69]: A 3. § (2) bekezdés c) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^70]: A 3. § (2) bekezdés d) pontja a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^71]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^72]: A 3. § (2) bekezdés f) pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^73]: A 3. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 1. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 89/A. §[^526] Több kiemelt projektnek a Kormány döntése alapján történő összevonása esetén az irányító hatóság gondoskodik – az összevonással érintett projektek támogatási szerződéseinek pénzügyi rendezésével egyidejűleg – a hatályban maradó támogatási szerződés módosításáról.
+## 89/A. §[^530] Több kiemelt projektnek a Kormány döntése alapján történő összevonása esetén az irányító hatóság gondoskodik – az összevonással érintett projektek támogatási szerződéseinek pénzügyi rendezésével egyidejűleg – a hatályban maradó támogatási szerződés módosításáról.
 
-89/B. §[^527] (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt másik felhívás kerete terhére történő finanszírozásra térhet át, ha
+89/B. §[^531] (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt másik felhívás kerete terhére történő finanszírozásra térhet át, ha
 
 a) a projekt keretében támogatott tevékenység jelentős mértékben megvalósult,
 
@@ -22,5 +22,5 @@ f) az áttérést az uniós állami támogatási szabályok lehetővé teszik.
 
 (5) A (4) bekezdés szerinti esetben a kedvezményezettel új támogatási szerződést kell kötni.
 
-[^526]: A 89/A. §-t a 345/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be.
-[^527]: A 89/B. §-t a 456/2020. (X. 20.) Korm. rendelet 2. §-a iktatta be.
+[^530]: A 89/A. §-t a 345/2016. (XI. 17.) Korm. rendelet 3. §-a iktatta be.
+[^531]: A 89/B. §-t a 456/2020. (X. 20.) Korm. rendelet 2. §-a iktatta be.
