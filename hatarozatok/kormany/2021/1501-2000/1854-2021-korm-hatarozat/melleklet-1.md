@@ -16,7 +16,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:56 mezőjében a „13,18” szövegrész helyébe a „13,85” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1854/2021. (XII. 1.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (bruttó forint) | Többlettámogatás legfeljebb (bruttó forint) | Megnövelt támogatás legfeljebb (bruttó forint) | Projekt rövid bemutatása |
 
 | 2. | KEHOP-1.4.0-15- 2015-00002 | Nagyműtárgyak fejlesztése és rekonstrukciója | Országos Vízügyi Főigazgatóság (konzorciumvezető), Alsó-Duna-völgyi Vízügyi Igazgatóság, Észak-dunántúli Vízügyi Igazgatóság, Közép-Duna- völgyi Vízügyi Igazgatóság, Közép-Tisza-vidéki Vízügyi Igazgatóság, Nyugat-dunántúli Vízügyi Igazgatóság, Tiszántúli Vízügyi Igazgatóság | 13 171 128 349 | 675 198 818 | 13 846 327 167 | A projekttel szembeni szakmai elvárás a kiemelt jelentőségű, a folyók életét befolyásoló nagyműtárgyak fejlesztése és rekonstrukciója Magyarország árvízi veszélyeztetettségének csökkenése érdekében. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
