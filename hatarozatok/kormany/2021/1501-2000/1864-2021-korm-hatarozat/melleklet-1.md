@@ -28,17 +28,11 @@
 
 ## Határidő: az 1.6. alpont szerinti forrás rendelkezésre állását követően azonnal
 
-## 2. Az 1239/2019. (IV. 30.) Korm. határozat
-
-## a) 1. pontjában a „létesüljön a 2023. év végéig” szövegrész helyébe a „létesüljön” szöveg,
-
-## b) 2. pontjában a „2021. december 31-ig” szövegrész helyébe a „2022. december 31-ig” szöveg,
-
-## c) 11. pontjában a „kormánybiztos bevonásával,” szövegrész helyébe a „kormánybiztos bevonásával és a Steindl Imre Program Nonprofit Zártkörűen Működő Részvénytársaság közreműködésével,” szöveg
-
-## lép.
+## 2.[^2]
 
 1. melléklet az 1864/2021. (XII. 2.) Korm. határozathoz
+
+1X10073_0
 
 | XI. Miniszterelnökség XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -111,3 +105,5 @@
 | 70 999 062 | 70 999 062 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
