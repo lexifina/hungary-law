@@ -10,11 +10,11 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-3.[^2] felhívja az innovációért és a technológiáért felelős minisztert, hogy a 2. pont alapján biztosított forrás terhére az Alapítvány részére, az 1. pont szerinti célra – külön pályázat és kérelem benyújtása nélkül, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó támogatási előlegként – 2022. december 31-ig történő elszámolási kötelezettséggel költségvetési támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
+3.[^2] felhívja az innovációért és a technológiáért felelős minisztert, hogy a 2. pont alapján biztosított forrás terhére az Alapítvány részére, az 1. pont szerinti célra – külön pályázat és kérelem benyújtása nélkül, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó támogatási előlegként – 2023. december 31-ig történő elszámolási kötelezettséggel költségvetési támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján.
 
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a 2. pont teljesülését követően azonnal
 
 [^1]: Az 1. pont az 1020/2020. (II. 6.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
-[^2]: A 3. pont az 1020/2020. (II. 6.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1020/2020. (II. 6.) Korm. határozat 10. pont b) alpontja, az 1872/2021. (XII. 3.) Korm. határozat 4. pontja szerint módosított szöveg.
