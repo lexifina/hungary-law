@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-256-20-
 | 2021-10-04 | 2021-256-20-22.4 | 562/2021. (X. 1.) Korm. rendelet |
 | 2021-11-01 | 2021-256-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-12-01 | 2021-256-20-22.6 | 658/2021. (XI. 30.) Korm. rendelet |
+| 2021-12-03 | 2021-256-20-22.7 | 562/2021. (X. 1.) Korm. rendelet |
