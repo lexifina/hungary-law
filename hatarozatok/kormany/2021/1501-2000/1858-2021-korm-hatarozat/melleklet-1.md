@@ -6,85 +6,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat (a továbbiakban: Korm. határozat)
+## 3.[^1]
 
-## a) 1. pont f) alpont fa) pont faa) alpontjában a „252,24%-áig” szövegrész helyébe a „252,10%-áig” szöveg,
+## 4.[^2]
 
-## b) 1. pont f) alpont fa) pont fac) alpontjában a „160,86%-áig” szövegrész helyébe a „160,78%-áig” szöveg,
-
-## c) 1. pont h) alpontjában a „198,77%-áig” szövegrész helyébe a „182,74%-áig” szöveg
-
-## lép.
-
-## 4. A Korm. határozat 1. melléklet
-
-## a) 1. pontjában foglalt táblázat C:2 mezőjében a „660,11” szövegrész helyébe a „606,87” szöveg,
-
-## b) 2. pontjában foglalt táblázat C:2 mezőjében az „1 262,962” szövegrész helyébe az „1 262,228” szöveg,
-
-## c) 3. pontjában foglalt táblázat C:3 mezőjében a „202,675” szövegrész helyébe a „202,583” szöveg
-
-## lép.
-
-## 5. A Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:2 mezőjében a „16,8” szövegrész helyébe a „16,79” szöveg,
-
-## b) D:3 mezőjében a „2,2” szövegrész helyébe az „1,90” szöveg,
-
-## c) D:4 mezőjében a „10,47” szövegrész helyébe a „10,30” szöveg,
-
-## d) D:5 mezőjében az „1,85 (becsült támogatási intenzitás: 100%)” szövegrész helyébe az „1,85 (támogatási intenzitás: 100%)” szöveg,
-
-## e) D:6 mezőjében a „0,642” szövegrész helyébe a „0,45” szöveg,
-
-## f) D:7 mezőjében a „3,27 (becsült támogatási intenzitás: 100%)” szövegrész helyébe a „3,25 (támogatási intenzitás: 100%)” szöveg,
-
-## g) D:11 mezőjében a „2,96” szövegrész helyébe a „2,72” szöveg,
-
-## h) D:13 mezőjében a „3,70 (becsült támogatási intenzitás: 100%)” szövegrész helyébe a „3,51 (támogatási intenzitás: 100%)” szöveg,
-
-## i) B:14 mezőjében az „M6 autóút Bóly-Ivándárda, országhatár közötti szakasz megvalósítása Villányi csomóponttal” szövegrész helyébe az „M6 autóút Bóly-Ivándárda, országhatár közötti szakasz előkészítése Villányi csomóponttal” szöveg,
-
-## j) D:14 mezőjében az „54,58 (becsült támogatási intenzitás: 100%)” szövegrész helyébe a „4,76 (támogatási intenzitás: 100%)” szöveg,
-
-## k) E:14 mezőjében a „2 × 2 sávos autóút építése Villányi csomóponttal.” szövegrész helyébe a „2 × 2 sávos autóút építésének előkészítése Villányi csomóponttal” szöveg,
-
-## l) D:15 mezőjében a „3,23” szövegrész helyébe a „3,16” szöveg,
-
-## m) D:16a mezőjében a „7,59 (becsült támogatási intenzitás: 100%)” szövegrész helyébe a „6,45 (támogatási intenzitás: 100%)” szöveg,
-
-## n) D:18 mezőjében a „3,56” szövegrész helyébe a „2,65” szöveg,
-
-## o) D:20 mezőjében a „6,83” szövegrész helyébe a „6,78” szöveg,
-
-## p) D:24 mezőjében a „6,44” szövegrész helyébe a „6,09” szöveg,
-
-## q) D:26 mezőjében a „0,60” szövegrész helyébe a „0,25” szöveg,
-
-## r) D:27 mezőjében az „5,88” szövegrész helyébe az „5,37” szöveg,
-
-## s) D:28 mezőjében az „1,01” szövegrész helyébe a „0,94” szöveg,
-
-## t) D:32 mezőjében a „6,46” szövegrész helyébe a „6,23” szöveg,
-
-## u) D:33 mezőjében a „0,50” szövegrész helyébe a „0,47” szöveg,
-
-## v) D:54 mezőjében a „14,80” szövegrész helyébe a „14,46” szöveg,
-
-## w) D:56 mezőjében az „1,24” szövegrész helyébe az „1,12” szöveg,
-
-## x) D:70 mezőjében az „1,86” szövegrész helyébe az „1,85” szöveg,
-
-## y) D:74 mezőjében a „7,94” szövegrész helyébe a „7,41” szöveg,
-
-## z) D:80a mezőjében az „1,25” szövegrész helyébe az „1,16” szöveg,
-
-## za) D:106a mezőjében az „5,5” szövegrész helyébe az „5,54” szöveg,
-
-## zb) D:107a mezőjében a „18,0 (becsült támogatási intenzitás: 100%)” szövegrész helyébe a „18,04 (támogatási intenzitás: 100%)” szöveg
-
-## lép.
+## 5.[^3]
 
 1. melléklet az 1858/2021. (XII. 1.) Korm. határozathoz
 
@@ -129,3 +55,7 @@
 | 18. | IKOP-3.2.0-15-2016-00007 | „Kecskemét város közösségi közlekedés fejlesztése, átalakítása – zéró emissziós zóna megteremtése soros hibridhajtású alacsonypadlós autóbuszok beszerzésével” II. szakasz |
 
 | 19. | IKOP-3.2.0-15-2017-00030 | Szeged–Hódmezővásárhely tram-train rendszer előkészítése |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
