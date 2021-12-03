@@ -66,8 +66,9 @@
 
 ## 3.[^1]
 
-## 4. A Kormány a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1736/2021. (X. 14.) Korm. határozat 1. mellékletében meghatározottaktól eltérően a Kvtv. 1. melléklet I. Országgyűlés fejezet, 26. Szabályozott Tevékenységek Felügyeleti Hatósága cím, 1. Szabályozott Tevékenységek Felügyeleti Hatósága alcím támogatási előirányzata helyett a B4. Működési bevételek előirányzatának 91 245 893 forinttal történő növelését rendeli el.
+## 4.[^2] A Kormány a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról és kormányhatározat módosításáról szóló 1736/2021. (X. 14.) Korm. határozat 3. mellékletében meghatározottaktól eltérően a Kvtv. 1. melléklet I. Országgyűlés fejezet, 26. Szabályozott Tevékenységek Felügyeleti Hatósága cím, 1. Szabályozott Tevékenységek Felügyeleti Hatósága alcím támogatási előirányzata helyett a B4. Működési bevételek előirányzatának 91 245 893 forinttal történő növelését rendeli el.
 
 1. melléklet az 1755/2021. (X. 27.) Korm. határozathoz
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont az 1872/2021. (XII. 3.) Korm. határozat 5. pontja szerint módosított szöveg.
