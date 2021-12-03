@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1591-30
 | 2020-09-09 | 2019-1591-30-22.5 | 1755/2019. (XII. 20.) Korm. határozat |
 | 2020-12-24 | 2019-1591-30-22.6 | 1755/2019. (XII. 20.) Korm. határozat |
 | 2021-09-30 | 2019-1591-30-22.7 | 1755/2019. (XII. 20.) Korm. határozat |
+| 2021-12-03 | 2019-1591-30-22.8 | 1755/2019. (XII. 20.) Korm. határozat |
