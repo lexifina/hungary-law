@@ -1,3 +1,3 @@
-## 2. § Az Ügyrend 53/A. §-a helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „53/A. § Ha az előadó alkotmánybíró az Ügyrend 31. § (6) bekezdése alapján a Ve. és Nsztv. szerinti eljárásokban terjeszt az alkotmányjogi panasz befogadásáról szóló döntés helyett az alkotmányjogi panasz érdemi elbírálását tartalmazó határozat-tervezetet a testület elé, akkor az Alkotmánybíróság az alkotmányjogi panaszról a Ve. 233. §-a szerinti eljárás és az Nsztv. 79. § (5) bekezdésében meghatározott közös eljárás (az országgyűlési képviselők általános választásával azonos napon tartott országos népszavazási eljárás) esetén a beérkezéstől számított hat munkanapon, az Nsztv. 79. § (5) bekezdése szerinti országos népszavazási eljárás esetén a beérkezéstől számított tíz munkanapon belül dönt.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

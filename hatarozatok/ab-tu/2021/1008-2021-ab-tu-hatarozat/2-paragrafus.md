@@ -1,3 +1,3 @@
-## 1. § Az Alkotmánybíróság ügyrendjéről szóló 1001/2013. (II. 27.) AB Tü. határozat (a továbbiakban: Ügyrend) 8. § (7) bekezdése helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## „(7) A tanács ülésén a tanácsvezető elnököl. A választási eljárásról szóló 2013. évi XXXVI. törvény (a továbbiakban: Ve.) 233. §-a és a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény (a továbbiakban: Nsztv.) 79. § (5) bekezdése szerinti eljárások (a továbbiakban együtt: a Ve. és Nsztv. szerinti eljárások) során – amennyiben a tanácsvezető nincs jelen – az előadó bíró elnököl.”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
