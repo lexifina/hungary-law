@@ -10,8 +10,10 @@ emberi erőforrások minisztere
 
 Határidő: a felmerülés ütemében
 
-3. felhívja az emberi erőforrások miniszterét, hogy a Program megvalósítása érdekében gondoskodjon támogatói okirat kibocsátásáról a Szövetség részére 2021. december 31-éig történő elszámolási kötelezettséggel, a fel nem használt támogatási összeg tekintetében pedig visszafizetési kötelezettség rögzítésével.
+3.[^1] felhívja az emberi erőforrások miniszterét, hogy a Program megvalósítása érdekében gondoskodjon támogatói okirat kibocsátásáról a Szövetség részére 2022. december 31-éig történő elszámolási kötelezettséggel, a fel nem használt támogatási összeg tekintetében pedig visszafizetési kötelezettség rögzítésével.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: a 2. pontban meghatározott forrás rendelkezésre állását követően azonnal
+
+[^1]: A 3. pont az 1872/2021. (XII. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
