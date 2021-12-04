@@ -6,7 +6,7 @@
 
 a) a tanköteles gyermek esetében a gyermek tankötelessé válásának évétől annak az évnek a végéig jogosult, amelyben a gyermek tankötelezettsége megszűnik,
 
-b)[^10] a tankötelezettségének megszűnését követően köznevelési intézményben, illetve szakképző intézményben tanulmányokat folytató gyermek (személy) esetében legkésőbb addig az évig jogosult, amelyben a gyermek (személy) a huszadik életévét, illetve – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik életévét – betölti.
+b)[^14] a tankötelezettségének megszűnését követően köznevelési intézményben, illetve szakképző intézményben tanulmányokat folytató gyermek (személy) esetében legkésőbb addig az évig jogosult, amelyben a gyermek (személy) a huszadik életévét, illetve – a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásra nem jogosult, de sajátos nevelési igényű tanuló esetében huszonharmadik életévét – betölti.
 
 (3) Az iskolakezdési támogatás gyermekenkénti bruttó összege a tárgyév augusztus 1-jén érvényes havi minimálbér bruttó összegének 45%-a.
 
@@ -14,4 +14,4 @@ b)[^10] a tankötelezettségének megszűnését követően köznevelési intéz
 
 (5) Nem nyújtható iskolakezdési támogatás annak a kormánytisztviselőnek, aki kérelmében szándékosan valótlan adatot, tényt közöl, vagy valamely jelentős tényt, körülményt elhallgat.
 
-[^10]: A 64. § (2) bekezdés b) pontja a 668/2020. (XII. 28.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 64. § (2) bekezdés b) pontja a 668/2020. (XII. 28.) Korm. rendelet 52. § (2) bekezdése szerint módosított szöveg.
