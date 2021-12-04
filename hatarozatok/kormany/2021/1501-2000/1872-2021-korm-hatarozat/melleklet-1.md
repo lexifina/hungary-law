@@ -34,12 +34,17 @@
 
 ## e) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, címrendi kiegészítésről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről és kormányhatározat módosításáról szóló 1784/2021. (XI. 5.) Korm. határozat 1. melléklete szerint – az egyszeri jellegű előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Gazdaság újraindítását szolgáló külügyi fejezeti kezelésű előirányzatok alcím, 2. Regionális határon túli és egyéb nemzetközi fejlesztési és kutatási programok jogcímcsoport javára átcsoportosított 2 125 674 900 forint a Kvtv. 1. melléklet XXXVI. Eötvös Loránd Kutatási Hálózat fejezet, 4. Fejezeti kezelésű előirányzatok cím, 2. Kiválósági ösztöndíjak alcímen kerüljön felhasználásra.
 
-## 2. A magyar jégkorong sport eredményességét elősegítő kormányzati intézkedésekről szóló 1390/2019. (VI. 27.) Korm. határozat 3. pontjában a „2021. december 31-éig” szövegrész helyébe a „2022. december 31-éig” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1591/2019. (X. 16.) Korm. határozat 1. pont a) alpontjában az „az Emberi Erőforrások Minisztériuma fejezetben levő Fejezeti kezelésű előirányzatok cím javára biztosított források tekintetében az egyes támogatási jogviszonyokban a támogató részére meghatározott beszámolási határidőt követően azonnal, de legkésőbb 2022. március 31.” szövegrész helyébe az „az Emberi Erőforrások Minisztériuma fejezetben meghatározott Versenysport és olimpiai felkészülés szakmai támogatása előirányzat javára biztosított 250 000 000 forint tekintetében 2023. március 31., a további, az Emberi Erőforrások Minisztériuma fejezetben meghatározott Fejezeti kezelésű előirányzatok cím javára biztosított források tekintetében az egyes támogatási jogviszonyokban a támogató részére meghatározott beszámolási határidőt követően azonnal, de legkésőbb 2022. március 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A Maecenas Universitatis Corvini Alapítvány támogatásáról szóló 1810/2019. (XII. 27.) Korm. határozat 3. pontjában a „2022. december 31-ig” szövegrész helyébe a „2023. december 31-ig” szöveg lép.
+## 4.[^3]
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, egyes kormányhatározatok végrehajtása során alkalmazandó eltérő rendelkezésekről, valamint kormányhatározat módosításáról szóló 1755/2021. (X. 27.) Korm. határozat 4. pontjában az „1. mellékletében” szövegrész helyébe a „3. mellékletében” szöveg lép.
+## 5.[^4]
 
 1. melléklet az 1872/2021. (XII. 3.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
