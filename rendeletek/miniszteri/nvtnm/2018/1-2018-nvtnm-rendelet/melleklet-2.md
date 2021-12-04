@@ -332,7 +332,7 @@
 
 | 2. | Start Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045508 | 2022. december 31. |
 
-| 3. | Széchenyi Tőkealap-kezelő Zártkörűen működő Részvénytársaság | 01-10-046411 | 2022. december 31. |
+| 3. | Széchenyi Alapok Kockázati Tőkealap-kezelő Zártkörűen működő Részvénytársaság | 01-10-046411 | 2022. december 31. |
 
 ## XII. Tulajdonosi joggyakorló: a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter
 
