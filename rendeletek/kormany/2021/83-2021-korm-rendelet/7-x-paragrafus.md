@@ -1,4 +1,4 @@
-7/X. §[^42] (1) A 2. mellékletben foglalt táblázat 50. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+7/X. §[^44] (1) A 2. mellékletben foglalt táblázat 50. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -38,4 +38,4 @@ b) az OTÉK 7. számú melléklete szerint meghatározott számú kerékpár elh
 
 (4) A 2. mellékletben foglalt táblázat 50. sora szerinti beruházással érintett ingatlanon a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 43. § (5c) bekezdésében foglaltakon kívül a műemlék részlegesen lebontható akkor is, ha az ingatlan közcélú rendeltetéséhez, az ingatlan méltó és fenntartható használatához, valamint hasznosításához szükséges átalakítások érdekében szükséges, és ezek az átalakítások a műemléki értékek aránytalan sérelme nélkül, a műemléki jelleg megtartása és a védelmet megalapozó általános műemléki érték érvényesülése mellett elvégezhetőek.
 
-[^42]: A 7/X. §-t az 546/2021. (IX. 24.) Korm. rendelet 1. §-a iktatta be.
+[^44]: A 7/X. §-t az 546/2021. (IX. 24.) Korm. rendelet 1. §-a iktatta be.

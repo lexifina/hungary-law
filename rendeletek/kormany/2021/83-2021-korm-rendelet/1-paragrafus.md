@@ -10,7 +10,7 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 
 (2a)[^2] Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket is, amelyek a (2) bekezdés b) pontjában foglaltakra vonatkoznak, és a 2. mellékletben foglalt táblázat 22., 23. és 56. sora szerinti beruházással érintett ingatlanokkal szomszédos ingatlanokat is érintik.
 
-(3)[^3] A Kormány kiemelten közérdekű beruházássá nyilvánítja a 2. mellékletben foglalt táblázat 3., 7., 10., 12., 13., 19., 20., 22., 23., 24., 43., 45–50., 52., 53–56. és 58. sora szerinti beruházást.
+(3)[^3] A Kormány kiemelten közérdekű beruházássá nyilvánítja a 2. mellékletben foglalt táblázat 3., 7., 10., 12., 13., 19., 20., 22., 23., 24., 43., 45–50., 52., 53–56., 58., 59. és 60. sora szerinti beruházást.
 
 (4)[^4] A 2. mellékletben foglalt táblázat 3., 10., 19., 24. és 56. sora szerinti beruházás tekintetében az építési tevékenységgel érintett ingatlanok közvetlen környezetét és az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.
 
@@ -26,7 +26,7 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 
 [^1]: Az 1. § (2) bekezdés b) pontja az 591/2021. (X. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2a) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege az 591/2021. (X. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 458/2021. (VIII. 3.) Korm. rendelet 3. § a) pontja, az 525/2021. (IX. 8.) Korm. rendelet 9. § a) pontja, az 546/2021. (IX. 24.) Korm. rendelet 4. § a) pontja, az 566/2021. (X. 4.) Korm. rendelet 3. § a) pontja, az 583/2021. (X. 12.) Korm. rendelet 4. § a) pontja, az 587/2021. (X. 14.) Korm. rendelet 4. § a) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § c) pontja, a 622/2021. (XI. 9.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 458/2021. (VIII. 3.) Korm. rendelet 3. § a) pontja, az 525/2021. (IX. 8.) Korm. rendelet 9. § a) pontja, az 546/2021. (IX. 24.) Korm. rendelet 4. § a) pontja, az 566/2021. (X. 4.) Korm. rendelet 3. § a) pontja, az 583/2021. (X. 12.) Korm. rendelet 4. § a) pontja, az 587/2021. (X. 14.) Korm. rendelet 4. § a) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § c) pontja, a 622/2021. (XI. 9.) Korm. rendelet 4. § a) pontja, a 680/2021. (XII. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, az 566/2021. (X. 4.) Korm. rendelet 3. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
 [^5]: Az 1. § (5) bekezdését a 212/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 383/2021. (VI. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^6]: Az 1. § (6) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.

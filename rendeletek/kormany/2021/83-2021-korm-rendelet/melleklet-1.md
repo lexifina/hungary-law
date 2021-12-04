@@ -1,4 +1,4 @@
-## 43. §[^107] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 622/2021. (XI. 9.) Korm. rendelettel (a továbbiakban: Módr35.) megállapított 1. § (3) bekezdését, 3. § (3) és (5) bekezdését, 5. § (2) bekezdését, 6/B. §-át, 7/F. §-át, 2. mellékletében foglalt táblázat 58. sorát és 3. mellékletében foglalt táblázat 7. sorát a Módr35. hatálybalépésekor[^108] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 44. §[^111] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 680/2021. (XII. 3.) Korm. rendelettel (a továbbiakban: Módr36.) megállapított 1. § (3) bekezdését, 3. § (3) bekezdését, 6/C. §-át, 7/T. § (2) bekezdés 7. pontját, valamint 2. mellékletében foglalt táblázat 59. és 60. sorát a Módr36. hatálybalépésekor[^112] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -46,20 +46,20 @@
 
 21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-22.[^109] földvédelmi hatósági eljárások,
+22.[^113] földvédelmi hatósági eljárások,
 
-23.[^110] erdészeti hatósági eljárások,
+23.[^114] erdészeti hatósági eljárások,
 
-24.[^111] bányahatósági engedélyezési eljárások,
+24.[^115] bányahatósági engedélyezési eljárások,
 
-25.[^112] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+25.[^116] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-26.[^113] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+26.[^117] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^107]: A 43. §-t a 622/2021. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
-[^108]: A hatálybalépés időpontja 2021. november 10.
-[^109]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^110]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^111]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^112]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^113]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^111]: A 44. §-t a 680/2021. (XII. 3.) Korm. rendelet 2. §-a iktatta be.
+[^112]: A hatálybalépés időpontja 2021. december 4.
+[^113]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^114]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^115]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^116]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^117]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.

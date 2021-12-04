@@ -16,6 +16,6 @@
 
 | 7. | Budapesti Műszaki és Gazdaságtudományi Egyetem Innovációs és Fejlesztési Központ megvalósítása | Budapest belterület 4107/24 helyrajzi számú ingatlan | 2023. november 1. – 2026. november 8. |
 
-4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^116]
+4. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^120]
 
-[^116]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
+[^120]: A 4. mellékletet újonnan az 590/2021. (X. 20.) Korm. rendelet 5. §-a iktatta be.
