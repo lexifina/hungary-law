@@ -24,24 +24,14 @@
 
 ## 1.6. egyetért azzal, hogy az 1.5. alpont szerinti átforgatás megvalósulásáig a Projektek 2023. december 31. napját követően felmerült költségeire ideiglenesen – a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján – az IKOP hazai társfinanszírozáson felüli felhasználásával kerüljön biztosításra a fedezet.
 
-## 2. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete az 1. melléklet szerint módosul.
+## 2.[^1]
 
-## 3. Az 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont fac) alpontjában a „160,78%-áig” szövegrész helyébe a „161,43%-áig” szöveg,
-
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „202,583” szövegrész helyébe a „203,390” szöveg lép.
+## 3.[^2]
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1875/2021. (XII. 3.) Korm. határozathoz
+1. melléklet az 1875/2021. (XII. 3.) Korm. határozathoz[^3]
 
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 102g. és 102h. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-| 102g. | IKOP-3.2.0-15 | Győr elővárosi közlekedés fejlesztése (előkészítés) | Győr Megyei Jogú Város Önkormányzata | 0,39 (becsült támogatási intenzitás: 100%) | A kötöttpályás közlekedés bevonása Győr városi elővárosi közlekedésébe projekt megvalósíthatósági tanulmány szintű előkészítése. |
-
-| 102h. | IKOP-3.2.0-15 | A közösségi közlekedés fejlesztése elektromos autóbuszok beszerzésével Győrben és gazdasági övezetében (előkészítés) | Győr Megyei Jogú Város Önkormányzata | 0,42 (becsült támogatási intenzitás: 100%) | Elektromos autóbuszok és a hozzájuk tartozó töltőoszlopok, valamint az ehhez kapcsolódó beruházások beszerzésének előkészítése. |
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
