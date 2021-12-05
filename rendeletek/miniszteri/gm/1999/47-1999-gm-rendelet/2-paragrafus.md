@@ -166,7 +166,7 @@ Emelőgépet önállóan az a személy kezelhet, aki
 
 – a feladat elvégzésére a vonatkozó jogszabály[^8] szerint előzetes és időszakos orvosi vizsgálat alapján alkalmas,
 
-– rendelkezik az emelőgép kezelésére államilag elismert szakképesítéssel és a helyváltoztatásra is képes emelőgép esetében – ha azt maga vezeti – az ahhoz szükséges vezetői engedéllyel.
+– rendelkezik az emelőgép kezeléséhez szükséges gépkezelői jogosítvánnyal.
 
 5.2. Emelőgép karbantartó
 
@@ -1538,7 +1538,7 @@ egyéb emelőszerkezetekre
 [^4]: A melléklet I. fejezet 1. alcím 1.3. pontját a 17/2013. (VI. 4.) NGM rendelet 11. § (1) bekezdése iktatta be.
 [^5]: A 21/1998. (IV. 17.) IKIM rendeletet a 16/2008. (VIII. 30.) NFGM rendelet hatályon kívül helyezte 2009. december 29. napjával.
 [^6]: A melléklet I. Fejezetének 4.5. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
-[^7]: A melléklet I. Fejezetének 5.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított szöveg.
+[^7]: A melléklet I. Fejezetének 5.1. alpontja a 135/2004. (XII. 16.) GKM rendelet 1. §-ával megállapított, az 54/2021. (XI. 5.) ITM rendelet 10. §-a szerint módosított szöveg.
 [^8]: A munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet.
 [^9]: 33/1998. (VI. 24.) NM rendelet.
 [^10]: 33/1998. (VI. 24.) NM rendelet.
