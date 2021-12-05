@@ -1,13 +1,5 @@
 ## 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 680/2021. (XII. 3.) Korm. rendelethez
+1. melléklet a 680/2021. (XII. 3.) Korm. rendelethez[^6]
 
-Az R. 2. mellékletében foglalt táblázat a következő 59. és 60. sorral egészül ki:
-
-|  | (A | B | C |
-
-| 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott) |
-
-| 59. | Csornai Járásbíróság épületének átalakítása | Csorna belterület 2620/1 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
-
-| 60. | Balatonfüredi Törvénykezési Hely elhelyezésének megvalósítása | Balatonfüred belterület 1552/1 helyrajzi számú ingatlan | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
+[^6]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
