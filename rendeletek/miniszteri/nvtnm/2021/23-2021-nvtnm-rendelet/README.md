@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-23-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-04 | 2021-23-20-7P.1 | 23/2021. (XII. 3.) NVTNM rendelet |
+| 2021-12-05 | 2021-23-20-7P.2 | 7/2022. (II. 14.) NVTNM rendelet |
