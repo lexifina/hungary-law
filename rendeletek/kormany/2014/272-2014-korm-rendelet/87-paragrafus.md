@@ -6,11 +6,11 @@ b) a támogatási szerződés akkor módosítható, ha a támogatott tevékenys�
 
 c)[^503] a módosítás nem irányulhat a támogatási döntésben meghatározott támogatási összegen felüli többlet-támogatás biztosítására, kivéve, ha közszféra szervezet esetén
 
-ca)[^504] az eredeti támogatási összeg 15%-át, de legfeljebb 30 millió forintot el nem érő többlettámogatás vonatkozásában – feltéve, hogy az adott program érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre – az irányító hatóság,
+ca)[^504] az eredeti támogatási összeg 15%-át, de legfeljebb 30 millió forintot el nem érő többlettámogatás vonatkozásában – feltéve, hogy az adott program érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint az operatív programot finanszírozó pénzügyi alapra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre – az irányító hatóság,
 
-cb)[^505] a nettó bevételt termelő, nem kiemelt projekt finanszírozási hiányának meghatározása során a támogatási intenzitás változik akként, hogy a projekt elszámolható összköltsége változatlan marad – feltéve, hogy az adott program érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre – az irányító hatóság,
+cb)[^505] a nettó bevételt termelő, nem kiemelt projekt finanszírozási hiányának meghatározása során a támogatási intenzitás változik akként, hogy a projekt elszámolható összköltsége változatlan marad – feltéve, hogy az adott program érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint az operatív programot finanszírozó pénzügyi alapra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre – az irányító hatóság,
 
-cc)[^506] a TOP keretéből finanszírozott projekt esetén az eredeti támogatási összeg 30%-át, de legfeljebb 100 millió forintot el nem érő többlettámogatás vonatkozásában – feltéve, hogy a TOP érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre – az irányító hatóság,
+cc)[^506] a TOP keretéből finanszírozott projekt esetén az eredeti támogatási összeg 30%-át, de legfeljebb 100 millió forintot el nem érő többlettámogatás vonatkozásában – feltéve, hogy a TOP érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint az operatív programot finanszírozó pénzügyi alapra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre – az irányító hatóság,
 
 cd)[^507] – a ca)–cc) alpontba nem tartozó esetben – a Kormány
 
@@ -38,7 +38,7 @@ m)[^511] az irányító hatóság a 89/B. § (1) bekezdése szerinti esetben eng
 
 (1a)[^512] Az (1) bekezdés c), e), j) és k) pontját a pénzügyi eszközökre nem kell alkalmazni.
 
-(1b)[^513] Ha az (1) bekezdés c) pontja szerinti esetben az adott program érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre, akkor ennek terhére kell kezdeményezni a többlettámogatás biztosítását.
+(1b)[^513] Ha az (1) bekezdés c) pontja szerinti esetben az adott program érintett prioritásának a Kormány által meghatározott indikatív támogatási keretösszegén belül, vagy ha a Kormány a 44/C. § (4) bekezdése szerint az operatív programot finanszírozó pénzügyi alapra maximális kötelezettségvállalási szintet határozott meg, úgy annak mértékéig szabad forrás áll rendelkezésre, akkor ennek terhére kell kezdeményezni a többlettámogatás biztosítását.
 
 (1c)[^514] Ha az (1e) bekezdés szerinti finanszírozási lehetőségek nem állnak rendelkezésre, akkor a költségnövekmény támogatását – az (1) bekezdés c) pont ca)–cc) alpontja kivételével – az európai uniós forrásból finanszírozott egyes projektek költségnövekménye támogathatóságáról szóló 17/2017. (II. 1.) Korm. rendeletben meghatározottak szerint lehet kezdeményezni.
 
@@ -58,7 +58,7 @@ ad) a hitelfelvétel lehetősége nem biztosított,
 
 b) egyéb közszféra szervezet kedvezményezett esetén:
 
-ba)[^517] nem lehet elállni ugyanazon prioritáson belül az el nem indult, nem megfelelően előrehaladó vagy a prioritásnak a Kormány által meghatározott indikatív támogatási keretösszegét, vagy ha a Kormány a 44/C. § (4) bekezdése szerint a prioritásra maximális kötelezettségvállalási szintet határozott meg, akkor azt meghaladó forrás terhére támogatott projektektől, illetve az érintett vagy más projekt műszaki tartalmát nem lehet módosítani,
+ba)[^517] nem lehet elállni ugyanazon prioritáson belül az el nem indult, nem megfelelően előrehaladó vagy a prioritásnak a Kormány által meghatározott indikatív támogatási keretösszegét, vagy ha a Kormány a 44/C. § (4) bekezdése szerint az operatív programot finanszírozó pénzügyi alapra maximális kötelezettségvállalási szintet határozott meg, akkor azt meghaladó forrás terhére támogatott projektektől, illetve az érintett vagy más projekt műszaki tartalmát nem lehet módosítani,
 
 bb) a kedvezményezett más költségvetési forrásból finanszírozni tervezett, még nem megkezdett projektje számára nyújtott forrás terhére a költségnövekmény nem finanszírozható,
 
@@ -86,20 +86,20 @@ b) ha a megvalósíthatósági tanulmányban kiválasztott változattól eltér�
 
 [^502]: A 87. § (1) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 99. pontja szerint módosított szöveg.
 [^503]: A 87. § (1) bekezdés c) pontja a 153/2019. (VI. 26.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^504]: A 87. § (1) bekezdés c) pont ca) alpontja a 207/2021. (IV. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^505]: A 87. § (1) bekezdés c) pont cb) alpontja a 366/2019. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 207/2021. (IV. 29.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^506]: A 87. § (1) bekezdés c) pont cc) alpontját a 366/2019. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 139/2021. (III. 23.) Korm. rendelet 1. §-ával megállapított, a 207/2021. (IV. 29.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^504]: A 87. § (1) bekezdés c) pont ca) alpontja a 207/2021. (IV. 29.) Korm. rendelet 2. § b) pontja, a 673/2021. (XII. 2.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^505]: A 87. § (1) bekezdés c) pont cb) alpontja a 366/2019. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 207/2021. (IV. 29.) Korm. rendelet 2. § c) pontja, a 673/2021. (XII. 2.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^506]: A 87. § (1) bekezdés c) pont cc) alpontját a 366/2019. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 139/2021. (III. 23.) Korm. rendelet 1. §-ával megállapított, a 207/2021. (IV. 29.) Korm. rendelet 2. § d) pontja, a 673/2021. (XII. 2.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^507]: A 87. § (1) bekezdés c) pont cd) alpontját a 139/2021. (III. 23.) Korm. rendelet 1. §-a iktatta be.
 [^508]: A 87. § (1) bekezdés h) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 100. pontja szerint módosított szöveg.
 [^509]: A 87. § (1) bekezdés i) pontja a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^510]: A 87. § (1) bekezdés l) pontja a 24/2017. (II. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^511]: A 87. § (1) bekezdés m) pontját a 456/2020. (X. 20.) Korm. rendelet 1. §-a iktatta be.
 [^512]: A 87. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 52. § (2) bekezdése iktatta be.
-[^513]: A 87. § (1b) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be, szövege a 207/2021. (IV. 29.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^513]: A 87. § (1b) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be, szövege a 207/2021. (IV. 29.) Korm. rendelet 2. § e) pontja, a 673/2021. (XII. 2.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
 [^514]: A 87. § (1c) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be, szövege a 153/2019. (VI. 26.) Korm. rendelet 11. § (2) bekezdésével megállapított, a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés f) pontja, a 139/2021. (III. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^515]: A 87. § (1d) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
 [^516]: A 87. § (1e) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
-[^517]: A 87. § (1e) bekezdés b) pont ba) alpontja a 207/2021. (IV. 29.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
+[^517]: A 87. § (1e) bekezdés b) pont ba) alpontja a 207/2021. (IV. 29.) Korm. rendelet 2. § f) pontja, a 673/2021. (XII. 2.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
 [^518]: A 87. § (1f) bekezdését a 160/2018. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
 [^519]: A 87. § (1g) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés g) pontja, a 139/2021. (III. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^520]: A 87. § (1h) bekezdését a 153/2019. (VI. 26.) Korm. rendelet 11. § (3) bekezdése iktatta be.
