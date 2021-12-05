@@ -122,6 +122,8 @@
 
 | 60. | Balatonfüredi Törvénykezési Hely elhelyezésének megvalósítása | Balatonfüred belterület 1552/1 helyrajzi számú ingatlan | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^119]
+| 61. | Fiatalokért Központ kialakítása és kapcsolódó közmű- és útfejlesztési infrastrukturális fejlesztések, valamint Sukoró Község külterület Velencei-tóval érintett parti területeinek integrált fejlesztése | Sukoró külterület 018/1, 019/1, 019/3, 019/13, 021/13, 021/15, 022/2, 022/3, 022/4, 022/5, 022/7, 022/8, 022/10, 022/11, 022/13, 022/14, 024/5, 026/1, 026/2, 026/3, 026/4, 026/5, 029/2, 030/5, 030/6, 030/28, 030/29, 030/30, 032/5, 038/5, 039, 044 és 045 helyrajzi számú ingatlanok | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^119]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^121]
+
+[^121]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
