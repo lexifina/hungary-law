@@ -1,0 +1,39 @@
+# Az emberi erőforrások minisztere 4/2021. (XII. 6.) EMMI határozata
+
+Magyar Közlöny 2021. évi 222. szám, 2021. december 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/W7dzK2pffY0dVUtnixtc61a7df9a3f8cc/dokumentumok/e8b304a123ea516ac72e7285a512c6a056892655/letoltes)
+
+---
+
+Az emberi erőforrások minisztere 4/2021. (XII. 6.) EMMI határozata
+a vizsgálati gyógyszerekkel végzett klinikai vizsgálatokra vonatkozó, jogharmonizációs célú
+törvénymódosítások hatálybalépéséről
+A jogalkotásról szóló 2010. évi CXXX. törvény 11. §-a alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.)
+Korm. rendelet 92. § (1) bekezdés 3. pontja szerinti feladatkörömben és az egyes vagyongazdálkodási kérdésekről, illetve
+egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 10. §
+(18) bekezdése, valamint az egyes egészségügyi tárgyú rendeletek módosításáról szóló 17/2018. (VII. 4.) EMMI rendelet 8. §
+(2) bekezdése szerinti jogkörömben eljárva a következő határozatot hozom:
+1. Megállapítom, hogy az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv
+hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet
+(a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 82. cikk (3) bekezdése szerinti közlemény
+az emberi felhasználásra szánt gyógyszerek klinikai vizsgálataival kapcsolatos uniós portálnak és uniós adatbázisnak
+az 536/2014/EU európai parlamenti és tanácsi rendelet 82. cikk (2) bekezdése szerinti követelményeknek való
+megfeleléséről szóló, 2021. július 13-i (EU) 2021/1240 bizottsági határozattal az Európai Unió hivatalos lapjában
+2021. július 31-én közzétételre került.
+2. Az 1. pontban, valamint
+a) az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának
+erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény (a továbbiakban: Törvény) 10. §
+(15) bekezdésében foglaltak alapján a Törvény 14. alcíme, 66. § b) és c) pontja, 96–99. §-a, 103. §-a,
+105–108. §-a, 109. § 2., 3., 8., 10., 11., 13., 15., 18. és 22. pontja, 110. § b) és c) pontja, 122. §-a, 130. § g) pontja,
+144. §-a és 7. melléklete,
+b) az egyes egészségügyi tárgyú rendeletek módosításáról szóló 17/2018. (VII. 4.) EMMI rendelet
+(a továbbiakban: EMMI rendelet) 8. § (2) bekezdésében foglaltak alapján az EMMI rendelet 1. alcíme és
+1. melléklete
+hatálybalépésének napja 2022. január 31-e, azaz kettőezerhuszonkettő január harmincegyedik napja.
+ Dr. Kásler Miklós s. k.,
+ emberi erőforrások minisztere
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
