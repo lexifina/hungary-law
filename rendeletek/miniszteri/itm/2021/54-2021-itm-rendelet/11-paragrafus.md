@@ -1,1 +1,3 @@
-## 10. § Az Emelőgép Biztonsági Szabályzat kiadásáról szóló 47/1999. (VIII. 4.) GM rendelet Melléklet I. Fejezet 5. alcím 5.1. pont harmadik francia bekezdésében a „kezelésére államilag elismert szakképesítéssel és a helyváltoztatásra is képes emelőgép esetében – ha azt maga vezeti – az ahhoz szükséges vezetői engedéllyel” szövegrész helyébe a „kezeléséhez szükséges gépkezelői jogosítvánnyal” szöveg lép.
+## 10. §[^1]
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
