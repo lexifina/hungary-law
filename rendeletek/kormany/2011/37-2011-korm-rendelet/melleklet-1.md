@@ -1,6 +1,6 @@
-## 42. §[^194]
+## 42. §[^209]
 
-1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^195]
+1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^210]
 
 ## Az egyes támogatási kategóriák
 
@@ -286,7 +286,13 @@
 
 15.2.3. A kkv-k vásárokon való részvételéhez nyújtott támogatás (651/2014/EU bizottsági rendelet 19. cikk)
 
-15.2.4. Az európai területi együttműködési projektekben részt vevő kkv-knál felmerült együttműködési költségekhez nyújtott támogatás (651/2014/EU bizottsági rendelet 20. cikk)
+15.2.4. Az európai területi együttműködési projektekben részt vevő vállalkozásoknál felmerült költségekhez nyújtott támogatás (651/2014/EU bizottsági rendelet 20. cikk)
+
+15.2.5. A közösségvezérelt helyi fejlesztési (CLLD) projektekben vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség (EIP) operatív csoportjának projektjeiben részt vevő kkv-knál felmerült költségekhez nyújtott támogatás (651/2014/EU bizottsági rendelet 19a. cikk)
+
+15.2.6. A közösségvezérelt helyi fejlesztési (CLLD) projektekből vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség (EIP) operatív csoportjának projektjeiből részesülő kkv-knak nyújtott korlátozott összegű támogatás (651/2014/EU bizottsági rendelet 19b. cikk)
+
+15.2.7. Vállalkozásoknak az európai területi együttműködési projektekben való részvételéhez nyújtott korlátozott összegű támogatások (651/2014/EU bizottsági rendelet 20a. cikk)
 
 15.3. A kkv-k finanszírozási eszközökhöz való hozzáférését elősegítő támogatás
 
@@ -320,6 +326,14 @@
 
 15.4.6. A halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás (651/2014/EU bizottsági rendelet 30. cikk)
 
+15.4.7. A „kiválósági pecsét” minőségi védjegyben részesült projektekre irányuló támogatás (651/2014/EU bizottsági rendelet 25a. cikk)
+
+15.4.8. A Marie Skłodowska-Curie-cselekvésekre és az EKT által támogatott ötlet-életképességi cselekvésekre irányuló támogatás (651/2014/EU bizottsági rendelet 25b. cikk)
+
+15.4.9. A társfinanszírozott kutatás-fejlesztési projektekben foglalt támogatás (651/2014/EU bizottsági rendelet 25c. cikk)
+
+15.4.10. Partnerségalakításra irányuló támogatás (651/2014/EU bizottsági rendelet 25d. cikk)
+
 15.5. Képzési támogatás
 
 15.5.1. Képzési támogatás (651/2014/EU bizottsági rendelet 31. cikk)
@@ -342,7 +356,7 @@
 
 15.7.3. Energiahatékonysági intézkedésekhez nyújtott beruházási támogatás (651/2014/EU bizottsági rendelet 38. cikk)
 
-15.7.4. Épület-energiahatékonysági projektekre irányuló beruházási támogatás (651/2014/EU bizottsági rendelet 39. cikk)
+15.7.4. Épület-energiahatékonysági projektekre irányuló, pénzügyi eszközök formájában nyújtott beruházási támogatás (651/2014/EU bizottsági rendelet 39. cikk)
 
 15.7.5. Nagy hatásfokú kapcsolt energiatermelésre irányuló beruházási támogatás (651/2014/EU bizottsági rendelet 40. cikk)
 
@@ -364,13 +378,21 @@
 
 15.7.14. Környezetvédelmi tanulmányokhoz nyújtott támogatás (651/2014/EU bizottsági rendelet 49. cikk)
 
+15.7.15. Kibocsátásmentes és alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás (651/2014/EU bizottsági rendelet 36a. cikk)
+
 15.8. Természeti katasztrófa okozta károk helyreállítására nyújtott támogatás
 
 15.8.1. A természeti katasztrófa okozta károk helyreállítására irányuló támogatási programok (651/2014/EU bizottsági rendelet 50. cikk)
 
 15.9. Széles sávú infrastruktúrára irányuló támogatás
 
-15.9.1. Széles sávú infrastruktúrára irányuló támogatás (651/2014/EU bizottsági rendelet 52. cikk)
+15.9.1. Vezetékes széles sávú infrastruktúrára irányuló támogatás (651/2014/EU bizottsági rendelet 52. cikk)
+
+15.9.2. 4G és 5G mobilhálózatokhoz nyújtott támogatás (651/2014/EU bizottsági rendelet 52a. cikk)
+
+15.9.3. Transzeurópai digitális konnektivitási infrastruktúrával kapcsolatos, közös érdekű projektekhez nyújtott támogatás (651/2014/EU bizottsági rendelet 52b. cikk)
+
+15.9.4. Konnektivitási utalványok formájában nyújtott támogatás (651/2014/EU bizottsági rendelet 52c. cikk)
 
 15.10. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
@@ -395,6 +417,30 @@
 15.14.1. Tengeri kikötőkre irányuló támogatás (651/2014/EU bizottsági rendelet 56b. cikk)
 
 15.14.2. Belvízi kikötőkre irányuló támogatás (651/2014/EU bizottsági rendelet 56c. cikk)
+
+15.15. Az InvestEU Alap által támogatott pénzügyi termékek keretében nyújtott támogatás
+
+15.15.1. Az InvestEU Alap által támogatott pénzügyi termékek keretében nyújtott támogatás (651/2014/EU bizottsági rendelet 56e. cikk)
+
+15.15.1.1. Az (EU) 2021/1153 rendelet keretében finanszírozott, vagy az említett rendelet szerinti „kiválósági pecsét” minőségi védjegyben részesült, a transzeurópai digitális konnektivitási infrastruktúrával kapcsolatos közös érdekű projekthez nyújtott támogatás [651/2014/EU bizottsági rendelet 56e. cikk (2) bekezdés]
+
+15.15.1.2. A kizárólag egyes támogatható társadalmi-gazdasági fókuszpontok csatlakoztatását szolgáló vezetékes széles sávú hálózatokba történő beruházásokhoz nyújtott támogatás [651/2014/EU bizottsági rendelet 56e. cikk (3) bekezdés]
+
+15.15.1.3. Energiatermelésre és energetikai infrastruktúrára irányuló támogatás [651/2014/EU bizottsági rendelet 56e. cikk (4) bekezdés]
+
+15.15.1.4. A szociális, oktatási, kulturális és természetiörökség-infrastruktúrára és tevékenységekre irányuló támogatás [651/2014/EU bizottsági rendelet 56e. cikk (5) bekezdés]
+
+15.15.1.5. A közlekedésre és a közlekedési infrastruktúrára irányuló támogatás [651/2014/EU bizottsági rendelet 56e. cikk (6) bekezdés]
+
+15.15.1.6. Egyéb infrastruktúrákra irányuló támogatás [651/2014/EU bizottsági rendelet 56e. cikk (7) bekezdés]
+
+15.15.1.7. A környezetvédelemre – beleértve az éghajlatvédelmet – irányuló támogatás [651/2014/EU bizottsági rendelet 56e. cikk (8) bekezdés]
+
+15.15.1.8. A kutatásra-fejlesztésre, innovációra és digitalizációra irányuló támogatás [651/2014/EU bizottsági rendelet 56e. cikk (9) bekezdés]
+
+15.15.1.9. Az InvestEU Alapból támogatott finanszírozás formájában kkv-knak vagy kis méretű közepes tőkeértékű vállalatoknak nyújtott támogatás [651/2014/EU bizottsági rendelet 56e. cikk (10) bekezdés]
+
+15.15.2. Az InvestEU Alap által támogatott, üzleti alapon kínált közvetített pénzügyi termékekben foglalt támogatás (651/2014/EU 56d. és 56f. cikk)
 
 16. Mezőgazdasági, vidékfejlesztési és erdészeti támogatás
 
@@ -646,5 +692,5 @@
 
 18. Nem állami támogatás
 
-[^194]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^195]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése szerint módosíott szöveg.
+[^209]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^210]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése, a 679/2021. (XII. 3.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg..

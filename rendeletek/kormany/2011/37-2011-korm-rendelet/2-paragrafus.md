@@ -52,7 +52,7 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 9d.[^20] közzétételi kötelezettség hatálya alá tartozó támogatás: a közzétételi kötelezettség hatálya alá tartozó ad hoc támogatás vagy támogatási program keretében egyedi kedvezményezetteknek odaítélt támogatás,
 
-10.[^21] létező támogatási program: a 2015/1589/EU tanácsi rendelet 1. cikk b) pontja szerinti támogatás,
+10.[^21] létező támogatás: a 2015/1589/EU tanácsi rendelet 1. cikk b) pontja szerinti támogatás,
 
 10a.[^22] mezőgazdasági állami támogatás: az EUMSz I. mellékletében szereplő mezőgazdasági termékek elsődleges előállítására, a mezőgazdasági termékek feldolgozására vagy a mezőgazdasági termékek forgalmazására irányuló tevékenységekre nyújtott állami támogatás,
 
@@ -92,9 +92,9 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 21.[^34] termékágazat: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 20-i 1308/2013/EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés a)–w) pontjában szereplő ágazat.
 
-22.[^35]
+22.[^35] uniós joggal összhangban levő támogatási intézkedés: a létező támogatás, továbbá a csoportmentességi rendeletek, a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, valamint a 19. § szerinti jogi aktusokra figyelemmel a miniszter által jóváhagyott támogatási program vagy ad hoc támogatás,
 
-23.[^36]
+23.[^36] uniós joggal összhangban levő támogatási program: a létező támogatásnak minősülő, továbbá a csoportmentességi rendeletek, a csekély összegű támogatásokra vonatkozó bizottsági rendeletek, valamint a 19. § szerinti jogi aktusokra figyelemmel a miniszter által jóváhagyott támogatási program.
 
 [^4]: A 2. § 1. pontja a 221/2014. (IX. 4.) Korm. rendelet 543. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 1. pont b) alpontja a 38/2016. (III. 3.) Korm. rendelet 12. § 2. pontja szerint módosított szöveg.
@@ -113,7 +113,7 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 [^18]: A 2. § 9b. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^19]: A 2. § 9c. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^20]: A 2. § 9d. pontját a 177/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^21]: A 2. § 10. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.
+[^21]: A 2. § 10. pontja a 38/2016. (III. 3.) Korm. rendelet 12. § 6. pontja, a 679/2021. (XII. 3.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^22]: A 2. § 10a. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be.
 [^23]: A 2. § 10b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 328/2016. (X. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^24]: A 2. § 10c. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (5) bekezdése iktatta be, szövege a 38/2016. (III. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
@@ -127,5 +127,5 @@ d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 [^32]: A 2. § 19b. pontját a 221/2014. (IX. 4.) Korm. rendelet 543. § (6) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^33]: A 2. § 20. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 6. pontja szerint módosított szöveg.
 [^34]: A 2. § 21. pontját újonnan a 49/2019. (III. 13.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^35]: A 2. § 22. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése.
-[^36]: A 2. § 23. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése.
+[^35]: A 2. § 22. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
+[^36]: A 2. § 23. pontját az 550/2013. (XII. 30.) Korm. rendelet 67. § (4) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 555. § (2) bekezdése, újonnan a 679/2021. (XII. 3.) Korm. rendelet 1. §-a iktatta be.
