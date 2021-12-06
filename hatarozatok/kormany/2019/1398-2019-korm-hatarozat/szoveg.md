@@ -32,9 +32,9 @@ a) vizsgálja meg az épületinformációs tervezés (Building Information Model
 
 b) vizsgálja meg a tervezői és kivitelezői szakma gyakorlásának feltételrendszerét és felelősségi rendszerét meghatározó szabályozást, és készítsen előterjesztést a Kormány számára a megrendelők, a tervezők és az építőipari vállalkozások számára kedvező módosításokra,
 
-c) a szakmai kamarák bevonásával vizsgálja meg az építőipari kivitelezőkre és tervezőkre vonatkozó kötelező felelősségbiztosítási keretrendszer kiterjesztésének lehetőségét,
+c)[^1]
 
-d) a szabálytalan kivitelezések visszaszorítása és az elszámolási viták hatékonyabb rendezése érdekében vizsgálja felül az ágazati szakmai felelősségi szabályozást, és tegyen javaslatot a megrendelések szabályszerű és hatékony teljesítése érdekében szükséges jogszabály-módosításokra;
+d)[^2]
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -117,3 +117,6 @@ Felelős: pénzügyminiszter
 innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: Az 1.3. pont c) alpontját az 1879/2021. (XII. 6.) Korm. határozat 2. pontja visszavonta.
+[^2]: Az 1.3. pont d) alpontját az 1879/2021. (XII. 6.) Korm. határozat 2. pontja visszavonta.
