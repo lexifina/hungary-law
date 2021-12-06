@@ -17,3 +17,7 @@
 7. csekély összegű támogatásként,
 
 8. átmeneti támogatásként
+
+9.[^5] kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
+
+[^5]: A 8. § 9. pontját a 679/2021. (XII. 3.) Korm. rendelet 38. §-a iktatta be.

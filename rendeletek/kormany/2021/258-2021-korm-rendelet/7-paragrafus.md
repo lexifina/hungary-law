@@ -70,7 +70,7 @@
 
 34. kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatásként,
 
-35. kis- és középvállalkozás európai területi együttműködési projektekkel kapcsolatos együttműködési költségeihez nyújtott támogatásként,
+35.[^3]
 
 36. kis- és középvállalkozásnak nyújtott innovációs támogatásként,
 
@@ -87,3 +87,8 @@
 42. csekély összegű támogatásként,
 
 43. átmeneti támogatásként
+
+44.[^4] 4G és 5G mobilhálózat kiépítéséhez nyújtott beruházási támogatásként
+
+[^3]: A 7. § 35. pontját a 679/2021. (XII. 3.) Korm. rendelet 43. § a) pontja hatályon kívül helyezte.
+[^4]: A 7. § 44. pontját a 679/2021. (XII. 3.) Korm. rendelet 37. §-a iktatta be.

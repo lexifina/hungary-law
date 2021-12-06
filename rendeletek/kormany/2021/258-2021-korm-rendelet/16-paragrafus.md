@@ -2,7 +2,7 @@
 
 ## 16. § E rendelet
 
-a) 3. § 1–26., 33–35., 39. és 40. pontja, 4. § 1–20., 25–28., 32., 34. és 35. pontja, 5. § 1–7. és 12–18. pontja, 6. § 1–14. és 19–24. pontja, 7. § 1., 3–16., 19–26. és 33–37. pontja, 8. § 1–4. pontja, 9. § 1–3. pontja, 10. § (1) bekezdés 1–35. pontja és 5. alcíme a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet,
+a)[^10] 3. § 1–26., 33–35. és 39–41. pontja, 4. § 1–20., 25–28., 32. és 34–36. pontja, 5. § 1–7. és 12–18. pontja, 6. § 1–14. és 19–24. pontja, 7. § 1., 3–16., 19–26., 33–37. és 44. pontja, 8. § 1–4. és 9. pontja, 9. § 1–3. pontja, 10. § (1) bekezdés 1–35. pontja és 5–5/A. alcíme a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet,
 
 b) 3. § 31. pontja, 4. § 23. pontja, 5. § 10. pontja, 6. § 17. pontja, 7. § 42. pontja, 8. § 7. pontja, 9. § 4. pontja és 10. § (1) bekezdés 36. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
 
@@ -19,3 +19,5 @@ g) 3. § 38. pontja, 4. § 31. pontja és 10. § (1) bekezdés 41. pontja az Eur
 h) 3. § 32. pontja, 4. § 24. pontja, 5. § 11. pontja, 6. § 18. pontja, 7. § 17., 18. és 43. pontja, 8. § 8. pontja, 9. § 5. pontja és 10. § (2)–(4) bekezdése az Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából című, 2020. március 19-i, C(2020) 1863 final számú európai bizottsági közlemény
 
 hatálya alá tartozó támogatást tartalmaz.
+
+[^10]: A 16. § a) pontja a 679/2021. (XII. 3.) Korm. rendelet 41. §-ával megállapított szöveg.

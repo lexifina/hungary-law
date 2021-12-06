@@ -14,7 +14,7 @@
 
 5. kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 14. alcíme,
 
-6. kis- és középvállalkozás európai területi együttműködési projektekkel kapcsolatos együttműködési költségeihez nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 15. alcíme,
+6.[^6]
 
 7. kockázatfinanszírozási támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 16. alcíme,
 
@@ -41,6 +41,8 @@
 18. hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 29. alcíme,
 
 19. uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 30. alcíme,
+
+19a.[^7] kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 30/A. alcíme,
 
 20. jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 31. alcíme,
 
@@ -131,3 +133,6 @@
 (3) A koronavírus-járvány szempontjából releváns kutatáshoz és fejlesztéshez nyújtott támogatás a 255/2014. (X. 10.) Korm. rendelet 41/B. alcíme szerint nyújtható.
 
 (4) A koronavírus-járvány szempontjából releváns termékek előállítására irányuló beruházási támogatás a 255/2014. (X. 10.) Korm. rendelet 41/C. alcíme szerint nyújtható.
+
+[^6]: A 10. § (1) bekezdés 6. pontját a 679/2021. (XII. 3.) Korm. rendelet 43. § b) pontja hatályon kívül helyezte.
+[^7]: A 10. § (1) bekezdés 19a. pontját a 679/2021. (XII. 3.) Korm. rendelet 39. §-a iktatta be.

@@ -71,3 +71,7 @@
 34. megváltozott munkaképességű munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatásként,
 
 35. megváltozott munkaképességű munkavállalók foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatásként
+
+36.[^2] kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
+
+[^2]: A 4. § 36. pontját a 679/2021. (XII. 3.) Korm. rendelet 36. §-a iktatta be.
