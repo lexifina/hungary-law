@@ -2,23 +2,12 @@
 
 ## 42. A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás
 
-86. § (1) A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az elszámolható költségek 100%-áig nyújtható.
+86. §[^270] (1) Támogatás nyújtható vezetékes széles sávú infrastruktúra kiépítéséhez (ezen alcím vonatkozásában a továbbiakban: támogatás).
 
-(2) A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetés-mentes és a technológiasemlegesség elvén alapuló pályáztatás alapján köteles dönteni.
+(2) A támogatás elszámolható költsége a vezetékes széles sávú infrastruktúra kiépítésének, irányításának és üzemeltetésének bármely költsége lehet.
 
-(3) A támogatás keretében
+(3) A beruházáshoz nyújtható maximális támogatási összeget a 89. § (1)–(2) bekezdése szerinti esetben versenypályázat alapján kell megállapítani.
 
-a)[^232] a szükséges aktív és passzív szélessávú infrastruktúra kiépítésének beruházási költsége,
+(4) Ha a támogatás odaítélése a 89. § (3) bekezdésével összhangban versenypályázat nélkül történik, a támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget, amelyet megalapozott előrejelzések alapján kell meghatározni, és előzetesen, vagy visszafizetési mechanizmus alkalmazásával utólag kell levonni az elszámolható költségekből.
 
-b) a szélessávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munkák beruházási költsége,
-
-c) a szélessávú alaphálózat kiépítésének beruházási költsége, és
-
-d) a nagy sebességű újgenerációs hozzáférési hálózat kiépítésének beruházási költsége
-
-## számolható el.
-
-(4)[^233] Ha a támogatást a (2) bekezdésben foglaltaknak megfelelő kiválasztási eljárás alapján ítélik oda, a projekthez kapcsolódó támogatás maximális összege a (3) bekezdésben meghatározott elszámolható költségek figyelembevételétől függetlenül is meghatározható.
-
-[^232]: A 86. § (3) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 66. pontja szerint módosított szöveg.
-[^233]: A 86. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 15. §-a iktatta be.
+[^270]: A 86. § a 679/2021. (XII. 3.) Korm. rendelet 28. §-ával megállapított szöveg.

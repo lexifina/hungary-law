@@ -12,9 +12,9 @@ e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belví
 
 f) energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-g)[^196]
+g)[^222]
 
-h)[^197]
+h)[^223]
 
-[^196]: A 27. § g) pontját a 305/2016. (X. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
-[^197]: A 27. § h) pontját a 365/2017. (XII. 5.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.
+[^222]: A 27. § g) pontját a 305/2016. (X. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^223]: A 27. § h) pontját a 365/2017. (XII. 5.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte.

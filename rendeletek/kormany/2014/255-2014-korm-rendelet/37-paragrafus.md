@@ -1,3 +1,5 @@
+## megfelelő forintösszeget.
+
 ## 16. A kockázatfinanszírozási támogatás
 
 37. § (1) A kis- és középvállalkozás pénzügyi forráshoz juttatása érdekében a pénzügyi közvetítő, illetve annak kezelője, független magánbefektető és végső kedvezményezett részére kockázatfinanszírozási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) nyújtható.

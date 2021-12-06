@@ -1,6 +1,6 @@
-## 93. §[^239] A kétmillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 91. § (1) és (2) bekezdésében, valamint a 92. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+## 93. §[^281] A kétmillió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 91. § (1) és (2) bekezdésében, valamint a 92. § (1)–(4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
 
-94. § (1)[^240] A 90. § (2) bekezdés f) pontja szerinti támogatás esetén
+94. § (1)[^282] A 90. § (2) bekezdés f) pontja szerinti támogatás esetén
 
 a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
 
@@ -20,5 +20,5 @@ e) az elrendezés és nyomdai előkészítés költsége, és
 
 f) a nyomtatás vagy elektronikus közzététel költsége
 
-[^239]: A 93. § a 365/2017. (XII. 5.) Korm. rendelet 20. § 13. pontja szerint módosított szöveg.
-[^240]: A 94. § (1) bekezdés nyitó szövegrésze a 365/2017. (XII. 5.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
+[^281]: A 93. § a 365/2017. (XII. 5.) Korm. rendelet 20. § 13. pontja szerint módosított szöveg.
+[^282]: A 94. § (1) bekezdés nyitó szövegrésze a 365/2017. (XII. 5.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.

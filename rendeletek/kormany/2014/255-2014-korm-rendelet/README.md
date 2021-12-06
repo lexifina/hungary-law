@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-255-20-
 | 2020-12-27 | 2014-255-20-22.14 | 662/2020. (XII. 24.) Korm. rendelet |
 | 2021-03-02 | 2014-255-20-22.15 | 99/2021. (II. 27.) Korm. rendelet |
 | 2021-10-04 | 2014-255-20-22.16 | 562/2021. (X. 1.) Korm. rendelet |
+| 2021-12-06 | 2014-255-20-22.17 | 679/2021. (XII. 3.) Korm. rendelet |
