@@ -1,1 +1,3 @@
-## „(5) Előzetesen be kell jelenteni az Európai Bizottság részére azt a kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatást tartalmazó programot, amely esetén az erre a támogatási kategóriára eső éves átlagos költségvetés meghaladja a 150 millió eurónak megfelelő forintösszeget.”
+## 19. §[^19]
+
+[^19]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

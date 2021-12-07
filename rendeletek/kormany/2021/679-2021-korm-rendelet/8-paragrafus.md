@@ -1,3 +1,3 @@
-## 7. § A 37/2011. (III. 22.) Korm. rendelet 34. §-a a következő (3) bekezdéssel egészül ki:
+## 7. §[^7]
 
-## „(3) Ha a támogatást nyújtó a 651/2014/EU bizottsági rendelet 11. cikk (1) bekezdés b) pont második mondatában meghatározott módon teljesíti a 2015/1589/EU tanácsi rendelet 26. cikke szerinti éves jelentési kötelezettséget, erről a 7. § (1) bekezdése szerinti bejelentésében tájékoztatja a minisztert. Ebben az esetben a támogatást nyújtót a 34. § (1) bekezdése szerinti beszámoló készítési kötelezettség nem terheli, azzal, hogy a támogatást nyújtó a 651/2014/EU bizottsági rendelet 11. cikk (1) bekezdés b) pontja szerinti garanciamegállapodásnak megfelelő beszámolót annak benyújtását követő harminc napon belül megküldi a miniszternek.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

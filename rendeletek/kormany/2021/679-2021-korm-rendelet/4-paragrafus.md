@@ -1,3 +1,3 @@
-## 3. § A 37/2011. (III. 22.) Korm. rendelet 18/C. §-a a következő (6) bekezdéssel egészül ki:
+## 3. §[^3]
 
-## „(6) Ha a támogatást nyújtó 651/2014/EU bizottsági rendelet 9. cikk (3a) bekezdés második mondata szerinti módon teljesíti a közzétételi kötelezettséget, erről a 7. § (1) bekezdése szerinti bejelentésében tájékoztatja a minisztert. Ebben az esetben a támogatást nyújtót a 18/C. § szerinti adatszolgáltatási kötelezettség nem terheli, a miniszter pedig nem teszi közzé a 18/D. § (1) bekezdése szerinti adatokat, azzal, hogy a támogatást nyújtó a támogatás nyújtásának évét követő év július 31-ig tájékoztatja a minisztert a közzétételi kötelezettsége teljesítéséről.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

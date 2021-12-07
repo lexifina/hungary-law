@@ -1,7 +1,3 @@
-## „(4) A kedvezményezett szintjén a kölcsön névértéke vagy a kezességvállalással biztosított összeg nem haladhatja meg projektenként
+## 26. §[^26]
 
-## a) a (3) bekezdés szerinti esetben a 15 millió eurónak,
-
-## b) a (3a) bekezdés szerinti esetben a 30 millió eurónak
-
-## megfelelő forintösszeget, azzal, hogy a kezességvállalás nem haladhatja meg az alapul szolgáló kölcsön 80%-át.”
+[^26]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

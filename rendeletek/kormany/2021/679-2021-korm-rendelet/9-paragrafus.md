@@ -1,3 +1,3 @@
-## 8. § A 37/2011. (III. 22.) Korm. rendelet 35/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 8. §[^8]
 
-## „(1) Ha az uniós joggal összhangban levő támogatási intézkedés másként nem rendelkezik, az agrár- és vidékfejlesztési állami támogatások esetén az uniós állami támogatási szabályokban euróban meghatározott összeg alkalmazása céljából a támogatástartalom forintról euróra történő átszámításánál a támogatást nyújtónak a támogatási intézkedés jellegéhez igazodó választása szerint a támogatási kérelem benyújtási hónapjának első napján, a benyújtási időszak első napján, a támogatási kérelem benyújtásának hónapját megelőző hónap utolsó napján vagy a támogatási döntés napját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett, két tizedesjegy pontossággal meghatározott devizaárfolyamot kell alkalmazni.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

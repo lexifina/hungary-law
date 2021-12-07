@@ -1,1 +1,3 @@
-## „100a. társadalmi-gazdasági fókuszpont: a 651/2014/EU bizottsági rendelet 2. cikk 139a. pontja szerinti jogalany,”
+## 12. §[^12]
+
+[^12]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

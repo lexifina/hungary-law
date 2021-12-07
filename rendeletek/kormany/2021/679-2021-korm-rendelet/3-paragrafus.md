@@ -1,3 +1,3 @@
-## 2. § A 37/2011. (III. 22.) Korm. rendelet 16/A. §-a a következő (1a) bekezdéssel egészül ki:
+## 2. §[^2]
 
-## „(1a) Az 1. melléklet 15.15. pontja szerinti pénzügyi termékek mint támogatási programok esetén az (1) bekezdés szerinti értékhatár vizsgálatakor csak azt az InvestEU program létrehozásáról és az (EU) 2015/1017 rendelet módosításáról szóló, 2021. március 24-i 2021/523/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdés b) pontjában meghatározott európai uniós garancia tagállami részalapjához nyújtott hozzájárulást kell figyelembe venni, amelyet az adott pénzügyi termékre különítenek el.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
