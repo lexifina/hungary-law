@@ -36,7 +36,7 @@
 
 ## e) az 1. pont e) alpontja szerinti címre járda felújítása céljából 24 500 000 forint,
 
-## f) az 1. pont f) alpontja szerinti címre M5-ös autópálya fel- és lehajtójának megépítése érdekében 525 000 000 forint,
+## f)[^1] az 1. pont f) alpontja szerinti címre M5-ös autópálya fel- és lehajtójának előkészítése, támogatásnyújtással megvalósuló megépítése érdekében 525 000 000 forint,
 
 ## g) az 1. pont g) alpontja szerinti címre polgármesteri hivatal épületének felújítása céljából 45 000 000 forint,
 
@@ -66,7 +66,7 @@
 
 ## a c) alpont tekintetében: a b) alpont szerinti támogatói okirat kiadását követően azonnal
 
-## 4–6.[^1]
+## 4–6.[^2]
 
 1. melléklet az 1796/2017. (XI. 8.) Korm. határozathoz
 
@@ -154,4 +154,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont f) alpontja az 1881/2021. (XII. 7.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
