@@ -12,4 +12,6 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. december 15.
 
-2. visszavonja az építésgazdaság általános fejlesztését, az építőanyagok hazai gyártását és a hazai építőipari alapanyag-kitermelés támogatását célzó stratégiáról és a hazai építőipari vállalkozások hatékonyságnövelésére irányuló forrás biztosításáról szóló 1031/2018. (II. 8.) Korm. határozat módosításáról szóló 1398/2019. (VII. 4.) Korm. határozat 1.3. pont c) és d) alpontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
