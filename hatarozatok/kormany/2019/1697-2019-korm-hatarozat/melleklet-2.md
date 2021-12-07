@@ -12,7 +12,7 @@
 
 | 6. | Körmend város működési feladatainak támogatása | 50 000 000 | tartozás rendezése |
 
-| 7. | Mád község út- és járdafelújítás támogatása | 100 000 000 | út- és járdafelújítás, parkoló kialakítás |
+| 7. | Mád község út- és járdafelújítás támogatása | 100 000 000 | az útfelújítás, önkormányzati ingatlan felújítása |
 
 | 8. | Mende községben ivóvízellátás biztonságos üzemeltetésének támogatása | 294 145 000 | ivóvízellátás biztosítása |
 

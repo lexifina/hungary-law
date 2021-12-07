@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1697-30
 | --- | --- | --- |
 | 2019-12-10 | 2019-1697-30-22.1 | 1697/2019. (XII. 10.) Korm. határozat |
 | 2019-12-11 | 2019-1697-30-22.2 | 2010: CXXX. törvény |
+| 2021-12-07 | 2019-1697-30-22.3 | 1881/2021. (XII. 7.) Korm. határozat |

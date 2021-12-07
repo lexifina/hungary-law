@@ -36,6 +36,7 @@
 
 ## 2.[^1]
 
-1. melléklet az 1697/2019. (XII. 10.) Korm. határozathoz
+1. melléklet az 1697/2019. (XII. 10.) Korm. határozathoz[^2]
 
 [^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1881/2021. (XII. 7.) Korm. határozat 4. pontja szerint módosított szöveg.
