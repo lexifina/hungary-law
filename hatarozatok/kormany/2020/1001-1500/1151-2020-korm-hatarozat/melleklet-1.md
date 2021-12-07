@@ -18,4 +18,6 @@
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a kedvezményezett települési önkormányzatok számára.
 
-1. melléklet az 1151/2020. (IV. 14.) Korm. határozathoz
+1. melléklet az 1151/2020. (IV. 14.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1881/2021. (XII. 7.) Korm. határozat 5. pontja szerint módosított szöveg.

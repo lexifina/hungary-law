@@ -1,6 +1,6 @@
 | Alcím szám | Alcím név | Támogatási összeg (forint) | Támogatási cél |
 
-| 1. | Ács Város Önkormányzata működési feladatainak támogatása | 291 000 000 | a működőképesség megőrzése érdekében tartozás rendezése |
+| 1. | Ács Város Önkormányzata működési feladatainak támogatása | 291 000 000 | tartozás rendezése, önkormányzat fejlesztési és működési feladatainak támogatása |
 
 | 2. | Kisvárda Város Önkormányzata működési feladatainak támogatása | 438 747 000 | önkormányzati kötelező feladatok támogatása |
 
