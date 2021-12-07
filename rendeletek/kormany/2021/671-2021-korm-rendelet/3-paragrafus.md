@@ -1,0 +1,1 @@
+## 2. § Az Ehat. tv. 15/F. §-ában foglaltaktól eltérően a Magyar Energetikai és Közmű-szabályozási Hivatal 2023. március 31. napjáig a nem teljesített energiamegtakarítási kötelezettség után bírságot nem szab ki.
