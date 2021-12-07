@@ -76,13 +76,13 @@
 
 | 33. | Kecskemét | A „Hetényegyháza bekötése az M5 autópályába” című, „TOP-6.1.5-16-KE1-2017-00004” számon nyilvántartott projekt építés-kivitelezési, valamint területszerzési feladataihoz kapcsolódó önerő biztosítása | Kecskemét Város Önkormányzata | 1 224 000 000 | pénzügyminiszter, Miniszterelnökséget vezető miniszter, nemzeti vagyon kezeléséért felelős tárca nélküli miniszter |
 
-| 34. | Kecskemét | Az „Önkormányzati épületek energetikai korszerűsítése Kecskeméten” című, „TOP-6.5.1-19-KE1-2020-00001” számon nyilvántartott projekt többlettámogatása | Kecskemét Város Önkormányzata | 880 700 000 | pénzügyminiszter, Miniszterelnökséget vezető miniszter |
+| 34. | Kecskemét | Az „Önkormányzati épületek energetikai korszerűsítése Kecskeméten” című, „TOP-6.5.1-19-KE1-2020-00001” számon nyilvántartott projekt többlettámogatása | Kecskemét Város Önkormányzata | 880 700 000 | Pénzügyminiszter, Miniszterelnökséget vezető miniszter |
 
-| 35. | Kecskemét | Az „Önkormányzati épületek energetikai korszerűsítése Kecskeméten” című, „TOP-6.5.1-19-KE1-2020-00001” számon nyilvántartott projekttel érintett intézmények infrastrukturális fejlesztése | Kecskemét Város Önkormányzata | 820 000 000 | pénzügyminiszter, Miniszterelnökséget vezető miniszter |
+| 35. | Kecskemét | Az „Önkormányzati épületek energetikai korszerűsítése Kecskeméten” című, „TOP-6.5.1-19-KE1-2020-00001” számon nyilvántartott projekttel érintett intézmények infrastrukturális fejlesztése | Kecskemét Város Önkormányzata | 820 000 000 | Pénzügyminiszter, Miniszterelnökséget vezető miniszter |
 
 | 36. | Kiskőrös | Kiskőrösi fürdő fejlesztésének előkészítése | Kiskőrös Város Önkormányzata | 510 000 000 | a miniszterelnök kabinetfőnöke, Magyar Turisztikai Ügynökség |
 
-| 37. | Kunszentmiklós | Idősotthon tetőszerkezetének felújítása | Kunszentmiklós Város Önkormányzata | 185 000 000 | emberi erőforrások minisztere |
+| 37. | Kunszentmiklós | Útfelújítás | Kunszentmiklós Város Önkormányzata | 185 000 000 | belügyminiszter |
 
 | 38. | Kőszeg | Mentőállomás fejlesztése | Kőszeg Város Önkormányzata | 600 000 000 | emberi erőforrások minisztere |
 
@@ -122,4 +122,4 @@
 
 | 56. | Zalaegerszeg | A Zalaréti Kastély Rendezvényközpont felújításának előkészítési munkálatai | Zalaegerszeg Megyei Jogú Város Önkormányzata | 114 640 000 | Miniszterelnökséget vezető miniszter |
 
-[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja, az 1881/2021. (XII. 7.) Korm. határozat 6. pontja szerint módosított szöveg.
