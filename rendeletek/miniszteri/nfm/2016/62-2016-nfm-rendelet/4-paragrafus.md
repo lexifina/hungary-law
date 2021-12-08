@@ -26,7 +26,7 @@ j)[^24] a pályázóknak nyújtott támogatás időtartama; valamint
 
 k)[^25] a támogatás igénybevételével összeegyeztethető egyéb támogatási típusok.
 
-(3)[^26]
+(3)[^26] Ha a (2) bekezdés alapján meghatározott valamely kategóriában a beérkezett ajánlatokhoz tartozó támogatási igények nem érik el sem a kiírandó mennyiségre, sem pedig a kiosztható éves új támogatásra vonatkozó korlátot, akkor az adott kategória két külön pályázati kategóriára bontandó a hiánytalanul beérkezett és a hiánypótlásra szoruló pályázatok szerint. Az adott kategóriában beérkezett ajánlatok között e bekezdés alkalmazásában nem veendők figyelembe azok a pályázatok, amelyek érvénytelensége hiánypótlási felhívás nélkül megállapítható.
 
 (4) A (2) és (3) bekezdésben felsoroltakon túlmenően más korlátok nem érvényesíthetőek a pályázaton beszerzendő mennyiségek, a kiosztható éves új támogatások, a benyújtott ajánlati árak vonatkozásában.
 
@@ -50,5 +50,5 @@ k)[^25] a támogatás igénybevételével összeegyeztethető egyéb támogatás
 [^23]: A 4. § (2) bekezdés i) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
 [^24]: A 4. § (2) bekezdés j) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
 [^25]: A 4. § (2) bekezdés k) pontját a 49/2021. (X. 1.) ITM rendelet 14. §-a iktatta be.
-[^26]: A 4. § (3) bekezdését a 49/2021. (X. 1.) ITM rendelet 20. § a) pontja hatályon kívül helyezte.
+[^26]: A 4. § (3) bekezdését a 49/2021. (X. 1.) ITM rendelet 20. § a) pontja hatályon kívül helyezte, újonnan az 57/2021. (XII. 7.) ITM rendelet 1. §-a iktatta be.
 [^27]: A 4. § (9) bekezdése a 22/2019. (VIII. 10.) ITM rendelet 3. § (4) bekezdésével megállapított szöveg.
