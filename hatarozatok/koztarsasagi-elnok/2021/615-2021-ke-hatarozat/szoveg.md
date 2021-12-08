@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Maris Zsolt Szilárd rendkívüli és meghatalmazott nagykövetet – Magyarország luandai nagykövetségének a vezetésére, valamint Magyarországnak a Kongói Köztársaságban, a Mozambiki Köztársaságban és a Sao Tomé és Príncipe Demokratikus Köztársaságban való képviseletére kapott megbízása érintetlenül hagyása mellett – felmentem Magyarországnak a Kongói Demokratikus Köztársaságban való képviseletére kapott megbízása alól, egyúttal megbízom Magyarországnak az Egyenlítői-guineai Köztársaságban való képviseletével.
+
+KEH ügyszám: KEH/05008-2/2021.
