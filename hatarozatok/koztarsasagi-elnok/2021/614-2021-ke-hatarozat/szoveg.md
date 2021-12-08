@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Mészáros Zsolt rendkívüli és meghatalmazott nagykövetet – Magyarország nairobi nagykövetségének vezetésére, valamint Magyarországnak az Ugandai Köztársaságban, a Tanzániai Egyesült Köztársaságban, a Szomáli Szövetségi Köztársaságban, a Ruandai Köztársaságban, a Seychelle Köztársaságban, a Burundi Köztársaságban és a Comore-szigeteki Unióban való képviseletére kapott megbízása érintetlenül hagyása mellett – megbízom Magyarországnak a Kongói Demokratikus Köztársaságban való képviseletével.
+
+KEH ügyszám: KEH/05007-2/2021.
