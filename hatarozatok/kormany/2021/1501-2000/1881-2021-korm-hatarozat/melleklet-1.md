@@ -28,14 +28,20 @@
 
 ## e) egyetért azzal, hogy a belügyminiszter a d) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett önkormányzatok számára.
 
-## 2. A IX. Helyi önkormányzatok támogatásai fejezetben történő előirányzat-átcsoportosításról, valamint az egyes települési önkormányzatok támogatását érintő kormányhatározatok módosításáról szóló 1796/2017. (XI. 8.) Korm. határozat 2. pont f) alpontjában az „M5-ös autópálya fel- és lehajtójának megépítése” szövegrész helyébe az „M5-ös autópálya fel- és lehajtójának előkészítése, támogatásnyújtással megvalósuló megépítése” szöveg lép.
+## 2.[^1]
 
-## 3. Az egyes települési önkormányzatok feladatellátásának támogatása érdekében történő előirányzat-átcsoportosításokról szóló 2068/2017. (XII. 28.) Korm. határozat 3. pont c) alpontjában a „művelődési ház felújítása” szövegrész helyébe a „művelődési ház építése” szöveg lép.
+## 3.[^2]
 
-## 4. Az egyes települési önkormányzatok fejlesztési és működési feladatainak támogatásáról, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a központi költségvetés címrendjének a kormányzati szerkezetátalakítással összefüggő módosításáról szóló 1156/2017. (III. 20.) Korm. határozat módosításáról szóló 1697/2019. (XII. 10.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlopában az „út- és járdafelújítás, parkoló kialakítás” szövegrész helyébe az „útfelújítás, önkormányzati ingatlan felújítása” szöveg lép.
+## 4.[^3]
 
-## 5. A Gazdaságvédelmi Akcióterv keretében a települési önkormányzatok fejlesztési és működési támogatásáról szóló 1151/2020. (IV. 14.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlopában az „a működőképesség megőrzése érdekében tartozás rendezése” szövegrész helyébe a „tartozás rendezése, önkormányzat fejlesztési és működési feladatainak támogatása” szöveg lép.
+## 5.[^4]
 
-## 6. A gazdaság újraindítását célzó egyedi fejlesztési támogatásokról szóló 1448/2021. (VII. 7.) Korm. határozat 1. mellékletében foglalt táblázat „Fejlesztési projekt” oszlop 37. sorában az „Idősotthon tetőszerkezetének felújítása” szövegrész helyébe az „Útfelújítás” szöveg, „Szakpolitikai felelős” oszlop 37. sorában az „emberi erőforrások minisztere” szövegrész helyébe a „belügyminiszter” szöveg lép.
+## 6.[^5]
 
 1. melléklet az 1881/2021. (XII. 7.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
