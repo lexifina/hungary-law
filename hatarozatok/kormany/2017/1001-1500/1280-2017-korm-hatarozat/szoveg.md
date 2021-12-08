@@ -34,8 +34,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a beruházás megvalósítása ütemében
 
-6. felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy a fejlesztési program műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság legyen.
+6.[^1]
 
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: a felmerülés ütemében
+[^1]: A 6. pontot az 1886/2021. (XII. 8.) Korm. határozat 1. pont 1.10. alpontja visszavonta.

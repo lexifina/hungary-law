@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1280-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-06-02 | 2017-1280-30-22.1 | 1280/2017. (VI. 2.) Korm. határozat |
+| 2021-12-08 | 2017-1280-30-22.2 | 1886/2021. (XII. 8.) Korm. határozat |
