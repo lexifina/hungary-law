@@ -1,4 +1,4 @@
-## 18. §[^33] E rendeletnek az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet és a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 604/2021. (X. 29.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (2) bekezdés b) pontját, 7/A. §-át, 9. § (3)–(11) bekezdését, valamint 14. §-át a Módr2. hatálybalépésekor[^34] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 19. §[^36] E rendeletnek a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 685/2021. (XII. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 9. § (2a) bekezdését a Módr3. hatálybalépésekor[^37] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 64/2019. (III. 27.) Korm. rendelethez
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^33]: A 18. §-t a 604/2021. (X. 29.) Korm. rendelet 8. §-a iktatta be.
-[^34]: A hatálybalépés időpontja 2021. október 30.
+[^36]: A 19. §-t a 685/2021. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^37]: A hatálybalépés időpontja 2021. december 8.

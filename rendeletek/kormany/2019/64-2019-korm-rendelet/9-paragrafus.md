@@ -2,7 +2,9 @@
 
 (2) A Budapest IX. kerület, belterület 38295/6 helyrajzi számú ingatlanon P+R parkoló kialakítása nem szükséges.
 
-(3)[^13] A Beruházással érintett, Budapest IX. kerület, belterület 38295/2, 38295/3, 38295/4, 38295/5 és 38295/6 helyrajzi számú ingatlanokra, valamint ezen ingatlanokból a telekalakítási eljárások végleges befejezését követően kialakított ingatlanokra meghatározott sajátos beépítési szabályok:
+(2a)[^13] A Beruházással összefüggő telekalakítási eljárásokban az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet 23. § (11) bekezdésében előírtakat nem kell alkalmazni.
+
+(3)[^14] A Beruházással érintett, Budapest IX. kerület, belterület 38295/2, 38295/3, 38295/4, 38295/5 és 38295/6 helyrajzi számú ingatlanokra, valamint ezen ingatlanokból a telekalakítási eljárások végleges befejezését követően kialakított ingatlanokra meghatározott sajátos beépítési szabályok:
 
 a) a telkek beépítési módja szabadon álló,
 
@@ -24,13 +26,13 @@ i) az előkert mérete legalább 5 méter,
 
 j) az oldalkert és a hátsókert mérete legalább 5 méter.
 
-k)[^14] a parkolóterületi célú szintterületi mutató megengedett legnagyobb értéke 0,75 m2/telek m2,
+k)[^15] a parkolóterületi célú szintterületi mutató megengedett legnagyobb értéke 0,75 m2/telek m2,
 
-l)[^15] a 11. § (1) bekezdésében meghatározott gépjármű-várakozóhelyek legfeljebb 20%-a helyezhető el a felszínen, a felszíni parkolók fásítottan alakítandók ki, 8 parkolóhely/1 fa arányban,
+l)[^16] a 11. § (1) bekezdésében meghatározott gépjármű-várakozóhelyek legfeljebb 20%-a helyezhető el a felszínen, a felszíni parkolók fásítottan alakítandók ki, 8 parkolóhely/1 fa arányban,
 
-m)[^16] a létesítmény működéséhez szükséges egyéb gépjárművek, valamint autóbuszok elhelyezését a felszínen állandó jelleggel biztosítani lehet,
+m)[^17] a létesítmény működéséhez szükséges egyéb gépjárművek, valamint autóbuszok elhelyezését a felszínen állandó jelleggel biztosítani lehet,
 
-n)[^17] az újonnan létesített várakozó- és parkolóhelyek kialakítása során 100 várakozó-, illetve parkolóhely után legalább 2 várakozó-, illetve parkolóhely vonatkozásában elektromos gépjármű töltőállomás kiépítését kell biztosítani a burkolat megbontása nélkül.
+n)[^18] az újonnan létesített várakozó- és parkolóhelyek kialakítása során 100 várakozó-, illetve parkolóhely után legalább 2 várakozó-, illetve parkolóhely vonatkozásában elektromos gépjármű töltőállomás kiépítését kell biztosítani a burkolat megbontása nélkül.
 
 (4) A Beruházással érintett, Budapest IX. kerület, belterület 38295/1, 38295/10, 38295/11 helyrajzi számú ingatlanra, valamint ezen ingatlanokból a telekalakítási eljárások végleges befejezését követően kialakított ingatlanokra meghatározott sajátos beépítési szabályok:
 
@@ -54,19 +56,19 @@ i) az előkert mérete legalább 5 méter,
 
 j) az oldalkert és a hátsókert mérete legalább 5 méter.
 
-k)[^18] a parkolóterületi célú szintterületi mutató megengedett legnagyobb értéke 1,25 m2/telek m2,
+k)[^19] a parkolóterületi célú szintterületi mutató megengedett legnagyobb értéke 1,25 m2/telek m2,
 
-l)[^19] a 11. § (3) bekezdésében meghatározott gépjárműparkolóhelyek legfeljebb 10%-a helyezhető el a felszínen, a felszíni parkolók fásítottan alakítandók ki, 8 parkolóhely/1 fa arányban,
+l)[^20] a 11. § (3) bekezdésében meghatározott gépjárműparkolóhelyek legfeljebb 10%-a helyezhető el a felszínen, a felszíni parkolók fásítottan alakítandók ki, 8 parkolóhely/1 fa arányban,
 
-m)[^20] minden kialakítandó gépjárműtároló 10%-át elektromos gépjármű töltésére alkalmas helyként kell kialakítani,
+m)[^21] minden kialakítandó gépjárműtároló 10%-át elektromos gépjármű töltésére alkalmas helyként kell kialakítani,
 
-n)[^21] felszíni egybefüggő üzemeltetett parkolók állandó jelleggel kialakíthatók az erre vonatkozó előírások betartásával, a parkolóhelyek 10%-át elektromos gépjármű töltésére alkalmas helyként kell kialakítani,
+n)[^22] felszíni egybefüggő üzemeltetett parkolók állandó jelleggel kialakíthatók az erre vonatkozó előírások betartásával, a parkolóhelyek 10%-át elektromos gépjármű töltésére alkalmas helyként kell kialakítani,
 
-o)[^22] lapostetős épület létesítése esetén azokat zöldtetősként kell kialakítani.
+o)[^23] lapostetős épület létesítése esetén azokat zöldtetősként kell kialakítani.
 
-(5)[^23] A (3) bekezdés g) pontjának és a (4) bekezdés g) pontjának alkalmazása során az épületmagasságot az OTÉK-ban foglalt, az e rendelet hatálybalépésekor hatályos követelmények szerint kell számítani.
+(5)[^24] A (3) bekezdés g) pontjának és a (4) bekezdés g) pontjának alkalmazása során az épületmagasságot az OTÉK-ban foglalt, az e rendelet hatálybalépésekor hatályos követelmények szerint kell számítani.
 
-(6)[^24] A Beruházással érintett, Budapest IX. kerület, belterület 38295/2, 38295/3, 38295/4, 38295/5, 38295/6 helyrajzi számú ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon az alábbi rendeltetésű épületek, építmények helyezhetők el:
+(6)[^25] A Beruházással érintett, Budapest IX. kerület, belterület 38295/2, 38295/3, 38295/4, 38295/5, 38295/6 helyrajzi számú ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon az alábbi rendeltetésű épületek, építmények helyezhetők el:
 
 a) sportlétesítmény,
 
@@ -90,7 +92,7 @@ j) oktatás,
 
 k) parkolóház.
 
-(7)[^25] A Beruházással érintett, Budapest IX. kerület, belterület 38295/1, 38295/10, 38295/11 helyrajzi számú ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon az alábbi rendeltetésű épületek, építmények helyezhetők el:
+(7)[^26] A Beruházással érintett, Budapest IX. kerület, belterület 38295/1, 38295/10, 38295/11 helyrajzi számú ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon az alábbi rendeltetésű épületek, építmények helyezhetők el:
 
 a) közintézmény,
 
@@ -116,7 +118,7 @@ k) kiskereskedelem,
 
 l) parkolóház.
 
-(8)[^26] A Beruházással érintett ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon a melléképítmények közül az alábbiak helyezhetők el:
+(8)[^27] A Beruházással érintett ingatlanokon, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanokon a melléképítmények közül az alábbiak helyezhetők el:
 
 a) közmű-becsatlakozási műtárgy,
 
@@ -128,7 +130,7 @@ d) kerti lugas,
 
 e) kerti szabadlépcső, tereplépcső és lejtő.
 
-(9)[^27] A Beruházással érintett ingatlanok, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanok
+(9)[^28] A Beruházással érintett ingatlanok, valamint ezen ingatlanokból a telekalakítási eljárásokban hozott, véglegessé vált döntések alapján kialakított ingatlanok
 
 a) egyidejűleg több különböző építési övezetbe is tartozhatnak,
 
@@ -138,28 +140,29 @@ c) vonatkozásában új építmény a telken belül jelölt szabályozási vonal
 
 d) vonatkozásában az e rendeletben meghatározott határértékek betartása mellett több épület is elhelyezhető.
 
-(10)[^28] A 38295/8 helyrajzi számú közterület (Fék utca folytatása) Üllői út felé eső csomópontjának kialakításához a közterületi telekhatárokat az EOV rendszer alapján az alábbi koordinátákkal kell kialakítani:
+(10)[^29] A 38295/8 helyrajzi számú közterület (Fék utca folytatása) Üllői út felé eső csomópontjának kialakításához a közterületi telekhatárokat az EOV rendszer alapján az alábbi koordinátákkal kell kialakítani:
 
 a) a 38295/5 helyrajzi számú telek felé: 4654233.80-236582.17, 654243.38-236599.29, 654239.51-236614.74,
 
 b) a 38295/10 helyrajzi számú telek felé: 654297.27-236577.60, 654214.89-236542.65, 654209.28-236545.70.
 
-(11)[^29] A Beruházással érintett ingatlanokon a terepszint alatti beépítés határvonala megegyezik az e rendeletben előírt elő-, oldal- és hátsókertek vonalával.
+(11)[^30] A Beruházással érintett ingatlanokon a terepszint alatti beépítés határvonala megegyezik az e rendeletben előírt elő-, oldal- és hátsókertek vonalával.
 
-[^13]: A 9. § (3) bekezdés nyitó szövegrésze a 604/2021. (X. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^14]: A 9. § (3) bekezdés k) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^15]: A 9. § (3) bekezdés l) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^16]: A 9. § (3) bekezdés m) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^17]: A 9. § (3) bekezdés n) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^18]: A 9. § (4) bekezdés k) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^19]: A 9. § (4) bekezdés l) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^20]: A 9. § (4) bekezdés m) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^21]: A 9. § (4) bekezdés n) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^22]: A 9. § (4) bekezdés o) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^23]: A 9. § (5) bekezdése a 604/2021. (X. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^24]: A 9. § (6) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^25]: A 9. § (7) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^26]: A 9. § (8) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^27]: A 9. § (9) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^28]: A 9. § (10) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^29]: A 9. § (11) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^13]: A 9. § (2a) bekezdését a 685/2021. (XII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 9. § (3) bekezdés nyitó szövegrésze a 604/2021. (X. 29.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^15]: A 9. § (3) bekezdés k) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^16]: A 9. § (3) bekezdés l) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^17]: A 9. § (3) bekezdés m) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^18]: A 9. § (3) bekezdés n) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^19]: A 9. § (4) bekezdés k) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^20]: A 9. § (4) bekezdés l) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^21]: A 9. § (4) bekezdés m) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^22]: A 9. § (4) bekezdés n) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^23]: A 9. § (4) bekezdés o) pontját a 604/2021. (X. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^24]: A 9. § (5) bekezdése a 604/2021. (X. 29.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^25]: A 9. § (6) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^26]: A 9. § (7) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^27]: A 9. § (8) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^28]: A 9. § (9) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^29]: A 9. § (10) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^30]: A 9. § (11) bekezdését a 604/2021. (X. 29.) Korm. rendelet 6. § (3) bekezdése iktatta be.
