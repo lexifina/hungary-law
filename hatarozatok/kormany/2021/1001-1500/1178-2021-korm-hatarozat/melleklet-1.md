@@ -26,7 +26,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31., a Bethlen Gábor Alap fejezet részére átcsoportosított 2 520 245 143 forint tekintetében 2022. december 31.
+## Határidő: 2021. december 31., a Nemzeti Választási Iroda cím javára átcsoportosított 2 524 900 000 forint tekintetében 2022. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított 2 520 245 143 forint tekintetében 2022. december 31.
 
 ## 1.3. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 74 394 060 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 2. melléklet szerint;
 
@@ -66,5 +66,5 @@
 
 1. melléklet az 1178/2021. (IV. 14.) Korm. határozathoz
 
-[^1]: Az 1. pont 1.2. alpontja az 1692/2021. (IX. 30.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: Az 1. pont 1.2. alpontja az 1692/2021. (IX. 30.) Korm. határozat 11. pontja, az 1886/2021. (XII. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. (2) bekezdése alapján hatályát vesztette.
