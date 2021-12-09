@@ -1,3 +1,3 @@
-## 1. § A 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet [a továbbiakban: 64/2019. (III. 27.) Korm. rendelet] 9. §-a a következő (2a) bekezdéssel egészül ki:
+## 1. §[^2]
 
-## „(2a) A Beruházással összefüggő telekalakítási eljárásokban az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet 23. § (11) bekezdésében előírtakat nem kell alkalmazni.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
