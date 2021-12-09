@@ -108,4 +108,6 @@
 
 | 14. | 258267 |  | 17_Nemzeti Vidékfejlesztési Terv | Az Európai Mezőgazdasági Orientációs és Garancia Alap Garancia Részlegéből finanszírozott kísérő intézkedésekből visszakövetelt támogatások nemzeti részének továbbítása a központi költségvetés felé. | – | – | – | egy összegben történő kifizetéssel | – | – | – | – | igénybe vehető |
 
-2. melléklet a 14/2021. (III. 25.) AM rendelethez
+2. melléklet a 14/2021. (III. 25.) AM rendelethez[^5]
+
+[^5]: A 2. melléklet a 46/2021. (XII. 8.) AM rendelet 3. § (1) bekezdése szerint módosított szöveg.
