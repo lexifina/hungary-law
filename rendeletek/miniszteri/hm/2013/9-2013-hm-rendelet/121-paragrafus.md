@@ -4,15 +4,15 @@
 
 (2) A kérelemnek tartalmaznia kell
 
-a)[^316] a gyermek Hjt. 99. § (1) bekezdése szerinti életkora betöltésének időpontját,
+a)[^318] a gyermek Hjt. 99. § (1) bekezdése szerinti életkora betöltésének időpontját,
 
 b) tájékoztatást arról, hogy a rész-szolgálatteljesítés kérelmezésére jogosító gyermeke után a másik szülő illetménynélküli szabadságot, vagy rész-szolgálatteljesítést igénybe vesz-e, és
 
 c) a szolgálatteljesítési idő egyenlőtlen beosztására vonatkozó javaslatot, ha az állomány tagja annak engedélyezését kezdeményezi.
 
-(2a)[^317] A (2) bekezdés a) pontja szerinti kérelem esetén a jogszerű adatkezelés érdekében az adatkezelőnek a kérelmezőt ezen adatkezelésről tájékoztatnia kell, ennek érdekében adatkezelési tájékoztatót kell készítenie a kérelmező számára. Az adatkezeléshez – még az adatkezelés megkezdése előtt – a kérelmező adatkezeléshez történő hozzájárulásának beszerzése szükséges.
+(2a)[^319] A (2) bekezdés a) pontja szerinti kérelem esetén a jogszerű adatkezelés érdekében az adatkezelőnek a kérelmezőt ezen adatkezelésről tájékoztatnia kell, ennek érdekében adatkezelési tájékoztatót kell készítenie a kérelmező számára. Az adatkezeléshez – még az adatkezelés megkezdése előtt – a kérelmező adatkezeléshez történő hozzájárulásának beszerzése szükséges.
 
 (3) A Hjt. 99. § (4) és (7) bekezdése esetén az illetmény nélküli szabadság megszüntetésével egyidejűleg az állomány tagjának a Hjt. 46. § (1) bekezdés j) pontja szerinti rendelkezési állományba helyezése megszűnik.
 
-[^316]: A 121. § (2) bekezdés a) pontja a 20/2018. (XII. 28) HM rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^317]: A 121. § (2a) bekezdését a 20/2018. (XII. 28) HM rendelet 45. § (2) bekezdése iktatta be.
+[^318]: A 121. § (2) bekezdés a) pontja a 20/2018. (XII. 28) HM rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^319]: A 121. § (2a) bekezdését a 20/2018. (XII. 28) HM rendelet 45. § (2) bekezdése iktatta be.

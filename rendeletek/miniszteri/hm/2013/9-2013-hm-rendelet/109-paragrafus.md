@@ -14,6 +14,6 @@ f) a kötelezően szolgálati viszonyban töltendő idő tartamát.
 
 (2) A tanulmányi szerződés a Hjt. 89. § (2) bekezdésén túl tartalmazza különösen a szerződő felek megnevezését és az (1) bekezdés szerinti elemeket.
 
-(3)[^270] A szinten tartó nyelvtanfolyamra vezénylés esetén tanulmányi szerződés nem köthető.
+(3)[^272] A szinten tartó nyelvtanfolyamra vezénylés esetén tanulmányi szerződés nem köthető.
 
-[^270]: A 109. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 37. §-a iktatta be.
+[^272]: A 109. § (3) bekezdését a 20/2018. (XII. 28) HM rendelet 37. §-a iktatta be.

@@ -1,6 +1,6 @@
-## 258. §[^453] Az önkéntes tartalékos katonák által betölthető szolgálati beosztásokat a KNBSZ vonatkozásában a honvédelmi miniszter, az MH vonatkozásában az MH PK által jóváhagyott hadi állománytáblák tartalmazzák.
+## 258. §[^455] Az önkéntes tartalékos katonák által betölthető szolgálati beosztásokat a KNBSZ vonatkozásában a honvédelmi miniszter, az MH vonatkozásában az MH PK által jóváhagyott hadi állománytáblák tartalmazzák.
 
-259. §[^454] (1) Az az önkéntes tartalékos, aki a Hjt. 214. § (1a) bekezdése szerint létesít önkéntes tartalékos szolgálati viszonyt, a honvédségi szervezet felhívására legkésőbb az alapkiképzés befejezéséig nyilatkozatban vállalhatja, hogy az alapkiképzésen túl szakbeosztások betöltéséhez szükséges szakkiképzésen vesz részt, az alábbi fegyvernemek és szakcsapatok vonatkozásában:
+259. §[^456] (1) Az az önkéntes tartalékos, aki a Hjt. 214. § (1a) bekezdése szerint létesít önkéntes tartalékos szolgálati viszonyt, a honvédségi szervezet felhívására legkésőbb az alapkiképzés befejezéséig nyilatkozatban vállalhatja, hogy az alapkiképzésen túl szakbeosztások betöltéséhez szükséges szakkiképzésen vesz részt, az alábbi fegyvernemek és szakcsapatok vonatkozásában:
 
 a) lövész,
 
@@ -30,5 +30,5 @@ l) rohamlövész.
 
 (3) Az (1) bekezdés szerinti szakkiképzési követelményeket a Magyar Honvédség parancsnoka állapítja meg.
 
-[^453]: A 258. § a 19/2015. (XII. 22.) HM rendelet 6. §-ával megállapított, a 4/2020. (II. 28.) HM rendelet 18. § f) pontja szerint módosított szöveg.
-[^454]: A 259. §-t a 10/2017. (VIII. 31.) HM rendelet 26. § b) pontja hatályon kívül helyezte, újonnan a 18/2021. (IX. 21.) HM rendelet 1. §-a iktatta be.
+[^455]: A 258. § a 19/2015. (XII. 22.) HM rendelet 6. §-ával megállapított, a 4/2020. (II. 28.) HM rendelet 18. § f) pontja szerint módosított szöveg.
+[^456]: A 259. §-t a 10/2017. (VIII. 31.) HM rendelet 26. § b) pontja hatályon kívül helyezte, újonnan a 18/2021. (IX. 21.) HM rendelet 1. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 (2) A kérelemhez csatolni kell a 3 hónapnál nem régebbi, szakrendelő intézet vagy kórház szakorvosa által kiadott orvosi igazolást.
 
-(3)[^440] A behívása idején járóképtelen vagy mozgásában korlátozott önkéntes tartalékos katona egészségi állapotát igazoló okiratokat a kérelmező közeli hozzátartozója, élettársa, törvényes képviselője vagy meghatalmazottja is benyújthatja.
+(3)[^442] A behívása idején járóképtelen vagy mozgásában korlátozott önkéntes tartalékos katona egészségi állapotát igazoló okiratokat a kérelmező közeli hozzátartozója, élettársa, törvényes képviselője vagy meghatalmazottja is benyújthatja.
 
-[^440]: A 251. § (3) bekezdése a 24/2013. (XII. 20.) HM rendelet 17. § f) pontja szerint módosított szöveg.
+[^442]: A 251. § (3) bekezdése a 24/2013. (XII. 20.) HM rendelet 17. § f) pontja szerint módosított szöveg.
