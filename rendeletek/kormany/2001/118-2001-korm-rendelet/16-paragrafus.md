@@ -1,6 +1,6 @@
-## 15. §[^56] A kölcsönbeadó, illetve a magán-munkaközvetítő székhelye, illetve telephelye szerint illetékes kormányhivatal a kölcsönzés, illetve a magán-munkaközvetítés e rendeletben foglalt feltételeinek fennállásával és a magán-munkaközvetítés tekintetében a tevékenység folytatásával kapcsolatban hatósági ellenőrzést végezhet.
+## 15. §[^57] A kölcsönbeadó, illetve a magán-munkaközvetítő székhelye, illetve telephelye szerint illetékes kormányhivatal a kölcsönzés, illetve a magán-munkaközvetítés e rendeletben foglalt feltételeinek fennállásával és a magán-munkaközvetítés tekintetében a tevékenység folytatásával kapcsolatban hatósági ellenőrzést végezhet.
 
-16. §[^57] (1) A kormányhivatal törli a nyilvántartásból a munkaerő-kölcsönzőt, valamint a magán-munkaközvetítőt, ha
+16. §[^58] (1) A kormányhivatal törli a nyilvántartásból a munkaerő-kölcsönzőt, valamint a magán-munkaközvetítőt, ha
 
 a) jogutód nélkül megszűnt,
 
@@ -34,5 +34,5 @@ d) az új Mt. vagy – az a)–c) pontban foglalt kivétellel – e rendelet sza
 
 (6) A törlésről, valamint az eltiltásról a kormányhivatal a kölcsönzési és a magán-munkaközvetítő tevékenységet folytató gazdasági társaságot bejegyző cégbíróságot, egyéb jogi személyt nyilvántartó bíróságot, a vállalkozói nyilvántartást vezető szervet, valamint a letétet kezelő pénzügyi intézményt értesíti. A tengerész munkaközvetítői tevékenységet folytató magán-munkaközvetítő vagy a tengerész munkaerő-kölcsönzési tevékenységet folytató munkaerő-kölcsönző törlése esetén a kormányhivatal a hajózási hatóságot is értesíti.
 
-[^56]: A 15. § a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 94. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^57]: A 16. § a 356/2021. (VI. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^57]: A 15. § a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 94. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^58]: A 16. § a 356/2021. (VI. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
