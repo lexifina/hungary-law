@@ -1,0 +1,3 @@
+## 1. § A honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet (a továbbiakban: R.) 69/A. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) A 15. melléklet szerinti HM Ügyelet feladatainak végrehajtására – a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 4. § 16. pontja szerinti honvédségi szervezet állománytáblájában – létrehozott szolgálati beosztások besorolására a (4) bekezdésben foglaltakat megfelelően alkalmazni kell.”
