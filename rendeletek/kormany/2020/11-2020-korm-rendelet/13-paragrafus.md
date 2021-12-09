@@ -22,11 +22,11 @@ bc) a 12. § (2) bekezdése szerinti jogviszony megnevezését és a jogviszonyb
 
 bd) a szakmai gyakorlat teljesítését igazoló szerv vagy személy megnevezését, címét és aláírását,
 
-c)[^28]
+c)[^31]
 
-d)[^29] az általános tételű eljárási illeték megfizetését igazoló bizonylat másolatát.
+d)[^32] az általános tételű eljárási illeték megfizetését igazoló bizonylat másolatát.
 
 (4) Ha a bejelentéshez a szakmai gyakorlat igazolása a munkáltató, foglalkoztató vagy a szakmai gyakorlat teljesítését igazoló más szerv jogutód nélküli megszűnése vagy egyéb ok miatt nem csatolható, a szakmai gyakorlat a kérelmező (3) bekezdés b) pont bb) és bc) alpontja szerinti adatait tartalmazó munkaszerződés vagy a munkavégzés igazolására alkalmas más dokumentum benyújtásával is igazolható.
 
-[^28]: A 13. § (3) bekezdés c) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 5. pontja hatályon kívül helyezte.
-[^29]: A 13. § (3) bekezdés d) pontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
+[^31]: A 13. § (3) bekezdés c) pontját a 318/2020. (VII. 1.) Korm. rendelet 17. § 5. pontja hatályon kívül helyezte.
+[^32]: A 13. § (3) bekezdés d) pontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.

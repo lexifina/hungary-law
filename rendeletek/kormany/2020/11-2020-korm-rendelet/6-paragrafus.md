@@ -1,6 +1,6 @@
 6. § (1) A szakértői bizottság véleményének beszerzését követően a felnőttképzési államigazgatási szerv megvizsgálja, hogy az engedély megadása iránti kérelem és az abban meghatározott felnőttképzési tevékenység megfelel-e a jogszabályban meghatározott feltételeknek.
 
-(2)[^14]
+(2)[^17]
 
 (3) A kérelmet el kell utasítani, ha a felnőttképző
 
@@ -8,13 +8,13 @@ a) nem felel meg a jogszabályban meghatározott feltételeknek,
 
 b) felnőttképzési tevékenységet engedély nélkül végez,
 
-c)[^15] engedélye visszavonásra került,
+c)[^18] engedélye visszavonásra került,
 
-d)[^16] a felnőttképzési tevékenység folytatásától eltiltás hatálya alatt áll vagy
+d)[^19] a felnőttképzési tevékenység folytatásától eltiltás hatálya alatt áll vagy
 
-e)[^17] számára a felnőttképzési államigazgatási szerv a felnőttképzési tevékenység folytatását az Fktv. 20. § (3) bekezdés b) pont ba) alpontja alapján megtiltotta.
+e)[^20] számára a felnőttképzési államigazgatási szerv a felnőttképzési tevékenység folytatását az Fktv. 20. § (3) bekezdés b) pont ba) alpontja alapján megtiltotta.
 
-[^14]: A 6. § (2) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 4. pontja hatályon kívül helyezte.
-[^15]: A 6. § (3) bekezdés c) pontja a 95/2021. (II. 27.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^16]: A 6. § (3) bekezdés d) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
-[^17]: A 6. § (3) bekezdés e) pontját a 95/2021. (II. 27.) Korm. rendelet 2. §-a iktatta be.
+[^17]: A 6. § (2) bekezdését a 318/2020. (VII. 1.) Korm. rendelet 17. § 4. pontja hatályon kívül helyezte.
+[^18]: A 6. § (3) bekezdés c) pontja a 95/2021. (II. 27.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^19]: A 6. § (3) bekezdés d) pontja a 95/2021. (II. 27.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^20]: A 6. § (3) bekezdés e) pontját a 95/2021. (II. 27.) Korm. rendelet 2. §-a iktatta be.

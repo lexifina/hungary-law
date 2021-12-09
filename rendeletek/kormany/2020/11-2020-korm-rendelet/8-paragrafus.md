@@ -1,3 +1,3 @@
-8. §[^21] A felnőttképző a felnőttképzők nyilvántartásában szereplő adataiban bekövetkezett változást – a változásnak a hatáskörrel és illetékességgel rendelkező szerv által történő átvezetésének napjától számított – nyolc napon belül köteles bejelenteni a felnőttképzési államigazgatási szervnek.
+8. §[^24] A felnőttképző a felnőttképzők nyilvántartásában szereplő adataiban bekövetkezett változást – a változásnak a hatáskörrel és illetékességgel rendelkező szerv által történő átvezetésének napjától számított – nyolc napon belül köteles bejelenteni a felnőttképzési államigazgatási szervnek.
 
-[^21]: A 8. § a 95/2021. (II. 27.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^24]: A 8. § a 95/2021. (II. 27.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
