@@ -1,0 +1,1 @@
+## 1. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvénynek (a továbbiakban: Ctv.) a kényszertörlési eljárásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
