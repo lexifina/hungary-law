@@ -1,3 +1,5 @@
-## 26.[^184]
+## 26.[^199]
 
-[^184]: A 26. alcímet (67. §) a 218/2018. (XI. 27.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+67. §
+
+[^199]: A 26. alcímet (67. §) a 218/2018. (XI. 27.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.

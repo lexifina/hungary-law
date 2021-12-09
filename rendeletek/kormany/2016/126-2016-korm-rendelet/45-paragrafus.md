@@ -4,8 +4,11 @@
 
 (2) A programszámlán a vezető kedvezményezett vagy a TA kedvezményezett által bármilyen jogcímen történő visszafizetés írható jóvá.
 
-(3) A programszámláról az igazoló hatóság által indított átutaláshoz az átutalási megbízást az IMIR 2014–2020 rendszerben kell kiállítani. Az átutalási megbízást elektronikus formában kell átadni pénzügyi teljesítésre a kincstár részére.
+(3)[^175] A programszámláról az igazoló hatóság által indított átutaláshoz az átutalási megbízást az INTERREG+ rendszerben kell kiállítani. Az átutalási megbízást elektronikus formában kell átadni pénzügyi teljesítésre a kincstár részére.
 
-(4) Az igazoló hatóság a kincstár által kiállított pénzforgalmi számlakivonat adatait a kézhezvételét követő három napon belül rögzíti az IMIR 2014–2020 rendszerben.
+(4)[^176] Az igazoló hatóság a kincstár által kiállított pénzforgalmi számlakivonat adatait a kézhezvételét követő három napon belül rögzíti az INTERREG+ rendszerben.
 
 (5) A programszámla vezetésével és forgalmával kapcsolatban felmerült költség elszámolása az államháztartásért felelős miniszter által vezetett minisztérium költségvetési fejezete terhére történik.
+
+[^175]: A 45. § (3) bekezdése a 689/2021. (XII. 8.) Korm. rendelet 4. § 6. pontja szerint módosított szöveg.
+[^176]: A 45. § (4) bekezdése a 689/2021. (XII. 8.) Korm. rendelet 4. § 7. pontja szerint módosított szöveg.

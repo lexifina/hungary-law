@@ -14,7 +14,7 @@ b) az a) pontban meghatározott körbe nem tartozó hazai kedvezményezett eset�
 
 c)[^23] hazai TA kedvezményezett, a 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezett, és az 1. § f) pontja szerinti együttműködési program külföldi irányító hatósága esetén a TA költségvetésben szereplő, teljes időszakra vonatkozó hazai támogatás összege
 
-## lehet.
+lehet.
 
 (2a)[^24] A (2) bekezdést nem kell alkalmazni
 

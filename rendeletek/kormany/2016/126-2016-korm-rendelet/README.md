@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-126-20-
 | 2020-12-25 | 2016-126-20-22.11 | 598/2020. (XII. 17.) Korm. rendelet |
 | 2021-07-08 | 2016-126-20-22.12 | 385/2021. (VI. 30.) Korm. rendelet |
 | 2021-12-01 | 2016-126-20-22.13 | 377/2020. (VII. 30.) Korm. rendelet |
+| 2021-12-09 | 2016-126-20-22.14 | 689/2021. (XII. 8.) Korm. rendelet |

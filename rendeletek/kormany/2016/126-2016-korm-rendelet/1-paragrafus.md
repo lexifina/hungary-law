@@ -17,3 +17,5 @@ d) az Interreg V–A Szlovákia–Magyarország Együttműködési Program,
 e) az Interreg V–A Ausztria–Magyarország Együttműködési Program,
 
 f) az Interreg V–A Szlovénia–Magyarország Együttműködési Program
+
+(a továbbiakban együtt: határon átnyúló együttműködési programok) végrehajtására, valamint a határon átnyúló együttműködési programok uniós támogatása és hazai társfinanszírozása felhasználásának lebonyolítására és ellenőrzésére.

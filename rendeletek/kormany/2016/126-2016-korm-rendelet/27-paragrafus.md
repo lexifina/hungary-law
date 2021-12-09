@@ -24,7 +24,7 @@ bb) szerződéshez kapcsolódó, későbbi elszámolást is érintő átalányko
 
 bc) a korrekció összegének a hazai kedvezményezett vagy hazai TA kedvezményezett által benyújtott, következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyott összegének kifizetése során a kifizetés összegéből történő levonását
 
-## elrendelő döntéssel.
+elrendelő döntéssel.
 
 (6)[^141] A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalanságot vagy pénzügyi hibát a hazai kedvezményezettre vagy a hazai TA kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A szabálytalanság vagy pénzügyi hiba megállapításával összefüggésben elrendelt intézkedés a hazai kedvezményezettet, illetve a hazai TA kedvezményezettet terheli.
 

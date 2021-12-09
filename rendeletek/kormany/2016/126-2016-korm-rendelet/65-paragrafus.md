@@ -4,4 +4,6 @@
 
 (2) A hazai TA projekt végrehajtása során felmerült költségeket a nemzeti hatóság hitelesíti.
 
-(3) Az eurótól eltérő pénznemben kiállított számla vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylat esetén a számlán vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylaton szereplő összeget a határon átnyúló együttműködési programokban rögzített módon kell euróra átszámítani az IMIR 2014–2020 rendszer használatával.
+(3)[^197] Az eurótól eltérő pénznemben kiállított számla vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylat esetén a számlán vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylaton szereplő összeget a határon átnyúló együttműködési programokban rögzített módon kell euróra átszámítani az INTERREG+ rendszer használatával.
+
+[^197]: A 65. § (3) bekezdése a 689/2021. (XII. 8.) Korm. rendelet 4. § 18. pontja szerint módosított szöveg.

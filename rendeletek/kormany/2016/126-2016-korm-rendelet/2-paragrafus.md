@@ -1,1 +1,0 @@
-## (a továbbiakban együtt: határon átnyúló együttműködési programok) végrehajtására, valamint a határon átnyúló együttműködési programok uniós támogatása és hazai társfinanszírozása felhasználásának lebonyolítására és ellenőrzésére.

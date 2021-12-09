@@ -30,11 +30,11 @@
 
 13. igazoló hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 24. cikke és a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (2) bekezdése szerinti tevékenységet ellátó szervezet,
 
-14.[^5] IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak támogatásával megvalósuló programok és azok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló informatikai rendszer, ide nem értve a NAHU 2014–2020 rendszer által kezelt nemzeti feladatokat,
+14.[^5] IMIR 2014–2020 rendszer: a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap, az Előcsatlakozási Támogatási Eszköz, valamint az Európai Szomszédsági Támogatási Eszköz pénzügyi alapok területi együttműködéshez kapcsolódó egyes programjainak támogatásával megvalósuló programok pályázati adatainak és azok keretében megvalósuló egyes projektek adatainak megőrzésére szolgáló informatikai rendszer,
 
 15.[^6] információs pont: az 1. § szerinti együttműködési programok hatékony lebonyolítását szakmailag támogató szervezet,
 
-15a.[^7] INTERREG+ rendszer: az 1. § a), b) és d) pontjában meghatározott határon átnyúló együttműködési programok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló, ezen programok végrehajtási folyamatait támogató, az IMIR 2014–2020 rendszer funkcióit fokozatosan átvevő és az átvétel időszaka alatt az IMIR 2014–2020 rendszerrel párhuzamosan fejlesztett és működtetett informatikai rendszer, ide nem értve a NAHU 2014–2020 rendszer által kezelt nemzeti feladatokat,
+15a.[^7] INTERREG+ rendszer: az 1. § a), b) és d) pontjában meghatározott határon átnyúló együttműködési programok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló, ezen programok végrehajtási folyamatait támogató informatikai rendszer, ide nem értve a NAHU 2014–2020 rendszer által kezelt nemzeti feladatokat,
 
 16. irányító hatóság: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke, a 447/2014/EU bizottsági végrehajtási rendelet 37. cikk (1) bekezdése szerinti tevékenységet ellátó szervezet,
 
@@ -102,9 +102,9 @@
 [^2]: A 3. § (1) bekezdés 7. pontja a 116/2017. (V. 19.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 377/2020. (VII. 30.) Korm. rendelet 19. § 1. pontja szerint módosított szöveg.
 [^3]: A 3. § (1) bekezdés 8. pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés 10. pontja a 116/2017. (V. 19.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés 14. pontja a 218/2018. (XI. 27.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdés 14. pontja a 689/2021. (XII. 8.) Korm. rendelet 2. §–ával megállapított szöveg.
 [^6]: A 3. § (1) bekezdés 15. pontja a 223/2016. (VII. 22.) Korm. rendelet 8. § a) pontja, a 377/2020. (VII. 30.) Korm. rendelet 19. § 2. pontja szerint módosított szöveg.
-[^7]: A 3. § (1) bekezdés 15a. pontját az 598/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 3. § (1) bekezdés 15a. pontját az 598/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be, szövege a 689/2021. (XII. 8.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § (1) bekezdés 16a. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdés 16b. pontját a 116/2017. (V. 19.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés 16c. pontját a 377/2020. (VII. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.

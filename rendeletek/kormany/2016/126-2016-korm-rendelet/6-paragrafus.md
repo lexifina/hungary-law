@@ -6,7 +6,7 @@ b)[^35] a TA projekt hazai kedvezményezettje, illetve a 3. § (1) bekezdés 15.
 
 c)[^36] az 1. § f) pontja szerinti együttműködési program irányító hatósága részére a vonatkozó monitoring bizottsági döntés
 
-## alapján kerül kifizetésre.
+alapján kerül kifizetésre.
 
 (2)[^37] A hazai kedvezményezett és a hazai TA kedvezményezett részére a teljes hazai társfinanszírozás kifizetése egyösszegű előleg formájában történik. A 3. § (1) bekezdés 15. pontja szerinti feladatot ellátó külföldi TA kedvezményezett és az 1. § f) pontja szerinti együttműködési program irányító hatósága esetén a kifizetésre utófinanszírozás formájában kerül sor, a jóváhagyott elszámolásokban szereplő hazai társfinanszírozás mértékéig.
 

@@ -18,7 +18,7 @@ a)[^84] szerinti megelőlegezés esetén legkésőbb a projektrészre eső unió
 
 b)[^85]
 
-## annak a hazai kedvezményezett fizetési számláján történő jóváírását követő harminc napon belül vissza kell utalni.
+annak a hazai kedvezményezett fizetési számláján történő jóváírását követő harminc napon belül vissza kell utalni.
 
 (6a)[^86] A megelőlegezett összeg azon részét, amellyel szemben uniós támogatási összeg kifizetésére nem kerül sor, legkésőbb az utolsó uniós támogatási részlet kifizetésének hazai kedvezményezett fizetési számláján történő jóváírását követő harminc napon belül vissza kell utalni a megelőlegezési szerződésben meghatározott módon.
 
