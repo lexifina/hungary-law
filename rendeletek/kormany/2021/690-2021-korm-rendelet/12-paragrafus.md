@@ -1,0 +1,3 @@
+12. § (1) Az ösztöndíjas az ösztöndíjas szerződésben foglaltak szerint köteles a felvételi vagy átvételi határozatban érintett felsőoktatási intézménnyel hallgatói jogviszonyt létesíteni; és – összhangban az Stv. 3. § (1) bekezdés második mondatában biztosított lehetőséggel – a fogadó sportszervezetnél és a felsőoktatási intézmény sportszervezeténél a versenyengedélyét az ösztöndíjszerződés alatt megfelelő időtartamban fenntartani.
+
+(2) Ha az ösztöndíjas hallgatói jogviszonya megszűnik, részére a továbbiakban – a 10. § (2) bekezdésében és a 11. § (5) bekezdésében foglalt kivétellel – az ösztöndíj nem folyósítható. Ha az ösztöndíjas a hallgatói jogviszonyát szünetelteti, a szüneteltetés ideje alatt részére az ösztöndíj nem folyósítható.
