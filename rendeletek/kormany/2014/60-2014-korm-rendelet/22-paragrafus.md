@@ -1,4 +1,4 @@
-## 21/A. § Az önálló rendszerként működő IMIR 2014–2020-ra – az általa kezelt programok speciális jogszabályi kereteit is figyelembe véve – megfelelően alkalmazni kell a FAIR alrendszereire irányadó szabályokat.
+## 21/A. §
 
 ## 12. Az egyéb nyilvántartási rendszer
 
