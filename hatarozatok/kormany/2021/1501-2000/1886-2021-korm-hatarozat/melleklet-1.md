@@ -66,7 +66,7 @@
 
 ## Határidő: azonnal
 
-## 1.10. visszavonja a Modern Városok Program keretében a Nyíregyházi Állatpark fejlesztése tárgyú beruházás támogatásának biztosításáról szóló 1280/2017. (VI. 2.) Korm. határozat 6. pontját;
+## 1.10.[^1]
 
 ## 1.11. egyetért azzal, hogy az Isztambulban és Rómában levéltári szakdiplomata álláshelyek létesítéséről szóló 1577/2020. (IX. 10.) Korm. határozat 2. pontjában foglaltaktól eltérően a Rómába kihelyezésre kerülő levéltári szakdiplomata álláshelye Magyarország Római Nagykövetsége helyett Magyarország Vatikáni Nagykövetségén létesüljön;
 
@@ -136,6 +136,9 @@
 
 ## d) a 2025. évben az 1.12. alpont a) pontja szerinti beszerzés vonatkozásában legfeljebb 47 520 850 000 forint.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kötelezettségvállalás engedélyezéséről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről, valamint kormányhatározat módosításáról szóló 1178/2021. (IV. 14.) Korm. határozat 1.2. pontjában a „2021. december 31.” szövegrész helyébe a „2021. december 31., a Nemzeti Választási Iroda cím javára átcsoportosított 2 524 900 000 forint tekintetében 2022. június 30.” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1886/2021. (XII. 8.) Korm. határozathoz
+
+[^1]: Az 1. pont 1.10. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
