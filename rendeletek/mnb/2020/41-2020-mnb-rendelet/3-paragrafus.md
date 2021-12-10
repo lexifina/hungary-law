@@ -12,6 +12,9 @@
 
 (6)[^4] Az adatszolgáltató az 1. melléklet I. pontjában foglalt táblázatnak a 25/2021. (VIII. 18.) MNB rendelet 1. melléklet 1. pontjával beiktatott 103a. sora szerinti P74 MNB azonosító kódú adatszolgáltatást első alkalommal a 2021. évre mint tárgyidőszakra vonatkozóan teljesíti.
 
+(7)[^5] Az adatszolgáltató az 1. melléklet I. pontjában foglalt táblázat 58. sora szerinti L73 MNB azonosító kódú adatszolgáltatást a hitelintézetek eszközei és forrásai közötti általános denominációs összhang szabályozásáról szóló, valamint a kapcsolódó adatszolgáltatási kötelezettséget meghatározó MNB rendeletek módosításáról szóló 62/2021. (XII. 9.) MNB rendelet 1. mellékletével módosított kitöltési előírások szerint első alkalommal 2021. december hónapra mint tárgyidőszakra vonatkozóan teljesíti.
+
 [^2]: A 3. § (4) bekezdését a 25/2021. (VIII. 18.) MNB rendelet 1. §-a iktatta be.
 [^3]: A 3. § (5) bekezdését a 25/2021. (VIII. 18.) MNB rendelet 1. §-a iktatta be.
 [^4]: A 3. § (6) bekezdését a 25/2021. (VIII. 18.) MNB rendelet 1. §-a iktatta be.
+[^5]: A 3. § (7) bekezdését a 62/2021. (XII. 9.) MNB rendelet 2. § (1) bekezdése iktatta be.

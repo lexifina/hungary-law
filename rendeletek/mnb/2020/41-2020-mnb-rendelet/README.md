@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-41-20-2
 | 2021-01-02 | 2020-41-20-2C.2 | 2010: CXXX. törvény |
 | 2021-08-19 | 2020-41-20-2C.3 | 25/2021. (VIII. 18.) MNB rendelet |
 | 2021-10-04 | 2020-41-20-2C.4 | 25/2021. (VIII. 18.) MNB rendelet |
+| 2021-12-10 | 2020-41-20-2C.5 | 62/2021. (XII. 9.) MNB rendelet |

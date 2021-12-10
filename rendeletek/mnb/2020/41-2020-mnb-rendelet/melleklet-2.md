@@ -322,6 +322,6 @@
 
 | 6 | Z06 | Természetes személyek anonimizált egészségügyi adatai | Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint |
 
-2. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^7]
+2. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^8]
 
-[^7]: A 2. mellékelt a 25/2021. (VIII. 18.) MNB rendelet 2. § b) pontja, a 41/2021. (X. 1.) MNB rendelet 1. § b) pontja szerint módosított szöveg.
+[^8]: A 2. mellékelt a 25/2021. (VIII. 18.) MNB rendelet 2. § b) pontja, a 41/2021. (X. 1.) MNB rendelet 1. § b) pontja, a 62/2021. (XII. 9.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.

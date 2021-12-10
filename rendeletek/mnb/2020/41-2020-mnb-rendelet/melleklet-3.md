@@ -1,6 +1,6 @@
-## 20202C20000041_6
+## 20202C20000041_7
 
-3. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^8]
+3. melléklet a 41/2020. (XI. 18.) MNB rendelethez[^9]
 
 ## Az információk szolgáltatásához szükséges technikai segédletek
 
@@ -54,4 +54,4 @@
 
 9. Módszertani segédletek az egyes adatszolgáltatásokhoz; Példatárak
 
-[^8]: A 3. melléklet a 41/2021. (X. 1.) MNB rendelet 1. § c) pontja szerint módosított szöveg.
+[^9]: A 3. melléklet a 41/2021. (X. 1.) MNB rendelet 1. § c) pontja szerint módosított szöveg.
