@@ -1,1 +1,3 @@
-## 4. § Az R. 1. § a) pontjában az „ „Uniós programok kiegészítő támogatása” központi kezelésű előirányzatra” szövegrész helyébe a „központi kezelésű előirányzatokra” szöveg lép.
+## 1–4. §[^2]
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
