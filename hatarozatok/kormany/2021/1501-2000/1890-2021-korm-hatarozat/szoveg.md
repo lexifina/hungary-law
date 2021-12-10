@@ -20,8 +20,6 @@ migrációs szakkonzul álláshely megnevezéssel történő fenntartásával;
 
 7. egyetért azzal, hogy az 5. pontban foglalt migrációs szakkonzulok szakmai irányítását a Külszoltv. 36. § (6) bekezdésére figyelemmel a belügyminiszter mint a Külszoltv. szerinti szakminiszter az Országos Idegenrendészeti Főigazgatóság vezetőjén keresztül látja el;
 
-8. visszavonja
+8.[^1]
 
-a) a nemzeti vízum kiadásához szükséges külképviseleti fejlesztésekkel összefüggő egyes kérdésekről szóló 2277/2005. (XII. 9.) Korm. határozatot,
-
-b) a migrációs szakdiplomata Pekingbe történő kihelyezéséről és annak tevékenységéhez szükséges pénzügyi és létszám-előirányzatok biztosításáról szóló 2009/2005. (I. 31.) Korm. határozatot.
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
