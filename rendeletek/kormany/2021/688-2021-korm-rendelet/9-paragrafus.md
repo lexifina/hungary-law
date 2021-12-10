@@ -1,34 +1,35 @@
-## 8. § Az R2. 21. alcíme a következő 37/B. §-sal egészül ki:
-
-## „37/B. § A 26/A. § (4) bekezdése szerinti adatszolgáltatásnak első alkalommal 2022. január 31. napjáig kell eleget tenni
-
-## a) a (4) bekezdés a), b) és d)–f) pontja vonatkozásában a 2021. év első, második, harmadik és negyedik negyedévére,
-
-## b) a (4) bekezdés c) és g) pontja vonatkozásában a 2013–2021. évekre
-
-## vonatkozóan.”
+## 8. §[^8]
 
 ## 9. § Az R2.
 
-a) 1. § (1) bekezdésében az „a felnőttképzési tevékenység” szövegrész helyébe az „az engedély alapján végzett felnőttképzési tevékenység” szöveg,
+a)[^9]
 
-b) 2. § (1) bekezdésében az „a felnőttképzési tevékenységből” szövegrész helyébe az „az engedély alapján végzett felnőttképzési tevékenységből” szöveg,
+b)[^10]
 
-c) 3. § (2) bekezdés a) pont aa) alpontjában az „adatait,” szövegrész helyébe az „adatait, valamint – annak megléte esetén – a felnőttképző felnőttképzési tevékenységével közvetlenül érintett telephelyének címét,” szöveg,
+c)[^11]
 
-d) 3. § (2) bekezdés c) pont ca) alpontjában az „állampolgárságát és” szövegrész helyébe az „állampolgárságát,” szöveg,
+d)[^12]
 
-e) 3. § (2) bekezdés c) pont cb) alpontjában az „intézmény megnevezését.” szövegrész helyébe az „intézmény megnevezését és” szöveg,
+e)[^13]
 
-f) 18. § (2) bekezdés c) pontjában az „ellátva, és papíralapú képzési program esetében az összefűzésre úgy került sor, hogy annak szétválasztására sérülésmentesen nincs lehetőség.” szövegrész helyébe az „ellátva.” szöveg,
+f)[^14]
 
-g) 21. § (1) bekezdés d) és f) pontjában a „képzéshez jogszabályban meghatározottak szerint vizsga” szövegrész helyébe a „képzéshez vizsga” szöveg,
+g)[^15]
 
-h) 21. § (2) bekezdésében a „díjat vagy” szövegrész helyébe a „díjat – ide nem értve a mulasztott foglalkozás pótlásának és a sikertelen vizsga megismétlésének díját – vagy” szöveg,
+h)[^16]
 
-i)[^3]
+i)[^17]
 
-j)[^4]
+j)[^18]
 
-[^3]: A 9. § i) pontja a 11. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^4]: A 9. § j) pontja a 11. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 9. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 9. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 9. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 9. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 9. § i) pontja a 11. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^18]: A 9. § j) pontja a 11. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
