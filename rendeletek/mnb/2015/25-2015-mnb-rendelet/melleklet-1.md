@@ -4,6 +4,8 @@
 
 ## A devizaegyensúly mutató számításának módja
 
-1. A devizaegyensúly mutató a deviza eszközök és deviza források abszolút értéken kifejezett különbségének, valamint a mérlegfőösszegnek a hányadosa.
+1.[^2] A devizaegyensúly mutató a deviza eszközök és deviza források különbségének, valamint a mérlegfőösszegnek a hányadosa.
 
 2. A devizaegyensúly mutató számítása során a deviza eszközöket, a deviza forrásokat és a mérlegfőösszeget könyv szerinti értéken kell figyelembe venni.
+
+[^2]: Az 1. melléklet 1. pontja a 62/2021. (XII. 9.) MNB rendelet 1. § (2) bekezdése szerint módosított szöveg.
