@@ -4,7 +4,7 @@
 
 (2) A 12. § 2018. január 1-jén lép hatályba.
 
-(3)[^31] A 12. § (2) bekezdését
+(3)[^38] A 12. § (2) bekezdését
 
 a) a minisztérium állami vezetőire, közszolgálati tisztviselőire, munkavállalóira, a Kttv. hatálya alá tartozó foglalkoztatottjaira és a tartós külszolgálatra kihelyezettel a tartós külszolgálat helyén tartózkodó közeli hozzátartozóira, továbbá a szakdiplomatákra 2018. január 1-jétől,
 
@@ -18,13 +18,13 @@ e) a Külszoltv. 2. § 17. pontja szerinti szakdiplomata jelölésére jogosult 
 
 ## kell alkalmazni.
 
-(4)[^32] A külpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban jelen bekezdés alkalmazásában: minisztérium) a Korm. rendelet 4. § (3) bekezdés b) pontja szerinti kötelezettségét a minisztérium kezdeményezésére egyszerűsített nyilvántartásba vételi eljárással nyilvántartásba vett belső továbbképzés vonatkozásában olyan, az alapító okirata szerint a külpolitikáért felelős miniszter felelősségi körébe tartozó ágazati szakmai kutató-elemzői feladatokat ellátó közalapítvány közreműködésével is biztosíthatja, amely felett a Kormány az alapítói jogok gyakorolására a minisztert jelölte ki.
+(4)[^39] A külpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban jelen bekezdés alkalmazásában: minisztérium) a Korm. rendelet 4. § (3) bekezdés b) pontja szerinti kötelezettségét a minisztérium kezdeményezésére egyszerűsített nyilvántartásba vételi eljárással nyilvántartásba vett belső továbbképzés vonatkozásában olyan, az alapító okirata szerint a külpolitikáért felelős miniszter felelősségi körébe tartozó ágazati szakmai kutató-elemzői feladatokat ellátó közalapítvány közreműködésével is biztosíthatja, amely felett a Kormány az alapítói jogok gyakorolására a minisztert jelölte ki.
 
-(5)[^33] A Korm. rendeletben foglaltak szerint a külpolitikáért felelős miniszter által vezetett minisztérium által biztosított belső továbbképzést – a közszolgálati tisztviselők belső továbbképzésére vonatkozó szabályok megfelelő alkalmazásával – a jogszabályi kijelölés alapján a külpolitikáért felelős miniszter tulajdonosi joggyakorlása vagy irányítása alá tartozó, állami tulajdonban álló gazdasági társaságok, kormányzati igazgatási szerv és alapítói joggyakorlása alá tartozó közalapítvány munkavállalói, valamint az önkormányzati, állami tulajdonú gazdasági társaságok munkavállalói is teljesíthetik.
+(5)[^40] A Korm. rendeletben foglaltak szerint a külpolitikáért felelős miniszter által vezetett minisztérium által biztosított belső továbbképzést – a közszolgálati tisztviselők belső továbbképzésére vonatkozó szabályok megfelelő alkalmazásával – a jogszabályi kijelölés alapján a külpolitikáért felelős miniszter tulajdonosi joggyakorlása vagy irányítása alá tartozó, állami tulajdonban álló gazdasági társaságok, kormányzati igazgatási szerv és alapítói joggyakorlása alá tartozó közalapítvány munkavállalói, valamint az önkormányzati, állami tulajdonú gazdasági társaságok munkavállalói is teljesíthetik.
 
-(6)[^34] A továbbképzési kötelezettségek teljesítésébe tanulmányi pontértékük szerinti mértékben, az előírt kötelezettség teljes mértékéig beszámíthatóak a kormánytisztviselő, köztisztviselő által teljesített, a külpolitikáért felelős miniszter által vezetett minisztérium által a közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet és a Korm. rendelet alapján – belső továbbképzésként – nyilvántartásba vett és biztosított, a KÖFOP-2.1.4-VEKOP-16-2016-00001 azonosító jelű kiemelt projekt keretében fejlesztetett belső továbbképzési programok.
+(6)[^41] A továbbképzési kötelezettségek teljesítésébe tanulmányi pontértékük szerinti mértékben, az előírt kötelezettség teljes mértékéig beszámíthatóak a kormánytisztviselő, köztisztviselő által teljesített, a külpolitikáért felelős miniszter által vezetett minisztérium által a közszolgálati tisztviselők továbbképzéséről szóló 273/2012. (IX. 28.) Korm. rendelet és a Korm. rendelet alapján – belső továbbképzésként – nyilvántartásba vett és biztosított, a KÖFOP-2.1.4-VEKOP-16-2016-00001 azonosító jelű kiemelt projekt keretében fejlesztetett belső továbbképzési programok.
 
-[^31]: A 13. § (3) bekezdése a 127/2019. (V. 30.) Korm rendelet 9. §-ával megállapított szöveg.
-[^32]: A 13. § (4) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 113. §-a iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 125. §-a, a 381/2020. (VII. 31.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^33]: A 13. § (5) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 113. §-a iktatta be, szövege a 127/2019. (V. 30.) Korm rendelet 10. § j) pontja, a 279/2019. (XI. 21.) Korm. rendelet 4. §-a, a 381/2020. (VII. 31.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^34]: A 13. § (6) bekezdését a 279/2019. (XI. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2021. (V. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^38]: A 13. § (3) bekezdése a 127/2019. (V. 30.) Korm rendelet 9. §-ával megállapított szöveg.
+[^39]: A 13. § (4) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 113. §-a iktatta be, szövege a 13/2020. (II. 7.) Korm. rendelet 125. §-a, a 381/2020. (VII. 31.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^40]: A 13. § (5) bekezdését a 88/2019. (IV. 23.) Korm. rendelet 113. §-a iktatta be, szövege a 127/2019. (V. 30.) Korm rendelet 10. § j) pontja, a 279/2019. (XI. 21.) Korm. rendelet 4. §-a, a 381/2020. (VII. 31.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^41]: A 13. § (6) bekezdését a 279/2019. (XI. 21.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2021. (V. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
