@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-14-20-0
 | 2020-05-01 | 2016-14-20-0A.15 | 9/2020. (IV. 16.) BM rendelet |
 | 2020-07-01 | 2016-14-20-0A.16 | 29/2017. (XI. 6.) BM rendelet |
 | 2021-06-27 | 2016-14-20-0A.17 | 29/2017. (XI. 6.) BM rendelet |
+| 2021-12-10 | 2016-14-20-0A.18 | 29/2017. (XI. 6.) BM rendelet |

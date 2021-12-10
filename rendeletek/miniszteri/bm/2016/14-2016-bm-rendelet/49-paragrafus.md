@@ -6,6 +6,8 @@
 
 (4) Az ideiglenes csapatszolgálati századok vagy a mélységi ellenőrzési és közterületi támogató alegységek feladatkörébe tartozó speciális feladatok ellátása során a 10M egységes rendészeti gyakorlóruházat viselése esetén – az erre kialakított tépőzár-részen – szolgálati jelvény helyett a szolgálati elöljáró engedélye alapján hímzett azonosító viselhető.
 
-(5) A hivatásos katasztrófavédelmi szerv tűzoltási, műszaki mentési tevékenységet végző beavatkozó állományának a szolgálati feladatok végrehajtása során a 10M egységes rendészeti gyakorlóruhán a szolgálati jelvényt nem kell viselnie.
+(5)[^35] A hivatásos katasztrófavédelmi szerv tűzoltási, műszaki mentési tevékenységet végző állományának a szolgálati feladatok végrehajtása során a 10M egységes rendészeti gyakorlóruhán a szolgálati jelvényt nem kell viselnie.
 
 (6) A hivatásos katasztrófavédelmi szerv hivatásos állománya számára – speciális ellenőrzési feladatainak ellátása során – a szolgálati jelvény használata nem kötelező. Helyette a szolgálati jelvény azonosítószámával megegyező hímzett azonosító használható, amely megegyezik a hímzett névkitűző külalakjával.
+
+[^35]: A 49. § (5) bekezdése a 42/2021. (XII. 9.) BM rendelet 11. § (3) bekezdése szerint módosított szöveg.

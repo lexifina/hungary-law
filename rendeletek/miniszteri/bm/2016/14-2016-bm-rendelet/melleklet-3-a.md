@@ -1,4 +1,4 @@
-3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^46]
+3/A. melléklet a 14/2016. (V. 10.) BM rendelethez[^47]
 
 ## Az idegenrendészeti szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -96,4 +96,4 @@ bc) T2: Tábornoki alapellátási norma (női)
 
 2. Az idegenrendészeti szerv hivatásos állománya ügyfélszolgálati feladatok ellátása esetén a szolgálati feladatokat formaruházatban látja el.
 
-[^46]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be.
+[^47]: A 3/A. mellékletet a 47/2019. (XII. 18.) BM rendelet 3. §-a iktatta be.

@@ -1,4 +1,4 @@
-5. melléklet a 14/2016. (V. 10.) BM rendelethez[^48]
+5. melléklet a 14/2016. (V. 10.) BM rendelethez[^49]
 
 ## A hivatásos katasztrófavédelmi szerv hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -14,7 +14,9 @@
 
 | 4 | 10M e. r. gyakorló nadrág, könnyített | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 5 | Gyakorló póló, sötétkék | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| 5 | Gyakorló póló, sötétkék | db | 4 | 2 | 2 | 4 | 2 | 2 | 2 | 2 |
+
+| 5a | Teniszing, sötétkék | db |  | 2 | 2 |  | 2 | 2 | 2 | 2 |
 
 | 6 | 10M e. r. gyakorló zubbony, könnyített, felirattal | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -80,7 +82,7 @@
 
 | 36 | Bőrkesztyű, fekete | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
-| 37 | Társasági/szolgálati nyakkendő, sötétkék | db |  | 1 | 1 | 1** | 1 | 1 | 1 | 1 |
+| 37 | Társasági/szolgálati nyakkendő, sötétkék | db |  | 1 | 1 |  | 1 | 1 |  |  |
 
 | 37a | 17M társasági nyakkendő, sötétkék | db |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 
@@ -116,7 +118,7 @@
 
 a) Megjegyzés:
 
-* A tűzoltási, mentési tevékenységet végző, beavatkozó állomány részére adható ki.
+* A tűzoltási, a műszaki mentési tevékenységet végző, készenléti jellegű szolgálatot ellátó állomány részére adható ki.
 
 ** Az ellátást csak a tiszti és a főtiszti rendfokozati állománycsoportba tartozó állomány részére kell biztosítani.
 
@@ -132,7 +134,7 @@ bb) E1: Egyenruhás alapellátási norma (férfi)
 
 bc) E2: Egyenruhás alapellátási norma (női)
 
-bd) E3: Egyenruhás alapellátási norma a tűzoltási, műszaki mentési tevékenységet végző, beavatkozó állomány részére.
+bd) E3: Egyenruhás alapellátási norma a tűzoltási, műszaki mentési tevékenységet végző, készenléti jellegű szolgálatot ellátó állomány részére.
 
 be) V1: Vegyes ruhás alapellátási norma (férfi)
 
@@ -184,4 +186,4 @@ bh) T2: Tábornoki alapellátási norma (női)
 
 | 19 | Nyakkendőtű (katasztrófavédelmi) | – |
 
-[^48]: Az 5. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^49]: Az 5. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (4) bekezdése, a 42/2021. (XII. 9.) BM rendelet 11. § (2) bekezdése szerint módosított szöveg.
