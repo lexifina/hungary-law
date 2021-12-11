@@ -1,0 +1,9 @@
+# 16/2021. (XII. 8.) MEKH rendelet
+
+a megújuló energiaforrásból termelt villamos energia működési támogatásának mértékéről szóló 13/2017. (XI. 8.) MEKH rendelet és az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontjainak, valamint az almérők alkalmazásával történő mérés minimális követelményeinek meghatározásáról szóló 1/2020. (I. 16.) MEKH rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-16-20-5Z
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-12-11 | 2021-16-20-5Z.1 | 16/2021. (XII. 8.) MEKH rendelet |
