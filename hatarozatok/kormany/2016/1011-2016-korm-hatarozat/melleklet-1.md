@@ -74,7 +74,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 5c. | VEKOP-1.2.7-20 | Divat és Dizájnipari mikro-, kis- és középvállalkozások modern üzleti és termelési kihívásokhoz való alkalmazkodását segítő fejlesztések támogatása | 4,467 | egyszerűsített | Meghirdetve 2021. januárban |
 
-| 5d. | VEKOP-1.2.8-20 | Az egyszer használatos és egyéb műanyagtermékek forgalomba hozatalának korlátozásával érintett, valamint az ezeket helyettesítő termékek gyártásával foglalkozó vállalkozások technológiaváltásának és kapacitásbővítésének támogatása | 1,533 | egyszerűsített | Meghirdetve 2021. januárban |
+| 5d. | VEKOP-1.2.8-20 | Az egyszer használatos és egyéb műanyagtermékek forgalomba hozatalának korlátozásával érintett, valamint az ezeket helyettesítő termékek gyártásával foglalkozó vállalkozások technológiaváltásának és kapacitásbővítésének támogatása | 1,502 | egyszerűsített | Meghirdetve 2021. januárban |
 
 | 6. | VEKOP-1.3.1-16 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 1,23 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
@@ -108,9 +108,9 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-4.1.1-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 6,31 | kiemelt | Meghirdetve 2016. márciusban |
+| 2. | VEKOP-4.1.1-15 | Aktív turisztikai hálózatok infrastruktúrájának fejlesztése | 6,18 | kiemelt | Meghirdetve 2016. márciusban |
 
-| 3. | VEKOP-4.1.2-17 | Tematikus hálózatok fejlesztése | 1,00 | standard | Meghirdetve 2017. márciusban |
+| 3. | VEKOP-4.1.2-17 | Tematikus hálózatok fejlesztése | 1,13 | standard | Meghirdetve 2017. márciusban |
 
 | 4. | VEKOP-4.2.1-15 | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi bemutatás infrastruktúrájának javítása | 2,105 | kiemelt | Meghirdetve 2016. márciusban |
 
@@ -122,13 +122,13 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-5.1.1- 5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 1,588 | egyszerűsített | Meghirdetve 2016. decemberben |
+| 2. | VEKOP-5.1.1- 5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 1,482 | egyszerűsített | Meghirdetve 2016. decemberben |
 
-| 3. | VEKOP-5.1.1- 5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 1,889 | pénzügyi eszköz | Meghirdetve 2016. decemberben |
+| 3. | VEKOP-5.1.1- 5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 1,681 | pénzügyi eszköz | Meghirdetve 2016. decemberben |
 
-| 4. | VEKOP-5.2.1-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 14,228 | pénzügyi eszköz | Meghirdetve 2017. februárban |
+| 4. | VEKOP-5.2.1-17 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 14,696 | pénzügyi eszköz | Meghirdetve 2017. februárban |
 
-| 5. | VEKOP-5.3.1-15 | Fenntartható közlekedésfejlesztés Budapesten | 9,035 | területi | Meghirdetve 2016. márciusban |
+| 5. | VEKOP-5.3.1-15 | Fenntartható közlekedésfejlesztés Budapesten | 8,881 | területi | Meghirdetve 2016. márciusban |
 
 | 6. | VEKOP-5.3.2-15 | Fenntartható közlekedésfejlesztés Pest megyében | 6,550 | területi | Meghirdetve 2016. márciusban |
 
@@ -228,7 +228,7 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozás (Mrd Ft) |
 
-| 2. | GINOP-1.1.2-VEKOP-17 | KKV szektor hatékonyságának növelése pénzügyi ismeretek és vállalkozói mentorálás elérhetőségének biztosítása révén | 0,29 |
+| 2. | GINOP-1.1.2-VEKOP-17 | KKV szektor hatékonyságának növelése pénzügyi ismeretek és vállalkozói mentorálás elérhetőségének biztosítása révén | 0,32 |
 
 | 2a. | GINOP-1.1.9-VEKOP-20 | Versenyképes vállalkozói attitűd fejlesztése, a lehetőség-orientált vállalkozások arányának növelése | 0,33 |
 
@@ -242,9 +242,9 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 
 | 5b. | GINOP-5.3.7-VEKOP-17 | Jogszerű foglalkoztatás fejlesztése | 1,056 |
 
-| 5c. | GINOP-5.3.10-VEKOP-17 | A strukturális változásokhoz való alkalmazkodás segítése | 8,55 |
+| 5c. | GINOP-5.3.10-VEKOP-17 | A strukturális változásokhoz való alkalmazkodás segítése | 8,24 |
 
-| 5d. | GINOP-5.3.16-VEKOP-20 | Veszélyhelyzeti bértámogatás kutatásfejlesztési munkahelymegőrzés céljából | 18,96 |
+| 5d. | GINOP-5.3.16-VEKOP-20 | Veszélyhelyzeti bértámogatás kutatásfejlesztési munkahelymegőrzés céljából | 18,69 |
 
 | 5e. | GINOP 6.1.10-VEKOP-19 | A gazdaság fokozatváltását támogató innovatív képzések | 1,534 |
 
@@ -476,4 +476,4 @@ A Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keret
 [^12]: Az 1/B. pontot a 2025/2020. (XII. 24.) Korm. határozat 2. pontja iktatta be.
 [^13]: Az 1/C. pontot az 1659/2021. (IX. 24.) Korm. határozat 3. pontja iktatta be.
 [^14]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja, az 1402/2019. (VII. 5.) Korm. határozat 3. pontja, az 1597/2019. (X. 16.) Korm. határoat 2. pont a) alpontja és 3. pontja, az 1479/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pontja, a 2025/2020. (XII. 24.) Korm. határozat 3–5. pontja, az 1297/2021. (V. 20.) Korm. határozat 2., 3. és 6. pontja, az 1659/2021. (IX. 24.) Korm. határozat 4. és 6. pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja, az 1860/2016. (XII. 27.) Korm. határozat 1. pont a) alpontja és 2. pontja, az 1148/2017. (III. 20.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1157/2017. (III. 21.) Korm. határozat 1. és 3. pontja, az 1271/2017. (V. 29.) Korm. határozat 4. pontja, az 1620/2017. (IX. 5.) Korm. határozat 1. pont a) alpontja és a 2. pontja, a 2111/2017. (XII. 28.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.5. alpontja, az 1180/2018. (III. 28.) Korm. határozat 1. pontja és 2. pont 2.1–2.6. alpontja, az 1306/2018. (VII. 4.) Korm. határozat 1. pont a) alpontja és a 2. pont a)–b) pontja, az 1620/2018. (XI. 27.) Korm. határozat 2. pont a)–b) alpontja, az 1122/2019. (III. 13.) Korm. határozat 2. pontja és 3. pont a) alpontja, az 1402/2019. (VII. 5.) Korm. határozat 3. pontja, az 1597/2019. (X. 16.) Korm. határoat 2. pont a) alpontja és 3. pontja, az 1479/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pontja, a 2025/2020. (XII. 24.) Korm. határozat 3–5. pontja, az 1297/2021. (V. 20.) Korm. határozat 2., 3. és 6. pontja, az 1659/2021. (IX. 24.) Korm. határozat 4. és 6. pontja, az 1898/2021. (XII. 13.) Korm. határozat 1. pontja szerint módosított szöveg.
