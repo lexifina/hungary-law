@@ -1,4 +1,4 @@
-## 60. §[^179] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 240/2021. (V. 6.) Korm. rendelettel (a továbbiakban: Módr52.) megállapított 2. mellékletben foglalt táblázat 65. sorát a Módr52. hatálybalépésekor[^180] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 60. §[^180] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 240/2021. (V. 6.) Korm. rendelettel (a továbbiakban: Módr52.) megállapított 2. mellékletben foglalt táblázat 65. sorát a Módr52. hatálybalépésekor[^181] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^179]: A 60. § a 240/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be.
-[^180]: A hatálybalépés időpontja 2021. május 7.
+[^180]: A 60. § a 240/2021. (V. 6.) Korm. rendelet 1. §-a iktatta be.
+[^181]: A hatálybalépés időpontja 2021. május 7.
