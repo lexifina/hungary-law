@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-48-30-4
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-12-10 | 2019-48-30-41.1 | 48/2019. (XII. 11.) OGY határozat |
+| 2021-12-14 | 2019-48-30-41.2 | 38/2021. (XII. 14.) OGY határozat |
