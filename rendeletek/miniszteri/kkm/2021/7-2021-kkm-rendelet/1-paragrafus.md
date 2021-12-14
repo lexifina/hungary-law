@@ -34,18 +34,20 @@
 
 17. San Marino Köztársaság,
 
-18. Szerb Köztársaság,
+18. Seychelle Köztársaság,
 
-19. Szlovák Köztársaság,
+19. Szerb Köztársaság,
 
-20. Szlovén Köztársaság,
+20. Szlovák Köztársaság,
 
-21. Török Köztársaság,
+21. Szlovén Köztársaság,
 
-22. Ukrajna,
+22. Török Köztársaság,
 
-23. Üzbég Köztársaság,
+23. Ukrajna,
 
-24. Zöld-foki Köztársaság.
+24. Üzbég Köztársaság,
 
-[^1]: Az 1. § a 39/2121. (XI. 30.) KKM rendelet 1. §-ával megállapított szöveg.
+25. Zöld-foki Köztársaság.
+
+[^1]: Az 1. § a 41/2021. (XII. 13.) KKM rendelet 1. §-ával megállapított szöveg.
