@@ -1,4 +1,4 @@
-## 8. § Az MBFSZ állami bányászati, földtani és klímapolitikával összefüggő feladatai:
+## 8. §[^8] Az MBFSZ állami bányászati és földtani feladatai:
 
 1. a földtani erőforrásokkal történő gazdálkodás vonatkozásában
 
@@ -30,18 +30,12 @@ b) országos kútkataszter és hévízkút kataszter vezetése és a vízföldta
 
 6. a mélyfúrási magminta-gyűjtemény működtetése;
 
-7. kapcsolattartás és együttműködés a hazai és nemzetközi földtani, geofizikai, bányászati és klímapolitikai szervezetekkel;
+7.[^9] kapcsolattartás és együttműködés a hazai és nemzetközi földtani, geofizikai és bányászati szervezetekkel;
 
 8. közreműködés a Pince- és Partfalveszély-Elhárítási Szakértői Bizottság munkájában;
 
-9. az éghajlatváltozáshoz kapcsolódó feladatok:
+9.[^10]
 
-a) a hazai üvegházhatású gázok mérséklési törekvéseiben való közreműködés;
-
-b) a hazai alkalmazkodási törekvésekben való közreműködés;
-
-c) a nemzeti, megyei és települési klímavédelmi stratégiák, valamint a nemzeti megújuló energia stratégiák támogatása és az azokhoz kapcsolódó cselekvési tervekben való részvétel;
-
-d) az egyes gazdasági ágazatok jövőbeni kibocsátási pályáinak vizsgálatára szolgáló Nemzeti Üvegházgáz Adatbázis továbbfejlesztésében való közreműködés;
-
-e) a megújulóenergia-felhasználás és a klímavédelem összhangjának vizsgálata.
+[^8]: A 8. § nyitó szövegrésze a 702/2021. (XII. 14.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^9]: A 8. § 7. pontja a 702/2021. (XII. 14.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^10]: A 8. § 9. pontját a 702/2021. (XII. 14.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.

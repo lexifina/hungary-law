@@ -1,3 +1,3 @@
-## 16. §[^10]
+17. §[^19]
 
-[^10]: A 16. §-t a 80/2019. (IV. 15.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^19]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -20,6 +20,6 @@
 
 | 9. | Az eljárás egyéb vízi közlekedési létesítményt érint. | Az építmény nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a vízi közlekedési létesítmények működését. | IGEN | IGEN | NEM | IGEN | IGEN | NEM |
 
-4. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^15]
+4. melléklet a 161/2017. (VI. 28.) Korm. rendelethez[^23]
 
-[^15]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 608. §-a hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^23]: A 4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 608. §-a hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

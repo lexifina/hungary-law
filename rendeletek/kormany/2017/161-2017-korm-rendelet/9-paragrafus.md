@@ -1,4 +1,4 @@
-## 9. § Az MBFSZ állami földtani, geofizikai, valamint klímapolitikai alap- és alkalmazott kutatási feladatai:
+## 9. §[^11] Az MBFSZ állami földtani és geofizikai alap- és alkalmazott kutatási feladatai:
 
 1. a földtani erőforrásokkal történő gazdálkodás, és azok hasznosítását megalapozó tevékenységek végzése:
 
@@ -52,14 +52,13 @@ f) földrengés-veszélyeztetettségi területbesorolások aktualizálása és t
 
 5. az Európai Unió jogából és más nemzetközi együttműködésből következő, a földi erőterekkel, a földtani közeggel, valamint a felszín alatti vízzel kapcsolatos jogszabályok átültetéséhez, ezek végrehajtásához kapcsolódó kutatási feladatok végzése, azokban történő közreműködés;
 
-6. az éghajlatváltozással, az azt kiváltó folyamatokkal és hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és a klímaváltozás hazai hatásaihoz való alkalmazkodással kapcsolatos feladatok ellátása, a Nemzeti Alkalmazkodási Központ keretében részvétel a klímapolitikát szolgáló elemzések, térinformatikai vizsgálatok, stratégiák elkészítésében;
+6.[^12]
 
-7. az éghajlatváltozáshoz kapcsolódó feladatok:
+7.[^13]
 
-a) a hazai éghajlatváltozást kiváltó folyamatok kutatása, ideértve a természeti és antropogén okok feltárását,
+8.[^14]
 
-b) a hazai éghajlatváltozás természeti és társadalmi környezetre gyakorolt hatásainak kutatása,
-
-c) az éghajlatváltozási stratégiai tervezés tudományos hátterének biztosítása;
-
-8. a Nemzeti Alkalmazkodási Térinformatikai Rendszer (NATéR) működtetésével és fejlesztésével kapcsolatos kutatási feladatok ellátása.
+[^11]: A 9. § nyitó szövegrésze a 702/2021. (XII. 14.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^12]: A 9. § 6. pontját a 702/2021. (XII. 14.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^13]: A 9. § 7. pontját a 702/2021. (XII. 14.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
+[^14]: A 9. § 8. pontját a 702/2021. (XII. 14.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

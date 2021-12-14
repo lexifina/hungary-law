@@ -50,7 +50,7 @@ e) a geotermikus energia kinyerő létesítmények;
 
 15. egyes gázipari engedélyeseknek a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet szerinti műszaki-biztonsági szempontú minősítése;
 
-16.[^4] a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. § (3)–(5) bekezdésében és a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. §-ában meghatározott feladatok ellátása;
+16.[^5] a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. § (3)–(5) bekezdésében és a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. §-ában meghatározott feladatok ellátása;
 
 17. a bányászatról szóló törvény szerinti alábbi szolgáltatások bejelentésével kapcsolatos eljárás, valamint e tevékenységek folytatására jogosult személyek nyilvántartásának vezetése:
 
@@ -70,7 +70,7 @@ b) használaton kívüli bányászati célú mélyfúrásokra,
 
 c) robbantómesterekre és a robbantásvezetőkre
 
-## vonatkozó nyilvántartások vezetése;
+vonatkozó nyilvántartások vezetése;
 
 19. a bányászati hulladékok kezeléséről szóló miniszteri rendelet szerinti bezárt bányászati hulladékkezelő létesítmények nyilvántartása;
 
@@ -92,4 +92,4 @@ c) robbantómesterekre és a robbantásvezetőkre
 
 (4) Az MBFSZ a (2) bekezdés 25. pontban foglalt ellenőrzési feladatát a kormányhivatal bevonásával végzi. A kormányhivatal a koncessziós területekkel kapcsolatos határozatok egy példányát megküldi az MBFSZ-nek.
 
-[^4]: A 4. § (2) bekezdés 16. pontja a 116/2021. (III. 10.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés 16. pontja a 116/2021. (III. 10.) Korm. rendelet 33. §-a szerint módosított szöveg.
