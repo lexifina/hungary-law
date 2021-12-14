@@ -2,7 +2,7 @@
 
 1. melléklet a 94/2014. (III. 21.) Korm. rendelethez
 
-## Az alap téradatokra vonatkozó téradattémák
+Az alap téradatokra vonatkozó téradattémák
 
 1. Közigazgatási egységek
 

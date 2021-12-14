@@ -26,6 +26,6 @@ i) az egészséggel és életminőséggel kapcsolatos, valamint
 
 j) katasztrófavédelemmel kapcsolatos
 
-## tervezéshez.
+tervezéshez.
 
 (4) A NATéR üzemeltetője az e §-ban meghatározott célok elérése érdekében a környezet védelmének általános szabályairól szóló törvény rendelkezései szerinti lehívási szolgáltatás, a területfejlesztéssel és a területrendezéssel kapcsolatos információs rendszerről és a kötelező adatközlés szabályairól szóló kormányrendelet, valamint a 7. § (2) bekezdésében meghatározott megállapodások alapján – az ágazati jogszabályok rendelkezéseivel összhangban – az 1. és a 2. mellékletben meghatározott téradattémák szerint biztosított adatokat feldolgozza és az elvégzett vizsgálatainak és elemzéseinek eredményeiről egységes elektronikus információs rendszert üzemeltet.

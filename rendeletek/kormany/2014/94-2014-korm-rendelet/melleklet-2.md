@@ -1,6 +1,6 @@
 2. melléklet a 94/2014. (III. 21.) Korm. rendelethez
 
-## A tematikus téradatokra vonatkozó téradattémák
+A tematikus téradatokra vonatkozó téradattémák
 
 1. Statisztikai egységek a térinformatika vonatkozásában
 
