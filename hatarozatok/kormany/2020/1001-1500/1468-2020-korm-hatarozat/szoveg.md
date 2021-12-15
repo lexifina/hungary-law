@@ -6,7 +6,7 @@ a) a 2020. évben programfejlesztésre 3 600 000 000 forint, infrastrukturális 
 
 b) a 2021. évben programfejlesztésre 3 300 000 000 forint, infrastrukturális fejlesztésre 1 700 000 000 forint, összesen 5 000 000 000 forint,
 
-c)[^1] a 2022. évben programfejlesztésre 8 800 000 000 forint, infrastrukturális fejlesztésre 22 971 000 000 forint, összesen 31 771 000 000 forint,
+c)[^1] a 2022. évben programfejlesztésre 8 770 000 000 forint, infrastrukturális fejlesztésre 22 971 000 000 forint, összesen 31 741 000 000 forint,
 
 d)[^2] a 2023. évben programfejlesztésre 14 000 000 000 forint, infrastrukturális fejlesztésre 9 784 000 000 forint, összesen 23 784 000 000 forint
 
@@ -70,7 +70,7 @@ az Európa Kulturális Fővárosa 2023 Veszprém nyertes pályázati programja m
 
 Határidő: 2020. szeptember 15.
 
-[^1]: Az 1. pont c) alpontja az 1743/2021. (X. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: Az 1. pont c) alpontja az 1910/2021. (XII. 15.) Korm. határozat 2. pontjával megállapított szöveg.
 [^2]: Az 1. pont d) alpontja az 1743/2021. (X. 20.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: Az 1a. pontot az 1960/2020. (XII. 21.) Korm. határozat 2. pontja, nyitó szövegrésze az 1743/2021. (X. 20.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^4]: Az 1a. pont a) alpontja az 1320/2021. (V. 31.) Korm. határozat 3. pont a) alpontja, az 1743/2021. (X. 20.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.

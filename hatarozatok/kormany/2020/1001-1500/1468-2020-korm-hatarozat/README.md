@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1468-30
 | 2020-12-21 | 2020-1468-30-22.2 | 1960/2020. (XII. 21.) Korm. határozat |
 | 2021-05-31 | 2020-1468-30-22.3 | 1320/2021. (V. 31.) Korm. határozat |
 | 2021-10-20 | 2020-1468-30-22.4 | 1743/2021. (X. 20.) Korm. határozat |
+| 2021-12-15 | 2020-1468-30-22.5 | 1910/2021. (XII. 15.) Korm. határozat |
