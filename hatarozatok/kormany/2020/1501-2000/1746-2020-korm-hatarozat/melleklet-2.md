@@ -122,7 +122,7 @@
 
 | 61. | Újhartyán Város Önkormányzata útfejlesztési feladatainak támogatása | 40 000 000 | belterületi útfelújítás, szikkasztóárok-kialakítás |
 
-| 62. | Újlengyel Község Önkormányzata útfejlesztési feladatainak támogatása | 50 000 000 | belterületi útfelújítás |
+| 62. | Újlengyel Község Önkormányzata útfejlesztési feladatainak támogatása | 50 000 000 | útfelújítás |
 
 | 63. | Várpalota Város Önkormányzata közlekedésfejlesztési feladatainak támogatása | 700 000 000 | út- és járdafelújítás, csapadékvíz-elvezetés kiépítése, parkoló kialakítása |
 
@@ -131,6 +131,8 @@
 | 65. | Veszprém Megyei Jogú Város Önkormányzata kötelező feladatainak támogatása | 500 000 000 | állatmenhely létesítése támogatás nyújtásával |
 
 2. melléklet az 1746/2020. (XI. 11.) Korm. határozathoz
+
+0X07817_0
 
 | IX. Helyi önkormányzatok támogatásai XLVII. Gazdaságvédelmi Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
 

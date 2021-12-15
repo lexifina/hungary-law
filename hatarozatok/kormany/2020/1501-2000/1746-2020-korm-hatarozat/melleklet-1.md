@@ -30,4 +30,4 @@
 
 1. melléklet az 1746/2020. (XI. 11.) Korm. határozathoz[^1]
 
-[^1]: Az 1. melléklet az 1079/2021. (II. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1079/2021. (II. 27.) Korm. határozat 3. pontja, az 1914/2021. (XII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
