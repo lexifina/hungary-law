@@ -102,7 +102,7 @@
 
 | 46. | Romonya | Bölcsőde építése | Romonya Község Önkormányzata | 146 900 000 | belügyminiszter |
 
-| 47. | Sárvár | Sárvári gyógyfejlesztés előkészítése | Sárvár Város Önkormányzata | 605 000 000 | a miniszterelnök kabinetfőnöke, Magyar Turisztikai Ügynökség |
+| 47. |  |  |  |  |  |
 
 | 48. | Székesfehérvár | Ciszterci Szent István Gimnázium bővítése | Zirci Ciszterci Apátság | 1 670 000 000 | a miniszterelnök általános helyettese |
 
@@ -122,4 +122,4 @@
 
 | 56. | Zalaegerszeg | A Zalaréti Kastély Rendezvényközpont felújításának előkészítési munkálatai | Zalaegerszeg Megyei Jogú Város Önkormányzata | 114 640 000 | Miniszterelnökséget vezető miniszter |
 
-[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja, az 1881/2021. (XII. 7.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja, az 1881/2021. (XII. 7.) Korm. határozat 6. pontja, az 1914/2021. (XII. 15.) Korm. határozat 5. pontja szerint módosított szöveg.
