@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1625-30
 | --- | --- | --- |
 | 2021-09-03 | 2021-1625-30-22.1 | 1625/2021. (IX. 3.) Korm. határozat |
 | 2021-09-04 | 2021-1625-30-22.2 | 2010: CXXX. törvény |
+| 2021-12-15 | 2021-1625-30-22.3 | 1914/2021. (XII. 15.) Korm. határozat |
