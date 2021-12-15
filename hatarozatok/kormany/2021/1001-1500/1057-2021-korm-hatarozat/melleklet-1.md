@@ -40,6 +40,12 @@
 
 ## Határidő: a 3. pont b) alpontja szerinti forrásbiztosítást követően azonnal
 
+## c)[^1] a 3. pont b) alpontja szerinti költségvetési forrásból fel nem használt forrásösszeget a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 13. A Gazdaságélénkítő programok támogatása jogcímcsoportról a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 4. Gazdaság-újraindítási Foglalkoztatási Alap cím, 6. Start-munkaprogram alcím előirányzat javára szükséges visszautalni;
+
+## Felelős: belügyminiszter
+
+## Határidő: 2021. december 31.
+
 ## 5. felkéri a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara és a Magyar Kereskedelmi és Iparkamara vezetőit, hogy
 
 ## a) szervezzék meg és ösztönözzék a tőkeerős vállalkozások Gazdaságélénkítő és „Felzárkózó települések” programban történő szerepvállalását, a programban kijelölt településeken új munkahelyek teremtését termelésük kihelyezésével, vagy új telephelyek létesítésével;
@@ -47,3 +53,5 @@
 ## b) az a) pontban meghatározott feladat eredményeiről, a megtett intézkedésekről 2021. május 15-ig tájékoztassák a Kormányt.
 
 1. melléklet az 1057/2021. (II. 19.) Korm. határozathoz
+
+[^1]: A 4. pont c) alpontját az 1916/2021. (XII. 15.) Korm. határozat 2. pontja iktatta be.
