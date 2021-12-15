@@ -1,0 +1,5 @@
+8/G. §[^16] (1) A létesítménytámogatás keretében a sportlétesítmény által nyújtott szolgáltatásokkal kapcsolatban felmerülő működési költség – így különösen az igénybe vett szolgáltatások és a karbantartás költsége, a bérleti díj, a személyi, az anyag-, a kommunikációs, az energia- és az adminisztrációs költség – számolható el.
+
+(2) A létesítménytámogatás esetén az értékcsökkenés és a finanszírozási költségek olyan mértékben nem számolhatóak el, amilyen mértékben az értékcsökkenés, finanszírozás vagy az értékcsökkenéssel, finanszírozással érintett tárgyi eszközök, immateriális javak tekintetében a kedvezményezett beruházási támogatásban részesült.
+
+[^16]: A 8/G. §-t a 24/2021. (XII. 7.) NVTNM rendelet 3. §-a iktatta be.

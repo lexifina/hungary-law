@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-8-20-7P
 | --- | --- | --- |
 | 2021-06-29 | 2021-8-20-7P.1 | 8/2021. (VI. 28.) NVTNM rendelet |
 | 2021-06-30 | 2021-8-20-7P.2 | 2010: CXXX. törvény |
+| 2021-12-15 | 2021-8-20-7P.3 | 24/2021. (XII. 7.) NVTNM rendelet |
