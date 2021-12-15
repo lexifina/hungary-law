@@ -6,15 +6,15 @@
 
 | 2. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 31 100 000 | 2020. december 31. | Tiszaadony Község Önkormányzata | Tiszaadony Község, Rákóczi Ferenc utca, Kossuth Lajos utca, Jókai Mór utca, Árpád utca, Petőfi Sándor utca, Dózsa György utca | Tiszaadony Község Önkormányzata |
 
-| 3. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 31 100 000 | 2020. december 31. | Tiszaszalka Község Önkormányzata | Tiszaszalka Község, Petőfi Sándor utca, Béke utca, Arany János utca, Bartók Béla utca, Ady Endre utca | Tiszaszalka Község Önkormányzata |
+| 3. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 31 100 000 | 2020. december 31. | Tiszaszalka Község Önkormányzata | Tiszaszalka Község, Petőfi Sándor utca, Arany János utca, Ady Endre utca, Jókai Mór utca, Bajcsy-Zsilinszky utca, külterület (hrsz. 0124) | Tiszaszalka Község Önkormányzata |
 
-| 4. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 18 200 000 | 2020. december 31. | Tiszavid Község Önkormányzata | Tiszavid Község, József Attila utca, Szondi György utca, Petőfi Sándor utca, Jókai Mór utca | Tiszavid Község Önkormányzata |
+| 4. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 18 200 000 | 2020. december 31. | Tiszavid Község Önkormányzata | Jókai Mór utca, József Attila utca, Kossuth Lajos utca, Petőfi Sándor utca, Szabadság utca, Szondi György utca | Tiszavid Község Önkormányzata |
 
 | 5. | Csapadékvíz-gazdálkodást segítő létesítmények és záportározó rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 29 900 000 | 2020. december 31. | Vásárosnamény Város Önkormányzata | Vásárosnamény Város, Kazinczy Lajos út, Heltai Gáspár út | Vásárosnamény Város Önkormányzata |
 
 | 6. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 9 854 000 | 2020. december 31. | Garbolc Község Önkormányzata | Garbolc Község, Rákóczi utca, Kossuth utca, Szatmári utca | Garbolc Község Önkormányzata |
 
-| 7. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 29 400 000 | 2020. december 31. | Gyügye Község Önkormányzata | Gyügye Község, Petőfi utca, Fő utca | Gyügye Község Önkormányzata |
+| 7. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 29 400 000 | 2020. december 31. | Gyügye Község Önkormányzata | Gyügye Község, Fő utca | Gyügye Község Önkormányzata |
 
 | 8. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák és záportározó kiépítése | a), b), h), k), n), o), p) pont | 25 900 000 | 2020. december 31. | Kisszekeres Község Önkormányzata | Kisszekeres Község, Kossuth utca, Petőfi utca, Béke utca | Kisszekeres Község Önkormányzata |
 
@@ -34,9 +34,9 @@
 
 | 16. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 16 600 000 | 2020. december 31. | Szamosbecs Község Önkormányzata | Szamosbecs Község Kossuth Lajos utca, Dózsa György utca | Szamosbecs Község Önkormányzata |
 
-| 17. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 23 400 000 | 2020. december 31. | Szamosújlak Község Önkormányzata | Szamosújlak Község, Zrínyi utca, Petőfi utca, Kossuth utca | Szamosújlak Község Önkormányzata |
+| 17. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 23 400 000 | 2020. december 31. | Szamosújlak Község Önkormányzata | Szamosújlak Község, Petőfi utca, Kossuth utca | Szamosújlak Község Önkormányzata |
 
-| 18. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 28 200 000 | 2020. december 31. | Pátyod Község Önkormányzata | Pátyod Község, Petőfi Sándor út, Kossuth Lajos út | Pátyod Község Önkormányzata |
+| 18. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 28 200 000 | 2020. december 31. | Pátyod Község Önkormányzata | Pátyod Község, Dózsa György utca, Rákóczi Ferenc utca | Pátyod Község Önkormányzata |
 
 | 19. | Csapadékvíz-gazdálkodást segítő létesítmények rekonstrukciója, új csatornák kiépítése | a), b), h), k), n), o), p) pont | 16 600 000 | 2020. december 31. | Rápolt Község Önkormányzata | Rápolt Község, Rákóczi Ferenc utca, Ady Endre utca, Temető köz, Fő tér, Petőfi Sándor utca, Dózsa György utca | Rápolt Község Önkormányzata |
 

@@ -56,4 +56,4 @@
 
 1. melléklet az 1374/2019. (VI. 25.) Korm. határozathoz[^1]
 
-[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 2. pontja, az 1914/2021. (XII. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
