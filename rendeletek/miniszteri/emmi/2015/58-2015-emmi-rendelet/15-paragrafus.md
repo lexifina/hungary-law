@@ -1,3 +1,3 @@
-15. §[^43]
+15. §[^55]
 
-[^43]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

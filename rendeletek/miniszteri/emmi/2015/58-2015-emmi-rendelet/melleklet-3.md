@@ -6,7 +6,15 @@
 
 | 3. | 343628 |  | 3 Gyógyszertári tulajdoni hányad állami elővásárlása és értékesítése | A gyógyszertárak tulajdonosi szerkezete tekintetében új, a többségi gyógyszerészi tulajdon elősegítését támogató szabályozás szerint a gyógyszertári tulajdonhányad értékesítése esetén elővásárlási joga van a törvényben meghatározott gyógyszerészeknek és az államnak. Az előirányzat felhasználásának célja lehetővé tenni, hogy az állam indokolt esetben élni tudjon elővásárlási jogával, ha azt a rangsorban előtte álló gyógyszerészek nem tennék meg. | egyéni vállalkozó, egyéni cég, egyéni vállalkozónak nem minősülő természetes személy, gazdasági társaság | – | – | egyösszegű kifizetéssel részletekben történő kifizetéssel | – | – | egészség- biztosítási alap előirányzatainak kezelő szerve | – | – |
 
-3. melléklet az 58/2015. (XII. 30.) EMMI rendelethez[^46]
+| 4. | 349395 |  | 5 Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
+
+| 5. | 377028 |  |  | 4 Az Emberi Erőforrások Minisztériuma tulajdonosi joggyakorlásával kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |
+
+| 6. | 377039 |  |  |  | 1 Az Emberi Erőforrások Minisztériuma rábízott vagyonába tartozó társaságok tőkeemelése, pótbefizetése | Az előirányzat felhasználásának célja az Emberi Erőforrások Minisztériuma tulajdonosi joggyakorlásába tartozó gazdasági társaságok javára történő tőkeemelés és pótbefizetés pénzügyi fedezetének biztosítása. | az Emberi Erőforrások Minisztériuma tulajdonosi joggyakorlása alá tartozó gazdasági társaságok | – | – | tőkeemelés, pótbefizetés jogcímen | pótbefizetés esetén szerződés szerint | – | – | – | – |
+
+| 7. | 393073 |  |  |  | 2 Az Emberi Erőforrások Minisztériuma rábízott vagyonába tartozó társaságok támogatása | Az előirányzat felhasználásának célja az Emberi Erőforrások Minisztériuma tulajdonosi joggyakorlásába tartozó gazdasági társaságok részére tulajdonosi támogatás biztosítása. | az Emberi Erőforrások Minisztériuma tulajdonosi joggyakorlás alá tartozó gazdasági társaságok | az államháztartásról szóló 2011. évi CXCV. törvény 45. § (2) bekezdése alapján, az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatási szerződésben vagy támogatói okiratban foglaltaknak megfelelően | előleg biztosítható | egy összegben vagy részletekben, teljesítés- vagy időarányosan | a kötelezettségvál- lalási dokumentumban meghatározottak szerint | az Ávr. szerinti bármely biztosíték | – | – | – |
+
+3. melléklet az 58/2015. (XII. 30.) EMMI rendelethez[^58]
 
 A XLVII. Gazdaságvédelmi Alap fejezetben az emberi erőforrások minisztere hatáskörébe tartozó fejezeti kezelésű előirányzatok és azok feladatterve
 
@@ -30,4 +38,4 @@ A XLVII. Gazdaságvédelmi Alap fejezetben az emberi erőforrások minisztere ha
 
 | 9. | 374373 |  |  | 6 Köznevelési intézmények felújítása, beruházása | Az Nkt. 7. § (1) bekezdés a)–k) pontjában felsorolt köznevelési intézmények felújítási, valamint beruházási feladatainak támogatása. | helyi önkormányzat, helyi önkormányzat által fenntartott nevelési-oktatási intézmény, fejezet irányítása alá tartozó költségvetési szerv, közalapítvány, alapítvány, egyesület, egyházi jogi személy, egyházi jogi személy által fenntartott nevelési-oktatási intézmény, nemzetiségi önkormányzatok, nemzetiségi önkormányzat által fenntartott nevelési-oktatási intézmény | kérelem alapján pályázati úton | előleg biztosítható | egyösszegű kifizetéssel részletekben történő kifizetéssel | – | felhatalmazó nyilatkozat | – | – | – |
 
-[^46]: A 3. mellékletet a 12/2021. (III. 17.) EMMI rendelet 6. § (3) bekezdése iktatta be.
+[^58]: A 3. mellékletet a 12/2021. (III. 17.) EMMI rendelet 6. § (3) bekezdése iktatta be.

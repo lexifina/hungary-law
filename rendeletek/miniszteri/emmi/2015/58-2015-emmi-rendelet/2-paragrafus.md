@@ -30,23 +30,24 @@
 
 10a.[^8] nehezen megvalósítható/terjeszthető audiovizuális alkotások: a 651/2014/EU bizottsági rendelet 2. cikk 140. pontja szerinti alkotások,
 
-11. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
+11.[^9] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdése szerinti vállalkozás,
 
-11a.[^9] OECD Fejlesztési Támogatási Bizottságának (DAC) listája: a 651/2014/EU bizottsági rendelet 2. cikk 141. pontja szerinti lista,
+11a.[^10] OECD Fejlesztési Támogatási Bizottságának (DAC) listája: a 651/2014/EU bizottsági rendelet 2. cikk 141. pontja szerinti lista,
 
-11b.[^10] személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás,
+11b.[^11] személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás,
 
 12. támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
 
 13. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
-13a.[^11] tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
+13a.[^12] tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
 [^4]: A 2. § 3a. pontját a 24/2016. (VIII. 30.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^5]: A 2. § 4a. pontját a 24/2016. (VIII. 30.) EMMI rendelet 1. § (2) bekezdése iktatta be.
 [^6]: A 2. § 5a. pontját a 24/2016. (VIII. 30.) EMMI rendelet 1. § (3) bekezdése iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § 5b. pontját a 48/2018. (XII. 27.) EMMI rendelet 1. § (2) bekezdése iktatta be.
 [^8]: A 2. § 10a. pontját a 48/2018. (XII. 27.) EMMI rendelet 1. § (3) bekezdése iktatta be.
-[^9]: A 2. § 11a. pontját a 24/2016. (VIII. 30.) EMMI rendelet 1. § (4) bekezdése iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^10]: A 2. § 11b. pontját a 48/2018. (XII. 27.) EMMI rendelet 1. § (5) bekezdése iktatta be.
-[^11]: A 2. § 13a. pontját a 24/2016. (VIII. 30.) EMMI rendelet 1. § (5) bekezdése iktatta be.
+[^9]: A 2. § 11. pontja az 52/2021. (XII. 14.) EMMI rendelet 8. § 1. pontja szerint módosított szöveg.
+[^10]: A 2. § 11a. pontját a 24/2016. (VIII. 30.) EMMI rendelet 1. § (4) bekezdése iktatta be, szövege a 48/2018. (XII. 27.) EMMI rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^11]: A 2. § 11b. pontját a 48/2018. (XII. 27.) EMMI rendelet 1. § (5) bekezdése iktatta be.
+[^12]: A 2. § 13a. pontját a 24/2016. (VIII. 30.) EMMI rendelet 1. § (5) bekezdése iktatta be.
