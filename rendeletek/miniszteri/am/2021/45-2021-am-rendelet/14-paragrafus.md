@@ -1,0 +1,1 @@
+## „(5) Engedélyokiratban szereplő előírás hiányában az (1), (3) és (4) bekezdésben foglalt esetben olyan, kizárólag e tevékenységek során használt egyéni védőeszközt kell viselni, amely megakadályozza, hogy a növényvédő szerrel a tevékenységet végző személy közvetlenül érintkezzen.”
