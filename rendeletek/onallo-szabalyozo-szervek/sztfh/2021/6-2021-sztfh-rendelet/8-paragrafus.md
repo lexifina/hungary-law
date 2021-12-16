@@ -8,6 +8,8 @@
 
 (5) A Kar Hivatali szerve a véleményét a pályázat tartalma és mellékletei, a pályázó személyes meghallgatása, a kari nyilvántartás adatai és a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítvány adattartalma alapján alakítja ki.
 
-(6) A Kar Hivatali szerve a pályázati határidő leteltétől számított hatvan napon belül a pályázatokat elbírálja, a pályázókról kialakított véleményét kinevezési javaslatba foglalja, és a kinevezési javaslatot a mellékleteivel együtt felterjeszti a Hatóság elnökéhez.
+(6)[^1] A Kar Hivatali szerve a pályázati határidő leteltétől számított hatvan – amennyiben a pályázati határidő leteltének napján veszélyhelyzet áll fenn, a pályázati határidő leteltétől számított százhúsz – napon belül a pályázatokat elbírálja, a pályázókról kialakított véleményét kinevezési javaslatba foglalja, és a kinevezési javaslatot annak mellékleteivel együtt felterjeszti a Hatóság elnökéhez.
 
 (7) A pályázat elbírálása során – ide nem értve a Vht. 233. § (2) bekezdésében foglalt kizáró okokat – csak a pályázat benyújtásakor már fennálló tények és adatok értékelhetőek.
+
+[^1]: A 8. § (6) bekezdése a 21/2021. (XII. 15.) SZTFH rendelet 1. §-ával megállapított szöveg.
