@@ -1,4 +1,4 @@
-67. §[^404] (1) A program vonatkozó prioritása keretén belül
+67. §[^405] (1) A program vonatkozó prioritása keretén belül
 
 a) a felhívás keretében fel nem használt vagy
 
@@ -26,4 +26,4 @@ e) a támogatási kérelmek benyújtása és elbírálása során a monitoring �
 
 (3) A (2) bekezdés szerinti felhívásban biztosítéknyújtási kötelezettség nem írható elő.
 
-[^404]: A 67. § a 153/2019. (VI. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^405]: A 67. § a 153/2019. (VI. 26.) Korm. rendelet 9. §-ával megállapított szöveg.
