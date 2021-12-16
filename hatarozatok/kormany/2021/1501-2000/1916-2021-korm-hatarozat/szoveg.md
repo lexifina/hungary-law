@@ -8,14 +8,6 @@ Felelős: belügyminiszter
 
 Határidő: azonnal
 
-2. A Magyarország egyes területei közötti gazdasági egyenlőtlenség csökkentése érdekében szükséges fejlesztési program, továbbá a „Felzárkózó települések” hosszú távú programjának kiterjesztéséről szóló 1057/2021. (II. 19.) Korm. határozat 4. pontja a következő c) alponttal egészül ki:
+2.[^1]
 
-(A Kormány
-
-felhívja a belügyminisztert, hogy)
-
-„c) a 3. pont b) alpontja szerinti költségvetési forrásból fel nem használt forrásösszeget a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 13. A Gazdaságélénkítő programok támogatása jogcímcsoportról a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 4. Gazdaság-újraindítási Foglalkoztatási Alap cím, 6. Start-munkaprogram alcím előirányzat javára szükséges visszautalni;
-
-Felelős: belügyminiszter
-
-Határidő: 2021. december 31.”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
