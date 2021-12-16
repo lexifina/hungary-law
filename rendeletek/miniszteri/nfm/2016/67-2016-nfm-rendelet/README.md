@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-67-20-2
 | 2021-04-01 | 2016-67-20-2W.21 | 14/2021. (III. 31.) ITM rendelet |
 | 2021-07-01 | 2016-67-20-2W.22 | 30/2021. (VI. 30.) ITM rendelet |
 | 2021-10-01 | 2016-67-20-2W.23 | 48/2021. (IX. 30.) ITM rendelet |
+| 2021-12-16 | 2016-67-20-2W.24 | 59/2021. (XII. 15.) ITM rendelet |
