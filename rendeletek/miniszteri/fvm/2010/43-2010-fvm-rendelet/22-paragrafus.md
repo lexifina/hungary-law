@@ -1,60 +1,59 @@
 ## Növényvédő szer felhasználása
 
-22. § (1)[^71] A felhasználási tevékenységet folytató felelőssége kiterjed a növényvédő szerek jogszabálynak megfelelő vásárlására, szállítására, tárolására és kijuttatására vonatkozó tájékoztatásra, a növényvédő szerek kijuttatására, a keletkezett hulladék előírásszerű kezelésére, a növényvédő szer címkeszövegében megfogalmazott előírások betartására, valamint az ezekkel összefüggő egyéb tevékenységekre. Az ebből származó kötelezettség és felelősség csak megfelelő engedéllyel rendelkező személyre ruházható át.
+22. § (1)[^77] A felhasználási tevékenységet folytató felelőssége kiterjed a növényvédő szerek jogszabálynak megfelelő vásárlására, szállítására, tárolására és kijuttatására vonatkozó tájékoztatásra, a növényvédő szerek kijuttatására, a keletkezett hulladék előírásszerű kezelésére, a növényvédő szer címkeszövegében megfogalmazott előírások betartására, valamint az ezekkel összefüggő egyéb tevékenységekre. Az ebből származó kötelezettség és felelősség csak megfelelő engedéllyel rendelkező személyre ruházható át.
 
-(2)[^72] A 19. § (1a) bekezdése szerinti adattartalmú növényorvosi vény kiállításával a szakirányítónak az (1) bekezdésben meghatározottak szerinti felelőssége keletkezik, amely kiterjed – a kiürült és szabályszerűen megtisztított csomagolóeszköz kezelésén kívül – valamennyi, a növényorvosi vényen, valamint a növényvédelmi szolgáltatásra irányuló szerződésben megjelölt növényvédelmi tevékenységre. Nem felel a szakirányító a felhasználási tevékenységet folytató személy – kivéve, ha az a szakirányító munkavállalója – azon tevékenységéért és annak következményeiért, amelynek során megsérti a vonatkozó jogszabályi rendelkezéseket, eltér a növényvédő szer címkeszövegében, a növényorvosi vényen, valamint a növényvédelmi szolgáltatásra irányuló szerződésben megfogalmazott előírásoktól.
+(2)[^78] A 19. § (1a) bekezdése szerinti adattartalmú növényorvosi vény kiállításával a szakirányítónak az (1) bekezdésben meghatározottak szerinti felelőssége keletkezik, amely kiterjed – a kiürült és szabályszerűen megtisztított csomagolóeszköz kezelésén kívül – valamennyi, a növényorvosi vényen, valamint a növényvédelmi szolgáltatásra irányuló szerződésben megjelölt növényvédelmi tevékenységre. Nem felel a szakirányító a felhasználási tevékenységet folytató személy – kivéve, ha az a szakirányító munkavállalója – azon tevékenységéért és annak következményeiért, amelynek során megsérti a vonatkozó jogszabályi rendelkezéseket, eltér a növényvédő szer címkeszövegében, a növényorvosi vényen, valamint a növényvédelmi szolgáltatásra irányuló szerződésben megfogalmazott előírásoktól.
 
-(3)[^73] A növényorvosi vényt mint szigorú számadású, egyszeri vásárlásra jogosító bizonylatot a Növényorvosi Kamara adja ki.
+(3)[^79] A növényorvosi vényt mint szigorú számadású, egyszeri vásárlásra jogosító bizonylatot a Növényorvosi Kamara adja ki.
 
-(4)[^74] A növényorvosi vény elektronikus úton is kiállítható, amennyiben a szakirányító a Növényorvosi Kamara által erre a célra kialakított, megfelelő biztonsági elemekkel ellátott informatikai rendszert működtet.
+(4)[^80] A növényorvosi vény elektronikus úton is kiállítható, amennyiben a szakirányító a Növényorvosi Kamara által erre a célra kialakított, megfelelő biztonsági elemekkel ellátott informatikai rendszerét használja.
 
-(4a)[^75] A Növényorvosi Kamara által működtetett elektronikus vény kiállítására szolgáló informatikai rendszerhez a Növényorvosi Kamara közvetlen és folyamatos hozzáférést biztosít a NÉBIH, és a megyei kormányhivatalok számára.
+(4a)[^81] A Növényorvosi Kamara által működtetett elektronikus vény kiállítására szolgáló informatikai rendszerhez a Növényorvosi Kamara közvetlen és folyamatos hozzáférést biztosít a NÉBIH, és a megyei kormányhivatalok számára.
 
-(5)[^76]
+(5)[^82] A termelő az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló miniszteri rendelet szerinti, adott évi egységes kérelem benyújtására rendelkezésre álló határidőn belül, az egységes kérelem benyújtására szolgáló elektronikus felületen nyilatkozik az egységes kérelemben bejelentett növényvédelmi munkavégzéssel érintett mezőgazdasági területei tekintetében a vele szerződésben álló, a terület növényvédelmi szakirányításáért felelős növényorvos nevéről, kamarai azonosítójáról és FELIR-azonosítójáról. A nyilatkozat nem része az egységes kérelemnek, és megtétele az egységes kérelem benyújtására joghatással nem bír.
 
-(5a)[^77] A növényvédelmi munkavégzésre irányuló szerződésekről szóló bejelentés tartalmazza:
+(5a)[^83] Az (5) bekezdés szerinti nyilatkozattétel lehetőségének biztosítása érdekében a Magyar Államkincstár a NÉBIH adatfeldolgozójaként az egységes kérelem felületén kiválasztható lista formájában elérhetővé teszi a NÉBIH nyilvántartásában szereplő növényorvosok nevét, lakcímét, kamarai azonosítóját és FELIR-azonosítóját.
 
-a) a növényvédelmi szolgáltatási tevékenységet végző növényorvosi kamarai regisztrációs számát,
+(5b)[^84] A Magyar Államkincstár évente egy alkalommal az (5) bekezdésben foglalt határidőt követő 15 napon belül átadja a NÉBIH részére a termelő által az (5) bekezdés alapján tett nyilatkozatban megadott, valamint az alábbi adatokat:
 
-b)[^78] a növényvédelmi munkavégzéssel érintett területek adatait (település, terület nagysága),
+a) a nyilatkozatot tevő ügyfél neve és ügyfél-azonosítója;
 
-c) a növényvédelmi munkavégzéssel érintett kultúrák felsorolását,
+b) a termelővel szerződésben álló, a terület növényvédelmi szakirányításáért felelős növényorvos neve és FELIR-azonosítója;
 
-d) a szerződés kötésének és – amennyiben a felek arról megállapodtak – megszűnésének idejét.
+c) a növényvédelmi munkavégzéssel érintett területek adatai (település, terület nagysága); valamint
 
-(5b)[^79] A szerződés megszűnését, valamint azon módosításait, amelyek az (5a) bekezdés szerinti adattartalmat érintik, 15 napon belül kell bejelenteni a megyei kormányhivatalnak.
+d) a növényvédelmi munkavégzéssel érintett kultúrák.
 
-(5c)[^80] Az a személy, aki a növényvédő szert nem Magyarországon kívánja felhasználni, nem kell növényvédelmi szolgáltatás nyújtására irányuló írásbeli szerződéssel rendelkeznie. Ebben az esetben a növényorvosi vényen fel kell tüntetni, hogy a növényvédő szer Magyarországon nem használható fel, továbbá a növényorvosi vényt kiállító szakirányító felelőssége – a (2) bekezdésben foglaltaktól eltérően – a vásárlásra, szállításra terjed ki.
+(5c)[^85] Annak a személynek, aki a növényvédő szert nem Magyarországon kívánja felhasználni, nem kell növényvédelmi szolgáltatás nyújtására irányuló írásbeli szerződéssel rendelkeznie. Ebben az esetben a növényorvosi vényen fel kell tüntetni, hogy a növényvédő szer Magyarországon nem használható fel, továbbá a növényorvosi vényt kiállító szakirányító felelőssége – a (2) bekezdésben foglaltaktól eltérően – a vásárlásra, valamint a Magyarország területén történő szállításra terjed ki.
 
-(6)[^81] Az (5) bekezdésben foglalt szerződés időbeli hatálya – kivéve, ha annak tárgya közterületen végzett növényvédelmi kezelés – nem lehet rövidebb egy vegetációs időszaknál, amely az elővetemény betakarításától a főnövény betakarításáig tart.
+(6)[^86] Az (5) bekezdésben foglalt szerződés időbeli hatálya – kivéve, ha annak tárgya közterületen végzett növényvédelmi kezelés – nem lehet rövidebb egy vegetációs időszaknál, amely az elővetemény betakarításától a főnövény betakarításáig tart.
 
-(7)[^82] A növényvédelmi szolgáltatás igénybevételével érintett területre egyidejűleg csak egy szerződés lehet hatályban.
+(7)[^87] A növényvédelmi szolgáltatás igénybevételével érintett területre egyidejűleg csak egy szerződés lehet hatályban.
 
-(8)[^83] A növényorvosi vény kizárólag az (5) bekezdésben foglalt szerződés hatályának időtartama alatt használható fel, a növényorvosi vény kiállításától számított 30 napon belül.
+(8)[^88] A növényorvosi vény kizárólag az (5) bekezdésben foglalt szerződés hatályának időtartama alatt használható fel, a növényorvosi vény kiállításától számított 30 napon belül.
 
-(9)[^84] Helyettesítő növényvédő szer kizárólag akkor adható ki, ha a szakirányító ezt a növényorvosi vényen feltüntette. Egy növényorvosi vényen maximum három helyettesítő növényvédő szer tüntethető fel.
+(9)[^89] Helyettesítő növényvédő szer akkor adható ki, ha a szakirányító ehhez a növényorvosi vényen hozzájárult.
 
-(10)[^85] Gázmesteri képesítéssel rendelkező személy külön engedély nélkül, a hatályos gázmesteri képesítés (igazolvány) bemutatásával vásárolhat és felhasználhat olyan növényvédő szert, amely engedélyokirata alapján terményraktár és betárolt vagy betárolásra szánt termény kezelésére szolgál, vagy felhasználása gázmesteri képesítéshez kötött.
+(10)[^90] Gázmesteri képesítéssel rendelkező személy külön engedély nélkül, a hatályos gázmesteri képesítés (igazolvány) bemutatásával vásárolhat és felhasználhat olyan növényvédő szert, amely engedélyokirata alapján terményraktár és betárolt vagy betárolásra szánt termény kezelésére szolgál, vagy felhasználása gázmesteri képesítéshez kötött.
 
-(11)[^86] Növényvédő szer felhasználása során elkövetett jogszabálysértés esetén, amennyiben a NÉBIH a kockázatbecslése során olyan elfogadhatatlan kockázatot állapít meg az ember, az állat egészségére vagy a környezetre vonatkozóan, amely nem kezelhető kockázatcsökkentő intézkedésekkel,
+(11)[^91] Növényvédő szer felhasználása során elkövetett jogszabálysértés esetén, amennyiben a NÉBIH a kockázatbecslése során olyan elfogadhatatlan kockázatot állapít meg az ember, az állat egészségére vagy a környezetre vonatkozóan, amely nem kezelhető kockázatcsökkentő intézkedésekkel,
 
 a) a kifogásolható növényi kultúrát,
 
 b) az álló kultúra esetén az azévi termést
 
-[^71]: A 22. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^72]: A 22. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^73]: A 22. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított szöveg.
-[^74]: A 22. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított szöveg.
-[^75]: A 22. § (4a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (2) bekezdése iktatta be, szövege a 46/2020. (IX. 23.) AM rendelet 19. § e) pontja szerint módosított szöveg.
-[^76]: A 22. § (5) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 35/2019. (VII. 15.) AM rendelet 22. § c) pontja.
-[^77]: A 22. § (5a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be.
-[^78]: A 22. § (5a) bekezdés b) pontja a 49/2019. (X. 22.) AM rendelet 7. §-ával megállapított szöveg.
-[^79]: A 22. § (5b) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 46/2020. (IX. 23.) AM rendelet 19. § b) pontja szerint módosított szöveg.
-[^80]: A 22. § (5c) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be.
-[^81]: A 22. § (6) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (4) bekezdésével megállapított szöveg.
-[^82]: A 22. § (7) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
-[^83]: A 22. § (8) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
-[^84]: A 22. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
-[^85]: A 22. § (10) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^86]: A 22. § (11) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (6) bekezdésével megállapított szöveg.
+[^77]: A 22. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^78]: A 22. § (2) bekezdése a 35/2019. (VII. 15.) AM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^79]: A 22. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított szöveg.
+[^80]: A 22. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 7. §-ával megállapított, a 45/2021. (XII. 1.) AM rendelet 17. § i) pontja szerint módosított szöveg.
+[^81]: A 22. § (4a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (2) bekezdése iktatta be, szövege a 46/2020. (IX. 23.) AM rendelet 19. § e) pontja szerint módosított szöveg.
+[^82]: A 22. § (5) bekezdését újonnan a 45/2021. (XII. 1.) AM rendelet 8. § (1) bekezdése iktatta be.
+[^83]: A 22. § (5a) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^84]: A 22. § (5b) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^85]: A 22. § (5c) bekezdését a 35/2019. (VII. 15.) AM rendelet 8. § (3) bekezdése iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^86]: A 22. § (6) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^87]: A 22. § (7) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
+[^88]: A 22. § (8) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be.
+[^89]: A 22. § (9) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 45/2021. (XII. 1.) AM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^90]: A 22. § (10) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^91]: A 22. § (11) bekezdését a 84/2015. (XII. 17.) FM rendelet 7. §-a iktatta be, szövege a 35/2019. (VII. 15.) AM rendelet 8. § (6) bekezdésével megállapított szöveg.

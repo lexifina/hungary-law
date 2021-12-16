@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-43-20-8
 | 2019-10-27 | 2010-43-20-82.18 | 49/2019. (X. 22.) AM rendelet |
 | 2020-09-28 | 2010-43-20-82.19 | 70/2013. (VII. 31.) VM rendelet |
 | 2021-02-24 | 2010-43-20-82.20 | 4/2021. (II. 23.) AM rendelet |
+| 2021-12-16 | 2010-43-20-82.21 | 45/2021. (XII. 1.) AM rendelet |

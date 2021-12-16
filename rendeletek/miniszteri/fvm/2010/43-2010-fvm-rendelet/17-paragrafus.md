@@ -6,12 +6,15 @@ a) egyetemi szintű képzésben, nappali tagozaton okleveles növényorvosi, nö
 
 b) az egyetemi szintű szakirányú továbbképzésben okleveles agrármérnök, okleveles kertészmérnök, illetve különbözeti vizsgát tett okleveles biológus, okleveles biomérnök, okleveles erdőmérnök és egyéb természettudományi egyetemi végzettségű személy által legalább 24 konzultáció hetes képzésen szerzett okleveles növényorvosi szakmérnök vagy okleveles növényvédelmi szakmérnöki végzettség, amely képesítési követelményei az a) pontnak megfelelnek,
 
-c)[^44] az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által az a) és b) pontban foglalt képesítésekkel egyenértékűnek elfogadott végzettség.
+c)[^46] az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter) által az a) és b) pontban foglalt képesítésekkel egyenértékűnek elfogadott végzettség.
 
-(3)[^45] E rendelet alkalmazásában növényorvosnak kell tekinteni a növényorvosi, növényvédelmi szakmérnöki, erdészeti növényvédelmi szakmérnöki, agrárkémikus agrármérnöki, növényvédelmi szaküzemmérnöki, növényvédelmi üzemmérnöki, növényvédelmi és talajerő-gazdálkodási szaküzemmérnöki, növényvédelmi és talajerő-gazdálkodási üzemmérnöki diplomát szerzőt, valamint a növényvédelmi szakirányú záróvizsgát tett agrármérnököt, kertészmérnököt, továbbá a növényvédelmi témában szerzett egyetemi doktori vagy magasabb fokozattal rendelkezőt, amennyiben a rendelet hatálybalépése előtt rendelkezett I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel.
+d)[^47] a külföldi felsőoktatási intézményben szerzett, növényvédő szerek forgalmazásával, illetve felhasználásával kapcsolatos szakképzettség, illetve tudományos fokozat, amennyiben a képzettséget tanúsító bizonyítványt, illetve oklevelet a külföldi bizonyítványok és oklevelek elismeréséről szóló törvény szerint elismerték vagy honosították.
 
-(4)[^46] A növényorvos I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedélyre jogosult, és a növényvédő szer forgalmi kategóriájától függetlenül jogosult bármely, e rendeletben meghatározott tevékenység folytatására.
+(3)[^48] E rendelet alkalmazásában növényorvosnak kell tekinteni a növényorvosi, növényvédelmi szakmérnöki, erdészeti növényvédelmi szakmérnöki, agrárkémikus agrármérnöki, növényvédelmi szaküzemmérnöki, növényvédelmi üzemmérnöki, növényvédelmi és talajerő-gazdálkodási szaküzemmérnöki, növényvédelmi és talajerő-gazdálkodási üzemmérnöki diplomát szerzőt, valamint a növényvédelmi szakirányú záróvizsgát tett agrármérnököt, kertészmérnököt, továbbá a növényvédelmi témában szerzett egyetemi doktori vagy magasabb fokozattal rendelkezőt, amennyiben a rendelet hatálybalépése előtt rendelkezett I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedéllyel.
 
-[^44]: A 17. § (2) bekezdés c) pontja a 84/2015. (XII. 17.) FM rendelet 14. § 10. pontja szerint módosított szöveg.
-[^45]: A 17. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 11. pontja szerint módosított szöveg.
-[^46]: A 17. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 12. pontja, a 35/2019. (VII. 15.) AM rendelet 21. § f) pontja szerint módosított szöveg.
+(4)[^49] A növényorvos I. forgalmi kategóriájú növényvédő szer forgalmazási, vásárlási és felhasználási engedélyre jogosult, és a növényvédő szer forgalmi kategóriájától függetlenül jogosult bármely, e rendeletben meghatározott tevékenység folytatására.
+
+[^46]: A 17. § (2) bekezdés c) pontja a 84/2015. (XII. 17.) FM rendelet 14. § 10. pontja szerint módosított szöveg.
+[^47]: A 17. § (2) bekezdés d) pontját a 45/2021. (XII. 1.) AM rendelet 6. §-a iktatta be.
+[^48]: A 17. § (3) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 11. pontja szerint módosított szöveg.
+[^49]: A 17. § (4) bekezdése a 84/2015. (XII. 17.) FM rendelet 14. § 12. pontja, a 35/2019. (VII. 15.) AM rendelet 21. § f) pontja szerint módosított szöveg.

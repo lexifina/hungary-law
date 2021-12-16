@@ -1,9 +1,13 @@
-38. § (1)[^131] A munkavégzése során növényvédő szerrel közvetlen vagy közvetett kapcsolatba kerülő dolgozó – ideértve a tömény növényvédő szerrel dolgozó előkészítőt és a felhasználásra kész permetlé vagy kész kiszerelésű készítmény kijuttatóját is – az adott növényvédő szer engedélyokiratában előírt egyéni védőeszközöket köteles viselni. Az engedélyokiratban foglalt további előírás hiányában a növényvédő szer kijuttatását végző személynek munkaruhaként legalább olyan hosszú ujjú felső ruházatot és hosszú szárú nadrágot, zárt cipőt, por és fröccsenés ellen védő szemüveget,, illetve megfelelő minőségű védőkesztyűt kell viselnie, amelyet kizárólag permetezések alkalmával használ.
+38. § (1)[^146] Növényvédelmi munkavégzés során – ideértve a tömény növényvédő szer előkészítését és a felhasználásra kész permetlé vagy kész kiszerelésű készítmény kijuttatását is – az adott növényvédő szer engedélyokiratában foglalt egyéni védőeszköz viselése kötelező.
 
 (2) A növényvédelmi munkavégzéshez szükséges védőeszközöket a munkáltató, ennek hiányában a felhasználó köteles biztosítani, akinek gondoskodnia kell a védőeszközök cseréjéről, elkülönített tisztításáról, megfelelő műszaki állapotban való tartásáról is.
 
-(3) Növényvédő szerrel kezelt területre belépni, illetve ott munkát végezni a növényvédő szer teljes száradása, illetve a munkaegészségügyi várakozási idő lejárta előtt kizárólag az alkalmazott növényvédő szerhez előírt védőeszközben szabad.
+(3)[^147] Növényvédő szerrel kezelt területre belépni, illetve ott munkát végezni a növényvédő szer teljes száradása, illetve a munkaegészségügyi várakozási idő lejárta előtt kizárólag az alkalmazott növényvédő szerhez előírt egyéni védőeszközben szabad.
 
 (4) A növényvédő szerrel szennyezett gépek, illetve szóróberendezések javítása, tisztítása során a növényvédő szer engedélyokiratában előírt egyéni védőeszközt kell viselni.
 
-[^131]: A 38. § (1) bekezdése a 35/2019. (VII. 15.) AM rendelet 17. §-ával megállapított, a 49/2019. (X. 22.) AM rendelet 11. § c) pontja szerint módosított szöveg.
+(5)[^148] Engedélyokiratban szereplő előírás hiányában az (1), (3) és (4) bekezdésben foglalt esetben olyan, kizárólag e tevékenységek során használt egyéni védőeszközt kell viselni, amely megakadályozza, hogy a növényvédő szerrel a tevékenységet végző személy közvetlenül érintkezzen.
+
+[^146]: A 38. § (1) bekezdése a 45/2021. (XII. 1.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^147]: A 38. § (3) bekezdése a 45/2021. (XII. 1.) AM rendelet 17. § p) pontja szerint módosított szöveg.
+[^148]: A 38. § (5) bekezdését a 45/2021. (XII. 1.) AM rendelet 13. § (2) bekezdése iktatta be.
