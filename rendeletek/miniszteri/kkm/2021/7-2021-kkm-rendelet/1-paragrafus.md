@@ -44,10 +44,12 @@
 
 22. Török Köztársaság,
 
-23. Ukrajna,
+23. Tunéziai Köztársaság,
 
-24. Üzbég Köztársaság,
+24. Ukrajna,
 
-25. Zöld-foki Köztársaság.
+25. Üzbég Köztársaság,
 
-[^1]: Az 1. § a 41/2021. (XII. 13.) KKM rendelet 1. §-ával megállapított szöveg.
+26. Zöld-foki Köztársaság.
+
+[^1]: Az 1. § a 42/2021. (XII. 15.) KKM rendelet 1. §-ával megállapított szöveg.
