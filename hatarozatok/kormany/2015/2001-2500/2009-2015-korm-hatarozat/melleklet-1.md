@@ -102,7 +102,7 @@
 
 1.44.[^8] Magyar Tudományos Akadémia,
 
-1.45.[^9] Eötvös Loránd Kutatási Hálózat,
+1.45.[^9]
 
 1.46. a hazai és közösségi forrásokból származó támogatások elosztásában közreműködő szervezetek,
 
@@ -290,7 +290,7 @@
 [^6]: Az 1. melléklet 1. pont 1.38. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont b) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
 [^7]: Az 1. melléklet 1. pont 1.42. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont c) alpontja hatályon kívül helyezte.
 [^8]: Az 1. melléklet 1. pont 1.44. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont d) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
-[^9]: Az 1. melléklet 1. pont 1.45. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont e) alpontja hatályon kívül helyezte, újonnan az 1604/2019. (X. 16.) Korm. határozat 1. pontja iktatta be.
+[^9]: Az 1. melléklet 1. pont 1.45. alpontját az 1911/2021. (XII. 15.) Korm. határozat 1. pontja újból hatályon kívül helyezte.
 [^10]: Az 1. melléklet 1. pont 1.48. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont f) alpontja hatályon kívül helyezte.
 [^11]: Az 1. melléklet 1. pont 1.49. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont g) alpontja hatályon kívül helyezte.
 [^12]: Az 1. melléklet 1. pont 1.53. alpontját az 1853/2016. (XII. 27.) Korm. határozat 65. pont h) alpontja hatályon kívül helyezte.
