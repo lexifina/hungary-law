@@ -1,0 +1,9 @@
+# 59/2021. (XII. 15.) ITM rendelet
+
+a földgáz biztonsági készlet mértékéről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-59-20-7Q
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-12-16 | 2021-59-20-7Q.1 | 59/2021. (XII. 15.) ITM rendelet |
