@@ -12,17 +12,7 @@
 
 ## Határidő: 2022. január 15.
 
-## 2. Az Európa Kulturális Fővárosa 2023 cím viselésével összefüggő intézkedésekről szóló 1468/2020. (VIII. 5.) Korm. határozat 1. pont c) alpontja helyébe a következő rendelkezés lép:
-
-## [A Kormány az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023
-
-## programsorozatra történő felkészülést elősegítve, Veszprém Megyei Jogú Város és térsége fejlődését támogatva
-
-## egyetért azzal, hogy a Veszprém–Balaton 2023 Zártkörűen Működő Részvénytársaság (cégjegyzékszám: 19-10-500277, a továbbiakban: Társaság) részére]
-
-## „c) a 2022. évben programfejlesztésre 8 770 000 000 forint, infrastrukturális fejlesztésre 22 971 000 000 forint, összesen 31 741 000 000 forint,”
-
-## (forrás kerüljön biztosításra;)
+## 2.[^1]
 
 1. melléklet az 1910/2021. (XII. 15.) Korm. határozathoz
 
@@ -87,3 +77,5 @@
 |  |  |  |  |  |  |  |  |  | egyéb: | 2022. január 15. |  | 30 000 000 |  |  |  |  |  |  |  |  | 30 000 000 |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
