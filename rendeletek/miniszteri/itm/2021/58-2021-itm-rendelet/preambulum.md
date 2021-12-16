@@ -1,0 +1,1 @@
+A távhőszolgáltatásról szóló 2005. évi XVIII. törvény 60. § (2) bekezdés g) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
