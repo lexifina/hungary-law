@@ -1,1 +1,3 @@
-## „9. növényvédelmi szolgáltatás: a növényvédő szerrel más számára végzett védekezési munka, a növényi károsítókkal kapcsolatos megfigyelés, tanácsadás, különösen a növényvédelmi előrejelzés, valamint a növényvédő szerekre vonatkozó felhasználási utasítás, ideértve a növényorvosi vény kiállítását is, de ide nem értve a munkavállalóként, tagként a vállalkozás részére vagy közeli hozzátartozó és annak családi gazdasága részére végzett növényvédelmi tevékenységet,”
+## 1. §[^1]
+
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

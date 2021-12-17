@@ -1,3 +1,3 @@
-## 2. § A 43/2010. (IV. 23.) FVM rendelet 1/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^2]
 
-## „(3) A földhasználó, a termelő és a növényvédelmi szolgáltatást végző személy a tevékenységét az integrált növényvédelem 8. mellékletben található általános elveinek megfelelően végzi.”
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

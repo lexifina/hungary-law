@@ -1,37 +1,53 @@
-## 16. § A 43/2010. (IV. 23.) FVM rendelet 8. melléklete az 1. melléklet szerint módosul.
+## 16. §[^17]
 
 ## 17. § A 43/2010. (IV. 23.) FVM rendelet
 
-a) 8. § (5) bekezdésében a „továbbiakban:” szövegrész helyébe a „továbbiakban együtt:” szöveg,
+a)[^18]
 
-b) 11. § (3) bekezdésében a „védőeszköz” szövegrész helyébe az „egyéni védőeszköz” szöveg,
+b)[^19]
 
-c) 11. § (4) bekezdésében az „A preventív kezelésben” szövegrész helyébe az „A kezelésben” szöveg,
+c)[^20]
 
-d) 18. § (2) bekezdés c) pontjában az „az (1) bekezdés b) és d)” szövegrész helyébe az „az (1) bekezdés b)–e)” szöveg,
+d)[^21]
 
-e) 19. § (1a) bekezdés b) pontjában a „címe és engedélyszáma” szövegrész helyébe a „címe, engedélyszáma és FELIR-azonosítója” szöveg,
+e)[^22]
 
-f) 19. § (1a) bekezdés c) pontjában a „regisztrációs száma” szövegrész helyébe a „FELIR-azonosítója” szöveg,
+f)[^23]
 
-g) 21. § (8) bekezdésében az „a 18. § (1) bekezdés b)–d)” szövegrész helyébe az „a 18. § (1) bekezdés b)–e)” szöveg,
+g)[^24]
 
-h) 21. § (10) bekezdés a) pontjában a „növény- és talajvédelmi hatáskörben eljáró Pest Megyei Kormányhivatal” szövegrész helyébe a „növény- és talajvédelmi hatáskörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: Pest Megyei Kormányhivatal)” szöveg,
+h)[^25]
 
-i) 22. § (4) bekezdésében a „rendszert működtet” szövegrész helyébe a „rendszerét használja” szöveg,
+i)[^26]
 
-j) 24. § b) pontjában az „érvényes növényorvosi kamarai regisztrációs számát” szövegrész helyébe a „növényorvosi kamarai regisztrációs számát és FELIR-azonosítóját” szöveg,
+j)[^27]
 
-k) 26. § (1) bekezdésében az „anyagokkal” szövegrész helyébe az „anyagokkal, valamint gyógyszerekkel és gyógyászati célú anyagokkal, eszközökkel” szöveg,
+k)[^28]
 
-l)[^2]
+l)[^29]
 
-m) 31. § (2) bekezdés a) pontjában az „a rendőrséget” szövegrész helyébe az „a rendőrséget és a NÉBIH-et” szöveg,
+m)[^30]
 
-n) 35. § (12) bekezdésében a „nem megfelelt” szövegrész helyébe a „nem megfelelt vagy meg nem jelent” szöveg,
+n)[^31]
 
-o) 36. § (1) bekezdésében a „3. melléklet szerinti követelményeknek” szövegrész helyébe a „típusminősítési eljárás követelményeinek” szöveg,
+o)[^32]
 
-p) 38. § (3) bekezdésében a „védőeszközben” szövegrész helyébe az „egyéni védőeszközben” szöveg
+p)[^33]
 
-[^2]: A 17. § l) pontja a 19. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 17. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 17. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 17. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 17. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 17. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 17. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 17. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 17. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 17. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 17. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 17. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 17. § l) pontja a 19. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^30]: A 17. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 17. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 17. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 17. § p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

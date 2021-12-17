@@ -1,1 +1,3 @@
-## „(9) Helyettesítő növényvédő szer akkor adható ki, ha a szakirányító ehhez a növényorvosi vényen hozzájárult.”
+## 8. §[^8]
+
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
