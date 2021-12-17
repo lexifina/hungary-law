@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-58-20-7
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-16 | 2021-58-20-7Q.1 | 58/2021. (XII. 13.) ITM rendelet |
+| 2021-12-17 | 2021-58-20-7Q.2 | 2010: CXXX. törvény |
