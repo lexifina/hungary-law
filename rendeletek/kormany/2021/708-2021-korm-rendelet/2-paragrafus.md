@@ -1,3 +1,3 @@
-## 1. § A Környezeti és Energiahatékonysági Operatív Program keretében megvalósuló egyes vízgazdálkodási célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 285/2016. (IX. 21.) Korm. rendelet [a továbbiakban: 285/2016. (IX. 21.) Korm. rendelet] a következő 7. §-sal egészül ki:
+## 1. §[^2]
 
-## „7. § E rendeletnek a Környezeti és Energiahatékonysági Operatív Program keretében megvalósuló egyes vízgazdálkodási célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 285/2016. (IX. 21.) Korm. rendelet módosításáról szóló 708/2021. (XII. 15.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. mellékletében foglalt táblázat 13. sorát a Módr2. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
