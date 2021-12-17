@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-283-20-
 | 2020-06-18 | 2020-283-20-22.1 | 283/2020. (VI. 17.) Korm. rendelet |
 | 2020-12-17 | 2020-283-20-22.2 | 584/2020. (XII. 15.) Korm. rendelet |
 | 2021-06-17 | 2020-283-20-22.3 | 343/2021. (VI. 16.) Korm. rendelet |
+| 2021-12-17 | 2020-283-20-22.4 | 705/2021. (XII. 15.) Korm. rendelet |
