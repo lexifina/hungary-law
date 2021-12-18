@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-43-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-17 | 2021-43-20-6Q.1 | 43/2021. (XII. 16.) KKM rendelet |
+| 2021-12-18 | 2021-43-20-6Q.2 | 2010: CXXX. törvény |
