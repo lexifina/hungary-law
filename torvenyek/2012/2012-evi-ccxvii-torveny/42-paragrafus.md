@@ -54,4 +54,6 @@ r) a 2003/87/EK európai parlamenti és tanácsi irányelvnek a Svájcból érke
 
 s) az egyes tagállamok energiarendszereinek korszerűsítését és energiahatékonyságának javítását célzó beruházásokat támogató modernizációs alap működése tekintetében a 2003/87/EK európai parlamenti és tanácsi irányelv részletes alkalmazási szabályainak megállapításáról szóló, 2020. július 9-i (EU) 2020/1001 bizottsági végrehajtási rendelet
 
+t) a 2003/87/EK európai parlamenti és tanácsi irányelvnek az Egyesült Királyságból érkező járatoknak az uniós kibocsátáskereskedelmi rendszerből való kizárása tekintetében történő módosításáról szóló, 2021. június 17-i (EU) 2021/1416 felhatalmazáson alapuló bizottsági rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.

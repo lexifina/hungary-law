@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-217-00-00
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2012-217-00-00.25 |
 | 2020-05-21 | 2020. évi XXV. törvény | 2012-217-00-00.26 |
 | 2021-01-01 | 2020. évi CXV. törvény | 2012-217-00-00.27 |
+| 2021-12-18 | 2021. évi CXXXVI. törvény | 2012-217-00-00.28 |

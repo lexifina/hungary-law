@@ -32,10 +32,12 @@ h) az 5700 kg-nál kisebb maximális felszálló tömegre hitelesített légi j�
 
 i) a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1008/2008/EK európai parlamenti és tanácsi rendelet) értelmében előírt közszolgáltatási kötelezettség keretében végrehajtott repülés az Európai Unió működéséről szóló szerződés 349. cikkében meghatározott legkülső régiók útjain vagy olyan utakon, amelyeken a felajánlott kapacitás nem haladja meg az évi 30 000 ülőhelyet,
 
-j) olyan légiközlekedési tevékenység, amely során a kereskedelmi légiközlekedési üzembentartó 3 egymást követő 4 hónapos időszakban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összes kibocsátása kevesebb 10 000 tonnánál, amelybe beleszámítandó az l) pont szerinti járatok, valamint a tagállamok uralkodói és közvetlen családjuk, a tagállamok állam- és kormányfői, valamint miniszterei hivatalos út alkalmával történő szállítása is,
+j) olyan légiközlekedési tevékenység, amely során a kereskedelmi légiközlekedési üzembentartó 3 egymást követő 4 hónapos időszakban időszakonként 243-nál kevesebb járatot teljesít, vagy járatainak éves összes kibocsátása kevesebb 10 000 tonnánál, amelybe beleszámítandó az l) és m) pont szerinti járatok, valamint a tagállamok uralkodói és közvetlen családjuk, a tagállamok állam- és kormányfői, valamint miniszterei hivatalos út alkalmával történő szállítása is,
 
-k) 2013. január 1-jétől 2030. december 31-ig azok a repülések, amelyek e ponttól eltekintve az e törvény hatálya alá tartozó repülési tevékenység körébe tartoznának, és amelyeket kevesebb, mint évi 1 000 tonna összkibocsátással járó repüléseket végző nem kereskedelmi légijármű-üzemeltető hajt végre [az l) pont szerinti járatok kibocsátásait is beleértve],
+k) 2013. január 1-jétől 2030. december 31-ig azok a repülések, amelyek e ponttól eltekintve az e törvény hatálya alá tartozó repülési tevékenység körébe tartoznának, és amelyeket kevesebb, mint évi 1 000 tonna összkibocsátással járó repüléseket végző nem kereskedelmi légijármű-üzemeltető hajt végre [az l) és m) pont szerinti járatok kibocsátásait is beleértve],
 
 l) a Svájcban található repülőterekről induló és az EGT területén található repülőterekre érkező járatok.
+
+m) az Egyesült Királyságban található repülőterekről induló és az EGT területén található repülőterekre érkező járatok.
 
 (5)
