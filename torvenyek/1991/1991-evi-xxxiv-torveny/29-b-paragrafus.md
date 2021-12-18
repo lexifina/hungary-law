@@ -34,7 +34,7 @@ a) a kártyaterem 1:200 léptékű berendezési tervét,
 
 b) a kérelmező nyilatkozatát a kártyaterem alapterületére és a vendéglátásra szolgáló helyiség alapterületére vonatkozóan,
 
-c) a kártyateremben működtetni kívánt szerencsejáték-eszközök jogszerű birtoklását igazoló okiratot, valamint a Vhr. 1. § (2) bekezdés szerint hitelesítendő eszközök esetében a hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a kártyaterem minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet.
+c) a kártyateremben működtetni kívánt szerencsejáték-eszközök jogszerű birtoklását igazoló okiratot, valamint a Vhr. szerint hitelesítendő eszközök esetében a hitelesítéséről készült bizonyítványok egy-egy eredeti példányát, továbbá az Európai Gazdasági Térség területén bejegyzett informatikai rendszerek auditálására jogosult cég által kiállított, a kártyaterem minden elsődleges adatforrásként működő számítógépes rendszerének megfelelőségét igazoló okiratot, amelynek ki kell terjednie a Vhr. szerinti számítógépes elszámolási rendszer auditálására is, amennyiben a szervező ilyen rendszert üzemeltet.
 
 d) a bevezetni kívánt zsetonok valamennyi fajtájából egy-egy érvénytelenített példányt, továbbá
 

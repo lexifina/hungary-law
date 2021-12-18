@@ -22,4 +22,4 @@ c) az igazgatási-szolgáltatási díj befizetését igazoló okiratot.
 
 (7) A végelszámolás jóváhagyásáról a szerencsejáték-felügyeleti hatóság dönt.
 
-(8) A szervezőnek a Vhr. 43. § (2) bekezdése szerinti ideiglenes eltérésre vonatkozó kérelmét eltérésenként külön kell benyújtania a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon. A kérelemhez csatolnia kell két példányban az eltéréssel érintett játéktervi előírásokat jóváhagyás céljából.
+(8) A szervezőnek a Vhr. szerinti, távszerencsejáték közterületen, közönség számára nyitva álló épületben vagy a szervező által biztosított helyszínen történő ideiglenes szervezésének, közvetítésének engedélyezése iránti kérelmét alkalmanként külön kell benyújtania a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon. A kérelemhez csatolnia kell két példányban az eltéréssel érintett játéktervi előírásokat jóváhagyás céljából.

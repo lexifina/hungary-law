@@ -18,13 +18,13 @@ f) a távszerencsejáték-szervezés engedélyezéséért 10 millió forint,
 
 g) az online kaszinójáték engedélyezéséért a játékkaszinó engedélyezéséért előterjesztett kérelemmel egyidejűleg benyújtott kérelem esetén 2,5 millió forint, egyéb esetben 5 millió forint,
 
-h) a távszerencsejáték játéktervétől való, a Vhr. 43. § (2) bekezdése szerinti ideiglenes eltérésre vonatkozó kérelem esetén 200 ezer forint,
+h) a távszerencsejáték játéktervétől való, a 29/F. § (8) bekezdése szerinti ideiglenes eltérésre vonatkozó kérelem esetén 200 ezer forint,
 
 i) a szerencsejáték-szervezői tevékenységi engedélynek kizárólag az 1. § (5a)–(6d) bekezdésével, 29/I. § (2) és (2a) bekezdésével, 37. § 32. pontjával, és a Hatóság elnökének a felelős játékszervezés részletes szabályairól szóló rendeletével összefüggő módosítása iránti eljárásért kérelmenként 5000 forint,
 
 j) a kizárólag a távszerencsejáték és online kaszinójáték játékterve 29/F. § (5) bekezdése szerinti módosításának jóváhagyására vonatkozó eljárás esetén kérelmenként 21 000 forint,
 
-k) a kizárólag a Vhr. 35/A. § (1) bekezdése szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint,
+k) a kizárólag a Vhr. szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint,
 
 l) a 13. § (5) bekezdés szerinti játékminősítési kérelem benyújtása esetén 42 000 forint
 

@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 1991-34-00-00.89 |
 | 2021-07-01 | 2021. évi XXXII. törvény | 1991-34-00-00.90 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 1991-34-00-00.91 |
+| 2021-12-18 | 2021. évi CXXXVI. törvény | 1991-34-00-00.92 |
