@@ -26,4 +26,4 @@ a honlapján közzéteszi.
 
 (8) Az e § szerinti rendeletek, valamint a módszertani útmutatóinak előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
-(9) A hálózati engedélyes a rendszerhasználati díjakat és azok alkalmazásának feltételeit legkésőbb a rendszerhasználati díjak alkalmazhatósága előtt 1 nappal a honlapján és az ügyfélszolgálatán közzéteszi.
+(9) A hálózati engedélyes a rendszerhasználati díjakat és azok alkalmazásának feltételeit legkésőbb a rendszerhasználati díjak alkalmazhatósága előtt 1 nappal a honlapján és az ügyfélszolgálatán teszi közzé.

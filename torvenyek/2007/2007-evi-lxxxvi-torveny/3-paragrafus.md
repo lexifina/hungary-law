@@ -202,7 +202,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
 
-61a.
+61a. Teljes mértékben integrált villamosenergia-tároló: az átviteli vagy az elosztóhálózatba integrált villamosenergia-tároló, amely használatának célja az átviteli vagy az elosztóhálózat biztonságos és megbízható működésének biztosítása, ide nem értve a kiegyenlítő szabályozást és a szűk keresztmetszet kezelését;
 
 62. Üzemi hiba: azon nem tervezett üzemi esemény, amely a villamosenergia-termelés, -átvitel vagy -elosztás tervszerű üzemmenetében nem szándékolt változást eredményez;
 

@@ -6,11 +6,11 @@ a) a b) pont szerinti kivétellel, a felhasználási hellyel együtt ruházható
 
 b) a hálózati engedélyes által visszavásárolható, vagy
 
-c) a (2b) és (2c) bekezdés szerinti esetekben ingyenesen átszáll a hálózati engedélyesre.
+c) a (4) és (6) bekezdés szerinti esetekben ingyenesen átszáll a hálózati engedélyesre.
 
-(2a) A rendszerhasználó rendelkezési jogát – a (2b) és a (2c) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
+(3) A rendszerhasználó rendelkezési jogát – a (4) és a (6) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
 
-(2b) Ha a termelő
+(4) Ha a termelő
 
 a) villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig, vagy
 
@@ -20,26 +20,28 @@ ba) kiserőművek esetén három éven belül,
 
 bb) 50 MW és ezt meghaladó teljesítő képességű erőmű esetén öt éven belül
 
-nem veszi igénybe, és arról ez idő alatt a termelő a hálózati engedélyes irányába nem rendelkezik, akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll. A b) pont szerinti határidőt a hálózati engedélyes a termelő kérelmére legfeljebb egy alkalommal, legfeljebb hat hónappal meghosszabbítja, ha a termelő a hálózati csatlakozási szerződés szerinti teljes csatlakozási díjat a határidő meghosszabbítására irányuló kérelem benyújtásáig megfizette.
+nem veszi igénybe, a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre átszáll.
 
-(2c) Ha a felhasználó vagy az erőmű vételezési teljesítménye tekintetében a termelő a hálózati engedélyes irányába nem rendelkezik a rendelkezésre álló teljesítményéről és
+(5) A (4) bekezdés b) pontja szerinti határidőt a hálózati engedélyes a termelő kérelmére legfeljebb egy alkalommal, legfeljebb hat hónappal meghosszabbítja, ha a termelő a hálózati csatlakozási szerződés szerinti teljes csatlakozási díjat a határidő meghosszabbítására irányuló kérelem benyújtásáig megfizette.
+
+(6) Ha a felhasználó vagy az erőmű vételezési teljesítménye tekintetében a termelő
 
 a) a hálózathasználati szerződés felmondásának napjától számított öt évig az adott csatlakozási pont tekintetében nem köt új hálózathasználati szerződést, vagy
 
 b) rendszerhasználatidíj-fizetési kötelezettség elmulasztása miatti kikapcsolása napjától számított öt évig nem rendezi a tartozását,
 
-akkor a rendelkezési jog az adott teljesítmény vonatkozásában a hálózati engedélyesre átszáll.
+a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre átszáll.
 
-(3) A hálózathasználati szerződésből eredő igények három év alatt évülnek el.
+(7) A hálózathasználati szerződésből eredő igények három év alatt évülnek el.
 
-(4) Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseire is figyelemmel – elektronikus kapcsolattartást választja, az e törvényben és a Vhr.-ben a felhasználó és a hálózati engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
+(8) Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseire is figyelemmel – az elektronikus kapcsolattartást választja, az e törvényben és a Vhr.-ben a felhasználó és a hálózati engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.
 
-(5) Ha jogszabály eltérően nem rendelkezik a hálózati engedélyes és a felhasználó jogviszonya vonatkozásában előírt írásbeliség követelményének bármely olyan módon eleget lehet tenni, amellyel a jognyilatkozat változatlan formában és tartalommal megjeleníthető, továbbá a nyilatkozattevő személye és a nyilatkozat megtételének időpontja egyértelműen megállapítható. E követelménynek megfelel az engedélyes által biztosított informatikai felületen rögzített kommunikáció.
+(9) Ha jogszabály eltérően nem rendelkezik, a hálózati engedélyes és a felhasználó jogviszonya vonatkozásában előírt írásbeliség követelményének a hálózati engedélyes és a felhasználó bármely olyan módon eleget tehet, amellyel a jognyilatkozat változatlan formában és tartalommal megjeleníthető, továbbá a nyilatkozattevő személye és a nyilatkozat megtételének időpontja egyértelműen megállapítható. E követelménynek megfelel az engedélyes által biztosított informatikai felületen rögzített kommunikáció.
 
-(6) Ha az írásbeliség követelményének előírása ellenére az írásba foglalás elmaradt, a fél az írásbeliség hiányára nem hivatkozhat, ha
+(10) Ha az írásbeliség követelményének előírása ellenére az írásba foglalás elmaradt, a fél az írásbeliség hiányára nem hivatkozhat, ha
 
 a) az írásba foglalás elmaradása neki felróható, vagy
 
 b) a teljesítés elfogadása kifejezetten vagy ráutaló magatartással megtörtént.
 
-(7) A (6) bekezdés szerinti esetben a felek közötti jogviszony a jogviszonyra irányadó jogszabályok és a hálózati engedélyes üzletszabályzata szerinti tartalommal jön létre.
+(11) A (6) bekezdés szerinti esetben a felek közötti jogviszony a jogviszonyra irányadó jogszabályok és a hálózati engedélyes üzletszabályzata szerinti tartalommal jön létre.

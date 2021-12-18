@@ -1,1 +1,1 @@
-### 178/D. §
+178/D. § E törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel (a továbbiakban: 2021Módtv2) megállapított 34/C. §-át a 2021Módtv2 hatálybalépését követően újonnan üzembe helyezett közvilágítási berendezések esetében kell alkalmazni.

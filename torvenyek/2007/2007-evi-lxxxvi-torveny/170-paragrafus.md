@@ -50,7 +50,7 @@
 
 23. a villamosenergia-ellátási válsághelyzet és a villamosenergia-rendszer jelentős zavarának részletes szabályait, a válsághelyzet és a jelentős zavar esetén alkalmazandó korlátozások szabályait, elveit, valamint a rendszerhasználók jogait és kötelezettségeit, a teherviselés részletes szabályait, a felhasználók ellátására kötött szerződések teljesítése felfüggesztésének rendjét, a villamosenergia-ellátáshoz kapcsolódó, a hatósági és nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 
-24. a megújuló energiaforrásból és a nagy hatékonyságú kapcsolt energiatermelésből származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, az ilyen módon termelt energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére vonatkozó részletes szabályokat,
+24. a megújuló energiaforrásból és a nagy hatékonyságú kapcsolt energiatermelésből származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, az ilyen módon termelt energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a számlatulajdonosok adatainak közzétételére vonatkozó részletes szabályokat,
 
 25. a Hivatal határozatainak közzétételére vonatkozó részletes szabályokat,
 
@@ -214,7 +214,7 @@ c) a támogatás időtartamát és a támogatás alá eső villamos energia menn
 
 d) az igénylés részletes szabályait,
 
-e)
+e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a villamosenergia-termelés, a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidő meghosszabbított időszakát és a meghosszabbítás feltételeit,
 
 7. a biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló prémium típusú támogatás igénylésének részletes szabályait, továbbá mértékének kiszámítási módszereit és biogáz felhasználásával történő villamosenergia-termelésre vonatkozóan annak eredményeit,
 

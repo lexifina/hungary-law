@@ -4,7 +4,7 @@ a) a működési engedélyben meghatározott elosztó hálózat irányítása é
 
 b) a villamos energia elosztó hálózatokon keresztül történő továbbítása, a villamosenergia-ellátási szabályzatokban meghatározott mennyiségi elszámolásainak elkészítése,
 
-c) évente hálózat fejlesztési terv készítése és az átviteli rendszerirányító részére, az üzemi szabályzatban meghatározott módon történő benyújtása,
+c) évente hálózat fejlesztési terv készítése a 2019/944/EU irányelvben foglaltak figyelembevételével és az átviteli rendszerirányító részére, az üzemi szabályzatban meghatározott módon történő benyújtása,
 
 d) a működési engedélyben meghatározott elosztó hálózat működéséhez, valamint a folyamatos és biztonságos villamosenergia-ellátáshoz szükséges, a jogszabályokban, az elosztói szabályzatban, az üzemi szabályzatban és a nemzetközi üzemi és kereskedelmi szabályzatban meghatározott információk összegyűjtése és szolgáltatása az átviteli rendszerirányítóval együttműködve,
 

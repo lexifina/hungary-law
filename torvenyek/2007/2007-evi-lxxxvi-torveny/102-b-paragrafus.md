@@ -10,6 +10,6 @@ b) az átviteli hálózat, a napi átviteli tevékenység végzéséhez szüksé
 
 c) a napi átviteli rendszerirányítási tevékenység ellátásához és a vállalati jogi, könyvvezetési, valamint informatikai szolgáltatások biztosításához szükséges, saját alkalmazásában álló személyzettel.
 
-(4) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre vonatkozóan – a (3) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt.
+(4) Az elektronikus hírközlő hálózati elemek tulajdonosa az elektronikus hírközlő hálózati elemekre és azok igénybevételéhez szükséges szolgáltatásokra vonatkozóan – a (3) bekezdés b) pontjában foglaltakra figyelemmel – az átviteli rendszerirányítóval a Vhr.-ben meghatározottak szerint szerződést köt és a szerződésben meghatározott szolgáltatásokat nyújtja.
 
 (5) Tilos a munkaerő-kölcsönzés az átviteli rendszerirányító és a vertikálisan integrált villamosenergia-ipari vállalkozás között.

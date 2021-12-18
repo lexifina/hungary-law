@@ -10,7 +10,7 @@
 
 (4) A 32/B. § (4) bekezdés szerinti jelentést első alkalommal 2023. március 31-ig kell elkészíteni.
 
-(5) A hálózati engedélyesek a nagyfeszültségű és a nagy/középfeszültségű transzformátorállomásokhoz rendelt, az aktuális szabad kapacitásokról, és a csatlakozás műszaki és várható gazdasági feltételeiről szóló részletes tájékoztatót először 2021. december 31-ig teszik közzé.
+(5) A hálózati engedélyesek a nagyfeszültségű és a nagy/középfeszültségű transzformátorállomásokhoz rendelt, az aktuális szabad kapacitásokról, és a csatlakozás műszaki és várható gazdasági feltételeiről szóló részletes tájékoztatót először 2022. május 2-áig teszik közzé.
 
 (5a) A Hivatal a 159. § (3) bekezdés 13. pontja szerinti javaslatot első alkalommal 2022. december 31-ig készíti el.
 

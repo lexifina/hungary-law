@@ -24,7 +24,7 @@ b) a lakossági fogyasztó által a fizetési haladék adásáról vagy részlet
 
 c) a villamosenergia-kereskedő a tartozásról és a kikapcsolás lehetőségéről a lakossági fogyasztót legalább kétszer írásban értesítette, és az első értesítésben a lakossági fogyasztó figyelmét felhívta a szociálisan rászoruló fogyasztókat az e törvény és a Vhr. alapján megillető kedvezményekre, valamint az előrefizetős mérő felszerelésének a lehetőségére.
 
-(7a) A (7) bekezdés c) pontjában meghatározott esetben a lakossági fogyasztó első értesítése postai vagy – a lakossági fogyasztó előzetes hozzájárulása esetén – elektronikus úton történik, a kikapcsolás lehetőségére és az azzal járó szolgáltatásszüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik.
+(7a) A (7) bekezdés c) pontjában meghatározott esetben a lakossági fogyasztó értesítése írásban történik azzal, hogy a kikapcsolás lehetőségére és az azzal járó szolgáltatásszüneteltetésre vonatkozó második értesítése tértivevényes levélben vagy a lakossági fogyasztó általi átvétel igazolására alkalmas más módon történik.
 
 (7b) Ha a (7) bekezdés a) pontja szerinti fizetési kötelezettség nem vagy nem kizárólag számlatartozásból ered, a villamosenergia-kereskedő a lakossági fogyasztók villamosenergia-ellátásból történő kikapcsolását a nem számlatartozásból eredő fizetési kötelezettség vonatkozásában akkor kezdeményezheti, ha annak polgári peres vagy fizetési meghagyásos eljárás útján történő érvényesítését igazolható módon megindította.
 
