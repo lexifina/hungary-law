@@ -76,7 +76,7 @@ részletes szabályait,
 
 26. a külföldi követelések értékesítésének szabályait,
 
-27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat, valamint a 108/A. § (2) bekezdése szerinti intézkedések körét és végrehajtásának szabályait,
+27. az államháztartás információs rendszerében vezetett nyilvántartások körét, tartalmát, az államháztartás információs rendszerébe teljesített adatszolgáltatások kötelezettjeit, az adatszolgáltatások gyakoriságát, módját, a szolgáltatandó adatok körét, az egyes adatszolgáltatási kötelezettségek teljesítésének elmulasztása esetén kiróható bírság mértékét és a kiszabás módját, a 103. § (4) bekezdése szerint közzétett adatok körét és a közzétételre vonatkozó szabályokat, valamint a 108/A. § szerinti intézkedések körét és végrehajtásának szabályait,
 
 28. a honvédelemért felelős miniszter által vezetett minisztérium, az irányítása alá tartozó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, adatszolgáltatásainak, könyvvezetési és beszámoló készítési kötelezettségének a kincstári rendszer, illetve az államháztartási számvitel általános előírásaitól eltérő sajátos szabályait,
 
@@ -130,7 +130,7 @@ c) az európai támogatásokat auditáló szervet
 
 2. a költségvetési szervek vezetői és gazdasági vezetői továbbképzésének részletes szabályait,
 
-3.
+3. a KKVTR rendszer működésének részletes szabályait és műszaki követelményeit, valamint a KKVTR rendszerhez való kapcsolódás feltételeinek részletes szabályait,
 
 4. a belső ellenőrzési tevékenység folytatásának részletes feltételeit, az e tevékenységre jogosító, illetve a tevékenységtől való eltiltásra okot adó körülmény bejelentésének a rendjét, belső ellenőrzési tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezmények részletes szabályait, a kötelező szakmai továbbképzés és a kapcsolódó vizsgáztatás szabályait, továbbá a nyilvántartásba vétel iránti eljárásért, valamint a nyilvántartásba bejegyzett adatok módosítása vagy törlése iránti eljárásért fizetendő igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatértésével kapcsolatos részletes szabályokat,
 
