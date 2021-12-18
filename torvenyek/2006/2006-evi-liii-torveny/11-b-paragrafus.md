@@ -8,7 +8,7 @@ c) az egyedi településképi követelményeket,
 
 d) az egyedi örökségvédelmi szabályokat,
 
-e) a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat,
+e) a Kvt. 48. §-a szerinti környezetvédelmi és fás szárú növények védelmére vonatkozó előírásokat,
 
 f) a felszín alatti vizek és a földtani közeg kármentesítésével összefüggő hatósági eljárások ágazati jogszabályban foglaltaktól eltérő különös eljárási szabályait, a kármentesítés során a tényfeltárás, a beavatkozás és a kármentesítési monitoring egyedi szabályait.
 

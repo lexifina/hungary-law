@@ -1,4 +1,4 @@
-6/F. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 72. §-ától eltérően a környezetvédelmi hatóság a környezetvédelmi engedélyt akkor vonja vissza, ha
+6/F. § A Kvt. 72. §-ától eltérően a környezetvédelmi hatóság a környezetvédelmi engedélyt akkor vonja vissza, ha
 
 a) a véglegessé válástól számított tíz éven belül a közlekedési infrastruktúra-beruházás megvalósítását vagy az ahhoz szükséges építési előkészítési munkákat nem kezdték meg,
 
