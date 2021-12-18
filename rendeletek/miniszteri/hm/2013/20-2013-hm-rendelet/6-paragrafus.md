@@ -1,4 +1,4 @@
-6. § (1) Az utánpótlási ruházati illetmény az alapfelszerelési illetményre való jogosultságot követő évtől, évente járó ruházati ellátmány, amelynek rendeltetése, hogy biztosítsa az igényjogosult elhasználódott egyenruházatának pótlását, valamint az igényjogosult újonnan rendszeresített egyenruházattal való ellátását.
+6. § (1)[^23] Az utánpótlási ruházati illetmény az alapfelszerelési ruházati illetményre való jogosultságot követő évtől, évente járó ruházati ellátmány, amelynek rendeltetése, hogy biztosítsa az igényjogosult elhasználódott egyenruházatának pótlását.
 
 (2) Utánpótlási ruházati illetményre jogosult
 
@@ -14,6 +14,10 @@ e) a honvéd tisztjelölt a tisztjelölti szolgálati viszony létesítését k�
 
 f) a honvéd altiszt-jelölt az altiszt-jelölti szolgálati viszony létesítését követő 13. hónap első napjától, valamint
 
-g) az önkéntes tartalékos katona a tényleges szolgálatteljesítésben eltöltött 12 hónapot követően.
+g)[^24] az ÖT katona a tényleges szolgálatteljesítésben eltöltött 12 hónapot követően.
 
-(3) A szolgálati viszony megszűnését, megszüntetését követő 48 hónapon belül állományba visszavett hivatásos és szerződéses tiszt, altiszt utánpótlási ruházati illetményre a visszavétel napjától – próbaidő kikötése esetén annak leteltét követően – jogosult.
+(3)[^25]
+
+[^23]: A 6. § (1) bekezdése a 27/2021. (XIII. 17.) HM rendelet 5. §-ával megállapított szöveg.
+[^24]: A 6. § (2) bekezdés g) pontja a 27/2021. (XII. 17.) HM rendelet 17. § j) pontja szerint módosított szöveg.
+[^25]: A 6. § (3) bekezdése a 27/2021. (XII. 17.) HM rendelet 18. § e) pontja hatályon kívül helyezte.

@@ -15,3 +15,7 @@ f) a szülési szabadság időtartamára és
 g) a felmentési idő azon időtartamára, amelyre az igényjogosultat a szolgálatteljesítési kötelezettség alól mentesítették.
 
 (2) Az (1) bekezdésben meghatározott okok miatti távollét időtartamát egész hónapokban kell számítani, minden megkezdett hónap egész hónapnak számít.
+
+(3)[^30] Az (1) bekezdés szerinti időtartamokra arányosított ruházati illetmény összegével az utánpótlási ruházati illetményt csökkenteni kell.
+
+[^30]: A 9. § (3) bekezdését a 27/2021. (XII. 17.) HM rendelet 7. §-a iktatta be.

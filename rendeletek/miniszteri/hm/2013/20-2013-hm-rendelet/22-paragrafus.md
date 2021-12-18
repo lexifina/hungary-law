@@ -1,7 +1,3 @@
-## 9. A hivatásos és szerződéses tiszti, altiszti állomány próbaidős tagjának különleges ellátási szabályai
+## 9.[^48]
 
-## 22. § A hivatásos és szerződéses tiszti, altiszti állomány tagjának a 12. § (1) bekezdés szerint biztosított ruházati illetményét a próbaidő leteltét követően a 21. § (1) bekezdés szerinti ellátással csökkenteni kell a következők figyelembe vételével:
-
-a) az illetménycsökkentés során az árjegyzékben meghatározott, általános forgalmi adóval növelt ár 50%-át kell alkalmazni,
-
-b) a ruházati utalványfüzet kiadását követően a próbaidő tartama alatt ténylegesen biztosított alapfelszerelési ellátmány a hivatásos és szerződéses tiszti, altiszti állomány tagjának tulajdonába kerül.
+[^48]: A 9. alcímet (22. §) a 27/2021. (XII. 17.) HM rendelet 18. § i) pontja hatályon kívül helyezte.

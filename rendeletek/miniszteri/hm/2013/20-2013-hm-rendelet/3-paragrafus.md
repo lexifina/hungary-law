@@ -1,6 +1,8 @@
+## 2/C. § A beszerzési eljárások tervezésének előkészítésekor elemezni kell az előző költségvetési év főbb adatait, a kitűzött célokat, a gazdálkodás tapasztalatait, a meglévő ruházati készletek mennyiségét, minőségét, a tervezett költségvetési előirányzatokat, valamint a ruházati ellátással és szolgáltatással kapcsolatos követelményeket és ezek együttes hatását a beszerzésekre.
+
 ## 3. Az egyenruházati ellátásra jogosultak köre, a ruházati illetmények és az ellátás rendszere
 
-## 3. §[^2] A Hjt. 214. § (1a) bekezdése szerinti önkéntes tartalékos kivételével az igényjogosultak egyenruházati ellátása
+## 3. §[^18] Az igényjogosultak egyenruházati ellátása
 
 a) próbaidős,
 
@@ -10,4 +12,4 @@ c) utánpótlási, valamint
 
 d) kiegészítő
 
-[^2]: A 3. § nyitó szövegrésze a 11/2020. (VI. 23.) HM rendelet 5. §-a szerint módosított szöveg.
+[^18]: A 3. § nyitó szövegrésze a 27/2021. (XII. 17.) HM rendelet 17. § f) pontja szerint módosított szöveg.

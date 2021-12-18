@@ -1,365 +1,388 @@
-## 31. §[^10] E rendeletnek a ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosításáról szóló 14/2020. (X. 14.) HM rendelettel megállapított rendelkezéseit a 2015. évi és azt követő ruházati illetményeket tartalmazó utalványfüzetek vonatkozásában kell alkalmazni.
+## 31. §[^57] E rendeletnek a ruházati ellátásról szóló 20/2013. (IX. 16.) HM rendelet módosításáról szóló 14/2020. (X. 14.) HM rendelettel megállapított rendelkezéseit a 2015. évi és azt követő ruházati illetményeket tartalmazó utalványfüzetek vonatkozásában kell alkalmazni.
 
-1. melléklet a 20/2013. (IX. 16.) HM rendelethez
+1. melléklet a 20/2013. (IX. 16.) HM rendelethez[^58]
 
-## AZ ALAPFELSZERELÉSI RUHÁZATI ILLETMÉNYBE TARTOZÓ ELLÁTMÁNY ÖSSZETÉTELE ÉS MENNYISÉGE
+1. AZ ALAPFELSZERELÉSI RUHÁZATI ILLETMÉNYBE TARTOZÓ ELLÁTMÁNY ÖSSZETÉTELE ÉS MENNYISÉGE
 
-|  | A | B | CA | CB | DA | DB | EA | EB | FA | FG | GA | GB | H | I | J | K | L | M | N | O | P | Q | R | S |
+1.1. Köznapi, társasági és hallgatói díszruházat
 
-| 1 | Megnevezés | Mértékegység | Hivatásos és szerződéses tiszti, altiszti állomány tagja próbaidőt követően | Tiszt, altiszt próbaidőre | Legénységi állomány tagja | Honvéd tisztjelölt | Honvéd altisztjelölt | Önkéntes tartalékos katona |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N |
 
-| 2 | Általános | Ejtőernyős | Repülőszerelő | Légierős | Hadihajós | Próbaidő alatt | Általános | Ejtőernyős | Repülőszerelő | Próbaidő alatt | Próbaidőt követően | Próbaidő alatt | Próbaidőt követően |
+| 1 | Megnevezés | Mértékegység | Hivatásos és szerződéses tiszti, altiszti állomány tagja részére | Honvéd tisztjelölt |
 
-| 3 | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő |
+| 2 | Általános | Ejtőernyős | Repülőszerelő | Légierős | Hadihajós |
 
-| 4 | 90 M nyári gyakorló sapka | db | 1 | 1 |  |  |  |  | 1 | 1 |  |  | 1 | 1 | 1 |  |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 3 | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő | Ffi. | Nő |
 
-| 5 | 90 M téli gyakorló sapka | db | 1 | 1 |  |  |  |  | 1 | 1 |  |  | 1 | 1 | 1 |  |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 4 | Köznapi Bocskai-sapka szerelve | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |
 
-| 6 | Gyakorló kalap | db | 1 | 1 |  |  |  |  | 1 | 1 |  |  |  |  | 1 |  |  |  | 1 | 1 |  | 1 | 1 |  |
+| 5 | Köznapi sapka | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  | 1 | 1 |
 
-| 7 | Zöld barett sapka szerelve | db |  |  | 1 | 1 |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  |
+| 6 | Sötétkék köznapi sapka | db |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 8 | Fekete barett sapka szerelve | db |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 7 | Hadihajós köznapi tányérsapka szerelve | db |  |  |  |  |  |  |  |  | 1 |  |  |  |
 
-| 9 | 93 M ejtőernyős téli sapka | db |  |  | 1 | 1 |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  |
+| 8 | Társasági Bocskai-sapka szerelve | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |
 
-| 10 | 93 M repülőszerelő nyári sapka | db |  |  |  |  | 1 | 1 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |
+| 9 | Sötétkék tányérsapka szerelve | db |  |  |  |  | 1 |  | 1 |  |  |  |  |  |
 
-| 11 | 93 M repülőszerelő téli sapka | db |  |  |  |  | 1 | 1 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |
+| 10 | Hadihajós társasági tányérsapka szerelve | db |  |  |  |  |  |  |  |  | 1 |  |  |  |
 
-| 12 | Csősál | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 11 | Női kalap szerelve | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |
 
-| 13 | 90 M gyakorló zubbony | db | 2 | 2 |  |  |  |  | 2 | 2 |  |  | 2 | 3 | 3 |  |  | 3 | 2 | 2 | 3 | 3 | 3 | 2 |
+| 12 | Fekete női kalap szerelve | db |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |
 
-| 14 | 90 M gyakorló nadrág | db | 2 | 2 |  |  |  |  | 2 | 2 |  |  | 2 | 3 | 3 |  |  | 3 | 2 | 2 | 3 | 3 | 3 | 2 |
+| 13 | Nyaksál | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |
 
-| 15 | 90 M/2008 M gyakorló kabát | db | 1 | 1 |  |  |  |  | 1 | 1 |  |  | 1 | 1 | 1 |  |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 14 | Fekete nyaksál | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 16 | 90 M/2008 M gyakorló kabátbélés (polárpulóver) | db | 1 | 1 |  |  |  |  | 1 | 1 |  |  | 1 | 1 | 1 |  |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 15 | Női nyaksál | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |
 
-| 17 | 93 M ejtőernyős nyári zubbony | db |  |  | 2 | 2 |  |  |  |  | 2 | 2 |  |  |  | 3 |  |  |  |  |  |  |  |  |
+| 16 | Női fekete nyaksál | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 18 | 93 M ejtőernyős nyári nadrág | db |  |  | 2 | 2 |  |  |  |  | 2 | 2 |  |  |  | 3 |  |  |  |  |  |  |  |  |
+| 17 | Köznapi zubbony | db | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 19 | 93 M ejtőernyős téli zubbony | db |  |  | 1 | 1 |  |  |  |  | 1 | 1 |  |  |  | 1 |  |  |  |  |  |  |  |  |
+| 18 | Sötétkék köznapi zubbony | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 20 | 93 M ejtőernyős téli zubbonybélés | db |  |  | 1 | 1 |  |  |  |  | 1 | 1 |  |  |  | 1 |  |  |  |  |  |  |  |  |
+| 19 | Köznapi pantalló | db | 2 |  | 2 |  |  |  |  |  |  |  | 1 |  |
 
-| 21 | 93 M repülőszerelő nyári zubbony | db |  |  |  |  | 2 | 2 |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  |  |
+| 20 | Sötétkék köznapi pantalló | db |  |  |  |  | 2 |  | 2 |  | 2 |  |  |  |
 
-| 22 | 93 M repülőszerelő nyári nadrág | db |  |  |  |  | 2 | 2 |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |  |  |
+| 21 | Köznapi női zubbony | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 23 | 93 M repülőszerelő téli zubbony | db |  |  |  |  | 1 | 1 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |
+| 22 | Sötétkék köznapi női zubbony | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 24 | 93 M repülőszerelő téli zubbonybélés | db |  |  |  |  | 1 | 1 |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |
+| 23 | Köznapi női szoknya | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 25 | 2000 M gyakorló zubbony | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  | 2 | 2 |  | 2 | 2 | 2 |
+| 24 | Sötétkék köznapi női szoknya | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 26 | 2000 M gyakorló nadrág | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  | 2 | 2 |  | 2 | 2 | 2 |
+| 25 | Köznapi női pantalló | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 27 | 93 M esővédő zubbony (4) (5) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 26 | Sötétkék női köznapi pantalló | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 28 | 93 M/2008 M esővédő nadrág | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 27 | Társasági zubbony | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |
 
-| 29 | 93 M/2008 M téli ing (A és B típusú) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 28 | Sötétkék társasági zubbony | db |  |  |  |  | 1 |  | 1 |  |  |  |  |  |
 
-| 30 | 93 M/2008 M téli alsó (A és B típusú) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 29 | Hadihajós társasági zubbony | db |  |  |  |  |  |  |  |  | 1 |  |  |  |
 
-| 31 | Póló gyakorló ruhához | db | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 3 |
+| 30 | Fekete társasági pantalló | db | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 32 | Nyári gyakorló zokni | pár | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 5 | 5 | 5 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
+| 31 | Sötétkék társasági pantalló | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 33 | Téli gyakorló zokni | pár | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 32 | Társasági női kosztümkabát | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |
 
-| 34 | Gyakorló kesztyű | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 33 | Sötétkék társasági női kosztümkabát | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 35 | Szakmai sál (fegyvernemi színű) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 34 | Fekete társasági női szoknya | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |
 
-| 36 | 2008 M általános bakancs | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 35 | Sötétkék társasági női szoknya | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 37 | Tartalékos szolgálati bakancs (6) | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |
+| 36 | Fekete női pantalló | db |  |  |  |  |  |  |  |  |  |  |  | 1 |
 
-| 38 | Nyári bakancs (HAIX Airpower P6) | pár | 1 | 1 |  |  | 1 | 1 | 1 | 1 |  |  |  |  | 1 |  | 1 |  | 1 | 1 |  | 1 | 1 |  |
+| 37 | Posztóköpeny | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |
 
-| 39 | Ejtőernyős bakancs (HAIX Airpower P6) | pár |  |  | 1 | 1 |  |  |  |  | 1 | 1 |  |  |  | 1 |  |  |  |  |  |  |  |  |
+| 38 | Sötétkék posztóköpeny | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 40 | Hevederöv | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 39 | Női köpeny béléssel | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 41 | Hímzett név felirat tépőzáras | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 |
+| 40 | Sötétkék női köpeny béléssel | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 42 | Hímzett név felirat sötétkék tépőzáras | db |  |  |  |  | 4 | 4 | 4 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 41 | 3/4-es ballonkabát | db | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 43 | Gyakorló paroli évfolyamjelzés tépőzáras | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 3 | 3 | 3 | 3 | 3 |  |
+| 42 | Sötétkék 3/4-es ballonkabát | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 44 | Gyakorló paroli rendfokozati jelzés tépőzáras | pár | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  | 2 |
+| 43 | Női ballonkabát | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 45 | Gyakorló évfolyamjelzés | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 | 3 | 3 | 3 | 3 | 3 |  |
+| 44 | Sötétkék női ballonkabát | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 46 | Gyakorló rendfokozati jelzés | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  | 2 |
+| 45 | 4/4-es ballonkabát | db | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 47 | Hímzett államjelzés tépőzáras | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 4 | 4 | 4 | 4 | 4 | 4 | 2 |
+| 46 | Sötétkék 4/4-es ballonkabát | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 48 | Hímzett államjelzés sötétkék tépőzáras | db |  |  |  |  | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 47 | Köznapi nyakkendő | db | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 49 | Önkéntes tartalékos hímzett karfelirat | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 |
+| 48 | Fekete köznapi nyakkendő | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 50 | Gyakorló csapatkarjelzés | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  | 2 | 2 | 2 | 2 |  | 2 | 2 |  | 2 | 2 | 2 |
+| 49 | Köznapi női nyakkendő | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 51 | Evőeszköz készlet (3) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 50 | Fekete köznapi női nyakkendő | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 52 | Kulacs (3) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 51 | Fekete társasági nyakkendő | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 53 | Evőcsésze fedővel (3) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 52 | Fekete társasági női nyakkendő | db |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |
 
-| 54 | Málhazsák (3) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 53 | Köznapi ing hosszú ujjú | db | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 55 | Rohamsisak (3) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 54 | Köznapi ing rövid ujjú | db | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 56 | 90 M tereptarka sisakborító (3) | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 55 | Világoskék köznapi ing hosszú ujjú | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 57 | Törülköző | db |  |  |  |  |  |  |  |  |  |  |  | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 56 | Világoskék köznapi ing rövid ujjú | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 58 | Köznapi Bocskai-sapka szerelve | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 57 | Köznapi női ing hosszú ujjú | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 59 | Köznapi sapka | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 58 | Köznapi női ing rövid ujjú | db |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 60 | Sötétkék köznapi sapka | db |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 59 | Világoskék köznapi női ing hosszú ujjú | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 61 | Hadihajós köznapi tányérsapka szerelve | db |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 60 | Világoskék köznapi női ing rövid ujjú | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 62 | Társasági Bocskai-sapka szerelve | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 61 | Társasági fehér ing hosszú ujjú | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |
 
-| 63 | Sötétkék tányérsapka szerelve | db |  |  |  |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 62 | Társasági fehér női ing hosszú ujjú | db |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |
 
-| 64 | Hadihajós társasági tányérsapka szerelve | db |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 63 | Társasági fehér ing rövid ujjú | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |
 
-| 65 | Női kalap szerelve | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 64 | Társasági fehér női ing rövid ujjú | db |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |
 
-| 66 | Fekete női kalap szerelve | db |  | 1 |  | 1 |  | 1 |  | 1 |  | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 65 | Barna zokni | pár | 3 |  | 3 |  |  |  |  |  |  |  | 3 |  |
 
-| 67 | Nyaksál | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 66 | Hosszú ujjú ingblúz | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |
 
-| 68 | Fekete nyaksál | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 67 | Hosszú ujjú világoskék ingblúz | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 69 | Női nyaksál | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 68 | Hosszú ujjú női ingblúz | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |
 
-| 70 | Női fekete nyaksál | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 69 | Hosszú ujjú világoskék női ingblúz | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |
 
-| 71 | Köznapi zubbony | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 70 | Fekete zokni | pár | 1 |  | 1 |  | 3 |  | 3 |  | 3 |  | 1 |  |
 
-| 72 | Sötétkék köznapi zubbony | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 71 | Félcipő | pár | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |
 
-| 73 | Köznapi pantalló | db | 2 |  | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 72 | Fekete félcipő | pár | 1 |  | 1 |  | 2 |  | 2 |  | 2 |  | 1 |  |
 
-| 74 | Sötétkék köznapi pantalló | db |  |  |  |  | 2 |  | 2 |  | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 73 | Női cipő | pár |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |
 
-| 75 | Köznapi női zubbony | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 74 | Fekete női cipő | pár |  | 1 |  | 1 |  | 2 |  | 2 |  | 2 |  | 1 |
 
-| 76 | Sötétkék köznapi női zubbony | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 75 | Gyakorló pulóver | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  | 1 | 1 |
 
-| 77 | Köznapi női szoknya | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 76 | Sötétkék gyakorló pulóver | db |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 78 | Sötétkék köznapi női szoknya | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 77 | Bőrkesztyű | pár | 1 | 1 | 1 | 1 |  |  |  |  |  |  | 1 | 1 |
 
-| 79 | Köznapi női pantalló | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 78 | Fekete bőrkesztyű | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 80 | Sötétkék női köznapi pantalló | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 79 | Deréköv | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  | 1 | 1 |
 
-| 81 | Társasági zubbony | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 80 | Fekete deréköv | db | 1 | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 82 | Sötétkék társasági zubbony | db |  |  |  |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 81 | Köznapi paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 83 | Hadihajós társasági zubbony | db |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 82 | Köznapi paroli évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 84 | Fekete társasági pantalló (1) | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 83 | Társasági paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |
 
-| 85 | Sötétkék társasági pantalló | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 84 | Csillag | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 | 2 |  |  |
 
-| 86 | Társasági női kosztümkabát | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 85 | Hadihajós rendfokozati jelzés | pár |  |  |  |  |  |  |  |  | 1 | 1 |  |  |
 
-| 87 | Sötétkék társasági női kosztümkabát | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 86 | Vállzsinór | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 88 | Fekete társasági női szoknya (1) | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 87 | Nyakkendőtű, kézelőgomb | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |
 
-| 89 | Sötétkék társasági női szoknya | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 88 | Állományt kifejező jelvény | db | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |  |  |
 
-| 90 | Fekete női pantalló | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 89 | Névkitűző | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
 
-| 91 | Posztóköpeny | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 90 | Rendfokozati jelzés posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 92 | Sötétkék posztóköpeny | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 91 | Rendfokozati jelzés női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |
 
-| 93 | Női köpeny béléssel | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 92 | Paroli posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |
 
-| 94 | Sötétkék női köpeny béléssel | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 93 | Paroli női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |
 
-| 95 | 3/4-es ballonkabát | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 94 | Végzettséget kifejező jelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 96 | Sötétkék 3/4-es ballonkabát | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 95 | Fegyvernemi jelvény | pár | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |  |  |
 
-| 97 | Női ballonkabát | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 96 | Szúrósgomb | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |
 
-| 98 | Sötétkék női ballonkabát | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 97 | Csapatkarjelzés köznapi | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 |
 
-| 99 | 4/4-es ballonkabát | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 98 | Csapatjelvény | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 100 | Sötétkék 4/4-es ballonkabát | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 99 | Hímzett köznapi évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  | 2 | 2 |
 
-| 101 | Köznapi nyakkendő | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 100 | Hímzett köznapi rendfokozati jelzés | pár | 3 | 3 | 3 | 3 |  |  |  |  |  |  |  |  |
 
-| 102 | Fekete köznapi nyakkendő | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 101 | Hímzett sötétkék köznapi rendfokozati jelzés | pár |  |  |  |  | 3 | 3 | 3 | 3 | 3 | 3 |  |  |
 
-| 103 | Köznapi női nyakkendő | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 102 | Hímzett társasági rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 104 | Fekete köznapi női nyakkendő | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 103 | Hímzett gyakorló évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 105 | Fekete társasági nyakkendő (1) | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 104 | Hímzett gyakorló rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |
 
-| 106 | Fekete társasági női nyakkendő (1) | db |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 105 | Hímzett név felirat tépőzáras | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
-| 107 | Köznapi ing hosszú ujjú | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 106 | Hímzett államjelzés tépőzáras | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 4 | 4 |
 
-| 108 | Köznapi ing rövid ujjú | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 107 | Hallgatói díszzubbony | db |  |  |  |  |  |  |  |  |  |  | 1 |  |
 
-| 109 | Világoskék köznapi ing hosszú ujjú | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 108 | Hallgatói női díszzubbony | db |  |  |  |  |  |  |  |  |  |  |  | 1 |
 
-| 110 | Világoskék köznapi ing rövid ujjú | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 109 | Nyakgallér | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 111 | Köznapi női ing hosszú ujjú | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 110 | Évfolyamjelzés díszzubbonyra | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 112 | Köznapi női ing rövid ujjú | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 111 | Hallgatói díszcsákó szerelve | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 113 | Világoskék köznapi női ing hosszú ujjú | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 112 | Nadrágtartó | db |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 114 | Világoskék köznapi női ing rövid ujjú | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 113 | Fehér kesztyű | pár |  |  |  |  |  |  |  |  |  |  | 1 | 1 |
 
-| 115 | Társasági fehér ing hosszú ujjú | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+1.2. Hadi- (gyakorló) ruházat
 
-| 116 | Társasági fehér női ing hosszú ujjú | db |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |  |  |  |
+|  | A | B | C | D | E | F | G | H | I | J | K |
 
-| 117 | Barna zokni | pár | 3 |  | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  | 3 |  |  |  |  |  |
+| 1 | Megnevezés | Mértékegység | Hivatásos és szerződéses tiszti, altiszti állomány | Legénységi | Honvéd tisztjelölt | Honvéd altiszt-jelölt | Önkéntes Tartalékos | Megjegyzés |
 
-| 118 | Hosszú ujjú ingblúz | db | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 | Katonai szervezet készletéből természetbeni ellátás keretében | Katonai Ruházati Ellátó Ponton keresztül, ruházati illetmény terhére | Önkéntes Műveleti Tartalékos | Önkéntes Terület-védelmi Tartalékos | Önkéntes Védelmi Tartalékos | Önkéntes Katonai Szolgálat |
 
-| 119 | Hosszú ujjú világoskék ingblúz | db |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 3 | 15M gyakorló sapka | db | 1 |  | 1 | 1 | 1 |  |  |  | 1 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 120 | Hosszú ujjú női ingblúz | db |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4 | 15M gyakorló kalap | db | 1 |  | 1 | 1 | 1 |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 121 | Hosszú ujjú világoskék női ingblúz | db |  |  |  |  |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5 | Sisaksapka | db | 1 |  | 1 | 1 | 1 |  | 1 |  | 1 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 122 | Fekete zokni (1) | pár | 1 |  | 1 |  | 3 |  | 3 |  | 3 |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 6 | 15M gyakorló sisakborító | db | 1 |  | 1 | 1 | 1 |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 123 | Félcipő | pár | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 7 | Nedvszívó kendő (porvédő sál) | db |  | 1 | 1 | 1 | 1 |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 124 | Fekete félcipő (1) | pár | 1 |  | 1 |  | 2 |  | 2 |  | 2 |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 8 | 15M gyakorló téli fejvédő | db |  | 1 | 1 | 1 | 1 |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 125 | Női cipő | pár |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 9 | 15M kiképzési / műveleti zubbony | db | 2 | 2 | 4 | 2 | 2 |  |  |  | 2 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 126 | Fekete női cipő (1) | pár |  | 1 |  | 1 |  | 2 |  | 2 |  | 2 |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 10 | 15M kiképzési / műveleti nadrág | db | 2 | 2 | 4 | 2 | 2 |  |  |  | 2 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 127 | Gyakorló pulóver | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 11 | 15M gyakorló esővédő kabát | db | 1 |  | 1 | 1 | 1 |  |  |  | 1 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 128 | Sötétkék gyakorló pulóver | db |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 12 | 15M gyakorló polárpulóver | db | 1 |  | 1 | 1 | 1 |  |  |  | 1 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 129 | Bőrkesztyű | pár | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 13 | 15M gyakorló esővédő poncho | db | 1 |  | 1 |  |  |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 130 | Fekete bőrkesztyű (1) | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 14 | 15M gyakorló esővédő nadrág | db | 1 |  | 1 | 1 | 1 |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 131 | Deréköv | db | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 15 | Téli kesztyű | pár |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |
 
-| 132 | Fekete deréköv (1) | db | 1 | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 16 | Téli felső | db |  | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |  |
 
-| 133 | Köznapi paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 17 | Téli alsó | db |  | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |  |
 
-| 134 | Köznapi paroli évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 18 | 15M hosszú ujjú gyakorló harci póló | db |  | 2 | 2 |  |  |  |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 135 | Társasági paroli rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 19 | 15M gyakorló póló/gyakorló póló | db | 4 | 3 | 7 | 4 | 4 | 3 |  | 3 | 4 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 136 | Csillag | db | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20 | Gyakorló zokni | pár |  | 7 | 7 | 7 | 7 | 3 | 3 | 3 | 3 | Kiadást követően az igényjogosult tulajdonába kerül. |
 
-| 137 | Hadihajós rendfokozati jelzés | pár |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 21 | Bakancs HAIX Nepal Pro | pár | 1 | 1 | 2 | 1 | 1 |  |  |  | 1 | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 138 | Vállzsinór (2) | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 22 | Hevederöv | db |  | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |
 
-| 139 | Nyakkendőtű, kézelőgomb | db | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 23 | Bakancstisztító készlet | db |  | 1 | 1 | 1 | 1 |  |  |  |  |  |
 
-| 140 | Állományt kifejező jelvény | db | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 24 | Varrókészlet | db |  | 1 | 1 | 1 | 1 |  |  |  |  |  |
 
-| 141 | Névkitűző | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  | 2 | 2 |  |  |  |  |
+| 25 | Elemlámpa | db |  | 1 | 1 |  |  |  |  |  |  |  |
 
-| 142 | Rendfokozati jelzés posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 26 | Multifunkciós zsebkés | db |  | 1 | 1 |  |  |  |  |  |  |  |
 
-| 143 | Rendfokozati jelzés női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 27 | Hálózsák | db | 1 |  | 1 | 1 | 1 |  |  |  |  |  |
 
-| 144 | Paroli posztóköpenyre | pár | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 28 | Hálózsák lepedő | db | 2 |  | 2 | 2 | 2 |  |  |  |  |  |
 
-| 145 | Paroli női köpenyre | pár |  | 1 |  | 1 |  | 1 |  | 1 |  | 1 |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 29 | Hátizsák | db | 1 |  | 1 |  |  |  |  |  |  |  |
 
-| 146 | Végzettséget kifejező jelvény | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 30 | Kulacs evőcsészével | db | 1 |  | 1 | 1 | 1 | 1 |  |  | 1 |  |
 
-| 147 | Fegyvernemi jelvény | pár | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 31 | Evőeszköz készlet | db |  | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |
 
-| 148 | Szúrósgomb (parolihoz posztóköpenyre) | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 32 | Hímzett névfelirat tépőzáras | db | 4 |  | 4 | 4 | 4 | 2 | 2 |  | 2 |  |
 
-| 149 | Csapatkarjelzés köznapi | db | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 33 | Hímzett gyakorló rendfokozati jelzés | db | 5 |  | 5 | 5 | 5 | 2 | 2 |  | 2 |  |
 
-| 150 | Csapatjelvény | db | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 34 | Hímzett államjelző | db | 4 |  | 4 | 4 | 4 | 2 | 2 |  | 2 |  |
 
-| 151 | Hímzett köznapi évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 2 |  |  |  |  |
+| 35 | Hímzett színes nemzeti színű pajzs | db | 4 |  | 4 | 4 | 4 |  | 2 |  | 2 |  |
 
-| 152 | Hímzett köznapi rendfokozati jelzés | pár | 3 | 3 | 3 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 36 | Gyakorló csapatkarjelzés | db | 2 | 1 | 2 |  |  | 2 | 2 |  |  |  |
 
-| 153 | Hímzett sötétkék köznapi rendfokozati jelzés | pár |  |  |  |  | 3 | 3 | 3 | 3 | 3 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 37 | Különleges katonai képességet kifejező karfelirat (külön igény szerint) | db |  | 4 | 4 |  |  |  |  |  |  |  |
 
-| 154 | Hímzett társasági rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 38 | Szakcsapatot és vezetési szintet kifejező hímzett felirat | db | 2 | 2 |  |  |  | 2 |  |  |  |  |
 
-| 155 | Hímzett gyakorló évfolyamjelzés | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 39 | Bakancsápoló | tub |  | 1 | 1 | 1 | 1 |  |  |  |  |  |
 
-| 156 | Hímzett gyakorló rendfokozati jelzés | pár | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 | 90 M nyári gyakorló sapka | db |  |  |  |  |  | 1 |  | 1 |  |  |
 
-| 157 | Hallgatói díszzubbony | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |  |
+| 41 | 90 M téli gyakorló sapka | db |  |  |  |  |  | 1 |  | 1 |  |  |
 
-| 158 | Hallgatói női díszzubbony | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |  |
+| 42 | Fekete barett sapka szerelve | db |  |  |  |  |  |  | 1 |  |  |  |
 
-| 159 | Nyakgallér | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 43 | Csősál | db |  |  |  |  |  | 1 | 1 | 1 |  |  |
 
-| 160 | Évfolyamjelzés díszzubbonyra | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 44 | 90 M gyakorló zubbony | db |  |  |  |  |  | 2 |  | 2 |  |  |
 
-| 161 | Hallgatói díszcsákó szerelve | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 45 | 90 M gyakorló nadrág | db |  |  |  |  |  | 2 |  | 2 |  |  |
 
-| 162 | Nadrágtartó | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 46 | 90 M/2008 M gyakorló kabát | db |  |  |  |  |  | 1 |  | 1 |  |  |
 
-| 163 | Fehér kesztyű | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 |  |  |  |  |
+| 47 | 90 M/2008 M gyakorló kabátbélés (polárpulóver) | db |  |  |  |  |  | 1 |  | 1 |  |  |
 
-| 164 | Kék munkakötény | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 48 | 2000 M gyakorló zubbony | db |  |  |  |  |  | 2 |  | 2 |  |  |
 
-| 165 | Bakancsápoló krém fekete 75 ml. | tub | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 49 | 2000 M gyakorló nadrág | db |  |  |  |  |  | 2 |  | 2 |  |  |
 
-| 166 | Bakancsápoló spray 100 ml. | tub | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  |  | 1 | 1 | 1 |  | 1 | 1 |  | 1 | 1 |  |
+| 50 | 93 M esővédő zubbony | db |  |  |  |  |  | 1 |  | 1 |  |  |
 
-| 167 | Iskolatáska | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 51 | Szakmai sál (fegyvernemi színű) | db |  | 1 | 1 | 1 | 1 | 1 |  |  |  | Feladat függvényében az ÖT állomány részére kiadható. |
 
-| 168 | Melegítő öltöny | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 52 | Tartalékos szolgálati bakancs | pár |  |  |  |  |  | 1 | 1 | 1 |  |  |
 
-| 169 | Sportpóló | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 53 | Gyakorló paroli rendfokozati jelzés tépőzáras | pár |  |  |  |  |  | 2 |  | 2 |  |  |
 
-| 170 | Sportnadrág | db |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1 | 1 | 1 | 1 | 1 | 1 |  |
+| 54 | Önkéntes tartalékos hímzett karfelirat | db |  |  |  |  |  | 2 | 2 |  |  |  |
 
-| 171 | Sportzokni | pár |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2 | 2 | 2 | 2 | 2 | 2 |  |
+| 55 | Málhazsák | db | 1 |  | 1 |  |  | 1 | 1 |  |  |  |
 
-Megjegyzés:
+| 56 | Rohamsisak | db | 1 |  | 1 | 1 | 1 | 1 | 1 |  |  |  |
 
-(1) Általános és ejtőernyős beosztású altiszt részére nem biztosítható
+| 57 | 90 M tereptarka sisakborító | db |  |  |  |  |  | 1 |  |  |  |  |
 
-(2) Altiszt részére nem biztosítható
+| 58 | Brit gyakorló zubbony | db |  |  |  |  |  |  | 2 |  |  |  |
 
-(3) A tiszt, altiszt részére az ellátásért felelős honvédelmi szervezet a fenntartási készletéből biztosítja
+| 59 | Brit gyakorló nadrág | db |  |  |  |  |  |  | 2 |  |  |  |
 
-(4) 2008 M gyakorló kabáttal való ellátás esetén nem biztosítható
+| 60 | Brit gyakorló kabát | db |  |  |  |  |  |  | 1 |  |  |  |
 
-(5) Önkéntes tartalékos katona részére helyettesíthető cikként PVC körgallér is kiadható
+| 61 | Brit polárpulóver | db |  |  |  |  |  |  | 1 |  |  |  |
 
-(6) Helyettesíthető cikként 2008 M általános bakancs is kiadható
+| 62 | Brit gyakorló póló | db |  |  |  |  |  |  | 5 |  |  |  |
 
-[^10]: A 31. §-t a 14/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
+| 63 | Brit hosszú ujjú harci poló | db |  |  |  |  |  |  | 1 |  |  |  |
+
+1.3. Sportfelszerelés
+
+|  | A | B | C | D | E | F | G | H | I |
+
+| 1 | Megnevezés | Mértékegység | Honvéd tisztjelölt | Honvéd altiszt-jelölt | Megjegyzés |
+
+| 2 | Próbaidő alatt | Próbaidőt követően | Próbaidő alatt | Próbaidőt követően |
+
+| 3 | Ffi. | Nő | Ffi. | Nő |  |
+
+| 4 | Táska | db | 1 | 1 | 1 | 1 | 1 | 1 |  |
+
+| 5 | Melegítő öltöny | db | 1 | 1 | 1 | 1 | 1 | 1 |  |
+
+| 6 | Sportpóló | db | 1 | 1 | 1 | 1 | 1 | 1 |  |
+
+| 7 | Sportnadrág | db | 1 | 1 | 1 | 1 | 1 | 1 |  |
+
+| 8 | Sportzokni | pár | 2 | 2 | 2 | 2 | 2 | 2 | Kiadást követően az igényjogosult tulajdonába kerül. |
+
+[^57]: A 31. §-t a 14/2020. (X. 14.) HM rendelet 2. §-a iktatta be.
+[^58]: Az 1. melléklet a 27/2021. (XII. 17.) HM rendelet 16. § (1) bekezdésével megállapított szöveg.
