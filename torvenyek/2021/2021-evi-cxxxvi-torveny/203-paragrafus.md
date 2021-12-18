@@ -4,4 +4,4 @@ a) 23. § (2) bekezdés d) pontjában a „ , továbbá, ha a tevékenységet en
 
 b) 24/C. § a) pontjában a „valamint az engedélyezési eljárásra vonatkozó további szabályokat,” szövegrész,
 
-c) 24/C. § d) pontja.
+c)

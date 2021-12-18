@@ -1,3 +1,1 @@
-58. § A földgázellátásról szóló 2008. évi XL. törvény 63/B. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az engedélyes – jogszabály eltérő rendelkezése hiányában – akkor jogosult a felhasználóval vagy a szerződéskötési folyamat igénybejelentőjével a kapcsolatot elektronikusan tartani, ha azt a felhasználó vagy a szerződéskötési folyamat igénybejelentője kéri, vagy ahhoz hozzájárult. Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője az elektronikus kapcsolattartáshoz hozzájárult, az e törvényben és e törvény végrehajtására kiadott jogszabályokban a felhasználó vagy a szerződéskötési folyamat igénybejelentője és az engedélyes közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.”
+58. §

@@ -42,12 +42,4 @@ b) a belvízi hajózási szakmai képesítések tekintetében alkalmazott mintá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(5) E törvény 207. §-a, 209. §-a, 216–218. §-a és a 219. § (3) bekezdése az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
+(5)

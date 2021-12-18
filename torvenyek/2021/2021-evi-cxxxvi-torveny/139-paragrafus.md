@@ -1,3 +1,1 @@
-139. § A víziközlekedésről szóló 2000. évi XLII. törvény 31/A. §-a helyébe a következő rendelkezés lép:
-
-„31/A. § Úszólétesítményen – amennyiben jogszabály eltérően nem rendelkezik – az úszómű kivételével tizenhatodik életévét be nem töltött személy – a felügyelet melletti hajózási gyakorlat megszerzése kivételével – munkát nem végezhet. Tizennyolcadik életévét be nem töltött személy úszólétesítményen éjszakai munkát kivételesen – kiképzési célból, havária vagy más úszólétesítmény mentése esetén – végezhet.”
+139. §
