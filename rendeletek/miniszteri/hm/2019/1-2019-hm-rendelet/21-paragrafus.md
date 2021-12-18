@@ -1,3 +1,0 @@
-21. § (1) A HIKKSZ, az SMK, a műveletvezetési központok állománya, az Ágazati Információs Központ kijelölt állománya, valamint a kijelölt végrehajtó erők meghatározott munkacsoportjai laktanyán kívüli katasztrófavédelmi készenléti szolgálatot látnak el.
-
-(2) Az (1) bekezdésben meghatározott készenléti szolgálatok részleges vagy teljes aktivizálását a jogosultak az arra okot adó helyzet szakmai szempontok szerinti értékelése alapján rendelik el. A szakmai értékelés kiterjed különösen a kialakult helyzet földrajzi kiterjedésére, a fenyegetett személyek és anyagi javak körére, valamint a honvédségi közreműködés mértékére.

@@ -1,1 +1,0 @@
-## 13. § A katasztrófavédelmi tevékenység során, szükség esetén az SMK parancsnok vagy a műveletvezetési központokat működtető szervezetek vezetőinek javaslata alapján a HKR-be kijelölt végrehajtó erőkből előzetesen kialakított munkacsoportoktól eltérő végrehajtó szervezetek is kialakíthatóak, és felkészítés után alkalmazhatóak.
