@@ -2,7 +2,7 @@
 
 ## 22. A rendszerüzemeltetők által nyújtott szolgáltatások díjainak alkalmazási szabályai
 
-## 58/A. §[^148] A földgázelosztó
+## 58/A. §[^149] A földgázelosztó
 
 a) a legkisebb költség elvének megfelelően választja ki a szolgáltatás megvalósításának – ideértve a helyszín megközelítésének, az alkalmazott technológia kiválasztásának – módját, és ennek megfelelően határozza meg a szolgáltatás díját,
 
@@ -14,4 +14,4 @@ d) e rendelet keretei között kidolgozza a külön díjas szolgáltatások díj
 
 e) a külön díjas szolgáltatások elszámolásához kapcsolódó nyilvántartásokat oly módon vezeti, hogy az az egyes szolgáltatások díjainak későbbi reprodukálhatóságát és az összes szolgáltatás közti összehasonlíthatóságot lehetővé tegye.
 
-[^148]: Az 58/A. §-t a 9/2021. (VII. 26.) MEKH rendelet 3. §-a iktatta be.
+[^149]: Az 58/A. §-t a 9/2021. (VII. 26.) MEKH rendelet 3. §-a iktatta be.

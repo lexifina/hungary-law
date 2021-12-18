@@ -1,10 +1,10 @@
-29. §[^111] (1) A rendszerhasználó az átadási-átvételi pontonként lekötött kapacitás 1%-nál nagyobb mértékű túllépése esetén – átadási-átvételi pontonként – pótdíjat vagy utólagos kapacitásdíjat köteles fizetni a földgázelosztónak.
+29. §[^112] (1) A rendszerhasználó az átadási-átvételi pontonként lekötött kapacitás 1%-nál nagyobb mértékű túllépése esetén – átadási-átvételi pontonként – pótdíjat vagy utólagos kapacitásdíjat köteles fizetni a földgázelosztónak.
 
 (2) Ismételt kapacitás-túllépés esetén a kapacitás-túllépési pótdíj vagy az utólagos kapacitásdíj a túllépéssel érintett átadási-átvételi pontonként gáznaponként ismételten felszámításra kerül.
 
 (3) A rendszerhasználó az átadási-átvételi pontonként vásárolt kapacitás túllépése esetén – átadási-átvételi pontonként – pótdíjat köteles fizetni a földgázelosztónak.
 
-(4)[^112] A vásárolt kapacitás ugyanazon gázéven belüli ismételt túllépése esetén a vásárolt kapacitás túllépése miatti pótdíj az érintett átadás-átvételi pontonként a vásárolt kapacitás felett igénybe vett, és az adott gázévben korábban még nem érvényesített órai többletfogyasztás után felszámításra kerül.
+(4)[^113] A vásárolt kapacitás ugyanazon gázéven belüli ismételt túllépése esetén a vásárolt kapacitás túllépése miatti pótdíj az érintett átadás-átvételi pontonként a vásárolt kapacitás felett igénybe vett, és az adott gázévben korábban még nem érvényesített órai többletfogyasztás után felszámításra kerül.
 
 (5) A kapacitás-túllépési pótdíjat, a vásárolt kapacitás túllépése miatti pótdíjat vagy az utólagos kapacitásdíjat minden, a kapacitás-túllépéssel érintett gáznapra vonatkozóan, a kapacitás-túllépésben érintett gáznapot követő 60 napon belül a földgázelosztó köteles kiszámlázni a rendszerhasználó felé alátámasztott módon.
 
@@ -12,5 +12,5 @@
 
 (7) A pótdíjak kiszámításánál a gáznapi középhőmérséklet értéket kell alkalmazni. Ha az adott hőmérséklet-mérési helyen az adott gáznapra vonatkozóan nem áll rendelkezésre gáznapi középhőmérséklet adat, a felek az OMSZ-t kérik fel helyettesítő érték megállapítására.
 
-[^111]: A 29. § a 7/2017. (VII. 13.) MEKH rendelet 14. §-ával megállapított szöveg.
-[^112]: A 29. § (4) bekezdése a 3/2021. (IV. 14.) MEKH rendelet 7. §-ával megállapított szöveg.
+[^112]: A 29. § a 7/2017. (VII. 13.) MEKH rendelet 14. §-ával megállapított szöveg.
+[^113]: A 29. § (4) bekezdése a 3/2021. (IV. 14.) MEKH rendelet 7. §-ával megállapított szöveg.

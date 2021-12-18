@@ -8,6 +8,6 @@
 
 | … | … | … | … | … | … | … | … | … | … | … | … | … |
 
-7. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^167]
+7. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^168]
 
-[^167]: A 7. mellékletet a 3/2020. (III. 25.) MEKH rendelet 7. §-a iktatta be, hatályon kívül helyezte a 2020: CXIII. törvény 29. § d) pontja 2021. október 1. 6.00 órával.
+[^168]: A 7. mellékletet a 3/2020. (III. 25.) MEKH rendelet 7. §-a iktatta be, hatályon kívül helyezte a 2020: CXIII. törvény 29. § d) pontja 2021. október 1. 6.00 órával.

@@ -4,6 +4,6 @@
 
 ## ahol NVHF jelöli a behívott erőmű – általa előzetesen, egy tizedesjegy pontosággal, %-ban megadott, a szállítási rendszerüzemeltető és az erőmű közötti Együttműködési megállapodásban rögzített – névleges villamosenergia termelés hatásfokát.
 
-5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^165]
+5. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^166]
 
-[^165]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be, hatályon kívül helyezte a 2020: CXIII. törvény 29. § d) pontja 2021. október 1. 6.00 órával.
+[^166]: Az 5. mellékletet a 7/2017. (VII. 13.) MEKH rendelet 21. §-a iktatta be, hatályon kívül helyezte a 2020: CXIII. törvény 29. § d) pontja 2021. október 1. 6.00 órával.
