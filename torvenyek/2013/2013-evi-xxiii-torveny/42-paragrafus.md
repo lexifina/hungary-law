@@ -8,7 +8,7 @@
 
 (5) A tagi hozzájárulás visszaigénylésének, illetve levonásának jogosságát a tag az erre vonatkozó okiratok, nyilvántartások benyújtásával hitelt érdemlően köteles igazolni. A visszaigénylés és a levonás együttes összege éves szinten nem haladhatja meg a tag által befizetett tagi hozzájárulás összegét.
 
-(6) A (2)–(5) bekezdésben nem szabályozott kérdéseket a 17. § (2) bekezdés g) pontja alapján az alapszabályban kell meghatározni.
+(6) A (2)–(5) bekezdésben nem szabályozott kérdéseket a 17. § (2) bekezdés 7. pontja alapján az alapszabályban kell meghatározni.
 
 (7)
 
