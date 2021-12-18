@@ -1,0 +1,1 @@
+7. § Az Országgyűlés az STCW Egyezmény módosításait tartalmazó, a Nemzetközi Tengerészeti Szervezet Tengerészeti Biztonsági Bizottsága 2015. június 11-én elfogadott MSC.397(95) sz. határozatát [a továbbiakban: MSC.397(95) sz. határozat] e törvénnyel kihirdeti.

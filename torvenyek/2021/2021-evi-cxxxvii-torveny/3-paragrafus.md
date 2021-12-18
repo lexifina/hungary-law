@@ -1,0 +1,1 @@
+3. § Az Országgyűlés az STCW Egyezmény módosításait tartalmazó, a Nemzetközi Tengerészeti Szervezet Tengerészeti Biztonsági Bizottsága 2014. május 22-én elfogadott MSC.374(93) sz. határozatát [a továbbiakban: MSC.374(93) sz. határozat] e törvénnyel kihirdeti.
