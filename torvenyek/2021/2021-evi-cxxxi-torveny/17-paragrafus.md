@@ -5,11 +5,3 @@
 (2) Az 1–11. § és a 16. § 2022. január 1-jén lép hatályba.
 
 (3) A 14. § 2022. július 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
