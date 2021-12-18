@@ -4,9 +4,11 @@
 
 a) előkészíti a dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázatok kiírását, elbírálását, a koncessziós szerződések megkötését (módosítását, megszüntetését),
 
-b) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
+b) kezeli a koncessziós szerződéseket,
 
-c) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat, ide nem értve az azonnali beszedési megbízást.
+c) ellátja a koncessziós szerződésekből eredő számlázási feladatokat, és
+
+d) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési feladatokat.
 
 (3) A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)
 

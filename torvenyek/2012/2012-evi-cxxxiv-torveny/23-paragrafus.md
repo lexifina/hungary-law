@@ -10,6 +10,8 @@ d) a dohánytermék-kiskereskedő a Hatóság felhívása ellenére sem közli a
 
 e) a dohánytermék-kiskereskedő az e törvényben meghatározott, a tisztességes piaci verseny körülményeit biztosító értékesítési követelményeket legalább két alkalommal megszegi.
 
+f) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet engedély nélkül szünetelteti;
+
 (2) A Hatóság – e törvény eltérő rendelkezése hiányában – a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonja, ha
 
 a) a dohánytermék-kiskereskedő 1 éven belül legalább három alkalommal e törvénynek a fiatalkorúak különös védelmére vonatkozó szabályait megsértette, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
@@ -18,7 +20,7 @@ b) a dohánytermék-kiskereskedő által üzemeltetett dohányboltban a dohány�
 
 c) a dohánytermék-kiskereskedő a Hatóság hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg;
 
-d) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet az engedély kézhezvételétől számított 90 napon belül nem kezdi meg, továbbá, ha a tevékenységet engedély nélkül szünetelteti;
+d) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet az engedély kézhezvételétől számított 90 napon belül nem kezdi meg;
 
 e) a dohánytermék-kiskereskedő tevékenységét az engedélyben foglalt telephelytől eltérő helyen is folytatja – ide nem értve a 11. § (3) bekezdésében foglaltakat –;
 
