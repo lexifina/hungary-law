@@ -1,4 +1,4 @@
-92/G. § (1) Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépésétől 2023. június 30. napjáig a hulladékgazdálkodási közszolgáltatási feladatok ellátásába bevont hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését és az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez a miniszter előzetes jóváhagyása szükséges.
+92/G. § (1) Az egyes energetikai és közszolgáltatási tárgyú törvények módosításáról szóló 2021. évi LXVIII. törvény hatálybalépésétől 2023. június 30. napjáig a hulladékgazdálkodási közszolgáltatási feladatok ellátásába bevont hulladékgazdálkodási vagyonelem átruházásához, a vagyonelemek birtoklását, hasznosítását, használatát, a hasznai szedését, valamint az azzal való rendelkezést érintő szerződéses jogviszony létesítéséhez, megszüntetéséhez és módosításához a miniszter előzetes jóváhagyása szükséges.
 
 (2) Az (1) bekezdésben foglaltak nem alkalmazandók az olyan szerződéses jogviszonyokra, amelyek
 

@@ -28,6 +28,8 @@ k) az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentésér
 
 l) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek
 
+m) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) Ez a törvény
