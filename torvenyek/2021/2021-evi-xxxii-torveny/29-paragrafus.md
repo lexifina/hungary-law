@@ -15,3 +15,5 @@ c) az egyes koncessziókkal kapcsolatos nyilvántartások vezetésének részlet
 d) a Hatóság által a koncesszióköteles tevékenységek gyakorlása tekintetében lefolytatható hatósági ellenőrzés részletes szabályait,
 
 e) a koncesszióba adó és a koncesszióba vevő ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Hatóság a koncesszióköteles tevékenység gyakorlásához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti.
+
+f) a Hatóság hatáskörébe tartozó hatósági eljárásokban a közérdeken alapuló kényszerítő indok alapján valamely okirat vagy más irat bizonyítási eszközként történő kötelező alkalmazását.

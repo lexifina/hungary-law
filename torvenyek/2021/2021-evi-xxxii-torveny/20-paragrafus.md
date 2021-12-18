@@ -36,8 +36,8 @@ a támogatására fordítható.
 
 (5) A tárgyévben a (4) bekezdés szerint rendelkezésre álló, de fel nem használt összeg a következő évre átvihető és azonos célokra felhasználható.
 
-(6) A Hatóság kérelemre indult eljárásáért, továbbá a Hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért – jogszabály eltérő rendelkezése hiányában – igazgatási szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási szolgáltatási díjat nem kell visszatéríteni.
+(6) A Hatóság kérelemre indult eljárásáért, továbbá a Hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért – Hatóság elnöke által kiadott rendelet eltérő rendelkezése hiányában – igazgatási szolgáltatási díjat kell fizetni. Az engedély iránti kérelemre indult eljárásokban az eljárás megszüntetése vagy a kérelem elutasítása esetén az igazgatási szolgáltatási díjat nem kell visszatéríteni.
 
-(7) Törvényben, törvény felhatalmazása alapján kiadott jogszabályban megállapított, a Hatóságnak fizetendő igazgatási szolgáltatási, felügyeleti díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
+(7) Törvényben, a Hatóság elnökének rendeletében megállapított, a Hatóságnak fizetendő igazgatási szolgáltatási, felügyeleti díj és annak késedelmi kamata köztartozásnak minősül, és adók módjára kell behajtani.
 
 (8) A (2) bekezdés a)–c) pontja szerinti bevételek 9%-a a központi költségvetést illeti meg. A központi költségvetésről szóló törvény ennél alacsonyabb mértéket határozhat meg.
