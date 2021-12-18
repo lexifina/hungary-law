@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2021-07-01 | 2020. évi CXXI. törvény | 1999-84-00-00.76 |
 | 2021-08-02 | 2020. évi CXXI. törvény | 1999-84-00-00.77 |
 | 2021-10-19 | 2021. évi LIX. törvény | 1999-84-00-00.78 |
+| 2021-12-18 | 2021. évi CXXXVI. törvény | 1999-84-00-00.79 |
