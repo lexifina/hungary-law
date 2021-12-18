@@ -32,7 +32,7 @@ f) negyedévenként rendszeresen vagy eseti felhívásra tájékoztatja az energ
 
 g) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti a távhőszolgáltató működési területén a felhasználói elégedettségi szint, továbbá a távhőszolgáltatóval szembeni elvárás, valamint a távhőszolgáltatás jellemzőinek felmérését.
 
-(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben, valamint a Hivatal egyéb határozatában foglalt előírások és követelmények megtartását, azok megszegése esetén az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
+(2) A Hivatal ellenőrzi és felügyeli az engedélyesnél, a távhőszolgáltatónak távhőt értékesítőnél (a továbbiakban: értékesítő), a külön kezelt intézménynél, a befolyásszerzőnél és az egyedi szerződés alapján termelőnél a jogszabályban, engedélyes esetén az engedélyben, valamint a Hivatal egyéb határozatában foglalt előírások és követelmények megtartását, azok megszegése esetén, valamint engedélyköteles tevékenység engedély nélkül történő végzése esetében az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott összegű bírság alkalmazását rendelheti el.
 
 (2a) Bírság kiszabása esetén a Hatóság – a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontokon túl – mérlegeli a jogsértő állapot megszüntetése érdekében tett, a Hivatal eljárását megelőző, attól független tevékenységet.
 
