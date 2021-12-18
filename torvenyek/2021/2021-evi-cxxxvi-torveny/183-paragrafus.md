@@ -1,0 +1,3 @@
+183. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 32. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az országos, regionális, elővárosi vagy helyi személyszállítási közszolgáltatást végző közlekedési szolgáltató köteles más közlekedési szolgáltató által vagy egyéb értékesítési helyen értékesített, a szolgáltató járataira szóló jegyet, bérletet, valamint összekapcsolt és integrált díjterméket elfogadni, továbbá más közlekedési szolgáltatóval a bevételek megosztásáról, elszámolásáról, a szociálpolitikai menetdíj támogatás igénylésével kapcsolatos feladatokról, és az ellentételezés részletes szabályairól írásban megállapodni.”

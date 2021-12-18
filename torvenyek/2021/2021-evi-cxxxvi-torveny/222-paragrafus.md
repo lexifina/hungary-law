@@ -1,0 +1,3 @@
+222. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 14. alcíme a következő 34/C. §-sal egészül ki:
+
+„34/C. § E törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel megállapított 1. § (1) bekezdés e) és f) pontját, és 13. § t) pontját e rendelkezések hatálybalépését követően a Hatóság elnökének a poszt-kvantumtitkosítás alkalmazást nyújtó szervezet nyilvántartásba vételére vonatkozó részletes szabályokat tartalmazó rendelete hatálybalépését követő 60. naptól kötelesek alkalmazni a poszt-kvantumtitkosítás alkalmazásra kötelezett szervek.”

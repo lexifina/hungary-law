@@ -1,0 +1,5 @@
+19. § A bányászatról szóló 1993. évi XLVIII. törvény 42. §-a a következő (6) és (7) bekezdéssel egészül ki:
+
+„(6) Az építőipari nyers- és alapanyag kitermelésének befejezésekor a bányabezárásra kidolgozott műszaki üzemi terv elbírálása során a bányafelügyelet megkeresi a magyar állam tulajdonosi jogait gyakorló szervet azzal, hogy igénybejelentés esetén a megkeresés közlésétől számított 35 napon belül a bányászati jog jogosultjával megkötött, bányászati jog átruházásáról szóló megállapodást küldje meg. A megkereséssel egyidejűleg a bányafelügyelet a bányabezárásra vonatkozó műszaki üzemi terv jóváhagyására irányuló eljárást a bányászati jog átruházása tárgyában létrejött megállapodás megküldéséig, de legfeljebb az igénybejelentés megtételére nyitva álló határidő leteltéig felfüggeszti.
+
+(7) Ha az átadó és a magyar állam tulajdonosi jogait gyakorló szerv között a megkeresés közlésétől számított 35 napon belül nem jön létre megállapodás az átruházás feltételeire vonatkozóan, a magyar állam tulajdonosi jogait gyakorló szerv jogosult a határidő leteltétől számított 30 napon belül bírósághoz fordulni a bányászati jog jogosultja jognyilatkozata pótlása céljából.”

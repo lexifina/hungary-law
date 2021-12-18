@@ -1,0 +1,3 @@
+138. § A víziközlekedésről szóló 2000. évi XLII. törvény 26/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hajózási képesítésekről szóló miniszteri rendeletben és a hivatásos hajós képesítésekről szóló miniszteri rendeletben meghatározott vizsgát – jogszabály eltérő rendelkezése hiányában – a vizsgaközpont vizsgaszabályzata szerint kell lefolytatni. A vizsgáztatás során vizsgabiztosként csak olyan személy vehet részt, akinek a tevékenységét a hajózási hatóság engedélyezte, büntetlen előéletű, és nem áll vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.”

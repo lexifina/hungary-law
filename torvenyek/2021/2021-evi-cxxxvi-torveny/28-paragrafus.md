@@ -1,0 +1,1 @@
+28. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66. § (4) bekezdésében az „utak, valamint” szövegrész helyébe az „utak, a Magyar Energetikai és Közmű-szabályozási Hivatal által jóváhagyott hálózatfejlesztési tervben szereplő, új közcélú átviteli hálózati távvezeték, valamint” szöveg lép.

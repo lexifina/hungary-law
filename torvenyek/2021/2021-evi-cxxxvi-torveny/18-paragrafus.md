@@ -1,0 +1,3 @@
+18. § A bányászatról szóló 1993. évi XLVIII. törvény 41. § (3c) bekezdése helyébe a következő rendelkezés lép:
+
+„(3c) Ha a bányavállalkozó a kitermelést engedély nélkül szüneteltette, a bányafelügyelet a bányavállalkozót az engedély nélküli szüneteltetés időtartamára a 30. § (3) bekezdése alapján számított díj megfizetésére kötelezi. Ha a bányavállalkozó a 30. § (7) bekezdése szerinti szünetelés időtartamára az elmaradt bányajáradék pótlására vonatkozó díj megfizetését nem teljesítette, a bányafelügyelet a bányavállalkozót a szünetelés időtartamára vonatkozó, elmaradt bányajáradék pótlására vonatkozó díj megfizetésére kötelezi.”

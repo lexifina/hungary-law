@@ -1,0 +1,3 @@
+111. § A közúti közlekedésről szóló 1988. évi I. törvény 32. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak kivételével – az országos közúthálózat vagyonkezelési feladatainak ellátásáért felelős gazdasági társaság vagy szerv (a továbbiakban: a közútkezelő gazdasági társaság), amelyet a Kormány az e törvény végrehajtására kiadott rendeletében jelöl ki. A közútkezelő gazdasági társaság vagyonkezelői feladatokat – ideértve a vagyonkezelésében álló vagyonelemek hasznosítását is – állami feladatként, közfeladatként látja el.”
