@@ -1,0 +1,3 @@
+## 7. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek tisztjelöltjeiről és a tisztjelölti szolgálati jogviszonyról szóló 20/2016. (VI. 9.) BM rendelet 12. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Az (1) bekezdéstől eltérően az (1) bekezdés a) pontja szerinti szakmai gyakorlatot a rendőrség tisztjelöltje az őt ösztöndíjszerződéssel foglalkoztató rendvédelmi szerven kívül más rendőrségi szervnél is teljesítheti. Ebben az esetben a (2) bekezdéstől eltérően a szakmai gyakorlat során a tisztjelölt a szakmai gyakorlatot biztosító rendvédelmi szerv szolgálati szabályzata szerint köteles a szolgálatteljesítésre.”
