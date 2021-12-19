@@ -1,3 +1,1 @@
-175. § A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 6/M. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások kapcsán az építtető az előkészítés fázisában az egységes elektronikus közműnyilvántartás adatszolgáltatását veszi igénybe, valamint a kiváltásra vagy kiépítésre kerülő közművek terveit elkészítteti. Az építtető a kiváltásra vagy kiépítésre kerülő közművek terveit a közműszolgáltatóval is elkészíttetheti.”
+175. §

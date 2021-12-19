@@ -1,3 +1,1 @@
-38. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 63. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A villamosenergia-kereskedő – jogszabály eltérő rendelkezése hiányában – akkor jogosult a felhasználóval vagy a szerződéskötési folyamat igénybejelentőjével a kapcsolatot elektronikusan tartani, ha azt a felhasználó vagy a szerződéskötési folyamat igénybejelentője kéri, vagy ahhoz hozzájárult. Ha a felhasználó vagy a szerződéskötési folyamat igénybejelentője az elektronikus kapcsolattartáshoz hozzájárult, az e törvényben és az e törvény végrehajtására kiadott jogszabályokban a felhasználó vagy a szerződéskötési folyamat igénybejelentője és a villamosenergia-kereskedő közötti kapcsolattartásra előírt írásbeliség kötelezettsége elektronikus úton is teljesíthető.”
+38. §
