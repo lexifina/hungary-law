@@ -1,3 +1,3 @@
-## 4. § Az R. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 4. §[^5]
 
-## „(3) A szolgálati viszony megszűnését követően állományba visszavett hivatásos és szerződéses tiszt, altiszt alapfelszerelési ruházati illetményre a visszavétel napjától – próbaidő kikötése esetén annak leteltét követően – jogosult.”
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

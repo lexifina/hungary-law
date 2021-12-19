@@ -1,3 +1,3 @@
-## 7. § Az R. 9. §-a a következő (3) bekezdéssel egészül ki:
+## 7. §[^8]
 
-## „(3) Az (1) bekezdés szerinti időtartamokra arányosított ruházati illetmény összegével az utánpótlási ruházati illetményt csökkenteni kell.”
+[^8]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

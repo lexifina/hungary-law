@@ -1,3 +1,3 @@
-## „cd) köteles a ruházati utalványfüzet elvesztését és az előtalálását haladéktalanul bejelenteni, és
+## 2. §[^3]
 
-## ce) köteles az érvényességi időt vesztett, vagy a keretmaradvánnyal nem rendelkező ruházati utalványfüzetet a ruházati szakterület részére leadni.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
