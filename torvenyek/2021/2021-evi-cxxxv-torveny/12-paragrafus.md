@@ -1,3 +1,1 @@
-12. § Az államháztartásról szóló 2011. évi CXCV. törvény 73. alcíme a következő 111/J. §-sal egészül ki:
-
-„111/J. § Az államháztartás központi alrendszerébe tartozó költségvetési szerv – a polgári nemzetbiztonsági szolgálatok és Katonai Nemzetbiztonsági Szolgálat kivételével – a tárgyévre és tárgyévet követő költségvetési évre vagy költségvetési évekre vállalt kötelezettségeire, más fizetési kötelezettségeire és követeléseire vonatkozó adataira, a Kormány rendeletében meghatározott tételes adatszolgáltatást első alkalommal 2023. január 1-jétől köteles teljesíteni, a 2022. évben az adatszolgáltatást együttes összegmeghatározással, nem tételes (aggregált) módon is teljesítheti.”
+12. §
