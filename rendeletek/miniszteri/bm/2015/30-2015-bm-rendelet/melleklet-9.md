@@ -14,4 +14,4 @@
 
 9. melléklet a 30/2015. (VI. 16.) BM rendelethez[^37]
 
-[^37]: A 9. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^37]: A 9. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (1) bekezdésével megállapított, a 45/2021. (XII. 16.) BM rendelet 6. §-a szerint módosított szöveg.
