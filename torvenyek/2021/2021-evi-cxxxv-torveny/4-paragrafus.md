@@ -1,0 +1,7 @@
+4. § (1) A mozgóképről szóló 2004. évi II. törvény 31/F. § (1a) bekezdése helyébe a következő rendelkezés lép:
+
+„(1a) Az (1) bekezdés b) pont ba) alpontja szerinti, nem belföldi magánszemély javára teljesített olyan javadalmazások esetén, amelyek az Szja tv., vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerinti adó- vagy közteher-kötelezettség alá eső filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás formájában merülnek fel, magánszemélyenként hárommillió forintig a javadalmazás 100%-a számolható el közvetlen magyar filmgyártási költségként. Ennél nagyobb összegű javadalmazás esetén közvetlen magyar filmgyártási költségként a javadalmazás hárommillió forint feletti részének 50%-a számolható el.”
+
+(2) A mozgóképről szóló 2004. évi II. törvény 31/F. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A költségellenőrzési eljárás során a 2. § 35. pontja szerinti magyarországi életvitelszerű tartózkodást a filmelőállító vagy filmgyártó vállalkozás magyar állampolgár esetében a magánszemély erre vonatkozó nyilatkozatával vagy a legalább hároméves belföldi tartózkodást alátámasztó lakcímet igazoló hatósági igazolvány másolatával, EGT-állampolgár (kivéve a magyar állampolgár), illetve családtagja esetében a regisztrációs igazolás vagy az állandó tartózkodási kártya másolatával, harmadik országbeli állampolgár esetében az EK vagy nemzeti letelepedési engedély másolatával igazolja.”
