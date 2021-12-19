@@ -1,4 +1,4 @@
-## 17. § Ha a tisztjelölt a szakmai gyakorlatát a lakóhelyén vagy tartózkodási helyén kívüli olyan településen tölti, ahonnan a mindennapi hazautazása nem megoldható, részére a rendvédelmi szerv a szakmai gyakorlat idejére térítésmentes elhelyezést biztosít.
+## 17. §[^9] Ha a tisztjelölt a szakmai gyakorlatát a lakóhelyén vagy tartózkodási helyén kívüli olyan településen tölti, ahonnan a mindennapi hazautazása nem megoldható, részére a rendvédelmi szerv vagy a rendőrség tisztjelöltje esetében a szakmai gyakorlatot biztosító rendvédelmi szerv a szakmai gyakorlat idejére térítésmentes elhelyezést biztosít.
 
 ## 6. Élelmezés
 
@@ -9,3 +9,5 @@
 (3) Ha a 16. § (2) vagy (3) bekezdése szerint a tisztjelölt kollégiumi elhelyezésben részesül, részére a (2) bekezdés szerinti térítésmentes ebéd valamennyi naptári napon jár. Ebben az esetben a tisztjelölt részére, kérelmére az NKE térítési díj ellenében reggelit és vacsorát biztosíthat.
 
 (4) A legalább hat óra időtartamban ügyeleti szolgálatot ellátó tisztjelölt részére a szolgálat ideje alatt az (1) bekezdés szerinti természetbeni ellátás jár.
+
+[^9]: A 17. § a 45/2021. (XII. 16.) BM rendelet 10. § a) pontja szerint módosított szöveg.

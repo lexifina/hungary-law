@@ -16,7 +16,7 @@
 
 | 6 | Zokni | pár | 2 |
 
-4. melléklet a 20/2016. (VI. 9.) BM rendelethez[^13]
+4. melléklet a 20/2016. (VI. 9.) BM rendelethez[^20]
 
 ## A tisztjelölt ösztöndíja
 
@@ -74,4 +74,4 @@
 
 5.1. katasztrófavédelmi feladatokra történő alkalmazás pótléka naponta: 5,80
 
-[^13]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 31/2021. (IX. 8.) BM rendelet 4. §-a iktatta be.
+[^20]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 31/2021. (IX. 8.) BM rendelet 4. §-a iktatta be.

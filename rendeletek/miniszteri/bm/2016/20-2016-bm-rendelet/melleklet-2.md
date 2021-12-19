@@ -1,6 +1,6 @@
 ## A tisztjelölt kényszerítő eszközzel, egyéni védőeszközzel és egyéni védőfelszereléssel való ellátásának cikkösszetétele
 
-## I. Az általános rendőrségi feladatok ellátására létrehozott szerv tisztjelöltje esetében
+## I.[^18] Az általános rendőrségi feladatok ellátására létrehozott szerv, valamint az idegenrendészeti szerv tisztjelöltje esetében
 
 ## a) alegységkészletként kell biztosítani:
 
@@ -44,7 +44,7 @@
 
 ## 7. Komplett légzőkészülék
 
-2. melléklet a 20/2016. (VI. 9.) BM rendelethez[^12]
+2. melléklet a 20/2016. (VI. 9.) BM rendelethez[^19]
 
 ## A tisztjelölt egyenruházati ellátásának összetétele
 
@@ -54,7 +54,7 @@
 
 | 1 | Termékmegnevezés | Mennyiségi egység | Mennyiség | Termékmegnevezés | Mennyiségi egység | Mennyiség |
 
-| 2 | az általános rendőrségi feladatok ellátására létrehozott szerv tisztjelöltje | a hivatásos katasztrófavédelmi szerv tisztjelöltje |
+| 2 | az általános rendőrségi feladatok ellátására létrehozott szerv, valamint az idegenrendészeti szerv tisztjelöltje | a hivatásos katasztrófavédelmi szerv tisztjelöltje |
 
 | 3 | 14M e. r. gyakorló bakancs | pár | 1 | 14M e. r. gyakorló bakancs | pár | 1 |
 
@@ -96,7 +96,7 @@
 
 | 1 | Termékmegnevezés | Mennyiségi egység | Mennyiség | Termékmegnevezés | Mennyiségi egység | Mennyiség |
 
-| 2 | az általános rendőrségi feladatok ellátására létrehozott szerv tisztjelöltje | a hivatásos katasztrófavédelmi szerv tisztjelöltje |
+| 2 | az általános rendőrségi feladatok ellátására létrehozott szerv, valamint az idegenrendészeti szerv tisztjelöltje | a hivatásos katasztrófavédelmi szerv tisztjelöltje |
 
 | 3 | 12M e. r. szolgálati félcipő | pár | 1 | 12M e. r. szolgálati félcipő | pár | 1 |
 
@@ -142,7 +142,7 @@
 
 | 1 | Termékmegnevezés | Mennyiségi egység | Mennyiség | Termékmegnevezés | Mennyiségi egység | Mennyiség |
 
-| 2 | az általános rendőrségi feladatok ellátására létrehozott szerv tisztjelöltje | a hivatásos katasztrófavédelmi szerv tisztjelöltje |
+| 2 | az általános rendőrségi feladatok ellátására létrehozott szerv, valamint az idegenrendészeti szerv tisztjelöltje | a hivatásos katasztrófavédelmi szerv tisztjelöltje |
 
 | 3 | 10M e. r. gyakorló nadrág, könnyített | db | 1 | 10M e. r. gyakorló nadrág, könnyített | db | 1 |
 
@@ -158,4 +158,5 @@ b) A **-gal megjelölt alsóruházati költségtérítés téli ing, téli alsó
 
 c) A ***-gal megjelölt terméket alegységkészletként kell biztosítani.
 
-[^12]: A 2. melléklet a 31/2021. (IX. 8.) BM rendelet 3. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet I. pont nyitó szövegrésze a 45/2021. (XII. 16.) BM rendelet 10. § c) pontja szerint módosított szöveg.
+[^19]: A 2. melléklet a 31/2021. (IX. 8.) BM rendelet 3. §-a, a 45/2021. (XII. 16.) BM rendelet 10. § d)–f) pontja szerint módosított szöveg.

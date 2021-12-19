@@ -1,4 +1,4 @@
-## 28. § A tisztjelöltet a 12. § (1) bekezdése szerinti, a rendvédelmi szervnél teljesített szolgálat során felmerült, igazolt költségei után költségtérítés illeti meg. A felmerült költséget a tisztjelölt a rendvédelmi szerv nevére kiállított számlával köteles igazolni.
+## 28. §[^11] A tisztjelöltet a 12. § (1) bekezdése szerinti, a rendvédelmi szervnél teljesített vagy a rendőrség tisztjelöltje esetében a szakmai gyakorlatot biztosító rendőrségi szervnél teljesített szolgálat során felmerült, igazolt költségei után költségtérítés illeti meg. A felmerült költséget a tisztjelölt a rendvédelmi szerv nevére kiállított számlával köteles igazolni.
 
 ## 10. Szociális juttatások
 
@@ -19,3 +19,5 @@ e) kegyeleti gondoskodásra
 (2) A tisztjelölt szociális segély iránti kérelméről az országos parancsnok dönt. A szociális támogatás mértéke nem haladhatja meg a rendvédelmi illetményalap 250%-ának megfelelő összeget.
 
 (3) A tisztjelölt temetési segély iránti kérelméről az országos parancsnok dönt. A temetési segély mértéke nem haladhatja meg a rendvédelmi illetményalap 150%-ának megfelelő összeget.
+
+[^11]: A 28. § a 45/2021. (XII. 16.) BM rendelet 10. § b) pontja szerint módosított szöveg.
