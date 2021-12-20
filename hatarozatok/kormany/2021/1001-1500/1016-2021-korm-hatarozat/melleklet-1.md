@@ -1,4 +1,4 @@
-## 1. egyetért a Zalaegerszegi Szakképzési Centrum egyes intézményeinek 21. századi elvárásoknak megfelelő fejlesztésének (a továbbiakban: Beruházás) koncepciójával és a Beruházás annak megfelelő, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével az ingatlan-nyilvántartás szerinti Zalaegerszeg belterület 4875 és 5028 helyrajzi számú ingatlanokon;
+## 1.[^1] egyetért a Zalaegerszegi Szakképzési Centrum egyes intézményeinek 21. századi elvárásoknak megfelelő fejlesztésének (a továbbiakban: Beruházás) koncepciójával és a Beruházás annak megfelelő előkészítésével az ingatlan-nyilvántartás szerinti Zalaegerszeg belterület 4875 és 5028 helyrajzi számú ingatlanokon;
 
 ## 2. a Beruházás előkészítésének kormányzati felelőseként az innovációért és technológiáért felelős minisztert jelöli ki;
 
@@ -8,7 +8,7 @@
 
 ## a) előkészítője a Zalaegerszegi Szakképzési Centrum,
 
-## b) megvalósítója a Beruházási Ügynökség legyen;
+## b)[^2]
 
 ## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházás 3. pont szerinti előkészítési fázisainak finanszírozása érdekében összesen 200 100 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 8. Szakképzési Centrumok cím javára, az 1. melléklet szerint;
 
@@ -26,13 +26,7 @@
 
 ## Határidő: 2022. március 31.
 
-## 6. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének, továbbá az innovációért és technológiáért felelős miniszter közreműködésével az üzemeltetési költségek, valamint a Beruházás során létrejövő vagyonelemek tulajdonviszonyaira, vagyonkezelőjére, üzemeltetőjére, illetve használójára vonatkozó javaslat bemutatásával.
-
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
+## 6.[^3]
 
 1. melléklet az 1016/2021. (I. 28.) Korm. határozathoz
 
@@ -87,3 +81,7 @@
 | 200 100 000 | 200 100 000 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont az 1933/2021. (XII. 20.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 4. pont b) alpontját az 1933/2021. (XII. 20.) Korm. határozat 3. pont a) alpontja visszavonta.
+[^3]: A 6. pontot az 1933/2021. (XII. 20.) Korm. határozat 3. pont b) alpontja visszavonta.
