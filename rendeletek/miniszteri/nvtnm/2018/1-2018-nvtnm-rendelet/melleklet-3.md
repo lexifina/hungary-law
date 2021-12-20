@@ -156,7 +156,7 @@
 
 | 4. | „KAÁLI” Ambuláns Nőgyógyászati Intézet Korlátolt Felelősségű Társaság | 01-09-160446 | 2022. december 31. |
 
-| 5. | KAÁLI REK Reprodukciós Központ Korlátolt Felelősségű Társaság | 06-09-021732 | 2022. december 31. |
+| 5. |  |  |  |
 
 | 6. | Pannon Reprodukciós Intézet Egészségügyi és Szolgáltató Korlátolt Felelősségű Társaság | 19-09-505155 | 2022. december 31. |
 
