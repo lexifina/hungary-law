@@ -1,3 +1,3 @@
-## 8. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek tisztjelöltjeiről és a tisztjelölti szolgálati jogviszonyról szóló 20/2016. (VI. 9.) BM rendelet 14. §-a a következő (3) bekezdéssel egészül ki:
+## 8. §[^9]
 
-## „(3) Az idegenrendészeti szerv a költségek megtérítése mellett megállapodást köthet az általános rendőrségi feladatok ellátására létrehozott szervvel arról, hogy az idegenrendészeti szerv tisztjelöltje tekintetében az 1. melléklet I. pontjában meghatározott kényszerítő eszközt, egyéni védőeszközt és egyéni védőfelszerelést a képzés idejére az általános rendőrségi feladatok ellátására létrehozott szerv biztosítja.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
