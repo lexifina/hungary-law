@@ -26,17 +26,9 @@ Határidő: a 2. pont szerint megkötendő megállapodásban, illetve szerződé
 
 a) a Vérke-patak rekonstrukciós program előkészítésére összesen 30 000 000 forint forrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára,
 
-b) a Vérke-patak és Szipa-főcsatorna rekonstrukciójára összesen 613 558 266 forint forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára,
+b)[^1] a Vérke-patak rekonstrukciójára összesen 613 558 266 forint forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára,
 
-c) a Vérke-patak és Szipa-főcsatorna rekonstrukciójára 2022. évben összesen 592 840 900 forint forrás biztosításáról a 2022. évi központi költségvetés tervezésekor a XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára;
-
-Felelős: pénzügyminiszter
-
-Határidő: az a) alpont tekintetében azonnal
-
-a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
-
-a c) alpont tekintetében a 2022. évi költségvetés tervezése során
+c)[^2] a Vérke-patak rekonstrukciójára 2022. évben összesen 592 840 900 forint forrás biztosításáról a 2022. évi központi költségvetés végrehajtásakor a XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára;
 
 6. felhívja a külgazdasági és külügyminisztert, hogy a Vérke-patak rehabilitációjával kapcsolatos fejlesztések eredményeinek hosszú távú fenntarthatósága érdekében gondoskodjon Beregszász város víziközmű-szolgáltatása stabilizálásának a támogatásáról;
 
@@ -55,3 +47,6 @@ Határidő: azonnal
 Felelős külgazdasági és külügyminiszter
 
 Határidő: folyamatos
+
+[^1]: Az 5. pont b) alpontja az 1934/2021. (XII. 20.) Korm. határozattal megállapított szöveg.
+[^2]: Az 5. pont c) alpontja az 1934/2021. (XII. 20.) Korm. határozattal megállapított szöveg.
