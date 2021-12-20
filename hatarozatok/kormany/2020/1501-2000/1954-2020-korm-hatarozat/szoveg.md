@@ -27,3 +27,16 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 pénzügyminiszter
 
 Határidő: a 2022. évi központi költségvetés tervezése során
+
+7.[^1] egyetért a Beruházás megvalósításához kapcsolódó, az annak rendeltetésszerű használatához szükséges ingóságok Beruházási Ügynökség általi beszerzésével;
+
+8.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával a 7. ponti szerinti feladat végrehajtása érdekében gondoskodjon 243 294 748 forint rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 4. A Beruházási Ügynökség tevékenységéhez kapcsolódó egyéb kiadások alcímen.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+pénzügyminiszter
+
+Határidő: a felmerülés ütemében
+
+[^1]: A 7. pontot az 1928/2021. (XII. 20.) Korm. határozat iktatta be.
+[^2]: A 8. pontot az 1928/2021. (XII. 20.) Korm. határozat iktatta be.
