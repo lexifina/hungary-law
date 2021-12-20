@@ -1,0 +1,73 @@
+## 1. A Kormány
+
+## a) kiemelt nemzetközi sportrendezvénnyé nyilvánítja a 2022. évi Giro d'Italia országúti kerékpáros körverseny első három szakaszának (a továbbiakban: Kerékpáros körverseny) és kapcsolódó eseményeinek 2022. május 4–8. közötti magyarországi megrendezését,
+
+## b) egyetért azzal, hogy a Kerékpáros körverseny szervezője a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaság (cégjegyzékszáma: 01-09-335203, székhelye: 1027 Budapest, Horvát utca 14–26. 8. em. 836.) (a továbbiakban: Nemzeti Sportügynökség Nonprofit Kft.) legyen,
+
+## c) a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 7.45. pontja szerinti mértéket 45 250 000 forintban határozza meg,
+
+## d) felhívja az aktív Magyarországért felelős kormánybiztost, hogy a Nemzeti Sportügynökség Nonprofit Kft. bevonásával jelölje ki a Kerékpáros körverseny magyarországi eseményeinek idejére – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 36. § (8) bekezdés b) pont bf) alpontja alapján – az autóbusz-forgalmi sáv használatára jogosult járműveket, és adja ki részükre az 1. melléklet szerinti igazolást és megjelölésre szolgáló jelzést.
+
+## Felelős: aktív Magyarországért felelős kormánybiztos
+
+## Határidő: 2022. május 4. és 2022. május 8. között folyamatosan
+
+## 2. Az 1. pont d) alpontja szerinti jelzést, annak a járművön történő rögzítési módját, valamint a jelzés használatára jogosító igazolás tartalmát és a használat ellenőrzését az 1. melléklet tartalmazza.
+
+1. melléklet az 1919/2021. (XII. 20.) Korm. határozathoz
+
+A 2022. évi Giro d’Italia országúti kerékpáros körverseny járműveinek megjelölésére
+
+szolgáló jelzés, annak a járművön történő rögzítési módja, a jelzés viselésére jogosító igazolás tartalma és használatának ellenőrzése
+
+1. A kijelölt járművek megjelölésére szolgáló jelzést az 1. ábra tartalmazza.
+
+1.1. Kivitel: öntapadó matrica
+
+1.2. Elhelyezés: a jármű elején és a hátulján
+
+1.3. Ha a jármű első vagy hátsó szélvédőjén helyezik el:
+
+Méretek: szélesség: 10 cm
+
+magasság: 10 cm
+
+1.4. Ha a jármű egyéb részén helyezik el:
+
+Méretek: szélesség: 30 cm
+
+magasság: 20 cm
+
+| Autóbusz-forgalmi sáv használatára jogosult jármű sorszám: |
+
+1. ábra
+
+2. Az 1. pontban meghatározott jelzést a jármű első és hátsó részén úgy kell elhelyezni, hogy megfeleljen a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 97. §-ában foglalt rendelkezéseknek.
+
+3. Az 1. pontban meghatározott jelzés járműre történő felhelyezésre jogosító igazolás tartalma:
+
+„Az autóbusz-forgalmi sáv használatára jogosító igazolás”
+
+3.1 Jármű adatok:
+
+rendszám:
+
+gyártmány:
+
+típus:
+
+3.2. A forgalmi engedély száma:
+
+3.3. Az igazolás kiállításának kelte:
+
+3.4. A kiállító aláírása:
+
+3.5. A kiállító bélyegzőjének helye:
+
+3.6. Az igazolás érvényessége (év, hónap, nap):
+
+3.7. Az 1. pontban meghatározott jelzés színes lenyomata:
+
+4. Az igazolás használatának ellenőrzése:
+
+Az igazolás és az 1. pontban meghatározott jelzés használatát a közúti közlekedésről szóló 1988. évi I. törvény 44. § (2) bekezdése szerint a rendőrség ellenőrzi.
