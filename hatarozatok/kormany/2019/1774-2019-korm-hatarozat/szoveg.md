@@ -50,6 +50,15 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a felmerülés ütemében
 
+10.[^4] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 7. ponti szerinti feladat végrehajtása érdekében – a 8. pontban meghatározott összegen felül további – 154 945 847 forint többletforrás rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 4. A Beruházási Ügynökség tevékenységéhez kapcsolódó egyéb kiadások alcímen.
+
+Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+pénzügyminiszter
+
+Határidő: a felmerülés ütemében
+
 [^1]: A 7. pontot az 1616/2021. (VIII. 18.) Korm. határozat iktatta be.
 [^2]: A 8. pontot az 1616/2021. (VIII. 18.) Korm. határozat iktatta be.
 [^3]: A 9. pontot az 1616/2021. (VIII. 18.) Korm. határozat iktatta be.
+[^4]: A 10. pontot az 1930/2021. (XII. 20.) Korm. határozat iktatta be.
