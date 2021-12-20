@@ -14,8 +14,10 @@ a részesedésszerzés előkészítése tekintetében azonnal
 
 az előterjesztés készítése tekintetében a felmerülés ütemében
 
-3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket a Részesedés tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlójaként az innovációért és technológiáért felelős miniszter kijelölése érdekében.
+3.[^1] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy tegye meg a szükséges intézkedéseket a Részesedés tekintetében az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlójaként a külgazdasági és külügyminiszter kijelölése érdekében.
 
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a Részesedés megszerzését követően azonnal
+
+[^1]: A 3. pont az 1932/2021. (XII. 20.) Korm. határozattal megállapított szöveg.
