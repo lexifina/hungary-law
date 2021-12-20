@@ -2,9 +2,9 @@
 
 (2) A 2. § e) pontja 2021. december 20. napján lép hatályba.
 
-(3) A 2. § f) pontja a Jövő Nemzedék Földje Alapítvány nyilvántartásba vételének napján lép hatályba.[^8]
+(3) A 2. § f) pontja a Jövő Nemzedék Földje Alapítvány nyilvántartásba vételének napján lép hatályba.[^7]
 
-(4) A (3) bekezdés szerinti rendelkezés hatálybalépésének naptári napját az állami vagyon felügyeletéért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^9]
+(4) A (3) bekezdés szerinti rendelkezés hatálybalépésének naptári napját az állami vagyon felügyeletéért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^8]
 
-[^8]: Az 1/2021. (XI. 16.) NVTNM határozat alapján a hatálybalépés időpontja 2021. október 27.
-[^9]: Lásd az 1/2021. (XI. 16.) NVTNM határozatot.
+[^7]: Az 1/2021. (XI. 16.) NVTNM határozat alapján a hatálybalépés időpontja 2021. október 27.
+[^8]: Lásd az 1/2021. (XI. 16.) NVTNM határozatot.
