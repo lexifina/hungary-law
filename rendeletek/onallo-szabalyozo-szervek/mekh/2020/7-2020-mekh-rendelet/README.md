@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-7-20-5Z
 | --- | --- | --- |
 | 2020-08-06 | 2020-7-20-5Z.1 | 7/2020. (VIII. 5.) MEKH rendelet |
 | 2020-12-18 | 2020-7-20-5Z.2 | 16/2020. (XII. 17.) MEKH rendelet |
+| 2021-12-20 | 2020-7-20-5Z.3 | 18/2021. (XII. 17.) MEKH rendelet |
