@@ -1,0 +1,59 @@
+1. A Kormány a Zalaegerszegi Szakképzési Centrum egyes intézményeinek 21. századi elvárásoknak megfelelő fejlesztését célzó beruházás előkészítéséhez szükséges intézkedésekről szóló 1016/2021. (I. 28.) Korm. határozat [a továbbiakban: 1016/2021. (I. 28.) Korm. határozat] 1. pontja szerinti beruházás (a továbbiakban: Beruházás) előkészítésének eredményes megvalósítása érdekében
+
+a) az 1016/2021. (I. 28.) Korm. határozat 3. pontjától eltérően úgy határoz, hogy a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet [a továbbiakban: 233/2018. (XII. 6.) Korm. rendelet] 2. § (2) bekezdés a), c)–e), g), k), l), n) és o) pontja szerinti előkészítési fázisait legkésőbb 2021. december 31-ig kell megvalósítani;
+
+b) egyetért
+
+ba) a Beruházásnak a 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés p) pontja szerinti előkészítési fázisa 2022. december 31-ig történő megvalósítása, és
+
+bb) a Beruházás megvalósítására irányuló feltételes közbeszerzési eljárás lefolytatása, valamint a projektmenedzsment költségek finanszírozása
+
+céljából az 1016/2021. (I. 28.) Korm. határozat 3. pontjában biztosított forráson felül további 277 638 750 forint többletforrás biztosításával;
+
+c) felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a b) pont ba) alpontjában meghatározott cél érdekében 247 123 500 forint többletforrás rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 8. Szakképzési Centrumok cím javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel;
+
+Az átcsoportosítás tekintetében
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2022. január 31.
+
+Az elszámolás és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2023. április 30.
+
+d) felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a b) pont bb) alpontjában meghatározott cél érdekében 30 515 250 forint többletforrás rendelkezésre állásáról a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 8. Szakképzési Centrumok cím javára;
+
+Felelős: pénzügyminiszter
+
+innovációért és technológiáért felelős miniszter
+
+Határidő: 2022. március 31.
+
+e) egyetért azzal, hogy a Beruházás megvalósítója a Zalaegerszegi Szakképzési Centrum legyen, az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság bevonásával az állami tulajdonban levő ÉMI Nonprofit Kft. állami építési beruházásokkal kapcsolatos egyes műszaki szolgáltatási feladatok elvégzésére vonatkozó kijelöléséről szóló 51/2016. (III. 17.) Korm. rendelet 5. § (1) bekezdés a)–b) és d) pontja szerint meghatározott feladatokra;
+
+f) felhívja az innovációért és technológiáért felelős minisztert, hogy – a Zalaegerszegi Szakképzési Centrum útján – gondoskodjon a Beruházás megvalósítására irányuló feltételes közbeszerzési eljárás kiírásáról;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2023. március 31.
+
+g) felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a forrásigény és a kifizetések ütemezésének, valamint a Beruházás során létrejövő vagyonelemek tulajdonviszonyaira és vagyonkezelőjére vonatkozó javaslat bemutatásával;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
+
+h) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdésében biztosított jogkörében eljárva úgy határoz, hogy a Beruházás előkészítése és megvalósítása során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdése szerinti feladatok ellátása alól a Beruházási Ügynökséget mentesíti.
+
+2. Az 1016/2021. (I. 28.) Korm. határozat 1. pontjában a „megfelelő, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével” szövegrész helyébe a „megfelelő előkészítésével” szöveg lép.
+
+3. A Kormány visszavonja az 1016/2021. (I. 28.) Korm. határozat
+
+a) 4. pont b) alpontját,
+
+b) 6. pontját.
