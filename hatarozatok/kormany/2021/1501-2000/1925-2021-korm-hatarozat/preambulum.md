@@ -1,0 +1,1 @@
+A Kormány a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság költségvetési gazdálkodási kereteiről rendelkező, az állami vagyonról szóló 2007. évi CVI. törvény 42/C. § (3) bekezdésében és az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (3) bekezdésében foglaltak végrehajtása érdekében
