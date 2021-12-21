@@ -1,0 +1,3 @@
+1. § (1) A távhőszolgáltatásról szóló 2005. évi XVIII. törvény 20. §-ától eltérően a Győr Megyei Jogú Város Önkormányzata tulajdonában lévő távhőtermelői és távhőszolgáltatói működési engedéllyel rendelkező gazdasági társaság a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény 4/A. § (1) bekezdése szerint a Magyar Szénhidrogén Készletező Szövetség által kezelt készletből 2022. január 8. napjáig vagy új távhőszolgáltató kijelöléséig jogosult a szükséges mértékben földgázt vételezni.
+
+(2) A Magyar Energetikai és Közmű-szabályozási Hivatal az (1) bekezdés szerinti működési engedélyeket 2022. január 8. napjáig vagy az új távhőszolgáltató kijelöléséig nem vonja vissza.
