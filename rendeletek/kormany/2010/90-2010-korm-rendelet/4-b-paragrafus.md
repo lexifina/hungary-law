@@ -1,8 +1,8 @@
-## II/B. Fejezet[^32]
+## II/B. Fejezet[^33]
 
 ## KÖZÖS HIVATALI SZERVEZET
 
-4/B. § (1)[^33] A 4/A. § (3) bekezdése szerinti közös biztonsági vezető
+4/B. § (1)[^34] A 4/A. § (3) bekezdése szerinti közös biztonsági vezető
 
 a) a miniszterelnöknek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti kormányzati igazgatási munkaszervezete,
 
@@ -24,19 +24,19 @@ d) közalkalmazotti jogviszonyban,
 
 e) bírói, igazságügyi, ügyészi szolgálati jogviszonyban,
 
-f)[^34] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban,
+f)[^35] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban,
 
-g)[^35] a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszonyban, vagy
+g)[^36] a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszonyban, vagy
 
-h)[^36] a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban
+h)[^37] a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban
 
 ## áll.
 
-(3)[^37] A 4/A. § (3) bekezdése szerinti közös titkos ügykezelő feladatait az (1) bekezdés szerinti minősített adatot kezelő szervek vonatkozásában ellátja.
+(3)[^38] A 4/A. § (3) bekezdése szerinti közös titkos ügykezelő feladatait az (1) bekezdés szerinti minősített adatot kezelő szervek vonatkozásában ellátja.
 
-[^32]: A II/B. fejezetet (4/B. §-t) a 340/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^33]: A 4/B. § (1) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^34]: A 4/B. § (2) bekezdés f) pontja a 671/2020. (XII. 28.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^35]: A 4/B. § (2) bekezdés g) pontja a 671/2020. (XII. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^36]: A 4/B. § (2) bekezdés h) pontját a 671/2020. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
-[^37]: A 4/B. § (3) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^33]: A II/B. fejezetet (4/B. §-t) a 340/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 4/B. § (1) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^35]: A 4/B. § (2) bekezdés f) pontja a 671/2020. (XII. 28.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^36]: A 4/B. § (2) bekezdés g) pontja a 671/2020. (XII. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^37]: A 4/B. § (2) bekezdés h) pontját a 671/2020. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
+[^38]: A 4/B. § (3) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 8. §-a szerint módosított szöveg.

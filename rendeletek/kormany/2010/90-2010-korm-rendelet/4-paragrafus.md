@@ -48,17 +48,17 @@ ad)[^26] telephely biztonsági tanúsítvány vagy egyszerűsített telephely bi
 
 b) kezdeményezheti a biztonsági vezető kinevezésének visszavonását;
 
-c) javasolhatja az ellenőrzött szerv vezetőjénél fegyelmi eljárás kezdeményezését, vagy
+c)[^27] javasolhatja az ellenőrzött szerv vezetőjénél fegyelmi eljárás kezdeményezését vagy a munka törvénykönyve szerinti hátrányos jogkövetkezmény alkalmazását, vagy
 
 d) javasolhatja büntető- vagy szabálysértési eljárás kezdeményezését.
 
-(4)[^27] A Nemzeti Biztonsági Felügyelet koordinálja az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), valamint az Európai Unió Tanácsa, az Európai Bizottság (a továbbiakban együtt: EU) és az Európai Atomenergia Közösség, az Európai Rendőrségi Hivatal, az Európai Igazságügyi Együttműködési Egység (a továbbiakban együtt: EU intézményei) által Magyarország területén végrehajtott, a NATO minősített adatoknak, a Nyugat-európai Unió (a továbbiakban: NYEU) minősített adatoknak, valamint az EU és az EU intézményei minősített adatainak a védelmére irányuló ellenőrzéseket. Az ellenőrzések részletes menetéről a Nemzeti Biztonsági Felügyelet tájékoztatja az ellenőrzéssel érintett külföldi minősített adatot kezelő szerv biztonsági vezetőjét.
+(4)[^28] A Nemzeti Biztonsági Felügyelet koordinálja az Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), valamint az Európai Unió Tanácsa, az Európai Bizottság (a továbbiakban együtt: EU) és az Európai Atomenergia Közösség, az Európai Rendőrségi Hivatal, az Európai Igazságügyi Együttműködési Egység (a továbbiakban együtt: EU intézményei) által Magyarország területén végrehajtott, a NATO minősített adatoknak, a Nyugat-európai Unió (a továbbiakban: NYEU) minősített adatoknak, valamint az EU és az EU intézményei minősített adatainak a védelmére irányuló ellenőrzéseket. Az ellenőrzések részletes menetéről a Nemzeti Biztonsági Felügyelet tájékoztatja az ellenőrzéssel érintett külföldi minősített adatot kezelő szerv biztonsági vezetőjét.
 
-(5)[^28] A Nemzeti Biztonsági Felügyelet hatósági ellenőrzése nem eredményezheti a titkos információgyűjtő munkára és az abban együttműködő személyekre, a titkos információgyűjtés eszközeire és módszereire vonatkozó, valamint a nemzetbiztonsági szolgálatok fedett objektumaival és kihelyezett állományával kapcsolatos adat megismerését.
+(5)[^29] A Nemzeti Biztonsági Felügyelet hatósági ellenőrzése nem eredményezheti a titkos információgyűjtő munkára és az abban együttműködő személyekre, a titkos információgyűjtés eszközeire és módszereire vonatkozó, valamint a nemzetbiztonsági szolgálatok fedett objektumaival és kihelyezett állományával kapcsolatos adat megismerését.
 
-(6)[^29] Ha a Nemzeti Biztonsági Felügyelet által hatósági ellenőrzés keretében vizsgálni kívánt irat olyan adatot is tartalmaz, amelynek megismerése a Nemzeti Biztonsági Felügyelet törvényben előírt hatósági ellenőrzésének végrehajtása érdekében elengedhetetlenül szükséges, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Nemzeti Biztonsági Felügyelet részére biztosítani.
+(6)[^30] Ha a Nemzeti Biztonsági Felügyelet által hatósági ellenőrzés keretében vizsgálni kívánt irat olyan adatot is tartalmaz, amelynek megismerése a Nemzeti Biztonsági Felügyelet törvényben előírt hatósági ellenőrzésének végrehajtása érdekében elengedhetetlenül szükséges, az irat megismerését a meg nem ismerhető adat felismerhetetlenné tételével kell a Nemzeti Biztonsági Felügyelet részére biztosítani.
 
-(7)[^30] A hatósági ellenőrzést végzők nem tekinthetnek be olyan dokumentumokba, amelyeknek megismerése a nemzetbiztonsági szolgálatok külföldi partnerszolgálatok irányában vállalt kötelezettségeit sértené.
+(7)[^31] A hatósági ellenőrzést végzők nem tekinthetnek be olyan dokumentumokba, amelyeknek megismerése a nemzetbiztonsági szolgálatok külföldi partnerszolgálatok irányában vállalt kötelezettségeit sértené.
 
 [^15]: A 4. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^16]: A 4. § (1b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
@@ -72,7 +72,8 @@ d) javasolhatja büntető- vagy szabálysértési eljárás kezdeményezését.
 [^24]: A 4. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 289. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^25]: A 4. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^26]: A 4. § (3a) bekezdés a) pont ad) alpontját a 713/2020. (XII. 30.) Korm. rendelet 23. §-a iktatta be.
-[^27]: A 4. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^28]: A 4. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^29]: A 4. § (6) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^30]: A 4. § (7) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^27]: A 4. § (3a) bekezdés c) pontja a 697/2021. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^28]: A 4. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^29]: A 4. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^30]: A 4. § (6) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^31]: A 4. § (7) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 2. § (3) bekezdése iktatta be.

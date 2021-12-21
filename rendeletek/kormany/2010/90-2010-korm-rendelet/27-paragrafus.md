@@ -1,6 +1,6 @@
 ## 18. Elektronikai jelzőrendszer
 
-27. §[^95] (1) Az elektronikai jelzőrendszer 4. kategóriájú, ha az elektronikai felületvédelmet, az elektronikai térvédelmet és az elektronikai tárgyvédelmet biztosító alkotóelemei, valamint a behatolásjelző központ a teljes körű elektronikai jelzőrendszer alkotóelemeként alkalmasak a védelem kialakítására, továbbá a helyszínen történő riasztás-jelzés közvetlenül értesíti a reagáló erőt.
+27. §[^97] (1) Az elektronikai jelzőrendszer 4. kategóriájú, ha az elektronikai felületvédelmet, az elektronikai térvédelmet és az elektronikai tárgyvédelmet biztosító alkotóelemei, valamint a behatolásjelző központ a teljes körű elektronikai jelzőrendszer alkotóelemeként alkalmasak a védelem kialakítására, továbbá a helyszínen történő riasztás-jelzés közvetlenül értesíti a reagáló erőt.
 
 (2) Az elektronikai jelzőrendszer 3. kategóriájú, ha az elektronikai felületvédelmet és az elektronikai térvédelmet biztosító alkotóelemei, valamint a behatolásjelző központ a teljes körű elektronikai jelzőrendszer alkotóelemeként alkalmasak a védelem kialakítására, továbbá a helyszínen történő riasztás-jelzés közvetlenül értesíti a reagáló erőt.
 
@@ -8,4 +8,4 @@
 
 (4) Az elektronikai jelzőrendszer 1. kategóriájú, ha az elektronikai felületvédelmet vagy az elektronikai térvédelmet biztosító alkotóelemei, valamint a behatolásjelző központ a teljes körű elektronikai jelzőrendszer alkotóelemeként alkalmasak a védelem kialakítására, továbbá a riasztás-jelzés közvetlenül értesíti a reagáló erőt.
 
-[^95]: A 27. § a 243/2016. (VIII. 17.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^97]: A 27. § a 243/2016. (VIII. 17.) Korm. rendelet 14. §-ával megállapított szöveg.
