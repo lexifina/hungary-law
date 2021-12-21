@@ -14,9 +14,9 @@ a) kiadja az önaláírt országos ellenőrző-hitelesítő tanúsítványt,
 
 b) tanúsítványt bocsát ki a (4) bekezdés szerinti dokumentumellenőrző-hitelesítő hatóság számára.
 
-(4)[^33] A nyilvántartást kezelő szerv dokumentumellenőrző-hitelesítő hatóságként (DV) biztosítja az állandó személyazonosító igazolványban elektronikusan tárolt adatok kiolvasására jogosultak ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok (IS, AT) kiállítását.
+(4)[^33] A nyilvántartást kezelő szerv dokumentumellenőrző-hitelesítő hatóságként (DV) tanúsítványt bocsát ki az állandó személyazonosító igazolványban elektronikusan tárolt adatok kiolvasására jogosultak ellenőrző eszközei számára, ennek keretében biztosítja a védett adatok kiolvasására jogosult külföldi hatóságok számára a dokumentumellenőrző-hitelesítő tanúsítvány (DV tanúsítvány), valamint a hazai hatóságok ellenőrző rendszerei számára történő ellenőrző rendszer tanúsítvány (IS tanúsítvány) kiállítását, továbbá az állandó személyazonosító igazolvány tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
 
 [^30]: Az 5. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
 [^31]: Az 5. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
 [^32]: Az 5. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
-[^33]: Az 5. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 1. pontja szerint módosított szöveg.
+[^33]: Az 5. § (4) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
