@@ -44,4 +44,6 @@ Kijelölt építési beruházások
 
 | 19. | A Budapest I. kerület belterület 6639/2 és 6641/1 helyrajzi számú ingatlanon a Belügyminisztérium Országház utcai székházának megvalósítása |
 
-[^10]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a, a 225/2021. (V. 4.) Korm. rendelet 5. §-a, a 341/2021. (VI. 15.) Korm. rendelet 1. §-a, a 603/2021. (X. 29.) Korm. rendelet 1–2. §-a szerint módosított szöveg.
+| 20. | A Zalaegerszeg belterület 4875 és 5028 helyrajzi számú ingatlanokon a Zalaegerszegi Szakképzési Centrum egyes intézményeinek 21. századi elvárásoknak megfelelő fejlesztését célzó beruházás előkészítése és megvalósítása |
+
+[^10]: Az 1. melléklet a 179/2016. (VII. 1.) Korm. rendelet 1. §-a, a 269/2016. (VIII. 31.) Korm. rendelet 3. §-a, a 110/2017. (IV. 28.) Korm. rendelet 1. §-a, a 316/2018. (XII. 27.) Korm. rendelet 1. §-a, a 242/2019. (X. 16.) Korm. rendelet 1. §-a, az 514/2020. (XI. 24.) Korm. rendelet 1. §-a, a 652/2020. (XII. 23.) Korm. rendelet 1. §-a, a 225/2021. (V. 4.) Korm. rendelet 5. §-a, a 341/2021. (VI. 15.) Korm. rendelet 1. §-a, a 603/2021. (X. 29.) Korm. rendelet 1–2. §-a, a 725/2021. (XII. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.
