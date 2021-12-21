@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-19-20-7
 | 2021-10-27 | 2021-19-20-7P.3 | 1/2021. (XI. 16.) NVTNM határozat |
 | 2021-10-28 | 2021-19-20-7P.4 | 2010: CXXX. törvény |
 | 2021-12-20 | 2021-19-20-7P.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2021-12-21 | 2021-19-20-7P.6 | 2010: CXXX. törvény |
