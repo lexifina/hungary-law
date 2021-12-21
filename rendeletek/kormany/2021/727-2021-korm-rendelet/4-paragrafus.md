@@ -1,0 +1,1 @@
+## 3. § Az R. 3. §-ában az „Az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság)” szövegrész helyébe az „Az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) – a 2. mellékletben foglalt táblázat 11. sora szerinti beruházás kivételével –” szöveg lép.
