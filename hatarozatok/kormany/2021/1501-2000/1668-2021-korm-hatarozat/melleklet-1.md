@@ -8,9 +8,11 @@
 
 ## d)[^3] a komplex közútfelújítási és -fejlesztési feladatok megvalósítása érdekében szükséges intézkedésekről szóló 1820/2021. (XI. 25.) Korm. határozat 3. pontjában foglalt közútfejlesztésekre
 
+## e)[^4] a komplex közútfelújítási és -fejlesztési feladatok 2022–2025. évi előkészítése érdekében szükséges intézkedésekről szóló 1939/2021. (XII. 21.) Korm. határozat 3. pontjában foglalt közútfejlesztésekre
+
 ## (a továbbiakban együtt: kormányhatározatok) a következőkről dönt.
 
-## 2.[^4] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, Fejezeti kezelésű előirányzatok cím, Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, Közlekedési fejlesztések jogcímcsoport, Térségi közúti beruházások jogcím terhére vállalható kötelezettségek mértékét
+## 2.[^5] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, Fejezeti kezelésű előirányzatok cím, Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, Közlekedési fejlesztések jogcímcsoport, Térségi közúti beruházások jogcím terhére vállalható kötelezettségek mértékét
 
 ## a) 2022-ben az 1. melléklet szerinti táblázat C oszlopában,
 
@@ -26,9 +28,9 @@
 
 ## szereplő soronkénti részösszegek összegében állapítja meg.
 
-## 3.[^5] A Kormány az Áht. 36. § (4b) pontjában biztosított jogkörében eljárva előzetesen jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a kormányhatározatokban szereplő fejlesztések végrehajtása érdekében legfeljebb az 1. melléklet szerinti táblázat I oszlopának összegében kötelezettséget vállaljon.
+## 3.[^6] A Kormány az Áht. 36. § (4b) pontjában biztosított jogkörében eljárva előzetesen jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a kormányhatározatokban szereplő fejlesztések végrehajtása érdekében legfeljebb az 1. melléklet szerinti táblázat I oszlopának összegében kötelezettséget vállaljon.
 
-1. melléklet az 1668/2021. (IX. 28.) Korm. határozathoz[^6]
+1. melléklet az 1668/2021. (IX. 28.) Korm. határozathoz[^7]
 
 A kötelezettségvállalás mértéke a Térségi közúti beruházások előirányzaton
 
@@ -46,9 +48,12 @@ adatok forintban
 
 | 5. | 1820/2021. (XI. 25.) Korm. határozat 3. pontja | 5 700 000 000 | 18 000 000 000 | 24 765 082 329 | 12 287 799 701 | 0 | 0 | 0 | 60 752 882 030 |
 
+| 6. | 1939/2021. (XII. 21.) Korm. határozat 3. pontja | 0 | 3 004 740 000 | 600 000 000 | 416 000 000 | 270 000 000 | 0 | 0 | 4 290 740 000 |
+
 [^1]: Az 1. pont az 1779/2021. (XI. 2.) Korm. határozat 4. pont a) alpontjával megállapított szöveg.
 [^2]: Az 1. pont c) alpontját az 1803/2021. (XI. 16.) Korm. határozat 2. pontja iktatta be.
 [^3]: Az 1. pont d) alpontját az 1820/2021. (XI. 25.) Korm. határozat 7. pontja iktatta be.
-[^4]: A 2. pont az 1820/2021. (XI. 25.) Korm. határozat 6. pontjával megállapított szöveg.
-[^5]: A 3. pontot az 1779/2021. (XI. 2.) Korm. határozat 2. pontja iktatta be.
-[^6]: Az 1. mellékletet az 1779/2021. (XI. 2.) Korm. határozat 3. pontja iktatta be, szövege az 1803/2021. (XI. 16.) Korm. határozat 3. pontja, az 1820/2021. (XI. 25.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^4]: Az 1. pont e) alpontját az 1939/2021. (XII. 21.) Korm. határozat 6. pontja iktatta be.
+[^5]: A 2. pont az 1820/2021. (XI. 25.) Korm. határozat 6. pontjával megállapított szöveg.
+[^6]: A 3. pontot az 1779/2021. (XI. 2.) Korm. határozat 2. pontja iktatta be.
+[^7]: Az 1. mellékletet az 1779/2021. (XI. 2.) Korm. határozat 3. pontja iktatta be, szövege az 1803/2021. (XI. 16.) Korm. határozat 3. pontja, az 1820/2021. (XI. 25.) Korm. határozat 8. pontja, az 1939/2021. (XII. 21.) Korm. határozat 7. pontja szerint módosított szöveg.
