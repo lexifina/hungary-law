@@ -56,9 +56,9 @@ e) a szervezet nyilvántartásból való törlésének (akkreditáció visszavon
 
 f)[^103] a szervezet felnőttképzők nyilvántartásába történő felvétele során képzett, nyilvántartásba vételi számát.
 
-(9a)[^104] Az akkreditációval rendelkező szervezet az akkreditáció alapjául szolgáló feltételeket érintő változásokat 8 napon belül köteles bejelenti a 4. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnél.
+(9a)[^104] Az akkreditációval rendelkező szervezet az akkreditáció alapjául szolgáló feltételeket érintő változásokat 8 napon belül köteles bejelenteni a 4. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnél.
 
-(10)[^105] Az akkreditációval rendelkező szervezet a nyilvántartásban szereplő adataiban bekövetkezett változásokat 60 napon belül köteles bejelenti a 4. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnél.
+(10)[^105] Az akkreditációval rendelkező szervezet a nyilvántartásban szereplő adataiban bekövetkezett változásokat 60 napon belül köteles bejelenteni a 4. számú mellékletben meghatározott adattartalommal a nyilvántartásba vételt végző szervezetnél.
 
 (11)[^106] A kreditpont-minősítési kérelem elfogadása esetén a lebonyolításra kerülő továbbképzési program megvalósítását, az akkreditált szervezet kérelmében vállalt feltételeknek való megfelelését, valamint a továbbképzés szervezésével és lebonyolításával kapcsolatos tevékenységét a nyilvántartásba vételt végző szervezet folyamatosan ellenőrzi.
 
@@ -113,8 +113,8 @@ f)[^115] a szervezet a (10) bekezdés szerinti adatváltozás-bejelentési köte
 [^101]: A 10/A. § (8a) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 10. § (2) bekezdése iktatta be, a 480/2016. (XII. 28.) Korm. rendelet 85. § 10. pontja szerint módosított szöveg.
 [^102]: A 10/A. § (9) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 47. § (5) bekezdésével megállapított szöveg.
 [^103]: A 10/A. § (9) bekezdés f) pontját a 616/2020. (XII. 21.) Korm. rendelet 12. §-a iktatta be.
-[^104]: A 10/A. § (9a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 47. § (6) bekezdése iktatta be.
-[^105]: A 10/A. § (10) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 52. § 6. pontja szerint módosított szöveg.
+[^104]: A 10/A. § (9a) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 47. § (6) bekezdése iktatta be, szövege a 719/2021. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^105]: A 10/A. § (10) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 52. § 6. pontja, a 719/2021. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^106]: A 10/A. § (11) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^107]: A 10/A. § (11a) bekezdését a 357/2012. (XII. 13.) Korm. rendelet 10. § (3) bekezdése iktatta be, nyitó szövegrésze a 480/2016. (XII. 28.) Korm. rendelet 85. § 11. pontja szerint módosított szöveg.
 [^108]: A 10/A. § (11a) bekezdés a) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 10. pontja szerint módosított szöveg.
