@@ -1,0 +1,1 @@
+## 138. § Ha a támogatási kérelem benyújtása óta a kedvezményezett átláthatósági feltételeit képező adataiban változás állt be, az irányító hatóság a kifizetési kérelem ellenőrzésével egyidejűleg ellenőrzi, hogy a kedvezményezett átlátható szervezetnek minősül-e.

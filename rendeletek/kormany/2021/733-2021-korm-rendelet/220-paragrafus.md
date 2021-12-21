@@ -1,0 +1,1 @@
+## 219. § Az irányító hatóságot a www.palyazat.gov.hu oldalon közzéteszi a végleges szabálytalansági döntés vonatkozásában a kedvezményezett nevét, a projekt címét, a szabálytalanság elkövetése módját, a szabálytalanság következményét és a szabálytalansággal érintett összeget.

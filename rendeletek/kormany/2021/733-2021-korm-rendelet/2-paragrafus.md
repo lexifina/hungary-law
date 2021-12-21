@@ -1,0 +1,1 @@
+## 1. § E rendeletet kell alkalmazni a brexit miatti kiigazításokra képzett tartalék létrehozásáról szóló, 2021. október 6-i (EU) 2021/1755 európai parlamenti és tanácsi rendelet szerinti, az Európai Bizottság Brexit kárenyhítő forrásból – a Brexit Alkalmazkodási Tartalékból (a továbbiakban: BAR) – származó források felhasználására.

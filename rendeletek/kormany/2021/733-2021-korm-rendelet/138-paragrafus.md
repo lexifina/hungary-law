@@ -1,0 +1,1 @@
+## 137. § Az irányító hatóság a kifizetési kérelmet és az alátámasztó dokumentumokat a vonatkozó jogszabályok, a felhívás és a támogatási szerződésben foglalt elszámolhatósági szabályok szerint, ellenőrzőlista alapján ellenőrzi.

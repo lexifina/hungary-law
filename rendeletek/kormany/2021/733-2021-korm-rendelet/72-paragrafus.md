@@ -1,0 +1,15 @@
+72. § (1) A támogatási kérelem adatait a támogatáshalmozódás vizsgálata céljából meg kell küldeni a kincstár által működtetett monitoring rendszer részére.
+
+(2) Az irányító hatóság a támogatáshalmozódás vizsgálatát
+
+a) a kincstár által nyilvántartott adatok,
+
+b) a támogatást igénylőnek a támogatási kérelem benyújtását megelőzően megítélt, valamint az igényelt csekély összegű (de minimis) támogatásról szóló nyilatkozata, valamint
+
+c) a monitoring és információs rendszerben rögzített adatok
+
+## alapján végzi el.
+
+(3) Ha a (2) bekezdés szerinti adatok között eltérés van, a támogatást igénylővel hiánypótlás, illetve tisztázó kérdés keretében tisztázni kell az eltérés okát.
+
+(4) A támogatást igénylő részére megítélhető támogatás összege a csekély összegű (de minimis) támogatásra, valamint a monitoring és információs rendszerben rögzített támogatási kategóriákra vonatkozó támogatáshalmozódási határértékeket nem lépheti túl.

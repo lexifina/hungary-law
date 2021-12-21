@@ -1,0 +1,3 @@
+213. § (1) Ha az irányító hatóságnak a szabálytalansági eljárás során új szabálytalansági gyanú jut tudomására, a szabálytalansági eljárást kiterjeszti az új szabálytalansági gyanú kivizsgálására is, és erről három napon belül tájékoztatja a kedvezményezettet.
+
+(2) Ha felmerül annak gyanúja, hogy a projekt megvalósításával összefüggésben a kedvezményezett vagy a kedvezményezett érdekkörébe eső más személy, illetve szervezet bűncselekményt követett el, az irányító hatóság a bűncselekmény gyanújának felmerülésétől számított tizenöt napon belül feljelentést tesz.

@@ -1,0 +1,1 @@
+## 175. § A projektben létrehozott vagyon a záró projektfenntartási jelentés (a továbbiakban: ZPFJ) elfogadásáig csak az irányító hatóság előzetes jóváhagyásával és a támogatási jogviszony szempontjából releváns kötelezettségek átvállalásával, átruházásával idegeníthető el, adható bérbe, illetve terhelhető meg.

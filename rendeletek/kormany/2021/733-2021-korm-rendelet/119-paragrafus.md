@@ -1,0 +1,1 @@
+## 118. § Az irányító hatóság az előleget az előleg igénylésére irányuló kérelem beérkezésétől számított tizenöt napon belül kifizeti, ha a kérelem ellenőrzése során nem merült fel olyan ok, amely miatt a kifizetést fel kellene függeszteni.
