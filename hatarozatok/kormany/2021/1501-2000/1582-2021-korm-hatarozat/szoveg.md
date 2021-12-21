@@ -10,23 +10,19 @@ b) a 2022. évben 1 000 000 000 forint,
 
 c) a 2023. évben 388 524 390 forint;
 
-3. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon
+3.[^1] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, címrendi kiegészítésről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről és kormányhatározat módosításáról szóló 1784/2021. (XI. 5.) Korm. határozat részeként 2021-ben e célra már biztosított 100 000 000 forinton túl
 
-a) 100 000 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcímen,
+a) a 2022. évben 1 000 000 000 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára,
 
-b) 1 000 000 000 forint forrás rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára,
-
-c) 388 524 390 forint forrás rendelkezésre állásáról a 2023. évi központi költségvetés Innovációs és Technológiai Minisztérium fejezet közúthálózat felújítást finanszírozó előirányzata javára;
+b) a 2023. évben 388 524 390 forint forrás rendelkezésre állásáról a 2023. évi központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára;
 
 Felelős: pénzügyminiszter
 
 innovációért és technológiáért felelős miniszter
 
-Határidő: az a) alpont tekintetében a felmerülés ütemében
+Határidő: az a) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
-
-a c) alpont tekintetében a 2023. évi központi költségvetés tervezése során
+a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során
 
 4. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon az elszámolási és a – fel nem használt támogatási összeg tekintetében – visszafizetési kötelezettség részletes szabályait tartalmazó támogatói okirat kibocsátásáról a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság részére;
 
@@ -34,10 +30,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a 3. pont szerinti forrás rendelkezésre állását követően azonnal
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 1. pontban foglalt cél megvalósítása érdekében a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím terhére vállalható kötelezettségek mértékét
+5.[^2]
 
-a) a 2022. évre 999 500 250 forintban,
-
-b) a 2023. évre 388 330 225 forintban
-
-állapítja meg.
+[^1]: A 3. pont az 1939/2021. (XII. 21.) Korm. határozat 10. pontjával megállapított szöveg.
+[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont a) alpontja visszavonta.
