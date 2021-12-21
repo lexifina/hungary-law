@@ -40,7 +40,7 @@ Határidő: azonnal
 
 h) egyetért a tatabányai multifunkciós csarnok beruházással összefüggésben a megközelítést biztosító 8156. számú Tatabánya–Vértessomló összekötőút érintett szakaszainak felújításával és a meglévő csomópontok átépítésének, rekonstrukciójának bővített műszaki tartalommal történő megvalósításával;
 
-i) felhívja a pénzügyminisztert, hogy a h) alpontban foglaltak megvalósítása érdekében – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, a Miniszterelnökséget vezető miniszter és az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon legfeljebb 3 195 000 000 forint rendelkezésre állásáról a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet javára.
+i)[^1] felhívja a pénzügyminisztert, hogy a h) alpontban foglaltak megvalósítása érdekében – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, a Miniszterelnökséget vezető miniszter és az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, egyes kormányhatározatok végrehajtása során alkalmazandó eltérő rendelkezésekről, valamint kormányhatározat módosításáról szóló 1755/2021. (X. 27.) Korm. határozat részeként 2021-ben e célra már biztosított 180 000 000 forinton túl a 2022. évben legfeljebb 3 015 000 000 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára;
 
 Felelős: pénzügyminiszter
 
@@ -50,20 +50,21 @@ nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: a felmerülés ütemében
+Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-2.[^1]
+2.[^2]
 
-3.[^2]
+3.[^3]
 
-4.[^3]
+4.[^4]
 
-5.[^4]
+5.[^5]
 
-6.[^5]
+6.[^6]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont i) alpontja az 1939/2021. (XII. 21.) Korm. határozat 12. pontjával megállapított szöveg.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
