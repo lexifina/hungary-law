@@ -1,6 +1,6 @@
 ## 1. Nemzeti Kiberbiztonsági Koordinációs Tanács
 
-1. §[^1] (1) A Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) elnöke (a továbbiakban: a Tanács elnöke) a Nemzetbiztonsági Szakszolgálat vezetője. A Tanács elnökét – akadályoztatása esetén – az e-közigazgatásért felelős miniszter által politikai főtanácsadónak kinevezett kiberkoordinátor (a továbbiakban: kiberkoordinátor) helyettesíti.
+1. §[^1] (1)[^2] A Nemzeti Kiberbiztonsági Koordinációs Tanács (a továbbiakban: Tanács) elnöke (a továbbiakban: a Tanács elnöke) a Nemzetbiztonsági Szakszolgálat vezetője. A Tanács elnökét – akadályoztatása esetén – az e-közigazgatásért felelős miniszter által megbízott kiberkoordinátor (a továbbiakban: kiberkoordinátor) helyettesíti.
 
 (2) A Tanács tagjai:
 
@@ -49,3 +49,4 @@ f) a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
 (6) A Tanács elnöke a Tanács munkájáról legalább félévente beszámol az e-közigazgatásért felelős miniszternek.
 
 [^1]: Az 1. § a 259/2021. (V. 20.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 16. §-ával megállapított szöveg.
