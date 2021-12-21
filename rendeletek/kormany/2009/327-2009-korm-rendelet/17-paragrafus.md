@@ -14,7 +14,7 @@ ae) költségeit, ráfordításait, külön kiemelve a portfoliókezeléssel ös
 
 af) mérlegen kívüli függő és jövőbeni (biztos) kötelezettségeit, külön kiemelve abból a tőke megóvására, illetve a hozamra vonatkozó ígéret, a tőke megóvására, illetve hozamra vonatkozó garancia (tőke-, illetve hozamgarancia) miatt keletkező mérlegen kívüli kötelezettségek összegét,
 
-ag)[^32] a portfoliókezelés során, a megbízásos jogviszonyból eredően, a befektetés alapkezelő birtokába került, az ügyfelek tulajdonát képező (pénzeszköztől eltérő), mérlegen kívül kimutatott eszközök, és ügyletek értékét (névértékét és nyilvántartási értékét, piaci értékét), azok fajtái szerinti részletezésben, az értékpapírok esetében bemutatva a központi értéktárban, illetve más helyen őrzött és az értékpapírszámlán kezelt dematerializált értékpapírok állományát,
+ag)[^32] a portfoliókezelés során, a megbízásos jogviszonyból eredően, a befektetési alapkezelő kezelésébe került, az ügyfelek tulajdonát képező (pénzeszköztől eltérő), mérlegen kívül kimutatott eszközök, és ügyletek értékét (névértékét és nyilvántartási értékét, piaci értékét), azok fajtái szerinti részletezésben, az értékpapírok esetében bemutatva a központi értéktárban, illetve más helyen őrzött és az értékpapírszámlán kezelt dematerializált értékpapírok állományát,
 
 ah) a kapott, valamint az adott (fizetett) fedezeteket, biztosítékokat, letéti összegeket tőzsdei és tőzsdén kívüli ügyletek kapcsán;
 
@@ -22,4 +22,4 @@ b) a Bkr. 17. §-ának 4., 11., 23. pontjai szerinti adatokat a befektetési ala
 
 c) az általa kezelt befektetési alapok megnevezését, azok típusait és az alapok vagyonának nettó eszközértékét.
 
-[^32]: A 17. § a) pont ag) alpontja a 484/2015. (XII. 29.) Korm. rendelet 94. §-a szerint módosított szöveg.
+[^32]: A 17. § a) pont ag) alpontja a 484/2015. (XII. 29.) Korm. rendelet 94. §-a, a 719/2021. (XII. 20.) Korm. rendelet 6. §-a szerint módosított szöveg.
