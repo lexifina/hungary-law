@@ -52,6 +52,16 @@
 
 ## Határidő: 2020. február 29.
 
+## 10.[^1] egyetért a Beruházás megvalósításához kapcsolódó, az annak rendeltetésszerű használatához szükséges ingóságok Beruházási Ügynökség általi beszerzésével;
+
+## 11.[^2] felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával a 10. ponti szerinti feladat végrehajtása érdekében gondoskodjon 477 648 607 forint rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 4. A Beruházási Ügynökség tevékenységéhez kapcsolódó egyéb kiadások alcímen.
+
+## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+
+## pénzügyminiszter
+
+## Határidő: a felmerülés ütemében
+
 1. melléklet az 1578/2019. (X. 15.) Korm. határozathoz
 
 | XX. Emberi Erőforrások Minisztériuma |
@@ -131,3 +141,6 @@
 |  |  | egyéb: |  | azonnal |  | 1 524 790 500 |  |  |  | 1 524 790 500 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: A 10. pontot az 1946/2021. (XII. 21.) Korm. határozat iktatta be.
+[^2]: A 11. pontot az 1946/2021. (XII. 21.) Korm. határozat iktatta be.
