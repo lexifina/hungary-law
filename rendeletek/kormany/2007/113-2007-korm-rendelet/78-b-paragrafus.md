@@ -32,9 +32,11 @@ a) tanúsítványt bocsát ki a nemzeti dokumentumellenőrző-hitelesítő ható
 
 b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására feljogosított külföldi hatóságok ellenőrző eszközei számára tanúsítványt kibocsátó külföldi dokumentumellenőrző-hitelesítő hatóságok számára.
 
-(8)[^209] A Főigazgatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja a kishatárforgalmi engedélyben, valamint a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya, valamint huzamos tartózkodási kártya okmányban elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hatóságok ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok kiállítását.
+(8)[^209] A Főigazgatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja a (10) bekezdésben foglaltak kivételével a kishatárforgalmi engedélyben, valamint a magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártya, valamint huzamos tartózkodási kártya okmányban elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hatóságok ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok kiállítását.
 
 (9)[^210] A kishatárforgalmi engedéllyel, valamint magyar állampolgár harmadik ország állampolgárságával rendelkező családtagjaként tartózkodási kártyával rendelkező harmadik országbeli állampolgár, illetve az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
+
+(10)[^211] Az idegenrendészetért és menekültügyért felelős miniszter a (7) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult EGT-állam hatóságai számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint az EGT-állam által kiállított tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
 
 [^200]: A 78/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.
 [^201]: A 78/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 27. §-a iktatta be.
@@ -45,5 +47,6 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 [^206]: A 78/B. § (5) bekezdés b) pontja a 259/2021. (V. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^207]: A 78/B. § (6) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^208]: A 78/B. § (7) bekezdés nyitó szövegrésze a 126/2019. (V. 30.) Korm. rendelet 12. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^209]: A 78/B. § (8) bekezdése a 259/2021. (V. 20.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^209]: A 78/B. § (8) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^210]: A 78/B. § (9) bekezdése a 259/2021. (V. 20.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^211]: A 78/B. § (10) bekezdését a 696/2021. (XII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
