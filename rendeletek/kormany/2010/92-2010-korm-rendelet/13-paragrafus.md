@@ -6,10 +6,15 @@ a) a minősített szerződés végrehajtásában részt vevő szervek feladat- �
 
 b) a minősített adatok helyszíni tárolásának speciális szabályairól,
 
-c) a minősített adatok belföldi és külföldi továbbításának szabályairól, a megbeszéléseken, előadásokon történő felhasználás egyedi rendelkezéseiről, továbbá a minősített adatok alvállalkozónak történő átadásának feltételeiről,
+c)[^81] elektronikus minősített adat felhasználása esetén a minősített adatot kezelő elektronikus rendszerek helyszíni üzemeltetésére vonatkozó speciális szabályokról,
 
-d) a minősített szerződés teljesítését követő eljárásrendről, így a minősített adatok átadónak történő visszaszolgáltatásáról.
+d)[^82] a minősített adatok belföldi és külföldi továbbításának szabályairól, a megbeszéléseken, előadásokon történő felhasználás egyedi rendelkezéseiről, továbbá a minősített adatok alvállalkozónak történő átadásának feltételeiről,
 
-(3)[^55] A projekt biztonsági utasítást a minősített adatot átadó szerv vezetője biztonsági vezetőjének bevonásával készíti el. „NATO Titkos!” vagy „EU Titkos!” és „NATO Bizalmas!” vagy „EU Bizalmas!” minősítési szintű projekt esetében a projekt biztonsági utasítást és annak esetleges módosításait minden esetben az NBF vagy, ha ezt nemzetközi szerződés szükségessé teszi, a másik részes fél nemzeti biztonsági hatósága is jóváhagyja. A projekt biztonsági utasítás a szerződésben részt vevő minden szereplőre alkalmazandó.
+e)[^83] a minősített szerződés teljesítését követő eljárásrendről, így különösen a minősített adatok átadónak történő visszaszolgáltatásáról.
 
-[^55]: A 13. § (3) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 40. § (1) bekezdés i) pontja szerint módosított szöveg.
+(3)[^84] A projektbiztonsági utasítást a minősített adatot átadó szerv vezetője biztonsági vezetőjének bevonásával készíti el. „NATO SECRET” vagy „SECRET UE/EU SECRET” és „NATO CONFIDENTIAL” vagy „CONFIDENTIEL UE/ EU CONFIDENTIAL” minősítési szintű projekt esetében a projekt biztonsági utasítást és annak esetleges módosításait minden esetben az NBF vagy, ha ezt nemzetközi szerződés szükségessé teszi, a másik részes fél nemzeti biztonsági hatósága is jóváhagyja. A projektbiztonsági utasítás a szerződésben részt vevő minden szereplőre alkalmazandó
+
+[^81]: A 13. § (2) bekezdés c) pontja a 697/2021. (XII. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^82]: A 13. § (2) bekezdés d) pontja a 697/2021. (XII. 13.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^83]: A 13. § (2) bekezdés e) pontját a 697/2021. (XII. 13.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^84]: A 13. § (3) bekezdése a 697/2021. (XII. 13.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.

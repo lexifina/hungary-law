@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-92-20-2
 | 2019-01-01 | 2010-92-20-22.15 | 323/2018. (XII. 28.) Korm. rendelet |
 | 2020-07-31 | 2010-92-20-22.16 | 375/2020. (VII. 30.) Korm. rendelet |
 | 2021-07-09 | 2010-92-20-22.17 | 316/2021. (VI. 8.) Korm. rendelet |
+| 2021-12-21 | 2010-92-20-22.18 | 697/2021. (XII. 13.) Korm. rendelet |
