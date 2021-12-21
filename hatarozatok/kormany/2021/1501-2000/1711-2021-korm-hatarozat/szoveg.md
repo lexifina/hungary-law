@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért a 37. számú Felsőzsolca–Sátoraljaújhely másodrendű főút – 3838. Bodrogkeresztúr–Tokaj összekötő út csatlakozásánál körforgalmú csomópont építésének és a 3621. jelű Tokaj–Taktaharkány összekötő út 21+918 – 26+628 km szelvények közötti és 27+740 – 35+488 km szelvények közötti szakasza felújításának (a továbbiakban együtt: Felújítás) megvalósításával;
 
-2. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a Felújítás előkészítési és megvalósítási feladatainak finanszírozása érdekében gondoskodjon a 2022. évben 3 446 535 004 forint rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok fejezeti kezelésű előirányzat javára;
+2.[^1] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a Felújítás előkészítési és megvalósítási feladatainak finanszírozása érdekében gondoskodjon a 2022. évben 3 446 535 004 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetésről szóló 2021. évi XC. törvény (a továbbiakban: Kktv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára;
 
 Felelős: pénzügyminiszter
 
@@ -22,4 +22,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím terhére az 1. pontban szereplő Felújítás megvalósítása érdekében vállalható kötelezettségek mértékét a 2022. évre 3 444 812 598 forintban állapítja meg.
+5.[^2]
+
+[^1]: A 2. pont az 1939/2021. (XII. 21.) Korm. határozat 11. pontjával megállapított szöveg.
+[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont b) alpontja visszavonta.
