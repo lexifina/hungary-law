@@ -4,23 +4,17 @@
 
 ## a) a 2020. évben 14 298 284 785 forint,
 
-## b) a 2021. évben 111 633 834 488 forint,
+## b) a 2021. évben 48 585 660 171 forint,
 
-## c) a 2022. évben 45 039 275 466 forint;
+## c) a 2022. évben 108 087 449 783 forint;
 
-## 3.[^2] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében gondoskodjon:
-
-## a) a 2021. évben szükséges 111 633 834 488 forint rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára,
-
-## b) a 2022. évben szükséges 45 039 275 466 forint rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára;
+## 3.[^2] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében gondoskodjon a Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a Járvány Elleni Védekezés Központi Tartalékából történő, valamint fejezetek közötti előirányzat-átcsoportosításokról és egyes kormányhatározatok módosításáról szóló 1856/2020. (XI. 26.) Korm. határozat részeként 2020-ban e célra már biztosított 14 298 284 785 forinton, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény módosításáról szóló 2021. évi XLIV. törvény részeként 2021-ben e célra már biztosított 30 000 000 000 forinton, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, címrendi kiegészítésről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről és kormányhatározat módosításáról szóló 1784/2021. (XI. 5.) Korm. határozat részeként 2021-ben e célra már biztosított 18 585 660 171 forinton túl a 2022. évben szükséges 108 087 449 783 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára;
 
 ## Felelős: pénzügyminiszter
 
 ## innovációért és technológiáért felelős miniszter
 
-## Határidő: az a) alpont tekintetében a felmerülés ütemében
-
-## a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során
+## Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
 ## 4. felhívja az innovációért és technológiáért felelős minisztert, hogy az elérhető európai uniós források függvényében gondoskodjon az 1. pontban hivatkozott, az 1. melléklet szerinti, központi költségvetési forrásból megvalósítani tervezett projektek átemeléséről az adott projektek finanszírozását lehetővé tévő európai uniós finanszírozási programba;
 
@@ -36,7 +30,7 @@
 
 ## 6.[^3] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében az innovációért és technológiáért felelős miniszter az e határozatban foglaltak végrehajtása érdekében összesen legfeljebb 170 885 951 762 forint összegben kötelezettséget vállaljon.
 
-## 7.[^4]
+## 7.[^4] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím terhére vállalható kötelezettségek mértékét a 2022. évre 255 970 933 066 forintban állapítja meg.
 
 1. melléklet az 1744/2020. (XI. 11.) Korm. határozathoz[^5]
 
@@ -224,8 +218,8 @@ A közúti felújításokra vonatkozó kiemelt társadalmi igények projektlist�
 
 | 91. | 4927. jelű Máriapócs–Ófehértó összekötőút 7+586–8+973 km szelvények közötti szakaszának felújítása |
 
-[^1]: A 2. pont az 1467/2021. (VII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 3. pont az 1467/2021. (VII. 15.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: A 2. pont az 1939/2021. (XII. 21.) Korm. határozat 9. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1939/2021. (XII. 21.) Korm. határozat 9. pontjával megállapított szöveg.
 [^3]: A 6. pont az 1467/2021. (VII. 15.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: A 7. pontot az 1467/2021. (VII. 15.) Korm. határozat 4. pontja visszavonta.
+[^4]: A 7. pontot az 1467/2021. (VII. 15.) Korm. határozat 4. pontja visszavonta, újonnan az 1939/2021. (XII. 21.) Korm. határozat 8. pontja iktatta be.
 [^5]: Az 1. melléklet az 1467/2021. (VII. 15.) Korm. határozat 3. pontja szerint módosított szöveg.
