@@ -1,3 +1,0 @@
-1. § (1) A rendelet hatálya az önkéntes kölcsönös biztosító pénztárakra, a magánnyugdíjpénztárakra, a foglalkoztatói nyugdíjszolgáltató intézményekre, a befektetési vállalkozásokra, a pénzügyi intézményekre, a pénzügyi szolgáltatás közvetítését független közvetítőként végző közvetítőkre, az ÁÉKBV-alapkezelőkre, a biztosítókra, a független biztosításközvetítőkre és az egyidejűleg több biztosító egymással versengő biztosítási termékeit közvetítő függő biztosításközvetítőkre (a továbbiakban együtt: szolgáltató) terjed ki.
-
-(2) E rendelet alkalmazásában fogyasztó az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy.
