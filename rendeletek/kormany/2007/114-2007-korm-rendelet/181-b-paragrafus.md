@@ -40,6 +40,8 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 
 (10) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmánnyal rendelkező harmadik országbeli állampolgár a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
 
+(11)[^568] Az idegenrendészetért és menekültügyért felelős miniszter a (8) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult külföldi hatóságok számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint a külföldi tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
+
 [^558]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
 [^559]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
 [^560]: A 181/B. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
@@ -50,3 +52,4 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 [^565]: A 181/B. § (7) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^566]: A 181/B. § (8) bekezdés nyitó szövegrésze a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
 [^567]: A 181/B. § (9) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^568]: A 181/B. § (11) bekezdését a 696/2021. (XII. 13.) Korm. rendelet 8. §-a iktatta be.
