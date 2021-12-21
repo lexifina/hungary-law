@@ -1,5 +1,10 @@
+## 34/I. §[^178] A képzési hitelnek a hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet módosításáról szóló 721/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: Mód R. 8.) megállapított szabályait a Mód R. 8. hatálybalépésekor[^179] folyamatban lévő és el nem bírált hitelkérelem tekintetében is alkalmazni kell azzal, hogy a hitel- vagy kölcsönszerződés hatálybalépésének feltétele a 23/B. § (7) bekezdése szerinti együttműködési megállapodás megkötése. A Mód R. 8. hatálybalépésekor már megkötött szabad felhasználású képzési hitelszerződésekre azok megszűnéséig e rendeletnek a Mód R. 8. hatálybalépését megelőző napon hatályos rendelkezéseit kell alkalmazni.
+
 ## 35. § Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a Tanács 2003/109/EK tanácsi irányelve (2003. november 25.) a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról, 11. cikk (1) bekezdés b) pont és 21. cikk;
 
 b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk.
+
+[^178]: A 34/I. §-t a 721/2021. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
+[^179]: A hatálybalépés időpontja 2021. december 21.

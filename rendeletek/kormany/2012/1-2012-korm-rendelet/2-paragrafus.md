@@ -40,11 +40,7 @@ c)[^14]
 
 14. jogosultsági idő: tanulmányi félévekben meghatározott és tanulmányi hónapokban számított, a hallgatói hitel igénybevételére lehetőséget biztosító maximális időszak;
 
-14a.[^16] képzési hitel: a Diákhitel szervezet és a tanuló, illetve a képzésben részt vevő személy (a továbbiakban együtt: képzésben résztvevő) közötti hitel-, vagy kölcsönszerződés alapján az e rendeletben meghatározott feltételek szerint nyújtott pénzkölcsön, amely – céljait tekintve – több részből áll:
-
-a) szabad felhasználású: a képzési hitel azon része, amelyet a képzésben résztvevő a szakmai oktatással, illetve a szakmai képzéssel összefüggésben felmerült költségei finanszírozásához vehet igénybe,
-
-b) kötött felhasználású: a képzési hitel azon része, amelyet a képzésben résztvevő a képzési díj finanszírozása érdekében vehet igénybe;
+14a.[^16] képzési hitel: a Diákhitel szervezet és a tanuló vagy a képzésben részt vevő személy közötti hitel- vagy kölcsönszerződés alapján az e rendeletben meghatározott feltételek szerint nyújtott pénzkölcsön, amelyet a tanuló vagy a képzésben részt vevő személy a képzési díj finanszírozása érdekében vehet igénybe;
 
 15.[^17] költségtérítéses hallgató: azon a Nftv. 111. § (4) bekezdése szerinti hallgató, aki tanulmányait a Nftv. hatályba lépése előtt költségtérítéses képzési formában kezdte meg és folytatja;
 
@@ -84,7 +80,7 @@ b) kötött felhasználású: a képzési hitel azon része, amelyet a képzésb
 [^13]: A 2. § 11. pont b) alpontja a 156/2021. (III. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^14]: A 2. § 11. pont c) alpontját a 114/2019. (V. 15.) Korm. rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 196/2020. (V. 12.) Korm. rendelet 2. § a) pontja.
 [^15]: A 2. § 12. pontja a 389/2020. (VIII. 8.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^16]: A 2. § 14a. pontját a 389/2020. (VIII. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A 2. § 14a. pontját a 389/2020. (VIII. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 721/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^17]: A 2. § 15. pontja a 156/2021. (III. 29.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
 [^18]: A 2. § 18. pontja a 156/2021. (III. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^19]: A 2. § 20. pontját a 156/2021. (III. 29.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
