@@ -1,0 +1,1 @@
+## 23. § A rejtjeltevékenység a KKM RF irányításával kerül ellátásra, azzal kapcsolatos utasítást a KKM RF adhat ki. A rejtjelezéssel kapcsolatos feladatokra az EU ÁK vezetője utasítást adhat az 1. § (2) bekezdés d) pontjában meghatározott rejtjelezők számára.

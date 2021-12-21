@@ -1,0 +1,1 @@
+## 12. § A KKM kezelésében lévő informatikai rendszer – ideértve különösen a szerverek, hálózati eszközök működtetését, üzemeltetését és karbantartását – a KKM kötelessége. Az ezzel kapcsolatos feladatok ellátásához szükséges előirányzatot a Brüsszeli Nagykövetség költségvetésében kell a KKM-nek terveznie.

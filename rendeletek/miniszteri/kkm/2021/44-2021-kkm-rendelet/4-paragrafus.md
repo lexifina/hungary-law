@@ -1,0 +1,7 @@
+## 3. § Az 1. § (2) bekezdésében meghatározott munkakörök betöltésére szóló pályázatot – a vonatkozó előírások szerint belső pályázatként – a KKM hirdeti meg, azzal, hogy a pályázaton a KKM állományába tartozó kormánytisztviselőkön túl az európai uniós ügyek koordinációjáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium állományába tartozó kormánytisztviselők is pályázhatnak.
+
+4. § (1) A pályáztatásra és a kihelyezésre a tartós külszolgálati pályázati rendszerről, valamint a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének részletes szabályairól szóló hatályos KKM rendelet rendelkezéseit kell alkalmazni. A pályázatokról, illetve azokkal kapcsolatos döntésről a KKM külszolgálati személyügyi feladatokat ellátó önálló szervezeti egysége vezetője írásban tájékoztatja a miniszter által vezetett minisztérium külszolgálati személyügyi feladatokat ellátó önálló szervezeti egysége vezetőjét.
+
+(2) A pályázatok elbírálása során véleményezési joggal rendelkezik mind a Brüsszeli Nagykövetség, mind az EU ÁK vezetője. A pályázatokról diplomata munkaköri osztályba tartozó külszolgálati munkakör esetén a KKM döntésre jogosult állami vezetője, adminisztratív és technikai munkaköri osztályba tartozó munkakör esetén a KKM hivatali szervezetének vezetője dönt.
+
+(3) A külszolgálatra történő felkészítés a KKM-ben történik, az 1. § (2) bekezdésében meghatározott munkakörök keretében ellátandó feladatokra irányadó belső szabályozás szerint.

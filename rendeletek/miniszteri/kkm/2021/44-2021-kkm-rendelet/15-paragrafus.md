@@ -1,0 +1,1 @@
+## 14. § A kihelyezett kihelyező okiratában rögzített, a Külszoltv. 2. § 8. pontja szerinti házastársának foglalkoztatását mind az EU ÁK, mind a Brüsszeli Nagykövetség is biztosíthatja a saját költségvetése és státusza terhére.

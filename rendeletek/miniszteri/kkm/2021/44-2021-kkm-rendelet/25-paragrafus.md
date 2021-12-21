@@ -1,0 +1,1 @@
+## 24. § Az 1. § (2) bekezdés d) pontjában meghatározott külszolgálati munkakört ellátó kihelyezett köteles adatot szolgáltatni az EU ÁK vezetője részére minden, a munkaköri feladatkörébe tartozó és minden, az EU ÁK feladat- és hatáskörét, illetve működését érintő kérdésben.

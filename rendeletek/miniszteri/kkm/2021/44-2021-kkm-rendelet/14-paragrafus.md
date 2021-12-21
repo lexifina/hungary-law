@@ -1,0 +1,1 @@
+## 13. § Az EU ÁK biztosítja az 1. § (2) bekezdésében meghatározott kihelyezettek számára a helyi előírások alapján a diplomáciai regisztrációt a fogadó állam illetékes szervénél, valamint biztosítja a kihelyezett kihelyező okiratában rögzített, a Külszoltv. 2. § 8. pontja szerinti gyermekeinek beiskolázásához szükséges regisztráció megszerzését.
