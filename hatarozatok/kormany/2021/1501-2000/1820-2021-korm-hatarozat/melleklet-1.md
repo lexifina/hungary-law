@@ -64,26 +64,24 @@
 
 ## Határidő: az a) alpont szerinti előirányzat megnyitását követően azonnal
 
-## d) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 7. Országos közúthálózat felújítása jogcím terhére vállalható kötelezettségek mértékét 2022–2023. évekre az alábbiak szerint állapítja meg:
+## d)[^1]
 
-## da) a 2022. évre 6 858 142 094 forint,
+## 5.[^2]
 
-## db) a 2023. évre 1 143 000 000 forint.
+## 6.[^3]
 
-## 5. A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a Komplex közútfelújítási feladatok végrehajtása érdekében az innovációért és technológiáért felelős miniszter összesen legfeljebb 8 001 142 094 forint összegben kötelezettséget vállaljon.
+## 7.[^4]
 
-## 6.[^1]
+## 8.[^5]
 
-## 7.[^2]
+## 9.[^6]
 
-## 8.[^3]
+1. melléklet az 1820/2021. (XI. 25.) Korm. határozathoz[^7]
 
-## 9.[^4]
-
-1. melléklet az 1820/2021. (XI. 25.) Korm. határozathoz[^5]
-
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont d) alpontját az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta.
+[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
