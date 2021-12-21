@@ -50,10 +50,9 @@ Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési
 
 h) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdésében biztosított jogkörében eljárva úgy határoz, hogy a Beruházás előkészítése és megvalósítása során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdése szerinti feladatok ellátása alól a Beruházási Ügynökséget mentesíti.
 
-2. Az 1016/2021. (I. 28.) Korm. határozat 1. pontjában a „megfelelő, az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 4. § (7) bekezdés a) pontja és (8) bekezdése szerinti kormányzati magasépítési beruházásként történő előkészítésével” szövegrész helyébe a „megfelelő előkészítésével” szöveg lép.
+2.[^2]
 
-3. A Kormány visszavonja az 1016/2021. (I. 28.) Korm. határozat
+3.[^3]
 
-a) 4. pont b) alpontját,
-
-b) 6. pontját.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
