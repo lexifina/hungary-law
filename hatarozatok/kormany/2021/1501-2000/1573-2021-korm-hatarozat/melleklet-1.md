@@ -18,7 +18,7 @@
 
 ## Határidő: azonnal
 
-## 5. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere és a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon a Beruházás megvalósításhoz
+## 5.[^1] felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon a Beruházás megvalósításhoz
 
 ## a) a 2022. évben 2 470 382 090 forint, valamint
 
@@ -28,19 +28,31 @@
 
 ## Felelős: pénzügyminiszter
 
-## emberi erőforrások minisztere
-
 ## Miniszterelnökséget vezető miniszter
 
 ## Határidő: az a) alpont tekintetében a költségvetés végrehajtása során
 
 ## a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során
 
+## 5a.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon az 5. pont alapján rendelkezésre álló
+
+## a) 2022. évi forrásnak a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: 2022. évi Kvtv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 4. Kulturális beruházások és fejlesztések támogatása jogcímcsoport javára,
+
+## b) 2023. évi forrásnak az adott évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében
+
+## történő biztosításáról.
+
+## Felelős: Miniszterelnökséget vezető miniszter
+
+## emberi erőforrások minisztere
+
+## Határidő: a forrás rendelkezésre állását követő 60 napon belül
+
 ## 6. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi az emberi erőforrások minisztere számára, hogy a Beruházás megvalósítása érdekében
 
-## a) a 2022. évi központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet terhére legfeljebb 2 470 382 090 forint összeg,
+## a)[^3] 2022. évi Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 4. Kulturális beruházások és fejlesztések támogatása jogcímcsoport terhére legfeljebb 2 470 382 090 forint összeg,
 
-## b) a 2023. évi központi költségvetés XI. Miniszterelnökség fejezet terhére legfeljebb 1 727 547 466 forint összeg
+## b)[^4] a 2023. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet terhére legfeljebb 1 727 547 466 forint összeg
 
 ## mértékéig éven túli kötelezettséget vállaljon;
 
@@ -131,3 +143,8 @@
 | 802 070 444 | 802 070 444 |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 5. pont az 1947/2021. (XII. 21.) Korm. határozat 1. a) pontja szerint módosított szöveg.
+[^2]: Az 5a. pontot az 1947/2021. (XII. 21.) Korm. határozat 1. pont b) alpontja iktatta be.
+[^3]: A 6. pont a) alpontja az 1947/2021. (XII. 21.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
+[^4]: A 6. pont b) alpontja az 1947/2021. (XII. 21.) Korm. határozat 1. pont d) alpontja szerint módosított szöveg.
