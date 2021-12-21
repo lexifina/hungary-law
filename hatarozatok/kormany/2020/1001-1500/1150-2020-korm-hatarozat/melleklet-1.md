@@ -28,9 +28,9 @@
 
 | 2. | Budaörsi Latinovits Színház | Budaörs Város Önkormányzata | 2022. december 31. |
 
-| 3. | Csokonai Színház | Debrecen Megyei Jogú Város Önkormányzata | 2021. december 31. |
+| 3. | Csokonai Színház | Debrecen Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 4. | Bartók Kamaraszínház és Művészetek Háza | Dunaújváros Megyei Jogú Város Önkormányzata | 2021. december 31. |
+| 4. | Bartók Kamaraszínház és Művészetek Háza | Dunaújváros Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
 | 5. | Győri Nemzeti Színház | Győr Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
@@ -72,11 +72,11 @@
 
 | 24. | Kabóca Bábszínház | Veszprém Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 25. | Vojtina Bábszínház | Debrecen Megyei Jogú Város Önkormányzata | 2021. december 31. |
+| 25. | Vojtina Bábszínház | Debrecen Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
 | 26. | Miskolci Csodamalom Bábszínház Nonprofit Korlátolt Felelőssegű Társaság | Miskolc Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 27. | Ciróka Bábszínház | Kecskemét Megyei Jogú Város Önkormányzata | 2021. december 31. |
+| 27. | Ciróka Bábszínház | Kecskemét Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
 | 28. | Harlekin Bábszínház | Eger Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
@@ -84,4 +84,4 @@
 
 | 30. | Kövér Béla Bábszínház | Szeged Megyei Jogú Város Önkormányzata | 2022. december 31. |
 
-[^1]: Az 1. melléklet az 1392/2021. (VI. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1392/2021. (VI. 22.) Korm. határozat 2. pontja, az 1945/2021. (XII. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
