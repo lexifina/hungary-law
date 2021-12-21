@@ -34,7 +34,7 @@ a) tanúsítványt bocsát ki a nemzeti dokumentumellenőrző-hitelesítő ható
 
 b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására feljogosított külföldi hatóságok ellenőrző eszközei számára tanúsítványt kibocsátó külföldi dokumentumellenőrző-hitelesítő hatóságok számára.
 
-(7) Az általános hatáskörű útlevélhatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja az útlevélben elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult magyar hatóságok valamint az európai uniós és a schengeni megállapodásban részes tagállamok jogosult hatóságai számára a hozzáféréshez szükséges tanúsítványok kiállítását.
+(7)[^14] Az általános hatáskörű útlevélhatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként (DV) biztosítja az útlevélben elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult magyar hatóságok, valamint az európai uniós és a schengeni megállapodásban részes tagállamok jogosult hatóságai számára a hozzáféréshez szükséges tanúsítványok kiállítását, továbbá az útlevél tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
 
 [^8]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés a) pontja szerint módosított szöveg.
@@ -42,3 +42,4 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 [^11]: A 3. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 446/2020. (X. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^12]: A 3. § (3) bekezdés nyitó szövegrésze a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés b) pontja szerint módosított szöveg.
 [^13]: A 3. § (3) bekezdés a) pontja a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés c) pontja szerint módosított szöveg.
+[^14]: A 3. § (7) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
