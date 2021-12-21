@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy a térségbeli országok közötti összehasonlító jogtudományi kapcsolatok és együttműködés fejlesztése; a régió sajátos nézőpontját az európai jog- és államfejlődés, illetve az európai integráció meghatározó kérdéseiben megjeleníteni képes közép-európai szakmai közösség és tudásbázis megteremtése; valamint a térség fiatal jogász kutatói szakmai előrehaladásának, PhD-képzésének támogatása érdekében, az igazságügyi miniszter irányítása alatt álló Mádl Ferenc Összehasonlító Jogi Intézet (a továbbiakban: Intézet) koordinálásával jöjjön létre egy hálózat a visegrádi és egyes szomszédos országok jogtudományi és államelméleti területen kutató, oktató egyetemi tanárainak, kutatócsoportjainak (a továbbiakban: V4+ Professzori Hálózat), valamint fiatal PhD-hallgatóinak (a továbbiakban: V4+ Junior Program) részvételével;
 
-2. egyetért azzal, hogy a V4+ Professzori Hálózat, valamint a hozzá kapcsolódó V4+ Junior Program létrehozásával és működtetésével kapcsolatos feladatokat, az együttműködésben részt vevő professzorok munkájának segítését, és a V4+ Professzori Hálózat és a V4+ Junior Program keretében megvalósuló szakmai konferenciák, rendezvények támogatását az Intézet keretein belül felállításra kerülő titkárság (a továbbiakban: Titkárság) lássa el;
+2.[^1]
 
 3. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – az igazságügyi miniszter bevonásával – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a Titkárságnak a visegrádi és a szomszédos országokkal történő együttműködés kiemelkedő fontosságához méltó színvonalú fővárosi ingatlanban történő elhelyezéséről;
 
@@ -30,13 +30,13 @@ a) az Igazságügyi Minisztérium részére
 
 aa) a 2021. évben a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: 2021. évi Kvtv.) 1. melléklet X. Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára legfeljebb 104 882 060 forint,
 
-ab) a 2022. évben a központi költségvetés Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára legfeljebb 154 582 060 forint,
+ab)[^2]
 
-ac) a 2023. évben a központi költségvetés Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára legfeljebb 204 282 060 forint,
+ac)[^3]
 
-ad) a 2024. évben a központi költségvetés Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára legfeljebb 253 982 060 forint,
+ad)[^4]
 
-ae) a 2025. évben a központi költségvetés Igazságügyi Minisztérium fejezet, 1. Igazságügyi Minisztérium igazgatása cím javára legfeljebb 278 832 060 forint
+ae)[^5]
 
 többletforrás biztosításáról,
 
@@ -62,30 +62,20 @@ Határidő: az aa) és a ba) alpontok tekintetében a 2021. évi központi költ
 
 az ab)–ae) alpontok, valamint a bb)–be) alpontok tekintetében az adott évi központi költségvetés tervezése során
 
-6. felhívja az igazságügyi minisztert, hogy – a pénzügyminiszter, a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, valamint belügyminiszter bevonásával – készítsen előterjesztést a V4+ Professzori Hálózat és a V4+ Junior Program működéséhez szükséges irodai elhelyezés és munkakörnyezet biztosításával, valamint a létesítményüzemeltetéssel összefüggő feladatok, továbbá az informatikai infrastruktúra kialakítása, működtetése és az ahhoz kapcsolódó szolgáltatások ellátásának részletes feltételeiről;
+6.[^6]
 
-Felelős: igazságügyi miniszter
+7.[^7]
 
-pénzügyminiszter
+8.[^8]
 
-nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+9.[^9]
 
-belügyminiszter
-
-Határidő: 2020. november 15.
-
-7. felhívja a pénzügyminisztert, hogy a 6. pontban foglaltak szerint előkészítésre kerülő előterjesztés alapján gondoskodjon a V4+ Professzori Hálózat és a V4+ Junior Program működéséhez szükséges irodai elhelyezés és munkakörnyezet biztosításával, valamint a létesítményüzemeltetéssel összefüggő feladatok, továbbá az informatikai infrastruktúra kialakítása, működtetése és az ahhoz kapcsolódó szolgáltatások ellátásához szükséges többletforrások biztosításáról;
-
-Felelős: pénzügyminiszter
-
-Határidő: a felmerülés ütemében
-
-8. úgy határoz, hogy az 1. pontban foglalt feladatok megvalósításához szükséges beszerzések mentesülnek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozatban elrendelt beszerzési tilalom alól;
-
-9. felhívja az igazságügyi minisztert, hogy – a pénzügyminiszter bevonásával – a 2025. évben vizsgálja meg az 1. pontban megjelölt célkitűzések megvalósítása érdekében végzett feladatok eredményeit, és e felülvizsgálat alapján készítsen előterjesztést a Kormány számára a feladatok további finanszírozásáról.
-
-Felelős: igazságügyi miniszter
-
-pénzügyminiszter
-
-Határidő: 2025. október 31.
+[^1]: A 2. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^2]: Az 5. pont ab) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^3]: Az 5. pont ac) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^4]: Az 5. pont ad) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^5]: Az 5. pont ae) alpontját az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^6]: A 6. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^7]: A 7. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^8]: A 8. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
+[^9]: A 9. pontot az 1942/2021. (XII. 21.) Korm. határozat 7. pont a) alpontja visszavonta.
