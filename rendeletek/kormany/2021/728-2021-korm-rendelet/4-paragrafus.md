@@ -1,0 +1,1 @@
+## 3. § A Rendelet 3. § (3) bekezdésében a „60. és 61. sora” szövegrész helyébe a „60., 61. és 62. sora” szöveg lép.
