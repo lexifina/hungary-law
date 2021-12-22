@@ -1,1 +1,1 @@
-## 4. § A veszélyhelyzet ideje alatt fennálló, vagy ezen idő alatt létrejött a központi költségvetés terhére nyújtott költségvetési támogatásból megvalósuló programokkal, projektekkel összefüggő támogatási jogviszonyokban meghatározott támogatott tevékenység időtartama a veszélyhelyzet időtartamával megegyező mértékben meghosszabbodik.
+## lehet az államháztartás központi alrendszerébe tartozó költségvetési szerv és a fejezeti kezelésű előirányzat kötelezettségvállalással terhelt költségvetési maradványának tekinteni.
