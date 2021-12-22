@@ -14,7 +14,7 @@
 
 ## c) a Kvtv. 17. §-ában biztosított jogkörében eljárva jóváhagyja a GÚP előirányzatnak a b) pont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 110 626 118 825 forinttal történő túlteljesülését;
 
-## d) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 10 721 124 012 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## d)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 10 721 124 012 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -36,7 +36,7 @@
 
 ## a miniszterelnök általános helyettese
 
-## Határidő: 2021. december 31.
+## Határidő: 2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 3 456 850 000 forint tekintetében 2022. április 30.
 
 ## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 8 672 079 788 forint egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint;
 
@@ -88,20 +88,21 @@
 
 ## Határidő: azonnal
 
-## i)[^1]
+## i)[^2]
 
-## 2.[^2]
+## 2.[^3]
 
-## 3.[^3]
+## 3.[^4]
 
-## 4.[^4]
+## 4.[^5]
 
-## 5.[^5]
+## 5.[^6]
 
 1. melléklet az 1496/2021. (VII. 23.) Korm. határozathoz
 
-[^1]: Az 1. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja az 1953/2021. (XII. 22.) Korm. határozat 18. pontjával megállapított szöveg.
+[^2]: Az 1. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
