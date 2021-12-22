@@ -18,7 +18,7 @@ g) a 11. § szerinti településkép-védelmi bírság és helyszíni bírság, 
 
 h) az országos településkép-védelemmel érintett településképi szempontból kiemelten meghatározó területet és az érintett ingatlanokat,
 
-i) a településképi szempontból kiemelten meghatározó területre vonatkozó egyedi kézikönyv tartalmi elemeit, az elkészítésére és egyeztetésére vonatkozó részletes szabályokat,
+i) a településképi szempontból kiemelten meghatározó területre vonatkozó kiemelt kézikönyv tartalmi elemeit, az elkészítésére és egyeztetésére vonatkozó részletes szabályokat,
 
 j) a településképi szempontból kiemelten meghatározó területre vonatkozó országos jelentőségű településképi követelményeket, továbbá a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlátozások alól e törvény által megengedett eltéréseket, a létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit,
 
@@ -32,7 +32,7 @@ a) a településképi követelményeket,
 
 b) az önkormányzati támogatási és ösztönző rendszer részletes tartalmát,
 
-c) a településképi véleményezési, a településképi bejelentési és a településképi kötelezési eljárásra vonatkozó részletes szabályokat,
+c) a szakmai konzultációra, a településképi véleményezési, a településképi bejelentési és a településképi kötelezési eljárásra vonatkozó részletes szabályokat,
 
 d) azon – jogszabályban építésügyi hatósági engedélyhez kötött – építési tevékenységek körét, amelyek megkezdését településképi véleményezési eljáráshoz köti,
 
@@ -46,6 +46,6 @@ h) a helyi önkormányzat illetékességi területén létesíthető reklámhord
 
 (3) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait.
 
-(4) Felhatalmazást kap az önkormányzat, hogy a széleskörű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapítsa meg a településterv, a kézikönyv és a településképi rendelet készítéséhez, módosításához a lakosság, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (partnerek) történő (partnerségi) egyeztetés részletes szabályait.
+(4) Az önkormányzat a széles körű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapíthatja meg a településterv, a kézikönyv és a településképi rendelet készítéséhez, módosításához a lakossággal, az érdekképviseleti, civil és gazdálkodó szervezetekkel, a vallási közösségekkel, valamint a település közigazgatási területén működő nemzetiségi önkormányzattal, több nemzetiségi önkormányzat esetén valamennyi nemzetiségi önkormányzattal történő partnerségi egyeztetés részletes szabályait.
 
 (5) Felhatalmazást kap az önkormányzat településképi rendelet hiányában, a reklámok, reklámhordozók és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról és a településképi bejelentési eljárásról szóló önkormányzati rendeletnek – a településkép védelméről szóló 2016. évi LXXIV. törvény módosításáról szóló 2016. évi CLXXIV. törvénnyel (a továbbiakban: Módtv.) és a végrehajtására kiadott jogszabályokkal való összhang biztosítása érdekében történő – megalkotására és módosítására.

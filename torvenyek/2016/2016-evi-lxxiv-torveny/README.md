@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-74-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2016-74-00-00.16 |
 | 2021-01-07 | 2020. évi CLXVIII. törvény | 2016-74-00-00.17 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2016-74-00-00.18 |
+| 2021-12-22 | 2021. évi CXLVI. törvény | 2016-74-00-00.19 |

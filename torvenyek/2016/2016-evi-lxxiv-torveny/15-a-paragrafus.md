@@ -2,4 +2,4 @@
 
 (2) Ha a 11/G. § (2) bekezdése alapján listaár közzétételére még nem került sor, a médiahirdetésifelület-értékesítő a szerződés megkötését megelőzően a hatóság részére bejelentett és a hatóság által a honlapján közzétett listaár alkalmazásával köthet szerződést.
 
-15/A. §
+### 15/A. §

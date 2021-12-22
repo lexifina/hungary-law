@@ -2,7 +2,7 @@
 
 2/A. § (1) Az országos jelentőségű településképi követelmény a 3. § (1) bekezdés a), b) és d) pontjában meghatározott követelményekre és ezen követelmények keretszabályaira terjedhet ki.
 
-(2) A Kormány az országos jelentőségű településképi követelmények érvényesítésének elősegítésére a településképi szempontból kiemelten meghatározó területre egyedi településképi arculati kézikönyv (a továbbiakban: egyedi kézikönyv) készítését írhatja elő, az egyedi kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával. Az egyedi kézikönyv az országos főépítész közreműködésével készül.
+(2) A Kormány az országos jelentőségű településképi követelmények érvényesítésének elősegítésére a településképi szempontból kiemelten meghatározó területre kiemelt településképi arculati kézikönyv (a továbbiakban: kiemelt kézikönyv) készítését írhatja elő, a kiemelt kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával. A kiemelt kézikönyv az országos főépítész közreműködésével készül.
 
 (3) A Kormány az országos jelentőségű településképi követelmények érvényesülése érdekében a (4) és (6) bekezdés szerinti országos településkép-érvényesítési eszközök alkalmazását írhatja elő.
 
