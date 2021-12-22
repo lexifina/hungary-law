@@ -2,7 +2,7 @@
 
 (2) Azt az előadó-művészeti szervezetet lehet nemzeti előadó-művészeti szervezetnek minősíteni, amelynek
 
-a) fenntartója az állam vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
+a) fenntartója az állam, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, vagy az e törvény szerinti közszolgáltatási szerződése van az állammal,
 
 b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészei – ide nem értve a gyermek- és csoportos szereplőket – legalább 70%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 
@@ -12,7 +12,7 @@ d) a magyar előadó-művészeti életben betöltött szerepe, a művészeti tev
 
 (3) Azt az előadó-művészeti szervezetet lehet kiemelt előadó-művészeti szervezetnek minősíteni, amelynek
 
-a) fenntartója helyi önkormányzat vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
+a) fenntartója helyi önkormányzat, közfeladatot ellátó közérdekű vagyonkezelő alapítvány, vagy az e törvény szerinti közszolgáltatási szerződése van helyi önkormányzattal,
 
 b) munkavégzésre irányuló jogviszonyban foglalkoztatott művészeinek – ide nem értve a gyermek- és csoportos szereplőket – legalább 60%-a szakirányú felsőfokú végzettséggel vagy művészeti elismeréssel rendelkezik,
 
