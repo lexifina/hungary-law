@@ -32,7 +32,7 @@
 
 ## 4. úgy határoz, hogy a fővárosi egészségügyi alapellátás és járóbeteg-szakellátás fejlesztésének az Egészséges Budapest Program keretében történő megvalósításával kapcsolatos egyes feladatokról szóló 1041/2020. (II. 17.) Korm. határozat [a továbbiakban: 1041/2020. (II. 17.) Korm. határozat] 1. mellékletében foglalt táblázat 4. sorában meghatározott fejlesztés tekintetében az 1041/2020. (II. 17.) Korm. határozat 2. pontjában rögzített felhasználási határidőtől eltérően a felhasználási határidő 2022. június 30.
 
-1. melléklet az 1439/2021. (VII. 6.) Korm. határozathoz
+1. melléklet az 1439/2021. (VII. 6.) Korm. határozathoz[^1]
 
 A 2021. évben a fővárosi és egyes fővárosi kerületi egészségügyi alapellátás és járóbeteg-szakellátás fejlesztésére biztosított központi költségvetési támogatás részletezése
 
@@ -64,7 +64,7 @@ A 2021. évben a fővárosi és egyes fővárosi kerületi egészségügyi alape
 
 | 13. | Budapest Főváros XIII. kerületi Önkormányzat | épületfelújítás, -korszerűsítés, orvosieszköz-fejlesztés, infokommunikációseszköz- és szolgáltatásfejlesztés | 1 500 000 000 |
 
-| 14. | Budapest Főváros XIV. kerület Zugló Önkormányzata | épületfelújítás, -korszerűsítés | 400 000 000 |
+| 14. | Budapest Főváros XIV. kerület Zugló Önkormányzata | új egészségközpont megvalósításának I. üteme | 400 000 000 |
 
 | 15. | Budapest Főváros XV. kerület Rákospalota, Pestújhely, Újpalota Önkormányzata | épületfelújítás, -korszerűsítés | 131 424 335 |
 
@@ -81,3 +81,5 @@ A 2021. évben a fővárosi és egyes fővárosi kerületi egészségügyi alape
 | 21. | Budafok-Tétény Budapest XXII. kerület Önkormányzata | épületfelújítás, -korszerűsítés, orvosieszköz-fejlesztés | 225 000 000 |
 
 | 22. | ÖSSZESEN | 10 264 874 335 |
+
+[^1]: Az 1. melléklet az 1953/2021. (XII. 22.) Korm. rendelet 15. pontja szerint módosított szöveg.
