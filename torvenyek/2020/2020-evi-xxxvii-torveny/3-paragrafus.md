@@ -23,3 +23,5 @@
 (11)
 
 (12) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, Sopron, külterület 0516, 0514/1, 0514/2, valamint a 0517/1 helyrajzi számú állami tulajdonban lévő ingatlanok valós művelési ágának ingatlan-nyilvántartási feltüntetését követően ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek.
+
+(13) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. § (1) bekezdése alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében meghatározott közfeladata ellátása érdekében – a Sopron, külterület 0636/2 és a Sopron, belterület 9401/1 helyrajzi számú állami tulajdonban lévő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel, alapítói vagyoni juttatásként az indulótőke növelése érdekében az Alapítvány tulajdonába kell adni.
