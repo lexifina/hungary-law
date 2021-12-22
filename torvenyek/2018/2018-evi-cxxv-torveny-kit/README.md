@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-125-00-00
 | 2021-07-02 | 2021. évi LXXXIX. törvény | 2018-125-00-00.20 |
 | 2021-07-08 | 2021. évi LXXIX. törvény | 2018-125-00-00.21 |
 | 2021-09-30 | 2021. évi CIII. törvény | 2018-125-00-00.22 |
+| 2021-12-22 | 2021. évi CXLVIII. törvény | 2018-125-00-00.23 |
