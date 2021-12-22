@@ -581,3 +581,21 @@ c) a tankötelessé válásának időpontját,
 d) a felmentést engedélyező szerv döntése alapján a felmentés tényét és hatályát.
 
 e) ha a gyermek, tanuló tankötelezettségét külföldön teljesíti, a tanulmányok külföldön történő folytatásának kezdő és várható befejező időpontját. valamint azt az országot, ahol a tanuló a tankötelezettségét teljesíti.
+
+XVI. A hit- és erkölcstanoktatásban, a fakultatív hitoktatásban közreműködő, továbbá az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittant oktató nyilvántartása
+
+A nyilvántartás a tevékenység ellenőrzése finanszírozásának ellenőrzése céljából tartalmazza a személy:
+
+a) oktatási azonosító számát,
+
+b) végzettségére és szakképzettségére vonatkozó adatokat,
+
+c) munkavégzésének helyét,
+
+d) munkaidejének mértéket,
+
+e) foglalkoztatójának megnevezését,
+
+f) elektronikus levelezési címét.
+
+A nyilvántartásból a munkajogi jogviszony megszűnését követő 30 napon belül az adatokat törölni kell.

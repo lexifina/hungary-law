@@ -52,6 +52,8 @@ n) az óvodai nevelésben részvételre kötelezett gyermekek nyilvántartása;
 
 o) a tanköteles gyermekek nyilvántartása.
 
+p) a hit- és erkölcstanoktatásban, a fakultatív hitoktatásban közreműködő, továbbá az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittant oktató személyek nyilvántartása.
+
 (2a) Az (1) bekezdés b) pontja szerinti szakrendszer személyes adatokat tartalmazó alrendszerei:
 
 a) a szakképzési intézménytörzs,

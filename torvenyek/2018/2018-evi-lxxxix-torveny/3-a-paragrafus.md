@@ -24,6 +24,8 @@ i) köznevelési intézményben óraadóként dolgozik,
 
 j) szerepel az Országos érettségi vizsgaelnöki névjegyzéken, az Országos szakértői névjegyzéken, illetve az Országos szaktanácsadói névjegyzéken,
 
+k) köznevelési intézményben hit- és erkölcstanoktatási, fakultatív hitoktatási, továbbá az egyházi jogi személy vagy annak belső egyházi jogi személye által fenntartott iskolában nem a saját felekezetnek megfelelő hittanoktatási feladatokat lát el,
+
 2. a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) alapján
 
 a) tanulói jogviszonyban áll,
