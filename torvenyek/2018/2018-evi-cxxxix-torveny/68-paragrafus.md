@@ -4,6 +4,6 @@
 
 a) zöldterületként legfeljebb 3%-os beépítettséggel vagy
 
-b) különleges strand települési övezetként
+b) különleges strand terület övezetként
 
 történhet.

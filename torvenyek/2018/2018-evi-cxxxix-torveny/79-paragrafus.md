@@ -12,7 +12,7 @@ d) csarnok nem helyezhető el;
 
 e) új építmény elhelyezése, műszaki infrastruktúra telepítése csak tájba illesztve, az illetékes természetvédelmi hatóság, valamint a Balatoni főépítész hozzájárulása alapján történhet;
 
-f) 10 méter beépítési magasságot meghaladó építmény – a kizárólag kilátó rendeltetésű építmény és a víztorony kivételével – nem létesíthető;
+f) építmény legmagasabb pontja kizárólag kilátó rendeltetésű építmény és víztorony esetén haladhatja meg a 10 métert.
 
 g) védelmi és közjóléti erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 

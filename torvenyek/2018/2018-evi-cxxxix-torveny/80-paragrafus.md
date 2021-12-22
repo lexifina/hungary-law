@@ -4,7 +4,7 @@
 
 a) országos jelentőségű védett természeti terület szántó művelési ágú területén építmény – út- és közműhálózat építménye kivételével – nem helyezhető el;
 
-b) a kertes mezőgazdasági terület övezetébe is besorolt területeken a 2700 m2-nél kisebb telek nem építhető be;
+b) a kertes mezőgazdasági terület övezetébe is besorolt területeken a 2700 m2-nél kisebb telken épület nem helyezhető el;
 
 c) közlekedési infrastruktúra építménye, egyéb közművezeték, illetve építmény tájba illesztve létesíthető;
 

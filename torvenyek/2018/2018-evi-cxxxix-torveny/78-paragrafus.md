@@ -6,7 +6,7 @@ a) a kialakult tájhasználat csak a természetközeli állapothoz való közel�
 
 b) új építmény csak természetvédelmi kezelés és bemutatás céljából, valamint legfeljebb 30 m2 bruttó alapterületű szakrális építményként helyezhető el;
 
-c) 10 méter beépítési magasságot meghaladó építmény – a kizárólag kilátó rendeltetésű építmény kivételével – nem létesíthető;
+c) építmény legmagasabb pontja kizárólag kilátó rendeltetésű építmény esetén haladhatja meg a 10 métert.
 
 d) védelmi és közjóléti erdőtelepítés, külterületi fásítás kizárólag őshonos fafajokkal végezhető;
 

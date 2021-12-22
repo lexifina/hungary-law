@@ -12,7 +12,7 @@ ca) a beépíthető telek legkisebb nagyságára és beépítettségére, valami
 
 cb) az I. osztályú borszőlő termőhelyi kataszteri területen a legalább 80%-ban szőlő művelési ágban nyilvántartott és ennek megfelelően művelt telken, kizárólag szőlőművelést, szőlőfeldolgozást, bortárolást vagy borturizmust szolgáló rendeltetéssel, összesen legfeljebb 3000 m2 nagyságú bruttó alapterülettel, a II. osztályú borszőlő termőhelyi kataszteri területen pedig a mezőgazdaságilag műveltnek minősülő telken, legfeljebb 3000 m2 nagyságú bruttó alapterülettel
 
-helyezhető el;
+építhető és bővíthető;
 
 d) szakrális építmény, amely a szőlőhegyek tájképéhez hagyományosan hozzátartozó tájképformáló elem – szőlőműveléssel nem hasznosított területen is – a telek méretétől függetlenül elhelyezhető, legfeljebb 30 m2 bruttó alapterülettel, legfeljebb 3%-os beépítettséggel;
 
@@ -22,7 +22,7 @@ f) a borszőlő termőhelyi kataszteri területből való kivonás és átminős
 
 (2) Az (1) bekezdés szerinti előírásokat a már kijelölt beépítésre szánt területeken nem kell alkalmazni.
 
-(3) Az övezet területén található egyedi értékű dűlőkön új építményként csak a szőlőtermesztéssel összefüggő rendeltetésű építmény helyezhető el, amelyről a településrendezési tervben rendelkezni kell.
+(3) Az övezet területén található egyedi értékű dűlőkön új építményként csak a szőlőtermesztéssel összefüggő rendeltetésű építmény építhető, amelyről a településrendezési tervben rendelkezni kell.
 
 (4) A (3) bekezdés szerinti egyedi értékű dűlők lehatárolását és a megőrzésükre vonatkozó követelményeket e törvény felhatalmazása alapján kiadott miniszteri rendelet tartalmazza.
 

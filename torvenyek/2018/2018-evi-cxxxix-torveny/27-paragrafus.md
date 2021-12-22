@@ -1,6 +1,6 @@
 ## 15. Ökológiai hálózat pufferterületének övezete
 
-27. § (1) Az ökológiai hálózat pufferterületének övezetében – kivéve, ahol az Ország Szerkezeti Terve, a Budapesti Agglomeráció Szerkezeti Terve vagy a Balaton Kiemelt Üdülőkörzet Szerkezeti Terve települési térséget határoz meg – csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete, ökológiai folyosója és pufferterülete övezetek természetes és természetközeli élőhelyeit és azok kapcsolatait nem veszélyezteti.
+27. § (1) Az ökológiai hálózat pufferterületének övezetében csak olyan megyei területfelhasználási kategória és megyei övezet, valamint a településrendezési tervben olyan övezet és építési övezet jelölhető ki, amely az ökológiai hálózat magterülete, ökológiai folyosója és pufferterülete övezetek természetes és természetközeli élőhelyeit és azok kapcsolatait nem károsítja.
 
 (2) Az ökológiai hálózat pufferterületének övezetében – a (3) bekezdésben meghatározott feltétel kivételével – a településrendezési terv beépítésre szánt területet csak abban az esetben jelölhet ki, ha az a szomszédos magterület vagy ökológiai folyosó természeti értékeit, biológiai sokféleségét, valamint táji értékeit nem veszélyezteti.
 

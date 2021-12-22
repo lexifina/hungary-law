@@ -10,4 +10,4 @@ c) a települési térség területének legalább 90%-át települési térség
 
 (2) A vízgazdálkodási térség területét vízgazdálkodási térség kategóriába kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani.
 
-(3) A sajátos területfelhasználású térségbe sorolt országos területfelhasználási térség területét a fenti számításnál figyelmen kívül kell hagyni.
+(3) Az 5 ha-nál nagyobb külfejtéses művelésű bányaterületet, hulladékártalmatlanító létesítmény elhelyezésére szolgáló területet, egészségügyi, sportolási, közlekedési és honvédelmi területet a megyei területrendezési tervben sajátos területfelhasználású térségbe kell sorolni. A sajátos területfelhasználású térségbe sorolt országos területfelhasználási kategória területét az (1) bekezdés szerinti számításnál figyelmen kívül kell hagyni.

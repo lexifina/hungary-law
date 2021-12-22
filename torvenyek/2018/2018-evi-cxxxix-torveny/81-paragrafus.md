@@ -14,7 +14,7 @@ d) a kialakult geomorfológiai formák természetes domborzati adottságai és l
 
 (3) A tájképvédelmi szempontból kiemelten kezelendő terület övezetén:
 
-a) új épület vagy építmény elhelyezése tájba illesztve, a történeti tájszerkezet, a táji és tájképi értékek és az egyedi tájértékek megőrzésével, a tájkarakter erősítésével, a helyi építészeti hagyományok követése mellett, a beépítésre nem szánt területen a telek a meglévő beépítéshez igazodó, de legfeljebb 3%-os beépítésével történhet;
+a) új épület vagy építmény elhelyezése tájba illesztve, a történeti tájszerkezet, a táji és tájképi értékek és az egyedi tájértékek megőrzésével, a tájkarakter erősítésével, a helyi építészeti hagyományok követése mellett, a beépítésre nem szánt területen a telek a meglévő beépítéshez igazodó, de legfeljebb 3%-os beépítettséggel történhet;
 
 b) új üzemanyagtöltő állomás és hulladékkezelő létesítmény – a komposztáló telepet és az átrakóállomást kivéve – nem létesíthető;
 
