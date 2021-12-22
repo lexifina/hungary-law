@@ -1,3 +1,3 @@
-## 8. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 181/B. §-a a következő (11) bekezdéssel egészül ki:
+## 8. §[^8]
 
-## „(11) Az idegenrendészetért és menekültügyért felelős miniszter a (8) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult külföldi hatóságok számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint a külföldi tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.”
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
-## „(10) Az idegenrendészetért és menekültügyért felelős miniszter a (7) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult EGT-állam hatóságai számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint az EGT-állam által kiállított tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.”
+## 2. §[^2]
 
 ## 3. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
+
+[^2]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

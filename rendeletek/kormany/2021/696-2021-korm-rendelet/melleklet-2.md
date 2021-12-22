@@ -1,3 +1,3 @@
-2. melléklet a 696/2021. (XII. 13.) Korm. rendelethez[^15]
+2. melléklet a 696/2021. (XII. 13.) Korm. rendelethez[^22]
 
-[^15]: A 2. melléklet a 22. § (3) bekezdése alapján 2022. június 7-én lép hatályba.
+[^22]: A 2. melléklet a 22. § (3) bekezdése alapján 2022. június 7-én lép hatályba.
