@@ -1,4 +1,4 @@
-## 11–12. §[^1]
+## 11–12. §[^5]
 
 1. melléklet a 262/2021. (V. 20.) Korm. rendelethez
 
@@ -52,4 +52,4 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

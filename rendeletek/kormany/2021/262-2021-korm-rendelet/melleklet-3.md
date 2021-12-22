@@ -34,6 +34,6 @@
 
 | 16. | 234860.37 | 646928.75 |
 
-3. melléklet a 262/2021. (V. 20.) Korm. rendelethez[^2]
+3. melléklet a 262/2021. (V. 20.) Korm. rendelethez[^6]
 
-[^2]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
