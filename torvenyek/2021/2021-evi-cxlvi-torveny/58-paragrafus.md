@@ -16,21 +16,21 @@
 
 8. 41. § (2) bekezdésében a „jellegük” szövegrész helyébe a „jellege” szöveg és az „az azok” szövegrész helyébe az „a műemlék” szöveg,
 
-9. 61/D. § (3) bekezdés e) pontjában a „feljegyzéséről” szövegrész helyébe a „bejegyzéséről” szöveg,
+9.
 
 10. 61/K. § (3) bekezdésében az „egyedi településképi arculati kézikönyv” szövegrész helyébe a „kiemelt településképi arculati kézikönyv” szöveg és az „az egyedi kézikönyv” szövegrész helyébe az „a kiemelt kézikönyv” szöveg,
 
-11. 67. § (6) bekezdés a) pontjában és 84. § (2) bekezdés a) pontjában a „bejegyzése és a terhelési tilalom ingatlan-nyilvántartásba történő feljegyzése” szövegrész helyébe az „és a terhelési tilalom ingatlan-nyilvántartásba történő bejegyzése” szöveg,
+11.
 
-12. 67. § (7) bekezdésében és 84. § (3) bekezdésében a „feljegyzett” szövegrész helyébe a „bejegyzett” szöveg,
+12.
 
 13. 72. § (1) bekezdésében a „fennállásának” szövegrész helyébe a „létrejöttének, fennállásának” szöveg,
 
 14. 72. § (1a) bekezdésében a „korlátozható, ezen adatok közléséért igazgatási szolgáltatási díj nem szedhető” szövegrész helyébe a „korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni” szöveg,
 
-15. 72. § (6) bekezdésében és 74. § (2) bekezdésében a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg,
+15.
 
-16. 74. § (3) bekezdésében a „feljegyzés” szövegrész helyébe a „bejegyzés” szöveg,
+16.
 
 17. 75/A. § (1a) bekezdésében a „szervezet” szövegrész helyébe az „örökségvédelmi szerv” szöveg,
 

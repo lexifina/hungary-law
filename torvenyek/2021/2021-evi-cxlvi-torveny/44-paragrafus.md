@@ -28,17 +28,17 @@
 
 14. 15. § (2) bekezdésében a „polgármestere gondoskodik.” szövegrész helyébe a „polgármestere gondoskodik azzal, hogy az érintett települések közigazgatási területe vonatkozásában az egyeztetés külön-külön eljárásban történik.” szöveg,
 
-15. 20. § (6) bekezdésében, 30/A. § (5) bekezdésében, valamint 47. § (3) bekezdésében a „megkeresésére” szövegrész helyébe a „felhívására” szöveg,
+15.
 
 16. 27. § (11) bekezdésében a „lakó és üdülő” szövegrész helyébe a „lakó vagy üdülő” szöveg,
 
-17. 29. § (5) bekezdésében a „megkeresi” szövegrészek helyébe a „felhívja” szöveg, a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg,
+17.
 
 18. 30. § (11) bekezdésében a „településrendezési eszköz” szövegrész helyébe a „településrendezési terv” szöveg,
 
-19. 30/A. § (5) bekezdésében a „fel kell jegyeztetni” szövegrész helyébe a „be kell jegyeztetni” szöveg, a „megkeresi” szövegrész helyébe a „felhívja” szöveg,
+19.
 
-20. 30/A. § (5a) bekezdésében a „feljegyezni” szövegrész helyébe a „bejegyezni” szöveg,
+20.
 
 21. 32. § (1) bekezdésében az „építményegyüttes” szövegrész helyébe az „építményegyüttes, táj- és kertépítészeti alkotás” szöveg,
 
@@ -54,7 +54,7 @@
 
 27. 52. § (8) bekezdés b) pontjában az „előidézése” szövegrész helyébe az „előidézése, valamint az építésrendészeti eljárás” szöveg,
 
-28. 57. § (5) bekezdésében az „ingatlan-nyilvántartásban fel kell jegyezni” szövegrész helyébe az „ingatlan-nyilvántartásba be kell jegyezni” szöveg,
+28.
 
 29. 60. § (7a) bekezdésében a „településrendezési eszközöket” szövegrész helyébe a „településrendezési eszközöket vagy településrendezési terveket” szöveg,
 

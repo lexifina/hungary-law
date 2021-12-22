@@ -1,5 +1,3 @@
-## 37. A hulladékról szóló 2012. évi CLXXXV. törvény módosítása
+## 37.
 
-88. § A hulladékról szóló 2012. évi CLXXXV. törvény 61. § (24) bekezdése helyébe a következő rendelkezés lép:
-
-„(24) A (3) bekezdésben foglaltak esetén a hulladékgazdálkodási hatóság a magyar állam javára a követelés és kamatai összegéig jelzáloggal terheli meg a (3) bekezdésben meghatározott ingatlant, és az ingatlanügyi hatóság a hulladékgazdálkodási hatóság felhívására a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi. Az eljárás soron kívüli ügyintézési határideje az eljárás ügyintézési határidejének a fele.”
+88. §
