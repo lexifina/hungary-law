@@ -8,6 +8,6 @@ b) irányítja a kulturális örökség védelmével összefüggő feladatokat e
 
 (3) A hatósági és egyéb szakmai döntések előkészítését jogszabályban meghatározottak szerint örökségvédelmi tanácsadó testületek segítik.
 
-(4) A kulturális örökség védett elemeinek megóvását a jogszabályban kijelölt örökségvédelmi szerv jogszabályban meghatározottak szerint szakértői szolgáltatásokkal segíti elő.
+(4) A kulturális örökség védett elemeinek megóvását, tudományos kutatását és értékelését a jogszabályban kijelölt örökségvédelmi szerv jogszabályban meghatározottak szerint szakértői szolgáltatásokkal segíti elő.
 
-(5) Műemlékkel kapcsolatos építésügyi hatósági eljárásban – törvény vagy kormányrendelet szerinti igénybevétel esetén, a területi építészeti-műszaki tervtanács kijelölésének esetét kivéve – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság az eljárása, döntése meghozatala során bizonyítékként veheti figyelembe. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.
+(5) Műemlékkel kapcsolatos építésügyi hatósági eljárásban – törvényben vagy kormányrendeletben meghatározott beavatkozás, illetve tevékenység esetén, a területi építészeti-műszaki tervtanács kijelölésének esetét kivéve – a (3) bekezdés szerinti tanácsadó testületként a központi építészeti-műszaki tervtanács jár el, amelynek véleményét az építésügyi és építésfelügyeleti hatóság az eljárása, döntése meghozatala során bizonyítékként veheti figyelembe. A műemlékkel kapcsolatos eljárásban a központi építészeti-műszaki tervtanács tagja a Magyar Művészeti Akadémia által delegált tag is.

@@ -10,7 +10,7 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 (2) Az ideiglenes védelem nem hosszabbítható meg.
 
-(3) Az ideiglenes műemléki védelem alatt álló ingatlanra – a 68. § kivételével – a műemlékekre vonatkozó rendelkezéseket kell alkalmazni.
+(3) Az ideiglenes műemléki védelem alatt álló ingatlanra – a 68. § és 86. § kivételével – a műemlékekre vonatkozó rendelkezéseket kell alkalmazni.
 
 (4) Az ideiglenes védelem megszűnik a határozatban megjelölt időtartam elteltével, illetve a műemlékké nyilvánításról szóló rendelet hatálybalépésével.
 

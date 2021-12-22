@@ -96,15 +96,15 @@ l)
 
 m)
 
-n) egyes nyilvántartott műemléki értékek műemlékké nyilvánítását és a műemléki védettség megszüntetését;
+n) egyes műemléki értékek műemlékké nyilvánítását és a műemléki védettség megszüntetését;
 
 o)
 
 p)
 
-q) a kulturális javak nyilvántartásával összefüggésben – az adópolitikáért felelős miniszterrel egyetértésben – az igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat,
+q)
 
-r) az adópolitikáért felelős miniszterrel egyetértésben a kulturális javak kivitelének engedélyezésére irányuló eljárásért fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint megfizetésének részletes szabályait,
+r)
 
 s) az Európai Örökség cím elnyerésére pályázó helyszínek közül az arra érdemesnek tartott helyszínek nemzeti szintű előzetes kiválasztására vonatkozó eljárási szabályokat.
 

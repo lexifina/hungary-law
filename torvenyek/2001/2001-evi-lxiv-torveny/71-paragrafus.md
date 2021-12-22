@@ -24,7 +24,7 @@ b) a kiviteli engedélyekről és igazolásokról,
 
 c) a Magyarország területén jogellenesen eltulajdonított, valamint a Magyarországról jogtalanul kivitt vagy ilyen módon behozott kulturális javakról,
 
-d) a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott kulturális javakról,
+d) a jogellenesen kivitt kulturális javak visszaszolgáltatásáról szóló 2001. évi LXXX. törvény 2. § 1. pontjában meghatározott, Magyarország területéről jogtalanul kivitt vagy ilyen módon behozott kulturális javakról,
 
 e) a kölcsönzött kulturális javak különleges védelméről szóló tanúsítványokról,
 

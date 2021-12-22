@@ -12,4 +12,4 @@ terjed ki.
 
 (3) A védett műemlék és műemléki terület esetében a nevesített műemléki értéket a műemléki értékleltárba fel kell venni és azt a közhiteles nyilvántartásnak is tartalmaznia kell. Nevesített műemléki érték lehet a műemlék fekvése szerinti ingatlan vagy ingatlanrész is.
 
-(4) A műemlék jogszabályban meghatározott környezete műemléki környezetnek minősül.
+(4) A műemlék jogszabályban meghatározott környezete műemléki környezetnek minősül. A műemléki környezet a műemlék védőövezete. A műemlék védettségének megszüntetése esetén a jogszabályban meghatározott műemléki környezet megszűnik

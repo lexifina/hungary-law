@@ -12,7 +12,7 @@ ac) a kiemelt nemzeti emlékhelyen, valamint a településkép-védelmi környez
 
 b) rendeletben állapíthatja meg a beépítési szabályokat, valamint az ezekkel összefüggő sajátos építésügyi és örökségvédelmi követelményeket.
 
-(3) A Kormány a (2) bekezdés a) pont ab) alpontja alapján az egyedi településképi követelmények érvényesítése érdekében egyedi településképi arculati kézikönyv készítését írhatja elő, az egyedi kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával.
+(3) A Kormány a (2) bekezdés a) pont ab) alpontja alapján az egyedi településképi követelmények érvényesítése érdekében kiemelt településképi arculati kézikönyv készítését írhatja elő, a kiemelt kézikönyv tartalmára, elkészítésére és egyeztetésére vonatkozó részletes szabályok meghatározásával.
 
 (4) A kiemelt nemzeti emlékhelyre és annak településkép-védelmi környezetére – a (2) bekezdés a) pont ab) alpontja szerinti kormányrendeletben meghatározott esetekben és részletszabályok szerint – a hatóság
 

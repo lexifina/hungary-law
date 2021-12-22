@@ -22,4 +22,4 @@ c) védettségének megszüntetését a hatóság kezdeményezheti.
 
 (6) Ha a műemléki védettség megszüntetésével egyidejűleg értékvizsgálati dokumentáció alapján került sor a nyilvántartott műemléki érték jelleg megállapítására, értékmeghatározó szakértői vizsgálat nélkül alkalmazhatók a (3) bekezdés b) pontjában foglaltak.
 
-(7) A védett műemlékek vonatkozásában az elővásárlási jog akkor áll fenn, ha azt a védetté nyilvánító vagy a védettséget módosító rendelet kimondja, vagy az elővásárlási jog a 86. § (4) bekezdése alapján áll fenn. A 2020. augusztus 31-én nyilvántartott műemléki érték kategóriába tartozó ingatlanok vonatkozásában az államot elővásárlási jog nem illeti meg.
+(7)

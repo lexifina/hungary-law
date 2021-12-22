@@ -1,1 +1,1 @@
-33. § Egyes jelentős történeti és kulturális értékű, illetve veszélyeztetett helyzetű műemlékek és műemlékegyüttesek fokozott védelmét biztosítani kell.
+33. § Egyes jelentős történeti és kulturális értékű, illetve veszélyeztetett helyzetű műemlékek és műemlékegyüttesek fokozott védelmét, valamint a védett értékek egységes tulajdonosi szerkezetét biztosítani kell.
