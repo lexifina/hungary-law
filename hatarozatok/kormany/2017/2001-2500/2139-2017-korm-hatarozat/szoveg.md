@@ -4,7 +4,7 @@ A Kormány
 
 a) a Nagykereki Belterület 610/1 helyrajzi szám alatt felvett, kivett könyvtár, múzeum megjelölésű, természetben 4127 Nagykereki, Bocskai utca 1. szám alatt található ingatlan felújításával, valamint
 
-b) a Nagykereki Belterület 610/2 helyrajzi szám alatt felvett, kivett magtár megjelölésű ingatlan állam általi megvásárlásával és felújításával;
+b)[^1] a Nagykereki Belterület 610/2 helyrajzi szám alatt felvett, kivett magtár megjelölésű ingatlan állam általi megvásárlásával és felújításával, figyelemmel arra, hogy az a) alpontban meghatározott ingatlannal korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt;
 
 2. felhívja a Miniszterelnökséget vezető minisztert, hogy
 
@@ -50,8 +50,11 @@ Határidő: az a) alpont tekintetében azonnal
 
 a b) alpont tekintetében a felmerülés ütemében
 
-5. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Magyar Nemzeti Vagyonkezelő Zrt. útján az 1. pont b) alpontjában meghatározott ingatlannak a központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezete terhére – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken – az állam javára történő megvásárlásáról, és ezt követően Nagykereki Község Önkormányzata részére történő ingyenes használatba adásáról.
+5.[^2] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a Magyar Nemzeti Vagyonkezelő Zrt. útján az 1. pont b) alpontjában meghatározott ingatlannak a központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezete terhére – legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken – az állam javára történő megvásárlásáról, vagy a megvásárlás meghiúsulása esetén kisajátításáról, és ezt követően Nagykereki Község Önkormányzata részére történő ingyenes használatba adásáról.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2018. március 31.
+
+[^1]: Az 1. pont b) alpontja az 1953/2021. (XII. 22.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pontja az 1953/2021. (XII. 22.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
