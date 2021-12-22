@@ -12,7 +12,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2021. december 31.
+## Határidő: 2022. december 31.
 
 1. melléklet az 1067/2017. (II. 9.) Korm. határozathoz
 
@@ -95,4 +95,4 @@ Költségvetési év: 2017.
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 [^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: A 2. pont az 1899/2020. (XII. 14.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1899/2020. (XII. 14.) Korm. határozat 2. pontja, az 1953/2021. (XII. 22.) Korm. határozat 2. pontja szerint módosított szöveg.

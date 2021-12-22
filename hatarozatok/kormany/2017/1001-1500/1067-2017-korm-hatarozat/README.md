@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1067-30
 | 2019-02-22 | 2017-1067-30-22.3 | 1080/2018. (III. 13.) Korm. határozat |
 | 2020-12-14 | 2017-1067-30-22.4 | 1899/2020. (XII. 14.) Korm. határozat |
 | 2021-01-01 | 2017-1067-30-22.7 | 2011: CXCV. törvény |
+| 2021-12-22 | 2017-1067-30-22.5 | 1899/2020. (XII. 14.) Korm. határozat |
