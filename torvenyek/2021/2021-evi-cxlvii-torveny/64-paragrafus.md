@@ -1,1 +1,1 @@
-64. § A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény 8. §-ában az „a 4. §, az” szövegrész helyébe az „a 3/A. §, a 4. §, a 4/A. §, a 4/B. §, az” szöveg lép.
+64. §

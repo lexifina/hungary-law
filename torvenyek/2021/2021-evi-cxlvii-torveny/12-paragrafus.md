@@ -1,3 +1,1 @@
-12. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 52. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) Az a nem magyar állampolgár, aki általános orvos szakon oklevelet szerzett és a doktori képzés képzési és kutatási szakaszát az általános orvos szakon fennálló hallgatói jogviszonyával párhuzamosan egyéni felkészülőként teljesítette, valamint a komplex vizsga mellett az egészségtudományi képzést folytató felsőoktatási intézmény által meghatározott külön feltételnek, a komplex vizsgához társuló dolgozatkészítési és -védési kötelezettségnek is eleget tett, külföldön a képzési területre utaló doktori cím használatára jogosult. A cím rövidített jelölése: Dr. med.”
+12. §

@@ -2,7 +2,7 @@
 
 a) 15. § (1) bekezdésében a „kiadott” szövegrész helyébe a „közzétett” szöveg,
 
-b) 18. § (4) bekezdésében az „a szakképzésről szóló törvényben” szövegrész helyébe az „az Szkt.-ban” szöveg,
+b)
 
 c) 18. § (4) bekezdésében az „alaprendszerek számára a tanulmányi” szövegrész helyébe az „alaprendszerek és a Köznevelési Regisztrációs és Tanulmányi Alaprendszerek számára a kapcsolódó statisztikai adatokkal együtt a tanulmányi” szöveg,
 

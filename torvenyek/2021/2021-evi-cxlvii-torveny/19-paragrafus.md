@@ -1,6 +1,6 @@
 19. § Hatályát veszti a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény
 
-a) 14. § (4) bekezdése,
+a)
 
 b) 42. § (2) bekezdésében a „felsőfokú végzettségű” szövegrész,
 
