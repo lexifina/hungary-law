@@ -136,9 +136,12 @@
 
 ## d) a 2025. évben az 1.12. alpont a) pontja szerinti beszerzés vonatkozásában legfeljebb 47 520 850 000 forint.
 
-## 2.[^2]
+## 1.15.[^2] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdése alapján, az 1.7. alpont szerinti egyedi támogatással összefüggésben úgy határoz, hogy az egyes karcagi sportinfrastruktúra-fejlesztésekkel kapcsolatos beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 710/2021. (XII. 15.) Korm. rendelet 2. melléklet 2. pontja szerinti beruházás során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.
+
+## 2.[^3]
 
 1. melléklet az 1886/2021. (XII. 8.) Korm. határozathoz
 
 [^1]: Az 1. pont 1.10. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont 1.15. alpontját az 1953/2021. (XII. 22.) Korm. határozat 20. pontja iktatta be.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

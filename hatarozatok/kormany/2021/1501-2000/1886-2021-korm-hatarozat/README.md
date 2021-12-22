@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1886-30
 | --- | --- | --- |
 | 2021-12-08 | 2021-1886-30-22.1 | 1886/2021. (XII. 8.) Korm. határozat |
 | 2021-12-09 | 2021-1886-30-22.2 | 2010: CXXX. törvény |
+| 2021-12-22 | 2021-1886-30-22.3 | 1953/2021. (XII. 22.) Korm. határozat |
