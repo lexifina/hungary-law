@@ -6,7 +6,7 @@ a) a tanulmányaihoz kapcsolódó résztanulmányok folytatása céljából más
 
 b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugyanazon képzési területhez tartozó szakjára.
 
-(2) A felsőoktatási intézmény a vele hallgatói jogviszonyban nem álló felsőfokú végzettségű személyeket – részismereti képzés céljából – hallgatói jogviszony keretében, az intézmény bármely kurzusára, moduljára – külön felvételi eljárás nélkül – önköltséges képzésre felveheti. Az intézmény a tanulmányi teljesítményről igazolást köteles kiállítani. Az elvégzett kurzus, modul teljesítése felsőfokú tanulmányokba a kreditátvitel szabályai szerint beszámítható.
+(2) A felsőoktatási intézmény a vele hallgatói jogviszonyban nem álló személyeket – részismereti képzés céljából – hallgatói jogviszony keretében, az intézmény bármely kurzusára, moduljára – külön felvételi eljárás nélkül – önköltséges képzésre felveheti. Az intézmény a tanulmányi teljesítményről a tanulmányi rendszeréből a tárgyleírást (tematika) is tartalmazó igazolást köteles kiállítani. Az elvégzett kurzus, modul teljesítése felsőfokú tanulmányokba a kreditátvitel szabályai szerint beszámítható.
 
 (3) Az (1)–(2) bekezdésekben meghatározott kérelmek teljesítésének feltételeit a fogadó felsőoktatási intézmény határozza meg.
 
@@ -18,4 +18,4 @@ b) kérheti átvételét azonos, illetve másik felsőoktatási intézmény ugya
 
 (7) A (6) bekezdéstől eltérően az alapképzésben tanulmányokat folytató hallgató átvehető felsőoktatási szakképzésre.
 
-(8) A hallgató vagy a volt hallgató kérheti felvételét – a központi felsőoktatási felvételi eljárásban történő részvétel nélkül, önköltséges képzésre – azonos, illetve másik felsőoktatási intézmény informatika képzési területének olyan szakára, ahol az adott felsőoktatási intézmény kreditátviteli szabályai szerint legalább 30 beszámítható kreditponttal rendelkezik.
+(8) A hallgató vagy a korábban hallgatói jogviszonnyal rendelkező személy kérheti felvételét – a központi felsőoktatási felvételi eljárásban történő részvétel nélkül, önköltséges képzésre – azonos, illetve másik felsőoktatási intézmény informatika képzési területének olyan szakára, ahol az adott felsőoktatási intézmény kreditátviteli szabályai szerint legalább 30 beszámítható kreditponttal rendelkezik.

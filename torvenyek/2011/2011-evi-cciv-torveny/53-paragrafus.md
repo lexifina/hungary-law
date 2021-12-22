@@ -4,11 +4,13 @@
 
 ## 31. A doktori képzés és a doktori fokozatszerzési eljárás
 
-53. § (1) A doktori képzés a tudományterület sajátosságaihoz és a doktorandusz igényeihez igazodó egyéni vagy csoportos felkészítés keretében folyó képzési, kutatási és beszámolási tevékenység, amely képzési és kutatási, valamint kutatási és disszertációs szakaszból áll. A doktori képzés során, a negyedik félév végén, a képzés képzési és kutatási szakaszának lezárásaként és a kutatási és disszertációs szakasz megkezdésének feltételeként komplex vizsgát kell teljesíteni, amely méri, értékeli a tanulmányi, kutatási előmenetelt.
+53. § (1) A doktori képzés a tudományterület sajátosságaihoz és a doktorandusz igényeihez igazodó egyéni vagy csoportos felkészítés keretében folyó képzési, kutatási és beszámolási tevékenység, amely képzési és kutatási, valamint kutatási és disszertációs szakaszból áll. A doktori képzés során, a negyedik félév végén, vagy a (3a) bekezdés alkalmazásában a követelmények teljesítése esetén legkorábban a második félév végén, legkésőbb a negyedik félév végén, a képzés képzési és kutatási szakaszának lezárásaként és a kutatási és disszertációs szakasz megkezdésének feltételeként komplex vizsgát kell teljesíteni, amely méri, értékeli a tanulmányi, kutatási előmenetelt.
 
 (2) A doktori képzés során a komplex vizsgát követően a fokozatszerzési eljárásban a hallgató a kutatási és disszertációs szakasz teljesítésével vesz részt, amelynek célja a doktori fokozat megszerzése.
 
 (3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsga teljesítésével jön létre.
+
+(3a) A doktori képzésbe olyan módon is bekapcsolódhat a hallgató, hogy mesterképzési szakon folytatott tanulmányai utolsó tanévének tanulmányaival párhuzamosan doktori képzés részét képező felkészülésben is részt vesz, feltéve, hogy a hallgató a mesterszakos oklevele megszerzését követően teljesíti a felvétel követelményeit is. A felvételi döntéssel egyidejűleg – a felsőoktatási intézmény doktori szabályzata alapján – a mesterképzésben felvett kreditek elismerésre kerülnek.
 
 (4) A doktorandusznak a komplex vizsgát követő három tanéven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő esetekben legfeljebb egy tanévvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév lehet.
 

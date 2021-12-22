@@ -16,7 +16,7 @@ b) az adjunktusi munkakörben történő alkalmazás feltétele a doktori fokoza
 
 (6) A mesteroktatói munkakörben történő alkalmazáshoz mesterfokozat, valamint legalább tízéves szakmai-gyakorlati munkatapasztalat, ismeret igazolása, valamint az szükséges, hogy az érintett alkalmas legyen a hallgatók gyakorlati képzésére.
 
-(7) A közérdekű vagyonkezelő alapítvány által fenntartott diákotthonban szerzett oktatási munkatapasztalat időtartamát felsőoktatási oktatói szakmai gyakorlatnak, tapasztalatnak kell elismerni, ha a hallgatóknak nyújtott képzés
+(7) A közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott diákotthonban szerzett oktatási munkatapasztalat időtartamát felsőoktatási oktatói szakmai gyakorlatnak, tapasztalatnak kell elismerni, ha a hallgatóknak nyújtott képzés
 
 a) a 8. § (6) bekezdése szerinti felsőoktatási intézménnyel kötött megállapodás keretében a felsőfokú képzés részeként,
 

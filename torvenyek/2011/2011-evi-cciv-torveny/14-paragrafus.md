@@ -4,15 +4,15 @@
 
 (2a) A felsőoktatási intézmény
 
-a) székhelyén, telephelyén,
+a) székhelyének településén, valamint székhelyének településén kívüli telephelyének településén,
 
-b) megállapodás alapján közösségi felsőoktatási képzési központban,
+b) megállapodás alapján közösségi felsőoktatási képzési központ településén,
 
-c) a 78. § (1) bekezdésében meghatározott esetben székhelyén kívül,
+c) a 78. § (1) bekezdésében meghatározott esetben székhelyen kívüli képzési hely településén,
 
-d) fenntartói egyetértéssel kötött megállapodás alapján más felsőoktatási intézmény székhelyén, telephelyén,
+d) fenntartói egyetértéssel kötött megállapodás alapján más felsőoktatási intézmény székhelyének, telephelyének településén, továbbá
 
-e) szakirányú továbbképzés esetén székhelyén kívül is
+e) szakirányú továbbképzés esetén székhelyén kívüli képzési hely településén is
 
 folytathat tevékenységet.
 
