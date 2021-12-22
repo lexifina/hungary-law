@@ -1,6 +1,6 @@
 ## 3. Az Egyetem részére történő vagyonjuttatás
 
-5. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 3. mellékletben felsorolt egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
+5. § (1) Az Nvtv. 13. § (3) bekezdésében és a Vtv. 36. § (1) bekezdésében foglaltak alapján, az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok, valamint jogszabályban meghatározott közfeladatok ellátását szolgáló, a 3. mellékletben meghatározott egyes állami tulajdonban lévő ingatlanok ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
 (2) A 3. melléklet szerinti ingatlanok, illetve ingatlanok tulajdoni hányada tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az MNV Zrt. köti meg az Egyetemmel.
 
