@@ -1,25 +1,32 @@
-## lép.
+## 7. §[^7]
 
 ## 8. § Hatályát veszti a Rendelet
 
-a)[^1]
+a)[^8]
 
-b) 23/B. § (3) bekezdése,
+b)[^9]
 
-c)[^2]
+c)[^10]
 
-d) 23/C. § (1)–(4) bekezdése,
+d)[^11]
 
-e) 23/C. § (6) bekezdésében a „kötött felhasználású” szövegrész,
+e)[^12]
 
-f) 23/D. § (1) bekezdésében az „a szabad felhasználású képzési hitel esetén a szabad felhasználású hallgatói hitel, a kötött felhasználású képzési hitel esetén” szövegrész,
+f)[^13]
 
-g) 23/E. §-ában a „szabad és kötött felhasználású” szövegrész,
+g)[^14]
 
-h)[^3]
+h)[^15]
 
-i) 24. §-ában az „az Art., az Avt. és” szövegrész.
+i)[^16]
 
-[^1]: A 8. § a) pontja a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^2]: A 8. § c) pontja a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^3]: A 8. § h) pontja a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. § a) pontja 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^9]: A 8. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 8. § c) pontja 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^11]: A 8. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 8. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 8. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 8. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 8. § h) pontja 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^16]: A 8. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
