@@ -44,6 +44,8 @@
 
 ## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
 
+## 8.[^1] az Áht. 36. § (4c) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet 2. Külképviseletek igazgatása címen a 2022. és 2023. években a 6. pontban szereplő források tekintetében éven túli kötelezettséget vállaljon.
+
 1. melléklet az 1265/2021. (V. 12.) Korm. határozathoz
 
 | XLVII. Gazdaságvédelmi Alap XVIII. Külgazdasági és Külügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
@@ -101,3 +103,5 @@
 |  |  | egyéb: | azonnal |  |  | 234 782 650 |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 8. pontot az 1953/2021. (XII. 22.) Korm. határozat 13. pontja iktatta be.
