@@ -4,7 +4,7 @@
 
 (2) A bruttó kötelezettség csökkenthető
 
-a) az állam, illetve az együttműködési megállapodással rendelkező fenntartó által fenntartott
+a) az állam, illetve az együttműködési megállapodással vagy az Nkt. 88. § (6) bekezdése szerinti szakképzési megállapodással rendelkező fenntartó által fenntartott
 
 aa) szakképző intézménnyel tanulói jogviszonyban álló tanulónként, illetve felnőttképzési jogviszonyban álló képzésben részt vevő személyenként a szakirányú oktatás, illetve
 
