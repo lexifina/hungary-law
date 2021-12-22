@@ -1,6 +1,6 @@
 ## 5. A felvételi jelentkezési kérelem
 
-9. § (1)[^40] A jelentkezési kérelmet a Hivatalhoz a Hivatal által e célra biztosított informatikai rendszer segítségével kitöltött elektronikus nyomtatványon
+9. § (1)[^41] A jelentkezési kérelmet a Hivatalhoz a Hivatal által e célra biztosított informatikai rendszer segítségével kitöltött elektronikus nyomtatványon
 
 a) kinyomtatva, aláírva, postai úton könyvelt küldeményként beküldve, vagy
 
@@ -8,7 +8,7 @@ b) ügyfélkapun keresztül történő hitelesítéssel
 
 lehet benyújtani.
 
-(2)[^41] A felvételi eljárásban a jelentkező érvényesen egy jelentkezési kérelmet nyújthat be. A jelentkezési kérelemnek tartalmaznia kell a következőket:
+(2)[^42] A felvételi eljárásban a jelentkező érvényesen egy jelentkezési kérelmet nyújthat be. A jelentkezési kérelemnek tartalmaznia kell a következőket:
 
 a) a jelentkező családi és utónevét,
 
@@ -28,17 +28,17 @@ h) a jelentkező lakóhelyét, tartózkodási helyét, értesítési címét, va
 
 i) legalább egy jelentkezési helyet a 10. § (2) bekezdés a) pontja szerint.
 
-(3)[^42] Ha a 42. § (4) bekezdése szerint kiegészítő eljárási díjat kell fizetni, akkor a jelentkező csatolja a díj átutalását igazoló dokumentum másolatát is.
+(3)[^43] Ha a 42. § (4) bekezdése szerint kiegészítő eljárási díjat kell fizetni, akkor a jelentkező csatolja a díj átutalását igazoló dokumentum másolatát is.
 
-(4)[^43] A jelentkező a jelentkezési kérelem benyújtásakor rendelkezésére álló (korábban kézhez kapott) – a jelentkezési kérelem elbírálásához benyújtandó – dokumentumokat az e célra – a Hivatal által – biztosított informatikai rendszerbe feltölti.
+(4)[^44] A jelentkező a jelentkezési kérelem benyújtásakor rendelkezésére álló (korábban kézhez kapott) – a jelentkezési kérelem elbírálásához benyújtandó – dokumentumokat az e célra – a Hivatal által – biztosított informatikai rendszerbe feltölti.
 
-(5)[^44] A külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzések esetében a jelentkezési kérelmet a felsőoktatási intézménynek kell megküldeni, amelyik gondoskodik a felvételi eljárás lebonyolításáról, továbbá a jelentkezők adatairól és a felvételi eredményekről a képzés indításáig, legkésőbb október 15-éig tájékoztatja a Hivatalt.
+(5)[^45] A külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzések esetében a jelentkezési kérelmet a felsőoktatási intézménynek kell megküldeni, amelyik gondoskodik a felvételi eljárás lebonyolításáról, továbbá a jelentkezők adatairól és a felvételi eredményekről a képzés indításáig, legkésőbb október 15-éig tájékoztatja a Hivatalt.
 
-(6)[^45]
+(6)[^46] A külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzésekre azok jelentkezhetnek, akik valamely külföldi állam állampolgárságával vagy nem magyar érettségi bizonyítvánnyal rendelkeznek.
 
-[^40]: A 9. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^41]: A 9. § (2) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^42]: A 9. § (3) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^43]: A 9. § (4) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-ával megállapított, a 661/2020. (XII. 24.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
-[^44]: A 9. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^45]: A 9. § (6) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^41]: A 9. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^42]: A 9. § (2) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^43]: A 9. § (3) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^44]: A 9. § (4) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-ával megállapított, a 661/2020. (XII. 24.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
+[^45]: A 9. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^46]: A 9. § (6) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 746/2021. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
