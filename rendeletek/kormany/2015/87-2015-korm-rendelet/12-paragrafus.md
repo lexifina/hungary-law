@@ -2,9 +2,9 @@
 
 (2) A Hivatal felsőoktatási intézmények nyilvántartását vezető szervként folyamatosan vizsgálja az általa nyilvántartott adatok helytállóságát.
 
-(3)[^36] A Hivatal a költségvetési szervként működő felsőoktatási intézmény esetében a nyilvántartásba történő bejegyzésről, törlésről a végleges határozatának megküldésével értesíti a törzskönyvi nyilvántartást vezető szervet.
+(3)[^37] A Hivatal a költségvetési szervként működő felsőoktatási intézmény esetében a nyilvántartásba történő bejegyzésről, törlésről a végleges határozatának megküldésével értesíti a törzskönyvi nyilvántartást vezető szervet.
 
-(4)[^37] A Hivatal a nyilvántartásában szereplő felsőoktatási intézmény, diákotthon nevét és székhelyét a határozat véglegessé válása napján a honlapján közzéteszi.
+(4)[^38] A Hivatal a nyilvántartásában szereplő felsőoktatási intézmény, diákotthon nevét és székhelyét a határozat véglegessé válása napján a honlapján közzéteszi.
 
-[^36]: A 12. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 532. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
-[^37]: A 12. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 532. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^37]: A 12. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 532. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 12. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 532. § b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.

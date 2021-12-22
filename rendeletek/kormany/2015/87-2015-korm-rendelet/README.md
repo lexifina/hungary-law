@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2020-02-15 | 2015-87-20-22.24 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-06-18 | 2015-87-20-22.25 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2020-09-01 | 2015-87-20-22.26 | 191/2019. (VII. 30.) Korm. rendelet |
+| 2021-12-22 | 2015-87-20-22.27 | 746/2021. (XII. 21.) Korm. rendelet |

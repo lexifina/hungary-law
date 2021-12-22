@@ -1,4 +1,4 @@
-21/B. §[^79] (1) Pedagógus-szakvizsgára felkészítő szakirányú továbbképzés a pedagógus-továbbképzésről szóló külön jogszabályok szerint felsőfokú végzettségi szint és pedagógus (óvodapedagógus, tanító, tanár, gyógypedagógus, szociálpedagógus, konduktor, szakoktató, csecsemő- és kisgyermeknevelő) szakképzettség megszerzését és pedagógus munkakörben szerzett legalább hároméves szakmai gyakorlatot követően:
+21/B. §[^80] (1) Pedagógus-szakvizsgára felkészítő szakirányú továbbképzés a pedagógus-továbbképzésről szóló külön jogszabályok szerint felsőfokú végzettségi szint és pedagógus (óvodapedagógus, tanító, tanár, gyógypedagógus, szociálpedagógus, konduktor, szakoktató, csecsemő- és kisgyermeknevelő) szakképzettség megszerzését és pedagógus munkakörben szerzett legalább hároméves szakmai gyakorlatot követően:
 
 a) a pedagógus-szakvizsga követelményeinek teljesítését nyújtó képzés lehet, vagy
 
@@ -24,4 +24,4 @@ e) a tanár, tanító, konduktor, óvodapedagógus vagy gyógypedagógus szak sz
 
 (5) Pedagógus-szakvizsga keretében gyakorlatvezető mentori szakképzettség csak olyan szakirányú továbbképzésben szerezhető, amelyben a (2) bekezdés szerinti kötelező ismeretkörök mellett a választott ismeretkör a (3) bekezdés e) pontja szerinti adott pedagógus szakképzettséghez kapcsolódó gyakorlatvezető mentori ismeret, legalább további 55 kredit értékben.
 
-[^79]: A 21/B. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.
+[^80]: A 21/B. §-t a 407/2017. (XII. 15.) Korm. rendelet 34. §-a iktatta be.

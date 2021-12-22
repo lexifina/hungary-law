@@ -1,3 +1,3 @@
-8. melléklet a 87/2015. (IV. 9.) Korm. rendelethez[^268]
+8. melléklet a 87/2015. (IV. 9.) Korm. rendelethez[^269]
 
-[^268]: A 8. mellékletet a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés n) pontja hatályon kívül helyezte.
+[^269]: A 8. mellékletet a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés n) pontja hatályon kívül helyezte.

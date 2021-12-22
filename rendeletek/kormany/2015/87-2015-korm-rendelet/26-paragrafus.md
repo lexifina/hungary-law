@@ -4,9 +4,9 @@ a) a FIR alrendszerei és alkalmazásai technikailag képesek legyenek kapcsoló
 
 b) azon felsőoktatási intézmény számára, amellyel a hallgató, a doktorjelölt, az oktató, a kutató, a tanár jogviszonyban áll vagy állt, a FIR útján a FIR-ben tárolt és az adott felsőoktatási intézmény által közölt személyes adatok elektronikus formában hozzáférhetők legyenek;
 
-c)[^102] a FIR útján a felsőoktatási intézményekkel, a képzési rendszerükkel összefüggő és a FIR-ben tárolt intézményi és egyéb statisztikai adatok, információk elektronikus formában hozzáférhetők legyenek a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a kutatók, a tanárok és a hallgatók, a doktorjelöltek, a felsőoktatásba jelentkezők, a szakmai és érdek-képviseleti szervezetek számára;
+c)[^103] a FIR útján a felsőoktatási intézményekkel, a képzési rendszerükkel összefüggő és a FIR-ben tárolt intézményi és egyéb statisztikai adatok, információk elektronikus formában hozzáférhetők legyenek a felsőoktatási intézmények és fenntartóik, a felsőoktatás működésében érdekelt szervezetek, a felsőoktatás irányításában közreműködők, az oktatók, a kutatók, a tanárok és a hallgatók, a doktorjelöltek, a felsőoktatásba jelentkezők, a szakmai és érdek-képviseleti szervezetek számára;
 
-d)[^103] a FIR a Hivatal által meghatározott szakmai specifikáció szerint biztosítani tudja
+d)[^104] a FIR a Hivatal által meghatározott szakmai specifikáció szerint biztosítani tudja
 
 da) a felsőoktatási intézménytörzzsel kapcsolatos hatósági feladatok,
 
@@ -18,7 +18,7 @@ dd) a felsőoktatási statisztikai adatközlési feladatok,
 
 de) a felsőoktatási felvételi alkalmazással kapcsolatos feladatok és
 
-df)[^104]
+df)[^105]
 
 ## ellátását;
 
@@ -38,6 +38,6 @@ e) a FIR-ben kezelt közérdekű és közérdekből nyilvános adatok nyilvános
 
 (3) A FIR-ből adatok, elemzések – a jogszabályban megállapított állami feladat ellátásához szükséges adatokat kivéve – az adatok előállításával és közlésével kapcsolatban felmerült, a Hivatalnak megtérített költségek megfizetése esetén kérhetők.
 
-[^102]: A 26. § (1) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 5. pontja szerint módosított szöveg.
-[^103]: A 26. § (1) bekezdés d) pontja a 191/2019. (VII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
-[^104]: A 26. § (1) bekezdés d) pont df) alpontját a 13/2020. (II. 7.) Korm. rendelet 102. § 5. pontja hatályon kívül helyezte.
+[^103]: A 26. § (1) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 5. pontja szerint módosított szöveg.
+[^104]: A 26. § (1) bekezdés d) pontja a 191/2019. (VII. 30.) Korm. rendelet 58. §-ával megállapított szöveg.
+[^105]: A 26. § (1) bekezdés d) pont df) alpontját a 13/2020. (II. 7.) Korm. rendelet 102. § 5. pontja hatályon kívül helyezte.

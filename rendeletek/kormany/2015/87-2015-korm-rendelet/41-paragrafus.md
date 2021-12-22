@@ -8,13 +8,13 @@ c) a b) ponttól eltérő számonkérés esetén a felsőoktatási intézmény a
 
 d) az intézmény által működtetett TR alkalmas arra, hogy a hallgató nyomtatható formában hozzáférjen a saját képzése 36. § (12) bekezdésében szabályozott törzslap-kivonatának adattartalmához, továbbá biztosítja a hallgató kérésére a 36. § (2) bekezdés 7. pontjában meghatározott adatok ingyenes hitelesítését félévente egy alkalommal.
 
-(2)[^143] A teljesítési lap tartalmazza az adott tanév félévét, a hallgató nevét, a oktatási azonosító számot, a hallgató által felvett tantárgy, tantervi egység megnevezését, a vizsga időpontját, a vizsga értékelését, a vizsgáztató oktató nevét, oktatási azonosító számát és aláírását.
+(2)[^144] A teljesítési lap tartalmazza az adott tanév félévét, a hallgató nevét, a oktatási azonosító számot, a hallgató által felvett tantárgy, tantervi egység megnevezését, a vizsga időpontját, a vizsga értékelését, a vizsgáztató oktató nevét, oktatási azonosító számát és aláírását.
 
 (3) Az egyedi sorszámmal ellátott, papír alapú leckekönyv tartalmazza legalább:
 
 1. a felsőoktatási intézmény nevét, székhelyét, intézményi azonosító számát;
 
-2.[^144] a hallgató oktatási azonosító számát, törzskönyvi számát;
+2.[^145] a hallgató oktatási azonosító számát, törzskönyvi számát;
 
 3. a hallgató személyazonosító adatait (neve, születési neve, születési helye és ideje, állampolgársága, anyja születési neve), a hallgató fényképét, a hallgató aláírását;
 
@@ -70,5 +70,5 @@ b) a külföldi felsőoktatási intézményben hallgatói jogviszonnyal rendelke
 
 (12) A felsőoktatási intézmény a hallgatói jogviszony fennállása alatt az elveszett vagy megsemmisült leckekönyv pótlására a törzslap alapján új leckekönyvet állít ki.
 
-[^143]: A 41. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) és h) pontja szerint módosított szöveg.
-[^144]: A 41. § (3) bekezdés 2. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^144]: A 41. § (2) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) és h) pontja szerint módosított szöveg.
+[^145]: A 41. § (3) bekezdés 2. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
