@@ -1,0 +1,3 @@
+25. § Az Ltv. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A települési vagy nemzetiségi önkormányzat a képviselő-testület, a hivatala és intézménye, valamint ezek jogelődei, továbbá a települési önkormányzat közigazgatási területén, a nemzetiségi önkormányzat működési területén működő vagy működött, a települési vagy nemzetiségi önkormányzat többségi tulajdonában álló gazdasági társaság iratkezelésére és irattári anyagára kiterjedő illetékességgel közlevéltárat létesíthet. A levéltár a fenntartó települési vagy nemzetiségi önkormányzat közvetlen felügyelete és irányítása alatt működik.”
