@@ -4,4 +4,4 @@
 
 (3) Az ingatlan vonatkozásában a (2) bekezdés szerinti megállapodások megkötéséig az Egyetemet a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
 
-(4) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.
+(4) Az ingatlan tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg, azzal a kivétellel, hogy az 1. melléklet 6. pontja szerinti ingatlan szovjet katonai bázisként történt használata időszakában bekövetkezett környezeti károk mentesítése, valamint az ennek kapcsán keletkezett környezetvédelmi kötelezettségek teljesítése a magyar állam kötelezettsége.

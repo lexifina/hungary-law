@@ -160,7 +160,7 @@ SZEGED II. KERÜLET
 
 |
 
-kivett körforgalom számára megnyitott magánút
+kivett közforgalom számára megnyitott magánút
 
 |
 
@@ -180,7 +180,7 @@ SZEGED II. KERÜLET
 
 |
 
-kivett körforgalom számára megnyitott magánút
+kivett közforgalom számára megnyitott magánút
 
 |
 
