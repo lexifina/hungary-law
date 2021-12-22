@@ -4,7 +4,7 @@
 
 ## 3. egyetért azzal, hogy a Beruházás előkészítője és megvalósítója – az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 5. § (2) bekezdése, valamint az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 17. §-ában foglalt felhatalmazás alapján – a Szeged-Csanádi Egyházmegye legyen, az emberi erőforrások minisztere együttműködésével és szakmai felügyeletével;
 
-## 4. a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés a), b), c), e), f), g), k), l), n), o) és p) pontja szerinti előkészítő fázisaira legfeljebb 409 208 605 forint forrást biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. június 30. napjáig kell megvalósítani;
+## 4.[^1] a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés a), b), c), e), f), g), k), l), n) és o) pontja szerinti előkészítő fázisaira legfeljebb 409 208 605 forint forrást biztosít, azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell megvalósítani;
 
 ## 5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésben biztosított jogkörében eljárva, a Beruházás előkészítési feladatainak finanszírozása érdekében összesen 409 208 605 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 2. Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára, elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel, az 1. melléklet szerint;
 
@@ -95,3 +95,5 @@
 |  |  | egyéb: |  | azonnal |  | 409 208 605 |  |  |  |  |  |  |  |  |  | 409 208 605 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 4. pont az 1953/2021. (XII. 22.) Korm. határozat 7. pontjával megállapított szöveg.
