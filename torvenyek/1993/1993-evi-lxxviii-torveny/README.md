@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-78-00-00
 | 2020-10-28 | 2020. évi CIV. törvény | 1993-78-00-00.41 |
 | 2021-01-01 | 2020. évi CXLVI. törvény | 1993-78-00-00.42 |
 | 2021-11-18 | 2021. évi CXXIII. törvény | 1993-78-00-00.43 |
+| 2021-12-22 | 2021. évi CXLVIII. törvény | 1993-78-00-00.44 |
