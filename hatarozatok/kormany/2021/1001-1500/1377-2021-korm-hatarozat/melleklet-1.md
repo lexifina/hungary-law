@@ -48,8 +48,11 @@
 
 ## összegben csoportosítja át.
 
-## 2.[^1]
+## h)[^1] az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdése alapján, az e) alpont szerinti egyedi támogatással összefüggésben úgy határoz, hogy az egyes karcagi sportinfrastruktúra-fejlesztésekkel kapcsolatos beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 710/2021. (XII. 15.) Korm. rendelet 2. melléklet 3. pontja szerinti beruházás során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.
+
+## 2.[^2]
 
 1. melléklet az 1377/2021. (VI. 11.) Korm. határozathoz
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont h) alpontját az 1953/2021. (XII. 22.) Korm. határozat 14. pontja iktatta be.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
