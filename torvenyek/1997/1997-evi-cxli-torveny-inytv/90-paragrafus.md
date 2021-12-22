@@ -18,7 +18,7 @@
 
 (5) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza
 
-a)
+a) az ingatlan-nyilvántartási rendszer működéséhez szükséges külső informatikai rendszerek kötelező kiépítését és az ingatlan-nyilvántartási rendszerrel való összekapcsolását.
 
 b) a számítógépes ingatlan-nyilvántartási rendszerből történő, törvényben meghatározott szolgáltatásra vonatkozó szolgáltatási szerződés kötelező elemeit,
 

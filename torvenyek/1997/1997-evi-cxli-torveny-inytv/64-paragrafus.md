@@ -20,6 +20,8 @@ per megindítása tényének feljegyzése iránt.
 
 (2) A bejegyzéssel vagy az alapjául szolgáló okirattal kapcsolatban elkövetett bűncselekmény miatt indult büntetőeljárásról a bíróság e tény feljegyzése végett értesíti az ingatlanügyi hatóságot.
 
+(2a) Nem ingatlan-nyilvántartási döntés felülvizsgálata iránt indult közigazgatási perben eljáró bíróság az ingatlan-nyilvántartásba bejegyzett jogot, feljegyzett tényt vagy az ingatlan-nyilvántartásban szereplő adatot érintő perben a felperes kérelmére, előzetesen végrehajtható végzésével elrendeli az ingatlant érintő közigazgatási per megindítása tényének feljegyzését az ingatlan-nyilvántartásba.
+
 (3) A feljegyzés alapjául szolgáló végzés hatályon kívül helyezéséről szóló jogerős végzést a bíróság megküldi az ingatlanügyi hatóságnak a feljegyzés törlése céljából.
 
 (4) A per megindítása tényének feljegyzése tárgyában hozott bírósági végzés ellen külön fellebbezésnek van helye.
