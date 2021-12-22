@@ -73,3 +73,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2021-07-01 | 2021. évi LXXXIII. törvény | 2011-190-00-00.66 |
 | 2021-07-08 | 2021. évi LXXIX. törvény | 2011-190-00-00.67 |
 | 2021-09-01 | 2014. évi CV. törvény | 2011-190-00-00.68 |
+| 2021-12-22 | 2021. évi CXLVII. törvény | 2011-190-00-00.69 |
