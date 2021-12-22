@@ -64,94 +64,27 @@
 
 ## Határidő: az a) alpont szerinti feladat végrehajtását követően azonnal
 
-## 6. A térségi közúti beruházásokhoz szükséges kötelezettségvállalásokról szóló 1668/2021. (IX. 28.) Korm. határozat (a továbbiakban: Korm. határozat) 1. pontja a következő e) alponttal egészül ki:
+## 6.[^1]
 
-## (A Kormány – tekintettel)
+## 7.[^2]
 
-## „e) a komplex közútfelújítási és -fejlesztési feladatok 2022–2025. évi előkészítése érdekében szükséges intézkedésekről szóló 1939/2021. (XII. 21.) Korm. határozat 3. pontjában foglalt közútfejlesztésekre”
+## 8.[^3]
 
-## [– (a továbbiakban együtt: kormányhatározatok) a következőkről dönt.]
+## 9.[^4]
 
-## 7. A Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
+## 10.[^5]
 
-## 8. A közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósítása érdekében szükséges intézkedésekről szóló 1744/2020. (XI. 11.) Korm. határozat a következő 7. ponttal egészül ki:
+## 11.[^6]
 
-## (A Kormány)
+## 12.[^7]
 
-## „7. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím terhére vállalható kötelezettségek mértékét a 2022. évre 255 970 933 066 forintban állapítja meg.”
+1. melléklet az 1939/2021. (XII. 21.) Korm. határozathoz[^8]
 
-## 9. A közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósítása érdekében szükséges intézkedésekről szóló 1744/2020. (XI. 11.) Korm. határozat 2. és 3. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „2. egyetért azzal, hogy a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében összesen 170 971 394 739 forint központi költségvetési forrás kerüljön biztosításra az alábbi, költségvetési évek szerinti bontásban:
-
-## a) a 2020. évben 14 298 284 785 forint,
-
-## b) a 2021. évben 48 585 660 171 forint,
-
-## c) a 2022. évben 108 087 449 783 forint;
-
-## 3. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a közúti felújításokra vonatkozó kiemelt társadalmi igények megvalósításának finanszírozása érdekében gondoskodjon a Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból, a Járvány Elleni Védekezés Központi Tartalékából történő, valamint fejezetek közötti előirányzat-átcsoportosításokról és egyes kormányhatározatok módosításáról szóló 1856/2020. (XI. 26.) Korm. határozat részeként 2020-ban e célra már biztosított 14 298 284 785 forinton, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény módosításáról szóló 2021. évi XLIV. törvény részeként 2021-ben e célra már biztosított 30 000 000 000 forinton, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, címrendi kiegészítésről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről és kormányhatározat módosításáról szóló 1784/2021. (XI. 5.) Korm. határozat részeként 2021-ben e célra már biztosított 18 585 660 171 forinton túl a 2022. évben szükséges 108 087 449 783 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében”
-
-## 10. Az Esztergom, 1111. jelű összekötő út 35+032 – 35+394 km szelvények közötti szakaszának kiemelt társadalmi igényként jelentkező átépítéséhez szükséges intézkedésekről szóló 1582/2021. (VIII. 11.) Korm. határozat 3. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „3. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – az 1. pontban foglalt cél megvalósítása érdekében gondoskodjon a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, címrendi kiegészítésről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről és kormányhatározat módosításáról szóló 1784/2021. (XI. 5.) Korm. határozat részeként 2021-ben e célra már biztosított 100 000 000 forinton túl
-
-## a) a 2022. évben 1 000 000 000 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára,
-
-## b) a 2023. évben 388 524 390 forint forrás rendelkezésre állásáról a 2023. évi központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: az a) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
-
-## a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során”
-
-## 11. A 37. számú Felsőzsolca–Sátoraljaújhely másodrendű főút – 3838. Bodrogkeresztúr–Tokaj összekötő út csatlakozásánál körforgalmú csomópont építése és a 3621. jelű Tokaj–Taktaharkány összekötő út felújítása érdekében szükséges intézkedésekről szóló 1711/2021. (X. 8.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „2. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a Felújítás előkészítési és megvalósítási feladatainak finanszírozása érdekében gondoskodjon a 2022. évben 3 446 535 004 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetésről szóló 2021. évi XC. törvény (a továbbiakban: Kktv.) 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében”
-
-## 12. A 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges többletforrás biztosításáról, valamint a kapcsolódó kormányhatározatok módosításáról szóló 1110/2021. (III. 10.) Korm. határozat 1. pont i) alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság sikeres megrendezése érdekében)
-
-## „i) felhívja a pénzügyminisztert, hogy a h) alpontban foglaltak megvalósítása érdekében – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter, a Miniszterelnökséget vezető miniszter és az innovációért és technológiáért felelős miniszter bevonásával – gondoskodjon a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Gazdaság-újraindítási programok előirányzatból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, egyes kormányhatározatok végrehajtása során alkalmazandó eltérő rendelkezésekről, valamint kormányhatározat módosításáról szóló 1755/2021. (X. 27.) Korm. határozat részeként 2021-ben e célra már biztosított 180 000 000 forinton túl a 2022. évben legfeljebb 3 015 000 000 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet országos közúthálózat felújítását finanszírozó előirányzata javára;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében”
-
-1. melléklet az 1939/2021. (XII. 21.) Korm. határozathoz
-
-A Korm. határozat 1. mellékletében foglalt táblázat a következő 6. sorral egészül ki:
-
-|  | (A | B | C | D | E | F | G | H | I |
-
-| 1. | Kapcsolódó kormányhatározat száma | 2021. évi költségvetési év | 2022. évi költségvetési év | 2023. évi költségvetési év | 2024. évi költségvetési év | 2025. évi költségvetési év | 2026. évi költségvetési év | 2027. évi költségvetési év | Összesen) |
-
-| 6. | 1939/2021. (XII. 21.) Korm. határozat 3. pontja | 0 | 3 004 740 000 | 600 000 000 | 416 000 000 | 270 000 000 | 0 | 0 | 4 290 740 000 |
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
