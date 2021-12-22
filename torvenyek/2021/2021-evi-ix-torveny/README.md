@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-9-00-00
 | 2021-06-29 | 2021. évi CI. törvény | 2021-9-00-00.4 |
 | 2021-12-01 | 2021. évi CI. törvény | 2021-9-00-00.5 |
 | 2021-12-02 | 2021. évi CXX. törvény | 2021-9-00-00.6 |
+| 2021-12-22 | 2021. évi CXLVII. törvény | 2021-9-00-00.7 |

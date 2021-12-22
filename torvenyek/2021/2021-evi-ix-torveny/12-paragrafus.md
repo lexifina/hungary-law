@@ -2,7 +2,7 @@
 
 12. § (1) Ha az alapítvány részére alapításkor vagy az alapítvány induló vagyonát növelő alapítói, illetve csatlakozói vagyonjuttatásként vagyonelem kerül átadásra, akkor a tulajdonjog átszállását az alapítvány alapító okiratában fel kell tüntetni.
 
-(2) Az (1) bekezdés szerinti vagyonjuttatásra nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 6. § (1) bekezdésében és 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
+(2) Az e § szerinti vagyonjuttatásra nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 6. § (1) bekezdésében és 13. § (4) és (5), valamint (7) és (8) bekezdésében foglaltakat.
 
 (3) Az állam által ingyenesen juttatott vagyonelemekkel az alapítvány vagyonkezelési tevékenysége keretében szabadon gazdálkodhat, azzal az alapítvány a felelős gazdálkodás követelménye sérelme nélkül szabadon rendelkezhet. Az állam az ingyenes vagyonjuttatáskor rendelkezhet akként is, hogy egyes vagyonelemek tekintetében a vagyonkezelés körébe tartozó szabad gazdálkodást oly módon korlátozza, hogy a vagyonelem tekintetében az alapító okiratban államot megillető elővásárlási jogot alapít.
 

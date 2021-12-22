@@ -16,7 +16,11 @@ b) a bíróság megállapítja, hogy az alapítvány nem látja el azt a közfel
 
 a) nem idegenítheti el és nem terhelheti meg,
 
-b) a kizárólagos tulajdonában álló gazdasági társaság vagy általa létesített, illetve fenntartott intézménye kivételével harmadik személy részére – sem visszterhesen, sem ingyenesen – használatba nem adhatja, hasznosítás céljára nem engedheti át.
+b) harmadik személy részére – sem visszterhesen, sem ingyenesen – használatba nem adhatja, hasznosítás céljára nem engedheti át
+
+ba) a kizárólagos tulajdonában álló gazdasági társaság vagy az általa létesített, illetve fenntartott intézménye vagy ezek kizárólagos tulajdonában álló gazdasági társaság kivételével vagy
+
+bb) lakás célú, elektronikus hírközlési építmény létesítése vagy fenntartása, valamint közszolgáltatások biztosítása céljából történő használat és hasznosítás kivételével.
 
 (7) A közfeladathoz rendelt vagyonkezelői jog és az e joggal terhelt vagyontárgy nem része a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 4. § (1) és (2) bekezdése szerinti, a csődeljárás és felszámolási eljárás körébe tartozó vagyonnak.
 

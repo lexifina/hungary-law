@@ -92,7 +92,7 @@ Gróf Tisza István Debreceni Egyetemért Alapítvány
 
 |
 
-1. a Debreceni Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása
+1. a Debreceni Egyetem alapítói, tulajdonosi, fenntartói jogainak gyakorlása, működési feltételei, intézményfejlesztési céljai megvalósításának biztosítása,
 
 2. a Debreceni Egyetem útján
 
@@ -106,13 +106,15 @@ d) további, az a) alpontba nem sorolt, a felsőoktatási intézmény képzési 
 
 e) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+d) a hazai oltóanyag-előállítás kutatás-fejlesztési és gyártástechnológiai tudásának megalapozása, fejlesztése, működtetése.
 
 |
 
@@ -264,19 +266,27 @@ Magyar Agrár- és Élettudományi Egyetemért Alapítvány
 
 a) felsőoktatási tevékenység folytatása,
 
-b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
+b) további, az a) alpontba nem sorolt, a felsőoktatási intézmény képzési tevékenységéhez kapcsolódó oktatás,
 
-c) a genetikai változatosság és a hazai mezőgazdaság genetikai anyagainak védelme, jogszabályban meghatározott jelentős növényfajok, változatok, fajták és vad rokonfajok mint génforrások megőrzésében és fenntartásában való közreműködés;
+c) a genetikai változatosság és a hazai mezőgazdaság genetikai anyagainak védelme, jogszabályban meghatározott jelentős növényfajok, változatok, fajták és vad rokonfajok mint génforrások megőrzésében és fenntartásában való közreműködés,
 
 d) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
-3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
+3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. a Gödöllői Királyi Kastély, Park és Kápolna üzemeltetését, hasznosítását végző jogi személy útján
+
+a) a Gödöllői Királyi Kastély, Park és Kápolna működtetése és fejlesztése,
+
+b) múzeumi, kulturális és turisztikai nevelési-oktatási tevékenységek folytatása,
+
+c) kulturális célú és közcélú ingatlanhasznosítás.
 
 |
 
@@ -288,15 +298,15 @@ Magyar Kultúráért Alapítvány
 
 |
 
-A Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság útján
+A Petőfi Kulturális Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság útján
 
-1. a nevelési-oktatási, kulturális tevékenységek működési és fejlesztési célú finanszírozása, illetve támogatása;
+1. felnőttképzési, nevelési-oktatási, kulturális tevékenységek működési és fejlesztési célú finanszírozása, illetve támogatása,
 
 2. tehetséggondozó programok működésének, valamint kreatívipari innovációk létrejöttének és működésének támogatása,
 
 3. médiatartalom előállítása és médiaszolgáltatási tevékenység támogatása,
 
-4. kulturális célú ingatlanhasznosítás
+4. kulturális célú ingatlanhasznosítás, ingatlanfejlesztés.
 
 |
 
@@ -712,11 +722,13 @@ a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, t
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
 
-4. a magyar és az európai filmértékek, a kortárs és a klasszikus filmművészet kincseinek megőrzése és bemutatása.
+4. a magyar és az európai filmértékek, a kortárs és a klasszikus filmművészet kincseinek megőrzése és bemutatása,
 
-5. a kortárs színművészet támogatása a magyar színjátszás múltjának megismertetésével és bemutatásával, valamint értékeinek és örökségének megőrzésével és hozzáférhetővé tételével.
+5. a kortárs színművészet támogatása a magyar színjátszás múltjának megismertetésével és bemutatásával, valamint értékeinek és örökségének megőrzésével és hozzáférhetővé tételével,
+
+6. a magyar színházművészet hagyományainak ápolása, minőségelvű színházi ambíciók felkarolása, a drámairodalom színrevitelének támogatása.
 
 |
 
