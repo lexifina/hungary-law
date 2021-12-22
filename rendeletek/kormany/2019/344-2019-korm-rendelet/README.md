@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-344-20-
 | --- | --- | --- |
 | 2020-01-02 | 2019-344-20-22.1 | 344/2019. (XII. 23.) Korm. rendelet |
 | 2020-12-03 | 2019-344-20-22.2 | 543/2020. (XII. 2.) Korm. rendelet |
+| 2021-12-22 | 2019-344-20-22.3 | 746/2021. (XII. 21.) Korm. rendelet |
