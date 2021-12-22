@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-95-00-00
 | 2013-01-01 | 2012. évi CXCI. törvény | 2012-95-00-00.3 |
 | 2017-01-01 | 2016. évi CIV. törvény | 2012-95-00-00.4 |
 | 2018-01-01 | 2017. évi L. törvény | 2012-95-00-00.5 |
+| 2021-12-22 | 2021. évi CXLVI. törvény | 2012-95-00-00.6 |
