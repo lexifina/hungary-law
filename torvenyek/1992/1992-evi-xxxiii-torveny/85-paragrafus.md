@@ -96,7 +96,7 @@ da) a magyar állampolgárság feltételét a közalkalmazotti jogviszony létes
 
 db) a gyakornoki idő kikötése alól mentes munkaköröket,
 
-dc)
+dc) az illetménytöbblet mértékét és juttatásának szabályait,
 
 dd) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
 
