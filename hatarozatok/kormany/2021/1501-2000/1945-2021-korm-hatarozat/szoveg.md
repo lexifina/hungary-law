@@ -1,3 +1,5 @@
 1. A Kormány a Debrecen Megyei Jogú Város Önkormányzata részéről a Csokonai Színház és a Vojtina Bábszínház közös működtetésének, a Kecskemét Megyei Jogú Város Önkormányzata részéről a Ciróka Bábszínház közös működtetésének, valamint a Dunaújváros Megyei Jogú Város Önkormányzata részéről a Bartók Kamaraszínház és Művészetek Háza (a továbbiakban együtt: Színházak) közös működtetésének meghosszabbítása tárgyában az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény (a továbbiakban: Emtv.) 16. § (4) bekezdése szerint benyújtott kérelmet megvizsgálta, és az Emtv. 16. § (5) bekezdésében meghatározott feladatkörében eljárva egyetért a Színházak közös működtetésének 2024. december 31. napjáig történő meghosszabbításával.
 
-2. Az egyes önkormányzati fenntartású színházak közös működtetéséről szóló 1150/2020. (IV. 10.) Korm. határozat 1. mellékletében foglalt táblázat 3., 4., 25., 27. sorában a „2021. december 31.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
