@@ -14,4 +14,6 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1913/2021. (XII. 15.) Korm. határozathoz
+1. melléklet az 1913/2021. (XII. 15.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1953/2021. (XII. 22.) Korm. rendelet 19. pontja szerint módosított szöveg.

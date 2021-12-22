@@ -46,7 +46,7 @@
 
 | 23. | Gyomaendrőd | Rózsahegyi Kálmán Általános Iskola | Gyulai Tankerületi Központ | Világítás korszerűsítése | 18 000 000 |
 
-| 24. | Gyula | Esély Pedagógiai Központ Óvoda, Általános Iskola, Szakiskola és Készségfejlesztő Iskola Pánczél Imre Tagintézménye | Gyulai Tankerületi Központ | Tűzlépcsők elhelyezése | 44 000 000 |
+| 24. | Gyula | Esély Pedagógiai Központ Óvoda, Általános Iskola, Szakiskola és Készségfejlesztő Iskola Pánczél Imre Tagintézménye | Békéscsabai Tankerületi Központ | Tűzlépcsők elhelyezése | 44 000 000 |
 
 | 25. | Mezőberény | Mezőberényi Általános Iskola, Alapfokú Művészeti Iskola és Kollégium | Gyulai Tankerületi Központ | Világítás korszerűsítése | 18 000 000 |
 
