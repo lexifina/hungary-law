@@ -4,7 +4,7 @@ A Kormány
 
 a) a „Velencei-tavi partfal komplex fenntartható rehabilitációja” projekt kapcsán felmerülő, rendezett tóhasználat feltételeinek megteremtése, valamint a Velencei-tavi csónakkikötők vendégmólóinak újjáépítése (Gárdony, Velence, Sukoró),
 
-b) a közforgalmú hajóállomások korszerűsítése (Agárd, Gárdony, Pákozd, Velence, Velence északi kanyari kikötő);
+b)[^1] a közforgalmú hajóállomások korszerűsítése (Agárd, Gárdony, Pákozd, Velence, Sukoró);
 
 2. felhívja a pénzügyminisztert, hogy gondoskodjon a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 5. Gazdaságvédelmet szolgáló pénzügyi fejezeti kezelésű előirányzatok alcím, 2. Területfejlesztési feladatok jogcímcsoport javára
 
@@ -37,3 +37,5 @@ Határidő: a 2. pont szerinti forrásbiztosítást követően azonnal
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2021. szeptember 1.
+
+[^1]: Az 1. pont b) alpontja az 1953/2021. (XII. 22.) Korm. határozat 12. pontja szerint módosított szöveg.
