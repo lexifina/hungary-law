@@ -30,16 +30,25 @@ Felelős: a miniszterelnök általános helyettese
 
 Határidő: a 2. pontban meghatározott forrás rendelkezésre állását követően azonnal
 
-5. felhívja a miniszterelnök általános helyettesét, hogy az 1. pontban meghatározott cél érdekében gondoskodjon támogatási jogviszonyok létrehozásáról
+5.[^1] felhívja a miniszterelnök általános helyettesét, hogy az 1. pontban meghatározott cél érdekében gondoskodjon támogatási jogviszonyok létrehozásáról
 
-a) 2022-ben a 3. pont a) alpontja szerinti forrás terhére 19 990 004 998 forint,
+a) 2022-ben a 3. pont a) alpontja szerinti forrás terhére 12 916 472 109 forint,
 
-b) 2023-ban a 3. pont b) alpontja szerinti forrás terhére 19 990 004 998 forint
+b) 2023-ban a 3. pont b) alpontja szerinti forrás terhére 15 370 004 998 forint
 
-összegben.
+összegben;
 
 Felelős: a miniszterelnök általános helyettese
 
 Határidő: az a) alpont tekintetében a 3. pont a) alpontjában meghatározott forrás rendelkezésre állását követően azonnal
 
 a b) alpont tekintetében a 3. pont b) alpontjában meghatározott forrás rendelkezésre állását követően azonnal
+
+6.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében és (4c) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi a miniszterelnök általános helyettese számára, hogy az 1. pontban meghatározott cél érdekében – a vonatkozó közbeszerzési eljárások lefolytatását követően kihirdetett nyertes ajánlatok értéke alapján az összesen legfeljebb 11 693 532 889 forint összegű kötelezettségvállalásból – a 2022–2023. évek mint a költségvetési évet követő évek előirányzatai terhére kötelezettséget vállaljon az alábbiak szerint:
+
+a) 2022. év terhére 7 073 532 889 forint,
+
+b) 2023. év terhére 4 620 000 000 forint.
+
+[^1]: Az 5. pont az 1953/2021. (XII. 22.) Korm. határozat 16. pontjával megállapított szöveg.
+[^2]: A 6. pontot az 1953/2021. (XII. 22.) Korm. határozat 17. pontja iktatta be.
