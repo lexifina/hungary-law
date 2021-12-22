@@ -1,1 +1,1 @@
-6. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 3. § (1), (5) és (7) bekezdése, a 4. §, a 7. §, valamint az 1. és a 2. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
+6. § Az 1. § (3)–(5) bekezdése, a 2. § (1), (2) és (4) bekezdése, a 2/A. §, a 2/C. §, a 2/D. §, a 3. § (1), (5) és (7) bekezdése, a 4. §, valamint az 1–3. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.
