@@ -1,0 +1,3 @@
+17. § Az Emtv. Átmeneti rendelkezések alcíme a következő 46/B. §-sal egészül ki:
+
+„46/B. § Az egyes kulturális tárgyú és egyéb törvények módosításáról szóló 2021. évi CXLVIII. törvény hatálybalépését megelőzően állami vagy önkormányzati fenntartásból közfeladatot ellátó közérdekű vagyonkezelő alapítvány fenntartásába került előadó-művészeti szervezetnek az állami vagy önkormányzati fenntartás időtartama alatt a 11. § (2) vagy (3) bekezdése szerint szerzett minősítését a fenntartó személyében bekövetkezett változás nem érinti.”

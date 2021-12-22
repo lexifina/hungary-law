@@ -1,0 +1,5 @@
+## 17. A Magyar Kultúráért Alapítvány létrehozásáról, valamint a Magyar Kultúráért Alapítvány és a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatásról szóló 2021. évi XVI. törvény módosítása
+
+37. § A Magyar Kultúráért Alapítvány létrehozásáról, valamint a Magyar Kultúráért Alapítvány és a Petőfi Irodalmi Ügynökség Nonprofit Korlátolt Felelősségű Társaság részére történő vagyonjuttatásról szóló 2021. évi XVI. törvény (a továbbiakban: MKA tv.) 3. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A Budapest III. kerület 18386/9 helyrajzi számú, valamint a Budapest III. kerület 18019 helyrajzi számú ingatlanok esetében az ingyenes használatot – az ingatlan-nyilvántartásba bejegyzett jogokat nem sértve – a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) számára biztosítani kell, az MNV Zrt. és a tulajdonosi joggyakorlása alatt álló gazdasági társaságok, valamint az MNV Zrt. által az ingatlanokban elhelyezett központi költségvetési szervek ezen ingatlanokban ellátott feladatainak fennállásáig.”

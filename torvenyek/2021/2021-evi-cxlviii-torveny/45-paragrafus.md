@@ -1,0 +1,1 @@
+45. § Hatályát veszti az MKA tv. 3. § (1) bekezdésében az „azzal, hogy a Budapest III. kerület 18386/9 helyrajzi számú, valamint a Budapest III. kerület 18019 helyrajzi számú ingatlan ingyenes használatát határozatlan időre biztosítani kell a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) számára” szövegrész.

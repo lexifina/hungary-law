@@ -1,0 +1,7 @@
+## 10. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
+
+27. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 117/C. §-a a következő (4f) és (4g) bekezdéssel egészül ki:
+
+„(4f) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a fenntartóváltást követő első üzleti évi számviteli beszámolójának mérlegében, a (4a)–(4c) bekezdésekben foglaltak végrehajtását követően kimutatott negatív tőketartalékot köteles az eredménytartalék terhére megszüntetni, továbbá az ezt követően kimutatott eredménytartalék negatív összegét a fenntartó ez irányú döntése alapján a jegyzett tőke terhére részben vagy egészen megszüntetheti. A 2021. január 1-je előtti (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézmény a saját tőke ezen bekezdésben meghatározott átrendezését a 2021. december 31-ei fordulónappal elkészített beszámolójának mérlegében hajtja végre a fenntartóváltást követő első üzleti évi beszámolója mérlegében kimutatott negatív tőketartalék, illetve negatív eredménytartalék figyelembevételével.
+
+(4g) Az (1) bekezdés szerinti fenntartóváltással érintett felsőoktatási intézményt fenntartó alapítvány a számviteli jogszabályok szerinti beszámolójának mérlegében tartós részesedésként mutatja ki a fenntartott felsőoktatási intézmény azonos mérlegfordulónapra készített számviteli beszámolója mérlegében kimutatott saját tőke könyv szerinti értékét a tőkeváltozással szemben.”
