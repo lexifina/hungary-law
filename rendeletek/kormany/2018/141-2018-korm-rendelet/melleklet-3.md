@@ -172,6 +172,8 @@
 
 | 79. | „Ártánd IV. – homok, átmeneti törmelékes nyersanyagok” védnevű bányatelken fennálló bányászati jog gyakorlása | Ártánd közigazgatási területén elhelyezkedő, külterület 04/2, 04/7, 04/8, 04/9, 05, 06, 07/4, 010/1, 010/2, 010/3, 010/4, 010/5, 010/6, 013/1, 013/2, 014/6, 014/9, 014/10, 014/11, 014/12, 014/13, 014/14, 014/15, 014/16, 014/17, 014/18, 014/19, 014/20, 018/2, 018/3, 018/4, 018/5 és 018/6 helyrajzi számú ingatlanok. | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^214]
+| 80. | Logisztikai és lakópark ingatlanfejlesztési beruházás Ecser | Ecser közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Ecser belterület 1416/3, 1416/4, 1427/1, 1427/2, 1427/3, 1427/4, 1427/5, 1427/6, 1427/7, 1427/8, 1427/9, 1427/10, 1427/11, 1427/12, 1427/13, 1427/14, 1427/15, 1427/16, 1427/17, 1427/18, 1427/19, 1427/21, 1427/22, 1427/23, 1427/24, 1428, 1429, 1430, 1431, 1432, 1433, 1434, 1435, 1436 és az ingatlan-nyilvántartás szerinti külterület 032 és 038 helyrajzi számú ingatlanok. | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-[^214]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^218]
+
+[^218]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 75. §[^210] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 701/2021. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr67.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 5. § (2) bekezdését, 6/U. §-át, 2. mellékletében foglalt táblázat 79. sorát a Módr67. hatálybalépésekor[^211] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 76. §[^214] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 752/2021. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr68.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 5. § (2) bekezdését, 6/V. §-át, 6/W. §-át, a 2. mellékletében foglalt táblázat 80. sorát és 6. mellékletét a Módr68. hatálybalépésekor[^215] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^212] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^216] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^210]: A 75. §-t a 701/2021. (XII. 13.) Korm. redelet 2. §-a iktatta be.
-[^211]: A hatálybalépés napja 2021. december 14.
-[^212]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^214]: A 76. §-t a 752/2021. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^215]: A hatálybalépés időpontja 2021. december 22.
+[^216]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
