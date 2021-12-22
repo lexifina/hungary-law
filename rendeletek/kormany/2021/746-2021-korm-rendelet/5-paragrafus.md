@@ -1,0 +1,3 @@
+## „(7a) A felvételt nyert jelentkező az érettségi bizonyítványát, illetve az oklevelét legkésőbb a felsőoktatási intézménybe történő beiratkozásakor bemutatja a felsőoktatási intézmény részére.
+
+## (7b) Ha a felvételt nyert jelentkező az érettségi bizonyítvánnyal, illetve az oklevéllel a (7) bekezdés szerint azonos jogi hatályú okirattal rendelkezik, akkor ezt az okiratot mutatja be a felsőoktatási intézmény részére a felsőoktatási intézménybe történő beiratkozásakor. Ha azonban ennek az okiratnak az érvényessége időben korlátozott, az érvényesség lejártát követően a hallgató akkor jelentkezhet be a soron következő képzési időszakra, ha érettségi bizonyítványát, illetve oklevelét a bejelentkezés időpontjáig bemutatja.”

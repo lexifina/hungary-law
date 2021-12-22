@@ -1,0 +1,5 @@
+## 5. § A 423/2012. (XII. 29.) Korm. rendelet 15/A. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+
+## „(4a) Az (1) bekezdés c) pontja szerinti értékelés esetén, ha a jelentkező a technikum és a felsőoktatási intézmény által közösen kidolgozott szakmai oktatásban vett részt, legalább jó minősítésű szakmai vizsgát tett, és az adott felsőoktatási intézmény 3. melléklet szerinti képzésére jelentkezik, pontszámát – a (4) bekezdéstől eltérően – a szakmai vizsgán kapott százalékos eredmény ötszöröseként kell meghatározni.
+
+## (4b) A miniszter, figyelembe véve a képzésen tanulmányokat folytatók számát, tanulmányi eredményeit és a tanulók képzési területek szerinti megoszlását, legkésőbb a felvételi eljárást megelőző évben kiadott Tájékoztatóban szakonként meghatározhatja a felvételi eljárás évében és az azt követő évben alkalmazandó olyan keretszámot, amelyet meghaladóan a (4a) bekezdés szerinti pontszámítás magyar állami ösztöndíjas képzés tekintetében nem alkalmazható. Ebben az esetben a jelentkezők sorrendjét a (4a) bekezdés szerinti pontszámítás alapulvételével kell megállapítani.”
