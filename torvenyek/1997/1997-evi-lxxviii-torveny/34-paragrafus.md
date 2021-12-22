@@ -38,12 +38,6 @@ eljárásokat folytat, és jogszabályban meghatározott esetben és módon ép�
 
 (4) Az építésügyi hatóság jogszabályban meghatározott esetekben összevont engedélyezési építésügyi hatósági eljárást folytat le.
 
-(5) Az építésügyi hatóság jogszabályban meghatározott esetekben tény, állapot, egyéb adat igazolása céljából
-
-a) a tervezés elősegítése érdekében, vagy
-
-b) az ingatlan adataiban bekövetkezett változásnak a külön jogszabályban meghatározottak szerint az ingatlan-nyilvántartásban történő átvezetéséhez
-
-helyszíni szemle alapján hatósági bizonyítványt állít ki.
+(5) Az építésügyi hatóság tény, állapot, egyéb adat igazolása céljából az ingatlan adataiban bekövetkezett változásnak – jogszabályban meghatározottak szerinti – ingatlan-nyilvántartásban történő átvezetéséhez helyszíni szemle alapján hatósági bizonyítványt állít ki.
 
 (6) A nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra, valamint a kiemelten közérdekű beruházásokra eltérő eljárási szabályok állapíthatók meg.

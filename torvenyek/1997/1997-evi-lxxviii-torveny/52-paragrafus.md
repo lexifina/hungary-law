@@ -74,6 +74,6 @@ amely idő alatt az építésügyi vagy az építésfelügyeleti hatóságnak d�
 
 a) építésügyi hatósági eljárásban, valamint
 
-b) az építésfelügyeleti hatósági eljárásban az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése esetén
+b) az építésfelügyeleti hatósági eljárásban az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése, valamint az építésrendészeti eljárás esetén
 
 nem alkalmazható.

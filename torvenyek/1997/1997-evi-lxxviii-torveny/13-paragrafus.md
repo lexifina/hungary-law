@@ -18,7 +18,7 @@ d) érintettség esetén az országos és helyi építészeti örökségvédelem
 
 (5) A 33/A. § (1) bekezdése szerinti építési tevékenység esetén a helyi építési szabályzatban meghatározott (2) és (3) bekezdés szerinti minimális tartalmi követelményeket és a rendeltetési egységek számát figyelembe kell venni.
 
-(6) A polgármester (főpolgármester) – a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjteményben való közzététellel egyidejűleg – a helyi építési szabályzat, illetve módosítása esetén a módosításokkal egységes szerkezetbe foglalt helyi építési szabályzat E-TÉR-be történő feltöltését kezdeményezi a 8. § (4) bekezdés d) pontjában meghatározott módon.
+(6) A polgármester (főpolgármester) – a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjteményben való közzététellel egyidejűleg – a helyi építési szabályzatot, illetve módosítása esetén a módosításokkal egységes szerkezetbe foglalt helyi építési szabályzatot feltölti az E-TÉR-be a 8. § (4) bekezdés d) pontjában meghatározott módon.
 
 (7) Egy településre – ide nem értve a megyei jogú városokat, a fővárost és a fővárosi kerületeket – csak egy helyi építési szabályzat készülhet a 10. § (2) bekezdésének figyelembevételével.
 

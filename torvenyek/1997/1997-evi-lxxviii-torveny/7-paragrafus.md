@@ -48,7 +48,7 @@ p) a zöldfelület-, környezet- és természetkímélő fejlesztések támogat�
 
 (3) A (2) bekezdésben foglaltak érvényesülése – különösen a természet- és a környezetvédelem, az erdők és a felszíni és felszín alatti vizek védelme, az ár- és belvízvédelem, valamint a termőfölddel és a területekkel való takarékos bánás – érdekében az alábbi követelményeknek kell érvényt szerezni:
 
-a) a településfejlesztés és a településrendezés során a település teljes közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését biztosítani kell, részbeni összegyűjtése és helyben tartása biztosításának az adottságok és a lehetőségek szerinti figyelembevételével,
+a) a településfejlesztés és a településrendezés során a település teljes közigazgatási területét érintő árvíz, belvíz, valamint csapadékvíz szakszerű és ártalommentes elvezetését biztosítani kell, előnyben részesítve annak összegyűjtését és helyben tartását az adottságok és a lehetőségek figyelembevételével,
 
 b) új beépítésre szánt terület kijelölésével egyidejűleg a település közigazgatási területének biológiai aktivitás értéke az átminősítés előtti aktivitás értékhez képest, az e törvény végrehajtására kiadott jogszabályokban meghatározottak szerint nem csökkenhet,
 

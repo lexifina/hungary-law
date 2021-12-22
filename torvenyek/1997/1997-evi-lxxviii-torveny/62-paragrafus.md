@@ -154,6 +154,8 @@
 
 37. az E-TÉR létrehozásáról és működtetéséről, az E-TÉR működését elősegítő elektronikus alkalmazásokról, az államigazgatási szervek és költségvetési szervek Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság részére történő személyes adatokat nem érintő adatszolgáltatásáról, az adatok továbbításáról és a véleményezésről, az E-TÉR-be történő regisztrációról, az E-TÉR adatok előállításáról és karbantartásáról, az adatforgalom rendjéről, valamint az E-TÉR működése finanszírozásának pénzügyi rendjéről szóló szabályokat
 
+38. a településfejlesztési terv előkészítése során bevonásra kerülő személyekre irányadó szakirányú végzettséget
+
 rendelettel állapítsa meg.
 
 (1a) Felhatalmazást kap a Kormány arra, hogy az egyszerű bejelentéshez kötött építési tevékenységgel kapcsolatos részletes szabályokat rendeletben állapítsa meg.

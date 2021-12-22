@@ -1,6 +1,6 @@
 ## Az építészeti-műszaki tervezési és az építésügyi műszaki szakértői tevékenység
 
-32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki dokumentáció elkészítése és kormányrendeletben foglaltak szerinti ellenőrzése, továbbá a 33. § (4) bekezdés szerinti tevékenység.
+32. § (1) Építészeti-műszaki tervezési tevékenységnek minősül az építmény, építményrész, építményegyüttes, táj- és kertépítészeti alkotás megépítéséhez, bővítéséhez, felújításához, átalakításához, helyreállításához, korszerűsítéséhez, lebontásához, elmozdításához, rendeltetésének megváltoztatásához szükséges építészeti-műszaki dokumentáció elkészítése és kormányrendeletben foglaltak szerinti ellenőrzése, továbbá a 33. § (4) bekezdés szerinti tevékenység.
 
 (2) Építésügyi műszaki szakértői tevékenység az épített környezet alakításával és védelmével kapcsolatos műszaki jelenségek ok-okozati összefüggéseinek magas szakmai színvonalú értékelése, ezen belül a vitatott esetek megítélése; a hibák, károk, illetve ezek okainak feltárása; és mindezekkel kapcsolatban szakértői vélemények készítése, továbbá a külön jogszabály szerinti esetenként kapcsolódó tevékenységek.
 

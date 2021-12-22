@@ -1,6 +1,6 @@
 ## A településrendezés feladata
 
-9/B. § A településrendezés feladata, hogy a település területének, telkeinek felhasználására és az építés helyi rendjére vonatkozó szabályok kialakításával
+9/B. § A településrendezés feladata, hogy – a településfejlesztéssel összhangban – a település területének, telkeinek felhasználására és az építés helyi rendjére vonatkozó szabályok kialakításával
 
 a) meghatározza a település összehangolt, rendezett és fenntartható fejlődésének térbeli-fizikai kereteit,
 

@@ -38,4 +38,4 @@ b) meglévő lakóépület bővítése esetén az építési tevékenységgel é
 
 és a terep felszínének eredeti állapotát vissza kell állítani.
 
-(9) A (6) bekezdés szerinti hatósági bizonyítványért miniszteri rendeletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(9)

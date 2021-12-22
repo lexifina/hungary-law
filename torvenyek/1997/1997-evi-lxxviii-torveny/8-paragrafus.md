@@ -4,7 +4,7 @@
 
 (2) A településtervet elfogadása előtt az e törvény végrehajtására kiadott kormányrendeletben meghatározott érintett önkormányzatok, szervezetek, államigazgatási szervek és személyek, valamint az 59/C. § szerinti üzemeltető az 59/C. § szerinti digitális egyeztető felületen véleményezik, valamint az 59/C. § szerinti üzemeltető a településtervek elkészítéséhez elektronikusan személyes adatot nem tartalmazó adatszolgáltatást teljesít.
 
-(2a) Új beépítésre szánt terület kijelölésére irányuló településrendezési terv készítése vagy módosítása esetén az állami főépítész a záró szakmai véleményezés során a településrendezési terv tervezetét véleményezésre megküldi az országos főépítésznek. Az országos főépítész 15 napon belül adja ki a nyilatkozatát, a határidő jogvesztő. A záró szakmai vélemény kiadására meghatározott határidőbe nem számít bele az országos főépítész nyilatkozatának kiadására rendelkezésre álló 15 napos határidő.
+(2a) Új beépítésre szánt terület kijelölésére irányuló településrendezési terv készítése vagy módosítása esetén – ide nem értve, ha a szabályozási vonal változása miatt keletkezik új beépítésre szánt terület – az állami főépítész a záró szakmai véleményezés során a településrendezési terv tervezetét véleményezésre megküldi az országos főépítésznek. Az országos főépítész 15 napon belül adja ki a nyilatkozatát, a határidő jogvesztő. A záró szakmai vélemény kiadására meghatározott határidőbe nem számít bele az országos főépítész nyilatkozatának kiadására rendelkezésre álló 15 napos határidő.
 
 (2b) Az országos főépítész a (2a) bekezdés szerinti nyilatkozatának kiadása során vizsgálja, hogy a településrendezési terv tervezete megfelel-e az országos és térségi szintű területrendezési, településrendezési, településfejlesztési és településképi követelményeknek.
 
@@ -12,7 +12,7 @@
 
 (2d) A településrendezési terv elfogadásakor a (2) bekezdés szerinti kormányrendelet alapján záró szakmai vélemény kibocsátására jogosultnak a jogszabályi követelmények érvényesülését biztosító záró szakmai véleményét figyelembe kell venni. A záró szakmai vélemény megküldésére a (2) bekezdés szerinti kormányrendeletben megállapított határidő lejártát követő 5. napon a településrendezési terv elfogadható.
 
-(3) A településrendezési terv – a (2) bekezdés szerinti kormányrendeletben meghatározott kivétellel – legkorábban az elfogadásától számított 30. napon léptethető hatályba.
+(3)
 
 (4) A polgármester (főpolgármester) gondoskodik
 
@@ -26,6 +26,6 @@ d) a településterv kormányrendeletben meghatározott, a településügyi műs
 
 (5) Az államigazgatási szerv az (1) bekezdés szerinti jogszabályban meghatározott, a településfejlesztési terv és a településrendezési terv elkészítéséhez, illetve megállapításához szükséges adatszolgáltatásért, valamint a (2) bekezdés szerinti jogszabályban meghatározott véleményezési eljárásban a véleményezésért és a településrendezési terv egyeztető tárgyalásán való részvételért díjat nem számíthat fel.
 
-(6) Az államigazgatási szervnek a hatályos jogszabályba foglalt településrendezési terveket a hatáskörükbe tartozó ügyekben alkalmazniuk kell.
+(6) Az államigazgatási szervnek és közműszolgáltatónak a hatályos jogszabályba foglalt településrendezési terveket a hatáskörükbe tartozó ügyekben alkalmazniuk kell.
 
-(7) Ha a települési (a fővárosban a fővárosi, illetve a kerületi) önkormányzat közigazgatási területén van barnamezős terület, köteles az érintett települési önkormányzat a 60. § (9) bekezdésében szereplő időpontig a településrendezési tervében a barnamezős területeket lehatárolni, továbbá a településfejlesztési terv felülvizsgálata során a barnamezős területek fejlesztési és újrahasznosítási lehetőségeit meghatározni.
+(7) Ha a települési (a fővárosban a fővárosi, illetve a kerületi) önkormányzat közigazgatási területén van barnamezős terület, az érintett települési önkormányzat a településrendezési tervében a barnamezős területeket lehatárolhatja, továbbá a településfejlesztési terv felülvizsgálata során a barnamezős területek fejlesztési és újrahasznosítási lehetőségeit meghatározhatja.

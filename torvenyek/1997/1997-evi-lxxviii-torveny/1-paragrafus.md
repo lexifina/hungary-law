@@ -6,15 +6,15 @@
 
 1. § (1) A törvény hatálya kiterjed az épített környezet alakítása és védelme körébe tartozóan:
 
-a) a településfejlesztésre és a települések területének rendezésére (a továbbiakban: településrendezés),
+a) a településfejlesztésre és a települések területének rendezésére (a továbbiakban együtt: településrendezés),
 
 b) a településfejlesztés tervezése és a településrendezés tervezésére (a továbbiakban: településtervezés),
 
-c) az épületek, műtárgyak (a továbbiakban együtt: építmények), valamint az építési munkák és építési tevékenységek építési előírásainak kialakítására,
+c) az épületek, műtárgyak (a továbbiakban együtt: építmények), táj- és kertépítészeti alkotások, valamint az építési munkák és építési tevékenységek építési előírásainak kialakítására,
 
-d) az építmények építészeti-műszaki tervezésére (a továbbiakban: építészeti-műszaki tervezés),
+d) az építmények, táj- és kertépítészeti alkotások építészeti-műszaki tervezésére (a továbbiakban együtt: építészeti-műszaki tervezés),
 
-e) az építmények kivitelezésére,
+e) az építmények, táj- és kertépítészeti alkotások kivitelezésére,
 
 f) az építési termékek, anyagok, szerkezetek, berendezések és módszerek minőségi követelményeinek kialakítására,
 

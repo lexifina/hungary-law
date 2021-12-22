@@ -48,7 +48,7 @@ e) a (2) bekezdés d) pontja szerinti feladatkörében az ellenőrzésen tapaszt
 
 ea) az építőipari kivitelezési tevékenység folytatását megtilthatja,
 
-eb) a szabálytalan állapot megszüntetése érdekében intézkedésként bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén megkeresi az eljárás lefolytatására hatáskörrel rendelkező építésügyi hatóságot.
+eb) a szabálytalan állapot megszüntetése érdekében intézkedésként bontást, átalakítást rendel el, vagy a fennmaradási engedélyezés feltételeinek fennállása esetén az építtetőt felhívja a fennmaradási engedély iránti kérelem benyújtására.
 
 (4) Az építésfelügyeleti hatóság a hatósági ellenőrzést a megindításától számított 60 napon belül lefolytatja. Szabálytalanság észlelése esetén haladéktalanul megindítja a (2) bekezdés szerinti intézkedések megtételére irányuló eljárást. Ezen intézkedéseknek
 

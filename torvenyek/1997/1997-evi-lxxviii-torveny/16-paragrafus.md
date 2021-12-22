@@ -6,7 +6,7 @@
 
 (3) A névjegyzéket vezető szerv annak engedélyezi településtervezési, illetve településrendezési szakértői tevékenység folytatását, aki büntetlen előéletű és nem áll szakértői foglalkozástól eltiltás hatálya alatt, továbbá rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakirányú felsőfokú végzettséggel és szakmai gyakorlattal, valamint megfelel az abban meghatározott egyéb feltételeknek.
 
-(4)
+(4) A településfejlesztési tervet és annak módosítását a (2) bekezdés szerinti személy településtervezési jogosultsággal nem rendelkező, kormányrendeletben meghatározott szakirányú végzettségű személy bevonásával is előkészítheti.
 
 (5) Településtervek készítője a tervezés során birtokába jutott adatokat, információkat – ha azok nem minősülnek közérdekű adatoknak – más célra nem használhatja fel, azokat harmadik személynek nem adhatja át.
 

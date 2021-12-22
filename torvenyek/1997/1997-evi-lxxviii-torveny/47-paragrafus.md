@@ -18,11 +18,11 @@ d) az építésügyi hatósági eljárásban záradékolt építészeti-műszaki
 
 e) az építmény környezetéből az építési tevékenység során keletkezett építési hulladék, maradék építőanyag és építési segédeszközök elszállítását, a környezetnek és a terep felszínének az eredeti vagy az engedélyezett állapotban történő kialakítását, a környezetben okozott károk megszüntetését,
 
-f) energetikai tanúsítvány elkészíttetését,
+f)
 
 g) az építmény jókarbantartására vonatkozó kötelezettség teljesítését vagy az építmény felülvizsgálatát, szükség szerinti átalakítását, felújítását, helyreállítását vagy lebontását, ha annak állapota az állékonyságot, az életet és egészséget, a közbiztonságot veszélyezteti.
 
-(3) Az építésügyi vagy építésfelügyeleti hatóság megkeresésére az ingatlan-nyilvántartásba az (1) és (2) bekezdés, valamint a 46. § (3) bekezdés e) pont eb) alpontja szerint végleges döntéssel elrendelt kötelezettséget be kell jegyezni.
+(3) Az építésügyi vagy építésfelügyeleti hatóság megkeresésére az ingatlan-nyilvántartásba az (1) és (2) bekezdés, valamint a 46. § (3) bekezdés e) pont eb) alpontja szerint végleges döntéssel elrendelt kötelezettséget be kell jegyezni. A kötelezettség teljesítését követően az építésügyi, építésfelügyeleti hatóság intézkedik a kötelezettség ingatlan-nyilvántartásból történő törlése érdekében.
 
 (4)
 
