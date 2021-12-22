@@ -36,8 +36,6 @@ b) előállított és a Mádl Ferenc Összehasonlító Jogi Intézet által bár
 
 6. felkéri az Universitas Miskolcinensis Alapítványt, hogy az 1. pont a) alpontjában foglalt feladatok 2022. január 1. napjával történő zökkenőmentes ellátása érdekében, különös tekintettel a 4. és 5. pontban foglalt tevékenységek szakmai részleteire – a Miskolci Egyetem útján – 2022. január 15-ig kössön együttműködési megállapodást a Mádl Ferenc Összehasonlító Jogi Intézettel;
 
-7. visszavonja
+7.[^1]
 
-a) az 1694/2020. (X. 27.) Korm. határozat 2. pontját, 5. pont a) alpont ab)–ae) pontját és 6–9. pontját, valamint
-
-b) a közép-európai összehasonlító jogi tudományos együttműködés erősítését szolgáló professzori hálózat és junior képzési program működéséhez szükséges irodai elhelyezés és munkakörnyezet üzemeltetési és infrastrukturális feltételeinek biztosításával összefüggő intézkedésekről szóló 1006/2021. (I. 20.) Korm. határozat 1–2. pontját, 3. pont b) alpontját, 4. pont b) alpontját és 5–6. pontját.
+[^1]: A 7. pont 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
