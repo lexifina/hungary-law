@@ -4,7 +4,7 @@ A Kormány
 
 (a továbbiakban: HungaroControl Zrt.) által megvalósítandó fejlesztésével és üzemeltetésével;
 
-2. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon az 1. pont szerinti fejlesztés, 2020. évben megvalósult ütemének fedezetére 120 065 481 forint forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára;
+2.[^1] felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon az 1. pont szerinti fejlesztés, 2019–2020. évben megvalósult ütemének fedezetére 120 065 481 forint forrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára;
 
 Felelős: pénzügyminiszter
 
@@ -17,3 +17,5 @@ Határidő: azonnal
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a 2. pont megvalósulása után azonnal
+
+[^1]: A 2. pont az 1953/2021. (XII. 22.) Korm. határozat 11. pontja szerint módosított szöveg.
