@@ -1,3 +1,3 @@
-## 7. § A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet (a továbbiakban: Eszkr.) 4. §-a a következő (3) bekezdéssel egészül ki:
+## 7. §[^7]
 
-## „(3) A 2. § (1) bekezdés a) pontja szerinti civil szervezetek közé tartozó közfeladatot ellátó közérdekű vagyonkezelő alapítvány beszámoló készítési és könyvvezetési kötelezettségének a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény előírásaival összhangban, a Tv., valamint az e rendeletben foglaltak szerint tesz eleget.”
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

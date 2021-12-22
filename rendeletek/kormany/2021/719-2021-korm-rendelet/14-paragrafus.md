@@ -1,3 +1,3 @@
-## 13. §[^13]
+## 13. §[^20]
 
-[^13]: A 13. § a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^20]: A 13. § a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.

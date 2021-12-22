@@ -1,1 +1,3 @@
-## 4. § A Knyr. 10/A. § (9a) és (10) bekezdésében a „bejelenti” szövegrész helyébe a „bejelenteni” szöveg lép.
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
