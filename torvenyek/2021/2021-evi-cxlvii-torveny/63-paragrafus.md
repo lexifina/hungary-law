@@ -1,0 +1,1 @@
+63. § A Rudolf Kalman Óbudai Egyetemért Alapítványról, a Rudolf Kalman Óbudai Egyetemért Alapítvány és az Óbudai Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXII. törvény 4. §-ában az „Egyetem” szövegrész helyébe az „Alapítvány” szöveg lép.

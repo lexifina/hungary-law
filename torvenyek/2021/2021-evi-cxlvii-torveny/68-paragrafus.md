@@ -1,0 +1,11 @@
+## 24. A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény módosítása
+
+68. § A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény 2. alcíme a következő 2/A. §-sal egészül ki:
+
+„2/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, állami tulajdonban lévő, 3. melléklet szerinti ingatlanokat (ezen alcím alkalmazásában a továbbiakban együtt: ingatlanok) alapítói vagyoni juttatásként az indulótőke növelése érdekében, ingyenesen az Alapítvány tulajdonába kell adni.
+
+(2) Az Alapítvány az ingatlanokat – a (3) bekezdésben foglalt kivétellel – terhekkel együtt szerzi meg. Az (1) bekezdés szerinti tulajdonátruházás feltétele, hogy az Alapítvány az ingatlanokat terhelő kötelezettségeket a 2/B. § (1) bekezdése szerinti szerződésben teljeskörűen átvállalja.
+
+(3) Az ingatlanokon fennálló vagyonkezelői jog az Alapítvány tulajdonszerzésével egyidejűleg megszűnik külön elszámolás, a beruházások vagyonnyilvántartási átvezetése, rendezése nélkül, azzal, hogy a tulajdonosi joggyakorló és a vagyonkezelő a tulajdonba adással érintett ingatlanok tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
+
+(4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az ingatlanokhoz funkcionálisan kapcsolódó, a közfeladat-ellátáshoz szükséges ingóságok – a fennálló vagyonkezelői jog egyidejű megszűnésével – az Alapítvány tulajdonába kerülnek. Az átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, a számvitelről szóló 2000. évi C. törvény 50. § (4) bekezdése szerinti értékkel.”

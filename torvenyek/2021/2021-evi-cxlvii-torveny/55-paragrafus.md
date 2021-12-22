@@ -1,0 +1,1 @@
+55. § A Dunaújvárosi Egyetemért Alapítványról, a Dunaújvárosi Egyetemért Alapítvány és a Dunaújvárosi Egyetem részére történő vagyonjuttatásról szóló 2021. évi XI. törvény 8. §-ában az „5. § (1), (4)” szövegrész helyébe az „5. § (1), (4), (4a)” szöveg lép.
