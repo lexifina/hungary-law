@@ -8,6 +8,8 @@
 
 (4) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok) az Egyetem tulajdonába kerülnek.
 
+(4a) A Dunaújvárosi SZC Bánki Donát Technikum feladatellátásához szükséges, állami tulajdonú ingó vagyontárgyak a fennálló vagyonkezelői jog egyidejű megszűnésével az Egyetem tulajdonába kerülnek. Az átszálló ingó vagyontárgyakról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá.
+
 (5) A (4) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (6) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
