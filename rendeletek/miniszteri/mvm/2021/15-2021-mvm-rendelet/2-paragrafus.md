@@ -1,1 +1,3 @@
-## 1. § Az Ipari Termékosztályozás (ITO) bevezetéséről és alkalmazásáról szóló 16/2011. (V. 10.) KIM rendelet 1. melléklete helyébe az 1. melléklet lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

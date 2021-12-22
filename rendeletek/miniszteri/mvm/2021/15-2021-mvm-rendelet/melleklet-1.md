@@ -1,5 +1,5 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 15/2021. (XII. 20.) MvM rendelethez
+1. melléklet a 15/2021. (XII. 20.) MvM rendelethez[^3]
 
-„1. melléklet a 16/2011. (V. 10.) KIM rendelethez
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
