@@ -300,6 +300,8 @@ r) az állami fenntartásban működő országos gyógyintézetek típusait és 
 
 s) az orvosi fizikus szakértői tevékenység folytatásához szükséges továbbképzésre vonatkozó szabályokat,
 
+t) a lovasterápiát, valamint a fogyatékos és a sérült személynek nyújtott lovas szolgáltatásokat végző személyek képzésére vonatkozó szabályokat
+
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
@@ -315,11 +317,3 @@ b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek
 c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
 
 ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
-
-cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
-
-cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
-
-cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
-
-ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
