@@ -8,7 +8,7 @@ c) a rehabilitálhatóság szociális szempontú vizsgálatát a 3. melléklet s
 
 ## kell elvégezni.
 
-(1a)–(1b)[^4]
+(1a)–(1b)[^5]
 
 (2) Amennyiben a rehabilitálhatóság foglalkoztatási szempontú vizsgálatának eredménye a 2. melléklet szerinti értékelő lapon
 
@@ -22,4 +22,4 @@ a) eléri vagy meghaladja a 12 pontot, és nem áll fenn olyan, a 3. mellékletb
 
 b) nem éri el a 12 pontot vagy fennáll olyan, a 3. mellékletben megjelölt körülmény, amely előfordulása esetén a rehabilitáció nem javasolt, akkor a megváltozott munkaképességű személy rehabilitációja az Mmtv. 3. § (2) bekezdés b) pontja szerint nem javasolt.
 
-[^4]: A 4. § (1a)–(1b) bekezdését a 43/2015. (IX. 25.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 53. § a) pontja.
+[^5]: A 4. § (1a)–(1b) bekezdését a 43/2015. (IX. 25.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 53. § a) pontja.
