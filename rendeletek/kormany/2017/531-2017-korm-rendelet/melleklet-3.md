@@ -8,7 +8,7 @@
 
 | 4. | Elvi építési keretengedélyezési eljárás | Az „Építésügyi ügyek” alcímben található táblázat 16–23. sora szerinti szakhatóságok. |
 
-| 5. | Telekalakítási engedélyezési eljárás | A „Földügyi igazgatási eljárások” alcímben található táblázat szerinti szakhatóság. |
+| 5. |  |  |
 
 | 6. | Termőföld végleges más célú hasznosításának engedélyezési eljárása | A „Földügyi igazgatási eljárások” alcímben található táblázat szerinti szakhatóságok. |
 

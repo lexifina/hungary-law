@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2021-10-28 | 2017-531-20-22.39 | 594/2021. (X. 27.) Korm. rendelet |
 | 2021-10-30 | 2017-531-20-22.40 | 604/2021. (X. 29.) Korm. rendelet |
 | 2021-12-01 | 2017-531-20-22.41 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2021-12-22 | 2017-531-20-22.42 | 360/2019. (XII. 30.) Korm. rendelet |
