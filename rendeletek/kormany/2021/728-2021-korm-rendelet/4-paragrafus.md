@@ -1,1 +1,3 @@
-## 3. § A Rendelet 3. § (3) bekezdésében a „60. és 61. sora” szövegrész helyébe a „60., 61. és 62. sora” szöveg lép.
+## 1–3. §[^2]
+
+[^2]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
