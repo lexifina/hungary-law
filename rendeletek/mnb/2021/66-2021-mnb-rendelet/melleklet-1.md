@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti az egyes pénzügyi szervezetek panaszkezelésének formájára és módjára vonatkozó részletes szabályokról szóló 46/2018. (XII. 17.) MNB rendelet.
+## 10. §[^1]
 
 1. melléklet a 66/2021. (XII. 20.) MNB rendelethez
 
@@ -151,3 +151,5 @@ d) az intézkedés teljesítésének határidejét és a végrehajtásért felel
 e) a panaszra adott válaszlevél postára adásának – elektronikus úton megküldött válasz esetén az elküldés – dátumát.
 
 2. A panaszt és az arra adott választ öt évig meg kell őrizni.
+
+[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
