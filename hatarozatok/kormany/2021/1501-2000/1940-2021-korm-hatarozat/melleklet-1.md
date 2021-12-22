@@ -22,13 +22,7 @@
 
 ## 2. az Áht. 36. § (4b) pontjában biztosított jogkörében eljárva előzetesen jóváhagyja, hogy az innovációért és technológiáért felelős miniszter a kormányhatározatokban szereplő felújítások végrehajtása érdekében legfeljebb az 1. melléklet szerinti táblázat E oszlopának összegében kötelezettséget vállaljon;
 
-## 3. visszavonja
-
-## a) az Esztergom, 1111. jelű összekötő út 35+032 – 35+394 km szelvények közötti szakaszának kiemelt társadalmi igényként jelentkező átépítéséhez szükséges intézkedésekről szóló 1582/2021. (VIII. 11.) Korm. határozat 5. pontját,
-
-## b) a 37. számú Felsőzsolca–Sátoraljaújhely másodrendű főút – 3838. Bodrogkeresztúr–Tokaj összekötő út csatlakozásánál körforgalmú csomópont építése és a 3621. jelű Tokaj–Taktaharkány összekötő út felújítása érdekében szükséges intézkedésekről szóló 1711/2021. (X. 8.) Korm. határozat 5. pontját,
-
-## c) a komplex közútfelújítási és -fejlesztési feladatok megvalósítása érdekében szükséges intézkedésekről szóló 1820/2021. (XI. 25.) Korm. határozat 4. pont d) alpontját és 5. pontját.
+## 3.[^1]
 
 1. melléklet az 1940/2021. (XII. 21.) Korm. határozathoz
 
@@ -47,3 +41,5 @@ A kötelezettségvállalás mértéke az Országos közúthálózat felújítás
 | 4. | 1582/2021. (VIII. 11.) Korm. határozat | 99 950 025 | 999 500 250 | 388 330 225 | 1 487 780 475 |
 
 | 5. | 1711/2021. (X. 8.) Korm. határozat |  | 3 444 812 598 |  | 3 444 812 598 |
+
+[^1]: A 3. pont a 2010: CXXX: törvény 12. § (2) bekezdése alapján hatályát vesztette.
