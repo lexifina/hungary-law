@@ -1,1 +1,3 @@
-## „(3) A projektbiztonsági utasítást a minősített adatot átadó szerv vezetője biztonsági vezetőjének bevonásával készíti el. „NATO SECRET” vagy „SECRET UE/EU SECRET” és „NATO CONFIDENTIAL” vagy „CONFIDENTIEL UE/ EU CONFIDENTIAL” minősítési szintű projekt esetében a projekt biztonsági utasítást és annak esetleges módosításait minden esetben az NBF vagy, ha ezt nemzetközi szerződés szükségessé teszi, a másik részes fél nemzeti biztonsági hatósága is jóváhagyja. A projektbiztonsági utasítás a szerződésben részt vevő minden szereplőre alkalmazandó.”
+## 12. §[^13]
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

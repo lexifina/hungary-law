@@ -1,11 +1,3 @@
-## 4. § Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet 3. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+## 4. §[^5]
 
-## „(1) A minősített adatot kezelő szerv vagy a gazdálkodó szervezet a „Szigorúan titkos!”, a „Titkos!”, a „Bizalmas!”, a „SECRET UE/EU SECRET”, a „CONFIDENTIEL UE/EU CONFIDENTIAL”, a „NATO SECRET”, illetve a „NATO CONFIDENTIAL” minősítési szintű adatok kezelésére jogosító telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását az 1. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap, valamint a 4. § (4) bekezdésében meghatározott nemzetbiztonsági ellenőrzés alá eső személyek által kitöltött biztonsági kérdőív egyszerre történő megküldésével kezdeményezi az NBF-nél.
-
-## (2) A minősített adatot kezelő szerv vagy a gazdálkodó szervezet a „Szigorúan titkos!”, a „Titkos!”, a „Bizalmas!”, a „SECRET UE/EU SECRET”, a „CONFIDENTIEL UE/EU CONFIDENTIAL”, a „NATO SECRET”, illetve a „NATO CONFIDENTIAL” minősítési szintű adatok kezelésére jogosító egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a 2. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap, valamint a 4. § (5) bekezdésében meghatározott nemzetbiztonsági ellenőrzés alá eső személyek által kitöltött biztonsági kérdőív egyszerre történő megküldésével kezdeményezi az NBF-nél.”
-
-5. § (1) Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet 4. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-## „(7) Az NBF – az NBF működésének, valamint a minősített adat kezelésének rendjéről szóló kormányrendeletben meghatározott adatlap gazdálkodó szervezet általi kitöltése nélkül – a nemzetbiztonsági ellenőrzésről készült kockázatmentes és érvényes biztonsági szakvélemény alapján kiállítja a 4. § (4) és (5) bekezdésében meghatározott nemzetbiztonsági ellenőrzésre kötelezett személyek részére a személyi biztonsági tanúsítványt.”
-
-(2) Az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló 92/2010. (III. 31.) Korm. rendelet 4. §-a a következő (8)–(10) bekezdéssel egészül ki:
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

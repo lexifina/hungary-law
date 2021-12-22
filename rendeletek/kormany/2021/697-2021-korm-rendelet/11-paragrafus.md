@@ -1,3 +1,3 @@
-## „d) a gazdálkodó szervezet részére telephely biztonsági tanúsítványt ad ki,
+## 10. §[^11]
 
-## e) a gazdálkodó szervezet erre irányuló kérelmet terjeszt elő.”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „b) „NATO SECRET”, „NATO CONFIDENTIAL”,
+## 3. §[^4]
 
-## c) „SECRET UE/EU SECRET”, „CONFIDENTIEL UE/EU CONFIDENTIAL” ”
-
-## (minősítési szintekre adható ki.)
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
