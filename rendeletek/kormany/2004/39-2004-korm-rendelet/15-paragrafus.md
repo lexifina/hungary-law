@@ -10,6 +10,8 @@
 
 (6)[^38] E rendeletnek a sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet módosításáról szóló 245/2021. (V. 13.) Korm. rendelettel (a továbbiakban: módosító rendelet5.) megállapított 4. § (2) bekezdését, 4. § (3) bekezdés c) és d) pontját, 4. § (5) bekezdését, 5. § (1) és (1a) bekezdését, 6. § (5) és (6) bekezdését és 11. § (3) bekezdését a módosító rendelet5. hatálybalépését[^39] követően indított sportfegyelmi eljárások tekintetében kell alkalmazni.
 
+(7)[^40] E rendeletnek a sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet módosításáról szóló 722/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: módosító rendelet6.) megállapított 10. § (3a) bekezdését a módosító rendelet6. hatálybalépését[^41] követően indított sportfegyelmi eljárások tekintetében kell alkalmazni.
+
 [^28]: A 15. §-t a 436/2013. (XI. 19.) Korm. rendelet 4. §-a iktatta be.
 [^29]: A hatálybalépés napja: 2013. november 27.
 [^30]: A hatálybalépés napja: 2013. november 27.
@@ -22,3 +24,5 @@
 [^37]: A hatálybalépés napja 2018. december 22.
 [^38]: A 15. § (6) bekezdését a 245/2021. (V. 13.) Korm. rendelet 4. §-a iktatta be.
 [^39]: A hatálybalépés időpontja 2021. május 16.
+[^40]: A 15. § (7) bekezdését a 722/2021. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^41]: A hatálybalépés időpontja 2021. december 23.

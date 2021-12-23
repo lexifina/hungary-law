@@ -14,9 +14,9 @@ d) a határozat meghozatalának helyét és időpontját, valamint a határozat 
 
 (3)[^23]
 
-(3a)[^24] Labdarúgás sportágban működő országos sportági szakszövetség – a sportág nemzetközi sportszövetségének szabályzatára figyelemmel – sportfegyelmi szabályzatában rendelkezhet úgy, hogy a versenyző vagy a sportszakember által a sportrendezvény ideje alatt, a versenyszabályzat megszegésével elkövetett sportfegyelmi vétség esetén a 4. § (2)–(13) bekezdése alkalmazásának és tárgyalás tartásának mellőzésével hozható határozat.
+(3a)[^24] Labdarúgás és kézilabda sportágban működő országos sportági szakszövetség – a sportág nemzetközi sportszövetségének szabályzatára figyelemmel – sportfegyelmi szabályzatában rendelkezhet úgy, hogy a versenyző, a sportszakember vagy a sportszervezet által a sportrendezvény ideje alatt, a versenyszabályzat vagy a sportfegyelmi szabályzat megszegésével elkövetett sportfegyelmi vétség esetén a 4. § (2)–(13) bekezdése, illetve a 6. § (5) bekezdése alkalmazásának és tárgyalás tartásának mellőzésével hozható határozat. A 4. § (2)–(13) bekezdése, illetve a 6. § (5) bekezdése alkalmazásának mellőzése esetén az eljárással érintett az eljárás megindításához vezető tényállást, a kötelezettségszegés elkövetésével kapcsolatos megállapításokat és azok bizonyítékait megismerheti, továbbá védekezését előterjesztheti.
 
 (4) Ha az eljárás alá vont a sportfegyelmi büntetés hatálya alatt újabb sportfegyelmi eljárás megindítására alapul szolgáló kötelezettségszegést követ el, ugyanaz a sportfegyelmi büntetés ismételten kiszabható.
 
 [^23]: A 10. § (3) bekezdését a 245/2021. (V. 13.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^24]: A 10. § (3a) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 10. § (3a) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 722/2021. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
