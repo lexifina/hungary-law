@@ -1,3 +1,3 @@
-## „ga) az Országos Középiskolai Tanulmányi Versenyen, a Szakmacsoportos szakmai előkészítő érettségi tantárgyak versenyén, az Ágazati és ágazaton kívüli szakmai érettségi vizsgatárgyak versenyén, az Ágazati szakmai érettségi vizsgatárgyak versenyén vagy az Ágazati és ágazaton belüli specializáció szakmai érettségi vizsgatárgyak versenyén elért 1–10. helyezésért 100, 11–20. helyezésért 50, 21–30. helyezésért 25 többletpontra,”
+## 8. §[^8]
 
-## (jogosult.)
+[^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

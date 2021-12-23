@@ -1,3 +1,3 @@
-## 6. § A 423/2012. (XII. 29.) Korm. rendelet 16. § (5) bekezdése helyébe a következő rendelkezés lép:
+## 6. §[^6]
 
-## „(5) A középiskola – pedagógiai programját és helyi tantervét tartalmazó – kérelmére a Hivatal elnöke azt vizsgálja, hogy a pedagógiai programban és a helyi tantervben szereplő tantárgyak közül melyek azok, amelyek a Nemzeti alaptanterv szerinti, az „Ember és Természet” a „Földünk – környezetünk” és a „Természettudomány és földrajz” műveltségi területek fejlesztési feladatainak teljesítését szolgálják. A Hivatal elnöke határozatában megjelöli a középiskola pedagógiai programjában és helyi tantervében szereplő azon tárgyakat, amelyeknek a középiskola által kiállított bizonyítványokban szereplő eredményei az (1) bekezdés a) pontja alkalmazása szempontjából természettudományos tantárgyakból elért eredménynek minősülnek.”
+[^6]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
