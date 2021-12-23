@@ -86,146 +86,62 @@
 
 ## b) 2. melléklete szerint átcsoportosított összegből 5 132 437 forint a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 8. Gazdaság újraindítását szolgáló emberi erőforrások fejezeti kezelésű előirányzatok alcím, 1. Egészséges Budapest Program jogcímcsoport támogatási előirányzata helyett a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 48. Kincstári díj alcímen kerül felhasználásra.
 
-## 2. Az Arany János-emlékév programjainak megvalósításához szükséges forrás biztosításáról szóló 1067/2017. (II. 9.) Korm. határozat 2. pontjában a „2021. december 31.” szövegrész helyébe a „2022. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A 2017–2020. évekre vonatkozó újpesti sportlétesítmény-fejlesztési program megvalósításához szükséges intézkedésekről szóló 1791/2017. (XI. 8.) Korm. határozat [a továbbiakban: 1791/2017. (XI. 8.) Korm. határozat] 9. pontja helyébe a következő rendelkezés lép:
+## 3.[^2]
 
-## (A Kormány)
+## 4.[^3]
 
-## „9. felhívja az emberi erőforrások miniszterét, hogy
+## 5.[^4]
 
-## a) – az agrárminiszter, valamint az UTE és Budapest Főváros IV. kerület Újpest Önkormányzata bevonásával – készítsen előterjesztést a Kormány részére az előkészítési fázisok befejezéséhez szükséges intézkedésekről az 5. pont a), b) és d) alpontja szerinti beruházások tekintetében,
+## 6.[^5]
 
-## Felelős: emberi erőforrások minisztere
+## 7.[^6]
 
-## agrárminiszter
+## 8.[^7]
 
-## Határidő: 2022. június 30.
+## 9.[^8]
 
-## b) az előkészítési fázisok eredménye alapján – az UTE és Budapest Főváros IV. kerület Újpest Önkormányzata bevonásával – készítsen előterjesztést a Kormány részére az 5. pont c) alpontja szerinti beruházás megvalósításáról, a kivitelezéshez és az üzemeltetéshez kapcsolódó feladatok, költségek, forrásigény, ütemezés és felelősök bemutatásával;
+## 10.[^9]
 
-## Felelős: emberi erőforrások minisztere
+## 11.[^10]
 
-## Határidő: 2022. június 30.”
+## 12.[^11]
 
-## 4. Az 1791/2017. (XI. 8.) Korm. határozat 7. pont
+## 13.[^12]
 
-## a) a) alpontjában az „i), k), m), n) és o) pontja” szövegrész helyébe az „i), k), m) és n) pontja” szöveg,
+## 14.[^13]
 
-## b) c) alpontjában a „b), d), i), k), m), n) és o) pontja” szövegrész helyébe a „b), d), i) és k) pontja” szöveg,
+## 15.[^14]
 
-## c) e) alpontjában az „i), k), m), n) és o) pontja” szövegrész helyébe az „i), k), m) és n) pontja” szöveg,
+## 16.[^15]
 
-## d) záró szövegrészében az „az előkészítési fázisokat az a) és e) alpont tekintetében legkésőbb 2018. december 31-ig, a b) alpont tekintetében legkésőbb 2018. október 31-ig, a c) alpont tekintetében legkésőbb 2018. november 30-ig, a d) alpont tekintetében legkésőbb 2018. április 30-ig kell megvalósítani” szövegrész helyébe az „az előkészítési fázisokat az a)–e) alpont tekintetében legkésőbb 2021. december 31-ig kell megvalósítani” szöveg
+## 17.[^16]
 
-## lép.
+## 18.[^17]
 
-## 5. A nagykereki Bocskai Várkastély és környezete további hasznosítását megalapozó rekonstrukció támogatásáról szóló 2139/2017. (XII. 29.) Korm. határozat
+## 19.[^18]
 
-## a) 1. pont b) alpontjában a „felújításával” szövegrész helyébe a „felújításával, figyelemmel arra, hogy az a) alpontban meghatározott ingatlannal korábban összefüggő történeti együttes része volt, és az eredeti egységbe való visszahelyezése és együttes használata örökségvédelmi szempontból indokolt” szöveg,
-
-## b) 5. pontjában a „megvásárlásáról” szövegrész helyébe a „megvásárlásáról, vagy a megvásárlás meghiúsulása esetén kisajátításáról” szöveg
-
-## lép.
-
-## 6. A Nemzeti Összetartozás Éve megvalósításával kapcsolatos kormányzati intézkedésekről és a szükséges források biztosításáról szóló 1064/2020. (II. 28.) Korm. határozat 4. pontjában a „2022. április 30.” szövegrész helyébe a „2022. december 31.” szöveg lép.
-
-## 7. A történelmi egyházak bázisán létrejövő egészségügyi szakképzés szakmai és infrastrukturális alapjainak megteremtését célzó beruházás előkészítési feladatainak megvalósításához szükséges forrás biztosításáról szóló 1138/2020. (IV. 8.) Korm. határozat 4. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „4. a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet 2. § (2) bekezdés a), b), c), e), f), g), k), l), n) és o) pontja szerinti előkészítő fázisaira legfeljebb 409 208 605 forint forrást biztosít, azzal, hogy az előkészítési fázisokat legkésőbb 2021. december 31. napjáig kell megvalósítani;”
-
-## 8. A 2020–2022 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégia, valamint az ahhoz kapcsolódó intézkedési terv elfogadásáról szóló 1328/2020. (VI. 19.) Korm. határozat [a továbbiakban: 1328/2020. (VI. 19.) Korm. határozat] 2. pont b) alpontjában a „2022. március 31-ig” szövegrész helyébe a „2023. március 31-ig” szöveg lép.
-
-## 9. Az 1328/2020. (VI. 19.) Korm. határozat 1. melléklet
-
-## a) 2. pontjában a „2021. december 31.” szövegrész helyébe a „2023. január 31.” szöveg,
-
-## b) 6. pont a) alpontjában a „2022. június 30.” szövegrész helyébe a „2023. június 30.” szöveg,
-
-## c) 6. pont b) alpontjában a „2022. június 30.” szövegrész helyébe a „2022. december 31.” szöveg,
-
-## d) 7. pont a) alpontjában a „2021. június 30.” szövegrész helyébe a „2022. március 31.” szöveg,
-
-## e) 7. pont b) alpontjában a „2021. december 31.” szövegrész helyébe a „2022. december 31.” szöveg,
-
-## f) 7. pont c) alpontjában a „2022. június 30.” szövegrész helyébe a „2023. június 30.” szöveg,
-
-## g) 9. pontjában a „2021. december 31.” szövegrész helyébe a „2023. június 30.” szöveg,
-
-## h) 10. pontjában a „2022. március 31.” szövegrész helyébe a „2022. december 31.” szöveg,
-
-## i) 13. pontjában a „2022. március 31.” szövegrész helyébe a „2023. június 30.” szöveg,
-
-## j) 14. pontjában a „2021. december 31.” szövegrész helyébe a „2022. december 31.” szöveg,
-
-## k) 16. pontjában a „2022. június 30.” szövegrész helyébe a „2022. december 31.” szöveg,
-
-## l) 17. pontjában a „2021. december 31.” szövegrész helyébe a „2022. december 31.” szöveg,
-
-## m) 18. pontjában a „2022. március 31.” szövegrész helyébe a „2023. június 30.” szöveg,
-
-## n) 19. pontjában a „2022. május 31.” szövegrész helyébe a „2023. május 31.” szöveg és a „2022. június 30.” szövegrész helyébe a „2023. június 30.” szöveg
-
-## lép.
-
-## 10. Az 1021/2021. (II. 2.) Korm. határozat 1. pont a) alpontjában a „2021. december 15.” szövegrész helyébe a „2021. december 15., a Külgazdasági és Külügyminisztérium fejezet javára biztosított források tekintetében 2022. március 31.” szöveg lép.
-
-## 11. A HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaságnak a pilóta nélküli légijárművek használatát támogató honlap és mobilalkalmazás fejlesztéséhez nyújtott támogatásról szóló 1023/2021. (II. 2.) Korm. határozat 2. pontjában a „2020. évben” szövegrész helyébe a „2019–2020. évben” szöveg lép.
-
-## 12. A Velencei-tavi partfal komplex fenntartható rehabilitációja projekthez kapcsolódó feladatokhoz szükséges forrás biztosításáról szóló 1219/2021. (IV. 29.) Korm. határozat 1. pont b) alpontjában a „Velence északi kanyari kikötő” szövegrész helyébe a „Sukoró” szöveg lép.
-
-## 13. A Collegium Hungaricum Róma épületegyüttese teljes körű felújítási előkészítésének a Beruházás Előkészítési Alapból történő támogatásáról szóló 1265/2021. (V. 12.) Korm. határozat a következő 8. ponttal egészül ki:
-
-## (A Kormány)
-
-## „8. az Áht. 36. § (4c) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a Kvtv. 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet 2. Külképviseletek igazgatása címen a 2022. és 2023. években a 6. pontban szereplő források tekintetében éven túli kötelezettséget vállaljon.”
-
-## 14. A Központi Maradványelszámolási Alapból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről, valamint kormányhatározat módosításáról szóló 1377/2021. (VI. 11.) Korm. határozat 1. pontja a következő h) alponttal egészül ki:
-
-## (A Kormány)
-
-## „h) az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdése alapján, az e) alpont szerinti egyedi támogatással összefüggésben úgy határoz, hogy az egyes karcagi sportinfrastruktúra-fejlesztésekkel kapcsolatos beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 710/2021. (XII. 15.) Korm. rendelet 2. melléklet 3. pontja szerinti beruházás során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.”
-
-## 15. A fővárosi alapellátás és járóbeteg-szakellátás fejlesztésének az Egészséges Budapest Program keretében történő megvalósításával kapcsolatos 2021. évi feladatokról szóló 1439/2021. (VII. 6.) Korm. határozat 1. mellékletében foglalt táblázat B:14 mezőjében az „épületfelújítás, -korszerűsítés” szövegrész helyébe az „új egészségközpont megvalósításának I. üteme” szöveg lép.
-
-## 16. A gazdaság újraindítása érdekében szükséges egyes építési beruházások támogatásáról szóló 1440/2021. (VII. 6.) Korm. határozat [a továbbiakban: 1440/2021. (VII. 6.) Korm. határozat] 5. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „5. felhívja a miniszterelnök általános helyettesét, hogy az 1. pontban meghatározott cél érdekében gondoskodjon támogatási jogviszonyok létrehozásáról
-
-## a) 2022-ben a 3. pont a) alpontja szerinti forrás terhére 12 916 472 109 forint,
-
-## b) 2023-ban a 3. pont b) alpontja szerinti forrás terhére 15 370 004 998 forint
-
-## összegben;
-
-## Felelős: a miniszterelnök általános helyettese
-
-## Határidő: az a) alpont tekintetében a 3. pont a) alpontjában meghatározott forrás rendelkezésre állását követően azonnal
-
-## a b) alpont tekintetében a 3. pont b) alpontjában meghatározott forrás rendelkezésre állását követően azonnal”
-
-## 17. Az 1440/2021. (VII. 6.) Korm. határozat a következő 6. ponttal egészül ki:
-
-## (A Kormány)
-
-## „6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdésében és (4c) bekezdés b) pontjában biztosított jogkörében eljárva engedélyezi a miniszterelnök általános helyettese számára, hogy az 1. pontban meghatározott cél érdekében – a vonatkozó közbeszerzési eljárások lefolytatását követően kihirdetett nyertes ajánlatok értéke alapján az összesen legfeljebb 11 693 532 889 forint összegű kötelezettségvállalásból – a 2022–2023. évek mint a költségvetési évet követő évek előirányzatai terhére kötelezettséget vállaljon az alábbiak szerint:
-
-## a) 2022. év terhére 7 073 532 889 forint,
-
-## b) 2023. év terhére 4 620 000 000 forint.”
-
-## 18. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Beruházás Előkészítési Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, címrendi kiegészítésről, valamint kormányhatározatok módosításáról és visszavonásáról szóló 1496/2021. (VII. 23.) Korm. határozat 1. pont d) alpontjában a „2021. december 31.” szövegrész helyébe a „2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 3 456 850 000 forint tekintetében 2022. április 30.” szöveg lép.
-
-## 19. Az 5000 fő feletti lakosságszámú egyes településeket érintő, azonnali, oktatási célú beruházásokhoz szükséges források biztosításáról szóló 1913/2021. (XII. 15.) Korm. határozat 1. mellékletében foglalt táblázat 24. sorában a „Gyulai Tankerületi Központ” szövegrész helyébe a „Békéscsabai Tankerületi Központ” szöveg lép.
-
-## 20. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kormányhatározat módosításáról, valamint kötelezettségvállalás engedélyezéséről szóló 1886/2021. (XII. 8.) Korm. határozat 1. pontja a következő 1.15. alponttal egészül ki:
-
-## (A Kormány)
-
-## „1.15. az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 11. § (1) bekezdése alapján, az 1.7. alpont szerinti egyedi támogatással összefüggésben úgy határoz, hogy az egyes karcagi sportinfrastruktúra-fejlesztésekkel kapcsolatos beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 710/2021. (XII. 15.) Korm. rendelet 2. melléklet 2. pontja szerinti beruházás során az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 2. § (4) bekezdését nem kell alkalmazni.”
+## 20.[^19]
 
 1. melléklet az 1953/2021. (XII. 22.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 17. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 18. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 19. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
