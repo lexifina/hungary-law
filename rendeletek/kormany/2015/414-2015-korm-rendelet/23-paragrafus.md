@@ -8,7 +8,7 @@ b) a PUK-kódot.
 
 (3)[^77]
 
-(4)[^78] A 11. § (4) bekezdésében foglalt esetben a kijelölt kormányhivatal és a járási hivatal átadás céljából a bv. szervnek a személyazonosító igazolványtól elkülönítve, belföldön postai úton, könyvelt küldeményként küldi meg az (1) bekezdésben meghatározott kódokat.
+(4)[^78] A 11. § (4) bekezdésében foglalt esetben a kijelölt kormányhivatal és a járási hivatal átadás céljából a bv. szervnek a személyazonosító igazolványtól elkülönítve, belföldön postai úton, tértivevényes könyvelt küldeményként (a továbbiakban: könyvelt küldemény) küldi meg az (1) bekezdésben meghatározott kódokat.
 
 (5)[^79]
 
@@ -22,7 +22,7 @@ b) a PUK-kódot.
 
 [^76]: A 23. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 72. § (1) bekezdésével megállapított szöveg.
 [^77]: A 23. § (3) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 83. § f) pontja hatályon kívül helyezte.
-[^78]: A 23. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja, a 375/2021. (VI. 30.) Korm. rendelet 24. § 2. pontja szerint módosított szöveg.
+[^78]: A 23. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 311. § (28) bekezdés 7. pontja, a 375/2021. (VI. 30.) Korm. rendelet 24. § 2. pontja, a 717/2021. (XII. 20.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^79]: A 23. § (5) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 83. § g) pontja hatályon kívül helyezte.
 [^80]: A 23. § (8) bekezdését a 6/2020. (I. 31.) Korm. rendelet 12. § (9) bekezdése iktatta be.
 [^81]: A 23. § (9) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 72. § (2) bekezdése iktatta be.
