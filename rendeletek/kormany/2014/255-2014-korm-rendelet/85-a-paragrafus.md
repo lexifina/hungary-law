@@ -6,10 +6,10 @@
 
 (3) A támogatás a 21. § szerint halmozható az Atr. 2. § 1. pontja szerinti egyéb állami támogatással.
 
-(4)[^257] A támogatásról támogatási döntés 2021. december 31-ig hozható.
+(4)[^257] A támogatásról támogatási döntés 2022. június 30-ig hozható.
 
-(5)[^258] A hitel formájában vagy egyéb visszatérítendő formában nyújtott támogatás más, a (2) bekezdésben meghatározott támogatási formává alakítható 2022. december 31-ig úgy, hogy az átalakított támogatás összegét az átalakításkor nem kell újból figyelembe venni a 85/C. § (1)–(3) bekezdése szerinti támogatási értékhatárok vizsgálatakor.
+(5)[^258] A hitel formájában vagy egyéb visszatérítendő formában nyújtott támogatás más, a (2) bekezdésben meghatározott támogatási formává alakítható 2023. június 30-ig úgy, hogy az átalakított támogatás összegét az átalakításkor nem kell újból figyelembe venni a 85/C. § (1)–(3) bekezdése szerinti támogatási értékhatárok vizsgálatakor.
 
 [^256]: A 41/A. alcímet (85/A–85/F. §) a 107/2020. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
-[^257]: A 85/A. § (4) bekezdése a 662/2020. (XII. 24.) Korm. rendelet 9. § b) pontja, a 99/2021. (II. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^258]: A 85/A. § (5) bekezdését a 99/2021. (II. 27.) Korm. rendelet 2. §-a iktatta be.
+[^257]: A 85/A. § (4) bekezdése a 662/2020. (XII. 24.) Korm. rendelet 9. § b) pontja, a 99/2021. (II. 27.) Korm. rendelet 5. § b) pontja, a 723/2021. (XII. 20.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^258]: A 85/A. § (5) bekezdését a 99/2021. (II. 27.) Korm. rendelet 2. §-a iktatta be, szövege a 723/2021. (XII. 20.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
