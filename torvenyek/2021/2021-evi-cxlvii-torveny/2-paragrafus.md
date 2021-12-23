@@ -1,1 +1,1 @@
-2. § Az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés f) pontjában az „alapítványokról szóló törvény szerinti alapítvány” szövegrész helyébe az „alapítvány és az általa fenntartott felsőoktatási intézmény” szöveg lép.
+2. §

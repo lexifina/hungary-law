@@ -1,1 +1,1 @@
-75. § Az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi XXXIII. törvény 5. § (2) bekezdésében a „(4)” szövegrész helyébe az „(1a) és (4)” szöveg lép.
+75. §

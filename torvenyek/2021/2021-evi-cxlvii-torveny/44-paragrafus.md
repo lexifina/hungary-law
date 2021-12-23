@@ -1,1 +1,1 @@
-44. § Hatályát veszti az Universitas Miskolcinensis Alapítványról, az Universitas Miskolcinensis Alapítvány és a Miskolci Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXIX. törvény 3/B. § (2) bekezdésében az „és (3)” szövegrész.
+44. §

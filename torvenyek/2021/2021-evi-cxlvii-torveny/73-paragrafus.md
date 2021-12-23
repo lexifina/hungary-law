@@ -1,1 +1,1 @@
-73. § A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény 6. §-ában az „a 3. § (1), (5) és (7) bekezdése, a 4. §, a 7. §, valamint az 1. és a 2. melléklet” szövegrész helyébe az „a 2/A. §, a 2/C. §, a 2/D. §, a 3. § (1), (5) és (7) bekezdése, a 4. §, valamint az 1–3. melléklet” szöveg lép.
+73. §

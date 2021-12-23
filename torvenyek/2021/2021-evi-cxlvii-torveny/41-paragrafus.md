@@ -1,1 +1,1 @@
-41. § A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény 7. § (2) bekezdésében a „(9) és (12)” szövegrész helyébe a „(9), (12) és (13)” szöveg lép.
+41. §
