@@ -356,4 +356,18 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 66. | iSupport Ügykezelő és Kommunikációs Rendszer | szakrendszer |
 
-[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja, a 680/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdése, a 375/2021. (VI. 30.) Korm. rendelet 26. § (2) bekezdése, az 500/2021. (VIII. 18.) Korm. rendelet 15. §-a szerint módosított szöveg.
+| 67. | Filmiroda Egységes Ügykezelő Rendszer (FEÜR) | szakrendszer |
+
+| 68. | Termék Minőségbiztosítási Rendszer (TMR) | központi rendszer |
+
+| 69. | MDS keretrendszer KÖFOP IH adatszolgáltató oldal | szakrendszer |
+
+| 70. | Központi Kormányzati Hírlevélküldő | szakrendszer |
+
+| 71. | Nemzeti konzultáció portál | szakrendszer |
+
+| 72. | SafeHIR vészhelyzeti hívásfogadó rendszer | szakrendszer |
+
+| 73. | Elektronikus hatósági ügyintézést és tájékoztatást segítő telefonos szolgáltató rendszer (Effector) | szakrendszer |
+
+[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja, a 680/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdése, a 375/2021. (VI. 30.) Korm. rendelet 26. § (2) bekezdése, az 500/2021. (VIII. 18.) Korm. rendelet 15. §-a, a 717/2021. (XII. 20.) Korm. rendelet 25. §-a szerint módosított szöveg.
