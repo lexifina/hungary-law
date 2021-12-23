@@ -8,7 +8,13 @@ nemzetgazdasági miniszter
 
 Határidő: folyamatos
 
-2. egyetért azzal, hogy a Program építtetője a tanuszoda, tornaterem és az új tantermek megvalósításához szükséges beruházások vonatkozásában a Nemzeti Sportközpontok központi költségvetési szerv;
+2.[^1] egyetért azzal, hogy a tanuszoda, a tornaterem és az új tantermek megvalósításához szükséges
+
+a) azon beruházások vonatkozásában, amelyek esetében a megvalósításra irányuló közbeszerzési eljárás 2019. január 1-jét megelőzően indult, a Program építtetője,
+
+b) azon beruházások vonatkozásában, amelyek esetében a megvalósításra irányuló közbeszerzési eljárás 2019. január 1-jét követően indul, a Program előkészítője
+
+a Nemzeti Sportközpontok;
 
 3. egyetért azzal, hogy az osztott tulajdoni formák elkerülése érdekében a Program során megépülő tanuszodák esetében a nemzeti fejlesztési miniszter a Nemzeti Sportközpontok útján és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság bevonásával, a belügyminiszterrel együttműködve egyeztetéseket kezdeményezzen az érintett önkormányzatokkal a beruházással érintett ingatlanok állami tulajdonba adása érdekében, továbbá egyetért azzal, hogy a beruházással létrejött vagyon az állam tulajdonába és a Nemzeti Sportközpontok vagyonkezelésébe kerüljön a létesítmények mindenkori működtetésének kötelezettségével, és felhívja a nemzetgazdasági minisztert, hogy a működtetés költségeit a költségvetés tervezése során vegye figyelembe;
 
@@ -30,6 +36,7 @@ Határidő: a mindenkori éves költségvetés tervezésével egyidejűleg
 
 4. egyetért azzal, hogy a Nemzeti Sportközpontok által a Program keretében lefolytatott beruházások mentesüljenek a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontjában foglaltak alól;
 
-5.[^1]
+5.[^2]
 
-[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1963/2021. (XII. 23.) Korm. határozattal megállapított szöveg.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
