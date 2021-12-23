@@ -1,5 +1,3 @@
-## 1. §[^1]
+## 1. § A Kormány az elektronikus ügyintézési pont működtetőjeként az e-közigazgatásért felelős minisztert, infrastuktúra-szolgáltatóként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, alkalmazásüzemeltetőként az IdomSoft Zrt.-t jelöli ki.
 
 ## 2. Az elektronikus ügyintézési felügyelet
-
-[^1]: Az 1. §-t a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés a) pontja hatályon kívül helyezte.

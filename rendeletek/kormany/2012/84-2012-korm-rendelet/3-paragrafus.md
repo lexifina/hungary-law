@@ -2,7 +2,7 @@
 
 ## 3. Az ügyintézési rendelkezést nyilvántartó szerv
 
-3. §[^2] (1)[^3] A Kormány az ügyfél ügyintézési rendelkezését nyilvántartó szervként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t jelöli ki, amely szolgáltatáshoz kapcsolódó alkalmazásüzemeltetési feladatokat az IdomSoft Zrt., a szolgáltatás igénybevételi feltételeinek ellenőrzését, a csatlakozó szervezetek nyilvántartását és az alkalmazásokhoz kapcsolódó minőségbiztosítási feladatokat a KOPINT-DATORG Informatikai és Vagyonkezelő Kft. látja el.
+3. §[^2] (1)[^3] A Kormány az ügyfél ügyintézési rendelkezését nyilvántartó szervként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a rendelkezési nyilvántartás ügyintézői jogosultságkezeléssel összefüggő feladatainak ellátására az e-közigazgatásért felelős minisztert jelöli ki, amely szolgáltatáshoz kapcsolódó alkalmazásüzemeltetési feladatokat az IdomSoft Zrt., a szolgáltatás igénybevételi feltételeinek ellenőrzését, a csatlakozó szervezetek nyilvántartását és az alkalmazásokhoz kapcsolódó minőségbiztosítási feladatokat a KOPINT-DATORG Informatikai és Vagyonkezelő Kft. látja el.
 
 (2) A Kormány a rendelkezési nyilvántartás regisztrációs szerveiként a következő szerveket jelöli ki:
 
@@ -19,5 +19,5 @@ e)[^4]
 f) a Nemzeti Adó- és Vámhivatal.
 
 [^2]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 200. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^3]: A 3. § (1) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
 [^4]: A 3. § (2) bekezdés e) pontját az 572/2020. (XII. 9.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
