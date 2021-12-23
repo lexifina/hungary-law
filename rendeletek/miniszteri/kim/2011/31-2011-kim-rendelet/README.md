@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-31-20-2
 | 2019-10-13 | 2011-31-20-2T.8 | 39/2017. (XII. 27.) MvM rendelet |
 | 2019-12-01 | 2011-31-20-2T.9 | 15/2019. (XI. 27.) MvM rendelet |
 | 2020-09-05 | 2011-31-20-2T.10 | 15/2019. (XI. 27.) MvM rendelet |
+| 2021-12-23 | 2011-31-20-2T.11 | 14/2021. (XII. 20.) MvM rendelet |
