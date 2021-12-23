@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-23-20-2
 | 2021-01-01 | 2017-23-20-22.7 | 226/2019. (IX. 25.) Korm. rendelet |
 | 2021-03-01 | 2017-23-20-22.8 | 101/2021. (II. 27.) Korm. rendelet |
 | 2021-07-01 | 2017-23-20-22.9 | 356/2021. (VI. 24.) Korm. rendelet |
+| 2021-12-23 | 2017-23-20-22.10 | 226/2019. (IX. 25.) Korm. rendelet |
