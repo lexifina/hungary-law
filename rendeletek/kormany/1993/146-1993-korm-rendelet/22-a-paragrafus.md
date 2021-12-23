@@ -1,4 +1,4 @@
-22/A. §[^200] (1) Az Nytv. 19/H. §-a szerinti adatszolgáltatás során az adatigénylőnek meg kell adnia
+22/A. §[^202] (1) Az Nytv. 19/H. §-a szerinti adatszolgáltatás során az adatigénylőnek meg kell adnia
 
 a) a személyazonosság igazolására alkalmas hatósági igazolvány okmányazonosítóját, valamint
 
@@ -12,4 +12,4 @@ c) útlevél és vezetői engedély esetén a jogosult hatósági igazolványon 
 
 (4) Az adatszolgáltatás személyazonosító igazolvány esetén az Nytv. 29. § (3) bekezdése szerinti gépi olvasásra alkalmas adatsor alapján is kérhető.
 
-[^200]: Az R. 22/A. §-át a 375/2021. (VI. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^202]: Az R. 22/A. §-át a 375/2021. (VI. 30.) Korm. rendelet 1. § (4) bekezdése iktatta be.

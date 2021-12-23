@@ -10,12 +10,12 @@ c) az adatvédelmi záradékot, amely felhívja a figyelmet az átadott adatok j
 
 (3) A rendszeres adatszolgáltatásra vonatkozó engedély az (1) és (2) bekezdésben foglaltakon túl tartalmazza a szolgáltatás időpontját (időszakonkénti vagy folyamatos) és az engedély érvényességi idejét.
 
-(4)[^209]
+(4)[^211]
 
-(5)[^210]
+(5)[^212]
 
-(6)[^211]
+(6)[^213]
 
-[^209]: A rendelet 26. §-ának (4) bekezdését a 13/1999. (II. 1.) Korm. rendelet hatályon kívül helyezte.
-[^210]: Az R. 26. §-ának (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 49. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^211]: Az R. 26. §-ának (6) bekezdését a 9/2004. (I. 31.) Korm. rendelet 32. § (1) bekezdése hatályon kívül helyezte.
+[^211]: A rendelet 26. §-ának (4) bekezdését a 13/1999. (II. 1.) Korm. rendelet hatályon kívül helyezte.
+[^212]: Az R. 26. §-ának (5) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 49. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^213]: Az R. 26. §-ának (6) bekezdését a 9/2004. (I. 31.) Korm. rendelet 32. § (1) bekezdése hatályon kívül helyezte.

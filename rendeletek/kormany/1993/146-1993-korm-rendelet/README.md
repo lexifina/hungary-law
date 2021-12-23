@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2021-07-01 | 1993-146-20-22.62 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2021-08-01 | 1993-146-20-22.63 | 115/2007. (V. 24.) Korm. rendelet |
 | 2021-09-11 | 1993-146-20-22.64 | 375/2021. (VI. 30.) Korm. rendelet |
+| 2021-12-23 | 1993-146-20-22.65 | 717/2021. (XII. 20.) Korm. rendelet |
