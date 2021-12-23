@@ -1,6 +1,6 @@
 ## 4. § Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 48. § (1) bekezdés b) pontja szerinti támogatási szerződés megkötése során a szakmai támogató szerv kötelezettségvállalóként felelős az eljárás során felmerülő szakmai és szakmastratégiai kérdések megvizsgálásáért, az ezekhez kapcsolódó és ebből adódó eljárási, igazgatási feladatok ellátásáért és előkészítéséért, valamint valamennyi egyéb, az eljárások során felmerülő, a KNTP-t érintő pénzügyi kérdésekért.
 
-5. § (1) A KNTP szakmai támogató szerveinek a tervezett projekttel kapcsolatos illetékességét a projekt megvalósítási helyének célországa határozza meg. A KGH illetékes a Magyarország által támogatott határon túli gazdaságfejlesztési stratégiák (a továbbiakban: gazdaságfejlesztési stratégiák) célkitűzéseihez illeszkedő, illetve a gazdaságfejlesztési stratégiák célterületeihez tartozó területen megvalósuló beruházásokat magába foglaló projekteket illetően. Minden más területen a HEPA illetékes.
+5. § (1)[^3] A KNTP szakmai támogató szerveként – a Magyarország által támogatott határon túli gazdaságfejlesztési stratégiák (a továbbiakban: gazdaságfejlesztési stratégiák) célkitűzéseihez illeszkedő és a gazdaságfejlesztési stratégiák célterületeihez tartozó területen megvalósuló beruházásokat magába foglaló projektek kivételével – a HEPA illetékes.
 
 (2) A szakmai támogató szerv
 
@@ -29,3 +29,5 @@ aj) a támogatási szerződések, módosításaik, illetve a kapcsolódó dokume
 b) ellátja az utóellenőrzési, illetve a támogatáshoz kapcsolódó egyéb helyszíni ellenőrzési feladatokat, és
 
 c) gondoskodik a támogatási szerződések lezárásáról, végzi a KNTP-hez kapcsolódó követeléskezelési feladatokat.
+
+[^3]: Az 5. § (1) bekezdése a 47/2021. (XII. 22.) KKM rendelet 2. §-ával megállapított szöveg.

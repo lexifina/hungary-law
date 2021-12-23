@@ -2,6 +2,8 @@
 
 (2) Azonos vagy részben azonos azonosítható elszámolható költségek esetében az e rendelet szerinti támogatás más helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatással halmozható, ha az nem vezet a csoportmentességi rendeletekben meghatározott legmagasabb támogatási intenzitás túllépéséhez. Az e rendelet szerinti támogatás különböző azonosítható elszámolható költségek esetében halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.
 
-(3) A támogatási intenzitás kiszámítása során valamennyi felhasznált számadatot az adók vagy egyéb illetékek levonása előtt kell figyelembe venni.
+(3)[^15]
 
 (4) A jelenérték kiszámításához az elszámolható költségeket és a több részletben kifizetett támogatást a diszkontáláshoz alkalmazott kamatlábbal az odaítélés időpontjának évére kell diszkontálni.
+
+[^15]: A 12. § (3) bekezdését a 47/2021. (XII. 22.) KKM rendelet 12. § b) pontja hatályon kívül helyezte.

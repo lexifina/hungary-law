@@ -98,10 +98,12 @@ b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási idősz
 
 c) az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-(6) A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a)–d) és f)–g) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
+(6)[^24] A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a)–b) és d)–g) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
 
 a) a beruházás elsődleges célja nem az energiatermelés,
 
 b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás összköltségének legfeljebb 50%-át teszi ki, és
 
 c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
+
+[^24]: A 20. § (6) bekezdés nyitó szövegrésze a 47/2021. (XII. 22.) KKM rendelet 11. § j) pontja szerint módosított szöveg.

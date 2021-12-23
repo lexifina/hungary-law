@@ -48,7 +48,7 @@ b) a beruházás megkezdését megelőzően lezárt üzleti évvel nem rendelkez
 
 21. létesítmény: funkcionálisan megbonthatatlan egészet képező termelő vagy szolgáltató egység;
 
-22. létesítmény felvásárlása: bezárt létesítményhez közvetlenül kapcsolódó tárgyi eszközök és immateriális javak piaci feltételek mellett történő megvásárlása, ha a felvásárló beruházó a létesítmény eladójától független harmadik fél – ide nem értve, ha egy kis- és középvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalói vásárolják meg;
+22.[^1] létesítmény felvásárlása: létesítményhez közvetlenül kapcsolódó tárgyi eszközök és immateriális javak piaci feltételek mellett történő megvásárlása, ha a felvásárló beruházó a létesítmény eladójától független harmadik fél – ide nem értve, ha egy kis- és középvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalói vásárolják meg –;
 
 23. megújuló energia: az általános csoportmentességi rendelet 2. cikk 109. pontja szerinti energia;
 
@@ -76,7 +76,7 @@ b) a beruházás megkezdését megelőzően lezárt üzleti évvel nem rendelkez
 
 35. támogatási intenzitás: az Atr. 2. § 15. pontjában meghatározott támogatás intenzitás;
 
-36. szakmai támogató szerv: a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HEPA), valamint a CED Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KGH) a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról szóló 163/2018. (IX. 10.) Korm. rendelet 1. § (2) bekezdés 35. pontja, valamint 2. § (2) bekezdés 26. pontja szerint;
+36.[^2] szakmai támogató szerv: a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HEPA) a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és a Közép-európai Gazdaságfejlesztési Hálózat Nonprofit Korlátolt Felelősségű Társaság feladatainak meghatározásáról, valamint a Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet módosításáról szóló 163/2018. (IX. 10.) Korm. rendelet (a továbbiakban: 163/2018. (IX. 10.) Korm. rendelet) 1. § (2) bekezdés 35. pontja szerint;
 
 37. termék-diverzifikációt eredményező induló beruházás: létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházásnak nem minősülő induló beruházás;
 
@@ -85,3 +85,6 @@ b) a beruházás megkezdését megelőzően lezárt üzleti évvel nem rendelkez
 39. új eljárási innovációt eredményező induló beruházás: az Európai Bizottság a regionális állami támogatásokról (2014–2020) szóló 2013/C 209/01 számú európai bizottsági iránymutatása 15. pontja szerinti olyan induló beruházás, amelynek célja a meglévő létesítmények új eljárási innovációkkal történő diverzifikációja, de nem minősül új gazdasági tevékenység végzésére irányuló induló beruházásnak;
 
 40. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő kibővítését eredményezi, amely nem minősül azonos vagy hasonló tevékenységnek, valamint a bezárt létesítmény eszközeinek eladótól független harmadik fél beruházó általi felvásárlása is, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos vagy ahhoz hasonló tevékenységnek.
+
+[^1]: A 3. § 22. pontja a 47/2021. (XII. 22.) KKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § 36. pontja a 47/2021. (XII. 22.) KKM rendelet 1. § (2) bekezdésével megállapított szöveg.

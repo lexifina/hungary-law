@@ -20,11 +20,11 @@
 
 8. az 1379/2013/EU rendelet hatálya alá tartozó halászati és akvakultúra-ágazatban történő beruházáshoz;
 
-9. energiatermelést, energiaszolgáltatást, valamint az energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz a 20. § (2)–(6) bekezdésében foglaltak figyelembevételével;
+9.[^7] megújuló energia kivételével az energiatermelést, energiaszolgáltatást, valamint az energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz a 20. § (2)–(6) bekezdésében foglaltak figyelembevételével;
 
-10. kereskedelmi tevékenységhez;
+10.[^8] saját értékesítési hálózat kialakításához és működtetéséhez;
 
-11. koncesszióköteles körbe tartozó tevékenységet megvalósító beruházáshoz;
+11.[^9]
 
 12. szélessávú infrastruktúra kiépítését szolgáló beruházáshoz;
 
@@ -63,3 +63,7 @@ eb) a támogatási szerződésben nem vállalja, hogy a beruházás eredeti hely
 f) olyan vállalkozásnak vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi, Magyarországnak vagy bármely más tagállamnak címzett határozata alapján tiltott állami támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték, és ezen visszafizetési kötelezettségének nem tett eleget;
 
 g) olyan beruházáshoz, amely bármely más vissza nem térítendő költségvetési támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
+
+[^7]: A 8. § (1) bekezdés 9. pontja a 47/2021. (XII. 22.) KKM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 8. § (1) bekezdés 10. pontja a 47/2021. (XII. 22.) KKM rendelet 11. § d) pontja szerint módosított szöveg.
+[^9]: A 8. § (1) bekezdés 11. pontját a 47/2021. (XII. 22.) KKM rendelet 12. § a) pontja hatályon kívül helyezte.

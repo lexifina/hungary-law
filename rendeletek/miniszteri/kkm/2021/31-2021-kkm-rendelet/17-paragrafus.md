@@ -4,7 +4,7 @@ a) ösztönző hatásokkal bír, és
 
 b) a beruházás, illetve az első támogatásban részesülő kutatás-fejlesztési projekt megkezdése nem korábbi, mint a szakmai támogató szerv (4) bekezdés szerinti nyilatkozatának beruházó általi kézhezvétele.
 
-(2) A 2. § (1) bekezdés a)–b) és e) pontja szerinti támogatás igénylése esetében a támogatás ösztönző hatását igazolja, ha a beruházás, illetve az első támogatásban részesülő kutatás-fejlesztési projekt megkezdése előtt a beruházó a támogatás iránti kérelmét benyújtja.
+(2)[^22] A 2. § (1) bekezdés a)–b) és e) pontja szerinti támogatás igénylése esetében a támogatás ösztönző hatását igazolja, ha a beruházás, illetve az első támogatásban részesülő kutatás-fejlesztési projekt megkezdése előtt a beruházó a beruházási koncepciót benyújtja.
 
 (3) A 2. § (1) bekezdés c) pontja szerinti támogatás igénylése esetében a beruházó a támogatási kérelem benyújtásával egyidejűleg az ösztönző hatás meglétét azzal bizonyíthatja, hogy a támogatás hiányában nem került volna sor a projekt végrehajtására az érintett térségben, vagy a projekt nem lett volna kellően nyereséges a beruházó számára az adott térségben.
 
@@ -21,3 +21,5 @@ c) olyan egyéb kötelezettségvállalás, amely a beruházást vagy annak bárm
 d) létesítmény felvásárlása esetén a felvásárlás időpontja vagy
 
 e) az a)–d) pontok közül több pont együttes megvalósulása esetén a legkorábbi időpont
+
+[^22]: A 17. § (2) bekezdése a 47/2021. (XII. 22.) KKM rendelet 11. § h) pontja szerint módosított szöveg.
