@@ -1,3 +1,3 @@
-## 1. § A komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet (a továbbiakban: NEFMI rendelet) az 1. §-át megelőzően a következő alcím címmel egészül ki:
+## 1. §[^2]
 
-## „1. A komplex minősítés, az egészségkárosodás és az egészségi állapot vizsgálata”
+[^2]: Az 1. § a 2010: CXXX: törvény 12. § (2) bekezdése alapján hatályát vesztette.
