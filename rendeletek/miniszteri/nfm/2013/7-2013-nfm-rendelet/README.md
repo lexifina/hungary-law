@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-7-20-2W
 | 2021-05-18 | 2013-7-20-2W.33 | 12/2021. (V. 10.) BM rendelet |
 | 2021-10-01 | 2013-7-20-2W.34 | 33/2021. (X. 1.) BM rendelet |
 | 2021-11-16 | 2013-7-20-2W.35 | 38/2021. (XI. 15.) BM rendelet |
+| 2021-12-23 | 2013-7-20-2W.36 | 46/2021. (XII. 22.) BM rendelet |
