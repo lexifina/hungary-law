@@ -1,6 +1,6 @@
 ## 10. A műszaki-szakmai átadás-átvételi eljárás lefolytatásának szabályai
 
-18. §[^49] (1) A megrendelő szervnek az alkalmazás végső műszaki-szakmai átadás-átvételére irányuló eljárásba – függetlenül attól, hogy az alkalmazást az ÁAFK-ban vagy azon kívül fejlesztik – a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót be kell vonnia.
+18. §[^55] (1) A megrendelő szervnek az alkalmazás végső műszaki-szakmai átadás-átvételére irányuló eljárásba – függetlenül attól, hogy az alkalmazást az ÁAFK-ban vagy azon kívül fejlesztik – a központi alkalmazás-szolgáltatót és a központi termék minőségbiztosítót be kell vonnia.
 
 (2) A megrendelő szerv az elkészült alkalmazás szakmai tartalmának és ágazati szakmapolitikai igényeknek való megfelelőségéről, az elkészült alkalmazásnak a 12/A. §-ban meghatározott szakmai szempontokkal való összeegyeztethetőségéről és a fejlesztéssel összefüggésben meghatározott szakmai követelményeknek való megfeleléséről megfelelőségi nyilatkozatot állít ki, amelyet – a végső műszaki-szakmai átadás-átvételre irányuló eljárásba történő bevonásra irányuló felhívással egyidejűleg – megküld a központi alkalmazás-szolgáltató részére.
 
@@ -44,4 +44,4 @@ f) a megrendelő szerv nem végzett teljesítményteszteket.
 
 (16) A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 8 napon belül a Nemzetbiztonsági Kabinetnél, amely a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg döntését.
 
-[^49]: A 18. § a 476/2021. (VIII. 9.) Korm. rendelet 1. § (25) bekezdésével megállapított szöveg.
+[^55]: A 18. § a 476/2021. (VIII. 9.) Korm. rendelet 1. § (25) bekezdésével megállapított szöveg.

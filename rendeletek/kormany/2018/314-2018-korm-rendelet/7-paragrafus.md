@@ -1,25 +1,23 @@
-7. § (1) Az ÁAFK keretében nyújtott szolgáltatások a 4. § (1) bekezdés a) pont ah) alpontja szerinti egyedi szolgáltatási szerződésben – a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint – meghatározott, szakmailag indokolt mértékű fejlesztői kapacitások költségtérítés nélkül vehetőek igénybe – a megrendelő szerv e rendelet szerinti közszolgáltatás igénybevételére való jogosultságára tekintettel, a megrendelő szervvel a (2) bekezdésben foglaltak szerint fennálló megbízása alapján – az eseti alkalmazásfejlesztési feladat elvégzésére jogosult fejlesztő szervezet által.
+7. §[^31] (1) Az ÁAFK keretében nyújtott, a 6. § alapján közszolgáltatási szerződés keretében finanszírozott közszolgáltatások – ideértve az ÁAFK alkalmazásfejlesztés megvalósításához szükséges terjedelmű használatát, valamint a 4. § (1) bekezdés a) pont af) alpontjában rögzített módszertan szerint meghatározott, szakmailag indokolt mértékű fejlesztői kapacitásokat is – e rendelet alapján, a központi alkalmazás-szolgáltató az ÁAFK mint központi infokommunikációs közszolgáltatás igénybevételére irányuló csatlakozási kérelemről hozott döntését követően, közszolgáltatási szerződés alapján, az ott meghatározott feltételekkel vehetők igénybe.
 
-(2)[^27] A megrendelő szerv által kiadott egyedi alkalmazásfejlesztési megbízással rendelkező szervezet – a központi alkalmazás-szolgáltatóval, a központ termék minőségbiztosító bevonásával, a központi termék minőségbiztosító bevonásával az ÁAFK használatára vonatkozó egyedi szolgáltatási szerződés megkötését követően – az ÁAFK funkcionalitásának használatával és szabályrendszerének betartásával köteles végrehajtani a fejlesztési megbízás teljesítése érdekében szükséges alkalmazásfejlesztési, tesztelési és bevezetési feladatokat.
+(2) A fejlesztő szervezet a megrendelő szervvel kötött szerződése alapján, a központi alkalmazás-szolgáltató az ÁAFK mint központi infokommunikációs közszolgáltatás igénybevételére irányuló csatlakozási kérelemről hozott döntését követően, a központ termék minőségbiztosító bevonásával, az ÁAFK funkcionalitásának használatával és szabályrendszerének betartásával köteles végrehajtani a fejlesztési megbízás teljesítése érdekében szükséges alkalmazásfejlesztési, tesztelési és bevezetési feladatokat.
 
-(3) Az alkalmazásfejlesztést a megrendelő megbízása alapján végző fejlesztő szervezet a megrendelő szervvel kötött vállalkozási szerződése alapján, a vállalkozási szerződésben megjelölt egyedi alkalmazásfejlesztési feladat vonatkozásában a központi alkalmazás-szolgáltatóval és harmadik félként a megrendelő szervvel, háromoldalú egyedi szolgáltatási szerződést köt.
+(3) A megrendelő szervezet az ÁAFK keretében nyújtott alapszolgáltatásokat díjmentesen veszi igénybe. Az ÁAFK keretében nyújtott kiegészítő szolgáltatások a szolgáltatási szerződés alapján, díjazás ellenében vehetők igénybe.
 
-(4) A (3) bekezdés szerint megkötött egyedi szolgáltatási szerződés kötelező tartalmi elemei:
+(4) A (3) bekezdés szerint megkötött szolgáltatási szerződés kötelező tartalmi elemei:
 
 a) a szerződő felek adatai,
 
 b) a szerződés időbeli hatálya,
 
-c) a szerződés keretében fejlesztendő alkalmazás meghatározása,
+c) a szerződéssel érintett fejlesztendő alkalmazás meghatározása,
 
-d) a szerződés keretében igénybe vehető, térítésmentes szolgáltatások (alapszolgáltatások) köre,
+d) a kiegészítő szolgáltatások megjelölése, igénybevételének feltételei és díja, valamint az elszámolásra vonatkozó szabályok,
 
-e) az alapszolgáltatásokon túli egyéb szolgáltatások (kiegészítő szolgáltatások) megjelölése, igénybevételének feltételei és díja, valamint az elszámolásra vonatkozó szabályok,
+e) a fejlesztési környezet használatának műszaki-technikai alapfeltételei,
 
-f) a fejlesztési környezet használatának műszaki-technikai alapfeltételei,
+f) a felek által az alkalmazásfejlesztés folyamatában közösen kijelölt fejlesztési mérföldkövek,
 
-g) a felek által az alkalmazásfejlesztés folyamatában közösen kijelölt fejlesztési mérföldkövek, amelyek elérésekor a központi alkalmazás-szolgáltató előre meghatározott szempontok alapján ellenőrizni köteles, hogy a fejlesztés előrehaladása és annak elért részeredményei összhangban állnak-e a 18. § (2) bekezdése szerint vizsgálandó követelményekkel,
+g) a szerződő felek jogai és kötelezettségei.
 
-h) a szerződő felek jogai és kötelezettségei.
-
-[^27]: A 7. § (2) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 1. § (13) bekezdésével megállapított, a 476/2021. (VIII. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^31]: A 7. § a 717/2021. (XII. 20.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.

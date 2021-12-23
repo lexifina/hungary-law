@@ -1,6 +1,6 @@
 ## 8. Az alkalmazásfejlesztések megindításának kezdeményezése
 
-16. § (1)[^38] A megrendelő szerv az általa igényelt alkalmazásfejlesztés ÁAFK-ban történő lebonyolításának Felügyelet általi jóváhagyását a 14. és 15. §-ban foglalt előkészítő eljárás lefolytatását követően, az egyedi alkalmazásfejlesztés ÁAFK-ban történő megindításának jóváhagyására irányuló kérelem Felügyelethez történő benyújtásával kezdeményezi.
+16. § (1)[^44] A megrendelő szerv az általa igényelt alkalmazásfejlesztés ÁAFK-ban történő lebonyolításának Felügyelet általi jóváhagyását a 14. és 15. §-ban foglalt előkészítő eljárás lefolytatását követően, az egyedi alkalmazásfejlesztés ÁAFK-ban történő megindításának jóváhagyására irányuló kérelem Felügyelethez történő benyújtásával kezdeményezi.
 
 (2) Az (1) bekezdés szerint benyújtott kérelemnek tartalmaznia kell:
 
@@ -22,9 +22,9 @@ ba) az általa fejleszteni tervezett funkcionalitású alkalmazás az ÁAK-ban n
 
 bb) az ÁAK-ban elvégzett ellenőrzése során megállapította, hogy létezik az általa kifejleszteni tervezett funkcionalitású alkalmazáshoz hasonló – állami tulajdonban lévő – zárt vagy nyílt forráskódú termék, amelynek továbbfejlesztését, átalakítását tervezi,
 
-c)[^39]
+c)[^45]
 
-d)[^40]
+d)[^46]
 
 e) az 1. melléklet szerinti követelmények tervezett érvényesítésének bemutatását.
 
@@ -38,11 +38,11 @@ b) a hiánypótlás során a megrendelő szerv nem teljesítette a Felügyelet �
 
 c) a hiánypótlásra nyitva álló határidő eredménytelenül telt el.
 
-d)[^41] a megrendelő szerv soron kívüli alkalmazásfejlesztés esetén a Felügyelet által az előzetes támogató tanúsítványban meghatározott határidőn belül nem teljesíti a 14. és a 15. §-ban előírt eljárási és dokumentációs kötelezettségeket.
+d)[^47] a megrendelő szerv soron kívüli alkalmazásfejlesztés esetén a Felügyelet által az előzetes támogató tanúsítványban meghatározott határidőn belül nem teljesíti a 14. és a 15. §-ban előírt eljárási és dokumentációs kötelezettségeket.
 
-(6)[^42] A Felügyelet az alkalmazásfejlesztés megvalósítását támogató tanúsítványban előírhatja, hogy a megrendelő szerv az alkalmazásfejlesztés megvalósítása során az 1. mellékletben foglalt szakmapolitikai alapkövetelmények részletezésére és megvalósítására vonatkozó terveket és leírásokat nyújtsa be a Felügyeletnek.
+(6)[^48] A Felügyelet az alkalmazásfejlesztés megvalósítását támogató tanúsítványban előírhatja, hogy a megrendelő szerv az alkalmazásfejlesztés megvalósítása során az 1. mellékletben foglalt szakmapolitikai alapkövetelmények részletezésére és megvalósítására vonatkozó terveket és leírásokat nyújtsa be a Felügyeletnek.
 
-(7)[^43] A Felügyelet az alkalmazásfejlesztés megvalósítását támogató tanúsítványban felmentést adhat az alkalmazásfejlesztés végrehajtása szakaszban a termék minőségbiztosítás egészének vagy egyes részeinek elvégzése alól, különösen, ha
+(7)[^49] A Felügyelet az alkalmazásfejlesztés megvalósítását támogató tanúsítványban felmentést adhat az alkalmazásfejlesztés végrehajtása szakaszban a termék minőségbiztosítás egészének vagy egyes részeinek elvégzése alól, különösen, ha
 
 a) az alkalmazás a központi termék minőségbiztosító által nem támogatott technológiával készült,
 
@@ -50,9 +50,9 @@ b) az alkalmazás harmadik fél által szállított keretrendszerrel generált k
 
 c) az alkalmazás sürgős továbbfejlesztését (különösen eseti kormánydöntés vagy kritikus működési kényszer) a minőségbiztosítás elvégzésének időtartama akadályozná.
 
-[^38]: A 16. § (1) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^39]: A 16. § (3) bekezdés c) pontját a 476/2021. (VIII. 9.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^40]: A 16. § (3) bekezdés d) pontját a 476/2021. (VIII. 9.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
-[^41]: A 16. § (5) bekezdés d) pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (22) bekezdése iktatta be.
-[^42]: A 16. § (6) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (23) bekezdése iktatta be.
-[^43]: A 16. § (7) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (23) bekezdése iktatta be.
+[^44]: A 16. § (1) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^45]: A 16. § (3) bekezdés c) pontját a 476/2021. (VIII. 9.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^46]: A 16. § (3) bekezdés d) pontját a 476/2021. (VIII. 9.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^47]: A 16. § (5) bekezdés d) pontját a 476/2021. (VIII. 9.) Korm. rendelet 1. § (22) bekezdése iktatta be.
+[^48]: A 16. § (6) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (23) bekezdése iktatta be.
+[^49]: A 16. § (7) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (23) bekezdése iktatta be.

@@ -12,11 +12,11 @@ b) alkalmazás-továbbfejlesztése esetén, ha a továbbfejlesztendő alkalmazá
 
 (4) A Felügyelet az alkalmazásfejlesztés megvalósítását támogató tanúsítványban rendelkezik a (3) bekezdés szerinti felmentésről.
 
-(4a)[^21] Ha álláspontja kialakításához szükséges, a Felügyelet szakmai vélemény kibocsátását kérheti bármely központi szolgáltatótól, amelyet a megkeresés beérkezésétől számított 10 munkanapon belül kell teljesíteni.
+(4a)[^25] Ha álláspontja kialakításához szükséges, a Felügyelet szakmai vélemény kibocsátását kérheti bármely központi szolgáltatótól, amelyet a megkeresés beérkezésétől számított 10 munkanapon belül kell teljesíteni.
 
-(5)[^22]
+(5)[^26]
 
-(6)[^23]
+(6)[^27]
 
 (7) A Felügyelet a (3) bekezdés szerinti döntését a kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg. A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 8 napon belül a Nemzetbiztonsági Kabinetnél, amely a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg döntését.
 
@@ -26,6 +26,6 @@ a) a végrehajtandó alkalmazásfejlesztést érintő támogatási szerződést 
 
 b) az alkalmazásfejlesztési feladat végrehajtása érdekében a fejlesztő szervezet kiválasztására irányuló közbeszerzési felhívást az ÁAFK kötelező igénybevétele tekintetében a megrendelő szervre meghatározott alkalmazási időpontot megelőzően közzétette.
 
-[^21]: Az 5. § (4a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^22]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^23]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^25]: Az 5. § (4a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^26]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^27]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.

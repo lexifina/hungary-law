@@ -1,8 +1,8 @@
 ## 12. A soron kívüli alkalmazásfejlesztésekre vonatkozó speciális szabályok
 
-20. § (1)[^50] Soron kívüli alkalmazásfejlesztés során a 16. § (1) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az ilyen alkalmazásfejlesztés a 14. és 15. §-ban előírtak előzetes lefolytatása nélkül, a soron kívüli alkalmazásfejlesztési igény Felügyelethez történő, indoklással kiegészített bejelentése után a Felügyeletnek a soron kívüliség fennállása tudomásul vételét tartalmazó előzetes támogató tanúsítványa kiadását követően megkezdhető. A Felügyelet a soron kívüliség fennállásának tudomásul vételén alapuló előzetes támogató tanúsítványt a bejelentés megfelelő tartalommal történő benyújtását követő 5 napon belül bocsátja ki a megrendelő szerv részére.
+20. § (1)[^56] Soron kívüli alkalmazásfejlesztés során a 16. § (1) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az ilyen alkalmazásfejlesztés a 14. és 15. §-ban előírtak előzetes lefolytatása nélkül, a soron kívüli alkalmazásfejlesztési igény Felügyelethez történő, indoklással kiegészített bejelentése után a Felügyeletnek a soron kívüliség fennállása tudomásul vételét tartalmazó előzetes támogató tanúsítványa kiadását követően megkezdhető. A Felügyelet a soron kívüliség fennállásának tudomásul vételén alapuló előzetes támogató tanúsítványt a bejelentés megfelelő tartalommal történő benyújtását követő 5 napon belül bocsátja ki a megrendelő szerv részére.
 
-(2)[^51] A megrendelő szerv soron kívüli alkalmazásfejlesztés esetén a 14. és 15. §-ban előírt eljárási és dokumentációs kötelezettségeket a Felügyelet által az előzetes támogató tanúsítványban meghatározott határidőn belül, utólagos eljárásban (a továbbiakban: utólagos eljárás) pótolja. A 18. és 19. §-ban foglaltakat a soron kívüli alkalmazásfejlesztések során alkalmazni kell.
+(2)[^57] A megrendelő szerv soron kívüli alkalmazásfejlesztés esetén a 14. és 15. §-ban előírt eljárási és dokumentációs kötelezettségeket a Felügyelet által az előzetes támogató tanúsítványban meghatározott határidőn belül, utólagos eljárásban (a továbbiakban: utólagos eljárás) pótolja. A 18. és 19. §-ban foglaltakat a soron kívüli alkalmazásfejlesztések során alkalmazni kell.
 
 (3) A Felügyelet a (2) bekezdés szerinti utólagos eljárásban a 16. § (4) bekezdésében foglaltak szerint jár el.
 
@@ -14,5 +14,5 @@
 
 (7) Ha a (6) bekezdésben foglalt vizsgálat alapján az elkészült alkalmazás továbbfejlesztésével sem biztosítható az alkalmazás felhasználhatósága, a megrendelő szerv az e §-ban foglalt szabályok szerint kezdeményezheti azonos tárgyban alkalmazásfejlesztés megindítását a Felügyeletnél.
 
-[^50]: A 20. § (1) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^51]: A 20. § (2) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^56]: A 20. § (1) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^57]: A 20. § (2) bekezdése a 476/2021. (VIII. 9.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
