@@ -1,4 +1,6 @@
-7. §[^10] (1) A miniszter a szervezet felett felügyeleti, irányítási vagy tulajdonosi jogokat gyakorló miniszter egyetértésével rendeletben állapítja meg azon költségvetési szervek és 100%-os állami tulajdonban levő gazdasági társaságok körét, amelyek esetében a központi szolgáltató kötelező igénybevétele egyedi szolgáltatási megállapodás útján történik. Az egyedi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét az e bekezdés alapján kötelezett szerv biztosítja.
+## 6/A. §[^12] Ha jogszabály eltérően nem rendelkezik, a központi szolgáltató a jogszabályban kijelölt szolgáltatásait a miniszterrel kötött közszolgáltatási szerződés alapján látja el.
+
+7. §[^13] (1) A miniszter a szervezet felett felügyeleti, irányítási vagy tulajdonosi jogokat gyakorló miniszter egyetértésével rendeletben állapítja meg azon költségvetési szervek és 100%-os állami tulajdonban levő gazdasági társaságok körét, amelyek esetében a központi szolgáltató kötelező igénybevétele egyedi szolgáltatási megállapodás útján történik. Az egyedi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét az e bekezdés alapján kötelezett szerv biztosítja.
 
 (2) A központi szolgáltató jogosult csökkentett szintű szolgáltatást nyújtani az (1) bekezdés szerinti egyedi szolgáltatási megállapodással kötelezett szerv részére, ha
 
@@ -10,4 +12,5 @@ b) az (1) bekezdés szerinti egyedi szolgáltatási megállapodásban megállap�
 
 (4) A (3) bekezdésben foglaltak sérelme esetén a kötelezett szerv kezdeményezésére a miniszter – szükség esetén a minimális szolgáltatási szint meghatározásával – utasíthatja a központi szolgáltatót a (2) bekezdés szerinti csökkentett szintű szolgáltatásnak a (3) bekezdés szerinti nyújtására.
 
-[^10]: A 7. § a 300/2012. (X. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^12]: A 6/A. §-t a 717/2021. (XII. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^13]: A 7. § a 300/2012. (X. 26.) Korm. rendelet 11. §-ával megállapított szöveg.

@@ -6,7 +6,7 @@
 
 ## 1.1. Asztali és hordozható munkaállomás biztosítása
 
-## 1.2. Alap irodai alkalmazások biztosítása (levelezés és irodai munkákhoz kapcsolódó dobozos alkalmazások)
+## 1.2.[^28] Alap irodai alkalmazások biztosítása, ideértve a levelezés és irodai munkához kapcsolódó dobozos alkalmazásokat, valamint a nyílt forráskódú szoftvereket is
 
 ## 1.3. Felhasználó – munkával kapcsolatos – anyagainak tárolásához központi tárterület biztosítása
 
@@ -48,7 +48,7 @@
 
 ## 2.9. Központi tárolóhely, nyomtatási várakozási sorok és központi levelezési szolgáltatások üzemeltetése
 
-## 2.10.[^25] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
+## 2.10.[^29] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
 
 ## 2.11. Egyéb alapvető informatikai és elektronikus hírközlő eszköz üzemeltetése, karbantartása
 
@@ -134,9 +134,9 @@
 
 ## 3. Egyedileg igényelt perifériákkal való ellátás (szkenner, nyomtató) raktári készletből
 
-## 4.[^26] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
+## 4.[^30] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^27]
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^31]
 
 ## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
@@ -158,19 +158,20 @@
 
 9. Pénzügyminisztérium
 
-10.[^28] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
+10.[^32] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
 
 a) Nemzeti Hírközlési és Informatikai Tanács
 
 11. Közbeszerzési és Ellátási Főigazgatóság
 
-12.[^29] Mádl Ferenc Összehasonlító Jogi Intézet
+12.[^33] Mádl Ferenc Összehasonlító Jogi Intézet
 
-13.[^30] Társadalmi Esélyteremtési Főigazgatóság
+13.[^34] Társadalmi Esélyteremtési Főigazgatóság
 
-[^25]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^26]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
-[^27]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^28]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^29]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
-[^30]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^28]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^29]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^31]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^32]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^33]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
+[^34]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.

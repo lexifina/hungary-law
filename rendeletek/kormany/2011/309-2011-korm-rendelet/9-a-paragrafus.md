@@ -1,6 +1,6 @@
-## 9. §[^12]
+## 9. §[^15]
 
-9/A. §[^13] (1) A központi szolgáltató az e rendelet szerinti közszolgáltatási szerződésben és egyedi szolgáltatási megállapodásban, valamint a 2/A. § alapján kötött üzemeltetési vagy fejlesztési tárgyú megállapodásban (a továbbiakban együtt: közszolgáltatási megállapodás) meghatározott közszolgáltatások teljesítése esetén, annak ellentételezéseként, a központosított közszolgáltatások nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben vagy más jogszabályban meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költségeinek (a továbbiakban: nettó költség), az állam javára jogszabály alapján fizetendő pénzbeli kötelezettségek (a továbbiakban: adók) összegének, valamint az e rendeletben meghatározott mértékű észszerű nyereség megtérítésére tarthat igényt.
+9/A. §[^16] (1) A központi szolgáltató az e rendelet szerinti közszolgáltatási szerződésben és egyedi szolgáltatási megállapodásban, valamint a 2/A. § alapján kötött üzemeltetési vagy fejlesztési tárgyú megállapodásban (a továbbiakban együtt: közszolgáltatási megállapodás) meghatározott közszolgáltatások teljesítése esetén, annak ellentételezéseként, a központosított közszolgáltatások nyújtásával összefüggésben felmerült, objektív módon igazolható, az e rendeletben vagy más jogszabályban meghatározott szabályok szerint elszámolható, nettó módon számított közvetlen és közvetett költségeinek (a továbbiakban: nettó költség), az állam javára jogszabály alapján fizetendő pénzbeli kötelezettségek (a továbbiakban: adók) összegének, valamint az e rendeletben meghatározott mértékű észszerű nyereség megtérítésére tarthat igényt.
 
 (2) A központi szolgáltató észszerű nyereséget a (4) bekezdésben foglalt mértékben számolhat el
 
@@ -26,5 +26,5 @@ c) azokban a fejlesztési tárgyú közszolgáltatási szerződésekben vagy üz
 
 (7) Az e §-ban foglaltak teljesüléséről a közszolgáltatási szerződések vonatkozásában a miniszter, az egyedi szolgáltatási megállapodások vonatkozásában a 2. mellékletben meghatározott költségvetési szerv, a 2/A. § alapján kötött üzemeltetési vagy fejlesztési tárgyú egyedi szolgáltatási megállapodás vonatkozásában az informatikai rendszer működtetéséért felelős szervezet gondoskodik.
 
-[^12]: A 9. §-t a 81/2019. (IV. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^13]: A 9/A. §-t a 300/2012. (X. 26.) Korm. rendelet 12. §-a iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^15]: A 9. §-t a 81/2019. (IV. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^16]: A 9/A. §-t a 300/2012. (X. 26.) Korm. rendelet 12. §-a iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
