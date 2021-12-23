@@ -50,21 +50,21 @@ A kiserőművi összevont engedély iránti kérelemhez benyújtandó dokumentum
 
 3. A telephely adatai,
 
-4.[^502] Az erőmű élettartamának időtartamára szóló független szaktanácsadó által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
+4.[^503] Az erőmű élettartamának időtartamára szóló független szaktanácsadó által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
 
-5.[^503] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
+5.[^504] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
 
 6. Az üzembe helyezés várható időpontja,
 
 7. Kereskedelmi üzem kezdetének tervezett időpontja,
 
-8.[^504] Annak igazolása, hogy
+8.[^505] Annak igazolása, hogy
 
 8.1. a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges környezetvédelmi és építési engedéllyel vagy
 
 8.2. a tevékenység környezetvédelmi engedélyhez nem kötött.
 
-9.[^505] Műszaki adatok:
+9.[^506] Műszaki adatok:
 
 9.1. Egyvonalas villamos kapcsolási rajz,
 
@@ -82,7 +82,7 @@ A kiserőművi összevont engedély iránti kérelemhez benyújtandó dokumentum
 
 9.8. a légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
 
-[^502]: A Vhr. 4. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
-[^503]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^504]: A Vhr. 4. számú melléklet 8. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^505]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^503]: A Vhr. 4. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
+[^504]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^505]: A Vhr. 4. számú melléklet 8. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^506]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.

@@ -470,7 +470,9 @@
 
 ## 18. Elszámolás szerződés nélküli fogyasztás esetén
 
-## 18.1. Aki hálózathasználati szerződés vagy villamosenergia-vásárlási szerződés nélkül a hálózati engedélyes hálózatára csatlakozik, és onnan villamos energiát használ fel, köteles megfizetni a hálózati engedélyesnek a felhasznált villamos energia árát a hálózati engedélyes adott évre közzétett, hálózati veszteség beszerzési átlagárán. Ezen túlmenően a rendszerhasználó a jogosulatlan rendszerhasználatért köteles a rendszerhasználati díj 120%-át megfizetni. A hálózati engedélyes a szerződés nélküli hálózathasználatot a közcélú hálózaton történő beavatkozással megszüntetheti.
+## 18.1.[^502] Aki hálózathasználati szerződés vagy villamosenergia-vásárlási szerződés nélkül a hálózati engedélyes hálózatára csatlakozik, és onnan villamos energiát vételez, a vételezett villamos energia árát az adott hónapra vonatkozó átlagos HUPX másnapi órás piaci ár 110%-án, de legalább a hálózati engedélyes adott évre közzétett, hálózati veszteség beszerzési átlagárán fizeti meg a hálózati engedélyesnek, és ezen túlmenően a rendszerhasználó a rendszerhasználatért a rendszerhasználati díjat is megfizeti.
+
+## Az ármegállapítás részletszabályait az elosztói szabályzat tartalmazza. A hálózati engedélyes a szerződés nélküli hálózathasználatot a közcélú hálózaton történő beavatkozással megszüntetheti.
 
 ## 18.2. Szerződés nélküli rendszerhasználat esetében a felhasznált villamosenergia-mennyiséget a hálózati engedélyes hálózatához való csatlakozást biztosító eszköz átvivő-képessége (keresztmetszete) alapján becsléssel kell megállapítani akként, hogy a becsült felhasznált villamosenergia-mennyiség legmagasabb értéke nem haladhatja meg az évi 1200 óra felhasználási időre vonatkozó értéket.
 
@@ -598,3 +600,4 @@
 [^499]: A Vhr. 2. számú melléklet 14.6. pontja a 119/2013. (IV. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^500]: A Vhr. 2. számú melléklet 14.7. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^501]: A Vhr. 2. számú melléklet 17.7. pontja a 440/2016. (XII. 16.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^502]: A Vhr. 2. számú melléklet 18.1. pontja a 755/2021. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
