@@ -1,1 +1,0 @@
-## „(7) Az eljárás során az információk és dokumentumok elektronikus úton is továbbíthatóak, ide nem értve az 1. § (2) bekezdése szerinti kérelmet és az 1. § (4) bekezdése szerinti mellékleteket, valamint a 2. § (2) bekezdése szerinti hiánypótlási felhívást és hiánypótlást.”
