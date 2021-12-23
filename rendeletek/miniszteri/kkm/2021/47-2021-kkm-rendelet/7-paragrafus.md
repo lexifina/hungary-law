@@ -1,0 +1,1 @@
+## „i) a támogatás felhasználására legkésőbb a beruházás megkezdésétől vagy legkésőbb a támogatási szerződés megkötésétől számított 36 hónapon belül kerüljön sor, kivéve, ha a szakmai támogató szerv a támogatási szerződés megkötését követően, a beruházó kérelmére ettől eltérően dönt.”
