@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-346-20-
 | 2019-04-26 | 2010-346-20-22.29 | 81/2019. (IV. 18.) Korm. rendelet |
 | 2019-07-01 | 2010-346-20-22.30 | 188/2016. (VII. 13.) Korm. rendelet |
 | 2021-02-20 | 2010-346-20-22.31 | 188/2016. (VII. 13.) Korm. rendelet |
+| 2021-12-23 | 2010-346-20-22.32 | 85/2017. (IV. 10.) Korm. rendelet |

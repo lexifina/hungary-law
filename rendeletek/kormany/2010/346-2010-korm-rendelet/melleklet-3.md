@@ -80,6 +80,8 @@ I. Központi finanszírozásúak
 
 | 8.6. Országos Kórházi Főigazgatóság, Nemzeti Népegészségügyi Központ | X |
 
+| 8.7. Az Országos Mentőszolgálattal együttműködő, az egészségügyért felelős miniszter által kijelölt intézmények | X |
+
 | 9. Országos Vízügyi Főigazgatóság /Vízügyi VPN/ | X | 9.1. Országos Vízügyi Főigazgatóság |  |
 
 | 9.2. Vízügyi igazgatóságok, valamint a nemzeti park igazgatóságok | X |
@@ -120,7 +122,9 @@ II. Egyedi finanszírozásúak
 
 | 2.2. Létfontosságú rendszerelemmé kijelölt eszköz, létesítmény vagy rendszer rendszerelemének tulajdonosa, engedélyese, rendelkezésre jogosultja, vagy ilyen rendszerelem napi működéséért felelős jogi személy, vagy jogi személyiség nélküli szervezet, valamint felső küszöb értékű veszélyes anyagokkal foglalkozó üzemek. | X |
 
+| 3. Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság (Paks II. Zrt.-VPN) | X | 3.1. Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság |  |
+
 [^143]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^144]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^145]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^146]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^146]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a, a 717/2021. (XII. 20.) Korm. rendelet 6. § (1)–(2) bekezdése szerint módosított szöveg.

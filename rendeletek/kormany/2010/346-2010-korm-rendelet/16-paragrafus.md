@@ -18,7 +18,7 @@ b) a diszpécserek tekintetében a kormányzati célú hírközlési szolgáltat
 
 (8) A felhasználóval munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban nem álló, az EDR-szolgáltatást eseti jelleggel, 60 napot meg nem haladóan igénybe vevő végfelhasználók esetén a 3. mellékletben szereplő felhasználók eltekinthetnek a vizsgatételi kötelezettségtől, azzal, hogy a felhasználó köteles meggyőződni arról, hogy a végfelhasználó képes a rendszer szakszerű és biztonságos használatára.
 
-(9)[^84] A 3. melléklet II. táblázat 1. pontja szerinti felhasználó a (8) bekezdésben foglaltakon túlmenően az olyan, a felhasználó számára karbantartási tevékenység végzésére irányuló szerződéses jogviszonyban álló vállalkozó és alkalmazottja végfelhasználó esetében is eltekinthet a vizsgatételi kötelezettségtől, aki az EDR szolgáltatást eseti jelleggel, 120 napot meg nem haladóan veszi igénybe, feltéve, hogy a felhasználó meggyőződött arról, hogy a végfelhasználó képes a rendszer szakszerű és biztonságos használatára.
+(9)[^84] A 3. melléklet II. táblázat 1. és 3. pontjában meghatározott felhasználó a (8) bekezdésben foglaltakon túlmenően az olyan, a felhasználó számára karbantartási tevékenység végzésére irányuló szerződéses jogviszonyban álló vállalkozó és alkalmazottja végfelhasználó esetében is eltekinthet a vizsgatételi kötelezettségtől, aki az EDR szolgáltatást eseti jelleggel, 120 napot meg nem haladóan veszi igénybe, feltéve, hogy a felhasználó meggyőződött arról, hogy a végfelhasználó képes a rendszer szakszerű és biztonságos használatára.
 
 [^83]: A 16. § a 188/2016. (VII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^84]: A 16. § (9) bekezdését a 85/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be.
+[^84]: A 16. § (9) bekezdését a 85/2017. (IV. 10.) Korm. rendelet 2. §-a iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

@@ -8,10 +8,10 @@
 
 (5) A felhasználók az EDR útján elérhető szolgáltatásokat saját alrendszereik önálló irányítása mellett elkülönülten vagy szükség esetén együttműködve, a VPN Központi Menedzser Szervezet közreműködésével veszik igénybe.
 
-(6)[^71] A 3. melléklet II. táblázat 1. pontja szerinti felhasználó – a (2) bekezdésben meghatározott hírközlési igényeken túl – köteles a digitális rádióhálózat útján kielégíthető nukleáris veszélyhelyzet-megelőzési és -elhárítási, illetve üzemi célú elektronikus hírközlési igényeit is a kormányzati célú hírközlési szolgáltatótól igénybe vett EDR szolgáltatás útján kielégíteni.
+(6)[^71] A 3. melléklet II. táblázat 1. és 3. pontja szerinti felhasználó – a (2) bekezdésben meghatározott hírközlési igényeken túl – a kizárólag digitális rádióhálózat útján kielégíthető nukleáris veszélyhelyzet-megelőzési és -elhárítási, továbbá üzemi célú elektronikus hírközlési igényeit a kormányzati célú hírközlési szolgáltatótól igénybe vett EDR szolgáltatás útján elégíti ki.
 
 (7)[^72] A kormányzati célú hírközlési szolgáltató a (6) bekezdésben foglaltak alapján nyújtott nukleáris veszélyhelyzet-megelőzési és -elhárítási, illetve üzemi célú EDR szolgáltatást a külön jogszabályban meghatározott, továbbá a felhasználóra vonatkozóan a nukleáris biztonsági hatóság által előírt nukleáris biztonsági követelményeknek megfelelően köteles teljesíteni.
 
 [^70]: A 12. § a 188/2016. (VII. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^71]: A 12. § (6) bekezdése a 85/2017. (IV. 10.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^71]: A 12. § (6) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^72]: A 12. § (7) bekezdését a 85/2017. (IV. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be.
