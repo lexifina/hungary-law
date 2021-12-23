@@ -16,9 +16,9 @@ a) az edzővel, valamint az edzőhöz kapcsolódó sportolóval szemben jogerős
 
 b) az edző sportolót felkészítő jogosultsága megszűnik.
 
-(6)[^88] A támogatásban részesülő személyekről a miniszter a MOB és a Magyar Edzők Társasága javaslatára való figyelemmel dönt.
+(6)[^90] A támogatásban részesülő személyekről a miniszter a MOB és a Magyar Edzők Társasága javaslatára való figyelemmel dönt.
 
-(7)[^89]
+(7)[^91]
 
-[^88]: Az 50. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^89]: Az 50. § (7) bekezdését a 472/2020. (X. 29.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^90]: Az 50. § (6) bekezdése a 472/2020. (X. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^91]: Az 50. § (7) bekezdését a 472/2020. (X. 29.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.

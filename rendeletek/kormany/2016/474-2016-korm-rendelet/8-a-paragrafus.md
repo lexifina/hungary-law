@@ -6,6 +6,7 @@
 
 (3) A támogatás a 4. § (3)–(6) bekezdése szerint halmozható az egyéb állami támogatással.
 
-(4) A támogatásról támogatási döntés a támogatási program Európai Bizottság általi jóváhagyását követő naptól 2021. december 31-ig hozható.
+(4)[^8] A támogatásról támogatási döntés a támogatási program Európai Bizottság általi jóváhagyását követő naptól 2022. június 30-ig hozható.
 
 [^7]: A 3/A. alcímet (8/A–8/D. §) a 298/2021. (V. 31.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A 8/A. § (4) bekezdése a 723/2021. (XII. 20.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
