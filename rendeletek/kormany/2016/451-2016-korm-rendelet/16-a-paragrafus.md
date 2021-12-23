@@ -1,6 +1,6 @@
 ## 16. § A 12. § (3) bekezdésében foglalt eset kivételével, valamint ha jogszabály eltérően nem rendelkezik, több nyilatkozattevő nyilatkozatát tartalmazó dokumentum akkor tekinthető hitelesnek, ha a 12. és 13. § rendelkezéseinek alkalmazásával azt valamennyi nyilatkozattevő hitelesítette, vagy azt valamennyi nyilatkozattevő tekintetében hitelesítették.
 
-16/A. §[^10] (1) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés h) pontjára figyelemmel a kiállító saját kezű aláírására vagy egyéb biometriai jellemzőjére egyértelműen visszavezethető elektronikus aláírással történő dokumentum hitelesítési szolgáltatás csak olyan informatikai rendszeren és bizalmi szolgáltatáson keresztül nyújtható, amely
+16/A. §[^11] (1) A polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. § (1) bekezdés h) pontjára figyelemmel a kiállító saját kezű aláírására vagy egyéb biometriai jellemzőjére egyértelműen visszavezethető elektronikus aláírással történő dokumentum hitelesítési szolgáltatás csak olyan informatikai rendszeren és bizalmi szolgáltatáson keresztül nyújtható, amely
 
 a) garantálja az aláírandó dokumentum teljes tartalmának hiteles megjelenítését és lehetőséget biztosít az aláíró számára a dokumentum tartalmának hiánytalan megismerésére,
 
@@ -16,4 +16,4 @@ f) biztonságos, üzemeltető szervezete akkreditált független tanúsító sze
 
 (2) Az (1) bekezdésben meghatározott követelményeknek való megfelelést elektronikus aláírási rendszerek, digitális archiválást végző alkalmazások, valamint zárt elektronikus információs rendszerek tanúsítására akkreditált tanúsító szervezet által kiállított tanúsítvánnyal kell igazolni. A tanúsító szervezet által lefolytatott tanúsítási eljárásnak meg kell felelnie a 4. mellékletben foglalt feltételeknek.
 
-[^10]: A 16/A. §-t az 512/2021. (IX. 3.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 16/A. §-t az 512/2021. (IX. 3.) Korm. rendelet 1. §-a iktatta be.

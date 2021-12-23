@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-451-20-
 | 2021-02-01 | 2016-451-20-22.25 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-07-01 | 2016-451-20-22.26 | 176/2019. (VII. 18.) Korm. rendelet |
 | 2021-09-04 | 2016-451-20-22.27 | 512/2021. (IX. 3.) Korm. rendelet |
+| 2021-12-23 | 2016-451-20-22.28 | 717/2021. (XII. 20.) Korm. rendelet |

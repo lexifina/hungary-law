@@ -1,14 +1,4 @@
-|  | A | B |
-
-|  | Elektronikus ügyintézést biztosító szerv megnevezése | Az önhibán kívüli akadályozottság mely ügyek tekintetében áll fenn |
-
-| 1. | Magyar Államkincstár | A 2017. október 31-ig az Országos Nyugdíjbiztosítási Főigazgatóság feladat- és hatáskörébe tartozó ügyek |
-
-| 2. | Emberi Erőforrások Minisztériuma | A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. § (1) bekezdés a)–e) pontjaiban meghatározott támogatással kapcsolatos hatáskörök szerinti ügyek |
-
-| 3. | Látvány-csapatsport országos sportági szakszövetsége | A társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 22/C. § (1) bekezdés a)–e) pontjaiban meghatározott támogatással kapcsolatos hatáskörök szerinti ügyek |
-
-4. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^217]
+4. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^228]
 
 A 16/A. § (2) bekezdése által előírt tanúsítási eljárásnak meg kell felelnie a következő követelményeknek:
 
@@ -44,4 +34,4 @@ A 16/A. § (2) bekezdése által előírt tanúsítási eljárásnak meg kell fe
 
 5.11. üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
 
-[^217]: A 4. mellékletet az 512/2021. (IX. 3.) Korm. rendelet 2. §-a iktatta be.
+[^228]: A 4. mellékletet az 512/2021. (IX. 3.) Korm. rendelet 2. §-a iktatta be.

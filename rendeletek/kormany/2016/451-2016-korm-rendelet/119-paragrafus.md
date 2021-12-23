@@ -1,6 +1,6 @@
 ## Az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről
 
-119. § (1)[^116] Az ügyfél ügyintézési rendelkezésében meghatározhatja azon elektronikus ügyintézést biztosító szervek körét, amelyek nevében a szolgáltató elektronikus úton, egy vagy több meghatározott elektronikus elérhetőségen,
+119. § (1)[^120] Az ügyfél ügyintézési rendelkezésében meghatározhatja azon elektronikus ügyintézést biztosító szervek körét, amelyek nevében a szolgáltató elektronikus úton, egy vagy több meghatározott elektronikus elérhetőségen,
 
 a) a (7) bekezdés szerinti keretek között meghatározott időszakonként összesítve értesítést küld az ügyfelet érintően már lezajlott vagy jövőben várható ügyintézési cselekményekről,
 
@@ -10,9 +10,9 @@ b) az elektronikus ügyintézést biztosító szerv által meghatározott időpo
 
 (2) Az ügyfél az értesítést csak azon elektronikus ügyintézést biztosító szervek tekintetében igényelheti, amelyek a jelen alcímben szabályozott KEÜSZ-höz csatlakoztak.
 
-(3)[^117]
+(3)[^121]
 
-(4)[^118]
+(4)[^122]
 
 (5) Ha törvény eltérően nem rendelkezik, az ügyfél az értesítés keretében igényelheti azt is, hogy a szolgáltató értesítse különösen
 
@@ -36,6 +36,6 @@ b) ahol ismert, ott az esemény azonosítását és adatait is.
 
 (8) A hangkapcsolatot biztosító elektronikus úton lefolytatott eljárási cselekmények tényét az ügyfél elektronikus ügyintézési cselekményekre vonatkozó időszaki értesítése az ügyfél ilyen irányú kérése esetén tartalmazza.
 
-[^116]: A 119. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 99. §-ával megállapított szöveg.
-[^117]: A 119. § (3) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 105. § f) pontja hatályon kívül helyezte.
-[^118]: A 119. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 105. § f) pontja hatályon kívül helyezte.
+[^120]: A 119. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 99. §-ával megállapított szöveg.
+[^121]: A 119. § (3) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 105. § f) pontja hatályon kívül helyezte.
+[^122]: A 119. § (4) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 105. § f) pontja hatályon kívül helyezte.

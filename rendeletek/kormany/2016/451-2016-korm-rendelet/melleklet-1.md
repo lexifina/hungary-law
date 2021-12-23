@@ -1,3 +1,3 @@
-1. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^214]
+1. melléklet a 451/2016. (XII. 19.) Korm. rendelethez[^225]
 
-[^214]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.
+[^225]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 11. § (11) bekezdésével megállapított szöveg.

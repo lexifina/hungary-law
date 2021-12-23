@@ -1,37 +1,37 @@
 85. § (1) A hivatali tárhely használója, azon keresztül valamely szervezet nevében tevékenységet végző
 
-a)[^56] a Kormány által biztosított elektronikus azonosítási szolgáltatással (a továbbiakban: KASZ) rendelkező és annak segítségével magát azonosító természetes személy,
+a)[^60] a Kormány által biztosított elektronikus azonosítási szolgáltatással (a továbbiakban: KASZ) rendelkező és annak segítségével magát azonosító természetes személy,
 
-b)[^57] az együttműködő szervnek a hivatali tárhelyhez csatlakozott regisztrált programja, informatikai rendszere vagy
+b)[^61] az együttműködő szervnek a hivatali tárhelyhez csatlakozott regisztrált programja, informatikai rendszere vagy
 
-c)[^58] jogszabályban erre alkalmasnak megjelölt, az együttműködő szerv jogosultságkezelő rendszerével azonosított, a jogosultságkezelő rendszerrel erre feljogosított természetes személy
+c)[^62] jogszabályban erre alkalmasnak megjelölt, az együttműködő szerv jogosultságkezelő rendszerével azonosított, a jogosultságkezelő rendszerrel erre feljogosított természetes személy
 
 ## lehet.
 
 (2) A szolgáltató és a szervezet nyilvántartja a hivatali tárhely kezelésére az adott szervezetnél felhatalmazott képviselőt és az adott szervezeten belüli további felhasználókat (a továbbiakban együtt: a szervezet nevében eljárni jogosult személyek). A szervezet esetében a szervezet nevében eljárni jogosult személyek nyilvántartását a szervezet által a hivatali tárhely kezelésére felhatalmazott képviselő végzi.
 
-(3)[^59] A hivatali tárhely igénybevételéhez az együttműködő szervnek csatlakoznia kell a szolgáltató rendszeréhez.
+(3)[^63] A hivatali tárhely igénybevételéhez az együttműködő szervnek csatlakoznia kell a szolgáltató rendszeréhez.
 
 (4) A szolgáltató a hivatali tárhely kezelésére felhatalmazott képviselőkről történeti nyilvántartást vezet, hogy megállapítható legyen, adott időszakban ki volt feljogosítva a hivatali tárhely kezelésére és az adott szervezet nevében eljárni jogosult személyek nyilvántartására.
 
 (5) A hivatali tárhellyel rendelkező szervezetek teljes nevét, rövidített nevét és a hivatali tárhely rendszerben használt azonosítóját a szolgáltató az elektronikus tájékoztatás szabályai szerint közzéteszi.
 
-(6)[^60] A gazdálkodó szervezetnek minősülő együttműködő szerv az általa kijelölt, központi jellegű hivatali tárhelyét az E-ügyintézési tv. 14. §-a szerinti hivatalos elérhetőségként a rendelkezési nyilvántartásba bejelenti.
+(6)[^64] A gazdálkodó szervezetnek minősülő együttműködő szerv az általa kijelölt, központi jellegű hivatali tárhelyét az E-ügyintézési tv. 14. §-a szerinti hivatalos elérhetőségként a rendelkezési nyilvántartásba bejelenti.
 
 (7) Ahol e rendelet a dokumentum megküldését az ügyfél hivatalos elérhetőségére írja elő, ott hivatali tárhellyel rendelkező ügyfél esetén a hivatalos elérhetőség alatt hivatali tárhelyet kell érteni.
 
-(8)[^61] A helyi önkormányzat – választása szerint –
+(8)[^65] A helyi önkormányzat – választása szerint –
 
 a) a képviselő-testület és annak a Magyarország helyi önkormányzatairól szóló törvényben meghatározott szervei esetében egyaránt az önkormányzat saját nevére szóló hivatali tárhelyét használja, vagy
 
 b) az önkormányzati hivatali tárhely használata mellett a képviselő-testület egyes szervei részére jogosult önálló hivatali tárhelyet is használni.
 
-(9)[^62] Ha a helyi önkormányzat – a (8) bekezdés b) pontja alapján – több hivatali tárhellyel rendelkezik, akkor ezek vonatkozásában köteles az ügyfeleket, valamint az együttműködő szerveket arról tájékoztatni, hogy melyik hivatali tárhelyet milyen célra lehet igénybe venni.
+(9)[^66] Ha a helyi önkormányzat – a (8) bekezdés b) pontja alapján – több hivatali tárhellyel rendelkezik, akkor ezek vonatkozásában köteles az ügyfeleket, valamint az együttműködő szerveket arról tájékoztatni, hogy melyik hivatali tárhelyet milyen célra lehet igénybe venni.
 
-[^56]: A 85. § (1) bekezdés a) pontja az 572/2020. (XII. 9.) Korm. rendelet 95. §-ával megállapított szöveg.
-[^57]: A 85. § (1) bekezdés b) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^58]: A 85. § (1) bekezdés c) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^59]: A 85. § (3) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^60]: A 85. § (6) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^61]: A 85. § (8) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
-[^62]: A 85. § (9) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
+[^60]: A 85. § (1) bekezdés a) pontja az 572/2020. (XII. 9.) Korm. rendelet 95. §-ával megállapított szöveg.
+[^61]: A 85. § (1) bekezdés b) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^62]: A 85. § (1) bekezdés c) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^63]: A 85. § (3) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^64]: A 85. § (6) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^65]: A 85. § (8) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
+[^66]: A 85. § (9) bekezdését a 148/2018. (VIII. 13.) Korm. rendelet 4. §-a iktatta be.
