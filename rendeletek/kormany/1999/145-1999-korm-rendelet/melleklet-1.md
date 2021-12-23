@@ -1,6 +1,6 @@
-## 62. §[^130] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 62. §[^131] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet a 145/1999. (X. 1.) Korm. rendelethez[^131]
+1. melléklet a 145/1999. (X. 1.) Korm. rendelethez[^132]
 
 I. A Tv. 25. § (1) bekezdése szerinti szolgáltatásokért a következő tartalmú számlát kell kiállítani:
 
@@ -172,5 +172,5 @@ II. Újratemetésnél a temetéssel megegyező tartalommal kell a számlát kiá
 
 III. A részszolgáltatásokat egyenként és szolgáltatásonként összegezve is meg kell adni.
 
-[^130]: A 62. §-t a 303/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be.
-[^131]: Az 1. mellékletet a 441/2016. (XII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^131]: A 62. §-t a 303/2012. (X. 26.) Korm. rendelet 2. §-a iktatta be.
+[^132]: Az 1. mellékletet a 441/2016. (XII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.

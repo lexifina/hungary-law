@@ -1,4 +1,4 @@
-2. melléklet a 145/1999. (X. 1.) Korm. rendelethez[^132]
+2. melléklet a 145/1999. (X. 1.) Korm. rendelethez[^133]
 
 ## A Tv. 28/B. § (2) bekezdése szerint számlázható egyéb tevékenységek:
 
@@ -34,4 +34,4 @@
 
 11. Temetkezési szolgáltatási tevékenységhez szükséges eszköz vagy ingatlan bérbeadása, bérlése
 
-[^132]: A 2. mellékletet a 441/2016. (XII. 16.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^133]: A 2. mellékletet a 441/2016. (XII. 16.) Korm. rendelet 5. § (2) bekezdése iktatta be.
