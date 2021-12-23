@@ -1,4 +1,4 @@
-102. § (1)[^393] Ha a jármű tulajdonjogának jogszerű megszerzője az átírás kezdeményezésének kötelezettségét annak keletkezésétől számított 15 napon túl, késedelmesen teljesíti, a közlekedési igazgatási hatóság a járművet átírja, a forgalmi engedély, valamint a törzskönyv kiadására intézkedik.
+102. § (1)[^394] Ha a jármű tulajdonjogának jogszerű megszerzője az átírás kezdeményezésének kötelezettségét annak keletkezésétől számított 15 napon túl, késedelmesen teljesíti, a közlekedési igazgatási hatóság a járművet átírja, a forgalmi engedély, valamint a törzskönyv kiadására intézkedik.
 
 (2) Az (1) bekezdésben meghatározott esetben értesíti a mulasztási bírság kiszabása érdekében az adóhatóságot.
 
@@ -8,4 +8,4 @@
 
 (5) A közlekedési igazgatási hatóság hivatalból jár el és vonja ki a járművet a forgalomból, amennyiben saját eljárása során észleli, hogy a nyilvántartásba bejegyzett tulajdonos nem létező személy, vagy a tulajdonos személye nem állapítható meg.
 
-[^393]: A 102. § (1) bekezdése a 60/2017. (III. 20.) Korm. rendelet 20. § d) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 33. pontja szerint módosított szöveg.
+[^394]: A 102. § (1) bekezdése a 60/2017. (III. 20.) Korm. rendelet 20. § d) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 33. pontja szerint módosított szöveg.

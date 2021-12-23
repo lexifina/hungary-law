@@ -1,8 +1,8 @@
-## 120/E. §[^478] Az automatikus okmánykiállítási eljárás szabályait a 2021. január 31. napját követően bekövetkezett házasságkötések, továbbá ezt követően kiállított egészségi alkalmassági igazolások, elsősegélynyújtási ismereteket vagy mentességet igazoló igazolások, vizsgaigazolások, valamint ezt követően megtett, 19. melléklet szerinti nyilatkozatok esetén kell alkalmazni.
+## 120/E. §[^480] Az automatikus okmánykiállítási eljárás szabályait a 2021. január 31. napját követően bekövetkezett házasságkötések, továbbá ezt követően kiállított egészségi alkalmassági igazolások, elsősegélynyújtási ismereteket vagy mentességet igazoló igazolások, vizsgaigazolások, valamint ezt követően megtett, 19. melléklet szerinti nyilatkozatok esetén kell alkalmazni.
 
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^479] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^481] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
@@ -14,14 +14,14 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv,
 
-f)[^480] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
+f)[^482] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2015. április 24-i 2015/653/EU bizottsági irányelv 1. cikke,
 
-g)[^481] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
+g)[^483] az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképzéséről és továbbképzéséről szóló 2003/59/EK irányelv és a vezetői engedélyekről szóló 2006/126/EK irányelv módosításáról szóló, 2018. április 18-i (EU) 2018/645 európai parlamenti és tanácsi irányelv 2. cikke.
 
-h)[^482] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv 1. cikke.
+h)[^484] a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2020. május 4-i (EU) 2020/612 bizottsági irányelv 1. cikke.
 
-[^478]: A 120/E. §-t a 375/2021. (VI. 30.) Korm. rendelet 14. § (19) bekezdése iktatta be.
-[^479]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^480]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
-[^481]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^482]: A 121. § h) pontját a 722/2020. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
+[^480]: A 120/E. §-t a 375/2021. (VI. 30.) Korm. rendelet 14. § (19) bekezdése iktatta be.
+[^481]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^482]: A 121. § f) pontját a 467/2015. (XII. 29.) Korm. rendelet 27. §-a iktatta be.
+[^483]: A 121. § g) pontját a 265/2020. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^484]: A 121. § h) pontját a 722/2020. (XII. 31.) Korm. rendelet 29. §-a iktatta be.

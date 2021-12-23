@@ -1,4 +1,4 @@
-56. § (1)[^247] A regisztrációs matrica utángyártása a közlekedési igazgatási hatóság engedélyével lehetséges. Az engedély kiadása, továbbá az igazgatási szolgáltatási díj ügyfél által történő megfizetése után a Nyilvántartó gondoskodik a regisztrációs matrica gyártótól való megrendeléséről.
+56. § (1)[^247] A regisztrációs matrica utángyártása a közlekedési igazgatási hatóság engedélyével lehetséges. Az engedély kiadása, továbbá az igazgatási szolgáltatási díj ügyfél által történő megfizetése után a NISZ Zrt. gondoskodik a regisztrációs matrica gyártótól való megrendeléséről.
 
 (2) Az elveszett, eltulajdonított és a (3) bekezdésben meghatározottak kivételével a megrongálódott regisztrációs matrica utángyártása nem engedélyezhető. A járművet ebben az esetben át kell rendszámozni.
 
@@ -18,4 +18,7 @@ b) az egyénileg kiválasztott és egyedileg előállított rendszámtábla jogo
 
 c) a 60. § (2) bekezdés a) és b) pontjában, valamint a 62. §-ban meghatározott különleges rendszámtábla jogosítottja a rendszámtáblát más gépjárműre kívánja felszerelni.
 
-[^247]: Az 56. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.
+d)[^248] a jogosult nyilatkozatot tesz az egyénileg kiválasztott, vagy egyedileg előállított rendszámtáblához kiadott regisztrációs matrica elvesztéséről, eltulajdonításáról, megsemmisüléséről vagy megrongálódásáról.
+
+[^247]: Az 56. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja, a 717/2021.(XII. 20.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^248]: Az 56. § (7) bekezdés d) pontját a 717/2021.(XII. 20.) Korm. rendelet 11. § (1) bekezdése iktatta be.

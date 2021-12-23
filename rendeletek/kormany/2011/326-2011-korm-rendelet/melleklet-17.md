@@ -44,15 +44,13 @@
 
 ## 17. A törzskönyv nyomdai sorszámának vonalkódja
 
-## B.[^514]
+## B.[^516]
 
 ## A 2009. július 1-jét követően kiadásra kerülő törzskönyv tartalmi elemei
 
 ## Első oldal
 
-## H
-
-## JÁRMŰTÖRZSKÖNYV
+## JÁRMŰ TÖRZSKÖNYV
 
 ## 1. Sorszám
 
@@ -68,17 +66,17 @@
 
 ## Második oldal
 
-## 7. Kiállítás helye, kelte
+## 7. Tulajdonosi adatok (természetes személynél: név, születési hely és idő, anyja neve; nem természetes személynél: a gazdálkodó szervezet megnevezése, cégjegyzék- vagy nyilvántartási száma)
 
-## 8. Kiállító hatóság
+## 8. Hivatalos feljegyzések
 
-## 9. Tulajdonosi adatok (természetes személynél: név, születési hely és idő, anyja neve; nem természetes személynél: a gazdálkodó szervezet megnevezése, a cégjegyzék- vagy nyilvántartási száma)
+## 9. Kiállítás helye, kelte
 
-## 10. Hivatalos feljegyzések
+## 10. Kiállító hatóság
 
-## 11. A törzskönyv nyomdai sorszámának vonalkódja
+## 11. A törzskönyv nyomdai sorszámának vonalkódja.
 
-17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^515]
+17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^517]
 
 A.
 
@@ -386,7 +384,7 @@ Nyeregterhelés (3)
 
 3: szekvenciális
 
-– regisztrációs matrica rendszámot tartalmazó vonalkódja – Eurotax kód
+– A jármű rendszámát tartalmazó vonalkód – Eurotax kód
 
 A forgalmi engedély második oldalán (Az irányelvben külön nem nevesített adatok)
 
@@ -404,5 +402,5 @@ időszakos vagy forgalomba helyezés előtti vizsgálat azonosítója
 
 – A harmonizált közösségi kódok magyarázata
 
-[^514]: A 16. melléklet B. része az 572/2020. (XII. 9.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
-[^515]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a, a 375/2021. (VI. 30.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^516]: A 16. melléklet B. része a 717/2021.(XII. 20.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^517]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a, a 375/2021. (VI. 30.) Korm. rendelet 15. §-a, a 717/2021. (XII. 20.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
