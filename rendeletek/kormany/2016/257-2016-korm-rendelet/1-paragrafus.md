@@ -14,7 +14,9 @@
 
 5.[^4] központi szolgáltató: a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.), a KOPINT-DATORG Informatikai és Vagyonkezelő Kft. (a továbbiakban: KOPINT-DATORG Kft.), valamint az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.);
 
-6.[^5] önkormányzati ASP rendszer: az önkormányzati feladatellátást támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást (Application Service Provider, ASP) nyújtó elektronikus információs rendszer;
+5a.[^5] minimumkövetelmények: az önkormányzati ASP rendszer szakrendszereinek használatához szükséges felhasználói (önkormányzati) munkaállomásokkal szembeni minimális elvárások;
+
+6.[^6] önkormányzati ASP rendszer: az önkormányzati feladatellátást támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást (Application Service Provider, ASP) nyújtó elektronikus információs rendszer;
 
 7. rendszertámogatás: a fejlesztési időszakot követő hibajavítás, verziófrissítés, jogszabálykövetés;
 
@@ -26,4 +28,5 @@
 [^2]: Az 1. § 3. pontja a 75/2019. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 3a. pontját a 179/2018. (X. 2.) Korm. rendelet 3. §-a iktatta be.
 [^4]: Az 1. § 5. pontja a 680/2020. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § 6. pontja a 75/2019. (IV. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 5a. pontját a 717/2021. (XII. 20.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^6]: Az 1. § 6. pontja a 75/2019. (IV. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

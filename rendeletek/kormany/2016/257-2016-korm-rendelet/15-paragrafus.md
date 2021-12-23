@@ -1,3 +1,3 @@
-## 14/A. §[^46]
+## 14/A. §[^50]
 
-[^46]: A 14/A. §-t a 100/2017. (IV. 28.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 148/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja.
+[^50]: A 14/A. §-t a 100/2017. (IV. 28.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 148/2018. (VIII. 13.) Korm. rendelet 3. § b) pontja.
