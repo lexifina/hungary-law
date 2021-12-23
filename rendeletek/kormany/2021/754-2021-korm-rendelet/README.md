@@ -1,0 +1,9 @@
+# 754/2021. (XII. 22.) Korm. rendelet
+
+a veszélyhelyzet idején a villamosenergia-ellátás folyamatos biztosítása érdekében szükséges villamosenergia-termelő kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-754-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2021-12-23 | 2021-754-20-22.1 | 754/2021. (XII. 22.) Korm. rendelet |
