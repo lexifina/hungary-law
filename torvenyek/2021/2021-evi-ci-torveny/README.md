@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-101-00-00
 | 2021-12-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-101-00-00.21 |
 | 2021-12-02 | 2010. évi CXXX. törvény | 2021-101-00-00.22 |
 | 2021-12-22 | 2021. évi CXVIII. törvény | 2021-101-00-00.23 |
+| 2021-12-23 | 2021. évi CXLVIII. törvény | 2021-101-00-00.24 |
