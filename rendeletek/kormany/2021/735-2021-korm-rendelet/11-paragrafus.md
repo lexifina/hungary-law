@@ -1,5 +1,7 @@
-## 10. § Az R2. 7. § (1) bekezdés 15. pontjában a „határokra tekintet nélkül” szövegrész helyébe a „határokra, szabályozási vonalakra tekintet nélkül” szöveg lép.
+## 10. §[^11]
 
 ## 5. Záró rendelkezések
 
 11. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 8. § A Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet (a továbbiakban: R2.) 2. §-a a következő (3) bekezdéssel egészül ki:
+## 8. §[^9]
 
-## „(3) A Kormány az 1. melléklet 21. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Megyei Kormányhivatalt jelöli ki.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
