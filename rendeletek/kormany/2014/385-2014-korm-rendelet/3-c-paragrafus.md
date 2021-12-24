@@ -1,4 +1,4 @@
-3/C. §[^14] (1) A Hivatal megvizsgálja, hogy a közszolgáltató és – kizárólag a hulladék átvételére, gyűjtésére vagy előkezelésére, kezelésére irányuló tevékenységet végző – közszolgáltatói alvállalkozó működése és hulladékgazdálkodási közszolgáltatással kapcsolatos tevékenysége megfelel-e az OHKT előírásainak, a hulladékgazdálkodási közszolgáltatás alkalmas-e az OHKT-ban foglalt célok elérésére, a jogszabályi követelmények teljesítésére.
+3/C. §[^14] (1)[^15] A Hivatal megvizsgálja, hogy a közszolgáltató és – kizárólag a hulladék átvételére, gyűjtésére vagy előkezelésére irányuló tevékenységet végző – közszolgáltatói alvállalkozó működése és hulladékgazdálkodási közszolgáltatással kapcsolatos tevékenysége megfelel-e az OHKT előírásainak, a hulladékgazdálkodási közszolgáltatás alkalmas-e az OHKT-ban foglalt célok elérésére, a jogszabályi követelmények teljesítésére.
 
 (2) A közszolgáltató és a közszolgáltatói alvállalkozó a megfelelőségi véleményről szóló határozat (a továbbiakban: megfelelőségi vélemény) kiállítása iránti kérelmet a Hivatal által biztosított jognyilatkozatok megtételére szolgáló interaktív alkalmazás vagy formanyomtatvány útján terjeszti elő.
 
@@ -16,7 +16,7 @@ bc) – a (4) és (11) bekezdésben foglalt esetben – a gyűjtési vagy hullad
 
 c) az igazgatási szolgáltatási díj átutalásának igazolását.
 
-(3a)[^15] A közszolgáltatói alvállalkozónak a (3) bekezdés szerinti kérelemhez nem kell mellékelni a (3) bekezdés b) pont ba) alpontjában meghatározott Kommunikációs Tervet és a (3) bekezdés b) pont bb) alpontjában meghatározott Hulladékgazdálkodási Tervet.
+(3a)[^16] A közszolgáltatói alvállalkozónak a (3) bekezdés szerinti kérelemhez nem kell mellékelni a (3) bekezdés b) pont ba) alpontjában meghatározott Kommunikációs Tervet és a (3) bekezdés b) pont bb) alpontjában meghatározott Hulladékgazdálkodási Tervet.
 
 (4) A (3) bekezdés b) pont bc) alpontjában meghatározott tervet a közszolgáltató és a közszolgáltatói alvállalkozó – az OHKT-t meghatározó miniszteri rendeletben foglalt esetben – a megfelelőségi vélemény kiadására irányuló kérelem benyújtásával egyidejűleg, egyébként a Hivatal (11) bekezdés szerinti felhívásában foglaltak szerint nyújtja be. A (3) bekezdés b) pont bc) alpontjában meghatározott terv célérték elérését biztosító intézkedéseinek megfelelőségét a Hivatal a megfelelőségi vélemény kiállítására irányuló eljárásban bírálja el.
 
@@ -47,4 +47,5 @@ c) az igazgatási szolgáltatási díj átutalásának igazolását.
 (17) A megfelelőségi vélemény visszavonásáról az ellátásért felelőst és a Koordináló szervet – annak véglegessé válása napján – a Hivatal értesíti.
 
 [^14]: A 3/C. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^15]: A 3/C. § (3a) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^15]: A 3/C. § (1) bekezdése a 768/2021. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^16]: A 3/C. § (3a) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
