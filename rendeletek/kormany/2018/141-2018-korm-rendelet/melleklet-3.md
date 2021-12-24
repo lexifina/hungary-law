@@ -24,7 +24,7 @@
 
 | 10 | Ipartelep technológiai bővítéséhez szükséges villamos energia hálózatfejlesztési beruházás | Tiszaújváros közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 2125/6, 2125/7, 2125/8, 2125/9, 2125/10, 2125/11, 2129, 2130, 2133, 2134, 2136, 2137, 3338 és 3353, valamint külterület 0143, 0144/2 és 0145/1 helyrajzi számú ingatlanok | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 11 | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás megvalósítása Budapest IX. kerületben | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38021/34 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 11 |  |  |  |
 
 | 12 | Telephely fejlesztésére, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás Budapesten | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 42544/14 és 42544/29 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
