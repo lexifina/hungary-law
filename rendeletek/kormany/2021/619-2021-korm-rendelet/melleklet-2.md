@@ -6,6 +6,8 @@
 
 | 2. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti belterület 25896/2 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Ingatlanfejlesztésre irányuló beruházás Budapest XIII. kerületében | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25896/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
+| 3. | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38021/37 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38021/37 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormány- megbízott |
+
 2. melléklet a 619/2021. (XI. 8.) Korm. rendelethez
 
 ## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
