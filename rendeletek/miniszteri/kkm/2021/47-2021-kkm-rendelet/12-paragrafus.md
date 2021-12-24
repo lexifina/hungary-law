@@ -1,11 +1,3 @@
-## lép.
+## 11. §[^12]
 
-## 12. § Hatályát veszti a Rendelet
-
-a) 8. § (1) bekezdés 11. pontja,
-
-b) 12. § (3) bekezdése,
-
-c) 16. § (1) bekezdés a) pontja,
-
-d) 23. § (3) bekezdése.
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

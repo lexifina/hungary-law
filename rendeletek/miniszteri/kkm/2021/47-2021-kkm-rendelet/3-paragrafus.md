@@ -1,3 +1,3 @@
-## 2. § A Rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 2. §[^3]
 
-## „(1) A KNTP szakmai támogató szerveként – a Magyarország által támogatott határon túli gazdaságfejlesztési stratégiák (a továbbiakban: gazdaságfejlesztési stratégiák) célkitűzéseihez illeszkedő és a gazdaságfejlesztési stratégiák célterületeihez tartozó területen megvalósuló beruházásokat magába foglaló projektek kivételével – a HEPA illetékes.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

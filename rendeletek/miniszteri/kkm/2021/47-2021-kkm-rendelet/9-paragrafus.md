@@ -1,3 +1,3 @@
-## „(8) Az e rendeletben nem szabályozott, jogszabályi szintű szabályozást nem igénylő technikai részkérdéseket az e rendeletben foglaltakat figyelembe véve a HEPA honlapján közzétett tájékoztatók tartalmazzák.
+## 8. §[^9]
 
-## (9) A támogatásra vonatkozó közérdekű adatoknak a jogszabályi előírásoknak megfelelő nyilvánosságra hozataláról – ideértve különösen az információs önrendelkezési jogról és az információszabadságról szóló törvény szerinti, a támogatási szerződésnek az üzleti titok és a személyes adatok tiszteletben tartásával történő hozzáférhetővé tételére vonatkozó kötelezettséget – a támogató gondoskodik.”
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

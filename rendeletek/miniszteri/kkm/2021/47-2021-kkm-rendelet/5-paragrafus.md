@@ -1,1 +1,3 @@
-## „(4) A beruházás az Eximbank Zrt. által meghatározott 1–5-ös országkockázati besorolású vagy olyan 6-os országkockázati besorolású államban valósítható meg, amelyre magyar külképviselet akkreditációja kiterjed. 7-es országkockázati besorolású, valamint olyan 6-os országkockázati besorolású államban, amelyre magyar külképviselet akkreditációja nem terjed ki, a beruházás kizárólag kivételes esetben, a Külgazdasági és Külügyminisztérium hozzájárulásával valósítható meg.”
+## 4. §[^5]
+
+[^5]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
