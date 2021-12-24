@@ -40,6 +40,12 @@
 
 ## 3.5. Elektromos üzemű gépjárművek töltésére szolgáló berendezések
 
+## 3.6.[^143] Tűzoltó és egyéb katasztrófavédelmi járművek és azok javításához, szervizeléséhez, karbantartásához kapcsolódó szolgáltatások
+
+## 3.7.[^144] Megkülönböztető jelzést használó közúti személygépjárművek, a haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló 156/2017. (VI. 16.) Korm. rendelet 1. melléklet VI. Fejezetébe sorolható szárazföldi járművek és részegységeik kivételével.
+
+## 3.8.[^145] Elektromos üzemű gépjárművek
+
 ## 4. Gépjármű-üzemanyagok
 
 ## 4.1. Gépjármű-üzemanyag tankautós kiszállítással (nagykereskedelem)
@@ -50,11 +56,13 @@
 
 ## 5.1. Nemzetközi utazásszervezések
 
+## 5.2.[^146] Külföldi Nyelvtanulási Program utazásszervezései
+
 ## 6. Elektronikus közbeszerzési szolgáltatások
 
 ## 6.1. Elektronikus árlejtés szolgáltatás
 
-## 7.[^135] Egészségügyi termékek
+## 7.[^147] Egészségügyi termékek
 
 ## 7.1. Orvostechnikai eszközök és az ezekhez kapcsolódó szolgáltatások
 
@@ -94,7 +102,7 @@
 
 ## 7.3.16. Tisztító hatású eszköz- és felületfertőtlenítő szerek
 
-## 8.[^136] Létesítménygazdálkodással kapcsolatos szolgáltatások fekvőbeteg szakellátást nyújtó egészségügyi intézmények részére
+## 8.[^148] Létesítménygazdálkodással kapcsolatos szolgáltatások fekvőbeteg szakellátást nyújtó egészségügyi intézmények részére
 
 ## 8.1. Fekvőbeteg szakellátást nyújtó egészségügyi intézmények őrzés-védelmére irányuló szolgáltatás
 
@@ -108,11 +116,15 @@
 
 ## 10. Közbiztonsági térfigyelő kamerák és kapcsolódó szolgáltatások önként csatlakozó önkormányzatok részére
 
-## 11.[^137] Járulékos közbeszerzési szolgáltatás, beleértve a felelős akkreditált közbeszerzési szaktanácsadói tevékenység ellátására irányuló szolgáltatást
+## 11.[^149]
 
-2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^138]
+2. számú melléklet a 168/2004. (V. 25.) Korm. rendelethez[^150]
 
-[^135]: Az 1. melléklet 7. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^136]: Az 1. melléklet 8. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^137]: Az 1. melléklet 11. pontja a 41/2021. (II. 2.) Korm. rendelet 1. melléklete alapján beiktatott szöveg.
-[^138]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
+[^143]: Az 1. számú melléklet 3. pont 3.6. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^144]: Az 1. számú melléklet 3. pont 3.7. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^145]: Az 1. számú melléklet 3. pont 3.8. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^146]: Az 1. számú melléklet 5. pont 5.2. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
+[^147]: Az 1. melléklet 7. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^148]: Az 1. melléklet 8. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^149]: Az 1. melléklet 11. pontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^150]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.
