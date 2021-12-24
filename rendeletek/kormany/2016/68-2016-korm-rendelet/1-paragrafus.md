@@ -1,7 +1,11 @@
-1. § (1) Az önkormányzatok, a közszolgáltatók, továbbá az 1. mellékletben meghatározott szervezetek az Országos Hulladékgazdálkodási Közszolgáltatási Terv (a továbbiakban: OHKT) előkészítéséhez szükséges adatokat és információkat az állami hulladékgazdálkodási közfeladat ellátásra létrehozott szervezet (a továbbiakban: Koordináló szerv) részére a megkeresésétől számított 60 napon belül, elektronikus formátumban, díjmentesen rendelkezésre bocsátják.
+1. § (1)[^1] Az önkormányzatok, a közszolgáltatók, továbbá az 1. mellékletben meghatározott szervezetek az Országos Hulladékgazdálkodási Közszolgáltatási Terv (a továbbiakban: OHKT) előkészítéséhez szükséges adatokat és információkat a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter), az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv), valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére a megkereséstől számított 60 napon belül, elektronikus formátumban, díjmentesen rendelkezésre bocsátják.
 
-(2) A Koordináló szerv az előkészített OHKT-javaslatot az (1) bekezdésben meghatározott szervezetek, helyi önkormányzatok és hatóságok számára közzéteszi azzal a felhívással, hogy észrevételüket, véleményüket, javaslatukat a közzétételtől számított 30 napon belül küldhetik meg.
+(2)[^2]
 
-(3) A Koordináló szerv a beérkezett észrevételeket, véleményeket és javaslatokat a hulladékról szóló 2012. évi CLXXXV. törvényben (a továbbiakban: Ht.) és az Országos Hulladékgazdálkodási Tervben megfogalmazott hulladékgazdálkodási célok figyelembevételével az OHKT-ban szükség szerint átvezeti.
+(3)[^3]
 
 (4) Az OHKT szerkezeti felépítését és tartalmi elemeit a 2. melléklet tartalmazza.
+
+[^1]: Az 1. § (1) bekezdése a 768/2021. (XII. 23.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (2) bekezdését a 768/2021. (XII. 23.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdését a 768/2021. (XII. 23.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.

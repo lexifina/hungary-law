@@ -4,13 +4,13 @@
 
 ## Az Országos Hulladékgazdálkodási Közszolgáltatási Terv előkészítésében érintett szervezetek
 
-Az OHKT előkészítése során a Koordináló szerv bevonhatja:
+Az OHKT előkészítése során a miniszter, a Koordináló szerv, valamint a Hivatal bevonhatja:[^6]
 
 1. a hulladékgazdálkodási közszolgáltatás minősítéssel kapcsolatos szakkérdések vonatkozásában a feladatkörrel rendelkező hatóságot,
 
 2. a vízügyre vonatkozó szakkérdések vonatkozásában a területileg illetékes vízügyi hatóságot és a működési területével érintett vízügyi igazgatóságot,
 
-3.[^3] az árképzéssel, energetikával és a megfelelőségi véleményezéssel kapcsolatos szakkérdések vonatkozásában a Magyar Energetikai és Közmű-szabályozási Hivatalt,
+3.[^7] az árképzéssel, energetikával és a megfelelőségi véleményezéssel kapcsolatos szakkérdések vonatkozásában a Hivatalt,
 
 4. az útügyi, vasúti és hajózási szakkérdések vonatkozásában a feladatkörrel rendelkező hatóságot,
 
@@ -46,4 +46,5 @@ h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a k�
 
 i) a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányászati szakkérdések vonatkozásában.
 
-[^3]: Az 1. melléklet 3. pontja a 312/2021. (VI. 7.) Korm. rendelet 18. § (2) bekezdése szerint módosított szöveg.
+[^6]: Az 1. melléklet nyitó szövegrésze a 768/2021. (XII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet 3. pontja a 312/2021. (VI. 7.) Korm. rendelet 18. § (2) bekezdése, a 768/2021. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
