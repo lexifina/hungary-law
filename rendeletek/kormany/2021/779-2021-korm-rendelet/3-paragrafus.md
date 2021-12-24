@@ -1,0 +1,9 @@
+## 2. § Az R. a következő 47. §-sal egészül ki:
+
+## „47. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 779/2021. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr39.) módosított 1. § (2a)–(4) és (7) bekezdését, 3. § (3) és (4) bekezdését, 6/D., 6/E., 7/F. §-át, 2. mellékletében foglalt táblázat 63., 64. és 65. sorát, valamint 3. mellékletében foglalt táblázat 8. és 9. sorát a Módr39. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+
+## 3. § Az R.
+
+a) 2. melléklete az 1. melléklet szerint,
+
+b) 3. melléklete a 2. melléklet szerint
