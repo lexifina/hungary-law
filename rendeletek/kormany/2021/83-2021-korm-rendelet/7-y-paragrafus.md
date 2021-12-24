@@ -1,4 +1,4 @@
-7/Y. §[^45] (1) A 2. mellékletben foglalt táblázat 53. sora szerinti beruházással érintett ingatlanon művelődési, kereskedelmi, szolgáltató-, oktatási, igazgatási és egyéb közösségi szórakoztatóépület, irodaépület, kutatás-fejlesztés építménye, sportépítmény, valamint parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei helyezhetők el a (2) bekezdés szerinti sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/Y. §[^47] (1) A 2. mellékletben foglalt táblázat 53. sora szerinti beruházással érintett ingatlanon művelődési, kereskedelmi, szolgáltató-, oktatási, igazgatási és egyéb közösségi szórakoztatóépület, irodaépület, kutatás-fejlesztés építménye, sportépítmény, valamint parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei helyezhetők el a (2) bekezdés szerinti sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -10,4 +10,4 @@ a) a zöldfelület e rendelkezés hatálybalépésekor fennálló mértéke a be
 
 b) az építmények és önálló rendeltetési egységek rendeltetésszerű használatához gépjármű- és autóbuszparkoló- és -várakozóhelyet nem kell biztosítani.
 
-[^45]: A 7/Y. §-t az 582/2021. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^47]: A 7/Y. §-t az 582/2021. (X. 12.) Korm. rendelet 1. §-a iktatta be.

@@ -1,3 +1,3 @@
-## 7/Q. §[^36] A Kormány a 2. mellékletben foglalt táblázat 9. sora szerinti beruházás tekintetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a honvédelemért felelős minisztert jelöli ki.
+## 7/Q. §[^38] A Kormány a 2. mellékletben foglalt táblázat 9. sora szerinti beruházás tekintetében az 1. melléklet 1. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a honvédelemért felelős minisztert jelöli ki.
 
-[^36]: A 7/Q. §-t a 426/2021. (VII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^38]: A 7/Q. §-t a 426/2021. (VII. 15.) Korm. rendelet 1. §-a iktatta be.

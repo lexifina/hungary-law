@@ -126,6 +126,12 @@
 
 | 62. | A Budapesti Honvéd Sportegyesület létesítményfejlesztési programja („Honvéd Város Fejlesztési Program”) keretében a) meglévő sportlétesítmények és kiszolgáló épületek felújítása és korszerűsítése, b) új sportlétesítmények és sportinfrastruktúra létesítése, sporthotel és kollégium, sportóvoda, kapcsolódó kiszolgáló létesítmények építése, c) a telephelyek infrastruktúrájának fejlesztése. | Budapest XIII. kerület, belterület 27913/1, 27950/6 és 27999 helyrajzi számú ingatlanok Budapest III. kerület, belterület 23796/29 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^123]
+| 63. | Református iskola építése Biatorbágyon | Biatorbágy külterület 0313/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^123]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+| 64. | Református iskola építése Szigetszentmiklóson | Szigetszentmiklós belterület 5601/2, 5601/3, 5604/4, 5604/5, 5604/6, 5604/7, 5604/8, 5604/9, 5604/10, 5605/1, 5605/2, 5615, 5616, 5617/2, 5617/3, 5618/2, 5619/3, 5620/14, 5620/15, 5620/21, 5620/22, 5921, 5924, 5925, 5926, 5927 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+
+| 65. | Új konferenciaközpont építésére irányuló beruházás | Hajdúszoboszló belterület 3529 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^127]
+
+[^127]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

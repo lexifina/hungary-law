@@ -8,28 +8,28 @@ b)[^1] a Beruházásokhoz közvetlenül kapcsolódó útépítési, létesítmé
 
 c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
 
-(2a)[^2] Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket is, amelyek a (2) bekezdés b) pontjában foglaltakra vonatkoznak, és a 2. mellékletben foglalt táblázat 22., 23. és 56. sora szerinti beruházással érintett ingatlanokkal szomszédos ingatlanokat is érintik.
+(2a)[^2] Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket is, amelyek a (2) bekezdés b) pontjában foglaltakra vonatkoznak, és a 2. mellékletben foglalt táblázat 22., 23., 56., 63. és 64. sora szerinti beruházással érintett ingatlanokkal szomszédos ingatlanokat is érintik.
 
-(3)[^3] A Kormány kiemelten közérdekű beruházássá nyilvánítja a 2. mellékletben foglalt táblázat 3., 7., 10., 12., 13., 19., 20., 22., 23., 24., 43., 45–50., 52., 53–56., 58., 59. és 60. sora szerinti beruházást.
+(3)[^3] A Kormány kiemelten közérdekű beruházássá nyilvánítja a 2. mellékletben foglalt táblázat 3., 7., 10., 12., 13., 19., 20., 22., 23., 24., 43., 45–50., 52., 53–56., 58., 59., 60., 63. és 64. sora szerinti beruházást.
 
-(4)[^4] A 2. mellékletben foglalt táblázat 3., 10., 19., 24. és 56. sora szerinti beruházás tekintetében az építési tevékenységgel érintett ingatlanok közvetlen környezetét és az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.
+(4)[^4] A 2. mellékletben foglalt táblázat 3., 10., 19., 24., 56., 63. és 64. sora szerinti beruházás tekintetében az építési tevékenységgel érintett ingatlanok közvetlen környezetét és az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.
 
 (5)[^5] A 2. melléklet 12., 13. és 19. sora szerinti beruházások megvalósításának helyszíne és azok közvetlen környezete tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (2) bekezdése szerinti, a fás szárú növények védelmére vonatkozó önkormányzati előírások helyett a fás szárú növények védelméről szóló 346/2008. (XII. 30.) Korm. rendelet 6–8. §-át kell megfelelően alkalmazni, azzal, hogy amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, a kivágással érintett ingatlanok vagyonkezelője vagyonkezelésében álló, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
 
 (6)[^6] A 2. mellékletben foglalt táblázat 22. és 23. sora szerinti beruházások tekintetében a beruházások építési műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
 
-(7)[^7] A 2. melléklet 11. és 46. pontja szerinti ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telekalakítás és annak ingatlan-nyilvántartásban történő átvezetése még nem történt meg.
+(7)[^7] A 2. melléklet 11., 46., 63. és 64. pontja szerinti ingatlanok telkét rendezettnek kell tekinteni abban az esetben is, ha a telekalakítás és annak ingatlan-nyilvántartásban történő átvezetése még nem történt meg.
 
 (8)[^8] A 2. mellékletben foglalt táblázat 3. és 24. sora szerinti beruházás időtartama alatt a beruházás helyszínéül szolgáló ingatlanok vagyonkezelője által a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
 
 (9)[^9] A 2. melléklet 57. sora szerinti beruházás tekintetében a beruházás építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
 
 [^1]: Az 1. § (2) bekezdés b) pontja az 591/2021. (X. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § (2a) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege az 591/2021. (X. 20.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 458/2021. (VIII. 3.) Korm. rendelet 3. § a) pontja, az 525/2021. (IX. 8.) Korm. rendelet 9. § a) pontja, az 546/2021. (IX. 24.) Korm. rendelet 4. § a) pontja, az 566/2021. (X. 4.) Korm. rendelet 3. § a) pontja, az 583/2021. (X. 12.) Korm. rendelet 4. § a) pontja, az 587/2021. (X. 14.) Korm. rendelet 4. § a) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § c) pontja, a 622/2021. (XI. 9.) Korm. rendelet 4. § a) pontja, a 680/2021. (XII. 3.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (4) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, az 566/2021. (X. 4.) Korm. rendelet 3. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2a) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege az 591/2021. (X. 20.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 458/2021. (VIII. 3.) Korm. rendelet 3. § a) pontja, az 525/2021. (IX. 8.) Korm. rendelet 9. § a) pontja, az 546/2021. (IX. 24.) Korm. rendelet 4. § a) pontja, az 566/2021. (X. 4.) Korm. rendelet 3. § a) pontja, az 583/2021. (X. 12.) Korm. rendelet 4. § a) pontja, az 587/2021. (X. 14.) Korm. rendelet 4. § a) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § c) pontja, a 622/2021. (XI. 9.) Korm. rendelet 4. § a) pontja, a 680/2021. (XII. 3.) Korm. rendelet 4. § a) pontja, a 779/2021. (XII. 23.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdése a 411/2021. (VII. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított, az 566/2021. (X. 4.) Korm. rendelet 3. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 3. § d) pontja, a 779/2021. (XII. 23.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^5]: Az 1. § (5) bekezdését a 212/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 383/2021. (VI. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
 [^6]: Az 1. § (6) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (7) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése, az 525/2021. (IX. 8.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. § (7) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése, az 525/2021. (IX. 8.) Korm. rendelet 9. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
 [^8]: Az 1. § (8) bekezdését a 411/2021. (VII. 12.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^9]: Az 1. § (9) bekezdését az 595/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be.
