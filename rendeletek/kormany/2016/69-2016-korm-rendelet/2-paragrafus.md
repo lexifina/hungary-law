@@ -8,7 +8,7 @@
 
 2. adatszolgáltatásra kötelezett: a közszolgáltató, az ellátásért felelős, valamint a hulladékgazdálkodási létesítmény tulajdonosa,
 
-3. adat: a Koordináló szerv feladatellátásához szükséges és a Ht. 32/A. § (4) bekezdésében meghatározott információ vagy ismeret,
+3.[^3] adat: a Koordináló szerv feladatellátásához szükséges és a Ht. 32/A. § (4h) bekezdésében meghatározott információ vagy ismeret,
 
 4. adatállomány: egy nyilvántartásban kezelt adatok összessége,
 
@@ -31,3 +31,5 @@
 (4) Ha a határidő utolsó napja munkaszüneti napra esik, a határidő csak az ezt követő legközelebbi munkanapon jár le.
 
 (5) Az e rendeletben meghatározott határidőbe nem számít bele a hiánypótlásra irányuló felhívástól az annak teljesítéséig terjedő idő.
+
+[^3]: A 2. § (1) bekezdés 3. pontja a 768/2021. (XII. 23.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

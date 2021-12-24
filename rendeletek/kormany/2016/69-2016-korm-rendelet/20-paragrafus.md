@@ -8,7 +8,7 @@ a) az ingatlanhasználókat terhelő közszolgáltatási díj mértékét,
 
 b) minden olyan adatot, amely a Koordináló szervnek a közszolgáltatási díj számlázásához szükséges.
 
-(2)[^8] Ha a közszolgáltató az (1) bekezdés szerinti adatszolgáltatási kötelezettségének nem tesz eleget, a Koordináló szerv felhívja ennek teljesítésére. Ha a közszolgáltató a felhívás kézhezvételét követő 15 napon belül nem vagy nem megfelelően teljesíti az abban foglaltakat, a Koordináló szerv a Ht. 32/A. § (7) bekezdésében meghatározottak szerint jár el.
+(2)[^14] Ha a közszolgáltató az (1) bekezdés szerinti adatszolgáltatási kötelezettségének nem tesz eleget, a Koordináló szerv felhívja ennek teljesítésére. Ha a közszolgáltató a felhívás kézhezvételét követő 15 napon belül nem vagy nem megfelelően teljesíti az abban foglaltakat, a Koordináló szerv a Ht. 32/A. § (7) bekezdésében meghatározottak szerint jár el.
 
 (3) A közszolgáltató rendszeres adatszolgáltatási kötelezettsége körében
 
@@ -24,7 +24,7 @@ a) az ingatlanhasználó által bejelentett adatváltozást (beleértve új inga
 
 b) az ideiglenes vagy szükségellátásról szóló döntést másolatban annak kézhezvételét követő 10. napig,
 
-c)[^9] Hivatal a közszolgáltatót érintő határozatát másolatban, annak kézhezvételét követő 10. napig,
+c)[^15] Hivatal a közszolgáltatót érintő határozatát másolatban, annak kézhezvételét követő 10. napig,
 
 d) a közszolgáltató által megkötött vagy módosított közszolgáltatási szerződést valamennyi mellékletével együtt teljes terjedelemben, a megkötés vagy a módosítás közszolgáltató általi aláírását követő 5 napon belül,
 
@@ -34,5 +34,5 @@ megküldi a Koordináló szerv részére.
 
 (5) Ha a Hivatal megtiltja a jogszabálysértő közszolgáltatási díj alkalmazását, a közszolgáltató köteles a Hivatal határozatában foglaltakhoz igazodó adatszolgáltatást adni a Koordináló szervnek.
 
-[^8]: A 20. § (2) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^9]: A 20. § (4) bekezdés c) pontja a 312/2021. (VI. 7.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
+[^14]: A 20. § (2) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^15]: A 20. § (4) bekezdés c) pontja a 312/2021. (VI. 7.) Korm. rendelet 19. § (3) bekezdése szerint módosított szöveg.
