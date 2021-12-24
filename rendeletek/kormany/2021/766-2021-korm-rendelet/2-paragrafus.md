@@ -1,0 +1,1 @@
+## 1. § A Kormány az (EU) 2021/887 európai parlamenti és tanácsi rendelet szerinti, a kiberbiztonsági kompetenciaközösség számára kapcsolattartási pontként szolgáló nemzeti koordinációs központ feladatainak ellátására a belügyminisztert jelöli ki.
