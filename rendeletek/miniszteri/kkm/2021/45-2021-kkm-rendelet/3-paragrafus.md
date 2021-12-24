@@ -1,3 +1,5 @@
-## 2. § A KKM rendelet 9. § f) pontjában a „2021. december 31-ig” szövegrész helyébe a „2022. április 30-ig” szöveg lép.
+## 1–2. §[^2]
 
 3. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
