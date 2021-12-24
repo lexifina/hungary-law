@@ -1,3 +1,3 @@
-70. §[^4]
+70. §[^5]
 
-[^4]: A 70. § a 61. § (2) bekezdése alapján 2022. január 29-én lép hatályba.
+[^5]: A 70. § a 61. § (2) bekezdése alapján 2022. január 29-én lép hatályba.
