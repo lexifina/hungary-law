@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 9. §-sal egészül ki:
+
+## „9. § E rendeletnek a rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet módosításáról szóló 777/2021. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §-át, 2. § (1)–(3) bekezdését, 3. § (1) és (2) bekezdését, 4. § (1), (1a) és (2) bekezdését, 5. § (1)–(2) bekezdését, valamint 1. mellékletében foglalt táblázat 3. sorát a Módr. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
