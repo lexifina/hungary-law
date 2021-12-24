@@ -2,7 +2,7 @@
 
 25. § (1) Eljárási költségek a birtokvédelmi eljárásban:
 
-a) az eljárási illeték,
+a)[^15]
 
 b) a tolmács, valamint jelnyelvi tolmács közreműködési költsége,
 
@@ -19,3 +19,5 @@ f) jogszabályban meghatározott, az a)–e) pont alá nem tartozó eljárási k
 a) a kérelem elutasítása esetén a birtokvédelmet kérőt,
 
 b) birtoksértést megállapító döntés esetén a birtoksértőt.
+
+[^15]: A 25. § (1) bekezdés a) pontját a 764/2021. (XII. 23.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.

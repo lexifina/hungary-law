@@ -1,6 +1,6 @@
 ## 4. Az eljárási határidő, a határidő számítása
 
-8. § (1) Az eljárási határidő az illeték lerovásával együtt benyújtott kérelem jegyzőhöz történő megérkezését, vagy a kérelem benyújtását követően megfizetett illeték lerovásának igazolását követő napon kezdődik. A birtokvédelmi eljárást a jegyző – a (2) bekezdésben meghatározott kivétellel – tizenöt napon belül folytatja le.
+8. § (1)[^5] Az eljárási határidő a benyújtott kérelem jegyzőhöz történő megérkezését követő napon kezdődik. A birtokvédelmi eljárást a jegyző – a (2) bekezdésben foglalt kivétellel – tizenöt napon belül folytatja le.
 
 (2) A birtokvédelmi eljárást a jegyző harminc napon belül folytatja le, ha az eljárás során tolmács kirendelése válik szükségessé.
 
@@ -13,3 +13,5 @@ b) a 3. § (1) bekezdésében foglalt jegyzői megkeresés kézbesítésétől a
 (4) Kijelölés esetén a kijelölt jegyző vonatkozásában az eljárási határidő a kijelölő határozat átvételét követő napon újrakezdődik.
 
 (5) Ha a határidő utolsó napja olyan nap, amelyen a jegyző által vezetett polgármesteri hivatalnál vagy közös önkormányzati hivatalnál a munka szünetel, a határidő a következő munkanapon jár le.
+
+[^5]: A 8. § (1) bekezdése a 764/2021. (XII. 23.) Korm. rendelet 24. §-ával megállapított szöveg.
