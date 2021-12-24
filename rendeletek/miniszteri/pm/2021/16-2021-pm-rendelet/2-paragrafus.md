@@ -1,0 +1,1 @@
+## 1. § A pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 22/2020. (XII. 30.) PM rendelet (a továbbiakban: Rendelet) 9. melléklete az 1. melléklet szerint módosul.
