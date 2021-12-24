@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-250-20-
 | 2018-01-01 | 2004-250-20-22.15 | 393/2017. (XII. 13.) Korm. rendelet |
 | 2020-03-01 | 2004-250-20-22.16 | 11/2008. (I. 26.) Korm. rendelet |
 | 2021-03-11 | 2004-250-20-22.17 | 116/2021. (III. 10.) Korm. rendelet |
+| 2021-12-24 | 2004-250-20-22.18 | 764/2021. (XII. 23.) Korm. rendelet |

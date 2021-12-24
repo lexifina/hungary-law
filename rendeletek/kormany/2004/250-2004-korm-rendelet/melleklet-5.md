@@ -14,7 +14,7 @@
 
 ## ....................................................................... P. H.
 
-5. melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^77]
+5. melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^81]
 
 ## önálló bírósági végrehajtó
 
@@ -68,4 +68,4 @@ ____________________
 
 1 A megfelelő aláhúzandó.
 
-[^77]: Az 5. mellékletet a 480/2017. (XII. 28.) Korm. rendelet 5. § b) pontja iktatta be.
+[^81]: Az 5. mellékletet a 480/2017. (XII. 28.) Korm. rendelet 5. § b) pontja iktatta be.

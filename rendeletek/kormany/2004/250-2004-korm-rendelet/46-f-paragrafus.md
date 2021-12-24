@@ -1,4 +1,4 @@
-## VII. Fejezet[^65]
+## VII. Fejezet[^69]
 
 ## A Vht. 183/B. §-a szerinti helyiségbérleti szerződés megszűnését eredményező nyilatkozat kézbesítése
 
@@ -16,7 +16,7 @@ c) olyan fényképet, amelyből az ingatlan-nyilvántartási térképen a helyis
 
 (4) A címzett részére a szerződés megszűnését eredményező nyilatkozat mellékleteként a (3) bekezdés b) és c) pontjaiban meghatározott okiratokat is át kell adni.
 
-(5)[^66] A végrehajtó a kérelmező által kézbesíteni kívánt iratra a következő szövegű záradékot vezeti: „a .....................közjegyző által ..................... szám alatt kiállított közjegyzői okiratról készített, azzal megegyező tartalmú másolat.”; és feltünteti a záradékon a másolat készítésének dátumát, továbbá ellátja azt aláírásával és körbélyegzőjének lenyomatával is.
+(5)[^70] A végrehajtó a kérelmező által kézbesíteni kívánt iratra a következő szövegű záradékot vezeti: „a .....................közjegyző által ..................... szám alatt kiállított közjegyzői okiratról készített, azzal megegyező tartalmú másolat.”; és feltünteti a záradékon a másolat készítésének dátumát, továbbá ellátja azt aláírásával és körbélyegzőjének lenyomatával is.
 
-[^65]: A VII. Fejezetet (46/F. §) a 68/2014. (III. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^66]: A 46/F. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (6) bekezdés c) pontja szerint módosított szöveg.
+[^69]: A VII. Fejezetet (46/F. §) a 68/2014. (III. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^70]: A 46/F. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (6) bekezdés c) pontja szerint módosított szöveg.

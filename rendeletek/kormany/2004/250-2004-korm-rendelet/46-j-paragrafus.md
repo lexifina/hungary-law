@@ -1,4 +1,4 @@
-## VII/B. Fejezet[^68]
+## VII/B. Fejezet[^72]
 
 ## KÜLFÖLDI IRAT KÉZBESÍTÉSE
 
@@ -14,4 +14,4 @@ b) címzett: az a természetes vagy jogi személy, jogi személyiséggel nem ren
 
 (3) A címzett a külföldi irat átvételét a 4. melléklet szerinti átvételi igazolás aláírásával ismeri el.
 
-[^68]: A VII/B. fejezetet (46/J–46/O. §) a 480/2017. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^72]: A VII/B. fejezetet (46/J–46/O. §) a 480/2017. (XII. 28.) Korm. rendelet 3. §-a iktatta be.

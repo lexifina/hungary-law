@@ -6,6 +6,8 @@
 
 14. § (1) A végrehajtó a bírósági határozatban a természetes személy címzett címeként feltüntetett címen – a címzett előzetes értesítése nélkül – megjelenve tájékoztatja a címzettet arról, hogy mint kézbesítési végrehajtó jár el és az átvétel igazolása mellett személyesen átadja részére a bírósági iratot.
 
+(1a)[^38] Ha a díjjegyzék kézbesítése a fizetésre kötelezett természetes személy címzettnek a díjjegyzéken feltüntetett címen eredménytelen volt, és az értesítésben meghatározott határidőn belül sem vette át a címzett a díjjegyzéket, a díjjegyzéket kézbesíteni kell a természetes személy címzett jogi képviselője részére, ha a díjjegyzéken a természetes személy címzettnek van feltüntetve jogi képviselője. Ha a jogi képviselő jogi személy, akkor a 15. § (1) bekezdése szerinti vezetőjének, képviselőjének vagy alkalmazottjának kell átadni a díjjegyzéket.
+
 (2) A végrehajtó az (1) bekezdésben foglalt tájékoztatás megadásán és a bírósági irat átadásán kívül a bírósági határozat rendelkező részét és a bírósági iratra a 9. § szerint rávezetett tájékoztatást is felolvassa a címzettnek, ha a címzett
 
 a) vak, súlyosan látássérült, írástudatlan vagy a latin betűket nem ismeri,
@@ -19,3 +21,5 @@ c) vonatkozásában a végrehajtó egyéb olyan körülményt észlel, amely ala
 (4) A bírósági irat átvételének tekintendő az is, ha a végrehajtó a bírósági iratot fizikailag nem tudja a címzett kezébe adni, de a címzett jelenlétében és az (1) bekezdés szerinti tájékoztatás megadása mellett a lakásban, a tartózkodásául szolgáló egyéb ingatlanban hagyja azt.
 
 (5) Átvettnek tekintendő a bírósági irat akkor is, ha annak átvételét a címzett megtagadja, illetve, ha a címzett az átadás, vagy a (2) bekezdés szerinti tájékoztatás megadása közben a kézbesítés helyét elhagyja.
+
+[^38]: A 14. § (1a) bekezdését a 764/2021. (XII. 23.) Korm. rendelet 4. §-a iktatta be.

@@ -2,6 +2,6 @@
 
 (2) Ha a kézbesítés eredménytelen volt, de a kérelmező tudomására jut újabb olyan adat, amely a kézbesítés eredményességét valószínűsíti, a kérelem ismételten – akár több alkalommal is – előterjeszthető a költségek megfizetésével.
 
-(3)[^31]
+(3)[^32]
 
-[^31]: A 7. § (3) bekezdését a 393/2017. (XII. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^32]: A 7. § (3) bekezdését a 393/2017. (XII. 13.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
