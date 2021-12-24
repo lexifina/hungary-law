@@ -1,0 +1,3 @@
+## 5. § Az R2. 15. §-a a következő (3) bekezdéssel egészül ki:
+
+## „(3) Ha a díjjegyzék kézbesítése a fizetésre kötelezett nem természetes személy címzettnek a díjjegyzéken feltüntetett címen eredménytelen volt, és az értesítésben meghatározott határidőn belül sem vette át a címzett a díjjegyzéket, a díjjegyzéket kézbesíteni kell a nem természetes személy címzett jogi képviselője részére, ha a díjjegyzéken a nem természetes személy címzettnek van feltüntetve jogi képviselője. Ha a jogi képviselő jogi személy, akkor az (1) bekezdés szerinti vezetőjének, képviselőjének vagy alkalmazottjának kell átadni a díjjegyzéket.”
