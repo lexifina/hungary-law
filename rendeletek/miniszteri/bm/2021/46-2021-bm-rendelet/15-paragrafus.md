@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti az élet- és vagyonbiztonságot veszélyeztető tömeges megbetegedést okozó humánjárvány megelőzése, illetve következményeinek elhárítása, a magyar állampolgárok egészségének és életének megóvása érdekében elrendelt veszélyhelyzet során a menekültügyi eljárás szabályairól szóló 233/2020. (V. 26.) Korm. rendelet végrehajtásáról szóló 15/2020. (V. 26.) BM rendelet.
+## 14. §[^13]
 
 ## 8. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) A 2. §, a 4. § és a 6. § az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 
 (5) Az 5. § és a 8. § az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napot követő 180. napon lép hatályba.
+
+[^13]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
