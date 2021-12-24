@@ -1,5 +1,3 @@
-## 28. § Hatályát veszti a 314/2018. (XII. 27.) Korm. rendelet
+## 27. §[^82]
 
-a) 4. § (6) bekezdésében az „ , igénybe vehető” szövegrész,
-
-b) 22. § (1) bekezdése.
+[^82]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

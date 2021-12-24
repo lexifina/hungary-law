@@ -1,3 +1,3 @@
-## 31. §[^35]
+## 31. §[^86]
 
-[^35]: A 31. § a 35. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^86]: A 31. § a 35. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.

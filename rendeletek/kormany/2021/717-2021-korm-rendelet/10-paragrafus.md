@@ -1,1 +1,3 @@
-## 9. § Hatályát veszti a 309/2011. (XII. 23.) Korm. rendelet 11. §-a.
+## 9. §[^12]
+
+[^12]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
