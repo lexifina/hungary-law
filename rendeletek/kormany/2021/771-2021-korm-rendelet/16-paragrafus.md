@@ -1,3 +1,5 @@
-## 15. § Hatályát veszti a 250/2014. (X. 2.) Korm. rendelet 3. § (1) bekezdésében a „– külön kormányrendeletben kijelölt –” szövegrész.
+## 12–15. §[^3]
 
 ## 3. Záró rendelkezések
+
+[^3]: A 12–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
