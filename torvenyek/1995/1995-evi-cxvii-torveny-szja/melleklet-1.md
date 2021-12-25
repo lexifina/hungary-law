@@ -686,7 +686,7 @@ az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben kül�
 
 8.32. a villamos energiáról szóló törvényben szabályozott szociális villamosenergia-ellátás keretében – a törvény felhatalmazása alapján kiadott jogszabályban meghatározott körben – nyújtott kedvezmény vagy támogatás, valamint a közüzemi szolgáltató által a közüzemi fogyasztói kör egészét vagy széles körét érintő, közvetlenül vagy közvetve juttatott támogatás (visszatérítés), ideértve a közüzemi díjtartozás elengedését is;
 
-8.33.
+8.33. a kutatási, felsőoktatási tevékenységet végző költségvetési szerv, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány, illetve az általa fenntartott intézmény mint juttató által a juttató kutatással, felsőoktatással kapcsolatos, jogszabályban meghatározott közfeladat-ellátását szolgáló tevékenységével összefüggésben keletkezett kiadványok (könyv, folyóirat, egyéb kiadvány, mozgóképi megjelenítés) juttatása, elektronikus formában vagy elektronikus adathordozón is;
 
 8.34.
 
