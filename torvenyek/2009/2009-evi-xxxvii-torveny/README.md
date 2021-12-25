@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-37-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2009-37-00-00.36 |
 | 2021-06-05 | 2021. évi LX. törvény | 2009-37-00-00.37 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2009-37-00-00.38 |
+| 2021-12-25 | 2021. évi CL. törvény | 2009-37-00-00.39 |
