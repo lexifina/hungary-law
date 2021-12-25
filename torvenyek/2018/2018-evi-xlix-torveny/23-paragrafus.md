@@ -1,3 +1,1 @@
-## 12. Módosító rendelkezések
-
-23. §
+23. § E törvénynek az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 2. mellékletét a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
