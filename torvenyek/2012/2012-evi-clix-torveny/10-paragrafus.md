@@ -22,7 +22,7 @@ b) amennyiben a bejelentő az általános szerződési feltételekben olyan töb
 
 c) bejelentő által alkalmazandó – a postai szolgáltató azonosítására alkalmas – jelzés mintáját;
 
-d) annak a központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám és internet), ahol a felhasználók a szolgáltatásokkal kapcsolatosan érdeklődhetnek, panaszt tehetnek, és ahol kártérítési igényüket bejelenthetik;
+d) annak a központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám, e-mail és internetes honlap), ahol a felhasználók a szolgáltatásokkal kapcsolatosan érdeklődhetnek, panaszt tehetnek, és ahol kártérítési igényüket bejelenthetik;
 
 e) a titkos információgyűjtés folytatására, illetve leplezett eszközök alkalmazására feljogosított szervezetekkel való együttműködés teljesítésére vonatkozó nyilatkozatot;
 

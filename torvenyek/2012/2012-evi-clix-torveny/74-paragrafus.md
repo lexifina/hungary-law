@@ -12,6 +12,6 @@ c) a szolgáltató által alkalmazandó – a postai szolgáltató azonosítás�
 
 d) a szolgáltatás nyújtásának földrajzi (közigazgatási) területét,
 
-e) a szolgáltató által az engedélyben, illetve bejelentésben megjelölt központi ügyfélszolgálatnak az elérhetőségét (cím, telefonszám, e-mail, internet),
+e) a szolgáltató által az engedélyben, illetve bejelentésben megjelölt központi ügyfélszolgálatnak az elérhetőségét (különösen: cím, telefonszám, e-mail és internetes honlap),
 
 f) a jogszabályban meghatározott egyéb adatot.
