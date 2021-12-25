@@ -1,3 +1,3 @@
-## 4. § Az R2. 14. §-a a következő (1a) bekezdéssel egészül ki:
+## 4. §[^6]
 
-## „(1a) Ha a díjjegyzék kézbesítése a fizetésre kötelezett természetes személy címzettnek a díjjegyzéken feltüntetett címen eredménytelen volt, és az értesítésben meghatározott határidőn belül sem vette át a címzett a díjjegyzéket, a díjjegyzéket kézbesíteni kell a természetes személy címzett jogi képviselője részére, ha a díjjegyzéken a természetes személy címzettnek van feltüntetve jogi képviselője. Ha a jogi képviselő jogi személy, akkor a 15. § (1) bekezdése szerinti vezetőjének, képviselőjének vagy alkalmazottjának kell átadni a díjjegyzéket.”
+[^6]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

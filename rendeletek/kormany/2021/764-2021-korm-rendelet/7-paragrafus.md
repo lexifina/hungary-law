@@ -1,3 +1,3 @@
-## 6. §[^3]
+## 6. §[^8]
 
-[^3]: A 6. § a 33. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^8]: A 6. § a 33. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.

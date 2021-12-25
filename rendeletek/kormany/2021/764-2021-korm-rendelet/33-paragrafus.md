@@ -1,4 +1,4 @@
-## 32. § Az R9. 74. § (3) bekezdésében a „határon átnyúló tartási” szövegrész helyébe a „polgári és közigazgatási” szöveg lép.
+## 32. §[^34]
 
 ## 11. Záró rendelkezések
 
@@ -9,3 +9,5 @@
 (3) A 2. § (3) bekezdése és a 6–12. § 2022. július 1-jén lép hatályba.
 
 (4) A 29. § (2) és (3) bekezdése és 31. § 2022. augusztus 1-jén lép hatályba.
+
+[^34]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

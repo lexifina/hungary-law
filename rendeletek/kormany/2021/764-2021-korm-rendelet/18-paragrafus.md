@@ -1,1 +1,3 @@
-## „4. Védett szálláshely: az emberkereskedelem áldozataként azonosított személyt befogadó intézmény.”
+## 17. §[^19]
+
+[^19]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

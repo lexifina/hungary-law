@@ -1,13 +1,14 @@
-## 28. § Hatályát veszti a bűncselekmények áldozatainak nyújtott támogatások engedélyezése iránti eljárás, valamint a pénzbeli támogatás folyósításának és visszatérítésének részletes szabályairól szóló 420/2017. (XII. 19.) Korm. rendelet 4. alcíme.
+## 28. §[^28]
 
 ## 10. A jogi segítségnyújtás keretében nyújtott szolgáltatások engedélyezése, folyósítása és visszatérítése iránti eljárások részletes szabályairól szóló 421/2017. (XII. 19.) Korm. rendelet módosítása
 
-29. § (1)[^14]
+29. § (1)[^29]
 
-(2)[^15]
+(2)[^30]
 
-(3)[^16]
+(3)[^31]
 
-[^14]: A 29. § (1) bekezdése a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^15]: A 29. § (2) bekezdése a 33. § (4) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
-[^16]: A 29. § (3) bekezdése a 33. § (4) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+[^28]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 29. § (1) bekezdése a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^30]: A 29. § (2) bekezdése a 33. § (4) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
+[^31]: A 29. § (3) bekezdése a 33. § (4) bekezdése alapján 2022. augusztus 1-jén lép hatályba.
