@@ -1,0 +1,3 @@
+125. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 95. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Tanya földhasználati jogosultságának megszerzése esetén, ha a szerződés tárgyát képező földrészlet az ingatlan-nyilvántartásban tanyaként nem szerepel, az ingatlan-nyilvántartási adatokból pedig nem állapítható meg egyértelműen az ingatlanon lévő épületek rendeltetése, akkor a bejelentési adatlaphoz csatolni kell továbbá az épületek rendeltetésének igazolására alkalmas dokumentumot.”

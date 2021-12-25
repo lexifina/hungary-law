@@ -1,0 +1,1 @@
+153. § A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 5. § (4) bekezdés a) pontjában az „ „ismeretlen” ” szövegrész helyébe az „ „ismeretlen”, „kézbesítés akadályozott” ” szöveg lép.
