@@ -16,6 +16,8 @@ f) az MNV Zrt. által peres eljárásban kötött, bíróság által jóváhagyo
 
 g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az általa végzett állami – így különösen oktatási, szociális, család-, gyermek- és ifjúságvédelmi, kulturális – feladatok ellátásának elősegítése érdekében.
 
+(2a) Az ingatlan-nyilvántartásban sporttelepként nyilvántartott állami tulajdonban álló ingatlanok kizárólag sportcélokra adhatóak ingyenesen tulajdonba.
+
 (3) A (2) bekezdés szerinti ingyenes átruházásról – a (6)–(8) bekezdésben foglalt kivétellel – a Kormány nyilvános határozattal dönt.
 
 (4) A (2) bekezdés c), e) és g) pontja, valamint a (7) bekezdés alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.

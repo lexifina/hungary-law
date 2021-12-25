@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2021-05-14 | 2021. évi XXXIII. törvény | 2007-106-00-00.50 |
 | 2021-07-01 | 2021. évi LIII. törvény | 2007-106-00-00.51 |
 | 2021-07-02 | 2021. évi LXXXIV. törvény | 2007-106-00-00.52 |
+| 2021-12-25 | 2021. évi CXXXIII. törvény | 2007-106-00-00.53 |

@@ -14,9 +14,9 @@ c) az állam tulajdonában lévő tagsági jogviszonyt megtestesítő értékpap
 
 d) az államot megillető olyan immateriális, vagyoni értékkel rendelkező jogosultság, amelyet jogszabály vagyoni értékű jogként nevesít,
 
-e) az állam tulajdonában lévő pénzügyi eszközök.
+e) az állam tulajdonában álló a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény szerinti pénzügyi eszköz.
 
-(2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a (6a) bekezdés és a 35. § (2a) bekezdés tekintetében terjed ki.
+(2a) A (2) bekezdés e) pontja szerinti pénzügyi eszközökre e törvény hatálya kizárólag a (6a) bekezdés, a 3. § (2a) bekezdése, a 35. § (2a) bekezdése és a 71. § (2) bekezdés b) pontja tekintetében terjed ki.
 
 (3) Külön törvény rendelkezik:
 
