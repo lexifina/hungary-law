@@ -8,14 +8,9 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. melléklete az 1. melléklet szerint módosul.
+## 4.[^1]
 
-1. melléklet az 1973/2021. (XII. 23.) Korm. határozathoz
+1. melléklet az 1973/2021. (XII. 23.) Korm. határozathoz[^2]
 
-A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat a következő 217v. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G |
-
-|  | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Magyarország központi költségvetéséből megtéríthető indikatív önerő (Mrd Ft) | Projekt benyújtásának várható ideje | Szakmai elvárások] |
-
-| 217v. | KEHOP-2.1.3. | A Balaton és térsége ivóvízellátásának modernizációjához kapcsolódó előkészítés | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság | 3,20 | – | 2022 | A projekt célja a Balaton és térsége ivóvízellátásához kapcsolódó modernizáció előkészítése. |
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
