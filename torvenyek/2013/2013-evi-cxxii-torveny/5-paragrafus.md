@@ -62,6 +62,8 @@ b) amely újonnan alapított mezőgazdasági termelőszervezetnek minősül,
 
 c) amely nemzeti park igazgatóságnak minősül;
 
+d) amely erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozásnak minősül;
+
 20. mezőgazdasági üzem: az azonos céllal működtetett mezőgazdasági termelési tényezők (föld, mezőgazdasági felszerelés, egyéb vagyonelemek) szervezeti alapegysége, amely a gazdasági összetartozás révén gazdálkodási alapegység is;
 
 21. mezőgazdasági üzemközpont: a földműves vagy mezőgazdasági termelőszervezet tulajdonában, illetve használatában álló, a mező- és erdőgazdasági tevékenység vagy a mező- és erdőgazdasági tevékenység és a kiegészítő tevékenység célját szolgáló gazdasági, lakó, illetve iroda épülettel beépített ingatlan vagy a tanya, amely a gazdálkodás végzésének vagy megszervezésének a mezőgazdasági igazgatási szervnél bejelentett helyéül szolgál;
