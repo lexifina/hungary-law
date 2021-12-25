@@ -1,1 +1,3 @@
-## „4. § A közszolgáltatási területek lehatárolása során a hulladékgazdálkodási közszolgáltatás területi egységeinek kialakítását a Ht. alapelveinek megfelelő alkalmazásával, a költséghatékony hulladékgazdálkodási közszolgáltatási működést elősegítő módon, az önellátás és a közelség elvének figyelembevételével optimalizálni kell.”
+## 3. §[^3]
+
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

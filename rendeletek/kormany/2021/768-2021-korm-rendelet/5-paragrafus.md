@@ -1,1 +1,3 @@
-## 4. § A 68/2016. (III. 31.) Korm. rendelet 2. melléklete helyébe az 1. melléklet lép.
+## 4. §[^4]
+
+[^4]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
