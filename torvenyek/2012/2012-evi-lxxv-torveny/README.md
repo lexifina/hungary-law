@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-75-00-00
 | 2013-04-26 | 2013. évi LI. törvény | 2012-75-00-00.3 |
 | 2018-01-01 | 2017. évi L. törvény | 2012-75-00-00.4 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2012-75-00-00.5 |
+| 2021-12-25 | 2021. évi CXXXIII. törvény | 2012-75-00-00.6 |
