@@ -18,13 +18,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat
-
-## a) D:351b. mezőjében az „1,00” szövegrész helyébe az „1,59” szöveg és
-
-## b) E:351b. mezőjében a „0,12” szövegrész helyébe a „0,20” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1974/2021. (XII. 23.) Korm. határozathoz
 
@@ -37,3 +31,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a Gazdaság- újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projekt- költségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) a 481/2021. (VIII. 13.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | KEHOP-3.2.1- 15-2017- 00028 | Hulladék- gazdál- kodási rendszer fejlesztése Szolnok város és térsége területén, különös tekintettel az elkülönített hulladék- gyűjtési, szállítási és előkezelő rendszerre | Szolnok Térségi Hulladék- gazdálkodási Társulás az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvíz- elvezetési és -tisztítási, a hulladék- gazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet szerint | 89,285714 | 999 999 997 | 120 000 003 | 18 800 298 | 0 | - | +589 283 937 | +70 714 075 | +1 607 359 | 0 | 89,285714 | 1 589 283 934 | 190 714 078 | 20 407 657 | 0 | 1 800 405 669 | A projekttel szembeni szakmai elvárás a projektterületen élők megfelelő hulladék- gazdálkodási közszolgáltatással történő ellátásának biztosítása az Országos Hulladék- gazdálkodási Közszolgáltatási Tervnek megfelelően. A projekt keretében Jász-Nagykun-Szolnok megye észak- és délnyugati része hulladék gazdálkodási rendszerének továbbfejlesztése történik meg, különös tekintettel az elkülönített hulladékgyűjtésre. |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
