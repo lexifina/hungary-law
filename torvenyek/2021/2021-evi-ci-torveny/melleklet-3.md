@@ -54,7 +54,7 @@ Budapest VIII. kerület
 
 |
 
-magyar állam 655/10000 tulajdonában álló ingatlan 2. emeletén az OMSZI által használt terület
+magyar állam 655/10000 tulajdonában álló ingatlan 2. emelete és 2 db parkolóhely
 
 |
 
@@ -146,19 +146,11 @@ kivett szociális intézmény
 
 |
 
-Budapest XII. kerület
+|
 
 |
 
-9328
-
 |
-
-1/1
-
-|
-
-kivett udvar és óvoda, bölcsőde
 
 |
 
@@ -166,19 +158,11 @@ kivett udvar és óvoda, bölcsőde
 
 |
 
-Budapest XII. kerület
+|
 
 |
 
-6886/2
-
 |
-
-1/1
-
-|
-
-kivett bölcsőde
 
 |
 

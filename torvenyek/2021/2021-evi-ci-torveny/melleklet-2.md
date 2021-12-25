@@ -1,6 +1,6 @@
 2. melléklet a 2021. évi CI. törvényhez
 
-Az MTVA részére átadásra kerülő állami tulajdonú ingatlan
+Az MTVA részére átadásra kerülő állami tulajdonú ingatlanok
 
 |
 
@@ -61,3 +61,25 @@ belterület, 1066 Budapest, Jókai u. 4.
 |
 
 egyéb helyiség
+
+|
+
+3.
+
+|
+
+Budapest VI. kerület
+
+belterület, 1066 Budapest, Jókai u. 2.
+
+|
+
+29038/2/A/4
+
+|
+
+1/1
+
+|
+
+színház
