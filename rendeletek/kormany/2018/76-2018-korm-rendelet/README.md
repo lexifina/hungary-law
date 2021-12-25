@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-76-20-2
 | 2020-12-23 | 2018-76-20-22.6 | 634/2020. (XII. 22.) Korm. rendelet |
 | 2021-04-25 | 2018-76-20-22.7 | 2010: CXXX. törvény |
 | 2021-11-09 | 2018-76-20-22.8 | 178/2021. (IV. 15.) Korm. rendelet |
+| 2021-12-25 | 2018-76-20-22.9 | 178/2021. (IV. 15.) Korm. rendelet |
