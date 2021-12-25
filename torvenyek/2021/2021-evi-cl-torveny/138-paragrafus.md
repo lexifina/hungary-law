@@ -1,3 +1,1 @@
-138. § Az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény 9. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az öntözési körzet az öntözési igazgatási szervnek az (1) és (2) bekezdésnek megfelelő javaslata alapján csak az öntözési közösség tagjai által öntözni kívánt egymástól elkülönülő, vagy a közösség tagjai használatában nem álló közbeékelődött területeket is magába foglaló körbehatárolt külterületi földterületeken jelölhető ki. Az öntözési körzet a 7. § (2) bekezdés a) pontja szerinti esetben legfeljebb 10 000 ha, a b) pontja szerinti esetben legfeljebb 1000 ha területen jelölhető ki.”
+138. §

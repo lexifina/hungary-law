@@ -1,3 +1,1 @@
-112. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 55/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Azon személynek, aki a föld használatának megszerzése során előhaszonbérleti jogát a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú földhasználatra alapította, a föld birtokba vételét követő 30 napon belül a mezőgazdasági igazgatási szerv részére igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai gazdálkodásra átállást megkezdte, továbbá az átállási idő lejárta után igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.”
+112. §
