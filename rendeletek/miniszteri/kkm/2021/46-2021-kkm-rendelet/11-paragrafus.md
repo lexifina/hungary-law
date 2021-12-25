@@ -1,0 +1,5 @@
+## 8. A támogatás mértéke és összege
+
+11. § (1) A 2. § (1) bekezdés a)–d) és f)–g) pontja szerinti támogatás esetén a támogatási intenzitás maximuma 50%, azzal, hogy a támogatás mértéke nem haladhatja meg az általános csoportmentességi rendelet 14., 17., 22. és 41. cikkében foglalt maximális mértéket, amely a támogatási szerződésben szereplő, e rendelet alapján odaítélt állami támogatás támogatástartalma és a jelenértéken számolt összes elszámolható költség hányadosaként hét tizedesjegyre kerekített, százalékban kifejezett mérték.
+
+(2) Az e rendelet alapján nyújtott támogatás összege eléri az 1 milliárd forint összeget azzal, hogy az általános csoportmentességi rendelet I. számú melléklete alapján meghatározott partner vagy kapcsolt vállalkozások által kapott támogatás összege nem haladhatja meg a 7 milliárd forintot, továbbá az összes támogatás összege nem haladhatja meg az utolsó három lezárt üzleti év közül a beruházó által tetszőlegesen választott két év nettó értékesítési árbevételének átlagát a beruházó és az esetleges 6. § (1) bekezdés b) pontja szerinti kapcsolt vállalkozása tekintetében.
