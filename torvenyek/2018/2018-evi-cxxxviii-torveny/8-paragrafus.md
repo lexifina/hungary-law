@@ -1,6 +1,6 @@
 ## 2. A Beruházási Ügynökség tulajdonosi joggyakorlása
 
-8. § (1) Az állam tulajdonába és a Beruházási Ügynökség tulajdonosi joggyakorlása alá kerülnek e törvény erejénél fogva a kormányzati magasépítési beruházásokhoz szükséges, a Beruházási Ügynökség által a 7. § alapján megszerzett ingatlanok, azok tartozékaival és alkotórészeivel együtt.
+8. § (1) Az állam tulajdonába és a Beruházási Ügynökség tulajdonosi joggyakorlása alá kerülnek e törvény erejénél fogva a kormányzati magasépítési beruházásokhoz szükséges, a Beruházási Ügynökség által a 7. § alapján megszerzett ingó vagyonelemek és ingatlanok, azok tartozékaival és alkotórészeivel együtt.
 
 (2) A Beruházási Ügynökség tulajdonosi joggyakorlásába kell adni a kormányzati magasépítési beruházások megvalósításához szükséges – a Beruházási Ügynökség által az ingatlanok tulajdonosi joggyakorlója részére benyújtott kérelemben megjelölt – állami tulajdonú ingatlanokat. Az állami ingatlanok tulajdonosi joggyakorlója – a Beruházási Ügynökség megkeresése alapján – 30 napon belül intézkedik az ingatlanok tulajdonosi joggyakorlásának átadására vonatkozó megállapodás megkötéséről. Az ingatlanok tulajdonosi joggyakorlását ingyenesen, könyv szerinti értéken kell a Beruházási Ügynökség részére átadni. A tulajdonosi joggyakorlás megállapodással történő átadásával az átvett vagyonnal kapcsolatos jogviszonyokba a korábbi tulajdonosi joggyakorló helyére jogutódként a Beruházási Ügynökség lép.
 
