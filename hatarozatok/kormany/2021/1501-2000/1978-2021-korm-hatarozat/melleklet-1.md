@@ -72,8 +72,11 @@
 
 ## 1.10. úgy dönt, hogy az e határozat alapján teljesített kiadásokat a költségvetés pénzügyi tartalékainak növeléséről szóló 1888/2021. (XII. 9.) Korm. határozat 2. pontjában meghatározott kiadási maximum összegébe nem kell beleszámítani;
 
-## 1.11. visszavonja a Pécsi Mecsek Futball Club új stadionjának előkészítéséről és megvalósításáról szóló 1373/2021. (VI. 10.) Korm. határozatot.
+## 1.11.[^1]
 
-## 2. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, éven túli kötelezettségvállalás engedélyezéséről, egyes kormányhatározatok végrehajtása során alkalmazandó eltérő intézkedésekről, valamint egyes kormányhatározatok módosításáról szóló 1953/2021. (XII. 22.) Korm. határozat 1. pont 1.4. alpont a) pontjában az „1 853 000 000” szövegrész helyébe az „1 853 600 000” szöveg lép.
+## 2.[^2]
 
 1. melléklet az 1978/2021. (XII. 24.) Korm. határozathoz
+
+[^1]: Az 1. pont 1.11. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
