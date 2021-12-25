@@ -1,0 +1,3 @@
+48. § Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény 6. alcíme a következő 14/A. §-sal egészül ki:
+
+„14/A. § E törvénynek az egyes vagyongazdálkodási tárgyú rendelkezésekről, valamint egyes vagyongazdálkodást és nemzeti pénzügyi szolgáltatásokat érintő törvények módosításáról szóló 2021. évi CXXXIII. törvénnyel (a továbbiakban: Módtv.) megállapított 4. § (8) bekezdését, 6/A. §-át, továbbá 8. § (1) bekezdését a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
