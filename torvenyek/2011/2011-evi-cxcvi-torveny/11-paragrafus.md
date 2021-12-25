@@ -10,7 +10,7 @@
 
 (5) A vagyonkezelői jog kivételesen törvényben történő kijelöléssel, a törvényben megjelölt – a 3. § (1) bekezdés 19. pontjában felsoroltak körébe tartozó – személyekkel, vagy a törvényben egyedileg meghatározott jogi személlyel jön létre. Az állam és a helyi önkormányzat kizárólagos tulajdonában álló nemzeti vagyon, a 2. mellékletben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon, valamint az állam és a helyi önkormányzat kizárólagos gazdasági tevékenysége tekintetében a 3. § (1) bekezdés 19. pont a) alpont aa)–ag) alpontjában, valamint b) és c) alpontjában felsorolt személyeken kívül kijelölés nem alkalmazható.
 
-(6) Központi költségvetési szerv a működéséhez szükséges, az államháztartás számviteléről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz (különösen műszaki berendezés, gép, felszerelés, készlet) valamint egyéb ingóság megvásárlására – ingatlan kivételével – adásvételi szerződést köthet. Ezen vagyonelem e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe és a fennálló vagyonkezelési szerződése hatálya alá kerül azzal, hogy a központi költségvetési szerv köteles – a vagyon-nyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemet.
+(6) Központi költségvetési szerv a működéséhez szükséges, az államháztartás számviteléről szóló kormányrendelet szerinti immateriális jószág, tárgyi eszköz (különösen műszaki berendezés, gép, felszerelés, készlet) valamint egyéb ingóság megvásárlására – ingatlan kivételével – adásvételi, előállítására megbízási, vállalkozási vagy felhasználási szerződést köthet. Ezen vagyonelem e törvény erejénél fogva az állam tulajdonába és vagyonkezelési szerződés megkötése nélkül a központi költségvetési szerv vagyonkezelésébe és a fennálló vagyonkezelési szerződése hatálya alá kerül azzal, hogy a központi költségvetési szerv köteles – a vagyon-nyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemet.
 
 (6a) A vagyonkezelőt e törvény erejénél fogva változatlan feltételekkel megilleti a vagyonkezelői jog mindazon vagyonelemre, amely a vagyonkezelésében lévő vagyonból bármely módon – így különösen kitermelés, bontás, megosztás útján – újonnan jön létre, feltéve hogy az újonnan létrejövő vagyonelem és a vagyonkezelő vagyonkezelésében lévő vagyonelem tulajdonosa megegyezik. A felek eltérő megállapodásának hiányában a vagyonkezelői jog e törvény erejénél fogva kiterjed arra a vagyonelemre is – ideértve a tartozékot és az alkotórészt is –, amely a vagyonkezelői jogviszony fennállása alatt válik a vagyon részévé.
 
@@ -68,9 +68,9 @@ d) központi költségvetési szerv Magyarország függetlenségének, területi
 
 a) államháztartási körbe tartozó szervezet,
 
-b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, vagy
+b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, továbbá jogszabályban előírt állami vagy önkormányzati feladatot ellátó egyházi jogi személy,
 
-c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek,
+c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek, vagy
 
 d) a közfeladatot ellátó, az állam közvetlen vagy közvetett tulajdonában álló gazdasági társaság vagyonkezelésében lévő, az állam tulajdonában álló lakások tekintetében a vagyonkezelővel vagy a vagyonkezelő tulajdonában álló gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek
 

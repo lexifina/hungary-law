@@ -24,7 +24,7 @@
 
 (6) Az 1. § (2) bekezdés a) pontja hatálya alá és nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba nem tartozó vagyonelem, amely felett a rendelkezési jog gyakorlását jogszabály feltételhez köti – állami vagyon tekintetében kincstári vagyonként, a helyi önkormányzat vagyona tekintetében törzsvagyonként – korlátozottan forgalomképes nemzeti vagyonnak minősül.
 
-(7) A 2. melléklet II. pont d) alpontja szerinti nemzeti vagyon az állam és a helyi önkormányzat között átruházható.
+(7)
 
 (8) Az olyan – pályázat alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, a pályázati kiírástól, illetve a nyertes pályázattól eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
 

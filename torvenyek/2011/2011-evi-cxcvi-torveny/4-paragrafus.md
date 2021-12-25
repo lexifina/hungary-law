@@ -30,6 +30,12 @@ k) a rádióspektrum, valamint az elektronikus hírközlő hálózat működés�
 
 l) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló.
 
+(1a) Az állam kizárólagos tulajdonába tartozik – tekintettel az Országház rendeltetésszerű működtetéséhez szükséges műszaki kapcsolatára –
+
+a) a természetben a Budapest V. kerület Balassi Bálint utca 1–5. szám alatt található Tisza Lajos Irodaház,
+
+b) az id. Antall József rakpart állami tulajdonban álló szakasza.
+
 (2) Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősül a 2. mellékletben meghatározott, valamint külön törvényben vagy kormányrendeletben ekként meghatározott állami tulajdonban álló vagyonelem.
 
 (3)
