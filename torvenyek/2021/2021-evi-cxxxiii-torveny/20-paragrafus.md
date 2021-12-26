@@ -1,3 +1,1 @@
-20. § Az állami vagyonról szóló 2007. évi CVI. törvény 33. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Központi költségvetési szerv vagyonkezelő a részére megbízási, vállalkozási vagy felhasználási jogviszony keretében előállított, az Nvtv. 11. § (6) bekezdése szerinti immateriális jószágokat, tárgyi eszközöket, készleteket – ha azok egyedi, könyv szerinti bruttó értéke az ötvenezer forintot nem haladja meg – a tulajdonosi joggyakorlóval kötött megbízási szerződés alapján, az állam nevében és javára értékesítheti a 34. § és a 35. § alkalmazásával. Az értékesítésből származó bevétel a vagyonkezelő központi költségvetési szervet illeti meg.”
+20. §

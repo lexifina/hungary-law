@@ -1,3 +1,1 @@
-18. § Az állami vagyonról szóló 2007. évi CVI. törvény 3. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az állami vagyon meghatározott köre felett tulajdonosi jogokat és kötelezettségeket a (2a) bekezdés alapján az állam nevében gyakorló személy e tevékenységét e törvény és az e törvény végrehajtási rendelete szerint végezheti azzal, hogy a tulajdonosi joggyakorlással érintett állami vagyon tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására és más módon való megterhelésére az (1) bekezdés alapján az MNV Zrt. jogosult. A tulajdonosi joggyakorlással érintett társasági részesedés 100%-ban állami tulajdonban álló gazdasági társaság részére nem pénzbeli vagyoni hozzájárulásként történő szolgáltatására az MNV Zrt. meghatalmazást adhat a (2a) bekezdés szerint kijelölt tulajdonosi joggyakorló részére.”
+18. §

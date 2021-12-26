@@ -1,9 +1,3 @@
 ## 17. Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény módosítása
 
-46. § Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény a következő 6/A. §-sal egészül ki:
-
-„6/A. § (1) A Beruházási Ügynökség által előkészített vagy megvalósított beruházáshoz közvetlenül kapcsolódó út és közműszakasz bontása, kiváltása vagy fejlesztése esetén a Beruházási Ügynökség által létrehozott út és közmű – az út vagy a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, nyilvántartási értéken való átvezetéssel a beruházással érintett út vagy közmű tulajdonosának tulajdonába és a beruházással érintett út vagy közmű üzemeltetőjének az üzemeltetésébe kerül.
-
-(2) A beruházáshoz közvetlenül kapcsolódó útépítési, közmű-csatlakozási, fejlesztési, bontási és kiváltási munkák elvégzésével érintett vagyonelemek értékének változásával a Beruházási Ügynökség a beruházások teljes megvalósítását követően, a teljes beruházás időszakát figyelembe véve elszámol a beruházással érintett út vagy közmű tulajdonosával.
-
-(3) Az (1) és (2) bekezdésben foglaltakat a 4. § (7) bekezdése szerinti beruházások esetében is alkalmazni kell.”
+46. §
