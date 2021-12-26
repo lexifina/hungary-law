@@ -1,5 +1,3 @@
 ## 14. A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény módosítása
 
-145. § A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény 8. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Védett természeti területnek minősülő földrészlet esetében a vételi jog gyakorlásának feltétele a földügyért felelős miniszter hozzájárulása a földrészletnek az állami tulajdonból történő kikerüléséhez. A hozzájárulás nem tagadható meg akkor, ha a vételi jogot gyakorlóval szemben a joggyakorlást megelőző tíz éven belül nem állapították meg környezetkárosítás vagy természetkárosítás bűntettét, vagy természetvédelmi szabálysértés miatt a felelősségét, továbbá természetvédelmi bírság nem került vele szemben kiszabásra. Az (1) bekezdés szerinti határidőt megtartottnak kell tekinteni, ha a vételi jog gyakorlására és a miniszter hozzájárulásának kezdeményezésére a joggyakorló által a határidőben került sor.”
+145. §

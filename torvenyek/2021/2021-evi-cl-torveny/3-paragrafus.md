@@ -1,1 +1,1 @@
-3. § A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 3. § 85. pontjában a „kiegészítő tevékenység” szövegrész helyébe a „kiegészítő őstermelői tevékenység (a továbbiakban: kiegészítő tevékenység)” szöveg lép.
+3. §

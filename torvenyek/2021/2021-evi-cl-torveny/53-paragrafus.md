@@ -1,1 +1,1 @@
-53. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 113. § (25) bekezdésében a „valamint az erdőről és az erdő védelméről szóló 1996. évi LIV. törvény hatálybalépését” szövegrész helyébe a „vagy 2021. december 31. napját” szöveg lép.
+53. §
