@@ -1,5 +1,1 @@
-21. § Az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény 6. és 7. §-a helyébe a következő rendelkezések lépnek:
-
-„6. § Az 1/A. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
-
-7. § Az 1. § (1)–(4) és (11) bekezdése, valamint a 2. § (2) bekezdése szerinti intézkedés az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatást tartalmaz, amely az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat alapján nyújtható.”
+21. §

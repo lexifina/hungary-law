@@ -1,3 +1,1 @@
-13. § Az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény 1. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Azok a nyilatkozattételi eljárással érintett ingatlanok, amelyek vonatkozásában a bérlő nem tesz nyilatkozatot sem a tulajdonszerzésre, sem a lakásbérleti jogviszony fenntartására – a lakásbérleti jogviszony fenntartása mellett – ingyenesen, nyilvántartási értéken történő átvezetéssel az MR Közösségi Lakásalap NKft. tulajdonába adhatóak a 2018. évi CIII. törvény V. fejezete szerinti nyilatkozattételi határidő elmulasztását követő második hónap első napját követően.”
+13. §

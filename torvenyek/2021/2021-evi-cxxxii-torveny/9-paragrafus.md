@@ -1,3 +1,1 @@
-9. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény 44. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az épület, építmény, épületrész tulajdonosa és a bérlő vagy a használó együttes kérelmére a távhőszolgáltató a díjat közvetlenül a bérlő vagy a használó részére számlázza. A távhő-szolgáltatási díj a bérlő vagy a használó által történő megfizetéséért – a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján az állam vagy a települési önkormányzat tulajdonában lévő lakóingatlanok, valamint az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásról szóló 2021. évi LXXXVI. törvény alapján ingyenesen az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság tulajdonába kerülő ingatlanok kivételével – a tulajdonos egyszerű (sortartó) kezesként felel. A 37. § (6) bekezdésében foglaltak erre az esetre is vonatkoznak.”
+9. §
