@@ -416,7 +416,7 @@ tartalmazhat.
 
 | 130. | Fluclotizolam | 2-chloro-4-(2-fluorophenyl)-9-methyl-6H-thieno[3,2-f][1,2,4] triazolo[4,3-a][1,4]diazepine |
 
-| 131. | Flualprazolam | 8-chloro-6-(2-fluorophenyl)-1-methyl-4H-[1,2,4]triazolo [4,3-a][1,4]benzodiazepine |
+| 131. |  |  |
 
 | 132. | Clobromazolam | 8-bromo-6-(2-chlorophenyl)-1-methyl-4H-[1,2,4]triazolo [4,3-a][1,4]benzodiazepine |
 
@@ -820,9 +820,17 @@ tartalmazhat.
 
 | 332. | hydroxetamine, HXE | 2-(ethylamino)-2-(3-hydroxyphenyl)-cyclohexanone |
 
+| 333. | dipyanone | 4,4-diphenyl-6-(pyrrolidin-1-yl)heptan-3-one |
+
+| 334. | bretazenil | 1,1-dimethylethyl 8-bromo-11,12,13,13a-tetrahydro-9-oxo-9H-imidazo[1,5-a]pyrrolo [2,1-c][1,4]benzodiazepine-1-carboxylate |
+
+| 335. | deschloroclotizolam | 2-chloro-9-methyl-4-phenyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine |
+
+| 336. | BZO-POXIZID | N-[(Z)–(2-oxo-1-pentyl-indolin-3-ylidene)amino]benzamide |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
 [^1]: A 3. § a 6/2017. (V. 2.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1–2. §-a, a 19/2021. (VI. 2.) EMMI rendelet 1. §-a, a 22/2021. (VI. 8.) EMMI rendelet 1. §-a, a 33/2021. (VII. 29.) EMMI rendelet 1. §-a, a 45/2021. (X. 19.) EMMI rendelet 1. §-a, az 50/2021. (XI. 16.) EMMI rendelet 1. §-a, az 53/2021. (XII. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a, a 42/2016. (XII. 22.) EMMI rendelet 1-2. §-a, a 6/2017. (V. 2.) EMMI rendelet 2. §-a, a 21/2017. (IX. 25.) EMMI rendelet 1. §-a, a 16/2018. (VII. 3.) EMMI rendelet 1. §-a, a 39/2018. (XI. 8.) EMMI rendelet 1. §, a 26/2019. (XI. 28.) EMMI rendelet 1. §-a, a 30/2020. (VIII. 25.) EMMI rendelet 1. §-a, a 4/2021. (I. 28.) EMMI rendelet 1–2. §-a, a 19/2021. (VI. 2.) EMMI rendelet 1. §-a, a 22/2021. (VI. 8.) EMMI rendelet 1. §-a, a 33/2021. (VII. 29.) EMMI rendelet 1. §-a, a 45/2021. (X. 19.) EMMI rendelet 1. §-a, az 50/2021. (XI. 16.) EMMI rendelet 1. §-a, az 53/2021. (XII. 14.) EMMI rendelet 1. §-a, az 56/2021. (XII. 23.) EMMI rendelet 1. §-a szerint módosított szöveg.
