@@ -1,0 +1,1 @@
+## „(6) A (4) és (5) bekezdésben foglaltak iránt csak akkor kell intézkedni, ha a bíróság az adósságrendezési eljárás kezdeményezése iránti kérelmet nem utasította vissza, nem utasította el vagy az eljárást nem szüntette meg.”

@@ -1,0 +1,1 @@
+## 6. § Az értékesítés eredményének megállapítását követően a legmagasabb összegű vételi ajánlatot meg kell küldeni az elővásárlási joggal rendelkezők részére annak érdekében, hogy nyilatkozzanak arról, hogy kívánnak-e élni az elővásárlási jogukkal. A nyilatkozat megtételére mindegyikük részére legalább 15 napot kell biztosítani.

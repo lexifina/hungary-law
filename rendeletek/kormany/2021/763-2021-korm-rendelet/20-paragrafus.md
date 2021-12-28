@@ -1,0 +1,3 @@
+## 19. § A természetes személyek adósságrendezési eljárásában a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatairól szóló 240/2015. (IX. 8.) Korm. rendelet 21. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) A családi vagyonfelügyelő megküldi az ügygondnokot kirendelő végzést a CsSz központi szerve részére az ügygondnok díjának megelőlegezése céljából. A családi vagyonfelügyelő tájékoztatja az eljárásba belépő jogutódot arról, hogy a költségvetésből megelőlegezett ügygondnoki díj megfizetésére vonatkozó kötelezettségét a CsSz központi szervének pénzforgalmi számlájára kell teljesítenie.”

@@ -1,0 +1,7 @@
+## 7. § Ha az első értékesítésre történő meghirdetéskor nem történt meg az ingatlan értékesítése, és az ingatlanra jelzálogjog van bejegyezve, második értékesítésre történő meghirdetés helyett a jelzáloghitelező a vagyontárgyat az aktuális forgalmi értéket elérő vételáron megvásárolhatja. A vételi ajánlat megtételére az adós – bírósági adósságrendezési eljárásban a családi vagyonfelügyelő – írásban felhívást küld. A vételi ajánlat megtételére írásban, a felhívás kézhezvételétől számított 15 napon belül van lehetőség. Több jelzáloghitelező esetén az a jelzáloghitelező jogosult az ingatlan megvenni, aki közülük a legmagasabb összeget tartalmazó vételi ajánlatot teszi.
+
+8. § (1) Bírósági adósságrendezési eljárásban a 300 000 forint feletti aktuális forgalmi értéken meghirdetett vagyontárgy értékesítésére vonatkozó szerződéstervezetet a családi vagyonfelügyelő – ingatlan esetében az adós által megbízott közjegyző vagy ügyvéd – készíti elő és küldi meg a feleknek, mellékelve a szerződéskötésre és a feleknek a szerződés megkötése céljából történő személyes megjelenésére vonatkozó tudnivalókat.
+
+(2) A szerződésben ki kell kötni, hogy a vevő a vételárat az adós adósságtörlesztési számlájára köteles átutalni, és a vevő a vagyontárgy tulajdonát a vételár teljes összegének megfizetését követően szerzi meg.
+
+(3) Bírósági adósságrendezési eljárásban a vételár hitelezők közötti felosztásáról és az adósságtörlesztési számláról történő kifizetéséről a családi vagyonfelügyelő gondoskodik.
