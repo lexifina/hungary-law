@@ -1,4 +1,4 @@
-## 47. §[^119] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 779/2021. (XII. 23.) Korm. rendelettel (a továbbiakban: Módr39.) módosított 1. § (2a)–(4) és (7) bekezdését, 3. § (3) és (4) bekezdését, 6/D., 6/E., 7/F. §-át, 2. mellékletében foglalt táblázat 63., 64. és 65. sorát, valamint 3. mellékletében foglalt táblázat 8. és 9. sorát a Módr39. hatálybalépésekor[^120] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 48. §[^122] E rendeletnek az egyes kiemelt beruházásokhoz kapcsolódó kormányrendeletek módosításáról szóló 792/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr40.) megállapított 1. § (3) bekezdését, 3. § (3) és (5) bekezdését, 6/F. §-át és 2. mellékletében foglalt táblázat 66. sorát a Módr40. hatálybalépésekor[^123] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 83/2021. (II. 23.) Korm. rendelethez
 
@@ -46,20 +46,20 @@
 
 21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-22.[^121] földvédelmi hatósági eljárások,
+22.[^124] földvédelmi hatósági eljárások,
 
-23.[^122] erdészeti hatósági eljárások,
+23.[^125] erdészeti hatósági eljárások,
 
-24.[^123] bányahatósági engedélyezési eljárások,
+24.[^126] bányahatósági engedélyezési eljárások,
 
-25.[^124] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+25.[^127] azok az 1–24. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-26.[^125] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+26.[^128] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^119]: A 47. §-t a 779/2021. (XII. 23.) Korm. rendelet 2. §-a iktatta be.
-[^120]: A hatálybalépés időpontja 2021. december 24.
-[^121]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^122]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^123]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^124]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
-[^125]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^122]: A 48. §-t a 792/2021. (XII. 27.) Korm. rendelet 9. §-a iktatta be.
+[^123]: A hatálybalépés időpontja 2021. december 28.
+[^124]: Az 1. melléklet 22. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^125]: Az 1. melléklet 23. pontja a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^126]: Az 1. melléklet 24. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^127]: Az 1. melléklet 25. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.
+[^128]: Az 1. melléklet 26. pontját a 395/2021. (VII. 2.) Korm. rendelet 5. § a) pontja iktatta be.

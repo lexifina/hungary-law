@@ -1,4 +1,4 @@
-## 46. §[^117] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 728/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr38.) megállapított 3. § (3) bekezdését és 2. mellékletében foglalt táblázat 62. sorát a Módr38. hatálybalépésekor[^118] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 46. §[^118] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 728/2021. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr38.) megállapított 3. § (3) bekezdését és 2. mellékletében foglalt táblázat 62. sorát a Módr38. hatálybalépésekor[^119] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^117]: A 46. §-t a 728/2021. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
-[^118]: A hatálybalépés időpontja 2021. december 21.
+[^118]: A 46. §-t a 728/2021. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^119]: A hatálybalépés időpontja 2021. december 21.

@@ -1,4 +1,4 @@
-7/T. §[^41] (1) A 2. mellékletben foglalt táblázat 46. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+7/T. §[^42] (1) A 2. mellékletben foglalt táblázat 46. sora szerinti beruházással érintett ingatlanon hitéleti, oktatási célú épületek és azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni, és
 
@@ -18,7 +18,7 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és
 
 6. a parkolóterületi szintterületi mutató megengedett legnagyobb értéke 1,1 m2/m2,
 
-7.[^42] a Budapest belterület 13319 és 13323 helyrajzi számú ingatlanok telekegyesítését követően kialakuló ingatlan esetében a zöldfelület mértéke a Budapest belterület 13319 helyrajzi számú ingatlan kialakult állapotához képest a beruházás során nem csökkenhet,
+7.[^43] a Budapest belterület 13319 és 13323 helyrajzi számú ingatlanok telekegyesítését követően kialakuló ingatlan esetében a zöldfelület mértéke a Budapest belterület 13319 helyrajzi számú ingatlan kialakult állapotához képest a beruházás során nem csökkenhet,
 
 8. az utcai párkánymagasság vonalának megengedett legnagyobb magassági értéke 17 méter,
 
@@ -40,5 +40,5 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) és
 
 (3) A 2. mellékletben foglalt táblázat 46. sorában meghatározott beruházással kapcsolatban a személygépkocsi-parkolóhelyek kialakítása során az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK 42. §-a szerint meghatározott személygépkocsik számának legalább 35%-a elhelyezését kell biztosítani.
 
-[^41]: A 7/T. §-t az 525/2021. (IX. 8.) Korm. rendelet 3. §-a iktatta be.
-[^42]: A 7/T. § (2) bekezdés 7. pontja a 680/2021. (XII. 3.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^42]: A 7/T. §-t az 525/2021. (IX. 8.) Korm. rendelet 3. §-a iktatta be.
+[^43]: A 7/T. § (2) bekezdés 7. pontja a 680/2021. (XII. 3.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
