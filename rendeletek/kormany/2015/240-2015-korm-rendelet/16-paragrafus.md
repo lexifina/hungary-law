@@ -1,5 +1,3 @@
-## 15. § A CsSz illetékes területi szerve a főhitelező Are. tv. 30. § (8) bekezdése szerinti értesítése alapján jegyzi be a bíróságon kívüli adósságrendezési megállapodással összefüggő adatokat az ARE nyilvántartásba és tölti fel a megállapodást digitalizált formában az ARE nyilvántartás dokumentumtárába.
-
 ## 11. Sikertelen bíróságon kívüli adósságrendezés
 
 16. § (1) A CsSz illetékes területi szerve végzi
