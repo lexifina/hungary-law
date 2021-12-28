@@ -1,32 +1,34 @@
-|  | A | B |
+| Az egyes egészségügyi tárgyú miniszteri rendeleteknek az egészségügyi ágazati képzésekkel összefüggő módosításáról szóló 57/2021. (XII. 27.) EMMI rendelet hatálybalépése előtt megszerzett szakgyógyszerészi szakképesítések | E rendelet szerint megszerezhető szakgyógyszerészi szakképesítések |
 
-| 1. | A 66/1999. (XII. 25.) EüM rendelet 7. számú melléklete szerinti megszerzett szakgyógyszerészi szakképesítések | E rendelet szerint megszerezhető szakképesítés |
+| GYÓGYSZERELLÁTÁSI SZAKGYÓGYSZERÉSZET SZAKTERÜLET |
 
-| 2. | Gyógyszertechnológia | Gyógyszertechnológia, Gyógyszerkészítés |
+| Gyógyszertár üzemeltetés, vezetés; Gyógyszerellátási gyógyszerészet; Gyógyszerellátás és gyógyszerügyi szervezés | 1.1. Gyógyszertár üzemeltetés, vezetés |
 
-| 3. | Gyógyszerellenőrzés | Gyógyszerellenőrzés |
+| Farmakológia, farmakoterápia; Gyógyszerészi gondozás; Gyógyszerhatástan; Fitoterápia; Farmakognózia és fitoterápia | 1.2. Gyógyszerészi gondozás, farmakológia |
 
-| 4. | Gyógyszerhatástan | Farmakológia, farmakoterápia Nem klinikai és klinikai gyógyszerkutatás, farmakológia |
+| Gyógyszerügyi szakigazgatás; Gyógyszerügyi szervezés és igazgatás; Egészségügyi-gyógyszerügyi igazgatás; Gyógyszerügyi szervezés; Gyógyszertári minőségbiztosítás; Társadalom-gyógyszerészet | 1.3. Gyógyszerügyi szakigazgatás, minőségbiztosítás |
 
-| 5. | Gyógyszerkémia | Hatóanyagkutatás és gyógyszerkémia |
+| KÓRHÁZI-KLINIKAI SZAKGYÓGYSZERÉSZET |
 
-| 6. | Társadalomgyógyszerészet | Gyógyszerügyi szakigazgatás |
+| Kórházi-klinikai szakgyógyszerészet; Kórházi gyógyszerészet; Klinikai gyógyszerészet | 2.1. Kórházi-klinikai szakgyógyszerészet |
 
-| 7. | Farmakognózia és fitoterápia | Fitoterápia, Növényi alapú szerek fejlesztése és előállítása, farmakognózia |
+| Klinikai laboratóriumi gyógyszerészet; Klinikai laboratóriumi diagnosztika; Preparatív kémiai labor vizsgálatok; Közegészségügyi labor vizsgálatok; Klinikai labor vizsgálatok | 2.2. Klinikai laboratóriumi gyógyszerészet |
 
-| 8. | Klinikai laboratóriumi diagnosztika | Klinikai laboratóriumi szakgyógyszerész |
+| Klinikai mikrobiológiai laboratóriumi gyógyszerészet; Gyógyszerészeti mikrobiológia | 2.3. Klinikai mikrobiológiai laboratóriumi gyógyszerészet |
 
-| 9. | Gyógyszerellátási gyógyszerészet | Gyógyszertárvezetés-üzemeltetés |
+| IPARI ÉS GYÓGYSZERKUTATÁSI SZAKGYÓGYSZERÉSZET |
 
-| 10. | Gyógyszerügyi szervezés és igazgatás | Gyógyszerügyi szakigazgatás |
+| Gyógyszertechnológia; Gyógyszerkészítés; Gyógyszer-technológia; Növényi alapú szerek fejlesztése és előállítása, farmakognózia; Biológiai gyógyszerek fejlesztése és előállítása, gyógyszer-biotechnológia; Radiogyógyszerészet; Radiofarmakológia | 3.1. Gyógyszertechnológia, készítményfejlesztés és -gyártás, biológiai és növényi eredetű gyógyszerek, radiogyógyszerek |
 
-| 11. | Radiogyógyszerészet | Radiogyógyszerészet |
+| Gyógyszerellenőrzés; Minőségbiztosítás; Kémiai (fizikai-kémiai) gyógyszer-ellenőrzés; Biológiai gyógyszer-ellenőrzés; Mikrobiológiai gyógyszerellenőrzés | 3.2. Minőségbiztosítás és minőségellenőrzés |
 
-| 12. | Kórházi gyógyszerészet | Kórházi-klinkai szakgyógyszerész |
+| Gyógyszer-engedélyezés | 3.3. Gyógyszerengedélyezés |
 
-| 13. | Klinikai gyógyszerészet | Kórházi-klinikai szakgyógyszerész |
+| Farmakovigilancia | 3.4. Farmakovigilancia |
 
-| 14. | Minőségbiztosítás | Minőségbiztosítás |
+| Nem klinikai és klinikai gyógyszerkutatás, farmakológia | 3.5. Nem klinikai és klinikai gyógyszerkutatás, farmakológia |
+
+| Hatóanyagkutatás és gyógyszerkémia | 3.6. Hatóanyagkutatás és gyógyszerkémia; Gyógyszerkémia |
 
 8. melléklet a 22/2012. (IX. 14.) EMMI rendelethez
 

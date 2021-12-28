@@ -1,4 +1,4 @@
-10. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^38]
+10. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^45]
 
 ## Egyéb egészségügyi felsőfokú szakirányú szakképzési programok
 
@@ -182,4 +182,4 @@ e) 6 hó molekuláris genetikai tárgyú tudományos projekt
 
 A kötelező gyakorlat egyetemi klinikai kémiai/biokémiai intézetben vagy az egyetem által a szakirányú szakképzésbe bevont diagnosztikai laboratóriumban végezhető el.
 
-[^38]: A 10. melléklet a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^45]: A 10. melléklet a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés e) pontja szerint módosított szöveg.

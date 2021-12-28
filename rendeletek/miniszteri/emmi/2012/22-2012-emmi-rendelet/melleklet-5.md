@@ -1,4 +1,4 @@
-5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^36]
+5. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^42]
 
 ## Gyógyszerészi alap-szakképzési programok
 
@@ -30,33 +30,29 @@ h) a gyógyszertári minőségbiztosítás alapjai, farmakovigilancia,
 
 i) vezetési alapismeretek.
 
-1.1.2.2. 24 hó szakgyakorlati képzés:
+1.1.2.2. 24 hó szakgyakorlati képzés: közforgalmú gyógyszertárban, tutor irányítása mellett, amely idő alatt elméleti képzés az alábbi területeken
 
-a) Elméleti képzés:
+a) a gyógyszertárvezetéssel, -működtetéssel kapcsolatos jogi ismeretek, beleértve a vállalkozások jogi szabályozását, a pénzügyi, adózási, számviteli, munkajogi szabályokat,
 
-aa) a gyógyszertárvezetéssel, - működtetéssel kapcsolatos jogi ismeretek, beleértve a vállalkozások jogi szabályozását, a pénzügyi, adózási, számviteli, munkajogi szabályokat,
+b) a gyógyszertárvezetés gyógyszerész-szakmai vonatkozásai,
 
-ab) a gyógyszertárvezetés gyógyszerész-szakmai vonatkozásai,
+c) mikro- és makroökonómiai ismeretek, a gyógyszerellátás finanszírozása,
 
-ac) mikro- és makroökonómiai ismeretek, a gyógyszerellátás finanszírozása,
+d) a gyógyszertár-működtetés, vállalkozás-irányítás gazdasági vonatkozásai,
 
-ad) a gyógyszertár-működtetés, vállalkozás-irányítás gazdasági vonatkozásai,
+e) vezetési, szervezési menedzsment ismeretek, konfliktusmenedzsment, HR,
 
-ae) vezetési, szervezési menedzsment ismeretek, konfliktusmenedzsment, HR,
+f) gyógyszertári minőségügyi rendszerek kialakítása és irányítása,
 
-af) gyógyszertári minőségügyi rendszerek kialakítása és irányítása,
+g) gyógyszertári marketing tervezése és irányítása,
 
-ag) gyógyszertári marketing tervezése és irányítása,
+h) logisztika, készletgazdálkodás,
 
-ah) logisztika, készletgazdálkodás.
+i) gyakorlati gyógyszerterápiás ismeretek
 
-b) Szakgyakorlati képzés: közforgalmú gyógyszertárban, tutor irányítása mellett.
+1.1.3. Szakvizsgára bocsátás egyéb feltételei: –
 
-1.1.3. Szakvizsgára bocsátás egyéb feltételei:
-
-–
-
-1.2. Gyógyszerészi gondozás
+1.2. Gyógyszerészi gondozás és farmakológia
 
 1.2.1. Képzési idő: 36 hónap
 
@@ -84,41 +80,55 @@ i) vezetési alapismeretek.
 
 1.2.2.2. 24 hónap szakgyakorlati képzés: gondozási tevékenységet végző közforgalmú gyógyszertárban, tutor irányítása mellett, ebben elméleti képzés az alábbi területeken:
 
-a) a gyógyszerészi gondozás jogi vonatkozásai,
+a) korszerű elméleti és gyakorlati ismeretek a farmakológiában,
 
-b) farmakoterápia menedzsment,
+b) multidiszciplináris farmakológia (a belgyógyászat, geriátria, csecsemő-gyermekgyógyászat, reumatológia, neurológia-pszichiátria, urológia, bőrgyógyászat, szülészet-nőgyógyászat, szemészet, fül-orr-gégészet, hematológia-onkológia, infektológia-immunológia területén),
 
-c) multidiszciplináris farmakológia (a belgyógyászat, geriátria, csecsemő-gyermekgyógyászat, reumatológia, neurológia-pszichiátria, urológia, bőrgyógyászat, szülészet-nőgyógyászat, szemészet, fül-orr-gégészet, hematológia-onkológia, infektológia-immunológia területén),
+c) gyógyszeres terápiák klinikai szempontú menedzselése,
 
-d) gyógyszeres terápiák klinikai szempontú menedzselése,
+d) toxikológiai ismeretek,
 
-e) gondozási tevékenységek a meglévő protokolloknak megfelelően,
+e) a gyógyszeres terápia korszerű megoldásai,
 
-f) betegek egészség-státuszának felmérése,
+f) a gyógyszerészi gondozás jogi vonatkozásai
 
-g) gyógyszeres kezelési tervek elkészítése,
+g) farmakoterápia menedzsment és dokumentálása,
 
-h) a prevencióval összefüggő, edukációs ismeretek,
+h) gondozási tevékenységek a meglévő protokolloknak megfelelően,
 
-i) a farmakoterápia menedzsment dokumentálása,
+i) betegek egészség-státuszának felmérése,
 
-j) gyógyszerészi gondozáshoz kapcsolódó laboratóriumi vizsgálatok (vércukor, koleszterin meghatározás, csontsűrűség vizsgálat, a bőr típusának és hidratáltságának meghatározása stb.),
+j) gyógyszeres kezelési tervek elkészítése,
 
-k) műszerek és módszerek kalibrálása, validálása,
+k) a prevencióval összefüggő, edukációs ismeretek,
 
-l) kommunikációs ismeretek.
+l) gyógyszerészi gondozáshoz kapcsolódó laboratóriumi vizsgálatok (vércukor, koleszterin meghatározás, csontsűrűség vizsgálat, a bőr típusának és hidratáltságának meghatározása stb.),
 
-1.2.3. Szakvizsgára bocsátás egyéb feltételei:
+m) a farmakognózia aktuális kérdései, fitokémia, fitoanalitika, fitotechnológia,
 
-–
+n) természetes gyógymódok és a fitoterápia alapjai,
 
-1.3. Gyógyszerkészítés
+o) a gyógynövények és növényi hatóanyagok farmakológiája és terápiája,
+
+p) fitoterápiás készítmények,
+
+q) mérgező növények, növényi mérgezések,
+
+r) étrendkiegészítők
+
+s) műszerek és módszerek kalibrálása, validálása,
+
+sz) kommunikációs ismeretek.
+
+1.2.3. Szakvizsgára bocsátás egyéb feltételei: –
+
+1.3. Gyógyszerügyi szakigazgatás, minőségbiztosítás
 
 1.3.1. Képzési idő: 36 hónap
 
 1.3.2. Képzési program:
 
-1.3.2.1. 12 hó törzsképzési program: közforgalmú gyógyszertári gyakorlat, amely idő alatt elméleti képzés a következő területeken:
+1.3.2.1. 12 hó törzsképzési program: közforgalmú gyógyszertári gyakorlat tutor irányítása mellett, vagy a gyógyszerellátás oktatási, ellátási, felügyeleti szerveinél, intézményeinél, amely idő alatt elméleti képzés a következő területeken:
 
 a) a közforgalmú gyógyszerellátás alapjai, tevékenységi körök a közforgalmú gyógyszertárakban,
 
@@ -138,151 +148,7 @@ h) a gyógyszertári minőségbiztosítás alapjai, farmakovigilancia,
 
 i) vezetési alapismeretek
 
-1.3.2.2. 24 hó szakgyakorlati képzés: magisztrális gyógyszerkészítést folytató közforgalmú gyógyszertárban, tutor irányítása mellett, ebben elméleti képzés az alábbi területeken:
-
-a) a korszerű gyógyszertechnológia feladatai,
-
-b) gyógyszerformák és technológiai műveletek fejlesztése,
-
-c) stabilitás, biofarmácia, farmakokinetika,
-
-d) terápiás rendszerek (szabályozott gyógyszerleadás),
-
-e) interakciók,
-
-f) egyénre szabott magisztrális összetételek előállítása,
-
-g) kozmetikai készítmények fejlesztése és előállítása,
-
-h) bőrgyógyászati és kozmetikai alapismeretek,
-
-i) az egyes gyógyszerformák készítésének farmakológiai vonatkozásai
-
-1.3.3. Szakvizsgára bocsátás egyéb feltételei:
-
-–
-
-1.4. Gyógyszertári minőségbiztosítás
-
-1.4.1. Képzési idő: 36 hónap
-
-1.4.2. Képzési program:
-
-1.4.2.1. 12 hó törzsképzési program: közforgalmú gyógyszertári gyakorlat, amely idő alatt elméleti képzés a következő területeken:
-
-a) a közforgalmú gyógyszerellátás alapjai, tevékenységi körök a közforgalmú gyógyszertárakban,
-
-b) a gyógyszerpolitika alapjai, a gyógyszerügyi szakigazgatás feladatai,
-
-c) a gyógyszerügy finanszírozása, támogatáspolitikai alapok,
-
-d) a gyógyszertári gazdálkodás alapjai,
-
-e) jogi alapismeretek,
-
-f) népegészségügyi és prevenciós ismeretek,
-
-g) kommunikációs alapok, a beteg-együttműködés,
-
-h) a gyógyszertári minőségbiztosítás alapjai, farmakovigilancia,
-
-i) vezetési alapismeretek
-
-1.4.2.2. 24 hó szakgyakorlati képzés minőségbiztosítási rendszerrel rendelkező közforgalmú gyógyszertárban, tutor irányítása mellett, ebben elméleti képzés az alábbi területeken:
-
-a) minőségbiztosítási alapok, rendszerek, minőségfejlesztési módszerek és technikák,
-
-b) minőségügyi rendszerek az egészségügyben és a gyógyszerügyben,
-
-c) a helyes gyógyszertári gyakorlat (GPP) elvei és feladatai,
-
-d) a gyógyszertár belső minőségügyi rendszere,
-
-e) a gyógyszertári munkafolyamatok minőségbiztosítása,
-
-f) a receptúrai gyógyszerkészítés minőségbiztosítása,
-
-g) az expediálás minőségbiztosítása,
-
-h) a rendelés, áruátvétel, készletgazdálkodás, raktározás, impleálás stb. minőségbiztosítása,
-
-i) dokumentáció
-
-1.4.3. Szakvizsgára bocsátás egyéb feltételei:
-
-–
-
-1.5. Fitoterápia
-
-1.5.1. Képzési idő: 36 hónap
-
-1.5.2. Képzési program:
-
-1.5.2.1. 12 hó törzsképzési program: közforgalmú gyógyszertári gyakorlat, amely idő alatt elméleti képzés a következő területeken:
-
-a) a közforgalmú gyógyszerellátás alapjai, tevékenységi körök a közforgalmú gyógyszertárakban,
-
-b) a gyógyszerpolitika alapjai, a gyógyszerügyi szakigazgatás feladatai,
-
-c) a gyógyszerügy finanszírozása, támogatáspolitikai alapok,
-
-d) a gyógyszertári gazdálkodás alapjai,
-
-e) jogi alapismeretek,
-
-f) népegészségügyi és prevenciós ismeretek,
-
-g) kommunikációs alapok, a beteg-együttműködés,
-
-h) a gyógyszertári minőségbiztosítás alapjai, farmakovigilancia,
-
-i) vezetési alapismeretek
-
-1.5.2.2. 24 hó szakgyakorlati képzés: közforgalmú gyógyszertárban, tutor irányítása mellett, ebben elméleti képzés az alábbi területeken:
-
-a) a farmakognózia aktuális kérdései, fitokémia, fitoanalitika, fitotechnológia,
-
-b) természetes gyógymódok és a fitoterápia alapjai,
-
-c) a gyógynövények és növényi hatóanyagok farmakológiája és terápiája,
-
-d) fitoterápiás készítmények,
-
-e) mérgező növények, növényi mérgezések,
-
-f) étrendkiegészítők
-
-1.5.3. Szakvizsgára bocsátás egyéb feltételei:
-
-–
-
-1.6. Gyógyszerügyi szakigazgatás
-
-1.6.1. Képzési idő: 36 hónap
-
-1.6.2. Képzési program:
-
-1.6.2.1. 12 hó törzsképzési program: közforgalmú gyógyszertári gyakorlat (a gyógyszerellátás oktatási, ellátási, felügyeleti szerveinél, intézményeinél), amely idő alatt elméleti képzés a következő területeken:
-
-a) a közforgalmú gyógyszerellátás alapjai, tevékenységi körök a közforgalmú gyógyszertárakban,
-
-b) a gyógyszerpolitika alapjai, a gyógyszerügyi szakigazgatás feladatai,
-
-c) a gyógyszerügy finanszírozása, támogatáspolitikai alapok,
-
-d) a gyógyszertári gazdálkodás alapjai,
-
-e) jogi alapismeretek,
-
-f) népegészségügyi és prevenciós ismeretek,
-
-g) kommunikációs alapok, a beteg-együttműködés,
-
-h) a gyógyszertári minőségbiztosítás alapjai, farmakovigilancia,
-
-i) vezetési alapismeretek
-
-1.6.2.2. 24 hó szakgyakorlati képzés: a gyógyszerellátás oktatási, ellátási, felügyeleti szerveinél, intézményeinél, tutor irányítása mellett, ebben elméleti képzés az alábbi területeken:
+1.3.2.2. 24 hó szakgyakorlati képzés minőségbiztosítási rendszerrel rendelkező közforgalmú gyógyszertárban, illetve a gyógyszerellátás oktatási, ellátási, felügyeleti szerveinél, tutor irányítása mellett, ebben elméleti képzés az alábbi területeken:
 
 a) egészség- és gyógyszerpolitikai alapok,
 
@@ -302,55 +168,23 @@ h) igazgatási és hatósági jogkörök és feladatkörök az egészségügyben
 
 i) szervezési, vezetési ismeretek, gazdasági vállalkozási ismeretek, pszichológiai, szociológiai ismeretek
 
-1.6.3. Szakvizsgára bocsátás egyéb feltételei:
+j) minőségbiztosítási alapok, rendszerek, minőségfejlesztési módszerek és technikák,
 
-–
+k) minőségügyi rendszerek az egészségügyben és a gyógyszerügyben,
 
-1.7. Farmakológia, farmakoterápia
+l) a helyes gyógyszertári gyakorlat (GPP) elvei és feladatai,
 
-1.7.1. Képzési idő: 48 hónap
+m) a gyógyszertár belső minőségügyi rendszere,
 
-1.7.2. Képzési program:
+n) a gyógyszertári munkafolyamatok minőségbiztosítása, gyógyszertárakban,
 
-1.7.2.1. 24 hó törzsképzési program: közforgalmú gyógyszertári gyakorlat, amely idő alatt elméleti képzés a következő területeken:
+o) a receptúrai gyógyszerkészítés minőségbiztosítása,
 
-a) a közforgalmú gyógyszerellátás alapjai, tevékenységi körök a közforgalmú gyógyszertárakban,
+p) az expediálás minőségbiztosítása,
 
-b) a gyógyszerpolitika alapjai, a gyógyszerügyi szakigazgatás feladatai,
+q) a rendelés, áruátvétel, készletgazdálkodás, raktározás, impleálás stb. minőségbiztosítása,
 
-c) a gyógyszerügy finanszírozása, támogatáspolitikai alapok,
-
-d) a gyógyszertári gazdálkodás alapjai,
-
-e) jogi alapismeretek,
-
-f) népegészségügyi és prevenciós ismeretek,
-
-g) kommunikációs alapok, a beteg-együttműködés,
-
-h) a gyógyszertári minőségbiztosítás alapjai, farmakovigilancia,
-
-i) vezetési alapismeretek
-
-1.7.2.2. 24 hó szakgyakorlati képzés: közforgalmú gyógyszertárban, tutor irányítása mellett, ebben elméleti képzés az alábbi területeken:
-
-a) korszerű elméleti és gyakorlati ismeretek a farmakológiában,
-
-b) multidiszciplináris farmakológia (a belgyógyászat, geriátria, csecsemő-gyermekgyógyászat, reumatológia, neurológia-pszichiátria, urológia, bőrgyógyászat, szülészet-nőgyógyászat, szemészet, fül-orr-gégészet, hematológia-onkológia, infektológia-immunológia területén),
-
-c) gyógyszeres terápiák klinikai szempontú menedzselése,
-
-d) toxikológiai ismeretek,
-
-e) a gyógyszeres terápia korszerű megoldásai,
-
-f) a gyógyszerészi gondozás jogi vonatkozásai,
-
-g) alkalmazott farmakoterápia, esettanulmányok.
-
-1.7.3. Szakvizsgára bocsátás egyéb feltételei:
-
-–
+r) dokumentáció.
 
 2. KÓRHÁZI-KLINIKAI SZAKGYÓGYSZERÉSZET SZAKTERÜLET
 
@@ -480,9 +314,9 @@ Szakgyakorlati időszakban kötelező tanfolyamok elvégzése az egyetemek grém
 
 és az egészségügyi szakmai kollégium Klinikai és járványügyi mikrobiológiai tagozata által jóváhagyott, egyeztetett tematika szerint.
 
-3. IPARI SZAKGYÓGYSZERÉSZET SZAKTERÜLET
+3. IPARI ÉS GYÓGYSZERKUTATÁSI SZAKGYÓGYSZERÉSZET SZAKTERÜLET
 
-3.1. Gyógyszertechnológia
+3.1. Gyógyszertechnológia, készítményfejlesztés és gyártás, biológiai és növényi eredetű szerek, radiogyógyszerek
 
 3.1.1. Képzési idő: 36 hónap
 
@@ -490,25 +324,25 @@ Szakgyakorlati időszakban kötelező tanfolyamok elvégzése az egyetemek grém
 
 3.1.2.1. 12 hó törzsképzési program, ebben:
 
-a) Általános ipari gyógyszerészeti ismeretek
+a) általános ipari gyógyszerészeti ismeretek
 
 b) Innováció és iparjogvédelem
 
-c) A gyógyszerfejlesztés fázisai
+c) a gyógyszerfejlesztés fázisai, nem klinikai és klinikai gyógyszerkutatás
 
-d) Originális és generikus kutatás-fejlesztés
+d) originális és generikus kutatás-fejlesztés, innovatív gyógyszertechnológiájú hozzáadott értékű (generikus plusz) készítmények fejlesztése
 
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
+e) biológiai és biohasonló gyógyszerek fejlesztése
 
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
+f) növényi eredetű és egyéb készítmények, orvostechnikai eszközök fejlesztése
 
-g) Léptéknövelés, kritikus gyártási paraméterek
+g) hatóanyag- és készítménygyártás, a gyártás feltételrendszere
 
-h) Minőség-ellenőrzés
+h) léptéknövelés, kritikus gyártási paraméterek, validálás, folyamatellenőrzés
 
-i) Minőségbiztosítás és minőségirányítás
+i) minőség-ellenőrzés
 
-j) Validálás és folyamatellenőrzés
+j) minőségbiztosítás és minőségirányítás
 
 k) Gyógyszerengedélyezés
 
@@ -518,7 +352,7 @@ l) Farmakovigilancia
 
 a) gyógyszertechnológiai alapműveletek
 
-b) általános fejlesztés és CMC ismeretek
+b) általános fejlesztési és gyártási ismeretek
 
 c) preformulálás
 
@@ -530,21 +364,45 @@ f) gyártóüzem, léptéknövelés
 
 g) gyógyszerformák és készítmények előállítása, gyártásközi ellenőrzése
 
-h) minőség-ellenőrzés és minőségbiztosítás
+h) minőség-ellenőrzés, minőségbiztosítás és dokumentáció,
 
 i) validálás és statisztikai folyamatellenőrzés
 
 j) gyógyszerengedélyezés
 
-k) kötelező tanfolyamok, elemei: Biofarmácia és farmakokinetika, szilárd anyagok jellemzése, anyagvizsgáló módszerek, preformulálás, formulálás, segédanyagok és funkcióik, összetétel és gyártástechnológiai fejlesztés, tervezett minőség, kritikus gyártási paraméterek, minőség-ellenőrzés, gyógyszerstabilitás, csomagolástechnológia, innovatív technológiák, léptéknövelés, kísérlettervezés, folyamat-optimalizálás, gyógyszerforma vizsgálatok, gyártásközi ellenőrzés és PAT, validálás és folyamatellenőrzés, GMP, GAMP.
+k) farmakognózia és fitoterápia
+
+l) fitotechnológia, fitokémia és fitoanalitika
+
+m) gyógyszerészi biotechnológia
+
+n) bioanalitika
+
+o) immunogenicitás
+
+p) biotechnológiai gyártóüzem
+
+q) diagnosztikai és terápiás radioaktív gyógyszerek általános ismeretei
+
+r) sugárfizika, radiokémia, sugárvédelem és sugárbiológia
+
+s) radiofarmakológiai alapismeretek
+
+t) radioizotópok és jelzett vegyületek kutatása és fejlesztése
+
+u) radiogyógyszerek előállítása és minőségellenőrzése
+
+v) helyes radiogyógyszerészeti gyakorlat (GRPP)
+
+w) kötelező tanfolyamok, elemei: Biofarmácia és farmakokinetika, szilárd anyagok jellemzése, anyagvizsgáló módszerek, preformulálás, formulálás, segédanyagok és funkcióik, összetétel és gyártástechnológiai fejlesztés, biotechnológia, immunológiai gyógyszerek, emberi vérből és emberi plazmából származó gyógyszerek, biotechnológiai úton kifejlesztett gyógyszerek és típusaik, fejlett terápiás gyógyszerek, rekombináns technológia, oligonukleotidok, hibridom és monoklonális ellenanyag módszerek, innovatív és molekuláris technológiák, kivonási technológiák, bioszimilárisok és generikus gyógyszerek, biológiai egyenértékűség és hasonlóság, tervezett minőség, kritikus gyártási paraméterek, minőségbiztosítás (ISO, GMP, GRPP), minőség-ellenőrzés, gyógyszerstabilitás, csomagolástechnológia, léptéknövelés, kísérlettervezés, folyamat-optimalizálás, gyógyszerforma vizsgálatok, gyártásközi ellenőrzés és PAT, kvalifikálás, validálás és folyamatellenőrzés, GAMP, növényi alapú szerek engedélyezése, mérgező növények és növényi mérgezések, nukleáris medicina, sugárvédelem, sugárterápia, izotópdiagnosztika (hagyományos izotóp és PET/CT), radioképalkotó diagnosztika, parenterális készítmények technológiája, aszeptikus gyártás és sterilezés, gyógyszerstabilitás.
 
 3.1.3. Szakvizsgára bocsátás egyéb feltételei
 
-a) Részvétel szakvizsga előkészítő tanfolyamon.
+a) részvétel szakvizsga előkészítő tanfolyamon.
 
 b) A szakgyakorlati idő alatt az előírt számú gyártási tétel teljesítése.
 
-3.2. Gyógyszerellenőrzés
+3.2. Minőségbiztosítás és minőségellenőrzés
 
 3.2.1. Képzési idő: 36 hónap
 
@@ -552,27 +410,27 @@ b) A szakgyakorlati idő alatt az előírt számú gyártási tétel teljesíté
 
 3.2.2.1. 12 hó törzsképzési program, ebben:
 
-a) Általános ipari gyógyszerészeti ismeretek
+a) általános ipari gyógyszerészeti ismeretek
 
 b) Innováció és iparjogvédelem
 
-c) A gyógyszerfejlesztés fázisai
+c) a gyógyszerfejlesztés fázisai, nem klinikai és klinikai gyógyszerkutatás
 
-d) Originális és generikus kutatás-fejlesztés
+d) originális és generikus kutatás-fejlesztés, innovatív gyógyszertechnológiájú hozzáadott értékű (generikus plusz)készítmények fejlesztése
 
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
+e) biológiai és biohasonló gyógyszerek fejlesztése
 
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
+f) növényi eredetű és egyéb készítmények, orvostechnikai eszközök fejlesztése
 
-g) Léptéknövelés, kritikus gyártási paraméterek
+g) hatóanyag- és készítménygyártás, a gyártás feltételrendszere
 
-h) Minőség-ellenőrzés
+h) léptéknövelés, kritikus gyártási paraméterek, validálás, folyamatellenőrzés
 
-i) Minőségbiztosítás és minőségirányítás
+i) minőség-ellenőrzés
 
-j) Validálás és folyamatellenőrzés
+j) minőségbiztosítás és minőségirányítás
 
-k) Gyógyszertörzskönyvezés
+k) gyógyszerengedélyezés
 
 l) Farmakovigilancia
 
@@ -592,15 +450,17 @@ f) gyártóüzem
 
 g) gyógyszerengedélyezési adatszolgáltatás
 
-h) kötelező tanfolyamok, elemei: Gyógyszerminőség, szabványok és gyógyszerkönyvek, minőség-ellenőrzés, minőségbiztosítás, minőségirányítás, minőségbiztosítási rendszerek (GxP, ISO), GMP, GLP, gyógyszeranalitika, mikrobiológiai ellenőrzés, bioanalitika, fizikai kémiai jellemzés, szilárd anyagok jellemzése, anyagvizsgáló módszerek, gyógyszerforma vizsgálatok, gyártásközi ellenőrzés és PAT, validálás és folyamatellenőrzés, jogszabályok és irányelvek, adatkezelés, mérési eredmények kiértékelése, gyógyszerstabilitás vizsgálata.
+h) gyógyszerengedélyezés
+
+i) kötelező tanfolyamok, elemei: Gyógyszerminőség, szabványok és gyógyszerkönyvek, minőség-ellenőrzés, minőségbiztosítás, minőségirányítás, minőségbiztosítási rendszerek (GxP, ISO), GMP, GLP, GCP, GDP, gyógyszeranalitika, mikrobiológiai ellenőrzés, bioanalitika, fizikai kémiai jellemzés, szilárd anyagok jellemzése, anyagvizsgáló módszerek, gyógyszerforma vizsgálatok, gyártásközi ellenőrzés és PAT, gyógyszerellenőrzés, kvalifikálás, validálás és folyamatellenőrzés, jogszabályok és irányelvek, adatkezelés, mérési eredmények kiértékelése, gyógyszerstabilitás vizsgálata, dokumentáció, Qualified person szerepe, oktatás-képzés-továbbképzés.
 
 3.2.3. Szakvizsgára bocsátás egyéb feltételei
 
 a) részvétel szakvizsga előkészítő tanfolyamon
 
-a szakgyakorlati idő alatt előírt számú validálási feladat teljesítése.
+b) a szakgyakorlati idő alatt előírt számú validálási feladat teljesítése.
 
-3.3. Minőségbiztosítás
+3.3. Gyógyszer-engedélyezés
 
 3.3.1. Képzési idő: 36 hónap
 
@@ -608,25 +468,25 @@ a szakgyakorlati idő alatt előírt számú validálási feladat teljesítése.
 
 3.3.2.1. 12 hó törzsképzési program, ebben:
 
-a) Általános ipari gyógyszerészeti ismeretek
+a) általános ipari gyógyszerészeti ismeretek
 
 b) Innováció és iparjogvédelem
 
-c) A gyógyszerfejlesztés fázisai
+c) a gyógyszerfejlesztés fázisai, nem klinikai és klinikai gyógyszerkutatás
 
-d) Originális és generikus kutatás-fejlesztés
+d) originális és generikus kutatás-fejlesztés, innovatív gyógyszertechnológiájú hozzáadott értékű (generikus plusz) készítmények fejlesztése
 
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
+e) biológiai és biohasonló gyógyszerek fejlesztése
 
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
+f) növényi eredetű és egyéb készítmények, orvostechnikai eszközök fejlesztése
 
-g) Léptéknövelés, kritikus gyártási paraméterek
+g) hatóanyag- és készítménygyártás, a gyártás feltételrendszere
 
-h) Minőség-ellenőrzés
+h) léptéknövelés, kritikus gyártási paraméterek, validálás, folyamatellenőrzés
 
-i) Minőségbiztosítás és minőségirányítás
+i) minőség-ellenőrzés
 
-j) Validálás és folyamatellenőrzés
+j) minőségbiztosítás és minőségirányítás
 
 k) Gyógyszerengedélyezés
 
@@ -634,21 +494,27 @@ l) Farmakovigilancia
 
 3.3.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
 
-a) minőség-ellenőrzés
+a) hatósági gyógyszerszabályozás és felügyelet, jogi ismeretek
 
-b) gyártóüzem
+b) forgalomba hozatali engedélyezés és jogosultság
 
-c) gyógyszerengedélyezés
+c) gyógyszerengedélyezési eljárások (EU és nem-EU)
 
-d) kötelező tanfolyamok, elemei: Gyógyszerminőség, szabványok és gyógyszerkönyvek, minőség-ellenőrzés, minőségbiztosítás, minőségirányítás, minőségbiztosítási rendszerek (GxP, ISO), GMP, GLP, GCP, GDP, dokumentáció, Qualified person szerepe, oktatás-képzés-továbbképzés, gyógyszerellenőrzés, gyártásközi ellenőrzés és PAT, validálás és folyamatellenőrzés, jogszabályok és irányelvek, adatkezelés, mérési eredmények kiértékelése, gyógyszerstabilitás vizsgálata.
+d) gyógyszerengedélyezési dokumentáció (Module 1-5)követelményei és adatszolgáltatás
 
-3.3.3. Szakvizsgára bocsátás egyéb feltételei
+e) gyógyszerengedélyezési stratégiák
 
-a) részvétel szakvizsga előkészítő tanfolyamon
+f) módosítások, megújítás, törlés
 
-b) a szakgyakorlati idő alatt előírt számú validálási feladat teljesítése.
+g) különleges készítmények
 
-3.4. Nem klinikai és klinikai gyógyszerkutatás, farmakológia
+h) inspekciók
+
+i) kötelező tanfolyamok, elemei: Gyógyszerminőség, szabványok és gyógyszerkönyvek, minőség-ellenőrzés, minőségbiztosítás, minőségirányítás, minőségbiztosítási rendszerek (GxP, ISO), GMP, GLP, GCP, gyógyszerellenőrzés, gyógyszerészeti fejlesztés, biofarmácia, klinikai gyógyszerkutatás, farmakovigilancia, gyógyszerengedélyezési adatszolgáltatás.
+
+3.3.3. Szakvizsgára bocsátás egyéb feltételei: Részvétel szakvizsga előkészítő tanfolyamon.
+
+3.4. Farmakovigilancia
 
 3.4.1. Képzési idő: 36 hónap
 
@@ -656,31 +522,75 @@ b) a szakgyakorlati idő alatt előírt számú validálási feladat teljesíté
 
 3.4.2.1. 12 hó törzsképzési program, ebben:
 
-a) Általános ipari gyógyszerészeti ismeretek
+a) általános ipari gyógyszerészeti ismeretek
 
 b) Innováció és iparjogvédelem
 
-c) A gyógyszerfejlesztés fázisai
+c) a gyógyszerfejlesztés fázisai, nem klinikai és klinikai gyógyszerkutatás
 
-d) Originális és generikus kutatás-fejlesztés
+d) originális és generikus kutatás-fejlesztés, innovatív gyógyszertechnológiájú hozzáadott értékű (generikus plusz)készítmények fejlesztése
 
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
+e) biológiai és biohasonló gyógyszerek fejlesztése
 
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
+f) növényi eredetű és egyéb készítmények, orvostechnikai eszközök fejlesztése
 
-g) Léptéknövelés, kritikus gyártási paraméterek
+g) hatóanyag- és készítménygyártás, a gyártás feltételrendszere
 
-h) Minőség-ellenőrzés
+h) léptéknövelés, kritikus gyártási paraméterek, validálás, folyamatellenőrzés
 
-i) Minőségbiztosítás és minőségirányítás
+i) minőség-ellenőrzés
 
-j) Validálás és folyamatellenőrzés
+j) minőségbiztosítás és minőségirányítás
 
 k) Gyógyszerengedélyezés
 
 l) Farmakovigilancia
 
 3.4.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
+
+a) általános farmakovigilancia alapképzés
+
+b) gyógyszerbiztonsági feladatok a forgalmazás során
+
+c) helyes farmakovigilancia gyakorlat
+
+d) kötelező tanfolyamok elemei: Farmakológia és mellékhatás felismerés, toxikológiai ismeretek, biztonság, előny-kockázat értékelés, nemkívánatos esemény és mellékhatás, gyógyszeres terápiák klinikai szempontú menedzselése, alkalmazott farmakoterápia, speciális gyógyszeralkalmazási körülmények, események súlyossági kritériumai, adatgyűjtés és elemzés, szignáldetekció, szignálértékelés, pre-marketing klinikai vizsgálatok, gyógyszerengedélyezés, alkalmazási előírás/betegtájékoztató, krízismenedzsment és kommunikáció, farmakovigilancia minőségbiztosítási rendszer felépítése, mellékhatás bejelentések, források, kommunikációs csatornák, egyedi gyógyszerbiztonsági esetértékelés, utánkövetés, időszakos biztonságossági jelentések, összefoglaló és elektronikus jelentés, EudraVigilance rendszer, klinikai vizsgálatok gyógyszerbiztonsági szempontjai, kockázatcsökkentés, kockázatkezelési terv, minőségbiztosítás, audit, dokumentáció, inspekció, laboratóriumi vizsgálatok és adatok ismerete.
+
+3.4.3. Szakvizsgára bocsátás egyéb feltételei: Részvétel szakvizsga előkészítő tanfolyamon.
+
+3.5. Nem klinikai és klinikai gyógyszerkutatás, farmakológia
+
+3.5.1. Képzési idő: 36 hónap
+
+3.5.2. Képzési program:
+
+3.5.2.1. 12 hó törzsképzési program, ebben:
+
+a) általános ipari gyógyszerészeti ismeretek
+
+b) Innováció és iparjogvédelem
+
+c) a gyógyszerfejlesztés fázisai, nem klinikai és klinikai gyógyszerkutatás
+
+d) originális és generikus kutatás-fejlesztés, innovatív gyógyszertechnológiájú hozzáadott értékű (generikus plusz) készítmények fejlesztése
+
+e) biológiai és biohasonló gyógyszerek fejlesztése
+
+f) növényi eredetű és egyéb készítmények, orvostechnikai eszközök fejlesztése
+
+g) hatóanyag- és készítménygyártás, a gyártás feltételrendszere
+
+h) léptéknövelés, kritikus gyártási paraméterek, validálás, folyamatellenőrzés
+
+i) minőség-ellenőrzés
+
+j) minőségbiztosítás és minőségirányítás
+
+k) Gyógyszerengedélyezés
+
+l) Farmakovigilancia
+
+3.5.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
 
 a) experimentális farmakológia
 
@@ -700,69 +610,11 @@ h) klinikai farmakológia
 
 i) klinikai vizsgálat monitorozás
 
-j) kötelező tanfolyamok elemei: Szerkezet és hatás összefüggései, Helyes Laboratóriumi Gyakorlat (GLP), Helyes Klinikai Gyakorlat (GCP), klinikai gyógyszervizsgálatok fázisai, biológiai hasznosíthatóság és bioekvivalencia, bioszimilaritás, klinikai vizsgálatok szabályozása és engedélyezése, vizsgálati protokollok, farmakovigilancia, statisztika (vizsgálat tervezés/eredmények kiértékelése), törzskönyvezési adatszolgáltatás.
+j) kötelező tanfolyamok elemei: Szerkezet és hatás összefüggései, Helyes Laboratóriumi Gyakorlat (GLP), Helyes Klinikai Gyakorlat (GCP), klinikai gyógyszervizsgálatok fázisai, biológiai hasznosíthatóság és bioekvivalencia, bioszimilaritás, klinikai vizsgálatok szabályozása és engedélyezése, vizsgálati protokollok, farmakovigilancia, statisztika (vizsgálat tervezés/eredmények kiértékelése), törzskönyvezési adatszolgáltatás, Helyes Dokumentációs Gyakorlat (GDocP).
 
-3.4.3. Szakvizsgára bocsátás egyéb feltételei
+3.5.3. Szakvizsgára bocsátás egyéb feltételei: részvétel szakvizsga előkészítő tanfolyamon
 
-Részvétel szakvizsga előkészítő tanfolyamon.
-
-3.5. Gyógyszer-engedélyezés
-
-3.5.1. Képzési idő: 36 hónap
-
-3.5.2. Képzési program:
-
-3.5.2.1. 12 hó törzsképzési program, ebben:
-
-a) Általános ipari gyógyszerészeti ismeretek
-
-b) Innováció és iparjogvédelem
-
-c) A gyógyszerfejlesztés fázisai
-
-d) Originális és generikus kutatás-fejlesztés
-
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
-
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
-
-g) Léptéknövelés, kritikus gyártási paraméterek
-
-h) Minőség-ellenőrzés
-
-i) Minőségbiztosítás és minőségirányítás
-
-j) Validálás és folyamatellenőrzés
-
-k) Gyógyszerengedélyezés
-
-l) Farmakovigilancia
-
-3.5.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
-
-a) hatósági gyógyszerszabályozás és felügyelet, jogi ismeretek
-
-b) forgalomba hozatali engedélyezés és jogosultság
-
-c) gyógyszerengedélyezési eljárások (EU és nem-EU)
-
-d) gyógyszerengedélyezési dokumentáció (Module 1-5) követelményei és adatszolgáltatás
-
-e) gyógyszerengedélyezési stratégiák
-
-f) módosítások, megújítás, törlés
-
-g) különleges készítmények
-
-h) inspekciók
-
-i) kötelező tanfolyamok, elemei: Gyógyszerminőség, szabványok és gyógyszerkönyvek, minőség-ellenőrzés, minőségbiztosítás, minőségirányítás, minőségbiztosítási rendszerek (GxP, ISO), GMP, GLP, GCP, gyógyszerellenőrzés, gyógyszerészeti fejlesztés, biofarmácia, klinikai gyógyszerkutatás, farmakovigilancia, gyógyszerengedélyezési adatszolgáltatás.
-
-3.5.3. Szakvizsgára bocsátás egyéb feltételei
-
-Részvétel szakvizsga előkészítő tanfolyamon.
-
-3.6. Farmakovigilancia
+3.6. Hatóanyag-kutatás és gyógyszerkémia
 
 3.6.1. Képzési idő: 36 hónap
 
@@ -770,77 +622,31 @@ Részvétel szakvizsga előkészítő tanfolyamon.
 
 3.6.2.1. 12 hó törzsképzési program, ebben:
 
-a) Általános ipari gyógyszerészeti ismeretek
+a) általános ipari gyógyszerészeti ismeretek
 
 b) Innováció és iparjogvédelem
 
-c) A gyógyszerfejlesztés fázisai
+c) a gyógyszerfejlesztés fázisai, nem klinikai és klinikai gyógyszerkutatás
 
-d) Originális és generikus kutatás-fejlesztés
+d) originális és generikus kutatás-fejlesztés, innovatív gyógyszertechnológiájú hozzáadott értékű (generikus plusz) készítmények fejlesztése
 
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
+e) biológiai és biohasonló gyógyszerek fejlesztése
 
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
+f) növényi eredetű és egyéb készítmények, orvostechnikai eszközök fejlesztése
 
-g) Léptéknövelés, kritikus gyártási paraméterek
+g) hatóanyag- és készítménygyártás, a gyártás feltételrendszere
 
-h) Minőség-ellenőrzés
+h) léptéknövelés, kritikus gyártási paraméterek, validálás, folyamatellenőrzés
 
-i) Minőségbiztosítás és minőségirányítás
+i) minőség-ellenőrzés
 
-j) Validálás és folyamatellenőrzés
+j) minőségbiztosítás és minőségirányítás
 
 k) Gyógyszerengedélyezés
 
 l) Farmakovigilancia
 
 3.6.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
-
-a) általános farmakovigilancia alapképzés
-
-b) gyógyszerbiztonsági feladatok a forgalmazás során
-
-c) Helyes Farmakovigilancia Gyakorlat
-
-d) kötelező tanfolyamok, elemei: Farmakológia és mellékhatás felismerés, biztonság, előny-kockázat értékelés, pre-marketing klinikai vizsgálatok, gyógyszerengedélyezés, krízis menedzsment és kommunikáció, farmakovigilancia minőségbiztosítási rendszer felépítése, mellékhatás bejelentések, források, kommunikációs csatornák, egyedi esetértékelés, utánkövetés, összefoglaló és elektronikus jelentés, EudraVigilance rendszer, klinikai vizsgálatok gyógyszerbiztonsági szempontjai, kockázatkezelési terv részei, minőségbiztosítás képzés, audit, dokumentáció, inspekció.
-
-3.6.3. Szakvizsgára bocsátás egyéb feltételei
-
-Részvétel szakvizsga előkészítő tanfolyamon.
-
-3.7. Hatóanyagkutatás és gyógyszerkémia
-
-3.7.1. Képzési idő: 36 hónap
-
-3.7.2. Képzési program:
-
-3.7.2.1. 12 hó törzsképzési program, ebben:
-
-a) Általános ipari gyógyszerészeti ismeretek
-
-b) Innováció és iparjogvédelem
-
-c) A gyógyszerfejlesztés fázisai
-
-d) Originális és generikus kutatás-fejlesztés
-
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
-
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
-
-g) Léptéknövelés, kritikus gyártási paraméterek
-
-h) Minőség-ellenőrzés
-
-i) Minőségbiztosítás és minőségirányítás
-
-j) Validálás és folyamatellenőrzés
-
-k) Gyógyszerengedélyezés
-
-l) Farmakovigilancia
-
-3.7.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
 
 a) szintetikus szerves kémia és preparatív gyógyszerkémia
 
@@ -854,170 +660,6 @@ e) gyógyszerkutatási programban való részvétel
 
 f) kötelező tanfolyamok, elemei: Szerkezetvizsgáló módszerek, NMR, gyógyszeranalitika, molekuláris célpont azonosítás, farmakokinetikai és ADMEtox vizsgálatok, bioanalitika, bioinformatika, gyógyszertervezés, fizikai-kémiai jellemzés.
 
-3.7.3. Szakvizsgára bocsátás egyéb feltételei
+3.6.3. Szakvizsgára bocsátás egyéb feltételei: részvétel szakvizsga előkészítő tanfolyamon.
 
-Részvétel szakvizsga előkészítő tanfolyamon.
-
-3.8. Növényi alapú szerek fejlesztése és előállítása, farmakognózia
-
-3.8.1. Képzési idő: 36 hónap
-
-3.8.2. Képzési program:
-
-3.8.2.1. 12 hó törzsképzési program, ebben:
-
-a) Általános ipari gyógyszerészeti ismeretek
-
-b) Innováció és iparjogvédelem
-
-c) A gyógyszerfejlesztés fázisai
-
-d) Originális és generikus kutatás-fejlesztés
-
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
-
-f) Hatóanyag- és készítménygyártás, a gyártás feltételrendszere
-
-g) Léptéknövelés, kritikus gyártási paraméterek
-
-h) Minőség-ellenőrzés
-
-i) Minőségbiztosítás és minőségirányítás
-
-j) Validálás és folyamatellenőrzés
-
-k) Gyógyszerengedélyezés
-
-l) Farmakovigilancia
-
-3.8.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
-
-a) farmakognózia
-
-b) fitotechnológia
-
-c) fitokémia és fitoanalitika
-
-d) fitoterápia
-
-e) minőség-ellenőrzés és minőségbiztosítás
-
-f) kötelező tanfolyamok, elemei: Minőség-ellenőrzés, minőségbiztosítás, biotechnológia, növényi alapú szerek engedélyezése, mérgező növények és növényi mérgezések, kivonási technológiák, léptéknövelés, folyamat optimalizálás, gyártásközi ellenőrzés és PAT, validálás és folyamatellenőrzés, GMP.
-
-3.8.3. Szakvizsgára bocsátás egyéb feltételei
-
-Részvétel szakvizsga előkészítő tanfolyamon.
-
-3.9. Biológiai gyógyszerek fejlesztése és előállítása, gyógyszer-biotechnológia
-
-3.9.1. Képzési idő: 36 hónap
-
-3.9.2. Képzési program:
-
-3.9.2.1. 12 hó törzsképzési program, ebben:
-
-a) Általános ipari gyógyszerészeti ismeretek
-
-b) Innováció és iparjogvédelem
-
-c) A gyógyszerfejlesztés fázisai
-
-d) Originális és generikus kutatás-fejlesztés
-
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
-
-f) Hatóanyag és készítmény gyártás, a gyártás feltételrendszere
-
-g) Léptéknövelés, kritikus gyártási paraméterek
-
-h) Minőség-ellenőrzés
-
-i) Minőségbiztosítás és minőségirányítás
-
-j) Validálás és folyamatellenőrzés
-
-k) Gyógyszerengedélyezés
-
-l) Farmakovigilancia
-
-3.9.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
-
-a) általános fejlesztés és CMC ismeretek
-
-b) gyógyszerészi biotechnológia
-
-c) bioanalitika
-
-d) immunogenicitás
-
-e) biotechnológiai gyártóüzem
-
-f) minőség-ellenőrzés és minőségbiztosítás
-
-g) biologikumok és bioszimiláris gyógyszerek fejlesztéséhez szükséges klinikai vizsgálatok
-
-h) kötelező tanfolyamok, elemei: Biofarmácia és farmakokinetika, biológiai eredetű gyógyszerek típusai, immunológiai gyógyszerek, emberi vérből és emberi plazmából származó gyógyszerek, biotechnológiai úton kifejlesztett gyógyszerek, fejlett terápiás gyógyszerek, rekombináns technológia, oligonukleotidok, hibridom és monoklonális ellenanyag módszerek, bioszimilárisok és generikus gyógyszerek, preformulálás, formulálás, minőség-ellenőrzés, gyógyszerstabilitás, innovatív és molekuláris gyógyszertechnológia, léptéknövelés, gyártásközi ellenőrzés, validálás és folyamatellenőrzés, GMP, biológiai egyenértékűség és hasonlóság.
-
-3.9.3. Szakvizsgára bocsátás egyéb feltételei
-
-Részvétel szakvizsga előkészítő tanfolyamon.
-
-3.10. Radiogyógyszerészet
-
-3.10.1. Képzési idő: 36 hónap
-
-3.10.2. Képzési program:
-
-3.10.2.1. 12 hó törzsképzési program, ebben:
-
-a) Általános ipari gyógyszerészeti ismeretek
-
-b) Innováció és iparjogvédelem
-
-c) A gyógyszerfejlesztés fázisai
-
-d) Originális és generikus kutatás-fejlesztés
-
-e) Innovatív gyógyszertechnológiájú készítmények fejlesztése
-
-f) Hatóanyag és készítmény gyártás, a gyártás feltételrendszere
-
-g) Léptéknövelés, kritikus gyártási paraméterek
-
-h) Minőség-ellenőrzés
-
-i) Minőségbiztosítás és minőségirányítás
-
-j) Validálás és folyamatellenőrzés
-
-k) Gyógyszerengedélyezés
-
-l) Farmakovigilancia
-
-3.10.2.2. 24 hó szakgyakorlati képzés tutor irányítása mellett, ebben:
-
-a) diagnosztikai és terápiás radioaktív gyógyszerek általános ismeretei
-
-b) sugárfizika alapjai
-
-c) sugárvédelem és sugárbiológia
-
-d) radiokémia
-
-e) radiofarmakológia
-
-f) radioizotópok és jelzett vegyületek kutatása és fejlesztése
-
-g) radiogyógyszerek előállítása és minőségellenőrzése
-
-h) minőségbiztosítás és dokumentáció
-
-i) Helyes Radiogyógyszerészeti Gyakorlat (GRPP)
-
-j) kötelező tanfolyamok, elemei: nukleáris medicina, sugárvédelem, sugárterápia, izotóp-diagnosztika (hagyományos izotóp és PET/CT), radioképalkotó diagnosztika, minőségbiztosítás (ISO, GMP, GRPP), formulálás, parenterális készítmények technológiája, aszeptikus gyártás és sterilezés, gyártás és folyamatellenőrzés, gyógyszerstabilitás.
-
-3.10.3. Szakvizsgára bocsátás egyéb feltételei
-
-Részvétel szakvizsga előkészítő tanfolyamon.
-
-[^36]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^42]: Az 5. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (4) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 86. § d) pontja, a 38/2018. (X. 31.) EMMI rendelet 18. §-a, az 57/2021. (XII. 27.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

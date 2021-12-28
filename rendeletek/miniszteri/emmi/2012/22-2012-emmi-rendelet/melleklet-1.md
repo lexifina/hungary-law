@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^30]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^36]
 
 1. Szakorvosi alap szakképesítések
 
@@ -230,47 +230,31 @@
 
 |  | A | B | C | D | E |
 
-| 1. | Szakirányok | Szakképesítés megnevezése | Képzési idő | Törzs-képzés | Szak. gyak. |
+| 1. | Szakterület | Szakképesítés megnevezése | Képzési idő | Törzsképzés | Szak. gyak. |
 
-| 2. | 1. Gyógyszer-ellátási szak-gyógyszerészet | 1.1. Gyógyszertár üzemeltetés, vezetés | 36 hó | 12 hó | 24 hó |
+| 2. | 1. Gyógyszer- ellátási szak- gyógyszerészet | 1.1. Gyógyszertár üzemeltetés, vezetés | 36 hó | 12 hó | 24 hó |
 
-| 3. | 1.2. Gyógyszerészi gondozás | 36 hó | 12 hó | 24 hó |
+| 3. | 1.2. Gyógyszerészi gondozás, farmakológia | 36 hó | 12 hó | 24 hó |
 
-| 4. | 1.3. Gyógyszerkészítés | 36 hó | 12 hó | 24 hó |
+| 4. | 1.3. Gyógyszerügyi szakigazgatás, minőségbiztosítás | 36 hó | 12 hó | 24 hó |
 
-| 5. | 1.4. Gyógyszertári minőségbiztosítás | 36 hó | 12 hó | 24 hó |
+| 5. | 2. Kórházi- klinikai szak- gyógyszerészet | 2.1. Kórházi-klinikai szakgyógyszerészet | 36 hó | 12 hó | 24 hó |
 
-| 6. | 1.5. Fitoterápia | 48 hó | 12 hó | 24 hó |
+| 6. | 2.2. Klinikai laboratóriumi gyógyszerészet | 58 hó | 24 hó | 34 hó |
 
-| 7. | 1.6. Gyógyszerügyi szakigazgatás | 36 hó | 12 hó | 24 hó |
+| 7. | 2.3. Klinikai mikrobiológiai laboratóriumi gyógyszerészet | 60 hó | 24 hó | 36 hó |
 
-| 8. | 1.7. Farmakológia, farmakoterápia | 36 hó | 24 hó | 24 hó |
+| 8. | 3. Ipari szak- gyógyszerészet | 3.1. Gyógyszertechnológia, készítményfejlesztés és gyártás, biológiai és növényi eredetű gyógyszerek, radiogyógyszerek | 36 hó | 12 hó | 24 hó |
 
-| 9. | 2. Kórházi-klinikai szak-gyógyszerészet | 2.1. Kórházi-klinikai szakgyógyszerészet | 36 hó | 12 hó | 24 hó |
+| 9. | 3.2. Minőségbiztosítás és minőségellenőrzés | 36 hó | 12 hó | 24 hó |
 
-| 10. | 2.2. Klinikai laboratóriumi gyógyszerészet | 58 hó | 24 hó | 34 hó |
+| 10. | 3.3. Gyógyszer-engedélyezés | 36 hó | 12 hó | 24 hó |
 
-| 11. | 2.3. Klinikai mikrobiológiai laboratóriumi gyógyszerészet | 60 hó | 24 hó | 36 hó |
+| 11. | 3.4. Farmakovigilancia | 36 hó | 12 hó | 24 hó |
 
-| 12. | 3. Ipari szak-gyógyszerészet | 3.1. Gyógyszertechnológia | 36 hó | 12 hó | 24 hó |
+| 12. | 3.5. Nem klinikai és klinikai gyógyszerkutatás, farmakológia | 36 hó | 12 hó | 24 hó |
 
-| 13. | 3.2. Gyógyszerellenőrzés | 36 hó | 12 hó | 24 hó |
-
-| 14. | 3.3. Minőségbiztosítás | 36 hó | 12 hó | 24 hó |
-
-| 15. | 3.4. Nem klinikai és klinikai gyógyszerkutatás, farmakológia | 36 hó | 12 hó | 24 hó |
-
-| 16. | 3.5. Gyógyszer-engedélyezés | 36 hó | 12 hó | 24 hó |
-
-| 17. | 3.6. Farmakovigilancia | 36 hó | 12 hó | 24 hó |
-
-| 18. | 3.7. Hatóanyagkutatás és gyógyszerkémia | 36 hó | 12 hó | 24 hó |
-
-| 19. | 3.8. Növényi alapú szerek fejlesztése és előállítása, farmakognózia | 36 hó | 12 hó | 24 hó |
-
-| 20. | 3.9. Biológiai gyógyszerek fejlesztése és előállítása, gyógyszer-biotechnológia | 36 hó | 12 hó | 24 hó |
-
-| 21. | 3.10. Radiogyógyszerészet | 36 hó | 12 hó | 24 hó |
+| 13. | 3.6. Hatóanyagkutatás és gyógyszerkémia | 36 hó | 12 hó | 24 hó |
 
 5. Szakgyógyszerészi ráépített szakképesítések
 
@@ -338,4 +322,4 @@
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^30]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése szerint módosított szöveg.
