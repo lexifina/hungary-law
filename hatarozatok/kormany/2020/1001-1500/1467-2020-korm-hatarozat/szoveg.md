@@ -2,7 +2,11 @@
 
 1.1. egyetért azzal, hogy a koronavírus világjárvány negatív gazdasági hatásainak mérséklése érdekében a hazai turizmus, illetve vendéglátás ágazatban működő mikro-, kis- és középvállalkozások likviditási nehézségeinek enyhítése érdekében Széchenyi Turisztikai Kártya Programot indítson;
 
-1.2. a Széchenyi Turisztikai Kártya Program keretében nyújtott hitelekhez kamattámogatást, kezelési költségtámogatást, kezességi díjtámogatást és egyéb, pénzügyi intézmény által megelőlegezett költségtámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó hiteldíj (nettó ügyleti kamat, nettó kezelési költség, készfizető kezességvállalás nettó díja és egyéb pénzügyi intézmény által megelőlegezett költség) nem haladhatja meg a 0%-ot, az 1.3. alpontban meghatározott kezességi díjtámogatás kivételével. Kezességi díjtámogatás csak közvetlen állami viszontgarancia mellett vállalt készfizető kezességvállalás díjához kapcsolódhat;
+1.2.[^2] a Széchenyi Turisztikai Kártya Program keretében nyújtott hitelekhez kamattámogatást, kezelési költségtámogatást, kezességi díjtámogatást és egyéb, pénzügyi intézmény által megelőlegezett költségtámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat nem haladhatja meg az 0,5%-ot, a nettó kezelési költség, készfizető kezességvállalás nettó díja és egyéb pénzügyi intézmény által megelőlegezett költség pedig nem haladhatja meg a 0,0%-ot, az 1.3. alpontban meghatározott kezességi díjtámogatás kivételével. Kezességi díjtámogatás csak közvetlen állami viszontgarancia mellett vállalt készfizető kezességvállalás díjához kapcsolódhat;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2022. január 1.
 
 1.3. a Széchenyi Turisztikai Kártya Program keretében megkötött hitelszerződésekhez az Európai Bizottság a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatását célzó, állami támogatási intézkedésekre vonatkozó ideiglenes keret módosításáról szóló (2020/C 112 I/01) bizottsági közleménye alapján vállalt készfizető kezességvállalás díjához évente 1%-os kezességi díjtámogatást biztosít;
 
@@ -40,6 +44,7 @@ Határidő: a Széchenyi Turisztikai Kártya Program véglegesítését követő
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3.[^1]
+3.[^3]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont 1.2. alpont az 1979/2021. (XII. 27.) Korm. határozat 4. pontjával megállapított szöveg.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
