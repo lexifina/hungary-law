@@ -1,0 +1,140 @@
+# A Kormány 804/2021. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2021. évi 243. szám, 2021. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/QWGP5NWGkfTItXe6LBR661c4e6870e1b4/dokumentumok/549c49d972d644f2c70127151844e408a66669f9/letoltes)
+
+---
+
+A Kormány 804/2021. (XII. 28.) Korm. rendelete
+a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér
+megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény egyes rendelkezéseinek veszélyhelyzet
+ideje alatt történő végrehajtásáról
+A Kormány
+az Alaptörvény 53. cikk (2) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a katasztrófavédelemről
+és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 51/A. §-ára,
+az 5. § tekintetében az Alaptörvény 53. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, a koronavírus-
+világjárvány elleni védekezésről szóló 2021. évi I. törvény 2. § (1) bekezdése szerinti országgyűlési felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) A nyilvántartó szerv
+a) a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a pénzügyi és egyéb szolgáltatók
+azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló
+2021. évi XLIII. törvény (a továbbiakban: Afad.) 8. § (1) bekezdése szerint,
+
+b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet
+ellátó szerv által az Afad. 20. § (1) bekezdése szerint, valamint
+c) az Afad. 8. § (3)–(7) bekezdése szerint
+végzett adathozzáféréseket naplózza.
+(2) Az (1) bekezdés a) és b) pontja szerinti naplóban a nyilvántartó szerv rögzíti
+a) az adathozzáféréshez rendelt ügyiratszámot,
+b) az adathozzáférés dátumát és időpontját,
+c) az adathozzáférés indításához használt adatok típusát,
+d) az adathozzáférés eredményeként megkapott adatok megjelölését és azok egyedi azonosítószámát,
+e) az (1) bekezdésben meghatározott, az adathozzáférést végző szerv nevét,
+f) az adathozzáférést végző tisztviselő nevét és egyedi felhasználói azonosítóját,
+g) az adathozzáférést elrendelő vezető nevét és egyedi felhasználói azonosítóját, amennyiben
+az adathozzáférésre egyedi vezetői utasítás alapján kerül sor,
+h) – amennyiben lehetséges – az adathozzáférés eredménye címzettjének egyedi felhasználói azonosítóját.
+(3) Az (1) bekezdés c) pontja szerinti naplóban a nyilvántartó szerv rögzíti
+a) az adathozzáféréshez rendelt ügyiratszámot,
+b) az adathozzáférés dátumát és időpontját,
+c) az adathozzáférés indításához használt adatok típusát,
+d) az adathozzáférés eredményeként megkapott adatok megjelölését és azok egyedi azonosítószámát,
+e) szolgáltató által kezdeményezett adathozzáférés esetén
+ea) az adathozzáférést végző szolgáltató nevét,
+eb) ha az adathozzáférést végző szolgáltató jogi személy és jogi személyiséggel nem rendelkező
+szervezet, a szolgáltató nevében eljáró, hozzáféréssel rendelkező természetes személy nevét,
+f) adatszolgáltató által vagy a tényleges tulajdonos által adatszolgáltató útján kezdeményezett adathozzáférés
+esetén
+fa) az adathozzáférést végző adatszolgáltató vagy tényleges tulajdonos nevét,
+fb) az adathozzáférési igényt előterjesztő természetes személy nevét,
+g) a harmadik személyek által kezdeményezett adathozzáférés esetén
+ga) az adathozzáférést kezdeményező természetes személy nevét,
+gb) az adathozzáférést kezdeményező természetes személy regisztrációja során megadott elektronikus
+elérhetőségét.
+(4) A nyilvántartó szerv adatvédelmi tisztviselője az (1) bekezdés szerinti napló megfelelő vezetését rendszeresen,
+de legalább félévente ellenőrzi. Az ellenőrzés eredményét az adatvédelmi tisztviselő dokumentálja, valamint
+e dokumentációt a (6) bekezdés szerinti időtartamig megőrzi.
+(5) Az (1) bekezdés szerinti naplóhoz kizárólag a törvényben meghatározott feladatkörében, az adathozzáférés
+jogszerűsége ellenőrzése céljából eljáró bíróság, nyomozó hatóság, ügyészség, illetve közigazgatási hatóság férhet
+hozzá.
+(6) A nyilvántartó szerv az (1) és (2) bekezdésben meghatározott nyilvántartásban rögzített adatokat öt
+évvel keletkezésük után törli, kivéve, ha az adott adatok tekintetében már megkezdett ellenőrzési eljárás
+az naplóbejegyzés további kezelését indokolja. Ha az adott naplóbejegyzés törlésére a folyamatban lévő
+ellenőrzésre figyelemmel nem került sor, a törlést az ellenőrzési eljárás lezárultát követően kell végrehajtani.
+(7) A nyilvántartó szerv a tényleges tulajdonosi nyilvántartás és a központi bankszámla- és széfnyilvántartás
+működtetésében közreműködő tisztviselők számára olyan speciális képzést nyújt, amely ismereteket ad
+a nyilvántartás vezetésével összefüggő hatályos uniós és nemzeti jogszabályokról, ideértve a hatályos adatvédelmi
+szabályokat is.
+2. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az Afad. 8. §-ában és 20. §-ában, az önkormányzati
+adóhatóság és a gazdasági kamarák az Afad. 20. §-ában, a szolgáltató az Afad. 8. §-ában meghatározott
+adathozzáférés érdekében regisztrál a nyilvántartó szervnél.
+(2) A regisztráció során az adathozzáférést igénylő természetes személy közli
+a) családi és utónevét,
+b) születési családi és utónevét,
+c) születési helyét, idejét,
+d) anyja születési nevét.
+
+(3) A regisztráció során az adathozzáférést igénylő jogi személy vagy jogi személyiséggel nem rendelkező szervezet
+közli
+a) nevét, rövidített nevét,
+b) – ha ilyennel rendelkezik – adószámát,
+c) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyzékszámát, egyéb jogi személy esetén
+a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat számát vagy nyilvántartási számát,
+d) az adathozzáférésre jogosult természetes személynek (a továbbiakban: regisztráció kezdeményezésére
+jogosult) a (2) bekezdés a)–d) pontjában meghatározott adatait.
+(4) A regisztráció során a szolgáltató nyilatkozik arról, hogy az adathozzáférés az Afad. 8. § (3) bekezdésének
+megfelelően a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi
+LIII. törvény (a továbbiakban: Pmt.) 7–10. §-ában meghatározott ügyfél-átvilágítási intézkedések vagy a Pmt.
+12. § (1) és (2) bekezdésében meghatározott adatellenőrzési kötelezettsége teljesítéséhez és az Afad. 11. §-ában
+meghatározott eltérésjelzési kötelezettsége teljesítéséhez szükséges.
+(5) A (3) bekezdés d) pontja alapján a regisztráció kezdeményezésére jogosult lehet
+a) az Afad. 8. § (1) bekezdése szerinti hatóságok, ügyészség, bíróság és felügyeletet ellátó szervek és
+az Afad. 20. § (1) bekezdése szerinti önkormányzati adóhatóság és a gazdasági kamarák regisztráció
+kezdeményezésére kijelölt tagja, képviselője,
+b) az Afad. 8. § (3) bekezdése szerinti szolgáltatók törvényes képviselője.
+(6) Sikeres regisztráció esetén a regisztráció kezdeményezésére jogosult személy a nyilvántartó szerv által
+meghatározott módon kijelölheti azt a (1) bekezdésben meghatározott szervezettel szolgálati viszonyban,
+munkaviszonyban vagy más munkavégzésre irányuló jogviszonyban természetes személyt, aki a szervezet
+nevében hozzáféréssel rendelkezhet az Afad. 4. § (1) bekezdése, 18. § (1) bekezdése és 19. § (1) bekezdése szerinti
+nyilvántartásokhoz. A kijelölés során a regisztráció kezdeményezésére jogosult személy megadja a hozzáférésre
+jogosult természetes személy (2) bekezdés a)–d) pontjában meghatározott adatait.
+(7) A hozzáférés megszűnik:
+a) a természetes személy halálával,
+b) a regisztráció alapjául szolgáló jogviszony megszűnésével vagy az adathozzáférésre jogosult személy által
+ellátott feladatok körének olyan változásával, amely az (5) bekezdésben nevesített nyilvántartásokhoz
+történő hozzáférést a továbbiakban nem indokolja,
+c) ha a regisztráció kezdeményezésére jogosult személy a (6) bekezdés szerinti személy hozzáférési
+jogosultságát visszavonja.
+(8) A hozzáférés megszűnéséről a nyilvántartó szervet haladéktalanul értesíteni kell. A bejelentéssel érintett személy
+hozzáférésének megszüntetése érdekében a nyilvántartó szerv az értesítésről való tudomásszerzést követően
+intézkedik.
+(9) A sikeresen regisztrált szolgáltatók esetében a nyilvántartó szerv minden adathozzáférés kezdeményezése esetén
+vizsgálja az (5) és (6) bekezdés szerinti jogosultságok fennállását és a pénzügyi és egyéb szolgáltatók azonosítási
+feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény
+egyes rendelkezéseinek végrehajtásáról szóló 803/2021. (XII. 28.) Korm. rendelet 1. §-a szerinti szolgáltatói
+minőséget, amelyek hiányában a hozzáférést megtagadja.
+3. § (1) 2022. július 1-jétől a harmadik személy az Afad. 8. § (5) bekezdésében meghatározott adathozzáférés érdekében
+regisztrál a nyilvántartó szervnél.
+(2) A regisztráció során a harmadik személy közli
+a) a természetes személy családi és utónevét,
+b) elektronikus levelezési címét.
+(3) 2022. július 1-jétől az Afad. 8. § (6) és (7) bekezdése szerinti adatigénylés esetén az adathozzáférést igénylő harmadik
+személy a regisztráció során becsatolja az Afad. 9. § (3) bekezdése alapján kiadott előzetes engedélyt.
+4. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2022. február 1-jén lép hatályba.
+(2) Az 5. § 2022. február 15-én lép hatályba.
+
+5. § (1) A Kormány e rendelet hatályát a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény
+hatályvesztéséig meghosszabbítja.
+(2) Ez a rendelet a koronavírus-világjárvány elleni védekezésről szóló 2021. évi I. törvény hatályvesztésekor hatályát
+veszti.
+6. §
+Ez a rendelet
+a) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről
+szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló,
+2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelv 1. cikk (15)–(16) bekezdésének,
+b) a pénzügyi és egyéb információk bizonyos bűncselekmények megelőzése, felderítése, nyomozása
+és a vádeljárás lefolytatása céljából történő felhasználásának megkönnyítését szolgáló szabályok
+megállapításáról, valamint a 2000/642/IB tanácsi határozat hatályon kívül helyezéséről szóló (EU) 2019/1153
+parlamenti és tanácsi irányelv 6. cikkének
+való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
