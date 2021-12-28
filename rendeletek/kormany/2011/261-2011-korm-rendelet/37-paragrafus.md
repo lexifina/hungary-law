@@ -12,8 +12,11 @@
 
 (6)[^91] Azok a 2020. május 23. előtt kiadott járművezetői igazolványok, amelyeken nem szerepel a 95. harmonizált uniós kód, lejáratuk időpontjáig érvényesek.
 
+(7)[^92] A közlekedési hatóság a Magyarország területén székhellyel rendelkező, fuvarozást végző gazdálkodó szervezet részére, annak kérelmére a 2,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel díj ellenében végzett közúti árutovábbítási tevékenységre közúti árutovábbítási engedélyt és árutovábbítási közösségi engedélyt ad ki.
+
 [^87]: A 37. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^88]: A 37. § (3) bekezdését a 280/2013. (VII. 24.) Korm. rendelet 15. §-a iktatta be.
 [^89]: A 37. § (4) bekezdését a 171/2014. (VII. 18.) Korm. rendelet 16. §-a iktatta be.
 [^90]: A 37. § (5) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 56. § (3) bekezdése iktatta be.
 [^91]: A 37. § (6) bekezdését a 265/2020. (VI. 11.) Korm. rendelet 1. §-a iktatta be.
+[^92]: A 37. § (7) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
