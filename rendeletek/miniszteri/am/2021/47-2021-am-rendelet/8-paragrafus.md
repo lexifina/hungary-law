@@ -1,0 +1,3 @@
+8. § (1) Nyilvántartott halgazdálkodási vízterületen vagy annak részén folytatott haltermelés keretében kizárólag a Vhr. 8. melléklet I. részében meghatározott őshonos halfajok szaporítása, termelése és kihelyezése végezhető.
+
+(2) A Pannon biogeográfiai régión kívülről származó hal vagy más hasznos víziállat termelése, vagy a Pannon biogeográfiai régión belülről származó hal vagy más hasznos víziállat más halgazdálkodási vízterületre való telepítés céljából történő termelése csak mesterséges eredetű, zárt és lefolyástalan halgazdálkodási vízterület egészén vagy a 7. § (1) bekezdése szerinti haltermelési létesítményben végezhető.

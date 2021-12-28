@@ -1,0 +1,1 @@
+## 13. § A Vhr. 3. § (3) bekezdésében az „A (2) bekezdés szerinti” szövegrész helyébe az „Az egyes halgazdálkodási eljárásokra vonatkozó szabályokról szóló 413/2017. (XII. 15.) Korm. rendelet 5/B. § (1) bekezdése szerinti” szöveg lép.
