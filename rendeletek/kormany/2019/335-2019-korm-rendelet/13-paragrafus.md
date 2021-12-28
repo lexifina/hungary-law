@@ -1,3 +1,5 @@
+## 12/F. § A hatásvizsgálati dokumentációt a miniszter a Központ részére küldendő jelentésekben és adatszolgáltatások során felhasználhatja.
+
 ## 4. A világörökségi gondnokság kiválasztása
 
 13. § (1) A miniszter a világörökségi gondnokságot a Vötv. 10. §-ában meghatározottak figyelembevételével

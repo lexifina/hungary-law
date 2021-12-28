@@ -1,0 +1,3 @@
+12/E. § (1) A 12/B. §-ban meghatározott hatásvizsgálati dokumentációt a beruházó az engedélyezési eljárást megelőzően is elkészíttetheti. Az előzetesen elkészített és 6 hónapnál nem régebbi hatásvizsgálati dokumentációt a hatóság az eljárása során figyelembe veszi, ha az a jogszabályi követelményeknek megfelel, és a vizsgált területen a dokumentáció megállapításait befolyásoló más beavatkozás az elkészítése óta nem történt.
+
+(2) Indokolt esetben, így különösen ha a Világörökség Bizottság az adott világörökségi helyszín tekintetében állapotmegőrzési jelentés benyújtását írta elő, a hatásvizsgálati dokumentációt a miniszter is elkészítheti, amelynek során az érintettek együttműködni kötelesek.

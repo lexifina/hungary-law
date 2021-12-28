@@ -6,37 +6,39 @@ a) rendelkezik legalább 5 év szakmai gyakorlattal és
 
 b) az adott világörökségi helyszín kiemelkedő egyetemes értékének megőrzése szempontjából megfelelő szakképzettséggel.
 
-(3) A (2) bekezdés b) pontja szerinti szakképzettségnek minősül:
+(3)[^3] A (2) bekezdés b) pontja szerinti szakképzettségnek minősül:
 
-a) okleveles építészmérnök,
+1. okleveles építészmérnök,
 
-b) műemlékvédelmi szakmérnök,
+2. műemlékvédelmi szakmérnök,
 
-c) okleveles városépítési-városgazdasági szakmérnök,
+3. okleveles városépítési-városgazdasági szakmérnök,
 
-d) terület- és településfejlesztési menedzser,
+4. terület- és településfejlesztési menedzser,
 
-e) okleveles tájépítészmérnök,
+5. okleveles tájépítészmérnök,
 
-f) okleveles településmérnök,
+6. okleveles településmérnök,
 
-g) kulturális örökség-menedzser,
+7. kulturális örökség-menedzser,
 
-h) tájrendező és kertépítő mérnök,
+8. tájrendező és kertépítő mérnök,
 
-i) kertészmérnök,
+9. kertészmérnök,
 
-j) erdőmérnök,
+10. erdőmérnök,
 
-k) természetvédelmi mérnök,
+11. természetvédelmi mérnök,
 
-l) környezetmérnök,
+12. környezetmérnök,
 
-m) geográfus,
+13. geográfus,
 
-n) okleveles régész vagy
+14. okleveles régész,
 
-o) az a)–n) pontokban meghatározott szakképzettséggel egyenértékű szakirányú felsőfokú szakképzettség.
+15. jogász vagy
+
+16. az 1–15. pontban meghatározott szakképzettséggel egyenértékű szakirányú felsőfokú szakképzettség.
 
 (4) A kezelési terv készítője a vállalkozási szerződésben foglaltaknak megfelelően bevonja az adott világörökségi terület jellege és a kezelés egyes ágazatai szempontjából megfelelő felsőfokú szakképzettséggel rendelkező személyeket – ideértve a (3) bekezdés a), b), c), d), f), g) vagy n) pontjában meghatározott szakképzettséggel rendelkező személyeket, kulturális mediátort, művészettörténészt, restaurátorművészt, történészt, történelemtanárt, régészt, néprajz szakos bölcsészt, közgazdászt, idegenforgalmi üzemgazdászt, idegenforgalmi közgazdászt, idegenforgalmi szakközgazdászt –, kivéve, ha tagja vagy vele munkavégzésre irányuló jogviszonyban álló más személy rendelkezik az adott világörökségi terület jellege és a kezelés egyes ágazatai szempontjából megfelelő felsőfokú szakképzettséggel.
 
@@ -56,7 +58,7 @@ e) az illetékes állami főépítészt,
 
 f) a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaságot,
 
-g) az illetékes Világörökségi Tájegységi Tervtanácsot,
+g)[^4] az illetékes Világörökségi Tervtanácsot,
 
 h) a Szakbizottságot,
 
@@ -69,3 +71,6 @@ j) régészeti érintettség esetén a területileg illetékes megyei hatókör�
 (8) A kezelési terv készítője a kezelési terv tervezetéről a világörökségi terület használatában és megőrzésében érintettekkel 30 napos egyeztetési határidővel széleskörű társadalmi egyeztetést folytat, a kezelési terv szakmai tartalmának meghatározása érdekében.
 
 (9) A kezelési terv elbírálásában nem vehet részt olyan személy vagy szervezet, amely annak elkészítésében részt vett. Az összeférhetetlenség elbírálására a közbeszerzésekről szóló törvény rendelkezései irányadók.
+
+[^3]: A 8. § (3) bekezdése a 793/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 8. § (6) bekezdés g) pontja a 793/2021. (XII. 27.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 | 4 | Fertő / Neusiedlersee kultúrtáj | a természetvédelemért felelős miniszter |
 
-| 5 | Hollókő Ófalu és környezete | a kulturális örökség védelméért felelős miniszter |
+| 5 | Hollókő ófalu és környezete | a kulturális örökség védelméért felelős miniszter |
 
 | 6 | Hortobágyi Nemzeti Park – a Puszta | a természetvédelemért felelős miniszter |
 

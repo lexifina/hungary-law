@@ -12,4 +12,6 @@ d) a nemzetközi eljárás költség-meghatározását.
 
 (3) Ha a Világörökség Jegyzékbe jelölendő várományos terület kiemelkedő táji vagy természeti értékkel bír vagy országos jelentőségű védett természeti területet érint, a (2) bekezdés szerinti előterjesztés elkészítésébe a természetvédelemért felelős minisztert is be kell vonni.
 
-(4) A 2. melléklet szerinti felterjesztési dokumentációt a miniszter erre irányuló megkeresését követő 90 napon belül a Szakbizottság véleményének kikérésével a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Tudásközpont) készíti elő.
+(4)[^1] A 2. melléklet szerinti felterjesztési dokumentációt a miniszter a Szakbizottság véleményének kikérésével, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Nonprofit Kft.) közreműködésével készíti elő.
+
+[^1]: A 4. § (4) bekezdése a 793/2021. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
