@@ -1,0 +1,5 @@
+## 2. § A Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet [a továbbiakban: 481/2021. (VIII. 13.) Korm. rendelet] 9. § (1) bekezdés e) pontja helyébe a következő rendelkezés lép:
+
+## (Az európai uniós forrást megelőlegező előirányzatok társfinanszírozáson felüli felhasználása a következő esetekben lehetséges:)
+
+## „e) az EGT és Norvég Finanszírozási Mechanizmusok 2014–2021 előirányzat tekintetében az EGT Finanszírozási Mechanizmus és Norvég Finanszírozási Mechanizmus 2014–2021-es időszakának előkészítéséhez kapcsolódóan, a Nemzeti Kapcsolattartónál és a program operátoroknál felmerülő költség finanszírozására, továbbá a Svájci–Magyar Együttműködési Program II. előirányzat tekintetében a Svájci–Magyar Együttműködési Program II. időszakával összefüggésben, a Svájci Államszövetség és Magyarország között létrejövő Keretmegállapodás aláírásáig, a Nemzeti Irányító Hatóságot és a közreműködő szervezeti feladatokat érintő, az előkészítési feladatok során felmerülő költség finanszírozására,”
