@@ -1,6 +1,6 @@
 6. § (1) A Társaság ellátja
 
-a) a Közreműködő Szervezet és a Testvértelepülés és Partnerség Pályázati Alap Támogatásközvetítő Szervezet feladatait a Svájci–Magyar Együttműködési Program tekintetében,
+a)[^1] a Közreműködő Szervezet feladatait a Svájci–Magyar Együttműködési Program I. időszaka tekintetében, valamint a Svájci–Magyar Együttműködési Program II. időszakához kapcsolódó előkészítési feladatokat,
 
 b) a Végrehajtó Ügynökség feladatait az EGT Finanszírozási Mechanizmus és a Norvég Finanszírozási Mechanizmus 2004–2009 tekintetében,
 
@@ -42,6 +42,7 @@ jb) a szabálytalanságkezelést.
 
 (2) A Társaság részt vehet az egyes határ menti gazdaságfejlesztési programok megvalósításában, ennek keretében a külgazdasági ügyekért felelős miniszter a Társaságot a központi költségvetésről szóló törvényben meghatározott Külgazdasági és Külügyminisztérium fejezet terhére a felvidéki gazdaságfejlesztési stratégia keretében nyújtandó költségvetési támogatásokkal kapcsolatos lebonyolítási feladatok ellátásával megbízhatja.
 
-(3)[^1]
+(3)[^2]
 
-[^1]: A 6. § (3) bekezdését a 205/2019. (VIII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 39/2020. (III. 10.) Korm. rendelet 2. §-a.
+[^1]: A 6. § (1) bekezdés a) pontja a 798/2021. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: A 6. § (3) bekezdését a 205/2019. (VIII. 23.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 39/2020. (III. 10.) Korm. rendelet 2. §-a.
