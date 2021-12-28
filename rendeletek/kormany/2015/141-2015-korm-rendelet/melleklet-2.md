@@ -1,19 +1,3 @@
-## A Téry Ödön Nemzeti Turistaház-fejlesztési Program keretében megvalósuló beruházások
-
-|  | A | B |
-
-| 1. | Beruházás | Beruházás azonosító adatai |
-
-| 2. | Rodostó turistaház felújítása | Badacsonytördemic, 044/40 helyrajzi számú ingatlan |
-
-| 3. | Gaja-völgyi turistaházak felújítása | Balinka, 702, 706/3, 707, 708, 709, 710 és 711 helyrajzi számú ingatlanok |
-
-| 4. |  |  |
-
-| 5. | Lajos-forrási menedékház felújítása | Szentendre, 0603/1 helyrajzi számú ingatlan |
-
-| 6. |  |  |
-
 2. melléklet a 141/2015. (VI. 9.) Korm. rendelethez
 
 ## A beruházásokkal összefüggő, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
