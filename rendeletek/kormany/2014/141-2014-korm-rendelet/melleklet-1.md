@@ -1,7 +1,7 @@
-## 9. §[^12] E rendeletnek a sportcélú beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 223/2018. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4/A. §-át a Módr3. hatálybalépésekor[^13] folyamatban lévő ügyekben is alkalmazni kell.
+## 10. §[^18] A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósítandó tanuszoda, tornaterem, tanterem beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 141/2014. (VI. 30.) Korm. rendelet módosításáról szóló 795/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 1. § (1) és (2) bekezdését, 2. §-át, 4. § (1) bekezdését, 4/A–E. §-át, 2. mellékletében foglalt táblázat B:4 mezőjét, B:30 mezőjét, B:32 mezőjét, B:38 mezőjét, 65. sorát, továbbá 2a. mellékletét a Módr4. hatálybalépésekor[^19] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^14]
+1. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^20]
 
-[^12]: A 9. §-t a 223/2018. (XI. 29.) Korm. rendelet 5. §-a iktatta be.
-[^13]: A hatálybalépés időpontja 2018. november 30.
-[^14]: Az 1. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^18]: A 10. §-t a 795/2021. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^19]: A hatálybalépés napja 2021. december 28.
+[^20]: Az 1. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított, a 795/2021. (XII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.

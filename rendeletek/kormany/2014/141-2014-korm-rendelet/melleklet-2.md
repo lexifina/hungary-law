@@ -148,7 +148,7 @@
 
 | 73. | tanuszoda-fejlesztés | Törökszentmiklós közigazgatási területén fekvő, 3995 helyrajzi számú ingatlan |
 
-| 74. | tanuszoda-fejlesztés | Vajszló közigazgatási területén fekvő, 37/2 helyrajzi számú ingatlan |
+| 74. |  |  |
 
 | 75. | tanuszoda-fejlesztés | Mezőcsát közigazgatási területén fekvő, 3272/5 helyrajzi számú ingatlan |
 
@@ -156,6 +156,6 @@
 
 | 77. | óvodafejlesztés | Szárföld közigazgatási területén fekvő, 477 helyrajzi számú ingatlan |
 
-2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^15]
+2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^21]
 
-[^15]: A 2. melléklet a 223/2018. (XI. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^21]: A 2. melléklet a 223/2018. (XI. 29.) Korm. rendelet 6. §-ával megállapított, a 795/2021. (XII. 27.) Korm. rendelet 4. § (1) bekezdése és 5. § b) pontja szerint módosított szöveg.

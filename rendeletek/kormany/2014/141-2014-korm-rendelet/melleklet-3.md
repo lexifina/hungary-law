@@ -1,136 +1,104 @@
-## A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében megvalósuló, nemzetgazdasági szempontból kiemelt jelentőségű beruházások
+## A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program III. ütemében megvalósuló nemzetgazdasági szempontból kiemelt jelentőségű beruházások
 
 |  | A | B |
 
 | 1. | A beruházás megnevezése | A beruházás azonosító adatai |
 
-| 2. | tornaterem-fejlesztés | Mohács közigazgatási területén fekvő, belterület 563/4 helyrajzi számú ingatlan |
+| 2. | tornaterem-fejlesztés | Átány belterület, 422 helyrajzi számú ingatlan |
 
-| 3. | tornaterem-fejlesztés | Zalaegerszeg közigazgatási területén fekvő, belterület 3008 helyrajzi számú ingatlanok |
+| 3. | tornaterem-fejlesztés | Bakonysárkány belterület, 56 helyrajzi számú ingatlan |
 
-| 4. | tornaterem-fejlesztés | Arló közigazgatási területén fekvő, belterület 1388/3 helyrajzi számú ingatlan |
+| 4. | tornaterem-fejlesztés | Bakonyszentkirály belterület, 564 helyrajzi számú ingatlan |
 
-| 5. | tornaterem-fejlesztés | Mezőkovácsháza közigazgatási területén fekvő, belterület 569 helyrajzi számú ingatlan |
+| 5. | tornaterem-fejlesztés | Borsodszirák belterület, 114 helyrajzi számú ingatlan |
 
-| 6. | tornaterem-fejlesztés | Nyírmeggyes közigazgatási területén fekvő, belterület 627/1 helyrajzi számú ingatlan |
+| 6. | tornaterem-fejlesztés | Csécse belterület, 471/4 helyrajzi számú ingatlan |
 
-| 7. | tornaterem-fejlesztés | Pilisborosjenő közigazgatási területén fekvő, külterület 0135/11 helyrajzi számú ingatlan |
+| 7. | tornaterem-fejlesztés | Csókakő belterület, 357 helyrajzi számú ingatlan |
 
-| 8. | tornaterem-fejlesztés | Öcsöd közigazgatási területén fekvő, belterület 260 helyrajzi számú ingatlan |
+| 8. | tornaterem-fejlesztés | Csonkahegyhát belterület, 254 és 256 helyrajzi számú helyrajzi számú ingatlanok |
 
-| 9. | tornaterem-fejlesztés | Mezőszilas közigazgatási területén fekvő, belterület 452/6 helyrajzi számú ingatlan |
+| 9. | tornaterem-fejlesztés | Dorogháza belterület, 156 helyrajzi számú ingatlan |
 
-| 10. | tornaterem-fejlesztés | Csákánydoroszló közigazgatási területén fekvő, belterület 589 helyrajzi számú ingatlanok |
+| 10. | tornaterem-fejlesztés | Ecséd belterület, 3/2 helyrajzi számú ingatlan |
 
-| 11. | tornaterem-fejlesztés | Besenyőtelek közigazgatási területén fekvő, belterület 403 helyrajzi számú ingatlan |
+| 11. | tornaterem-fejlesztés | Enese belterület, 152 helyrajzi számú ingatlan |
 
-| 12. | tornaterem-fejlesztés | Esztár közigazgatási területén fekvő, belterület 76 helyrajzi számú ingatlanok |
+| 12. | tornaterem-fejlesztés | Gyöngyöstarján belterület, 431 helyrajzi számú ingatlan |
 
-| 13. | tornaterem-fejlesztés | Rum közigazgatási területén fekvő, belterület 472/2 helyrajzi számú ingatlan |
+| 13. | tornaterem-fejlesztés | Hévízgyörk belterület, 795/6, 795/7 és 795/8 helyrajzi számú helyrajzi számú ingatlanok |
 
-| 14. | tornaterem-fejlesztés | Tomajmonostora közigazgatási területén fekvő, belterület 249/3 helyrajzi számú ingatlanok |
+| 14. | tornaterem-fejlesztés | Izsófalva belterület, 874 helyrajzi számú ingatlan |
 
-| 15. | tornaterem-fejlesztés | Csengele közigazgatási területén fekvő, belterület 44/1 helyrajzi számú ingatlan |
+| 15. | tornaterem-fejlesztés | Kecskemét belterület, 8319 helyrajzi számú ingatlan |
 
-| 16. | tornaterem-fejlesztés | Hajmáskér közigazgatási területén fekvő, belterület 616/9 helyrajzi számú ingatlan |
+| 16. | tornaterem-fejlesztés | Magyarhomorog belterület, 383 és 384/2 helyrajzi számú ingatlanok |
 
-| 17. | tornaterem-fejlesztés | Földeák közigazgatási területén fekvő, belterület 21 helyrajzi számú ingatlan |
+| 17. | tornaterem-fejlesztés | Magyarpolány belterület, 470, 471, 488 és 489 helyrajzi számú ingatlanok |
 
-| 18. | tornaterem-fejlesztés | Maroslele közigazgatási területén fekvő, belterület 17 helyrajzi számú ingatlan |
+| 18. | tornaterem-fejlesztés | Mezőtárkány belterület, 469, 476 és 477/1 helyrajzi számú helyrajzi számú ingatlanok |
 
-| 19. | tornaterem-fejlesztés | Nyírpazony közigazgatási területén fekvő, belterület 16 helyrajzi számú ingatlanok |
+| 19. | tornaterem-fejlesztés | Mocsa belterület, 635/14 helyrajzi számú ingatlan |
 
-| 20. | tornaterem-fejlesztés | Ajak közigazgatási területén fekvő, belterület 970 helyrajzi számú ingatlan |
+| 20. | tornaterem-fejlesztés | Nagykáta belterület, 604 helyrajzi számú ingatlan |
 
-| 21. | tanuszoda-fejlesztés | Budakeszi közigazgatási területén fekvő, belterület 2415/2 helyrajzi számú ingatlan |
+| 21. | tornaterem-fejlesztés | Nagykónyi belterület, 312 és 313/1 helyrajzi számú helyrajzi számú ingatlanok |
 
-| 22. | tanuszoda-fejlesztés | Cigánd közigazgatási területén fekvő, belterület 1108/2 helyrajzi számú ingatlanok |
+| 22. | tornaterem-fejlesztés | Nagymaros belterület, 629 és 630 helyrajzi számú helyrajzi számú ingatlanok |
 
-| 23. | tanuszoda-fejlesztés | Encs közigazgatási területén fekvő, belterület 546/140 helyrajzi számú ingatlan |
+| 23. | tornaterem-fejlesztés | Nagyoroszi belterület, 65/1 helyrajzi számú ingatlan |
 
-| 24. | tanuszoda-fejlesztés | Heves közigazgatási területén fekvő, belterület 1213/6 helyrajzi számú ingatlan |
+| 24. | tornaterem-fejlesztés | Nagyvázsony belterület, 916 helyrajzi számú ingatlan |
 
-| 25. | tanuszoda-fejlesztés | Kapuvár közigazgatási területén fekvő, belterület 1323/4 helyrajzi számú ingatlan |
+| 25. | tornaterem-fejlesztés | Nyírpilis belterület, 350 helyrajzi számú ingatlan |
 
-| 26. | tanuszoda-fejlesztés | Kisbér közigazgatási területén fekvő, belterület 1027/6 helyrajzi számú ingatlan |
+| 26. | tornaterem-fejlesztés | Ostoros belterület, 70, 71/1, 71/2, 72/1 és 72/2 helyrajzi számú ingatlanok |
 
-| 27. | tanuszoda-fejlesztés | Kisvárda közigazgatási területén fekvő, belterület 2487/2 helyrajzi számú ingatlanok |
+| 27. | tornaterem-fejlesztés | Pétervására belterület, 127 helyrajzi számú ingatlan |
 
-| 28. | tanuszoda-fejlesztés | Letenye közigazgatási területén fekvő, belterület 1668/3 helyrajzi számú ingatlanok |
+| 28. | tornaterem-fejlesztés | Petőfiszállás belterület, 163/1 helyrajzi számú ingatlan |
 
-| 29. | tanuszoda-fejlesztés | Mosonmagyaróvár közigazgatási területén fekvő, belterület 1727/13 helyrajzi számú ingatlan |
+| 29. | tornaterem-fejlesztés | Pilisszántó belterület, 549, 550/1 és 551/1 helyrajzi számú ingatlanok |
 
-| 30. | tanuszoda-fejlesztés | Orosháza közigazgatási területén fekvő, belterület 45 és 46/4 helyrajzi számú ingatlanok |
+| 30. | tornaterem-fejlesztés | Pilisszentkereszt belterület, 423 és 438 helyrajzi számú ingatlanok |
 
-| 31. | tanuszoda-fejlesztés | Pásztó közigazgatási területén fekvő, belterület 2362/2 helyrajzi számú ingatlan |
+| 31. | tornaterem-fejlesztés | Rábapaty belterület, 29/4 helyrajzi számú ingatlan |
 
-| 32. | tanuszoda-fejlesztés | Pétervására közigazgatási területén fekvő, belterület 135 helyrajzi számú ingatlan |
+| 32. | tornaterem-fejlesztés | Súr belterület, 542/1 és 547 helyrajzi számú ingatlanok |
 
-| 33. | tanuszoda-fejlesztés | Pilisvörösvár közigazgatási területén fekvő, külterület 097/120 helyrajzi számú ingatlanok |
+| 33. | tornaterem-fejlesztés | Sümegcsehi belterület, 269/2 helyrajzi számú ingatlan |
 
-| 34. | tanuszoda-fejlesztés | Rétság közigazgatási területén fekvő, belterület 356/61 helyrajzi számú ingatlan |
+| 34. | tornaterem-fejlesztés | Szalonna belterület, 91 helyrajzi számú ingatlan |
 
-| 35. | tanuszoda-fejlesztés | Sarkad közigazgatási területén fekvő, belterület 4320/2 helyrajzi számú ingatlan |
+| 35. | tornaterem-fejlesztés | Szikszó belterület, 1280/7 helyrajzi számú ingatlan |
 
-| 36. | tanuszoda-fejlesztés | Szentlőrinc közigazgatási területén fekvő, belterület 152/55 helyrajzi számú ingatlan |
+| 36. | tornaterem-fejlesztés | Szolnok belterület, 4345 helyrajzi számú ingatlan |
 
-| 37. | tanuszoda-fejlesztés | Szécsény közigazgatási területén fekvő, belterület 2802/1 helyrajzi számú ingatlan |
+| 37. | tornaterem-fejlesztés | Szolnok belterület, 1562 helyrajzi számú ingatlan |
 
-| 38. | tanuszoda-fejlesztés | Tapolca közigazgatási területén fekvő, belterület 3437/79 helyrajzi számú ingatlan |
+| 38. | tornaterem-fejlesztés | Ugod belterület, 241 helyrajzi számú ingatlan |
 
-| 39. | tanuszoda-fejlesztés | Tét közigazgatási területén fekvő, belterület 1704/6 helyrajzi számú ingatlanok |
+| 39. | tornaterem-fejlesztés | Vácszentlászló belterület, 1 és 9/1 helyrajzi számú ingatlanok |
 
-| 40. | tanuszoda-fejlesztés | Tiszakécske közigazgatási területén fekvő, belterület 3696/8 helyrajzi számú ingatlanok |
+| 40. | tornaterem-fejlesztés | Vámosújfalu belterület, 96/1 helyrajzi számú ingatlan |
 
-| 41. | tanuszoda-fejlesztés | Várpalota közigazgatási területén fekvő, belterület 141/2 helyrajzi számú ingatlan |
+| 41. | tornaterem-fejlesztés | Zalaszentiván belterület, 362 helyrajzi számú ingatlan |
 
-| 42. | tanuszoda-fejlesztés | Vecsés közigazgatási területén fekvő, belterület 367/14 helyrajzi számú ingatlan |
+| 42. | tanuszoda-fejlesztés | Bóly belterület, 595 helyrajzi számú ingatlan |
 
-| 43. | tanuszoda-fejlesztés | Zirc közigazgatási területén fekvő, belterület 1904/3 helyrajzi számú ingatlan |
+| 43. | tanuszoda-fejlesztés | Kunszentmiklós belterület, 1/3 helyrajzi számú ingatlan |
 
-| 44. | tanteremfejlesztés | Balatonfüred közigazgatási területén fekvő, belterület 3088 helyrajzi számú ingatlan |
+| 44. | tanuszoda-fejlesztés | Nagykőrös belterület, 254/1 helyrajzi számú ingatlan |
 
-| 45. | tanteremfejlesztés | Budajenő közigazgatási területén fekvő, belterület 132 helyrajzi számú ingatlan |
+| 45. | tanuszoda-fejlesztés | Püspökladány belterület, 488/7 helyrajzi számú ingatlan |
 
-| 46. | tanteremfejlesztés | Budapest I. kerület közigazgatási területén fekvő, belterület 7281 helyrajzi számú ingatlan |
+| 46. | tanuszoda-fejlesztés | Siófok belterület, 10083/1 helyrajzi számú ingatlan |
 
-| 47. | tanteremfejlesztés | Budapest II. kerület közigazgatási területén fekvő, belterület 11658/12 helyrajzi számú ingatlan |
+| 47. | tanuszoda-fejlesztés | Tiszafüred belterület, 1085/17 helyrajzi számú ingatlan |
 
-| 48. | tanteremfejlesztés | Budapest XVIII. kerület közigazgatási területén fekvő, belterület 148113 helyrajzi számú ingatlan |
+| 48. | tanuszoda-fejlesztés | Vasvár belterület, 0363/1 és 0363/2 helyrajzi számú ingatlanok |
 
-| 49. | tanteremfejlesztés | Budapest XVIII. kerület közigazgatási területén fekvő, belterület 155607/6 helyrajzi számú ingatlan |
-
-| 50. | tanteremfejlesztés | Budapest XVIII. kerület közigazgatási területén fekvő, belterület 140482/5 helyrajzi számú ingatlan |
-
-| 51. | tanteremfejlesztés | Dabas közigazgatási területén fekvő, belterület 3865/50 helyrajzi számú ingatlan |
-
-| 52. | tanteremfejlesztés | Felsőörs közigazgatási területén fekvő, belterület 94/2 helyrajzi számú ingatlan |
-
-| 53. | tanteremfejlesztés | Göd közigazgatási területén fekvő, belterület 4362 helyrajzi számú ingatlan |
-
-| 54. | tanteremfejlesztés | Herceghalom közigazgatási területén fekvő, belterület 242 helyrajzi számú ingatlan |
-
-| 55. | tanteremfejlesztés | Kerepes közigazgatási területén fekvő, belterület 504/3 helyrajzi számú ingatlan |
-
-| 56. | tanteremfejlesztés | Penc közigazgatási területén fekvő, belterület 329/2 helyrajzi számú ingatlan |
-
-| 57. | tanteremfejlesztés | Perbál közigazgatási területén fekvő, belterület 4 helyrajzi számú ingatlan |
-
-| 58. | tanteremfejlesztés | Szada közigazgatási területén fekvő, belterület 4423 és 918/2 helyrajzi számú ingatlanok |
-
-| 59. | tanteremfejlesztés | Szárliget közigazgatási területén fekvő, belterület 1 helyrajzi számú ingatlan |
-
-| 60. | tanteremfejlesztés | Szentendre közigazgatási területén fekvő, belterület 2969 helyrajzi számú ingatlan |
-
-| 61. | tanteremfejlesztés | Sződliget közigazgatási területén fekvő, belterület 30 és 35 helyrajzi számú ingatlanok |
-
-| 62. | tanteremfejlesztés | Telki közigazgatási területén fekvő, belterület 722/5 helyrajzi számú ingatlan |
-
-| 63. | tanuszoda-fejlesztés | Csorna közigazgatási területén fekvő, belterület 208/15 helyrajzi számú ingatlan |
-
-| 64. | tanuszoda-fejlesztés | Tamási közigazgatási területén fekvő, belterület 1875/8 helyrajzi számú ingatlan |
-
-3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^16]
+3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^23]
 
 ## A beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
@@ -176,4 +144,4 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^16]: A 3. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^23]: A 3. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
