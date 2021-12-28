@@ -22,33 +22,41 @@ e) a Széchenyi Újraindítási Lízingkonstrukciót;
 
 2. A Kormány a Széchenyi Kártya Újraindítási Program keretében
 
-2.1. nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
+2.1.[^1] nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
 
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 0,1%,
+a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 2,5%,
 
-b) a Széchenyi Újraindítási Likviditási Hitel esetén a 0,2%,
+b) a Széchenyi Újraindítási Likviditási Hitel esetén a 2,5%,
 
-c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel, valamint a Széchenyi Újraindítási Lízingkonstrukció esetén a 0,5%
+c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel esetén az 1,0%,
 
-mértéket;
+d) a Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén a 0,5%, valamint
 
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: azonnal
-
-2.2. egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
-
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 4,85%,
-
-b) a Széchenyi Újraindítási Likviditási Hitel esetén az 5,00%,
-
-c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel, valamint a Széchenyi Újraindítási Lízingkonstrukció esetén a 7,50%
+e) a Széchenyi Újraindítási Lízingkonstrukció esetén a 2,5%
 
 mértéket;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
-Határidő: azonnal
+Határidő: 2022. január 1.
+
+2.2.[^2] egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
+
+a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén az 5,0%,
+
+b) a Széchenyi Újraindítási Likviditási Hitel esetén az 5,0%,
+
+c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel esetén a 8,5%,
+
+d) a Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén a 9,0%, valamint
+
+e) a Széchenyi Újraindítási Lízingkonstrukció esetén a 7,0%
+
+mértéket;
+
+Felelős: innovációért és technológiáért felelős miniszter
+
+Határidő: 2022. január 1.
 
 2.3. felhatalmazza az innovációért és technológiáért felelős minisztert, hogy az 1.4., 2.1. és 2.2. alpont figyelembevételével a konstrukciók mindenkor hatályos kamattámogatás mértékeit a Széchenyi Kártya Program mindenkor hatályos Üzletszabályzatában rögzítse;
 
@@ -156,8 +164,10 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók módosítását követően azonnal
 
-4.[^1]
+4.[^3]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont 2.1. alpontja az 1979/2021. (XII. 27.) Korm. határozat 5. pontjával megállapított szöveg.
+[^2]: A 2. pont 2.2. alpontja az 1979/2021. (XII. 27.) Korm. határozat 6. pontjával megállapított szöveg.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
