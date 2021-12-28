@@ -62,27 +62,17 @@ A szakorvosok által megszerezhető licencek képzési követelményei
 
 2. Licenc típusa: beavatkozási
 
-3. A képzés időtartama: 12 hónap
+3. A képzés időtartama: 12–24 hónap
 
-4. Képzési program: 12 hónap gyakorlat endoszkópos ultrahangot oktató centrumban. A vizsgálatban való jártasságot önállóan végzett és leletezett, endoszkópos ultrahang vizsgálatokban járatos tutor felügyelete által kontrollált és ellenjegyzett, kellő számú vizsgálat elvégzése igazolja
+4. Képzési program: 12–24 hónap gyakorlat endoszkópos ultrahangot oktató centrumban. A vizsgálatban való jártasságot önállóan végzett és leletezett, endoszkópos ultrahang vizsgálatokban járatos tutor felügyelete által kontrollált és ellenjegyzett, kellő számú vizsgálat elvégzése igazolja. A képzés pontos idejét az előírt vizsgálatszám teljesítése határozza meg.
 
-5. A képzés és vizsga szakmai tartalma
+5. A gyakorlati képzés szakmai tartalma
 
-5.1. Radiális endoszkópos ultrahanggal végzett vizsgálatok minimálisan szükséges száma:
+a) 150 endoszkópos ultrahang vizsgálat, ebből
 
-a) 5 nyelőcső vizsgálat
+b) 75 pancreatobiliáris vizsgálat (ennek legalább fele pancreas társzűkítő folyamat) és
 
-b) 5 mediastinum vizsgálat
-
-c) 10 gyomor vizsgálat
-
-d) 10 rectum vizsgálat
-
-e) 20 biliopancreaticus vizsgálat
-
-5.2. Lineáris endoszkópos ultrahanggal végzett vizsgálatok minimálisan szükséges száma:
-
-a) összesen 20 vékonytű aspiráció, vastagtű biopszia és terápiás vizsgálat elvégzése
+c) 50 endoszkópos ultrahang vezérelt vékonytű aspiráció (EUH-FNA) (ebből legalább 30 pancreas térszűkítő folyamat)
 
 6. A vizsgára bocsátás további feltételei
 
@@ -90,53 +80,41 @@ a) összesen 20 vékonytű aspiráció, vastagtű biopszia és terápiás vizsg�
 
 6.2. részvétel az Endoszkópos Ultrahang Training továbbképzésen
 
-6.3. az előírt esetszámok igazolt teljesítése esetén a jelölt képzési ideje legfeljebb 6 hónappal rövidíthető
+6.3. az előírt esetszámok igazolt teljesítése vagy ha a tutor véleménye alapján a vizsgáló kevesebb vizsgálatszám teljesítése esetén is jártasságot szerzett, és a vizsgáló bemutatja általa végzett legutolsó egymás utáni 10 EUH-FNA vizsgálatát, ahol diagnosztikus minta nyerése ≥90%.
 
 7. A megszerezhető képesítés birtokában végezhető szakmai tevékenységek köre
 
 7.1. Radiális endoszkópos ultrahang vizsgálat végzésével:
 
-a) nyelőcső, gyomor, tüdő, biliopancreatikus és rectum daganatok stádium megállapítása
+a) nyelőcső, gyomor, mediasztinum, biliopancreatikus és rectum daganatok felismerése, stádium megállapítása, vékonytű mintavételezése
 
-b) biliopancreatikus daganatok felismerése és jellemzése
+b) krónikus pancreatitis diagnózisa
 
-c) krónikus pancreatitis diagnózisa
+c) choledocholitiasis és microlithiasis felismerése
 
-d) choledocholitiasis és microlithiasis felismerése
+d) perianális betegségek diagnosztikája
 
-e) neuroendokrin daganatok felismerése és jellemzése
+e) releváns nyirokcsomók aspirációja, biopsziája
 
-f) perianális betegségek diagnosztikája
+f) pancreas cystikus elváltozások aspirációja
 
-g) mediastinális térfoglalás diagnosztikája
+g) plexus coeliacus/ganglion coeliacum blokád/neurolízis
 
-7.2. Lineáris endoszkópos ultrahang vizsgálat végzésével:
+h) pancreas pseudocysta/walled off pancreas nekrózis drenázs
 
-a) releváns nyirokcsomók aspirációja, biopsziája
-
-b) biliopancreatikus daganatok aspirációja, biopsziája
-
-c) cystikus elváltozások aspirációja, biopsziája
-
-d) mediastinális elváltozások aspirációja, biopsziája
-
-e) plexus coeliacus/ganglion coeliacum blokád/neurolízis
-
-f) pancreas pseudocysta drenázsa
-
-g) epeúti drenázs
+i) epeúti drenázs.
 
 8. A képzés személyi és tárgyi feltételei
 
 8.1. A képzés személyi feltételei:
 
-a) diagnosztikus endoszkópos ultrahang licencszel és 5 éves endoszkópos ultrahang gyakorlattal vagy a Magyar Gasztroenterológiai Társaság Endoszkópos Ultrahang Szekciója által elismert legalább 5 éves endoszkópos ultrahang gyakorlattal rendelkező szakorvos
+a) diagnosztikus endoszkópos ultrahang licenccel és 5 éves endoszkópos ultrahang gyakorlattal rendelkező szakorvos
 
 b) hazai vagy nemzetközi folyóiratban publikált tudományos közlemény a gasztroenterológia szakterületen
 
 8.2. A képzés tárgyi feltételei:
 
-a) radiális és lineáris endoszkópos ultrahang készülék
+a) lineáris endoszkópos ultrahang készülék
 
 b) vékonytű aspiráció és biopszia kivitelezéséhez szükséges eszközök
 
@@ -144,7 +122,7 @@ c) drenázs beavatkozáshoz szükséges eszközök
 
 d) képi dokumentáció lehetősége
 
-e) a centrumban az éves vizsgálatszám radiális ultrahanggal haladja meg a 200-at, lineáris endoszkópos ultrahang esetén pedig a 30-at
+e) a centrumban az éves vizsgálatszám haladja meg a 250-et.
 
 f) az endoszkópos ultrahang valamennyi indikációs területe rendelkezésre álljon
 
@@ -2270,4 +2248,4 @@ A dento-maxillo-faciális régió diagnosztikus és szűrő képalkotó vizsgál
 
 9.1. A vizsgabizottság tagjai közül legalább egy fogszakorvosnak és legalább egy radiológus szakorvosnak kell lennie.
 
-[^45]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a, a 28/2016. (IX. 29.) EMMI rendelet 14. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 87. § g) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 13. § b) pontja és 14. §-a szerint módosított szöveg. [A 2. melléklet 6. rész 1.2. b) pontjának a 38/2017. (XII. 29.) EMMI rendelet 7. §-ával elrendelt módosítása, amely szerint az „országos intézetben” szövegrész helyébe az „országos gyógyintézetben, országos társ-gyógyintézetben” szöveg lép, nem vezethető át.
+[^45]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a, a 28/2016. (IX. 29.) EMMI rendelet 14. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 87. § g) pontja, a 28/2018. (VIII. 29.) EMMI rendelet 13. § b) pontja és 14. §-a, az 57/2021. (XII. 21.) EMMI rendelet 8. §-a szerint módosított szöveg. [A 2. melléklet 6. rész 1.2. b) pontjának a 38/2017. (XII. 29.) EMMI rendelet 7. §-ával elrendelt módosítása, amely szerint az „országos intézetben” szövegrész helyébe az „országos gyógyintézetben, országos társ-gyógyintézetben” szöveg lép, nem vezethető át.][Az 57/2021. (XII. 27.) EMMI rendelet 8. §-ával elrendelt módosítás, amely szerint hatályát veszíti a 2. melléklet 1. Endoszkópos ultrahang diagnosztika pont 7.2. alpontja, nem vezethető át.]

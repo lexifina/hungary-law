@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-23-20-5
 | 2018-09-01 | 2012-23-20-5H.12 | 69/2013. (XI. 19.) EMMI rendelet |
 | 2020-01-01 | 2012-23-20-5H.13 | 69/2013. (XI. 19.) EMMI rendelet |
 | 2021-02-10 | 2012-23-20-5H.14 | 6/2021. (II. 9.) EMMI rendelet |
+| 2021-12-28 | 2012-23-20-5H.15 | 69/2013. (XI. 19.) EMMI rendelet |
