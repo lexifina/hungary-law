@@ -2,7 +2,7 @@
 
 ## 5. A rendszerbevételi eljárás lefolytatása
 
-6. § (1)[^21] A rendszerbevételi eljárást rendszerbevételi bizottság folytatja le. A rendszerbevételi bizottság összehívásáról a 3. § (1) bekezdés a) pontja szerinti esetben az ÁEEK, a 3. § (1) bekezdés b) pontja szerinti esetben az egyetem gondoskodik.
+6. § (1)[^21] A rendszerbevételi eljárást rendszerbevételi bizottság folytatja le. A rendszerbevételi bizottság összehívásáról a 3. § (1) bekezdés a) pontja szerinti esetben az OKFŐ, a 3. § (1) bekezdés b) pontja szerinti esetben az egyetem gondoskodik.
 
 (2)[^22] A rendszerbevételi bizottság tagjai a 3. § (1) bekezdés a) pontja szerinti rendszerbevételi eljárás esetében:
 
@@ -24,12 +24,12 @@ f) a rezidensek érdekképviseletét ellátó szakmai szervezet egy képviselőj
 
 (5)[^26]
 
-(6)[^27] Az ÁEEK a rendszerbevételi eljárás eredményéről annak lefolytatását követő öt munkanapon belül értesíti a jelentkezőt.
+(6)[^27] Az OKFŐ a rendszerbevételi eljárás eredményéről annak lefolytatását követő öt munkanapon belül értesíti a jelentkezőt.
 
-[^21]: A 6. § (1) bekezdését újonnan a 34/2015. (VI. 30.) EMMI rendelet 7. § (1) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 72. § b) pontja szerint módosított szöveg.
+[^21]: A 6. § (1) bekezdését újonnan a 34/2015. (VI. 30.) EMMI rendelet 7. § (1) bekezdése iktatta be, szövege az 57/2021. (XII. 27.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
 [^22]: A 6. § (2) bekezdését a 20/2011. (V. 10.) NEFMI rendelet 16. § b) pontja hatályon kívül helyezte, újonnan a 34/2015. (VI. 30.) EMMI rendelet 7. § (1) bekezdése iktatta be.
 [^23]: A 6. § (2) bekezdés c) pontja a 28/2018. (VIII. 29.) EMMI rendelet 6. §-ával megállapított szöveg.
 [^24]: A 6. § (3) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet 7. § (1) bekezdése iktatta be.
 [^25]: A 6. § (4) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet 7. § (1) bekezdése iktatta be.
 [^26]: A 6. § (5) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte.
-[^27]: A 6. § (6) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 7. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 72. § b) pontja szerint módosított szöveg.
+[^27]: A 6. § (6) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 7. § (2) bekezdésével megállapított, az 57/2021. (XII. 27.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.

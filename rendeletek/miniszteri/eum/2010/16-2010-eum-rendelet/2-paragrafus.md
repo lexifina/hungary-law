@@ -16,7 +16,7 @@ f) külső képzőhelyekkel való kapcsolattartás, valamint a külső képzőhe
 
 g) a szakképzés során a jelöltek kötelező tanfolyamainak szervezése és
 
-h)[^4] folyamatos kapcsolattartás az Állami Egészségügyi Ellátó Központtal (a továbbiakban: ÁEEK) a szakképzés adminisztrációjának biztosítása érdekében.
+h)[^4] folyamatos kapcsolattartás az Országos Kórházi Főigazgatósággal (a továbbiakban: OKFŐ) a szakképzés adminisztrációjának biztosítása érdekében.
 
 [^3]: A 2. alcím (2. §) a 34/2015. (VI. 30.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § h) pontja az 54/2016. (XII. 30.) EMMI rendelet 72. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § h) pontja az 57/2021. (XII. 27.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.

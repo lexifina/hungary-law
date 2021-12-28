@@ -36,9 +36,9 @@ c) az egyetemi záróvizsga 2,0-del súlyozott érdemjegye.
 
 (4a)[^16] A plasztikai és égés-sebészet szakképesítés esetén a második vagy további alap szakképesítés esetén a második vagy további alap szakképesítés megszerzésére irányuló rendszerbevételi eljárásban a rendszerbevételi pontszámot a szakképzés megkezdését megelőzően teljesített szakmai gyakorlat, az elsőként megszerzett szakvizsga típusa és eredménye, továbbá a tudományos tevékenységért és nyelvismeretért adható többletpontok és a személyes meghallgatás alapján számított pontérték adja. A rendszerbevételi eljárás során előnyben részesítendő, aki írásban vállalja, hogy a szakképzése megszerzését követően legalább a szakképzésének megfelelő ideig, legalább részmunkaidős foglalkoztatás keretében közfinanszírozott egészségügyi szolgáltatónál végez plasztikai és égéssebészeti tevékenységet.
 
-(4b)[^17] A (4a) bekezdés szerinti rendszerbevételi eljárásban a rendszerbevételi pontok számításának módját, az egyes, a (4a) bekezdésben meghatározott szempontokra adható pontszámok körét a plasztikai és égés-sebészet szakképzési grémiuma határozza meg, és az ÁEEK honlapján közzéteszi.
+(4b)[^17] A (4a) bekezdés szerinti rendszerbevételi eljárásban a rendszerbevételi pontok számításának módját, az egyes, a (4a) bekezdésben meghatározott szempontokra adható pontszámok körét a plasztikai és égés-sebészet szakképzési grémiuma határozza meg, és az OKFŐ honlapján közzéteszi.
 
-(4c)[^18] A plasztikai és égés-sebészet szakképesítés rendszerbevételi eljárásában a szakképzésbe lépéshez szükséges minimálisan elérhető pontszámot a plasztikai és égés-sebészet szakképzési grémiuma határozza meg, és az ÁEEK honlapján közzéteszi.
+(4c)[^18] A plasztikai és égés-sebészet szakképesítés rendszerbevételi eljárásában a szakképzésbe lépéshez szükséges minimálisan elérhető pontszámot a plasztikai és égés-sebészet szakképzési grémiuma határozza meg, és az OKFŐ honlapján közzéteszi.
 
 (5)[^19] Az egyes szakképzési szakokhoz tartozó szakmaspecifikus tantárgyak körét az egészségügyért felelős miniszter (a továbbiakban: miniszter) tájékoztatóban teszi közzé.
 
@@ -49,6 +49,6 @@ c) az egyetemi záróvizsga 2,0-del súlyozott érdemjegye.
 [^14]: A 4. § (2) bekezdése a 28/2018. (VIII. 29.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^15]: A 4. § (2a) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 6. §-a iktatta be.
 [^16]: A 4. § (4a) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be.
-[^17]: A 4. § (4b) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be.
-[^18]: A 4. § (4c) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be.
+[^17]: A 4. § (4b) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be, szövege az 57/2021. (XII. 27.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
+[^18]: A 4. § (4c) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be, szövege az 57/2021. (XII. 27.) EMMI rendelet 2. § b) pontja szerint módosított szöveg.
 [^19]: A 4. § (5) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 18. § 4. pontja szerint módosított szöveg.

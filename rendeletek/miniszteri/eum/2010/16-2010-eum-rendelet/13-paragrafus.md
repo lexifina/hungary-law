@@ -1,4 +1,4 @@
-## 12/A. §[^72] Az ÁEEK-nek a szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egysége, a Nemzeti Vizsgabizottság (a továbbiakban: NVB) minden év február 15-éig és augusztus 15-éig az ÁEEK honlapján közzéteszi a következő félévre vonatkozó vizsganaptárt.
+## 12/A. §[^72] Az OKFŐ-nek a szakorvosi szakvizsgáztatással kapcsolatos feladatok ellátásáért felelős szervezeti egysége, a Nemzeti Vizsgabizottság (a továbbiakban: NVB) minden év február 15-éig és augusztus 15-éig az OKFŐ honlapján közzéteszi a következő félévre vonatkozó vizsganaptárt.
 
 13. § (1)[^73] A szakvizsgáztatással kapcsolatos szervezési és adminisztratív feladatokat az NVB végzi.
 
@@ -20,7 +20,7 @@ c) a sikeres vizsgát követően a szakvizsga bizonyítványok kiállításáró
 
 (4)[^77] Az NVB a jelöltet a szakvizsga időpontjáról és helyéről a vizsgát megelőzően legalább tizenöt nappal értesíti.
 
-[^72]: A 12/A. §-t a 2/2013. (I. 2.) EMMI rendelet 14. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 115. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 72. § b) és g) pontja szerint módosított szöveg.
+[^72]: A 12/A. §-t a 2/2013. (I. 2.) EMMI rendelet 14. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 115. §-ával megállapított, az 57/2021. (XII. 27.) EMMI rendelet 2. § b) és f) pontja szerint módosított szöveg.
 [^73]: A 13. § (1) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 118. § e) pontja szerint módosított szöveg.
 [^74]: A 13. § (2) bekezdése a 2/2013. (I. 2.) EMMI rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 118. § f) pontja szerint módosított szöveg.
 [^75]: A 13. § (2a) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 12. §-a iktatta be.

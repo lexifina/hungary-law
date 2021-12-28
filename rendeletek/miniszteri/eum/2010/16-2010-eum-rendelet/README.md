@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-0
 | 2020-03-26 | 2010-16-20-0B.20 | 13/2020. (III. 25.) EMMI rendelet |
 | 2020-07-24 | 2010-16-20-0B.21 | 24/2020. (VII. 23.) EMMI rendelet |
 | 2021-02-10 | 2010-16-20-0B.22 | 6/2021. (II. 9.) EMMI rendelet |
+| 2021-12-28 | 2010-16-20-0B.23 | 57/2021. (XII. 27.) EMMI rendelet |

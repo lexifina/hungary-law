@@ -28,7 +28,7 @@ b) a jelölt hozzátartozója, vagy
 
 c) akitől a jelölt teljesítményének tárgyilagos megítélése egyéb okból nem várható el.
 
-## Az összeférhetetlenség fennállásáról a jelölt vagy a szakvizsga bizottság érintett tagjának kérelmére az ÁEEK főigazgatója dönt. Ha az ÁEEK főigazgatója megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (2) bekezdés szerinti módon gondoskodik.
+## Az összeférhetetlenség fennállásáról a jelölt vagy a szakvizsga bizottság érintett tagjának kérelmére az OKFŐ főigazgatója dönt. Ha az OKFŐ főigazgatója megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (2) bekezdés szerinti módon gondoskodik.
 
 (7)[^91] Egyetem munkavállalója vagy alkalmazottja a közvetlen beosztottja szakvizsgáztatásában nem vehet részt.
 
@@ -38,6 +38,6 @@ c) akitől a jelölt teljesítményének tárgyilagos megítélése egyéb okbó
 [^86]: A 17. § (3) bekezdés d) pontját a 20/2011. (V. 10.) NEFMI rendelet 12. § (1) bekezdése iktatta be, szövege a 34/2015. (VI. 30.) EMMI rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^87]: A 17. § (4) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 13. § (2) bekezdésével megállapított szöveg.
 [^88]: A 17. § (4a) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 13. § (3) bekezdése iktatta be.
-[^89]: A 17. § (6) bekezdés záró szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 118. § i) pontja szerint módosított szöveg.
+[^89]: A 17. § (6) bekezdés záró szövegrésze az 57/2021. (XII. 27.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
 [^90]: A 17. § (6) bekezdés a) pontja a 20/2011. (V. 10.) NEFMI rendelet 12. § (2) bekezdésével megállapított, a 34/2015. (VI. 30.) EMMI rendelet 18. § 12. pontja, az 54/2016. (XII. 30.) EMMI rendelet 72. § h) pontja szerint módosított szöveg.
 [^91]: A 17. § (7) bekezdését a 20/2011. (V. 10.) NEFMI rendelet 12. § (3) bekezdése iktatta be, szövege a 34/2015. (VI. 30.) EMMI rendelet 18. § 13. pontja szerint módosított szöveg.
