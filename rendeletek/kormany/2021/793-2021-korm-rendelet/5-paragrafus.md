@@ -1,0 +1,3 @@
+## 4. § Az R. 3. alcíme a következő 12/A. §-sal egészül ki:
+
+## „12/A. § A kezelési terv végrehajtását a világörökségi terület épített és természeti értékeinek alapulvételével megalkotott, az építési tevékenységek és egyéb környezetalakítások (a továbbiakban együtt: beavatkozások) tekintetében a kiemelkedő egyetemes érték megőrzését szolgáló javaslatokat és a beavatkozások során követendő jó példákat szöveges és képi megjelenítés formájában összegző, a településkép védelméről szóló 2016. évi LXXIV. törvény 2/A. § (2) bekezdése szerinti, miniszter által közzétett arculati kézikönyv (a továbbiakban: világörökségi arculati kézikönyv) segíti elő. A világörökségi arculati kézikönyv készítése során a világörökségi tervtanács véleményét ki kell kérni.”

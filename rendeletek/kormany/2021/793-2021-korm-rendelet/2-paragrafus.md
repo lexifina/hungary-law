@@ -1,0 +1,3 @@
+## 1. § A világörökségi területté jelölés hazai eljárásrendjéről, a világörökségi kezelési tervek tartalmi követelményeiről és elkészítésük rendjéről, a gondnokságokról, valamint a világörökségi területen az államot megillető elővásárlási jogról szóló 335/2019. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 4. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A 2. melléklet szerinti felterjesztési dokumentációt a miniszter a Szakbizottság véleményének kikérésével, a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Nonprofit Kft.) közreműködésével készíti elő.”
