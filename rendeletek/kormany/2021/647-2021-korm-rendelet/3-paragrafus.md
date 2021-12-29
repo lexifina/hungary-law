@@ -10,4 +10,6 @@ b) az a) pont alá nem tartozó felülvizsgálatok esetén 2022. augusztus 31-ig
 
 ## folytatja le.
 
-(2) Az (1) bekezdés szerinti felülvizsgálatra hivatkozva az ellátás 2022. február 28. napjáig nem szüntethető meg.
+(2)[^2] A 478/2020. (XI. 3.) Korm. rendelet szerinti veszélyhelyzet, valamint a 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet ideje alatt esedékes felülvizsgálatra hivatkozással a megváltozott munkaképességű személyek ellátása 2022. május 31-ig nem szüntethető meg.
+
+[^2]: A 3. § (2) bekezdése a 815/2021. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
