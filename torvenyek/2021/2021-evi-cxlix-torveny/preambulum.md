@@ -1,0 +1,1 @@
+Az Országgyűlés a 2020. évi XCIX. törvénnyel módosított, a Nemzeti Média- és Hírközlési Hatóság 2020. évi egységes költségvetéséről szóló 2019. évi XCV. törvényben meghatározott költségvetések végrehajtásáról a következő törvényt alkotja.
