@@ -14,7 +14,7 @@ d) annak megjelölése, hogy a filmalkotás állami támogatásban részesült-e
 
 e) a filmalkotás gyártása befejezésének időpontja;
 
-f) a filmalkotás hossza;
+f)[^6] annak ténye, hogy a filmalkotás megrendelésre vagy nem megrendelésre készült;
 
 g) a filmalkotás műfaja;
 
@@ -41,3 +41,5 @@ h) a filmalkotás közvetlen filmgyártási költségének összege;
 i) a filmalkotás közvetlen magyarországi filmgyártási költségének összege;
 
 j) a Filmiroda által ellenőrzött gyártási időszakonként az adott időszakra vonatkozóan a Filmiroda által a támogatási igazolásban megállapított közvetlen filmgyártási költség és a megállapított közvetett támogatás összege.
+
+[^6]: A 7. § (2) bekezdés f) pontja a 10/2021. (XII. 28.) MK rendelet 3. §-ával megállapított szöveg.

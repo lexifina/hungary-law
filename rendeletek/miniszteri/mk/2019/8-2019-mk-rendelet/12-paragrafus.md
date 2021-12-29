@@ -1,5 +1,3 @@
-## 11. § A Filmiroda a mozi (moziterem) „art” minősítése visszavonását követő öt év elteltével törli a mozit (mozitermet) a nyilvántartásból, ha az „art” minősítés visszavonását követően azonos nyilvántartási számon szereplő mozi (moziterem) „art” minősítését a Filmirodától nem kérik.
-
 ## 7. A két- és többoldalú nemzetközi koprodukciós szerződések szerinti és egyéb igazolások kiadásának rendje
 
 12. § (1) A Filmiroda az Mktv. 33. § (2) bekezdése alapján kiállítja a két- és többoldalú nemzetközi koprodukciós szerződések (a továbbiakban: egyezmény) szerinti és az egyéb mozgóképszakmai igazolásokat (a továbbiakban együttesen: koprodukciós igazolás). A koprodukciós igazolás kiállítására irányuló eljárás szabályait a vonatkozó, érvényes egyezmény állapítja meg, mely eljárási szabályokat az e rendeletben foglalt kiegészítésekkel kell alkalmazni.

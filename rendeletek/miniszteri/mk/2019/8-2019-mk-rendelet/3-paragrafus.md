@@ -1,3 +1,5 @@
+## 2/A. § Ha a Filmiroda a nyilvántartás vezetésével összefüggő általános hatósági felügyeleti eljárásában megállapította, hogy a bejegyzés jogszabálysértő, törli, a hibás bejegyzést javítja, vagy az elmulasztott bejegyzést pótolja.
+
 ## 3. Mozgóképszakmai szervezetek és természetes személyek nyilvántartása
 
 3. § (1) A Filmiroda az Mktv. 19. § (1) bekezdés c) pontja alapján az állami támogatást igénylő mozgóképszakmai szervezetekről, illetve természetes személyekről vezetett hatósági nyilvántartását a (2) bekezdésben meghatározott adattartalommal a honlapján közzéteszi.
