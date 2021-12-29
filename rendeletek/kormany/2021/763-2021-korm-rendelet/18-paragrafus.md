@@ -1,3 +1,3 @@
-## 17. § A természetes személyek adósságrendezési eljárásában a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatairól szóló 240/2015. (IX. 8.) Korm. rendelet 9. alcíme a következő 14/A. §-sal egészül ki:
+## 17. §[^8]
 
-## „14/A. § A CsSz illetékes területi szerve megküldi az ügygondnokot kirendelő végzést a CsSz központi szerve részére az ügygondnok díjának megelőlegezése céljából. A CsSz területi szerve tájékoztatja az eljárásba belépő jogutódot arról, hogy a költségvetésből megelőlegezett ügygondnoki díj megfizetésére vonatkozó kötelezettségét a CsSz központi szervének pénzforgalmi számlájára kell teljesítenie.”
+[^8]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

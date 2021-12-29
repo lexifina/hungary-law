@@ -1,7 +1,6 @@
-## szöveg lép.
+## 21. §[^12]
 
-## 22. § Hatályát veszti a természetes személyek adósságrendezési eljárásában a Családi Csődvédelmi Szolgálat és a családi vagyonfelügyelő részletes feladatairól szóló 240/2015. (IX. 8.) Korm. rendelet
+22. §[^13]
 
-a) 2. § (3) bekezdése, valamint
-
-b) 11. § (3) bekezdése.
+[^12]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
