@@ -1,4 +1,4 @@
-## 12. §[^12]
+## 12. §[^13]
 
 ## 4. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 10. § (1) bekezdése és a 11. § 2022. május 21-én lép hatályba.
 
-[^12]: A 12. § a 13. § (2) bekezdése alapján 2022. február 2-án lép hatályba.
+[^13]: A 12. § a 13. § (2) bekezdése alapján 2022. február 2-án lép hatályba.

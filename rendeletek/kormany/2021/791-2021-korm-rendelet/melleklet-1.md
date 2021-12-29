@@ -1,3 +1,3 @@
-1. melléklet a 791/2021. (XII. 27.) Korm. rendelethez[^15]
+1. melléklet a 791/2021. (XII. 27.) Korm. rendelethez[^16]
 
-[^15]: Az 1. melléklet a 13. § (3) bekezdése alapján 2022. február 21-én lép hatályba.
+[^16]: Az 1. melléklet a 13. § (3) bekezdése alapján 2022. február 21-én lép hatályba.
