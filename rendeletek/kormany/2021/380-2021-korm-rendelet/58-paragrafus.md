@@ -313,13 +313,13 @@
 [^141]: Az 58. § 84. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^142]: Az 58. § 85. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^143]: Az 58. § 86. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^144]: Az 58. § 87. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^145]: Az 58. § 88. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^144]: Az 58. § 87. pontja a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^145]: Az 58. § 88. pontja a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
 [^146]: Az 58. § 89. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^147]: Az 58. § 90. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^148]: Az 58. § 91. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^149]: Az 58. § 92. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^150]: Az 58. § 93. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^150]: Az 58. § 93. pontja a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
 [^151]: Az 58. § 94. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^152]: Az 58. § 95. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^153]: Az 58. § 96. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

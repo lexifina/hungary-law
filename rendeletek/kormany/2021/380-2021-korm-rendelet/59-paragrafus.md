@@ -83,11 +83,11 @@
 [^186]: Az 59. § 17. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^187]: Az 59. § 18. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^188]: Az 59. § 19. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^189]: Az 59. § 20. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^190]: Az 59. § 21. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^189]: Az 59. § 20. pontja a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^190]: Az 59. § 21. pontja a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
 [^191]: Az 59. § 22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^192]: Az 59. § 23. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
-[^193]: Az 59. § 24. pontja a 60. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^192]: Az 59. § 23. pontja a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^193]: Az 59. § 24. pontja a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
 [^194]: Az 59. § 25. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^195]: Az 59. § 26. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^196]: Az 59. § 27. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
