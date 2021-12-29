@@ -1,17 +1,28 @@
-1. § (1) A koronavírus világjárvány okozta rendkívüli helyzetre való tekintettel az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében a bányafelügyelet határozatban kötelezi a műszaki üzemi terv szerinti kitermelési kapacitás
+1. § (1)[^2] A koronavírus világjárvány okozta rendkívüli helyzetre való tekintettel az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében a bányafelügyelet határozatban kötelezi az első, módosítás nélküli kitermelési műszaki üzemi tervben engedélyezett legnagyobb kitermelési mennyiség
 
 a) minimum 50%-os mértékig történő üzemszerű kitermelés egy éven belül való megkezdésére azon bányavállalkozót, aki az üzemszerű kitermelés megkezdésére vonatkozó műszaki üzemi tervet e rendelet hatálybalépését megelőzően szerezte meg;
 
 b) 100%-os mértékig történő üzemszerű kitermelés egy éven belül való megkezdésére azon bányavállalkozót, aki az üzemszerű kitermelés megkezdésére vonatkozó műszaki üzemi tervet e rendelet hatálybalépése után szerzi meg.
 
-(2) Az építőipari nyers- és alapanyag üzemszerű kitermelését folytató bányavállalkozó az e rendelet hatálybalépését megelőző fél év szerinti havi átlagos kitermelési mennyiséget csak a bányafelügyelet engedélyével csökkentheti.
+(1a)[^3] Az (1) bekezdés szerinti egyéves időtartam a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 26/A. § (4) bekezdésében meghatározott időtartamon – ideértve a Bt. 26/A. § (4) bekezdése szerinti határidő-meghosszabbítást is – nem terjedhet túl.
+
+(2)[^4] Az építőipari nyers- és alapanyag üzemszerű kitermelését folytató bányavállalkozó a kitermelés havi mennyiségét a bányafelügyelet engedélyével csökkentheti az e rendelet hatálybalépését megelőző fél év alatt kitermelt ásványi nyersanyag havi átlagos mennyisége alá. Ha a bányavállalkozó a kitermelési mennyiséget a bányafelügyelet engedélye nélkül vagy az engedélyezettnél nagyobb mértékben csökkentette, a bányafelügyelet a szabálytalan bányászati tevékenység gyakorlására vonatkozó szankciókat alkalmazza, azzal, hogy közigazgatási szankcióként figyelmeztetés nem alkalmazható.
+
+(2a)[^5] A kitermelési mennyiség csökkentése akkor engedélyezhető, ha
+
+a) a bányavállalkozónál vis maior helyzet következett be vagy
+
+b) az a) pont hatálya alá nem tartozó olyan külső kényszerítő ok áll fenn, amely a bányavállalkozó tevékenységi körén kívül esik.
 
 (3) Az (1) bekezdés szerinti kitermelés megkezdésének elmaradása esetén a bányafelügyelet a bányavállalkozó bányászati jogát törli és a bányatelken fennálló bányászati jog új jogosultjának a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaságot jelöli ki.
 
-(4) A (3) bekezdés esetén a bányászatról szóló 1993. évi XLVIII. törvény 26/A. § (6a) bekezdésében foglaltaktól eltérően az új jogosult a kijelöléstől számított egy éven belül köteles az üzemszerű kitermelést megkezdeni. Az új jogosult nem kérheti a bányafelügyelettől az üzemszerű kitermelés megkezdésére megállapított határidő meghosszabbítását.
+(4)[^6] A bányászati jog (3) bekezdés szerinti törlése esetén az új jogosult a kijelöléstől számított egy éven belül köteles az üzemszerű kitermelést megkezdeni. Az üzemszerű kitermelés megkezdésére megállapított határidő a Bt. 26/A. § (4) bekezdésétől eltérően nem hosszabbítható meg. Az egyéves határidőbe a kijelölő határozat véglegessé válásától a Magyar Állam tulajdonosi jogait gyakorló szerv által a bányászati jog hasznosítására megkötött szerződés hatálybalépéséig terjedő időtartam, valamint a kitermelés megkezdéséhez szükséges hatósági engedélyek megszerzéséhez szükséges hatósági eljárások időtartama nem számít bele.
 
-(5) Az építőipari nyers- és alapanyagokra megállapított bányatelkek esetében az üzemszerű kitermelés az ásványi nyersanyag olyan kitermelése, ahol a tényleges kitermelési mennyiség a bányatelek megállapításától számított egy éven belül a tevékenységre vonatkozó, első, módosítás nélküli műszaki üzemi tervben jóváhagyott legnagyobb kitermelési mennyiségnek
+(5)[^7]
 
-a) az (1) bekezdés a) pontja esetében 50%-át,
-
-b) az (1) bekezdés b) pontja esetében 100%-át
+[^2]: Az 1. § (1) bekezdés nyitó szövegrésze a 826/2021. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 826/2021. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (2) bekezdése a 826/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (2a) bekezdését a 826/2021. (XII. 28.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (4) bekezdése a 826/2021. (XII. 28.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (5) bekezdését a 826/2021. (XII. 28.) Korm. rendelet 4. §-a hatályon kívül helyezte.
