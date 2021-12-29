@@ -1,1 +1,1 @@
-16. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 15/C. § (1) bekezdésében a „Hatóság Hivatalához (a továbbiakban: Hivatal)” szövegrész helyébe a „Hivatalhoz” szöveg lép.
+16. §

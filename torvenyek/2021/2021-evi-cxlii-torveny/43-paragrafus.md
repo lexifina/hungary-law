@@ -7,11 +7,3 @@ b) az uniós információs rendszerek közötti interoperabilitás kereteinek me
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) A 4. alcím az online terrorista tartalom terjesztésével szembeni fellépésről szóló, 2021. április 29-i (EU) 2021/784 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
