@@ -1,0 +1,1 @@
+## „(9) A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt beruházási helyszínek közül a 7. mellékletben lehatárolt területek közúti közlekedési célt szolgálnak, azokon lakóépület nem helyezhető el.”
