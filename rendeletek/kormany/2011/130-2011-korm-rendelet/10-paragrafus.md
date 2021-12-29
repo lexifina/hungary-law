@@ -1,3 +1,3 @@
-## 9. §[^24] Ha a Szolgálatok alaptevékenységük ellátása érdekében saját felhasználás céljából eszközöket, illetve termékeket állítanak elő, ezen eszközök, illetve termékek vonatkozásában nem kell az Áhsz. 50. § (3) bekezdésében meghatározott önköltségszámítás rendjére vonatkozó szabályokat alkalmazni.
+## 9. §[^27] Ha a Szolgálatok alaptevékenységük ellátása érdekében saját felhasználás céljából eszközöket, illetve termékeket állítanak elő, ezen eszközök, illetve termékek vonatkozásában nem kell az Áhsz. 50. § (3) bekezdésében meghatározott önköltségszámítás rendjére vonatkozó szabályokat alkalmazni.
 
-[^24]: A 9. § az 553/2013. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^27]: A 9. § az 553/2013. (XII. 31.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -46,11 +46,15 @@
 
 15. a finanszírozási bevételek kiemelt előirányzatot a maradvány igénybevétele kivételével a „B816. Központi, irányító szervi támogatás” rovaton,
 
-16. a maradvány igénybevételt a „B813 Maradvány igénybevétele” rovaton
+16.[^21] a maradvány igénybevételt a „B813 Maradvány igénybevétele” rovaton,
+
+17.[^22] az államháztartáson belüli megelőlegezések bevételeit a „B814 államháztartáson belüli megelőlegezések” rovaton,
+
+18.[^23] az államháztartáson belüli megelőlegezések visszafizetésének kiadásait a „K914 államháztartáson belüli megelőlegezések visszafizetése” rovaton
 
 kell megjeleníteni.
 
-(9)[^21] Kizárólag a fejezetet irányító szervnek és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottságának megküldött adatszolgáltatások tartalmazhatnak a Szolgálatok létszámára vonatkozóan „hivatásos” és „közalkalmazott” felosztásnál részletesebb bontású adatokat.
+(9)[^24] Kizárólag a fejezetet irányító szervnek és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottságának megküldött adatszolgáltatások tartalmazhatnak a Szolgálatok létszámára vonatkozóan „hivatásos” és „közalkalmazott” felosztásnál részletesebb bontású adatokat.
 
 [^12]: A 7. § az 553/2013. (XII. 31.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^13]: A 7. § (3) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
@@ -61,4 +65,7 @@ kell megjeleníteni.
 [^18]: A 7. § (8) bekezdés 11. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont cc) alpontja szerint módosított szöveg.
 [^19]: A 7. § (8) bekezdés 13. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont cd) alpontja szerint módosított szöveg.
 [^20]: A 7. § (8) bekezdés 14. pontja a 142/2016. (VI. 13.) Korm. rendelet 7. § c) pont ce) alpontja szerint módosított szöveg.
-[^21]: A 7. § (9) bekezdését a 142/2016. (VI. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^21]: A 7. § (8) bekezdés 16. pontja a 801/2021. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^22]: A 7. § (8) bekezdés 17. pontját a 801/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^23]: A 7. § (8) bekezdés 18. pontját a 801/2021. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 7. § (9) bekezdését a 142/2016. (VI. 13.) Korm. rendelet 5. § (3) bekezdése iktatta be.
