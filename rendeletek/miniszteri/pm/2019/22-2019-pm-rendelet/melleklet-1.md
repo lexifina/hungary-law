@@ -1,4 +1,4 @@
-## 22. §[^2]
+## 22. §[^4]
 
 1. melléklet a 22/2019. (XII. 23.) PM rendelethez
 
@@ -84,4 +84,4 @@ A kötelező továbbképzés keretében megvalósuló képzési programok
 
 | 39 | ÁBPE-továbbképzés II. – A kontrollkörnyezet értékalapú elemei – a költségvetési szervek vezetői és gazdasági vezetői részére | Tréning | A képzés célja, hogy elméleti és gyakorlati ismereteket nyújtson a résztvevők számára a kontrollkörnyezet értékalapú elemeiről, azok kialakításáról, valamint arról a változásmenedzsment folyamatról, amelyek elősegíti az integráns működés kialakítását és a szervezeti kultúra fejlesztését. | 14 tanóra |
 
-[^2]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

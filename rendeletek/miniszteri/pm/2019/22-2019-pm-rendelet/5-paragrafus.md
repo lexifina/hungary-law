@@ -19,3 +19,7 @@ c) a bejegyzett adatok módosítására irányuló bejelentés eljárása díjme
 (6) A díj nyilvántartására, kezelésére és elszámolására az államháztartás számviteléről szóló kormányrendelet előírásait kell alkalmazni.
 
 (7) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2) és (3) bekezdésében foglaltakat, valamint az Itv. 73/A. §-ában foglaltakat, a mulasztási bírságra az Itv. 82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díj értendő.
+
+(8)[^3] A 4. § (3) bekezdése szerinti kérelemre induló eljárásban a munkáltatót vagy a megbízót az (1) bekezdés b) pontja szerinti díjfizetési kötelezettség nem terheli.
+
+[^3]: Az 5. § (8) bekezdését a 20/2021. (XII. 28.) PM rendelet 2. §-a iktatta be.

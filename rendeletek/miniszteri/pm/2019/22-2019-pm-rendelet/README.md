@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-22-20-5
 | 2020-01-01 | 2019-22-20-53.1 | 22/2019. (XII. 23.) PM rendelet |
 | 2020-01-02 | 2019-22-20-53.2 | 2010: CXXX. törvény |
 | 2021-01-01 | 2019-22-20-53.3 | 21/2020. (XII. 30.) PM rendelet |
+| 2021-12-29 | 2019-22-20-53.4 | 20/2021. (XII. 28.) PM rendelet |
