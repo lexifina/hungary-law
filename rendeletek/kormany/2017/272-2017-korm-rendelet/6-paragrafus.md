@@ -1,0 +1,4 @@
+## 5. §[^1] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. mellékletben meghatározott beruházásokkal összefüggő, a Módr1. hatálybalépésekor[^2] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 141/2018. (VII. 27.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 8. §-át.
+[^2]: A hatálybalépés időpontja 2018. július 28.

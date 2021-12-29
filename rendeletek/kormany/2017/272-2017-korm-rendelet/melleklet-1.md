@@ -1,6 +1,6 @@
-## 5. §[^1] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. mellékletben meghatározott beruházásokkal összefüggő, a Módr1. hatálybalépésekor[^2] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 6. §[^3] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási, valamint hulladékgazdálkodási beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 272/2017. (IX. 14.) Korm. rendelet módosításáról szóló 823/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 1. melléklet szerinti beruházásokkal összefüggő, a Módr2.-vel módosított 2. mellékletben meghatározott, a Módr2. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 272/2017. (IX. 14.) Korm. rendelethez[^3]
+1. melléklet a 272/2017. (IX. 14.) Korm. rendelethez[^5]
 
 1. Ivóvízminőség-javító projektek
 
@@ -54,7 +54,7 @@
 
 | 24 | Bócsa település ivóvízellátást javító program | Bócsa Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 25 | Gönyű, Nagyszentjános települések Ivóvízminőség-javító Programja | Gönyű Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 25 | Nagyszentjános település Ivóvízminőség-javító Programja | Nagyszentjános Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 26 | Délkelet-Magyarországi ivóvízminőség-javító program 1. (DKMO 1) | Mindszent Város Önkormányzata, Felgyő Községi Önkormányzat, Tömörkény Községi Önkormányzat, Békésszentandrás Nagyközség Önkormányzata és Fábiánsebestyén Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -90,7 +90,7 @@
 
 | 42 | Ivóvízminőség-javító fejlesztést célzó beruházás Ináncs községben | Ináncs Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 43 | Tiszaeszlár ivóvízminőség-javítási projekt | Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 43 | Tiszaeszlár ivóvízminőség-javítási projekt | Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság és Tiszaeszlár Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 44 | Belecska ivóvízminőség-javító program | Belecska Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -128,7 +128,7 @@
 
 | 61 | Zsujta ivóvízminőség-javító program | Zsujta Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 62 | Baranyaszentgyörgy község ivóvízminőség-javítása | Baranyaszentgyörgy Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 62 | Baranyaszentgyörgy és Tormás községek ivóvízminőség- javítása | Baranyaszentgyörgy Község Önkormányzata és Tormás Község Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 63 | Kazsok település ivóvízminőség-javító program | Kazsok Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -152,7 +152,7 @@
 
 | 73 | Enying város ivóvízminőség-javítása | Enying Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 74 | Mátraszele és térsége vízellátásának megoldása | Mátraszele Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 74 |  |  |
 
 | 75 | Nyírmihálydi és Nyírgelse ivóvízminőség-javító programja | Nyírmihálydi Község Önkormányzat és Nyírgelse Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -174,13 +174,23 @@
 
 | 84 | Vönöck és térsége ivóvízminőség-javító program (Vönöck, Kemenesmagasi, Kemenesmihályfa, Kemenessömjén, Kemenesszentmárton, Tokorcs) | Vönöck Község Önkormányzata, Kemenesmagasi Községi Önkormányzat, Kemenesmihályfa Község Önkormányzata, Kemenessömjén Község Önkormányzata, Kemenesszentmárton Község Önkormányzata és Tokorcs Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
+| 84a | Hedrehely, Hencse és Visnye települések ivóvízminőség-javító programja | Hedrehely Község Önkormányzata, Hencse Községi Önkormányzat és Visnye Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 84b | Búcsúszentlászló és térsége ivóvízminőség javítása | Búcsúszentlászló Község Önkormányzata, Kisbucsa Község Önkormányzata, Nemeshetés Község Önkormányzata, Nemesszentandrás Község Önkormányzata, Nemessándorháza Község Önkormányzata, Pölöske Község Önkormányzata és Zalaszentmihály Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
 | 85 | Rábahídvég és Püspökmolnári település ivóvízminőség-javító program | Rábahídvég Község Önkormányzata és Püspökmolnári Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85a | Zalabaksa és térsége ivóvízminőség javítása és vízellátásának fejlesztése | Zalabaksa Község Önkormányzata, Csesztreg Község Önkormányzata, Kálócfa Község Önkormányzata, Kozmadombja Község Önkormányzata, Kerkabarabás Község Önkormányzata és Pórszombat Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85b | Gétye település ivóvízminőség javítása és vízellátásának fejlesztése | Gétye Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85c | Közép-Duna Menti Kiemelt térség víziközmű fejlesztésének előkészítése | Közép-Duna Menti Fejlesztési Tanács és munkaszervezete |
 
 | 86 | Észak- és Közép-Dunántúli ivóvízminőség-javító program 1. (ÉKDU 1) | Tamási Város Önkormányzata, Pincehely Nagyközség Önkormányzata, Kölesd Községi Önkormányzat és Kistormás Község Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 87 | Észak-Magyarországi ivóvízminőség-javító program 1. (ÉMO 1) | Gönc Város Önkormányzata, Halmaj Községi Önkormányzat, Csobád Község Önkormányzata, Kiskinizs Községi Önkormányzat, Kázsmárk Község Önkormányzata, Léh Község Önkormányzata, Rásonysápberencs Község Önkormányzata, Ráckeve Város Önkormányzata, Farmos Község Önkormányzata és Tápiószele Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 88 | Nyugat- és Dél-Dunántúli ivóvízminőség-javító program 1. (NYDDU 1) | Szentlőrinc Város Önkormányzata, Szigetvár Város Önkormányzat, Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság, Miklósi Község Önkormányzata, Somogyacsa Község Önkormányzata, Törökkoppány Község Önkormányzata, Andocs Község Önkormányzata, Nágocs Község Önkormányzata, Lakócsa Község Önkormányzata, Szentborbás Község Önkormányzata, Potony Község Önkormányzata, Tótújfalu Község Önkormányzata, Csokonyavisonta Község Önkormányzata, Darány Község Önkormányzata, Istvándi Község Önkormányzata, Ádánd Község Önkormányzata, Taszár Községi Önkormányzat és Orci Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 88 | Nyugat- és Dél-Dunántúli ivóvízminőség-javító program 1. (NYDDU 1) | Szentlőrinc Város Önkormányzata, Szigetvár Város Önkormányzat, Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság, Törökkoppány Község Önkormányzata, Andocs Község Önkormányzata, Nágocs Község Önkormányzata, Lakócsa Község Önkormányzata, Szentborbás Község Önkormányzata, Potony Község Önkormányzata, Tótújfalu Község Önkormányzata, Csokonyavisonta Község Önkormányzata, Darány Község Önkormányzata, Istvándi Község Önkormányzata, Ádánd Község Önkormányzata, Taszár Községi Önkormányzat és Orci Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 89 | Közép- és Kelet-Magyarországi ivóvízminőség-javító program 1. (KKMO 1) | Csemő Község Önkormányzata, Cibakháza Nagyközség Önkormányzata, Nagykőrös Város Önkormányzata és Tiszafüred Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -198,7 +208,13 @@
 
 | 96 | Makó és térsége ivóvízminőség-javítása | „Makó és Térsége” Ivóvízminőség-javító Önkormányzati Társulás |
 
-| 97 | Budapest ivóvízellátó hálózatának fejlesztése | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 97 | Budapest Főváros víztermelő kútjainak fejlesztése, vízminőségi és kapacitáskockázatok kezelése | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 98 | Tatabánya XV/C és a Tatabánya XIV/A vízaknák közti meglévő vezeték kiváltásának és Tatabánya XV/C Vízakna és Oroszlány víztorony közötti vezeték kiváltás – Tatabánya A | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+
+| 99 | Tatabánya XIV/A vízakna és Tatabánya Karsztakna medence közötti meglévő expressz vezeték kiváltásának és Tatabánya Karsztakna medence és a Tata Kálvária dombi víztorony közötti vezeték kiváltás – Tatabánya B | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+
+| 100 | Iváncsai ipari park ivóvízellátása | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
 
 2. Szennyvízkezelési projektek
 
@@ -228,13 +244,13 @@
 
 | 12 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 1. (ÉKDU 1) | Gyúró Község Önkormányzata, Martonvásár Város Önkormányzata, Ráckeresztúr Község Önkormányzat, Tordas Község Önkormányzata, Pincehely Nagyközség Önkormányzata, Bátaszék Város Önkormányzata, Báta Község Önkormányzata és Tapolca Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 13 | Közép- és Kelet- Magyarországi szennyvízelvezetési és -kezelési fejlesztés 2. (KKMO 2) | Bácsbokod Nagyközség Önkormányzata, Cibakháza Nagyközség Önkormányzata és Tiszakécske Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 13 | Közép- és Kelet- Magyarországi szennyvízelvezetési és -kezelési fejlesztés 2. (KKMO 2) | Bácsbokod Nagyközség Önkormányzata, Bácsborsód Községi Önkormányzat, Cibakháza Nagyközség Önkormányzata és Tiszakécske Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 14 | Közép- és Kelet- Magyarországi szennyvízelvezetési és -kezelési fejlesztés 7. (KKMO 7) | Solt Város Önkormányzata, Cserkeszőlő Községi Önkormányzat, Heves Város Önkormányzata és Tiszabő Községi Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 14 | Közép- és Kelet- Magyarországi szennyvízelvezetési és -kezelési fejlesztés 7. (KKMO 7) | Solt Város Önkormányzata, Cserkeszőlő Községi Önkormányzat és Heves Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 15 | Északkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 3. (ÉKMO 3) | Egyek Nagyközség Önkormányzata, Nagyrábé Nagyközség Önkormányzata, Görbeháza Község Önkormányzata és Polgár Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 16 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 4. (ÉKDU 4) | Bonyhád Város Önkormányzata, Kakasd Község Önkormányzata, Nagymányok Város Önkormányzata, Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság, Felsőörs Község Önkormányzata, Lovas Község Önkormányzata, Bakonykoppány Község Önkormányzata, Bakonyszücs Község Önkormányzata, Béb Község Önkormányzata, Adásztevel Község Önkormányzata, Csót Község Önkormányzata, Homokbödöge Község Önkormányzata, Nagygyimót Község Önkormányzata, Nagytevel Község Önkormányzata, Ugod Község Önkormányzata, Berhida Város Önkormányzata, Papkeszi Község Önkormányzata, Iváncsa Községi Önkormányzat, Besnyő Község Önkormányzat, Beloiannisz Község Önkormányzata és Devecser Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 16 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 4. (ÉKDU 4) | Bonyhád Város Önkormányzata, Kakasd Község Önkormányzata, Nagymányok Város Önkormányzata, Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság, Lovas Község Önkormányzata, Bakonykoppány Község Önkormányzata, Bakonyszücs Község Önkormányzata, Béb Község Önkormányzata, Adásztevel Község Önkormányzata, Csót Község Önkormányzata, Homokbödöge Község Önkormányzata, Nagygyimót Község Önkormányzata, Nagytevel Község Önkormányzata, Ugod Község Önkormányzata, Berhida Város Önkormányzata, Papkeszi Község Önkormányzata, Iváncsa Községi Önkormányzat, Besnyő Község Önkormányzat, Beloiannisz Község Önkormányzata és Devecser Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 17 | Adony szennyvíztisztító telep bővítése és fejlesztése | Adony Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -274,7 +290,7 @@
 
 | 35 | Kenézlő központú agglomeráció szennyvíztisztító telepének korszerűsítése | Kenézlő Községi Önkormányzat, Györgytarló Községi Önkormányzat, Viss Község Önkormányzata és Zalkod Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 36 | Mónosbél központú agglomeráció szennyvíztisztító telepének korszerűsítése | Mónosbél Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 36 | Mónosbél központú agglomeráció szennyvíztisztító telepének korszerűsítése | Mónosbél Községi Önkormányzat, Balaton Községi Önkormányzat, Bekölce Községi Önkormányzat, Bükkszentmárton Községi Önkormányzat és Mikófalva Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 37 | Nemesszalók község szennyvíztisztításának korszerűsítése | Nemesszalók Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -294,7 +310,7 @@
 
 | 45 | Királyszentistván központú agglomeráció szennyvíztisztításának fejlesztése | Királyszentistván Község Önkormányzata és Litér Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 46 | Várpalota város szennyvízelvezetésének korszerűsítése | Várpalota Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 46 | Várpalota város szennyvíztisztításának fejlesztése | Várpalota Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 47 | Bóly központú agglomeráció szennyvíztisztító telepének és csatornahálózatának fejlesztése | Bóly Város Önkormányzata, Belvárdgyula Község Önkormányzata, Borjád Község Önkormányzata, Máriakéménd Község Önkormányzata, Monyoród Község Önkormányzata, Pócsa Község Önkormányzata, Szederkény Község Önkormányzata és Versend Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -302,7 +318,7 @@
 
 | 49 | Beremend nagyközség szennyvízelvezetésének és -tisztításának fejlesztése | Beremend Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 50 | Pilisborosjenő község szennyvízelvezetése és -tisztítása | Pilisborosjenő Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 50 | Budapest Főváros és Pilisborosjenő Község Önkormányzatai közös derogációs szennyvíz-elvezetési projektje | Budapest Főváros Önkormányzata, Pilisborosjenő Község Önkormányzata és Üröm Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 51 | Somogyszob központú agglomeráció szennyvíztisztításának fejlesztése | Somogyszob Községi Önkormányzat és Bolhás Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -320,7 +336,7 @@
 
 | 58 | Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 15. (ÉMO 15) | Boconád Község Önkormányzata, Nagyfüged Községi Önkormányzat, és Tarnaméra Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 59 | Nyugat- és Dél-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 9. (NYDDU 9) | Döbrököz Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 59 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 8. (ÉKDU 8) | Döbrököz Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 60 | Délkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 5. (DKMO 5) | Dombegyház Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -328,13 +344,45 @@
 
 | 62 | Monostorpályi szennyvízelvezetés- fejlesztése II. ütem | Monostorpályi Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 63 | Délkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 3. (DKMO 3) | Mezőhegyes Városi Önkormányzat és Méhkerék Község Román Nemzetiségi Települési Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 62a | Sátoraljaújhely központú agglomeráció szennyvízelvezetése és -tisztítása | Sátoraljaújhely Város Önkormányzata, Alsóregmec Község Önkormányzata és Mikóháza Községi Önkormányzata 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62b | Mezőberény szennyvíztisztító telep fejlesztése | Mezőberény Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62c | Göd-Nevelek szennyvízelvezetése | DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62d | Szerencs központú agglomeráció szennyvízelvezetése és -tisztítása | Szerencs Város Önkormányzata, Legyesbénye Község Önkormányzata, Bekecs Község Önkormányzata, Mád Község Önkormányzata, Mezőzombor Község Önkormányzata és Rátkai Német Nemzetiségi Települési Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62e | Békésszentandrási szennyvíztisztító telep bővítése és korszerűsítése | Békésszentandrás Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62f | Dévaványai szennyvíztisztító telep fejlesztése | Dévaványa Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62g | Ceglédi szennyvíztisztító telep korszerűsítése, fejlesztése | Cegléd Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62h | Csengőd agglomeráció szennyvízkezelésének fejlesztése | Csengőd Község Önkormányzata, Tabdi Községi Önkormányzat és Akasztó Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62i | Komárom város szennyvízelvezetésének és -tisztításának fejlesztése | Komárom Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62j | Zsámbéki-medence szennyvíztisztítás fejlesztése (ÉMO 17) | Zsámbék Város Önkormányzata, Tök Község Önkormányzata, Perbál Község Önkormányzata, Budajenő Község Önkormányzata és Telki Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62k | Zalaszentgrót központú agglomeráció szennyvízelvezetése és -tisztítása | Zalaszentgrót Város Önkormányzata, Tekenye Község Önkormányzata és Türje Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62l | Budapest XIII. kerület, Béke téri tehermentesítő főgyűjtőcsatorna építése | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62m | Budapesti Központi Szennyvíztisztító Telep iszapvonal fejlesztés | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62n | Délpesti Szennyvíztisztító Telep vízgyűjtő területéhez kapcsolódó fejlesztések – I. ütem | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62o | A hálózati elemek további fejlesztése Budapest teljes körű csatornázásának biztosítása érdekében | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 62p | Budapest, XVII. kerületi csatornafejlesztések | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 63 | Délkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 3. (DKMO 3) | Mezőhegyes Városi Önkormányzat és Méhkerék Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 64 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 3. (ÉKDU 3) | Bősárkány Nagyközség Önkormányzata, Dör Község Önkormányzata, Csorna Város Önkormányzata, Tát Város Önkormányzat és Tokod Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 65 | Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 1. (ÉMO 1) | Bugyi Nagyközség Önkormányzata, Csömör Nagyközség Önkormányzata, Pétervására Város Önkormányzata, Erdőkövesd Község Önkormányzata, Váraszó Község Önkormányzata, Istenmezeje Község Önkormányzata, Bükkszenterzsébet Község Önkormányzata, Tarnalelesz Község Önkormányzata, Szentdomonkos Község Önkormányzata, Bodony Községi Önkormányzat, Mátraballa Községi Önkormányzat, Mátraderecske Községi Önkormányzat, Parád Nagyközségi Önkormányzat és Recsk Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 66 | Közép- és Kelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 4. (KKMO 4) | Dunapataj Nagyközség Önkormányzata, Harta Nagyközség Önkormányzata és Tiszabura Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 66 | Közép- és Kelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 4. (KKMO 4) | Dunapataj Nagyközség Önkormányzata és Harta Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 67 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKDU 2) | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság, Kulcs Községi Önkormányzat, Rácalmás Város Önkormányzat, Dunaújváros Megyei Jogú Város Önkormányzata és Pusztaszabolcs Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -352,15 +400,15 @@
 
 | 74 | Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 5. (ÉMO 5) | Borsodnádasd Város Önkormányzata, Arló Nagyközség Önkormányzata, Füzesabony Város Önkormányzata és Sárospatak Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 75 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 6. (ÉKDU 6) | Bicske Város Önkormányzata, Csabdi Község Önkormányzat, Mány Község Önkormányzata, Csákvár Város Önkormányzata, Lovasberény Község Önkormányzata, Alcsútdoboz Település Önkormányzat, Felcsút Községi Önkormányzat, Szár Községi Önkormányzat, Tabajd Község Önkormányzata és Újbarok Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 75 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 6. (ÉKDU 6) | Bicske Város Önkormányzata, Csabdi Község Önkormányzat, Mány Község Önkormányzata, Csákvár Város Önkormányzata, Lovasberény Község Önkormányzata, Alcsútdoboz Település Önkormányzat, Felcsút Községi Önkormányzat, Szár Községi Önkormányzat, Tabajd Község Önkormányzata, Újbarok Községi Önkormányzat és Óbarok Község Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 76 | Nyugat- és Dél-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 6. (NYDDU 6) | Ivánc Község Önkormányzata, Csákánydoroszló Község Önkormányzata, Nádasd Községi Önkormányzat, Katafa Községi Önkormányzat, Bozzai Község Önkormányzata, Kenéz Község Önkormányzata, Pecöl Község Önkormányzata, Megyehíd Község Önkormányzata, Szombathely Megyei Jogú Város Önkormányzata, Táplánszentkereszt Község Önkormányzata, Barcs Város Önkormányzata, Villány Város Önkormányzata, Bük Város Önkormányzata, Vasszilvágy Község Önkormányzata, Acsád Község Önkormányzata, Meszlen Község Önkormányzata és Vát Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 77 | Északkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKMO 2) | Gávavencsellő Nagyközség Önkormányzata, Jánd Község Önkormányzata, Vásárosnamény Város Önkormányzata, Aranyosapáti Község Önkormányzata, Mándok Város Önkormányzata, Cigánd Város Önkormányzata, Tiszakarád Község Önkormányzata, Beszterec Község Önkormányzata, Tiszatelek Község Önkormányzata és Újdombrád Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 77 | Északkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKMO 2) | Gávavencsellő Nagyközség Önkormányzata, Jánd Község Önkormányzata, Vásárosnamény Város Önkormányzata, Aranyosapáti Község Önkormányzata, Mándok Város Önkormányzata, Cigánd Város Önkormányzata, Tiszakarád Község Önkormányzata, Nagyhalász Város Önkormányzata, Beszterec Község Önkormányzata, Tiszatelek Község Önkormányzata és Újdombrád Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 78 | Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 7. (ÉMO 7) | Kartal Nagyközség Önkormányzata, Verseg Község Önkormányzata, Boldog Község Önkormányzata, Heréd Községi Önkormányzat, Nagykökényes Községi Önkormányzat, Bátonyterenye Város Önkormányzata, Salgótarján Megyei Jogú Város Önkormányzata, DMRV Duna Menti Regionális Vízmű Zártkörűen Működő Részvénytársaság, Telki Község Önkormányzata, Kerekharaszt Község Önkormányzata, Jobbágyi Község Önkormányzata, Szurdokpüspöki Község Önkormányzata, Szarvasgede Község Önkormányzata, Ecseg Község Önkormányzata és Csécse Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 79 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 5. (ÉKDU 5) | Csabrendek Nagyközség Önkormányzata, Répcelak Város Önkormányzata, Nyergesújfalu Város Önkormányzata, Lábatlan Város Önkormányzata, Bajót Község Önkormányzata, Bezenye Községi Önkormányzat, Dunakiliti Község Önkormányzata, Dunasziget Község Önkormányzata, Feketeerdő Község Önkormányzata és Rajka Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 79 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 5. (ÉKDU 5) | Csabrendek Nagyközség Önkormányzata, Répcelak Város Önkormányzata, Csánig Község Önkormányzata, Nyergesújfalu Város Önkormányzata, Lábatlan Város Önkormányzata, Bajót Község Önkormányzata, Bezenye Községi Önkormányzat, Dunakiliti Község Önkormányzata, Dunasziget Község Önkormányzata, Feketeerdő Község Önkormányzata és Rajka Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 80 | Nyugat- és Dél-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 4. (NYDDU 4) | Duka Község Önkormányzata, Jánosháza Város Önkormányzata, Karakó Község Önkormányzata, Kemenespálfa Község Önkormányzata, Kissomlyó Község Önkormányzata, Nemeskeresztúr Község Önkormányzata, Egyházashollós Község Önkormányzata, Magyarszecsőd Község Önkormányzata, Molnaszecsőd Község Önkormányzata, Körmend Város Önkormányzata, Lenti Város Önkormányzata, Rédics Község Önkormányzata, Belsősárd Község Önkormányzata, Külsősárd Község Önkormányzata, Resznek Község Önkormányzata, Pórszombat Község Önkormányzata, Szilvágy Község Önkormányzata és Zalalövő Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -370,27 +418,93 @@
 
 | 83 | Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 16. (ÉMO 16) | Detk Községi Önkormányzat, Ludas Községi Önkormányzat és Nagyút Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 84 | Északkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 7. (ÉKMO 7) | Szomód Község Önkormányzata, Dunaszentmiklós Község Önkormányzata, Kocs Község Önkormányzata, Tardos Község Önkormányzata, Vértestolna Község Önkormányzata és Sárisáp Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 84 | Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 7. (ÉKDU 7) | Szomód Község Önkormányzata, Dunaszentmiklós Község Önkormányzata, Kocs Község Önkormányzata, Tardos Község Önkormányzata, Vértestolna Község Önkormányzata, Sárisáp Község Önkormányzata és Tokod Nagyközség Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 85 | Nyugat- és Dél-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 8. (NYDDU 8) | Egyházashetye Község Önkormányzata, Boba Község Önkormányzata, Nemeskocs Község Önkormányzata, Káld Község Önkormányzata, Borgáta Község Önkormányzata, Köcsk Község Önkormányzata, Gellénháza Község Önkormányzata, Alsóújlak Község Önkormányzata és Vasvár Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
+| 85a | Ráckeve-Újtelep településrész szennyvízelvezetésének fejlesztése, csatornahálózatának bővítése | Ráckeve Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85b | Pécs és térsége szennyvízelvezetésének fejlesztése, csatornahálózatának bővítése | Pécs Megyei Jogú Város Önkormányzata, Kozármisleny Város Önkormányzata, Aranyosgadány Község Önkormányzata, Bicsérd Község Önkormányzata, Kökény Községi Önkormányzat, Szalánta Községi Önkormányzat és Zók Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85c | Tamási központú agglomeráció szennyvízelvezetésének és -tisztításának fejlesztése | Tamási Város Önkormányzata, Nagykónyi Község Önkormányzata és Pári Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85d | Kunsziget és térsége szennyvíztisztító telep korszerűsítése és bővítése | Dunaszeg Község Önkormányzata, Dunaszentpál Község Önkormányzata, Győrladamér Község Önkormányzata, Győrzámoly Község Önkormányzata, Kunsziget Község Önkormányzata, Lébény Város Önkormányzata, Mecsér Község Önkormányzata, Mosonszentmiklós Község Önkormányzata, Öttevény Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85e | Csorvás város szennyvíztisztító telep fejlesztése | Csorvás Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85f | Jászszentlászló és térsége szennyvízelvezetésének és tisztításának fejlesztése | Jászszentlászló Község Önkormányzata és Szank Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85g | Szeremle szennyvíz-elvezetési agglomeráció szennyvízelvezetése és -tisztítása | Szeremle Községi Önkormányzat és Bátmonostor Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85h | Hódmezővásárhely szennyvíztisztítása | Hódmezővásárhely Megyei Jogú Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85i | Ferencszállás és Klárafalva települések szennyvízelvezetése | Klárafalva Községi Önkormányzat és Ferencszállás Községi Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85j | Kamut központú agglomeráció szennyvízelvezetése és -tisztítása | Kamut Község Önkormányzata, Hunya Község Önkormányzata és Murony Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85k | Regölyi agglomeráció szennyvízelvezetése és -tisztítása | Regöly Község Önkormányzata, Szakály Község Önkormányzata és Szárazd Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85l | Bikácsi agglomeráció szennyvízelvezetése és -tisztítása | Bikács Község Önkormányzata, Györköny Községi Önkormányzat, Pálfa Község Önkormányzata, Pusztahencse Községi Önkormányzat és Vajta Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85m | Csávolyi agglomeráció szennyvízelvezetése és -tisztítása | Csávoly Községi Önkormányzat és Felsőszentiván Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85n | Bánokszentgyörgyi agglomeráció szennyvízelvezetése és -tisztítása | Bánokszentgyörgy Község Önkormányzata, Borsfa Község Önkormányzata, Bucsuta Község Önkormányzata, Oltárc Község Önkormányzata, Pusztamagyaród Község Önkormányzata, Szentliszló Község Önkormányzata és Várfölde Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85o | Gelse központú agglomeráció szennyvízelvezetése és -tisztítása | Alsórajk Község Önkormányzata, Felsőrajk Község Önkormányzata, Gelse Község Önkormányzata, Kerecseny Község Önkormányzata, Kilimán Község Önkormányzata, Orosztony Község Önkormányzata, Pölöskefő Község Önkormányzata és Pötréte Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85p | Surd és Liszó települések szennyvízelvezetése | Surd Község Önkormányzata és Liszó Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85q | Tiszaörs, Tiszaigar és Nagyiván települések szennyvízelvezetése és -tisztítása | Tiszaörs Községi Önkormányzat, Tiszaigar Községi Önkormányzat és Nagyiván Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85r | Erdőtarcsa település szennyvízelvezetése | Erdőtarcsa Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85s | Erdőkürt központú agglomeráció szennyvízelvezetése és -tisztítása | Vanyarc Községi Önkormányzat, Erdőkürt Község Önkormányzata és Kálló Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85t | A pásztói és tari szennyvíz-agglomerációk egyesítése, szennyvízelvezetés és -tisztítás fejlesztése | Pásztó Városi Önkormányzat, Tar Község Önkormányzata és Mátraszőlős Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85u | Dejtári agglomeráció szennyvízelvezetésének és tisztításának fejlesztése | Dejtár Község Önkormányzata, Drégelypalánk Község Önkormányzata, Hont Község Önkormányzata, Ipolyvece Község Önkormányzata és Patak Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 85v | Rétság agglomeráció szennyvízelvezetésének és tisztításának fejlesztése | Bánk Község Önkormányzata, Rétság Város Önkormányzata és Tolmács Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
 | 86 | A somogytúri szennyvízelvezetési agglomeráció szennyvízgyűjtése és szennyvíztisztítása | Dél-Balatoni Szennyvízelvezetés és Tisztítás Megvalósítását Célzó Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 87 | Bucsa község szennyvízcsatornázása | Bucsa Község Önkormányzata |
+| 87 | A Bucsa központú agglomeráció szennyvízelvezetésének és -tisztításának fejlesztése | Bucsa Község Önkormányzata, Ecsegfalva Község Önkormányzata és Kertészsziget Község Önkormányzata |
 
 | 88 | Budapest komplex integrált szennyvíz-elvezetése | Budapest Főváros Önkormányzata és Budaörs Város Önkormányzata |
 
 | 89 | A siófoki szennyvízelvezetési agglomeráció szennyvízgyűjtése és szennyvíztisztítása | Dél-Balatoni Szennyvízelvezetés és Tisztítás Megvalósítását Célzó Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 90 | Hódmezővásárhely szennyvíztisztítása és Kishomok városrészének szennyvízcsatornázása | Hódmezővásárhely Megyei Jogú Város Önkormányzata |
+| 90 |  |  |
 
 | 91 | Szennyvízelvezetés és -tisztítás fejlesztése Ózd városában | Ózd Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 92 | Fegyvernek és Örményes szennyvízelvezetése és -tisztítása | Fegyvernek és Örményes Szennyvízkezelési Konzorcium (Fegyvernek Város Önkormányzata és Örményes Község Önkormányzata) |
+| 92 | Fegyvernek és Örményes, valamint Kuncsorba szennyvízelvezetése és -tisztítása | Fegyvernek, Örményes és Kuncsorba Szennyvízkezelési Konzorcium (Fegyvernek Város Önkormányzata, Örményes Község Önkormányzata és Kuncsorba Község Önkormányzata) |
 
 | 93 | Tuzsér és Komoró települések szennyvízközmű fejlesztése | Tuzsér-Komoró Víziközmű Beruházási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 94 | Budapesti szennyvíziszapok hosszú távú kezelése, ártalmatlanítása, hasznosítása | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 94 | Szennyvíz mintaprojekt a 2000 lakosnál kisebb települések számára | Kocsér Község Önkormányzata, Szakcs Község Önkormányzata, Hangony Községi Önkormányzat, Nagysimonyi Község Önkormányzata, Csénye Község Önkormányzata, Bögöt Község Önkormányzata, Galvács Község Önkormányzata, Kaposújlak Községi Önkormányzat, Nagyberki Község Önkormányzata, Ispánk Község Önkormányzata, Szalafő Község Önkormányzata, Győrvár Község Önkormányzata, Ordas Községi Önkormányzat, Dunaegyháza Község Önkormányzata, Páhi Község Önkormányzata, Kaskantyú Község Önkormányzata, Kondorfa Község Önkormányzata, Álmosd Község Önkormányzata, Lak Községi Önkormányzat, Balajt Község Önkormányzata, Magyarszombatfa Község Önkormányzata, Csánig Község Önkormányzata és Penc Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
+| 95 | Egy új ipari és kommunális szennyvíztisztító telep és a hozzá kapcsolódó műtárgyak, tartozékok, berendezések, egyéb kiegészítő elemek megépítése Szikszón – C rész | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+
+| 96 | Iváncsai ipari park szennyvízelvezetése és -kezelése | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+
+| 97 | Gulács és Tivadar település szennyvízelvezetésének és -tisztításának előkészítése | Gulács Község Önkormányzata és Tivadar Község Önkormányzata |
+
+| 98 | Csegöld és Jánkmajtis település szennyvízelvezetésének és -tisztításának előkészítése | Csegöld Község Önkormányzata és Jánkmajtis Község Önkormányzata |
+
+| 99 | Dabas település szennyvízelvezetési és -tisztítási fejlesztésének előkészítése | Dabas Város Önkormányzata |
+
+| 100 | Kiskunmajsa település szennyvíztisztítási fejlesztésének előkészítése | Kiskunmajsa Város Önkormányzata |
+
+| 101 | Szolnok központú agglomeráció szennyvízelvezetési és -tisztítási fejlesztésének előkészítése | Szolnok Megyei Jogú Város Önkormányzata |
+
+| 102 | Fehérgyarmat szennyvízelvezetési és -tisztítási fejlesztés előkészítése | Fehérgyarmat Város Önkormányzata |
+
+| 103 | Pilisszentlászló település szennyvíz-elvezetési és -tisztítási fejlesztés előkészítése | Pilisszentlászló Község Önkormányzata |
+
+| 104 | Ócsa település szennyvíztisztító telep fejlesztésének előkészítése | Ócsa Város Önkormányzat |
+
+| 105 | Geszteréd, Bököny és Érpatak települések szennyvízelvezetési és tisztítási fejlesztésének előkészítése | Geszteréd Község Önkormányzata, Bököny Község Önkormányzata és Érpatak Község Önkormányzata |
 
 3. Hulladékgazdálkodási projektek
 
@@ -422,7 +536,7 @@
 
 | 13 | Komplex hulladékgazdálkodási rendszer fejlesztése Sopron térségében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Sopron Térségi Hulladékgazdálkodási Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 14 | Komplex hulladékgazdálkodási rendszer fejlesztése a Nyugat-Dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Nyugat-Dunántúli Regionális Hulladékgazdálkodási Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 14 |  |  |
 
 | 15 | Komplex hulladékgazdálkodási rendszer fejlesztése a Kaposmenti Hulladékgazdálkodási Önkormányzati Társulás területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Kaposmenti Hulladékgazdálkodási Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -450,7 +564,7 @@
 
 | 27 | Hulladékgazdálkodási rendszer fejlesztése Szolnok város és térsége területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Szolnok Térségi Hulladékgazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 28 | Hulladékgazdálkodási rendszer fejlesztése Borsod-Abaúj-Zemplén megye teljes területén, különös tekintettel az elkülönített hulladék előkezelő rendszerre | Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás, Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás, Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás, Miskolci Regionális Hulladékgazdálkodási Önkormányzati Társulás, Mezőkövesdi Hulladékgazdálkodási Önkormányzati Társulás és Észak-magyarországi Regionális Hulladékkezelési Önkormányzati Társulás konzorciuma a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 28 | Hulladékgazdálkodási rendszer fejlesztése Borsod-Abaúj-Zemplén megye teljes területén, különös tekintettel az elkülönített hulladék előkezelő rendszerre | Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás, Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás, Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás és Miskolci Regionális Hulladékgazdálkodási Önkormányzati Társulás konzorciuma a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 29 | Komplex hulladékgazdálkodási rendszer fejlesztése a Mecsek-Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás területén, különös tekintettelaz elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Mecsek-Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -458,10 +572,12 @@
 
 | 31 | A hulladékgazdálkodási rendszer fejlesztése a Mórahalmi és Kisteleki járásban, illetve Domaszék és Szatymaz településeken, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Homokháti Önkormányzatok Kistérségfejlesztési Társulása a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
+| 31a | A hulladékgazdálkodási rendszer fejlesztése Szombathely város területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Szombathely Megyei Jogú Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+
 | 32 | A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiáinak bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése | Budapest Főváros Önkormányzata |
 
 | 33 | Szilárdhulladék- gazdálkodási rendszer továbbfejlesztése a Heves Megyei Regionális Hulladékgazdálkodási Társulás területén | Heves Megyei Regionális Hulladékgazdálkodási Társulás |
 
-[^1]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 141/2018. (VII. 27.) Korm. rendelet 12. §-a iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 8. §-át.
-[^2]: A hatálybalépés időpontja 2018. július 28.
-[^3]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 8. §-át.
+[^3]: A 6. §-t a 823/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2021. december 29.
+[^5]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított, a 823/2021. (XII. 28.) Korm. rendelet 2. § (1) bekezdése és 3–4. §-a szerint módosított szöveg.
