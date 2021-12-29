@@ -154,7 +154,7 @@
 
 | 70. | Gyáregység létrehozására irányuló beruházás Pécs területén | Pécs közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0212/141, 0212/142, 0212/143, 0212/146, 0212/147, 0212/151, 0212/152, 0212/153, 0219/8, 01455/88, 01455/89, 01457/1 helyrajzi számú ingatlanokon | Baranya Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 71. | Ipari-innovációs fejlesztési terület kialakítása Göd város területén | Göd külterület 084/20, 084/21, 084/22, 084/23, 084/24, 084/25, 084/26, 084/27, 084/28, 084/32, 084/33, 084/34, 084/35, 084/36, 084/37, 084/38, 084/39, 084/40, 084/41, 084/42, 084/43, 084/44, 084/45, 084/46, 084/47, 084/48, 084/49, 084/50, 084/51, 084/52, 084/53, 084/68, 084/69, 084/72, 084/70, 084/71, 062/11, 062/12, 062/13, 062/14, 062/15, 062/17, 062/18, 062/50 helyrajzi számú ingatlanok. | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+| 71. | Ipari-innovációs fejlesztési terület kialakítása, valamint véderdő, erdősített vagy fásított telepítések Göd város területén | Göd külterület 084/19, 084/20, 084/21, 084/22, 084/23, 084/24, 084/25, 084/26, 084/27, 084/28, 084/32, 084/33, 084/34, 084/35, 084/36, 084/37, 084/38, 084/39, 084/40, 084/41, 084/42, 084/43, 084/44, 084/45, 084/46, 084/47, 084/48, 084/49, 084/50, 084/51, 084/52, 084/53, 084/68, 084/69, 084/72, 084/70, 084/71, 062/11, 062/12, 062/13, 062/14, 062/15, 062/16, 062/17, 062/18, 062/50 helyrajzi számú ingatlanok. | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
 | 72. | Gyártóüzem építésére irányuló beruházás Sárvár külterületén | Sárvár város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerint Sárvár külterület 064/36, 064/47, 065/2, 065/3, 065/4, 066 és 072/5 helyrajzi számú ingatlanok. | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -174,6 +174,8 @@
 
 | 80. | Logisztikai és lakópark ingatlanfejlesztési beruházás Ecser | Ecser közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Ecser belterület 1416/3, 1416/4, 1427/1, 1427/2, 1427/3, 1427/4, 1427/5, 1427/6, 1427/7, 1427/8, 1427/9, 1427/10, 1427/11, 1427/12, 1427/13, 1427/14, 1427/15, 1427/16, 1427/17, 1427/18, 1427/19, 1427/21, 1427/22, 1427/23, 1427/24, 1428, 1429, 1430, 1431, 1432, 1433, 1434, 1435, 1436 és az ingatlan-nyilvántartás szerinti külterület 032 és 038 helyrajzi számú ingatlanok. | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^218]
+| 81. | Iparterület bővítése Bük területén | Bük közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 04/40, 04/41, 04/62, 07/4, 07/15, 07/20, 07/21, 07/23, 07/25, 07/27, 07/29, 07/31, 07/33, 07/34, 07/35, 07/36, 07/37, 067, továbbá a Bük belterület 1484/1, 1484/5, 1484/6, 1484/7 és 1609 helyrajzi számú ingatlanok | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^218]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^226]
+
+[^226]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
