@@ -1,4 +1,4 @@
-## 26. §[^78] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 411/2021. (VII. 12.) Korm. rendelettel (a továbbiakban: Módr18.) megállapított 1. § (3), (4) és (8) bekezdését, 3. § (3) bekezdését, 7/P. §-át, a 2. mellékletében foglalt táblázat 24. sorát, valamint a 3. mellékletében foglalt táblázat 4. sorát a Módr18. hatálybalépésekor[^79] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 26. §[^79] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 411/2021. (VII. 12.) Korm. rendelettel (a továbbiakban: Módr18.) megállapított 1. § (3), (4) és (8) bekezdését, 3. § (3) bekezdését, 7/P. §-át, a 2. mellékletében foglalt táblázat 24. sorát, valamint a 3. mellékletében foglalt táblázat 4. sorát a Módr18. hatálybalépésekor[^80] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^78]: A 26. §-t a 411/2021. (VII. 12.) Korm. rendelet 7. §-a iktatta be.
-[^79]: A hatálybalépés időpontja 2021. július 13.
+[^79]: A 26. §-t a 411/2021. (VII. 12.) Korm. rendelet 7. §-a iktatta be.
+[^80]: A hatálybalépés időpontja 2021. július 13.

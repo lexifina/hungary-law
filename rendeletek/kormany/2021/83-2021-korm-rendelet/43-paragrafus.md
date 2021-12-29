@@ -1,4 +1,4 @@
-## 42. §[^110] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 596/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr34.) módosított 2. mellékletében foglalt táblázat 33. sorát a Módr34. hatálybalépésekor[^111] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 42. §[^111] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 596/2021. (X. 27.) Korm. rendelettel (a továbbiakban: Módr34.) módosított 2. mellékletében foglalt táblázat 33. sorát a Módr34. hatálybalépésekor[^112] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^110]: A 42. §-t az 596/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be.
-[^111]: A hatálybalépés időpontja 2021. október 28.
+[^111]: A 42. §-t az 596/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be.
+[^112]: A hatálybalépés időpontja 2021. október 28.

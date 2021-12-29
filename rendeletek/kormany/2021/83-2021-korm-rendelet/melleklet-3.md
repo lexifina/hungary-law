@@ -42,7 +42,7 @@
 
 | 20. | Somogy Megyei Kaposi Mór Oktató Kórház telephelyén lévő Mosdósi kastély és környezetének felújítását és funkcióváltását célzó beruházás | Mosdós, belterület 172/4, 172/5 és 179 helyrajzi számú ingatlanok | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-| 21. | Az EFOP-2.2.0-16-2020-00009 azonosító számú projekt keretében megvalósuló „Új Nemzeti Biztonsági Laboratórium fejlesztése” beruházás | Budapest IX. kerület, belterület 38293/33 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 21. |  |  |  |
 
 | 22. | A korábbi Büntetés-végrehajtási Központi Kórház átalakítása | Tököl külterület 0165/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
@@ -134,6 +134,8 @@
 
 | 66. | Hauszmann Emlékház/Annavölgyi fejlesztési programmal összefüggő beruházások | Szentendre külterület 0220/1, 0231, 0232/2, 0232/3, 0600/3, 0600/6, 0603/3, 0603/3/A, 0603/3/B, 0603/3/C, 0603/3/D, 0603/3/F, 0603/4 és 0603/5 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^130]
+| 67. | Csenger településen új büntetés- végrehajtási intézet megvalósítása | Csenger külterületi 0149/41 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^130]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^134]
+
+[^134]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
