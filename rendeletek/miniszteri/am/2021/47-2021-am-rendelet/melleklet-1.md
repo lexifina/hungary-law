@@ -1,4 +1,4 @@
-## 14. § Hatályát veszti a Vhr. 3. § (2), (4a)–(7) és (9) bekezdése, valamint 12. §-a.
+## 14. §[^3]
 
 1. melléklet a 47/2021. (XII. 13.) AM rendelethez
 
@@ -19,3 +19,5 @@
 7. fekete törpeharcsa
 
 8. ezüstkárász
+
+[^3]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
