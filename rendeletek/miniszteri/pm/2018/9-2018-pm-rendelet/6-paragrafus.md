@@ -4,21 +4,21 @@
 
 ## 3. Az egyes támogatási kategóriákra vonatkozó közös szabályok
 
-6. § (1)[^34] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet és az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+6. § (1)[^39] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet és az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
 
 (3) Nem ítélhető meg támogatás
 
-a)[^35] – a 4–5. alcím szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
+a)[^40] – a 4–5. alcím szerinti támogatás kivételével – azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatának nem tett eleget,
 
-b)[^36] a 10. § (4) bekezdésben foglaltak figyelembevételével – a 4–5., 11., 20/A–20/C. alcím szerinti támogatás kivételével – nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került.
+b)[^41] a 10. § (4) bekezdésében foglaltak figyelembevételével – a 4., 5., 11. és 20/A–20/C. alcím szerinti támogatás kivételével – nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. december 31. között nehéz helyzetbe került.
 
 (4) Nem ítélhető meg
 
 a) az 1379/2013/EU rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 4., 5., 7–9., 12–13., 17–23. alcím szerinti támogatás,
 
-b)[^37] elsődleges mezőgazdasági termeléshez a 4., 7., 8., 11., 21–23. alcím szerinti támogatás,
+b)[^42] elsődleges mezőgazdasági termeléshez a 4., 7., 8., 11., 21–23. alcím szerinti támogatás,
 
 c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére a 4. alcím szerinti támogatás, illetve az 5. alcím szerinti támogatás, ha
 
@@ -32,7 +32,7 @@ e) import áru helyett hazai áru használatától függővé tett támogatás,
 
 f) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsértését eredményezi,
 
-g)[^38] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
+g)[^43] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat hatálya alá tartozó versenyképtelen szénbányák részére.
 
 (5) A 8–10., 14. alcím szerinti támogatás kis- és középvállalkozás vagy a támogatást kis- és középvállalkozásnak továbbadó vállalkozás részére nyújtható.
 
@@ -52,11 +52,11 @@ g)[^38] a 7–23. alcím szerinti támogatás a 2010/787/EU tanácsi határozat 
 
 (13) Az általános forgalmi adó (a továbbiakban: áfa) nem támogatható, kivéve, ha az az áfára vonatkozó nemzeti jogszabályok értelmében nem igényelhető vissza.
 
-(14)[^39] Azonos elszámolható költségek esetén a 20/A. alcím szerinti támogatás abban az esetben halmozható csekély összegű támogatással, ha a támogatáshalmozás nem vezet a 48/C. § (1)–(3) bekezdése szerinti maximális támogatási összeg túllépéséhez.
+(14)[^44] Azonos elszámolható költségek esetén a 20/A. alcím szerinti támogatás abban az esetben halmozható csekély összegű támogatással, ha a támogatáshalmozás nem vezet a 48/C. § (1)–(3) bekezdése szerinti maximális támogatási összeg túllépéséhez.
 
-[^34]: A 6. § (1) bekezdése a 24/2020. (XII. 30.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^35]: A 6. § (3) bekezdés a) pontja a 24/2020. (XII. 30.) PM rendelet 7. § a) pontja szerint módosított szöveg.
-[^36]: A 6. § (3) bekezdés b) pontja a 8/2020. (VII. 31.) PM rendelet 3. §-ával megállapított, a 24/2020. (XII. 30.) PM rendelet 7. § a)–b) pontja szerint módosított szöveg.
-[^37]: A 6. § (4) bekezdés b) pontja a 11/2019. (IX. 4.) PM rendelet 7. § b) pontja szerint módosított szöveg.
-[^38]: A 6. § (4) bekezdés g) pontját a 11/2019. (IX. 4.) PM rendelet 3. §-a iktatta be.
-[^39]: A 6. § (14) bekezdését a 24/2020. (XII. 30.) PM rendelet 3. § (2) bekezdése iktatta be.
+[^39]: A 6. § (1) bekezdése a 24/2020. (XII. 30.) PM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^40]: A 6. § (3) bekezdés a) pontja a 24/2020. (XII. 30.) PM rendelet 7. § a) pontja szerint módosított szöveg.
+[^41]: A 6. § (3) bekezdés b) pontja a 19/2021. (XII. 28.) PM rendelet 2. §-ával megállapított szöveg.
+[^42]: A 6. § (4) bekezdés b) pontja a 11/2019. (IX. 4.) PM rendelet 7. § b) pontja szerint módosított szöveg.
+[^43]: A 6. § (4) bekezdés g) pontját a 11/2019. (IX. 4.) PM rendelet 3. §-a iktatta be.
+[^44]: A 6. § (14) bekezdését a 24/2020. (XII. 30.) PM rendelet 3. § (2) bekezdése iktatta be.

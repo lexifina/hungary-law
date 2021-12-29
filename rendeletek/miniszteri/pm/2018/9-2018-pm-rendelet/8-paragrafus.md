@@ -1,3 +1,5 @@
-8. § (1) A támogatást nyújtó adatot köteles szolgáltatni a Támogatásokat Vizsgáló Iroda, mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 7–23. alcím hatálya alá tartozó, 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatás(ok)ról.
+8. § (1)[^46] A támogató köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 7–20. és 21–23. alcím hatálya alá tartozó, az Atr. 2. § 6c. pontja szerinti halászati állami támogatás esetén a 30 000 eurónak, elsődleges mezőgazdasági termelés támogatása esetén a 60 000 eurónak, egyéb esetben pedig az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
 
 (2) A támogatást nyújtó adatszolgáltatásának, illetve a közzétételnek a módját az Atr. 18/A–18/D. §-ai szabályozzák.
+
+[^46]: A 8. § (1) bekezdése a 19/2021. (XII. 28.) PM rendelet 3. §-ával megállapított szöveg.
