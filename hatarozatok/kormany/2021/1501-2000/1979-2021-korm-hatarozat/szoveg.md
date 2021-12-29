@@ -84,63 +84,18 @@ Határidő: 2022. május 31.
 
 3. A 7. és 8. pont 2022. január 1-jén lép hatályba.
 
-4. A Széchenyi Turisztikai Kártya Programról szóló 1467/2020. (VII. 3.) Korm. határozat 1. pont 1.2. alpontja helyébe a következő rendelkezés lép:
+4.[^1]
 
-(A Kormány)
+5.[^2]
 
-„1.2. a Széchenyi Turisztikai Kártya Program keretében nyújtott hitelekhez kamattámogatást, kezelési költségtámogatást, kezességi díjtámogatást és egyéb, pénzügyi intézmény által megelőlegezett költségtámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat nem haladhatja meg az 0,5%-ot, a nettó kezelési költség, készfizető kezességvállalás nettó díja és egyéb pénzügyi intézmény által megelőlegezett költség pedig nem haladhatja meg a 0,0%-ot, az 1.3. alpontban meghatározott kezességi díjtámogatás kivételével. Kezességi díjtámogatás csak közvetlen állami viszontgarancia mellett vállalt készfizető kezességvállalás díjához kapcsolódhat;
+6.[^3]
 
-Felelős: innovációért és technológiáért felelős miniszter
+7.[^4]
 
-Határidő: 2022. január 1.”
+8.[^5]
 
-5. A Gazdaság-újraindítási Akcióterv keretében a Széchenyi Kártya Újraindítási Program bevezetéséről szóló 1368/2021. (VI. 10.) Korm. határozat [a továbbiakban: 1368/2021. (VI. 10.) Korm. határozat] 2. pont 2.1. alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány a Széchenyi Kártya Újraindítási Program keretében)
-
-„2.1. nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
-
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 2,5%,
-
-b) a Széchenyi Újraindítási Likviditási Hitel esetén a 2,5%,
-
-c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel esetén az 1,0%,
-
-d) a Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén a 0,5%, valamint
-
-e) a Széchenyi Újraindítási Lízingkonstrukció esetén a 2,5%
-
-mértéket;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2022. január 1.”
-
-6. Az 1368/2021. (VI. 10.) Korm. határozat 2. pont 2.2. alpontja helyébe a következő rendelkezés lép:
-
-(A Kormány a Széchenyi Kártya Újraindítási Program keretében)
-
-„2.2. egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
-
-a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén az 5,0%,
-
-b) a Széchenyi Újraindítási Likviditási Hitel esetén az 5,0%,
-
-c) a Széchenyi Újraindítási Beruházási Hitel – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel –, a Széchenyi Újraindítási Önerő Kiegészítő Hitel esetén a 8,5%,
-
-d) a Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén – és ennek részeként működő Agrár Széchenyi Újraindítási Beruházási Hitel zöld, fenntartható és technológiaváltást szolgáló hitelcélok esetén a 9,0%, valamint
-
-e) a Széchenyi Újraindítási Lízingkonstrukció esetén a 7,0%
-
-mértéket;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: 2022. január 1.”
-
-7.[^1]
-
-8.[^2]
-
-[^1]: A 7. pont a 3. pont alapján 2022. január 1-jén lép hatályba.
-[^2]: A 8. pont a 3. pont alapján 2022. január 1-jén lép hatályba.
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont a 3. pont alapján 2022. január 1-jén lép hatályba.
+[^5]: A 8. pont a 3. pont alapján 2022. január 1-jén lép hatályba.
