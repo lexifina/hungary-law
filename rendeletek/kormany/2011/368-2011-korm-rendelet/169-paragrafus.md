@@ -8,12 +8,9 @@
 
 (4)[^790] Az Igazgatóság a (3) bekezdés szerint feltöltött időközi költségvetési jelentést a feltöltést követő tíz munkanapon belül ellenőrzi és szükség esetén – legfeljebb tíz munkanapos határidővel – annak javítását, kiegészítését rendeli el. A határidőben nem teljesített javítás, kiegészítés esetén az adatszolgáltatás határidőben be nem nyújtott adatszolgáltatásnak minősül. A megfelelően javított, kiegészített adatszolgáltatást az Igazgatóság a feltöltést, javítás, kiegészítés elrendelés esetén, a javítás, kiegészítés feltöltését követő három munkanapon belül elfogadja, vagy a nem megfelelő tartalommal teljesített javítás, kiegészítés esetén az adatszolgáltatást elutasítja. Az Igazgatóság által elfogadott adatszolgáltatást a Kincstár legkésőbb a (3) bekezdés szerinti határidőt követő 25. munkanapon jóváhagyja.
 
-(5)[^791] Ha a Kincstár megállapítja, hogy az időközi költségvetési jelentés adatai nem felelnek meg az Áht. 36. § (1) bekezdésében meghatározott gazdálkodási szabálynak, és az adatok a (2) bekezdés szerint nem is javíthatók, akkor az időközi költségvetési jelentés a Kincstár által működtetett elektronikus szolgáltató rendszerben feltölthető, és a Kincstár által elfogadható. Az adatszolgáltatás Kincstár általi elfogadását követő 5 munkanapon belül a Kincstár értesíti az érintett fejezetet irányító szervet.
-
 [^785]: Az Ávr. 169. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
 [^786]: Az Ávr. 169. §-a a 397/2014. (XII. 31.) Korm. rendelet 41. §-ával megállapított szöveg.
 [^787]: Az Ávr. 169. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (6) bekezdés c) pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 28. pontja szerint módosított szöveg.
 [^788]: Az Ávr. 169. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (6) bekezdés d) pontja, a 465/2015. (XII. 29.) Korm. rendelet 24. § 32. pontja, 25. § (1) bekezdés 3. pontja, a 264/2016. (VIII. 31.) Korm. rendelet 25. § 29. pontja, a 499/2016. (XII. 28.) Korm. rendelet 22. § 24. pontja szerint módosított szöveg.
 [^789]: Az Ávr. 169. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (6) bekezdés e) pontja szerint módosított szöveg.
 [^790]: Az Ávr. 169. § (4) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 24. § 33. pontja szerint módosított szöveg.
-[^791]: Az Ávr. 169. § (5) bekezdését a 282/2019. (XI. 27.) Korm. rendelet 13. §-a iktatta be.

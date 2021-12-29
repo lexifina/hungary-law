@@ -16,7 +16,7 @@ g)[^657] a felsőoktatási intézményekben állami részösztöndíjas és önk
 
 h)[^658] az európai uniós forrásból finanszírozott pénzügyi eszközök keretében nyújtott visszatérítendő támogatások kapcsán a kedvezményezett által hitel törlesztésként vagy részesedés ellenértékeként teljesített, ütemezett visszafizetésből eredő költségvetési bevételt,
 
-i)[^659] a közszolgáltatások finanszírozására szolgáló fejezeti kezelésű előirányzatok kiadási előirányzataira vagy a költségvetési szerv költségvetési évi kiadási előirányzataira vonatkozó kötelezettségvállalásokkal kapcsolatos, az Áht. 4/A. § (5) bekezdése szerinti kifizetést, valamint a fordított adózás hatálya alá tartozó általános forgalmi adó és az előleggel kapcsolatos előzetesen felszámított általános forgalmi adó összegét,
+i)[^659] a közszolgáltatások finanszírozására szolgáló fejezeti kezelésű előirányzatok kiadási előirányzataira vagy a költségvetési szerv költségvetési évi kiadási előirányzataira vonatkozó kötelezettségvállalásokkal kapcsolatos, az Áht. 4/A. § (5) bekezdése szerinti kifizetést, a 122/A. § (2) bekezdés a) pontja szerinti megelőlegezést, valamint a fordított adózás hatálya alá tartozó általános forgalmi adó és az előleggel kapcsolatos előzetesen felszámított általános forgalmi adó összegét,
 
 j)[^660] a központi költségvetési törvény 1. melléklet I. fejezet 1. cím 1. alcímen belül az Áht. 6. § (7) bekezdés a) pont ad) alpontja szerinti központi támogatásból az Országgyűlésről szóló törvény 109–115. §-ában meghatározott juttatások céljára nyújtott, de a költségvetési év december 31-éig fel nem használt összeget,
 
@@ -47,7 +47,7 @@ p)[^666] a rendvédelmi szolgálati juttatás tartalék és a honvédelmi szolg�
 [^656]: Az Ávr. 150. § (1) bekezdés f) pontját újonnan a 426/2017. (XII. 19.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 282/2019. (XI. 27.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^657]: Az Ávr. 150. § (1) bekezdés g) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 64. pontja szerint módosított szöveg.
 [^658]: Az Ávr. 150. § (1) bekezdés h) pontja a 426/2017. (XII. 19.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 310/2018. (XII. 27.) Korm. rendelet 31. § 22. pontja szerint módosított szöveg.
-[^659]: Az Ávr. 150. § (1) bekezdés i) pontját újonnan a 310/2018. (XII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 282/2019. (XI. 27.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^659]: Az Ávr. 150. § (1) bekezdés i) pontját újonnan a 310/2018. (XII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 282/2019. (XI. 27.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 801/2021. (XII. 28.) Korm. rendelet 15. § 6. pontja szerint módosított szöveg.
 [^660]: Az Ávr. 150. § (1) bekezdés j) pontját a 426/2017. (XII. 19.) Korm. rendelet 9. § (1) bekezdés 2. pontja hatályon kívül helyezte, újonnan a 310/2018. (XII. 27.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 282/2019. (XI. 27.) Korm. rendelet 19. § (2) bekezdés 1. pontja szerint módosított szöveg.
 [^661]: Az Ávr. 150. § (1) bekezdés k) pontja a 282/2019. (XI. 27.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^662]: Az Ávr. 150. § (1) bekezdés l) pontját a 426/2017. (XII. 19.) Korm. rendelet 9. § (1) bekezdés 2. pontja hatályon kívül helyezte, újonnan a 282/2019. (XI. 27.) Korm. rendelet 8. § (5) bekezdése iktatta be.
