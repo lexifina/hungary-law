@@ -1,0 +1,3 @@
+37. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 3. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A SIRENE Iroda ellátja az (EU) 2019/817 európai parlamenti és tanácsi rendelet 29. cikke, valamint az (EU) 2019/818 európai parlamenti és tanácsi rendelet 29. cikke szerint az uniós információs rendszerekben tárolt különböző személyazonosságok manuális ellenőrzésével kapcsolatos azon feladatokat, amelyeknek elvégzésére a SIRENE Irodát jelölték ki.”
