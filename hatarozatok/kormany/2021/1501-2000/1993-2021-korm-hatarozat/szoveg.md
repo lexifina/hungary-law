@@ -8,12 +8,6 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
 
-2. Az országos Tudományos és Innovációs, Technológiai, illetve Ipari Park hálózat kiépítésének koncepciójáról szóló 1093/2019. (III. 8.) Korm. határozat 3. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
-
-„3. felhívja az innovációért és technológiáért felelős minisztert, hogy készítse elő a Tudományos és Innovációs Park hálózat tudományos és üzleti tervét (a továbbiakban: tudományos és üzleti terv) a szükséges infrastruktúra- fejlesztésekkel a kijelölt helyszíneken, a tulajdonosi, vagyonkezelési és szervezeti struktúrával együtt;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: a felmerülés ütemében”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
