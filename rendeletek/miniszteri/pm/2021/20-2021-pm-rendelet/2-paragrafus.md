@@ -1,0 +1,7 @@
+## 1. § A költségvetési szervnél és köztulajdonban álló gazdasági társaságnál belső ellenőrzési tevékenységet végzők nyilvántartásáról és kötelező szakmai továbbképzéséről, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú kötelező továbbképzéséről szóló 22/2019. (XII. 23.) PM rendelet 4. §-a helyébe a következő rendelkezés lép:
+
+## „4. § (1) A belső ellenőr haladéktalanul, de legfeljebb nyolc napon belül köteles írásban bejelenteni az államháztartásért felelős miniszternek, valamint a munkáltatói jogkör gyakorlójának vagy megbízójának minden olyan okot vagy körülményt – az ezen okot igazoló dokumentumok benyújtásával egyidejűleg –, ami korlátozza vagy kizárja a tevékenysége végzését.
+
+## (2) A belső ellenőr vagy a képviseletében eljárni jogosult személy az (1) bekezdésben meghatározottak szerint haladéktalanul, de legfeljebb nyolc napon belül köteles bejelenteni, ha az Áht. 70. § (7b) bekezdése szerinti körülmény merül fel.
+
+## (3) A belső ellenőr halála esetén az államháztartásért felelős miniszter a halotti anyakönyvi kivonat másolata vagy a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti nyilvántartást kezelő szerv igazolása alapján a belső ellenőrt a nyilvántartásból hivatalból, díjmentesen törli. A belső ellenőr halála esetén a nyilvántartásból való díjmentes törlést kérelemre a munkáltató vagy a megbízó is kezdeményezheti.”
