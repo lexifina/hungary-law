@@ -1,1 +1,3 @@
-## 8. § Hatályát veszti az R. 6. § (2) bekezdés g) és h) pontjában a „székhelye” szövegrész.
+## 8. §[^9]
+
+[^9]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

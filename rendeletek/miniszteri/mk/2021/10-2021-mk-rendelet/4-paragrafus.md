@@ -1,5 +1,3 @@
-## 3. § Az R. 7. § (2) bekezdés f) pontja helyébe a következő rendelkezés lép:
+## 3. §[^4]
 
-## (Az állami támogatásra jogosult filmalkotásokról és az állami támogatásban nem részesülő filmalkotásokról vezetett nyilvántartás az alábbi adatokat tartalmazza:)
-
-## „f) annak ténye, hogy a filmalkotás megrendelésre vagy nem megrendelésre készült;”
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

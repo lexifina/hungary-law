@@ -1,5 +1,3 @@
-## 2. § Az R. 6. § (2) bekezdése a következő n) ponttal egészül ki:
+## 2. §[^3]
 
-## [Az (1) bekezdésben meghatározott nyilvántartás az alábbi adatokat tartalmazza:]
-
-## „n) a filmalkotás rendezője.”
+[^3]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
