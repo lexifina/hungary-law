@@ -72,7 +72,7 @@
 
 ## 36. a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet
 
-## 37. a felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendelet
+## 37.[^140]
 
 ## 38. a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény felsőoktatásban való végrehajtásáról és a felsőoktatási intézményben való foglalkoztatás egyes kérdéseiről szóló 395/2015. (XII. 12.) Korm. rendelet
 
@@ -86,7 +86,7 @@
 
 ## 43. az igazságügyi szakértői névjegyzékbe vételhez szükséges szakmai gyakorlati idő szakirányú jellegének igazolására szolgáló hatósági bizonyítvány kiadása iránti eljárás részletes szabályairól szóló 418/2017. (XII. 19.) Korm. rendelet 1. melléklet 13. és 14. sora
 
-## 43a.[^140] a Diaszpóra Felsőoktatási Ösztöndíjprogramról, valamint a Diaszpóra Felsőoktatási Ösztöndíjprogram működéséhez szükséges egyes kormányrendeletek módosításáról szóló 203/2020. (V. 14.) Korm. rendelet
+## 43a.[^141] a Diaszpóra Felsőoktatási Ösztöndíjprogramról, valamint a Diaszpóra Felsőoktatási Ösztöndíjprogram működéséhez szükséges egyes kormányrendeletek módosításáról szóló 203/2020. (V. 14.) Korm. rendelet
 
 ## 44. a szakfordításról és tolmácsolásról szóló 24/1986. (VI. 26.) MT rendelet 6. § (2) bekezdése
 
@@ -94,9 +94,9 @@
 
 ## 46. a kormányzati funkciók, államháztartási szakfeladatok és szakágazatok osztályozási rendjéről szóló 68/2013. (XII. 29.) NGM rendelet 2. melléklet 9. pontjában foglalt táblázat 81. sora
 
-## 47. a felsőoktatási szakképzések, az alap- és mesterképzések képzési és kimeneti követelményeiről, valamint a tanári felkészítés közös követelményeiről és az egyes tanárszakok képzési és kimeneti követelményeiről szóló 8/2013. (I. 30.) EMMI rendelet módosításáról szóló 18/2016. (VIII. 5.) EMMI rendelet.
+## 47.[^142]
 
-3. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^141]
+3. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^143]
 
 A 137/C. § (2) bekezdése szerinti feladat- és hatásköröket meghatározó jogszabályok és jogszabályi rendelkezések
 
@@ -130,5 +130,7 @@ A 137/C. § (2) bekezdése szerinti feladat- és hatásköröket meghatározó j
 
 15. a felsőoktatási, valamint az államilag elismert nyelvvizsgarendszer működésével kapcsolatos közigazgatási hatósági eljárások igazgatási szolgáltatási díjáról, azok mértékéről szóló 12/2013. (II. 12.) EMMI rendelet.
 
-[^140]: A 2. melléklet 43a. pontját a 203/2020. (V. 14.) Korm. rendelet 15. §-a iktatta be.
-[^141]: A 3. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^140]: A 2. melléklet 37. pontját a 830/2021. (XII. 29.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^141]: A 2. melléklet 43a. pontját a 203/2020. (V. 14.) Korm. rendelet 15. §-a iktatta be.
+[^142]: A 2. melléklet 47. pontját a 830/2021. (XII. 29.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^143]: A 3. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (2) bekezdése iktatta be.
