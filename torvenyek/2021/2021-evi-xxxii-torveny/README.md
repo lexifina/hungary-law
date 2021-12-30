@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-32-00-00
 | 2021-10-02 | 2010. évi CXXX. törvény | 2021-32-00-00.5 |
 | 2021-11-18 | 2021. évi CXXII. törvény | 2021-32-00-00.6 |
 | 2021-12-18 | 2021. évi CXXXVI. törvény | 2021-32-00-00.7 |
+| 2021-12-30 | 2021. évi CXX. törvény | 2021-32-00-00.8 |
