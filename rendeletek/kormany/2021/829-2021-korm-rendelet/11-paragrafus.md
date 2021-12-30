@@ -1,3 +1,3 @@
-## 10. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet a következő 1/C. §-sal egészül ki:
+## 10. §[^2]
 
-## „1/C. § A Kormány a BSL3 és BSL4 minősítésű Nemzeti Biztonsági Laboratórium komplexum megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 829/2021. (XII. 28.) Korm. rendelet (a továbbiakban: R.) 1. § (1) bekezdése szerinti beruházás esetében az R. 1. mellékletében foglalt táblázat 7–17. sorában meghatározott közigazgatási hatósági eljárásban munkavédelmi, tűzvédelmi, közegészségügyi-járványügyi és sugárvédelmi szakkérdések vizsgálatára szakhatóságként a honvédelemért felelős minisztert jelöli ki.”
+[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

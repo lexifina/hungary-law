@@ -1,3 +1,5 @@
+## 12. §[^4]
+
 1. melléklet a 829/2021. (XII. 28.) Korm. rendelethez
 
 A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek és a kiemelt ügyekben kijelölt hatóságok
@@ -35,3 +37,5 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 | 15 | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság mint vízügyi és vízvédelmi hatóság |
 
 | 16 | az 1–15. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások | az 1–15. pontban kijelölt hatóság |
+
+[^4]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
