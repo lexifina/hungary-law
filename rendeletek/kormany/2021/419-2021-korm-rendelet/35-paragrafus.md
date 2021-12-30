@@ -8,4 +8,4 @@
 
 (3) A helyi területi védelemmel érintett településképi szempontból meghatározó terület a 32. § szerinti értékvizsgálat alapján kerül lehatárolásra.
 
-[^2]: A 34. § a 77. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^2]: A 34. § a 77. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.

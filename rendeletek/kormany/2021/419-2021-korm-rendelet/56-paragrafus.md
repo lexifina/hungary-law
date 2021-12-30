@@ -2,4 +2,4 @@
 
 (2)[^3]
 
-[^3]: Az 56. § (2) bekezdése a 77. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^3]: Az 56. § (2) bekezdése a 77. § (2) bekezdése alapján 2022. július 1-jén lép hatályba.
