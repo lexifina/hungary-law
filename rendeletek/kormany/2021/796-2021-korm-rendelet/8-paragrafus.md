@@ -1,0 +1,3 @@
+## 7. § A Korm. rendelet 63. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) Szállítói finanszírozás esetén a szállító és a végső kedvezményezett forinttól eltérő devizában kötött szerződésére jutó támogatást a szerződésben megjelölt devizában fizeti ki a nemzeti hatóság, minden más esetben a támogatás folyósítása forintban történik. A számla értéke a fizikai teljesítés napján érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett, hivatalos deviza-árfolyamon kerül forintra átszámításra. Olyan számlák vagy egyéb bizonylatok esetében, amelyeken a fizikai teljesítés napja nincs feltüntetve, a támogatástartalom a bizonylat keltezésének napján érvényes, az MNB által közzétett, hivatalos deviza-árfolyamon került forintra átszámításra.”
