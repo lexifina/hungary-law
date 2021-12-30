@@ -2,7 +2,7 @@
 
 5. § (1) A vállalkozás keretében végzett személy- és vagyonvédelmi, valamint magánnyomozói tevékenység engedélyezésének, az igazolvány kiállításának, a határozat kiadásának igazgatási szolgáltatási díja:
 
-a)[^2] az SzVMt. 5. § (1) bekezdésében meghatározott működési engedély (a továbbiakban: működési engedély) és az SzVMt. 67. §-ának (1) bekezdése szerinti határozat kiadása vagy pótlása (megsemmisülés, rongálódás) iránti kérelem esetén tevékenységfajtánként 23 000 Ft;
+a)[^2] az SzVMt. 5. § (1) bekezdésében meghatározott működési engedély (a továbbiakban: működési engedély) és az SzVMt. 67. §-ának (1) bekezdése szerinti határozat kiadása vagy pótlása iránti kérelem esetén tevékenységfajtánként 23 000 Ft;
 
 b) a működési engedély, illetve a határozat adattartalmában (névváltozás, székhely, telephely, fióktelep stb.) történő változások esetén a határozat kicserélése 7600 Ft;
 
@@ -21,7 +21,7 @@ e) az igazolvány (határozat) adattartalmában történő változások esetén 
 (5)[^5]
 
 [^1]: Az 1–4. §-t a 44/2017. (XII. 29.) BM rendelet 28. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^2]: Az 5. § (1) bekezdés a) pontja a 44/2017. (XII. 29.) BM rendelet 28. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdés a) pontja a 44/2017. (XII. 29.) BM rendelet 28. § (2) bekezdés a) pontja, a 48/2021. (XII. 22.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^3]: Az 5. § (1) bekezdés d) pontja a 44/2017. (XII. 29.) BM rendelet 28. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^4]: Az 5. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 1. pontja, a 44/2017. (XII. 29.) BM rendelet 28. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^5]: Az 5. § (5) bekezdését a 44/2017. (XII. 29.) BM rendelet 28. § (3) bekezdés c) pontja hatályon kívül helyezte.
