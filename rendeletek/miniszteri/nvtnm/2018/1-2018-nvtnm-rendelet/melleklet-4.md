@@ -60,7 +60,7 @@
 
 | 1. | NFSI Nemzeti Fejlesztési és Stratégiai Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-200849 | 2022. december 31. |
 
-## V. Tulajdonosi joggyakorló: a HUMDA Magyar Autó-Motorsport Fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság
+## V. Tulajdonosi joggyakorló: a HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság
 
 |  | A | B | C |
 
@@ -96,6 +96,14 @@
 
 | 11. | HungaroControl Magyar Légiforgalmi Szolgálat Zártkörűen Működő Részvénytársaság | 01-10-045570 | 2022. december 31. |
 
+## VII. Tulajdonosi joggyakorló: a Nemzeti Vízművek Zártkörűen Működő Részvénytársaság
+
+|  | A | B | C |
+
+| Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 17-10-001241 | 2022. december 31. |
+
 4. melléklet az 1/2018. (VI. 25.) NVTNM rendelethez[^6]
 
 A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
@@ -104,7 +112,7 @@ A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
 
 | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorló | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. |  |  |  |  |
+| 1. | VB Szolgáltató Központ Korlátolt Felelősségű Társaság | 17-09-012751 | VOLÁNBUSZ Közlekedési zártkörűen működő Részvénytársaság | 2022. december 31. |
 
 | 2. | Aktív- és Ökoturisztikai Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-343790 | Révész Máriusz, aktív Magyarországért felelős kormánybiztos | 2022. május 17. |
 
@@ -112,4 +120,4 @@ A Kormány egyedi határozatában meghatározott tulajdonosi joggyakorlók
 
 | 4. | Védelmi Beszerzési Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-140513 | dr. Maróth Gáspár, a védelmi fejlesztésekért felelős kormánybiztos | 2022. július 16. |
 
-[^6]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be, szövege a 10/2019. (VIII. 5.) NVTNM rendelet 1. §-a, a 14/2019. (IX. 25.) NVTNM rendelet 1. §-a, a 22/2019. (XII. 20.) NVTNM rendelet 1. §-a és 2. §-a, a 4/2020. (V. 22.) NVTNM rendelet 1. §-a, a 8/2020. (VII. 16.) NVTNM rendelet 1. §-a, a 14/2020. (XI. 5.) NVTNM rendelet 1. §-a, a 19/2021. (X. 1.) NVTNM rendelet 2. § f) pontja szerint módosított szöveg.
+[^6]: A 4. mellékletet az 5/2018. (XI. 8.) NVTNM rendelet 2. §-a iktatta be, szövege a 10/2019. (VIII. 5.) NVTNM rendelet 1. §-a, a 14/2019. (IX. 25.) NVTNM rendelet 1. §-a, a 22/2019. (XII. 20.) NVTNM rendelet 1. §-a és 2. §-a, a 4/2020. (V. 22.) NVTNM rendelet 1. §-a, a 8/2020. (VII. 16.) NVTNM rendelet 1. §-a, a 14/2020. (XI. 5.) NVTNM rendelet 1. §-a, a 19/2021. (X. 1.) NVTNM rendelet 2. § f) pontja, a 30/2021. (XII. 30.) NVTNM rendelet 2. §-a szerint módosított szöveg.

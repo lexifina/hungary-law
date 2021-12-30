@@ -158,7 +158,7 @@
 
 | 26. | Robert Capa Kortárs Fotográfiai Központ Nonprofit Korlátolt Felelősségű Társaság | 01-09-176337 | 2022. december 31. |
 
-| 27. | Szegedi SZEFO Fonalfeldolgozó „zártkörűen működő” Részvénytársaság | 06-10-000122 | 2022. december 31. |
+| 27. |  |  |  |
 
 | 28. |  |  |  |
 
@@ -222,7 +222,7 @@
 
 | 9. |  |  |  |
 
-| 10. | HUMDA Magyar Autó-Motorsport Fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-048684 | 2022. december 31. |
+| 10. | HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-048684 | 2022. december 31. |
 
 | 11. |  |  |  |
 
