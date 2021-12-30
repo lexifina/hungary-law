@@ -1,1226 +1,1252 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^15]
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^34]
 
 A)
 
 A KÖZISMERETI TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-1. Tanári szakképzettség – az 5. pont szerinti magyar mint idegen nyelv tanára, finn nyelv és kultúra tanára, filozófiatanár és művészettörténet-tanár kivételével – a 3. §-ra figyelemmel
+1.Tanári szakképzettség – finn nyelv és kultúra tanára, magyar mint idegen idegen nyelv tanára, filozófiatanár és művészettörténet-tanár, a honvédelmi alapismeretek tanára szakképzettség kivételével
 
-- az 1. § a) pontja szerint osztatlan, kétszakos képzésben, tanárszakokon vagy
+– az 1. § a) pontja szerint osztatlan, kétszakos képzésben, tanárszakokon vagy
 
-- az 1. § d) pontja szerinti tanári mesterszakon
+– az 1. § c) pontja szerinti tanári mesterszakon – a gyógytestnevelő tanár szak kivételével – adott tanárszak szakterülete szerinti nem tanári mesterképzési szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon vagy
+
+– az 1. § b) pontja szerint osztott képzésben, tanári mesterszakon részidős képzésként megszervezett képzési formában
 
 szerezhető.
 
-2. Az 1. melléklet 2. pontja tekintetében az 1. § a) pontja szerinti tanárképzésben, osztatlan, kétszakos képzésben szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
+2. Az 1. § c) pontja szerinti mesterképzésben a tanári mesterszakra való belépés előzményeként elfogadott szakok a miniszter által közleményben közzé tett, a szakterületi képzés képzési területének megfelelő szakirányú mesterképzési szakok, valamint az ezen szakok előzményeként az 1993. évi felsőoktatási törvény szerint megfeleltethető egyetemi szintű szakok.
 
-– végzettségi szint: mesterfokozat (magister, Master, rövidítése: MA)
+3. A finn nyelv és kultúra tanára, a magyar mint idegen nyelv tanára, a filozófiatanár, a művészettörténet-tanár, valamint a honvédelmi alapismeretek tanára szakképzettség az 1. § c) pontja szerinti tanári mesterszakon szerezhető.
 
-– szakképzettség:
+3.1. Az 1. § c) pontja szerinti magyar mint idegen nyelv tanára szakos tanári mesterszakon a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás képzési területe szerinti nem tanári mesterképzési szak az alkalmazott nyelvészet, a magyar nyelv és irodalom és a hungarológia mesterképzési szak.
 
-- okleveles általános iskolai … tanár(a) és okleveles általános iskolai … tanár(a) vagy
+3.2. Az 1. § c) pontja szerinti magyar mint idegen nyelv tanára szakos tanári mesterszakra a bölcsészettudomány képzési terület idegen nyelvi mesterképzési szakján szerzett mesterfokozat és szakképzettség birtokában akkor is felvételt lehet nyerni, ha a korábbi mesterképzési vagy részismereti tanulmányokból 50 kredit elismerhető a tanárszak képzési és kimeneti követelményeiben meghatározottak szerint.
 
-- okleveles általános iskolai … tanár(a) és okleveles középiskolai … tanár(a) vagy
+3.3. A 1. § c) pontja szerinti honvédelmi alapismeretek tanára szakos tanári mesterszakon a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos) tudás képzési területe szerinti nem tanári mesterképzési szakok: a bölcsészettudomány képzési területről a magyar nyelv és irodalom, a történelem, a természettudomány képzési területről a biológus, a biotechnológia a geográfus, a geológus, a fizikus, a geofizikus, a vegyész, valamint a sporttudományi képzési területről a szakedző, továbbá az államtudományi képzési területről a katonai vezetői, a katonai üzemeltetés, a katonai műveleti logisztika, a védelmi vezetéstechnikai rendszertervező, a nemzetközi biztonság- és védelempolitikai mesterképzési szak.
 
-- okleveles középiskolai … tanár(a) és okleveles általános iskolai … tanár(a) vagy
-
-- okleveles középiskolai … tanár(a) és okleveles középiskolai … tanár(a) vagy
-
-- okleveles középiskolai … tanár(a) és okleveles … tanár(a) vagy
-
-- okleveles általános iskolai … tanár(a) és okleveles … tanár(a) vagy
-
-- okleveles … tanár és okleveles … tanár;
-
-– szakképzettség angol nyelvű megjelölése: teacher of…
-
-Az oklevél Master of Education címet tanúsít, rövidített jelölése: MEd
-
-3. Az 1. melléklet 4.4. pontjában foglaltakra tekintettel a tanárképzésben a szabadon választható tantárgyakhoz rendelhető kreditek minimális értéke:
-
-- 12 féléves képzésben: 15 kredit,
-
-- 11 féléves képzésben: 13 kredit,
-
-- 10 féléves képzésben: 12 kredit.
-
-- 2 féléves képzésben: 2 kredit.
-
-4. A Korm. rendelet 6. §-ában és az 1. melléklet 4.1.5. pont a)-c) alpontjában és 4.2.4. pont a)-c) alpontjában meghatározott, az újabb oklevelet adó tanárképzésre vonatkozó rendelkezések szerint a képzési idő és az összegyűjtendő kreditek száma – a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi elem és b)-c) pontja szerinti tanári felkészítés elem kreditértékeire figyelemmel:
-
-- egyetemi szintű, mesterfokozatú vagy főiskolai szintű tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló mesterképzésben 4 félév, 120 kredit;
-
-- tanító szakképzettség birtokában, ha a 3. § (1) bekezdés a) pontja szerinti szakterületi ismeret 100 kredit, akkor 4 félév 120 kredit, ha a 3. § (1) bekezdés a) pontja szerinti szakterületi ismeret 130 kredit, akkor 5 félév 150 kredit.
-
-5. A magyar mint idegen nyelv tanára, a finn nyelv és kultúra tanára, a filozófiatanár, a művészettörténet-tanár szakképzettség, a 3. §-ra figyelemmel, az 1. § d) pontja szerinti tanári mesterszakon szerezhető.
-
-5.1. A képzési ideje és az összegyűjtendő kreditek száma
-
-- az 1. melléklet 4.1.4. és 4.2.3. pontjában foglaltakra tekintettel 2 félév, az összegyűjtendő kreditek száma 60 kredit;
-
-- 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás a tanárszak szerinti nem tanári mesterszakon, a mester fokozat és szakképzettség megszerzésével szerezhető meg, a tanári felkészítés kreditértéke 60 kredit.
-
-5.2. A 1. § d) pontja szerinti magyar mint idegen nyelv tanára szakos tanári mesterszakon a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás képzési területe szerinti nem tanári mesterszak az alkalmazott nyelvészet, a magyar nyelv és irodalom és a hungarológia mesterképzési szak.
-
-5.3. A 1. § d) pontja szerinti magyar mint idegen nyelv tanára szakos tanári mesterszakra a bölcsészettudomány képzési terület idegen nyelvi mesterszakján szerzett mesterfokozat és szakképzettség birtokában akkor is felvételt lehet nyerni, ha a korábbi mesterképzési vagy részismereti tanulmányokból 50 kredit elismerhető a tanárszak képzési és kimeneti követelményeiben meghatározottak szerint.
-
-5.4. Az 1. melléklet 4.1.5. pont a)-c) alpontjában és 4.2.4. pont a)-c) alpontjában, az újabb oklevelet adó tanárképzésben foglaltakra is tekintettel a magyar mint idegen nyelv tanára tanárszakon:
-
-- egyetemi szintű, mesterfokozatú vagy az 1993. évi felsőoktatási törvény szerinti főiskolai szintű tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló mesterképzésben 4 félév, 120 kredit;
-
-- tanító szakon – a korábbi tanulmányok során idegen nyelvi szakkollégium vagy idegen nyelvi műveltségterület követelményeinek teljesítésével - az újabb oklevelet adó magyar mint idegen nyelv tanára szakon a képzési idő 5 félév, 150 kredit.
+4. A természettudomány-környezettan szakos tanár szakképzettség az 1. § a) pontja szerint osztatlan egy szakos képzésben, a tanárszakon szerezhető a képzési és kimeneti követelményekben meghatározottak szerint szerezhető. A 4/B. § szerinti természettudomány-környezettan szakos tanári szakképzettség birtokában az 1. melléklet 4. pont 4.4.1. alpont a) pontja szerinti újabb oklevelet adó tanári szakképzettség megszerzésére irányuló biológiatanár, fizikatanár, kémiatanár, földrajztanár szakos képzésben a tanulmányi idő 3 félév.
 
 B)
 
 A TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-I. Magyar nyelv és irodalom műveltségi terület
+I. Magyar nyelv és irodalom tanulási terület
 
-1. Magyartanár (általános iskolai)
+Magyar nyelv és irodalom szakos tanár
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
 
-– magyar nyelvű megjelölése: okleveles általános iskolai magyartanár
+– magyar nyelvű megjelölése: okleveles magyar nyelv és irodalom szakos tanár
 
-– angol nyelvű megjelölése: teacher of Hungarian language and literature
+– szakképzettség angol nyelvű megjelölése: Teacher of Hungarian Language and Literature
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+2. A képzési idő: 10 félév
 
-– a képzési idő 10 félév
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamán kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a magyar nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a magyar nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, képesség;
+4.2.1. A magyar nyelv és irodalom szakos tanár szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. A magyartanár szakterületi tudása, készségei, képességei
+a) tudása
 
-A tanulói személyiség fejlesztése, az egyéni bánásmód érvényesítése terén
+– Ismeri a magyar nyelv és irodalom tanítása-tanulása során fejlesztendő speciális kompetenciákat, figyelembe véve a tanulók életkori sajátosságait, speciális fejlesztési igényeit, a fejlesztés és a diagnosztikus mérés módszereit.
 
-– Képes a tanulói személyiség sokoldalú fejlesztésére a magyar nyelvi és irodalmi műveltséganyag elsajátításának, a beszéd, a beszédértés, az olvasás, a szövegértés, az írás és a szövegalkotás fejlesztésének folyamatában. Tudja adaptív módon alkalmazni az irodalmi és anyanyelvi nevelés speciális alapelveit, eszközeit, eljárásait. Képes felismerni és a szaktárgy tanításában adekvát módon figyelembe venni a tanulók hátrányos helyzetéből adódó sajátosságokat. Egyéni eljárásokat alkalmaz a hátrányos helyzetű tanulók képzésének és a tehetséggondozásnak a folyamatában. Az olvasóvá nevelés folyamatában képes a tanulói személyiség fejlesztésére a művekkel való egyéni találkozás, a személyesen motivált műélvező megértés révén és érdekében. Képes felkelteni a rendszeres olvasás igényét, s a szókincsbővítéssel, beszélni tudással erősíteni a tanulók önkifejezését.
+– Tisztában van a magyar nyelvnek és irodalomnak a tanulók személyiségfejlődésében betöltött szerepével, lehetőségeivel.
 
-Képes a személyiség értelmi, érzelmi, testi, szociális, valamint erkölcsi fejlődéséről való elképzelések megismerésére, hasznosítására a magyar nyelv és irodalom tanításában.
+– Ismeri és hatékonyan alkalmazza a hátrányos helyzetű, a sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermek, tanuló többi gyermekkel, tanulóval tehetséggondozó tevékenység lehetséges módjait.
 
-A tanulói csoportok, közösségek alakításának segítése, fejlesztése terén
+b) képességei
 
-– Képes az irodalmi és anyanyelvi nevelés tanórai, illetve tanórán kívüli közösségi formáinak, csoportos tevékenységeinek megszervezésére, a tanulói közösségekben rejlő lehetőségek kihasználására, az egyének közötti különbségek megértésére, interkulturális nevelési programok alkalmazására, az együttműködési készségek fejlesztésére.
+– Képes a magyar nyelv és irodalom tantárgy tanításának pedagógiai gyakorlatát és annak a tanulók személyiségfejlődésére gyakorolt hatását elemezni.
 
-Képes a műértelmező folyamat közösségi kereteinek megteremtésére, valamint arra, hogy e folyamatban – többféle szerepben – motiválóként, résztvevőként, irányítóként, segítőként vegyen részt. Elkötelezett a tanulók anyanyelvi kompetenciáinak egyéni fejlesztésére és az ezt szolgáló csoportos tevékenységek megszervezésére (projektmunka, páros és csoportmunka, kooperatív tanulási technikák, nem formális módszerek), a tananyaghoz kapcsolt alkalmazására.
+– Képes a szaktárgy tanításában olyan, a tanulók egyéni szükségleteit figyelembe vevő pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók értelmi, érzelmi, szociális és erkölcsi fejlődését, az egészséges életvitel kialakítását.
 
-Jártas iskolai ünnepségek, magyar nyelvi és irodalmi tanulmányi versenyek, tanulmányi kirándulások megszervezésében, lebonyolításában. Képes iskolaújság, iskolarádió, iskolai és egyéb közösségi honlapok létrehozásának, szakmai működtetésének támogatására. Felkészült magyar nyelvi és irodalmi szakkörök, önképző körök irányítására, a tanulói önszerveződés elősegítésére.
+– Képes a szaktárgy speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
 
-A szaktudományi, szakmódszertani és szaktárgyi tudás terén
+– Képes a tanulói személyiség sokoldalú fejlesztésére a magyar nyelvi és irodalmi műveltséganyag elsajátításának, a beszéd, a beszédértés, az olvasás, a szövegértés, az írás és a szövegalkotás fejlesztésének folyamatában.
 
-– Képes a tudás tantervi, műveltségterületi összefüggésekbe ágyazására; képes elősegíteni a tanulók tudományos fogalmainak, fogalomrendszereinek fejlődését; képes megismertetni a tudományterület szemléletmódját, értékeit és kutatási eljárásait; képes az elsajátított tudás alkalmazásához szükséges készségek kialakítására a tanulókban.
+– Képes a magyar nyelv és irodalomban rejlő értékorientált személyiségfejlesztési lehetőségeket kihasználni, a tanulók önálló ismeretszerzését segíteni.
 
-Rendelkezik a magyar nyelv és irodalom tanításához szükséges korszerű nyelv- és irodalomtudományi, társtudományi, valamint anyanyelv- és irodalompedagógiai ismeretekkel. Ismeri az anyanyelvi és irodalmi nevelés-oktatás céljait, feladatait, tartalmait, színtereit, szaktárgyspecifikus alapelveit, módszertani eljárásait. Képes magát szakszerűen kifejezni, szóban és írásban, valamint szaktárgyi, szakmódszertani kompetenciáit adaptív és kreatív módon alkalmazni az anyanyelvi, illetve az irodalmi nevelés folyamatában. Rendelkezik az egyéni, a közösségi sajátosságokhoz igazodó, a megértő műélvezetet, valamint a közösségi interpretációt, a szóbeli és az írásbeli nyelvi fejlesztést, az anyanyelvi, illetve irodalmi ismeretbővítést támogató szakmódszertani felkészültséggel.
+– Egyéni eljárásokat alkalmaz a hátrányos helyzetű, SNI-s, BTMN-s és a tehetséges tanulók tanulási-tanítási folyamatában a nyelvtan órán és az irodalom órán.
 
-A pedagógiai folyamat tervezése terén
+– Az olvasóvá nevelés folyamatában képes a tanulói személyiség fejlesztésére a művekkel való egyéni találkozás, a személyesen motivált műélvező megértés révén és érdekében.
+
+c) attitűdje
+
+– Törekszik arra, hogy a különleges bánásmódot igénylő tanulók megszeressék az olvasást, kialakuljon az olvasói tudatosságuk.
+
+– Fontosnak tartja a különböző személyiségű tanulók értelmi, érzelmi, testi, szociális, valamint erkölcsi fejlődéséről való elképzelések, az együttnevelés elveinek megismerését, szakmódszertanát és alkalmazását a magyar nyelv és irodalom tanítása során.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri az irodalmi és anyanyelvi nevelés tanórai, illetve tanórán kívüli közösségi formáinak, csoportos tevékenységeinek megszervezési módjait, a tanulói közösségekben rejlő lehetőségek kihasználási lehetőségeit.
+
+– Jártas iskolai ünnepségek, magyar nyelvi és irodalmi tanulmányi versenyek, tanulmányi kirándulások megszervezésében, lebonyolításában.
+
+b) képességei
+
+– Képes az anyanyelvi kompetencia tekintetében az egyének közötti különbségek megértésére, az együttműködési készségek fejlesztésére.
+
+– Képes a műértelmező folyamat egyéni és közösségi kereteinek megteremtésére, valamint arra, hogy e folyamatban – többféle szerepben – irányítóként, motiválóként, résztvevőként, segítőként, ellenőrzőként vegyen részt.
+
+– Tanórai és tanórán kívüli foglalkozások keretében képes a státuszkezelésre, a tanulói közösségek szervezésére és vezetésére, az önszerveződő tanulói csoportok támogatására, projektfeladatok tervezésére és vezetésére (többek között az iskolaújság, az iskolarádió, az iskolai és egyéb közösségi programok, honlapok) létrehozásának, szakmai működtetésének támogatására.
+
+c) attitűdje
+
+– Elkötelezett a tanulók anyanyelvi kompetenciáinak fejlesztését szolgáló csoportos tevékenységek (projektmunka, páros és csoportmunka, kooperatív tanulási technikák, heterogén tanulócsoportban differenciált fejlesztés, nem formális módszerek alkalmazása) megszervezésére, a tananyaghoz kapcsolt alkalmazására.
+
+– Felkészült magyar nyelvi és irodalmi szakkörök, önképző körök irányítására, a tanulói önszerveződés elősegítésére.
+
+A szaktárgyi és a szakmódszertani tudás területén
+
+a) tudása
+
+– Rendelkezik a magyar nyelv és irodalom tanításának a Nemzeti alaptantervben és kerettantervben meghatározott ismeretanyagához szükséges korszerű nyelv- és irodalomtudományi, társtudományi, valamint anyanyelv- és irodalompedagógiai ismeretekkel.
+
+– Rendelkezik az információszerzéshez, az információk feldolgozásához, értelmezéséhez és elrendezéséhez szükséges alapvető (szövegértési, szövegalkotási, logikai, informatikai) felkészültséggel.
+
+– Ismeri az anyanyelvi és irodalmi nevelés-oktatás céljait, feladatait, tartalmait, színtereit, szaktárgyspecifikus alapelveit, módszertani eljárásait, tanulásszervezési módjait, tanítási és tanulási stratégiáit; a tantervben megfogalmazott tanulási eredményeket, valamint a tantárgyak tanulásának sajátosságait, megismerési módszereinek lehetőségeit, a tankönyveket, taneszközöket.
+
+– Ismeri a modern irodalom- és nyelvtudomány alapjait, tudományos módszereit az irodalomtörténet-írás, a korszakolás, a szövegfeldolgozás, valamint a nyelvi elemzés terén.
+
+– Ismeri a magyar nyelv és irodalom tanítása-tanulása során felhasználható korszerű kézikönyveket, online folyóiratokat és adatbázisokat.
+
+– Ismeri a különböző műfajú papíralapú és az online szövegek feldolgozásának változatos módszereit, technikáit; a szövegértési kompetencia fejlesztésének változatos módjait.
+
+– Ismeri az irodalmi művek értelmezésének többféle tudományos eljárását, az irodalmi műnemek és a legfontosabb műfajok leírására és értelmezésére használt fogalmakat.
+
+– Ismeri az európai irodalom- és művelődéstörténet, valamint a magyar irodalom történetének nagy korszakait, fontos alkotásait. Ismeri a modern nyelvtudomány alapjait, néhány modern nyelvleírási irányzatát, a nyelvi szerkezetek elemző leírásának többféle tudományos eljárását.
+
+– Alapvető és sokrétű ismerettel rendelkezik a szöveg- és stílustípus-repertoárral, továbbá képes az erről való tudását, ismereteit kiterjeszteni, bővíteni a társas és kulturális változások alapján.
+
+– Képes eltérő nyelvelméleti kiindulópontokból tekinteni a nyelvhasználat jelenségeire. Képes a nyelvről való tudás sokféleségét, a nyelv (rendszerbeli, társas és kulturális) változatosságát a maga számára feltérképezni, általánosan modellálni, és a korosztálynak megfelelő módon értelmezni.
+
+b) képességei
+
+– Tudja alkalmazni az irodalmi és anyanyelvi nevelés speciális alapelveit, eszközeit, eljárásait.
+
+– Képes a tudás tantervi és tanulási területi összefüggésekbe ágyazására, elősegíteni a tanulók tudományos fogalmainak, fogalomrendszereinek fejlődését, megismertetni a tudományterület értékeit és kutatási eljárásait; képes az elsajátított tudás alkalmazásához szükséges készségek kialakítására a tanulókban.
+
+– Képes magát szakszerűen kifejezni, szóban és írásban, valamint szaktárgyi, szakmódszertani kompetenciáit adaptív és kreatív módon alkalmazni az anyanyelvi, illetve az irodalmi nevelés folyamatában.
+
+– Képes a nyelvről való tudás sokféleségét, a nyelv (rendszerbeli, társas és kulturális) változatosságát a maga számára feltérképezni, általánosan modellálni és a korosztálynak megfelelő módon értelmezni.
+
+– Rendelkezik az egyéni, a közösségi sajátosságokhoz igazodó, a megértő műélvezetet, valamint a közösségi interpretációt, a szóbeli és az írásbeli nyelvi fejlesztést, az anyanyelvi, illetve irodalmi ismeretbővítést támogató szakmódszertani felkészültséggel.
+
+c) attitűdje
+
+– Törekszik a nemzeti kultúra alapvető értékeinek közvetítésére.
+
+– Fontosnak tartja a tanulók szövegértési, szövegalkotási tudásának és képességeinek folyamatos fejlesztését.
+
+– Segíti a tanulók megismerési és alkotási vágyának kiteljesedését és folyamatos fenntartását.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptantervet, a kerettantervet és a helyi tantervek vonatkozó előírásait, ezek ismeretében képes az adott tanulócsoport képességeihez, lehetőségeihez, érdeklődéséhez igazodó magyar nyelvi és irodalmi szakpedagógiai tervek (tanmenetek, tematikus tervek, óratervek) összeállítására.
+
+– A tanításban is képes a Nemzeti alaptanterv fejlesztési területeinek és nevelési céljainak érvényesítésére, tananyag tartalmainak elsajátíttatására.
+
+– Ismeri a tananyag-kiválasztás és -rendszerezés szaktudományi, pedagógiai-pszichológiai, továbbá szakmódszertani szempontjait.
+
+b) képességei
+
+– Képes a tanulók tananyag súlypontjait, felépítését, közvetítésének logikáját a kerettantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
 
 – Képes a pedagógiai munka átfogó és részletekbe menő, a feltételek árnyalt elemzésén alapuló megtervezésére; a tapasztalatok reflektív módon történő elemzésére és értékelésére.
 
-Ismeri az alap-, a keret- és a helyi tantervek vonatkozó előírásait, ezek ismeretében képes az adott tanulócsoport képességeihez, lehetőségeihez, érdeklődéséhez igazodó magyar nyelvi és irodalmi szakpedagógiai tervek (tanmenetek, tematikus óratervek) összeállítására. Képes figyelembe venni a vonatkozó kompetenciaterületek fejlesztési követelményeit, ugyanakkor képes alkalmazkodni az egyéni és a közösségi igényekhez is, egyensúlyt tud tartani a közvetítendő műveltséganyag követelményei, valamint a fejlesztő feladatok között. Képes a tanórai (magyar tantárgyi, fakultációs, osztályfőnöki) és a tanórán kívüli (szakköri, diákköri) munka tervezésére.
+– Képes figyelembe venni a Nemzeti alaptanterv kulcskompetenciáit, egyensúlyt tud tartani a közvetítendő műveltséganyag követelményei, valamint a fejlesztő feladatok között.
 
-Jártas az info-kommunkációs eszközök kreatív és adaptív alkalmazásában.
+– Képes a tanulási-tanítási stratégia meghatározására és megvalósítására a tananyag feldolgozásához a pedagógiai céloknak és a tanulók életkori sajátosságainak megfelelő oktatási folyamat meghatározására, hatékony módszerek, szervezési formák, eszközök kiválasztására.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– Képes a szaktárgya tanulása-tanítása során felhasználható nyomtatott és digitális tankönyveket, taneszközöket, egyéb tanulási forrásokat a konkrét céloknak megfelelően használni.
 
-– Képes a hatékony tanulási környezet kialakítására, a tanulási folyamat iskolai, illetve iskolán kívüli összetevőinek szoros összehangolására, az anyanyelvi és az irodalmi nevelés különféle eljárásainak, eszközeinek hatékony, kreatív és integrált alkalmazására. Képes az olvasóvá nevelésre, a házi olvasmányok önálló tanulói feldolgozásának motiválására, a tanulók olvasási készségeinek és műértő képességének folyamatos fejlesztésére, a tanulók önálló olvasói tevékenységeinek támogatására. Ismeri, tudja alkalmazni az anyanyelvi és irodalmi nevelésben az egyéni, illetve a közösségi motiválási technikákat, a tanulói kommunikációt támogató eszközöket, a visszacsatolási mechanizmusokat. Tudja alkalmazni a korszerű beszéd- és beszédértés-fejlesztés, a folyamatelvű olvasás- és írástanítás egyéni, valamint csoportos módszertani eljárásait. Ismeri, továbbá alkalmazza a modern információfeldolgozási stratégiákat, technikákat az anyanyelvi és irodalmi ismeretbővítés folyamatában.
+– Képes a tanórai (magyar nyelv és irodalom tantárgy tanórai, osztályfőnöki) és a tanórán kívüli (szakköri, diákköri) munka tervezésére.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Jártas az infokommunikációs eszközök kreatív és adaptív alkalmazásában.
 
-– Képes a tanulók fejlődési folyamatainak, tanulmányi teljesítményeinek és személyiségfejlődésének értékelésére; különböző értékelési formák, eszközök használatára; az értékelés eredményeinek hatékony alkalmazására; az önértékelés fejlesztésére. Ismeri az anyanyelvi és irodalmi kompetenciák mérésével, értékelésével kapcsolatos eljárásokat, a központi mérések eredményeit, tanulságait. Törekszik az értékelés különféle formáinak folyamatszerű, egységben való alkalmazására. Képes az irodalmi nevelés folyamatában reflektálni a különféle értékelési szempontokra, a közös órai interpretációk megszervezésére, az értékelési szempontok diákokkal történő megvitatására, a tanulók egyéni nehézségeinek felmérésére, a műértelmező írások megfelelő értékelésére. Az anyanyelvi nevelés, ismeretbővítés folyamatában is olyan értékelő eljárásokat alkalmaz, amelyek pozitívan hatnak a tanulók nyelvi és személyiségbeli fejlődésére, önértékelésére. Képes a szaktárgyi célokat szolgáló fejlesztő értékelési módszerek és mérési eszközök kidolgozására, adaptív alkalmazására.
+c) attitűdje
 
-A szakmai együttműködés és a kommunikáció terén
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-– Képes a tanulói motiváció, az önálló és közösségi tevékenység támogatására, hatékony ismeretközvetítésre, adaptív irodalmi, anyanyelvi nevelésre. Folyamatosan törekszik saját pedagógiai kommunikációjának, az osztálytermi és a tanórán kívüli iskolai kommunikáció sajátosságainak megismerésére. Képes a magyarázó, kérdező, instruáló, visszacsatoló, értékelő, tevékenységszervező, kapcsolatteremtő, -tartó, -záró, kommunikációs kultúrájának fejlesztésére. Képes az iskolai, illetve az iskolán kívüli nevelés színterein – az anyanyelvi és az irodalmi nevelés tantárgyközi beágyazottságának megfelelően – az iskolai, valamint az iskolán kívüli nevelés más szereplőivel (pl. a közművelődési intézményekkel, a múzeumokkal stb.) való kooperációra. Figyelembe veszi a rokon szakterületek képzési szempontjait az irodalmi és az anyanyelvi nevelés folyamatában. Ismeri a szaktárgyához kapcsolódó főbb szakmai szervezetek munkáját. Törekszik a pedagógiai tevékenységét támogató szakmai szervezetekkel és szakemberekkel való együttműködésre. Kapcsolatot tart a szülőkkel, az iskolai közösségekkel, a társszervezetekkel és kutató-fejlesztő intézményekkel.
+A tanulás segítése, szervezése és irányítása területén
 
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
+a) tudása
 
-– Képes a munkáját segítő szakirodalom folyamatos követésére, önálló ismeretszerzésre, a személyes tapasztalatok tudományos keretekbe integrálására, a neveléstudományi kutatások fontosabb módszereinek, elemzési eljárásainak alkalmazására, saját munkájának tudományosan megalapozott eszközöket használó értékelésére.
+– Tájékozott a differenciális pedagógia, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
 
-Elkötelezett az igényes tanári munka, a folyamatos önmegfigyelés és önfejlesztés iránt. Törekszik az irodalom és a magyar nyelv végtelen gazdagságának motiváló bemutatására. Megvan benne az igény a szaktudományos és szakmódszertani kutatási eredmények folyamatos követésére, valamint az iskolai nevelési folyamatba való adekvát és adaptív beépítésére. Képes saját szakterületén a folyamatos és önálló önképzésre, valamint a szakmai fejlődését támogató szakmai kooperációra.
+– Ismeri az egész életen át tartó tanulásra felkészítés magyar nyelv és irodalom tantárgy tanórai lehetőségeit.
 
-4.2.2 A magyartanár szakon a szakterületi ismeretek:
+– Ismeri, továbbá alkalmazza a modern információfeldolgozási stratégiákat, technikákat az anyanyelvi és irodalmi ismeretbővítés folyamatában.
 
-a) Közös képzési szakasz ismeretkörei: 68–76 kredit
+b) képességei
 
-aa) szakmai alapozó ismeretek: 8–12 kredit
+– Képes a hatékony tanulási környezet kialakítására, a tanulási folyamat iskolai, illetve iskolán kívüli összetevőinek szoros összehangolására.
 
-Nyelvtudomány: 4–6 kredit
+– Képes az olvasóvá nevelésre, a házi olvasmányok önálló tanulói feldolgozásának motiválására, a tanulók olvasási készségeinek és műértő képességének folyamatos fejlesztésére, a tanulók önálló olvasói tevékenységeinek támogatására.
 
-– A nyelvtudomány alapjai (a nyelv fogalma, a nyelv több szempontú megközelítése; a nyelv mint jelrendszer, nyelv és gondolkodás, nyelv és cselekvés, nyelv és kreativitás, a nyelv tudományos vizsgálatának általános kérdései, a nyelvtudomány és az anyanyelv tanítása).
+– Ismeri, tudja alkalmazni az anyanyelvi és irodalmi nevelésben az egyéni, illetve a közösségi motiválási technikákat, a tanulói kommunikációt támogató eszközöket, a visszacsatolási mechanizmusokat.
 
-– A nyelvészeti ismeretszerzés alapjai (a nyelvtudomány kutatási területei, módszerei, könyvtár- és internethasználat).
+– Tudja alkalmazni a korszerű beszéd- és beszédértés-fejlesztés, a folyamatelvű olvasás- és írástanítás egyéni, valamint csoportos módszertani eljárásait.
 
-Irodalomtudomány: 4–6 kredit
+– Ismeri a szövegértési, szövegalkotási stratégiákat, azokat képes alkalmazni és gyakoroltatni.
 
-– Az irodalomtudomány alapjai (az irodalom fogalmai, poétikai rendszerek, az irodalom tudományos vizsgálatának általános kérdései, az irodalom tanítása).
+c) attitűdje
 
-– Az irodalomtudományi ismeretszerzés alapjai (az irodalomtudomány kutatási területei, módszerei, a tudományos ismeretszerzés forrásai: könyvtár- és internethasználat).
+– Tudja, hogy a megfelelő tanulási légkör megteremtéséhez figyelembe kell venni a tanulók sajátos igényeit, ötleteit, kezdeményezéseit.
 
-ab) a szakmai törzsanyag szakterületi ismeretei: 60–64 kredit
+– Fontosnak tartja a tanulókkal való együttműködés, társas megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
 
-Nyelvtudomány: 30–32 kredit
+– Irányítja a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolását, az egész életen át tartó tanulással kapcsolatos pozitív attitűdök kialakítását.
 
-– Szöveg és kommunikáció (kommunikáció szóban és írásban: a személyközi, a csoportos, a nyilvános és a tömegkommunikáció, a nemverbális kommunikáció, pragmatikai ismeretek, szövegtani ismeretek: szövegelmélet, szövegtipológia, szövegalkotás, szövegelemzés, retorika; az írott és a beszélt nyelv normái).
+A pedagógiai folyamatok és a tanulók értékelése területén
 
-– Nyelv és társadalom (a nyelv mint dinamikus rendszer, a nyelvi változó és a nyelvi változás, a nyelv rétegződése, szociolingvisztika. dialektológia, a világ nyelvi sokfélesége, nyelv és globalitás, nyelvi kontaktusjelenségek).
+a) tudása
 
-– A nyelvi szintek rendszernyelvészeti leírása. Hangtani, alaktani, szótani, szószerkezettani, mondattani, jelentéstani ismeretek.
+– Ismeri az anyanyelvi és irodalmi kompetenciák mérésével, értékelésével kapcsolatos eljárásokat, a központi mérések eredményeit, tanulságait.
 
-– Stílus és jelentés (stíluselemek, stíluseszközök, stílusrétegek, stílusváltozatok).
+– Képes az irodalmi nevelés folyamatában reflektálni a különféle értékelési szempontokra, a közös órai interpretációk megszervezésére, az értékelési szempontok diákokkal történő megvitatására, a tanulók egyéni képességeinek felmérésére, a műértelmező írások megfelelő értékelésére.
 
-– Nyelvtörténet (a nyelv történeti vizsgálata, nyelvtörténeti korszakok, a nyelvrokonság bizonyítékai, finnugor népek és nyelvek, a nyelvi változások okai, nyelvfejlődési tendenciák, szórvány- és szövegemlékek, a magyar szókészlet története).
+b) képességei
 
-Irodalomtudomány: 30–32 kredit
+– Képes a tanulók fejlődési folyamatainak, tanulmányi teljesítményeinek és személyiségfejlődésének értékelésére; különböző értékelési formák, eszközök használatára; az értékelés eredményeinek hatékony alkalmazására; az önértékelés fejlesztésére.
 
-– Irodalomelmélet (az irodalmi szöveg poétikai sajátosságai, műnemek és műfajok, irodalmi alkotások elemzési, értelmezési eljárásai, verstan).
+– Képes az irodalmi nevelés folyamatában reflektálni a különféle értékelési szempontokra, a közös órai interpretációk megszervezésére, az értékelési szempontok diákokkal történő megvitatására, a tanulók egyéni képességeinek felmérésére, a műértelmező írások megfelelő értékelésére.
 
-– Világirodalom (stílusok, szerzők, művek, művelődés- és irodalomtörténeti tájékozódás, társművészetek, kultúratudományi megközelítések, téma, motívum, archetípus).
+c) attitűdje
 
-– Régi magyarországi irodalom (korszakok, szerzők, művek, irodalomtörténeti és kultúratudományi áttekintések).
+– Törekszik az írásbeli és szóbeli értékelés különféle formáinak folyamatszerű, egységben való alkalmazására.
 
-– Klasszikus magyar irodalom (korszakok, szerzők, művek, irodalomtörténeti és kultúratudományi áttekintések).
+– Elkötelezett a tanulást fejlesztő értékelés mellett.
 
-– Modern magyar irodalom (korszakok, szerzők, művek, irodalomtörténeti és kultúratudományi áttekintések).
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
 
-b) Az általános iskolai tanári szakon az önálló képzési szakasz ismeretkörei: 16–20 kredit
+a) tudása
 
-Nyelvtudomány: 8–10 kredit teljesítése az alábbi ismeretkörökből:
+– Ismeri az osztálytermi kommunikáció sajátosságait.
 
-– Retorika (kommunikáció, beszédkészség, szövegfeldolgozási, gondolkodási műveletek, az osztálytermi diskurzus elemzése).
+– Ismeretekkel rendelkezik a mérlegelő gondolkodás szerepéről a szakmai fejlődésben, a továbbképzés lehetőségeiről, a lelki egészség megőrzésének elméleti és gyakorlati módszereiről.
 
-– Szövegtan és tanulás (tanulást támogató eljárások, szövegalkotás, szövegértés).
+– Alapos infokommunikációs tudása van, amelyet folyamatosan képes fejleszteni.
 
-– Alkalmazott nyelvtudomány (nyelv- és beszédművelés, nemzetiségi nyelvhasználat, grammatikai elemzések, anyanyelv-elsajátítás és pszicholingvisztika).
+b) képességei
 
-Irodalomtudomány: 8–10 kredit teljesítése a közös képzésben megadott 5 ismeretkörből, különös tekintettel az alábbi közműveltségi tartalmakra:
+– Képes a tanulói motiváció, az önálló és közösségi tevékenység segítésére, hatékony ismeretközvetítésre, irodalmi, anyanyelvi nevelésre.
 
-– A művészi kifejezésmódok, stíluseszközök funkciói és hatása.
+– Folyamatosan törekszik saját pedagógiai kommunikációjának fejlesztésére, az osztálytermi és a tanórán kívüli iskolai kommunikáció sajátosságainak megismerésére.
 
-– Szórakoztató irodalom, filmes feldolgozások.
+– Képes a magyarázó, kérdező, instruáló, visszacsatoló, értékelő, tevékenységszervező, kapcsolatteremtő, -tartó, -záró kommunikációs kultúrájának fejlesztésére.
 
-– Zenei, képzőművészeti vonatkozások és kapcsolódások.
+– Képes az iskolai, illetve az iskolán kívüli nevelés színterein – az anyanyelvi és az irodalmi nevelés tantárgyközi beágyazottságának megfelelően – az iskolai, valamint az iskolán kívüli nevelés más szereplőivel (így a közművelődési, a közgyűjteményi intézményekkel, színházakkal, múzeumokkal) való együttműködésre.
 
-5. A magyartanár sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+c) attitűdje
 
-– Az anyanyelvi, irodalmi nevelés cél- és feladatrendszere, alapelvei, interaktív és reflektív módszerei, munkaformái, eszközei.
+– Képes az iskolai nevelés folyamatának irányítására.
 
-– Az anyanyelv- és az irodalompedagógia fogalma, szemléletmódjai, alternatív formái.
+– Figyelembe veszi a rokon szakterületek képzési szempontjait.
 
-– A magyarórák felépítése, hospitálás, mikrotanítás és óraelemzés. Információs és kommunikációs technika a magyarórán.
+– Képes a mérlegelésre, együttműködésre, kölcsönösségre, asszertivitásra, segítő, érzületi, lelkületi kommunikációra.
 
-– Az anyanyelvi és irodalmi műveltségi terület a Nemzeti alaptantervben, valamint a kerettantervekben. Az anyanyelvi és irodalmi ismeretek bővítésének eljárásai.
+Az autonómia és a felelősségvállalás területén
 
-– Az anyanyelvi készségek és képességek (beszéd, beszédértés, olvasás, szövegértés, szövegalkotás), az irodalomolvasás, valamint a tanulási képesség fejlesztésének korszerű eljárásai.
+a) tudása és b) képességei
 
-– Az adaptív anyanyelvi és az irodalmi nevelés.
+– Képes saját szakterületén a folyamatos és önálló önképzésre, valamint a szakmai fejlődését támogató szakmai együttműködésre.
 
-– Az anyanyelvi és az irodalmi művelődési anyag tartalma, a nyelv- és irodalomtudományi eredmények felhasználása az általános iskolában. Az élő irodalom, a mai magyar nyelvhasználat jelenségeinek közvetítése az általános iskolában.
+c) attitűdje
 
-– A készség- és képességfejlesztés speciális eljárásai az általános iskolai anyanyelvi és irodalmi nevelésben.
+– Törekszik az irodalom és a magyar nyelv végtelen gazdagságának és értékközvetítő funkciójának bemutatására.
 
-– Mérés és értékelés az általános iskolai anyanyelvi és irodalmi nevelésben.
+– Megvan benne az igény a szaktudományos és szakmódszertani kutatási eredmények folyamatos követésére, valamint az iskolai nevelési folyamatba való adekvát beépítésére.
 
-– Általános iskolai magyar nyelvi és irodalmi programok, nyomtatott, illetve digitális tankönyvek, tankönyvcsaládok.
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
 
-2. Magyartanár (középiskolai)
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 92-102 kredit
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
 
-– magyar nyelvű megjelölése: okleveles középiskolai magyartanár
+a) Szakmai alapozó ismeretek: 8-12 kredit
 
-– angol nyelvű megjelölése: teacher of Hungarian language and literature
+Nyelvtudomány: 4-6 kredit
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+– A nyelvtudomány alapjai (a nyelv fogalma, a nyelv több szempontú megközelítése; a nyelv mint jelrendszer, nyelv és gondolkodás, nyelv és cselekvés, nyelv és kreativitás, a nyelv tudományos vizsgálatának általános kérdései, a nyelvtudomány, az anyanyelv tanítása).
 
-– a képzési idő: 12 félév
+– A nyelvészeti ismeretszerzés alapjai (a nyelvtudomány kutatási területei, módszerei, könyvtár- és internethasználat, nyomtatott és elektronikus szótárak, nyelvtudományi és szakmódszertani folyóiratok, számítógépes nyelvészeti adatbázisok).
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a magyar nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+Irodalomtudomány: 4-6 kredit
 
-4. Az elsajátítandó szakmai tudás, képesség
+– Az irodalomtudomány alapjai (az irodalom tanítása, poétikai rendszerek, az irodalom tudományos vizsgálatának általános kérdései).
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+– Az irodalomtudományi ismeretszerzés alapjai (az irodalomtudomány módszerei, a tudományos ismeretszerzés forrásai: könyvtár- és internethasználat, a digitális bölcsészet alapjai).
 
-a 2. mellékletben meghatározott tudás, készség, képesség;
+b) A szakmai törzsanyag szakterületi ismeretkörei: 84-90 kredit
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+Nyelvtudomány: 38-41 kredit
 
-4.2.1. A magyartanár szakterületi tudása, készségei, képességei,
+– Szöveg és kommunikáció (kommunikáció szóban és írásban: a személyközi, a csoportos, a nyilvános és a tömegkommunikáció, a nemverbális kommunikáció, pragmatikai ismeretek, szövegtani ismeretek: szövegelmélet, szövegtipológia, szövegalkotás, szövegelemzés, retorika; a pragmatikai szemlélet alkalmazása a szöveg szerkezeti és műveleti megközelítésében, az írott és a beszélt nyelv normái, a kommunikáció zavarai, ezek korrekciós lehetőségei, kommunikációs stratégiák, online kommunikáció).
 
-A tanulói személyiség fejlesztése, az egyéni bánásmód érvényesítése terén
+– Nyelv és társadalom (a nyelv mint dinamikus rendszer, a nyelvi változó és a nyelvi változás, a nyelv rétegződése, szociolingvisztika, dialektológia, a világ nyelvi sokfélesége, nyelv és globalitás, nyelvi kontaktusjelenségek, nemzetiségi nyelvhasználat; nyelvpolitika, nyelvi jogok, nyelvi diszkrimináció, nyelvi tervezés és nyelvstratégia, az internetes nyelvhasználat).
 
-– Képes a tanulói személyiség sokoldalú fejlesztésére a magyar nyelvi és irodalmi műveltséganyag elsajátításának, a beszéd, a beszédértés, az olvasás, a szövegértés, az írás és a szövegalkotás fejlesztésének folyamatában. Tudja adaptív módon alkalmazni az irodalmi, anyanyelvi nevelés speciális alapelveit, eszközeit és eljárásait. Képes felismerni és a szaktárgy tanításában adekvát módon figyelembe venni a tanulók hátrányos helyzetéből adódó sajátosságokat. Egyéni eljárásokat alkalmaz a hátrányos helyzetű tanulók képzésének és a tehetséggondozásnak a folyamatában. Az olvasóvá nevelés folyamatában képes a tanulói személyiség fejlesztésére a művekkel való egyéni találkozás, a személyesen motivált műélvező megértés révén és érdekében. Törekszik a tanulók anyanyelviotthonosság-érzetének megerősítésére.
+– A nyelvi szintek rendszernyelvészeti leírása. Hangtani, alaktani, szótani, szószerkezettani, mondattani, jelentéstani és frazeológiai ismeretek. (A magyar hangrendszer főbb jellemzői és a hangok kapcsolódási szabályai. A szóelemek és a szófajok, ezek összefüggései, mondat- és szövegbeli szerepük. A mondatrészek. Az egyszerű és az összetett mondatok. A szószerkezetek fajtái. A szójelentés és grammatikai elemei és fajtái. A szó szerinti és a figuratív jelentés különbségei, különös tekintettel a frazeológiai egységekre. Lexikológiai, lexikográfiai és frazeológiai ismeretek.)
 
-Képes a személyiség értelmi, érzelmi, testi, szociális és erkölcsi fejlődéséről való elképzelések megismerésére, hasznosítására a magyar nyelv és irodalom tanításában.
+– Stílus és jelentés (stíluselemek, stílushatás, stíluseszközök, alakzatok és szóképek, stílusrétegek, stílusváltozatok, stíluskorszakok, funkcionális kognitív stilisztika, a stílus cselekvéselméleti és interakciós megközelítése).
 
-A tanulói csoportok, közösségek alakításának segítése, fejlesztése terén
-
-– Képes az irodalmi és anyanyelvi nevelés tanórai, illetve tanórán kívüli közösségi formáinak, csoportos tevékenységeinek megszervezésére, a tanulói közösségekben rejlő lehetőségek kihasználására, az egyének közötti különbségek megértésére, interkulturális nevelési programok alkalmazására, az együttműködési készségek fejlesztésére.
-
-Képes a műértelmező folyamat közösségi kereteinek megteremtésére, valamint arra, hogy e folyamatban, többféle szerepben: motiválóként, résztvevőként, irányítóként, segítőként vegyen részt. Elkötelezett a tanulók anyanyelvi kompetenciáinak egyéni fejlesztésére, az ezt szolgáló csoportos tevékenységek megszervezésére projektmunka; páros és csoportmunka; kooperatív tanulási technikák; nem formális módszerek tananyaghoz kapcsolt alkalmazásával.
-
-Jártas iskolai ünnepségek, magyar nyelvi és irodalmi tanulmányi versenyek, tanulmányi kirándulások megszervezésében, lebonyolításában. Képes iskolaújság, iskolarádió, iskolai és egyéb közösségi honlapok létrehozásának, szakmai működtetésének támogatására. Felkészült magyar nyelvi és irodalmi szakkörök, önképző körök irányítására, a tanulói önszerveződés elősegítésére.
-
-A szaktudományi, szakmódszertani és szaktárgyi tudás terén
-
-– Képes a tudás tantervi, műveltségterületi összefüggésekbe ágyazására; képes elősegíteni a tanulók tudományos fogalmainak, fogalomrendszereinek fejlődését; megismertetni a tudományterület szemléletmódját, értékeit és kutatási eljárásait; képes az elsajátított tudás alkalmazásához szükséges készségek kialakítására a tanulókban.
-
-Rendelkezik a magyar nyelv és irodalom tanításához szükséges korszerű nyelv- és irodalomtudományi, társtudományi, valamint anyanyelv- és irodalompedagógiai ismeretekkel. Ismeri az anyanyelvi és irodalmi nevelés-oktatás céljait, feladatait, tartalmait, színtereit, szaktárgyspecifikus alapelveit, módszertani eljárásait. Képes magát szakszerűen kifejezni mind szóban, mind írásban, valamint szaktárgyi és szakmódszertani kompetenciáit adaptív és kreatív módon alkalmazni az anyanyelvi és az irodalmi nevelés folyamatában. Rendelkezik az egyéni, illetve a közösségi sajátosságokhoz igazodó, a megértő műélvezetet, a közösségi interpretációt, a szóbeli, valamint az írásbeli nyelvi fejlesztést, az anyanyelvi és irodalmi ismeretbővítést támogató szakmódszertani felkészültséggel.
-
-A pedagógiai folyamat tervezése terén
-
-– Képes a pedagógiai munka átfogó és részletekbe menő, a feltételek árnyalt elemzésén alapuló megtervezésére; a tapasztalatok reflektív módon történő elemzésére, értékelésére.
-
-Ismeri az alap-, a keret- és a helyi tantervek vonatkozó előírásait, ezek ismeretében képes az adott tanulócsoport képességeihez, lehetőségeihez, érdeklődéséhez igazodó magyar nyelvi és irodalmi szakpedagógiai tervek (tanmenetek, tematikus óratervek) összeállítására. Képes figyelembe venni a vonatkozó kompetenciaterületek fejlesztési követelményeit, ugyanakkor képes alkalmazkodni az egyéni, illetve a közösségi igényekhez is, egyensúlyt tud tartani a közvetítendő műveltséganyag követelményei és a fejlesztő feladatok között. Képes a tanórai (magyar tantárgyi, fakultációs, osztályfőnöki) és tanórán kívüli (szakköri, diákköri) munka tervezésére.
-
-Jártas az info-kommunikációs eszközök kreatív és adaptív alkalmazásában.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes a hatékony tanulási környezet kialakítására, a tanulási folyamat iskolai, valamint iskolán kívüli összetevőinek szoros összehangolására, az anyanyelvi és az irodalmi nevelés különféle eljárásainak, eszközeinek hatékony, kreatív, integrált alkalmazására. Képes az olvasóvá nevelésre, a házi olvasmányok önálló tanulói feldolgozásának motiválására, a tanulók olvasási készségeinek és műértő képességének folyamatos fejlesztésére, a tanulók önálló olvasói tevékenységeinek támogatására. Ismeri, illetve tudja alkalmazni az anyanyelvi és irodalmi nevelésben az egyéni, valamint a közösségi motiválási technikákat, a tanulói kommunikációt támogató eszközöket, a visszacsatolási mechanizmusokat. Tudja alkalmazni a korszerű beszéd- és beszédértés-fejlesztés, a folyamatelvű olvasás- és írástanítás egyéni, illetve csoportos módszertani eljárásait. Ismeri, valamint alkalmazza a modern információfeldolgozási stratégiákat, technikákat az anyanyelvi és irodalmi ismeretbővítés folyamatában.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Képes a tanulók fejlődési folyamatainak, tanulmányi teljesítményeinek, személyiségfejlődésének értékelésére; különböző értékelési formák és eszközök használatára; az értékelés eredményeinek hatékony alkalmazására; az önértékelés fejlesztésére. Ismeri az anyanyelvi és irodalmi kompetenciák mérésével, értékelésével kapcsolatos eljárásokat, a központi mérések eredményeit, tanulságait. Törekszik az értékelés különféle formáinak folyamatszerű és egységben való alkalmazására. Képes az irodalmi nevelés folyamatában reflektálni a különféle értékelési szempontokra, a közös órai interpretációk megszervezésére, az értékelési szempontok diákokkal közös megvitatására, a tanulók egyéni nehézségeinek felmérésére, a műértelmező írások megfelelő értékelésére. Az anyanyelvi nevelés és ismeretbővítés folyamatában is olyan értékelő eljárásokat alkalmaz, amelyek pozitívan hatnak a tanulók nyelvi és személyiségbeli fejlődésére, önértékelésére. Képes a szaktárgyi célokat szolgáló fejlesztő értékelési módszerek és mérési eszközök kidolgozására, adaptív alkalmazására.
-
-A szakmai együttműködés és a kommunikáció terén
-
-– Képes a tanulói motiváció, az önálló, valamint a közösségi tevékenység támogatására, hatékony ismeretközvetítésre, adaptív irodalmi és anyanyelvi nevelésre. Folyamatosan törekszik saját pedagógiai kommunikációjának, az osztálytermi és a tanórán kívüli iskolai kommunikáció sajátosságainak megismerésére. Képes magyarázó, kérdező, instruáló, visszacsatoló, értékelő, tevékenységszervező, kapcsolatteremtő, -tartó, -záró, kommunikációs kultúrájának fejlesztésére az iskolai és az iskolán kívüli nevelés színterein. Képes az anyanyelvi és az irodalmi nevelés tantárgyközi beágyazottságának megfelelően az iskolai, illetve az iskolán kívüli nevelés más szereplőivel (a közművelődési intézményekkel, a múzeumokkal) való kooperációra. Figyelembe veszi a rokon szakterületek képzési szempontjait az irodalmi és az anyanyelvi nevelés folyamatában. Ismeri a szaktárgyához kapcsolódó főbb szakmai szervezetek munkáját. Törekszik a pedagógiai tevékenységét támogató szakmai szervezetekkel és szakemberekkel való együttműködésre. Kapcsolatot tart a szülőkkel, az iskolai közösségekkel, a társszervezetekkel és kutató-fejlesztő intézményekkel.
-
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
-
-– Képes a munkáját segítő szakirodalom folyamatos követésére, önálló ismeretszerzésre, a személyes tapasztalatok tudományos keretekbe integrálására, a neveléstudományi kutatások fontosabb módszereinek, elemzési eljárásainak alkalmazására, saját munkájának tudományosan megalapozott eszközöket használó értékelésére.
-
-Elkötelezett az igényes tanári munka, a folyamatos önmegfigyelés és önfejlesztés iránt. Törekszik az irodalom és a magyar nyelv végtelen gazdagságának motiváló bemutatására. Megvan benne az igény a szaktudományos és szakmódszertani kutatási eredmények folyamatos követésére, valamint az iskolai nevelési folyamatba való adekvát és adaptív beépítésére. Képes saját szakterületén a folyamatos és önálló önképzésre, valamint a szakmai fejlődését támogató szakmai kooperációra.
-
-4.2.2. A magyartanár szakon a szakterületi ismeretek:
-
-a) Közös képzési szakasz ismeretkörei: 68–76 kredit
-
-aa) szakmai alapozó ismeretek: 8–12 kredit
-
-Nyelvtudomány: 4–6 kredit
-
-– A nyelvtudomány alapjai (a nyelv fogalma, a nyelv több szempontú megközelítése; a nyelv, mint jelrendszer, nyelv és gondolkodás, nyelv és cselekvés, nyelv és kreativitás, a nyelv tudományos vizsgálatának általános kérdései, a nyelvtudomány és az anyanyelv tanítása).
-
-– A nyelvészeti ismeretszerzés alapjai (a nyelvtudomány kutatási területei, módszerei, könyvtár- és internethasználat).
-
-Irodalomtudomány: 4–6 kredit
-
-– Az irodalomtudomány alapjai (az irodalom fogalmai, poétikai rendszerek, az irodalom tudományos vizsgálatának általános kérdései, az irodalom tanítása ).
-
-– Az irodalomtudományi ismeretszerzés alapjai (az irodalomtudomány kutatási területei, módszerei, a tudományos ismeretszerzés forrásai: könyvtár- és internethasználat).
-
-b) a szakmai törzsanyag szakterületi ismeretkörei: 60–64 kredit
-
-Nyelvtudomány: 30–32 kredit
-
-– Szöveg és kommunikáció (kommunikáció szóban és írásban: a személyközi, a csoportos, a nyilvános és a tömegkommunikáció, a nemverbális kommunikáció, pragmatikai ismeretek, szövegtani ismeretek: szövegelmélet, szövegtipológia, szövegalkotás, szövegelemzés; retorika; az írott és a beszélt nyelv normái).
-
-– Nyelv és társadalom (a nyelv, mint dinamikus rendszer, a nyelvi változó és a nyelvi változás, a nyelv rétegződése, szociolingvisztika, dialektológia, a világ nyelvi sokfélesége, nyelv és globalitás, nyelvi kontaktusjelenségek).
-
-– A nyelvi szintek rendszernyelvészeti leírása. Hangtani, alaktani, szótani, szószerkezettani, mondattani, jelentéstani ismeretek.
-
-– Stílus és jelentés (stíluselemek, stíluseszközök, stílusrétegek, stílusváltozatok).
-
-– Nyelvtörténet (a nyelv történeti vizsgálata, nyelvtörténeti korszakok, a nyelvrokonság bizonyítékai, finnugor népek és nyelvek, a nyelvi változások okai, nyelvfejlődési tendenciák, szórvány- és szövegemlékek, a magyar szókészlet története).
-
-Irodalomtudomány: 30–32 kredit
-
-– Irodalomelmélet (az irodalmi szöveg poétikai sajátosságai, műnemek és műfajok, irodalmi alkotások elemzési, értelmezési eljárásai, verstan).
-
-– Világirodalom (stílusok, szerzők, művek, művelődés- és irodalomtörténeti tájékozódás, társművészetek, kultúratudományi megközelítések, téma, motívum, archetípus).
-
-– Régi magyarországi irodalom (korszakok, szerzők, művek, irodalomtörténeti és kultúratudományi áttekintések).
-
-– Klasszikus magyar irodalom (korszakok, szerzők, művek, irodalomtörténeti és kultúratudományi áttekintések).
-
-– Modern magyar irodalom (korszakok, szerzők, művek, irodalomtörténeti és kultúratudományi áttekintések).
-
-4.2.3. A középiskolai tanári szakon az önálló képzési szakasz ismeretkörei: 45–50 kredit
-
-Nyelvtudomány: 16–20 kredit
+– Nyelvtörténet (A nyelvrokonság fogalma, annak kritériumai és bizonyítékai, a magyar nyelv eredetének hipotézisei, a finnugor nyelvrokonság bizonyítékai. A nyelvi változás, ennek főbb okai, tendenciái. A magyar nyelv történetének korszakai, legfontosabb nyelvemlékeink. A nyelvtörténeti ismeretek felhasználhatósága a magyar nyelv és irodalom tanításában. A nyelvtörténeti szövegek elemzése, történeti dialektológia, történeti névtan.)
 
 – A nyelvleírás fontosabb irányzatai (a klasszikus, a transzformációs generatív, a funkcionális és a kognitív grammatika szemlélet- és elemzésmódjai, a korpusznyelvészeti elemzés).
 
-– Alkalmazott nyelvészet (pszicholingvisztika, kontrasztív nyelvészet, lexikológia, lexikográfia, számítógépes nyelvészet, tanári beszéd).
+– Alkalmazott nyelvészet (kontrasztív nyelvészet, lexikológia, lexikográfia, számítógépes nyelvészet, tanári beszéd).
 
-– A magyar nyelv története (nyelvtörténeti szövegek elemzése, történeti dialektológia, történeti névtan).
+Irodalomtudomány: 46-49 kredit
 
-– Nyelv és társadalom (nemzetiségi nyelvhasználat; nyelvpolitika, nyelvi jogok, nyelvi diszkrimináció, nyelvi tervezés és nyelvstratégia, az Európai Unió nyelvpolitikája).
+– Irodalomelmélet (az irodalmi szöveg poétikai és stiláris sajátosságai, műnemek és műfajok, irodalmi alkotások elemzési, értelmezési eljárásai, verstan, az elbeszélésmód vizsgálata, a drámai művek elemzésének kérdései).
 
-– Ismeretek a szövegről és a kommunikációról (funkcionális kognitív stilisztika, a stílus cselekvéselméleti és interakciós megközelítése, a pragmatikai szemlélet alkalmazása a szöveg szerkezeti és műveleti megközelítésében, az osztálytermi diskurzus elemzése).
+– Világirodalom (korstílusok, szerzők, művek, művelődés- és irodalomtörténeti tájékozódás, társművészetek, kultúratudományi megközelítések, téma, motívum, archetípus).
 
-Irodalomtudomány: 16–20 kredit a közös képzésben megadott 5 ismeretkörből, különös tekintettel az alábbi közműveltségi tartalmakra
+– Régi, klasszikus és modern magyar irodalomtörténeti korszakok, stílusirányzatok, szerzők, művek, műfajok, irodalomtörténeti és kultúratudományi áttekintések, az irodalom társművészeti kapcsolatai a Nemzeti alaptantervben és a kerettantervben rögzített teljes törzsanyagot magában foglalva.
 
-– A művészi kifejezésmódok, stíluseszközök funkciói és hatása.
+– Kortárs magyar irodalom, tendenciák és irányzatok, a kortárs irodalom és az irodalmi hagyomány, irodalmi művek, szerzők párbeszéde.
 
-– Irodalom és társművészetek.
+– 1920 utáni Kárpát-medencei magyar irodalom (közösségi lét- és hagyományfolytonosság, irodalom és nemzeti önismeret, a kisebbségi lét kifejeződésének új irányzatai identitásélmények a 20. századi határon túli magyar irodalomban).
 
-– Irodalom és kulturális hagyomány.
+– Műelemzések: olvasat, esztétikai minőség, értékelés; értékközvetítés irodalmi művek elemzésének és értelmezésének gyakorlata az irodalomtörténeti és -elméleti ismeretek alapján.
 
-– Hangnemek, esztétikai minőségek.
+– Populáris irodalom: a népszerű irodalom történeti és kortárs változatai; műfajelméleti és poétikai, irodalomszociológiai aspektusok.
 
-– Olvasat, elemzés, értékelés.
+– Gyermek- és ifjúsági irodalom történeti és kortárs változatai; médiaelméleti, műfajelméleti, poétikai és fejlődéslélektani aspektusok.
 
-– Irodalmi élet és populáris kultúra.
+A szabadon választható tárgyak kerete ad lehetőséget a kerettantervben, az érettségi vizsgakövetelményekben és a fentiekben nem szereplő tartalmakon túlmutató további szakterületi ismereteket tartalmazó tárgyak felajánlására.
 
-Kötelezően választható szakmai ismeretek: 10–15 kredit
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-nyelvtudományi, illetve irodalomtudományi speciális ismeretek, egyéb kutatószemináriumok.
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-5. A magyartanár sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– A magyar nyelv és irodalom szakos tanári szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
 
-– Az anyanyelvi és irodalmi nevelés cél- és feladatrendszere, alapelvei, interaktív, illetve reflektív módszerei, munkaformái, eszközei.
+– Az anyanyelvi, irodalmi nevelés cél- és feladatrendszere, alapelvei, interaktív és reflektív módszerei, munkaformái, eszközei kontakt és online környezetben.
 
 – Az anyanyelv- és az irodalompedagógia fogalma, szemléletmódjai, alternatív formái.
 
-– A magyarórák felépítése, hospitálás, mikrotanítás és óraelemzés. Információs és kommunikációs technikák a magyarórán.
-
-– Az anyanyelvi és irodalmi műveltségi terület a Nemzeti alaptantervben, valamint a kerettantervekben. Az anyanyelvi és irodalmi ismeretek bővítésének eljárásai.
+– A magyarórák felépítése, hospitálás, mikrotanítás és óraelemzés, az osztálytermi kommunikáció elemzése, infokommunikációs eszközök és digitális alkalmazások a magyarórán.
 
 – Az anyanyelvi készségek és képességek (beszéd, beszédértés, olvasás, szövegértés, szövegalkotás), az irodalomolvasás, valamint a tanulási képesség fejlesztésének korszerű eljárásai.
 
-– Az adaptív anyanyelvi és az irodalmi nevelés.
+– Az anyanyelvi és az irodalmi művelődési anyag tartalma, a nyelv- és irodalomtudományi eredmények felhasználása az általános iskolában, illetve középiskolában. Az élő irodalom, a mai magyar nyelvhasználat jelenségeinek közvetítése az általános iskolában, illetve középiskolában. Az olvasóvá nevelés módszerei, lehetőségei.
 
-– Az anyanyelvi és az irodalmi művelődési anyag tartalma, a nyelv- és irodalomtudományi eredmények felhasználása a középiskolában. Az élő irodalom, a mai magyar nyelvhasználat jelenségeinek közvetítése a középiskolában.
+– A készség- és képességfejlesztés speciális eljárásai az általános iskolai, illetve középiskolai anyanyelvi és irodalmi nevelésben. A drámapedagógia, a történetmesélés módszerei irodalmi művek segítségével.
 
-– A készség- és képességfejlesztés speciális eljárásai a középiskolai anyanyelvi és irodalmi nevelésben.
+– Mérés és értékelés az általános iskolai, illetve középiskolai anyanyelvi és irodalmi nevelésben.
+
+– Általános iskolai, illetve középiskolai magyar nyelvi és irodalmi programok, nyomtatott, illetve digitális tankönyvek, tankönyvcsaládok.
 
 – A magyar nyelvi és irodalmi érettségi vizsga követelményei, felkészítés az érettségire.
 
-– Középiskolai magyar nyelvi és irodalmi programok, nyomatott, illetve digitális tankönyvek, tankönyvcsaládok.
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat: 2 kredit.
 
-II. Idegen nyelvek műveltségi terület
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlatok: 2 kredit.
 
-1. Angol nyelv és kultúra tanára (általános iskolai)
+II. Idegen nyelv tanulási terület
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+1. Angol nyelv és kultúra tanára
 
-– magyar nyelvű megjelölése: okleveles általános iskolai angol nyelv és kultúra tanára
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
 
-– angol nyelvű megjelölése: teacher of English as a foreign language
+– magyar nyelvű megjelölése: okleveles angol nyelv és kultúra tanára
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+– angol nyelvű megjelölése: Teacher of English Language and Culture
 
-– a képzési idő 10 félév
+2. A képzési idő: 10 félév
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakközépiskolai szakaszainak évfolyamain, a felnőttképzésben, az angol nyelv tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában, az angol nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-4. Az elsajátítandó szakmai tudás, képesség
+4. Az elsajátítandó szakmai kompetenciák
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.1. A Korm. rendelet 3. § (1) bekezdés b és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+4.2.1. Az angol nyelv és kultúra tanára szakképzettség szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2.1. Az angol nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-Angol nyelvtudás, nyelvhasználat terén
+a) tudása
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes az angol nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
-– Ismeri a beszélt és írott angol nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Ismeri a nyelvtanítás módszertanát, a különböző nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, az angol nyelvű, nem pedagógiai céllal írt szakmai dokumentumokat.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Ismeri a különböző pedagógiai módszerek és a tanulók értékelésének hatását a tanulók személyiségfejlődésére. Tisztában van az angol nyelv ismeretének szerepével és az általa nyújtott lehetőségekkel a tanulók személyiségfejlődésében és életében.
 
-A célnyelvi kultúrák közvetítése terén
+b) képességei
 
-– Ismeri az angol nyelvű kultúrákat, azok hasonlóságait és különbségeit, képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére. Ismeri az angol nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni (angol nyelvű, brit, amerikai, ausztrál, ír, kanadai, skót stb. kultúrák, kortárs irodalmi, képzőművészeti, filmes, zenei művek, trendek).
+– Képes osztálytermi gyakorlatát az egyéni különbségek figyelembevételével kialakítani.
 
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, valamint értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Képes a különböző nyelvtanítási módszereket tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
 
-Szaktudományi, szakmódszertani tudás terén
+– Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait; tudását a nyelvtanítás során képes alkalmazni.
+– Képes a pedagógiai folyamatokat és a tanulók személyiségfejlődését folyamatosan elemezni, értékelni.
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait, képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+– Képes a tehetséges, a nehézségekkel küzdő vagy sajátos nevelési igényű, a hátrányos, a halmozottan hátrányos helyzetű, tanulási, magatartási nehézségekkel küzdő, valamint a tantárgyában egyéni bánásmódot igénylő tanulókat felismerni, hatékonyan fejleszteni és differenciáltan oktatni, nevelni.
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, illetve az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+c) attitűdje
 
-A pedagógiai folyamat tervezése terén
+– Törekszik arra, hogy tanítványait minél jobban megismerje, problémáikra érzékenyen és egyéni sajátosságaiknak megfelelően reagáljon.
+
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoportdinamika elméleti alapjait és kutatásának eredményeit, az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+– Átlátja a különböző nyelvtanulás-szervezési formák előnyeit és kihívásait.
+
+b) képességei
+
+– Képes ismereteit a tanulói csoportok és közösségek kialakításánál és hatékony működtetésénél alkalmazni az osztályteremben és a virtuális térben egyaránt.
+
+– Képes az idegen nyelvi nevelés tanórai, illetve tanórán kívüli közösségi formáinak, csoportos tevékenységeinek megszervezésére, a tanulói közösségekben rejlő lehetőségek kihasználására, az egyének közötti különbségek megértésére, interkulturális nevelési programok alkalmazására, az együttműködési készségek fejlesztésére.
+
+– Képes értelmezni és felhasználni azokat a társadalmi-kulturális jelenségeket, amelyek befolyásolják a tanulók társadalmi és csoportos helyzetét és lehetőségeit az angol nyelv tanulása, illetve használata terén.
+
+– Tudatosan épít a kooperatív és reflektív tanulási technikák alkalmazására.
+
+c) attitűdje
+
+– Fontosnak tartja a különböző nyelvű és kultúrájú csoportok iránti tolerancia kialakítását.
+
+– Folyamatosan együttműködik a szülőkkel.
+
+– Törekszik úgy nevelni, hogy tanítványai mások véleményét, értékeit tiszteljék.
+
+– Célul tűzi ki az ismereteken alapuló, mérlegelő gondolkodás képességének kialakítását a tanulókban.
+
+– Fontosnak tartja a toleranciára és nyitottságra nevelést mind a tanulói csoportok, az iskola a társadalom és az angol nyelvet használó kultúrák és egyének tekintetében.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+az angol nyelvtudás, nyelvhasználat terén
+
+– Legalább C1 szintű, használható angol nyelvtudással és magas szintű interkulturális kommunikatív kompetenciával rendelkezik.
+
+– Ismeri a beszélt és írott angol nyelv szabályait, regisztereit.
+
+– Ismeri az általa tanított és legalább még egy angol nyelvváltozat fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit, illetve ezek összefüggéseit.
+
+– Ismeri az angol mint globális közvetítőnyelv szerepét és a különböző nyelvterületeken betöltött funkcióját.
+
+A kultúrák közvetítése terén
+
+– Ismeri az angol nyelvű kultúrák elterjedtségét és sokszínűségét.
+
+– Ismeri több angol nyelvű kultúra szellemi, művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga és tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+
+Szakmódszertani tudás terén
+
+– Ismeri a nyelvészet és alkalmazott nyelvészet releváns területeinek alapvető kérdéseit (különösen a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, a szociolingvisztika, a pszicholingvisztika, a pragmatika, a fordítástudomány ismereteit); képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható nyelvfejlesztési lehetőségeket.
+
+– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket.
+
+– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok angol nyelvtudását - a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+
+b) képességei
+
+– Képes hatékonyan alkalmazni a beszélt és írott angol nyelv szabályait, regisztereit.
+
+– Képes a célnyelv folyékony használata és pedagógia tevékenysége során ismereteit helyesen, a kontextushoz illően alkalmazni.
+
+– Képes rugalmasan alkalmazkodni a különböző nyelvi és kulturális hátterű nyelvhasználókkal folytatott kommunikáció változó követelményeihez.
+
+– Képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére.
+
+– Képes a nemzeti kultúra célnyelven történő közvetítésére.
+
+– Képes a kortárs irodalmi műveket és az angol nyelvű kultúrák egyéb megjelenési formáit, az ezekről szóló szakirodalmat értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+
+– Képes elméleti ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+– Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
 
 – Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti angol szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+– Tájékozott a különböző nyomtatott és elektronikus tan- és segédanyagokról.
+
+– A tervezés, felkészülés és megvalósítás során figyelembe veszi az adott tanulócsoport sajátosságait.
+
+b) képességei
+
+– Képes a különböző céloknak megfelelő stratégiák, a motivációt, differenciálást, tanulói aktivitást biztosító, a tanulók gondolkodási, probléma-felfedező és megoldási, együttműködési képességének fejlesztését segítő módszerek, szervezési formák szakmai tudására és tapasztalatára épülő kiválasztására és hatékony megvalósítására.
+
+– Képes különböző nyomtatott és elektronikus tan- és segédanyagok összeállítására, alkalmazására.
 
 – Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes a tananyagot és annak közvetítését az adott tanulócsoporthoz igazítani.
 
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+c) attitűdje
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– A tervezés során együttműködik a munkatársakkal és a tanulókkal, kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+A tanulás segítése, szervezése és irányítása területén
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+a) tudása
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Ismeri a különböző motiváció-elméletek alapjait, a tanulási motiváció fejlesztésének módszereit.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+– Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására.
 
 – Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Ismeri az angol nyelv tanulásának és használatának tanórán, iskolán kívüli lehetőségeit, színtereit.
 
-Szakmai elkötelezettség és önfejlesztés terén
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok tankönyvek kipróbálása, bírálata).
-
-4.2.2. Az angol nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) Közös képzési szakasz ismeretkörei: 62–82 kredit
-
-aa) szakmai alapozó ismeretek: 30–40 kredit
-
-– Angol nyelvfejlesztés: beszéd, hallás utáni értés, szövegértés, fordítás, fogalmazás, esszéírás.
-
-– Nyelvészeti, irodalmi, kulturális, történelmi és országismereti alapismeretek.
-
-ab) a szakmai törzsanyag ismeretkörei: 32–42 kredit
-
-– Angol nyelvű irodalmak, minimum 8 kredit.
-
-– Nyelvészeti és alkalmazott nyelvészeti ismeretek, minimum 8 kredit.
-
-– Angol nyelvű népek történelme és kultúrája, minimum 8 kredit.
-
-– Nyelvfejlesztés, minimum 8 kredit.
-
-b) Az általános iskolai tanári szakon az önálló képzési szakasz ismeretkörei: 16–20 kredit
-
-– Szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (prezentációs készségek, képességek fejlesztése), minimum 8 kredit.
-
-– Az általános iskolai és szakközépiskolai tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák, minimum 8 kredit.
-
-5. Az angol nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok angol nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat, kimenet mérésének és értékelésének elméletét, illetve gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket. Képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-2. Angol nyelv és kultúra tanára (középiskolai)
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles középiskolai angol nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of English as a foreign language
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő: 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, az angol nyelv tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, képesség;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. Az angol nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
-
-Angol nyelvtudás, nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes az angol nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott angol nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit, illetve ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri az angol nyelvű kultúrákat, azok hasonlóságait és különbségeit, képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére. Ismeri az angol nyelvű kultúrák jellemző szellemi, művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga és diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni (angol nyelvű, brit, amerikai, ausztrál, ír, kanadai, skót stb. kultúrák, kortárs irodalmi, képzőművészeti, filmes, zenei művek, trendek).
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait; tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait, képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti angol szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
+b) képességei
 
 – Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Képes a nyelvtanulás sikerességét és sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Képes tanulóinak segítséget nyújtani abban, hogy azok hatékonyan használják fel az iskolán kívüli nyelvtanulási lehetőségeket.
 
-Szakmai elkötelezettség és önfejlesztés terén
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni és megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag és nyelvileg folyamatosan megújulni.
+– Képes tanulóival és kollégáival kooperálva az egyre bővülő angoltanulási lehetőségek feltárására és tanórán történő felhasználására.
 
-– Képes önismeretének, saját személyiségének fejlesztésére és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+c) attitűdje
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok tankönyvek kipróbálása, bírálata).
+– Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
 
-4.2.2. Az angol nyelv és kultúra tanára szakon a szakterületi ismeretek:
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő, aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
 
-a) Közös képzési szakasz ismeretkörei: 62–82 kredit
+A pedagógiai folyamatok és a tanulók értékelése területén
 
-aa) szakmai alapozó ismeretek: 30–40 kredit
+a) tudása
 
-– Angol nyelvfejlesztés: beszéd, hallás utáni értés, szövegértés, fordítás, fogalmazás, esszéírás.
+– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
 
-– Nyelvészeti, irodalmi, kulturális, történelmi és országismereti alapismeretek.
+– Ismeri a nyelvtanulási folyamat, kimenet mérésének és értékelésének elméletét, gyakorlati kérdéseit.
 
-ab) a szakmai törzsanyag ismeretkörei: 32–42 kredit
+– Ismeri a vizsgákat és követelményeiket,
 
-– Angol nyelvű irodalmak, minimum 8 kredit.
+– Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
 
-– Nyelvészeti és alkalmazott nyelvészeti ismeretek, minimum 8 kredit.
+b) képességei
 
-– Angol nyelvű népek történelme és kultúrája, minimum 8 kredit.
+– Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani.
 
-– Nyelvfejlesztés, minimum 8 kredit.
+– Képes tesztfeladatok készítésére, kipróbálására, az eredmények értékelésére.
 
-b) A középiskolai tanári szakon az önálló képzési szakasz ismeretkörei: 45–50 kredit
+– Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
 
-– Szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (prezentációs készségek, képességek fejlesztése), minimum 10 kredit.
+– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására. Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
 
-– Angol nyelvű irodalmak és kultúrák, minimum 10 kredit.
+– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére.
 
-– Nyelvészeti és alkalmazott nyelvészeti ismeretek, minimum 10 kredit.
+c) attitűdje
 
-– Középiskolai és felnőttkori tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák, minimum 10 kredit.
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
 
-5. Az angol nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit, ezekre érdemben, támogató módon reflektál.
 
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+– Reálisan ítéli meg az értékelés különböző formáinak szerepét a tanulók fejlődésében, képességeik fejlesztésében.
 
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
 
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+a) tudása
 
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok angol nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+– Ismeri az osztálytermi kommunikáció sajátosságait.
 
-– Ismeri a nyelvtanulási folyamat, kimenet mérésének és értékelésének elméletét, gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
 
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
+b) képességei
 
-– A Közös Európai Referenciakeret és annak alkalmazása.
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni.
 
-2a. Magyar mint idegen nyelv tanára
+– Képes és motivált saját szakmai fejlődését megtervezni és megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag és nyelvileg folyamatosan megújulni.
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a más idegen nyelveket illetve szaktárgyakat idegen nyelven tanító kollégáival, az iskola más munkatársaival, intézményekkel és szervezetekkel.
 
-- magyar nyelvű megnevezése: magyar mint idegen nyelv tanára,
+c) attitűdje
 
-- angol nyelvű megjelölése: teacher of Hungarian as a foreign language.
+– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában.
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.4. és 4.2.3. pontjára figyelemmel
+– Nyitott a fejlesztési, innovációs törekvések kipróbálására.
 
-- a képzési idő 2 félév
+Az autonómia és a felelősségvállalás területén
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a magyar nyelv idegen nyelvként és származásnyelvként történő oktatásának különféle módozataira (klasszikus idegen nyelv, származásnyelv, környezetnyelv), az iskola pedagógiai feladatainak ellátására, továbbá a magyarság kultúrájának átadásával kapcsolatos oktatási, pedagógiai feladatokra, pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+a) tudása
 
-4. Az elsajátítandó szakmai tudás, képesség
+– Tisztában van személyiségének sajátosságaival.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)-c) pontja tekintetében:
+– Ismeri a tanári autonómia fogalmát.
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+b) képességei
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+– Képes önismeretének, saját személyiségének fejlesztésére.
 
-4.2.1. A magyar mint idegen nyelv tanára szakos tanár szakterületi tudása, készségei, képességei
+– Képes tudatosan követni saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására.
 
-A magyar mint idegen nyelv nyelvtudás, nyelvhasználat terén
+– Képes és felkészült szakmai tevékenységének folyamatos fejlesztésére.
 
-- Képes anyanyelvének külső szemléletére, és funkcionális nyelvészeti ismeretei birtokában képes annak átadására a magyart idegen nyelvként tanulóknak.
+– Képes nyelvtudása állandó és önálló fejlesztésére.
 
-- Képes a Közös Európai Referenciakeret szintjeinek megfelelően elmagyarázni a nyelvi jelenségeket, törvényszerűségeket.
+– Képes az angol nyelven megtalálható információforrások megtalálására, azok értelmezésére és alkalmazására.
 
-- Képes az igényes nyelvhasználatra, ismeri a magyar nyelv változatait.
+c) attitűdje
 
-- Ismeri és képes megfelelően alkalmazni a magyar nyelv területi és társadalmi változatait.
+– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására.
 
-- Ismeri a szinkrón nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit.
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-- Ismereteit képes a célnyelv folyékony használata és pedagógiai tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Törekszik nyelvtudása állandó és önálló fejlesztésére.
 
-- Ismeri a beszélt és írott magyar nyelv szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
 
-A nem magyar anyanyelvű magyar mint idegen nyelv tanára továbbá
+– Együttműködés és felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
 
-- A magyart idegen nyelvként felsőfokú (C1), komplex típusú nyelvvizsga szintjén ismeri és használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik.
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
 
-- Képes a magyar nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 99 kredit
 
-A célnyelvi kultúra közvetítése terén
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
 
-- Ismeri a hazai és a külföldi (Kárpát-medencei és a nyugati diaszpóra) magyar nyelvű kultúrát, azok hasonlóságait, különbségeit.
+A szakmai alapozó ismeretekből és a szakmai törzsanyag szakterületi ismeretköreiből legalább 90 kreditet kell teljesíteni. A szakterületi ismeretek 99 kreditjének fennmaradó részét a felsorolt ismeretkörökből vagy az angol nyelv és kultúra további szaktudományos ismereteiből kell teljesíteni.
 
-- Idegennyelvi kompetenciáját felhasználva képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére.
+a) Szakmai alapozó ismeretek: 24-51 kredit
 
-- Ismeri a magyar kultúra szellemi, művészeti irányzatait, megjelenési formáit, hagyományait, kanonikus és kortárs műveit; azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan és motiválóan, a nyelvtanítás céljára alkalmazni.
+– Angol nyelvi kompetenciák fejlesztése (minimum 12 kredit): beszédkészség-fejlesztés; beszédértés-fejlesztés; olvasáskészség-fejlesztés; fogalmazáskészség-fejlesztés; kiejtés; nyelvtani gyakorlatok; fordítási gyakorlatok
 
-- Ismeri a magyarországi és külhoni magyarok tárgyi, szellemi kultúráját, az egyes népcsoportok történetét feltáró kutatások legújabb eredményeit, képes azokat súlyozni, a más kultúrákból érkezett nyelvtanulók számára átadni, valamint alkalmazni magyar gyökerekkel rendelkező diákjai esetében a származásnyelv-tudás fejlesztésére, illetve nemzeti identitás erősítésére.
+– Nyelvészeti, irodalmi, kulturális, történelmi és országismereti alapismeretek (minimum 12 kredit).
 
-Szaktudományi, szakmódszertani tudás terén
+b) A szakmai törzsanyag szakterületi ismeretkörei: 48-75 kredit
 
-- Képes a tudás tantervi, műveltségterületi összefüggésekbe ágyazására; képes elősegíteni a tanulók tudományos fogalmainak, fogalomrendszereinek fejlődését; megismertetni a tudományterület szemléletmódját, értékeit és kutatási eljárásait; képes az elsajátított tudás alkalmazásához szükséges készségek kialakítására a tanulókban.
+– Szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (minimum 12 kredit): prezentációs készségek, képességek fejlesztése; tudományos írás; nyelvi tudatosság, folyamatos szókincsfejlesztés.
 
-- Rendelkezik a magyar nyelv és kultúra tanításához szükséges korszerű nyelvtudományi és a kultúra egészére kiterjedő interdiszciplináris tudással, valamint nyelvpedagógiai ismeretekkel.
+– Az általános iskolai, középiskolai és felnőttkori tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák (minimum 12 kredit): egyéni nyelvtanulói különbségek kezelése; nyelvelsajátítás; tesztkészítés és értékelés; nyelvtechnológia az osztályteremben, differenciálás; a szókincsfejlesztés módszerei.
 
-- Ismeri a magyar mint idegen- és mint származásnyelvi nevelés-oktatás céljait, feladatait, tartalmait, színtereit, szaktárgy-specifikus alapelveit és módszertani eljárásait.
+– Angol nyelvű népek irodalma, történelme és kultúrája (minimum 12 kredit): például, brit irodalomtörténet; amerikai irodalomtörténet; modern brit kultúra; amerikai popkultúra; irodalom és vizuális kultúraelmélet; a brit és az amerikai irodalom és kultúra tanításának beilleszthetősége a köznevelésbe; más angol nyelvű kultúrák
 
-- Képes magát szakszerűen kifejezni mind szóban, mind írásban, valamint szaktárgyi és szakmódszertani kompetenciáit adaptív és kreatív módon alkalmazni a nyelvpedagógiai folyamatban.
+– Nyelvészeti és alkalmazott nyelvészeti ismeretek (minimum 12 kredit): például, szintaxis és morfológia; szemantika és pragmatika; alkalmazott nyelvészeti ismeretek; szociolingvisztika.
 
-- Rendelkezik az egyéni és a közösségi sajátosságokhoz igazodó, a komplex nyelvi és interkulturális kompetenciafejlesztést, kulturális ismeretbővítést támogató szakmódszertani felkészültséggel.
+A szabadon választható tárgyak kerete ad lehetőséget a kerettantervben, az érettségi vizsgakövetelményekben és a fentiekben nem szereplő tartalmakon túlmutató további szakterületi ismereteket tartalmazó tárgyak felajánlására.
 
-A pedagógiai folyamat tervezése terén
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-- Képes a hatékony tanulási környezet kialakítására mind hazai, mind határon túli és külföldi színtereken, a tanulási folyamat iskolai és iskolán kívüli összetevőinek szoros összehangolására, az idegen nyelvi nevelés különféle eljárásainak, eszközeinek hatékony, kreatív és integrált alkalmazására.
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-- Képes a magyar kultúra iránt érdeklődő olvasóvá nevelésre, az olvasmányok önálló tanulói feldolgozásának motiválására, a tanulók olvasási készségeinek folyamatos fejlesztésére, a tanulók önálló olvasói tevékenységeinek támogatására.
+– Az angol nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
 
-- Ismeri és tudja alkalmazni az idegen nyelvi nyelvpedagógiában bevált egyéni és közösségi motiválási technikákat, a tanulói kommunikációt támogató eszközöket, a visszacsatolási mechanizmusokat.
+– Nyelvtanítási módszerek és nyelvtanulási elméletek, a nyelvtanulási és nyelvhasználói stratégiák, a nyelvi tudatosság, tartalomalapú nyelvoktatás, hazai kulturális értékek közvetítése.
 
-- Tudja alkalmazni a korszerű beszéd- és beszédértés-fejlesztés, a folyamatelvű olvasás- és írástanítás egyéni és csoportos módszertani eljárásait.
+– Az angol nyelv tanításának szakmódszertana angol nyelven: a nyelvoktatás curriculáris alapjait képező európai és hazai dokumentumok ismerete, tanmenet készítése, tematikus terv készítése, óratervezés, tananyagfejlesztés, tankönyvelemzés, nyelvi és interkulturális készségek fejlesztése.
 
-- Ismeri és alkalmazza a modern információfeldolgozási stratégiákat és technikákat a magyar nyelvi ismeretbővítés folyamatában.
+– Tantárgyakon átívelő interdiszciplináris szemlélet kialakítása, differenciálás, mérés, értékelés az angolórán, az angolóra elemzése és az arra való reflektálás, munkaformák ismerete, IKT-eszközök alkalmazási lehetőségei, WEB 2.0 alkalmazások ismerete.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat angol nyelven: 2 kredit.
 
-- Képes a tanulók fejlődési folyamatainak, tanulmányi teljesítményeinek és személyiségfejlődésének értékelésére, a különböző értékelési formák és eszközök használatára, az értékelés eredményeinek hatékony alkalmazására, az önértékelés fejlesztésére.
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat angol nyelven: 2 kredit.
 
-- Ismeri a nyelvi kompetenciák mérésével és értékelésével kapcsolatos eljárásokat, a nemzetközi mérések eredményeit, tanulságait, a Közös Európai Referenciakeret ajánlásait.
+2. Német nyelv és kultúra tanára
 
-- Törekszik az értékelés különféle formáinak folyamatszerű és egységben való alkalmazására. A nyelvi nevelés és ismeretbővítés folyamatában olyan értékelő eljárásokat alkalmaz, amelyek pozitívan hatnak a tanulók nyelvi és személyiségbeli fejlődésére, önértékelésére, segítik az eltérő kultúrából érkezők beilleszkedését.
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
 
-- Képes a szaktárgyi célokat szolgáló fejlesztő értékelési módszerek és mérési eszközök kidolgozására, adaptív alkalmazására.
+– magyar nyelvű megjelölése: okleveles német nyelv és kultúra tanára
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– angol nyelvű megjelölése: Teacher of German Language and Culture
 
-- Képes a kevéssé ismert magyar nyelv iránti érdeklődés felkeltésére, az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+2. A képzési idő: 10 félév
 
-- Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, képes ezekről adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, és a diákok fejlődése érdekében a magyar mint idegen nyelvi tanulási folyamat gyakorlatában alkalmazni.
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamán kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a német nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-- Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+4. Az elsajátítandó szakmai kompetenciák
 
-- Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra, ösztönzi a magyar mint idegen nyelvi vizsgákon való megmérettetést, ismeri azokat a lehetőségeket, amelyek a magyar mint idegen nyelv tanulóinak további szakmai fejlődést biztosítanak.
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-- Képes a közoktatásban magyar mint idegen nyelvet tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására.
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-- Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+4.2.1. A német nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-Szakmai elkötelezettség és önfejlesztés terén
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-- Képes a munkáját segítő szakirodalom folyamatos követésére, önálló ismeretszerzésre, a személyes tapasztalatok tudományos keretekbe integrálására, a neveléstudományi és idevágó alkalmazott nyelvészeti kutatások fontosabb módszereinek, elemzési eljárásainak alkalmazására, saját munkájának tudományosan megalapozott eszközöket használó értékelésére.
+a) tudása
 
-- Elkötelezett az igényes tanári munka, a folyamatos önmegfigyelés és önfejlesztés iránt.
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
 
-- Törekszik a magyar nyelv és kultúra, a szellemi örökség gazdagságának interkulturális alapokon nyugvó, motiváló bemutatására.
+– Ismeri a német nyelv tantárgy által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
 
-- Megvan benne az igény a szaktudományos és szakmódszertani kutatási eredmények folyamatos követésére, valamint a nyelvoktatási folyamatba való adekvát és adaptív beépítésére.
+– Ismeri a német nyelv tantárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
 
-- Képes saját szakterületén a folyamatos és önálló önképzésre, valamint a szakmai fejlődését támogató szakmai kooperációra.
+– Ismeri a pedagógiai folyamatok és a tanulók értékelése, elemzése hatását a tanulók személyiségfejlődésére.
 
-4.2.2. A magyar mint idegen nyelv tanára szakon a szakterületi ismeretek:
+– Tisztában van a német nyelv tantárgynak a tanulók személyiségfejlődésében betöltött szerepével, lehetőségeivel.
 
-A szakterületi ismeret
+b) képességei
 
-a) a mesterképzésbe történő belépésnél előzményként elfogadható alkalmazott nyelvészet, magyar nyelv és irodalom, hungarológia (nyelvészet vagy magyar mint idegen nyelv specializációval) mesterképzési szakok estében és
+– Képes a német nyelv tantárgy speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
 
-b) előtanulmányok teljesülésével a bölcsésztudomány képzési területen idegen nyelvi mesterképzési szak esetében
+– Képes a különböző adottságokkal, képességekkel, illetve előzetes tudással rendelkező tanulók tanulásának, fejlesztésének megfelelő módszerek megválasztására, tervezésére és alkalmazására, a pályaorientáció segítésére.
 
-a mesterszakok ismeretköreinek megfeleltethető nyelvelméleti, leíró nyelvtani, funkcionális grammatikai, nyelvészeti, alkalmazott nyelvészeti, irodalmi, kultúra és médiatudományi ismereteket foglalja magába.
+– Képes a tehetséges, a nehézségekkel küzdő vagy a sajátos nevelési igényű, a hátrányos, halmozottan hátrányos helyzetű, tanulási, magatartási nehézséggel küzdő, valamint a tantárgyában egyéni bánásmódot igénylő tanulókat felismerni, hatékonyan fejleszteni és a többi tanulóval együtt differenciáltan nevelni, oktatni, számukra differenciált bánásmódot nyújtani.
 
-A b) pont szerinti idegen nyelvi mesterképzési szakokon szerzett mesterfokozatnak és szakképzettségnek a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudásként való elfogadásának feltétele a korábbi alapképzési, mesterképzési vagy részismereti tanulmányokból megszerzett legalább 50 kredit az alábbi ismeretkörökből:
+– Képes a német nyelv tantárgyban rejlő értékorientált személyiségfejlesztési lehetőségeket kihasználni, a tanulók önálló ismeretszerzését segíteni a végzettségének megfelelő korosztály és a felnőttoktatás keretében is.
 
-- diszciplináris ismeretek: a magyar mint idegen nyelv fogalma és a hungarológia diszciplináris helye a tudományok, ezen belül az alkalmazott nyelvészet rendszerében;
+– Döntéseiben képes a szakmai önreflexióra és önkorrekcióra.
 
-- grammatikai ismeretek: a magyar nyelv funkcionális grammatikája és tipológiai sajátosságai;
+– A pedagógiai folyamatokat és a tanulók személyiségfejlődését folyamatosan értékeli, elemzi.
 
-- alkalmazott nyelvészeti ismeretek: lexikográfiai, lexikológiai, terminológiai ismeretek; interkulturális és pragmatikai ismeretek; nyelvoktatás-politikai ismeretek; fordítástudományi ismeretek; kontrasztív nyelvészeti ismeretek, idegen nyelvi alkalmazott nyelvészeti ismeretek;
+– Képes saját, tudományosan megalapozott pedagógiai nézeteinek megfogalmazására.
 
-- kulturális ismeretek: művelődéstörténet; a magyar kultúra közvetítése; kisebbségtudományi ismeretek; interkulturális kommunikáció, transzkulturális kommunikáció; idegen nyelvi célországi országismeret, idegen nyelvi célország történelmi, társadalmi, kulturális, irodalmi ismeretei, nemzetközi kommunikáció, néprajzi ismeretek.
+c) attitűdje
 
-A mesterképzésbe történő belépés további feltétele egy idegen nyelvből államilag elismert, felsőfokú (C1), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél.
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására. Felelősségteljesen viszonyul a tanulók személyiségfejlesztéséhez, képes mindenkiben meglátni az értékeket és pozitív érzelmekkel viszonyulni minden tanítványához.
 
-5. A magyar mint idegen nyelv sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
 
-- Ismeri a magyar grammatikát, a funkcionális magyar grammatikát és annak nyelvpedagógiai alkalmazását.
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
 
-- Ismeri az idegennyelv-tanítás történetét, legújabb eredményeit.
+a) tudása
 
-- Ismeri a magyar mint idegen nyelv és mint származásnyelv tanításának módszertanát, tananyagait, mérésének, értékelésének módszereit.
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
 
-- Ismeri a magyar mint idegen nyelv és mint származásnyelv tanításának módszertanát, az élő nyelvek tanítási módszereit, az osztálytermi eljárásokat, szöveg- és feladattípusokat, a felhasználható autentikus anyagokat. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
 
-- Ismeri a tananyagokat és segédanyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok magyar mint idegen nyelv tanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, tanórai eljárásokat megtervezni és alkalmazni.
+– Ismeri a közösség kialakítását, fejlesztését elősegítő pedagógiai módszereket.
 
-- Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+– Ismeri a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadásának lehetőségeit a német nyelv tantárgy keretein belül.
 
-- Ismeri a nyelvtanulási folyamat, kimenet mérésének, értékelésének elméletét és gyakorlati kérdéseit.
+b) képességei
 
-- Ismeri a nyelvvizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+– Képes mind a szaktárgyi oktatás keretében, mind a szabadidős tevékenységek során alkalmazni az együttműködést segítő, motiváló módszereket.
 
-- Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni a magyar mint idegen nyelvi érettségi vizsgán, a kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
 
-- Ismeri a magyar mint idegen nyelvi érettségi vizsga követelményeit, a vizsgafeladatok készítésének, kipróbálásának, ellenőrzésének módszereit, eljárását. Ismeri továbbá a vizsgák minőségi kritériumait.
+– Képes aktívan közreműködni a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
 
-- Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+– Képes a tanulókat helyi, nemzeti és egyetemes emberi értékek elfogadására nevelni.
 
-3. Német nyelv és kultúra tanára (általános iskolai)
+– Képes értelmezni és felhasználni azokat a társadalmi-kulturális jelenségeket, amelyek befolyásolják a tanulók esélyeit, iskolai, illetve iskolán kívüli életét.
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+– Képes az iskolai és osztálytermi toleráns, esélyteremtő légkör megteremtésére.
 
-– magyar nyelvű megjelölése: okleveles általános iskolai német nyelv és kultúra tanára
+– Képes a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
 
-– angol nyelvű megjelölése: teacher of German language and culture
+c) attitűdje
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+– Elkötelezett a nemzeti és egyetemes értékek iránt, szociális érzékenység, segítőkészség jellemzi.
 
-– a képzési idő 10 félév
+– Felelősségteljesen végzi tanári munkáját, igyekszik az egyéni bánásmódot igénylő tanulók esetében az inklúzió szemléletét érvényesíteni.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakközépiskolai szakaszainak évfolyamain, a felnőttképzésben a német nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+– Személyes példamutatásával is segíti a nemzeti értékek megismerését és a magyar identitástudat kialakítását a tanulókban.
 
-4. Az elsajátítandó szakmai tudás, képesség
+– Elkötelezett a demokratikus gondolkodásra nevelés iránt, valamint fontosnak tartja a fenntarthatóság és környezettudatosság, illetve a médiatudatosság kialakítását a tanulókban.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+– Az iskola világában tudatosan törekszik a nemzeti és európai kultúra alapját képező értékek elfogadtatására.
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+– Fontosnak tartja a nemzetiségek iránti tolerancia kialakítását.
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+– Törekszik tanítványait mások véleményének, értékeinek tiszteletben tartására nevelni.
 
-4.2.1. A német nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
+– Folyamatos együttműködésre törekszik a szülőkkel.
 
-Német nyelvtudás, nyelvhasználat terén
+A szakmódszertani és a szaktárgyi tudás területén
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a német nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+a) tudása
 
-– Ismeri a beszélt és írott német nyelv szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni. Rendelkezik ismeretekkel a német nyelv variánsairól, regisztereiről, képes azok megismertetésére.
+– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit, illetve ezek összefüggéseit.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit, illetve ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Ismeri a beszélt és írott német nyelv szabályait. Rendelkezik ismeretekkel a német nyelv variánsairól, valamint regisztereiről.
 
-A célnyelvi kultúrák közvetítése terén
+– Ismeri a német nyelvű kultúrákat, azok hasonlóságait és különbségeit.
 
-– Ismeri a német nyelvű kultúrákat, azok hasonlóságait és különbségeit, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a német nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga és diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+– Ismeri a német nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit.
 
-– Képes az irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a szociolingvisztika, a nyelvészeti pragmatika, valamint a nyelvtörténet alapjait.
 
-Szaktudományi, szakmódszertani és szaktárgyi tudás terén
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit és az elméleti kérdésekről szóló empirikus kutatások eredményeit.
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait; és tudását a nyelvtanítás során képes alkalmazni.
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
-– Ismeri a szociolingvisztika, a pszicholingvisztika alapjait, és képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, valamint az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
 
 – Ismeri a nyelv- és irodalomtudományi, kultúrtörténeti kutatások korszerű eredményeit, azok módszertanát.
 
+– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket.
+
 – Tájékozott az általa oktatott nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
 
-A pedagógiai folyamat tervezése terén
+b) képességei
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti német szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Képes az ismereteket és kompetenciákat meghatározni, logikailag felépíteni. Ismeri a német nyelv, irodalom és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat, képes azok célcsoportnak megfelelő kiválasztására. Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
+– Legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a német nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+
+– Képes a beszélt és írott német nyelv szabályait a mindenkori nyelvhasználat kontextusának megfelelően hatékonyan alkalmazni.
+
+– Képes saját tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát.
+
+– Képes a célnyelv helyes használatára a pedagógia tevékenysége során a kontextushoz illően.
+
+– Képes a német nyelvű kultúrákat, azok hasonlóságait és különbségeit saját maga és tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes az irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+
+– Képes a kontrasztív nyelvészet, a szövegnyelvészet, a szociolingvisztika, a nyelvészeti pragmatika, valamint a nyelvtörténet alapjairól megszerzett ismereteit a nyelvtanítás során alkalmazni.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+– Képes a szaktudományi, továbbá az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazására, a különböző tudásterületek közötti összefüggések, kapcsolódások, átfedések és egymásra hatások felismerésére, a szaktárgyi integráció megvalósítására.
+
+– Képes a német nyelv tantárgynak megfelelő tudományterületeken a fogalmak, elméletek és tények közötti összefüggések megteremtésére, közvetítésére.
+
+– Képes szaktudományi, szakmódszertani, szaktárgyi, tanuláselméleti és tantervi tudásának hatékony integrálására.
+
+– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg a német nyelv tantárgy oktatásban betöltött szerepét.
+
+– Tudatosan használja ki a transzferhatás lehetőségeit.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti német szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri a német nyelv, irodalom és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat.
+
+b) képességei
 
 – Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, tematikus terv és óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-– Képes a tervezés során a kollégákkal és a tanulókkal együttműködni; a taneszközöket, az egyéb tanulási forrásokat kritikusan elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, valamint az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
+– Képes a tervezés során a kollégákkal, illetve a tanulókkal együttműködni; a taneszközöket és egyéb tanulási forrásokat elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
 
-– A tanulásmódszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, tanulási módszerek eredményességének értékelésére a négy nyelvi készség elsajátításában, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+c) attitűdje
 
-– Ismeri és alkalmazni tudja a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
+– A tervezés során kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+A tanulás segítése, szervezése és irányítása területén
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+a) tudása
+
+– Ismeri az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazásának speciális szempontjait, lehetőségeit.
+
+– Ismeri a szaktantárgy tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit is.
+
+– Ismeri a német nyelv tantárgy oktatása során alkalmazható motivációs lehetőségeket.
+
+– Ismeri a német nyelv tantárgy tanításának-tanulásának tanórai, a tanórán kívüli és az iskolán kívüli lehetőségeit, színtereit.
+
+– Ismeri a német nyelv oktatásában alkalmazható differenciálisi módszereket, nevelési-oktatási stratégiákat.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
 
 – A nyelvtanulás sajátosságainak ismeretében, valamint az ezeket alakító kulturális, szociális hatások értelmezése alapján, az egyéni szükségleteket, igényeket is figyelembe véve képes olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók komplex értelmi, érzelmi, szociális és erkölcsi fejlődését.
 
-– A nyelvtanulás külső (pl. iskolatípus, módszertani koncepció) és egyéni (a tanulók nyelvi kompetenciája, motiváltsága) feltételrendszerének ismeretében képes pedagógiai céljainak, valamint azok elérését biztosító oktatási-nevelési stratégiájának kialakítására, megvalósítására. Különböző tanulásszervezési eljárások, tanítási technikák, módszerek, differenciált munkaformák ismeretében képes ezek tudatos, széles skálán mozgó, az életkornak, egyéni és csoportsajátosságoknak megfelelő alkalmazására.
+– A nyelvtanulás külső (iskolatípus, módszertani koncepció), illetve egyéni (a tanulók nyelvi kompetenciája, motiváltsága) feltételrendszerének ismeretében képes pedagógiai céljainak és azok elérését biztosító oktatási-nevelési stratégiájának kialakítására, megvalósítására. Különböző tanulásszervezési eljárások, tanítási technikák, módszerek, differenciált munkaformák ismeretében képes ezek tudatos, széles skálán mozgó, az életkornak, egyéni és csoportsajátosságoknak megfelelő alkalmazására.
 
-– Képes a különböző céloknak megfelelő stratégiák, a motivációt, differenciálást, tanulói aktivitást biztosító, a tanulók gondolkodási, problémamegoldási, valamint együttműködési képességének fejlesztését segítő módszerek, szervezési formák kiválasztására, illetve megvalósítására, a hagyományos és az információs-kommunikációs technikákra épülő eszközök, digitális tananyagok hatékony, szakszerű alkalmazására.
+– Képes a különböző céloknak megfelelő stratégiák, a motivációt, differenciálást, tanulói aktivitást biztosító, a tanulók gondolkodási, probléma-megoldási, együttműködési képességének fejlesztését segítő módszerek, szervezési formák kiválasztására, megvalósítására, a hagyományos és az információs-kommunikációs technikákra épülő eszközök, digitális tananyagok hatékony, szakszerű alkalmazására.
 
-– Képes az érdeklődés, a figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
+– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
 
-– Képes a különböző adottságokkal, képességekkel, előzetes tudással rendelkező tanulók számára megfelelő nyelvelsajátítási módszerek megválasztására és a tanulás önszabályozásának személyre szabott fejlesztésére.
+– Képes a különböző adottságokkal, képességekkel, előzetes tudással rendelkező tanulók számára megfelelő nyelvelsajátítási módszerek megválasztására és a tanulás személyre szabott fejlesztésére.
 
-– Képes a nyelvtanulás eredményességét/eredménytelenségét befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és -javításra ösztönözni.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Képes a nyelvtanulás eredményességét vagy eredménytelenségét befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és -javításra ösztönözni.
 
 – Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
 
 – A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése érdekében, képes segítséget nyújtani abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
 
-A szakmai együttműködés és kommunikáció terén
+c) attitűdje
+
+– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri és alkalmazni tudja a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+
+b) képességei
+
+– A tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, tanulási módszerek eredményességének értékelésére a négy nyelvi készség elsajátításában, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (így portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Elkötelezett a tanulást segítő értékelés mellett.
+
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri az osztálytermi kommunikáció sajátosságait.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
+
+– Ismeretekkel rendelkezik a reflektív gondolkodás szerepéről a szakmai fejlődésben, a továbbképzés lehetőségeiről, a lelki egészség megőrzésének elméleti és gyakorlati módszereiről.
+
+– Tájékozott a szakterületéhez és tanári hivatásához kötődő információs forrásokkal, szervezetekkel kapcsolatban.
+
+b) képességei
 
 – Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a más élő idegen nyelvet, szaktárgyat élő idegen nyelven oktató és anyanyelvet tanító kollégáival, az iskola más munkatársaival, a diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, intézményekkel, szervezetekkel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
 
 – Kooperálni képes a különböző pedagógiai szolgáltató intézményekkel, az adott nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
 
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
+c) attitűdje
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, illetve nyelvileg folyamatosan megújulni.
+– Pedagógiai helyzetekben képes mérlegelésre, együttműködésre, kölcsönösségre, asszertivitásra, segítő, érzületi, lelkületi kommunikációra.
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+– Kész részt vállalni a szaktárggyal kapcsolatos fejlesztési, innovációs tevékenységben.
+
+– Betartja a pedagóguspálya jogi és etikai normáit.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Tisztában van személyiségének sajátosságaival.
+
+– Ismeri a tanári autonómia fogalmát.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes a szakmai információforrások megtalálására, értelmezésére, felhasználására és ezek közvetítésére.
+
+– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (alternatív programok, tankönyvek kipróbálása, bírálata).
+
+c) attitűdje
 
 – Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-– Képes a szakmai információforrások megtalálására, kritikus értelmezésére, felhasználására és ezek közvetítésére.
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
 
-– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 90-100 kredit
 
-4.2.2. A német nyelv és kultúra tanára szakon a szakterületi ismeretek:
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
 
-a) Közös képzési szakasz ismeretkörei: 72–74 kredit
+a) Szakmai alapozó ismeretek: 20-25 kredit
 
-aa) szakmai alapozó ismeretek: 18–24 kredit
+– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség) és szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; nyelvi közvetítés, szövegfajták: minimum 12 kredit.
 
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség) és szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták; minimum 8 kredit.
+– Német nyelvű országok ismerete: történelmi országismeret, jelenkori országismeret, kortárs kultúra: minimum 4 kredit.
 
-– Német nyelvű országok ismerete: a célnyelvi országok földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere; minimum 2 kredit.
+– Irodalom- és kultúratudományi alapismeretek: alapvető terminológia, elemi műfajismeret, az irodalmi szövegelemzés alapvető kérdései: minimum 2 kredit.
 
-– Irodalomtudományi alapismeretek: az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia; minimum 4 kredit.
+– Nyelvészeti és kommunikációelméleti alapismeretek: alapvető nyelvészeti terminológia, a nyelvtudomány alapvető területei és módszerei: minimum 2 kredit.
 
-– Nyelvészeti alapismeretek: nyelvészeti terminológia, módszerek áttekintő megismertetése; minimum 4 kredit.
+b) Szakmai törzsanyag szakterületi ismeretkörei: 70-75 kredit
 
-ab) a szakmai törzsanyag ismeretkörei: 48–56 kredit
+– A szakmai-tudományos nyelvi kompetencia fejlesztése: a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek; szövegfajták; prezentációs technikák tartalom alapú közvetítése; tudományos írás, tanári nyelvhasználat (beszédaktusok az idegennyelv-órán, a tanórai kommunikáció moderálása, a tanulók írásbeli és szóbeli munkáinak értékelése: feedback) minimum 12 kredit.
 
-– Tartalom alapú nyelvi kompetenciafejlesztés: kulturális, kommunikációs és médiaismeretek; a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése; minimum 10 kredit.
+– Nyelvészeti és kommunikációs ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek; alkalmazott nyelvészeti ismeretek (kontrasztív nyelvészet, szociolingvisztika, pragmatika, nyelvtörténet), a modern kommunikáció-tudomány elméletei és gyakorlati alkalmazásuk minimum 29 kredit.
 
-– Kultúra- és médiatudományi alapismeretek: a kultúra- és médiakutatás alapfogalmainak megismerése, a kultúra- és médiatudomány főbb területeinek áttekintése; minimum 4 kredit.
+– Irodalmi, kultúra- és médiatudományi ismeretek: áttekintés a német nyelvű irodalmak történetéről: korszakok és korszakhatárok a kezdetektől a XXI. századig, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; német-magyar irodalmi párhuzamok, ifjúsági- és gyermekirodalom; a modern kultúra- és médiatudomány alapfogalmai, elméletei és gyakorlati alkalmazásuk, irodalom és medialitás; kulturális sokszínűség az irodalomban minimum 29 kredit.
 
-– Irodalmi ismeretek: áttekintés a német nyelvű irodalmak történetéről: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; irodalom és medialitás; minimum 16 kredit.
+A szabadon választható tárgyak kerete ad lehetőséget a kerettantervben, az érettségi vizsgakövetelményekben és a fentiekben nem szereplő tartalmakon túlmutató további szakterületi ismereteket tartalmazó tárgyak felajánlására.
 
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek; minimum 16 kredit.
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-– Kutatásmódszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek; minimum 2 kredit.
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-b) Az általános iskolai tanári szakon az önálló képzési szakasz ismeretkörei: 16–20 kredit
+– A német nyelv és kultúra tanára szakképzettség sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörei: 8 kredit
 
-– Irodalomtudományi ismeretek: az irodalomtudomány újabb irányzatai, irodalmi szövegek elemzése; német–magyar irodalmi párhuzamok; minimum 6 kredit.
+– Idegennyelv-didaktikai ismeretek német nyelven: a német mint idegen nyelv tudományos diszciplína kialakulása és irányzatai, nyelvpolitika, nyelvtanítási módszerek és nyelvtanulási elméletek, didaktikai elvek, a nyelvtanulási és nyelvhasználói stratégiák, a nyelvi tudatosság, tartalomalapú nyelvoktatás, interkulturális tanulás, hazai kulturális értékek közvetítése, a többnyelvűség didaktikája, irodalomdidaktika, nyelvtandidaktika, szókincsdidaktika, nyelvtanári kompetenciák modelljei, tanárkutatás.
 
-– Nyelvészeti ismeretek: válogatott fejezetek az alkalmazott nyelvészeti diszciplínákból (pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika); minimum 6 kredit.
+– A német nyelv tanításának szakmódszertana német nyelven: a nyelvoktatás curriculáris alapjait képező európai és hazai dokumentumok ismerete, tanmenet készítése, tematikus terv készítése, óratervezés, tananyagfejlesztés, tankönyvelemzés, nyelvi és interkulturális készségek fejlesztése.
 
-– Kultúra- és médiatudományi ismeretek: a modern kultúra- és médiatudomány elméletei és gyakorlati alkalmazásuk (interkulturalitás, intermedialitás); minimum 4 kredit.
+– Tantárgyakon átívelő interdiszciplináris szemlélet kialakítása, differenciálás, mérés, értékelés a németórán, hibaelemzés, a németóra elemzése és reflektálása, munkaformák ismerete, IKT-eszközök alkalmazási lehetőségei az idegennyelv-órán, WEB 2.0 alkalmazások ismerete, iskolán kívüli programok (projektmunka, diákcsere) szervezése.
 
-5. A német nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– A gyakorlatot támogató gyakorlat német nyelven: 2 kredit.
 
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat német nyelven: 2 kredit.
 
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
+3. Német és nemzetiségi német nyelv és kultúra tanára
 
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
 
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok német nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+– magyar nyelvű megjelölése: okleveles német és nemzetiségi német nyelv és kultúra tanára
 
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének, értékelésének elméletét, valamint gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+– angol nyelvű megjelölése: Teacher of German Language and Culture
 
-– A nyelvoktatás folyamatában képes a tudatos értékközvetítésre, a társadalmi-kulturális elfogulatlanságra és toleranciára nevelésre. Képes ösztönözni a tanulók önálló véleményalkotását, kritikus gondolkodásmódját a célnyelvi kultúrával szemben, nemzeti azonosságtudatuk tiszteletben tartása mellett. Képes fejleszteni a tanulók célnyelvi kommunikációs képességét, célnyelven való gondolkodását és interkulturális szemléletmódját.
+2. A képzési idő: 10 félév
 
-– Tudatosan képes kezelni a nemzeti értékek sokféleségét, nyitott mások véleményének, értékeinek megismerésére, tiszteletben tartására. Az inter- és multikulturalizmus jegyében képes az egyéni és csoportértékek figyelemben tartása mellett egyéni és csoportfejlesztésre.
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a német nyelv, a német nyelv és irodalom, valamint a német népismeret tantárgyak tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-– Az élő idegen nyelv tanításával, a célnyelvi ország kultúrájának megismertetésével párhuzamosan képes növelni a nyelvtanulásban résztvevők szűkebb és tágabb közösségek iránti nyitottságát.
+4. Az elsajátítandó szakmai kompetenciák
 
-– Képes szakkör, önképzőkör működtetésére az oktatott élő idegen nyelv és kultúra, illetve egy adott nemzetiség tárgyi és szellemi kulturális örökségének ápolása céljából.
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás) a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-– A Közös Európai Referenciakeret és annak alkalmazása.
+4.2.1. A német és nemzetiségi német nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4. Német és nemzetiségi német nyelv és kultúra tanára (általános iskolai)
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+a) tudása
 
-– magyar nyelvű megjelölése: okleveles általános iskolai német és nemzetiségi német nyelv és kultúra tanára
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
 
-– angol nyelvű megjelölése: teacher of German language and culture and German as a minority language and culture
+– Ismeri a német és a nemzetiségi német nyelv és irodalom, valamint a német népismeret tantárgyak által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+– Ismeri a német idegen nyelv és a nemzetiségi német nyelv és irodalom, valamint a német népismeret tantárgyak tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
 
-– a képzési idő 10 félév
+– Ismeri a pedagógiai folyamatok és a tanulók értékelése, elemzése hatását a tanulók személyiségfejlődésére.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakiskolai szakaszainak évfolyamain, a felnőttképzésben a német és nemzetiségi német nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése. A képzés további célja olyan szakmai elit felkészítése, amely speciális kisebbségtudományi ismeretek birtokában képes arra, hogy kompetensen vegyen részt a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben is.
+– Tisztában van a német idegen nyelv és a nemzetiségi német nyelv és irodalom, valamint a német népismeret tantárgyaknak a tanulók személyiségfejlődésében betöltött szerepével, lehetőségeivel.
 
-4. Az elsajátítandó szakmai tudás, képesség
+b) képességei
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+– Képes a különböző adottságokkal, képességekkel, illetve előzetes tudással rendelkező tanulók tanulásának, fejlesztésének érdekében a megfelelő módszerek megválasztására, tervezésére és alkalmazására, a pályaorientáció segítésére.
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+– Képes a tehetséges, a nehézségekkel küzdő vagy a sajátos nevelési igényű, a hátrányos, halmozottan hátrányos helyzetű, tanulási, magatartási nehézséggel küzdő, valamint a tantárgyában egyéni bánásmódot igénylő tanulókat felismerni, hatékonyan fejleszteni és a többi tanulóval együtt differenciáltan nevelni, oktatni, számukra differenciált bánásmódot nyújtani.
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+– Képes a német idegen nyelv és a nemzetiségi német nyelv és irodalom, valamint a német népismeret tantárgyakban rejlő értékorientált személyiségfejlesztési lehetőségeket kihasználni, a tanulók önálló ismeretszerzését segíteni a végzettségének megfelelő korosztály és a felnőttoktatás keretében is.
 
-4.2.1. A német és nemzetiségi német nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
+– Döntéseiben képes a szakmai önreflexióra és önkorrekcióra.
 
-Német nyelvtudás, nyelvhasználat terén
+– A pedagógiai folyamatokat és a tanulók személyiségfejlődését folyamatosan értékeli, elemzi.
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a német nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Képes saját, tudományosan megalapozott pedagógiai nézeteinek megfogalmazására.
 
-– Ismeri a beszélt és írott német nyelv szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni. Rendelkezik ismeretekkel a német nyelv variánsairól, regisztereiről, képes azok megismertetésére. Ismeri a magyarországi németek nyelvi variánsait (dialektusait) és nyelvhasználati szokásait.
+c) attitűdje
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
 
-A célnyelvi kultúrák közvetítése terén
+– Felelősségteljesen viszonyul a tanulók személyiségfejlesztéséhez, képes mindenkiben meglátni az értékeket és pozitív érzelmekkel viszonyulni minden tanítványához.
 
-– Ismeri a külföldi és hazai német nyelvű kultúrákat, azok hasonlóságait, különbségeit, képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére. Ismeri a német nyelvű kultúrák jellemző szellemi, művészeti irányzatait, megjelenési formáit, műveit; azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan és motiválóan, nyelvtanítás céljára alkalmazni.
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
 
-– Képes az irodalmi műveket, a célnyelvi/nemzetiségi nyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan és értően áttekinteni, értelmezni, az irodalmi, kulturális trendekben elhelyezni.
+– Pozitív példát mutatva hozzájárul a tanulók német nemzetiségi identitásának erősítéséhez, tudatosításához.
 
-– Ismeri a magyarországi németek tárgyi, szellemi kultúráját, a Kárpát-medencei németség irodalmát és a népcsoport történetét feltáró kutatások legújabb eredményeit, képes azokat diákjai nemzetiségi nyelvtudását fejlesztő, illetve nemzetiségi identitástudatát erősítő projektek tervezésében, megvalósításában alkalmazni.
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
 
-Szaktudományi, szakmódszertani és szaktárgyi tudás terén
+a) tudása
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait; és tudását a nyelvtanítás során képes alkalmazni.
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Ismeri a közösség kialakítását, fejlesztését elősegítő pedagógiai módszereket.
 
-– Ismeri a német nyelv- és irodalomtudományi, kultúrtörténeti kutatások, valamint a nemzetiségi német nyelv-, irodalom-, néprajz-, kultúra- és történelemtudományi kutatások korszerű eredményeit, azok módszertanát. Képes a nemzetiségi ismeretek, jelenségek elemzésére, összehasonlítására, következtetések levonására. Képes források felkutatására, recepciójára, felhasználására. Ismeri, illetve használja a nemzetiségi tantárgyak oktatásához szükséges szépirodalmi és tudományos műveket, ismeri az adekvát településtörténeti forrásokat.
+– Ismeri a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadásának lehetőségeit a német nyelv és a nemzetiségi német nyelv és irodalom, valamint a német nemzetiségi népismeret tantárgyak keretein belül.
 
-– Tájékozott az általa oktatott nyelv/nemzetiségi nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről. Tájékozott a szomszédos országok nemzetiségi tantárgyakhoz kapcsolódó kultúrájáról, történelméről, nyelvéről és irodalmáról.
+– Ismeri az interkulturális identitás fejlesztésének, tudatosításának módszereit.
 
-A pedagógiai folyamat tervezése terén
+b) képességei
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti német és a nemzetiségi német szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Képes az ismereteket és kompetenciákat meghatározni, logikailag felépíteni. Ismeri a nemzetiségi német nyelv, irodalom és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat, képes azok célcsoportnak megfelelő kiválasztására. Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
+– Képes mind a szaktárgyi oktatás keretében, mind a szabadidős tevékenységek során alkalmazni az együttműködést segítő, motiváló módszereket.
 
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, tematikus terv és óraterv szintjén.
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
 
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
+– Képes aktívan közreműködni a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
 
-– Képes a tervezés során a kollégákkal, illetve a tanulókkal együttműködni; a taneszközöket, az egyéb tanulási forrásokat kritikusan elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, valamint az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
+– Képes a tanulókat helyi, etnikai, nemzeti és egyetemes emberi értékek elfogadására nevelni.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes értelmezni és felhasználni azokat a társadalmi-kulturális jelenségeket, amelyek befolyásolják a tanulók esélyeit, iskolai, illetve iskolán kívüli életét.
 
-– A tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, tanulási módszerek eredményességének értékelésére a négy nyelvi készség elsajátításában, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+– Képes az iskolai és osztálytermi toleráns, esélyteremtő légkör megteremtésére.
 
-– Ismeri és alkalmazni tudja a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Képes a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
 
-– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
+c) attitűdje
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– Elkötelezett a német nemzetiségi, a magyar nemzeti és az egyetemes értékek iránt, szociális érzékenység, segítőkészség jellemzi.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– Felelősségteljesen végzi tanári munkáját, igyekszik az egyéni bánásmódot igénylő tanulók esetében az inklúzió szemléletét érvényesíteni.
 
-– A nyelvtanulás sajátosságainak ismeretében, valamint az ezeket alakító kulturális, szociális hatások értelmezése alapján, az egyéni szükségleteket, igényeket is figyelembe véve képes olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók komplex értelmi, érzelmi, szociális és erkölcsi fejlődését.
+– Személyes példamutatásával is segíti a német nemzetiségi és a magyar nemzeti értékek megismerését és német nemzetiségi identitástudat kialakítását, erősítését és tudatosítását a tanulókban.
 
-– A nyelvtanulás külső (iskolatípus, módszertani koncepció) és egyéni (a tanulók nyelvi kompetenciája, motiváltsága) feltételrendszerének ismeretében képes pedagógiai céljainak, valamint azok elérését biztosító oktatási-nevelési stratégiájának kialakítására, megvalósítására. Különböző tanulásszervezési eljárások, tanítási technikák, módszerek, differenciált munkaformák ismeretében képes ezek tudatos, széles skálán mozgó, az életkornak, egyéni és csoportsajátosságoknak megfelelő alkalmazására.
+– Elkötelezett a demokratikus gondolkodásra nevelés iránt, valamint fontosnak tartja a fenntarthatóság és környezettudatosság, illetve a médiatudatosság kialakítását a tanulókban.
 
-– Képes a különböző céloknak megfelelő stratégiák, a motivációt, differenciálást, tanulói aktivitást biztosító, a tanulók gondolkodási, probléma-megoldási, illetve együttműködési képességének fejlesztését segítő módszerek, szervezési formák kiválasztására, megvalósítására, a hagyományos és az információs-kommunikációs technikákra épülő eszközök, digitális tananyagok hatékony, szakszerű alkalmazására.
+– Az iskola világában tudatosan törekszik a német nemzetiségi, a magyar és európai kultúra alapját képező értékek elfogadtatására.
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+– Fontosnak tartja a nemzetiségek iránti tolerancia kialakítását.
 
-– Képes a különböző adottságokkal, képességekkel és előzetes tudással rendelkező tanulók számára megfelelő nyelvelsajátítási módszerek megválasztására, a tanulás önszabályozásának személyre szabott fejlesztésére.
+– Törekszik tanítványait mások véleményének, értékeinek tiszteletben tartására nevelni.
 
-– Képes a nyelvtanulás eredményességét/eredménytelenségét befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és -javításra ösztönözni.
+– Folyamatos együttműködésre törekszik a szülőkkel.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+A szakmódszertani és a szaktárgyi tudás területén
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+a) tudása
 
-– A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése, nemzetiségi identitástudatuk fejlesztése érdekében, képes segítséget nyújtani abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
+– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit, illetve ezek összefüggéseit.
 
-A szakmai együttműködés és kommunikáció terén
+– Ismeri a beszélt és írott német nyelv szabályait. Rendelkezik ismeretekkel a német nyelv variánsairól, valamint regisztereiről.
 
-– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a szaktárgyat nemzetiségi nyelven oktató kollégáival, továbbá más élő idegen nyelvet és anyanyelvet tanító kollégáival, az iskola más munkatársaival, a diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, a magyarországi németek intézményeivel, szervezeteivel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
+– Ismeri a külföldi és hazai német nyelvű kultúrákat, azok hasonlóságait és különbségeit.
 
-– Kooperálni képes a különböző pedagógiai szolgáltató intézményekkel, a német nemzetiségi nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
+– Ismeri a német nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit.
 
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
+– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a szociolingvisztika, a nyelvészeti pragmatika, valamint a nyelvtörténet alapjait.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni és megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag és nyelvileg folyamatosan megújulni.
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit és az elméleti kérdésekről szóló empirikus kutatások eredményeit.
 
-– Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Képes a szakmai információforrások megtalálására, kritikus értelmezésére, felhasználására és ezek közvetítésére.
-
-– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére és lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-– Képes a magyarországi német nemzetiség szellemi, kulturális életében való aktív részvételre, a nemzetiség közéleti tevékenységének szervezésére iskolai, települési szinten.
-
-4.2.2. A német és nemzetiségi német nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) Közös képzési szakasz ismeretkörei: 72–74 kredit
-
-aa) szakmai alapozó ismeretek: 20–24 kredit
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése, szövegfajták; minimum 6 kredit.
-
-– Német nyelvű országok ismerete: a célnyelvi országok földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere; minimum 2 kredit.
-
-– Irodalomtudományi alapismeretek: az irodalmi szövegelemzés alapvető kérdései, elemi műfajismeret, alapvető terminológia; minimum 4 kredit.
-
-– Nyelvészeti alapismeretek: nyelvészeti terminológia, módszerek áttekintő megismertetése; minimum 4 kredit.
-
-– Nemzetiségi alapismeretek: kutatástörténeti ismeretek, a magyarországi német nemzetiség története, tárgyi és szellemi kultúrája, a magyarországi nemzetiségi politika, nemzetiségi jogok; minimum 4 kredit.
-
-ab) a szakmai törzsanyag ismeretkörei: 52–56 kredit
-
-– Tartalom alapú nyelvi kompetenciafejlesztés: kulturális, kommunikációs és médiaismeretek, a célnyelv és az anyanyelv kontrasztivitásának tudatosítása, fordítási gyakorlatok, stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése; minimum 8 kredit.
-
-– Kultúra- és médiatudományi alapismeretek: a kultúra- és médiakutatás alapfogalmainak megismerése, a kultúra- és médiatudomány főbb területeinek áttekintése; minimum 2 kredit.
-
-– Irodalmi ismeretek: áttekintés a német nyelvű irodalmak történetéről: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; irodalom és medialitás; minimum 14 kredit.
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek; minimum 14 kredit.
-
-– Nemzetiségi ismeretek: a magyarországi németek nyelve (nyelvjárásai), nyelvhasználata; a magyarországi németség tárgyi, szellemi néprajza; a magyarországi németek irodalma (1945 utáni); gyerek- és ifjúsági irodalom, nemzetiségi önszerveződés, nemzetiségi intézmények; minimum 12 kredit.
-
-– Kutatásmódszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek; minimum 2 kredit.
-
-b) Az általános iskolai tanári szakon az önálló képzési szakasz ismeretkörei:16–20 kredit
-
-– Irodalomtudományi ismeretek: az irodalomtudomány újabb irányzatai, irodalmi szövegek elemzése; német–magyar irodalmi párhuzamok; minimum 6 kredit.
-
-– Nyelvészeti ismeretek: Válogatott fejezetek az alkalmazott nyelvészeti diszciplínákból (pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika); minimum 6 kredit.
-
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások); nemzetiségi ismeretek gyakorlati alkalmazása (projekt és forrásalapú ismeretek); minimum 6 kredit.
-
-– Kultúra- és médiatudományi ismeretek: a modern kultúra- és médiatudomány elméletei és gyakorlati alkalmazásuk (interkulturalitás, intermedialitás); minimum 2 kredit.
-
-5. A német és német nemzetiségi nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok német nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat, kimenet mérésének, valamint értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A nyelvoktatás folyamatában képes a tudatos értékközvetítésre, a társadalmi-kulturális elfogulatlanságra és toleranciára nevelésre. Képes ösztönözni a tanulók önálló véleményalkotását, kritikus gondolkodásmódját nemzeti és nemzetiségi azonosságtudatuk tiszteletben tartása mellett. Tudatosan képes támogatni a nemzetiségi identitás megőrzését, fejlődését. Képes fejleszteni a tanulók célnyelvi/nemzetiségi nyelvi kommunikációs képességét, célnyelven/nemzetiségi nyelven való gondolkodását és interkulturális szemléletmódját.
-
-– Tudatosan képes kezelni a nemzeti és nemzetiségi értékek sokféleségét, nyitott mások véleményének, értékeinek megismerésére, tiszteletben tartására. Az inter- és multikulturalizmus jegyében képes az egyéni, illetve csoportértékek figyelemben tartása mellett egyéni és csoportfejlesztésre.
-
-– A nemzetiségi nyelv tanításával és a nemzetiség kultúrájának megismertetésével párhuzamosan képes növelni a nyelvtanulásban résztvevők szűkebb, valamint tágabb közösségek iránti elkötelezettségét, amelyek alapján nyitottá válnak a hazai német nemzetiség közéleti tevékenységében való aktív részvételre, a helyi, nemzeti, európai és egyetemes emberi értékek elfogadására.
-
-– Képes szakkör, önképzőkör működtetésére az oktatott élő idegen nyelv és kultúra, valamint az adott nemzetiség tárgyi, szellemi kulturális örökségének ápolása céljából.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-5. Német nyelv és kultúra tanára (középiskolai)
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles középiskolai német nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of German language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő: 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a német nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, képesség;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A német nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
-
-Német nyelvtudás, nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a német nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott német nyelv szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni. Rendelkezik ismeretekkel a német nyelv variánsairól, regisztereiről, képes azok megismertetésére.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a német nyelvű kultúrákat, azok hasonlóságait és különbségeit, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a német nyelvű kultúrák jellemző szellemi, művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga és diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes az irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani és szaktárgyi tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit és az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
 – Ismeri a nyelv- és irodalomtudományi, kultúrtörténeti kutatások korszerű eredményeit, azok módszertanát.
 
-– Tájékozott az általa oktatott nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
+– Ismeri a magyarországi németek tárgyi, szellemi kultúráját, a népcsoport történetét feltáró kutatások legújabb eredményeit.
 
-A pedagógiai folyamat tervezése terén
+– Ismeri és használja a nemzetiségi tantárgyak oktatásához szükséges szépirodalmi és tudományos műveket, ismeri a vonatkozó történeti forrásokat, adatbázisokat.
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti német szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Képes az ismereteket és kompetenciákat meghatározni, logikailag felépíteni. Ismeri a német nyelv, irodalom és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat, képes azok célcsoportnak megfelelő kiválasztására. Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
+– Ismeri a nyelv/nemzetiségi nyelv és kultúra identitásképző és –erősítő szerepét.
+
+– Tájékozott az általa oktatott nyelv/nemzetiségi nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
+
+– Tájékozott a hazai német közélet, valamint a nemzetiségpolitika aktuális eseményeiről, kérdéseiről.
+
+b) képességei
+
+– Legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a német nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+
+– Képes a beszélt és írott német nyelv szabályait a mindenkori nyelvhasználat kontextusának megfelelően hatékonyan alkalmazni.
+
+– Képes saját tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát.
+
+– Képes a célnyelv helyes használatára a pedagógia tevékenysége során a kontextushoz illően.
+
+– Képes a német nyelvű kultúrákat, azok hasonlóságait és különbségeit saját maga és tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes a nemzetiség nyelve, irodalma és kultúrája területén megszerzett ismereteit a diákok nyelvtudását fejlesztő, illetve nemzetiségi identitástudatát erősítő projektek tervezésében, megvalósításában alkalmazni.
+
+– Képes az irodalmi műveket, a nemzetiségi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+
+– Képes a nemzetiséggel kapcsolatos ismeretek, jelenségek elemzésére, összehasonlítására, következtetések levonására.
+
+– Képes a nemzetiség múltjához és jelenéhez kapcsolódó források felkutatására, recepciójára, felhasználására.
+
+– Képes a kontrasztív nyelvészet, a szövegnyelvészet, a szociolingvisztika, a nyelvészeti pragmatika, valamint a nyelvtörténet alapjairól megszerzett ismereteit a nyelvtanítás során alkalmazni.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+– Képes a szaktudományi, továbbá az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazására, a különböző tudásterületek közötti összefüggések, kapcsolódások, átfedések és egymásra hatások felismerésére, a szaktárgyi integráció megvalósítására.
+
+– Képes a német nyelv és a nemzetiségi német nyelv és irodalom, valamint a német nemzetiségi népismeret tantárgyaknak megfelelő tudományterületeken a fogalmak, elméletek és tények közötti összefüggések megteremtésére, közvetítésére.
+
+– Képes szaktudományi, szakmódszertani, szaktárgyi, tanuláselméleti és tantervi tudásának hatékony integrálására.
+
+– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
+
+– A nemzetiség nyelvének tanításával és a nemzetiség kultúrájának megismertetésével párhuzamosan képes növelni a nyelvtanulásban résztvevők szűkebb, valamint tágabb közösségek iránti elkötelezettségét, amelyek alapján nyitottá válnak a hazai német nemzetiség közéleti tevékenységében való aktív részvételre, a helyi, etnikai, nemzeti, európai és egyetemes emberi értékek elfogadására.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg a német nyelv és a nemzetiségi német nyelv és irodalom, valamint a nemzetiségi német népismeret tantárgyak oktatásban betöltött szerepét.
+
+– Tudatosan használja ki a transzferhatás lehetőségeit.
+
+– Tudatosan törekszik a nemzetiségi nyelve és kultúrája identitáserősítő szerepének maximális kiaknázására a tanulók szekundér szocializációjában.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv, valamint a nemzetiségi irányelv és az arra épülő kerettanterv szerinti német idegen nyelv, nemzetiségi német nyelv és irodalom, valamint a német népismeret tantárgyak szaktárgyi követelményeit, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri a német és nemzetiségi német nyelv és irodalom, valamint kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat.
+
+– Ismeri az anyanyelvi oktatás és a szaktárgyi ismeretek a nemzetiség nyelvén történő oktatásának korszerű módszereit.
+
+b) képességei
 
 – Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, tematikus terv és óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-– Képes a tervezés során a kollégákkal, illetve a tanulókkal együttműködni; a taneszközöket és egyéb tanulási forrásokat kritikusan elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
+– Képes a tervezés során a kollégákkal, illetve a tanulókkal együttműködni; a taneszközöket és egyéb tanulási forrásokat elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
 
-– A tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, tanulási módszerek eredményességének értékelésére a négy nyelvi készség elsajátításában, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+c) attitűdje
 
-– Ismeri és alkalmazni tudja a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
+– A tervezés során kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+A tanulás segítése, szervezése és irányítása területén
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+a) tudása
+
+– Ismeri az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazásának speciális szempontjait, lehetőségeit.
+
+– Ismeri a szaktantárgy tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit is.
+
+– Ismeri a német idegen nyelv és a nemzetiségi német nyelv és irodalom, valamint a német népismeret tantárgyak oktatása során alkalmazható motivációs lehetőségeket.
+
+– Ismeri a német nyelv és a nemzetiségi német nyelv és irodalom, valamint a német nemzetiségi népismeret tantárgyak tanításának-tanulásának tanórai, a tanórán kívüli és az iskolán kívüli lehetőségeit, színtereit.
+
+– Ismeri a német nyelv és a nemzetiségi német nyelv és irodalom, valamint a nemzetiségi német népismeret oktatásában alkalmazható differenciálisi módszereket, nevelési-oktatási stratégiákat.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
 
 – A nyelvtanulás sajátosságainak ismeretében, valamint az ezeket alakító kulturális, szociális hatások értelmezése alapján, az egyéni szükségleteket, igényeket is figyelembe véve képes olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók komplex értelmi, érzelmi, szociális és erkölcsi fejlődését.
 
@@ -1232,367 +1258,389 @@ A tanulási folyamat támogatása, szervezése és irányítása terén
 
 – Képes a különböző adottságokkal, képességekkel, előzetes tudással rendelkező tanulók számára megfelelő nyelvelsajátítási módszerek megválasztására és a tanulás önszabályozásának személyre szabott fejlesztésére.
 
-– Képes a nyelvtanulás eredményességét/eredménytelenségét befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és -javításra ösztönözni.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Képes a nyelvtanulás eredményességét, illetve eredménytelenségét befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és -javításra ösztönözni.
 
 – Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
 
-– A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése érdekében, képes segítséget nyújtani abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
+– A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése, nemzetiségi identitástudatuk fejlesztése, tudatosítása érdekében, képes segítséget nyújtani abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
 
-A szakmai együttműködés és kommunikáció terén
+c) attitűdje
 
-– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a más élő idegen nyelvet, szaktárgyat élő idegen nyelven oktató és anyanyelvet tanító kollégáival, az iskola más munkatársaival, a diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, intézményekkel, szervezetekkel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
+– Felkészült a tanulók motiválására, segítésére, a tehetséggondozásra.
 
-– Kooperálni képes a különböző pedagógiai szolgáltató intézményekkel, az adott nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
+A pedagógiai folyamatok és a tanulók értékelése területén
 
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
+a) tudása
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+– Ismeri és alkalmazni tudja a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
 
-– Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Képes a szakmai információforrások megtalálására, kritikus értelmezésére, felhasználására és ezek közvetítésére.
-
-– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (alternatív programok, tankönyvek kipróbálása, bírálata).
-
-4.2.2. A német nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) Közös képzési szakasz ismeretkörei: 72–74 kredit
-
-aa) szakmai alapozó ismeretek: 18–24 kredit
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták; minimum 8 kredit.
-
-– Német nyelvű országok ismerete: a célnyelvi országok földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere; minimum 2 kredit.
-
-– Irodalomtudományi alapismeretek: az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia; minimum 4 kredit.
-
-– Nyelvészeti alapismeretek: nyelvészeti terminológia, módszerek áttekintő megismertetése; minimum 4 kredit.
-
-ab) a szakmai törzsanyag ismeretkörei: 48–56 kredit
-
-– Tartalom alapú nyelvi kompetenciafejlesztés: kulturális, kommunikációs és médiaismeretek; a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése; minimum 10 kredit.
-
-– Kultúra- és médiatudományi alapismeretek: a kultúra- és médiakutatás alapfogalmainak megismerése, a kultúra- és médiatudomány főbb területeinek áttekintése; minimum 4 kredit.
-
-– Irodalmi ismeretek: áttekintés a német nyelvű irodalmak történetéről: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés; irodalom és medialitás; minimum 16 kredit.
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek; minimum 16 kredit.
-
-– Kutatásmódszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek; minimum 2 kredit.
-
-b) A középiskolai tanári szakon az önálló képzési szakasz ismeretkörei: 45–50 kredit
-
-– Irodalomtudományi ismeretek: az irodalomtudomány újabb irányzatai, irodalmi szövegek elemzése; német–magyar irodalmi párhuzamok; irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében; minimum 18 kredit.
-
-– Nyelvészeti ismeretek: Átfogó rendszernyelvészeti és alkalmazott nyelvészeti ismeretek: nyelvtörténet, pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika, szemantika, pragmatika, szótártan, grammatika, stilisztika; minimum 18 kredit.
-
-– Kultúra- és médiatudományi ismeretek: a modern kultúra- és médiatudomány elméletei és gyakorlati alkalmazásuk (interkulturalitás, intermedialitás), nyelv-kultúra-társadalom; minimum 10 kredit.
-
-5. A német nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok német nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat, kimenet mérésének, értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére – az eredmények alapján a tanulók egyéni szükségleteinek megfelelő – személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A nyelvoktatás folyamatában képes a tudatos értékközvetítésre, a társadalmi-kulturális elfogulatlanságra és toleranciára nevelésre. Képes ösztönözni a tanulók önálló véleményalkotását, kritikus gondolkodásmódját a célnyelvi kultúrával szemben, nemzeti azonosságtudatuk tiszteletben tartása mellett. Képes fejleszteni a tanulók célnyelvi kommunikációs képességét, célnyelven való gondolkodását és interkulturális szemléletmódját.
-
-– Tudatosan képes kezelni a nemzeti értékek sokféleségét, nyitott mások véleményének, értékeinek megismerésére, tiszteletben tartására. Az inter- és multikulturalizmus jegyében képes az egyéni, illetve csoportértékek figyelemben tartása mellett egyéni és csoportfejlesztésre.
-
-– Az élő idegen nyelv tanításával, a célnyelvi ország kultúrájának megismertetésével párhuzamosan képes növelni a nyelvtanulásban résztvevők szűkebb és tágabb közösségek iránti nyitottságát.
-
-– Képes szakkör, önképzőkör működtetésére az oktatott élő idegen nyelv és kultúra, illetve egy adott nemzetiség tárgyi és szellemi kulturális örökségének ápolása céljából.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-6. Német és nemzetiségi német nyelv és kultúra tanára (középiskolai)
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles középiskolai német és nemzetiségi német nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of German language and culture and German as a minority language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő: 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a német és a nemzetiségi német nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése. A képzés további célja olyan szakmai elit felkészítése, amely speciális kisebbségtudományi ismeretek birtokában képes arra, hogy kompetensen vegyen részt a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben is.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, képesség;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A német és nemzetiségi német nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
-
-Német nyelvtudás, nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a német nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott német nyelv szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni. Rendelkezik ismeretekkel a német nyelv variánsairól, regisztereiről, képes azok megismertetésére. Ismeri a magyarországi németek nyelvi variánsait (dialektusait) és nyelvhasználati szokásait.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a külföldi és hazai német nyelvű kultúrákat, azok hasonlóságait, illetve különbségeit, képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére. Ismeri a német nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes az irodalmi műveket, a célnyelvi/nemzetiségi nyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-– Ismeri a magyarországi németek tárgyi és szellemi kultúráját, a Kárpát-medencei németség irodalmát, a népcsoport történetét feltáró kutatások legújabb eredményeit, képes azokat diákjai nemzetiségi nyelvtudását fejlesztő, továbbá nemzetiségi identitástudatát erősítő projektek tervezésében, megvalósításában alkalmazni.
-
-Szaktudományi, szakmódszertani és szaktárgyi tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait; és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-– Ismeri a német nyelv- és irodalomtudományi, kultúrtörténeti kutatások, valamint a nemzetiségi német nyelv-, irodalom-, néprajz-, kultúra- és történelemtudományi kutatások korszerű eredményeit, azok módszertanát. Képes a nemzetiségi ismeretek, jelenségek elemzésére, összehasonlítására, következtetések levonására. Képes források felkutatására, recepciójára, felhasználására. Ismeri, valamint használja a nemzetiségi tantárgyak oktatásához szükséges szépirodalmi és tudományos műveket, ismeri az adekvát településtörténeti forrásokat.
-
-– Tájékozott az általa oktatott nyelv/nemzetiségi nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről. Tájékozott a szomszédos országok nemzetiségi tantárgyakhoz kapcsolódó kultúrájáról, történelméről, nyelvéről és irodalmáról.
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti német és a nemzetiségi német szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Képes az ismereteket és kompetenciákat meghatározni, logikailag felépíteni. Ismeri a nemzetiségi német nyelv, irodalom és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat, képes azok célcsoportnak megfelelő kiválasztására. Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, tematikus terv és óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-– Képes a tervezés során a kollégákkal és a tanulókkal együttműködni; a taneszközöket és egyéb tanulási forrásokat kritikusan elemezni, kiválasztani (különös tekintettel az info-kommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
+b) képességei
 
 – A tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, tanulási módszerek eredményességének értékelésére a négy nyelvi készség elsajátításában, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
 
-– Ismeri és alkalmazni tudja a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (így. portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+c) attitűdje
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– Elkötelezett a tanulást segítő értékelés mellett.
 
-– A nyelvtanulás sajátosságainak ismeretében, valamint az ezeket alakító kulturális, szociális hatások értelmezése alapján, az egyéni szükségleteket, igényeket is figyelembe véve képes olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók komplex értelmi, érzelmi, szociális és erkölcsi fejlődését.
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
 
-– A nyelvtanulás külső (pl. iskolatípus, módszertani koncepció), illetve egyéni (a tanulók nyelvi kompetenciája, motiváltsága) feltételrendszerének ismeretében képes pedagógiai céljainak és azok elérését biztosító oktatási-nevelési stratégiájának kialakítására, megvalósítására. Különböző tanulásszervezési eljárások, tanítási technikák, módszerek, differenciált munkaformák ismeretében képes ezek tudatos, széles skálán mozgó, az életkornak, egyéni és csoportsajátosságoknak megfelelő alkalmazására.
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
 
-– Képes a különböző céloknak megfelelő stratégiák, a motivációt, differenciálást, tanulói aktivitást biztosító, a tanulók gondolkodási, probléma-megoldási, együttműködési képességének fejlesztését segítő módszerek, szervezési formák kiválasztására, megvalósítására, a hagyományos és az információs-kommunikációs technikákra épülő eszközök, digitális tananyagok hatékony, szakszerű alkalmazására.
+a) tudása
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+– Ismeri az osztálytermi kommunikáció sajátosságait.
 
-– Képes a különböző adottságokkal, képességekkel és előzetes tudással rendelkező tanulók számára megfelelő nyelvelsajátítási módszerek megválasztására, a tanulás önszabályozásának személyre szabott fejlesztésére.
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
 
-– Képes a nyelvtanulás eredményességét/eredménytelenségét befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és -javításra ösztönözni.
+– Ismeretekkel rendelkezik a reflektív gondolkodás szerepéről a szakmai fejlődésben, a továbbképzés lehetőségeiről, a lelki egészség megőrzésének elméleti és gyakorlati módszereiről.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Tájékozott a szakterületéhez és tanári hivatásához kötődő információs forrásokkal, szervezetekkel kapcsolatban.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+b) képességei
 
-– A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése, nemzetiségi identitástudatuk fejlesztése érdekében, képes segítséget nyújtani abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
+– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a más élő idegen nyelvet/a nemzetiség nyelvét, szaktárgyat élő idegen/a nemzetiség nyelvén oktató és anyanyelvet tanító kollégáival, az iskola más munkatársaival, diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, intézményekkel, szervezetekkel, a hazai német nemzetiség különböző intézményeivel szervezeteivel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
 
-A szakmai együttműködés és kommunikáció terén
+– Kooperálni képes a különböző pedagógiai szolgáltató intézményekkel, az adott nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
 
-– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a szaktárgyat nemzetiségi nyelven oktató kollégáival, továbbá más élő idegen nyelvet és anyanyelvet tanító kollégáival, az iskola más munkatársaival, a diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, a magyarországi németek intézményeivel, szervezeteivel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
+c) attitűdje
 
-– Kooperálni képes a különböző pedagógiai szolgáltató intézményekkel, a német nemzetiségi nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
+– Pedagógiai helyzetekben képes mérlegelésre, együttműködésre, kölcsönösségre, asszertivitásra, segítő, érzületi, lelkületi kommunikációra.
 
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+– Kész részt vállalni a szaktárggyal kapcsolatos fejlesztési, innovációs tevékenységben.
 
-– Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+– Betartja a pedagóguspálya jogi és etikai normáit.
 
-– Képes a szakmai információforrások megtalálására, kritikus értelmezésére, felhasználására és ezek közvetítésére.
+Az autonómia és a felelősségvállalás területén
 
-– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
+a) tudása
+
+– Tisztában van személyiségének sajátosságaival.
+
+– Ismeri a tanári autonómia fogalmát.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes a szakmai információforrások megtalálására, értelmezésére, felhasználására és ezek közvetítésére.
+
+– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (alternatív programok, tankönyvek kipróbálása, bírálata).
 
 – Képes a magyarországi német nemzetiség szellemi, kulturális életében való aktív részvételre, a nemzetiség közéleti tevékenységének szervezésére iskolai, települési szinten.
 
-4.2.2. A német és nemzetiségi német nyelv és kultúra tanára szakon a szakterületi ismeretek:
+c) attitűdje
 
-Közös képzési szakasz ismeretkörei: 72–74 kredit
+– Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására.
 
-aa) szakmai alapozó ismeretek: 20–24 kredit
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség) és szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták; minimum 6 kredit.
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
 
-– Német nyelvű országok ismerete: a célnyelvi országok földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere; minimum 2 kredit.
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 96-106 kredit
 
-– Irodalomtudományi alapismeretek: az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia; minimum 4 kredit.
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv, valamint a nemzetiségi iskolai nevelés-oktatás irányelve alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
 
-– Nyelvészeti alapismeretek: nyelvészeti terminológia, módszerek áttekintő megismertetése; minimum 4 kredit.
+a) Szakmai alapozó ismeretek: 20-25 kredit
 
-– Nemzetiségi alapismeretek: kutatástörténeti ismeretek, a magyarországi német nemzetiség története, tárgyi és szellemi kultúrája; a magyarországi nemzetiségi politika, nemzetiségi jogok; minimum 4 kredit.
+– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség) és szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; nyelvi közvetítés, szövegfajták: minimum 12 kredit.
 
-ab) a szakmai törzsanyag ismeretkörei: 52–56 kredit
+– Német nyelvű országok ismerete: történelmi országismeret; jelenkori országismeret, kortárs kultúra: minimum 2 kredit.
 
-– Tartalom alapú nyelvi kompetenciafejlesztés: kulturális, kommunikációs és médiaismeretek; a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése; minimum 8 kredit.
+– Irodalom- és kultúratudományi alapismeretek: alapvető terminológia, elemi műfajismeret, az irodalmi szövegelemzés alapvető kérdései: minimum 2 kredit.
 
-– Kultúra- és médiatudományi alapismeretek: a kultúra- és médiakutatás alapfogalmainak megismerése, a kultúra- és médiatudomány főbb területeinek áttekintése; minimum 2 kredit.
+– Nyelvészeti és kommunikációelméleti alapismeretek: alapvető nyelvészeti terminológia, a nyelvtudomány alapvető területei és módszerei: minimum 2 kredit.
 
-– Irodalmi ismeretek: áttekintés a német nyelvű irodalmak történetéről: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegértelmezés, szövegelemzés; irodalom és medialitás; minimum 14 kredit.
+– Nemzetiségi alapismeretek: kutatástörténeti ismeretek és fogalmak minimum 2 kredit.
 
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek; minimum 14 kredit.
+b) Szakmai képzés ismeretkörei: 76-81 kredit
 
-– Nemzetiségi ismeretek: a magyarországi németek nyelve (nyelvjárásai), nyelvhasználata; a magyarországi németség tárgyi és szellemi néprajza; a magyarországi németek irodalma (1945 utáni); gyerek- és ifjúsági irodalom, nemzetiségi önszerveződés, nemzetiségi intézménye; minimum 12 kredit.
+– A szakmai-tudományos nyelvi kompetencia fejlesztése: a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek; szövegfajták; prezentációs technikák tartalom alapú közvetítése; tudományos írás, tanári nyelvhasználat (beszédaktusok a nyelvórán, a tanórai kommunikáció moderálása, a tanulók írásbeli és szóbeli munkáinak értékelése: feedback) minimum 10 kredit.
 
-– Kutatás módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek; minimum 2 kredit.
+– Nyelvészeti és kommunikációs ismeretek: szinkrón rendszernyelvészeti áttekintés (fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek); alkalmazott nyelvészeti (kontrasztív nyelvészeti, pszicholingvisztikai, szociolingvisztikai, pragmatikai, szemantikai, nyelvtörténeti) ismeretek; a modern kommunikáció-tudomány elméletei és gyakorlati alkalmazásuk minimum 24 kredit.
 
-A középiskolai tanári szakon az önálló képzési szakasz ismeretkörei: 45–50 kredit
+– Irodalmi, kultúra- és médiatudományi ismeretek: áttekintés a német nyelvű irodalmak történetéről: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; irodalom és medialitás; a kultúra- és médiatudomány alapfogalmainak megismerése, főbb területeinek áttekintése, gyakorlati alkalmazásuk minimum 24 kredit
 
-– Irodalomtudományi ismeretek: az irodalomtudomány újabb irányzatai, irodalmi szövegek elemzése; német–magyar irodalmi párhuzamok; irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében; minimum 13 kredit.
+– Nemzetiségi ismeretek: a magyarországi németek története; a magyarországi németek nyelve (nyelvjárásai), nyelvhasználata; a magyarországi németek tárgyi és szellemi kultúrája; a magyarországi németek (1945 utáni) irodalma; gyerek- és ifjúsági irodalom; a magyarországi német nemzetiségi sajtófigyelés, aktuális nemzetiségpolitika; nemzetiségi jog- és intézményrendszer; nyelv-kultúra-identitás; a nemzetiségi ismeretek gyakorlati alkalmazása (projektmunka, forráselemzés) minimum 18 kredit.
 
-– Nyelvészeti ismeretek: átfogó rendszernyelvészeti és alkalmazott nyelvészeti ismeretek: nyelvtörténet; pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika; szemantika, pragmatika, szótártan, grammatika, stilisztika; minimum 13 kredit.
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
 
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások); nemzetiségi média; nemzetiségi politika; magyarországi németek történelme források alapján; a Kárpát-medence német nyelvű irodalma; nemzetiségi ismeretek gyakorlati alkalmazása (projekt és forrásalapú ismeretek); magyarországi németség néprajzának projektalapú ismeretközlése; minimum 12 kredit.
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-– Kultúra- és médiatudományi ismeretek: a modern kultúra- és médiatudomány elméletei és gyakorlati alkalmazásuk (interkulturalitás, intermedialitás), nyelv-kultúra-társadalom; minimum 6 kredit.
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-5. A német és nemzetiségi német nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– A német és a nemzetiségi német nyelv és kultúra tanára szakképzettség sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörei: 8 kredit
 
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+– Nyelvdidaktikai ismeretek német nyelven: a német mint idegen nyelv és mint a nemzetiség nyelven tudományos diszciplína kialakulása és irányzatai, nyelvpolitika, nyelvtanítási módszerek és nyelvtanulási elméletek, didaktikai elvek, a nyelvtanulási és nyelvhasználói stratégiák, a nyelvi tudatosság, tartalomalapú nyelvoktatás, interkulturális tanulás, hazai kulturális értékek közvetítése, a többnyelvűség didaktikája, irodalomdidaktika, nyelvtandidaktika, szókincsdidaktika, nyelvtanári kompetenciák modelljei, tanárkutatás
 
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
+– A német és a nemzetiségi német nyelv és irodalom, valamint a német népismeret tanításának szakmódszertana német nyelven: a nyelvoktatás curriculáris alapjait képező európai és hazai dokumentumok (a Nemzeti alaptanterv, a nemzetiségi irányelv, a kerettantervek és a helyi tanterv) ismerete, tanmenet készítése, tematikus terv készítése, óratervezés, tananyagfejlesztés, tankönyvelemzés, nyelvi és interkulturális készségek fejlesztése.
 
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+– Tantárgyakon átívelő interdiszciplináris szemlélet kialakítása, differenciálás, mérés, értékelés a németórán, hibaelemzés, a németóra elemzése és reflektálása, munkaformák ismerete, infokommunikációs eszközök alkalmazási lehetőségei a nyelvórán, WEB 2.0 alkalmazások ismerete, iskolán kívüli programok (projektmunka, diákcsere) szervezése.
 
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok német nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+– Összefüggő féléves gyakorlatot támogató szakmódszertani gyakorlat: 2 kredit.
 
-– Ismeri a nyelvtanulási folyamat, kimenet mérésének, értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat német nyelven: 2 kredit.
 
-– A nyelvoktatás folyamatában képes a tudatos értékközvetítésre, a társadalmi-kulturális elfogulatlanságra és toleranciára nevelésre. Képes ösztönözni a tanulók önálló véleményalkotását, kritikus gondolkodásmódját nemzeti és nemzetiségi azonosságtudatuk tiszteletben tartása mellett. Tudatosan képes támogatni a nemzetiségi identitás megőrzését, fejlődését. Képes fejleszteni a tanulók célnyelvi/nemzetiségi nyelvi kommunikációs képességét, célnyelven/nemzetiségi nyelven való gondolkodását és interkulturális szemléletmódját.
+4. Bolgár és nemzetiségi bolgár nyelv és kultúra tanára
 
-– Tudatosan képes kezelni a nemzeti és nemzetiségi értékek sokféleségét, nyitott mások véleményének, értékeinek megismerésére, tiszteletben tartására. Az inter- és multikulturalizmus jegyében képes az egyéni, valamint a csoportértékek figyelemben tartása mellett egyéni és csoportfejlesztésre.
-
-– A nemzetiségi nyelv tanításával és a nemzetiség kultúrájának megismertetésével párhuzamosan képes növelni a nyelvtanulásban résztvevők szűkebb, illetve tágabb közösségek iránti elkötelezettségét, amelyek alapján nyitottá válnak a hazai német nemzetiség közéleti tevékenységében való aktív részvételre, a helyi, nemzeti, európai és egyetemes emberi értékek elfogadására.
-
-– Képes szakkör, önképzőkör működtetésére az oktatott élő idegen nyelv és kultúra, valamint az adott nemzetiség tárgyi, szellemi kulturális örökségének ápolása céljából.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-7. Bolgár és nemzetiségi bolgár nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
 
 – magyar nyelvű megjelölése: okleveles bolgár és nemzetiségi bolgár nyelv és kultúra tanára
 
-– angol nyelvű megjelölése: teacher of Bulgarian language and culture and Bulgarian as a minority language and culture
+– angol nyelvű megjelölése: Teacher of Bulgarian Language and Culture
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+2. A képzési idő: 10 félév
 
-– a képzési idő 12 félév
+3. A képzés célja: az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a bolgár nyelv, a bolgár nyelv és irodalom, valamint a bolgár népismeret tantárgy tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a bolgár és nemzetiségi bolgár nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek a bolgár nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás) a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2.1. A bolgár és nemzetiségi bolgár nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. A bolgár és nemzetiségi bolgár nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
+a) tudása
 
-A bolgár nyelvtudás és a nyelvhasználat terén
+– Ismeri a tanulók tanulásának, tudásának alakulását befolyásoló tényezőket, és azok ismeretében alkalmazza a megfelelő tanulási stratégiákat.
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezik. Képes a bolgár nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a bolgár nyelv és a bolgár nyelv és irodalom, valamint a bolgár népismeret tantárgyak által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
 
-– Ismeri a beszélt és írott bolgár nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Tisztában van a sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló többi tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges módszerekkel.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Ismeri a szaktárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
 
-A célnyelvi kultúrák közvetítése terén
+b) képességei
 
-– Ismeri a bolgár nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a bolgár nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a bolgár nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, és azokat képes saját maga és diákjai fejlesztésére hatékonyan és motiválóan, nyelvtanítás céljára alkalmazni.
+– Képes a tanuló személyiségjegyeinek felismerésére és fejlesztésére, nyitott a környezet visszajelzéseinek felhasználására.
 
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan és értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Képes a nemzetiségi szaktárgy speciális összefüggéseit megismertetni, az ebből adódó nehézségeket megoldani. Képes a bolgár nyelv és a bolgár nyelv és irodalom, valamint a bolgár népismeret tantárgyakban rejlő értékorientált személyiségfejlesztési lehetőségeket kihasználni, a tanulók önálló ismeretszerzését segíteni a végzettségének megfelelő korosztály keretében is.
 
-Szaktudományi, szakmódszertani tudás terén
+c) attitűdje
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
+– Koherens egyéni álláspontjával segíti a tanuló és közössége épülését. Alkalmas a tanuló motivációjának felismerésére és erősítésére.
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait, képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+– Az aktuális hazai és nemzetiségi szakirodalmat a helyzetnek megfelelően alkalmazza, tudását folyamatosan bővíti.
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, valamint az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
 
-A pedagógiai folyamat tervezése terén
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti bolgár szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+a) tudása
 
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
+– Ismeri a tanulói csoportok kialakításához szükséges módszereket, amelyek alkalmazása során figyelembe veszi a tanulók sokszínűségét.
 
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
+– Segíti a közösség kialakítását, fejlesztését, ismeri az azt elősegítő pedagógiai módszereket.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Segíti a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadását.
 
-– Ismeri és tudja alkalmazni a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+b) képességei
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+– Tudatosan kezeli az értékek sokszínűségét, tiszteletben tartja azokat, nyitott mások véleményére.
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére. Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– Képes a tanulókat helyi, nemzeti és nemzetiségi értékek elfogadására nevelni.
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
+c) attitűdje
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében az osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Alkalmas olyan pedagógiai helyzetek kialakítására, amelyekben a különböző értékek elfogadását segíti, a tanulókat együttműködésre motiválja.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Az iskola világában tudatosan törekszik a nemzeti és nemzetiségi kultúra alapját képező értékek elfogadtatására.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból, a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Fontosnak tartja az etnikumok és nemzetiségek iránti tolerancia kialakítását.
 
-Szakmai elkötelezettség és önfejlesztés terén
+A szakmódszertani és a szaktárgyi tudás területén
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+a) tudása
 
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+– Ismeri a bolgár nyelv tanításának alapvető szakmódszertani irányait, valamint a tanulmányterület legfontosabb összefüggéseit, elméleteit és a hozzájuk kapcsolódó terminológiát, illetve a problémamegoldás módszereit.
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
+– Ismeri a szakmódszertan hazai és nemzetközi eredményeit, szakirodalmát, aktuális kérdéseit, számítástechnikai, könyvtári forrásait.
 
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
+– Ismeri az aktuális és érvényben lévő érettségi vizsgakövetelményeket.
 
-4.2.2. A bolgár és nemzetiségi bolgár nyelv és kultúra tanára szak szakterületi ismeretei:
+b) képességei
 
-a) szakmai alapozó ismeretek: 32–36 kredit
+– Képes nemzetiségi tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát, képes a bolgár nemzetiségi szakterület és szakmódszertan ismeretrendszerét alkotó elképzelések alapfokú analízisére, az összefüggések szintetikus megfogalmazására és adekvát értékelő tevékenységre bolgár nyelven.
 
-– Közismereti tantárgyak: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
+– Rendelkezik az önálló tanuláshoz szükséges képességekkel.
+
+– Képes rutin szakmai problémák azonosítására, az azok megoldásához szükséges elvi és gyakorlati háttér feltárására, megfogalmazására és megoldására.
+
+– Képes rugalmasan alakítani a tanítási stratégiákat a tanulási célokkal összhangban és differenciálni a tanulói képességeknek megfelelően.
+
+– Képes a másokkal való kooperációra, valamint szakmai tudásának egy adott munkahely különböző szakmai elvárásainak megfelelő felhasználására.
+
+– Képes az alkotó információhasználatra.
+
+– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
+
+c) attitűdje
+
+– Ismeri, vállalja és hitelesen képviseli szakmája társadalmi helyét és szerepét, alapvető viszonyát a világhoz.
+
+– Nyitott szakmája átfogó gondolkodásmódjának és gyakorlati működése alapvető jellemzőinek hiteles közvetítésére, átadására.
+
+– A folyamatos önképzés igénye jellemzi.
+
+– Önállóság jellemzi, nyitott a külső változásokra, aktívan képes részt venni az iskola szaktárgyi munkaközösségének munkájában.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv, valamint a nemzetiségi irányelv és az arra épülő kerettantervek szerinti bolgár szaktárgyi és érettségi követelményeket, valamint az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet és az óraterv szintjén, valamint ennek rendszerszemléletű, interdiszciplináris megközelítésére. Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére.
+
+– Képes a tanítandó tananyag súlypontjait, felépítését, közvetítésének logikáját a tantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
+
+c) attitűdje
+
+– Fontosnak tartja a formális, nem formális és informális úton, tanulási környezetben szerzett tudás összekapcsolását.
+
+– Nyitott a kollégákkal és a tanulókkal való együttműködésre.
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri a tanulás támogatásának különböző stratégiáit és módszereit, ismeri a tanulók bolgár nyelvi kompetenciáit, a differenciált oktatás lehetőségeinek alkalmazását elméletben és gyakorlatban.
+
+– Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+– Ismeri a különböző tanulási környezetek tanulási eredményességre gyakorolt hatásait.
+
+– Ismeri a szaktantárgy tanításának-tanulásának tanórai, tanórán kívüli és az iskolán kívüli lehetőségeit, színtereit.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
+
+– Képes az önszabályozott tanulás szintjének megfelelő változatos feladatadásra, támogatja a tanulókat egyéni tanulási útjuk megtalálásában.
+
+– Képes egyéni tanulásfejlesztési tervet kidolgozni és széles körű együttműködést kezdeményezni a tanulási problémák kezelésében az érintettek körében.
+
+– Képes nyugodt, biztonságos és az eredményes tanulást segítő tanulási környezet megszervezésére.
+
+– Képes a szaktárgy speciális összefüggéseivel, fogalmaival kapcsolatos megértési nehézségek felismerésére és kezelésére.
+
+c) attitűdje
+
+– Nyitott az új tanuláselméletek, tanulási-tanítási módszerek, a digitális pedagógiai eszközök alkalmazásának megismerésére és saját tanulási-tanítási folyamatába való beépítésére.
+
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
+
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő, aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri és alkalmazza a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+b) képességei
+
+– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (így portfólió formájában).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Alkalmas a pedagógiai folyamatoknak megfelelő, objektív, reális tudásszint mérésére.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri a pedagógiai és nemzetiségi pedagógiai kérdéseket, tájékozott a hazai nemzetiségi és anyaországi szakmai kérdésekben.
+
+– Együttműködik a pedagógiai és nemzetiségi területek képviselőivel, szakmódszertani központjaival.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő szakemberekkel, szakmai intézményekkel való együttműködés módjairól.
+
+b) képességei
+
+– Tudatosan építi a pedagógiai és nemzetiségi szervezeteken belüli és kívüli kapcsolatokat, együttműködési lehetőségeket.
+
+– Aktívan közreműködik a pedagógiai és szervezeti, valamint nemzetiségi szakmai tevékenységekben.
+
+– Követi és figyelembe veszi munkájában a helyi innovációk eredményeit.
+
+– Képes a tanulókkal a kölcsönös tiszteletre és bizalomra épülő társas-lelkületi kapcsolatrendszer megteremtésére, az együttműködési elvek és formák közös kialakítására, elfogadtatására.
+
+c) attitűdje
+
+– Szerepet vállal a szervezeti szintű megbeszéléseken, szóban és írásban.
+
+– Az intézményi és nemzetiségi kapcsolatrendszerben szakmai kérdések megbeszélésére ösztönöz, kezdeményező szerepet vállal.
+
+– Önálló, tudományos adatokon és tapasztalati elemzésen nyugvó véleményalkotás jellemzi.
+
+– Betartja a pedagóguspálya jogi és etikai normáit.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Ismeri a pedagógiai munkájában felmerülő problémáihoz megoldást kínáló adekvát szakirodalmat, amelyet munkájában aktívan felhasznál.
+
+b) képességei
+
+– Képes együttműködni az adott szláv nyelv területéhez kapcsolódó hazai és nemzetközi partnerekkel.
+
+– Tudása és képességei keretei között látja a helyét egyének és csoportok szakmai fejlődésének felelősségvállalásában.
+
+– Képes az iskolán belül és a nemzetiségi közösséget érintve szakmai párbeszédet, egyeztetést kezdeményezni a pedagógus feladatainak kérdéseiről.
+
+c) attitűdje
+
+– Alkalmas arra, hogy részesévé váljon az iskola szervezeti életének.
+
+– A pedagógusokat, az iskolát, a nemzetiségi identitást érintő kérdésekben állást foglal, párbeszédet kezdeményez.
+
+– Az iskolai, nevelési-oktatási problémák értelmezésében, a problémamegoldásban kezdeményező, aktív szerepet tölt be.
+
+– Elfogadja az iskola, a pedagógusok, a nemzetiségi létből fakadó társadalmi felelősségeit.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (tantárgy-pedagógiai) ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 92-106 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv, valamint a nemzetiségi iskolai nevelés-oktatás irányelve alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 22-26 kredit
+
+– Közismereti tantárgyak: irodalomtudományi, nyelvtudományi alapismeretek.
 
 – Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
 
-– Bulgária ismerete: a célnyelvi ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
+– Bulgária ismerete: a célnyelvi ország földrajzi adottságai, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
 
-– Interkulturális ismeretek: a szláv népek kultúrájának összehasonlító áttekintése.
+– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok); a magyarországi bolgár nemzetiség története, tárgyi és szellemi kultúrája.
 
-– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok stb.); a magyarországi bolgár nemzetiségek története, tárgyi és szellemi kultúrája.
+b) A szakmai törzsanyag szakterületi ismeretkörei: 70-80 kredit
 
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
+– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek; a célnyelv és/vagy nemzetiségi nyelv stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
 
-– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek; a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
+– Irodalomtörténeti ismeretek: bolgár irodalomtörténeti áttekintés: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; magyar-bolgár irodalmi kapcsolatok.
 
-– Irodalmi ismeretek: bolgár irodalomtörténeti áttekintés: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; irodalom és medialitás.
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek, alkalmazott nyelvészeti ismeretek: pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika; szemantika, pragmatika, szótártan, grammatika, stilisztika; nyelvtörténet.
-
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek.
+– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológia, morfológia, szintaktika; alkalmazott nyelvészeti ismeretek: lexikológia, lexikográfia, grammatika, stilisztika, nyelvtörténet.
 
 – Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése.
 
@@ -1600,125 +1648,337 @@ b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
 
 – Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése, a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
 
-– Nyelvészeti és irodalmi szakkollégium vagy szakszeminárium: aktuális nyelv- és irodalomtudományi kérdések elemzése.
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
 
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése; bolgár–magyar irodalmi párhuzamok; irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek); nemzetiségi média; nemzetiségi politika.
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-5. A bolgár és nemzetiségi bolgár nyelv és kultúra tanárnak sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– A bolgár és nemzetiségi bolgár nyelv és kultúra tanára szakképzettség sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörei: 8 kredit
 
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai, jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat.
+– Nyelv, irodalom és nemzetiségi kultúra tanításának módszertana.
 
 – A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
 
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
+– Nyelv, irodalom és nemzetiségi kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint nemzetiségi nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok).
 
 – A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
 
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
 – A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
 
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
+– Tananyagkészítés, projektmunka és személyre szabott oktatás.
 
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat: 2 kredit.
 
-– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat: 2 kredit.
 
-8. Finn nyelv és kultúra tanára
+5. Finn nyelv és kultúra tanára
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
 
 – magyar nyelvű megjelölése: okleveles finn nyelv és kultúra tanára
 
-– angol nyelvű megjelölése: teacher of Finnish language and culture
+– angol nyelvű megjelölése: Teacher of Finnish Language and Culture
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.4. és 4.2.3. pontjára figyelemmel
+2. A képzési idő: 2 félév
 
-– a képzési idő 2 félév
+3. A képzés célja: a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a finn nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a finn nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás) a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2.1. A finn nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. A finn nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
+a) tudása
 
-Finn nyelvtudás, nyelvhasználat terén
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezik. Képes a finn nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a finn nyelv és kultúra tantárgy által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
 
-– Ismeri a beszélt és írott finn nyelv szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Ismeri a finn nyelv és kultúra tantárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Ismeri a pedagógiai folyamatok és a tanulók értékelésének, elemzésének hatását a tanulók személyiségfejlődésére. Tisztában van a finn nyelv és kultúra tantárgynak a tanulók személyiségfejlődésében betöltött szerepével, lehetőségeivel.
 
-A célnyelvi kultúra közvetítése terén
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (a nyelvérzék komponensei, fonetikai kódolási képesség, nyelvtani érzékenység, induktív nyelvtanulási képesség, asszociatív memória, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
-– Ismeri a finn nyelv jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a finn nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, és azokat képes saját maga és diákjai fejlesztésére hatékonyan és motiválóan, nyelvtanítás céljára alkalmazni.
+b) képességei
 
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan és értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Képes a finn nyelv és kultúra tantárgy speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
 
-Szaktudományi, szakmódszertani tudás terén
+– Képes a különböző adottságokkal, képességekkel, illetve előzetes tudással rendelkező tanulók tanulásának, fejlesztésének megfelelő módszerek megválasztására, tervezésére és alkalmazására, a pályaorientáció segítésére.
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
+– Képes a tehetséges, a nehézségekkel küzdő vagy a sajátos nevelési igényű, a hátrányos, halmozottan hátrányos helyzetű, tanulási, magatartási nehézséggel küzdő, valamint a tantárgyában egyéni bánásmódot igénylő tanulókat felismerni és őket szükség esetén a megfelelő szakemberhez irányítani.
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+– Képes a finn nyelv és kultúra tantárgyban rejlő értékorientált személyiségfejlesztési lehetőségeket kihasználni, a tanulók önálló ismeretszerzését segíteni a végzettségének megfelelő korosztály és a felnőttoktatás keretében is.
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Döntéseiben képes a szakmai önreflexióra és önkorrekcióra.
 
-A pedagógiai folyamat tervezése terén
+– A pedagógiai folyamatokat és a tanulók személyiségfejlődését folyamatosan értékeli, elemzi.
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti idegennyevi szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+– Képes saját, tudományosan megalapozott pedagógiai nézeteinek megfogalmazására.
 
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
+c) attitűdje
+
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– Felelősségteljesen viszonyul a tanulók személyiségfejlesztéséhez, képes mindenkiben meglátni az értékeket és pozitív érzelmekkel viszonyulni minden tanítványához.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+– Biztosítja a tanulók számára a visszacsatolás lehetőségeit.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+– Ismeri a közösség kialakítását, fejlesztését elősegítő pedagógiai módszereket.
+
+– Ismeri a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadásának lehetőségeit a finn nyelv tantárgy keretein belül.
+
+b) képességei
+
+– Képes mind a szaktárgyi oktatás keretében, mind a szabadidős tevékenységek során alkalmazni az együttműködést segítő, motiváló módszereket.
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
+
+– Képes aktívan közreműködni a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a tanulókat helyi, nemzeti és egyetemes emberi értékek elfogadására nevelni.
+
+– Képes értelmezni és felhasználni azokat a társadalmi-kulturális jelenségeket, amelyek befolyásolják a tanulók esélyeit, iskolai, illetve iskolán kívüli életét.
+
+– Képes az iskolai és osztálytermi toleráns, esélyteremtő légkör megteremtésére.
+
+– Képes a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
+
+c) attitűdje
+
+– Elkötelezett a nemzeti és egyetemes értékek iránt, szociális érzékenység, segítőkészség jellemzi.
+
+– Felelősségteljesen végzi tanári munkáját, igyekszik az egyéni bánásmódot igénylő tanulók esetében az inklúzió szemléletét érvényesíteni.
+
+– Személyes példamutatásával is segíti a nemzeti értékek megismerését és a magyar identitástudat kialakítását a tanulókban.
+
+– Elkötelezett a demokratikus gondolkodásra nevelés iránt, valamint fontosnak tartja a fenntarthatóság és környezettudatosság, illetve a médiatudatosság kialakítását a tanulókban.
+
+– Az iskola világában tudatosan törekszik a nemzeti és európai kultúra alapját képező értékek elfogadtatására.
+
+– Fontosnak tartja a nemzetiségek iránti tolerancia kialakítását.
+
+– Törekszik tanítványait mások véleményének, értékeinek tiszteletben tartására nevelni.
+
+– Folyamatos együttműködésre törekszik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit, illetve ezek összefüggéseit.
+
+– Ismeri a beszélt és írott finn nyelv szabályait. Rendelkezik ismeretekkel a finn nyelv variánsairól, valamint regisztereiről.
+
+– Ismeri a finn kultúra jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit.
+
+– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a szociolingvisztika, a nyelvészeti pragmatika, valamint a nyelvtörténet alapjait.
+
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit és az elméleti kérdésekről szóló empirikus kutatások eredményeit.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+– Ismeri a nyelv- és irodalomtudományi, kultúrtörténeti kutatások korszerű eredményeit, azok módszertanát.
+
+– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket.
+
+– Tájékozott az általa oktatott nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
+
+b) képességei
+
+– Legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a finn nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+
+– Képes a beszélt és írott finn nyelv szabályait a mindenkori nyelvhasználat kontextusának megfelelően hatékonyan alkalmazni.
+
+– Képes saját tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát.
+
+– Képes a célnyelv helyes használatára a pedagógiai tevékenysége során a kontextushoz illően.
+
+– Képes a finn kultúra értékeit saját maga és tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes az irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+
+– Képes a kontrasztív nyelvészet, a szövegnyelvészet, a szociolingvisztika, a nyelvészeti pragmatika, valamint a nyelvtörténet alapjairól megszerzett ismereteit a nyelvtanítás során alkalmazni.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+– Képes a szaktudományi, továbbá az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazására, a különböző tudásterületek közötti összefüggések, kapcsolódások, átfedések és egymásra hatások felismerésére, a szaktárgyi integráció megvalósítására.
+
+– Képes a finn nyelv tantárgynak megfelelő tudományterületeken a fogalmak, elméletek és tények közötti összefüggések megteremtésére, közvetítésére.
+
+– Képes szaktudományi, szakmódszertani, szaktárgyi, tanuláselméleti és tantervi tudásának hatékony integrálására.
+
+– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg a finn nyelv tantárgy oktatásban betöltött szerepét.
+
+– Tudatosan használja ki a transzferhatás lehetőségeit.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti finn nyelv szaktárgyi és érettségi követelményeit, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri a finn nyelv és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, tematikus terv és óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes a tervezés során a kollégákkal, illetve a tanulókkal együttműködni; a taneszközöket és egyéb tanulási forrásokat elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
 
-– Ismeri és tudja alkalmazni a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+c) attitűdje
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára a visszacsatolás lehetőségeit biztosítani.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– A tervezés során kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazásának speciális szempontjait, lehetőségeit.
+
+– Ismeri a szaktantárgy tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit is.
+
+– Ismeri a finn nyelv tantárgy oktatása során alkalmazható motivációs lehetőségeket.
+
+– Ismeri a finn nyelv tantárgy tanításának-tanulásának tanórai, a tanórán kívüli és az iskolán kívüli lehetőségeit, színtereit.
+
+– Ismeri a finn nyelv oktatásában alkalmazható differenciálisi módszereket, nevelési-oktatási stratégiákat.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
+
+– A nyelvtanulás sajátosságainak ismeretében, valamint az ezeket alakító kulturális, szociális hatások értelmezése alapján, az egyéni szükségleteket, igényeket is figyelembe véve képes olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók komplex értelmi, érzelmi, szociális és erkölcsi fejlődését.
+
+– A nyelvtanulás külső (iskolatípus, módszertani koncepció), illetve egyéni (a tanulók nyelvi kompetenciája, motiváltsága) feltételrendszerének ismeretében képes pedagógiai céljainak és azok elérését biztosító oktatási-nevelési stratégiájának kialakítására, megvalósítására. Különböző tanulásszervezési eljárások, tanítási technikák, módszerek, differenciált munkaformák ismeretében képes ezek tudatos, széles skálán mozgó, az életkornak, egyéni és csoportsajátosságoknak megfelelő alkalmazására.
+
+– Képes a különböző céloknak megfelelő stratégiák, a motivációt, differenciálást, tanulói aktivitást biztosító, a tanulók gondolkodási, probléma-megoldási, együttműködési képességének fejlesztését segítő módszerek, szervezési formák kiválasztására, megvalósítására, a hagyományos és az információs-kommunikációs technikákra épülő eszközök, digitális tananyagok hatékony, szakszerű alkalmazására.
 
 – Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Képes a különböző adottságokkal, képességekkel, előzetes tudással rendelkező tanulók számára megfelelő nyelvelsajátítási módszerek megválasztására és a tanulás önszabályozásának személyre szabott fejlesztésére.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Képes a nyelvtanulás eredményességét, illetve eredménytelenségét befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és -javításra ösztönözni.
 
-Szakmai elkötelezettség és önfejlesztés terén
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+– A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése érdekében, képes segítséget nyújtani abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
 
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+c) attitűdje
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok, tankönyvek kipróbálása, bírálata).
+– Felkészült a tanulók motiválására, segítésére, a tehetséggondozásra.
 
-4.2.2. A finn nyelv és kultúra tanára szakon a szakterületi ismeretek:
+A pedagógiai folyamatok és a tanulók értékelése területén
 
-A szakterületi ismeret finnugorisztika mesterszaknak megfeleltethető, nem tanári mesterszakon szerzett a tanári szakképzettséghez tartozó finn nyelvtudást foglalja magába.
+a) tudása
 
-5. A finn nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– Ismeri és alkalmazni tudja a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+
+c) képességei
+
+– A tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, tanulási módszerek eredményességének értékelésére a négy nyelvi készség elsajátításában, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Elkötelezett a tanulást segítő értékelés mellett.
+
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri az osztálytermi kommunikáció sajátosságait.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
+
+– Ismeretekkel rendelkezik a reflektív gondolkodás szerepéről a szakmai fejlődésben, a továbbképzés lehetőségeiről, a lelki egészség megőrzésének elméleti és gyakorlati módszereiről.
+
+– Tájékozott a szakterületéhez és tanári hivatásához kötődő információs forrásokkal, szervezetekkel kapcsolatban.
+
+b) képességei
+
+– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a más élő idegen nyelvet, szaktárgyat élő idegen nyelven oktató és anyanyelvet tanító kollégáival, az iskola más munkatársaival, a diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, intézményekkel, szervezetekkel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
+
+– Kooperálni képes a különböző pedagógiai szolgáltató intézményekkel, a finn nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
+
+c) attitűdje
+
+– Pedagógiai helyzetekben képes mérlegelésre, együttműködésre, kölcsönösségre, asszertivitásra, segítő, érzületi, lelkületi kommunikációra.
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+– Kész részt vállalni a szaktárggyal kapcsolatos fejlesztési, innovációs tevékenységben.
+
+– Betartja a pedagóguspálya jogi és etikai normáit.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Tisztában van személyiségének sajátosságaival.
+
+– Ismeri a tanári autonómia fogalmát.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes a szakmai információforrások megtalálására, értelmezésére, felhasználására és ezek közvetítésére.
+
+– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések.
+
+c) attitűdje
+
+– Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (tantárgy-pedagógiai) ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek
+
+A szakterületi ismeret finnugrisztika mesterszaknak megfeleltethető, nem tanári mesterképzési szakon szerzett a tanári szakképzettséghez tartozó finn nyelvtudást foglalja magába, figyelemmel a Nemzeti alaptanterv szerint közvetítendő műveltség fő területeire és tartalmaira, valamint az érettségi vizsgakövetelményekre.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 8 kredit, amelyből az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke összesen 4 kredit.
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy a nevelés-oktatás adott szakaszában képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
 – Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
 
@@ -1730,7 +1990,7 @@ A szakterületi ismeret finnugorisztika mesterszaknak megfeleltethető, nem tan�
 
 – Ismeri a nyelvtanulási folyamat, kimenet mérésének, értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani.
 
-– Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+– Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
 
 – Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
 
@@ -1738,1035 +1998,2705 @@ A szakterületi ismeret finnugorisztika mesterszaknak megfeleltethető, nem tan�
 
 – A Közös Európai Referenciakeret és annak alkalmazása.
 
-9. Francia nyelv és kultúra tanára
+6. Francia nyelv és kultúra tanára
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
 
 – magyar nyelvű megjelölése: okleveles francia nyelv és kultúra tanára
 
-– angol nyelvű megjelölése: teacher of French language and culture
+– angol nyelvű megjelölése: Teacher of French Language and Culture
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+2. A képzési idő: 10 félév
 
-– a képzési idő 12 félév
+3. A képzés célja: az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatásban szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a francia nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a francia nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2.1. A francia nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. A francia nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
+a) tudása
 
-Francia nyelvtudás, nyelvhasználat terén
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (a nyelvérzék komponensei, fonetikai kódolási képesség, nyelvtani érzékenység, induktív nyelvtanulási képesség, asszociatív memória, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezik. Képes a francia nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
 
-– Ismeri a beszélt és írott francia nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Ismeri a francia nyelv és kultúra által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+b) képességei
 
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a francia nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a francia nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a francia nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat, kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, valamint az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti francia szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására, (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és a figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-4.2.2. A francia nyelv és kultúra tanára szak szakterületi ismeretei
-
-a) szakmai alapozó ismeretek: 32–40 kredit
-
-– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: francia nyelvű szövegértési (írott és hallott szöveg értése) és szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és élőszóbeli kifejezés francia nyelven; francia gyakorlati nyelvtan.
-
-– A francia nyelvet használó országok ismeretének alapjai (történelem, földrajz, népesség, állam és társadalom).
-
-– Nyelvészeti és kommunikációelméleti alapismeretek.
-
-– Irodalom- és kultúratudományi alapismeretek.
-
-– A latin nyelv alapjai és az újlatin nyelvek kialakulása, elterjedése.
-
-– Felhasználói ismeretek a humán informatikában.
-
-b) a szakmai törzsanyag ismeretkörei: 79–87 kredit
-
-– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő francia nyelv rendszere, használata és változatai; francia–magyar kontrasztív nyelvészeti ismeretek, nyelvpolitika; interkulturális kommunikáció; kutatásmódszertan).
-
-– Irodalmi, kultúra- és médiatudományi ismeretek (a francia nyelvű irodalom történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai és verstani alapismeretek, irodalom és medialitás, művészetek és populáris kultúra a francia világban; kutatásmódszertan).
-
-– A francia nyelvet használó országok civilizációjára vonatkozó ismeretek (történelem, jelenkori társadalom, politika, média és kultúra).
-
-– Nyelvfejlesztés és francia nyelvű szakmai kommunikáció.
-
-– A szabadon választható tárgyak körében választandó, a szak tekintetében releváns nyelvtudományi, alkalmazott nyelvészeti-kommunikációelméleti, irodalom-kultúra-médiatudományi, művészettörténeti, digitális bölcsészeti és nyelvpedagógiai ismeretek.
-
-5. A francia nyelv és kultúra tanárnak sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
-
-– Ismerje az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok francia nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének és értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
-
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-10. Holland nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles holland nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Dutch language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a holland nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A holland nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
-
-Holland nyelvtudás, nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezik. Képes a holland nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott holland nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúra közvetítése terén
-
-– Ismeri a holland nyelvű kultúra jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a holland nyelvű irodalmakra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan és motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti idegennyelvi szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára a visszacsatolás lehetőségeit biztosítani.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
-
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák és problémák beemelésére a tanítási-tanulási folyamatba, és azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni és megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok, tankönyvek kipróbálása, bírálata).
-
-4.2.2. A holland nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 32–40 kredit
-
-– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: holland nyelvű szövegértési (írott és hallott szöveg értése), szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és élőszóbeli kifejezés holland nyelven; holland gyakorlati nyelvtan.
-
-– A holland nyelvű országok (Hollandia illetve Belgiumon belül Flandria) ismeretének alapjai (történelem, földrajz, népesség, állam és társadalom).
-
-– Nyelvészeti és kommunikációelméleti alapismeretek.
-
-– Irodalom- és kultúratudományi alapismeretek.
-
-– Felhasználói ismeretek a humán informatikában.
-
-c) a szakmai törzsanyag ismeretkörei: 79–87 kredit
-
-– Leíró és alkalmazott nyelvészeti-kommunikációelméleti ismeretek (az élő holland nyelv rendszere, használata és változatai, holland–magyar kontrasztív nyelvészeti ismeretek; számítógépes nyelvfeldolgozás, pszicholingvisztika, a társadalmi nem és a nyelv, nyelvpolitika, interkulturális kommunikáció kutatásmódszertan).
-
-– Irodalmi, kultúra- és médiatudományi ismeretek (a holland nyelvű irodalmak történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai, valamint verstani alapismeretek, irodalom és medialitás; művészetek és populáris kultúra a holland világban; kutatásmódszertan).
-
-– A holland nyelvű országokra (Hollandiára illetve Belgiumon belül Flandriára) vonatkozó ismeretek (történelem, jelenkori társadalom, politika, média és kultúra).
-
-– Nyelvfejlesztés és holland nyelvű szakmai kommunikáció.
-
-5. A holland nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok holland nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének és értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani.
-
-– Ismeri a vizsgákat és követelményeiket, Képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
-
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-11. Horvát és nemzetiségi horvát nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles horvát és nemzetiségi horvát nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Croatian language and culture and Croatian as a minority language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a horvát és a nemzetiségi horvát nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek a horvát nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A horvát és nemzetiségi horvát nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
-
-A horvát nyelvtudás és a nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes a horvát nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott horvát nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a horvát nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a horvát nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a horvát nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, és azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismerje az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti hovát és a nemzetiségi horvát szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
-
-4.2.2. A horvát és nemzetiségi horvát nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 32–36 kredit
-
-– Közismereti tantárgyak ismeretei: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség) és szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
-
-– Horvátország ismerete: a célnyelvi ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
-
-– Interkulturális ismeretek: a szláv népek kultúrájának összehasonlító áttekintése.
-
-– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok stb.); a magyarországi horvát nemzetiség története, tárgyi és szellemi kultúrája.
-
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
-
-– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek; a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
-
-– Irodalmi ismeretek: horvát irodalomtörténeti áttekintés: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; irodalom és medialitás.
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek, alkalmazott nyelvészeti ismeretek: pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika; szemantika, pragmatika, szótártan, grammatika, stilisztika; nyelvtörténet.
-
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek.
-
-– Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése.
-
-– Nemzetiségi szakismeretek – a magyarországi horvátok nyelvhasználata (szociolingvisztikai kérdések: kétnyelvűség, diglosszia); nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer; a magyarországi horvátok irodalma, a magyarországi horvát nemzetiség tudományos élete.
-
-– Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése, a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
-
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése; horvát–magyar irodalmi párhuzamok; irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
-
-– Nyelvészeti és irodalmi szakkollégium vagy szakszeminárium: aktuális nyelv- és irodalomtudományi kérdések elemzése.
-
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek), nemzetiségi média; nemzetiségi politika.
-
-5. A horvát és nemzetiségi horvát nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai, jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat.
-
-– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
-
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti Alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok).
-
-– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
-
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
-– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
-
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
-
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
-
-– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
-
-12. Japán nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles japán nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Japanese language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a japán nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A japán nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a japán kultúrát, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére, legalább C1 szintű, használható nyelvtudással rendelkezik.
-
-– Ismeri a japán kultúra jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni (irodalmi, képzőművészeti, filmes, zenei művek, trendek).
-
-– Képes a modern japán nyelvű irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
-
-– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti idegennyelvi szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+– Képes ismereteit tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
 
 – Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
 
-– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– Képes a francia nyelv és kultúra speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– Képes a francia nyelv tantárgyában egyéni bánásmódot igénylő tanulókat felismerni, hatékonyan fejleszteni és a többi tanulóval együtt differenciáltan nevelni, oktatni, számukra differenciált bánásmódot nyújtani.
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+c) attitűdje
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+b) képességei
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
+
+– Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
+
+c) attitűdje
+
+– Törekszik úgy nevelni, hogy tanítványai mások véleményét, értékeit tiszteljék.
+
+– Célul tűzi ki az ismereteken alapuló, mérlegelő gondolkodás képességének kialakítását a tanulókban.
+
+– Fontosnak tartja az etnikumok és nemzetiségek, illetve egyéb hátrányos helyzetű kisebbségi társadalmi csoportok iránti tolerancia kialakítását.
+
+– Folyamatosan együttműködik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Legalább C1 szintű, használható nyelvtudással rendelkezik.
+
+– Ismeri a beszélt és írott francia nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+
+– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit.
+
+– Ismeri a francia nyelvű kultúrákat, azok sajátosságait, ismeri a francia nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a francia nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is.
+
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, valamint az elméleti kérdésekről szóló empirikus kutatások eredményeit.
+
+– Ismeri az internet, a multimediális eszközök nyújtotta lehetőségeket.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+– Ismeri a francia nyelv tanítása-tanulása során felhasználható információforrásokat, az azokról való tájékozódás lehetőségeit, a tankönyveket, taneszközöket, tanulásszervezési módokat, fontosabb módszereket, tanítási és tanulási stratégiákat.
+
+b) képességei
+
+– Képes a francia nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+
+– Képes a nemzeti kultúra célnyelven történő közvetítésére.
+
+– Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg a francia nyelv és kultúra oktatásában betöltött szerepét.
+
+– Igyekszik aktívan együttműködni szaktárgya, valamint más tantárgyak tanáraival.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti francia szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
+
+– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
+
+– Képes a tanítandó tananyag súlypontjait, felépítését, közvetítésének logikáját a tantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
+
+c) attitűdje
+
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
+
+– A tervezés során együttműködik a munkatársakkal és a tanulókkal, kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri a francia nyelv és kultúra tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit is.
+
+– Alapvető ismeretekkel rendelkezik a különböző motiváció-elméletekről, a tanulási motiváció felismerésének és fejlesztésének módszereiről.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
+
+– Képes az érdeklődés és a figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+
+– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
 
 – Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
 
 – Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
 
 – Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására.
 
-– Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+c) attitűdje
 
-Szakmai elkötelezettség és önfejlesztés terén
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő, aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
 
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+– Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában.
+A pedagógiai folyamatok és a tanulók értékelése területén
 
-– Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok tankönyvek kipróbálása, bírálata).
+a) tudása
 
-4.2.2. A japán nyelv és kultúra tanára szakon a szakterületi ismeretek:
+– Ismeri a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
 
-a) szakmai alapozó ismeretek: 32–42 kredit
+– Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
 
-– Japán nyelvfejlesztés: beszéd, hallás utáni értés, szövegértés, fordítás, fogalmazás, esszéírás.
+– Ismeri a francia nyelv és kultúra tanítása-tanulása során elsajátított ismeretek és fejlesztendő kompetenciák mérésére, értékelésére alkalmas sajátos módszereket, eszközöket.
 
-– Nyelvészeti, irodalmi, kulturális, történelmi és országismereti alapismeretek.
+– Ismeri a középszintű nyelvi érettségi vizsga követelményeit.
 
-b) szakmai törzsanyag ismeretkörei: 36–45 kredit
+b) képességei
 
-– Japán irodalom, minimum 8 kredit.
+– Képes alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
 
-– Nyelvészeti és alkalmazott nyelvészeti ismeretek, minimum 8 kredit.
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására, (pl. portfólió formájában).
 
-– Japán történelme és kultúrája, minimum 8 kredit.
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
 
-– Nyelvfejlesztés, minimum 12 kredit.
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
 
-c) kötelezően választható szakmai ismeretek: 40–45 kredit
+c) attitűdje
 
-- Középiskolai és felnőttkori tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák, minimum 10 kredit.
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
 
-– Szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (prezentációs készségek, képességek fejlesztése), minimum 10 kredit.
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
 
-– Japán irodalom és kultúra, minimum 10 kredit.
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
 
-– Nyelvészeti és alkalmazott nyelvészeti ismeretek, minimum 10 kredit.
+a) tudása
 
-5. A japán nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– Ismeri az osztálytermi kommunikáció sajátosságait.
 
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
 
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
+b) képességei
 
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
 
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok japán nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására.
 
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének, értékelésének elméletét, illetve gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket. Képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére.
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-– Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére.
+c) attitűdje
 
-– Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
+– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére.
 
-– A Közös Európai Referenciakeret és annak alkalmazása.
+Az autonómia és a felelősségvállalás területén
 
-13. Latin nyelv és kultúra tanára
+a) tudása
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+– Tisztában van személyiségének sajátosságaival.
 
-– magyar nyelvű megjelölése: okleveles latin nyelv és kultúra tanára
+– Ismeri a tanári autonómia fogalmát.
 
-– angol nyelvű megjelölése: teacher of Latin language and culture
+b) képességei
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
 
-– a képzési idő 12 félév
+– Képes a szakmai információforrások megtalálására, értelmezésére, felhasználására és ezek közvetítésére.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a latin nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztésekre, innovációkra. .
 
-4. Az elsajátítandó szakmai tudás, képesség
+c) attitűdje
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+– Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+– Együttműködés és felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
 
-4.2.1. A latin nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
+– Felelősséggel vállalja a kezdeményező szerepét a szakmai együttműködés kialakítására.
 
-A tanulói személyiség fejlesztése, az egyéni bánásmód érvényesítése terén
+– Egyenrangú partner a szakmai kooperációban.
 
-– Vállalja a tudatos értékközvetítést, társadalmi-kulturális elfogulatlanságra és toleranciára nevel. Ösztönzi a tanulók önálló véleményalkotását, kritikus gondolkodásmódját.
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris) tantárgy-pedagógiai ismeretek
 
-– Képes az emberi fejlődés és személyiség jellemzőinek, a tanulás sajátosságainak ismeretében, valamint az ezeket alakító kulturális, szociális hatások értelmezése alapján – az egyéni szükségleteket, igényeket figyelembe véve – olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók komplex értelmi, érzelmi, szociális, illetve erkölcsi fejlődését. A pedagógus törekszik a különböző adottságokkal, képességekkel, előzetes tudással rendelkező tanulók számára a megfelelő módszerek megválasztására és a tanulás személyre szabott fejlesztésére. A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése érdekében, segítséget nyújt abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 95-115 kredit
 
-Tanulói csoportok, közösségek alakításának segítése, fejlesztése terén
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
 
-– Képes iskolai évfordulók, ünnepségek megszervezésére, iskolán kívüli művelődés, tanulmányi versenyek, kirándulások, múzeumlátogatások tervezésére, szervezésére, kivitelezésére, az ilyen keretek között szerzett ismeretek és tapasztalatok tanórai integrálására, a tanulók projekt-munkáinak előkészítésére, patronálására. Képes szakkör és önképzőkör működtetésére az oktatott idegen nyelv és kultúra tanulása, ápolása céljából.
+a) Szakmai alapozó ismeretek: 25-35 kredit
 
-Szaktudományi, szakmódszertani és szaktárgyi tudás terén
+– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: francia nyelvű szövegértési (írott és hallott szöveg értése) és szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és élőszóbeli kifejezés francia nyelven; francia gyakorlati nyelvtan.
 
-– Képes az általa tanított szaktantárgy alapvető fogalmainak, azok fejlődésének, összefüggéseinek, megismerési módszereinek, tantervi követelményeinek, valamint a tantárgy tanulási sajátosságainak ismeretében olyan feltételeket biztosítani, amelyek hatására a tanulók kialakíthatják saját, gyakorlatban alkalmazható tudásukat.
+– A francia nyelvet használó országok civilizációjára vonatkozó ismeretek alapjai (történelem, földrajz, népesség, állam és társadalom, kultúra).
 
-– Törekszik szaktárgyi, pedagógiai és tantervi tudásának minél hatékonyabb integrálására, a képességek és ismeretek fejlesztésének egységben való kezelésére annak érdekében, hogy a tantárgyban rejlő személyiségfejlesztési lehetőségeket megvalósítsa.
+– Nyelvészeti és kommunikációelméleti alapismeretek.
 
-– Ismeri a latin nyelv tanításának különféle módszereit, tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, a tanulási módszerek eredményességének értékelésére, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+– Irodalom- és kultúratudományi alapismeretek.
 
-– Ismeri a klasszikus ókori kultúrák – különösen a római – kutatásának korszerű eredményeit. Ismeri a latin nyelv, irodalom és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat, képes azok célcsoportnak megfelelő kiválasztására. Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
+– A latin nyelv alapjai és az újlatin nyelvek kialakulása, elterjedése.
 
-– Tájékozott az általa oktatott nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
+– Felhasználói ismeretek a humán informatikában.
 
-A pedagógiai folyamat tervezése terén
+b) A szakmai törzsanyag szakterületi ismeretkörei: 70-80 kredit
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti idegennyelvi szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Képes az ismereteket és kompetenciákat meghatározni, logikailag felépíteni. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő francia nyelv rendszere, hang-, alak- és mondattani jellemzői, használata és változatai; francia-magyar kontrasztív nyelvészeti ismeretek; kutatásmódszertan).
+
+– Irodalmi, kultúra- és médiatudományi ismeretek (a francia nyelvű irodalom történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai és verstani alapismeretek, irodalom és medialitás, művészetek és populáris kultúra a francia világban; kutatásmódszertan).
+
+– A francia nyelvet használó országok civilizációjára, kultúrájára vonatkozó ismeretek (történelem, művészet-, zene-, színház- és kultúrtörténet, jelenkori társadalom, politika, média és kultúra, kutatásmódszertan).
+
+– Nyelvfejlesztés és francia nyelvű szakmai kommunikáció.
+
+– A kötelezően választható tárgyak körében választandó, a szak tekintetében releváns nyelvtudományi, alkalmazott nyelvészeti-kommunikációelméleti, irodalom-, kultúra-, médiatudományi, művészettörténeti, digitális bölcsészeti és nyelvpedagógiai ismeretek.
+
+A szabadon választható tárgyak kerete ad lehetőséget a kerettantervben, az érettségi vizsgakövetelményekben és a fentiekben nem szereplő tartalmakon túlmutató további szakterületi ismereteket tartalmazó tárgyak felajánlására.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
+
+– A francia nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
+
+– Nyelv, irodalom és nemzetiségi kultúra tanításának módszertana.
+
+– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
+
+– Nyelv, irodalom és nemzetiségi kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint nemzetiségi nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
+
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
+
+– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
+
+– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
+
+– Tananyagkészítés, projektmunka és személyre szabott oktatás.
+
+– Összefüggő féléves gyakorlatot támogató gyakorlat francia nyelven: 2 kredit.
+
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat: 2 kredit.
+
+7. Holland nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
+
+– magyar nyelvű megjelölése: okleveles holland nyelv és kultúra tanára
+
+– angol nyelvű megjelölése: Teacher of Dutch Language and Culture
+
+2. A képzési idő: 10 félév
+
+3. A képzés célja a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a holland nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+
+4. Az elsajátítandó szakmai kompetenciák
+
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
+
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+
+4.2.1. A holland nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
+
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
+
+a) tudása
+
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
+
+– Ismeri a holland nyelv és kultúra tantárgy által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
+
+– Ismeri a holland nyelv és kultúra tantárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
+
+– Ismeri a pedagógiai folyamatok és a tanulók értékelésének, elemzésének hatását a tanulók személyiségfejlődésére. Tisztában van a holland nyelv és kultúra tantárgynak a tanulók személyiségfejlődésében betöltött szerepével, lehetőségeivel.
+
+b) képességei
+
+– Képes a holland idegen nyelv tantárgy speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
+
+– Képes a különböző adottságokkal, képességekkel, illetve előzetes tudással rendelkező tanulók tanulásának, fejlesztésének megfelelő módszerek megválasztására, tervezésére és alkalmazására, a pályaorientáció segítésére.
+
+– Képes a tehetséges, a nehézségekkel küzdő vagy a sajátos nevelési igényű, a hátrányos, halmozottan hátrányos helyzetű, tanulási, magatartási nehézséggel küzdő, valamint a tantárgyában egyéni bánásmódot igénylő tanulókat felismerni.
+
+– Képes a holland idegen nyelv tantárgyban rejlő értékorientált személyiségfejlesztési lehetőségeket kihasználni, a tanulók önálló ismeretszerzését segíteni a végzettségének megfelelő korosztály és a felnőttoktatás keretében is.
+
+– Döntéseiben képes a szakmai önreflexióra és önkorrekcióra.
+
+– A pedagógiai folyamatokat és a tanulók személyiségfejlődését folyamatosan értékeli, elemzi.
+
+– Képes saját, tudományosan megalapozott pedagógiai nézeteinek megfogalmazására.
+
+c) attitűdje
+
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– Felelősségteljesen viszonyul a tanulók személyiségfejlesztéséhez, képes mindenkiben meglátni az értékeket és pozitív érzelmekkel viszonyulni minden tanítványához.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+– Ismeri a közösség kialakítását, fejlesztését elősegítő pedagógiai módszereket.
+
+– Ismeri a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadásának lehetőségeit a holland nyelv és kultúra tantárgy keretein belül.
+
+b) képességei
+
+– Képes a szaktárgyi oktatás keretében alkalmazni az együttműködést segítő, motiváló módszereket.
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
+
+– Képes aktívan közreműködni a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a tanulókat egyetemes emberi, nemzeti és helyi értékek elfogadására nevelni.
+
+– Képes értelmezni és felhasználni azokat a társadalmi-kulturális jelenségeket, amelyek befolyásolják a tanulók esélyeit, iskolai, illetve iskolán kívüli életét.
+
+– Képes az iskolai és osztálytermi toleráns, esélyteremtő légkör megteremtésére.
+
+– Képes a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
+
+– attitűdje
+
+– Elkötelezett a nemzeti és egyetemes értékek iránt, szociális érzékenység, segítőkészség jellemzi.
+
+– Felelősségteljesen végzi tanári munkáját, igyekszik az egyéni bánásmódot igénylő tanulók esetében az inklúzió szemléletét érvényesíteni.
+
+– Személyes példamutatásával is segíti a nemzeti értékek megismerését és a magyar identitástudat kialakítását a tanulókban.
+
+– Elkötelezett a demokratikus gondolkodásra nevelés iránt, valamint fontosnak tartja a fenntarthatóság és környezettudatosság, illetve a médiatudatosság kialakítását a tanulókban.
+
+– Az iskola világában tudatosan törekszik a nemzeti és európai kultúra alapját képező értékek elfogadtatására.
+
+– Fontosnak tartja a nemzetiségek és a kisebbségek iránti tolerancia kialakítását.
+
+– Törekszik tanítványait mások véleményének, értékeinek tiszteletben tartására nevelni.
+
+– Folyamatos együttműködésre törekszik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Ismeri a szinkron nyelvállapot hangtani, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit, illetve ezek összefüggéseit.
+
+– Ismeri a beszélt és írott holland nyelv szabályait. Rendelkezik ismeretekkel a holland regionális nyelvváltozatokról, a sztenderdnyelv regisztereiről és stílusairól.
+
+– Ismeri a holland nyelvű kultúrákat, azok hasonlóságait és különbségeit, jellemző szellemi és művészeti irányzatait, megjelenési formáit, főbb műveit.
+
+– Ismeri a holland sztenderdnyelv leíró nyelvtanát, az általános nyelvészet alapvetéseit és alapfogalmait.
+
+– Ismeri az idegennyelv-elsajátítás legfontosabb elméleteit és empirikus kutatásainak legfőbb eredményeit.
+
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban.
+
+– Ismeri a nyelv- és irodalomtudományi, kultúrtörténeti kutatások korszerű eredményeit, azok módszertanát.
+
+– Tájékozott az általa oktatott nyelv tanításának magyarországi és európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
+
+– Ismeri a kétszintű nyelvi érettségi vizsga követelményeit, a vizsgák minőségi kritériumait. Képes a szakképzettségének megfelelő vizsgafeladatok készítésére, kipróbálására, ellenőrzésére.
+
+– Ismeri és képes alkalmazni a Közös Európai Referenciakeretet.
+
+b) képességei
+
+– Legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes a holland nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+
+– Képes saját tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát.
+
+– Képes a holland nyelvű kultúrákkal kapcsolatos tudását a saját maga és tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes az irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+
+– Képes nyelvészeti ismereteit a nyelvtanítás során alkalmazni.
+
+– Képes szaktudását alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+– Képes a szaktudományi, továbbá az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazására, a különböző tudásterületek közötti összefüggések, kapcsolódások, átfedések és egymásra hatások felismerésére, a szaktárgyi integráció megvalósítására.
+
+– Képes a holland idegen nyelv tantárgynak megfelelő területeken a fogalmak, elméletek és tények közötti összefüggések megteremtésére, közvetítésére.
+
+– Képes szaktudományi, szakmódszertani, szaktárgyi, tanuláselméleti és tantervi tudásának hatékony integrálására.
+
+– Képes a szaktárgyak tanítása során szerzett tapasztalatok, kompetenciák szintetizálására.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg a holland nyelv és kultúra tantárgy oktatásában betöltött szerepét.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti holland idegen nyelv szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri a holland idegen nyelv oktatásához alkalmazható taneszközöket, oktatási segédanyagokat.
+
+b) képességei
 
 – Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, tematikus terv és óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-– Képes a tervezés során a kollégákkal és a tanulókkal együttműködni; a taneszközöket, illetve egyéb tanulási forrásokat kritikusan elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, valamint az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
+– Képes a tervezés során a kollégákkal, illetve a tanulókkal együttműködni; a taneszközöket és egyéb tanulási forrásokat elemezni, kiválasztani (különös tekintettel az infokommunikációs technológiára); a pedagógiai és tantárgyi célokhoz, az adott szituációhoz alkalmazkodva kreatívan, különböző változatokban gondolkodni, terveit reflektív módon elemezni, értékelni.
 
-– Képes a tanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, a tanulók nyelvtudásának diagnosztikus mérésére, az ehhez szükséges mérőeszközök kidolgozására és az eredmények elemzésére.
+– Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+c) attitűdje
 
-– A tanulás külső (iskolatípus, módszertani koncepció) és egyéni (a tanulók nyelvi kompetenciája, motiváltsága) feltételrendszerének ismeretében a tanár képes pedagógiai céljainak, valamint azok elérését biztosító oktatási-nevelési stratégiájának kialakítására, megvalósítására. Különböző tanulásszervezési eljárások, tanítási technikák, módszerek, differenciált munkaformák ismeretében képes ezek tudatos, széles skálán mozgó, az életkornak, egyéni és csoportsajátosságoknak megfelelő alkalmazására.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
+
+– A tervezés során kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazásának speciális szempontjait, lehetőségeit.
+
+– Ismeri a szaktantárgy tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit is.
+
+– Ismeri a holland idegen nyelv oktatása során alkalmazható motivációs lehetőségeket.
+
+– Ismeri a holland idegen nyelv tanításának-tanulásának tanórai, a tanórán kívüli és az iskolán kívüli lehetőségeit, színtereit.
+
+– Ismeri a holland idegen nyelv oktatásában alkalmazható differenciálisi módszereket, nevelési-oktatási stratégiákat.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
+
+– A nyelvtanulás sajátosságainak ismeretében, valamint az ezeket alakító kulturális, szociális hatások értelmezése alapján, az egyéni szükségleteket, igényeket is figyelembe véve képes olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók komplex értelmi, érzelmi, szociális és erkölcsi fejlődését.
+
+– A nyelvtanulás külső (iskolatípus, módszertani koncepció), illetve egyéni (a tanulók nyelvi kompetenciája, motiváltsága) feltételrendszerének ismeretében képes pedagógiai céljainak és azok elérését biztosító oktatási-nevelési stratégiájának kialakítására, megvalósítására.
+
+– Különböző tanulásszervezési eljárások, tanítási technikák, módszerek, differenciált munkaformák ismeretében képes ezek tudatos, széles skálán mozgó, az életkornak, egyéni és csoportsajátosságoknak megfelelő alkalmazására.
 
 – Képes a különböző céloknak megfelelő stratégiák, a motivációt, differenciálást, tanulói aktivitást biztosító, a tanulók gondolkodási, probléma-megoldási, együttműködési képességének fejlesztését segítő módszerek, szervezési formák kiválasztására, megvalósítására, a hagyományos és az információs-kommunikációs technikákra épülő eszközök, digitális tananyagok hatékony, szakszerű alkalmazására.
 
-– Képes az érdeklődés, a figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
+– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Képes a különböző adottságokkal, képességekkel, előzetes tudással rendelkező tanulók számára megfelelő nyelvelsajátítási módszerek megválasztására és a tanulás önszabályozásának személyre szabott fejlesztésére.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes a nyelvtanulás eredményességet és eredménytelenséget befolyásoló tényezők felismerésére, egyéni tanulási stratégiák kialakításának elősegítésére, támogatására. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására. Képes a tanulókat önellenőrzésre és javításra ösztönözni.
 
-– Ismeri és alkalmazni tudja a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
+– Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására.
+
+– Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+
+– A szaktárgyi tudást eszközként képes alkalmazni a tanulók személyiségfejlesztése érdekében, képes segítséget nyújtani abban, hogy a tanulók felkészülhessenek az egész életen át tartó tanulásra.
+
+c) attitűdje
+
+– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra, ugyanakkor elkötelezett a tanulási nehézségekkel küzdő tanulók motiválása, felzárkóztatása és segítése iránt.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri és alkalmazni tudja a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és -gyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+
+b) képességei
+
+– A tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának reflexiójára, tanulási módszerek eredményességének értékelésére a négy nyelvi készség elsajátításában, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (így portfólió formájában). Figyelemmel kíséri és alakítja a tanulók önértékelési képességeinek fejlődését.
 
 – Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
 
-A szakmai együttműködés és kommunikáció terén
+c) attitűdje
 
-– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a más idegen nyelvet, illetve magyart, történelmet oktató kollégáival, az iskola más munkatársaival, a diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, intézményekkel, szervezetekkel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
+– Elkötelezett a tanulást segítő értékelés mellett.
 
-– Képes arra, hogy a konfliktushelyzetek, problémák feltárása és megoldása érdekében szakmai segítséget kérjen.
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
 
-– Képes közreműködni az iskolai szervezet folyamatos fejlesztésében és értékelésében.
+a) tudása
 
-– Különböző szakmai szituációkban képes nyílt és hiteles kommunikációra.
+– Ismeri az osztálytermi kommunikáció sajátosságait.
 
-– Kooperálni képes a különböző pedagógiai szolgáltató intézményekkel, az adott nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
 
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
+– Ismeretekkel rendelkezik a reflektív gondolkodás szerepéről a szakmai fejlődésben, a továbbképzés lehetőségeiről, a lelki egészség megőrzésének elméleti és gyakorlati módszereiről.
 
-– A társadalmi folyamatok, jogszabályok és etikai normák ismeretében képes meghatározni, továbbá rendszeresen újrafogalmazni saját szakmai szerepvállalását. Elkötelezett az igényes tanári munkára.
+– Tájékozott a szakterületéhez és tanári hivatásához kötődő információs forrásokkal, szervezetekkel kapcsolatban.
+
+b) képességei
+
+– Képes partneri együttműködésre a tanulókkal, a tantestület tagjaival, különösen a más élő idegen nyelvet, szaktárgyat élő idegen nyelven oktató és anyanyelvet tanító kollégáival, az iskola más munkatársaival, a diákönkormányzatokkal, a szülőkkel, szakmai fórumok szakembereivel, intézményekkel, szervezetekkel a pedagógiai folyamatban betöltött szerepüknek megfelelően.
+
+– Képes kooperálni a különböző pedagógiai szolgáltató intézményekkel, az adott nyelv közvetítése szempontjából releváns közművelődési intézmények, médiumok, társadalmi és civil szervezetek szakembereivel.
+
+c) attitűdje
+
+– Pedagógiai helyzetekben képes mérlegelésre, együttműködésre, kölcsönösségre, asszertivitásra, segítő, érzületi, lelkületi kommunikációra.
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+– Kész részt vállalni a szaktárggyal kapcsolatos fejlesztési, innovációs tevékenységben.
+
+– Betartja a pedagóguspálya jogi és etikai normáit.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Tisztában van személyiségének sajátosságaival.
+
+– Ismeri a tanári autonómia fogalmát.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes a szakmai információforrások megtalálására, értelmezésére, felhasználására és ezek közvetítésére.
+
+– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására.
+
+c) attitűdje
 
 – Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-– Képes a szakmai információforrások megtalálására, kritikus értelmezésére, felhasználására és ezek közvetítésére.
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
 
-– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére és lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 95-115 kredit
 
-4.2.2. A latin nyelv és kultúra tanára szak szakterületi ismeretei:
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
 
-a) általános értelmiségi és gyakorlati bölcsészettudományi ismeretek: 8–12 kredit
+– Nyelvismeret, idegennyelvi kommunikációs kompetencia: holland nyelv szövegértési (írott és hallott szöveg értése), szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és szóbeli kifejezés holland nyelven; holland gyakorlati nyelvtan.
 
-– Filozófiatörténeti, irodalomelméleti és nyelvtudományi ismeretek.
+– Kulturális ismeretek: a holland nyelvű országok kultúrájának ismerete az adott országok történelmét, földrajzát, társadalmát, művészetét illetően.
 
-– Egyéb gyakorlati bölcsészettudományi ismeretek (szövegalkotás, könyvtár- és elektronikus adatbázis-használat).
+– Irodalmi és médiatudományi ismeretek: a holland nyelvű országok irodalmának és médiakultúrájának ismerete.
 
-b) szakmai alapozó ismeretek: 20–26 kredit
+– Nyelvészeti ismeretek: a holland sztenderdnyelv leíró nyelvtanának ismerete, az általános nyelvészet alapvetéseinek és alapfogalmainak ismerete.
 
-- Könnyebb klasszikus latin irodalmi és egyéb latin nyelvű szövegek elemző olvasása (szövegolvasás, auktorolvasás).
+– Digitális kompetenciák: a digitális eszközök, a digitális információs és kommunikációs technológiák és média alkalmazása a nyelvoktatásban.
 
-– A latin (leíró) nyelvtan ismerete, ógörög nyelvi alapozás.
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
 
-– A görög és római és/vagy ókori művelődéstörténet (mitológia, vallástörténet, művészettörténet, tárgyi kultúra), a görög és római történelem átfogó ismerete.
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-c) a szakmai törzsanyag ismeretkörei: 80–90 kredit
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy a középfokú nevelés-oktatás 9-12. évfolyamain képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-– Nehezebb klasszikus és/vagy középkori, illetve újkori latin irodalmi és egyéb szövegek elemző (grammatikai, esztétikai, irodalmi, irodalomelméleti, filozófiai, történeti szemléletű) olvasása (szövegolvasások, auktorolvasások).
+– A holland nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
 
-– Latin (leíró) nyelvtan, amelynek egy része lehet stílusgyakorlat is.
+A holland nyelv és kultúra tanításának módszertana: a nyelvoktatás curriculáris alapjait képező európai és hazai dokumentumok ismerete, tanmenet készítése, tematikus terv készítése, óratervezés, tananyagfejlesztés, tankönyvelemzés, nyelvi és interkulturális készségek fejlesztése; tantárgyakon átívelő interdiszciplináris szemlélet kialakítása, differenciálás, mérés, értékelés a nyelvórán, hibaelemzés, a nyelvóra elemzése, munkaformák ismerete, infokommunikációseszközök alkalmazási lehetőségei az idegennyelv-órán.
 
-– A görög és római irodalomtörténet áttekintő ismerete, az ókori irodalmi műfajok története, az egyes műfajok jellemző sajátosságai, közép- és/vagy újkori latin nyelvű irodalmi alkotások és azok jellemző sajátosságai.
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat: 2 kredit.
 
-– Görög és római, általános ókori vallástörténet.
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat holland nyelven: 2 kredit.
 
-– A görög és római filozófia történetének, főbb iskoláinak, tanításainak, a legnagyobb hatású gondolkodók munkásságának áttekintő ismerete.
+8. Horvát és nemzetiségi horvát nyelv és kultúra tanára
 
-– A latin nyelv története. Az ókori művek (irodalmi és nem irodalmi, a tárgyi kultúrába tartozó alkotások) esztétikai szempontú elemzése.
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
 
-– Az ókori retorika történetének, alapfogalmainak ismerete.
+– magyar nyelvű megjelölése: okleveles horvát és nemzetiségi horvát nyelv és kultúra tanára
 
-– Az ókori Mediterráneum és Pannónia régészete és az ókori görög–római művészet története.
+– angol nyelvű megjelölése: Teacher of Croatian Language and Culture
 
-5. A latin nyelv és kultúra tanárnak sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+2. A képzési idő: 10 félév
 
-– Ismeri a latin nyelv tanításának módszertanát, képes a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagokat tudatosan, a diákok életkori sajátosságainak, szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan alkalmazni.
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a horvát nyelv és a horvát nyelv és irodalom, valamint a horvát népismeret tantárgy tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-– Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
+4. Az elsajátítandó szakmai kompetenciák
 
-– Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni. Képes a diákok latinnyelv-tudását a Nemzeti alaptanterv, illetve a felsőoktatás tantervi tartalmait integrálva fejleszteni.
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, személyre szabott fejlesztésükre, és kritérium-orientált mérésére, megbízható és valid vizsgáztatására.
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
+4.2.1. A horvát és nemzetiségi horvát nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-– A Közös Európai Referenciakeret és annak alkalmazása.
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-14. Lengyel és nemzetiségi lengyel nyelv és kultúra tanára
+a) tudása
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+– Ismeri a tanulók tanulásának, tudásának alakulását befolyásoló tényezőket és azok ismeretében alkalmazza a megfelelő tanulási stratégiákat.
 
-– magyar nyelvű megjelölése: okleveles lengyel és nemzetiségi lengyel nyelv és kultúra tanára
+– Tisztában van a sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló többi tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges módszerekkel.
 
-– angol nyelvű megjelölése: teacher of Polish language and culture and Polish as a minority language and culture
+– Ismeri a szaktárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+b) képességei
 
-– a képzési idő 12 félév
+– Képes a tanuló személyiségjegyeinek felismerésére és fejlesztésére, nyitott a környezet visszajelzéseinek felhasználására.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a lengyel és nemzetiségi lengyel nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek a lengyel nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
+– Képes a nemzetiségi szaktárgy speciális összefüggéseit megismertetni, az ebből adódó nehézségeket megoldani.
 
-4. Az elsajátítandó szakmai tudás, képesség
+c) attitűdje
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+– Koherens egyéni álláspontjával segíti a tanuló és közössége épülését. Alkalmas a tanuló motivációjának felismerésére és erősítésére.
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+– Az aktuális hazai és nemzetiségi szakirodalmat a helyzetnek megfelelően alkalmazza, tudását folyamatosan bővíti.
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
 
-4.2.1. A lengyel és nemzetiségi lengyel nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
 
-A lengyel nyelvtudás és a nyelvhasználat terén
+a) tudása
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes a lengyel nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a tanulói csoportok kialakításához szükséges módszereket, amelyek alkalmazása során figyelembe veszi a tanulók sokszínűségét.
 
-– Ismeri a beszélt és írott lengyel nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Segíti a közösség kialakítását, fejlesztését, ismeri az azt elősegítő pedagógiai módszereket.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Segíti a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadását.
 
-A célnyelvi kultúrák közvetítése terén
+b) képességei
 
-– Ismeri a lengyel nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a lengyel nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a lengyel nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+– Tudatosan kezeli az értékek sokszínűségét, tiszteletben tartja azokat, nyitott mások véleményére.
 
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan és értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére. Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
 
-Szaktudományi, szakmódszertani tudás terén
+– Képes a tanulókat helyi, nemzeti és nemzetiségi értékek elfogadására nevelni.
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
+c) attitűdje
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait és képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+– Alkalmas olyan pedagógiai helyzetek kialakítására, amelyekben a különböző értékek elfogadását segíti, a tanulókat együttműködésre motiválja.
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Az iskola világában tudatosan törekszik a nemzeti és nemzetiségi kultúra alapját képező értékek elfogadtatására.
 
-A pedagógiai folyamat tervezése terén
+– Fontosnak tartja az etnikumok és nemzetiségek iránti tolerancia kialakítását.
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti lengyel és a nemzetiségi lengyel szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+A szakmódszertani és a szaktárgyi tudás területén
 
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
+a) tudása
 
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
+– Ismeri a horvát nyelv tanításának alapvető szakmódszertani irányait, valamint a tanulmányterület legfontosabb összefüggéseit, elméleteit és a hozzájuk kapcsolódó terminológiát, illetve a problémamegoldás módszereit.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Ismeri a szakmódszertan hazai és nemzetközi eredményeit, szakirodalmát, aktuális kérdéseit, számítástechnikai, könyvtári forrásait.
 
-– Ismeri és tudja alkalmazni a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Ismeri az aktuális és érvényben lévő érettségi követelményeket.
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+b) képességei
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– Képes nemzetiségi tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát, képes a horvát nemzetiségi szakterület és szakmódszertan ismeretrendszerét alkotó elképzelések alapfokú analízisére, az összefüggések szintetikus megfogalmazására és adekvát értékelő tevékenységre horvát nyelven.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+– Rendelkezik az önálló tanuláshoz szükséges képességekkel.
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
+– Képes rutin szakmai problémák azonosítására, az azok megoldásához szükséges elvi és gyakorlati háttér feltárására, megfogalmazására és megoldására.
 
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Képes rugalmasan alakítani a tanítási stratégiákat a tanulási célokkal összhangban és differenciálni a tanulói képességeknek megfelelően.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Képes a másokkal való kooperációra, valamint szakmai tudásának egy adott munkahely különböző szakmai elvárásainak megfelelő felhasználására.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Képes az alkotó információhasználatra.
 
-Szakmai elkötelezettség és önfejlesztés terén
+– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+c) attitűdje
 
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+– Ismeri, vállalja és hitelesen képviseli szakmája társadalmi helyét és szerepét, alapvető viszonyát a világhoz.
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
+– Nyitott szakmája átfogó gondolkodásmódjának és gyakorlati működése alapvető jellemzőinek hiteles közvetítésére, átadására.
 
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
+– A folyamatos önképzés igénye jellemzi.
 
-4.2.2. A lengyel és nemzetiségi lengyel nyelv és kultúra tanára szakon a szakterületi ismeretek:
+– Önállóság jellemzi, nyitott a külső változásokra, aktívan képes részt venni az iskola szaktárgyi munkaközösségének munkájában.
 
-a) szakmai alapozó ismeretek: 32–36 kredit
+A pedagógiai folyamat tervezése területén
 
-– Közismereti tantárgyak: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
+a) tudása
 
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
+– Ismeri a Nemzeti alaptanterv, valamint a nemzetiségi irányelv és az arra épülő kerettantervek szerinti horvát szaktárgyi és érettségi követelményeket, valamint az iskolai nevelő-oktató munka tartalmi szabályozását.
 
-– Lengyelország ismerete: a célnyelvi ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
+b) képességei
 
-– Interkulturális ismeretek: a szláv népek kultúrájának összehasonlító áttekintése.
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet és az óraterv szintjén, valamint ennek rendszerszemléletű, interdiszciplináris megközelítésére. Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére.
 
-– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok), a magyarországi lengyel nemzetiség története, tárgyi és szellemi kultúrája.
+– Képes a tanítandó tananyag súlypontjait, felépítését, közvetítésének logikáját a tantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
 
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
+c) attitűdje
 
-– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek, a célnyelv és az anyanyelv kontrasztivitásának tudatosítása; fordítási gyakorlatok; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
+– Fontosnak tartja a formális, nem formális és informális úton, tanulási környezetben szerzett tudás összekapcsolását.
 
-– Irodalmi ismeretek: lengyel irodalomtörténeti áttekintés (korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik irodalmi műfajok szövegértelmezés, szövegelemzés, irodalom és medialitás).
+– Nyitott a kollégákkal és a tanulókkal való együttműködésre.
 
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés, fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek, alkalmazott nyelvészeti ismeretek (pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika, szemantika, pragmatika, szótártan, grammatika, stilisztika; nyelvtörténet).
+A tanulás segítése, szervezése és irányítása területén
 
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven, tudásbázisok használata, projektek.
+a) tudása
+
+– Ismeri a tanulás támogatásának különböző stratégiáit és módszereit, ismeri a tanulók horvát nyelvi kompetenciáit, a differenciált oktatás lehetőségeinek alkalmazását elméletben és gyakorlatban.
+
+– Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+– Ismeri a különböző tanulási környezetek tanulási eredményességre gyakorolt hatásait. Ismeri a szaktantárgy tanításának-tanulásának tanórai, tanórán kívüli és az iskolán kívüli lehetőségeit, színtereit.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
+
+– Képes az önszabályozott tanulás szintjének megfelelő változatos feladatadásra, támogatja a tanulókat egyéni tanulási útjuk megtalálásában.
+
+– Képes egyéni tanulásfejlesztési tervet kidolgozni és széles körű együttműködést kezdeményezni a tanulási problémák kezelésében az érintettek körében.
+
+– Képes nyugodt, biztonságos és az eredményes tanulást segítő tanulási környezet megszervezésére.
+
+– Képes a szaktárgy speciális összefüggéseivel, fogalmaival kapcsolatos megértési nehézségek felismerésére és kezelésére.
+
+c) attitűdje
+
+– Nyitott az új tanuláselméletek, tanulási-tanítási módszerek, a digitális pedagógiai eszközök alkalmazásának megismerésére és saját tanulási-tanítási folyamatába való beépítésére.
+
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
+
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri és alkalmazza a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+b) képességei
+
+– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (így portfólió formájában is).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Alkalmas a pedagógiai folyamatoknak megfelelő, objektív, reális tudásszint mérésére.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri a pedagógiai és nemzetiségi pedagógiai kérdéseket, tájékozott a hazai nemzetiségi és anyaországi szakmai kérdésekben.
+
+– Együttműködik a pedagógiai és nemzetiségi területek képviselőivel, szakmódszertani központjaival.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő szakemberekkel, szakmai intézményekkel való együttműködés módjairól.
+
+b) képességei
+
+– Tudatosan építi a pedagógiai és nemzetiségi szervezeteken belüli és kívüli kapcsolatokat, együttműködési lehetőségeket.
+
+– Aktívan közreműködik a pedagógiai és szervezeti, valamint nemzetiségi szakmai tevékenységekben.
+
+– Követi és figyelembe veszi munkájában a helyi innovációk eredményeit.
+
+– Képes a tanulókkal a kölcsönös tiszteletre és bizalomra épülő társas-lelkületi kapcsolatrendszer megteremtésére, az együttműködési elvek és formák közös kialakítására, elfogadtatására.
+
+c) attitűdje
+
+– Szerepet vállal a szervezeti szintű megbeszéléseken, szóban és írásban.
+
+– Az intézményi és nemzetiségi kapcsolatrendszerben szakmai kérdések megbeszélésére ösztönöz, kezdeményező szerepet vállal.
+
+– Önálló, tudományos adatokon és tapasztalati elemzésen nyugvó véleményalkotás jellemzi.
+
+– Betartja a pedagóguspálya jogi és etikai normáit.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Ismeri a pedagógiai munkájában felmerülő problémáihoz megoldást kínáló adekvát szakirodalmat, amelyet munkájában aktívan felhasznál.
+
+b) képességei
+
+– Képes együttműködni a horvát nyelv területéhez kapcsolódó hazai és nemzetközi partnerekkel.
+
+– Tudása és képességei keretei között látja a helyét egyének és csoportok szakmai fejlődésének felelősségvállalásában.
+
+– Képes az iskolán belül és a nemzetiségi közösséget érintve szakmai párbeszédet, egyeztetést kezdeményezni a pedagógus feladatainak kérdéseiről.
+
+c) attitűdje
+
+– Alkalmas arra, hogy részesévé váljon az iskola szervezeti életének.
+
+– A pedagógusokat, az iskolát, a nemzetiségi identitást érintő kérdésekben állást foglal, párbeszédet kezdeményez.
+
+– Az iskolai, nevelési-oktatási problémák értelmezésében, a problémamegoldásban kezdeményező, aktív szerepet tölt be.
+
+– Elfogadja az iskola, a pedagógusok, a nemzetiségi létből fakadó társadalmi felelősségeit.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (tantárgy-pedagógiai) ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 92-106 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv, valamint a nemzetiségi iskolai nevelés-oktatás irányelve alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 22-26 kredit
+
+– Közismereti tantárgyak: irodalomtudományi, nyelvtudományi alapismeretek.
+
+– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
+
+– Horvátország ismerete: a célnyelvi ország földrajzi adottságai, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
+
+– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok); a magyarországi horvát nemzetiség története, tárgyi és szellemi kultúrája.
+
+b) A szakmai törzsanyag szakterületi ismeretkörei: 70-80 kredit
+
+– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek; a ; fordítási gyakorlatok; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
+
+– Irodalomtörténeti ismeretek: horvát irodalomtörténeti áttekintés: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; , magyar- horvát irodalmi kapcsolatok.
+
+– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológia, morfológia, szintaktika; alkalmazott nyelvészeti ismeretek: lexikológia, lexikográfia, grammatika, stilisztika, nyelvtörténet.
 
 – Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése.
 
-– Nemzetiségi szakismeretek: a magyarországi lengyelek nyelvhasználata (szociolingvisztikai kérdések: kétnyelvűség, diglosszia), nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer, a magyarországi lengyelek irodalma, a magyarországi lengyel nemzetiség tudományos élete.
+– Nemzetiségi szakismeretek: a magyarországi horvátok nyelvhasználata (szociolingvisztikai kérdések: kétnyelvűség, diglosszia); nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer, a magyarországi horvátok irodalma, a magyarországi horvát nemzetiség tudományos élete.
 
 – Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése, a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
 
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése, lengyel–magyar irodalmi párhuzamok, irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
 
-– Nyelvészeti ismeretek: nyelvészeti és irodalmi szakkollégium vagy szakszeminárium: aktuális nyelv- és irodalomtudományi kérdések elemzése.
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek); nemzetiségi média; nemzetiségi politika.
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-5. A lengyel és nemzetiségi lengyel nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– A horvát és nemzetiségi horvát nyelv és kultúra tanára szakképzettség sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörei: 8 kredit
 
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai, jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat.
+– Nyelv, irodalom és nemzetiségi kultúra tanításának módszertana.
 
 – A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
 
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
+– Nyelv, irodalom és nemzetiségi kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint a nemzetiségi nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok).
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka, projektfeladatok.
 
 – A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
 
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
 – A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
-
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
-
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
 
 – Tananyagkészítés, projektmunka és a személyre szabott oktatás.
 
-15. Kínai nyelv és kultúra tanára
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat: 2 kredit.
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat: 2 kredit.
+
+9. Japán nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
+
+– magyar nyelvű megjelölése: okleveles japán nyelv és kultúra tanára
+
+– angol nyelvű megjelölése: Teacher of Japanese Language and Culture
+
+2. A képzési idő: 10 félév
+
+3. A képzés célja a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a japán nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+
+4. Az elsajátítandó szakmai kompetenciák
+
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
+
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+
+4.2.1. A japán nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
+
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
+
+a) tudása
+
+– Alapvető pszichológiai, pedagógiai és szociológiai tudással rendelkezik a személyiség sajátosságaira és fejlődésére vonatkozó nézetekről, a szocializációról és a perszonalizációról, a hátrányos helyzetű tanulókról.
+
+– Ismeri a személyiségfejlődés zavarait, a magatartásproblémák okait, a gyermeknevelés, a tehetséggondozás és az egészségfejlesztés módszereit.
+
+– Ismeri a tanulók megismerésének módszereit.
+
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+
+– Ismeri a kétszintű nyelvi érettségi vizsga követelményeit és a vizsgák minőségi kritériumait.
+
+b) képességei
+
+– Képes reális képet kialakítani a tanulók világáról, a nevelés és a tanulói személyiség fejlesztésének lehetőségeiről
+
+– Képes tapasztalt kollégák, mentorok segítségével a tanulók egyéni szükségleteit figyelembe véve olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók értelmi, érzelmi, szociális és erkölcsi fejlődését, az egészséges életvitel kialakítását.
+
+– Képes a szaktárgy speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
+
+– Képes a tanulók nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritériumorientált mérésére.
+
+– Képes a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagokat tudatosan, a tanulók életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+
+– Képes a tanulók nyelvtanulási programját (tanterv, tanmenet, óravázlat feladatleírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
+
+c) attitűdje
+
+– Nyitott a személyiségfejlesztés változatos módszereinek elsajátítására.
+
+– Tiszteli a tanulók személyiségét, képes mindenkiben meglátni az értékeket és pozitív érzelmekkel (szeretettel) viszonyulni minden tanítványához.
+
+– Érzékeny a tanulók problémáira, törekszik az egészséges személyiségfejlesztés feltételeit biztosítani minden tanuló számára.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Alapvető tudással rendelkezik a társadalmi és csoportközi folyamatokról, a demokrácia működéséről, az enkulturációról és a multikulturalizmusról.
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket, a közösség kialakítását, fejlesztését elősegítő pedagógiai módszereket.
+
+b) képességei
+
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
+
+– Képes együttműködésre, kölcsönösségre, asszertivitásra és segítő kommunikációra.
+
+– Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a tanulók önálló tanulását támogatni, követni.
+
+– Képes értelmezni és a tanulók érdekében felhasználni azokat a társadalmi-kulturális jelenségeket, amelyek befolyásolják a tanulók esélyeit, iskolai, illetve iskolán kívüli életét.
+
+– Képes hozzájárulni az iskolai és osztálytermi toleráns, nyitott légkör megteremtéséhez.
+
+c) attitűdje
+
+– Előítéletektől mentesen végzi tanári munkáját, igyekszik az inklúzió szemléletét magáévá tenni.
+
+– Törekszik a fiatalok világáról minél több ismeretet szerezni, tiszteli különbözőségeiket és jogaikat.
+
+– Folyamatosan együttműködik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Ismeri a japán kultúrát, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére, legalább C1 szintű, használható nyelvtudással rendelkezik.
+
+– Ismeri a japán kultúra jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga, illetve tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni (irodalmi, képzőművészeti, filmes, zenei művek, trendek).
+
+– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait és tudását a nyelvtanítás során képes alkalmazni.
+
+– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait.
+
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit.
+
+– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát.
+
+– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket.
+
+– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát.
+
+– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+b) képességei
+
+– Képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+– Képes a modern japán nyelvű irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+
+– Képes a tanulók japán nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+
+c) attitűdje
+
+– Kész a folyamatos szaktudományi, szakmódszertani és neveléstudományi megújulásra.
+
+– Nyitott arra, hogy szakmai segítséget kérjen és elfogadjon, ha szükséges.
+
+– Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a japán nyelv tanításának jogszabályi hátterét, vizsgakövetelményeit. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
+
+– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására
+
+c) attitűdje
+
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
+
+– Kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
+
+– Kész a pedagógia folyamatok tervezésének folyamatos felülvizsgálatára.
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri a hatékony tanulási módszereket és technikákat.
+
+– Ismeri az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazásának speciális szempontjait, lehetőségeit.
+
+– Ismeri a különböző motivációelméleteket, a tanulási motiváció felismerésének és fejlesztésének módszereit.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+b) képességei
+
+– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+
+– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat elemezni, értelmezni, a tanulók fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
+
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+
+c) attitűdje
+
+– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+
+– Törekszik az egész életen át tartó tanulással kapcsolatos pozitív attitűdök kialakítására.
+
+– Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+
+– Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+
+– Ismeri a nyelvtanulási folyamat és kimenet mérésének, értékelésének elméletét, illetve gyakorlati kérdéseit.
+
+– Ismeri a vizsgákat és követelményeiket. Képes tesztfeladatok készítésére, kipróbálására, az eredmények értékelésére.
+
+b) képességei
+
+– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+– képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani.
+
+– képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+
+c) attitűdje
+
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+
+– Reálisan ítéli meg a pedagógus szerepét a fejlesztő értékelés folyamatában.
+
+– Elkötelezett a tanulást támogató értékelés mellett.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri a kommunikációs stratégiákat, az osztálytermi kommunikáció sajátosságait
+
+– Ismeri a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjait.
+
+– Tájékozott a szakterületéhez és tanári hivatásához kötődő információs forrásokról, szervezetekről.
+
+b) képességei
+
+– Szakmai szituációkban képes szakszerű, közérthető, nyílt és hiteles kommunikációra tanulókkal, szülőkkel, a szaktárgyainak megfelelő szakterületek képviselőivel, az iskolai és iskolán kívüli munkatársakkal a partnerek életkorának, kultúrájának megfelelően.
+
+– Képes a tanulókkal a kölcsönös tiszteletre és bizalomra épülő kapcsolatrendszer megteremtésére, az együttműködési elvek és formák közös kialakítására, elfogadtatására.
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+c) attitűdje
+
+– Kész együttműködni a szaktárgy, valamint más szaktárgyak tanáraival.
+
+– Nyitott a pedagógiai tevékenységére vonatkozó javaslatokra.
+
+– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában.
+
+– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére, és ehhez nyitott a környezet visszajelzéseinek felhasználására.
+
+– Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok tankönyvek kipróbálása, bírálata).
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Önállóan képes szakmája, a szaktárgyainak tanításával-tanulásirányításával kapcsolatos átfogó, megalapozó szakmai kérdések átgondolására és az ide vonatkozó források alapján megfelelő válaszok kidolgozására.
+
+b) képességei
+
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
+
+– Kész részt vállalni a szaktárggyal kapcsolatos fejlesztési, innovációs tevékenységben.
+
+– Nyitott a pedagógiai tevékenységére vonatkozó javaslatokra, építő észrevételekre.
+
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, s reflektív módon törekszik tevékenységének javítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+a) attitűdje
+
+– Felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
+
+– A szakmáját és a szaktárgyainak megfelelő tudományterületeket megalapozó nézeteket felelősséggel vállalja.
+
+– Kész végiggondolni és képviselni az adott szakterület etikai kérdéseit.
+
+– Egyenrangú partner a szakmai kooperációban.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 91-106 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 28-32 kredit
+
+– japán nyelvfejlesztés: beszéd, hallás utáni értés, szövegértés
+
+– nyelvészeti, irodalmi, történelmi, kulturális és társadalmi alapismeretek
+
+b) Szakmai törzsanyag szakterületi ismeretkörei: 28–32 kredit
+
+– japán nyelvfejlesztés: szövegértés, fordítás, fogalmazás, esszéírás
+
+– irodalmi, kulturális, történelmi ismeretek
+
+c) Kötelezően választható szakmai ismeretek: 35–42 kredit
+
+– japanológiai és kutatási ismeretek
+
+– egyéb kulturális ismeretek
+
+– középiskolai és felnőttkori tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák
+
+– szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (prezentációs készségek, képességek fejlesztése).
+
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az adott nevelés-oktatási szakaszban képes legyen magas színvonalon ellátni a japán nyelv oktatási feladatait.
+
+– A japán nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörei: 8 kredit
+
+– Nyelv, irodalom és a kultúra tanításának módszertana.
+
+– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
+
+– Nyelv, irodalom és kultúra-oktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv vonatkozó tartalmi szabályozóinak ismerete.
+
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka, projektfeladatok).
+
+– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
+
+– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
+
+– Tananyagkészítés, projektmunka és személyre szabott oktatás.
+
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat: 2 kredit.
+
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat: 2 kredit.
+
+10. Kínai nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség
 
 – magyar nyelvű megjelölése: okleveles kínai nyelv és kultúra tanára
 
-– angol nyelvű megjelölése: teacher of Chinese language and culture
+– szakképzettség angol nyelvű megjelölése: Teacher of Chinese Language and Culture
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+2. A képzési idő: 10 félév
 
-– a képzési idő 12 félév
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a kínai nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a kínai nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és ) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2.1. A kínai nyelv és kultúra tanárának szakterületi tudása, készségei, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. A kínai nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
+a) tudása
 
-Kínai nyelvtudás, nyelvhasználat terén
+– Alapvető pszichológiai, pedagógiai és szociológiai tudással rendelkezik a személyiség sajátosságaira és fejlődésére vonatkozó nézetekről, a szocializációról és a perszonalizációról, a hátrányos helyzetű tanulókról.
 
-– Magas, legalább HSK 5. szintű (CEFR C1 szintű), használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezzen. Képes a kínai nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a személyiségfejlődés zavarait, a magatartásproblémák okait, a gyermeknevelés, a tehetséggondozás és az egészségfejlesztés módszereit.
 
-– Ismeri a beszélt és írott kínai nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Ismeri a tanulók megismerésének módszereit.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
-A célnyelvi kultúrák közvetítése terén
+– Ismeri a kétszintű nyelvi érettségi vizsga követelményeit és a vizsgák minőségi kritériumait.
 
-– Ismeri a kínai kultúrát, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a kínai kultúra jellemző szellemi, művészeti irányzatait, megjelenési formáit, műveit, és azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni (filozófiai, vallási hagyományok, irodalmi, képzőművészeti, filmes, zenei művek, trendek).
+b) képességei
 
-– Képes a modern kínai nyelvű irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Képes reális képet kialakítani a tanulók világáról, a nevelés és a tanulói személyiség fejlesztésének lehetőségeiről.
 
-Szaktudományi, szakmódszertani tudás terén
+– Képes tapasztalt kollégák, mentorok segítségével a tanulók egyéni szükségleteit figyelembe véve olyan pedagógiai helyzeteket teremteni, amelyek elősegítik a tanulók értelmi, érzelmi, szociális és erkölcsi fejlődését, az egészséges életvitel kialakítását.
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
+– Képes a szaktárgy speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritériumorientált mérésére.
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Képes a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagokat tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
 
-A pedagógiai folyamat tervezése terén
+– Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti idegennyelvi szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+c) attitűdje
+
+– Nyitott a személyiségfejlesztés változatos módszereinek elsajátítására.
+
+– Tiszteli a tanulók személyiségét, képes mindenkiben meglátni az értékeket és pozitív érzelmekkel (szeretettel) viszonyulni minden tanítványához.
+
+– Érzékeny a tanulók problémáira, törekszik az egészséges személyiségfejlesztés feltételeit biztosítani minden tanuló számára.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Alapvető tudással rendelkezik a társadalmi és csoportközi folyamatokról, a demokrácia működéséről, az enkulturációról és a multikulturalizmusról.
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket, a közösség kialakítását, fejlesztését elősegítő pedagógiai módszereket.
+
+b) képességei
+
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
+
+– Képes együttműködésre, kölcsönösségre, asszertivitásra és segítő kommunikációra.
+
+– Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+
+– Képes értelmezni és a tanulók érdekében felhasználni azokat a társadalmi-kulturális jelenségeket, amelyek befolyásolják a tanulók esélyeit, iskolai, illetve iskolán kívüli életét.
+
+– Képes hozzájárulni az iskolai és osztálytermi toleráns, nyitott légkör megteremtéséhez.
+
+c) attitűdje
+
+– Előítéletektől mentesen végzi tanári munkáját, igyekszik az inklúzió szemléletét magáévá tenni.
+
+– Törekszik a fiatalok világáról minél több ismeretet szerezni, tiszteli különbözőségeiket és jogaikat.
+
+– Folyamatosan együttműködik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Ismeri a kínai kultúrát, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére, legalább C1 szintű, használható nyelvtudással rendelkezik.
+
+– Ismeri a kínai kultúra jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga, illetve tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni (irodalmi, képzőművészeti, filmes, zenei művek, trendek).
+
+– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait és tudását a nyelvtanítás során képes alkalmazni.
+
+– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait.
+
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit.
+
+– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát.
+
+– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket.
+
+– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát.
+
+– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+b) képességei
+
+– Képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+– Képes a modern kínai nyelvű irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+
+– Képes a diákok kínai nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+
+c) attitűdje
+
+– Kész a folyamatos szaktudományi, szakmódszertani és neveléstudományi megújulásra.
+
+– Nyitott arra, hogy szakmai segítséget kérjen és elfogadjon, ha szükséges.
+
+– Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a kínai nyelv tanításának jogszabályi hátterét, vizsgakövetelményeit. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+b) képességei
 
 – Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+c) attitűdje
 
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+– Kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– Kész a pedagógia folyamatok tervezésének folyamatos felülvizsgálatára.
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri a hatékony tanulási módszereket és technikákat.
+
+– Ismeri az általános pedagógiai-pszichológiai képzésben tanult módszerek, eljárások szaktárgyi alkalmazásának speciális szempontjait, lehetőségeit.
+
+– Ismeri a különböző motivációelméleteket, a tanulási motiváció felismerésének és fejlesztésének módszereit.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+b) képességei
 
 – Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
+
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+
+c) attitűdje
 
 – Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azokra célnyelven reflektáljon. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Törekszik az egész életen át tartó tanulással kapcsolatos pozitív attitűdök kialakítására.
 
-Szakmai elkötelezettség és önfejlesztés terén
+– Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+
+– Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+
+– Ismeri a nyelvtanulási folyamat és kimenet mérésének, értékelésének elméletét, illetve gyakorlati kérdéseit.
+
+– Ismeri a vizsgákat és követelményeiket. Képes tesztfeladatok készítésére, kipróbálására, az eredmények értékelésére.
+
+b) képességei
+
+– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására (így portfólió formájában).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+– Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani.
+
+– Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+
+c) attitűdje
+
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+
+– Reálisan ítéli meg a pedagógus szerepét a fejlesztő értékelés folyamatában.
+
+– Elkötelezett a tanulást támogató értékelés mellett.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri a kommunikációs stratégiákat, az osztálytermi kommunikáció sajátosságait
+
+– Ismeri a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjait.
+
+– Tájékozott a szakterületéhez és tanári hivatásához kötődő információs forrásokról, szervezetekről.
+
+b) képességei
+
+– Szakmai szituációkban képes szakszerű, közérthető, nyílt és hiteles kommunikációra diákokkal, szülőkkel, a szaktárgyainak megfelelő szakterületek képviselőivel, az iskolai és iskolán kívüli munkatársakkal a partnerek életkorának, kultúrájának megfelelően.
+
+– Képes a tanulókkal a kölcsönös tiszteletre és bizalomra épülő kapcsolatrendszer megteremtésére, az együttműködési elvek és formák közös kialakítására, elfogadtatására.
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
 
 – Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok tankönyvek kipróbálása, bírálata).
+c) attitűdje
 
-4.2.2. A kínai nyelv és kultúra tanára szak szakterületi ismeretei:
+– Kész együttműködni a szaktárgy, valamint más szaktárgyak tanáraival.
 
-a) szakmai alapozó ismeretek: 32–36 kredit
+– Nyitott a pedagógiai tevékenységére vonatkozójavaslatokra.
 
-Kínai nyelvfejlesztés: beszéd, hallás utáni értés, szövegértés, fordítás, fogalmazás, esszéírás.
+– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában.
 
-– Nyelvészeti, irodalmi, kulturális, történelmi és országismereti alapismeretek.
+– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére, és ehhez nyitott a környezet visszajelzéseinek felhasználására.
 
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
+– Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok tankönyvek kipróbálása, bírálata).
 
-– Kínai irodalom.
+Az autonómia és a felelősségvállalás területén
 
-– Nyelvészeti és alkalmazott nyelvészeti ismeretek.
+a) tudása
 
-– Kína történelme és kultúrája.
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, s reflektív módon törekszik tevékenységének javítására, szakmai felkészültségének folyamatos fejlesztésére.
 
-– Nyelvfejlesztés.
+– Kész részt vállalni a szaktárggyal kapcsolatos fejlesztési, innovációs tevékenységben.
 
-– Szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (prezentációs készségek, képességek fejlesztése).
+– Kész végig gondolni és képviselni az adott szakterület etikai kérdéseit.
 
-– Kínai irodalom és kultúra.
+b) képessége
 
-– Nyelvészeti és alkalmazott nyelvészeti ismeretek.
+– Önállóan képes szakmája, a szaktárgyainak tanításával-tanulásirányításával kapcsolatos átfogó, megalapozó szakmai kérdések átgondolására és az ide vonatkozó források alapján megfelelő válaszok kidolgozására.
 
-5. A kínai nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– Felelősséggel képes vállalni a kezdeményező szerepét a szakmai együttműködés kialakítására. Egyenrangú partner tud lenni a szakmai kooperációban.
 
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+c) attitűdje
 
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni, alkalmazni.
+– Felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
 
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
 
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok kínai nyelvtudását – a Nemzeti alaptantervi tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+– A szakmáját és a szaktárgyainak megfelelő tudományterületeket megalapozó nézeteket felelősséggel vállalja.
 
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének, értékelésének elméletét, illetve gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+– Nyitott a pedagógiai tevékenységére vonatkozójavaslatokra.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
 
-– A Közös Európai Referenciakeret és annak alkalmazása.
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 91-106 kredit
 
-16. Olasz nyelv és kultúra tanára
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+a) Szakmai alapozó ismeretek: 28–32 kredit
+
+– kínai nyelvfejlesztés: beszéd, hallás utáni értés, szövegértés
+
+– nyelvészeti, irodalmi, történelmi, kulturális és társadalmi alapismeretek
+
+b) Szakmai törzsanyag ismeretkörei: 28–32 kredit
+
+– kínai nyelvfejlesztés: szövegértés, fordítás, fogalmazás, esszéírás
+
+– irodalmi, kulturális, történelmi ismeretek
+
+c) Kötelezően választható szakmai ismeretek: 35–42 kredit
+
+– sinológiai és kutatási ismeretek
+
+– egyéb kulturális ismeretek
+
+– középiskolai és felnőttkori tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák
+
+– szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (prezentációs készségek, képességek fejlesztése).
+
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
+
+– A kínai nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörei: 8 kredit
+
+– Nyelv, irodalom és kultúra tanításának módszertana. Kínai nyelvfejlesztés (beszéd, hallás utáni értés, szövegértés) módszertana.
+
+– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
+
+– Nyelv, irodalom és kultúra oktatásának céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint a nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
+
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
+
+– A nyelv mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
+
+– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
+
+– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
+
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat: 2 kredit.
+
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat: 2 kredit.
+
+11. Latin nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
+
+– magyar nyelvű megjelölése: okleveles latin nyelv és kultúra tanára
+
+– szakképzettség angol nyelvű megjelölése: Teacher of Latin Language and Culture
+
+2. A képzési idő: 10 félév
+
+3. A képzés célja a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a latin nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+
+4. Az elsajátítandó szakmai kompetenciák
+
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és ) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
+
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+
+4.2.1. A latin nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
+
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
+
+a) tudása
+
+– Ismeri a tanulói személyiség sajátosságaira és fejlődésére vonatkozó alapvető pszichológiai, pedagógiai és szociológiai jellemzőket.
+
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (motiváció, életkor, nyelvi szorongás, kognitív stratégiák, anyanyelvi tudatosság).
+
+– Ismeri a tanulók megismerésének pedagógiai módszereit.
+
+– Megbízható, friss tudással rendelkezik a gyermeknevelés, a tehetséggondozás és az egészségfejlesztés módszereiről.
+
+– Korszerű ismeretekkel rendelkezik a hátrányos helyzetű tanulókról sajátos igényeiről, a lehetséges magatartásproblémák okairól.
+
+– Ismeri a latin nyelv és kultúra által közvetített fogalmak kialakulásának folyamatát, és a tanulók életkori sajátosságait figyelembe véve tudja felhasználni őket a tanulók fogalomrendszerének fejlesztésében.
+
+b) képességei
+
+– Képes a latin nyelv tanításának pedagógiai gyakorlatát és annak a tanulók személyiségfejlődésre gyakorolt hatását objektivitásra törekedve elemezni.
+
+– Képes ismereteit hatékonyan felhasználni tanulói általános fejlesztésére, illetve célzottan alkalmazni a nyelvtanítás érdekében.
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes a latin nyelv oktatásában rejlő személyiségfejlesztési lehetőségeket kihasználni, a tanulók önálló ismeretszerzését támogatni.
+
+– Képes a latin nyelv és kultúra speciális ismeretanyagával és fogalomkészletével kapcsolatos egyéni megértési nehézségek kezelésére.
+
+c) attitűdje
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+– Nyitott a személyiségfejlesztés változatos módszereinek elsajátítására.
+
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+– Tiszteli a tanulók személyiségét, és képes mindenkiben meglátni az értékeket, és elfogadó nyitottsággal viszonyulni minden tanítványához.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtés lehetőségeit.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+– Ismeri a különböző szociokulturális hátterű tanulói csoportok oktatásának összetevőit.
+
+b) képességei
+
+– Képes latin nyelv és kultúra oktatását úgy szervezni, hogy az általa közvetített ismeretek elősegítsék a csoportok közösséggé fejlődését és reális önképének kialakulását.
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
+
+– Képes értelmezni és a tanulók érdekében felhasználni azokat a kulturális szakmai tudáselemeket, amelyek befolyásolják a tanulók esélyeit, iskolai, illetve iskolán kívüli életét.
+
+c) attitűdje
+
+– Elkötelezett a demokratikus gondolkodásra nevelésben, valamint fontosnak tartja a fenntarthatóság és környezettudatosság kialakítását a tanulókban.
+
+– Célul tűzi ki az ismereteken alapuló, mérlegelő gondolkodás képességének kialakítását a tanulókban.
+
+– Szaktanári munkája során tudatosan törekszik a nemzeti és európai kultúra alapját képező értékek elfogadtatására.
+
+– Törekszik úgy nevelni, hogy tanítványai mások véleményét, értékeit tiszteljék.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Legalább C1 szintű, használható latin nyelvtudással rendelkezik.
+
+– Ismeri a tanított latin nyelvű szövegek kulturális összefüggéseit.
+
+– Ismeri a latin nyelv tanításának különféle módszereit, tanulás-módszertani ismeretei alapján képes a nyelvtanulás folyamatának értékelésére, a tanulási módszerek eredményességének értékelésére, adekvát tanulási technikák és munkaszervezési eljárások bevezetésére.
+
+– Ismeri a klasszikus ókori kultúrák - különösen a római - kutatásának korszerű eredményeit.
+
+– Ismeri a latin nyelv, irodalom és kultúra oktatásához alkalmazható taneszközöket, oktatási segédanyagokat, képes azok célcsoportnak megfelelő kiválasztására.
+
+– Tájékozott a latin nyelv tanításának európai helyzetéről, a szakdidaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
+
+b) képességei:
+
+– Képes latin nyelvű szövegek magas szintű nyelvi és kulturális értelmezésére.
+
+– Képes források, autentikus szövegek felkutatására, recepciójára, felhasználására.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes a latin nyelv és kultúrával kapcsolatos diszciplínák területén folytatott önálló ismeretszerzésre, a szakirodalom interpretációjára.
+
+– Képes a szövegek értelmezése során saját narratíva kialakítására, illetve annak reflexív, tudatos formálására.
+
+– Képes az eltérő nézőpontból fakadó értelmezés és értékelés különbségeinek felismerésére.
+
+c) attitűdje
+
+– Törekszik nyelvi és ókortudományi tudásának folyamatos fejlesztésére.
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg a latin nyelv és kultúra oktatásának társadalmi szerepét.
+
+– Igyekszik aktívan együttműködni szaktárgya, valamint más tantárgyak tanáraival.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti latin nyelv szaktárgyi követelményeket, az iskolai nevelő-oktató munka jogszabályi szabályozását.
+
+– Ismeri a munkájához szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket, digitális adatbázisokat és internetes portálokat.
+
+– Ismeri a tananyag-kiválasztás és -rendszerezés szaktudományi, pedagógiai-pszichológiai, továbbá szakmódszertani szempontjait.
+
+– Ismeri és érti a nevelés-oktatás és az értékközvetítés összefüggéseit.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
+
+– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
+
+– Képes a tananyagot és annak közvetítését az adott tanulócsoporthoz igazítani.
+
+c) attitűdje:
+
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
+
+– A tervezés során együttműködik a munkatársakkal és a tanulókkal, kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
+
+– Munkájában fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Alapvető ismeretekkel rendelkezik a különböző motiváció-elméletekről, a tanulási motiváció felismerésének és fejlesztésének módszereiről.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+– A tervezés, felkészülés és megvalósítás során figyelembe veszi az adott tanulócsoport sajátosságait.
+
+b) képességei
+
+– Képes az élményközpontú latinoktatásra, a szaktárgy speciális összefüggéseinek, fogalmainak érthető és gondolkodásalapú megismertetésére, valamint a szaktárgy oktatása során használható online felületek kiválasztására és bemutatására.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
+
+– Fontosnak tartja a szaktárgya oktatásához szükséges szaktárgyi tudás és képességek megszerzését, tanulói szaktárgyi ismereteinek és tanulási képességeinek fejlesztését.
+
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő, aktivitást, interaktivitást, differenciálást elősegítő nyelvtanulási stratégiák, módszerek alkalmazására.
+
+– Ösztönözi a tanulókat az informatikai ismereteknek a nyelvtanulás során való felhasználására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Tisztában van alapvető értékelési és mérésmetodikai szabályokkal, összefüggésekkel.
+
+– Ismeri a szaktantárgy tanítása-tanulása során elsajátított ismeretek és fejlesztendő kompetenciák mérésére, értékelésére alkalmas sajátos módszereket, eszközöket.
+
+– Járatos a diagnosztikus, a formatív és a szummatív értékelés elemeiben, korszerű módszereiben, gyakorlatában.
+
+– Ismeri az értékelési folyamat differenciálási lehetőségeit.
+
+b) képességei:
+
+– Képes alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására, (így portfólió formájában).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+c) attitűdje
+
+– Elkötelezett a tanulást támogató értékelés mellett.
+
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
+
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
+
+– Ismeri az önképzés lehetőségeit, tájékozódik a szakmai szervezetek működését és a tevékenységükben való részvétel lehetőségeit illetően.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+c) attitűdje
+
+– Elkötelezett a nemzetiségi, kulturális és vallási különbségek tiszteletben tartása iránt és a sajáttól eltérő nemzetiségek, egyéb kisebbségi csoportok, kultúrák és vallások értékeinek elismerésében.
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
+
+– Felelősséggel vállalja a kezdeményező szerepét a szakmai együttműködés kialakítására. Egyenrangú partner a szakmai kooperációban.
+
+– Ismeri a megújuló latintanítás kiemelt területeit és az érettségi követelményekben meghatározott tartalmi kritériumokat.
+
+b) képességei
+
+– Képes önismeretének, saját személyiségének fejlesztésére és ennek érdekében nyitott környezetének visszajelzései felé.
+
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+– Képes nyelvtudása állandó és önálló fejlesztésére.
+
+c) attitűdje
+
+– Együttműködés és felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
+
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 91-111 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 25-35 kredit
+
+– Könnyebb klasszikus latin irodalmi és egyéb latin nyelvű szövegek elemző olvasása (szövegolvasás, auktorolvasás).
+
+– A latin (leíró) nyelvtan ismerete.
+
+– Az ókori művelődés (mitológia, tárgyi kultúra, életmód és mindennapi élet az ókorban, ógörög nyelv alapjai), illetve a görög és római történelem átfogó ismerete.
+
+b) A szakmai törzsanyag szakterületi ismeretkörei: 66-76 kredit
+
+– Nehezebb klasszikus és középkori, illetve újkori latin irodalmi és egyéb szövegek elemző (grammatikai, esztétikai, irodalmi, irodalomelméleti, filozófiai, történeti szemléletű) olvasása (szövegolvasások, auktorolvasások).
+
+– Latin (leíró) nyelvtan, amelynek egy része lehet stílusgyakorlat is.
+
+– A görög és római irodalom áttekintő ismerete.
+
+– Görög és római, általános ókori vallástörténet.
+
+– A görög és római filozófia áttekintő ismerete.
+
+– Latin nyelvű művek (irodalmi és nem irodalmi, esetleg a tárgyi kultúrába tartozó alkotások) esztétikai szempontú elemzése.
+
+– A latin nyelvű kultúrák és a modern világ összefüggéseinek ismerete.
+
+– Az ókori Mediterráneum, Pannónia, illetve a korai kereszténység régészeti emlékei.
+
+– Az ókori Mediterraneum művészete, tárgyi emlékei.
+
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy a középfokú nevelés-oktatás 9-12. évfolyamain képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
+
+– A latin nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
+
+– Nyelv, irodalom és a kultúra tanításának módszertana.
+
+– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
+
+– Nyelv, irodalom és nemzetiségi kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint nemzetiségi nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
+
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
+
+– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
+
+– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
+
+– A latin nyelv és kultúra oktatásához kapcsolódó oktatástechnikai eszközök innovatív használatának ismeretei (kollaborációs tér, oktatási szoftverek és applikációk).
+
+– Tananyagkészítés, projektmunka és személyre szabott oktatás.
+
+– Összefüggő, egyéni iskolai gyakorlatot támogató szeminárium: 2 kredit.
+
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat latin nyelven: 2 kredit.
+
+12. Lengyel és nemzetiségi lengyel nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
+
+– magyar nyelvű megjelölése: okleveles lengyel és nemzetiségi lengyel nyelv és kultúra tanára
+
+– szakképzettség angol nyelvű megjelölése: Teacher of Polish Language and Culture
+
+2. A képzési idő: 10 félév
+
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a lengyel nyelv és lengyel nyelv és irodalom, valamint a lengyel népismeret tantárgy tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+
+4. Az elsajátítandó szakmai kompetenciák
+
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
+
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+
+4.2.1. A lengyel és nemzetiségi lengyel nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
+
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
+
+a) tudása
+
+– Ismeri a tanulók tanulásának, tudásának alakulását befolyásoló tényezőket, és azok ismeretében alkalmazza a megfelelő tanulási stratégiákat.
+
+– Tisztában van a sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló többi tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges módszerekkel.
+
+– Ismeri a szaktárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
+
+b) képességei
+
+– Képes a tanuló személyiségjegyeinek felismerésére és fejlesztésére, nyitott a környezet visszajelzéseinek felhasználására.
+
+– Képes a nemzetiségi szaktárgy speciális összefüggéseit megismertetni, az ebből adódó nehézségeket megoldani.
+
+c) attitűdje
+
+– Koherens egyéni álláspontjával segíti a tanuló és közössége épülését. Alkalmas a tanuló motivációjának felismerésére és erősítésére.
+
+– Az aktuális hazai és nemzetiségi szakirodalmat a helyzetnek megfelelően alkalmazza, tudását folyamatosan bővíti.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a tanulói csoportok kialakításához szükséges módszereket, amelyek alkalmazása során figyelembe veszi a tanulók sokszínűségét.
+
+– Segíti a közösség kialakítását, fejlesztését, ismeri az azt elősegítő pedagógiai módszereket.
+
+– Segíti a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadását.
+
+b) képességei
+
+– Tudatosan kezeli az értékek sokszínűségét, tiszteletben tartja azokat, nyitott mások véleményére.
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére. Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a tanulókat helyi, nemzeti és nemzetiségi értékek elfogadására nevelni.
+
+c) attitűdje
+
+– Alkalmas olyan pedagógiai helyzetek kialakítására, amelyekben a különböző értékek elfogadását segíti, a tanulókat együttműködésre motiválja.
+
+– Az iskola világában tudatosan törekszik a nemzeti és nemzetiségi kultúra alapját képező értékek elfogadtatására.
+
+– Fontosnak tartja az etnikumok és nemzetiségek iránti tolerancia kialakítását.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Ismeri a lengyel nyelvű szakmódszertan alapvető irányait és alaptételeit, valamint a tanulmányterület legfontosabb összefüggéseit, elméleteit és a hozzájuk kapcsolódó terminológiát, illetve a problémamegoldás módszereit.
+
+– Ismeri a szakmódszertan hazai és nemzetközi eredményeit, szakirodalmát, aktuális kérdéseit, számítástechnikai, könyvtári forrásait.
+
+– Ismeri az aktuális és érvényben lévő érettségi követelményeket.
+
+b) képességei
+
+– Képes nemzetiségi tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát, képes a lengyel nemzetiségi szakterület és szakmódszertan ismeretrendszerét alkotó elképzelések alapfokú analízisére, az összefüggések szintetikus megfogalmazására és adekvát értékelő tevékenységre lengyel nyelven.
+
+– Rendelkezik az önálló tanuláshoz szükséges képességekkel.
+
+– Képes rutin szakmai problémák azonosítására, az azok megoldásához szükséges elvi és gyakorlati háttér feltárására, megfogalmazására és megoldására.
+
+– Képes rugalmasan alakítani a tanítási stratégiákat a tanulási célokkal összhangban és differenciálni a tanulói képességeknek megfelelően.
+
+– Képes a másokkal való kooperációra, valamint szakmai tudásának egy adott munkahely különböző szakmai elvárásainak megfelelő felhasználására.
+
+– Képes az alkotó információhasználatra.
+
+– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
+
+c) attitűdje
+
+– Ismeri, vállalja és hitelesen képviseli szakmája társadalmi helyét és szerepét, alapvető viszonyát a világhoz.
+
+– Nyitott szakmája átfogó gondolkodásmódjának és gyakorlati működése alapvető jellemzőinek hiteles közvetítésére, átadására.
+
+– A folyamatos önképzés igénye jellemzi.
+
+– Önállóság jellemzi, nyitott a külső változásokra, aktívan képes részt venni az iskola szaktárgyi munkaközösségének munkájában.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv, valamint a nemzetiségi irányelv és az arra épülő kerettantervek szerinti lengyel szaktárgyi és érettségi követelményeket, valamint az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet és az óraterv szintjén, valamint ennek rendszerszemléletű, interdiszciplináris megközelítésére. Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére.
+
+– Képes a tanítandó tananyag súlypontjait, felépítését, közvetítésének logikáját a tantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
+
+c) attitűdje
+
+– Fontosnak tartja a formális, nem formális és informális úton, tanulási környezetben szerzett tudás összekapcsolását.
+
+– Nyitott a kollégákkal és a tanulókkal való együttműködésre.
+
+A tanulás segítése, szervezése és irányítása területén.
+
+a) tudása
+
+– Ismeri a tanulás támogatásának különböző stratégiáit és módszereit, ismeri a tanulók lengyel nyelvi kompetenciáit, a differenciált oktatás lehetőségeinek alkalmazását elméletben és gyakorlatban.
+
+– Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+– Ismeri a különböző tanulási környezetek tanulási eredményességre gyakorolt hatásait.
+
+– Ismeri a szaktantárgy tanításának-tanulásának tanórai, tanórán kívüli és az iskolán kívüli lehetőségeit, színtereit.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+– Ismeri az egész életen át tartó tanulásra való felkészítés jelentőségét.
+
+b) képességei
+
+– Képes az önszabályozott tanulás szintjének megfelelő változatos feladatadásra, támogatja a tanulókat egyéni tanulási útjuk megtalálásában.
+
+– Képes egyéni tanulásfejlesztési tervet kidolgozni és széles körű együttműködést kezdeményezni a tanulási problémák kezelésében az érintettek körében.
+
+– Képes nyugodt, biztonságos és az eredményes tanulást segítő tanulási környezet megszervezésére.
+
+– Képes a szaktárgy speciális összefüggéseivel, fogalmaival kapcsolatos megértési nehézségek felismerésére és kezelésére.
+
+c) attitűdje
+
+– Nyitott az új tanuláselméletek, tanulási-tanítási módszerek, a digitális pedagógiai eszközök alkalmazásának megismerésére és saját tanulási-tanítási folyamatába való beépítésére.
+
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
+
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri és alkalmazza a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+b) képességei
+
+– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (így portfólió formájában is).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Alkalmas a pedagógiai folyamatoknak megfelelő, objektív, reális tudásszint mérésére.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri a pedagógiai és nemzetiségi pedagógiai kérdéseket, tájékozott a hazai nemzetiségi és anyaországi szakmai kérdésekben.
+
+– Együttműködik a pedagógiai és nemzetiségi területek képviselőivel, szakmódszertani központjaival.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő szakemberekkel, szakmai intézményekkel való együttműködés módjairól.
+
+b) képességei
+
+– Tudatosan építi a pedagógiai és nemzetiségi szervezeteken belüli és kívüli kapcsolatokat, együttműködési lehetőségeket.
+
+– Aktívan közreműködik a pedagógiai és szervezeti, valamint nemzetiségi szakmai tevékenységekben.
+
+– Követi és figyelembe veszi munkájában a helyi innovációk eredményeit.
+
+– Képes a tanulókkal a kölcsönös tiszteletre és bizalomra épülő társas-lelkületi kapcsolatrendszer megteremtésére, az együttműködési elvek és formák közös kialakítására, elfogadtatására.
+
+c) attitűdje
+
+– Szerepet vállal a szervezeti szintű megbeszéléseken, szóban és írásban.
+
+– Az intézményi és nemzetiségi kapcsolatrendszerben szakmai kérdések megbeszélésére ösztönöz, kezdeményező szerepet vállal.
+
+– Önálló, tudományos adatokon és tapasztalati elemzésen nyugvó véleményalkotás jellemzi.
+
+– Betartja a pedagóguspálya jogi és etikai normáit.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Ismeri a pedagógiai munkájában felmerülő problémáihoz megoldást kínáló adekvát szakirodalmat, amelyet munkájában aktívan felhasznál.
+
+b) képességei
+
+– Képes együttműködni az adott szláv nyelv területéhez kapcsolódó hazai és nemzetközi partnerekkel.
+
+– Tudása és képességei keretei között látja a helyét egyének és csoportok szakmai fejlődésének felelősségvállalásában.
+
+– Képes az iskolán belül és a nemzetiségi közösséget érintve szakmai párbeszédet, egyeztetést kezdeményezni a pedagógus feladatainak kérdéseiről.
+
+c) attitűdje
+
+– Alkalmas arra, hogy részesévé váljon az iskola szervezeti életének.
+
+– A pedagógusokat, az iskolát, a nemzetiségi identitást érintő kérdésekben állást foglal, párbeszédet kezdeményez.
+
+– Az iskolai, nevelési-oktatási problémák értelmezésében, a problémamegoldásban kezdeményező, aktív szerepet tölt be.
+
+– Elfogadja az iskola, a pedagógusok, a nemzetiségi létből fakadó társadalmi felelősségeit.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (tantárgy-pedagógiai) ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 92-106 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv, valamint a nemzetiségi iskolai nevelés-oktatás irányelve alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 22-26 kredit
+
+– Közismereti tantárgyak: irodalomtudományi , nyelvtudományi alapismeretek.
+
+– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
+
+– Lengyelország ismerete: a célnyelvi ország földrajzi adottságai, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
+
+– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok); a magyarországi lengyel nemzetiség története, tárgyi és szellemi kultúrája.
+
+b) A szakmai törzsanyag ismeretkörei: 70-80 kredit
+
+– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek; a célnyelv és nemzetiségi nyelv; stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
+
+– Irodalomtörténeti ismeretek: lengyel irodalomtörténeti áttekintés: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegértelmezés, szövegelemzés; irodalom és medialitás, magyar-lengyel irodalmi kapcsolatok.
+
+– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológia, morfológia, szintaktika, alkalmazott nyelvészeti ismeretek: lexikológia lexikográfia, grammatika, stilisztika, nyelvtörténet.
+
+– Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése.
+
+– Nemzetiségi szakismeretek: a magyarországi lengyelek nyelvhasználata (szociolingvisztikai kérdések: kétnyelvűség, diglosszia); nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer, a magyarországi lengyelek irodalma, a magyarországi lengyel nemzetiség tudományos élete.
+
+– Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
+
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
+
+– A lengyel és nemzetiségi lengyel nyelv és kultúra tanára szakképzettség sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei: 8 kredit
+
+– Nyelv, irodalom és nemzetiségi kultúra tanításának módszertana.
+
+– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
+
+– Nyelv, irodalom és nemzetiségi kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint a nemzetiségi nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
+
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.)
+
+– A nyelv mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
+
+– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
+
+– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
+
+– Az összefüggő, egyéni iskolai gyakorlatot támogató gyakorlat: 2 kredit.
+
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat lengyel nyelven: 2 kredit.
+
+13. A magyar mint idegen nyelv tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
+
+– magyar nyelvű megjelölése: okleveles magyar mint idegen nyelv tanára
+
+– szakképzettség angol nyelvű megjelölése: Teacher of Hungarian as a Foreign Language
+
+2. A képzési idő: 2 félév
+
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a magyar mint idegen nyelv tantárgy tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+
+4. Az elsajátítandó szakmai kompetenciák
+
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
+
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+
+4.2.1. A magyar mint idegen nyelv tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
+
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
+
+a) tudása
+
+– Ismeri a különböző nyelvtanítási módszereket, eljárásokat, technikákat, valamint a különböző szöveg- és feladattípusokat, amelyeket a tanulók szükségleteinek és a kitűzött céloknak megfelelően, hatékonyan, változatosan, motiválóan alkalmazza.
+
+– Ismeri a különböző nyelvi és kulturális hátterű tanulók eltérő szükségleteit, és tanítási eljárásait ehhez igazítja.
+
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (a nyelvérzék komponensei, életkor, motiváció, nyelvi szorongás, tanulási stílusok, stratégiák), és ennek megfelelően alakítja ki osztálytermi gyakorlatát.
+
+– Ismeri a magyar nyelv tanítása-tanulása során fejlesztendő készségeket, kompetenciákat, valamint ezek fejlesztésének és diagnosztikus mérésének módszereit.
+
+b) képességei
+
+– Képes ismereteit a nyelvtanítási céloknak megfelelően, diákjai kompetenciáinak a fejlesztésére hatékonyan, motiválóan alkalmazni.
+
+– Képes a különböző nyelvi és kulturális hátterű, eltérő képességekkel és előzetes tudással rendelkező tanulók igényeinek megfelelő módszerek, eljárások megválasztására, tervezésére és alkalmazására.
+
+– Képes megtervezni a nyelvtanítás folyamatát (tanterv, tanmenet, óravázlat, mérés, értékelés) életkoruknak, tudásuknak, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat, feladatokat megtervezni és alkalmazni.
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+c) attitűdje
+
+– Fontosnak tartja a különböző nyelvű és kultúrájú csoportok iránti tolerancia kialakítását.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a magyar és az európai kultúra alapjait.
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait és az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+b) képességei
+
+– Képes a tanórai és tanórán kívüli csoportos tevékenységek megszervezésére, a tanulói közösségekben rejlő lehetőségek kihasználására, az egyének közötti különbségek megértésére, illetve az együttműködési képesség fejlesztésére.
+
+– Képes az interkulturális szemlélet alkalmazására a tanulási tanítási folyamatban.
+
+– Képes a tanulókat helyi, nemzeti és egyetemes emberi értékek elfogadására nevelni.
+
+– Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének és felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a konfliktusok megelőzésére és hatékony kezelésére.
+
+c) attitűdje
+
+– Törekszik a különböző kultúrák megismerésére, és fontosnak tartja az irántuk való tolerancia kialakítását.
+
+– Tudatosan törekszik a nemzeti és európai kultúra alapját képező értékek megismertetésére.
+
+– Törekszik úgy nevelni, hogy tanítványai mások véleményét, értékeit tiszteljék.
+
+– Célul tűzi ki az ismereteken alapuló, mérlegelő gondolkodás képességének kialakítását a tanulókban.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Rendelkezik a magyar nyelv és kultúra tanításához szükséges korszerű nyelvészeti, nyelvpedagógiai ismeretekkel, valamint a kultúra egészére kiterjedő interdiszciplináris tudással.
+
+– Ismeri a magyar mint idegen- és mint származásnyelv oktatásának céljait, feladatait, tartalmait, színtereit, szaktárgy-specifikus alapelveit és módszertani eljárásait.
+
+– Ismeri a mai magyar nyelv fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit.
+
+– Ismeri a magyar nyelv területi és társadalmi változatait, a beszélt és írott magyar nyelv jellegzetességeit, azok kontextuálisan helyes alkalmazását.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+– Rendelkezik az információszerzéshez, az információk feldolgozásához, értelmezéséhez és elrendezéséhez szükséges alapvető (szövegértési, logikai, informatikai) felkészültséggel.
+
+– Ismeri az internet, a multimediális eszközök nyújtotta lehetőségeket.
+
+– Rendelkezik az egyéni és a közösségi sajátosságokhoz igazodó, a komplex nyelvi és interkulturális kompetenciafejlesztést, kulturális ismeretbővítést támogató szakmódszertani felkészültséggel.
+
+– Ismeri a hazai és a külföldi (Kárpát-medencei és a nyugati diaszpóra) magyar nyelvű kultúrát, azok hasonlóságait, különbségeit.
+
+– Ismeri a magyar kultúra szellemi, művészeti irányzatait, megjelenési formáit, hagyományait, kanonikus és kortárs műveit; azokat képes saját maga, valamint tanulói fejlesztésére hatékonyan és motiválóan, a nyelvtanítás céljára alkalmazni.
+
+– Ismeri a magyarországi és külhoni magyarok tárgyi, szellemi kultúráját, és képes azokat a más kultúrákból érkezett nyelvtanulók számára átadni, valamint alkalmazni magyar gyökerekkel rendelkező tanulói esetében a származásnyelv-tudás fejlesztésére, illetve nemzeti identitás erősítésére.
+
+– A magyar nyelvet felsőfokú (C1), komplex típusú nyelvvizsga szintjén ismeri, és használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik.
+
+b) képességei
+
+– Képes szaktudományi, szakmódszertani, szaktárgyi, tanuláselméleti és tantervi tudásának hatékony integrálására.
+
+– Képes anyanyelvének külső szemléletére.
+
+– Képes ismereteit a gyakorlatban alkalmazni és megfelelően közvetíteni a diákok számára.
+
+– Képes magát szakszerűen kifejezni mind szóban, mind írásban, valamint szaktárgyi és szakmódszertani kompetenciáit adaptív és kreatív módon alkalmazni a nyelvpedagógiai folyamatban.
+
+– Alkalmazza az internet, a multimediális eszközök nyújtotta lehetőségeket az oktatásban.
+
+– Rendszeresen elemezi az oktatási folyamatot, értékeli a választott munkamódszerek hatékonyságát és szükség szerint újratervezi azokat.
+
+c) attitűdje
+
+– Segíti a tanulók megismerési és alkotási vágyának kiteljesedését, valamint folyamatos fenntartását.
+
+– Fontosnak tartja a tanulók tudásának, készségeinek és képességeinek folyamatos fejlesztését.
+
+– Fontosnak tartja a kultúrák közötti közvetítést, a tanulók interkulturális kompetenciájának fejlesztését.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a pedagógiai tevékenységet meghatározó dokumentumokat, az alap-, keret- és helyi tanterveket, átlátja ezeknek az oktatás tartalmi szabályozásában betöltött szerepét.
+
+– Ismeri a magyar mint idegen nyelv tanításának jogszabályi hátterét, tantervi és vizsgakövetelményeit.
+
+– Ismeri a tananyag kiválasztásának és rendszerezésének szaktudományi, pedagógiai-pszichológiai, továbbá szakmódszertani szempontjait.
+
+– Tájékozott a magyar mint idegen nyelvi tananyagokkal, segédanyagokkal kapcsolatban.
+
+– Ismeri és tudja alkalmazni az idegen nyelvi nyelvpedagógiában bevált motiválási technikákat, a tanulói kommunikációt támogató eszközöket, illetve a visszacsatolási mechanizmusokat.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, az óraterv szintjén.
+
+– Képes a tanulási-tanítási stratégia és a pedagógiai céloknak és a tanulók életkori sajátosságainak megfelelő oktatási folyamat meghatározására, valamint a hatékony módszerek, szervezési formák, eszközök kiválasztására.
+
+– Képes a magyar mint idegen nyelv tanulása során felhasználható tananyagokat elemezni és a konkrét céloknak megfelelően használni.
+
+c) attitűdje
+
+– Fontosnak tartja a tanórákra és egyéb oktatási tevékenységekre való alapos felkészülést, a tervezést és a rugalmas megvalósítást.
+
+– A tervezés során együttműködik a munkatársakkal és a tanulókkal, kész figyelembe venni az adott tanulócsoport sajátosságait, szükségleteit.
+
+– Fontosnak tartja a magyar kultúra iránt érdeklődők olvasóvá nevelését, a tanulók önálló olvasói tevékenységeinek támogatását.
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri a különböző nevelési-oktatási módszerek alkalmazásának lehetőségeit, valamint tájékozott a differenciális és az adaptív tanulásszervezés kérdéseiben.
+
+– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra, továbbá ösztönzi a magyar mint idegen nyelvi vizsgákon való megmérettetést, ismeri azokat a lehetőségeket, amelyek a magyar mint idegen nyelv tanulóinak további szakmai fejlődést biztosítanak.
+
+b) képességei
+
+– Képes a magyar nyelv iránti érdeklődés felkeltésére, az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
+
+– Képes a nyelvtanulás sikerességét vagy sikertelenségét befolyásoló tényezők felmérésére, képes ezekről adatokat gyűjteni, azokat elemezni, értelmezni, és a diákok fejlődése érdekében a magyar mint idegen nyelvi tanulási folyamat gyakorlatában alkalmazni.
+
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására és javítására.
+
+– Képes a köznevelésben magyar mint idegen nyelvet tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására.
+
+c) attitűdje
+
+– Törekszik az életkori, egyéni és csoportsajátosságoknak megfelelő aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
+
+– Fontosnak tartja a tanulási folyamat hatékonyságának érdekében a tanulókkal és a kollégákkal való együttműködést.
+
+– Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri a nyelvi kompetenciák mérésével és értékelésével kapcsolatos eljárásokat, a nemzetközi mérések eredményeit, tanulságait, a Közös Európai Referenciakeret ajánlásait.
+
+– Ismeri a különféle vizsgarendszerek követelményeit, képes tesztfeladatok összeállítására, továbbá eredményük értékelésére.
+
+b) képességei
+
+– Képes a tanulók fejlődési folyamatának, tanulmányi teljesítményének és személyiségfejlődésének értékelésére, a különböző értékelési formák és eszközök használatára, az értékelés eredményeinek hatékony alkalmazására, továbbá az önértékelés fejlesztésére.
+
+– Képes a szaktárgyi célokat szolgáló fejlesztő értékelési módszerek és mérési eszközök kidolgozására, adaptív alkalmazására, akár vizsgáztatói feladatkörben is.
+
+c) attitűdje
+
+– Törekszik az értékelés különféle formáinak folyamatszerű és egységben való alkalmazására. A nyelvi nevelés és ismeretbővítés folyamatában olyan értékelő eljárásokat alkalmaz, amelyek pozitívan hatnak a tanulók nyelvi és személyiségbeli fejlődésére, önértékelésére, valamint segítik az eltérő kultúrából érkezők beilleszkedését.
+
+– Támogatja a tanulók önértékelési képességeinek fejlődését, és lehetőséget ad a tanulók számára a visszacsatolásra.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri a tantermi kommunikáció sajátosságait.
+
+– Tájékozott a tanári munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés lehetőségeivel, módjaival kapcsolatban.
+
+– Megfelelő ismeretekkel rendelkezik a reflektív gondolkodás szerepéről a szakmai fejlődésben és a szakmai továbbképzési lehetőségekről.
+
+– Alapos infokommunikációs ismerete van, amelyet folyamatosan képes fejleszteni.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, munkáját segítő, konkrét kutatási témához kapcsolódó szakirodalom folyamatos áttekintésére, értelmezésére, önálló ismeretszerzésre, valamint a személyes tapasztalatok tudományos keretekbe integrálására.
+
+– Képes szakmailag folyamatosan megújulni, saját szakmai fejlődését megtervezni, megvalósítani.
+
+– Folyamatosan törekszik saját pedagógiai kommunikációjának, a tantermi és az órákon kívüli iskolai kommunikáció sajátosságainak megismerésére.
+
+– Képes a magyarázó, kérdező, instruáló, visszacsatoló, értékelő, tevékenységszervező, kapcsolatteremtő és -tartó kommunikációs kultúrájának fejlesztésére.
+
+– Képes a nevelés különféle színterein az iskolai, valamint az iskolán kívüli nevelés más szereplőivel (így kulturális intézményekkel, a múzeumokkal) való együttműködő magatartásra.
+
+c) attitűdje
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+– Törekszik önismeretének, saját személyiségének fejlesztésére, nyitott az önreflexióra a környezet visszajelzései alapján.
+
+– Igénye van a szaktudományos és szakmódszertani kutatási eredmények folyamatos követésére, valamint az iskolai nevelési folyamatba történő adekvát beépítésére.
+
+– Igénye van saját szakterületén a folyamatos és önálló önképzésre, valamint a szakmai fejlődését támogató szakmai kooperációra.
+
+– Elkötelezett az igényes tanári munka, a folyamatos önmegfigyelés és önfejlesztés iránt.
+
+Az autonómia és a felelősségvállalás területén
+
+a) tudása
+
+– Jelentős mértékű önállósággal rendelkezik a szakmájához kapcsolódó kérdések megfogalmazásában, kidolgozásában, valamint a szakmai nézetek képviseletében.
+
+– Kezdeményező szerepet tud vállalni szakmai kooperáció kialakítására.
+
+– Egyenrangú partner a szakmai együttműködésben.
+
+b) képességei
+
+– Képes önismeretének, saját személyiségének fejlesztésére és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, illetve szakmai felkészültségének folyamatos fejlesztésére.
+
+– Képes saját szakterületén a folyamatos és önálló önképzésre, valamint a szakmai fejlődését támogató szakmai kooperációra.
+
+c) attitűdje
+
+– Törekszik a magyar nyelv és kultúra gazdagságának interkulturális alapokon nyugvó, motiváló bemutatására.
+
+– Együttműködés és felelősségvállalás jellemzi szakmai tevékenységével, szakterületével és azok képviselőivel kapcsolatban.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (tantárgy-pedagógiai) ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek
+
+A szakterületi ismeret
+
+– az alkalmazott nyelvészet, a magyar nyelv és irodalom vagy a hungarológia mesterképzési szakon vagy
+
+– előtanulmányok teljesülésével a bölcsészettudomány képzési terület idegen nyelvi mesterszakjain, valamint a keleti nyelvek és kultúrák alapképzésre épülő mesterképzési szakokon szerzett nyelvelméleti, leíró nyelvtani, funkcionális grammatikai, nyelvészeti, alkalmazott nyelvészeti, irodalmi, kultúra és médiatudományi ismereteket
+
+foglalja magában, figyelemmel a Nemzeti alaptanterv alapján közvetítendő műveltség fő területeire és tartalmaira, valamint az érettségi vizsgakövetelményekre.
+
+Az előtanulmányok tudásként való elfogadásának feltétele a korábbi tanulmányokból megszerzett legalább 50 kredit az alábbi ismeretkörökből:
+
+– diszciplináris ismeretek: a magyar mint idegen nyelv fogalma, intézményrendszere, oktatástörténete, a hungarológia fogalma, diszciplináris helye a tudományok rendszerében, alkalmazott nyelvészeti ismeretek (lexikográfiai, lexikológiai, terminológiai ismeretek; interkulturális és pragmatikai ismeretek; interkulturális kommunikáció; nyelvoktatás-politikai ismeretek; fordítástudományi ismeretek; kontrasztív nyelvészeti ismeretek, idegen nyelvi alkalmazott nyelvészeti ismeretek), a magyar mint idegen nyelv oktatásának módszertana,
+
+– grammatikai ismeretek: a magyar nyelv grammatikája és tipológiai sajátosságai, a magyar mint idegen nyelv leírása;
+
+– nyelvészeti, nyelvpedagógiai ismeretek, mérés és értékelés, valamint kommunikációelméleti ismeretek;
+
+– magyar kulturális ismeretek: művelődéstörténet; a magyar kultúra közvetítése; kisebbségtudományi ismeretek; transzkulturális kommunikáció; magyar országismeret, magyar történelmi, társadalmi, kulturális, irodalmi és néprajzi ismeretek, nemzetközi kommunikáció.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 8 kredit, amelyből az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke összesen 4 kredit.
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy a nevelés-oktatás adott szakaszaiban képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
+
+– Ismeri a magyar grammatikát, a funkcionális magyar grammatikát és annak nyelvpedagógiai alkalmazását.
+
+– Ismeri a magyar mint idegen nyelv és mint származásnyelv tanításának módszertanát, tananyagait, mérésének, értékelésének módszereit.
+
+– Ismeri az élő nyelvek tanítási módszereit, különös tekintettel a magyar mint idegen nyelv és mint származásnyelv tanításának módszertanára, az osztálytermi eljárásokat, szöveg- és feladattípusokat, a felhasználható autentikus anyagokat. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+
+– Ismeri a tananyagokat és a segédanyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok magyar mint idegen nyelv tanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, tanórai eljárásokat megtervezni és alkalmazni.
+
+– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok tanulását támogatni, követni.
+
+– Ismeri a nyelvtanulási folyamat, kimenet mérésének, értékelésének elméletét és gyakorlati kérdéseit.
+
+– Ismeri a nyelvvizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+
+– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni a magyar mint idegen nyelvi érettségi vizsgán, a kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+
+– Ismeri a magyar mint idegen nyelvi érettségi vizsga követelményeit, a vizsgafeladatok készítésének, kipróbálásának, ellenőrzésének módszereit, eljárását. Ismeri továbbá a vizsgák minőségi kritériumait.
+
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
+
+14. Olasz nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
 
 – magyar nyelvű megjelölése: okleveles olasz nyelv és kultúra tanára
 
-– angol nyelvű megjelölése: teacher of Italian language and culture
+– szakképzettség angol nyelvű megjelölése: Teacher of Italian Language and Culture
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+2. A képzési idő 10 félév
 
-– a képzési idő 12 félév
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatásban, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában az olasz nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, az olasz nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2.1. Az olasz nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. Az olasz nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
+a) tudása
 
-Olasz nyelvtudás, nyelvhasználat terén
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (a nyelvérzék komponensei, fonetikai kódolási képesség, nyelvtani érzékenység, induktív nyelvtanulási képesség, asszociatív memória, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes az olasz nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
+
+– Ismeri az olasz nyelv és kultúra által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
+
+b) képességei
+
+– Képes ismereteit diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes az olasz nyelv és kultúra speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
+
+– Képes az olasz nyelv tantárgyában egyéni bánásmódot igénylő tanulókat felismerni, hatékonyan fejleszteni és a többi tanulóval együtt differenciáltan nevelni, oktatni, számukra differenciált bánásmódot nyújtani.
+
+c) attitűdje
+
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+b) képességei
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
+
+– Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
+
+c) attitűdje
+
+– Törekszik úgy nevelni, hogy tanítványai mások véleményét, értékeit tiszteljék.
+
+– Célul tűzi ki az ismereteken alapuló, mérlegelő gondolkodás képességének kialakítását a tanulókban.
+
+– Fontosnak tartja az etnikumok és nemzetiségek, illetve egyéb hátrányos helyzetű kisebbségi társadalmi csoportok iránti tolerancia kialakítását.
+
+– Folyamatosan együttműködik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Legalább C1 szintű, használható nyelvtudással rendelkezik.
 
 – Ismeri a beszélt és írott olasz nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit.
 
-A célnyelvi kultúrák közvetítése terén
+– Ismeri az olasz nyelvű kultúrákat, azok sajátosságait, ismeri az olasz nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel az olasz nyelvű irodalomra, de a kortárs populáris kultúra elemeit is.
 
-– Ismeri az olasz nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri az olasz nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel az olasz nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, valamint az elméleti kérdésekről szóló empirikus kutatások eredményeit.
 
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Ismeri az internet, a multimediális eszközök nyújtotta lehetőségeket, a nyelvoktatásban alkalmazható applikációkat.
 
-Szaktudományi, szakmódszertani tudás terén
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait; és tudását a nyelvtanítás során képes alkalmazni.
+– Ismeri az olasz nyelv tanítása-tanulása során felhasználható információforrásokat, az azokról való tájékozódás lehetőségeit, a tankönyveket, taneszközöket, tanulásszervezési módokat, fontosabb módszereket, tanítási és tanulási stratégiákat.
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+b) képességei
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Képes az olasz nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
 
-A pedagógiai folyamat tervezése terén
+– Képes a nemzeti kultúra célnyelven történő közvetítésére
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti olasz szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+– Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg az olasz nyelv és kultúra oktatásában betöltött szerepét.
+
+– Igyekszik aktívan együttműködni szaktárgya, valamint más tantárgyak tanáraival.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti olasz szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+b) képességei
 
 – Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes a tanítandó tananyag súlypontjait, felépítését, közvetítésének logikáját a tantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
 
-– Ismerje és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+c) attitűdje
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– A tervezés során együttműködik a munkatársakkal és a tanulókkal, kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
 
-A tanulási folyamat támogatása, szervezése és irányítása terén:
+A tanulás segítése, szervezése és irányítása területén
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+a) tudása
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Ismeri az olasz nyelv és kultúra tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit is.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Alapvető ismeretekkel rendelkezik a különböző motiváció-elméletekről, a tanulási motiváció felismerésének és fejlesztésének módszereiről.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
 
-Szakmai elkötelezettség és önfejlesztés terén:
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+b) képességei
 
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+– Képes az érdeklődés és a figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok, tankönyvek kipróbálása, bírálata).
+– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
 
-4.2.2. Az olasz nyelv és kultúra tanára szak szakterületi ismeretei
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
 
-a) szakmai alapozó ismeretek: 32–40 kredit
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
 
-– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: olasz nyelvű szövegértési (írott és hallott szöveg értése), szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és élőszóbeli kifejezés olasz nyelven; olasz gyakorlati nyelvtan.
+– Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására.
 
-– Az olasz nyelvet használó országok ismeretének alapjai (történelem, földrajz, népesség, állam és társadalom).
+c) attitűdje
+
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
+
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő, aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
+
+– Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+– Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+
+– Ismeri az olasz nyelv és kultúra tanítása-tanulása során elsajátított ismeretek és fejlesztendő kompetenciák mérésére, értékelésére alkalmas sajátos módszereket, eszközöket.
+
+– Ismeri a középszintű nyelvi érettségi vizsga követelményeit.
+
+b) képességei
+
+– Képes alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására, (pl. portfólió formájában).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
+
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása:
+
+– Ismeri az osztálytermi kommunikáció sajátosságait.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására.
+
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+c) attitűdje
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére.
+
+Az autonómia és a felelősségvállalás területén
+
+– Együttműködés és felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
+
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
+
+– Felelősséggel vállalja a kezdeményező szerepét a szakmai együttműködés kialakítására. Egyenrangú partner a szakmai kooperációban.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris) tantárgy-pedagógiai ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 91-111 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 25-35 kredit
+
+– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: olasz nyelvű szövegértési (írott és hallott szöveg értése) és szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és élőszóbeli kifejezés olasz nyelven; olasz gyakorlati nyelvtan.
+
+– Olaszország civilizációjára vonatkozó ismeretek alapjai (történelem, földrajz, népesség, állam és társadalom, kultúra).
 
 – Nyelvészeti és kommunikációelméleti alapismeretek.
 
@@ -2776,1454 +4706,356 @@ a) szakmai alapozó ismeretek: 32–40 kredit
 
 – Felhasználói ismeretek a humán informatikában.
 
-b) a szakmai törzsanyag ismeretkörei: 80–87 kredit
+b) A szakmai törzsanyag ismeretkörei: 66-76 kredit
 
-– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő olasz nyelv rendszere, használata és változatai, olasz–magyar kontrasztív nyelvészeti ismeretek, nyelvpolitika, interkulturális kommunikáció, kutatásmódszertan); minimum 26 kredit.
+– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő olasz nyelv rendszere, hang-, alak- és mondattani jellemzői, használata és változatai; olasz-magyar kontrasztív nyelvészeti ismeretek, szociolingvisztika, pszicholingvisztika, kutatásmódszertan).
 
-– Irodalmi, kultúra- és médiatudományi ismeretek (az olasz nyelvű irodalom történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai és verstani alapismeretek, irodalom és medialitás, művészetek és populáris kultúra az olasz világban, kutatásmódszertan); minimum 28 kredit.
+– Irodalmi, kultúra- és médiatudományi ismeretek (az olasz nyelvű irodalom történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai és verstani alapismeretek, irodalom és medialitás, művészetek és populáris kultúra az olasz világban; kutatásmódszertan).
 
-– Az olasz nyelvet használó országok civilizációjára vonatkozó ismeretek (történelem, jelenkori társadalom, politika, média és kultúra); minimum 10 kredit.
+– Az olasz nyelvet használó országok civilizációjára, kultúrájára vonatkozó ismeretek (történelem, művészet-, zene-, színház- és kultúrtörténet, jelenkori társadalom, politika, média és kultúra).
 
-– Nyelvfejlesztés és olasz nyelvű szakmai kommunikáció; minimum 16 kredit.
+– Nyelvfejlesztés és olasz nyelvű szakmai kommunikáció.
 
-5. Az olasz nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+A szabadon választható tárgyak kerete ad lehetőséget a kerettantervben, az érettségi vizsgakövetelményekben és a fentiekben nem szereplő tartalmakon túlmutató további szakterületi ismereteket tartalmazó tárgyak felajánlására.
 
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
 
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
 
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+– Az olasz nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök:8 kredit
 
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok olasz nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
+– Nyelv, irodalom és kultúra tanításának módszertana.
 
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének és értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
 
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+– Nyelv, irodalom és kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint az idegen nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
 
-– A Közös Európai Referenciakeret és annak alkalmazása.
+– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
 
-17. Orosz nyelv és kultúra tanára
+– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+– Tananyagkészítés, projektmunka és személyre szabott oktatás.
+
+– Az összefüggő féléves gyakorlatot támogató gyakorlat olasz nyelven: 2 kredit.
+
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat olasz nyelven: 2 kredit.
+
+15. Orosz nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel az oklevélben szereplő tanári szakképzettség:
 
 – magyar nyelvű megjelölése: okleveles orosz nyelv és kultúra tanára
 
-– angol nyelvű megjelölése: teacher of Russian language and culture
+– szakképzettség angol nyelvű megjelölése: Teacher of Russian Language and Culture
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+2. A képzési idő: 10 félév
 
-– a képzési idő 12 félév
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és nyolcadik évfolyam végéig tartó felső tagozatán, valamint a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában az orosz nyelv tanítására, pedagógiai feladatainak ellátására, pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, az orosz nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2.1. Az orosz nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. Az orosz nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
+a) tudása
 
-Az orosz nyelvtudás és a nyelvhasználat terén
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (a nyelvérzék komponensei, fonetikai kódolási képesség, nyelvtani érzékenység, induktív nyelvtanulási képesség, asszociatív memória, motiváció, életkor, nyelvi szorongás, tanulási stílusok, tanulási stratégiák).
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes az orosz nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
+
+b) képességei
+
+– Képes ismereteit tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes az orosz nyelv és kultúra speciális összefüggéseivel, fogalmaival kapcsolatos egyéni megértési nehézségek kezelésére.
+
+– Képes az orosz nyelv tantárgyában egyéni bánásmódot igénylő tanulókat felismerni, hatékonyan fejleszteni és a többi tanulóval együtt differenciáltan nevelni, oktatni, számukra differenciált bánásmódot nyújtani.
+
+c) attitűdje
+
+– Nyitott a személyiségfejlesztés változatos módszereinek folyamatos elsajátítására.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+– A tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a csoport, a csoportfejlődés és a közösségek pszichológiai, szociológiai és kulturális sajátosságait, az esélyteremtési lehetőségeket.
+
+– Ismeri a csoportok és a tanulók társas helyzetére vonatkozó fontosabb feltáró módszereket.
+
+b) képességei
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére.
+
+– Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával összefüggésben felmerülő legfontosabb aktualitások megértésében segíteni a tanulókat.
+
+c) attitűdje
+
+– Törekszik úgy nevelni, hogy tanítványai mások véleményét, értékeit tiszteljék.
+
+– Célul tűzi ki az ismereteken alapuló, mérlegelő gondolkodás képességének kialakítását a tanulókban.
+
+– Fontosnak tartja az etnikumok és nemzetiségek, illetve egyéb hátrányos helyzetű kisebbségi társadalmi csoportok iránti tolerancia kialakítását.
+
+– Folyamatosan együttműködik a szülőkkel.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Legalább C1 szintű, használható nyelvtudással rendelkezik.
 
 – Ismeri a beszélt és írott orosz nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+– Ismeri a szinkron nyelvállapot fonetikai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit.
 
-A célnyelvi kultúrák közvetítése terén
+– Ismeri az orosz kultúrát, annak sajátosságait, ismeri az orosz kultúra jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel az orosz nyelvű irodalomra, illetve a kortárs kultúra elemeire.
 
-– Ismeri az orosz nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri az orosz nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel az orosz nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
+– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, valamint az elméleti kérdésekről szóló empirikus kutatások eredményeit.
 
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
+– Ismeri az internet, a multimediális eszközök nyújtotta lehetőségeket.
 
-Szaktudományi, szakmódszertani tudás terén
+– Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
 
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
+– Ismeri az orosz nyelv tanítása-tanulása során felhasználható információforrásokat, az azokról való tájékozódás lehetőségeit, a tankönyveket, taneszközöket, tanulásszervezési módokat, fontosabb módszereket, tanítási és tanulási stratégiákat.
 
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
+b) képességei
 
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
+– Képes az orosz nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
 
-A pedagógiai folyamat tervezése terén
+– Képes a nemzeti kultúra célnyelven történő közvetítésére.
 
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti orosz szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+– Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg az orosz nyelv és kultúra oktatásban betöltött szerepét.
+
+– Igyekszik aktívan együttműködni szaktárgya, valamint más tantárgyak tanáraival.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti orosz szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+b) képességei
 
 – Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
 
 – Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
 
-A pedagógiai folyamatok és a tanulók értékelése terén
+– Képes a tanítandó tananyag súlypontjait, felépítését, közvetítésének logikáját a tantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
 
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+c) attitűdje
 
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
 
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+– A tervezés során együttműködik a munkatársakkal és a tanulókkal, kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
 
-A tanulási folyamat támogatása, szervezése és irányítása terén
+A tanulás segítése, szervezése és irányítása területén
 
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+a) tudása
 
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+– Ismeri az orosz nyelv és kultúra tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit.
 
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
+– Alapvető ismeretekkel rendelkezik a tanulási motiváció felismerésének és fejlesztésének módszereiről.
 
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
 
-Szakmai elkötelezettség és önfejlesztés terén
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
 
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+b) képességei
 
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+– Képes az érdeklődés és a figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
 
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
+– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
 
-4.2.2. Az orosz nyelv és kultúra tanára szakon a szakterületi ismeretek:
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
 
-a) szakmai alapozó ismeretek: 32–36 kredit
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
 
-– Közismereti tantárgyak: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
+– Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására.
 
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése, szövegfajták.
+c) attitűdje
 
-– Az orosz kultúra ismerete: a célnyelvi ország kultúrájának különféle aspektusai
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
 
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő, aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
 
-– Tartalom alapú nyelvi és kulturális kompetenciafejlesztés: szaknyelvi ismeretek, a célnyelv és az anyanyelv kontrasztivitásának tudatosítása, fordítási gyakorlatok, stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése, irodalom és nyelv kapcsolata, nyelv és nyelvtudomány összefüggései.
+– Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
 
-– Irodalmi ismeretek: orosz irodalomtörténeti áttekintés: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés, irodalom és medialitás.
+A pedagógiai folyamatok és a tanulók értékelése területén
 
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek, alkalmazott nyelvészeti ismeretek: pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika, szemantika, pragmatika, szótártan, grammatika, stilisztika nyelvtörténet.
+a) tudása
 
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven, tudásbázisok használata, projektek.
+– Ismeri a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
 
-– Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése, a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
+– Tájékozott a különböző nyomtatott és online feladatgyűjteményekkel kapcsolatban.
 
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése, orosz–magyar irodalmi párhuzamok, irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
+– Ismeri az orosz nyelv és kultúra tanítása-tanulása során elsajátított ismeretek és fejlesztendő kompetenciák mérésére, értékelésére.
 
-5. Az orosz nyelv és kultúra tanárnak sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+– Ismeri a középszintű nyelvi érettségi vizsga követelményeit.
 
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai és jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat.
+b) képességei
+
+– Képes alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+– Képes nyomtatott és online feladatgyűjtemények összeállítására és alkalmazására.
+
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására, (pl. portfólió formájában).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
+
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri az osztálytermi kommunikáció sajátosságait.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására.
+
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+c) attitűdje
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére.
+
+Az autonómia és a felelősségvállalás területén
+
+– Együttműködés és felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
+
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
+
+– Felelősséggel vállalja a kezdeményező szerepét a szakmai együttműködés kialakításában.
+
+– Egyenrangú partner a szakmai kooperációban.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani (diszciplináris és interdiszciplináris) tantárgy-pedagógiai ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 95-107 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 20-26 kredit
+
+– Nyelvismeret, alapszintű idegen nyelvi kommunikációs kompetencia: orosz nyelvű szövegértési (írott és hallott szöveg értése) és szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák, orosz gyakorlati nyelvtan.
+
+– Az orosz civilizáció alapjai.
+
+– Nyelvtudományi alapismeretek.
+
+– Irodalom- és kultúratudományi alapismeretek.
+
+b) A szakmai törzsanyag ismeretkörei: 75-81 kredit
+
+– Nyelvfejlesztés és orosz nyelvű kommunikáció közép- és haladó szinten, nyelvi közvetítés.
+
+– Történeti, leíró és alkalmazott nyelvészeti ismeretek (az orosz nyelv rendszere: hang-, alak-, mondattan, szövegtan és stilisztika; lexikológiai-lexikográfiai, orosz-magyar kontrasztív nyelvészeti ismeretek).
+
+– Irodalom- és kultúratudományi ismeretek (az orosz nyelvű irodalom történeti áttekintése: korszakok és irányzatok, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegértelmezés és szövegelemzés, társművészetek).
+
+– Az orosz civilizációra vonatkozó ismeretek (történelmi és társadalmi ismeretek, média és kultúra, populáris kultúra, interkulturális kommunikáció).
+
+– A tudományos írás alapjai.
+
+A szabadon választható tárgyak kerete ad lehetőséget a kerettantervben, az érettségi vizsgakövetelményekben és a fentiekben nem szereplő tartalmakon túlmutató további szakterületi ismereteket tartalmazó tárgyak felajánlására.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy az alapfokú nevelés-oktatás 5-8. és a középfokú nevelés-oktatás 9-12. évfolyamain egyaránt képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
+
+– Az orosz nyelv és irodalom tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
+
+– Nyelv, irodalom és kultúra tanításának módszertana.
 
 – A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
 
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
+– Nyelv, irodalom és kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint az idegen nyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
 
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok).
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
 
 – A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
 
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
 – A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
 
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
+– Tananyagkészítés, projektmunka és személyre szabott oktatás.
 
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
+– Az összefüggő féléves gyakorlatot támogató gyakorlat: 2 kredit.
 
-– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat: 2 kredit.
 
-18. Portugál nyelv és kultúra tanára
+16. Portugál nyelv és kultúra tanára
 
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
 
 – magyar nyelvű megjelölése: okleveles portugál nyelv és kultúra tanára
 
-– angol nyelvű megjelölése: teacher of Portuguese language and culture
+– szakképzettség angol nyelvű megjelölése: Teacher of Portuguese Language and Culture
 
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
+2. A képzési idő: 10 félév
 
-– a képzési idő 12 félév
+3. A képzés célja a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában vagy az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában a portugál nyelv tanítására, az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a portugál nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+4. Az elsajátítandó szakmai kompetenciák
 
-4. Az elsajátítandó szakmai tudás, képesség
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
 
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
 
-a 2. mellékletben meghatározott tudás, készség, ismeret;
+4.2.1. A portugál nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
 
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
 
-4.2.1. A portugál nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
+a) tudása
 
-Portugál nyelvtudás, nyelvhasználat terén
+– Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
 
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes a portugál nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+– Ismeri a tanulók pedagógiai megismerésének módszereit.
 
-– Ismeri a beszélt és írott portugál nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+– Ismeri a portugál nyelv és kultúra által közvetített fogalmak kialakulásának folyamatát, figyelembe véve a tanulók életkori sajátosságait, valamint a tanulók fogalomrendszerének fejlesztésében játszott szerepét.
 
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+b) képességei
 
-A célnyelvi kultúrák közvetítése terén
+– Képes ismereteit tanulói fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
 
-– Ismeri a portugál nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a portugál nyelvű kultúrák jellemző szellemi, művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a portugál nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is és azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti idegennyelvi szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekedjen tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok, tankönyvek kipróbálása, bírálata).
-
-4.2.2. A portugál nyelv és kultúra tanára szak szakterületi ismeretei:
-
-a) szakmai alapozó ismeretek: 32–40 kredit
-
-– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: portugál nyelvű szövegértési (írott és hallott szöveg értése), szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák, helyes kiejtés és élőszóbeli kifejezés portugál nyelven; portugál gyakorlati nyelvtan.
-
-– A portugál nyelvet használó országok ismeretének alapjai (történelem, földrajz, népesség, állam és társadalom).
-
-– Nyelvészeti és kommunikációelméleti alapismeretek.
-
-– Irodalom- és kultúratudományi alapismeretek.
-
-– A latin nyelv alapjai és az újlatin nyelvek kialakulása, elterjedése.
-
-– Felhasználói ismeretek a humán informatikában.
-
-b) a szakmai törzsanyag ismeretkörei: 79–87 kredit
-
-– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő portugál nyelv rendszere, használata és változatai, portugál–magyar kontrasztív nyelvészeti ismeretek, nyelvpolitika, interkulturális kommunikáció, kutatásmódszertan).
-
-– Irodalmi, kultúra- és médiatudományi ismeretek (a portugál nyelvű irodalom történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok; szövegek olvasása, szövegértelmezés, szövegelemzés; stilisztikai, retorikai és verstani alapismeretek, irodalom és medialitás, művészetek és populáris kultúra a portugál világban; kutatásmódszertan).
-
-– A portugál nyelvet használó országok civilizációjára vonatkozó ismeretek (történelem, jelenkori társadalom, politika, média és kultúra).
-
-– Nyelvfejlesztés és portugál nyelvű szakmai kommunikáció.
-
-5. A portugál nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok portugál nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének és értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
-
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-19. Román és nemzetiségi román nyelv és kultúra tanára
-
-Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles román és nemzetiségi román nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Roumanian language and culture and Roumanian as a minority language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a román és nemzetiségi román nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek a román nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben is, továbbá felkészültek a tanulmányaik doktori képzésben történő folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A román és nemzetiségi román nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
-
-Román nyelvtudás és a nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. képes a román nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott román nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a román nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a román nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a román nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismerje az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti román és a nemzetiségi román szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismerje és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Kísérje figyelemmel a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok, tankönyvek kipróbálása, bírálata).
-
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
-
-4.2.2. A román és a nemzetiségi román nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 32–36 kredit
-
-– Nyelvi kompetenciák fejlesztése: szövegértési (írott és hallott szöveg értése), szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák fejlesztése; kommunikációs és nyelvtani gyakorlatok.
-
-– Román nép és román nemzetiség alapismeretek: Románia kultúrája, történelme, társadalmi, gazdasági, politikai kérdései, sajátosságai, a magyarországi román nemzetiség története, tárgyi és szellemi kultúrája, a magyarországi nemzetiségi politika, nemzetiségi jogok.
-
-– Irodalomtudományi alapismeretek: az irodalmi szövegek megközelítésének alapvető kérdései.
-
-– Nyelvészeti alapismeretek: nyelvészeti terminológia, rendszernyelvészeti alapfogalmak.
-
-– A latin nyelv alapjai és az újlatin nyelvek kialakulása, elterjedése.
-
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
-
-– Kommunikációs és médiaismeretek: a kultúra- és médiakutatás alapfogalmainak megismerése, főbb területeinek áttekintése. A célnyelv és az anyanyelv kontrasztivitásának tudatosítása, fordítási gyakorlatok, stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
-
-– Irodalmi ismeretek: román irodalomtörténeti áttekintése (korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés, irodalom és medialitás).
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek.
-
-– Kutatásmódszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven, tudásbázisok használata, projektek.
-
-– Nemzetiségi ismeretek: a magyarországi románság nyelvhasználata (szociolingvisztikai kérdések: kétnyelvűség, diglosszia), nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer; a magyarországi románság irodalma.
-
-– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai, a nyelvoktatás céljai és azok megvalósítása (tantervek, tanmenetek, óravázlatok készítésének módszertana), a Nemzeti alaptanterv idegennyelv- és nemzetiségi nyelv tanításra vonatkozó irányelvei; a Közös Európai Referenciakeret és annak alkalmazása, tanítási technikák, módszerek, differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
-
-– A román nyelv és használata: a szinkrón nyelvállapot rendszerének magas fokú ismerete (a nyelvi rendszer történeti fejlődése, szociolingvisztika, a román nyelv változatai, szemantika és pragmatika).
-
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek), nemzetiségi média, nemzetiségi politika.
-
-– A román irodalom (irodalomelmélet, irodalomkritika, a román irodalom történetének nagy korszakai, alkotói és alkotásai).
-
-– A tankönyv szerepe a nyelvtanításban; a tankönyvelemzés szempontjai; a különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán; multimediális nyelvtanítási ismeretek, a nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
-
-– A tananyagkészítés, projektmunka, a személyre szabott oktatás; a nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata, a nyelvtudás mérése, értékelése, az osztálytermi értékelés; az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján, a tesztfeladatok készítése, kipróbálása, ellenőrzése; a mérés és értékelés minőségi kritériumai.
-
-5. A román és nemzetiségi román nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok román nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat, kimenet mérésének, értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani.
-
-– Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
-
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-20. Romológiatanár
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles romológiatanár (megjelölve a specializációt)
-
-– angol nyelvű megjelölése: teacher of Romology
-
-választható specializációk: romani nyelv és népismeret, beás nyelv és népismeret (Romani language and culture, Beas language and culture)
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, beás nyelv és népismeret vagy a romani nyelv és népismeret tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2.mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A beás nyelv és népismeret tanárának/romani nyelv és népismeretet tanárnak szakterületi tudása, készségei, képességei
-
-Beás/romani nyelvtudás, nyelvhasználat terén:
-
-– Magas szintű (legalább B2 szintű), célnyelvi kommunikációs kompetenciával rendelkezzen. Képes magabiztosan alkalmazni a beás/romani nyelv szabályait, jártas a beás/romani mindenkori kontextusba illő használatában.
-
-– Ismeri a beás/romani beszélt és írott nyelvi szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni. Rendelkezik ismeretekkel a beás/romani nyelv dialektusairól, regisztereiről, képes azok megismertetésére.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-– Ismeri a hazai cigányság társadalmi, politikai, jogi, nyelvi, kulturális, oktatási, demográfiai egészségügyi és munkaerő-piaci helyzetét, továbbá kitekintése van a romológia nemzetközi összefüggéseire, illetve tudományos eredményeire.
-
-– Tájékozott az Európai Unió és intézményei vonatkozó állásfoglalásairól, valamint ismeri a hazai oktatáspolitika vonatkozó szabályozóit, képes azok szellemében szervezni a cigánysággal kapcsolatos pedagógiai tevékenységét.
-
-– Ismeri a cigányság kulturális értékeit, felkészült azok bemutatására, közvetítésére. Ismeretei birtokában képes a helyi és nemzetiségi önkormányzatok, azok intézményei, valamint a népjóléti, gyermekvédelmi, politikai és civil szervezetek cigánysággal kapcsolatos feladatainak ellátására. Képes a köznevelés intézményrendszerében a cigány nyelv és népismeret tantárgyak oktatására, illetve a cigányságra, mint nemzetiségre fókuszáló interkulturális nevelés megvalósítására a legkülönbözőbb pedagógiai módszertani eszköztár alkalmazásával.
-
-A célnyelvi kultúrák és közvetítése terén
-
-– Ismeri a cigány csoportok kultúráját, azok hasonlóságait és különbségeit, képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére.
-
-– Ismeri a kultúra (irodalom, film, képzőművészet, alkalmazott művészetek) legfontosabb irányzatait, a kultúra és a cigány közösségek által lakott országok társadalmának aktuális kérdéseit, a hazai cigány nemzetiség története, tárgyi, szellemi kultúrája, többek között a történet-, a nyelv-, az irodalomtudomány, a néprajz, a szociálpszichológia, a szociológia, a nevelésszociológia és a kulturális antropológia bevonásával, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan, motiválóan alkalmazni.
-
-– Képes az irodalmi műfajok értő áttekintésére (műelemzés, befogadási modellek) az irodalomtörténet tükrében, az irodalom és a média összefüggései, a komparatisztika aktuális szempontjai magyar-cigány (beás, romani), illetve egyéb európai nyelvek és kultúrák vonatkozásában.
-
-Szaktudományi, szakmódszertani és szaktárgyi tudás terén
-
-– Ismeri a beás/romani alapvető rendszernyelvészetet, az alkalmazott nyelvészet főbb területeinek ismeretanyagát (szocio- és pszicholingvisztika, nyelvelsajátítás, szövegnyelvészet és kompetencia, nyelvi variáció, stílus stb.). Rendelkezik a tanításhoz szükséges kontrasztív nyelvészeti alapokkal.
-
-– Ismeri a beás/romani nyelv szinkrón nyelvállapotának, fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai rendszerét.
-
-– Ismeri e két nyelv szociolingvisztikai sajátosságait és képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák).
-
-– Ismeri a nyelv-, és irodalomtudomány, a néprajz, a szociológia és a kulturális antropológia kultúrtörténeti kutatások korszerű eredményeit, azok módszertanát.
-
-– Tájékozott az általa oktatott nyelv tanításának európai helyzetéről, a didaktikai kutatásokról, a tantervi követelményekről, tantárgyi programokról, tanítási módszereiről, tanári segédanyagokról, oktatási eszközökről, alternatív módszertani törekvésekről.
-
-– Ismeri a nevelésszociológia alapkérdéseit, legfontosabb kutatási eredményeit; képes ismereteit a különböző társadalmi helyzetű és eltérő kultúrájú közösségekben zajló nevelési folyamatok sikeressége érdekében mozgósítani.
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti idegennyelvi szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Képes figyelemmel kísérni a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíti a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, biztosítva a tanulók számára a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
-
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képzett a tanulási folyamatok különböző pedagógiai eszköztárral történő szervezése és irányítása területén, így az adott tanulási folyamathoz igazítva képes kiválasztani a legmegfelelőbb pedagógiai módszert a frontális tanítástól a differenciált és kooperatív tanulásszervezésen keresztül a projektoktatásig.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-A szakmai együttműködés és kommunikáció terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok, tankönyvek kipróbálása, bírálata).
-
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Törekszik önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Képes a szakmai információforrások megtalálására, kritikus értelmezésére, felhasználására és ezek közvetítésére.
-
-– Képes az iskolai munkára vonatkozó kutatásokban, fejlesztésekben való részvételre, ilyenek tervezésére, lebonyolítására, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálásával szemben (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-4.2.2. A romológiatanár szak a szakterületi ismeretei:
-
-a) szakmai alapozó ismeretek: 32–40 kredit
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése, szövegfajták.
-
-– A hazai cigány nemzetiség története, tárgyi és szellemi kultúrája, többek között a történet-, a nyelv-, az irodalomtudomány, a néprajz, a szociálpszichológia, a szociológia, a nevelésszociológia és a kulturális antropológia bevonásával. A cigány közösség, mint a sokszínű európai kultúra szerves része, különös tekintettel a közép- és délkelet-európai régióra.
-
-– A romani vagy a beás nyelv és a cigány közösség kultúrájának átfogó ismerete, ezen belül a magyarországi és az európai cigányság nyelvei, kultúrája, problémavilága, története, a nemzetiség és magyarság közötti viszony, továbbá ezen ismeretek korosztály-specifikus közvetítésének ismeretei.
-
-– Az irodalmi műfajok értő ismerete (műelemzés és befogadási modellek) az irodalomtörténet tükrében/alapján, az irodalom és a média összefüggései, a komparatisztika aktuális szempontjai magyar-romani/beás és egyéb európai nyelvek és kultúrák vonatkozásában.
-
-– Irodalomtudományi alapismeretek: az irodalmi szövegelemzés alapvető kérdései, elemi műfajismeret, alapvető terminológia.
-
-– Nyelvészeti alapismeretek: nyelvészeti terminológia, módszerek áttekintő megismertetése.
-
-– Nevelésszociológiai alapismeretek vonatkoznak az iskolázottsággal kapcsolatos kérdéskörökre, az iskola és család viszonyrendszerére, az oktatáspolitikai törekvésekre történetiségükben, valamint a nemzetiségi, interkulturális és inkluzív nevelés fogalomrendszerére.
-
-b) szakmai törzsanyag ismeretkörei: 79–87 kredit
-
-– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő beás/romani nyelv rendszere, használata és változatai; kontrasztív nyelvészeti ismeretek, számítógépes nyelvfeldolgozás, pszicholingvisztika, a társadalmi nem és a nyelv, nyelvpolitika, interkulturális kommunikáció kutatásmódszertan).
-
-– Irodalmi, kultúra- és népismeret (a lehetséges cigány irodalom definíciói, az irodalom történeti áttekintése) korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok; szövegek olvasása, szövegértelmezés, szövegelemzés; stilisztikai, retorikai és verstani alapismeretek; irodalom és medialitás; művészetek és populáris kultúra, kutatásmódszertan.
-
-– A beás/romani nyelvet használó közösségekre vonatkozó népismereti és kultúrantropológiai ismeretek.
-
-– Nyelvfejlesztés és beás/romani nyelvű szakmai kommunikáció.
-
-– Nyelvészeti ismeretek: átfogó rendszernyelvészeti és alkalmazott nyelvészeti ismeretek (nyelvtörténet; pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika szemantika, pragmatika, szótártan, grammatika, stilisztika).
-
-Társadalomtudományi ismeretek: a hazai cigány nemzetiség története, szociológiai jellegzetességei azok történetiségében, demográfiai folyamatok, a cigányság helye, jogi helyzete a hazai és az európai társadalmakban.
-
-– A társadalomtudományi szakirodalom értő használata és elemzése, szociológiai módszertani ismeretek.
-
-– Nevelésszociológiai ismeretek: az iskola és társadalom alapvető kérdéskörei a sokszínű társadalomban tetten érhető társadalmi és iskolai stratégiák szempontjából fókuszban tartva a nemzetiségi oktatást, az interkulturális nevelést és az inkluzív iskolai környezetet.
-
-– Kultúra: az irodalomtudomány újabb irányzatai, irodalmi szövegek elemzése; cigány–magyar irodalmi párhuzamok; irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében
-
-– Kultúrantropológia és népismeret: a modern kultúra- médiatudomány, a néprajz, és kultúrantropológia elméletei, gyakorlati alkalmazásuk (interkulturalitás, intermedialitás); nyelv-kultúra-társadalom, a beás, romani és nem a nyelv által reprezentált kultúra magyarcigány (romungró) kultúra, valamint a diaszpóra más európai csoportjainak kulturális sajátosságai.
-
-5. A romológiatanár sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelv és népismeret tanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Képes a kooperatív tanulásszervezés, a drámapedagógia és a projektoktatás eszköztárának használatára. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információ-technológiai eszközöket és az internetet hatékonyan használni; a diákok önálló tanulását támogatni és követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok romani/beás nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének, értékelésének elméletét, valamint gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani. Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát. Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A nyelvoktatás folyamatában képes a tudatos értékközvetítésre, a társadalmi-kulturális elfogulatlanságra és toleranciára nevelésre. Képes ösztönözni a tanulók önálló véleményalkotását, kritikus gondolkodásmódját a célnyelvi kultúrával szemben, nemzeti azonosságtudatuk tiszteletben tartása mellett. Képes fejleszteni a tanulók célnyelvi kommunikációs képességét, célnyelven való gondolkodását és interkulturális szemléletmódját.
-
-– Tudatosan képes kezelni a nemzeti értékek sokféleségét, nyitott mások véleményének, értékeinek megismerésére, tiszteletben tartására. Az inter- és multikulturalizmus jegyében, az inkluzív pedagógia szemlélete mentén képes az egyéni és csoportértékek figyelemben tartása mellett egyéni és csoportfejlesztésre.
-
-– Az élő idegen nyelv tanításával és a célnyelvi közösség kultúrájának megismertetésével párhuzamosan képes növelni a nyelvtanulásban résztvevők szűkebb és tágabb közösségek iránti nyitottságát.
-
-– Képes szakkör, önképzőkör működtetésére az oktatott beás/romani nyelv és népismeret, illetve egy adott nemzetiség tárgyi, szellemi kulturális örökségének ápolása céljából.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-21. Spanyol nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles spanyol nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Spanish language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a spanyol nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A spanyol nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
-
-Spanyol nyelvtudás, nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes az spanyol nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott spanyol nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a spanyol nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a spanyol nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a spanyol nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan és motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti spanyol szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-4.2.2. A spanyol nyelv és kultúra tanára szak szakterületi ismeretei
-
-a) szakmai alapozó ismeretek: 32–40 kredit
-
-– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: spanyol nyelvű szövegértési (írott és hallott szöveg értése), szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák, helyes kiejtés és élőszóbeli kifejezés spanyol nyelven; spanyol gyakorlati nyelvtan.
-
-– A spanyol nyelvet használó országok ismeretének alapjai (történelem, földrajz, népesség, állam és társadalom).
-
-– Nyelvészeti és kommunikációelméleti alapismeretek.
-
-– Irodalom- és kultúratudományi alapismeretek.
-
-– A latin nyelv alapjai és az újlatin nyelvek kialakulása, elterjedése.
-
-– Felhasználói ismeretek a humán informatikában
-
-b) a szakmai törzsanyag ismeretkörei: 79–87 kredit
-
-– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő spanyol nyelv rendszere, használata és változatai, spanyol–magyar kontrasztív nyelvészeti ismeretek, nyelvpolitika, interkulturális kommunikáció, kutatásmódszertan).
-
-– Irodalmi, kultúra- és médiatudományi ismeretek (a spanyol nyelvű irodalom történeti áttekintése: korszakok, korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai és verstani alapismeretek; irodalom és medialitás, művészetek, populáris kultúra a spanyol világban, kutatásmódszertan).
-
-– A spanyol nyelvet használó országok civilizációjára vonatkozó ismeretek (történelem, jelenkori társadalom, politika, média és kultúra).
-
-– Nyelvfejlesztés és spanyol nyelvű szakmai kommunikáció.
-
-5. A spanyol nyelv és kultúra tanárnak sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Ismeri a nyelvtanítás módszertanát, a nyelvtanítási módszereket, osztálytermi eljárásokat, szöveg- és feladattípusokat, autentikus anyagok sokaságát. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
-
-– Ismeri a tanterveket, tananyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. képes a diákok nyelvtanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek és szükségleteiknek megfelelő tananyagokat, osztálytermi eljárásokat megtervezni és alkalmazni.
-
-– Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
-
-– Ismeri a szaknyelv és a tartalomalapú nyelvtanulás módszertanát. Képes a diákok spanyol nyelvtudását – a Nemzeti alaptanterv tartalmait integrálva – úgy fejleszteni, hogy kihasználja a szaknyelv és a tartalomalapú nyelvoktatás nyújtotta lehetőségeket.
-
-– Ismeri a nyelvtanulási folyamat és kimenet mérésének és értékelésének elméletét és gyakorlati kérdéseit. Képes a napi gyakorlatban az osztálytermi értékelést megbízhatóan és motiválóan megvalósítani.
-
-– Ismeri a vizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
-
-– Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni, kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-22. Szerb és nemzetiségi szerb nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles szerb és nemzetiségi szerb nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Serbian language and culture and Serbian as a minority language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a szerb és a nemzetiségi szerb nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek a szerb nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A szerb és nemzetiségi szerb nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
-
-A szerb nyelvtudás és a nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes a szerb nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott szerb nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a szerb nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a szerb nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a szerb nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga és diákjai fejlesztésére hatékonyan motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait és képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti szerb és a nemzetiségi szerb szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
-
-4.2.2. A szerb és nemzetiségi szerb nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 32–36 kredit
-
-– Közismereti tantárgyak: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
-
-– Szerbia ismerete: a célnyelvi ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
-
-– Interkulturális ismeretek: a szláv népek kultúrájának összehasonlító áttekintés.
-
-– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok) a magyarországi szerb nemzetiség története, tárgyi és szellemi kultúrája.
-
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
-
-– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek, a célnyelv és az anyanyelv kontrasztivitásának tudatosítása, fordítási gyakorlatok, stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
-
-– Irodalmi ismeretek: szerb irodalomtörténeti áttekintés (korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés, irodalom és medialitás).
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés, fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek.
-
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven, tudásbázisok használata, projektek.
-
-– Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése.
-
-– Nemzetiségi szakismeretek, a magyarországi szerbek nyelvhasználata (szociolingvisztikai kérdések, kétnyelvűség, diglosszia), nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer a magyarországi szerbek irodalma, a magyarországi szerb nemzetiség tudományos élete.
-
-– Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése, a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
-
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése, szerb–magyar irodalmi párhuzamok, irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
-
-– Nyelvészeti ismeretek: alkalmazott nyelvészeti ismeretek, pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika, szemantika, pragmatika, szótártan, grammatika, stilisztika; nyelvtörténet.
-
-– Nyelvészeti és irodalmi szakkollégium vagy szakszeminárium: aktuális nyelv- és irodalomtudományi kérdések elemzése.
-
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek); nemzetiségi média; nemzetiségi politika.
-
-5. A szerb és nemzetiségi szerb nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai, jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat
-
-– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
-
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
-
-– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
-
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
-– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
-
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
-
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
-
-– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
-
-23. Szlovák és nemzetiségi szlovák nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles szlovák és nemzetiségi szlovák nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Slovakian language and culture and Slovakian as a minority language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a szlovák és a nemzetiségi szlovák nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek a szlovák nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A szlovák és nemzetiségi szlovák nyelv és kultúra tanára szakképzettség szerinti szakterületi tudása, készségei, képességei
-
-A szlovák nyelvtudás és a nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezzen. Képes a szlovák nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott szlovák nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a szlovák nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a szlovák nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a szlovák nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, illetve diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan és értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismer a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti szlovák és a nemzetiségi szlovák szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés és a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
-
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
-
-4.2.2. A szlovák és nemzetiségi szlovák nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 32–36 kredit
-
-– Közismereti tantárgyak: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
-
-– Szlovákia ismerete: a célnyelvi ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
-
-– Interkulturális ismeretek: a szláv népek kultúrájának összehasonlító áttekintése.
-
-– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok), a magyarországi szlovák nemzetiség története, tárgyi és szellemi kultúrája.
-
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
-
-– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek, a célnyelv és az anyanyelv kontrasztivitásának tudatosítása, fordítási gyakorlatok, stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
-
-– Irodalmi ismeretek: szlovák irodalomtörténeti áttekintés (korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés, irodalom és medialitás).
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek.
-
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek.
-
-– Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése
-
-– Nemzetiségi szakismeretek: a magyarországi szlovákok nyelvhasználata (szociolingvisztikai kérdések, kétnyelvűség, diglosszia), nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer, a magyarországi szlovákok irodalma, a magyarországi szlovák nemzetiség tudományos élete.
-
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése, szlovák–magyar irodalmi párhuzamok; irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
-
-– Nyelvészeti ismeretek: alkalmazott nyelvészeti ismeretek, pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika; szemantika, pragmatika, szótártan, grammatika, stilisztika; nyelvtörténet.
-
-– Nyelvészeti és irodalmi szakkollégium vagy szakszeminárium: aktuális nyelv- és irodalomtudományi kérdések elemzése.
-
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek); nemzetiségi média; nemzetiségi politika.
-
-5. A szlovák és nemzetiségi szlovák nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai, jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat
-
-– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
-
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
-
-– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
-
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
-– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
-
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
-
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
-
-– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
-
-24. Szlovén és nemzetiségi szlovén nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles szlovén és nemzetiségi szlovén nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Slovene language and culture and Slovene as a minority language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, a szlovén és a nemzetiségi szlovén nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek a szlovén nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A szlovén és nemzetiségi szlovén nyelv és kultúra tanára szakképzettség szerinti szakterületi tudása, készségei, képességei
-
-A szlovén nyelvtudás és a nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezik. Képes a szlovén nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott szlovén nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri a szlovén nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri a szlovén nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel a szlovén nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan és motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan és értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti szlovén és a nemzetiségi szlovén szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.. Ismerje az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
-
-4.2.2. A szlovén és nemzetiségi szlovén nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 32–36 kredit
-
-– Közismereti tantárgyak: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései, elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok, szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
-
-– Szlovénia ismerete: a célnyelvi ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
-
-– Interkulturális ismeretek: a szláv népek kultúrájának összehasonlító áttekintése.
-
-– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok), a magyarországi szlovén nemzetiség története, tárgyi és szellemi kultúrája.
-
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
-
-– Tartalom alapú nyelvi kompetenciafejlesztés: szaknyelvi ismeretek, a célnyelv és az anyanyelv kontrasztivitásának tudatosítása, fordítási gyakorlatok, stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
-
-– Irodalmi ismeretek: szlovén irodalomtörténeti áttekintés (korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegértelmezés, szövegelemzés, irodalom és medialitás).
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek.
-
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven, tudásbázisok használata, projektek.
-
-– Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése.
-
-– Nemzetiségi szakismeretek, a magyarországi szlovének nyelvhasználata (szociolingvisztikai kérdések: kétnyelvűség, diglosszia), nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer; a magyarországi szlovénok irodalma, a magyarországi szlovén nemzetiség tudományos élete.
-
-– Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése, a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
-
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése, szlovén–magyar irodalmi párhuzamok, irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
-
-– Nyelvészeti ismeretek: alkalmazott nyelvészeti ismeretek, pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika, szemantika, pragmatika, szótártan, grammatika, stilisztika; nyelvtörténet.
-
-– Nyelvészeti és irodalmi szakkollégium vagy szakszeminárium: aktuális nyelv- és irodalomtudományi kérdések elemzése.
-
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek), nemzetiségi média, nemzetiségi politika.
-
-5. A szlovén és nemzetiségi szlovén nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai, jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat.
-
-– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
-
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
-
-– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
-
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
-– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
-
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
-
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
-
-– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
-
-25. Újgörög és nemzetiségi görög nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-|  | – magyar nyelvű megjelölése: | okleveles újgörög nyelv és kultúra tanára |
-
-|  |  | okleveles újgörög és nemzetiségi görög nyelv és kultúra tanára |
-
-|  | – angol nyelvű megjelölése: | teacher of Modern Greek language and culture |
-
-|  |  | teacher of Modern Greek as a minority language and culture |
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, az újgörög és a nemzetiségi görög nyelv és irodalom tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek az újgörög nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. Az újgörög és nemzetiségi görög nyelv és kultúra tanárának szakterületi tudása, készségei, képességei:
-
-Görögnyelv-tudás, nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik. Képes az újgörög nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott újgörög nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően Képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismer a görög nyelvű kultúrákat (Görögország, Ciprus, görög nemzetiségi kultúrák), azok hasonlóságait és különbségeit, képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére.
-
-– Ismeri a görög nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan és motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan, értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. Képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-– A nyelvpedagógia elméletének tükrében képes a nyelvtanításnak az adott kontextusban legmegfelelőbb módszereit és eljárásait alkalmazni az alapkészségek, a nyelvtan, a kiejtés és intonáció, valamint az adott célnyelvi kultúrákra vonatkozó ismeretek tanítása, gyakoroltatása, mérése és értékelése során.
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti görög és a nemzetiségi görög szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén. Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére és megoldására.
-
-– Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (alternatív programok tankönyvek kipróbálása, bírálata).
-
-4.2.2. Az újgörög és nemzetiségi görög nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 66–78 kredit:
-
-– Az újgörög nyelv legalább C1 szintű elsajátítása, nyelvi kompetenciák fejlesztése: nyelvgyakorlatok az írásbeli és szóbeli szövegalkotási, illetve szövegértési készség további fejlesztésének céljából, valamint a szaknyelvi ismeretek bővítése.
-
-– A görög nyelvű országok története, a görög kultúra (irodalom, film, képzőművészet, alkalmazott művészetek) legfontosabb irányzatai, a kultúra és a görög nyelvű országok (Görögország és Ciprus), továbbá a diaszpóra társadalmának (beleértve a politika és gazdaság) aktuális kérdései.
-
-– Újgörög nyelvészet: a szinkrón és a diakrón nyelvészet alapjai, görög nyelvtörténet, alapvető rendszernyelvészeti ismeretek, az alkalmazott nyelvészet főbb területeinek ismeretanyaga (szocio- és pszicholingvisztika, nyelvelsajátítás, szövegnyelvészet és kompetencia, nyelvi variáció, stílus). A tanításhoz szükséges kontrasztív nyelvészeti alapok és kérdések.
-
-– Ismeretek a görög irodalom területén (vázlatos áttekintés az ókori és bizánci görögségről, alapos ismerek az új- és modern kori görög irodalomról).
-
-b) a szakmai törzsanyag ismeretkörei: 38–47 kredit
-
-ba) a szakmai törzsanyag általános szakterületi ismeretkörei:
-
-– A szinkron nyelvállapot fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai rendszerének magas fokú ismerete.
-
-– Szociolingvisztikai sajátosságok. Stilisztikai ismeretek. A magyar és a görög kontrasztív nyelvészeti ismeretei.
-
-– Bizánci, kora újkori, valamint újkori görög irodalomtörténet.
-
-– A szövegkritika alapjai.
-
-– Az irodalmi műfajok értő ismerete (műelemzés és befogadási modellek) az irodalomtörténet tükrében/alapján, az irodalom és a média összefüggései, a komparatisztika aktuális szempontjai (magyar-újgörög és egyéb európai nyelvek és kultúrák vonatkozásában)
-
-bb) a nemzetiségigörög-tanár szakirányhoz tartozó, további sajátos ismeretek: legfeljebb 9 kredit:
-
-– A hazai görögök története, tárgyi és szellemi kultúrája a történet-, a nyelv-, az irodalomtudomány, a néprajz, a szociológia és a kulturális antropológia bevonásával. A görög nemzetiség, mint a sokszínű európai kultúra szerves része, különös tekintettel a közép- és dél-európai régióra.
-
-– Szociolingvisztikai kérdések: Kétnyelvűség, diglosszia és nyelvelsajátítás, nemzetiségi nyelvhasználat a magyarországi görögöknél.
-
-– Nyelv-kultúra-társadalom-identitás.
-
-– Görög nyelvű regionális irodalom.
-
-5. Az újgörög és a nemzetiségi görög nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– Tanulásmódszertan: a tanulásmódszertan terminológiája. Tanuláspszichológiai alapok. A reflexió fogalma és fontossága a nyelvtanulásban, nyelvoktatásban. Új tanulási technikák (asszociatív szótanulás, mind map) megismerése, kipróbálása és reflexiója. Az újgörög nyelv tanulásával összefüggő problémák felismerése, megoldások. A különféle módszerek és munkaszervezési eljárások kipróbálása, reflexiója.
-
-– Kutatásmódszertan. A filológiai és a pedagógiai kutatás különbségének megragadása, módszereik megismerése. A tudományos kutatás alapfogalmai, módszerei, eszközei, internet- és könyvtárhasználat, jegyzetelés, bibliográfia stb. folyamatának megismerése. A pedagógiai kutatómunka módszerei: a kutatási probléma, a kutatás tárgya, hipotézisei, megfigyelés, dokumentumelemzés, tartalomelemzés, felmérés, kérdőív, interjú, szociometria, statisztikai módszerek, mérési skálák és tesztek. A projektmunka megismerése a szakmódszertan szempontjából.
-
-– Tanításmódszertan: A nyelvtanítás elméleti tudnivalói és gyakorlati ismeretei; nemzetközi tendenciák és a magyarországi gyakorlat. A betűtanítás korszerű módszerei, a nyelvtani esetrendszer tanításának módszertani jelentősége. A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése, bankosítása. A vizsgák minőségi kritériumai: a validitás és a megbízhatóság. Tanítási technikák, módszerek, mikrotanítás. Multimediális nyelvtanítási ismeretek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka), tantervek, tanmenetek, tematikus tervek, óratervezetek, óravázlatok készítésének módszertana. Tananyagkészítés, projektmunka és a személyre szabott oktatás. A csoportos oktatás jellemzői, a csoportdinamika szerepe a kommunikatív nyelvoktatásban, a csoport, mint motiváló tényező. A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma. A szaknyelvek oktatása a középiskolákban, a szakképző intézményekben és a felnőttképzésben.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-26. Ukrán és nemzetiségi ukrán nyelv és kultúra tanára
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
-
-– magyar nyelvű megjelölése: okleveles ukrán és nemzetiségi ukrán nyelv és kultúra tanára
-
-– angol nyelvű megjelölése: teacher of Ukrainian language and culture and Ukrainian as a minority language and culture
-
-2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.1. és 4.2.1. pontjára figyelemmel
-
-– a képzési idő 12 félév
-
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben, az ukrán és a nemzetiségi ukrán nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése. A végzettek az ukrán nyelv és kultúra tanításán kívül speciális kisebbségtudományi ismeretek birtokában képesek részt venni a nemzetiségi szervezetek munkájában és a nemzetiségi közéletben, továbbá felkészültek a tanulmányok doktori képzésben való folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. Az ukrán és nemzetiségi ukrán nyelv és kultúra tanárának szakterületi tudása, készségei, képességei
-
-Az ukrán nyelvtudás és a nyelvhasználat terén
-
-– Magas, legalább C1 szintű, használható nyelvtudással, interkulturális kommunikatív kompetenciával rendelkezik. Képes az ukrán nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
-
-– Ismeri a beszélt és írott ukrán nyelv szabályait, regisztereit, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
-
-– Ismeri a szinkron nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai, pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit. Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
-
-A célnyelvi kultúrák közvetítése terén
-
-– Ismeri az ukrán nyelvű kultúrákat, azok sajátosságait, képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére. Ismeri az ukrán nyelvű kultúrák jellemző szellemi és művészeti irányzatait, megjelenési formáit, műveit, különös tekintettel az ukrán nyelvű irodalomra, de ide értve a kortárs populáris kultúra elemeit is, azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan, motiválóan, nyelvtanítás céljára alkalmazni.
-
-– Képes a kortárs irodalmi műveket, a célnyelvi kultúra egyéb megjelenési formáit, az ezekről szóló szakirodalmat kritikusan és értően áttekinteni, értelmezni, az irodalmi és kulturális trendekben elhelyezni.
-
-Szaktudományi, szakmódszertani tudás terén
-
-– Ismeri a kontrasztív nyelvészet, a szövegnyelvészet, a korpusznyelvészet, a diskurzuselemzés, valamint a nyelvészeti pragmatika alapjait, és tudását a nyelvtanítás során képes alkalmazni.
-
-– Ismeri a szociolingvisztika és a pszicholingvisztika alapjait; képes tudását nyelvtanulással, nyelvtanítással kapcsolatos tevékenységek során alkalmazni.
-
-– Ismeri az első, második és további idegen nyelvek elsajátításának elméleteit, továbbá az elméleti kérdésekről szóló empirikus kutatások eredményeit. képes ismereteit kritikusan alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni. Ismeri az egyéni különbségek szerepét a nyelvtanulásban (nyelvérzék, motiváció, életkor, nyelvi szorongás, tanulási stílusok, stratégiák, a köztes nyelv).
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti ukrán és a nemzetiségi ukrán szaktárgyi követelményeket, az iskolai nevelő-oktató munka tartalmi szabályozását.. Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
-
-– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
-
-– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és tudja alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
-
-– Képes az értékelés különböző céljainak és szintjeinek megfelelő értékelési formák, módszerek meghatározására, alkalmazására, az értékelés dokumentálására (pl. portfólió formájában). Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
-
-– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében. Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására, a tanulók számára biztosítja a visszacsatolás lehetőségeit.
-
-A tanulási folyamat támogatása, szervezése és irányítása terén
-
-– Képes az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
-
-– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni. Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
-
-– Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra.
-
-– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására. Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
-
-Szakmai elkötelezettség és önfejlesztés terén
-
-– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire kritikusan reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
-
-– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására. Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
-
-– Részt vesz az iskolai munkára vonatkozó kutatásokban, fejlesztésekben, a kutatási eredmények értelmezésére és alkalmazására nevelő-oktató munkájában. Nyitott a fejlesztési, innovációs törekvések kipróbálására (pl. alternatív programok, tankönyvek kipróbálása, bírálata).
-
-– Képes nemzetiségi szervezetek, öntevékeny csoportok munkájába támogató attitűddel bekapcsolódni.
-
-4.2.2. A ukrán és nemzetiségi ukrán nyelv és kultúra tanára szakon a szakterületi ismeretek:
-
-a) szakmai alapozó ismeretek: 32–36 kredit
-
-– Közismereti tantárgyak: irodalomtudományi alapismeretek (az irodalmi szövegelemzés alapvető kérdései; elemi műfajismeret, alapvető terminológia és irodalomelméleti iskolák), nyelvtudományi alapismeretek (a tanulmányi területre jellemző terminológia, módszerek áttekintő megismertetése), filozófiatörténet.
-
-– Nyelvi kompetenciák fejlesztése: nyelvtani gyakorlatok; szövegalkotási (szóbeli és írásbeli kifejezőkészség), szövegértési (írott és hallott szöveg értése) kompetenciáinak fejlesztése; szövegfajták.
-
-– Ukrajna ismerete: a célnyelvi ország földrajzi adottságainak, történelmi, politikai, társadalmi, gazdasági vonatkozásai, intézményrendszere.
-
-– Interkulturális ismeretek: a szláv népek kultúrájának összehasonlító áttekintése.
-
-– Nemzetiségi alapismeretek: a hazai nemzetiségek (a magyarországi nemzetiségi politika, nemzetiségi jogok stb.); a magyarországi ukrán nemzetiség története, tárgyi és szellemi kultúrája.
-
-b) a szakmai törzsanyag ismeretkörei: 80–90 kredit
-
-– Tartalom alapú nyelvi kompetencia-fejlesztés: szaknyelvi ismeretek; a célnyelv és az anyanyelv kontrasztivitásának tudatosítása, fordítási gyakorlatok, stílusrétegek, szövegfajták, prezentációs technikák tartalom alapú közvetítése.
-
-– Irodalmi ismeretek: ukrán irodalomtörténeti áttekintés: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik, irodalmi műfajok, szövegértelmezés, szövegelemzés, irodalom és medialitás.
-
-– Nyelvészeti ismeretek: szinkrón rendszernyelvészeti áttekintés: fonetika-fonológiai, morfológiai, lexikológiai, szintaktikai, szövegnyelvészeti ismeretek.
-
-– Kutatás-módszertani alapismeretek: bevezetés a tudományos ismeretszerzés technikáiba a célnyelven; tudásbázisok használata, projektek.
-
-– Diaszpórák vizsgálata: szociológiai összetételük, nyelvhasználatuk, irodalmuk, kultúrájuk összehasonlító elemzése.
-
-– Nemzetiségi szakismeretek, a magyarországi ukránok nyelvhasználata (szociolingvisztikai kérdések: kétnyelvűség, diglosszia), nemzetiségi önszerveződés, nemzetiségi intézmények, a nemzetiségi oktatási rendszer, a magyarországi ukránok irodalma, a magyarországi ukrán nemzetiség tudományos élete.
-
-– Nyelvi kompetenciafejlesztés: a szaknyelvi ismeretek elmélyítése, a célnyelven oktatott középiskolai tantárgyak terminológiájára fókuszálva.
-
-– Irodalomtudományi ismeretek: a modern irodalomtudomány irányzatai, modern irodalmi szövegek elemzése; ukrán–magyar irodalmi párhuzamok, irodalomtörténeti és -elméleti irányzatok elmélyítése, ezek gyakorlati alkalmazása irodalmi szövegek elemzésében.
-
-– Nyelvészeti ismeretek: alkalmazott nyelvészeti ismeretek: pszicholingvisztika, kontrasztív nyelvészet, szociolingvisztika, szemantika, pragmatika, szótártan, grammatika, stilisztika, nyelvtörténet.
-
-– Nyelvészeti és irodalmi szakkollégium vagy szakszeminárium: aktuális nyelv- és irodalomtudományi kérdések elemzése
-
-– Kisebbségtudományi ismeretek: nyelv-kultúra-identitás (nemzetiségi identitások, identitásprojektek); nemzetiségi média; nemzetiségi politika.
-
-5. Az ukrán és nemzetiségi ukrán nyelv és kultúra tanárának sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– A nyelv tanításának módszertana: a nyelvoktatás különböző módszereinek kialakulása, céljai, jellemzői, a jelenkori nemzetközi tendenciák és a magyarországi gyakorlat
-
-– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
-
-– A nyelvtudás mérése és értékelése. Az osztálytermi értékelés, az érettségi és a nyelvvizsgák. Az idegennyelv-tudás szintjei a Közös Európai Referenciakeret alapján.
-
-– A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
-
-– A nyelvoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv idegennyelv-tanításra vonatkozó irányelvei.
-
-– A Közös Európai Referenciakeret és annak alkalmazása.
-
-– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok.
-
-– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
-
-– A tankönyv szerepe a nyelvtanításban. A tankönyvelemzés szempontjai.
-
-– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
-
-– A nyelvtanári kompetencia meghatározása és fejlesztése. A tanári munka fázisai. A nyelvi hiba fogalma, a hibajavítás elméleti alapjai és gyakorlata.
-
-– A nyelvtanulási stratégiák és technikák alapjai, a tanulás tanítása.
-
-– Tananyagkészítés, projektmunka és a személyre szabott oktatás.
-
-[^15]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) és (3) bekezdése, az 53/2016. (XII. 29.) EMMI rendelet 19. § (2) bekezdése, a 3/2019. (II. 11.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
+[^34]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított szöveg.

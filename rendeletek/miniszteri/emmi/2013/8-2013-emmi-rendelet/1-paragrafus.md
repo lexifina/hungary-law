@@ -2,10 +2,12 @@
 
 a) osztatlan képzésben, tanárszakon, tanárszakokon,
 
-b) osztott képzésben, tanári mesterszakon,
+b)[^1] osztott képzésben, tanári mesterszakon vagy
 
-c)[^1] a művészet képzési terület szerinti, valamint a műszaki, az informatika, a gazdaságtudományok és az agrár képzési terület szerinti nem tanári mesterszakkal vagy osztatlan szakkal párhuzamos képzésben tanári mesterszakon vagy
+c)[^2] az adott tanárszak szakterülete szerinti nem tanári mesterképzési szakkal, illetve osztatlan szakkal párhuzamosan vagy a mesterfokozatot követően felvett tanári mesterszakon.
 
-d) az adott tanárszak szakterülete szerinti nem tanárszakon szerzett mesterfokozatot követően, tanári mesterszakon.
+d)[^3]
 
-[^1]: Az 1. § c) pontja a 3/2019. (II. 11.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § b) pontja a 64/2021. (XII. 29.) ITM rendelet 8. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § c) pontja a 64/2021. (XII. 29.) ITM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § d) pontját a 64/2021. (XII. 29.) ITM rendelet 9. § 1. pontja hatályon kívül helyezte.
