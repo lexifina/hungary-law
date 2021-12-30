@@ -1,0 +1,1 @@
+## 6. § Felsőoktatási szakképzésen, alapképzési szakon és mesterképzési szakon új szakirány esetében a felsőoktatási képesítési jegyzékbe történő felvétel eljárását az új felsőoktatási szakképzés, illetve az új szak létesítésére vonatkozó eljárás szerint kell lefolytatni.
