@@ -2,7 +2,7 @@
 
 ## JOGORVOSLAT
 
-92. § (1) Akinek a IV–V. Fejezetben – a 46/A–46/C. § kivételével –, valamint a VI. Fejezetben meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette, választása szerint
+92. § (1) Akinek a IV–V. Fejezetben – a személyi védelemmel, illetve Védelmi Programmal kapcsolatos intézkedés, a rejtett ellenőrzés elrendelése, a Schengeni Információs Rendszerben elhelyezett rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtása, valamint a fokozott ellenőrzés elrendelése kivételével –, valamint a VI. Fejezetben meghatározott kötelezettség megsértése, a rendőri intézkedés, annak elmulasztása, a kényszerítő eszköz alkalmazása (e fejezet alkalmazásában a továbbiakban együtt: intézkedés) alapvető jogát sértette, választása szerint
 
 a) panasszal fordulhat az intézkedést foganatosító rendőri szervhez vagy
 
