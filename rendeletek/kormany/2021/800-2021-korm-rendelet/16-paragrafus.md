@@ -1,1 +1,3 @@
-## 15. § Az egyes kormányrendeleteknek a szakképzéssel összefüggő módosításáról szóló 380/2021. (VI. 30.) Korm. rendelet 60. § (3) bekezdésében a „július” szövegrész helyébe a „január” szöveg lép.
+## 15. §[^20]
+
+[^20]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

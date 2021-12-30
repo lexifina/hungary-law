@@ -1,4 +1,4 @@
-## 16. §[^19]
+## 16. §[^21]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 14. § f) pontja 2022. szeptember 15-én lép hatályba.
 
-[^19]: A 16. § a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^21]: A 16. § a 17. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
