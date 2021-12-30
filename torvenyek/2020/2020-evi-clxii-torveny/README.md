@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-162-00-00
 | 2021-04-02 | 2010. évi CXXX. törvény | 2020-162-00-00.6 |
 | 2021-05-14 | 2021. évi XXXI. törvény | 2020-162-00-00.7 |
 | 2021-06-29 | 2021. évi CI. törvény | 2020-162-00-00.8 |
+| 2021-12-30 | 2021. évi CXX. törvény | 2020-162-00-00.9 |
