@@ -1,1 +1,0 @@
-## 3. § A 405/2021. Korm. rendelet 1. § (1) bekezdés nyitó szövegrészében az „a műszaki üzemi terv szerinti kitermelési kapacitás” szövegrész helyébe az „az első, módosítás nélküli kitermelési műszaki üzemi tervben engedélyezett legnagyobb kitermelési mennyiség” szöveg lép.

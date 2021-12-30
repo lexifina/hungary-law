@@ -1,3 +1,5 @@
-## 4. § Hatályát veszti a 405/2021. Korm. rendelet 1. § (5) bekezdése.
+## 1–4. §[^2]
 
 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+[^2]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
