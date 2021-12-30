@@ -1,22 +1,33 @@
 ## 22. Fokozott ellenőrzés
 
-26. § (1) A fokozott ellenőrzés összehangolt és koncentrált rendőri szolgálati tevékenység, amelynek során a rendőrhatóság illetékességi területét vagy annak egy részét lezárják, és az ott tartózkodókat igazoltatják.
+26. §[^50] (1) A fokozott ellenőrzés előre meghatározott céllal elrendelt, korlátozott időtartamon belül és az arra kijelölt földrajzi területen összehangoltan végrehajtott rendőri tevékenység.
 
-(2) Fokozott ellenőrzés végrehajtását
+(2) A meghatározott földrajzi területre elrendelt fokozott ellenőrzés nem akadálya annak, hogy ugyanarra a területre vagy annak egy részére – az eredeti elrendelés időtartamán belül – más célból újabb fokozott ellenőrzést rendeljenek el, ha az elrendelésre okot adó információk, körülmények merülnek fel.
 
-a)[^50] az ország egész területén vagy több megye illetékességi területén az országos rendőrfőkapitány, a bűnügyi országos rendőrfőkapitány-helyettes, a rendészeti országos rendőrfőkapitány-helyettes,
+(3) Fokozott ellenőrzés végrehajtását
 
-b)[^51] illetékességi területén a rendőrfőkapitány, a rendőrkapitány vagy a tevékenység-irányítási központ ügyeletvezetője, a határrendészeti kirendeltség vezetője, továbbá
+a) az országos rendőrfőkapitány,
 
-c)[^52] a hatáskörük szerint ellátott speciális feladatok végrehajtása során a Repülőtéri Rendőr Igazgatóság igazgatója, a Készenléti Rendőrség parancsnoka vagy a Terrorelhárítási Központ főigazgatója
+b) a bűnügyi országos rendőrfőkapitány-helyettes, a rendészeti országos rendőrfőkapitány-helyettes,
 
-## rendelheti el.
+c) a Készenléti Rendőrség parancsnoka,
 
-(3)[^53] A (2) bekezdésben meghatározottaknak megfelelően az államhatár őrzése (a továbbiakban: határőrizet), a határforgalom ellenőrzése és az államhatár rendjének fenntartása érdekében fokozott ellenőrzést rendelhet el az országos rendőrfőkapitány, a rendészeti országos rendőrfőkapitány-helyettes, a rendőrkapitány, a határrendészeti kirendeltség vezetője és a Repülőtéri Rendőr Igazgatóság igazgatója.
+d) a Repülőtéri Rendőr Igazgatóság igazgatója,
 
-(4) A tervezett fokozott ellenőrzést a jogosult vezető előzetesen szükség szerint, az elrendeltet pedig a végrehajtását követően szolgálati elöljárójának jelenti.
+e) a megyei (fővárosi) rendőrfőkapitány,
 
-[^50]: A 26. § (2) bekezdés a) pontja a 61/2015. (XI. 24.) BM rendelet 5. §-ával megállapított szöveg.
-[^51]: A 26. § (2) bekezdés b) pontja a 18/2013. (V. 9.) BM rendelet 3. § (1) bekezdésével megállapított, a 61/2015. (XI. 24.) BM rendelet 17. § e) pontja és 18. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^52]: A 26. § (2) bekezdés c) pontja a 31/2012. (VI. 28.) BM rendelet 15. § b) pontja szerint módosított szöveg.
-[^53]: A 26. § (3) bekezdése a 18/2013. (V. 9.) BM rendelet 3. § (2) bekezdésével megállapított, a 61/2015. (XI. 24.) BM rendelet 17. § f) pontja szerint módosított szöveg.
+f) a rendőrkapitány, illetve a határrendészeti kirendeltség vezetője, valamint
+
+g) a terrorizmust elhárító szerv főigazgatója
+
+## rendelheti el legfeljebb két hónapra.
+
+(4) Az elrendelt fokozott ellenőrzés – ha annak célja továbbra is fennáll – saját hatáskörben legfeljebb két alkalommal, alkalmanként legfeljebb két hónappal meghosszabbítható.
+
+(5) A fokozott ellenőrzést írásban kell elrendelni, illetve meghosszabbítani, amit – az elrendelés vagy meghosszabbítás céljának és az alapjául szolgáló indokok megjelölésével – az elrendelő szerv honlapján közzé kell tenni.
+
+(6) Ha a rendőr fokozott ellenőrzés keretében foganatosít rendőri intézkedést, a rendőri intézkedés végrehajtása során az intézkedés alá vont személlyel a fokozott ellenőrzés – rendőri intézkedéssel összhangban álló – célját és annak jogalapját is közölni kell.
+
+(7) A fokozott ellenőrzés keretében foganatosított rendőri intézkedés vagy kényszerítő eszköz alkalmazása során az Rtv.-nek és e rendeletnek a rendőri intézkedés vagy kényszerítő eszköz alkalmazásával kapcsolatos szabályait alkalmazni kell. A fokozott ellenőrzés elrendelésének ténye nem mentesíti a rendőrt az alól, hogy jogszabályi kötelezettségeit teljesítse.
+
+[^50]: A 26. § a 46/2021. (XII. 22.) BM rendelet 3. §-ával megállapított szöveg.
