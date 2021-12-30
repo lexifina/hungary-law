@@ -2,7 +2,7 @@
 
 18. § (1)[^49] Alap- és mesterképzési szak indításának, a szak új szakiránya vagy specializációja indításának, doktori iskola létesítésének, létesített doktori iskola új tudományágában doktori képzés indításának nyilvántartásba vételét a Hivatalnál a felsőoktatási intézmény vezetője a képzésindítás kezdő – szükség esetén utolsó – tanévének és félévének megadásával kérelmezi. Az alap-, illetve mesterképzés indításának tárgyi és személyi feltételeit az 5. melléklet határozza meg.
 
-(2)[^50] Alap- vagy mesterképzési szaknak, valamint alap- vagy mesterképzési szak szakirányának az indítása akkor kezdeményezhető, ha a szak képzési és kimeneti követelményeit a miniszter rendeletben meghatározta.
+(2)[^50] Alap- vagy mesterképzési szaknak, valamint alap- vagy mesterképzési szak szakirányának az indítása akkor kezdeményezhető, ha a szak képzési és kimeneti követelményeit a miniszter hivatalos kiadványként közzétette.
 
 (3)[^51] A felsőoktatási felvételi tájékoztatóban a felsőoktatási felvételi eljárásról szóló kormányrendelet alapján kötelezően meghirdetendő alap- vagy mesterképzés, alap- vagy mesterképzéshez tartozó szakirány indításának, doktori képzés esetén tudományág nyilvántartásba vétele a februárban induló képzések tekintetében legkésőbb a megelőző év augusztus 31-éig, a szeptemberben induló, az általános felsőoktatási felvételi eljárásban meghirdetni kívánt képzések tekintetében legkésőbb a megelőző év szeptember 30-áig, a szeptemberben induló, a felsőoktatási pótfelvételi eljárásban meghirdetett képzések tekintetében legkésőbb a tárgyév június 30-áig kezdeményezhető. A felsőoktatási felvételi tájékoztatóban a felsőoktatási felvételi eljárásról szóló kormányrendelet alapján nem kötelezően meghirdetendő alap- vagy mesterképzés, alap- vagy mesterképzéshez tartozó szakirány nyilvántartásba vétele a februárban induló képzések tekintetében legkésőbb a megelőző év december 15-éig, a szeptemberben induló képzések tekintetében legkésőbb a tárgyév július 15-éig kezdeményezhető.
 
@@ -47,7 +47,7 @@ c) megvannak-e az intézményben az indításhoz szükséges személyi és tárg
 (10)[^57] Alap- és mesterképzési szakon, alap- és mesterképzési szak új szakirányán, doktori iskolában, valamint létesített doktori iskola új tudományágában képzés a Hivatal nyilvántartásba vételi határozatának véglegessé válását követően indítható.
 
 [^49]: A 18. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
-[^50]: A 18. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
+[^50]: A 18. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (1) bekezdésével megállapított, a 830/2021. (XII. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^51]: A 18. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (1) bekezdésével megállapított szöveg.
 [^52]: A 18. § (4) bekezdés e) pontját a 345/2015. (XI. 19.) Korm. rendelet 66. § (2) bekezdése iktatta be.
 [^53]: A 18. § (6) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 66. § (3) bekezdésével megállapított szöveg.
