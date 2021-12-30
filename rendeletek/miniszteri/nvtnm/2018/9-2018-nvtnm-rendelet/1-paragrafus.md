@@ -8,4 +8,4 @@ c) az M6 autópálya III. fázisa és az M60 autópálya megvalósítása célj�
 
 d) az M6 autópálya II. fázisa megvalósítása céljából 2008. július 16-án megkötött koncessziós szerződéssel érintett M6 autópálya 76+200 km és 141+300 km szelvény közötti gyorsforgalmi út és tartozékai állami tulajdonban álló, koncesszióba adott vagyonelemei
 
-[^2]: Az 1. § záró szövegrésze a 20/2020. (XII. 29.) NVTNM rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 1. § záró szövegrésze a 20/2020. (XII. 29.) NVTNM rendelet 3. §-a, a 28/2021. (XII. 29.) NVTNM rendelet 1. §-a szerint módosított szöveg.
