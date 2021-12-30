@@ -176,6 +176,8 @@
 
 | 81. | Iparterület bővítése Bük területén | Bük közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 04/40, 04/41, 04/62, 07/4, 07/15, 07/20, 07/21, 07/23, 07/25, 07/27, 07/29, 07/31, 07/33, 07/34, 07/35, 07/36, 07/37, 067, továbbá a Bük belterület 1484/1, 1484/5, 1484/6, 1484/7 és 1609 helyrajzi számú ingatlanok | Vas Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^226]
+| 82. | A zalaegerszegi északi ipari park fejlesztések megvalósítására irányuló beruházás | Zalaegerszeg külterület 0779/8, 0779/14, 0782/2, 0783/1, 0788/101, 0788/102, 0788/103, 0788/113, 0788/115, 0788/116 és 0829/15 helyrajzi számú ingatlanok, továbbá Egervár külterület 02030 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^226]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^228]
+
+[^228]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

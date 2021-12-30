@@ -1,3 +1,3 @@
-6. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^229]
+6. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^231]
 
-[^229]: A 6. mellékletet a 752/2021. (XII. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^231]: A 6. mellékletet a 752/2021. (XII. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be.
