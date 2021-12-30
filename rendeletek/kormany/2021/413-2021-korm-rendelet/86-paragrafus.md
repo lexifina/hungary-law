@@ -4,7 +4,7 @@
 
 ## PROJEKTINDÍTÓ TÁMOGATÁS
 
-86. § (1)[^27] A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet, 3. Központi kezelésű előirányzatok cím, 10. Nemzeti Helyreállítási Alap előirányzat alcím (a továbbiakban: Nemzeti Helyreállítási Alap előirányzat) terhére projektindító támogatás nyújtható a HET intézkedési listában szereplő kiemelt konstrukciók végső kedvezményezettjei részére.
+86. § (1)[^45] A Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XIX. Gazdaság-újraindítási Alap uniós fejlesztései fejezet, 3. Központi kezelésű előirányzatok cím, 10. Nemzeti Helyreállítási Alap előirányzat alcím (a továbbiakban: Nemzeti Helyreállítási Alap előirányzat) terhére projektindító támogatás nyújtható a HET intézkedési listában szereplő kiemelt konstrukciók végső kedvezményezettjei részére.
 
 (2) A projektindító támogatást a HET intézkedési listában szereplő kiemelt konstrukciók végső kedvezményezettjei kérelem alapján igényelhetik, a nemzeti hatóság által elkészített és a pályázati eljárásokkal kapcsolatos adatok közzétételének helyéül szolgáló honlapon megjelentetett felhívásnak megfelelően.
 
@@ -34,7 +34,7 @@ g) a kérelmező kötelezettségvállalását a HET intézkedésben való részv
 
 (4) A projektindító támogatás összege nem haladhatja meg a HET intézkedésben igényelni tervezett támogatás összegét.
 
-(5)[^28] A projektindító támogatás rendelkezésre bocsátása a 64. § (1) és (4) bekezdésében foglaltaktól eltérően egy összegben, támogatási előlegként történik.
+(5)[^46] A projektindító támogatás rendelkezésre bocsátása a 64. § (1) és (4) bekezdésében foglaltaktól eltérően egy összegben, támogatási előlegként történik.
 
 (6) A projektindító támogatás intenzitásának maximális mértéke 100%. Ha a támogatás állami támogatásnak minősül, támogatás csak a támogatás jogcíméhez tartozó támogatási kategória szerint nyújtható, az arra vonatkozó szabályok betartása mellett.
 
@@ -44,5 +44,5 @@ g) a kérelmező kötelezettségvállalását a HET intézkedésben való részv
 
 (9) A kérelmekről a nemzeti hatóság vezetője dönt, amely alapján a nemzeti hatóság vezetője támogató okiratot bocsát ki, vagy támogatási szerződést köt a pályázóval.
 
-[^27]: A 86. § (1) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^28]: A 86. § (5) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^45]: A 86. § (1) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^46]: A 86. § (5) bekezdése a 487/2021. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.

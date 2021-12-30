@@ -1,6 +1,6 @@
 ## hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez
+1. melléklet a 413/2021. (VII. 13.) Korm. rendelethez[^51]
 
 A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kijelölése
 
@@ -16,13 +16,13 @@ A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kije
 
 | 5. | IV. Vízgazdálkodás | Miniszterelnökség | Belügyminisztérium2, Agrárminisztérium | Nincs |
 
-| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | Innovációs és Technológiai Minisztérium3 együttműködve a Miniszterelnökséggel | Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság |
+| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | Innovációs és Technológiai Minisztérium3 együttműködve a Miniszterelnökséggel | Nincs |
 
-| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | Innovációs és Technológiai Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft. |
+| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | Innovációs és Technológiai Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Kft., Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság |
 
 | 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | Innovációs és Technológiai Minisztérium | Nincs |
 
-| 9. | VIII. Egészségügy | Miniszterelnökség | Emberi Erőforrások Minisztériuma | Nincs |
+| 9. | VIII. Egészségügy | Miniszterelnökség | Emberi Erőforrások Minisztériuma | Nemzeti Egészségbiztosítási Alapkezelő |
 
 | 10. | IX. Horizontális intézkedések | Miniszterelnökség |  | Nincs |
 
@@ -31,3 +31,5 @@ A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kije
 2 Szakmai koordinációra kijelölt minisztérium.
 
 3 Szakmai koordinációra kijelölt minisztérium.
+
+[^51]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja szerint módosított szöveg.

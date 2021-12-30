@@ -1,6 +1,6 @@
 ## 89. § Ez a rendelet a Helyreállítási és Rezilienciaépítési Eszköz létrehozásáról szóló, 2021. február 12-i 2021/241/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-## 90. §[^32] E rendelet
+## 90. §[^50] E rendelet
 
 a) 84. § (1) bekezdés a)–e) pontja, (2) bekezdés a) pontja, (3) bekezdés a) pontja, (5) bekezdés a)–g) pontja és (6) bekezdés a) pontja a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet,
 
@@ -14,4 +14,4 @@ e) 84. § (4) bekezdés a) pontja az az Európai Unió működéséről szóló 
 
 f) 84. § (1) bekezdés f) pontja, (2) bekezdés c) pontja, (3) bekezdés d) pontja, (4) bekezdés b) pontja, (5) bekezdés i) pontja, valamint (6) bekezdés c) pontja az „Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID19-járvánnyal összefüggésben való támogatása céljából” című, C(2020) 1863 számú, 2021. március 19-i európai bizottsági közlemény 3.1. szakasza
 
-[^32]: A 90. § a 487/2021. (VIII. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^50]: A 90. § a 487/2021. (VIII. 13.) Korm. rendelet 14. §-ával megállapított szöveg.

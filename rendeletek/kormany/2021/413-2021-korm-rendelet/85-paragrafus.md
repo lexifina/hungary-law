@@ -34,18 +34,18 @@
 
 16. halászati és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 24. alcíme
 
-17.[^22] hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 28. alcíme,
+17.[^40] hátrányos helyzetű munkavállalók felvételéhez bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 28. alcíme,
 
-18.[^23] megváltozott munkaképességű munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 26. alcíme,
+18.[^41] megváltozott munkaképességű munkavállalók foglalkoztatásához bértámogatás formájában nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 26. alcíme,
 
-19.[^24] megváltozott munkaképességű munkavállalók foglalkoztatásával járó többletköltségek ellentételezéséhez nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 27. alcíme,
+19.[^42] megváltozott munkaképességű munkavállalók foglalkoztatásával járó többletköltségek ellentételezéséhez nyújtott támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 27. alcíme,
 
-20.[^25] hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 29. alcíme,
+20.[^43] hátrányos helyzetű munkavállalók segítésének költségeit ellentételező támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 29. alcíme,
 
-21.[^26] átmeneti támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/A. alcíme
+21.[^44] átmeneti támogatás esetén a 255/2014. (X. 10.) Korm. rendelet 41/A. alcíme
 
-[^22]: A 85. § 17. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^23]: A 85. § 18. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^24]: A 85. § 19. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^25]: A 85. § 20. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
-[^26]: A 85. § 21. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^40]: A 85. § 17. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^41]: A 85. § 18. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^42]: A 85. § 19. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^43]: A 85. § 20. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
+[^44]: A 85. § 21. pontját a 487/2021. (VIII. 13.) Korm. rendelet 9. §-a iktatta be.
