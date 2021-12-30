@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-126-00-00
 | --- | --- | --- |
 | 2021-11-18 | 2021. évi CXXVI. törvény | 2021-126-00-00.0 (közlönyállapot) |
 | 2021-11-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-126-00-00.1 |
+| 2021-12-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-126-00-00.2 |
