@@ -1,6 +1,6 @@
-## 10. §[^70]
+## 10. §[^71]
 
-1. melléklet a 94/2013. (X. 10.) VM rendelethez[^71]
+1. melléklet a 94/2013. (X. 10.) VM rendelethez[^72]
 
 A 3. § (1) bekezdésében hivatkozott agrártevékenységek
 
@@ -228,5 +228,5 @@ A 3. § (1) bekezdésében hivatkozott agrártevékenységek
 
 | 77.31 | Mezőgazdasági gép kölcsönzése |
 
-[^70]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^71]: Az 1. mellékletet a 4/2019. (III. 6.) AM rendelet 4. § (4) bekezdése iktatta be.
+[^71]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: Az 1. mellékletet a 4/2019. (III. 6.) AM rendelet 4. § (4) bekezdése iktatta be.

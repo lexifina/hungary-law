@@ -28,7 +28,9 @@ bb) a 17/2017. (IV. 10.) FM rendelet hatálybalépéstől[^30] kezdődően hatá
 
 (4c)[^33] A Gazdaságvédelmi Akcióterv keretében a koronavírus világjárvány mikro-, kis- és középvállalkozásokra, valamint nagyvállalatokra gyakorolt gazdasági hatásainak mérséklése érdekében az agrárgazdasághoz kapcsolódó hitel- és garanciakonstrukciókkal kapcsolatos intézkedésekről szóló 23/2020. (VI. 19.) AM rendelet hatálybalépésének napja[^34] és 2020. december 31. között (a határnapokat is beleértve) az MFB Agrár Forgóeszköz Hitelprogram 2020, az MFB TÉSZ Forgóeszköz Hitelprogram 2020 vagy az MFB Élelmiszeripari Forgóeszköz Hitelprogram 2020 keretében hatályossá vált hitelszerződéssel rendelkező kedvezményezett esetében a támogatás mértéke az esedékessé vált kezességi díjak 100%-a a kezességvállalás teljes futamidejére.
 
-(5)[^35] A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ettől eltérő mértékű kezességvállalás esetén a kezességidíj-támogatás mértéke arányosan változik.
+(4d)[^35] Az MFB Agrár Forgóeszköz Hitelprogram 2020 keretében az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelet hatálybalépését követő nap és 2022. június 30. között – a határnapokat is beleértve – hatályba lépett, minden megkezdett egész állategység után számított, állategységenként legfeljebb ötszázezer forint összegű, sertéstenyésztés felhasználási célú hitel kezességi díjai tekintetében a támogatás mértéke 100% kezességi díjtámogatás a kezességvállalás teljes idejére, azzal hogy hitelprogram keretében igénybe vett hitelnek a 100%-os kezességi díjtámogatású részén felüli részére számított kezességi díjtámogatás mértéke megegyezik a 3. § (3) bekezdésében foglalt mértékkel, és az a rá vonatkozó szabályok szerint vehető igénybe.
+
+(5)[^36] A kezességi díjtámogatás (3) bekezdésben meghatározott mértéke a 80%-os mértékű, tőkére vállalt kezesség esetén alkalmazandó, ettől eltérő mértékű kezességvállalás esetén a kezességidíj-támogatás mértéke arányosan változik.
 
 (6) Kezességi díjtámogatás nem vehető igénybe a kezességvállaló intézmény által az ügylet kamatára vállalt készfizető kezesség díjára.
 
@@ -38,7 +40,7 @@ bb) a 17/2017. (IV. 10.) FM rendelet hatálybalépéstől[^30] kezdődően hatá
 
 (9) Ha a kezességi díjtámogatás ugyanazon elszámolható költség vonatkozásában más európai uniós támogatással halmozódik, úgy a támogatás vonatkozásában az adott uniós jogcímre vonatkozó szabályokat kell alkalmazni.
 
-(10)[^36]
+(10)[^37]
 
 (11) A támogatástartalom euróra történő átszámításakor a kezesség elbírálásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
@@ -61,5 +63,6 @@ bb) a 17/2017. (IV. 10.) FM rendelet hatálybalépéstől[^30] kezdődően hatá
 [^32]: A hatálybalépés időpontja 2017. december 23.
 [^33]: A 3. § (4c) bekezdését a 23/2020. (VI. 19.) AM rendelet 1. §-a iktatta be, szövege a 66/2020. (XII. 18.) AM rendelet 10. § c) pontja szerint módosított szöveg.
 [^34]: A hatálybalépés időpontja 2020. június 22.
-[^35]: A 3. § (5) bekezdése a 14/2020. (IV. 10.) AM rendelet 9. § b) pontja szerint módosított szöveg.
-[^36]: A 3. § (10) bekezdését a 4/2019. (III. 6.) AM rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.
+[^35]: A 3. § (4d) bekezdését a 49/2021. (XII. 28.) AM rendelet 7. §-a iktatta be.
+[^36]: A 3. § (5) bekezdése a 14/2020. (IV. 10.) AM rendelet 9. § b) pontja szerint módosított szöveg.
+[^37]: A 3. § (10) bekezdését a 4/2019. (III. 6.) AM rendelet 4. § (5) bekezdés a) pontja hatályon kívül helyezte.
