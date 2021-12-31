@@ -1,10 +1,10 @@
-## 7. §[^12] Az MBFSZ törli a földtani szakértőt a nyilvántartásból, ha
+## 7. §[^13] A bányafelügyelet törli a földtani szakértőt a nyilvántartásból, ha
 
-a)[^13] a tevékenység folytatásától az MBFSZ végleges döntésével vagy a bíróság jogerős határozatával eltiltotta,
+a)[^14] a tevékenység folytatásától a bányafelügyelet végleges döntésével vagy a bíróság jogerős határozatával eltiltotta,
 
 b) bejelentette a tevékenység befejezését, vagy
 
 c) elhalálozott.
 
-[^12]: A 7. § a 24/2017. (VI. 30.) NFM rendelet 10. §-ával megállapított szöveg.
-[^13]: A 7. § a) pontja az 52/2017. (XII. 22.) NFM rendelet 17. §-a szerint módosított szöveg.
+[^13]: A 7. § a 24/2017. (VI. 30.) NFM rendelet 10. §-ával megállapított, nyitó szövegrésze a 71/2021. (XII. 30.) ITM rendelet 6. § c) pontja szerint módosított szöveg.
+[^14]: A 7. § a) pontja a 71/2021. (XII. 30.) ITM rendelet 6. § b) pontja szerint módosított szöveg.
