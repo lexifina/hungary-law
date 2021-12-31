@@ -1,0 +1,3 @@
+## „a) elsődleges mezőgazdasági termelés támogatása esetén a 60 000 eurónak megfelelő forintösszeget, a halászati és akvakultúra-termékek termelésével, feldolgozásával és értékesítésével kapcsolatos tevékenység támogatása esetén a 30 000 eurónak megfelelő forintösszeget, egyéb tevékenység támogatása esetén az 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából,”
+
+## (a támogatást nyújtónak adatot kell szolgáltatni a Támogatásokat Vizsgáló Iroda mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.)
