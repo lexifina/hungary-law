@@ -1856,6 +1856,6 @@
 
 ## Zalaszentgrót
 
-4. melléklet a 77/2015. (XII. 1.) FM rendelethez[^30]
+4. melléklet a 77/2015. (XII. 1.) FM rendelethez[^32]
 
-[^30]: A 4. mellékletet a 39/2017. (VIII. 7.) FM rendelet 18. §-a iktatta be.
+[^32]: A 4. mellékletet a 39/2017. (VIII. 7.) FM rendelet 18. §-a iktatta be.
