@@ -178,6 +178,8 @@
 
 | 82. | A zalaegerszegi északi ipari park fejlesztések megvalósítására irányuló beruházás | Zalaegerszeg külterület 0779/8, 0779/14, 0782/2, 0783/1, 0788/101, 0788/102, 0788/103, 0788/113, 0788/115, 0788/116 és 0829/15 helyrajzi számú ingatlanok, továbbá Egervár külterület 02030 helyrajzi számú ingatlan | Zala Megyei Kormányhivatalt vezető kormánymegbízott |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^228]
+| 83. | Kaposvár külterületén új északi ipari park I. ütemének kialakítása, továbbá az ahhoz kapcsolódó építmények, útépítés, közmű- és csatlakozási, valamint egyéb infrastruktúra fejlesztések megvalósítására irányuló beruházások | Kaposvár közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 015/22, 015/23, 015/24, 015/25, 015/26, 015/27, 015/28, 015/29, 016/21, 016/22, 016/23, 015/20, 015/3, 015/6 helyrajzi számú ingatlanok | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
 
-[^228]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^231]
+
+[^231]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

@@ -462,7 +462,7 @@
 
 | 659364.22, 259869.12 | N47° 40′ 57,29″ E19° 10′ 19,80″ |
 
-8. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^233]
+8. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^236]
 
 A Göd külterület 062/11 helyrajzi számú ingatlan területén véderdő, erdősített vagy fásított terület ingatlanrész területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
@@ -476,4 +476,4 @@ A Göd külterület 062/11 helyrajzi számú ingatlan területén véderdő, erd
 
 | 512973392 | 659085,120 | 258349,810 |
 
-[^233]: A 8. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^236]: A 8. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
