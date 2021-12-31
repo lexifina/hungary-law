@@ -6,26 +6,20 @@
 
 1. Amerikai Szamoa
 
-2. Anguilla
+2. Fidzsi-szigetek
 
-3. Dominikai Közösség
+3. Guam
 
-4. Fidzsi-szigetek
+4. Palau
 
-5. Guam
+5. Panama
 
-6. Palau
+6. Szamoa
 
-7. Panama
+7. Trinidad és Tobago
 
-8. Szamoa
+8. Amerikai Virgin-szigetek
 
-9. Seychelle-szigetek
+9. Vanuatu
 
-10. Trinidad és Tobago
-
-11. Amerikai Virgin-szigetek
-
-12. Vanuatu
-
-[^1]: Az 1. melléklet az 5/2021. (VI. 8.) PM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet a 18/2021. (XII. 28.) PM rendelet 1. §-ával megállapított szöveg.
