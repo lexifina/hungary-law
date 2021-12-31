@@ -1,0 +1,1 @@
+## „(5a) Ha az (5) bekezdés a) pontja szerinti nyilatkozat megalapozottságával szemben kétség merül fel, a Koordináló szerv az alvállalkozót megkeresi, és szükség szerint a közszolgáltatót ismételt nyilatkozatételre hívja fel.”
