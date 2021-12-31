@@ -1,0 +1,1 @@
+## 1. § E rendelet hatálya a központi költségvetésről szóló törvény XLVII. Gazdaság-újraindítási Alap fejezetnek a kiemelt kormányzati magasépítési beruházásokat finanszírozó eredeti előirányzatként megállapított, valamint a költségvetési év során megállapított új központi kezelésű kiadási előirányzataira terjed ki.

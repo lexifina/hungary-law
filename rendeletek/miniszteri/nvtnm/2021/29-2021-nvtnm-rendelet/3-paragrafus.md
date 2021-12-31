@@ -1,0 +1,1 @@
+## 2. § Az 1. § szerinti központi kezelésű kiadási előirányzatok felhasználásának részletes szabályait – az egyedi és a programszerű kormányzati magasépítési beruházások kiadási előirányzatainak felhasználási szabályai kivételével – az 1. melléklet tartalmazza.
