@@ -4,7 +4,7 @@
 
 ## a) hiányosság vagy helytelen üzemeltetés – például meddőhányó vagy zagytározó gát leomlása – súlyos balesetet okozhat, kockázatfelmérés alapján figyelembe véve az olyan tényezőket, mint a hulladékkezelő létesítmény jelenlegi vagy jövőbeni mérete, elhelyezkedése és környezeti hatása, vagy
 
-## b)[^57] a Ht. értelmében bizonyos küszöbérték felett veszélyesnek minősülő hulladékot tartalmaz, vagy
+## b)[^58] a Ht. értelmében bizonyos küszöbérték felett veszélyesnek minősülő hulladékot tartalmaz, vagy
 
 ## c) a kémiai biztonságról szóló 2000. évi XXV. törvény, valamint a veszélyes anyagokkal és a veszélyes készítményekkel kapcsolatos egyes eljárások, illetve tevékenységek részletes szabályairól szóló 44/2000. (XII. 27.) EüM rendelet értelmében bizonyos küszöbérték felett veszélyesnek minősülő anyagokat vagy készítményeket tartalmaz.
 
@@ -158,7 +158,7 @@
 
 ## 3. A meddőhányó kioldásos létesítmények esetében, ahol a fémet az ércmeddőkből kilúgozó oldat átszivárogtatásával vonják ki, a bányafelügyelet a bezáráskor a veszélyes anyagokra vonatkozóan ellenőrzést végez a felhasznált oldószerek leltára és ezeknek az oldószereknek átmosás után a vízelvezető csatornában jelen levő maradvány-koncentrációjának számbavétele alapján. Ha e csurgalékokat veszélyes készítménynek kell tekinteni, a létesítmény „A” osztályú besorolást kap.
 
-2. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^58]
+2. melléklet a 14/2008. (IV. 3.) GKM rendelethez[^59]
 
-[^57]: Az 1. melléklet I. fejezet b) pontja az 52/2017. (XII. 22.) NFM rendelet 9. § f) pontja szerint módosított szöveg.
-[^58]: A 2. melléklet a 22/2010. (III. 19.) KHEM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.
+[^58]: Az 1. melléklet I. fejezet b) pontja az 52/2017. (XII. 22.) NFM rendelet 9. § f) pontja szerint módosított szöveg.
+[^59]: A 2. melléklet a 22/2010. (III. 19.) KHEM rendelet 5. § (2) bekezdésével megállapított szöveg. E módosító rendelet 6. § (2) bekezdése alapján a 2010. március 27. napja után indult, vagy azt követően megismételt eljárásokban kell alkalmazni.

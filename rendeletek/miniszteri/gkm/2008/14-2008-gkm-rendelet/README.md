@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-14-20-0
 | 2015-04-01 | 2008-14-20-0L.8 | 11/2011. (IV. 7.) NFM rendelet |
 | 2017-07-01 | 2008-14-20-0L.9 | 22/2010. (III. 19.) KHEM rendelet |
 | 2018-01-01 | 2008-14-20-0L.10 | 52/2017. (XII. 22.) NFM rendelet |
+| 2021-12-31 | 2008-14-20-0L.11 | 71/2021. (XII. 30.) ITM rendelet |

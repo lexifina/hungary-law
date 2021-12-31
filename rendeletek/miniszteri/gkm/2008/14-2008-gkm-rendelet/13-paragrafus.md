@@ -1,14 +1,14 @@
 ## Pénzügyi biztosíték
 
-13. § (1)[^44] A bányászati hulladék hulladékkezelő létesítményben való elhelyezése előtt az üzemeltető köteles pénzügyi biztosíték meglétéről gondoskodni, és a biztosíték jóváhagyását a Bt. Vhr. 1/A. § szerinti eljárás során a bányafelügyeletnél kérelmezni. A biztosítékot a bányafelügyelet akkor hagyja jóvá, ha
+13. § (1)[^45] A bányászati hulladék hulladékkezelő létesítményben való elhelyezése előtt az üzemeltető köteles pénzügyi biztosíték meglétéről gondoskodni, és a biztosíték jóváhagyását a Bt. Vhr. 1/A. § szerinti eljárás során a bányafelügyeletnél kérelmezni. A biztosítékot a bányafelügyelet akkor hagyja jóvá, ha
 
 a) az megfelelő fedezetet nyújt a bányafelügyelet, vagy az e rendelet által előírt kötelezettség, ideértve a bezárás utáni rendelkezéseket is, teljesítésének finanszírozásához és
 
 b) azonnal hozzáférhető pénzügyi eszközt biztosít a hulladékkezelő létesítmény által érintett terület rehabilitációjához.
 
-(2)[^45] Az (1) bekezdésben meghatározott biztosíték nagyságát költségtervvel kell alátámasztani, melyben olyan költségeket kell tervezni, amelyek az üzemeltetőre akkor hárulnának, ha vállalkozó igénybevételével teljesítené a kötelezettségeiből származó feladatokat. A költségterv elkészítése során figyelembe kell venni:
+(2)[^46] Az (1) bekezdésben meghatározott biztosíték nagyságát költségtervvel kell alátámasztani, melyben olyan költségeket kell tervezni, amelyek az üzemeltetőre akkor hárulnának, ha vállalkozó igénybevételével teljesítené a kötelezettségeiből származó feladatokat. A költségterv elkészítése során figyelembe kell venni:
 
-a)[^46] a hulladékkezelő létesítmény által a környezetre és az emberi egészségre gyakorolt várható hatást, figyelembe véve a létesítmény osztályát, a hulladék jellemzőit és a rehabilitált talaj tervezett felhasználását;
+a)[^47] a hulladékkezelő létesítmény által a környezetre és az emberi egészségre gyakorolt várható hatást, figyelembe véve a létesítmény osztályát, a hulladék jellemzőit és a rehabilitált talaj tervezett felhasználását;
 
 b) a rehabilitáció meghatározása, ideértve a létesítmény későbbi használatát is;
 
@@ -24,17 +24,17 @@ g) a tájrendezés biztosításához, a bezáráshoz és a bezárás utáni idő
 
 (3) A biztosíték mértékét időszakonként a hulladékkezelő létesítmény által érintett területen végzendő rehabilitációs munkához kell igazítani.
 
-(3a)[^47] Az üzemeltető a biztosíték mértékének módosítására vonatkozó kérelmét jóváhagyásra megküldi a bányafelügyeletnek.
+(3a)[^48] Az üzemeltető a biztosíték mértékének módosítására vonatkozó kérelmét jóváhagyásra megküldi a bányafelügyeletnek.
 
 (4) Amennyiben a bányafelügyelet a 11. § (2) bekezdésével összhangban jóváhagyja a bezárást, határozatában felmenti az üzemeltetőt az (1) bekezdésben meghatározott biztosítékadási kötelezettsége alól, kivéve a 11. § (3) bekezdésében meghatározott bezárás utáni kötelezettségeket.
 
-(5)[^48] Az (1) bekezdésben foglalt biztosítékul hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás, bankgarancia, biztosítási szerződés alapján kiállított garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége, zálogjog vagy óvadék szolgálhat.
+(5)[^49] Az (1) bekezdésben foglalt biztosítékul hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás, bankgarancia, biztosítási szerződés alapján kiállított garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége, zálogjog vagy óvadék szolgálhat.
 
-(6)[^49] A fedezeti megállapodás, az óvadéki és a zálogjogi szerződés módosításához vagy megszüntetéséhez a bányafelügyelet hozzájárulása szükséges. A bányafelügyeleti hozzájárulás szükségességét a fedezeti megállapodásnak, az óvadéki és a zálogjogi szerződésnek tartalmaznia kell. A biztosíték igénybevételéről a bányafelügyelet végrehajtást elrendelő döntésben rendelkezhet.
+(6)[^50] A fedezeti megállapodás, az óvadéki és a zálogjogi szerződés módosításához vagy megszüntetéséhez a bányafelügyelet hozzájárulása szükséges. A bányafelügyeleti hozzájárulás szükségességét a fedezeti megállapodásnak, az óvadéki és a zálogjogi szerződésnek tartalmaznia kell. A biztosíték igénybevételéről a bányafelügyelet végrehajtást elrendelő döntésben rendelkezhet.
 
-[^44]: A 13. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze az 52/2017. (XII. 22.) NFM rendelet 9. § d) pontja szerint módosított szöveg.
-[^45]: A 13. § (2) bekezdése a 22/2010. (III. 19.) KHEM rendelet 2. §-ával megállapított szöveg. A 13. § (2) bekezdés nyitó szövegrésze a 11/2011. (IV. 7.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^46]: A 13. § (2) bekezdés a) pontja a 11/2011. (IV. 7.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^47]: A 13. § (3a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 9. § (3) bekezdése iktatta be.
-[^48]: A 13. § (5) bekezdését a 11/2011. (IV. 7.) NFM rendelet 9. § (4) bekezdése iktatta be.
-[^49]: A 13. § (6) bekezdését a 11/2011. (IV. 7.) NFM rendelet 9. § (4) bekezdése iktatta be.
+[^45]: A 13. § (1) bekezdése a 11/2011. (IV. 7.) NFM rendelet 9. § (1) bekezdésével megállapított, nyitó szövegrésze az 52/2017. (XII. 22.) NFM rendelet 9. § d) pontja szerint módosított szöveg.
+[^46]: A 13. § (2) bekezdése a 22/2010. (III. 19.) KHEM rendelet 2. §-ával megállapított szöveg. A 13. § (2) bekezdés nyitó szövegrésze a 11/2011. (IV. 7.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^47]: A 13. § (2) bekezdés a) pontja a 11/2011. (IV. 7.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^48]: A 13. § (3a) bekezdését a 11/2011. (IV. 7.) NFM rendelet 9. § (3) bekezdése iktatta be.
+[^49]: A 13. § (5) bekezdését a 11/2011. (IV. 7.) NFM rendelet 9. § (4) bekezdése iktatta be.
+[^50]: A 13. § (6) bekezdését a 11/2011. (IV. 7.) NFM rendelet 9. § (4) bekezdése iktatta be.
