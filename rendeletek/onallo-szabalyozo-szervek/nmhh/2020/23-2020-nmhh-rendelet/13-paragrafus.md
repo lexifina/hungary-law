@@ -16,7 +16,7 @@ c) az a mobil rádiótelefon-szolgáltató felelős, amelyhez a nemzetközi hál
 
 (3) A hívásirányításra a „lekérdezés minden hívásnál” (All Call Query) módszert kell alkalmazni, amelyben az irányítási információt tartalmazó adatbázis lekérdezését minden hívás során végrehajtják. A hívásirányításra és az SMS és MMS jelzés irányítására a mobil rádiótelefon-hálózatokban a jelzés relé funkció és egyéb, erre alkalmas szabványos eljárás is alkalmazható.
 
-(4) A hívásirányításra – a „lekérdezés minden hívásnál” módszer helyett – a „lekérdezés bontásnál” (Query on Release) módszer is alkalmazható, amelyben az irányítási információt tartalmazó adatbázis lekérdezése abban az esetben történik, ha a hívott szám eredeti szolgáltatója hordozott számot jelez. Ennek érdekében a hívott szám eredeti szolgáltatója hordozott számok esetén biztosítja a hordozott számot jelző bontás kódot.
+(4)[^2]
 
 (5) A hordozott számról kezdeményezett segélyhívás irányítását az átvevő szolgáltató biztosítja a segélyhívást fogadó szolgálatokkal kötött megállapodásnak megfelelően.
 
@@ -24,8 +24,11 @@ c) az a mobil rádiótelefon-szolgáltató felelős, amelyhez a nemzetközi hál
 
 (7) A hívás- és jelzésirányításért felelős szolgáltató, vagy az általa megbízott szolgáltató az irányítás hordozott számoknak megfelelő módosítását a számátadási időablakban végrehajtja.
 
-(8) A hordozott számot tartalmazó számmező használatára jogosult szolgáltató a hordozott számokra a hordozott szám beállítást a számhordozás és a számmező átadás számátadási időablakában elvégzi.
+(8)[^3]
 
 (9) Egybefüggő számtartomány számainak részleges hordozása esetén az egybefüggő számmező feloldását, a hordozott és a nem hordozott számok beállítását az átadó szolgáltató a számhordozás és a számtartomány átadás számátadási időablakában elvégzi.
 
 (10) A hívásirányítás és a hívások továbbításának járulékos többletköltségeit a szolgáltatók között hordozott számra irányuló hívás irányításáért az (1) bekezdés szerinti, a jelzésirányítás költségeit a (2) bekezdés szerinti felelős szolgáltató viseli.
+
+[^2]: A 13. § (4) bekezdését a 26. § (2) bekezdése hatályon kívül helyezte.
+[^3]: A 13. § (8) bekezdését a 26. § (2) bekezdése hatályon kívül helyezte.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-23-20-3
 | 2021-06-30 | 2020-23-20-3H.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-07-01 | 2020-23-20-3H.3 | 2010: CXXX. törvény |
 | 2021-07-13 | 2020-23-20-3H.4 | 6/2021. (VII. 8.) NMHH rendelet |
+| 2021-12-31 | 2020-23-20-3H.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
