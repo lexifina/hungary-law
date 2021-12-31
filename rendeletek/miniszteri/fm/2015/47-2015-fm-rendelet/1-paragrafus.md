@@ -62,6 +62,8 @@ d)[^10] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő települé
 
 12.[^14] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
+13.[^15] sertés: az ex 0103921900 vámtarifaszámú, legalább 70 kg élősúlyú vágósertés vagy az élelmiszerlánc-felügyeleti információs rendszer szerinti tenyészsertés.
+
 [^1]: Az 1. § 5. pontja a 77/2015. (XII. 1.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 5a. pontját a 77/2015. (XII. 1.) FM rendelet 15. § (2) bekezdése iktatta be, szövege a 23/2020. (VI. 19.) AM rendelet 2. §-ával megállapított, nyitó szövegrésze a 18/2021. (IV. 14.) AM rendelet 8. § a) pontja szerint módosított szöveg.
 [^3]: A hatálybalépés időpontja 2017. december 23.
@@ -76,3 +78,4 @@ d)[^10] a 77/2015. (XII. 1.) FM rendelet 5. mellékletében szereplő települé
 [^12]: Az 1. § 6. pontja a 88/2016. (XII. 29.) FM rendelet 90. § a) pontja szerint módosított szöveg.
 [^13]: Az 1. § 10. pontja a 88/2016. (XII. 29.) FM rendelet 90. § b) pontja, a 18/2021. (IV. 14.) AM rendelet 8. § b) pontja szerint módosított szöveg.
 [^14]: Az 1. § 12. pontját az 51/2016. (VII. 21.) FM rendelet 22. § (2) bekezdése iktatta be.
+[^15]: Az 1. § 13. pontját a 49/2021. (XII. 28.) AM rendelet 8. §-a iktatta be.

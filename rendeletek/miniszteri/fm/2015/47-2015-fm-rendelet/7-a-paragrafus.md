@@ -1,6 +1,6 @@
-## 7a.[^58] Átmeneti támogatás
+## 7a.[^61] Átmeneti támogatás
 
-7/A. § (1) A vállalkozás az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének napja és 2021. december 31. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
+7/A. § (1)[^62] A vállalkozás az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének napja és 2021. december 31. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
 
 (2) Az átmeneti támogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -32,4 +32,5 @@ gb) a pénzügyi intézmény a szabad átmeneti támogatási keretének ellenőr
 
 (7) Az átmeneti támogatásként igénybe vett kamattámogatás mértéke nem haladhatja meg a vállalkozás és a kapcsolt vállalkozásnak minősülő vállalkozás rendelkezésére álló, a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés a)–c) pontjában meghatározott keretösszeget (a továbbiakban: átmeneti támogatási keret).
 
-[^58]: A 7a. alcímet (7/A. §) a 18/2021. (IV. 14.) AM rendelet 6. §-a iktatta be.
+[^61]: A 7a. alcímet (7/A. §) a 18/2021. (IV. 14.) AM rendelet 6. §-a iktatta be.
+[^62]: [A 49/2021. (XII. 28.) AM rendelet 12. §-ában foglalt módosítás, mely szerint „a 2. § (2) bekezdés b) pontja szerinti kamattámogatás” szövegrész helyébe az „a 2. § (2) bekezdés b) és g) pontjai szerinti kamattámogatás” szöveg lép, nem vezehthető át.]

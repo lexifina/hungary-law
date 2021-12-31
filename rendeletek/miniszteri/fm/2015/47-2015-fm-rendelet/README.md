@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-47-20-1
 | 2019-04-11 | 2015-47-20-11.12 | 14/2019. (IV. 10.) AM rendelet |
 | 2020-06-22 | 2015-47-20-11.13 | 77/2015. (XII. 1.) FM rendelet |
 | 2021-04-15 | 2015-47-20-11.14 | 18/2021. (IV. 14.) AM rendelet |
+| 2021-12-31 | 2015-47-20-11.15 | 49/2021. (XII. 28.) AM rendelet |
