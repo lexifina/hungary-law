@@ -4,6 +4,6 @@
 
 (2) A bányafelügyelet vizsgálata nem érinti az engedélyesnek a baleset vizsgálatára vonatkozó, más jogszabályban előírt kötelezettségét.
 
-(3)[^5]
+(3)[^6]
 
-[^5]: A 6. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 26. § a) pontja hatályon kívül helyezte.
+[^6]: A 6. § (3) bekezdését az 52/2017. (XII. 22.) NFM rendelet 26. § a) pontja hatályon kívül helyezte.

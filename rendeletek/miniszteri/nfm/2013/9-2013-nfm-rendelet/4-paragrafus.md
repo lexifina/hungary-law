@@ -4,6 +4,6 @@ a) gondoskodni a súlyos üzemzavarral vagy súlyos balesettel kapcsolatos tárg
 
 b) minden olyan intézkedést megtenni, amely a további veszélyeztetés és a kár mértékét a lehető legkisebbre korlátozza.
 
-(2)[^4] Az engedélyes az emberi élet, testi épség és egészség, továbbá jelentős érték megóvásához szükséges mértékben a helyszínt megváltoztathatja. Lehetőség szerint a helyszínmegváltoztatás előtt, illetve után arról fényképet vagy egyéb képfelvételt (a továbbiakban: felvétel), valamint – ha az emberi élet, a testi épség és az egészség megóvását nem hátráltatja – helyszínrajzot kell készíteni. A helyszínrajzon a változtatásokat jelölni kell. A helyszínrajzot és a felvételt azok elkészültét követően haladéktalanul továbbítani kell a bányafelügyelet részére.
+(2)[^5] Az engedélyes az emberi élet, testi épség és egészség, továbbá jelentős érték megóvásához szükséges mértékben a helyszínt megváltoztathatja. Lehetőség szerint a helyszínmegváltoztatás előtt, illetve után arról fényképet vagy egyéb képfelvételt (a továbbiakban: felvétel), valamint – ha az emberi élet, a testi épség és az egészség megóvását nem hátráltatja – helyszínrajzot kell készíteni. A helyszínrajzon a változtatásokat jelölni kell. A helyszínrajzot és a felvételt azok elkészültét követően haladéktalanul továbbítani kell a bányafelügyelet részére.
 
-[^4]: A 4. § (2) bekezdése az 52/2017. (XII. 22.) NFM rendelet 25. §-a szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdése az 52/2017. (XII. 22.) NFM rendelet 25. §-a szerint módosított szöveg.
