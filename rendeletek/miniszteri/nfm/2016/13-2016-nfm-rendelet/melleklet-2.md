@@ -32,16 +32,16 @@
 
 ## bi,j: az i-edik közszolgáltató j-edik tevékenységére vonatkozó indokolt szolgáltatási fajlagos költsége (Ft/tonna)
 
-## : a j-edik tevékenységre vonatkozó fajlagos költségek országos átlaga (Ft/tonna)
+|  | : a j-edik tevékenységre vonatkozó fajlagos költségek országos átlaga (Ft/tonna) |
 
-## fi,j: az i-edik közszolgáltató j-edik tevékenységére vonatkozó fajlagos költsége (Ft/tonna)
+## fi,j: az i-edik közszolgáltató j-edik tevékenységére vonatkozó indokolt fajlagos költsége (Ft/tonna)
 
-## mi,j: az i-edik közszolgáltató j-edik tevékenységére eső tárgyévi mennyiség (tonna)
+## mi,j: az i-edik közszolgáltató j-edik tevékenységére eső mennyiség (tonna)
 
 ## r: a bázis évre meghatározott inflációs ráta (0 ≤ r ≤ 1)
 
 ## 4. 2023. évtől a 3. pontban meghatározott képletében a fajlagos költségek országos átlagának súlyszáma évente 5%-kal emelkedik, míg a közszolgáltató fajlagos költségének súlyszáma 5%-kal csökken. 2022. év esetében a fajlagos költségek országos átlagának figyelembe vehető súlyszáma 25%, a közszolgáltató fajlagos költségének súlyszáma 75%.
 
-2. melléklet a 13/2016. (V. 24.) NFM rendelethez[^27]
+2. melléklet a 13/2016. (V. 24.) NFM rendelethez[^34]
 
-[^27]: A 2. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.
+[^34]: A 2. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.

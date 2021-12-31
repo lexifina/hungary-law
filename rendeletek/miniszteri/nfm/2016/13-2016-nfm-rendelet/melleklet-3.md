@@ -1,4 +1,4 @@
-3. melléklet a 13/2016. (V. 24.) NFM rendelethez[^28]
+3. melléklet a 13/2016. (V. 24.) NFM rendelethez[^35]
 
 1. A málusz megállapításának szempontjai
 
@@ -222,7 +222,7 @@ p10,x(T) = −0,044192197 • T3 − 0,546666667 • T2 − 2,096666667 • T
 
 5.10.4. Ha TKSZ ≥ TKSZ MAX, akkor a málusz értéke 0.
 
-5.11. A közszolgáltató teljesítményét az RDF vizsgálata az MSZ EN 15359:2012 szabványban foglaltaknak megfelelően málusz elem esetén a szabványnak megfelelő vizsgálat megléte, és a szabványnak megfelelő minőségi osztály csökkenés együttesen határozza meg.
+5.11. A közszolgáltató teljesítményét az RDF vizsgálata az MSZ EN 21640:2021 szabványban, – vagy azzal egyenértékű más műszaki előírásban – foglaltaknak megfelelően málusz elem esetén a szabványnak megfelelő vizsgálat megléte, és a szabványnak megfelelő minőségi osztály csökkenés együttesen határozza meg.
 
 5.11.1. A fajlagos málusz érték (Ft/kg) számítására szolgáló konstans függvények:
 
@@ -244,4 +244,4 @@ p11,4 = 2 • 1,206
 
 5.11.6. Ha a közszolgáltató elvégezte a szabványnak megfelelő vizsgálatot, és az RDF minőségi besorolási osztálya nem csökkent, akkor a málusz értéke 0.
 
-[^28]: A 3. melléklet a 27/2021. (VI. 29.) ITM rendelet 5. § b) pontjával megállapított szöveg.
+[^35]: A 3. melléklet a 27/2021. (VI. 29.) ITM rendelet 5. § b) pontjával megállapított, a 69/2021. (XII. 30.) ITM rendelet 6. § b) pontja szerint módosított szöveg.

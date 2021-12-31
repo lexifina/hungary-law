@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-13-20-2
 | 2020-10-13 | 2016-13-20-2W.5 | 12/2019. (V. 30.) ITM rendelet |
 | 2021-07-02 | 2016-13-20-2W.6 | 27/2021. (VI. 29.) ITM rendelet |
 | 2021-11-05 | 2016-13-20-2W.7 | 53/2021. (XI. 2.) ITM rendelet |
+| 2021-12-31 | 2016-13-20-2W.8 | 69/2021. (XII. 30.) ITM rendelet |

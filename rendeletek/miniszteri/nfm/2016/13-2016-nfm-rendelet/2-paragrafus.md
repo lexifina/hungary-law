@@ -2,7 +2,7 @@
 
 ## 2. Értelmező rendelkezések, határidőszámítás
 
-2. § (1)[^1] E rendelet alkalmazásában
+2. § (1)[^2] E rendelet alkalmazásában
 
 1. bevétel: a közszolgáltatás teljesítéséhez biztosított, a költségek ellentételezésére kapott költségvetési és önkormányzati támogatás,
 
@@ -16,4 +16,4 @@
 
 (2) Az e rendeletben nem szabályozott fogalmak tekintetében a Ht. és az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.) Korm. rendeletben (a továbbiakban: Korm. rendelet) meghatározottakat kell alkalmazni.
 
-[^1]: A 2. § (1) bekezdése a 27/2021. (VI. 29.) ITM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 27/2021. (VI. 29.) ITM rendelet 1. §-ával megállapított szöveg.

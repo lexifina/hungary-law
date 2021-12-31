@@ -18,7 +18,13 @@
 
 | 8. | Válogatás | 7 |
 
-| 9. | Komposztálás | 8 |
+| 9. | Komposztálás |  |
+
+| a) Lerakásra kerülő komposzt előállítása | 8a |
+
+| b) Energetikai hasznosításra kerülő komposzt előállítása | 8b |
+
+| c) Mezőgazdasági hasznosításra kerülő komposzt előállítása | 8c |
 
 | 10. | Mechanikai előkezelés | 9 |
 
@@ -32,6 +38,6 @@
 
 | 15. | Vegyes hulladék energetikai hasznosítása | 14 |
 
-5. melléklet a 13/2016. (V. 24.) NFM rendelethez[^30]
+5. melléklet a 13/2016. (V. 24.) NFM rendelethez[^37]
 
-[^30]: Az 5. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.
+[^37]: Az 5. mellékletet a 27/2021. (VI. 29.) ITM rendelet 7. § c) pontja hatályon kívül helyezte.
