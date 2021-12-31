@@ -2,13 +2,13 @@
 
 ## A BÁNYATELEK TÉRKÉP
 
-13. § (1)[^19] A bányatelek térkép a kutatási zárójelentés adatainak és az ingatlan-nyilvántartási térképi adatbázis hiteles másolata teljes tartalmának felhasználásával készül. A kőolaj- és földgázbányászat, valamint a földtani szerkezetben történő szénhidrogén-tárolás bányatelek térképe az állami ingatlan-nyilvántartási térképi adatbázis adatállományából létrehozva, csökkentett tartalmú térképi állományban is készíthető.
+13. § (1)[^20] A bányatelek térkép a kutatási zárójelentés adatainak és az ingatlan-nyilvántartási térképi adatbázis hiteles másolata teljes tartalmának felhasználásával készül. A kőolaj- és földgázbányászat, valamint a földtani szerkezetben történő szénhidrogén-tárolás bányatelek térképe az állami ingatlan-nyilvántartási térképi adatbázis adatállományából létrehozva, csökkentett tartalmú térképi állományban is készíthető.
 
 (2) A bányatelek térképen fel kell tüntetni
 
 a) a bányatelek határvonalát töréspontjainak sorszámával,
 
-b)[^20] a lakott helyeket,
+b)[^21] a lakott helyeket,
 
 c) a vízellátó művek víznyerő, tároló, vízkezelő és -elosztó berendezéseit és azok védőterületeit,
 
@@ -18,7 +18,7 @@ e) a bányászatról szóló törvényben meghatározott kivett helyeket, a Natu
 
 f) az ismert vagy feltételezett, meglévő vagy korábbi bányaműveleteket,
 
-g)[^21] a mélyfúrásokat mélységük megjelölésével, és az ásványi nyersanyaggá minősített telep vastagságát,
+g)[^22] a mélyfúrásokat mélységük megjelölésével, és az ásványi nyersanyaggá minősített telep vastagságát,
 
 h) a bányatelekkel érintkező, a bányatelket részben vagy egészében fedő, a bányatelek nyilvántartásból nem törölt bányatelkek határvonalát,
 
@@ -26,18 +26,18 @@ i) a tervezett biztonsági, védő- és határpilléreket,
 
 j) a megkutatott ásványi nyersanyag előfordulás ismert határvonalát,
 
-k)[^22] a bányatelek domborzatát – a szénhidrogénekre vonatkozó bányatelek kivételével – a geodéziai felmérés, az állami topográfiai térképi adatbázis vagy digitális domborzatmodell alapján és
+k)[^23] a bányatelek domborzatát – a szénhidrogénekre vonatkozó bányatelek kivételével – a geodéziai felmérés, az állami topográfiai térképi adatbázis vagy digitális domborzatmodell alapján és
 
 l) a b)–k) pontban meghatározott térképi elemeket a bányatelken és annak 100 méteres körzetében.
 
-(3)[^23] A bányatelek térképen méretarányosan fel kell tüntetni a bányatelekkel fedett és művelni tervezett ásványvagyont tartalmazó átlagos (jellemző) rétegsort és a bányatelek jellemző földtani szelvényét. Szénhidrogénekre vonatkozó bányatelek esetén – a földtani szelvény helyett – a támpontul szolgáló kút (kulcskút) rétegszelvénye is megadható.
+(3)[^24] A bányatelek térképen méretarányosan fel kell tüntetni a bányatelekkel fedett és művelni tervezett ásványvagyont tartalmazó átlagos (jellemző) rétegsort és a bányatelek jellemző földtani szelvényét. Szénhidrogénekre vonatkozó bányatelek esetén – a földtani szelvény helyett – a támpontul szolgáló kút (kulcskút) rétegszelvénye is megadható.
 
 (4) A bányatelek térképre fel kell jegyezni a határvonal töréspontjainak koordinátáit (x, y és z), a fedő- és alaplap magasságát, valamint a bányatelek területét. Szénhidrogénekre vonatkozó bányatelkek esetében a „z” érték megadása nem kötelező.
 
 (5) A bányatelek térképen ábrázolni kell a védőpillérek általános metszetét.
 
-[^19]: A 13. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^20]: A 13. § (2) bekezdés b) pontja a 82/2012. (XII. 28.) NFM rendelet 18. § a) pontja szerint módosított szöveg.
-[^21]: A 13. § (2) bekezdés g) pontja a 82/2012. (XII. 28.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^22]: A 13. § (2) bekezdés k) pontja a 82/2012. (XII. 28.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^23]: A 13. § (3) bekezdése a 82/2012. (XII. 28.) NFM rendelet 17. § b) pontja szerint módosított szöveg.
+[^20]: A 13. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^21]: A 13. § (2) bekezdés b) pontja a 82/2012. (XII. 28.) NFM rendelet 18. § a) pontja szerint módosított szöveg.
+[^22]: A 13. § (2) bekezdés g) pontja a 82/2012. (XII. 28.) NFM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^23]: A 13. § (2) bekezdés k) pontja a 82/2012. (XII. 28.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^24]: A 13. § (3) bekezdése a 82/2012. (XII. 28.) NFM rendelet 17. § b) pontja szerint módosított szöveg.

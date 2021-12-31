@@ -1,10 +1,10 @@
-## 15. §[^24]
+## 15. §[^25]
 
 ## A bányaművelési térkép
 
-16. § (1)[^25] A bányaművelési térképet nyomtatott formában és 1:500–1:2000 méretarányban kell készíteni. A bányaművelési térképen a vágatokat és a lefejtett területeket telepenként, telepszeletenként vagy szintenként a bányavállalkozó által megállapított színjelzéssel kell feltüntetni.
+16. § (1)[^26] A bányaművelési térképet nyomtatott formában és 1:500–1:2000 méretarányban kell készíteni. A bányaművelési térképen a vágatokat és a lefejtett területeket telepenként, telepszeletenként vagy szintenként a bányavállalkozó által megállapított színjelzéssel kell feltüntetni.
 
-(2)[^26] A bányaművelési térkép digitális és papír alapú, nyomtatott formátumán fel kell tüntetni:
+(2)[^27] A bányaművelési térkép digitális és papír alapú, nyomtatott formátumán fel kell tüntetni:
 
 a) a bányatelek határvonalát töréspontjaival és azok sorszámaival, a határpilléreket, a bányatelket érintő, részben vagy egészben fedő és a bányatelek nyilvántartásból nem törölt bányatelek határvonalát, a bányavállalkozó tulajdonában, illetve használatában lévő területek határvonalát,
 
@@ -52,9 +52,9 @@ u) a bányászati célú igénybevétellel érintett földrészletek (ingatlanok
 
 (4) Aknatengelyben a függőleges aknával harántolt telepekről, továbbá 300 m-enként a 30 foknál nagyobb dőlésű, művelés alatt álló telepekről dőlésirányú, a lejtősaknával harántolt telepekről aknatengely irányú földtani metszetet kell készíteni, amely a bányaművelési térkép tartozékát képezi.
 
-(5)[^27] A bányaművelési térképet legalább havonta frissíteni kell az alkalmazott számítástechnikai program saját formátumában, rendszer-független rajzcsere-fájlban és képi, nem módosítható formátumban, valamint el kell menteni és papír alapú, nyomtatott formátumban a bányaüzemben kell tartani.
+(5)[^28] A bányaművelési térképet legalább havonta frissíteni kell az alkalmazott számítástechnikai program saját formátumában, rendszer-független rajzcsere-fájlban és képi, nem módosítható formátumban, valamint el kell menteni és papír alapú, nyomtatott formátumban a bányaüzemben kell tartani.
 
-[^24]: A 15. §-t és az azt megelőző alcímet a 82/2012. (XII. 28.) NFM rendelet 19. § b) pontja hatályon kívül helyezte.
-[^25]: A 16. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 17. § c) pontja szerint módosított szöveg.
-[^26]: A 16. § (2) bekezdése a 82/2012. (XII. 28.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^27]: A 16. § (5) bekezdése a 82/2012. (XII. 28.) NFM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^25]: A 15. §-t és az azt megelőző alcímet a 82/2012. (XII. 28.) NFM rendelet 19. § b) pontja hatályon kívül helyezte.
+[^26]: A 16. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 17. § c) pontja szerint módosított szöveg.
+[^27]: A 16. § (2) bekezdése a 82/2012. (XII. 28.) NFM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^28]: A 16. § (5) bekezdése a 82/2012. (XII. 28.) NFM rendelet 10. § (2) bekezdésével megállapított szöveg.

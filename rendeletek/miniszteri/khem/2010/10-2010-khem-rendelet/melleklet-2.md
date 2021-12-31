@@ -1,4 +1,4 @@
-2. melléklet a 10/2010. (II. 26.) KHEM rendelethez[^40]
+2. melléklet a 10/2010. (II. 26.) KHEM rendelethez[^41]
 
 A bányatérkép rétegkiosztása
 
@@ -176,4 +176,4 @@ A bányatérkép rétegkiosztása
 
 | 85. | 05 Rajzkeret, őrkereszt, hálózat, szelvény hálózat, koordináta megírás, fejléc rétegei (szabadon bontható alrétegekre) |
 
-[^40]: A 2. mellékletet a 82/2012. (XII. 28.) NFM rendelet 16. § (2) bekezdése iktatta be.
+[^41]: A 2. mellékletet a 82/2012. (XII. 28.) NFM rendelet 16. § (2) bekezdése iktatta be.

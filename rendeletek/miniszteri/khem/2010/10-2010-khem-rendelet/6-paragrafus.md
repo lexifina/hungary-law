@@ -1,4 +1,4 @@
-6. § (1)[^10] Minden bányatérképen fel kell tüntetni
+6. § (1)[^11] Minden bányatérképen fel kell tüntetni
 
 a) a bányatérkép megnevezését,
 
@@ -28,4 +28,4 @@ m) nyomtatott formátum esetében a hites bányamérő eredeti aláírását, va
 
 (2) A mélyműveléses és külfejtéses bánya bányaművelési és tervtérképein haladéktalanul fel kell tüntetni a biztonsági, védő- és határpilléreket, az azokat megállapító bányafelügyeleti határozatok megjelölésével.
 
-[^10]: A 6. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 5. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 5. §-ával megállapított szöveg.

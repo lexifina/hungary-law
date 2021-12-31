@@ -1,6 +1,6 @@
-## 32. §[^38]
+## 32. §[^39]
 
-1. Melléklet a 10/2010. (II. 26.) KHEM rendelethez[^39]
+1. Melléklet a 10/2010. (II. 26.) KHEM rendelethez[^40]
 
 ## A bányászati térképezés egyes jelkulcsaihoz kapcsolódó szabványok
 
@@ -14,5 +14,5 @@
 
 5. OKGT 1976-ban kiadott Gázipari térképjelkulcsa.
 
-[^38]: A 32. §-t az 52/2017. (XII. 22.) NFM rendelet 12. §-a hatályon kívül helyezte.
-[^39]: Az eredeti melléklet megjelölését 1. mellékletre változtatta, és szövegét megállapította a 82/2012. (XII. 28.) NFM rendelet 16. § (1) bekezdése.
+[^39]: A 32. §-t az 52/2017. (XII. 22.) NFM rendelet 12. §-a hatályon kívül helyezte.
+[^40]: Az eredeti melléklet megjelölését 1. mellékletre változtatta, és szövegét megállapította a 82/2012. (XII. 28.) NFM rendelet 16. § (1) bekezdése.

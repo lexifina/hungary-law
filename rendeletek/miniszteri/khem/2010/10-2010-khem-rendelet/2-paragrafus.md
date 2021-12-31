@@ -1,6 +1,6 @@
 ## A bányatérképekre vonatkozó általános követelmények
 
-2. §[^1] (1) Bányatérkép a bányászati környezet változásait tartalmazó, digitális mérőműszerekkel megállapított térbeli térképi adatbázis.
+2. §[^2] (1) Bányatérkép a bányászati környezet változásait tartalmazó, digitális mérőműszerekkel megállapított térbeli térképi adatbázis.
 
 (2) A bányatérképet digitális formában kell elkészíteni az erre alkalmas térképező vagy térinformatikai számítástechnikai program segítségével.
 
@@ -22,4 +22,4 @@ c) a bányatérkép készítéséhez felhasznált mérési és számítási doku
 
 d) új bányatérkép, illetve műszaki-biztonsági szempontból szükséges más térképek vagy térképmellékletek készítésére.
 
-[^1]: A 2. § a 82/2012. (XII. 28.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § a 82/2012. (XII. 28.) NFM rendelet 1. §-ával megállapított szöveg.
