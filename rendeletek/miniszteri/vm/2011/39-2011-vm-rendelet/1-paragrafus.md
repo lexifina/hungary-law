@@ -36,6 +36,8 @@ m)[^10] egy és ugyanazon vállalkozás: a Korm. rendelet 2. § 5a. pontjában m
 
 n)[^11] átmeneti támogatás: a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti támogatás.
 
+o)[^12] sertés: az ex 0103921900 vámtarifaszámú, legalább 70 kg élősúlyú vágósertés vagy az élelmiszerlánc-felügyeleti információs rendszer szerinti tenyészsertés.
+
 [^1]: Az 1. § b) pontja a 65/2016. (IX. 21.) FM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § c) pontja a 94/2013. (X. 10.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § f) pontját a 36/2014. (IV. 4.) VM rendelet 56. §-a hatályon kívül helyezte.
@@ -47,3 +49,4 @@ n)[^11] átmeneti támogatás: a koronavírus járvány miatt nehéz gazdasági 
 [^9]: Az 1. § l) pontját az 51//2016. (VII. 21.) FM rendelet 5. §-a iktatta be.
 [^10]: Az 1. § m) pontját a 65/2016. (IX. 21.) FM rendelet 6. § (2) bekezdése iktatta be.
 [^11]: Az 1. § n) pontját a 66/2020. (XII. 18.) AM rendelet 1. §-a iktatta be.
+[^12]: Az 1. § o) pontját a 49/2021. (XII. 28.) AM rendelet 1. §-a iktatta be.

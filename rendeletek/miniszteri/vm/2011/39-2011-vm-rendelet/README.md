@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-39-20-2
 | 2019-04-11 | 2011-39-20-2Y.23 | 14/2019. (IV. 10.) AM rendelet |
 | 2020-12-21 | 2011-39-20-2Y.24 | 66/2020. (XII. 18.) AM rendelet |
 | 2021-04-15 | 2011-39-20-2Y.25 | 18/2021. (IV. 14.) AM rendelet |
+| 2021-12-31 | 2011-39-20-2Y.26 | 49/2021. (XII. 28.) AM rendelet |
