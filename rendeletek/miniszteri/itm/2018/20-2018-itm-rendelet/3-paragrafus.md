@@ -12,14 +12,19 @@ c) a Szabályzat követelményeit az egészségvédelem magas szintjén kielég�
 
 (3) A Műszaki Bizottság 5 fő szakértő tagból áll, akiket az energiapolitikáért felelős miniszter felkérésére a következő szervek vagy szervezetek vezetői delegálnak:
 
-a) Magyar Bányászati és Földtani Szolgálat: 1 fő,
+a)[^2] Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet): 1 fő,
 
 b) Magyar PB-Gázipari Egyesület: 3 fő,
 
 c) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség: 1 fő.
 
-(4) A Műszaki Bizottság tagjait, a (3) bekezdésben foglaltak figyelembevételével, a Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ) elnökének javaslatára, az energiapolitikáért felelős miniszter öt év időtartamra bízza meg.
+(4)[^3] A Műszaki Bizottság tagjait, a (3) bekezdésben foglaltak figyelembevételével, a a bányafelügyelet elnökének javaslatára, az energiapolitikáért felelős miniszter öt év időtartamra bízza meg.
 
-(5) A Műszaki Bizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Műszaki bizottság elnökét. A titkársági feladatok ellátásáról az MBFSZ gondoskodik.
+(5)[^4] A Műszaki Bizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Műszaki bizottság elnökét. A titkársági feladatok ellátásáról a bányafelügyelet gondoskodik.
 
-(6) Az MBFSZ a (2) bekezdés c) pontja szerinti irányelveket honlapján közzéteszi.
+(6)[^5] A bányafelügyelet a (2) bekezdés c) pontja szerinti irányelveket honlapján közzéteszi.
+
+[^2]: A 3. § (3) bekezdés a) pontja a 71/2021. (XII. 30.) ITM rendelet 14. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (4) bekezdése a 71/2021. (XII. 30.) ITM rendelet 14. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (5) bekezdése a 71/2021. (XII. 30.) ITM rendelet 14. § c) pontja szerint módosított szöveg.
+[^5]: A 3. § (6) bekezdése a 71/2021. (XII. 30.) ITM rendelet 14. § d) pontja szerint módosított szöveg.
