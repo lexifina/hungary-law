@@ -1,5 +1,3 @@
-## 2. A közfeladatot ellátó közérdekű vagyonkezelő alapítványok felsőoktatási közfeladataihoz kapcsolódó hosszú távú minőségi és teljesítményelvű finanszírozásáról
+## 2.
 
-2. § (1) Az Országgyűlés felhatalmazza a felsőoktatással összefüggő feladat- és hatáskörök tekintetében oktatásért felelős minisztert (a továbbiakban: miniszter), hogy az állam nevében az e törvényben meghatározottak szerint pénzügyi kötelezettséget vállaljon a felsőoktatási közfeladatot felsőoktatási intézmény útján ellátó közfeladatot ellátó közérdekű vagyonkezelő alapítványokkal (a továbbiakban: alapítvány) a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVA tv.) 20. § (1) bekezdése alapján megkötött keretmegállapodásban és közfeladat-finanszírozási szerződésben foglaltak teljesítése érdekében, a 2022–2026. évekre vonatkozóan.
-
-(2) A közfeladat-finanszírozási szerződés megkötésekor a miniszter a 2022–2026 közötti évekre az 1. mellékletben foglalt összegek erejéig a közfeladat-finanszírozási szerződés időtartamára vállalhat éven túli kötelezettséget.
+2. §
