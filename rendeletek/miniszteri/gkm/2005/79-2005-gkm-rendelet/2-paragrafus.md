@@ -4,6 +4,6 @@
 
 (3) E rendelet előírásait az egyéb gázok és termékei vonatkozásában a szállított közeg összetételének és nyomásának figyelembevételével kell alkalmazni.
 
-(4)[^1]
+(4)[^2]
 
-[^1]: A 2. § (4) bekezdését a 15/2015. (III. 31.) NFM rendelet 8. §-a hatályon kívül helyezte.
+[^2]: A 2. § (4) bekezdését a 15/2015. (III. 31.) NFM rendelet 8. §-a hatályon kívül helyezte.
