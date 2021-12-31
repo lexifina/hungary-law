@@ -12,7 +12,7 @@ c) szakági műszaki követelmények formájában a Szabályzat követelményeit
 
 a) a miniszter irányítása alá tartozó minisztérium: 1 fő,
 
-b) Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSz): 1 fő,
+b)[^2] Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet): 1 fő,
 
 c) Földgázelosztói Együttműködési Fórum: 4 fő,
 
@@ -20,6 +20,10 @@ d) Magyar PB-Gázipari Egyesület: 1 fő,
 
 e) Magyar Mérnöki Kamara Gáz- és Olajipari Tagozat: 1 fő.
 
-(4) A Műszaki Bizottság megalkotja a működési szabályzatát, és tagjai közül 3 év időtartamra megválasztja a Műszaki Bizottság elnökét. A Műszaki Bizottság titkársági feladatainak ellátásáról, valamint a működés egyéb feltételeinek biztosításáról az MBFSz gondoskodik.
+(4)[^3] A Műszaki Bizottság megalkotja a működési szabályzatát, és tagjai közül 3 év időtartamra megválasztja a Műszaki Bizottság elnökét. A Műszaki Bizottság titkársági feladatainak ellátásáról, valamint a működés egyéb feltételeinek biztosításáról a bányafelügyelet gondoskodik.
 
-(5) A Műszaki Bizottság által elfogadott Szakági Műszaki Követelményeket a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és az MBFSz honlapján közzé kell tenni. A szakági műszaki követelményekben foglalt műszaki megoldást úgy kell tekintetni, hogy az megfelel az adott kor technikai színvonalának.
+(5)[^4] A Műszaki Bizottság által elfogadott Szakági Műszaki Követelményeket a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a bányafelügyelet honlapján közzé kell tenni. A szakági műszaki követelményekben foglalt műszaki megoldást úgy kell tekintetni, hogy az megfelel az adott kor technikai színvonalának.
+
+[^2]: A 3. § (3) bekezdés b) pontja a 71/2021. (XII. 30.) ITM rendelet 15. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (4) bekezdése a 71/2021. (XII. 30.) ITM rendelet 15. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § (5) bekezdése a 71/2021. (XII. 30.) ITM rendelet 15. § b) pontja szerint módosított szöveg.

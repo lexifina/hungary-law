@@ -1,4 +1,4 @@
-1. melléklet a 21/2018. (IX. 27.) ITM rendelethez[^2]
+1. melléklet a 21/2018. (IX. 27.) ITM rendelethez[^6]
 
 A Gázelosztó Vezetékek Biztonsági Szabályzata
 
@@ -1410,4 +1410,4 @@ e) a védőeszköz alapvető funkcionális alkalmasságának ellenőrzését a m
 
 6.4. A felülvizsgálati és a karbantartási időközöket a jogszabályokban, valamint a munkáltató által választott szabványokban előírtak alapján a munkáltató az MBIR-ben szabályozza. A karbantartásokat és a felülvizsgálatokat határidőben el kell végezni, a megfelelő állapotot haladéktalanul helyre kell állítani. A munkavállaló köteles a munkavégzésre alkalmas állapotot ellenőrizni a munka megkezdése előtt.
 
-[^2]: Az 1. melléklet a 22/2020. (VI. 29.) ITM rendelet 28. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 22/2020. (VI. 29.) ITM rendelet 28. §-a szerint módosított szöveg.
