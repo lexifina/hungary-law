@@ -1,4 +1,4 @@
-## 12. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 13. §[^7] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 808/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (2) bekezdését, 7. § (1a) és (1b) bekezdését, valamint 3. mellékletét a Módr. hatálybalépésekor[^8] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 655/2020. (XII. 23.) Korm. rendelethez
 
@@ -43,3 +43,6 @@
 19. azok az 1–18. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^7]: A 13. §-t a 808/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2021. december 31.
