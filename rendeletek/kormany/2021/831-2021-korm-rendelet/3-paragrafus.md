@@ -1,0 +1,3 @@
+## 2. § Az R. a következő 81. §-sal egészül ki:
+
+## „81. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 831/2021. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr73.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/Y. §-át és 2. mellékletében foglalt táblázat 83. sorát a Módr73. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
