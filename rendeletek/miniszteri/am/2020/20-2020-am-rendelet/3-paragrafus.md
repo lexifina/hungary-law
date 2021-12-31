@@ -1,10 +1,10 @@
 3. § (1)[^8] A 2. § (3) bekezdése szerinti átmeneti támogatás összege a közlemény 3.1. pontja alapján nyújtott egyéb támogatásokkal együtt – a kérelmező kapcsolt vállalkozásait is figyelembe véve – vállalkozásonként nem haladhatja meg
 
-a)[^9] a 2. § (1) bekezdés a) pontja szerinti esetben a 225 000 eurónak,
+a)[^9] a 2. § (1) bekezdés a) pontja szerinti esetben a 290 000 eurónak,
 
-b)[^10] a 2. § (1) bekezdés b)–d) pontjai szerinti esetben az 1 800 000 eurónak,
+b)[^10] a 2. § (1) bekezdés b)–d) pontjai szerinti esetben az 2 300 000 eurónak,
 
-c)[^11] a 2. § (1) bekezdés e) pontja szerinti esetben a 270 000 eurónak
+c)[^11] a 2. § (1) bekezdés e) pontja szerinti esetben a 345 000 eurónak
 
 ## megfelelő forintösszeget.
 
@@ -17,7 +17,7 @@ c)[^11] a 2. § (1) bekezdés e) pontja szerinti esetben a 270 000 eurónak
 (5) A támogatás a kérelmező szabad – (1) bekezdés szerinti – átmeneti támogatási kerete terhére korábban már odaítélt támogatások figyelembevételével kerül meghatározásra.
 
 [^8]: A 3. § (1) bekezdése a 41/2020. (VIII. 19.) AM rendelet 36. §-ával megállapított szöveg.
-[^9]: A 3. § (1) bekezdés a) pontja a 18/2021. (IV. 14.) AM rendelet 32. § a) pontja szerint módosított szöveg.
-[^10]: A 3. § (1) bekezdés b) pontja a 18/2021. (IV. 14.) AM rendelet 32. § b) pontja szerint módosított szöveg.
-[^11]: A 3. § (1) bekezdés c) pontja a 18/2021. (IV. 14.) AM rendelet 32. § c) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés a) pontja a 49/2021. (XII. 28.) AM rendelet 19. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontja a 49/2021. (XII. 28.) AM rendelet 19. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (1) bekezdés c) pontja a 49/2021. (XII. 28.) AM rendelet 19. § c) pontja szerint módosított szöveg.
 [^12]: A 3. § (2) bekezdése a 18/2021. (IV. 14.) AM rendelet 29. §-ával megállapított szöveg.
