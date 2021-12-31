@@ -1,1 +1,3 @@
-## 1. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2018. (VI. 25.) NVTNM rendelet (a továbbiakban: Rendelet) 1. melléklet VII. pontjában foglalt táblázat A:10 mezőjében és 3. melléklet V. pontjában a „HUMDA Magyar Autó-Motorsport Fejlesztési” szövegrész helyébe a „HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési” szöveg lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
