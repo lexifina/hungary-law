@@ -1,4 +1,4 @@
-2. §[^1] (1) A bányaüzemi felelős műszaki vezetői tevékenység megkezdésére vonatkozó bejelentést a bányafelügyelethez kell megtenni.
+2. §[^2] (1) A bányaüzemi felelős műszaki vezetői tevékenység megkezdésére vonatkozó bejelentést a bányafelügyelethez kell megtenni.
 
 (2) Az (1) bekezdés szerinti tevékenység végzésének bejelentését
 
@@ -20,4 +20,4 @@ e) szénhidrogén
 
 (5) Bejelentés több típusú bányaüzemre is tehető, ha a bejelentésben megjelölt típusú bányaüzemre vonatkozóan a bejelentő eleget tesz a tevékenység végzéséhez szükséges feltételeknek. A feltételeknek a megjelölt bányaüzemekre külön-külön kell fennállnia.
 
-[^1]: A 2. § az 5/2016. (III. 17.) NFM rendelet 15. §-ával megállapított szöveg.
+[^2]: A 2. § az 5/2016. (III. 17.) NFM rendelet 15. §-ával megállapított szöveg.

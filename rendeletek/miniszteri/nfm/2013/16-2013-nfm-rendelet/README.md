@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-16-20-2
 | 2016-03-25 | 2013-16-20-2W.4 | 5/2016. (III. 17.) NFM rendelet |
 | 2017-07-01 | 2013-16-20-2W.5 | 15/2015. (III. 31.) NFM rendelet |
 | 2018-01-01 | 2013-16-20-2W.6 | 5/2016. (III. 17.) NFM rendelet |
+| 2021-12-31 | 2013-16-20-2W.7 | 71/2021. (XII. 30.) ITM rendelet |
