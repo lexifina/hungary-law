@@ -10,7 +10,7 @@ ac) egyetemi szintű alapképzési szakon szerzett bánya- és geotechnikai, erd
 
 szakképzettséggel rendelkezik,
 
-b)[^2] szakmai gyakorlattal az rendelkezik, aki a szakképzettség megszerzését követően bányaüzemnél vagy bányamérési tevékenységet végző egyéb gazdálkodó szervezetnél legalább négy év bányamérési gyakorlatot szerzett.
+b)[^3] szakmai gyakorlattal az rendelkezik, aki a szakképzettség megszerzését követően bányaüzemnél vagy bányamérési tevékenységet végző egyéb gazdálkodó szervezetnél legalább négy év bányamérési gyakorlatot szerzett.
 
 (2) Aki az (1) bekezdés a) pontjában meghatározott szakirányú felsőfokú iskolai végzettsége mellett ingatlanrendező földmérői minősítéssel is rendelkezik, az (1) bekezdés b) pontjától eltérően csak két év bányamérési gyakorlatot kell igazolnia.
 
@@ -28,9 +28,9 @@ aa) természetes személyazonosító adatait,
 
 ab) lakcímét,
 
-ac)[^3] által betöltött munkakör és a végzett tevékenység, illetve az álláshelyén ellátott feladatok megnevezését,
+ac)[^4] által betöltött munkakör és a végzett tevékenység, illetve az álláshelyén ellátott feladatok megnevezését,
 
-b)[^4] a munkakörben, álláshelyen töltött idő naptári időtartamát,
+b)[^5] a munkakörben, álláshelyen töltött idő naptári időtartamát,
 
 c) a munkáltató vagy foglalkoztató megnevezését, címét és cégszerű aláírását.
 
@@ -38,6 +38,6 @@ c) a munkáltató vagy foglalkoztató megnevezését, címét és cégszerű al�
 
 (8) Ha a munkáltató vagy foglalkoztató jogutód nélkül szűnt meg, a szakmai gyakorlati idő igazolására a munkáltatóval vagy foglalkoztatóval kötött olyan megállapodás is alkalmas, amely hitelt érdemlően tanúsítja az adott bányászati szakterületen szerzett gyakorlati időt, és amely tartalmazza a (6) bekezdés a) pont aa) alpontjában meghatározott természetes személyazonosító adatokat.
 
-[^2]: A 2. § (1) bekezdés b) pontja a 82/2012. (XII. 28.) NFM rendelet 25. §-a szerint módosított szöveg.
-[^3]: A 2. § (6) bekezdés a) pont ac) alpontja a 33/2019. (IX. 10.) ITM rendelet 9. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (6) bekezdés b) pontja a 33/2019. (IX. 10.) ITM rendelet 9. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja a 82/2012. (XII. 28.) NFM rendelet 25. §-a szerint módosított szöveg.
+[^4]: A 2. § (6) bekezdés a) pont ac) alpontja a 33/2019. (IX. 10.) ITM rendelet 9. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (6) bekezdés b) pontja a 33/2019. (IX. 10.) ITM rendelet 9. § b) pontja szerint módosított szöveg.
