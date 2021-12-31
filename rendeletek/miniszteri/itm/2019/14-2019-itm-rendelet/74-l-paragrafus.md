@@ -1,4 +1,4 @@
-## 43. [^61] Az állami szakképző intézmények a szakképzésről szóló 2019. évi LXXX. törvény szerinti ingyenes kiegészítő finanszírozása
+## 43. [^84] Az állami szakképző intézmények a szakképzésről szóló 2019. évi LXXX. törvény szerinti ingyenes kiegészítő finanszírozása
 
 74/L. § (1) A XLVII. Gazdaságvédelmi Alap fejezet 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 5. Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása fejezeti kezelésű előirányzat terhére az állami szakképző intézmények a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) szerinti ingyenes képzéseinek kiegészítő finanszírozása céljából támogatási időszakonként nyújtott támogatása vissza nem térítendő normatív támogatás.
 
@@ -50,4 +50,4 @@ c) oktatás és képzés esetén a felnőttképzési jogviszonnyal még nem rend
 
 d) a technikum kétéves, kizárólag érettségi vizsgára felkészítő képzésében felnőttképzési jogviszonyban részt vevő személyenként az (5) bekezdés szerinti támogatás összegének és a támogatási időszak időtartamának az évhez viszonyított arányának szorzata.
 
-[^61]: A 43. alcímet (74/L–74/M. §) az 59/2020. (XII. 30.) ITM rendelet 13. §-a iktatta be.
+[^84]: A 43. alcímet (74/L–74/M. §) az 59/2020. (XII. 30.) ITM rendelet 13. §-a iktatta be.

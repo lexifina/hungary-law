@@ -1,17 +1,11 @@
-## 35. Széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás
+## 35. [^68] Széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás
 
-66. § (1) A széles sávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az elszámolható költségek 100%-áig nyújtható.
+66. § (1) Támogatás nyújtható vezetékes széles sávú infrastruktúra kiépítéséhez (ezen alcím alkalmazásában a továbbiakban: támogatás).
 
-(2) A kedvezményezettről és a támogatás összegéről a támogatást nyújtó nyílt, átlátható, megkülönböztetésmentes és a technológiasemlegesség elvén alapuló pályáztatás alapján dönt.
+(2) A támogatás elszámolható költsége a vezetékes széles sávú infrastruktúra kiépítésének, irányításának és üzemeltetésének bármely költsége lehet.
 
-(3) A támogatás keretében
+(3) A beruházáshoz nyújtható maximális támogatási összeget a 69. § (1) és (2) bekezdése szerinti esetben versenypályázat alapján kell megállapítani.
 
-a) a szükséges aktív és passzív széles sávú infrastruktúra kiépítésének beruházási költsége,
+(4) Ha a támogatás odaítélése a 69. § (3) bekezdésével összhangban versenypályázat nélkül történik, a támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget, amelyet megalapozott előrejelzések alapján kell meghatározni és előzetesen vagy visszafizetési mechanizmus alkalmazásával utólag kell levonni az elszámolható költségekből.
 
-b) a széles sávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munkák beruházási költsége,
-
-c) a széles sávú alaphálózat kiépítésének beruházási költsége és
-
-d) a nagy sebességű újgenerációs hozzáférési hálózat kiépítésének beruházási költsége számolható el.
-
-(4) Az elszámolható költségek (3) bekezdés szerinti megállapításának alternatívájaként a projekthez kapcsolódó támogatás maximális összege a (2) bekezdésben előírt pályáztatási eljárás alapján is meghatározható.
+[^68]: A 35. alcím (66–69/D. §) a 70/2021. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.

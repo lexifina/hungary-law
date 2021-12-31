@@ -10,6 +10,6 @@
 
 (5) Regionális beruházási támogatás esetén a támogatás odaítélését megelőzően – a támogatási kérelemben és a támogatási szerződésben – a kedvezményezett a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
 
-(6)[^45] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti nyilatkozat szempontjából nem eredményeznek áttelepítést.
+(6)[^66] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti nyilatkozat szempontjából nem eredményeznek áttelepítést.
 
-[^45]: A 47. § (6) bekezdését az 59/2020. (XII. 30.) ITM rendelet 9. §-a iktatta be.
+[^66]: A 47. § (6) bekezdését az 59/2020. (XII. 30.) ITM rendelet 9. §-a iktatta be.

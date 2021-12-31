@@ -1,4 +1,4 @@
-## 69. § A 10 000 000 eurónak megfelelő forintösszeget meghaladó projekt esetén a támogatást nyújtó a kedvezményezett indokolatlan mértékű profitszerzésének megakadályozása érdekében ellenőrzési és visszafizetési mechanizmust alkalmaz.
+## 69/D. § A 10 millió eurónak megfelelő forintösszeget meghaladó támogatásban részesült projektek esetén a támogatást nyújtó a kedvezményezett indokolatlan mértékű profitszerzésének megakadályozása érdekében ellenőrzési és visszafizetési mechanizmust alkalmaz.
 
 ## 36. Helyi infrastruktúrára irányuló támogatás
 
@@ -8,11 +8,11 @@
 
 (3) A támogatás keretében immateriális javak és tárgyi eszközök költsége számolható el.
 
-(4)[^46] A támogatott létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetésmentes módon, a vonatkozó jogszabályok figyelembevételével kell eljárni.
+(4)[^69] A támogatott létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetésmentes módon, a vonatkozó jogszabályok figyelembevételével kell eljárni.
 
-(5)[^47] A támogatott létesítményhez a felhasználók számára átlátható és megkülönböztetésmentes módon kell hozzáférést biztosítani.
+(5)[^70] A támogatott létesítményhez a felhasználók számára átlátható és megkülönböztetésmentes módon kell hozzáférést biztosítani.
 
 (6) A támogatási összeg nem haladhatja meg az elszámolható költségeknek és a beruházás működési eredményének a különbségét. A működési eredményt az elszámolható költségekből megalapozott előrejelzések alapján előzetesen vagy visszafizetési mechanizmus alkalmazásával kell levonni.
 
-[^46]: A 70. § (4) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § e) pontja szerint módosított szöveg.
-[^47]: A 70. § (5) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § f) pontja szerint módosított szöveg.
+[^69]: A 70. § (4) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § e) pontja szerint módosított szöveg.
+[^70]: A 70. § (5) bekezdése a 39/2020. (X. 21.) ITM rendelet 10. § f) pontja szerint módosított szöveg.
