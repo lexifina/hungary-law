@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-24-20-0
 | 2021-08-03 | 2021-24-20-0A.2 | 2010: CXXX. törvény |
 | 2021-08-30 | 2021-24-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-08-31 | 2021-24-20-0A.4 | 2010: CXXX. törvény |
+| 2021-12-31 | 2021-24-20-0A.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
