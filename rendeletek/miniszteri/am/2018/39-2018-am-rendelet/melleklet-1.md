@@ -1,4 +1,4 @@
-## 20. §[^19] A 14. § (1) bekezdése szerinti tevékenységek támogatására 2021. április 1-jétől a 18/2021. (IV. 14.) AM rendelet hatálybalépése[^20] napjáig benyújtott kérelem átmeneti támogatás iránti kérelemnek minősül.
+## 21. §[^22] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelettel megállapított 16/D. §-át a 2020. támogatási év IV. negyedévére, valamint a 2021. támogatási év I. negyedévére és 2021. támogatási év II. negyedévére vonatkozóan benyújtott átmeneti támogatás iránti kérelmeket elbíráló támogatási döntések esetében kell alkalmazni.
 
 1. melléklet a 39/2018. (XII. 13.) AM rendelethez
 
@@ -16,5 +16,4 @@ A 6. § (7) bekezdés a) pontja szerinti elemzés adattartalma
 
 | 5. | a) minőségi adatok aa) férőhely mértéke, ab) természetes tartási feltételek javulása (%-ban), ac) verekedés, kimarás gyakorisága (%-ban), ad) almozás gyakorisága, ae) gázkoncentráció szintje; b) elhullások száma (ÁE); c) csökkent értékű értékesítés száma (ÁE) |  |  |  |
 
-[^19]: A 20. §-t a 18/2021. (IV. 14.) AM rendelet 20. §-a iktatta be.
-[^20]: A hatálybalépés időpontja 2021. április 15.
+[^22]: A 21. §-t a 49/2021. (XII. 28.) AM rendelet 16. §-a iktatta be.
