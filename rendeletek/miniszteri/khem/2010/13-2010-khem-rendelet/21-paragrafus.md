@@ -1,16 +1,16 @@
 ## Légtechnika
 
-21. § (1)[^74] Az „RV- besorolású” helyiségben olyan hatékonyságú szellőzést kell kialakítani, hogy üzemszerű körülmények között a helyiség légterében a robbanóanyag gőzének, porának vagy kondenzátumának és az „A”–„B” tűzveszélyességi osztályú gáz, gőz vagy por – egyedi vagy együttes – koncentrációja ne haladja meg az alsó robbanási határ 20%-át.
+21. § (1)[^75] Az „RV- besorolású” helyiségben olyan hatékonyságú szellőzést kell kialakítani, hogy üzemszerű körülmények között a helyiség légterében a robbanóanyag gőzének, porának vagy kondenzátumának és az „A”–„B” tűzveszélyességi osztályú gáz, gőz vagy por – egyedi vagy együttes – koncentrációja ne haladja meg az alsó robbanási határ 20%-át.
 
 (2) Az „RV-1"–"RV-3” besorolású helyiség olyan munkahelyénél, amelynél a légszennyező anyag koncentrációja üzemszerűen túllépheti az (1) bekezdésben meghatározott mértéket, helyi elszívást kell biztosítani.
 
 (3) Az olyan „RV-1”–„RV-3” besorolású helyiségben, amelyben a technológiai berendezésben keletkező üzemzavar vagy előrelátható meghibásodás esetén az általános üzemi szellőzés nem elegendő az előírt levegőtisztasági követelmények megtartására, vész-szellőzést kell biztosítani.
 
-(4)[^75] Az „RV-1”–„RV-3” besorolású helyiségből származó, légszennyező anyagot tartalmazó levegőt – szükség esetén – olyan tisztítási műveletnek kell alávetni, hogy a szabadba kibocsátott levegő tisztasága a hatályos környezetvédelmi előírásoknak megfelelő legyen.
+(4)[^76] Az „RV-1”–„RV-3” besorolású helyiségből származó, légszennyező anyagot tartalmazó levegőt – szükség esetén – olyan tisztítási műveletnek kell alávetni, hogy a szabadba kibocsátott levegő tisztasága a hatályos környezetvédelmi előírásoknak megfelelő legyen.
 
-(5)[^76] Minden olyan légtechnikai csővezetékben, amely robbanóanyag gőzével, porával vagy robbanásveszélyes gázzal, gőzzel vagy porral szennyezett levegőt szállít, és azok egyedi vagy együttes koncentrációja elérheti az alsó gyulladási hatáskoncentráció 40%-át, robbanás tovaterjedése elleni védelmet kell kialakítani, valamint tűzszakasz határonként tűzvédelmi csappantyúkat is be kell építeni.
+(5)[^77] Minden olyan légtechnikai csővezetékben, amely robbanóanyag gőzével, porával vagy robbanásveszélyes gázzal, gőzzel vagy porral szennyezett levegőt szállít, és azok egyedi vagy együttes koncentrációja elérheti az alsó gyulladási hatáskoncentráció 40%-át, robbanás tovaterjedése elleni védelmet kell kialakítani, valamint tűzszakasz határonként tűzvédelmi csappantyúkat is be kell építeni.
 
-(6)[^77] Azon az „RV-besorolású” építményben, amelynek helyiségében a robbantóanyag minősége vagy a művelet biztonsága meghatározott paraméterű légállapotot követel meg, klimatizáló berendezést kell létesíteni.
+(6)[^78] Azon az „RV-besorolású” építményben, amelynek helyiségében a robbantóanyag minősége vagy a művelet biztonsága meghatározott paraméterű légállapotot követel meg, klimatizáló berendezést kell létesíteni.
 
 (7) Az „RV-besorolású” helyiség szellőző- és klimatizáló berendezésének létesítési követelményei a következők:
 
@@ -30,7 +30,7 @@ g) visszakeringető szellőztető- és klímaberendezést nem szabad létesíten
 
 h) „RV-4” besorolású helyiség kivételével ventilátort a helyiségben vagy azzal egy légtérben elhelyezni tilos.
 
-i)[^78] az elszívó berendezés robbanásbiztos kivitelű legyen.
+i)[^79] az elszívó berendezés robbanásbiztos kivitelű legyen.
 
 (8) Az „RV-1”, „RV-2” besorolású helyiségre és szabadtérre vonatkozó többletkövetelmények a következők:
 
@@ -40,7 +40,7 @@ b) hőmérséklet-, füst-, nyomásérzékelőket, az egyéb érzékelőket el s
 
 c) a légcsatornákat szabadon kell szerelni, nem lehet aknában, padlócsatornában vagy egyéb zárt helyen légcsatornát vezetni,
 
-d)[^79] csak kör keresztmetszetű légcsatornát szabad használni, amelyet a falon történő átvezetéskor nem éghető anyaggal tömített csőhüvelyben kell elhelyezni,
+d)[^80] csak kör keresztmetszetű légcsatornát szabad használni, amelyet a falon történő átvezetéskor nem éghető anyaggal tömített csőhüvelyben kell elhelyezni,
 
 e) elszívó-rendszerbe csak olyan szerelvényeket és mozgó alkatrészeket szabad építeni, amelyek szikrát nem okozhatnak,
 
@@ -58,9 +58,9 @@ a) a befúvó és elszívó oldali rácsokat és a hozzájuk tartozó légcsator
 
 b) tilos elhelyezni a helyiségben porleválasztót, légszűrő és mosóberendezést, hűtési és fűtési hőcserélőt, nyomáslevezető szerelvényt, kompresszort, vákuumszivattyút.
 
-[^74]: A 21. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^75]: A 21. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^76]: A 21. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^77]: A 21. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^78]: A 21. § (7) bekezdés i) pontját a 49/2013. (VIII. 9.) NFM rendelet 13. § (3) bekezdése iktatta be.
-[^79]: A 21. § (8) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 13. § (4) bekezdésével megállapított szöveg.
+[^75]: A 21. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^76]: A 21. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^77]: A 21. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^78]: A 21. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^79]: A 21. § (7) bekezdés i) pontját a 49/2013. (VIII. 9.) NFM rendelet 13. § (3) bekezdése iktatta be.
+[^80]: A 21. § (8) bekezdés d) pontja a 49/2013. (VIII. 9.) NFM rendelet 13. § (4) bekezdésével megállapított szöveg.

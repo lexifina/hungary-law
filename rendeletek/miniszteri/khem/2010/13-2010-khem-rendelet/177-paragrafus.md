@@ -1,6 +1,6 @@
 ## Robbanóanyag szállítása telephelyen kívül
 
-177. §[^248] (1) Telephelyen kívül robbanóanyag vagy robbanóanyagot tartalmazó termék közúton, vasúton, légi úton vagy hajón csak a veszélyes áruk szállítására vonatkozó előírások betartásával szállítható.
+177. §[^249] (1) Telephelyen kívül robbanóanyag vagy robbanóanyagot tartalmazó termék közúton, vasúton, légi úton vagy hajón csak a veszélyes áruk szállítására vonatkozó előírások betartásával szállítható.
 
 (2) A szállítmánnyal szállítás közben megállni vagy várakozni csak ott lehet, ahol valószínűsíthetően nem fenyeget veszély vagy a szállítmány sérülést nem szenvedhet.
 
@@ -12,4 +12,4 @@
 
 (6) Robbanóanyagot postán – levélben vagy csomagban – feladni nem lehet.
 
-[^248]: A 177. § a 49/2013. (VIII. 9.) NFM rendelet 58. §-ával megállapított szöveg.
+[^249]: A 177. § a 49/2013. (VIII. 9.) NFM rendelet 58. §-ával megállapított szöveg.

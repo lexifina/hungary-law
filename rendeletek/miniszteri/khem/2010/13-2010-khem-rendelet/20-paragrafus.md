@@ -1,6 +1,6 @@
 ## Fűtés, hűtés
 
-20. § (1)[^72] Az „RV-besorolású” építmény hőközpontját vagy hűtőközpontját úgy kell elhelyezni, hogy ne érintkezzen „RV-besorolású” helyiség falával. A kondenzvíz vezetékébe robbanóanyag leválasztó egységet kell beépíteni az építmény határán belül. A hőközpont vagy a hűtőközpont az „RV-besorolású” épület külső bejáratú helyiségében is elhelyezhető, ha az a technológiával szorosan összefügg, vagy ha nem kerül közvetlenül „RV-besorolású” helyiség mellé és a hőközpont vagy a hűtőközpont esetleges robbanástól védett.
+20. § (1)[^73] Az „RV-besorolású” építmény hőközpontját vagy hűtőközpontját úgy kell elhelyezni, hogy ne érintkezzen „RV-besorolású” helyiség falával. A kondenzvíz vezetékébe robbanóanyag leválasztó egységet kell beépíteni az építmény határán belül. A hőközpont vagy a hűtőközpont az „RV-besorolású” épület külső bejáratú helyiségében is elhelyezhető, ha az a technológiával szorosan összefügg, vagy ha nem kerül közvetlenül „RV-besorolású” helyiség mellé és a hőközpont vagy a hűtőközpont esetleges robbanástól védett.
 
 (2) Az „RV-besorolású” építmény fűtő- vagy hűtőberendezéseinek létesítési követelményei a következők:
 
@@ -24,7 +24,7 @@ aa) a helyiségeket csak nyitott tágulási tartályú, a jelenlévő anyagok á
 
 ab) gőzfűtésű vezetéket vagy szerelvényt helyiségben vagy szabadtéren elhelyezni, vagy azon átvezetni tilos,
 
-ac)[^73] csak sima csőfűtőtestet szabad alkalmazni,
+ac)[^74] csak sima csőfűtőtestet szabad alkalmazni,
 
 ad) a fűtőtestet olyan színűre kell festeni, amely elüt a fűtőtestre rakódható veszélyes anyag színétől,
 
@@ -48,5 +48,5 @@ ca) a fűtőtesten és a hozzá tartozó csővezetéken kívül a helyiségben s
 
 cb) a bordás fűtőtest kivételével mindenfajta fűtőtestet szabad alkalmazni.
 
-[^72]: A 20. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 12. §-ával megállapított szöveg.
-[^73]: A 20. § (3) bekezdés a) pont ac) alpontja a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 11. pontja szerint módosított szöveg.
+[^73]: A 20. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 12. §-ával megállapított szöveg.
+[^74]: A 20. § (3) bekezdés a) pont ac) alpontja a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 11. pontja szerint módosított szöveg.

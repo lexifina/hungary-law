@@ -1,6 +1,6 @@
 ## Víz alatti és jégrobbantás
 
-107. § (1)[^194] Az egy tűzben robbantásra kerülő töltetek tömegének figyelembevételével biztosítani kell, hogy a robbantás ideje alatt a következő távolságokon belül személyek a vízben ne tartózkodjanak:
+107. § (1)[^195] Az egy tűzben robbantásra kerülő töltetek tömegének figyelembevételével biztosítani kell, hogy a robbantás ideje alatt a következő távolságokon belül személyek a vízben ne tartózkodjanak:
 
 a) 1 kg tömegű töltetig 100 m,
 
@@ -12,7 +12,7 @@ d) 50 kg tömegű töltet felett 2000 m.
 
 (2) Éles folyókanyar esetén, ha a töltet tömege a 10 kg-ot meghaladja, a távolság a felére csökkenthető.
 
-(3)[^195] A mértékadó töltet tömegénél nagyobb töltet egy tűzben történő felrobbantása esetén írásban rögzíteni kell a robbantás helyét, időpontját, a töltet tömegét, elhelyezésének és indításának módját. Az e célra szolgáló naplót a robbantástól számított 1 évig meg kell őrizni.
+(3)[^196] A mértékadó töltet tömegénél nagyobb töltet egy tűzben történő felrobbantása esetén írásban rögzíteni kell a robbantás helyét, időpontját, a töltet tömegét, elhelyezésének és indításának módját. Az e célra szolgáló naplót a robbantástól számított 1 évig meg kell őrizni.
 
 (4) Víz alatti robbantás esetén a robbantótöltetet és a robbantóhálózatot vízbe merítés előtt kell elkészíteni.
 
@@ -28,5 +28,5 @@ b) a töltetet olyan fogantyúval kell ellátni, hogy az egy kézben szállítha
 
 (8) Dobott töltet esetén a gyújtózsinór hossza legalább 0,25 m. A töltetet gyújtás után azonnal dobni kell. Egy személy csak egyetlen töltetet gyújthat és dobhat, ezt követően azonnal védett helyre kell távoznia.
 
-[^194]: A 107. § (1) bekezdés nyitó szövegrésze a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 67. pontja szerint módosított szöveg.
-[^195]: A 107. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 41. §-ával megállapított szöveg.
+[^195]: A 107. § (1) bekezdés nyitó szövegrésze a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 67. pontja szerint módosított szöveg.
+[^196]: A 107. § (3) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 41. §-ával megállapított szöveg.

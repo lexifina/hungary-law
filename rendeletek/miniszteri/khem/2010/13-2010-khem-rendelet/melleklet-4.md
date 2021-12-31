@@ -1,4 +1,4 @@
-4. melléklet a 13/2010. (III. 4.) KHEM rendelethez[^256]
+4. melléklet a 13/2010. (III. 4.) KHEM rendelethez[^257]
 
 A robbantás biztonsági távolságának meghatározása
 
@@ -222,4 +222,4 @@ III. Légnyomás hatása elleni biztonsági távolság
 
 4. A légnyomás hatása elleni biztonsági távolság értékei
 
-[^256]: A 4. melléklet a 49/2013. (VIII. 9.) NFM rendelet 60. § (2) bekezdésével megállapított szöveg.
+[^257]: A 4. melléklet a 49/2013. (VIII. 9.) NFM rendelet 60. § (2) bekezdésével megállapított szöveg.

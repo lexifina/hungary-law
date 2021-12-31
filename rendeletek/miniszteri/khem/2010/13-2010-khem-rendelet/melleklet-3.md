@@ -110,7 +110,7 @@
 
 3. a töltési terek paramétereinek (szélső- és átlagértékek) meghatározása, átmérő, dőlésszög, előtét, egymástól való távolság, munkaterület, hossz, mélység, sorok egymástól való távolsága, sorok száma, az egyidejűleg felrobbantható töltetek, az ezek elhelyezéséhez szükséges töltési terek száma, a betörés módja
 
-4.[^254] töltetszámítás, az alkalmazható töltet tömegek szélső értékei, a számított, szükséges robbanóanyag tömegek elhelyezhetőségének ellenőrzése, a mértékadó töltet meghatározása
+4.[^255] töltetszámítás, az alkalmazható töltet tömegek szélső értékei, a számított, szükséges robbanóanyag tömegek elhelyezhetőségének ellenőrzése, a mértékadó töltet meghatározása
 
 5. töltés
 
@@ -130,7 +130,7 @@
 
 6. az indítás módjának, módjainak meghatározása
 
-6.1.[^255] az indítótöltetek anyaga, elkészítésének módja, egy töltet indításához szükséges indítók száma, elhelyezési helye
+6.1.[^256] az indítótöltetek anyaga, elkészítésének módja, egy töltet indításához szükséges indítók száma, elhelyezési helye
 
 6.2. a gyújtózsinór hosszának szélső értékei, a gyújtást végző személyek száma (db/fő), a gyújtás eszközei
 
@@ -174,5 +174,5 @@
 
 17. a rendelet előírásainak betartása alóli esetleges felmentések ismertetése
 
-[^254]: A 3. melléklet 4. pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (2) bekezdése szerint módoított szöveg.
-[^255]: A 3. melléklet 6.1. pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (2) bekezdése szerint módoított szöveg.
+[^255]: A 3. melléklet 4. pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (2) bekezdése szerint módoított szöveg.
+[^256]: A 3. melléklet 6.1. pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (2) bekezdése szerint módoított szöveg.

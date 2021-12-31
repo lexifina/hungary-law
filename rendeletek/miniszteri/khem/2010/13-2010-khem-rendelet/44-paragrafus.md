@@ -1,4 +1,4 @@
-44. § (1)[^96]
+44. § (1)[^97]
 
 (2) A kísérleti gyártás irányítására – kellő szakmai és munkavédelmi ismeretekkel rendelkező – személyt kell megbízni. A megbízást írásban kell kiadni.
 
@@ -14,4 +14,4 @@ c) a kísérleti robbantási munka végrehajtásánál meg kell tartani az adott
 
 (5) A kifejlesztésre kerülő robbanóanyag, vagy az új gyártási eljárás biztonságtechnikai, munkaegészségügyi és környezetvédelmi vonatkozású hatásait még a kísérleti munkák időszakában kell megállapítani, hogy az üzemi gyártás bevezetéséhez a szükséges intézkedések meghatározhatók legyenek.
 
-[^96]: A 44. § (1) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^97]: A 44. § (1) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.

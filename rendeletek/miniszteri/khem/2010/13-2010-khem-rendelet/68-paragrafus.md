@@ -24,6 +24,6 @@ b) az Országos Katasztrófavédelmi Főigazgatóság területi szervét.
 
 (5) A menetesítő munkálatok során esetleg bekövetkező, azonnali bejelentésre kötelezett rendkívüli eseményről értesíteni kell az engedélyező hatóságot.
 
-(6)[^113] A mentesített gyártó építményből kibontott haszonanyag kiszerelt technológiai, épületgépészeti és villamos gép, berendezés, valamint azok vezetékeinek és szerelvényeinek robbanóanyagtól való mentességéről a mentesítési munkák robbantóanyag gyártásért felelős személynek vizsgálatok útján kell meggyőződnie, és írásban kell nyilatkoznia azok további felhasználhatóságáról.
+(6)[^114] A mentesített gyártó építményből kibontott haszonanyag kiszerelt technológiai, épületgépészeti és villamos gép, berendezés, valamint azok vezetékeinek és szerelvényeinek robbanóanyagtól való mentességéről a mentesítési munkák robbantóanyag gyártásért felelős személynek vizsgálatok útján kell meggyőződnie, és írásban kell nyilatkoznia azok további felhasználhatóságáról.
 
-[^113]: A 68. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 31. pontja szerint módosított szöveg.
+[^114]: A 68. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 31. pontja szerint módosított szöveg.

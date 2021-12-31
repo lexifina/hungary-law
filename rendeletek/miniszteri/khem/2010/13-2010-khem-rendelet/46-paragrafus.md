@@ -6,8 +6,8 @@
 
 (4) A technológiai gép, berendezés karbantartásának (megbízhatóságuk fenntartásának, helyreállításának) szabályozására – a karbantartókra vonatkozólag – gépenként külön-külön, vagy gépcsoportonként közös karbantartási utasításokat kell elkészíteni, amelyekben rögzíteni kell a karbantartás megkezdésének előfeltételeit, a végrehajtás módját, gyakoriságát, rendszerességét, személyi, tárgyi és biztonsági feltételeit.
 
-(5)[^100] Az (1)–(4) bekezdésben foglalt utasításokat írásba kell foglalni, azokról az érintett személyeket ki kell oktatni, részükre az utasításokat aláírás ellenében ki kell adni, és az azokban foglaltak elsajátításáról szóbeli ismeretellenőrzés útján meg kell győződni. Az utasítások vonatkozó lapjainak másolatát minden munkahelyen ki kell függeszteni.
+(5)[^101] Az (1)–(4) bekezdésben foglalt utasításokat írásba kell foglalni, azokról az érintett személyeket ki kell oktatni, részükre az utasításokat aláírás ellenében ki kell adni, és az azokban foglaltak elsajátításáról szóbeli ismeretellenőrzés útján meg kell győződni. Az utasítások vonatkozó lapjainak másolatát minden munkahelyen ki kell függeszteni.
 
 (6) A robbanóanyagokat az (1)–(5) bekezdésben foglalt utasítások alapján kell gyártani.
 
-[^100]: A 46. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 19. §-ával megállapított szöveg.
+[^101]: A 46. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 19. §-ával megállapított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A robbantótöltet hőszigetelésének módját és mértékét a várható hőmérséklet függvényében, kísérleti úton előzetesen meg kell határozni. A hőszigetelés akkor megfelelő, ha biztosítja, hogy a töltet önrobbanása 5 percen belül nem következik be. A több töltényből álló töltetet közös hőszigeteléssel kell ellátni.
 
-(2a)[^190] Meleg anyagok robbantását két robbantómesternek kell végeznie úgy, hogy az egyik robbantómester a töltetet helyezi el, a másik robbantómester pedig a robbantógépet kezeli. A robbantómesterek közötti kapcsolattartásról gondoskodni kell.
+(2a)[^191] Meleg anyagok robbantását két robbantómesternek kell végeznie úgy, hogy az egyik robbantómester a töltetet helyezi el, a másik robbantómester pedig a robbantógépet kezeli. A robbantómesterek közötti kapcsolattartásról gondoskodni kell.
 
 (3) Csak olyan villamos gyutacs használható, amelynek összellenállását előzetesen, műszeres méréssel ellenőrizték.
 
@@ -14,7 +14,7 @@
 
 (6) A tölteteket a legrövidebb időn belül kell elhelyezni, és a töltést végzőknek a töltés megkezdésétől számított 1 percen belül védett helyre kell indulniuk.
 
-(7)[^191] A robbantóvezetéket a töltés előtt kell lefektetni.
+(7)[^192] A robbantóvezetéket a töltés előtt kell lefektetni.
 
-[^190]: A 104. § (2a) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 40. § (1) bekezdése iktatta be.
-[^191]: A 104. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 40. § (2) bekezdésével megállapított szöveg.
+[^191]: A 104. § (2a) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 40. § (1) bekezdése iktatta be.
+[^192]: A 104. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 40. § (2) bekezdésével megállapított szöveg.

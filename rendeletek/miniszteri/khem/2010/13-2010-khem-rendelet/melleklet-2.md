@@ -1,4 +1,4 @@
-2. melléklet a 13/2010. (III. 4.) KHEM rendelethez[^253]
+2. melléklet a 13/2010. (III. 4.) KHEM rendelethez[^254]
 
 ## A gyártó létesítmények biztonsági távolságának meghatározása
 
@@ -140,4 +140,4 @@ fc) a létesítmény külső kerítésénél.
 
 | 20. | 1,0 | a kifúvófal és kifúvófödém esetében |
 
-[^253]: A 2. melléklet a 49/2013. (VIII. 9.) NFM rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^254]: A 2. melléklet a 49/2013. (VIII. 9.) NFM rendelet 60. § (1) bekezdésével megállapított szöveg.

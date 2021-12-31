@@ -4,7 +4,7 @@
 
 (3) Robbantóvezetékként a robbantószerkezet leeresztéséhez alkalmazott kábel használata is megengedett.
 
-(4)[^199] A robbantószerkezet fúrólyukban való szabad mozgásának lehetőségét sablon használatával előzetesen ellenőrizni kell. Az ellenőrzés során olyan sablont kell alkalmazni, amelynek geometriai méretei nagyobbak a beépítésre kerülő legnagyobb terjedelmű robbantószerkezet méreténél. A sablonozás a mélység-ellenőrzéssel egyidőben is elvégezhető.
+(4)[^200] A robbantószerkezet fúrólyukban való szabad mozgásának lehetőségét sablon használatával előzetesen ellenőrizni kell. Az ellenőrzés során olyan sablont kell alkalmazni, amelynek geometriai méretei nagyobbak a beépítésre kerülő legnagyobb terjedelmű robbantószerkezet méreténél. A sablonozás a mélység-ellenőrzéssel egyidőben is elvégezhető.
 
 (5) A robbantószerkezetet csak fékkel ellátott emelőszerkezettel lehet a fúrólyukba beemelni és leereszteni.
 
@@ -18,4 +18,4 @@
 
 (10) A lyukfal-mintavevő és az echométer töltésére, szerelésére és használatára utasítást kell készíteni, amelyre az érintett robbantómestereket ki kell oktatni.
 
-[^199]: A 112. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 43. §-ával megállapított szöveg.
+[^200]: A 112. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 43. §-ával megállapított szöveg.

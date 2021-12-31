@@ -20,7 +20,7 @@ d) a robbanóanyaggal kapcsolatos munka végzésére egészségügyileg alkalmas
 
 (3) Robbantásvezetői vagy robbantómesteri engedélyt kérelemre, a bányafelügyelet vizsgabizottsága előtt tett sikeres vizsgát követően 5 évre, a (4) bekezdés szerinti érvényességi körre a bányafelügyelet adja meg. Az engedély kérelemre, az 1. melléklet szerinti – robbantásvezető esetén 32, robbantómester esetén 16 órás – továbbképző tanfolyam elvégzése és a bányafelügyelet vizsgabizottsága előtt tett sikeres vizsga esetén meghosszabbítható további 5 évre.
 
-(4)[^43] Robbantásvezetői, illetve robbantómesteri engedély
+(4)[^44] Robbantásvezetői, illetve robbantómesteri engedély
 
 a) külszíni bányászati robbantási munka;
 
@@ -38,12 +38,12 @@ g) föld alatti robbantási munka
 
 ## érvényességi körre adható.
 
-(5)[^44]
+(5)[^45]
 
-(6)[^45]
+(6)[^46]
 
 (7) A (3) bekezdés szerinti engedélyt a bányafelügyelet véglegesen visszavonja attól, aki feladatai ellátására egészségügyileg (orvosi szakvélemény alapján) véglegesen alkalmatlanná vált.
 
-[^43]: Az 5. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 2. §-ával megállapított szöveg.
-[^44]: Az 5. § (5) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § a) pontja hatályon kívül helyezte.
-[^45]: Az 5. § (6) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^44]: Az 5. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 2. §-ával megállapított szöveg.
+[^45]: Az 5. § (5) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^46]: Az 5. § (6) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § a) pontja hatályon kívül helyezte.

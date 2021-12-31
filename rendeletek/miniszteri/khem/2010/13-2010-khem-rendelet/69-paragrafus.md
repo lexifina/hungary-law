@@ -10,9 +10,9 @@
 
 (3) A robbantási tevékenységet, a tevékenységhez kapcsolódó létesítményeket, az alkalmazott eszközöket és a felhasználandó robbanóanyagot a robbantás-vezetőnek rendszeresen ellenőrizni kell.
 
-(4)[^114] A robbantás-vezető haladéktalanul köteles intézkedni az észlelt vagy tudomására jutott biztonságellenes állapot megszüntetésére.
+(4)[^115] A robbantás-vezető haladéktalanul köteles intézkedni az észlelt vagy tudomására jutott biztonságellenes állapot megszüntetésére.
 
-(5)[^115] Ha a robbantás-vezető, a robbantómester a hatáskörét meghaladó intézkedés kiadását tartja szükségesnek, vagy a biztonságos munkavégzéshez nem áll rendelkezésére a szükséges technikai felszerelés vagy munkaerő, köteles a személyi biztonság érdekében haladéktalanul intézkedni, és felettesének késedelem nélkül jelentést tenni.
+(5)[^116] Ha a robbantás-vezető, a robbantómester a hatáskörét meghaladó intézkedés kiadását tartja szükségesnek, vagy a biztonságos munkavégzéshez nem áll rendelkezésére a szükséges technikai felszerelés vagy munkaerő, köteles a személyi biztonság érdekében haladéktalanul intézkedni, és felettesének késedelem nélkül jelentést tenni.
 
-[^114]: A 69. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 16. pontja szerint módosított szöveg.
-[^115]: A 69. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^115]: A 69. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^116]: A 69. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 16. pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 ## Általános rendelkezések
 
-7. § (1)[^50] A robbanóanyagot tartalmazó tárgy tömege a robbanóanyag tárolására vonatkozó rendelkezések alkalmazása szempontjából a beletöltött vagy szerelt robbanóanyag tömegével egyenlő.
+7. § (1)[^51] A robbanóanyagot tartalmazó tárgy tömege a robbanóanyag tárolására vonatkozó rendelkezések alkalmazása szempontjából a beletöltött vagy szerelt robbanóanyag tömegével egyenlő.
 
 (2) A gyártási tevékenység a robbanóanyaggal végzett
 
@@ -16,15 +16,15 @@ c) átdolgozás, tovább feldolgozás,
 
 d) szerelés, szétszerelés, visszaszerelés,
 
-e)[^51] válogatás, csomagolás, töltés, préselés, sajtolás,
+e)[^52] válogatás, csomagolás, töltés, préselés, sajtolás,
 
 f) vizsgálat, ellenőrzés,
 
-g)[^52] telephelyen (vagy létesítményen) belüli anyagmozgatás, szállítás.
+g)[^53] telephelyen (vagy létesítményen) belüli anyagmozgatás, szállítás.
 
-(3)[^53] Az „RV-besorolású” építményben lévő hűtő, légtechnikai és egyéb villamos berendezéseket és -gyártmányokat úgy kell kialakítani, hogy azok robbanóanyaggal érintkezhető bármely részeinek hőmérséklete ne haladja meg a 70 °C-t, megengedett terhelésű folytonos üzem esetében sem.
+(3)[^54] Az „RV-besorolású” építményben lévő hűtő, légtechnikai és egyéb villamos berendezéseket és -gyártmányokat úgy kell kialakítani, hogy azok robbanóanyaggal érintkezhető bármely részeinek hőmérséklete ne haladja meg a 70 °C-t, megengedett terhelésű folytonos üzem esetében sem.
 
-[^50]: A 7. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^51]: A 7. § (2) bekezdése e) pontja a 49/2013. (VIII. 9.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^52]: A 7. § (2) bekezdése g) pontja a 49/2013. (VIII. 9.) NFM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^53]: A 7. § (3) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 4. § (4) bekezdése iktatta be.
+[^51]: A 7. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^52]: A 7. § (2) bekezdése e) pontja a 49/2013. (VIII. 9.) NFM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^53]: A 7. § (2) bekezdése g) pontja a 49/2013. (VIII. 9.) NFM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^54]: A 7. § (3) bekezdését a 49/2013. (VIII. 9.) NFM rendelet 4. § (4) bekezdése iktatta be.

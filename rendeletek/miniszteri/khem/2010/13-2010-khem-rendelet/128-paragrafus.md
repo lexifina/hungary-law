@@ -1,12 +1,12 @@
 ## Külszíni robbanóanyag-raktár kiviteli, üzemeltetési követelményei
 
-128. § (1)[^213] A tárolókat nem éghető anyagból készült, legalább 2,5 m magas kerítéssel kell körülvenni. Az oszlopok felső részét a zárt terület felé hajlítottan kell elkészíteni, és a hajlított részen 3 sor, egymástól 15–20 cm távolságra elhelyezett szögesdrótot kell kifeszíteni. A kerítést úgy kell kialakítani, hogy erőszak alkalmazása nélkül ne lehessen a raktár területére behatolni. E bekezdés rendelkezései nem vonatkoznak az RTE-ben vagy a robbantási engedélyben előírt munkahelyi tárolásra.
+128. § (1)[^214] A tárolókat nem éghető anyagból készült, legalább 2,5 m magas kerítéssel kell körülvenni. Az oszlopok felső részét a zárt terület felé hajlítottan kell elkészíteni, és a hajlított részen 3 sor, egymástól 15–20 cm távolságra elhelyezett szögesdrótot kell kifeszíteni. A kerítést úgy kell kialakítani, hogy erőszak alkalmazása nélkül ne lehessen a raktár területére behatolni. E bekezdés rendelkezései nem vonatkoznak az RTE-ben vagy a robbantási engedélyben előírt munkahelyi tárolásra.
 
 (2) A kerítést a tárolóktól legalább 20 m távolságra kell építeni.
 
 (3) A kerítésen 3 m széles, biztonsági zárral vagy lakattal zárható kaput kell kiképezni.
 
-(4)[^214] Robbantóanyagok együttes tárolása esetén a TNT-egyenérték alapján átszámított mennyiség
+(4)[^215] Robbantóanyagok együttes tárolása esetén a TNT-egyenérték alapján átszámított mennyiség
 
 a) az 5000 kg-ot meghaladja, az egyes robbantóanyagokat külön tárolókban kell elhelyezni;
 
@@ -36,7 +36,7 @@ cd) 5000 m robbanózsinór
 
 ## tárolható együtt.
 
-(5)[^215] Robbantóanyagból ugyanabban a tárolóban legfeljebb
+(5)[^216] Robbantóanyagból ugyanabban a tárolóban legfeljebb
 
 a) 40 000 kg robbanóanyag,
 
@@ -50,7 +50,7 @@ e) 50 000 m robbanózsinór
 
 ## tárolható.
 
-(6)[^216] Az együtt tárolható robbantóanyag mennyiségének számításánál, meghatározásánál azt kell figyelembe venni, hogy 1 kg robbanóanyaggal
+(6)[^217] Az együtt tárolható robbantóanyag mennyiségének számításánál, meghatározásánál azt kell figyelembe venni, hogy 1 kg robbanóanyaggal
 
 a) 1 kg lőpor,
 
@@ -64,7 +64,7 @@ c) perforátor és robbanózsinór esetén a bennük lévő – E=1,28·TNT-egye
 
 (8) A kerítésen kívül kell elhelyezni az őrzéssel, a villamosenergia-ellátással kapcsolatos, valamint a robbanóanyag csomagolásához használt göngyölegek tárolására szolgáló létesítményeket.
 
-[^213]: A 128. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (1) bekezdésével megállapított szöveg.
-[^214]: A 128. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (2) bekezdésével megállapított szöveg.
-[^215]: A 128. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (2) bekezdésével megállapított szöveg.
-[^216]: A 128. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^214]: A 128. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (1) bekezdésével megállapított szöveg.
+[^215]: A 128. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^216]: A 128. § (5) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^217]: A 128. § (6) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 50. § (2) bekezdésével megállapított szöveg.

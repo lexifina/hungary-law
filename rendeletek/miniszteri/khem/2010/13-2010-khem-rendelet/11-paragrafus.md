@@ -34,7 +34,7 @@ g) a védősáncon egyenesen átvezető alagút kijáratával szemben – attól
 
 h) ha a kijárattal szemben védősánc vagy védőfal nem építhető, akkkor a kijáratok tengelyeit egymáshoz képest el kell tolni úgy, hogy az eltolt tengelyek közötti távolság nem lehet kisebb, mint az alagút szélessége +1 m, az átmeneti pont iránytörése legalább 60° legyen, valamint az alagút ki- és bejáratánál tiltó- vagy jelzőlámpát kell elhelyezni,
 
-i)[^63] a közművezetékek számára a védősáncba csak olyan méretű és elhelyezésű közműcsatornát, közműalagutat szabad építeni, amely a védősánc hatását jelentős mértékben nem csökkenti,
+i)[^64] a közművezetékek számára a védősáncba csak olyan méretű és elhelyezésű közműcsatornát, közműalagutat szabad építeni, amely a védősánc hatását jelentős mértékben nem csökkenti,
 
 j) az alagutat szabadon kell hagyni, abban kaput, sorompót vagy egyéb repeszt képező anyagot elhelyezni tilos.
 
@@ -50,9 +50,9 @@ d) a védőfal és a védett épület közötti távolság 3 m-nél kisebb és 6
 
 e) a védőfalon átvezető út kijáratával szemben – attól legfeljebb 5 m-re – egy további védőfalat kell építeni úgy, hogy a további védőfal teteje és az alagút kijáratának teteje minimum 10°-os szöget zárjon be, és minden irányban legalább 1 m-rel takarja a kijáratot, valamint legalább 10°-os szöget zárjon be a védősánc széle a kijárat oldalával,
 
-f)[^64] a vezetékek számára a védőfalba csak olyan áttöréseket szabad készíteni, amelyek a védőfal hatását jelentős mértékben nem csökkentik.
+f)[^65] a vezetékek számára a védőfalba csak olyan áttöréseket szabad készíteni, amelyek a védőfal hatását jelentős mértékben nem csökkentik.
 
 (6) Annál az építménynél, amelynek „RV-besorolású” helyiségeiben olyan nagy mennyiségű lőpor heves égésének lehetőségével kell számolni, hogy a tűz hatása túlterjedhet a helyiség szerkezetein, a környező építmények védelme céljából – a tűztávolság megtartása mellett – az „RV-besorolású” helyiségek mellé, a védendő építmények irányába eső oldalaikon védősáncot vagy védőfalat kell kiépíteni a lángok veszélytelen irányba történő terelésére és a hősugárzás veszélyének elhárítására.
 
-[^63]: A 11. § (4) bekezdés i) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 14. pontja szerint módosított szöveg.
-[^64]: A 11. § (5) bekezdés f) pontja a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 9. pontja szerint módosított szöveg.
+[^64]: A 11. § (4) bekezdés i) pontja a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 14. pontja szerint módosított szöveg.
+[^65]: A 11. § (5) bekezdés f) pontja a 49/2013. (VIII. 9.) NFM rendelet 62. § (2) bekezdés 9. pontja szerint módosított szöveg.

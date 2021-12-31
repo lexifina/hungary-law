@@ -1,8 +1,8 @@
 ## Robbanóanyagok ellenőrző vizsgálata
 
-83. § (1)[^157] A nem megfelelő minőségű vagy a lejárt szavatossági idejű robbantóanyagot felhasználni nem szabad.
+83. § (1)[^158] A nem megfelelő minőségű vagy a lejárt szavatossági idejű robbantóanyagot felhasználni nem szabad.
 
-(2)[^158] A villamos gyutacs összellenállásának ellenőrzését a robbantásvezető által erre a célra kijelölt és berendezett helyen és az előírt műszerrel kell végezni.
+(2)[^159] A villamos gyutacs összellenállásának ellenőrzését a robbantásvezető által erre a célra kijelölt és berendezett helyen és az előírt műszerrel kell végezni.
 
 (3) Tárolóban, tárolókamrában, tárolótérben, raktárhelyiségben és ezek előterében gyutacsellenőrzést nem lehet végezni.
 
@@ -12,8 +12,8 @@
 
 (6) Ellenőrző vizsgálattal csak a robbantásvezető által kioktatott személyt lehet megbízni.
 
-(7)[^159] Az ellenőrzést végző személyek részére szolgálati utasítást kell kiadni, amelynek tartalmaznia kell az ellenőrző vizsgálat módját és rendjét, a gyutacsok névleges összellenállását, az ellenőrzött gyutacsok tárolásának nyilvántartásának rendjét.
+(7)[^160] Az ellenőrzést végző személyek részére szolgálati utasítást kell kiadni, amelynek tartalmaznia kell az ellenőrző vizsgálat módját és rendjét, a gyutacsok névleges összellenállását, az ellenőrzött gyutacsok tárolásának nyilvántartásának rendjét.
 
-[^157]: A 83. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 31. §-ával megállapított szöveg.
-[^158]: A 83. § (2) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 51. pontja szerint módosított szöveg.
-[^159]: A 83. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 52. pontja szerint módosított szöveg.
+[^158]: A 83. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 31. §-ával megállapított szöveg.
+[^159]: A 83. § (2) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 51. pontja szerint módosított szöveg.
+[^160]: A 83. § (7) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 52. pontja szerint módosított szöveg.

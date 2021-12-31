@@ -2,13 +2,13 @@
 
 ## Provokációs robbantás
 
-90. § (1)[^170] A provokációs robbantásnál a robbantólyukaknak a jövesztési fogásmélységnél legalább 0,5 m-rel hosszabbaknak kell lenniük. A robbantólyukakat a vágatkontúron úgy kell telepíteni, hogy számuk a kitörési szelvényre vonatkoztatva meddőkőzetben m2-enként legalább 1 db legyen.
+90. § (1)[^171] A provokációs robbantásnál a robbantólyukaknak a jövesztési fogásmélységnél legalább 0,5 m-rel hosszabbaknak kell lenniük. A robbantólyukakat a vágatkontúron úgy kell telepíteni, hogy számuk a kitörési szelvényre vonatkoztatva meddőkőzetben m2-enként legalább 1 db legyen.
 
 (2) Szénben robbantólyukat csak forgatva működő fúrógéppel lehet fúrni.
 
 (3) A robbantáshoz sújtólégbiztos robbanóanyagot kell használni. Az elsőként és az utolsóként robbanó töltet robbanási ideje közti különbség legfeljebb 300 ms lehet. A felhasználásra kerülő gyutacs összellenállását előzetesen ellenőrizni kell.
 
-(4)[^171] A robbantáshoz fel nem használt robbantólyukat a jövesztési fogásmélységnél legalább 0,5 m-rel hosszabban be kell tömni a robbantótöltetek elkészítése előtt.
+(4)[^172] A robbantáshoz fel nem használt robbantólyukat a jövesztési fogásmélységnél legalább 0,5 m-rel hosszabban be kell tömni a robbantótöltetek elkészítése előtt.
 
-[^170]: A 90. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 33. §-ával megállapított szöveg.
-[^171]: A 90. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 60. pontja szerint módosított szöveg.
+[^171]: A 90. § (1) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 33. §-ával megállapított szöveg.
+[^172]: A 90. § (4) bekezdése a 49/2013. (VIII. 9.) NFM rendelet 61. § (1) bekezdés 60. pontja szerint módosított szöveg.

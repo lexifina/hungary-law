@@ -34,6 +34,6 @@ b) ellenőrizni kell, hogy a rendszeres ellenőrzéseket az előírt időszakokb
 
 (5) Az időszakos biztonsági felülvizsgálatot csak a kijelölt intézet, a villamos felülvizsgálatokat csak olyan személyek végezhetik, akik az előírt szakképzettséggel rendelkeznek.
 
-(6)[^106]
+(6)[^107]
 
-[^106]: Az 52. § (6) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § b) pontja hatályon kívül helyezte.
+[^107]: Az 52. § (6) bekezdését a 12/2021. (III. 5.) ITM rendelet 15. § b) pontja hatályon kívül helyezte.
