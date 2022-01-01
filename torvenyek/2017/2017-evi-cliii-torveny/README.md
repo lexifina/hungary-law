@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-153-00-00
 | 2021-07-01 | 2021. évi LXIX. törvény | 2017-153-00-00.14 |
 | 2021-07-10 | 2021. évi LXIX. törvény | 2017-153-00-00.15 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2017-153-00-00.16 |
+| 2022-01-01 | 2021. évi CXXXIV. törvény | 2017-153-00-00.17 |
