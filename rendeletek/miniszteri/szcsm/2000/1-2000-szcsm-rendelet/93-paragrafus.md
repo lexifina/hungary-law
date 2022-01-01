@@ -14,6 +14,6 @@ d) az étkezésre,
 
 e) közösségi együttlétre, tevékenységre
 
-## alkalmas helyiségekkel.
+alkalmas helyiségekkel.
 
 (3) A lakóotthon esetében egy lakószobában kettő, kivételes esetben négy személy helyezhető el.

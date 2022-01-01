@@ -1,5 +1,3 @@
-## nyújtott szolgáltatás.
-
 23. § (1) A népkonyha alkalmi jelleggel és helyben fogyasztással legalább napi egyszeri egy tál meleg ételt biztosít azoknak a szociálisan rászorult személyeknek, akik más étkeztetési formát nem vesznek igénybe.
 
 (2) Népkonyhát elsősorban olyan településen (településrészen) indokolt létrehozni, ahol a rászorulók életformája miatt elsősorban alkalmi étkeztetés iránt van igény.

@@ -12,5 +12,7 @@ c) étkezésre jogosító utalvány ellenében, vendéglátóipari egységben va
 
 d)[^109] ha az étel előállításának helyén az étel helyben fogyasztására nincs lehetőség, a 21. § (1) bekezdés b) vagy c) pontja szerint
 
+nyújtott szolgáltatás.
+
 [^108]: A 22. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének j) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.
 [^109]: A 22. § (3) bekezdés d) pontját a 7/2018. (II. 5.) EMMI rendelet 6. §-a iktatta be.

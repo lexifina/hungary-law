@@ -1,3 +1,3 @@
-## Szocioterápiás foglalkozások szervezése[^257]
+## Szocioterápiás foglalkozások szervezése[^258]
 
-[^257]: Az 55. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 28. §-ával megállapított szöveg.
+[^258]: Az 55. §-t megelőző alcím a 2/2006. (IV. 14.) ICSSZEM rendelet 28. §-ával megállapított szöveg.

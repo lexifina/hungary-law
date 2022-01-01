@@ -18,7 +18,7 @@ f) gondozási egységenként legalább húsz négyzetméter alapterületű köz�
 
 g) a látogatók fogadására
 
-## szolgáló helyiséget.
+szolgáló helyiséget.
 
 (3) Amennyiben az ellátást igénybe vevő az intézmény által biztosított étkeztetést nem veszi igénybe, a vásárolt élelmiszer intézményen belüli elfogyasztásának kulturált feltételeit biztosítani kell.
 
@@ -27,3 +27,5 @@ g) a látogatók fogadására
 a) a lakószobában egy ellátottra legalább hat négyzetméternyi lakóterület,
 
 b) tíz ellátottra legalább egy fürdőkád vagy zuhanyzó, valamint nemenkénti illemhely
+
+jut és biztosított a folyamatos fűtés- és melegvíz-szolgáltatás.

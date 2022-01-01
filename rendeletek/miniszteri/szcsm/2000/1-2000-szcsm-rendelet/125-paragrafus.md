@@ -1,4 +1,4 @@
-## 125. §[^436] A veszélyhelyzet és az egészségügyi válsághelyzet időtartama
+## 125. §[^441] A veszélyhelyzet és az egészségügyi válsághelyzet időtartama
 
 a) a szociális diagnózist készítő esetmenedzseri képzésre a 30. § (10) bekezdésében,
 
@@ -10,4 +10,6 @@ d) a közösségi pszichiátriai ellátással kapcsolatos képzésre a 39/I. § 
 
 e) a szenvedélybetegek közösségi ellátása képzésre, a szenvedélybetegek alacsonyküszöbű ellátása képzésre a 39/N. § (1) bekezdésében
 
-[^436]: A 125. §-t az 1/2021. (I. 7.) EMMI rendelet 10. §-a iktatta be.
+meghatározott határidőbe nem számít bele.
+
+[^441]: A 125. §-t az 1/2021. (I. 7.) EMMI rendelet 10. §-a iktatta be.

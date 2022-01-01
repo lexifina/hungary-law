@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2021-01-10 | 2000-1-20-85.43 | 1/2021. (I. 7.) EMMI rendelet |
 | 2021-01-21 | 2000-1-20-85.44 | 39/2015. (VIII. 28.) EMMI rendelet |
 | 2021-09-18 | 2000-1-20-85.45 | 39/2015. (VIII. 28.) EMMI rendelet |
+| 2022-01-01 | 2000-1-20-85.46 | 62/2021. (XII. 29.) EMMI rendelet |

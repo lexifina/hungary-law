@@ -1,5 +1,3 @@
-## 18/A. §[^84]
-
 ## II. Fejezet
 
 ## ALAPSZOLGÁLTATÁSOK[^85]
@@ -20,7 +18,6 @@
 
 (6)[^91] A normatív hozzájárulás igénybevételének ellenőrzése érdekében a normatív hozzájárulást igénylő fenntartó, valamint a szociális szolgáltató, illetve intézmény a működést engedélyező szerv és a normatív állami hozzájárulást folyósító szerv rendelkezésére bocsátja az ellenőrzéshez szükséges adatokat és iratokat, egyben gondoskodik a normatív hozzájárulásból részesülő szolgáltatók, intézmények részéről szükséges adatok, iratok beszerzéséről.
 
-[^84]: A 18/A. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 10. §-a iktatta be, hatályon kívül helyezte a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja.
 [^85]: A II. Fejezet címe a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének h) pontjával megállapított szöveg.
 [^86]: A 19. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^87]: A 19. § (1) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének i) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 39. § (2)–(3) bekezdését.

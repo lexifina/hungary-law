@@ -1,3 +1,3 @@
-## 101/E. §[^320]
+101/F. §[^322]
 
-[^320]: A 101/E. §-t a 4/2004. (I. 28.) ESZCSM rendelet 24. §-a iktatta be, hatályon kívül helyezte a 35/2009. (XII. 30.) SZMM rendelet 23. § (3) bekezdés b) pont bh) alpontja.
+[^322]: A 101/F. §-t a 7/2008. (VI. 3.) SZMM rendelet 2. §-a iktatta be, az 1/2017. (II. 14.) EMMI rendelet 59. § k) pontja hatályon kívül helyezte.

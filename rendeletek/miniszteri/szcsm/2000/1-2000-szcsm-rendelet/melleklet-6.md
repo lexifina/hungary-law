@@ -4,6 +4,8 @@
 
 ## A megállapodásban rögzített havi személyi gondozás időtartama2:
 
+## 6K83080_0
+
 | Dátum | Az elvégzett résztevékenység megnevezése | Az elvégzett résztevékenységre fordított idő (óra/perctől óra/percig) | Az ellátott aláírása | Az elvégzett résztevékenység időtartama (perc)3 | A szociális gondozó/segítő aláírása |
 
 |  | Havi összes időtartam órában |  |  |  |  |
@@ -110,6 +112,8 @@
 
 ## Az ellátott neve:
 
+## 6K83080_1
+
 | Dátum | Az elvégzett résztevékenység megnevezése | Az elvégzett résztevékenységre fordított idő (óra/perctől óra/percig) | Az ellátott aláírása | A szociális gondozó/segítő aláírása |
 
 |  | Havi összes időtartam órában |  |  |  |
@@ -158,6 +162,6 @@
 
 ## Szükség esetén a bentlakásos szociális intézménybe történő beköltözés segítése
 
-6. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^441]
+6. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^448]
 
-[^441]: A 6. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § g) pontja hatályon kívül helyezte.
+[^448]: A 6. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § g) pontja hatályon kívül helyezte.

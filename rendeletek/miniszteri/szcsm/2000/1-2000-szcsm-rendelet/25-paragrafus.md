@@ -1,5 +1,3 @@
-## 24. §[^111]
-
 ## 3. CÍM
 
 ## HÁZI SEGÍTSÉGNYÚJTÁS[^112]
@@ -14,7 +12,7 @@ b) életkorának, élethelyzetének és egészségi állapotának megfelelően,
 
 c) meglévő képességeinek fenntartásával, felhasználásával, fejlesztésével
 
-## biztosított legyen.
+biztosított legyen.
 
 (3)[^115] Az Szt. 63. § (3) és (4) bekezdése szerinti, a központi költségvetésről szóló törvényben meghatározott támogatásra jogosító tevékenységeket és résztevékenységeket az 5. számú melléklet tartalmazza.
 
@@ -24,7 +22,6 @@ c) meglévő képességeinek fenntartásával, felhasználásával, fejlesztés�
 
 (4)[^118] A házigondozó a házi segítségnyújtás során együttműködik az egészségügyi és szociális alap- és szakellátást nyújtó intézményekkel.
 
-[^111]: A 24. §-t a 7/2018. (II. 5.) EMMI rendelet 19. § a) pontja hatályon kívül helyezte.
 [^112]: A 25. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^113]: A 25. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 29. § e) pontja szerint módosított szöveg.
 [^114]: A 25. § (2) bekezdés nyitó szövegrésze az 55/2015. (XI. 30.) EMMI rendelet 29. § f) pontja szerint módosított szöveg.

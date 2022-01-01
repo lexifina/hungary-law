@@ -1,4 +1,4 @@
-107/B. §[^363] (1) Az időszakos férőhelyszám-bővítés abban az esetben hajtható végre, ha a bővítés az időszakot megelőző férőhelyeket igénybe vevők ellátását nem zavarja.
+107/B. §[^366] (1) Az időszakos férőhelyszám-bővítés abban az esetben hajtható végre, ha a bővítés az időszakot megelőző férőhelyeket igénybe vevők ellátását nem zavarja.
 
 (2) A végrehajtott férőhelyszám-bővítés nem haladhatja meg az intézmény ideiglenes vagy állandó működési engedélyében szereplő férőhelyszám 30%-át.
 
@@ -12,4 +12,4 @@ c) folyamatosan biztosítja a fűtést, világítást és a meleg vízzel való 
 
 d) biztosítja az egészségügyi alapellátás megszervezését, szükség szerint a szakellátáshoz való hozzájutás segítését.
 
-[^363]: A 107/B. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be, szövege a 36/2018. (X. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^366]: A 107/B. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be, szövege a 36/2018. (X. 12.) EMMI rendelet 3. §-ával megállapított szöveg.

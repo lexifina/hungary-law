@@ -10,6 +10,6 @@ a) foglalkoztatását, és
 
 b) egyéb habilitációs, rehabilitációs jellegű ellátását.
 
-(2)[^273]
+(2)[^274]
 
-[^273]: A 63. § (2) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének p) pontja hatályon kívül helyezte.
+[^274]: A 63. § (2) bekezdését a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének p) pontja hatályon kívül helyezte.

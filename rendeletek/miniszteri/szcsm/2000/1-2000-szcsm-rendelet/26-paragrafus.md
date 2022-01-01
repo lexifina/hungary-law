@@ -1,5 +1,3 @@
-## szolgáltatási elemet biztosít.
-
 ## 26. §[^120] A házi segítségnyújtás intézményvezetőjének vagy a szakmai egységet irányító vezetőnek munkakörébe tartozó feladatok különösen
 
 a)[^121] a lakosság körében felmerülő alapszolgáltatási igények folyamatos figyelemmel kísérése,

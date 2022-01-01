@@ -24,7 +24,7 @@ h) támogatást igénylő életterületeinek felmérésére, a támogatás mért
 
 i) számára igénybe venni javasolt ellátások, szolgáltatások meghatározására
 
-## vonatkozó adatokat tartalmazza.
+vonatkozó adatokat tartalmazza.
 
 (3) A szociális diagnózist készítő esetmenedzser feladata a szociális diagnózis elkészítése során
 

@@ -1,5 +1,3 @@
-## 5/D. §[^40]
-
 ## Általános személyi feltételek
 
 6. § (1)[^41] Az ellátásban részesülő személyekkel közvetlenül foglalkozó, személyes gondoskodást végző személyek
@@ -92,13 +90,15 @@ o) az orvos munkakör megbízási vagy vállalkozási jogviszonyban is betölthe
 
 p) a három műszakos folyamatos ellátást biztosító intézményben – a drogbetegeket ellátó intézményt, a hajléktalanok átmeneti szállását és a lakóotthont kivéve – az ápolói, gondozói feladatok ellátásához minimálisan 5 fő alkalmazása szükséges az intézményvezetőn és a kisegítő személyzeten kívül.
 
-(5)[^46] A személyes gondoskodást nyújtó szociális intézményben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásait a 3. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás képesítési minimumelőírásait a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 2. számú melléklete tartalmazza. A munkakör betöltéséhez szükséges képesítési előírások alól – ide nem értve a vezető beosztású, megbízású vagy munkakörű, valamint a szakápolási központban szakápolást végző személyekett – a munkáltatói jogkör gyakorlója határozott időre, de legfeljebb öt évre, házi segítségnyújtás esetén két évre felmentést adhat, ha
+(5)[^46] A személyes gondoskodást nyújtó szociális intézményben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásait a 3. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás képesítési minimumelőírásait a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 2. számú melléklete tartalmazza. A munkakör betöltéséhez szükséges képesítési előírások alól – ide nem értve a vezető beosztású, megbízású vagy munkakörű, valamint a szakápolási központban szakápolást végző személyeket – a munkáltatói jogkör gyakorlója határozott időre, de legfeljebb öt évre, házi segítségnyújtás esetén három évre felmentést adhat, ha
 
 a) a munkakört betölteni kívánó személy a képesítés megszerzése érdekében már szakirányú oktatásban vesz részt,
 
 b) az adott munkakör betöltésére nem áll rendelkezésre a képesítési előírásoknak megfelelő személy, és a munkakört betölteni kívánó személy vállalja a szükséges szakirányú képesítés megszerzését, vagy
 
-c) családsegítés és gyermekjóléti szolgáltatás esetén a munkavállaló az előírt végzettséget a nyelvvizsga hiánya miatt nem szerezte még meg.
+c) családsegítés és gyermekjóléti szolgáltatás esetén a munkavállaló az előírt végzettséget a nyelvvizsga hiánya miatt nem szerezte még meg,
+
+azzal, hogy a felmentés időtartama nem hosszabbítható meg.
 
 (5a)[^47] A 3. számú melléklet alkalmazásában
 
@@ -166,13 +166,12 @@ cd) asszisztens.
 
 (14)[^60] A módszertani feladatokat felsőfokú végzettséggel rendelkező személy láthatja el.
 
-[^40]: Az 5/D. §-t a 25/2013. (III. 29.) EMMI rendelet 12. §-a iktatta be, hatályon kívül helyezte az 55/2015. (XI. 30.) EMMI rendelet 30. § b) pontja.
 [^41]: A 6. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^42]: A 6. § (2) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^43]: A 6. § (3) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
 [^44]: A 6. § (4) bekezdését a 19/2020. (VI. 2.) EMMI rendelet 3. §-a hatályon kívül helyezte.
 [^45]: A 6. § (4a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (1) bekezdése iktatta be.
-[^46]: A 6. § (5) bekezdése a 40/2016. (XII. 21.) EMMI rendelet 1. §-ával megállapított, a 7/2018. (II. 5.) EMMI rendelet 18. § a) pontja szerint módosított szöveg.
+[^46]: A 6. § (5) bekezdése a 62/2021. (XII. 29.) EMMI rendelet 7. §-ával megállapított szöveg.
 [^47]: A 6. § (5a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
 [^48]: A 6. § (5b) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.
 [^49]: A 6. § (5c) bekezdését a 4/2020. (II. 6.) EMMI rendelet 2. § (2) bekezdése iktatta be.

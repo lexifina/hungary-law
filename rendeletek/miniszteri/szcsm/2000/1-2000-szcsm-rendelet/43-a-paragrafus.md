@@ -1,8 +1,6 @@
-## és épülete korszerűen kialakított és berendezése teljes mértékben felszerelt (tv, hűtőszekrény, mosógép stb.).
+## Érdekképviseleti fórum[^220]
 
-## Érdekképviseleti fórum[^219]
-
-43/A. §[^220] (1) Az Szt. 99. §-a szerinti érdekképviseleti fórum a tartós bentlakásos intézménnyel intézményi jogviszonyban állók jogainak, érdekeinek érvényesülését elősegíteni hivatott szerv, mely a házirendben meghatározott feltételek és eljárás szerint működik. Az érdekképviseleti fórum megalakítását a székhelyen, illetve telephelyenként kell biztosítani.
+43/A. §[^221] (1) Az Szt. 99. §-a szerinti érdekképviseleti fórum a tartós bentlakásos intézménnyel intézményi jogviszonyban állók jogainak, érdekeinek érvényesülését elősegíteni hivatott szerv, mely a házirendben meghatározott feltételek és eljárás szerint működik. Az érdekképviseleti fórum megalakítását a székhelyen, illetve telephelyenként kell biztosítani.
 
 (2) Az érdekképviseleti fórum tagjai
 
@@ -30,5 +28,5 @@ d) intézkedés megtételét kezdeményezheti a fenntartó felé, valamint más,
 
 (4) Az érdekképviseleti fórum működésének és választásának részletes szabályait a házirend tartalmazza.
 
-[^219]: A 43/A. §-t megelőző alcímet az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
-[^220]: A 43/A. §-t az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
+[^220]: A 43/A. §-t megelőző alcímet az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.
+[^221]: A 43/A. §-t az 1/2017. (II. 14.) EMMI rendelet 41. §-a iktatta be.

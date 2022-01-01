@@ -1,3 +1,3 @@
-## 107/D. §[^365]
+107/E. §[^369]
 
-[^365]: A 107/D. §-t a 2/2006. (IV. 14.) ICSSZEM rendelet 37. §-a iktatta be, az 1/2017. (II. 14.) EMMI rendelet 59. § o) pontja hatályon kívül helyezte.
+[^369]: A 107/E. §-t megelőző alcímet és a 107/E. §-t a 37/2007. (XII. 22.) SZMM rendelet 11. §-a iktatta be, a 26/2010. (XII. 30.) NEFMI rendelet 11. § j) pontja hatályon kívül helyezte.
