@@ -1,6 +1,6 @@
-4. § (1)[^12] A kitüntetésben részesült személy pótlékát határozatlan időtartamra kell megállapítani úgy, hogy havi nyugellátása, rendszeres pénzbeli ellátása és a pótlék együttes összege a megállapításkor érje el a havi 218 195 Ft-ot, azonban a megállapított pótlék összege 500 Ft-nál kevesebb nem lehet. A 2. § (1) bekezdés db) pontja szerinti esetben a pótlék összege 218 195 Ft.
+4. § (1)[^12] A kitüntetésben részesült személy pótlékát határozatlan időtartamra kell megállapítani úgy, hogy havi nyugellátása, rendszeres pénzbeli ellátása és a pótlék együttes összege a megállapításkor érje el a havi 229 105 Ft-ot, azonban a megállapított pótlék összege 500 Ft-nál kevesebb nem lehet. A 2. § (1) bekezdés db) pontja szerinti esetben a pótlék összege 229 105 Ft.
 
-(2)[^13] 3. § (1) bekezdésében szabályozott esetben a pótlék az (1) bekezdés alapján kerül megállapításra azzal, hogy a pótlék összege a havi 109 100 Ft-ot nem haladhatja meg.
+(2)[^13] 3. § (1) bekezdésében szabályozott esetben a pótlék az (1) bekezdés alapján kerül megállapításra azzal, hogy a pótlék összege a havi 114 555 Ft-ot nem haladhatja meg.
 
 (3) A 3. § (2) bekezdésében szabályozott esetben a pótlék összege az elhunyt házastárs részére megállapított pótlék 50%-a.
 
@@ -16,8 +16,8 @@
 
 (9)[^17]
 
-[^12]: A 4. § (1) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított, az 567/2021. (X. 6.) korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^13]: A 4. § (2) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított, az 567/2021. (X. 6.) korm. rendelet 9. § d) pontja szerint módosított szöveg.
+[^12]: A 4. § (1) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 692/2021. (XII. 9.) Korm. rendeket 8. § c) pontja szerint módosított szöveg.
+[^13]: A 4. § (2) bekezdése a 305/2013. (VII. 31.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 692/2021. (XII. 9.) Korm. rendeket 8. § d) pontja szerint módosított szöveg.
 [^14]: A 4. § (5) bekezdése a 333/2011. (XII. 29.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^15]: A 4. § (7) bekezdését a 247/2000. (XII. 24.) Korm. rendelet 7. §-ának (3) bekezdése iktatta a szövegbe.
 [^16]: A 4. § (8) bekezdését a 316/2014. (XII. 12.) Korm. rendelet 5. § (1) bekezdése iktatta be.

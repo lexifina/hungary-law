@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-173-20-
 | 2021-01-01 | 1995-173-20-22.47 | 538/2020. (XII. 2.) Korm. rendelet |
 | 2021-05-19 | 1995-173-20-22.48 | 254/2021. (V. 18.) Korm. rendelet |
 | 2021-10-07 | 1995-173-20-22.49 | 567/2021. (X. 6.) korm. rendelet |
+| 2022-01-01 | 1995-173-20-22.50 | 305/2013. (VII. 31.) Korm. rendelet |
