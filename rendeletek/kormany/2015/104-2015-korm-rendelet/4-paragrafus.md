@@ -1,4 +1,4 @@
-## 3/A. §[^4] A Fórum titkára a miniszter tevékenységét segítő minisztérium tehetségekért felelős főosztályának vezetője.
+## 3/A. §[^4] A Fórum titkára a miniszter által vezetett minisztérium tehetségekért felelős főosztályának vezetője.
 
 4. § (1) A Támogatáskezelő a megállapodás keretei között
 
@@ -26,7 +26,7 @@ j) ellenőrzi és jóváhagyja a beérkezett rész-, illetve záró beszámolók
 
 (3)[^8]
 
-[^4]: A 3/A. §-t a 444/2020. (IX. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^4]: A 3/A. §-t a 444/2020. (IX. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 832/2021. (XII. 30.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^5]: A 4. § (1) bekezdés c) pontja a 237/2021. (V. 6.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^6]: A 4. § (1) bekezdés f) pontja a 237/2021. (V. 6.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^7]: A 4. § (1) bekezdés g) pontja a 272/2019. (XI. 20.) Korm. rendelet 6. §-ával megállapított szöveg.
