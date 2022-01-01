@@ -1,6 +1,6 @@
 ## jár, a hatóságtól örökségvédelmi engedélyt kell kérni.
 
-## 25.[^108] Örökségvédelmi bejelentéshez kötött tevékenységek
+## 25.[^119] Örökségvédelmi bejelentéshez kötött tevékenységek
 
 64. § (1) Ha a tevékenység a 63. § alapján nem örökségvédelmi engedély köteles, a (2) és (3) bekezdésben foglalt esetekben örökségvédelmi bejelentés alapján végezhető.
 
@@ -14,11 +14,13 @@ ab) az ilyen szerkezet eltakarásának kialakítása, a meghatározott időtarta
 
 b) műemlék egésze, önálló rendeltetési egysége, vagy a helyiségcsoportja rendeltetés-módosítása,
 
-c) műemléki környezetben a műemlék megjelenését befolyásoló módon új építmény építése, a műemlék felé eső vagy közterületről a műemlékkel együtt megjelenő
+c)[^120] műemléki környezetben
 
-ca) nem engedélyköteles új építmény elhelyezése vagy meglévő építmény bővítése, építmény homlokzatának megváltoztatásával járó felújítása vagy átalakítása, meglévő épület homlokzatának, tetőzetének megváltoztatásával járó felújítása vagy átalakítása,
+ca) a műemlék megjelenését befolyásoló módon új építmény építése,
 
-cb) építmény bontása,
+cb) a műemlék felé eső vagy közterületről a műemlékkel együtt megjelenő nem engedélyköteles új építmény elhelyezése vagy meglévő építmény bővítése, homlokzatának, tetőzetének megváltoztatásával járó felújítása vagy átalakítása,
+
+cc) építmény bontása,
 
 d) műemlék telkén, vagy műemléki környezetben a műemlék jellegét és megjelenését befolyásoló fényforrás elhelyezése, illetve üzemeltetése,
 
@@ -40,9 +42,9 @@ fb) a megjelenést és látványt befolyásoló sírjelek, síremlékek, sírép
 
 (3) A műemléki értéket közvetlenül nem érintő tevékenységek közül bejelentés alapján végezhető
 
-a) a műemlék telkén a védetté nyilvánításról szóló döntésben, illetve az értékmeghatározó szakértői dokumentációban nevesített műemléki értékeket nem érintő műtárgy építése, cseréje, eltávolítása, bontása,
+a)[^121] a műemlék telkén a védetté nyilvánításról szóló döntésben, illetve az értékmeghatározó szakértői dokumentációban nevesített műemléki értékeket nem érintő építmény építése, cseréje, eltávolítása, bontása,
 
-b) műemléki jelentőségű területen a műemlék megjelenését érintő és érvényesülését befolyásoló
+b)[^122] műemléki jelentőségű területen a védett műemléki érték megjelenését érintő és érvényesülését befolyásoló
 
 ba) nem engedélyköteles új építmény elhelyezése vagy meglévő építmény bővítése,
 
@@ -54,7 +56,10 @@ bd) meglévő építmény közterület felé eső homlokzatának 10%-nál nagyob
 
 c) műemlék történeti táj esetében a védett műemléki érték megjelenését érintő és érvényesülését befolyásoló, legalább 6 m2 felületű reklám külterületi elhelyezése.
 
-(4)[^109] Ha a (2) bekezdés a), b), e) és f) pontjában meghatározott tevékenység elvégzéséhez az értékleltár a nyilvántartásban nem áll rendelkezésre, a 92. § (2) bekezdés c) pontjában meghatározott előzetes tájékoztatást kötelező megkérni.
+(4)[^123] Ha a (2) bekezdés a), b), e) és f) pontjában meghatározott tevékenység elvégzéséhez az értékleltár a nyilvántartásban nem áll rendelkezésre, a 92. § (2) bekezdés c) pontjában meghatározott előzetes tájékoztatást kötelező megkérni.
 
-[^108]: A 25. alcím (64. §) a 677/2020. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.
-[^109]: A 64. § (4) bekezdése az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^119]: A 25. alcím (64. §) a 677/2020. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.
+[^120]: A 64. § (2) bekezdés c) pontja a 776/2021. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^121]: A 64. § (3) bekezdés a) pontja a 776/2021. (XII. 23.) Korm. rendelet 17. § 10. pontja szerint módosított szöveg.
+[^122]: A 64. § (3) bekezdés b) pont nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.
+[^123]: A 64. § (4) bekezdése az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés d) pontja szerint módosított szöveg.

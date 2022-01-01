@@ -12,6 +12,6 @@ d) Natura 2000 területen
 
 ## végzik.
 
-(3)[^70]
+(3)[^79]
 
-[^70]: A 49. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^79]: A 49. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés b) pontja hatályon kívül helyezte.

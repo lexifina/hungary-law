@@ -1,4 +1,4 @@
-## 97. §[^216]
+## 97. §[^239]
 
 ## 49. A kulturális javak védetté nyilvánítása
 
@@ -22,4 +22,4 @@ d) azon kulturális javak, amelyek jelentőségét egy meghatározott épített,
 
 e) a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény 33. § (1) bekezdése szerinti maradandó értékű iratok, irategyüttesek.
 
-[^216]: A 97. §-t a 677/2020. (XII. 28.) Korm. rendelet 84. § 29. pontja hatályon kívül helyezte.
+[^239]: A 97. §-t a 677/2020. (XII. 28.) Korm. rendelet 84. § 29. pontja hatályon kívül helyezte.

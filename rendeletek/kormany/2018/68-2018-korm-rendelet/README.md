@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-68-20-2
 | 2021-02-11 | 2018-68-20-22.15 | 677/2020. (XII. 28.) Korm. rendelet |
 | 2021-03-23 | 2018-68-20-22.16 | 62/2019. (III. 26.) Korm. rendelet |
 | 2021-07-16 | 2018-68-20-22.17 | 420/2021. (VII. 15.) Korm. rendelet |
+| 2022-01-01 | 2018-68-20-22.18 | 776/2021. (XII. 23.) Korm. rendelet |

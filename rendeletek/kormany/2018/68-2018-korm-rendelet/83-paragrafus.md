@@ -2,7 +2,7 @@
 
 83. § (1) Az örökségvédelmi hatástanulmányt
 
-a)[^182] a Kötv. 85/A. §-ában meghatározott esetekben a településfejlesztési terv vagy a településrendezési terv megalapozó vizsgálata keretében, települési örökségvédelmi hatástanulmányként (a továbbiakban: települési örökségvédelmi hatástanulmány) a 14. melléklet szerinti tartalommal a (2) bekezdés a)–c) pontja alapján,
+a)[^204] a Kötv. 85/A. §-ában meghatározott esetekben a településfejlesztési terv vagy a településrendezési terv megalapozó vizsgálata keretében, települési örökségvédelmi hatástanulmányként (a továbbiakban: települési örökségvédelmi hatástanulmány) a 14. melléklet szerinti tartalommal a (2) bekezdés a)–c) pontja alapján,
 
 b) a 87. § (4) bekezdésében meghatározott esetekben az engedély iránti kérelmet benyújtónak döntéselőkészítő örökségvédelmi hatástanulmányként a 15. melléklet szerinti tartalommal a (2) bekezdés d) pontja alapján
 
@@ -10,9 +10,9 @@ kell elkészíttetni.
 
 (2) Az örökségvédelmi hatástanulmány kidolgozása során
 
-a)[^183] a településfejlesztési tervhez a 14. melléklet 1. pont 1.1. és 1.3. alpontja szerinti tartalmat teljeskörűen,
+a)[^205] a településfejlesztési tervhez a 14. melléklet 1. pont 1.1. és 1.3. alpontja szerinti tartalmat teljeskörűen,
 
-b)[^184] a helyi építési szabályzat kidolgozásához – ha az nem áll rendelkezésre –, a 14. melléklet 1. pont 1.1–1.3. alpontjában meghatározott vizsgálatot, továbbá 1. pont 1.4. alpontjában meghatározott értékleltárt, valamint 2. pontja szerinti hatáselemzést a településrendezési terv meghatározásához szükséges részletezettséggel;
+b)[^206] a helyi építési szabályzat kidolgozásához – ha az nem áll rendelkezésre –, a 14. melléklet 1. pont 1.1–1.3. alpontjában meghatározott vizsgálatot, továbbá 1. pont 1.4. alpontjában meghatározott értékleltárt, valamint 2. pontja szerinti hatáselemzést a településrendezési terv meghatározásához szükséges részletezettséggel;
 
 c) településképi rendelet helyi védelmi előírásainak meghatározásához a 14. melléklet 1. pont 1.4. alpontjában meghatározott értékleltárt teljeskörűen;
 
@@ -28,6 +28,6 @@ db) műemléki érték felmérése esetén a 15. melléklet 1–3. pontja alatti
 
 (4) Az örökségvédelmi hatástanulmány műemléki szakterületi munkarésze a 14. és 15. mellékletben meghatározott tartalmi elemek közül a műemlékvédelem tárgykörével foglalkozó tartalmi elemek összessége.
 
-[^182]: A 83. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 98. § c) pontja szerint módosított szöveg.
-[^183]: A 83. § (2) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 98. § d) pontja szerint módosított szöveg.
-[^184]: A 83. § (2) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 98. § e) pontja szerint módosított szöveg.
+[^204]: A 83. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 98. § c) pontja szerint módosított szöveg.
+[^205]: A 83. § (2) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 98. § d) pontja szerint módosított szöveg.
+[^206]: A 83. § (2) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 98. § e) pontja szerint módosított szöveg.

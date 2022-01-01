@@ -1,4 +1,4 @@
-3. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^238]
+3. melléklet a 68/2018. (IV. 9.) Korm. rendelethez[^262]
 
 ## Az örökségvédelmi engedély iránti kérelem, az örökségvédelmi bejelentés, a műemlékké vagy műemléki területté nyilvánítási vagy törlési eljárás dokumentumainak felépítése, kötelező adattartalma
 
@@ -272,7 +272,11 @@ Az elvégzett vizsgálatok, kivitelezés közbeni megfigyelések eredményeit, a
 
 5. TERVDOKUMENTÁCIÓ
 
-A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén az örökségvédelmi engedély iránti kérelemnek és mellékleteinek a műemlék egészére vagy a tervezett tevékenységgel érintett részére vonatkozóan – a tevékenység vagy a műemlék nagyságától és a jellegétől függően, megfelelő részletezettséggel – a következőket kell tartalmaznia.
+A műszaki leírás alfabetikusan kereshető szöveges dokumentum, amelyben szükség szerint ábrák is szerepelhetnek. Az ábrák esetében törekedni kell a vektorgrafikus ábrák alkalmazására, ha elkerülhetetlen, úgy a maximum 150 (szöveget vagy vékony vonalas részeket tartalmazó ábrák esetén 300) DPI felbontású pixeles ábrák is elfogadhatóak. A műszaki leírás fejezetekre bontva, több fájldokumentumban is benyújtható. Formátuma PDF/A, nyomtatási mérete A4 (szükség esetén egyes oldalak lehetnek A3-as méretűek). A műszaki leírásnak szürkeárnyalatosan nyomtatva is értelmezhetőnek kell maradnia. Ismerteti a műemlékre vonatkozó, a tervlapok tartalmát kiegészítő információkat.
+
+A tervlapok formátuma PDF/A. A tervlap összeállításánál törekedni kell arra, hogy a tervlap vagy annak egységnyi területe szükség esetén arányosan, értelmezhető módon A3 méretben szürkeárnyalatosan nyomtatható legyen. Az önálló tervlapokat önálló fájldokumentumonként kell benyújtani vektorgrafikus vagy 300 DPI felbontású pixeles formátumban.
+
+A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén az örökségvédelmi engedély iránti kérelemnek és mellékleteinek a műemlék egészére vagy a tervezett tevékenységgel érintett részére vonatkozóan – a tevékenység vagy a műemlék nagyságától és a jellegétől függően, megfelelő részletezettséggel – a következőket kell tartalmaznia.[^263]
 
 5.1. A bejelentés vagy a kérelem tartalma:
 
@@ -438,4 +442,5 @@ A bejelentéshez kötött tevékenység bejelentésének vagy műemlék esetén 
 
 7.2.3. a további fenntartást biztosító kezelésre és megőrzésre vonatkozó javaslatok.
 
-[^238]: A 2. melléklet a 677/2020. (XII. 28.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^262]: A 2. melléklet a 677/2020. (XII. 28.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^263]: A 3. melléklet 5. pont nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.

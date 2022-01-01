@@ -14,7 +14,7 @@ d) a Kötv.-ben és az e rendeletben meghatározott feladatok tekintetében a ku
 
 (2) A fővárosi és megyei kormányhivatal örökségvédelemmel kapcsolatos feladatköreinek gyakorlásával összefüggésben szakmai irányító miniszterként a miniszter gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket, továbbá eljár az Ákr. szerinti felügyeleti szervként.
 
-(3)[^14] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv, kormányrendeletben meghatározott feladatok vonatkozásában a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság.
+(3)[^14] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv, kormányrendeletben meghatározott feladatok vonatkozásában a Magyar Nemzeti Múzeum.
 
 (4)[^15] A magyar államot megillető elővásárlási jog gyakorlására a Kötv. 86. § (3) bekezdésében és 87. § (3) bekezdésében meghatározott örökségvédelmi szerv
 
@@ -46,7 +46,7 @@ g) a 71. § (2) bekezdés b) pont bc) alpontja szerint megkeresés alapján szak
 
 [^12]: A 3. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^13]: A 3. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 194. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^14]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 83. § 4. pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdése a 62/2019. (III. 26.) Korm. rendelet 1. §-ával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 83. § 4. pontja, a 776/2021. (XII. 23.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 83. § 5. pontja szerint módosított szöveg.
 [^16]: A 3. § (4) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 6. pontja szerint módosított szöveg.
 [^17]: A 3. § (6) bekezdését a 190/2018. (X. 12.) Korm. rendelet 2. §-a iktatta be, szövege a 42/2020. (III. 12.) Korm. rendelet 2. § b) pontja, a 677/2020. (XII. 28.) Korm. rendelet 83. § 7. pontja, az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
 ## 6. A műemléki érték nyilvántartása
 
-8. §[^34] (1) A műemlékek központi, közhiteles nyilvántartásba való felvételét, adatainak módosítását vagy a nyilvántartásból való törlését (a továbbiakban együtt: műemléki nyilvántartás) a nyilvántartást vezető hatóság végzi.
+8. §[^35] (1) A műemlékek központi, közhiteles nyilvántartásba való felvételét, adatainak módosítását vagy a nyilvántartásból való törlését (a továbbiakban együtt: műemléki nyilvántartás) a nyilvántartást vezető hatóság végzi.
 
-(2) A műemléki érték védetté nyilvánítására vonatkozó eljárás hivatalból vagy a 3. melléklet 1. pontjában és 2. pont 2.6. alpontjában meghatározott adattartalom benyújtásával kezdeményezésre indul. A kezdeményezést papír alapon, vagy elektronikus úton a Lechner Tudásközpont által üzemeltetett felületre kell megküldeni.
+(2)[^36] A műemléki érték védetté nyilvánítására vonatkozó eljárás hivatalból vagy a 3. melléklet 1. pontjában és 2. pont 2.6. alpontjában meghatározott adattartalom benyújtásával kezdeményezésre indul. A kezdeményezést papír alapon, vagy elektronikus úton kell megküldeni.
 
 (3) A műemléki érték védetté nyilvánítása ügyében – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 10. § (2) bekezdésére figyelemmel – kezdeményezőnek (ügyfélnek) minősül a kezdeményezéssel érintett ingatlan ingatlan-nyilvántartásba bejegyezett tulajdonosa, tulajdonosi joggyakorlója, vagyonkezelője, haszonélvezője, társasház esetén tulajdonosi közössége.
 
@@ -10,4 +10,5 @@
 
 (5) Műemlék nyilvántartásba vétele csak értékmeghatározó szakértői dokumentáció elkészítését követően történhet.
 
-[^34]: A 8. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^35]: A 8. § a 677/2020. (XII. 28.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^36]: A 8. § (2) bekezdése a 776/2021. (XII. 23.) Korm. rendelet 18. §-a szerint módosított szöveg.
