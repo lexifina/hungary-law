@@ -1,3 +1,1 @@
-## 2. §[^2]
-
-[^2]: A 2. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 2. § A Kvtv. 5. § (2) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az állami vagyonról szóló 2007. évi CVI. törvény 39. § (1) bekezdésében meghatározott egyedi könyv szerinti bruttó érték a 2022. évben 5000,0 millió forint lehet.

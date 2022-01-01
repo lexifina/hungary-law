@@ -1,3 +1,5 @@
-## 5. §[^5]
+## 6. § A Kvtv. 68. § (4) bekezdésétől eltérően a 2022. évben a szakképzésről szóló 2019. évi LXXX. törvény szerinti szakirányú oktatás valamint duális képzés és gyakorlatigényes alapképzési szak esetében a kötelezettség-csökkentő tétel kiszámításához tartozó
 
-[^5]: Az 5. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+a) önköltség összege 1 200 000 forint/fő/év,
+
+b) alapnormatíva összege 650 000 forint/fő/év.

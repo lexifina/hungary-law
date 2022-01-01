@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 1. § A veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.), az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), a mozgóképről szóló 2004. évi II. törvény, az állami vagyonról szóló 2007. évi CVI. törvény, a szociális hozzájárulási adóról szóló 2018. évi LII. törvény rendelkezéseit az e rendeletben meghatározott eltérésekkel kell alkalmazni.
