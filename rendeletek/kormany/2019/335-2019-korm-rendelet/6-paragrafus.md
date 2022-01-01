@@ -6,7 +6,7 @@ b) a világörökségi gondnokság Vötv. 5. § e) pontja alapján történő ki
 
 c) a Vötv. 1. mellékletének új világörökségi területtel való kiegészítése kezdeményezéséről és
 
-d)[^2] az új világörökségi terület Vötv. 4. § (2) bekezdés m) pontja szerinti nyilvántartásba való felvételéről.
+d)[^8] az új világörökségi terület Vötv. 4. § (2) bekezdés m) pontja szerinti nyilvántartásba való felvételéről.
 
 (2) Ha a Világörökség Bizottság a felterjesztési dokumentációt átdolgozásra visszaadja, a
 
@@ -20,4 +20,4 @@ hozott, a Világörökség Jegyzékbe csak az (5) bekezdés szerinti kivételes 
 
 (5) Kivételes körülménynek minősül az új felfedezés, a helyszínnel kapcsolatos új tudományos információ vagy az eredeti felterjesztésben nem szereplő kritérium.
 
-[^2]: A 6. § (1) bekezdés d) pontja a 793/2021. (XII. 27.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés d) pontja a 793/2021. (XII. 27.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.

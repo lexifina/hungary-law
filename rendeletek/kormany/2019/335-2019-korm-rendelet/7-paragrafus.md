@@ -6,4 +6,6 @@
 
 (3) Ha a világörökségi várományos helyszín kiemelkedő értéke kizárólag természeti érték, és a Világörökségi Várományos Helyszínek Jegyzékében szereplő helyszín védett természeti terület, a kezelési terv elkészítése során a Vötv. 8. § (3) és (3a) bekezdésében foglaltaknak megfelelően kell eljárni. Az elkészült természetvédelmi kezelési tervet – 30 napos véleményezési határidővel – a természetvédelemért felelős miniszter véleményezésre megküldi a miniszternek.
 
-(4) Határon átnyúló világörökségi várományos helyszín esetén a kezelési tervet a Szakbizottság közreműködésével a határon átnyúló helyszínnel érintett Részes Állammal közösen kell elkészíteni.
+(4)[^10] Határon átnyúló világörökségi várományos helyszín esetén a kezelési tervet a Tanács közreműködésével a határon átnyúló helyszínnel érintett Részes Állammal közösen kell elkészíteni.
+
+[^10]: A 7. § (4) bekezdése a 793/2021. (XII. 27.) Korm. rendelet 10. § 9. pontja szerint módosított szöveg.

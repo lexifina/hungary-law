@@ -6,7 +6,7 @@ a) rendelkezik legalább 5 év szakmai gyakorlattal és
 
 b) az adott világörökségi helyszín kiemelkedő egyetemes értékének megőrzése szempontjából megfelelő szakképzettséggel.
 
-(3)[^3] A (2) bekezdés b) pontja szerinti szakképzettségnek minősül:
+(3)[^11] A (2) bekezdés b) pontja szerinti szakképzettségnek minősül:
 
 1. okleveles építészmérnök,
 
@@ -58,9 +58,9 @@ e) az illetékes állami főépítészt,
 
 f) a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaságot,
 
-g)[^4] az illetékes Világörökségi Tervtanácsot,
+g)[^12] az illetékes Világörökségi Tervtanácsot,
 
-h) a Szakbizottságot,
+h)[^13] a Tanácsot,
 
 i) a helyszín világörökségi gondnokságát, valamint
 
@@ -72,5 +72,6 @@ j) régészeti érintettség esetén a területileg illetékes megyei hatókör�
 
 (9) A kezelési terv elbírálásában nem vehet részt olyan személy vagy szervezet, amely annak elkészítésében részt vett. Az összeférhetetlenség elbírálására a közbeszerzésekről szóló törvény rendelkezései irányadók.
 
-[^3]: A 8. § (3) bekezdése a 793/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^4]: A 8. § (6) bekezdés g) pontja a 793/2021. (XII. 27.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^11]: A 8. § (3) bekezdése a 793/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 8. § (6) bekezdés g) pontja a 793/2021. (XII. 27.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^13]: A 8. § (6) bekezdés h) pontja a 793/2021. (XII. 27.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-8. melléklet a 335/2019. (XII. 23.) Korm. rendelethez[^22]
+8. melléklet a 335/2019. (XII. 23.) Korm. rendelethez[^32]
 
 ## A hatásvizsgálati dokumentáció tartalmi követelményei
 
@@ -20,4 +20,4 @@
 
 9. Mellékletek.
 
-[^22]: A 8. mellékletet a 793/2021. (XII. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^32]: A 8. mellékletet a 793/2021. (XII. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be.
