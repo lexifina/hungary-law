@@ -12,7 +12,7 @@
 
 | 4 | nomadikus telefonszolgáltatás szám (SHS=21) | 66 |
 
-| 5 | Internet-hozzáférési szolgáltatás szám (SHS=51) | 30 |
+| 5 |  |  |
 
 | 6 | díjmentes szolgáltatás szám (SHS=80) | 180 |
 
@@ -82,4 +82,4 @@
 
 | 39 | nemzeti összekötő jelzéshálózati jelzéspont kód (NISPC) | 66 000 |
 
-[^8]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a és 19. § (3) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a, a 14/2020. (XII. 15.) NMHH rendelet 31. § (1) bekezdés c) pontja, a 6/2021. (VII. 8.) NMHH rendelet 4. § 2. pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a és 19. § (3) bekezdése, a 10/2017. (IX. 14.) NMHH rendelet 14. §-a, a 14/2020. (XII. 15.) NMHH rendelet 31. § (1) bekezdés c) pontja és 31. § (2) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 4. § 2. pontja szerint módosított szöveg.

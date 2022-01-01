@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-3H
 | 2018-01-01 | 2012-5-20-3H.8 | 10/2017. (IX. 14.) NMHH rendelet |
 | 2020-12-21 | 2012-5-20-3H.9 | 17/2013. (X. 14.) NMHH rendelet |
 | 2021-07-13 | 2012-5-20-3H.10 | 6/2021. (VII. 8.) NMHH rendelet |
+| 2022-01-01 | 2012-5-20-3H.11 | 17/2013. (X. 14.) NMHH rendelet |
