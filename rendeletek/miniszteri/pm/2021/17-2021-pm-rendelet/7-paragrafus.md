@@ -1,0 +1,1 @@
+## 6. § A Katonai Nemzetbiztonsági Szolgálat a KKVTR rendszerhez a honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló kormányrendelet alapján speciális módon csatlakozik, és a Kincstár által meghatározott eltérő módon és adattartalommal teljesíti adatszolgáltatási kötelezettségét.

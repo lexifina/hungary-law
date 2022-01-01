@@ -1,0 +1,1 @@
+## 5. § A polgári nemzetbiztonsági szolgálatok a KKVTR rendszerhez a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló kormányrendelet alapján speciális módon csatlakoznak, és a Kincstár által meghatározott eltérő módon és adattartalommal teljesítik adatszolgáltatási kötelezettségüket.
