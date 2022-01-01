@@ -1,4 +1,4 @@
-1. melléklet a 44/2020. (XI. 20.) MNB rendelethez
+1. melléklet a 44/2020. (XI. 20.) MNB rendelethez[^10]
 
 A biztosítási piaci szervezetek felügyeleti jelentéseire vonatkozó általános kitöltési előírások
 
@@ -48,6 +48,10 @@ A biztosítási piaci szervezetek felügyeleti jelentéseire vonatkozó általá
 
 1.22. (EU)2015/2450 bizottsági végrehajtási rendelet.
 
+1.23. (EU) 2019/1238 európai parlamenti és tanácsi rendelet,
+
+1.24. (EU) 2021/897 bizottsági végrehajtási rendelet.”
+
 2. Fogalmak, rövidítések
 
 2.1. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
@@ -66,7 +70,7 @@ A biztosítási piaci szervezetek felügyeleti jelentéseire vonatkozó általá
 
 3. A felügyeleti jelentés formai követelményei
 
-3.1. Az (EU)2015/35 felhatalmazáson alapuló bizottsági rendelet, illetve az (EU)2015/2450 bizottsági végrehajtási rendelet szerinti adatszolgáltatások esetén a számadatokat tartalmazó részeket xbrl formátumban, a szöveges információkat pdf formátumban kell megküldeni az MNB részére.
+3.1. Az (EU) 2015/35 felhatalmazáson alapuló bizottsági rendelet, az (EU) 2015/2450 bizottsági végrehajtási rendelet és az (EU) 2021/897 bizottsági végrehajtási rendelet szerinti adatszolgáltatások, valamint a PEPP szöveges jelentés esetén a számadatokat tartalmazó részeket xbrl formátumban, a szöveges információkat pdf formátumban kell megküldeni az MNB részére.
 
 3.2. A felügyeleti jelentéssel egyidejűleg, elektronikus úton, pdf formátumban, kötelezően beküldendő file-okat az alábbi általános formai előírások figyelembevételével kell csatolni:
 
@@ -119,3 +123,17 @@ A táblák szöveges mezőibe történő adatbevitelkor vessző karakter nem has
 4.4. A felügyeleti jelentés egyes tábláiban használt eszközalap azonosító kód egy, az adatszolgáltató által kialakított, az egyes eszközalapokat azonosító hatjegyű kód. Ugyanazt az eszközalapot mindig azonos kódszámmal kell jelölni, új eszközalapba történő befektetéskor a biztosítónak új azonosító kódot kell alkalmaznia. Megszűnt eszközalap kódja ismételten nem használható fel.
 
 A hatjegyű kódot az adatszolgáltatónak úgy kell megképeznie, hogy annak első 2 karaktere egyértelműen utaljon a biztosító nevére, amit közvetlenül követ egy négy számjegyből álló kombináció. Amennyiben több biztosító nevének azonos a két kezdőbetűje, úgy javasolt az első kezdőbetűt követően egy jellegzetes további betű alkalmazása.
+
+A nem unit-linked tartalékok mögötti eszközöket tartalmazó portfóliókat az alábbi besorolás szerint kell feltüntetni:
+
+- saját eszközöket tartalmazó portfólió: a biztosítót jelölő első két karakter + 9991, saját eszköz alatt a nem a biztosítási szerződésekből eredő kötelezettségekhez tartozó eszközfedezet (számviteli biztosítástechnikai tartalék eszközfedezetéhez nem sorolható eszközök) kell érteni;
+
+- hagyományos életbiztosítások számviteli biztosítástechnikai tartaléka mögötti eszközöket tartalmazó portfólió: a biztosítót jelölő első két karakter + 9992;
+
+- nem-életbiztosítások számviteli biztosítástechnikai tartaléka mögötti eszközöket tartalmazó portfólió: a biztosítót jelölő első két karakter + 9993.
+
+Az így megképzett kódot egységesen kell alkalmazni a 42Y9F, a 42Q9F, a 42Q25, a 42BP és a 42N9G1 táblák esetében.
+
+A biztosító kötelezettsége az egyedi portfólió azonosítókat tartalmazó lista letétkezelők és vagyonkezelők felé való továbbítása.
+
+[^10]: Az 1. melléklet az 58/2021. (XI. 24.) MNB rendelet 4. § (1) bekezdése szerint módosított szöveg.

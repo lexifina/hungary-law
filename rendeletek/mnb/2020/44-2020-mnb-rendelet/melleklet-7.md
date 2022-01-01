@@ -1,4 +1,4 @@
-7. melléklet a 44/2020. (XI. 20.) MNB rendelethez[^6]
+7. melléklet a 44/2020. (XI. 20.) MNB rendelethez[^13]
 
 A kisbiztosítónak nem minősülő biztosító felügyeleti jelentése kitöltésére vonatkozó részletes előírások
 
@@ -1480,4 +1480,4 @@ Az eszközök állományát piaci értéken kell szerepeltetni. Portfolió alatt
 
 9. oszlop A befektetési állomány változásának idővel súlyozott összege (nettó) (ezer Ft)
 
-[^6]: A 7. melléklet az 58/2021. (XI. 24.) MNB rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^13]: A 7. melléklet az 58/2021. (XI. 24.) MNB rendelet 4. § (2) bekezdésével megállapított szöveg.
