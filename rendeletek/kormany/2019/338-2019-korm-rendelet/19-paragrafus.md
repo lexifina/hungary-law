@@ -1,3 +1,3 @@
-## 18. §[^4]
+## 18. §[^5] Az Egyetem rektora a különleges jogállású szervek által közszolgálati jogviszonyban foglalkoztatottak képzéséről, továbbképzéséről szóló rendeletről, valamint a kormányzati igazgatási szervek kormánytisztviselőinek kötelező képzéséről, továbbképzéséről, valamint egyes továbbképzési tárgyú kormányrendeletek módosításáról szóló 499/2021. (VIII. 18.) Korm. rendelet hatálybalépését követően 2022. február 15-ig tesz javaslatot az ágazati irányításért felelős miniszternek a KTK tagjai felkérésére.
 
-[^4]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette
+[^5]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 499/2021. (VIII. 18.) Korm. rendelet 20. §-a iktatta be.
