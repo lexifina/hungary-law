@@ -154,4 +154,4 @@ a) a felfüggesztés visszavonása esetén és
 
 b) az értesítési eljárás vonatkozásában a Felügyelet által alkalmazott, az (1) bekezdés u) pontja szerinti szankciókra vonatkozó határozatok esetén.
 
-(12) E § rendelkezéseit alkalmazni kell a befektetési holding társaságra, a vegyes pénzügyi holding társaságra, a vegyes tevékenységű holding társaságra, valamint ezek vezető állású személyére.
+(12) E § rendelkezéseit alkalmazni kell a befektetési holding társaságra, a vegyes pénzügyi holding társaságra, a vegyes tevékenységű holding társaságra, az adatszolgáltatókra, valamint ezek vezető állású személyére.

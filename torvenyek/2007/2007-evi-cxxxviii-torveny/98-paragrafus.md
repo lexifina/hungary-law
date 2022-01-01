@@ -19,3 +19,5 @@ a) a könyvvizsgáló jogosult a Felügyelettel konzultálni és a Felügyeletet
 b) a Felügyelet jogosult a könyvvizsgálótól a vizsgálata megállapításairól közvetlenül tájékoztatást kérni.
 
 (4) A könyvvizsgálót – jóhiszeműsége esetén – nem terheli felelősség az (1) és (2) bekezdésben meghatározott bejelentése esetén akkor sem, ha az utóbb megalapozatlannak bizonyul.
+
+(5) Ha adatszolgáltatási tevékenységet végző részére könyvvizsgáló jogszabályi kötelezettség alapján előírt feladatot lát el, e § alkalmazandó azzal, hogy ahol a rendelkezés befektetési vállalkozást említ, ott adatszolgáltatási tevékenységet végzőt kell érteni.

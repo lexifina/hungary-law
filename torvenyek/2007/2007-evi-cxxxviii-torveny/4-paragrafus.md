@@ -18,13 +18,13 @@ d) végrehajtott tranzakciók kereskedést követő feldolgozására
 
 használnak,
 
-1a.
+1a. adatszolgáltató: a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés 36a. pontjában meghatározott fogalom,
 
 1b. anyavállalat: az Szmt.-ben meghatározott vállalkozás,
 
-1c. APA: jóváhagyott közzétételi mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében közzéteszi – a 600/2014/EU rendelet 20. és 21. cikke alapján – a kereskedési jelentéseket,
+1c.
 
-1d. ARM: jóváhagyott jelentési mechanizmus, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely a befektetési vállalkozások nevében bejelenti az ügyletek adatait a Felügyeletnek vagy az Európai Értékpapír-piaci Hatóságnak,
+1d.
 
 2. ÁÉKBV: a Kbftv.-ben meghatározott fogalom,
 
@@ -78,7 +78,7 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 11b. C6. származtatott energiaügylet: a 6. § f) pontjában említett olyan opció, határidős ügylet, swapügylet és bármely más származtatott ügylet, amely szénre vagy olajra vonatkozik, amellyel OTF-en kereskednek, és amelyeket természetben kell kiegyenlíteni,
 
-11c. CTP: összesítettadat-szolgáltató, azaz olyan szolgáltatás nyújtására engedéllyel rendelkező személy, aki vagy amely összegyűjti a szabályozott piacokról, az MTF-ektől, az OTF-ektől és az APA-któl (jóváhagyott közzétételi mechanizmusok) a 600/2014/EU rendelet 6., 7., 10., 12., 13., 20. és 21. cikkében felsorolt pénzügyi eszközökről szóló kereskedési jelentéseket, és azokat olyan, folyamatos és élő elektronikus adatfolyamba vonja össze, amely pénzügyi eszközönként árfolyam- és volumenadatokat biztosít,
+11c.
 
 12. csereügylet (swap): valamely pénzügyi eszköz cseréjére vonatkozó olyan összetett megállapodás, amely általában egy azonnali és egy határidős adásvételi ügyletből, illetve több határidős ügyletből tevődik össze és általában jövőbeni pénzáramlások cseréjét vonja maga után,
 
@@ -308,7 +308,7 @@ bc) cégbírósági nyilvántartásban szereplő jogi személy esetén cégjegyz
 
 69. ügyfélszámla: a Tpt.-ben meghatározott fogalom,
 
-69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatási tevékenységet végzővel munkaviszonyban álló, a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző irányításában részt vevő olyan további személy, akit a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
+69a. ügyvezető: a befektetési vállalkozással és az adatszolgáltatóval munkaviszonyban álló, a befektetési vállalkozás, adatszolgáltató vezetésére kinevezett első számú vezető, valamint a befektetési vállalkozás, adatszolgáltató irányításában részt vevő olyan további személy, akit a befektetési vállalkozás, adatszolgáltató létesítő okirata vagy a működésre vonatkozó bármely belső szabályzat ilyenként határoz meg,
 
 70. üzleti titok: az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdésében meghatározott fogalom,
 
@@ -386,7 +386,7 @@ d) amely fölött a létesítő okirat, megállapodás alapján egy személy dö
 
 98. felügyeleti jogkörrel rendelkező vezető testület: az alapító okiratban vagy alapszabályban meghatározott olyan vezető testület, amely az irányítási jogkörrel rendelkező vezető testület döntéshozatalát ellenőrzi,
 
-99. vezető testület: a befektetési vállalkozás és az adatszolgáltatási tevékenységet végző igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás és adatszolgáltatási tevékenységet végző vezető állású személyeit is,
+99. vezető testület: a befektetési vállalkozás, adatszolgáltató igazgatósága és felügyelőbizottsága, valamint annak vezetői és tagjai, ideértve a fióktelep formájában működő befektetési vállalkozás, adatszolgáltató vezető állású személyeit is,
 
 100. közérdeklődésre számot tartó befektetési vállalkozás: az e törvény hatálya alá tartozó befektetési vállalkozás, ide nem értve a 3. §-ban meghatározottakat,
 

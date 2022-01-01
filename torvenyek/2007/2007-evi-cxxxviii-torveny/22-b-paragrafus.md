@@ -4,27 +4,17 @@ a) a szakirányú felsőfokú iskolai végzettség, vagy
 
 b) a középiskolai végzettség és
 
-ba) a szakképesített bankreferensi szakképesítés,
+ba) a banki, befektetési termékértékesítői szakképesítés,
 
-bb) a banki, befektetési termékértékesítői szakképesítés,
+bb) a pénzügyi szervezeti mérlegképes könyvelői szakképesítés,
 
-bc) a befektetési tanácsadói szakképesítés,
+bc) a tőzsdei szakvizsga,
 
-bd) a banki szakügyintézői szakképesítés,
+bd) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevél,
 
-be) a pénzügyi szakügyintézői szakképesítés,
+be) a ba)–bd) alpontban foglaltakkal egyenértékű szakképesítés, vagy
 
-bf) az értékpapír-piaci szakügyintézői szakképesítés,
-
-bg) a pénzügyi szervezeti mérlegképes könyvelői szakképesítés,
-
-bh) a tőzsdei szakvizsga,
-
-bi) a Magyar Bankszövetség Felsőfokú Bankszakmai Oklevél,
-
-bj) a ba)–bi) alpontban foglaltakkal egyenértékű szakképesítés, vagy
-
-c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, az MNB által kiadott tőkepiaci hatósági vizsga letételét igazoló tanúsítvány.
+c) a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott, az MNB által kiadott tőkepiaci hatósági vizsga letételét igazoló hatósági bizonyítvány.
 
 (2) Az (1) bekezdés a) pontja alkalmazásában szakirányú felsőfokú végzettségnek minősülnek
 
@@ -40,4 +30,4 @@ e) a főiskolai vagy egyetemi szintű, illetve mesterképzésben szerzett gazdas
 
 f) a felsőfokú végzettség birtokában szakirányú továbbképzésben, szakosító továbbképzésben a közgazdasági felsőoktatásban szerezett bankszakmai szakképzettség vagy gazdasági, közgazdasági szakképzettség.
 
-(3) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló tanúsítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.
+(3) A Felügyelet érvényteleníti annak a vizsgázónak a hatósági vizsgáját, aki a vizsgát a Felügyelet félrevezetésével, hamis adatok közlésével, jogszabályban meghatározott feltételek hiányában vagy a vizsgáztatás szabályainak megsértésével tette le. Ha a hatósági vizsga letételét igazoló hatósági bizonyítványt a Felügyelet már kiadta, úgy intézkedik annak visszavonásáról.

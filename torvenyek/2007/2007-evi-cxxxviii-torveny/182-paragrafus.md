@@ -97,3 +97,9 @@ foglalt követelményeknek.
 (24) A Módtv3. hatálybalépését követő 30 napon belül a befektetési vállalkozás, az árutőzsdei szolgáltató, a közvetítő ellenőrzi, hogy az ügyfeleknek pénzügyi eszközökről, befektetési szolgáltatási tevékenységről vagy kiegészítő szolgáltatásról befektetési tanácsot vagy információt nyújtó, vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló alkalmazottai a 116/A. § (2) bekezdés a) és b) pontjában rögzített feltételeknek megfelelnek.
 
 (25) A Felügyelet 2017. december 31-ig vissza nem állítható módon töröl minden olyan adatot, amelyet a 2017. június 30-án hatályos 116/A. §-a szerinti nyilvántartás alapján kezelt.
+
+(26) A Felügyelet jár el a 2021. szeptember 30-ig benyújtott adatszolgáltatási tevékenység engedélyezésére vonatkozó kérelem ügyében.
+
+(27) Minden olyan adatszolgáltatóra vonatkozóan, amely a 600/2014/EU európai parlamenti és tanácsi rendelet 2. cikk (3) bekezdésében meghatározottak szerint nem minősül a belső piac szempontjából korlátozott jelentőségűnek, a Felügyelet legkésőbb 2022. január 1-jéig az Európai Értékpapír-piaci Hatóság számára átad minden rendelkezésére álló adatot és eredeti dokumentációt vagy annak hiteles másolatát.
+
+(28) Azt a befektetési vállalkozással, árutőzsdei szolgáltatóval vagy közvetítővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személyt, aki 2021. december 31-én megfelelt a 22/B. § (1) bekezdés b) pontjában meghatározott követelményeknek, úgy kell tekinteni, hogy 2022. január 1-jét követően is megfelel a 116/A. § (2) bekezdés c) pontja tekintetében szakmai képesítésként elfogadható követelményeknek.
