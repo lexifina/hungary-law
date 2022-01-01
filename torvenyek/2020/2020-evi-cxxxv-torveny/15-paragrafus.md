@@ -10,6 +10,8 @@ c) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kate
 
 d) a foglalkoztatási szolgálatok európai hálózatáról (EURES), a munkavállalók mobilitási szolgáltatásokhoz való hozzáféréséről és a munkaerőpiacok további integrációjáról, valamint a 492/2011/EU és az 1296/2013/EU rendeletek módosításáról szóló, 2016. április 13-i (EU) 2016/589 európai parlamenti és tanácsi rendelet
 
+e) az elbocsátott munkavállalók támogatását szolgáló Európai Globalizációs Alkalmazkodási Alapról (EGAA) és az 1309/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/691 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a törvény
