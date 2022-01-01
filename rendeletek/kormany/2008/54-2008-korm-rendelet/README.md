@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-54-20-2
 | 2021-01-01 | 2008-54-20-22.13 | 64/2013. (III. 4.) Korm. rendelet |
 | 2021-03-28 | 2008-54-20-22.14 | 64/2013. (III. 4.) Korm. rendelet |
 | 2021-08-01 | 2008-54-20-22.15 | 64/2013. (III. 4.) Korm. rendelet |
+| 2022-01-01 | 2008-54-20-22.16 | 825/2021. (XII. 28.) Korm. rendelet |

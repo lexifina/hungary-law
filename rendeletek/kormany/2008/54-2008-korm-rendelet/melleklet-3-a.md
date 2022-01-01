@@ -26,6 +26,6 @@
 
 | kinyert energia mennyisége (GJ) = | az energiahordozó térfogata (m3) × t/2 (°C) × 0,004186 |
 
-3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^61]
+3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^65]
 
-[^61]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^65]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
