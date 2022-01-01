@@ -1,4 +1,4 @@
-| XLVII. Gazdaság-újraindítási Alap fejezet 2. Fejezeti kezelésű előirányzatok cím, 5. Gazdaság újraindítását szolgáló pénzügyi fejezeti kezelésű előirányzatok alcím 2021. évi fejezeti kezelésű előirányzatainak feladatterve |
+| XLVII. Gazdaság-újraindítási Alap fejezet 2. Fejezeti kezelésű előirányzatok cím, 5. Gazdaság újraindítását szolgáló pénzügyi fejezeti kezelésű előirányzatok alcím 2022. évi fejezeti kezelésű előirányzatainak feladatterve |
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -22,7 +22,7 @@
 
 | Visszterhes polgári jogi szerződés alapján. | - |  | - |
 
-| 5. | 359495 |  |  | Szentháromság téri ingatlanberuházás | Az előirányzat fedezetet biztosít 1. a Pénzügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházások, felújítások kiadásaira, 2. a Nemzetgazdasági Minisztérium budai Várnegyedben történő elhelyezéséhez szükséges további intézkedésekről szóló 1097/2017. (III. 2.) Korm. határozat 1. pont b) alpontja szerinti nonprofit korlátolt felelősségű társaság működéséhez, feladatellátásához. | gazdasági társaság, költségvetési szerv | 1. Egyedi döntés vagy jogszabály alapján, pályázati rendszeren kívül – támogatási szerződéssel vagy támogatói okirattal. 2. Ávr. 101/A. § alapján támogatói okirattal. | előleg biztosítható | egyösszegű kifizetéssel, részletekben történő kifizetéssel, előirányzat- átcsoportosí- tással – időarányosan vagy teljesítés- arányosan | - | Biztosíték lehet: a) a kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata, b) zálogjog, c) garancia, d) kezesség, e) óvadék. | - | - | - |
+| 5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 3. melléklet a 9/2018. (X. 19.) PM rendelethez[^87]
 
