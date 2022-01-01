@@ -6,23 +6,23 @@ a) a polgármester és a jegyző anyakönyvi szakvizsgával vagy a közszolgála
 
 b) az anyakönyvi szerv kormánytisztviselője, a polgármesteri hivatal és a közös önkormányzati hivatal köztisztviselője a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben meghatározott képesítéssel,
 
-c)[^8]
+c)[^14]
 
 d) a hivatásos konzuli tisztviselő anyakönyvi szakvizsgával
 
 láthatja el.
 
-(2) Ha felsőoktatásban szerzett közszolgálati szakképzettséggel vagy állam- és jogtudományi képzési területen szerzett szakképzettséggel rendelkezik
+(2)[^15] A felsőoktatásban szerzett közszolgálati szakképzettséggel vagy jogi területen szerzett szakképzettséggel rendelkező, de anyakönyvi szakvizsgával nem rendelkező köztisztviselőt és kormánytisztviselőt a kinevezésekor a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendelet szerint képesítettnek kell tekinteni, azzal, hogy az anyakönyvi szakvizsgát a kinevezésétől számított egy éven belül köteles megszerezni.
 
-a) a polgármesteri hivatal köztisztviselője,
+(3)[^16] A (2) bekezdésben meghatározott időtartamba nem számít bele
 
-b) a közös önkormányzati hivatal köztisztviselője,
+a) a rendkívüli jogrend időtartama, valamint
 
-c) a hivatásos konzuli tisztviselő,
+b) a harminc napot meghaladó fizetés nélküli szabadság vagy keresőképtelenség.
 
-## és a kinevezésekor nem rendelkezik anyakönyvi szakvizsgával, azt a kinevezésétől számított egy éven belül meg kell szereznie.
+(4)[^17] A (2) bekezdésben foglalt határidőt kivételes méltánylást érdemlő esetben egy alkalommal az anyakönyvi ügyekért felelős miniszter meghosszabbíthatja.
 
-(3)[^9] Az anyakönyvi szerv kormánytisztviselője, ha a kinevezésekor nem rendelkezik anyakönyvi szakvizsgával, azt a kinevezésétől számított egy éven belül meg kell szereznie.
-
-[^8]: A 6. § (1) bekezdés c) pontját a 315/2020. (VII. 1.) Korm. rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^9]: A 6. § (3) bekezdése a 315/2020. (VII. 1.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^14]: A 6. § (1) bekezdés c) pontját a 315/2020. (VII. 1.) Korm. rendelet 8. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^15]: A 6. § (2) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^16]: A 6. § (3) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^17]: A 6. § (4) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 5. § (8) bekezdése iktatta be.

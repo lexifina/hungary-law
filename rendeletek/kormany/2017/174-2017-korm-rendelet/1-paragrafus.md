@@ -16,26 +16,40 @@ e)[^1] – a (10) bekezdésben meghatározott esetben – a külpolitikáért fe
 
 (2) A hivatásos konzuli tisztviselő nem minősül anyakönyvvezetőnek az anyakönyvi eljárásról szóló 2010. évi I. törvény (a továbbiakban: At.) II. és III. fejezetében, valamint – a házassági névviselési forma módosítására irányuló eljárás kivételével – IV. fejezetében meghatározott feladatok esetében.
 
-(3) A házassági névviselési forma módosítására irányuló eljárás lefolytatására – ha a házassági anyakönyvi bejegyzés adatai az elektronikus anyakönyvben korábban már rögzítésre kerültek – bármely anyakönyvvezető, egyéb esetben a házasságkötést nyilvántartó anyakönyvvezető illetékes.
+(3)[^2]
 
-(4) Ha a házasságot külföldön kötötték, és a házassági anyakönyvi bejegyzés adatai az elektronikus anyakönyvben korábban nem kerültek rögzítésre, a házassági névviselési forma módosítására irányuló eljárás lefolytatására a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv jogosult.
+(4)[^3]
 
-(5)[^2] Az anyakönyvvezető illetékességi területe a kinevezése és megbízása szerinti képviselő-testület hivatalához tartozó települési önkormányzatok területére terjed ki.
+(5)[^4] Az anyakönyvvezető illetékességi területe a kinevezése és megbízása szerinti
 
-(6)[^3] A fővárosi önkormányzat által közvetlenül igazgatott területen történt anyakönyvi esemény anyakönyvezésére a Budapest XIII. kerületi önkormányzat képviselő-testülete hivatalának anyakönyvvezetője illetékes.
+a) képviselő-testület hivatalához tartozó fővárosi kerület vagy település, vagy
 
-(7)[^4] A házasságkötésnél és a bejegyzett élettársi kapcsolat létesítésénél az anyakönyvvezető csak az illetékességi területén járhat el.
+b) külképviselet
 
-(8)[^5] A házasságkötésnél vagy bejegyzett élettársi kapcsolat létesítésénél a település polgármestere kizárólag a település közigazgatási határain belül működhet közre.
+## illetékességi területére terjed ki.
 
-(9)[^6] Ha a településen az anyakönyvi igazgatási feladatok az anyakönyvvezető akadályoztatása vagy az anyakönyvvezetői feladatokat ellátó személy hiánya miatt nem láthatóak el, az anyakönyvi szerv az illetékességi területén működő más anyakönyvvezetőt jelöl ki az anyakönyvi igazgatási feladatok ellátására. A polgármesteri hivatal vagy a közös önkormányzati hivatal, amelynek az illetékességi területén az anyakönyvi igazgatási feladatok kijelölés alapján kerülnek ellátásra, köteles a kijelölt anyakönyvvezető illetményével megegyező összegű költségtérítést fizetni a kijelölt anyakönyvvezető munkáltatójának.
+(6)[^5] A fővárosi önkormányzat által közvetlenül igazgatott területen történt anyakönyvi esemény anyakönyvezésére a Budapest XIII. kerületi önkormányzat képviselő-testülete hivatalának anyakönyvvezetője illetékes.
 
-(10)[^7] A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője jogosult az anyakönyvi kivonat kiállítására irányuló kérelem esetén eljárni.
+(7)[^6] A házasságkötésnél és a bejegyzett élettársi kapcsolat létesítésénél az anyakönyvvezető csak az illetékességi területén járhat el.
+
+(8)[^7] A házasságkötésnél vagy bejegyzett élettársi kapcsolat létesítésénél a település polgármestere kizárólag a település közigazgatási határain belül működhet közre.
+
+(9)[^8] Ha a településen az anyakönyvi igazgatási feladatok az anyakönyvvezető akadályoztatása vagy az anyakönyvvezetői feladatokat ellátó személyek hiánya miatt nem láthatóak el, a jegyző kérelmére az anyakönyvi szerv az illetékességi területén működő más anyakönyvvezetőt jelöl ki az anyakönyvi igazgatási feladatok ellátására.
+
+(9a)[^9] A kijelölés feltétele a helyettesítést kérő és a helyettesítő anyakönyvvezetőt biztosító polgármesteri hivatal, közös önkormányzati hivatal munkáltatóinak a helyettesítésről szóló megállapodása (a továbbiakban: Megállapodás). A Megállapodásnak ki kell terjednie a helyettesítés időtartamára, a helyettesítésre kijelölt anyakönyvvezető illetményének, valamint a feladatellátással összefüggő költségeinek a megtérítésére is. A (9) bekezdés szerinti kérelemhez mellékelni kell a Megállapodást és a helyettesítésre felkért anyakönyvvezetőnek a helyettesítést vállaló nyilatkozatát.
+
+(9b)[^10] A helyettesítés eseti vagy legfeljebb hat hónap időtartamra szóló, határozott időtartamú lehet.
+
+(10)[^11] A külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselője jogosult az anyakönyvi kivonat kiállítására irányuló kérelem esetén eljárni.
 
 [^1]: Az 1. § (1) bekezdés e) pontját a 429/2017. (XII. 20.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^2]: Az 1. § (5) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^3]: Az 1. § (6) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^4]: Az 1. § (7) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^5]: Az 1. § (8) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^6]: Az 1. § (9) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (10) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (3) bekezdése iktatta be.
+[^2]: Az 1. § (3) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (4) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (5) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 745/2021. (XII. 21.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (6) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^6]: Az 1. § (7) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^7]: Az 1. § (8) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^8]: Az 1. § (9) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 745/2021. (XII. 21.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^9]: Az 1. § (9a) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^10]: Az 1. § (9b) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^11]: Az 1. § (10) bekezdését a 429/2017. (XII. 20.) Korm. rendelet 30. § (3) bekezdése iktatta be.
