@@ -46,7 +46,13 @@
 
 3. a főosztályvezetői és az osztályvezetői álláshely betöltéséhez szükséges feltételeket;
 
-4.
+4. a Közszolgálati Személyügyi Szolgáltatási Keretrendszer
+
+a) által nyújtott szolgáltatások igénybevételére vonatkozó feltételeket, szabályokat, eljárásrendet,
+
+b) informatikai üzemeltetését végző szervezetet, valamint
+
+c) az állásportálokkal való együttműködési megállapodás tartalmi elemeit;
 
 5. az ösztöndíjas jogviszony részletes szabályait;
 

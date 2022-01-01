@@ -27,3 +27,5 @@ b) ha a munkavállaló a 95. § (5) és (7) bekezdése szerinti előzetes enged�
 (6) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára az Mt. 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 110. §-át, 116. §-át és 137. §-át kell alkalmazni.
 
 (7) Az e törvény szerinti szabályzat és közszolgálati szabályzat a munkavállalók esetében az Mt. 17. §-a szerinti munkáltatói szabályzatnak minősül.
+
+(8) A munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.

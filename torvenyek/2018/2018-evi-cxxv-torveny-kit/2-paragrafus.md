@@ -22,7 +22,7 @@ e) a központi hivatal.
 
 a) a Központi Statisztikai Hivatal,
 
-b) az Országos Atomenergia Hivatal,
+b)
 
 c) a Szellemi Tulajdon Nemzeti Hivatala, és
 

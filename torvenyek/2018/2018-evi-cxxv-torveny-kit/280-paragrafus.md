@@ -50,6 +50,8 @@ a) a kormányzati igazgatási szerv hivatali szervezetének vezetője által –
 
 b) ha a kormányzati igazgatási szerv hivatali szervezetének vezetője közjogi szervezetszabályozó eszköz kiadására nem jogosult, az e törvényben meghatározott kérdésekben, valamint a hivatali szervezet vezetőjének általános munkáltatói szabályozási hatáskörbe tartozó kérdésekben a hivatali szervezet vezetője által egyéb formában kiadott belső, normatív szabályzat;
 
+20a. Közszolgálati Személyügyi Szolgáltatási Keretrendszer: a személyügyi központ által az e törvény hatálya alá tartozó, valamint más foglalkoztatási jogviszonyokban álló foglalkoztatottak és munkáltatók részére térítésmentesen nyújtott szolgáltatások összessége, mely módszertani támogatást, szakrendszert, elemző felületet foglal magába.
+
 21. levonásmentes illetményrész: a bírósági végrehajtásról szóló törvény alapján teljesíthető levonások után fennmaradó illetményrész;
 
 22. munkaidő: a munkavégzésre előírt idő kezdetétől annak befejezéséig tartó idő, valamint a munkavégzéshez kapcsolódó előkészítő és befejező tevékenység időtartama, ide nem értve – a készenléti jellegű feladatkört kivéve – a munkaközi szünetet, az ebédidőt, a kormánytisztviselő lakó- vagy tartózkodási helyéről a tényleges munkavégzés helyére, valamint a munkavégzés helyéről a lakó- vagy tartózkodási helyére történő utazás időtartamát;
