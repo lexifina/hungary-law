@@ -1,3 +1,3 @@
-1. melléklet a 444/2017. (XII. 27.) Korm. rendelethez[^27]
+1. melléklet a 444/2017. (XII. 27.) Korm. rendelethez[^28]
 
-[^27]: Az 1. mellékletet a 285/2018. (XII. 21.) Korm. rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^28]: Az 1. mellékletet a 285/2018. (XII. 21.) Korm. rendelet 17. § (2) bekezdés b) pontja hatályon kívül helyezte.

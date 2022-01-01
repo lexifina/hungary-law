@@ -4,7 +4,7 @@
 
 (1b)[^14] Előzetes és időszakos pályaalkalmassági vizsgálatra webes felületen történő jelentkezés, időpont foglalás abban az esetben érvényes, ha a jelentkezéstől számított harmadik munkanapon a díj átutalással befizetésre kerül a vizsgaközpont részére. Ennek elmaradása esetén a vizsgaközpont a foglalt időpontot törli, újabb időpont foglalása csak a díj megfizetését követően lehetséges.
 
-(1c)[^15] Amennyiben a gépjárművezető jelentkezését postai úton küldi meg, a vizsgálat időpontjáról a vizsgaközpont legalább tizenöt nappal a vizsgálat időpontja előtt írásban értesíti. Személyesen jelentkezni ügyfélfogadási időben a vizsgaközpontnál lehet.
+(1c)[^15] Amennyiben a gépjárművezető jelentkezését postai úton küldi meg, a vizsgálat időpontjáról a vizsgaközpont legalább tizenöt nappal a vizsgálat időpontja előtt írásban értesíti.
 
 (1d)[^16] Rendkívüli pályaalkalmassági vizsgálatra a kezdeményező vagy a megkereső szerv írásbeli megkeresése alapján, továbbá a 3. § (2) bekezdés a) pontja esetén a vizsgaközpont által a gépjárművezető rendelkezésére bocsátott jelentkezési lappal lehet.
 
@@ -13,5 +13,5 @@
 [^12]: A 4. § (1) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^13]: A 4. § (1a) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be.
 [^14]: A 4. § (1b) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be.
-[^15]: A 4. § (1c) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be.
+[^15]: A 4. § (1c) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be, szövege a 789/2021. (XII. 27.) Korm. rendelet 67. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (1d) bekezdését a 285/2018. (XII. 21.) Korm. rendelet 12. § iktatta be.

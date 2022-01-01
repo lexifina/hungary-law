@@ -16,9 +16,10 @@ aa) az 1970. január 1-je előtti „C” kategóriás vezetői engedély,
 
 ab) az 1969. július 1-je és 1978. április 1-je közötti dátummal kiadott gépjárműkezelői bizonyítvány,
 
-b) II. pályaalkalmassági kategóriának felel meg az 1978. április 1-je és 1988. december 31-e közötti „D” kategóriás vezetői engedély,
+b)[^24]
 
 c) III. pályaalkalmassági kategóriának felel meg az 1978. április 1-je után kiadott gépjárműkezelői bizonyítvány.
 
 [^22]: A 9. § a 285/2018. (XII. 21.) Korm. rendelet 17. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^23]: A 10. § (1) bekezdés a) pontja a 285/2018. (XII. 21.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^24]: A 10. § (2) bekezdés b) pontját a 789/2021. (XII. 27.) Korm. rendelet 67. § b) pontja hatályon kívül helyezte.

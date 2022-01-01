@@ -1,4 +1,4 @@
-10/A. §[^24] (1) A pályaalkalmassági minősítés során a vizsgaközpont a pályaalkalmassági vizsgálatot a jelentkezésnek megfelelő alkalmassági kategóriára meghatározott követelmények szerint végzi.
+10/A. §[^25] (1) A pályaalkalmassági minősítés során a vizsgaközpont a pályaalkalmassági vizsgálatot a jelentkezésnek megfelelő alkalmassági kategóriára meghatározott követelmények szerint végzi.
 
 (2) A pályaalkalmasságot megállapító pszichológusnak az egyéni adottságok figyelembevételével, minden esetben egyedi elbírálás alapján kell véleményt alkotnia a vizsgált személy pályaalkalmasságáról és a pályaalkalmassági minősítés során általános szabályként a következőket kell figyelembe vennie.
 
@@ -22,4 +22,4 @@ c) a gépjárművezető hogyan alkalmazkodik a megszokottól eltérő közleked�
 
 (9) Az időszakos minősítésre irányuló pályaalkalmassági vizsgálatnál a közlekedési előéletre vonatkozó objektív adatokat is figyelembe kell venni.
 
-[^24]: A 10/A. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^25]: A 10/A. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.

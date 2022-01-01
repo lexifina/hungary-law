@@ -1,4 +1,4 @@
-10/B. §[^25] (1) A pályaalkalmasság elbírálása során a gépjárművezető minősítésekor a 10/C. § (1) bekezdés a)–e) és 10/C. § (1) bekezdés i)–j) pontjaiban meghatározott korlátozó vagy kizáró okok megállapítása esetén az e célra kifejlesztett műszerekkel megállapított pályaalkalmassági vizsgálati eredményeket kell figyelembe venni.
+10/B. §[^26] (1) A pályaalkalmasság elbírálása során a gépjárművezető minősítésekor a 10/C. § (1) bekezdés a)–e) és 10/C. § (1) bekezdés i)–j) pontjaiban meghatározott korlátozó vagy kizáró okok megállapítása esetén az e célra kifejlesztett műszerekkel megállapított pályaalkalmassági vizsgálati eredményeket kell figyelembe venni.
 
 (2) A műszeres vizsgálati eredmények értékelésénél és értelmezésénél a vizsgálati eredmények eloszlása, a beválási adatokkal és a balesetezési gyakorisággal való kapcsolata alapján meghatározott veszélyeztetettségi szintek figyelembevételével kell eljárni, különösen a 10/C. § (1) bekezdés j) pontjában meghatározott esetben.
 
@@ -24,4 +24,4 @@ b) részletes személyiségvizsgálat.
 
 (11) A pályaalkalmassági vizsgálatnak ki kell terjednie a gépjárművezető közlekedésbiztonság szempontjából releváns képességeinek, személyiségvonásainak és viselkedési beállítódásainak vizsgálatára. A közlekedéshez való alkalmazkodást befolyásoló személyiségjegyek feltárásához az e célra kifejlesztett közlekedés-specifikus kérdőíves és egyéb módszerek használhatók.
 
-[^25]: A 10/B. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^26]: A 10/B. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.
