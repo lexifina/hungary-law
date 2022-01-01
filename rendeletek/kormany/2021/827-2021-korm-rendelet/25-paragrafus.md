@@ -1,0 +1,1 @@
+## „(5a) Az 1/D. § (1) bekezdés c) pontja szerinti központi kezelésű előirányzat esetén az érvényesítő a fejezetet irányító szerv vezetője által írásban kijelölt, az MNV Zrt. alkalmazásában álló személy.”
