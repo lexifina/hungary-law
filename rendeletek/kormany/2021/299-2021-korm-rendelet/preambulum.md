@@ -1,0 +1,1 @@
+A Kormány az Egyesült Nemzetek Nevelésügyi, Tudományos és Kulturális Szervezete Alkotmányának kihirdetéséről szóló 2009. évi XXXII. törvény 3. § (3) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
