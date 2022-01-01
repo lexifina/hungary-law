@@ -22,7 +22,7 @@ f) a kríziskezelést, valamint a nehéz élethelyzetben élő családokat segí
 
 g) a Gyvt. 40/A. § (2) bekezdés a) pont ad) alpontja szerinti készenléti szolgálatot az (1) bekezdés szerinti személyek számára,
 
-i) a nagy létszámú intézmények átalakítását követően támogatott lakhatást igénybe vevők utánkövetését biztosító esetmenedzseri feladatokat.
+i)
 
 (5)
 
@@ -31,3 +31,5 @@ i) a nagy létszámú intézmények átalakítását követően támogatott lakh
 (7) A család- és gyermekjóléti szolgálat az ellátási területén – felkérésre – közreműködik a kormányrendeletben meghatározott európai uniós forrásból megvalósuló program keretében természetben biztosítható eseti vagy rendszeres juttatás célzott és ellenőrzött elosztásában.
 
 (8) A Gyvt. szerinti család- és gyermekjóléti központ a család szociális helyzetének átfogó vizsgálata alapján elkészíti az igénybe venni javasolt szociális szolgáltatásokat meghatározó szociális diagnózist. A család- és gyermekjóléti központ a szociális diagnózis elkészítésébe bevonhatja a nem járásszékhely településen működő család- és gyermekjóléti szolgálatokat. A jogosultsági feltételek fennállása esetén a szociális diagnózis kötelezi a szociális szolgáltatókat és a szociális intézményeket.
+
+(9) A Gyvt. 40/A. § (7) bekezdése alapján kijelölt család- és gyermekjóléti központ fogyatékosságügyi tanácsadást biztosít. A fogyatékosságügyi tanácsadás keretében a gyermekjóléti központ elősegíti a fogyatékossággal élő emberek és családtagjaik információkhoz, szolgáltatásokhoz való akadálymentes hozzáférését, valamint az egyenlő esélyű hozzáférés megvalósulását.

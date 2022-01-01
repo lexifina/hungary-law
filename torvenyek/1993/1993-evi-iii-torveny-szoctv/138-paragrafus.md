@@ -4,7 +4,7 @@
 
 (3) A 2017. március 31-én hatályos 99/C. § (1) bekezdése szerinti nyilvántartás adatait 2019. január 2-án kell törölni.
 
-(4) Átmeneti elhelyezést nyújtó intézmény – az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása kivételével – 2022. december 31-éig működhet. Az e szabály alapján, az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvény hatálybalépését követően átalakuló átmeneti elhelyezést nyújtó intézmények az átalakulást megelőzően befogadott férőhelyszámuk erejéig a finanszírozási rendszerbe az átalakulást követően is befogadottnak minősülnek a törvény erejénél fogva.
+(4)
 
 (5) A 2016. február 1-jén házi segítségnyújtásra befogadott ellátotti számmal rendelkező, 63. § (9) bekezdése alá nem tartozó intézmény, szolgáltató (székhely, telephely) esetében a 2016. február 1-jén az adott intézményben, szolgáltatónál (székhelyen, telephelyen) személyi gondozásra megállapodással rendelkező ellátottak száma törvény erejénél fogva befogadottnak minősül az egyes szociális és gyermekvédelmi tárgyú törvények módosításáról szóló 2016. évi CLXVI. törvény hatálybalépésének időpontjában. A személyi gondozásra megállapodással rendelkező ellátottak számának meghatározásakor az igénybevevői nyilvántartás adatai az irányadóak.
 

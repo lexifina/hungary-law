@@ -1,1 +1,1 @@
-140. §
+140. § Azon átmeneti elhelyezést nyújtó intézmény – az éjjeli menedékhely és a hajléktalan személyek átmeneti szállása kivételével –, amelynek átalakulása a 2021. december 31-én hatályos 138. § (4) bekezdése alapján az egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú, valamint kapcsolódó törvények jogharmonizációs és egyéb célú módosításáról szóló 2021. évi CXXIX. törvény hatálybalépésekor folyamatban van, az átalakulást megelőzően befogadott férőhelyszáma erejéig a finanszírozási rendszerbe az átalakulást követően is befogadottnak minősül.
