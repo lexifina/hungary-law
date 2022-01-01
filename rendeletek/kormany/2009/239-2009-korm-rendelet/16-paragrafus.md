@@ -1,14 +1,6 @@
-## 15. §[^72] A jegyző a 13. §-ban meghatározott adatváltozásról, valamint a szálláshely-szolgáltató nyilvántartásból való törléséről haladéktalanul értesíti a 11. § szerinti hatóságokat.
+## 15. §[^70] A jegyző a 13. §-ban meghatározott adatváltozásról, valamint a szálláshely-szolgáltató nyilvántartásból való törléséről haladéktalanul értesíti a 11. § szerinti hatóságokat.
 
-16. § (1)[^73] A magánszálláshelyet, valamint az egyéb szálláshelyet az üzemeltető szálláshely-szolgáltató köteles az adott naptári évre (a továbbiakban: tárgyév) vonatkozóan a tárgyévet követő év január hó 31. napjáig a jegyzőnek írásban adatot szolgáltatni a következőkről:
+16. §[^71]
 
-a) fogadott vendégek száma és
-
-b) a vendégek által a szálláshelyen eltöltött éjszakák száma.
-
-(2) Az (1) bekezdés a) és b) pontja szerinti adatokat összesítve, valamint magyarországi lakóhellyel rendelkező és magyarországi lakóhellyel nem rendelkező vendégek szerinti bontásban kell közölni. Az (1) bekezdés szerinti adatszolgáltatás személyes adatokat nem tartalmazhat.
-
-(3) A jegyző az (1) bekezdés szerint részére szolgáltatott adatokat statisztikai célokra a Központi Statisztikai Hivatal rendelkezésére bocsátja.
-
-[^72]: A 15. § a 441/2015. (XII. 28.) Korm. rendelet 119. § (11) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^73]: A 16. § (1) bekezdése a 273/2019. (XI. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^70]: A 15. § a 441/2015. (XII. 28.) Korm. rendelet 119. § (11) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^71]: A 16. §-t a 273/2019. (XI. 20.) Korm. rendelet 1. § (2) bekezdése hatályon kívül helyezte.

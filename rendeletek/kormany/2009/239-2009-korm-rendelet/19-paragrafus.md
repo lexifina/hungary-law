@@ -1,4 +1,4 @@
-19. §[^78] (1) Azon szálláshely-szolgáltató, amely a szálláshely-szolgáltatási tevékenységgel kapcsolatos egyes kormányrendeletek módosításáról szóló 155/2019. (VI. 27.) Korm. rendelet (a továbbiakban: Mód. R.) hatálybalépésekor[^79] a 4. § (1)–(2) bekezdése szerinti szálláshely-szolgáltatási tevékenységét már bejelentette, illetve működési engedéllyel rendelkezik, a jegyző részére 2019. november 30. napjáig benyújtja a 6. § (2) bekezdés d) alpontjában meghatározott dokumentumot, valamint az 1. melléklet 1. és 2. pontjában meghatározott bejelentési és üzemeltetési követelmények megfelelőségéről szóló nyilatkozatot.
+19. §[^76] (1) Azon szálláshely-szolgáltató, amely a szálláshely-szolgáltatási tevékenységgel kapcsolatos egyes kormányrendeletek módosításáról szóló 155/2019. (VI. 27.) Korm. rendelet (a továbbiakban: Mód. R.) hatálybalépésekor[^77] a 4. § (1)–(2) bekezdése szerinti szálláshely-szolgáltatási tevékenységét már bejelentette, illetve működési engedéllyel rendelkezik, a jegyző részére 2019. november 30. napjáig benyújtja a 6. § (2) bekezdés d) alpontjában meghatározott dokumentumot, valamint az 1. melléklet 1. és 2. pontjában meghatározott bejelentési és üzemeltetési követelmények megfelelőségéről szóló nyilatkozatot.
 
 (2) Azon szálláshely-szolgáltató, amely a Mód. R. hatálybalépésekor a 4. § (3)–(6) bekezdése szerinti szálláshely-szolgáltatási tevékenységét már bejelentette, illetve működési engedéllyel rendelkezik, 2019. november 30. napjáig benyújtja a 6. § (2) bekezdés d) alpontjában meghatározott dokumentumot, valamint az 1. melléklet 3–6. pontjában meghatározott bejelentési és üzemeltetési követelmények megfelelőségéről szóló nyilatkozatot.
 
@@ -6,8 +6,8 @@
 
 (4) Azon szálláshely-szolgáltató, amely a (3) bekezdés szerinti szálláshely-szolgáltatási tevékenysége módosítását kezdeményezi, a módosítási kérelemmel egyidejűleg köteles benyújtani a 6. § (2) bekezdés d) alpontjában meghatározott dokumentumot, valamint az 1. melléklet 7. pontjában meghatározott bejelentési és üzemeltetési követelmények megfelelőségéről szóló nyilatkozatot. Ezen szálláshely-szolgáltató köteles a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVII. törvény végrehajtásáról szóló 237/2018. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint eljárni.
 
-(5)[^80]
+(5)[^78]
 
-[^78]: A 19. §-t újonnan a 155/2019. (VI. 27.) Korm. rendelet 11. §-a iktatta be.
-[^79]: A hatálybalépés időpontja 2019. június 28.
-[^80]: A 19. § (5) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^76]: A 19. §-t újonnan a 155/2019. (VI. 27.) Korm. rendelet 11. §-a iktatta be.
+[^77]: A hatálybalépés időpontja 2019. június 28.
+[^78]: A 19. § (5) bekezdését az 501/2021. (VIII. 18.) Korm. rendelet 18. §-a hatályon kívül helyezte.
