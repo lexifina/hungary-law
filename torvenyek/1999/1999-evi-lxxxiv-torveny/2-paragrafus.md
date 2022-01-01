@@ -6,7 +6,7 @@
 
 2. Járműnyilvántartás: olyan elektronikus nyilvántartás, amely tartalmazza a Magyarországon forgalomba helyezett, állandó hatósági jelzéssel és forgalmi engedéllyel ellátott járművek adatait, a járműtulajdonos (üzembentartó), az állami vagyonkezelő és a lízingbevevő adatait, továbbá a járműokmány adatait, valamint a történeti állományt.
 
-3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
+3. Okirattár: a 2022. január 1-jét megelőzően keletkezett alapiratok, nyilvántartásban szereplő adatok változását igazoló okmányok, cserélt, leadott és visszavont okmányok papír alapú példányainak, továbbá a 2022. január 1-től a nyilvántartásban szereplő adatok bejegyzését és változását igazoló alapiratok és okmányok, cserélt, leadott és visszavont okmányok eljáró hatóság által hitelesített másolatának elektronikus, vagy az ügytől függően papír alapú példányainak, továbbá a bevont külföldi okmányoknak a nyilvántartása.
 
 4. Kerékpárszállító eszköz: minden olyan, a járműre ideiglenes jelleggel felszerelhető kerékpár vagy más dolog szállítására alkalmas tartószerkezet, amely részben vagy egészben kitakarja a jármű hatósági jelzését vagy világító, fényjelző berendezését.
 
@@ -47,3 +47,5 @@
 22. Állami vagyonkezelő: a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben vagyonkezelőként meghatározott azon személy, amellyel az állami vagyon vagyonkezelésére a Magyar Nemzeti Vagyonkezelő Zrt., valamint annak jogelődje, vagy az állami vagyon tulajdonosi joggyakorlója vagyonkezelési szerződést kötött, továbbá akit törvény vagyonkezelőnek kijelöl.
 
 23. Lízingbevevő: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti lízingbevevő.
+
+24. Alapirat: a közúti közlekedési nyilvántartás működéséről és az adatszolgáltatás rendjéről szóló kormányrendelet szerinti ügyekben az okirattár részét képező, kormányrendeletben meghatározott közlekedési igazgatási hatósági eljárásban felhasznált vagy keletkezett irat.

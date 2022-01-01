@@ -8,7 +8,7 @@ b) a járműnyilvántartásból;
 
 c) a származás-ellenőrzési nyilvántartásból;
 
-d) az okmánytárból;
+d) az okirattárból;
 
 e) a parkolási igazolvány nyilvántartásból;
 

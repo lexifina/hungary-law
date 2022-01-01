@@ -26,7 +26,7 @@ c) az ideiglenes forgalmi engedély vagy az ideiglenes forgalomban tartási enge
 
 d) az ideiglenes forgalmi engedély vagy az ideiglenes forgalomban tartási engedély, továbbá az ideiglenes rendszámtábla eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására, megkerülésére vonatkozó adatokat, és
 
-e) a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott, az ideiglenes rendszámtábla kiadásához szükséges csatolandó és bemutatandó okiratok elektronikus másolatát.
+e)
 
 (3) Az ideiglenes rendszámtáblák nyilvántartása a „P” betűjelű rendszámtábla kivételével tartalmazza az ideiglenes rendszámtáblával ellátott járművek:
 
