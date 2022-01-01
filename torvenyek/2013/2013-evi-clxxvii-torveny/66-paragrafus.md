@@ -24,6 +24,8 @@ g) a részvénytársaságok részvénykönyvének vezetésével megbízható sze
 
 h) a közvetítőnek járó díjazás körében a jutalék számításának módját, a jutalékköteles ügyleteket, a külön jutalékra jogosító szolgáltatásokat, a jutalék megfizetésének (visszafizetésének) feltételeit és a jutalékkal való elszámolás módját (az elszámolással kapcsolatos jogokat és kötelezettségeket).
 
+i) a fogyasztó és vállalkozás közötti, digitális tartalom szolgáltatására vagy digitális szolgáltatás nyújtására irányuló szerződések szabályait, ideértve a digitális tartalom vagy a digitális szolgáltatás szerződésszerű teljesítésére, a hibás teljesítésre és az azzal kapcsolatos jogorvoslati lehetőségekre, valamint azok gyakorlásának módjára, illetve a digitális tartalom vagy szolgáltatás módosítására vonatkozó részletes szabályokat, továbbá a fogyasztó és vállalkozás közötti, áruk adásvételére vonatkozó szerződések szabályait, ideértve a szerződésszerű teljesítésre, a hibás teljesítésre és az azzal kapcsolatos jogorvoslati lehetőségekre, valamint azok érvényesítésének feltételeire, illetve a jótállásra vonatkozó részletes szabályokat.
+
 (2) Felhatalmazást kap az állami vagyon felügyeletéért felelős miniszter, hogy rendeletben meghatározza az állam öröklése és az államot megillető egyéb jogok gyakorlása esetén a magyar állam képviseletéről szóló részletes szabályokat.
 
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben meghatározza
