@@ -16,7 +16,7 @@ d)[^48] az 5. § (8) bekezdése szerinti rendkívüli munkavégzés elrendelés�
 
 (3)[^49]
 
-(4)[^50] A munkahigiénés és foglalkozás-egészségügyi szerv az e §, valamint a 3. számú melléklet alapján bejelentett és a munkavédelmi hatóság által nyilvántartott rákkeltőkről, rákkeltőkkel végzett tevékenységről, és a rákkeltőkkel exponált munkavállalókról foglalkozási rák regisztert vezet.
+(4)[^50] A munkavédelmi hatóság a bejelentett adatokat az Mvt. 63/C. § szerinti bontásban, munkáltatónként összegezve, elektronikus formában a tárgyévet követő év március 31-ig a munkahigiénés és foglalkozás-egészségügyi szerv részére átadja, amely ezek alapján foglalkozási rákregisztert vezet.
 
 (5)[^51] A munkahigiénés és foglalkozás-egészségügyi szerv a (4) bekezdés szerinti adatokat a tárgyévet követő március 31-ig regisztrálja, elemzi és értékeli, és az erről készült tájékoztatót megküldi az egészségügyért felelős miniszter által vezetett minisztérium részére, továbbá a HM által szolgáltatott adatokról készült tájékoztatót a HM részére is megküldi.
 
@@ -26,5 +26,5 @@ d)[^48] az 5. § (8) bekezdése szerinti rendkívüli munkavégzés elrendelés�
 [^47]: A 18. § (2) bekezdés nyitó szövegrésze a 9/2015. (III. 31.) NGM rendelet 19. § d) pontja szerint módosított szöveg.
 [^48]: A 18. § (2) bekezdésének d) pontját a 12/2002. (XI. 16.) ESZCSM rendelet 6. §-ának (2) bekezdése iktatta a szövegbe.
 [^49]: A 18. § (3) bekezdését az 51/2017. (XII. 29.) NGM rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^50]: A 18. § (4) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
+[^50]: A 18. § (4) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (2) bekezdése iktatta be, szövege a 32/2021. (VII. 26.) ITM rendelet 14. §-ával megállapított szöveg.
 [^51]: A 18. § (5) bekezdését az 51/2011. (XII. 23.) NGM rendelet 7. § (3) bekezdése iktatta be, szövege a 62/2016. (XII. 29.) NGM rendelet 54. § (1) bekezdésével megállapított szöveg.

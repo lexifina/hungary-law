@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-26-20-0
 | 2020-02-08 | 2000-26-20-0B.23 | 6/2020. (II. 7.) ITM rendelet |
 | 2020-06-30 | 2000-26-20-0B.24 | 9/2015. (III. 31.) NGM rendelet |
 | 2021-07-27 | 2000-26-20-0B.25 | 32/2021. (VII. 26.) ITM rendelet |
+| 2022-01-01 | 2000-26-20-0B.26 | 51/2011. (XII. 23.) NGM rendelet |
