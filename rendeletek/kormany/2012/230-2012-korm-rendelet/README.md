@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-230-20-
 | 2019-08-01 | 2012-230-20-22.10 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2020-06-18 | 2012-230-20-22.11 | 284/2020. (VI. 17.) Korm. rendelet |
 | 2021-09-01 | 2012-230-20-22.12 | 380/2021. (VI. 30.) Korm. rendelet |
+| 2022-01-01 | 2012-230-20-22.13 | 800/2021. (XII. 28.) Korm. rendelet |
