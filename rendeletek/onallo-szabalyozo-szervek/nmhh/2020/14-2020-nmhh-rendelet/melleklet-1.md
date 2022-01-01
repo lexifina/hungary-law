@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 14/2020. (XII. 15.) NMHH rendelethez[^8]
+1. melléklet a 14/2020. (XII. 15.) NMHH rendelethez[^6]
 
 ## A számfüggő elektronikus hírközlési szolgáltatások számozási terve és az azonosítóival való gazdálkodás rendjére vonatkozó különös szabályok
 
@@ -260,7 +260,7 @@ Az SHS-ek és a szolgáltatások vagy hálózatok összerendelését az alábbi 
 
 | 7 | 50 | Mobil rádiótelefon szolgáltatás |
 
-| 8 | 51 | Internet-hozzáférési szolgáltatás |
+| 8 |  |  |
 
 | 9 | 70 | Mobil rádiótelefon szolgáltatás |
 
@@ -436,29 +436,7 @@ A kijelölési engedély jogosultja az adott üzleti hálózat eléréséhez kij
 
 A GSM-R rendszer üzleti hálózata részére fenntartott résztartományban számmező azon vállalkozás számára jelölhető ki, amelyet a Kormány a GSM-R rendszer üzleti hálózata működtetésére és a szolgáltatás nyújtására kijelölt.
 
-2.6. Internet-hozzáférési szolgáltatás számai (SHS = 51)
-
-2.6.1. Leírás
-
-Lehetővé teszi internetszolgáltatók telefonhálózaton keresztül történő elérését.
-
-2.6.2. A számok felépítése
-
-51 abc def, ahol
-
-51 = az internet-hozzáférési szolgáltatást jelölő SHS,
-
-abc def = az internetszolgáltatót és annak szolgáltatását azonosítja.
-
-2.6.3. A használat feltételei
-
-Az internetszolgáltatás hívószámával együtt a hívó által fizetendő díjat és a díjazási feltételeket is közzé kell tenni.
-
-2.6.4. A gazdálkodás rendje
-
-Az internet-hozzáférési szolgáltatás számait a hatóság 1000-es számmezőkben jelöli ki és vonja vissza.
-
-Internet-hozzáférési szolgáltatás számmező jelölhető ki azon szolgáltató számára, amelyet helyhez kötött telefonszolgáltatás és országos területű internet-hozzáférési szolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+2.6.
 
 2.7. Gépek közötti szolgáltatás számai (ún. M2M számok) (SHS = 71)
 
@@ -950,4 +928,4 @@ A hívó fél által fizetendő díj mértékét (áfát is tartalmazó híváso
 
 A 19c formátumú telefonos kezelői szolgáltatás szám olyan szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-[^8]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 2.3.5. pontja a 27. § (3) bekezdése alapján 2025. december 31-én lép hatályba. Az 1. melléklet a 31. § (3) bekezdése, a 6/2021. (VII. 8.) NMHH rendelet 5. § 4. pontja és 6. §-a szerint módosított szöveg.
