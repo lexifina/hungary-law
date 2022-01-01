@@ -1,0 +1,3 @@
+## 4/A. A kijelölési és a kijelölés visszavonása iránti eljárás elektronikus ügyintézésének különös szabályai
+
+9/C. § Ezen alcím rendelkezéseit a hivatásos katasztrófavédelmi szerv előtti eljárásokban kell alkalmazni. A hivatásos katasztrófavédelmi szerv előtt indult valamennyi hatósági eljárásban, így különösen a kijelölési, kijelölés visszavonása iránti eljárásokban az ügyfél elektronikus azonosítását követően az azonosítási jelentését, nyilatkozatát, adatszolgáltatását a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti Integrált Hatósági Rendszeren (a továbbiakban: IHR) keresztül nyújtja be a hivatásos katasztrófavédelmi szerv részére.

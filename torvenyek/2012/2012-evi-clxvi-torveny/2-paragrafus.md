@@ -44,7 +44,7 @@ dönthet.
 
 a) meghatározza az üzemeltetői biztonsági terv kidolgozásának határidejét,
 
-b) kötelezi az üzemeltetőt, hogy biztonsági összekötő személyt bízzon meg vagy foglalkoztasson, és a biztonsági összekötő személy adatait a kijelölő határozat véglegessé válásától számított 60 napon belül nyilvántartó hatóság részére küldje meg, valamint
+b) kötelezi az üzemeltetőt, hogy biztonsági összekötő személyt bízzon meg vagy foglalkoztasson, és a biztonsági összekötő személy természetes személyazonosító adatait, elektronikus levelezési címét, telefonszámát a kijelölő határozat véglegessé válásától számított 60 napon belül a kormányrendeletben nyilvántartó hatóságként kijelölt szerv (a továbbiakban: nyilvántartó hatóság) részére – a nyilvántartó hatóság által meghatározott és a honlapján közzétett formátumban és módon – küldje meg, valamint
 
 c) az üzemeltető részére előírhat a létfontosságú rendszerelem védelmével összefüggő, a rendszerelem egyedi sajátosságaihoz, környezetéhez, a rendszerelem által potenciálisan előidézhető veszély mértékéhez igazodó feltételeket.
 

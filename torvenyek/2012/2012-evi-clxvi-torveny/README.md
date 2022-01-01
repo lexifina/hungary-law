@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-166-00-00
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2012-166-00-00.15 |
 | 2021-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-166-00-00.16 |
 | 2021-12-02 | 2021. évi CXX. törvény | 2012-166-00-00.17 |
+| 2022-01-01 | 2021. évi L. törvény | 2012-166-00-00.18 |

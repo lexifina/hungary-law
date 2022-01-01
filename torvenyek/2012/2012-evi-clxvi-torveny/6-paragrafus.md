@@ -18,7 +18,7 @@
 
 (10) A (9) bekezdés szerinti esetben a biztonsági dokumentumot kell megküldeni a nyilvántartó hatóságnak az 5. § szerinti nyilvántartásba vétel céljából.
 
-(11) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzétett formában, valamint az ágazati kijelölő hatóságot. Az üzemeltető a honvédelmi létfontosságú rendszerelem vonatkozásában a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálatot is haladéktalanul értesíti.
+(11) Az üzemeltető a bekövetkezett rendkívüli eseményekről haladéktalanul tájékoztatja a hivatásos katasztrófavédelmi szerv területi szervének ügyeleti szolgálatát a hivatásos katasztrófavédelmi szerv központi szervének honlapján közzétett formában és módon, valamint az ágazati kijelölő hatóságot. Az üzemeltető a honvédelmi létfontosságú rendszerelem vonatkozásában a honvédelemért felelős miniszter által kijelölt ügyeleti szolgálatot is haladéktalanul értesíti.
 
 (12) Az üzemeltetői biztonsági terv és mellékletei, vagy az azokat helyettesítő biztonsági dokumentum nem nyilvános.
 
