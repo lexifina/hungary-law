@@ -1,0 +1,7 @@
+# 2021. évi CXLIV. törvény a Földmegfigyelési Információs Rendszerről, valamint ezzel összefüggésben egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-144-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2022-01-01 | 2021. évi CXLIV. törvény | 2021-144-00-00.0 (közlönyállapot) |
