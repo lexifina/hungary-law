@@ -6,7 +6,7 @@ b)
 
 c)
 
-d)
+d) 5. § (3) bekezdése,
 
 e)
 
