@@ -46,7 +46,13 @@ a) a kedvezményre jogosító valamennyi gyermek nevét, adóazonosító jelét 
 
 b) az Szja tv. 29/D. § (2) bekezdés szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
 
-8. a 6. és 7. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
+7b. a természetes személy tekintetében az Szja tv. 29/F. §-a szerinti kedvezmény érvényesítéséhez szükséges következő adatokat:
+
+a) a születési idejét,
+
+b) az Szja tv. 29/F. § (2) bekezdése szerint a kedvezmény alapját képező jövedelmeket jogcímenként,
+
+8. a 6–7b. pont szerinti kedvezmény esetében a változás bekövetkezésének időpontját, ha a természetes személy az adóelőleg-nyilatkozat tartalmát érintő változás miatt új nyilatkozatot ad a munkáltató, kifizető részére,
 
 9. a társadalombiztosítási járulék alapját képező jövedelmet, a társadalombiztosítási járulék-köteles jutalom összegét, illetve a levont társadalombiztosítási járulék összegét,
 
@@ -85,6 +91,10 @@ c) amely után az egyéni vállalkozó e minőségében adóköteles,
 d) amelyet az ingó vagyontárgy, ingatlan, vagyoni értékű jog átruházása ellenében nem árverés és nem aukció során kap a természetes személy,
 
 e) amely után az adó megfizetése a kifizetőt terheli,
+
+22a. a természetes személynek kifizetett (juttatott) az Európai Gazdasági Térség bármely tagállamában működő, a tőkepiacról szóló törvény szerint elismert (szabályozott) piacnak minősülő tőzsdére bevezetett értékpapírnak az adott tagállam joga szerint osztaléknak, osztalékelőlegnek minősülő hozamát,
+
+22b. a szociális hozzájárulási adóról szóló 2018. évi LII. törvény 1. § (5) bekezdés a)–d) pontjában nevesített külön adózó jövedelmek címén a természetes személynek kifizetett (juttatott) bevétel esetén az arra vonatkozó adatot, hogy e személy a Tbj. szerint külföldinek minősül-e,
 
 23. a természetes személlyel elszámolandó adókülönbözetet,
 

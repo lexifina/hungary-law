@@ -5,3 +5,5 @@
 (2) A Módtv7.-tel megállapított 124. § (1a) bekezdését a Módtv7. hatálybalépését megelőzően tett bejelentések adatai és az e bejelentések alapján képzett EKAER számok tekintetében is alkalmazni kell, azzal, hogy az adatkezelési határidő kezdő időpontjának a bejelentés időpontja minősül.
 
 (3) A Nemzeti Adó- és Vámhivatalnál 2021. szeptember 30-án folyamatban lévő szokásos piaci ár megállapítására irányuló eljárásokat 2021. október 1-jétől az adópolitikáért felelős miniszter folytatja le.
+
+(4) A Módtv7-tel megállapított 3. melléklet I. 4. pontját a hatálybalépést megelőzően az állami adó- és vámhatóság által megállapított, de a hatálybalépést követően esedékessé váló kötelezettségek megfizetésére, valamint a 2022. január 1-jét követően indult eljárásokban és az ugyanezen időpontot követően megkezdett megismételt eljárásokban kell alkalmazni.
