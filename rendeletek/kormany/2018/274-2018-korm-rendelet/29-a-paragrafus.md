@@ -1,25 +1,22 @@
-## 29. §[^38] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
+## 29. §[^44] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
 
-## 15/A. [^39] A Lebonyolító tájékoztatója a részletvétel egyéb szabályairól
+## 15/A. [^45] Tájékoztató a részletvétel egyéb szabályairól
 
-29/A. § (1)[^40] A Lebonyolító a részletvételi jogviszony keretében meghatározza
+29/A. § (1) Az e rendelet szerinti, a Lebonyolítót és az MR Közösségi Lakásalap NKft.-t önállóan ellátandó feladatok során a Lebonyolító és az MR Közösségi Lakásalap NKft. egymással egyeztetve a részletvételi jogviszonyra vonatkozóan tájékoztatót (ezen alcím alkalmazásában a továbbiakban: tájékoztató) készít, amelyben meghatározza
 
-a) a havonta fizetendő részletek esedékességének napját,
+a) a Lebonyolító részére havonta fizetendő részletek esedékességének napját,
 
-b) a havi részletek teljesítésének feltételeit, elszámolásának rendjét,
+b) a havonta fizetendő részletek teljesítésének feltételeit, elszámolásának rendjét,
 
 c) a vételár előteljesítésének feltételeit, elszámolásának rendjét,
 
-d) a 9. § szerinti egyösszegű esedékesség beállta esetén a részletvevőnek szóló fizetési felszólítás megküldésének rendjét,
+d) a 9. § szerinti egyösszegű esedékesség beállta esetén a részletvevőnek szóló fizetési felszólítás megküldésének rendjét és
 
-e) a részletvevő és a Nemzeti Eszközkezelő közötti kapcsolattartás formáját és rendjét.
+e) a részletvevő és a Lebonyolító, illetve az MR Közösségi Lakásalap NKft. közötti kapcsolattartás formáját és rendjét.
 
-(2)[^41] A Lebonyolító az (1) bekezdés a)–e) pontja tekintetében a részletvevőknek szóló tájékoztatót (ezen alcím vonatkozásában a továbbiakban: tájékoztató) küld az ingatlan címére, valamint a tájékoztatót közzéteszi a honlapján.
+(2) Az MR Közösségi Lakásalap NKft. az (1) bekezdés szerinti tájékoztatót megküldi a részletvétellel érintett ingatlan címére, valamint a tájékoztatót közzéteszi a honlapján.
 
-(3)[^42] A Lebonyolító a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Lebonyolító jogosult a tájékoztató egyoldalú, a részletvevők érdekeit figyelembe vevő módosítására.
+(3) A Lebonyolító és az MR Közösségi Lakásalap NKft. a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Lebonyolító és az MR Közösségi Lakásalap NKft. jogosult a tájékoztató egyoldalú módosítására a részletvevők érdekeinek figyelembe vétele mellett.
 
-[^38]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^39]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, az alcím címe a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^40]: A 29/A. § (1) bekezdés nyitó szövegrésze a 373/2020. (VII. 30.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
-[^41]: A 29/A. § (2) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^42]: A 29/A. § (3) bekezdése a 373/2020. (VII. 30.) Korm. rendelet 22. § f) pontja szerint módosított szöveg.
+[^44]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^45]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.

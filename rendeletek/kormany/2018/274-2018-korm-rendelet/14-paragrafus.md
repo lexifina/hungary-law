@@ -1,5 +1,3 @@
-## 13. §
+## 13. §[^27]
 
-## 8.[^20]
-
-[^20]: A 8. alcímet (14. §) a 34. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^27]: A 13. § a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.

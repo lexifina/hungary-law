@@ -1,30 +1,23 @@
-## 9. §[^17] Ha a részletvevő a részletfizetés során hathavi késedelembe esik, a vételár hátralévő részének megfizetése egyösszegben esedékessé válik, amelynek megfizetése érdekében a Lebonyolító intézkedik.
+## IV. Fejezet[^23]
 
-## IV. Fejezet[^18]
+## 6.
 
-## A LAKÁSBÉRLETI JOGVISZONY ÉS A TÖRVÉNY 8. § (1) BEKEZDÉSE ÉS
+## 7.
 
-## 13. § (4) BEKEZDÉSE SZERINTI NYILATKOZATOT TEVŐ BÉRLŐ LAKÁSBÉRLETI JOGVISZONYÁNAK SZABÁLYAI
+## 8.
 
-## 6. A bérlő által fizetendő lakbér mértéke
+## V. Fejezet[^24]
 
-10. § (1) A lakóingatlan esetében a lakbér egy naptári hónapra számított mértéke a lakásbérleti szerződés megkötésének évében a jelzáloghitel-szerződés megkötésekor megállapított forgalmi érték 1,5%-ának egytizenketted része.
+## VI. Fejezet[^25]
 
-(2) A lakbér egy naptári hónapra számított mértéke
+## EGYES FELADATOK ELLÁTÁSÁRA KIZÁRÓLAGOS JOG ALAPJÁN TÖRTÉNŐ KIJELÖLÉS
 
-a) azon tartalék ingatlan esetében, amely a lakóingatlanra vonatkozó lakásbérleti jogviszony megszűnésével vált tartalék ingatlanná, a lakásbérleti jogviszony megszűnésének napján érvényes lakbér mértéke;
+10. § (1) Az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény (a továbbiakban: Karitatív tv.) 1. § (1)–(3) bekezdésében megjelölt ingatlanok vonatkozásában a lakások és helyiségek bérletére, valamint az elidegenítésükre vonatkozó egyes szabályokról szóló 1993. évi LXXVIII. törvény (a továbbiakban: Lakástörvény) 10. § (1) bekezdésében meghatározott feladatait, valamint a 2. mellékletben felsorolt feladatokat kizárólagos jog alapján 2022. december 31. napjáig a KIVING Ingatlangazdálkodó és Beruházásszervező Korlátolt Felelősségű Társaság (a továbbiakban: Kijelölt Szolgáltató) látja el.
 
-b) az a) pont hatálya alá nem tartozó tartalék ingatlan esetében az 1. melléklet alapján meghatározott összeg, amelyen felül a lakbér részét képezi a bérbeadó által meghatározott üzemeltetési költség is, ha a tartalék ingatlan önállóan bérbe adható lakrészekből és közös használatú helyiségekből áll.
+(2) A Kijelölt Szolgáltató feladatát az MR Lakásalap Nkft.-vel kötött, az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozatnak megfelelő szolgáltatási szerződés alapján látja el. A szolgáltatási szerződésben meghatározásra kerül az (1) bekezdés alapján kötelezően ellátandó feladatok köre, az ellátásukra vonatkozó részletes rendelkezések és a szolgáltatás ellenértéke.
 
-(3) A bérbeadó a lakásbérleti szerződésben a lakbér (1) és (2) bekezdés szerinti összegét
+(3) A Kijelölt Szolgáltató a feladatot közszolgáltatás keretében látja el.
 
-a) a lakásbérleti szerződés megkötését követő év március 1. napjától,
-
-b) a 11. § (1) bekezdése szerinti lakásbérleti szerződés esetén – ha azt a tárgyév március 1. napja előtt kötötték – a tárgyév március 1. napjától
-
-## évente a Központi Statisztikai Hivatal honlapján közzétett előző évi éves átlagos fogyasztói árindex mértékével megegyező mértékben növeli.
-
-(4) A megváltozott lakbér összegét a bérbeadó minden év február 28-ig írásban közli a bérlővel.
-
-[^17]: A 9. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^18]: A IV. fejezet címe a 373/2020. (VII. 30.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^23]: A IV. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^24]: Az V. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^25]: A VI. fejezet (10–11. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.

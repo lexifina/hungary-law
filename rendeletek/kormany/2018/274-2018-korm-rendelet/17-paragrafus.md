@@ -1,5 +1,6 @@
-## VI. Fejezet
+## 16. §[^30]
 
-## A IV. ÉS V. FEJEZET HATÁLYA ALÁ TARTOZÓ LAKÁSBÉRLETI JOGVISZONY KÖZÖS SZABÁLYAI
+## 9.[^31]
 
-## 9. A lakásbérleti szerződés bérbeadó általi felmondására vonatkozó rendelkezések
+[^30]: A 16. § a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.
+[^31]: A 9. alcím (17–20. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.

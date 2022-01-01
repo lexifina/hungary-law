@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-274-20-
 | 2020-08-13 | 2018-274-20-22.7 | 373/2020. (VII. 30.) Korm. rendelet |
 | 2020-10-31 | 2018-274-20-22.8 | 373/2020. (VII. 30.) Korm. rendelet |
 | 2021-06-30 | 2018-274-20-22.9 | 361/2021. (VI. 24.) Korm. rendelet |
+| 2022-01-01 | 2018-274-20-22.10 | 761/2021. (XII. 23.) Korm. rendelet |

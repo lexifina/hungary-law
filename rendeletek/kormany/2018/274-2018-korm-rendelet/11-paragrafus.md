@@ -1,3 +1,5 @@
-## 7.[^19]
+11. § (1) A Törvényből és a 10. § (1) bekezdésében megjelölt ingatlanokhoz kapcsolódó bérleti jogviszonyokból eredő követelések számlázásával és az érintettek tömeges értesítésével kapcsolatos feladatokat kizárólagos jog alapján 2022. június 30. napjáig a Díjbeszedő Holding Zártkörűen Működő Részvénytársaság (a továbbiakban: Díjbeszedő Holding Zrt.) látja el.
 
-[^19]: A 7. alcímet (11–13. §) a 34. § (2) bekezdés a) pontja hatályon kívül helyezte.
+(2) A Díjbeszedő Holding Zrt. által ellátandó feladatok körét a 3. melléklet határozza meg.
+
+(3) A Díjbeszedő Holding Zrt. feladatát külön a Lebonyolítóval és külön az MR Lakásalap Nkft.-vel kötött, az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozatnak megfelelő szolgáltatási szerződések alapján látja el. A szolgáltatási szerződésekben meghatározásra kerülnek az (1) bekezdés alapján kötelezően ellátandó feladatok ellátására vonatkozó részletes rendelkezések és a szolgáltatás ellenértéke.
