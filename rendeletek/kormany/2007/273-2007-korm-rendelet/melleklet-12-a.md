@@ -12,9 +12,9 @@
 
 ## e) a kérelmező VET 24. § (2) bekezdésében meghatározott belső szabályzatának tervezete,
 
-## f)[^529]
+## f)[^571]
 
-## g)[^530] mindazon személyeknek, akik a tanúsítási eljárás lefolytatására irányuló kérelemhez csatolt iratokat aláírták
+## g)[^572] mindazon személyeknek, akik a tanúsítási eljárás lefolytatására irányuló kérelemhez csatolt iratokat aláírták
 
 ## ga) a közjegyző által hitelesített aláírási címpéldánya,
 
@@ -36,7 +36,7 @@
 
 ## e) rendelkezik-e a VET és a felhatalmazása alapján kiadott külön jogszabályok szerinti kötelezettségei teljesítéséhez szükséges műszaki és tárgyi eszközökkel, valamint személyi és pénzügyi erőforrásokkal, továbbá ezen eszközök és erőforrások bemutatása,
 
-## f) rendelkezik-e az átviteli hálózat és a napi átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával, a rendszer- és üzemirányítási, mérés-elszámolási és informatikai eszközökkel, továbbá az átviteli hálózat vezetékeinek, transzformátorállomásainak, kapcsoló és egyéb átalakító berendezéseinek bemutatása és térképi megjelenítése,
+## f)[^573] rendelkezik-e az átviteli hálózat és a napi átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával, a rendszer- és üzemirányítási, mérés-elszámolási és informatikai berendezésekkel, továbbá az átviteli hálózat vezetékeinek, transzformátorállomásainak, kapcsoló és egyéb átalakító berendezéseinek bemutatása és térképi megjelenítése,
 
 ## g) rendelkezik-e a napi átviteli rendszerirányítási tevékenység ellátásához és a vállalati jogi, könyvvezetési, valamint informatikai szolgáltatásainak biztosításához szükséges, saját alkalmazásában álló személyzettel, továbbá a személyzet bemutatása (név, beosztás, végzettség, szakmai tapasztalat),
 
@@ -80,7 +80,7 @@
 
 ## 1. A kérelmező nyilatkozata arra vonatkozóan, hogy
 
-## a) rendelkezik-e az átviteli hálózat és az átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával, a rendszer- és üzemirányítási, mérés-elszámolási és informatikai eszközökkel, és a nyilatkozat alátámasztásaként az átviteli hálózat vezetékeinek, transzformátorállomásainak, kapcsoló és egyéb átalakító berendezéseinek bemutatása és térképi megjelenítése,
+## a)[^574] rendelkezik-e az átviteli hálózat és az átviteli tevékenység végzéséhez szükséges valamennyi eszköz tulajdonjogával, a rendszer- és üzemirányítási, mérés-elszámolási és informatikai berendezésekkel, és a nyilatkozat alátámasztásaként az átviteli hálózat vezetékeinek, transzformátorállomásainak, kapcsoló és egyéb átalakító berendezéseinek bemutatása és térképi megjelenítése,
 
 ## b) része-e vertikálisan integrált villamosenergia-ipari vállalkozásnak vagy a földgázellátásról szóló törvény szerinti vertikálisan integrált földgázipari vállalkozásnak, továbbá a kérelmező és kapcsolt vállalkozásai termelőben vagy villamosenergia-kereskedőben, illetve a földgázellátásról szóló törvény szerinti földgáztermelőben vagy kereskedőben lévő befektetéseinek és részesedéseinek bemutatása,
 
@@ -102,7 +102,7 @@
 
 ## c) rendelkezik-e a VET és a felhatalmazása alapján kiadott külön jogszabályok szerinti kötelezettségei teljesítéséhez szükséges műszaki és tárgyi eszközökkel, valamint személyi és pénzügyi erőforrásokkal, továbbá ezen eszközök és erőforrások bemutatása,
 
-## d) rendelkezik-e az átviteli hálózat és a napi átviteli tevékenység végzéséhez szükséges valamennyi eszköz használati jogával, a rendszer- és üzemirányítási, mérés-elszámolási és informatikai eszközökkel, és az átviteli hálózat vezetékeinek, transzformátorállomásainak, kapcsoló és egyéb átalakító berendezéseinek bemutatása az eszközök tulajdonosainak megjelölésével és az eszközök térképi megjelenítése; továbbá mellékelni kell az átviteli hálózat tulajdonosával erre vonatkozólag kötött megállapodás másolatát, és
+## d)[^575] rendelkezik-e az átviteli hálózat és a napi átviteli tevékenység végzéséhez szükséges valamennyi eszköz használati jogával, a rendszer- és üzemirányítási, mérés-elszámolási és informatikai berendezésekkel, és az átviteli hálózat vezetékeinek, transzformátorállomásainak, kapcsoló és egyéb átalakító berendezéseinek bemutatása az eszközök tulajdonosainak megjelölésével és az eszközök térképi megjelenítése; továbbá mellékelni kell az átviteli hálózat tulajdonosával erre vonatkozólag kötött megállapodás másolatát, és
 
 ## e) az adminisztratív és informatikai szolgáltatások kivételével igénybe vesz-e további szolgáltatásokat olyan harmadik személyektől, akik az átviteli hálózat tulajdonosa számára is nyújtanak szolgáltatást, továbbá mellékelni kell a harmadik személyektől igénybevett adminisztratív és informatikai szolgáltatások felsorolását a szolgáltatás tárgya, ellenértéke, a szolgáltató neve és címe megjelölésével.
 
@@ -126,7 +126,7 @@
 
 ## b) az átviteli hálózat tulajdonosában operatív irányítást ellátó személy munkaszerződésében vagy munkavégzésre irányuló egyéb jogviszonyát szabályozó szerződésében meghatározott jogai és kötelezettségei, munkabére és egyéb juttatásai, munkavégzésének feltételei és szakmai érdekei oly módon kerültek-e megállapításra, hogy feladatai ellátása során biztosítsák számára a független cselekvés lehetőségét.
 
-12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^531]
+12/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^576]
 
 Átviteli rendszerirányításra vonatkozó működési engedély kérelemhez benyújtandó dokumentumok
 
@@ -152,6 +152,9 @@ b) az átviteli hálózat és az elosztók hálózatai között,
 
 9. a kérelmező és a villamosenergia-rendszer azon résztvevői közötti szerződések, üzemviteli megállapodások, akik az átviteli rendszerirányító utasításait a villamosenergia-ellátási szabályzatnak megfelelően kötelesek végrehajtani.
 
-[^529]: A Vhr. 12. számú melléklet I. pont f) alpontját a 457/2017. (XII. 28.) Korm. rendelet 199. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^530]: A Vhr. 12. számú melléklet I. g) pontja a 393/2017. (XII. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^531]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^571]: A Vhr. 12. számú melléklet I. pont f) alpontját a 457/2017. (XII. 28.) Korm. rendelet 199. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^572]: A Vhr. 12. számú melléklet I. g) pontja a 393/2017. (XII. 13.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^573]: A Vhr. 12. számú melléklet II. bekezdés 1. pont f) alpontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
+[^574]: A Vhr. 12. számú melléklet III. bekezdés 1. pont f) alpontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
+[^575]: A Vhr. 12. számú melléklet IV. bekezdés 1. pont d) alpontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 24. pontja szerint módosított szöveg.
+[^576]: A Vhr. 12/a. számú mellékletét a 75/2011. (V. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.

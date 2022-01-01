@@ -1,4 +1,4 @@
-## A szaktanácsadónak a fentiek alapján jelentést kell kibocsátania, amely részletesen ismerteti az üzleti terv megalapozottságát és a fentiekben említett összes kérdéskörre kiterjed. A jelentésnek ismertetnie kell és el kell magyaráznia a szaktanácsadó által végzett munkát, a vizsgálat mélységét, és bizonyosságot kell adnia az üzleti terv megalapozottságáról vagy nem megfelelő voltáról. A jelentésnek alá kell támasztania a modellben és az üzleti tervben alkalmazott módszertant és le kell írnia, hogy az alkalmazott pénzügyi technikák megfeleltek-e.
+## A független gazdasági szakértőnek a fentiek alapján jelentést kell kibocsátania, amely részletesen ismerteti az üzleti terv megalapozottságát és a fentiekben említett összes kérdéskörre kiterjed. A jelentésnek ismertetnie kell és el kell magyaráznia a független gazdasági szakértő által végzett munkát, a vizsgálat mélységét, és bizonyosságot kell adnia az üzleti terv megalapozottságáról vagy nem megfelelő voltáról. A jelentésnek alá kell támasztania a modellben és az üzleti tervben alkalmazott módszertant és le kell írnia, hogy az alkalmazott pénzügyi technikák megfeleltek-e.
 
 ## A vásárló által adott szándéknyilatkozat (ha van).
 
@@ -18,7 +18,7 @@
 
 19. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Erőmű létesítésére, bővítésére és névleges teljesítőképességének növelésére irányuló kérelemhez csatolandó megvalósíthatósági tanulmány kötelező tartalmi elemei[^541]
+Erőmű létesítésére, bővítésére és névleges teljesítőképességének növelésére irányuló kérelemhez csatolandó megvalósíthatósági tanulmány kötelező tartalmi elemei[^591]
 
 1. A tanulmány összefoglalása.
 
@@ -94,56 +94,4 @@ Erőmű létesítésére, bővítésére és névleges teljesítőképességéne
 
 – a részletes környezeti, illetve örökségvédelmi hatástanulmány elkészítéséhez szükséges, a létesítmény technológiájából származó adatok rendszerezett összefoglalása.
 
-7. Üzemeltetési stratégia és energetikai alapadatok:
-
-– az erőmű tervezett élettartama,
-
-– az erőmű kapacitás adatai,
-
-– az erőmű megbízhatósága, a karbantartás koncepciója,
-
-– a szolgáltatható villamos energia és hőenergia mennyisége, elkülönítve a kényszer menetrendben és a szabadon kiadható villamos energia mennyiségét,
-
-– az erőmű tervezett szabályozhatósága, üzemviteli jellemzői (pl. indítás, leállítás időszükséglete, szabályozási tartomány, fel-, illetve leterhelés sebessége).
-
-8. Hatásfok:
-
-– számítás bemutatása.
-
-9. Megvalósítási ütemterv:
-
-– az ütemtervnek fel kell ölelni az engedélyezés, az előkészítés, a kivitelezés, valamint az üzembe helyezés főbb fázisait és azok időigényét fő egységekre.
-
-10. Beruházási, üzemeltetési költségek:
-
-– az üzleti terv megalapozásához szükséges mélységben.
-
-11. A berendezések beszerzésének koncepciója:
-
-– a berendezések ismertetése,
-
-– a berendezések szállítói kiválasztásának módszere,
-
-– hazai beszállítási lehetőségek.
-
-12. A beruházás és üzemeltetés szervezése:
-
-– a beruházás irányításának szervezeti rendje,
-
-– üzemeltetés létszámigénye,
-
-– szakképzettségi előírások teljesítése.
-
-13. Minőségbiztosítás:
-
-– koncepció,
-
-– előzetes ismertetést kell adni az előkészítésben, megvalósításban, üzemeltetésben, karbantartásban részt vevő szervek minősítési eljárásáról.
-
-14. Megállapítások, következtetések:
-
-– a tanulmányban foglaltak rövid összefoglalása a fejezetek szerinti sorrendben,
-
-– a további előkészítési fázisokban különös figyelmet érdemlő területek felsorolása.
-
-[^541]: A Vhr. 19. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
+[^591]: A Vhr. 19. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.

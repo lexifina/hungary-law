@@ -1,3 +1,5 @@
-125. §[^425]
+125. §[^452] (1) Az a felhasználó, aki az egyes energetikai tárgyú jogszabályok módosításáról szóló 787/2021. (XII. 27.) Korm. rendelet (a továbbiakban: MódKr.) hatálybalépésekor profil alapú elszámolás alapján vételez villamos energiát, jogosult 2023. december 31. napjáig profil alapú elszámolás alapján villamos energiát vételezni, kivéve, ha kéri az idősoros elszámolását és rendelkezik az ilyen mérésre alkalmas fogyasztásmérővel.
 
-[^425]: A Vhr. 125. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte.
+(2) Az a felhasználó, akinek a részére az elosztó a MódKr. hatálybalépését követően a 14/B. § alapján okosmérőt szerel fel, jogosult 2023. december 31. napjáig profil alapú elszámolásban vételezni, kivéve, ha a felhasználó kéri az idősoros elszámolását.
+
+[^452]: A Vhr. 125. §-át a 378/2011. (XII. 31.) Korm. rendelet 33. § (1) bekezdése hatályon kívül helyezte, újonnan a 787/2021. (XII. 27.) Korm. rendelet 20. §-a iktatta be.

@@ -8,16 +8,16 @@
 
 (5) Ha a háztartási méretű kiserőmű a csatlakozási ponton a közcélú hálózatba villamos energiát betáplál, akkor a háztartási méretű kiserőmű üzemeltetőjével, mint felhasználóval jogviszonyban álló villamosenergia-kereskedő, illetve egyetemes szolgáltató elszámolási időszakonként a hálózatba összesen betáplált és vételezett villamos energia vonatkozásában a felek megállapodása szerint havi, féléves vagy éves szaldó elszámolást alkalmaz.
 
-(5a)[^28] A villamosenergia-kereskedő a felhasználó kérésére olyan elszámolást alkalmaz, amelyben az alkalmazott elszámolási időszaktól függetlenül szaldó nem képezhető és a hálózatba betáplált és vételezett villamos energia mennyisége külön-külön kerül megállapításra.
+(5a)[^32] A villamosenergia-kereskedő a felhasználó kérésére olyan elszámolást alkalmaz, amelyben az alkalmazott elszámolási időszaktól függetlenül szaldó nem képezhető és a hálózatba betáplált és vételezett villamos energia mennyisége külön-külön kerül megállapításra.
 
-(6)[^29] Amennyiben az elszámolási időszak során a vételezett és betáplált villamosenergia-mennyiségek szaldója alapján az elosztó hálózatba történő villamos energia betáplálás áll fenn, a betáplált villamosenergia-teljesítményt a háztartási méretű kiserőmű üzemeltetőjével jogviszonyban álló villamosenergia-kereskedő által a részére – mint felhasználó részére – a villamosenergia-vásárlási szerződés alapján értékesített villamos energia átlagos termékárán kell elszámolni.
+(6)[^33] Amennyiben az elszámolási időszak során a vételezett és betáplált villamosenergia-mennyiségek szaldója alapján az elosztó hálózatba történő villamos energia betáplálás áll fenn, a betáplált villamosenergia-teljesítményt a háztartási méretű kiserőmű üzemeltetőjével jogviszonyban álló villamosenergia-kereskedő által a részére – mint felhasználó részére – a villamosenergia-vásárlási szerződés alapján értékesített villamos energia átlagos termékárán kell elszámolni.
 
 (7) A fogyasztásmérő berendezés költségeinek viselésére 3 x 16 A teljesítmény határig a felhasználókra, a felett az erőművekre vonatkozó szabályok alkalmazandók.
 
 (8) A háztartási kiserőművek csatlakoztatásával és üzemeltetésével kapcsolatos további szabályokat az ellátási szabályzatok és a hálózati engedélyesek üzletszabályzatai, a villamos energia értékesítés elszámolásával kapcsolatos további szabályokat a kereskedők üzletszabályzatai tartalmazzák.
 
-(9)[^30] Az (5) bekezdés szerinti megállapodás okosmérő esetén is irányadó.
+(9)[^34] Az (5) bekezdés szerinti megállapodás okosmérő esetén is irányadó.
 
-[^28]: A Vhr. 5. § (5a) bekezdését a 721/2020. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^29]: A Vhr. 5. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^30]: A Vhr. 5. § (9) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 6. §-a iktatta be.
+[^32]: A Vhr. 5. § (5a) bekezdését a 721/2020. (XII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^33]: A Vhr. 5. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^34]: A Vhr. 5. § (9) bekezdését a 401/2020. (VIII. 17.) Korm. rendelet 6. §-a iktatta be.

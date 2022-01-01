@@ -1,6 +1,6 @@
 ## (A VET 66/B. és 66/F. §-ához)
 
-## Az aggregálási szerződés és az aggregátorváltás[^219]
+## Az aggregálási szerződés és az aggregátorváltás[^238]
 
 39/A. § (1) Az aggregálási tevékenység folytatására irányuló szándékot a tevékenység megkezdését megelőzően legalább 75 nappal be kell jelenteni a Hivatalnak.
 
@@ -14,4 +14,4 @@
 
 (6) A Hivatal a nyilvántartásba vett aggregátorok listáját a honlapján közzéteszi.
 
-[^219]: A Vhr. „Az aggregálási szerződés és az aggregátorváltás” alcímét (39/A–39/B. §) és az azt megelőző törvényi hivatozást a 721/2020. (XII. 31.) Korm. rendelet 8. §-a iktatta be.
+[^238]: A Vhr. „Az aggregálási szerződés és az aggregátorváltás” alcímét (39/A–39/B. §) és az azt megelőző törvényi hivatozást a 721/2020. (XII. 31.) Korm. rendelet 8. §-a iktatta be.

@@ -46,25 +46,33 @@ A kiserőművi összevont engedély iránti kérelemhez benyújtandó dokumentum
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
-2. A hálózati engedélyessel kötött hálózati csatlakozási szerződés eredeti vagy annak hiteles másolati példánya,
+2.[^532] A kérelmező nevére szóló,
+
+2.1. a hálózati engedélyessel kötött hálózati csatlakozási szerződés egyszerű másolati példánya, vagy
+
+2.2. a hálózati engedélyessel kötött üzemviteli megállapodás egyszerű másolati példánya, amely tartalmazza
+
+a hálózati engedélyessel fennálló, a hálózat jogszerű használatára irányuló jogviszony igazolására vonatkozó,
+
+a villamos energia szabályzatokban meghatározott műszaki adatokat.
 
 3. A telephely adatai,
 
-4.[^503] Az erőmű élettartamának időtartamára szóló független szaktanácsadó által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
+4.[^533] Az erőmű élettartamának időtartamára szóló független gazdasági szakértő által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
 
-5.[^504] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
+5.[^534] A létesítés kezdetének várható időpontja és a kivitelezés tervezett határideje.
 
 6. Az üzembe helyezés várható időpontja,
 
 7. Kereskedelmi üzem kezdetének tervezett időpontja,
 
-8.[^505] Annak igazolása, hogy
+8.[^535] Annak igazolása, hogy
 
-8.1. a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges környezetvédelmi és építési engedéllyel vagy
+8.1.[^536] a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges építési engedéllyel és
 
-8.2. a tevékenység környezetvédelmi engedélyhez nem kötött.
+8.2.[^537] a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló végleges környezetvédelmi engedéllyel.
 
-9.[^506] Műszaki adatok:
+9.[^538] Műszaki adatok:
 
 9.1. Egyvonalas villamos kapcsolási rajz,
 
@@ -80,9 +88,13 @@ A kiserőművi összevont engedély iránti kérelemhez benyújtandó dokumentum
 
 9.7. csatlakozási pontok megnevezése, és
 
-9.8. a légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
+9.8.[^539] mérésponti azonosító(k), több mérési pont esetében egyértelműen összerendelve a gépegységekkel.
 
-[^503]: A Vhr. 4. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
-[^504]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^505]: A Vhr. 4. számú melléklet 8. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^506]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^532]: A Vhr. 4. számú melléklet 2. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
+[^533]: A Vhr. 4. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja, a 787/2021. (XII. 7.) Korm. rendelet 21. § 18. pontja szerint módosított szöveg.
+[^534]: A Vhr. 4. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^535]: A Vhr. 4. számú melléklet 8. pontja a 457/2017. (XII. 28.) Korm. rendelet 197. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^536]: A Vhr. 4. számú melléklet 8.1. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
+[^537]: A Vhr. 4. számú melléklet 8.2. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.
+[^538]: A Vhr. 4. számú melléklet 9. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
+[^539]: A Vhr. 4. számú melléklet 9.8. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § b) pontjával megállapított szöveg.

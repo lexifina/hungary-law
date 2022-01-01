@@ -1,6 +1,6 @@
 9. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szüneteltetett tevékenységének folytatására vonatkozó engedély iránti kérelméhez benyújtandó dokumentumok[^525]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szüneteltetett tevékenységének folytatására vonatkozó engedély iránti kérelméhez benyújtandó dokumentumok[^564]
 
 1. A szüneteltetési engedély száma, lejártának dátuma,
 
@@ -8,9 +8,9 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szünetel
 
 3. A telephely adatai,
 
-4.[^526] Az erőmű élettartamának időtartamára szóló független szaktanácsadó által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
+4.[^565] Az erőmű élettartamának időtartamára szóló független gazdasági szakértő által, a 18. számú melléklet szerint ellenőrzött üzleti terv,
 
-5.[^527] Műszaki adatok (amennyiben az engedélyezéshez benyújtottól eltér):
+5.[^566] Műszaki adatok (amennyiben az engedélyezéshez benyújtottól eltér):
 
 5.1. egyvonalas villamos kapcsolási rajz,
 
@@ -28,8 +28,9 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű szünetel
 
 5.8. csatlakozási pontok megnevezése és
 
-5.9. légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3).
+5.9.[^567]
 
-[^525]: A Vhr. 9. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdése szerint módosított szöveg.
-[^526]: A Vhr. 9. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
-[^527]: A Vhr. 9. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdésével megállapított szöveg.
+[^564]: A Vhr. 9. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdése szerint módosított szöveg.
+[^565]: A Vhr. 9. számú melléklet 4. pontja a 401/2020. (VIII. 17.) Korm. rendelet 15. § g) pontja, a 787/2021. (XII. 7.) Korm. rendelet 21. § 19. pontja szerint módosított szöveg.
+[^566]: A Vhr. 9. számú melléklet 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (8) bekezdésével megállapított szöveg.
+[^567]: A Vhr. 9. számú melléklet 5.9. pontját a 787/2021. (XII. 27.) Korm. rendelet 23. § e) pontja hatályon kívül helyezte.

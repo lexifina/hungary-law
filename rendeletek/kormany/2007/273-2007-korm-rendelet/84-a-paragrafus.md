@@ -1,34 +1,29 @@
-84/A. §[^322] (1) Az elosztó a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával szervezheti ki az elosztóhálózat építését, valamint az ügyfélszolgálati tevékenységét, ideértve a rendszerhasználókkal való kapcsolattartással, a számlakibocsátással és a számla ellenértékének beszedésével kapcsolatos tevékenységeket.
+84/A. §[^345] (1) Az elosztó a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával az alábbi tevékenységeket szervezheti ki:
 
-(2) Az elosztó nem kapcsolt vállalkozásához történő kiszervezés esetében – az (1) bekezdésben foglaltakon felül – a VET 178/L. §-a alapján a Hivatal előzetes jóváhagyásával az alábbi tevékenységeket szervezheti ki:
+a) elosztóhálózat építése,
 
-a) elosztóhálózat tervezése és azon tevékenységek, amelyek költségei a számvitelről szóló törvény (a továbbiakban: Szt.) szerint a beruházás értékében aktiválandók,
+b) ügyfélszolgálati tevékenység, ideértve a rendszerhasználókkal való kapcsolattartással, a számlakibocsátással és a számla ellenértékének beszedésével kapcsolatos tevékenységeket,
 
-b) építészeti műszaki ellenőri tevékenység, ide nem értve a villamos műszaki ellenőri tevékenységet,
+c) elosztóhálózat tervezése és azon tevékenységek, amelyek költségei a számvitelről szóló törvény (a továbbiakban: Szt.) szerint a beruházás értékében aktiválandók,
 
-c) környezetvédelmi szakértői szolgáltatások,
+d) építészeti műszaki ellenőri tevékenység, ide nem értve a villamos műszaki ellenőri tevékenységet,
 
-d) gallyazás és nyiladéktisztítás,
+e) környezetvédelmi szakértői szolgáltatások,
 
-e) műszaki és térképi nyilvántartási rendszer üzemeltetése,
+f) gallyazás és nyiladéktisztítás,
 
-f) korrózióvédelemmel összefüggő karbantartási feladatok,
+g) műszaki és térképi nyilvántartási rendszer üzemeltetése,
 
-g) a hálózati, távfelügyeleti, üzemi célú távközlési és alállomási eszközökkel kapcsolatos diagnosztikai és karbantartási szolgáltatás,
+h) korrózióvédelemmel összefüggő karbantartási feladatok,
 
-h) üzemeltetés és üzemzavar elhárítása céljából gépek, berendezések, járművek és szaktudás igénybevétele,
+i) a hálózati, távfelügyeleti, üzemi célú távközlési és alállomási eszközökkel kapcsolatos diagnosztikai és karbantartási szolgáltatás,
 
-i) csatlakozó berendezés és fogyasztásmérő-berendezés létesítése, ellenőrzése, cseréje, leszerelése és javítása, ki- és visszakapcsolása, valamint
+j) üzemeltetés és üzemzavar elhárítása céljából gépek, berendezések, járművek és szaktudás igénybevétele,
 
-j) rendszeres és rendkívüli mérőleolvasás.
+k) csatlakozó berendezés és fogyasztásmérő-berendezés létesítése, ellenőrzése, cseréje, leszerelése és javítása, ki- és visszakapcsolása, valamint
 
-(3)[^323] Az elosztó az (1) és a (2) bekezdésben foglalt tevékenységek mellett
+l) rendszeres és rendkívüli mérőleolvasás.
 
-a) más elosztótól vagy a földgázellátásról szóló törvény szerinti földgázelosztótól, a Hivatal által előzetesen jóváhagyott szerződés alapján, engedélyköteles tevékenységi körébe tartozó szolgáltatásokat,
+(2) Az elosztó az (1) bekezdésben foglalt tevékenységek mellett más elosztótól vagy a földgázellátásról szóló törvény szerinti földgázelosztótól, a Hivatal által előzetesen jóváhagyott szerződés alapján, engedélyköteles tevékenységi körébe tartozó szolgáltatásokat igénybe vehet.
 
-b) az (1) bekezdés szerinti, elosztóhálózat építését végző kapcsolt vállalkozásától üzemzavar-elhárítási szolgáltatást
-
-igénybe vehet.
-
-[^322]: A Vhr. 84/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^323]: A Vhr. 84/A. § (3) bekezdése a 110/2014. (IV. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^345]: A Vhr. 84/A. §-át a 300/2013. (VII. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 787/2021. (XII. 27.) Korm. rendelet 17. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 6. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működési engedély iránti kéreleméhez benyújtandó dokumentumok[^516]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működési engedély iránti kéreleméhez benyújtandó dokumentumok[^554]
 
 1. Az e rendelet 54. §-ában meghatározott adatok,
 
@@ -8,21 +8,31 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 3. Nyilatkozat arról, hogy a kérelmező rendelkezik környezeti károk megtérítését biztosító felelősségbiztosítással,
 
-4.[^517] Annak igazolása, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló, véglegessé vált
+4.[^555] Annak igazolása, hogy a kérelmező rendelkezik a tevékenység gyakorlásához szükséges, a kérelmező nevére szóló, véglegessé vált
 
 4.1. egységes környezethasználati engedéllyel vagy igazolással arról, hogy a tevékenység egységes környezethasználati engedélyhez nem kötött, valamint
 
 4.2. építési engedéllyel vagy az Atv. szerinti üzembe helyezési engedéllyel,
 
-5. A hálózati engedélyessel kötött hálózati csatlakozási szerződés eredeti vagy annak hiteles másolati példánya,
+5.[^556] A kérelmező nevére szóló
+
+5.1. a hálózati engedélyessel kötött hálózati csatlakozási szerződés egyszerű másolati példánya, vagy
+
+5.2. a hálózati engedélyessel kötött üzemviteli megállapodás egyszerű másolati példánya, amely tartalmazza
+
+a hálózati engedélyessel fennálló, a hálózat jogszerű használatára irányuló jogviszony igazolására vonatkozó
+
+a villamos energia szabályzatokban meghatározott műszaki adatokat,
 
 6. A telephely adatai,
 
-7. Tíz évre szóló független szaktanácsadó által ellenőrzött üzleti terv (az e rendelet 18. számú melléklete szerint),
+7.[^557] Az erőmű élettartamának időtartamára szóló, független gazdasági szakértő által ellenőrzött üzleti terv
+
+(e rendelet 18. számú melléklete szerint),
 
 8. A beruházás finanszírozásának bemutatása,
 
-9.[^518] Próbaüzem záró jegyzőkönyve vagy az Atv. szerinti üzembe helyezési engedély alapján az üzembe helyezési program sikeres végrehajtását igazoló jegyzőkönyv,
+9.[^558] Próbaüzem záró jegyzőkönyve vagy az Atv. szerinti üzembe helyezési engedély alapján az üzembe helyezési program sikeres végrehajtását igazoló jegyzőkönyv,
 
 10. Kereskedelmi üzem kezdetének tervezett időpontja,
 
@@ -34,7 +44,7 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 14. Ellenőrzött minőségbiztosítási rendszer bevezetésének ütemterve és határideje,
 
-15.[^519] Műszaki adatok:
+15.[^559] Műszaki adatok:
 
 15.1. egyvonalas villamos kapcsolási rajz,
 
@@ -52,11 +62,15 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű működé
 
 15.8. csatlakozási pontok megnevezése,
 
-15.9. a légszennyező pontforrás névleges teljesítőképességhez tartozó szén-monoxid, szén-dioxid, nitrogén-oxid, nitrogén-dioxid és kén dioxid kibocsátása (mg/m3) és
+15.9.[^560] mérésponti azonosító(k), több mérési pont esetében egyértelműen összerendelve a gépegységekkel és
 
-15.10. az erőmű(rész) tervezett maradó élettartama.
+15.10.[^561] az erőmű(rész) tervezett maradó élettartama (dátum).
 
-[^516]: A Vhr. 6. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdése szerint módosított szöveg.
-[^517]: A Vhr. 6. számú melléklet 4. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^518]: A Vhr. 6. számú melléklet 9. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^519]: A Vhr. 6. számú melléklet 15. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^554]: A Vhr. 6. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdése szerint módosított szöveg.
+[^555]: A Vhr. 6. számú melléklet 4. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^556]: A Vhr. 6. számú melléklet 5. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § d) pontjával megállapított szöveg.
+[^557]: A Vhr. 6. számú melléklet 7. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § d) pontjával megállapított szöveg.
+[^558]: A Vhr. 6. számú melléklet 9. pontja a 80/2019. (IV. 15.) Korm. rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^559]: A Vhr. 6. számú melléklet 15. pontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (6) bekezdésével megállapított szöveg.
+[^560]: A Vhr. 6. számú melléklet 15.9. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § d) pontjával megállapított szöveg.
+[^561]: A Vhr. 6. számú melléklet 15.10. pontja a 787/2021. (XII. 27.) Korm. rendelet 22. § d) pontjával megállapított szöveg.

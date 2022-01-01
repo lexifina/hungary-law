@@ -1,4 +1,8 @@
-88. §[^331] (1) A hálózati engedélyes a közreműködő kiválasztása és megbízása során – ha az nem tartozik a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) hatálya alá – a VET 24. § (2) bekezdésében meghatározott belső kiválasztási szabályzatában foglaltak szerint jár el.
+88. §[^354] (1)[^355] A hálózati engedélyes a közreműködő kiválasztása és megbízása során
+
+a) ha az nem tartozik a közbeszerzésekről szóló törvény (a továbbiakban: Kbt.) hatálya alá, a VET 24. § (2) bekezdésében meghatározott belső kiválasztási szabályzatában foglaltak szerint jár el, vagy
+
+b) ha az a Kbt. hatálya alá tartozik és a Kbt. alapján nem kell pályázatot alkalmazni, akkor a 84/A. § (1) bekezdés c) pontjában foglaltak beszerzése esetén a VET 24. § (2) bekezdésében meghatározott belső kiválasztási szabályzatában foglaltak szerint nyilvános pályázatot folytat le.
 
 (2) A hálózati engedélyes az (1) bekezdés szerinti belső kiválasztási szabályzatban szabályozza a kiválasztással és megbízással történő szolgáltatás beszerzésére – és a Hivatal hozzájáruló határozata alapján kiszervezett formában ellátott tevékenységekre – vonatkozó pályáztatási vagy versenyeztetési feltételeket. A kiválasztási szabályzat legalább az alábbiakat tartalmazza:
 
@@ -14,7 +18,8 @@ d) azon eljárásrendet és a feltételeket, amelyek szerint természetes szemé
 
 (4) A hálózati engedélyes köteles a módosításokkal egységes szerkezetbe foglalt, számozással ellátott belső kiválasztási szabályzatot időrendi sorrendben honlapján közzétenni.
 
-(5)[^332] A hálózati engedélyes a 84. § (3) bekezdés a) pontja és a 84/A. § szerint kiszervezett tevékenységek vonatkozásában köteles a VET 24. § (2) bekezdésben meghatározott kiválasztási eljárást legalább három évenként megismételni.
+(5)[^356] A hálózati engedélyes a 84. § (3) bekezdés a) pontja és a 84/A. § szerint kiszervezett tevékenységek vonatkozásában köteles a VET 24. § (2) bekezdésben meghatározott kiválasztási eljárást legalább három évenként megismételni.
 
-[^331]: A Vhr. 88. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^332]: A Vhr. 88. § (5) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^354]: A Vhr. 88. § a 75/2011. (V. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^355]: A Vhr. 88. (1) bekezdse a 787/2021. (XII. 27.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^356]: A Vhr. 88. § (5) bekezdése a 300/2013. (VII. 29.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

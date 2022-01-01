@@ -2,65 +2,69 @@
 
 ## Elsődleges energiaforrások különösen:
 
-## a) megújuló energiaforrás
+## 1. Szén (szénféleségek)
 
-## aa) nap,
+## 1.1. lignit
 
-## ab) szél,
+## 1.2. barnaszén
 
-## ac) geotermikus energia,
+## 1.3. feketeszén
 
-## ad) vízenergia,
+## 2. Olaj (folyékony kőolajszármazékok)
 
-## ae) biomassza
+## 2.1. tüzelőolaj és egyéb gázolaj
 
-## 1. növényi eredetű,
+## 2.2. fűtőolaj
 
-## 2. állati eredetű,
+## 2.3. egyéb folyékony kőolajszármazék
 
-## af) biomasszából közvetve vagy közvetlenül előállított energiaforrás,
+## 3. Gáz
 
-## ag)[^520] biogáz,
+## 3.1. földgáz
 
-## ah)[^521] hulladéklerakóból származó gáz,
+## 3.2. bányászati tevékenységből származó egyéb gáz
 
-## ai)[^522] szennyvízkezelő létesítményből származó gáz;
+## 3.3. mesterséges gáz
 
-## b) hulladékból nyert energia
+## 4. Megújuló energiaforrás
 
-## ba) hulladék gáz,
+## 4.1. vízenergia
 
-## bb) folyékony hulladék,
+## 4.2. szélenergia
 
-## bc) szilárd hulladék;
+## 4.3. napenergia
 
-## c) szén (szénféleségek)
+## 4.4. biomassza (szilárd bio-energiahordozó)
 
-## ca) lignitek,
+## 4.4.1. növényi eredetű biomassza (szilárd bio-energiahordozó)
 
-## cb) barnaszenek,
+## 4.4.2. állati eredetű biomassza (szilárd bio-energiahordozó)
 
-## cc) feketeszenek,
+## 4.5. folyékony bio-energiahordozó
 
-## cd) tőzeg;
+## 4.6. biogáz (gáznemű bio-energiahordozó)
 
-## d) olaj (olajtermékek)
+## 4.6.1. depóniagáz
 
-## da) kőolajszármazékok,
+## 4.6.2. szennyvíziszap-gáz
 
-## db) kőszénkátrány-származékok;
+## 4.6.3. egyéb biogáz
 
-## e) gáz
+## 4.7. geotermikus energia
 
-## ea) földgáz (megszakítható vagy folyamatos),
+## 5. Hulladék
 
-## eb)[^523] mesterséges gáznemű tüzelőanyagok (szénlepárlással vagy elgázosítással előállított);
+## 5.1. települési hulladék
 
-## f) nukleáris fűtőanyag.
+## 5.2. ipari hulladék
+
+## 6. Kémiai folyamatból származó hulladékhő
+
+## 7. Nukleáris energia”
 
 8. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok[^524]
+Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamosenergia-termelés szüneteltetésére vonatkozó engedély iránti kéreleméhez benyújtandó dokumentumok[^563]
 
 1. Az engedély száma, lejártának dátuma (erőmű maradék élettartama),
 
@@ -86,8 +90,4 @@ Az 50 MW vagy azt meghaladó névleges teljesítőképességű erőmű villamose
 
 – Megállapítások, következtetések.
 
-[^520]: A Vhr. 7. számú melléklet a) pont ag) alpontja a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével megállapított szöveg.
-[^521]: A Vhr. 7. számú melléklet a) pont ah) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
-[^522]: A Vhr. 7. számú melléklet a) pont ai) alpontját a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdése iktatta be.
-[^523]: [A Vhr. 7. számú melléklet e) pont ec) alpontjának a 378/2011. (XII. 31.) Korm. rendelet 31. § (7) bekezdésével beiktatott, a 85. § (3) bekezdése alapján az Európai Bizottság jóváhagyó határozatának meghozatalát követő 10. munkanaptól hatályos szövege: „ec) termálvíz kísérőgáz;.]
-[^524]: A Vhr. 8. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.
+[^563]: A Vhr. 8. számú melléklet címe a 378/2011. (XII. 31.) Korm. rendelet 32. § (8) bekezdése szerint módosított szöveg.

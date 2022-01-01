@@ -1,6 +1,6 @@
 ## (A VET 92–95. §-ához)
 
-## Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok[^318]
+## Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok[^341]
 
 83. § (1) A kérelmet
 
@@ -18,4 +18,4 @@ nyújtja be a Hivatalhoz.
 
 83/A. § A VET 93. §-a szerinti szavazati jogra, a közvetett befolyásra, a befolyásszerzés részletszabályaira, azok mértékének kiszámítására, valamint az összehangoltan eljáró személyekre a Tpt. rendelkezéseit kell megfelelően alkalmazni.
 
-[^318]: A Vhr. „Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok” alcíme (83. §) a 80/2019. (IV. 15.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^341]: A Vhr. „Cégjogi eseményekre, befolyásszerzésre vonatkozó közös szabályok” alcíme (83. §) a 80/2019. (IV. 15.) Korm. rendelet 12. §-ával megállapított szöveg.
