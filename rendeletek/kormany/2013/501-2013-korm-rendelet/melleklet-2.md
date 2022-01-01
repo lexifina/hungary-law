@@ -48,6 +48,6 @@
 
 | 23. | Melléklet (nyomtatott vagy digitális vagy önálló adathordozó) | 1 000 |
 
-2. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^55]
+2. melléklet az 501/2013. (XII. 29.) Korm. rendelethez[^51]
 
-[^55]: A 2. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (2) bekezdés iktatta be.
+[^51]: A 2. mellékletet a 308/2018. (XII. 27.) Korm. rendelet 4. § (2) bekezdés iktatta be.

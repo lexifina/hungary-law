@@ -1,6 +1,6 @@
 ## 9/I. § A tankönyvben feltüntetendő adatokat a hivatal a honlapján közzéteszi.
 
-9/J. § (1)[^28] Hatályát veszti a könyv tankönyvvé nyilvánításának engedélye, ha
+9/J. § (1)[^24] Hatályát veszti a könyv tankönyvvé nyilvánításának engedélye, ha
 
 a) a tankönyvvé nyilvánítás időbeli hatálya lejárt, és annak lejárta előtt legfeljebb százötven, de legalább százhúsz nappal a kiadó nem kérte a tankönyvvé nyilvánítás meghosszabbítását,
 
@@ -10,4 +10,4 @@ c) a tankönyvet tartalmában vagy kivitelében megváltoztatták – a 9/C. § 
 
 (2) A tankönyvvé nyilvánítás megszűnésének tényét a hivatal kérelem alapján vagy hivatalból állapítja meg.
 
-[^28]: A 9/J. § (1) bekezdés nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 93. § szerint módosított szöveg.
+[^24]: A 9/J. § (1) bekezdés nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 93. § szerint módosított szöveg.
