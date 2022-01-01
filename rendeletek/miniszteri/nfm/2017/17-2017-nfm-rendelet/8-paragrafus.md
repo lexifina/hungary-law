@@ -18,11 +18,12 @@ f) a beszerzési helyre
 
 (3) Amennyiben a forgalmazók csoportja együttesen tesz eleget a Büat. 10. § (1) bekezdés szerinti csökkentési kötelezettségnek, a forgalmazói csoport a Büat. 9. § (2) bekezdése szerinti kötelezettségének közös jelentés benyújtásával tesz eleget.
 
-(4) A kis- és középvállalkozásnak minősülő forgalmazó az 5. mellékletben meghatározott egyszerűsített módszert alkalmazza a jelentés elkészítéséhez.
+(4)[^7]
 
 (5) Az állami adó- és vámhatóság a forgalmazók által jelentett adatokat összesítve megküldi a miniszternek.
 
-(6)[^7] A miniszter a motorhajtóanyagok tekintetében a forgalmazók által az állami adó- és vámhatóságnak szolgáltatott, összesített adatokat szolgáltatja az Európai Bizottság számára az Európai Környezetvédelmi Ügynökség által rendelkezésre bocsátott ReportNet eszközök felhasználásával.
+(6)[^8] A miniszter a motorhajtóanyagok tekintetében a forgalmazók által az állami adó- és vámhatóságnak szolgáltatott, összesített adatokat szolgáltatja az Európai Bizottság számára az Európai Környezetvédelmi Ügynökség által rendelkezésre bocsátott ReportNet eszközök felhasználásával.
 
 [^6]: A 8. § (2) bekezdése a 61/2020. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.
-[^7]: A 8. § (6) bekezdése a 4/2018. (II. 8.) NFM rendelet 1. § b) pontja, a 61/2020. (XII. 30.) ITM rendelet 10. §-a szerint módosított szöveg.
+[^7]: A 8. § (4) bekezdését a 67/2021. (XII. 30.) ITM rendelet 7. § a) pontja hatályon kívül helyezte.
+[^8]: A 8. § (6) bekezdése a 4/2018. (II. 8.) NFM rendelet 1. § b) pontja, a 61/2020. (XII. 30.) ITM rendelet 10. §-a szerint módosított szöveg.

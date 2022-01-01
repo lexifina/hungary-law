@@ -104,71 +104,11 @@
 
 | 6 |  | Részösszeg |  |  |  |  |  |
 
-## 3. Származási hely – Egyedüli forgalmazó7
+## 3.
 
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
+## 4.
 
-| 1 | 1. bejegyzés | F.1 összetevő | 1. bejegyzés | F.n összetevő | k bejegyzés | F.1 összetevő | k bejegyzés | F.n összetevő |
-
-| 2 | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna |
-
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1 | 1. bejegyzés | B.1 összetevő | 1. bejegyzés | B.m összetevő | k bejegyzés | B.1 összetevő | k bejegyzés | B.m összetevő |
-
-| 2 | Biológiai folyamat | API-sűrűség3 | Tonna | Biológiai folyamat | API-sűrűség3 | Tonna | Biológiai folyamat | API-sűrűség3 | Tonna | Biológiai folyamat | API-sűrűség3 | Tonna |
-
-## 4. Származási hely – Közös forgalmazók7
-
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1 | 1. bejegyzés | F.1 összetevő | 1. bejegyzés | F.n összetevő | X bejegyzés | F.1 összetevő | X bejegyzés | F.n összetevő |
-
-| 2 | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna | Nyersanyag kereskedelmi neve | API-sűrűség3 | Tonna |
-
-|  | A | B | C | D | E | F | G | H | I | J | K | L |
-
-| 1 | 1. bejegyzés | B.1 összetevő | 1. bejegyzés | B.m összetevő | X bejegyzés | B.1 összetevő | X bejegyzés | B.m összetevő |
-
-| 2 | Biológiai folyamat | API-sűrűség3 | Tonna | Biológiai folyamat | API-sűrűség3 | Tonna | Biológiai folyamat | API-sűrűség3 | Tonna | Biológiai folyamat | API-sűrűség3 | Tonna |
-
-## 5. Beszerzési hely8
-
-|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N |
-
-| 1 | Bejegyzés | Összetevő | Kőolaj-finomítók/ feldolgozó- üzemek neve | Ország | Kőolaj-finomítók/ feldolgozó- üzemek neve | Ország | Kőolaj-finomítók/ feldolgozó- üzemek neve | Ország | Kőolaj-finomítók/ feldolgozó- üzemek neve | Ország | Kőolaj-finomítók/ feldolgozó- üzemek neve | Ország | Kőolaj-finomítók/ feldolgozó- üzemek neve | Ország |
-
-| 2 | 1 | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 3 | 1 | F.n |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 4 | 1 | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 5 | 1 | B.m |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 6 | k | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 7 | k | F.n |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 8 | k | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 9 | k | B.m |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 10 | l | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 11 | l | F.n |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 12 | l | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 13 | l | B.m |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 14 | X | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 15 | X | F.n |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 16 | X | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 17 | X | B.m |  |  |  |  |  |  |  |  |  |  |  |  |
+## 5.
 
 ## 6. Összes bejelentett energia és elért csökkentés tagállamonként
 
@@ -192,9 +132,9 @@
 
 ## 6. A motorhajtóanyag-típusok és a megfelelő KN-kódok az 5. melléklet I. rész 4.2. alpontjában vannak meghatározva.
 
-## 7. A származási hely az 5. melléklet II. rész 2. és 4. pontjában van meghatározva.
+## 7.
 
-## 8. A beszerzési hely az 5. melléklet II. rész 3. és 4. pontjában van meghatározva.
+## 8.
 
 ## 9. A fogyasztott energia (motorhajtóanyag) teljes mennyisége.
 
