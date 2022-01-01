@@ -1,0 +1,1 @@
+## „(1a) Ha az engedélyezési hatáskör az (1) bekezdés alapján nem állapítható meg, az ott meghatározott engedélyt az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve adja ki.”
