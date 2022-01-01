@@ -1,7 +1,11 @@
-## 1. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 9. §-a alkalmazásában egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni
+1. §[^2] (1) Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 9. §-a alkalmazásában egészségügyi szolgálati jogviszonyban töltött időnek kell tekinteni az Eszjtv. 8. § (9) bekezdés a)–l) pontja, valamint az Eszjtv. 8. § (9a) bekezdés c) és e) pontja szerinti jogviszonyban eltöltött időtartamot, függetlenül attól, hogy az adott jogviszony az Eszjtv. hatálybalépése előtt vagy azt követően jött létre.
 
-a) az Eszjtv. 8. § (9) bekezdése,
+(2) Az (1) bekezdés alkalmazásában az Eszjtv. hatálya alá tartozó egészségügyi szolgáltatónak minősülnek az alábbi szolgáltatók is:
 
-b) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet 4. § (3) bekezdése és
+a) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény részeként működő klinikai központ,
 
-c) az egyes, az egészségügyi szolgálati jogviszonnyal összefüggő veszélyhelyzeti szabályokról szóló 69/2021. (II. 19.) Korm. rendelet 16. § (5) bekezdése
+b) az egyházi jogi személy fenntartásában vagy tulajdonában álló egészségügyi szolgáltató az ezen egészségügyi szolgáltatónál foglalkoztatott egészségügyi dolgozó vonatkozásában,
+
+c) a többségi vagy kizárólagos állami vagy önkormányzati tulajdonban lévő gazdasági társaság.
+
+[^2]: Az 1. § a 819/2021. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## szerinti jogviszonyban eltöltött időtartamot is, függetlenül attól, hogy az adott jogviszony az Eszjtv. hatálybalépése előtt vagy azt követően jött létre.
-
 2. § (1) Ha az egészségügyi szolgálati jogviszonyban álló személynek az 1. § alapján figyelembe vehető időtartam alapján számított szolgálati ideje az egészségügyi szolgálati jogviszony létrejöttét követően elérte vagy meghaladta a szolgálati elismerésre jogosító – az Eszjtv. 9. § (2) bekezdésében meghatározott – időt, az egészségügyi szolgálati jogviszonyban álló személy – a (4), (6) és (7) bekezdésben foglaltak figyelembevételével – jogosult a szolgálati elismerésnek az így megállapított szolgálati idő szerinti fokozatára.
 
 (2) Az (1) bekezdés alkalmazása során nem vehető figyelembe az az időtartam, ami az egészségügyi szolgálati jogviszonyban álló személy fizetési fokozatának megállapításakor nem került figyelembevételre.
