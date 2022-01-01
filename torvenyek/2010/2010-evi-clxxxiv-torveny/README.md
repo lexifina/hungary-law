@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-184-00-00
 | 2020-01-01 | 2019. évi CXXVII. törvény | 2010-184-00-00.12 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2010-184-00-00.13 |
 | 2020-06-24 | 2020. évi LXIX. törvény | 2010-184-00-00.14 |
+| 2022-01-01 | 2019. évi CXXVII. törvény | 2010-184-00-00.15 |

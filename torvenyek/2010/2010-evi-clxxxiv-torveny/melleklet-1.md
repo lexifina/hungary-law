@@ -2,8 +2,6 @@
 
 A törvényszékek, valamint a járásbíróságok illetékességi területe
 
-A törvényszékek, valamint a járásbíróságok illetékességi területe
-
 |
 
 1. FŐVÁROSI TÖRVÉNYSZÉK (székhelye: Budapest)
@@ -1508,6 +1506,8 @@ Városföld
 
 |
 
+|
+
 3/2. Bajai Járásbíróság
 
 |
@@ -1908,6 +1908,8 @@ Zsana
 
 |
 
+|
+
 Apostag
 
 |
@@ -2277,8 +2279,6 @@ Kondoros
 |
 
 Szarvas
-
-|
 
 |
 
@@ -4544,6 +4544,8 @@ Rácalmás
 
 |
 
+|
+
 7/4. Sárbogárdi Járásbíróság
 
 |
@@ -4610,10 +4612,6 @@ Abda
 
 |
 
-Acsalag
-
-|
-
 Árpás
 
 |
@@ -4630,23 +4628,7 @@ Bakonyszentlászló
 
 |
 
-Barbacs
-
-|
-
-Bágyogszovát
-
-|
-
 Bezi
-
-|
-
-Bodonhely
-
-|
-
-Bogyoszló
 
 |
 
@@ -4658,23 +4640,7 @@ Börcs
 
 |
 
-Bősárkány
-
-|
-
-Cakóháza
-
-|
-
 Csikvánd
-
-|
-
-Csorna
-
-|
-
-Dör
 
 |
 
@@ -4686,19 +4652,11 @@ Dunaszentpál
 
 |
 
-Egyed
-
-|
-
-Enese
-
-|
-
 Écs
 
 |
 
-Farád
+Enese
 
 |
 
@@ -4766,10 +4724,6 @@ Ikrény
 
 |
 
-Jobaháza
-
-|
-
 Kajárpéc
 
 |
@@ -4786,10 +4740,6 @@ Koroncó
 
 |
 
-Kóny
-
-|
-
 Kunsziget
 
 |
@@ -4798,23 +4748,11 @@ Lázi
 
 |
 
-Maglóca
-
-|
-
-Magyarkeresztúr
-
-|
-
-Markotabödöge
+Mérges
 
 |
 
 Mezőőrs
-
-|
-
-Mérges
 
 |
 
@@ -4850,31 +4788,11 @@ Pannonhalma
 
 |
 
-Páli
-
-|
-
-Pásztori
-
-|
-
 Pázmándfalu
 
 |
 
 Pér
-
-|
-
-Potyond
-
-|
-
-Ravazd
-
-|
-
-Rábacsanak
 
 |
 
@@ -4886,18 +4804,6 @@ Rábapatona
 
 |
 
-Rábapordány
-
-|
-
-Rábasebes
-
-|
-
-Rábaszentandrás
-
-|
-
 Rábaszentmihály
 
 |
@@ -4906,11 +4812,7 @@ Rábaszentmiklós
 
 |
 
-Rábatamási
-
-|
-
-Rábcakapi
+Ravazd
 
 |
 
@@ -4926,35 +4828,11 @@ Sikátor
 
 |
 
-Sobor
-
-|
-
 Sokorópátka
 
 |
 
-Sopronnémeti
-
-|
-
-Szany
-
-|
-
 Szerecseny
-
-|
-
-Szil
-
-|
-
-Szilsárkány
-
-|
-
-Tarjánpuszta
 
 |
 
@@ -4966,7 +4844,7 @@ Tápszentmiklós
 
 |
 
-Tárnokréti
+Tarjánpuszta
 
 |
 
@@ -4982,15 +4860,7 @@ Töltéstava
 
 |
 
-Vág
-
-|
-
 Vámosszabadi
-
-|
-
-Veszprémvarsány
 
 |
 
@@ -4998,7 +4868,7 @@ Vének
 
 |
 
-Zsebeháza
+Veszprémvarsány
 
 |
 
@@ -5122,27 +4992,7 @@ Várbalog
 
 |
 
-Agyagosszergény
-
-|
-
 Ágfalva
-
-|
-
-Babót
-
-|
-
-Beled
-
-|
-
-Cirák
-
-|
-
-Csapod
 
 |
 
@@ -5150,19 +5000,15 @@ Csáfordjánosfa
 
 |
 
+Csapod
+
+|
+
 Csér
 
 |
 
-Dénesfa
-
-|
-
 Ebergőc
-
-|
-
-Edve
 
 |
 
@@ -5202,10 +5048,6 @@ Gyalóka
 
 |
 
-Gyóró
-
-|
-
 Harka
 
 |
@@ -5218,23 +5060,7 @@ Hidegség
 
 |
 
-Himod
-
-|
-
-Hövej
-
-|
-
 Iván
-
-|
-
-Kapuvár
-
-|
-
-Kisfalud
 
 |
 
@@ -5243,10 +5069,6 @@ Kópháza
 |
 
 Lövő
-
-|
-
-Mihályi
 
 |
 
@@ -5259,10 +5081,6 @@ Nagylózs
 |
 
 Nemeskér
-
-|
-
-Osli
 
 |
 
@@ -5279,14 +5097,6 @@ Pinnye
 |
 
 Pusztacsalád
-
-|
-
-Rábakecöl
-
-|
-
-Répceszemere
 
 |
 
@@ -5318,10 +5128,6 @@ Szakony
 
 |
 
-Szárföld
-
-|
-
 Újkér
 
 |
@@ -5330,7 +5136,215 @@ Und
 
 |
 
+Völcsej
+
+|
+
+Zsira
+
+|
+
+|
+
+8/4. Csornai Járásbíróság
+
+|
+
+|
+
+Acsalag
+
+|
+
+Agyagosszergény
+
+|
+
+Babót
+
+|
+
+Beled
+
+|
+
+Barbacs
+
+|
+
+Bágyogszovát
+
+|
+
+Bodonhely
+
+|
+
+Bogyoszló
+
+|
+
+Bősárkány
+
+|
+
+Cakóháza
+
+|
+
+Cirák
+
+|
+
+Csorna
+
+|
+
+Dénesfa
+
+|
+
+Dör
+
+|
+
+Edve
+
+|
+
+Egyed
+
+|
+
+Farád
+
+|
+
+Gyóró
+
+|
+
+Himod
+
+|
+
+Hövej
+
+|
+
+Jobaháza
+
+|
+
+Kapuvár
+
+|
+
+Kisfalud
+
+|
+
+Kóny
+
+|
+
+Maglóca
+
+|
+
+Magyarkeresztúr
+
+|
+
+Markotabödöge
+
+|
+
+Mihályi
+
+|
+
+Osli
+
+|
+
+Páli
+
+|
+
+Pásztori
+
+|
+
+Potyond
+
+|
+
+Rábacsanak
+
+|
+
+Rábakecöl
+
+|
+
+Rábapordány
+
+|
+
+Rábasebes
+
+|
+
+Rábaszentandrás
+
+|
+
+Rábatamási
+
+|
+
+Rábcakapi
+
+|
+
+Répceszemere
+
+|
+
+Sobor
+
+|
+
+Sopronnémeti
+
+|
+
+Szany
+
+|
+
+Szárföld
+
+|
+
+Szil
+
+|
+
+Szilsárkány
+
+|
+
+Tárnokréti
+
+|
+
 Vadosfa
+
+|
+
+Vág
 
 |
 
@@ -5338,7 +5352,7 @@ Vásárosfalu
 
 |
 
-Veszkény
+Veszkény”
 
 |
 
@@ -5346,11 +5360,7 @@ Vitnyéd
 
 |
 
-Völcsej
-
-|
-
-Zsira
+Zsebeháza
 
 |
 
@@ -5943,8 +5953,6 @@ Váraszó
 |
 
 Verpelét
-
-|
 
 |
 
@@ -6558,6 +6566,8 @@ Tiszasas
 
 |
 
+|
+
 11/5. Mezőtúri Járásbíróság
 
 |
@@ -6587,6 +6597,8 @@ Túrkeve
 |
 
 11/6. Tiszafüredi Járásbíróság
+
+|
 
 |
 
@@ -6971,6 +6983,8 @@ Tata
 |
 
 Vértestolna
+
+|
 
 |
 
@@ -7532,8 +7546,6 @@ Zabar
 
 |
 
-|
-
 14. BUDAPEST KÖRNYÉKI TÖRVÉNYSZÉK (székhelye: Budapest)
 
 |
@@ -7984,6 +7996,8 @@ Tóalmás
 
 |
 
+|
+
 14/8. Nagykőrösi Járásbíróság
 
 |
@@ -8354,6 +8368,8 @@ Törökbálint
 
 |
 
+|
+
 14/14. Szigetszentmiklósi Járásbíróság
 
 |
@@ -8393,6 +8409,8 @@ Taksony
 |
 
 Tököl
+
+|
 
 |
 
@@ -8930,6 +8948,8 @@ Visz
 
 |
 
+|
+
 15/4. Marcali Járásbíróság
 
 |
@@ -9433,8 +9453,6 @@ Zamárdi
 |
 
 Zics
-
-|
 
 |
 
@@ -10048,6 +10066,8 @@ Zsurk
 
 |
 
+|
+
 16/4. Mátészalkai Járásbíróság
 
 |
@@ -10512,8 +10532,6 @@ Várdomb
 
 |
 
-|
-
 17/2. Bonyhádi Járásbíróság
 
 |
@@ -10689,8 +10707,6 @@ Szakcs
 |
 
 Várong
-
-|
 
 |
 
@@ -12222,6 +12238,8 @@ Vid
 
 |
 
+|
+
 19/3. Pápai Járásbíróság
 
 |
@@ -12713,8 +12731,6 @@ Szápár
 |
 
 Zirc
-
-|
 
 |
 
@@ -13275,8 +13291,6 @@ Zalavár
 |
 
 Zalavég
-
-|
 
 |
 
