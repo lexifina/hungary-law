@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-10-00-00
 | 2020-01-01 | 2019. évi CXII. törvény | 2006-10-00-00.24 |
 | 2021-01-01 | 2020. évi CXLVIII. törvény | 2006-10-00-00.25 |
 | 2021-07-01 | 2013. évi CCLII. törvény | 2006-10-00-00.26 |
+| 2022-01-01 | 2021. évi LXXXIII. törvény | 2006-10-00-00.27 |
