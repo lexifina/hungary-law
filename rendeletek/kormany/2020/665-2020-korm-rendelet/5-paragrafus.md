@@ -4,7 +4,7 @@ a) az őstermelői termék értékesítésének helyszínén a „Saját ősterm
 
 b) az őstermelői tevékenységre vonatkozó adatok és az őstermelői nyilvántartásban szereplő adatok eltérése esetén legfeljebb 500 000 forintig;
 
-c)[^1]
+c) egyéni vállalkozói tevékenysége között az őstermelői nyilvántartásba bejegyzett tevékenység is szerepel legfeljebb 200 000 forintig;
 
 d) a mezőgazdasági őstermelő által értékesíteni kívánt vagy értékesített termék mennyisége legalább 20%-kal több mint amennyit a saját gazdasága adatai alapján lehetősége van termelni legfeljebb 500 000 forintig;
 
@@ -18,7 +18,7 @@ f) az őstermelői nyilvántartásban szereplő termék felvásárlása esetén 
 
 a) őstermelői tevékenységre vonatkozó adatai eltérnek az őstermelői nyilvántartásban szereplő adatoktól,
 
-b)[^2]
+b) egyéni vállalkozói tevékenysége között a családi gazdaságokról szóló törvényben meghatározott, az őstermelői nyilvántartásban is szereplő őstermelői tevékenység is szerepel,
 
 c) által értékesíteni kívánt vagy értékesített termék mennyisége legalább 20%-kal több, mint amennyit a saját gazdasága adatai alapján lehetősége van termelni,
 
@@ -35,6 +35,3 @@ f) ha a vásárokról, a piacokról, és a bevásárlóközpontokról szóló ko
 a) a hatósági ellenőrzésen megállapított, vagy
 
 b) a közhiteles nyilvántartásban szereplő adat között,
-
-[^1]: Az 5. § (1) bekezdés c) pontja a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^2]: Az 5. § (3) bekezdés b) pontja a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.

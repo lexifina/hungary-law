@@ -1,4 +1,4 @@
-## 17. §[^10]
+## 17. §[^8]
 
 1. melléklet a 665/2020. (XII. 28.) Korm. rendelethez
 
@@ -60,4 +60,4 @@
 
 8. tevékenység azonosítója
 
-[^10]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
