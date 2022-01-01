@@ -1,6 +1,6 @@
 ## 6b.[^82] Átmeneti támogatás
 
-7/D. § (1)[^83] A 2021. január 1-jétől benyújtott igénylések alapján a legkésőbb 2021. december 31. napjáig hatályossá vált hitelszerződésekhez kapcsolódó, 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – átmeneti támogatásként is igényelhető.
+7/D. § (1)[^83] A 2021. január 1-jétől benyújtott igénylések alapján a legkésőbb 2022. június 30. napjáig hatályossá vált hitelszerződésekhez kapcsolódó, 2. § (8) bekezdése szerinti kamattámogatás, kezességi díjtámogatás – figyelemmel a 2. § (1) és (3) bekezdésében foglaltakra – átmeneti támogatásként is igényelhető.
 
 (2) A mezőgazdasági vállalkozás által igénybe vehető átmeneti támogatás összege legfeljebb
 
@@ -53,4 +53,4 @@ f) arról, hogy tudomásul veszi, hogy a KAVOSZ Zrt. a szabad átmeneti támogat
 (10) Átmeneti támogatás igénylése esetén nem kell alkalmazni a 6. § (3) bekezdésében és a 7/A–7/C. §-ban foglaltakat.
 
 [^82]: A 6b. alcímet (7/D. §) a 66/2020. (XII. 18.) AM rendelet 4. §-a iktatta be.
-[^83]: A 7/D. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 1. §-a szerint módosított szöveg.
+[^83]: A 7/D. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 10. §-a szerint módosított szöveg.
