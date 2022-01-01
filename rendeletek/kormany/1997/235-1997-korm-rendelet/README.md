@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-235-20-
 | 2020-03-01 | 1997-235-20-22.21 | 31/2020. (II. 29.) Korm. rendelet |
 | 2020-10-02 | 1997-235-20-22.22 | 447/2020. (X. 1.) Korm. rendelet |
 | 2021-05-14 | 1997-235-20-22.23 | 205/2021. (IV. 29.) Korm. rendelet |
+| 2022-01-01 | 1997-235-20-22.24 | 447/2020. (X. 1.) Korm. rendelet |
