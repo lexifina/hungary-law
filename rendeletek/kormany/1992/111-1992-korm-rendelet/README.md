@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | 2020-05-20 | 1992-111-20-22.19 | 205/2020. (V. 15.) Korm. rendelet |
 | 2021-05-23 | 1992-111-20-22.20 | 254/2021. (V. 18.) Korm. rendelet |
 | 2021-10-07 | 1992-111-20-22.21 | 567/2021. (X. 6.) Korm. rendelet |
+| 2022-01-01 | 1992-111-20-22.22 | 692/2021. (XII. 9.) Korm. rendelet |
