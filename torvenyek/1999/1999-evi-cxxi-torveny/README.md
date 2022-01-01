@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-121-00-00
 | 2020-01-01 | 2019. évi CXII. törvény | 1999-121-00-00.30 |
 | 2021-03-01 | 2020. évi CXXXV. törvény | 1999-121-00-00.31 |
 | 2021-07-01 | 2020. évi CLXIV. törvény | 1999-121-00-00.32 |
+| 2022-01-01 | 2021. évi XXXIX. törvény | 1999-121-00-00.33 |
