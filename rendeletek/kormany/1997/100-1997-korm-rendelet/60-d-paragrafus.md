@@ -6,7 +6,7 @@ a) az írásbeli vizsgarészt vagy azon gyakorlati vizsgarészt, amelyre az ír�
 
 b) aki számára a 2020/2021. tanév október–novemberi vizsgaidőszakában a 24. § (4) bekezdése, a 20. § (7) bekezdése vagy a 31. § (5) bekezdése alapján engedélyezték az írásbeli vizsgarész vagy azon gyakorlati vizsgarész szóbeli vizsgarésszel pótlását, amelyre az írásbeli vizsgákra vonatkozó rendelkezéseket kell alkalmazni,
 
-a 2020/2021. tanév május–júniusi érettségi vizsgaidőszakban a pótló vizsgát középszinten akkor is leteheti, ha egyidejűleg ugyanazon vizsgatárgyból emelt szintű érettségi vizsgára is jelentkezett.
+## a 2020/2021. tanév május–júniusi érettségi vizsgaidőszakban a pótló vizsgát középszinten akkor is leteheti, ha egyidejűleg ugyanazon vizsgatárgyból emelt szintű érettségi vizsgára is jelentkezett.
 
 (2) Az (1) bekezdés szerinti esetben az írásbeli vizsgarész vagy azon gyakorlati vizsgarész, amelyre az írásbeli vizsgákra vonatkozó rendelkezéseket kell alkalmazni, nem ismételhető meg, a pótló vizsga – a korábban már sikeresen teljesített vizsgarészek mellett – csak szóbeli vizsgarészből áll.
 

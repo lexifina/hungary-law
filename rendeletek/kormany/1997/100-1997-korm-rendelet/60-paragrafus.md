@@ -4,7 +4,7 @@ a) a vizsgabizottság és a tantárgyi bizottság elnökének, a szaktanárnak, 
 
 b) a vizsgabiztosnak, a felügyelő tanárnak, a helyettesnek, valamint a kormányhivatal által működtetett vizsgabizottság kivételével az igazgatónak díjazás
 
-jár.
+## jár.
 
 (2) A vizsgáztatási díj nem lehet kevesebb a vizsgáztatási alapdíj (a továbbiakban: alapdíj) százalékában meghatározott összegnél. Az alapdíj összege százegyezer-ötszáz forint.
 
@@ -24,7 +24,7 @@ f) a tantárgyi bizottság elnöke részére legalább az alapdíj huszonöt sz�
 
 g) a tantárgyi bizottság kérdező tanára részére legalább az alapdíj tizenöt százalékában, illetve ha ezt meghaladja, a tantárgyi bizottságba beosztott összes vizsgázó száma és az alapdíj kettő százaléka szorzata
 
-eredményeként kell megállapítani.
+## eredményeként kell megállapítani.
 
 (4) Ha a szaktanári és a kérdező tanári feladatokat azonos személy látja el, a vizsgadíj mind a kettő jogcímen megilleti.
 

@@ -20,7 +20,7 @@ a) javító vizsgára legkorábban a rendes érettségi vizsga vizsgaidőszakáb
 
 b) pótló vizsgára bármelyik vizsgaidőszakban
 
-lehet jelentkezni.
+## lehet jelentkezni.
 
 (5a)[^53] A tanulói jogviszony megszűnése után
 
@@ -30,7 +30,7 @@ b) a rendes, kiegészítő, szintemelő, ismétlő érettségi vizsgát követő
 
 c) a rendes, a pótló érettségi vizsgát követően javítóvizsgára
 
-bármelyik vizsgaidőszakban lehet jelentkezni.
+## bármelyik vizsgaidőszakban lehet jelentkezni.
 
 (5b)[^54] Az érettségi vizsgát az adott vizsgaidőszakban hatályos vizsgakövetelmények szerint kell letenni.
 
@@ -42,7 +42,7 @@ b)[^57] május–júniusi vizsgaidőszak esetén február 15-ig,
 
 c)[^58] október-novemberi vizsgaidőszak esetén szeptember 5-ig
 
-lehet benyújtani a vizsgabizottságot működtető intézmény igazgatójához. A jelentkezési határidő elmulasztása esetén igazolási kérelmet a jelentkezési határidő utolsó napjától számított nyolc napon belül lehet előterjeszteni. Az igazolási kérelem benyújtási határideje jogvesztő. A jelentkezési lapon a kötelező vizsgatárgyak mellett fel kell tüntetni a kötelezően és a szabadon választható vizsgatárgyakat, a vizsga szintjét, valamint a vizsga e rendelet 9. §-ának (1) bekezdése szerinti fajtáját. A vizsgára jelentkezőnek fel kell tüntetnie azt is, ha a vizsgatárgyból nemzetiségi nyelven vagy célnyelven kíván vizsgázni, illetve élni kíván a 6. § (7) bekezdésében meghatározott jogával. Ha a jelentkező még nem rendelkezik érettségi vizsgabizonyítvánnyal, jelentkezési lapján fel kell tüntetnie korábban teljesített érettségi vizsgáit.
+## lehet benyújtani a vizsgabizottságot működtető intézmény igazgatójához. A jelentkezési határidő elmulasztása esetén igazolási kérelmet a jelentkezési határidő utolsó napjától számított nyolc napon belül lehet előterjeszteni. Az igazolási kérelem benyújtási határideje jogvesztő. A jelentkezési lapon a kötelező vizsgatárgyak mellett fel kell tüntetni a kötelezően és a szabadon választható vizsgatárgyakat, a vizsga szintjét, valamint a vizsga e rendelet 9. §-ának (1) bekezdése szerinti fajtáját. A vizsgára jelentkezőnek fel kell tüntetnie azt is, ha a vizsgatárgyból nemzetiségi nyelven vagy célnyelven kíván vizsgázni, illetve élni kíván a 6. § (7) bekezdésében meghatározott jogával. Ha a jelentkező még nem rendelkezik érettségi vizsgabizonyítvánnyal, jelentkezési lapján fel kell tüntetnie korábban teljesített érettségi vizsgáit.
 
 (6a)[^59] A vizsgára jelentkező a szakközépiskolában az érettségi vizsgára felkészítő évfolyamokat követő érettségi vizsgára való jelentkezéskor nyilatkozik arról, hogy kötelezően választandó vizsgatárgyból kíván-e érettségi vizsgát tenni. Ezt a nyilatkozatát az adott vizsgaidőszakban nem változtathatja meg.
 
@@ -62,7 +62,7 @@ a)[^66] május–júniusi vizsgaidőszak esetén március 1-ig,
 
 b) október–novemberi vizsgaidőszak esetén szeptember 10-ig
 
-a kétszintű érettségi vizsga adminisztrációs rendszerében elektronikusan meg kell küldeni a Hivatalnak, továbbá kinyomtatva, papír alapon tájékoztatás céljából a középiskola fenntartójának.
+## a kétszintű érettségi vizsga adminisztrációs rendszerében elektronikusan meg kell küldeni a Hivatalnak, továbbá kinyomtatva, papír alapon tájékoztatás céljából a középiskola fenntartójának.
 
 (12)[^67] Az összesítő jelentés alapján
 

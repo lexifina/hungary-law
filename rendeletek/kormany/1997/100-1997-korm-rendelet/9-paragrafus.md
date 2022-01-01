@@ -1,3 +1,5 @@
+## 8. §[^23]
+
 ## AZ ÉRETTSÉGI VIZSGA ELŐKÉSZÍTÉSE
 
 ## Az érettségi vizsga fajtái, a vizsgaidőszakok
@@ -18,7 +20,7 @@ f) javító,
 
 g) ismétlő
 
-érettségi vizsga. Egyes vizsgatárgyakból – a szintemelő vizsga kivételével – középszinten vagy emelt szinten lehet érettségi vizsgát tenni. Szintemelő vizsga csak emelt szinten tehető.
+## érettségi vizsga. Egyes vizsgatárgyakból – a szintemelő vizsga kivételével – középszinten vagy emelt szinten lehet érettségi vizsgát tenni. Szintemelő vizsga csak emelt szinten tehető.
 
 (2) Rendes érettségi vizsga a középiskolai tanulmányok követelményeinek teljesítése után, a tanulói jogviszony fennállása alatt vagy megszűnését követően első alkalommal tett érettségi vizsga.
 
@@ -52,6 +54,7 @@ d) az érettségi bizonyítvány megszerzése előtti szintemelő érettségi vi
 
 (10)[^33] Az érettségi vizsga megszervezésével, lebonyolításával kapcsolatos kötelező nyomtatványok felsorolását, az alkalmazható záradékokat a szabályzat 1. számú melléklete tartalmazza. A nyomtatványokat a vizsgabizottságot működtető intézmény szerzi be vagy állítja elő az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 1. melléklet IV. fejezetében meghatározott adattartalom alapján az Oktatási Hivatal (a továbbiakban: Hivatal) által működtetett informatikai rendszer (a továbbiakban: a kétszintű érettségi vizsga adminisztrációs rendszere) segítségével.
 
+[^23]: A 8. §-t a 106/2012. (VI. 1.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
 [^24]: A 9. § (1) bekezdésének második mondata a 233/2004. (VIII. 6.) Korm. rendelet 53. §-a, záró szövegrésze a 6/2008. (I. 22.) Korm. rendelet 12. § (3) bekezdésének e) pontja szerint módosított szöveg.
 [^25]: A 9. § (3) bekezdése a 417/2020. (VIII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^26]: A 9. § (3a) bekezdését a 278/2019. (XI. 21.) Korm. rendelet 1. §-a iktatta be.

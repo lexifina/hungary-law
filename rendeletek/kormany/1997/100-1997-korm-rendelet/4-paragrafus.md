@@ -8,7 +8,7 @@ a) képzési ágazatának megfelelő ágazati,
 
 b)[^8] ágazaton belüli specializáció
 
-szakmai vizsgatárgya érettségi vizsgájára fel tudjon készülni.
+## szakmai vizsgatárgya érettségi vizsgájára fel tudjon készülni.
 
 (3)[^9] A gimnázium legalább két, a szakgimnázium és a technikum – az érettségi vizsgára felkészítő két évfolyamos képzések kivételével – a kötelező érettségi vizsgatárgyakon kívül egy vizsgatárgyból a helyi tantervében, oktatási programjában (a továbbiakban együtt: helyi tanterv) meghatározottak szerint lehetővé teszi az emelt szintű érettségi vizsgára történő felkészülést. E döntéséhez kikéri az iskolai diákönkormányzat véleményét. Az emelt szintre történő felkészítés mellett a kötelező érettségi vizsgatárgyakon kívül gimnáziumban legalább három, szakgimnáziumban és technikumban legalább kettő vizsgatárgyból a helyi tantervben meghatározottak szerint lehetővé kell tenni a középszintű vizsgára történő felkészülést. A (2) és (3) bekezdés alkalmazásában az idegen nyelv vizsgatárgyak egy vizsgatárgynak minősülnek.
 

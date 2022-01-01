@@ -4,6 +4,4 @@ a) képzési ágazatának megfelelő ágazati,
 
 b) ágazaton belüli specializáció
 
-szakmai vizsgatárgya érettségi vizsgájára – választása szerint – mind a közép, mind az emelt szinten fel tudjon készülni.
-
 [^379]: A 60/J. §-t a 65/2021. (II. 15.) Korm. rendelet 10. §-a iktatta be.

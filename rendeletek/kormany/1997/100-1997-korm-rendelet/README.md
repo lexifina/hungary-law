@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2020-09-01 | 1997-100-20-22.56 | 417/2020. (VIII. 30.) Korm. rendelet |
 | 2020-12-19 | 1997-100-20-22.57 | 606/2020. (XII. 18.) Korm. rendelet |
 | 2021-02-15 | 1997-100-20-22.58 | 65/2021. (II. 15.) Korm. rendelet |
+| 2022-01-01 | 1997-100-20-22.59 | 65/2021. (II. 15.) Korm. rendelet |
