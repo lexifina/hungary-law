@@ -1,0 +1,1 @@
+## vonatkozó előírásokat.

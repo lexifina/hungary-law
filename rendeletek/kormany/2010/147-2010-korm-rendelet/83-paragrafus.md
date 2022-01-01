@@ -1,4 +1,4 @@
-## 82. §[^106] E rendeletnek a vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 288/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Mód. Kr. 3.) megállapított 7. § h) pontját a Mód. Kr. 3. hatálybalépését[^107] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+## 82. §[^108] E rendeletnek a vízgazdálkodási tárgyú kormányrendeletek módosításáról szóló 288/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Mód. Kr. 3.) megállapított 7. § h) pontját a Mód. Kr. 3. hatálybalépését[^109] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
 
-[^106]: A 82. §-t a 83. § (1) bekezdése hatályon kívül helyezte, újonnan a 288/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^107]: A hatálybalépés napja 2018. december 26.
+[^108]: A 82. §-t a 83. § (1) bekezdése hatályon kívül helyezte, újonnan a 288/2018. (XII. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^109]: A hatálybalépés napja 2018. december 26.

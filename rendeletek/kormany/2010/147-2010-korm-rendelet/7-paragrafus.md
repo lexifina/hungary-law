@@ -20,6 +20,7 @@ h)[^18] a közcélú vízilétesítmények esetén a közcélnak megfelelő üze
 
 i) érintettség esetén a vízbázisvédelmi intézkedésekre
 
-vonatkozó előírásokat.
+j)[^19] kiemelt jelentőségű vízilétesítmények esetében a megfigyelési rendszer működési szabályzatára
 
 [^18]: A 7. § h) pontja a 288/2018. (XII. 21.) Korm. rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^19]: A 7. § j) pontját a 769/2021. (XII. 23.) Korm. rendelet 28. § (1) bekezdése iktatta be.

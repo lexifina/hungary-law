@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-147-20-
 | 2020-03-20 | 2010-147-20-22.21 | 35/2020. (III. 5.) Korm. rendelet |
 | 2020-08-12 | 2010-147-20-22.22 | 368/2020. (VII. 28.) Korm. rendelet |
 | 2021-07-16 | 2010-147-20-22.23 | 420/2021. (VII. 15.) Korm. rendelet |
+| 2022-01-01 | 2010-147-20-22.24 | 769/2021. (XII. 23.) Korm. rendelet |
