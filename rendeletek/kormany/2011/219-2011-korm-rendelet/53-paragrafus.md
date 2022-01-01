@@ -1,5 +1,5 @@
 ## 26. Hatályát vesztő rendelkezések
 
-53. §[^133]
+53. §[^134]
 
-[^133]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^134]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

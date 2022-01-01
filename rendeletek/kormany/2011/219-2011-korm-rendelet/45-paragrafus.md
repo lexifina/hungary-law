@@ -1,6 +1,6 @@
 ## 21. Hozzáférés üzemeltetői adatokhoz
 
-45. §[^124] (1) A hatóság a honlapján keresztül a nyilvánosság részére az alábbiakhoz biztosít hozzáférést:
+45. §[^125] (1) A hatóság a honlapján keresztül a nyilvánosság részére az alábbiakhoz biztosít hozzáférést:
 
 a) az üzem neve,
 
@@ -22,4 +22,4 @@ i) a veszélyes anyagokkal kapcsolatos üzemzavarok, súlyos balesetek megelőz�
 
 (2) A hatóság központi szerve az (1) bekezdés szerinti információk nyilvános hozzáférhetőségét korlátozhatja vagy kizárhatja, amennyiben a nyilvános hozzáférhetőség Magyarország nemzetközi kapcsolatait, illetve közbiztonsági- vagy honvédelmi érdekét sérti. Az (1) bekezdés e) pontja szerinti információk esetében csak a honlapon keresztül történő hozzáférés korlátozható.
 
-[^124]: A 45. § a 176/2019. (VII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^125]: A 45. § a 176/2019. (VII. 18.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 ## 5. A veszélyes tevékenységek azonosítása
 
-7. § (1)[^19] Az üzemeltető a 2. mellékletben szereplő üzemazonosítási adatlapokat a hatóság területi szervének
+7. § (1)[^20] Az üzemeltető a 2. mellékletben szereplő üzemazonosítási adatlapokat a hatóság területi szervének
 
 a) tervezés alatt álló veszélyes anyagokkal foglalkozó üzem esetében az építési engedélyezéshez kapcsolódó katasztrófavédelmi engedély iránti kérelem benyújtásával egyidejűleg,
 
@@ -10,7 +10,7 @@ b) olyan veszélyes anyagokkal foglalkozó üzem esetében, amely a veszélyes t
 
 küldi meg.
 
-(2)[^20]
+(2)[^21]
 
-[^19]: A 7. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^20]: A 7. § (2) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 34/2015. (II. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 147. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^20]: A 7. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 7. § (2) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 34/2015. (II. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 147. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
