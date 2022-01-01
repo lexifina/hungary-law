@@ -1,4 +1,4 @@
-## 19. §[^23]
+## 19. §[^20]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 18. § és a 19. § 2022. szeptember 1-jén lép hatályba.
 
-[^23]: A 19. § a 20. § (3) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
+[^20]: A 19. § a 20. § (3) bekezdése alapján 2022. szeptember 1-jén lép hatályba.
