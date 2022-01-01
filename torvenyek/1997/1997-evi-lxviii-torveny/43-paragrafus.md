@@ -2,7 +2,7 @@
 
 a) amíg az állampolgári kötelezettségét teljesíti,
 
-b) közeli hozzátartozója halálakor, esetenként legalább 2 munkanapon,
+b) hozzátartozója halálakor, esetenként legalább 2 munkanapon,
 
 c) a keresőképtelenséget okozó betegség, illetve a kötelezően elrendelt orvosi vizsgálat időtartamára,
 
