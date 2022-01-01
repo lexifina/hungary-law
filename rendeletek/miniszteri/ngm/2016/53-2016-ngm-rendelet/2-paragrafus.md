@@ -1,6 +1,6 @@
 2. § (1) A független közvetítő a pénzügyi szolgáltatás közvetítését megelőzően a pénzügyi szolgáltatást igénybe venni szándékozó fogyasztó részére írásban vagy más tartós adathordozón igazolható módon egyértelmű tájékoztatást ad:
 
-a) a cég nevéről, székhelyéről, levelezési címéről, felügyeleti hatóságának megjelöléséről,
+a)[^1] a cég nevéről, nyilvántartási azonosítójáról, székhelyéről, levelezési címéről, felügyeleti hatóságának megjelöléséről,
 
 b) a felügyeleti nyilvántartásról, amelyben szerepel, és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
 
@@ -27,3 +27,5 @@ j) arról, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő fogy
 (2) Pénzügyi intézménytől díjazásban részesülő független közvetítő a fogyasztó kérésére tájékoztatást ad arról, hogy mennyiben tér el egymástól a fogyasztónak kínált hiteleket nyújtó pénzügyi intézmények által fizetendő díjazás mértéke.
 
 (3) A független közvetítő köteles a fogyasztót tájékoztatni arról, hogy jogosult a (2) bekezdés szerinti tájékoztatást kérni.
+
+[^1]: A 2. § (1) bekezdés a) pontja a 14/2021. (XII. 8.) PM rendelet 11. § (1) bekezdésével megállapított szöveg.

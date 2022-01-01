@@ -1,6 +1,6 @@
 ## 4. § A függő közvetítő a pénzügyi szolgáltatás közvetítését megelőzően a fogyasztó részére írásban vagy más tartós adathordozón igazolható módon tájékoztatást ad:
 
-a) a cég nevéről, székhelyéről, levelezési címéről és felügyeleti hatóságának megjelöléséről,
+a)[^2] a cég nevéről, nyilvántartási azonosítójáról, székhelyéről, levelezési címéről és felügyeleti hatóságának megjelöléséről,
 
 b) a felügyeleti nyilvántartásról, amelyben szerepel és annak módjáról, ahogyan nyilvántartását ellenőrizni lehet,
 
@@ -17,3 +17,5 @@ e) arról, hogy nyújt-e hiteltanácsadást,
 f) a közvetítővel kapcsolatos panasz kezeléséről, valamint a Pénzügyi Békéltető Testület eljárásának igénybevételére vonatkozó lehetőségről, valamint
 
 g) arról, hogy a pénzügyi szolgáltatás közvetítését igénybe vevő fogyasztó számára más – pénzügyi szolgáltatás közvetítésének nem minősülő – szolgáltatása ellenértékeként díjat számít-e fel.
+
+[^2]: A 4. § a) pontja a 14/2021. (XII. 8.) PM rendelet 11. § (2) bekezdésével megállapított szöveg.
