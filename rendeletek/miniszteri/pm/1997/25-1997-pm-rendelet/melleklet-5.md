@@ -66,7 +66,7 @@
 
 ## 5. az ingatlant bemutató külső és belső fotók.
 
-5. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^25]
+5. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^27]
 
 Statisztikai alapú értékelés alkalmazásának feltételei
 
@@ -106,4 +106,4 @@ g) a statisztikai értékeléshez szükséges adatokat az értékelési szakvél
 
 Az ingatlan értékeléséhez 30 napnál nem régebbi tulajdoni lapot szükséges benyújtani, ami alapján az ingatlan beazonosíthatónak és jogilag rendezettnek tekinthető.
 
-[^25]: Az 5. számú mellékletet a 26/2005. (VIII. 11.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 21/2016. (VI. 29.) NGM rendelet 4. §-a iktatta be, szövege a 4/2021. (II. 2.) PM rendelet 3. §-ával megállapított szöveg.
+[^27]: Az 5. számú mellékletet a 26/2005. (VIII. 11.) PM rendelet 5. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 21/2016. (VI. 29.) NGM rendelet 4. §-a iktatta be, szövege a 4/2021. (II. 2.) PM rendelet 3. §-ával megállapított szöveg.

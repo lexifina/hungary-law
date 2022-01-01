@@ -50,6 +50,6 @@
 
 ## Ha a környezeti avulási elem meghaladja a 20 százalékot, az értékelés ezen módszere a jelentős becslési pontatlanság miatt a hitelbiztosítéki érték megállapítására túl kockázatos, és ezért nem alkalmazható.
 
-4. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^24]
+4. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^26]
 
-[^24]: A 4. számú melléklet a 26/2005. (VIII. 11.) PM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (3) bekezdése alapján a rendelkezést a jelzálog-hitelintézet választása szerint alkalmazni lehet a 2005. november 9. napján folyamatban lévő értékelésekre is.
+[^26]: A 4. számú melléklet a 26/2005. (VIII. 11.) PM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (3) bekezdése alapján a rendelkezést a jelzálog-hitelintézet választása szerint alkalmazni lehet a 2005. november 9. napján folyamatban lévő értékelésekre is.

@@ -1,8 +1,8 @@
-## 5. §[^14] A statisztikai alapú értékelés kivételével a hitelező az értékelési szakvéleményben javasolt értéket az értékelés készítésének időpontjától számítva legfeljebb kilencven napig fogadhatja el a hitelbiztosítéki érték meghatározásához.
+## 5. §[^15] A statisztikai alapú értékelés kivételével a hitelező az értékelési szakvéleményben javasolt értéket az értékelés készítésének időpontjától számítva legfeljebb kilencven napig fogadhatja el a hitelbiztosítéki érték meghatározásához.
 
 ## A Szabályzat
 
-6. § (1)[^15] A hitelező Szabályzata legalább a következőket tartalmazza:
+6. § (1)[^16] A hitelező Szabályzata legalább a következőket tartalmazza:
 
 a) az értékelőkkel szemben támasztott szakmai követelményeket, az értékelő személye kiválasztásának módját;
 
@@ -14,16 +14,16 @@ d) az értékelő által javasolt hitelbiztosítéki érték elfogadásának sza
 
 e) a belső értékfigyelési rendszer feladatmeghatározását, amely magában foglalja az ingatlanpiaci folyamatok nyomon követését, valamint az ingatlanok újraértékeltetésének eseteit;
 
-f)[^16] az ingatlan értékelési módszerek részleteit, azok alkalmazásának eseteit;
+f)[^17] az ingatlan értékelési módszerek részleteit, azok alkalmazásának eseteit;
 
 g) az értékelési szakvélemények tartalmi, formai, dokumentációs követelményeit.
 
-(2)[^17] A hitelezőnek – lakóingatlanra vonatkozó értékelés kivételével – egységes tartalmi, formai és dokumentációs követelményeket kell előírnia. A Szabályzat lakóingatlan tekintetében egyszerűsített adattartalmú értékelési lap alkalmazását rendelheti el.
+(2)[^18] A hitelezőnek – lakóingatlanra vonatkozó értékelés kivételével – egységes tartalmi, formai és dokumentációs követelményeket kell előírnia. A Szabályzat lakóingatlan tekintetében egyszerűsített adattartalmú értékelési lap alkalmazását rendelheti el.
 
-(3)[^18] A hitelező Szabályzatát úgy készíti el, hogy annak alapján az értékelést vagy annak felülvizsgálatát bármely megfelelően felkészült ingatlanértékelő el tudja végezni.
+(3)[^19] A hitelező Szabályzatát úgy készíti el, hogy annak alapján az értékelést vagy annak felülvizsgálatát bármely megfelelően felkészült ingatlanértékelő el tudja végezni.
 
-[^14]: Az 5. § a 21/2016. (VI. 29.) NGM rendelet 3. §-ával megállapított szöveg.
-[^15]: A 6. § (1) bekezdés nyitó szövegrésze a 4/2016. (I. 7.) NGM rendelet 3. § a) pontja szerint módosított szöveg.
-[^16]: A 6. § (1) bekezdésének f) pontja a 26/2005. (VIII. 11.) PM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (1) bekezdése alapján a jelzálog-hitelintézetnek az e módosító rendelet szerint elkészített vagy módosított Szabályzatát 2005. szeptember 10. napjáig kell benyújtania a Pénzügyi Szervezetek Állami Felügyeletéhez jóváhagyás céljából.
-[^17]: A 6.§ (2) bekezdése a 32/2000. (VIII. 29.) PM rendelet 3. §-ával megállapított, a 4/2016. (I. 7.) NGM rendelet 3. § b) pontja szerint módosított szöveg.
-[^18]: A 6. § (3) bekezdése a 4/2016. (I. 7.) NGM rendelet 3. § a) pontja szerint módosított szöveg.
+[^15]: Az 5. § a 21/2016. (VI. 29.) NGM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 6. § (1) bekezdés nyitó szövegrésze a 4/2016. (I. 7.) NGM rendelet 3. § a) pontja szerint módosított szöveg.
+[^17]: A 6. § (1) bekezdésének f) pontja a 26/2005. (VIII. 11.) PM rendelet 2. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (1) bekezdése alapján a jelzálog-hitelintézetnek az e módosító rendelet szerint elkészített vagy módosított Szabályzatát 2005. szeptember 10. napjáig kell benyújtania a Pénzügyi Szervezetek Állami Felügyeletéhez jóváhagyás céljából.
+[^18]: A 6.§ (2) bekezdése a 32/2000. (VIII. 29.) PM rendelet 3. §-ával megállapított, a 4/2016. (I. 7.) NGM rendelet 3. § b) pontja szerint módosított szöveg.
+[^19]: A 6. § (3) bekezdése a 4/2016. (I. 7.) NGM rendelet 3. § a) pontja szerint módosított szöveg.
