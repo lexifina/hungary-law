@@ -1,3 +1,3 @@
-## 19. §[^2]
+## 19. §[^1]
 
-[^2]: A 19. § a 16. § (3) bekezdése alapján 2022. július 8-án lép hatályba.
+[^1]: A 19. § a 16. § (3) bekezdése alapján 2022. július 8-án lép hatályba.
