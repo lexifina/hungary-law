@@ -1,26 +1,33 @@
-98. § (1)[^782] Az ideiglenes hatályú elhelyezés felülvizsgálata során az illetékes gyámhivatal
+98. § (1)[^787] Az ideiglenes hatályú elhelyezés felülvizsgálata során az illetékes gyámhivatal
 
 a) meghallgatja a Gyvt. 128. §-ában meghatározott személyeket,
 
-b)[^783] környezettanulmányt készít vagy szerez be,
+b)[^788] környezettanulmányt készít vagy szerez be,
 
-c)[^784] kikéri mindazon szervek véleményét, amelyek a gyermekkel az ideiglenes hatályú elhelyezést megelőzően foglalkoztak,
+c)[^789] kikéri mindazon szervek véleményét, amelyek a gyermekkel az ideiglenes hatályú elhelyezést megelőzően foglalkoztak,
 
-d)[^785] megelőző pártfogás alatt álló gyermek esetén megállapítja a gyermek megelőző pártfogásának fennállását, valamint tájékoztatja a gyermek szülőjét vagy más törvényes képviselőjét és a megelőző pártfogó felügyelőt arról, hogy ha a gyermeket nevelésbe veszik, a megelőző pártfogás fenntartásáról vagy megszüntetéséről a nevelésbe vételt elrendelő határozatában fog dönteni.
+d)[^790] megelőző pártfogás alatt álló gyermek esetén megállapítja a gyermek megelőző pártfogásának fennállását, valamint tájékoztatja a gyermek szülőjét vagy más törvényes képviselőjét és a megelőző pártfogó felügyelőt arról, hogy ha a gyermeket nevelésbe veszik, a megelőző pártfogás fenntartásáról vagy megszüntetéséről a nevelésbe vételt elrendelő határozatában fog dönteni.
 
-(2)[^786] A gyámhivatal az ideiglenes hatályú elhelyezést megszünteti, ha annak okai nem állnak fenn, és indokolt esetben elrendeli a gyermek védelembe vételét.
+(2)[^791] A gyámhivatal az ideiglenes hatályú elhelyezést megszünteti, ha annak okai nem állnak fenn, és indokolt esetben elrendeli a gyermek védelembe vételét.
 
-(3)[^787] A Gyvt. 72. §-ának (1) bekezdésében meghatározott beutaló szerv által elrendelt ideiglenes hatályú elhelyezés megszüntetéséről – ha annak okai már nem állnak fenn – kizárólag a gyámhivatal dönt.
+(3)[^792] A Gyvt. 72. §-ának (1) bekezdésében meghatározott beutaló szerv által elrendelt ideiglenes hatályú elhelyezés megszüntetéséről – ha annak okai már nem állnak fenn – kizárólag a gyámhivatal dönt.
 
-(4)[^788] A gyámhivatal az ideiglenes hatályú elhelyezés megszüntetését elrendelő határozatában megjelöli az ideiglenes hatályú elhelyezés utolsó napját.
+(4)[^793] A gyámhivatal az ideiglenes hatályú elhelyezés megszüntetését elrendelő határozatában megjelöli az ideiglenes hatályú elhelyezés utolsó napját.
 
-(5)[^789] Ha a kísérő nélküli kiskorú ideiglenes hatályú elhelyezését a Gyvt. 76. § (1) bekezdés f) pontjában meghatározott hatvan napon belül több alkalommal is elrendelték, gyermekvédelmi és gyámügyi feladatkörében eljáró Budapest Főváros Kormányhivatala a korábban elrendelt ideiglenes hatályú elhelyezést, elhelyezéseket megszünteti.
+(5)[^794] Ha a kísérő nélküli kiskorú ideiglenes hatályú elhelyezését a Gyvt. 76. § (1) bekezdés f) pontjában meghatározott hatvan napon belül több alkalommal is elrendelték, gyermekvédelmi és gyámügyi feladatkörében eljáró Budapest Főváros Kormányhivatala a korábban elrendelt ideiglenes hatályú elhelyezést, elhelyezéseket megszünteti.
 
-[^782]: A 98. § (1) bekezdésének felvezető mondata a 14/2003. (II. 12.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
-[^783]: A 98. § (1) bekezdés b) pontja a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 10. pontja szerint módosított szöveg.
-[^784]: A 98. § (1) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 24. pontja szerint módosított szöveg.
-[^785]: A 98. § (1) bekezdés d) pontját a 353/2014. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^786]: A 98. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (12) bekezdésével megállapított szöveg.
-[^787]: A 98. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^788]: A 98. § (4) bekezdését a 97/2013. (III. 29.) Korm. rendelet 30. §-a iktatta be.
-[^789]: A 98. § (5) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+(6)[^795] Az általános védelmi intézkedés keretében alkalmazott, a Gyvt. 76/B. § a) pontja szerinti ideiglenes hatályú elhelyezés felülvizsgálatára irányuló eljárásban a gyámhivatal – az (1) bekezdésben meghatározott intézkedéseken felül –
+
+a) megkeresi az országos gyermekvédelmi szakértői bizottságot szakmai vélemény készítése érdekében, és
+
+b) felkéri az illetékes gyermekvédelmi szakszolgálatot az a) pontban meghatározott szakmai véleményre alapozott elhelyezési javaslat és egyéni elhelyezési terv elkészítésére.
+
+[^787]: A 98. § (1) bekezdésének felvezető mondata a 14/2003. (II. 12.) Korm. rendelet 58. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
+[^788]: A 98. § (1) bekezdés b) pontja a 97/2013. (III. 29.) Korm. rendelet 65. § (3) bekezdés 10. pontja szerint módosított szöveg.
+[^789]: A 98. § (1) bekezdés c) pontja a 360/2010. (XII. 30.) Korm. rendelet 25. § 24. pontja szerint módosított szöveg.
+[^790]: A 98. § (1) bekezdés d) pontját a 353/2014. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^791]: A 98. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 12. § (12) bekezdésével megállapított szöveg.
+[^792]: A 98. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^793]: A 98. § (4) bekezdését a 97/2013. (III. 29.) Korm. rendelet 30. §-a iktatta be.
+[^794]: A 98. § (5) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 3. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^795]: A 98. § (6) bekezdését a 744/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
