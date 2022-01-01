@@ -1,5 +1,3 @@
-## 34. §[^89]
-
 ## 18. Záró rendelkezések
 
 35. § (1) Ez a rendelet – a (2)–(4) bekezdésben foglalt kivétellel – a kihirdetését követő harmadik napon lép hatályba.
@@ -9,5 +7,3 @@
 (3) A 13. § b) és c) pontja, valamint a 29. és 30. § 2022. július 1-jén lép hatályba.
 
 (4) A 14. § (8) és (11) bekezdése, a 16. § (9) bekezdése, a 20. § (12) és (13) bekezdése, valamint a 23. § c) pontja 2023. január 1-jén lép hatályba.
-
-[^89]: A 34. § a 35. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
