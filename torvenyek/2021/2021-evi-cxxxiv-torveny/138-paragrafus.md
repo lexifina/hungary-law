@@ -1,3 +1,1 @@
-138. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 273. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az elzárás a bíróság jogerős ügydöntő határozata alapján hajtható végre. A büntetés-végrehajtási bíró az elzárás végrehajthatóságának megállapítását követően az értesítőlap másolatát megküldi a BVOP-nak. Az elzárásra ítéltet a BVOP hívja fel az értesítőlap másolatának beérkezését követő tizenöt napon belül az elzárás végrehajtásának három hónapon belüli megkezdésére. A felhívást olyan időpontban kell kiadni, hogy azt az elzárásra ítélt a jelentkezési kötelezettség napja előtt legalább tizenöt nappal megkapja.”
+### 138. §

@@ -1,1 +1,1 @@
-147. § Hatályát veszti a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 11. § (9) bekezdésében a „fiatalkorú” szövegrészek.
+### 147. §
