@@ -8,6 +8,8 @@
 
 (4a) Ha jogszabály rendelkezése alapján a végelszámolást a Magyar Nemzeti Bankról szóló törvényben (a továbbiakban: MNBtv.) meghatározott szervezetek felszámolását végző nonprofit gazdasági társaság végzi, a végelszámolási feladatok ellátására kijelölt személy nem lehet az, aki a végelszámolás alatt álló cégnél az MNBtv. szerinti felügyeleti biztosi tevékenységet látott, illetve lát el.
 
+(4b) Annak a gazdasági társaságnak a végelszámolásában, amelyben az állam társasági részesedést örökölt, a végelszámolói feladatok ellátásával a Cstv. 66. §-a szerinti állami felszámoló is megbízható.
+
 (5) Ha a végelszámolás alatt álló cég felszámolás alá kerül, és megállapítható, hogy a végelszámoló alapos ok nélkül késlekedett a felszámolási eljárás kezdeményezésével, vagy nem tett meg mindent a hitelezők veszteségeinek csökkentése, illetve a környezeti károk mérséklése a kármentesítés érdekében vagy egyes hitelezőket mások rovására előnyben részesített, a felszámoló vagy a hitelezők keresetére a bíróság arra kötelezi a végelszámolót, hogy a cég vagyonához a károkozás összege mértékéhez igazodó tőke-hozzájárulást teljesítsen. A bíróság ebben az esetben a végelszámoló díját részben vagy egészben megvonhatja.
 
 (6) Az (5) bekezdésben foglaltak alkalmazására akkor is sor kerülhet, ha a végelszámoló az egyszerűsített végelszámolás alkalmazásáról annak törvényben foglalt feltételei hiányában sem tér át az általános szabályok szerint lefolytatandó végelszámolásra, vagy a törvényi feltételek bekövetkezése ellenére elmulasztotta a felszámolási eljárás kezdeményezését, továbbá a felszámolás elrendelésére a végelszámoló hibájából nem került sor.

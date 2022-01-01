@@ -1,6 +1,8 @@
-119. § (1) Vagyonrendezési eljárást kell – kérelemre vagy hivatalból – lefolytatni, ha megszüntetési eljárás lefolytatása után, a cég jogutód nélküli törlését követően olyan vagyontárgy kerül elő, amelynek a törölt cég volt a tulajdonosa. Ha a törölt cég ellen végrehajtási eljárás van folyamatban (Vht. 46. §) a végrehajtási eljárás alatt nem kezdeményezhető vagyonrendezési eljárás a lefoglalt vagyontárgy vonatkozásában.
+119. § (1) Vagyonrendezési eljárást kell – kérelemre vagy hivatalból – lefolytatni, ha a cég jogutód nélküli törlését követően olyan vagyontárgy kerül elő, amelynek a törölt cég volt a tulajdonosa. Ha a törölt cég ellen végrehajtási eljárás van folyamatban (Vht. 46. §) a végrehajtási eljárás alatt nem kezdeményezhető vagyonrendezési eljárás a lefoglalt vagyontárgy vonatkozásában.
 
 (1a) Vagyonrendezési eljárásnak van helye abban az esetben is, ha a korlátolt felelősségű társaságban üzletrésszel rendelkező tag jogutód nélkül úgy szűnt meg, hogy üzletrészéről nem rendelkeztek.
+
+(1b) Vagyonrendezési eljárást kell lefolytatni – kérelemre vagy hivatalból – akkor is, ha jogszabály így rendelkezik.
 
 (2) A vagyonrendezési eljárás polgári nemperes eljárás, amelyre a Pp. szabályait a nemperes eljárás sajátosságaiból eredő eltérésekkel és a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló törvénynek a bírósági polgári nemperes eljárásokra vonatkozó általános rendelkezéseit – ha e törvény eltérően nem rendelkezik – kell alkalmazni, szünetelésnek azonban nincs helye.
 
