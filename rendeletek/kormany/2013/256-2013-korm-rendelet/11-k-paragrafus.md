@@ -1,8 +1,8 @@
-## 11/J. §[^59]
+## 11/J. §[^61]
 
-11/K. §[^60] (1) A 2. mellékletben foglalt táblázat A:262–266. mezőjében meghatározott egészségügyi szolgáltatónak 2020. november 1-jén jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2020. november 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
+11/K. §[^62] (1) A 2. mellékletben foglalt táblázat A:262–266. mezőjében meghatározott egészségügyi szolgáltatónak 2020. november 1-jén jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2020. november 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
 
 (2) Az (1) bekezdés szerinti munkáltató illetmény- vagy bérnövelésre jogosult foglalkoztatottja részére az (1) bekezdés szerinti emelt összegű illetményt (bért) első alkalommal a 2020. november hónapra esedékes illetmény (bér) tekintetében kell megfizetni.
 
-[^59]: A 11/J. §-t a 328/2019. (XII. 20.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
-[^60]: A 11/K. §-t a 480/2020. (XI. 4.) Korm. rendelet 3. §-a iktatta be.
+[^61]: A 11/J. §-t a 328/2019. (XII. 20.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
+[^62]: A 11/K. §-t a 480/2020. (XI. 4.) Korm. rendelet 3. §-a iktatta be.

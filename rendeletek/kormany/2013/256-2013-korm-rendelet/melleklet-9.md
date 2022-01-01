@@ -4,90 +4,90 @@
 
 | F | G | H |
 
-| 1 | 0–3 | 174 021 | 179 603 | 181 807 |
+| 1 | 0–3 | 244 887 | 252 691 | 255 882 |
 
-| 2 | 4–6 | 181 509 | 188 092 | 191 793 |
+| 2 | 4–6 | 254 844 | 263 896 | 269 325 |
 
-| 3 | 7–9 | 188 692 | 196 264 | 201 779 |
+| 3 | 7–9 | 264 496 | 274 784 | 282 768 |
 
-| 4 | 10–12 | 195 875 | 204 435 | 211 765 |
+| 4 | 10–12 | 274 149 | 285 671 | 296 211 |
 
-| 5 | 13–15 | 203 058 | 212 607 | 221 751 |
+| 5 | 13–15 | 283 801 | 296 559 | 309 655 |
 
-| 6 | 16–18 | 210 241 | 220 777 | 230 443 |
+| 6 | 16–18 | 293 453 | 307 446 | 321 803 |
 
-| 7 | 19–21 | 217 424 | 228 949 | 237 192 |
+| 7 | 19–21 | 303 105 | 318 334 | 332 009 |
 
-| 8 | 22–24 | 223 997 | 235 533 | 243 940 |
+| 8 | 22–24 | 312 147 | 327 634 | 342 214 |
 
-| 9 | 25–27 | 230 570 | 240 847 | 250 689 |
+| 9 | 25–27 | 321 189 | 335 664 | 352 420 |
 
-| 10 | 28–30 | 235 008 | 245 843 | 257 437 |
+| 10 | 28–30 | 328 097 | 343 376 | 362 625 |
 
-| 11 | 31–33 | 239 446 | 250 839 | 265 483 |
+| 11 | 31–33 | 335 004 | 351 088 | 374 128 |
 
-| 12 | 34–36 | 243 884 | 255 835 | 273 526 |
+| 12 | 34–36 | 341 911 | 358 800 | 385 628 |
 
-| 13 | 37–39 | 248 322 | 260 833 | 281 570 |
+| 13 | 37–39 | 348 818 | 366 515 | 397 129 |
 
-| 14 | 40–42 | 252 760 | 265 829 | 289 614 |
+| 14 | 40–42 | 355 725 | 374 227 | 408 629 |
 
-| 15 | 43–45 | 257 200 | 270 826 | 297 658 |
+| 15 | 43–45 | 362 634 | 381 940 | 420 130 |
 
-| 16 | 46–48 | 261 919 | 276 145 | 306 179 |
+| 16 | 46–48 | 369 882 | 390 042 | 432 208 |
 
-| 17 | 49–51 | 266 929 | 281 798 | 315 194 |
+| 17 | 49–51 | 377 481 | 398 550 | 444 884 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^105]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^108]
 
 ## Az egészségügyi szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
 
-1. Az Eszjtv. 8. § (3) bekezdés szerinti járóbeteg- és fekvőbeteg-szakellátásban részt vevő orvosok, a fogorvosok, gyógyszerészek nem egészségügyi egyetemi végzettségű egészségügyi dolgozók bértámogatása, a kifizetőt terhelő közterhek nélkül (Ft/hó)
+1. Az Eszjtv. 8. § (3) bekezdés szerinti járóbeteg- és fekvőbeteg-szakellátásban részt vevő orvosok, fogorvosok, nem egészségügyi egyetemi végzettségű egészségügyi dolgozók bértámogatása, a kifizetőt terhelő közterhek nélkül (Ft/hó)
 
 | 1. | Gyakorlati idő | Szakvizsgával nem rendelkezők esetén igényelhető | Szakvizsgával rendelkezők esetén igényelhető |
 
-| 2. | 0–2 év | 226 166 Ft | 26 666 Ft |
+| 2. | 0–2 év | 363 733 Ft | 164 233 Ft |
 
-| 3. | 3–5 év | 351 314 Ft | 151 914 Ft |
+| 3. | 3–5 év | 526 495 Ft | 327 095 Ft |
 
-| 4. | 6–10 év | 593 528 Ft | 392 428 Ft |
+| 4. | 6–10 év | 839 771 Ft | 638 671 Ft |
 
-| 5. | 11–15 év | 593 528 Ft | 500 853 Ft |
+| 5. | 11–15 év | 839 771 Ft | 780 702 Ft |
 
-| 6. | 16–20 év | 593 528 Ft | 544 255 Ft |
+| 6. | 16–20 év | 839 771 Ft | 842 591 Ft |
 
-| 7. | 21–25 év | 593 528 Ft | 637 737 Ft |
+| 7. | 21–25 év | 839 771 Ft | 968 867 Ft |
 
-| 8. | 26–30 év | 593 528 Ft | 726 580 Ft |
+| 8. | 26–30 év | 839 771 Ft | 1 085 523 Ft |
 
-| 9. | 31–35 év | 593 528 Ft | 761 277 Ft |
+| 9. | 31–35 év | 839 771 Ft | 1 134 990 Ft |
 
-| 10. | 36–40 év | 593 528 Ft | 852 747 Ft |
+| 10. | 36–40 év | 839 771 Ft | 1 257 880 Ft |
 
-| 11. | 41– év | 593 528 Ft | 1 090 920 Ft |
+| 11. | 41– év | 839 771 Ft | 1 566 931 Ft |
 
-2. Az alapellátásban egészségügyi szolgálati jogviszonyban foglalkoztatott orvosok, a fogorvosok, gyógyszerészek és iskolaorvosok bértámogatása, a kifizetőt terhelő közterhek nélkül (Ft/hó)
+2. Az alapellátásban egészségügyi szolgálati jogviszonyban foglalkoztatott orvosok, fogorvosok és iskolaorvosok bértámogatása, a kifizetőt terhelő közterhek nélkül (Ft/hó)
 
 | 1. | Gyakorlati idő | Szakvizsgával nem rendelkezők esetén igényelhető | Szakvizsgával rendelkezők esetén igényelhető |
 
-| 2. | 0–2 év | 270 886 Ft | 270 886 Ft |
+| 2. | 0–2 év | 408 453 Ft | 408 453 Ft |
 
-| 3. | 3–5 év | 402 534 Ft | 402 534 Ft |
+| 3. | 3–5 év | 577 715 Ft | 577 715 Ft |
 
-| 4. | 6–10 év | 651 248 Ft | 651 248 Ft |
+| 4. | 6–10 év | 897 491 Ft | 897 491 Ft |
 
-| 5. | 11–15 év | 651 248 Ft | 768 873 Ft |
+| 5. | 11–15 év | 897 491 Ft | 1 048 722 Ft |
 
-| 6. | 16–20 év | 651 248 Ft | 833 575 Ft |
+| 6. | 16–20 év | 897 491 Ft | 1 131 911 Ft |
 
-| 7. | 21–25 év | 651 248 Ft | 948 357 Ft |
+| 7. | 21–25 év | 897 491 Ft | 1 279 487 Ft |
 
-| 8. | 26–30 év | 651 248 Ft | 1 039 395 Ft |
+| 8. | 26–30 év | 897 491 Ft | 1 398 338 Ft |
 
-| 9. | 31–35 év | 651 248 Ft | 1 074 052 Ft |
+| 9. | 31–35 év | 897 491 Ft | 1 447 765 Ft |
 
-| 10. | 36–40 év | 651 248 Ft | 1 165 562 Ft |
+| 10. | 36–40 év | 897 491 Ft | 1 570 695 Ft |
 
-| 11. | 41– év | 651 248 Ft | 1 403 695 Ft |
+| 11. | 41– év | 897 491 Ft | 1 879 706 Ft |
 
-[^105]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (2) bekezdésével megállapított, a 70/2021. (II. 19.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^108]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

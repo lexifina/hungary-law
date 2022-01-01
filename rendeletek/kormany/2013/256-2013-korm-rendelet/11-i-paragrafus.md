@@ -1,3 +1,3 @@
-## 11/H. §[^57]
+## 11/H. §[^59]
 
-[^57]: A 11/H. §-t a 184/2018. (X. 8.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
+[^59]: A 11/H. §-t a 184/2018. (X. 8.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
