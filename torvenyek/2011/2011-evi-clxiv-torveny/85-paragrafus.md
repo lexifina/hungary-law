@@ -2,7 +2,7 @@
 
 a) a legfőbb ügyész – a legfőbb ügyészségi főosztályi szervezetbe tartozó osztályvezető ügyész kivételével – a magasabb vezető állású ügyészek felett;
 
-b) a legfőbb ügyész helyettes a titkárságán szolgálatot teljesítő ügyészek felett;
+b) a legfőbb ügyész helyettes és a főtitkár a titkárságán szolgálatot teljesítő ügyészek felett;
 
 c) a főosztályvezető ügyész a vezetése alatt álló főosztály a) pontban nem említett ügyészei felett;
 
