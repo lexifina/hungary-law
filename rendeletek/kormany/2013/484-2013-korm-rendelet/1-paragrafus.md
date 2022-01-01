@@ -26,7 +26,7 @@ j) a Miniszterelnökséget vezető miniszter
 
 ## által delegált 1 fő.
 
-(3) A Tanács tagja – a (2) bekezdésben meghatározottakon túl – a Katonai Nemzetbiztonsági Szolgálat főigazgatója és a kiberkoordinátor.
+(3)[^3] A Tanács tagja – a (2) bekezdésben meghatározottakon túl – a Szabályozott Tevékenységek Felügyeleti Hatósága elnöke vagy az általa delegált személy, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és a kiberkoordinátor.
 
 (4) A Tanács munkáját a Tanács elnökének felkérésére
 
@@ -50,3 +50,4 @@ f) a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke
 
 [^1]: Az 1. § a 259/2021. (V. 20.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^3]: Az 1. § (3) bekezdése a 805/2021. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
