@@ -1,6 +1,6 @@
-## 11. §[^17] A közlekedési hatóság rendszeresen ellenőrzi, és az auditáló szerv kérelemre auditálja a vizsgálóállomás tevékenységét.
+## 11. §[^19] A közlekedési hatóság rendszeresen ellenőrzi, és az auditáló szerv kérelemre auditálja a vizsgálóállomás tevékenységét.
 
-## 12. §[^18] Ha a vizsgálóállomás
+## 12. §[^20] Ha a vizsgálóállomás
 
 a) akadályozza a hatósági ellenőrzést,
 
@@ -14,5 +14,5 @@ e) a pénzügyi helyzete nem megfelelő, vagy
 
 f) az auditált vagy akkreditált státusz megszűnése, visszavonása esetén a tevékenységét nem szünetelteti, vagy annak bejelentését elmulasztja,
 
-[^17]: A 11. § a 722/2020. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^18]: A 12. § a 722/2020. (XII. 31.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^19]: A 11. § a 722/2020. (XII. 31.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^20]: A 12. § a 722/2020. (XII. 31.) Korm. rendelet 43. §-ával megállapított szöveg.
