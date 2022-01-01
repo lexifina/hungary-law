@@ -1,0 +1,3 @@
+## 67. § A Metár-rendelet 20. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A Hivatal az (1) bekezdésben meghatározott kizáró okok fennállását a kötelező átvételi vagy prémium típusú támogatási jogosultságot megállapító határozatának meghozatalát követően véletlenszerű kiválasztással vizsgálja. A befogadó a KÁT mérlegkör tagsági szerződések és 16. § (1) bekezdése szerinti szerződések megkötésekor vizsgálja a kötelező átvételi rendszerben történő értékesítéshez vagy a prémium típusú támogatáshoz szükséges feltételek meglétét. Ha a befogadó az (1) bekezdésben foglalt körülmények bármelyikét észleli, haladéktalanul értesíti a Hivatalt.”

@@ -1,0 +1,3 @@
+## 39. § A Rendelet2. 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A kezelőrendszert a Hivatal működteti. A Hivatal biztosítja, hogy a származási garanciák bejegyzése, átruházása, felhasználása és törlése pontos és megbízható legyen. A Hivatal az 5. § (1) bekezdése szerinti kérelemre indult eljárás végén hatósági bizonyítványt bocsát ki. A Hivatal a hatósági bizonyítvány alapján a származási garanciát egyszerű magánokirati formában bocsátja ki, amely az ellenkező bizonyításig hitelesen igazolja az abban foglalt adatok valódiságát. A származási garanciák bejegyzésének, átruházásának és törlésének részletes szabályait a Hivatal és a számlatulajdonos közötti szerződés tartalmazza.”
