@@ -1,10 +1,10 @@
 13. § Hatályát veszti az atomenergiáról szóló 1996. évi CXVI. törvény
 
-a)
+a) 8. § (5) bekezdés d) pontja,
 
 b)
 
-c)
+c) 18/C. §-a,
 
 d)
 
