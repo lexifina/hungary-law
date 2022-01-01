@@ -1,4 +1,4 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^229]
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^236]
 
 A felsőoktatási felvételi eljárás során pontszámítás szempontjából figyelembe vehető szakmák és szakképesítések
 
@@ -284,4 +284,4 @@ A felsőoktatási felvételi eljárás során pontszámítás szempontjából fi
 
 | 7. | környezettan (osztatlan természetudomány-környezettan szakos tanári) | 507121402 Környezetvédelmi technikus 510311105 Honvéd kadét, Környezetvédelmi technikus (környezetvédelem) | 5485001 Környezetvédelmi technikus 5585001 Hulladékgazdálkodó szaktechnikus 5585002 Környezetvédelmi-mérés szaktechnikus 5585003 Nukleáris környezetvédelmi szaktechnikus 5585005 Természetvédelmi szaktechnikus 5585004 Települési környezetvédelmi szaktechnikus |
 
-[^229]: A 3. melléketet újonnan a 661/2020. (XII. 24.) Korm. rendelet 20. § (3) bekezdése iktatta be, szövege a 746/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^236]: A 3. melléketet újonnan a 661/2020. (XII. 24.) Korm. rendelet 20. § (3) bekezdése iktatta be, szövege a 746/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
