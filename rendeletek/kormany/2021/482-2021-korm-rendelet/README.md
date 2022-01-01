@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-482-20-
 | 2021-08-30 | 2021-482-20-22.4 | 2010: CXXX. törvény |
 | 2021-10-01 | 2021-482-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-10-02 | 2021-482-20-22.6 | 2010: CXXX. törvény |
+| 2022-01-01 | 2021-482-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |

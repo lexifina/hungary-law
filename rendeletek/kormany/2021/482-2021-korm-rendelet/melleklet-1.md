@@ -1,3 +1,3 @@
-1. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez[^45]
+1. melléklet a 482/2021. (VIII. 13.) Korm. rendelethez[^39]
 
-[^45]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
