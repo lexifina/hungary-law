@@ -1,1 +1,3 @@
-8. §
+8. § (1) Az állami magasépítési beruházások megvalósításáról szóló 2018. évi CXXXVIII. törvény (a továbbiakban: Ámbtv.) 10. § (5) bekezdésében foglaltaktól eltérően a Beruházási Ügynökség állam nevében végzett feladatainak költségvetési bevételeit és költségvetési kiadásait a 2022. évben a XLVII. Gazdaság-újraindítási Alap fejezet 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások címe tartalmazza.
+
+(2) A XLVII. Gazdaság-újraindítási Alap fejezet 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások címre vonatkozóan az Ámbtv.-nek a Beruházási Ügynökség által ellátott feladatok költségvetésével kapcsolatos rendelkezéseit kell alkalmazni.

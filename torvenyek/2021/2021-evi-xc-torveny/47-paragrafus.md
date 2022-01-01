@@ -1,1 +1,1 @@
-47. §
+47. § A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 4/A. § (1) bekezdés b) pontja alapján kijelölt előirányzat felhasználási célja a 2022. évi személyi jövedelemadó-rendelkezéseknél a Nemzeti Tehetség Program. Felhasználása a 2023. évi költségvetési törvényben kerül megtervezésre.

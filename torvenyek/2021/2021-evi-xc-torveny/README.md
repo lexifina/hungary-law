@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-90-00-00
 | --- | --- | --- |
 | 2021-10-01 | 2021. évi XC. törvény | 2021-90-00-00.0 (közlönyállapot) |
 | 2021-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-90-00-00.1 |
+| 2022-01-01 | 1680/2022. (XII. 23.) Korm. határozat | 2021-90-00-00.2 |
