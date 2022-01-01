@@ -40,7 +40,10 @@ tekintetében,
 
 o)[^2] a katonai légügyi hatóságra.
 
+p)[^3] a Nemzetbiztonsági Szakszolgálatra.
+
 (2) A légiközlekedés védelmi tevékenységre a 46. §-ban felsorolt uniós jogi aktusok a légiközlekedésről szóló 1995. évi XCVII. törvényben, valamint az e rendeletben foglaltakkal együttesen alkalmazandóak.
 
 [^1]: Az 1. § (1) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés o) pontját a 379/2016. (XII. 2.) Korm. rendelet 158. § (1) bekezdése iktatta be.
+[^3]: Az 1. § (1) bekezdés p) pontját a 789/2021. (XII. 27.) Korm. rendelet 33. §-a iktatta be.

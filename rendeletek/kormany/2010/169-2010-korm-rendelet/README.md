@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-169-20-
 | 2017-01-01 | 2010-169-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2010-169-20-22.18 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-01-01 | 2010-169-20-22.19 | 722/2020. (XII. 31.) Korm. rendelet |
+| 2022-01-01 | 2010-169-20-22.20 | 789/2021. (XII. 27.) Korm. rendelet |
