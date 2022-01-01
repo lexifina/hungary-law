@@ -1,6 +1,6 @@
 40. § A Hjt.
 
-1. 1. § (1) bekezdésében az „ , a honvéd tisztjelöltekre, és a honvéd altiszt-jelöltekre” szövegrész helyébe az „és a honvéd altiszt-jelöltekre” szöveg,
+1.
 
 2. 2. § 12b. pontjában a „honvéd altiszt-jelöltnek” szövegrész helyébe a „honvéd altiszt-jelöltnek, valamint honvédelmi alkalmazottnak” szöveg,
 
@@ -18,12 +18,12 @@
 
 9. 142. § (2) bekezdésében a „balesetének” szövegrész helyébe az „a munkavédelemről szóló törvény szerint bejelentett balesetének” szöveg,
 
-10. 208. § (6) bekezdésében az „ösztöndíjára” szövegrész helyébe az „illetményére” szöveg,
+10.
 
 11. 234. § (2) bekezdésében a „nemzeti köznevelésről” szövegrész helyébe a „szakképzésről” szöveg,
 
-12. 235. § (2) bekezdésében a „227. § (4) bekezdését” szövegrész helyébe a „226. § (5) bekezdését” szöveg,
+12.
 
-13. 235. § (3) bekezdésében a „227. § (5) és (6) bekezdését” szövegrész helyébe a „226. § (6) bekezdését” szöveg
+13.
 
 lép.
