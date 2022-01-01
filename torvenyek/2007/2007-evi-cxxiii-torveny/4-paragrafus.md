@@ -102,7 +102,7 @@ md) sűrűn beépített nagyvárosias lakóterület levegőszennyezettségének 
 
 n) sportinfrastruktúra fejlesztése keretében sport- és ehhez kapcsolódó kiegészítő létesítmény létesítése, bővítése, fejlesztése érdekében, ha
 
-na) a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül,
+na) a sportlétesítmény a nemzeti vagyonról szóló 2011. évi CXCVI. törvényben (a továbbiakban: Nvtv.) meghatározott nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonban tartandó sportcélú ingatlanként olimpiai központnak minősül,
 
 nb) a sportlétesítmény létesítése olimpia vagy valamely sportágban Európa-bajnokság vagy világbajnokság megrendezése céljából történik,
 

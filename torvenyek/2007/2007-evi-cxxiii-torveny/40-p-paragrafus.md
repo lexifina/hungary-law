@@ -1,0 +1,9 @@
+40/P. § (1) A kisajátítási hatóság a kérelemnek helyt adó határozatában – a 40/Q. §-ban meghatározott kivétellel – külön rendelkezik arról, hogy a 40/H. § szerinti eljárással érintett ingatlanért, az ingatlanra vonatkozóan más személyt megillető jogok megszűnéséért, továbbá a 40/H. § szerinti eljárással kapcsolatos értékveszteségért és költségekért milyen összegű kártalanítást állapít meg.
+
+(2) Az (1) bekezdésben meghatározott kártalanítást – kamatokkal együtt – a határozat véglegessé válását követő 15 napon belül kell megfizetni, és az azt követő 8 napon belül kell a kisajátítási hatóság részére a megfizetést igazolni.
+
+(3) A kisajátítási hatóság hivatalból vizsgálja az (1) és (2) bekezdésben foglalt kötelezettségek teljesítését.
+
+(4) Az eljárást kérő kérelmére az (1) és (2) bekezdés szerint kiállított igazolások beérkezését követően a kisajátítási hatóság 8 napon belül igazolást állít ki az eljárást kérőt terhelő kötelezettségek teljesítéséről. Az igazolásban a kisajátítási hatóság – a 40/H. § szerinti eljárásban meghozott határozatban foglalt birtokbabocsátási határidőt figyelembe véve – tájékoztatást ad a birtokba bocsátás határidejének naptári napjáról, valamint arról, hogy e határidő elmulasztása esetén a birtokbabocsátási kötelezettség teljesítése közigazgatási végrehajtás útján kikényszeríthető. A kisajátítási hatóság az igazolást a kisajátítást kérő és az ingatlan elhagyására kötelezett részére kézbesíti.
+
+(5) A 40/H. § szerinti eljárásban a csereingatlannal történő kártalanításra és a birtokbabocsátásra a 29. § (3) és (5)–(8) bekezdésében foglaltakat kell alkalmazni azzal, hogy kisajátítási határozat alatt a 40/H. § szerinti eljárásban meghozott határozatot, a kisajátított ingatlan alatt a 40/H. § szerinti eljárásban az állam tulajdonába került ingatlant kell érteni.

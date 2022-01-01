@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-123-00-00
 | 2021-05-14 | 2021. évi XXXI. törvény | 2007-123-00-00.38 |
 | 2021-05-28 | 2021. évi LI. törvény | 2007-123-00-00.39 |
 | 2021-07-01 | 2020. évi CLXIV. törvény | 2007-123-00-00.40 |
+| 2022-01-01 | 2021. évi CXXII. törvény | 2007-123-00-00.41 |

@@ -28,4 +28,6 @@ ga) a kártalanítás fizetési számláról történő készpénzkifizetéssel,
 
 gb) a kártalanításra jogosult magyarországi lakóhellyel (tartózkodási hellyel) vagy székhellyel (telephellyel) nem rendelkezik,
 
-h) a kártalanításra jogosult az (5) bekezdésben meghatározott határidőn belül nem küldi meg a számlát a kisajátítást kérő részére.
+h) a kártalanításra jogosult az (5) bekezdésben meghatározott határidőn belül nem küldi meg a számlát a kisajátítást kérő részére, valamint
+
+i) a végrehajtó a 8. § (5) bekezdésében meghatározott határidőn belül nem közli a letéti számla számát a kisajátítást kérővel.

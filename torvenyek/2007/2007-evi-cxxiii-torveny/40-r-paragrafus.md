@@ -1,0 +1,3 @@
+40/R. § (1) Ha a 40/H. § szerinti eljárás az ingatlannak csak egy részét érinti, az ingatlan megosztásáról – telekalakítási eljárás lefolytatása nélkül, a kérelemhez mellékelt változási vázrajz alapján – a kisajátítási hatóság dönt.
+
+(2) Az (1) bekezdésben meghatározott döntés meghozatala során a kisajátítási hatóságnak a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló Korm. rendeletben meghatározott, a részleges kisajátítás során a telekalakításra irányadó építésjogi követelményekre vonatkozó vizsgálatot is le kell folytatnia.

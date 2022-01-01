@@ -12,4 +12,6 @@ a) a helyiségben gyakorolt tevékenységét – legkésőbb a kisajátítási t
 
 b) tulajdonában (vagyonkezelésében, használatában) ugyanabban a városban (községben) olyan más, nem lakás céljára szolgáló helyiség van, amely megfelelő a tevékenység folytatására.
 
+(3a) Az (1) bekezdéstől eltérően a cserelakás, illetve a cserehelyiség biztosításának kötelezettsége nem áll fenn, ha a kisajátítást kérő nyilatkozik arról, hogy nem rendelkezik megfelelő felajánlható ingatlannal és valószínűsíti, hogy más megfelelő ingatlan felajánlásához szükséges intézkedések megtétele – azok időigénye folytán – az eljárás jelentős elhúzódásához vezetne.
+
 (4) Ha a jogosult a felajánlott és megfelelő cserelakást, illetve cserehelyiséget nem fogadja el, részére a cserelakás vagy cserehelyiség helyett pénzbeli kártalanításról kell dönteni.
