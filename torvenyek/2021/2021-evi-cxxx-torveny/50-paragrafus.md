@@ -1,0 +1,1 @@
+50. § Az egyetemes szolgáltatóval megkötésre kerülő villamosenergia-vásárlási szerződésre egyebekben az általános rendelkezések alkalmazandók azzal, hogy a 48. § szerinti felhasználókat az egyetemes szolgáltatással járó ellátási kötelezettségen és áralkalmazáson kívül egyéb kedvezmény nem illeti meg.

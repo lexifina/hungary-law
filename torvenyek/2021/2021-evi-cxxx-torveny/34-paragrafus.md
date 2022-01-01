@@ -1,0 +1,9 @@
+34. § (1) Az egyszerűsített közteherviselési hozzájárulásról szóló 2005. évi CXX. törvény (a továbbiakban: Ekho tv.) szabályai szerint közterhet fizető, az Szja tv. 29/A. § (3) bekezdése szerint – figyelemmel az Szja tv. 29/B. § (5) bekezdésére is – a 2021. év bármely napján családi kedvezményre jogosult magánszemély, akkor is, ha családi kedvezményt nem veszi igénybe, vagy nem ő veszi igénybe, a 2021. év tekintetében tőle levont egyszerűsített közteherviselési hozzájárulásnak (a továbbiakban: ekho) az Ekho tv. 9. §-a szerint személyi jövedelemadónak minősülő része (a továbbiakban: szja rész) tekintetében ekho-kedvezményre jogosult.
+
+(2) Az ekho-kedvezmény a magánszemélyt a 31. § (1) bekezdése szerinti kedvezményt követő sorrendben – a (3) bekezdés szerint – személyi jövedelemadó kedvezményként illeti meg azzal, hogy ezek együttes összege nem haladhatja meg a 31. § (2) bekezdése szerinti értékhatárt.
+
+(3) A (2) bekezdés alapján megállapított ekho-kedvezmény összegét a 2021. év tekintetében a bevallásban, a bevallási tervezetben a kifizetők által levont szja előleget növelő tételként kell figyelembe venni.
+
+(4) A 32. § (1) bekezdése szerinti előleg részét képezi – a magánszemélytől a 2021. év tekintetében levont szja előleget követő sorrendben – a 2021. évben a magánszemélytől levont ekho szja-része, de összesen legfeljebb a 31. § (2) bekezdése szerinti összeg. Az előleg tekintetében a 32. § (3)–(5) bekezdése rendelkezéseit alkalmazni kell.
+
+(5) A magánszemély a 31. § (6) bekezdése szerinti nyilatkozatát abban az esetben is megteheti, ha kizárólag ekho-kedvezményre jogosult.

@@ -1,0 +1,1 @@
+33. § A magánszemély az Szja tv. 45. §-a szerinti rendelkezési jogosultságát a 31. § (1) bekezdése szerint őt megillető kedvezmény figyelembevétele nélkül megállapított összeg tekintetében gyakorolhatja. A 31. § (1) bekezdése szerinti kedvezmény után a rendelkezési jogosultság mértékével megállapított összeg költségvetési támogatásként illeti meg a kedvezményezettet.
