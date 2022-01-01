@@ -1,25 +1,25 @@
-4. § (1)[^6] Az MBFSZ a közreműködő szerveket az 1. mellékletben meghatározott vélemény és adatok szolgáltatása céljából megkeresi, amelyhez egyidejűleg a tanulmányt a közreműködő szervek számára honlapján hozzáférhetővé teszi.
+4. § (1)[^8] Az SZTFH a közreműködő szerveket az 1. mellékletben meghatározott vélemény és adatok szolgáltatása céljából megkeresi, amelyhez egyidejűleg a tanulmányt a közreműködő szervek számára honlapján hozzáférhetővé teszi.
 
-(2)[^7] A környezetvédelmi és természetvédelmi hatóság és a vízügyi hatóság a 2. melléklet 3. pontjában foglaltakra is véleményt ad.
+(2)[^9] A környezetvédelmi és természetvédelmi hatóság és a vízügyi hatóság a 2. melléklet 3. pontjában foglaltakra is véleményt ad.
 
-(3)[^8] A megkeresett közreműködő szerv a véleményét és az adatokat a tanulmány beérkezésétől számított 30 napon belül küldi meg az MBFSZ-nek.
+(3)[^10] A megkeresett közreműködő szerv a véleményét és az adatokat a tanulmány beérkezésétől számított 30 napon belül küldi meg az SZTFH-nak.
 
-(4)[^9] Az MBFSZ az 5. § (1) bekezdése szerinti jelentés elkészítéséhez szükséges adatot kérhet egyéb, az 1. mellékletben nem szereplő közigazgatási szervtől is.
+(4)[^11] Az SZTFH az 5. § (1) bekezdése szerinti jelentés elkészítéséhez szükséges adatot kérhet egyéb, az 1. mellékletben nem szereplő közigazgatási szervtől is.
 
-(5)[^10] Az (1) bekezdés szerinti közreműködő szerv a véleményében meghatározza azt a területet vagy térrészt, amelyen a pályázatban kiírni tervezett koncessziós tevékenység nem folytatható, valamint a bányászati koncessziós tevékenység folytatásának pályázati kiírásban előírni szükséges követelményeit. A közreműködő szerv a véleményét indokolni köteles.
+(5)[^12] Az (1) bekezdés szerinti közreműködő szerv a véleményében meghatározza azt a területet vagy térrészt, amelyen a pályázatban kiírni tervezett koncessziós tevékenység nem folytatható, valamint a bányászati koncessziós tevékenység folytatásának pályázati kiírásban előírni szükséges követelményeit. A közreműködő szerv a véleményét indokolni köteles.
 
-(6)[^11] Ha a megkeresett közigazgatási szerv az adatszolgáltatási vagy véleményadási kötelezettségét a (3) bekezdésben megállapított határidőn belül nem teljesíti, a bányafelügyelet
+(6)[^13] Ha a megkeresett közigazgatási szerv az adatszolgáltatási vagy véleményadási kötelezettségét a (3) bekezdésben megállapított határidőn belül nem teljesíti, a bányafelügyelet
 
 a) megkeresi a környezetvédelmi és természetvédelmi hatóság felügyeleti szervének vezetőjét annak érdekében, hogy a közigazgatási szervet az adatszolgáltatás teljesítésére utasítsa,
 
 b) más közigazgatási szerv esetében pedig úgy tekinti, hogy az érintett közigazgatási szerv részéről koncessziós tevékenységet korlátozó körülményt nem kívánnak megnevezni.
 
-(7)[^12] Ha az MBFSZ a megkeresett közreműködő szerv véleményében foglaltakkal nem ért egyet, a véleményeltérést a vélemény beérkezésétől számított 15 napon belül egyezteti. Ha az egyeztetés nem vezet eredményre, a véleményeltérésről és annak indokáról a minisztert a jelentésben tájékoztatni kell.
+(7)[^14] Ha az SZTFH a megkeresett közreműködő szerv véleményében foglaltakkal nem ért egyet, a véleményeltérést a vélemény beérkezésétől számított 15 napon belül egyezteti. Ha az egyeztetés nem vezet eredményre, a véleményeltérésről és annak indokáról a bányászati ügyekért felelős minisztert (a továbbiakban: miniszter) a jelentésben tájékoztatni kell.
 
-[^6]: A 4. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 140. § (2) bekezdésével megállapított, a 162/2017. (VI. 28.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
-[^7]: A 4. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 100. § (5) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 173. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 4. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 141. § a) pontja, a 162/2017. (VI. 28.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
-[^9]: A 4. § (4) bekezdése a 162/2017. (VI. 28.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
-[^10]: A 4. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 141. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^11]: A 4. § (6) bekezdését a 281/2016. (IX. 21.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^12]: A 4. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 141. § a) pontja, a 162/2017. (VI. 28.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 140. § (2) bekezdésével megállapított, a 825/2021. (XII. 28.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 100. § (5) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 173. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: A 4. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 141. § a) pontja, a 825/2021. (XII. 28.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^11]: A 4. § (4) bekezdése a 825/2021. (XII. 28.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 141. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^13]: A 4. § (6) bekezdését a 281/2016. (IX. 21.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^14]: A 4. § (7) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 141. § a) pontja, a 825/2021. (XII. 28.) Korm. rendelet 24. § c) és d) pontja szerint módosított szöveg.
