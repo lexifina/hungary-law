@@ -1,0 +1,3 @@
+42/F. § (1) Ha vagyongazdálkodási célok megvalósítása érdekében indokolt, a 42/D. §-ban és a 42/E. §-ban meghatározott vagyonátadások helyett az MNV Zrt. egyoldalú nyilatkozattal rendelkezhet valamely vagyonelem tulajdonosi joggyakorlásának átadásáról vagy átvételéről.
+
+(2) Az (1) bekezdés szerinti esetben a tulajdonosi joggyakorlás az érintett vagyonelemre vonatkozó adatok átadási felületre történő feltöltésének napján az átadás napján érvényes nyilvántartási értéken száll át az átvevőre azzal, hogy az átadás tekintetében a 42/D. § (3)–(5) bekezdésében és a 42/E. § (5)–(7) bekezdésében foglaltakat alkalmazni kell.

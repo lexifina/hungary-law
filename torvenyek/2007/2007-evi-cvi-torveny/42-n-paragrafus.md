@@ -1,0 +1,1 @@
+42/N. § Egymástól elkülönülő egynemű, vagy egymással alkotórészi kapcsolatban nem álló, de gazdasági, jogi vagy funkcionális egységet képező kivezetésre szánt állami vagyoni körbe tartozó vagyontárgyak csomagban történő értékesítése esetén csak a vagyontárgyak teljes egészére mint dologösszességre vonatkozó ajánlat fogadható el.

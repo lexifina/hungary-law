@@ -1,1 +1,7 @@
-### 39. §
+## A honvédelmi célra feleslegessé nyilvánított hadfelszerelések, haditechnikai eszközök és szakanyagok értékesítésének szabályai
+
+39. § (1) A honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló, a honvédelemért felelős miniszter döntése alapján honvédelmi célra feleslegessé nyilvánított hadfelszereléseket, haditechnikai eszközöket és szakanyagokat (e § alkalmazásában a továbbiakban együtt: ingóságok) – a központi költségvetésről szóló törvényben meghatározott értékhatárig – a vagyonkezelő a tulajdonosi joggyakorlóval kötött megbízási szerződés alapján az állam nevében és javára értékesítheti. Az értékesítéssel kapcsolatos feladatai ellátása érdekében a vagyonkezelő a Kormány által rendeletben kijelölt, az állam 100%-os tulajdonában álló gazdasági társaság (e § alkalmazásában a továbbiakban: gazdasági társaság) közreműködését veszi igénybe.
+
+(2) A gazdasági társaság az (1) bekezdés szerinti értékesítés során a vagyonkezelő megbízásából, a vagyonkezelő nevében ellátja az ingóságok értékesítésével összefüggő feladatokat, az értékesítési eljárás előkészítését és lefolytatását. A gazdasági társaság az értékesítési eljárás megindítása előtt megállapítja az ingóságok forgalmi értékét az állam érdekeinek figyelembevételével.
+
+(3) A gazdasági társaság közreműködésére vonatkozó részletes szabályokat, a gazdasági társaság értékesítési eljárással összefüggő feladatait, valamint az általa nyújtott szolgáltatásokért fizetendő díj mértékét a Kormány rendeletben állapítja meg.

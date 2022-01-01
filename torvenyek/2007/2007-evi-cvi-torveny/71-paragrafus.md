@@ -20,6 +20,18 @@ i) a Kormány irányítása vagy felügyelete alá tartozó költségvetési sze
 
 j) a 24/A. § (1) bekezdése szerinti elektronikus bérleti licit rendszeren keresztül folytatott elektronikus bérleti licit szabályait, ezen belül a bérleti licit rendszer működtetésének szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartása vezetésének szabályait, a bérleti licit rendszeren keresztül történő elektronikus bérleti licit eljárás lebonyolításának szabályait, az elektronikus bérleti licitben résztvevők elektronikus nyilvántartásában szereplő, az érintett hozzájárulása alapján kezelt személyes adatok körét, az elektronikus bérleti licit rendszer szakmai követelményeit, a működtetés biztonságosságával, átláthatóságával és ellenőrizhetőségével összefüggő követelményeket, az elektronikus bérleti licit rendszerhez felhasználóként történő csatlakozás feltételeit és a bérleti licit rendszer használóira vonatkozó szabályzatok kötelező tartalmát.
 
+k) a kivezetésre szánt állami vagyon minősítésére, átadás-átvételére, az MVH tulajdonosi joggyakorlása alatt álló vagyon számviteli nyilvántartására, a kivezetésre szánt állami vagyonnal való gazdálkodásra és a kivezetésre szánt állami vagyon elidegenítésére vonatkozó részletes szabályokat, valamint a kivezetésre szánt állami vagyoni körbe tartozó gazdasági társaságok működésének sajátos szabályait;
+
+l) az MNV Zrt. közvetlen kezelésében lévő állami vagyonelemek minősítésére, a kivezetésre szánt állami vagyon körének megállapítására, valamint az MVH részére átadásra nem kerülő kis értékű vagyonelemek meghatározására vonatkozó szabályokat.
+
+(1a) Felhatalmazást kap a Kormány, hogy
+
+a) rendeletben jelölje ki a honvédelmi célra feleslegessé nyilvánított hadfelszerelések, haditechnikai eszközök és szakanyagok értékesítésében közreműködő 100%-os állami tulajdonban álló gazdasági társaságot, valamint
+
+b) rendeletben állapítsa meg a honvédelmi célra feleslegessé nyilvánított hadfelszerelések, haditechnikai eszközök és szakanyagok értékesítésében közreműködő gazdasági társaság közreműködésére vonatkozó részletes szabályokat, a gazdasági társaság értékesítési eljárással összefüggő feladatait, valamint a gazdasági társaság által nyújtott szolgáltatásokért fizetendő díj mértékét.
+
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kizárólagos gazdasági tevékenység gyakorlására jogosult személyt vagy szervezetet az állami vagyon tekintetében megillető, az Nvtv. 12. § (3a) bekezdése szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jogra vonatkozó részletes szabályokat.
+
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 a) az állam tulajdonában lévő vizek medrének használatáért fizetendő használati díj megállapításának elveit, módszereit és mértékét,

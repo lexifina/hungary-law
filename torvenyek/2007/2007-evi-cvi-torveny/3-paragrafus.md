@@ -1,6 +1,6 @@
-3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként – ha törvény vagy miniszteri rendelet eltérően nem rendelkezik – az MNV Zrt. gyakorolja.
+3. § (1) A rábízott állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét tulajdonosi joggyakorlóként – ha törvény vagy miniszteri rendelet eltérően nem rendelkezik – a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
-(1a)
+(1a) A kivezetésre szánt állami vagyon felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) gyakorolja.
 
 (1b)
 
@@ -16,7 +16,7 @@ d) a víziközmű-szolgáltató társaságok állami tulajdonú társasági rés
 
 gyakorolja.
 
-(2a) E törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját a miniszter a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 7/A. § (1) bekezdése szerinti személy kijelölésével határozhatja meg.
+(2a) E törvény felhatalmazása alapján – a 2. §-ban meghatározott célok hatékonyabb elérése érdekében, miniszteri rendeletben, az ott meghatározott állami vagyoni kör tekintetében, meghatározott időtartamra – e törvény keretei között, a joggyakorlás egyes szabályainak meghatározásával az államot megillető tulajdonosi jogok és kötelezettségek összességének, illetve azok meghatározott részének gyakorlóját a miniszter az Nvtv. 7/A. § (1) bekezdése szerinti személy kijelölésével határozhatja meg.
 
 (2b)
 
@@ -33,3 +33,5 @@ gyakorolja.
 (5) Az a törvényben kijelölt tulajdonosi joggyakorló, amely nem egyedileg meghatározott vagyoni kör tekintetében gyakorol tulajdonosi jogokat, a rábízott vagyon körében a miniszter jóváhagyásával köthet olyan megállapodást, amelynek eredményeként valamely vagyonelem könyv szerinti értéken, ingyenesen más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerül. Az erre vonatkozó kezdeményezést az ügyletben részt vevő tulajdonosi joggyakorlók együttesen nyújtják be a miniszterhez, a vagyonelem átadására irányuló megállapodás egyidejű megküldésével.
 
 (6) Az (5) bekezdés szerinti megállapodás megkötéséhez nem szükséges a miniszter jóváhagyása, ha az érintett vagyonelem más tulajdonosi joggyakorló tulajdonosi joggyakorlása alá kerülésére törvény rendelkezése alapján kerül sor.
+
+(7) A kivezetésre szánt állami vagyon tekintetében a tulajdonosi joggyakorlás átadására vonatkozó szabályokat az V/A. Fejezet állapítja meg.

@@ -22,7 +22,7 @@ g) egyház, egyházi jogi személy hitéleti feladatai elősegítése vagy az á
 
 (4) A (2) bekezdés c), e) és g) pontja, valamint a (7) bekezdés alapján ingyenesen átruházható vagyontárgyak összesített értéke évente nem haladhatja meg az adott évi költségvetési törvényben meghatározott keretösszeget.
 
-(5) Az MNV Zrt. az állam mint törvényes örökös nevében az öröklésről az örökhagyó utolsó belföldi lakóhelye, ennek hiányában a hagyaték fekvési helye szerinti helyi önkormányzat javára, ingatlan esetében annak fekvési helye szerinti helyi önkormányzat javára lemondhat.
+(5)
 
 (6) Az MNV Zrt. Igazgatósága jogosult dönteni a (2) bekezdés c), e) és g) pontjában meghatározott személyek, szervezetek javára az ott meghatározott célokra évente kedvezményezettenként 25 millió forint nyilvántartási értéket meg nem haladó értékű ingóságok ingyenes tulajdonba adásáról. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásáról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
