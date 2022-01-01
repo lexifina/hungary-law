@@ -8,7 +8,7 @@
 
 a) a koronavírussal fertőzött személy
 
-aa) nevét,
+aa)
 
 ab) születési idejét,
 
@@ -16,7 +16,7 @@ ac) nemét,
 
 ad) állampolgárságát,
 
-ae) társadalombiztosítási azonosító jelét, vagy egyéb, az ellátás során használt azonosítóját,
+ae)
 
 af) a koronavírus kimutatására szolgáló mintavétel időpontját,
 
@@ -40,7 +40,7 @@ bd) ha sor került intenzív ellátásra, ennek a tényét,
 
 be) a koronavírus fertőzés szövődményei megnevezését és BNO kódját,
 
-c) a Covid–19 elleni védőoltásban részesült személy a) pont szerinti adatait, a Covid–19 elleni védőoltás típusát, a Covid–19 elleni védőoltásra történő regisztráció időpontját, valamint a Covid–19 elleni védőoltás beadásának időpontjait.
+c) a Covid–19 elleni védőoltásban részesült személy a) pont szerinti adatait, a Covid–19 elleni védőoltás típusát, valamint a Covid–19 elleni védőoltás beadásának időpontjait.
 
 (3) A koronavírus fertőzési és ellátási adatokra vonatkozó adatszolgáltatás keretében
 
@@ -68,6 +68,10 @@ c) az állami mentőszolgálat hetente a sürgősségi betegellátás keretében
 
 átadja a regiszter részére.
 
+(3a) A (3) bekezdés szerinti adatszolgáltatók a (3) bekezdés szerinti adatszolgáltatás teljesítése érdekében megküldik az egészségbiztosítási szerv részére az érintett személy nevét, társadalombiztosítási azonosító jelét vagy egyéb, az ellátás során használt azonosítóját, amely adatok tekintetében az egészségbiztosítási szerv az átadáskor a Társadalombiztosítási Azonosító Jel pszeudonimizálásával kapcsolati kódot (a továbbiakban: pszeudo-TAJ) képez és az adatokat a kód képzésével egyidejűleg törli.
+
+(3b) A (3a) bekezdés szerinti adatok – az érintett kérelmére vagy hozzájárulásával – a 4. § (1) bekezdés f) pontja szerinti célból állíthatóak vissza.
+
 (4) A (3) bekezdés szerinti adatszolgáltatás teljesítése érdekében az egészségbiztosítási szerv a (3) bekezdés szerinti szervekkel megállapodást köt az adatszolgáltatás részletes technikai feltételei és struktúrája tekintetében.
 
-(5) Az azonos betegre a regiszterben tárolt koronavírus fertőzési és ezzel összefüggő ellátási adatokat a beteg személyének azonosításra alkalmas módon vonatkozó első adat regiszterbe történő felvételétől számított 10 év elteltével meg kell fosztani a személyes azonosítás lehetőségétől.
+(5) Az azonos betegre a regiszterben tárolt koronavírus-fertőzési és ezzel összefüggő ellátási adatokat a betegre vonatkozó első adat regiszterbe történő felvételétől számított 10 év elteltével meg kell fosztani a (3b) bekezdés szerinti személyes azonosítás lehetőségétől.

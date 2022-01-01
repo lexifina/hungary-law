@@ -14,6 +14,8 @@ d) a népegészségügyi [16. §], közegészségügyi és járványügyi érdek
 
 e) a betegjogok érvényesítése.
 
+f) az egyéni betegút követése.
+
 (2) Egészségügyi és személyazonosító adatot az (1) bekezdésben meghatározottakon túl – törvényben meghatározott esetekben – az alábbi célból lehet kezelni:
 
 a) egészségügyi szakember-képzés,
