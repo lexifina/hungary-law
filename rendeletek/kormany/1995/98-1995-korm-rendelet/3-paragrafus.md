@@ -12,9 +12,9 @@ e) a selejt- és a hulladékanyagok zártrendszerű megsemmisítéséhez szüks�
 
 f)[^5]
 
-g)[^6] a nyilatkozatban vállalja a Felügyelet értékpapírok előállításáról szóló szabályzatának megtartását.
+g)[^6] olyan nyilatkozattal, amelyben vállalja a Felügyelet értékpapírok előállításáról szóló szabályzatának (a továbbiakban: Szabályzat) megtartását.
 
-(2)[^7] Az (1) bekezdés g) pontja szerinti szabályzatot a Felügyelet az értékpapír-előállítási tevékenység folytatására jelentkező, az (1) bekezdés egyéb feltételeit már teljesítő nyomda rendelkezésére bocsátja, melyet az köteles titkosan kezelni.
+(2)[^7] A Szabályzatot a Felügyelet az értékpapír-előállítási tevékenység folytatására jelentkező, az (1) bekezdés egyéb feltételeit már teljesítő nyomda rendelkezésére bocsátja, melyet az köteles titkosan kezelni.
 
 (3)[^8] Az engedéllyel rendelkező nyomdákról a Felügyelet nyilvántartást vezet, melyet rendszeresen, de legalább félévente közzétesz hivatalos lapjában, valamint a Pénzügyi Közlöny című hivatalos lapban.
 
@@ -37,8 +37,8 @@ d) visszavonja a nyomda engedélyét,
 (7)[^11]
 
 [^5]: A 3. § (1) bekezdésének f) pontját a 182/2009. (IX. 10.) Korm. rendelet 64. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^6]: A 3. § (1) bekezdésének g) pontja a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
-[^7]: A 3. § (2) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdés g) pontja a 297/2021. (V. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 3. § (2) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja, a 297/2021. (V. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^8]: A 3. § (3) bekezdése a 206/1996. (XII. 23.) Korm. rendelet 7. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^9]: A 3. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 62. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^10]: A 3. § (6) bekezdése a 172/2017. (VI. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
