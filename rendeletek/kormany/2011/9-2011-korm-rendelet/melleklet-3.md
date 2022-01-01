@@ -40,4 +40,4 @@
 
 3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^158]
 
-[^158]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^158]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés a) pontjával megállapított, a 825/2021. (XII. 28.) Korm. rendelet 23. §-a szerint módosított szöveg.

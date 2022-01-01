@@ -120,7 +120,7 @@
 
 | Szakértői vélemény: |  |  |
 
-## * A Magyar Bányászati és Földtani Szolgálat által megállapított földtani veszélyességi kategóriát kell érteni.
+## * A Szabályozott Tevékenységek Felügyeleti Hatósága által megállapított földtani veszélyességi kategóriát kell érteni.
 
 | Kelt: ..................., 20 ..... év ................... hó ..... nap | P. H | ........................................... |
 

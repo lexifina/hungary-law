@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-22
 | 2020-01-01 | 2011-9-20-22.20 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2011-9-20-22.21 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2020-03-21 | 2011-9-20-22.22 | 54/2020. (III. 20.) Korm. rendelet |
+| 2022-01-01 | 2011-9-20-22.23 | 360/2019. (XII. 30.) Korm. rendelet |
