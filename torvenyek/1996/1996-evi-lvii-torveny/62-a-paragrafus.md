@@ -6,6 +6,8 @@
 
 (4) A díjfizetési kötelezettség akkor is fennáll, ha a vizsgáló, illetve az eljáró versenytanács a versenyfelügyeleti eljárást a 60/A. § (1) bekezdés c) pontjában, d) pontjában vagy (2) bekezdésében meghatározott okból megszünteti.
 
+(4a) A versenyfelügyeleti eljárás 60/A. § (1) bekezdés e) vagy f) pontja alapján történő megszüntetése esetén a 62. § (1) bekezdése szerinti, már megfizetett igazgatási szolgáltatási díj felét az összefonódást bejelentőnek vissza kell téríteni.
+
 (5) Ha az igazgatási szolgáltatási díjat vagy annak egy részét vissza kell téríteni, a visszatérítendő összeget a Gazdasági Versenyhivatal haladéktalanul átutalja annak a fizetési számlának a javára, ahonnan az igazgatási szolgáltatási díjat befizették.
 
 (6) Az igazgatási szolgáltatási díj kezelésére, elszámolására és nyilvántartására az államháztartás számviteléről szóló kormányrendelet rendelkezéseit kell megfelelően alkalmazni.

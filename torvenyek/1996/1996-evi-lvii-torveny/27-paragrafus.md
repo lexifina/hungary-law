@@ -2,7 +2,7 @@
 
 (2) A vállalkozások nettó árbevételének számítása során a Magyarország területén eladott árukból az előző üzleti évben elért nettó árbevételt kell figyelembe venni.
 
-(3) Az állami vagy helyi önkormányzati többségi tulajdonban lévő vállalkozások nettó árbevételének kiszámításánál azt a gazdasági egységet alkotó vállalkozást kell számításba venni, amely piaci magatartásának meghatározásában önálló döntési joggal rendelkezik.
+(3) Az állami vagy helyi önkormányzati közvetlen irányítás alatt álló vállalkozások nettó árbevételének kiszámításánál azt a gazdasági egységet alkotó vállalkozást kell számításba venni, amely piaci magatartásának meghatározásában önálló döntési joggal rendelkezik.
 
 (4) Vállalkozásrész esetében az azt alkotó eszközök és jogok hasznosításával elért előző évi nettó árbevételt kell figyelembe venni.
 

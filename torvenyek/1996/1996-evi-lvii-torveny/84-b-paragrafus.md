@@ -1,4 +1,4 @@
-84/B. § (1) Az eljáró versenytanács a döntésében előírt meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozó kötelezettség (a továbbiakban együtt: meghatározott cselekmény) végrehajtásának elrendelésével egyidejűleg – ha a meghatározott cselekmény teljesítése más végrehajtási módon keresztül hatékonyan nem biztosítható – végrehajtási bírságot szab ki.
+84/B. § (1) A vizsgáló az eljáró versenytanács döntésében előírt meghatározott cselekmény elvégzésére, meghatározott magatartás tanúsítására vagy attól való tartózkodásra vonatkozó kötelezettség (a továbbiakban együtt: meghatározott cselekmény) végrehajtásának elrendelésével egyidejűleg – ha a meghatározott cselekmény teljesítése más végrehajtási módon keresztül hatékonyan nem biztosítható – végrehajtási bírságot szab ki.
 
 (2) A végrehajtási bírság a vállalkozással és a vállalkozás törvényes képviselőjével szemben egyidejűleg is kiszabható.
 

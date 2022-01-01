@@ -10,4 +10,4 @@ c) amelyeket a b) pont szerinti vállalkozás az a) pont szerint irányít;
 
 d) amelyeket az a)–c) pont szerinti vállalkozások és a vállalkozás közül kettő vagy több közösen irányít.
 
-(3) Függetlennek kell tekinteni a 25. §-ban említett vállalkozásokat, valamint azokat az állami vagy helyi önkormányzati többségi tulajdonban lévő vállalkozásokat, amelyek piaci magatartásuk meghatározásában önálló döntési joggal rendelkeznek [27. § (3) bekezdés].
+(3) Függetlennek kell tekinteni a 25. §-ban említett vállalkozásokat, valamint azokat az állami vagy helyi önkormányzati közvetlen irányítás alatt álló vállalkozásokat, amelyek piaci magatartásuk meghatározásában önálló döntési joggal rendelkeznek [27. § (3) bekezdés].

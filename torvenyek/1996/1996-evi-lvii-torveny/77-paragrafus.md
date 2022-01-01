@@ -24,6 +24,12 @@ a) az (1) bekezdés a) pontja szerinti esetben határozatban megállapítja a fe
 
 b) az (1) bekezdés b) pontja szerinti esetben – ha a határozat 32. § (4) bekezdés b) pontja szerinti módosítására nem kerül sor – a 31. § szerinti intézkedést alkalmazza, és bírságot szabhat ki,
 
-c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát a 75. § (3) bekezdés b) pontja szerint módosítja, a 75. § (6) bekezdése szerint visszavonja vagy bírságot szab ki, vagy a 75. § (6a) bekezdése szerint visszavonhatja,
+c) az (1) bekezdés c) pontja szerinti esetben a 75. § (1) bekezdése szerinti határozatát
 
-d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását vagy bírságot szab ki.
+ca) a 75. § (3) bekezdés b) pontja szerint módosítja,
+
+cb) a 75. § (6) bekezdése szerint visszavonja, bírságot szab ki, illetve a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz,
+
+cc) a 75. § (6a) bekezdése szerint visszavonhatja, vagy
+
+d) az (1) bekezdés d) pontja szerinti esetben elrendeli a kötelezettség végrehajtását, bírságot szab ki, vagy a 78. § (8) bekezdése szerinti figyelmeztetést alkalmaz.

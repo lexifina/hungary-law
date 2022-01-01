@@ -2,4 +2,4 @@
 
 (2) Az (1) bekezdés szerinti fizetési kötelezettség a jogerős bírósági ítélettel szemben rendkívüli perorvoslat kezdeményezésére nyitva álló határidő leteltekor, ha pedig a jogerős ítélettel szemben rendkívüli perorvoslatot kezdeményeztek, az azt az eljárást befejező bírósági határozat Gazdasági Versenyhivatallal való közlése napján áll be.
 
-(3) Az (1) bekezdés szerinti kamat kifizetését az eljáró versenytanács külön végzésben rendeli el.
+(3) Az (1) bekezdés szerinti kamat kifizetését a vizsgáló külön végzésben rendeli el. A vizsgáló végzése közigazgatási perben támadható meg a közléstől számított nyolc napon belül.

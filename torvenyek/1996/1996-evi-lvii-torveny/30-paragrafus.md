@@ -8,6 +8,8 @@ b) az érintett vállalkozások piaci helyzetét és stratégiáját, gazdasági
 
 c) az összefonódásnak a szállítókra és az üzletfelekre gyakorolt hatását.
 
+(2a) Digitális piacokat érintő összefonódás elbírálásakor vizsgálni kell különösen az érintett vállalkozásoknak a verseny szempontjából releváns adatokhoz való hozzáféréséből, valamint az összefonódásnak az érintett vállalkozások pénzügyi befolyásából, méretelőnyéből, adatok felhalmozására való képességéből és az adathalmazok összeadódásából fakadó, innovációra és versenyre gyakorolt hatását.
+
 (3) Ha az érintett piacon a versenynek az összefonódásból eredő jelentős mértékű csökkenése meghatározott előzetes vagy utólagos feltétel teljesülése – így különösen egyes vállalkozásrészek vagy egyes vagyontárgyak elidegenítése, valamely közvetett résztvevő felett gyakorolt irányítás megszüntetése – esetén vagy meghatározott magatartási szabályok betartása mellett kiküszöbölhető, és az e tekintetben érintett vállalkozások vállalják, hogy az összefonódást ilyen feltételek szerint megfelelően módosítják, illetve hogy az összefonódás végrehajtása esetén ennek megfelelő magatartást tanúsítanak, a Gazdasági Versenyhivatal az összefonódás megtiltása helyett határozatában kötelezővé teheti a vállalás teljesítését, illetve az összefonódás végrehajtására előzetes vagy utólagos feltételt írhat elő.
 
 (4) Ha a 23. § (1) bekezdés c) pontja szerinti közös vállalkozás létrehozásának célja vagy hatása a létrehozó vállalkozáscsoportok piaci magatartásának összehangolása, az összefonódást a 17. § alapján kell elbírálni.

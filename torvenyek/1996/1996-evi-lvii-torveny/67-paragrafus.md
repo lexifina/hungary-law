@@ -18,6 +18,8 @@ b) az összefonódás-bejelentés nem felel meg a 43/J. § (1) bekezdésében fo
 
 (5) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a bejelentésköteles összefonódás vizsgálatát akkor is, ha a valószínűsíthetően az összefonódás-vizsgálati küszöbértéket elérő nem bejelentett összefonódás tekintetében nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
 
+(5a) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a 25/B. § (1) bekezdése szerinti összefonódás vizsgálatát, ha nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
+
 (6) Ha a vizsgáló az összefonódás-bejelentés alapján valószínűsíti, hogy az összefonódást a 29. §-ba ütköző módon végrehajtották, a 29. §-ban foglalt tilalom megsértésének vizsgálatára külön versenyfelügyeleti eljárást indít.
 
 (7) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel vizsgálatot rendel el, ha valószínűsíthető, hogy

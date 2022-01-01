@@ -6,9 +6,13 @@ a) a hatásköri vitában az érintett hatósággal való egyeztetés eredménye
 
 b) az eljárás során beszerzett bizonyítékok alapján nem állapítható meg, hogy a magatartás jogsértő-e, és az eljárás folytatásától sem várható eredmény,
 
-c) az eljárás okafogyottá vált, vagy
+c) az eljárás okafogyottá vált,
 
-d) az összefonódás tekintetében nem teljesül az összefonódás-vizsgálati küszöbérték.
+d) az összefonódás tekintetében nem teljesül az összefonódás-vizsgálati küszöbérték,
+
+e) az összefonódást közérdekből nemzetstratégiai jelentőségűnek minősítették vagy
+
+f) az összefonódás a 25/B. § (1) bekezdése szerinti összefonódásnak minősül.
 
 (2) Az eljáró versenytanács a versenyfelügyeleti eljárást megszünteti, ha a vizsgált ügylet a 23. § szerint nem összefonódás, ideértve azt az esetet is, ha a 28. § (2) bekezdése szerinti esemény még nem következett be.
 

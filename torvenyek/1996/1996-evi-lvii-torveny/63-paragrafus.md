@@ -10,7 +10,7 @@ b) a 11. §-ban vagy a 21. §-ban, illetve az EUMSz. 101. vagy 102. cikkében ti
 
 c) a 67. § (3), (6) vagy (8) bekezdése alapján indított eljárásban hat hónap,
 
-d) a 67. § (4) bekezdés a) pontja vagy (5) bekezdése alapján indított eljárásban négy hónap,
+d) a 67. § (4) bekezdés a) pontja, (5) vagy (5a) bekezdése alapján indított eljárásban négy hónap,
 
 e) a 67. § (4) bekezdés b) pontja alapján indított eljárásban – a (3) bekezdés szerinti eltéréssel – harminc nap,
 
