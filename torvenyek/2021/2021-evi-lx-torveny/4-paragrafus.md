@@ -4,4 +4,4 @@
 
 a)
 
-b)
+b) 61/A. § (3) bekezdés n) pontja.

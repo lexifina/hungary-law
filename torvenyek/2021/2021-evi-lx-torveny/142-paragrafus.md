@@ -6,7 +6,7 @@
 
 (3) Az 59. §, a 133–134. §, a 136–141. § és az 1. melléklet 2021. augusztus 1-jén lép hatályba.
 
-(4) A 4. § b) pontja, a 92. § és a 112. § 2022. január 1-jén lép hatályba.
+(4) A 4. § b) pontja és a 112. § 2022. január 1-jén lép hatályba.
 
 (5) A 135. § 2022. augusztus 1-jén lép hatályba.
 
