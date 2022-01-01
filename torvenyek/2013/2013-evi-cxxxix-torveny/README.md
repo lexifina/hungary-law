@@ -51,3 +51,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2021-06-26 | 2020. évi CX. törvény | 2013-139-00-00.44 |
 | 2021-08-02 | 2021. évi LVIII. törvény | 2013-139-00-00.45 |
 | 2021-11-10 | 2021. évi LVIII. törvény | 2013-139-00-00.46 |
+| 2022-01-01 | 2021. évi LVIII. törvény | 2013-139-00-00.47 |

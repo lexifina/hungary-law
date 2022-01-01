@@ -75,9 +75,3 @@
 ## 9. egyesülés esetén a befektetési jegyek folyamatos forgalmazása felfüggesztésének engedélyezésére,
 
 ## 10. a befektetési jegyek folyamatos forgalmazása felfüggesztésének meghosszabbítására,
-
-## 11. ingatlanértékelővel kötött szerződés és annak módosítása jóváhagyására,
-
-## 12. tájékoztató vagy alaptájékoztató kiegészítése közzétételének engedélyezésére,
-
-## 13. nyilvános, nyílt végű, harmonizációja szerint ÁÉKBV esetében a letétkezelői szerződés módosítása hatálybalépésének jóváhagyására,
