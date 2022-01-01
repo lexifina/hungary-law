@@ -1,8 +1,8 @@
-## 15/B. §[^40] A 15/A. § (1)–(4) bekezdésének rendelkezéseit a közfeladatot ellátó szerv szervezeti egységét érintő feladatkör átadása esetén is alkalmazni kell.
+## 15/B. §[^41] A 15/A. § (1)–(4) bekezdésének rendelkezéseit a közfeladatot ellátó szerv szervezeti egységét érintő feladatkör átadása esetén is alkalmazni kell.
 
 ## Az iratkezelés megszervezése
 
-16. § (1)[^41] A közfeladatot ellátó szerv adottságainak és igényeinek megfelelően az iratkezelést
+16. § (1)[^42] A közfeladatot ellátó szerv adottságainak és igényeinek megfelelően az iratkezelést
 
 a) központilag, egyetlen szervezeti egység vagy személy feladataként,
 
@@ -14,5 +14,5 @@ c) vegyes rendszerben, az a) és b) pontban foglaltak együttes alkalmazásával
 
 (2) A szerv az elintézett ügyek iratait irattárában helyezi el.
 
-[^40]: A 15/B. §-t a 64/2010. (III. 18.) Korm. rendelet 3. §-a iktatta be.
-[^41]: A 16. § (1) bekezdés nyitó szövegrésze a 64/2010. (III. 18.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.
+[^41]: A 15/B. §-t a 64/2010. (III. 18.) Korm. rendelet 3. §-a iktatta be.
+[^42]: A 16. § (1) bekezdés nyitó szövegrésze a 64/2010. (III. 18.) Korm. rendelet 35. § c) pontja szerint módosított szöveg.

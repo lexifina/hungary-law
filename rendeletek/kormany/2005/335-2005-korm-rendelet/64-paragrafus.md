@@ -1,6 +1,6 @@
 ## Selejtezés
 
-64. §[^165] (1) Az ügyiratok selejtezését az irattári tervben rögzített őrzési idő leteltével az Ltv. 9. § (1) bekezdés f) pontja szerint kell végrehajtani.
+64. §[^166] (1) Az ügyiratok selejtezését az irattári tervben rögzített őrzési idő leteltével az Ltv. 9. § (1) bekezdés f) pontja szerint kell végrehajtani.
 
 (2) Az iratselejtezésről – a legalább évente egyszer, legfeljebb évente négyszer – készített selejtezési jegyzőkönyvet az iratkezelésért felelős vezető jóváhagyását követően az illetékes levéltárhoz kell továbbítani a selejtezés engedélyezése végett.
 
@@ -14,4 +14,4 @@
 
 (7) Ha az iratkezelés során rendkívüli esemény következtében az iratok károsodást szenvedtek, arról haladéktalanul jegyzőkönyvet kell felvenni, amely tartalmazza a károsodott iratok meghatározását, a káresemény helyét, időpontját és körülményeit. A jegyzőkönyvet haladéktalanul meg kell küldeni az illetékes közlevéltár részére. A közlevéltár véleményének kikérésével a szervnek meg kell vizsgálnia a megrongálódott iratok helyreállításának lehetőségét. Ha a károsodás mértéke, illetve jellege miatt nincs mód az iratok helyreállítására, a közlevéltár engedélyezheti azok kényszerselejtezését, továbbá szükség esetén hivatalból értesíti az adatvesztés ügyében eljárásra jogosult hatóságot.
 
-[^165]: A 64. § a 328/2020. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^166]: A 64. § a 328/2020. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.

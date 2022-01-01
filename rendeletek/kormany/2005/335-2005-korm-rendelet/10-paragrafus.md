@@ -1,8 +1,8 @@
-## 9. §[^28]
+## 9. §[^29]
 
 ## Az irattári tételek kialakítása
 
-10. § (1)[^29] Az ügyiratokat és a nyilvántartott egyéb iratokat – a szerv ügyköreit az azonos tárgyú egyedi ügyekig lemenő részletességgel felsoroló jegyzék segítségével – tárgyi alapon kell tételekbe sorolni. Az irattári tétel egy vagy több tárgykör (ügykör) irataiból is kialakítható, annak figyelembevételével, hogy:
+10. § (1)[^30] Az ügyiratokat és a nyilvántartott egyéb iratokat – a szerv ügyköreit az azonos tárgyú egyedi ügyekig lemenő részletességgel felsoroló jegyzék segítségével – tárgyi alapon kell tételekbe sorolni. Az irattári tétel egy vagy több tárgykör (ügykör) irataiból is kialakítható, annak figyelembevételével, hogy:
 
 a) egy irattári tételbe csak azonos értékű, levéltári megőrzést igénylő vagy meghatározott időtartam eltelte után selejtezhető iratok sorolhatók be;
 
@@ -18,5 +18,5 @@ b) az a) pont szerinti nyilvántartások alapirataiból, ha azokat külön iratt
 
 c) a választott testületek, bizottságok, valamint a szerv működése szempontjából meghatározó jelentőségű, rendszeresen megtartott értekezletek irataiból (ideértve az előterjesztéseket, a jegyzőkönyveket vagy emlékeztetőket és a határozatokat is), továbbá a belső utasításokból.
 
-[^28]: A 9. §-t a 239/2007. (IX. 12.) Korm. rendelet 11. § (1) bekezdése, a 9. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 389. pontja hatályon kívül helyezte.
-[^29]: A 10. § (1) bekezdés nyitó szövegrésze a 196/2013. (VI. 13.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^29]: A 9. §-t a 239/2007. (IX. 12.) Korm. rendelet 11. § (1) bekezdése, a 9. §-t megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 389. pontja hatályon kívül helyezte.
+[^30]: A 10. § (1) bekezdés nyitó szövegrésze a 196/2013. (VI. 13.) Korm. rendelet 6. §-a szerint módosított szöveg.

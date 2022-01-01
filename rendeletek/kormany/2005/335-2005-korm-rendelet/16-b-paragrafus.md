@@ -1,4 +1,4 @@
-16/B. §[^44] (1)[^45] Ha a közfeladatot ellátó szerv csak papír alapú iratokat kezel, és iratkezelési szoftvert használ, köteles biztosítani az iratkezelési szoftverben tárolt valamennyi információnak az Eür. szerinti elektronikus dokumentumformátumban történő automatikus előállítását.
+16/B. §[^45] (1)[^46] Ha a közfeladatot ellátó szerv csak papír alapú iratokat kezel, és iratkezelési szoftvert használ, köteles biztosítani az iratkezelési szoftverben tárolt valamennyi információnak az Eür. szerinti elektronikus dokumentumformátumban történő automatikus előállítását.
 
 (2) Az iratkezelési szoftvernek képesnek kell lennie a tárolt információkat a külön jogszabályban meghatározottak szerint előállítani, továbbá biztosítania kell az elektronikus formában létrejött információk további feldolgozhatóságát, az iratkezelő szoftverek közötti átadását.
 
@@ -12,5 +12,5 @@ c) a tárolt elektronikus iratok és kísérő információk (előadói ív)
 
 egyedi, illetve kötegelt lekérdezhetőségét.
 
-[^44]: A 16/B. §-t a 196/2013. (VI. 13.) Korm. rendelet 9. §-a iktatta be.
-[^45]: A 16/B. § (1) bekezdése a 137/2019. (VI. 11.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^45]: A 16/B. §-t a 196/2013. (VI. 13.) Korm. rendelet 9. §-a iktatta be.
+[^46]: A 16/B. § (1) bekezdése a 137/2019. (VI. 11.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
