@@ -1,5 +1,5 @@
-6. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^137]
+6. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^140]
 
 A korrekciós tényezők
 
-[^137]: A Vhr. 6. számú mellékletét a 104/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^140]: A Vhr. 6. számú mellékletét a 104/2011. (VI. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.

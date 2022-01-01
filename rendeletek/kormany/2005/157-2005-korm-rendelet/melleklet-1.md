@@ -1,4 +1,4 @@
-1. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^87]
+1. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^88]
 
 Cégjogi esemény, befolyásszerzés esetén a kérelemhez benyújtandó iratok és adatok
 
@@ -56,7 +56,7 @@ Cégjogi esemény, befolyásszerzés esetén a kérelemhez benyújtandó iratok 
 
 3.2. a befolyásszerzésre irányuló ügyletet megelőző, valamint az ügylet zárása után kialakuló társasági (engedélyesi) struktúrát mutató ábra a közvetlen tulajdoni és irányítási viszonyok feltüntetésével,
 
-3.3.[^88] az ügyletre vonatkozó szerződés, valamint a döntéshozó befolyásszerzés megvalósításáról szóló döntése.
+3.3.[^89] az ügyletre vonatkozó szerződés, valamint a döntéshozó befolyásszerzés megvalósításáról szóló döntése.
 
-[^87]: A Vhr. 1. mellékletét a 457/2017. (XII. 28.) Korm. rendelet 146. § e) pontja hatályon kívül helyezte, újonnan a 80/2019. (IV. 15.) Korm. rendelet 5. §-a iktatta be.
-[^88]: A Vhr. 1. melléklet 3.3. pontja a 401/2020. (VIII. 17.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^88]: A Vhr. 1. mellékletét a 457/2017. (XII. 28.) Korm. rendelet 146. § e) pontja hatályon kívül helyezte, újonnan a 80/2019. (IV. 15.) Korm. rendelet 5. §-a iktatta be.
+[^89]: A Vhr. 1. melléklet 3.3. pontja a 401/2020. (VIII. 17.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
