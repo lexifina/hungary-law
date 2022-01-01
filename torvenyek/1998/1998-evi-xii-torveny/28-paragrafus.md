@@ -6,7 +6,7 @@ b) az úti okmány birtokosának családi és utónevéről – ideértve a szü
 
 c) az úti okmány elvesztésének, eltulajdonításának, megsemmisülésének, illetőleg megtalálásának tényéről, valamint
 
-d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére az érintett arcképmásáról és saját kezű aláírásáról is, de a személyazonosítást követően ezen adatokat haladéktalanul törölni kell, kivéve, ha az érintett a további adatkezeléshez hozzájárult, vagy azt törvény lehetővé teszi.
+d) törvény, illetve az érintett hozzájárulása alapján az adat kezelésére jogosult adatkérő részére az érintett állampolgárságáról, számára kiadott úti okmány típusáról, számáról, arcképmásáról és saját kezű aláírásáról is, de a személyazonosítást követően ezen adatokat haladéktalanul törölni kell, kivéve, ha az érintett a további adatkezeléshez hozzájárult, vagy azt törvény lehetővé teszi.
 
 (2) A (2a) és (2b) bekezdésben meghatározott eltérésekkel az útlevélhatóság, illetőleg az adatkezelő szerv az úti okmány okmányazonosítóját megjelölő kérelmező részére a felhasználás céljának és jogalapjának igazolása nélkül is adatszolgáltatást teljesít az úti okmány kiadásáról, cseréjéről, visszavonásáról, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, találásának, megkerülésének tényéről.
 
