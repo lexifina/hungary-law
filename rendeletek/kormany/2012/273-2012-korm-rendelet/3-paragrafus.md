@@ -18,14 +18,15 @@ d) az e rendelet alapján minősített továbbképzési programot központilag e
 
 e) egyetértési jogot gyakorol minősített továbbképzési program – ágazati miniszter által az adott ágazatban dolgozó közszolgálati tisztviselők számára – kötelezően előírt továbbképzési programmá nyilvánításával kapcsolatban;
 
-f) jóváhagyja a megvalósított közszolgálati továbbképzésekről és az éves továbbképzési tervek végrehajtásáról szóló, az NKE által elkészített jelentést;
+f)[^14] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel közösen jóváhagyja a megvalósított közszolgálati továbbképzésekről és az éves továbbképzési tervek végrehajtásáról szóló, az NKE által elkészített jelentést;
 
-g)[^14] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel közösen kiadja a közszolgálati továbbképzés egységes minőségirányítási szabályzatát az NKE – a Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) által véleményezett – javaslata alapján, és az NKE bevonásával ellenőrzi a továbbképzési programok minőségét;
+g)[^15] a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszterrel közösen kiadja a közszolgálati továbbképzés egységes minőségirányítási szabályzatát az NKE – a Közigazgatási Továbbképzési Kollégium (a továbbiakban: KTK) által véleményezett – javaslata alapján, és az NKE bevonásával ellenőrzi a továbbképzési programok minőségét;
 
-h)[^15] 15 munkanapon belül elbírálja a programminősítési eljárással kapcsolatban benyújtott panaszt.
+h)[^16] 15 munkanapon belül elbírálja a programminősítési eljárással kapcsolatban benyújtott panaszt.
 
 [^11]: A 3. alcím címe a 221/2014. (IX. 4.) Korm. rendelet 691. §-a szerint módosított szöveg.
 [^12]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 690. §-ával megállapított szöveg.
 [^13]: A 3. § (3) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^14]: A 3. § (3) bekezdés g) pontja a 321/2016. (X. 27.) Korm. rendelet 15. §-ával megállapított, a 90/2019. (IV. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^15]: A 3. § (3) bekezdés h) pontja a 108/2016. (V. 18.) Korm. rendelet 30. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdés f) pontja a 499/2021. (VIII. 18.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^15]: A 3. § (3) bekezdés g) pontja a 321/2016. (X. 27.) Korm. rendelet 15. §-ával megállapított, a 90/2019. (IV. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^16]: A 3. § (3) bekezdés h) pontja a 108/2016. (V. 18.) Korm. rendelet 30. § (1) bekezdés a) pontja szerint módosított szöveg.
