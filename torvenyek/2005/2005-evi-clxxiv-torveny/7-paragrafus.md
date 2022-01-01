@@ -18,9 +18,9 @@ af) a gyermek jogosultságának bármely okból történő megszűnésének napj
 
 a jóváírás évét megelőző naptári évre vonatkozóan a Központi Statisztikai Hivatal által hivatalosan közzétett éves átlagos fogyasztói árindex százalékos mértékével megegyező kamat, negatív éves fogyasztói árindex esetén nullaszázalékos kamat alapján a nyilvántartott követelés utolsó fordulónapjától számított időszakban meghatározott átlagos állománya után számított támogatást,
 
-b) a területi gyermekvédelmi szakszolgálat által a naptári évet követő év február első munkanapjáig megküldött – a nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legkorábban a benyújtási határidő lejártától számított 30 naptári napon belül évi 12 ezer forint támogatást
+b) a területi gyermekvédelmi szakszolgálat által a naptári évet követő év február első munkanapjáig megküldött – a nevelés naptári évben fennálló időtartamára vonatkozó adatszolgáltatást is tartalmazó – értesítés alapján a jogosultság időszakával arányosan az igénylés kézhezvételétől, de legkorábban a benyújtási határidő lejártától számított 30 naptári napon belül évi 24 ezer forint támogatást,
 
-c) a tárgyévben legalább hat hónapig Magyarországon nevelésbe vett és az adatszolgáltatás napján is nevelés alatt álló, 2005. december 31-ét követően született gyermek javára a kiutaló a területi gyermekvédelmi szakszolgálat adatszolgáltatása alapján (1) bekezdés b) pontja szerinti támogatáson felül további 12 ezer forint támogatást
+c) a tárgyévben legalább hat hónapig Magyarországon nevelésbe vett és az adatszolgáltatás napján is nevelés alatt álló, 2005. december 31-ét követően született gyermek javára a kiutaló a területi gyermekvédelmi szakszolgálat adatszolgáltatása alapján (1) bekezdés b) pontja szerinti támogatáson felül további 24 ezer forint támogatást
 
 ír jóvá.
 
