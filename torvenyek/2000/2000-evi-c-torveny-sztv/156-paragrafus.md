@@ -40,6 +40,8 @@ m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társ
 
 n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a 95/C. §, illetve a 134. § (5) bekezdés szerinti nem pénzügyi kimutatást.
 
+o) a könyvvizsgáló véleményét arról, hogy azon vállalkozó pénzügyi kimutatásai, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák, megfelelnek a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletében foglalt előírásoknak.
+
 (5a) A közérdeklődésre számot tartó gazdálkodók éves beszámolójára, egyszerűsített éves beszámolójára, továbbá összevont (konszolidált) éves beszámolójára vonatkozó független könyvvizsgálói jelentés tekintetében az (5) bekezdésen túl az 537/2014/EU Rendelet 10. cikkében foglaltakat kell alkalmazni.
 
 (6) Ha a kiegészítő mellékletben a vállalkozó [az összevont (konszolidált) éves beszámoló kiegészítő mellékletében az anyavállalat] nem, vagy nem a valóságnak megfelelően értékel, akkor a könyvvizsgáló az írásbeli könyvvizsgálói jelentésben köteles bemutatni az általa feltárt tényeket és megállapításokat, kitérve az előző üzleti évre, továbbá az éves beszámoló, az egyszerűsített éves beszámoló, az összevont (konszolidált) éves beszámoló mérlegfordulónapja után bekövetkezett jelentősebb eseményekre és főleg hátrányos változásokra, az éves eredményt befolyásoló kedvezőtlen tényezők bemutatására.

@@ -8,7 +8,7 @@
 
 (5) A saját kiskereskedelmi egységbe kiszállított, illetve felhasznált saját előállítású termék forgalmi értéke után fizetendő adó, járulék, termékdíj összege is a termék bekerülési (beszerzési) értékének (előállítási költségének) részét képezi.
 
-(6) A pénzügyi lízing keretében átadott, a részletfizetéssel, a halasztott fizetéssel értékesített és a szerződés szerinti feltételek teljesülésének meghiúsulása miatt később visszavett, a két időpont között a vevő által használt eszköz visszavételkori beszerzési értékeként az eszköz – a lízingbeadó, illetve az eladó által kiállított helyesbítő számlában rögzített – piaci értékét, legfeljebb az eredeti eladási árát kell figyelembe venni.
+(6) A pénzügyi lízing keretében átadott, a részletfizetéssel, a halasztott fizetéssel értékesített és a szerződés szerinti feltételek teljesülésének meghiúsulása miatt később visszavett, a két időpont között a vevő által használt eszköz visszavételkori beszerzési értékeként az eszköz – a lízingbeadó, illetve az eladó által kiállított helyesbítő számviteli bizonylatban rögzített – piaci értékét, legfeljebb az eredeti eladási árát kell figyelembe venni.
 
 (7) A külföldi székhelyű vállalkozás magyarországi fióktelepénél a működéséhez, a tartozások kiegyenlítéséhez részére biztosított – tartósan rendelkezésre bocsátott –, a 35. § (6) bekezdése szerint vagyonként kapott nem pénzbeli hozzájárulás szerződés, megállapodás szerinti értéke (legfeljebb a vámérték és az e törvény szerinti egyéb beszerzési érték együttes összege) minősül bekerülési (beszerzési) értéknek.
 

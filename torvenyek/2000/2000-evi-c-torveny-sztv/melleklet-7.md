@@ -71,7 +71,3 @@ III. Finanszírozási cash flow
 24. Kötvény és hitelviszonyt megtestesítő értékpapír visszafizetése –
 
 25. Hitel és kölcsön törlesztése, visszafizetése –
-
-26. Véglegesen átadott pénzeszköz –
-
-IV. Pénzeszközök változása (I+II+III. sorok) +
