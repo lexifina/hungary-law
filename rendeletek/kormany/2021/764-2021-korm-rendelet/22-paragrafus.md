@@ -1,6 +1,5 @@
-## 21. §[^23]
+## 21. §[^20]
 
-## 6.[^24]
+## 6. Az árva mű felhasználásának részletes szabályairól szóló 138/2014. (IV. 30.) Korm. rendelet módosítása
 
-[^23]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 6. alcím (22–23. §) a 33. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^20]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

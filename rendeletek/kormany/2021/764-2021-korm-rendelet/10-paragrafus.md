@@ -1,3 +1,3 @@
-## 9. §[^11]
+## 9. §[^10]
 
-[^11]: A 9. § a 33. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
+[^10]: A 9. § a 33. § (3) bekezdése alapján 2022. július 1-jén lép hatályba.
