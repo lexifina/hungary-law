@@ -1,1 +1,1 @@
-2. §
+2. § Hatályát veszti a Párttv. 4. § (1) bekezdésében az „a párt országgyűlési képviselőcsoportja által az országgyűlési képviselőcsoport működési feltételeit biztosító költségvetési kiadási előirányzat terhére nyújtott támogatásból,” szövegrész.
