@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-66-00-00
 | 2020-09-02 | 2010. évi CXXX. törvény | 2019-66-00-00.26 |
 | 2020-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-66-00-00.27 |
 | 2020-10-02 | 2010. évi CXXX. törvény | 2019-66-00-00.28 |
+| 2022-01-01 | 2020. évi CXII. törvény | 2019-66-00-00.29 |
