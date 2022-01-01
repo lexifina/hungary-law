@@ -1,4 +1,4 @@
-108/F. §[^245] (1) A Becsületbíróság munkáját a Becsületbíróság elnöke hangolja össze és szervezi meg. Ennek keretében az eseti megbízólevél kézhezvételét követően haladéktalanul beszerzi az ügy iratait és a döntéshez szükséges egyéb iratokat, amelyeket az alakuló ülésen ismertet a Becsületbíróság tagjaival.
+108/F. §[^243] (1) A Becsületbíróság munkáját a Becsületbíróság elnöke hangolja össze és szervezi meg. Ennek keretében az eseti megbízólevél kézhezvételét követően haladéktalanul beszerzi az ügy iratait és a döntéshez szükséges egyéb iratokat, amelyeket az alakuló ülésen ismertet a Becsületbíróság tagjaival.
 
 (2) Az alakuló ülést az ügy iratainak kézhezvételét követő öt munkanapon belül össze kell hívni, amelyen a Becsületbíróság tagjain kívül csak a Becsületbíróság elnöke által jóváhagyott jegyzőkönyvvezető lehet jelen.
 
@@ -10,4 +10,4 @@
 
 (6) A meghallgatás időpontjáról történő értesítésre a Hszt. 203. §-ának szabályait kell alkalmazni.
 
-[^245]: A 108/F. §-t a 67/2015. (XII. 16.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^243]: A 108/F. §-t a 67/2015. (XII. 16.) BM rendelet 2. § (2) bekezdése iktatta be.

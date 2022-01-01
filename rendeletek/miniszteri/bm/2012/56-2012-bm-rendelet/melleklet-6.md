@@ -16,7 +16,7 @@
 
 | 7. | objektumőr |  | + |  |  |  |
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^300]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^298]
 
 ## Az Országgyűlési Őrség hivatásos állományú tagjai szolgálati jelvényének leírása:
 
@@ -26,7 +26,7 @@
 
 ## A kör alakú jelvény mezőben – amelyet a nemzeti színek szegélyeznek – az Országház sziluettje, az „Országgyűlési Őrség” felirat, valamint a négy számjegyű egyedi azonosító olvasható és látható arany és bordó színnel megjelenítve.
 
-6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^301]
+6. melléklet az 56/2012. (XI. 22.) BM rendelethez[^299]
 
-[^300]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
-[^301]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.
+[^298]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 36/2015. (VI. 16.) BM rendelet 10. §-a iktatta be.
+[^299]: A újabb 6. mellékletet a 38/2015. (VI. 18.) BM rendelet 15. §-a iktatta be.

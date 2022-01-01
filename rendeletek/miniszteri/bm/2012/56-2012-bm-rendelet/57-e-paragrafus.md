@@ -1,7 +1,1 @@
-57/E. § (1) A vizsgázó legkésőbb a rendfokozati vizsgát legalább 15 nappal megelőzően benyújtott kérelmére a rendfokozati vizsgát a vizsgaszervező elhalasztja.
-
-(2) Ha a vizsgázó halasztási kérelem nélkül nem jelenik meg a rendfokozati vizsgán, a vizsgaidőpontot követő 5 napon belül igazolással élhet. Ebben az esetben a halasztásra vonatkozó szabályokat kell alkalmazni.
-
-(3) Halasztott rendfokozati vizsga esetén a vizsgázónak a rendfokozati vizsgára jelentkezés szabályai szerint ismételten jelentkeznie kell úgy, hogy a halasztott rendfokozati vizsgát az eredeti vizsgaidőpontot követő fél éven belül teljesíthesse.
-
-(4) A halasztott rendfokozati vizsgát a rendfokozati vizsga letételére megállapított új időpontban érvényes vizsgakövetelmények alapján kell teljesíteni.
+## 57/D. §

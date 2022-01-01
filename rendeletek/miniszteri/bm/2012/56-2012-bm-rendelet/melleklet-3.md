@@ -8,19 +8,19 @@
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | parancsnok | szakirányú egyetemi végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | RSZV |
+| 3. | parancsnok | szakirányú egyetemi végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | MVK+RSZV |
 
-| 4. | parancsnok- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges | RSZV |
+| 4. | parancsnok- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges | MVK+RSZV |
 
-| 5. | igazgató | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | RSZV |
+| 5. | igazgató | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | MVK+RSZV |
 
-| 5a. | igazgató- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | RSZV |
+| 5a. | igazgató- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | MVK+RSZV |
 
-| 6. | főosztályvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
+| 6. | főosztályvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | MVK+RSZV |
 
-| 7. | főosztályvezető- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
+| 7. | főosztályvezető- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | VK+RSZV |
 
-| 8. | osztályvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
+| 8. | osztályvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | VK+RSZV |
 
 ## II. Tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei az alapfeladatokat ellátók esetében
 
@@ -180,17 +180,43 @@
 
 ## Az Országgyűlési Őrség Személyvédelmi Igazgatóságon szolgálatot teljesítők esetében a szolgálati beosztás ellátásához szükséges ismereteket adó, munkaköri leírásban rögzített rendészeti tárgyú iskolarendszeren kívüli képzés.
 
-## 5. Megfeleltetések:
+## 4.4. MVK: rendészeti mestervezetővé képző tanfolyam.
 
-## a) Rendészeti szakirányú felsőfokú végzettségnek kell tekinteni:
+## 4.5. VK: rendészeti vezetővé képző tanfolyam.
 
-## aa) a Kossuth Lajos Katonai Főiskola határőr szakán szerzett főiskolai végzettséget,
+## 5. Megfeleltetések
 
-## ab) a Zrínyi Miklós Katonai Akadémia (Zrínyi Miklós Nemzetvédelmi Egyetem) határrendészeti és védelmi vezetői szakán szerzett végzettséget.
+## 5.1. Rendészeti szakirányú felsőfokú végzettségnek kell tekinteni
 
-## b) Rendőr tiszthelyettes szakképzettségnek kell tekinteni:
+## 5.1.1. a Kossuth Lajos Katonai Főiskola határőr szakán szerzett főiskolai végzettséget,
 
-## ba) a Kun Béla zászlósképző iskolán szerzett rendőrképzettséget
+## 5.1.2. a Zrínyi Miklós Katonai Akadémia (Zrínyi Miklós Nemzetvédelmi Egyetem) határrendészeti és védelmi vezetői szakán szerzett végzettséget.
+
+## 5.2. Rendőr tiszthelyettes szakképzettségnek kell tekinteni a Kun Béla zászlósképző iskolán szerzett rendőrképzettséget.
+
+## 5.3. A rendészeti vezetővé képző tanfolyammal e rendelet alkalmazásában egyenértékűnek kell tekinteni
+
+## 5.3.1. a Nemzeti Közszolgálati Egyetem Rendészettudományi Karán a 2012/2013 tanévben vagy azt követően indított rendészeti vezető mesterképzésben szerzett mesterfokozatú végzettséget,
+
+## 5.3.2. azt a hazai vagy külföldi vezetőképzésben szerzett végzettséget, amelyet 2016. augusztus 31-éig a Közszolgálati Személyzetfejlesztési Főigazgatóság (a továbbiakban: KSZF) vezetője a rendészeti vezetővé képző tanfolyammal azonos értékűnek ismert el,
+
+## 5.3.3. a 2002. január 1. előtt a KSZF jogelőd intézményeiben szervezett és bonyolított vezetőképző tanfolyamot,
+
+## 5.3.4. a 2016. augusztus 31. előtt a Belügyminisztérium rendészeti vezetőképzésért felelős szervénél szervezett és bonyolított vezetőképző tanfolyamot,
+
+## 5.3.5. a belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet (a továbbiakban: 2/2013. BM rendelet) hatálybalépését megelőzően a KSZF-en vagy jogelőd intézményeiben elvégzett rendészeti vezetővé képző tanfolyamot vagy rendészeti mestervezetővé képző tanfolyamot,
+
+## 5.3.6. a 2/2013. BM rendelet szerinti rendészeti vezetővé képző tanfolyamot.
+
+## 5.4. A rendészeti mestervezetővé képző tanfolyammal e rendelet alkalmazásában egyenértékűnek kell tekinteni
+
+## 5.4.1. a KSZF jogelőd intézménye által az 1999/2000 évben lebonyolított kapitányságvezetővé képző tanfolyamot,
+
+## 5.4.2. a KSZF jogelőd intézménye által 2000/2001 évben megrendezett rendészeti mestervezetővé képző tanfolyamot,
+
+## 5.4.3. a 2/2013. BM rendelet hatálybalépését megelőzően a KSZF vagy jogelőd intézményei által szervezett rendészeti mestervezetővé képző tanfolyamot,
+
+## 5.4.4. a 2/2013. BM rendelet szerinti rendészeti mestervezetővé képző tanfolyamot.
 
 ## VII. Az elsődleges tűzoltási és tűzbiztonsági feladatokra rendszeresített szolgálati beosztások képesítési követelményei
 
@@ -294,7 +320,7 @@
 
 ## Ha a tűzoltás vezetői jogosultság megszerzése az a) pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakképesítést. Ha a szakképesítés, szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.
 
-3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^293]
+3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^291]
 
 ## Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolgálati beosztások
 
@@ -310,4 +336,4 @@
 
 6. az Országgyűlési Őrség parancsnoka által meghatározott egyéb szolgálati beosztások, ahol az idegen nyelv használata a szolgálat ellátásához szükséges
 
-[^293]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^291]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.

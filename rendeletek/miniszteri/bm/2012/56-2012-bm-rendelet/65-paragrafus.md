@@ -10,6 +10,6 @@ d) a közeli hozzátartozó aláírásával igazolja az érvénytelenített szol
 
 (2) A hivatásos állomány nyugállományba helyezett tagja számára – kérelmére, az Országgyűlési Őrségnél eltöltött legalább húsz év tartamú életpálya elismeréseként – az érvénytelenített szolgálati igazolvány az (1) bekezdés a)–c) pontjában meghatározott eljárási szabályok megtartása mellett átadható.
 
-(3)[^169] Az érvénytelenített és selejtezett szolgálati igazolványt a humánigazgatási szakszolgálat átvételi elismervény ellenében az elhunyt hivatásos állományú közeli hozzátartozójának, vagy a (2) bekezdésben meghatározott hivatásos állományúnak átadja, majd az átvételi elismervényt az elhunyt, vagy a nyugállományba helyezett hivatásos állományú személyi fogyatékanyagában elhelyezi.
+(3)[^167] Az érvénytelenített és selejtezett szolgálati igazolványt a humánigazgatási szakszolgálat átvételi elismervény ellenében az elhunyt hivatásos állományú közeli hozzátartozójának, vagy a (2) bekezdésben meghatározott hivatásos állományúnak átadja, majd az átvételi elismervényt az elhunyt, vagy a nyugállományba helyezett hivatásos állományú személyi fogyatékanyagában elhelyezi.
 
-[^169]: A 65. § (3) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+[^167]: A 65. § (3) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
