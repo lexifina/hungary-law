@@ -6,7 +6,7 @@
 
 2. A várandós nő
 
-2.1.[^20] neve, születési neve
+2.1.[^21] neve, születési neve
 
 2.2. születésének helye, időpontja
 
@@ -44,4 +44,4 @@
 
 5. A várandós nő ápolására vonatkozó adatok
 
-[^20]: A 3. melléklet 2.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^21]: A 3. melléklet 2.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

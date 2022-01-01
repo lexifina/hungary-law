@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-184-20-
 | 2020-01-01 | 2017-184-20-22.4 | 273/2019. (XI. 20.) Korm. rendelet |
 | 2020-12-12 | 2017-184-20-22.5 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-02-01 | 2017-184-20-22.6 | 572/2020. (XII. 9.) Korm. rendelet |
+| 2022-01-01 | 2017-184-20-22.7 | 745/2021. (XII. 21.) Korm. rendelet |

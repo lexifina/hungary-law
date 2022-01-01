@@ -2,7 +2,7 @@
 
 ## A házasság felbontásáról, valamint érvénytelenné nyilvánításáról szóló lap adattartalma
 
-1.[^23] Anyakönyvi azonosító, az eseményazonosító
+1.[^24] Anyakönyvi azonosító, az eseményazonosító
 
 2. A házasságkötés helye, időpontja
 
@@ -14,7 +14,7 @@
 
 6. A férj és a feleség adatai
 
-6.1.[^24] születési családi és utóneve, valamint házassági neve
+6.1.[^25] születési családi és utóneve, valamint házassági neve
 
 6.2. a házasságkötés előtti családi állapota
 
@@ -52,5 +52,5 @@
 
 15. A házassági perben házassági vagyonjogi igényt érvényesítettek-e
 
-[^23]: A 6. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (6) bekezdése szerint módosított szöveg.
-[^24]: A 6. melléklet 6.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^24]: A 6. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (6) bekezdése szerint módosított szöveg.
+[^25]: A 6. melléklet 6.1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.

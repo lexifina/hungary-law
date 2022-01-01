@@ -2,7 +2,7 @@
 
 ## A bejegyzett élettársi kapcsolat létesítése lap adattartalma
 
-1.[^22] Anyakönyvi azonosító, az eseményazonosító
+1.[^23] Anyakönyvi azonosító, az eseményazonosító
 
 2. A bejegyzés helye, időpontja
 
@@ -30,4 +30,4 @@
 
 3.11. foglalkozása, munkaköre, foglalkozási viszonya
 
-[^22]: Az 5. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg.
+[^23]: Az 5. melléklet 1. pontja a 273/2019. (XI. 20.) Korm. rendelet 2. § (5) bekezdése szerint módosított szöveg.
