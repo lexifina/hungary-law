@@ -4,6 +4,7 @@
 
 a) a képzőszerv – a 179/2011. (IX. 2.) Korm. rendelet 6/A. § (3) bekezdésében foglalt esedékes kötelezettségének – a veszélyhelyzet megszűnését követő 60 napon belül köteles eleget tenni,
 
-b) a közúti járművezető vizsgabiztos, a műszaki vizsgabiztos, a közúti járművezető szakoktató, az iskolavezető, a menetíró ellenőr és a menetíró szerelő a 2020. évben esedékes továbbképzési, valamint sikeres vizsga letételére vonatkozó kötelezettségét veszélyhelyzet megszűnését követő 60 napon belül köteles teljesíteni; a kötelezettség elmulasztása vagy sikertelen teljesítése esetén a továbbképzés teljesítéséhez kötött tevékenység ezen időpontot követően nem folytatható.
+b)[^2] a közúti járművezető vizsgabiztos, a műszaki vizsgabiztos, a közúti járművezető szakoktató, az iskolavezető, a menetíró ellenőr és a menetíró szerelő, a szaktanfolyami vizsgabiztos a továbbképzési, valamint sikeres vizsga letételére vonatkozó kötelezettségét a veszélyhelyzet megszűnését követő 60. napig köteles teljesíteni; a kötelezettség elmulasztása vagy sikertelen teljesítése esetén a továbbképzés teljesítéséhez kötött tevékenység ezen időpontot követően nem folytatható.
 
 [^1]: Az 1. § a 28/2021. (I. 29.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^2]: Az 2. § b) pontja a 789/2021. (XII. 7.) Korm. rendelet 87. §-ával megállapított szöveg.
