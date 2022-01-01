@@ -1,1 +1,3 @@
-118. §
+118. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 68/E. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja. Az erdőkezelőnek nem kell az erdészeti hatóság által nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozásnak minősülnie, ha az erdőkezelő a tulajdonos közeli hozzátartozója, vagy olyan családi mezőgazdasági társaság, amelyben a tulajdonos tag.”

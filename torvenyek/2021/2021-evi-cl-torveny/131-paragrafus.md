@@ -2,18 +2,18 @@
 
 a)
 
-b)
+b) 30. § (4) bekezdése,
 
-c)
+c) 31. §-a,
 
 d)
 
-e)
+e) 71. § (1a) és (2a) bekezdésében a „harmadik” szövegrész,
 
 f)
 
 g)
 
-h)
+h) 108. § (1) bekezdésében a „haszonélvezeti jog továbbá” szövegrész,
 
-i)
+i) 108. § (2)–(5) bekezdése.

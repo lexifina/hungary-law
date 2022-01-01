@@ -1,1 +1,3 @@
-6. §
+6. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 14. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A határozathozatalban önhibáján kívül részt nem vett vagy a meghozott határozattal egyet nem értő, kisebbségben maradt földtulajdonos, ha a határozat az okszerű gazdálkodást sérti, vagy a meghozott határozattal egyet nem értő, kisebbségben maradt vagy a határozathozatalban részt nem vett földtulajdonos jogos érdekeinek lényeges sérelmével jár, a határozatot az arról való tudomásszerzéstől számított harminc napon belül, de legkésőbb a határozat meghozatalától számított három hónapon belül a bíróságnál megtámadhatja. A határidő elmulasztása jogvesztő.”

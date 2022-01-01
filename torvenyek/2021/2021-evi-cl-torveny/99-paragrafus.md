@@ -4,6 +4,6 @@ a)
 
 b)
 
-c)
+c) 53. § (2) bekezdés a) pontja,
 
 d)

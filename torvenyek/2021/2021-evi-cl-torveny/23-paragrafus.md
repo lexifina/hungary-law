@@ -1,1 +1,11 @@
-23. §
+23. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 65. §-a helyébe a következő rendelkezés lép:
+
+„65. § (1) A vadászati hatóság – a vadászlőfegyver tartását engedélyező hatóság egyidejű tájékoztatása mellett – a vadászjegyet vagy a vadászati engedélyt az elkövetett cselekmény súlyától függően három hónaptól öt évig terjedő időtartamra visszavonhatja attól a vadásztól, akivel szemben vadvédelmi bírságot szabtak ki.
+
+(2) A vadászati hatóság – a vadászlőfegyver tartását engedélyező hatóság egyidejű tájékoztatása mellett – a vadászjegyet vagy vadászati engedélyt visszavonja attól a vadásztól, aki a vadászjegy vagy a vadászati engedély kiállításához szükséges feltételeknek az időközben bekövetkezett változás miatt nem felel meg.
+
+(3) A vadászati hatóság a vadászjegy vagy a vadászati engedély visszavonásáról szóló döntésről, annak véglegessé válásától számított nyolc napon belül értesíti a Vadászkamarát, amely az értesítés kézhezvételét követő nyolc napon belül intézkedik a vadászjegy érvénytelenítéséről vagy a vadászati engedély visszavételéről.
+
+(4) A Vadászkamara az engedély visszavonásáról a nem kamarai tag esetén is gondoskodik.
+
+(5) Akitől a vadászjegy egy évnél hosszabb időtartamra került visszavonásra, a vadászvizsga újbóli letétele után kaphat ismételten vadászjegyet.”

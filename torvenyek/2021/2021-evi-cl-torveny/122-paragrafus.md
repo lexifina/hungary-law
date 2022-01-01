@@ -1,1 +1,3 @@
-122. §
+122. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 88. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Hatósági jóváhagyáshoz nem kötött ügylet esetén, ha a mezőgazdasági igazgatási szerv megállapítja, hogy a Földforgalmi tv. 67/A. §-ában foglaltak alkalmazásának van helye, felhívja az eladót az általa az adásvételi ügylet kapcsán befogadott, érvényesnek ítélt és rangsorolt elővásárlói jognyilatkozatot tevő személyek, illetve az adásvételi szerződés szerinti vevő adatainak megküldésére.”

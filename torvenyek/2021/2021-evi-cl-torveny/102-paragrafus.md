@@ -1,1 +1,3 @@
-102. §
+102. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 18/A. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Azon személynek, aki a föld tulajdonjogának megszerzése során elővásárlási jogát a Földforgalmi törvény 18. § (2) bekezdés b) pontja szerinti ökológiai gazdálkodási célú földvásárlásra alapította, a föld birtokba vételét követő 30 napon belül a mezőgazdasági igazgatási szervnél igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai gazdálkodásra átállást megkezdte, továbbá az átállási idő lejárta után igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.”

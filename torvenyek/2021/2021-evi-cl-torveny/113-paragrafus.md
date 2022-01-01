@@ -1,1 +1,7 @@
-113. §
+113. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény a következő 55/C. §-sal egészül ki:
+
+„55/C. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti földrajzi árujelzővel ellátott termék előállítása és feldolgozása, az előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a szerződésben vagy az elfogadó nyilatkozatban kötelezettséget kell vállalnia arra, hogy az előhaszonbérleti joggal érintett föld teljes területén a föld birtokbavételét követően, ültetvény esetén annak termőre fordulásától, de legkésőbb a föld birtokbavételétől számított 7 éven belül megkezdve, a haszonbérlet időtartama alatt a földrajzi árujelzővel ellátott terméket fog előállítani és feldolgozni.
+
+(2) A földet az (1) bekezdésben foglalt előhaszonbérleti jog gyakorlásával megszerző személynek az előállítási és feldolgozási tevékenység megkezdését követő egy éven belül a mezőgazdasági igazgatási szervnél igazolnia kell, hogy az oltalom alatt álló földrajzi árujelzővel ellátott agrártermékek ellenőrzését végző hatóság oltalom alatt álló földrajzi árujelző használatára jogosultként nyilvántartásba vette.
+
+(3) Az (1) bekezdésben foglalt nyilatkozatok meglétét a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.”
