@@ -1,0 +1,5 @@
+## 9. § A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet (a továbbiakban: Nszr.) 6/A. § b) pontja helyébe a következő rendelkezés lép:
+
+## [A nevelőszülő akkor felel meg a Gyvt. 54. § (1) bekezdés f) pontja szerinti képesítési előírásoknak, ha]
+
+## „b) a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott nevelőszülői tanfolyamot eredményesen elvégezte, és vállalja, hogy a nevelőszülői foglalkoztatási jogviszonya keretében a gondozásába kerülő első gyermek vagy fiatal felnőtt elhelyezésétől számított két éven belül a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló miniszteri rendeletben meghatározott, a nevelőszülők számára szervezett központi oktatási programot eredményesen elvégzi.”

@@ -1,0 +1,9 @@
+# 744/2021. (XII. 21.) Korm. rendelet
+
+egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-744-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-01-01 | 2021-744-20-22.1 | 744/2021. (XII. 21.) Korm. rendelet |
