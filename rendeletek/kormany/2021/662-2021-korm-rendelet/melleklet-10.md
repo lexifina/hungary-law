@@ -1,3 +1,7 @@
-10. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^15]
+## „9. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^15]: A 10. melléklet a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 20212220000662_9
+
+## ”
+
+10. melléklet a 662/2021. (XI. 30.) Korm. rendelethez
