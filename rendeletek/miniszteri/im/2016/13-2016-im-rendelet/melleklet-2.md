@@ -1,6 +1,6 @@
-2. melléklet a 13/2016. (VI. 29.) IM rendelethez[^5]
+2. melléklet a 13/2016. (VI. 29.) IM rendelethez[^8]
 
-## Éves szakértői statisztikai adatszolgáltatás tartalma
+Éves szakértői statisztikai adatszolgáltatás tartalma
 
 1. Az adatszolgáltatással érintett tárgyidőszak
 
@@ -146,7 +146,7 @@
 
 4.6.7.1. a 4.6.1–4.6.6. pont szerinti megfizetett szakértői díjak összesített összege forintban
 
-4.6.7.2. a 4.6.7.1. pont szerinti összesített összegből azon ügyek darabszáma, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
+4.6.7.2.[^9] a 4.6.7.1. pont szerinti összesített összegből azon ügyekre vonatkozóan megfizetett szakértői díjak összege forintban, melyekben a szakértő díját a Szakértői törvény 49. § (1) bekezdése alapján kell számítani
 
 5. A kamarai költségátalányra vonatkozó adatok
 
@@ -156,4 +156,5 @@
 
 5.3. azon szakvélemények darabszáma, amelyeknél a díjjegyzékben feltüntetett kamarai költségátalányt határidőben a szakértő részére nem fizették meg
 
-[^5]: A 2. mellékletet a 16/2019. (VI. 20.) IM rendelet 3. § b) pontja iktatta be, szövege a 9/2020. (VII. 8.) IM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^8]: A 2. mellékletet a 16/2019. (VI. 20.) IM rendelet 3. § b) pontja iktatta be, szövege a 9/2020. (VII. 8.) IM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet 4.6.7.2. pontja a 18/2021. (XII. 23.) IM rendelet 20. §-a szerint módosított szöveg.

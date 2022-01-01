@@ -1,8 +1,8 @@
 ## 7. § Az 1. § (1) bekezdése szerinti statisztikai adatszolgáltatást első alkalommal 2016. október 20-áig kell teljesíteni, a 2016. június 15-től 2016. szeptember 30-ig terjedő időszakra tekintettel.
 
-1. melléklet a 13/2016. (VI. 29.) IM rendelethez[^4]
+1. melléklet a 13/2016. (VI. 29.) IM rendelethez[^7]
 
-## I–III. negyedévi szakértői statisztikai adatszolgáltatás tartalma
+I–III. negyedévi szakértői statisztikai adatszolgáltatás tartalma
 
 1. Az adatszolgáltatással érintett tárgyidőszak
 
@@ -50,4 +50,4 @@
 
 5.2. azon szakvélemények darabszáma, amelyeknél a díjjegyzékben feltüntetett kamarai költségátalányt határidőben a szakértő részére nem fizették meg
 
-[^4]: Az 1. melléklet a 9/2020. (VII. 8.) IM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. melléklet a 9/2020. (VII. 8.) IM rendelet 8. § (1) bekezdésével megállapított szöveg.
