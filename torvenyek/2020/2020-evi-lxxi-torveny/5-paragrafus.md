@@ -14,6 +14,6 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (4) Az értesítést megtörténtnek kell tekinteni, ha annak közlése azért hiúsul meg, mert
 
-a) a postai küldemény azzal a jelzéssel érkezik vissza, hogy a címzett „nem kereste”, „ismeretlen” vagy „elköltözött”, vagy
+a) a postai küldemény azzal a jelzéssel érkezik vissza, hogy a címzett „nem kereste”, „ismeretlen”, „kézbesítés akadályozott” vagy „elköltözött”, vagy
 
 b) a címzett tulajdonostárs, a földhasználó vagy az erdőgazdálkodó a küldemény átvételét megtagadta.

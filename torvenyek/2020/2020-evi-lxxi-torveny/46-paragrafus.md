@@ -6,7 +6,7 @@
 
 (4) A kialakítandó új, önálló földrészletek – a visszamaradó földrészlet és a kialakuló ingatlanok megközelítését biztosító utak és más művelés alól kivett földrészletek kivételével – 3000 m2-nél kisebb területűek nem lehetnek. Az ingatlan-nyilvántartás szerint zártkertnek minősült területen a kialakítandó önálló földrészlet legkisebb területe 1500 m2 lehet.
 
-(5) A kialakítandó földrészletek megközelíthetősége érdekében önálló földrészletként kialakított közút a települési önkormányzat, a fővárosban a Fővárosi Önkormányzat tulajdonába kerül. Az utak önkormányzati tulajdonba kerüléséről az ingatlanügyi hatóság dönt. A földrészletek megközelítésére szolgáló közutak kialakításához szükséges terület aranykorona értékével a kiadásra kerülő részarány-földtulajdonokat kártalanítás nélkül arányosan csökkenteni kell.
+(5) A kialakítandó földrészletek megközelíthetősége érdekében önálló földrészletként kialakított közút a települési önkormányzat, a fővárosban a Fővárosi Önkormányzat tulajdonába kerül. A földrészletek megközelítésére szolgáló közutak kialakításához szükséges terület aranykorona értékével a kialakítandó földrészleteket kártalanítás nélkül arányosan csökkenteni kell.
 
 (6) A földrészlet megosztását követően az egyes tulajdoni hányadokra vonatkozó, illetve azokat terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények – a keletkező önálló földrészletekre történő – visszajegyzéséről az ingatlanügyi hatóság gondoskodik.
 
@@ -14,7 +14,7 @@
 
 (8) Az ingatlanügyi hatóság a sorsolást követően az elkészített változási vázrajz, valamint a sorsolási jegyzőkönyv vagy az egyezségi okirat alapján a tulajdonjogot bejegyzi az ingatlan-nyilvántartásba.
 
-(9) Az ingatlan-nyilvántartási bejegyzés véglegessé válását követően gondoskodni kell a keletkező új földrészletek kitűzéséről, és azok helyszíni birtokba adásáról. A birtokba adásról jegyzőkönyvet kell készíteni.
+(9) Az ingatlan-nyilvántartási bejegyzést megelőzően gondoskodni kell a keletkező új földrészletek kitűzéséről és azok helyszíni bemutatásáról.
 
 (10) Akik önálló földrészlet kialakítását nem kérték – ha teljes körű egyezség megkötésére nem kerül sor –, a visszamaradó földrészleten tulajdonközösségben maradnak.
 
