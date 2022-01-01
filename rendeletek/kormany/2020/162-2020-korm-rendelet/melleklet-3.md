@@ -14,10 +14,10 @@
 
 | 7. | Megfelelés biztosítása feladat | Irányítási rendszer bevezetése, éves auditra való felkészítése, belső auditok végrehajtása és dokumentálása, belső auditor képzés a következő szabványok szerint: ISO 9001, ISO 14001, ISO 27001, ISO 45001, ISO 50001, ISO 13485, ISO 37001, ISO 27701, ISO 20000 GDPR [az Európai Parlament és a Tanács (EU) 2016/679 rendelete] szerinti megfelelés kialakítása, belső audit végrehajtása és dokumentálása MDR [az Európai Parlament és a Tanács (EU) 2017/745 rendelete] szerinti megfelelés kialakítása, belső audit végrehajtása és dokumentálása 41/2015. (VII. 15.) BM rendelet szerinti megfelelés kialakítása, belső audit végrehajtása és dokumentálása Jogszabályi megfelelőség értékelés készítése, szabályozó dokumentumok kidolgozása, üzletmenet folytonosság szabályozása, pandémia kezelési terv készítése, munkahelyi kockázatelemzés készítése |
 
-3. melléklet a 162/2020. (IV. 30.) Korm. rendelethez[^59]
+3. melléklet a 162/2020. (IV. 30.) Korm. rendelethez[^60]
 
 A 162/2020. (IV. 30.) Korm. rendelet 1. § (2) bekezdés 14. pontja szerinti érintett szervezet:
 
 1. Nemzeti Sportközpontok
 
-[^59]: A 3. mellékletet az 590/2020. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 40/2021. (II. 2.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^60]: A 3. mellékletet az 590/2020. (XII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 40/2021. (II. 2.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.

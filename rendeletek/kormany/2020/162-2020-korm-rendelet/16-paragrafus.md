@@ -1,11 +1,11 @@
-## 6. [^54] Kommunikációs beszerzésre, a szervezetfejlesztési beszerzésre és a szponzorációra vonatkozó közös szabályok
+## 6. [^55] Kommunikációs beszerzésre, a szervezetfejlesztési beszerzésre és a szponzorációra vonatkozó közös szabályok
 
-16. § (1)[^55] Az érintett szervezet köteles a kommunikációs beszerzés, a szervezetfejlesztésre vonatkozó beszerzés, valamint a szponzoráció eredményeképpen megtett jognyilatkozatot (e § alkalmazásában a továbbiakban együtt: szerződés) annak aláírásától számított 5 munkanapon belül a Hivatal részére megküldeni.
+16. § (1)[^56] Az érintett szervezet köteles a kommunikációs beszerzés, a szervezetfejlesztésre vonatkozó beszerzés, valamint a szponzoráció eredményeképpen megtett jognyilatkozatot (e § alkalmazásában a továbbiakban együtt: szerződés) annak aláírásától számított 5 munkanapon belül a Hivatal részére megküldeni.
 
-(2)[^56] Az érintett szervezet köteles megküldeni a szerződés lényeges elemeire – különösen a beszerzés tartalmára és összegszerűségére – vonatkozó módosításának tervezetét, a módosítás indokolását és az azt alátámasztó dokumentumokat azok elkészítését követő 5 munkanapon belül. A Hivatal jogosult határidő tűzésével hiánypótlást kérni. A hiánypótlás teljesítésének időtartama nem számít be a szerződésmódosítás (3) bekezdés szerinti észrevételezési határidejébe.
+(2)[^57] Az érintett szervezet köteles megküldeni a szerződés lényeges elemeire – különösen a beszerzés tartalmára és összegszerűségére – vonatkozó módosításának tervezetét, a módosítás indokolását és az azt alátámasztó dokumentumokat azok elkészítését követő 5 munkanapon belül. A Hivatal jogosult határidő tűzésével hiánypótlást kérni. A hiánypótlás teljesítésének időtartama nem számít be a szerződésmódosítás (3) bekezdés szerinti észrevételezési határidejébe.
 
 (3) A Hivatal a kézhezvételtől számított 15 munkanapon belül észrevételt tehet a (2) bekezdésben foglalt dokumentumokkal kapcsolatban.
 
-[^54]: A 6. alcím címe az 590/2020. (XII. 17.) Korm. rendelet 11. § 34. pontja szerint módosított szöveg.
-[^55]: A 16. § (1) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 32. pontja szerint módosított szöveg.
-[^56]: A 16. § (2) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^55]: A 6. alcím címe az 590/2020. (XII. 17.) Korm. rendelet 11. § 34. pontja szerint módosított szöveg.
+[^56]: A 16. § (1) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 11. § 32. pontja szerint módosított szöveg.
+[^57]: A 16. § (2) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.

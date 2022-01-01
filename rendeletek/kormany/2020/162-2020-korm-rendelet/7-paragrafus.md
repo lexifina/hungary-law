@@ -1,4 +1,4 @@
-## 6. §[^22] Az érintett szervezet a kommunikációs beszerzés és szervezetfejlesztési beszerzés, a kommunikációs beszerzés és szervezetfejlesztési beszerzés alapján kötött szerződés teljesítése és módosítása során köteles az e rendeletben foglalt eljárási szabályokat alkalmazni.
+## 6. §[^23] Az érintett szervezet a kommunikációs beszerzés és szervezetfejlesztési beszerzés, a kommunikációs beszerzés és szervezetfejlesztési beszerzés alapján kötött szerződés teljesítése és módosítása során köteles az e rendeletben foglalt eljárási szabályokat alkalmazni.
 
 7. § (1) Az érintett szervezet köteles az érintett szervezetté válásától számított 10 munkanapon belül a Portálon regisztrálni.
 
@@ -6,4 +6,4 @@
 
 (3) Az érintett szervezet köteles a Portálon rögzített adat változása esetén az adatváltozást a változás bekövetkezésétől számított 10 munkanapon belül a Portálon rögzíteni.
 
-[^22]: A 6. § az 590/2020. (XII. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^23]: A 6. § az 590/2020. (XII. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
