@@ -2,7 +2,7 @@
 
 31. § (1) A központi kezelésű előirányzatok, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait – és szükség szerint ezzel összhangban a költségvetési kiadási előirányzatait – módosítani kell, ha az adott költségvetési bevételre vonatkozó jogszabályi előírások év közben változnak.
 
-(2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait az (1) bekezdésben meghatározott eseten kívül – a 86. § (3) bekezdése szerinti esetben az Országgyűlés döntése alapján, (4) bekezdése szerinti esetben az államháztartásért felelős miniszter hozzájárulásával – a fejezetet irányító szerv módosíthatja, ha a költségvetési bevételi előirányzatok túlteljesítése vagy a felülvizsgált és jóváhagyott előző évi költségvetési maradvány erre fedezetet biztosít.
+(2) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai költségvetési bevételi előirányzatait és költségvetési kiadási előirányzatait az (1) bekezdésben meghatározott eseten kívül – a 86. § (4) bekezdése szerinti esetben az államháztartásért felelős miniszter hozzájárulásával – a fejezetet irányító szerv módosíthatja, ha a költségvetési bevételi előirányzatok túlteljesítése vagy – a társadalombiztosítás pénzügyi alapjai kivételével – a felülvizsgált és jóváhagyott előző évi költségvetési maradvány erre fedezetet biztosít.
 
 (2a)
 

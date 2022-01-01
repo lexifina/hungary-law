@@ -8,7 +8,7 @@
 
 (2) A központi kezelésű előirányzatok év végéig fel nem használt összege a költségvetési év utolsó napján törlésre kerül, ezen előirányzatok így költségvetési maradvánnyal nem rendelkeznek.
 
-(3) A társadalombiztosítás pénzügyi alapjai költségvetési maradványának felhasználhatóságáról az Országgyűlés a zárszámadásról szóló törvényben dönt.
+(3) A társadalombiztosítás pénzügyi alapjai előirányzatainak év végéig fel nem használt összege a költségvetési év utolsó napján törlésre kerül, ezen előirányzatok így költségvetési maradvánnyal nem rendelkeznek.
 
 (4) Az elkülönített állami pénzalap költségvetési maradványa felhasználásának engedélyezésére az államháztartásért felelős miniszter hozzájárulása esetén a fejezetet irányító szerv jogosult.
 

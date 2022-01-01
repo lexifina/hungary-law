@@ -6,15 +6,23 @@
 
 (4) A fejezetet irányító szerv a törvényben meghatározott kibocsátási egységek értékesítéséből származó, a központi költségvetésről szóló törvényben megtervezetten felül pénzforgalmilag teljesült bevételeknek a központi költségvetésről szóló törvényben meghatározott mértékével megnövelheti a bevétel felhasználására szolgáló kiadási előirányzatot.
 
-(5) A központi költségvetési szervnek nem minősülő, vonalas közlekedési infrastruktúrát működtető, vagy központosított infokommunikációs közszolgáltatást nyújtó, vagy törvényben meghatározott építtetői feladatokat ellátó vagyonkezelő az állami tulajdonú
+(5) A központi költségvetési szervnek nem minősülő, vonalas közlekedési infrastruktúrát működtető vagy központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló jogszabály szerinti központi szolgáltató, vagy törvényben vagy kormányrendeletben meghatározott építtetői feladatokat ellátó vagyonkezelő vagyonkezelésében álló, állami tulajdonú,
 
-a) feladatellátásához nem szükséges – a Vtv. 33. § (2) bekezdése alapján az éves költségvetési törvényben meghatározott értékhatárt meg nem haladó egyedi, könyv szerinti bruttó értékű – immateriális jószágok, tárgyi eszközök, készletek,
+a) a vagyonkezelő feladatellátásához nem szükséges – a Vtv. 33. § (2) bekezdése alapján az éves költségvetési törvényben meghatározott értékhatárt meg nem haladó egyedi, könyv szerinti bruttó értékű – immateriális jószágoknak, tárgyi eszközöknek, készleteknek,
 
-b) a hulladéknak nem minősülő vissznyereményi anyagok,
+b) hulladéknak nem minősülő vissznyereményi anyagoknak,
 
-c) a bányászatról szóló törvény szerint ásványi nyersanyagnak minősülő anyagok
+c) a bányászatról szóló törvény szerint ásványi nyersanyagnak minősülő anyagoknak
 
-az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződés vagy törvény alapján történő értékesítéséből származó bevétel kizárólag az államot illeti meg, amelyet a 14. § (4) bekezdés b) pontja szerinti fejezetben kell elszámolni. Az értékesítési bevétel a vagyonkezelő vagyonkezelésében lévő állami vagyon értéke megőrzésének vagy gyarapításának céljára használható fel olyan módon, hogy az államháztartásért felelős miniszter a költségvetési évben elszámolt bevétel mértékéig új kiadási előirányzat létrehozatalát vagy meglévő kiadási előirányzat növelését engedélyezheti abban a költségvetési fejezetben, amely e cél finanszírozására szolgál.
+az állam nevében, a tulajdonosi joggyakorlóval kötött megbízási szerződés vagy törvény alapján történő értékesítéséből származó bevétel kizárólag az államot illeti meg, amelyet a 14. § (4) bekezdés b) pontja szerinti fejezetben kell elszámolni.
+
+(5a) Az (5) bekezdés szerinti értékesítési bevétel
+
+a) a vagyonkezelő vagyonkezelésében lévő állami vagyon értéke megőrzésének vagy gyarapításának, vagy
+
+b) közszolgáltatási szerződés szerinti feladat teljesítése, vagy közszolgáltatási eszközállomány technológiai korszerűsítését célzó beszerzés
+
+céljára használható fel olyan módon, hogy az államháztartásért felelős miniszter a költségvetési évben az elszámolt bevétel mértékéig új kiadási előirányzat létrehozatalát vagy meglévő kiadási előirányzat növelését engedélyezheti abban a költségvetési fejezetben, amely a cél finanszírozására szolgál.
 
 (6) Az (5) bekezdés szerinti értékesítési eljárás során felmerült, igazolt költségeket az MNV Zrt. a 14. § (4) bekezdés b) pontja szerinti fejezet terhére megtéríti. A megtérítési kötelezettség összegével a fejezet költségvetési kiadási előirányzatát a fejezetet irányító szerv módosíthatja.
 
