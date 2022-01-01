@@ -24,6 +24,8 @@ e)[^103] vizsgálni kell a magyar állampolgárság fennállását.
 
 (8)[^109] Az eljáró hatóság két alkalommal hívhatja fel hiánypótlásra a kérelmezőt.
 
+ELEKTRONIKUS ÜGYINTÉZÉSI PONTON TÖRTÉNŐ ÜGYINTÉZÉS ELTÉRŐ SZABÁLYAI[^110]
+
 [^100]: A 19. § (1) bekezdése a 28/2020. (II. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^101]: A 19. § (1) bekezdés c) pontja a 28/2020. (II. 28.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^102]: A 19. § (1) bekezdés d) pontját a 375/2021. (VI. 30.) Korm. rendelet 6. § (4) bekezdése iktatta be.
@@ -34,3 +36,4 @@ e)[^103] vizsgálni kell a magyar állampolgárság fennállását.
 [^107]: A 19. § (6) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (16) bekezdés a) pontja hatályon kívül helyezte.
 [^108]: A 19. § (7) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 7. §-a iktatta be.
 [^109]: A 19. § (8) bekezdését újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (3) bekezdése iktatta be, szövege a 317/2020. (VII. 1.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^110]: Az „Elektronikus ügyintézési ponton történő ügyintézés eltérő szabályai” alcímet 717/2021. (XII. 20.) Korm. rendelet 3. §-a iktatta be.
