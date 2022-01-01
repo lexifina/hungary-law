@@ -1,3 +1,5 @@
-## 12. §[^15]
+## „(6) A (3) bekezdés szerinti hatósági ellenőrzés során a jegyző a (4) bekezdésben foglaltakon kívül kiemelten vizsgálja azt, hogy
 
-[^15]: A 12. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## a) a szálláshely-szolgáltató eleget tesz az 5. §-ban meghatározott rendelkezésnek, és
+
+## b) a szálláshely megfelel a bejelentésben foglalt szálláshely-üzemeltetési tevékenység e rendeletben foglalt és a szálláshely-minősítő szervezet elektronikus felületén közzétett feltételeinek.”

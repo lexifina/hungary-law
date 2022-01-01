@@ -1,3 +1,5 @@
-## 10. §[^13]
+## 10. § Az R3. 6. § (2) bekezdése a következő e) ponttal egészül ki:
 
-[^13]: A 10. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## (A bejelentéshez mellékelni kell)
+
+## „e) a szálláshely-minősítő szervezet által kiadott minősítő dokumentumot.”

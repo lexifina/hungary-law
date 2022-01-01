@@ -1,3 +1,3 @@
-## 14. §[^17]
+## 14. § Az R3. 13. §-a a következő (1a) bekezdéssel egészül ki:
 
-[^17]: A 14. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „(1a) A szálláshely-szolgáltató a szálláshely-minősítésben bekövetkezett változást követően, valamint a szálláshely-minősítés megújítása során kiállított, a 6. § (2) bekezdés e) pontja szerinti dokumentumot haladéktalanul köteles megküldeni a jegyzőnek.”

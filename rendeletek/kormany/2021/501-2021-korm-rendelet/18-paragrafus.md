@@ -1,3 +1,1 @@
-## 17. §[^20]
-
-[^20]: A 17. § a 35. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 17. § Az R3. 1. melléklete helyébe a 3. melléklet lép.
