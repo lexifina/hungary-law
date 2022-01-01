@@ -6,7 +6,7 @@ b) tőzsdei tevékenységet segítő kiegészítő tevékenységet,
 
 c) a Bszt. 5. § (1) bekezdés h) és i) pontja szerinti kereskedési rendszer működtetése tevékenységet,
 
-d) a Bszt. 6/A. §-a szerinti adatszolgáltatási tevékenységet,
+d) a 600/2014/EU európai parlamenti és tanácsi rendelet szerinti adatszolgáltatási tevékenységet,
 
 e) gazdasági társaságok tőkepiaci forrásbevonását elősegítő platformok működtetése tevékenységet,
 
