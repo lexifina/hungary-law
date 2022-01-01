@@ -35,3 +35,5 @@ a) ha a magasabb vezető, vezető, továbbá a pénzügyi kötelezettségvállal
 b) a közalkalmazottak jogállásáról szóló törvényben foglaltaktól eltérően, ha a tankerületi központ által fenntartott köznevelési intézményben közalkalmazotti jogviszonyban álló személy polgári jogi jogviszony alapján lát el a tankerületi központ által fenntartott más köznevelési intézményben egyébként a munkakörébe tartozó feladatokat.
 
 (8) Ahol a Munka Törvénykönyve vagy a közalkalmazottak jogállásáról szóló törvény munkáltatóról rendelkezik, azon a tankerületi központot, továbbá – az intézményvezető számára e törvény által biztosított munkáltatói jogok tekintetében – a tankerületi központ által fenntartott köznevelési intézményt kell érteni.
+
+(9) A közalkalmazotti jogviszony vagy munkaviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
