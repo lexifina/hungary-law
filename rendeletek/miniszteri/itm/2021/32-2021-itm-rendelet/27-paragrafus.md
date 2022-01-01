@@ -1,3 +1,3 @@
-## 26. §[^29]
+## 26. §[^27]
 
-[^29]: A 26. § a 29. § (5) bekezdése alapján 2023. február 21-én lép hatályba.
+[^27]: A 26. § a 29. § (5) bekezdése alapján 2023. február 21-én lép hatályba.
