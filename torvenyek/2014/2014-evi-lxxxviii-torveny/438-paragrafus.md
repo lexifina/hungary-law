@@ -8,6 +8,6 @@ c)
 
 d) a biztosítási ágak elkülönítésének módjára,
 
-e) a biztosításközvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító tanúsítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
+e) a biztosításközvetítői hatósági képzés és vizsga szabályaira, a hatósági vizsga letételével szerzett, függő és független biztosításközvetítői tevékenység folytatására feljogosító hatósági bizonyítvány megszerzésének követelményeire, a hatósági vizsga díjának mértékére, megfizetésére és visszatérítésére
 
 vonatkozó részletes szabályokat rendeletben állapítsa meg.

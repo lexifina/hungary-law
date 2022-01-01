@@ -37,3 +37,5 @@ c) szaktanácsadók szakmai érdekvédelmi szervénél, továbbá biztosítási 
 feltéve, ha a szakmai gyakorlat befejezésére vonatkozó egyéb feltételek fennállnak.
 
 (6) A biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 2015. december 31-én hatályos 51. § (2) bekezdésében és az 5. számú mellékletének 1.C) és 1.D) pontjában meghatározott felügyeleti nyilvántartásban 2015. december 31-én – a szaktanácsadói tevékenységet végző természetes személy vagy gazdálkodó szervezet vonatkozásában – szereplő adatokat a Felügyelet 2026. január 1-jéig a (3)–(5) bekezdésben meghatározott rendelkezések végrehajtása és hatóságoktól vagy más szervektől érkező megkeresések teljesítése céljából kezelheti.
+
+(7) Az a biztosításközvetítői tevékenységet végző természetes személy, aki 2021. december 31-én megfelelt a 9. mellékletben meghatározott követelményeknek, 2022. január 1-jét követően is végezhet biztosításközvetítői tevékenységet.
