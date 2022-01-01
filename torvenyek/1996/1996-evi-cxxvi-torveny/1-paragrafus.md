@@ -24,4 +24,4 @@ meghatározottak közül kiválasztott egy-egy kedvezményezett javára.
 
 (6) Az adózó a rendelkező nyilatkozaton rendelkezhet úgy, hogy nevét és postai, illetve elektronikus levelezési címét a 4. § (1) bekezdése szerinti kedvezményezettel közöljék.
 
-(7) Az adóhatóság a 4/A. § (1) bekezdés a) pontja szerinti kedvezményezett részére a rendelkező nyilatkozatot az újabb kedvezményezett megjelöléséig vagy a rendelkező nyilatkozat visszavonására irányuló nyilatkozat benyújtásáig veszi figyelembe. Az újabb kedvezményezett megjelölésére vagy a nyilatkozat visszavonására a nyilatkozattétel évét követően évente egy alkalommal, az 5. § (1) bekezdésben meghatározott határidőig kerülhet sor.
+(7) Az adóhatóság a 4/A. § (1) bekezdése szerinti kedvezményezett részére a rendelkező nyilatkozatot az újabb kedvezményezett megjelöléséig vagy a rendelkező nyilatkozat visszavonására irányuló nyilatkozat benyújtásáig veszi figyelembe. Az újabb kedvezményezett megjelölésére vagy a nyilatkozat visszavonására a nyilatkozattétel évét követően évente egy alkalommal, az 5. § (1) bekezdésben meghatározott határidőig kerülhet sor.

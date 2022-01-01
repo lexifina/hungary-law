@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-126-00-00
 | 2019-01-01 | 2018. évi LXXXII. törvény | 1996-126-00-00.42 |
 | 2019-07-01 | 2019. évi XXXVI. törvény | 1996-126-00-00.43 |
 | 2020-01-01 | 2019. évi CXXVII. törvény | 1996-126-00-00.44 |
+| 2022-01-01 | 2021. évi LXIX. törvény | 1996-126-00-00.45 |
