@@ -1,1 +1,0 @@
-## 2. § Ha az államot a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:42. § (1) bekezdésében meghatározott helytállási kötelezettség terheli, abban az esetben az ezzel kapcsolatos polgári jogi jogviszonyban az államot az MNV Zrt. képviseli.
