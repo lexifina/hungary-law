@@ -4,7 +4,13 @@
 
 ## 12/B. A tanúsító hatóság
 
-22/B. § (1) Az (EU) 2019/881 európai parlamenti és tanácsi rendelet szerinti nemzeti kiberbiztonsági tanúsító hatóság (a továbbiakban: tanúsító hatóság) feladatait a Kormány által kijelölt hatóságok látják el.
+22/B. § (1) Az (EU) 2019/881 európai parlamenti és tanácsi rendelet szerinti nemzeti kiberbiztonsági tanúsító hatóság (a továbbiakban: tanúsító hatóság) feladatait
+
+a) – a b) pont kivételével – az SZTFH,
+
+b) a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok tekintetében a Kormány által kijelölt hatóság
+
+látja el.
 
 (2) A tanúsító hatóság eljárása során a sommás eljárás kizárt. Ha a hatósági eljárás lefolytatásához szakértő vagy a 19. § (1) bekezdése szerinti eseménykezelő központ bevonása szükséges, a tanúsító hatóság ügyintézési határideje 120 nap.
 
