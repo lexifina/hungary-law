@@ -1,6 +1,6 @@
 ## 11. A földi kiszolgálás feltételei és engedélyezése
 
-21. § (1) A földi kiszolgálás végzéséhez szükséges hatósági engedélyt a légiközlekedési hatóság adja ki. Az engedély mintáját a földi kiszolgálás feltételeiről és engedélyezésének rendjéről szóló 7/2002. (I. 28.) KöViM rendelet (a továbbiakban: Földi Kiszolgálás Rendelet) 2. számú melléklete tartalmazza.
+21. § (1)[^37] A földi kiszolgálás végzéséhez szükséges hatósági engedélyt a légiközlekedési hatóság adja ki.
 
 (2) Engedély annak a gazdálkodó szervezetnek adható,
 
@@ -8,6 +8,7 @@ a) amely igazolja a Földi Kiszolgálás Rendelet 3. és 4. számú mellékleté
 
 b) amelyet a Földi Kiszolgálás Rendelet 18. § szerinti eljárás során kiválasztottak, amennyiben a repülőtéren a légiközlekedési hatóság a földi kiszolgálást e rendelet 26. és 27. §-a alapján korlátozta,
 
-c)[^36] amely rendelkezik a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti „Bizalmas!” minősítési szintű és érvényes telephelybiztonsági tanúsítvánnyal.
+c)[^38] amely rendelkezik a minősített adat védelméről szóló 2009. évi CLV. törvény szerinti „Bizalmas!” minősítési szintű és érvényes telephelybiztonsági tanúsítvánnyal.
 
-[^36]: A 21. § (2) bekezdés c) pontját a 273/2020. (VI. 12.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 21. § (1) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 74. §-a szerint módosított szöveg.
+[^38]: A 21. § (2) bekezdés c) pontját a 273/2020. (VI. 12.) Korm. rendelet 1. §-a iktatta be.

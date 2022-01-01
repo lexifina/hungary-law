@@ -4,10 +4,10 @@
 
 (3) A szakszolgálati engedély érvényességi idejének lejárta esetén a légiközlekedési hatóság kérelemre a szakszolgálati engedélyt újabb 5 évvel meghosszabbítja. A szakszolgálati engedély érvényességi ideje 5 évvel meghosszabbításra kerül új kategória vagy jogosítás bejegyzése esetén.
 
-(4)[^48] Ha a jogosítást a légiközlekedési hatóság a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet III. Melléklete (a továbbiakban: Part-66) Part-66 szerint kiadott szakszolgálati engedély „Nemzeti jogosítások” rovatába jegyzi be, akkor ennek a jogosításnak az érvényességi ideje megegyezik a Part-66 szerint kiadott szakszolgálati engedély érvényességi idejével.
+(4)[^51] Ha a jogosítást a légiközlekedési hatóság a légi járművek és repüléstechnikai termékek, alkatrészek és berendezések folyamatos légi alkalmasságának biztosításáról és az ezzel összefüggő feladatokban részt vevő szervezetek és személyek jóváhagyásáról szóló, 2014. november 26-i 1321/2014/EU bizottsági rendelet III. Melléklete (a továbbiakban: Part-66) Part-66 szerint kiadott szakszolgálati engedély „Nemzeti jogosítások” rovatába jegyzi be, akkor ennek a jogosításnak az érvényességi ideje megegyezik a Part-66 szerint kiadott szakszolgálati engedély érvényességi idejével.
 
 (5) A szakszolgálati engedély érvényességi idejének lejárta, a szakszolgálati engedély visszavonása vagy felfüggesztése esetén az annak alapján kiadott bármely üzemképesség tanúsító megbízás szintén érvényét veszti.
 
 (6) A szakszolgálati engedély kizárólag abban az esetben érvényes, ha az engedélyes azt aláírta.
 
-[^48]: A 100. § (4) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 52. §-a szerint módosított szöveg.
+[^51]: A 100. § (4) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 52. §-a szerint módosított szöveg.

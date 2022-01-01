@@ -1,4 +1,4 @@
-171/A. §[^58] (1) A távoli pilóták pilóta nélküli légijárművek vezetéséhez szükséges, az (EU) 2019/947 bizottsági végrehajtási rendelet
+171/A. §[^61] (1) A távoli pilóták pilóta nélküli légijárművek vezetéséhez szükséges, az (EU) 2019/947 bizottsági végrehajtási rendelet
 
 a) UAS.OPEN.020 4. b),
 
@@ -16,4 +16,4 @@ a) a képzőszerv erre irányuló kérelme esetén,
 
 b) amennyiben megállapítja, hogy a képzőszerv nem teljesíti az engedély kiadásának feltételeit.
 
-[^58]: A 171/A. §-t a 39/2021. (II. 2.) Korm. rendelet 22. §-a iktatta be.
+[^61]: A 171/A. §-t a 39/2021. (II. 2.) Korm. rendelet 22. §-a iktatta be.

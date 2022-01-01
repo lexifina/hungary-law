@@ -1,4 +1,4 @@
-## 8/B. §[^12] A légiközlekedési hatóság a repülőtér környezetében létesítendő zajgátló védőövezet kijelöléséről szóló határozatot hirdetmény útján közli.
+## 8/B. §[^13] A légiközlekedési hatóság a repülőtér környezetében létesítendő zajgátló védőövezet kijelöléséről szóló határozatot hirdetmény útján közli.
 
 ## 7. Frekvencia igénybevétel feltételei
 
@@ -12,7 +12,7 @@ c) rádióállomás kísérleti üzembe helyezésére, próbaüzemére,
 
 d) frekvencia-, fedésterület- és magasságváltozás esetében.
 
-(2)[^13] A kérelemnek tartalmaznia kell a rádióberendezés tervezett frekvenciáját, hívójelét, telepítési helyét, a légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásának szabályairól szóló miniszteri rendeletben meghatározott pontossággal földrajzi WGS–84 rendszerű koordinátáit, a rendszer megnevezését.
+(2)[^14] A kérelemnek tartalmaznia kell a rádióberendezés tervezett frekvenciáját, hívójelét, telepítési helyét, a légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásának szabályairól szóló miniszteri rendeletben meghatározott pontossággal földrajzi WGS–84 rendszerű koordinátáit, a rendszer megnevezését.
 
 (3) A kérelem benyújtásakor igazolni kell a rádióberendezés megfelelőségét.
 
@@ -28,5 +28,5 @@ d) frekvencia-, fedésterület- és magasságváltozás esetében.
 
 (9) Az NMHH a nemzetközi frekvenciakoordináció eredményeit frekvenciakiosztási tervbe foglalva teszi közzé a légiközlekedési hatóság és a felhasználók tájékoztatása, valamint a tételes frekvencia-igénybevétel lehetősége céljából.
 
-[^12]: A 8/B. §-t a 348/2019. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
-[^13]: A 9. § (2) bekezdése a 30/2019. (III. 1.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 8/B. §-t a 348/2019. (XII. 23.) Korm. rendelet 14. §-a iktatta be.
+[^14]: A 9. § (2) bekezdése a 30/2019. (III. 1.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
