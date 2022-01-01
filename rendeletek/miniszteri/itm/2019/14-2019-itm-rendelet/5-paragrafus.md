@@ -2,7 +2,7 @@
 
 ## 4. Az egyes támogatási kategóriákra vonatkozó közös szabályok
 
-5. § (1)[^37] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1388/2014/EU bizottsági rendelet és a 360/2012/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+5. § (1)[^33] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1388/2014/EU bizottsági rendelet és a 360/2012/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrzi.
 
@@ -10,7 +10,7 @@
 
 a) azon szervezet részére, amely nem tett eleget az Európai Bizottság által hozott, állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettségének,
 
-b)[^38] – a 41. § (4) bekezdésében foglaltak figyelembevételével – a 20. alcím, – a 43. § (4) bekezdésében foglaltak figyelembevételével – a 22–24 alcím, – a 74/B. § (4) és (5) bekezdés figyelembevételével – a 40. alcím szerinti támogatás kivételével nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. december 31. között nehéz helyzetbe került.
+b)[^34] – a 41. § (4) bekezdésében foglaltak figyelembevételével – a 20. alcím, – a 43. § (4) bekezdésében foglaltak figyelembevételével – a 22–24 alcím, – a 74/B. § (4) és (5) bekezdés figyelembevételével – a 40. alcím szerinti támogatás kivételével nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. december 31. között nehéz helyzetbe került.
 
 (4) Nem ítélhető meg
 
@@ -32,25 +32,25 @@ f) támogatás, ha azt import áru helyett hazai áru használatától teszik f�
 
 g) olyan feltétellel nyújtott támogatás, amely az európai uniós jog megsértését eredményezi.
 
-h)[^39] a 42. alcím szerinti támogatás olyan vállalkozásoknak, amelyek az 508/2014/EU rendelet 10. cikkének (1)–(3) és (5) bekezdésében foglalt okok miatt nem igényelhetnek támogatást az Európai Tengerügyi és Halászati Alapból,
+h)[^35] a 42. alcím szerinti támogatás olyan vállalkozásoknak, amelyek az 508/2014/EU rendelet 10. cikkének (1)–(3) és (5) bekezdésében foglalt okok miatt nem igényelhetnek támogatást az Európai Tengerügyi és Halászati Alapból,
 
-i)[^40] a 42. alcím szerinti támogatás az 508/2014/EU rendelet 11. cikke szerint kizárt műveletekhez.
+i)[^36] a 42. alcím szerinti támogatás az 508/2014/EU rendelet 11. cikke szerint kizárt műveletekhez.
 
 (5) Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
 
-(6)[^41] A 6. alcím szerinti támogatás kisvállalkozás részére, a 7., 26. és – a 65. § (4) bekezdés a) pontja figyelembevételével – a 34. és a 42. alcím szerinti támogatás kis- és középvállalkozás részére nyújtható.
+(6)[^37] A 6. alcím szerinti támogatás kisvállalkozás részére, a 7., 26. és – a 65. § (4) bekezdés a) pontja figyelembevételével – a 34. és a 42. alcím szerinti támogatás kis- és középvállalkozás részére nyújtható.
 
 (7) A 651/2014/EU bizottsági rendelet alapján támogatás – az induló vállalkozásnak nyújtott támogatás és a kultúrát és a kulturális örökség megőrzését előmozdító támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
-(7a)[^42] A 702/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
+(7a)[^38] A 702/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
-(7b)[^43] Az 1388/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett az 1388/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
+(7b)[^39] Az 1388/2014/EU bizottsági rendelet alapján támogatás csak akkor ítélhető meg, ha a kedvezményezett az 1388/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
-(7c)[^44] A (7) bekezdés szerinti támogatási kérelem benyújtása előtt felmerült költségekre kizárólag az 1407/2013/EU bizottsági rendelet vagy az 1408/2013/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
+(7c)[^40] A (7) bekezdés szerinti támogatási kérelem benyújtása előtt felmerült költségekre kizárólag az 1407/2013/EU bizottsági rendelet vagy az 1408/2013/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
 
-(7d)[^45] A (7a) bekezdés szerinti támogatási kérelem benyújtása előtt felmerült költségekre kizárólag az 1408/2013/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
+(7d)[^41] A (7a) bekezdés szerinti támogatási kérelem benyújtása előtt felmerült költségekre kizárólag az 1408/2013/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
 
-(7e)[^46] A (7b) bekezdés szerinti támogatási kérelem benyújtása előtt felmerült költségekre kizárólag a 717/2014/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
+(7e)[^42] A (7b) bekezdés szerinti támogatási kérelem benyújtása előtt felmerült költségekre kizárólag a 717/2014/EU bizottsági rendelet szerinti csekély összegű támogatás nyújtható.
 
 (8) Az agrár- és erdészeti iránymutatás szerinti támogatás – a 65. § (4) bekezdés b), c) és d) pontja kivételével – csak akkor ítélhető meg, ha a kedvezményezett az agrár- és erdészeti iránymutatás 71. pontjában meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
@@ -72,13 +72,13 @@ i)[^40] a 42. alcím szerinti támogatás az 508/2014/EU rendelet 11. cikke szer
 
 (17) A mezőgazdasági ágazat részére nyújtott állami támogatások ugyanazon elszámolható költségek tekintetében nem halmozhatók az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2017. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet 81. cikk (2) bekezdésében és 82. cikkében említett kifizetésekkel, ha az ilyen halmozódás eredményeként a támogatási intenzitás vagy a támogatási összeg meghaladná az agrár- és erdészeti iránymutatásban megállapított intenzitást vagy összeget.
 
-[^37]: Az 5. § (1) bekezdése az 59/2020. (XII. 30.) ITM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^38]: Az 5. § (3) bekezdés b) pontja az 59/2020. (XII. 30.) ITM rendelet 5. § (2) bekezdésével megállapított, a 70/2021. (XII. 30.) ITM rendelet 13. § n) pontja szerint módosított szöveg.
-[^39]: Az 5. § (4) bekezdés h) pontját az 59/2020. (XII. 30.) ITM rendelet 5. § (3) bekezdése iktatta be.
-[^40]: Az 5. § (4) bekezdés i) pontját az 59/2020. (XII. 30.) ITM rendelet 5. § (3) bekezdése iktatta be.
-[^41]: Az 5. § (6) bekezdése az 59/2020. (XII. 30.) ITM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^42]: Az 5. § (7a) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
-[^43]: Az 5. § (7b) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
-[^44]: Az 5. § (7c) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
-[^45]: Az 5. § (7d) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
-[^46]: Az 5. § (7e) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
+[^33]: Az 5. § (1) bekezdése az 59/2020. (XII. 30.) ITM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 5. § (3) bekezdés b) pontja az 59/2020. (XII. 30.) ITM rendelet 5. § (2) bekezdésével megállapított, a 70/2021. (XII. 30.) ITM rendelet 13. § n) pontja szerint módosított szöveg.
+[^35]: Az 5. § (4) bekezdés h) pontját az 59/2020. (XII. 30.) ITM rendelet 5. § (3) bekezdése iktatta be.
+[^36]: Az 5. § (4) bekezdés i) pontját az 59/2020. (XII. 30.) ITM rendelet 5. § (3) bekezdése iktatta be.
+[^37]: Az 5. § (6) bekezdése az 59/2020. (XII. 30.) ITM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^38]: Az 5. § (7a) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
+[^39]: Az 5. § (7b) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
+[^40]: Az 5. § (7c) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
+[^41]: Az 5. § (7d) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
+[^42]: Az 5. § (7e) bekezdését az 59/2020. (XII. 30.) ITM rendelet 5. § (5) bekezdése iktatta be.
