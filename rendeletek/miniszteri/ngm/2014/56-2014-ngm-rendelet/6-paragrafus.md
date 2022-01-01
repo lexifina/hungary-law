@@ -2,7 +2,7 @@
 
 (2) Az 1. mellékletben meghatározott minta táblázatot a hitelező és a hitelközvetítő az alábbiak figyelembevételével tölti ki:
 
-a) a lakás-takarékpénztár által nyújtott hitelnél a hitel összege 1 millió forint, futamideje 60 hónap,
+a)[^8] a lakás-takarékpénztár által nyújtott lakáskölcsönnél a hitel összege 2 millió forint, futamideje 60 hónap, a lakás-takarékpénztár által nyújtott áthidaló kölcsönnél a hitel összege 5 millió forint, futamideje a lakáskölcsönnel együtt 15 év,
 
 b) más hitelező által nyújtott jelzáloghitelnél a hitel összege 5 millió forint, a futamideje 240 hónap,
 
@@ -23,3 +23,5 @@ g) a 2. táblázatban az adott deviza alapú hitelszerződés reprezentatívnak 
 h) a teljes futamidő alatti fix kamatozással nyújtott hitel esetén a kamat emelkedésére vonatkozó sorok és oszlopok közül kizárólag a 0,0%-hoz rendelt sort és oszlopot tölti ki.
 
 (3) Ha az adott hitelt a hitelező nem nyújtja a (2) bekezdés a)–d) pontjaiban meghatározott feltételekkel és a hitelező által kínált feltételek érdemben attól eltérőek, abban az esetben a (2) bekezdés a)–d) pontjaiban említett feltételekhez legközelebbi – a hiteltípusra létező – összeget és futamidőt tünteti fel.
+
+[^8]: A 6. § (2) bekezdés a) pontja a 14/2021. (XII. 8.) PM rendelet 3. §-ával megállapított szöveg.
