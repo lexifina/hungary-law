@@ -20,15 +20,17 @@ b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet
 
 személy tulajdonába kerül.
 
-(1b) Törvény alapján a magyar állam nevében és javára eljáró építtető részére kiadott, a bányafelügyelet engedélyétől eltérő, más hatósági engedély alapján kitermelt és
+(1b) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra beruházás esetén a törvény alapján a magyar állam nevében és javára eljáró építtető részére kiadott, a bányafelügyelet engedélyétől eltérő, más hatósági engedély alapján kitermelt és
 
 a) a magyar állam nevében és javára eljáró építtető által a magyar állam tulajdonában lévő ingatlanba beépített vagy
 
 b) célkitermelőhely vagy bánya rekultiválására felhasznált
 
-ásványi nyersanyag a kitermeléssel nem kerül ki a magyar állam tulajdonából. A kitermelt ásványi nyersanyagnak nem az a) vagy b) pont szerint történő felhasználására, hasznosítására a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal kötött megállapodás alapján a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben szabályozott feltételekkel és módon kerülhet sor.
+ásványi nyersanyag a kitermeléssel nem kerül ki a magyar állam tulajdonából.
 
 (1c) Az anyagnyerő helyről kitermelt és a vizek kártételei elleni védelem és védekezés célját szolgáló önkormányzati tulajdonú közcélú vízilétesítménybe beépített ásványi nyersanyag az önkormányzat tulajdonába kerül.
+
+(1d) Nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra beruházás esetén a törvény alapján a magyar állam nevében és javára eljáró – az (1b) bekezdésben meghatározott – építtetővel szerződéses jogviszonyban álló, az ásványi nyersanyag kitermelését végző személy a magyar állam tulajdonában lévő ingatlanba az (1b) bekezdés szerint be nem épített, és rekultiválásra fel nem használt ásványi nyersanyag tulajdonjogát megszerzi.
 
 (2) A kőolaj, a kőolajtermékek, továbbá – a földgáz kivételével – a szénhidrogén-gázok csővezetéken történő szállítása kizárólagos állami tevékenység.
 

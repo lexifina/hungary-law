@@ -1,6 +1,6 @@
 ## A kitermelés szüneteltetése
 
-30. § (1) A bányavállalkozó a kitermelésre jóváhagyott műszaki üzemi terv időtartama alatt, legfeljebb 12 hónapig a kitermelést szüneteltetheti. A kitermelést 12 hónapot meghaladóan szüneteltetni – az építőipari nyers- és alapanyagra megállapított bányatelkek kivételével – a bányafelügyelet engedélyével, jóváhagyott szüneteltetési műszaki üzemi terv alapján lehet.
+30. § (1) A bányavállalkozó a kitermelésre jóváhagyott műszaki üzemi terv időtartama alatt legfeljebb 12 hónapig állhat le a kitermeléssel. A bányavállalkozó a kitermelést 12 hónapot meghaladóan – az építőipari nyers- és alapanyagra megállapított bányatelkek kivételével – a bányafelügyelet engedélyével, jóváhagyott szüneteltetési műszaki üzemi terv alapján szüneteltetheti.
 
 (2) A szüneteltetés időtartamára a miniszter a koncessziós szerződésben, más bányavállalkozó esetében a bányafelügyelet a szüneteltetésre készült műszaki üzemi tervet jóváhagyó határozatban a kieső bányajáradék pótlására díjfizetési kötelezettséget állapít meg. A bányajáradék pótlására díj nem állapítható meg, ha a kitermelés szüneteltetését elemi csapás vagy bányaveszély tette szükségessé.
 
@@ -10,9 +10,11 @@
 
 a) a kitermelés szüneteltetésének időtartama eléri a 6 évet,
 
-b) a bányavállalkozó a kiesett bányajáradék pótlására megállapított díjfizetési kötelezettségének felhívás ellenére határidőre nem tesz eleget vagy
+b) építőipari nyers- és alapanyagra megállapított bányatelek esetében a (7) bekezdés szerinti szünetelés időtartama eléri a 48 hónapot,
 
-c) a bányavállalkozónak a szüneteltetést követő időszakra vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmét – a bányabezárási és tájrendezési műszaki üzemi terv kivételével – a bányafelügyelet véglegessé vált döntésben elutasította vagy az eljárást megszüntette.
+c) a bányavállalkozó a kiesett bányajáradék pótlására megállapított díjfizetési kötelezettségének felhívás ellenére határidőre nem tesz eleget vagy
+
+d) a bányavállalkozónak a szüneteltetést követő időszakra vonatkozó műszaki üzemi terv jóváhagyása iránti kérelmét – a bányabezárási és tájrendezési műszaki üzemi terv kivételével – a bányafelügyelet véglegessé vált döntésben elutasította vagy az eljárást megszüntette.
 
 (4a) A bányavállalkozó a bánya bezárását és a tájrendezés elvégzését elrendelő bányafelügyeleti határozat véglegessé válásától számított 30 napon belül köteles a 42. § szerinti műszaki üzemi terv jóváhagyása iránti kérelmet benyújtani.
 
@@ -26,4 +28,4 @@ b) a bányafelügyelet a bányászati jogot törli, a 26/A. § (6b) és (7) beke
 
 foglaltakat kell alkalmazni.
 
-(7) Ha az építőipari nyers- és alapanyagra megállapított bányatelek jogosítottja a kitermelést szünetelteti, az első félévben a kieső bányajáradék pótlására a 20. § szerint meghatározott bányajáradék összege a bányatelekből kitermelhető ásványvagyon értékének 0,5‰-e, amely összeg félévenként további 0,5‰-kel növekszik. Ha a bányavállalkozó a végleges műszaki üzemi terv birtokában, az építőipari nyers- és alapanyagra megállapított bányatelken, a bányatelekre jóváhagyott valamennyi kitermelési műszaki üzemi terv időbeli hatálya alatt összesen negyvennyolc hónapot meghaladóan nem folytat kitermelést, a bányászati jogot törölni kell.
+(7) Ha az építőipari nyers- és alapanyagot kitermelő bányavállalkozó 12 hónapot meghaladóan nem végez kitermelést (a továbbiakban: szünetelés), az első félévben az elmaradt bányajáradék pótlására a 20. § alapján, valamint az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendeletben meghatározott fajlagos érték alapján a bányatelek kitermelhető ásványvagyon értéke 0,5‰-ének megfelelő összeget fizet, amely összeg 6 havonta további 0,5‰-kel növekszik.

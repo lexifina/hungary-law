@@ -55,3 +55,5 @@
 (26) E törvénynek a Módtv6.-tal megállapított 43. § (9e) bekezdése szerinti felülvizsgálatot első alkalommal a Módtv6. hatálybalépését követő 5. év december 31-ig kell elvégezni.
 
 (27) E törvénynek a Módtv6.-tal megállapított 43. § (9d) bekezdését a 2021. évre azzal az eltéréssel kell alkalmazni, hogy a Módtv6. 1. alcíme hatálybalépését megelőző időszakra eső felügyeleti díjat a Módtv6. 1. alcíme hatálybalépését megelőző szabályok szerint, a Módtv6. 1. alcíme hatálybalépését követő időszakra eső felügyeleti díjat a Módtv6. 1. alcíme hatálybalépését követően hatályos szabályok szerint, időarányosan kell megfizetni.
+
+(28) E törvénynek az egyes energetikai és közlekedési tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXXVI. törvénnyel (a továbbiakban: Módtv.7) megállapított 3. § (1b) és (1d) bekezdését, 20. § (2) bekezdés b) pontját, 20. § (3c) bekezdését, 26. § (4) bekezdését, 26/A. § (3) bekezdés d) pontját, 28/B. § (3) és (4) bekezdését, 30. § (1), (4) és (7) bekezdését, 36. § (2) bekezdését a 2022. január 1-jén fennálló tényekre, jogviszonyokra és a folyamatban lévő ügyekben is alkalmazni kell.

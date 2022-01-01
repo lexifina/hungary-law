@@ -40,6 +40,12 @@ s) a földtani kutatás,
 
 t) a vizek kártételei elleni védelem és védekezés célját szolgáló közcélú vízilétesítmények létesítéséhez szükséges ásványinyersanyag-kinyerő helyek létesítése, üzemeltetése, megszüntetése.
 
+u) az előkutatás tudomásul vétele,
+
+v) a bányászati és gázipari biztonsági szabályzatok és műszaki követelmények megállapítása, ideértve a Hatóság elnökének rendeletében meghatározott feltételek fennállása esetén általános vagy egyedi eltérés, felmentés engedélyezését a biztonsági szabályzatok és műszaki követelmények előírásai alól,
+
+w) a piacfelügyeleti eljárása során a biztonságossági és megfelelőség-tanúsítási követelmények érvényesítése, ennek keretében a bányászati és gázüzemi tevékenységek végzése során alkalmazott vagy a hatósági felügyelete alá tartozó létesítményekbe beépített termékek, gépek, berendezések, a nyomástartó berendezések és rendszerek, szállítható nyomástartó berendezések, az egyéni védőeszközök, a villamossági termékek, a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek ellenőrzése; továbbá azon termékek biztonságosságának elbírálása, melyek használatbavételéhez összeszerelés, helyre szerelés vagy más installációs műveletek elvégzése szükséges, alkalmazhatóságára a forgalmazási műveletek – különösen szállítás, raktározás – hatással lehettek, valamint amelyek esetében nem történt piacra helyezés a használatbavételt megelőzően, ideértve a saját használatra előállított terméket is.
+
 (2) Polgári felhasználású robbanóanyag forgalmazását és polgári robbantási tevékenység végzését a bányafelügyelet annak a gazdálkodó szervezetnek, valamint e tevékenységet végző, irányító, felügyelő személynek engedélyezi, aki megfelel a jogszabályban meghatározott feltételeknek. A bányafelügyelet a tevékenység folytatására engedéllyel rendelkezőkről nyilvántartást vezet.
 
 (2a) A gazdálkodó szervezetekre vonatkozó (2) bekezdés szerinti nyilvántartás tartalmazza az engedélyes megnevezését, székhelyét (telephelyét, fióktelepét), az engedély fajtáját és hatályát, a felelős személy nevét és lakcímét, valamint a forgalmazásra vagy felhasználásra engedélyezett robbanóanyag mennyiségét és a robbanóanyag kereskedelmi megnevezését.

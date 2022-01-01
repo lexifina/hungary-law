@@ -2,7 +2,7 @@
 
 34. § (1) A bányászati és a külön törvényben meghatározott gázipari tevékenységet a biztonsági előírások szerint kell végezni.
 
-(2) A biztonsági szabályzatokat külön jogszabály teszi közzé.
+(2) A biztonsági szabályzatokat a Hatóság elnöke rendeletben teszi közzé.
 
 (3) A bányavállalkozó, illetve a gázipari engedélyes köteles gondoskodni a biztonsági előírások megtartásának ellenőrzéséről és a tevékenység felügyeletéről, továbbá arról, hogy a személyek, a környezet és a vagyon védelmére kidolgozott üzemi szabályzatok a munkavállalók rendelkezésére álljanak.
 

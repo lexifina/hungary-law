@@ -4,7 +4,7 @@
 
 (2) Az építőipari nyers- és alapanyag esetén az előkutatás bejelentés alapján folytatható.
 
-(3) Az (1) bekezdés szerinti tevékenység végzésénél a 22. §-ban meghatározott kutatási műszaki üzemi tervnek az e törvény végrehajtásáról szóló kormányrendeletben előírt tartalmi követelményeit kell alkalmazni.
+(3) Az (1) bekezdés szerinti tevékenység végzésénél a 22. §-ban meghatározott kutatási műszaki üzemi tervnek a Hatóság elnökének rendeletében előírt tartalmi követelményeit kell alkalmazni.
 
 (4) Előkutatás az ingatlan tulajdonosával (kezelőjével, használójával) kötött megállapodás alapján végezhető.
 

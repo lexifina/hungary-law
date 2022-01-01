@@ -2,7 +2,7 @@
 
 36. § (1) A bányavállalkozó vagy a földtani kutatásra jogosult köteles azt a külszíni területet, amelynek használhatósága a bányászati vagy földtani kutatási tevékenység következtében megszűnt vagy lényegesen korlátozódott, fokozatosan helyreállítani, és ezzel a területet újrahasznosításra alkalmas állapotba hozni vagy a természeti környezetbe illően kialakítani (a továbbiakban együtt: tájrendezés).
 
-(2) A bányafelügyelet a tájrendezéshez szükséges feladatokról a műszaki üzemi terv, valamint az (5) bekezdés szerinti használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyási eljárása során dönt.
+(2) A bányafelügyelet a tájrendezéshez szükséges feladatokról a műszaki üzemi terv és az (5) bekezdés szerinti használaton kívüli bányászati célú mélyfúrás tájrendezési tervének jóváhagyási eljárása során dönt.
 
 (3) A használaton kívüli bányászati célú mélyfúrások adataira vonatkozóan a bányafelügyelet nyilvántartást vezet, amelyhez az adatokat a mélyfúrás tulajdonosa vagy vagyonkezelője köteles a bányafelügyelet rendelkezésére bocsátani. A használaton kívüli bányászati célú mélyfúrások nyilvántartásában a bányafelügyelet a bányászati célú mélyfúrás tulajdonosának nevét, tulajdonjogának igazolását, valamint az e törvény végrehajtására kiadott kormányrendelet szerinti adatokat tartja nyilván.
 

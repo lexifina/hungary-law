@@ -10,7 +10,7 @@
 
 a) a bányavállalkozó,
 
-b) az 1. § (2) bekezdése szerinti tevékenységre engedéllyel rendelkező, az 1. § (7) bekezdése szerinti engedélyes, valamint a 3. § (1a) bekezdés b) pontja szerint kitermelésre jogosult, és
+b) az 1. § (2) bekezdése szerinti tevékenységre engedéllyel rendelkező, az 1. § (7) bekezdése szerinti engedélyes, valamint a 3. § (1a) bekezdés b) pontja, illetve (1d) bekezdése szerint kitermelésre jogosult, és
 
 c) a geotermikus energiát kitermelő jogalany
 
@@ -63,6 +63,8 @@ b) a 3. § (1a) bekezdés b) pontja szerint a katasztrófaveszély vagy az Alapt
 ## felhasznált, hasznosított vagy értékesített ásványi nyersanyag mennyisége után keletkező értéknek az 50%-a.
 
 (3b) A föld alatti szénelgázosítással történő kitermelés esetében a bányajáradék mértéke az igénybevett ásványi nyersanyag mennyisége után keletkező értéknek a 2%-a.
+
+(3c) A bányajáradék mértéke a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra beruházás során a magyar állam nevében és javára eljáró építtetővel szerződéses jogviszonyban álló személy tulajdonába került ásványi nyersanyag értéknek az 50%-a.
 
 (4) Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 80 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke 3-3 százalékponttal emelkedik. Ha a Brent kőolaj tőzsdei jegyzésárának havi átlaga a 90 USD/bbl árat eléri vagy meghaladja, kőolaj esetében a (3) bekezdés a) és c) pontja szerinti bányajáradék mértéke további 3-3 százalékponttal emelkedik.
 

@@ -12,11 +12,7 @@ c) a kutatás engedélyezésére vonatkozó eljárás során 25 nap.
 
 d) a magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén 55 nap.
 
-(2) A bányafelügyelet
-
-a)
-
-b) eljárásaiban hiánypótlásra felhívásnak legfeljebb két ízben van helye.
+(2)
 
 (3) A bányafelügyelet
 
@@ -30,7 +26,7 @@ d) a biztonsági övezet megsértésével kapcsolatban hozott, kötelezést tart
 
 azonnal végrehajthatónak nyilváníthatja.
 
-(4) A bányafelügyeleti eljárásokban hozott és végrehajthatóvá nyilvánított döntésekben meghatározott cselekmény végrehajtását az első fokon eljárt hatóság foganatosítja.
+(4)
 
 (5) Adók módjára kell behajtani a meg nem fizetett
 

@@ -8,7 +8,9 @@
 
 (4)
 
-(5)–(6)
+(5)
+
+(6)
 
 (7) Nemzetbiztonsági okokból megtagadható vagy visszavonható az engedély olyan vállalkozás esetében, amely az Európai Unió tekintetében harmadik országok vagy harmadik országok állampolgárainak irányítása alatt áll.
 

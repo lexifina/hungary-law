@@ -2,7 +2,7 @@
 
 (2) Zárt területen geotermikus energiát kinyerni csak a földkéreg e célra elhatárolt részéből (geotermikus védőidom) szabad.
 
-(3) A geotermikus védőidomot a bányafelügyelet jelöli ki.
+(3) A geotermikus védőidomot az engedélyes kérelme alapján a bányafelügyelet jelöli ki.
 
 (4) A geotermikus védőidomon belül a jogosult írásbeli hozzájáruló nyilatkozata nélkül geotermikus energia kinyerését szolgáló létesítmény más részére nem engedélyezhető.
 

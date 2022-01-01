@@ -10,7 +10,7 @@ b) szilárd ásványi nyersanyag feltárása és kitermelése esetében – a k�
 
 c) meghatározza az általa alkalmazni kívánt bányaművelési technológiát (mélyművelés, külfejtés, fúrólyukas kitermelés), és műszaki leírással igazolja a kitermelési feltételek teljesíthetőségét, valamint megjelöli a kitermelés ütemterv szerinti időpontját,
 
-d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket.
+d) teljesíti a bányatelek-dokumentáció tartalmára jogszabályban előírt követelményeket, és ha a megállapítani kért bányatelek nem egész ingatlant érint, mellékeli az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot.
 
 (3a) A külfejtéses művelésű bányatelket akkor lehet megállapítani vagy horizontálisan bővíteni, ha a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény bányatelek-megállapításra vonatkozó előírásai teljesülnek, és a bányászati tevékenység befejezését követő, a bányászattal igénybe vett területekre vonatkozó újrahasznosítási cél a településrendezési tervben foglaltaknak megfelel.
 

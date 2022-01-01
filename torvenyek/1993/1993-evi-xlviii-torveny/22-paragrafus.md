@@ -6,7 +6,7 @@
 
 (3) A kutatási tevékenység az (1) bekezdésben meghatározott feltételen túlmenően csak jóváhagyott kutatási műszaki üzemi terv alapján kezdhető meg. A kutatási műszaki üzemi tervet a bányafelügyelet hagyja jóvá.
 
-(4) A kutatási terület kialakítására és mértékére vonatkozó szabályokat a Kormány állapítja meg.
+(4) A kutatási terület kialakítására és mértékére vonatkozó szabályokat a Hatóság elnöke rendeletben állapítja meg.
 
 (5) A tervezett kutatási időszakra a koncessziónál előírt határidőt a kutatás engedélyezése esetében is alkalmazni kell.
 
@@ -32,4 +32,4 @@ c) az egymás tevékenységének kölcsönös biztosítására vonatkozó kifeje
 
 (13) A bányavállalkozó a kutatási tevékenység befejezésétől, de legkésőbb az engedélyezett kutatási időszak utolsó napjától számított öt hónapon belül köteles kutatási zárójelentést benyújtani a bányafelügyelethez. A határidő elmulasztása esetén, vagy ha a bányafelügyelet a kutatási zárójelentést véglegessé vált határozatában elutasította, a bányavállalkozó kutatási joga megszűnik.
 
-(14) A kutatásra engedélyezett időszakon belül a bányavállalkozó a kutatási területet vagy annak egy részét visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadhatja el, ha a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat véglegessé válásának napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.
+(14) A kutatásra engedélyezett időszakon belül a bányavállalkozó a kutatási területet vagy annak egy részét visszaadhatja. A bányafelügyelet a terület-visszaadást akkor fogadhatja el, amennyiben a visszaadásra bejelentett területen a bányakárokat megtérítették, továbbá a tájrendezési, a környezetvédelmi, a földvédelmi és talajvédelmi kötelezettségeket teljesítették. A visszaadott területen a határozat véglegessé válásának napján az adományozott kutatási joga megszűnik vagy a jogosult kutatási engedélye hatályát veszti.
