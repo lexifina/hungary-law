@@ -1,0 +1,7 @@
+3. § (1) Az Ehat. Tv. 43. § (1) bekezdésében meghatározott rendszert és a rendszer adatait a rendszerről első alkalommal energetikai felülvizsgálatot végző energetikai felülvizsgáló rögzíti az Adatbázisban.
+
+(2) Az (1) bekezdés szerinti regisztráció során az energetikai felülvizsgáló az Adatbázisban rögzíti az energetikai felülvizsgálattal érintett épület címét, a rendszer megnevezését, funkcióját, típusát, egyedi azonosítóját, effektív névleges teljesítményét, a rendszerüzemeltető Ehat. Tv. 43/A. § (2) bekezdés a) pontjában vagy 43/A. § (2) bekezdés ba)–bf) alpontjában meghatározott adatait, mely adatokról az Adatbázis útján a rendszerüzemeltető értesül.
+
+(3) A rendszerüzemeltető személyében bekövetkezett változást a korábbi rendszerüzemeltető a Hatóság felé jelezheti. Ha az energetikai felülvizsgálat során az energetikai felülvizsgáló a rendszerüzemeltető személyében bekövetkezett változást észleli, az energetikai felülvizsgáló a változást – az új rendszerüzemeltető Ehat. Tv. 43/A. § (2) bekezdés a) pontjában vagy 43/A. § (2) bekezdés ba)–bf) alpontjában meghatározott adatainak megadásával – rögzíti.
+
+(4) A nyilvántartott rendszer vonatkozásában az Ehat. Tv. 43. § (3)–(4) bekezdésében meghatározott mentességi feltétel bekövetkezése esetén a rendszerüzemeltető a mentességi ok fennállását alátámasztó dokumentumok feltöltésével kezdeményezheti a rendszer Adatbázisból való törlését.

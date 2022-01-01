@@ -1,0 +1,1 @@
+A Kormány az energiahatékonyságról szóló 2015. évi LVII. törvény 44. § v)–y) pontjában kapott felhatalmazás alapján és az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
