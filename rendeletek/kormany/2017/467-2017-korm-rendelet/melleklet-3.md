@@ -1,5 +1,3 @@
-## Az adatközponti szolgáltatások igénybevételére kötelezett felhasználók és a Kormányzati Adatközpontban létesített szakrendszereik
-
 | A | B | C | D | E |
 
 | Sorszám | A felhívás azonosító jele | Kedvezményezett | Felhívás neve | A szakrendszer elnevezése |
@@ -208,7 +206,7 @@
 
 | 43. | KÖFOP-2.1.5-VEKOP- 162016-00001 | Belügyminisztérium | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | 43.1. Kormányzati Személyügyi Döntéstámogató Rendszer |
 
-| 43.2. Közszolgálati HR Rendszer |
+| 43.2. Közszolgálati Személyügyi Szolgáltatási Keretrendszer |
 
 | 43.3. KOMP Komplex, kompetencia alapú kiválasztási eljárás és tehetségmenedzsment rendszer |
 
@@ -216,7 +214,7 @@
 
 | 44. |  |  |  |  |
 
-3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^13]
+3. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^14]
 
 A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban működő egyéb központi és szakrendszerek
 
@@ -358,6 +356,8 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 67. | Filmiroda Egységes Ügykezelő Rendszer (FEÜR) | szakrendszer |
 
+| 67. | Nemzeti Sportinformációs Rendszer | szakrendsze |
+
 | 68. | Termék Minőségbiztosítási Rendszer (TMR) | központi rendszer |
 
 | 69. | MDS keretrendszer KÖFOP IH adatszolgáltató oldal | szakrendszer |
@@ -370,4 +370,4 @@ A 2. mellékletben meg nem jelölt, kötelezően a Kormányzati Adatközpontban 
 
 | 73. | Elektronikus hatósági ügyintézést és tájékoztatást segítő telefonos szolgáltató rendszer (Effector) | szakrendszer |
 
-[^13]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja, a 680/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdése, a 375/2021. (VI. 30.) Korm. rendelet 26. § (2) bekezdése, az 500/2021. (VIII. 18.) Korm. rendelet 15. §-a, a 717/2021. (XII. 20.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^14]: A 3. mellékletet újonnan a 112/2018. (VI. 25.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 17. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 4. § (2) és (3) bekezdése, az 572/2020. (XII. 9.) Korm. rendelet 118. § (2) bekezdése és 119. § c) pontja, a 680/2020. (XII. 28.) Korm. rendelet 5. § (2) bekezdése, a 375/2021. (VI. 30.) Korm. rendelet 26. § (2) bekezdése, az 500/2021. (VIII. 18.) Korm. rendelet 15. §-a, a 717/2021. (XII. 20.) Korm. rendelet 25. §-a, a 765/2021. (XII. 23.) Korm. rendelet 42. §-a szerint módosított szöveg.

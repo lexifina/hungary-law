@@ -1,6 +1,4 @@
-## 15–16. §[^10]
-
-1. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^11]
+1. melléklet a 467/2017. (XII. 28.) Korm. rendelethez[^12]
 
 1. KAK Hoszting szolgáltatás
 
@@ -118,5 +116,4 @@ Az SSL/TLS terminálásával szerverek felé a KAK belső hálózatán már csak
 
 A Szolgáltató a Fix publikus IP-cím kiegészítő szolgáltatás keretében fix, publikus IP-címet biztosít a Felhasználó számára a KAK – Virtuális Adatközpont szolgáltatásban meghatározott felső korlát erejéig. A kiegészítő szolgáltatás keretében a Szolgáltató fix, publikus IP-címet biztosít a Felhasználó számára, a rendelkezésére álló IP-címtartományából. Ez az IP-cím jellemzően a határvédelmi (perimeter) eszközön lesz beállítva, és azt biztosítja, hogy a Felhasználó által kialakított szolgáltatások az Internet felől is elérhetőek legyenek.
 
-[^10]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet az 572/2020. (XII. 9.) Korm. rendelet 118. § (1) bekezdésével megállapított szöveg.
+[^12]: Az 1. melléklet az 572/2020. (XII. 9.) Korm. rendelet 118. § (1) bekezdésével megállapított szöveg.

@@ -10,7 +10,7 @@ c)[^1] a kormányzati adatközponti szolgáltatásokat az 5. § szerint igénybe
 
 d) a kormányzati adatközponti szolgáltatásokkal érintett természetes személyekre, jogi személyekre és egyéb szervezetekre
 
-## terjed ki.
+terjed ki.
 
 (2) A rendeletet a kötelezett felhasználó tekintetében az igénybevételt vagy az igénybevételi kötelezettség vizsgálatát megalapozó körülmény bekövetkezésétől, az önként csatlakozó felhasználó tekintetében a csatlakozási igény benyújtásától kell alkalmazni.
 
