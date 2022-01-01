@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-309-20-
 | 2020-08-15 | 2014-309-20-22.10 | 376/2020. (VII. 30.) Korn. rendelet |
 | 2021-04-01 | 2014-309-20-22.11 | 158/2021. (III. 31.) Korm. rendelet |
 | 2021-06-22 | 2014-309-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
+| 2022-01-01 | 2014-309-20-22.13 | 700/2021. (XII. 13.) Korm. rendelet |

@@ -1,8 +1,8 @@
 4. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-## A veszélyes hulladékkal kapcsolatos negyedéves adatszolgáltatás teljesítéséhez szükséges adatcsomag adattartalma (EHIR: HIR-NÉ)[^68]
+## A hulladékkal kapcsolatos negyedéves adatszolgáltatás teljesítéséhez szükséges adatcsomag adattartalma (EHIR: KEZ-NÉ)[^100]
 
-1.[^69] Alapadatok:
+1.[^101] Alapadatok:
 
 1.1. Az adatszolgáltatóra vonatkozó adatok:
 
@@ -28,6 +28,8 @@ d) cím (irányítószám, település neve, közterület neve, típusa, házsz�
 
 e) a telephelyen foglalkoztatottak létszám szerinti kategorizálása.
 
+f)[^102] a gazdálkodó szervezet felelős vezetőjének neve, beosztása.
+
 1.3. Az adatszolgáltatásért felelős személyre vonatkozó adatok:
 
 a) név;
@@ -36,9 +38,9 @@ b) beosztás;
 
 c) elérhetőségek.
 
-1.4.[^70] Nyilatkozat
+1.4.[^103] Nyilatkozat
 
-2.[^71] A hulladék gyűjtésének, kereskedelmének, előkezelésének bejelentéséhez szükséges adattartalom:
+2.[^104] A hulladék gyűjtésének, kereskedelmének, előkezelésének bejelentéséhez szükséges adattartalom:
 
 2.1. A hulladékra vonatkozó adatok:
 
@@ -50,7 +52,7 @@ c) a fizikai megjelenési forma;
 
 d) a hulladék legfontosabb veszélyességi jellemzői;
 
-e) a bejelentési időszak elején és végén a telephelyen lévő tényleges hulladék mennyisége.
+e)[^105] a bejelentési időszak elején és végén a telephelyen lévő tényleges hulladék mennyisége, készletkorrekció (a bejelentési időszakban bekövetkezett készlethiányt vagy többletet lehet megadni).
 
 2.2. A gyűjtött, a kereskedelemre, illetve az előkezelésre átvett hulladékra vonatkozó adatok:
 
@@ -58,17 +60,19 @@ a) az adott tevékenységre feljogosító határozat száma;
 
 b) a település KSH statisztikai számjele, ahonnan a hulladék származik;
 
-c) az országjel;
+c)[^106] az országjel, külföldi átadó neve, címe;
 
 d) az átadó KÜJ-, illetve KTJ-azonosítója;
 
-e) az átadó neve;
+e)[^107] az átadó teljes neve;
 
 f) a hulladék eredete (milyen típusú az átadó);
 
 g) átvett hulladék mennyisége.
 
-2.3. A telephelyen végzett előkezelésre vonatkozó adatok:
+h)[^108] azonosítási szint (a hulladék átadójának a meghatározásához).
+
+2.3.[^109] A telephelyen belül végzett előkezelésre vonatkozó adatok:
 
 a) az előkezelés végzésére feljogosító határozat száma;
 
@@ -78,29 +82,29 @@ c) az előkezelt hulladék mennyisége;
 
 d) az előkezelés eredményeként fennmaradt másodlagos hulladék mennyisége;
 
-e) a másodlagosan képződött összes hulladék mennyisége.
+e)[^110] a másodlagosan képződött összes hulladék mennyisége (az előkezelés során képződő, a kezelt hulladéktól eltérő azonosító kódú – vagy ugyanazon azonosító kódhoz tartozó, de más fizikai megjelenési formájú – hulladék típusa és mennyisége).
 
 2.4. Az átvett, előkezelt hulladék átadására vonatkozó adatok:
 
-a) a kezelési kód;
+a)[^111]
 
-b) az országjel;
+b)[^112] az országjel, külföldi átvevő neve, címe;
 
 c) az átvételt végző KÜJ-, illetve KTJ-azonosítója;
 
-d) az átvételt végző neve;
+d)[^113] az átvételt végző teljes neve;
 
 e) az átvételt végző típusa (a jellemző hulladékgazdálkodási tevékenység megjelölése);
 
 f) a kezelés céljából átadott hulladék mennyisége.
 
-3.[^72] A hulladék hasznosításának, ártalmatlanításának bejelentéséhez szükséges adattartalom:
+3.[^114] A hulladék hasznosításának, ártalmatlanításának bejelentéséhez szükséges adattartalom:
 
 3.1. A hulladékra vonatkozó adatok:
 
 a) kezelési kód;
 
-b)[^73]
+b)[^115]
 
 c) hulladékjegyzék szerinti azonosító kód;
 
@@ -110,13 +114,17 @@ e) a fizikai megjelenési forma;
 
 f) a hulladék legfontosabb veszélyességi jellemzői;
 
-g)[^74] a bejelentési időszak elején a telephelyen lévő tényleges hulladék mennyisége (Nyitó);
+g)[^116] a bejelentési időszak elején a telephelyen lévő tényleges hulladék mennyisége (Nyitó);
 
 h) a kezelt hulladék mennyisége összesen;
 
 i) annak rögzítése, hogy képződött-e másodlagos hulladék;
 
-j)[^75] bejelentési időszak végén a telephelyen lévő tényleges hulladék mennyisége (Záró).
+j)[^117] bejelentési időszak végén a telephelyen lévő tényleges hulladék mennyisége (Záró).
+
+k)[^118] készletkorrekció (az év közben bekövetkezett készlethiányt vagy többletet lehet megadni);
+
+l)[^119] hulladék vége státusz (a hulladék hasznosítása során képződött, a Ht. 9. §-a szerinti hulladék vége státusszal rendelkező anyagok összes mennyisége).
 
 3.2. A kezelésre átvett hulladékra vonatkozó adatok
 
@@ -124,21 +132,38 @@ a) a tevékenységet engedélyező határozat száma;
 
 b) a település KSH statisztikai számjele, ahonnan a hulladék származik;
 
-c) az országjel;
+c)[^120] az országjel, külföldi átadó neve, címe;
 
 d) az átadó KÜJ-, illetve KTJ-azonosítója;
 
-e) az átadó neve;
+e)[^121] az átadó teljes neve;
 
 f) a hulladék eredete szerinti besorolása;
 
 g) a kezelés céljából átvett hulladék mennyisége.
 
-[^68]: A 4. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^69]: A 4. melléklet 1. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^70]: A 4. melléklet 1. pont 1.4. alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^71]: A 4. melléklet 2. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
-[^72]: A 4. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
-[^73]: A 4. melléklet 3.1. pont b) alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.
-[^74]: A 4. melléklet 3.1. pont g) alpontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
-[^75]: A 4. melléklet 3.1. pont j) alpontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+h)[^122] azonosítási szint (a hulladék átadójának meghatározásához).
+
+[^100]: A 4. melléklet címe a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 700/2021. (XII. 13.) Korm. rendelet 4. § j) pontja és 5. § b) pontja szerint módosított szöveg.
+[^101]: A 4. melléklet 1. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^102]: A 4. melléklet 1.2. pont f) alpontját a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^103]: A 4. melléklet 1. pont 1.4. alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^104]: A 4. melléklet 2. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^105]: A 4. melléklet 2.1. pont e) alpontja a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^106]: A 4. melléklet 2.2. pont c) alpontja a 700/2021. (XII. 13.) Korm. rendelet 4. § k) pontjával megállapított szöveg.
+[^107]: A 4. melléklet 2.2. pont e) alpontja a 700/2021. (XII. 13.) Korm. rendelet 4. § l) pontjával megállapított szöveg.
+[^108]: A 4. melléklet 2.2. pont h) alpontját a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^109]: A 4. melléklet 2.3. pont nyitó szövegrésze a 700/2021. (XII. 13.) Korm. rendelet 4. § m) pontja szerint módosított szöveg.
+[^110]: A 4. melléklet 2.3. pont e) alpontja a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^111]: A 4. melléklet 2.4. pont a) alpontját a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^112]: A 4. melléklet 2.4. pont b) alpontja a 700/2021. (XII. 13.) Korm. rendelet 4. § f) pontjával megállapított szöveg.
+[^113]: A 4. melléklet 2.4. pont d) pontja a 700/2021. (XII. 13.) Korm. rendelet 4. § n) pontjával megállapított szöveg.
+[^114]: A 4. melléklet 3. pontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^115]: A 4. melléklet 3.1. pont b) alpontját a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése hatályon kívül helyezte.
+[^116]: A 4. melléklet 3.1. pont g) alpontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^117]: A 4. melléklet 3.1. pont j) alpontja a 323/2019. (XII. 19.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg.
+[^118]: A 4. melléklet 3.1. pont k) alpontját a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^119]: A 4. melléklet 3.1. pont l) alpontját a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdése iktatta be.
+[^120]: A 4. melléklet 3.2. pont c) alpontja a 700/2021. (XII. 13.) Korm. rendelet 4. § k) pontjával megállapított szöveg.
+[^121]: A 4. melléklet 3.2. pont e) alpontja a 700/2021. (XII. 13.) Korm. rendelet 4. § l) pontjával megállapított szöveg.
+[^122]: A 4. melléklet 3.2. pont h) alpontját a 700/2021. (XII. 13.) Korm. rendelet 3. § (4) bekezdése iktatta be.

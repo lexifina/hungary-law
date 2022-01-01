@@ -1,4 +1,4 @@
-4/A. §[^14] (1) A Ht. 14. § (1) bekezdés c) pontja szerinti hulladékszállítás esetén a hulladéktermelő bizonylatot állít ki, mely tartalmazza a szállítás időpontját, a hulladék keletkezésének helyét (településnév, településkód), a hulladék típusának megnevezését, azonosító kódját, mennyiségét és halmazállapotát.
+4/A. §[^14] (1)[^15] A Ht. 14. § (1) bekezdés c) pontja szerinti hulladékszállítás esetén a hulladéktermelő bizonylatot állít ki, mely tartalmazza a szállítás időpontját, a hulladék képződésének helyét (településnév, településkód), a hulladék típusának megnevezését, azonosító kódját, mennyiségét és halmazállapotát.
 
 (2) Az (1) bekezdés szerinti bizonylat eredeti példánya az átszállítás telephelyének nyilvántartásához, másolati példánya a képződés szerinti telephely nyilvántartásához tartozik. A bizonylatról nem kell másolati példányt kiállítani, amennyiben a hulladék képződését eredményező munkavégzés helyén a termelőnek nem kell nyilvántartást vezetnie.
 
@@ -9,3 +9,4 @@ a) a termelő telephelye,
 b) amennyiben a hulladék képződését eredményező munkavégzés helyén a termelőnek nem kell nyilvántartást vezetnie és a termelőnek több telephelye van, akkor a munkavégzéshez legközelebbi telephelye
 
 [^14]: A 4/A. §-t a 196/2016. (VII. 13.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^15]: A 4/A. § (1) bekezdlése a 700/2021. (XII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
