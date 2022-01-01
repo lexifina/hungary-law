@@ -2,4 +2,4 @@
 
 ## AZ ÖSSZEVONT ADÓALAP ADÓJÁNAK MEGHATÁROZÁSA
 
-30. §
+### 30. §

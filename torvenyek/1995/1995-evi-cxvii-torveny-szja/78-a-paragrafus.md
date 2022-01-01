@@ -1,3 +1,3 @@
 ## Nyilatkozatok
 
-78/A. §
+### 78/A. §

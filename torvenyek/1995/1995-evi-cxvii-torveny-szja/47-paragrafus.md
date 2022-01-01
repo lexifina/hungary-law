@@ -42,6 +42,8 @@ db) a da) pont szerinti adóelőleg alapja és a méhészeti termékek (1. szám
 
 ha azonban a da) pont esetén az adóelőleg-alap az ott meghatározott értékhatárt meghaladta, az adóelőleget a b) pont szerint kell fizetni.
 
-(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 87 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
+(4a) Az átalányadózó egyéni vállalkozó vállalkozói bevétele alapján nem állapít meg adóelőleget addig, amíg az adóelőleg alapja az adóévben az adóév elejétől összesítve az éves minimálbér felét nem haladja meg. Ha az adóelőleg-alap az éves minimálbér felét meghaladja, adóelőleget csak az éves minimálbér felét meghaladó adóelőleg-alap után kell fizetni.
+
+(5) A (2) bekezdés alkalmazásában az adóelőleg-alap számításnál figyelembe vett jövedelemnek a bevételből a bekezdés rendelkezése szerint megállapított rész 89 százaléka minősül, ha a jövedelem után a magánszemély kötelezett a szociális hozzájárulási adó megfizetésére (kivéve, ha az költségként elszámolható, vagy azt számára megtérítették).
 
 (6)–(9)

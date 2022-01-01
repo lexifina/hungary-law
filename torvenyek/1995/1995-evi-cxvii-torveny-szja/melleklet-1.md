@@ -358,6 +358,8 @@ azzal, hogy amennyiben az őstermelői bevétel az adóévben az átalányadóz�
 
 4.47. a súlyosan hátrányos helyzetű munkavállalókat a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján megillető munkavállalást ösztönző juttatás a kifizetés időpontjától függetlenül.
 
+4.48. az átalányadózást alkalmazó egyéni vállalkozó e tevékenységéből származó jövedelmének az éves minimálbér felét meg nem haladó rész;
+
 4.49. a magánszemély által nem egyéni vállalkozói tevékenység keretében a villamos energiáról szóló törvény szerinti
 
 a) aktív felhasználóként,
@@ -707,6 +709,8 @@ az adóévben legfeljebb – az a) és b) pont szerinti juttatási körben kül�
 8.42. az Európai Unió valamely pénzügyi alapja vagy az államháztartás valamely alrendszerének költségvetése terhére elnyert támogatásból a Családbarát Ország projekt keretében nem pénzben biztosított juttatás, így különösen a babacsomag, a kelengyecsomag.
 
 8.43. a hallgatók, diákok, oktatók széles köre számára köznevelési intézmény, szakképző intézmény vagy felsőoktatási intézmény által működési körében meghirdetett rendezvény – ideértve a közösségépítő, hagyományőrző rendezvényeket is – keretében nyújtott szolgáltatás, továbbá a rendezvény összes költségének 10 százalékát meg nem haladó mértékben biztosított vendéglátás, a juttatás időpontjától függetlenül, akkor is, ha a rendezvényen a tanulókon, hallgatókon, tanárokon, oktatókon kívül más személy is részt vehet.
+
+8.44. kifizető által biztosított – kizárólag emberi erővel hajtott vagy legfeljebb 300 W teljesítményű elektromos motorral segített – kerékpár magáncélú használata.
 
 9. Adómentességre vonatkozó vegyes rendelkezések:
 
