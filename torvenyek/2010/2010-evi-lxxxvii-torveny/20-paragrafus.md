@@ -10,6 +10,8 @@ d) olyan közérdekű vagyonkezelő alapítvánnyal, amelynek elsődleges felada
 
 e) felsőoktatási intézménnyel az alapító okiratában vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatát szolgáló földrészletre.
 
+f) a Tokaji Életpálya Program megvalósítására a Kormány által egyedi határozatban kijelölt szervezettel az ott megjelölt földrészletre.
+
 (2) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület vagyonkezelését csak költségvetési szerv vagy 100%-os állami tulajdonban álló gazdálkodó szervezet végezheti.
 
 (2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény is végezheti.
@@ -34,6 +36,6 @@ e) a 21. § (3d) bekezdésében meghatározott intézménnyel, az ott meghatáro
 
 (6) A szerződésen alapuló vagyonkezelői jog az ingatlan-nyilvántartásba való bejegyzéssel jön létre, a vagyonkezelőt azonban a szerződés megkötésének időpontjától kezdve megilletik a vagyonkezelő jogai és terhelik kötelezettségei.
 
-(7) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet érintő vagyonkezelési szerződés létrejöttéhez az erdészeti hatóságnak – a vagyonkezelő erdőgazdálkodói alkalmasságát megállapító – jóváhagyása szükséges. A vagyonkezelő – a honvédelmi rendeltetésű erdők kivételével – az erdő használatát, hasznosítását harmadik személynek nem engedheti át. A honvédelmi rendeltetésű erdőt a vagyonkezelő a (2) bekezdésben meghatározott szerv vagy gazdálkodó szervezet részére használatába adhatja.
+(7) Az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületet érintő vagyonkezelési szerződés létrejöttéhez az erdészeti hatóságnak – a vagyonkezelő erdőgazdálkodói alkalmasságát megállapító – jóváhagyása szükséges, kivéve, ha a vagyonkezelő a miniszter tulajdonosi joggyakorlása alá tartozó, erdőgazdálkodási feladatok ellátására létrehozott, 100%-os állami tulajdonú társaság. A vagyonkezelő – a honvédelmi rendeltetésű erdők kivételével – az erdő használatát, hasznosítását harmadik személynek nem engedheti át. A honvédelmi rendeltetésű erdőt a vagyonkezelő a (2) bekezdésben meghatározott szerv vagy gazdálkodó szervezet részére használatába adhatja.
 
 (8)

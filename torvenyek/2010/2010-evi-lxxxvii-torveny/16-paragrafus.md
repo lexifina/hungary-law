@@ -12,4 +12,10 @@
 
 (6a) Ha a (6) bekezdés szerinti felszámolási eljárás során a 3. § (3) bekezdésében meghatározott ingatlan kerül állami tulajdonba, az ingatlannak csak az 1. § (1) bekezdésben foglalt területe kerül a Nemzeti Földalapba, és az NFK az erre a területre eső összeget fizeti meg a társadalombiztosítás pénzügyi alapjai részére a (6) bekezdésben foglaltak szerint.
 
-(7) Ha e törvény hatálya alá tartozó földrészlet felett az állam, mint törvényes örökös, vagy végintézkedés alapján tulajdonjogot szerez, az MNV Zrt. a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül a földrészletet átadja az NFK-nak.
+(7) Ha e törvény hatálya alá tartozó földrészlet felett az állam
+
+a) mint törvényes örökös szerez tulajdonjogot, akkor az MVH,
+
+b) végintézkedés alapján szerez tulajdonjogot, akkor az MNV Zrt.
+
+a hagyatékátadó végzés (öröklési bizonyítvány) jogerőre emelkedését követő 30 napon belül a földrészlet adatait a Vtv. 42/D. § (1) bekezdése szerinti átadási felületre feltölti és az átadási felületen keresztül átadja az NFK-nak. A számviteli rendezést az érintett ingatlan adatainak az átadási felületen történő feltöltése szolgálja, külön megállapodás, jegyzőkönyv felvétele nélkül.

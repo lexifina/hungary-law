@@ -12,6 +12,8 @@ ba) temető létesítése és bővítése céljából,
 
 bb) abban az esetben, ha az 5 hektárt meg nem haladó méretű földrészlet a kérelem benyújtását megelőző 3 évben hasznosítatlan vagy kizárólag megbízási szerződéssel hasznosított volt.
 
+bc) törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban foglalt feladatai elősegítése, továbbá a kisajátításról szóló törvényben megjelölt, a kisajátítást megalapozó közérdekű cél megvalósítása érdekében.
+
 (1a) Az önkormányzat a vagyonkezelői jogot nem adhatja tovább.
 
 (2) A vagyonkezelésbe vagy temető céljára a tulajdonba adás feltétele – a szociális földprogram, valamint közfoglalkoztatási program megvalósítása céljára vagyonkezelésbe adás, továbbá azon esetek kivételével, amikor a közérdekű cél megvalósításához a földrészlet mező- vagy erdőgazdasági művelésben tartása szükséges – az ingatlanügyi hatóság által a termőföld más célú hasznosításának, vagy erdő művelési ágú földrészlet esetén az erdészeti hatóság által erdő igénybevételének engedélyezéséről hozott véglegessé vált határozat.

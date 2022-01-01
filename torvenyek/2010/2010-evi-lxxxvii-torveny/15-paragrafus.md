@@ -48,7 +48,7 @@ t) a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint
 
 u) a világörökségi helyszín kiemelkedő egyetemes értékekkel összefüggő oltalmának biztosítása.
 
-(4) A földrészletre vonatkozó szabályokat kell alkalmazni a mezőgazdasági termelés célját szolgáló földre, ha
+(4) A Nemzeti Földalapba kerül a mezőgazdasági termelés célját szolgáló föld, ha
 
 a) az örökség visszautasítása útján szállt a Magyar Államra, vagy
 

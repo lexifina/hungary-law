@@ -22,4 +22,4 @@ c) gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan m
 
 (8)
 
-(9) Az NFK alapító okiratát, és a szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
+(9) Az NFK szervezeti és működési szabályzatát a miniszter a Magyar Közlönyben teszi közzé.
