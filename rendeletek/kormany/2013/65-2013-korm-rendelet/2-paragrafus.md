@@ -16,17 +16,23 @@ e)[^7] az üzemeltető neve, székhelye, levelezési címe, cégjegyzékszáma, 
 
 f)[^8] a nemzeti létfontosságú rendszerelemek, szolgáltatások megnevezése és címe, valamint azon európai létfontosságú rendszerelemek, szolgáltatások megnevezése és címe, amelyek esetében Magyarország érintett fél.
 
+(2a)[^9] A hivatásos katasztrófavédelmi szerv nyilvántartásában lévő üzemeltető a biztonsági összekötő személy adatközlő lapját, az alkalmasság feltételeinek való megfelelést igazoló dokumentumokat az Integrált Hatósági Rendszeren (a továbbiakban: IHR) keresztül nyújtja be a hivatásos katasztrófavédelmi szerv központi, illetve a rendkívüli esemény bejelentő lapot a területi szerve részére.
+
+(2b)[^10] Az ágazaton belüli honvédelmi létfontosságú rendszerelemre készített azonosítási jelentés a (2) bekezdés a) pontja szerinti, elhelyezkedés beazonosíthatóságát biztosító helyadatokat, illetve a (2) bekezdés f) pontja szerinti címet nem tartalmazza.
+
+(2c)[^11] Amennyiben a (2a) bekezdésben meghatározott adat a minősített adat védelméről szóló 2009. évi CLV. törvény hatálya alá tartozó adat, az IHR-be az érintett dokumentum helyett egy jegyzőkönyv kerül feltöltésre, amely tartalmazza a dokumentum nevét, a kiadmányozás időpontját, a kiadmányozó nevét, a minősítő nevét és beosztását, a minősítési szintet és az érvényességi időt.
+
 (3) Ha az üzemeltető az azonosítási jelentés elkészítésére és benyújtására vonatkozó kötelezettségének nem tesz eleget, a Kormány által rendeletben kijelölt, ágazati felelősséggel rendelkező kijelölő hatóság (a továbbiakban: kijelölő hatóság) határidő tűzésével felszólítja az üzemeltetőt az azonosítási jelentés elkészítésére és benyújtására.
 
 (4) Ha az üzemeltető a kijelölő hatóságnak a (3) bekezdés szerinti felszólítására egyetlen rendszerelemet sem azonosított lehetséges létfontosságú rendszerelemként, ebben az esetben is be kell nyújtani az azonosítási jelentést, melynek tartalmára a (2) bekezdésben foglaltakat megfelelően alkalmazni kell.
 
 (5) A Kormány által rendeletben kijelölt ágazati javaslattevő hatóság (a továbbiakban: javaslattevő hatóság) részére a kijelölő hatóság köteles megküldeni véleményezés céljából az azonosítási jelentést. A javaslattevő hatóság az azonosítási jelentés beérkezésétől számított 30 napon belül megvizsgálja az azonosítási jelentést, és a kockázatelemzéssel kapcsolatos javaslatait megküldi a kijelölő hatóságnak.
 
-(6)[^9] A javaslattevő hatóság kezdeményezheti, hogy a kijelölő hatóság döntsön az üzemeltető (3) bekezdés szerinti kötelezéséről.
+(6)[^12] A javaslattevő hatóság kezdeményezheti, hogy a kijelölő hatóság döntsön az üzemeltető (3) bekezdés szerinti kötelezéséről.
 
 (7) Az üzemeltető 8 napon belül írásban értesíti a kijelölő hatóságot a tevékenységében bekövetkezett minden olyan változásról, amely érinti a létfontosságú rendszerelem azonosítását.
 
-(8)[^10] A kijelölt létfontosságú rendszerelem üzemeltetője a nemzeti létfontosságú rendszerelemmé történő kijelölést követően köteles új azonosítási jelentés készíteni, amelyet az előző azonosítási jelentés kijelölő hatósághoz történő benyújtásától számított 5 év elteltével, az azt követő 15 napon belül kell benyújtania a kijelölő hatóságnak.
+(8)[^13] A kijelölt létfontosságú rendszerelem üzemeltetője a nemzeti létfontosságú rendszerelemmé történő kijelölést követően köteles új azonosítási jelentés készíteni, amelyet az előző azonosítási jelentés kijelölő hatósághoz történő benyújtásától számított 5 év elteltével, az azt követő 15 napon belül kell benyújtania a kijelölő hatóságnak.
 
 [^2]: A 2. alcím címe a 375/2020. (VII. 30.) Korm. rendelet 52. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
@@ -35,5 +41,8 @@ f)[^8] a nemzeti létfontosságú rendszerelemek, szolgáltatások megnevezése 
 [^6]: A 2. § (2) bekezdés d) pontját a 394/2017. (XII. 13.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdés e) pontját a 375/2020. (VII. 30.) Korm. rendelet 38. § (1) bekezdése iktatta be.
 [^8]: A 2. § (2) bekezdés f) pontját a 375/2020. (VII. 30.) Korm. rendelet 38. § (1) bekezdése iktatta be.
-[^9]: A 2. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 194. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^10]: A 2. § (8) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § (2a) bekezdését a 375/221. (VI. 30.) Korm. rendelet 18. § (4) bekezdése iktatta be.
+[^10]: A 2. § (2b) bekezdését a 375/221. (VI. 30.) Korm. rendelet 18. § (4) bekezdése iktatta be.
+[^11]: A 2. § (2c) bekezdését a 375/221. (VI. 30.) Korm. rendelet 18. § (4) bekezdése iktatta be.
+[^12]: A 2. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 194. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^13]: A 2. § (8) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 38. § (2) bekezdésével megállapított szöveg.
