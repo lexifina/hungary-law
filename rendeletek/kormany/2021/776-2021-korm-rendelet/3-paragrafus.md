@@ -1,0 +1,1 @@
+## „(4a) A KNEB nyilatkozatát a bejelentő a (4) bekezdés a)–e) pontja szerinti bejelentés tervezetének és az (5) bekezdés szerinti dokumentációnak egyidejű megküldésével kérelmezi, a Kötv. 61/J. §-ában foglalt követelmények szerint.”
