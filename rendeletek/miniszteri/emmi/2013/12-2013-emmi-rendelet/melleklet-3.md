@@ -16,6 +16,6 @@
 
 | 7 | Igazolás nyilvántartásban szereplő adatról | 3 000 Ft |
 
-3. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^15]
+3. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^16]
 
-[^15]: A 3. mellékletet a 10/2014. (II. 24.) EMMI rendelet 3. §-a iktatta be.
+[^16]: A 3. mellékletet a 10/2014. (II. 24.) EMMI rendelet 3. §-a iktatta be.

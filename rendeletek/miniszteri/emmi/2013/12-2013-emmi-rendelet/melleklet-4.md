@@ -6,6 +6,6 @@
 
 ## ”
 
-4. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^16]
+4. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^17]
 
-[^16]: A 4. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 2. §-a iktatta be.
+[^17]: A 4. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 2. §-a iktatta be, szövege a 64/2021. (XII. 29.) ITM rendelet 11. §-a szerint módosított szöveg.
