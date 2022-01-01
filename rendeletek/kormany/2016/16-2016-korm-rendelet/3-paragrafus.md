@@ -98,7 +98,7 @@ ad) közműves szennyvízelvezetéssel rendelkezik, vagy ha nincs a települése
 
 ae) közműves ivóvíz-szolgáltatással rendelkezik, vagy ha a településen (településrészen) nincs közműves vízszolgáltatás, a telken ivóvíz minőségű vizet szolgáltató kút van; vagy
 
-b)[^17] tetőtér beépítéssel vagy emelet-ráépítéssel létrehozott lakás akkor, ha a tetőtér beépítés vagy emelet-ráépítés révén új, önálló társasházi tulajdoni különlapon nyilvántartott vagy több lakásból álló osztatlan közös tulajdon esetén a 20. § (2) bekezdése szerinti kizárólagos használati joggal érintett, lépcsőházból vagy szabadlépcsőn megközelíthető, külön bejárattal rendelkező, az a) pont aa)–ae) alpontja szerinti feltételnek megfelelő újabb lakás jön létre;
+b)[^17] tetőtér beépítéssel vagy emelet-ráépítéssel létrehozott lakás akkor, ha a tetőtér beépítés – ideértve azt az esetet is, ha az az építmény térfogatnövelésével nem jár – vagy emelet-ráépítés révén új, önálló társasházi tulajdoni különlapon nyilvántartott vagy több lakásból álló osztatlan közös tulajdon esetén a 20. § (2) bekezdése szerinti kizárólagos használati joggal érintett, lépcsőházból vagy szabadlépcsőn megközelíthető, külön bejárattal rendelkező, az a) pont aa)–ae) alpontja szerinti feltételnek megfelelő újabb lakás jön létre;
 
 10.[^18] egylakásos lakóépület: a tulajdoni formájától függetlenül olyan
 
@@ -116,5 +116,5 @@ b) ikerház, sorház vagy láncház, amelyben a családi otthonteremtési kedvez
 [^14]: A 3. § (1) bekezdés 5. pont nyitó szövegrésze a 26/2018. (II. 28.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
 [^15]: A 3. § (1) bekezdés 8. pontja a 686/2020. (XII. 29.) Korm. rendelet 18. § a) pont ac) alpontja szerint módosított szöveg.
 [^16]: A 3. § (1) bekezdés 9. pont a) alpontja a 46/2019. (III. 12.) Korm. rendelet – 109/2019. (V. 13.) Korm. rendelet 6. § a) pontja, és a 152/2019. (VI. 26.) Korm. rendelet 21. §-a szerint módosított – 1. §-ával megállapított, a 252/2020. (V. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^17]: A 3. § (1) bekezdés 9. pont b) alpontja a 686/2020. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^17]: A 3. § (1) bekezdés 9. pont b) alpontja a 686/2020. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 786/2021. (XII. 27.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^18]: A 3. § (1) bekezdés 10. pontját a 26/2018. (II. 28.) Korm. rendelet 2. §-a iktatta be.

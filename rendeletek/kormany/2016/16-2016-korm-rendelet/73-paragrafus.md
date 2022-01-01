@@ -4,13 +4,13 @@ a) az egy évnél hosszabb időszakra állandó kamatozású kölcsön esetén a
 
 b) az ÁKK Zrt. által havi rendszerességgel közzétett, az elsődleges forgalmazók árjegyzési kötelezettsége alapján kereskedési naponként számított és közzétett referenciahozamoknak a közzétételt megelőző három naptári hónapra vonatkozó számtani átlaga 130 százalékának 3 százalékponttal növelt mértékét, amennyiben az érintett futamidőre az a) pontban meghatározott módszer alapján átlaghozam nem számítható.
 
-c)[^235] a 72. § (2) bekezdés b) pontja szerinti kölcsön esetében a 2,5%-ot.
+c)[^239] a 72. § (2) bekezdés b) pontja szerinti kölcsön esetében a 2,5%-ot.
 
 (2) Az (1) bekezdésben meghatározott kamatmértéket a kölcsön kamatainak szerződésben rögzített kamatperiódus fordulónapján kell alkalmazni.
 
 (3) Az (1) bekezdés szerinti – a betéti kamat és az értékpapírok hozama számításáról és közzétételéről szóló kormányrendeletnek megfelelően számított – állampapír átlaghozamot, valamint az (1) bekezdés b) pontja szerint számított referenciahozamot az ÁKK Zrt. az internetes honlapján minden naptári hónap harmadik munkanapjáig közzéteszi. Az e bekezdés szerinti állampapírhozamok vagy referenciahozamok alapján megállapított, az (1) bekezdés szerinti ügyleti kamatot a közzététel naptári hónapját követő hónaptól kell alkalmazni.
 
-(4)[^236] A támogatott személy a támogatás időszakában
+(4)[^240] A támogatott személy a támogatás időszakában
 
 a) az e rendeletben meghatározott mértékű otthonteremtési kamattámogatással csökkentett mértékű ügyleti kamatot fizet,
 
@@ -44,7 +44,7 @@ ba) ugyanazzal a kamatperiódussal és kamatfelár-periódussal, vagy
 
 bb) azzal, hogy ha a kamattámogatási időszakhoz képest eltérő kamatperiódusra vagy kamatfelár-periódusra tér át, a kamat megállapításához a kamatperiódus hosszához igazodó referenciahozamot vesz figyelembe.
 
-(13)[^237] A 72. § (2) bekezdés b) pontja szerinti kölcsön esetében a hitelintézet a kölcsönszerződés szerinti kamatot
+(13)[^241] A 72. § (2) bekezdés b) pontja szerinti kölcsön esetében a hitelintézet a kölcsönszerződés szerinti kamatot
 
 a) a kamattámogatásnak az e fejezet szerinti feltételekkel összefüggő megszűnése esetén az (1) bekezdés c) pontja szerinti mérték,
 
@@ -52,6 +52,6 @@ b) a 72. § (2) bekezdés b) pontja szerinti kölcsön feltételeinek való meg 
 
 c) az a) és a b) pontban említett feltételek együttes bekövetkezése esetén a (12) bekezdésben foglaltak
 
-[^235]: A 73. § (1) bekezdés c) pontját az 541/2021. (IX. 24.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^236]: A 73. § (4) bekezdése az 541/2021. (IX. 24.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^237]: A 73. § (13) bekezdését az 541/2021. (IX. 24.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^239]: A 73. § (1) bekezdés c) pontját az 541/2021. (IX. 24.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^240]: A 73. § (4) bekezdése az 541/2021. (IX. 24.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^241]: A 73. § (13) bekezdését az 541/2021. (IX. 24.) Korm. rendelet 3. § (3) bekezdése iktatta be.

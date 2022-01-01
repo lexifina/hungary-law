@@ -38,7 +38,7 @@ c)[^32] a csekély összegű (de minimis) támogatásokra irányadó feltételek
 
 (6)[^36] A közös háztartásban élést, valamint élettársak esetén ennek időtartamát büntetőjogi felelősség vállalásával tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozattal kell igazolni.
 
-(7)[^37] Arról, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személynek az ingatlan-nyilvántartásban nyilvántartott kizárólagos használati joga áll fenn, a támogatott személy büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik.
+(7)[^37] Arról, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személynek kizárólagos használati joga áll fenn, a támogatott személy büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik.
 
 (8)[^38] A családi otthonteremtési kedvezmény iránti kérelemben az igénylő teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik arról, ha az állam javára bejegyzett elidegenítési és terhelési tilalom fennállása alatt a kedvezményből vásárolt vagy épített új lakást
 
@@ -76,7 +76,7 @@ c) az (1) bekezdés c) pontját, a (9) bekezdést, a 12. § (2c) bekezdését, a
 [^34]: A 13. § (4) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
 [^35]: A 13. § (5) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
 [^36]: A 13. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
-[^37]: A 13. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be.
+[^37]: A 13. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 786/2021. (XII. 27.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^38]: A 13. § (8) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^39]: A 13. § (9) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^40]: A 13. § (10) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 1. §-a iktatta be.
