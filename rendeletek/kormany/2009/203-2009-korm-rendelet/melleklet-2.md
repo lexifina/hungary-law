@@ -1,364 +1,528 @@
-## Munkaköri csoportok
-
-## I. munkaköri csoport
+## Vasúti közlekedési biztonságával összefüggő munkakörök
 
 ## A) Országos, térségi, saját célú vasúti pályahálózat és iparvágány
 
-| Munkakörök | Feladatkörök |
+|  | A | B |
 
-| Gurításvezető | Tolatási műveletek szervezése, helyszínen történő irányítása és ellenőrzése. A tolatásvezető a tolatás vezetése mellett a kocsirendezői teendőkkel is megbízható. A gurítási technológia irányítása, a gurítás vezetése (létesített berendezésekkel és jelzőkkel). |
+| 1. | Gurításvezető | Tolatási műveletek szervezése, helyszínen történő irányítása és ellenőrzése. |
 
-| Tolatásvezető |
+| 2. | Tolatásvezető | A tolatásvezető a tolatás vezetése mellett a kocsirendezői teendőkkel is megbízható. |
 
-| Kocsimester (forgalmi) |
+| 3. | Kocsimester (forgalmi) | A gurítási technológia irányítása, a gurítás vezetése (létesített berendezésekkel és jelzőkkel). |
 
-| Kocsirendező | A tolatásvezető irányítása alatt a tolatásban (gurításban) részt vevő, kocsirendezői feladatok (járműkapcsoló-, mozgató-, megállító, stb.) ellátása. |
+| 4. | Kocsirendező | A tolatásvezető irányítása alatt a tolatásban (gurításban) részt vevő, kocsirendezői feladatok (járműkapcsoló-, mozgató-, megállító stb.) ellátása. |
 
-| Saruzó |
+| 5. | Saruzó |
 
-| Vonali tolatásvezető | A saját célú vasúti pályahálózaton és a csomóponti kiszolgálást végző vonatoknál, továbbá a munkavonatoknál a vonatok közlekedése során forgalmi tevékenység végzése. A szükségessé váló tolatási mozgások lebonyolítása során a tolatásvezetői teendők ellátása. |
+| 6. | Vonali tolatásvezető | A saját célú vasúti pályahálózaton és a csomóponti kiszolgálást végző vonatoknál, továbbá a munkavonatoknál a vonatok közlekedése során forgalmi tevékenység végzése. A szükségessé váló tolatási mozgások lebonyolítása során a tolatásvezetői teendők ellátása. |
 
-| Vonali kocsirendező | Nem személyszállító vonatnál – a kocsirendezői feladatokon túl – szükség esetén tolatás közben fék-kezelése, figyelő szolgálat és fedezési feladatok végzése. |
+| 7. | Vonali kocsirendező | Nem személyszállító vonatnál – a kocsirendezői feladatokon túl – szükség esetén tolatás közben fék-kezelése, figyelő szolgálat és fedezési feladatok végzése. |
 
-| Vezető váltókezelő, váltókezelő (helyszíni állítású) | A helyszíni állítású váltók állítása, ellenőrzése, őrzése, továbbá a helyi viszonyoktól függően esetleg gondozása, egyes helyeken a helyhez kötött jelzők kezelése, szükség esetén sorompókezelés és a vonatok mozdonyvezetőinek indításra történő felhatalmazása megbízással. |
+| 8. | Vezető váltókezelő, váltókezelő (helyszíni állítású) | A helyszíni állítású váltók állítása, ellenőrzése, őrzése, továbbá a helyi viszonyoktól függően esetleg gondozása, egyes helyeken a helyhez kötött jelzők kezelése, szükség esetén sorompókezelés és a vonatok vasúti jármű vezetőinek indításra történő felhatalmazása megbízással. |
 
-| Mozdonyvezető nyitott vezetőálláson | Az alapvizsgájának megfelelő nyitott vezetőállású járműtípus vezetése. Vonali tolatásvezető vagy vonatkísérő nélküli közlekedés esetében a vonatszemélyzet rendelkezésre jogosult vezetője. |
+| 9. | Felsővezeték szerelő különleges körülmények között (nagy magasságban, 25 KV-os feszültség közelében) | A vasúti felsővezeték műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése különleges munkakörülmények között. |
 
-| Felsővezeték szerelő különleges körülmények között (nagy magasságban, 25 KV-os feszültség közelében) | A vasúti felsővezeték műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése különleges munkakörülmények között. |
+| 10. | Főrendelkező-, rendelkező forgalmi szolgálattevő, forgalmi szolgálattevő | Vonatközlekedés, továbbá a tolatás irányítása állomáson és kijelölt szolgálati helyen. |
+
+| 11. | Külső forgalmi szolgálattevő |
+
+| 12. | Naplózó forgalmi szolgálattevő | Állomásokon vasúti szolgálati okmányok és nyilvántartások vezetése. |
+
+| 13. | Kocsivizsgáló | Az érkező, induló vonatoknál a vasúti kocsik vizsgálata. |
+
+| 14. | Féklakatos | Teherkocsik megrakás előtti és kirakás utáni vizsgálata. Határállomáson a vasúti kocsik átadási, vagy átvételi eljárásban való részvétel. Az induló vonatok fékpróbája, fékberendezéseinek ellenőrzése és biztonságos üzemeltetése. |
+
+| 15. | Kocsiszolgálati művezető | A kocsivizsgálói tevékenység szervezése, irányítása, ellenőrzése. |
+
+| 16. | Térfőnök | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
+
+| 17. | Ügyeletes tiszt (forgalmi) |
+
+| 18. | Hálózati fő-üzemirányító | A vonatközlekedés hálózati, vagy területi lebonyolításának irányítása, felügyelete. Összefogja az operatív vonatforgalmi tervezést, mellyel biztosítja a hálózaton és a területeken történő optimális kapacitás kihasználást, felügyeli a vonatok fontossági sorrendjének betartását. Kapcsolatot tart, információt cserél a szomszédos vasutakkal a határforgalomban közlekedő valamennyi ki- és belépő vonatról. |
+
+| 19. | Területi fő-üzemirányító |
+
+| 20. | Rendkívüli helyzeteket kezelő irányító |
+
+| 21. | Különleges szabályozást igénylő küldemények irányítója |
+
+| 22. | Központi forgalomirányító | A vonatközlekedés tervezése, szabályozása, felügyelete egy vagy több rendelkezési szakaszon. A központi, távkezelt forgalomirányításra berendezett vonalakon a forgalom lebonyolításának irányítása. |
+
+| 23. | Központi forgalom-ellenőrző irányító |
+
+| 24. | Mellékvonali forgalomirányító | Mellékvonali forgalomirányításra berendezett vonalon a vonatközlekedés tervezése, szabályozása, felügyelete egy vagy több rendelkezési szakaszon. |
+
+| 25. | Mellékvonali rádiós forgalomirányító |
+
+| 26. | Térközőr | Nyíltvonali szolgálati helyen közlekedés szabályozásában való részvétel, térközjelző kezelése, elő- és visszajelentés adása, nyugtázása. |
+
+| 27. | Vonatjelentő-őr |
+
+| 28. | Sorompókezelő | Az útátjáró biztosítására szolgáló berendezések kezelése, meghatározott esetekben az útátjáró fedezése. |
+
+| 29. | Jelzőőr |
+
+| 30. | Vezető váltókezelő, váltókezelő, Váltóállító táblakezelő | A központi állítású váltók állítása, ellenőrzése, őrzése, továbbá a helyi viszonyoktól függően esetleg gondozása, egyes helyeken a helyhez kötött jelzők kezelése, szükség esetén sorompókezelés és a vonatok vasúti járművezetőinek indításra történő felhatalmazása megbízással. |
+
+| 31. | Vágányfék-kezelő | Gépesített gurítódomb vágányfékjeinek kezelése a gurításra kerülő egységeknél. |
+
+| 32. | Egyéb vasúti járművezető | Az alapvizsgájának megfelelő (vontatási nem, járműtípus, infrastruktúra), önjáró vasúti (motorkocsi, mozdony, munkagép), valamint közúti-vasúti (kétéltű) járművek vezetése. Feladata a járművezetői teendők elvégzésén kívül azoknál a vonatoknál, amelyek vezető jegyvizsgáló nélkül közlekednek, a vonatkísérői ténykedések elvégzése is. Vonali tolatásvezető vagy vonatkísérő nélküli közlekedés esetén a vonatszemélyzet rendelkezésre jogosult vezetője. |
+
+| 33. | Főpályamester, pályamester | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése az előírásokban az egyes munkakörökre vonatkozó szabályoknak megfelelően, a vasúti forgalom magas műszaki színvonalon történő lebonyolításának biztosítása érdekében. |
+
+| 34. | Technikus |
+
+| 35. | Vasúti munkavezető | A vasúti pályaszakaszon történő munkavégzés (gyalogbejárás) során a vasúti pályán és tartozékain (sín, kapcsolószer, kitérők, vágánykapcsolatok, hegesztések aljak, ágyazat) végzett tevékenységek megfelelő műszaki színvonalon történő elvégeztetése, a hiányosságok feltárása, helyreállítása a zavartalan vasúti forgalom biztosítása érdekében. |
+
+| 36. | Vonalgondozó |
+
+| 37. | Vezető jegyvizsgáló | Személyszállító vonatnál szolgálatot végző valamennyi vonatkísérő forgalmi szempontból rendelkezésre jogosult vezetője. A forgalmi helyzettől függően jogosult és kötelezhető a fékpróba megtartására. Szükség esetén tolatást vezet. Meghatározott esetekben végzi az induló vonatok vasúti járművezetőinek indításra történő felhatalmazását, valamint figyelő szolgálatot lát el. |
+
+| 38. | Szolgáltatás felügyelő, minőségbiztosítási ellenőr, vizsgáló főkalauz, szolgáltatás-ellenőr (személyszállítás) |
+
+| 39. | Külsős mozdonyfelvigyázó | A kijelölt telephelyen a felügyelete alá tartozó vontatási utazószemélyzet irányítása, ellenőrzése, valamint a rendelkezésre álló eszközpark felügyelete a vontatási szolgáltatások biztosítására. Az üzemmenetben bekövetkezett zavar esetén a területére vonatkozóan operatív intézkedések tétele annak érdekében, hogy a vonatközlekedés minél hamarabb tervszerű legyen. |
+
+| 40. | Vontatási (gépészeti) vonalellenőr | Vontatójárművek és vasútijármű vezetők felügyelete vonattovábbítás közben. |
+
+| 41. | Vontatási telepi rendező, vontatási telepi váltókezelő | A vontatási telep járműmozgásának szervezése és irányítása. |
+
+| 42. | Vasúti járműves darukezelő | Vasúti járművek rendkívüli esetben történő mozgatása daruval, vagy hidraulikus emelő berendezés kezelésével. |
+
+| 43. | Vasútüzem vezető | Saját célú vasúti pályahálózaton a vasúti közlekedés szervezése, irányítása. |
+
+| 44. | Vasútszakmai oktató (műszaki-, forgalmi oktató) | A képzőszervezet, vagy vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
+
+| 45. | Forgalmi csomóponti vezető | Állomási technológiák készítése, a közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete |
+
+| 46. | Állomásfőnök I–III. |
+
+| 47. | Forgalmi koordinátor |
+
+| 48. | Forgalmi üzemmérnök |
+
+| 49. | Forgalmi technológus |
+
+| 50. | Átmenesztő | Vonatfel- és átvétel végzése, érkező, továbbá induló vonatok okmányainak elkészítése. |
+
+| 51. | Vonatfel- és átvevő |
+
+| 52. | TEB vezetőmérnök | A vasúti pálya – felsővezeték, biztosítóberendezés, távközlő berendezés – műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések, felső vezetékek felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
+
+| 53. | TEB szakaszmérnök |
+
+| 54. | Technológiai rendszerszakértő |
+
+| 55. | Biztosítóberendezési vonalellenőr |
+
+| 56. | Távközlőmester |
+
+| 57. | Blokkmester |
+
+| 58. | Biztosítóberendezési művezető |
+
+| 59. | Biztosítóberendezési műszerész |
+
+| 60. | Biztosítóberendezési lakatos |
+
+| 61. | Területi biztosítóberendezési diszpécser |
+
+| 62. | Területi távközlő diszpécser |
+
+| 63. | Erősáramú mester |
+
+| 64. | Erősáramú művezető |
+
+| 65. | Elektrikus diszpécser |
+
+| 66. | Felsővezeték-szerelő |
+
+| 67. | Vezetőmérnök (pályás) | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése az előírásokban az egyes munkakörökre vonatkozó szabályoknak megfelelően, a vasúti forgalom magas műszaki színvonalon történő lebonyolításának biztosítása érdekében. |
+
+| 68. | Szakaszmérnök (pályás) |
+
+| 69. | Vonalkezelő |
+
+| 70. | Diszpécser (pályás) |
+
+| 71. | Pályamunkás |
+
+| 72. | Hálózati és területi személyszállítási főirányító | A hálózat vagy annak egy meghatározott területén közlekedő- és a csomópontokon a személyszállító vonatok irányítási felügyelete, és az üzemirányító szolgálattal történő koordinációs feladatok ellátása. |
+
+| 73. | Csomóponti személyszállítási üzemeltetési vezető |
+
+| 74. | Csomóponti személyszállítási technológus |
+
+| 75. | Személyszállítási ügyeletes |
+
+| 76. | Állomáskezelő (személyszállítás) | Megálló-rakodóhelyen, rakodóhelyen szükség esetén forgalmi tevékenység ellátása, a szolgálati hely feladataitól függően. |
+
+| 77. | Jegyvizsgáló | A jegyvizsgáló személyszállító vonaton – a kereskedelmi tevékenységén kívül – szükség esetén fékezési, figyelési és fedezési feladatokat végez. |
+
+| 78. | Árufuvarozási hálózati üzemirányító | Az árutovábbító vasúti társaság igényeinek függvényében dönt, és intézkedik a hálózatot vagy a régiót érintő többlet-tehervonatok bevezetéséről, valamint a közlekedésre bevezetett tehervonatok lemondásáról. Árufuvarozási szempontból jóváhagyja a hatáskörébe tartozó vonatforgalmi tervezést és annak módosítását. Elegytorlódás esetében hálózati, vagy régió szinten prioritási szempontokat határoz meg a tehervonatok továbbításának sorrendjére, a pályavasúttal konzultálva kerülő útirányt jelöl ki. Figyelemmel kíséri a Tehervonati Közlekedési Rend, a szolgáltatások teljesítését. Rendkívüli események bekövetkezése esetén egyeztető és koordinációs tevékenységet végez. Közvetlenül a vasúti közlekedés biztonságával összefüggő rendelkezést pályavasúti dolgozó felé nem ad. |
+
+| 79. | Árufuvarozási regionális üzemirányító |
+
+| 80. | Árufuvarozási főnök | Árufuvarozási feladatköre mellett a felügyelete alá tartozó munkavállalók vasúti közlekedés biztonságával összefüggő feladatainak szervezése, irányítása és ellenőrzése. |
+
+| 81. | Állomási operatív koordinátor (árufuvarozás) | Árufuvarozási feladatköre mellett a rakodóhelyek kiszolgálásával kapcsolatos feladatok ellátása, a pályavasúti és a vontatási munkavállalókkal a vonatok közlekedtetéséhez szükséges tevékenységek koordinálása. |
+
+| 82. | Raktárnok | Árufuvarozási feladatköre mellett a vasúti közlekedés biztonságával összefüggő tevékenység ellátása, a kocsik raksúlyváltójának kezelése, tengelyterhelés ellenőrzése, egyes vasúti vágányokon a vasúti kocsik mozgatásának irányítása, járműmegfutamodás elleni védekezés és kocsik kezelésére vonatkozó bárcák alkalmazása. |
+
+| 83. | Körzeti Jármű-fenntartási Központ (a továbbiakban: KJK) Központvezető | Vontató és vontatott járművek fenntartásának szervezése, irányítása és koordinálása. |
+
+| 84. | KJK vezetőmérnök |
+
+| 85. | Területi Kocsi-vizsgálati-szolgáltatási Központ (a továbbiakban: TKSZK) vezető | Vontatott járművek fenntartásának szervezése, irányítása és koordinálása. |
+
+| 86. | TKSZK vezetőmérnök |
+
+| 87. | Gépészeti diszpécser | Az üzemmenetben bekövetkezett zavar esetében az egész területre vonatkozóan operatív intézkedések tétele annak érdekében, hogy a vonatközlekedés minél hamarabb tervszerű legyen. |
+
+| 88. | Hálózati vontatási főirányító | A hálózat operatív irányítása mozdonyszolgálati ügyekben. A rendkívüli helyzetek elhárításánál közreműködik. Intézkedik a közlekedési zavarok, elegytorlódások feloldásához szükséges gépészeti erőforrások átcsoportosítására, meghatározza a mozdony- és személyzeti fordulóktól való eltérés rendjét. A hatáskörébe tartozó területen operatívan irányítja, a rendelkezésre álló vontatójárműveket és személyzetet. Rendkívüli események bekövetkezésekor a vasúti közlekedés operatív irányítási szervezeteinek bevonásával rendelkezik a mozdony- és személyzetfordulók operatív megváltoztatására, a megfelelő segélynyújtó elhárító egységek riasztására és a pályavasúti üzemirányító szolgálattal együtt biztosítja a helyszínre történő közlekedtetésüket és az érintett vasúti társaság területi vezetőinek értesítését. |
+
+| 89. | Területi vontatási főirányító |
+
+| 90. | Árufuvarozási hálózati vontatási főirányító | Az árutovábbító vasúti társaság igényeinek függvényében, a hálózat és régió operatív irányítása mozdonyszolgálati ügyekben. A rendkívüli helyzetek elhárításánál koordinálja a munkavégzést, együttműködve a vasútvállalatokkal, kárhely parancsnokkal. Intézkedik a közlekedési zavarok, elegytorlódások feloldásához szükséges gépészeti erőforrások átcsoportosítására, meghatározza a mozdony- és személyzeti fordulóktól való eltérés rendjét. A hatáskörébe tartozó területen irányítja, és szükség szerint vezényli a rendelkezésre álló vontatójárműveket és személyzetet. |
+
+| 91. | Árufuvarozási regionális vontatási irányító |
+
+| 92. | Területi Vontatás-szolgáltatási Központ (a továbbiakban: TVSZK) Központvezető | Vontatás-szolgáltatási tevékenység szervezése, irányítása és koordinálása. |
+
+| 93. | Vontatás-szolgáltatási Telephelyvezető |
+
+| 94. | Vontatási vezetőmérnök, vontatási technológus |
+
+| 95. | Mozdonyfelvigyázó | A kijelölt telephelyen a felügyelete alá tartozó vontatási utazószemélyzet irányítása, ellenőrzése, valamint a rendelkezésre álló eszközpark felügyelete a vontatási szolgáltatások biztosítására. Az üzemmenetben bekövetkezett zavar esetében a területére vonatkozóan operatív intézkedések tétele annak érdekében, hogy a vonatközlekedés minél hamarabb tervszerű legyen. |
+
+| 96. | Vontatási reszortos | Vontatójárművek és a vasúti járművezetők felügyelete. |
+
+| 97. | Fordítókorong-kezelő | A fordítókorong üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
+
+| 98. | Tolópad-vezető, kezelő | A tolópad üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
+
+| 99. | Pilóta | Vonal-, vagy állomásismeret alapján, figyelési kötelezettség teljesítése a vontatójármű vezetője mellett. |
+
+| 100. | Vonatkezelő-levelező, kirakó, naplózó | Állomásokon szolgálati okmányokat vezető dolgozó |
 
 ## B) Elővárosi, városi és helyi vasúti pályahálózat
 
-## I. Elővárosi vasúti pályahálózat
+|  | A | B |
 
-| Váltókezelő (helyszíni állítású) | A helyszíni állítású váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával és az egyes állomásokon a helyhez kötött jelzők kezelésével is megbízott dolgozó, tekintet nélkül arra, hogy milyen elnevezésű szolgálati helyen végez szolgálatot. |
+| I. Elővárosi vasúti pályaúthálózat |
 
-| Kocsirendező | A tolatásvezető irányítása alatt – a járművezető kivételével – a tolatásban részt vevő dolgozó. |
+| 1. | Váltókezelő (helyszíni állítású) | A helyszíni állítású váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával és az egyes állomásokon a helyhez kötött jelzők kezelésével is megbízott dolgozó, tekintet nélkül arra, hogy milyen elnevezésű szolgálati helyen végez szolgálatot. |
 
-| Tolatásvezető | A tolatásvezető a tolatási műveletet szervező, helyszínen irányító és ellenőrző dolgozó, a tolatás vezetése mellett a kocsirendezői teendőkkel is megbízható. |
+| 2. | Kocsirendező | A tolatásvezető irányítása alatt - a járművezető kivételével - a tolatásban részt vevő dolgozó. |
 
-## II. munkaköri csoport
+| 3. | Tolatásvezető | A tolatásvezető a tolatási műveletet szervező, helyszínen irányító és ellenőrző dolgozó, a tolatás vezetése mellett a kocsirendezői teendőkkel is megbízható. |
 
-## A) Országos, térségi, saját célú vasúti pályahálózat és iparvágány
+| 4. | Központi forgalomirányító (KÖFI) | A központi forgalomirányításra berendezett vonalon a forgalom lebonyolításának egyszemélyi felelős irányítója. Rendelkezési joga kiterjed a forgalom lebonyolításában részt vevő valamennyi dolgozóra, továbbá a forgalom lebonyolítását közvetlenül érintő kérdésekben a társszolgálatokra is. |
 
-| Főrendelkező-, rendelkező forgalmi szolgálattevő, forgalmi szolgálattevő | Vonatközlekedés, továbbá a tolatás irányítása állomáson és kijelölt szolgálati helyen. |
+| 5. | Üzemegységi diszpécser | Az üzemegységi diszpécser az üzemegység beosztott dolgozóinak rendelkezésre jogosult szolgálati elöljárója. Rendelkezési joga kiterjed a társszolgálatok felé is a közlekedés lebonyolítását érintő kérdésekben. |
 
-| Külső forgalmi szolgálattevő |
+| 6. | Forgalmi szolgálattevő | Vonatközlekedés, továbbá a tolatás irányítója állomáson és kijelölt szolgálati helyen. Szolgálatával kapcsolatos rendelkezéseit a szolgálati helyeken, a nyílt pályán és a vonatokon valamennyi ott szolgálatot teljesítő dolgozó köteles tudomásul venni és végrehajtani. |
 
-| Naplózó forgalmi szolgálattevő | Állomásokon vasúti szolgálati okmányok és nyilvántartások vezetése. |
+| 7. | Naplózó | Állomásokon szolgálati okmányokat vezető dolgozó. |
 
-| Kocsivizsgáló | Az érkező, induló vonatoknál a vasúti kocsik vizsgálata. Teherkocsik megrakás előtti és kirakás utáni vizsgálata. Határállomáson a vasúti kocsik átadási, illetve átvételi eljárásban való részvétel. Az induló vonatok fékpróbája, fékberendezéseinek ellenőrzése és biztonságos üzemeltetése. |
+| 8. | Vezető jegyvizsgáló | Személyszállító vonatnál szolgálatot végző vonatkísérő. A vonatkísérők rendelkezésre jogosult vezetője. A vonat menete közben a jegyvizsgálatot végez. Az utasításban meghatározott esetekben végzi a vonatok indítását. |
 
-| Féklakatos |
+| 9. | Váltókezelő (központi állítású) | A központi állítású váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával és az egyes állomásokon a helyhez kötött jelzők kezelésével is megbízott dolgozó, tekintet nélkül arra, hogy milyen elnevezésű szolgálati helyen végez szolgálatot. |
 
-| Kocsiszolgálati művezető | A kocsivizsgálói tevékenység szervezése, irányítása, ellenőrzése. |
+| 10. | Térközőr | Nyíltvonali szolgálati helyen közlekedést szabályozó dolgozó. A térközőr a vonatközlekedést térköz biztosítóberendezéssel, a vonatjelentő őr nem biztosított térközjelzőkkel és távbeszélőn adott közleményekkel szabályozza. |
 
-| Térfőnök | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
+| 11. | Vonatjelentő őr | A vonatjelentő őr nem biztosított térközjelzőkkel és távbeszélőn adott közleményekkel szabályozza. |
 
-| Ügyeletes tiszt (forgalmi) |
+| 12. | Szükségvonat-jelentő őr | Szükségvonat-jelentő őr a vonatközlekedést hordozható jelzőkkel, jelzőeszközökkel, távbeszélőn vagy rádiótelefonon adott közleményekkel szabályozza. |
 
-| Hálózati fő-üzemirányító | A vonatközlekedés hálózati, illetve területi lebonyolításának irányítása, felügyelete. Összefogja az operatív vonatforgalmi tervezést, mellyel biztosítja a hálózaton és a területeken történő optimális kapacitás kihasználást, felügyeli a vonatok fontossági sorrendjének betartását. Kapcsolatot tart, információt cserél a szomszédos vasutakkal a határforgalomban közlekedő valamennyi ki- és belépő vonatról. |
+| 13. | Sorompókezelő | Az útátjáró biztosítására szolgáló berendezések kezelése meghatározott esetekben az útátjáró fedezése. |
 
-| Területi fő-üzemirányító |
+| 14. | Vasúti járművezető (villamos meghajtású, dízel, gőz és gőzakkumulátoros) | Az önjáró vasúti járművek (motorkocsi, mozdony, munkagép) vezetője. Feladata a járművezetői teendők elvégzésén kívül azoknál a vonatoknál, amelyek vonatvezető, vagy vezető-jegyvizsgáló nélkül közlekednek, a vonatkísérői ténykedések elvégzése is. Vonatvezető nélküli közlekedés esetében a vonatszemélyzet rendelkezésre jogosult vezetője. |
 
-| Rendkívüli helyzeteket kezelő irányító |
+| 15. | Elővárosi egyéb vasútijármű vezető |
 
-| Különleges szabályozást igénylő küldemények irányítója |
+| 16. | Jegyvizsgáló | A jegyvizsgáló személyszállító vonaton - a kereskedelmi tevékenységén kívül - szükség esetén fékezési, figyelési és fedezési feladatokat végez. |
 
-| Forgalmi vonalirányító | A vonatközlekedés tervezése, szabályozása, felügyelete egy vagy több rendelkezési szakaszon. A központi, távkezelt forgalomirányításra berendezett vonalakon a forgalom lebonyolításának irányítása. |
+| 17. | Váltókezelő (központi állítású) | A helyszíni vagy központi állítású váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával és az egyes állomásokon a helyhez kötött jelzők kezelésével is megbízott dolgozó, tekintet nélkül arra, hogy milyen elnevezésű szolgálati helyen végez szolgálatot. |
 
-| Központi forgalomirányító (a továbbiakban: KÖFI irányító) |
+| 18. | Forgalmi főmérnök, ha közvetlenül részt vesz a forgalom irányításában | A forgalmi technológiával kapcsolatos tevékenységet végzők felügyelete, ellenőrzése. Menetrend kiadásakor kidolgozza az üzemi tervet, jóváhagyja a forgalmi technológiát, a tolatómozdonyok foglalkoztatásának rendjét, esetenként elsodrási határon belül végzi tevékenységét |
 
-| Központi forgalom-ellenőrző irányító (a továbbiakban: KÖFE irányító) |
+| 19. | Szakszolgálat-vezető | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Mellékvonali forgalomirányító (a továbbiakban: MEFI irányító) | Mellékvonali forgalomirányításra berendezett vonalon a vonatközlekedés tervezése, szabályozása, felügyelete egy vagy több rendelkezési szakaszon. |
+| 20. | Forgalmi csoportvezető, ha közvetlenül részt vesz a forgalom irányításában | Állomási technológiák készítése, a közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete |
 
-| Mellékvonali rádiós forgalomirányító (a továbbiakban: MERÁFI irányító) |
+| 21. | Vonatvezető | Vontatási feladatok ellátása, a szolgáltatási feladatok teljesítése érdekében. Személyszállító vonat kivételével a vonatszemélyzet rendelkezésre jogosult vezetője. Felelős a vonat összeállításáért, a tolatási feladatok irányításáért és elvégzéséért, nyíltvonali váltózár kulcsok kezeléséért. |
 
-| Térközőr | Nyíltvonali szolgálati helyen közlekedés szabályozásában való részvétel, térközjelző kezelése, elő- és visszajelentés adása, nyugtázása. |
+| 22. | Műszaki irányító | Próbavonatok műszaki szempontból rendelkezésre jogosult felelős vezetője. |
 
-| Vonatjelentő-őr |
+| 23. | Energiadiszpécser, ha elsodrási határon belül dolgozik | Energiaellátás, térvilágítás, váltófűtés, erősáramú létesítményeken fellépő hibák, üzemzavarok adatrögzítése, közreműködés a károk felszámolásában. |
 
-| Sorompókezelő | Az útátjáró biztosítására szolgáló berendezések kezelése, meghatározott esetekben az útátjáró fedezése. |
+| 24. | Energiaoperátor, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
-| Jelzőőr |
+| 25. | Szolgálatvezető, ha elsodrási határon belül dolgozik | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése az előírásokban az egyes munkakörökre vonatkozó szabályoknak megfelelően, a vasúti forgalom magas műszaki színvonalon történő lebonyolításának biztosítása érdekében. |
 
-| Vezető váltókezelő, váltókezelő, Váltóállító táblakezelő | A központi állítású váltók állítása, ellenőrzése, őrzése, továbbá a helyi viszonyoktól függően esetleg gondozása, egyes helyeken a helyhez kötött jelzők kezelése, szükség esetén sorompókezelés és a vonatok mozdonyvezetőinek indításra történő felhatalmazása megbízással. |
+| 26. | Üzemvezető, ha elsodrási határon belül dolgozik | A vasúti, a különleges kötöttpályás közlekedési tevékenység szakmai irányításának ellátása Esetenként elsodrási határon belül végzi tevékenységét. |
 
-| Vágányfék-kezelő | Gépesített gurítódomb vágányfékjeinek kezelése a gurításra kerülő egységeknél. |
+| 27. | Technikus, ha elsodrási határon belül dolgozik | A vasúti, a különleges kötöttpályás közlekedési tevékenység szakmai irányításának ellátása. Esetenként elsodrási határon belül végzi tevékenységét |
 
-| Mozdonyvezető zárt vezetőálláson | Az alapvizsgájának megfelelő (vontatási nem, járműtípus, infrastruktúra), önjáró vasúti (motorkocsi, mozdony, munkagép), valamint közúti-vasúti (kétéltű) járművek vezetése. Feladata a járművezetői teendők elvégzésén kívül azoknál a vonatoknál, amelyek vezető jegyvizsgáló nélkül közlekednek, a vonatkísérői ténykedések elvégzése is. Vonali tolatásvezető vagy vonatkísérő nélküli közlekedés esetén a vonatszemélyzet rendelkezésre jogosult vezetője. |
+| 28. | Készenlétes, ha elsodrási határon belül dolgozik | A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, |
 
-| Egyéb vasúti járművezető |
+| 29. | Előmunkás, ha elsodrási határon belül dolgozik | A főpályamestertől és a felügyeleti pályamestertől kapott megbízás alapján részt vesz a munkáscsapattal a konkrét munkák irányításában, al- és felépítményi hiányosságok szakszerű helyreállítását irányítja, kivitelezi. Részt vesz a hiba és zavarelhárító, valamint a hókészenléti szolgálatban. Elősegíti a rendkívüli események, meghibásodások miatt bekövetkezett zavarok elhárítását a vasúti forgalom biztosítása érdekében. |
 
-| Főpályamester, pályamester | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, illetve végzése az előírásokban az egyes munkakörökre vonatkozó szabályoknak megfelelően, a vasúti forgalom magas műszaki színvonalon történő lebonyolításának biztosítása érdekében. |
+| 30. | Művezető, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett, forgalmat akadályozó üzemzavarok feltárása, megszüntetése. Az ismételt forgalomba helyezés műszaki feltételeinek helyszíni biztosítása, a munkálatok szakterületi irányítása. |
 
-| Technikus |
+| II. Városi és helyi vasúti pályahálózat |
 
-| Vasúti munkavezető | A vasúti pályaszakaszon történő munkavégzés (gyalogbejárás) során a pálya és tartozékain (sín, kapcsolószer, kitérők, vágánykapcsolatok, hegesztések aljak, ágyazat) végzett tevékenységek megfelelő műszaki színvonalon történő elvégeztetése, illetve a hiányosságok feltárása, helyreállítása a zavartalan vasúti forgalom biztosítása érdekében. |
+| a) Közúti vasúti (villamos) pályahálózat |
 
-| Vonalgondozó |
+| 1. | Váltókezelő | A helyszíni vagy a távolról állítható váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával is megbíznak. |
 
-| Vezető jegyvizsgáló | Személyszállító vonatnál szolgálatot végző valamennyi vonatkísérő forgalmi szempontból rendelkezésre jogosult vezetője. A forgalmi helyzettől függően jogosult és kötelezhető a fékpróba megtartására. Szükség esetén tolatást vezet. Meghatározott esetekben végzi az induló vonatok mozdonyvezetőinek indításra történő felhatalmazását, valamint figyelő szolgálatot lát el. |
+| 2. | Tabulátorkezelő | Biztosítóberendezés kezelésével, valamint jelzővel függésben lévő váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával is megbíznak. |
 
-| Szolgáltatás felügyelő, minőségbiztosítási ellenőr (személyszállítás) |
+| 3. | Forgalmi diszpécser | A rendelkezésre álló technikai berendezések kezelésével irányítja és ellenőrzi a villamos járművek forgalmát. Biztosítja a menetrend szerinti és balesetmentes közlekedés lebonyolítását. Rendkívüli esemény esetében közvetlenül érvényesíthető rendelkezési, és irányítói jog illeti meg a forgalom lebonyolítását érintő kérdésekben. |
 
-| Külsős mozdonyfelvigyázó | A kijelölt telephelyen a felügyelete alá tartozó vontatási utazószemélyzet irányítása, ellenőrzése, valamint a rendelkezésre álló eszközpark felügyelete a vontatási szolgáltatások biztosítására. Az üzemmenetben bekövetkezett zavar esetén a területére vonatkozóan operatív intézkedések tétele annak érdekében, hogy a vonatközlekedés minél hamarabb tervszerű legyen. |
+| 4. | Közúti vasúti járművezető (Villamos meghajtású, dízel, gőz- és gőzakkumulátoros) | A közlekedő jármű egyszemélyi felelős vezetője. Feladata a szerelvény vezetése. |
 
-| Vontatási (gépészeti) vonalellenőr | Vontatójárművek és vasútijármű vezetők felügyelete vonattovábbítás közben. |
+| 5. | Forgalmi főmérnök, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Vontatási telepi rendező, vontatási telepi váltókezelő | A vontatási telep járműmozgásának szervezése és irányítása. |
+| 6. | Üzemvezető, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Vasúti járműves darukezelő | Vasúti járművek rendkívüli esetben történő mozgatása daruval, vagy hidraulikus emelő berendezés kezelésével. |
+| 7. | Szakszolgálat-vezető, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Vasútüzem vezető | Saját célú vasúti pályahálózaton a vasúti közlekedés szervezése, irányítása. |
+| 8. | Forgalmi csoportvezető, ha közvetlenül részt vesz a forgalom irányításában | Állomási technológiák készítése, a közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete |
 
-## B) Elővárosi, városi és helyi vasúti pályahálózat
+| 9. | Vonatvezető, ha elsodrási határon belül dolgozik | Segítségnyújtás a közlekedő jármű felelős vezetőjének műszaki és forgalmi helyzetekben, a vonatszemélyzet irányítása. |
 
-## I. Elővárosi vasúti pályahálózat
+| 10. | Kísérő, ha elsodrási határon belül dolgozik |
 
-| Központi forgalomirányító (KÖFI) | A központi forgalomirányításra berendezett vonalon a forgalom lebonyolításának egyszemélyi felelős irányítója. Rendelkezési joga kiterjed a forgalom lebonyolításában részt vevő valamennyi dolgozóra, továbbá a forgalom lebonyolítását közvetlenül érintő kérdésekben a társszolgálatokra is. |
+| 11. | Energiadiszpécser, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett - forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
-| Üzemegységi diszpécser | Az üzemegységi diszpécser az üzemegység beosztott dolgozóinak rendelkezésre jogosult szolgálati elöljárója. Rendelkezési joga kiterjed a társszolgálatok felé is a közlekedés lebonyolítását érintő kérdésekben. |
+| 12. | Energiaoperátor, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett - forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
-| Forgalmi szolgálattevő | Vonatközlekedés, továbbá a tolatás irányítója állomáson és kijelölt szolgálati helyen. Szolgálatával kapcsolatos rendelkezéseit a szolgálati helyeken, a nyílt pályán és a vonatokon valamennyi ott szolgálatot teljesítő dolgozó köteles tudomásul venni és végrehajtani. |
+| 13. | Szolgálatvezető, ha elsodrási határon belül dolgozik | A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése |
 
-| Naplózó | Állomásokon szolgálati okmányokat vezető dolgozó. |
+| 14. | Üzemvezető, ha elsodrási határon belül dolgozik | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, |
 
-| Vezető jegyvizsgáló | Személyszállító vonatnál szolgálatot végző vonatkísérő. A vonatkísérők rendelkezésre jogosult vezetője. A vonat menete közben a jegyvizsgálatot végez. Az utasításban meghatározott esetekben végzi a vonatok indítását. |
+| 15. | Készenlétes, ha elsodrási határon belül dolgozik | A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása |
 
-| Váltókezelő (központi állítású) | A központi állítású váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával és az egyes állomásokon a helyhez kötött jelzők kezelésével is megbízott dolgozó, tekintet nélkül arra, hogy milyen elnevezésű szolgálati helyen végez szolgálatot. |
+| 16. | Előmunkás, ha elsodrási határon belül dolgozik | A pályamestertől kapott megbízás alapján részt vesz a konkrét munkák irányításában, al- és felépítményi hiányosságok szakszerű helyreállítását irányítja, kivitelezi. Részt vesz a hiba és zavarelhárító, valamint a hókészenléti szolgálatban. Elősegíti a rendkívüli események, meghibásodások miatt bekövetkezett zavarok elhárítását a vasúti forgalom biztosítása érdekében. |
 
-| Térközőr | Nyíltvonali szolgálati helyen közlekedést szabályozó dolgozó. A térközőr a vonatközlekedést térköz biztosítóberendezéssel, a vonatjelentő őr nem biztosított térközjelzőkkel és távbeszélőn adott közleményekkel szabályozza. |
+| 17. | Művezető, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett, forgalmat akadályozó üzemzavarok feltárása, megszüntetése. Az ismételt forgalomba helyezés műszaki feltételeinek helyszíni biztosítása, a munkálatok szakterületi irányítása. |
 
-| Vonatjelentő őr | A vonatjelentő őr nem biztosított térközjelzőkkel és távbeszélőn adott közleményekkel szabályozza. |
+| b) Földalatti vasúti pályahálózat (metró) |
 
-| Szükségvonat-jelentő őr | Szükségvonat-jelentő őr a vonatközlekedést hordozható jelzőkkel, jelzőeszközökkel, távbeszélőn vagy rádiótelefonon adott közleményekkel szabályozza. |
+| 1. | Központi forgalmi menetirányító | A központi forgalomirányításra berendezett vonalon a forgalom lebonyolításának egyszemélyi felelős irányítója. Rendelkezési joga kiterjed a forgalom lebonyolításában részt vevő valamennyi dolgozóra, továbbá a forgalom lebonyolítását közvetlenül érintő kérdésekben a társszolgálatokra is. |
 
-| Sorompókezelő | Az útátjáró biztosítására szolgáló berendezések kezelése meghatározott esetekben az útátjáró fedezése. |
+| 2. | Központi forgalmi operátor | A központi forgalmi menetirányító segítőjeként a jelző- és vasútbiztosító berendezés és egyéb technikai eszközök kezelését és azok ellenőrzését végzi. A vasútbiztosító berendezés kezeléséért az operátor felelős, de számlált kezelési műveleteket csak a központi forgalmi menetirányító rendelkezésére, vagy hozzájárulásával végezhet. |
 
-| Mozdonyvezető | Az önjáró vasúti járművek (motorkocsi, mozdony, munkagép) vezetője. Feladata a járművezetői teendők elvégzésén kívül azoknál a vonatoknál, amelyek vonatvezető, illetve vezető-jegyvizsgáló nélkül közlekednek, a vonatkísérői ténykedések elvégzése is. Vonatvezető nélküli közlekedés esetében a vonatszemélyzet rendelkezésre jogosult vezetője. |
+| 3. | Metró forgalmi szolgálattevő | Vágánykapcsolatos állomásokon teljesít szolgálatot. Helyi üzem esetében kezeli a jelző- és vasútbiztosító berendezést, valamint átruházott jogkör esetében a kezelési körzetében irányítja a vonatforgalmat. Távvezérelt üzem esetében az utasforgalom irányításával és ellenőrzésével is megbízható. |
 
-| Elővárosi egyéb vasútijármű vezető |
+| 4. | Járműtelepi forgalmi szolgálattevő | Irányítja a szerelvények kocsiszínből forgalomba való ki- és beállását a menetrendi követelményeknek megfelelően. A kocsiszíni tolatások lebonyolítása mellett biztosítja a szolgálati vonatok összeállítását, forgalomba állítását, a járműtelepi vágányhálózaton végzett összes tolatás összhangját. A járműtelepen a belső vasút-üzemvezető helyettese. |
 
-## II. Városi és helyi vasúti pályahálózat
+| 5. | Járműtelepi forgalmi operátor | A forgalmi szolgálattevő segítőjeként a jelző- és vasútbiztosító berendezés, valamint egyéb technikai eszközök kezelését végzi. A vasútbiztosító berendezés kezeléséért az operátor felelős, beszámlált kezelési műveleteket csak a forgalmi szolgálattevő rendelkezésére, vagy hozzájárulásával végezhet. |
 
-## a) Közúti villamos vasúti pályahálózat
+| 6. | Tolatásvezető | A vonalon közlekedő szolgálati vonat felelős vezetője, a járműtelepi tolatási mozgásokat a forgalmi szolgálattevő rendelkezései alapján irányítja. |
 
-| Váltókezelő | A helyszíni vagy a távolról állítható váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával is megbíznak. |
+| 7. | Motorkocsi-vezető | A közlekedő vonat egyszemélyi felelős vezetője. Feladata a motorkocsikból összeállított szerelvény, vagy vonat vezetése. |
 
-| Tabulátorkezelő | Biztosítóberendezés kezelésével, valamint jelzővel függésben lévő váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával is megbíznak. |
+| 8. | Motorkocsi-segédvezető | Kétszemélyes üzemmódban a motorkocsi-vezetővel együtt felelős a szerelvény, és a vonat továbbításáért. |
 
-| Forgalmi diszpécser | A rendelkezésre álló technikai berendezések kezelésével irányítja és ellenőrzi a villamos járművek forgalmát. Biztosítja a menetrend szerinti és balesetmentes közlekedés lebonyolítását. Rendkívüli esemény esetében közvetlenül érvényesíthető rendelkezési, illetve irányítói jog illeti meg a forgalom lebonyolítását érintő kérdésekben. |
+| 9. | Vasúti járművezető (Villamos, dízel, gőz- és gőzakkumulátoros meghajtású) | Vasúti járművel végzett vonat- vagy tolatási mozgás, vagy a szolgálati vonat vontatójárművének egyszemélyi felelős vezetője. |
 
-| Közúti vasútijármű vezető | A közlekedő villamos jármű egyszemélyi felelős vezetője. Feladata a szerelvény vezetése. |
+| 10. | Egyéb vasúti járművezető | Teher-vágánygépkocsi vagy szolgálati vonat vontatójárművének felelős vezetője. |
 
-## b) Földalatti vasúti pályahálózat (metró)
+| 11. | Metróállomási diszpécser-járművezető (JÁDI) | A rendelkezésre álló technikai eszközök segítségével irányítja és ellenőrzi az állomás utasforgalmát, üzemelteti a felügyelete alá tartozó mozgólépcsőket, lifteket és berendezéseket. Kirendelés esetén járművezetői feladatokat lát el. |
 
-| Központi forgalmi menetirányító | A központi forgalomirányításra berendezett vonalon a forgalom lebonyolításának egyszemélyi felelős irányítója. Rendelkezési joga kiterjed a forgalom lebonyolításában részt vevő valamennyi dolgozóra, továbbá a forgalom lebonyolítását közvetlenül érintő kérdésekben a társszolgálatokra is. |
+| 12. | Központi utasforgalom-irányító diszpécser (KUD) | A központi utasforgalom-irányító diszpécser (KUD) az állomások forgalmi jellegű távfelügyeleti feladatait látja el, a rendelkezésére álló technikai berendezésein keresztül. Ellenőrzi és irányítja az állomási diszpécserek munkáját, közvetlen felettese a központi forgalmi menetirányító. |
 
-| Központi forgalmi operátor | A központi forgalmi menetirányító segítőjeként a jelző- és vasútbiztosító berendezés és egyéb technikai eszközök kezelését és azok ellenőrzését végzi. A vasútbiztosító berendezés kezeléséért az operátor felelős, de számlált kezelési műveleteket csak a központi forgalmi menetirányító rendelkezésére, illetve hozzájárulásával végezhet. |
+| 13. | Műszakvezető diszpécser | Állomási dolgozók szolgálati elöljárója, rendkívüli esetben a Központi forgalmi menetirányító (KFM) megbízottjaként helyszíni feladatok ellátására kirendelhető. |
 
-| Metró forgalmi szolgálattevő | Vágánykapcsolatos állomásokon teljesít szolgálatot. Helyi üzem esetében kezeli a jelző- és vasútbiztosító berendezést, valamint átruházott jogkör esetében a kezelési körzetében irányítja a vonatforgalmat. Távvezérelt üzem esetében az utasforgalom irányításával és ellenőrzésével is megbízható. |
+| 14. | Állomási diszpécser | A rendelkezésére álló technikai eszközök segítségével irányítja és ellenőrzi az állomás utasforgalmát, üzemelteti a felügyelete alá tartozó mozgólépcsőket. |
 
-| Járműtelepi forgalmi szolgálattevő | Irányítja a szerelvények kocsiszínből forgalomba való ki- és beállását a menetrendi követelményeknek megfelelően. A kocsiszíni tolatások lebonyolítása mellett biztosítja a szolgálati vonatok összeállítását, forgalomba állítását, a járműtelepi vágányhálózaton végzett összes tolatás összhangját. A járműtelepen a belső vasút-üzemvezető helyettese. |
+| 16. | Peronőr | Az állomásokon utasirányítói és ügyeletesi szolgálatot lát el. |
 
-| Járműtelepi forgalmi operátor | A forgalmi szolgálattevő segítőjeként a jelző- és vasútbiztosító berendezés, valamint egyéb technikai eszközök kezelését végzi. A vasútbiztosító berendezés kezeléséért az operátor felelős, beszámlált kezelési műveleteket csak a forgalmi szolgálattevő rendelkezésére, illetve hozzájárulásával végezhet. |
+| 17. | Kocsiszíni diszpécser | A kocsiszíni diszpécser az utazóforgalmi dolgozók szolgálati elöljárója. A vonatszemélyzetek a kocsiszíni diszpécsernél jelentkeznek szolgálatra, a szolgálati beosztással kapcsolatban rendelkezési joga van. Szervezi a szükséges kocsiszíni tolatási mozgásokat, és a kocsiszíni ki- és beállások rendjét. |
 
-| Tolatásvezető | A vonalon közlekedő szolgálati vonat felelős vezetője, a járműtelepi tolatási mozgásokat a forgalmi szolgálattevő rendelkezései alapján irányítja. |
+| 18. | Járművezető instruktor | Az utazó forgalmi dolgozók szolgálati elöljárója. Ellenőrzi a vonatszemélyzetek munkáját, a motorkocsik műszaki állapotával kapcsolatos kérdésekben döntési és rendelkezési joga van. Rendkívüli esetben a központi forgalmi menetirányító megbízottjaként helyszíni feladatok ellátására kirendelhet. |
 
-| Motorkocsi-vezető | A közlekedő vonat egyszemélyi felelős vezetője. Feladata a motorkocsikból összeállított szerelvény, illetve vonat vezetése. |
+| 19. | Forgalmi főmérnök, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Motorkocsi-segédvezető | Kétszemélyes üzemmódban a motorkocsi-vezetővel együtt felelős a szerelvény, illetve a vonat továbbításáért. |
+| 20. | Üzemvezető, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Mozdonyvezető | Mozdonnyal végzett vonat- vagy tolatási mozgás, illetve a szolgálati vonat vontatójárművének felelős vezetője. |
+| 21. | Szakszolgálat-vezető, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Egyéb vasúti járművezető | Teher-vágánygépkocsi vagy szolgálati vonat vontatójárművének felelős vezetője. |
+| 22. | Forgalmi csoportvezető, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Metróállomási diszpécser – járművezető (JÁDI) | A rendelkezésre álló technikai eszközök segítségével irányítja és ellenőrzi az állomás utasforgalmát, üzemelteti a felügyelete alá tartozó mozgólépcsőket, lifteket és berendezéseket. Kirendelés esetén járművezetői feladatokat lát el. |
+| 23. | Energiaoperátor, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett - forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
-## c) Milleniumi földalatti vasút
+| 24. | Szolgálatvezető, ha elsodrási határon belül dolgozik | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése |
 
-| Forgalmi szolgálattevő | Forgalmi szolgálattevő vágánykapcsolatos állomásokon teljesít szolgálatot. Helyi üzem esetében kezeli a jelző- és vasútbiztosító berendezést, valamint átruházott jogkör esetében a kezelési körzetében irányítja a vonatforgalmat. |
+| 25. | Üzemvezető, ha elsodrási határon belül dolgozik | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése |
 
-| Térfelvigyázó | A térfelvigyázó a járműtelepen teljesít szolgálatot, a járművezetők szolgálati elöljárója, és a járműtelepi tolatási mozgások irányítója. |
+| 26. | Technikus, ha elsodrási határon belül dolgozik | A vasúti, a különleges kötöttpályás közlekedési tevékenység szakmai irányításának ellátása. |
 
-| Tolatásvezető | Tolatásvezető a tolatási mozgások irányításával megbízott dolgozó. |
+| 27. | Készenlétes, ha elsodrási határon belül dolgozik | A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása |
 
-| Földalatti vasútijármű vezető | A közlekedő vonat és tolatószerelvény egyszemélyi felelős vezetője. |
+| 28. | Vasúti munkavezető, ha elsodrási határon belül dolgozik | A vasúti pályaszakaszon történő munkavégzés során a pálya és tartozékain (sín, kapcsolószer, kitérők, vágánykapcsolatok, hegesztések, aljak, ágyazat) végzett tevékenységek megfelelő műszaki színvonalon történő elvégeztetése és a hiányosságok feltárása, helyreállítása a zavartalan vasúti forgalom biztosítása érdekében. |
 
-## C) Fogaskerekű vasút
+| 29. | Előmunkás, ha elsodrási határon belül dolgozik | A pályamestertől kapott megbízás alapján részt vesz a konkrét munkák irányításában, al- és felépítményi hiányosságok szakszerű helyreállítását irányítja, kivitelezi. Részt vesz a hiba és zavarelhárító, valamint a hókészenléti szolgálatban. Elősegíti a rendkívüli események, meghibásodások miatt bekövetkezett zavarok elhárítását a vasúti forgalom biztosítása érdekében. |
 
-| Forgalmi diszpécser | A vonal forgalmának egyszemélyi felelős vezetője, a járművezetők szolgálati elöljárója, aki a rendelkezésére álló technikai berendezések kezelésével irányítja és ellenőrzi a vonatok forgalmát, a menetrend szerinti és balesetmentes közlekedés lebonyolítását. Rendkívüli esemény esetében valamennyi szolgálati ág felé közvetlenül érvényesíthető rendelkezési, illetve irányítói jog illeti meg a forgalom lebonyolítását érintő kérdésekben. |
+| 30. | Művezető, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett, forgalmat akadályozó üzemzavarok feltárása, megszüntetése. Az ismételt forgalomba helyezés műszaki feltételeinek helyszíni biztosítása, a munkálatok szakterületi irányítása. |
 
-| Fogaskerekű vasútijármű vezető | Feladata a járművekből összeállított szerelvény, illetve vonat vezetése. |
+| 31. | Műszaki diszpécser, ha elsodrási határon belül dolgozik | Szervezi és irányítja a metróvonal tűzvédelmi- és épületgépészeti berendezéseinek felügyeletét, hibáinak elhárítását. |
 
-## D)
+| 32. | Egyéb vasúti járművezető (hajtányvezető) | Motoros vagy más meghajtású hajtány, mint vasúti jármű felelős vezetése. |
 
-## E)
+| c) Millenniumi földalatti vasút |
 
-## F) Bányavasúti pályahálózat
+| 1. | Forgalmi szolgálattevő | Forgalmi szolgálattevő vágánykapcsolatos állomásokon teljesít szolgálatot. Helyi üzem esetében kezeli a jelző- és vasútbiztosító berendezést, valamint átruházott jogkör esetében a kezelési körzetében irányítja a vonatforgalmat. |
 
-| Mozdonyvezető | A mozdony üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása. |
+| 2. | Térfelvigyázó | A térfelvigyázó a járműtelepen teljesít szolgálatot, a járművezetők szolgálati elöljárója, és a járműtelepi tolatási mozgások irányítója. |
 
-## III. munkaköri csoport
+| 3. | Tolatásvezető | A tolatási mozgások irányítása |
 
-## A) Országos, térségi, saját célú vasúti pályahálózat és iparvágány
+| 4. | Földalatti vasúti jármű vezető (Villamos, dízel, gőz- és gőzakkumulátoros meghajtású) | A közlekedő vonat és tolatószerelvény egyszemélyi felelős vezetője. |
 
-| Vasútszakmai oktató (műszaki-, forgalmi oktató) | A képzőszervezet, illetve vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
+| 5. | Központi forgalmi menetirányító | Az egész vonal forgalmának egyszemélyi felelős irányítója, aki a rendelkezésére álló technikai berendezések segítségével irányítja és ellenőrzi a vonatok forgalmának biztonságos és menetrendszerű lebonyolítását. |
 
-| Forgalmi csomóponti vezető | Állomási technológiák készítése, a közlekedés biztonságával összefüggő feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
+| 6. | Központi utasforgalom-irányító diszpécser (KUD) | Központi diszpécser a rendelkezésére álló technikai berendezések segítségével irányítja és ellenőrzi az állomások utasforgalmát, üzemelteti a felügyelete alá tartozó berendezéseket, valamint szervezi az üzemszüneti munkákat. |
 
-| Állomásfőnök I-III. |
+| 7. | Műszakvezető diszpécser | Műszakvezető diszpécser a térfelvigyázók és a járművezetők szolgálati elöljárója. A járművek műszaki állapotával kapcsolatban rendelkezési jog illeti meg. |
 
-| Forgalmi koordinátor |
+| 8. | Peronőr | Az állomásokon utasirányítói és ügyeletesi szolgálatot lát el. |
 
-| Forgalmi üzemmérnök |
+| 9. | Forgalmi főmérnök, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő forgalmi feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Forgalmi technológus |
+| 10. | Üzemvezető, ha elsodrási határon belül dolgozik |
 
-| Átmenesztő | Vonatfel- és átvétel végzése, érkező, továbbá induló vonatok okmányainak elkészítése. |
+| 11. | Szakszolgálat-vezető, ha elsodrási határon belül dolgozik |
 
-| Vonatfel- és átvevő |
+| 12. | Forgalmi csoportvezető, ha elsodrási határon belül dolgozik |
 
-| TEB vezetőmérnök | A vasúti pálya – felső vezeték, biztosítóberendezés, távközlő berendezés – műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések, felső vezetékek felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
+| 13. | Energiaoperátor, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
-| TEB szakaszmérnök |
+| 14. | Szolgálatvezető, ha elsodrási határon belül dolgozik | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése |
 
-| Technológiai rendszerszakértő |
+| 15. | Technikus, ha elsodrási határon belül dolgozik | A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, és elvégzése |
 
-| Biztosítóberendezési vonalellenőr |
+| 16. | Készenlétes, ha elsodrási határon belül dolgozik | A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása |
 
-| Távközlőmester |
+| 17. | Előmunkás, ha elsodrási határon belül dolgozik | A pályamestertől kapott megbízás alapján részt vesz a konkrét munkák irányításában, al- és felépítményi hiányosságok szakszerű helyreállítását irányítja, kivitelezi. Részt vesz a hiba és zavarelhárító, valamint a hókészenléti szolgálatban. Elősegíti a rendkívüli események, meghibásodások miatt bekövetkezett zavarok elhárítását a vasúti forgalom biztosítása érdekében. |
 
-| Blokkmester |
+| 18. | Művezető, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett, forgalmat akadályozó üzemzavarok feltárása, megszüntetése. Az ismételt forgalomba helyezés műszaki feltételeinek helyszíni biztosítása, a munkálatok szakterületi irányítása. |
 
-| Biztosítóberendezési művezető |
+| 19. | Saját géperejű vasúti munkagép-vezető | Millenniumi vasúti pályahálózaton a vasúti jármű önálló vezetése |
 
-| Biztosítóberendezési műszerész |
+| 20. | Vasúti vágánygépkocsi-vezető |
 
-| Biztosítóberendezési lakatos |
+| 21. | Motoros hajtány-vezető |
 
-| Területi biztosítóberendezési diszpécser |
+| 22. | Hajtányvezető |
 
-| Területi távközlő diszpécser |
+| 23. | Közúti-vasúti kétéltű járművezető |
 
-| Erősáramú mester |
+| d) Fogaskerekű vasúti pályahálózat |
 
-| Erősáramú művezető |
+| 1. | Forgalmi diszpécser | A vonal forgalmának egyszemélyi felelős vezetője, a járművezetők szolgálati elöljárója, aki a rendelkezésére álló technikai berendezések kezelésével irányítja és ellenőrzi a vonatok forgalmát, a menetrend szerinti és balesetmentes közlekedés lebonyolítását. Rendkívüli esemény esetében valamennyi szolgálati ág felé közvetlenül érvényesíthető rendelkezési, és irányítói jog illeti meg a forgalom lebonyolítását érintő kérdésekben. |
 
-| Elektrikus diszpécser |
+| 2. | Fogaskerekű vasúti járművezető | Feladata a járművekből összeállított szerelvény, vonat vezetése. |
 
-| Felsővezeték-szerelő |
+| 3. | Forgalmi főmérnök, ha elsodrási határon belül dolgozik | A közlekedés biztonságával összefüggő forgalmi feladatok végrehajtásának szervezése, irányítása, ellenőrzése, felügyelete. |
 
-| Vezetőmérnök (pályás) | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása, illetve végzése az előírásokban az egyes munkakörökre vonatkozó szabályoknak megfelelően, a vasúti forgalom magas műszaki színvonalon történő lebonyolításának biztosítása érdekében. |
+| 4. | Üzemvezető, ha elsodrási határon belül dolgozik |
 
-| Szakaszmérnök (pályás) |
+| 5. | Szakszolgálat-vezető, ha elsodrási határon belül dolgozik |
 
-| Vonalkezelő |
+| 6. | Forgalmi csoportvezető, ha elsodrási határon belül dolgozik |
 
-| Diszpécser (pályás) |
+| 7. | Művezető, ha elsodrási határon belül dolgozik | Járműtelepi mozgások megszervezése és lebonyolítása. |
 
-| Pályamunkás |
+| 8. | Kapcsolást végző műszaki dolgozó, ha elsodrási határon belül dolgozik | A járművek össze- és szétkapcsolása. |
 
-| Hálózati és területi személyszállítási főirányító | A hálózat vagy annak egy meghatározott területén közlekedő- és a csomópontokon a személyszállító vonatok irányítási felügyelete, és az üzemirányító szolgálattal történő koordinációs feladatok ellátása. |
+| 9. | Váltóállító, ha elsodrási határon belül dolgozik | A központi állítású váltók helyszíni állítása, ellenőrzése, őrzése. |
 
-| Csomóponti személyszállítási üzemeltetési vezető |
+| 10. | Jelzőőr, ha elsodrási határon belül dolgozik | Meghatározott esetekben az útátjáró fedezése. |
 
-| Csomóponti személyszállítási technológus |
+| 11. | Távközlőmester, műszerész, ha elsodrási határon belül dolgozik | A távközlő-berendezés műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. |
 
-| Személyszállítási ügyeletes |
+| 12. | Távközlő-diszpécser, ha elsodrási határon belül dolgozik | A távközlő-berendezés műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. |
 
-| Állomáskezelő (személyszállítás) | Megálló-rakodóhelyen, rakodóhelyen szükség esetén forgalmi tevékenység ellátása, a szolgálati hely feladataitól függően. |
+| 13. | Energiadiszpécser, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett – forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
-| Jegyvizsgáló | A jegyvizsgáló személyszállító vonaton – a kereskedelmi tevékenységén kívül – szükség esetén fékezési, figyelési és fedezési feladatokat végez. |
+| 14. | Energiaoperátor, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett – forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a szükséges áramköri módosítások meghatározása, kapcsolási műveletek elvégzése. |
 
-| Árufuvarozási hálózati üzemirányító | Az árutovábbító vasúti társaság igényeinek függvényében dönt, és intézkedik a hálózatot vagy a régiót érintő többlet-tehervonatok bevezetéséről, valamint a közlekedésre bevezetett tehervonatok lemondásáról. Árufuvarozási szempontból jóváhagyja a hatáskörébe tartozó vonatforgalmi tervezést és annak módosítását. Elegytorlódás esetében hálózati, illetve régió szinten prioritási szempontokat határoz meg a tehervonatok továbbításának sorrendjére, a pályavasúttal konzultálva kerülő útirányt jelöl ki. Figyelemmel kíséri a Tehervonati Közlekedési Rend, a szolgáltatások teljesítését. Rendkívüli események bekövetkezése esetén egyeztető és koordinációs tevékenységet végez. Közvetlenül a vasúti közlekedés biztonságával összefüggő rendelkezést pályavasúti dolgozó felé nem ad. |
+| 15. | Elektrikus, ha elsodrási határon belül dolgozik | Pályán keletkezett – forgalmat akadályozó üzemzavarok feltárása, megszüntetése, a pályán telepített villamos berendezések hibáinak közvetlen feltárása, ideiglenes, vagy végleges javítása, szakfelügyelet adása. |
 
-| Árufuvarozási regionális üzemirányító |
+| 16. | Blokkmester, ha elsodrási határon belül dolgozik | A vasúti biztosítóberendezés (tabulátor) műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A biztosítóberendezések felügyeletének ellátása, ellenőrzése, fenntartása, karbantartása. |
 
-| Árufuvarozási főnök | Árufuvarozási feladatköre mellett a felügyelete alá tartozó munkavállalók vasúti közlekedés biztonságával összefüggő feladatainak szervezése, irányítása és ellenőrzése. |
+| 17. | Biztosító berendezési művezető, ha elsodrási határon belül dolgozik |
 
-| Állomási operatív koordinátor (árufuvarozás) | Árufuvarozási feladatköre mellett a rakodóhelyek kiszolgálásával kapcsolatos feladatok ellátása, a pályavasúti és a vontatási munkavállalókkal a vonatok közlekedtetéséhez szükséges tevékenységek koordinálása. |
+| 18. | Biztosító berendezési műszerész, ha elsodrási határon belül dolgozik |
 
-| Raktárnok | Árufuvarozási feladatköre mellett a vasúti közlekedés biztonságával összefüggő tevékenység ellátása, a kocsik raksúlyváltójának kezelése, tengelyterhelés ellenőrzése, egyes vasúti vágányokon a vasúti kocsik mozgatásának irányítása, járműmegfutamodás elleni védekezés és kocsik kezelésére vonatkozó bárcák alkalmazása. |
+| 19. | Biztosító berendezési lakatos, ha elsodrási határon belül dolgozik |
 
-| Körzeti Járműfenntartási Központ (a továbbiakban: KJK) Központvezető | Vontató és vontatott járművek fenntartásának szervezése, irányítása és koordinálása. |
+| 20. | Biztosító berendezési diszpécser, ha elsodrási határon belül dolgozik |
 
-| KJK vezetőmérnök |
+| 21. | Szolgálatvezető, ha elsodrási határon belül dolgozik | A vasúti pálya műszaki állapotának előírás szerinti vizsgálata, mérése és ellenőrzése, a feltárt hiányosságok megszüntetése. A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása és elvégzése az előírásokban az egyes munkakörökre vonatkozó szabályoknak megfelelően, a vasúti forgalom magas műszaki színvonalon történő lebonyolításának biztosítása érdekében. |
 
-| Területi Kocsivizsgálati-szolgáltatási Központ (a továbbiakban: TKSZK) vezető | Vontatott járművek fenntartásának szervezése, irányítása és koordinálása. |
+| 22. | Üzemvezető, ha elsodrási határon belül dolgozik |
 
-| TKSZK vezetőmérnök |
+| 23. | Pályamester, ha elsodrási határon belül dolgozik |
 
-| Gépészeti diszpécser | Az üzemmenetben bekövetkezett zavar esetében az egész területre vonatkozóan operatív intézkedések tétele annak érdekében, hogy a vonatközlekedés minél hamarabb tervszerű legyen. |
+| 24. | Vonalgondozó, ha elsodrási határon belül dolgozik |
 
-| Hálózati vontatási főirányító | A hálózat operatív irányítása mozdonyszolgálati ügyekben. A rendkívüli helyzetek elhárításánál közreműködik. Intézkedik a közlekedési zavarok, elegytorlódások feloldásához szükséges gépészeti erőforrások átcsoportosítására, meghatározza a mozdony- és személyzeti fordulóktól való eltérés rendjét. A hatáskörébe tartozó területen operatívan irányítja, a rendelkezésre álló vontatójárműveket és személyzetet. Rendkívüli események bekövetkezésekor a vasúti közlekedés operatív irányítási szervezeteinek bevonásával rendelkezik a mozdony- és személyzetfordulók operatív megváltoztatására, a megfelelő segélynyújtó elhárító egységek riasztására és a pályavasúti üzemirányító szolgálattal együtt biztosítja a helyszínre történő közlekedtetésüket és az érintett vasúti társaság területi vezetőinek értesítését. |
+| 25. | Technikus, ha elsodrási határon belül dolgozik | A vasúti, a különleges kötöttpályás közlekedési tevékenység szakmai irányításának ellátása. Esetenként elsodrási határon belül végzi tevékenységét |
 
-| Területi vontatási főirányító |
+| 26. | Készenlétes, ha elsodrási határon belül dolgozik | A vasúti pálya építése, felújítása és karbantartása során a felügyeleti, diagnosztikai, hibaelhárítási tevékenységek koordinálása |
 
-| Árufuvarozási hálózati vontatási főirányító | Az árutovábbító vasúti társaság igényeinek függvényében, a hálózat és régió operatív irányítása mozdonyszolgálati ügyekben. A rendkívüli helyzetek elhárításánál koordinálja a munkavégzést, együttműködve a vasútvállalatokkal, kárhely parancsnokkal. Intézkedik a közlekedési zavarok, elegytorlódások feloldásához szükséges gépészeti erőforrások átcsoportosítására, meghatározza a mozdony- és személyzeti fordulóktól való eltérés rendjét. A hatáskörébe tartozó területen irányítja, és szükség szerint vezényli a rendelkezésre álló vontatójárműveket és személyzetet. |
+| 27. | Vasúti munkavezető, ha elsodrási határon belül dolgozik | A vasúti pályaszakaszon történő munkavégzés során a pálya és tartozékain (sín, kapcsolószer, kitérők, vágánykapcsolatok, hegesztések aljak, ágyazat) végzett tevékenységek megfelelő műszaki színvonalon történő elvégeztetése, és a hiányosságok feltárása, helyreállítása a zavartalan vasúti forgalom biztosítása érdekében. |
 
-| Árufuvarozási regionális vontatási irányító |
+| 28. | Előmunkás, ha elsodrási határon belül dolgozik | A pályamestertől kapott megbízás alapján részt vesz a konkrét munkák irányításában, al- és felépítményi hiányosságok szakszerű helyreállítását irányítja, kivitelezi. Részt vesz a hiba és zavarelhárító, valamint a hókészenléti szolgálatban. Elősegíti a rendkívüli események, meghibásodások miatt bekövetkezett zavarok elhárítását a vasúti forgalom biztosítása érdekében. |
 
-| Területi Vontatás-szolgáltatási Központ (a továbbiakban: TVSZK) Központvezető | Vontatás-szolgáltatási tevékenység szervezése, irányítása és koordinálása. |
+| 29. | Művezető, ha elsodrási határon belül dolgozik | A forgalom és feszültség alattinak tekintendő pályán keletkezett, forgalmat akadályozó üzemzavarok feltárása, megszüntetése. Az ismételt forgalomba helyezés műszaki feltételeinek helyszíni biztosítása, a munkálatok szakterületi irányítása. |
 
-| Vontatás-szolgáltatási Telephelyvezető |
+| 30. | Vasúti járművezető (Villamos hajtású, dízel, gőz- és gőzakkumulátoros) | Az önjáró fogaskerekű vasúti járművek (motorkocsi, mozdony, munkagép) vezetője. Feladata a járművezetői teendők elvégzésén kívül azoknál a vonatoknál, amelyek vonatvezető, vagy vezető-jegyvizsgáló nélkül közlekednek, a vonatkísérői ténykedések elvégzése is. Vonatvezető nélküli közlekedés esetében a vonatszemélyzet rendelkezésre jogosult vezetője. |
 
-| Vontatási vezetőmérnök, vontatási technológus |
+| 31. | Saját géperejű vasúti munkagép-vezető | Fogaskerekű vasúti jármű önálló vezetése |
 
-| Mozdonyfelvigyázó | A kijelölt telephelyen a felügyelete alá tartozó vontatási utazószemélyzet irányítása, ellenőrzése, valamint a rendelkezésre álló eszközpark felügyelete a vontatási szolgáltatások biztosítására. Az üzemmenetben bekövetkezett zavar esetében a területére vonatkozóan operatív intézkedések tétele annak érdekében, hogy a vonatközlekedés minél hamarabb tervszerű legyen. |
+| 32. | Vasúti vágánygépkocsi-vezető |
 
-| Vontatási reszortos | Vontatójárművek és vasútijármű vezetők felügyelete. |
+| 33. | Motoros hajtányvezető |
 
-| Fordítókorong-kezelő | A fordítókorong üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
+| 34. | Hajtányvezető |
 
-| Tolópad-vezető, kezelő | A tolópad üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
+| 35. | Közúti-vasúti kétéltű járművezető | Közúti-vasúti (kétéltű) járművek vezetése. |
 
-## B) Elővárosi, városi és helyi vasúti pályahálózat
+## C) Bányavasúti pályahálózat
 
-## I. Elővárosi vasúti pályahálózat
+|  | A | B |
 
-| Jegyvizsgáló | A jegyvizsgáló személyszállító vonaton – a kereskedelmi tevékenységén kívül – szükség esetén fékezési, figyelési és fedezési feladatokat végez. |
+| 1. | Vasúti járművezető (Villamos, dízel, gőz- és gőzakkumulátoros meghajtású) | A vasúti jármű üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása. |
 
-| Váltókezelő (központi állítású) | A helyszíni vagy központi állítású váltók állításával, ellenőrzésével, őrzésével, továbbá a helyi viszonyokhoz mérten esetleg gondozásával és az egyes állomásokon a helyhez kötött jelzők kezelésével is megbízott dolgozó, tekintet nélkül arra, hogy milyen elnevezésű szolgálati helyen végez szolgálatot. |
+## D) Mozgólépcső, tolópad és fordítókorong
 
-## II. Városi és helyi vasúti pályahálózat
+|  | A | B |
 
-## a) Földalatti vasúti pályahálózat (metró)
+| 1. | Mozgólépcső (mozgójárda) kezelő | A mozgólépcső üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása. |
 
-| Központi utasforgalom-irányító diszpécser (KUD) | A központi utasforgalom-irányító diszpécser (KUD) az állomások forgalmi jellegű távfelügyeleti feladatait látja el, a rendelkezésére álló technikai berendezésein keresztül. Ellenőrzi és irányítja az állomási diszpécserek munkáját, közvetlen felettese a központi forgalmi menetirányító. |
+| 2. | Mozgólépcső-üzemvezető |
 
-| Műszakvezető diszpécser | Állomási dolgozók szolgálati elöljárója, rendkívüli esetben a Központi forgalmi menetirányító (KFM) megbízottjaként helyszíni feladatok ellátására kirendelhető. |
+| 3. | Tolópad-vezető | A tolópad üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
 
-| Állomási diszpécser | A rendelkezésére álló technikai eszközök segítségével irányítja és ellenőrzi az állomás utasforgalmát, üzemelteti a felügyelete alá tartozó mozgólépcsőket. |
+| 4. | Fordítókorong-kezelő | A fordítókorong üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
 
-| Peronőr | Az állomásokon utasirányítói és ügyeletesi szolgálatot lát el. |
+## E) Különleges kötöttpálya-hálózat
 
-| Kocsiszíni diszpécser | A kocsiszíni diszpécser az utazóforgalmi dolgozók szolgálati elöljárója. A vonatszemélyzetek a kocsiszíni diszpécsernél jelentkeznek szolgálatra, a szolgálati beosztással kapcsolatban rendelkezési joga van. Szervezi a szükséges kocsiszíni tolatási mozgásokat, illetve a kocsiszíni ki- és beállások rendjét. |
+|  | A | B |
 
-| Járművezető instruktor | Az utazó forgalmi dolgozók szolgálati elöljárója. Ellenőrzi a vonatszemélyzetek munkáját, a motorkocsik műszaki állapotával kapcsolatos kérdésekben döntési és rendelkezési joga van. Rendkívüli esetben a központi forgalmi menetirányító megbízottjaként helyszíni feladatok ellátására kirendelhet. |
+| 1. | Különleges kötöttpályás közlekedési szakmai oktató, ha elsodrási határon belül dolgozik | A képzőszervezet, valamint a különleges kötöttpályás társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
 
-## b) Milleniumi (földalatti) vasút
+## F) Minden vasúti pályahálózat, kivéve a különleges kötöttpálya-hálózat
 
-| Központi forgalmi menetirányító | Az egész vonal forgalmának egyszemélyi felelős irányítója, aki a rendelkezésére álló technikai berendezések segítségével irányítja és ellenőrzi a vonatok forgalmának biztonságos és menetrendszerű lebonyolítását. |
+|  | A | B |
 
-| Központi utasforgalom-irányító diszpécser (KUD) | Központi diszpécser a rendelkezésére álló technikai berendezések segítségével irányítja és ellenőrzi az állomások utasforgalmát, üzemelteti a felügyelete alá tartozó berendezéseket, valamint szervezi az üzemszüneti munkákat. |
+| 1. | Vasútszakmai oktató (forgalmi, műszaki oktató) | A képzőszervezet, vagy vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
 
-| Műszakvezető diszpécser | Műszakvezető diszpécser a térfelvigyázók és a járművezetők szolgálati elöljárója. A járművek műszaki állapotával kapcsolatban rendelkezési jog illeti meg. |
-
-| Peronőr | Az állomásokon utasirányítói és ügyeletesi szolgálatot lát el. |
-
-## C) Mozgólépcső, tolópad és fordítókorong
-
-| Mozgólépcső (mozgójárda) kezelő | A mozgólépcső üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása. |
-
-| Mozgólépcső-üzemvezető |  |
-
-| Tolópad-vezető | A tolópad üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
-
-| Fordítókorong-kezelő | A fordítókorong üzemeltetése, megindítása, megállítása, felügyelete, az üzembiztos állapot biztosítása, a csörlő működtetése. |
-
-2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^39]
+2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^60]
 
 ## Egészségi alkalmasságot kizáró, korlátozó állapotok, fogyatékosságok és betegségek előzetes egészségi alkalmassági vizsgálatok során (BNO X.)
 
@@ -550,4 +714,4 @@ c) sérülés utáni – a munkakör ellátását akadályozó funkciózavart ok
 
 (16) Fertőző betegségek (B2000-B2400; B1500-B1990; A5100-A5390; D8000-D8990)
 
-[^39]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.
+[^60]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.

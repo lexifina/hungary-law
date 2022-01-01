@@ -4,8 +4,10 @@
 
 (3) A pszichológus a vizsgálat során:
 
-a) mozdonyvezető és egyéb vasúti járművezető esetében a vizsgálatok eredményeit a közlekedési magatartásra gyakorolt befolyásuk jellege és mértéke alapján értékeli,
+a)[^29] vasúti járművezető és egyéb vasúti járművezető esetében a vizsgálatok eredményeit a közlekedési magatartásra gyakorolt befolyásuk jellege és mértéke alapján értékeli,
 
 b) szélsőséges vagy ellentmondásos esetben a részvizsgálatokat megismételheti, illetőleg kiegészítő vizsgálatokat végezhet,
 
 c) elmekórra, személyiségzavarokra utaló adat, valamint alkoholizmus és narkománia gyanúja esetén javasolhatja a vizsgált személy pszichiátriai szakrendelésre történő beutalását.
+
+[^29]: A 19. § (3) bekezdés a) pontja a 789/2021. (XII. 27.) Korm. rendelet 29. § f) pontja szerint módosított szöveg.

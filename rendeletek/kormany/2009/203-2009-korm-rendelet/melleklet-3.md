@@ -1,3 +1,3 @@
-3. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^40]
+3. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^61]
 
-[^40]: A 3. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
+[^61]: A 3. melléklet a 789/2021. (XII. 27.) Korm. rendelet 28. § b) pontjával megállapított szöveg.

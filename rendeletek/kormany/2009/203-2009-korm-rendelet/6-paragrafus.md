@@ -4,23 +4,24 @@
 
 6. § (1) Előzetes vizsgálatot kell végezni:
 
-a)[^5] a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatni kívánt személynél a munkaviszony vagy munkavégzésre irányuló egyéb jogviszony (a továbbiakban együtt: munkaviszony) létesítését megelőzően, kivéve, ha az új munkáltató a munkavállalót a vasúti közlekedés biztonságával összefüggő azonos munkakörben foglalkoztatja,
+a)[^10] a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatni kívánt személynél a munkaviszony vagy munkavégzésre irányuló egyéb jogviszony (a továbbiakban együtt: munkaviszony) létesítését megelőzően, kivéve, ha az új munkáltató a munkavállalót a vasúti közlekedés biztonságával összefüggő azonos munkakörben foglalkoztatja,
 
-b) fennálló munkaviszony esetében, valamely alacsonyabb munkaköri csoportba sorolt alkalmassági követelményeket támasztó munkakörből magasabb alkalmassági követelményeket támasztó munkakörbe történő áthelyezés előtt,
+b)[^11] fennálló munkaviszony esetében, a vasúti közlekedés biztonságával összefüggő munkakörből eltérő kockázati tényezőket, megterhelést jelentő, vasúti közlekedés biztonságával összefüggő munkakörbe történő áthelyezés előtt,
 
 c) egyéb munkakörből, a vasúti közlekedés biztonságával összefüggő munkakörbe történő áthelyezés előtt,
 
-d)[^6] a vasúti közlekedés biztonságával összefüggő munkakörben hat hónapot meghaladó keresőképtelenség után ismételten foglalkoztatni kívánt személynél a munkavégzés megkezdését megelőzően.
+d)[^12] a vasúti közlekedés biztonságával összefüggő munkakörben hat hónapot meghaladó keresőképtelenség után ismételten foglalkoztatni kívánt személynél a munkavégzés megkezdését megelőzően.
 
-(2)[^7] Előzetes szakmai alkalmassági vizsgálatot kell végezni:
+(2)[^13] Előzetes szakmai alkalmassági vizsgálatot kell végezni:
 
-a)[^8] a szakképzési munkaszerződés megkötése előtt,
+a)[^14] a szakképzési munkaszerződés megkötése előtt,
 
 b) az iskolai rendszeren kívül jóváhagyott szakképzésben résztvevő munkavállaló esetében a gyakorlati képzés megkezdése előtt,
 
 c) a közép- és felsőfokú oktatásban részt vevő tanuló vagy hallgató esetében a tanulmányi ösztöndíjszerződés megkötése előtt.
 
-[^5]: A 6. § (1) bekezdés a) pontja a 324/2012. (XI. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^6]: A 6. § (1) bekezdés d) pontja a 259/2017. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^7]: A 6. § (2) bekezdése a 291/2014. (XI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^8]: A 6. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.
+[^10]: A 6. § (1) bekezdés a) pontja a 324/2012. (XI. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: A 6. § (1) bekezdés b) pontja a 789/2021. (XII. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^12]: A 6. § (1) bekezdés d) pontja a 259/2017. (IX. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 6. § (2) bekezdése a 291/2014. (XI. 26.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 6. § (2) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 46. § (1) bekezdésével megállapított szöveg.

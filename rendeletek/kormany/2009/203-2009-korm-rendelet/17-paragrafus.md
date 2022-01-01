@@ -1,23 +1,33 @@
 17. § (1) A pszichológiai vizsgálat tartalmát és értékelési eljárását a vizsgálatot végző pszichológus határozza meg, figyelembe véve a végzett tevékenységet és a vasúti közlekedés sajátosságait, jellemzőit.
 
-(2) A vizsgálat legalább az egyes biztonsági funkciók követelményeivel kapcsolatos alábbi feltételek vizsgálatára terjed ki:
+(2)[^28] A vizsgálat legalább az egyes biztonsági funkciók követelményeivel kapcsolatos alábbi feltételek vizsgálatára terjed ki:
 
-a) exploráció-anamnézis,
+a) kognitív feltételek
 
-b) figyelem és koncentráció,
+aa) figyelem és koncentrálás,
 
-c) pszichomotoros gyorsaság,
+ab) memória,
 
-d) közvetlen memória,
+ac) felfogóképesség,
 
-e) megfigyelő- és felfogóképesség,
+ad) logikai képesség és
 
-f) pszichovegetatív paraméterek,
+ae) kommunikáció,
 
-g) megosztott figyelem és összpontosítási készség,
+b) pszichomotoros feltételek
 
-h) szenzomotoros koordináció, reakcióképesség,
+ba) reakciósebesség és
 
-i) intelligencia szint,
+bb) mozgáskoordináció,
 
-j) személyiség projektív tesztek és kérdőívek (érzelmi önkontroll, viselkedési megbízhatóság, önállóság, lelkiismeretesség, interperszonális hatékonyság, kiegyensúlyozottság, szociális ügyesség, önbizalom, felelősségtudat, intellektuális hatékonyság, a teljesítmény motivációs háttere, az érdeklődés irányultsága, tolerancia szint stb.) kitöltése alapján.
+c) viselkedési és személyiségi feltételek
+
+ca) érzelmi önkontroll,
+
+cb) viselkedési megbízhatóság,
+
+cc) önálló feladatvégzés és
+
+cd) a tevékenység szempontjából jelentős személyiségvonások (különösen a lelkiismeretesség).
+
+[^28]: A 17. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 22. §-ával megállapított szöveg.

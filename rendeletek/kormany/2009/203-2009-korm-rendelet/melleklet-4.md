@@ -1,137 +1,29 @@
-## A) Előzetes egészségi alkalmassági vizsgálatnál megkívánt érzékszervi alkalmassági követelmények
-
-## I. munkaköri csoport esetében
+## Egészségi alkalmassági vizsgálatnál megkívánt érzékszervi alkalmassági követelmények
 
 ## 1. Látási követelmények:
 
-## a) Látásélesség 1,8 (minimum = 1,0 – gyengébbik szemen = 0,8);
+## a) látásélesség segédeszközzel vagy anélkül minimum: 0,8 (jobb szem) legalább 0,3 a rosszabb szem esetében,
 
-## b) biztos színérzés szükséges (anomaloscopos megerősítés);
+## b) a korrekciós lencse maximális dioptriája: távollátás: +5, rövidlátás: –8,
 
-## c) ép látótér és adaptációs képesség mellett stereoscopos látás;
+## c) közepes távolságú és közeli látás: segédeszközzel vagy anélkül megfelelő,
 
-## d) szemlencse-beültetés után alkalmassági vizsgálat évente szemész szakorvosi ellenőrzés;
+## d) kontaktlencse használata engedélyezett,
 
-## 2. Hallási követelmények:
+## e) normális színlátás: Ishihara teszt, szükség esetén anomaloscopos vizsgálat,
 
-## a) ép dobhártya, a súgott beszéd megértése 5 m-ről;
+## f) látómező: normális,
 
-## b) a légvezetéses küszöbérték átlaga (250–2000 Hz között) max. 20 dB
+## g) kétoldali látás: megfelelő,
 
-## II. munkaköri csoport esetében
+## h) kontrasztérzékenység: jó,
 
-## 1. Látási követelmények:
+## i) progresszív szembetegség hiánya,
 
-## a) Látásélesség 1,7 (minimum = 1,0 – gyengébbik szemen = 0,7);
+## j) beültetett szemlencse, a lézer nélküli vagy lézeres látóélesség-javító műtét után évente szemész szakorvosi ellenőrzés szükséges.
 
-## b) szemüveg: +3,0 D-ig, –5,0 D-ig terjedő szférikus és/vagy cylindrikus üveg;
+## 2. Hallási követelmények: audiológiai vizsgálattal (audiogram) kell igazolni, hogy megfelelő a hallás a telefonbeszélgetések lefolytatásához, valamint a figyelmeztető hangjelzések és rádióüzenetek meghallásához. Hallókészülék használata megengedett.
 
-## c) kontaktlencse használata szemész véleményezésével engedélyezett;
+4. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^62]
 
-## d) biztos színérzés szükséges (anomaloscopos megerősítés);
-
-## e) ép látótér és adaptációs képesség mellett stereoscopos látás;
-
-## f) szemlencse-beültetés után alkalmassági vizsgálat évente szemész szakorvosi ellenőrzés;
-
-## 2. Hallási követelmények:
-
-## a) ép dobhártya, a súgott beszéd megértése 5 m-ről;
-
-## b) a légvezetéses küszöbérték átlaga (250–2000 Hz között) max. 20 dB
-
-## III. munkaköri csoport esetében
-
-## 1. Látási követelmények:
-
-## a) Látásélesség 1,3 (minimum = 0,8 – gyengébbik szemen = 0,5);
-
-## b) szemüveg: +4,0 D-ig, –7,0 D-ig terjedő szférikus és/vagy cylindrikus üveg;
-
-## c) kontaktlencse használata szemész véleményezésével engedélyezett;
-
-## d) biztos színérzés szükséges (anomaloscopos megerősítés);
-
-## e) ép látótér és adaptációs képesség mellett stereoscopos látás;
-
-## f) szemlencse-beültetés után alkalmassági vizsgálat évente szemész szakorvosi ellenőrzés;
-
-## 2. Hallási követelmények:
-
-## a) ép dobhártya, a súgott beszéd megértése 5 m-ről;
-
-## b) a légvezetéses küszöbérték átlaga (250–2000 Hz között) max. 20 dB
-
-## B)[^41] Időszakos és soron kívüli egészségi alkalmassági vizsgálat alkalmával megkívánt érzékszervi egészségi alkalmassági követelmények
-
-## I. munkaköri csoport esetében
-
-## 1. Látási követelmények:
-
-## a) Látásélesség 1,2 (minimum = 0,7 – gyengébbik szemen = 0,5);
-
-## b) szemüveg: +3,0 D-ig, –5,0 D-ig terjedő szférikus és/vagy cylindrikus üveg;
-
-## c) biztos színérzés szükséges (anomaloscopos megerősítés csak indokolt esetben);
-
-## d) ép látótér és adaptációs képesség mellett stereoscopos látás;
-
-## e) szemlencse-beültetés, keratotomia után évente alkalmassági vizsgálat, szemész szakorvosi ellenőrzéssel.
-
-## 2. Hallási követelmények:
-
-## a) ép dobhártya;
-
-## b) a súgott beszéd megértése 4 m-ről;
-
-## c) a légvezetéses küszöbérték átlaga (250–2000 Hz között) max. 30 dB.
-
-## II. munkaköri csoport esetében
-
-## 1. Látási követelmények:
-
-## a) Látásélesség 1,2 (minimum 0,7 – gyengébbik szemen = 0,5);
-
-## b) szemüveg: +4,0 D-ig, –6,0 D-ig terjedő szférikus és/vagy cylindrikus üveg;
-
-## c) kontaktlencse használata szemész véleményezésével, a foglalkozás-egészségügyi orvos jóváhagyásával engedélyezett;
-
-## d) biztos színérzés szükséges (anomaloscopos megerősítés csak indokolt esetben);
-
-## e) ép látótér és adaptációs képesség mellett stereoscopos látás;
-
-## f) szemlencse-beültetés, keratotomia után évente alkalmassági vizsgálat, szemész szakorvosi ellenőrzéssel.
-
-## 2. Hallási követelmények:
-
-## a) ép dobhártya, a súgott beszéd megértése 4 m-ről;
-
-## b) a légvezetéses küszöbérték átlaga (250–2000 Hz között) max. 30 dB;
-
-## c) nem lehet krónikus beszédzavar (amennyiben az üzeneteket hangosan és tisztán kell váltani).
-
-## III. munkaköri csoport esetében
-
-## 1. Látási követelmények:
-
-## a) Látásélesség = 0,8 (minimum 0,5 – gyengébbik szemen 0,3);
-
-## b) szemüveg: +5,0 D-ig, –8,0 D-ig terjedő szférikus és/vagy cylindrikus üveg;
-
-## c) kontaktlencse használata szemész véleményezésével, a foglalkozás-egészségügyi orvos jóváhagyásával engedélyezett;
-
-## d) biztos színérzés szükséges (anomaloscopos megerősítés csak indokolt esetben);
-
-## e) ép látótér és adaptációs képesség mellett stereoscopos látás;
-
-## f) szemlencse-beültetés, keratotomia után évente alkalmassági vizsgálat, szemész szakorvosi ellenőrzéssel.
-
-## 2. Hallási követelmények:
-
-## a) ép dobhártya, a súgott beszéd megértése 3 m-ről;
-
-## b) a légvezetéses küszöbérték átlaga (250–2000 Hz között) max. 30 dB-t meghaladja, de nem érheti el a 40 dB-t az egyik fül szükség esetén hallókészülékkel javítható, amennyiben a környezet zajszintje a 65 dB-t nem haladja meg.
-
-4. melléklet a 203/2009. (IX. 18.) Korm. rendelethez
-
-[^41]: A 3. melléklet b) része a 259/2017. (IX. 11.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^62]: A 4. melléklet a 789/2021. (XII. 27.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.

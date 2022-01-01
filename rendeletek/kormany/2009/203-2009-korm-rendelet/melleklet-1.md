@@ -1,5 +1,3 @@
-## való megfelelést szolgálja.
+1. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^59]
 
-1. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^38]
-
-[^38]: Az 1. melléklet a 324/2012. (XI. 16.) Korm. rendelet 4. § b) pontja, a 193/2016. (VII. 13.) Korm. rendelet 14. § b) pontja és 15. § b) pontja, a 259/2017. (IX. 11.) Korm. rendelet 5. § (1) bekezdése és 6. §-a szerint módosított szöveg.
+[^59]: Az 1. melléklet a 789/2021. (XII. 27.) Korm. rendelet 28. § a) pontjával megállapított szöveg.

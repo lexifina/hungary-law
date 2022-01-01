@@ -8,8 +8,20 @@ b) a forgalom biztonságát veszélyeztető helyzetet idéz elő, balesetet okoz
 
 c) heveny foglalkozási betegség gyanúja, fokozott káros expozíciója, eszméletvesztése, vagy betegsége, rosszulléte következett be,
 
-d)[^13] egészségkárosodás mértékének megállapítása céljából orvosi vizsgálaton vett részt.
+d)[^25] egészségkárosodás mértékének megállapítása céljából orvosi vizsgálaton vett részt.
 
-(2) A munkavállaló bármely, harminc naptári napot meghaladó keresőképtelensége után soron kívüli vizsgálatra köteles. A vizsgálat ebben az esetben korlátozódhat a munkavállaló által kötelezően bemutatandó, a keresőképtelenségre vonatkozó orvosi dokumentáció foglalkozás-egészségügyi orvos által történő megvizsgálására, amennyiben e vizsgálat elégséges annak megállapítására, hogy a munkavállaló munkaalkalmassága nem változott.
+(2)[^26] A vasúti járművezető a meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatra köteles jelentkezni, ha az utolsó egészségi alkalmassági vizsgálata óta
 
-[^13]: A 13. § (1) bekezdés d) pontja az 517/2017. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+a) a munkavégzés során eszméletvesztéssel járó rosszulléte vagy sérülése volt,
+
+b) látásélességében látásjavító eszközzel nem javítható rosszabbodás, vagy hallásában a forgalom menetének észlelését zavaró csökkenés állt be,
+
+c) orvosilag igazolt súlyos hipoglikémia fordult elő, vagy
+
+d) egészségi állapotában egyéb olyan állapotromlást észlel, amely a vasúti járművezetésre átmenetileg vagy véglegesen egészségi szempontból alkalmatlanná teheti.
+
+(3)[^27] Ha a munkavállaló kezdeményezi a soron kívüli egészségügyi alkalmassági vizsgálatot, azt a munkáltató a foglalkozás- egészségügyi orvos egyetértésével rendeli el.
+
+[^25]: A 13. § (1) bekezdés d) pontja az 517/2017. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^26]: A 13. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^27]: A 13. § (3) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 21. §-a iktatta be.
