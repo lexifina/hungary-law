@@ -1,5 +1,7 @@
 32. § (1) Az úthálózat közutakból és a közforgalom elől el nem zárt magánutakból áll. Az országos közúthálózat az állam tulajdonában, a helyi közúthálózat a települési vagy területi önkormányzat tulajdonában van. Magánútnak minősülnek a természetes személyek és a jogi személyek tulajdonában álló területen lévő utak. Magánútnak minősül továbbá az állam vagy az önkormányzat tulajdonában álló területen lévő, közforgalom elől elzárt út, az ingatlan-nyilvántartásban „kivett, saját használatú út” megnevezéssel nyilvántartott ingatlanon vezető út, továbbá az állam tulajdonában és a vízügyi igazgatási szerv kezelésében vagy vagyonkezelésében lévő elsőrendű árvízvédelmi fővonalakon a kerékpáros-forgalom számára megnyitott út.
 
+(1a) A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott telekalakítás ingatlan-nyilvántartásban történő átvezetésének nem akadálya, ha az összevonandó és az ingatlan-nyilvántartásban útként nyilvántartott ingatlanoknak az (1) bekezdés szerinti minősítése és a tulajdoni viszonya nincs összhangban.
+
 (2) A közutakat az ingatlan-nyilvántartásban közútként kell feltüntetni. Közútnak kell tekinteni az állam vagy az önkormányzat tulajdonában álló területen lévő, de az ingatlan-nyilvántartásban nem közútként feltüntetett
 
 a) hidakon vezetett utakat, alagútban vezetett utakat,
@@ -22,4 +24,4 @@ d) a közparkokban és a telepszerű beépítésű lakóövezetben elhelyezhető
 
 (5)
 
-(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak, valamint a koncessziós társaságok kezelésében álló közutak kivételével – a Magyar Közút Nonprofit Zrt., amely a vagyonkezelői feladatokat – ideértve a vagyonkezelésében álló vagyonelemek hasznosítását is – állami feladatként, közfeladatként látja el.
+(6) Az állami tulajdonban lévő országos közutak vagyonkezelője – a 29. § (1) bekezdésében foglaltak kivételével – az országos közúthálózat vagyonkezelési feladatainak ellátásáért felelős gazdasági társaság vagy szerv (a továbbiakban: a közútkezelő gazdasági társaság), amelyet a Kormány az e törvény végrehajtására kiadott rendeletében jelöl ki. A közútkezelő gazdasági társaság vagyonkezelői feladatokat – ideértve a vagyonkezelésében álló vagyonelemek hasznosítását is – állami feladatként, közfeladatként látja el.

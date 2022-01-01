@@ -6,7 +6,7 @@
 
 a) a Kormány, hogy
 
-1. a szakirányú továbbképzés és az utánképzés általános szabályai
+1. a szakirányú továbbképzés és az utánképzés általános szabályait
 
 2. a kombinált fuvarozási tevékenység szabályait,
 
@@ -24,7 +24,7 @@ a) a Kormány, hogy
 
 9. a közúti közlekedés szabályait,
 
-10. a típusvizsgáló engedélyezésének részletes eljárási szabályait, a típusvizsgálóval kötendő hatósági szerződés tartalmát, továbbá az engedélyezett járműtípusokkal, a jóváhagyásra kötelezett alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzésekre kijelölt műszaki szolgálatokra vonatkozó követelményeket és a kijelölés eljárási szabályait,
+10. a típusvizsgáló és a járműforgalmazó tényállás tisztázásában történő közreműködése engedélyezésének részletes eljárási szabályait, továbbá az engedélyezett járműtípusokkal, a jóváhagyásra kötelezett alkatrészekkel, tartozékokkal és önálló műszaki egységekkel kapcsolatos ellenőrzésekre kijelölt műszaki szolgálatokra vonatkozó követelményeket és a kijelölés eljárási szabályait,
 
 11. a közúti szállítmányozási tevékenység szabályait,
 
@@ -109,6 +109,18 @@ a) a Kormány, hogy
 49. a közút nem közlekedési célú igénybevétele esetén az igénybe vevő óvadékfizetési kötelezettségének részletes szabályait
 
 50. a helyi önkormányzati tulajdonban álló ingatlanra történő belépés és az előzetes tájékoztatás feltételeit, valamint a helyi önkormányzat tűrési kötelezettségét
+
+51. az országos közúthálózat fejlesztési és építtetői feladatainak ellátásáért felelős közútfejlesztési gazdasági társaság vagy szerv kijelölésére, valamint feladat- és hatáskörére irányadó szabályokat,
+
+52. az országos közúthálózat vagyonkezelési feladatainak ellátásáért felelős közútkezelő gazdasági társaság vagy szerv kijelölésére, valamint feladat- és hatáskörére irányadó szabályokat,
+
+53. a nemzeti vagyonról szóló törvény szerinti kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog gyakorlásához szükséges, a magyar állam nevében történő ingatlantulajdon-szerzés során eljáró állami tulajdonú gazdasági társaságot,
+
+54. a járművezetői vizsgabiztosok, a műszaki vizsgabiztosok, a szakoktatók és az iskolavezetők, valamint az utánképzési foglalkozásvezetők képzését és továbbképzését ellátó állami tulajdonú gazdasági társaságot,
+
+55. az országos közutak meghatározott időtartamban történő használatáért felszámított díjak (pótdíjak) beszedésének feladatait, a használati díjak megfizetéséhez kapcsolódó, jogszabályban meghatározott korrekciós szolgáltatásokat, szolgáltatás jellegű feladatokat, valamint a díjellenőrzési létesítmények üzemeltetését, működtetését ellátó útdíjszolgáltatási gazdasági társaságot,
+
+56. a közúti hírközlő hálózat vagyonkezelési feladatait ellátó hálózatkezelő gazdasági társaságot
 
 b) a miniszter, hogy
 
@@ -260,11 +272,17 @@ mc) a Nemzeti Adó- és Vámhivatalt irányító miniszter, hogy a Nemzeti Adó-
 
 n) a közlekedésért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerinti auditori tevékenység bejelentésére vonatkozó igazgatási szolgáltatási díjat, valamint a díj beszedésével, kezelésével, továbbá a nyilvántartásával és visszatérítésével kapcsolatos szabályokat,
 
-o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésben említett formanyomtatványt,
+o) a közlekedésrendészetért felelős miniszter, hogy a 21/B. § (3) bekezdésében említett, a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványt,
 
 p) a miniszter, hogy a közúti jármű előéleti nyilvántartás vezetésével kapcsolatos feltételeket
 
+q) a miniszter, hogy a 21/B. § (3) bekezdésében említett, az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítése során alkalmazandó formanyomtatványt,
+
+r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért felelős miniszter, hogy a feladat- és hatáskörébe tartozó tevékenységhez kapcsolódó, továbbá a járműre szerelt, önjáró, vagy vontatott, valamint emelő-, rakodó gépek, az egyes technológiai műveletekben részfeladatokat ellátó, stabil kivitelezésű – telepített – gépsorok részét képező gépeket működtető gépkezelők képzésére és vizsgáztatására vonatkozó szabályokat
+
 rendeletben állapítsa meg.
+
+(3a) Felhatalmazást kap a Kormány, hogy a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének, valamint az utazó munkavállalók, a kabotázstevékenység és a közúti szállítás kiküldetési előírásai megtartásának ellenőrzésére vonatkozó szabályokat rendeletben állapítsa meg.
 
 (4) A Kormány a (3) bekezdés a) pontjában, a miniszter pedig a (3) bekezdés b) pontjában kapott felhatalmazás alapján kiadott jogszabályban a járdákra és azok tartozékaira e törvénynek az utakra vonatkozó szabályaitól eltérő rendelkezéseket is megállapíthat.
 

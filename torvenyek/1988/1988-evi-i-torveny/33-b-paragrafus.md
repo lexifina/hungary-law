@@ -14,6 +14,6 @@
 
 (7)
 
-(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelő, valamint a NÚSZ Zrt. jogosult.
+(8) A használati díj tekintetében díjellenőrzésre a közlekedési hatóság és a 33. § (1) bekezdés b) pont ba) alpontja szerinti közútkezelő, valamint a útdíjszolgáltatási gazdasági társaság jogosult.
 
 (9)

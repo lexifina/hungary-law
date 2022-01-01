@@ -122,7 +122,7 @@ e) az (1) bekezdés k) pontja tekintetében a rendőrség
 
 f) az (1) bekezdés kg) pontja tekintetében a közterület-felügyelet is,
 
-g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NÚSZ Zrt.),
+g) az (1) bekezdés m) pontja tekintetében a rendőrség, a közlekedési hatóság és a Kormány rendeletében kijelölt, útdíjszolgáltatási tevékenységet ellátó állami tulajdonú gazdasági társaság (a továbbiakban: útdíjszolgáltatási gazdasági társaság),
 
 h) az (1) bekezdés n) pontja tekintetében a közlekedési hatóság, a rendőrség, a vámhatóság és a katasztrófavédelmi hatóság, az (1) bekezdés o) pontja tekintetében a közlekedési hatóság
 

@@ -16,7 +16,7 @@ b) az a) pontban meghatározottakkal összefüggésben az állami adó- és vám
 
 (2) Az ED törvényben meghatározott UD rendszer üzemeltetője az (1) bekezdésben meghatározott feladatok ellátásában közreműködik, amelynek során jogosult az ellenőrzési rendszerei által észlelt járművek össztömegére és tengelyterhelésére, a jármű tengelyeinek számára, a tengelyek közötti távolságára és sebességére vonatkozó adatokat rögzíteni és azokat a Nemzeti Tengelysúlymérő Rendszer részére közvetlen adatkapcsolat útján az érintett járműről és annak hatósági jelzéséről készített képfelvételekkel, valamint a jármű rendszámára, honosságára vonatkozó adatokkal kiegészítve, az észlelés helyének és időpontjának megjelölésével átadni.
 
-(2a) A közreműködő felelős azért, hogy az átadott adatok joghatással járó mérés eredményeként előállított, hatósági eljárás lefolytatását megalapozó, bizonyító erővel bíró adatok legyenek. A NÚSZ. Zrt. és a hatóság közötti, a Nemzeti Tengelysúlymérő rendszer keretében végmenő, zárt, közvetlen adatkapcsolaton keresztül történő adatátadás az e § szerinti eljárás tekintetében kötelező erejű okirati bizonyítéknak tekintendő.
+(2a) A közreműködő felelős azért, hogy az átadott adatok joghatással járó mérés eredményeként előállított, hatósági eljárás lefolytatását megalapozó, bizonyító erővel bíró adatok legyenek. A útdíjszolgáltatási gazdasági társaság és a hatóság közötti, a Nemzeti Tengelysúlymérő rendszer keretében végmenő, zárt, közvetlen adatkapcsolaton keresztül történő adatátadás az e § szerinti eljárás tekintetében kötelező erejű okirati bizonyítéknak tekintendő.
 
 (3) A közlekedési hatóság a Nemzeti Tengelysúlymérő Rendszer keretében kezeli a következő adatokat:
 
