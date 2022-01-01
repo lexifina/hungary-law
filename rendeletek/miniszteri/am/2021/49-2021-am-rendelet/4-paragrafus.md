@@ -1,1 +1,3 @@
-## „f) a 2. § (8d) bekezdésében foglalt támogatások igénybevételének jogosultságát a Nemzeti Élelmiszerlánc-biztonsági Hivatal által üzemeltetett, ügyfélkapun keresztül elérhető webENAR felületen közzétett és onnan letölthető, a mezőgazdasági vállalkozás saját tenyészetére vonatkozó – az 1. melléklet szerinti számítási módszertan alapján meghatározott, átlagos állategységben kifejezett sertésállományról szóló – dokumentum nyomtatott és a mezőgazdasági vállalkozás által aláírt példányának az igénylőlaphoz történő csatolásával igazolja a KAVOSZ Zrt. számára.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

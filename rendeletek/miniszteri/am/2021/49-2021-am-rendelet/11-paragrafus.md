@@ -1,9 +1,3 @@
-## 10. § A 47/2015. (VIII. 12.) FM rendelet 4. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+## 10. §[^11]
 
-## (A kamattámogatás igénybevételére az a vállalkozás jogosult, amely)
-
-## „d) csatolja a kamattámogatási kérelméhez a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott nyilatkozatokat, valamint
-
-## da) a 2. § (2) bekezdés d) vagy e) pontjában foglalt támogatás igénylése esetén a Kincstár honlapján elérhető ügyfélkapun keresztül kinyomtatott egységes kérelem ügyfél- és iratazonosításra vonatkozó, valamint az egységes kérelem kockázatkezelés szempontjából releváns terület alapján „ültetvény” besorolású terület területalapú támogatásának tábla adatait tartalmazó adatlapjait vagy a biztosítási díjtámogatás adatlapját, továbbá fóliás termesztés esetén az egységes kérelem fóliás termesztéssel érintett terület területalapú támogatásának tábla adatait tartalmazó adatlapjait, vagy a 65/2017. (XII. 22.) FM rendelet 1. melléklete alapján a NAK által kiállított igazolás másolati példányát,
-
-## db) a 2. § (2) bekezdés g) pontjában foglalt támogatás igénylése esetén a Nemzeti Élelmiszerlánc-biztonsági Hivatal által üzemeltetett, ügyfélkapun keresztül elérhető webENAR felületen közzétett és onnan letölthető, a vállalkozás saját tenyészetére vonatkozó – a 3. melléklet szerinti számítási módszertan alapján meghatározott, átlagos állategységben kifejezett sertésállományról szóló – dokumentum nyomtatott és a vállalkozás által aláírt példányát, és”
+[^11]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

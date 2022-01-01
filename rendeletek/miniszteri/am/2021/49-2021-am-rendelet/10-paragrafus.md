@@ -1,5 +1,3 @@
-## „g) az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 49/2021. (XII. 28.) AM rendelet hatálybalépését követő nap és 2022. június 30. között – határnapokat is beleértve – hatályba lépett, sertéstenyésztés felhasználási célú hitelszerződés esetén a támogatás mértéke minden megkezdett egész állategység után számított, állategységenként legfeljebb ötszázezer forint összegű hitel kamatfizetései tekintetében 100% kamattámogatás a hitel teljes futamidejére azzal, hogy a 100%-os kamattámogatáson felüli hitelösszeg vonatkozásában a kamattámogatás mértéke megegyezik a b) pontban foglalt mértékkel, és az a rá vonatkozó szabályok szerint vehető igénybe.
+## 9. §[^10]
 
-## (2) A 47/2015. (VIII. 12.) FM rendelet 2. §-a a következő (2a) bekezdéssel egészül ki:
-
-## „(2a) A (2) bekezdés g) pontja alkalmazásában amennyiben a hitel összege meghaladja a 100%-os kamattámogatásban részesíthető hitel összegét és a hitelhez az Agrár- Vállalkozási Hitelgarancia Alapítvány készfizető kezessége kapcsolódik, akkor a 100%-os kamattámogatásban részesíthető hitelösszegen felüli hitelre külön hitelszerződést kell kötni.”
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
