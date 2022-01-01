@@ -122,11 +122,11 @@ gm) vezénylések, kitüntetések, egyéb elismerések,
 
 gn) minősítésekre, teljesítményértékelésekre vonatkozó adatok,
 
-go) külföldi szolgálatteljesítésekre vonatkozó adatok,
+go) külföldi szolgálatteljesítésekre vonatkozó adatok, NATO menetparancs adatai,
 
 gp) tervezett és tényleges szabadságolási adatok, speciális jelenlétek és távollétek,
 
-gq) sebesülések,
+gq) sebesülések, harci cselekményben való részvételre, és annak során tanúsított kiemelkedő helytállásra, valamint sebesülésre vonatkozó adatok,
 
 gr) a szolgálati viszony meghosszabbítása,
 

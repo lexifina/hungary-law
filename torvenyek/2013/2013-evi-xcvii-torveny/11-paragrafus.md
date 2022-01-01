@@ -1,28 +1,34 @@
-11. § (1) A személyügyi szakterület által kezelt adatokhoz elektronikus úton közvetlenül hozzáférhetnek a 6. § (1) bekezdésében meghatározott hozzáférés szerinti mértékben és az annak alapjául szolgáló iratokba betekinthetnek a szolgálati viszonnyal, illetve az egyéb munkavégzésre irányuló jogviszonnyal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából
+11. § (1) A személyügyi szakterület által kezelt adatokhoz elektronikus úton közvetlenül hozzáférhetnek a 6. § (1) bekezdésében meghatározott hozzáférés szerinti mértékben és az annak alapjául szolgáló iratokba betekinthetnek az 1. § e) pontja szerinti foglalkoztatottak jogviszonyával, illetve az egyéb munkavégzésre irányuló jogviszonnyal, valamint az ösztöndíjakkal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása, továbbá statisztikai adatok előállítása, tervezési feladatok végrehajtása, a honvédelmi szervezetek jogi képviseletének ellátása céljából a feladata ellátáshoz szükséges mértékig
 
-a) a miniszter, a miniszter által vezetett minisztérium államtitkárai, közigazgatási államtitkára, helyettes államtitkárai, valamint a Magyar Honvédség parancsnoka és helyettesei, az altisztek vonatkozásában az MH vezénylő zászlós
+a) a miniszter, a miniszter által vezetett minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a Magyar Honvédség parancsnoka és helyettese, az altisztek vonatkozásában az MH vezénylő zászlós,
 
-b) vezénylés, kirendelés esetén a vezénylés, kirendelés helye szerinti honvédelmi szervezet személyügyi szerv kijelölt tagja,
+b) vezénylés, kirendelés esetén a vezénylés, kirendelés helye szerinti honvédelmi szervezet személyügyi szervének kijelölt tagja,
 
 c) az alárendeltjei vonatkozásában a teljesítményértékelést végző személy, a szolgálati elöljáró, az állományilletékes parancsnok, a vezénylő zászlós és a szakmai felelős,
 
-d) az állomány érintett tagjait illetően a fegyelmi, kártérítési, szabálysértési, büntető, méltatlansági, valamint a szociális ügyben eljáró személy vagy bizottság, munkacsoport tagjai, továbbá a panasz és beadvány elbírálásának előkészítésében eljáró személyek,
+d) az állomány érintett tagjait illetően a szolgálati panasz, a fegyelmi, a kártérítési, a szabálysértési, a büntető, a méltatlansági, valamint a szociális ügyben eljáró személy vagy bizottság, munkacsoport tagjai, továbbá a panasz és beadvány elbírálásának előkészítésében eljáró személyek,
 
 e) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző személy,
 
-f) a honvédelmi szervezetek jogi képviseletét ellátó szervezet kijelölt tagja,
+f) a honvédelmi szervezet jogi képviseletét ellátó szervezet kijelölt tagja,
 
-g) a honvédelmi szervezeteknél munkaügyi ellenőrzést végző szerv kijelölt tagja,
+g) a honvédelmi szervezetnél katonai foglalkoztatás felügyeleti hatósági ellenőrzést végző szerv kijelölt tagja,
 
 h) az államháztartási belső ellenőrzési tevékenységet végző személy,
 
-i) a Honvédség központi pénzügyi és számviteli feladatát ellátó honvédelmi szervezet, kijelölt tagja,
+i) a Honvédség központi pénzügyi és számviteli feladatát ellátó honvédelmi szervezet kijelölt tagja,
 
-j) a honvédelmi szervezeteknél az érintett illetmény számfejtését befolyásoló adatok tekintetében az illetményszámfejtést végző szerv kijelölt tagja,
+j) a honvédelmi szervezetnél az érintett illetmény számfejtését befolyásoló adatok tekintetében az illetményszámfejtést végző szerv kijelölt tagja,
 
-k) a Honvédség katonai igazgatási és központi adatfeldolgozó szerv kijelölt tagja adatfeldolgozói feladatai ellátásának mértékéig, és
+k) a Honvédség katonai igazgatási és központi adatfeldolgozó szerv kijelölt tagja adatfeldolgozói feladatai ellátásának mértékéig,
 
-l) az önkéntes tartalékos katonák adatai tekintetében a katonai igazgatás lakóhely szerint illetékes területi szerveinek kijelölt tagjai.
+l) a Honvédség haderőtervezési és szervezési feladatainak ellátásáért, valamint szervezet fejlesztéséért felelős szerv kijelölt tagja a haderőtervezési és szervezési feladatai végrehajtását befolyásoló adatok tekintetében,
+
+m) az önkéntes tartalékos katona adatai tekintetében a katonai igazgatás lakóhely szerint illetékes területi szervének kijelölt tagja,
+
+n) a miniszter által vezetett minisztérium humánpolitikai, tervezési és koordinációs, valamint kontrolling feladatokat ellátó önálló szervezeti egysége kijelölt tagja.
+
+(1a) A személyügyi szakterület a pénzügyi szakterület által végzett feladatainak ellátása érdekében továbbítja azokat a feladatai ellátásához szükség adatokat, amelyeket az a 14. melléklet szerint kezelhet.
 
 (2) A Kormány által rendeletben kijelölt honvédségi szervezet a Hjt. 46. § (1) bekezdés r) és s) pontja szerinti rendelkezési állományba áthelyezettek Hjt. 59. § (2) bekezdés c) pontja szerinti áthelyezésének elősegítése érdekében
 

@@ -1,25 +1,31 @@
 10. melléklet a 2013. évi XCVII. törvényhez
 
-A Honvédség által kezelhető adatok a jogviszony igazolását szolgáló igazolványok kiállításához
+A honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelés adatköre
 
-a) születési családi és utónév,
+1. születési családi és utónév,
 
-b) házassági, felvett családi és utónév,
+2. házassági, felvett családi és utónév,
 
-c) anya születési családi és utónevei,
+3. anya születési családi és utónevei,
 
-d) születési hely,
+4. születési hely,
 
-e) születési idő,
+5. születési idő,
 
-f) jogviszony megnevezése, katona esetében a rendfokozat is,
+6. jogviszony megnevezése, katona esetében a rendfokozat és a rendfokozatba helyezés ideje is, hatósági és ellenőri, katonai rendész vagy belföldi katonai futár igazolvány esetén a jogosultság kezdete,
 
-g) arckép,
+7. arckép,
 
-h) saját kezű aláírás,
+8. saját kezű aláírás,
 
-i) a nyugállomány tagja és a szolgálati járandóságra jogosult esetében az egyenruha-viseléssel összefüggő rendelkezés,
+9. a nyugállomány tagja és a szolgálati járandóságra jogosult esetében az egyenruha-viseléssel összefüggő rendelkezés,
 
-j) személyi azonosító,
+10. személyi azonosító,
 
-k)
+11. az igazolvány egyedi azonosítója és érvényességi ideje,
+
+12. az igazolvány vagy személyi igazolójegy kiállításának dátuma,
+
+13. az igazolvány vagy személyi igazolójegy igénylésének és bevonásának oka, az igazolvány vagy személyi igazolójegy elvesztéséről, eltulajdonításáról, megrongálódásáról vagy megsemmisüléséről, valamint az elveszett, eltulajdonított igazolvány megtalálásáról szóló jegyzőkönyv adatai
+
+14. a külszolgálatra tervezett állomány szolgálatteljesítésének kezdő és befejező dátuma.

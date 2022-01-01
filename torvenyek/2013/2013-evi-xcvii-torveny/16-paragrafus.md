@@ -18,7 +18,7 @@ d) az a)–c) pont szerint ellátásra jogosult hozzátartozóinak és
 
 e) az egyéb munkavégzésre irányuló jogviszony alapján foglalkoztatott állomány esetén a jogviszony megszűnését vagy megszüntetését követően, a Honvédséggel kötött egyéni megállapodás alapján
 
-társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának és folyósításának biztosítása, valamint elismerés adományozása.
+társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának és folyósításának biztosítása, elismerés adományozása, valamint az érintetti kör tájékoztatása tájékoztatók és honvédségi kiadványok megküldésével, az érintettek véleményének, álláspontjának kikérése, megismerése, valamint kiemelt eseményekről, különösen évfordulókról, emléknapokról történő megemlékezés köszöntő levelek megküldésével vagy személyes kapcsolattartással.
 
 (5) A (4) bekezdés d) pontja szerinti állomány esetén az érdekvédelmi szakterület számára előírt adatokat – az érintett hozzájárulásával – a Honvédség katonai igazgatási és központi adatfeldolgozó szerve rögzíti a HM KGIR adatbázisába.
 

@@ -1,8 +1,8 @@
 ## 6. A személyügyi nyilvántartás
 
-10. § (1) A személyügyi szakterület által kell kezelni a Honvédség személyi állománya, valamint ezek társadalombiztosítási, szociális vagy kegyeleti gondoskodásra jogosult hozzátartozóinak és az egyéb munkavégzésre irányuló jogviszonyban foglalkoztatottak 2. melléklet szerinti adatait.
+10. § (1) A személyügyi szakterület a Honvédség személyi állománya, valamint ezek társadalombiztosítási, szociális vagy kegyeleti gondoskodásra jogosult hozzátartozói és az egyéb munkavégzésre irányuló jogviszonyban foglalkoztatottak 2. melléklet szerinti adatait, valamint az ösztöndíjra jogosult, ösztöndíjban részesült érintettek (a továbbiakban: ösztöndíjban részesülő) 6/B. alcímben meghatározott adatait kezeli.
 
-(2) A személyügyi szakterület adatait személyi állománya vonatkozásában a honvédelmi szervezet és a Honvédség központi személyügyi feladatai elvégzésére kijelölt szervezete kezeli.
+(2) A személyügyi szakterület adatait – személyi állománya vonatkozásában – a honvédelmi szervezet és a Honvédség központi személyügyi feladatai elvégzésére kijelölt szervezete kezeli. Az ösztöndíjban részesülők adatait az ösztöndíj megállapítására és kifizetésének előkészítésére jogosult honvédelmi szervezet kezeli.
 
 (3) A (2) bekezdésben felsorolt adatkezelők közös adatkezelésük tartalmát, felelősségi köreiket szerződésben rögzítik.
 
@@ -15,6 +15,8 @@ a) a szolgálati viszonnyal, illetve az egyéb munkavégzésre irányuló jogvis
 b) a szolgálati viszonnyal, illetve az egyéb munkavégzésre irányuló jogviszonnyal összefüggő jogok gyakorolhatóságának és kötelezettségek teljesíthetőségének biztosítása,
 
 c) a hozzátartozót megillető társadalombiztosítási, szociális és kegyeleti gondoskodás megállapításának és folyósításának biztosítása.
+
+d) az ösztöndíjban részesülők esetében az ösztöndíj megállapítása, kifizetése, kifizetésének előkészítése és az adatok pénzügyi és számviteli feladatok ellátása érdekében történő továbbítása, nyilvántartása, valamint a kapcsolattartás.
 
 (6) A Honvédség személyi állománya adatait a szolgálati viszony, illetve az egyéb munkavégzésre irányuló jogviszony megszűnését vagy megszüntetését követően – a 13/A. § szerinti szolgálaton kívüliek állományába tartozók kivételével –
 

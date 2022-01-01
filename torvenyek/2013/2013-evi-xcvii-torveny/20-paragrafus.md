@@ -1,6 +1,6 @@
 ## 12. A Katonai Nemzetbiztonsági Szolgálat nyilvántartásaira vonatkozó sajátos szabályok
 
-20. § (1) A Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) állományának tagjairól vezetett adatokra a 4–11. alcím rendelkezéseit ebben az alcímben foglalt eltérésekkel kell alkalmazni.
+20. § (1) A KNBSZ állományának tagjairól vezetett adatokra a 4–11. alcím rendelkezéseit ebben az alcímben foglalt eltérésekkel kell alkalmazni.
 
 (2) A KNBSZ állományába tartozó személy a KNBSZ törvényben meghatározott nemzetbiztonsági feladatainak ellátása céljából a honvédelmi szervezetek valamennyi adatához közvetlenül hozzáférhet és az azok alapjául szolgáló iratokba betekinthet, azokról másolatot készíthet.
 

@@ -42,7 +42,7 @@ A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántar
 
 1.2.7. szolgálati, munkahelye,
 
-1.2.8. lakcíme,
+1.2.8. lakcíme, nagykorú személy esetén e-mail címe,
 
 1.2.9. rokonsági foka,
 
@@ -92,7 +92,7 @@ A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántar
 
 2.2.7. szolgálati-, munkahelye;
 
-2.2.8. lakcíme;
+2.2.8. lakcíme, nagykorú személy esetén e-mail címe,
 
 2.2.9. rokonsági foka;
 
@@ -142,7 +142,7 @@ A regenerálódási és rekreációs szolgáltatásokkal kapcsolatos nyilvántar
 
 3.2.7. szolgálati-, munkahelye,
 
-3.2.8. lakcíme,
+3.2.8. lakcíme, nagykorú személy esetén e-mail címe,
 
 3.2.9. rokonsági foka,
 

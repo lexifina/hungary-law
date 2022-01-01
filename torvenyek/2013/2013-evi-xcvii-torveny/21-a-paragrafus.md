@@ -16,6 +16,8 @@ c) – gépjárművel történő behajtás esetén – a belépésére használt
 
 d) – a Honvédség személyi állományába nem tartozó személy esetén – az általa képviselt szervezet, szerv, gazdasági társaság megnevezését.
 
+e) a korlátozott érvényességi ideig engedélyezett jogosultság érvényességi dátumát.
+
 (2) Az ideiglenes belépési engedélyek kiadására jogosult honvédelmi szervezet, valamint a honvédségi szakképző intézmény az ideiglenes belépési engedélyek engedélyezése, kiadása és az érintett azonosítása céljából kezeli
 
 a) az érintett

@@ -1,14 +1,14 @@
 ## 27/C. A Belföldi katonai futárigazolvány kiadásával kapcsolatos adatkezelés
 
-44/C. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve Magyarország területén működtetett katonai futárszolgálatra kijelölt hivatásos, szerződéses és önkéntes tartalékos katona ez irányú jogosultságainak és a belföldi katonai futárszolgálat ellátásának igazolására szolgáló igazolvány kiadása, valamint a biztonsági okmány jogszerűtlen használatának vizsgálata céljából a 10. melléklet a)–h), j)–k) pontja és a (2) bekezdés a), c) és d) pontja szerinti adatokat a katonai futár jogosultságának kezdetétől a jogosultság megszűnését követő 5 évig kezeli. Az e bekezdés szerinti adatkezeléssel létrejött nyilvántartás közhiteles nyilvántartásnak minősül.
+44/C. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve Magyarország területén működtetett katonai futárszolgálatra kijelölt hivatásos, szerződéses és önkéntes tartalékos katona ez irányú jogosultságainak és a belföldi katonai futárszolgálat ellátásának igazolására szolgáló igazolvány kiadásával összefüggő feladatok ellátása, valamint a biztonsági okmány jogszerűtlen használatának vizsgálata céljából a 10. melléklet 1–8. és 10–13. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat a katonai futár jogosultságának kezdetétől a jogosultság megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig kezeli. Az e bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
 
-(2) A Belföldi katonai futárigazolvány – magyar és angol nyelven egyaránt – tartalmazza:
+(2) A Belföldi katonai futárigazolvány tartalmazza:
 
 a) az igazolvány megnevezését,
 
-b) az igazolvány birtokosa nevét, a „Belföldi katonai futár” megnevezést és a 10. melléklet e)–h) pontja szerinti adatokat,
+b) az igazolvány birtokosa nevét, a „Belföldi katonai futár” megnevezést és a 10. melléklet 5–8. pontja szerinti adatokat,
 
-c) az igazolvány egyedi azonosítóját és érvényességi idejét,
+c) az igazolvány egyedi azonosítóit és érvényességi idejét,
 
 d) az igazolvány kiállításának dátumát,
 
@@ -16,12 +16,16 @@ e) az igazolványt kiállító szervezet megnevezését,
 
 f) Magyarország címerét,
 
-g) a Honvédség emblémáját, és
+g) a Honvédség emblémáját,
 
-h) a „fegyverviselésre jogosult” feliratot.
+h) a „Fegyverviselésre jogosult” feliratot.
 
-(3) A honvédelmi szervezet a saját állományába tartozók tekintetében a katonai futárszolgálatra kijelölt hivatásos, szerződéses és önkéntes tartalékos katona ez irányú jogosultságainak azonosítása céljából, a honvédelmi szervezet által történő belföldi katonai futárigazolvány igénylésétől számítva a belföldi katonai futár jogosultság fennállása alatt kezeli az (1) bekezdés szerinti adatokat.
+(3) A (2) bekezdés a) és b) pontja szerinti adatokat, a (2) bekezdés c) pontja szerinti érvényességi időt, valamint a (2) bekezdés e) és h) pontja szerinti adatokat a belföldi katonai futárigazolvány angol és magyar nyelven is tartalmazza.
 
-(4) A honvédelmi szervezet a belföldi katonai futárigazolvány igénylésekor továbbítja az érintett 10. melléklet a)–h) és j)–k) pontja szerinti adatait a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány kiadása céljából. A Honvédség katonai igazgatási és központi adatfeldolgozó szerve az elkészült belföldi katonai futárigazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (3) bekezdés szerinti adatkezelés céljából.
+(4) A honvédelmi szervezet az igazolvány érintett részére történő igénylésekor a személyügyi nyilvántartásból továbbítja az érintett 10. melléklet 1–8. és 10. pontja szerinti adatait a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány kiadásával összefüggő feladatok ellátása céljából.
 
-(5) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a belföldi katonai futárigazolvány elkészítése céljából adatfeldolgozót vehet igénybe.
+(5) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve az elkészült igazolványt megküldi a honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (6) bekezdés szerinti nyilvántartás vezetése céljából.
+
+(6) A honvédelmi szervezet a saját állományába tartozók tekintetében a részére megküldött belföldi katonai futár igazolványokról a belföldi katonai futár jogosultság fennállása alatt nyilvántartást vezet, amely az (1) bekezdés szerinti adatokat tartalmazza.
+
+(7) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány megsemmisítése céljából.

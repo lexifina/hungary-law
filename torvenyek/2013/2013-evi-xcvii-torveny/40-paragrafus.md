@@ -4,38 +4,36 @@
 
 ## 23. A katonai igazolvány kiadásával kapcsolatos adatkezelés
 
-40. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadköteles katonák szolgálati viszonyának és személyazonosságának igazolására szolgáló katonai igazolványának kiadása céljából a 10. melléklet szerinti adatokat kezeli a hadkötelezettség bevezetésétől a hadkötelezettség megszűnését követő 5 évig.
+40. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hadköteles katonák szolgálati viszonyának és személyazonosságának igazolására szolgáló katonai igazolványának kiadásával összefüggő feladatok ellátása céljából a 10. melléklet 1–8. és 10–13. pontja szerinti adatokat és az adatok hitelességét igazoló iratokat vagy másolataikat kezeli a hadkötelezettség bevezetésétől a hadkötelezettség megszűnését követő 5 évig, vagy a hiánypótlásra nyitva álló idő eredménytelen leteltéig.
 
 (2) A hadköteles katonák igazolványa tartalmazza:
 
-a) a katonai igazolvány birtokosa nevét, nemét és a 10. melléklet c)–h) pontja szerinti adatokat,
+a) a katonai igazolvány birtokosa nevét, nemét és a 10. melléklet 3–8. pontja szerinti adatokat,
 
-b)
+b) a katonai igazolvány egyedi azonosítóit és érvényességi idejét,
 
-c) a katonai igazolvány egyedi azonosítóját és érvényességi idejét,
+c) a katonai igazolvány kiállításának időpontját,
 
-d) a katonai igazolvány kiállításának időpontját,
+d) a katonai igazolványt kiállító szervezet megnevezését,
 
-e) a katonai igazolványt kiállító szervezet megnevezését,
+e) a katonai igazolvány megnevezést,
 
-f) a katonai igazolvány megnevezést,
+f) a „Genfi egyezmények szerinti igazolvány” feliratot,
 
-g) a „Genfi egyezmények szerinti igazolvány” feliratot,
+g) Magyarország címerét,
 
-h) Magyarország címerét,
+h) a Honvédség emblémáját, és
 
-i) a Honvédség emblémáját, és
+i) a katonai igazolványt kiadó állam kódját.
 
-j) a katonai igazolványt kiadó állam kódját.
+(3) Az (1) bekezdés szerinti adatokat – a 10. melléklet 11. és 12. pontja kivételével – az e § szerinti nyilvántartásba a személyügyi nyilvántartás kezelésére jogosult szerv továbbítja a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére a katonai igazolvány kiadásával összefüggő feladatok ellátása céljából.
 
-(3) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a katonai igazolványokról
+(4) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve az elkészült igazolványt megküldi a hadköteles katona szolgálati beosztása szerint illetékes honvédelmi szervezet számára az érintett részére történő átadás és az ehhez kapcsolódó (5) bekezdés szerinti nyilvántartás vezetése céljából.
 
-a) az (1) bekezdésben meghatározott időtartam alatt nyilvántartást vezet, amely az (1) bekezdés és a (2) bekezdés c)–e) pontja szerinti adatokat tartalmazza,
+(5) A hadköteles katona szolgálati beosztása szerint illetékes honvédelmi szervezet a részére megküldött katonai igazolványokról a hadkötelezettség fennállása idején nyilvántartást vezet, amely az (1) bekezdés szerinti adatokat tartalmazza.
 
-b) a hadkötelezettség megszűnését követő 5 év elteltével a (2) bekezdés b)–f) pontja szerinti adatokról, valamint a katonai igazolvány megsemmisítésének, érvénytelenítésének időpontjáról nyilvántartást vezet.
+(6) Az (1) bekezdés szerinti nyilvántartás igazolvánnyal összefüggő, a honvédelmi szervezet által rögzített adatai tekintetében közhiteles nyilvántartásnak minősül.
 
-(4) A hadköteles katona szolgálati beosztása szerint illetékes katonai szervezet a kiadott katonai igazolványokról a hadkötelezettség fennállása idején nyilvántartást vezet, amely az (1) bekezdés és a (2) bekezdés c)–e) pontja szerinti adatokat tartalmazza.
+(7) A (2) bekezdés a) pontja szerinti adatokat, a (2) bekezdés b) pontja szerinti érvényességi időt, valamint a (2) bekezdés d)–f) és i) pontja szerinti adatokat a katonai igazolvány angol és magyar nyelven egyaránt tartalmazza.
 
-(5) A (3) bekezdés szerinti nyilvántartások közhiteles nyilvántartásnak minősülnek.
-
-(6) A (2) bekezdés a) pontja szerinti adatokat, a (2) bekezdés c) pontja szerinti érvényességi időt, valamint a (2) bekezdés d)–g) és j) pontja szerinti adatokat a katonai igazolvány angol és magyar nyelven tartalmazza.
+(8) A honvédelmi szervezet az érvényességüket vesztett, bevont igazolványokat és a bevonás okára vonatkozó adatot továbbítja a Honvédség katonai igazgatási és központi adatfeldolgozó szerve részére az igazolvány megsemmisítése céljából.
