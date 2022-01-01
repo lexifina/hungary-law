@@ -85,3 +85,5 @@ szemben.
 (18) Az e törvény szerinti szabályzat és a foglalkoztatási szabályzat a munkavállalók esetében az Mt. 17. §-a szerinti munkáltatói szabályzatnak minősül.
 
 (19) A foglalkoztató NAV szerv a munkaviszonyból származó jogok és kötelezettségek teljesítése érdekében munkaügyi nyilvántartást vezet. A nyilvántartás adattartalma – a kizárólag a foglalkoztatottak esetében releváns adatok kivételével – megegyezik a foglalkoztatott 10. melléklet szerinti személyügyi alapnyilvántartásának adataival. A munkaügyi nyilvántartásra, valamint az abból történő adatszolgáltatásra a személyügyi alapnyilvántartásra vonatkozó szabályokat kell alkalmazni, azzal, hogy a foglalkoztató NAV szerv a munkaügyi nyilvántartásban szereplő adatokat a munkaviszony megszűnését vagy megszüntetését követő tizenöt évig kezeli.
+
+(20) A munkaviszony létesítésével és megszüntetésével összefüggésben a NAV jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.

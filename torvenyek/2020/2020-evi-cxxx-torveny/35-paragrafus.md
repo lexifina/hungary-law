@@ -18,7 +18,7 @@ c) a jelentkező esetében a belső bűnmegelőzési és bűnfelderítési felad
 
 (5) Ha a munkáltatói jogkör gyakorlója megállapítja, hogy a pénzügyőr életvitele nem kifogástalan, e törvény szerint intézkedik a szolgálati jogviszony megszüntetése érdekében.
 
-(6) Ha az ellenőrzés megállapításai alapján a tisztjelölt életvitele kifogásolható, a NAV vezetője az ösztöndíjszerződéstől – az érintett meghallgatását követően – egyoldalú nyilatkozattal elállhat. Az ösztöndíjszerződés megszűnésével a hallgatói jogviszony is megszűnik.
+(6) A (3)–(5) bekezdésben foglaltakat a tisztjelöltekre is alkalmazni kell azzal, hogy esetükben az ellenőrzés megállapításai alapján a NAV vezetője dönt a jogkövetkezményekről.
 
 (7) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a NAV az erről szóló döntés meghozatalától számított nyolc napon belül tájékoztatja arról, hogy a jelentkezővel létesült-e szolgálati jogviszony. A keletkezett iratokat, adatokat – a kifogástalan életvitel ellenőrzését elrendelő és befejező határozatot kivéve – meg kell semmisíteni, ha
 

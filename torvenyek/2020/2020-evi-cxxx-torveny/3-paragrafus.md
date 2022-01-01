@@ -82,6 +82,8 @@ b) a NAV-nál vagy jogelődjénél, továbbá valamely rendvédelmi feladatokat 
 
 c) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálybalépése előtt a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény (a továbbiakban: 1996. évi XLIII. törvény) rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati idő.
 
+33a. tisztjelölt: a rendvédelmi alapképzésre felvételt nyert személy, aki a képzés időtartama alatt hallgatói jogviszonyban és a XXVII. Fejezetben meghatározottak szerinti tisztjelölti jogviszonyban áll,
+
 34. tisztviselő: a tisztviselői munkakört betöltő, tisztviselői státuszú foglalkoztatott;
 
 35. tisztviselői munkakör: az a munkakör, amelyre szolgálati jogviszony létesíthető, és nem minősül pénzügyőri munkakörnek;

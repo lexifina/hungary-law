@@ -1,23 +1,19 @@
-### 242. § [A tisztjelölti jogviszony megszüntetése]
+### 242. § [A tisztjelölti jogviszony megszűnése]
 
-(1) A tisztjelölti jogviszony közös megegyezéssel történő megszüntetésének minősül, ha a tisztjelölt kérelmére a munkáltatói jogkört gyakorló a szolgálati érdekre vagy a tisztjelölt különös méltánylást érdemlő egyéni érdekére tekintettel engedélyezi a NAV állományába vételét.
+(1) A tisztjelölti jogviszony megszűnik
 
-(2) Ha az engedélyt a munkáltatói jogkört gyakorló megadja, vagy ha az érintett a tisztjelölti jogviszonyát nem kívánja fenntartani, a tisztjelölti jogviszony a neki felróható okból kerül megszüntetésre. A tisztjelölt tisztjelölti jogviszonyát egyoldalú jognyilatkozattal megszüntetheti. Ha a tisztjelölt kérelmére a felek rövidebb határidőben nem állapodnak meg, a tisztjelölti jogviszony a jognyilatkozat közléstől számított harminc nap elteltével – a munkáltatói jogkört gyakorló külön intézkedése nélkül – megszűnik.
+a) a tisztjelölt halálával,
 
-(3) A munkáltatói jogkört gyakorló a tisztjelölti jogviszonyt egyoldalú jognyilatkozattal megszüntetheti, ha a tisztjelölt határidőn belül önhibájából nem tesz eleget az ösztöndíjszerződésben előírt kötelezettségeinek, vagy ha nemzetbiztonsági szempontból a szolgálatra alkalmatlanná vált. Ha e törvény eltérően nem rendelkezik, a tisztjelölti jogviszony a jognyilatkozat közlésétől számított harmincadik nap elteltével megszűnik.
+b) a kizárás fenyítés jogerőre emelkedésével,
 
-(4) A tisztjelölti jogviszony e törvény erejénél fogva szűnik meg
+c) a hallgatói jogviszony megszűnésének napján,
 
-a) a kizárás fegyelmi büntetés jogerőre emelkedésével,
+d) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
 
-b) a hallgatói jogviszony megszűnésének napján, kivéve, ha a hallgatói jogviszony a felsőfokú végzettséget tanúsító oklevél kiállításának napján szűnik meg, vagy
+(2) A tisztjelölt tisztjelölti jogviszonyát felmentéssel meg kell szüntetni, ha
 
-c) a tiszti rendfokozati állománycsoportba tartozó rendfokozatba történő kinevezéssel.
+a) nemzetbiztonsági szempontból a tisztjelölti szolgálatra alkalmatlanná vált,
 
-(5) A tisztjelölti jogviszony megszűnésének napján – a munkáltatói jogkört gyakorló külön intézkedése nélkül – az ösztöndíjszerződés hatályát veszti. A tisztjelölti jogviszony megszűnésekor, megszüntetésekor a tisztjelölt köteles a NAV-nál elszámolni.
+b) a képzési idő alatt a jogszabályban előírt, egészségi, pszichológiai vagy fizikai alkalmassági követelményeknek nem felel meg.
 
-(6) Ha a tisztjelölti jogviszony neki felróható okból szűnik meg, a tisztjelölt a képzés költségeit a foglalkoztatási szabályzatban meghatározottaknak megfelelően köteles megtéríteni. A megtérítési kötelezettség a tisztjelölti szolgálati viszony megszűnését követő naptól esedékes.
-
-(7) A tisztjelölt hallgatói jogviszonyának szünetelése a tisztjelölti jogviszonyának fennállását nem érinti. A tisztjelölt a munkáltatói jogkört gyakorlótól kérheti, hogy a hallgatói jogviszonya szüneteltetésével egyidejűleg különös méltánylást érdemlő egyéni érdekére tekintettel a tisztjelölti jogviszony szünetelését engedélyezze.
-
-(8) Szabadságra kizárólag a hallgatói jogviszony szünetelésének időtartama alatt szolgálati feladatokat ellátó tisztjelölt jogosult. A tisztjelöltet ezen időtartamra a 108. §–112. §-ban foglaltak alkalmazása helyett a heti szolgálatteljesítési idejének alapulvételével megállapított, évi öt heti szolgálatteljesítésnek megfelelő mértékű alapszabadság időarányos része illeti meg.
+(3) Felmentés esetén a felmentési idő egy hónap. A tisztjelölt írásbeli kérelme alapján a felek ennél rövidebb felmentési időben is megállapodhatnak.

@@ -15,3 +15,5 @@ c) az illetményéből határozat vagy jogszabály alapján levonandó tartozás
 d) a szolgálati jogviszony megszűnésének évében igénybe vett szabadsága időtartamát, valamint
 
 e) a kifizetett végkielégítés összegét.
+
+(4) A szolgálati jogviszony létesítésével és megszüntetésével összefüggésben a NAV jogszabályban meghatározott feltételekkel igénybe veheti, és a foglalkoztatott számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.

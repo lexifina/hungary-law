@@ -12,7 +12,7 @@ ab) pénzügyőri státuszú foglalkoztatottakból
 
 b) munkaviszonyban álló munkavállalókból és
 
-c) tisztjelölti jogviszonyban álló pénzügyőr tisztjelöltekből (a továbbiakban: tisztjelölt)
+c) tisztjelölti szolgálati jogviszonyban (a továbbiakban: tisztjelölti jogviszony) álló pénzügyőr tisztjelöltekből (a továbbiakban: tisztjelölt)
 
 áll.
 
