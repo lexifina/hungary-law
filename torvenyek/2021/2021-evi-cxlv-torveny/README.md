@@ -1,0 +1,7 @@
+# 2021. évi CXLV. törvény az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-145-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2022-01-01 | 2021. évi CXLV. törvény | 2021-145-00-00.0 (közlönyállapot) |
