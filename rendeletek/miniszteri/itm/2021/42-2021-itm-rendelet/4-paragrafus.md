@@ -2,16 +2,15 @@
 
 ## 4. § Az R1.
 
-a)[^4]
+a) 9. § (3) bekezdés d) pontjában az „a 19/A. §-ban meghatározott feltételeknek megfelelő” szövegrész helyébe az „a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott feltételeknek megfelelő” szöveg,
 
-b)[^5]
+b)[^4]
 
-c)[^6]
+c)[^5]
 
-d)[^7]
+d)[^6]
 
 [^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. § a) pontja a 8. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^5]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

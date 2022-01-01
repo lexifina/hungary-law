@@ -1,4 +1,4 @@
-## 7. §[^10]
+## 7. §[^7]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4. § a) pontja, az 5. és 6. § 2022. január 1. napján lép hatályba.
 
-[^10]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
