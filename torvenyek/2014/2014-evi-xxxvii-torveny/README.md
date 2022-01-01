@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-37-00-00
 | 2020-12-26 | 2020. évi CX. törvény | 2014-37-00-00.19 |
 | 2021-06-26 | 2020. évi CX. törvény | 2014-37-00-00.20 |
 | 2021-08-02 | 2021. évi LVIII. törvény | 2014-37-00-00.21 |
+| 2022-01-01 | 2021. évi LXXXIII. törvény | 2014-37-00-00.22 |

@@ -20,7 +20,7 @@ fa) az intézmény vagy az 1. § szerinti pénzügyi vállalkozás munkavállal�
 
 fb) kereskedelmi és nem fő tevékenységből (pénzügyi, kiegészítő pénzügyi, befektetési vagy befektetési szolgáltatást kiegészítő szolgáltatásból) fakadó szolgáltatói szerződések alapján keletkezett azzal, hogy a szerződés tárgyát képező áruk és szolgáltatások a mindennapi működéshez, ideértve az informatikai szolgáltatásokat, épületek vagy létesítmények fenntartásából, bérléséből vagy közüzemi díjaiból fakadó kötelezettségeket,
 
-fc) adó-, adójellegű kötelezettségek, járulékok és társadalombiztosítási hozzájárulások, ideértve az egészségbiztosítási járulékot, nyugdíjjárulékot, korkedvezmény-biztosítási járulékot, természetbeni egészségbiztosítási járulékot, pénzbeli egészségbiztosítási járulékot, munkaerő-piaci járulékot, szociális hozzájárulási adót, szakképzési hozzájárulást is,
+fc) adó-, adójellegű kötelezettségek, járulékok és társadalombiztosítási hozzájárulások, ideértve az egészségbiztosítási járulékot, nyugdíjjárulékot, korkedvezmény-biztosítási járulékot, természetbeni egészségbiztosítási járulékot, pénzbeli egészségbiztosítási járulékot, munkaerő-piaci járulékot, szociális hozzájárulási adót is,
 
 fd) OBA-val és Beva-val szemben fennálló, aktuális fizetési kötelezettség.
 
