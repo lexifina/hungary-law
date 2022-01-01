@@ -146,7 +146,7 @@ d) a leolvasott hőmérsékletet, valamint
 
 e) az ellenőrzést végző aláírását.
 
-(14)[^85] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti vényköteles gyógyszer vény nélküli kiadásáról nyilvántartást vezet, mely tartalmazza a kiadott gyógyszer nevét, a kiadás időpontját, az átvevő végzettségét vagy jogosultságát hitelt érdemlően tanúsító okirat számát, orvos esetén orvosi bélyegzőjének számát vagy lenyomatát, valamint a kiadó és az átvevő aláírását.
+(14)[^85] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendelet szerinti vényköteles gyógyszer vény nélküli kiadásáról nyilvántartást vezet, mely tartalmazza a kiadott gyógyszer nevét, a kiadás időpontját, az átvevő végzettségét vagy jogosultságát hitelt érdemlően tanúsító okirat számát, valamint a kiadó és az átvevő aláírását.
 
 (15)[^86] A gyógyszertár az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló miniszteri rendeletnek megfelelően rendelt, Magyarországon forgalomba hozatali engedéllyel nem rendelkező, a gyógyszertár által kiszolgáltatott gyógyszerekről nyilvántartást vezet.
 
@@ -168,7 +168,7 @@ e) az ellenőrzést végző aláírását.
 [^82]: A 18. § (10) bekezdés b) pontját az 56/2009. (XII. 30.) EüM rendelet 24. § (6) bekezdése hatályon kívül helyezte.
 [^83]: A 18. § (11) bekezdése a 3/2015. (I. 14.) EMMI rendelet 18. § (1) bekezdésével megállapított, nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 92. § e) pontja szerint módosított szöveg.
 [^84]: A 18. § (13) bekezdését az 56/2009. (XII. 30.) EüM rendelet 11. § (4) bekezdése iktatta be.
-[^85]: A 18. § (14) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 41/2011. (VII. 5.) NEFMI rendelet 30. §-a, újonnan a 3/2015. (I. 14.) EMMI rendelet 18. § (2) bekezdése iktatta be.
+[^85]: A 18. § (14) bekezdését újonnan a 3/2015. (I. 14.) EMMI rendelet 18. § (2) bekezdése iktatta be, szövege a 29/2021. (VII. 6.) EMMI rendelet 19. § b) pontja szerint módosított szöveg.
 [^86]: A 18. § (15) bekezdését a 31/2010. (XII. 30.) NEFMI rendelet 9. § (2) bekezdése iktatta be.
 [^87]: A 18. § (16) bekezdését a 3/2015. (I. 14.) EMMI rendelet 18. § (3) bekezdése iktatta be.
 [^88]: A 18. § (17) bekezdését a 7/2016. (III. 30.) EMMI rendelet 20. § (2) bekezdése iktatta be.
