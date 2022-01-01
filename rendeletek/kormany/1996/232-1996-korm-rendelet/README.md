@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-232-20-
 | 2015-04-01 | 1996-232-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
 | 2018-07-27 | 1996-232-20-22.16 | 139/2018. (VII. 26.) Korm. rendelet |
 | 2021-01-01 | 1996-232-20-22.17 | 182/2009. (IX. 10.) Korm. rendelet |
+| 2022-01-01 | 1996-232-20-22.18 | 576/2021. (X. 12.) Korm. rendelet |

@@ -10,8 +10,8 @@ c) más szervektől, valamint az állampolgároktól igénybe vett szolgáltatá
 
 d) a megrongálódott védőművek helyreállításáról.(2) A készültség megszüntetését követő 30 napon belül a védelemvezető a felülvizsgálatra jogosult szerv részére a védekezésről összefoglaló jelentést köteles készíteni és jóváhagyásra előterjeszteni.
 
-(3)[^65] Rendkívüli készültségben történt védekezésről a vízügyi igazgatási szervek irányításáért felelős miniszternek a Kormány részére a készültség megszüntetését követő 45 napon belül jelentést kell tennie.
+(3)[^71] Rendkívüli készültségben történt védekezésről a vízügyi igazgatási szervek irányításáért felelős miniszternek a Kormány részére a készültség megszüntetését követő 45 napon belül jelentést kell tennie.
 
 (4) A tartós III. fokú készültséggel járó védekezéseket a védekező szerv a felülvizsgálatra jogosult bevonásával értékelni köteles.
 
-[^65]: A 20. § (3) bekezdés a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés b) pontja szerint módosított szöveg.
+[^71]: A 20. § (3) bekezdés a 300/2011. (XII. 22.) Korm. rendelet 25. § (13) bekezdés b) pontja szerint módosított szöveg.
