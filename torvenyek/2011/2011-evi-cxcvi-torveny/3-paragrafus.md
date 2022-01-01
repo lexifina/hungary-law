@@ -24,7 +24,7 @@ cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térség
 
 2. dolog: minden birtokba vehető dolog és a dolog módjára hasznosítható természeti erők;
 
-3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el, vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
+3. forgalomképtelen nemzeti vagyon: az a nemzeti vagyon, amely az e törvényben meghatározott kivétellel nem idegeníthető el –, vagyonkezelői jog, kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – nem terhelhető meg, biztosítékul nem adható, azon osztott tulajdon nem létesíthető;
 
 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
@@ -34,7 +34,7 @@ cc) székhelye az Európai Unió tagállamában, az Európai Gazdasági Térség
 
 6. korlátozottan forgalomképes vagyon: az 1. § (2) bekezdés a) pontja hatálya alá és nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonba nem tartozó azon nemzeti vagyon, amelyről törvényben, illetve – a helyi önkormányzat tulajdonában álló vagyon esetében – törvényben vagy a helyi önkormányzat rendeletében meghatározott feltételek szerint lehet rendelkezni;
 
-7.
+7. kivezetésre szánt állami vagyon: az állami vagyonnak az a része, amely nem tartozik sem a kincstári vagyon, sem az üzleti vagyon körébe, és amely a vagyon jellegére, állapotára, jogi helyzetére vagy egyéb körülményekre tekintettel nem alkalmas a nemzeti vagyon – 7. § (1) bekezdésében meghatározott – alapvető rendeltetését szolgáló vagyongazdálkodási feladatok ellátására vagy e feladatok ellátására történő igénybevétele nem észszerű;
 
 8. közvetett tulajdon, illetve közvetett befolyás: a tőkepiacról szóló törvényben meghatározott fogalom;
 
@@ -60,7 +60,7 @@ b) a jogi személy más tagjaival vagy részvényeseivel kötött megállapodás
 
 17. tulajdonosi joggyakorló: aki a nemzeti vagyon felett az államot vagy a helyi önkormányzatot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására jogosult;
 
-18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
+18. üzleti vagyon: a nemzeti vagyon azon része, amely nem tartozik az állami vagyon esetén a kincstári vagyonba vagy a kivezetésre szánt állami vagyonba, az önkormányzati vagyon esetén a törzsvagyonba;
 
 19. vagyonkezelő:
 
@@ -94,7 +94,7 @@ bd) a ba) alpontban meghatározott személyek együtt vagy külön-külön 100%-
 
 be) a bd) alpont szerinti gazdálkodó szervezet 100%-os tulajdonában álló gazdálkodó szervezet.
 
-c) az egyházi jogi személy a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
+c) az egyházi jogi személy, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítvány és az általa fenntartott felsőoktatási intézmény a tevékenysége ellátásához szükséges nemzeti vagyon tekintetében.
 
 20. összetett vízilétesítmény: olyan vízilétesítmény, mely más létesítményeket, vizeket is magába foglal; az összetett vízilétesítmény része a létesítmények, vizek között lévő földterület is.
 

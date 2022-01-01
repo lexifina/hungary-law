@@ -28,6 +28,8 @@ b) a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó te
 
 c) az épített környezet átalakításáról és védelméről szóló törvényben meghatározott kiszolgáló út létesítése, bővítése során feleslegessé vált, ingyenesen visszaadásra kerülő közterületi ingatlanrész
 
+d) a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átruházása
+
 esetében.
 
 (10) Az ingyenesen átadott ingatlan tekintetében az (5) bekezdés szerint fennálló elidegenítési tilalom azon személlyel szemben nem áll fenn, aki az ingatlant az ingatlan tulajdonosára ingyenesen átruházta.
