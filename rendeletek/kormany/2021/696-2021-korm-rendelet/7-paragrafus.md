@@ -1,3 +1,1 @@
-## 6. §[^6]
-
-[^6]: A 6. § a 22. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „(4b) Idegenrendészeti kiutasítás a Tv. 43. § (2) bekezdés d) pontja alapján a nyomozó hatóságként eljáró rendvédelmi szerv, az Alkotmányvédelmi Hivatal, a Terrorelhárítási Központ javaslatára vagy a regionális igazgatóság által saját hatáskörben is elrendelhető.”
