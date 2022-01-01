@@ -144,7 +144,7 @@
 
 32. az építészeti-műszaki tervezés során a tervezési díjfizetési kötelezettség nem teljesítése tárgyában hozott, az építészeti-műszaki tervezőt marasztaló jogerős bírósági ítéletről szóló értesítést vagy a nemfizetési jelzést követően lefolytatandó vizsgálat és az ennek alapján megállapítható jogkövetkezmények részletes szabályait,
 
-33.
+33. Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerrel összefüggésben a rendszerbe tartozó építőipari kivitelezési tevékenységek körét, az Üvegkapu működésére és használatára vonatkozó követelményeket, az Üvegkapu eszközeinek biztosítására irányuló, továbbá a csatlakozás további feltételeit meghatározó szolgáltatási szerződés tartalmára és megkötésére irányadó szabályokat, az Üvegkapuban tárolt, személyes adatnak nem minősülő adatok, illetve az oda feltöltendő dokumentumok körét, az Üvegkapu más nyilvántartásokhoz és adatbázisokhoz való kapcsolódásának szabályait és – a személyes adatok kivételével – az automatikus adatátadással érintett adatok körét, az Üvegkapuval kapcsolatos kötelezettségek betartásának ellenőrzésére vonatkozó részletes anyagi és eljárási szabályokat, valamint az Üvegkapu üzemeltetőjét és tárhelyszolgáltatóját
 
 34. a telekalakítás és építési tilalom elrendelése, továbbá a telekalakítás és cseretelek-adás részletes szabályait
 
