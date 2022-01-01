@@ -134,7 +134,7 @@
 
 67.
 
-68.
+68. 109. § címében a „szakképzéshez biztosított támogatás” szövegrész helyébe a „szakképzésialapfeladat-ellátás fedezete” szöveg,
 
 69.
 
