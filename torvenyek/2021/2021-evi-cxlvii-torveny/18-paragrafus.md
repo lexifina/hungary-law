@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 18. § (4) bekezdésében az „a szakképzésről szóló törvényben” szövegrész helyébe az „az Szkt.-ban” szöveg,
 
 c)
 
