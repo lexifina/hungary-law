@@ -17,15 +17,3 @@
 6. melléklet a 2011. évi CXCIX. törvényhez
 
 ## Az igazságügyi szolgálatok pártfogó felügyelői, jogi segítségnyújtási, áldozatsegítési feladatokat ellátó kormánytisztviselőinek, illetve a büntetés-végrehajtással összefüggő pártfogó felügyelői tevékenységgel kapcsolatos pártfogó felügyelői feladatokat ellátó kormánytisztviselőknek belépési igazolványához szükséges adatok köre
-
-## I. A kormánytisztviselő
-
-## 1. családi és utóneve (születési családi és utóneve), neme
-
-## 2. születési helye, ideje
-
-## 3. anyja születési családi és utóneve
-
-## 4. fényképe
-
-## II.
