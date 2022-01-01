@@ -6,7 +6,7 @@
 
 9. § (1) A közfeladatot ellátó szerv köteles
 
-a) a hozzá érkezett és az általa készített iratokat az érkezés, illetve a keletkezés időpontjában nyilvántartásba venni;
+a) a hozzá érkezett és az általa készített, a szerv működése vagy feladatköre szempontjából érdemi adatot tartalmazó iratokat az érkezés, illetve a keletkezés időpontjában nyilvántartásba venni;
 
 b) a nyilvántartást és az ahhoz kapcsolódó — az irattári anyag áttekinthetőségét szolgáló — ügyviteli segédleteket levéltári célra is használható módon vezetni;
 
@@ -16,9 +16,13 @@ d) a nála keletkező, nem selejtezhető iratok készítésekor azok tartós meg
 
 e) az elintézett ügyek iratait — az irattári terv szerinti rendszerezés és válogatás pontosságának ellenőrzése mellett — irattárában elhelyezni, s irattári anyagának szakszerű és biztonságos megőrzéséről, valamint használatra bocsátásáról gondoskodni;
 
-f) irattári anyagának selejtezhető részét az irattári tervben megjelölt irattári őrzési idő letelte, illetve ügyviteli értékének megszűnése után, a szerv nem selejtezhető iratainak átvételére jogosult közlevéltár (a továbbiakban: illetékes közlevéltár) engedélyével kiselejtezni;
+f) irattári anyagának selejtezhető részét az irattári tervben megjelölt irattári őrzési idő letelte, illetve ügyviteli értékének megszűnése után az illetékes közlevéltár engedélyével kiselejtezni;
 
 g) a nem selejtezhető irattári tételekbe tartozó, valamint a mintavétel során maradandó értékűnek minősített iratokat a kapcsolódó nyilvántartásokkal és segédletekkel együtt, olvasható formában, a 12. §-ban előírtak szerint az illetékes közlevéltárnak saját költségén átadni.
+
+h) a köziratokról vezetett nyilvántartásban metaadatként rögzíteni az irat beazonosításához szükséges adatokat – ideértve az irat beküldőjének vagy címzettjének nevét, címét, elérhetőségét –, valamint az irat tárgyának meghatározásához elengedhetetlen személyes adatokat;
+
+i) a köziratokról vezetett nyilvántartásban rögzített metaadatokat a nyilvántartásnak az illetékes közlevéltár részére történő átadásáig vagy a nyilvántartás egészének selejtezéséig épségben megőrizni.
 
 (2) Elektronikus iratkezelés esetén a közfeladatot ellátó szerv kizárólag olyan iratkezelési szoftvert alkalmazhat, amely a külön jogszabályban meghatározott követelményeknek megfelel és – az (5) bekezdésben meghatározott kivétellel – tanúsítvánnyal rendelkezik.
 

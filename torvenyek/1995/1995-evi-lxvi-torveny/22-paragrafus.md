@@ -4,7 +4,7 @@
 
 ## A közlevéltár anyagában történő kutatás
 
-22. § (1) A közlevéltárban őrzött, a keletkezés naptári évétől számított harminc éven túli levéltári anyagban – a 24. §-ban és a 25. §-ban foglalt kivételekkel –, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már nyilvánosságra hoztak, vagy amelynek tartalma az adatvédelmi jogszabályok rendelkezései alapján bárki számára kutatható, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.
+22. § (1) A közlevéltárban őrzött, a keletkezés naptári évétől számított harminc éven túli levéltári anyagban – a 24. §-ban és a 25. §-ban foglalt kivételekkel –, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már jogszerűen nyilvánosságra hoztak, vagy amelynek tartalma az adatvédelmi jogszabályok rendelkezései alapján bárki számára kutatható, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.
 
 (2) A közlevéltár az őrizetében lévő levéltári anyagban kutatást végző személy részére – a kutatás megkezdése előtt – látogatói jegyet ad ki. A látogatói jegy tartalmazza a kutató természetes személyazonosító adatait és lakcímét. A látogatói jegy az adott közlevéltárban – évenkénti meghosszabbítással – folyamatosan használható.
 

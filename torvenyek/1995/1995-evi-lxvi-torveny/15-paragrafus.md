@@ -16,7 +16,7 @@ a) a Magyar Nemzeti Levéltár esetében a kultúráért felelős miniszter,
 
 b) a Budapest Főváros Önkormányzata által fenntartott levéltár esetében a kultúráért felelős miniszter egyetértésével a fenntartó,
 
-c) az állami szaklevéltár, a települési önkormányzat, a köztestület, a közalapítvány és az egyéb közfeladatot ellátó szerv levéltára esetében a kultúráért felelős miniszter véleményének kikérésével a fenntartó
+c) az állami szaklevéltár, a felsőoktatási levéltár, a települési önkormányzat vagy a nemzetiségi önkormányzat,, a köztestület, a közalapítvány és az egyéb közfeladatot ellátó szerv levéltára esetében a kultúráért felelős miniszter véleményének kikérésével a fenntartó
 
 nevezi ki és menti fel.
 

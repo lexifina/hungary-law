@@ -6,4 +6,4 @@
 
 (2) Az (1) bekezdésben meghatározott előirányzatnak a közlevéltárak és a nyilvános magánlevéltárak közötti elosztásáról a kultúráért felelős miniszter pályázat kiírásával gondoskodik. A pályázat kiírásának, elbírálásának és az előirányzat felhasználásának szabályait a kultúráért felelős miniszter állapítja meg.
 
-(3) Az (1) bekezdésben meghatározott feladatok ellátásának személyi, tárgyi és technikai feltételeit legkésőbb 2000. december 31-éig kell megteremteni.
+(3)

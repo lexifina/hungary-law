@@ -14,7 +14,7 @@ c) az átvett és a gyűjtött levéltári anyagot nyilvántartja, szakszerűen 
 
 d) az őrizetében lévő levéltári anyagról hiteles másolatot vagy tartalmi kivonatot ad ki;
 
-e) a levéltári anyag védelme érdekében ellenőrzi a közfeladatot ellátó szervek, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott gazdasági társaságok irattári selejtezését és iratkezelésének rendjét;
+e) ellenőrzi az illetékességébe tartozó közfeladatot ellátó szervek iratkezelését, a közfeladatot ellátó szerv maradandó értékű köziratai megfelelő szintű védelmének megvalósulását;
 
 f) megrongált vagy pusztulásnak indult levéltári anyagának konzerválásáról és restaurálásáról gondoskodik, ezekről és a különösen jelentős levéltári anyagáról biztonsági másolatot készít vagy készíttet, és annak egy példányát – ha jogszabály másként nem rendelkezik – a Magyar Nemzeti Levéltárnak átadja;
 
@@ -23,3 +23,5 @@ g) levéltár- és történettudományi kutatásokat végez a levéltári munka 
 h) a levéltári anyag oktatási, közművelődési célú felhasználását, valamint a levéltári tevékenység megismertetését kiadványokkal és egyéb módon elősegíti;
 
 i) a maradandó értékű magániratok kiválogatására, szakszerű kezelésére vonatkozóan szaktanácsot adhat, a maradandó értékű magániratok védetté nyilvánításában közreműködik.
+
+j) az őrizetében lévő levéltári anyag használatának elősegítése érdekében – digitalizálási terv alapján – gondoskodik kutatási célú digitális másolatok készítéséről és használatba adásáról.

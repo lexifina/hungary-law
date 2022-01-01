@@ -4,7 +4,7 @@
 
 a) szerv: a jogi személy és a jogi személyiséggel nem rendelkező szervezet;
 
-b) közfeladatot ellátó szerv: az állami és önkormányzati közfeladat-kataszterről szóló kormányrendeletben meghatározott közfeladat-kataszter adatbázisában szereplő közfeladatot ellátó, továbbá a nemzeti vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott vagy többségi állami vagy önkormányzati tulajdonban lévő gazdasági társaság;
+b) közfeladatot ellátó szerv: a feladatellátás idejétől és helyétől függetlenül az állami vagy önkormányzati feladatot ellátó szerv vagy személy, továbbá a közhatalmat gyakorló, illetve a nemzeti vagyonnal gazdálkodó vagy azzal rendelkező szerv vagy személy, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. melléklet I. pontjában meghatározott, illetve többségi állami vagy önkormányzati tulajdonban lévő gazdasági társaság;
 
 c) irat: valamely szerv működése vagy személy tevékenysége során keletkezett vagy hozzá érkezett, bármely jelrendszerrel és adathordozón rögzített, egy egységként kezelendő rögzített információ, adategyüttes;
 
@@ -34,11 +34,11 @@ o) levéltári kutatás: a levéltári anyag tanulmányozása, abból adatok kig
 
 p) gazdálkodó szervezet: a polgári perrendtartásról szóló törvényben meghatározott gazdálkodó szervezet;
 
-r) közlevéltár illetékessége (illetékességi köre): a maradandó értékű irattári anyagnak az a köre, amelyre vonatkozóan törvény közlevéltárba adási kötelezettséget ír elő, s amelyet az adott közlevéltár törvény rendelkezése, illetve fenntartójának döntése alapján köteles átvenni;
+r) illetékes közlevéltár: a közfeladatot ellátó szerv vagy közirat vonatkozásában a közlevéltári illetékességből fakadó feladatokat e törvény előírásai szerint ellátó levéltár;
 
 s) levéltári gyűjtőkör: a maradandó értékű, köziratnak nem minősülő irattári anyagnak, ha arra vonatkozóan törvény közlevéltárba adási, illetve a levéltárfenntartó levéltárba adási kötelezettséget nem ír elő, továbbá a természetes személyek maradandó értékű iratainak az a köre, amelyet az adott levéltár az őrizetében lévő levéltári anyag forrásértékének gazdagítása céljából gyűjt (ajándékként elfogad vagy megvásárol);
 
-t) önkormányzati hivatal: a főpolgármesteri hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala;
+t) metaadat: az iratkezelési folyamat során kezelt és nyilvántartott iratot leíró adat;
 
 u) iratkezelési szoftver: az iratkezelés folyamatát támogató, jogszabályban meghatározott módon tanúsított informatikai alkalmazás, amely alapfunkcióját tekintve a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletben foglalt iratkezelési műveleteket vagy azok egy részének végrehajtását támogatja, és emellett egyéb funkciókat is elláthat;
 

@@ -6,4 +6,4 @@ a) az iratkezelői és az irattári helyiségbe beléphet, az iratokba — a min
 
 b) iratkezelési kérdésekben szaktanácsot ad, a nem selejtezhető iratok épségben és használható állapotban történő megőrzését súlyosan veszélyeztető hibákat és hiányosságokat jegyzőkönyvbe foglalja, megszüntetésükre vonatkozóan határidőt állapít meg;
 
-c)
+c) ha a közfeladatot ellátó szerv a b) pont alapján szükséges intézkedéseket határidőben nem teszi meg, az illetékes közlevéltár 15 napon belül a köziratok védelmére irányuló hatósági eljárást kezdeményez.

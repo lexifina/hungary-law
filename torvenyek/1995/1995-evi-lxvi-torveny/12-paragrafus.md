@@ -1,6 +1,6 @@
 ## A köziratok levéltárba adása
 
-12. § (1) A nem selejtezhető köziratok teljes és lezárt évfolyamait — a (4) és (5) bekezdésben meghatározott kivétellel — a keletkezés naptári évétől számított tizenötödik év végéig kell az illetékes közlevéltárnak átadni.
+12. § (1) A nem selejtezhető köziratok teljes és lezárt évfolyamait — a (2)–(8) bekezdésben meghatározott kivétellel — a keletkezés naptári évétől számított tizenötödik év végéig kell az illetékes közlevéltárnak átadni.
 
 (2) A nem selejtezhető köziratok átadásának-átvételének időpontjáról az átadó szerv és az illetékes közlevéltár közösen állapodik meg.
 
@@ -14,4 +14,4 @@
 
 (7) A közfeladatot ellátó szerv azoknak a nem selejtezhető iratoknak a használatát, amelyek a 22. § (1) bekezdésében meghatározott kutatási korlátozási idő eltelte után is az őrizetében vannak, a közlevéltárban lévő anyagra vonatkozó szabályok szerint köteles biztosítani.
 
-(8) Az elektronikus formában megőrzött maradandó értékű iratokat jogszabályban meghatározott követelményeknek megfelelően kell átadni az illetékes levéltárnak.
+(8) Az elektronikus formában megőrzött maradandó értékű iratokat jogszabályban meghatározott követelményeknek megfelelően kell átadni az illetékes közlevéltárnak.

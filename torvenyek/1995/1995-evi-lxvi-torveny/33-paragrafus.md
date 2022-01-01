@@ -8,7 +8,7 @@ c) a privatizált állami gazdálkodó szervezet privatizálás előtt keletkeze
 
 d) működő, nem közfeladatot ellátó szerv irattári anyagának maradandó értékű részét, ha azt a tulajdonos – a gazdálkodó szervezet eladásával együtt történő irattárátadást kivéve – kereskedelmi forgalomba kívánja bocsátani;
 
-e) a nyilvános magánlevéltárak nyilvántartásából törölt magánlevéltárban őrzött iratokat.
+e)
 
 (2) Nem nyilvánítható védetté:
 

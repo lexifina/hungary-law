@@ -2,7 +2,7 @@
 
 (2) A megrongálás, az egyéb módon történő használhatatlanná tétel, továbbá a megsemmisítés tilalma a nyilvános magánlevéltárban őrzött levéltári anyagra és a védetté nyilvánított maradandó értékű magániratra is kiterjed.
 
-(3) Az (1) bekezdésben meghatározott elidegenítési tilalom nem zárja ki a közlevéltárban őrzött, köziratnak nem minősülő levéltári anyagnak levéltár, múzeum, könyvtár részére csereszerződés útján történő elidegenítését. A csereszerződés megkötéséhez, valamint a nyilvános magánlevéltárban őrzött magánirat elidegenítéséhez a kultúráért felelős miniszternek engedélye szükséges. A védetté nyilvánított magánirat elidegenítésekor a kulturális örökség védelméről szóló törvényben foglaltak szerint kell eljárni.
+(3) Az (1) bekezdésben meghatározott elidegenítési tilalom nem zárja ki a közlevéltárban őrzött, köziratnak nem minősülő levéltári anyagnak levéltár, muzeális intézmény, könyvtár részére csereszerződés útján történő elidegenítését. A csereszerződés megkötéséhez, valamint a nyilvános magánlevéltárban őrzött magánirat elidegenítéséhez a kultúráért felelős miniszternek engedélye szükséges. A védetté nyilvánított magánirat elidegenítésekor a kulturális örökség védelméről szóló törvényben foglaltak szerint kell eljárni.
 
 (3a) Az 1957. január 1-je előtt keletkezett, elszármazott közirat – az elmúlt rendszer titkosszolgálati tevékenységének feltárásáról és az Állambiztonsági Szolgálatok Történeti Levéltára létrehozásáról szóló törvény hatálya alá tartozó közirat kivételével – az e törvényben foglalt rendelkezések figyelembevételével elidegeníthető.
 
