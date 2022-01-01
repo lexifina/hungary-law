@@ -20,7 +20,7 @@ e) gondoskodik a vadászvizsga lebonyolításáról;
 
 f) etikai eljárást folytat le a kamara etikai szabályait megszegő tagjával szemben;
 
-g) a kamara tagjairól névjegyzéket (a továbbiakban: névjegyzék) vezet és erről statisztikai adatokat szolgáltat;
+g) tagjairól – területi szervezetei útján egységes elektronikus tagnyilvántartó rendszerben – elektronikus nyilvántartást (a továbbiakban: nyilvántartás) vezet és erről statisztikai adatokat szolgáltat;
 
 h) kiállítja és érvényesíti a vadászjegyet, valamint kiállítja a vadászati engedélyt;
 

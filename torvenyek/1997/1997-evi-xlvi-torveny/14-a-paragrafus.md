@@ -1,1 +1,1 @@
-14/A. § A vadászjegy kizárólag a kamarai tagsági jogviszonnyal rendelkező vadász számára állítható ki és érvényesíthető.
+14/A. § A vadászjegy adott vadászati évre vonatkozó érvényesítése minden év január 1-től kérelmezhető.

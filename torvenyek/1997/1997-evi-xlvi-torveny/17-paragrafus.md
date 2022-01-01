@@ -4,7 +4,7 @@
 
 a) aki meghalt,
 
-b) aki a tagsági viszonyáról lemondott,
+b) aki a tagsági viszonyáról írásban lemondott,
 
 c) akit a (2) bekezdésben foglalt indokok alapján zártak ki a kamarából,
 
@@ -30,4 +30,4 @@ c) aki már nem felel meg a tagsági viszony létesítése feltételeinek.
 
 (7) Az a személy, akinek tagsági viszonya az (1) bekezdés d) pontjában meghatározott okból szűnt meg – amennyiben az alapszabály ennél rövidebb időt nem állapít meg, vagy a területi küldöttgyűlés ettől eltérően nem rendelkezik – az etikai büntetés jogerőre emelkedésétől számított két éven belül a kamarába tagként nem vehető fel.
 
-(8) A tagsági viszonynak a megszűnése esetén a volt tag vadászjegyét, hivatásos vadász esetén a szolgálati igazolványát és jelvényét is be kell vonni, s azokat öt évig meg kell őrizni.
+(8) A tagsági viszony megszűnése esetén a volt tag vadászjegyét érvényteleníteni kell.

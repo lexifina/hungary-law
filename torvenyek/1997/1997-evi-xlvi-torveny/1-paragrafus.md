@@ -16,7 +16,7 @@ b) országos szervezete
 
 (4) A területi szervezet elnevezésében utalni kell annak illetékességi területére.
 
-(5) Az országos szervezet székhelye: Budapest.
+(5) Az országos szervezet székhelyét a kamara alapszabálya határozza meg.
 
 (6)
 

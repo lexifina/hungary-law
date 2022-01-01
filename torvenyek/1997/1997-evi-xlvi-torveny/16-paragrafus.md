@@ -1,6 +1,6 @@
 ## A tagsági viszony felfüggesztése
 
-16. § (1) A vezetőség írásban indokolt határozattal – a (4) bekezdésben foglaltakra is figyelemmel – felfüggeszti a tagsági viszonyát annak a tagnak,
+16. § (1) A vezetőség írásban indokolt határozattal felfüggeszti a tagsági viszonyát annak a tagnak,
 
 a) aki azt kéri;
 
