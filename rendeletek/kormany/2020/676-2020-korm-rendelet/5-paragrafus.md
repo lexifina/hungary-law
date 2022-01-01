@@ -18,6 +18,4 @@ g) a táplálkozás-egészségügyi előírásokról szóló rendelet előírás
 
 h) diétás étkeztetés biztosítását vállalja a szolgáltató.
 
-(3)[^1]
-
-[^1]: Az 5. § (3) bekezdése a 7. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+(3) Az ajánlatkérőnek minden esetben vizsgálnia kell a közétkeztetésre vonatkozó táplálkozás-egészségügyi előírásokról szóló rendeletnek való megfelelést, a szolgáltató táplálkozás-egészségügyi minősítési eredményeinek százalékos minősítési átlaga alapján, amennyiben rendelkezik már minősítéssel.
