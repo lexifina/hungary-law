@@ -1,8 +1,8 @@
-84. § (1)[^330] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
+84. § (1)[^332] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
 
-(2)[^331] Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően selejtezi, és az erre feljogosított adatfeldolgozó részére megsemmisítésre megküldi.
+(2)[^333] Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően selejtezi, és az erre feljogosított adatfeldolgozó részére megsemmisítésre megküldi.
 
-(3)[^332] A törzskönyvet csak a tulajdonosnak, illetve arra feljogosított meghatalmazottnak, valamint a magyar állam tulajdona esetén, ha a vagyonszerzés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) vagy (9) bekezdése alapján történt, a vagyonkezelő részére lehet kiadni.
+(3)[^334] A törzskönyvet csak a tulajdonosnak, illetve arra feljogosított meghatalmazottnak, valamint a magyar állam tulajdona esetén, ha a vagyonszerzés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (6) vagy (9) bekezdése alapján történt, a vagyonkezelő részére lehet kiadni.
 
 (4) A jármű tulajdonjogát érintő korlátozás esetén a törzskönyv kizárólag a korlátozás által meghatározott jogosult részére adható ki.
 
@@ -10,15 +10,15 @@
 
 a) a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló rendeletben meghatározott időpontig, ha a járművet a tulajdonos az állam által nyújtott járművásárlási támogatás felhasználásával vette,
 
-b)[^333] a jármű V betűjelű ideiglenes rendszámtáblával történő ellátása során,
+b)[^335] a jármű V betűjelű ideiglenes rendszámtáblával történő ellátása során,
 
-c)[^334] a jármű CD betűjelű különleges rendszámtáblával történő ellátása során,
+c)[^336] a jármű CD betűjelű különleges rendszámtáblával történő ellátása során,
 
-d)[^335] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
+d)[^337] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
 
 e) a négykerekű segédmotoros kerékpárok rendszámtáblával történő ellátása során,
 
-f)[^336] a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló kormányrendelet 9. § (1) bekezdésében meghatározott időpontig, ha a járművet a tulajdonos az állam által nyújtott személygépkocsi-szerzési támogatás felhasználásával szerezte meg.
+f)[^338] a nagycsaládosok személygépkocsi-szerzési támogatásáról szóló kormányrendelet 9. § (1) bekezdésében meghatározott időpontig, ha a járművet a tulajdonos az állam által nyújtott személygépkocsi-szerzési támogatás felhasználásával szerezte meg.
 
 (6) A törzskönyv kiadására irányuló eljárás során a közlekedési igazgatási hatóság által elvégzett adatfelvétel alapján a törzskönyv „Hivatalos feljegyzések” rovatában feltüntetésre kerül:
 
@@ -28,13 +28,13 @@ b) a „haszonélvezeti joggal terhelt” bejegyzés, ha a járműre haszonélve
 
 c) a „közös tulajdon” bejegyzés, ha a jármű tulajdonjoga több személyt is megillet;
 
-d)[^337] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy átírása előzetes eredetiségvizsgálat elvégzése nélkül történik.
+d)[^339] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy átírása előzetes eredetiségvizsgálat elvégzése nélkül történik.
 
-[^330]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^331]: A 84. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja, a 375/2021. (VI. 30.) Korm. rendelet 16. § 16. pontja szerint módosított szöveg.
-[^332]: A 84. § (3) bekezdése a 265/2020. (VI. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^333]: A 84. § (5) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
-[^334]: A 84. § (5) bekezdés c) pontja a 468/2016. (XII. 23.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
-[^335]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
-[^336]: A 84. § (5) bekezdés f) pontját a 45/2019. (III. 12.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^337]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 45. § 25. pontja szerint módosított szöveg.
+[^332]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^333]: A 84. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja, a 375/2021. (VI. 30.) Korm. rendelet 16. § 16. pontja szerint módosított szöveg.
+[^334]: A 84. § (3) bekezdése a 265/2020. (VI. 11.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^335]: A 84. § (5) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
+[^336]: A 84. § (5) bekezdés c) pontja a 468/2016. (XII. 23.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
+[^337]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
+[^338]: A 84. § (5) bekezdés f) pontját a 45/2019. (III. 12.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^339]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított, az 572/2020. (XII. 9.) Korm. rendelet 45. § 25. pontja szerint módosított szöveg.

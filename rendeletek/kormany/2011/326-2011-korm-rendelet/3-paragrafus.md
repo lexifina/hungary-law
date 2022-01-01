@@ -2,15 +2,15 @@
 
 ## JÁRMŰVEZETÉSRE JOGOSÍTÓ OKMÁNYOK
 
-3. §[^34] (1) Az e rendeletben meghatározott járművezetésre jogosító okmány:
+3. §[^35] (1) Az e rendeletben meghatározott járművezetésre jogosító okmány:
 
 a) a vezetői engedély,
 
 b) a nemzetközi vezetői engedély.
 
-(2)[^35] Magyarország területén a járművezetési jogosultság igazolására alkalmas:
+(2)[^36] Magyarország területén a járművezetési jogosultság igazolására alkalmas:
 
-a)[^36] a vezetői engedély igénylésétől az új vezetői engedély kézhezvételéig, de legfeljebb a kérelem benyújtásától számított 30 napig
+a)[^37] a vezetői engedély igénylésétől az új vezetői engedély kézhezvételéig, de legfeljebb a kérelem benyújtásától számított 30 napig
 
 aa) a vezetői engedély kiállítására irányuló kérelem adatlap,
 
@@ -32,9 +32,9 @@ cb) elvesztése vagy megsemmisülése esetén a külföldi vagy magyar hatóság
 
 a feljelentés vagy jegyzőkönyv kiállításának napjától számított legfeljebb 30 napig.
 
-(2a)[^37] Magyarország területén járművezetési jogosultság igazolására alkalmas az engedély-nyilvántartásba bejegyzett vezetési jogosultság a vezetői engedély első alkalommal történő kiállítása, új kategória Magyarországon történt megszerzése, az egészségi alkalmasság meghosszabbítása vagy házasságkötésből eredő névváltozás miatti vezetői engedély csere esetén, a bejegyzés időpontjától az elkészült vezetői engedély kézhezvételéig, de legfeljebb 30 napig.
+(2a)[^38] Magyarország területén járművezetési jogosultság igazolására alkalmas az engedély-nyilvántartásba bejegyzett vezetési jogosultság a vezetői engedély első alkalommal történő kiállítása, új kategória Magyarországon történt megszerzése, az egészségi alkalmasság meghosszabbítása vagy házasságkötésből eredő névváltozás miatti vezetői engedély csere esetén, a bejegyzés időpontjától az elkészült vezetői engedély kézhezvételéig, de legfeljebb 30 napig.
 
-[^34]: A 3. § az 544/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^35]: A 3. § (2) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^36]: A 3. § (2) bekezdés a) pontja a 284/2020. (VI. 17.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^37]: A 3. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 29. §-a iktatta be.
+[^35]: A 3. § az 544/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^36]: A 3. § (2) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^37]: A 3. § (2) bekezdés a) pontja a 284/2020. (VI. 17.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^38]: A 3. § (2a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 29. §-a iktatta be.

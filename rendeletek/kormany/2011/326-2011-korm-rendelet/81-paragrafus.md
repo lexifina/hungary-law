@@ -4,18 +4,18 @@
 
 (2) A törzskönyv a jármű közúti forgalomban való részvételének nem feltétele.
 
-(3)[^321] A jármű átírásakor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet vissza kell vonni és érvénytelenítve a keletkezett iratokkal a Nyilvántartónak meg kell küldeni.
+(3)[^323] A jármű átírásakor továbbá a jármű vagy a tulajdonos adatainak, valamint a törzskönyvben feltüntetett bármely más adat változásakor új törzskönyvet kell kiállítani, a korábbi törzskönyvet a közlekedési igazgatási hatóság visszavonja, érvényteleníti, selejtezi és az erre feljogosított adatfeldolgozónak megsemmisítésre megküldi.
 
-(3a)[^322] Ha a törzskönyv cseréjére automatikus kiállítás útján kerül sor, az ügyfél az elkészült új törzskönyv:
+(3a)[^324] Ha a törzskönyv cseréjére automatikus kiállítás útján kerül sor, az ügyfél az elkészült új törzskönyv:
 
 a) személyes átvétele esetén a lecserélt, előző törzskönyvet az új okmány átvételével egyidejűleg leadja,
 
 b) postai úton történő átvétele esetén a lecserélt, előző törzskönyvet az új okmány kézhezvételétől számított 15 napon belül, a lakóhelye szerint illetékes járási (fővárosi kerületi) hivatalhoz visszaküldi, vagy ott személyesen leadja.
 
-(3b)[^323] Ha az ügyfél az előző törzskönyv leadására vonatkozó kötelezettségének a megadott határidőn belül önként nem tesz eleget, a közlekedési igazgatási hatóság határozatban elrendeli az okmány visszavonását, és kötelezi az ügyfelet annak leadására.
+(3b)[^325] Ha az ügyfél az előző törzskönyv leadására vonatkozó kötelezettségének a megadott határidőn belül önként nem tesz eleget, a közlekedési igazgatási hatóság határozatban elrendeli az okmány visszavonását, és kötelezi az ügyfelet annak leadására.
 
 (4) Az ellenkező bizonyításáig a törzskönyvet birtokló ügyfelet jogszerű tulajdonosnak kell tekinteni.
 
-[^321]: A 81. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés f) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 22. pontja szerint módosított szöveg.
-[^322]: A 81. § (3a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be.
-[^323]: A 81. § (3b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be.
+[^323]: A 81. § (3) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 48. §-ával megállapított szöveg.
+[^324]: A 81. § (3a) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be.
+[^325]: A 81. § (3b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 36. §-a iktatta be.

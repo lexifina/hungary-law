@@ -58,6 +58,14 @@ b) forgalmi engedély, törzskönyv cseréjének kell tekinteni az eljárást ab
 
 21.[^32] törzskönyv automatikus kiállítása: házasságkötésből eredő névváltozás esetén, az anyakönyvvezető által felvételezett és a személyiadat- és lakcímnyilvántartást kezelő szerv útján továbbított adatok alapján a Nyilvántartó hivatalból gondoskodik a törzskönyv automatikus kiállítás útján történő cseréjéről, amennyiben az okmány kiállításához szükséges valamennyi feltétel fennállása a közúti közlekedési nyilvántartásból megállapítható, és az okmány jogosultja a hivatalbóli okmánykiállítást megakadályozó nyilatkozatot nem tett.
 
+22.[^33] forgalomba helyezés: forgalomba helyezésnek minősül
+
+a) a jármű első magyarországi nyilvántartásba vétele, a forgalmi engedély és a rendszámtábla kiadása,
+
+b) a külföldön nyilvántartásba vett jármű magyarországi nyilvántartásba vétele, a forgalmi engedély és a rendszámtábla kiadása vagy
+
+c) a forgalomból kérelemre vagy hivatalból ideiglenesen, átmenetileg vagy véglegesen kivont jármű ismételt forgalomba helyezése.
+
 (2) Ha e rendelet viszonosságról rendelkezik, akkor a viszonosság fennállása tekintetében a közlekedésért felelős miniszter és a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
 [^20]: A 2. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -73,3 +81,4 @@ b) forgalmi engedély, törzskönyv cseréjének kell tekinteni az eljárást ab
 [^30]: A 2. § (1) bekezdés 19. pontját az 572/2020. (XII. 9.) Korm. rendelet 28. § (2) bekezdése iktatta be.
 [^31]: A 2. § (1) bekezdés 20. pontját az 572/2020. (XII. 9.) Korm. rendelet 28. § (2) bekezdése iktatta be.
 [^32]: A 2. § (1) bekezdés 21. pontját az 572/2020. (XII. 9.) Korm. rendelet 28. § (2) bekezdése iktatta be.
+[^33]: A 2. § (1) bekezdés 22. pontját a 375/2021. (VI. 30.) Korm. rendelet 14. § (1) bekezdése iktatta be.
