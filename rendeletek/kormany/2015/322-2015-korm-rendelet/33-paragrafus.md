@@ -1,4 +1,4 @@
-## 32/B. §[^35]
+## 32/B. §[^36]
 
 ## IV. Fejezet
 
@@ -10,4 +10,4 @@
 
 (3) A 22. §-ban foglaltak építési koncesszió esetében nem alkalmazandók.
 
-[^35]: A 32/B. §-t a 475/2017. (XII. 28.) Korm. rendelet 64. §-a iktatta be, hatályon kívül helyezte az 503/2021. (VIII. 18.) Korm. rendelet 11. § d) pontja.
+[^36]: A 32/B. §-t a 475/2017. (XII. 28.) Korm. rendelet 64. §-a iktatta be, hatályon kívül helyezte az 503/2021. (VIII. 18.) Korm. rendelet 11. § d) pontja.

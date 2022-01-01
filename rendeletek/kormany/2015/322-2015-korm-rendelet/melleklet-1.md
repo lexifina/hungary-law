@@ -1,4 +1,4 @@
-## 38. §[^46]
+## 38. §[^48]
 
 1. melléklet a 322/2015. (X. 30.) Korm. rendelethez
 
@@ -54,7 +54,7 @@
 
 2.1.2. Előzmény okiratok (másolatban):
 
-2.1.2.1.[^47] jogszabályban meghatározott esetekben végleges és hatályos építési (létesítési) engedély,
+2.1.2.1.[^49] jogszabályban meghatározott esetekben végleges és hatályos építési (létesítési) engedély,
 
 2.1.2.2. felmentések, valamint eltérési engedélyek.
 
@@ -92,5 +92,5 @@
 
 2.4. A 10. § (1) bekezdése szerinti árazott költségvetés alapján készített árazatlan költségvetési kiírás.
 
-[^46]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^47]: Az 1. melléklet 2. pont 2.1.2.1. alpontja a 457/2017. (XII. 28.) Korm. rendelet 548. § f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^48]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: Az 1. melléklet 2. pont 2.1.2.1. alpontja a 457/2017. (XII. 28.) Korm. rendelet 548. § f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
