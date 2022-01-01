@@ -1,4 +1,4 @@
-## 6. §[^4]
+## 6. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. §, 2. §, 5. § és 6. §, valamint az 1–3. és 6–8. melléklet 2022. február 1-jén lép hatályba.
 
-[^4]: A 6. § a 7. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^6]: A 6. § a 7. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-3. melléklet az 59/2021. (XII. 28.) EMMI rendelethez[^7]
+3. melléklet az 59/2021. (XII. 28.) EMMI rendelethez[^9]
 
-[^7]: A 3. melléklet a 7. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^9]: A 3. melléklet a 7. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.

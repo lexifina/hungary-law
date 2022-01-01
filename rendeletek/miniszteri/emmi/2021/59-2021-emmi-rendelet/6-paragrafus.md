@@ -1,3 +1,3 @@
-## 5. §[^3]
+## 5. §[^5]
 
-[^3]: Az 5. § a 7. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
+[^5]: Az 5. § a 7. § (2) bekezdése alapján 2022. február 1-jén lép hatályba.
