@@ -20,9 +20,11 @@ d) a rendvédelmi szerv és a Katonai Nemzetbiztonsági Szolgálat.
 
 a) a Nemzeti Média- és Hírközlési Hatóság,
 
-b) a Magyar Energetikai és Közmű-szabályozási Hivatal és
+b) a Magyar Energetikai és Közmű-szabályozási Hivatal,
 
-c) a Szabályozott Tevékenységek Felügyeleti Hatósága.
+c) a Szabályozott Tevékenységek Felügyeleti Hatósága és
+
+d) az Országos Atomenergia Hivatal.
 
 (4) Autonóm államigazgatási szerv
 
