@@ -6,4 +6,4 @@
 
 (3)
 
-(4)
+(4) A Khtv. 20/J. § (8) bekezdésében a „ponton” szövegrész helyébe a „ponton vagy az Eüsztv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel” szöveg lép.
