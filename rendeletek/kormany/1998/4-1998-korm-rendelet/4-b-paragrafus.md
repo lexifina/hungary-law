@@ -14,8 +14,11 @@ d) katonai repülőtéri irányító körzetben az illetékes légiforgalmi szol
 
 ## az adott légtérre vonatkozó légiközlekedési szabályok betartása mellett működtethető.
 
-(4) Az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott védett létesítmények vonatkoztatási pontjától számított 200 méteres körzetben, valamint a kiemelt nemzeti emlékhely területe feletti légtérben a 25 kg maximális felszálló tömeget meg nem haladó pilóta nélküli állami légijármű – a (3) bekezdés b) pontjában foglaltak megtartásán túl – az Országgyűlési Őrség előzetes hozzájárulása mellett működtethető.
+(4)[^38] Az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott védett létesítmények, valamint a kiemelt nemzeti emlékhely 200 méteres körzete feletti légtérben a 25 kg maximális felszálló tömeget meg nem haladó pilóta nélküli állami légijármű – a (3) bekezdés b) pontjában foglaltak megtartásán túl – az Országgyűlési Őrség biztonsági szempontok mérlegelése alapján megadott előzetes hozzájárulása esetén működtethető.
 
-(5) Az Országgyűlési Őrség a kiemelt nemzeti emlékhely területe feletti légtér tekintetében a (4) bekezdés szerinti hozzájárulást a Kiemelt Nemzeti Emlékhely Bizottság egyetértése esetén adhatja meg. Az e rendelkezés végrehajtásával kapcsolatos együttműködésük kereteiről az Országgyűlési Őrség és a Kiemelt Nemzeti Emlékhely Bizottság megállapodást köt.
+(5)[^39] Az Országgyűlési Őrség a kiemelt nemzeti emlékhely 200 méteres körzete feletti légtér tekintetében a (4) bekezdés szerinti hozzájárulást a Kiemelt Nemzeti Emlékhely Bizottság egyetértése esetén adhatja meg. Az egyetértési jog gyakorlásával kapcsolatos együttműködésük kereteiről az Országgyűlési Őrség és a Kiemelt Nemzeti Emlékhely Bizottság megállapodást köt.
 
 (6) A (4) bekezdésben foglalt előzetes hozzájárulás eljárási szabályait a 25 kg maximális felszálló tömeget meg nem haladó pilóta nélküli állami légijárművet üzemeltető és a védett létesítmény zavartalan és biztonságos működésének biztosításáért felelős szervezet közötti együttműködési megállapodás részletezheti.
+
+[^38]: A 4/B. § (4) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^39]: A 4/B. § (5) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

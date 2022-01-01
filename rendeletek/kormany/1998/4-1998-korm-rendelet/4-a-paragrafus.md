@@ -20,16 +20,22 @@ h) a forgalmi tájékoztató körzetben, kivéve, ha a repülőtér üzemben tar
 
 i) az Együttes rendelet 2. melléklet III. Nem ellenőrzött légterek alcím 5. táblázatában meghatározott légterekben, kivéve, ha ahhoz az illetékes légiforgalmi szolgálat hozzájárult,
 
-j) a III. osztályú repülőterek vonatkoztatási pontjától számított 2 km sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
+j)[^32] a III. osztályú repülőterek vonatkoztatási pontjától számított 2 km sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és – a 8/C. § (5) bekezdés a)–f) pontjában meghatározott esetek kivételével – azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
 
-k) a IV. osztályú repülőterek vonatkoztatási pontjától számított 2 km sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
+k)[^33] a IV. osztályú repülőterek vonatkoztatási pontjától számított 2 km sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és – a 8/C. § (5) bekezdés a)–f) pontjában meghatározott esetek kivételével – azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
 
-l) az V. osztályú repülőterek vonatkozási pontjától számított 750 méteres sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
+l)[^34] az V. osztályú repülőterek vonatkozási pontjától számított 750 méteres sugarú körön belül, kivéve, ha a repülőtér üzemben tartója hozzájárult, és – a 8/C. § (5) bekezdés a)–f) pontjában meghatározott esetek kivételével – azt a tevékenységet végző a hozzájárulás csatolásával a tevékenység megkezdése előtt legkésőbb 2 nappal bejelentette a légiközlekedési hatósághoz,
 
-m) Drop-Zone légtérben annak működési ideje alatt, kivéve, ha ehhez a koordinációs feladatokat ellátó szervezet hozzájárult, és e szervezet, valamint a távoli pilóta között közvetlen elérés és kommunikáció biztosított,
+m)[^35] Drop-Zone légtérben annak működési ideje alatt, kivéve, ha ehhez a koordinációs feladatokat ellátó szervezet hozzájárult, és e szervezet, valamint a távoli pilóta között közvetlen elérés és kommunikáció biztosított,
 
-n) az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott védett létesítmények, a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendeletben, az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények köréről szóló 24/1997. (III. 26.) BM rendeletben meghatározott, az állam működése szempontjából kiemelten fontos létesítmények vonatkoztatási pontjától számított 200 méteres körzetben, valamint a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben meghatározott kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely) területe feletti légtérben,
+n)[^36] az Országgyűlésről szóló 2012. évi XXXVI. törvény 125. § (2) bekezdés b) pontjában meghatározott védett létesítmények, a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben meghatározott kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely), a védett személyek és a kijelölt létesítmények védelméről szóló 160/1996. (XI. 5.) Korm. rendeletben, valamint az állam működése, illetőleg a lakosság ellátása szempontjából kiemelten fontos létesítmények köréről szóló 24/1997. (III. 26.) BM rendeletben meghatározott, az állam működése szempontjából kiemelten fontos létesítmények 200 méteres körzete feletti légtérben,
 
-o) a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény alapján kijelölt európai és nemzeti létfontosságú rendszerelemek vonatkoztatási pontjától számított 500 méteres körzetben, ide nem értve a d) pontban meghatározott területen elhelyezkedő létfontosságú rendszerelemet.
+o)[^37] a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény alapján kijelölt európai és nemzeti létfontosságú rendszerelemek 500 méteres körzete feletti légtérben, ide nem értve a d) pont szerinti légteret.
 
 [^31]: Az „A légtér igénybevétele légiközlekedési célra pilóta nélküli légijárművel vagy pilóta nélküli állami légijárművel” alcímet (4/A–4/D. §) a 39/2021. (II. 2.) Korm. rendelet 3. §-a iktatta be.
+[^32]: A 4/A. § j) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^33]: A 4/A. § k) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^34]: A 4/A. § l) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^35]: A 4/A. § m) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^36]: A 4/A. § n) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^37]: A 4/A. § o) pontja a 789/2021. (XII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-## Értelmező rendelkezések[^93]
+## Értelmező rendelkezések[^106]
 
 ## 13. § E rendelet alkalmazásában
 
@@ -22,4 +22,4 @@
 
 9. távoli pilóta: a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzembentartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet 3. cikk 27. pontja szerinti fogalom.
 
-[^93]: Az „Értelmező rendelkezések” alcímet (13. §) a 39/2021. (II. 2.) Korm. rendelet 12. §-a iktatta be.
+[^106]: Az „Értelmező rendelkezések” alcímet (13. §) a 39/2021. (II. 2.) Korm. rendelet 12. §-a iktatta be.
