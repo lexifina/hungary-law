@@ -1,0 +1,3 @@
+18. § A Hvt. 40/A. alcíme a következő 62/B. §-sal egészül ki:
+
+„62/B. § A katonai kibertér műveleti erők ügyelnek arra, hogy eljárásuk vagy intézkedésük lehetőség szerint minél kisebb zavarkeltéssel és károkozással járjon. Ha a 62/A. § (1) bekezdés c) pontja szerinti fenyegetés vagy támadás elhárítása, vagy megszakítása érdekében tett intézkedések során vagy azzal összefüggésben a katonai kibertér műveleti erők kárt okoznak, de az intézkedés elmulasztása feltehetően sokkal súlyosabb következménnyel járt volna, az így okozott károkért a katonai kibertér műveleti erőket nem terheli felelősség, kivéve, ha azokat szándékosan vagy súlyos gondatlanságból eredően okozták.”

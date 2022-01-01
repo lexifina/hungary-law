@@ -1,0 +1,3 @@
+15. § A Hvt. 52. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Szakutasításban állapíthatók meg a honvédelmi szervezetek szakmai feladatai ellátásának alapvető végrehajtási szabályai. Szakutasítás kiadására – a KNBSZ kivételével – valamennyi honvédelmi szervezetre kiterjedő hatállyal a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára, honvédelmi államtitkára, helyettes államtitkára, kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Magyar Honvédség parancsnoka és helyettese, szemlélője, csoportfőnöke, főnökei, továbbá a Magyar Honvédség egészségügyi főnöke és transzformációs főnöke jogosult.”
