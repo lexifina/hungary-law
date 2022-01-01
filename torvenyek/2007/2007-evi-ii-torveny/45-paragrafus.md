@@ -12,7 +12,7 @@ a) bevándoroltként vagy letelepedettként tartózkodik Magyarország terület�
 
 b) bevándorolt vagy letelepedett harmadik országbeli állampolgárral házassági vagy családi életközösségben él, és tartózkodási engedéllyel rendelkezik,
 
-csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet súlyosan sérti.
+csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet súlyosan veszélyezteti.
 
 (2a) A (2) bekezdésben meghatározott személy kiutasítását elrendelő határozatot az idegenrendészeti hatóság az (1) bekezdésben meghatározott szempontok figyelembevételével hozza meg.
 
@@ -26,7 +26,7 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (3) A (2) bekezdésben foglaltakat kérelmének végleges elbírálásáig a menekültügyi hatóságtól menekültkénti elismerését kérő, a menekültként elismert, illetve ideiglenes vagy kiegészítő védelemben részesített harmadik országbeli állampolgár külön jogszabályban meghatározott közvetlen családtagja esetében is alkalmazni kell.
 
-(4) Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt a számára biztosított gondolkodási idő alatt csak akkor lehet kiutasítani, ha Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti.
+(4) Az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt a számára biztosított gondolkodási idő alatt csak akkor lehet kiutasítani, ha Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet veszélyezteti.
 
 (5) Kísérő nélküli kiskorú csak akkor utasítható ki, ha a származási államában vagy más befogadó államban a család egyesítése, illetve az állami vagy egyéb intézményi gondoskodás megfelelően biztosított.
 
@@ -42,7 +42,7 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 a) az idegenrendészeti hatóság írásbeli felszólítása ellenére Magyarország területét haladéktalanul nem hagyta el, vagy
 
-b) Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet sérti.
+b) Magyarország területén történő tartózkodása a nemzetbiztonságot, a közbiztonságot vagy a közrendet veszélyezteti.
 
 (8a) Az Európai Unió tagállama által kiadott, a tagállam területén tartózkodásra jogosító engedéllyel rendelkező harmadik országbeli állampolgárt az idegenrendészeti hatóság Magyarország területéről utasítja ki, elsődlegesen azon tagállamba, amelynek területére a tartózkodási engedélye érvényes.
 

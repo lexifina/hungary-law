@@ -55,3 +55,5 @@ u) őrzött szállás: a személyes szabadságában korlátozott külföldi elhe
 v) összevont engedély: olyan tartózkodási engedély, amely a harmadik országbeli állampolgárt Magyarország területén meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítésére és tartózkodásra jogosítja;
 
 w) összevont kérelmezési eljárás: olyan eljárás, amely az általa benyújtott kérelem alapján a harmadik országbeli állampolgárnak Magyarország területén való száznyolcvan napon belül kilencven napot meghaladó tartózkodása és meghatározott foglalkoztatóval foglalkoztatási jogviszony létesítése engedélyezésére irányul.
+
+x) Fehér Kártya: olyan tartózkodási engedély, amelynek birtokosa Magyarországon kívüli országban igazolt foglalkoztatásra irányuló jogviszonyban áll, és a munkáját Magyarországról fejlett digitális technológiai megoldással végzi, vagy Magyarországon kívüli országban igazolt nyereséggel rendelkező vállalkozásban tulajdoni részesedéssel rendelkezik, és a munkáját vagy a vállalkozása irányítását Magyarországról fejlett digitális technológiai megoldással végzi.

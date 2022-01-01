@@ -50,10 +50,10 @@ b) a másodfokon eljáró hatóság harminc
 
 napon belül bírálja el.
 
-(9) Az EK letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+(9) Az EK letelepedési engedély kiadása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
 
-a) az elsőfokú eljárásban harminc,
+a) az elsőfokú eljárásban húsz,
 
-b) a másodfokú eljárásban húsz,
+b) a másodfokú eljárásban tizenöt
 
-napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely időtartam az ügyintézési határidőbe beleszámít.
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) pont esetében egy alkalommal további húsz nappal, a b) pont esetében egy alkalommal további tizenöt nappal meghosszabbítható. Ezen időtartam az ügyintézési határidőbe nem számít bele.

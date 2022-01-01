@@ -18,7 +18,11 @@ kíván Magyarország területén tartózkodni, és amennyiben a jogszabályban 
 
 (5) Az ideiglenes letelepedési engedély visszavonható, ha a harmadik országbeli állampolgár a 33. § (1) bekezdés a) vagy b) pontjában meghatározott feltételeknek nem felel meg.
 
-(6) Az ideiglenes letelepedési engedélyt vissza kell vonni, ha a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el.
+(6) Az ideiglenes letelepedési engedélyt vissza kell vonni, ha
+
+a) a harmadik országbeli állampolgárt kiutasították, vagy vele szemben beutazási és tartózkodási tilalmat rendeltek el, vagy
+
+b) a harmadik országbeli állampolgár veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát.
 
 (7) A harmadik országbeli állampolgár családtagja részére a (2) bekezdés alapján kiállított ideiglenes letelepedési engedélyt vissza kell vonni, ha
 
@@ -31,3 +35,11 @@ b) a családi kapcsolat megszűnt, kivéve, ha a harmadik országbeli állampolg
 (9) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt az Európai Unió tagállama menekültként elismerte vagy kiegészítő védelemben részesítette, az idegenrendészeti hatóság az ideiglenes letelepedési engedély kiállítása előtt a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak ellenőrzése érdekében, hogy a menekültkénti elismerés vagy kiegészítő védelem továbbra is fennáll-e.
 
 (10) Amennyiben a huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt a magyar menekültügyi hatóság vagy bíróság menekültként elismeri, illetve kiegészítő védelemben részesíti az ideiglenes letelepedési engedély kiállítása előtt, az idegenrendészeti hatóság a 94. §-ban meghatározott adatok feltüntetésével megkeresi az EK tartózkodási engedélyt kiállító tagállamot annak érdekében, hogy az az EK tartózkodási engedély okmány 'Megjegyzések' rovatát módosítsa.
+
+(11) Az ideiglenes letelepedési engedély kiadása vagy visszavonása iránti eljárásban a jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+
+a) az elsőfokú eljárásban húsz,
+
+b) a másodfokú eljárásban tizenöt
+
+napon belül adja meg az eljáró idegenrendészeti hatóságnak, amely az a) pont esetében egy alkalommal további húsz nappal, a b) pont esetében egy alkalommal további tizenöt nappal meghosszabbítható. Ezen időtartam az ügyintézési határidőbe nem számít bele.
