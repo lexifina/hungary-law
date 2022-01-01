@@ -1,0 +1,1 @@
+## „d) induló beruházás megvalósítása – a beruházó méretétől és az elszámolható költségek nagyságától függetlenül – és az újonnan létesített munkahelyek száma eléri az 50-et, feltéve, hogy a beruházás regionális szolgáltató központ létrehozatalára vagy bővítésére irányul,”
