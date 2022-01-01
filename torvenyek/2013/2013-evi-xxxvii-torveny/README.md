@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-37-00-00
 | 2020-12-27 | 2020. évi CXVIII. törvény | 2013-37-00-00.26 |
 | 2021-06-10 | 2021. évi LXIX. törvény | 2013-37-00-00.27 |
 | 2021-10-01 | 2021. évi LXIX. törvény | 2013-37-00-00.28 |
+| 2022-01-01 | 2021. évi LXIX. törvény | 2013-37-00-00.29 |

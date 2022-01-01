@@ -206,9 +206,11 @@ e) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi
 
 2. Nem Jelentő Magyar Pénzügyi Intézmény: a FATCA Megállapodás 1. cikk 1. pont q) alpontja szerinti Nem Jelentő Magyar Pénzügyi Intézmény.
 
-(6) Az V/B. Fejezet alkalmazásában
+(6) Az V/B. Fejezet és az 1. melléklet alkalmazásában
 
 1. adóév: a naptári év;
+
+1a. aktuális lakcím: a Jelentő Magyar Pénzügyi Intézmény által legutóbb nyilvántartásba vett lakcím;
 
 2. automatikus információcsere:
 
