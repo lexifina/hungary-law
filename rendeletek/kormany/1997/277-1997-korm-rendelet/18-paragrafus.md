@@ -6,9 +6,9 @@
 
 (4) A befizetett eljárási díj nem igényelhető vissza.
 
-(5)[^110] Az igazgatási szolgáltatási díj a Hivatal e rendeletben meghatározott engedélyek kiadásával, továbbá az ellenőrzési feladatok ellátásával összefüggő feladatainak ellátására, a személyi és tárgyi kiadások fedezetére, illetve a Pedagógus-továbbképzési Akkreditációs Testületről szóló 46/1999. (XII. 13.) OM rendelet 8. §-ában megfogalmazott feladatokra használható fel.
+(5)[^110] Az igazgatási szolgáltatási díj a Hivatal e rendeletben meghatározott engedélyek kiadásával, továbbá az ellenőrzési feladatok ellátásával összefüggő feladatainak ellátására, a személyi és tárgyi kiadások fedezetére használható fel.
 
 [^107]: A 18. § a 3/2010. (I. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^108]: A 18. § (2) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
 [^109]: A 18. § (3) bekezdését a 278/2019. (XI. 21.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
-[^110]: A 18. § (5) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 9. és 10. pontja, a 196/2019. (VIII. 1.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^110]: A 18. § (5) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 9. és 10. pontja, a 196/2019. (VIII. 1.) Korm. rendelet 5. § e) pontja, a 790/2021. (XII. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
