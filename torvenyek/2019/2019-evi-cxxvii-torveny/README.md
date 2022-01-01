@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-127-00-00
 | 2020-04-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-127-00-00.7 |
 | 2020-04-02 | 2010. évi CXXX. törvény | 2019-127-00-00.8 |
 | 2020-12-23 | 2020. évi CLXV. törvény | 2019-127-00-00.9 |
+| 2022-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2019-127-00-00.10 |
