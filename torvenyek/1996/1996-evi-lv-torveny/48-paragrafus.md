@@ -17,3 +17,5 @@ e) az éves vadgazdálkodási tervek adatait;
 f) vadfajonként a vadállomány mennyiségében bekövetkezett változásokat;
 
 g) a trófeabírálat adatait.
+
+h) a vadgazdálkodási jelentések adatait.

@@ -12,6 +12,6 @@ az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valami
 
 (2) Amennyiben a vadászterület vagy annak egy része a honvédelemért felelős miniszter kezelésében, illetve használatában levő területtel egybeesik, akkor – e terület vonatkozásában – a hivatásos vadász az (1) bekezdésben szabályozott tevékenységét csak az illetékes katonai szerv hozzájárulásával gyakorolhatja.
 
-(3) A hivatásos vadász egyenruha viselésére, valamint – a külön jogszabályban meghatározott feltételekkel – szolgálati vadász- és maroklőfegyver használatára jogosult. A hivatásos vadász a szolgálati maroklőfegyverét – a jogos védelmen túl – csak a sebzett szarvas, dám, muflon, őz és a vaddisznó elejtésére használhatja. A hivatásos vadász nagyvad utánkeresése során a kegyelemlövéshez legalább 5 milliméter átmérőjű sörétet is használhat.
+(3) A hivatásos vadász egyenruha viselésére, valamint – a jogszabályban meghatározott feltételekkel – szolgálati vadász- és maroklőfegyver használatára jogosult. A hivatásos vadász a szolgálati maroklőfegyverét csak a sebzett nagyvad elejtésére használhatja. A hivatásos vadász a nagyvad utánkeresése során a kegyelemlövéshez legalább 5 milliméter átmérőjű sörétet tartalmazó lőszert is használhat.
 
-(4)
+(4) A hivatásos vadász részére a szolgálati feladata teljesítése során az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok egyedeinek elejtése, elfogása után az abban meghatározott mértékű lődíj jár. A lődíj teljesítésével kapcsolatos részletes szabályokat a hivatásos vadász munkaszerződésében kell meghatározni.

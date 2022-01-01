@@ -4,9 +4,7 @@ a) a képviselet formájáról, a képviselő személyéről,
 
 b) a vadászterület határának 20. § (1) bekezdése szerinti megváltoztatására irányuló, e törvényben foglaltaknak megfelelő tartalmú kérelem előterjesztéséről, illetve
 
-c) a vadászati jog gyakorlásának, hasznosításának módjáról, feltételeiről
-
-a tulajdonukban álló földterület – ideértve a medret is – aránya szerint számított szavazattöbbséggel határoznak.
+c) a vadászati jog gyakorlásának, hasznosításának módjáról, feltételeiről a tulajdonukban álló földterület – ideértve a medret is – aránya szerint számított szavazattöbbséggel és kizárólagos jogkörben eljárva határoznak.
 
 (2) A földtulajdonosok a vadászterület összes területe – ideértve a medret is – összes tulajdonosának a tulajdoni hányada arányában viselik a vadászati jog gyakorlásával vagy hasznosításával kapcsolatos terheket, valamint részesednek annak hasznaiból.
 
@@ -58,6 +56,12 @@ d) a haszonbérleti díj kifizetését a vadászati év lezárását követő ha
 
 (12) A tulajdonosi közösség – az (1) bekezdés szerinti módon – köteles működési szabályzatot készíteni a vadászati jog gyakorlásának, hasznosításának módjáról, feltételeiről, ideértve a képviselő javadalmazásának és elszámolási kötelezettségének, valamint a vadászati jog haszonbérbe adása esetén a haszonbérleti díj elszámolásának rendjét is. A működési szabályzat elkészítésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
 
-(13) Az (1) bekezdésben foglaltak kivételével a tulajdonosi közösség vadászati hatóságnál nyilvántartásba vett képviselője is összehívhatja a tulajdonosi közösség gyűlését.
+(13) A tulajdonosi közösség vadászati hatóságnál nyilvántartásba vett képviselője is összehívhatja a tulajdonosi közösség gyűlését, a 14. § (1), (2) és (2a) bekezdésében meghatározottak szerint, kivéve az (1) bekezdés szerinti napirendi pontokról döntő gyűlést.
 
 (14) A tulajdonosi közösség gyűlését évente legalább egy alkalommal össze kell hívni. Ha a képviselő e kötelezettségének nem tesz eleget, a tulajdonosi közösség gyűlésének összehívása a 14. § (1) bekezdésében meghatározottak szerint kezdeményezhető.
+
+(15) A vadgazdálkodási üzemtervi időszak lejárta napját megelőző kilencvenedik és hatvanadik nap közötti időpontban a tulajdonosi közösség képviselője a tulajdonosi gyűlésen írásbeli pénzügyi beszámolót nyújt be a tulajdonosi közösség esetleges tartozásairól és követeléseiről, az esetleges hitelezők, pénzügyi kötelezettségek kielégítésének, a kintlévőségek beszedésének módjáról, a tulajdonosi közösség aktuális pénzügyi helyzetéről. A tulajdonosi közösség gyűlése dönt a hitelezők kielégítése után fennmaradó, valamint az elévülési időn túl fel nem vett haszonbérleti díj felhasználásáról.
+
+(16) A tulajdonosi közösség megszűnése esetén a tulajdonosi közösség képviselője intézkedik a tulajdonosi közösség bankszámlájának és adószámának megszüntetéséről, az ezt igazoló iratokat, valamint a megszűnő tulajdonosi közösség vagyonáról rendelkező tulajdonosi közösségi gyűlési határozatot tartalmazó jegyzőkönyvet a megszűnést követő hatvan napon belül benyújtja a vadászati hatóságnak.
+
+(17) A tulajdonosi közösség utolsó képviselője gondoskodik a még ki nem fizetett haszonbérleti díjnak a tulajdonosi közösség megszűnését követően az elévülési idő lejártáig történő megőrzéséről.

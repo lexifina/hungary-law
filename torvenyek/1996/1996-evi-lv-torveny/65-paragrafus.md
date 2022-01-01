@@ -1,25 +1,9 @@
-65. § (1) A vadászati hatóság az engedélyt az elkövetett cselekmény súlyától függően három hónaptól öt évig terjedő időtartamra visszavonhatja attól a vadásztól:
+65. § (1) A vadászati hatóság – a vadászlőfegyver tartását engedélyező hatóság egyidejű tájékoztatása mellett – a vadászjegyet vagy a vadászati engedélyt az elkövetett cselekmény súlyától függően három hónaptól öt évig terjedő időtartamra visszavonhatja attól a vadásztól, akivel szemben vadvédelmi bírságot szabtak ki.
 
-a) akinek vadászlőfegyver vagy ragadozó madár tartására szolgáló engedélyét vagy elöltöltő fegyver vadászati célú használatára jogosító engedélyét a hatáskörrel rendelkező hatóság véglegesen visszavonta;
+(2) A vadászati hatóság – a vadászlőfegyver tartását engedélyező hatóság egyidejű tájékoztatása mellett – a vadászjegyet vagy vadászati engedélyt visszavonja attól a vadásztól, aki a vadászjegy vagy a vadászati engedély kiállításához szükséges feltételeknek az időközben bekövetkezett változás miatt nem felel meg.
 
-b)
+(3) A vadászati hatóság a vadászjegy vagy a vadászati engedély visszavonásáról szóló döntésről, annak véglegessé válásától számított nyolc napon belül értesíti a Vadászkamarát, amely az értesítés kézhezvételét követő nyolc napon belül intézkedik a vadászjegy érvénytelenítéséről vagy a vadászati engedély visszavételéről.
 
-c) aki a másnak okozott károk fedezetére szolgáló érvényes vadászati felelősségbiztosítással nem rendelkezik;
+(4) A Vadászkamara az engedély visszavonásáról a nem kamarai tag esetén is gondoskodik.
 
-d) akivel szemben vadvédelmi bírságot szabtak ki.
-
-A vadászati hatóság eljárásának részletes feltételeit a Kormány az e törvény felhatalmazása alapján kiadott rendeletben határozza meg.
-
-(2) A vadászati hatóság az engedélyt
-
-a) meghatározott feltétel teljesítéséig visszavonhatja attól a vadásztól, aki az engedély feltételeinek az engedély lejártáig bekövetkezett változás miatt nem tud eleget tenni;
-
-b)
-
-(3)
-
-(4) A kamara az engedély visszavonásáról a nem kamarai tagok esetén is gondoskodik.
-
-(5) A vadászjegy egy évnél hosszabb időtartamra történt visszavonása esetén csak a vadászvizsga újbóli letétele után adható ismételten vadászjegy.
-
-(6) Nem kötelezhető a vadászjegy visszavonásával összefüggésben a vadászvizsga ismételt letételére az a vadász, aki a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben meghatározott középfokú vagy felsőfokú vadgazdálkodási képesítéssel rendelkezik.
+(5) Akitől a vadászjegy egy évnél hosszabb időtartamra került visszavonásra, a vadászvizsga újbóli letétele után kaphat ismételten vadászjegyet.

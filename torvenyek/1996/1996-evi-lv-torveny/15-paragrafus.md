@@ -1,6 +1,6 @@
 ## A vadászati jog haszonbérlete
 
-15. § (1) A vadászati jog haszonbérletére a Polgári Törvénykönyvnek a mezőgazdasági haszonbérletre vonatkozó szabályait az e törvényben foglalt eltérésekkel kell alkalmazni.
+15. § (1) A vadászati jog haszonbérletére a mezőgazdasági haszonbérletre vonatkozó szabályokat az e törvényben foglalt eltérésekkel kell alkalmazni.
 
 (1a) Tilos a vadászati jog alhaszonbérletbe adása. Nem minősül a vadászati jog alhaszonbérletbe adásának a vendégvadászat, valamint a bérvadászat.
 

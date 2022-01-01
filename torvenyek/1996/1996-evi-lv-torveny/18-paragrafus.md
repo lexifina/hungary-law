@@ -4,13 +4,7 @@
 
 (3) A (2) bekezdésben foglaltakat kell alkalmazni a vadászati jog haszonbérletére kötött szerződés módosításakor is.
 
-(4) A vadászati hatóság nem hagyja jóvá a vadászati jog haszonbérletére kötött szerződést, amennyiben nem biztosított:
-
-a)
-
-b) a vadgazdálkodási üzemtervben foglaltak – ideértve annak természetvédelmi előírásait is – végrehajtása, továbbá
-
-c) hogy a haszonbérleti díj mértékét nem a 17. § (2) bekezdésében foglaltak figyelembevételével állapították meg.
+(4) A vadászati hatóság nem hagyja jóvá a vadászati jog haszonbérletére kötött szerződést, ha nem biztosított a vadgazdálkodási üzemtervben foglaltak – ideértve annak természetvédelmi előírásait is – végrehajtása.
 
 (5)
 

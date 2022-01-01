@@ -1,6 +1,6 @@
 61. § (1) A vadászjegy Magyarország területén jogosít vadászatra.
 
-(2) A vadászjegyet a kamara állítja ki azzal, hogy azt évente érvényesíteni kell.
+(2) A vadászjegyet a Vadászkamara állítja ki azzal, hogy azt vadászati évenként érvényesíteni kell.
 
 (3) A vadászjegy kiállításakor, illetőleg érvényesítésekor a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben megállapított összegű díjat kell fizetni.
 

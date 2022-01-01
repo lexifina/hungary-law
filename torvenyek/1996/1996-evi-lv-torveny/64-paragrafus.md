@@ -1,18 +1,10 @@
-64. § (1) A vadász
+64. § (1) A vadász a vadászjegyet vagy a vadászati engedélyt és az e törvényben meghatározott vadfaj vadászata esetén az azonosító jelet, továbbá
 
-a) a vadászjegyet vagy a vadászati engedélyt (a továbbiakban együtt: engedély),
+a) vadászlőfegyverrel történő vadászat esetén a vadászlőfegyver-tartási engedélyt,
 
-b) az e törvényben meghatározott vadfaj vadászata esetén az azonosító jelet,
+b) ragadozó madárral történő vadászat esetén a ragadozó madárral való vadászatra jogosító engedélyt, vagy
 
-c) vadászlőfegyverrel történő vadászat esetén a vadászlőfegyver-tartási engedélyt,
-
-d) ragadozó madárral történő vadászat esetén a ragadozó madárral való vadászatra jogosító engedélyt,
-
-e) elöltöltő fegyverrel történő vadászat esetén az elöltöltő fegyver vadászati célú használatára jogosító engedélyt,
-
-f)
-
-g) magyar agárral történő vadászat esetén az agarászatra feljogosító kiegészítő vizsga teljesítésének igazolását
+c) elöltöltő fegyverrel történő vadászat esetén az elöltöltő fegyver vadászati célú használatára jogosító engedélyt
 
 a vadászat alkalmával köteles magánál tartani, és azt a vadászatra jogosult képviselője, a hivatásos vadász, a tájegységi fővadász, a vadászati, természetvédelmi hatóság vagy a rendőrség felhívására bemutatni.
 

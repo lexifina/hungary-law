@@ -4,7 +4,7 @@
 
 2. az e törvényben meghatározott tiltott eszközzel való vadászat;
 
-3. a nagyvad terelővadászatán a 45 centiméternél magasabb marmagasságú kutyával folytatott vadászat. Ez alól kivételt képeznek a származási igazolással igazoltan erdélyi kopónak minősülő hajtóebek;
+3. a tizennyolcadik életévét be nem töltött személy vadászként való részvétele vadászaton;
 
 4. az azonosító jel használata során a használatra vonatkozó rendelkezések be nem tartásával folytatott vadászat;
 
@@ -28,7 +28,7 @@
 
 14. a vízivad vadászatának kivételével a vízi járműről való vadászat;
 
-15. a gímszarvasra, a dámszarvasra, az őzre, illetve a muflonra hajtóvadászat keretében történő vadászat;
+15.
 
 16. a falkavadászat;
 
@@ -40,11 +40,11 @@
 
 20. vadászható emlősfajok esetében a működése vagy felhasználása körülményei folytán nem szelektív csapdázási módszer, a vadászható madárfajok esetében a madarak tömeges vagy nem szelektív befogását vagy elpusztítását eredményező, illetve a fajok helyi eltűnését eredményező csapdázási eljárás és módszer alkalmazása;
 
-21. az elektronikus optikai eszköz használata, kivéve azon céltávcsöveket, amelyekben elektronikusan megvilágított irányzék segíti a célzást, a megvilágított íjászirányzékot, a kézi, illetve a kereső-, vagy céltávcsőbe épített lézeres távolságmérő eszközt;
+21.
 
 22. a jogszabályban foglaltak kivételével a vadászati idényen kívüli – a vadászati hatóság engedélye nélküli – vadelejtés;
 
-23. a vad megtévesztésére alkalmas elektronikus akusztikai eszköz használata;
+23. a vad megtévesztésére alkalmas elektronikus akusztikai eszköz jogellenes használata;
 
 24.
 
@@ -54,14 +54,16 @@
 
 27. a teríték-nyilvántartásra vonatkozó szabályok megsértése.
 
-(2) A vadászati hatóság
+(2) Az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok állományának hatékony szabályozása céljából folytatott vadászathoz mesterséges fényforrás, valamint elektronikus akusztikai eszköz is használható.
 
-a) ha a vadkár másként nem hárítható el, illetve
+(3) A vadászati hatóság a mesterséges fényforrás, valamint az elektronikus akusztikai eszköz használatát kizárólag
 
-b) ha állat-egészségügyi, humán-egészségügyi vagy vagyonvédelmi indokok ezt szükségessé teszik,
+a) a vadon élő állatok és növények, valamint a természetes élőhelyek védelme érdekében,
 
-e törvény végrehajtására kiadott rendeletben meghatározott vadfajok fényszóróval történő éjszakai vadászatát engedélyezheti.
+b) a növényi kultúrák, a termés, az állatállomány, az erdők, a halállományok védelme, a vizek súlyos károsodásának megelőzése érdekében, vagy
 
-(3)
+c) a közegészség vagy közbiztonság védelmében
+
+az e törvény végrehajtására kiadott rendeletben meghatározott vadfajok állományának hatékony szabályozása céljából engedélyezi.
 
 (4)

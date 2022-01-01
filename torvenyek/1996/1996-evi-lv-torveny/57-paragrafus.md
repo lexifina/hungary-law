@@ -14,4 +14,4 @@ b) e törvény végrehajtására kiadott rendeletben meghatározott legalább k�
 
 rendelkező szakmai irányítót nevez ki, akinek nevét és elérhetőségét a vadászati hatóságnak írásban bejelenti.
 
-(5) Az a személy, aki a vadásztársaságnál felelős személy, e vadásztársaságnál nem lehet hivatásos vadász.
+(5) Aki a vadásztársaságnál az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerint felelős személynek minősül (a továbbiakban: felelős személy), e vadásztársaságnál nem lehet hivatásos vadász.

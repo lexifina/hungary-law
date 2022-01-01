@@ -6,7 +6,7 @@
 
 (3) A vadászati hatóság – közösségi jelentőségű vadászható vadfaj vonatkozásában a 38/A. § (1)–(3) bekezdésében foglaltak szerint –
 
-a) vad-, illetve állományvédelmi okból a vadászati idényen belül meghatározott vadászterületeken korlátozhatja vagy megtilthatja egy vagy több vadfaj vadászatát;
+a) a vadállomány védelme érdekében a vadászterületen vagy a vadászterület meghatározott részén korlátozhatja vagy megtilthatja egy vagy több vadfaj egyedeinek vadászatát;
 
 b) meghatározott vadfaj esetén vadászati tilalmi időben vadászatot engedélyezhet vagy vadászatra kötelezheti a vadászatra jogosultat.
 

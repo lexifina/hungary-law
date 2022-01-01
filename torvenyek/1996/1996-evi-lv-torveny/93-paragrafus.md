@@ -24,6 +24,8 @@ j) a vadgazdálkodási üzemtervek időszakos felülvizsgálata során módosít
 
 k) kapcsolatot tart az önkormányzatokkal, a vadászati érdekképviseleti szervekkel, a tulajdonosi közösség képviselőjével, a vadászati és természetvédelmi hatósággal, valamint a nemzeti park igazgatósággal.
 
+l) közreműködhet a trófeabírálati tevékenységben.
+
 (3) A tájegységi fővadász szaktanácsadási feladatkörében eljárva
 
 a) segíti a vadászatra jogosultat és a gazdálkodót a vadkármegelőzésben és vadkárelhárításban;

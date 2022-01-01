@@ -6,7 +6,7 @@ b) vadászlőfegyver-, vagy ragadozó madár behozatali engedéllyel, vagy
 
 c) állandó lakóhelyének joga szerint megkövetelt vadászlőfegyver-, vagy ragadozó madár tartási engedéllyel, továbbá
 
-d) a vadászat során másnak okozott károk fedezetére szolgáló érvényes vadászati felelősségbiztosítással.
+d) a vadászat során másnak okozott károk fedezetére szolgáló érvényes, az Európai Gazdasági Térségben letelepedett biztosító által kiállított biztosítási kötvénnyel, valamint külföldön kiállított kötvény esetében annak hiteles fordításával igazolt vadászati felelősségbiztosítással.
 
 (2) A vadászati engedélyt a kamara akkor állítja ki, ha a kérelmező az (1) bekezdés a) és d) pontja szerinti igazolásokat előzetesen bemutatja.
 

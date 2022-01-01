@@ -18,7 +18,7 @@ lehet elejteni, illetve elfogni.
 
 (1a) Az (1) bekezdéstől eltérően a hivatásos vadász – kegyelemlövés céljából – a számára engedélyezett maroklőfegyver használatával is elejtheti a vadat.
 
-(2) Vadászíjjal történő vadászat esetében gímszarvast, dámszarvast, muflont, vaddisznót és őzet kizárólag 222,7 newton húzóerőt meghaladó vadászíjjal és arra alkalmas vadászvesszővel lehet elejteni.
+(2) Vadászíjjal folytatott vadászat során a vadászható nagyvadfajokat 222,7 newton húzóerőt meghaladó vadászíjjal, és arra alkalmas vadászvesszővel lehet elejteni.
 
 (3) Vadat elfogni az e célra szolgáló hálóval, befogó karámmal, altató-, bénítólövedékes fegyverrel, valamint a vonatkozó közösségi rendeletben nem tiltott, illetve megengedett csapdázási módszerrel lehet.
 

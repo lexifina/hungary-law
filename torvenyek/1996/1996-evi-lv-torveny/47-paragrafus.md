@@ -16,6 +16,10 @@ e)
 
 f)
 
-(3) Az éves vadgazdálkodási tervet a vadászati hatóság hagyja jóvá.
+(3) A vadászati hatóság az éves vadgazdálkodási terv jóváhagyásáról az érintett tájegységi fővadász véleményét kikérve, a vadgazdálkodási üzemtervben foglaltakra is figyelemmel dönt.
 
 (4) Az éves vadgazdálkodási terv elkészítésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
+
+(5) A vadászatra jogosult az éves vadgazdálkodási tervben előírtak teljesüléséről vadgazdálkodási jelentést készít és azt a tárgyévet követő év március hónap huszadik napjáig a vadászati hatósághoz benyújtja.
+
+(6) A vadászati hatóság a jóváhagyott éves vadgazdálkodási terveket és a beérkezett vadgazdálkodási jelentéseket a tárgyévet követő év április hónap tizenötödik napjáig az Országos Vadgazdálkodási Adattár részére elektronikusan megküldi.

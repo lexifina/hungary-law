@@ -8,7 +8,7 @@
 
 (5) A trófeabírálattal egyidejűleg a miniszter által az e törvény felhatalmazása alapján kiadott rendeletben meghatározott összegű díjat kell fizetni.
 
-(6) A vadászati hatóság a trófeabírálat során a rendkívüli értékű trófea nemzeti értékké nyilvánítását kezdeményezheti az Országos Trófeabíráló Testületnél. A nemzeti értékké nyilvánított trófeát megsemmisíteni, feldolgozni, átalakítani tilos, azt az országból csak az Országos Trófeabíráló Testület engedélyével lehet kivinni.
+(6)
 
 (7) A trófeabírálati eljárásban nem vehet részt olyan személy, aki vadkereskedelemben vagy vadászatszervezésben érdekelt, továbbá olyan vad trófeabírálatában, amelyet olyan vadászatra jogosult mutat be, amelynél saját maga vagy a Polgári Törvénykönyv szerinti közeli hozzátartozója érdekelt.
 

@@ -26,13 +26,13 @@ c) rendeletben szabályozza
 
 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait,
 
-6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, valamint az értük fizetendő költségtérítés mértékére vonatkozó szabályokat,
+6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, érvénytelenítésére, valamint az értük fizetendő költségtérítés mértékére vonatkozó szabályokat,
 
 7. a vadászkutya használatának, valamint vizsgáztatásának szabályait,
 
 8. a vadkár, vadászati kár, valamint vadban okozott kár megállapításának szabályait,
 
-9. a vadászvizsgát megelőző tanfolyam szabályait, szervezésének feltételeit, a vadászvizsga tartalmát és szabályait, valamint a vizsgaszabályzatot,
+9. a vadászvizsgát megelőző tanfolyam szabályait, szervezésének feltételeit, a vadászvizsga, valamint a vadászíjjal, ragadozó madárral, illetve magyar agárral való vadászatra feljogosító kiegészítő vizsga tartalmát és szabályait, továbbá a vizsgaszabályzatot és a vadászvizsga főkönyv vezetésének szabályait,
 
 10. az egyes vadfajok vadászatának formáját,
 
@@ -70,27 +70,23 @@ c) rendeletben szabályozza
 
 27. az éjszakai vadászat rendjének különös szabályait,
 
-28.
+28. a vadgazdálkodási üzemtervi időszak lejártát követően az elévülési időn túl fel nem vett haszonbérleti díj összegének a vad élőhelyének fejlesztésére és a vadállomány védelmére történő fordításának szabályait,
 
 29. az Országos Vadgazdálkodási Adattárból történő adatszolgáltatás módját,
 
-30.
+30. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét,
 
-31. a vadgazdálkodási és a vadvédelmi bírság befizetésének rendjét,
+31. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat,
 
-32. a hivatásos vadász szolgálati igazolványára és szolgálati jelvényére vonatkozó szabályokat,
+32. a földhasználót érintő fokozott közreműködéssel járó eseteket, és az ilyenkor követendő eljárást,
 
-33. a földhasználót érintő fokozott közreműködéssel járó eseteket, és az ilyenkor követendő eljárást,
+33. az egyes növénykultúrákban keletkezett vadkárra vonatkozó bejelentési időszakokat és határidőket,
 
-34. az egyes növénykultúrákban keletkezett vadkárra vonatkozó bejelentési időszakokat és határidőket,
+34. a tájegységi fővadász működésével és szakmai irányításával kapcsolatos feladatokat,
 
-35. a tájegységi fővadász működésével és szakmai irányításával kapcsolatos feladatokat,
+35. a védett természeti területet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területet, továbbá az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve a vadászterületen a vad mozgását befolyásoló tartós telepítésű kerítés létesítésének feltételeit,
 
-36. a trófeabírálat részletes szabályait,
-
-37. a védett természeti területet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő területet, továbbá az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területeket kivéve a vadászterületen a vad mozgását befolyásoló tartós telepítésű kerítés létesítésének feltételeit,
-
-38. a vadászati hatósági feladatokat ellátó személyek egyenruházatára, szolgálati felszerelésére, jelvényére és igazolványára vonatkozó részletes szabályokat.
+36. a vadászati hatósági feladatokat ellátó személyek egyenruházatára, szolgálati felszerelésére, jelvényére és igazolványára vonatkozó részletes szabályokat.
 
 (1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 
