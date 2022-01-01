@@ -8,7 +8,7 @@ b) a fenntartó kötelezettséget vállal arra, hogy a szolgáltatást a jogszab
 
 (2)[^91] A finanszírozási szerződés megkötésének feltétele az alábbi iratok benyújtása:
 
-a)[^92] a pályázó, illetve a 9/A. § szerinti esetben az engedélyest átvevő fenntartó és – ha a szolgáltató jogi személy – a szolgáltató nyilatkozata arról, hogy nincs köztartozása;
+a)[^92] a fenntartó, illetve a 9/A. § szerinti esetben az engedélyest átvevő fenntartó és – ha a szolgáltató jogi személy – a szolgáltató nyilatkozata arról, hogy nincs köztartozása;
 
 b)[^93]
 
@@ -93,7 +93,7 @@ q)[^117]
 [^89]: A 10. § (1) bekezdés nyitó szövegrésze a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^90]: A 10. § (1) bekezdés a) pontja a 180/2019. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^91]: A 10. § (2) bekezdésének bevezető szövegrésze a 279/2009. (XII. 9.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^92]: A 10. § (2) bekezdés a) pontja a 140/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 381/2017. (XII. 11.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^92]: A 10. § (2) bekezdés a) pontja a 140/2011. (VII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 381/2017. (XII. 11.) Korm. rendelet 14. § a) pontja, a 790/2021. (XII. 27.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^93]: A 10. § (2) bekezdés b) pontját a 140/2011. (VII. 21.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
 [^94]: A 10. § (2) bekezdés c) pontja a 355/2012. (XII. 13.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
 [^95]: A 10. § (2) bekezdés e) pontja a 349/2012. (XII. 12.) Korm. rendelet 51. §-a szerint módosított szöveg.
