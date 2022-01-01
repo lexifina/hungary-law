@@ -6,14 +6,15 @@
 
 a) az elosztó hálózatra közvetlenül vagy közvetve csatlakozó
 
-aa) felhasználó,
+aa)[^14] rendszerhasználó, illetve,
 
-ab) erőmű,
+ab)[^15]
 
-ac) a közvetlen vezeték vagy magánvezeték engedélyese vagy üzemeltetője, valamint további elosztó, illetve
+ac)[^16] a közvetlen vezeték vagy magánvezeték engedélyese vagy üzemeltetője, valamint további elosztó
 
-b) az országhatárt keresztező elosztó vezetéken keresztül villamosenergia-szállítást végző
+b)[^17]
 
-ba) az elosztó hálózatról történő villamosenergia-kiszállítás után és
-
-bb) az elosztó hálózatra történő villamosenergia-beszállítás után
+[^14]: Az 5. § a) pont aa) alpontja a 14/2021. (XI. 8.) MEKH rendelet 7. § c) pontjával megállapított szöveg.
+[^15]: Az 5. § a) pont ab) alpontját a 14/2021. (XI. 8.) MEKH rendelet 8. § c) pontja hatályon kívül helyezte.
+[^16]: Az 5. § a) pont ac) alpontja a 14/2021. (XI. 8.) MEKH rendelet 7. § d) pontjával megállapított szöveg.
+[^17]: Az 5. § b) pontját a 14/2021. (XI. 8.) MEKH rendelet 8. § c) pontja hatályon kívül helyezte.

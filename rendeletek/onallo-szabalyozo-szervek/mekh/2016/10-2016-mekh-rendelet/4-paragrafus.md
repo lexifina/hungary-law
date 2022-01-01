@@ -6,9 +6,9 @@
 
 a) az átviteli hálózatra közvetlenül vagy közvetve csatlakozó
 
-aa) felhasználó,
+aa)[^10] rendszerhasználó, illetve,
 
-ab) erőmű, illetve
+ab)[^11]
 
 ac) közvetlen vezeték vagy magánvezeték engedélyese vagy üzemeltetője
 
@@ -24,8 +24,13 @@ cb) az átviteli hálózatra történő villamosenergia-beszállítás után
 
 (2) Az elosztó részére az átviteli díjat az elosztó hálózatra közvetlenül vagy közvetve csatlakozó
 
-a) felhasználó,
+a)[^12] rendszerhasználó, illetve,
 
-b) erőmű, illetve
+b)[^13]
 
 c) közvetlen vezeték vagy magánvezeték engedélyese vagy üzemeltetője
+
+[^10]: A 4. § (1) bekezdés a) pont aa) alpontja a 14/2021. (XI. 8.) MEKH rendelet 7. § a) pontjával megállapított szöveg.
+[^11]: A 4. § (1) bekezdés a) pont ab) alpontját a 14/2021. (XI. 8.) MEKH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^12]: A 4. § (2) bekezdés a) pontja a 14/2021. (XI. 8.) MEKH rendelet 7. § b) pontjával megállapított szöveg.
+[^13]: A 4. § (2) bekezdés b) pontját a 14/2021. (XI. 8.) MEKH rendelet 8. § b) pontja hatályon kívül helyezte.

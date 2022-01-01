@@ -58,7 +58,7 @@ b) az adott elszámolási időszakban (de legfeljebb 12 hónap alatt) a háztart
 
 ## az aránya, két tizedesjegyre kerekítve;
 
-13a.[^9] teljesítményarány: az igényelt csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítmény-növekményének százalékos (egész százalékra kerekített) aránya, amelynek figyelembe vehető mértéke nem haladhatja meg a 100%-ot;
+13a.[^9] teljesítményarány: az igényelt csatlakozási teljesítmény és a csatlakozási beruházással létrejött hálózati eszközök névleges teljesítménynövekményének százalékos (három tizedesjegyre kerekített) aránya, amelynek figyelembe vehető mértéke nem haladhatja meg a 100,000%-ot;
 
 14. túláramvédelmi készülék: kismegszakító, olvadóbiztosító, túláram-korlátozóval rendelkező megszakító.
 
@@ -69,4 +69,4 @@ b) az adott elszámolási időszakban (de legfeljebb 12 hónap alatt) a háztart
 [^6]: A 2. § 6. pontja az 1/2021. (II. 10.) MEKH rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^7]: A 2. § 9a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
 [^8]: A 2. § 9b. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (5) bekezdése iktatta be.
-[^9]: A 2. § 13a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (6) bekezdése iktatta be.
+[^9]: A 2. § 13a. pontját az 1/2021. (II. 10.) MEKH rendelet 1. § (6) bekezdése iktatta be, szövege a 14/2021. (XI. 8.) MEKH rendelet 1. §-ával megállapított szöveg.
