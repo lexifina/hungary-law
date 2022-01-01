@@ -1,3 +1,1 @@
-## 23. §[^23]
-
-[^23]: A 23. § a 29. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „l) a Menetrendadásra kötelezetteknek a vonatkozó kormányrendeletben meghatározott önálló kiegyenlítő menedzsmentje során elszámolt villamos energia ellenértékének tárgyhavi összegét.”

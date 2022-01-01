@@ -1,3 +1,1 @@
-## 21. §[^21]
-
-[^21]: A 21. § a 29. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „5a. napon belüli termelési menetrend: a napi termelési menetrend adott részeinek módosítása céljából a Menetrendadásra kötelezett által a Befogadó részére előzetesen megadott, a KÁT termelőnek vagy összevont menetrend esetén a Menetrend-csoportba tartozó KÁT termelőknek a nap minden elszámolási mérési időintervallumára vonatkozó tervezett termelési adatait tartalmazó menetrendje a vonatkozó kormányrendeletben meghatározott önálló kiegyenlítő menedzsment nélkül;”
