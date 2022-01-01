@@ -4,7 +4,7 @@ a) jóváhagyja az MMA Alapszabályát és szükség szerint módosítja azt;
 
 b) jóváhagyja a köztestület munkájáról és a magyar művészeti élet általános helyzetéről az Országgyűlés számára készített elnöki beszámoló koncepcióját;
 
-c) a nem akadémikus tag kivételével dönt a tagok megválasztásról, valamint a tagozatok vezetői kivételével megválasztja és visszahívja az MMA tisztségviselőit;
+c) a nem akadémikus tag kivételével dönt a tagok megválasztásáról, valamint a tagozatok vezetői kivételével megválasztja és visszahívja az MMA tisztségviselőit;
 
 d) az államháztartásról szóló törvény és a költségvetési törvény keretei között jóváhagyja az MMA következő évi költségvetésének irányelveit és az előző évi költségvetés végrehajtásáról szóló beszámolóját;
 
@@ -24,7 +24,11 @@ ib) használatba adásának, egyéb módon történő hasznosításának elveir�
 
 j) dönt zártkörűen működő részvénytársaság vagy korlátolt felelősségű társaság alapítása, ilyen gazdasági társaságokban részesedés szerzése elveiről;
 
-k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi kötelezettségvállalásról (a továbbiakban: egyéb kötelezettségvállalás), ha annak értéke meghaladja az 500 millió forintot;
+k) dönt – az i) pont ia) alpontjában foglalt eltéréssel – az MMA általi kötelezettségvállalásról (a továbbiakban: egyéb kötelezettségvállalás), ha
+
+ka) annak értéke meghaladja az 500 millió forintot és
+
+kb) annak tárgya nem a 27. § (7) bekezdése szerinti gazdasági társaság működési célú, az MMA költségvetéséből való támogatása;
 
 l) elfogadja az i) és j) pont szerinti elvekre is figyelemmel megállapított vagyongazdálkodási szabályzatot;
 

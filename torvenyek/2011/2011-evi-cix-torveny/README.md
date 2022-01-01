@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-109-00-00
 | 2020-04-11 | 2020. évi XIX. törvény | 2011-109-00-00.22 |
 | 2020-07-01 | 2020. évi XXX. törvény | 2011-109-00-00.23 |
 | 2021-01-01 | 2020. évi CXLVIII. törvény | 2011-109-00-00.24 |
+| 2022-01-01 | 2021. évi CXLVIII. törvény | 2011-109-00-00.25 |

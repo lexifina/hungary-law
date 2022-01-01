@@ -6,7 +6,7 @@ b) valamely állam vagy nemzetközi szervezet, valamely kulturális, művészeti
 
 (1a) Rendes taggá választható – az (1) bekezdésben foglaltakon túl – az a személy, aki a művészeti tevékenységgel kapcsolatos korszerű elméleti álláspontok megismertetésével és közvetítésével, tendenciák megfigyelésével, garanciarendszerek kidolgozásával kimagasló eredményeket és széles körű társadalmi elismertséget ért el.
 
-(1b) Rendes taggá a levelező tag választható, legkorábban a levelező taggá választása napját követő két év elteltével.
+(1b) Rendes taggá a levelező tag választható.
 
 (2)
 
