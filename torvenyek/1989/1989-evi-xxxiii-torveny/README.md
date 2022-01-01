@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1989-33-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 1989-33-00-00.16 |
 | 2014-05-06 | 2014. évi XIV. törvény | 1989-33-00-00.17 |
 | 2020-05-29 | 2020. évi XXVII. törvény | 1989-33-00-00.18 |
+| 2022-01-01 | 2020. évi XXVII. törvény | 1989-33-00-00.19 |
