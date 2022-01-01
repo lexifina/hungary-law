@@ -6,6 +6,8 @@
 
 (3) Szociálpolitikai menetdíj-támogatást a közlekedési szolgáltató, más közlekedési szolgáltató által saját nevében történő továbbértékesítés esetén – a szolgáltatást nyújtó közlekedési szolgáltatóval történő elszámolási kötelezettség mellett – a szolgáltatást nyújtó közlekedési szolgáltató jogosult igényelni. A közlekedésszervező jogosult a szociálpolitikai menetdíj-támogatás igénylésére, amennyiben a közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján a közlekedésszervező végzi.
 
+(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.
+
 (4) Nem vehető igénybe szociálpolitikai menetdíj-támogatás
 
 a) azon utazási kedvezmények után, amelynek pénzügyi fedezetére jogszabály más forrást határoz meg,

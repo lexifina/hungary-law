@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-41-00-00
 | 2021-03-01 | 2021. évi II. törvény | 2012-41-00-00.37 |
 | 2021-06-13 | 2021. évi LIX. törvény | 2012-41-00-00.38 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2012-41-00-00.39 |
+| 2022-01-01 | 2021. évi CXXXVI. törvény | 2012-41-00-00.40 |

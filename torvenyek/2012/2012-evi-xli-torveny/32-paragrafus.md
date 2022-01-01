@@ -16,7 +16,7 @@ g) az országos, elővárosi és regionális személyszállítási közszolgált
 
 h) a helyi személyszállítási közszolgáltatások tekintetében az egyes utazások járathoz kötötten – meghatározott időponthoz vagy időszakhoz kötött utazások esetén az érvényesítés dátuma, illetve az érvényességi időszak szerinti –, kedvezménykategóriánkénti, vonali bontásban rögzüljenek mind a jeggyel, mind a bérlettel történő utazás esetén.
 
-(2) Az országos személyszállítási közszolgáltatást, regionális személyszállítási közszolgáltatást vagy elővárosi személyszállítási közszolgáltatást végző közlekedési szolgáltató köteles más közlekedési szolgáltatók által vagy egyéb értékesítési helyen értékesített, a társaság járataira szóló jegyet, bérletet elfogadni és ennek elszámolásáról, illetve ellentételezéséről írásban megállapodni.
+(2) Az országos, regionális, elővárosi vagy helyi személyszállítási közszolgáltatást végző közlekedési szolgáltató köteles más közlekedési szolgáltató által vagy egyéb értékesítési helyen értékesített, a szolgáltató járataira szóló jegyet, bérletet, valamint összekapcsolt és integrált díjterméket elfogadni, továbbá más közlekedési szolgáltatóval a bevételek megosztásáról, elszámolásáról, a szociálpolitikai menetdíj támogatás igénylésével kapcsolatos feladatokról, és az ellentételezés részletes szabályairól írásban megállapodni.
 
 (3) Az országos, regionális vagy elővárosi személyszállítási közszolgáltatást végző közlekedési szolgáltatók kötelesek sztrájk és rendkívüli akadályoztatás esetén a jegyek és bérletek kölcsönös elfogadását érintő együttműködés általános kereteit előre írásban rögzíteni.
 

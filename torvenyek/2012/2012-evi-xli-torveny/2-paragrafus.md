@@ -106,7 +106,7 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 
 38. utazási okmány: e törvény alkalmazásában utazási jogosultság, illetve kedvezmény megjelenítésére, igénybevételére és igazolására szolgáló dokumentum;
 
-39. közösségi autóbérlő rendszer: személygépkocsi-kölcsönző rendszer, amely díj ellenében, érvényes, Magyarország területén személygépkocsi közúton történő vezetésére jogosító okmánnyal rendelkező, előzetesen regisztrált felhasználók számára folyamatosan igénybe vehető, továbbá központi telematikai rendszerrel irányított módon, automatizált helyszíni kölcsönzési folyamat alkalmazásával, az üzemeltetési területen belül szabad felhasználást biztosítva működik;
+39. közösségi autóbérlő rendszer: gépkocsi-kölcsönző rendszer, amely a Magyarország területén B-kategóriájú vezetői engedéllyel vezethető gépkocsi közúton történő vezetésére jogosító okmánnyal rendelkező, előzetesen regisztrált felhasználók számára díj ellenében folyamatosan igénybe vehető, továbbá központi telematikai rendszerrel irányított módon, automatizált helyszíni kölcsönzési folyamat alkalmazásával, az üzemeltetési területen belül szabad felhasználást biztosítva működik;
 
 40. átszállójegy: egy vagy több vasúttársaság által működtetett, egymást követő vasúti szolgáltatásokra jogosító szállítási szerződést képviselő menetjegy vagy menetjegyek;
 
@@ -119,3 +119,15 @@ b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vel
 44. autóbusz-állomás üzemeltető szerv: az autóbusz-állomás ingatlan-nyilvántartásban feltüntetett tulajdonosa, vagy a tulajdonos többségi befolyása alatt álló gazdasági társaság, vagy az autóbusz-állomás üzemeltetésre alapított költségvetési szerv, vagy a tulajdonossal az üzemeltetésre vonatkozóan megállapodást kötő személyszállítási közszolgáltatást nyújtó szolgáltató vagy más gazdasági társaság;
 
 45. autóbusz-megállóhely üzemeltető szerv: az út közúti közlekedésről szóló törvény szerinti kezelője, a közút területén kívül elhelyezkedő autóbusz-megállóhelyek kivételével, ahol az autóbusz-megállóhely üzemeltetője az autóbusz-megállóhely ingatlannyilvántartásban feltüntetett tulajdonosa vagy az üzemeltetésre vonatkozóan megállapodást kötő személyszállítási közszolgáltatást nyújtó szolgáltató vagy más gazdasági társaság.
+
+46. kamera: nem emberi testre felhelyezett, képfelvétel, továbbá kép- és hangfelvétel rögzítésére alkalmas elektronikus biztonságtechnikai rendszer;
+
+47. testkamera: emberi testre felhelyezhető vagy ruházatra felszerelhető képfelvétel, továbbá kép-és hangfelvétel rögzítésre alkalmas elektronikus biztonságtechnikai rendszer;
+
+48. integrált személyszállítási közszolgáltatás: az 1370/2007/EK rendelet 2. cikk m) pontja szerinti összekapcsolt szállítási szolgáltatások;
+
+49. összekapcsolt személyszállítási közszolgáltatás: integrált személyszállítási közszolgáltatásnak nem minősülő, meghatározott földrajzi területen azonos díjtermékekkel igénybe vehető azon országos, regionális, elővárosi illetve helyi személyszállítási közszolgáltatások, valamint ezekhez kapcsolódó vízi személyszállítási közszolgáltatások összessége, amelyeket – az 5. §-ban meghatározottakra tekintettel – két vagy több közlekedési szolgáltató a megrendelő vagy megrendelők által jóváhagyott együttműködési megállapodás alapján végez;
+
+50. összekapcsolt díjtermék: összekapcsolt személyszállítási közszolgáltatás igénybevételére jogosító bérlet vagy menetjegy, amely az 5. § (3) és (4) bekezdés szerinti, vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra;
+
+51. integrált díjtermék: integrált személyszállítási közszolgáltatás igénybevételére jogosító bérlet és menetjegy, amely az 5. § (3) és (4) bekezdés szerinti vagy a 32. § (2) bekezdés szerinti együttműködési megállapodás alapján kerül alkalmazásra.

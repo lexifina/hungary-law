@@ -9,3 +9,5 @@ b) a közforgalmú közlekedési szolgáltatások nyújtásához szükséges aut
 más személyszállítási szolgáltatást nyújtó szolgáltatók számára.
 
 (2) A személyszállítási szolgáltatási tevékenység végzéséhez szükséges állomások, megállóhelyek, valamint egyéb utasforgalmi létesítmények legalább többségi állami tulajdonú üzemeltetői kötelesek a Kormány egyedi döntése, vagy a közigazgatási szerv megkeresése alapján biztosítani a személyforgalom lebonyolítására és kiszolgálására szolgáló létesítményben a közigazgatási szervek számára az ügyintézést nyújtó szervezet elhelyezését, annak akadálymentes megközelítését, az állomás és a távközlési hálózat használatát és üzemeltetését. Az ügyintézés helyszínét biztosító helyiség igénybevételével és használatával kapcsolatos szabályokról, valamint a helyiség üzemeltetésével kapcsolatos közvetlen költségek (közüzemi díjak és önköltségi szinten számított épületüzemeltetési költségek) viseléséről a létesítmény üzemeltetője és az érintett közigazgatási szerv szerződésben rendelkeznek.
+
+(3) Az (1) bekezdésben foglaltak megtartását az autóbuszos hatóság ellenőrzi.
