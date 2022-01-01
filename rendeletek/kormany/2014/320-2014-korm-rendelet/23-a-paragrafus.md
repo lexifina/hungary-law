@@ -1,3 +1,3 @@
-## 14/A.[^118]
+## 14/A.[^119]
 
-[^118]: A 14/A. alcímet (23/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (10) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés h) pontja.
+[^119]: A 14/A. alcímet (23/A. §) a 335/2016. (XI. 11.) Korm. rendelet 4. § (10) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés h) pontja.
