@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-2
 | 2021-02-01 | 2012-84-20-22.28 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2021-08-17 | 2012-84-20-22.29 | 477/2021. (VIII. 9.) Korm. rendelet |
 | 2021-12-23 | 2012-84-20-22.30 | 717/2021. (XII. 20.) Korm. rendelet |
+| 2022-01-01 | 2012-84-20-22.31 | 323/2014. (XII. 15.) Korm. rendelet |

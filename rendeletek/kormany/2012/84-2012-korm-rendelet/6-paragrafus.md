@@ -4,7 +4,7 @@
 
 (2)[^36] A NISZ Nemzeti Infokommunikációs Szolgáltató Zrt., az Idomsoft Zrt., a Kopint-DATORG Informatikai és Vagyonkezelő Kft. és a Magyar Posta Zrt. az e rendelet szerinti tevékenységeinek mint közfeladatnak ellátására közszolgáltatási szerződést köt az e-közigazgatásért felelős miniszterrel.
 
-(3)[^37] Az egységes kormányzati ügyiratkezelő rendszerhez kapcsolódóan megvalósuló papíralapú irat hiteles elektronikus irattá történő átalakítására vonatkozóan a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. szerződést köt a Magyar Posta Zrt.-vel.
+(3)[^37]
 
 (4)[^38] Az e rendeletben szereplő elektronikus ügyintézési szolgáltatások nyújtásához szükséges informatikai infrastruktúra környezetet – az (5) bekezdésben meghatározott kivétellel – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. a Kormányzati Adatközpontban, a Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendeletben előírtak szerint működteti.
 
@@ -13,6 +13,6 @@
 [^34]: Az 5. § az 572/2020. (XII. 9.) Korm. rendelet 50. §-ával megállapított szöveg.
 [^35]: A 6. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 51. §-ával megállapított szöveg.
 [^36]: A 6. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 665. §-ával megállapított, a 260/2020. (VI. 4.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^37]: A 6. § (3) bekezdését a 323/2014. (XII. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 200. § (10) bekezdésével megállapított szöveg.
+[^37]: A 6. § (3) bekezdését a 323/2014. (XII. 15.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 477/2021. (VIII. 9.) Korm. rendelet 9. §-a.
 [^38]: A 6. § (4) bekezdését újonnan a 260/2020. (VI. 4.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^39]: A 6. § (5) bekezdését a 260/2020. (VI. 4.) Korm. rendelet 2. § (3) bekezdése iktatta be.
