@@ -1,3 +1,3 @@
-## 12/A. §[^13] Ha a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 12/B. §[^15] E rendeletnek az egyes igazságügyi tárgyú kormányrendeletek módosításáról szóló 764/2021. (XII. 23.) Korm. rendelettel megállapított 5. § (1) bekezdését a 2022. január 1. napját követően indított eljárások tekintetében kell alkalmazni.
 
-[^13]: A 12/A. §-t a 477/2016. (XII. 27.) Korm. rendelet 74. § (2) bekezdése iktatta be.
+[^15]: A 12/B. §-t a 764/2021. (XII. 23.) Korm. rendelet 23. §-a iktatta be.
