@@ -286,9 +286,9 @@ II. A GYŐRI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | Győr-Moson-Sopron megye |
 
-| 1. | Csorna és Acsalag, Barbacs, Bágyogszovát, Bezi, Bodonhely, Bogyoszló, Bősárkány, Cakóháza, Dör, Egyed, Farád, Fehértó, Győrsövényház, Jobaháza, Kisbabot, Kóny, Maglóca, Magyarkeresztúr, Markotabögöde, Mérges, Páli, Pásztori, Potyond, Rábacsanak, Rábacsécsény, Rábapordány, Rábasebes, Rábaszentandrás, Rábaszentmihály, Rábatamási, Rábcakapi, Sobor, Sopronnémeti, Szany, Szil, Szilsárkány, Tárnokréti, Vág, Zsebeháza (a Győri Járásbíróság illetékességi területéből) | egy körzet | egész év |
+| 1. | Csornai Járásbíróság (kivéve: Agyagosszergény, Babót, Beled, Cirák, Dénesfa, Edve, Gyóró, Himod, Hövej, Kapuvár, Kisfalud, Mihályi, Osli, Rábakecöl, Répceszemere, Szárföld, Vadosfa, Vásárosfalu, Veszkény, Vitnyéd), valamint Bezi, Fehértó, Győrsövényház, Kisbabot, Mérges, Rábacsécsény, Rábaszentmihály (a Győri Járásbíróság illetékességi területéből) | egy körzet | egész év |
 
-| 2. | Győri Járásbíróság(kivéve az 1. pont alatti) | 1. sz. közjegyző | január, július |
+| 2. | Győri Járásbíróság (kivéve Bezi, Fehértó, Győrsövényház, Kisbabot, Mérges, Rábacsécsény, Rábaszentmihály) | 1. sz. közjegyző | január, július |
 
 |  | 2. sz. közjegyző | február, augusztus |
 
@@ -306,7 +306,7 @@ II. A GYŐRI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 2. sz. közjegyző | február, április, június, augusztus, október, december |
 
-| 5. | Soproni Járásbíróság | 1. sz. közjegyző | január, április, július, október |
+| 5. | Soproni Járásbíróság, valamint Agyagosszergény, Babót, Beled, Cirák, Dénesfa, Edve, Gyóró, Himod, Hövej, Kapuvár, Kisfalud, Mihályi, Osli, Rábakecöl, Répceszemere, Szárföld, Vadosfa, Vásárosfalu, Veszkény, Vitnyéd (a Csornai Járásbíróság illetékességi területéből) | 1. sz. közjegyző | január, április, július, október |
 
 |  | 2. sz. közjegyző | február, május, augusztus, november |
 
@@ -420,7 +420,7 @@ III. MISKOLCI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 10. | Tiszaújvárosi Járásbíróság | egy körzet | egész év |
 
-| 11. | Tokaj és Bodrogkeresztúr, Bodrogkisfalud, Csobaj, Erdőbénye, Szegi, Szegilong, Taktabáj, Tarcal, Tiszaladány, Tiszatardos (a Szerencsi Járásbíróság illetékességi területéről), valamint Rakamaz, Szabolcs, Tímár, Tiszanagyfalu, Balsa és Gávavencsellő (a Nyíregyházi Járásbíróság illetékességi területéről) | egy körzet | egész év |
+| 11. | Tokaj és Bodrogkeresztúr, Bodrogkisfalud, Csobaj, Erdőbénye, Szegi, Szegilong, Taktabáj, Tarcal, Tiszaladány, Tiszatardos (a Szerencsi Járásbíróság illetékességi területéből) | egy körzet | egész év |
 
 | Hajdú-Bihar megye |
 
@@ -490,7 +490,7 @@ III. MISKOLCI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 4. | Nyírbátori Járásbíróság | egy körzet | egész év |
 
-| 5. | Nyíregyházi Járásbíróság (kivéve Rakamaz, Szabolcs, Tímár, Tiszanagyfalu, Balsa, Gávavencsellő) | 1. sz. közjegyző | január, július |
+| 5. | Nyíregyházi Járásbíróság | 1. sz. közjegyző | január, július |
 
 |  | 2. sz. közjegyző | február, augusztus |
 
@@ -614,7 +614,7 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 2. | Kalocsai Járásbíróság (kivéve Solt és Újsolt) | egy körzet | egész év |
 
-| 3. | Kecskeméti Járásbíróság és Izsák (a Kiskőrösi Járásbíróság illetékességi területéből) | 1. sz. közjegyző | január, május, szeptember |
+| 3. | Kecskeméti Járásbíróság | 1. sz. közjegyző | január, május, szeptember |
 
 |  | 2. sz. közjegyző | február, június, október |
 
@@ -622,7 +622,7 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 4. sz. közjegyző | április, augusztus, december |
 
-| 4. | Kiskőrösi Járásbíróság (kivéve Izsák) | 1. sz. közjegyző | január, március, május, július, szeptember, november |
+| 4. | Kiskőrösi Járásbíróság | 1. sz. közjegyző | január, március, május, július, szeptember, november |
 
 |  | 2. sz. közjegyző | február, április, június, augusztus, október, december |
 
@@ -722,4 +722,4 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 [^12]: A 7. § (4) bekezdése a 30/2019. (XII. 20.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^13]: A 7. § (5) bekezdése a 30/2019. (XII. 20.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^14]: A 7. § (6) bekezdése a 30/2019. (XII. 20.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^15]: A Melléklet a 4/1994. (II. 27.) IM rendelet 2. és 3. §-a, a 8/1994. (VI. 30.) IM rendelet 2. és 3. §-a, a 4. § (3) bekezdése, a 23/1997. (VIII. 1.) IM rendelet 2. és 3. §-a, 4. § (1) bekezdése, a 18/1998. (XI. 6.) IM rendelet 2–5. §-a, a Magyar Közlöny 1999. évi 74. számában közzétett helyesbítés, a 10/1999. (VIII. 4.) IM rendelet 2–5. §-a, a 17/2000. (XI. 8.) IM rendelet 2–5. §-a és 6. § (2) bekezdése, az 1/2001. (II. 9.) IM rendelet 2–4. §-a, a 11/2002. (VI. 8.) IM rendelet 2–7. §-a, a 29/2003. (VII. 16.) IM rendelet 2–6. §-a, a 23/2004. (VI. 19.) IM rendelet 2–6. §-a és 7. § (2) bekezdés a) pontja, a 11/2006. (III. 7.) IM rendelet 2–6. §-a, 22/2008. (X. 14.) IRM rendelet 1–3. §-a, az 54/2009. (X. 6.) IRM rendelet 2. és 3. §-a, a 8/2011. (III. 4.) KIM rendelet 12. §-a, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdése, a 21/2014. (III. 13.) KIM rendelet 9. § (4)–(5) bekezdése, a 28/2015. (X. 15.) IM rendelet 1. §-a, az 1/2017. (III. 7.) IM rendelet 1. § (2) bekezdése, a 10/2017. (VIII. 11.) IM rendelet 2. § (3) bekezdése, a 20/2018. (VII. 4.) IM rendelet 1. §-a, a 30/2019. (XII. 20.) IM rendelet 9. § (3) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 1. §-a szerint módosított szöveg.
+[^15]: A Melléklet a 4/1994. (II. 27.) IM rendelet 2. és 3. §-a, a 8/1994. (VI. 30.) IM rendelet 2. és 3. §-a, a 4. § (3) bekezdése, a 23/1997. (VIII. 1.) IM rendelet 2. és 3. §-a, 4. § (1) bekezdése, a 18/1998. (XI. 6.) IM rendelet 2–5. §-a, a Magyar Közlöny 1999. évi 74. számában közzétett helyesbítés, a 10/1999. (VIII. 4.) IM rendelet 2–5. §-a, a 17/2000. (XI. 8.) IM rendelet 2–5. §-a és 6. § (2) bekezdése, az 1/2001. (II. 9.) IM rendelet 2–4. §-a, a 11/2002. (VI. 8.) IM rendelet 2–7. §-a, a 29/2003. (VII. 16.) IM rendelet 2–6. §-a, a 23/2004. (VI. 19.) IM rendelet 2–6. §-a és 7. § (2) bekezdés a) pontja, a 11/2006. (III. 7.) IM rendelet 2–6. §-a, 22/2008. (X. 14.) IRM rendelet 1–3. §-a, az 54/2009. (X. 6.) IRM rendelet 2. és 3. §-a, a 8/2011. (III. 4.) KIM rendelet 12. §-a, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdése, a 21/2014. (III. 13.) KIM rendelet 9. § (4)–(5) bekezdése, a 28/2015. (X. 15.) IM rendelet 1. §-a, az 1/2017. (III. 7.) IM rendelet 1. § (2) bekezdése, a 10/2017. (VIII. 11.) IM rendelet 2. § (3) bekezdése, a 20/2018. (VII. 4.) IM rendelet 1. §-a, a 30/2019. (XII. 20.) IM rendelet 9. § (3) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 1. §-a, a 18/2021. (XII. 23.) IM rendelet 2. §-a szerint módosított szöveg.
