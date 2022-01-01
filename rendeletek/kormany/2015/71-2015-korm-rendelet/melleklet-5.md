@@ -116,7 +116,7 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 | 7. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti, vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Ha az egységes környezet- használati engedély megszerzésére irányuló eljárás termőföldet érint. | Termőföld mennyiségi védelmének követelményei tekintetében. |
 
-| 8. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik. | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából. |
+| 8. |  |  |
 
 | 9. | Ha a kérelem a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. |
 
@@ -130,7 +130,7 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 | 14. | Gyorsforgalmi út esetén, ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti, vagy olyan környezet- veszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja. | Gyorsforgalmi út esetén, ha az egységes környezethasználati engedély megszerzésére irányuló eljárás termőföldet érint. | Termőföld mennyiségi védelmének követelményei tekintetében. |
 
-| 15. | Gyorsforgalmi út esetén, ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik. | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából. |
+| 15. |  |  |
 
 | 16. | Gyorsforgalmi út esetén, ha a kérelem a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló kormányrendelet szerinti országos vagy térségi jelentőségű műszaki infrastruktúra hálózatok és egyedi építmények megvalósítására, valamint azok jelentős módosítására irányul. | A területrendezési tervekkel való összhang tekintetében. |
 
@@ -140,4 +140,4 @@ I. Az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes körn
 
 II.
 
-[^99]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k)–l) pontja, a 677/2020. (XII. 28.) Korm. rendelet 37. §-a, a 124/2021. (III. 12.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^99]: Az 5. melléklet a 360/2019. (XII. 30.) Korm. rendelet 141. § (8) bekezdés c) pontjával megállapított, a 425/2020. (IX. 10.) Korm. rendelet 8. § k)–l) pontja, a 677/2020. (XII. 28.) Korm. rendelet 37. §-a, a 124/2021. (III. 12.) Korm. rendelet 10. § (2) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 35. §-a szerint módosított szöveg.
