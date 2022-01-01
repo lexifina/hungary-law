@@ -4,4 +4,4 @@ a)
 
 b)
 
-c)
+c) 24/C. § d) pontja.

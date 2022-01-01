@@ -1,1 +1,3 @@
-182. §
+182. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A vasúti vagy az autóbuszos személyszállítási szolgáltatást igénybe vevő vagy igénybe venni szándékozó személy (a továbbiakban: panaszos) panasszal élhet a vasúti igazgatási szervnél, vagy az autóbuszos hatóságnál, ha álláspontja szerint a személyszállító szolgáltató vagy a közlekedésszervező megsértette a 17. § (1) vagy (3) bekezdését. A panasz – személyesen, postai vagy elektronikus úton – abban az esetben terjeszthető elő, ha a panaszos a vasúti vagy az autóbuszos személyszállító szolgáltató vagy a közlekedésszervező panaszkezelési eljárását igénybe vette, de az nem vezetett a panaszos számára kielégítő eredményre.”

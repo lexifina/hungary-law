@@ -1,1 +1,3 @@
-184. §
+184. § A személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvény 33. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Szociálpolitikai menetdíj-támogatást kedvezményes összekapcsolt és kedvezményes integrált díjtermékek vonatkozásában a személyszállítási közszolgáltatást nyújtó közlekedési szolgáltató vagy a – közszolgáltatással összefüggő díjakból származó bevételek beszedését a 22. § (5) bekezdése alapján végző – közlekedésszervező az 5. § (3) és (4) bekezdés, vagy a 32. § (2) bekezdés alapján kötött megállapodásban rögzített díjrészesedés szerinti arányban, a szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló jogszabály szerint igényelhet.”

@@ -1,1 +1,3 @@
-10. §
+10. § A bányászatról szóló 1993. évi XLVIII. törvény 26. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A bányafelügyelet a bányatelek megállapításáról szóló véglegessé vált határozatot megküldi az ingatlanügyi hatóságnak a bányatelek ingatlan-nyilvántartásba történő bejegyzése végett. Ha a megállapított bányatelek nem az egész ingatlant érinti, a határozathoz a bányafelügyelet mellékeli az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot is. Nem kell az ingatlan-nyilvántartásba bejegyeztetni a kőolaj, földgáz – ideértve a szén-dioxid gázt is – kitermelésére és a föld alatti gáztárolásra megállapított bányatelket.”

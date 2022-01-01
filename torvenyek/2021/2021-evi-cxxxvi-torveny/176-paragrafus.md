@@ -1,1 +1,3 @@
-176. §
+176. § A nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 6/Q. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az intermodális csomópontok, azaz a különböző közlekedési módok közötti átszállási kapcsolatot emelt szintű utaskényelmi szolgáltatásokkal biztosító közlekedési létesítmények e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott köre tekintetében a Kormány által rendeletben meghatározott fejlesztési közreműködő mint építtető – központi költségvetési és uniós támogatásból – beruházási (létesítés, felújítás és fejlesztés) feladatokat lát el. E tevékenység fontos közérdekű és közcélú tevékenységnek minősül. Az építtető az állam javára és nevében jár el.”
