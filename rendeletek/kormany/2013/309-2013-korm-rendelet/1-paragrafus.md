@@ -4,10 +4,12 @@
 
 1. forgalmi számla: olyan elektronikus számla, ami a származási garancia kiállítására, átruházására és felhasználására vonatkozó adatokat tartalmazza az adott számlatulajdonos vonatkozásában;
 
-2.[^1] származási garancia-nyilvántartás: olyan, a forgalmi számlák összességét tartalmazó elektronikus hatósági nyilvántartás, amely tartalmazza a származási garanciákra, valamint azok kiállítására, átruházására, felhasználására vonatkozó adatokat;
+2.[^1] kezelőrendszer: a forgalmi számlák és a származási garanciák összességét tartalmazó elektronikus számlarendszer;
 
-3. származási garancia tulajdonosa: a forgalmi számlával rendelkező termelő, valamint a forgalmi számlával rendelkező származási garancia vásárlója;
+3.[^2] számlatulajdonos: olyan természetes vagy jogi személy, aki származási garancia forgalmi számlaszerződést kötött a Magyar Energetikai és Közmű-szabályozási Hivatallal (a továbbiakban: Hivatal).
 
-4. származási garancia vásárlója: az a természetes vagy jogi személy, továbbá jogi személyiséggel nem rendelkező szervezet, aki a származási garanciát a kezelőrendszeren keresztül átruházás útján szerzi meg.
+4.[^3]
 
-[^1]: Az 1. § 2. pontja a 123/2015. (V. 26.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^1]: Az 1. § 2. pontja a 787/2021. (XII. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^2]: Az 1. § 3. pontja a 787/2021. (XII. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^3]: Az 1. § 4. pontját a 787/2021. (XII. 27.) Korm. rendelet 48. § a) pontja hatályon kívül helyezte.

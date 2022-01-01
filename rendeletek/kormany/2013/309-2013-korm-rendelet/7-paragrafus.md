@@ -1,7 +1,13 @@
 ## 5. A származási garancia felhasználása és átruházása
 
-7. § (1) A származási garancia felhasználásának minősül a származási garancia bemutatása a villamos energiáról szóló törvény szerinti felhasználónak annak igazolása céljából, hogy a szolgáltatott villamos energia mennyiség megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermelés keretében került előállításra.
+7. §[^13] (1) A származási garancia felhasználásának minősül a származási garancia számlatulajdonos általi törlése a kezelőrendszerből a Hivatal jóváhagyásával, amely igazolja, hogy a felhasznált villamos energia-mennyiség megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermelés keretében került előállításra.
 
-(2) A származási garancia tulajdonosa a származási garancia felhasználását a felhasználást követő öt napon belül a Hivatal honlapján közzétett formanyomtatványon bejelenti a Hivatalnak. A bejelentést a kezelőrendszeren keresztül is megteheti.
+(2) A kezelőrendszerben a származási garancia tulajdonosa az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint megadhatja a felhasználó nevét, aki számára igazolja a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermelésből előállított villamos energia mennyiséget.
 
-(3) A felhasználásra vonatkozó bejelentésben a származási garancia tulajdonosa az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározottak szerint megadhatja a felhasználó nevét, aki számára igazolja a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermelésből előállított villamos energia mennyiséget.
+(3) Származási garanciák felhasználásakor a számlatulajdonos megadja a felhasználási időszakot, amelyben a kedvezményezett felhasználó számára a származási garanciával igazolni kívánja az adott időszakban felhasznált villamos energia egészének vagy egy részének eredetét. A felhasználási időszak egy vagy több tárgyhónap lehet. Eltérő naptári években felhasznált származási garanciákat külön-külön kell törölni a kezelőrendszerből.
+
+(4) A származási garancia felhasználása a felhasználó adott naptári évre vonatkozó villasmosenergia-fogyasztására vonatkozóan legkorábban adott év április 1-jén, legkésőbb a következő év március 31-ig lehetséges.
+
+(5) A származási garancia a hozzá tartozó villamos energia termelési időszakának végétől számított 12 hónapon belüli villamosenergia-fogyasztási időszak vonatkozásában használható fel.
+
+[^13]: A 7. § a 787/2021. (XII. 27.) Korm. rendelet 42. §-ával megállapított szöveg.

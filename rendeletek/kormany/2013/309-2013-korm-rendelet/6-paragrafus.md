@@ -1,39 +1,55 @@
-6. § (1) A megújuló energiaforrásból származó energiatermelés esetében a származási garanciának az alábbi adatokat kell tartalmaznia:
+6. § (1) A megújuló energiaforrásból származó energiatermelés esetében a származási garancia tartalmazza
 
-a) a villamos energia előállítására felhasznált energiaforrás és az előállítás kezdetének és befejezésének dátuma;
+a) a villamos energia előállítására felhasznált energiaforrás és az előállítás kezdetének és befejezésének dátumát,
 
-b) annak megjelölése, hogy a származási garancia villamos energiára vagy fűtő- és/vagy hűtőenergiára vonatkozik;
+b) annak megjelölését, hogy a származási garancia
 
-c) az energiát előállító létesítmény neve, helye, típusa és beépített teljesítménye;
+ba) villamos energiára,
 
-d) a létesítmény részesült-e beruházási támogatásban, és ha igen, milyen mértékben;
+bb) fűtőenergiára,
 
-e) az energiaegység részesült-e bármilyen más formában valamilyen nemzeti támogatási rendszerből, és ha igen, milyen mértékben, valamint a támogatási rendszer típusa;
+bc) hűtőenergiára, vagy
 
-f) a létesítmény üzembe helyezésének dátuma; és
+bd) fűtő- és hűtőenergiára
 
-g) a kiállítás dátuma és országa, valamint az egyedi azonosító szám.
+## vonatkozik,
 
-(2) A nagy hatásfokú kapcsolt energiatermelés esetében a származási garancia az alábbi adatokat tartalmazza:
+c) az energiát előállító létesítmény nevét, helyét, típusát és beépített teljesítményét,
 
-a) az energiatermelő létesítmény neve, helye, típusa és (hő és villamos energia-) beépített teljesítménye;
+d) azt, hogy a létesítmény részesült-e beruházási támogatásban,
 
-b) a villamosenergia-termelés kezdetének és végének dátuma, amely időszakra vonatkozóan a származási garanciát kiállították, valamint a termelés helyszíne;
+e) azt, hogy az energiaegység részesült-e bármilyen más formában valamilyen támogatási rendszerből, és ha igen, a támogatási rendszer típusát,
 
-c) a villamosenergia-termelés tüzelőanyag-forrásának alsó (nettó) fűtőértéke;
+f) a létesítmény üzembe helyezésének dátumát,
 
-d) a villamos energiával együtt termelt hő mennyisége és felhasználása;
+g) a bejegyzés dátumát és országát, valamint
 
-e) a származási garancia tárgyát képező, a nagy hatásfokú kapcsolt energiatermelésből származó villamos energia mennyiség;
+h) a származási garancia egyedi azonosító számát.
 
-f) nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendeletben meghatározottak alapján kiszámított primerenergia-megtakarítás;
+(2) A nagy hatásfokú kapcsolt energiatermelés esetében a származási garancia tartalmazza
 
-g) az erőműegység névleges villamos energia és hő termelési hatásfoka;
+a) az energiatermelő létesítmény nevét, helyét, típusát és (hő és villamos energia-) beépített teljesítményét,
 
-h) a létesítmény részesült-e beruházási támogatásban, és ha igen, milyen mértékben;
+b) a villamosenergia-termelés kezdetének és végének dátumát, amely időszakra vonatkozóan a származási garanciát kiállították, valamint a termelés helyszínét,
 
-i) az energiaegység részesült-e bármilyen más formában valamilyen támogatási rendszerből, és ha igen, milyen mértékben, valamint a támogatási rendszer típusa;
+c) a villamosenergia-termelés tüzelőanyag-forrásának alsó (nettó) fűtőértékét,
 
-j) a létesítmény üzembe helyezésének dátuma; valamint
+d) a villamos energiával együtt termelt hő mennyiségét és felhasználását,
 
-k) a kiállítás dátuma és országa, valamint az egyedi azonosító szám.
+e) a származási garancia tárgyát képező, a nagy hatásfokú kapcsolt energiatermelésből származó villamos energia mennyiségét,
+
+f) nagy hatásfokú, hasznos hőenergiával kapcsoltan termelt villamos energia és a hasznos hő mennyisége megállapításának számítási módjáról szóló rendeletben meghatározottak alapján kiszámított primerenergia-megtakarítást,
+
+g) az erőműegység névleges villamosenergia- és hőtermelési hatásfokát,
+
+h) azt, hogy a létesítmény részesült-e beruházási támogatásban,
+
+i) azt, hogy az energiaegység részesült-e bármilyen más formában valamilyen támogatási rendszerből, és ha igen, a támogatási rendszer típusát,
+
+j) a létesítmény üzembe helyezésének dátumát,
+
+k) a bejegyzés dátumát és országát, valamint
+
+l) a származási garancia egyedi azonosító számát.
+
+(3) Ha a villamos energia megújuló energiaforrás felhasználásával és nagy hatásfokú kapcsolt energiatermeléssel került előállításra, ugyanazon villamosenergia-mennyiség vonatkozásában egy származási garancia kerül bejegyzésre, amely tartalmazza az (1) és (2) bekezdésben meghatározott adatokat.
