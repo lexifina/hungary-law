@@ -1,13 +1,7 @@
-4. § (1) A közszolgálati tisztviselő adatainak a TARTINFO-rendszerben történő rögzítéséről, módosításáról, törléséről, valamint a közigazgatási szerv adataiban történő változás átvezetéséről a közigazgatási szerv hivatali szervezetének vezetője által megbízott személy gondoskodik. A közigazgatási szerv hivatali szervezetének vezetője legfeljebb öt közszolgálati tisztviselő számára biztosíthat hozzáférést a TARTINFO-rendszerhez.
+4. §[^8] (1) A közigazgatási szerv a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről szóló kormányrendeletben foglaltak szerint regisztrál a TARTINFOR-rendszerbe.
 
-(2) A közigazgatási szerv hivatali szervezetének vezetője a TARTINFO-rendszerbe bejelentkezési kóddal és jelszóval (a továbbiakban együtt: TARTINFO-azonosítók) lép be.
+(2) A szabályozott hozzáférés érdekében a felhasználót az (1) bekezdés szerinti regisztrációt követően tároló elemet tartalmazó állandó személyazonosító igazolvánnyal vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatásra és az ehhez tartozó biztonságos kézbesítési szolgáltatásra alkalmas tárhelyen keresztül kell biztosítani.
 
-(3) A közigazgatási szerv hivatali szervezetének vezetője a TARTINFO-rendszerbe a 2010. január 1-jei eKözigtad adatszolgáltatás során használt bejelentkezési kóddal és jelszóval lép be.
+(3) A közszolgálati tisztviselő adatainak a TARTINFOR-rendszerben történő rögzítéséről, módosításáról, törléséről, valamint a közigazgatási szerv adataiban történő változás átvezetéséről a közigazgatási szerv hivatali szervezetének vezetője által megbízott személy gondoskodik. A közigazgatási szerv hivatali szervezetének vezetője adja a közszolgálati tisztviselő számára a hozzáférést a TARTINFOR-rendszerhez.
 
-(4) Annak a közigazgatási szervnek, amely nem rendelkezik eKözigtad bejelentkezési kóddal és jelszóval, regisztrálnia kell a TARTINFO-rendszerbe.
-
-(5) A regisztrációhoz szükséges TARTINFO-azonosítók kiadását a közigazgatási szerv hivatali szervezetének vezetője igényelheti a személyügyi központ honlapján elérhető regisztrációs bejelentőlap megküldésével. A közigazgatási szerv hivatali szervezetének vezetőjének aláírásával ellátott regisztrációs bejelentőlapot a személyügyi központnak kell elektronikus úton megküldeni legalább tizenöt munkanappal a TARTINFO-rendszer használatának megkezdése előtt.
-
-(6) A személyügyi központ a közigazgatási szerv vezetőjének a TARTINFO-azonosítókat a regisztrációs bejelentőlap megérkezésétől számított nyolc munkanapon belül, elektronikus úton küldi meg.
-
-(7) A közigazgatási szerv hivatali szervezetének vezetője a TARTINFO-rendszerbe történő első bejelentkezéskor megváltoztatja a jelszavát. A megváltoztatott jelszóról a TARTINFO-rendszer elektronikus úton értesíti a közigazgatási szerv hivatali szervezetének vezetőjét.
+[^8]: A 4. § a 716/2021. (XII. 20.) Korm. rendelet 40. §-ával megállapított szöveg.

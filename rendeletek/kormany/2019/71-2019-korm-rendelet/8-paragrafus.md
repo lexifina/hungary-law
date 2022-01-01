@@ -1,7 +1,14 @@
-8. § (1) A közigazgatási szerv hivatali szervezetének vezetője a változás bekövetkeztétől számított öt munkanapon belül intézkedik a közigazgatási szerv adataiban történő változás átvezetéséről a TARTINFO-rendszerben.
+8. § (1)[^22] A közigazgatási szerv hivatali szervezetének vezetője a változás bekövetkeztétől számított öt munkanapon belül intézkedik a közigazgatási szerv adataiban történő változás átvezetéséről a TARTINFOR-rendszerben.
 
-(2) Ha a közigazgatási szerv megszűnik, akkor a megszűnő közigazgatási szerv hivatali szervezetének vezetője a TARTINFO-rendszerben rögzíti a megszűnés időpontját, annak módját (jogutóddal vagy jogutód nélkül). A megszűnés időpontjától kezdve a megszűnő közigazgatási szerv hivatali szervezetének vezetője nem jogosult a TARTINFO-rendszerhez hozzáférni.
+(2)[^23] Ha a közigazgatási szerv megszűnik, akkor a megszűnő közigazgatási szerv hivatali szervezetének vezetője a TARTINFOR-rendszerben rögzíti a megszűnés időpontját, annak módját (jogutóddal vagy jogutód nélkül). A megszűnés időpontjától kezdve a megszűnő közigazgatási szerv hivatali szervezetének vezetője nem jogosult a TARTINFOR-rendszerhez hozzáférni.
 
 (3) Ha a megszűnő közigazgatási szervnek van jogutódja, akkor a Kttv. 58. § (2) bekezdése szerint kell eljárni, azzal, hogy több jogutód szerv esetén a megszűnő közigazgatási szervnek minden közszolgálati tisztviselő esetében meg kell határozni a jogutód szervet.
 
-(4) A közigazgatási szerv vezetőjének személyében történő változás esetén az új vezető haladéktalanul elektronikus úton kéri a személyügyi központtól a korábbi vezető jogosultságának megszüntetését és a TARTINFO-rendszerhez való hozzáférés biztosítását a közigazgatási szerv nevének és a személyügyi központ honlapján elérhető regisztrációs adatlapnak a közigazgatási szerv vezetőjére vonatkozó adatainak megadásával. A személyügyi központ öt munkanapon belül módosítja a vezető adatait, és elektronikus úton elküldi a TARTINFO-azonosítókat.
+(4)[^24] A közigazgatási szerv vezetőjének személyében történő változás esetén az új vezető haladéktalanul elektronikus úton kéri a személyügyi központtól a korábbi vezető jogosultságának megszüntetését és a TARTINFOR-rendszerhez való hozzáférés biztosítását a közigazgatási szerv nevének és a személyügyi központ felületén elérhető regisztrációs adatlapnak a közigazgatási szerv vezetőjére vonatkozó adatainak megadásával. A személyügyi központ öt munkanapon belül módosítja a vezető adatait, és elektronikus úton elküldi a TARTINFOR-azonosítókat.
+
+(5)[^25] A személyügyi központ a tartalékállomány rendszerhasználatáról a felhasználókat támogató kézikönyvet, útmutatót ad ki, ügyfélszolgálatot üzemeltet.
+
+[^22]: A 8. § (1) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 15. pontja szerint módosított szöveg.
+[^23]: A 8. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 16. pontja szerint módosított szöveg.
+[^24]: A 8. § (4) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 17. pontja szerint módosított szöveg.
+[^25]: A 8. § (5) bekezdését a 716/2021. (XII. 20.) Korm. rendelet 43. §-a iktatta be.

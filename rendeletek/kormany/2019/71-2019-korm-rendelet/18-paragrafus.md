@@ -1,5 +1,5 @@
 ## 17. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-18. §[^1]
+18. §[^42]
 
-[^1]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

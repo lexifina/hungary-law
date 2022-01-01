@@ -1,10 +1,10 @@
-## 3. A TARTINFO-rendszer egyes funkciói
+## 3. [^9] A TARTINFOR-rendszer egyes funkciói
 
 5. § (1) A közszolgálati tisztviselő tartalékállományba helyezéséről a közigazgatási szervnek a felmentésre vonatkozó munkáltatói intézkedésében kell rendelkeznie.
 
-(2) A közigazgatási szerv hivatali szervezetének vezetője a közszolgálati tisztviselő adatait a tartalékállományba helyezésétől számított öt munkanapon belül rögzíti a TARTINFO-rendszerben.
+(2)[^10] A közigazgatási szerv hivatali szervezetének vezetője a közszolgálati tisztviselő adatait a tartalékállományba helyezésétől számított öt munkanapon belül rögzíti a TARTINFOR-rendszerben.
 
-(3) A közigazgatási szerv hivatali szervezetének vezetője haladéktalanul intézkedik a közszolgálati tisztviselő adatainak a TARTINFO-rendszerből való törléséről, ha
+(3)[^11] A közigazgatási szerv hivatali szervezetének vezetője haladéktalanul intézkedik a közszolgálati tisztviselő adatainak a TARTINFOR-rendszerből való törléséről, ha
 
 a) a közszolgálati tisztviselő végleges áthelyezésére kerül sor,
 
@@ -12,6 +12,12 @@ b) a közszolgálati tisztviselőt új munkakörbe helyezik át,
 
 c) megszűnik a közszolgálati tisztviselő szolgálati jogviszonya, vagy
 
-d) a közszolgálati tisztviselő kéri a törlését.
+d)[^12] a közszolgálati tisztviselő indokolás nélkül kéri a törlését.
 
-(4) A felmentési idő lejártával a TARTINFO-rendszer automatikusan törli a közszolgálati tisztviselő adatait.
+(4)[^13] A felmentési idő lejártával a TARTINFOR-rendszer automatikusan törli a közszolgálati tisztviselő adatait.
+
+[^9]: A 3. alcím címe a 716/2021. (XII. 20.) Korm. rendelet 47. § 7. pontja szerint módosított szöveg.
+[^10]: Az 5. § (2) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
+[^11]: Az 5. § (3) bekezdés nyitó szövegrésze a 716/2021. (XII. 20.) Korm. rendelet 47. § 9. pontja szerint módosított szöveg.
+[^12]: Az 5. § (3) bekezdés d) pontja a 716/2021. (XII. 20.) Korm. rendelet 47. § 10. pontja szerint módosított szöveg.
+[^13]: Az 5. § (4) bekezdése a 716/2021. (XII. 20.) Korm. rendelet 47. § 11. pontja szerint módosított szöveg.
