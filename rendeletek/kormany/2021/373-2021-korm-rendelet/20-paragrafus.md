@@ -1,3 +1,3 @@
-## 19. §[^19]
+20. § (1) Ha a szerződés egyszeri szolgáltatásról vagy egyedi szolgáltatási cselekmények sorozatáról rendelkezik, a vállalkozás azért a hibáért felel – ideértve a szerződésszerűség fenntartásához szükséges frissítéseket és biztonsági frissítéseket is –, amely a digitális tartalom szolgáltatása vagy a digitális szolgáltatás nyújtása esetén a teljesítés időpontjában fennáll.
 
-[^19]: A 19. § a 28. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+(2) Ha a szerződés a digitális tartalom vagy digitális szolgáltatás meghatározott időtartamon keresztül történő folyamatos szolgáltatásáról rendelkezik, a vállalkozás felel a digitális tartalommal vagy digitális szolgáltatással kapcsolatos hibáért, amennyiben a hiba a szerződésben meghatározott időtartam alatt következik be, vagy válik felismerhetővé.
