@@ -108,6 +108,8 @@ II. Ágazatspecifikus munkakörök család-, gyermek- és ifjúságvédelmi ter�
 
 |  | óvodai és iskolai szociális segítő |  |  |  |  |  | * | * | * | * | * |
 
+|  | fogyatékosságügyi tanácsadó |  |  |  |  |  | * | * | * | * | * |
+
 | 2. | Család-, gyermek- és ifjúságvédelmi szolgáltatás, javítóintézeti nevelés keretében az ellátottak ápolását, foglalkoztatását, fejlesztését, ellátását, gondozását, szociális segítését, szállítását közvetlenül szolgáló, egyetemi, főiskolai végzettséghez nem kötött munkakörök |  |  |  |  |  |  |  |  |  |  |
 
 | a) | asszisztens/szakasszisztens |  |  |  |  |  |  |  |  |  |  |
@@ -263,7 +265,7 @@ Megjegyzés:
 Azon munkakörök esetén, amelyek főiskolai, egyetemi, illetve középfokú végzettséggel egyaránt betölthetők a szakképzettségi szintnek megfelelő közalkalmazotti besorolást kell alkalmazni.
 
 [^104]: A 2. számú melléklet I. pontja a 305/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^105]: A 2. szánú melléklet II. pontja a 226/2018. (XII. 4.) Korm. rendelet 2. §-ával megállapított, a 312/2019. (XII. 18.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^105]: A 2. számú melléklet II. pontja a 226/2018. (XII. 4.) Korm. rendelet 2. §-ával megállapított, a 312/2019. (XII. 18.) Korm. rendelet 7. §-a, a 744/2021. (XII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^106]: A 2. számú melléklet III. pontja a 305/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^107]: A 2. számú melléklet IV. részét a 60/2011. (IV. 12.) Korm. rendelet 8. § (1) bekezdése iktatta be, hatályon kívül helyezte a 244/2016. (VIII. 17.) Korm. rendelet 1. § i) pontja.
 [^108]: A 2. számú melléklet V. részét a 349/2012. (XII. 12.) Korm. rendelet 29. § (1) bekezdése iktatta be, hatályon kívül helyezte a 418/2015. (XII. 23.) Korm. rendelet 10. § b) pontja. [A 2. számú melléklet V. részének a 406/2017. (XII. 15.) Korm. rendelet 3. §-ával elrendelt módosítása nem vezethető át.]

@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2021-01-01 | 2000-257-20-22.42 | 272/2019. (XI. 20.) Korm. rendelet |
 | 2021-01-23 | 2000-257-20-22.43 | 60/2011. (IV. 12.) Korm. rendelet |
 | 2021-07-01 | 2000-257-20-22.44 | 418/2015. (XII. 23.) Korm. rendelet |
+| 2022-01-01 | 2000-257-20-22.45 | 663/2021. (XII. 1.) Korm. rendelet |

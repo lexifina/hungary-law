@@ -1,3 +1,3 @@
 5. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^113]
 
-[^113]: Az 5. számú mellékletet a 19/2014. (II. 3.) Korm. rendelet 3. §-a iktatta be, szövege a 18/2020. (II. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^113]: Az 5. számú mellékletet a 19/2014. (II. 3.) Korm. rendelet 3. §-a iktatta be, szövege 663/2021. (XII. 1.) Korm. rendelet 3. §-ával megállapított szöveg.

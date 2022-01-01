@@ -30,7 +30,7 @@ b) gyermekjóléti és gyermekvédelmi intézmény intézményvezetőjét, valam
 
 (4)[^64]
 
-(5)[^65] A pótlékalap legalább 50%-ával megegyező mértékű speciális otthoni pótlék illeti meg
+(5)[^65] A pótlékalap legalább 250%-ával megegyező mértékű speciális otthoni pótlék illeti meg
 
 a) a speciális gyermekotthonban, a speciális lakásotthonban, a gyermekotthon speciális csoportjában, valamint a javítóintézetben foglalkoztatott nevelőt, gyermekfelügyelőt, gondozót, gyermekvédelmi asszisztenst, pszichológust, gyógypedagógust, fejlesztő pedagógust, munkaoktatót, szakoktatót, orvost, ápolónőt, továbbá
 
@@ -48,7 +48,7 @@ c) három sajátos nevelési igényű gyermek ellátása esetén a pótlékalap 
 
 (6b)[^68] A gyermekvédelmi szakellátási intézményben a 2/a. számú melléklet I. pontjában meghatározott pedagógus-munkakörben foglalkoztatott közalkalmazottnak gyermek- és ifjúságvédelmi intézményi pótlék adható. A pótlékot a fenntartó engedélyezi, a pótlék mértéke nem haladhatja meg a pótlékalap 100%-át.
 
-(6c)[^69] A különleges gyermekotthonban, különleges lakásotthonban, gyermekotthon különleges csoportjában foglalkoztatott nevelőt, kisgyermeknevelőt, gyermekfelügyelőt, gondozót, gyermekvédelmi asszisztenst, pszichológust, gyógypedagógust, fejlesztő pedagógust különleges otthoni pótlék illeti meg, a pótlék mértéke legalább a pótlékalap 25%-a.
+(6c)[^69] A különleges gyermekotthonban, különleges lakásotthonban, gyermekotthon különleges csoportjában foglalkoztatott nevelőt, kisgyermeknevelőt, gyermekfelügyelőt, gondozót, gyermekvédelmi asszisztenst, pszichológust, gyógypedagógust, fejlesztő pedagógust különleges otthoni pótlék illeti meg, a pótlék mértéke legalább a pótlékalap 125%-a.
 
 (6d)[^70] A többcélú gyermekvédelmi intézményben köznevelési feladatot ellátó intézményegységben dolgozó pedagógust gyermekvédelmi pótlék illeti meg, a pótlék mértéke legalább a pótlékalap 50%-a.
 
@@ -68,11 +68,11 @@ c) három sajátos nevelési igényű gyermek ellátása esetén a pótlékalap 
 [^62]: A 15. § (2) bekezdése a 305/2018. (XII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^63]: A 15. § (3) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^64]: A 15. § (4) bekezdését az 517/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^65]: A 15. § (5) bekezdése az 517/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^65]: A 15. § (5) bekezdése a 663/2021. (XII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^66]: A 15. § (6) bekezdése a 272/2019. (XI. 20.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^67]: A 15. § (6a) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (2) bekezdése iktatta be, hatályon kívül helyezte a 418/2015. (XII. 23.) Korm. rendelet 10. § a) pontja.
 [^68]: A 15. § (6b) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (2) bekezdése iktatta be, szövege a 418/2015. (XII. 23.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^69]: A 15. § (6c) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege az 517/2013. (XII. 30.) Korm. rendelet 4. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^69]: A 15. § (6c) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (3) bekezdése iktatta be, szövege a 663/2021. (XII. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^70]: A 15. § (6d) bekezdését a 349/2012. (XII. 12.) Korm. rendelet 27. § (3) bekezdése iktatta be.
 [^71]: A 15. § (6e) bekezdését az 517/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^72]: A 15. § (6f) bekezdését az 517/2013. (XII. 30.) Korm. rendelet 1. § (3) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 4. § (2) bekezdése.
