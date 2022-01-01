@@ -1,3 +1,3 @@
-7. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^137]
+7. melléklet a 375/2021. (VI. 30.) Korm. rendelethez[^117]
 
-[^137]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

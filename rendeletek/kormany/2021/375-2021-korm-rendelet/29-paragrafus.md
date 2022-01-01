@@ -1,32 +1,24 @@
-## 28. §[^115]
+## 28. § Az 513/2017. (XII. 29.) Korm. r. a 10. melléklet szerinti 3. melléklettel egészül ki.
 
 ## 29. § Az 513/2017. (XII. 29.) Korm. r.
 
-a)[^116]
+a)[^104]
 
-b)[^117]
+b)[^105]
 
-c)[^118]
+c) 3. § (1) bekezdésében az „okmánytárnak” szövegrész helyébe az „okirattárnak” szöveg,
 
-d)[^119]
+d) 3. § (2) bekezdésében a „kicserélt” szövegrész helyébe a „lecserélt” szöveg, az „okmánytár” szövegrész helyébe az „okirattár” szöveg,
 
-e)[^120]
+e) 4. § (1) bekezdésében az „alapját képező iratokat” szövegrész helyébe az „alapját képező, e rendeletben meghatározott iratokat” szöveg, az „okmánytárnak” szövegrész helyébe az „okirattárnak” szöveg,
 
-f)[^121]
+f) 3. alcím címében az „okmánytár” szövegrész helyébe az „okirattár” szöveg,
 
-g)[^122]
+g) 5. § (1) bekezdésében az „okmánytár” szövegrész helyébe az „okirattár a 2022. január 1-jét megelőzően keletkezett alapiratok tekintetében” szöveg,
 
-h)[^123]
+h) 5. § (3) bekezdésében az „okmánytár az eljárás során keletkező egyéb iratokat a nyilvántartásba vételtől” szövegrész helyébe az „okirattár a Nyilvántartónak megküldött rendszámtáblákat a beérkezésüktől” szöveg,
 
-i)[^124]
+i) 10. § (2) bekezdésében az „okmánytár” szövegrész helyébe az „okirattár” szöveg, az „okmánytárból eredeti iratot” szövegrész helyébe az „okirattárban eredetben megtalálható iratot” szöveg
 
-[^115]: A 28. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^116]: A 29. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^117]: A 29. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^118]: A 29. § c) pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^119]: A 29. § d) pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^120]: A 29. § e) pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^121]: A 29. § f) pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^122]: A 29. § g) pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^123]: A 29. § h) pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^124]: A 29. § i) pontja a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^104]: A 29. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: A 29. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

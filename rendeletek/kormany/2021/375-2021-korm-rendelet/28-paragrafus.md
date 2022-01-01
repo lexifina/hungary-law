@@ -1,3 +1,13 @@
-## 27. §[^114]
+## „(1a) Az okirattár tartalmazza
 
-[^114]: A 27. § a 33. § (4) bekezdése alapján 2022. január 1-jén lép hatályba.
+## a) a 3. mellékletben meghatározott iratokat, valamint
+
+## b) valamennyi közlekedési igazgatási eljárásban keletkezett
+
+## ba) kérelemre indult eljárásban az ügyfél és az ügyintéző,
+
+## bb) hivatalból indult eljárásban az ügyintéző
+
+## által aláírt adatlapot.
+
+## (1b) Az okirattár az iratokat az adott ügytől függően eredeti papíralapú, papíralapú hiteles másolat, továbbá elektronikus eredeti és elektronikus hiteles vagy az eljáró hatóság által hitelesített papíralapú vagy elektronikus másolat formátumban tartalmazza.”
