@@ -1,0 +1,1 @@
+9. § Az eFöld portál használatával az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti közigazgatási eljárás megindítására vonatkozó kérelem is benyújtható az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti Központi Azonosítási Ügynökön keresztüli elektronikus azonosítást követően.

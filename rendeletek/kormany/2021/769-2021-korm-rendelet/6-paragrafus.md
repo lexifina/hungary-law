@@ -1,0 +1,1 @@
+6. § A FOK azzal a szervezettel köthet csatlakozási megállapodást, amelynek a hatósági, igazgatási eljárásában vagy közfeladata ellátásához olyan földmegfigyelési tematikus adat szükséges, amely a FIR tv. szerinti Tematikus Földmegfigyelési Adatbázisban rendelkezésre áll, vagy előállítható.

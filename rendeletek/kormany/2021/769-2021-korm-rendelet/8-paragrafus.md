@@ -1,0 +1,1 @@
+8. § A Földmegfigyelési Információs Rendszerből adatok rendelkezésre bocsátásához (hasznosítás, újrahasznosítás és piaci tájékoztatási szolgáltatás) a nemzeti adatvagyonról szóló 2021. évi XCI. törvény és végrehajtási rendeletének szabályai alkalmazandók.
