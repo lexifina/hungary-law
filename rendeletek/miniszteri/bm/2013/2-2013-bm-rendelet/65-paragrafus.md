@@ -1,4 +1,4 @@
-65. §[^189] (1) A hivatásos állomány azon tagjának, akinek az első továbbképzési időszaka 2017. december 31-ig tartott és 2018. január 1-jén fizetési fokozatban történő előresorolására sor kerül, az új továbbképzési időszaka 2018. január 1-jén megkezdődik.
+65. §[^192] (1) A hivatásos állomány azon tagjának, akinek az első továbbképzési időszaka 2017. december 31-ig tartott és 2018. január 1-jén fizetési fokozatban történő előresorolására sor kerül, az új továbbképzési időszaka 2018. január 1-jén megkezdődik.
 
 (2) A hivatásos állomány azon tagjának, akinek az első továbbképzési időszaka 2017. december 31-ig tartott volna, azonban fizetési fokozatban történő előresorolása 2018. január 1-jét követően válik esedékessé, és a továbbképzési időszaka a Hszt. 359. § (3) bekezdésében foglaltak szerint a fizetési várakozási időből még hátralévő időtartammal meghosszabbodik, a továbbképzési időszak felülvizsgált időtartamát az RVTV-n a belügyi szerv humánigazgatási szakszolgálata 2018. március 15-ig rögzíti.
 
@@ -18,4 +18,4 @@ b) azon tagja esetében, akinek az első továbbképzési időszaka 2014. januá
 
 (7) Az RVTV-nek a Módr.-ben foglalt rendelkezéseknek megfelelő fejlesztését 2018. február 15-ig kell elvégezni.
 
-[^189]: A 65. § a 35/2017. (XII. 21.) BM rendelet 26. §-ával megállapított szöveg.
+[^192]: A 65. § a 35/2017. (XII. 21.) BM rendelet 26. §-ával megállapított szöveg.

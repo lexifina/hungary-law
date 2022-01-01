@@ -2,26 +2,26 @@
 
 (2) A bejelentés-köteles továbbképzési programok egyszerűsített nyilvántartásba vételi eljárása során a továbbképzési program alapadatait és a képzést végző szervezet adatait kell nyilvántartásba venni a programjegyzékbe, valamint meg kell állapítani a programhoz rendelt továbbképzési pontértéket is.
 
-(3)[^93] Az egyszerűsített nyilvántartásba vételi eljárást a miniszter folytatja le. A nyilvántartásba vételről a minisztérium továbbképzési programjai esetében a miniszter előterjesztése alapján a Kollégium, más továbbképzési programok esetében a miniszter dönt.
+(3)[^96] Az egyszerűsített nyilvántartásba vételi eljárást a miniszter folytatja le. A nyilvántartásba vételről a minisztérium továbbképzési programjai esetében a miniszter előterjesztése alapján a Kollégium, más továbbképzési programok esetében a miniszter dönt.
 
 (4) A továbbképzési program akkor vehető nyilvántartásba, ha
 
-a)[^94] a nyilvántartásba vételt a minisztérium rendészeti továbbképzéssel kapcsolatos feladatokat ellátó szervezeti egysége vagy belügyi szerv kezdeményezi és
+a)[^97] a nyilvántartásba vételt a minisztérium rendészeti továbbképzéssel kapcsolatos feladatokat ellátó szervezeti egysége vagy belügyi szerv kezdeményezi és
 
 b) a továbbképzési program nem minősítéshez kötött.
 
-(5)[^95] Ha a bejelentés-köteles továbbképzési programnak a nyilvántartásba vételére irányuló eljárás során a miniszter megállapítja, hogy a továbbképzési program minősített továbbképzési programhoz tartozó ismereteket közvetít, a nyilvántartásba vételt elutasítja. Ezzel egyidejűleg a kérelmezőt tájékoztatja a továbbképzési program minősítésével kapcsolatos eljárás lefolytatásának feltételeiről.
+(5)[^98] Ha a bejelentés-köteles továbbképzési programnak a nyilvántartásba vételére irányuló eljárás során a miniszter megállapítja, hogy a továbbképzési program minősített továbbképzési programhoz tartozó ismereteket közvetít, a nyilvántartásba vételt elutasítja. Ezzel egyidejűleg a kérelmezőt tájékoztatja a továbbképzési program minősítésével kapcsolatos eljárás lefolytatásának feltételeiről.
 
-(5a)[^96] Ha a bejelentés-köteles továbbképzési program nyilvántartásba vételére irányuló eljárás során a miniszter megállapítja, hogy az nem minősül továbbképzésnek, a nyilvántartásba vételt elutasítja.
+(5a)[^99] Ha a bejelentés-köteles továbbképzési program nyilvántartásba vételére irányuló eljárás során a miniszter megállapítja, hogy az nem minősül továbbképzésnek, a nyilvántartásba vételt elutasítja.
 
-(6)[^97] Ha a bejelentés-köteles továbbképzésnek minősülő továbbképzési program adataiban változás áll be, a kérelmező köteles a miniszter részére tizenöt napon belül a változás bejelentésére.
+(6)[^100] Ha a bejelentés-köteles továbbképzésnek minősülő továbbképzési program adataiban változás áll be, a kérelmező köteles a miniszter részére tizenöt napon belül a változás bejelentésére.
 
 (7) A bejelentés-köteles továbbképzési program szakmai tartalmáért és minőségéért a nyilvántartásba vételt kérelmező szervezet felel.
 
 (8) Az egyszerűsített nyilvántartásba vételi eljárás nem díjköteles.
 
-[^93]: A 19. § (3) bekezdése a 35/2017. (XII. 21.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^94]: A 19. § (4) bekezdés a) pontja a 35/2017. (XII. 21.) BM rendelet 27. § 19. pontja szerint módosított szöveg.
-[^95]: A 19. § (5) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
-[^96]: A 19. § (5a) bekezdését a 35/2017. (XII. 21.) BM rendelet 14. § (2) bekezdése iktatta be.
-[^97]: A 19. § (6) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^96]: A 19. § (3) bekezdése a 35/2017. (XII. 21.) BM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^97]: A 19. § (4) bekezdés a) pontja a 35/2017. (XII. 21.) BM rendelet 27. § 19. pontja szerint módosított szöveg.
+[^98]: A 19. § (5) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^99]: A 19. § (5a) bekezdését a 35/2017. (XII. 21.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^100]: A 19. § (6) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.

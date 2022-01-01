@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2-20-0A
 | 2019-07-01 | 2013-2-20-0A.12 | 35/2017. (XII. 21.) BM rendelet |
 | 2021-01-01 | 2013-2-20-0A.13 | 45/2020. (XII. 16.) BM rendelet |
 | 2021-11-26 | 2013-2-20-0A.14 | 37/2021. (X. 27.) BM rendelet |
+| 2022-01-01 | 2013-2-20-0A.15 | 26/2021. (VIII. 9.) BM rendelet |
