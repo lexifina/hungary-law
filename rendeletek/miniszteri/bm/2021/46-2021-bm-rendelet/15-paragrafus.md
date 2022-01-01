@@ -1,4 +1,4 @@
-## 14. §[^13]
+## 14. §[^9]
 
 ## 8. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Az 5. § és a 8. § az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napot követő 180. napon lép hatályba.
 
-[^13]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 11. §
+## 11. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet 64. § (2) bekezdésében a „hivatásos pótlékát” szövegrész helyébe a „hivatásos pótlékát, a Hszt. 170. § (4) bekezdése szerint megállapított kiegészítő juttatását” szöveg lép.
 
-## 6.[^12]
-
-[^12]: A 6. alcím (12–13. §) a 15. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 6. A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet módosítása
