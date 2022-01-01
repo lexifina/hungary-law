@@ -2,7 +2,7 @@
 
 (2) A támogatói okirat tartalmazza
 
-a)[^49] az igénylő – együttes igénylés esetén az igénylők – alábbi adatait:
+a)[^55] az igénylő – együttes igénylés esetén az igénylők – alábbi adatait:
 
 aa) családi és utónév,
 
@@ -16,7 +16,7 @@ ae) lakóhely és
 
 af) adóazonosító jel,
 
-b)[^50] az igénylők – a magzat kivételével – valamennyi gyermekének alábbi adatait:
+b)[^56] az igénylők – a magzat kivételével – valamennyi gyermekének alábbi adatait:
 
 ba) családi és utónév,
 
@@ -32,13 +32,13 @@ bf) apja családi és utóneve, születési családi és utóneve, születési h
 
 c) a felújított ingatlan címét, helyrajzi számát,
 
-d)[^51] az igénylő belföldi pénzforgalmi szolgáltatónál vezetett – vagy a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet – fizetési számlájának számát, valamint
+d)[^57] az igénylő belföldi pénzforgalmi szolgáltatónál vezetett – vagy a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet – fizetési számlájának számát, valamint
 
 e) az igénybe vett támogatás összegét.
 
-(3)[^52] A Kincstár a támogatói okiratot megküldi az igénylő, valamint a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet részére.
+(3)[^58] A Kincstár a támogatói okiratot megküldi az igénylő, valamint a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet részére.
 
-(4)[^53] A Kincstár a támogatói okirat kiállítását követő 5 napon belül
+(4)[^59] A Kincstár a támogatói okirat kiállítását követő 5 napon belül
 
 a) az igénylő, vagy
 
@@ -46,14 +46,14 @@ b) a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt ny�
 
 ## belföldi fizetési számlájára folyósítja – az igénylő javára történő előtörlesztés érdekében – a támogatást.
 
-(5)[^54] Az otthonfelújítási támogatás (4) bekezdés b) pontja szerinti folyósítását követően a hitelintézet az otthonfelújítási támogatást 4 napon belül egy összegben, előtörlesztésként a támogatott személy hitelintézetnél vezetett hitelszámláján írja jóvá, legfeljebb a fennálló otthonfelújítási kölcsöntartozás összegéig.
+(5)[^60] Az otthonfelújítási támogatás (4) bekezdés b) pontja szerinti folyósítását követően a hitelintézet az otthonfelújítási támogatást 4 napon belül egy összegben, előtörlesztésként a támogatott személy hitelintézetnél vezetett hitelszámláján írja jóvá, legfeljebb a fennálló otthonfelújítási kölcsöntartozás összegéig.
 
-(6)[^55] Ha az (5) bekezdésben foglalt esetben az otthonfelújítási támogatás folyósításának időpontjában az otthonfelújítási kölcsönhöz kapcsolódó tőketartozás és annak járulékai összege alacsonyabb a támogatói okirat szerint igénybe vehető támogatás összegénél, a különbözetet a hitelintézet a támogatott személy részére haladéktalanul megfizeti a támogatott személy által megjelölt belföldi fizetési számlára.
+(6)[^61] Ha az (5) bekezdésben foglalt esetben az otthonfelújítási támogatás folyósításának időpontjában az otthonfelújítási kölcsönhöz kapcsolódó tőketartozás és annak járulékai összege alacsonyabb a támogatói okirat szerint igénybe vehető támogatás összegénél, a különbözetet a hitelintézet a támogatott személy részére haladéktalanul megfizeti a támogatott személy által megjelölt belföldi fizetési számlára.
 
-[^49]: A 11. § (2) bekezdés a) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^50]: A 11. § (2) bekezdés b) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^51]: A 11. § (2) bekezdés d) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^52]: A 11. § (3) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^53]: A 11. § (4) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^54]: A 11. § (5) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdése iktatta be.
-[^55]: A 11. § (6) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^55]: A 11. § (2) bekezdés a) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^56]: A 11. § (2) bekezdés b) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^57]: A 11. § (2) bekezdés d) pontja a 641/2020. (XII. 22.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^58]: A 11. § (3) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^59]: A 11. § (4) bekezdése a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^60]: A 11. § (5) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^61]: A 11. § (6) bekezdését a 641/2020. (XII. 22.) Korm. rendelet 10. § (3) bekezdése iktatta be.

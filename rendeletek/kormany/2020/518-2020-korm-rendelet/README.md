@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-518-20-
 | 2021-07-01 | 2020-518-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-07-02 | 2020-518-20-22.6 | 2010: CXXX. törvény |
 | 2021-09-29 | 2020-518-20-22.7 | 530/2021. (IX. 14.) Korm. rendelet |
+| 2022-01-01 | 2020-518-20-22.8 | 786/2021. (XII. 27.) Korm. rendelet |

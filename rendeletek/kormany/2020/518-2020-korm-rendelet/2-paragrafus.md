@@ -32,10 +32,11 @@ b) szabad mozgás és tartózkodás jogával rendelkező személyek beutazásár
 
 6.[^6]
 
-(2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben foglaltak szerint kell értelmezni.
+(2)[^7] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.) foglaltak szerint kell értelmezni.
 
 [^2]: A 2. § (1) bekezdés 1. pontja az 530/2021. (IX. 14.) Korm. rendelet 33. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdés 1a. pontját az 530/2021. (IX. 14.) Korm. rendelet 33. §-a iktatta be.
 [^4]: A 2. § (1) bekezdés 2. pont b) alpont nyitó szövegrésze a 641/2020. (XII. 22.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés 5. pontja az 530/2021. (IX. 14.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés 6. pontját az 530/2021. (IX. 14.) Korm. rendelet 39. § a) pontja hatályon kívül helyezte.
+[^7]: A 2. § (2) bekezdése a 786/2021. (XII. 27.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
