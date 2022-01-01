@@ -1,0 +1,1 @@
+## 5. § Tényleges érték alkalmazása esetén a Kr.-ben meghatározott fenntarthatósági nyilatkozatot kiállító a számítás megfelelőségét önkéntes nemzeti vagy nemzetközi rendszer keretében független auditot végző tanúsító szerv által kiadott nyilatkozattal (tanúsítvánnyal) igazolja.

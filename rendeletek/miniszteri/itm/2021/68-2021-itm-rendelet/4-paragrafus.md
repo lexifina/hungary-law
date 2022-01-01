@@ -1,0 +1,7 @@
+## 3. § A tömegmérleg-rendszer biztosítja, hogy minden egyes szállítmányt csak egyszer vegyenek figyelembe a megújuló forrásokból előállított energia teljes bruttó fogyasztásának kiszámításához, és információt tartalmaz arról, hogy a szállítmány előállítása részesült-e támogatásban, továbbá ha igen, akkor a támogatási rendszer típusáról is.
+
+4. § (1) A feldolgozott szállítmány fenntarthatósági és ÜHG kibocsátás megtakarítási jellemzőit kiigazítják, és a (2) és (3) bekezdés szerint a végtermékhez rendelik.
+
+(2) Ha egyetlen végtermék készül, és azt bioüzemanyagok, folyékony bio-energiahordozók, vagy biomasszából előállított tüzelőanyagok, nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásokból származó, közlekedési célú üzemanyagok vagy széntartalom újrahasznosításával nyert üzemanyagok előállítására szánják, a szállítmány méretét és fenntarthatósági, valamint ÜHG kibocsátás megtakarítási jellemzőit egy olyan átváltási együtthatóval igazítja ki, amely a bioüzemanyagok, folyékony bio-energiahordozók vagy biomasszából előállított tüzelőanyagok előállítására szánt végtermék és az eljáráshoz felhasznált nyersanyagok arányát fejezi ki.
+
+(3) Ha több végtermék készül, és azokat bioüzemanyagok, folyékony bio-energiahordozók vagy biomasszából előállított tüzelőanyagok, nem biológiai eredetű, folyékony vagy gáznemű, megújuló energiaforrásokból származó, közlekedési célú üzemanyagok vagy széntartalom újrahasznosításával nyert üzemanyagok előállítására szánják, mindegyik végtermékre külön átváltási együtthatót és külön tömegmérleget alkalmaznak.
