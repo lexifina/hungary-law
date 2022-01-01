@@ -1,5 +1,5 @@
-## lép.
+## 15. §[^11]
 
-## 13.[^3]
+## 13. A közúti közlekedési ágazatban használt gépek kezelőinek képzéséről és vizsgáztatásáról szóló 54/2021. (XI. 5.) ITM rendelet módosítása
 
-[^3]: A 13. alcím (16. §) a 18. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^11]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

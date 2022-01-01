@@ -1,5 +1,3 @@
-## 10. §
+## lép.
 
-## 10.[^2]
-
-[^2]: A 10. alcím (11–13. §) a 18. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 10. A bányafelügyelet részére fizetendő igazgatási szolgáltatási díjakról és egyéb eljárási költségekről, valamint a felügyeleti díj fizetésének részletes szabályairól szóló 78/2015. (XII. 30.) NFM rendelet módosítása

@@ -1,5 +1,13 @@
-## 9. § A bányaüzem felelős műszaki vezetőjének kijelöléséről szóló 16/2013. (IV. 19.) NFM rendelet 7. § (4) bekezdésében a „Magyar Bányászati és Földtani Szolgálat” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg lép.
+## 9. §[^9]
 
-## 9.[^1]
+## 9. A bányászati koncessziós pályázati eljárásról szóló 8/2014. (II. 18.) NFM rendelet módosítása
 
-[^1]: A 9. alcím (10. §) a 18. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## 10. § A bányászati koncessziós pályázati eljárásról szóló 8/2014. (II. 18.) NFM rendelet
+
+a) 1. § (1) bekezdésében a „Magyar Bányászati és Földtani Szolgálat (a továbbiakban: MBFSZ)” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet)” szöveg;
+
+b) 3. §-ában, 4. § (4) bekezdésében az „az MBFSZ” szövegrész helyébe az „a bányafelügyelet” szöveg;
+
+c) 10. §-ában az „az MBFSZ” szövegrészek helyébe az „a bányafelügyelet” szöveg
+
+[^9]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
