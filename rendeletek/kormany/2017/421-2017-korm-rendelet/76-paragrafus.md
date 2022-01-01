@@ -1,4 +1,4 @@
-## 75. §[^36]
+## 75. §[^38]
 
 ## 39. A pártfogó ügyvédi díj viselése és visszatérítése
 
@@ -6,4 +6,4 @@
 
 (2) A bűnügyi költségek körébe tartozó pártfogó ügyvédi díj visszatérítésének elmulasztása esetén a területi hivatal megkeresi a bűnügyi költség behajtására hatáskörrel rendelkező hatóságot.
 
-[^36]: A 75. §-t a 347/2020. (VII. 15.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^38]: A 75. §-t a 347/2020. (VII. 15.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
