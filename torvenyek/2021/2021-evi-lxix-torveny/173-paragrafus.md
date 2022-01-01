@@ -1,1 +1,3 @@
-173. §
+173. § Az Szftv. a következő 13. §-sal egészül ki:
+
+„13. § Az egyes adótörvények módosításáról szóló 2021. évi LXIX. törvénnyel megállapított 1. § (7) bekezdését és 5/A. § (6) bekezdését első alkalommal a 2021. rendelkező évi nyilatkozatok esetében kell alkalmazni.”
