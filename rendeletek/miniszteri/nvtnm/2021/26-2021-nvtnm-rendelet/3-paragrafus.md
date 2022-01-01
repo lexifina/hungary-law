@@ -1,0 +1,3 @@
+3. § (1) A törvényes öröklés jogcímén megszerzett hagyaték tekintetében az államot mint örököst terhelő kötelezettségekért 2022. január 1. napjától az MVH köteles helyt állni, továbbá az államot mint örököst megillető követelések 2022. január 1. napjától az MVH-t illetik meg.
+
+(2) A végintézkedésen alapuló öröklés jogcímén megszerzett hagyaték tekintetében az államot mint örököst terhelő kötelezettségekért 2022. január 1. napjától az MNV Zrt. köteles helyt állni, továbbá a végintézkedésen alapuló öröklés jogcímén az államot mint örököst megillető követelések 2022. január 1. napjától az MNV Zrt.-t illetik meg.
