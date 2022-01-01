@@ -10,7 +10,7 @@ c) a képzés célját és a helyi foglalkoztatási lehetőségekkel való kapcs
 
 d) a képzés további képzésekkel való kapcsolatát.
 
-(2)[^1]
+(2) A felzárkózási képzést folytató szervezet a szolgáltatási programot a Főigazgatóság által biztosított online informatikai rendszerben állítja össze legkésőbb a képzés tervezett kezdési időpontja előtt tizenöt munkanappal, kivéve a (3) bekezdésben meghatározott esetet.
 
 (3) A felzárkózási képzést folytató szervezet a szolgáltatási programot a Főigazgatóságnak legkésőbb a képzés tervezett kezdési időpontja előtt tíz munkanappal papír alapon vagy elektronikus formában adja át, ha a Főigazgatóság által biztosított online informatikai rendszer műszaki okból nem érhető el.
 
@@ -19,5 +19,3 @@ d) a képzés további képzésekkel való kapcsolatát.
 (5) A komplexitási igazolás mellékleteként véglegesített szolgáltatási program a Főigazgatóság jóváhagyása alapján módosítható. A Főigazgatóság a szolgáltatási program módosítását az 1. mellékletben foglalt követelmények teljesülése esetén hagyja jóvá.
 
 (6) A Főigazgatóság a komplexitási igazolással rendelkező szolgáltatási programokról és a komplex felzárkózási képzésekről az (1) bekezdés c) és d) pontja szerinti adatokkal elektronikus nyilvántartást vezet.
-
-[^1]: Az 5. § (2) bekezdése a 9. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
