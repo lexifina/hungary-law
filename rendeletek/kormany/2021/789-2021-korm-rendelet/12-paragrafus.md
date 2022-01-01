@@ -1,0 +1,3 @@
+## „(10) Az (5) bekezdés c) pontjában meghatározott célú műveleti korlátozás az Országgyűlési Őrségnek az Országgyűlésről szóló 2012. évi XXXVI. törvényben meghatározott feladatai teljesítése során, az említett törvényben meghatározott intézkedésekben és eljárásokban a helyszínen meghatározott feladatok ellátásának időtartamára, de legfeljebb 24 órára írható elő, amely egy alkalommal 24 órával meghosszabbítható, legfeljebb az elrendelésre okot adó esemény kezdetétől annak végéig, amelyet a Felületen fel kell tüntetni.”
+
+## 5. A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet módosítása
