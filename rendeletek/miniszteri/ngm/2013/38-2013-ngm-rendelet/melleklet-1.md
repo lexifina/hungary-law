@@ -434,59 +434,67 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 | 3. Az átvett immateriális javak, tárgyi eszközök bekerülési értéke és a követelés értéke közötti veszteségjellegű különbözet a költségvetési és a pénzügyi számvitel szerint: a XII. fejezet D) Behajthatatlan követelés elszámolása cím szerint |
 
-| 4. Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 100. §-a szerinti átvett immateriális javak, tárgyi eszközök értékesítésének elszámolása az MNV Zrt.-nél |
+| 4. Az államháztartásról szóló 2011. évi CXCV. törvény (továbbiakban: Áht.) 100. §-a szerint a társadalombiztosítás pénzügyi alapjaitól átvett immateriális javak, tárgyi eszközök értékesítésének elszámolása az értékesítésre átvevő szervezetnél |
 
-| a) Az átvett immateriális javak, tárgyi eszközök nyilvántartásba vétele |  |  |  |
-
-| a pénzügyi számvitel szerint | T022 | – | K006 |
+| a) Az átvett immateriális javak, tárgyi eszközök nyilvántartásba vétele a pénzügyi számvitel szerint | T022 | – | K006 |
 
 | b) Az átvett immateriális javak, tárgyi eszközök értékesítésével kapcsolatos követelés nettó értékének nyilvántartásba vétele: csak a részletező nyilvántartásokban |
 
-| c) Az átvett immateriális javak, tárgyi eszközök értékesítésekor |  |  |  |
+| c) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelésként történő elszámolása a költségvetési számvitel szerint | T094062 | – | K0041 |
 
-| az általános forgalmi adó követelésként történő elszámolása a költségvetési számvitel szerint | T094062 | – | K0041 |
+| d) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelésként történő elszámolása a pénzügyi számvitel szerint | T3514 | – | K36422 |
 
-| d) Az átvett immateriális javak, tárgyi eszközök értékesítésekor |  |  |  |
+| e) Az átvett immateriális javak, tárgyi eszközök értékesítésekor a nettó érték elszámolása a pénzügyi számvitel szerint | T331 | – | K3673 |
 
-| az általános forgalmi adó követelésként történő elszámolása |  |  |  |
+| f) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelés teljesítésének elszámolása a költségvetési számvitel szerint | T005 | – | K094063 |
 
-| a pénzügyi számvitel szerint | T3514 | – | K36422 |
+| g) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelés teljesítésének elszámolása a pénzügyi számvitel szerint | T331 | – | K3514 |
 
-| e) Az átvett immateriális javak, tárgyi eszközök értékesítésekor |  |  |  |
+| h) Az értékesítés során felmerült költségekkel csökkentett eladási ár továbbutalása a jogosult részére a pénzügyi számvitel szerint | T3673 | – | K331 |
 
-| a nettó érték elszámolása a pénzügyi számvitel szerint | T331 | – | K3673 |
+| i) Az értékesített immateriális javak, tárgyi eszközök kivezetése a nyilvántartásból a pénzügyi számvitel szerint | T006 | – | K022 |
 
-| f) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelés teljesítésének elszámolása a költségvetési számvitel szerint |  |  |  |
+| 5. Az Áht. 100. §-a szerinti esetben az értékesítésre átvevő szervezet részére az értékesítésre átadott immateriális javak, tárgyi eszközök értékesítésének elszámolása a társadalombiztosítás pénzügyi alapjainál |
 
-| T005 | – | K094063 |
+| a) Az értékesítésre átvevő szervezetnek az értékesítésről szóló értesítése szerint a követelés elszámolása a költségvetési számvitel szerint | T094112 | – | K0041 |
 
-| g) Az átvett immateriális javak, tárgyi eszközök értékesítésekor |  |  |  |
-
-| az általános forgalmi adó követelés teljesítésének elszámolása |  |  |  |
-
-| a pénzügyi számvitel szerint | T331 | – | K3514 |
-
-| h) Az értékesítés során felmerült költségekkel csökkentett |  |  |  |
-
-| eladási ár továbbutalása a jogosult részére a pénzügyi számvitel szerint | T3673 | – | K331 |
-
-| i) Az értékesített immateriális javak, tárgyi eszközök kivezetése |  |  |  |
-
-| a nyilvántartásból a pénzügyi számvitel szerint | T006 | – | K022 |
-
-| 5. Az Áht. 100. §-a szerinti esetben az MNV Zrt. részére értékesítésre átadott immateriális javak, tárgyi eszközök értékesítésének elszámolása az átadónál |  |  |  |
-
-| a) Az MNV Zrt.-nek az értékesítésről szóló értesítése szerint |  |  |  |
-
-| a követelés elszámolása a költségvetési számvitel szerint | T094112 | – | K0041 |
-
-| b) Az MNV Zrt.-nek az értékesítésről szóló értesítése szerint |  |  |  |
-
-| a követelés elszámolása a pénzügyi számvitel szerint | T3514 | – | K221 |
+| b) Az értékesítésre átvevő szervezetnek az értékesítésről szóló értesítése szerint a követelés elszámolása a pénzügyi számvitel szerint | T3514 | – | K221 |
 
 | c) A költségekkel csökkentett eladási ár beérkezésének elszámolása a költségvetési számvitel szerint | T005 | – | K094113 |
 
 | d) A költségekkel csökkentett eladási ár beérkezésének elszámolása a pénzügyi számvitel szerint | T331 | – | K3514 |
+
+| 6. Az Áht. 100. §-a szerint a fejezeti kezelésű előirányzatoktól és az elkülönített állami pénzalapoktól átvett immateriális javak, tárgyi eszközök értékesítésének elszámolása az értékesítésre átvevő szervezetnél |
+
+| a) Az átvett immateriális javak, tárgyi eszközök nyilvántartásba vétele a pénzügyi számvitel szerint | T221 | – | K412 |
+
+| b) Az értékesített immateriális javak, tárgyi eszközök kivezetése a nyilvántartásból a pénzügyi számvitel szerint | T813 | – | K221 |
+
+| c) Az átvett immateriális javak, tárgyi eszközök értékesítésével kapcsolatos követelés nettó értékének nyilvántartásba vétele: csak a részletező nyilvántartásokban |
+
+| d) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelésként történő elszámolása a költségvetési számvitel szerint | T094062 | – | K0041 |
+
+| e) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelésként történő elszámolása a pénzügyi számvitel szerint | T3514 | – | K36422 |
+
+| f) Az átvett immateriális javak, tárgyi eszközök értékesítésekor a nettó érték elszámolása a pénzügyi számvitel szerint | T331 | – | K3673 |
+
+| g) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelés teljesítésének elszámolása a költségvetési számvitel szerint | T005 | – | K094063 |
+
+| h) Az átvett immateriális javak, tárgyi eszközök értékesítésekor az általános forgalmi adó követelés teljesítésének elszámolása a pénzügyi számvitel szerint | T331 | – | K3514 |
+
+| i) Az értékesítés során felmerült költségekkel csökkentett eladási ár továbbutalása a jogosult részére a pénzügyi számvitel szerint | T3673 | – | K331 |
+
+| 7. Az Áht. 100. §-a szerinti esetben az értékesítésre átvevő szervezet részére az értékesítésre átadott immateriális javak, tárgyi eszközök értékesítésének elszámolása a fejezeti kezelésű előirányzatoknál és az elkülönített állami pénzalapoknál |
+
+| a) Az értékesítésre átadott immateriális javak, tárgyi eszközök nyilvántartásból történő kivezetése | T412 | – | K221 |
+
+| b) Az értékesítésre átvevő szervezetnek az értékesítésről szóló értesítése szerint a követelés elszámolása a költségvetési számvitel szerint | T094112 | – | K0041 |
+
+| c) Az értékesítésre átvevő szervezetnek az értékesítésről szóló értesítése szerint a követelés elszámolása a pénzügyi számvitel szerint | T3514 | – | K9244 |
+
+| d) A költségekkel csökkentett eladási ár beérkezésének elszámolása a költségvetési számvitel szerint | T005 | – | K094113 |
+
+| e) A költségekkel csökkentett eladási ár beérkezésének elszámolása a pénzügyi számvitel szerint | T331 | – | K3514 |
 
 ## Csökkenések
 
@@ -692,11 +700,11 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 2. Vásárlás esedékessé válása a költségvetési számvitel szerint | T05652 T0022 | – | K0021 K05652 |
 
-| 3. Vásárlás esedékessé válása a pénzügyi számvitel szerint | T161-163/165/ 241 | – | K4216/4219 |
+| 3. Vásárlás esedékessé válása a pénzügyi számvitel szerint | T161–163/ 165/241 | – | K4216 |
 
 | 4. Részesedés megvásárlása a költségvetési számvitel szerint | T05653 | – | K003 |
 
-| 5. Részesedés megvásárlása a pénzügyi számvitel szerint | T4216/4219 | – | K32/33 |
+| 5. Részesedés megvásárlása a pénzügyi számvitel szerint | T4216 | – | K32/33 |
 
 ## B) Részesedések elszámolása alapításkor, tőkeemeléskor pénzbeli hozzájárulás teljesítésekor
 
@@ -784,11 +792,13 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 1. Követelés kivezetése az átvett részesedés, értékpapír bekerülési értékéig a költségvetési számvitel szerint | T0041 | – | K09(2) |
 
-| 2. Követelés kivezetése az átvett részesedés, értékpapír bekerülési értékéig a pénzügyi számvitel szerint | T17/221/24 | – | K35 |
+| 2. Követelés kivezetése az átvett részesedés, értékpapír bekerülési értékéig a pénzügyi számvitel szerint | T17/221/ 241–247 | – | K35 |
 
 | 3. Az átvett részesedés, értékpapír bekerülési értéke és a követelés értéke között veszteségjellegű különbözet a költségvetési és a pénzügyi számvitel szerint: a XII. fejezet D) Behajthatatlan követelés elszámolása cím szerint |
 
-| 4. Részesedés, értékpapírt átadása értékesítésre az MNV Zrt. részére az Áht. 100. §-a szerinti esetben: a III. fejezet Növekedések M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása 4. és 5. pontja szerint |
+| 4. Részesedés, értékpapír átadása értékesítésre a társadalombiztosítás pénzügyi alapjainál az értékesítésre átvevő szervezet részére az Áht. 100. §-a szerinti esetben: a III. fejezet Növekedések cím M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása alcím 4. és 5. pontja szerint |
+
+| 5. Részesedés, értékpapír átadása a fejezeti kezelésű előirányzatoknál és az elkülönített állami pénzalapoknál az értékesítésre átvevő szervezet részére az Áht. 100. §-a szerinti esetben: a III. fejezet Növekedések cím M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása alcím 6. és 7. pontja szerint |
 
 ## E) Térítés nélküli átvett, ajándékba kapott, hagyatékként átvett részesedések, értékpapírok elszámolása
 
@@ -826,21 +836,21 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 ## A) Részesedések, hitelviszonyt megtestesítő értékpapírok értékesítése elszámolása
 
-| 1. Értékvesztés kivezetése a pénzügyi számvitel szerint | T168/178/ 2481/2482 | – | K16/17/24 |
+| 1. Értékvesztés kivezetése a pénzügyi számvitel szerint | T168/178/ 2481/2482/ 2483 | – | K16/17/24 |
 
 | 2. Értékesítés a költségvetési számvitel szerint |
 
-| a) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) követelésként | T0954/098121/098123/09821/ 09822(2) | – | K0041 |
+| a) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) követelésként | T0954/098121/ 098123/09821/ 09822(2) | – | K0041 |
 
-| b) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) teljesítésként | T005 | – | K0954/ 098121/ 098123/09821/09822(3) |
+| b) Értékesítés bevétele (legfeljebb a könyv szerinti értékig) teljesítésként | T005 | – | K0954/098121/ 098123/09821/ 09822(3) |
 
 | c) Hitelviszonyt megtestesítő értékpapír esetén az eladási árban elismert kamat követelésként | T0940812/ 0940822 | – | K0041 |
 
 | d) Hitelviszonyt megtestesítő értékpapír esetén az eladási árban elismert kamat teljesítésként | T005 | – | K0940813/ 0940823 |
 
-| e) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet követelésként | T0940912/ 0940922 | – | K0041 |
+| e) A könyv szerinti érték és az eladási ár közötti/eladási árban elismert kamat feletti nyereségjellegű különbözet követelésként | T0940812/ 0940912/ 0940922 | – | K0041 |
 
-| f) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet teljesítésként | T005 | – | K0940913/ 0940923 |
+| f) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereségjellegű különbözet teljesítésként | T005 | – | K0940813/ 0940913/ 0940923 |
 
 | 3. Értékesítés a pénzügyi számvitel szerint |
 
@@ -852,11 +862,11 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | d) Hitelviszonyt megtestesítő értékpapír esetén az eladási árban elismert kamat teljesítésként | T32/33 | – | K3514 |
 
-| e) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet követelésként | T3514 | – | K9353 |
+| e) A könyv szerinti érték és az eladási ár közötti/eladási árban elismert kamat feletti nyereségjellegű különbözet követelésként | T3514 | – | K9325/9333/ 9353 |
 
-| f) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereség jellegű különbözet teljesítésként | T32/33 | – | K3514 |
+| f) A könyv szerinti érték és az eladási árban elismert kamat feletti nyereségjellegű különbözet teljesítésként | T32/33 | – | K3514 |
 
-| g) A könyv szerinti érték és az értékesítési bevétel közötti veszteség jellegű különbözet elszámolása | T8514/8522/8553 | – | K16/17/24 |
+| g) A könyv szerinti érték és az értékesítési bevétel közötti veszteségjellegű különbözet elszámolása | T8514/8522/ 8553 | – | K16/17/24 |
 
 ## B) Részesedés, értékpapír térítés nélküli átadásának elszámolása
 
@@ -1000,7 +1010,9 @@ VÁSÁROLT KÉSZLETEKKEL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 3. Az átvett készlet bekerülési értéke és a követelés értéke között veszteségjellegű különbözet a költségvetési és a pénzügyi számvitel szerint: a XII. fejezet D) Behajthatatlan követelés elszámolása cím szerint |
 
-| 4. Készletek átadása értékesítésre az MNV Zrt. részére: a III. fejezet Növekedések M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása 4. és 5. pontja szerint |
+| 4. Készletek átadása a társadalombiztosítás pénzügyi alapjainál az értékesítésre átvevő szervezet részére: a III. fejezet Növekedések cím M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása alcím 4. és 5. pontja szerint |
+
+| 5. Készletek átadása a fejezeti kezelésű előirányzatoknál és az elkülönített állami pénzalapoknál az értékesítésre átvevő szervezet részére: a III. fejezet Növekedések cím M) Követelés fejében átvett immateriális javak, tárgyi eszközök elszámolása alcím 6. és 7. pontja szerint |
 
 ## Csökkenések
 
@@ -1484,7 +1496,7 @@ SZEMÉLYI JUTTATÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | a) Követelés teljesítéseként | T005 | – | K094113 |
 
-| a) Kötelezettség teljesítéseként | T051(3) | – | K003 |
+| b) Kötelezettség teljesítéseként | T051(3) | – | K003 |
 
 | 7. Munkáltató követelései rendezése a pénzügyi számvitel szerint | T4211 | – | K3514 |
 
@@ -2700,6 +2712,30 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 | 4. A behajtási költségátalány pénzügyi teljesítésének elszámolása pénzügyi számvitel szerint | T4213 | – | K32/33 |
 
+## S) Külföldi pénznemben meglévő követelések és kötelezettségek év végi értékelésének elszámolása
+
+| 1. Év végi átértékelésből adódó árfolyamnyereség végleges kötelezettségvállalás, más fizetési kötelezettség esetén, ha az év végi árfolyam alacsonyabb, a költségvetési számvitel szerint | T05(2) | – | K0022 |
+
+| 2. Év végi átértékelésből adódó árfolyamnyereség végleges kötelezettségvállalás, más fizetési kötelezettség esetén, ha az év végi árfolyam alacsonyabb, a pénzügyi számvitel szerint | T421 | – | K494 |
+
+| 3. Év végi átértékelésből adódó árfolyamveszteség végleges kötelezettségvállalás, más fizetési kötelezettség esetén, ha az év végi árfolyam magasabb, a költségvetési számvitel szerint | T0022 | – | K05(2) |
+
+| 4. Év végi átértékelésből adódó árfolyamveszteség végleges kötelezettségvállalás, más fizetési kötelezettség esetén, ha az év végi árfolyam magasabb, a pénzügyi számvitel szerint | T494 | – | K 421 |
+
+| 5. Év végi átértékelésből adódó árfolyamnyereség követelés esetén, ha az év végi árfolyam magasabb, a költségvetési számvitel szerint | T09(2) | – | K0041 |
+
+| 6. Év végi átértékelésből adódó árfolyamnyereség követelés esetén, ha az év végi árfolyam magasabb, a pénzügyi számvitel szerint | T351 | – | K494 |
+
+| 7. Év végi átértékelésből adódó árfolyamveszteség követelés esetén, ha az év végi árfolyam alacsonyabb, a költségvetési számvitel szerint | T0041 | – | K09(2) |
+
+| 8. Év végi átértékelésből adódó árfolyamveszteség követelés esetén, ha az év végi árfolyam alacsonyabb, a pénzügyi számvitel szerint | T494 | – | K351 |
+
+| 9. A fentiek elszámolása után a pénzügyi számvitelben a 494. Árfolyam-különbözet elszámolási számla egyenlegétől függően |
+
+| a) Ha a 494. Árfolyam-különbözet számla 1–8. pont szerinti tételek elszámolása utáni egyenlege követel jellegű, a pénzügyi számvitel szerint | T494 | – | K9353 |
+
+| b) Ha a 494. Árfolyam-különbözet számla 1–8. pont szerinti tételek elszámolása utáni egyenlege tartozik jellegű, a pénzügyi számvitel szerint | T8553 | – | K494 |
+
 XIII. FEJEZET
 
 ## KÖNYVVITELI ZÁRLAT SAJÁTOS FELADATAI
@@ -3063,4 +3099,4 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
 [^1]: A 4. §-t a 16/2019. (XII. 7.) PM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 3. §.
-[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja, a 14/2020. (XII. 28.) PM rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja, a 14/2020. (XII. 28.) PM rendelet 1. §-a, a 9/2021. (VIII. 5.) PM rendelet 1. §-a szerint módosított szöveg.
