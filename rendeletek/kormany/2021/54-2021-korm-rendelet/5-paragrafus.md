@@ -1,1 +1,0 @@
-## 4. § A kormánybiztos az e rendelet szerinti irányítási hatáskörök gyakorlása során együttműködik az emberi erőforrások miniszterével. A kormánybiztos az e rendelet szerinti tevékenységéről félévente írásban tájékoztatja az emberi erőforrások miniszterét.
