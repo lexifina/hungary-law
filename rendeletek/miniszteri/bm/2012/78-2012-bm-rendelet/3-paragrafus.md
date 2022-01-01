@@ -1006,7 +1006,9 @@ H.3. Választásokkal kapcsolatos ügyek
 
 | H307 | Választójogosultság nyilvántartásával kapcsolatos ügyek (kifogás, felvételi kérelem, igazolás stb.) | 5 | – |
 
-| # A jegyzőkönyvek első példányának illetékes levéltárba történő átadása érdekében a külön jogszabályi előírások alapján kell intézkedni. |
+| H308 | A választási eljárásról szóló 2013. évi XXXVI. törvény 13/C. §-a alapján megsemmisítendő választási iratok | 90 nap* | – |
+
+| # A jegyzőkönyvek első példányának illetékes levéltárba történő átadása érdekében a külön jogszabályi előírások alapján kell intézkedni.; * Megsemmisítendő a szavazást követő 90 nap leteltét követő első munkanapon. |
 
 H.4. Rendőrségi ügyek
 
@@ -1517,4 +1519,4 @@ X.3. Fegyveres biztonsági őrség
 | X302 | Rendészeti ügyek | 2 | – |
 
 [^1]: A 3. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A melléklet az 1/2020. (I. 8.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: A melléklet az 1/2020. (I. 8.) BM rendelet 1. §-ával megállapított, a 46/2021. (XII. 22.) BM rendelet 9. §-a szerint módosított szöveg.
