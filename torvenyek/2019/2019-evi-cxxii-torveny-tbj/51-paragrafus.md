@@ -1,1 +1,1 @@
-51. § A 48. és 49. § szerinti megállapodások hatósági szerződésnek minősülnek.
+51. § A 48. §, a 49. § és a 49/A. § szerinti megállapodások hatósági szerződésnek minősülnek.
