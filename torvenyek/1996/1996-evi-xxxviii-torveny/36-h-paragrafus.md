@@ -1,0 +1,1 @@
+36/H. § A kiadatási-elfogatóparancsot kibocsátó állam igazságügyi hatóságának megkeresésére a bíróság vagy az ügyészség a terheltet kihallgatja. A megkeresésre és annak teljesítésére – a 3. § figyelembevételével – az V. Fejezetben foglalt rendelkezéseket kell megfelelően alkalmazni.

@@ -13,3 +13,5 @@
 (6) A végrehajtás átvételét a miniszter ahhoz a feltételhez kötheti, hogy a külföldi igazságügyi hatóság előzetes hozzájárulást ad a külföldi ítélet alapjául szolgáló bűncselekménytől különböző bűncselekmény elkövetése miatti büntetőeljárás lefolytatásához.
 
 (7) Ha a miniszter a végrehajtás átvételét megtagadja, a 28. §-ban foglaltak szerint jár el.
+
+(8) A végrehajtás átvétele feltételeinek fennállása megállapításához szükséges információk beszerzése érdekében a miniszter – szükség esetén a NEBEK közreműködésével – adatszolgáltatást kérhet bármely szervtől, jogi személytől vagy jogi személyiséggel nem rendelkező szervezettől.
