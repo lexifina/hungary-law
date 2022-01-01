@@ -92,4 +92,14 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 33. műpéldány: a filmalkotást vagy egyéb szerzői jogi védelem alatt álló művet, annak azonosítására alkalmas formában tartósan rögzítő hordozó.
 
+34. belföldi magánszemély:
+
+a) az a magyar állampolgár, aki rendelkezik Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel és életvitelszerűen Magyarország területén lakik;
+
+b) az az EGT-állampolgár, illetve családtagja, aki rendelkezik Magyarország területén a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel és életvitelszerűen Magyarország területén lakik;
+
+c) az a harmadik országbeli állampolgár, aki EK vagy nemzeti letelepedési engedéllyel rendelkezik és életvitelszerűen Magyarország területén lakik.
+
+35. életvitelszerűség: életvitelszerűen Magyarország területén lakik az a magyar, EGT-állampolgár, vagy harmadik országbeli állampolgár, aki a 31/B. § (2a) bekezdése szerinti gyártási időszak (előkészítés) kezdetének napját megelőző hároméves időszakban Magyarország területén megszakítás nélkül bejelentett lakóhellyel rendelkezik.
+
 3. CÍM
