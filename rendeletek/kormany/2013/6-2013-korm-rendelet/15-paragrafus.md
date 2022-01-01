@@ -1,4 +1,4 @@
-## 14. §[^43]
+## 14. §[^48]
 
 ## 13. Az Európai Unió jogának való megfelelés
 
@@ -6,7 +6,7 @@
 
 (2) Ez a rendelet
 
-a)[^44] a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet,
+a)[^49] a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet,
 
 b) a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat 6. cikke és II. melléklete,
 
@@ -14,7 +14,7 @@ c) az építési termékek fogalmazására vonatkozó harmonizált feltételek m
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^45] Ez a rendelet
+(3)[^50] Ez a rendelet
 
 1. a gépekről és a 95/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -38,9 +38,12 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ## való megfelelést szolgálja.
 
-(4)[^46] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
+(4)[^51] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
 
-[^43]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: A 15. § (2) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^45]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
-[^46]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+(5)[^52] Ez a rendelet az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^48]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 15. § (2) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^50]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^51]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^52]: A 15. § (5) bekezdését a 736/2021. (XII. 21.) Korm. rendelet 3. §-a iktatta be.

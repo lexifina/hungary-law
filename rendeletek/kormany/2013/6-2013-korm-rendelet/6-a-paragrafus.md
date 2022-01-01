@@ -1,19 +1,19 @@
-6/A. §[^10] (1)[^11] Ha a piacfelügyeleti hatóság megállapítja, hogy egy CE jelöléssel ellátott, helyesen felszerelt és karbantartott, rendeltetésszerűen in vitro diagnosztikai orvostechnikai eszköz (e cím alkalmazásában a továbbiakban együtt: eszköz) veszélyeztetheti a beteg, a kezelő vagy más személy egészségét, illetve biztonságát, rendelkezik az eszköz
+6/A. §[^13] (1)[^14] Ha a piacfelügyeleti hatóság megállapítja, hogy egy CE jelöléssel ellátott, helyesen felszerelt és karbantartott, rendeltetésszerűen in vitro diagnosztikai orvostechnikai eszköz (e cím alkalmazásában a továbbiakban együtt: eszköz) veszélyeztetheti a beteg, a kezelő vagy más személy egészségét, illetve biztonságát, rendelkezik az eszköz
 
 a) forgalmazásának, illetve használatának felfüggesztéséről vagy
 
-b)[^12] forgalomból történő kivonásáról, illetve a használatának megtiltásáról, ha a forgalmazás felfüggesztése esetén a piacfelügyeleti hatóság felhívására, az abban foglalt megfelelő határidőn belül a gyártó vagy annak meghatalmazott képviselője a megfelelő intézkedések megtételével nem biztosítja az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendelet előírásainak való megfelelést.
+b)[^15] forgalomból történő kivonásáról, illetve a használatának megtiltásáról, ha a forgalmazás felfüggesztése esetén a piacfelügyeleti hatóság felhívására, az abban foglalt megfelelő határidőn belül a gyártó vagy annak meghatalmazott képviselője a megfelelő intézkedések megtételével nem biztosítja az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendelet előírásainak való megfelelést.
 
-(2)[^13] Ha a gyártó vagy annak meghatalmazott képviselője az eszközzel kapcsolatban megsérti az alapvető biztonsági és egészségvédelmi követelményeket, a gyártó adott eszköze tekintetében a piacfelügyeleti hatóság az (1) bekezdés a)–b) pontjában foglalt megfelelő intézkedéseket alkalmazza. Alapvető biztonsági és egészségvédelmi követelménynek kell tekinteni az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendelet követelményeit, különösen az általános követelményeit.
+(2)[^16] Ha a gyártó vagy annak meghatalmazott képviselője az eszközzel kapcsolatban megsérti az alapvető biztonsági és egészségvédelmi követelményeket, a gyártó adott eszköze tekintetében a piacfelügyeleti hatóság az (1) bekezdés a)–b) pontjában foglalt megfelelő intézkedéseket alkalmazza. Alapvető biztonsági és egészségvédelmi követelménynek kell tekinteni az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendelet követelményeit, különösen az általános követelményeit.
 
 (3) Ha a piacfelügyeleti hatóság megállapítja, hogy egy eszközre előírt megfelelőségértékelési eljárást nem vagy nem megfelelően folytatták le, az (1) bekezdés a) vagy b) pontjában foglalt megfelelő intézkedéseket alkalmazza.
 
 (4) Az (1)–(3) bekezdés szerinti esetben a piacfelügyeleti hatóság – az intézkedés indokolásával – egyidejűleg értesíti az Európai Bizottságot és az Európai Gazdasági Térség (a továbbiakban: EGT), illetve az Európai Közösséggel vagy az EGT-vel megkötött nemzetközi szerződés alapján az eszközök vonatkozásában az EGT tagállamával azonos jogállást élvező államokat.
 
-(5)[^14] A Pftv. 13. § (3) bekezdésében foglalt rendelkezés alkalmazása során a forgalmazó köteles meggyőződni arról, hogy az eszköz megfelel-e a forgalomba hozatal tekintetében az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben előírt követelményeknek. A forgalmazó köteles a forgalmazás megkezdéséig a gyártótól beszerezni és kérésre rendelkezésre bocsátani az eszköz jogszerű forgalomba hozatalát igazoló eredeti dokumentumokat.
+(5)[^17] A Pftv. 13. § (3) bekezdésében foglalt rendelkezés alkalmazása során a forgalmazó köteles meggyőződni arról, hogy az eszköz megfelel-e a forgalomba hozatal tekintetében az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben előírt követelményeknek. A forgalmazó köteles a forgalmazás megkezdéséig a gyártótól beszerezni és kérésre rendelkezésre bocsátani az eszköz jogszerű forgalomba hozatalát igazoló eredeti dokumentumokat.
 
-[^10]: A 6/A. §-t a 434/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
-[^11]: A 6/A. § (1) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^12]: A 6/A. § (1) bekezdés b) pontja a 164/2020. (IV. 30.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^13]: A 6/A. § (2) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^14]: A 6/A. § (5) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^13]: A 6/A. §-t a 434/2017. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 6/A. § (1) bekezdés nyitó szövegrésze a 164/2020. (IV. 30.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^15]: A 6/A. § (1) bekezdés b) pontja a 164/2020. (IV. 30.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^16]: A 6/A. § (2) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
+[^17]: A 6/A. § (5) bekezdése a 164/2020. (IV. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
