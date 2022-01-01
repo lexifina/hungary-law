@@ -1,4 +1,4 @@
-15/A. §[^47] (1) Madarak vadon befogott egyedeit – a vadászható madárfajok egyedeinek kivételével – kizárólag a természetvédelmi hatóság engedélyével szabad tartani.
+15/A. §[^48] (1) Madarak vadon befogott egyedeit – a vadászható madárfajok egyedeinek kivételével – kizárólag a természetvédelmi hatóság engedélyével szabad tartani.
 
 (2) Eltérő rendelkezés hiányában az (1) bekezdés előírásai nem vonatkoznak a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet (a továbbiakban: 338/97/EK tanácsi rendelet) hatálya alá tartozó példányokra.
 
@@ -18,4 +18,4 @@ e) kanári (Serinus canaria).
 
 (5) A Kormány az Ávtv. 45/B. §-a tekintetében az (1)–(4) bekezdésben foglaltak betartásának vámeljárás során történő ellenőrzése vonatkozásában az állami adó- és vámhatóságot állatvédelmi hatóságként jelöli ki.
 
-[^47]: A 15/A. §-t a 199/2017. (VII. 10.) Korm. rendelet 5. §-a iktatta be.
+[^48]: A 15/A. §-t a 199/2017. (VII. 10.) Korm. rendelet 5. §-a iktatta be.

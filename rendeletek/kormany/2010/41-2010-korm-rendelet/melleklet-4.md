@@ -208,6 +208,6 @@
 
 | 0,5 | 0,25 | 0,5 | 1 |
 
-4. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^118]
+4. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^119]
 
-[^118]: A 4. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 713/2020. (XII. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^119]: A 4. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 713/2020. (XII. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
