@@ -1,0 +1,1 @@
+36/E. § A 2022. február 1-jétől szakképzési hozzájárulás adónemre befizetett bevételt szociális hozzájárulási adóként kell nyilvántartani, a fennálló követeléseket és kötelezettségeket a szociális hozzájárulási adó terhére kell rendezni.

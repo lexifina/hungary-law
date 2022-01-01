@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-52-00-00
 | 2021-07-01 | 2021. évi LXXXV. törvény | 2018-52-00-00.13 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2018-52-00-00.14 |
 | 2021-12-25 | 2021. évi CL. törvény | 2018-52-00-00.15 |
+| 2022-01-01 | 2021. évi CXXXI. törvény | 2018-52-00-00.16 |

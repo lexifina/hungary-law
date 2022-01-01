@@ -1,4 +1,4 @@
-## 17. Az adókedvezményekre vonatkozó közös szabályok
+## 17. A 10–16. § szerinti adókedvezmények közös szabályai
 
 17. § (1) A kifizető az ugyanazzal a természetes személlyel fennálló munkaviszonyára, közfoglalkoztatási jogviszonyára tekintettel csak egy adókedvezmény igénybevételére jogosult. A több adókedvezmény egyidejű igénybevételét lehetővé tévő külön rendelkezés hiányában az adókedvezmények közötti választás joga a kifizetőt illeti meg.
 
