@@ -1,6 +1,6 @@
 56/A. § (1) Közigazgatási bírságot köteles fizetni
 
-a) az a munkaadó, munkavállaló, egyéb szerv, vagy személy, aki e törvényben – ide nem értve a 8. § (6) bekezdés b) pontját, valamint a 36. § (1) bekezdését –, valamint a felhatalmazása alapján hozott jogszabályban, továbbá az Mt. 74. §-ában és 215. § (1) bekezdésében vagy közigazgatási határozatban, hatósági szerződésben foglalt nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat,
+a) az a munkaadó, munkavállaló, egyéb szerv, vagy személy, aki e törvényben – ide nem értve a 36. § (1) bekezdését –, valamint a felhatalmazása alapján hozott jogszabályban, továbbá az Mt. 74. §-ában és 215. § (1) bekezdésében vagy közigazgatási határozatban, hatósági szerződésben foglalt nyilvántartási, adatszolgáltatási kötelezettségének nem vagy nem az előírt módon tesz eleget, vagy valótlan adatot szolgáltat,
 
 b) az, aki a Bérgarancia Alapról szóló 1994. évi LXVI. törvény 2. § (1) bekezdésében meghatározott kötelezettségének nem tesz eleget, valamint a munkavállalók felé fennálló munkabértartozással összefüggésben az állami foglalkoztatási szerv részére a valóságnak nem megfelelő adatot szolgáltat.
 

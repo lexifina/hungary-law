@@ -150,6 +150,6 @@ szerinti adatok igénylésére jogosultak.
 
 (12) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő szolgáltatást nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást nyújtó szervezeten keresztül nyújtja, akkor e szervezet e feladatának ellátásához szükséges (2c) bekezdés d) pontja szerinti adatokat kezeli.
 
-(13) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő támogatást az Európai Szociális Alap által finanszírozott intézkedések keretében nyújtja, akkor a támogatáskezelő szervezet e feladat ellátásához a támogatással érintett természetes személyek (1) bekezdés a) és i) pontja, n) pont nc) alpontja, valamint r) pontja szerinti adatait kezeli.
+(13) Ha az állami foglalkoztatási szerv a foglalkoztatást elősegítő támogatást az ESZA által finanszírozott intézkedések keretében nyújtja, akkor a támogatáskezelő szervezet e feladat ellátásához a támogatással érintett természetes személyek (1) bekezdés a) és i) pontja, n) pont nc) alpontja, valamint r) pontja szerinti adatait kezeli.
 
 (14)

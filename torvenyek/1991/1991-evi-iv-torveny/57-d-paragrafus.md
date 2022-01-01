@@ -1,4 +1,4 @@
-## Az Európai Szociális Alap által finanszírozott intézkedésekben résztvevő személyek adatbázisa
+## Az ESZA által finanszírozott intézkedésekben résztvevő személyek adatbázisa
 
 57/D. § (1) A járási hivatal a (2a) bekezdésben meghatározott célok biztosítása érdekében elektronikus nyilvántartást (a továbbiakban: ESZA adatbázis) vezet a résztvevő adatairól. Az ESZA adatbázis tartalmazza:
 
@@ -10,7 +10,7 @@ c) a belföldi lakó- vagy tartózkodási helyet,
 
 d) az iskolai végzettséget, szakképesítést,
 
-e) annak tényét, hogy 3 évnél fiatalabb kisgyermeket nevel-e saját háztartásában,
+e)
 
 f) TAJ számot,
 
@@ -46,9 +46,9 @@ he) annak tényét, hogy az intézkedés keretében képzettséget szerzett-e,
 
 hf) annak tényét, milyen szolgáltatásban, illetve támogatásban részesült a program keretében.
 
-(2) Az ESZA adatbázis a (1) bekezdés g) pont gc)–ge), gg) és gh) pontjaiban meghatározott adatokat a kedvezményezett önkéntes nyilatkozata alapján, míg az ESZA adatbázis többi adatát a kedvezményezettnek az 1304/2013/EU rendeletében kötelezően előírt adatszolgáltatása alapján tartalmazza.
+(2) Az ESZA adatbázis a (1) bekezdés g) pont gc)–ge), gg) és gh) pontjaiban meghatározott adatokat a kedvezményezett önkéntes nyilatkozata alapján, míg az ESZA adatbázis többi adatát a kedvezményezettnek az 1304/2013/EU rendeletben és az (EU) 2021/1057 rendeletben kötelezően előírt adatszolgáltatása alapján tartalmazza.
 
-(2a) A járási hivatal az Európai Szociális Alap által finanszírozott intézkedésekben résztvevőkről az uniós szintű eredmények monitoringja és értékelése, a közös indikátorok mentén történő tagállami jelentéstétel teljesíthetősége, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében kezeli az (1) bekezdésben meghatározott adatokat.
+(2a) A járási hivatal az ESZA által finanszírozott intézkedésekben résztvevőkről az uniós szintű eredmények monitoringja és értékelése, a közös indikátorok mentén történő tagállami jelentéstétel teljesíthetősége, valamint a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében kezeli az (1) bekezdésben meghatározott adatokat.
 
 (2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a kormányhivatal részére az adatok összesítése, a járási hivatal európai uniós támogatással megvalósuló tevékenységeinek koordinálása érdekében. A kormányhivatal az (1) bekezdés szerinti adatokat a feladatai ellátása során kezeli.
 
@@ -68,6 +68,6 @@ tekinthet be.
 
 (4a) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(5) Az (1) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
+(5) Az (1) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti, az Európai Szociális Alap Plusznak a 2021–2027 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
 
 (6) Az (1) bekezdésben meghatározott adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.

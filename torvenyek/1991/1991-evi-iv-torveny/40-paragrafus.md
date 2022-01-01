@@ -12,7 +12,7 @@ c) a miniszter által alapított, közfeladatot ellátó közhasznú szervezet r
 
 d) foglalkoztatást elősegítő támogatások továbbfejlesztésére vonatkozó kutatások és programok támogatására;
 
-e) az Európai Szociális Alap társfinanszírozásával megvalósuló programok hazai finanszírozására;
+e) az Európai Szociális Alap, valamint az Európai Szociális Alap Plusz (a továbbiakban együtt: ESZA) társfinanszírozásával megvalósuló programok hazai finanszírozására;
 
 f) 1996. január 1-je előtt a Foglalkoztatási Alap terhére vállalt kötelezettségek teljesítéséből adódó kifizetésekre;
 

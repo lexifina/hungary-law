@@ -10,7 +10,7 @@
 
 (5) E törvény alkalmazásában
 
-a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, állami szolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi szolgálati, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói és az – 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját és a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya,
+a) munkaviszony: a magyar jog hatálya alá tartozó munkaviszony, közszolgálati jogviszony, állami szolgálati jogviszony, kormányzati szolgálati jogviszony, politikai szolgálati jogviszony, adó- és vámhatósági szolgálati jogviszony, biztosi jogviszony, közalkalmazotti jogviszony, egészségügyi szolgálati jogviszony, egészségügyi szolgálati jogviszony, rendvédelmi igazgatási szolgálati jogviszony, honvédelmi alkalmazotti jogviszony, bírói és igazságügyi szolgálati, valamint ügyészségi szolgálati viszony, a közfoglalkoztatási jogviszony, a biztosított bedolgozói és az – 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszony, a nevelőszülői foglalkoztatási jogviszony, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonya – ide nem értve az iskolaszövetkezet nappali tagozatos tanuló, hallgató tagját, a közérdekű nyugdíjas szövetkezet öregségi nyugdíjban vagy átmeneti bányászjáradékban részesülő tagját, a szociális szövetkezet tagi munkavégzésre irányuló jogviszonyban munkát végző tagját és a kisgyermekkel otthon lévők szövetkezetének nem nagyszülőként gyermekgondozási díjban vagy gyermekgondozást segítő ellátásban részesülő tagját –, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszony, valamint a honvédek jogállásáról szóló törvény szerinti hivatásos és szerződéses állományú katonák szolgálati viszonya,
 
 b) munkavállaló: az, aki az a) pontban meghatározott munkaviszonyban áll,
 
@@ -68,7 +68,7 @@ k) pályakezdő álláskereső: a 25. életévét — felsőfokú végzettségű
 
 2. letartóztatásban van, szabadságvesztés büntetését tölti, kivéve, ha a fogvatartott reintegrációs őrizetben van, valamint elzárás büntetését tölti,
 
-3. sor- vagy tartalékos katonai szolgálatot, továbbá polgári szolgálatot teljesít,
+3. önkéntes tartalékos katonai szolgálat keretében tényleges szolgálatot teljesít,
 
 l) rövid időtartamú munka: olyan, az állami foglalkoztatási szerv által felajánlott, vagy az álláskereső által megtalált munka, amelynek időtartama összefüggően a 120 napot nem haladja meg,
 
@@ -104,7 +104,7 @@ v)
 
 v) harmadik országból származó munkavállaló: az a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott harmadik országbeli állampolgár, aki a magyar idegenrendészeti hatóságok által összevont engedélyként kiállított tartózkodási engedély birtokában jogszerűen tartózkodik Magyarország területén, és foglalkoztatásra irányuló jogviszony keretében munkát vállalhat.
 
-w) kedvezményezett: az a támogatást igénylő, aki 2014–2020 közötti programozási időszakban az Európai Szociális Alapból, valamint az Európai Globalizációs Alkalmazkodási Alapból támogatásban részesül,
+w) kedvezményezett: az a támogatást igénylő, aki az ESZA-ból, valamint az Európai Globalizációs Alkalmazkodási Alapból támogatásban részesül,
 
 x) munkanélküli háztartás: az a háztartás, amelynek egyik tagja sem foglalkoztatott,
 
@@ -138,9 +138,9 @@ d)
 
 e) az e törvényben meghatározott nyilvántartások vezetésének
 
-f) a gyermek- és ifjúságpolitikáért felelős miniszterrel egyetértésben a kedvezményezett által az adatbázisba történő adatrögzítés eljárásának, az adatszolgáltatás technikai feltételeit, továbbá az ellenőrzés szakmai tartalmát.
+f)
 
-g) a munkaadó munkaerőigénye bejelentése módjának és formájának
+g)
 
 szabályait.
 

@@ -38,6 +38,10 @@ f) a természetes személyeknek a személyes adatok kezelése tekintetében tör
 
 g) az Európai Szociális Alapról és az 1081/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i (EU) 1304/2013 európai parlamenti és tanácsi rendelete
 
+h) az elbocsátott munkavállalók támogatását szolgáló Európai Globalizációs Alkalmazkodási Alapról (EGAA) és az 1309/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/691 európai parlamenti és tanácsi rendelet,
+
+i) az Európai Szociális Alap Plusz (ESZA+) létrehozásáról és az 1296/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. június 24-i (EU) 2021/1057 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3)

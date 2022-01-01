@@ -28,18 +28,18 @@ e) az állami foglalkoztatási szerv működési feltételeihez és fejlesztés�
 
 (6) A munkaadó:
 
-a) érdekképviseleti szervei útján részt vesz a foglalkoztatási érdekegyeztetésben,
+a)
 
-b) segíti az állami foglalkoztatási szerv munkáját, ennek keretében munkaerőigényéről és annak megszűnéséről folyamatosan, de legkésőbb a betöltés esedékességekor tájékoztatja az állami foglalkoztatási szervet,
+b)
 
 c) szociális hozzájárulási adó fizetésével hozzájárul az álláskeresők ellátásához.
 
 (7) A munkavállaló:
 
-a) képviselői útján részt vesz a foglalkoztatási érdekegyeztetésben,
+a)
 
-b) együttműködik az állami foglalkoztatási szervvel, valamint a munkaadóval, mérlegeli a felajánlott átképzési, foglalkoztatási lehetőségeket, együttműködik új munkahely felkutatásában,
+b) együttműködik az állami foglalkoztatási szervvel, valamint a munkaadóval, együttműködik új munkahely felkutatásában,
 
-c) álláskeresők támogatásának biztosítására járulékot fizet.
+c) álláskeresők ellátásának biztosítására járulékot fizet.
 
 (8)

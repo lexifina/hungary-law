@@ -24,7 +24,7 @@ g) az egyes alaprészekből finanszírozott ellátások, támogatások működte
 
 h)
 
-i) az Európai Foglalkoztatási Szolgálat működési és fejlesztési kiadásainak finanszírozásához történő hozzájárulás.
+i)
 
 (3) Az Alapon belül – a pénzeszközök felhasználásának célja szerint – a következő alaprészeket kell elkülöníteni:
 
@@ -32,7 +32,7 @@ a) szolidaritási alaprészt az álláskeresési járadék, a nyugdíj előtti �
 
 b)
 
-c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, az állami foglalkoztatási szerv által szervezett munkaerőpiaci információkat nyújtó állásbörze kiadásaira, valamint keresetpótló juttatással kapcsolatos postaköltség finanszírozására;
+c) foglalkoztatási alaprészt, a foglalkoztatást elősegítő támogatások, a nem az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatások nyújtására, az állami foglalkoztatási szerv által pályaválasztás elősegítése érdekében szervezett munkaerőpiaci információkat nyújtó rendezvény kiadásaira, az állami foglalkoztatási szerv által szervezett munkaerőpiaci információkat nyújtó állásbörze kiadásaira, valamint alaprész terhére nyújtott támogatásokkal kapcsolatos postaköltség finanszírozására;
 
 d) bérgarancia alaprészt, a Bérgarancia Alapról szóló 1994. évi LXVI. törvényben meghatározott támogatás, valamint annak folyósításával kapcsolatos postaköltség finanszírozására;
 
@@ -54,7 +54,7 @@ h)
 
 (8) Az állami foglalkoztatási szervek közreműködésével, uniós források bevonásával megvalósuló programok, támogatások, valamint járulékátvállalás tekintetében az Alap mint központi programok kedvezményezettje finanszírozza az előbbiekben említett intézkedések végrehajtása érdekében teljesített kifizetéseket.
 
-(9) Az Alap bevételét képező járulék, szociális hozzájárulási adó központi költségvetésről szóló törvényben meghatározott hányada, illetőleg hozzájárulás beszedése érdekében igénybe vett szolgáltatás díja az Alapnak azt az alaprészét terheli, amelynek kiadásai finanszírozása érdekében a járulék és szociális hozzájárulási adó fizetése történik.
+(9)
 
 (10) Az Alap alaprészeinek központi pénzügyi kerete által finanszírozott program esetében a programhoz közvetlenül kapcsolódó igazolt költségek az érintett keret terhére elszámolhatók, illetve abból megtéríthetők.
 

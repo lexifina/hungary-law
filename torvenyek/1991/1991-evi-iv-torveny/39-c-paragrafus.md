@@ -20,7 +20,7 @@ i) egyéb bevételek: a Gazdaság-újraindítási Foglalkoztatási Alap javára 
 
 j) uniós forrás terhére megvalósuló operatív program finanszírozására szolgáló előleg;
 
-k) az Európai Globalizációs Alkalmazkodási Alaptól az 1927/2006 EK rendelet alapján társfinanszírozás címen befolyó bevétel.
+k) az Európai Globalizációs Alkalmazkodási Alaptól társfinanszírozás címen befolyó bevétel.
 
 (2) Az Alapba teljesített visszafizetések azt az alaprészt növelik, amelyből a támogatást, illetőleg az ellátást folyósították.
 
