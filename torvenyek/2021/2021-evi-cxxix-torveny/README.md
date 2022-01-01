@@ -1,0 +1,7 @@
+# 2021. évi CXXIX. törvény egyes egészségügyi, egészségbiztosítási és gyógyszerészeti tárgyú, valamint kapcsolódó törvények jogharmonizációs és egyéb célú módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-129-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2022-01-01 | 2021. évi CXXIX. törvény | 2021-129-00-00.0 (közlönyállapot) |
