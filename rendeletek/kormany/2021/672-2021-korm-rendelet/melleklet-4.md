@@ -1,3 +1,3 @@
-4. melléklet a 672/2021. (XII. 2.) Korm. rendelethez[^12]
+## „17.13. A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a földgázelosztó számára bejelenteni. A bejelentésnek legalább a 23/B. § (4) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia, figyelemmel a 23/B. § (6a) bekezdésében előírtakra.”
 
-[^12]: A 4. melléklet a 9. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+4. melléklet a 672/2021. (XII. 2.) Korm. rendelethez
