@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-429-20-
 | 2020-02-01 | 2017-429-20-22.7 | 6/2020. (I. 31.) Korm. rendelet |
 | 2020-07-02 | 2017-429-20-22.8 | 315/2020. (VII. 1.) Korm. rendelet |
 | 2021-02-01 | 2017-429-20-22.9 | 572/2020. (XII. 9.) Korm. rendelet |
+| 2022-01-01 | 2017-429-20-22.10 | 745/2021. (XII. 21.) Korm. rendelet |
