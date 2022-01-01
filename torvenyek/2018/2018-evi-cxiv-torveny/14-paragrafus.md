@@ -2,9 +2,11 @@
 
 (2) Honvédelmi alkalmazotti jogviszony
 
-a) helyettesítés céljából, vagy
+a) helyettesítés céljából,
 
-b) meghatározott munka elvégzésére, illetve feladat ellátására
+b) meghatározott munka elvégzésére, illetve feladat ellátására, vagy
+
+c) tartós külföldi munkavégzés idejére
 
 határozott időre történő kinevezéssel létesíthető.
 

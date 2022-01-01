@@ -24,29 +24,29 @@ j) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkál
 
 k) a kormányzati igazgatásról szóló törvény hatálya alá tartozó munkáltatónál kormányzati szolgálati, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, valamint munkaviszonyban,
 
-l) az e törvény hatálya alá tartozó munkáltatónál munkaviszonyban
+l) a honvédelmi szervezetnél munkaviszonyban,
 
 m) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban
 
 n) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) és a végrehajtására kiadott rendelet szerinti egészségügyi szolgálati jogviszonyban
 
+n) a Hvt. 2019. január 1. és 2019. december 31. között hatályos 1. mellékletében meghatározott gazdasági társaságnál, annak jogelődjénél vagy jogutódjánál munkaviszonyban
+
 töltött időt.
 
 (2) A honvédelmi alkalmazott fizetési fokozatának megállapításánál az (1) bekezdésen túlmenően figyelembe kell venni
 
-a) a munkaviszonynak azt az időtartamát, amely alatt a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonyban betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel rendelkezett,
+a) a korábbi munkaviszony teljes időtartamát,
 
-b) az 1992. július 1-jét megelőzően fennállt munkaviszony teljes időtartamát,
+b) a sor- vagy tartalékos katonai szolgálatban, illetve a polgári szolgálatban, valamint
 
-c) a sor- vagy tartalékos katonai szolgálatban, illetve a polgári szolgálatban, valamint
-
-d) az (1) bekezdés h) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
+c) az (1) bekezdés h) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
 
 eltöltött időt.
 
-(3) A (2) bekezdéstől eltérően a honvédelmi alkalmazotti jogviszonyban töltött idő számításakor figyelmen kívül kell hagyni a sor- vagy tartalékos katonai szolgálatnak, illetve a polgári szolgálatnak azt a tartamát, amely e § rendelkezése szerint egyébként honvédelmi alkalmazotti jogviszonyban töltött időnek minősül.
+(3)
 
-(4) Ha a honvédelmi alkalmazotti jogviszony megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
+(4) Ha a honvédelmi alkalmazotti jogviszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
 (5) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb honvédelmi alkalmazotti jogviszonyt létesít, honvédelmi alkalmazotti jogviszonyát folyamatosnak kell tekinteni.
 

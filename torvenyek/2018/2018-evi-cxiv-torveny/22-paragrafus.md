@@ -1,6 +1,6 @@
-22. § (1) Ha a honvédelmi szervezet azért változik meg, mert a honvédelmi szervezet egésze vagy egy része (szervezeti egysége, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportja) az Mt. hatálya alá tartozó munkáltató számára kerül átadásra, a honvédelmi szervezet átadásra kerülő szervezete vagy tevékenysége keretében foglalkoztatott honvédelmi alkalmazottak honvédelmi alkalmazotti jogviszonya az átadás időpontjában megszűnik.
+22. § (1) Ha a honvédelmi szervezet egészét vagy egy részét (szervezeti egységét, anyagi és nem anyagi erőforrásainak vagy feladat- és hatáskörének meghatározott csoportját) az Mt. hatálya alá tartozó munkáltató veszi át, a honvédelmi szervezet átvett szervezeti egységénél vagy tevékenysége keretében foglalkoztatott honvédelmi alkalmazottak honvédelmi alkalmazotti jogviszonya az átadás időpontjában megszűnik.
 
-(2) Az átadó honvédelmi szervezet és az átvevő munkáltató legkésőbb az átadást megelőzően harminc nappal korábban köteles tájékoztatni a honvédelmi alkalmazottat, a munkáltatónál képviselettel rendelkező szakszervezetet és a honvédelmi alkalmazottak tanácsát (honvédelmi alkalmazottak képviselőjét) az átadás
+(2) Az átadó honvédelmi szervezet és az átvevő munkáltató legkésőbb az átadást megelőzően harminc nappal korábban köteles tájékoztatni a honvédelmi alkalmazottat, a honvédelmi szervezetnél képviselettel rendelkező szakszervezetet és a honvédelmi alkalmazottak tanácsát (honvédelmi alkalmazottak képviselőjét) az átadás
 
 a) időpontjáról,
 
@@ -18,7 +18,7 @@ továbbá köteles a szakszervezettel és a honvédelmi alkalmazottak tanácsáv
 
 (6) Ha a honvédelmi alkalmazott az átvevő munkáltatónál történő további foglalkoztatásához nem járul hozzá, az átadó honvédelmi szervezet az átadás napjával köteles írásban értesíteni a honvédelmi alkalmazottat a honvédelmi alkalmazotti jogviszony (1) bekezdés szerinti megszűnéséről, valamint köteles a honvédelmi alkalmazott számára a 42. § (2) és (4)–(6) bekezdése alkalmazásával megállapított végkielégítést – határozott idejű honvédelmi alkalmazotti jogviszony esetén a 27. § (2) bekezdésében meghatározott távolléti díjat – megfizetni.
 
-(7) Ha a honvédelmi szervezet azért változik meg, mert az alapító a költségvetési szerv útján ellátott közfeladatot
+(7) Ha a jogutódlás úgy történik, hogy az alapító a költségvetési szerv útján ellátott közfeladatot
 
 a) az alapító közvetett vagy közvetlen, legalább többségi befolyása alatt álló, vagy
 

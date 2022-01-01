@@ -17,3 +17,5 @@ illetményének megfelelő összeg.
 (3) Miniszteri rendeletben meghatározott esetekben a (2) bekezdés alapján a jubileumi jutalom alapjául szolgáló illetmény összegébe a 70–74. § szerinti pótlékok közül azokat, amelyek a honvédelmi alkalmazottat folyamatosan megilletik, valamint a 75. § szerinti illetménykiegészítést is be kell számítani.
 
 (4) Ha a honvédelmi alkalmazotti jogviszonya a 30. § (1) bekezdés d) pontja alapján szűnik meg, részére a megszűnés évében esedékessé váló jubileumi jutalmat az utolsó munkában töltött napon ki kell fizetni.
+
+(5) Az egyéb foglalkoztatási jogviszonya alapján illetmény vagy fizetés nélküli szabadságon lévő és ez alatt határozott idejű honvédelmi alkalmazotti jogviszonyban foglalkoztatott személy a honvédelmi alkalmazotti jogviszonya alapján jubileumi jutalomra nem jogosult.

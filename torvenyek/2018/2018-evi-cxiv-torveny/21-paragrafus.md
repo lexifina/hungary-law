@@ -28,6 +28,8 @@ bd) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvén
 
 be) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény
 
+bf) az egészségügyi szolgálati jogviszonyról szóló törvény
+
 hatálya alá tartozó munkáltatók között,
 
 c) lemondással,
