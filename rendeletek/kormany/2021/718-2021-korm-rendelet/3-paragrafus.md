@@ -1,0 +1,1 @@
+## 2. § A Kormány az Ibtv. 22/B. § (1) bekezdés b) pontja alapján a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok ellátására tanúsító hatóságként a Katonai Nemzetbiztonsági Szolgálatot (a továbbiakban: tanúsító hatóság) jelöli ki.
