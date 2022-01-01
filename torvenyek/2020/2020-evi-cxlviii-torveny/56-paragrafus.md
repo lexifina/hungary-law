@@ -1,1 +1,3 @@
-56. §
+56. § Az Nftv. 53. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A doktori képzésbe bekapcsolódhat az is, aki a fokozatszerzésre egyénileg készült fel, feltéve, hogy teljesítette a felvétel és a doktori képzés követelményeit. A hallgatói jogviszony ebben az esetben a komplex vizsga teljesítésével jön létre. A doktori képzésben komplex vizsga teljesítésével hallgatói jogviszonyt létesíthet az is, aki az általános orvos, állatorvosi, fogorvos vagy gyógyszerész szakon a hallgatói jogviszonyával párhuzamosan egyénileg készült fel a fokozatszerzésre és a komplex vizsga során – a felsőoktatási intézmény doktori szabályzata alapján – a mesterképzésben felvett kreditek elismerésre kerültek.”

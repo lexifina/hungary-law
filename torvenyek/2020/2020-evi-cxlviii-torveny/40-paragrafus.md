@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 7. § (1b) bekezdésében a „ , legkorábban a levelező taggá választása napját követő két év elteltével” szövegrész,
 
 d)
 
