@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-7-20-6F
 | 2020-12-30 | 2006-7-20-6F.13 | 57/2020. (XII. 29.) ITM rendelet |
 | 2021-01-01 | 2006-7-20-6F.14 | 39/2015. (IX. 14.) MvM rendelet |
 | 2021-03-11 | 2006-7-20-6F.15 | 57/2020. (XII. 29.) ITM rendelet |
+| 2022-01-01 | 2006-7-20-6F.16 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -196,7 +196,7 @@
 
 ## 4. táblázat: Légcsatornák megengedett maximális levegő vesztesége
 
-## 1X01691M_6
+## 1X01691N_6
 
 | Statikus nyomás[Pa] | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 | 1200 | 1500 | 1800 | 2000 |
 
@@ -223,6 +223,22 @@
 ## 8. Épülettechnikai rendszerek értékelése
 
 ## Épülettechnikai rendszernek, mint az energiafogyasztást befolyásoló termékek összességének a telepítésekor, cseréjekor vagy korszerűsítésekor a megváltoztatott résznek, az épület jelentős felújításával együtt járó telepítése, cseréje vagy korszerűsítése esetén a rendszer egészének általános energiahatékonyságát az energiafogyasztást befolyásoló termék energiacímkézéséről és termékismertetővel való ellátásáról szóló 210/2018. (XI. 20.) Korm. rendeletnek, valamint az energiacímkézés keretének meghatározásáról és a 2010/30/EU irányelv hatályon kívül helyezéséről szóló, 2017. július 4-i (EU) 2017/1369 európai parlamenti és tanácsi rendelet és más, a vonatkozó felhatalmazáson alapuló jogi aktusok rendelkezéseinek megfelelően értékelni kell. Az értékelés eredményét a beszállító vagy a kereskedő a termékre vonatkozó adatlappal és a termékre helyezett címkével, távértékesítés esetén az épülettechnikai rendszerre vonatkozó adatlap és a címke elektronikus változatának rendelkezésre bocsátásával dokumentálja és továbbítja az épület tulajdonosának, hogy azok az e fejezetben előírtaknak való megfelelés ellenőrzése során, valamint az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendeletben meghatározott energiahatékonysági tanúsítványok kiállítása céljából rendelkezésre álljanak és felhasználhatók legyenek.
+
+## 9. Épületfelügyelet
+
+## 9.1. Ha a műszaki feltételek lehetővé teszik, a nem lakáscélú épületekben a 290 kW-nál nagyobb effektív névleges teljesítményű fűtési rendszereket, kombináltan helyiségfűtési és szellőző rendszereket, légkondicionáló, valamint kombináltan légkondicionáló és szellőző rendszereket 2025. január 1-jéig fel kell szerelni épületautomatizálási és -szabályozási rendszerrel, amely alkalmas
+
+## 9.1.1. az energiafelhasználás folyamatos ellenőrzésére, regisztrálására, korrekciójára, és elemzésére;
+
+## 9.1.2. az épület energiahatékonyságának értékelésére, az épülettechnikai rendszerek hatékonyságcsökkenésének jelzésére, a kezelőszemélyzet tájékoztatására, az energiahatékonyság javításának lehetőségeire;
+
+## 9.1.3. összekapcsolt épülettechnikai rendszerek esetében a kommunikációra, és épülettechnikai rendszerekkel való átjárhatóságra, a különböző típusú jogvédett technológiáktól, berendezésektől és gyártóktól függetlenül.
+
+## 9.2. Abban a lakóépületben, amelyben a 9.1. alpont szerinti teljesítményű fűtési rendszer, kombináltan helyiségfűtési és szellőző rendszer, légkondicionáló rendszer, valamint kombináltan légkondicionáló és szellőző rendszer működik, a rendszer soron következő jelentős felújítása alkalmával olyan épületautomatizálási és -szabályozási rendszert kell létesíteni, amely
+
+## 9.2.1. biztosítja a folyamatos épületfelügyeletet, méri az épület rendszerhatékonyságát, jelzi a kezelő személyzetnek a rendszer jelentős hatékonyság csökkenését és a karbantartásigényt, valamint
+
+## 9.2.2. ellenőrzi és optimalizálja az energiatermelést, -tárolást, -elosztást és -felhasználást.
 
 2. melléklet a 7/2006. (V. 24.) TNM rendelethez[^32]
 
