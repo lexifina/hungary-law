@@ -1,4 +1,4 @@
-## 81. §[^227] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 831/2021. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr73.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/Y. §-át és 2. mellékletében foglalt táblázat 83. sorát a Módr73. hatálybalépésekor[^228] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 81. §[^229] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 831/2021. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr73.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 6/Y. §-át és 2. mellékletében foglalt táblázat 83. sorát a Módr73. hatálybalépésekor[^230] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 141/2018. (VII. 27.) Korm. rendelethez
 
@@ -6,7 +6,7 @@
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
-2.[^229] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
+2.[^231] örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
 3. környezetvédelmi hatósági eljárások,
 
@@ -56,6 +56,6 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^227]: A 81. §-t a 831/2021. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^228]: A hatálybalépés időpontja 2021. december 31.
-[^229]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^229]: A 81. §-t a 831/2021. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^230]: A hatálybalépés időpontja 2021. december 31.
+[^231]: Az 1. melléklet 2. pontja a 725/2020. (XII. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

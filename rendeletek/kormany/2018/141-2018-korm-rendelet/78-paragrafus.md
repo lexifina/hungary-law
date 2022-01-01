@@ -1,4 +1,4 @@
-## 76. §[^219] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 752/2021. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr68.) megállapított 3. § (3) bekezdését, 4. § (1) és (2) bekezdését, 5. § (2) bekezdését, 6/V. §-át, 6/W. §-át, a 2. mellékletében foglalt táblázat 80. sorát és 6. mellékletét a Módr68. hatálybalépésekor[^220] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 77. §[^221] E rendeletnek az egyes energetikai tárgyú jogszabályok módosításáról szóló 787/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr69.) megállapított 2. mellékletében foglalt táblázat 7a. sorát a Módr69. hatálybalépésekor[^222] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^219]: A 76. §-t a 752/2021. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
-[^220]: A hatálybalépés időpontja 2021. december 22.
+[^221]: A 77. §-t a 787/2021. (XII. 27.) Korm. rendelet 74. §-a iktatta be.
+[^222]: A hatálybalépés időpontja 2022. január 1.
