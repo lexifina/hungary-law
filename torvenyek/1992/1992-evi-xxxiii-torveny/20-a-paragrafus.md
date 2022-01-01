@@ -54,4 +54,4 @@ dönt a közalkalmazotti jogviszony létesítéséről, illetve a vezetői megb�
 
 (8) Az üres munkakör betöltésére irányuló pályázati eljárás esetén – a pályázati feltételeknek egyformán megfelelő pályázók közül – előnyben kell részesíteni az önkéntes tartalékos szolgálati viszonyban állókat.
 
-(9)
+(9) A közalkalmazotti jogviszony létesítésével és megszüntetésével összefüggésben a munkáltató jogszabályban meghatározott feltételekkel igénybe veheti, és foglalkoztatottjai számára nyújthatja a kormányzati igazgatásról szóló 2018. évi CXXV. törvény szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.
