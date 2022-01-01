@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-548-20-
 | 2021-07-19 | 2020-548-20-22.5 | 27/2021. (I. 29.) Korm. rendelet |
 | 2021-12-01 | 2020-548-20-22.6 | 647/2021. (XI. 30.) Korm. rendelet |
 | 2021-12-22 | 2020-548-20-22.7 | 748/2021. (XII. 21.) Korm. rendelet |
+| 2022-01-01 | 2020-548-20-22.8 | 748/2021. (XII. 21.) Korm. rendelet |
