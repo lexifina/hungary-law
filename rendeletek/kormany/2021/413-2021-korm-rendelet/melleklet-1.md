@@ -8,7 +8,7 @@ A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kije
 
 | 1. | Programterület neve | Nemzeti Hatóság | Szakpolitikai felelősök | Lebonyolító szerv |
 
-| 2. | I. Demográfia és köznevelés | Miniszterelnökség | Miniszterelnökség / Családokért Felelős Tárca Nélküli Miniszter1 az Emberi Erőforrások Minisztériumával együttműködve | Magyar Államkincstár |
+| 2. | I. Demográfia és köznevelés | Miniszterelnökség | Miniszterelnökség1 az Emberi Erőforrások Minisztériumával együttműködve | Magyar Államkincstár |
 
 | 3. | II. Magasan képzett, versenyképes munkaerő | Miniszterelnökség | Innovációs és Technológiai Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal |
 
@@ -32,4 +32,4 @@ A nemzeti hatóság, a szakpolitikai felelős és a lebonyolító szervezet kije
 
 3 Szakmai koordinációra kijelölt minisztérium.
 
-[^51]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja szerint módosított szöveg.
+[^51]: Az 1. melléklet a 796/2021. (XII. 27.) Korm. rendelet 13. § e)–g) pontja, a 832/2021. (XII. 30.) Korm. rendelet 19. §-a szerint módosított szöveg.
