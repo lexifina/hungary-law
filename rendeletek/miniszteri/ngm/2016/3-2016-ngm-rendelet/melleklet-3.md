@@ -230,7 +230,7 @@ Amennyiben a hitelszerződés egyéb termékekkel egy csomagban szerepel, akkor 
 
 11.2. Amennyiben a fogyasztót gondolkodási idő illeti meg, ezt egyértelműen jelezni kell.
 
-11.3. A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 7. § (1) bekezdésével összhangban, ha az ügyletet távértékesítéssel kínálják, a fogyasztót tájékoztatni kell az elállás jogának meglétéről vagy hiányáról.
+11.3.[^3] A távértékesítés keretében kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2005. évi XXV. törvény 3. §-ával összhangban, ha az ügyletet távértékesítéssel kínálják, a fogyasztót tájékoztatni kell az elállás jogának meglétéről vagy hiányáról.
 
 12. Panaszok
 
@@ -259,3 +259,5 @@ Amennyiben a hitelező a szerződés időtartama alatt a fogyasztóval a személ
 15. Felügyelet
 
 15.1. Itt kell feltüntetni a hitelezés szerződéskötést megelőző szakaszának felügyelete tekintetében illetékes hatóságot, illetve hatóságokat.
+
+[^3]: A 3. melléklet 11. pont 11.3. alpontja a 14/2021. (XII. 8.) PM rendelet 10. §-ával megállapított szöveg.
