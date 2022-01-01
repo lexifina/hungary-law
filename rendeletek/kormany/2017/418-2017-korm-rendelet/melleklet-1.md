@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet 2018. január 1-jén lép hatályba.
 
-1. melléklet a 418/2017. (XII. 19.) Korm. rendelethez[^5]
+1. melléklet a 418/2017. (XII. 19.) Korm. rendelethez[^6]
 
 Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai gyakorlat szakirányú jellegéről hatósági bizonyítvány kiállítására jogosult hatóságok
 
@@ -22,9 +22,9 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 7. | közlekedéssel kapcsolatos sajátos építményfajtákra vonatkozó terület | az a területi mérnöki kamara, amelynek az ügyfél a tagja |
 
-| 8. | ipari terület | a) – a b) pontban foglalt kivétellel – az a területi mérnöki kamara, amelynek az ügyfél a tagja |
+| 8. | ipari terület | a) – a b) pontban foglalt kivétellel – az ügyfél lakóhelye szerint illetékes területi mérnöki kamara |
 
-| b) a bányászat és a szénhidrogén termelés, -kutatás, -szállítás szakterületeken a bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| b) a bányászat és a szénhidrogén termelés, -kutatás, -szállítás szakterületeken a Szabályozott Tevékenységek Felügyeleti Hatósága |
 
 | 9. | informatikai terület | Nemzeti Média- és Hírközlési Hatóság |
 
@@ -64,4 +64,4 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 22. | titokvédelmi terület | minősített adatok védelmének szakmai felügyeletéért felelős miniszter |
 
-[^5]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a, a 764/2021. (XII. 23.) Korm. rendelet 27. §-a szerint módosított szöveg.
