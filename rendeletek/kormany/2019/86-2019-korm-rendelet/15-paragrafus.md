@@ -1,5 +1,5 @@
-## 8. A közszolgálati továbbképzési programok minősítése
+## 8.[^29]
 
-15. § (1) A közszolgálati továbbképzési programokat minősíteni kell (a továbbiakban: minősített továbbképzési program). A minősítésről, valamint a programjegyzékre történő nyilvántartásba vételről a KKTK programminősítési eljárás alapján dönt a kérelem beérkezésétől számított 60 napon belül. A minősített továbbképzési program a közszolgálati továbbképzési programjegyzék részévé válik.
+15. §
 
-(2) A KKTK jogosult a minősített továbbképzési program programjegyzékről való törlésére, ha a továbbképzési program nem felel meg a minőségirányítási szabályzatban előírt feltételeknek.
+[^29]: A 8. alcímet (15. §) a 499/2021. (VIII. 18.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.

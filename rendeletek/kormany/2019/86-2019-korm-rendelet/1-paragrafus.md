@@ -44,7 +44,7 @@ feladatok.
 
 5. minőségirányítási szabályzat: a továbbképzés minőségirányítási szempontból történő vezetésére és szabályozására szolgáló szabályzat, amely tartalmazza a kötelező továbbképzések tervezésének, fejlesztésének, szervezésének, végrehajtásának, minősítésének és ellenőrzésének eljárásait;
 
-6. minősített továbbképzési programjegyzék: az Egyetem által vezetett, minősített továbbképzési programokat tartalmazó nyilvántartás;
+6.[^2]
 
 7. tanulmányi pont: a kormánytisztviselő által teljesített továbbképzés mértékegysége;
 
@@ -58,15 +58,19 @@ feladatok.
 
 12. vezető: a Kit. 3. § (6) bekezdés a) és b) pontjában meghatározott személy;
 
-13. képzési díj: a közigazgatási tanulmányok szakirányú továbbképzés, a kormányzati tanulmányok szakirányú továbbképzés, valamint az államtudományi és közigazgatási felsőfokú képzés szervezéséért felelős intézmény által megállapított költség;
+13.[^3]
 
-14. szállásköltség: a kormányhivatalok kormánytisztviselői részére, az oktatási esemény ideje alatt biztosított szállás ellenértéke;
+14.[^4]
 
-15. tananyagköltség: a képesítéshez, szakképzettséghez kapcsolódó jegyzetek, tankönyvek, egyéb tanulási segédletek beszerzési ára;
+15.[^5]
 
 16. utazási költség: a kormányhivatalok kormánytisztviselői lakóhelye vagy tartózkodási helye, valamint az oktatási esemény helyszíne között – a képzésen, vizsgán történő részvétel céljából – helyközi (távolsági) utazással az oktatási eseményre utazás és hazautazás díja.
 
-(6)[^2] E rendelet alkalmazásában módszertani támogatás: a szakmai irányító miniszter által a fővárosi és megyei kormányhivatalok egységes joggyakorlásának és a feladatok végrehajtásának elősegítése érdekében kiadott szakmai iránymutatás, állásfoglalás, módszertani útmutató, ajánlás, továbbá egyéb szakmai anyag, valamint szakmai értekezlet és tájékoztató.
+(6)[^6] E rendelet alkalmazásában módszertani támogatás: a szakmai irányító miniszter által a fővárosi és megyei kormányhivatalok egységes joggyakorlásának és a feladatok végrehajtásának elősegítése érdekében kiadott szakmai iránymutatás, állásfoglalás, módszertani útmutató, ajánlás, továbbá egyéb szakmai anyag, valamint szakmai értekezlet és tájékoztató.
 
 [^1]: Az 1. § (5) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.
-[^2]: Az 1. § (6) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 51. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (5) bekezdés 6. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (5) bekezdés 13. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (5) bekezdés 14. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (5) bekezdés 15. pontját a 499/2021. (VIII. 18.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^6]: Az 1. § (6) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 51. § (1) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-6. §[^9] (1) A szakmai irányító miniszter a Kit. 40. § (2) bekezdése szerinti közreműködési jogosultságának gyakorlása során együttműködik a miniszterrel.
+6. §[^13] (1) A szakmai irányító miniszter a Kit. 40. § (2) bekezdése szerinti közreműködési jogosultságának gyakorlása során együttműködik a miniszterrel.
 
 (2) A szakmai irányító miniszter a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott ügyekért való felelőssége keretében írásban tájékoztatja a minisztert
 
@@ -18,4 +18,4 @@ d) a fővárosi és megyei kormányhivatalok által használt informatikai rends
 
 (6) Törvény vagy kormányrendelet eltérő rendelkezése hiányában a szakmai irányító miniszter jogosult az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott jogkörök gyakorlására, ha a döntés a fővárosi és megyei kormányhivatal hatáskörébe tartozik.
 
-[^9]: A 6. § a 668/2020. (XII. 28.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.
+[^13]: A 6. § a 668/2020. (XII. 28.) Korm. rendelet 51. § (2) bekezdésével megállapított szöveg.

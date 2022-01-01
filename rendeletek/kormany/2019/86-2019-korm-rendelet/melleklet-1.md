@@ -1,4 +1,4 @@
-## 65. §[^44] A 33. § (8)–(9) bekezdése szerinti kapcsolattartó kijelöléséről és a személyéről történő tájékoztatásról a beruházó a már folyamatban lévő beruházások esetében a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet módosításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítással kapcsolatos kormányrendeletek deregulációjáról szóló 428/2020. (IX. 10.) Korm. rendelet hatálybalépésétől[^45] számított 30 napon belül köteles gondoskodni.
+## 66. §[^56] Az Egyetem rektora a különleges jogállású szervek által közszolgálati jogviszonyban foglalkoztatottak képzéséről, továbbképzéséről, valamint egyes továbbképzési tárgyú kormányrendeletek módosításáról szóló 499/2021. (VIII. 18.) Korm. rendelet hatálybalépését[^57] követően 2022. február 15-ig tesz javaslatot az ágazati irányításért felelős miniszternek a KTK tagjai felkérésére.
 
 1. melléklet a 86/2019. (IV. 23.) Korm. rendelethez
 
@@ -1902,7 +1902,7 @@ Tiszatardos
 
 Tokaj
 
-5.[^46] Csongrád-Csanád megye
+5.[^58] Csongrád-Csanád megye
 
 5.1. Csongrádi Járási Hivatal
 
@@ -3010,7 +3010,7 @@ Tófalu
 
 Újlőrincfalva
 
-9.4.[^47] Gyöngyösi Járási Hivatal
+9.4.[^59] Gyöngyösi Járási Hivatal
 
 Székhely: Gyöngyös
 
@@ -3062,7 +3062,7 @@ Visonta
 
 Visznek
 
-9.5.[^48] Hatvani Járási Hivatal
+9.5.[^60] Hatvani Járási Hivatal
 
 Székhely: Hatvan
 
@@ -7046,8 +7046,8 @@ Zalaszentlászló
 
 Zalavég
 
-[^44]: A 65. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 428/2020. (IX. 10.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^45]: A hatálybalépés időpontja 2020. szeptember 11.
-[^46]: Az 1. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendeet 51. § a) pontja szerint módosított szöveg.
-[^47]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^48]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^56]: A 66. §-t a 499/2021. (VIII. 18.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^57]: A hatálybalépés időpontja 2022. január 1.
+[^58]: Az 1. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendeet 51. § a) pontja szerint módosított szöveg.
+[^59]: Az 1. melléklet 9. pont 9.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^60]: Az 1. melléklet 9. pont 9.5. alpontja a 119/2019. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
