@@ -44,6 +44,10 @@ g) a felhasználó vagy a (7) bekezdés esetében a bejelentő, és az e) pont s
 
 (6) Az (1) bekezdés szerinti bejelentés formanyomtatványon is megtehető. A földgázkereskedő az ügyfélszolgálatán formanyomtatványt tesz hozzáférhetővé a (4) bekezdés szerinti adattartalommal, továbbá honlapján elektronikusan letölthető formátumban közzéteszi, valamint azt kérés esetén a felhasználó és az új felhasználó számára postán megküldi. A formanyomtatványt a földgázkereskedő üzletszabályzata tartalmazza.
 
-(7) A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a földgázkereskedő számára bejelenteni. A bejelentésnek legalább a (4) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia.
+(6a)[^112] A felhasználónak az (1) bekezdés szerinti bejelentés során a földgázkereskedővel létrehozandó földgázkereskedelmi szerződés megkötéséhez szükséges jogcímmel rendelkeznie, és erről a bejelentés során nyilatkoznia kell.
+
+(7)[^113] A felhasználó elhalálozása esetén az elhalálozás tényét legkésőbb annak napjától számított hat hónapon belül kell a földgázkereskedő számára bejelenteni. A bejelentésnek legalább a (4) bekezdés a) pontja, b) pont ba) alpontja, valamint d)–g) pontja szerinti adatokat kell tartalmaznia, figyelemmel a (6a) bekezdésben foglaltakra.
 
 [^111]: A Vhr. 23/B. §-át a 252/2012. (IX. 7.) Korm. rendelet 4. §-a iktatta be.
+[^112]: A Vhr. 23/B. § (6a) bekezdését a 672/2021. (XII. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^113]: A Vhr. 23/B. § (7) bekezdése a 672/2021. (XII. 2.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

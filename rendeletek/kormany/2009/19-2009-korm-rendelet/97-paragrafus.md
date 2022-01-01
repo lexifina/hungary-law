@@ -1,4 +1,4 @@
-97. §[^355] (1) A Hivatal a GET 83. § (3) bekezdésében meghatározott 10 éves fejlesztési terv jóváhagyására irányuló eljárásában a GET 83. § (1) és (2) bekezdésében foglaltakon túlmenően figyelembe veszi
+97. §[^358] (1) A Hivatal a GET 83. § (3) bekezdésében meghatározott 10 éves fejlesztési terv jóváhagyására irányuló eljárásában a GET 83. § (1) és (2) bekezdésében foglaltakon túlmenően figyelembe veszi
 
 a) a hidraulikai illeszkedést,
 
@@ -26,7 +26,7 @@ a határidőket és feltételeket módosítani, amelyhez kikéri a szállítási
 
 (5) Ha a fejlesztési pályázat nyertese a rendszerüzemeltetővel a rendszerhasználati díj megosztásában nem állapodik meg, a Hivatal jogosult a megosztást meghatározni. A Hivatal az érintett rendszer költség felülvizsgálatakor – függetlenül a rendszerhasználati díj megosztásától – úgy jár el, mintha a rendszer egy rendszerüzemeltető tulajdona lenne.
 
-(6)[^356] Ha a 10 éves fejlesztési tervben meghatározott határidő nem tartható, a Hivatal kötelezésére a szállítási rendszerirányító köteles vizsgálni fizikai szűkület kezelési technika bevezetését, és szükség esetén azt az ÜKSZ-ben rögzíteni. Az ÜKSZ módosítását a Hivatal saját hatáskörben hivatalból elvégzi.
+(6)[^359] Ha a 10 éves fejlesztési tervben meghatározott határidő nem tartható, a Hivatal kötelezésére a szállítási rendszerirányító köteles vizsgálni fizikai szűkület kezelési technika bevezetését, és szükség esetén azt az ÜKSZ-ben rögzíteni. Az ÜKSZ módosítását a Hivatal saját hatáskörben hivatalból elvégzi.
 
-[^355]: A Vhr. 97. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^356]: A Vhr. 97. § (6) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 21. § 13. pontja szerint módosított szöveg.
+[^358]: A Vhr. 97. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^359]: A Vhr. 97. § (6) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 21. § 13. pontja szerint módosított szöveg.

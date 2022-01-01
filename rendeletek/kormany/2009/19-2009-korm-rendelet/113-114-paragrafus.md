@@ -1,3 +1,3 @@
-113–114. §[^413]
+113–114. §[^416]
 
-[^413]: A Vhr. 113–114. §-át és az azokat megelőző alcímet a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.
+[^416]: A Vhr. 113–114. §-át és az azokat megelőző alcímet a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte.

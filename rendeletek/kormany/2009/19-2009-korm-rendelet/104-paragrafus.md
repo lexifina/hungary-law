@@ -1,6 +1,6 @@
 ## Informatikai rendszer fejlesztése, üzemeltetése
 
-104. §[^389] (1)[^390] A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
+104. §[^392] (1)[^393] A rendszerüzemeltető adat és informatikai rendszerének alkalmasnak kell lennie, hogy valós idejű üzemmódban (online)
 
 a) biztosítsa a felhasználók vásárolt kapacitásainak, a rendszerhasználók lekötött kapacitásának nyilvántartását, a szállítási rendszerüzemeltető esetében a kapacitások lekötésének folyamatát,
 
@@ -18,9 +18,9 @@ g) lehetővé tegye a kapacitás túllépések dokumentálását,
 
 h) folyamatos kapcsolatot biztosítson az érintett rendszerüzemeltetőkkel.
 
-(2)[^391] A rendszerüzemeltető informatikai rendszerének alkalmasnak kell lennie továbbá a gáznapiforgalom rendszerhasználók részére történő, az ÜKSZ szerinti tényleges felosztásához kapcsolódó informatikai feladatok lebonyolítására. A rendszer kialakításánál figyelemmel kell lenni a felhasználói profilok ÜKSZ szerinti változásának folyamatos kezelésére.
+(2)[^394] A rendszerüzemeltető informatikai rendszerének alkalmasnak kell lennie továbbá a gáznapiforgalom rendszerhasználók részére történő, az ÜKSZ szerinti tényleges felosztásához kapcsolódó informatikai feladatok lebonyolítására. A rendszer kialakításánál figyelemmel kell lenni a felhasználói profilok ÜKSZ szerinti változásának folyamatos kezelésére.
 
-(3)[^392] A szállítási rendszerirányító – a rendszerüzemeltetőkkel együttműködve – az ÜKSZ-ben meghatározott módon köteles meghatározni, felülvizsgálni és nyilvánossá tenni az együttműködő informatikai rendszerrel szemben elvárt
+(3)[^395] A szállítási rendszerirányító – a rendszerüzemeltetőkkel együttműködve – az ÜKSZ-ben meghatározott módon köteles meghatározni, felülvizsgálni és nyilvánossá tenni az együttműködő informatikai rendszerrel szemben elvárt
 
 a) műszaki paramétereket,
 
@@ -30,7 +30,7 @@ c) az adatforgalom biztonsági követelményeit.
 
 (4) Az informatikai elvárásokat a rendszerüzemeltetők és a rendszerhasználók kötelesek az ÜKSZ-ben előírt módon biztosítani.
 
-[^389]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^390]: A Vhr. 104. § (1) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^391]: A Vhr. 104. § (2) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^392]: A Vhr. 104. § (3) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.
+[^392]: A Vhr. 104. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^393]: A Vhr. 104. § (1) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^394]: A Vhr. 104. § (2) bekezdése a 91/2015. (IV. 9.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^395]: A Vhr. 104. § (3) bekezdés nyitó szövegrésze a 378/2011. (XII. 31.) Korm. rendelet 79. § (8) bekezdése szerint módosított szöveg.

@@ -66,6 +66,6 @@ e) megbízatása a megfelelési ellenőr kinevezéséhez való hozzájárulás i
 
 (6) A jogi személynek minősülő megfelelési ellenőr legalább egy vezető tisztségviselőjének, továbbá az ellenőrzési tevékenység irányításáért közvetlenül felelős vezetőnek vagy az ellenőrzési tevékenységet közvetlenül végző legalább egy személynek meg kell felelnie az (5) bekezdésben meghatározott feltételeknek.
 
-(7)[^505] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közölt, illetve a GET-ben vagy e rendeletben előírt kötelezettsége megsértését végleges határozat megállapította.
+(7)[^508] A Hivatal a megfelelési ellenőr szakmai alkalmasságának hiányát állapítja meg, ha a megfelelési ellenőr feladatainak ellátása körében a megfelelési program végrehajtása és ellenőrzése szempontjából megtévesztő vagy valótlan adatot közölt, illetve a GET-ben vagy e rendeletben előírt kötelezettsége megsértését végleges határozat megállapította.
 
-[^505]: A Vhr. 141/C. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 235. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^508]: A Vhr. 141/C. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 235. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
