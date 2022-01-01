@@ -1,4 +1,4 @@
-## azzal az eltéréssel kell alkalmazni, hogy a tizennégy napos elkülönítés helyett legalább tíz, legfeljebb tizennégy napos elkülönítést kell biztosítani.
+## 5. §
 
 ## 6. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény egyes rendelkezéseinek eltérő alkalmazása
 
