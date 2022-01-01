@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-43-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-03-28 | 2019-43-20-22.1 | 43/2019. (III. 12.) Korm. rendelet |
+| 2022-01-01 | 2019-43-20-22.2 | 789/2021. (XII. 27.) Korm. rendelet |
