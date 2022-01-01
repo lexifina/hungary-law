@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-380-20-
 | 2021-09-01 | 2021-380-20-22.3 | 461/2021. (VIII. 5.) Korm. rendelet |
 | 2021-09-02 | 2021-380-20-22.4 | 2010: CXXX. törvény |
 | 2021-12-29 | 2021-380-20-22.5 | 800/2021. (XII. 28.) Korm. rendelet |
+| 2022-01-01 | 2021-380-20-22.6 | 800/2021. (XII. 28.) Korm. rendelet |

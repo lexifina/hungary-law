@@ -1,3 +1,3 @@
-## 52. §[^52]
+## 52. § Az R4. 332/D. §-a helyébe a következő rendelkezés lép:
 
-[^52]: Az 52. § a 60. § (3) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „332/D. § A Szocho tv. 17/A. § (1) bekezdés b) pontja szerinti adókedvezmény igénybevételéhez az akkreditált vizsgaközpont a tanuló, illetve a képzésben részt vevő személy sikeres szakmai vizsgájáról igazolást állít ki a tanulóval, illetve képzésben részt vevő személlyel – a szakképzés információs rendszeréből megállapíthatóan – legalább hat hónapos időtartamban fennálló szakképzési munkaszerződést kötött duális képzőhely, illetve a 281. § (1) bekezdése szerinti foglalkoztató számára, és azt az ilyen duális képzőhely, illetve foglalkoztató számára a sikeres szakmai vizsgát követő tizenöt napon belül megküldi.”
