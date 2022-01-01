@@ -6,4 +6,6 @@
 
 (3) Ha a bűncselekménnyel elért vagy elérni kívánt előny nem vagyoni jellegű, a bíróság a jogi személy vagyoni helyzetére tekintettel állapítja meg a pénzbírságot, amelynek legkisebb mértéke ötszázezer forint.
 
+(3a) Ha a jogi személy vagyonára e törvény alapján zár alá vétel elrendelésére került sor, a pénzbírság akkor is kiszabható, ha a jogi személyt a felszámolási eljárásban megszüntették.
+
 (4) A pénzbírságot – meg nem fizetése esetén – az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény szabályai szerint kell behajtani.

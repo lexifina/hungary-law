@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-104-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2001-104-00-00.15 |
 | 2020-01-01 | 2019. évi LXXXI. törvény | 2001-104-00-00.16 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2001-104-00-00.17 |
+| 2022-01-01 | 2021. évi CXXXIV. törvény | 2001-104-00-00.18 |
