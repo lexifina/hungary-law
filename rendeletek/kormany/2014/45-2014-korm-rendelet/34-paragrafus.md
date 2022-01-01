@@ -1,1 +1,3 @@
-## 33. § Ez a rendelet a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+## 33/A. §[^18] A 9. § (1) bekezdés e) pontja és 11. § (1) bekezdés m), n) pontja az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+[^18]: A 33/A. §-t a 373/2021. (VI. 30.) Korm. rendelet 32. §-a iktatta be.
