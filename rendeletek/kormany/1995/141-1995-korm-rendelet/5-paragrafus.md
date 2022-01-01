@@ -1,6 +1,6 @@
 ## (Az Lt. 12—14. §-aihoz)
 
-5. § (1)[^8] A lajstromba való bejegyzést – kivéve a (2) bekezdés i) pontját – annak kell kérnie, aki a bejegyzéssel jogosulttá válik.
+5. § (1)[^9] A lajstromba való bejegyzést – kivéve a (2) bekezdés i) pontját – annak kell kérnie, aki a bejegyzéssel jogosulttá válik.
 
 (2) A lajstromba a következőket kell bejegyezni:
 
@@ -10,23 +10,23 @@ b) a lajstromba vétel időpontja;
 
 c) a légijármű azonosításához szükséges adatok;
 
-d)[^9] a légijármű tulajdonosának neve, nyilvántartási száma (cégnyilvántartásba bejegyzett cég esetében cégjegyzékszáma), címe (székhelye vagy telephelye) és természetes személy esetén állampolgársága;
+d)[^10] a légijármű tulajdonosának neve, nyilvántartási száma (cégnyilvántartásba bejegyzett cég esetében cégjegyzékszáma), címe (székhelye vagy telephelye) és természetes személy esetén állampolgársága;
 
-e)[^10] a légijármű üzemben tartójának neve, nyilvántartási száma (cégnyilvántartásba bejegyzett cég esetében cégjegyzékszáma), címe (székhelye vagy telephelye) és üzemeltetési bázisa;
+e)[^11] a légijármű üzemben tartójának neve, nyilvántartási száma (cégnyilvántartásba bejegyzett cég esetében cégjegyzékszáma), címe (székhelye vagy telephelye) és üzemeltetési bázisa;
 
 f) a légijármű használatának célja;
 
 g) a légijármű telephelye;
 
-h)[^11] a légijárművet terhelő jelzálog és egyéb (pl. bérleti) jog, valamint a közösségi jogi aktus által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására törvény alapján elrendelt zárlat;
+h)[^12] a légijárművet terhelő jelzálog és egyéb (pl. bérleti) jog, valamint a közösségi jogi aktus által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására törvény alapján elrendelt zárlat;
 
-i)[^12] a jármű tulajdonos természetes személy által kezdeményezett adósságrendezési eljárás,
+i)[^13] a jármű tulajdonos természetes személy által kezdeményezett adósságrendezési eljárás,
 
-j)[^13] az a)–i) pontokban említett adatok megváltozása.
+j)[^14] az a)–i) pontokban említett adatok megváltozása.
 
-[^8]: A Vhr. 5. § (1) bekezdése a 218/2015. (VIII. 6.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
-[^9]: A Vhr. 5. § (2) bekezdés d) pontja az 53/2014. (III. 13.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^10]: A Vhr. 5. § (2) bekezdésének e) pontja a 408/2007. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 53/2014. (III. 13.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^11]: A Vhr. 5. § (2) bekezdésének h) pontja a 408/2007. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezés 2008. február 1. napján lépett hatályba.
-[^12]: A Vhr. 5. § (2) bekezdés i) pontja a 218/2015. (VIII. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^13]: A Vhr. 5. § (2) bekezdés j) pontját a 218/2015. (VIII. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A Vhr. 5. § (1) bekezdése a 218/2015. (VIII. 6.) Korm. rendelet 1. § (3) bekezdése szerint módosított szöveg.
+[^10]: A Vhr. 5. § (2) bekezdés d) pontja az 53/2014. (III. 13.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A Vhr. 5. § (2) bekezdésének e) pontja a 408/2007. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 53/2014. (III. 13.) Korm. rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A Vhr. 5. § (2) bekezdésének h) pontja a 408/2007. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezés 2008. február 1. napján lépett hatályba.
+[^13]: A Vhr. 5. § (2) bekezdés i) pontja a 218/2015. (VIII. 6.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^14]: A Vhr. 5. § (2) bekezdés j) pontját a 218/2015. (VIII. 6.) Korm. rendelet 1. § (2) bekezdése iktatta be.

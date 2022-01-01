@@ -1,4 +1,4 @@
-21/H. §[^42] (1) Az akadálykorlátozási felületek oldalhatárain kívül található építményt tulajdonosa akadályfénnyel is megjelöli, ha az építmény magassága meghaladja
+21/H. §[^46] (1) Az akadálykorlátozási felületek oldalhatárain kívül található építményt tulajdonosa akadályfénnyel is megjelöli, ha az építmény magassága meghaladja
 
 a) a 75 m-t, vagy
 
@@ -18,4 +18,4 @@ a szerkezet vagy építmény tulajdonosa akadályjelöléssel látja el.
 
 (4) Ha a légiközlekedési akadály egy szélerőmű, akkor az Lt. 51. § (1) bekezdése szerinti kötelezett festett színjelöléssel és akadályfénnyel látja el. A szélerőmű és a szélerőműpark esetén alkalmazandó színjelölés és akadályfény jellemzőit, valamint elhelyezésük módját a légiközlekedési hatóság honlapján teszi közzé.
 
-[^42]: A Vhr. 21/H. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^46]: A Vhr. 21/H. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.

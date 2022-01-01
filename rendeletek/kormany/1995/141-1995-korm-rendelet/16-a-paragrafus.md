@@ -1,4 +1,4 @@
-## (Az Lt. 12–36. §-aihoz)[^27]
+## (Az Lt. 12–36. §-aihoz)[^29]
 
 16/A. § A nemzetközi légiközlekedéshez kapcsolódó tevékenységek esetében
 
@@ -12,4 +12,4 @@ d) időbeli vonatkoztatási rendszerként a Gergely-naptár és az egyeztetett v
 
 alkalmazandó.
 
-[^27]: Az „Az Lt. 12–36. §-aihoz” alcímet (Vhr. 16/A. §) a 28/2019. (III. 1.) Korm. rendelet 1. §-a iktatta be.
+[^29]: Az „Az Lt. 12–36. §-aihoz” alcímet (Vhr. 16/A. §) a 28/2019. (III. 1.) Korm. rendelet 1. §-a iktatta be.

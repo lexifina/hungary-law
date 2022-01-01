@@ -1,6 +1,6 @@
 ## (Az Lt. 71. §-ához)
 
-27/A. §[^61] (1) E rendelet alkalmazásában
+27/A. §[^66] (1) E rendelet alkalmazásában
 
 1. adatgyűjtési terület: akadály és terep adatok gyűjtése céljából kijelölt terület a következők szerint:
 
@@ -30,7 +30,7 @@ d) 4-es számú Terület: a repülőtér II. vagy III. kategóriás precíziós 
 
 6. egyéb kötöttpályás közlekedési rendszer pályája: a vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló törvény szerinti egyéb kötött pálya,
 
-7.[^62] felszállási repülési útvonal terület: a felszállás pályája alatt a föld felszínén elhelyezkedő, a felszállási pálya két oldalán szimmetrikusan elhelyezkedő négyszögletes terület, amely
+7.[^67] felszállási repülési útvonal terület: a felszállás pályája alatt a föld felszínén elhelyezkedő, a felszállási pálya két oldalán szimmetrikusan elhelyezkedő négyszögletes terület, amely
 
 a) a futópálya vagy – ha van kijelölt felszállási biztonsági terület – a felszállási biztonsági terület végénél kezdődik,
 
@@ -48,5 +48,5 @@ c) addig a pontig terjed, amelyen túl nincsenek légiközlekedési akadályok, 
 
 (2) Az e rendeletben meg nem határozott fogalmakat a repülőterekhez kapcsolódó követelményeknek és igazgatási eljárásoknak a 216/2008/EK európai parlamenti és tanácsi rendelet értelmében történő meghatározásáról szóló 139/2014/EU bizottsági rendeletben, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben meghatározottak szerint kell értelmezni.
 
-[^61]: A Vhr. 27/A. §-t és az azt megelőző alcímet a 167/2019. (VII. 9.) Korm. rendelet 4. §-a iktatta be.
-[^62]: A Vhr. 27/A. § (1) bekezdés 7. pontja a 609/2021. (XI. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^66]: A Vhr. 27/A. §-t és az azt megelőző alcímet a 167/2019. (VII. 9.) Korm. rendelet 4. §-a iktatta be.
+[^67]: A Vhr. 27/A. § (1) bekezdés 7. pontja a 609/2021. (XI. 5.) Korm. rendelet 2. §-a szerint módosított szöveg.
