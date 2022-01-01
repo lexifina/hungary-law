@@ -16,7 +16,7 @@ d) a (2) bekezdés kivételével az Egyetem teljes működésének költségeit 
 
 e) a Fenntartó által jóváhagyott kutatási és fejlesztési programok támogatását,
 
-f) a 13. § (1) bekezdés b) és c) pontja szerinti vezényelt vezetői állomány illetményének Fenntartó által meghatározott vezetői illetményre történő kiegészítés költségeit.
+f) a 13. § (1) bekezdése szerinti vezényelt, kirendelt állomány illetményének egyetemi illetményre történő kiegészítése költségeit.
 
 (5) A hallgatói juttatások és a doktori képzésben résztvevők támogatása tekintetében a költségvetés tervezése során az Nftv.-ben meghatározott normatívákat kell alkalmazni.
 

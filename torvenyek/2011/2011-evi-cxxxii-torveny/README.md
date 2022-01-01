@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-132-00-00
 | 2019-07-01 | 2019. évi LIX. törvény | 2011-132-00-00.27 |
 | 2020-01-01 | 2019. évi CIX. törvény | 2011-132-00-00.28 |
 | 2021-01-01 | 2020. évi CLII. törvény | 2011-132-00-00.29 |
+| 2022-01-01 | 2021. évi CXLVIII. törvény | 2011-132-00-00.30 |

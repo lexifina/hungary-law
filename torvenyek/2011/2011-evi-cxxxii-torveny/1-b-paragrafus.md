@@ -1,0 +1,1 @@
+1/B. § Az Egyetem alaptevékenységként ellátja a közszolgálati tisztviselők és a kormányzati igazgatási szervek kormánytisztviselőinek képzését, továbbképzését, valamint jogszabályban vagy közjogi szervezetszabályozó eszközben részére meghatározott egyéb képzési és továbbképzési feladatokat.

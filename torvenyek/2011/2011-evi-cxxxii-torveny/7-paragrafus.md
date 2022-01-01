@@ -12,6 +12,6 @@ e) a számviteli rendelkezések alapján elkészített éves beszámoló elfogad
 
 f) fejlesztés indítása, továbbá
 
-g) az Egyetem költségvetésének elfogadása.
+g) az Egyetem elemi költségvetésének elfogadása.
 
 (2) A Fenntartó a döntési javaslatoknak az alapító okirattal és az ágazati humánpolitikai igényekkel való összhangját, egységességét, teljességét, törvényességét, hatékonyságnak való megfelelőségét vizsgálja.
