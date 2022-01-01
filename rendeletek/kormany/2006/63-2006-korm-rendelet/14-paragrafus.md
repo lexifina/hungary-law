@@ -12,28 +12,28 @@
 
 (3)[^84] Ha a kérelmet vagy adatlapot a házastárs (élettárs) nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
-(4)[^85] A 2020. december 31-ét követő kezdő időponttól megállapított időskorúak járadékára való jogosultság esetén az Szt.
+(4)[^85] A 2021. december 31-ét követő kezdő időponttól megállapított időskorúak járadékára való jogosultság esetén az Szt.
 
-a) 32/B. § (1) bekezdés a) pontjában meghatározott jövedelemhatár 27 145 Ft,
+a) 32/B. § (1) bekezdés a) pontjában meghatározott jövedelemhatár 28 505 Ft,
 
-b) 32/B. § (1) bekezdés b) pontjában meghatározott jövedelemhatár 31 925 Ft,
+b) 32/B. § (1) bekezdés b) pontjában meghatározott jövedelemhatár 33 525 Ft,
 
-c) 32/B. § (1) bekezdés c) pontjában meghatározott jövedelemhatár 43 100 Ft.
+c) 32/B. § (1) bekezdés c) pontjában meghatározott jövedelemhatár 45 255 Ft.
 
-(5)[^86] 2021. január 1-jétől az időskorúak járadékának havi összege
+(5)[^86] 2022. január 1-jétől az időskorúak járadékának havi összege
 
 a) jövedelemmel nem rendelkező, az Szt.
 
-aa) 32/B. § (1) bekezdés a) pontja szerinti jogosult esetén 27 145 Ft,
+aa) 32/B. § (1) bekezdés a) pontja szerinti jogosult esetén 28 505 Ft,
 
-ab) 32/B. § (1) bekezdés b) pontja szerinti jogosult esetén 31 925 Ft,
+ab) 32/B. § (1) bekezdés b) pontja szerinti jogosult esetén 33 525 Ft,
 
-ac) 32/B. § (1) bekezdés c) pontja szerinti jogosult esetén 43 100 Ft,
+ac) 32/B. § (1) bekezdés c) pontja szerinti jogosult esetén 45 255 Ft,
 
 b) jövedelemmel rendelkező jogosult esetén az a) pont szerinti összegnek és a jogosult havi jövedelmének a különbözete.
 
 [^82]: A 14. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^83]: A 14. § (2) bekezdését újonnan a 95/2013. (III. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § g) pontja és 167. § d) pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
 [^84]: A 14. § (3) bekezdése a 95/2013. (III. 29.) Korm. rendelet 23. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^85]: A 14. § (4) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege az 538/2020. (XII. 2.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^86]: A 14. § (5) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege az 538/2020. (XII. 2.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^85]: A 14. § (4) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 692/2021. (XII. 9.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^86]: A 14. § (5) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege a 692/2021. (XII. 9.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-63-20-2
 | 2021-01-01 | 2006-63-20-22.59 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2021-03-01 | 2006-63-20-22.60 | 463/2016. (XII. 23.) Korm. rendelet |
 | 2021-07-14 | 2006-63-20-22.61 | 171/2019. (VII. 12.) Korm. rendelet |
+| 2022-01-01 | 2006-63-20-22.62 | 359/2017. (XI. 30.) Korm. rendelet |
