@@ -54,6 +54,8 @@ o) az állami légijárművekkel és a pilóta nélküli állami légijárművek
 
 p) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése.
 
+q) a légiközlekedési szakszemélyzet repülőorvosi minősítésének másodlagos felülvizsgálati eljárása.
+
 (2c) Az ügyintézési határidő 90 nap a frekvencia-hozzájárulással kapcsolatos előzetes nemzeti és nemzetközi frekvenciaegyeztetés, illetve frekvenciakoordináció során.
 
 (2d) Az ügyintézési határidő 150 nap

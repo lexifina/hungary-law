@@ -46,7 +46,7 @@ l) a koordinált és menetrend-egyeztetett repülőtereken a résidőkiosztás �
 
 m) a magyar légtér igénybevételéért fizetendő díjjal összefüggő – nemzetközi szerződésben meghatározott – költségalap kezelése;
 
-n) Budapest Liszt Ferenc Nemzetközi Repülőtéren és légterében repülésmeteorológiai feladatok ellátása;
+n)
 
 o) Budapest Liszt Ferenc Nemzetközi Repülőtér légterében, valamint a külön jogszabályban meghatározott Budapest közelkörzet légtereiben alkalmazott műszer szerinti repülési eljárások tervezése;
 
