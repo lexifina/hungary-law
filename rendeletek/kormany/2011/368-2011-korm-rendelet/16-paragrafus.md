@@ -1,10 +1,10 @@
-16. §[^91] (1)[^92] A fejezetet irányító szerv az Áht. 13. § (2) bekezdése szerinti tervezett bevételek és kiadások megállapításához meghatározza
+16. §[^92] (1)[^93] A fejezetet irányító szerv az Áht. 13. § (2) bekezdése szerinti tervezett bevételek és kiadások megállapításához meghatározza
 
 a) az általános és kötelezően érvényesítendő tervezési követelményeket, előfeltételeket, módszertant, előírásokat,
 
-b)[^93] a fejezetbe sorolt költségvetési szervek, központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok tervezett bevételi és kiadási előirányzatainak értékeit a 33/B. § alapján lebontott tervszámok 15. § szerinti szerkezeti változásokkal és a szintrehozásokkal módosított összegeként,
+b)[^94] a fejezetbe sorolt költségvetési szervek, központi kezelésű előirányzatok, fejezeti kezelésű előirányzatok tervezett bevételi és kiadási előirányzatainak értékeit a 33/B. § alapján lebontott tervszámok 15. § szerinti szerkezeti változásokkal és a szintrehozásokkal módosított összegeként,
 
-c)[^94] a b) pontban megjelölt adatokhoz igazodóan a közfeladatok ellátása körében a szakmai, működtetési, alkalmazási, díjazási követelményekben, feltételekben érvényesítendő változásokat, és
+c)[^95] a b) pontban megjelölt adatokhoz igazodóan a közfeladatok ellátása körében a szakmai, működtetési, alkalmazási, díjazási követelményekben, feltételekben érvényesítendő változásokat, és
 
 d) a tervezés eljárási teendőit, ideértve a gazdasági szervezettel rendelkező költségvetési szerv és a hozzá rendelt gazdasági szervezettel nem rendelkező költségvetési szerv tervezésben való együttműködésének, munkamegosztásának feladatait,
 
@@ -20,7 +20,7 @@ c) jogszabályon, magánjogi kötelmen alapulnak, vagy
 
 d) az eszközök hasznosításával függenek össze.
 
-[^91]: Az Ávr. 16. §-át megelőző jogszabályi hivatkozást a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 6. pontja hatályon kívül helyezte.
-[^92]: Az Ávr. 16. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^93]: Az Ávr. 16. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 9. pontja, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^94]: Az Ávr. 16. § (1) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 6. pontja szerint módosított szöveg.
+[^92]: Az Ávr. 16. §-át megelőző jogszabályi hivatkozást a 497/2013. (XII. 29.) Korm. rendelet 63. § (1) bekezdés 6. pontja hatályon kívül helyezte.
+[^93]: Az Ávr. 16. § (1) bekezdés nyitó szövegrésze a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^94]: Az Ávr. 16. § (1) bekezdés b) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 9. pontja, a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^95]: Az Ávr. 16. § (1) bekezdés c) pontja a 397/2014. (XII. 31.) Korm. rendelet 44. § 6. pontja szerint módosított szöveg.

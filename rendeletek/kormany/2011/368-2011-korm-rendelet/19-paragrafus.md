@@ -1,3 +1,3 @@
-19. §[^100]
+19. §[^101]
 
-[^100]: Az Ávr. 19. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 6. pontja hatályon kívül helyezte.
+[^101]: Az Ávr. 19. §-át és az azt megelőző alcímet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 6. pontja hatályon kívül helyezte.

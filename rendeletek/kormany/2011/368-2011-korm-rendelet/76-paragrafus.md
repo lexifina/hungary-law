@@ -1,6 +1,6 @@
 76. § (1) A támogatási szerződésben meg kell határozni az e rendeletben foglalt kötelezettségek megtartását biztosító feltételeket, ha azokról jogszabály nem rendelkezik, így különösen
 
-a)[^388] a támogatott tevékenységet,
+a)[^396] a támogatott tevékenységet,
 
 b) a költségvetési támogatás összegét, a támogatási intenzitást, az elszámolható költségeket,
 
@@ -16,20 +16,20 @@ g) a jogosulatlanul igénybe vett támogatás jogkövetkezményeit, visszafizet�
 
 h) a költségvetési támogatással kapcsolatos iratok, valamint a költségvetési támogatás felhasználását alátámasztó bizonylatok teljes körű megőrzésének határidejét,
 
-i)[^389] a támogatott tevékenység megvalósításában részt vevő egyéb szerv vagy szervezet bevonásának lehetőségét, a részt vevő egyéb szerv vagy szervezet által megvalósítható tevékenységeket,
+i)[^397] a támogatott tevékenység megvalósításában részt vevő egyéb szerv vagy szervezet bevonásának lehetőségét, a részt vevő egyéb szerv vagy szervezet által megvalósítható tevékenységeket,
 
 j) az e rendelet szerinti adatszolgáltatásokhoz szükséges adatok és az azokban bekövetkező változások támogató felé történő bejelentésének kötelezettségét, a bejelentési kötelezettség elmulasztásának következményeit, és
 
 k) a támogatási szerződés felmondásának, illetve az attól történő elállás esetköreit.
 
-(2)[^390] A támogatási szerződésben – az európai uniós forrásból finanszírozott eszközbeszerzések kivételével – szerepeltetni kell, hogy a kedvezményezett a támogatott tevékenység megvalósítása során a költségvetési támogatás és – saját forrás jogszabály, pályázati kiírás vagy a támogató által történő előírása esetén – a saját forrás terhére a kétszázezer forint értékhatárt meghaladó értékű, áru beszerzésére vagy szolgáltatás megrendelésére irányuló szerződést kizárólag írásban köthet. E bekezdés alkalmazásában írásban kötött szerződésnek minősül az elküldött és visszaigazolt megrendelés is. Az írásbeli alak megsértésével kötött szerződés teljesítése érdekében történt kifizetés összege a támogatott tevékenység költségei között nem vehető figyelembe.
+(2)[^398] A támogatási szerződésben – az európai uniós forrásból finanszírozott eszközbeszerzések kivételével – szerepeltetni kell, hogy a kedvezményezett a támogatott tevékenység megvalósítása során a költségvetési támogatás és – saját forrás jogszabály, pályázati kiírás vagy a támogató által történő előírása esetén – a saját forrás terhére a kétszázezer forint értékhatárt meghaladó értékű, áru beszerzésére vagy szolgáltatás megrendelésére irányuló szerződést kizárólag írásban köthet. E bekezdés alkalmazásában írásban kötött szerződésnek minősül az elküldött és visszaigazolt megrendelés is. Az írásbeli alak megsértésével kötött szerződés teljesítése érdekében történt kifizetés összege a támogatott tevékenység költségei között nem vehető figyelembe.
 
-(3)[^391] A (2) bekezdést nem kell alkalmazni a Kormány által kihirdetett, tömeges bevándorlás okozta válsághelyzet kapcsán végzett humanitárius tevékenységgel összefüggésben nyújtott költségvetési támogatásokra.
+(3)[^399] A (2) bekezdést nem kell alkalmazni a Kormány által kihirdetett, tömeges bevándorlás okozta válsághelyzet kapcsán végzett humanitárius tevékenységgel összefüggésben nyújtott költségvetési támogatásokra.
 
-(4)[^392] Ha a fejlesztési, beruházási célú költségvetési támogatásból származó átmenetileg szabad pénzeszközt a helyi önkormányzat kedvezményezett állampapír vásárlásával hasznosítja, a támogatási szerződés előírhatja a lekötés időtartamáról szóló dokumentum benyújtásának kötelezettségét.
+(4)[^400] Ha a fejlesztési, beruházási célú költségvetési támogatásból származó átmenetileg szabad pénzeszközt a helyi önkormányzat kedvezményezett állampapír vásárlásával hasznosítja, a támogatási szerződés előírhatja a lekötés időtartamáról szóló dokumentum benyújtásának kötelezettségét.
 
-[^388]: Az Ávr. 76. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
-[^389]: Az Ávr. 76. § (1) bekezdés i) pontja a 482/2021. (VIII. 13.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
-[^390]: Az Ávr. 76. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 12. pontja szerint módosított szöveg.
-[^391]: Az Ávr. 76. § (3) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
-[^392]: Az Ávr. 76. § (4) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^396]: Az Ávr. 76. § (1) bekezdés a) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § d) pontja szerint módosított szöveg.
+[^397]: Az Ávr. 76. § (1) bekezdés i) pontja a 482/2021. (VIII. 13.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
+[^398]: Az Ávr. 76. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 31. § 12. pontja szerint módosított szöveg.
+[^399]: Az Ávr. 76. § (3) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 10. §-a iktatta be.
+[^400]: Az Ávr. 76. § (4) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 2. §-a iktatta be.

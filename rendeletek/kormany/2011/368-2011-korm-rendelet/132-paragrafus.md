@@ -1,10 +1,5 @@
-132. §[^566] (1)[^567] A fejezetet irányító szerv fejezeti kezelésű előirányzatonként finanszírozási tervet nyújt be a Kincstárnak a költségvetési év január 15-éig, majd ezt követően havonta a tárgyhónapot megelőző hónap 20-áig. A finanszírozási terv havi részletezésben készül.
+132. §[^587] (1) A fejezeti kezelésű előirányzatok finanszírozására szolgáló előirányzat-felhasználási keretet egy összegben, a költségvetési év utolsó kincstári napján kell folyósítani.
 
-(1a)[^568] A havi finanszírozási terv az irányító szerv kérelmére módosítható. A módosításra irányuló kérelmet a kiadás várható teljesítés időpontját megelőző 10. napig kell benyújtani, amit a Kincstár elbírál. Az európai uniós forrásokból finanszírozott programok előirányzatainál a Kincstár a módosítást elbírálás nélkül végrehajtja.
+(2) Az előirányzat-módosítási kötelezettség nélkül túlteljesíthető fejezeti kezelésű előirányzatok esetében a költségvetési év utolsó kincstári napján folyósításra kerülő előirányzat-felhasználási keret kizárólag a tárgyévi költségvetési év során ténylegesen teljesített költségvetési kiadások fedezetét biztosítja. Ha a költségvetési év során ténylegesen teljesített költségvetési kiadások a módosított kiadási előirányzat összegét nem haladják meg, akkor a költségvetési év utolsó kincstári napján a módosított támogatási előirányzat összegét kell folyósítani.
 
-(2)[^569] A Kincstár a finanszírozási terv feldolgozásáról vagy visszautasításáról visszaigazolást küld a fejezetet irányító szervnek.
-
-[^566]: Az Ávr. 132. §-t megelőző alcím címet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 16. pontja hatályon kívül helyezte.
-[^567]: Az Ávr. 132. § (1) bekezdése a 499/2016. (XII. 28.) Korm. rendelet 13. §-ával megállapított és a 310/2018. (XII. 27.) Korm. rendelet 32. § (2) bekezdés 3. pontja szerint módosított szöveg.
-[^568]: Az Ávr. 132. § (1a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 11. §-a iktatta be, szövege a 310/2018. (XII. 27.) Korm. rendelet 31. § 16. pontja szerint módosított szöveg.
-[^569]: Az Ávr. 132. § (2) bekezdése a 310/2018. (XII. 27.) Korm. rendelet 32. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^587]: Az Ávr. 132. §-t megelőző alcím címet a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 16. pontja hatályon kívül helyezte. Az Ávr. 132. § a 801/2021. (XII. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
