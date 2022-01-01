@@ -36,11 +36,11 @@ c) az állami kártalanítás nettó összegét, az állami kártalanítást ter
 
 d) az állami kártalanítás bruttó összegét, amennyiben a kártalanítás jogosultja nem alanya az általános forgalmi adónak, és
 
-e) az Éltv. 55. § (7) bekezdésében meghatározott esetben a kártalanítás jogosultjának írásbeli nyilatkozata alapján annak megállapítását, hogy a megyei kormányhivatal az általános forgalmi adó fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általános forgalmi adó bevételi számlára utalja.
+e)[^28] az Éltv. 55. § (7) bekezdésében meghatározott esetben a kártalanítás jogosultjának írásbeli nyilatkozata alapján annak megállapítását, hogy a lebonyolító szerv az általános forgalmi adó fizetési halasztással érintett összeget a jogosult adószámára hivatkozással az állami adóhatóságnál vezetett, általános forgalmi adó bevételi számlára utalja.
 
 (5) A kártalanítási határozat indokolásában meg kell jelölni, hogy az állat elhullása mely állatbetegség következtében történt, vagy a járványügyi intézkedéseket mely állatbetegség gyanúja, megállapítása vagy felszámolása miatt rendelték el, valamint a betegség megállapításának alapjául szolgáló diagnosztikai vagy laboratóriumi eredményt, ennek hiányában a húsvizsgálat vagy boncolás írásban rögzített eredményét.
 
-(6) A kártalanítási összeg kifizetése érdekében az eljáró hatóság – a kártalanítási határozat véglegessé válása után haladéktalanul – elektronikus úton megküldi a NÉBIH-nek a kártalanítási határozatot.
+(6)[^29] A kártalanítási összeg kifizetése érdekében az eljáró hatóság – a kártalanítási határozat véglegessé válása után haladéktalanul – elektronikus úton megküldi a lebonyolító szervnek a kártalanítási határozatot.
 
 (7) Az eljáró hatóság elektronikus úton rögzíti továbbá:
 
@@ -52,7 +52,7 @@ c) a becslési jegyzőkönyvet, és
 
 d) az országos főállatorvos által határozatban elrendelt 4. § (4) bekezdése szerinti egyéb bizonylatot.
 
-(8) A NÉBIH intézkedik a kártalanítás összegének folyósítása iránt a megyei kormányhivatal részére, amely azt a (9)–(11) bekezdésben foglaltak szerint fizeti ki a jogosultnak.
+(8)[^30] A lebonyolító szerv intézkedik a kártalanítás összegének folyósítása iránt a megyei kormányhivatal részére, amely azt a (9)–(11) bekezdésben foglaltak szerint fizeti ki a jogosultnak.
 
 (9) Azon jogosult, aki az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) alapján általános forgalmi adóalanynak (a továbbiakban: áfaalany) minősül, a kártalanítás összegéről számlát bocsát ki az eljáró hatóság, illetve amennyiben az eljáró hatóság a járási hivatal, a megyei kormányhivatal részére. A kártalanítás folyósítása a számla alapján történik. A kártalanítás kifizetési határideje a kártalanítási határozat véglegessé válásától számított hatvan nap.
 
@@ -73,3 +73,6 @@ d) a megsemmisített termék, termény, felszerelés, berendezés jellege és me
 e) az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok vonatkozásában az európai uniós támogatás elszámolásához szükséges, eljárásrendben rögzített adatok.
 
 [^27]: A 6. § a 7/2021. (III. 10.) AM rendelet 4. §-ával megállapított szöveg.
+[^28]: A 6. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 6. § (6) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^30]: A 6. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
