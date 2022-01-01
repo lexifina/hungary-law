@@ -2,7 +2,7 @@
 
 a) a nevelőszülő
 
-aa) természetes személyazonosító adatait,
+aa)[^16] Gyvt. 5. § t) pontja szerinti személyazonosító adatait,
 
 ab) adóazonosító jelét,
 
@@ -22,7 +22,7 @@ ba) a nevelőszülő szakképesítés megszerzéséről szóló oklevél számá
 
 bb) – a ba) alpontban meghatározott oklevél hiányában – a nevelőszülő szakképesítés első modulzáró vizsgájának eredményes letételéről szóló igazolás számát, keltét, az igazolást kiállító szerv nevét és címét, vagy
 
-bc)[^15] – a ba) és a bb) alpontban meghatározott oklevél vagy igazolás hiányában – a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló 29/2003. (V. 20.) ESZCSM rendelet alapján a nevelőszülői tanfolyam sikeres elvégzéséről kiadott tanúsítvány számát és keltét, valamint a tanúsítvány kiállítójának nevét, címét vagy a szakképesítés megszerzése alóli felmentés tényét a felmentés alapjául szolgáló ok megjelölésével,
+bc)[^17] – a ba) és a bb) alpontban meghatározott oklevél vagy igazolás hiányában – a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló 29/2003. (V. 20.) ESZCSM rendelet alapján a nevelőszülői tanfolyam sikeres elvégzéséről kiadott tanúsítvány számát és keltét, valamint a tanúsítvány kiállítójának nevét, címét vagy a szakképesítés megszerzése alóli felmentés tényét a felmentés alapjául szolgáló ok megjelölésével,
 
 c) a nevelőszülői hálózat fenntartójának nevét és címét,
 
@@ -46,7 +46,7 @@ l) a nevelőszülő helyettesítésének és segítésének módját, eseteit,
 
 m) azt, hogy a nevelőszülő speciális vagy különleges nevelőszülő, valamint azt a tényt, hogy a nevelőszülő a 9. § (1) bekezdése alapján kizárólag hozzátartozója tekintetében lát el nevelőszülői feladatokat,
 
-n)[^16] a nevelőszülő és a működtető megállapodását arról, hogy
+n)[^18] a nevelőszülő és a működtető megállapodását arról, hogy
 
 na) a nevelőszülőnél – saját gyermekeit is beszámítva – hány gyermek, fiatal felnőtt helyezhető el,
 
@@ -54,9 +54,11 @@ nb) a nevelőszülő fogad-e ideiglenes hatállyal elhelyezett gyermeket, speci�
 
 nc) a nevelőszülő – feltéve, hogy nem jogosult a Gyvt. 66/G. § (1) bekezdése alapján gyermekgondozó által nyújtott segítségre – ellát-e helyettesítést a működtetője által foglalkoztatott más nevelőszülő tekintetében,
 
+nd)[^19] a nevelőszülő hány férőhely erejéig fogadhatja be átmeneti gondozásra a gondozásában lévő kiskorú szülő, valamint utógondozói ellátásban részesülő fiatal felnőtt gyermekét,
+
 o) indokolt esetben a működtető hozzájárulását ahhoz, hogy a nevelőszülő helyettes szülői feladatokat is elláthat,
 
-p)[^17] a működtető hozzájárulását a nevelőszülő Gyvt. 66/B. § (4) bekezdésében foglaltak szerinti időkorlátozás nélküli keresőtevékenységéhez, indokolt esetben megjelölve azokat a feltételeket, amelyek biztosítják, hogy a keresőtevékenység a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti,
+p)[^20] a működtető hozzájárulását a nevelőszülő Gyvt. 66/B. § (4) bekezdésében foglaltak szerinti időkorlátozás nélküli keresőtevékenységéhez, indokolt esetben megjelölve azokat a feltételeket, amelyek biztosítják, hogy a keresőtevékenység a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti,
 
 q) a nevelőszülő és a működtető kapcsolattartásának módját,
 
@@ -70,19 +72,21 @@ u) a nevelőszülő, a nevelőszülő házastársa vagy élettársa és a műkö
 
 (2) Az (1) bekezdés h) pontja szerinti napi összeget a havi összeg harminc nappal való elosztásával kell megállapítani.
 
-(3)[^18] Az (1) bekezdés k) pontja szerinti bankszámlán kizárólag a gyermek, a fiatal felnőtt ellátására szolgáló nevelési díjat, külön ellátmányt és családi pótlékot lehet fogadni.
+(3)[^21] Az (1) bekezdés k) pontja szerinti bankszámlán kizárólag a gyermek, a fiatal felnőtt ellátására szolgáló nevelési díjat, külön ellátmányt és családi pótlékot lehet fogadni.
 
 (4) Ha az (1) bekezdésben meghatározott adatokban, tényekben változás következik be, a működtető az azokról való tudomásszerzést követő tizenöt napon belül módosítási záradékkal látja el a keretmegállapodást vagy gondoskodik az új keretmegállapodás elkészítéséről. A módosítási záradékban a keretmegállapodás módosuló pontjait kell feltüntetni. A módosítási záradékot a nevelőszülő és a működtető képviselője aláírja.
 
 (5) A nevelőszülői foglalkoztatási jogviszony megszűnése vagy megszüntetése esetén a működtető haladéktalanul megszüntetési záradékkal látja el a keretmegállapodást. A záradékban fel kell tüntetni a nevelőszülőt a nevelőszülői díjazás keretében megillető alapdíj folyósítása megszüntetésének időpontját. A megszüntetési záradékot a nevelőszülő és a működtető képviselője aláírja.
 
-(6)[^19] Ha a nevelőszülő más működtetőnél kíván nevelőszülői tevékenységet végezni, vagy a jelenlegi működtetőjénél végzett tevékenysége mellett kíván más működtetőnél is nevelőszülői feladatokat ellátni, és azt a jelenlegi működtető nem engedélyezi, az új működtetővel a keretmegállapodást a jelenlegi működtetőnél fennálló jogviszonya megszüntetését és a jelenlegi működtetővel kötött keretmegállapodása megszüntetési záradékkal történő ellátását követően kötheti meg.
+(6)[^22] Ha a nevelőszülő más működtetőnél kíván nevelőszülői tevékenységet végezni, vagy a jelenlegi működtetőjénél végzett tevékenysége mellett kíván más működtetőnél is nevelőszülői feladatokat ellátni, és azt a jelenlegi működtető nem engedélyezi, az új működtetővel a keretmegállapodást a jelenlegi működtetőnél fennálló jogviszonya megszüntetését és a jelenlegi működtetővel kötött keretmegállapodása megszüntetési záradékkal történő ellátását követően kötheti meg.
 
-(7)[^20] Ha a nevelőszülő a jelenlegi működtetőjével kötött keretmegállapodását fel kívánja bontani, és a háztartásában gyermek ellátásáról gondoskodik, a működtető értesíti a nevelőszülőnél elhelyezett gyermek ügyében illetékes területi gyermekvédelmi szakszolgálatot és a gyermekvédelmi gyámot a gyermek gondozási helyének megváltoztatása érdekében megteendő intézkedések vagy a fenntartó, működtető személyében bekövetkező változásról szóló tájékoztatásnyújtás céljából. A működtető az értesítésében nyilatkozik arról, hogy a fenntartó- és működtetőváltás kezdeményezésére a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 105/A. § (4a) bekezdése vagy (5) bekezdés b), illetve c) pontjában meghatározott körülmények között kerül sor.
+(7)[^23] Ha a nevelőszülő a jelenlegi működtetőjével kötött keretmegállapodását fel kívánja mondani, és a háztartásában gyermek ellátásáról gondoskodik, a működtető értesíti a nevelőszülőnél elhelyezett gyermek ügyében illetékes területi gyermekvédelmi szakszolgálatot és a gyermekvédelmi gyámot a gyermek gondozási helyének megváltoztatása érdekében megteendő intézkedések vagy a fenntartó, működtető személyében bekövetkező változásról szóló tájékoztatásnyújtás céljából. A működtető az értesítésében nyilatkozik arról, hogy a fenntartó- és működtetőváltás kezdeményezésére a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 105/A. § (4a) bekezdése vagy (5) bekezdés b), illetve c) pontjában meghatározott körülmények között kerül sor.
 
-[^15]: A 11. § (1) bekezdés b) pont bc) alpontja a 353/2014. (XII. 29.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
-[^16]: A 11. § (1) bekezdés n) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
-[^17]: A 11. § (1) bekezdés p) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg.
-[^18]: A 11. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 83. §-ával megállapított szöveg.
-[^19]: A 11. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 14. §-a iktatta be.
-[^20]: A 11. § (7) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 15. §-a iktatta be.
+[^16]: A 11. § (1) bekezdés a) pont aa) alpontja a 744/2021. (XII. 21.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^17]: A 11. § (1) bekezdés b) pont bc) alpontja a 353/2014. (XII. 29.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
+[^18]: A 11. § (1) bekezdés n) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
+[^19]: A 11. § (1) bekezdés n) pont nd) alpontját a 744/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^20]: A 11. § (1) bekezdés p) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg.
+[^21]: A 11. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^22]: A 11. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 14. §-a iktatta be.
+[^23]: A 11. § (7) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 15. §-a iktatta be, szövege a 744/2021. (XII. 21.) Korm. rendelet 13. §-a szerint módosított szöveg.

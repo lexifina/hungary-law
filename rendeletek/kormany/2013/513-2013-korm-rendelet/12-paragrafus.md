@@ -10,7 +10,7 @@ ac) társadalombiztosítási azonosító jelét és
 
 ad) adóazonosító jelét,
 
-b)[^21] az ideiglenes hatályú elhelyezésről, a nevelésbe vételről, a gondozási hely meghatározásáról és az utógondozói ellátás elrendeléséről szóló hatósági döntés számát, keltét, véglegessé válásának tényét és időpontját, valamint a döntést hozó hatóság megnevezését,
+b)[^24] az ideiglenes hatályú elhelyezésről, a nevelésbe vételről, a gondozási hely meghatározásáról és az utógondozói ellátás elrendeléséről szóló hatósági döntés számát, keltét, véglegessé válásának tényét és időpontját, valamint a döntést hozó hatóság megnevezését,
 
 c) a gyermeknek járó teljes körű ellátás és a fiatal felnőttnek járó szükség szerinti ellátás biztosítására való felhívást, valamint az ellátás biztosításának kezdő időpontját a hatósági döntés alapján,
 
@@ -34,4 +34,4 @@ h) a nevelőszülő és a működtető képviselőjének aláírását.
 
 (6) A megszüntetési záradékot a működtető és a nevelőszülő aláírásával látja el.
 
-[^21]: A 12. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 479. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^24]: A 12. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 479. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

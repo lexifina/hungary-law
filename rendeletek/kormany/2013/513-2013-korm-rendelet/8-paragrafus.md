@@ -1,3 +1,5 @@
+## 7. §[^14]
+
 8. § (1) Határozott idejű nevelőszülői foglalkoztatási jogviszony kivételesen létesíthető a nevelőszülő beleegyezésével,
 
 a) helyettesítés céljából, ha a helyettesítendő nevelőszülőt előreláthatólag legalább egy hónap időtartamra helyettesíteni kell, továbbá
@@ -13,3 +15,5 @@ a) helyettesítésére a saját háztartásában három hónapot meghaladóan ke
 b) helyettesítésére nem a saját háztartásában tizenöt napot meghaladóan kerül sor, vagy
 
 c) helyettesítése a gyermek számára óvoda- vagy iskolaváltással jár.
+
+[^14]: A 7. §-t a 744/2021. (XII. 21.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.

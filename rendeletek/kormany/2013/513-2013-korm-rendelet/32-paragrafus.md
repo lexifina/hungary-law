@@ -1,6 +1,6 @@
-## 31/A. §[^30]
+## 31/A. §[^34]
 
-32. §[^31] (1) A nevelőszülő a Gyvt. – egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított – 165. § (2) bekezdés c) pontja szerinti nyilatkozatát 2019. február 28-áig juttatja el a működtetőnek.
+32. §[^35] (1) A nevelőszülő a Gyvt. – egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított – 165. § (2) bekezdés c) pontja szerinti nyilatkozatát 2019. február 28-áig juttatja el a működtetőnek.
 
 (2) A működtető a 2019. január 1-jén fennálló keretmegállapodásokat a keretmegállapodás 11. § (1) bekezdés t) pontja tekintetében 2019. március 31-éig módosítási záradékkal látja el, ha az a Gyvt. – egyes szociális, gyermekvédelmi tárgyú, valamint egyéb kapcsolódó törvények módosításáról szóló 2018. évi CXVII. törvénnyel megállapított –
 
@@ -8,5 +8,5 @@ a) 165. § (1) bekezdése szerinti, a nevelőszülő képesítés megszerzésér
 
 b) 165. § (2) bekezdés c) pontja szerinti, a nevelőszülő képesítés megszerzése alóli felmentési ok
 
-[^30]: A 31/A. §-t a 353/2014. (XII. 29.) Korm. rendelet 88. §-a iktatta be, hatályon kívül helyezte a 237/2020. (V. 26.) Korm. rendelet 5. § b) pontja.
-[^31]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 306/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.
+[^34]: A 31/A. §-t a 353/2014. (XII. 29.) Korm. rendelet 88. §-a iktatta be, hatályon kívül helyezte a 237/2020. (V. 26.) Korm. rendelet 5. § b) pontja.
+[^35]: A 32–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 306/2018. (XII. 27.) Korm. rendelet 16. §-a iktatta be.

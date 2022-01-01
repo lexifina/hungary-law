@@ -10,9 +10,9 @@ c) azonnal a gyermekkel és a fiatal felnőttel kapcsolatos rendkívüli esemén
 
 d) azonnal a gyermeknek a nevelőszülőtől történő huszonnégy órát meghaladó engedély nélküli eltávozásáról, és
 
-e)[^22] azonnal a saját életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
+e)[^25] azonnal a saját életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
 
-ea)[^23] a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok bekövetkeztéről,
+ea)[^26] a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok bekövetkeztéről,
 
 eb) a nevelőszülő családi állapotának megváltozásáról, a családstruktúrában történt változásról,
 
@@ -28,8 +28,8 @@ eg) a harminc napnál hosszabb időre történő külföldre utazás szándéká
 
 eh) az egészségi állapotában beálló olyan romlásról, melynek következtében a későbbiekben feltételezhetően hosszabb ideig nem lesz képes ellátni a gyermeket,
 
-ei)[^24] ha más működtetőnél kíván nevelőszülői feladatokat ellátni.
+ei)[^27] ha más működtetőnél kíván nevelőszülői feladatokat ellátni.
 
-[^22]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított szöveg.
-[^23]: A 14. § e) pont ea) alpontja a 306/2018. (XII. 27.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^24]: A 14. § e) pont ei) alpontját a 306/2018. (XII. 27.) Korm. rendelet 15. §-a iktatta be.
+[^25]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított szöveg.
+[^26]: A 14. § e) pont ea) alpontja a 306/2018. (XII. 27.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^27]: A 14. § e) pont ei) alpontját a 306/2018. (XII. 27.) Korm. rendelet 15. §-a iktatta be.
