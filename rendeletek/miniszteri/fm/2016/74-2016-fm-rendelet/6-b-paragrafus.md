@@ -1,4 +1,4 @@
-6/B. § (1)[^11] Az állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2020. október 1. és október 31., 2021. április 1. és április 30., valamint 2021. október 1. és október 31. között benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult, amely átmeneti támogatás iránti kérelem ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+6/B. § (1)[^11] Az állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2020. október 1. és október 31., 2021. április 1. és április 30., 2021. október 1. és október 31., valamint 2022. április 1. és április 30. között benyújtott támogatási kérelme alapján kizárólag átmeneti támogatás igénybevételére jogosult, amely átmeneti támogatás iránti kérelem ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) Az átmeneti támogatás iránti kérelem vonatkozásában nem kell alkalmazni a 2. § (4) és (6)–(8) bekezdésében, a 4. § (1) bekezdés b) pont bd) alpontjában, a 6. § (2) bekezdésében és a 6/A. § (3)–(5) bekezdésében foglaltakat.
 
@@ -28,4 +28,4 @@ be) arról, hogy rendelkezik a megkeresésére a Magyar Juhtenyésztők és Kecs
 
 (8) Az átmeneti támogatás iránti kérelem benyújtása esetén a Kincstár megkeresésére a Magyar Juhtenyésztők és Kecsketenyésztők Szövetsége adatot szolgáltat az 5. § (2) bekezdés b)–g) pontjában foglaltakról.
 
-[^11]: A 6/B. § (1) bekezdése 65/2020. (XII. 17.) AM rendelet 6. § a) pontja, a 18/2021. (IV. 14.) AM rendelet 16. §-a szerint módosított szöveg.
+[^11]: A 6/B. § (1) bekezdése 65/2020. (XII. 17.) AM rendelet 6. § a) pontja, a 18/2021. (IV. 14.) AM rendelet 16. §-a, az 50/2021. (XII. 29.) AM rendelet 23. §-a szerint módosított szöveg.

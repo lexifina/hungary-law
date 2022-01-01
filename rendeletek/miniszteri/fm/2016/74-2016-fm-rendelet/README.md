@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-74-20-1
 | 2020-08-20 | 2016-74-20-11.9 | 41/2020. (VIII. 19.) AM rendelet |
 | 2020-12-20 | 2016-74-20-11.10 | 65/2020. (XII. 17.) AM rendelet |
 | 2021-04-15 | 2016-74-20-11.11 | 65/2020. (XII. 17.) AM rendelet |
+| 2022-01-01 | 2016-74-20-11.12 | 65/2020. (XII. 17.) AM rendelet |
