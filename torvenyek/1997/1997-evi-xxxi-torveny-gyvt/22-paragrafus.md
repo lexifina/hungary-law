@@ -4,19 +4,15 @@
 
 a) a bíróság a tartásdíjat jogerős határozatában már megállapította vagy van olyan külföldi bíróság, vagy más hatóság által hozott jogerős határozat, amelyet a Magyarországon élő gyermek javára nemzetközi szerződés vagy viszonosság alapján kell végrehajtani, és
 
-b) a gyermektartásdíj összegének behajtása átmenetileg lehetetlen, továbbá
+b) a gyermektartásdíj összegének behajtása átmenetileg lehetetlen.
 
-c) a gyermeket gondozó szülő vagy más törvényes képviselő nem képes a gyermek részére a szükséges tartást nyújtani,
+(2)
 
-feltéve, hogy a gyermeket gondozó családban az egy főre jutó havi átlagjövedelem nem éri el az öregségi nyugdíj legkisebb összegének kétszeresét.
-
-(2) Az egy főre jutó jövedelem megállapításánál a 131. § (2) bekezdését kell alkalmazni.
-
-(3) A gyámhatóság a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást a végrehajtás szünetelését kimondó, hat hónapnál nem régebbi foglalási jegyzőkönyv igazolja.
+(3) A gyámhatóság a gyermektartásdíj behajthatatlanságát a gyermektartásdíj fizetésére kötelezett személy rendszeres jövedelmére, illetve egyéb vagyonára vezetett eredménytelen végrehajtást követően állapítja meg. Az eredménytelen végrehajtást a végrehajtás szünetelését kimondó, három hónapnál nem régebbi foglalási jegyzőkönyv igazolja.
 
 (3a) Ha a kérelem benyújtásakor igazolják, hogy a bíróságon a gyermektartásdíj behajtása iránti eljárás a kérelem benyújtását megelőzően megindításra került, de az annak eredményét igazoló jegyzőkönyv még nem áll rendelkezésre, a gyámhatóság a gyermektartásdíj megelőlegezése iránti eljárást a jegyzőkönyv megérkezéséig felfüggeszti.
 
-(4) Az (1) bekezdésben meghatározott összeg számításánál a kérelem benyújtása időpontjában közös háztartásban élő közeli hozzátartozóként kell figyelembe venni a 19. § (4) bekezdésében meghatározott személyeket.
+(4)
 
 (5) Nincs helye a gyermektartásdíj megelőlegezésének, ha a kötelezett
 
@@ -32,7 +28,7 @@ e)
 
 (6) Nincs helye továbbá a gyermektartásdíj megelőlegezésének
 
-a) részösszegű megfizetés vagy részösszegű behajthatóság esetén, ha ennek mértéke a bíróság által megállapított gyermektartásdíj alapösszegének ötven százalékát meghaladja, vagy
+a) részösszegű megfizetés vagy részösszegű behajthatóság esetén, ha ennek mértéke a bíróság által megállapított gyermektartásdíj alapösszegének nyolcvan százalékát meghaladja, vagy
 
 b) lejárt gyermektartásdíj esetén.
 
