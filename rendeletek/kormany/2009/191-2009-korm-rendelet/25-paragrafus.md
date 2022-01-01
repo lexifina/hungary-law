@@ -20,9 +20,11 @@ b)[^258] a végleges építésügyi hatósági engedélyt és a hozzá tartozó,
 
 c) építtetői fedezetkezelő közreműködése esetén a fedezetkezelő által kezelt elektronikus alvállalkozói nyilvántartás,
 
-d)[^259] összesítő lap, továbbá
+d)[^259] összesítő lap,
 
-e)[^260] közös gyűjtő napló.
+e)[^260] közös gyűjtő napló, továbbá
+
+f)[^261] az építésfelügyeleti hatóság, az állami adóhatóság, valamint a foglalkoztatás-felügyeleti hatóságnak a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerbe tartozó tevékenységekről, valamint az Építőipari Monitoring- és Adatszolgáltató Rendszerről szóló kormányrendelet szerinti ellenőrzésről felvett vagy kiadott jegyzőkönyvei, feljegyzései vagy hatósági bizonyítványai.
 
 [^249]: A 25. §-t megelőző alcím a 482/2016. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^250]: A 25. § a 109/2013. (IV. 9.) Korm. rendelet 2. § (9) bekezdésével megállapított szöveg.
@@ -34,5 +36,6 @@ e)[^260] közös gyűjtő napló.
 [^256]: A 25. § (10) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 482/2016. (XII. 28.) Korm. rendelet 20. § e) pontja.
 [^257]: A 25. § (11) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 12. §-a iktatta be.
 [^258]: A 25. § (11) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 13. § k) pontja, a 457/2017. (XII. 28.) Korm. rendelet 257. § e) pontja, a 700/2020. (XII. 29.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^259]: A 25. § (11) bekezdés d) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (11) bekezdése iktatta be.
-[^260]: A 25. § (11) bekezdés e) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (11) bekezdése iktatta be.
+[^259]: A 25. § (11) bekezdés d) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (11) bekezdése iktatta be, szövege a 707/2021. (XII. 15.) Korm. rendelet 12. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^260]: A 25. § (11) bekezdés e) pontját a 62/2014. (III. 6.) Korm. rendelet 11. § (11) bekezdése iktatta be, szövege a 707/2021. (XII. 15.) Korm. rendelet 12. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^261]: A 25. § (11) bekezdés f) pontját a 707/2021. (XII. 15.) Korm. rendelet 12. § (1) bekezdése iktatta be.
