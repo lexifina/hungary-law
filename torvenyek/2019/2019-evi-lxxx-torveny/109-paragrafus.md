@@ -1,6 +1,6 @@
-## 24. A szakképzés támogatása
+## 24.
 
-### 109. § [A szakképzéshez biztosított támogatás]
+### 109. § [A szakképzésialapfeladat-ellátás fedezete]
 
 (1) A szakképzésialapfeladat-ellátás fedezetét a fenntartó saját költségvetése terhére biztosítja. A szakképző intézményben szervezett szakirányú oktatás költségei a fenntartót, a duális képzőhely által szervezett szakirányú oktatás költségei az e törvényben meghatározottak szerint a duális képzőhelyet terhelik.
 

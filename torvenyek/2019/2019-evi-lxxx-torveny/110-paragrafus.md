@@ -1,6 +1,6 @@
 ### 110. § [Az Alap képzési alaprészének felhasználása]
 
-(1) Az Alap képzési alaprésze tartalmazza a szakképzéshez kapcsolódó feladatok ellátására, a szakképzés megszervezéséhez, működtetéséhez és fejlesztéséhez nyújtható támogatások, valamint a szakképző intézmény tanulója számára járó ösztöndíj, egyszeri pályakezdési juttatás és támogatás kifizetésének előirányzati fedezetét.
+(1) Az Alap képzési alaprésze tartalmazza a szakképzéshez kapcsolódó feladatok ellátására, a szakképzés megszervezéséhez, működtetéséhez és fejlesztéséhez nyújtható támogatások, valamint a szakképző intézmény tanulója számára járó ösztöndíj és egyszeri pályakezdési juttatás kifizetésének előirányzati fedezetét.
 
 (2) Az Alap képzési alaprésze tekintetében a szakképzésért felelős miniszter
 

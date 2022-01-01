@@ -24,7 +24,7 @@
 
 2. a képzési és kimeneti követelmények, a programtanterv és a szakmai program meghatározásának szabályait,
 
-3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét,
+3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét, valamint az eljárásba bevonásra kerülő szakértőket és a szakértői szakvélemény elkészítéséért fizetendő szakértői díj mértékét,
 
 4. a szakképző intézmény alapításának, megszüntetésének, átszervezésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 
@@ -78,7 +78,7 @@
 
 29. a diákönkormányzat működésére vonatkozó részletes szabályokat,
 
-30. a képzési hitel igénybevételének feltételeit,
+30. a képzési hitel igénybevételének részletes feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a képzési hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, az együttműködési megállapodás megkötésének és felmondásának részletes szabályait, valamint a képzési hitelrendszer működtetésének részletes szabályait,
 
 30a. a diákigazolvány kiadásával és használatával kapcsolatos szabályokat,
 
@@ -102,11 +102,11 @@
 
 39a. a szakképzés irányításának és a szakképzésért felelős miniszter e törvényben meghatározott feladatai végrehajtásának részletes szabályait,
 
-39b. a szakképzési tankönyvvé nyilvánítás, annak módosítása és megszüntetése rendjét, az eljárásba bevonásra kerülő szakértőket és a szakértői vélemény elkészítéséért fizetendő szakértői díj mértékét, a szakképzési tankönyvjegyzék elkészítését és kiadását, valamint a szakképzésben alkalmazott terjesztési árat,
+39b. a szakképzési tankönyvvé nyilvánítás, annak módosítása és megszüntetése rendjét, az eljárásba bevonásra kerülő szakértőket és a szakértői szakvélemény elkészítéséért fizetendő szakértői díj mértékét, a szakképzési tankönyvjegyzék elkészítését és kiadását, valamint a szakképzésben alkalmazott terjesztési árat,
 
 40. az Alap képzési alaprészéből nyújtható támogatás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre vonatkozó szabályokat,
 
-40a. a felnőttképzési jogviszonyban szakmai oktatásban, illetve ingyenes szakmai képzésben részt vevők tekintetében a szakképző intézmény finanszírozására vonatkozó szabályokat,
+40a.
 
 41. a Szakképzési Innovációs Tanács összetételét és működésének részletes szabályait,
 
@@ -116,7 +116,7 @@
 
 44. a képzési tanács összetételét és működésének részletes szabályait,
 
-45. az önköltség szakmánként, illetve a 128. § (5) bekezdése tekintetében szakképesítésenként, részszakképesítésenként alkalmazandó és az alapnormatíva képzési területenként alkalmazandó súlyszorzóját,
+45. az önköltség szakmánként alkalmazandó súlyszorzóját,
 
 46. a szakképzés információs rendszerében tárolt – személyes adatnak nem minősülő – adatok körét, azok közzétételének és továbbításának módját,
 

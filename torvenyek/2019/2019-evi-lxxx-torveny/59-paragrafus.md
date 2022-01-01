@@ -12,6 +12,6 @@ b) rászorultsági helyzete és jó tanulmányi eredménye alapján pályázat �
 
 jogosult. Az e bekezdés szerinti juttatásra vonatkozó követelést hat hónapnál régebbi időre bírósági úton akkor lehet visszamenőlegesen érvényesíteni, ha a jogosult a követelés érvényesítésével alapos ok miatt késlekedett. Három évnél régebbi időre az e bekezdés szerinti juttatásra vonatkozó követelés bírósági úton nem érvényesíthető.
 
-(2) A tanuló a szakképző intézmény útján vagy közvetlenül kérheti kollégiumi felvételét, valamint externátusi elhelyezését az Nkt. szerint. A tanuló tanítási évben (ideértve az évközi szünetek idejét is) és a szorgalmi időszakon kívüli egybefüggő gyakorlat idejében hazautazásra – a rendkívüli eseteket kivéve – nem kötelezhető.
+(2) A tanuló a szakképző intézmény útján vagy közvetlenül kérheti kollégiumi felvételét, valamint externátusi elhelyezését az Nkt. szerint. A tanuló tanítási évben (ideértve az évközi szünetek idejét is) és a tanítási éven kívüli egybefüggő gyakorlat idejében hazautazásra – a rendkívüli eseteket kivéve – nem kötelezhető.
 
 (3) A tanuló diákigazolványra jogosult.
