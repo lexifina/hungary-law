@@ -1,3 +1,3 @@
-## 9/A. [^81] A támogatás mértéke a 2. § (1) bekezdés b) pontja szerinti támogatás esetén
+## 9/A. [^86] A támogatás mértéke a 2. § (1) bekezdés b) pontja szerinti támogatás esetén
 
-[^81]: A 9/A. alcímet (13/A–13/C. §) a 426/2016. (XII. 15.) Korm. rendelet 10. §-a iktatta be.
+[^86]: A 9/A. alcímet (13/A–13/C. §) a 426/2016. (XII. 15.) Korm. rendelet 10. §-a iktatta be.

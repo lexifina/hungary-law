@@ -1,8 +1,8 @@
-13. § (1) Annak kiszámításakor, hogy a beruházás elszámolható költsége eléri-e
+13. § (1)[^84] Annak kiszámításakor, hogy a beruházás elszámolható költsége eléri-e
 
-a)[^78] a 9. § (1) bekezdés a) pont aa) alpontja szerinti esetben a folyó áron legalább 5 millió eurónak, illetve a 9. § (1) bekezdés a) pont ab) alpontja, valamint b) és c) pontja szerinti esetben a 10 millió eurónak, illetve a 9. § (1) bekezdés g) pontja szerinti esetben a folyó áron legalább 30 millió eurónak megfelelő forintösszeget, nem vehető figyelembe az összeszámítás alá eső egyéb beruházás vagy beruházások elszámolható költsége,
+a) a 9. § (1) bekezdés a) pont aa) alpontja szerinti esetben a folyó áron legalább 5 millió eurónak, illetve a 9. § (1) bekezdés a) pont ab) alpontja szerinti esetben a 10 millió eurónak megfelelő forintösszeget, nem vehető figyelembe az összeszámítás alá eső egyéb beruházás vagy beruházások elszámolható költsége,
 
-b)[^79] a nagyberuházásnak való minősítést eredményező, jelenértéken 50 millió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy – a 9. § (1) bekezdés d)–f) pontja esetében – a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
+b) a nagyberuházásnak való minősítést eredményező, jelenértéken 50 millió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy – a 9. § (1) bekezdés d) pontja esetében – a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
 (2) Azonos vagy részben azonos azonosítható elszámolható költségek esetében az e rendelet szerinti támogatás más helyi, regionális, államháztartási vagy európai uniós forrásból származó állami támogatással halmozható, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez. Az e rendelet szerinti támogatás különböző azonosítható elszámolható költségek esetében halmozható más, helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással.
 
@@ -12,8 +12,7 @@ b)[^79] a nagyberuházásnak való minősítést eredményező, jelenértéken 5
 
 (5) A tényleges támogatási intenzitás nem haladhatja meg az adott támogatási szerződésben szereplő, e rendelet alapján odaítélt állami támogatás támogatástartalma és a jelenértéken számolt elszámolható költség hányadosaként hét tizedesjegyre kerekített, százalékban kifejezett mértéket. Ha az Európai Bizottság határozatában szereplő mérték ettől eltér, akkor a tényleges támogatási intenzitás nem haladhatja meg az Európai Bizottság határozatában meghatározott mértéket.
 
-(6)[^80] A 9. § (1) bekezdés g) pontja szerinti beruházásokhoz nyújtott támogatások összértéke nem haladhatja meg a 15 milliárd forintot.
+(6)[^85]
 
-[^78]: A 13. § (1) bekezdés a) pontja a 386/2020. (VIII. 7.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^79]: A 13. § (1) bekezdés b) pontja a 390/2021. (VII. 2.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^80]: A 13. § (6) bekezdését a 386/2020. (VIII. 7.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^84]: A 13. § (1) bekezdése a 720/2021. (XII. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^85]: A 13. § (6) bekezdését a 386/2020. (VIII. 7.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 720/2021. (XII. 20.) Korm. rendelet 8. § c) pontja.
