@@ -806,6 +806,10 @@ b) további, az a) pontba nem sorolt, a felsőoktatási intézmény képzési te
 
 c) a felsőoktatási intézmény alaptevékenységéből származó szellemi értékek közösségi célú megismertetésével és gazdasági hasznosításával hozzájárulás a térsége társadalmi és gazdasági fejlődéséhez,
 
+d) nemzetközi összehasonlító jogtudományi kutatások végzése, jogtudományi kapcsolatok és együttműködés fejlesztése,
+
+e) a közép-európai országokra kiterjedő jogtudományi és államtudományi kutatási és oktatási hálózat létrehozása, működtetése, ideértve a kutatási, képzési, publikálási és népszerűsítési tevékenységek támogatását,
+
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése, érdekében
 
 a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
