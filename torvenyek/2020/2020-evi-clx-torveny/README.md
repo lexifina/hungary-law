@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-160-00-00
 | 2021-01-07 | 2010. évi CXXX. törvény | 2020-160-00-00.4 |
 | 2021-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-160-00-00.5 |
 | 2021-02-02 | 2010. évi CXXX. törvény | 2020-160-00-00.6 |
+| 2022-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2020-160-00-00.7 |
