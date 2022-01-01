@@ -1,5 +1,5 @@
 ## 6. § Ez a rendelet 2014. január 1-jén lép hatályba.
 
-7. §[^14]
+7. §[^17]
 
-[^14]: A 7. §-t a 221/2014. (IX. 4.) Korm. rendelet 740. § (2) bekezdése hatályon kívül helyezte.
+[^17]: A 7. §-t a 221/2014. (IX. 4.) Korm. rendelet 740. § (2) bekezdése hatályon kívül helyezte.
