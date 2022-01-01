@@ -60,7 +60,7 @@ a munkáltató – mérlegelése alapján – a köztisztviselő részére más 
 
 (8) A közszolgálati jogviszonynak a (7) bekezdés szerinti megszüntetése esetén a köztisztviselőt felmentési idő és végkielégítés nem illeti meg. A megszüntetés okát és jogkövetkezményeit közölni kell a köztisztviselővel.
 
-(9) Ha a rendőrségről szóló törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, a közszolgálati jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
+(9) Ha a Rendőrségről szóló törvény lehetővé teszi, hogy a köztisztviselő szolgálati feladatainak törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv – törvényben meghatározott esetekben és módon – megbízhatósági vizsgálattal ellenőrizze, közszolgálati jogviszony azzal létesíthető, aki tudomásul veszi, hogy közszolgálati jogviszonyának fennállása alatt feladatai törvényes ellátását a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló törvény szerinti megbízhatósági vizsgálattal ellenőrizheti.
 
 (10) Csak különösen indokolt esetben nevezhető ki köztisztviselőnek az e törvényben meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, erről a munkáltató a közszolgálati jogviszonyt létesíteni szándékozó személy kérelmére dönt.
 

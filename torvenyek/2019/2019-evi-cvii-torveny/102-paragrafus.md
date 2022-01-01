@@ -15,3 +15,5 @@ c) végkielégítésre nem jogosult, azonban az új jogviszonyában a végkielé
 (4) Az e törvény hatálya alá tartozó munkáltatónál foglalkoztatott munkavállaló munkaviszonyára a munka törvénykönyvéről szóló 2012. évi I. törvény 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 39. § (23)–(25) bekezdését, 72. § (1)–(10) bekezdését és 94. §-át kell alkalmazni.
 
 (5) A különleges jogállású szervnél foglalkoztatott munkavállaló munkaviszonyára a 16. § (7)–(13) bekezdését és a 17. § (4) bekezdését kell alkalmazni.
+
+(6) A munkaviszony létesítésével és megszüntetésével összefüggésben a különleges jogállású szerv jogszabályban meghatározott feltételekkel igénybe veheti, és munkavállalói számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat.

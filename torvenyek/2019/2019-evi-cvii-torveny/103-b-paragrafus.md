@@ -1,0 +1,1 @@
+103/B. § Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat.
