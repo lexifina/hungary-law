@@ -18,11 +18,11 @@ e) a Széchenyi Újraindítási Lízingkonstrukciót;
 
 1.3. a Széchenyi Kártya Program részét képező Széchenyi Munkahelymegtartó Hitel programot megszünteti azzal, hogy a bírálat alatt lévő hitelkérelmek még elbírálhatóak;
 
-1.4. a Széchenyi Turisztikai Kártya Programról szóló 1467/2020. (VIII. 3.) Korm. határozattal [a továbbiakban: 1467/2020. (VIII. 3.) Korm. határozat] bevezetett Széchenyi Turisztikai Kártya Program elnevezést Széchenyi Turisztikai Kártya Újraindítási Program elnevezésre módosítja és ezen programot az 1467/2020. (VIII. 3.) Korm. határozatban foglalt változatlan feltételekkel a Széchenyi Kártya Újraindítási Program részévé teszi azzal, hogy a Széchenyi Turisztikai Kártya Újraindítási Programban a kamattámogatás mértéke nem haladhatja meg az évi 6,7%-os mértéket.
+1.4.[^1] a Széchenyi Turisztikai Kártya Programról szóló 1467/2020. (VIII. 3.) Korm. határozattal [a továbbiakban: 1467/2020. (VIII. 3.) Korm. határozat] bevezetett Széchenyi Turisztikai Kártya Program elnevezést Széchenyi Turisztikai Kártya Újraindítási Program elnevezésre módosítja és ezen programot az 1467/2020. (VIII. 3.) Korm. határozatban foglalt változatlan feltételekkel a Széchenyi Kártya Újraindítási Program részévé teszi azzal, hogy a Széchenyi Turisztikai Kártya Újraindítási Programban a kamattámogatás mértéke nem haladhatja meg az évi 8,5%-os mértéket.
 
 2. A Kormány a Széchenyi Kártya Újraindítási Program keretében
 
-2.1.[^1] nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
+2.1.[^2] nyújtott hitelekhez és lízingkonstrukcióhoz kamattámogatást biztosít, amelyet úgy kell meghatározni, hogy a vállalkozók által fizetett nettó ügyleti kamat éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
 
 a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén a 2,5%,
 
@@ -40,7 +40,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. január 1.
 
-2.2.[^2] egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
+2.2.[^3] egyetért azzal, hogy a nyújtott hitelek és lízingkonstrukció kamattámogatása éves szinten nem haladhatja meg a fennálló tőketartozásra vetítve
 
 a) a Széchenyi Kártya Újraindítási Folyószámlahitel esetén az 5,0%,
 
@@ -164,10 +164,11 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: az 1. pont 1.1. és 1.4. alpontja szerinti konstrukciók módosítását követően azonnal
 
-4.[^3]
+4.[^4]
 
 5. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 2. pont 2.1. alpontja az 1979/2021. (XII. 27.) Korm. határozat 5. pontjával megállapított szöveg.
-[^2]: A 2. pont 2.2. alpontja az 1979/2021. (XII. 27.) Korm. határozat 6. pontjával megállapított szöveg.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.4. alpontja az 1979/2021. (XII. 27.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: A 2. pont 2.1. alpontja az 1979/2021. (XII. 27.) Korm. határozat 5. pontjával megállapított szöveg.
+[^3]: A 2. pont 2.2. alpontja az 1979/2021. (XII. 27.) Korm. határozat 6. pontjával megállapított szöveg.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
