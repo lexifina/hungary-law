@@ -50,7 +50,7 @@ bc) a képzésben részt vevő személyek előrehaladásának és teljesítmény
 
 bd) a felnőttképzési tevékenységgel kapcsolatos vélemények visszacsatolására vonatkozó eljárást,
 
-be)[^58]
+be)[^61]
 
 bf) a felnőttképzési tevékenységgel összefüggő információ nyilvánosságával összefüggő eljárást,
 
@@ -66,7 +66,7 @@ d) a felnőttképzés adatszolgáltatási rendszerével kapcsolatos dokumentum, 
 
 da) a képzésben részt vevő személyek eredményeivel kapcsolatos adatok gyűjtésére és elemzésére,
 
-db)[^59] a képzésben részt vevő személyek elégedettségmérésével kapcsolatos adatok elemzésére,
+db)[^62] a képzésben részt vevő személyek elégedettségmérésével kapcsolatos adatok elemzésére,
 
 dc) az oktatói teljesítményekkel kapcsolatos adatok gyűjtésére és elemzésére,
 
@@ -86,5 +86,5 @@ b) a minőségi jellemzőhöz az érintett tartalmi elemmel elérni kívánt cé
 
 (5) A (3) bekezdés szerint meghatározott minőségi jellemzőhöz rendelt célérték nem teljesülése esetén a felnőttképző feltárja az okokat, és a (3) bekezdés f) pontjában meghatározott helyesbítő tevékenységet végez, amely a kitűzött célérték teljesítéséhez szükséges lépéseket tartalmazza, vagy a célérték – következő időszakra vonatkozó – indokolt módosítását valósítja meg.
 
-[^58]: A 23. § (3) bekezdés b) pont be) alpontját a 688/2021. (XII. 8.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
-[^59]: A 23. § (3) bekezdés d) pont db) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 12. pontja szerint módosított szöveg.
+[^61]: A 23. § (3) bekezdés b) pont be) alpontját a 688/2021. (XII. 8.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^62]: A 23. § (3) bekezdés d) pont db) alpontja a 318/2020. (VII. 1.) Korm. rendelet 17. § 12. pontja szerint módosított szöveg.
