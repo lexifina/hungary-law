@@ -1,4 +1,6 @@
-13. § (1) A tulajdonszerzési jogosultság feltétele – ide nem értve a 10. § (3) bekezdésében, a 11. §-ban, és a 17. §-ban foglalt eseteket –, hogy a szerző fél a tulajdonjog átruházásáról szóló szerződésben vállalja, hogy a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének, továbbá vállalja, hogy a földet a tulajdonszerzés időpontjától számított 5 évig – a (3) bekezdésben meghatározott esetek kivételével – más célra nem hasznosítja.
+13. § (1) A tulajdonszerzési jogosultság feltétele – ide nem értve a 11. §-ban, a 17. §-ban, valamint a 36. § (1) bekezdés d) pontjában foglalt eseteket –, hogy a szerző fél a tulajdonjog átruházásáról szóló szerződésben vállalja, hogy a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének, továbbá vállalja, hogy a földet a tulajdonszerzés időpontjától számított 5 évig – a (3) bekezdésben meghatározott esetek kivételével – más célra nem hasznosítja.
+
+(1a) E törvény alkalmazásában föld más célú hasznosításának minősül az erdő termelésből való időleges vagy végleges kivonása is.
 
 (2) Az (1) bekezdés alkalmazásában nem minősül a használat átengedésének az, ha a tulajdonjogot szerző fél
 
@@ -12,7 +14,7 @@ ac) olyan családi mezőgazdasági társaság, amelyben tag
 
 javára engedi át;
 
-b) társult erdőgazdálkodást folytat vagy az erdőnek minősülő földet erdőkezelésbe adja, vagy
+b) társult erdőgazdálkodást folytat, az erdőnek minősülő földet erdőkezelésbe adja, vagy osztatlan közös tulajdonban álló erdőnek minősülő föld használati jogosultságát tulajdoni hányadot meghaladó mértékű többlethasználati megállapodással másik tulajdonostársnak engedi át; vagy
 
 c) vetőmagtermeléshez szükséges terület biztosítása céljából valamely érvényes jogcímen engedi át a használatot más személy részére.
 
@@ -41,3 +43,7 @@ i) állandó jellegű növényház létesítése.
 a) időtartamát nem hosszabbítja meg, és
 
 b) megszűnését követő időre az (1) bekezdésben foglalt kötelezettségeket vállalja.
+
+(5) Ha a tulajdonjogot e törvény alapján megszerző személy a föld megszerzésekor megtette az (1) bekezdés szerinti nyilatkozatot, majd a tulajdonjogot közeli hozzátartozója részére ruházza át, a közeli hozzátartozó tulajdonszerzési jogosultságának feltétele, hogy a tulajdonjog átruházásáról szóló szerződésben vállalja, hogy – a (2) bekezdésben meghatározott esetek kivételével – a föld használatát másnak nem engedi át, azt maga használja, és ennek során eleget tesz a földhasznosítási kötelezettségének.
+
+(6) Ha a tulajdonjogot e törvény alapján megszerző személy a földet az (1) bekezdésben meghatározott 5 éves időtartamon belül átruházza közeli hozzátartozója részére, a tulajdonszerzési jogosultság feltétele, hogy a közeli hozzátartozóként tulajdonjogot szerző személy a tulajdonjog átruházásáról szóló szerződésben vállalja, hogy a földet az 5 éves időtartamból még hátralévő ideig – a (3) bekezdésben meghatározott esetek kivételével – más célra nem hasznosítja.

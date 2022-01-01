@@ -14,4 +14,6 @@ f) az állam szerzése,
 
 g) a részarány-tulajdonost megillető vételi jog gyakorlása útján történő földtulajdonszerzés
 
+h) a bevett egyház vagy annak belső egyházi jogi személye részére temető létesítése vagy bővítése céljából történő átruházás
+
 esetén.

@@ -11,3 +11,5 @@
 (6) A borszőlő termőhelyi kataszterében nyilvántartott föld eladása vagy haszonbérbe adása esetén az elővásárlásra vagy előhaszonbérletre jogosultak és azok sorrendje tekintetében e törvény rendelkezéseit a hegyközségekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) E törvény rendelkezéseit a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvényben foglalt eltérésekkel kell alkalmazni.
+
+(8) E törvény rendelkezéseit az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvényben foglalt eltérésekkel kell alkalmazni.

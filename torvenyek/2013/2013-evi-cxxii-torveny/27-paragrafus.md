@@ -1,4 +1,4 @@
-27. § (1) A mezőgazdasági igazgatási szerv – a 23. § (1) és (2) bekezdésében meghatározott eseteken túl – az adás-vételi szerződés jóváhagyását megtagadja
+27. § (1) A mezőgazdasági igazgatási szerv – a 23. § (3) bekezdésében meghatározott eseteken túl – az adás-vételi szerződés jóváhagyását megtagadja
 
 a) ha a helyi földbizottság az állásfoglalása alapján egyik elővásárlásra jogosulttal és az adás-vételi szerződés szerinti vevővel sem támogatja az adás-vételi szerződés jóváhagyását, míg csereszerződés esetén a helyi földbizottság az állásfoglalása alapján bármelyik szerződő féllel nem támogatja a csereszerződés jóváhagyását,
 
@@ -6,7 +6,7 @@ b) a (2) bekezdésben meghatározott esetekben.
 
 (2) A mezőgazdasági igazgatási szervnek meg kell tagadnia az adás-vételi szerződés és a csereszerződés jóváhagyását, ha
 
-a) utóbb megállapítja, hogy a 23. § (1) és (2) bekezdésében foglaltak alapján az adás-vételi szerződés jóváhagyása megtagadásának lett volna helye, vagy
+a) utóbb megállapítja, hogy a 23. § (3) bekezdésében foglaltak alapján az adás-vételi szerződés jóváhagyása megtagadásának lett volna helye, vagy
 
 b) a helyi földbizottság által támogatott elővásárlásra jogosulttal vagy jogosultakkal, illetve az adás-vételi szerződés szerinti vevővel szemben megállapítja, hogy
 

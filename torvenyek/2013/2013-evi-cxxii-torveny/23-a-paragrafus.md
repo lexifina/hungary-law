@@ -14,8 +14,8 @@ f) a mezőgazdaságban a generációváltás elősegítésére
 
 vonatkozó általános agrárpolitikai és földbirtok-politikai érdekeknek.
 
-(2) A 23. § (3) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a rendelkezésére álló okiratok, a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatának és az általa készített jegyzék másolatának megküldésével haladéktalanul megkeresi a helyi földbizottságot állásfoglalásának beszerzése céljából.
+(2) A 23. § (5) bekezdésben meghatározott esetben a mezőgazdasági igazgatási szerv a rendelkezésére álló okiratok, a jegyzékben szereplő valamennyi elővásárlásra jogosult elfogadó jognyilatkozatának és az általa készített jegyzék másolatának megküldésével haladéktalanul megkeresi a helyi földbizottságot állásfoglalásának beszerzése céljából.
 
-(3) Ha a 23. § (4) bekezdésben foglalt esetek valamelyike áll fenn, a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a mezőgazdasági igazgatási szerv jegyzék nélkül keresi meg a helyi földbizottságot.
+(3) Ha a 23. § (6) bekezdésben foglalt esetek valamelyike áll fenn, a (2) bekezdésben foglaltakat kell alkalmazni azzal az eltéréssel, hogy a mezőgazdasági igazgatási szerv jegyzék nélkül keresi meg a helyi földbizottságot.
 
 (4) A helyi földbizottsági jogkörben eljárva a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarát a mezőgazdasági igazgatási szerv adás-vételi, valamint csere szerződést jóváhagyó, vagy megtagadó határozatával kapcsolatos e törvény szerinti eljárásában az ügyfél jogállása, a mezőgazdasági igazgatási szerv adás-vételi, valamint csere szerződést jóváhagyó, vagy megtagadó határozatának bírósági felülvizsgálata vonatkozásában pedig keresetindítási jog illeti meg.

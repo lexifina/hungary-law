@@ -6,6 +6,12 @@
 
 (4) Az állattartó telep működtetését igazolni kell. Az igazolás céljára szolgáló hatósági bizonyítványt az üzemeltető kérelmére az élelmiszerlánc-felügyeleti szerv adja ki. A hatósági bizonyítványban a tényleges állattartást és a nyilvántartás szerinti állatlétszámot is igazolni kell.
 
-(5) Több földnek egybefoglalt vételáron történő eladására akkor kerülhet sor, ha azok egymással szomszédosak, vagy a földhasználati nyilvántartásba bejegyzett földhasználója ugyanaz a személy.
+(5) Több földnek egybefoglalt vételáron történő eladására akkor kerülhet sor, ha azok egymással szomszédosak. Egybefoglalt vételáron történő eladásra akkor is sor kerülhet, ha a földek azonos vagy szomszédos járás területén fekszenek és a földek bejegyzett földhasználója
+
+a) az eladó; vagy
+
+b) legalább három éve a vevő.
+
+(5a) Több föld egybefoglalt vételáron történő eladása esetén a földműves tulajdonostársat a 18. § (3) bekezdése alapján megillető elővásárlási jog csak akkor gyakorolható, ha ezen elővásárlási jogosultság valamennyi érintett ingatlan vonatkozásában fennáll.
 
 (6) Egy elfogadó jognyilatkozatban több elővásárlásra jogosult közösen is gyakorolhatja e jogosultságát. Az elővásárlásra jogosultak sorrendjének megállapítása során az elővásárlási jogot közösen gyakorló jogosultak ranghelyének meghatározásakor azt a jogosultat kell figyelembe venni, aki közülük a jogosulti rangsor szerint az utolsó helyen áll.

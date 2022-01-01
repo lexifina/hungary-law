@@ -12,6 +12,8 @@
 
 (4) Az állattartó telep működtetését igazolni kell. Az igazolás céljára szolgáló hatósági bizonyítványt az üzemeltető kérelmére az élelmiszerlánc-felügyeleti szerv adja ki. A hatósági bizonyítványban a tényleges állattartást és a nyilvántartás szerinti állatlétszámot is igazolni kell.
 
-(5) Több föld egybefoglalt haszonbér ellenében történő haszonbérbe adására akkor kerülhet sor, ha azok egymással szomszédosak, vagy a földhasználati nyilvántartásba bejegyzett földhasználója ugyanaz a személy.
+(5) Több föld egybefoglalt haszonbér ellenében történő haszonbérbe adására akkor kerülhet sor, ha azok egymással szomszédosak. Egybefoglalt haszonbér ellenében történő haszonbérbe adásra akkor is sor kerülhet, ha a földek bejegyzett földhasználója legalább három éve ugyanaz a személy és a földek azonos vagy szomszédos járás területén fekszenek.
+
+(5a) Több föld egybefoglalt haszonbér ellenében történő haszonbérbe adása esetén, a földműves tulajdonostársat a 46. § (2) bekezdése alapján megillető előhaszonbérleti jog csak akkor gyakorolható, ha ezen előhaszonbérleti jogosultság valamennyi érintett ingatlan vonatkozásában fennáll.
 
 (6) Az olyan föld haszonbérbe adása esetén, amely földrészleten belül erdőnek minősülő és erdőnek nem minősülő alrészlet is található, a 45. § szerinti előhaszonbérleti jog abban az esetben áll fenn, ha az erdőnek minősülő föld területnagysága meghaladja az erdőnek nem minősülő föld területnagyságát.

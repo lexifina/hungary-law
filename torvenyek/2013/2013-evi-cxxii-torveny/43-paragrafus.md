@@ -1,4 +1,4 @@
-43. § (1) A földhasználati jogosultság megszerzésének megengedett mértékére – a (2)–(3) bekezdésben meghatározott eltérésekkel – a 16. § (2)–(5) bekezdésében foglaltak az irányadók.
+43. § (1) A földhasználati jogosultság megszerzésének megengedett mértékére – a (2)–(3) bekezdésben meghatározott eltérésekkel – a 16. § (2)–(5) és (8) bekezdésében foglaltak az irányadók.
 
 (2) A birtokmaximum 1800 hektár területnagyság mértékig meghaladható a mezőgazdasági termelőszervezet legalább 1 éve tagjának tulajdonában álló föld használatával.
 

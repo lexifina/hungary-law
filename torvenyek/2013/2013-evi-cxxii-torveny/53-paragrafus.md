@@ -1,6 +1,6 @@
-53. § (1) A mezőgazdasági igazgatási szerv – az 51. § (1) és (2) bekezdésében meghatározott eseteken túl – a haszonbérleti szerződés jóváhagyását megtagadja ha
+53. § (1) A mezőgazdasági igazgatási szerv – az 51. § (3) bekezdésében meghatározott eseteken túl – a haszonbérleti szerződés jóváhagyását megtagadja ha
 
-a) utóbb megállapítja, hogy az 51. § (1) és (2) bekezdésében foglaltak alapján a haszonbérleti szerződés jóváhagyása megtagadásának lett volna helye;
+a) utóbb megállapítja, hogy az 51. § (3) bekezdésében foglaltak alapján a haszonbérleti szerződés jóváhagyása megtagadásának lett volna helye;
 
 b) a haszonbérleti szerződés alkalmas a vonatkozó jogszabályi korlátozások megkerülésére;
 
@@ -18,10 +18,14 @@ e) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérlet
 
 f) az erdőnek minősülő föld haszonbérbe adása esetén a szerződés nem felel meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvényben meghatározott feltételeknek.
 
+g) a haszonbérleti szerződés szerinti ellenszolgáltatás (a továbbiakban: haszonbér) vagy a haszonbérleti szerződésben szereplő egyéb ellenszolgáltatásra irányuló rendelkezés értéke aránytalan.
+
 (2) Az (1) bekezdésben foglaltakon túl, a mezőgazdasági igazgatási szerv megtagadhatja a haszonbérleti szerződés jóváhagyását, különösen, ha
 
-a) a haszonbérleti szerződés szerinti ellenszolgáltatás (a továbbiakban: haszonbér) értékének aránytalansága alkalmas volt arra, hogy a haszonbérlő előhaszonbérletre jogosultat távol tartson az előhaszonbérleti jogának gyakorlásától, vagy
+a)
 
 b) a jegyzék szerinti rangsor alapján az első helyen álló előhaszonbérletre jogosult(ak), illetve a soron következő előhaszonbérletre jogosult(ak), vagy a haszonbérleti szerződés szerinti haszonbérlő – a haszonbérleti szerződés közlését megelőző 5 éven belül – a birtokában álló föld 25 százalékának megfelelő földterületen a földhasznosítási kötelezettségének termelés folytatása nélkül tett eleget.
+
+(2a) Az (1) bekezdés g) pontjának alkalmazása során a haszonbér értékét aránytalannak kell tekinteni, ha az érintett föld nem rendelkezik olyan előnyös tulajdonságokkal, amelyek a helyben szokásos haszonbér mértékétől való eltérést indokolják. Előnyös tulajdonságként lehet figyelembe venni a föld fekvését, a föld minőségét (aranykorona értékét), öntözhetőségét, művelhetőségét, közútról való megközelíthetőségét, azonban nem lehet figyelembe venni bizonytalan, jövőbeni eseményeket, és legalább részben a haszonbérlő elhatározásától, kockázatvállalásától függő körülményeket. Az átlagos haszonbértől való eltérés esetén annak okát a szerződésben igazolni kell. A haszonbérleti szerződés jóváhagyása iránti eljárás során a mezőgazdasági igazgatási szerv felhívására a haszonbérbe adó köteles bizonyítani a haszonbér értékének arányosságát.
 
 (3) A (2) bekezdés b) pontjában foglalt területi mérték megállapításánál – a 4. §-ban foglaltaktól eltérően – az előhaszonbérletre jogosult(ak), vagy a haszonbérleti szerződés szerinti haszonbérlő birtokában föld(ek)nek csak az 5. § 17. pontjában meghatározott művelési ágban nyilvántartott területét lehet figyelembe venni.

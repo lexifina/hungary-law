@@ -17,3 +17,5 @@ f) a 40. § (2)–(4) bekezdésben meghatározott földhasználati szerződéshe
 g) tanya földhasználati jogosultságának az átengedéséhez.
 
 (2) A mezőgazdasági igazgatási szerv kérelemre igazolást állít ki arról, hogy a földhasználati jogosultság megszerzéséről szóló szerződés hatályosságához az e törvény előírásai alapján nem kell a jóváhagyása.
+
+(3) Ha a mentesség az (1) bekezdés g) pontján alapul és a szerződés tárgyát képező földrészlet az ingatlan-nyilvántartásban tanyaként nem szerepel, az ingatlan-nyilvántartási adatokból pedig nem állapítható meg egyértelműen az ingatlanon lévő épületek rendeltetése, akkor a kérelemhez csatolni kell az épületek rendeltetésének igazolására alkalmas dokumentumot.
