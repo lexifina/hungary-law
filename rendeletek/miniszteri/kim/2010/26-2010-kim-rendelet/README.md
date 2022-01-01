@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-26-20-2
 | 2015-01-30 | 2010-26-20-2T.3 | 1/2015. (I. 22.) IM rendelet |
 | 2017-01-01 | 2010-26-20-2T.4 | 29/2016. (XII. 27.) IM rendelet |
 | 2019-06-28 | 2010-26-20-2T.5 | 15/2019. (VI. 13.) IM rendelet |
+| 2022-01-01 | 2010-26-20-2T.6 | 18/2021. (XII. 23.) IM rendelet |
