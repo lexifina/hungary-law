@@ -1,5 +1,3 @@
-## 41. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban levő ügyekben is alkalmazni kell.
-
 ## 24. Az Európai Unió jogának való megfelelés
 
 ## 42. § Ez a rendelet
