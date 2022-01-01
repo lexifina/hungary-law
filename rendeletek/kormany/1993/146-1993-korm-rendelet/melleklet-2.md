@@ -1,40 +1,31 @@
-## Nyilatkozat az adatszolgáltatás korlátozásáról
+## Az adatszolgáltatás korlátozásáról szóló nyilatkozathoz a következő adatokat kell megadni
 
-## Érkezett:
+## 1. Érintett:
 
-## Ikt. szám:
+## – családi neve,
 
-## Továbbítva:
+## – utóneve, utónevei,
 
-## Címzett:
+## – anyja születési családi neve,
 
-## Én[^310]
+## – születési neve,
 
-## – családi neve:
+## – lakóhelye,
 
-## – utóneve(i):
+## – tartózkodási helye,
 
-## – anyja születési családi neve:
+## – személyi azonosítója.
 
-## – születési neve:
+## 2. Nyilatkozat arról, hogy a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 2. § (1) bekezdése alapján az érintett a róla nyilvántartott adatok
 
-## = lakóhelye (állandó lakcím):
+## a) tudományos kutatás céljából,
 
-## = tartózkodási helye (ideiglenes lakcím):
+## b) közvélemény-kutatás és piackutatás céljából történő vagy
 
-## – személyi azonosítója (volt személyi szám):
+## c) teljes körű
 
-## a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 2. §-ának (1) bekezdése alapján a rólam nyilvántartott adatok kiadását megtiltom.
-
-## Tudomásul veszem, hogy a járási hivatal, Budapest Főváros Kormányhivatala vagy a személyiadat- és lakcímnyilvántartásért felelős miniszter által vezetett minisztérium megkeresésére – eseti engedélyem alapján – az adatszolgáltatási tilalmat feloldhatom.
-
-## A nyilatkozat nem érinti a törvényben kötelezően előírt adatszolgáltatások teljesítését (pl. adóigazgatás, honvédelmi nyilvántartás, ingatlan-nyilvántartás), továbbá a törvény 20. §-a alapján engedélyezett adatszolgáltatásokat.
-
-## Kelt:
-
-## Aláírás / Elektronikus aláírás
+## kiadását tiltja meg.
 
 2. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^311]
 
-[^310]: A házassági, illetve a születési anyakönyvi kivonata alapján a nyilatkozattevőt megillető nevet kell feltüntetni.
 [^311]: Az R. 2. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés a) pontjával megállapított, a 375/2021. (VI. 30.) Korm. rendelet 4. § 15. pontja szerint módosított szöveg.
