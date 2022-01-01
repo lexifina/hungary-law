@@ -4,6 +4,6 @@
 
 (3) A kimenő, az eltávozás és a szabadság alatt a fiatalkorú a házirendben meghatározottak szerint költhet a zsebpénzéből vagy a letéti pénzéből.
 
-(4)[^30] A kimenő, az eltávozás és a szabadság időtartamát, továbbá az eltávozás és a szabadság esetében a fiatalkorú kijelölt tartózkodási helyét rögzíteni kell a javítóintézeti informatikai rendszerben.
+(4)[^33] A kimenő, az eltávozás és a szabadság időtartamát, továbbá az eltávozás és a szabadság esetében a fiatalkorú kijelölt tartózkodási helyét rögzíteni kell a javítóintézeti informatikai rendszerben.
 
-[^30]: A 39. § (4) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.
+[^33]: A 39. § (4) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.

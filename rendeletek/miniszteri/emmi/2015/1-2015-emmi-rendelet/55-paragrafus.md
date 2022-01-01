@@ -1,8 +1,8 @@
-## 54. §[^45] A letartóztatás javítóintézetben történő végrehajtása során a II. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
+## 54. §[^48] A letartóztatás javítóintézetben történő végrehajtása során a II. Fejezet rendelkezéseit az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
 ## 27. A befogadás
 
-55. § (1)[^46] A javítóintézet a fiatalkorút a letartóztatást elrendelő és annak javítóintézetben történő végrehajtásáról rendelkező bírósági határozat, valamint a rendelkezési jogkör gyakorlójának rendelvénye alapján fogadja be.
+55. § (1)[^49] A javítóintézet a fiatalkorút a letartóztatást elrendelő és annak javítóintézetben történő végrehajtásáról rendelkező bírósági határozat, valamint a rendelkezési jogkör gyakorlójának rendelvénye alapján fogadja be.
 
 (2) A fiatalkorúról azonosító kártyát nem kell kiállítani.
 
@@ -10,14 +10,14 @@
 
 a) a nyomozás befejezéséig a nyomozó hatóságot,
 
-b)[^47] a nyomozás befejezését követően, a vádemelés előtt az ügyészséget, vagy
+b)[^50] a nyomozás befejezését követően, a vádemelés előtt az ügyészséget, vagy
 
-c)[^48] a vádemelés után a bíróságot.
+c)[^51] a vádemelés után a bíróságot.
 
-(4)[^49] A befogadáskor a fiatalkorút tájékoztatni kell az orvosi vizsgálathoz való jogáról és arról, hogy kérelemre mely esetekben kötelező azt elvégezni.
+(4)[^52] A befogadáskor a fiatalkorút tájékoztatni kell – a Bv. tv. 12. § (6) bekezdésében foglaltak figyelembevételével – a Bv. tv. 12. § (5) és (5a) bekezdésében meghatározottakról, ideértve az orvosi vizsgálathoz való jogáról és arról, hogy kérelemre mely esetekben kötelező azt elvégezni.
 
-[^45]: Az 54. § a 6/2019. (III. 12.) EMMI rendelet 5. § k) pontja szerint módosított szöveg.
-[^46]: Az 55. § (1) bekezdése a 6/2019. (III. 12.) EMMI rendelet 5. § l) pontja szerint módosított szöveg.
-[^47]: Az 55. § (3) bekezdés b) pontja a 6/2019. (III. 12.) EMMI rendelet 5. § m) pontja szerint módosított szöveg.
-[^48]: Az 55. § (3) bekezdés c) pontja a 6/2019. (III. 12.) EMMI rendelet 5. § n) pontja szerint módosított szöveg.
-[^49]: Az 55. § (4) bekezdését a 4/2018. (I. 23.) EMMI rendelet 3. §-a iktatta be.
+[^48]: Az 54. § a 6/2019. (III. 12.) EMMI rendelet 5. § k) pontja szerint módosított szöveg.
+[^49]: Az 55. § (1) bekezdése a 6/2019. (III. 12.) EMMI rendelet 5. § l) pontja szerint módosított szöveg.
+[^50]: Az 55. § (3) bekezdés b) pontja a 6/2019. (III. 12.) EMMI rendelet 5. § m) pontja szerint módosított szöveg.
+[^51]: Az 55. § (3) bekezdés c) pontja a 6/2019. (III. 12.) EMMI rendelet 5. § n) pontja szerint módosított szöveg.
+[^52]: Az 55. § (4) bekezdését a 4/2018. (I. 23.) EMMI rendelet 3. §-a iktatta be, szövege a 62/2021. (XII. 29.) EMMI rendelet 23. §-ával megállapított szöveg.

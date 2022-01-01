@@ -1,4 +1,4 @@
-16. § (1) A befogadáskor szóban és írásban – a fiatalkorú számára érthető megfogalmazással – tájékoztatni kell a fiatalkorút
+16. § (1)[^13] A befogadáskor írásban és röviden szóban, valamint a befogadást követő legfeljebb 72 órán belül részletesen szóban – a fiatalkorú számára érthető megfogalmazással – tájékoztatni kell a fiatalkorút
 
 a) a Bv. tv. 12. § (3) és (4) bekezdésében meghatározottakról,
 
@@ -11,3 +11,5 @@ d) a javítóintézeti nevelés szabadságvesztésre való átváltoztatásának
 (2) A fiatalkorút a Bv. tv. 349. § (2) bekezdésében foglaltakról – ide értve az ideiglenes elbocsátás első lehetséges időpontját is – a befogadást követő nyolc napon belül tájékoztatni kell.
 
 (3) Ha a fiatalkorú nem tud olvasni, a szóbeli tájékoztatás megtörténtének tényét és a tájékoztatásban foglaltak tudomásulvételét – két tanú jelenlétében – írásban rögzíteni kell.
+
+[^13]: A 16. § (1) bekezdés nyitó szövegrésze a 62/2021. (XII. 29.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.

@@ -4,20 +4,20 @@
 
 (3) A fiatalkorú ideiglenes és végleges elbocsátásáról és annak időpontjáról a javítóintézet értesíti
 
-a)[^38] a fiatalkorú lakóhelye szerinti gyámhivatalt,
+a)[^41] a 18 év alatti fiatalkorú esetében a lakóhelye szerinti gyámhivatalt,
 
-b)[^39] a nevelésbe vett fiatalkorú nevelésbe vételét elrendelő gyámhivatalt,
+b)[^42] az ideiglenes hatállyal elhelyezett, nevelésbe vett vagy utógondozói ellátásban részesült fiatalkorú ideiglenes hatályú elhelyezését, nevelésbe vételét vagy utógondozói ellátását elrendelő gyámhivatalt,
 
 c) a fiatalkorú törvényes képviselőjét, és
 
 d) a nevelésbe vett fiatalkorú szülőjét, ha szülői felügyeleti jogát a bíróság nem szüntette meg,
 
-e)[^40] az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek esetén a gyermek ügyében eljáró területi gyermekvédelmi szakszolgálatot.
+e)[^43] az ideiglenes hatállyal elhelyezett, a nevelésbe vett vagy utógondozói ellátásban részesült fiatalkorú esetén a fiatalkorú ügyében illetékes területi gyermekvédelmi szakszolgálatot.
 
 (4) A fiatalkorú törvényes képviselője részére küldött értesítésnek tartalmaznia kell az arról való tájékoztatást, hogy elbocsátáskor a fiatalkorú csak a törvényes képviselőnek, a javítóintézet székhelyén adható át, továbbá, hogy a fiatalkorú csak a törvényes képviselő írásbeli kérésére indítható útnak egyedül.
 
 (5) A fiatalkorú végleges elbocsátásáról és annak időpontjáról a javítóintézet értesíti a javítóintézeti nevelést elrendelő bíróságot.
 
-[^38]: A 48. § (3) bekezdés a) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
-[^39]: A 48. § (3) bekezdés b) pontja a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
-[^40]: A 48. § (3) bekezdés e) pontját a 34/2020. (X. 2.) EMMI rendelet 20. §-a iktatta be.
+[^41]: A 48. § (3) bekezdés a) pontja a 62/2021. (XII. 29.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^42]: A 48. § (3) bekezdés b) pontja a 62/2021. (XII. 29.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^43]: A 48. § (3) bekezdés e) pontját a 34/2020. (X. 2.) EMMI rendelet 20. §-a iktatta be, szövege a 62/2021. (XII. 29.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.

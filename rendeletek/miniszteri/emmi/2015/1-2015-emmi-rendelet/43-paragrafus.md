@@ -12,6 +12,6 @@ c) közvetítői eljárás igénybevétele esetén dönt a fegyelmi eljárás va
 
 (4) A fegyelmi bizottság határozata ellen – az (1) bekezdés c) pontja szerinti döntés kivételével – a fiatalkorú a javítóintézet igazgatójánál panasszal élhet. Az igazgató a panaszt öt munkanapon belül megvizsgálja, és dönt a határozatban foglaltak helybenhagyásáról, a határozatban kiszabott büntetés megsemmisítéséről, vagy más fegyelmi büntetés kiszabásáról. A fegyelmi határozat felülbírálata során az igazgató a határozatban foglaltaknál szigorúbb büntetést nem szabhat ki.
 
-(5)[^33] A fegyelmi büntetés kiszabásának tényét, a kiszabott büntetés formáját, valamint a meghatározott időre szóló büntetés időtartamát rögzíteni kell a javítóintézeti informatikai rendszerben.
+(5)[^36] A fegyelmi büntetés kiszabásának tényét, a kiszabott büntetés formáját, valamint a meghatározott időre szóló büntetés időtartamát rögzíteni kell a javítóintézeti informatikai rendszerben.
 
-[^33]: A 43. § (5) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § c) pontja szerint módosított szöveg.
+[^36]: A 43. § (5) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § c) pontja szerint módosított szöveg.

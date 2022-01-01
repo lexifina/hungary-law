@@ -6,6 +6,6 @@
 
 (4) A szökésből visszakerült fiatalkorút és törvényes képviselőjét tájékoztatni kell a fegyelmi eljárás megindításáról.
 
-(5)[^32] A szökés időtartamát, valamint a visszaérkezés módját rögzíteni kell a javítóintézeti informatikai rendszerben.
+(5)[^35] A szökés időtartamát, valamint a visszaérkezés módját rögzíteni kell a javítóintézeti informatikai rendszerben.
 
-[^32]: A 41. § (5) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.
+[^35]: A 41. § (5) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.
