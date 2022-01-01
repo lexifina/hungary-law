@@ -1,6 +1,6 @@
-## 57. §[^110]
+## 57. §[^111]
 
-## 9/A.[^111] Megtérítési kötelezettség
+## 9/A.[^112] Megtérítési kötelezettség
 
 57/A. § (1) A Hszt. 100. §-ában foglaltak alkalmazásában tanulmányi támogatásnak minősülő pénzbeli juttatás különösen:
 
@@ -24,5 +24,5 @@ e) a tanulmányi szerződésben vagy megállapodásban rögzített egyéb pénzb
 
 (6) A tanulmányi támogatás visszatérítésére az állományilletékes parancsnoknak írásban kell a hivatásos állomány tagját felszólítania. Az igény érvényesítésére a kártérítésre vonatkozó szabályok szerint kell eljárni.
 
-[^110]: Az 57. §-t a 9/2018. (IV. 25.) BM rendelet 65. § c) pontja hatályon kívül helyezte.
-[^111]: A 9/A. alcím (57/A. §) a 77/2015. (XII. 22.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^111]: Az 57. §-t a 9/2018. (IV. 25.) BM rendelet 65. § c) pontja hatályon kívül helyezte.
+[^112]: A 9/A. alcím (57/A. §) a 77/2015. (XII. 22.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
