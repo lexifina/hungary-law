@@ -1,6 +1,6 @@
-## Átmeneti rendelkezések[^300]
+## Átmeneti rendelkezések[^301]
 
-99/A. §[^301] (1) A 2013. július 1-jét megelőzően elkövetett bűncselekmények miatt folytatott büntetőeljárások során a 66. §, 69. § és 78. § alkalmazása esetén az e rendelet 2013. június 30-án hatályban volt rendelkezései szerint kell eljárni.
+99/A. §[^302] (1) A 2013. július 1-jét megelőzően elkövetett bűncselekmények miatt folytatott büntetőeljárások során a 66. §, 69. § és 78. § alkalmazása esetén az e rendelet 2013. június 30-án hatályban volt rendelkezései szerint kell eljárni.
 
 (2) Ha a bűnjel lefoglalására vagy a bűnjel létrehozására 2021. január 1. napját megelőzően került sor, és a bűnjel KBR-ben való rögzítésére még nem került sor, a bűnjel adatainak KBR-ben történő rögzítésére a hatóság vagy a bűnjelkezelő a bűnjel átadása esetén, a bűnjel átadását megelőzően köteles.
 
@@ -14,5 +14,5 @@
 
 (7) A moratórium ideje alatt a bűnjel adataiban bekövetkezett változásoknak a KBR-ben való rögzítését a moratórium lejártát követően kell elvégezni, és ha az változatlanul szükséges, ezt követően kell a bűnjel átadását elvégezni.
 
-[^300]: A 99/A. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 64. §-a iktatta be.
-[^301]: A 99/A. §-t a 9/2013. (VI. 29.) KIM rendelet 64. §-a iktatta be, szövege a 20/2020. (XII. 30.) IM rendelet 37. §-ával megállapított szöveg.
+[^301]: A 99/A. §-t megelőző alcímet a 9/2013. (VI. 29.) KIM rendelet 64. §-a iktatta be.
+[^302]: A 99/A. §-t a 9/2013. (VI. 29.) KIM rendelet 64. §-a iktatta be, szövege a 20/2020. (XII. 30.) IM rendelet 37. §-ával megállapított szöveg.
