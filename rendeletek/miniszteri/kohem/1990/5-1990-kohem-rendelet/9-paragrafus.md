@@ -16,25 +16,26 @@ b) különleges – a közúti áruszállításra nem alkalmas – egyedi rendel
 
 c)[^97] legfeljebb 3500 kg megengedett legnagyobb össztömegű fék nélküli vagy ráfutófékes pótkocsi,
 
-d) a 19/A. §-ban meghatározott feltételeknek megfelelő muzeális jellegű jármű, továbbá
+d)[^98] a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott feltételeknek megfelelő muzeális jellegű jármű, továbbá
 
-e)[^98] az MR. 112/B. és 112/C. §-ban meghatározott feltételeknek megfelelő jármű,
+e)[^99] az MR. 112/B. és 112/C. §-ban meghatározott feltételeknek megfelelő jármű,
 
-f)[^99] trolibusz.
+f)[^100] trolibusz.
 
-(4)[^100] Nem kell előzetes hatósági (összeépítési) engedély a közúton személy- vagy teherszállítást nem végző, pótkocsit nem vontató lassú járműnek és az MR 118. §-ában említett lassú járműnek, valamint a lassú jármű teherszállítást nem végző pótkocsijának az összeépítéséhez.
+(4)[^101] Nem kell előzetes hatósági (összeépítési) engedély a közúton személy- vagy teherszállítást nem végző, pótkocsit nem vontató lassú járműnek és az MR 118. §-ában említett lassú járműnek, valamint a lassú jármű teherszállítást nem végző pótkocsijának az összeépítéséhez.
 
 (5) Jármű összeépítéséhez, új, felújított, javított, illetőleg bontás során kinyert és javítás nélkül beépíthetőnek minősített alkatrészek használhatók. Ezekre az alkatrészekre — a gyári új alkatrészek kivételével — a pótalkatrészekre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 
 (6) Lassú jármű összeépítés útján nem készülhet gépkocsialváz vagy karosszéria felhasználásával.
 
-(7)[^101] Az összeépített járművet forgalomba helyezés előtti vizsgálat céljából be kell mutatni a közlekedési hatóságnak. Az összeépített jármű forgalomba helyezés előtti vizsgálata során az érvényes összeépítési engedély egyedi forgalomba helyezési engedélynek minősül. Ha a közlekedési hatóság az összeépítésre feltételt állapított meg, a feltétel teljesítését is igazolni kell.
+(7)[^102] Az összeépített járművet forgalomba helyezés előtti vizsgálat céljából be kell mutatni a közlekedési hatóságnak. Az összeépített jármű forgalomba helyezés előtti vizsgálata során az érvényes összeépítési engedély egyedi forgalomba helyezési engedélynek minősül. Ha a közlekedési hatóság az összeépítésre feltételt állapított meg, a feltétel teljesítését is igazolni kell.
 
 [^94]: A 9. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 6. §-ával megállapított, a 18/2013. (V. 9.) NFM rendelet 14. § b) pontja szerint módosított szöveg.
 [^95]: A 9. § (2) bekezdése a 34/2004. (III. 30.) GKM rendelet 3. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^96]: A 9. § (3) bekezdése a 83/2005. (X. 11.) GKM rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 65/2012. (XII. 10.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^97]: A 9. § (3) bekezdés c) pontja a 62/2011. (XI. 29.) NFM rendelet 5. §-ával megállapított szöveg.
-[^98]: A 9. § (3) bekezdés e) pontja a 22/2012. (V. 8.) NFM rendelet 3. §-ával megállapított szöveg.
-[^99]: A 9. § (3) bekezdés f) pontját a 65/2012. (XII. 10.) NFM rendelet 2. § (2) bekezdése iktatta be.
-[^100]: A 9. § (4) bekezdése a 83/2005. (X. 11.) GKM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^101]: A 9. § (7) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 3. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) és m) pontja szerint módosított szöveg.
+[^98]: A 9. § (3) bekezdés d) pontja a 42/2021. (IX. 8.) ITM rendelet 4. § a) pontja szerint módosított szöveg.
+[^99]: A 9. § (3) bekezdés e) pontja a 22/2012. (V. 8.) NFM rendelet 3. §-ával megállapított szöveg.
+[^100]: A 9. § (3) bekezdés f) pontját a 65/2012. (XII. 10.) NFM rendelet 2. § (2) bekezdése iktatta be.
+[^101]: A 9. § (4) bekezdése a 83/2005. (X. 11.) GKM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^102]: A 9. § (7) bekezdése a 21/1995. (XII. 15.) KHVM rendelet 3. §-ával megállapított, a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés b) és m) pontja szerint módosított szöveg.
