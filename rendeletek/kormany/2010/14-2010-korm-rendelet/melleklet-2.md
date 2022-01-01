@@ -46,7 +46,7 @@
 
 2. melléklet a 14/2010. (II. 5.) Korm. rendelethez[^10]
 
-A légiközlekedési hatóság és a katonai légügyi hatóság által vezetett nyilvántartásban szereplő szakértői szakterületek
+A honvédelemért, valamint a közlekedésért felelős miniszter által vezetett nyilvántartásban szereplő szakértői szakterületek
 
 | Szakterület megnevezése | Képesítési feltétel | A képesítés megszerzésétől számított szakmai gyakorlati idő |
 
@@ -128,4 +128,4 @@ A légiközlekedési hatóság és a katonai légügyi hatóság által vezetett
 
 | 39. légiközlekedési jogi | jogász | 10 év |
 
-[^10]: A 2. melléklet a 431/2017. (XII. 20.) Korm. rendelet 51. § f) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 49. §-át.
+[^10]: A 2. melléklet a 431/2017. (XII. 20.) Korm. rendelet 51. § f) pontja, a 789/2021. (XII. 27.) Korm. rendelet 32. §-a szerint módosított szöveg.
