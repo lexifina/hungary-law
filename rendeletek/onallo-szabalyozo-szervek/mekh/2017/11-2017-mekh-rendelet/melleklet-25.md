@@ -1,5 +1,5 @@
 ## 20175Z20000011_49
 
-25. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^47]
+25. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^45]
 
-[^47]: A 25. melléklet a 2/2021. (III. 24.) MEKH rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^45]: A 25. melléklet a 17/2021. (XII. 16.) MEKH rendelet 2. § (8) bekezdésével megállapított szöveg.

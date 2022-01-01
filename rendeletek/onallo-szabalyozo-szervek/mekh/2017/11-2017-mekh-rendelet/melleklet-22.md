@@ -1,5 +1,5 @@
 ## 20175Z20000011_21
 
-22. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^44]
+22. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^42]
 
-[^44]: A 22. melléklet a 6/2020. (VI. 29.) MEKH rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^42]: A 22. melléklet a 17/2021. (XII. 16.) MEKH rendelet 2. § (7) bekezdésével megállapított szöveg.

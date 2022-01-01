@@ -1,5 +1,5 @@
-## 20175Z20000011_144
+## 20175Z20000011_153
 
-9. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^34]
+9. melléklet a 11/2017. (VIII. 25.) MEKH rendelethez[^32]
 
-[^34]: A 9. melléklet a 12/2021. (IX. 20.) MEKH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^32]: A 9. melléklet a 17/2021. (XII. 16.) MEKH rendelet 2. § (5) bekezdésével megállapított szöveg.
