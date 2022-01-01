@@ -1,7 +1,7 @@
-## 30/D. §[^34] A miniszter a rozsdaövezeti akcióterületekkel kapcsolatos ügyekért való felelőssége keretében előkészíti a rozsdaövezeti akcióterületekkel kapcsolatos jogszabályokat.
+## 30/J. §[^44] A miniszter a szociál- és nyugdíjpolitikáért való felelőssége keretében a nyugdíjjárulék- és nyugdíj-biztosításijárulék-fizetés szabályozásáért felelős miniszterrel együttműködve előkészíti a társadalombiztosítási nyugellátásokra vonatkozó jogszabályokat.
 
 ## III. Fejezet
 
 ## A MINISZTERELNÖK ÁLTALÁNOS HELYETTESE
 
-[^34]: A 30/D. §-t a 344/2020. (VII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^44]: A 30/J. §-t a 832/2021. (XII. 30.) Korm. rendelet 12. §-a iktatta be.

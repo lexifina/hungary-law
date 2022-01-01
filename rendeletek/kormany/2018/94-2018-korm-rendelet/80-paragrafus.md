@@ -8,7 +8,7 @@ c) a termesztésben alkalmazható növény- és állatfajtákra, a növényterme
 
 d) a termelők szerveződésére,
 
-e)[^58] – a 12. § (1) bekezdés b) pontja szerinti jogszabályok kivételével – a közösségi agrármarketingre
+e)[^68] – a 12. § (1) bekezdés b) pontja szerinti jogszabályok kivételével – a közösségi agrármarketingre
 
 vonatkozó jogszabályokat.
 
@@ -40,7 +40,7 @@ l) ellátja a mezőgazdasági termékek és az élelmiszerek földrajzi árujelz
 
 m) felel az agrárgazdaság és a környezet állapotát, valamint annak változását bemutató hivatalos statisztikák előállításáért, közzétételéért és fejlesztéséért,
 
-n)[^59] a 12. § (1) bekezdés b) pontjában foglaltak kivételével ellátja a közösségi bormarketing kapcsán jelentkező valamennyi állami feladatot.
+n)[^69] a 12. § (1) bekezdés b) pontjában foglaltak kivételével ellátja a közösségi bormarketing kapcsán jelentkező valamennyi állami feladatot.
 
-[^58]: A 80. § (1) bekezdés e) pontja a 341/2019. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^59]: A 80. § (2) bekezdés n) pontját a 341/2019. (XII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^68]: A 80. § (1) bekezdés e) pontja a 341/2019. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^69]: A 80. § (2) bekezdés n) pontját a 341/2019. (XII. 23.) Korm. rendelet 8. § (2) bekezdése iktatta be.

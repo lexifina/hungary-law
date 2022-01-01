@@ -8,7 +8,7 @@
 
 3. egészségbiztosítási járulékfizetés szabályozásáért,
 
-4.[^50]
+4.[^60]
 
 5. gazdaságpolitikáért,
 
@@ -24,7 +24,7 @@
 
 11. számviteli szabályozásért,
 
-12.[^51]
+12.[^61]
 
 13. területfejlesztés stratégiai tervezéséért
 
@@ -32,5 +32,5 @@ felelős tagja.
 
 (2) A miniszter vezeti a Gazdasági Kabinet üléseit.
 
-[^50]: A 64. § (1) bekezdés 4. pontját a 341/2019. (XII. 23.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
-[^51]: A 64. § (1) bekezdés 12. pontját a 341/2019. (XII. 23.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^60]: A 64. § (1) bekezdés 4. pontját a 341/2019. (XII. 23.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^61]: A 64. § (1) bekezdés 12. pontját a 341/2019. (XII. 23.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.

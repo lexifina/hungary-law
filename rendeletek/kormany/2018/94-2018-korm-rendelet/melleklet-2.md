@@ -140,7 +140,7 @@
 
 | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-| 2 | Magyar Bányászati és Földtani Szolgálat | irányítás |
+| 2 |  |  |
 
 | 3 | Országos Atomenergia Hivatal | felügyelet |
 
@@ -162,6 +162,6 @@
 
 | 2 | Mádl Ferenc Összehasonlító Jogi Intézet | irányítás |
 
-2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^139]
+2. melléklet a 94/2018. (V. 22.) Korm. rendelethez[^146]
 
-[^139]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.
+[^146]: A 2. mellékletet a 209/2019. (VIII. 27.) Korm. rendelet 8. § (1) bekezdése iktatta be.

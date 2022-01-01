@@ -14,6 +14,6 @@ e) – a 17. §-ban foglaltakra figyelemmel – a Magyar Nemzeti Vagyonkezelő Z
 
 f) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján ellátja az állami vagyon értékesítésére szolgáló elektronikus árverési rendszer működtetésével, az elektronikus árverési rendszer keretében történő értékesítéssel összefüggő feladatokat,
 
-g)[^125]
+g)[^131]
 
-[^125]: A 145. § (2) bekezdés g) pontját az 500/2021. (VIII. 18.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.
+[^131]: A 145. § (2) bekezdés g) pontját az 500/2021. (VIII. 18.) Korm. rendelet 20. § a) pontja hatályon kívül helyezte.

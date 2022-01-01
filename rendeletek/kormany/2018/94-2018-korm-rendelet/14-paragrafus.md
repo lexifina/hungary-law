@@ -48,6 +48,14 @@
 
 23.[^24] kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért,
 
+24.[^25] családpolitikáért,
+
+25.[^26] gyermek- és ifjúságpolitikáért,
+
+26.[^27] – az ezen alcímben meghatározottak szerinti feladat- és hatáskörök tekintetében – szociál- és nyugdíjpolitikáért,
+
+27.[^28] – az ezen alcímben meghatározottak szerinti feladat- és hatáskörök tekintetében – gyermekek és az ifjúság védelméért
+
 felelős tagja.
 
 (2) A miniszter – ha jogszabály eltérően nem rendelkezik – irányítja, illetve felügyeli az 1. mellékletben meghatározott központi államigazgatási szerveket.
@@ -64,3 +72,7 @@ felelős tagja.
 [^22]: A 14. § (1) bekezdés 21. pontját az 59/2019. (III. 25.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^23]: A 14. § (1) bekezdés 22. pontját a 344/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^24]: A 14. § (1) bekezdés 23. pontját az 565/2020. (XII. 8.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^25]: A 14. § (1) bekezdés 24. pontját a 832/2021. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^26]: A 14. § (1) bekezdés 25. pontját a 832/2021. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^27]: A 14. § (1) bekezdés 26. pontját a 832/2021. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^28]: A 14. § (1) bekezdés 27. pontját a 832/2021. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
