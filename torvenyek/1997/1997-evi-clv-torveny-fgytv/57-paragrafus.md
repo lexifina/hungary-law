@@ -20,6 +20,10 @@ g) a villamos energia belső piacára vonatkozó közös szabályokról és a 20
 
 h) a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelv [47. § (5) bekezdése, 47/C. § (1b) bekezdése].
 
+i) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelv [18. §, 38. §, 39. §, 45. §, 45/A. §, 45/B. §];
+
+j) az áruk adásvételére irányuló szerződések egyes vonatkozásairól, az (EU) 2017/2394 rendelet és a 2009/22/EK irányelv módosításáról, valamint az 1999/44/EK irányelv hatályon kívül helyezéséről szóló, 2019. május 20-i (EU) 2019/771 európai parlamenti és tanácsi irányelv [18. §, 38. §, 39. §, 45. §, 45/A. §, 45/B. §].
+
 (2) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a fogyasztóvédelmi hatóság feladatkörében és eljárásában:
 
 a) az (EU) 2017/2394 rendelet 5. cikk (1) bekezdés, 8. cikk (1) bekezdés, 9. cikk (4) bekezdés g) pont, 17. cikk, 26. cikk, 29–30. cikk, 37. cikk (1) és (3) bekezdés és 39. cikk [a 43/A.§, a 43/B.§, a 47. § (1a) és (6) bek., a 47. § (14) bek., valamint az 51. § (2)–(4) bek.];
