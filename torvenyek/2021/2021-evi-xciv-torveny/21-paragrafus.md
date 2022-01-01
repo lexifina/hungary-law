@@ -1,0 +1,5 @@
+21. § (1) E törvényt a hatálybalépésekor folyamatban lévő, valamint az azt követően indult bírósági eljárásokkal kapcsolatos vagyoni elégtétel iránti igényekre kell alkalmazni.
+
+(2) E törvény rendelkezéseit – a (3) bekezdés szerinti kivétellel – 2022. december 31. napjáig azzal az eltéréssel kell alkalmazni, hogy vagyoni elégtétel iránti igény csak jogerősen befejezett bírósági eljárással kapcsolatban érvényesíthető.
+
+(3) E törvény hatálybalépését követő négy hónapos jogvesztő határidőn belül a bírósági polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel iránti igény e törvény szerinti érvényesítésére az a fél is jogosult, akinek a bírósági eljárás elhúzódása miatt az EJEB-hez benyújtott kérelmét az EJEB e törvény hatálybalépésének napjáig nyilvántartásba vette, de még nem bírálta el, kivéve, ha a kérelem EJEB-hez történő benyújtásakor az 1993. évi XXXI. törvénnyel kihirdetett, az emberi jogok és az alapvető szabadságok védelméről szóló, Rómában, 1950. november 4-én kelt Egyezmény 35. cikkének 1. bekezdésében meghatározott, az adott ügyre vonatkozó határidő már eltelt.
