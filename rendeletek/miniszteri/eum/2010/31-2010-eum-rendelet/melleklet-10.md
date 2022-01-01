@@ -1,4 +1,4 @@
-## 8K30611_3
+## 1X11684S_3
 
 | ATC: | Anatomical Therapeutic Chemical klasszifikáció |  |
 
@@ -228,9 +228,9 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 6.3.2. Retinoidok: acitretin
 
-6.3.3. TNF-alfa gátlók: adalimumab, etanercept, infliximab (az alkalmazott támogatási kategória figyelembevételével)
+6.3.3. TNF-alfa gátlók: adalimumab, etanercept, infliximab, certolizumab-pegol (az alkalmazott támogatási kategória figyelembevételével)
 
-6.3.4. Interleukin-inhibitor: usztekinumab, ixekizumab, szekukinumab, guszelkumab
+6.3.4. Interleukin-inhibitor: usztekinumab, ixekizumab, szekukinumab, guszelkumab, rizankizumab
 
 7. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
@@ -281,6 +281,10 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 | 10 | L04AC13 | ixekizumab | BRMD | Biológiai terápia eszközei |
 
 | 11 | L04AC16 | guszelkumab | BRMD | Biológiai terápia eszközei |
+
+| 12 | L04AB05 | certolizumab-pegol | BRMD | Biológiai terápia eszközei |
+
+| 13 | L04AC18 | rizankizumab | BRMD | Biológiai terápia eszközei |
 
 9. Fogalmak, rövidítések
 
@@ -336,4 +340,4 @@ UVB Ultraviola sugárzás B
 
 We Vörösvértest-süllyedés
 
-[^22]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (4) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^22]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (4) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (3) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (3) bekezdése szerint módosított szöveg.

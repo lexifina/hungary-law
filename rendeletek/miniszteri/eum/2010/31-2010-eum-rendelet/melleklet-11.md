@@ -62,7 +62,7 @@ vagy
 
 4.5. Célzott szintetikus DMARD
 
-JAK gátlók: baricitinib, tofacitinib
+JAK gátlók: baricitinib, tofacitinib, upadacitinib
 
 4.6. Autológ őssejttranszplantáció (opcionálisan, nem rutinszerű)
 
@@ -258,7 +258,7 @@ JAK gátlók: baricitinib, tofacitinib
 
 7.2.6.6. CTLA-4 analóg: abatacept
 
-7.2.6.7. Célzott szintetikus DMARD terápia (JAK gátlók): baricitinib, tofacitinib
+7.2.6.7. Célzott szintetikus DMARD terápia (JAK gátlók): baricitinib, tofacitinib, upadacitinib
 
 8. A finanszírozási eljárásrend alkalmazásának hatását mérő minőségi indikátorok
 
@@ -326,27 +326,29 @@ JAK gátlók: baricitinib, tofacitinib
 
 | 10 | L04AA37 | baricitinib | JAK gátló | Betegségmódosító szerek |
 
-| 11 | L04AB02 | infliximab | TNF alfa gátló | Biológiai terápia eszközei |
+| 11 | L04AA44 | upadacitinib | JAK gátló | Betegségmódosító szerek |
 
-| 12 | L04AB04 | adalimumab | TNF alfa gátló | Biológiai terápia eszközei |
+| 12 | L04AB02 | infliximab | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 13 | L04AB06 | golimumab | TNF alfa gátló | Biológiai terápia eszközei |
+| 13 | L04AB04 | adalimumab | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 14 | L04AB05 | certolizumab-pegol | TNF alfa gátló | Biológiai terápia eszközei |
+| 14 | L04AB06 | golimumab | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 15 | L04AC07 | tocilizumab | IL-6 R gátló | Biológiai terápia eszközei |
+| 15 | L04AB05 | certolizumab-pegol | TNF alfa gátló | Biológiai terápia eszközei |
 
-| 16 | L04AC14 | sarilumab | IL-6 R gátló | Biológiai terápia eszközei |
+| 16 | L04AC07 | tocilizumab | IL-6 R gátló | Biológiai terápia eszközei |
 
-| 17 | L01XC02 | rituximab | B sejt gátló | Biológiai terápia eszközei |
+| 17 | L04AC14 | sarilumab | IL-6 R gátló | Biológiai terápia eszközei |
 
-| 18 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
+| 18 | L01XC02 | rituximab | B sejt gátló | Biológiai terápia eszközei |
 
-| 19 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
+| 19 | M01A | NSAID | NSAID | Nem szteroid gyulladáscsökkentő |
 
-| 20 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+| 20 | H02AB04 | metilprednizolon | Szteroid | Szteroid gyógyszerek |
 
-| 21 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
+| 21 | H02AB06 | prednizolon | Szteroid | Szteroid gyógyszerek |
+
+| 22 | H02AB08 | triamcinolon | Szteroid | Szteroid gyógyszerek |
 
 10. Fogalmak, rövidítések
 
@@ -386,4 +388,4 @@ NSAID Non-steroid anti-inflammatory drug
 
 JAK Janus-kináz
 
-[^23]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (5) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^23]: A 11. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (9) bekezdésével megállapított, a 35/2018. (X. 12.) EMMI rendelet 3. § (5) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (4) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (4) bekezdése szerint módosított szöveg.

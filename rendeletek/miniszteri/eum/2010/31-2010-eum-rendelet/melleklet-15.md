@@ -236,10 +236,4 @@ A finanszírozó informatikai úton, folyamatba épített ellenőrzésként vizs
 
 6.3.1. A terápiás terültre fordított közkiadások alakulása, monitorozása
 
-6.3.2. A finanszírozási eljárásrend szerint kezelt betegek aránya
-
-6.3.3. Kezelés mellett bekövetkező törések monitorozása
-
-7. A finanszírozás szempontjából lényeges finanszírozási kódok
-
 [^27]: A 15. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (13) bekezdésével megállapított, a 15/2016. (VII. 15.) EMMI rendelet 4. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 75. § a) pontja, a 9/2017. (V. 31.) EMMI rendelet 6. § (2) bekezdése szerint módosított szöveg.

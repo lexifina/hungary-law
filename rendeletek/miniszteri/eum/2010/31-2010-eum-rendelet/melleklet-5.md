@@ -422,6 +422,8 @@ Parkinson-kórban kialakuló motoros fluktuáció minden esetében – a finansz
 
 5.3.2. levodopa, carbidopa, entacapone
 
+5.3.3. safinamide.
+
 5.4. A motoros hullámzások („on-off” jelenség) kezelése olyan Parkinson-kórban szenvedő betegeknél, akik nem kezelhetők kielégítő módon a szájon át adott anti-Parkinson készítménnyel - a finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott finanszírozási eljárásrend alapján
 
 5.4.1. Apomorfin-hidroklorid-hemihidrát pen („rescue drug”) alkalmazható optimálisan beállított, de elégtelen oralis terápia mellett:
@@ -548,7 +550,7 @@ A terápia hatástalannak tekinthető, ha a betegség progrediált és a beteg �
 
 | 4 | N04BA02 | levodopa és decarboxylase gátló |
 
-| 5 | N04BA03 | levodopa, decarboxylase gátló és comt gátló |
+| 5 | N04BA03 | levodopa, decarboxylase gátló és COMT gátló |
 
 | 6 | N04BB01 | amantadin |
 
@@ -556,15 +558,17 @@ A terápia hatástalannak tekinthető, ha a betegség progrediált és a beteg �
 
 | 8 | N04BC05 | pramipexol |
 
-| 9 | N04BC09 | rotigotine |
+| 9 | N04BC07 | apomorfin-hidroklorid-hemihidrát |
 
-| 10 | N04BD01 | selegilin |
+| 10 | N04BC09 | rotigotine |
 
-| 11 | N04BD02 | rasagiline |
+| 11 | N04BD01 | selegilin |
 
-| 12 | N04BX02 | entacapone |
+| 12 | N04BD02 | rasagiline |
 
-| 13 | N04BC07 | apomorfin-hidroklorid-hemihidrát |
+| 13 | N04BD03 | safinamide |
+
+| 14 | N04BX02 | entacapone |
 
 10. Rövidítések
 
@@ -572,4 +576,4 @@ ATC Gyógyszerek anatómiai, terápiás, illetve kémiai osztályozása
 
 BNO Betegségek nemzetközi osztályozása
 
-[^17]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 9/2017. (V. 31.) EMMI rendelet 6. § (1) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^17]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 9/2017. (V. 31.) EMMI rendelet 6. § (1) bekezdése, a 36/2019. (XII. 30.) EMMI rendelet 3. § (2) bekezdése, az 55/2021. (XII. 22.) EMMI rendelet 4. § (1) bekezdése szerint módosított szöveg.
