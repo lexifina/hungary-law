@@ -287,7 +287,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 126. Tartós adathordozó: a technológia adott fejlettségi szintjén elérhető olyan eszköz, illetve platform, amely lehetővé teszi az adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB-kulcs, a CD-ROM, a DVD-ROM, a memóriakártya, a számítógép merevlemeze, az elektronikus levél, illetve az elektronikus tárhely.
 
 127. Titkos információgyűjtés, illetve leplezett eszközök alkalmazása: az elektronikus hírközlő hálózaton és elektronikus hírközlő eszközökkel az elektronikus hírközlési tevékenység során, illetve azzal összefüggésben keletkezett, továbbított információk, adatok kiválasztása, kicsatolása, technikai eszközzel történő rögzítése és megismerése az arra jogosult szervek által.
-
-128. Továbbfejlesztett digitális vevődekóder: a digitális interaktív televíziós szolgáltatások vételére képes, televíziókészülékhez való csatlakoztatásra szánt vagy a televíziókészülékbe integrált kiegészítő egység.
-
-129. Űrszegmens: műholdas távközlési rendszer része, amely magában foglalja a műholdat és a műholdkövetési, távmérési és távvezérlési funkciókat, valamint a műholdak részére logisztikai támogatást nyújtó földi berendezéseket.
