@@ -60,4 +60,6 @@ a) a jelnyelvi tolmácsszolgálatok pályáztatásával összefüggő szabályok
 
 b) a térítésmentes jelnyelvi tolmácsszolgáltatás igénybevételének részletes szabályait.
 
+c) a jelnyelvi tolmácsok, siket jelnyelvi tolmácsok képzésének szakmai és vizsgakövetelményeire vonatkozó szabályokat.
+
 (8)

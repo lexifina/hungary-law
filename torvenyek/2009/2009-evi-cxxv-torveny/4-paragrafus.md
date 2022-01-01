@@ -14,6 +14,6 @@ d) akinek fogyatékossága – a BNO-10-es osztályozása szerint – egyidejűl
 
 a) az (1) bekezdés a) és b) pontjában meghatározott esetben az ellátást megállapító határozat,
 
-b) az (1) bekezdés c)–e) pontjában meghatározott esetben szakorvosi igazolás, illetve szakorvos által kiadott audiogram
+b) az (1) bekezdés c) és d) pontjában meghatározott esetben szakorvosi igazolás, illetve szakorvos által kiadott audiogram
 
 bemutatásával vehető igénybe.
