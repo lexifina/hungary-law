@@ -1,1 +1,3 @@
-## „(5a) Ha az (5) bekezdés a) pontja szerinti nyilatkozat megalapozottságával szemben kétség merül fel, a Koordináló szerv az alvállalkozót megkeresi, és szükség szerint a közszolgáltatót ismételt nyilatkozatételre hívja fel.”
+## 3. §[^4]
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

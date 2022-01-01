@@ -1,47 +1,5 @@
 ## 7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 69/2021. (XII. 30.) ITM rendelethez
+1. melléklet a 69/2021. (XII. 30.) ITM rendelethez[^8]
 
-„4. melléklet a 13/2016. (V. 24.) NFM rendelethez
-
-A szolgáltatási díj alapját képező közvetlen fajlagos költség elemzéssel érintett hulladékgazdálkodási tevékenységek és azok indexe
-
-|  | A | B |
-
-| 1. | Hulladékgazdálkodási közszolgáltatási tevékenység | „j” index |
-
-| 2. | Vegyes hulladék gyűjtése | 1 |
-
-| 3. | Szerves hulladék elkülönített gyűjtése | 2 |
-
-| 4. | PMFÜ hulladék elkülönített gyűjtése | 3 |
-
-| 5. | Lomhulladék elkülönített gyűjtése | 4 |
-
-| 6. | Egyéb hulladék elkülönített gyűjtése | 5 |
-
-| 7. | Átrakás | 6 |
-
-| 8. | Válogatás | 7 |
-
-| 9. | Komposztálás |  |
-
-| a) Lerakásra kerülő komposzt előállítása | 8a |
-
-| b) Energetikai hasznosításra kerülő komposzt előállítása | 8b |
-
-| c) Mezőgazdasági hasznosításra kerülő komposzt előállítása | 8c |
-
-| 10. | Mechanikai előkezelés | 9 |
-
-| 11. | Mechanikai-biológiai előkezelés | 10 |
-
-| 12. | Mobil MBH | 11 |
-
-| 13. | Lerakás | 12 |
-
-| 14. | Közvetlen hasznosítás | 13 |
-
-| 15. | Vegyes hulladék energetikai hasznosítása | 14 |
-
-”
+[^8]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
