@@ -13,3 +13,7 @@
 5. távhűtés: az a szolgáltatás, amely a végső felhasználónak távhűtési vezetékhálózaton keresztül üzletszerű tevékenység keretében történő távhűtési célú energiaellátásával valósul meg;
 
 6. távhűtési szolgáltató: az a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet, amely távhűtést üzletszerűen szolgáltat.
+
+7.[^1] Hulladék hűtőenergia: ipari vagy energiatermelő létesítményekben vagy a tercier szektorban elkerülhetetlen melléktermékként keletkező hűtőenergia, amely a távhűtőrendszerbe való bevezetés hiányában hasznosítás nélkül távozna a levegőbe.
+
+[^1]: Az 1. § 7. pontját a 824/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.

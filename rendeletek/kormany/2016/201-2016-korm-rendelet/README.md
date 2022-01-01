@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-201-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-07-29 | 2016-201-20-22.1 | 201/2016. (VII. 21.) Korm. rendelet |
+| 2022-01-01 | 2016-201-20-22.2 | 824/2021. (XII. 28.) Korm. rendelet |
