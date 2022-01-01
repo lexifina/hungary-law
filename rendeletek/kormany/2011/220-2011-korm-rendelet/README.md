@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-220-20-
 | 2012-07-01 | 2011-220-20-22.3 | 137/2012. (VI. 29.) Korm. rendelet |
 | 2014-09-05 | 2011-220-20-22.4 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2019-07-01 | 2011-220-20-22.5 | 159/2019. (VI. 28.) Korm. rendelet |
+| 2022-01-01 | 2011-220-20-22.6 | 159/2019. (VI. 28.) Korm. rendelet |
