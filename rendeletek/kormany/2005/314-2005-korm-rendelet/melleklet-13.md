@@ -14,7 +14,7 @@
 
 | 6. | Ha a tevékenység megvalósítására termőföldön kerül sor | A termőföld mennyiségi védelmének követelményei tekintetében | földvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal |
 
-| 7. | Ha a tevékenység következtében az a környezeti elem vagy rendszer hatásviselő lehet, amelynek védelme hatáskörükbe tartozik, azt érinti, vagy olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja, és a vizsgálat (engedély megszerzése) nem bányászati tevékenységre vonatkozik | Az adott építmény létesítésének és tevékenység végzésének a földtani környezetre való hatásának vizsgálata az ásványi nyersanyag és a földtani közeg védelme szempontjából | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 7. |  |  |  |
 
 | 8. | Ha a tevékenység következtében olyan környezetveszélyeztetés fordulhat elő, amely elleni védelmet jogszabály feladat- és hatáskörébe utalja | Az atomenergia biztonságos alkalmazásával, a nukleáris baleset-elhárítással kapcsolatos kérdésben | Országos Atomenergia Hivatal |
 
