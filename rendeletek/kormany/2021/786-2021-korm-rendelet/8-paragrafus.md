@@ -1,0 +1,3 @@
+## 7. § A használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet (a továbbiakban: R2.) 8. alcíme a következő 19/J. §-sal egészül ki:
+
+## „19/J. § Ha a fiatal házaspár korábban megelőlegezett családi otthonteremtési kedvezményt vett igénybe, megelőlegezett családi otthonteremtési kedvezményre irányuló újabb támogatási szerződést csak akkor köthetnek, ha a korábbi szerződésben foglalt gyermekvállalás maradéktalanul teljesült, vagy a korábbi támogatási összegnek legalább a nem teljesült gyermekvállalásra jutó hányadát visszafizették.”
