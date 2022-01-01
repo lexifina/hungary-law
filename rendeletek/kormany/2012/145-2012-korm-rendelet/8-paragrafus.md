@@ -1,8 +1,8 @@
-8. § (1)[^14] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházása iránti kérelemhez mellékelni kell:
+8. § (1)[^15] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházása iránti kérelemhez mellékelni kell:
 
-a)[^15] a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházására vonatkozó, közokiratba, vagy ügyvéd, vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt megállapodást,
+a)[^16] a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházására vonatkozó, közokiratba, vagy ügyvéd, vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt megállapodást,
 
-b)[^16] az átvevő közokiratba, vagy ügyvéd, vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt nyilatkozatát a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedélyben foglalt tevékenységgel összefüggésben az átadót terhelő kötelezettségek átvállalásáról,
+b)[^17] az átvevő közokiratba, vagy ügyvéd, vagy kamarai jogtanácsos által ellenjegyzett magánokiratba foglalt nyilatkozatát a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedélyben foglalt tevékenységgel összefüggésben az átadót terhelő kötelezettségek átvállalásáról,
 
 c) az átvevő ajánlatát a kutatási biztosítékra, amely nem lehet kevesebb az átadó által nyújtott biztosítéknál,
 
@@ -18,9 +18,9 @@ h) a kérelem benyújtását megelőző három évre vonatkozó, az átvevő sza
 
 i) az átvevő fizetőképességét igazoló pénzintézeti igazolást.
 
-(2)[^17] Ha az átvevő cégjegyzékben nyilvántartott cég a cég cégkivonatát a bányafelügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2)[^18] Ha az átvevő cégjegyzékben nyilvántartott cég a cég cégkivonatát a bányafelügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-[^14]: A 8. § (1) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^15]: A 8. § (1) bekezdés a) pontja a 393/2017. (XII. 13.) Korm. rendelet 47. §-a szerint módosított szöveg.
-[^16]: A 8. § (1) bekezdés b) pontja a 393/2017. (XII. 13.) Korm. rendelet 47. §-a szerint módosított szöveg.
-[^17]: A 8. § (2) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^15]: A 8. § (1) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^16]: A 8. § (1) bekezdés a) pontja a 393/2017. (XII. 13.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^17]: A 8. § (1) bekezdés b) pontja a 393/2017. (XII. 13.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^18]: A 8. § (2) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
