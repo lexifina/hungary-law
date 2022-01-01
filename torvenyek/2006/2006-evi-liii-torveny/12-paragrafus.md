@@ -30,7 +30,7 @@ d) a nemzetgazdasági szempontból kiemelt jelentőségű ügyben feladatkörrel
 
 e) a nemzetgazdasági szempontból kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait,
 
-f) a kiemelt jelentőségű ügyben az e törvényben foglalt határidőknél rövidebb határidőket,
+f) az intermodális csomópontok tekintetében fejlesztési közreműködőként eljárni jogosult szervezetet, a fejlesztési közreműködő feladatait és jogosultságait, valamint a fejlesztési közreműködő mint építtető által megvalósítandó intermodális csomópontok körét;
 
 g) a nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházáshoz kapcsolódó kiemelt jelentőségű ügyek körét, valamint szabályozza ezen ügyekben a b)–f) pontban meghatározottakat.
 
