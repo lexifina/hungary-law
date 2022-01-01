@@ -28,17 +28,17 @@
 
 | 13. | Közlekedésért felelős miniszter (Közlekedés- tudományi Intézet) | Közlekedés-statisztikai és kibocsátási adatok. | Közlekedési kibocsátásokra vonatkozó számítások (CH4, N2O, NOX, CO, NMVOC, SO2 stb. kibocsátott mennyisége az inputadatokkal együtt modellezés/számítás alapján). | A rendelkezésre álló adatsorok és COPERT adatbázisok. |  |
 
-| 14. | Magyar Bányászati és Földtani Szolgálat | Szénbányászat fugitív emissziójának számításához szükséges adatok. | – A bányászott nyersanyag mennyisége és fűtőértéke külön a mélybányákban és külön a külszíni fejtésekre, illetve bányánként. – Az elfáklyázott vagy kiszellőztetett metán éves mennyisége, bányánkénti vagy sújtólégveszély szerinti kategorizálásuk. – A bányászott szén és lignit átlagos metán, kén és szén-dioxid tartalma bányánként. | 1985-ig visszamenőleg a teljes adatsor. |  |
+| 14. | Szabályozott Tevékenységek Felügyeleti Hatósága | Szénbányászat fugitív emissziójának számításához szükséges adatok. | – A bányászott nyersanyag mennyisége és fűtőértéke külön a mélybányákban és külön a külszíni fejtésekre, illetve bányánként. – Az elfáklyázott vagy kiszellőztetett metán éves mennyisége, bányánkénti vagy sújtólégveszély szerinti kategorizálásuk. – A bányászott szén és lignit átlagos metán, kén és szén-dioxid tartalma bányánként. | 1985-ig visszamenőleg a teljes adatsor. |  |
 
-| 15. | Magyar Bányászati és Földtani Szolgálat | Kőolaj és földgáz fugitív emissziójának számításához szükséges adatok. | – Gáztermelés (földgáz, szén-dioxid), millió m3, 1994-től. – Földgáz szállító vezeték hossza, km. – Gázelosztó vezeték hossza, km (földgáz, PB, egyéb gáz). Kőolajtermelés, ezer m3, 1994-től. | 1985-ig visszamenőleg a teljes adatsor. |  |
+| 15. | Szabályozott Tevékenységek Felügyeleti Hatósága | Kőolaj és földgáz fugitív emissziójának számításához szükséges adatok. | – Gáztermelés (földgáz, szén-dioxid), millió m3, 1994-től. – Földgáz szállító vezeték hossza, km. – Gázelosztó vezeték hossza, km (földgáz, PB, egyéb gáz). Kőolajtermelés, ezer m3, 1994-től. | 1985-ig visszamenőleg a teljes adatsor. |  |
 
-| 16. | Magyar Bányászati és Földtani Szolgálat |  | – A kitermelésbe bevont kutak száma, kutatófúrás, kútmélyítés (külön a meddőre), kútmunkálatok, kútszerviz (átképzés, kútjavítási, tisztítási és rétegserkentési műveletek, kútfelszámolás), próbatermelés. | A rendelkezésre álló adatsor. |  |
+| 16. | Szabályozott Tevékenységek Felügyeleti Hatósága |  | – A kitermelésbe bevont kutak száma, kutatófúrás, kútmélyítés (külön a meddőre), kútmunkálatok, kútszerviz (átképzés, kútjavítási, tisztítási és rétegserkentési műveletek, kútfelszámolás), próbatermelés. | A rendelkezésre álló adatsor. |  |
 
-| 17. | Magyar Bányászati és Földtani Szolgálat |  | – Inertes gáz termelése; földalatti gáztárolás, millió m3. | A rendelkezésre álló adatsor. |  |
+| 17. | Szabályozott Tevékenységek Felügyeleti Hatósága |  | – Inertes gáz termelése; földalatti gáztárolás, millió m3. | A rendelkezésre álló adatsor. |  |
 
-| 18. | Magyar Bányászati és Földtani Szolgálat | A tőzegbányászat emissziójának számításához a tőzegbányák adatai. | – Adott évben nyitott új tőzegbányák területe és a kibányászott tőzeg mennyisége és szervesanyag-tartalma (átlagérték vagy 2 kategóriában alacsony, illetve magas szervesanyag-tartalom szerint). | 1985-ig visszamenőleg a teljes adatsor. |  |
+| 18. | Szabályozott Tevékenységek Felügyeleti Hatósága | A tőzegbányászat emissziójának számításához a tőzegbányák adatai. | – Adott évben nyitott új tőzegbányák területe és a kibányászott tőzeg mennyisége és szervesanyag-tartalma (átlagérték vagy 2 kategóriában alacsony, illetve magas szervesanyag-tartalom szerint). | 1985-ig visszamenőleg a teljes adatsor. |  |
 
-| 19. | Magyar Bányászati és Földtani Szolgálat | Felszínalatti vizek kitermelése során évente kibocsátott üvegházhatású gázok. | A kitermelt vizek metántartalma. | 1985-től a rendelkezésre álló adatsor. |  |
+| 19. | Szabályozott Tevékenységek Felügyeleti Hatósága | Felszínalatti vizek kitermelése során évente kibocsátott üvegházhatású gázok. | A kitermelt vizek metántartalma. | 1985-től a rendelkezésre álló adatsor. |  |
 
 | 20. | Magyar Energetikai és Közmű-szabályozási Hivatal | Energiagazdálkodási statisztikai adatok. | Energiagazdálkodási Statisztikai Évkönyv adatai. |  | A megjelenéssel egyidejűleg. |
 
