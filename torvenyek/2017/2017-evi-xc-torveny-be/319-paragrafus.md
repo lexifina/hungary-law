@@ -27,3 +27,15 @@ d) értéke a lefoglalás várható ideje miatt lényegesen csökkenne vagy enne
 (6) A lefoglalt dolog értékesítéséből befolyt ellenérték a lefoglalt dolog helyébe lép, amelyre a lefoglalás külön határozat nélkül kiterjed, és a lefoglalás az eredetileg lefoglalt dolog tekintetében az értékesítéssel megszűnik. Ilyen esetben az elkobzást vagy a vagyonelkobzást a dolog helyébe lépő összegre kell elrendelni.
 
 (7) Ha a későbbi bizonyítás érdekében szükséges, a lefoglalt dolog értékesítése esetén a dologból olyan mintát kell biztosítani, illetve a dologról olyan kép- vagy kép- és hangfelvételt kell készíteni, amely az eljárás későbbi szakaszában kétséget kizáróan bizonyítja a dolog lényeges tulajdonságait.
+
+(8) Ha az élőlény lefoglalása az érintett őrizetében hagyásával nem hajtható végre, akkor
+
+a) a legrövidebb időn belül intézkedni kell, hogy az élőlényre a bizonyítás érdekében ne legyen szükség, és
+
+b) a (2) bekezdésben meghatározott feltételek fennállása esetén
+
+ba) a bíróság – a vádemelés előtt az ügyészség indítványára – az élőlény értékesítését rendeli el, vagy
+
+bb) ha a lefoglalt élőlénnyel kapcsolatban megalapozott igényt jelentettek be és a megalapozott igényt bejelentő személy az értékesítéshez hozzájárult, a vádemelés előtt az ügyészség vagy a nyomozó hatóság az élőlény értékesítését rendeli el.
+
+(9) A (2) bekezdésben meghatározott feltételek fennállása esetén a bíróság, valamint a vádemelés előtt az ügyészség vagy a nyomozó hatóság az élőlény értékesítése helyett elrendelheti a tulajdonának ingyenes átruházását, ha ahhoz az élőlény tulajdonosa, valamint – ha a lefoglalt élőlénnyel kapcsolatban megalapozott igényt jelentettek be – a megalapozott igényt bejelentő személy hozzájárult.

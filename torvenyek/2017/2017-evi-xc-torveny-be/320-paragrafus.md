@@ -10,7 +10,7 @@ c) az eljárást megszüntették, vagy
 
 d) a nyomozás határideje lejárt.
 
-(2) Ha a lefoglalt dolog értéktelen, és arra senki sem tart igényt, azt a lefoglalás megszüntetése után meg kell semmisíteni.
+(2) Ha a lefoglalt dolog értéktelen, és arra senki sem tart igényt, azt – a gerinces élő állat kivételével – a lefoglalás megszüntetése után meg kell semmisíteni.
 
 (3) A bíróság által elrendelt lefoglalást a vádemelés előtt az ügyészség is megszüntetheti.
 
