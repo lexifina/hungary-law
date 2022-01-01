@@ -48,6 +48,8 @@ b) a (8a) bekezdés szerinti gazdálkodó a (8a) bekezdés a)–c) pontjában
 
 (13)[^129] A (12) bekezdés szerinti igazolásként olyan – a kreditpontra minősített kiadvány vásárlásáról szóló – számla fogadható el, amely a minősített kiadvány egyértelmű beazonosítását (kiadás éve, kiadó, szerző, cím) lehetővé teszi, és a számla kiállításának dátuma a kiadvány elszámolhatósági időszakába esik. A kiadványért járó kreditpont a számla kiállításának dátuma szerinti továbbképzési évre számítható be. A számlán szereplő minősített kiadvány egyes példányai után legfeljebb három továbbképzésre kötelezett személy kérelmezheti a kreditpont elszámolását.
 
+(14)[^130] A számviteli törvény 151. § (5) bekezdés b) pont bd) alpontja szerinti szakmai továbbképzési kötelezettség teljesítésére a (7)–(13) bekezdés, valamint a 9/A. § előírásai nem alkalmazhatóak.
+
 [^119]: A 10/B. §-t a 182/2009. (IX. 10.) Korm. rendelet 270. § (10) bekezdése iktatta be, szövege a 357/2012. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^120]: A 10/B. § (2) bekezdése a 226/2013. (VI. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^121]: A 10/B. § (6) bekezdését a 484/2015. (XII. 29.) Korm. rendelet 86. § 5. pontja hatályon kívül helyezte.
@@ -59,3 +61,4 @@ b) a (8a) bekezdés szerinti gazdálkodó a (8a) bekezdés a)–c) pontjában
 [^127]: A 10/B. § (10) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^128]: A 10/B. § (12) bekezdése a 484/2015. (XII. 29.) Korm. rendelet 82. §-ával megállapított, a 480/2016. (XII. 28.) Korm. rendelet 85. § 12. pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 15. pontja szerint módosított szöveg.
 [^129]: A 10/B. § (13) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 82. §-ával megállapított, a 445/2017. (XII. 27.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
+[^130]: A 10/B. § (14) bekezdését a 719/2021. (XII. 20.) Korm. rendelet 3. §-a iktatta be.

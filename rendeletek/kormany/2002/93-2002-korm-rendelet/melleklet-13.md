@@ -1,4 +1,4 @@
-13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^216]
+13. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^218]
 
 ADATLAP
 
@@ -50,4 +50,4 @@ n) a kiadó által a kérelemmel összefüggő kapcsolattartásra kijelölt szem
 
 5. Cégszerű aláírás
 
-[^216]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 85. § (5) bekezdése, a 480/2016. (XII. 28.) Korm. rendelet 84. § 5. pontja szerint módosított szöveg.
+[^218]: A 13. számú mellékletet a 357/2012. (XII. 13.) Korm. rendelet 15. § (4) bekezdése iktatta be, szövege a 484/2015. (XII. 29.) Korm. rendelet 85. § (5) bekezdése, a 480/2016. (XII. 28.) Korm. rendelet 84. § 5. pontja szerint módosított szöveg.

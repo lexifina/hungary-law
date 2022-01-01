@@ -1,4 +1,4 @@
-10/E. §[^148] (1) A továbbképzési programok megvalósíthatók kontakt vagy elektronikus képzés formájában.
+10/E. §[^149] (1) A továbbképzési programok megvalósíthatók kontakt vagy elektronikus képzés formájában.
 
 (2) Kontakt képzésnek minősül az a továbbképzés, amelynek teljes időtartama alatt a képzés helyszínén a résztvevő személyesen jelen van.
 
@@ -14,7 +14,7 @@ ba) az elektronikus felületre bejelentkezve a továbbképzési programot – t�
 
 bb) a továbbképzés oktatási programjának kreditpont-minősítési kérelemben megadott teljes időtartama alatt jelen volt, ezáltal a továbbképzés oktatási programjának egészét, annak valamennyi oktatási egységét, modulját teljesítette,
 
-bc)[^149] egy adott továbbképzési program megkezdését követően, annak befejezéséig újabb továbbképzési programot nem kezdett meg,
+bc)[^150] egy adott továbbképzési program megkezdését követően, annak befejezéséig újabb továbbképzési programot nem kezdett meg,
 
 bd) a megkezdett továbbképzési programot legkésőbb a kezdéstől számított 60 napon belül teljesítette, legkésőbb az adott továbbképzési év utolsó napjáig,
 
@@ -24,5 +24,5 @@ c) a résztvevő részére a továbbképzés teljesítéséről szóló igazolá
 
 (6) A továbbképzésben részt vevő személy adott évi továbbképzésének teljesítésébe csak akkor számítható be az elektronikus képzésben való részvételért a továbbképzési program minősítésekor megállapított kreditpont, ha az elektronikus továbbképzést a (4) bekezdés b) pontjában foglalt szabályok szerint az adott továbbképzési évben teljesíti.
 
-[^148]: A 10/E. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 80. §-ával megállapított szöveg.
-[^149]: A 10/E. § (4) bekezdés b) pont bc) alpontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 20. pontja szerint módosított szöveg.
+[^149]: A 10/E. §-t a 357/2012. (XII. 13.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 80. §-ával megállapított szöveg.
+[^150]: A 10/E. § (4) bekezdés b) pont bc) alpontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 20. pontja szerint módosított szöveg.

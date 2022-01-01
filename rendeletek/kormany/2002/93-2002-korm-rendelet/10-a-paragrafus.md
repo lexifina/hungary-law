@@ -10,9 +10,9 @@ a)[^90] rendelkezik – a bejelentést megelőző öt évben szerzett – legal�
 
 b)[^91] rendelkezik a tervezett számú továbbképzéshez szükséges (vállalt szakterületenként legalább 2 fő), – a bejelentést megelőző öt évben szerzett – legalább 3 éves pénzügyi, számviteli vagy adózási területen folytatott szakmai és oktatási gyakorlattal és az oktatott témának megfelelő szakirányú felsőfokú végzettséggel rendelkező oktatói kapacitással,
 
-c)[^92]
+c)[^92] rendelkezik a továbbképzés lebonyolításához szükséges tárgyi, technikai feltételekkel, ideértve az oktatással kapcsolatos nyilvántartási rendszert is,
 
-d)[^93]
+d)[^93] rendelkezik minőségpolitikával, minőségirányítási rendszerrel, minőségcélokkal, önértékelési rendszerrel,
 
 e)[^94] megfelel a számviteli törvény 152. § (2a) és (2b) bekezdésében meghatározott követelménynek,
 
@@ -101,8 +101,8 @@ f)[^115] a szervezet a (10) bekezdés szerinti adatváltozás-bejelentési köte
 [^89]: A 10/A. § (4) bekezdése a 357/2012. (XII. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított, nyitó szövegrésze a 616/2020. (XII. 21.) Korm. rendelet 15. § 3. pontja szerint módosított szöveg.
 [^90]: A 10/A. § (4) bekezdés a) pontja a 445/2017. (XII. 27.) Korm. rendelet 24. § 7. pontja szerint módosított szöveg.
 [^91]: A 10/A. § (4) bekezdés b) pontja a 362/2014. (XII. 30.) Korm. rendelet 48. § 2. pontja, a 445/2017. (XII. 27.) Korm. rendelet 24. § 8. pontja szerint módosított szöveg.
-[^92]: A 10/A. § (4) bekezdés c) pontját a 616/2020. (XII. 21.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
-[^93]: A 10/A. § (4) bekezdés d) pontját a 616/2020. (XII. 21.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte.
+[^92]: A 10/A. § (4) bekezdés c) pontját a 616/2020. (XII. 21.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte, újonnan a 719/2021. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
+[^93]: A 10/A. § (4) bekezdés d) pontját a 616/2020. (XII. 21.) Korm. rendelet 16. § 1. pontja hatályon kívül helyezte, újonnan a 719/2021. (XII. 20.) Korm. rendelet 2. §-a iktatta be.
 [^94]: A 10/A. § (4) bekezdés e) pontját az 518/2013. (XII. 30.) Korm. rendelet 47. § (3) bekezdése iktatta be, szövege a 362/2014. (XII. 30.) Korm. rendelet 50. § 1. pontja szerint módosított szöveg.
 [^95]: A 10/A. § (4) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 47. § (3) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 25. § 2. pontja szerint módosított szöveg.
 [^96]: A 10/A. § (4) bekezdés g) pontját a 362/2014. (XII. 30.) Korm. rendelet 42. § (1) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 24. § 9. pontja szerint módosított szöveg.
