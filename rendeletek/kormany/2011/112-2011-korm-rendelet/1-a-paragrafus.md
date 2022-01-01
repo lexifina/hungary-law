@@ -1,11 +1,3 @@
-## 1/A. §[^16] Az OAH jár el általános építésügyi hatóságként és általános építésfelügyeleti hatóságként
+## 1. §[^1]
 
-a) kutatóreaktor és oktatóreaktor biztonsági övezetében, egyéb nukleáris létesítmény biztonsági övezetével érintett ingatlanok esetében, illetve
-
-b) biztonsági övezet kijelölése hiányában a nukleáris létesítmény telephely vizsgálati és értékelési engedélyében meghatározott tervezett telephelyével érintett ingatlanok esetében, valamint
-
-ba) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laboratórium esetében a nukleáris létesítmény tervezett telephelyének határától számított száz méteres távolságon belüli vagy azzal érintett ingatlanok esetében,
-
-bb) a ba) alpontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres távolságon belüli vagy azzal érintett ingatlanok esetében.
-
-[^16]: Az 1/A. §-t a 207/2015. (VII. 23.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^1]: Az 1. §-t a 767/2021. (XII. 23.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
