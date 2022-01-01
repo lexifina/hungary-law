@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-33-00-00
 | 2020-01-01 | 2019. évi CIX. törvény | 1995-33-00-00.45 |
 | 2020-06-18 | 2020. évi LVIII. törvény | 1995-33-00-00.46 |
 | 2021-01-01 | 2020. évi CLII. törvény | 1995-33-00-00.47 |
+| 2022-01-01 | 2021. évi CXXII. törvény | 1995-33-00-00.48 |

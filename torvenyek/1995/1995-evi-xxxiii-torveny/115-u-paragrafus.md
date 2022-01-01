@@ -12,4 +12,4 @@
 
 (5) A törvény hatálybalépésekor hatályos szabadalmak nyilvántartására, fenntartására, megszűnésére és újra érvénybe helyezésére a továbbiakban e törvény rendelkezéseit kell alkalmazni azzal, hogy a szabadalom megsemmisítésének feltételeire az elsőbbség időpontjában hatályos szabályok az irányadók.
 
-(6)
+(6) E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvény által megállapított 44. § (2) bekezdés c) pontját, 80. § (6) és (7) bekezdését, 104. § (1a)–(2a), (12a) és (14) bekezdését a 2022. január 1. napján vagy azt követően indult eljárásokban kell alkalmazni.

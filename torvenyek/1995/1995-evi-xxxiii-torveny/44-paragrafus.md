@@ -16,7 +16,7 @@ a) a szabadalom megadása,
 
 b) a szabadalmi oltalom megszűnésének megállapítása és újra érvénybe helyezése,
 
-c) a szabadalom megsemmisítése,
+c) a szabadalom megsemmisítése, – kivéve, ha a szabadalom megsemmisítése iránti igényt a szabadalombitorlási perben eljáró bíróság előtt, a 104. § (1a) bekezdésében foglaltaknak megfelelően viszontkeresettel érvényesítik –,
 
 d) a nemleges megállapítás,
 

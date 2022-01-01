@@ -4,7 +4,7 @@
 
 ## Általános szabályok
 
-84/P. § (1) E törvény alkalmazásában nemzetközi szabadalmi bejelentés: a Washingtonban az 1970. évi június 19-én kelt Szabadalmi Együttműködési Szerződés (a továbbiakban: Szerződés) alapján tett szabadalmi bejelentés.
+84/P. § (1) E törvény alkalmazásában nemzetközi szabadalmi bejelentés: a Szerződés alapján tett szabadalmi bejelentés.
 
 (2) Ahol e törvény a Szerződés alkalmazására utal, azon a Szerződéshez csatolt Végrehajtási Szabályzat alkalmazását is érteni kell.
 

@@ -20,8 +20,10 @@ c) előállítja, használja, forgalomba hozza, illetve forgalomba hozatalra aj�
 
 a) a magánhasználat céljából végzett, illetve a gazdasági tevékenység körén kívül eső cselekményekre;
 
-b) a találmány tárgyával kapcsolatos kísérleti célú cselekményekre, ideértve a találmány tárgyát képező termék vagy a találmány tárgyát képező eljárással előállított termék forgalomba hozatalának engedélyezéséhez szükséges kísérleteket és vizsgálatokat;
+b) a találmány tárgyával kapcsolatos kísérleti célú cselekményekre;
 
-c) orvos által rendelt gyógyszernek gyógyszertárban vény alapján történő alkalmi elkészítésére és az így elkészített gyógyszerrel kapcsolatos további cselekményekre.
+c) a gyógyszer Európai Gazdasági Térség területén vagy harmadik országban történő forgalomba hozatalának engedélyezéséhez szükséges kísérletekre, vizsgálatokra és az ezekhez szükséges cselekményekre – ideértve különösen az előállítást, használatot, forgalomba hozatalt, forgalomba hozatalra való ajánlást, raktáron tartást és az országba való behozatalt vagy kivitelt –, függetlenül attól, hogy a cselekményeket közvetlenül a forgalomba hozatali engedély kérelmezője vagy vele e célból gazdasági kapcsolatban álló más személy valósítja meg;
+
+d) orvos által rendelt gyógyszernek gyógyszertárban vény alapján történő alkalmi elkészítésére és az így elkészített gyógyszerrel kapcsolatos további cselekményekre.
 
 (7) A terméket — az ellenkező bizonyításáig — a szabadalmazott eljárással előállítottnak kell tekinteni, ha a termék új, vagy nagymértékben valószínűsíthető, hogy a terméket a szabadalmazott eljárással állították elő, és a szabadalmas az adott helyzetben általában elvárható intézkedések megtétele után sem tudta meghatározni a ténylegesen alkalmazott eljárást. Különösen akkor valószínűsíthető nagymértékben, hogy a terméket a szabadalmazott eljárással állították elő, ha a szabadalmazott eljárás az egyetlen ismeretessé vált eljárás.
