@@ -1,4 +1,4 @@
-## 103/A. §[^54] E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését[^55] követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.
+## 103/A. §[^55] E rendeletnek a veszélyes áruk szállításának ellenőrzésével és szankcionálásával összefüggő egyes kormányrendeletek módosításáról szóló 66/2021. (II. 16.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépését[^56] követően végzett ellenőrzésekre és az azok alapján lefolytatott hatósági eljárásokban kell alkalmazni.
 
 ## 66. Az Európai Unió jogának való megfelelés
 
@@ -6,5 +6,5 @@
 
 (2) E rendelet 15–16. §-a és 66. §-a a közösségi Polgári Védelmi Mechanizmus kialakításáról szóló, 2007. november 8-i 2007/779/EK, Euratom tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^54]: A 103/A. §-t a 66/2021. (II. 16.) Korm. rendelet 7. §-a iktatta be.
-[^55]: A hatálybalépés időpontja 2021. április 2.
+[^55]: A 103/A. §-t a 66/2021. (II. 16.) Korm. rendelet 7. §-a iktatta be.
+[^56]: A hatálybalépés időpontja 2021. április 2.
