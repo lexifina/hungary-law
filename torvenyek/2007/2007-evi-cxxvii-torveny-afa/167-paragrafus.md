@@ -6,4 +6,4 @@ a) sajtóterméket értékesít;
 
 b) a szerencsejáték szervezéséről szóló törvény hatálya alá tartozó szerencsejáték szolgáltatást nyújt;
 
-c) kezelőszemélyzet nélküli automataberendezés útján teljesíti termék értékesítését, szolgáltatás nyújtását.
+c) az Art. szerinti automataberendezés használatával térítik meg részére az ellenérték adót is tartalmazó összegét.
