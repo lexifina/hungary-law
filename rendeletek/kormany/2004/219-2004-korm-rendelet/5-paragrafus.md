@@ -4,7 +4,7 @@
 
 (2) A felszín alatti víztestek kijelölése a víztartó képződmény határait, a víz hőmérsékletét, a közel természetes állapothoz tartozó felszín alatti vízgyűjtő határait, a víz hidrodinamikai és minőségi tulajdonságait figyelembe véve történik a külön jogszabályban részletezett módon.
 
-(3)[^52] A felszín alatti víztestek kijelöléséről, felülvizsgálatáról és állapotának figyelemmel kíséréséről a vízgazdálkodásért felelős miniszter a vízügyi igazgatóságok és a Magyar Bányászati és Földtani Szolgálat bevonásával gondoskodik.
+(3)[^52] A felszín alatti víztestek kijelöléséről, felülvizsgálatáról és állapotának figyelemmel kíséréséről a vízgazdálkodásért felelős miniszter a vízügyi igazgatóságok és az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága bevonásával gondoskodik.
 
 (4)[^53] A felszín alatti víztestek nyilvántartásáról a vízgazdálkodásért felelős miniszter gondoskodik.
 
@@ -14,7 +14,7 @@
 
 (8) A városok települési önkormányzatai a külön jogszabály[^56] szerinti települési környezetvédelmi program részeként annak készítésekor, illetve felülvizsgálatakor, külön jogszabály[^57] szerinti forrásokra is támaszkodva monitoring rendszer kiépítésével és működtetésével figyelemmel kíséri a közigazgatási területen lévő talajvíz mennyiségi és minőségi állapotát, különösen a nem pontszerű (diffúz) szennyezőforrásokból származó szennyezés hatására kialakult állapotot.
 
-[^52]: Az 5. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 156/2012. (VII. 13.) Korm. rendelet 1. § (3) bekezdése, a 162/2017. (VI. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^52]: Az 5. § (3) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 156/2012. (VII. 13.) Korm. rendelet 1. § (3) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 11. §-a szerint módosított szöveg.
 [^53]: Az 5. § (4) bekezdése a 156/2012. (VII. 13.) Korm. rendelet 1. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^54]: Az 5. § (5) bekezdése a 302/2008. (XII. 17.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^55]: Az 5. § (6)–(7) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
