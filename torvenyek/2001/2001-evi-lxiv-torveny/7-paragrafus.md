@@ -58,7 +58,7 @@ e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a
 
 21. Nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar nemzet, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít.
 
-21a. Nemzeti emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a kultúráért felelős miniszter rendeletében nemzeti emlékponttá nyilvánít.
+21a. Nemzeti emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) nemzeti emlékponttá nyilvánít.
 
 21b. Nevesített műemléki érték: értékmeghatározó szakértői vizsgálat alapján megállapított és közhiteles nyilvántartásban szereplő érték, amely a védetté nyilvánítást megalapozza; a nevesítés a műemléki érték egészére vagy annak egyes elemeire – ideértve alkotórészére, tartozékára, beépített berendezési tárgyaira – terjed ki.
 

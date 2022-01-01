@@ -46,7 +46,7 @@
 
 22. állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a 61/L. § szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait;
 
-23. szabályozza a nemzeti emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
+23. szabályozza a nemzeti és történelmi emlékhelyek – köznapi, ünnepi, idegenforgalmi és protokolláris, a nemzeti és történelmi emlékhely szellemével összhangban álló – használati rendjét, valamint meghatározza a nemzeti és történelmi emlékhely használati tervének elkészítésével, a támogatás elbírálásának rendjével, a nemzeti és történelmi emlékhely fenntartható használatát elősegítő támogatási szerződés megkötésével kapcsolatos részletszabályokat;
 
 24. szabályozza a hadtörténeti örökség terepkutatásával és védetté nyilvánításával kapcsolatos részletszabályokat;
 
@@ -118,7 +118,7 @@ s) az Európai Örökség cím elnyerésére pályázó helyszínek közül az a
 
 (6) Felhatalmazást kap a kultúráért felelős miniszter, hogy rendeletben szabályozza:
 
-a) a nemzeti emlékpontként meghatározott helyszínek körét,
+a)
 
 b)
 

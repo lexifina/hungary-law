@@ -32,7 +32,7 @@ c) a feltárásra jogosult intézmény vagy szervezet.
 
 (4) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv régészeti feladatellátással kapcsolatos megkeresésére a (3) bekezdésben megjelölt intézmény vagy szervezet öt napon belül nem válaszol, a jogszabályban kijelölt örökségvédelmi szerv közvetlenül gondoskodik a régészeti feladatellátásról.
 
-(5) Amennyiben a jogszabályban kijelölt örökségvédelmi szerv a (4) bekezdés szerinti közvetlen feladatellátást nem tudja biztosítani, úgy a Magyar Nemzeti Múzeum bevonásával gondoskodik a régészeti feladatellátás elvégzéséről.
+(5)
 
 (6) Amennyiben a feltárásra alkalmatlan napok miatt a feltárás nem végezhető el a beruházó számára elfogadható határidőre, a feltáró intézmény a feltáráshoz szükséges technikai felszerelés biztosításának költségét a 23/F. § (9) bekezdésében meghatározott költségkereten túl elszámolhatja annak érdekében, hogy a régészeti feltárást a jogszabályban meghatározottak szerint feltárásra alkalmas napon kívüli napokon is végezni lehessen.
 

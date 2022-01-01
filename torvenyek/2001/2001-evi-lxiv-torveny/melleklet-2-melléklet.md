@@ -182,17 +182,25 @@ cím: 1088 Budapest, Múzeum krt. 14–16.
 
 |
 
-Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely
+Budapest X. kerület, Rákoskeresztúri Újköztemető, 298., 300. és 301. parcella és a Kisfogház Emlékhely, valamint a váci, a márianosztrai és a sopronkőhidai rabtemető
 
 |
 
-A parcellák, kivéve a Nemzeti Sírkert részévé nem nyilvánított temetési helyeket
+A parcellák, kivéve a Nemzeti Sírkert részévé nemnyilvánított temetési helyeket
 
 cím: 1108 Budapest, Kozma u. 8–10.
 
-A Kisfogház Emlékhely által felölelt terület
+a Kisfogház Emlékhely által felölelt terület
 
 cím: 1108 Budapest, Újhegyi út 55.
+
+a váci rabtemető: Vác belterület 1769 helyrajzi számú ingatlan
+
+a márianosztrai rabtemető: Márianosztra külterület 0181/2 helyrajzi számú ingatlan
+
+a sopronkőhidai rabtemető: Sopron külterület
+
+01055 helyrajzi számú ingatlan
 
 |
 
@@ -394,33 +402,27 @@ cím: 2500 Esztergom, Bercsényi utca 2.
 
 |
 
-Győri Káptalandomb
+Győri Káptalandomb és a vár megmaradt részei
 
 |
 
-Győri Bazilika épülete
+Győri Nagyboldogasszony-székesegyház épülete,
 
-cím: 9021 Győr, Káptalandomb 12.
+a 7456 helyrajzi számú ingatlan
 
 Püspökvár épülete
 
-cím: 9021 Győr, Káptalandomb 1.
-
-Szent László Látogatóközpont épülete
-
-cím: 9021 Győr, Káptalandomb 13.
+cím: 9021 Győr, Káptalandomb 1., a 7479 és 7480 helyrajzi számú ingatlan
 
 Győri Egyházmegyei Kincstár és Könyvtár épülete
 
-cím: 9021 Győr Gutenberg tér 2.
+cím: 9021 Győr Káptalandomb 26., a 7414 helyrajzi számú ingatlan
 
-Hittudományi Főiskola épülete
+Brenner János Hittudományi Főiskola épülete
 
-cím: 9021 Győr, Káptalandomb 7.
+cím: 9021 Győr, Káptalandomb 7., a 7474 helyrajzi számú ingatlan
 
-Hotel Konferencia épülete
-
-cím: 9021 Győr, Apor Vilmos püspök tere 3.
+A győri vár megmaradt káptalandombi és azon túlnyúló részei
 
 |
 

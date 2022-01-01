@@ -4,9 +4,9 @@ a) érvényesíti az emlékhelyekkel kapcsolatos érdekeket az emlékhelyeket é
 
 b) nemzetközi megállapodások keretében együttműködik a határon túli helyszínek esetén az érintett állam felelős miniszterével;
 
-c) az emlékhelyekkel összefüggő feladatok tekintetében a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) felett szakmai irányítói jogkört gyakorol;
+c) az emlékhelyekkel összefüggő feladatok tekintetében a Bizottság felett szakmai irányítói jogkört gyakorol;
 
-d) a nemzeti emlékhely fenntartható használatának elősegítése érdekében támogatási szerződést köt,
+d) a nemzeti és történelmi emlékhely fenntartható használatának elősegítése érdekében támogatási szerződést köt,
 
 e) a Bizottság javaslatára a Bizottság felügyeletét ellátó miniszterrel egyetértésben kezdeményezi egyes helyszínek nemzeti emlékhellyé nyilvánítását;
 
@@ -14,9 +14,9 @@ f) a Bizottság javaslatára, a Bizottság felügyeletét ellátó miniszterrel 
 
 g) a Nemzeti Örökség Intézete (a továbbiakban: NÖRI) bevonásával, a Bizottság felügyeletét ellátó miniszterrel egyetértésben évente jelentést készít a Kormány részére és négyévente tájékoztatja az Országgyűlés illetékes bizottságát az emlékhelyek állapotáról.
 
-(1a) A kultúráért felelős miniszter a Bizottság javaslatára rendeletben dönt egyes helyszínek nemzeti emlékponttá nyilvánításáról.
+(1a) A NÖRI javaslatára a Bizottság határozatban dönt az egyes helyszínek nemzeti emlékponttá nyilvánításáról.
 
-(2) A Bizottság ellátja a nemzeti emlékpontokkal, a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
+(2) A Bizottság ellátja a történelmi emlékhelyekkel és a nemzeti emlékhelyekkel kapcsolatos – e törvény szerinti – véleményező és javaslattevő feladatokat.
 
 (3) A NÖRI emlékhelyekkel összefüggő feladatai különösen az alábbiak:
 
