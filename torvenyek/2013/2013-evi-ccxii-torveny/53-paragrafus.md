@@ -1,5 +1,7 @@
-53. § (1) Az egységes okiratba foglalt haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal a Földforgalmi törvény 49. § (1) bekezdésében meghatározott módon történő közlése során a szerződést három eredeti példányban kell benyújtani a föld fekvése szerint illetékes jegyzőhöz. A haszonbérleti szerződéshez csatolni kell az előhaszonbérleti jogosultságot igazoló okiratokat.
+53. § (1) Az egységes okiratba foglalt haszonbérleti szerződésnek az előhaszonbérletre jogosultakkal történő közlése érdekében a szerződést három eredeti példányban kell benyújtani a mezőgazdasági igazgatási szervhez, illetve a Földforgalmi törvény 49. § (1c) bekezdése szerinti esetben a föld fekvése szerint illetékes jegyzőhöz.
 
-(2)
+(2) A haszonbérleti szerződéshez csatolni kell az előhaszonbérleti jogosultságot igazoló okiratokat, kivéve, amelyet közhiteles nyilvántartásnak tartalmaznia kell.
+
+(2a) Ha a haszonbérbeadó a föld haszonélvezője, akkor a haszonbérleti szerződéshez csatolni kell annak igazolását is, hogy a tulajdonos részére a haszonbérleti jog gyakorlásának lehetőségét felajánlotta.
 
 (3) A haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó eljárás díj- és illetékmentes.

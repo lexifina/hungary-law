@@ -1,0 +1,1 @@
+34/A. § A Földforgalmi tv. 21. § (1a) bekezdése szerinti közbenső döntéssel egyidejűleg a mezőgazdasági igazgatási szerv megküldi a jegyző részére az adásvételi szerződés egy eredeti, nem biztonsági okmányon szerkesztett példányát.

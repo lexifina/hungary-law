@@ -4,7 +4,7 @@
 
 a) a kényszerhasznosításnak a Földforgalmi törvényben előírt célját, és a kényszerhasznosító kötelezettségeit, ide értve azt is, hogy a kényszerhasznosítónak a kényszerhasznosításba adott föld hasznosításából származó bevételeiről és kiadásairól el kell számolnia a mezőgazdasági igazgatási szerv részére,
 
-b) az arra vonatkozó figyelemfelhívást, hogy a kérelmet a hirdetmény közzétételétől számított 30 napon belül lehet benyújtani.
+b) az arra vonatkozó figyelemfelhívást, hogy a kérelmet a hirdetmény közzétételétől számított 30 napon belül lehet benyújtani, melyben meg kell jelölni a kényszerhasznosítóként történő kijelölés esetén az általa művelni vállalt földek művelési ágát vagy művelési ágait és a földek fekvése szerinti járást vagy járásokat.
 
 (3) A hirdetmény közzétételének napja a hirdetménynek a mezőgazdasági igazgatási szerv hirdetőtáblájára való kifüggesztés napja.
 

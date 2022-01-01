@@ -14,9 +14,9 @@ c) felmondással,
 
 d) azonnali hatályú felmondással,
 
-e) az (1) bekezdés a) pontja szerinti esetben a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon,
+e) közeli hozzátartozók közti jogügylet esetén a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon,
 
-f) az (1) bekezdés b) pontja szerinti esetben a családi mezőgazdasági társaságban fennálló tagsági viszony bármilyen okból történő megszűnésével, e tényhelyzet beálltát követő 30. napon.
+f) családi mezőgazdasági társaság részére történő használatba adás esetén a családi mezőgazdasági társaságban fennálló tagsági viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon.
 
 (4) A határozatlan időre kötött szerződés 60 napos felmondási idővel mondható fel.
 

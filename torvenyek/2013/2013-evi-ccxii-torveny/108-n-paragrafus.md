@@ -1,0 +1,1 @@
+108/N. § A 108/K–108/M. § szerint megállapított összeg után a haszonélvezeti jog törlésének időpontjától a kifizetés napjáig kamat jár. A kamat mértéke megegyezik a jegybanki alapkamat két százalékponttal emelt mértékével. A kamat számításakor az érintett naptári félév első napján érvényes kamat irányadó az adott naptári félév teljes idejére.

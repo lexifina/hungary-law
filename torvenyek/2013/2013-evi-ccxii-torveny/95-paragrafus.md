@@ -8,9 +8,11 @@ a) a hatósági jóváhagyáshoz kötött földhasználati szerződés esetén a
 
 b) a hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetén a szerződés eredeti példányát vagy annak közjegyző által hitelesített másolatát,
 
-c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott használati megosztásról szóló megállapodás vagy többlethasználati megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
+c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott és a földhasználati szerződés megkötésekor hatályos használati megosztásról szóló megállapodás vagy többlethasználati megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
 
 (4) A (3) bekezdés b) pontjában meghatározott esetben a földhasználó a bejelentési adatlapon köteles nyilatkozni arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
+
+(4a) Tanya földhasználati jogosultságának megszerzése esetén, ha a szerződés tárgyát képező földrészlet az ingatlan-nyilvántartásban tanyaként nem szerepel, az ingatlan-nyilvántartási adatokból pedig nem állapítható meg egyértelműen az ingatlanon lévő épületek rendeltetése, akkor a bejelentési adatlaphoz csatolni kell továbbá az épületek rendeltetésének igazolására alkalmas dokumentumot.
 
 (5) A földhasználó a 94. § (1) bekezdés b) és c) pontjában meghatározott adataiban, valamint a használatban bekövetkezett, az e törvény végrehajtására kiadott rendeletben meghatározott változásokat – ideértve a használat megszűnését is – 30 napon belül köteles az ingatlanügyi hatósághoz bejelenteni az e törvény végrehajtására kiadott rendeletben meghatározott formanyomtatványon (a továbbiakban: változás-bejelentési adatlap).
 

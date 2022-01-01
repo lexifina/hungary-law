@@ -29,3 +29,5 @@ b) az ellenőrzést végző részére szóban vagy – az ellenőrzést végző 
 c) az ellenőrzést végző kérésére a rendelkezésre bocsátott dokumentáció teljességéről nyilatkozni,
 
 d) az ellenőrzés zavartalan elvégzéséhez szükséges egyéb feltételeket megteremteni.
+
+(5) Hatósági jóváhagyáshoz nem kötött ügylet esetén, ha a mezőgazdasági igazgatási szerv megállapítja, hogy a Földforgalmi tv. 67/A. §-ában foglaltak alkalmazásának van helye, felhívja az eladót az általa az adásvételi ügylet kapcsán befogadott, érvényesnek ítélt és rangsorolt elővásárlói jognyilatkozatot tevő személyek, illetve az adásvételi szerződés szerinti vevő adatainak megküldésére.

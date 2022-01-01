@@ -4,10 +4,12 @@
 
 (3) Ha a kezdeményezésben megjelölt piaci haszonbérleti díj mértéke a haszonbérleti szerződés szerinti haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
 
-(4) Ha az ellenérdekű fél a kezdeményezéssel nem ért egyet, de a (3) bekezdésben foglaltak alkalmazására nincs mód, vagy azzal nem kíván élni, a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni.
+(4) Ha az ellenérdekű fél a kezdeményezéssel nem ért egyet, de a (3) bekezdésben foglaltak alkalmazására nincs mód, vagy azzal nem kíván élni, a kezdeményezés kézhezvételétől számított 30 napos jogvesztő határidőn belül a bíróságtól kérheti a piaci haszonbérleti díj meghatározását; ellenkező esetben a haszonbérleti díjat a kezdeményezésben megjelölt mértékben módosítottnak kell tekinteni. A bíróság a kezdeményezésben megjelölt kezdő időpontra nézve állapítja meg a piaci haszonbérleti díjat.
 
 (5) Ha a bíróság által meghatározott haszonbérleti díj mértéke a korábbi haszonbérleti díj mértékétől legalább 20%-kal tér el, az ellenérdekű fél a bíróság határozatának jogerőre emelkedésétől számított 30 napos jogvesztő határidőn belül a haszonbérleti szerződést a gazdasági év végére felmondhatja.
 
 (6) A felek az (1) bekezdésben szereplő, első szerződésmódosítási kezdeményezésre előírt, továbbá az azt követő szerződésmódosítási kezdeményezések közötti időtartamot, valamint a szerződésmódosítási kezdeményezés feltételeként előírt, a szerződés időtartamából hátralevő időtartamot 5 évnél rövidebb időtartamban is megállapíthatják. E § rendelkezéseitől a felek egyebekben érvényesen nem térhetnek el.
 
-(7) Ha a haszonbérleti szerződés úgy jött létre, hogy az előhaszonbérlő a haszonbérleti szerződés szerinti haszonbérlő helyébe lépett, a haszonbérlő az (1) bekezdés szerinti kezdeményezést a haszonbérleti szerződés időtartamától függetlenül és első alkalommal a haszonbérleti szerződés létrejöttétől számított 6 hónapon belül teheti meg.
+(7) Ha a haszonbérleti szerződés úgy jött létre, hogy az előhaszonbérlő a haszonbérleti szerződés szerinti haszonbérlő helyébe lépett, a haszonbérlő az (1) bekezdés szerinti kezdeményezést a haszonbérleti szerződés időtartamától függetlenül és első alkalommal a haszonbérleti szerződés létrejöttétől számított 6 hónapon belül teheti meg. A bíróság a szerződés hatálybalépésétől állapítja meg a piaci haszonbérleti díjat.
+
+(8) Ha a haszonbérlő a (7) bekezdésben foglaltak szerint a haszonbérleti szerződés létrejöttétől számított 6 hónapon belül kezdeményezte a haszonbérleti szerződés módosítását, a (3) és (5) bekezdésben meghatározottak alkalmazásának nincs helye.

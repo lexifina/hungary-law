@@ -8,7 +8,7 @@
 
 (4) Az erdőgazdálkodási integrációs szerződés legalább tíz, legfeljebb ötven év határozott időre köthető.
 
-(5) Az erdőgazdálkodási integrációs szerződés írásban érvényes, azt az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott rendeletben meghatározott feltételeknek megfelelő erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás köthet. A 71. § (1a) bekezdésében foglalt esetben a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján – a 72. § (5) bekezdésében foglaltak alkalmazásával – számított kétharmados döntése szükséges.
+(5) Az erdőgazdálkodási integrációs szerződés írásban érvényes, azt az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott rendeletben meghatározott feltételeknek megfelelő erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás köthet, kivéve ha az integrátor a tulajdonos közeli hozzátartozója, vagy olyan családi mezőgazdasági társaság, amelyben a tulajdonos tag. A 71. § (1a) bekezdésében foglalt esetben a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján – a 72. § (5) bekezdésében foglaltak alkalmazásával – számított kétharmados döntése szükséges.
 
 (6) A tulajdonos azonnali hatállyal felmondhatja az erdőgazdálkodási integrációs szerződést, ha az integrátor
 

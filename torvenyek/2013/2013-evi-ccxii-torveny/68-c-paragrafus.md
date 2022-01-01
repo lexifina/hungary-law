@@ -2,7 +2,7 @@
 
 68/C. § (1) Az erdőgazdálkodási haszonbérleti szerződésre a mezőgazdasági hasznosítású földek haszonbérletére vonatkozó szabályokat az e §-ban foglalt eltéréssel kell alkalmazni.
 
-(2) Erdőgazdálkodási haszonbérleti szerződést az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott rendeletben meghatározott feltételeknek megfelelő erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás köthet.
+(2) Erdőgazdálkodási haszonbérleti szerződést az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott rendeletben meghatározott feltételeknek megfelelő erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás köthet, kivéve ha a haszonbérlő a tulajdonos közeli hozzátartozója, vagy olyan családi mezőgazdasági társaság, amelyben a tulajdonos tag.
 
 (3) A 71. § (1a) bekezdésében foglalt esetben a szerződés létrejöttéhez az érintett tulajdonostársak tulajdoni hányad alapján – a 72. § (5) bekezdésében foglaltak alkalmazásával – számított kétharmados döntése szükséges.
 

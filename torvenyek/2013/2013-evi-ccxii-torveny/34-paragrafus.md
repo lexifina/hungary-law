@@ -1,4 +1,4 @@
-34. § (1) A mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. § (1) és (2) bekezdésében meghatározott előzetes vizsgálat alatt csak a (2) bekezdésben foglalt esetekben bocsáthat ki hiánypótlást.
+34. § (1) A mezőgazdasági igazgatási szerv a Földforgalmi törvény 23. § (2), (3) és (4) bekezdésében meghatározott előzetes vizsgálat alatt csak a (2) bekezdésben foglalt esetekben bocsáthat ki hiánypótlást.
 
 (2) Ha a jogügylet érvényességi feltétele a Földforgalmi törvény szerinti közeli hozzátartozói viszony fennállása, a mezőgazdasági igazgatási szerv a 32. § (1) bekezdésében meghatározott nyilatkozat becsatolására hívja fel a szerző felet. A hiánypótlásra csak egy alkalommal, 8 napos határidő kitűzésével kerülhet sor. E határidő elmulasztása esetén igazolási kérelemnek nincs helye.
 

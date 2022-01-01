@@ -1,0 +1,1 @@
+108/M. § A 108/K. és a 108/L. § szerint megállapított kompenzációt csökkenteni kell annak a juttatásnak az értékével, amelyet a kérelmező a tulajdonostól vagy bárki mástól a haszonélvezeti jog törlésére tekintettel bármilyen formában kapott.

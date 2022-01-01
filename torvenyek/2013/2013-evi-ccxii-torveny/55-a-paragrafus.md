@@ -2,6 +2,6 @@
 
 (2) A Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy a haszonbérlet időtartama alatt az előhaszonbérleti joggal érintett föld teljes területén ökológiai gazdálkodást fog folytatni.
 
-(3) A Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú előhaszonbérleti jog gyakorlásával megszerzett föld használója a föld birtokba vételét követően az átállási idő lejárta után a mezőgazdasági igazgatási szerv felé igazolja, hogy a teljes terület vonatkozásában termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+(3) Azon személynek, aki a föld használatának megszerzése során előhaszonbérleti jogát a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú földhasználatra alapította, a föld birtokba vételét követő 30 napon belül a mezőgazdasági igazgatási szerv részére igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai gazdálkodásra átállást megkezdte, továbbá az átállási idő lejárta után igazolnia kell, hogy a teljes terület vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító termelői ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
 (4) Az (1) és (2) bekezdésben meghatározott feltételek fennállását a mezőgazdasági igazgatási szerv a Földforgalmi törvény 51. §-a szerinti eljárásban vizsgálja.

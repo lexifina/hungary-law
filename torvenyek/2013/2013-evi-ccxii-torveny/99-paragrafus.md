@@ -40,6 +40,8 @@ d) a hatáskörében eljáró ügyész és bíróság,
 
 e) a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével összefüggésben a mezőgazdasági és vidékfejlesztési támogatási szerv.
 
+f) a szőlőültetvények telepítésének engedélyezésével, valamint a szőlőültetvények telepítésének és kivágásának ellenőrzésével összefüggésben a hegybíró.
+
 (5) A földhasználati lap másolat szolgáltatása díjmentes
 
 a) a hatóság megkeresésére annak hivatalból indított eljárásához,

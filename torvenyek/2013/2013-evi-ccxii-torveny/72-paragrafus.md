@@ -1,4 +1,4 @@
-72. § (1) Ha a közös tulajdonban álló föld teljes területét vagy annak egy meghatározott részét harmadik személy (e fejezetben a továbbiakban: ajánlattevő) kívánja használatba venni, az erre vonatkozó ajánlatát írásban, igazolt módon közölnie kell az ingatlan-nyilvántartásba bejegyzett valamennyi tulajdonossal.
+72. § (1) Ha a közös tulajdonban álló föld teljes területét vagy annak egy meghatározott részét tulajdonostárs vagy harmadik személy (e fejezetben a továbbiakban: ajánlattevő) kívánja használatba venni, az erre vonatkozó ajánlatát írásban, igazolt módon közölnie kell az ingatlan-nyilvántartásba bejegyzett valamennyi tulajdonossal.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, ha az ajánlattevő a földnek csak egy meghatározott részét kívánja használatba venni és tudomással bír a tulajdonostársak között fennálló, a használati megosztásról szóló megállapodás tartalmáról, az ajánlatát elegendő azokkal a tulajdonostársakkal írásban, igazolt módon közölnie, akik a használati megosztásról szóló megállapodás alapján a földnek az ajánlat tartalma szerinti területét használják.
 

@@ -1,6 +1,6 @@
 ## 20/E. Erdőkezelés
 
-68/E. § (1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja.
+68/E. § (1) Az önálló erdőgazdálkodási egység területét az érintett tulajdonos az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtására kiadott jogszabályban foglalt feltételeknek megfelelő, az erdészeti hatóság által nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozás (a továbbiakban: erdőkezelő) kezelésébe adása útján is hasznosíthatja. Az erdőkezelőnek nem kell az erdészeti hatóság által nyilvántartott erdőgazdálkodásra jogosult erdészeti szakirányító vállalkozásnak minősülnie, ha az erdőkezelő a tulajdonos közeli hozzátartozója, vagy olyan családi mezőgazdasági társaság, amelyben a tulajdonos tag.
 
 (2) Az erdőkezelő a tulajdonos javára, de saját nevében eljárva, a tulajdonos egyéni érdekeit figyelembe vevő erdőgazdálkodási tevékenységet folytat, amelynek során az erdei haszonvételeket az erdőkezelő gyakorolja és jogosult az erdő hasznai szedésére, továbbá köteles az erdőgazdálkodói észszerűség követelményei szerint a kezelt erdőt az előre láthatóan fenyegető kockázatokkal szemben megóvni. Az erdőkezelőt tevékenységéért díj illeti meg.
 
