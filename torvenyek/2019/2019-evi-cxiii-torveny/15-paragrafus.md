@@ -2,7 +2,7 @@
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) az öntözési kerületre és az öntözésfejlesztési tervre, valamint a környezeti körzeti tervre és azok hatósági jóváhagyására vonatkozó részletes szabályokat,
+a) az öntözésfejlesztési területre és az öntözésfejlesztési tervre, valamint a környezeti körzeti tervre és azok hatósági jóváhagyására vonatkozó részletes szabályokat,
 
 b) az öntözési közösség elismerésére, az elismerés felfüggesztésére, visszavonására, működésének ellenőrzésére vonatkozó részletes szabályokat,
 
