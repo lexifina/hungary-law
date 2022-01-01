@@ -1,4 +1,4 @@
-## 3/A. [^17] Az Európai Vasúti Forgalomirányítási Rendszer harmonizált végrehajtása
+## 3/A. [^18] Az Európai Vasúti Forgalomirányítási Rendszer harmonizált végrehajtása
 
 10/A. § (1) Olyan pálya menti ellenőrző-irányító és jelző alrendszer esetében, amely az egységes európai vonatbefolyásoló rendszer (a továbbiakban: ETCS) vagy a vasúti mobil kommunikációs rendszer globális mobilkommunikációs (a továbbiakban: GSM-R) berendezéseit is magába foglalja, a kérelmező a beszerzési eljárás kiírása előtt kérelmezi az Európai Unió Vasúti Ügynökségének (a továbbiakban: Ügynökség) ellenőrzését arra vonatkozóan, hogy a tervezett műszaki megoldások teljes mértékben megfelelnek az átjárhatósági műszaki előírásoknak, és így teljesen átjárhatóak.
 
@@ -14,4 +14,4 @@ b) az Ügynökség részére a kérelem benyújtását követően.
 
 (5) Ha az Ügynökség jóváhagyása után változott az ajánlattételhez szükséges dokumentáció tervezete vagy a tervezett műszaki megoldás leírása, a kérelmező haladéktalanul az (EU) 2016/796 rendelet 12. cikkében hivatkozott egyablakos információs és kommunikációs rendszeren keresztül tájékoztatja az Ügynökséget és a vasúti közlekedési hatóságot. Ebben az esetben az (EU) 2016/796 rendelet 30. cikk (2) bekezdésének megfelelően a kérelmező és a vasúti közlekedési hatóság együttműködik az Ügynökséggel annak érdekében, hogy kölcsönösen elfogadható megoldás jöjjön létre.
 
-[^17]: A 3/A. alcímet (10/A. §) a 415/2020. (VIII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^18]: A 3/A. alcímet (10/A. §) a 415/2020. (VIII. 30.) Korm. rendelet 5. §-a iktatta be.

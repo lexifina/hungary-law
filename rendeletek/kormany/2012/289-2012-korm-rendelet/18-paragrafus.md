@@ -1,6 +1,6 @@
 ## 8. Az átalakítási engedélyezési eljárás
 
-18. §[^30] (1) Az átalakítási engedélyezési eljárásra a 11–13. §-ban foglaltakat a (2) bekezdésben foglaltakkal, valamint azzal az eltéréssel kell alkalmazni, hogy ahol e rendelet építési engedélyt említ, ott átalakítási engedélyt kell érteni.
+18. §[^31] (1) Az átalakítási engedélyezési eljárásra a 11–13. §-ban foglaltakat a (2) bekezdésben foglaltakkal, valamint azzal az eltéréssel kell alkalmazni, hogy ahol e rendelet építési engedélyt említ, ott átalakítási engedélyt kell érteni.
 
 (2) Átjárhatóságot lehetővé tévő alrendszerek felújítása vagy korszerűsítése esetén a vasúti közlekedési hatóság megvizsgálja a kérelmet és annak mellékleteit, és – az ERTMS projektekhez kapcsolódó pálya menti berendezések esetében az Ügynökséggel szorosan együttműködve – a következő feltételek alapján eldönti, hogy szükség van-e átalakítási engedélyre
 
@@ -12,4 +12,4 @@ c) a magyar nemzeti végrehajtási tervek megkövetelik az átalakítási enged�
 
 d) változás következik be azon paraméterek értékeiben, amelyek alapján korábban az építési engedélyt kiállították.
 
-[^30]: A 18. § a 415/2020. (VIII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^31]: A 18. § a 415/2020. (VIII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

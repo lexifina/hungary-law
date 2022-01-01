@@ -10,11 +10,12 @@
 
 5. karbantartás: meglévő vasúti építmény, tartozékai, alrendszerei, rendszerelemei bármely okból történő javítása, helyreállítása, ha az nem jár a használatbavételi engedélyben meghatározott műszaki jellemzők – sebesség, tengelyterhelés – növelésével, valamint a nyomvonal, és a pályatartozékok funkciói nem változnak, és a javítás, helyreállítás nem jár a pálya vagy tartozékainak megszüntetésével;
 
-6. korlátozott szolgáltatási szintű forgalom: a vasúti pályán, a pályahálózat működtetésére engedéllyel rendelkező szervezet által meghatározott módon, de legfeljebb a vasúti hatóság által engedélyezett feltételekkel történő vasúti személyszállítás vagy árutovábbítás;
+6.[^3] korlátozott szolgáltatási szintű forgalom: a vasúti pályán, a vasútbiztonsági engedéllyel rendelkező szervezet által meghatározott módon, de legfeljebb a vasúti hatóság által engedélyezett feltételekkel történő vasúti személyszállítás vagy árutovábbítás;
 
-7.[^3] vasútgépészeti berendezés: azok a vasúti pálya tartozékok, amelyek helyhez kötött gépészeti berendezéssel biztosítják a vasútüzem működését, a rakodó-, mérlegelő-, valamint járműmozgató berendezések, vágányfék, siklás érzékelő, továbbá a vasúti járművek javításához, karbantartásához szükséges helyhez kötött, a vágányra, vágányba vagy a vágány alá vagy fölé épített emelő-, mozgató- és egyéb technológiai berendezések,
+7.[^4] vasútgépészeti berendezés: azok a vasúti pálya tartozékok, amelyek helyhez kötött gépészeti berendezéssel biztosítják a vasútüzem működését, a rakodó-, mérlegelő-, valamint járműmozgató berendezések, vágányfék, siklás érzékelő, továbbá a vasúti járművek javításához, karbantartásához szükséges helyhez kötött, a vágányra, vágányba vagy a vágány alá vagy fölé épített emelő-, mozgató- és egyéb technológiai berendezések,
 
-8.[^4] vasúti híd: olyan vasúti pályatartozék, amely vasúti terhet visel, vasúti pálya alatti szabad nyílást hidal át, és amelynek belső átmérője, vagy a hídfőkre vagy hídfalazatokra merőlegesen mért nyílása két méternél nagyobb, a vasúti pályát természetes és mesterséges akadályok felett vezeti át.
+8.[^5] vasúti híd: olyan vasúti pályatartozék, amely vasúti terhet visel, vasúti pálya alatti szabad nyílást hidal át, és amelynek belső átmérője, vagy a hídfőkre vagy hídfalazatokra merőlegesen mért nyílása két méternél nagyobb, a vasúti pályát természetes és mesterséges akadályok felett vezeti át.
 
-[^3]: A 2. § 7. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^4]: A 2. § 8. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^3]: A 2. § 6. pontja a 789/2021. (XII. 27.) Korm. rendelet 54. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 7. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § 8. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (2) bekezdése iktatta be.
