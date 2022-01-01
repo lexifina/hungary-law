@@ -1,3 +1,3 @@
-75. §[^219]
+75. §[^224]
 
-[^219]: A 70–75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^224]: A 75. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

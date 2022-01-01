@@ -1,10 +1,10 @@
-## 3/A. §[^12] A kijelölt kormányhivatal
+## 3/A. §[^13] A kijelölt kormányhivatal
 
 1. a nála előterjesztett kérelem esetén dönt a személyazonosító igazolvány kiadásáról, kiadásának megtagadásáról, valamint a személyazonosító igazolvány visszavonásáról,
 
 2. hivatalból kiadja a személyazonosító igazolványt a 26. §-ban meghatározott esetben,
 
-3.[^13] kiadja a fogvatartott polgár személyazonosító igazolványát,
+3.[^14] kiadja a fogvatartott polgár személyazonosító igazolványát,
 
 4. kizárólagos hatáskörben kiadja az Nytv. 29/G. § (2) bekezdése szerinti személyazonosító igazolványt,
 
@@ -32,11 +32,11 @@
 
 16. törvényben meghatározottak szerint adatszolgáltatást teljesít a személyazonosító igazolvány nyilvántartásból,
 
-17.[^14] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a szolgáltatásazonosító rögzítését,
+17.[^15] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a szolgáltatásazonosító rögzítését,
 
-18.[^15] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
+18.[^16] a nála előterjesztett kérelem esetén végzi az állandó személyazonosító igazolvány tároló elemén a polgár lakcímének és személyi azonosítójának rögzítését,
 
-[^12]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (6) bekezdése iktatta be.
-[^13]: A 3/A. § 3. pontja a 375/2021. (VI. 30.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
-[^14]: A 3/A. § 17. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
-[^15]: A 3/A. § 18. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^13]: A 3/A. §-t a 379/2016. (XII. 2.) Korm. rendelet 311. § (6) bekezdése iktatta be.
+[^14]: A 3/A. § 3. pontja a 375/2021. (VI. 30.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
+[^15]: A 3/A. § 17. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^16]: A 3/A. § 18. pontját a 176/2019. (VII. 18.) Korm. rendelet 9. § (4) bekezdése iktatta be.
