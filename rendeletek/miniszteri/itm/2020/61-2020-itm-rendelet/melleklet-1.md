@@ -10,9 +10,8 @@
 
 3.[^15]
 
-4.[^16]
+4. Az R. 1. melléklet V. része a következő 9. ponttal egészül ki:
 
 [^13]: Az 1. melléklet 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^14]: Az 1. melléklet 2. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^15]: Az 1. melléklet 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: Az 1. melléklet 4. pontja a 11. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
