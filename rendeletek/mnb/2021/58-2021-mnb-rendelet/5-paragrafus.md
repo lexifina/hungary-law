@@ -1,9 +1,8 @@
-5. § (1)[^9]
+5. § (1) A 44/2020. (XI. 20.) MNB rendelet 10. § (1) bekezdésében az „illetve az (EU) 2015/2450 bizottsági végrehajtási rendelet szerinti adatszolgáltatásokat” szövegrész helyébe az „az (EU) 2015/2450 bizottsági végrehajtási rendelet, illetve az (EU) 2021/897 bizottsági végrehajtási rendelet szerinti adatszolgáltatásokat, továbbá a PEPP szöveges jelentést” szöveg lép.
 
-(2)[^10]
+(2)[^3]
 
-(3)[^11]
+(3)[^4]
 
-[^9]: Az 5. § (1) bekezdése a 6. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^10]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 5. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
