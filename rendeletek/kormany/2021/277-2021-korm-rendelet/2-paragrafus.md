@@ -1,3 +1,7 @@
-## 1. §[^1]
+## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: R.) „Külföldi tartózkodás közben szükséges gyógykezelés megtérítése” alcíme a következő 12/D. §-sal egészül ki:
 
-[^1]: Az 1. § a 24. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+## „12/D. § (1) Az Ebtv. 32. § (1) bekezdésében meghatározott támogatással történő rendelésére jogosító szerződéssel rendelkező egészségügyi szolgáltató orvosa társadalombiztosítási támogatással történő rendelés esetén, a rendelés igénybevételét megelőzően, a TAJ-t igazoló hatósági igazolvány bemutatását, vagy ennek hiányában az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 4. § (5) bekezdésében meghatározott adatok hitelt érdemlő igazolását követően, a NEAK nyilvántartásában közvetlenül elektronikus úton (on-line) ellenőrzi, hogy az Ebtv. 29. § (4) bekezdésében meghatározott személy a nyilvántartásban az egészségbiztosítás egészségügyi szolgáltatásaira jogosultként szerepel-e. A 14. életévét be nem töltött személy esetében az ellenőrzést minden egészségügyi szolgáltatónak egyszer, az adott személy első alkalommal történő ellátása során kell elvégeznie. Az ellenőrzést adott ellátási formában egy napon nyújtott szolgáltatások számától függetlenül egyszer kell elvégezni.
+
+## (2) Az (1) bekezdés szerinti jogviszony-ellenőrzést a szolgáltató kizárólag a NEAK által, az ellenőrzéssel érintett ellátás szerinti támogatással történő rendelésére jogosító szerződéshez kapcsolódóan rendelkezésére bocsátott azonosító kóddal végezheti el.
+
+## (3) Az Ebtv. 32. § (1) bekezdésében meghatározott támogatással történő rendelésére jogosító szerződéssel rendelkező egészségügyi szolgáltató orvosa általi jogviszony ellenőrzéssel kapcsolatban egyebekben a 12/B. § (3)–(14) bekezdésében foglaltak alkalmazandóak.”

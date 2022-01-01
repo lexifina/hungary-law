@@ -1,3 +1,3 @@
-2. melléklet a 277/2021. (V. 26.) Korm. rendelethez[^35]
+2. melléklet a 277/2021. (V. 26.) Korm. rendelethez[^33]
 
-[^35]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
