@@ -34,3 +34,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2020-12-27 | 2011-37-20-22.26 | 550/2013. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2011-37-20-22.27 | 158/2014. (VI. 30.) Korm. rendelet |
 | 2021-12-06 | 2011-37-20-22.28 | 679/2021. (XII. 3.) Korm. rendelet |
+| 2022-01-01 | 2011-37-20-22.29 | 679/2021. (XII. 3.) Korm. rendelet |
