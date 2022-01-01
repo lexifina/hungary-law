@@ -16,7 +16,11 @@ a) hogy az (1) bekezdés a) vagy b) pontja esetében az elpusztított élő szer
 
 b) amely az (1) bekezdés c) pontja esetében az élő szervezet állományának fennmaradását veszélyezteti.
 
+(2a) A (2) bekezdés szerint büntetendő, aki a természetkárosítást méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével, több állat életét veszélyeztetve követi el.
+
 (3) Aki a (2) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+
+(3a) Aki a (2) vagy a (2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 (4) E § alkalmazásában élő szervezet egyede:
 
