@@ -6,7 +6,7 @@ a) mechanikai sérülés megelőzése, illetve
 
 b) a takarmányozáshoz ivóvíz-minőségű víz
 
-## biztosítására.
+biztosítására.
 
 (2) Az ezen alcím szerinti támogatás a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013 EU európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés t) pontjában meghatározott termékágazathoz kapcsolódó támogatásnak minősül.
 

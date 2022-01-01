@@ -1,4 +1,4 @@
-## 3. §[^1] E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő és az őstermelők családi gazdaságának képviselője, (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
+3. §[^1] E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő és az őstermelők családi gazdaságának képviselője, (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
 
 a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Tv. alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben,
 

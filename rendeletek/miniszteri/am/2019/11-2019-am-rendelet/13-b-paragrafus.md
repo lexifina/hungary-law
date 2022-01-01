@@ -1,6 +1,6 @@
-13/B. § (1)[^25] Az igénylő a 11. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések ellentételezésére a 2020/2021. támogatási év II., III. és IV. negyedévére, valamint a 2021/2022. támogatási év I. és II. negyedévére – a 11. § (1) bekezdésében foglaltaktól eltérően – kizárólag átmeneti támogatás igénybevételére jogosult.
+13/B. § (1)[^25] Az igénylő a 11. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések ellentételezésére a 2020/2021. támogatási év II., III. és IV. negyedévére, valamint a 2021/2022. támogatási év I., II., III. és IV. negyedévére – a 11. § (1) bekezdésében foglaltaktól eltérően – kizárólag átmeneti támogatás igénybevételére jogosult.
 
-(2)[^26] Az átmeneti támogatás iránti kérelem 2020. október 1. és október 31., 2021. január 16. és január 31., 2021. április 16. és április 30., 2021. július 16. és július 31., valamint 2021. október 16. és október 31. között, ügyfélkapus azonosítást követően, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+(2)[^26] Az átmeneti támogatás iránti kérelem 2020. október 1. és október 31., 2021. január 16. és január 31., 2021. április 16. és április 30., 2021. július 16. és július 31., 2021. október 16. és október 31., 2022. január 16. és január 31., valamint 2022. április 16. és április 30. között., ügyfélkapus azonosítást követően, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (3) Az átmeneti támogatás vonatkozásában nem kell alkalmazni a 11. § (2) bekezdésében, a 11. § (3) bekezdés b) pontjában és (11) bekezdésében, valamint a 13/A. § (3)–(5) bekezdésében foglaltakat.
 
@@ -28,7 +28,7 @@ bd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító 
 
 (9)[^28] Az átmeneti támogatás iránti kérelem legkésőbb a (2) bekezdésben meghatározott benyújtási határidő végéig, az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó átmeneti támogatás iránti kérelmet kell elbírálni. Az átmeneti támogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
 
-[^25]: A 13/B. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 22. §-ával megállapított szöveg.
-[^26]: A 13/B. § (2) bekezdése a 18/2021. (IV. 14.) AM rendelet 22. §-ával megállapított szöveg.
+[^25]: A 13/B. § (1) bekezdése a 18/2021. (IV. 14.) AM rendelet 22. §-ával megállapított, az 50/2021. (XII. 29.) AM rendelet 27. § b) pontja szerint módosított szöveg.
+[^26]: A 13/B. § (2) bekezdése a 18/2021. (IV. 14.) AM rendelet 22. §-ával megállapított, az 50/2021. (XII. 29.) AM rendelet 27. § c) pontja szerint módosított szöveg.
 [^27]: A 13/B. § (5) bekezdés b) pont ba) alpontja a 65/2020. (XII. 17.) AM rendelet 12. § c) pontja szerint módosított szöveg.
 [^28]: A 13/B. § (9) bekezdése a 65/2020. (XII. 17.) AM rendelet 13. §-a szerint módosított szöveg.

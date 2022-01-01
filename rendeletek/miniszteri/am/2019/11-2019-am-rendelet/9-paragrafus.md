@@ -4,7 +4,7 @@ a) a baromfiállomány istálló környezetének javítására a (2) bekezdésbe
 
 b) a baromfiállomány istállóban a gázkoncentráció paraméterekre a (3) bekezdésben
 
-## előírt feltételeket.
+előírt feltételeket.
 
 (2) A ketreces tartású házi tyúk fajta kivételével a támogatás igénybevételéhez az igénylőnek
 
@@ -16,7 +16,7 @@ ba) víziszárnyas esetében 150g/m2/hét (1 vagy 2 szeri kijuttatásban),
 
 bb) a többi fajta esetében legalább 100g/m2/hét
 
-## mennyiségben.
+mennyiségben.
 
 (3) Az igénylőnek az istálló gázkoncentrációjának javítása érdekében biztosítani kell az istállóban
 

@@ -1,5 +1,3 @@
-## Az állategység számítás módja
-
 |  | A | B |
 
 | 1 | Baromfi megnevezése | ÁE/állat |
@@ -22,6 +20,6 @@
 
 | 10 | növendék pulyka | 0,0067 |
 
-2. melléklet a 11/2019. (IV. 1.) AM rendelethez[^45]
+2. melléklet a 11/2019. (IV. 1.) AM rendelethez[^46]
 
-[^45]: A 2. melléklet a 2/2021. (II. 15.) AM rendelet 10. §-ával megállapított, a 29/2021. (VIII. 31.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^46]: A 2. melléklet az 50/2021. (XII. 29.) AM rendelet 28. §-ával megállapított szöveg.

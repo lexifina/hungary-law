@@ -1,5 +1,3 @@
-## A nagyvállalkozás által benyújtott támogatási kérelem benyújtásához szükséges elemzés
-
 |  | A | B | C | D |
 
 | 1. |  | 2. § (1) bekezdés a)–d) pontja szerinti tevékenységek megvalósítása nélkül | 2. § (1) bekezdés a)–d) pontja szerinti tevékenységek megvalósításával támogatás nélkül | 2. § (1) bekezdés a)–d) pontja szerinti tevékenységek megvalósításával támogatással |
@@ -27,3 +25,5 @@
 | 12. | e) csökkent értékű értékesítés száma (ÁE) |  |  |  |
 
 4. melléklet a 11/2019. (IV. 1.) AM rendelethez
+
+A törött végtagú állatok mértékének meghatározása állatállományonként

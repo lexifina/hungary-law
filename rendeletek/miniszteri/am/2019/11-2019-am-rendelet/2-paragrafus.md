@@ -10,7 +10,7 @@ c) a megfelelő épület-mikroklíma biztosítására,
 
 d) a csökkentett nyersfehérje tartalmú takarmány használatára
 
-## (a továbbiakban: tevékenység).
+(a továbbiakban: tevékenység).
 
 (2) E rendelet alapján a 3. § szerinti igénylő által az adott gazdasági esemény időpontjában fennálló
 
@@ -18,7 +18,7 @@ a) baromfiállomány – házi tyúk kivételével – nevelése, hizlalása ese
 
 b) házi tyúk nevelése esetén az (1) bekezdés b)–d) pontja szerinti
 
-## tevékenységre igényelhető támogatás.
+tevékenységre igényelhető támogatás.
 
 (3) Kétfázisú nevelés esetén csak valamely nevelési vagy hasznosítási szakaszban vagy az egyes szakaszokban tevékenységek szerint megosztva igényelhető támogatás az alábbiak szerint:
 

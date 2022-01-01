@@ -1,3 +1,3 @@
-## 20. §[^41] E rendeletnek az agrárpolitikáért felelős miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról 64/2020. (XII. 16.) AM rendelettel megállapított 2. mellékletét a 2020/2021. támogatási év II. tárgynegyedévre benyújtott kérelmekre indult eljárásokban kell alkalmazni.
+21. §[^43] E rendelet alapján mezőgazdasági csekély összegű támogatás – a 11. § (6) bekezdésében foglaltaktól eltérően – a 2020/2021. támogatási évre vonatkozóan legfeljebb 3,143 milliárd forint összegig állapítható meg.
 
-[^41]: A 20. §-t a 64/2020. (XII. 16.) AM rendelet 11. §-a iktatta be.
+[^43]: A 21. §-t a 2/2021. (II. 15.) AM rendelet 9. §-a iktatta be, szövege a 29/2021. (VIII. 31.) AM rendelet 6. § b) pontja szerint módosított szöveg.

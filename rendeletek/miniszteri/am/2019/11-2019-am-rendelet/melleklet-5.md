@@ -1,5 +1,3 @@
-## A törött végtagú állatok mértékének meghatározása állatállományonként
-
 |  | A | B |
 
 | 1. | Baromfifajta | Végtagtörés aránya % |
@@ -21,3 +19,5 @@
 | 9. | Szabadtartásos csirke és gyöngyös | 2% |
 
 5. melléklet a 11/2019. (IV. 1.) AM rendelethez
+
+A csökkentett nyersfehérje-tartalmú takarmány használata esetén alkalmazott táblázat

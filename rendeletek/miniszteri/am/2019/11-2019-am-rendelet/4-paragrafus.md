@@ -26,7 +26,7 @@ d) átminősített előnevelt (növendék) pulykára, valamint
 
 e) levágott összes baromfifélére
 
-## a 2019/2020. támogatási évben legfeljebb 13,82403 milliárd forint, a 2020/2021. támogatási évben legfeljebb 11,408 milliárd forint, a 2021/2022. támogatási évben legfeljebb 10,100 milliárd forint összegig állapítható meg támogatás, amely a 2. mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és tárgynegyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
+a 2019/2020. támogatási évben legfeljebb 13,82403 milliárd forint, a 2020/2021. támogatási évben legfeljebb 11,408 milliárd forint, a 2021/2022. támogatási évben legfeljebb 10,100 milliárd forint összegig a 2022/2023. támogatási évben legfeljebb 10,000 milliárd forint összegig állapítható meg támogatás, amely a 2. mellékletben foglaltak alapján, baromfi megnevezés-csoportonként és tárgynegyedévenként elkülönített támogatási keretek szerint kerül felosztásra.
 
 (2) A Magyar Államkincstár (a továbbiakban: Kincstár) a 6. § szerint benyújtott és az ellenőrzést követően jóváhagyott kifizetési kérelmeket negyedévente összesíti, és az adott tárgynegyedévre vonatkozóan megállapítja a kérelmenként járó jogos támogatás összegét.
 
@@ -42,4 +42,4 @@ e) levágott összes baromfifélére
 
 (8) A Tv. 45/B. §-a szerinti kötelezettség-átadásra jelen intézkedés vonatkozásában nincs lehetőség.
 
-[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 39/2020. (VII. 30.) AM rendelet 6. §-a, záró szövegrésze a 39/2020. (VII. 30.) AM rendelet 5. §-a, a 64/2020. (XII. 16.) AM rendelet 12. § a) pontja, a 2/2021. (II. 15.) AM rendelet 11. §-a, a 29/2021. (VIII. 31.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 39/2020. (VII. 30.) AM rendelet 6. §-a, záró szövegrésze a 39/2020. (VII. 30.) AM rendelet 5. §-a, a 64/2020. (XII. 16.) AM rendelet 12. § a) pontja, a 2/2021. (II. 15.) AM rendelet 11. §-a, a 29/2021. (VIII. 31.) AM rendelet 6. § a) pontja, az 50/2021. (XII. 29.) AM rendelet 27. § a) pontja szerint módosított szöveg.
