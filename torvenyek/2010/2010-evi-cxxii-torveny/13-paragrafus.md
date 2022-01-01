@@ -56,7 +56,7 @@ d) ellátja az állami garancia (kezesség) kiutalásával, visszakövetelésév
 
 e)
 
-f)
+f) a jogszerű építőipari foglalkoztatás előmozdítása érdekében hozzáférési jogosultsággal rendelkezik a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerhez és a részét képező rendszerekhez (a továbbiakban együtt: felügyeleti és adatszolgáltató rendszer), törvényben meghatározottak szerint jogosult a felügyeleti és adatszolgáltató rendszerben rögzített személyes adatok kezelésére, biztosítja az általa vezetett nyilvántartásokból meghatározott adatok felügyeleti és adatszolgáltató rendszerbe történő átadását,
 
 g) ellátja a munkáltatók és kifizetők által foglalkoztatott biztosítottak adatainak nyilvántartásával, továbbá az adatoknak az egészségbiztosítás biztosítotti nyilvántartása és a foglalkoztatás-felügyeleti hatóság részére történő átadásával kapcsolatos, jogszabályban az állami adó- és vámhatóság feladataként meghatározott feladatokat,
 

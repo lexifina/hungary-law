@@ -10,6 +10,8 @@ c) az áruk szállításában, a jövedéki törvény hatálya alá tartozó ter
 
 d) a NAV kezelésében lévő létesítménybe be- és kilépő személyek, illetve a 37. § (1) bekezdés alapján igazoltatott személyek személyes adatait, továbbá a beléptető rendszer működtetése során keletkezett adatokat az adat keletkezésétől számított legfeljebb egy évig.
 
+e) a felügyeleti és adatszolgáltató rendszer törvényben vagy kormányrendeletben meghatározott adatait.
+
 (1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
 (2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az elővezetés, az igazoltatás és az ellenőrzési eljárás zavartalanságának biztosítása, továbbá a helyszín, helyiség, jármű átvizsgálása, rakomány ellenőrzésének Air. szerinti szabályai alapján tett intézkedésekre.

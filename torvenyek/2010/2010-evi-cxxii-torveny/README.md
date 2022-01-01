@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2021-03-01 | 2020. évi CLII. törvény | 2010-122-00-00.47 |
 | 2021-10-01 | 2021. évi CI. törvény | 2010-122-00-00.48 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2010-122-00-00.49 |
+| 2022-01-01 | 2021. évi LXIII. törvény | 2010-122-00-00.50 |
