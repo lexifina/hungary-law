@@ -1,1 +1,5 @@
 ## 1. Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszere kötelező igénybevételének megszüntetésével kapcsolatos feladatátadással összefüggő rendelkezések
+
+1. § (1) A NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. által 2021. december 31. napjáig végzett, a kormányzati ügyiratkezelő érkeztető rendszer igénybevételére kötelezett átvevő szervekhez (a továbbiakban: átvevő szervek) átkerülő feladatok ellátásában érintett szervezeti egységeinél vagy tevékenysége keretében foglalkoztatott munkavállalók foglalkoztatási jogviszonya – a feladat átkerülésének időpontját követő hónap első napjától – a feladatátadás miatt bekövetkező jogállásváltozásra tekintettel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/F. § (1) bekezdése alapján az átvevő szervnél foglalkoztatottakra irányadó jogállási törvény szerinti jogviszonnyá alakul át az Áht. 11/F. §-ában foglaltaknak megfelelően.
+
+(2) A munkaviszonyban foglalkoztatottak esetében a tanulmányi szerződés, valamint a munkabérelőleg vonatkozásában a jogok és kötelezettségek az átvevő szervekre szállnak át.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-477-20-
 | --- | --- | --- |
 | 2021-08-17 | 2021-477-20-22.1 | 477/2021. (VIII. 9.) Korm. rendelet |
 | 2021-08-18 | 2021-477-20-22.2 | 2010: CXXX. törvény |
+| 2022-01-01 | 2021-477-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

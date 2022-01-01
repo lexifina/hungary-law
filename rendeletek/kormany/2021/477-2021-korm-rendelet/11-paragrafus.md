@@ -1,6 +1,5 @@
-## 10. §[^13]
+## 10. § Hatályát veszti az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 121. § (1) bekezdés b) pontja.
 
-11. §[^14]
+11. §[^5]
 
-[^13]: A 10. § a 2. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^14]: A 11. § a 2. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^5]: A 11. § a 2. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
