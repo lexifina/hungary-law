@@ -1,23 +1,19 @@
-## 104. §[^117]
+## lép.
 
 ## 105. § Hatályát veszti az eVhr.
 
-a)[^118]
+a)[^116]
 
-b)[^119]
+b)[^117]
 
-c)[^120]
+c) 114. § (2) bekezdése,
 
-d)[^121]
+d) „ÁNYK űrlapbenyújtás-támogatási szolgáltatás” alcím címe és 115. §-a,
 
-e)[^122]
+e) „Elektronikus űrlapkitöltés-támogatási szolgáltatás” alcím címe,
 
-f)[^123]
+f)[^118]
 
-[^117]: A 104. § a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^118]: A 105. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^119]: A 105. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^120]: A 105. § c) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^121]: A 105. § d) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^122]: A 105. § e) pontja a 127. § (8) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^123]: A 105. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 105. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 105. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 105. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

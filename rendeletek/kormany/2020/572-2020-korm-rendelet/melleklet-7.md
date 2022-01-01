@@ -1,3 +1,3 @@
-7. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^148]
+7. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^143]
 
-[^148]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^143]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
