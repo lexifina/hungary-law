@@ -4,7 +4,7 @@
 
 a) aktív korúak ellátására jogosult vagy aktív korúak ellátására jogosult, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti közeli hozzátartozójával él közös háztartásban,
 
-b) közgyógyellátásban részesül vagy egészségügyi szolgáltatásra való jogosultságát állapították meg,
+b) közgyógyellátásban részesül vagy természetben nyújtott szociális ellátásként egészségügyi szolgáltatásra való jogosultságot megállapító érvényes hatósági bizonyítvánnyal rendelkezik,
 
 c) átmeneti szállást igénybe vevő hajléktalan személy,
 
