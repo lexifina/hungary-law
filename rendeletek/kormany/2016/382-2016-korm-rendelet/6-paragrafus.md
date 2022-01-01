@@ -1,8 +1,8 @@
-## 5/B. §[^63] A Kormány a Magyar Autóklubot jelöli ki a muzeális minősítő bizottságok tevékenységével kapcsolatos közlekedési hatósági feladatok ellátása tekintetében.
+## 5/B. §[^68] A Kormány muzeális minősítő szervezetként a Magyar Autóklubot jelöli ki. A muzeális jellegű járművekre vonatkozó szakmai szabályok kidolgozására, kiadására, valamint a muzeális járművek tekintetében a nyilvántartás vezetésére jogosult szervezetként, a muzeális minősítő rendszer működtetőjeként a Kormány a KTI Közlekedéstudományi Intézet Nonprofit Kft.-t jelöli ki.
 
 ## 4. A vasúti közlekedési hatóság kijelölése
 
-6. §[^64] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
+6. §[^69] (1) Vasúti közlekedési hatóságként a Kormány a (3) bekezdésben foglalt kivétellel a minisztert jelöli ki.
 
 (2) A vasúti közlekedés biztonságával összefüggő munkakört betöltő vasúti munkavállalók vizsgáztatását végző vizsgabiztosokat a miniszter nevezi ki.
 
@@ -10,17 +10,17 @@
 
 (4) A mozdonyvezetői munkakörre vonatkozó egészségi alkalmasság előzetes megállapítása tekintetében a Vasútegészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság a vasútbiztonsági hatóság részére tanúsító szervként jár el.
 
-(5)[^65] A településfejlesztési terv és a településrendezési terv a vasúti pályahálózattal érintett település esetében történő egyeztetési eljárásai során a vasúti közlekedési hatóság jár el.
+(5)[^70] A településfejlesztési terv és a településrendezési terv a vasúti pályahálózattal érintett település esetében történő egyeztetési eljárásai során a vasúti közlekedési hatóság jár el.
 
 (6) A vasútszakmai oktatók névjegyzékét a vasúti közlekedési hatóság vezeti.
 
-(7)[^66] A vasúti közlekedési hatóság jár el
+(7)[^71] A vasúti közlekedési hatóság jár el
 
 a) a vasúti közlekedés alágazatba és
 
 b) – a létfontosságú rendszerelem vasúti kapcsolata esetén – a logisztikai központok alágazatba
 
-[^63]: Az 5/B. §-t a 360/2019. (XII. 30.) Korm. rendelet 158. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^64]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^65]: A 6. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
-[^66]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^68]: Az 5/B. §-t a 360/2019. (XII. 30.) Korm. rendelet 158. § (4) bekezdése iktatta be, szövege az 524/2021. (IX. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^69]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^70]: A 6. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^71]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.
