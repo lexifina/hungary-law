@@ -1,1 +1,1 @@
-23. §
+23. § E törvénynek az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel megállapított rendelkezéseit a 2022. január 1. napján vagy azt követően indult nyilvántartási eljárásokban kell alkalmazni.

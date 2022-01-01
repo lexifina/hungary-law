@@ -14,11 +14,13 @@ cc) születési helyét és idejét,
 
 cd) anyjának születési családi és utónevét,
 
-ce) lakóhelyét vagy székhelyét,
+ce) lakóhelyét vagy végrehajtási rendelet szerinti székhelyét,
 
 cf) lakóhely hiányában tartózkodási helyét,
 
 cg) elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségét – ha elektronikus ügyintézésre köteles vagy azt önként vállalta –;
+
+ch) ügyvédi kamarai azonosító számát, ha ügyvédi tevékenység gyakorlására jogosultként jár el;
 
 d) nem természetes személy meghatalmazó, illetve meghatalmazott
 
