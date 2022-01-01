@@ -2,4 +2,12 @@
 
 (2) A Hivatal az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvénnyel megállapított 142/A. § (1) bekezdés szerinti költség-felülvizsgálatot első alkalommal 2012. december 31-ig folytatja le.
 
-(3)–(7)
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)

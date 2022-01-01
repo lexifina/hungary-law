@@ -20,7 +20,9 @@ i) a villamosenergia-rendszer együttműködő képességének megőrzése érde
 
 j) az átviteli hálózat és az átvitelt befolyásoló elosztó hálózat üzemének tervezése és irányítása a teljesítmény-egyensúly folyamatos fenntartása mellett,
 
-k)–l)
+k)
+
+l)
 
 m) az európai rendszer-együttműködésből a magyar villamosenergia-rendszerre nézve keletkező feladatok összehangolása,
 

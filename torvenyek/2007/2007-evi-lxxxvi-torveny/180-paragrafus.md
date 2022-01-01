@@ -1,3 +1,0 @@
-## XXII. Fejezet
-
-## MÓDOSULÓ JOGSZABÁLYOK
