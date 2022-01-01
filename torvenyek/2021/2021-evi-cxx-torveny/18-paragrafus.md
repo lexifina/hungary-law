@@ -1,49 +1,49 @@
 18. § Hatályát veszti a bányászatról szóló 1993. évi XLVIII. törvény
 
-a)
+a) 43. § (4) bekezdése,
 
-b)
+b) 43. § (7) bekezdése,
 
-c)
+c) 43. § (9) bekezdésében az „A bányafelügyelet működését saját bevételeiből és központi költségvetési támogatásból fedezi.” szövegrész,
 
 d)
 
-e)
+e) 43/C. § (2) bekezdése,
 
-f)
+f) 43/C. § (4) bekezdése,
 
-g)
+g) 47/C. § (2) bekezdés h) pontja,
 
-h)
+h) 50/A. § (1) bekezdés 1. és 2. pontja,
 
-i)
+i) 50/A. § (1) bekezdés 5–8. pontja,
 
-j)
+j) 50/A. § (1) bekezdés 10. és 11. pontja,
 
-k)
+k) 50/A. § (1) bekezdés 13. pontja,
 
-l)
+l) 50/A. § (1) bekezdés 15–20. pontja,
 
-m)
+m) 50/A. § (1) bekezdés 21. pont a)–f) alpontja,
 
-n)
+n) 50/A. § (1) bekezdés 21. pont h) és i) alpontja,
 
-o)
+o) 50/A. § (1) bekezdés 21. pont k) és l) alpontja,
 
-p)
+p) 50/A. § (1) bekezdés 23–25. pontja,
 
-q)
+q) 50/A. § (1) bekezdés 27. és 28. pontja,
 
-r)
+r) 50/A. § (1) bekezdés 30. pontja,
 
-s)
+s) 50/A. § (2) bekezdés a)–d) pontja,
 
-t)
+t) 50/A. § (2) bekezdés f) pontja,
 
-u)
+u) 50/A. § (2) bekezdés h) pontja,
 
-v)
+v) 50/A. § (2) bekezdés j)–n) pontja,
 
-w)
+w) 50/A. § (2) bekezdés p) és q) pontja,
 
 x)

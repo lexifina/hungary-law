@@ -1,1 +1,3 @@
-4. §
+4. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 34. §-a a következő (9a) bekezdéssel egészül ki:
+
+„(9a) Az elektronikus ügyintézési ponton állandó személyazonosító igazolvány kiadása céljából előterjesztett kérelem esetén a (9) bekezdésben meghatározott szolgáltatás igénybevétele során felvételezett arcképmás az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/D. §-a szerinti automatizált arcképmás összehasonlítási, valamint az egységes arcképmás- és aláírás-felvételezési eljárás során is felhasználásra kerül.”
