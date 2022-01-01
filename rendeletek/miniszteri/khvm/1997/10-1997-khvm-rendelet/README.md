@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-10-20-6
 | 2018-01-01 | 1997-10-20-6B.15 | 42/2017. (XII. 29.) BM rendelet |
 | 2019-01-01 | 1997-10-20-6B.16 | 36/2018. (XII. 21.) BM rendelet |
 | 2021-10-22 | 1997-10-20-6B.17 | 35/2021. (X. 14.) BM rendelet |
+| 2022-01-01 | 1997-10-20-6B.18 | 35/2021. (X. 14.) BM rendelet |
