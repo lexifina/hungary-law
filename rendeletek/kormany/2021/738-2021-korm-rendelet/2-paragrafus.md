@@ -1,0 +1,1 @@
+## „(4) A vizsga tematikáját, időpontját és a vizsgaszabályzatot a felnőttképzési államigazgatási szerv állapítja meg. A felnőttképzési államigazgatási szerv a vizsga tematikáját és a vizsgaszabályzatot a továbbképzési időszak kezdete előtt legalább harminc nappal, a vizsga időpontját a vizsgát megelőzően legalább harminc nappal a honlapján közzéteszi.”
