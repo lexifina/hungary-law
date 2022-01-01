@@ -1,8 +1,8 @@
 ## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 6/2021. (III. 3.) BM rendelethez[^1]
+1. melléklet a 6/2021. (III. 3.) BM rendelethez[^2]
 
-A XIV. Belügyminisztérium fejezet 2021. évi költségvetési kiadási központi kezelésű előirányzatainak feladatterve
+A XIV. Belügyminisztérium fejezet 2022. évi költségvetési kiadási központi kezelésű előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -28,4 +28,4 @@ A XIV. Belügyminisztérium fejezet 2021. évi költségvetési kiadási közpon
 
 |  |  |  |  | 1. technikai segítségnyújtás költségkeretének felhasználására, 2. támogatások biztosítására, 3. az európai uniós forrás terhére finanszírozott, valamint a projektegyenleg megállapítása keretében szükséges forrásszerkezet-módosítás eredményeként osztott finanszírozású projektek el nem számolható hozzájárulásának finanszírozására, továbbá 4. az alapokat érintő, valamint a jogelőd alapok kapcsán keletkező tagállami visszafizetési kötelezettségek finanszírozására használható fel. | rendelkező egyéb szervezet, h) helyi önkormányzat, i) nemzetiségi önkormányzat, j) önkormányzati társulás, k) – a BM igazgatása kivételével – költségvetési szerv, l) nemzetközi szervezet, m) kormányközi szervezet, n) gazdasági társaság. IV. Az F:5 mező 3. pontja tekintetében – a BM igazgatása kivételével – a miniszter irányítása alá tartozó költségvetési szerv. V. Az F:5 mező 4. pontja tekintetében az Európai Bizottság. | szabályai szerint. |  |  |  |  |  |  |  |
 
-[^1]: Az 1. melléklet az 51/2021. (XII. 23.) BM rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet az 51/2021. (XII. 23.) BM rendelet 1. §-a, az 52/2021. (XII. 27.) BM rendelet 4. § b) pontja szerint módosított szöveg.
