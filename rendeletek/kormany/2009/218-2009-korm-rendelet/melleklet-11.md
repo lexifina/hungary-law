@@ -58,7 +58,7 @@ a) Magyar Energetikai és Közmű-szabályozási Hivatal,
 
 b) Országos Atomenergia Hivatal;
 
-3. Magyar Bányászati és Földtani Szolgálat;
+3. Szabályozott Tevékenységek Felügyeleti Hatósága;
 
 4. országos tisztifőorvos;
 
@@ -106,4 +106,4 @@ c) a működési területével érintett vízügyi igazgatóság,
 
 16. az érintett települési önkormányzatok.
 
-[^116]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^116]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított, a 825/2021. (XXII. 28.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

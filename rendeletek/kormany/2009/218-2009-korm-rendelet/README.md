@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-218-20-
 | 2020-03-18 | 2009-218-20-22.29 | 334/2017. (XI. 9.) Korm. rendelet |
 | 2021-07-16 | 2009-218-20-22.30 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2021-09-15 | 2009-218-20-22.31 | 511/2021. (IX. 3.) Korm. rendelet |
+| 2022-01-01 | 2009-218-20-22.32 | 121/2019. (V. 27.) Korm. rendelet |

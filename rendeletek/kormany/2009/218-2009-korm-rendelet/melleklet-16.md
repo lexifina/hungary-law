@@ -26,11 +26,11 @@
 
 | 12. | k) honvédelmi és katonai célú terület övezete | honvédelemért felelős miniszter |
 
-| 13. | 2. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti kiemelt térségi övezetek | a) ásványi nyersanyagvagyon övezete | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 13. | 2. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti kiemelt térségi övezetek | a) ásványi nyersanyagvagyon övezete | bányafelügyelet |
 
 | 14. | b) rendszeresen belvízjárta terület övezete | területi vízügyi igazgatóság |
 
-| 15. | c) földtani veszélyforrás területe övezete | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 15. | c) földtani veszélyforrás területe övezete | bányafelügyelet |
 
 | 16. | 3. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény által meghatározott egyedi övezetek | a) tájképvédelmi szempontból kiemelten kezelendő terület övezete | nemzeti park igazgatóság |
 
@@ -72,8 +72,8 @@ A Magyarország és egyes kiemelt térségeinek területrendezési tervéről sz
 
 | 14. | 2. A Magyarország és kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény szerinti kiemelt térségi övezetek | a) rendszeresen belvízjárta terület övezete | területi vízügyi igazgatóság |
 
-| 15. | b) ásványi nyersanyagvagyon övezete | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 15. | b) ásványi nyersanyagvagyon övezete | bányafelügyelet |
 
-| 16. | c) földtani veszélyforrás területe övezete | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal |
+| 16. | c) földtani veszélyforrás területe övezete | bányafelügyelet |
 
-[^121]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja szerint módosított szöveg.
+[^121]: A 16. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (5) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § d) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § e)–f) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
