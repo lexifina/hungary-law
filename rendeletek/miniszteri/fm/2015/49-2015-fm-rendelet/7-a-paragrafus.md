@@ -1,6 +1,6 @@
 ## 7a.[^51] Átmeneti támogatás
 
-7/A. § (1) A termelői szerveződés az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének[^52] napja és 2021. november 30. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
+7/A. § (1)[^52] A termelői szerveződés az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének[^53] napja és 2022. május 31. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
 
 (2) Az átmeneti támogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -24,13 +24,16 @@ g) a hitel kedvezményes kamatlábából, a kapcsolódó intézményi kezességv
 
 (5) Átmeneti támogatás igénylése esetén a termelői szerveződés átmeneti támogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
 
-(6) Az átmeneti támogatás iránti kamattámogatási kérelem 2021. november 30-áig postai úton nyújtható be a Kincstárhoz.
+(6)[^54] Az átmeneti támogatás iránti kamattámogatási kérelem 2022. május 31-éig postai úton nyújtható be a Kincstárhoz.
 
 (7) A Kincstár – az (1) bekezdés szerinti átmeneti támogatás iránti kamattámogatási kérelem tekintetében – a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés b)–c) pontjában meghatározott értékhatárt meghaladó átmeneti támogatási igényt elutasítja vagy annak összegét a 20/2020. (VI. 19.) AM rendelet 3. § (5) bekezdésében foglaltakra tekintettel állapítja meg. A szabad átmeneti támogatási keret a 20/2020. (VI. 19.) AM rendelet 4. § (1) bekezdésében foglaltakra tekintettel kerül megállapításra.
 
-(8) A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2021. december 31-éig megküldi a termelői szerveződés részére.
+(8)[^55] A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2022. június 30-áig megküldi a termelői szerveződés részére.
 
 (9) Az (1) bekezdésben meghatározott hitelszerződésekhez kapcsolódóan csekély összegű támogatási jogcímen kamattámogatás abban az esetben igényelhető, ha az átmeneti támogatás nyújtásának feltételei nem állnak fenn.
 
 [^51]: A 7a. alcímet (7/A. §) a 18/2021. (IV. 14.) AM rendelet 12. §-a iktatta be.
-[^52]: A hatálybalépés időpontja 2021. április 15.
+[^52]: A 7/A. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 19. § a) pontja szerint módosított szöveg.
+[^53]: A hatálybalépés időpontja 2021. április 15.
+[^54]: A 7/A. § (6) bekezdése az 50/2021. (XII. 29.) AM rendelet 19. § b) pontja szerint módosított szöveg.
+[^55]: A 7/A. § (8) bekezdése az 50/2021. (XII. 29.) AM rendelet 19. § c) pontja szerint módosított szöveg.
