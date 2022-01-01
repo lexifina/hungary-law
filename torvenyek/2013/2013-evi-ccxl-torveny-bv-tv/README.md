@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-240-00-00
 | 2020-11-05 | 2020. évi CVIII. törvény | 2013-240-00-00.25 |
 | 2020-11-20 | 2020. évi XLIII. törvény | 2013-240-00-00.26 |
 | 2021-01-01 | 2020. évi XLIII. törvény | 2013-240-00-00.27 |
+| 2022-01-01 | 2021. évi CXXVIII. törvény | 2013-240-00-00.28 |
