@@ -1,6 +1,6 @@
 ## 12. Az NKFI Alap Innovációs Alaprészének terhére nyújtott támogatások
 
-28. § Az NKFI Alap terhére a következő célokra nyújtható innovációs támogatás:
+28. § Az NKFI Alap Innovációs Alaprésze terhére a következő célokra nyújtható támogatás:
 
 a) országos kutatás-fejlesztési és innovációs programokra,
 

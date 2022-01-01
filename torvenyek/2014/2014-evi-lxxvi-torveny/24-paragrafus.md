@@ -1,6 +1,6 @@
 ## 11. Az NKFI Alap Kutatási Alaprészének terhére nyújtott támogatások
 
-24. § (1) Az NKFI Alap terhére finanszírozott kutatás-fejlesztési pályázatokhoz a következő célokra nyújtható támogatás:
+24. § (1) Az NKFI Alap Kutatási Alaprésze terhére a következő célokra nyújtható támogatás:
 
 a) tudományos kutatási témákkal, területekkel kapcsolatos folyó ráfordításokra,
 

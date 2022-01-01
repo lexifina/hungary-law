@@ -26,6 +26,8 @@ j) közfinanszírozású támogatás útján támogatja az innovatív vállalkoz
 
 k) a kutatás-fejlesztés és a technológiai innováció közfinanszírozású támogatásának eszközével ösztönzi a digitális ökoszisztéma fejlődését.
 
+l) közfinanszírozású támogatás útján gondoskodik a nemzeti laboratóriumok hazai rendszerének kialakításáról és működésük támogatásáról.
+
 (2) A Kormány a kutatási-fejlesztés és az innováció közfinanszírozású támogatásával kapcsolatos feladatokat a tudománypolitika koordinációjáért felelős miniszter útján látja el.
 
 (3) A Kormány a kutatás-fejlesztés és innováció közfinanszírozású támogatását elsődlegesen a Nemzeti Kutatási, Fejlesztési és Innovációs Alapból (a továbbiakban: NKFI Alap) biztosítja. A Kormány által az NKFI Alapból központilag biztosított személyi jellegű kutatói pályázatok nem foglalják magukban a felsőoktatási intézmények doktori iskoláiban doktori képzésben részt vevők állami ösztöndíját.

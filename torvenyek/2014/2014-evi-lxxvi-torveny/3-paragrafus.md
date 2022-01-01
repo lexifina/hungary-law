@@ -66,6 +66,8 @@ f) a megállapodás szerinti termékre, eljárásra vagy szolgáltatásra vonatk
 
 17. mikro-, kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkv. tv.) 3. §-a szerinti mikro-, kis- és középvállalkozás,
 
+17a. nemzeti laboratórium: felfedező és kísérleti megközelítésű kutatásoknak új, nemzetközi dimenzióját nyitó, együttműködésen alapuló, intézményesülő, dinamikus színtér a kutatási eredmények társadalmi, gazdasági, környezeti hasznosítására,
+
 18. nonprofit közhasznú kutatóhely: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú szervezetté minősített kutatóhely,
 
 19. projekt: meghatározott kutatás-fejlesztési feladat vagy innovációs folyamat végrehajtására irányuló tevékenység az abban érdekeltek által meghatározott terv alapján,
