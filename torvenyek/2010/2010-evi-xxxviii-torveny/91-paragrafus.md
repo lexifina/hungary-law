@@ -6,6 +6,8 @@
 
 (2a) Ha a teljes hatályú hagyatékátadó végzés utóöröklési jogot tartalmaz, akkor a közjegyző a Végrendeletek Országos Nyilvántartásába bejegyzi az előörökös nevét, születési nevét, születési helyét és idejét, anyja születési nevét, valamint az utóöröklési jogot tartalmazó teljes hatályú hagyatékátadó végzés egyedi azonosításához szükséges adatokat.
 
+(2b) A közjegyző a (2) bekezdésben foglaltakon túl minden esetben értesíti a cégbíróságot, ha az állam – nyilvánosan működő részvénytársaság kivételével – gazdasági társaságban bármilyen mértékű társasági részesedést örökölt.
+
 (3) A közjegyző a teljes hatályú hagyatékátadó végzés és az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedésének megállapítása után megteszi a jogszabályban előírt intézkedéseket.
 
 (4) A teljes hatályú hagyatékátadó végzés, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés, valamint az eljárást megszüntető végzés jogerőre emelkedésének megállapítása után a végzés rendelkezéseinek megfelelően a közjegyző intézkedik a biztosítási intézkedés folytán hatósági, közjegyzői vagy bírósági letétben levő vagyontárgy kiutalása, valamint a hagyatéki eljárás során korábban elrendelt biztosítási intézkedéssel birtokba adott (birtokban hagyott) vagyontárgynak a jogosult részére való átadása és a zár alá vétel megszüntetése iránt.
