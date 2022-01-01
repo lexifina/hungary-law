@@ -1,0 +1,1 @@
+16. § A naptári évtől eltérő üzleti évet alkalmazó kockázatitőkealap-kezelő, árutőzsdei szolgáltató a 2021-ben kezdődő adóévére vonatkozó pénzügyi szervezetek adókötelezettségét e törvénynek a 2021. december 31-én hatályos rendelkezései figyelembevételével határozza meg.

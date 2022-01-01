@@ -20,9 +20,9 @@ ab) díj- és jutalékeredmény
 
 összevont összege, vagy az éves beszámolóját az IFRS-ek szerint összeállító pénzügyi vállalkozásnál az IFRS-ek szerint meghatározott, ennek megfelelő összeg;
 
-b) tőzsdénél a tőzsdék és az elszámolóházi tevékenységet végző szervezetek éves beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló kormányrendelet szerint készített adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel vagy az éves beszámolóját az IFRS-ek szerint összeállító tőzsdénél az IFRS-ek szerint meghatározott, ennek megfelelő összeg;
+b)
 
-c) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az adóévet megelőző második adóévi éves beszámoló adataiból számított korrigált nettó árbevétel vagy az éves beszámolóját az IFRS-ek szerint összeállító árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél az IFRS-ek szerint meghatározott, ennek megfelelő összeg.
+c)
 
 (5)
 
@@ -38,9 +38,9 @@ ca) pénzügyi vállalkozásnál 6,5 százalék,
 
 cb)
 
-cc) tőzsdénél 5,6 százalék,
+cc)
 
-cd) árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél 5,6 százalék,
+cd)
 
 ce)
 
@@ -58,7 +58,7 @@ a) a hitelintézet az adóalap meghatározásakor számításba vett, a beszámo
 
 b) a pénzügyi vállalkozás az adóalap meghatározásakor számításba vett, a beszámoló, illetve az IFRS-ek szerint vezetett nyilvántartásai adataiból számított kamateredményt, valamint díj- és jutalékeredményt tartalmazó kimutatást,
 
-c) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltató az éves beszámolóban szereplő értékesítés nettó árbevételéből az árutőzsdei szolgáltatásból származó árbevételt tartalmazó kimutatást.
+c)
 
 (11)
 

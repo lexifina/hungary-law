@@ -12,19 +12,19 @@
 
 5–6.
 
-7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás, tőzsde, árutőzsdei szolgáltató, kockázati tőkealap-kezelő;
+7. egyéb pénzügyi szervezet: a pénzügyi vállalkozás;
 
 8. pénzügyi vállalkozás: a Hpt. szerinti pénzügyi vállalkozás, ide nem értve a Tanács 1083/2006/EK rendeletének 44. cikk b) pont (ii) alpontja alapján felmerülő feladatok ellátására létrejött pénzügyi vállalkozást, továbbá a kizárólag csoportfinanszírozást végző pénzügyi vállalkozást;
 
 9.
 
-10. tőzsde: a tőkepiacról szóló törvény (a továbbiakban: Tpt.) szerinti tőzsde;
+10.
 
-11. árutőzsdei szolgáltató: a Bszt. szerinti árutőzsdei szolgáltató;
+11.
 
-12. kockázati tőkealap-kezelő: Kbftv. szerinti kockázati tőkealap-kezelő;
+12.
 
-13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő, ide nem értve a kockázati tőkealap-kezelőt;
+13. befektetési alapkezelő: a Kbftv. szerinti befektetési alapkezelő, ide nem értve a Kbftv. szerinti kockázatitőkealap-kezelőt;
 
 14. módosított mérlegfőösszeg: az éves beszámoló mérlegében szereplő eszközök értékének együttes összege (a mérlegfőösszeg), csökkentve
 
@@ -74,15 +74,7 @@ n) a j) pont szerinti nyilatkozat hibájából eredő adóhiány és az ahhoz ka
 
 18.
 
-19. korrigált nettó árbevétel:
-
-a)
-
-b) tőzsdénél: a tőzsdei tevékenység bevételei növelve a számvitelről szóló 2000. évi C. törvény 77. § (3) bekezdés k)–o) pontjai hatálya alá tartozó egyéb bevételeken kívüli egyéb bevételekkel;
-
-c) az árutőzsdei szolgáltatást kizárólagosan végző árutőzsdei szolgáltatónál, kockázati tőkealap-kezelőnél: az értékesítés nettó árbevétele;
-
-d) az árutőzsdei szolgáltatást nem kizárólagosan végző árutőzsdei szolgáltatónál az e tevékenységekből származó nettó árbevétel;
+19.
 
 20. nettó eszközérték: a befektetési alap portfóliójában szereplő eszközök – ideértve a kölcsönbe adásból származó követeléseket is – értéke, csökkentve a portfóliót terhelő összes kötelezettséggel, beleértve a passzív időbeli elhatárolásokat is;
 
