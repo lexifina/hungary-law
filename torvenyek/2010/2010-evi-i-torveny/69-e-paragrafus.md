@@ -12,7 +12,7 @@ e) az érvényes bejegyzett élettársi kapcsolatnak a magyar jog szerinti kezd�
 
 f) a bejegyzett élettársi kapcsolat megszűnésének, megszüntetésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
 
-g) a b) pontban szereplő adatoknak a bejegyzett élettársi kapcsolat fennállása alatt bekövetkezett változását, valamint a bejegyzett élettársi kapcsolat megszűnését követően a magyar állampolgárság megszerzését és megszűnését,
+g) a b) pontban szereplő adatoknak a bejegyzett élettársi kapcsolat fennállása alatt bekövetkezett változását,
 
 h) az e) és f) pontban szereplő adatok változását,
 

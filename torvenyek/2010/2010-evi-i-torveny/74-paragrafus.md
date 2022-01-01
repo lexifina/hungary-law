@@ -4,8 +4,16 @@
 
 (2) A törölt anyakönyvi bejegyzésről anyakönyvi hatósági bizonyítvány nem állítható ki.
 
-(3) Az anyakönyvi hatósági bizonyítvány tartalmazza a kérelmező
+(3) Az anyakönyvi hatósági bizonyítvány tartalmazza
 
-a) által igazolni kért adatot,
+a) a kérelmező
 
-b) természetes személy természetes személyazonosító adatait és lakcímét, vagy – ha a kérelmező nem természetes személy – nevét, székhelyét vagy telephelyét, képviselőjének nevét.
+aa) által igazolni kért adatot,
+
+ab) természetes személy természetes személyazonosító adatait és lakcímét,
+
+ac) nem természetes személy nevét, székhelyét vagy telephelyét, képviselőjének nevét,
+
+b) a hatósági bizonyítvány felhasználásának a célját,
+
+c) az anyakönyvi bejegyzés folyószámát, évszámát, az anyakönyv megkülönböztető betűjelét.

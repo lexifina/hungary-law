@@ -3,3 +3,5 @@
 (2) A papír alapú anyakönyvbe bejegyzett, de az elektronikus anyakönyvbe be nem jegyezhető adatról kért hatósági bizonyítvány kiállítására a nyilvántartó anyakönyvvezető illetékes.
 
 (3) Az elektronikus anyakönyvbe még be nem jegyzett anyakönyvi bejegyzésről elektronikus úton igényelt anyakönyvi okirat kiállítására a nyilvántartó anyakönyvvezető illetékes. Az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi okirat kiállítására az anyakönyvi okirat iránti kérelemben megjelölt kézbesítési cím szerinti anyakönyvvezető illetékes. Ha a kérelmező az elektronikus anyakönyvben szereplő bejegyzésről elektronikus úton igényelt anyakönyvi kivonatot személyesen kívánja átvenni, az anyakönyvi okirat kiállítására az anyakönyvi okirat kiállítása iránti kérelemben az átvétel helyeként megjelölt települési önkormányzat anyakönyvvezetője illetékes.
+
+(4) Névváltozási hatósági bizonyítvány kiállítására az e törvényben meghatározott esetekben a születést nyilvántartó anyakönyvvezető vagy a névváltoztatási eljárás lefolytatására kijelölt anyakönyvi szerv illetékes.

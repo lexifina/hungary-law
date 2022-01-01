@@ -20,7 +20,7 @@ jogosult.
 
 a) végzi a hazai anyakönyvezést,
 
-b) dönt a névváltoztatási kérelemről,
+b) dönt a névváltoztatási kérelemről és bejegyzi a névváltoztatást,
 
 c) nyilatkozik a házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez benyújtott külföldi okirat elfogadhatóságáról,
 
@@ -35,3 +35,5 @@ g) töröl az apai elismerő nyilatkozatok nyilvántartásából.
 (7) Anyakönyvi kivonat kiállítására az anyakönyvvezető és az anyakönyvi szerv jogosult. Az anyakönyvi szerv az adatoknak a bejegyzésre irányuló eljárásban általa teljesített bejegyzésével összefüggésben jogosult anyakönyvi kivonat kiállítására.
 
 (8) Az anyakönyvi hatósági bizonyítvány kiállítására az anyakönyvvezető jogosult.
+
+(9) A névváltozási hatósági bizonyítványt az anyakönyvvezető vagy a névváltoztatásért felelős anyakönyvi szerv állítja ki.

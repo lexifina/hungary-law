@@ -4,4 +4,4 @@
 
 (2) Az anyakönyvi eljárásokban – a (3) bekezdésben foglaltak kivételével – nincs helye elektronikus ügyintézésnek és a hatóság – a tájékoztatás kivételével – nem tart elektronikusan kapcsolatot.
 
-(3) Az ügyfél az anyakönyvi okiratát és névváltoztatási okiratmásolatát elektronikus azonosítást követően elektronikus kapcsolattartás keretében is kérelmezheti.
+(3) Az ügyfél az anyakönyvi okiratát elektronikus azonosítást követően elektronikus kapcsolattartás keretében is kérelmezheti.

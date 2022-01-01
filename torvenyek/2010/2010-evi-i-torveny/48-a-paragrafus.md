@@ -1,0 +1,1 @@
+48/A. § A volt házastársa nevét viselő személy kérelmére a házassági neve megváltozását az anyakönyvvezető az anyakönyvbe bejegyzi, ha a házasság megszűnt, és igazolható, hogy a volt házastársa nevét a kért formában használta.

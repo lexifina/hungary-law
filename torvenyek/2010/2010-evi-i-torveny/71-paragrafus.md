@@ -74,4 +74,20 @@ fe) az okirat kiállítását elvégző személy nevét és felhasználói azono
 
 ff) az okiratmásolat jellegére utaló megjegyzést.
 
+g) a kiállított névváltozási hatósági bizonyítvány esetén
+
+ga) a kiállító szerv megnevezését és azonosítóját,
+
+gb) az okirat kiállításának idejét,
+
+gc) a névváltoztatást engedélyező döntés számát, azonosítóját, valamint az igazolt adatok körét,
+
+gd) a kiállítását kérő természetes személy ügyfél természetes személyazonosító adatait és lakcímét, illetve a nem természetes személy ügyfél nevét, székhelyét vagy telephelyét, képviselőjének nevét,
+
+ge) a névváltozással érintett személy egyedi elektronikus anyakönyvi azonosítóját,
+
+gf) a névváltozással érintett személy természetes személyazonosító adatait és lakcímét,
+
+gg) az okirat kiállítását elvégző személy nevét és felhasználói azonosítóját.
+
 (3) A (2) bekezdés b) pont ba) és bb) alpontjában, c) pont ca) és cb) alpontjában, e) pont ea) és eb) alpontjában, valamint f) pont fb) és fc) alpontjában meghatározott adatokat az okirat-nyilvántartás határidő nélkül tartalmazza, a (2) bekezdés b) pont bc) és bd) alpontjában, c) pont cc) és cd) alpontjában, e) pont ec) és ed) alpontjában, valamint f) pont fd) és fe) alpontjában meghatározott adatokat az anyakönyvi kivonat kiállítását követő öt év elteltével törölni kell.
