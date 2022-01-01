@@ -1,3 +1,3 @@
-6. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^128]
+6. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^126]
 
-[^128]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

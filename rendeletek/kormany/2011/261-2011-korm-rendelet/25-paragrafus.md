@@ -6,7 +6,7 @@
 
 25. § (1) A tagállamokban székhellyel rendelkező gazdálkodó szervezetek 3,5 tonnát meghaladó megengedett legnagyobb össztömegű tehergépjárművel egymás között vagy egymás területét érintően díj ellenében végzett nemzetközi közúti árutovábbítási tevékenységére vonatkozó további feltételeket – ideértve a bármely megengedett legnagyobb össztömegű tehergépjárművel végzett kabotázs-tevékenységre vonatkozó feltételeket is – megállapító, a nemzetközi közúti árufuvarozási piachoz való hozzáférés közös szabályairól szóló 1072/2009/EK rendeletet az e § (2)–(4) bekezdéseiben foglalt végrehajtási rendelkezésekkel együtt kell alkalmazni.
 
-(2)[^64] A közlekedési hatóság
+(2)[^62] A közlekedési hatóság
 
 a) az árutovábbítási közösségi engedélyt annak a gazdálkodó szervezetnek a részére adja ki, amelynek közúti árutovábbítási engedélye,
 
@@ -18,4 +18,4 @@ van, és megfelel a 612/2012/EU bizottsági rendelettel módosított 1072/2009/E
 
 (4) A közlekedési hatóság a gazdálkodó szervezet részére általa kiadott árutovábbítási közösségi engedélyt (az engedély hiteles másolataival együtt) – az 1072/2009/EK rendeletben meghatározottakon kívül – abban az esetben is felfüggeszti, illetve visszavonja, ha a gazdálkodó szervezet közúti árutovábbítási engedélyét felfüggesztette, illetve visszavonta.
 
-[^64]: A 25. § (2) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
+[^62]: A 25. § (2) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.

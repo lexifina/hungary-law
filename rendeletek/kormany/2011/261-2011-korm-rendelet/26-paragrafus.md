@@ -2,6 +2,6 @@
 
 26. § (1) A Magyarország területén székhellyel rendelkező gazdálkodó szervezeteknek a tagállamokon kívüli államba irányuló, díj ellenében végzett nemzetközi közúti árutovábbítási tevékenységéhez engedély szükséges. Az engedélyt a közlekedési hatóság adja ki.
 
-(2)[^65] Magyarország területén az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjárművel kabotázsként közúti közlekedési szolgáltatási tevékenység a közlekedési hatóság engedélyével végezhető.
+(2)[^63] Magyarország területén az EGT-n kívüli állam hatósági engedélyével és jelzésével ellátott tehergépjárművel kabotázsként közúti közlekedési szolgáltatási tevékenység a közlekedési hatóság engedélyével végezhető.
 
-[^65]: A 26. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^63]: A 26. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 17. § (1) bekezdés f) pontja szerint módosított szöveg.
