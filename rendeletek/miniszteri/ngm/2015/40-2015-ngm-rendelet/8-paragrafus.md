@@ -1,6 +1,6 @@
 8. § (1) A Hatóság által vezetett nyilvántartásban szereplő képző szervek által szervezett képzés és vizsgáztatás feltételeit, valamint a képzés és vizsgáztatás e rendeletben és a vizsgaszabályzatban foglalt feltételeknek megfelelő lebonyolítását a Hatóság jogosult ellenőrizni.
 
-(2)[^10] Az (1) bekezdés szerinti ellenőrzés annak vizsgálatára irányul, hogy a képző szerv folyamatosan teljesíti-e az e rendelet, valamint – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgaszabályzat szerinti követelményeket.
+(2)[^12] Az (1) bekezdés szerinti ellenőrzés annak vizsgálatára irányul, hogy a képző szerv folyamatosan teljesíti-e az e rendelet, valamint – amennyiben vizsgáztatási tevékenységet is ellát – a vizsgaszabályzat szerinti követelményeket.
 
 (3) A Hatóság törli a nyilvántartásból a képző szervet, ha
 
@@ -14,4 +14,4 @@ d) a képző szerv a változás-bejelentési kötelezettségének nem tesz elege
 
 e) a képző szerv a képzési programban foglaltakat megszegi.
 
-[^10]: A 8. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § h) pontja szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § h) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-14. § (1)[^17] A vizsgára történő jelentkezés a 9. melléklet szerinti jelentkezési lap kitöltésével történik, amelyet a képző szerv útján a Hatósághoz kell benyújtani a vizsga megjelölt előzetes időpontját legalább tizenöt nappal megelőzően, míg sikertelen vizsga utáni pótvizsga esetén a pótvizsga megjelölt előzetes időpontját legalább tíz nappal megelőzően.
+14. § (1)[^20] A vizsgára történő jelentkezés a 9. melléklet szerinti jelentkezési lap kitöltésével történik, amelyet a képző szerv útján a Hatósághoz kell benyújtani a vizsga megjelölt előzetes időpontját legalább tizenöt nappal megelőzően, míg sikertelen vizsga utáni pótvizsga esetén a pótvizsga megjelölt előzetes időpontját legalább tíz nappal megelőzően.
 
-(2)[^18] A vizsgára jelentkező a jelentkezési lapon megjelöli a tervezett vizsga helyszínét és előzetes időpontját, valamint nyilatkozik a vizsgaszabályzat elfogadásáról, a sikeres vizsga letétele esetén kiállítandó tanúsítvány kiállításának módjáról.
+(2)[^21] A vizsgára jelentkező a jelentkezési lapon megjelöli a tervezett vizsga helyszínét és előzetes időpontját, valamint nyilatkozik a vizsgaszabályzat elfogadásáról, a sikeres vizsga letétele esetén kiállítandó tanúsítvány kiállításának módjáról.
 
-(3)[^19] A jelentkezési laphoz csatolni kell a 20. § (1) bekezdésében meghatározott vizsgadíj megfizetésére vonatkozó igazolást, valamint – a 11. § (5) bekezdésében meghatározott személyek kivételével – az érettségi bizonyítvány hiteles másolatát vagy az 5. § (3) bekezdés b)–d) pontjában meghatározott, a munkáltató vagy a megbízó által kiállított, szakmai tapasztalatra vonatkozó eredeti igazolást, továbbá a képző szerv által kiállított, a 7. § (1) bekezdésében meghatározott igazolást.
+(3)[^22] A jelentkezési laphoz csatolni kell a 20. § (1) bekezdésében meghatározott vizsgadíj megfizetésére vonatkozó igazolást, valamint – a 11. § (5) bekezdésében meghatározott személyek kivételével – az érettségi bizonyítvány hiteles másolatát vagy az 5. § (3) bekezdés b)–d) pontjában meghatározott, a munkáltató vagy a megbízó által kiállított, szakmai tapasztalatra vonatkozó eredeti igazolást, továbbá a képző szerv által kiállított, a 7. § (1) bekezdésében meghatározott igazolást.
 
 (4) Ha a benyújtott jelentkezés nem felel meg e rendelet rendelkezéseinek, vagy más okból kiegészítésre vagy kijavításra szorul, a Hatóság a jelentkezést – annak beérkezésétől számított nyolc napon belül – a hiány megjelölésével elutasítja.
 
@@ -10,7 +10,7 @@
 
 (6) A Hatóság minden vizsgára jelentkező részére a jelentkezéstől számított két hónapon belül köteles vizsgaidőpontot biztosítani, és arról a jelentkezőt a képző szerv útján írásban értesíteni.
 
-(7)[^20] A Hatóság köteles – vizsgatípusonként – szükséges számú, de
+(7)[^23] A Hatóság köteles – vizsgatípusonként – szükséges számú, de
 
 a) augusztus és december hónapok kivételével havonta legalább kettő,
 
@@ -20,7 +20,7 @@ vizsgát szervezni, és azok előzetes időpontjait legalább három hónappal e
 
 (8) Sikertelen vizsgát követő újabb vizsgára történő jelentkezés a 9. mellékletben megjelölt jelentkezési lap megfelelő kitöltésével történik, amelyhez csatolni kell a vizsgadíj újbóli befizetésére vonatkozó igazolást.
 
-[^17]: A 14. § (1) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § k) pontja szerint módosított szöveg.
-[^18]: A 14. § (2) bekezdése az 5/2020. (VII. 17.) PM rendelet 1. §-ával megállapított szöveg.
-[^19]: A 14. § (3) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § l) pontja szerint módosított szöveg.
-[^20]: A 14. § (7) bekezdése a 21/2016. (VI. 29.) NGM rendelet 15. §-ával megállapított szöveg.
+[^20]: A 14. § (1) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § k) pontja szerint módosított szöveg.
+[^21]: A 14. § (2) bekezdése az 5/2020. (VII. 17.) PM rendelet 1. §-ával megállapított szöveg.
+[^22]: A 14. § (3) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § l) pontja szerint módosított szöveg.
+[^23]: A 14. § (7) bekezdése a 21/2016. (VI. 29.) NGM rendelet 15. §-ával megállapított szöveg.

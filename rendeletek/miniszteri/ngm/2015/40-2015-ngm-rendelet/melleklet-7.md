@@ -1,6 +1,6 @@
-## Tanúsítvány a függő biztosításközvetítői hatósági vizsgáról
+## Hatósági Bizonyítvány a függő biztosításközvetítői hatósági vizsgáról
 
-## Magyar Nemzeti Bank Tanúsítvány száma:
+## Magyar Nemzeti Bank Hatósági bizonyítvány száma:
 
 ## A vizsgázó
 
@@ -16,7 +16,7 @@
 
 ## A vizsga időpontja:
 
-## Jelen tanúsítvány igazolja, hogy a vizsgázó a függő biztosításközvetítői hatósági vizsgát sikeresen letette.
+## Jelen hatósági bizonyítvány igazolja, hogy a vizsgázó a függő biztosításközvetítői hatósági vizsgát sikeresen letette.
 
 ## Budapest, 20............................................................
 
@@ -26,4 +26,6 @@
 
 ## aláírás
 
-7. melléklet a 40/2015. (XII. 30.) NGM rendelethez
+7. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^39]
+
+[^39]: A 7. melléklet a 14/2021. (XII. 8.) PM rendelet 8. § e)–g) pontja szerint módosított szöveg.

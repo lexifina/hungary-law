@@ -1,6 +1,6 @@
-## Tanúsítvány a tőkepiaci üzletkötői hatósági vizsgáról
+## Hatósági Bizonyítvány a tőkepiaci üzletkötői hatósági vizsgáról
 
-## Magyar Nemzeti Bank Tanúsítvány száma:
+## Magyar Nemzeti Bank Hatósági bizonyítvány száma:
 
 ## A vizsgázó
 
@@ -16,7 +16,7 @@
 
 ## A vizsga időpontja
 
-## Jelen tanúsítvány igazolja, hogy a vizsgázó a tőkepiaci üzletkötői hatósági vizsgát sikeresen letette.
+## Jelen hatósági bizonyítvány igazolja, hogy a vizsgázó a tőkepiaci üzletkötői hatósági vizsgát sikeresen letette.
 
 ## Budapest, 20............................................................
 
@@ -26,6 +26,6 @@
 
 ## aláírás
 
-9. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^34]
+9. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^41]
 
-[^34]: A 9. melléklet az 5/2020. (VII. 17.) PM rendelet 3. §-ával megállapított szöveg.
+[^41]: A 9. melléklet az 5/2020. (VII. 17.) PM rendelet 3. §-ával megállapított, a 14/2021. (XII. 8.) PM rendelet 8. § e) pontja szerint módosított szöveg.

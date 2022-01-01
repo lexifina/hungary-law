@@ -36,7 +36,7 @@
 
 ## Megismételt vizsga esetén az előző, sikertelen vizsga helyszíne és időpontja:
 
-## Sikeres vizsga letétele esetén a tanúsítvány papíralapú kiállítását kérem: □
+## Sikeres vizsga letétele esetén a hatósági bizonyítvány papíralapú kiállítását kérem: □
 
 ## Aláírásommal igazolom, hogy a vizsgaszabályzatot megismertem, és annak feltételeit elfogadom.
 
@@ -48,6 +48,6 @@
 
 ## Megjegyzés:
 
-10. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^35]
+10. melléklet a 40/2015. (XII. 30.) NGM rendelethez[^42]
 
-[^35]: A 10. melléklet a 21/2016. (VI. 29.) NGM rendelet 24. § d) pontja alapján nem lép hatályba.
+[^42]: A 10. melléklet a 21/2016. (VI. 29.) NGM rendelet 24. § d) pontja alapján nem lép hatályba.
