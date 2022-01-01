@@ -2,7 +2,7 @@
 
 ## A rendelet hatálya
 
-1. § (1)[^1] A rendelet hatálya kiterjed:
+1. § (1)[^2] A rendelet hatálya kiterjed:
 
 a) a bányafelügyelet hatáskörébe tartozó létesítményekbe telepített, ott üzemeltetett, valamint a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásának szabályairól és hatósági felügyeletéről szóló jogszabály alapján folytatott tevékenység végzésének eszközparkját képező azon nyomástartó berendezésekre, nyomástartó rendszerekre, létesítményekre és egyszerű nyomástartó edényekre (a továbbiakban: nyomástartó berendezés), amelyekben a legnagyobb megengedhető nyomás (PS) a 0,5 bar értéket meghaladja,
 
@@ -22,11 +22,11 @@ d) a föld alatti gáztárolás felszíni létesítményeinek, valamint a kőola
 
 e) a laboratóriumban kizárólag tudományos kutatás, kísérlet, minőség-ellenőrzés céljára szolgáló berendezésre,
 
-f)[^2] arra a nyomástartó edényre – töltetre és nyomásra való tekintet nélkül –, melynek teljes űrtartalma 25,0 liternél nem nagyobb, kivéve a bányaüzemekben használt bányamentő készülékek gázpalackjait,
+f)[^3] arra a nyomástartó edényre – töltetre és nyomásra való tekintet nélkül –, melynek teljes űrtartalma 25,0 liternél nem nagyobb, kivéve a bányaüzemekben használt bányamentő készülékek gázpalackjait,
 
 g) a legfeljebb 10,0 bar túlnyomáson üzemelő, folyadékkal teljesen feltöltött nyomástartó edényre, amennyiben a töltete az R. 17. § (2) bekezdés b) pontja szerinti 2. csoportba tartozik,
 
-h)[^3] a vízellátó vagy melegvíz-ellátó berendezés legfeljebb 10,0 bar túlnyomáson és legfeljebb 110 °C-on működő edényére,
+h)[^4] a vízellátó vagy melegvíz-ellátó berendezés legfeljebb 10,0 bar túlnyomáson és legfeljebb 110 °C-on működő edényére,
 
 i) az erőátviteli hidraulikus berendezés önálló nyomástartó edényt nem képező részére,
 
@@ -34,17 +34,17 @@ j) a dugattyús, forgódugattyús, körforgó gép és különálló edényt nem
 
 k) az elektromos kapcsoló és szakaszoló azon nyomástartó edényére, amely nagyfeszültségű villamos rendszerrel közös zárt térben van felszerelve,
 
-l) a külön jogszabályban[^4] meghatározott kazánra,
+l) a külön jogszabályban[^5] meghatározott kazánra,
 
-m)[^5] a vasúti tartálykocsikra, a közúti tartályjárművekre és a belvízi tartályhajókra,
+m)[^6] a vasúti tartálykocsikra, a közúti tartályjárművekre és a belvízi tartályhajókra,
 
-n)[^6] a földgázellátásról szóló törvényben meghatározott elosztóvezetékre, kivéve a propán-bután gáz elosztóvezeték megtáplálását biztosító tartályt.
+n)[^7] a földgázellátásról szóló törvényben meghatározott elosztóvezetékre, kivéve a propán-bután gáz elosztóvezeték megtáplálását biztosító tartályt.
 
 (3) A nyomástartó berendezések műszaki és biztonsági követelményeire külön jogszabályok, szabályzatok előírásai vonatkoznak.
 
-[^1]: Az 1. § (1) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^2]: Az 1. § (2) bekezdés f) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^3]: Az 1. § (2) bekezdés h) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^4]: A nyomástartó és töltőlétesítmények műszaki-biztonsági hatósági felügyeletéről szóló 63/2004. (IV. 24.) GKM rendelet.
-[^5]: Az 1. § (2) bekezdés m) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
-[^6]: Az 1. § (2) bekezdés n) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^2]: Az 1. § (1) bekezdése a 273/2009. (XII. 3.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^3]: Az 1. § (2) bekezdés f) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^4]: Az 1. § (2) bekezdés h) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^5]: A nyomástartó és töltőlétesítmények műszaki-biztonsági hatósági felügyeletéről szóló 63/2004. (IV. 24.) GKM rendelet.
+[^6]: Az 1. § (2) bekezdés m) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
+[^7]: Az 1. § (2) bekezdés n) pontja a 273/2009. (XII. 3.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 20. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.

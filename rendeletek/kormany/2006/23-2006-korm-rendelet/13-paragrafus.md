@@ -1,6 +1,6 @@
-## 12/A. §[^64] A 13. § szerinti átalakítási engedély alapján átalakított vagy bejelentés alapján javított nyomástartó berendezés használatbavételére a 10–12. § rendelkezéseit kell megfelelően alkalmazni.
+## 12/A. §[^65] A 13. § szerinti átalakítási engedély alapján átalakított vagy bejelentés alapján javított nyomástartó berendezés használatbavételére a 10–12. § rendelkezéseit kell megfelelően alkalmazni.
 
-## Átalakítási engedélyezési eljárás, javítás bejelentése[^65]
+## Átalakítási engedélyezési eljárás, javítás bejelentése[^66]
 
 13. § (1) A bányafelügyelet engedélye szükséges a nyomástartó berendezés minden olyan átalakításához, amely a 12. § (3) bekezdésében felsoroltakat meghaladja.
 
@@ -52,5 +52,5 @@ c) a javítás műszaki vezetőjének a nevét, címét és képesítését,
 
 d) a javítási tevékenység rövid leírását.
 
-[^64]: A 12/A. §-t az 559/2013. (XII. 31.) Korm. rendelet 38. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 40. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^65]: Az „Átalakítási engedélyezési eljárás, javítás bejelentése” alcím (13. §) a 360/2019. (XII. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^65]: A 12/A. §-t az 559/2013. (XII. 31.) Korm. rendelet 38. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 40. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^66]: Az „Átalakítási engedélyezési eljárás, javítás bejelentése” alcím (13. §) a 360/2019. (XII. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
