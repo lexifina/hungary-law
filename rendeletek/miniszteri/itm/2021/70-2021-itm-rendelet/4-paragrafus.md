@@ -1,9 +1,3 @@
-## 3. § A Rendelet 4. §-a a következő 28. és 29. ponttal egészül ki:
+## 3. §[^3]
 
-## [Az EUMSz 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat]
-
-## „28. 3. sora alapján SA.59448 sz. bizottsági határozat szerinti vasúti egyes kocsi teherfuvarozásra nyújtott támogatás;
-
-## 29. 23. sora alapján a 651/2014/EU bizottsági rendelet 56c. cikke szerinti belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás.”
-
-## (nyújtható.)
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

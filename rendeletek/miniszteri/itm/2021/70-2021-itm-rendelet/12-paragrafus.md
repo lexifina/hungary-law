@@ -1,25 +1,18 @@
-## 11. § A Rendelet 76. §-a a következő q) és r) ponttal egészül ki:
+## 11. §[^9]
 
-## (E Rendelet)
+12. § (1)[^10]
 
-## „q) az Európai Bizottságnak az SA.59448 (2020/N) számú ügyben hozott C(2021) 4103 final számú határozata,
+(2)[^11]
 
-## r) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet módosításáról szóló, 2021. július 23-i (EU) 2021/1237 bizottsági rendelet”
+(3)[^12]
 
-## (hatálya alá tartozó támogatás tartalmaz.)
+(4) A Rendelet 1. melléklete helyébe a 4. melléklet lép.
 
-12. § (1) A Rendelet 1. melléklete az 1. melléklet szerint módosul.
+(5) A Rendelet 2. melléklete helyébe az 5. melléklet lép.
 
-(2) A Rendelet 2. melléklete a 2. melléklet szerint módosul.
+(6) A Rendelet 3. melléklete helyébe a 6. melléklet lép.
 
-(3) A Rendelet a 3. melléklet szerinti 3. melléklettel egészül ki.
-
-(4)[^3]
-
-(5)[^4]
-
-(6)[^5]
-
-[^3]: A 12. § (4) bekezdése a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^4]: A 12. § (5) bekezdése a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
-[^5]: A 12. § (6) bekezdése a 15. § (2) bekezdése alapján 2022. január 1-jén lép hatályba.
+[^9]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 12. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 12. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
