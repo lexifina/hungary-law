@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-489-20-
 | 2019-09-01 | 2015-489-20-22.6 | 204/2019. (VIII. 23.) Korm. rendelet |
 | 2020-01-02 | 2015-489-20-22.7 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2020-03-21 | 2015-489-20-22.8 | 36/2020. (III. 5.) Korm. rendelet |
+| 2022-01-01 | 2015-489-20-22.9 | 767/2021. (XII. 23.) Korm. rendelet |
