@@ -1,0 +1,7 @@
+159/C. § (1) Az ügyfélszolgálati pontok megszűnésével az ügyfélszolgálati pontokon keletkezett papíralapú dokumentumokat a hivatal részére kell átadni, az elektronikus formában rendelkezésre álló dokumentumokat pedig a főtitkár részére kell megküldeni legkésőbb 2022. február 15. napjáig.
+
+(2) A miniszter 2022. február 15-ig gondoskodik a módszertani levelek kormányzati portálról történő eltávolításáról.
+
+(3) Az etikai bizottság megszűnik, elnöke és tagjai 2022. január 1-jén a fegyelmi bizottság tagjává válnak. Az etikai bizottság elnökének feladatait 2022. január 1-jétől a fegyelmi bizottság elnöke látja el. A 2021. december 31-én folyamatban lévő etikai eljárásokban az eljáró etikai tanács az eljárás megindításáról rendelkező határozatának meghozatalakor – a 157. § (4) bekezdésében foglaltak figyelembevételével – alkalmazandó szabályok szerint jár el azzal, hogy megismételt eljárásban vagy az eljáró etikai tanács határozatképtelenné válása esetén az új eljáró tanácsot a fegyelmi tanács kijelölésére vonatkozó szabályok szerint kell kijelölni. A 2021. december 31-én vagy azt megelőzően elkövetett azon etikai vétséget, amely miatt etikai eljárás 2021. december 31-ig nem indult, a fegyelmi eljárás szabályai szerint kell lefolytatni azzal, hogy a vétség miatt az elkövetéskor hatályos etikai kódex szerinti jogkövetkezményt kell alkalmazni.
+
+(4) Az egyes igazságügyi tárgyú, valamint kapcsolódó törvények módosításáról szóló 2021. évi CXXII. törvénnyel módosított 93. §-t a 2022. január 1-jén vagy azt követően elkövetett fegyelmi vétségekre kell alkalmazni.

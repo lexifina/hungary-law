@@ -8,7 +8,7 @@ a) a cselekmény elévült,
 
 b) az annak tárgyát képező cselekményt fegyelmi vagy etikai eljárás során már jogerősen elbírálták,
 
-c) a sérelmezett cselekmény a 93. § (1) vagy (2) bekezdése alapján nem minősül fegyelmi vétségnek,
+c) a sérelmezett cselekmény nem minősül fegyelmi vétségnek,
 
 d) a kérelem és mellékletei alapján a fegyelmi vétség elkövetésének alapos gyanúja nem állapítható meg,
 

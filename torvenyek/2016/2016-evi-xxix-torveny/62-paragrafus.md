@@ -10,7 +10,7 @@ d) véleményezési jogot gyakorol a szakértői tevékenységet érintő jogsza
 
 e) szervezi az igazságügyi szakértők, szakértőjelöltek szakértői munkával összefüggő szakmai továbbképzését, ennek során együttműködik a szakmai, civil szervezetekkel, más szakmai kamarákkal,
 
-f) megalkotja a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét és az etikai eljárási szabályzatot, továbbá e törvényben meghatározott esetekben az igazságügyi szakértővel szemben fegyelmi eljárást folytat le, nyilvántartja a jogerős fegyelmi határozatokat,
+f) megalkotja a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét, továbbá e törvényben meghatározott esetekben az igazságügyi szakértővel szemben fegyelmi eljárást folytat le, nyilvántartja a jogerős fegyelmi határozatokat,
 
 g) az igazságügyi szakértői tevékenységre vonatkozó szakmai iránymutatást ad ki,
 

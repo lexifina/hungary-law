@@ -58,7 +58,7 @@ d) elfogadja a kamarai tagdíj mértékéről, a Kamara által nyújtott szolgá
 
 e) elfogadja az alapszabályt és a Kamara szervezeti és működési szabályzatát,
 
-f) elfogadja a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét, az etikai eljárási szabályzatot és
+f) elfogadja a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét és
 
 g) beszámoltatja a bizottságokat, azok tisztségviselőit és tagjait.
 

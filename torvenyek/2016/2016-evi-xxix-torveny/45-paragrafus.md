@@ -44,7 +44,7 @@ n) eseti szakértő kirendelése esetén az arra történő felhívást, hogy a 
 
 a) a személyére nézve törvényben meghatározott kizáró ok áll fenn,
 
-b) a feltett kérdések megválaszolása egészben vagy részben nem tartozik azon szakismeretei körébe, amelyekben a szakértő a rá irányadó szabályok szerint jogosult eljárni,
+b) a feltett kérdések megválaszolása egészben vagy részben nem tartozik azon szakismeretek körébe, amelyekben a szakértő a rá irányadó szabályok szerint jogosult eljárni, vagy oda tartozik ugyan, de a szakterületen belül általa nem gyakorolt olyan részterületre vonatkozik, amelyben jogszabályi felhatalmazás hiányában nem járhat el,
 
 c) a szakértői tevékenységének ellátásában fontos ok akadályozza, így különösen, ha tevékenysége ellátásának vagy részvizsgálatok elvégzésének feltételei nincsenek meg, vagy más hatóság felkérésének kell eleget tennie,
 

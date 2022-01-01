@@ -8,7 +8,7 @@ b) meghalt.
 
 (2) Az igazságügyi szakértő kamarai tagságát meg kell szüntetni, ha
 
-a) ezt az igazságügyi szakértő kéri,
+a)
 
 b) a Kamarából kizárták,
 

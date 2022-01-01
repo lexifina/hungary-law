@@ -24,7 +24,7 @@ d) fegyelmi tárgyalást tűz ki.
 
 a) a kérelmet már a fegyelmi tanács kijelölése nélkül el kellett volna utasítani, kivéve a 109. § (1) bekezdés c) pontjában foglalt okot,
 
-b) a sérelmezett cselekmény a 93. § (1) és (2) bekezdése alapján nem minősül fegyelmi vétségnek,
+b) a sérelmezett cselekmény nem minősül fegyelmi vétségnek,
 
 c) a cselekmény elévülése miatt az eljárás megindítását meg kellett volna tagadni vagy
 

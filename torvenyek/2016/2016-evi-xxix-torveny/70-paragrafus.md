@@ -12,7 +12,7 @@ b) az elnökség,
 
 c) a fegyelmi bizottság,
 
-d) az etikai bizottság,
+d)
 
 e) a számvizsgáló bizottság,
 
@@ -26,6 +26,6 @@ i) a hivatal.
 
 (2) Az (1) bekezdésben felsorolt szerveken kívül az alapszabályban meghatározott, más bizottság is alapítható.
 
-(3) A Kamara az igazságügyi szakértők területi megoszlására figyelemmel a hatékonyabb kamarai működés és az igazságügyi szakértők ügyintézésének megkönnyítése céljából területi ügyfélszolgálati pontokat működtet. A területi ügyfélszolgálati pontok a Kamara szerveként működnek, önálló jogi személyiséggel nem rendelkeznek.
+(3)
 
 (4) A Kamara szervezetének és működésének e törvényben nem részletezett szabályait a Kamara szervezeti és működési szabályzata állapítja meg.

@@ -1,6 +1,6 @@
 ## 39. A fegyelmi bizottság
 
-79. § (1) A küldöttgyűlés a Kamara tagjai közül az igazságügyi szakértők területi eloszlására figyelemmel megválasztja a tizenöt tagú fegyelmi bizottság tizennégy tagját.
+79. § (1) A küldöttgyűlés a Kamara tagjai közül az igazságügyi szakértők területi eloszlására figyelemmel megválasztja a harminc tagú fegyelmi bizottság huszonkilenc tagját.
 
 (2) A fegyelmi bizottság felelős a fegyelmi eljárások lefolytatásáért. A fegyelmi bizottság évente egyszer beszámol a tevékenységéről a küldöttgyűlésnek.
 

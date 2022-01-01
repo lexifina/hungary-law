@@ -14,7 +14,7 @@ f) előkészíti és a küldöttgyűlés elé terjeszti a kamarai tagdíj mért�
 
 g) előkészíti és elfogadja a szakértőjelölti igazolvány kiadásáról és külalakjáról szóló szabályzatot, a szakértőjelöltek kötelező képzéseiről és számonkéréseiről, különösen a szakértés alapismeretéről szóló elméleti képzésről szóló szabályzatot, a szakértőjelöltet foglalkoztató mentorokat megillető kedvezményeket és egyéb juttatásokat előíró szabályzatot, a szakértőjelöltekkel kapcsolatos egyéb szabályzatokat, valamint a módszertani levél kiadásának részletes szabályairól szóló szabályzatot,
 
-h) előkészíti és a küldöttgyűlés elé terjeszti a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét és az etikai eljárási szabályzatot,
+h) előkészíti és a küldöttgyűlés elé terjeszti a fegyelmi eljárási szabályzatot, az igazságügyi szakértők etikai kódexét,
 
 i) elvégzi a küldöttgyűlés által meghatározott egyéb feladatokat,
 

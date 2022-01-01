@@ -20,7 +20,7 @@
 
 9. kirendelés: az igazságügyi szakértő eljárását megalapozó bírósági, közjegyzői, bírósági végrehajtói, ügyészségi, rendőrségi vagy jogszabályban meghatározott más hatóság által meghozott döntés, amely minden esetben az igazságügyi szakértői tevékenység kifejtésére való felhívást tartalmazza, így különösen a polgári perrendtartásról szóló törvény vagy a közigazgatási perrendtartásról szóló törvény szerinti végzés, a büntetőeljárásról szóló törvény szerinti határozat, az általános közigazgatási rendtartásról szóló törvény szerinti végzés, valamint a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvény szerinti határozat,
 
-10. kompetenciavétség: az a fegyelmi vétség, amelyet az igazságügyi szakértő az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben meghatározott rendelkezések megszegésével követ el,
+10. kompetenciavétség: az a fegyelmi vétség, amelyet az igazságügyi szakértő a névjegyzékbe bejegyzett szakterületén kívüli más, az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló miniszteri rendeletben meghatározott szakterületre tartozó eljárásával követ el,
 
 11. külön minősítéssel rendelkező igazságügyi szakértő: olyan igazságügyi szakértő, aki nemzetközi vagy hazai szakmai szervezet akkreditált minősítő testülete által létrehozott személyi szakmai minősítést szerzett, amely garantálja az adott szakterületen a kiemelkedő képzettséget és szakértelmet, illetve a szakmai tapasztalatot, a folyamatos szakmai fejlődést és függetlenséget,
 

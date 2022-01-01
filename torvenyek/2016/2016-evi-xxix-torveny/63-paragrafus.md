@@ -10,7 +10,7 @@ c) kamarai tagdíj meg nem fizetése miatt a kamarai tagság megszüntetése,
 
 d) a kamarai tagság 68. § (1) bekezdésében meghatározott szüneteltetésének engedélyezése és
 
-e) a kamarai tagság 69. § (1) bekezdésében meghatározott okból történő felfüggesztése.
+e) a kamarai tagság 69. § (1) és (1a) bekezdésében meghatározott okból történő felfüggesztése.
 
 (2) A Kamara döntései ellen az e törvényben meghatározott esetekben fellebbezésnek van helye.
 

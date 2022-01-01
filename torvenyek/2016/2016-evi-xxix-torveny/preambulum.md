@@ -2,6 +2,4 @@ A szakértői bizonyítás jelentőségének növekedése szoros összefüggésb
 
 A fent írt új tendenciák olyan minőségi változásokat idéztek elő a bírósági és hatósági eljárásokban, különösen a szakértői bizonyítással kapcsolatban, amelyek egyre több országban tették szükségessé e jogintézmény minden részletre kiterjedő, átfogó elemzését és újraszabályozását.
 
-Az említett minőségi változásokat követő elégtelen reakciók, az igazságügyi szakértői működéssel összefüggésben felmerült aggályok, valamint a kamarai rendszer működésének a közelmúltban előtérbe került problémái elvezettek az igazságügyi szakértésbe és az igazságszolgáltatásba vetett közbizalom megrendüléséhez.
-
 Mindezekre tekintettel az Országgyűlés az igazságügyi szakértői tevékenység és az igazságügyi szakértői szervezet megújítása, valamint az igazságügyi szakértésbe és az igazságszolgáltatásba vetett közbizalom erősítése céljából a következő törvényt alkotja:

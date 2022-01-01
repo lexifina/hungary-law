@@ -32,6 +32,8 @@ A Kamara által a szakértőjelöltekről vezetett szakértőjelölti nyilvánta
 
 1.14. az igazgatási ügyiratok ügyszáma;
 
-1.15. a szakértőjelölt ellen közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye,
+1.15. a szakértőjelölt ellen közvádra üldözendő szándékos bűncselekmény miatt indult eljárás megindításának, megszüntetésének, illetve befejezésének ténye;
 
-1.16. a szakértőjelölt tevékenységével kapcsolatos közlemények („közlemények”).
+1.16. a szakértőjelölt tevékenységével kapcsolatos közlemények („közlemények”);
+
+1.17. a szakértőjelölti névjegyzékbe történő bejegyzés időpontja.

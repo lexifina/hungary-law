@@ -4,9 +4,11 @@
 
 a) a 13. § (1) bekezdésében felsorolt okok fennállása esetén az igazságügyi szakértőt a névjegyzékből törli,
 
-b) az 55. § (1) bekezdésében meghatározott valamely ok észlelése esetén, az 55. § (3) bekezdésében foglaltak alapján jár el vagy
+b) az 55. § (1) bekezdésében meghatározott valamely ok észlelése esetén, az 55. § (3) bekezdésében foglaltak alapján jár el,
 
-c) fegyelmi vétség alapos gyanúja esetén fegyelmi eljárás megindítását kezdeményezheti a Kamara fegyelmi bizottságánál.
+c) a 69. § (1a) bekezdésben felsorolt okok fennállása esetén az igazságügyi szakértő kamarai tagságának felfüggesztését kezdeményezi a Kamaránál, vagy
+
+d) fegyelmi vétség alapos gyanúja esetén fegyelmi eljárás megindítását kezdeményezheti a Kamara fegyelmi bizottságánál.
 
 (2) A hatósági ellenőrzés keretében a szakértő tevékenységét a névjegyzéket vezető hatóság bármikor megvizsgálhatja, és ennek során közvetlenül a szakértőtől bekérheti a szakértői tevékenységről vezetett nyilvántartást.
 
