@@ -1,0 +1,1 @@
+## 5. § Ha a tárgyévben 90 naptári napot meghaladóan az egészségügyi intézmények egészségügyi szolgáltatásait is érintő veszélyhelyzet vagy válsághelyzet bevezetésére kerül sor, az adott évre vonatkozó szakmai minőségértékelés nem végezhető el.
