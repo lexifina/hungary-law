@@ -12,7 +12,7 @@ c) a 6. melléklet 1–4. pontjában,
 
 d) a 7. melléklet 2. pontjában,
 
-e)[^47] a 8. melléklet 2–8., 10. és 19. pontjában,
+e)[^47] a 8. melléklet 2–8., 10. pontjában,
 
 f) a 9. melléklet 1. pontjában,
 
@@ -26,5 +26,5 @@ g) a 10. melléklet 1. pontjában
 [^44]: A 13. § (1) bekezdés záró szövegrésze a 488/2013. (XII. 17.) Korm. rendelet 4. §-a, a 379/2016. (XII. 2.) Korm. rendelet 137. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^45]: A 13. § (1) bekezdés a) pontja a 476/2016. (XII. 27.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^46]: A 13. § (1) bekezdés b1) pontját a 228/2012. (VIII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 372/2016. (XI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^47]: A 13. § (1) bekezdés e) pontja a 233/2017. (VIII. 14.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^47]: A 13. § (1) bekezdés e) pontja a 233/2017. (VIII. 14.) Korm. rendelet 11. §-ával megállapított, a 789/2021. (XII. 27.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^48]: A 13. § (2) bekezdése a 171/2014. (VII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.
