@@ -1,0 +1,3 @@
+## 37. § A vízvédelmi igazgatási feladatokat ellátó szervek kijelöléséről, és egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 366/2015. (XII. 2.) Korm. rendelet 4. § v) pontjában az „a Magyar Bányászati és Földtani Szolgálat” szövegrész helyébe az „az állami földtani feladatokat ellátó Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg és a „kormányrendelet” szövegrész helyébe a „jogszabály” szöveg lép.
+
+## 26. Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet módosítása

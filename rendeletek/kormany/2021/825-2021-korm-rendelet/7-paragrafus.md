@@ -1,0 +1,3 @@
+## 6. § A Bt. vhr 12. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A végleges határozatot és a megállapított bányatelek térképét a bányafelügyelet záradékával ellátva meg kell küldeni a kérelmezőnek, valamint szilárdásványra megállapított bányatelek esetén az ingatlanügyi hatóságnak, a bányatelek mint jogi jelleg ingatlan-nyilvántartásba történő feljegyzése céljából. Ha a megállapított bányatelek nem az egész ingatlant érinti, a határozathoz a bányafelügyelet mellékeli az ingatlan bányatelekkel érintett részét ábrázoló, közigazgatási határonként egy vagy több ingatlant is tartalmazó, az ingatlanügyi hatóság által záradékolt változási vázrajzot is.”
