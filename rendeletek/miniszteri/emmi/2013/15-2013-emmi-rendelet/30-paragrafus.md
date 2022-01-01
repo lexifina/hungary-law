@@ -1,6 +1,6 @@
 ## 12. A kiemelten tehetséges gyermekek, tanulók gondozása
 
-30. § (1)[^131] Az Nkt. 18. § (2) bekezdés i) pontja szerinti, a kiemelten tehetséges gyermekek, tanulók gondozása keretében az Intézmény feladata:
+30. § (1)[^136] Az Nkt. 18. § (2) bekezdés i) pontja szerinti, a kiemelten tehetséges gyermekek, tanulók gondozása keretében az Intézmény feladata:
 
 a) korai tehetség-felismerés, tehetségazonosítás, amelynek során a tehetség életkori megjelenését figyelembe kell venni,
 
@@ -26,7 +26,7 @@ k) tehetségfejlesztő műhelyek vezetői számára konzultációs lehetőség b
 
 (2) A tehetséggondozó koordinátor
 
-a)[^132] kapcsolatot tart a nevelési-oktatási, illetve szakképző intézmények iskolapszichológusaival, óvodapszichológusaival,
+a)[^137] kapcsolatot tart a nevelési-oktatási, illetve szakképző intézmények iskolapszichológusaival, óvodapszichológusaival,
 
 b) kapcsolatot tart a Nemzeti Tehetségponttal,
 
@@ -34,8 +34,8 @@ c) ismeri, figyelemmel kíséri a Nemzeti Tehetségügyi Adatbázist,
 
 d) ismeri, figyelemmel kíséri a Nemzeti Tehetség Program pályázati kiírásait,
 
-e)[^133] kapcsolatot tart a Nemzeti Tehetségfejlesztési Központtal.
+e)[^138] kapcsolatot tart a Nemzeti Tehetségfejlesztési Központtal.
 
-[^131]: A 30. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 20. pontja szerint módosított szöveg.
-[^132]: A 30. § (2) bekezdés a) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
-[^133]: A 30. § (2) bekezdés e) pontja a 45/2016. (XII. 28.) EMMI rendelet 8. §-a szerint módosított szöveg.
+[^136]: A 30. § (1) bekezdés nyitó szövegrésze az 53/2016. (XII. 29.) EMMI rendelet 47. § 20. pontja szerint módosított szöveg.
+[^137]: A 30. § (2) bekezdés a) pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^138]: A 30. § (2) bekezdés e) pontja a 45/2016. (XII. 28.) EMMI rendelet 8. §-a szerint módosított szöveg.

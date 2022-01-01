@@ -1,4 +1,4 @@
-2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^193]
+2. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^198]
 
 A szakértői vizsgálat eljárásrendje
 
@@ -70,4 +70,4 @@ A hivatalból elrendelt felülvizsgálattal megbízott munkatárs a beérkezett 
 
 A bizottságvezető kijelöli a vizsgálatvezetőt és a vizsgálatban résztvevőket, elkészíti a felülvizsgálatok ütemtervét, dönt arról, hogy a felterjesztő intézményben, vagy a bizottság székhelyén történjék-e a vizsgálat, és írásban értesíti az intézményeket a vizsgálat helyéről és időpontjáról.
 
-[^193]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^198]: A 2. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 12. és 13. pontja, a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 20. pontja szerint módosított szöveg.

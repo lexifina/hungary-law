@@ -4,7 +4,7 @@
 
 (2)[^28] A korai fejlesztés és gondozás megkezdésére a szakértői bizottság tesz javaslatot.
 
-(2a)[^29] A szakértői bizottság a tizennyolc hónapnál fiatalabb gyermek esetében szakértői véleményét a gyermek külön vizsgálata nélkül, a neonatológia, csecsemő és gyermek fül-orr-gégegyógyászat, audiológia, szemész, ortopédia és traumatológia, gyermek- és ifjúságpszichiátria, fizikális medicina és rehabilitációs orvoslás, orvosi rehabilitáció csecsemő- és gyermekgyógyászat szakterületen, illetve gyermek-neurológia szakorvos által felállított diagnosztikai vélemény és terápiás javaslat alapján is elkészítheti.
+(2a)[^29] A szakértői bizottság a három évnél fiatalabb gyermek esetében szakértői véleményét a gyermek külön vizsgálata nélkül, a neonatológia, csecsemő és gyermek fül-orr-gégegyógyászat, audiológia, szemész, ortopédia és traumatológia, gyermek- és ifjúságpszichiátria, fizikális medicina és rehabilitációs orvoslás, orvosi rehabilitáció csecsemő- és gyermekgyógyászat szakterületen, illetve gyermek-neurológia szakorvos által felállított diagnosztikai vélemény és terápiás javaslat alapján is elkészítheti.
 
 (3) Ha a gyermek bölcsődei nevelésben, gyermekotthoni ellátásban, fogyatékosok nappali intézményében, fogyatékosok ápoló-gondozó bentlakásos intézményében intézményi ellátásban részesül, a korai fejlesztést és gondozást – amennyiben a feladat ellátásához szükséges feltételek biztosítottak – az intézményben kell ellátni. A pedagógiai szakszolgálati intézmény a tanácsadást a szülőn kívül a feladatellátási hely adott gyermekkel foglalkozó szakalkalmazottai részére is biztosítja.
 
@@ -37,7 +37,7 @@ kerül sor.
 [^26]: A 3. alcím címe az 53/2016. (XII. 29.) EMMI rendelet 47. § 3. pontja szerint módosított szöveg.
 [^27]: A 4. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (1) bekezdésével megállapított és 47. § 4. pontja szerint módosított szöveg.
 [^28]: A 4. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^29]: A 4. § (2a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 23. §-a iktatta be.
+[^29]: A 4. § (2a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 23. §-a iktatta be, szövege a 37/2021. (VIII. 31.) EMMI rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^30]: A 4. § (6) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 24. §-ával megállapított szöveg.
 [^31]: A 4. § (7a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 25. §-a iktatta be.
 [^32]: A 4. § (8) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 30. § (1) bekezdésével megállapított szöveg.
